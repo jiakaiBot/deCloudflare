@@ -639,13 +639,16 @@ click.marketing.jpwindustries.com
 cloud.marketing.jpwindustries.com
 comoencasabien.jimdofree.com
 controlion.nf.jentis.com
+cpanel.jocuriagricole.eu
 cpcalendars.jouwwebservice.nl
 cpcalendars.jurisicordinacija.co.rs
 cpcontacts.jouwwebservice.nl
 cpcontacts.jurisicordinacija.co.rs
+data.bookasecuremove.service.justice.gov.uk
 deco.journaldesfemmes.fr
 dex.k8s-ctrlr-01.jschliemann.cloud
 discord.johnturkson.com
+discordembedtest.joecollyer.com
 docs.justia.com
 eclaim.jtbnn.com
 ecommerce-api-dev.jclan.com.br
@@ -661,6 +664,7 @@ grocy.jpruppert.de
 j2logo.com
 jabe-dakservice.nl
 jaegeroslo.no
+jainmahasabhaindore.com
 james-services.hr
 jamiesontree.uk
 janemeredith.com
@@ -672,6 +676,8 @@ javaneh-sasan.ir
 javierborgno.com
 jawaidbross.com
 jaxval.com
+jayantiservice.com
+jayasonindo.com
 jazi.net
 jazminshop.es
 jazzafterhours.net
@@ -697,6 +703,9 @@ jmplanning.net
 jnslp.com
 joaocarlosklein.com.br
 jocelynjordan.bar
+jodiecordell.com
+joesservice.com
+johanna-besmier.fr
 joindiaspora.com
 jokekaviaar.nl
 joktacademy.com
@@ -704,6 +713,8 @@ jolingelectrica.com.co
 jollyrogertelephone.com
 jost-portal.jost-world.com
 journal-bpa.org
+journalsadministrativesystem.com
+jovenescaficultoresnescafe.com
 joyrulez.com
 jpafmat.in
 jpe-services.com
@@ -714,14 +725,18 @@ judi.vip
 jufil.com.pt
 juhanironkainen.fi
 julianelisa.com
+juliebozza.com
 junosys.in
 jurisicordinacija.co.rs
 jurnalbumdes.id
 justconsulting.nl
+justdating4u.com
 justiceclimatique.org
+justinbless.com
 juzborn.com
 jwhite-accounting.com
 khadmat-login.jvmhost.net
+larasindo.joesam0208.com
 law.justia.com
 mail.jurisicordinacija.co.rs
 mail1.jvgas.com
@@ -741,6 +756,7 @@ rakuten-wsxc.justdied.com
 redcap.juntendo.ac.jp
 regulations.justia.com
 repos.jpjr.ca
+shortcut-trainer.jonathanschlitt.de
 sisu-client.cap.jukk.it
 starcash.jamiealarie.com
 swjttodfapi000.jaltest.com
@@ -749,6 +765,7 @@ ticket.jogjabikerendezvous.com
 tickets.jazzaandesjtasie.nl
 va.jamfsupport.systems
 webdisk.jcphotosllc.com
+webdisk.job-dot.site
 webdisk.jouwwebservice.nl
 webdisk.jozefbehrfoundation.co.za
 webdisk.jurisicordinacija.co.rs
@@ -772,7 +789,9 @@ www.jaipurcitycab.in
 www.jaipurmotos.com
 www.jakeorr.co.uk
 www.jal.co.jp
+www.jalex.se
 www.jambotdonuts.com
+www.jamesdouglas-composer.com
 www.jamesgmartin.center
 www.janetjay.com
 www.japan-guide.com
@@ -780,7 +799,9 @@ www.jardiner-malin.fr
 www.jatsecurindoservice.co.id
 www.jawrealtor.com
 www.jbarlowfuneralservice.co.uk
+www.jcpacific.com.my
 www.jdsports.co.uk
+www.jepster.nl
 www.jeremiasmakkonen.fi
 www.jesafety.com
 www.jessismorestore.com
@@ -800,6 +821,7 @@ www.jobs.ac.uk
 www.jobvacancyresult.com
 www.johngrenham.com
 www.jonathan-cook.net
+www.jornalaguarda.com
 www.joseptamarit.com
 www.jounilehtonen.com
 www.journaldunet.com
@@ -812,6 +834,7 @@ www.jtarufn.my.id
 www.julianemng.com
 www.julianhouse.org.uk
 www.julieandbrandy.com
+www.justalittlebitofbacon.com
 www.justinjenkinsdesigns.net
 www.justproz.com
 www.jutta-paulus.de
