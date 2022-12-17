@@ -23799,6 +23799,7 @@ Here's a list of public Fediverse services.
 | `quip.social` | No |
 | `quip.tk` | No |
 | `quippini.net` | No |
+| `quiri.ovh` | No |
 | `quit.im` | No |
 | `quite.exposed` | Yes |
 | `quite.social` | No |
@@ -33234,7 +33235,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,540 |
-| Normal | 25,650 |
+| Normal | 25,651 |
 
 
 ### 22.7% of public Fediverse services are using Cloudflare.
