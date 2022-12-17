@@ -10723,6 +10723,7 @@ Here's a list of public Fediverse services.
 | `ghostlevel.net` | No |
 | `ghostsinultraviolet.com` | Yes |
 | `ghosty.ch` | No |
+| `ghoti.au` | Yes |
 | `ghoti.com.au` | Yes |
 | `ghoti.me` | No |
 | `ghoul.one` | No |
@@ -33145,7 +33146,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,513 |
+| Cloudflare | 7,514 |
 | Normal | 25,589 |
 
 
