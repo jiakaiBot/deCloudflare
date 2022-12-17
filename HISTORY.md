@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-12-19: [CGK (Jakarta) on 2022-12-19](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fbjfyprr6q84)
 - 2022-12-20: [DFW (Dallas) on 2022-12-20](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4ljg2n723d7m)
 - 2022-12-16: [MCI (Kansas City) on 2022-12-16](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kbvbf488xf05)
 - 2022-12-15: [ZRH (Zurich) on 2022-12-15](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/3v6ypw8l9cmv)
