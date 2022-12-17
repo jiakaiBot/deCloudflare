@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,837 |
+| com | 4,838 |
 | social | 2,896 |
 | net | 2,508 |
 | org | 1,817 |
@@ -11227,6 +11227,7 @@ Here's a list of public Fediverse services.
 | `greatview.video` | No |
 | `gred.al` | Yes |
 | `greekgodbod.com` | No |
+| `greenboi.me` | Yes |
 | `greenboys.club` | No |
 | `greendalecommunity.college` | No |
 | `greendragon.pub` | No |
@@ -14172,6 +14173,7 @@ Here's a list of public Fediverse services.
 | `justbennet.com` | No |
 | `justbros.xyz` | No |
 | `justcoding.tech` | Yes |
+| `justdied.com` | No |
 | `justfollow.me.uk` | No |
 | `justgage.blog` | No |
 | `justicewarrior.social` | Yes |
@@ -33231,8 +33233,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,539 |
-| Normal | 25,649 |
+| Cloudflare | 7,540 |
+| Normal | 25,650 |
 
 
 ### 22.7% of public Fediverse services are using Cloudflare.
