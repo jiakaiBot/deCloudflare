@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 4,823 |
 | social | 2,882 |
-| net | 2,500 |
+| net | 2,501 |
 | org | 1,811 |
 | de | 1,660 |
 
@@ -3178,7 +3178,7 @@ Here's a list of public Fediverse services.
 | `bitcoinhackers.org` | Yes |
 | `bitcoinlizard.net` | No |
 | `bitcoinmagazine.social` | No |
-| `bitcoinmastodon.org` | Yes |
+| `bitcoinmastodon.org` | No |
 | `bitcoinplebs.net` | No |
 | `bitcoinsasquatch.com` | No |
 | `bitcointv.com` | No |
@@ -16481,7 +16481,7 @@ Here's a list of public Fediverse services.
 | `lri.ovh` | No |
 | `lrk.sh` | Yes |
 | `lrtg.cf` | No |
-| `lrtg.me` | Yes |
+| `lrtg.me` | No |
 | `lrtg.tk` | No |
 | `lsa.social` | Yes |
 | `lsbt.me` | No |
@@ -18312,6 +18312,7 @@ Here's a list of public Fediverse services.
 | `miffthefox.info` | No |
 | `mifritscher.de` | No |
 | `mig5.net` | No |
+| `mig5.pub` | No |
 | `mig5.social` | No |
 | `migennes.eu` | No |
 | `migennes.net` | No |
@@ -26115,6 +26116,7 @@ Here's a list of public Fediverse services.
 | `shoujo.xyz` | Yes |
 | `shouldagoneoffroad.com` | No |
 | `shouldibuyahorse.com` | No |
+| `shoutbox.net` | Yes |
 | `showoffto.us` | No |
 | `showyou41.win` | Yes |
 | `shpakovsky.ru` | No |
@@ -33143,8 +33145,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,514 |
-| Normal | 25,586 |
+| Cloudflare | 7,513 |
+| Normal | 25,589 |
 
 
 ### 22.7% of public Fediverse services are using Cloudflare.
