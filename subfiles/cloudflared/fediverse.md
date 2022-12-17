@@ -23144,6 +23144,7 @@ Here's a list of public Fediverse services.
 | `posix.gay` | No |
 | `poslac.com` | No |
 | `poslovitch.fr` | No |
+| `possum.city` | Yes |
 | `possum.gay` | No |
 | `possum.land` | Yes |
 | `possumgraveyard.com` | No |
@@ -33199,7 +33200,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,533 |
+| Cloudflare | 7,534 |
 | Normal | 25,623 |
 
 
