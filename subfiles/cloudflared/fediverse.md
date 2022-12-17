@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,831 |
-| social | 2,887 |
-| net | 2,504 |
+| com | 4,832 |
+| social | 2,888 |
+| net | 2,507 |
 | org | 1,814 |
 | de | 1,661 |
 
@@ -2068,6 +2068,7 @@ Here's a list of public Fediverse services.
 | `astro.clinic` | Yes |
 | `astrodon.social` | No |
 | `astrolaboratory.club` | No |
+| `astrologer.cc` | No |
 | `astrolovy.com` | No |
 | `astrometrics.xyz` | No |
 | `astronomique.de` | No |
@@ -8625,6 +8626,7 @@ Here's a list of public Fediverse services.
 | `expression.social` | Yes |
 | `expressional.social` | Yes |
 | `expshift.com` | No |
+| `exquisite.social` | No |
 | `ext.network` | No |
 | `extec.uk` | No |
 | `extinctionrebellion.fr` | No |
@@ -9982,6 +9984,7 @@ Here's a list of public Fediverse services.
 | `frogtown.club` | No |
 | `froidmont.org` | No |
 | `from-arctic.net` | No |
+| `from1972.net` | No |
 | `fromhome.ovh` | No |
 | `fromm.social` | No |
 | `fromouter.space` | Yes |
@@ -12186,7 +12189,7 @@ Here's a list of public Fediverse services.
 | `hjklyubn.jp` | No |
 | `hjkos.com` | No |
 | `hkc.social` | No |
-| `hkdon.com` | No |
+| `hkdon.com` | Yes |
 | `hklbgd.org` | No |
 | `hks.zone` | Yes |
 | `hlad.org` | No |
@@ -12628,6 +12631,7 @@ Here's a list of public Fediverse services.
 | `i-i.im` | Yes |
 | `i-kaohsiung.com` | No |
 | `i-netz.ch` | No |
+| `i-nonaka.net` | No |
 | `i-o.stream` | Yes |
 | `i-red.info` | No |
 | `i-solutions.dev` | No |
@@ -12790,6 +12794,7 @@ Here's a list of public Fediverse services.
 | `igwigg.space` | No |
 | `igyigy.com` | No |
 | `ihatebeinga.live` | Yes |
+| `ihatovo.com` | No |
 | `ihobby.org` | No |
 | `ii.md` | No |
 | `iim.gay` | No |
@@ -16588,7 +16593,7 @@ Here's a list of public Fediverse services.
 | `lumos.network` | No |
 | `lumpen.work` | No |
 | `lumpen.world` | No |
-| `lumpen.xyz` | No |
+| `lumpen.xyz` | Yes |
 | `luna.fyi` | Yes |
 | `luna.town` | No |
 | `luna.tv` | No |
@@ -19395,6 +19400,7 @@ Here's a list of public Fediverse services.
 | `mumbai.sh` | Yes |
 | `mumbled.eu` | No |
 | `mumbled.xyz` | Yes |
+| `mumground.moe` | No |
 | `munchkins.io` | No |
 | `mundodesconocido.com` | No |
 | `mundy.info` | No |
@@ -19966,6 +19972,7 @@ Here's a list of public Fediverse services.
 | `nekojanai.xyz` | No |
 | `nekojimi.moe` | No |
 | `nekojita.moe` | No |
+| `nekokawa.net` | Yes |
 | `nekomimi.jp` | No |
 | `nekomimi.yokohama` | Yes |
 | `nekomin.jp` | No |
@@ -33190,8 +33197,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,528 |
-| Normal | 25,619 |
+| Cloudflare | 7,531 |
+| Normal | 25,623 |
 
 
 ### 22.7% of public Fediverse services are using Cloudflare.
