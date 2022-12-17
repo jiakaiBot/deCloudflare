@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [set up the frontend production infrastructure](https://github.com/VilnaCRM-Org/infrastructure/issues/2)
 - [Error in Use CDN](https://github.com/miladrahimi/v2ray-docker-compose/issues/78)
 - [Nginx Proxy Reverse Not Working With XrayR?](https://github.com/XrayR-project/XrayR/issues/166)
 - [Cloudflare integration failed to connect](https://github.com/home-assistant/core/issues/84113)
