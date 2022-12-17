@@ -238,6 +238,7 @@ zxsftqwr.online
 zycrypto.com
 absidion.ji.zh.ch
 acceptatie.zeelandveilig.nl
+adcs.zopian.net
 adfs.infrastructure.zopa.com
 alaan-test.zulayka.com
 all-service.zapages.co.il
@@ -253,12 +254,15 @@ discord.zorustech.com
 gateway.zscalergov.net
 gog-ws.zt-archiv.at
 impots.gouv.fr.zweirad-center-bullerjahn.de
+javelin.staging.zsservices.com
 juegocoronadearagon.zierzolab.com
 jvc.ziondelivery.app.br
 keycloak.zzieut.com
 koala.zetadns.net
+login.zinki.ai
 p.zpa-auth.net
 paypal-confirmations.zailanco.com
+rd.zero-trust-security.de
 register.zscalertwo.net
 staging2.zeroq.cl
 static.ctw.zusapi.com
@@ -278,6 +282,7 @@ www.sahabafoodbank.zyotee.com
 www.securedserver.zyns.com
 www.secureserver0010.zyns.com
 www.services.zaynark.com.ng
+www.sign-coinbase3-verifylogins43.zyns.com
 www.webclient.zaidexceldesign.com
 www.zacharyjudson.site
 www.zahnarzt-muenchen-neuperlach.de
