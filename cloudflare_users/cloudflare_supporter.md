@@ -7320,6 +7320,7 @@ Do not create new issue or we will close it as duplicate.
 | [NickOneness@twitter](https://twitter.com/NickOneness/status/1471575647709499393) | advertise |
 | [nickwarters@twitter](https://twitter.com/nickwarters/status/1407441318511513605) | advertise |
 | [nickylay@twitter](https://twitter.com/nickylay/status/1379982002141552642) | advertise |
+| [nicolai685hehe@twitter](https://twitter.com/nicolai685hehe/status/1603974375757479938) | advertise |
 | [nicotine60fps@twitter](https://twitter.com/nicotine60fps/status/1575543763060985856) | advertise |
 | [nidusha6@twitter](https://twitter.com/nidusha6/status/1377278946945990661) | advertise |
 | [Nie90783223@twitter](https://twitter.com/Nie90783223/status/1390937939236966403) | advertise |
@@ -8684,6 +8685,7 @@ Do not create new issue or we will close it as duplicate.
 | [s6my7jk@twitter](https://twitter.com/s6my7jk/status/1398057139667623936) | advertise |
 | [S7DEADSHOT@twitter](https://twitter.com/S7DEADSHOT/status/1596976446735810560) | advertise |
 | [S64261242Robert@twitter](https://twitter.com/S64261242Robert/status/1593940558153715713) | advertise |
+| [Saaaraaay7@twitter](https://twitter.com/Saaaraaay7/status/1603997837737558017) | advertise |
 | [saad_hason@twitter](https://twitter.com/saad_hason/status/1549937766301315072) | advertise |
 | [SaahilPanchal@twitter](https://twitter.com/SaahilPanchal/status/1547124951744118784) | advertise |
 | [saani65346280@twitter](https://twitter.com/saani65346280/status/1392146734336274433) | advertise |
@@ -9070,6 +9072,7 @@ Do not create new issue or we will close it as duplicate.
 | [ShineHt30097504@twitter](https://twitter.com/ShineHt30097504/status/1390702899563429890) | advertise |
 | [shineht74294281@twitter](https://twitter.com/shineht74294281/status/1397569614549188610) | advertise |
 | [shinehtet207512@twitter](https://twitter.com/shinehtet207512/status/1389975545044094978) | advertise |
+| [Shinekoko1997@twitter](https://twitter.com/Shinekoko1997/status/1581662665398968320) | advertise |
 | [shineli93964917@twitter](https://twitter.com/shineli93964917/status/1390220514199707648) | advertise |
 | [ShineWinHtet2@twitter](https://twitter.com/ShineWinHtet2/status/1392305680896249864) | advertise |
 | [shinezzzzzzzz@twitter](https://twitter.com/shinezzzzzzzz/status/1387051830325125131) | advertise |
@@ -9874,8 +9877,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
@@ -10443,6 +10446,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tun76282915@twitter](https://twitter.com/Tun76282915/status/1553678050826801152) | advertise |
 | [tun97194915@twitter](https://twitter.com/tun97194915/status/1377954790928306176) | advertise |
 | [Tunanh36074355@twitter](https://twitter.com/Tunanh36074355/status/1595582279300313088) | advertise |
+| [TunAnh36687192@twitter](https://twitter.com/TunAnh36687192/status/1603923291118239744) | advertise |
 | [Tunanh36753506@twitter](https://twitter.com/Tunanh36753506/status/1553248597633773568) | advertise |
 | [Tunanh41868649@twitter](https://twitter.com/Tunanh41868649/status/1566329448903098368) | advertise |
 | [Tunanh94933384@twitter](https://twitter.com/Tunanh94933384/status/1485162725068382211) | advertise |
