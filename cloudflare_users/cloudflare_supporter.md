@@ -6530,6 +6530,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mohamma28513503@twitter](https://twitter.com/Mohamma28513503/status/1556034699558096897) | advertise |
 | [Mohamma37924942@twitter](https://twitter.com/Mohamma37924942/status/1387317795625504769) | advertise |
 | [Mohamma50212087@twitter](https://twitter.com/Mohamma50212087/status/1540324705806307329) | advertise |
+| [Mohamma54701581@twitter](https://twitter.com/Mohamma54701581/status/1604111762659610625) | advertise |
 | [Mohamma54835205@twitter](https://twitter.com/Mohamma54835205/status/1388906614917324804) | advertise |
 | [mohamma70200446@twitter](https://twitter.com/mohamma70200446/status/1601597937980944384) | advertise |
 | [Mohamma74309133@twitter](https://twitter.com/Mohamma74309133/status/1595140791172988931) | advertise |
@@ -9219,6 +9220,7 @@ Do not create new issue or we will close it as duplicate.
 | [Skythewolf22@twitter](https://twitter.com/Skythewolf22/status/1412424567625289735) | moral (advertise) |
 | [SkyzGaming12@twitter](https://twitter.com/SkyzGaming12/status/1400060043710517248) | advertise |
 | [SlavomirRychna3@twitter](https://twitter.com/SlavomirRychna3/status/1548046291799666690) | advertise |
+| [SleepyA39016632@twitter](https://twitter.com/SleepyA39016632/status/1604113766115082241) | advertise |
 | [SleepyH67417917@twitter](https://twitter.com/SleepyH67417917/status/1503197462638514179) | advertise |
 | [SLeong123@twitter](https://twitter.com/SLeong123/status/1544643510577819649) | advertise |
 | [slhndri@twitter](https://twitter.com/slhndri/status/1579198816997511168) | advertise |
