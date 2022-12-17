@@ -1993,6 +1993,7 @@ Do not create new issue or we will close it as duplicate.
 | [cozyjp22@twitter](https://twitter.com/cozyjp22/status/1405492422423941120) | advertise |
 | [CPaingg@twitter](https://twitter.com/CPaingg/status/1390427967482826754) | advertise |
 | [CPD2508199x@twitter](https://twitter.com/CPD2508199x/status/1549182325467914240) | advertise |
+| [cphc_uc@twitter](https://twitter.com/cphc_uc/status/1604130887582380032) | advertise |
 | [cqpcoin@twitter](https://twitter.com/cqpcoin/status/1404309296251215872) | advertise |
 | [CrackSree@twitter](https://twitter.com/CrackSree/status/1402815976064700425) | advertise |
 | [CraftPlots@twitter](https://twitter.com/CraftPlots/status/1481687861292326916) | advertise |
@@ -2715,6 +2716,7 @@ Do not create new issue or we will close it as duplicate.
 | [Elizabe61872231@twitter](https://twitter.com/Elizabe61872231/status/1582025862148329473) | advertise |
 | [ElizabethGogou@twitter](https://twitter.com/ElizabethGogou/status/1377578555954110465) | advertise |
 | [EllaLaw24194722@twitter](https://twitter.com/EllaLaw24194722/status/1383291450025148418) | advertise |
+| [EllaRaee1@twitter](https://twitter.com/EllaRaee1/status/1604119056696721408) | advertise |
 | [elleo549@twitter](https://twitter.com/elleo549/status/1553222346504187909) | advertise |
 | [Elliot24649070@twitter](https://twitter.com/Elliot24649070/status/1390939917404966912) | advertise |
 | [ellonmast@twitter](https://twitter.com/ellonmast/status/1452884018328899589) | advertise |
@@ -7262,6 +7264,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynTrngPhcHn2@twitter](https://twitter.com/NguynTrngPhcHn2/status/1389292187704119296) | advertise |
 | [NguynTrnhHongA3@twitter](https://twitter.com/NguynTrnhHongA3/status/1401956424331137028) | advertise |
 | [NguynTrnQuanSa1@twitter](https://twitter.com/NguynTrnQuanSa1/status/1377658912007102464) | advertise |
+| [NGUYNTU55287167@twitter](https://twitter.com/NGUYNTU55287167/status/1604122115661189120) | advertise |
 | [NguynVi44331431@twitter](https://twitter.com/NguynVi44331431/status/1564084374597169154) | advertise |
 | [NguynVitTm1@twitter](https://twitter.com/NguynVitTm1/status/1516778185018712067) | advertise |
 | [Nguynvn32504660@twitter](https://twitter.com/Nguynvn32504660/status/1400969920246996996) | advertise |
