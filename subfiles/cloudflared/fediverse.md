@@ -30288,6 +30288,7 @@ Here's a list of public Fediverse services.
 | `ukhwah.org` | No |
 | `ukiyo.cafe` | No |
 | `ukka.xyz` | No |
+| `uknow.moe` | No |
 | `ukpagan.com` | Yes |
 | `ukpats.io` | No |
 | `ukrainedao.love` | No |
@@ -33149,7 +33150,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,516 |
-| Normal | 25,589 |
+| Normal | 25,590 |
 
 
 ### 22.7% of public Fediverse services are using Cloudflare.
