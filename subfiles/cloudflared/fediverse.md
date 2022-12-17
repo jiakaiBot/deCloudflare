@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,823 |
-| social | 2,882 |
+| social | 2,883 |
 | net | 2,501 |
 | org | 1,811 |
 | de | 1,660 |
@@ -13568,6 +13568,7 @@ Here's a list of public Fediverse services.
 | `jamieasefa.social` | No |
 | `jamiesnotes.com` | Yes |
 | `jaminit.co.uk` | Yes |
+| `jammer.social` | Yes |
 | `jampreserve.com` | No |
 | `jamwells.social` | Yes |
 | `jamwil.com` | Yes |
@@ -28081,7 +28082,7 @@ Here's a list of public Fediverse services.
 | `takimag.com` | Yes |
 | `takingalook.dev` | No |
 | `tako774.net` | No |
-| `takpika.jp` | No |
+| `takpika.jp` | Yes |
 | `taks.garden` | No |
 | `takuann.net` | Yes |
 | `takulog.info` | Yes |
@@ -33146,8 +33147,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,514 |
-| Normal | 25,589 |
+| Cloudflare | 7,516 |
+| Normal | 25,588 |
 
 
 ### 22.7% of public Fediverse services are using Cloudflare.
