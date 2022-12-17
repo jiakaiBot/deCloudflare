@@ -721,6 +721,7 @@ aludisca.alc.upv.es
 amazon.com.myaccoun5enlays9sqnb-ulight32.ukittest.ru
 analytics.uvesolutions.com
 anandamed3.avvatar.usermd.net
+api-gisoperaciones.ufd.es
 api.unnati.gov.in
 appleld.uss-lnc.com
 arena.upstay.tech
@@ -729,6 +730,7 @@ attach.unityclient.com
 auth.unibet.com.au
 autodiscover.unapausaagradable.es
 automatedirstrffusgv.blob.core.usgovcloudapi.net
+bhncanadagiftma-web.uatfisprepaid.com
 blue.unilaan.dk
 cap.hippo.use-fuse.com
 cards.ubot.com.tw
@@ -742,6 +744,7 @@ clients.urbantutorial.com
 cmumdm.unige.ch
 cpcontacts.ubersdftesters.ru
 dev.api.myapp.unicloudgroup.com.vn
+e-journal.unair.ac.id
 echannel.uobam.co.th
 emidas.ubstest.com
 emm-gw.uk-gm.de
@@ -786,6 +789,7 @@ menkyo.uwith.net
 ncrs.uscourts.gov
 peg.uber.space
 pop.imail.pop.m.usokey.com
+poster-session.corfu2022.uest.gr
 prod-cms-web-retail-authserver.unilinkcloud.nl
 productencatalogus.uat-vlaanderen.be
 professionalstandards.fns.usda.gov
@@ -794,6 +798,7 @@ ptm.untirta.ac.id
 scholarworks.utep.edu
 secure.upstatebank.net
 securereader.uhsinc.com
+sg.bibplus.uobgroup.com
 sgucard.unimedjau.com.br
 spc.unsrat.ac.id
 special.usps.com
@@ -801,7 +806,9 @@ stanmar.ghad2.usermd.net
 ta.uwayapply.com
 tarnawa.ghad2.usermd.net
 temp303.unifilabs.com
+test-tool.utz.org
 testhive.uber.space
+thrillist.updatemyprofile.com
 tickets.usptheband.com
 tms.uwayapply.com
 trkv3.unikandco.com
@@ -812,7 +819,9 @@ ubersinardewata.com
 ubki.ua
 uc8.tv
 udenix.com
+udomyon.com
 ugandaaviationschool.com
+uitsinfra.com
 uknisumitai.com
 ukpost.life
 ukrainians.fi
@@ -848,6 +857,7 @@ urbanbike.com
 urbandelivery.se
 urbanque.co.in
 urjalankuntopiste.fi
+urmuljyoti.org
 urologicalsurgeryvideo.com
 us-packagesservice.com
 usaps-track.uspsdors.top
@@ -855,11 +865,12 @@ usaps-track.uspsdorss.top
 usenergyupdate.com
 user-secure-ldverify01.com
 useragentlist.net
-usergenetic.info
 usps-com-ac.top
 usps-com-sd.top
 utahchapter13bankruptcy.com
+utvyakta.com
 uub.jp
+uvtron.net
 ux0.jp
 uzbekistan.org
 videoadmin.union.hu
@@ -891,8 +902,10 @@ www.fs.usda.gov
 www.fsis.usda.gov
 www.media.uzh.ch
 www.postal.uhappyu.com
+www.poster-session.corfu2022.uest.gr
 www.prograd.uesc.br
 www.rathnatours.com.usershare.me
+www.safeexpresscartransportation.com.utsavtech.com
 www.singapore.treasury.user-en.com
 www.stanmar.ghad2.usermd.net
 www.tarnawa.ghad2.usermd.net
@@ -903,8 +916,10 @@ www.ubermedia.sklep.pl
 www.uberschuh.com
 www.ubi-banca-lpa.fr
 www.ubuntizando.com
+www.uchinokomato.me
 www.ucoz.ua
 www.ud-workshop-lisbon.net
+www.udcshelpdesk.com
 www.udot.utah.gov
 www.ugress.com
 www.uiw-kub.ga
@@ -913,6 +928,7 @@ www.uk-bank.gq
 www.uk-bank.tk
 www.uk-osint.net
 www.uline.jobs
+www.ultimatedomain.hosting
 www.unicreditbank.ru
 www.uniqlo.com
 www.unitedstateszipcodes.org
@@ -940,6 +956,7 @@ www.utdailybeacon.com
 www.wall.luk-dev.usermd.net
 x-live-espn-stgec.uplynk.com
 zapataolivella.univalle.edu.co
+zeen.ubroker-api.io
 zmail.ujhidytenisz.hu
 girlinistanbul.ucoz.net
 health.udn.com
