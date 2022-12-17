@@ -10145,6 +10145,7 @@ Do not create new issue or we will close it as duplicate.
 | [tinmyoOfficial@twitter](https://twitter.com/tinmyoOfficial/status/1396749342237552641) | advertise |
 | [TinoRck@twitter](https://twitter.com/TinoRck/status/1398243241040912388) | advertise |
 | [TinPhm16592203@twitter](https://twitter.com/TinPhm16592203/status/1552533854707384320) | advertise |
+| [Tint35330398@twitter](https://twitter.com/Tint35330398/status/1604045320517996545) | advertise |
 | [Tintlwi32042117@twitter](https://twitter.com/Tintlwi32042117/status/1390116993383157760) | advertise |
 | [TintTintKhaing1@twitter](https://twitter.com/TintTintKhaing1/status/1400832688911650817) | advertise |
 | [tinvvx@twitter](https://twitter.com/tinvvx/status/1485901022312923139) | advertise |
