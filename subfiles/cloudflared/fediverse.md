@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,857 |
+| com | 4,858 |
 | social | 2,912 |
 | net | 2,517 |
 | org | 1,820 |
@@ -27336,6 +27336,7 @@ Here's a list of public Fediverse services.
 | `squeaky.tech` | No |
 | `squeegee.ink` | No |
 | `squeegee.one` | Yes |
+| `squeep.com` | No |
 | `squeet.me` | No |
 | `squid.cafe` | No |
 | `squid.gay` | Yes |
@@ -33319,7 +33320,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,564 |
-| Normal | 25,711 |
+| Normal | 25,712 |
 
 
 ### 22.7% of public Fediverse services are using Cloudflare.
