@@ -203,7 +203,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | puredns.org | Yes |
 | pyry.me | No |
 | pzhg.me | No |
-| qis.io | No |
 | qquack.org | Yes |
 | quad9.net | Yes |
 | r0cket.net | No |
@@ -285,7 +284,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 100 |
-| Normal | 165 |
+| Normal | 164 |
 
 
-### 37.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 37.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
