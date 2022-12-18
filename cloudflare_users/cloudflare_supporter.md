@@ -4998,6 +4998,7 @@ Do not create new issue or we will close it as duplicate.
 | [kikidrilla@twitter](https://twitter.com/kikidrilla/status/1372335070158204930) | advertise |
 | [KiKu68720339@twitter](https://twitter.com/KiKu68720339/status/1390944987152404484) | advertise |
 | [KikuCha75015505@twitter](https://twitter.com/KikuCha75015505/status/1596362204810727425) | advertise |
+| [killer21078@twitter](https://twitter.com/killer21078/status/1604552405378797568) | advertise |
 | [killer2111991@twitter](https://twitter.com/killer2111991/status/1469327399536197633) | advertise |
 | [KillerIcloud@twitter](https://twitter.com/KillerIcloud/status/1508936022624817152) | advertise |
 | [killfortunes@twitter](https://twitter.com/killfortunes/status/1482820909169795076) | advertise |
