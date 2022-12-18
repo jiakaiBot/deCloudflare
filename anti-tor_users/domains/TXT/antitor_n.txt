@@ -1396,6 +1396,7 @@ adfs1.nypa.gov
 admin.nitron.ir
 admin.nitroserver.link
 aegis-japan.co.jp.nukui.work
+affiliate.mynewpro.nitro-cpanel.xyz
 ahsanmanzilticket.nationalmuseumticket.gov.bd
 aicc.nhsworkforce.org
 ams.nsca.com
@@ -1409,6 +1410,7 @@ apis.p13n.vip.nordstrom.com
 appel.nasa.gov
 appliedsciences.nasa.gov
 apps-uat.ntu.edu.sg
+ar-de.nitro-nobel.ro
 archive.ncgma.org
 archive.ncpfc.org
 arti.nitroserver.link
@@ -1449,12 +1451,14 @@ client.nanaboozhoo.ca
 clientes.nixtagency.com
 clients.nobj.de
 cloud.nitrotecnologia.com.br
+cocoroblog.nigaoecoro.com
 col.nitroserver.link
 core.nitron.ir
 covid19.test.apps.networklabs.de
 cpanel.nitro-v.tokyo
 cpanel.nitro.net.au
 cpanel.nitro.ph
+cpanel.nitroforge.com
 cpanel.nodalarhitectura.ro
 cpanel.nycspineandpain.com
 cpcalendars.nasibahtravel.com
@@ -1466,6 +1470,8 @@ cpcalendars.nitro.ph
 cpcalendars.nitroballclub.io
 cpcalendars.nitroconstructionservices.com
 cpcalendars.nitrofixlab.com
+cpcalendars.nitroforge.com
+cpcalendars.nitrousmarketingautomation.com
 cpcalendars.nyceindia.in
 cpcalendars.nycomplete.xyz
 cpcalendars.op.nitrowelltest.com
@@ -1475,6 +1481,8 @@ cpcontacts.nitro.net.au
 cpcontacts.nitro.ph
 cpcontacts.nitroballclub.io
 cpcontacts.nitrofixlab.com
+cpcontacts.nitroforge.com
+cpcontacts.nitrousmarketingautomation.com
 cpcontacts.nyceindia.in
 cpcontacts.nycspineandpain.com
 cpcontacts.op.nitrowelltest.com
@@ -1520,6 +1528,7 @@ idp.nulc.ac.uk
 iihr.nvds.in
 imail.www.pos.natalliasilkina.com
 img.nateon.nate.com
+ipv4-c002-fra002-dev-ix.1.oca.nflxvideo.net
 ipv4-c140-fra002-ix.1.oca.nflxvideo.net
 ipv4-c152-cdg001-ix.1.oca.nflxvideo.net
 ipv4-c155-cdg001-ix.1.oca.nflxvideo.net
@@ -1536,6 +1545,7 @@ mail.nigeriaemblisbon.org
 mail.nitro-v.tokyo
 mail.nitro.net.au
 mail.nitro.ph
+mail.nitroforge.com
 maintenance-webview.netmarble.com
 media.nvm.nl
 metamask.io.merge.nevibytes.com
@@ -1557,6 +1567,7 @@ narastapost.com
 natale.hr
 nationalpoolsafety.com.au
 nationalpress.org
+nationalunityb.com
 naturalandsafe.in
 naturoblog.com
 nav.northern-linen.com
@@ -1642,9 +1653,12 @@ nitro-v.tokyo
 nitro.net.au
 nitro.ph
 nitroboost.co.uk
+nitrobrainapi-prod.neowell.net
 nitrocoffeesolution.com
 nitroecomm.com
+nitroforge.com
 nitrogenevaporators.com
+nitroinspector.com
 nitrolee.com
 nitrooxid.info
 nitropaintballga.com
@@ -1666,6 +1680,7 @@ nooblox.com
 noorbit.net
 noorbitex.com
 noradelivery.com
+norma-mariaui.cyou
 northcityaccountants.com.au
 northfur.ca
 northshorefirstaidandsafety.com
@@ -1676,11 +1691,13 @@ nothingtech.nitroware.com.br
 notimetoplay.org
 notthebe.ee
 noviksrastreamento.com.br
+novo.de
 nowiknow.com
 npengine.com
 npr-rgi.nic.in
 ns-jenkins.nttdata-taiwan.com
 nsdizajn.in.rs
+nsdn.com.cn
 nseindia.com
 nswp.org
 nt-billsde.com
@@ -1704,6 +1721,7 @@ nycitysportschiropractor.com
 nyctvlive.com
 nydeercontrol.com
 nyoero.com
+nyweeklypost.com
 nzeducationfair.com
 nzpost.delivery
 ohlcjga5jgly2cd.supl.google.com.nwr.com.na
@@ -1713,6 +1731,7 @@ outlookoffice365validation.naijabikes.com
 oziol.sg.nitrodesigns.com
 panel.mynewpro.nitro-cpanel.xyz
 panel.nitron.ir
+pawerbank.noutmarket.com.ua
 pay.nomnomhire.com
 pay.nycybertalks.com
 payment-xyzs.tk.anitaaa.nitro-cpanel.xyz
@@ -1741,12 +1760,14 @@ shop.niceclaup.jp
 shop.nornslife.art
 simpanan.navy.mil.my
 sis.nitroserver.link
+smsbomber64.nitro-cpanel.xyz
 spam.nitroserver.link
 spy.nitroserver.link
 sso-auth.ntopweb.com
 stage.nitrohead.se
 stats.ncaa.org
 stats.nitro365.ru
+stats.nitrotools.de
 stgnpay-iam.nexi.it
 support.nowa-strona.warszawa.pl
 support.nwcsb.com
@@ -1759,6 +1780,7 @@ testweb.naymu.com
 tienda3.nitrotienda.com
 tmail.networklabs.de
 tracker.ngneers.fr
+transfer.navitime.biz
 trust-wallet.noramelk.com
 tukioo.dev.noskua.com
 tunisia-sale.naymu.com
@@ -1768,6 +1790,7 @@ uhsupport.nevco.org
 update.narmadanavnirman.org
 updates.nutrilink.co.uk
 urr-ing.nnc.design
+vintecontopin2.novovinteconto.com.br
 vps10.nkmr.io
 wayve.nitroware.com.br
 webcas.noda-co.jp
@@ -1779,6 +1802,8 @@ webdisk.nitro.net.au
 webdisk.nitro.ph
 webdisk.nitroballclub.io
 webdisk.nitrofixlab.com
+webdisk.nitroforge.com
+webdisk.nitrousmarketingautomation.com
 webdisk.nxtgenrenovation.com
 webdisk.nyceindia.in
 webdisk.nycomplete.xyz
@@ -1788,6 +1813,7 @@ webdisk.op.nitrowelltest.com
 webmail.nitro-v.tokyo
 webmail.nitro.net.au
 webmail.nitro.ph
+webmail.nitroforge.com
 webmail.nycomplete.xyz
 webmail.nycspineandpain.com
 whm.nzbms.nz
@@ -1800,6 +1826,7 @@ www.angular.nrs-delivery.ro
 www.aupay.nxejak.shop
 www.bancaimpresa.pagamentipa.test.nexi.it
 www.bhprivatebank.com.njroofingcontractors.net
+www.city.nagasaki.lg.jp
 www.clientes.net82.com.mx
 www.clientes.nixtagency.com
 www.ebank.northerncitytrustbnk.online
@@ -1889,6 +1916,8 @@ www.nycgreatsmile.com
 www.nycpov.io
 www.nyfoundling.org
 www.paketankarimunjawa.nomorsedotwc.com
+www.pawerbank.noutmarket.com.ua
+www.pref.niigata.lg.jp
 www.recipts-coinbase.ns01.biz
 www.reclamamosatubanco.com.es.nezocomunicacion.com
 www.secure.nexasol.com
@@ -1899,6 +1928,7 @@ www.testing-mm.neusafe.info
 www.update.narmadanavnirman.org
 www.user.noticeshops.com
 www.verify-trustwallet.noramelk.com
+www.vintecontopin2.novovinteconto.com.br
 www.wexler-no.nettsidesupport.no
 www.wp.nivcontrol.com
 xzpanel.nitro-cpanel.xyz
