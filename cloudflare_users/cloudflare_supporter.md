@@ -4175,6 +4175,7 @@ Do not create new issue or we will close it as duplicate.
 | [in_fluk@twitter](https://twitter.com/in_fluk/status/1404661393949876226) | advertise |
 | [IoBrank@twitter](https://twitter.com/IoBrank/status/1567464530099277824) | advertise |
 | [ioocxc@twitter](https://twitter.com/ioocxc/status/1571441280827146241) | advertise |
+| [iOSDeveloperGuy@twitter](https://twitter.com/iOSDeveloperGuy/status/1604287316184469505) | advertise |
 | [iOS_Privacy@twitter](https://twitter.com/iOS_Privacy/status/1474026863324504064) | advertise |
 | [ipfwinter_@twitter](https://twitter.com/ipfwinter_/status/1491059498303516672) | advertise |
 | [iqbalbirrul@twitter](https://twitter.com/iqbalbirrul/status/1401703605950828548) | advertise |
