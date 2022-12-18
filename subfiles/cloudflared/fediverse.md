@@ -5905,7 +5905,7 @@ Here's a list of public Fediverse services.
 | `cunny.finance` | No |
 | `cunny.moe` | Yes |
 | `cupka.name` | No |
-| `cupoftea.social` | No |
+| `cupoftea.social` | Yes |
 | `curcudel.com` | No |
 | `curenoize.org` | Yes |
 | `curiosas.mx` | No |
@@ -8280,6 +8280,7 @@ Here's a list of public Fediverse services.
 | `enlightened.army` | Yes |
 | `enlightware.ch` | No |
 | `enmity.com` | No |
+| `ennex.world` | No |
 | `ennibook.de` | No |
 | `ennimedia.de` | No |
 | `ennomeijers.nl` | No |
@@ -9229,6 +9230,7 @@ Here's a list of public Fediverse services.
 | `ferraris.me` | No |
 | `ferreo.dev` | Yes |
 | `ferret.business` | No |
+| `ferret.cafe` | Yes |
 | `ferretfrizz.biz` | No |
 | `ferrocarril.net` | No |
 | `ferrovipath.es` | No |
@@ -12123,6 +12125,7 @@ Here's a list of public Fediverse services.
 | `hieda.cc` | Yes |
 | `hieron.cc` | No |
 | `hieronymusch.net` | No |
+| `hifi.fyi` | No |
 | `hifish.social` | No |
 | `high-low.ml` | No |
 | `high.cat` | No |
@@ -19641,6 +19644,7 @@ Here's a list of public Fediverse services.
 | `myhobby.zone` | No |
 | `myhome-server.de` | No |
 | `myhome.cx` | No |
+| `myhome.pm` | No |
 | `myhre.wtf` | Yes |
 | `myidanonymous.me` | No |
 | `myifn.de` | No |
@@ -33342,8 +33346,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,576 |
-| Normal | 25,723 |
+| Cloudflare | 7,578 |
+| Normal | 25,725 |
 
 
 ### 22.8% of public Fediverse services are using Cloudflare.
