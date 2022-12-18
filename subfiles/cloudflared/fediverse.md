@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,861 |
-| social | 2,916 |
+| social | 2,917 |
 | net | 2,518 |
 | org | 1,820 |
 | de | 1,665 |
@@ -26612,7 +26612,7 @@ Here's a list of public Fediverse services.
 | `sldon.jp` | No |
 | `sledj.net` | No |
 | `sleeck.eu` | Yes |
-| `sleeklounge.com` | No |
+| `sleeklounge.com` | Yes |
 | `sleepers.garden` | No |
 | `sleepi.life` | No |
 | `sleeping.town` | No |
@@ -28850,6 +28850,7 @@ Here's a list of public Fediverse services.
 | `thecodeclub.in` | No |
 | `thecolddark.com` | No |
 | `thecolouroutof.space` | No |
+| `thecommandline.social` | No |
 | `theconley.club` | No |
 | `theconservativetreehouse.com` | Yes |
 | `theconstract.com` | No |
@@ -33338,8 +33339,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,574 |
+| Cloudflare | 7,575 |
 | Normal | 25,721 |
 
 
-### 22.7% of public Fediverse services are using Cloudflare.
+### 22.8% of public Fediverse services are using Cloudflare.
