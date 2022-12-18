@@ -1814,6 +1814,7 @@ Do not create new issue or we will close it as duplicate.
 | [chendinhit@twitter](https://twitter.com/chendinhit/status/1519025856399560704) | advertise |
 | [ChendipraveenC@twitter](https://twitter.com/ChendipraveenC/status/1517752295626207232) | advertise |
 | [chennaicpl@twitter](https://twitter.com/chennaicpl/status/1566754531576356866) | advertise |
+| [cherrjboom@twitter](https://twitter.com/cherrjboom/status/1604427064723247104) | advertise |
 | [Cherry7784@twitter](https://twitter.com/Cherry7784/status/1507027917351505923) | advertise |
 | [Cherry68152056@twitter](https://twitter.com/Cherry68152056/status/1390551945379606530) | advertise |
 | [CherryJas1@twitter](https://twitter.com/CherryJas1/status/1390217382711414784) | advertise |
