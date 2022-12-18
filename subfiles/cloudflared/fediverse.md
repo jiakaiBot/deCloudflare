@@ -5260,7 +5260,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -5680,6 +5680,7 @@ Here's a list of public Fediverse services.
 | `crimp.social` | No |
 | `crimsonfae.net` | No |
 | `crimsson.com` | Yes |
+| `cringe.cafe` | No |
 | `crinklefur.club` | No |
 | `cripplepunk.club` | No |
 | `criptica.org` | No |
@@ -33317,8 +33318,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,565 |
-| Normal | 25,709 |
+| Cloudflare | 7,564 |
+| Normal | 25,711 |
 
 
 ### 22.7% of public Fediverse services are using Cloudflare.
