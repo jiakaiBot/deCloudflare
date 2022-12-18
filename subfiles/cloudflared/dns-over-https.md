@@ -136,6 +136,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | infosec.xyz | Yes |
 | infotek.net.id | No |
 | inria.fr | No |
+| invisv.com | No |
 | ipv6dns.com | No |
 | irre.li | No |
 | iucc.ac.il | No |
@@ -231,6 +232,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | surfshark.com | Yes |
 | switch.ch | No |
 | syaifullah.com | Yes |
+| synology.me | No |
 | sys-adm.in | Yes |
 | syshero.org | No |
 | t53.de | No |
@@ -283,7 +285,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 100 |
-| Normal | 163 |
+| Normal | 165 |
 
 
-### 38% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 37.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
