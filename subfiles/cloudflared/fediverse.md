@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 2,917 |
 | net | 2,518 |
 | org | 1,820 |
-| de | 1,665 |
+| de | 1,666 |
 
 
 - Mastodon, Pleroma, etc
@@ -1048,6 +1048,7 @@ Here's a list of public Fediverse services.
 | `aktivtube.com` | No |
 | `akubidon.com` | No |
 | `akuochi.art` | No |
+| `akxnet.de` | No |
 | `aky.sh` | Yes |
 | `al0.de` | Yes |
 | `al2.in` | Yes |
@@ -14694,6 +14695,7 @@ Here's a list of public Fediverse services.
 | `khimaros.com` | No |
 | `khisanth.com` | No |
 | `khmer.love` | Yes |
+| `khoa.cool` | Yes |
 | `khomri.com` | No |
 | `khorneflak.es` | No |
 | `kianting.info` | No |
@@ -28244,6 +28246,7 @@ Here's a list of public Fediverse services.
 | `takibi.work` | No |
 | `takimag.com` | Yes |
 | `takingalook.dev` | No |
+| `takiverse.tk` | No |
 | `tako774.net` | No |
 | `takpika.jp` | Yes |
 | `taks.garden` | No |
@@ -33339,8 +33342,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,575 |
-| Normal | 25,721 |
+| Cloudflare | 7,576 |
+| Normal | 25,723 |
 
 
 ### 22.8% of public Fediverse services are using Cloudflare.
