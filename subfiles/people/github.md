@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [520 error in CloudFlare when Gunicorn shows Ignoring connection reset](https://github.com/benoitc/gunicorn/issues/2903)
 - [Download leads to a redirect, which leads to 503 error](https://github.com/SpiGetOrg/Spiget/issues/55)
 - [set up the frontend production infrastructure](https://github.com/VilnaCRM-Org/infrastructure/issues/2)
 - [Error in Use CDN](https://github.com/miladrahimi/v2ray-docker-compose/issues/78)
