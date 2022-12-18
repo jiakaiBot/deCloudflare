@@ -1350,6 +1350,7 @@ adams.house.gov
 adfs.hampeloil.com
 aldebet.herokuapp.com
 aovpn.haringey.gov.uk
+api.hatson.co.in
 api.healness.se
 api.hivesocial.app
 api.www.homebank.ro
@@ -1363,6 +1364,7 @@ autodiscover.hypecustom.pt
 ba.hitomi.la
 backend.huskyjam.com
 backup.holzfriseure.de
+bbord-nitrogen.hisqool.dev
 betaservices.hambs.net.au
 bicorn-waggle.herokuapp.com
 billsbikeshopca.hibuwebsites.com
@@ -1410,6 +1412,7 @@ dev.api.heydyno.de
 dev.hexal.org
 dis-core.pub.stg.hou.hermesgermany.digital
 discordcp.hyperlayer.co.za
+discordguardiandev.hellmich-it.de
 disinfectant-teredinid.herokuapp.com
 dit-fintech.hangseng.com
 downloads.hpdaas.com
@@ -1478,8 +1481,10 @@ helie.org
 helionsf.ro
 heliossecurity.ro
 hellenic-bank.app
+hellenicbank.cards
 hellodoctors.org.in
 help-singpost.xyz
+helpbinance.com
 helpdesk.co.id
 helpdesk.homespiremortgage.com
 helpdorien.nl
@@ -1494,6 +1499,7 @@ highpointhealthpartners.com
 highs.com
 hilaryweeks.com
 hilliardscorp.com
+hireplace.it
 hiroeroblog.com
 his-ambition.my.id
 historiasmais.com.br
@@ -1607,6 +1613,7 @@ radioactive-ratch.herokuapp.com
 rates.hrmprozen.com
 redundant-potence.herokuapp.com
 resource.hocplc.com
+robloxexploitz.com.hynos.net
 samgrinsell.hcommons.org
 san-photo.heraut.eu
 sarahholiday53554.hatenablog.com
@@ -1621,6 +1628,7 @@ services.hambs.net.au
 singpost.hmqsy.com
 six-rattigan.herokuapp.com
 skype.h-da.de
+soeallc.hcommons.org
 sometime-mooring.herokuapp.com
 store.helilar.xyz
 store.outlook.homereviewonline.com
@@ -1656,6 +1664,7 @@ webdisk.humanitieshomeworkhelp.com
 webgis.dev.halohmc.com
 webmail.hiroeroblog.com
 webmail.humanitieshomeworkhelp.com
+www.account.hosterc.com
 www.billing.hacor.us
 www.billing.hazelindo.net
 www.bilsecurity.helilar.xyz
@@ -1664,6 +1673,7 @@ www.caravan-safe.high-tensile-chain.com
 www.caravansafe.high-tensile-chain.com
 www.carbonservice.hverdagshus.dk
 www.claims.happypocket2u.com
+www.cleaning-service.hostelent.com
 www.clienti.hostdesign.biz
 www.cpanel.webdisk.webmail.mail.www.hackbanks.com
 www.facebook.com.tick-veirification-badge.hostershub.com
@@ -1692,6 +1702,7 @@ www.hautegironde.fr
 www.hautnah-fellbach.de
 www.hawaizaadefilms.com
 www.hazemag.com
+www.hd-parts.jp
 www.healthupdate.gr
 www.hediyepaketleri.com
 www.hejitsupport.dk
@@ -1699,11 +1710,13 @@ www.heliossecurity.ro
 www.heraldandnews.com
 www.heraldbanner.com
 www.hershamhounds.org.uk
+www.hetechtegeld.nl
 www.heydaybooks.com
 www.highdesertaffordablelandscape.com
 www.highlanddesignart.com
 www.hijab-style.com
 www.hireharmeet.com
+www.historysymposium.com
 www.hitachicm.com.au
 www.hitched.co.uk
 www.hizennya.com
@@ -1719,6 +1732,7 @@ www.homesolutionservice.vn
 www.homini.com
 www.hondabigwing.in
 www.horrorbookstore.com
+www.hospitalnacional.com
 www.hotel-buettner.de
 www.hotescortsjaipur.com
 www.hotstar.com
