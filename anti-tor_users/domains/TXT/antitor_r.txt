@@ -1518,6 +1518,7 @@ auth.eu-west-1.dev.reveal-global.com
 auth.iam.rio.cloud
 auth.read.cv
 autodiscover.restoringtherecord.org.uk
+autodiscover.robloxexploitz.com
 blog.blog.blog.blog.test.github.rlt.team
 blog.blog.blog.magento.github.rlt.team
 blog.demo.github.rlt.team
@@ -1541,6 +1542,7 @@ code.rnrd.eu
 concured-api-prod-qxn3ys6u5a-uc.a.run.app
 contact.richesmediadigital.com
 contactus.richesmediadigital.com
+container.rozana.in
 contentsecurity.elsevierperformancemanager.com.uoseresources.remotexs.xyz
 contoh1.rajawebdesign.com
 controle.relatasoft.com.br
@@ -1550,16 +1552,21 @@ covid19.riverapeople.com
 cpanel.ranbimagroup.lk
 cpanel.refractions.org.uk
 cpanel.retoabdomenperfecto.com
+cpanel.robloxexploitz.com
 cpcalendars.review08-bankofamerica.com
 cpcalendars.ritmicasarriadeter.com
+cpcalendars.robloxexploitz.com
 cpcalendars.rust-remover.com
 cpcontacts.refractions.org.uk
 cpcontacts.review08-bankofamerica.com
+cpcontacts.robloxexploitz.com
 cpcontacts.rodaempat.site
 cpcontacts.rust-remover.com
 cse.google.com.uoeh-u.remotexs.xyz
 d5454ds5dsdfs-1b8897185d70b198c119e1d2b7efd8a2.ssl.cf1.rackcdn.com
 dailler-form.responsiblelife.net
+danfossv1.repcon.es
+data.rkd.nl
 delivery-point.romoz.co
 dev.jomi.roblex.de
 dev.roblex.de
@@ -1567,6 +1574,7 @@ dev.rvdo.link
 dex.test.raeffs.ch
 e-chat.radio-of-disco-dance.de
 e-maildiensten.rijksoverheid.nl
+email.e.rdheritage.org
 eps.rewardsdealspromo.com
 events.reutersevents.com
 exchange.richstream.io
@@ -1607,6 +1615,7 @@ login.rizingpay.com
 logindrf.runflare.run
 lon.loadbalancers.api.rackspacecloud.com
 m4-dev2.rms-inc.com
+mail.robloxexploitz.com
 mail.robloxshop247.com
 mailing.rijksoverheid.nl
 management-usw.records365.com
@@ -1724,9 +1733,11 @@ restoreorretreat.org
 restoretheking.com
 retail-insider.com
 retailpmservice.com
+reverify-appleid-apple.com
 revistacastells.cat
 revistaelarcadenoe.com.mx
 rflxcicd.reflexisinc.com
+ricafort-vanboegeld.net
 richard-schuberth.com
 richardbond.info
 richellemead.com
@@ -1736,7 +1747,9 @@ riddler-machida.jp
 rifadajhenifferleal.com.br
 rightbeam.com
 rightlivelihood.org
+rijwielonderhoud.nl
 rikweb.org.uk
+rilevazioniperdite.it
 ringeels.com
 risk-accounting.org
 rivianhomechargerinstall.com
@@ -1751,6 +1764,8 @@ rnr.show
 roamingnanny.com
 robertsontruckgroup.com
 roblofj.com
+roblowery.realtor
+robloxexploitz.com
 robloxgamesweb.com
 robloxinvestors.com
 robloxmodels.com
@@ -1773,6 +1788,7 @@ roteirizacao.repom.com.br
 rotulosartdesign.com
 routrayassociates.com
 roveelectricindia.com
+rpasecurity.co.uk
 rs-regnskap.no
 rsislamaminah.com
 rsnzwaikato.org
@@ -1814,6 +1830,7 @@ torino.repubblica.it
 tracker.rtpnt.xyz
 translate.google.com.uoeh-u.remotexs.xyz
 u1839233.plsk.regruhosting.ru
+u1859123.plsk.regruhosting.ru
 unicredit-test.recruitis.io
 vaultwarden.relo4d.de
 web.randi.org
@@ -1823,9 +1840,12 @@ webdisk.ranbimagroup.lk
 webdisk.refractions.org.uk
 webdisk.review08-bankofamerica.com
 webdisk.rhbrandsnyc.com
+webdisk.robloxexploitz.com
 webdisk.rust-remover.com
 webmail.ranbimagroup.lk
+webmail.robloxexploitz.com
 webpush.rsys7.net
+webservice.retina.web.id
 www.account.robustgorilla.com
 www.aesat.rnova-services.com
 www.anggiandriyadi.rahaskinbeauty.co.id
@@ -1939,6 +1959,7 @@ www.restoremymetabolism.com
 www.retrobrewcomputers.org
 www.retrotechnik.com
 www.returningheritage.com
+www.reverify-appleid-apple.com
 www.reviewexceldocument.com
 www.revisioneautobergamo.com
 www.revistaperfiles.org
@@ -1958,10 +1979,12 @@ www.rivertownsenterprise.net
 www.roaminbisonworkshop.com
 www.robertsharp.co.uk
 www.robertwitt.de
+www.roblowery.realtor
 www.rochesterfirst.com
 www.rogerhallam.com
 www.romuloreydelosamoresimposibles.com
 www.royallondonannuitybureau.com
+www.rpasecurity.com
 www.rpmautosalesservice.com
 www.rsk-services-lpe.fr
 www.rugbyrama.fr
@@ -1980,6 +2003,7 @@ www.ukbartanews24.rahatrafi.xyz
 www.update.runforsightmarathon.co.tz
 www.usbanglanews.rahatrafi.xyz
 www.vending-service.rowellin.com
+www.webservice.retina.web.id
 xdciviz.renci.org
 yodobashi.rjxnf.cn
 buenos-aires.restorando.com.ar
