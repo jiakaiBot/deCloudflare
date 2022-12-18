@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Proposal: Implement a Workaround for the Stackblitz EACCES Error](https://github.com/solidjs/solid-start/issues/550)
 - [Cannot Install nvm on ubuntu](https://github.com/nvm-sh/nvm/issues/2983)
 - [Cloudflare erroring when downloading Erigon snapshot](https://github.com/BNB48Club/bsc-snapshots/issues/45)
 - [avsogirl 스크립트를 업데이트 해주실 수 있으시나요?](https://github.com/KurtBestor/Hitomi-Downloader/issues/5547)
