@@ -5873,6 +5873,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ma7moud3arf@twitter](https://twitter.com/Ma7moud3arf/status/1552086942870904833) | advertise |
 | [Ma91Myoaung@twitter](https://twitter.com/Ma91Myoaung/status/1392153948098744323) | advertise |
 | [mabyestar@twitter](https://twitter.com/mabyestar/status/1553105701328654336) | advertise |
+| [macawtechbr@twitter](https://twitter.com/macawtechbr/status/1604493456801337344) | advertise |
 | [mackendy94@twitter](https://twitter.com/mackendy94/status/1478395983893565447) | advertise |
 | [maclordzafra@twitter](https://twitter.com/maclordzafra/status/1379484426510422031) | advertise |
 | [MaCon44428252@twitter](https://twitter.com/MaCon44428252/status/1404306563985072129) | advertise |
