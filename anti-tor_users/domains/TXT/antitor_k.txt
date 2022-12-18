@@ -1233,6 +1233,7 @@ dd19224.kasserver.com
 dev.discord.kamuiverse.com
 devpop.komm-services.de
 dns.keweon.center
+ebook-author.kangjessy.id
 email.f.kajabimail.net
 emmcheck.klantdemo.nl
 eset.kontorbutikken.dk
@@ -1270,6 +1271,7 @@ kaiamo.com
 kaiuminfo.com
 kalagraha.com
 kalan-portfolio.eu
+kaleidoscopetrust-covid19.com
 kampalamotors.com
 kampanyamiz-yilsonu-hazir-online.ml
 kampaverlag.ch
@@ -1296,6 +1298,7 @@ keisartwo.com
 keitaijoho.com
 keivirtual.com
 keizalinnews.com
+keka-cold.ru
 kelloggindia.com
 kentucky.com.do
 kentuckyfuckery.net
@@ -1360,6 +1363,8 @@ kpceilingsltd.co.uk
 krantenbankzeeland.nl
 kratomverify.com
 krav-magazin.com
+kravmaga-ev.de
+kravmaga-sun.de
 kreativna-europa.ba
 krediti.biz
 krummenacker.ch
@@ -1416,6 +1421,7 @@ szpital.kolbuszowa.pl
 taxiap-server.klevret.net
 tempchel.knitism.ru
 test.sana-commerce.com.kiwicloud.nl
+traefik.klukap.de
 turn-meet.kienlongbank.co
 umz786.keap-link005.com
 united-states.kinokuniya.com
@@ -1434,7 +1440,9 @@ webmail.katyroblog.com
 webmail.kubera.fi
 whm.kuakhillresort.my
 woprintapi-dev.kestrelcoal.com
+www.admin.knarkzsecurity.com
 www.authoracademy9.klinikjurnal.com
+www.bankly.kamwally.com
 www.billing.kimtechsoftwaresolutions.co.ke
 www.clientebb.karpos.com.br
 www.containyourself.konker.ie
@@ -1465,6 +1473,7 @@ www.kcci.com
 www.kcp.co.id
 www.kcra.com
 www.keloland.com
+www.kelutral.org
 www.kenbiya.com
 www.kentucky.com
 www.kepttech.net
@@ -1569,6 +1578,7 @@ www.kurobe-dam.com
 www.kvue.com
 www.kwwl.com
 www.kxnet.com
+www.lanium.si.konto7.si
 www.makague.khulappservice.com
 www.monthlyupdate.kristen-welsh.com
 www.nordcon.kunder2-guru-utvikling.no
