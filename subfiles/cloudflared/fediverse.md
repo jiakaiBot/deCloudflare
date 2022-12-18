@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 4,859 |
 | social | 2,912 |
-| net | 2,517 |
+| net | 2,518 |
 | org | 1,820 |
 | de | 1,665 |
 
@@ -13641,7 +13641,7 @@ Here's a list of public Fediverse services.
 | `jampreserve.com` | No |
 | `jamwells.social` | Yes |
 | `jamwil.com` | Yes |
-| `janboddez.tech` | No |
+| `janboddez.tech` | Yes |
 | `janbruns.de` | No |
 | `jancborchardt.net` | No |
 | `jandhyala.co` | No |
@@ -26540,6 +26540,7 @@ Here's a list of public Fediverse services.
 | `skrolli.fi` | No |
 | `skroo.me` | No |
 | `skrt.social` | No |
+| `skrug.net` | Yes |
 | `skryking.com` | No |
 | `sksocial.ca` | Yes |
 | `skull.boutique` | No |
@@ -33320,8 +33321,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,564 |
-| Normal | 25,713 |
+| Cloudflare | 7,566 |
+| Normal | 25,712 |
 
 
 ### 22.7% of public Fediverse services are using Cloudflare.
