@@ -2284,7 +2284,6 @@ mythosimprint.com
 mytmobilelogin.com
 myturn.ca.gov
 myui-claim.in
-myuta.co
 myvillager.com
 myvoiceinternationalngo.org
 myweb.nu
@@ -3038,8 +3037,10 @@ asm.skype.com.office.o365rp2.betagro.myshn.net
 asyncgw.teams.microsoft.com.office.20221125yukimo365.uclickshn2.myshn.net
 auth.makk.es
 auth.musmedia.ru
+auth.vps.metai.co.za
 auth2.marenir.com
 authmaint.mbna.ca
+autodiscover.makeitawwesome.com
 autodiscover.malwinapalgan.pl
 autodiscover.matchplaygames.com
 autodiscover.meggacursos.site
@@ -3099,6 +3100,7 @@ covoiturage.medianet.tn
 cpanel.matchcompanions.com
 cpanel.mgcanteen.dk
 cpanel.mymatch.be
+cpcalendars.makeitawwesome.com
 cpcalendars.manlikeade.com.ng
 cpcalendars.matchboard.co.uk
 cpcalendars.matchdaymanager.com
@@ -3112,6 +3114,7 @@ cpcalendars.mutuallife.africa
 cpcalendars.mycoviddiary.me
 cpcalendars.mymatch.be
 cpcontacts.camilagmail.www.6.shop.mysnoiportal.ru
+cpcontacts.makeitawwesome.com
 cpcontacts.malaxos.be
 cpcontacts.matchboard.co.uk
 cpcontacts.meriediascorretora.com.br
@@ -3138,6 +3141,7 @@ devmobile.moveinsync.com
 directaccess.msbnj.com
 discord-auth.gke.marcjeffreys.co.uk
 discord-events.magicalcodewit.ch
+discordian.mydrobo.com
 dms.mosaicinsurance.com
 doanhthu-api.mobifoneservice.com.vn
 dpdhl-claims-form-dev.metadeploy.com
@@ -3220,9 +3224,11 @@ m-abayolawfirm.com
 ma3akplus.net
 maccuy.com
 maceksautoservice.com
+machsrichtig.jetzt
 mackenziedatastream.ca
 mactoddrestore.com
 madeforsafety.com
+maderasdelpueblo.org
 madinafarm.com
 madnessandabstract.com
 maestroservice.se
@@ -3277,6 +3283,7 @@ marketing-tt.com
 markkinoinnintrendit.fi
 marszone.ch
 martinsnews.com.br
+mashcal-cybercontrol.org
 mastinseguridad.com
 mastodon.xyz
 masw.com.cn
@@ -3318,6 +3325,7 @@ mecouncil.org
 medancardiovascularupdate.com
 mediabuk.com
 mediaindopos.com
+mediathekviewweb.de
 medicaavanzada.com
 medicalcityhealthcare.com
 medicalsolutionsgh.com
@@ -3346,6 +3354,7 @@ metisrecruit.com
 metrigy.com
 metropure.com.ng
 mettlers.de
+mf-discord-bot.ru
 mfpc.us
 miamiboatrental.org
 miamigodinero.com
@@ -3355,7 +3364,6 @@ microsoft-online.ru
 microsoft365ecommerce.com
 miehetry.fi
 mignon-cafe.fr
-mikeskasecurity.com
 mikslatvis.lv
 mindfullivingnetwork.com
 mini-creditos.eu
@@ -3390,6 +3398,7 @@ mobillastikyardimhizmeti.online
 mobilprice.ru
 moblox.mx
 modasitili.com
+moderator-acadmey.com
 modernmoney.net
 modernvalley.com.sa
 moejizatneverlostonly.com
@@ -3439,8 +3448,10 @@ moodle.biz
 moodservice.ma
 morelion-cap.com
 mortijuliaea.cyou
+mosan.pe
 moschatomag.com
 moscnmnde.com
+moshecohen.net
 motgm.uk
 motorcomusic.com
 mouton-resilient.com
@@ -3486,6 +3497,7 @@ mws.medha.in
 mx30.mailspamprotection.com
 my-admin.net
 my-lp.com.moslem-billionaire.com
+my-netflix.myvnc.com
 my-singpost.online
 my-sourcing.com
 my-ticketshop.de
@@ -3516,6 +3528,7 @@ mytouritalia.com
 mz-kb.com
 n8n.develop.self-service.mogic.com
 new.moneyful.co.uk
+newmoney.mins2.com
 ng.msg.teams.microsoft.com.office.20221125yukimo365.uclickshn2.myshn.net
 ng.msg.teams.microsoft.com.office.o365rp2.betagro.myshn.net
 nitro-v.mixhost-desu.com
@@ -3630,6 +3643,7 @@ ubt.digital-cloud-ibm.medallia.eu
 uks.mendel-online.com
 update.mejora2.online
 url.google.com.drive.googledrive.wiproltd.myshn.net
+url2499.maritime.social
 us1.mailchimp.com
 user154.ddns.net.meuimovel.shop
 userservice.uk.live.mkmapps.com
@@ -3638,7 +3652,9 @@ vip.miamigodinero.com
 walmart.moneynetwork.com
 web-jp-assets-v2.mercdn.net
 webaccess.mahwah.k12.nj.us
+webapp.mai.gov.ro
 webdisk.icloud-find.mx-es.us
+webdisk.makeitawwesome.com
 webdisk.matchboard.co.uk
 webdisk.matchlove.net
 webdisk.meriediascorretora.com.br
@@ -3729,6 +3745,8 @@ www.mainz-neustadt.de
 www.majesta.com
 www.makululinux.com
 www.malatyakombiservisi-tr.com
+www.malaysianupdate.com
+www.malaysianupdate.my
 www.malikhandymanservice.com
 www.mallardcreekvet.com
 www.malthouse-security.co.uk
@@ -3749,6 +3767,7 @@ www.markham.ca
 www.markmuirarchitect.com
 www.marlowsolutions.co.uk
 www.mars-computer.com
+www.marshallfiremap.com
 www.marshallnewsmessenger.com
 www.martamoranbishop.com
 www.marx-med.com
@@ -3756,6 +3775,7 @@ www.maryazarian.com
 www.marysvillejt.com
 www.mas.gov.sg
 www.masakeb-services.com
+www.mashcal-cybercontrol.org
 www.maskinduction.com
 www.massimilianofolegatti.eu
 www.mastercard.co.jp
@@ -3788,6 +3808,7 @@ www.mehlfeld.com
 www.meiji.co.jp
 www.mercadolibre.com
 www.mercadolibre.com.uy
+www.mercantilbanco.com.pa
 www.merchandising-onlineshop.com
 www.merckgroup.com.cn
 www.mersinspotesya.com
@@ -3899,6 +3920,7 @@ www.mysticseedsbank.com
 www.mythais.de
 www.mythopoeia.us
 www.mywabashvalley.com
+www.nachhaltigkeitsnetzwerk.mpg.de
 www.new.moneyful.co.uk
 www.noviksrastreamento.m1gprs.com.br
 www.obaseki.kube.matchfire.io
@@ -3928,6 +3950,7 @@ www.summerlyncontracting.msfsecurity.ca
 www.support-tv.markgoblog.xyz
 www.techfro.moneyfro.com
 www.ticket.mdsik.gov.my
+www.ticket.mjweb.com.br
 www.tickets.montironi.com
 www.tickets.myhostc1.in
 www.ufabit168.moneyworldresearch.com
