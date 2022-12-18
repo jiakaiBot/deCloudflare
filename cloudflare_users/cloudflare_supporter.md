@@ -9657,6 +9657,7 @@ Do not create new issue or we will close it as duplicate.
 | [Taygyi6@twitter](https://twitter.com/Taygyi6/status/1392528044842094594) | advertise |
 | [taymon_khanh@twitter](https://twitter.com/taymon_khanh/status/1388779801020747778) | advertise |
 | [TayZ12665178@twitter](https://twitter.com/TayZ12665178/status/1393148042392444933) | advertise |
+| [Tayza08959125@twitter](https://twitter.com/Tayza08959125/status/1604501318399590400) | advertise |
 | [TayZa94852932@twitter](https://twitter.com/TayZa94852932/status/1390702718637936640) | advertise |
 | [TayZar68135593@twitter](https://twitter.com/TayZar68135593/status/1391639499235487749) | advertise |
 | [Tayzar69470976@twitter](https://twitter.com/Tayzar69470976/status/1392415442992463873) | advertise |
@@ -9679,6 +9680,7 @@ Do not create new issue or we will close it as duplicate.
 | [tech97519794@twitter](https://twitter.com/tech97519794/status/1406477104200310788) | advertise |
 | [TecharoApp@twitter](https://twitter.com/TecharoApp/status/1401984338472931330) | advertise |
 | [techaurahelp@twitter](https://twitter.com/techaurahelp/status/1602214203703824384) | advertise |
+| [techaura_co_uk@twitter](https://twitter.com/techaura_co_uk/status/1602214203703824384) | advertise |
 | [TechEdUS1@twitter](https://twitter.com/TechEdUS1/status/1518902070438465536) | advertise |
 | [TechLifeApp@twitter](https://twitter.com/TechLifeApp/status/1523592317831053312) | advertise |
 | [technogun1819@twitter](https://twitter.com/technogun1819/status/1530095687236390912) | advertise |
