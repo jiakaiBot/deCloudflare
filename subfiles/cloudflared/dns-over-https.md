@@ -28,6 +28,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | alekberg.net | No |
 | alidns.com | No |
 | almir1904.eu | Yes |
+| ambiya.net | Yes |
 | arnor.org | No |
 | artikel10.org | No |
 | atakorah.com | No |
@@ -145,6 +146,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jeroenhd.nl | No |
 | jfchenier.ca | Yes |
 | justinnetworkingsolutions.com | Yes |
+| k0rap.com | Yes |
 | k3nny.fr | No |
 | kamilszczepanski.com | No |
 | kawa.tf | No |
@@ -221,9 +223,11 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sellan.fr | No |
 | shecan.ir | No |
 | shimul.me | Yes |
+| shuting.idv.tw | Yes |
 | silen.org | Yes |
 | slinkyman.net | Yes |
 | softcom.net | No |
+| southam.family | No |
 | spacedns.org | No |
 | spectrum.com | Yes |
 | startupstack.tech | Yes |
@@ -275,6 +279,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | your-dns.run | Yes |
 | ypbind.de | No |
 | zachitect.com | No |
+| zephyrus.id | Yes |
 | zernico.de | Yes |
 | zfsystem.tech | No |
 
@@ -283,8 +288,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 100 |
-| Normal | 164 |
+| Cloudflare | 104 |
+| Normal | 165 |
 
 
-### 37.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 38.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
