@@ -9894,8 +9894,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
@@ -10973,6 +10973,7 @@ Do not create new issue or we will close it as duplicate.
 | [William19073051@twitter](https://twitter.com/William19073051/status/1380260553881497607) | advertise |
 | [William59676471@twitter](https://twitter.com/William59676471/status/1390854991309467649) | advertise |
 | [williamsoe2020@twitter](https://twitter.com/williamsoe2020/status/1486584442055323648) | advertise |
+| [willlive_azov@twitter](https://twitter.com/willlive_azov/status/1604548834037735425) | advertise |
 | [wills143jt@twitter](https://twitter.com/wills143jt/status/1402910570215477249) | advertise |
 | [wills_wire@twitter](https://twitter.com/wills_wire/status/1464226826859995139) | advertise |
 | [WillTrn2@twitter](https://twitter.com/WillTrn2/status/1553325785313792000) | advertise |
