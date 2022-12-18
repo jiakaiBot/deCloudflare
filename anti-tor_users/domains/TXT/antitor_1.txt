@@ -166,10 +166,12 @@ xpzwga.am.files.1drv.com
 y402cg.db.files.1drv.com
 100072009411068.ga
 1000clients.com
+1000loanbadcredit.com
 101235458336404.ga
 105528598557255.ga
 1060radiolitoral.com
 107758163991656.ga
+115421423595947.ga
 116498821732592.ga
 123alarm.nl
 12mua.net
@@ -189,6 +191,7 @@ y402cg.db.files.1drv.com
 1stalarm.com
 1stclassvinylwindows.com
 a-1.1fichier.com
+a-8.1fichier.com
 account.1coverall.com
 am.1060radiolitoral.com
 click.em.1800baskets.com
@@ -206,6 +209,7 @@ www.11alive.com
 www.12news.com
 www.13newsnow.com
 www.13wmaz.com
+www.16minerstreet.com
 www.1tngs.com
 www.dev.1md.org
 www.dev.victimservicecenter.1appleton.com
