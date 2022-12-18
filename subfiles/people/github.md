@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare erroring when downloading Erigon snapshot](https://github.com/BNB48Club/bsc-snapshots/issues/45)
 - [avsogirl 스크립트를 업데이트 해주실 수 있으시나요?](https://github.com/KurtBestor/Hitomi-Downloader/issues/5547)
 - [TypeError: Cannot read properties of undefined (reading 'filter') Tanstack table (React)](https://github.com/TanStack/table/issues/4610)
 - [520 error in CloudFlare when Gunicorn shows Ignoring connection reset](https://github.com/benoitc/gunicorn/issues/2903)
