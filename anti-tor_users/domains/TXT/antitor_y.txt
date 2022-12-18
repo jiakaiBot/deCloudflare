@@ -274,6 +274,7 @@ activity.yptqkc.cn
 admin.fast-track-v2-integration.yabawt-clients.com
 admin.fast-track-v2.yabawt-clients.com
 an.yandex.ru
+app14.yellow-page.us
 asset.yes.my
 b90.yahoo.co.jp
 baseball.yahoo.co.jp
@@ -298,10 +299,12 @@ ohrmiank.rdyzxmef.julyngsa.hrweb.yalecarolinas.com
 prambanan.yokke.co.id
 pvtag.yahoo.co.jp
 rdyzxmef.julyngsa.hrweb.yalecarolinas.com
+redirect.appmetrica.yandex.com
 refactor-alerts.mf-yss.yousee.dk
 safeway.yahia.fr
 sig-inbank.yofin.ru
 sta.api.youatcollege.com
+static.77.219.108.65.clients.your-server.de
 support.yougethost.com
 updateimmo.go.yo.fr
 v-apt85sygrz.wc.yahoodns.net
@@ -339,6 +342,7 @@ www.yunweinnlogin.com
 y-bb.ru
 yahool.tech
 yaidans.com
+yakora.cl
 yamahamusicbangladesh.com
 yarpaket.ru
 yatisocialfoundation.org
@@ -347,6 +351,7 @@ yello.com.ua
 yellowsilkattorneys.com
 yemenembassy.de
 yesvkyc.yesbank.in
+yilbasi-mujdesi-denizuyelere.ml
 yoergbeer.com
 yoga36.de
 yomi-kata.com
