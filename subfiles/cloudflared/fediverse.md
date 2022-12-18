@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,858 |
+| com | 4,859 |
 | social | 2,912 |
 | net | 2,517 |
 | org | 1,820 |
@@ -4453,6 +4453,7 @@ Here's a list of public Fediverse services.
 | `cdstm.ch` | No |
 | `ceb8.de` | No |
 | `ced117.net` | No |
+| `cedar-republic.com` | No |
 | `cedgrim.be` | No |
 | `cedricbonhomme.org` | No |
 | `ceejayoz.io` | No |
@@ -33320,7 +33321,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,564 |
-| Normal | 25,712 |
+| Normal | 25,713 |
 
 
 ### 22.7% of public Fediverse services are using Cloudflare.
