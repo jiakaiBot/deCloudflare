@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Filter out cloud flare origin cert errors](https://github.com/Infinytum/ingress/issues/6)
 - [Cloudflare erroring when downloading Erigon snapshot](https://github.com/48Club/bsc-snapshots/issues/45)
 - [NoneType' object has no attribute 'find'](https://github.com/drooling/phosint/issues/3)
 - [Separate bgpq-args for IPv4 and IPv6](https://github.com/natesales/pathvector/issues/144)
