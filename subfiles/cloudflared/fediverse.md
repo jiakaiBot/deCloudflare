@@ -33053,6 +33053,7 @@ Here's a list of public Fediverse services.
 | `ysr.ie` | Yes |
 | `ystn.win` | Yes |
 | `ytgrsua4.net` | No |
+| `ything.xyz` | No |
 | `ytopia.xyz` | No |
 | `ytringsrett.net` | No |
 | `yttrx.com` | Yes |
@@ -33495,7 +33496,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,617 |
-| Normal | 25,834 |
+| Normal | 25,835 |
 
 
 ### 22.8% of public Fediverse services are using Cloudflare.
