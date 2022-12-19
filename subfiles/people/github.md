@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Maybe erDiagram entities cannot have spaces in their names?](https://github.com/mermaid-js/mermaid/issues/3931)
+- [Update Mermaid Library for Entity Diagram Parsing Issue](https://github.com/usnistgov/hugo-uswds/issues/25)
 - [Filter out cloud flare origin cert errors](https://github.com/Infinytum/ingress/issues/6)
 - [Cloudflare erroring when downloading Erigon snapshot](https://github.com/48Club/bsc-snapshots/issues/45)
 - [NoneType' object has no attribute 'find'](https://github.com/drooling/phosint/issues/3)
