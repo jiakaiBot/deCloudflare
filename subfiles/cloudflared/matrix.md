@@ -22,6 +22,7 @@ Here's a list of public Matrix services.
 | Service | Cloudflared |
 | --- | --- |
 | 0wnz.at | No |
+| agdersam.no | No |
 | riot.allmende.io | No |
 | alternanet.fr | No |
 | anonymousland.org | No |
@@ -110,7 +111,6 @@ Here's a list of public Matrix services.
 | the-apothecary.club | No |
 | matrix.tomesh.net | No |
 | trygve.me | No |
-| ungleich.matrix.ungleich.cloud | No |
 | matrix.unredacted.org | Yes |
 | utwente.io | No |
 | mtrx.vern.cc | No |
