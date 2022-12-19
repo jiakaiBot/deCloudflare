@@ -1353,6 +1353,7 @@ aovpn.haringey.gov.uk
 api.hatson.co.in
 api.healness.se
 api.hivesocial.app
+api.home-connect.com
 api.www.homebank.ro
 api2.homebank.kz
 app.hey.com
@@ -1361,9 +1362,11 @@ auth-oimg-stream-appwebapp-config-pre.huolala.cn
 auth.happycolour.be
 autodiscover.hydrovacsolution.com
 autodiscover.hypecustom.pt
+awards.hrasiamedia.com
 ba.hitomi.la
 backend.huskyjam.com
 backup.holzfriseure.de
+badvoltage-slack.herokuapp.com
 bbord-nitrogen.hisqool.dev
 betaservices.hambs.net.au
 bicorn-waggle.herokuapp.com
@@ -1405,11 +1408,13 @@ cpcontacts.havasagro.com
 cpcontacts.healthpointbloodsugar.com
 cpcontacts.hiroeroblog.com
 curtis.house.gov
+customerservices.cpr.hol.es
 deadly-sewellel.herokuapp.com
 declaratory-fencesitter.herokuapp.com
 dehumanised-slick.herokuapp.com
 dev.api.heydyno.de
 dev.hexal.org
+di-integrated.hepsiian.com
 dis-core.pub.stg.hou.hermesgermany.digital
 discordcp.hyperlayer.co.za
 discordguardiandev.hellmich-it.de
@@ -1453,6 +1458,7 @@ handyproperty.com.ng
 hankiwi.com
 hanoimobile.vn
 happyapplepie.com
+harianborneopost.com
 harvestingwork.info
 hatiencorp.vn
 hattanagro.com
@@ -1499,6 +1505,7 @@ highpointhealthpartners.com
 highs.com
 hilaryweeks.com
 hilliardscorp.com
+hipatiapress.com
 hireplace.it
 hiroeroblog.com
 his-ambition.my.id
@@ -1528,8 +1535,10 @@ honeybees.ir
 hookedfoods.com
 hookget.online
 hoopspoolservice.com
+hootsworkshop.com
 hopefuru.com
 horacek.com.au
+hosanna.com.sg
 hosteleer.com
 hostingvictory.com
 hotasianfever.fun
@@ -1555,6 +1564,7 @@ hubb.link
 humanitarianfrontierslab.org
 humphreymanagement.com
 hunoconta.com
+hunterbfuller.com
 hunterlevinsohn.com
 hunterplastics.com
 hunterreed.com
@@ -1577,6 +1587,7 @@ immunisationhandbook.health.gov.au
 information.hsbc.com.mt
 insights.huschblackwell.com
 is1-3.housingcdn.com
+january6th.house.gov
 judiciary.house.gov
 korona-jaroslaw.hootway.net
 lacartist.hp.gov.in
@@ -1603,6 +1614,7 @@ parabolic-laudability.herokuapp.com
 perfected-cachinnation.herokuapp.com
 placative-tertiary.herokuapp.com
 play-dev.hatchnmatch.com
+polyoicous-ulvophyceae.herokuapp.com
 portal-lm.uat.haeco.com
 portal.hb9566.cn
 ppm-clientsds-cust.hexagonsmartlicensing.com
@@ -1651,6 +1663,7 @@ trustwallet.hsefast.com
 unchealth-aem-qa01-pub1.herodigital.dev
 unchealth-aem-uat01-pub1.herodigital.dev
 uninvited-klamath.herokuapp.com
+upstream-afterpains.herokuapp.com
 vm4032807.25ssd.had.wf
 waap-api.h3rmes.com
 web-feature-update-address-offices.internal.hanzo.es
@@ -1686,6 +1699,7 @@ www.haderner-augustiner.de
 www.halkidikifocus.gr
 www.hameenliitto.fi
 www.hamlynwilliams.com
+www.hanchettssepticservice.com
 www.hancocktaxservice.com
 www.hanoi-fusion.de
 www.happinessprinting.com
@@ -1722,7 +1736,9 @@ www.hitched.co.uk
 www.hizennya.com
 www.hkcdshop.com
 www.hkinfoway.com
+www.hksprinttax.com
 www.hmsalarm.no
+www.hnsgh.com
 www.home-bank.ml
 www.home-bank.tk
 www.homecine-compare.com
@@ -1750,6 +1766,7 @@ www.hunterautopa.com
 www.hunterpetmotel.com.au
 www.huntersautoinc.com
 www.huntersfarmshopmk.co.uk
+www.huntersridgeliving.com
 www.huntmillerco.com
 www.huntmyride.com
 www.hurricaneimpactwindow.com
@@ -1767,6 +1784,7 @@ www.securematicskingsstudios.hotelmoinmoin.top
 www.servicecenter.hexaintech.com
 www.services.hoseaflavour.com
 www.spotifypremium.hcsavn.com
+www.support.hazle.dev
 www.support.horeka.ro
 www.tickets.heavyant.com
 www.trackbot.hardworktoday.online
