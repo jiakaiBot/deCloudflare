@@ -171,8 +171,10 @@ www.tracker.wiki.qantara.com.au
 www.trustgoldenbank.quick24courier.com
 xiashiweo.qhigh.com
 youtrack.quicksearch.se
+betas.quantalucia.com
 datarobot.edr.stg.qantasloyalty.net
 device.app.qbee.io
+dpvverify.saas.devshared.ondemand.qas.com
 enyl.us1.qeadaptiveauth.com
 idp.desktopdev.quicktools.cloud
 img.quiport.com
@@ -191,6 +193,7 @@ qsep.com
 quality-containers.com
 quangtanhoa.com
 quantumdelta.nl
+quantumdyno.com
 quazzartech.com
 qudi.ni
 quick2credit.com
@@ -217,6 +220,7 @@ www.qantasnewsroom.com.au
 www.qehconnect.com
 www.qicuntech.com
 www.qnap.com
+www.quakeroats.com
 www.quality1travel.com
 www.quantable.com
 www.quantakinetic.com
