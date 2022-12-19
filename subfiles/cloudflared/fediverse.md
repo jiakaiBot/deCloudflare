@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,896 |
+| com | 4,897 |
 | social | 2,947 |
 | net | 2,533 |
 | org | 1,842 |
@@ -61,6 +61,7 @@ Here's a list of public Fediverse services.
 | `0chan.ru` | Yes |
 | `0day.agency` | Yes |
 | `0daysto.live` | Yes |
+| `0ddfactory.com` | No |
 | `0ds.org` | No |
 | `0j0.jp` | No |
 | `0ko.me` | Yes |
@@ -22069,6 +22070,7 @@ Here's a list of public Fediverse services.
 | `oxasploits.com` | Yes |
 | `oxel.me` | No |
 | `oxente.club` | No |
+| `oxgoad.page` | No |
 | `oxhead.dev` | No |
 | `oxidized.systems` | No |
 | `oxlajujqanil.net` | No |
@@ -33555,7 +33557,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,642 |
-| Normal | 25,869 |
+| Normal | 25,871 |
 
 
 ### 22.8% of public Fediverse services are using Cloudflare.
