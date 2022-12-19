@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [NoneType' object has no attribute 'find'](https://github.com/drooling/phosint/issues/3)
 - [Separate bgpq-args for IPv4 and IPv6](https://github.com/natesales/pathvector/issues/144)
 - [Proposal: Implement a Workaround for the Stackblitz EACCES Error](https://github.com/solidjs/solid-start/issues/550)
 - [Cannot Install nvm on ubuntu](https://github.com/nvm-sh/nvm/issues/2983)
