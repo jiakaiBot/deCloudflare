@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,903 |
+| com | 4,904 |
 | social | 2,948 |
 | net | 2,535 |
 | org | 1,842 |
@@ -1424,6 +1424,7 @@ Here's a list of public Fediverse services.
 | `ancap.su` | No |
 | `ancapchan.info` | No |
 | `ancel.io` | No |
+| `ancelade.com` | Yes |
 | `ancestorstales.com` | No |
 | `anchel.nl` | No |
 | `anchovies.pizza` | No |
@@ -3213,7 +3214,7 @@ Here's a list of public Fediverse services.
 | `bitcoinhackers.org` | Yes |
 | `bitcoinlizard.net` | No |
 | `bitcoinmagazine.social` | No |
-| `bitcoinmastodon.org` | No |
+| `bitcoinmastodon.org` | Yes |
 | `bitcoinplebs.net` | No |
 | `bitcoinsasquatch.com` | No |
 | `bitcointv.com` | No |
@@ -33574,8 +33575,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,646 |
-| Normal | 25,885 |
+| Cloudflare | 7,648 |
+| Normal | 25,884 |
 
 
 ### 22.8% of public Fediverse services are using Cloudflare.
