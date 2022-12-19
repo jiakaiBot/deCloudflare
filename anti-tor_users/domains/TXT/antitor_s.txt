@@ -6160,6 +6160,7 @@ adeslas.segurosmisalud.com
 adminserverascxzv.square.site
 aga.yandex.ru.secator.com
 allns1.suivi-securesnet.com
+amazon-1e2-dev-ed.my.salesforce-scrt.com
 amazon-update.sendcoprtezegrzes.com
 amazon751-dev-ed.my.salesforce-scrt.com
 ameritechnetatt.square.site
@@ -6180,6 +6181,7 @@ api.speedfun.com.ua
 api.sprintmap.pl
 api.suasman.staging.sofapps.net
 api.suncorp.co.nz
+api.sunnybee.in
 api.syrinx.dev
 api.uat3.test.aws.singtel.com
 apigw-isit.staging-eid.gov.hk
@@ -6198,6 +6200,7 @@ apps.segurosequinoccial.info
 apps.sentara.com
 appservice.spi-global.com
 ar.sheffaa.com
+ariel.shtibel.com
 artcollisions.square.site
 assets.saytechnologies.com
 assets.static-bahn.de
@@ -6246,6 +6249,7 @@ att-feet.square.site
 att-ion.square.site
 att-mail-100912.square.site
 att-mail-102854.square.site
+att-mail-10700.square.site
 att-mail-107775.square.site
 att-mail-107936.square.site
 att-new-versi0n.square.site
@@ -6272,6 +6276,7 @@ attnetmailuser-sign-in.square.site
 attnewupgradessviiew.square.site
 attonlineservice-updated16.square.site
 attrefttr.square.site
+attrtdxtrdtdtrdtr34567wsdfgvh4567sdfgh.square.site
 attservicecare27.square.site
 attsigincurrentlyworld.square.site
 attsignincurrentlyworld.square.site
@@ -6344,6 +6349,7 @@ c59176.blog.ss-blog.jp
 calendar.api.sievocloudlab.com
 calendar.spectrumcorona.com
 cannabis.shoppersdrugmart.ca
+capitalent-proxy.starhunter.software
 captchablob.services.sitewalk.com
 cardbill.scsb.com.tw
 catastromineronline.sernageomin.cl
@@ -6374,6 +6380,7 @@ cpanel.siboheribi.com
 cpanel.southwestairlinesinsanfrancisco.us
 cpanel.sportcomercial.com.br
 cpcalendars.sapphirefoxx.net
+cpcalendars.scoutingforthecure.com
 cpcalendars.sditcordova.sch.id
 cpcalendars.secure001-online-id-verification-coinbase.com
 cpcalendars.secure002-online-id-verification-coinbase.com
@@ -6417,6 +6424,7 @@ currentlyattyahoo-104987746467hr6y4t6r4t6rg46rr4.square.site
 currentlyattyahooworld.square.site
 currl8489.square.site
 cv.shopping-trend.net
+dango-proxy-dev.su-pay.jp
 danone--acme.my.salesforce-scrt.com
 dash.saudi-ems.com
 datebook.sfchronicle.com
@@ -6436,6 +6444,7 @@ devpayrollcontrol.sdworx.co.uk
 devportal.sdworx.co.uk
 devwww.sdworx.co.uk
 dfp-gateway.s-onetag.com
+dhl.safely-sales.ml
 diacorsas.senseholding.co
 difusion.sba.com.ar
 discordbot.showcast.me
@@ -6447,6 +6456,8 @@ douglas.swissbilling.ch
 down.smackforjp.ovh
 dqxq6k7n4tgbtmi.covid19.staging-beta.com
 dts-owa.sefe-group.com
+e1345286.api.splkmobile.com
+ebay.safely-sales.ml
 eck-aad.sharepointguild.com
 edg.scalacontentmanager.com
 eitmorg.stage.site
@@ -6517,6 +6528,7 @@ imtoken.iol.singpost.net.cn
 info.sds.world
 infokelulusansd.shubatam.sch.id
 initiativacom.stage.site
+intellinet.sdworx.co.uk
 interface.synxis.com
 intesasanpaolospa.servecounterstrike.com
 invest.smothexpressdelivery.com
@@ -6581,6 +6593,7 @@ meet.safeotc.pro
 metamask.io.merge.shreesevenhillshospital.com
 mgtp01.engage.squarespace-mail.com
 michael-multiservice.siitedev.dk
+missouriwildhorses.square.site
 mitch1.blog.ss-blog.jp
 mixmax-tracking.stake.rent
 mnvxiixx.square.site
@@ -6590,6 +6603,7 @@ mobilite.sapeurs-pompiers.mc
 mockuptreasury.sinergiintipiranti.com
 mohrm.sacofa.com.my
 monthlyupdate.seocompanyliverpool.com
+mps.smartsheetgov.com
 ms-adit--krakend-gateway.es-microadv-pro.fw9f4is1.schip.io
 ms-adit--krakend-gateway.es-microadv-pro.schip.io
 ms-fc--web-krakend.es-microfc-pro.schip.io
@@ -6630,6 +6644,7 @@ netflix-signin.spak-xtra.com
 netsecuredsubscription-update.siteofficial-web.com
 new.edremitucakbileti.cmail.ablog.news.sib-atk.ru
 newsigninprodigy.square.site
+nf3e-homologacao.svrs.rs.gov.br
 nginx.pr-148.servicewa.lagoon.salsa.hosting
 nginx.pr-154.servicewa.lagoon.salsa.hosting
 nginx.pr-175.servicewa.lagoon.salsa.hosting
@@ -6649,12 +6664,15 @@ office.scaltel.de
 oidc.idp.elogin.e-access.sbc-corp.live
 okx.sjv.io
 online.sovcombank.ru
+optus-mail.square.site
 orum-multiservice.siitedev.dk
 otuat.sterliteapps.com
 owa.spiritdsp.com
+p-sbr-alb-cms-02-821896318297.cloudnet.subaru.co.jp
 p1-ox-gen-sigr521.service.signalr.net
 pages.email.savills-asia.com
 pay.skrill.com
+pay.speedynotarytoronto.ca
 paybillls932.square.site
 paybtbillll32.square.site
 paypls3cured.service4.online
@@ -6670,6 +6688,7 @@ portal.seg-social.gob.es
 portal.sondait.com.br
 portaldatos.seg-social.gob.es
 pos.smartinnovations.com.pk
+post.safely-sales.ml
 poster.sechno.com
 postgrest.store-risen.com
 powerplay88.mifan88.com.f5b268f5-be7b-4eca-ab89-1b578db476a9.auto.origin.ss20.swiftserve.com
@@ -6703,6 +6722,7 @@ rss.sadium.ml
 rt.successfulmatch.com
 rtgyh-102213.square.site
 s.eu.securefileshares.com
+s3ad7.com
 s88d80.support247.top
 sa-cinn.com
 sabukaratelessons.com.au
@@ -6730,6 +6750,7 @@ safelytours.com
 safemanager.cl
 safemetatrading.com
 safenet.no
+saferbulb.com
 safercommunities.net
 safersportsbettingillinois.com
 safeseguros.org
@@ -6768,6 +6789,7 @@ salesofficial.ind.in
 salov.com
 sama-cloud.info
 samarsetup.com
+sambodhi.co.in
 samiske-vgs-no.styretsvs.no
 sammyfisherjr.net
 sandbox.srivarumotors.com
@@ -6809,11 +6831,13 @@ scholarworks.seattleu.edu
 schuelerladen-grossepause.de
 schuheherren.de
 schwedentipps.se
+sci-league.ru
 sciani.com
 science.gc.ca
 sciencebug.in
 scorm.servicerocket.io
 scotia-online-helpdesk.com
+screw.wtf
 scrutable.science
 sdint.com.ng
 sdnsp3prode.sch.id
@@ -6826,10 +6850,12 @@ seba.ar
 sebcarestestmfp8.sarawakenergy.com.my
 secularprolife.org
 secure-cornerstonb.com
+secure-myaccount.com
 secure-sahibinde-onlineodeme.tk
 secure.seekahost.net
 secureatt5.square.site
 securecity.fr
+securedeals.ae
 securedindustrialservices.com
 securediscord.com
 secureditpros.com
@@ -6864,6 +6890,7 @@ seemsollyrpt.square.site
 seesaawiki.jp
 sefindosecurity.com
 segmentopopular.pt
+segunoni4governor.com.ng
 seguridadcentinelas.com
 seguridadoncor.com
 seguridadposeidon.com
@@ -6907,6 +6934,7 @@ serversmtpbond.com
 service-discover.com
 service-high.ru
 service-nettoyage-paris.com
+service-online-101106.square.site
 service-waterkomp.com
 service.feature-pairing-s-pgmah8.dev.skidentity-test.de
 service.s90.com
@@ -6922,6 +6950,7 @@ serviceauto.ro
 servicebaba.shop
 serviceboxen.dk
 servicebykent.com
+serviceconsprest.ro
 servicedd.in.th
 servicedinamic.ro
 servicedotweb3.online
@@ -6993,7 +7022,9 @@ shesinthemoney.com
 shibaverse.io
 shikakupc.com
 shinshoku.net
+ship.shapewright.com
 shirdicarhotels.com
+shitballs.org
 shivamastroservice.com
 shop-cocco.jp
 shop-iptv.com
@@ -7037,6 +7068,7 @@ sindio.eu
 singaporehamperdelivery.com
 singaporehamperdelivery.stagingemphasis.com
 singpost-ads.life
+siooon.com
 siperkasa.my.id
 sirc.online
 sirfranzis.at
@@ -7048,6 +7080,7 @@ sistemaciatlus.com.br
 sistemath.com.br
 sistesiste.seilservice.no
 sitelersigorta.com
+sitio.serviciosgraficos.cl
 situation-control.co
 siuncoasthelp.info
 sizbiz.com.au
@@ -7080,8 +7113,10 @@ slow-living.no
 slowliving.hu
 sm66online.asia
 sman3kupang.sch.id
+smartclinicupdate.smarttargetkwt.com
 smartdesign.rw
 smartfinservice.com
+smartltd.com
 smartmoneypedigree.com
 smartpowered.org
 smartroom.ro
@@ -7187,6 +7222,7 @@ staemcoummunity.com
 stage-www.sunlife.com.hk
 staging.sinotif.com
 staisiak.ac.id
+standardbank-2c0-dev-ed.my.salesforce-scrt.com
 standardbank-4b8-dev-ed.my.salesforce-scrt.com
 standardsweets.org
 starfield.gg
@@ -7207,6 +7243,7 @@ steamcommnuunlity.com
 steamcommulity.ru
 steamcommunetiy.com
 steamcommuniity.org.ru
+steamcommunityking.top
 steamcommunityn.asia
 steamcommunitynico.top
 steamcommunitysio.top
@@ -7233,12 +7270,12 @@ steamcomunltly.ru
 steamconmmuntiy.com
 steamconmmuntiy.ru
 steamconmnunilty.ru
-steamconmynit.ru
 steamconrnmunity.com
 steamcoumunity.com
 steamcrommunittly.ru
 steammcomuniity.ru
 steamncommuntiy.com
+steancommunutly.com
 steancrommnunity.ru
 steanrcommunity.com
 stearncommunyuty.ru
@@ -7251,7 +7288,10 @@ stemcommunnitly.com
 stemcommunnitly.ru
 stemcommunnitty.ru
 stemcommunntly.com
+stemcomunitly.com
+stemcomunitty.com
 stephanieburgis.com
+stephantest.de
 steroidcommunity.com
 stevenselectricservice.com
 stevillo.com
@@ -7259,6 +7299,7 @@ stewartcarswell.co.uk
 stfservice.se
 stgevents.com.au
 stgoals.com
+stickers.gg
 stillootica.com.br
 stillsonlaw.com
 stilski-namestaj.com
@@ -7281,6 +7322,7 @@ stuffark.com
 styrekonsulent.no
 sub-hypeds.com
 subaruhomecharger.com
+subastanomics.com
 sube.sekeryatirim.com.tr
 subethasoftware.com
 subiektywnieofinansach.pl
@@ -7301,6 +7343,7 @@ suomentietokonemuseo.fi
 sup03-arves1.info
 supercrete.lk
 superdoce.cl
+supergroup.id
 superioroneservice.com
 superkultur.dk
 superrichtax.com
@@ -7308,6 +7351,8 @@ superservice.ro
 supervalueliquor.com
 support.saksfifthavenue.com
 support.sitehero.io
+support.stratelegy.com
+support.sycl.one
 supportamazon.ca
 supportapple.com.am
 supportdonbacon.com
@@ -7325,6 +7370,7 @@ surveysampler.com
 survivedcovid19usa.com
 suseanh.com.mx
 sussexpast.co.uk
+sutharcommunity.co.uk
 suviauvinen.fi
 suzukiegypt.net
 sv-l.com.ua
@@ -7356,8 +7402,10 @@ telecom.schulski-it.nl
 telenet-webmail-109501.square.site
 territoiresvendomois.fr.update.dev04.stratis.fr
 test.sami-international.silvahost.com
+test.sasaeaimuryousoudan.ssc-01.com
 test.savvyproblogger.com
 test.seilservice.no
+test.siemens-service.tech
 test.strapi.smart-garant.fr
 test14-dev-ed.my.salesforce-sites.com
 testcom-1a6-dev-ed.my.salesforce-scrt.com
@@ -7391,7 +7439,9 @@ u10264742.ct.sendgrid.net
 u10338503.ct.sendgrid.net
 u11054303.ct.sendgrid.net
 u1157545.ct.sendgrid.net
+u11630594.ct.sendgrid.net
 u11936407.ct.sendgrid.net
+u12062474.ct.sendgrid.net
 u12094218.ct.sendgrid.net
 u12309619.ct.sendgrid.net
 u12673726.ct.sendgrid.net
@@ -7443,10 +7493,12 @@ u2363076.ct.sendgrid.net
 u23678864.ct.sendgrid.net
 u24125862.ct.sendgrid.net
 u24243596.ct.sendgrid.net
+u24463373.ct.sendgrid.net
 u25082823.ct.sendgrid.net
 u2534942.ct.sendgrid.net
 u25394539.ct.sendgrid.net
 u2545375.ct.sendgrid.net
+u25511067.ct.sendgrid.net
 u26402397.ct.sendgrid.net
 u26483393.ct.sendgrid.net
 u26806596.ct.sendgrid.net
@@ -7575,6 +7627,7 @@ whm.slur06.website
 whm.smuber.es
 whm.starbucksautowrap.co
 works.seiyamtmt.site
+wrapped-images.spotifycdn.com
 ws-adra.sdasystems.org
 wvvmcurrentllyatttyahoocom.square.site
 www-uat.skyhall.be
@@ -7607,6 +7660,7 @@ www.barmansanat-drb.serviceplas.com
 www.bckfc.servicescsmb.com
 www.bcksae.servicescsmb.com
 www.bcsupport.softwaremagenta.id
+www.bdmoney.superstarfamilly.com
 www.blog.blog.blog.blog.testshop.test.shopplus.vip
 www.blog.whm.blog.blog.o69iay0p.admin.test.shopplus.vip
 www.bmipharma.securemedical.ro
@@ -7699,6 +7753,7 @@ www.janemusicmanagement.com.client-15.savyour.cyou
 www.jec.senate.gov
 www.kgb2tes.supportsystem.my.id
 www.klant3.studiofont.nl
+www.lalexport.symatrixbposupport.co.in
 www.lee.senate.gov
 www.leinfelden-echterdingen.sitzung-online.de
 www.login.santeecoopercareers.com
@@ -7707,6 +7762,7 @@ www.lucyexhibition.com.servicegensets.com
 www.m3seguros.sliceconsultoria.com.br
 www.manage.sib-atk.ru
 www.marshall.senate.gov
+www.menendez.senate.gov
 www.mipetseguro.soyepico.com
 www.mitarjetacencosud.login.cl.smpn1probolinggo.sch.id
 www.monthlyupdate.seocompanyliverpool.com
@@ -7728,6 +7784,7 @@ www.phutaidelivery.sabaiqr.com
 www.phyaccess.siemens-healthineers.com
 www.post-import.soegaard-nielsen.dk
 www.post.spyschool.ru
+www.posterplexus.com.s99.net
 www.rachat-d-credit.sixieme-dimension.ch
 www.repairandservicebangalore.symatrixbposupport.co.in
 www.ronjohnson.senate.gov
@@ -7752,6 +7809,7 @@ www.safenet.no
 www.safeny.co
 www.safeplacetoplay.com
 www.safer-mail.co
+www.saferbulb.com
 www.safesleepspace.education
 www.safestbabytravel.com
 www.safesttrades.synotec.lk
@@ -7790,6 +7848,7 @@ www.sarahstoneartshop.com
 www.sarapan.seputarberitaupdate.com
 www.sardiniapost.it
 www.sarkarisupport.com
+www.saviomclient.com
 www.sbw-foerderverein.de
 www.scanupdate.scandinavianclinic.com
 www.scdatr.ro
@@ -7809,6 +7868,7 @@ www.seba.ar
 www.secure-dsp-sg.info
 www.secure.standarbchartered.com
 www.secure07-3d.com
+www.securedeals.ae
 www.securedocument.site
 www.securegateautomationltd.co.uk
 www.securespros.com
@@ -7841,6 +7901,7 @@ www.sellosdeseguridad.net
 www.sellosybanca.com
 www.sem-chemnitz.de
 www.sempoasip.com.au
+www.sempower.pe
 www.senate.gov
 www.sensesatlas.com
 www.seoguru.app.safeupload.co
@@ -7931,6 +7992,7 @@ www.sirene.fi
 www.sistersincrime.org
 www.sitemodify.com
 www.sitepro.loomisweb.com.br.sonicdelivery.com.br
+www.sitio.serviciosgraficos.cl
 www.sk.hk.cn
 www.skatelikeagirl.com
 www.skellerup.co.nz
@@ -7959,6 +8021,7 @@ www.snel-je-vog-geregeld.nl
 www.snootyfox.shop
 www.snowblowersdirect.com
 www.soakupdestination.servicetocustomers.com
+www.softbankhawks.co.jp
 www.softboss.id
 www.softt.dev
 www.solananetworks.com
@@ -8034,6 +8097,7 @@ www.submarino.com.br
 www.sugatarestaurant.com
 www.sultraupdate.id
 www.summonersensemble.org
+www.superbetsy.com
 www.support-applewallet-id.com
 www.support-mm-wallets.ru
 www.support.skynett81.net
@@ -8052,6 +8116,7 @@ www.sweetsandcandy.co.uk
 www.sxintegra.com.br
 www.syncsecurity.co.uk
 www.systemsapproach.org
+www.szaryburek.pl
 www.test.systemservice.gr
 www.thenewsroom.info.client-19.savyour.cyou
 www.ticketmaster.streamhd.site
