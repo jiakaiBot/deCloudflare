@@ -1096,8 +1096,6 @@ www.bank.vikscard.com
 www.beta.valutapp.com
 www.beta.verymoney.com
 www.billing.vviphosting.com
-www.bitcoinuser.vastpips.com
-www.btcuser.vastpips.com
 www.ccb.vida-esperanza.org
 www.clientes.ventipos.com
 www.clientes.vqtechsystemcorp.com
@@ -1126,8 +1124,6 @@ www.siscontrol.velocity.net.ec
 www.subdomain.findlphoneimaps.online.verifylocation.live
 www.titanic.visionservice.com.pe
 www.update.voyage-quantique.fr
-www.user.vastpips.com
-www.useraccount.vastpips.com
 www.v2.cookies.viccompuser.com
 www.vac.com.sg
 www.vaccinatiestudiecorona.nl
@@ -1246,6 +1242,7 @@ apollometeornyc.vercel.app
 app.viskase.com
 apple-icloud.vercel.app
 apps.vrsg.ch
+authensecsfr.vantechddns.com
 autodiscover.vauttech.in
 autodiscover.vgacmedia.com
 bbs.vansteinenco.nl
@@ -1257,11 +1254,13 @@ blog.blog.blog.vmail.valetparking.pl
 blog.blog.dev.vmail.valetparking.pl
 blog.dev.vmail.valetparking.pl
 blog.store.vmail.valetparking.pl
+captchadex.vercel.app
 care.vyaire.com
 cekmuka.com.verifywajah.com
 cf-edge.video.fox
 christinafox93.vercel.app
 click.comunicaciones.vodafone.es
+click.info.virtualedelivery.com
 client.vivortis.com
 cnn.videomemetemplate.com
 coastaldiecut.v3client.com
@@ -1300,6 +1299,7 @@ discosdevictoria.vercel.app
 discrird.vercel.app
 dlf-aspire-api-ca-central-1.dni.velocityfabric.com
 dogforlife.v3client.com
+domaincfg.vivo.com
 download.viewworks.nl
 dprushchak.vercel.app
 dynos.vercel.app
@@ -1327,6 +1327,7 @@ h0i6d2e1-gmailcom.vercel.app
 ha.vermeerschconsulting.be
 hb-a.services.vnc.com
 hunt3751.vercel.app
+hunterwatrin.vercel.app
 idp.comid.ace-1d0df0aa.core.build.vwn.cloud
 imadozaim-gmailcom.vercel.app
 image.northeast.vitalant.org
@@ -1360,6 +1361,7 @@ myvrs.xenv1.varetire.org
 naoyukikanezawarecaptcha0.vercel.app
 naoyukikanezawarecaptcha2.vercel.app
 navid-asgharzadeh.vercel.app
+navizdev.vercel.app
 netservicos.victoria-seguros.pt
 nexoficial.shop.voxpainelsmm.online
 nicholasfoxen.vercel.app
@@ -1396,6 +1398,7 @@ rakutenready.vercel.app
 rec1.vidagroupapps.com
 robfox805.vercel.app
 robloxbunny1234.vercel.app
+robloxhax.vercel.app
 robloxiandemo.vercel.app
 robloxnameallowed.vercel.app
 robloxyt1team.vercel.app
@@ -1496,6 +1499,7 @@ violainechapallaz.com
 virabank.viraza.net
 virl.bc.ca
 virtualcall.com.br
+vishalpai.com
 vishwakarmarollingshutter.in
 visitlokka.no
 visualsquirrels.net
