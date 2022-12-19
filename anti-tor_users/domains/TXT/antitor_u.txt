@@ -316,7 +316,6 @@ dandurand.uqam.ca
 dashboardcovidbrasil.di.uern.br
 demo.utilibill.com.au
 demo3.utilibill.com.au
-designthinking.extension.ucr.edu
 dev-micropay.uplus.co.kr
 dev.api.data.unicloudgroup.com.vn
 dev.api.hrmconfig.unicloudgroup.com.vn
@@ -722,6 +721,7 @@ amazon.com.myaccoun5enlays9sqnb-ulight32.ukittest.ru
 analytics.uvesolutions.com
 anandamed3.avvatar.usermd.net
 api-gisoperaciones.ufd.es
+api-www2.ukhillwalking.com
 api.unnati.gov.in
 appleld.uss-lnc.com
 arena.upstay.tech
@@ -729,7 +729,9 @@ assettv.updatemyprofile.com
 attach.unityclient.com
 auth.grafana.unifi-id.click
 auth.unibet.com.au
+autodiscover.uct3223457163.com
 autodiscover.unapausaagradable.es
+autodiscover.utvnitrous.net
 automatedirstrffusgv.blob.core.usgovcloudapi.net
 bhncanadagiftma-web.uatfisprepaid.com
 blue.unilaan.dk
@@ -745,10 +747,13 @@ click.mail.usaexpose.com
 clients.urbantutorial.com
 cmumdm.unige.ch
 commons.und.edu
+cpcalendars.utvnitrous.net
 cpcontacts.ubersdftesters.ru
+cpcontacts.utvnitrous.net
 dev.api.myapp.unicloudgroup.com.vn
 e-journal.unair.ac.id
 echannel.uobam.co.th
+eki-net.com.unionbaylabel.com
 emidas.ubstest.com
 emm-gw.uk-gm.de
 enactus.updatemyprofile.com
@@ -832,6 +837,8 @@ ukrposhta.ua
 ulisex.com
 ultima-generazione.com
 ultimate-measure.my.id
+ultimateflooringsolutions.co.nz
+ultrassonografiaraiz.com
 umrahservice.co
 unchainedpodcast.com
 undrumdesign.no
@@ -854,6 +861,7 @@ unyt.edu.al
 upa.cl
 update-remove-google-ads.com
 updatedhldelivery.info
+updatesubscription.online
 updateyoursocials.nl
 uplevelpropertymngmt.com
 upoil.com.sg
@@ -882,9 +890,11 @@ videoadmin.union.hu
 vls.uat-vlaanderen.be
 vpn.pu1.uktsg.ch
 webdisk.uberlab.eu
+webdisk.utvnitrous.net
 webmail.unemploymentreliefplanuinv.com
 webmail.unterweger-oils.com
 websso.um.edu.mo
+whm.universidadcatolicasanignacio.edu.py
 word.undeadnetwork.de
 wts-o.usj.co.jp
 www.ams.usda.gov
@@ -934,6 +944,7 @@ www.uiw-kub.tk
 www.uk-bank.gq
 www.uk-bank.tk
 www.uk-osint.net
+www.ukmusic.org
 www.uline.jobs
 www.ultimatedomain.hosting
 www.unicreditbank.ru
@@ -962,6 +973,7 @@ www.usps-trackpackages.xyz
 www.usps-updates.buzz
 www.uspto.gov
 www.utdailybeacon.com
+www.uvaldeleadernews.com
 www.wall.luk-dev.usermd.net
 x-live-espn-stgec.uplynk.com
 zapataolivella.univalle.edu.co
