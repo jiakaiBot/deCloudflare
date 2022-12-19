@@ -17894,6 +17894,7 @@ Here's a list of public Fediverse services.
 | `matchdon.com` | No |
 | `matchu.dev` | No |
 | `matchy.jp` | No |
+| `matdoes.dev` | Yes |
 | `matej-lach.me` | No |
 | `matemann.de` | No |
 | `matereal.eu` | No |
@@ -33573,7 +33574,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,645 |
+| Cloudflare | 7,646 |
 | Normal | 25,885 |
 
 
