@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 4,887 |
 | social | 2,937 |
-| net | 2,527 |
-| org | 1,836 |
+| net | 2,528 |
+| org | 1,837 |
 | de | 1,673 |
 
 
@@ -20120,6 +20120,7 @@ Here's a list of public Fediverse services.
 | `nekit.tk` | Yes |
 | `nekko.online` | No |
 | `neko-relay.com` | Yes |
+| `neko.academy` | No |
 | `neko.airforce` | No |
 | `neko.bar` | No |
 | `neko.cat` | No |
@@ -21205,6 +21206,7 @@ Here's a list of public Fediverse services.
 | `nycr.social` | Yes |
 | `nye.lol` | No |
 | `nyerm.com` | No |
+| `nygaardboysen.dk` | No |
 | `nyk.app` | Yes |
 | `nylarea.com` | No |
 | `nymclub.net` | No |
@@ -32865,6 +32867,7 @@ Here's a list of public Fediverse services.
 | `yayest.space` | No |
 | `yayforqueers.net` | No |
 | `ycare.de` | No |
+| `ycrack.net` | Yes |
 | `ycros.org` | Yes |
 | `ydkn.social` | Yes |
 | `yeahnahcunt.club` | No |
@@ -33421,6 +33424,7 @@ Here's a list of public Fediverse services.
 | `zteo.com` | Yes |
 | `ztn.sh` | Yes |
 | `ztrl.de` | No |
+| `zu2.org` | No |
 | `zu26.net` | No |
 | `zucchini.guru` | No |
 | `zucker.li` | No |
@@ -33484,8 +33488,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,614 |
-| Normal | 25,827 |
+| Cloudflare | 7,615 |
+| Normal | 25,830 |
 
 
 ### 22.8% of public Fediverse services are using Cloudflare.
