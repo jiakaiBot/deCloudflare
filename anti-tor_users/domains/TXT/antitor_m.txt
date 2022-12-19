@@ -3025,6 +3025,7 @@ apis-stg.mag.com.br
 apistag.merlin.net
 aplicaciones.mutua.es
 appbackend-api.mybee.lv
+apps.mzstatic.com
 apps.pow.myowg.com
 apro-scala-api.macq.eu
 areadocliente.multimidiabrazil.com.br
@@ -3037,6 +3038,7 @@ asm.skype.com.office.o365rp2.betagro.myshn.net
 asyncgw.teams.microsoft.com.office.20221125yukimo365.uclickshn2.myshn.net
 auth.makk.es
 auth.musmedia.ru
+auth.myvpps.site
 auth.vps.metai.co.za
 auth2.marenir.com
 authmaint.mbna.ca
@@ -3060,6 +3062,7 @@ baskinsy.mine.nu
 billing3dshiharai-amazon.misecure.com
 binance.bey-dev.mixh.jp
 browser.pipe.aria.microsoft.com.box.lab2672.rkscorp2.myshn.net
+brust-vergroesserung.medizinseiten.stephan.mcdot.net
 cable.microdiscovery.de
 careers-meli.mercadolibre.com
 catalogodigitale.mobiledatacollection.it
@@ -3079,6 +3082,7 @@ click.email.migros.com.tr
 click.international.mail-nmg.com
 click.mailingeltiempo.com
 click.mailwoolworths.co.za
+click.matalanemail.co.uk
 client-channel.google.com.drive.googledrive.wiproltd.myshn.net
 client-channel.google.com.googledrive.drive.bancobradescosa.myshn.net
 client-channel.google.com.googledrive.rjtest.skyhighlab.myshn.net
@@ -3111,6 +3115,7 @@ cpcalendars.mgsenvironmental.com
 cpcalendars.mgtanfolyam.hu
 cpcalendars.millenniumhospiceinc.com
 cpcalendars.mutuallife.africa
+cpcalendars.my-appleid.ru
 cpcalendars.mycoviddiary.me
 cpcalendars.mymatch.be
 cpcontacts.camilagmail.www.6.shop.mysnoiportal.ru
@@ -3128,6 +3133,7 @@ cs158-2037.meraki.com
 csgo.maninggaming.co.mz
 csoas.moeaidb.gov.tw
 customer.miq.govt.nz
+da1.mpi.govt.nz
 dags-grpc-writer.pama-dev.mclarencloud.io
 dapmuat.mbb.com.sg
 data.bappeda.muaraenimkab.go.id
@@ -3148,6 +3154,7 @@ dpdhl-claims-form-dev.metadeploy.com
 drmax.t.mailkit.eu
 ecomdemo.market-pay.com
 edge.skype.com.office.20221125yukimo365.uclickshn2.myshn.net
+editorashema.com.macasdeouroblog.com
 efet.macquarie.com
 ehrms.sg.medical.canon
 ekafw8cvfjycvn31juwwe9pyxd52-5ff6c2634f89e05c172d48433d85e8a6.eu4.myvolumio.org
@@ -3159,6 +3166,7 @@ emails.mp-plus.com
 erogame.meinashi.info
 esmovilidad.mitma.es
 events.microcomputer.com.tw
+explore.museumwnf.org
 fdr.iiot-telkomsel.masuk.id
 feedback.mortalitysurveillance.org
 ferret-dev.maximizer-api.com
@@ -3172,6 +3180,7 @@ frenchhospital.kube.matchfire.io
 frontieroutdoorpower.mycardsetter.com
 ft.plantdevices.myicomfort.com
 ftp.mangystaucybersport.kz
+geldbehalen.mt-3.nl
 gen.mactech.net.in
 gfs214n109.userstorage.mega.co.nz
 git.git.gitlab.git.git.git.git.login.michaeldingler.de
@@ -3192,6 +3201,7 @@ h2internaltest.medemass.com
 helpdesk.myitplace.com
 helsinki.measurecamp.org
 hkoweb001-gtihkolab.msappproxy.net
+hsessling.moveon4.de
 http.myvfirst.com
 icloud-ar.mimain-website.live
 idam.metrosystems.net
@@ -3266,6 +3276,7 @@ manimark.com
 mankootravels.com
 mannaitours.com
 manusummit.com
+maolegendafishinga.ru
 mapasdodinheiro.com.br
 mapofstories.scot
 maqalatme.com
@@ -3287,10 +3298,12 @@ mashcal-cybercontrol.org
 mastinseguridad.com
 mastodon.xyz
 masw.com.cn
+matari-service.kyiv.ua
 match4sport.ch
 matchcerteiro.com
 matchcycles.com
 matchendirect.co
+matchit.cf
 matchofrealestate.nl
 mategauss.com
 mathias-papendieck.de
@@ -3374,6 +3387,7 @@ minttheater.org
 mioarttherapy.com
 mipetseguro.com
 miragerecoveryservice.com
+mirinconenergetico.com
 misiconi.nl
 mission-lifeline.de
 misti-luxurious.in
@@ -3423,13 +3437,14 @@ moneyassistfinancial.ca
 moneybaits.com
 moneyftxuptrendtu.com
 moneygetpro.com
+moneygold99.com
 moneyhub360.com
 moneymatic.com.mx
 moneymatters.me
 moneymattersmore.com
 moneymatterspodcast.com
-moneypennyllc.com
 moneypoint.live
+moneyrobotreviewed.com
 moneysavingxmas.com
 moneysurance.co.in
 moneytears.com.br
@@ -3447,6 +3462,7 @@ monumentefuneraretm.ro
 moodle.biz
 moodservice.ma
 morelion-cap.com
+morii-ganka.jp
 mortijuliaea.cyou
 mosan.pe
 moschatomag.com
@@ -3456,6 +3472,7 @@ motgm.uk
 motorcomusic.com
 mouton-resilient.com
 movidosporlaseguridad.com
+movie-box.app
 mp-service.fi
 mp3cielo.site
 mrcontrol.cl
@@ -3496,6 +3513,7 @@ mvesesani.com
 mws.medha.in
 mx30.mailspamprotection.com
 my-admin.net
+my-connmbank.com
 my-lp.com.moslem-billionaire.com
 my-netflix.myvnc.com
 my-singpost.online
@@ -3634,6 +3652,7 @@ testms.myelsa.ru
 themoneystore.microsoft-alerts.net
 theshopemapple.mptools.in
 topup.mtf.co.id
+traefik.maximet.in.ua
 trail.mobitrailx.com
 transfer.metlife.com.co
 ttdps.miotechcompany.ru
@@ -3642,6 +3661,7 @@ uat.amr.api.marykay.com
 ubt.digital-cloud-ibm.medallia.eu
 uks.mendel-online.com
 update.mejora2.online
+urewefun.myhostpoint.ch
 url.google.com.drive.googledrive.wiproltd.myshn.net
 url2499.maritime.social
 us1.mailchimp.com
@@ -3649,6 +3669,8 @@ user154.ddns.net.meuimovel.shop
 userservice.uk.live.mkmapps.com
 uspcom-api.mimecast-pscom-us.com
 vip.miamigodinero.com
+vm13-proxy-appproxy-cus-dm2p-4.connector.msappproxy.net
+vm17-proxy-appproxy-cus-dm2p-4.connector.msappproxy.net
 walmart.moneynetwork.com
 web-jp-assets-v2.mercdn.net
 webaccess.mahwah.k12.nj.us
@@ -3668,6 +3690,7 @@ webdisk.mycoviddiary.me
 webdisk.mymatch.be
 webmail.matchlove.net
 webmail.mergencompass.com
+webmail.mg-electricalparts.in
 webmail.mgcanteen.dk
 webmail.millenniumhospiceinc.com
 webmail.mlpsa.co.za
@@ -3676,6 +3699,7 @@ webmailreper.maec.es
 webrtc-gateway.mavenir.dev
 whisky-trend.test-server-client.matereate.com
 whm.mamang.design
+wildwestcsgo.miljkovic.me
 with-lifehack.mashumaroblog.mixh.jp
 work1.megar.ru
 ws.eu.micgtm.com
@@ -3706,6 +3730,7 @@ www.controlefila.demo.magoweb.com.br
 www.davyoservice.mariusichim.ro
 www.delivery.misterwebhub.com
 www.dotcomdollar.moneyfro.com
+www.dwp.myps-client.com
 www.eroeroaruzo.web-service.mixh.jp
 www.findmyiphone-us.mimain-website.live
 www.fooddelivery.mamunprogrammer.xyz
@@ -3728,6 +3753,7 @@ www.inventario2.myendlessmoney.com
 www.jualan.moneyfest.my.id
 www.llcnerds.moneyfro.com
 www.login-mbankcz.m-bank-cz.com
+www.login.jonathanbasuki.masuk.id
 www.m-bank-cz.com
 www.maaf.fr
 www.maceksautoservice.com
@@ -3770,6 +3796,7 @@ www.mars-computer.com
 www.marshallfiremap.com
 www.marshallnewsmessenger.com
 www.martamoranbishop.com
+www.marvellousmenagerie.org
 www.marx-med.com
 www.maryazarian.com
 www.marysvillejt.com
@@ -3782,6 +3809,7 @@ www.mastercard.co.jp
 www.mastercard.se
 www.masterclassspace.com
 www.mastinseguridad.com
+www.matari-service.kyiv.ua
 www.match4sport.ch
 www.matchlove.net
 www.matchsearch.co.uk
@@ -3810,6 +3838,7 @@ www.mercadolibre.com
 www.mercadolibre.com.uy
 www.mercantilbanco.com.pa
 www.merchandising-onlineshop.com
+www.merchantconnect.com
 www.merckgroup.com.cn
 www.mersinspotesya.com
 www.meta-account-manager.site
@@ -3832,7 +3861,9 @@ www.milenio.com
 www.military.com
 www.militaryzine.com
 www.miltonkeynes-applications.co.uk
+www.mindmade.in
 www.minicultbistro.de
+www.minorkey.net
 www.mintmobileultrasound.com
 www.miracletechs.com
 www.mirai-kougaku.jp
@@ -3857,6 +3888,7 @@ www.modbee.com
 www.modernritualsmedspa.com
 www.modrash.com
 www.mofa.go.jp
+www.mol.com
 www.molotov4.com
 www.mon-retraitpaylib-fr-confirm.com
 www.moncler.com
@@ -3867,6 +3899,7 @@ www.moneyftxuptrendtu.com
 www.moneyhub360.com
 www.moneyhub360.xyz
 www.moneyonbed.com
+www.moneyrobotreviewed.com
 www.moneyshop.ml
 www.moneyupupup.com
 www.moneywehave.com
@@ -3916,6 +3949,7 @@ www.mylondon.news
 www.mymeetingsupport.com
 www.mypitbox.pt
 www.myplease.fr
+www.mysafestaffing.uk
 www.mysticseedsbank.com
 www.mythais.de
 www.mythopoeia.us
@@ -3943,6 +3977,7 @@ www.security.monarchuae.com
 www.service.javtore.mitraindustri.com
 www.service.mysupport.com.ng
 www.serviceac.masjidattaqwapisbar.com
+www.servicios.mirinconenergetico.com
 www.smogeun.mediacontrole.ma
 www.soundfro.moneyfro.com
 www.spotify.meet4love.xyz
