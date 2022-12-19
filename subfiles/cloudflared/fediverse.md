@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,887 |
-| social | 2,937 |
+| com | 4,888 |
+| social | 2,938 |
 | net | 2,528 |
 | org | 1,837 |
 | de | 1,673 |
@@ -10656,6 +10656,7 @@ Here's a list of public Fediverse services.
 | `geekyonion.social` | Yes |
 | `geekz4u.com` | No |
 | `geekzweb.com` | Yes |
+| `geese.lol` | Yes |
 | `geese.party` | Yes |
 | `geewiz.dev` | No |
 | `gef.ink` | No |
@@ -15959,6 +15960,7 @@ Here's a list of public Fediverse services.
 | `lfsr.net` | No |
 | `lgbt.im` | No |
 | `lgbt.io` | No |
+| `lgbt.place` | No |
 | `lgbt.pm` | Yes |
 | `lgbt6.club` | No |
 | `lgbtcz.social` | No |
@@ -21703,6 +21705,7 @@ Here's a list of public Fediverse services.
 | `openworlds.info` | No |
 | `opera42.com` | No |
 | `operationtulip.com` | No |
+| `operator.asia` | No |
 | `opgezwolle.nl` | No |
 | `opiat.es` | Yes |
 | `opinion8.social` | No |
@@ -26106,6 +26109,7 @@ Here's a list of public Fediverse services.
 | `sergio101.com` | No |
 | `sergiomoraesj.com` | No |
 | `seri.gr.jp` | No |
+| `serial-experiments.com` | Yes |
 | `serial.io` | Yes |
 | `serialmay.link` | No |
 | `serinus.us` | No |
@@ -26269,6 +26273,7 @@ Here's a list of public Fediverse services.
 | `shenanigan.space` | No |
 | `shenyanshu.com` | No |
 | `shep.online` | Yes |
+| `sheppi.es` | No |
 | `sheppo.au` | Yes |
 | `sherbers.de` | Yes |
 | `sherblog.de` | No |
@@ -27726,6 +27731,7 @@ Here's a list of public Fediverse services.
 | `stoablick.de` | No |
 | `stoat.icu` | No |
 | `stoat.org.uk` | No |
+| `stocktwits.social` | No |
 | `stodon.com` | No |
 | `stodon.fr` | No |
 | `stoecker.me` | No |
@@ -33488,8 +33494,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,615 |
-| Normal | 25,830 |
+| Cloudflare | 7,617 |
+| Normal | 25,834 |
 
 
 ### 22.8% of public Fediverse services are using Cloudflare.
