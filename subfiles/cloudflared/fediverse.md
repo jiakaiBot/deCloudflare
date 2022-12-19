@@ -10105,7 +10105,7 @@ Here's a list of public Fediverse services.
 | `frontend.lt` | No |
 | `frontend.social` | No |
 | `frontierfoundry.co` | No |
-| `frontrange.co` | No |
+| `frontrange.co` | Yes |
 | `froonix.org` | No |
 | `froop.com` | No |
 | `frootmig.net` | No |
@@ -24953,6 +24953,7 @@ Here's a list of public Fediverse services.
 | `rly.at` | No |
 | `rly.cx` | No |
 | `rly.wtf` | Yes |
+| `rmbl.co` | No |
 | `rmcrob.com` | No |
 | `rmdir.co.uk` | No |
 | `rmendes.net` | No |
@@ -33575,7 +33576,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,648 |
+| Cloudflare | 7,649 |
 | Normal | 25,884 |
 
 
