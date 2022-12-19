@@ -1720,14 +1720,18 @@ zmail.grasssuggestionangle.online
 0cb3a8374792c88f79ed961703de4fd6.safeframe.googlesyndication.com
 1088051487-atari-embeds.googleusercontent.com
 147.103.160.34.bc.googleusercontent.com
+1ac7b05ba7912efe3c2b58e19544f6b8.safeframe.googlesyndication.com
 1cfc25a94b0a729ed51b8cb5b2d76172.safeframe.googlesyndication.com
 2010828afaf725fb2c016c1600e75eba.safeframe.googlesyndication.com
 26ec702e96a345.site.godaddyarabicwsbonline.com
+35520de7a66004f6411c6edc6c52741f.safeframe.googlesyndication.com
 6db9784b8ee543.site.godaddyarabicwsbonline.com
 72f5dca5bd5040.site.godaddyarabicwsbonline.com
 7d9f1ee1dad0a6cbff3eae8f9fabba2c.safeframe.googlesyndication.com
 83bf3cf39ba81e2e2d15652faab8af15.safeframe.googlesyndication.com
+8842c5ce69321ddc392e7a2a6a03c4fe.safeframe.googlesyndication.com
 896451230652307988941456486456435645422468642456.storage.googleapis.com
+8a9a10e8077e854a9e5558efb2391a0e.safeframe.googlesyndication.com
 8d5b4d69bbb64463312921c7311b4b20.safeframe.googlesyndication.com
 a1d0d5a11568f11cb1326942b42befd7.safeframe.googlesyndication.com
 a970dd25ca2a643d2c17c232720d5ec1.safeframe.googlesyndication.com
@@ -1739,6 +1743,7 @@ addon-discover.goskope.com
 agustforbussines.github.io
 airflow.core-banking-1.staging.getampla.com
 akanksha3012.github.io
+akshata2696.github.io
 akshay2723.github.io
 aloneuh.github.io
 amusing-pickled-muenster.glitch.me
@@ -1753,6 +1758,7 @@ api.smartmedia.gs1au.org
 api.test.gopay.com
 apidata.googleusercontent.com
 apiv2-flower.core-banking-1.staging.getampla.com
+apm.greateasternlife.com
 appalapp.gallapplipal.com
 as2b.am.gxsics.com
 att50.godaddysites.com
@@ -1776,6 +1782,7 @@ carlos3025.github.io
 cases.greekcovid.com
 cd0jagikbfgqr5bg0mmg.googlemeets.info
 cdd3223b72ecf6f13c2c1b069f91bdda.safeframe.googlesyndication.com
+chang-github-00.github.io
 chikkuthomas.github.io
 chiomasarah-ui.github.io
 cloudfactorydev.gn.com
@@ -1816,6 +1823,7 @@ db76f5a4d09736f79c832d36b4148b2a.safeframe.googlesyndication.com
 dedd6bb6881c6a6b14d1360db26dd536.safeframe.googlesyndication.com
 delivery-api.getcruise.com
 determined-fantasy-bunny.glitch.me
+dev.greencontrol.ro
 devgso.giactcorp.com
 discord.gaiichthusmedan.my.id
 discordia.gemforge.de
@@ -1842,6 +1850,7 @@ doc-10-3c-docs.googleusercontent.com
 doc-10-6s-docs.googleusercontent.com
 doc-14-1s-docs.googleusercontent.com
 doc-14-2g-docs.googleusercontent.com
+doc-14-64-docs.googleusercontent.com
 domquerys.github.io
 dsujki831dsa.storage.googleapis.com
 duxlab.github.io
@@ -1849,15 +1858,18 @@ e2c19.gcp.gvt2.com
 e2c25.gcp.gvt2.com
 e2c8.gcp.gvt2.com
 e2cs45.gcp.gvt2.com
+e3829b03e62c3452a1a11ec83b045aff.safeframe.googlesyndication.com
 earth.googleusercontent.com
 earthly-eras.glitch.me
 einvoicing.ghx.com
+eki-net.com.gestipeople.com
 elfatnianass.github.io
 emailverificationadminupgrade90.godaddysites.com
 encrypted-tbn2.gstatic.com
 evanescent-chemical-wound.glitch.me
 expertprotection.guardsman.com
 expitau-dev.github.io
+f8d7b674c8e5c3b0922ea23fc70ea524.safeframe.googlesyndication.com
 faizankhan0408.github.io
 families.google.com
 fc79.gw-project.org
@@ -1884,6 +1896,7 @@ ganbeiseguros.com.br
 ganedinero.online
 ganlinhotpot.com.my
 gannonpestcontrol.com
+gaozao.com
 garciataxservice.net
 gardensofhecate.com
 garrybargsley.com
@@ -1916,6 +1929,7 @@ get-sahibndenparamguvende.tk
 getbillingsupport.com
 geterbor.bid
 getmyoffer.today
+getsupport-applelnc.com
 getthatrental.com
 getyourdreambodynow.com
 gi8.ltd
@@ -1946,11 +1960,13 @@ gitlab.gitlab.gitlab.gitlab.git.git.outlook.givemomentum.com
 gitlab.gitlab.owa.yandex.gabdrahmanova.ru
 gitlab.gitlab.webdisk.webmail.mail.www.guru.net.nz
 gitlab.www.www.www.covid19.gorod-sveta-rf.ru
+givesdrop.ru
 gjsfashion.com
 gjthub.net
 gks.academy
 glaobako.com
 glasgowwellingtonfc.co.uk
+glass-repair.jp
 glennfredly.com
 glitch-soc.github.io
 global-alarm.dk
@@ -1960,6 +1976,7 @@ globalcratinginc.com
 globalcrewservice.com
 globalkonnexon.com
 globalmarindoperkasa.co.id
+globalmaritimedelivery.us
 globalmoney2u.com
 globalshiftingservice.com
 globalsmm.tk
@@ -1975,6 +1992,7 @@ gmasystems.com
 gmcchargerinstallation.com
 gmem.me
 gmlpropertybatu.com
+go.vic.gov.au
 go2entre.com
 go8.asia
 goa-vision.com
@@ -2072,6 +2090,7 @@ junmi0918.github.io
 k9ngq4yzun4gglijyh3d8ifbsbvavde.storage.googleapis.com
 kapilrathod1.github.io
 kjhusbmr.github.io
+link.getayla.com
 lists.gesis.org
 londarp.github.io
 magento.vmail.gardnerinsinc.com
@@ -2122,6 +2141,7 @@ r3---sn-ab5l6nrl.googlevideo.com
 r5---sn-p5qlsny6.gvt1.com
 ranking.goodthings-japan.com
 ratana10.github.io
+ravi140891.github.io
 recaptcha-checker.guidance.studio
 redirect.globaliris.com
 relay.gnethomelinux.com
@@ -2138,11 +2158,13 @@ rr5---sn-5ualdns6.googlevideo.com
 rr5---sn-p5qlsnrl.googlevideo.com
 rr5---sn-p5qs7n6d.googlevideo.com
 rurpc2.godiva.ovh
+ruthy26.github.io
 s-n.godaddysites.com
 sahil-pillania.github.io
 sanvaad.github.io
 saurabh-028.github.io
 sbcglobalemailverificationadmi9.godaddysites.com
+scholar.google.nl
 secretive-keen-snow.glitch.me
 secure.geonames.net
 seo.group-services.net
@@ -2174,6 +2196,7 @@ stufendiscord.genanntnoelke.de
 support.gateway-prime.systems
 support.gemotex.com
 support.geokrety.org
+support.glozinc.com
 support.growmeorganic.email
 swift-sheer-random.glitch.me
 t.goadservices.com
@@ -2195,6 +2218,7 @@ tools.fo4.garena.vn
 topdnjghyr.storage.googleapis.com
 trends.google.fi
 trends.google.nl
+tricolor.grupoqroma.com
 trillosjohn.github.io
 tyler-hilbert.github.io
 ukd1211.github.io
@@ -2206,8 +2230,10 @@ us1.gtbdhr.com
 ventacuentas.github.io
 verify.globaldatacompany.com
 virtualbox.greengoblin.net
+visibility-tools-gateway-uat.extranet.geodis.org
 walmart.getcruise.com
 washington.goingtocamp.com
+web10826.cweb05.gamingcontrol.de
 webdisk.gruponitro.mx
 webdisk.gulfblockchainsummit.com
 webdisk.japan.genecodes.com
@@ -2230,6 +2256,7 @@ www.climatecontrol.gomart.ge
 www.cuentas.gpxstore.com
 www.decodeur-v2.gelderblom.dev
 www.demo.goaayanfuelpumpservice.com
+www.dev.greencontrol.ro
 www.g12servicios.com
 www.g42healthcare.ai
 www.gadgeblo.com
@@ -2282,6 +2309,7 @@ www.goodasnewcleaningservice.com
 www.goodpeoplefashion.com
 www.goodthingsguy.com
 www.gordotaqueria.shop
+www.goskagit.com
 www.governorsfarm.com
 www.governorsgunclub.com
 www.gqmiddleeast.com
@@ -2314,6 +2342,7 @@ www.homeservice-freelancer.girlfrombravos.co.ke
 www.hostingbilling.greathost.ro
 www.login.gozap.delivery
 www.oidcservice.globo.com
+www.partner.giliboatservice.com
 www.post-flnance.gr-pancreta.online
 www.premierglobalservice.gvlcompany.com
 www.resourcefulbank.godsloveigbo.online
