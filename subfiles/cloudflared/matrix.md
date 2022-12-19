@@ -22,12 +22,11 @@ Here's a list of public Matrix services.
 | Service | Cloudflared |
 | --- | --- |
 | 0wnz.at | No |
-| agdersam.no | No |
 | riot.allmende.io | No |
 | alternanet.fr | No |
 | anonymousland.org | No |
 | matrix.arcticfoxes.net | Yes |
-| aria-net.org | No |
+| aria.im | No |
 | asra.gr | No |
 | matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
@@ -126,7 +125,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 17 |
-| Normal | 81 |
+| Normal | 80 |
 
 
-### 17.3% of public Matrix services are using Cloudflare.
+### 17.5% of public Matrix services are using Cloudflare.
