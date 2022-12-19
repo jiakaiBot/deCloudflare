@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,904 |
-| social | 2,948 |
+| social | 2,949 |
 | net | 2,535 |
 | org | 1,842 |
 | de | 1,677 |
@@ -14878,6 +14878,7 @@ Here's a list of public Fediverse services.
 | `kindred.haus` | No |
 | `kindworld.one` | Yes |
 | `kinesin.org` | No |
+| `kinetix.social` | Yes |
 | `kinexis.co.uk` | No |
 | `kingdo.ms` | No |
 | `kingdown.fr` | No |
@@ -27324,7 +27325,7 @@ Here's a list of public Fediverse services.
 | `spacejerk.fr` | No |
 | `spacekaren.online` | No |
 | `spacekittens.ru` | No |
-| `spacelase.rs` | No |
+| `spacelase.rs` | Yes |
 | `spacelasers.us` | Yes |
 | `spaceling.sh` | Yes |
 | `spacenoid.social` | No |
@@ -33576,8 +33577,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,649 |
-| Normal | 25,884 |
+| Cloudflare | 7,651 |
+| Normal | 25,883 |
 
 
 ### 22.8% of public Fediverse services are using Cloudflare.
