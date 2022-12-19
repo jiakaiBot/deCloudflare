@@ -5814,6 +5814,7 @@ Do not create new issue or we will close it as duplicate.
 | [LuonglamVan1992@twitter](https://twitter.com/LuonglamVan1992/status/1563424906070466561) | advertise |
 | [Luph96507624@twitter](https://twitter.com/Luph96507624/status/1392188259661320193) | advertise |
 | [LuralMay@twitter](https://twitter.com/LuralMay/status/1384873233158115328) | advertise |
+| [LusicTu@twitter](https://twitter.com/LusicTu/status/1604635440618799104) | advertise |
 | [lusoela04067897@twitter](https://twitter.com/lusoela04067897/status/1390825507457945601) | advertise |
 | [lutaihuy@twitter](https://twitter.com/lutaihuy/status/1401550056931565568) | advertise |
 | [Lutaulahbuatapa@twitter](https://twitter.com/Lutaulahbuatapa/status/1553118274455740416) | advertise |
@@ -7440,6 +7441,7 @@ Do not create new issue or we will close it as duplicate.
 | [NoruzzamanNahid@twitter](https://twitter.com/NoruzzamanNahid/status/1588197771278192640) | advertise |
 | [NOsheeennn@twitter](https://twitter.com/NOsheeennn/status/1394946949963415555) | advertise |
 | [noshereyno@twitter](https://twitter.com/noshereyno/status/1570718460736409600) | advertise |
+| [NotARealNn@twitter](https://twitter.com/NotARealNn/status/1604645943797768194) | advertise |
 | [notausername18@twitter](https://twitter.com/notausername18/status/1441310591574970375) | advertise |
 | [Note42243223@twitter](https://twitter.com/Note42243223/status/1389304584317845504) | advertise |
 | [nothingbreaks23@twitter](https://twitter.com/nothingbreaks23/status/1408086476252925953) | advertise |
