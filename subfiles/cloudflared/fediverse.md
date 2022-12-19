@@ -11148,6 +11148,7 @@ Here's a list of public Fediverse services.
 | `goat.place` | Yes |
 | `goat.rocks` | No |
 | `goatdaddy.net` | No |
+| `goatfan.club` | No |
 | `goats.men` | Yes |
 | `gobbetti.name` | No |
 | `gobelet.com` | No |
@@ -33617,7 +33618,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,662 |
-| Normal | 25,911 |
+| Normal | 25,912 |
 
 
 ### 22.8% of public Fediverse services are using Cloudflare.
