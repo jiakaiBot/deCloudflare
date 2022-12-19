@@ -8713,6 +8713,7 @@ Do not create new issue or we will close it as duplicate.
 | [Saaaraaay7@twitter](https://twitter.com/Saaaraaay7/status/1603997837737558017) | advertise |
 | [saad_hason@twitter](https://twitter.com/saad_hason/status/1549937766301315072) | advertise |
 | [SaahilPanchal@twitter](https://twitter.com/SaahilPanchal/status/1547124951744118784) | advertise |
+| [saam_raee@twitter](https://twitter.com/saam_raee/status/1604903806118072343) | advertise |
 | [saani65346280@twitter](https://twitter.com/saani65346280/status/1392146734336274433) | advertise |
 | [saasglobal@twitter](https://twitter.com/saasglobal/status/1509912884091908096) | advertise |
 | [saashup@twitter](https://twitter.com/saashup/status/1495887293600649216) | advertise |
