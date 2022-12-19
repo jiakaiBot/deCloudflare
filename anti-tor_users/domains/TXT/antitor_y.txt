@@ -279,6 +279,7 @@ asset.yes.my
 b90.yahoo.co.jp
 baseball.yahoo.co.jp
 click.sf.yumobile.co.jp
+coinbasee-prologin.yahoosites.com
 cpanel.yacovid.com
 cpcalendars.yacovid.com
 cpcalendars.yprseguros.com
@@ -305,6 +306,7 @@ safeway.yahia.fr
 sig-inbank.yofin.ru
 sta.api.youatcollege.com
 static.77.219.108.65.clients.your-server.de
+sts.yesbank.in
 support.yougethost.com
 updateimmo.go.yo.fr
 v-apt85sygrz.wc.yahoodns.net
@@ -338,18 +340,21 @@ www.yourconroenews.com
 www.yourerie.com
 www.youtubebulkviews.com
 www.yugioh-card.com
+www.yukease.com
 www.yunweinnlogin.com
 y-bb.ru
 yahool.tech
 yaidans.com
 yakora.cl
 yamahamusicbangladesh.com
+yaone.fr
 yarpaket.ru
 yatisocialfoundation.org
 ydinlehti.fi
 yello.com.ua
 yellowsilkattorneys.com
 yemenembassy.de
+yesterbits.com
 yesvkyc.yesbank.in
 yilbasi-mujdesi-denizuyelere.ml
 yoergbeer.com
@@ -366,4 +371,5 @@ youthmediaaction.com
 yuckcontrol.com
 yushu.or.jp
 yuyuyu.yutaroblog.org
+yvonnemarcwedding.nl
 zmail.yogaplace.by
