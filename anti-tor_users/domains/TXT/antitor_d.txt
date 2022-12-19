@@ -2255,6 +2255,7 @@ zetf1ix.dns1.us
 zm.davrbank.uz
 0db0155ad695b06c80cdb23971aa3259.dancefloor.dev
 1059-ll-vos.dtvott.com
+12340479.fls.doubleclick.net
 2016.dalux.dk
 22.ctlog.digital.gov.ru
 28c8efd82dc54ae4909bb607c4585e9b.svc.dynamics.com
@@ -2264,6 +2265,7 @@ zm.davrbank.uz
 90f44e59ea464486adcc48318e1c30c7.svc.dynamics.com
 a67j840kdgnodbwww.pma.discord-accounts.ru
 ac-am.dxtservice.com
+acc.datarotonde.com
 account-management.information-support.draganmiskovic.rs
 accounts.dowjones.com
 adultsafety.developmentstagingserver.com
@@ -2282,6 +2284,7 @@ apis.deleo.co.kr
 app.dwp.gov.sg
 application.discord-acc.ru
 arda.com.cp-ht-2.bigwww.gw.discord-accounts.ru
+askdjlasjdlkasjdlkajslkdjaslkdjlkajskldjncnzx.discord-acc.com
 assureclaims-dev-api.swissre-dev.dxc-ins.com
 assureclaims-dev.swissre-dev.dxc-ins.com
 ats.discord-accounts.ru
@@ -2397,6 +2400,7 @@ danmarksfremtid.dk
 dannleencleaningservice.com
 dansateliers.nl
 dansinker.com
+dariabloodworth.ca
 darjeelingtealovers.com
 darmowe-skiny-csgo.pl
 darmowyroblox.pl
@@ -2507,6 +2511,7 @@ dinitrol.frl
 dioxuslabs.com
 dipfblog.com
 discard.gg
+discfronarte.tk
 disco-opa.nl
 disco.as
 discodancersgame.com
@@ -2516,6 +2521,7 @@ discografiasenmega.com
 discoproperty.com
 discord-bot.dns.navy
 discord.die-marktradikalen.cc
+discord.silenttblog.w.derinport.net
 discordalpha.com
 discordfootball.com
 discordhosting.com
@@ -2533,7 +2539,9 @@ discproduction24.com
 discsport.no
 diskordier.eu
 diskservice.fun
+dispcorarof.tk
 disproboats.ca
+disprod.co.za
 distinctwindowsanddoors.ca
 ditisniet.de
 diversityworks.dk
@@ -2556,6 +2564,7 @@ doctorupdate.id
 documenta-fifteen.de
 docusign-octopus-energy.com
 dogmoney.online
+doktorants.com
 dominionheights.org
 donasdate.xyz
 donhauser.de
@@ -2564,8 +2573,11 @@ doobarim-japan.com
 doodgroup.com
 doorace.ca
 doorhardwareconsulting.com.au
+doorstepapplianceservice.com
 dorara.net
+dothaneagle.com
 dotplay.gr
+dougahaishin-service.com
 dougscripts.com
 douradosmetais.com.br
 dpac.uk.net
@@ -2582,6 +2594,7 @@ dreoriekodoerp.com
 drivdelivery.com.br
 drive-authentic.com
 drivepagecfdrsf.live
+drivingmagenta.com
 drkijananix.com
 drleemerritt.com
 drlucianoramires.com.br
@@ -2613,6 +2626,7 @@ dyllusioncheck-magie.fr
 dymersion.com
 dymtecnologia.com
 dynamicfinancebank.com
+dynamics.fo
 dynamicsafety.co.uk
 dynamicvolumecontrol.com
 dyno-tech.com
@@ -2703,6 +2717,7 @@ gitlab.host.discord-accounts.ru
 gitlab.ns.discord-accounts.ru
 gitlab.phpmyadmin.discord-accounts.ru
 gitlab.pma.discord-accounts.ru
+gitlab.support.discord-accounts.ru
 grdskvckcndu.hostmaster.dentistrybliss.com
 groups.drupal.org
 gryadventures.deviantart.com
@@ -2717,6 +2732,8 @@ inyourarea.digdat.co.uk
 iq-support.digital-control.de
 iqra.demowebsiteclient.com
 is4you.dynomonde.com
+jinete.dedyn.io
+jsip.dawnfoods.com
 karten.diemollys-pohlheim.de
 keithestetson.dudaone.com
 kong.urmc-uat.dex.care
@@ -2738,6 +2755,7 @@ mail.dynogames.jp
 mail.dynotuning.net.au
 maraimhennaartist.discoveryecommerce4.co.uk
 membership-amazon24h-support.com.derhosting.ma
+message-rtr-edu.cbp.dhs.gov
 mijn.deschutse.net
 minister.dcceew.gov.au
 mixtapes.disco-dj.nl
@@ -2763,6 +2781,7 @@ notifymtbnewsted.dedyn.io
 nsf-1.dropbox.com
 october.discord-acc.ru
 oidc-ver2.difi.no
+old.ftp.discord-accounts.ru
 online.dbia.org
 ontrack-demo.dachs.com
 ops-corpsite.darksa.com
@@ -2822,6 +2841,7 @@ stmaster.de-jongmail.nl
 stmv3.duvoxtv.com.br
 support.devoteamgcloud.com
 system.discord-accounts.ru
+tamparangsitemaps.discord-store.ru
 target.digitalaudience.io
 taxiupdate.dropsouq.net
 teamit.difento-kunder.dk
@@ -2829,6 +2849,7 @@ template-service.datalive.ai
 tera2.dewsys.com
 tesseract-test.cloud.dcsa.mil
 test.democraciaciudadana.org
+test.directdl.cc
 test.discord-acc.ru
 test.storefront.distrelec.fr
 testing.discord-acc.ru
@@ -2966,6 +2987,7 @@ www.dental-sante-92.fr
 www.departmentofinformation.org
 www.depistetescopines.com
 www.deponti.com
+www.deutsche-botanische-gesellschaft.de
 www.dev-youngwriters.sl.nsw.gov.auab.herokuapp.com.dieverdorp.nl
 www.devbcn.com
 www.devonaa.org.uk
@@ -3015,9 +3037,11 @@ www.dominos.jp
 www.domu.nyc
 www.donki.com
 www.doobox.co.uk
+www.doorstepapplianceservice.com
 www.dopracenakole.cz
 www.doriemillerpost213.org
 www.dospara.co.jp
+www.dougahaishin-service.com
 www.doylestreetcafe.com
 www.dp4z.com
 www.dpf-cleaningservice.com
@@ -3030,6 +3054,7 @@ www.drapersonline.com
 www.dream-services.de
 www.drinkdoppio.com
 www.drivers.dkonto.pl
+www.drogues-info-service.fr
 www.drukkerswerkplaats.nl
 www.drupal.org
 www.dsmedia1.com
