@@ -63,6 +63,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | crypto.sx | Yes |
 | cryptroute.com | Yes |
 | cybershell.xyz | Yes |
+| d4d.moe | Yes |
 | data.haus | No |
 | datacore.ch | No |
 | datahata.by | No |
@@ -113,6 +114,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ginovs.nl | No |
 | goodbyegambling.com | No |
 | grqu.de | No |
+| ha-dvin.pp.ua | No |
 | hafidzradhival.my.id | Yes |
 | hahnjo.de | No |
 | haneulo.com | Yes |
@@ -165,6 +167,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | libredns.gr | No |
 | lightmaster.pw | Yes |
 | limotelu.org | Yes |
+| linkr.ninja | No |
 | lsho.top | Yes |
 | masters-of-cloud.de | No |
 | meeo.win | Yes |
@@ -205,6 +208,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | puredns.org | Yes |
 | pyry.me | No |
 | pzhg.me | No |
+| qis.io | No |
 | qquack.org | Yes |
 | quad9.net | Yes |
 | r0cket.net | No |
@@ -276,6 +280,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | xcom.pro | No |
 | xfinity.com | Yes |
 | xhr0no.my | Yes |
+| youni.win | Yes |
 | your-dns.run | Yes |
 | ypbind.de | No |
 | zachitect.com | No |
@@ -288,8 +293,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 104 |
-| Normal | 165 |
+| Cloudflare | 106 |
+| Normal | 168 |
 
 
 ### 38.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
