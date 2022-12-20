@@ -40,6 +40,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | belnet.be | No |
 | bitdefender.net | Yes |
 | blahdns.com | Yes |
+| blissdns.net | No |
 | blokada.org | Yes |
 | bofh.in | Yes |
 | borjalopez.eu | No |
@@ -294,7 +295,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 106 |
-| Normal | 168 |
+| Normal | 169 |
 
 
-### 38.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 38.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
