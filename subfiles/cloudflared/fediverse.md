@@ -4276,6 +4276,7 @@ Here's a list of public Fediverse services.
 | `canhelpme.com` | No |
 | `canic.us` | No |
 | `canica.pe` | No |
+| `canid.one` | No |
 | `canine.cloud` | No |
 | `canion.blog` | No |
 | `canisagrippae.blog` | No |
@@ -33827,7 +33828,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,730 |
-| Normal | 26,053 |
+| Normal | 26,054 |
 
 
 ### 22.9% of public Fediverse services are using Cloudflare.
