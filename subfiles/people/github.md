@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Inconsistent login with plex auth on Safari](https://github.com/aunefyren/wrapperr/issues/59)
 - [Origin SSL Certificate Error on CloudFlare](https://github.com/erebe/wstunnel/issues/141)
 - [CI failing due to upgrading brew (Could not symlink bin/idle3)](https://github.com/lima-vm/lima/issues/1256)
 - [Maybe erDiagram entities cannot have spaces in their names?](https://github.com/mermaid-js/mermaid/issues/3931)
