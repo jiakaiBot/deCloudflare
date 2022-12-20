@@ -1984,6 +1984,7 @@ Do not create new issue or we will close it as duplicate.
 | [cooblur@twitter](https://twitter.com/cooblur/status/1596828358192828417) | advertise |
 | [CoolMax002ish@twitter](https://twitter.com/CoolMax002ish/status/1399164860928245763) | advertise |
 | [CoolVibez15@twitter](https://twitter.com/CoolVibez15/status/1569708012243238915) | advertise |
+| [cooolrims@twitter](https://twitter.com/cooolrims/status/1605033285444198401) | advertise |
 | [CopyImage12@twitter](https://twitter.com/CopyImage12/status/1388503829142851588) | advertise |
 | [cordon272@twitter](https://twitter.com/cordon272/status/1587408631489859584) | advertise |
 | [Corona00039226@twitter](https://twitter.com/Corona00039226/status/1496506233670410242) | advertise |
@@ -5064,6 +5065,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kit33462985@twitter](https://twitter.com/Kit33462985/status/1401542022276685826) | advertise |
 | [KiteMeeran@twitter](https://twitter.com/KiteMeeran/status/1479318671038181379) | advertise |
 | [kitl37720388@twitter](https://twitter.com/kitl37720388/status/1558464851650850824) | advertise |
+| [KittinatRueang1@twitter](https://twitter.com/KittinatRueang1/status/1605029090079019008) | advertise |
 | [kiwanismusic@twitter](https://twitter.com/kiwanismusic/status/1412505917870858240) | moral (advertise) |
 | [Kiyan99307753@twitter](https://twitter.com/Kiyan99307753/status/1382401632080601088) | advertise |
 | [kjmzyxbjh@twitter](https://twitter.com/kjmzyxbjh/status/1393136098226757636) | advertise |
