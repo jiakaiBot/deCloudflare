@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [yggtorrent (updating) Login failed: Selector "divtop_panel:contains("Déconnexion")" didn't match](https://github.com/Jackett/Jackett/issues/13794)
 - [Inconsistent login with plex auth on Safari](https://github.com/aunefyren/wrapperr/issues/59)
 - [Origin SSL Certificate Error on CloudFlare](https://github.com/erebe/wstunnel/issues/141)
 - [CI failing due to upgrading brew (Could not symlink bin/idle3)](https://github.com/lima-vm/lima/issues/1256)
