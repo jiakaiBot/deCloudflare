@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CI failing due to upgrading brew (Could not symlink bin/idle3)](https://github.com/lima-vm/lima/issues/1256)
 - [Maybe erDiagram entities cannot have spaces in their names?](https://github.com/mermaid-js/mermaid/issues/3931)
 - [Update Mermaid Library for Entity Diagram Parsing Issue](https://github.com/usnistgov/hugo-uswds/issues/25)
 - [Filter out cloud flare origin cert errors](https://github.com/Infinytum/ingress/issues/6)
