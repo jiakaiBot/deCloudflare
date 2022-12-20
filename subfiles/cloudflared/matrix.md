@@ -41,7 +41,6 @@ Here's a list of public Matrix services.
 | matrix.chatcloud.net | No |
 | matrix.chatinamatrix.xyz | No |
 | matrix.chatwave.org | No |
-| chrrreeeeesss.com | No |
 | club1.fr | No |
 | matrix-client.comm.cx | Yes |
 | matrix.community.rs | Yes |
@@ -63,11 +62,13 @@ Here's a list of public Matrix services.
 | matrix.gemeinsam.jetzt | No |
 | ggc-project.de | Yes |
 | matrix.glasgow.social | No |
+| matrix.grin.hu | No |
 | group.lt | Yes |
 | hackerspaces.be | No |
 | matrix.hadoly.fr | No |
 | chatserver.hashi.sbs | Yes |
 | hot-chilli.im | No |
+| houtworm.im | No |
 | synapse.hyteck.de | No |
 | inetd.xyz | No |
 | matrix.jonasled.de | Yes |
@@ -110,7 +111,6 @@ Here's a list of public Matrix services.
 | the-apothecary.club | No |
 | matrix.tomesh.net | No |
 | trygve.me | No |
-| ungleich.matrix.ungleich.cloud | No |
 | matrix.unredacted.org | Yes |
 | utwente.io | No |
 | mtrx.vern.cc | No |
