@@ -631,6 +631,7 @@ api-sit.jio.com
 api.jio.com
 auth.jh-research.de
 auth.jiri-pejsa.cz
+auth.jungconsultant.com
 autodiscover.jeanfox.tv
 autodiscover.judythomascornett.com
 blog.jmfd.me
@@ -668,10 +669,12 @@ jaegeroslo.no
 jainmahasabhaindore.com
 jajbat.com
 james-services.hr
+jamesmoney008ofc.com
 jamiesontree.uk
 janemeredith.com
 janileinonen.com
 japanpropertycentral.com
+jasadokumenamanah.com
 jasminphotography.co.uk
 jatindermittal.com
 jauhwaktuberjalan.com
@@ -686,10 +689,12 @@ jazminshop.es
 jazzafterhours.net
 jbarlowfuneralservice.co.uk
 jbgemsandminerals.com
+jbrdibins.com.np
 jbs.org
 jca-services.co.uk
 jcfrog.com
 jcleanwas.com
+jcraveiro.com
 jean-gaborit.com
 jenssund.dk
 jeremiahbhasme.com
@@ -777,6 +782,7 @@ tickets.jazzaandesjtasie.nl
 va.jamfsupport.systems
 web.jsc.gov.jo
 webdisk.jcphotosllc.com
+webdisk.jiomp3.tk
 webdisk.job-dot.site
 webdisk.jouwwebservice.nl
 webdisk.jozefbehrfoundation.co.za
@@ -841,6 +847,7 @@ www.joseptamarit.com
 www.jounilehtonen.com
 www.journaldunet.com
 www.journalisten.se
+www.journalistenhelfen.org
 www.jpx.co.jp
 www.jr-odekake.net
 www.jra.go.jp
@@ -856,6 +863,7 @@ www.justproz.com
 www.jutta-paulus.de
 www.jydemarked.dk
 www.mikseri.jarjestotietopalvelu.fi
+www.pagarbetonprecast.com.jayamandiriprecast.com
 www.pagarpanelbeton.jayamandiriprecast.com
 www.sbtrack.jaylansolutions.co.ke
 www.secure03cit4zens.jkub.com
