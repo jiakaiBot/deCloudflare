@@ -2113,7 +2113,7 @@ Here's a list of public Fediverse services.
 | `astronomy.city` | No |
 | `astronomy.social` | No |
 | `astroport.com` | No |
-| `astrosocial.space` | No |
+| `astrosocial.space` | Yes |
 | `astrox.xyz` | No |
 | `astrr.ru` | Yes |
 | `astrra.space` | Yes |
@@ -3109,7 +3109,7 @@ Here's a list of public Fediverse services.
 | `bigthinking.social` | No |
 | `bigtoecult.org` | No |
 | `bigzu.cc` | Yes |
-| `bihar.social` | No |
+| `bihar.social` | Yes |
 | `bihlink.com` | No |
 | `biilmann.blog` | No |
 | `bikabika.xyz` | No |
@@ -3604,7 +3604,7 @@ Here's a list of public Fediverse services.
 | `bondsdogs.com` | No |
 | `boneheadmedia.com` | Yes |
 | `bonequest.net` | No |
-| `boner.camp` | No |
+| `boner.camp` | Yes |
 | `bonfire.cafe` | No |
 | `bong.social` | No |
 | `bonga.nu` | No |
@@ -7248,6 +7248,7 @@ Here's a list of public Fediverse services.
 | `divad.xyz` | No |
 | `divas.joburg` | No |
 | `divbot.com` | No |
+| `divecoaching.com.au` | No |
 | `diversity.kitchen` | No |
 | `dividuate.me` | No |
 | `divineduty.xyz` | No |
@@ -11231,7 +11232,7 @@ Here's a list of public Fediverse services.
 | `gochisou.photo` | No |
 | `gochiuma.net` | No |
 | `gochiusa.net` | No |
-| `gock.top` | No |
+| `gock.top` | Yes |
 | `godataflow.com` | Yes |
 | `godawful.earth` | No |
 | `goddessphoebe.com` | Yes |
@@ -33809,8 +33810,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,720 |
-| Normal | 26,046 |
+| Cloudflare | 7,724 |
+| Normal | 26,043 |
 
 
 ### 22.9% of public Fediverse services are using Cloudflare.
