@@ -245,6 +245,7 @@ alaan-test.zulayka.com
 all-service.zapages.co.il
 amazon-rdfcv.zzux.com
 api.zoolife.live
+api.zs-clinical-study-feasibility.dev.zsservices.com
 aws-staging.zeroq.cl
 aws-traefik.zeroq.cl
 cardiff.zipporah.co.uk
@@ -255,6 +256,7 @@ dev.zivileingeneure.eu
 discord.zorustech.com
 gateway.zscalergov.net
 gog-ws.zt-archiv.at
+home.zander.su
 impots.gouv.fr.zweirad-center-bullerjahn.de
 javelin.staging.zsservices.com
 juegocoronadearagon.zierzolab.com
@@ -269,11 +271,13 @@ rd.zero-trust-security.de
 register.zscalertwo.net
 staging2.zeroq.cl
 static.ctw.zusapi.com
+supporttest2.zme.se
 tipengine.zoho.com
 travelassist.zurich.ca
 unusualset-coinbase.zyns.com
 valeofglamorgan.zipporah.co.uk
 whm.zelateck.online
+www.a-m-security.zapweb.co.il
 www.accounting.zedwa.za.net
 www.backup.zempirestore.com
 www.billgenerate.zahidjodntours.com
@@ -313,6 +317,8 @@ zebrayouth.org
 zebtravels.com.pk
 zenithub.com.np
 zenjomar.com
+zero.ong
+zeroonehost.org
 zeyana.co.ke
 zeydil.uz
 zglostrolla.pl
