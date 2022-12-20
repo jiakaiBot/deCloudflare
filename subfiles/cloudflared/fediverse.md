@@ -7338,6 +7338,7 @@ Here's a list of public Fediverse services.
 | `docampo.net` | No |
 | `docker25.ch` | No |
 | `dockerr.me` | No |
+| `docmeth02.host` | Yes |
 | `docpop.org` | No |
 | `docteamdemosite.club` | No |
 | `doctors4covidethics.org` | No |
@@ -21520,7 +21521,7 @@ Here's a list of public Fediverse services.
 | `ocsf.in` | No |
 | `octaplex.net` | No |
 | `octo.im` | No |
-| `octobot.space` | No |
+| `octobot.space` | Yes |
 | `octodon.social` | No |
 | `octosrv.me` | Yes |
 | `octt.eu.org` | No |
@@ -22373,7 +22374,7 @@ Here's a list of public Fediverse services.
 | `pallamondo.net` | No |
 | `palmer.house` | No |
 | `palmsy.club` | No |
-| `palom.be` | Yes |
+| `palom.be` | No |
 | `palon.org` | Yes |
 | `palousegeo.com` | No |
 | `paltee.net` | No |
@@ -33810,7 +33811,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,724 |
+| Cloudflare | 7,725 |
 | Normal | 26,043 |
 
 
