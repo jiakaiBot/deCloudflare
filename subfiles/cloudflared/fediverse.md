@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,929 |
-| social | 2,989 |
+| social | 2,990 |
 | net | 2,551 |
 | org | 1,853 |
 | de | 1,681 |
@@ -5335,7 +5335,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9246,7 +9246,7 @@ Here's a list of public Fediverse services.
 | `fediverse.me` | No |
 | `fediverse.monster` | No |
 | `fediverse.network` | No |
-| `fediverse.one` | No |
+| `fediverse.one` | Yes |
 | `fediverse.partners` | No |
 | `fediverse.pl` | Yes |
 | `fediverse.pw` | No |
@@ -13287,7 +13287,7 @@ Here's a list of public Fediverse services.
 | `ingram-braun.net` | No |
 | `ingress-enl.jp` | No |
 | `ingsoc.email` | No |
-| `ingwie.io` | Yes |
+| `ingwie.io` | No |
 | `ingwie.me` | Yes |
 | `inhabitat.com` | Yes |
 | `inherently.digital` | No |
@@ -16882,7 +16882,7 @@ Here's a list of public Fediverse services.
 | `lukesmith.xyz` | No |
 | `lullis.net` | Yes |
 | `lulz.win` | No |
-| `lumberjacks.social` | No |
+| `lumberjacks.social` | Yes |
 | `lumbung.space` | No |
 | `lumenwrites.com` | Yes |
 | `lumey.dev` | Yes |
@@ -26955,6 +26955,7 @@ Here's a list of public Fediverse services.
 | `slashume.onl` | Yes |
 | `slat.org` | No |
 | `slatecave.net` | No |
+| `slattery.social` | No |
 | `slattyslatt.life` | No |
 | `slayers.online` | No |
 | `slcb.xyz` | No |
@@ -33767,8 +33768,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,703 |
-| Normal | 26,021 |
+| Cloudflare | 7,705 |
+| Normal | 26,020 |
 
 
 ### 22.8% of public Fediverse services are using Cloudflare.
