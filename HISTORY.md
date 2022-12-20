@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-12-23: [IAD (Ashburn) on 2022-12-23](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/292qftc1ffgx)
 - 2022-12-21: [AMS (Amsterdam) on 2022-12-21](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5j52zzljgsv4)
 - 2022-12-19: [Issue with Cloudflare Zero Trust - Browser Isolation](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lsq0cflwsldh)
 - 2023-01-03: [AMS (Amsterdam) on 2023-01-03](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/q5jfqz8tn9yd)
