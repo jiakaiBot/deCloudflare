@@ -119,6 +119,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ha-dvin.pp.ua | No |
 | hafidzradhival.my.id | Yes |
 | hahnjo.de | No |
+| hakutakucn.com | Yes |
 | haneulo.com | Yes |
 | hanmey.de | No |
 | hdns.io | No |
@@ -264,6 +265,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | turker.info | No |
 | twnic.tw | No |
 | ultima-thule.ru | Yes |
+| unasw.eu | No |
 | uncensoreddns.org | No |
 | uni-bremen.de | No |
 | unipd.it | Yes |
@@ -296,8 +298,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 106 |
-| Normal | 171 |
+| Cloudflare | 107 |
+| Normal | 172 |
 
 
-### 38.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 38.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
