@@ -23,7 +23,7 @@ Here's the result.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,894 |
+| Cloudflare | 3,893 |
 | Normal | 51,524 |
 
 
