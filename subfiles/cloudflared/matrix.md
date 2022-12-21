@@ -62,13 +62,13 @@ Here's a list of public Matrix services.
 | g24.at | No |
 | matrix.gemeinsam.jetzt | No |
 | ggc-project.de | Yes |
-| matrix.glasgow.social | No |
 | matrix.grin.hu | No |
 | group.lt | Yes |
 | hackerspaces.be | No |
 | matrix.hadoly.fr | No |
 | chatserver.hashi.sbs | Yes |
 | hot-chilli.im | No |
+| houtworm.im | No |
 | synapse.hyteck.de | No |
 | inetd.xyz | No |
 | matrix.jonasled.de | Yes |
