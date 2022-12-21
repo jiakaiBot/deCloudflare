@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,977 |
+| com | 4,979 |
 | social | 3,024 |
 | net | 2,570 |
 | org | 1,861 |
@@ -4242,6 +4242,7 @@ Here's a list of public Fediverse services.
 | `calavere.me` | No |
 | `calbasi.net` | No |
 | `calc.news` | Yes |
+| `calciumsigma.com` | No |
 | `calckey.cloud` | No |
 | `calculate-linux.org` | No |
 | `calculate.social` | No |
@@ -24698,6 +24699,7 @@ Here's a list of public Fediverse services.
 | `raulhc.cc` | Yes |
 | `rauschfrei.eu` | No |
 | `rave.nz` | No |
+| `ravearizona.club` | Yes |
 | `ravematch.social` | No |
 | `raven.ch` | No |
 | `raven.dog` | No |
@@ -32285,6 +32287,7 @@ Here's a list of public Fediverse services.
 | `webschuur.com` | No |
 | `webseed.com` | Yes |
 | `webserv-mg.de` | No |
+| `website-inator.com` | No |
 | `websozis.social` | No |
 | `webtoo.ls` | Yes |
 | `webunknownperson.com` | No |
@@ -34005,8 +34008,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,784 |
-| Normal | 26,178 |
+| Cloudflare | 7,785 |
+| Normal | 26,180 |
 
 
 ### 22.9% of public Fediverse services are using Cloudflare.
