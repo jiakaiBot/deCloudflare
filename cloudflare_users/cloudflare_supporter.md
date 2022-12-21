@@ -10746,6 +10746,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vincent38099573@twitter](https://twitter.com/Vincent38099573/status/1381281485987061768) | advertise |
 | [Vincent67798867@twitter](https://twitter.com/Vincent67798867/status/1564953677257150464) | advertise |
 | [VincentNguyn5@twitter](https://twitter.com/VincentNguyn5/status/1552245153322397697) | advertise |
+| [VINCENTRIX184@twitter](https://twitter.com/VINCENTRIX184/status/1605518018183712775) | advertise |
 | [VinhH55904850t@twitter](https://twitter.com/VinhH55904850t/status/1477898812764999681) | advertise |
 | [vinhlcv@twitter](https://twitter.com/vinhlcv/status/1508827801981714432) | advertise |
 | [vinhngu79083341@twitter](https://twitter.com/vinhngu79083341/status/1386229081218306048) | advertise |
