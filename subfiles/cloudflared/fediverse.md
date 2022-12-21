@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,974 |
+| com | 4,977 |
 | social | 3,021 |
-| net | 2,569 |
+| net | 2,570 |
 | org | 1,861 |
 | de | 1,690 |
 
@@ -2580,7 +2580,7 @@ Here's a list of public Fediverse services.
 | `balliauw.net` | No |
 | `ballioljcr.org` | No |
 | `ballmerlabs.net` | No |
-| `balloon.net.eu.org` | No |
+| `balloon.net.eu.org` | Yes |
 | `balloon.social` | No |
 | `ballpointcarrot.net` | No |
 | `baloom.co` | Yes |
@@ -9778,6 +9778,7 @@ Here's a list of public Fediverse services.
 | `fogade.gob.ve` | No |
 | `foggyminds.com` | Yes |
 | `fogna.social` | No |
+| `fogtype.com` | Yes |
 | `foilhat.tk` | No |
 | `foinb.de` | Yes |
 | `fokken.ninja` | No |
@@ -11923,6 +11924,7 @@ Here's a list of public Fediverse services.
 | `hameln.social` | No |
 | `hamik.net` | No |
 | `hamiller.net` | No |
+| `haminoa.net` | No |
 | `hammer-and-sickle.net` | No |
 | `hamont.social` | No |
 | `hamradio.social` | No |
@@ -21987,6 +21989,7 @@ Here's a list of public Fediverse services.
 | `opendatahacklab.org` | No |
 | `opendesktop.org` | No |
 | `opendev.social` | No |
+| `opendium.com` | No |
 | `opendna.com` | Yes |
 | `opendrone.io` | No |
 | `openedtech.social` | No |
@@ -33127,6 +33130,7 @@ Here's a list of public Fediverse services.
 | `xn--j5r817a.com` | Yes |
 | `xn--kck8cn1l.ninja` | No |
 | `xn--kckk1cy297bor8a.jp` | No |
+| `xn--kdk0c930v.com` | No |
 | `xn--knallgrn-c5a.space` | No |
 | `xn--krsgw--n73t.com` | Yes |
 | `xn--kst.jp` | Yes |
@@ -33994,8 +33998,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,778 |
-| Normal | 26,173 |
+| Cloudflare | 7,780 |
+| Normal | 26,175 |
 
 
 ### 22.9% of public Fediverse services are using Cloudflare.
