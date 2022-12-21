@@ -1540,6 +1540,8 @@ clonardiscoduro.regalosfree.com
 cloud.racket-service.info
 cloud.riele.de
 code.rnrd.eu
+coinbaserenan.staging.runnr.in
+community.rmahq.org
 concured-api-prod-qxn3ys6u5a-uc.a.run.app
 contact.richesmediadigital.com
 contactus.richesmediadigital.com
@@ -1595,7 +1597,9 @@ google.co.jp.uoeh-u.remotexs.xyz
 google.com.uoeh-u.remotexs.xyz
 googletagmanager.com.uoseresources.remotexs.xyz
 halftime.raksoftech.com
+hcaptcha.com.crid.bcie.org.remotexs.co
 hcsdcg66sdsdhgdf-1b8897185d70b198c119e1d2b7efd8a2.ssl.cf1.rackcdn.com
+hemelserechtbank.raisingthefoundations.org
 heritage.renesan.com
 homeschool.rebeccareid.com
 horizonappserver2.riskcloud.net
@@ -1606,6 +1610,7 @@ id.rlcdn.com
 identityacc.raet.com
 igor.rebelmouse.dev
 imail.ronin-walllets.com
+imgs.hcaptcha.com.crid.bcie.org.remotexs.co
 inform.roodlane.co.uk
 ir.rackspace.com
 japan.elsevier.com.uoeh-u.remotexs.xyz
@@ -1613,6 +1618,7 @@ jira.rh2u.fr
 kpp9.uat.rroom.net
 letmein.ssc.rcuk.ac.uk
 life-api-prd-ddfgcoc74q-du.a.run.app
+livethreatmap.radware.com
 loanapp.riverwindbank.com
 login.incites.clarivate.com.uoeh-u.remotexs.xyz
 login.riicsandbox.com
@@ -1632,6 +1638,7 @@ milano.repubblica.it
 mm.realmicrosoft.com
 monthlyupdate.refurbandsellmyhouse.com
 msteamsv2-oah-regression.ringcentral-bot.com
+newassets.hcaptcha.com.crid.bcie.org.remotexs.co
 novel-coronavirus.onlinelibrary.wiley.com.eresourcesptsl.ukm.remotexs.co
 obo.rigel-m.com
 oce.ovid.com.eresourcesptsl.ukm.remotexs.co
@@ -1652,8 +1659,10 @@ play.google.com.uoeh-u.remotexs.xyz
 plex.rama.ovh
 prodis.regione.piemonte.it
 pt.rcarchidesign.com
+pweb.rmahq.org
 qa-api.robomobiledev.com
 r3cleanscovid19.com
+ra-ivtherapymaui.ropstam.dev
 raazams.com
 rablox.cf
 racelaw.co.za
@@ -1665,15 +1674,18 @@ radomirdarmila.pl
 rahm.in.net
 railings-toronto.ca
 rainbowracegears.com
+raincoast.org
 rainhilltrials.co.uk
 rakhau.com
 rakyatkitapost.com
 ramabaktha.site
 ramanasafety.com
 ramanasafety.org
+ramsami.com.fj
 randomnamegenerator.info
 rangga.website
 rangodelivery.com
+ranimultiservice.co.in
 rankerslogin.com
 rant-medicine.com
 rapcredit.com
@@ -1682,6 +1694,7 @@ rarehistoricalphotos.com
 rassik.com
 rastrearmeucarro.com.br
 rateyourmusic.com
+ravaninfratech.com
 ray-phelan.com
 raydatlawco.com
 rb-informatics.com
@@ -1693,6 +1706,7 @@ rcmoney.in
 rctheatreco.com
 readd-setup.com
 readingcirclebooks.com
+readytocooks.com
 realcoolindustries.com.au
 realtimeclaims.com
 rebeccahap.com
@@ -1714,12 +1728,14 @@ reduct.store
 referrix.at
 refrisur.com.mx
 regcovid19.com
+registrationexpress.in
 regnskapsforerpris.no
 regnskapskontorioslo.no
 rejuviantskincream.com
 relaunch.ruettimanngartenbau.ch
 reliableelectricalservice.com
 relianceforcesecurity.ae
+reliancejiolyf.com
 religiousfreedomandbusiness.org
 renaissance.tn
 renalmd.org
@@ -1739,6 +1755,7 @@ restore-northmtpleasant.com
 restore-southmtpleasant.com
 restoredconnections.org
 restoredconnectionsfamilytherapy.com
+restoreit1900.com
 restoreorretreat.org
 restoretheking.com
 retail-insider.com
@@ -1768,6 +1785,7 @@ rixero.com
 rizutokilnservice.com
 rjtheodore.com
 rkmalerservice.no
+rkness.org
 rleighturner.com
 rmgconsulting.com.mx
 rnr.show
@@ -1775,6 +1793,7 @@ roamingnanny.com
 robertsontruckgroup.com
 roblofj.com
 roblowery.realtor
+roblox.ai
 robloxexploitz.com
 robloxgamesweb.com
 robloxinvestors.com
@@ -1788,6 +1807,7 @@ rochester-drinks.com
 rockymountainwaterbilling.com
 rocodromo.live
 rodanteautopecas.com.br
+rogerbit.com
 roggift.com
 roleplay.com.ar
 rollbox.pt
@@ -1806,6 +1826,7 @@ rsnzwaikato.org
 rssidowaras.com
 rubbersidedownmtb.co.za
 rubens-coffee-lounge.de
+rubytech.co.ke
 ruchira-parkeast.com
 rufussa.com
 ruknalqusais.com
@@ -1817,6 +1838,7 @@ sb.ringhel.ro
 scholar.google.co.jp.uoeh-u.remotexs.xyz
 scholar.google.com.uoeh-u.remotexs.xyz
 sec-api.cdrbank.racq.com.au
+sharepoint.rmsc.sa.edu.au
 shibaswapweb.rds.land
 signin.lexisnexis.com.uoseresources.remotexs.xyz
 sip.regionsormland.se
@@ -1835,10 +1857,12 @@ synopsiscsssg.rtss.qc.ca
 t.e.roccofortehotels.com
 t.email.roccofortehotels.com
 t.rdsv.net
+test-api.routeguard.eu
 test.plc.rshb.ru
 teste.rubenfabio.com.br
 tools.ovid.com.uoseresources.remotexs.xyz
 torino.repubblica.it
+tracker-ridpc.rimanggis.com
 tracker.rtpnt.xyz
 translate.google.com.uoeh-u.remotexs.xyz
 u1839233.plsk.regruhosting.ru
@@ -1854,6 +1878,7 @@ webdisk.refractions.org.uk
 webdisk.review08-bankofamerica.com
 webdisk.rhbrandsnyc.com
 webdisk.robloxexploitz.com
+webdisk.royalenfieldbank.com
 webdisk.rust-remover.com
 webmail.ranbimagroup.lk
 webmail.robloxexploitz.com
@@ -1981,6 +2006,7 @@ www.reverify-appleid-apple.com
 www.reviewexceldocument.com
 www.revisioneautobergamo.com
 www.revistaperfiles.org
+www.revscottwells.com
 www.revue-projet.com
 www.rhinecoastshiners.de
 www.riachannel.com
@@ -1996,7 +2022,7 @@ www.rivacucina.com
 www.riversidedentalnyc.com
 www.riverteethjournal.com
 www.rivertownsenterprise.net
-www.rmhot.shop
+www.rivierafarms.com.au
 www.roaminbisonworkshop.com
 www.robertsharp.co.uk
 www.robertwitt.de
@@ -2007,6 +2033,7 @@ www.romuloreydelosamoresimposibles.com
 www.roosvonkblog.nl
 www.rosenbergconcrete.com
 www.royallondonannuitybureau.com
+www.royhill.com.au
 www.rpasecurity.com
 www.rpmautosalesservice.com
 www.rsk-services-lpe.fr
@@ -2016,11 +2043,13 @@ www.rukisart.com
 www.russellalexander.com
 www.russianbabesgoa.in
 www.rutherford.org
+www.rvl-group.com
 www.rwe-tribunal.org
 www.secure.revjma.org
 www.serviceslinguistiquesalapige.redactirevisipigiste.com
 www.servicios-nominas-mspas.rrhh-gt.com
 www.support.reducetheuse.com
+www.support.refurbit.co.uk
 www.tcybill.rdparamedicalcollege.com
 www.ticketug.raygmusic.com
 www.ukbartanews24.rahatrafi.xyz
