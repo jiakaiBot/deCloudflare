@@ -9,8 +9,8 @@
             }
           },
           "version": "1.0.2.1",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/reporter/addon/firefox/addon.xpi?83395be959add4b66e67e62a72fcdc53a4a8bad5af51ed16ede529ed06db0a97",
-          "update_hash": "sha256:83395be959add4b66e67e62a72fcdc53a4a8bad5af51ed16ede529ed06db0a97"
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/reporter/addon/firefox/addon.xpi?e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "update_hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
         }
       ]
     },
