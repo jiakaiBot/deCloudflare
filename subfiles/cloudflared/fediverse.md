@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,977 |
-| social | 3,021 |
+| social | 3,023 |
 | net | 2,570 |
 | org | 1,861 |
 | de | 1,690 |
@@ -917,6 +917,7 @@ Here's a list of public Fediverse services.
 | `afternoonrobot.co.uk` | No |
 | `afterpod.com` | No |
 | `afterway.ga` | No |
+| `afterway.pw` | Yes |
 | `afteryu.me` | Yes |
 | `afu.social` | No |
 | `aga.ovh` | No |
@@ -9975,6 +9976,7 @@ Here's a list of public Fediverse services.
 | `fratm.com` | No |
 | `fraudon.jp` | No |
 | `fraunhofer.de` | No |
+| `frazee.social` | No |
 | `frbg.me` | No |
 | `fre4k.de` | No |
 | `freak.garden` | No |
@@ -15960,6 +15962,7 @@ Here's a list of public Fediverse services.
 | `le43.eu` | No |
 | `le5emeaxe.blog` | No |
 | `le5emeaxe.fr` | No |
+| `lea.pet` | Yes |
 | `leadrdrk.eu.org` | No |
 | `leadslinger.org` | No |
 | `leaf.style` | No |
@@ -24582,6 +24585,7 @@ Here's a list of public Fediverse services.
 | `ramble.space` | No |
 | `rambleon.social` | No |
 | `ramblingreaders.org` | No |
+| `ramblings.social` | No |
 | `ramen-fsm.eu.org` | No |
 | `ramendon.jp` | No |
 | `ramirezzzz.org` | Yes |
@@ -33999,8 +34003,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,781 |
-| Normal | 26,175 |
+| Cloudflare | 7,783 |
+| Normal | 26,177 |
 
 
 ### 22.9% of public Fediverse services are using Cloudflare.
