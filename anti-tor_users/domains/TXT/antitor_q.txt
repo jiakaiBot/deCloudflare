@@ -183,6 +183,7 @@ mobile.qsremit.net
 plugin.github-source.service.ap-northeast-1.quokka.codes
 plugin.github-source.service.eu-west-1.quokka.codes
 qalmoco.quicksoft.com.br
+qataritsolutions.com
 qcom.co.uk
 qh88vn.net
 qhsealert.com
@@ -196,6 +197,7 @@ quality-containers.com
 quangtanhoa.com
 quantumdelta.nl
 quantumdyno.com
+quarzo-cloud-e05.quarzo.com
 quazzartech.com
 qudi.ni
 quick2credit.com
@@ -231,6 +233,7 @@ www.quantable.com
 www.quantakinetic.com
 www.quikr.com
 www.ticketmaster.quality4k.com
+www.verify-myinfo.qhigh.com
 qamwm5o8dlgijte.com
 qe0ckm024b.com
 qoaaa.com
