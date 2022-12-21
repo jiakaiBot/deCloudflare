@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Pages Availability Issues](https://github.com/MatBenfield/news/issues/7357)
 - [Exception (yggtorrent): The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/632)
 - [TorrentLeech Unable to search TV series.](https://github.com/Jackett/Jackett/issues/13796)
 - [FrozenError: can't modify frozen class](https://github.com/Homebrew/homebrew-core/issues/118664)
