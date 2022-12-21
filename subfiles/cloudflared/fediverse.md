@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,977 |
-| social | 3,023 |
+| social | 3,024 |
 | net | 2,570 |
 | org | 1,861 |
 | de | 1,690 |
@@ -25330,6 +25330,7 @@ Here's a list of public Fediverse services.
 | `robtarr.net` | No |
 | `robutti.me` | No |
 | `robw.me` | No |
+| `roc.social` | No |
 | `rocaguinarda.org` | No |
 | `roccoli-b.com` | No |
 | `rocha.dev.br` | No |
@@ -26530,6 +26531,7 @@ Here's a list of public Fediverse services.
 | `serveo.net` | No |
 | `serveousercontent.com` | No |
 | `server-on.net` | No |
+| `server.pink` | Yes |
 | `server17.net` | No |
 | `server321.de` | No |
 | `serverhosting.social` | No |
@@ -34003,8 +34005,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,783 |
-| Normal | 26,177 |
+| Cloudflare | 7,784 |
+| Normal | 26,178 |
 
 
 ### 22.9% of public Fediverse services are using Cloudflare.
