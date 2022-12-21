@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Exception (yggtorrent): The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/632)
 - [TorrentLeech Unable to search TV series.](https://github.com/Jackett/Jackett/issues/13796)
 - [FrozenError: can't modify frozen class](https://github.com/Homebrew/homebrew-core/issues/118664)
 - [Bracket type casting not supported](https://github.com/tree-sitter/tree-sitter-typescript/issues/232)
