@@ -7621,6 +7621,7 @@ Here's a list of public Fediverse services.
 | `dram.org` | No |
 | `dramadon.net` | No |
 | `dramaless.co.uk` | No |
+| `dramatica.online` | Yes |
 | `dranoel.net` | Yes |
 | `drapor.me` | No |
 | `drasticactions.site` | No |
@@ -33998,7 +33999,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,780 |
+| Cloudflare | 7,781 |
 | Normal | 26,175 |
 
 
