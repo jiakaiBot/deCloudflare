@@ -14753,6 +14753,7 @@ Here's a list of public Fediverse services.
 | `katuemon.com` | No |
 | `katy.media` | Yes |
 | `katyucha.ovh` | No |
+| `katz.vision` | Yes |
 | `katze.sh` | Yes |
 | `katzenjens.de` | No |
 | `kavehmoravej.com` | No |
@@ -33911,7 +33912,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,757 |
+| Cloudflare | 7,758 |
 | Normal | 26,111 |
 
 
