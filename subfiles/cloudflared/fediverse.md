@@ -26974,6 +26974,7 @@ Here's a list of public Fediverse services.
 | `six-five-six-four.com` | No |
 | `sixam.xyz` | No |
 | `sixdegreesofohio.com` | No |
+| `sixfalls.me` | Yes |
 | `sixfoisneuf.fr` | No |
 | `sixohthree.com` | No |
 | `sixy.name` | No |
@@ -33960,7 +33961,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,766 |
+| Cloudflare | 7,767 |
 | Normal | 26,151 |
 
 
