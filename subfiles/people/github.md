@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Bracket type casting not supported](https://github.com/tree-sitter/tree-sitter-typescript/issues/232)
 - [Stack traces do not use correct source code line numbers.](https://github.com/honojs/hono/issues/739)
 - [yggtorrent (updating) Login failed: Selector "divtop_panel:contains("Déconnexion")" didn't match](https://github.com/Jackett/Jackett/issues/13794)
 - [Inconsistent login with plex auth on Safari](https://github.com/aunefyren/wrapperr/issues/59)
