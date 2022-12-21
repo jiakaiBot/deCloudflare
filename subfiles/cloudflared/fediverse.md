@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 4,955 |
 | social | 3,010 |
-| net | 2,562 |
+| net | 2,563 |
 | org | 1,860 |
 | de | 1,687 |
 
@@ -3250,7 +3250,7 @@ Here's a list of public Fediverse services.
 | `bitcoinhackers.org` | Yes |
 | `bitcoinlizard.net` | No |
 | `bitcoinmagazine.social` | No |
-| `bitcoinmastodon.org` | Yes |
+| `bitcoinmastodon.org` | No |
 | `bitcoinplebs.net` | No |
 | `bitcoinsasquatch.com` | No |
 | `bitcointv.com` | No |
@@ -5360,7 +5360,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -20429,7 +20429,7 @@ Here's a list of public Fediverse services.
 | `nekrofilie.ga` | No |
 | `nekton.social` | No |
 | `nekusoul.de` | No |
-| `nelcomm.org` | Yes |
+| `nelcomm.org` | No |
 | `nelinka.net` | No |
 | `nels.space` | No |
 | `nelson.social` | Yes |
@@ -25574,6 +25574,7 @@ Here's a list of public Fediverse services.
 | `rustywinks.net` | Yes |
 | `rutan.info` | No |
 | `ruthenic.com` | No |
+| `ruud.je` | No |
 | `ruxnor.net` | Yes |
 | `ruz.social` | No |
 | `rv.social` | No |
@@ -27715,6 +27716,7 @@ Here's a list of public Fediverse services.
 | `spiralnature.com` | No |
 | `spirals.observer` | No |
 | `spirgi.com` | No |
+| `spiritblog.net` | Yes |
 | `spiritofcontradiction.eu` | No |
 | `spiritoot.space` | No |
 | `spitau.de` | No |
@@ -33909,8 +33911,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,759 |
-| Normal | 26,107 |
+| Cloudflare | 7,757 |
+| Normal | 26,111 |
 
 
 ### 22.9% of public Fediverse services are using Cloudflare.
