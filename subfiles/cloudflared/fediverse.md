@@ -4437,6 +4437,7 @@ Here's a list of public Fediverse services.
 | `catala.digital` | No |
 | `catalunya.social` | No |
 | `catatec.ch` | No |
+| `catboi.party` | No |
 | `catboy.cafe` | No |
 | `catboyindustries.co` | Yes |
 | `catcatnya.com` | No |
@@ -33960,7 +33961,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,766 |
-| Normal | 26,150 |
+| Normal | 26,151 |
 
 
 ### 22.9% of public Fediverse services are using Cloudflare.
