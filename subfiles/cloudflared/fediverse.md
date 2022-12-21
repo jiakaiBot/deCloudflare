@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,974 |
-| social | 3,020 |
+| social | 3,021 |
 | net | 2,569 |
 | org | 1,861 |
 | de | 1,690 |
@@ -28056,6 +28056,7 @@ Here's a list of public Fediverse services.
 | `stefan-muenz.de` | No |
 | `stefanberger.net` | No |
 | `stefanbohacek.online` | No |
+| `stefanomarinelli.it` | No |
 | `stefanovski.io` | Yes |
 | `stefanpfeiffer.blog` | Yes |
 | `stefanplank.art` | No |
@@ -28494,6 +28495,7 @@ Here's a list of public Fediverse services.
 | `surfnet.space` | No |
 | `surftao.life` | Yes |
 | `surfzone.nz` | Yes |
+| `surgeons.social` | Yes |
 | `surgeplay.com` | Yes |
 | `surindaku.dev` | Yes |
 | `surrealbee.com` | No |
@@ -33992,8 +33994,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,777 |
-| Normal | 26,172 |
+| Cloudflare | 7,778 |
+| Normal | 26,173 |
 
 
 ### 22.9% of public Fediverse services are using Cloudflare.
