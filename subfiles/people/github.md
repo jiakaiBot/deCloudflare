@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [FrozenError: can't modify frozen class](https://github.com/Homebrew/homebrew-core/issues/118664)
 - [Bracket type casting not supported](https://github.com/tree-sitter/tree-sitter-typescript/issues/232)
 - [Stack traces do not use correct source code line numbers.](https://github.com/honojs/hono/issues/739)
 - [yggtorrent (updating) Login failed: Selector "divtop_panel:contains("Déconnexion")" didn't match](https://github.com/Jackett/Jackett/issues/13794)
