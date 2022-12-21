@@ -279,12 +279,17 @@ asset.yes.my
 b90.yahoo.co.jp
 baseball.yahoo.co.jp
 click.sf.yumobile.co.jp
+coinbasecoml0gin.yahoosites.com
+coinbasecomllogin.yahoosites.com
 coinbasee-prologin.yahoosites.com
 cpanel.yacovid.com
 cpcalendars.yacovid.com
 cpcalendars.yprseguros.com
 dms-cx24dadhv2report.wc.yahoodns.net
 epg.yokkeapi.com
+etc-dsdw.yourtrap.com
+etc-utrutoi.youdontcare.com
+etc-vdews.yourtrap.com
 extension.yoopick.com
 facture.yonetwork.ma
 files.yezdo.com
@@ -309,6 +314,7 @@ sta.api.youatcollege.com
 static.77.219.108.65.clients.your-server.de
 sts.yesbank.in
 support.yougethost.com
+techhunters.y.net.ye
 updateimmo.go.yo.fr
 v-apt85sygrz.wc.yahoodns.net
 v-btaajmpai6.wc.yahoodns.net
@@ -343,6 +349,7 @@ www.yourhome.gov.au
 www.youtubebulkviews.com
 www.yugioh-card.com
 www.yukease.com
+www.yukisecurity24.com.vn
 www.yunweinnlogin.com
 y-bb.ru
 yahool.tech
@@ -363,6 +370,7 @@ yilbasi-mujdesi-denizuyelere.ml
 yoergbeer.com
 yoga36.de
 yomi-kata.com
+yorkevent.com
 yorkplacemusicalsalon.ca
 yourdatebill.com
 yourmagichost.com
@@ -372,6 +380,7 @@ yourrugdepot.com
 yoursafestinvestment.com
 youthmediaaction.com
 yuckcontrol.com
+yukisecurity24.com.vn
 yushu.or.jp
 yuyuyu.yutaroblog.org
 yvonnemarcwedding.nl
