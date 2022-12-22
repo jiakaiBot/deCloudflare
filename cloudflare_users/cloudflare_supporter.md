@@ -1527,6 +1527,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bole43343696@twitter](https://twitter.com/Bole43343696/status/1553438240669323264) | advertise |
 | [BoLinhNguync1@twitter](https://twitter.com/BoLinhNguync1/status/1475740957421150211) | advertise |
 | [BOLL52898482@twitter](https://twitter.com/BOLL52898482/status/1395812015214632960) | advertise |
+| [BoMyat19@twitter](https://twitter.com/BoMyat19/status/1605848700881772545) | advertise |
 | [BonaErwin@twitter](https://twitter.com/BonaErwin/status/1488978738066771974) | advertise |
 | [BonfireZone@twitter](https://twitter.com/BonfireZone/status/1432302355488329733) | advertise |
 | [bonguyn29688521@twitter](https://twitter.com/bonguyn29688521/status/1402308865257918465) | advertise |
@@ -7702,6 +7703,7 @@ Do not create new issue or we will close it as duplicate.
 | [ot7since2017@twitter](https://twitter.com/ot7since2017/status/1379383185210028034) | advertise |
 | [OthmanAlnaqbi@twitter](https://twitter.com/OthmanAlnaqbi/status/1388557696115281925) | advertise |
 | [otouristas@twitter](https://twitter.com/otouristas/status/1383554131143450626) | advertise |
+| [OTTP_Tri@twitter](https://twitter.com/OTTP_Tri/status/1605855073263046656) | advertise |
 | [OTUXDwxwiUyHRRU@twitter](https://twitter.com/OTUXDwxwiUyHRRU/status/1478974961666510851) | advertise |
 | [oTxoOBgfiHebstE@twitter](https://twitter.com/oTxoOBgfiHebstE/status/1390823343826210818) | advertise |
 | [ouap0678@twitter](https://twitter.com/ouap0678/status/1380075673465708544) | advertise |
@@ -11102,6 +11104,7 @@ Do not create new issue or we will close it as duplicate.
 | [xbdm_@twitter](https://twitter.com/xbdm_/status/1471004561791987715) | advertise |
 | [xbiginfo@twitter](https://twitter.com/xbiginfo/status/1534249092406181893) | advertise |
 | [Xboy2020G@twitter](https://twitter.com/Xboy2020G/status/1562838276586713089) | advertise |
+| [XBROPUBG@twitter](https://twitter.com/XBROPUBG/status/1605841391908556800) | advertise |
 | [xbyvpd8mgt@twitter](https://twitter.com/xbyvpd8mgt/status/1596181348271919105) | advertise |
 | [XCHAME_@twitter](https://twitter.com/XCHAME_/status/1531110785178804224) | advertise |
 | [Xcite27177012@twitter](https://twitter.com/Xcite27177012/status/1399383013616615424) | advertise |
