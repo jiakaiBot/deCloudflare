@@ -28,7 +28,6 @@ Here's a list of public Matrix services.
 | anonymousland.org | No |
 | matrix.arcticfoxes.net | Yes |
 | aria.im | No |
-| asra.gr | No |
 | matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
 | bancino.net | No |
@@ -111,6 +110,7 @@ Here's a list of public Matrix services.
 | the-apothecary.club | No |
 | matrix.tomesh.net | No |
 | trygve.me | No |
+| ungleich.matrix.ungleich.cloud | No |
 | matrix.unredacted.org | Yes |
 | utwente.io | No |
 | mtrx.vern.cc | No |
