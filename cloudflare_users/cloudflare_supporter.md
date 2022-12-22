@@ -3183,6 +3183,7 @@ Do not create new issue or we will close it as duplicate.
 | [GodOfOwls@twitter](https://twitter.com/GodOfOwls/status/1376620972552417282) | advertise |
 | [GodOfWars03@twitter](https://twitter.com/GodOfWars03/status/1486542406174400513) | advertise |
 | [Godson51861788@twitter](https://twitter.com/Godson51861788/status/1391118380443258883) | advertise |
+| [godswillabel6@twitter](https://twitter.com/godswillabel6/status/1605990304200331264) | advertise |
 | [GODVSH1@twitter](https://twitter.com/GODVSH1/status/1400408258024665091) | advertise |
 | [GodXGaming19@twitter](https://twitter.com/GodXGaming19/status/1404097512743477248) | advertise |
 | [GogehZailani@twitter](https://twitter.com/GogehZailani/status/1557726171130802179) | advertise |
@@ -9920,8 +9921,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
