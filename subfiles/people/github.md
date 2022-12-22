@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [YggTorrent Failed to search torrent with YggTorreng Indexer](https://github.com/Jackett/Jackett/issues/13800)
 - [Lyrics not working](https://github.com/zyrouge/node-genius-lyrics/issues/40)
 - [Invalid Session Token](https://github.com/terry3041/pyChatGPT/issues/57)
 - [CloudFlare Cloudflare Pages Availability Issues](https://github.com/MatBenfield/news/issues/7357)
