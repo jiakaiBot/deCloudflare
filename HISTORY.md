@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-12-23: [FRA (Frankfurt) on 2022-12-23](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/c903rwny0l0d)
 - 2022-12-23: [FRA (Frankfurt) on 2022-12-23](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/dmzt6p6f3hyt)
 - 2022-12-21: [MEL (Melbourne) on 2022-12-21](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qtp4skqgdsj0)
 - 2022-12-23: [IAD (Ashburn) on 2022-12-23](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/292qftc1ffgx)
