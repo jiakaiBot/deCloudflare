@@ -2710,6 +2710,7 @@ Here's a list of public Fediverse services.
 | `bartoszmilewski.com` | No |
 | `bartrip.me.uk` | Yes |
 | `bartz.team` | No |
+| `bas.tn` | No |
 | `bascht.com` | No |
 | `bascht.space` | No |
 | `base.lc` | No |
@@ -25433,7 +25434,7 @@ Here's a list of public Fediverse services.
 | `robtarr.net` | No |
 | `robutti.me` | No |
 | `robw.me` | No |
-| `roc.social` | No |
+| `roc.social` | Yes |
 | `rocaguinarda.org` | No |
 | `roccoli-b.com` | No |
 | `rocha.dev.br` | No |
@@ -33329,7 +33330,7 @@ Here's a list of public Fediverse services.
 | `xnor.work` | No |
 | `xnu.kr` | No |
 | `xoddark.com` | No |
-| `xoldie.com` | Yes |
+| `xoldie.com` | No |
 | `xoldie.xyz` | No |
 | `xolus.net` | No |
 | `xonia.es` | No |
@@ -34137,7 +34138,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,819 |
-| Normal | 26,274 |
+| Normal | 26,275 |
 
 
 ### 22.9% of public Fediverse services are using Cloudflare.
