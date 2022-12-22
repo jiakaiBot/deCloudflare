@@ -1236,6 +1236,7 @@ api.comid.ace-e1afb0.core.build.vwn.cloud
 api.comid.ace-e7fb8c39.core.build.vwn.cloud
 api.tsc.eu.dp15.vwg-connect.com
 api.voltmoney.in
+api3.vnexpress.net
 apim.vexi.mx
 apim.vib.com.vn
 apollometeornyc.vercel.app
@@ -1293,6 +1294,7 @@ digiassessdigival-gmailcom.vercel.app
 discodude1234.vercel.app
 discord-binance.vercel.app
 discord-bot1.vercel.app
+discord.vacc.ch
 discord.vrpx.de
 discord1.vercel.app
 discordcfjv1.vercel.app
@@ -1371,6 +1373,7 @@ navid-asgharzadeh.vercel.app
 navidart.vercel.app
 navizdev.vercel.app
 netservicos.victoria-seguros.pt
+new-event-8-dev.vbuzzclient.com
 new-year-dev.vbuzzclient.com
 nexoficial.shop.voxpainelsmm.online
 nicholasfoxen.vercel.app
@@ -1396,6 +1399,7 @@ porschechen.vercel.app
 portal.comid.ace-1d0df0aa.core.build.vwn.cloud
 portal.comid.ace-b45b119f.core.build.vwn.cloud
 portal.comid.ace-c2d48006.core.build.vwn.cloud
+post.viazorg.nl
 pra.velco.com
 prahalathank-gmailcom.vercel.app
 prasanthprabha81-gmailcom.vercel.app
@@ -1405,6 +1409,7 @@ rainydaydiscord.vercel.app
 rakuten-games1.vercel.app
 rakutenready.vercel.app
 rec1.vidagroupapps.com
+ricom.veramorozova.com
 robfox805.vercel.app
 robloxbunny1234.vercel.app
 robloxhax.vercel.app
@@ -1452,6 +1457,8 @@ update1212.videosintimes.com
 update1312.videosintimes.com
 update1312b.videosintimes.com
 update2012c.videosintimes.com
+update2112b.videosintimes.com
+update2112c.votreintimite.com
 v-seo.eu
 v02-chain.link
 v1scotiaoniine.com
@@ -1523,6 +1530,7 @@ vintagebymoniek.nl
 violainechapallaz.com
 vipmotelcriciuma.com.br
 virabank.viraza.net
+virginia-modularhomes.com
 virl.bc.ca
 virtualcall.com.br
 vishalpai.com
@@ -1588,6 +1596,8 @@ wsj-88488111.vercel.app
 www.account.vierrania.id
 www.account.vincentwillemsen.nl
 www.accounting.visaandall.com
+www.akaanvuokrapalvelu.viasetti.fi
+www.ayavay.vayiphone.com
 www.banking.vikscard.com
 www.billing.vps-agent.com
 www.bmrcreation.vine-services.com
@@ -1614,8 +1624,10 @@ www.site.vemdedelivery.com.br
 www.ticketsell.viewsports4k.com
 www.track.verfolgung-depost.org
 www.v-service.vn
+www.vakoilumuseo.fi
 www.valancourtbooks.com
 www.valedistributingservice.com
+www.valenciaoptometry.com
 www.valentino.com.ar
 www.valentino.realtor
 www.valeriecoteauteure.com
@@ -1642,6 +1654,7 @@ www.verifypofpremiumaccount.com
 www.veronapress.com
 www.vetenskaphalsa.se
 www.vhec.org
+www.vial-bondon.fr
 www.victoriaadvocate.com
 www.vidhionline.com
 www.vietnamworks.com
