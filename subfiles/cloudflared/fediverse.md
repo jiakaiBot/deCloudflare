@@ -10720,7 +10720,7 @@ Here's a list of public Fediverse services.
 | `gamt.tech` | No |
 | `ganba.re` | No |
 | `gancio.org` | No |
-| `gandi.net` | Yes |
+| `gandi.net` | No |
 | `gandi.social` | No |
 | `ganesha.org.br` | No |
 | `ganeshapress.net` | No |
@@ -25124,6 +25124,7 @@ Here's a list of public Fediverse services.
 | `republicofthieves.org` | No |
 | `republik.ch` | Yes |
 | `reputatio.us` | No |
+| `rererenore.tokyo` | No |
 | `res.ac` | No |
 | `resampling.net` | No |
 | `researchanddestroy.technology` | No |
@@ -34172,8 +34173,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,836 |
-| Normal | 26,293 |
+| Cloudflare | 7,835 |
+| Normal | 26,295 |
 
 
 ### 23% of public Fediverse services are using Cloudflare.
