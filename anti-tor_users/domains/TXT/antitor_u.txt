@@ -722,6 +722,8 @@ analytics.uvesolutions.com
 anandamed3.avvatar.usermd.net
 api-gisoperaciones.ufd.es
 api-www2.ukhillwalking.com
+api.companion.tsuba.undercoverlab.com
+api.unionbankph.com
 api.unnati.gov.in
 app.dawson.ustaxcourt.gov
 appleld.uss-lnc.com
@@ -759,6 +761,7 @@ emidas.ubstest.com
 emm-gw.uk-gm.de
 enactus.updatemyprofile.com
 epstest.upmuruguay.com.uy
+es-uniweed.upl-ltd.com
 fb02srv-u103275.wirtschaft.uni-giessen.de
 fonts.ub-assets.com
 ftp.ufe.cz
@@ -801,6 +804,7 @@ menkyo.uwith.net
 ncrs.uscourts.gov
 peg.uber.space
 pop.imail.pop.m.usokey.com
+portal.usiooutput.com
 poster-session.corfu2022.uest.gr
 prod-cms-web-retail-authserver.unilinkcloud.nl
 productencatalogus.uat-vlaanderen.be
@@ -813,6 +817,7 @@ secure.upstatebank.net
 securereader.uhsinc.com
 sg.bibplus.uobgroup.com
 sgucard.unimedjau.com.br
+sites.uef.fi
 solastalgiescreatrices.uqam.ca
 spc.unsrat.ac.id
 special.usps.com
@@ -845,6 +850,7 @@ ulisex.com
 ultima-generazione.com
 ultimate-measure.my.id
 ultimateflooringsolutions.co.nz
+ultra-safe.net
 ultrassonografiaraiz.com
 umrahservice.co
 unchainedpodcast.com
@@ -854,6 +860,7 @@ unidbf.com
 uniformescorporativos.com
 unimaguae.com
 uniswaplabs.in
+uniteairsticket.net
 unitedforcovid19.com
 unitedpeac.org
 unitedservices.ual.com
@@ -868,6 +875,7 @@ unvergessliche-80er.de
 unyt.edu.al
 upa.cl
 update-remove-google-ads.com
+update24.co.za
 updatedhldelivery.info
 updatesubscription.online
 updateyoursocials.nl
@@ -876,6 +884,8 @@ upoil.com.sg
 urbanbike.com
 urbandelivery.se
 urbanque.co.in
+urbservice.com
+urbservice.no
 urjalankuntopiste.fi
 urmuljyoti.org
 urologicalsurgeryvideo.com
@@ -891,6 +901,7 @@ useragentlist.net
 usps-com-ac.top
 usps-com-sd.top
 utahchapter13bankruptcy.com
+utinfradev.net
 utvyakta.com
 uub.jp
 uvtron.net
@@ -924,6 +935,7 @@ www.epubook.updatedvpn.xyz
 www.esecure.utimatic.com
 www.flt.userpsychology.com
 www.fns.usda.gov
+www.framengine.unikalservice.com
 www.fs.usda.gov
 www.fsis.usda.gov
 www.media.uzh.ch
@@ -963,6 +975,7 @@ www.ultimatedomain.hosting
 www.uniaoquimica.com.br
 www.unicreditbank.ru
 www.uniqlo.com
+www.uniteairsticket.net
 www.unitedstateszipcodes.org
 www.unitedwayhalifax.ca
 www.universedirect.net
@@ -970,6 +983,7 @@ www.universityofgalway.ie
 www.unnis-aktivitetsferie.no
 www.unpopularnyc.com
 www.unsolvedcasefiles.com
+www.update24.co.za
 www.updatebillingamazoncustomerhopt.com
 www.updatepoftalks.com
 www.upperburger.com
@@ -978,11 +992,13 @@ www.uruguaysecurity.com.uy
 www.us-cert.gov
 www.us-pspost.us
 www.us-psupdate-information.us
+www.us.treasury.user-en.com
 www.usa-glucotrust-usa.com
 www.user-ca.tk
 www.userever.com.br
 www.usergeneratedcontent.com.au
 www.usps-login0.com
+www.usps-postage-forever.shop
 www.usps-trackpackages.xyz
 www.usps-updates.buzz
 www.uspto.gov
