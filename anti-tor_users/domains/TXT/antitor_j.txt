@@ -634,6 +634,8 @@ auth.jiri-pejsa.cz
 auth.jungconsultant.com
 autodiscover.jeanfox.tv
 autodiscover.judythomascornett.com
+belezanativa.com.jpcyberstore.com
+billing.jtownrentals.com
 blog.jmfd.me
 clebelpois66loonaticsunleashed.jimdofree.com
 click.marketing.jpwindustries.com
@@ -661,10 +663,12 @@ ericmie.jimdofree.com
 etc-gkgpfk.jkub.com
 forums.jeuxonline.info
 foxpost.jof.hu
+frontend.afd1.jiohs.net
 github.jysafe.cn
 grace.justday.cloud
 grocy.jpruppert.de
 j2logo.com
+ja-yokohama-aml.jp
 jabe-dakservice.nl
 jackstanley.cl
 jaegeroslo.no
@@ -674,10 +678,13 @@ james-services.hr
 jamesmoney008ofc.com
 jamieparishooper.co.uk
 jamiesontree.uk
+jamssecurity.co.uk
 janemeredith.com
 janileinonen.com
 jankrycinski.com
+jannapalvelu.fi
 japanpropertycentral.com
+jarbanco.com
 jarednewman.com
 jasadokumenamanah.com
 jasminphotography.co.uk
@@ -735,6 +742,7 @@ jokekaviaar.nl
 joktacademy.com
 jolingelectrica.com.co
 jollyrogertelephone.com
+jornalpovodeportugal.eu
 jost-portal.jost-world.com
 journal-bpa.org
 journalsadministrativesystem.com
@@ -764,10 +772,12 @@ jwhite-accounting.com
 khadmat-login.jvmhost.net
 larasindo.joesam0208.com
 law.justia.com
+loginsecure.jh-agency.com
 mail.jurisicordinacija.co.rs
 mail1.jvgas.com
 mailtrack.judgeme.email
 member.stg-dev-aws.jahis.jp
+nvh.jadehr.co.kr
 office365-office365.aws-eu-west-1-prod.svc.jivehosted.com
 office365.eu-aws.jivehosted.com
 office365.us-aws.jivehosted.com
@@ -853,6 +863,7 @@ www.jobs-hamburg.org
 www.jobs.ac.uk
 www.jobvacancyresult.com
 www.johngrenham.com
+www.johngrimwade.com
 www.jonathan-cook.net
 www.jornalaguarda.com
 www.joseptamarit.com
