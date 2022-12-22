@@ -278,6 +278,7 @@ Here's a list of public Fediverse services.
 | `2orb.de` | No |
 | `2ot.fun` | No |
 | `2p.gg` | Yes |
+| `2pp.uk` | Yes |
 | `2printers1cups.com` | Yes |
 | `2pxnl.de` | No |
 | `2soc.net` | No |
@@ -30518,6 +30519,7 @@ Here's a list of public Fediverse services.
 | `tothillstreet.com` | No |
 | `totodile.net` | No |
 | `totoot.social` | No |
+| `totoro.im` | Yes |
 | `totoro.live` | Yes |
 | `totse.tube` | No |
 | `tottoriscout.org` | No |
@@ -34173,7 +34175,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,835 |
+| Cloudflare | 7,837 |
 | Normal | 26,295 |
 
 
