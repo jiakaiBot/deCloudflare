@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,023 |
+| com | 5,024 |
 | social | 3,048 |
 | net | 2,582 |
 | org | 1,869 |
-| de | 1,701 |
+| de | 1,702 |
 
 
 - Mastodon, Pleroma, etc
@@ -18388,6 +18388,7 @@ Here's a list of public Fediverse services.
 | `mbuf.net` | No |
 | `mburakov.org` | No |
 | `mc-mp.space` | No |
+| `mc8051.de` | Yes |
 | `mca.is` | No |
 | `mcavey.net` | No |
 | `mcb.today` | No |
@@ -26117,6 +26118,7 @@ Here's a list of public Fediverse services.
 | `satania.social` | Yes |
 | `satania.space` | No |
 | `satanic.coffee` | No |
+| `satanodon.com` | Yes |
 | `sate.li` | Yes |
 | `satealliasdomain.net` | No |
 | `sateh.com` | No |
@@ -34184,7 +34186,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,841 |
+| Cloudflare | 7,843 |
 | Normal | 26,300 |
 
 
