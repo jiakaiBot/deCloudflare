@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,022 |
+| com | 5,023 |
 | social | 3,048 |
 | net | 2,582 |
 | org | 1,869 |
@@ -30777,6 +30777,7 @@ Here's a list of public Fediverse services.
 | `troopers.agency` | No |
 | `troot.social` | No |
 | `tropical-is.land` | No |
+| `tropicalbeachclub.com` | No |
 | `troplo.com` | Yes |
 | `trougnouf.com` | No |
 | `trouth.eu` | No |
@@ -34184,7 +34185,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,841 |
-| Normal | 26,299 |
+| Normal | 26,300 |
 
 
 ### 23% of public Fediverse services are using Cloudflare.
