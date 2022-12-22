@@ -902,7 +902,6 @@ radunipay.com
 rafaelaferraz.com
 ragbrai.com
 raging-hills.com
-rahaanetista.fi
 rahagi.store
 rahamed.ir
 rahapeliala.fi
@@ -1509,6 +1508,7 @@ antena1.rtp.pt
 anzjsurg.onlinelibrary.wiley.com.uoseresources.remotexs.xyz
 api-secure.recaptcha.net
 api-sell.responsum.ai
+api.rewardly.app
 api.rian.io
 api.rinnapp.co
 api.rxpro.com.br
@@ -1518,6 +1518,7 @@ auth.eu-west-1.dev.reveal-global.com
 auth.iam.rio.cloud
 auth.read.cv
 autodiscover.restoringtherecord.org.uk
+autodiscover.roblovesmegan.com
 autodiscover.robloxexploitz.com
 blog.blog.blog.blog.test.github.rlt.team
 blog.blog.blog.magento.github.rlt.team
@@ -1559,10 +1560,12 @@ cpanel.robloxexploitz.com
 cpcalendars.review08-bankofamerica.com
 cpcalendars.rifanjayamandirigroup.com
 cpcalendars.ritmicasarriadeter.com
+cpcalendars.roblovesmegan.com
 cpcalendars.robloxexploitz.com
 cpcalendars.rust-remover.com
 cpcontacts.refractions.org.uk
 cpcontacts.review08-bankofamerica.com
+cpcontacts.roblovesmegan.com
 cpcontacts.robloxexploitz.com
 cpcontacts.rodaempat.site
 cpcontacts.rust-remover.com
@@ -1577,6 +1580,7 @@ dev.jomi.roblex.de
 dev.roblex.de
 dev.rvdo.link
 dex.test.raeffs.ch
+dferpd-1b8897185d70b198c119e1d2b7efd8a2.ssl.cf1.rackcdn.com
 e-chat.radio-of-disco-dance.de
 e-maildiensten.rijksoverheid.nl
 email.e.rdheritage.org
@@ -1625,6 +1629,7 @@ login.riicsandbox.com
 login.rizingpay.com
 logindrf.runflare.run
 lon.loadbalancers.api.rackspacecloud.com
+m.roadkillcustoms.com
 m4-dev2.rms-inc.com
 mail.robloxexploitz.com
 mail.robloxshop247.com
@@ -1644,6 +1649,8 @@ obo.rigel-m.com
 oce.ovid.com.eresourcesptsl.ukm.remotexs.co
 oce.ovid.com.uoseresources.remotexs.xyz
 ogs.google.co.jp.uoeh-u.remotexs.xyz
+onderhoud.retourtjevos.nl
+opus.radtke-partner.de
 org.reschat.dk
 ospguides.ovid.com.uoseresources.remotexs.xyz
 ovidsp.dc1.ovid.com.uoseresources.remotexs.xyz
@@ -1657,6 +1664,7 @@ petasos.telekom-dev.uat.rdk.rdkf.io
 pixel-cvbjh5aaxq-uc.a.run.app
 play.google.com.uoeh-u.remotexs.xyz
 plex.rama.ovh
+pp.leaderbank.racoonhosting.com
 prodis.regione.piemonte.it
 pt.rcarchidesign.com
 pweb.rmahq.org
@@ -1671,6 +1679,8 @@ radicaleconomictransformation.co.za
 radiopedal.uy
 radiuscyber.com
 radomirdarmila.pl
+rahafestivaali.fi
+rahajoegenaamd.ml
 rahm.in.net
 railings-toronto.ca
 rainbowracegears.com
@@ -1688,12 +1698,14 @@ rangodelivery.com
 ranimultiservice.co.in
 rankerslogin.com
 rant-medicine.com
+rap.social
 rapcredit.com
 rapidservice.pt
 rarehistoricalphotos.com
 rassik.com
 rastrearmeucarro.com.br
 rateyourmusic.com
+rationalspeech.com
 ravaninfratech.com
 ray-phelan.com
 raydatlawco.com
@@ -1701,6 +1713,7 @@ rb-informatics.com
 rbapp.robert-betz.de
 rbconline.boo
 rbsafesecurity.in
+rc-accounting.xyz
 rccgcarrickmacross.com
 rcmoney.in
 rctheatreco.com
@@ -1737,6 +1750,7 @@ reliableelectricalservice.com
 relianceforcesecurity.ae
 reliancejiolyf.com
 religiousfreedomandbusiness.org
+relojesdesol.info
 renaissance.tn
 renalmd.org
 renips.com
@@ -1757,17 +1771,22 @@ restoredconnections.org
 restoredconnectionsfamilytherapy.com
 restoreit1900.com
 restoreorretreat.org
+restorequickuberinfo-file.info
+restoreswiftuberinfo-file.info
 restoretheking.com
+restoreuberquickinfo-file.info
 retail-insider.com
 retailpmservice.com
 reverify-appleid-apple.com
 revistacastells.cat
 revistaelarcadenoe.com.mx
 rflxcicd.reflexisinc.com
+rhoeuropa.com
 ricafort-vanboegeld.net
 richard-schuberth.com
 richardbond.info
 richellemead.com
+richiestanaway.com
 rickcarlino.com
 ricomer.com
 riddler-machida.jp
@@ -1791,6 +1810,7 @@ rmgconsulting.com.mx
 rnr.show
 roamingnanny.com
 robertsontruckgroup.com
+robfox.org
 roblofj.com
 roblowery.realtor
 roblox.ai
@@ -1837,6 +1857,7 @@ s3.amazonaws.com.uoseresources.remotexs.xyz
 sb.ringhel.ro
 scholar.google.co.jp.uoeh-u.remotexs.xyz
 scholar.google.com.uoeh-u.remotexs.xyz
+sd5g15s6dd5sdf-1b8897185d70b198c119e1d2b7efd8a2.ssl.cf1.rackcdn.com
 sec-api.cdrbank.racq.com.au
 sharepoint.rmsc.sa.edu.au
 shibaswapweb.rds.land
@@ -1869,6 +1890,7 @@ u1839233.plsk.regruhosting.ru
 u1859123.plsk.regruhosting.ru
 u1873915.plsk.regruhosting.ru
 unicredit-test.recruitis.io
+uzum-api.repost.uz
 vaultwarden.relo4d.de
 web.randi.org
 web.recoverysutamazon.com
@@ -1877,6 +1899,7 @@ webdisk.ranbimagroup.lk
 webdisk.refractions.org.uk
 webdisk.review08-bankofamerica.com
 webdisk.rhbrandsnyc.com
+webdisk.roblovesmegan.com
 webdisk.robloxexploitz.com
 webdisk.royalenfieldbank.com
 webdisk.rust-remover.com
@@ -1916,6 +1939,7 @@ www.loginamor77.com.rtpamor77.com
 www.loginamor77.net.rtpamor77.com
 www.medicalsupport.riutravels.com
 www.monthlyupdate.refurbandsellmyhouse.com
+www.onderhoud.retourtjevos.nl
 www.packages.rspca.org.au
 www.pruebacreditos.rnova-services.com
 www.rac.ca
@@ -2011,6 +2035,7 @@ www.revue-projet.com
 www.rhinecoastshiners.de
 www.riachannel.com
 www.ribsrevolution.com
+www.richiestanaway.com
 www.rinat.org
 www.rinnovo-aruba.com
 www.riseagainstbullying.org
@@ -2032,6 +2057,7 @@ www.rogerhallam.com
 www.romuloreydelosamoresimposibles.com
 www.roosvonkblog.nl
 www.rosenbergconcrete.com
+www.rotarycontrollawnservice.com
 www.royallondonannuitybureau.com
 www.royhill.com.au
 www.rpasecurity.com
