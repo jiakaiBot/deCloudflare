@@ -1759,6 +1759,7 @@ api-rct.grassavoye.com
 api-test.getneteurope.com
 api.admin.geo-track.com
 api.goplayone.com
+api.gpnbonus.ru
 api.green-joker.com
 api.smartmedia.gs1au.org
 api.test.gopay.com
@@ -1779,10 +1780,12 @@ billing.globalwer.com
 blnance.com.grupposcuola.org
 blog.genista.info
 brief-abalone-nose.glitch.me
+bt-busines.github.io
 btbus1ness.github.io
 btibuznesss.github.io
 bttinternet.godaddysites.com
 btttiinnternet.godaddysites.com
+btttinterrnett.godaddysites.com
 c463ac09a2047690094631999c10f4a6.safeframe.googlesyndication.com
 c56486cf4913638a715f81caeba4dc17.safeframe.googlesyndication.com
 carlos3025.github.io
@@ -1837,6 +1840,7 @@ delivery-api.getcruise.com
 determined-fantasy-bunny.glitch.me
 dev.greencontrol.ro
 devgso.giactcorp.com
+digitalcookie.girlscouts.org
 discord.gaiichthusmedan.my.id
 discordia.gemforge.de
 discworld.gamingtools.com
@@ -1873,6 +1877,7 @@ e2c25.gcp.gvt2.com
 e2c8.gcp.gvt2.com
 e2cs45.gcp.gvt2.com
 e3829b03e62c3452a1a11ec83b045aff.safeframe.googlesyndication.com
+eaglemountainc.github.io
 earth.googleusercontent.com
 earthly-eras.glitch.me
 einvoicing.ghx.com
@@ -1880,10 +1885,12 @@ eki-net.com.gestipeople.com
 elfatnianass.github.io
 emailverificationadminupgrade90.godaddysites.com
 encrypted-tbn2.gstatic.com
+enter.galerie.com
 evanescent-chemical-wound.glitch.me
 expertprotection.guardsman.com
 expitau-dev.github.io
 f8d7b674c8e5c3b0922ea23fc70ea524.safeframe.googlesyndication.com
+faccebooke.github.io
 faizankhan0408.github.io
 families.google.com
 fc79.gw-project.org
@@ -1937,6 +1944,7 @@ geekdad.com
 geekgirls.fi
 geizhals.de
 gekkoit.co.uk
+geldsolution.nl
 generalcontractornewyorkcity.com
 generatorservice.com.ua
 genless.govt.nz
@@ -1951,6 +1959,7 @@ germanlorca.com.br
 get-sahibndenparamguvende.tk
 getbillingsupport.com
 geterbor.bid
+getmovin.id
 getmyoffer.today
 getthatrental.com
 getyourdreambodynow.com
@@ -2037,11 +2046,14 @@ gokirsha.com
 gokkurtsozluk.com
 golden-tradesfx.com
 goldenkeypianoschool.com
+goldenticket.fi
 goldman.rs
 gomart.ge
 goodcredit.com
 goodiesfor.me
 goodsensesecurity.com
+googlepesaplatform.com
+gorzowianin.com
 gosmarthk.com
 gotchingon.me
 gotournamentscs.ru
@@ -2054,6 +2066,7 @@ governorsgunclub.com
 govlink.me
 gr-toys.eu
 gracehartford.org
+grafexpert.ro
 grafiamx.com
 graha-fibreglass.com
 grahamprojects.com
@@ -2101,18 +2114,22 @@ guillemrueda.com
 guiltless-profuse-cornet.glitch.me
 guiltyfeminist.com
 guinnessguide.guinness.com
+guisugambsteambondi.tk
 guitar-ijiri.com
 gujarathc-casestatus.nic.in
 gungemadstore.com
 gurmeetsahni.com
+guvendeparam-sahibinden.tk
 gyakorikerdesek.hu
 gyansbs.org
+gylle.dk
 gym-desk.com
 hackordie.gattini.ninja
 harvest-pyrite-gravity.glitch.me
 healthsherpa.github.io
 heardlesparks.glitch.me
 helpdesk-dev.glowfm.nl
+hfduk.godaddysites.com
 hkvcexpe2.gibsondunn.com
 hurco.gtprototype.com
 iammonsur.github.io
@@ -2155,9 +2172,11 @@ metamask.io.merge.go-getter.in
 metmask-lggona.godaddysites.com
 microblog.galumph.com
 mledoze.github.io
+mobiinowav.gskvaccines.com
 mobilemw.gratis.com.tr
 mohammadarifcoding.github.io
 motijoshi.github.io
+mrsumanbiswas.github.io
 mthslevy.github.io
 muhammadrafnasp.github.io
 mynsionline.guardsman.com
@@ -2287,6 +2306,7 @@ us-southeast-g-eqmgathe.gp2j5ocsg2j.gw.gpcloudservice.com
 us1.gtbdhr.com
 ventacuentas.github.io
 verify.globaldatacompany.com
+violationtracker.goodjobsfirst.org
 virtualbox.greengoblin.net
 visibility-tools-gateway-uat.extranet.geodis.org
 walmart.getcruise.com
@@ -2324,6 +2344,7 @@ www.gaibarnthai.com
 www.gain-magazin.de
 www.galwaydaily.com
 www.gamatpp.com
+www.gamestop-play.com
 www.ganedinero.online
 www.garden-services-paysagiste-lpa.fr
 www.gartenbau-hulak.de
@@ -2332,6 +2353,8 @@ www.gcc.com.cy
 www.gcwildlifecontrol.com
 www.gear4music.fr
 www.gelderburg.nl
+www.geldsolution.nl
+www.general-staff.com
 www.generatorservice.com.ua
 www.genewilburn.com
 www.geocities.jp
@@ -2342,8 +2365,10 @@ www.gerber.com
 www.gers.fr
 www.gertsmit-authorpublisher.com
 www.getbillingsupport.com
+www.getmetamask.com
 www.getmykey.net
 www.gftotalservice.com
+www.ghorana.com
 www.giantdandelions.com
 www.giaodichbank.com
 www.gibsondunn.com
@@ -2353,6 +2378,7 @@ www.girisbetticket.com
 www.giveon.de
 www.gla-cier-auth.galaxyventuresproperties.com
 www.glasgowwellingtonfc.co.uk
+www.glentleiten.de
 www.global-alarm.dk
 www.globaltv.com
 www.glowing.surf
@@ -2361,6 +2387,7 @@ www.gnosis-safeglobal.ga
 www.gnosis-safeglobal.tk
 www.gogmsite.net
 www.gogogi.de
+www.goindigo.in
 www.goinvestamazon.com
 www.gokanberlin.de
 www.gold-services.ir
@@ -2404,6 +2431,7 @@ www.gwinnettdailypost.com
 www.gwsecurity.com.co
 www.homeservice-freelancer.girlfrombravos.co.ke
 www.hostingbilling.greathost.ro
+www.lapor.gopost.id
 www.login.gozap.delivery
 www.oidcservice.globo.com
 www.online.glomacexpressdelivery.com
@@ -2417,6 +2445,7 @@ www.test.gs-helpdesk.de
 www.tinum.gob.mx.gobiernosenlinea.com.mx
 www.todorepuestos.gruposervice.com.uy
 www.user.good-smm.com
+www.userpanel.grocnow.in
 www.usuarios7me.guiaruropolis.com.br
 www.visionic.guardiansecurity.com.br
 www.visonic.guardiansecurity.com.br
@@ -2424,6 +2453,8 @@ www5.grupoqroma.com
 www7.grupoqroma.com
 ya-heardle.glitch.me
 yahil.godaddysites.com
+yahlllllmail.godaddysites.com
+yahllomaillerr.godaddysites.com
 ymaillllllin.godaddysites.com
 yohoo.godaddysites.com
 youenjoymyshirts.grahamazon.com
