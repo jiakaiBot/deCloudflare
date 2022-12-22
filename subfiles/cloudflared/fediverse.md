@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,020 |
-| social | 3,047 |
+| com | 5,022 |
+| social | 3,048 |
 | net | 2,582 |
 | org | 1,869 |
-| de | 1,700 |
+| de | 1,701 |
 
 
 - Mastodon, Pleroma, etc
@@ -213,6 +213,7 @@ Here's a list of public Fediverse services.
 | `1in9.net` | Yes |
 | `1nd33d.com` | No |
 | `1nd33d.social` | No |
+| `1necat.com` | Yes |
 | `1o1.io` | No |
 | `1oku.net` | No |
 | `1person.me` | No |
@@ -4958,6 +4959,7 @@ Here's a list of public Fediverse services.
 | `christian-vogeley.de` | No |
 | `christian-vogeley.eu` | No |
 | `christianburkh.art` | No |
+| `christianity.business` | Yes |
 | `christianjunk.de` | No |
 | `christianwkaiser.de` | No |
 | `christmas.tattoo` | No |
@@ -8561,6 +8563,7 @@ Here's a list of public Fediverse services.
 | `eorzea.social` | No |
 | `eoscn.club` | No |
 | `eotr.net` | No |
+| `eox2.com` | Yes |
 | `eozygodon.com` | No |
 | `ep7.cz` | No |
 | `epactive.de` | No |
@@ -9478,6 +9481,7 @@ Here's a list of public Fediverse services.
 | `feria.me.uk` | Yes |
 | `fernomac.rip` | No |
 | `fernsprechkabine.de` | No |
+| `ferofox.de` | No |
 | `ferraris.me` | No |
 | `ferreo.dev` | Yes |
 | `ferret.business` | No |
@@ -19343,6 +19347,7 @@ Here's a list of public Fediverse services.
 | `mofmof.coffee` | No |
 | `mofu.one` | No |
 | `mofu2charger-listenradio.net` | No |
+| `mog.blue` | Yes |
 | `mog.gg` | Yes |
 | `mogenius.io` | Yes |
 | `moggy.xyz` | No |
@@ -19454,6 +19459,7 @@ Here's a list of public Fediverse services.
 | `monstro1.com` | No |
 | `monstrous.church` | No |
 | `monsuta.ml` | No |
+| `montalto.me` | No |
 | `montceleste.fr` | No |
 | `monte-bleibt.de` | No |
 | `montecsys.fr` | Yes |
@@ -23694,6 +23700,7 @@ Here's a list of public Fediverse services.
 | `poliversity.it` | No |
 | `poliverso.org` | No |
 | `polli.social` | No |
+| `pollyanna.social` | No |
 | `polonkai.eu` | No |
 | `polsci.social` | No |
 | `polsum.rocks` | No |
@@ -27808,6 +27815,7 @@ Here's a list of public Fediverse services.
 | `space-pirates.org` | No |
 | `spacebar.ca` | Yes |
 | `spacebear.ee` | No |
+| `spacebubble.tech` | No |
 | `spacechris.com` | Yes |
 | `spacecowboy.cc` | No |
 | `spacefox.fr` | No |
@@ -34175,8 +34183,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,837 |
-| Normal | 26,295 |
+| Cloudflare | 7,841 |
+| Normal | 26,299 |
 
 
 ### 23% of public Fediverse services are using Cloudflare.
