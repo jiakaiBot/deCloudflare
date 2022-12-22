@@ -72,7 +72,6 @@ Here's a list of public Matrix services.
 | houtworm.im | No |
 | synapse.hyteck.de | No |
 | inetd.xyz | No |
-| matrix.jonasled.de | Yes |
 | junta.pl | No |
 | chat.librem.one | No |
 | matrix.libreon.fr | No |
@@ -125,8 +124,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 16 |
+| Cloudflare | 15 |
 | Normal | 82 |
 
 
-### 16.3% of public Matrix services are using Cloudflare.
+### 15.5% of public Matrix services are using Cloudflare.
