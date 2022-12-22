@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Invalid Session Token](https://github.com/terry3041/pyChatGPT/issues/57)
 - [CloudFlare Cloudflare Pages Availability Issues](https://github.com/MatBenfield/news/issues/7357)
 - [Exception (yggtorrent): The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/632)
 - [TorrentLeech Unable to search TV series.](https://github.com/Jackett/Jackett/issues/13796)
