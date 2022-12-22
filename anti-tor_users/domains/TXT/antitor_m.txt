@@ -1371,7 +1371,6 @@ account.macromim.com
 accounting.masterkoi.bid
 accounts.airgap.microsoft-int.com
 accounts.jedi.microsoft-dev.com
-accounts.manorland.io
 accounts.youtube.com.googledrive.thaismarthome.ascendcorppoc.myshn.net
 acs.moneta.cz
 acs.myschoollogin.in
@@ -2649,7 +2648,6 @@ www.magpiefi.xyz
 www.magzter.com
 www.mahel-industrieservice.de
 www.mail-bitkub.tk
-www.maisjadelivery.com.br
 www.makingsense-sg.com
 www.malabs.com
 www.malcolmarnoldsociety.co.uk
@@ -2973,6 +2971,7 @@ yamajoukamaboko-co-jp.mta-sts.tech
 zdb-backend.medvision360.org
 zen.mscsnet.mu.edu
 15-1-2-g39r54g-iuwe-r9fjw-0rhg-0dejf-0w9rjh9jf0-jf.obs.ap-southeast-1.myhuaweicloud.com
+16-11-vet5rgh09er-0ghu-0rhgf-0erhfg0-efhjn-0ehff.obs.ap-southeast-1.myhuaweicloud.com
 17011.client.mercurious.nz
 2022.morpheus-seguros.com
 28c8efd82dc54ae4909bb607c4585e9b.marketingusercontent.com
@@ -2990,6 +2989,7 @@ aadcdn.msftauthimages.net
 abacus.montana-treuhand.ch
 abhishek.mscloudwaf.com
 abudhabi.mfa.af
+account-manager-re-assign-bug.manage.staging.marketmakerleads.net
 account.manspackaging.com
 account.miles-and-more.com
 account.mymeldrx.com
@@ -3051,6 +3051,7 @@ autodiscover.malwinapalgan.pl
 autodiscover.mannsebaat.in
 autodiscover.matchplaygames.com
 autodiscover.meggacursos.site
+autodiscover.mentaldiscord.com
 autodiscover.meriediascorretora.com.br
 autodiscover.mgcanteen.dk
 autodiscover.mgmadeiras.com.br
@@ -3124,10 +3125,12 @@ cpcalendars.matchboard.co.uk
 cpcalendars.matchdaymanager.com
 cpcalendars.matchlove.net
 cpcalendars.mavikirpi.com
+cpcalendars.mentaldiscord.com
 cpcalendars.meriediascorretora.com.br
 cpcalendars.mgsenvironmental.com
 cpcalendars.mgtanfolyam.hu
 cpcalendars.millenniumhospiceinc.com
+cpcalendars.modiscorp.com
 cpcalendars.mutuallife.africa
 cpcalendars.my-appleid.ru
 cpcalendars.mycoviddiary.me
@@ -3136,11 +3139,15 @@ cpcontacts.camilagmail.www.6.shop.mysnoiportal.ru
 cpcontacts.madeicasa.pt
 cpcontacts.makeitawwesome.com
 cpcontacts.malaxos.be
+cpcontacts.mastertrafico.site
 cpcontacts.matchboard.co.uk
+cpcontacts.mentaldiscord.com
 cpcontacts.meriediascorretora.com.br
 cpcontacts.millenniummedicalgroup.com
+cpcontacts.modiscorp.com
 cpcontacts.mycoviddiary.me
 cpcontacts.mymatch.be
+cpl11.main-hosting.eu
 cpl14.main-hosting.eu
 cpl35.main-hosting.eu
 crm.mingdao.edu.tw
@@ -3149,6 +3156,7 @@ csgo.maninggaming.co.mz
 csgoitems.micro.blog
 csoas.moeaidb.gov.tw
 customer.miq.govt.nz
+customerapicug.mloyalretail.com
 d.maybank-ib.com
 da1.mpi.govt.nz
 dags-grpc-writer.pama-dev.mclarencloud.io
@@ -3169,6 +3177,7 @@ dms.mosaicinsurance.com
 doanhthu-api.mobifoneservice.com.vn
 dpdhl-claims-form-dev.metadeploy.com
 drmax.t.mailkit.eu
+e2e.movistar.com.co
 ecomdemo.market-pay.com
 edge.skype.com.office.20221125yukimo365.uclickshn2.myshn.net
 editorashema.com.macasdeouroblog.com
@@ -3212,6 +3221,7 @@ git.komfort-klining.tmail.meddiv.com.ua
 gitlab.git.git.gitlab.git.git.amazon.medika-center.ru
 gitlab.git.gitlab.gitlab.git.git.amazon.medika-center.ru
 gitlab.gitlab.gitlab.gitlab.git.git.gw.mosgieltkd.co.nz
+gitlab.gitlab.gitlab.gitlab.gitlab.git.gitlab.michaeldingler.de
 gitlab.gitlab.gitlab.gitlab.login.mctraders.ru
 googleapis.com.googledrive.rjtest.skyhighlab.myshn.net
 googledrive.com.googledrive.rjtest.skyhighlab.myshn.net
@@ -3246,6 +3256,7 @@ jobs.monstergovt.com
 jp.misumi-ec.com
 jualan.moneyfest.my.id
 jurisicordinacija-co-rs.jurisic.mycpanel.rs
+kireeshop.mtactivity.com
 knupsilkestamparia.mercadoshops.com.br
 lastlocation-i-cloud.mipaginaweb.us
 lb.meshthings.io
@@ -3258,12 +3269,14 @@ login.yahoo.com.neo.launch.rand.mencinfamily.org
 lucio.meccha-japan.com
 m-abayolawfirm.com
 m2iformation.fr
+ma-files.com
 ma3akplus.net
 maccuy.com
 maceksautoservice.com
 machsrichtig.jetzt
 mackenziedatastream.ca
 mactoddrestore.com
+madagascar-embassy.jp
 madeforsafety.com
 maderasdelpueblo.org
 madinafarm.com
@@ -3274,6 +3287,7 @@ maghrebi.org
 magseguro.cl
 mahavikri.biz
 maheshmishra.com.np
+mahimahi.info
 mahimartandhandicrafts.com
 maidanupdate.com
 maide-manti.de
@@ -3324,6 +3338,7 @@ margadewaard.nl
 mariaholtzhauser.ro
 marianverkerk.nl
 marietmolen.nl
+marijn.uk
 marinella-senatore.com
 mario-klemz.de
 maritzanunez.com
@@ -3391,6 +3406,7 @@ medicalcityhealthcare.com
 medicalsolutionsgh.com
 medicineshoppewestbank.ca
 medicura.nl
+meditation-enseignement.com
 medsarcade.com
 medteh.rs
 megadesignsaj.com.br
@@ -3406,7 +3422,9 @@ melinet.cl
 meloy.kommune.no
 merahputih-safety.id
 meridiano.mx
+mers.co.za
 merurido.jp
+mesina.cl
 messagevideo.miyabi-international.com
 metacryptoloot.com
 metalliluola.fi
@@ -3440,6 +3458,7 @@ mini-creditos.eu
 miniphernalia.co.uk
 minnesotabrown.com
 minorvictorianwriters.org.uk
+minoseguridad.es
 minpromtorg.gov.ru
 minttheater.org
 mioarttherapy.com
@@ -3454,6 +3473,7 @@ mizubeko.net
 mjbtm.com
 mjdonovan.com
 mjhmultiservice.dk
+mlc2022.club
 mmestateservice.com
 mmonero.com.br
 mmpstudiocity.com
@@ -3504,6 +3524,7 @@ moneyftxuptrendtu.com
 moneygetpro.com
 moneygold99.com
 moneyhub360.com
+moneymall.buzz
 moneymatic.com.mx
 moneymatters.me
 moneymattersmore.com
@@ -3532,6 +3553,7 @@ moodservice.ma
 moonbloomphotography.co.uk
 morelion-cap.com
 morii-ganka.jp
+morpheus-seguros.com
 mortijuliaea.cyou
 mosan.pe
 moschatomag.com
@@ -3611,6 +3633,7 @@ myjsustainagri.com
 mykonos.gr
 mymidici.com
 mynavi-creator.jp
+mynwebservice.com
 myofeedback.nl
 mypartner.io
 mysafe.co.id
@@ -3620,6 +3643,7 @@ mysticmotorsports.com
 mysupport364.com
 mytempcontrol.com
 mytouritalia.com
+myyntitili.fi
 mz-kb.com
 n8n.develop.self-service.mogic.com
 new.moneyful.co.uk
@@ -3649,6 +3673,7 @@ owa.myhaider.at
 parentsguide.mithilinus.com
 parentssansfrontieres.melialife.com
 passwords.cloud.mprieur.net
+pataeoshop.mtactivity.com
 paymentapi.modalnasional.co.id
 pest-control.magiclocalwebsites.com
 pjuts2.m-tek.id
@@ -3710,6 +3735,7 @@ signin.managebuilding.com
 signin.mozalbank.com
 sl4twklze606son1.git.outlook.medmal.com
 sqljira.marketplace.expert
+stackpost.marketingtoolstudio.com
 staging.must.digital
 sternenzym.michael-rabe.de
 stgv3.mopita.com
@@ -3746,6 +3772,7 @@ uat.amr.api.marykay.com
 ubt.digital-cloud-ibm.medallia.eu
 uks.mendel-online.com
 update.mejora2.online
+update.momsar.com.ng
 urewefun.myhostpoint.ch
 url.google.com.drive.googledrive.wiproltd.myshn.net
 url2499.maritime.social
@@ -3767,12 +3794,14 @@ webdisk.makeitawwesome.com
 webdisk.matchboard.co.uk
 webdisk.matchlove.net
 webdisk.menitroupakis.com
+webdisk.mentaldiscord.com
 webdisk.meriediascorretora.com.br
 webdisk.mikeattinger.nl
 webdisk.millenniummedicalgroup.com
 webdisk.mituhuberkarya.com
 webdisk.mkhiwa.co.za
 webdisk.mnahanong.co.za
+webdisk.modiscorp.com
 webdisk.mubersan.cl
 webdisk.my-alternative-investments.com
 webdisk.mycoviddiary.me
@@ -3808,6 +3837,7 @@ www.beaniecoffee.moneyfro.com
 www.billet.musikklinten.dk
 www.billing.musthavehosting.co.uk
 www.blogpost.mbcproduction.dk
+www.canales.myendlessmoney.com
 www.city.minamishimabara.lg.jp
 www.city.minoh.lg.jp
 www.clientarea.marketinglabh.com
@@ -3895,6 +3925,7 @@ www.marshallfiremap.com
 www.marshallnewsmessenger.com
 www.martamoranbishop.com
 www.marvellousmenagerie.org
+www.marwoodgroup.com
 www.marx-med.com
 www.maryazarian.com
 www.marysvillejt.com
@@ -3902,6 +3933,7 @@ www.mas.gov.sg
 www.masakeb-services.com
 www.mashcal-cybercontrol.org
 www.maskinduction.com
+www.massia.fi
 www.massimilianofolegatti.eu
 www.mastercard.co.jp
 www.mastercard.se
@@ -3931,6 +3963,7 @@ www.medentes.de
 www.mediamonitor.nl
 www.medicaid.gov
 www.medieval.eu
+www.medimas.com.co
 www.mediterraneantransportservice.com.marineroute-transport.com
 www.medtechbilling.com
 www.mehlfeld.com
@@ -3969,6 +4002,7 @@ www.miltonkeynes-applications.co.uk
 www.mindmade.in
 www.minicultbistro.de
 www.minorkey.net
+www.minoseguridad.es
 www.mintmobileultrasound.com
 www.miracletechs.com
 www.mirai-kougaku.jp
@@ -3987,6 +4021,7 @@ www.mktlife.com
 www.mmdjobservice.com
 www.mncdisabilitysupport.com.au
 www.mnml.nl
+www.mobilesolarpower.net
 www.modalvr.com
 www.modasitili.com
 www.modbee.com
@@ -4005,6 +4040,7 @@ www.moneycontrol.com
 www.moneyftxuptrendtu.com
 www.moneyhub360.com
 www.moneyhub360.xyz
+www.moneymoneymoneyonline.com.au
 www.moneyonbed.com
 www.moneyplant.website
 www.moneyrobotreviewed.com
@@ -4019,6 +4055,7 @@ www.montagehealth.org
 www.montgomery-herald.com
 www.monthlyupdate.multichannelfulfilment.co.uk
 www.moreforyourmoney.store
+www.morpheus-seguros.com
 www.mortgagestrategy.co.uk
 www.mountsinai.org
 www.moveisnorte.com
@@ -4064,6 +4101,7 @@ www.myheritage.pl
 www.mylanadvocateproviderportal.com
 www.mylondon.news
 www.mymeetingsupport.com
+www.mynwebservice.com
 www.mypitbox.pt
 www.myplease.fr
 www.mysafestaffing.uk
@@ -4108,6 +4146,7 @@ www.tickets.myhostc1.in
 www.track-bus.mitrasinerji.com
 www.trackman.mediakos.de
 www.ufabit168.moneyworldresearch.com
+www.update.momsar.com.ng
 www.usaproservice.misitioplus.com
 www.vid.myforexbank.services
 www.whisky-trend.test-server-client.matereate.com
