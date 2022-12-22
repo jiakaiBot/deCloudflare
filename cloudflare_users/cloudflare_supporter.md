@@ -10939,6 +10939,7 @@ Do not create new issue or we will close it as duplicate.
 | [wathanminbo@twitter](https://twitter.com/wathanminbo/status/1394217050822909952) | advertise |
 | [WathonePaing@twitter](https://twitter.com/WathonePaing/status/1526022316765122560) | advertise |
 | [wawasheera1@twitter](https://twitter.com/wawasheera1/status/1531105400228941824) | advertise |
+| [waw_mart@twitter](https://twitter.com/waw_mart/status/1605816108291948544) | advertise |
 | [WBimson999@twitter](https://twitter.com/WBimson999/status/1495052912288018432) | advertise |
 | [WDragon203@twitter](https://twitter.com/WDragon203/status/1416258687266476033) | advertise |
 | [wd_kill@twitter](https://twitter.com/wd_kill/status/1475478794626650123) | advertise |
