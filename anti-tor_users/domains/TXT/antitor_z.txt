@@ -242,10 +242,12 @@ acceptatie.zeelandveilig.nl
 adcs.zopian.net
 adfs.infrastructure.zopa.com
 alaan-test.zulayka.com
+alert.zoostore.pro
 all-service.zapages.co.il
 amazon-rdfcv.zzux.com
 api.zoolife.live
 api.zs-clinical-study-feasibility.dev.zsservices.com
+auth.zyphhnetwork.nl
 aws-staging.zeroq.cl
 aws-traefik.zeroq.cl
 cardiff.zipporah.co.uk
@@ -257,6 +259,7 @@ discord.notifications.prod.k8services.zenno.io
 discord.zalor.fr
 discord.zorustech.com
 eki-kkfk.zzux.com
+entry1-bk-mufg-jp.zxbucs.vip
 etc-defsd.zzux.com
 etc-fdsa.zzux.com
 etc-fdsewfsd.zyns.com
@@ -293,8 +296,10 @@ www.backup.zempirestore.com
 www.billgenerate.zahidjodntours.com
 www.clients.zoom-app.com
 www.comoganardinero.z4k.org
+www.creditiq.zeeshou.com
 www.indesigntuki.z-factory.fi
 www.papinkapost.zonabangsa.com
+www.restorent.zeestore.co
 www.rooscontrol.zon18.click
 www.sahabafoodbank.zyotee.com
 www.securedserver.zyns.com
@@ -336,6 +341,7 @@ zeroonehost.org
 zeyana.co.ke
 zeydil.uz
 zglostrolla.pl
+zgz.nu
 ziehngbaguino.com
 ziffopposer.com
 zigmaglobal.in
