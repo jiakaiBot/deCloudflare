@@ -13,7 +13,7 @@ Here's the result.
 | TLD | Count |
 | --- | --- |
 | com | 29,829 |
-| net | 2,061 |
+| net | 2,060 |
 | org | 1,772 |
 | top | 1,548 |
 | br | 1,508 |
@@ -23,7 +23,7 @@ Here's the result.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,893 |
+| Cloudflare | 3,892 |
 | Normal | 51,524 |
 
 
