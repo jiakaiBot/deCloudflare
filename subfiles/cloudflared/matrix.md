@@ -28,6 +28,7 @@ Here's a list of public Matrix services.
 | anonymousland.org | No |
 | matrix.arcticfoxes.net | Yes |
 | aria.im | No |
+| asra.gr | No |
 | matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
 | bancino.net | No |
@@ -38,7 +39,6 @@ Here's a list of public Matrix services.
 | matrix.cezeri.tech | Yes |
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
-| matrix.chatinamatrix.xyz | No |
 | matrix.chatwave.org | No |
 | chrrreeeeesss.com | No |
 | club1.fr | No |
@@ -57,7 +57,7 @@ Here's a list of public Matrix services.
 | matrix.foss.wtf | No |
 | matrix.freiburg.social | No |
 | freitrix.de | No |
-| matrix.fsfe.org | No |
+| fsfe.org | No |
 | g24.at | No |
 | matrix.gemeinsam.jetzt | No |
 | ggc-project.de | Yes |
