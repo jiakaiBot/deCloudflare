@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,078 |
 | net | 2,588 |
 | org | 1,873 |
-| de | 1,712 |
+| de | 1,713 |
 
 
 - Mastodon, Pleroma, etc
@@ -19072,6 +19072,7 @@ Here's a list of public Fediverse services.
 | `minedol12.tk` | No |
 | `minego.net` | Yes |
 | `minematter.com` | No |
+| `mineown.de` | No |
 | `minesco.ch` | No |
 | `mineskey.ml` | Yes |
 | `minet.net` | No |
@@ -29461,6 +29462,7 @@ Here's a list of public Fediverse services.
 | `television.social` | No |
 | `teleyal.blog` | No |
 | `telmina.com` | No |
+| `telmo.club` | No |
 | `telteltel.com` | No |
 | `telvanni.biz` | No |
 | `telynz.uk` | No |
@@ -34326,7 +34328,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,892 |
-| Normal | 26,390 |
+| Normal | 26,392 |
 
 
 ### 23% of public Fediverse services are using Cloudflare.
