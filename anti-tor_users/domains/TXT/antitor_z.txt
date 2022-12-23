@@ -272,6 +272,7 @@ impots.gouv.fr.zweirad-center-bullerjahn.de
 javelin.staging.zsservices.com
 juegocoronadearagon.zierzolab.com
 jvc.ziondelivery.app.br
+kennis.zuid-holland.nl
 keycloak.zzieut.com
 koala.zetadns.net
 login.zinki.ai
