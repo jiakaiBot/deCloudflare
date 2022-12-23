@@ -32968,6 +32968,7 @@ Here's a list of public Fediverse services.
 | `wnymathguy.com` | No |
 | `woafre.tk` | No |
 | `wobbl.xyz` | No |
+| `wobbly.ninja` | Yes |
 | `woblfedi.de` | No |
 | `woblweb.de` | Yes |
 | `wobscale.social` | No |
@@ -34284,7 +34285,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,874 |
+| Cloudflare | 7,875 |
 | Normal | 26,367 |
 
 
