@@ -784,6 +784,7 @@ gitlab.git.git.accounts.ulohas.tw
 gitlab.git.git.gitlab.accounts.ulohas.tw
 gitlab.git.gitlab.accounts.ulohas.tw
 gitlab.git.gitlab.gitlab.accounts.ulohas.tw
+gitlab.git.gitlab.gitlab.gitlab.git.b2b.uauopen.com
 gitlab.gitlab.accounts.ulohas.tw
 gitlab.gitlab.git.accounts.ulohas.tw
 gitlab.gitlab.git.gitlab.accounts.ulohas.tw
@@ -811,6 +812,9 @@ productencatalogus.uat-vlaanderen.be
 professionalstandards.fns.usda.gov
 psychologie.uni-greifswald.de
 ptm.untirta.ac.id
+rd-bms-model-manager.dev.unblu-test.com
+rfw.updatemyprofile.com
+rocs2.usertest.blue
 saude.unilabs.pt
 scholarworks.utep.edu
 secure.upstatebank.net
@@ -834,6 +838,7 @@ tms.uwayapply.com
 trkv3.unikandco.com
 tv.undersco.re
 u-infinity.uobchina.com.cn
+ua290.org
 uberfood.com.br
 ubersinardewata.com
 ubki.ua
@@ -841,6 +846,7 @@ uc8.tv
 udenix.com
 udomyon.com
 ugandaaviationschool.com
+uitisolatie.nl
 uitsinfra.com
 uknisumitai.com
 ukpost.life
@@ -898,6 +904,7 @@ usaps-track.uspsdorss.top
 usenergyupdate.com
 user-secure-ldverify01.com
 useragentlist.net
+usoffer.live
 usps-com-ac.top
 usps-com-sd.top
 utahchapter13bankruptcy.com
@@ -938,6 +945,7 @@ www.fns.usda.gov
 www.framengine.unikalservice.com
 www.fs.usda.gov
 www.fsis.usda.gov
+www.keretasewakl.ultrapestcontrol.com.my
 www.media.uzh.ch
 www.member.security.ubcloth.com
 www.package.uspspfko.shop
@@ -970,6 +978,7 @@ www.uk-bank.gq
 www.uk-bank.tk
 www.uk-osint.net
 www.ukmusic.org
+www.ukrailtours.com
 www.uline.jobs
 www.ultimatedomain.hosting
 www.uniaoquimica.com.br
@@ -987,6 +996,7 @@ www.update24.co.za
 www.updatebillingamazoncustomerhopt.com
 www.updatepoftalks.com
 www.upperburger.com
+www.urlaub-damp-ostsee.de
 www.urryphotograph.com
 www.uruguaysecurity.com.uy
 www.us-cert.gov
