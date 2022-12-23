@@ -5435,7 +5435,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8830,6 +8830,7 @@ Here's a list of public Fediverse services.
 | `eventphotographie.com` | Yes |
 | `eventprofs.social` | No |
 | `everlong.org` | No |
+| `eversole.co` | No |
 | `evertron.tv` | No |
 | `everwas.com` | Yes |
 | `everydayimshuflin.com` | No |
@@ -24264,6 +24265,7 @@ Here's a list of public Fediverse services.
 | `pud.im` | No |
 | `puddle.farm` | No |
 | `puddle.town` | Yes |
+| `pudgyp.uk` | No |
 | `puenter.org` | No |
 | `pueseso.club` | No |
 | `puff.place` | No |
@@ -26176,7 +26178,7 @@ Here's a list of public Fediverse services.
 | `sastry.co` | Yes |
 | `sastudio.jp` | No |
 | `sasuga.xyz` | No |
-| `sasuke.social` | Yes |
+| `sasuke.social` | No |
 | `satan-speaks.com` | No |
 | `satania.site` | Yes |
 | `satania.social` | Yes |
@@ -34282,8 +34284,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,876 |
-| Normal | 26,363 |
+| Cloudflare | 7,874 |
+| Normal | 26,367 |
 
 
 ### 23% of public Fediverse services are using Cloudflare.
