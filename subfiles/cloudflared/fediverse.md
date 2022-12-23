@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,046 |
+| com | 5,047 |
 | social | 3,077 |
 | net | 2,588 |
 | org | 1,873 |
@@ -3401,7 +3401,7 @@ Here's a list of public Fediverse services.
 | `blackshuck.net` | No |
 | `blacksketch.com` | No |
 | `blackspace.social` | No |
-| `blacksun.social` | No |
+| `blacksun.social` | Yes |
 | `blacktre.es` | No |
 | `blacktwitter.io` | No |
 | `blackviewsdiffer.fyi` | No |
@@ -6489,6 +6489,7 @@ Here's a list of public Fediverse services.
 | `dansu.org` | No |
 | `danvelopment.net` | Yes |
 | `daotalk.cn` | No |
+| `daotodon.me` | No |
 | `dapchat.online` | No |
 | `dapor.net` | No |
 | `dapor.org` | No |
@@ -13251,6 +13252,7 @@ Here's a list of public Fediverse services.
 | `ijs01140.com` | Yes |
 | `ijug.social` | No |
 | `ijustwanttoenjoymy.life` | No |
+| `ik-y.jp` | No |
 | `ika.moe` | No |
 | `ikasekai.com` | No |
 | `ikashima.net` | No |
@@ -14969,6 +14971,7 @@ Here's a list of public Fediverse services.
 | `kazar.ma` | No |
 | `kazatsuyu.com` | Yes |
 | `kazee.social` | No |
+| `kazehiko.com` | No |
 | `kazeyomi.cloud` | No |
 | `kazu-server.tk` | No |
 | `kazu34.net` | No |
@@ -24280,6 +24283,7 @@ Here's a list of public Fediverse services.
 | `publicmedia.social` | No |
 | `publicmedia.space` | No |
 | `publicspaces.net` | No |
+| `publicsquare.global` | No |
 | `publicvm.com` | No |
 | `pubnex.us` | No |
 | `puck.moe` | No |
@@ -27425,6 +27429,7 @@ Here's a list of public Fediverse services.
 | `sloane.sh` | No |
 | `slobbe.ch` | No |
 | `slonisko.cz` | No |
+| `sloth.network` | No |
 | `slothcloud.com` | No |
 | `sloths.club` | Yes |
 | `slothy.win` | Yes |
@@ -34318,8 +34323,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,889 |
-| Normal | 26,386 |
+| Cloudflare | 7,890 |
+| Normal | 26,390 |
 
 
 ### 23% of public Fediverse services are using Cloudflare.
