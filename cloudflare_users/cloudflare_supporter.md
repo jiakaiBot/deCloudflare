@@ -577,6 +577,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aman51457490@twitter](https://twitter.com/Aman51457490/status/1495121007362777088) | advertise |
 | [AmandaL56524716@twitter](https://twitter.com/AmandaL56524716/status/1504008897429975040) | advertise |
 | [AmandaOchsenbi1@twitter](https://twitter.com/AmandaOchsenbi1/status/1508247702328512516) | advertise |
+| [AmanKumar0152@twitter](https://twitter.com/AmanKumar0152/status/1606248751210823680) | advertise |
 | [AmanMalawat3@twitter](https://twitter.com/AmanMalawat3/status/1381140429131943936) | advertise |
 | [AmanYad62817265@twitter](https://twitter.com/AmanYad62817265/status/1395775965280694274) | advertise |
 | [Amara35146318@twitter](https://twitter.com/Amara35146318/status/1396799727178375172) | advertise |
