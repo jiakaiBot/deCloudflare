@@ -4186,6 +4186,7 @@ Do not create new issue or we will close it as duplicate.
 | [InviolateTree@twitter](https://twitter.com/InviolateTree/status/1462048005889183754) | advertise |
 | [in_fluk@twitter](https://twitter.com/in_fluk/status/1404661393949876226) | advertise |
 | [IoBrank@twitter](https://twitter.com/IoBrank/status/1567464530099277824) | advertise |
+| [ioeshu@twitter](https://twitter.com/ioeshu/status/1606178086977818624) | advertise |
 | [ioocxc@twitter](https://twitter.com/ioocxc/status/1571441280827146241) | advertise |
 | [iOSDeveloperGuy@twitter](https://twitter.com/iOSDeveloperGuy/status/1604287316184469505) | advertise |
 | [iOS_Privacy@twitter](https://twitter.com/iOS_Privacy/status/1474026863324504064) | advertise |
@@ -4254,6 +4255,7 @@ Do not create new issue or we will close it as duplicate.
 | [itx3010@twitter](https://twitter.com/itx3010/status/1382043714714021893) | advertise |
 | [itzmadusanka@twitter](https://twitter.com/itzmadusanka/status/1541971199173197828) | advertise |
 | [itzSenPaiii@twitter](https://twitter.com/itzSenPaiii/status/1382434870757109763) | advertise |
+| [Itzs__shreyansh@twitter](https://twitter.com/Itzs__shreyansh/status/1606195258567536640) | advertise |
 | [Ivam74808040@twitter](https://twitter.com/Ivam74808040/status/1395808335069286400) | advertise |
 | [Ivansai6@twitter](https://twitter.com/Ivansai6/status/1390643649617092618) | advertise |
 | [ivexalus@twitter](https://twitter.com/ivexalus/status/1397599340592603137) | advertise |
@@ -4358,6 +4360,7 @@ Do not create new issue or we will close it as duplicate.
 | [Jason42610@twitter](https://twitter.com/Jason42610/status/1514156291618267136) | advertise |
 | [Jason54317528@twitter](https://twitter.com/Jason54317528/status/1385199697263054849) | advertise |
 | [jasoncarcc@twitter](https://twitter.com/jasoncarcc/status/1548097945286848512) | advertise |
+| [JasonEr17605258@twitter](https://twitter.com/JasonEr17605258/status/1606180787094552576) | advertise |
 | [JasonkaranikO@twitter](https://twitter.com/JasonkaranikO/status/1505896917921841160) | advertise |
 | [JasonLovesDoggo@twitter](https://twitter.com/JasonLovesDoggo/status/1503187393268097032) | advertise |
 | [JasonRe78052527@twitter](https://twitter.com/JasonRe78052527/status/1557051673335439363) | advertise |
