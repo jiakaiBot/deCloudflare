@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Local no longer works and passwords are missing in browser extension after facing vaultwarden public through Cloudflare](https://github.com/dani-garcia/vaultwarden/issues/3032)
 - [YggTorrent Failed to search torrent with YggTorreng Indexer](https://github.com/Jackett/Jackett/issues/13800)
 - [Lyrics not working](https://github.com/zyrouge/node-genius-lyrics/issues/40)
 - [Invalid Session Token](https://github.com/terry3041/pyChatGPT/issues/57)
