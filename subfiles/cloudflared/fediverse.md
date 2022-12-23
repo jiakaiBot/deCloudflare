@@ -16748,6 +16748,7 @@ Here's a list of public Fediverse services.
 | `livid.pw` | Yes |
 | `livingdistant.com` | No |
 | `livingonlinenow.com` | No |
+| `livingunder.rocks` | No |
 | `livingutopia.org` | No |
 | `liw.fi` | No |
 | `lixo.org` | Yes |
@@ -34344,7 +34345,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,896 |
-| Normal | 26,404 |
+| Normal | 26,405 |
 
 
 ### 23% of public Fediverse services are using Cloudflare.
