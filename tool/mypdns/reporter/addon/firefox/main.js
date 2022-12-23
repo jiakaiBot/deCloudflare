@@ -6,6 +6,7 @@ let done = false,
    tabOp1 = false,
    tabOp2 = false,
    usePOP = false,
+   rasme = false,
    lookupCAT = false;
 const baseurl = ['https://karma.crimeflare.eu.org:1984', 'http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion'];
 let domainCAT = {},
@@ -48,7 +49,7 @@ function ireport(url, type, comment) {
          headers: {
             'Content-Type': 'application/x-www-form-urlencoded'
          },
-         body: (tabOp2 ? 'wdesc&' : '') + 'k=' + token + '&cat=' + type + '&url=' + encodeURIComponent(url) + (comment == '' ? '' : '&wmemo=' + encodeURIComponent(toBinary(comment)))
+         body: (tabOp2 ? 'wdesc=1&' : '') + (rasme ? 'byme=1&' : '') + 'k=' + token + '&cat=' + type + '&url=' + encodeURIComponent(url) + (comment == '' ? '' : '&wmemo=' + encodeURIComponent(toBinary(comment)))
       }).then(r => r.json()).then(r => {
          g(r);
       }).catch(b);
@@ -1249,6 +1250,7 @@ if (!done) {
       }
       tabOp1 = (r.top1 == 1) ? true : false;
       tabOp2 = (r.top2 == 1) ? true : false;
+      rasme = (r.top9 == 1) ? true : false;
       lookupCAT = (r.top8 == 1) ? true : false;
       if (r.tryonion != 1) {
          setTimeout(testing_onion, 70000);
@@ -3294,6 +3296,10 @@ browser.runtime.onMessage.addListener((r, s, sr) => {
    }
    if (r[0] == 'top2') {
       tabOp2 = (r[1] == 1) ? true : false;
+      sr(true);
+   }
+   if (r[0] == 'top9') {
+      rasme = (r[1] == 1) ? true : false;
       sr(true);
    }
    if (r[0] == 'top3') {
