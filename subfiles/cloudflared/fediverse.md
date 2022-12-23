@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,047 |
-| social | 3,077 |
+| social | 3,078 |
 | net | 2,588 |
 | org | 1,873 |
 | de | 1,712 |
@@ -5438,7 +5438,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -12180,6 +12180,7 @@ Here's a list of public Fediverse services.
 | `hawaii247.social` | No |
 | `hawaiidiff.com` | No |
 | `hawkes.cc` | Yes |
+| `hawkeyes.social` | No |
 | `hawks.im` | No |
 | `hax.technology` | Yes |
 | `hax.to` | Yes |
@@ -17746,6 +17747,7 @@ Here's a list of public Fediverse services.
 | `marzillier.net` | No |
 | `marzodon.social` | No |
 | `mas-to-don.be` | No |
+| `mas.ink` | No |
 | `mas.pub` | No |
 | `mas.to` | Yes |
 | `mas.town` | No |
@@ -24283,7 +24285,7 @@ Here's a list of public Fediverse services.
 | `publicmedia.social` | No |
 | `publicmedia.space` | No |
 | `publicspaces.net` | No |
-| `publicsquare.global` | No |
+| `publicsquare.global` | Yes |
 | `publicvm.com` | No |
 | `pubnex.us` | No |
 | `puck.moe` | No |
@@ -34323,7 +34325,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,890 |
+| Cloudflare | 7,892 |
 | Normal | 26,390 |
 
 
