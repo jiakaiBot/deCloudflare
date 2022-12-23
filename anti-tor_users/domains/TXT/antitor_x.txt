@@ -240,6 +240,7 @@ moneyfactory.xaa.pl
 rakuten-jkiop.x24hr.com
 roblox.v1.xpluem.com
 roblox.v2.xpluem.com
+staging-1671712291.xn--dalbgesejendomsservice-8ic.dk
 static.xciracdn.com
 test-mpx04.x-shopping-st.com
 test.shop.roblox.v1.xpluem.com
@@ -250,6 +251,7 @@ webmail.fonag.xmail.ch
 www.billetterie1.xoboapp.com
 www.hasupport.xn--ogbza6bb.com
 www.restauservice.xtechsoftwarelib.com
+www.staging-1671712291.xn--dalbgesejendomsservice-8ic.dk
 www.xcubelabs.com
 www.xn--7sich-ira.ch
 www.xn--billige-havembler-d1b.dk
@@ -258,6 +260,7 @@ www.xn--glasgonbgar-48a0t.se
 www.xn--mainzer-gebudereinigungsservice-0vc.de
 www.xpressservice.in
 xabid.com
+xanaxdelivery-usa.com
 xbiz1627a2.xbiz.jp
 xclusive.mx
 xdesix.com
