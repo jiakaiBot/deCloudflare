@@ -1744,8 +1744,10 @@ abundant-shocking-impulse.glitch.me
 accessible-opaque-tang.glitch.me
 accounts.gopwic.com
 addon-discover.goskope.com
+adfs.gedia.com
 adservice.google.com
 adservice.google.de
+afcu-s4n.github.io
 agustforbussines.github.io
 airflow.core-banking-1.staging.getampla.com
 akanksha3012.github.io
@@ -1795,6 +1797,8 @@ cdd3223b72ecf6f13c2c1b069f91bdda.safeframe.googlesyndication.com
 chang-github-00.github.io
 chikkuthomas.github.io
 chiomasarah-ui.github.io
+christmas-bingo.glitch.me
+clientesfyc.gruposantander.es
 cloudfactorydev.gn.com
 coenbasecomlo.godaddysites.com
 coenbaselvcx.godaddysites.com
@@ -1907,6 +1911,7 @@ gacgsnssh4.geaviationsystems.com
 gadanusantarasecurity.com
 gadgetworldpro.com
 gafatrans.id
+gaherlaler.online
 gahininathoil.com
 gainingbiz.club
 gainingbiz.info
@@ -1962,6 +1967,7 @@ geterbor.bid
 getmovin.id
 getmyoffer.today
 getthatrental.com
+gettrafficlike.me
 getyourdreambodynow.com
 ghostwritersarena.com
 gi8.ltd
@@ -1970,6 +1976,7 @@ giaiphapmang.net
 gibafm.gib-life.co.jp
 giftandpremiums.com
 giftmaker.pk
+gigadatgate.com
 gigage.dev
 gigder.net
 gilakorea.com
@@ -2005,6 +2012,7 @@ glasgowwellingtonfc.co.uk
 glass-repair.jp
 glennfredly.com
 glitch-soc.github.io
+glitchbird.com
 global-alarm.dk
 global-serviceaf.de
 globalchainscouriar.com
@@ -2013,6 +2021,7 @@ globalcrewservice.com
 globalglacierinitiative.org
 globalkonnexon.com
 globalkorean.ca
+globalmagazin.com
 globalmarindoperkasa.co.id
 globalmaritimedelivery.us
 globalmoney2u.com
@@ -2023,6 +2032,7 @@ globaltrack.com.uy
 globaltrustbank.org
 globecapital.com
 glomacexpressdelivery.com
+glucotrust-officiel.shop
 glucotrust-review.today
 glymphie.xyz
 gmailsecurity.org
@@ -2064,7 +2074,9 @@ governmentinteract.ca
 governor.sc.gov
 governorsgunclub.com
 govlink.me
+gpommen.ca
 gr-toys.eu
+grabitotp.io
 gracehartford.org
 grafexpert.ro
 grafiamx.com
@@ -2114,7 +2126,6 @@ guillemrueda.com
 guiltless-profuse-cornet.glitch.me
 guiltyfeminist.com
 guinnessguide.guinness.com
-guisugambsteambondi.tk
 guitar-ijiri.com
 gujarathc-casestatus.nic.in
 gungemadstore.com
@@ -2134,10 +2145,13 @@ hkvcexpe2.gibsondunn.com
 hurco.gtprototype.com
 iammonsur.github.io
 id.google.co.jp
+idp3.it.gu.se
 imasdk.googleapis.com
+img.mail.gesundheitsticket.de
 incandescent-caramel-pound.glitch.me
 inco.generali.hr
 inh-dispatch.groz-beckert.com
+inspublish.github.io
 instagram-jenny.github.io
 ionian-general-moss.glitch.me
 italocovas.github.io
@@ -2183,22 +2197,27 @@ mynsionline.guardsman.com
 n3m6x.app.goo.gl
 near-reminiscent-alamosaurus.glitch.me
 nerdgang89.github.io
+nestservices.google.com
 nethservice.grassoeassociati.it
 newspawww.demo.google-shopping.club
 niveditaparasappagol.github.io
 njg.geologi.no
 notebooks.cloud.google.com
 o-auth-discord.github.io
+objects.githubusercontent.com
 old.gidicredit.com
 old.vmail.gnomus.systems
 oneatlas-data-qualgds.idp.private.geoapi-airbusds.com
 optimizationguide-pa.googleapis.com
 order.proxy.geoapi-airbusds.com
+outrageous-imported-toaster.glitch.me
 owa.genedata.com
 owa.goerge-markt.de
 pahadan286.github.io
 pai.googlezip.net
+paramguvende.getilansatis.com
 pas.genesiscasino.es
+password.glipapp.com
 personal.garrettfuller.org
 pkg-containers.githubusercontent.com
 planet-strengthened-bactrosaurus.glitch.me
@@ -2206,6 +2225,8 @@ pooranjoyb.github.io
 popsterizenft.github.io
 portalcc.gradicom.com
 priyanshusaxena09.github.io
+pubgio.github.io
+py.goldgod.xyz
 qatsandboxgso.giactcorp.com
 quote.goldtresor.com
 r3---sn-ab5l6nrl.googlevideo.com
@@ -2306,6 +2327,7 @@ us-southeast-g-eqmgathe.gp2j5ocsg2j.gw.gpcloudservice.com
 us1.gtbdhr.com
 ventacuentas.github.io
 verify.globaldatacompany.com
+verify.goldseal.me
 violationtracker.goodjobsfirst.org
 virtualbox.greengoblin.net
 visibility-tools-gateway-uat.extranet.geodis.org
@@ -2336,6 +2358,7 @@ www.cuentas.gpxstore.com
 www.decodeur-v2.gelderblom.dev
 www.demo.goaayanfuelpumpservice.com
 www.dev.greencontrol.ro
+www.dreamslyclient.gamesdeveloper.in
 www.g12servicios.com
 www.g42healthcare.ai
 www.gadgeblo.com
@@ -2354,6 +2377,7 @@ www.gcwildlifecontrol.com
 www.gear4music.fr
 www.gelderburg.nl
 www.geldsolution.nl
+www.gemeentebeeldbank.nl
 www.general-staff.com
 www.generatorservice.com.ua
 www.genewilburn.com
@@ -2382,6 +2406,7 @@ www.glentleiten.de
 www.global-alarm.dk
 www.globaltv.com
 www.glowing.surf
+www.gmc.com
 www.gmprecruit.com
 www.gnosis-safeglobal.ga
 www.gnosis-safeglobal.tk
@@ -2409,16 +2434,19 @@ www.grandtourcroatia.com
 www.granitroyal.com.hr
 www.greeneyed.org
 www.greenlakeenergy.com
+www.grenstonesecurity.in
 www.grenzeloos.org
 www.grenzwissenschaft-aktuell.de
 www.griefyork.com
 www.groupe-imagerie-francilien.fr
 www.groupon.de
 www.growtopiagame.com
+www.grundform.us
 www.grup62.cat
 www.grupopopular.com
 www.gruppoalis.it
 www.gs-icbcwm.com
+www.gs-sales.de
 www.guapaweb.es
 www.guardiacivil.es
 www.gucci.com
@@ -2436,6 +2464,7 @@ www.login.gozap.delivery
 www.oidcservice.globo.com
 www.online.glomacexpressdelivery.com
 www.partner.giliboatservice.com
+www.password.glipapp.com
 www.post-flnance.gr-pancreta.online
 www.premierglobalservice.gvlcompany.com
 www.resourcefulbank.godsloveigbo.online
@@ -2447,6 +2476,7 @@ www.todorepuestos.gruposervice.com.uy
 www.user.good-smm.com
 www.userpanel.grocnow.in
 www.usuarios7me.guiaruropolis.com.br
+www.verify.goldseal.me
 www.visionic.guardiansecurity.com.br
 www.visonic.guardiansecurity.com.br
 www5.grupoqroma.com
