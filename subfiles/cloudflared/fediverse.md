@@ -4548,6 +4548,7 @@ Here's a list of public Fediverse services.
 | `catsbay.org` | No |
 | `catscatscats.party` | No |
 | `catspace.xyz` | No |
+| `catswords.net` | Yes |
 | `catswords.social` | Yes |
 | `catt.wtf` | No |
 | `cattell.mba` | No |
@@ -7923,7 +7924,7 @@ Here's a list of public Fediverse services.
 | `dy.fi` | No |
 | `dydx.moe` | No |
 | `dyke.space` | No |
-| `dylanh.dev` | No |
+| `dylanh.dev` | Yes |
 | `dylanon.com` | Yes |
 | `dylanvanassche.be` | No |
 | `dym.sh` | Yes |
@@ -33553,7 +33554,6 @@ Here's a list of public Fediverse services.
 | `xz0.org` | Yes |
 | `xzqt.xyz` | Yes |
 | `y-bbs.de` | No |
-| `y-dash.net` | No |
 | `y-gallery.net` | Yes |
 | `y-y.li` | No |
 | `y-zu.org` | Yes |
@@ -34282,8 +34282,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,874 |
-| Normal | 26,365 |
+| Cloudflare | 7,876 |
+| Normal | 26,363 |
 
 
 ### 23% of public Fediverse services are using Cloudflare.
