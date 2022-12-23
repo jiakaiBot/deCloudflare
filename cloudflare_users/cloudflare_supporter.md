@@ -785,6 +785,7 @@ Do not create new issue or we will close it as duplicate.
 | [ApriliaLac@twitter](https://twitter.com/ApriliaLac/status/1495515577099640838) | advertise |
 | [Aqeel_AT@twitter](https://twitter.com/Aqeel_AT/status/1453733826006433807) | advertise |
 | [Aqibmah82111102@twitter](https://twitter.com/Aqibmah82111102/status/1399669775844974595) | advertise |
+| [aqil_hashemi@twitter](https://twitter.com/aqil_hashemi/status/1606348317251833867) | advertise |
 | [AquibKh23876904@twitter](https://twitter.com/AquibKh23876904/status/1381641582856785922) | advertise |
 | [ara77225203@twitter](https://twitter.com/ara77225203/status/1379100535165345798) | advertise |
 | [ArabicfoodFood@twitter](https://twitter.com/ArabicfoodFood/status/1587504294537961474) | advertise |
@@ -3056,6 +3057,7 @@ Do not create new issue or we will close it as duplicate.
 | [Galaxyindiagam2@twitter](https://twitter.com/Galaxyindiagam2/status/1401178297300668420) | advertise |
 | [galleonxv@twitter](https://twitter.com/galleonxv/status/1552994969937657856) | advertise |
 | [Game080941@twitter](https://twitter.com/Game080941/status/1396440640028692489) | advertise |
+| [gameonwe@twitter](https://twitter.com/gameonwe/status/1606358816584515584) | advertise |
 | [GamerBoy1789@twitter](https://twitter.com/GamerBoy1789/status/1549586329901535234) | advertise |
 | [Gameski65226328@twitter](https://twitter.com/Gameski65226328/status/1394977499864576006) | advertise |
 | [gamesuwan@twitter](https://twitter.com/gamesuwan/status/1580106222203973634) | advertise |
@@ -8751,6 +8753,7 @@ Do not create new issue or we will close it as duplicate.
 | [SAdonain@twitter](https://twitter.com/SAdonain/status/1381530629565648902) | advertise |
 | [sad_sakib@twitter](https://twitter.com/sad_sakib/status/1388885692059590658) | advertise |
 | [Saeed66252049@twitter](https://twitter.com/Saeed66252049/status/1594765150854254605) | advertise |
+| [Saeed74715235@twitter](https://twitter.com/Saeed74715235/status/1606354183824805889) | advertise |
 | [Saeed86289484@twitter](https://twitter.com/Saeed86289484/status/1575517368394170369) | advertise |
 | [SaeedAshifAhmed@twitter](https://twitter.com/SaeedAshifAhmed/status/1440904537758318601) | advertise |
 | [saeidkhosravi6@twitter](https://twitter.com/saeidkhosravi6/status/1575312207583346690) | advertise |
@@ -9928,8 +9931,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
