@@ -297,7 +297,9 @@ git.git.gitlab.gitlab.gitlab.git.gmail.yugprom.com
 git.gstore.alibaba-office.yatakeaway.com
 inbank.yofin.ru
 insurance.yesbank.in
+invoicexpressnew.yesbank.in
 iovmxrwu.xnsujetf.uhratkfs.hrweb.yalecarolinas.com
+lk.yakutskenergo.ru
 mail.youthinvest.global
 market.yandex.ru
 msacs.yrgcareitsupport.org
@@ -371,6 +373,7 @@ yesrapido.yesbank.in
 yesterbits.com
 yesvkyc.yesbank.in
 yilbasi-mujdesi-denizuyelere.ml
+ym.y3technologies.com
 yoergbeer.com
 yoga36.de
 yomi-kata.com
