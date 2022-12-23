@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,047 |
-| social | 3,078 |
-| net | 2,588 |
-| org | 1,873 |
-| de | 1,713 |
+| com | 5,048 |
+| social | 3,082 |
+| net | 2,590 |
+| org | 1,874 |
+| de | 1,715 |
 
 
 - Mastodon, Pleroma, etc
@@ -2997,6 +2997,7 @@ Here's a list of public Fediverse services.
 | `benzo.online` | No |
 | `beo.social` | No |
 | `beow.party` | Yes |
+| `bepis.au` | No |
 | `bepis.social` | No |
 | `beppo.online` | No |
 | `beppo.social` | No |
@@ -3170,6 +3171,7 @@ Here's a list of public Fediverse services.
 | `bigtastybacon.tk` | No |
 | `bigthinking.social` | No |
 | `bigtoecult.org` | No |
+| `bigtopmidway.fun` | No |
 | `bigzu.cc` | Yes |
 | `bihar.social` | Yes |
 | `bihlink.com` | No |
@@ -3654,6 +3656,7 @@ Here's a list of public Fediverse services.
 | `boles.social` | Yes |
 | `bolha.one` | Yes |
 | `bolha.photos` | Yes |
+| `bolha.social` | Yes |
 | `bolha.us` | Yes |
 | `boliston.com` | No |
 | `bollocks.social` | No |
@@ -5540,6 +5543,7 @@ Here's a list of public Fediverse services.
 | `comwork.io` | No |
 | `con.sh` | Yes |
 | `conan.ooo` | No |
+| `conarro.com` | No |
 | `concernedphilosophers.org` | No |
 | `concho.bar` | No |
 | `concorde.blog` | Yes |
@@ -7416,6 +7420,7 @@ Here's a list of public Fediverse services.
 | `dmgd.monster` | Yes |
 | `dmichael.be` | No |
 | `dmitri.life` | No |
+| `dml3.de` | No |
 | `dmml.ml` | No |
 | `dmmlabs.com` | No |
 | `dmogle.com` | No |
@@ -12789,6 +12794,7 @@ Here's a list of public Fediverse services.
 | `horizin.de` | No |
 | `horizon.ac.uk` | No |
 | `horizonnet.eu` | No |
+| `horizonprivacy.fr` | No |
 | `horizons.one` | No |
 | `hormonzicken.party` | Yes |
 | `horner.tj` | Yes |
@@ -12911,6 +12917,7 @@ Here's a list of public Fediverse services.
 | `hubbr.org` | No |
 | `hubbz.de` | No |
 | `huber-67.fr` | No |
+| `huber.social` | No |
 | `hubkaplan.com` | Yes |
 | `hubloq.net` | No |
 | `hubns.net` | No |
@@ -18887,6 +18894,7 @@ Here's a list of public Fediverse services.
 | `micah.social` | No |
 | `micca.xyz` | Yes |
 | `micha.priv.at` | No |
+| `michael-anders.net` | No |
 | `michaelbishop.me` | No |
 | `michaelbrooks.co.uk` | Yes |
 | `michaelfbrown.net` | No |
@@ -23979,6 +23987,7 @@ Here's a list of public Fediverse services.
 | `pounced.me` | No |
 | `pouque.net` | No |
 | `pourparler.ca` | No |
+| `pourparlers.social` | No |
 | `pourpenser.fr` | No |
 | `pourpenser.pro` | No |
 | `powell.zone` | No |
@@ -24910,6 +24919,7 @@ Here's a list of public Fediverse services.
 | `rat.academy` | No |
 | `rat.cafe` | No |
 | `rat.party` | No |
+| `rat.pub` | Yes |
 | `ratemycancer.com` | No |
 | `rathe.social` | Yes |
 | `rather.social` | Yes |
@@ -26638,6 +26648,7 @@ Here's a list of public Fediverse services.
 | `secvoip.com` | Yes |
 | `secwarz.com` | No |
 | `seda.social` | Yes |
+| `sedders123.me` | Yes |
 | `seditio.fr` | No |
 | `sedryk.info` | No |
 | `seediqbale.xyz` | No |
@@ -27443,6 +27454,7 @@ Here's a list of public Fediverse services.
 | `slowest.network` | Yes |
 | `slowkidz.social` | No |
 | `slownewsdayshow.com` | No |
+| `slrie.de` | No |
 | `slrpnk.net` | No |
 | `sludge.town` | Yes |
 | `sludgepool.org` | No |
@@ -27990,6 +28002,7 @@ Here's a list of public Fediverse services.
 | `speakeasy.tk` | No |
 | `speakers-corner.uk` | No |
 | `speakfree.world` | No |
+| `speakfreelyto.me` | Yes |
 | `speakingstone.net` | No |
 | `speakitfree.com` | Yes |
 | `speakout.social` | No |
@@ -30151,6 +30164,7 @@ Here's a list of public Fediverse services.
 | `tibia.life` | No |
 | `tibidoo.com` | No |
 | `tic-ac.org` | No |
+| `ticos.social` | No |
 | `tictech.info` | No |
 | `tictoc.social` | No |
 | `tiddies.pro` | No |
@@ -32813,6 +32827,7 @@ Here's a list of public Fediverse services.
 | `widerweb.org` | No |
 | `wideweb.me` | No |
 | `widget.uk` | No |
+| `wiedenhoeft.net` | No |
 | `wiegandtech.net` | Yes |
 | `wiegehts.cloud` | No |
 | `wien.rocks` | No |
@@ -33709,6 +33724,7 @@ Here's a list of public Fediverse services.
 | `yegle.blog` | Yes |
 | `yeldirium.de` | No |
 | `yelling.it` | No |
+| `yellow-brick-code.org` | No |
 | `yellow-turtle.org` | No |
 | `yellowbucketredhandle.online` | No |
 | `yellowfinch.cc` | No |
@@ -34327,8 +34343,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,892 |
-| Normal | 26,392 |
+| Cloudflare | 7,896 |
+| Normal | 26,404 |
 
 
 ### 23% of public Fediverse services are using Cloudflare.
