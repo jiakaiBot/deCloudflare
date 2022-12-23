@@ -20530,6 +20530,7 @@ Here's a list of public Fediverse services.
 | `nbailey.ca` | Yes |
 | `nbl.social` | No |
 | `nblo.ws` | Yes |
+| `nblr.dev` | Yes |
 | `nbwp.uk` | No |
 | `nc.social` | Yes |
 | `nca10.net` | Yes |
@@ -34301,7 +34302,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,880 |
+| Cloudflare | 7,881 |
 | Normal | 26,378 |
 
 
