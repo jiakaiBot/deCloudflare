@@ -6,6 +6,8 @@ This page show you how to block CloudFlare websites with your firewall, preventi
 
 ### With UFW
 
+<details><summary> _click me_ </summary>
+
 ```
 ufw deny from 103.21.244.0/22
 ufw deny from 103.22.200.0/22
@@ -31,7 +33,11 @@ ufw deny from 2a06:98c0::/29
 ufw deny from 2c0f:f248::/32
 ```
 
+</details>
+
 ### With iptables
+
+<details><summary> _click me_ </summary>
 
 ```
 iptables -A input -s 103.21.244.0/22 -j DROP
@@ -58,7 +64,11 @@ iptables -A input -s 2a06:98c0::/29 -j DROP
 iptables -A input -s 2c0f:f248::/32 -j DROP
 ```
 
+</details>
+
 ### With Windows Firewall
+
+<details><summary> _click me_ </summary>
 
 ```
 New-NetFirewallRule -DisplayName "Block CF" -Direction Outbound –LocalPort Any -Action Block -RemoteAddress 103.21.244.0/22
@@ -84,3 +94,5 @@ New-NetFirewallRule -DisplayName "Block CF" -Direction Outbound –LocalPort Any
 New-NetFirewallRule -DisplayName "Block CF" -Direction Outbound –LocalPort Any -Action Block -RemoteAddress 2a06:98c0::/29
 New-NetFirewallRule -DisplayName "Block CF" -Direction Outbound –LocalPort Any -Action Block -RemoteAddress 2c0f:f248::/32
 ```
+
+</details>
