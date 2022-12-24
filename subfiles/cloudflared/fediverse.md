@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,052 |
+| com | 5,054 |
 | social | 3,088 |
 | net | 2,594 |
 | org | 1,874 |
-| de | 1,715 |
+| de | 1,716 |
 
 
 - Mastodon, Pleroma, etc
@@ -3120,6 +3120,7 @@ Here's a list of public Fediverse services.
 | `bibernasen.de` | No |
 | `bibhasdn.com` | No |
 | `bibinet.de` | No |
+| `biblenotes.co.uk` | Yes |
 | `biblewordpress.net` | No |
 | `biblewp.com` | No |
 | `biblewp.net` | No |
@@ -3693,9 +3694,10 @@ Here's a list of public Fediverse services.
 | `bonzoesc.net` | Yes |
 | `booba.bar` | No |
 | `boobalar.net` | No |
-| `boobytooth.social` | No |
+| `boobytooth.social` | Yes |
 | `boodoo.biz` | No |
 | `boogstreken.be` | No |
+| `bookandsword.com` | No |
 | `bookbeezhive.com` | No |
 | `bookdon.jp` | No |
 | `booker.social` | No |
@@ -5445,7 +5447,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -10883,6 +10885,7 @@ Here's a list of public Fediverse services.
 | `gboaonline.org` | No |
 | `gbox.work` | No |
 | `gbtdn.tokyo` | No |
+| `gbudou.ml` | No |
 | `gc2.jp` | Yes |
 | `gcaillaut.fr` | No |
 | `gcfam.net` | No |
@@ -13695,6 +13698,7 @@ Here's a list of public Fediverse services.
 | `io18.top` | No |
 | `ioangogo.dev` | No |
 | `ioc.exchange` | No |
+| `iochen.com` | Yes |
 | `ioer.pw` | No |
 | `iofoundry.eu` | Yes |
 | `ioi-xd.net` | Yes |
@@ -18028,6 +18032,7 @@ Here's a list of public Fediverse services.
 | `mastodon.express` | No |
 | `mastodon.fail` | No |
 | `mastodon.fashion` | No |
+| `mastodon.fi` | Yes |
 | `mastodon.fishing` | No |
 | `mastodon.flights` | No |
 | `mastodon.floripa.br` | No |
@@ -26430,6 +26435,7 @@ Here's a list of public Fediverse services.
 | `schooner.social` | No |
 | `schosta.com` | No |
 | `schottkydio.de` | No |
+| `schreiblehrling.de` | No |
 | `schub.social` | No |
 | `schuerz.at` | No |
 | `schuessler.vip` | No |
@@ -34368,8 +34374,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,906 |
-| Normal | 26,419 |
+| Cloudflare | 7,909 |
+| Normal | 26,422 |
 
 
 ### 23% of public Fediverse services are using Cloudflare.
