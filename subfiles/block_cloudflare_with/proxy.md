@@ -6,15 +6,30 @@ This page show you how to block CloudFlare websites with proxy.
 
 ### With PAC Script
 
-- Save below to `pac.txt` and load it with Firefox (e.g. `file:///root/pac.txt`)
+<details><summary> _click me_ </summary>
+
+- Save below to `pac.txt` and load it with PAC-supported browser (e.g. `file:///root/pac.txt`)
 
 ```
 function FindProxyForURL(url, host){
-var hip = dnsResolve(host);
 
+var hip = dnsResolve(host);
 if (
-    isInNet(hip,"104.16.0.0","255.248.0.0")
-    ||isInNet(hip,"104.24.0.0","255.252.0.0")
+isInNet(hip,"103.21.244.1","255.255.252.0")
+||isInNet(hip,"103.22.200.1","255.255.252.0")
+||isInNet(hip,"103.31.4.1","255.255.252.0")
+||isInNet(hip,"104.16.0.1","255.248.0.0")
+||isInNet(hip,"104.24.0.1","255.252.0.0")
+||isInNet(hip,"108.162.192.1","255.255.192.0")
+||isInNet(hip,"131.0.72.1","255.255.252.0")
+||isInNet(hip,"141.101.64.1","255.255.192.0")
+||isInNet(hip,"162.158.0.1","255.254.0.0")
+||isInNet(hip,"172.64.0.1","255.248.0.0")
+||isInNet(hip,"173.245.48.1","255.255.240.0")
+||isInNet(hip,"188.114.96.1","255.255.240.0")
+||isInNet(hip,"190.93.240.1","255.255.240.0")
+||isInNet(hip,"197.234.240.1","255.255.252.0")
+||isInNet(hip,"198.41.128.1","255.255.128.0")
 ){return "SOCKS5 0.0.0.0:7";}
 
 return "DIRECT";
@@ -22,7 +37,11 @@ return "DIRECT";
 }
 ```
 
+</details>
+
 ### With ShadowSocks ACL
+
+<details><summary> _click me_ </summary>
 
 ```
 [outbound_block_list]
@@ -50,7 +69,11 @@ return "DIRECT";
 2c0f:f248::/32
 ```
 
+</details>
+
 ### With Privoxy ACL
+
+<details><summary> _click me_ </summary>
 
 ```
 deny-access 127.0.0.1 103.21.244.0/22
@@ -77,7 +100,11 @@ deny-access 127.0.0.1 2a06:98c0::/29
 deny-access 127.0.0.1 2c0f:f248::/32
 ```
 
+</details>
+
 ### With Dante Socks
+
+<details><summary> _click me_ </summary>
 
 ```
 socks pass {
@@ -191,3 +218,6 @@ socks pass {
    redirect to: 0.0.0.0 port = 7
 }
 ```
+
+</details>
+
