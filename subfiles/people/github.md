@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't update Humhub - Gateway Timeout 504 error](https://github.com/humhub/humhub/issues/5989)
 - [Enabled chunked transfers in LFS](https://github.com/go-gitea/gitea/issues/22233)
 - [A summary on Iran's current internet situation](https://github.com/net4people/bbs/issues/182)
 - [Can't get past verification on server, Cloudflare problem?](https://github.com/danielgross/whatsapp-gpt/issues/27)
