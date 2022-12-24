@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,070 |
+| com | 5,071 |
 | social | 3,104 |
 | net | 2,597 |
 | org | 1,876 |
@@ -2485,6 +2485,7 @@ Here's a list of public Fediverse services.
 | `b-root-force.de` | No |
 | `b-shock.org` | No |
 | `b.mp` | Yes |
+| `b0.ax` | Yes |
 | `b00bl1k.ru` | Yes |
 | `b0o1y.com` | Yes |
 | `b0rke.de` | No |
@@ -24074,6 +24075,7 @@ Here's a list of public Fediverse services.
 | `pourpenser.pro` | No |
 | `powell.zone` | No |
 | `powered.network` | No |
+| `poweredbycocaine.com` | Yes |
 | `poweredbydev.com` | No |
 | `poweredbygay.social` | No |
 | `powerlineblog.com` | Yes |
@@ -26125,6 +26127,7 @@ Here's a list of public Fediverse services.
 | `saint-denis-adventiste.fr` | No |
 | `saint-die-des-vosges.fr` | No |
 | `saint-petersburg.space` | No |
+| `saintnet.tech` | No |
 | `sais.town` | No |
 | `saita-mastodon.online` | No |
 | `saitama-stdn.com` | No |
@@ -27909,7 +27912,7 @@ Here's a list of public Fediverse services.
 | `solutionpoint.in` | No |
 | `solvingmaz.es` | No |
 | `solwer.xyz` | No |
-| `somamis.it` | No |
+| `somamis.it` | Yes |
 | `somanydoors.ca` | Yes |
 | `somaton.com` | No |
 | `some.rs` | No |
@@ -34451,7 +34454,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,935 |
+| Cloudflare | 7,938 |
 | Normal | 26,473 |
 
 
