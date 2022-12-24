@@ -4499,6 +4499,7 @@ Do not create new issue or we will close it as duplicate.
 | [JLavitt@twitter](https://twitter.com/JLavitt/status/1529862297031778305) | advertise |
 | [jlOKDjKOzqlRmgx@twitter](https://twitter.com/jlOKDjKOzqlRmgx/status/1504296742992617473) | advertise |
 | [JLSosaJr@twitter](https://twitter.com/JLSosaJr/status/1382253002765991940) | advertise |
+| [jmacofearth@twitter](https://twitter.com/jmacofearth/status/1606703011107061763) | advertise |
 | [jmacsecurity@twitter](https://twitter.com/jmacsecurity/status/1464711566985732103) | advertise |
 | [jmconfuzeus@twitter](https://twitter.com/jmconfuzeus/status/1378625177022423040) | advertise |
 | [jmexclusives@twitter](https://twitter.com/jmexclusives/status/1416631625841053697) | advertise |
@@ -5941,6 +5942,7 @@ Do not create new issue or we will close it as duplicate.
 | [maihong28907499@twitter](https://twitter.com/maihong28907499/status/1475838291639697413) | advertise |
 | [maik24562885@twitter](https://twitter.com/maik24562885/status/1425610293216940043) | advertise |
 | [MailServerPwnr@twitter](https://twitter.com/MailServerPwnr/status/1384346054011744258) | advertise |
+| [MainaAwudu@twitter](https://twitter.com/MainaAwudu/status/1606611116662063107) | advertise |
 | [MaiPham06160922@twitter](https://twitter.com/MaiPham06160922/status/1392396112179306500) | advertise |
 | [Mait82181284@twitter](https://twitter.com/Mait82181284/status/1600479237907308544) | advertise |
 | [maithanh_tai@twitter](https://twitter.com/maithanh_tai/status/1401900355470839810) | advertise |
@@ -6056,6 +6058,7 @@ Do not create new issue or we will close it as duplicate.
 | [MARPOLLO1122@twitter](https://twitter.com/MARPOLLO1122/status/1396765394719809541) | advertise |
 | [MarriageAtCourt@twitter](https://twitter.com/MarriageAtCourt/status/1597344160029474816) | advertise |
 | [MartinDeKlerk6@twitter](https://twitter.com/MartinDeKlerk6/status/1604736026571952129) | advertise |
+| [martiniomjdk@twitter](https://twitter.com/martiniomjdk/status/1604736026571952129) | advertise |
 | [Martinka_Treti_@twitter](https://twitter.com/Martinka_Treti_/status/1534550667435589637) | advertise |
 | [Maru19225266@twitter](https://twitter.com/Maru19225266/status/1399664918794674181) | advertise |
 | [MarufHa0192487@twitter](https://twitter.com/MarufHa0192487/status/1385279046309740547) | advertise |
@@ -9933,8 +9936,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
