@@ -6,6 +6,8 @@ This page show you how to block CloudFlare websites with localhost DNS server.
 
 ### With DNSMasq (Type 1)
 
+<details><summary> _click me_ </summary>
+
 1. Install `dnsmasq`.
 2. Open configuration file of dnsmasq.
 3. Add those lines to your config file and restart dnsmasq.
@@ -36,7 +38,11 @@ bogus-nxdomain=2a06:98c0::/29
 bogus-nxdomain=2c0f:f248::/32
 ```
 
+</details>
+
 ### With DNSMasq (Type 2)
+
+<details><summary> _click me_ </summary>
 
 In step 3, add those lines and restart dnsmasq.
 
@@ -46,7 +52,11 @@ alias=104.16.0.0-104.23.255.255,127.0.0.0,255.255.255.0
 alias=104.24.0.0-104.27.255.255,127.0.0.0,255.255.255.0
 ```
 
+</details>
+
 ### With PowerDNS
+
+<details><summary> _click me_ </summary>
 
 ```
 badips = newNMG()
@@ -78,7 +88,11 @@ function ipfilter(rem, loc, dh)
 end
 ```
 
+</details>
+
 ### With BIND
+
+<details><summary> _click me_ </summary>
 
 ```
 deny-answer-addresses {
@@ -108,7 +122,11 @@ deny-answer-addresses {
 deny-answer-aliases { "localhost.invalid"; };
 ```
 
+</details>
+
 ### With dnscrypt-proxy
+
+<details><summary> _click me_ </summary>
 
 - blocked-ips.txt
 ```
@@ -6069,3 +6087,5 @@ deny-answer-aliases { "localhost.invalid"; };
 198.41.254.*
 198.41.255.*
 ```
+
+</details>
