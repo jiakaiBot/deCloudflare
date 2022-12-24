@@ -20906,6 +20906,7 @@ Here's a list of public Fediverse services.
 | `netou.info` | No |
 | `netplusw.com` | No |
 | `netpro2k.io` | Yes |
+| `netrunner.cfd` | No |
 | `netrunner.online` | No |
 | `netsol.co.th` | Yes |
 | `netsplit.social` | Yes |
@@ -34451,7 +34452,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,935 |
-| Normal | 26,472 |
+| Normal | 26,473 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
