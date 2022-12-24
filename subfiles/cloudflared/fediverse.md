@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,071 |
+| com | 5,073 |
 | social | 3,104 |
-| net | 2,597 |
+| net | 2,598 |
 | org | 1,876 |
 | de | 1,717 |
 
@@ -129,6 +129,7 @@ Here's a list of public Fediverse services.
 | `0xfeedc0.de` | No |
 | `0xff.cafe` | No |
 | `0xff.social` | No |
+| `0xv.eu` | No |
 | `10000x.dev` | Yes |
 | `1000dollars.info` | No |
 | `1000grad.com` | No |
@@ -3238,6 +3239,7 @@ Here's a list of public Fediverse services.
 | `binbin.eu.org` | No |
 | `binblog.de` | No |
 | `binbou.xyz` | No |
+| `binch.top` | No |
 | `binchan.xyz` | No |
 | `bindinggenerations.net` | No |
 | `binfalse.de` | No |
@@ -15310,6 +15312,7 @@ Here's a list of public Fediverse services.
 | `kinkuroshideout.com` | Yes |
 | `kinky.business` | Yes |
 | `kinkyelephant.com` | No |
+| `kinkytaboo.online` | No |
 | `kinl.gq` | No |
 | `kinlan.me` | No |
 | `kinlane.com` | Yes |
@@ -25741,6 +25744,7 @@ Here's a list of public Fediverse services.
 | `romne.co` | Yes |
 | `romneko.net` | Yes |
 | `rompe.org` | No |
+| `roms4mame.com` | No |
 | `ronaldoussoren.net` | No |
 | `ronbronson.com` | No |
 | `rondheim.haus` | No |
@@ -30973,6 +30977,7 @@ Here's a list of public Fediverse services.
 | `tripleplusgood.us` | No |
 | `triplering.site` | Yes |
 | `trippelm.tv` | No |
+| `trippyhippie.dev` | Yes |
 | `tripsocial.co` | No |
 | `triptico.com` | No |
 | `tripulse.net` | Yes |
@@ -33242,6 +33247,7 @@ Here's a list of public Fediverse services.
 | `worldsmith.org` | No |
 | `worldtravel.photos` | No |
 | `worm.horse` | No |
+| `wormers.net` | No |
 | `wormhole.eu` | No |
 | `worst-friends.chat` | Yes |
 | `worst.computer` | No |
@@ -33589,6 +33595,7 @@ Here's a list of public Fediverse services.
 | `xn--mta-bma.hu` | No |
 | `xn--n6x.net` | Yes |
 | `xn--n8jyhka.shop` | No |
+| `xn--nead-na-bhfinleog-hpb.ie` | No |
 | `xn--netzsphre-12a.xyz` | No |
 | `xn--nnqt1l.tk` | No |
 | `xn--oc-cja.fr` | No |
@@ -34401,6 +34408,7 @@ Here's a list of public Fediverse services.
 | `zuhairmahmoud.com` | No |
 | `zuidbook.com` | No |
 | `zuiho.moe` | Yes |
+| `zuiker.com` | No |
 | `zukunpht.de` | No |
 | `zulu6.com` | No |
 | `zum-durstigen-dol.ch` | No |
@@ -34454,8 +34462,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,938 |
-| Normal | 26,473 |
+| Cloudflare | 7,939 |
+| Normal | 26,480 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
