@@ -7798,6 +7798,7 @@ Do not create new issue or we will close it as duplicate.
 | [PannKal92750160@twitter](https://twitter.com/PannKal92750160/status/1386689577373536258) | advertise |
 | [panportugal@twitter](https://twitter.com/panportugal/status/1551915856699047937) | advertise |
 | [pan_lett@twitter](https://twitter.com/pan_lett/status/1391278301365288961) | advertise |
+| [papa71868482@twitter](https://twitter.com/papa71868482/status/1607063209818873856) | advertise |
 | [papajuce100@twitter](https://twitter.com/papajuce100/status/1399211216061407233) | advertise |
 | [PaPaNaingLinTun@twitter](https://twitter.com/PaPaNaingLinTun/status/1390941738303299586) | advertise |
 | [papas68@twitter](https://twitter.com/papas68/status/1485710848983244806) | advertise |
