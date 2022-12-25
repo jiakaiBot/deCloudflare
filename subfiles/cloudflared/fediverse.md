@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,079 |
-| social | 3,115 |
-| net | 2,606 |
+| com | 5,081 |
+| social | 3,116 |
+| net | 2,607 |
 | org | 1,877 |
-| de | 1,720 |
+| de | 1,721 |
 
 
 - Mastodon, Pleroma, etc
@@ -3646,6 +3646,7 @@ Here's a list of public Fediverse services.
 | `bodensee.social` | No |
 | `body.social` | No |
 | `bodybuilding.im` | No |
+| `boehmke.net` | No |
 | `boelz.eu` | No |
 | `bof.space` | No |
 | `bofa.lol` | Yes |
@@ -8470,6 +8471,7 @@ Here's a list of public Fediverse services.
 | `elysian.city` | No |
 | `elysian.space` | No |
 | `elysians.social` | No |
+| `elytra15.com` | No |
 | `emacs.ch` | No |
 | `emacs.li` | No |
 | `emacsen.net` | No |
@@ -14519,6 +14521,7 @@ Here's a list of public Fediverse services.
 | `johnson.gg` | No |
 | `johntrain.org` | Yes |
 | `johnwrogers.co.uk` | No |
+| `join-fediverse.social` | No |
 | `joindiaspora.com` | No |
 | `joinfediverse.com` | No |
 | `joinfediverse.online` | No |
@@ -17590,6 +17593,7 @@ Here's a list of public Fediverse services.
 | `makerdon.org` | No |
 | `makerforce.io` | No |
 | `makerforums.info` | No |
+| `makerkollektiv.de` | No |
 | `makersocial.online` | No |
 | `makersociety.org` | No |
 | `makerspace.au` | No |
@@ -17900,6 +17904,7 @@ Here's a list of public Fediverse services.
 | `mast.moe` | No |
 | `mast.nyc` | No |
 | `mast.one` | No |
+| `mast.quebec` | No |
 | `mast.tokyo` | No |
 | `mast0d0n.fr` | No |
 | `mastadano.com` | No |
@@ -18513,6 +18518,7 @@ Here's a list of public Fediverse services.
 | `mawalabs.de` | No |
 | `maware.cc` | Yes |
 | `mawo24.de` | No |
+| `mawoka.eu` | Yes |
 | `max-fun.de` | No |
 | `max.town` | Yes |
 | `maxdec.fr` | Yes |
@@ -22849,7 +22855,7 @@ Here's a list of public Fediverse services.
 | `palom.be` | No |
 | `palon.org` | Yes |
 | `palousegeo.com` | No |
-| `paltee.net` | No |
+| `paltee.net` | Yes |
 | `palyazatnelkul.hu` | No |
 | `pamilya.social` | No |
 | `pamphlets.me` | Yes |
@@ -24374,6 +24380,7 @@ Here's a list of public Fediverse services.
 | `pseudo-whiskey.bar` | No |
 | `psimon.world` | No |
 | `psion.co` | No |
+| `psionprotocol.com` | No |
 | `psipsistar.com` | No |
 | `psjb.me` | No |
 | `pso2.club` | No |
@@ -31045,6 +31052,7 @@ Here's a list of public Fediverse services.
 | `triptico.com` | No |
 | `tripulse.net` | Yes |
 | `tris.fyi` | No |
+| `trisec.se` | No |
 | `triskelion.ca` | No |
 | `trismegistus.eu` | No |
 | `trispadsmit.com` | No |
@@ -33269,6 +33277,7 @@ Here's a list of public Fediverse services.
 | `wood-built21.net` | No |
 | `woodbine.nyc` | No |
 | `woodenelephants.xyz` | No |
+| `woodland.cafe` | No |
 | `woodpecker.blue` | Yes |
 | `woodphant.fr` | No |
 | `woodplate.club` | No |
@@ -34532,8 +34541,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,960 |
-| Normal | 26,529 |
+| Cloudflare | 7,962 |
+| Normal | 26,536 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
