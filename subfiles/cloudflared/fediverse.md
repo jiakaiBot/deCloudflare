@@ -1209,6 +1209,7 @@ Here's a list of public Fediverse services.
 | `alixrossi.corsica` | No |
 | `aliyo.me` | Yes |
 | `aljadra.xyz` | No |
+| `alkaabi.io` | Yes |
 | `all.de` | No |
 | `allaboutgeorge.com` | No |
 | `allaboutlbc.com` | Yes |
@@ -24858,7 +24859,7 @@ Here's a list of public Fediverse services.
 | `raichu.lol` | No |
 | `raidarou.com` | No |
 | `raikow.online` | No |
-| `rail.chat` | No |
+| `rail.chat` | Yes |
 | `raildecake.fr` | No |
 | `raildon.online` | No |
 | `railhome.club` | No |
@@ -34473,8 +34474,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,944 |
-| Normal | 26,486 |
+| Cloudflare | 7,946 |
+| Normal | 26,485 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
