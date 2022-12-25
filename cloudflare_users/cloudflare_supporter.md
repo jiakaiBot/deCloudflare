@@ -2607,6 +2607,7 @@ Do not create new issue or we will close it as duplicate.
 | [DuyTran98356663@twitter](https://twitter.com/DuyTran98356663/status/1510911601599447040) | advertise |
 | [DuyTrn63432829@twitter](https://twitter.com/DuyTrn63432829/status/1600840620427595782) | advertise |
 | [Duytrung31@twitter](https://twitter.com/Duytrung31/status/1388180524573741058) | advertise |
+| [DuyV55849692@twitter](https://twitter.com/DuyV55849692/status/1607137644324225026) | advertise |
 | [duyyhoang102@twitter](https://twitter.com/duyyhoang102/status/1531892044008136704) | advertise |
 | [Du_Le33@twitter](https://twitter.com/Du_Le33/status/1552336926795243521) | advertise |
 | [dvgamerr@twitter](https://twitter.com/dvgamerr/status/1471737827750674433) | advertise |
