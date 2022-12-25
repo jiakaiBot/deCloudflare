@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,078 |
-| social | 3,113 |
+| com | 5,079 |
+| social | 3,114 |
 | net | 2,606 |
 | org | 1,877 |
 | de | 1,720 |
@@ -1516,6 +1516,7 @@ Here's a list of public Fediverse services.
 | `andres.cat` | Yes |
 | `andresbilevich.com` | No |
 | `andresen.mx` | No |
+| `andrevillien.fr` | No |
 | `andrew.xyz` | No |
 | `andrewbaker.uk` | Yes |
 | `andrewbarnes.design` | No |
@@ -3265,6 +3266,7 @@ Here's a list of public Fediverse services.
 | `birb.site` | No |
 | `birb.social` | No |
 | `birb.space` | No |
+| `birb.stream` | No |
 | `birb.town` | No |
 | `birb.zone` | No |
 | `birchgame.org` | No |
@@ -15779,6 +15781,7 @@ Here's a list of public Fediverse services.
 | `krylc.cloud` | Yes |
 | `kryptozoology.xyz` | No |
 | `kryptykphysh.xyz` | No |
+| `krysinmedia.com` | Yes |
 | `ksidi.top` | No |
 | `ksite.de` | No |
 | `ksj.social` | No |
@@ -15980,6 +15983,7 @@ Here's a list of public Fediverse services.
 | `lachman.tk` | No |
 | `lacia.life` | Yes |
 | `lacienciaysusdemonios.com` | No |
+| `lacking.fun` | No |
 | `lacko.network` | Yes |
 | `lacolaco.net` | No |
 | `lacoloc.cafe` | No |
@@ -30912,6 +30916,7 @@ Here's a list of public Fediverse services.
 | `trans.mt` | No |
 | `trans.town` | No |
 | `transaltar.com` | No |
+| `transcortex.social` | No |
 | `transformacion.social` | No |
 | `transforthe.win` | Yes |
 | `transfur.online` | No |
@@ -34526,8 +34531,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,959 |
-| Normal | 26,524 |
+| Cloudflare | 7,960 |
+| Normal | 26,528 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
