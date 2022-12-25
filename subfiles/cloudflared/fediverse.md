@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,078 |
 | social | 3,113 |
-| net | 2,605 |
+| net | 2,606 |
 | org | 1,877 |
 | de | 1,720 |
 
@@ -8258,6 +8258,7 @@ Here's a list of public Fediverse services.
 | `ehendershott.com` | No |
 | `ehjovan.com` | Yes |
 | `ehlo.world` | No |
+| `ehlxr.me` | Yes |
 | `ehnit.com` | No |
 | `ehr.scot` | Yes |
 | `ehrengruppe.de` | No |
@@ -20483,6 +20484,7 @@ Here's a list of public Fediverse services.
 | `nadesiko-users.info` | No |
 | `nado.social` | No |
 | `nadus.fr` | No |
+| `nae.moe` | No |
 | `naethure.com` | No |
 | `nafo.army` | No |
 | `nafo.uk` | Yes |
@@ -22411,6 +22413,7 @@ Here's a list of public Fediverse services.
 | `orangespatula.com` | No |
 | `orani.co` | Yes |
 | `oransns.com` | No |
+| `orapp.net` | No |
 | `orasi.io` | No |
 | `oratorium-leipzig.de` | No |
 | `orbanos.org` | No |
@@ -22703,6 +22706,7 @@ Here's a list of public Fediverse services.
 | `owo.ar` | Yes |
 | `owo.cafe` | No |
 | `owo.ceo` | Yes |
+| `owo.ee` | No |
 | `owo.monster` | No |
 | `owo.sg` | Yes |
 | `owo.town` | No |
@@ -34521,8 +34525,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,958 |
-| Normal | 26,520 |
+| Cloudflare | 7,959 |
+| Normal | 26,523 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
