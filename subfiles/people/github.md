@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Update from 2.5.2 to 2.6.2 breaks caddyfile](https://github.com/caddyserver/caddy/issues/5268)
 - [Can't update Humhub - Gateway Timeout 504 error](https://github.com/humhub/humhub/issues/5989)
 - [Enabled chunked transfers in LFS](https://github.com/go-gitea/gitea/issues/22233)
 - [A summary on Iran's current internet situation](https://github.com/net4people/bbs/issues/182)
