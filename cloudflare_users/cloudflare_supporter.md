@@ -9820,6 +9820,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThangNg07710399@twitter](https://twitter.com/ThangNg07710399/status/1401077493193269249) | advertise |
 | [thangqu58112310@twitter](https://twitter.com/thangqu58112310/status/1553996530264051712) | advertise |
 | [thangsex01@twitter](https://twitter.com/thangsex01/status/1552533452242964480) | advertise |
+| [thang_goi@twitter](https://twitter.com/thang_goi/status/1606870479465484289) | advertise |
 | [Thang_KD_2001@twitter](https://twitter.com/Thang_KD_2001/status/1537710807601270784) | advertise |
 | [Thanh19Hoang@twitter](https://twitter.com/Thanh19Hoang/status/1478157348699258880) | advertise |
 | [thanh8942@twitter](https://twitter.com/thanh8942/status/1388420608497623044) | advertise |
