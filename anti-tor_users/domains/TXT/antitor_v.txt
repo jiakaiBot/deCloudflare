@@ -423,7 +423,6 @@ verify-mywellsfargo63s.com
 verifyclient256634.com
 verifyid.id
 verifyphoto.id
-verifysoak.bond
 veritonic.com
 verseverify.com.ng
 vestuviufilmavimas.lt
@@ -1228,6 +1227,7 @@ aleromeroq20-gmailcom.vercel.app
 alert.validierung.cc
 alexfoxy.vercel.app
 alfresco.vannsconcept.fr
+anvdb.velocitydatabank.com
 api.ati.eu.dp15.vwg-connect.com
 api.comid.ace-35d68d78.core.build.vwn.cloud
 api.comid.ace-3de78578.core.build.vwn.cloud
@@ -1235,6 +1235,7 @@ api.comid.ace-9204d307.core.build.vwn.cloud
 api.comid.ace-e1afb0.core.build.vwn.cloud
 api.comid.ace-e7fb8c39.core.build.vwn.cloud
 api.tsc.eu.dp15.vwg-connect.com
+api.tsc.na.dp15.vwg-connect.com
 api.voltmoney.in
 api3.vnexpress.net
 apim.vexi.mx
@@ -1258,6 +1259,7 @@ blog.dev.vmail.valetparking.pl
 blog.store.vmail.valetparking.pl
 bnx9wkgipnc89nm.cbc.vteam.tech
 cactusdiscord.vercel.app
+cajatrujillo.voixhub.com
 captchadex.vercel.app
 care.vyaire.com
 cekid.id.verifywajah.com
@@ -1317,7 +1319,9 @@ env-9187341.users.scale.virtualcloud.com.br
 epac.verisurepagos.cl
 erandagan1-gmailcom.vercel.app
 europe.connect.valeo.com
+event-demo-1-dev.vbuzzclient.com
 ezzulianiblog-gmailcom.vercel.app
+flightadsb.variflight.com
 floodgate.vessel.land
 flutter.virtualsecretary.in
 foxdebugger.vercel.app
@@ -1333,6 +1337,7 @@ gmailgate.view-manager.com
 h0i6d2e1-gmailcom.vercel.app
 ha.vermeerschconsulting.be
 hb-a.services.vnc.com
+honda-us.telematics.verisk.io
 hunt3751.vercel.app
 hunterwatrin.vercel.app
 idp.comid.ace-1d0df0aa.core.build.vwn.cloud
@@ -1364,6 +1369,7 @@ milakankanala-gmailcom.vercel.app
 mindtrust-taas-1994.vercel.app
 minhac.vedataydin.nl
 mlflow.eran-young-vm-1.dev.vianai.site
+mta-sts.vandeven.net
 muhammed671-gmailcom.vercel.app
 mx1.vnukovo.ru
 myusernameisthisroblox.vercel.app
@@ -1393,6 +1399,7 @@ pathmatch.vercel.app
 pauliusvigelis-gmailcom.vercel.app
 paypal-consumer-hack-2019.vercel.app
 paypalm.vercel.app
+pctab.vodafone.pt
 phuepwintphway9-gmailcom.vercel.app
 pinali-protonmailc.vercel.app
 pki.valeofglamorgan.gov.uk
@@ -1462,6 +1469,8 @@ update1312b.videosintimes.com
 update2012c.videosintimes.com
 update2112b.videosintimes.com
 update2112c.votreintimite.com
+update2312.votreintimite.com
+update2312a.votreintimite.com
 v-seo.eu
 v02-chain.link
 v1scotiaoniine.com
@@ -1472,6 +1481,7 @@ vaccine-proof.xyz
 vacinaja.sp.gov.br
 valbifrut.cl
 valhoffman-gmailcom.vercel.app
+valigrama.ro
 valleypartnership.org
 valtqualitycontrol.com
 vam.veritas.com
@@ -1561,6 +1571,7 @@ viktorvojtko.cz
 villabukithambalang.id
 villededonnacona.com
 vin.gl
+vingrancloud.com
 vinnter.se
 vintagebymoniek.nl
 violainechapallaz.com
@@ -1583,6 +1594,7 @@ vlbajio.com
 vm-rbcroyalbank1.com
 vm-rbcroyalbank2.com
 vmca.ro
+vmfd.in
 vmfunds.com
 vmmckkl.edu.in
 vnas4pn1.veoliana.com
@@ -1613,6 +1625,7 @@ vwvwvwvw.com
 vz99.biz
 vz99.vin
 wafparis.prod.aws.vsct.fr
+wca.vozovoz.ru
 we-teach-blockchain.vercel.app
 webdisk.vaccine-proof.xyz
 webdisk.vauttech.in
@@ -1628,6 +1641,7 @@ widgets.vlaanderen.be
 wiremock.comid-a4bb965e.core.build.vwn.cloud
 worten-dev.vistex.cloud
 wsc-preprod.virginmobile.ae
+wschkb.vodafone.pt
 wsj-88488111.vercel.app
 www.account.vierrania.id
 www.account.vincentwillemsen.nl
@@ -1642,9 +1656,11 @@ www.cekid.id.verifywajah.com
 www.cekmuka.com.verifywajah.com
 www.chipactivar.valen.es
 www.chunghwa-epost.org.verfolgung-dpost.com
+www.contoh.vikasu.com
 www.control.vigo-app.com
 www.conuslenzagevolazionifiscali.verificastrutturalegru.it
 www.dknordpost.org.verfolgung-dpost.com
+www.firestore.venta-group.ru
 www.git.git.gitlab.gitlab.gitlab.wp.vanillagiftc.xyz
 www.infosrena.com.ng.vistapay.online
 www.mytest.verifygiftcard.online
@@ -1671,8 +1687,10 @@ www.valhallaediciones.com
 www.vallejoandcompany.com
 www.valleybreeze.com
 www.valleypartnership.org
+www.valormagazine.pt
 www.value-match.co.uk
 www.vanguardcleaning.com
+www.vanillagift.com
 www.vans.fr
 www.vanvipservice.com
 www.vapld.info
@@ -1682,6 +1700,7 @@ www.vcsm.hu
 www.veganpunjabi.delivery
 www.velvetboxsociety.com
 www.venomous-oman.com
+www.veralistcenter.org
 www.vercliente.store
 www.verfotos.org
 www.verificatucertificado.com
@@ -1689,10 +1708,12 @@ www.verify-account-meta.com
 www.verifymygooglebusiness.com
 www.verifypofpremiumaccount.com
 www.veronapress.com
+www.vesi.fi
 www.vetenskaphalsa.se
 www.vhec.org
 www.vial-bondon.fr
 www.victoriaadvocate.com
+www.videostory.com
 www.vidhionline.com
 www.vietnamworks.com
 www.vikka.ua
@@ -1705,12 +1726,14 @@ www.visionhumana.mx
 www.visitcollio.com
 www.visitingvienna.com
 www.viti-restaurant.de
+www.viviology.com.au
 www.viz.com
 www.vline.com.au
 www.vodafone.ie
 www.volgagermansportland.info
 www.vollmar-akademie.de
 www.volusionpentest1.com
+www.vons0dergren.no
 www.vpap.org
 www.vpnconsult.nl
 www.vtc-gwened-services.fr
