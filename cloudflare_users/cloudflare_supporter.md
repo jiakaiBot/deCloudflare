@@ -44,6 +44,7 @@ Do not create new issue or we will close it as duplicate.
 | [0x__0@twitter](https://twitter.com/0x__0/status/1582075153676005376) | advertise |
 | [01227770316min2@twitter](https://twitter.com/01227770316min2/status/1385909202766508032) | advertise |
 | [021Brayoo@twitter](https://twitter.com/021Brayoo/status/1602594924091920386) | advertise |
+| [0339608959a@twitter](https://twitter.com/0339608959a/status/1606933443279204352) | advertise |
 | [05Tuns@twitter](https://twitter.com/05Tuns/status/1395807741583585281) | advertise |
 | [08l739@twitter](https://twitter.com/08l739/status/1561689134648934400) | advertise |
 | [1CristalHeart@twitter](https://twitter.com/1CristalHeart/status/1473671613144920067) | advertise |
