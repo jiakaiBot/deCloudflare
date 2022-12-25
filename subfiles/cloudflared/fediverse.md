@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,078 |
-| social | 3,111 |
+| social | 3,113 |
 | net | 2,605 |
 | org | 1,877 |
-| de | 1,719 |
+| de | 1,720 |
 
 
 - Mastodon, Pleroma, etc
@@ -1516,6 +1516,7 @@ Here's a list of public Fediverse services.
 | `andres.cat` | Yes |
 | `andresbilevich.com` | No |
 | `andresen.mx` | No |
+| `andrew.xyz` | No |
 | `andrewbaker.uk` | Yes |
 | `andrewbarnes.design` | No |
 | `andrewburgessphd.com` | No |
@@ -8320,6 +8321,7 @@ Here's a list of public Fediverse services.
 | `elarial.tech` | No |
 | `elastic-dystopia.asia` | Yes |
 | `elasticperch.com` | Yes |
+| `elastihost.social` | No |
 | `elastos.social` | Yes |
 | `elb.cloud` | No |
 | `elbblick.org` | No |
@@ -8744,6 +8746,7 @@ Here's a list of public Fediverse services.
 | `ery.kr` | No |
 | `eryptock.xyz` | No |
 | `erzbistum-hamburg.de` | No |
+| `es4.co` | Yes |
 | `esadhar.net` | No |
 | `esamecar.de` | No |
 | `escaperooms.social` | No |
@@ -18952,6 +18955,7 @@ Here's a list of public Fediverse services.
 | `mfr.social` | No |
 | `mfraters.net` | No |
 | `mftrhu.net` | No |
+| `mfunkenberg.de` | No |
 | `mfyo.biz` | No |
 | `mfz.jp` | No |
 | `mg-webservices.de` | No |
@@ -23205,6 +23209,7 @@ Here's a list of public Fediverse services.
 | `pepega.media` | No |
 | `pepepper.cf` | Yes |
 | `pepepper.net` | Yes |
+| `peppers.social` | No |
 | `peppyfish.com` | No |
 | `pepsi.zone` | No |
 | `perceptiontravel.tv` | Yes |
@@ -28724,6 +28729,7 @@ Here's a list of public Fediverse services.
 | `studiosabatino.it` | No |
 | `studiosjb.net` | No |
 | `studyabroad.social` | Yes |
+| `studyfun999.xyz` | Yes |
 | `stuebinm.eu` | No |
 | `stuffat2106.xyz` | Yes |
 | `stuffbets.com` | No |
@@ -29499,6 +29505,7 @@ Here's a list of public Fediverse services.
 | `techandbeer.social` | No |
 | `techbacon.social` | Yes |
 | `techbeat.in` | No |
+| `techbeat.news` | No |
 | `techbio.eu` | No |
 | `techcovenant.com` | No |
 | `techcrunch.com` | No |
@@ -34510,8 +34517,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,955 |
-| Normal | 26,512 |
+| Cloudflare | 7,957 |
+| Normal | 26,517 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
