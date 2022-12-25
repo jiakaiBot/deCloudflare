@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Japscan: "No results found" error after changing user agent](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/14675)
 - [Update from 2.5.2 to 2.6.2 breaks caddyfile](https://github.com/caddyserver/caddy/issues/5268)
 - [Can't update Humhub - Gateway Timeout 504 error](https://github.com/humhub/humhub/issues/5989)
 - [Enabled chunked transfers in LFS](https://github.com/go-gitea/gitea/issues/22233)
