@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,116 |
 | net | 2,607 |
 | org | 1,877 |
-| de | 1,721 |
+| de | 1,722 |
 
 
 - Mastodon, Pleroma, etc
@@ -19178,6 +19178,7 @@ Here's a list of public Fediverse services.
 | `minadoraserver.art` | No |
 | `minakodon.jp` | No |
 | `minarin.moe` | No |
+| `minbash.de` | Yes |
 | `mince.network` | No |
 | `mince.place` | No |
 | `mind-drop.jp` | No |
@@ -21883,6 +21884,7 @@ Here's a list of public Fediverse services.
 | `nyoho.jp` | No |
 | `nyoki.club` | No |
 | `nyoom.io` | Yes |
+| `nyoroooon.xyz` | No |
 | `nyoxfox.com` | Yes |
 | `nypost.com` | Yes |
 | `nyquist.rocks` | No |
@@ -34541,8 +34543,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,962 |
-| Normal | 26,536 |
+| Cloudflare | 7,963 |
+| Normal | 26,537 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
