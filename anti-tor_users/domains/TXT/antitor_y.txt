@@ -276,8 +276,10 @@ an.yandex.ru
 app14.yellow-page.us
 asset.yes.my
 b90.yahoo.co.jp
+back.logintemplate.youngfog.cn
 baseball.yahoo.co.jp
 click.sf.yumobile.co.jp
+cms-cdn.yo-digital.com
 coinbasecoml0gin.yahoosites.com
 coinbasecomllogin.yahoosites.com
 coinbasee-prologin.yahoosites.com
@@ -296,6 +298,7 @@ files.yezdo.com
 git.git.gitlab.gitlab.gitlab.git.gmail.yugprom.com
 git.gstore.alibaba-office.yatakeaway.com
 inbank.yofin.ru
+information-update-acc.yacxoce.com
 insurance.yesbank.in
 invoicexpressnew.yesbank.in
 iovmxrwu.xnsujetf.uhratkfs.hrweb.yalecarolinas.com
@@ -307,9 +310,11 @@ next.yusen-logistics.com
 ohrmiank.rdyzxmef.julyngsa.hrweb.yalecarolinas.com
 prambanan.yokke.co.id
 pvtag.yahoo.co.jp
+qljovucx.rdyzxmef.julyngsa.hrweb.yalecarolinas.com
 rdyzxmef.julyngsa.hrweb.yalecarolinas.com
 redirect.appmetrica.yandex.com
 refactor-alerts.mf-yss.yousee.dk
+rest.yafacture.com
 revisions.go.yj.fr
 safeway.yahia.fr
 sig-inbank.yofin.ru
@@ -324,6 +329,7 @@ v-btaajmpai6.wc.yahoodns.net
 v-c455axy6dy.wc.yahoodns.net
 v-crd7q2u3op.wc.yahoodns.net
 v-cvktbosoyn.wc.yahoodns.net
+vriwsogp.lwdybhnz.uhratkfs.hrweb.yalecarolinas.com
 webdisk.yacovid.com
 webmail.yacovid.com
 webmail.yogamylife.site
@@ -333,6 +339,7 @@ www.billing.yourhostings.net
 www.clients.yukimedia.co.uk
 www.identity.yukimedia.co.uk
 www.occup-confirm-ation-lite-fr.go.yj.fr
+www.qr.yummydelivery.et
 www.redirexaccount09732184.clav3097521.go.yj.fr
 www.updateimmo.go.yo.fr
 www.uspost.yunrl.cn
@@ -386,8 +393,8 @@ yournamewebsite.com
 yourrugdepot.com
 yoursafestinvestment.com
 youthmediaaction.com
-yuckcontrol.com
 yukisecurity24.com.vn
+yupintang.org
 yushu.or.jp
 yuyuyu.yutaroblog.org
 yvonnemarcwedding.nl
