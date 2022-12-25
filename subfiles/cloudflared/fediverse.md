@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,079 |
-| social | 3,114 |
+| social | 3,115 |
 | net | 2,606 |
 | org | 1,877 |
 | de | 1,720 |
@@ -1411,6 +1411,7 @@ Here's a list of public Fediverse services.
 | `amk.ie` | Yes |
 | `amk.pub` | No |
 | `aml.ink` | Yes |
+| `amling.social` | No |
 | `ammafa.events` | No |
 | `amnesiak.org` | No |
 | `amnz.jp` | No |
@@ -34532,7 +34533,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,960 |
-| Normal | 26,528 |
+| Normal | 26,529 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
