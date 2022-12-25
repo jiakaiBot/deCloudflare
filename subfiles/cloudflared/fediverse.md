@@ -25515,6 +25515,7 @@ Here's a list of public Fediverse services.
 | `rhg135.com` | No |
 | `rhino-inquisitor.com` | Yes |
 | `rhino.cards` | No |
+| `rhinofore.st` | No |
 | `rhinoworks.info` | No |
 | `rhizome.org` | Yes |
 | `rhizome.social` | Yes |
@@ -34526,7 +34527,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,959 |
-| Normal | 26,523 |
+| Normal | 26,524 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
