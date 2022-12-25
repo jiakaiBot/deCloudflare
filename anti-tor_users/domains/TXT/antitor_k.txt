@@ -1209,6 +1209,7 @@ adfs.ksthky.fi
 amp.kentucky.com
 api-map-service.kai.sn
 api.cadro.kaldi.si
+api.janushenderson.hub.kaizenreporting.com
 api.kaisservices.co.uk
 api.karmak.io
 api.keepo.io
@@ -1220,6 +1221,7 @@ apps.facebook.com.deroullatte.xyz.kdent-shop.com
 ar.kizasi-made-with-japan.com
 autodiscover.katyroblog.com
 autodiscover.kinitrologoukaipsixis.gr
+aws1.klinge.com.au
 b2b.kinitro-exartimata.gr
 bed-and-breakfast.kunden-server.net
 clement-forms-xoxoxosafe.share.dev.kizeo.dev
@@ -1244,11 +1246,14 @@ dc1-st.ksn.kaspersky-labs.com
 dd19224.kasserver.com
 dev.discord.kamuiverse.com
 devpop.komm-services.de
+discododo.kantaloup.org
 dns.keweon.center
 ebmsbeta.kayalabbi.com
 ebook-author.kangjessy.id
 email.f.kajabimail.net
+email.y.kajabimail.net
 emmcheck.klantdemo.nl
+enty11-bk.mufgg.jp.kmzzyg.com
 erp.kkl.gov.tw
 eset.kontorbutikken.dk
 estold.kometaservice.ro
@@ -1258,6 +1263,7 @@ fedex-track.co.nz.kora.et
 fg250.keap-link011.com
 fis-en-us-stage-portal.kitsys.net
 fis.keyfactorpki.com
+fs.kakubundo.jp
 funds.kotaksecurities.com
 gfs1-stg.glb.kworld.kpmg.com
 git.git.git.gitlab.git.git.autodiscover.kulibindelivery.ru
@@ -1273,6 +1279,7 @@ gitlab.www.covid19.ktk-construct.cz
 gmail1.kajakktyper.com
 gov.kakaowork.com
 grueil.kunder2-guru-utvikling.no
+ha.komish.de
 helpdesk.klinikberdikari.id
 id.aruba.kfv-main-tauber.com
 inpro-dev.kfintech.com
@@ -1283,6 +1290,7 @@ ivrcaller.klearcom.com
 ja.kyoto.travel
 jamiesmartltd.keap-link004.com
 joebaumg-bfe7.20221218-1-debug-1.dev02-oke.koerberpd.com
+jssy.kingsoft.com
 k2-blog.com
 k4serviceltd.co.uk
 k9alert.org
@@ -1310,6 +1318,7 @@ karootradingpost.com
 karpadev.karpalabs.com
 karsaindo-security.com
 kartei.io
+karunapictures.com
 katharinenhof.net
 katjiestekoop.online
 katugiya.com
@@ -1322,6 +1331,7 @@ kbo-iak.de
 kbo-kinderzentrum-muenchen.de
 kcra.com
 kcsoftwares.com
+kdhnews.com
 keauferschutz-renate.de
 kebunhoki.com
 keisartwo.com
@@ -1332,8 +1342,10 @@ keka-cold.ru
 kellacampbell.com
 kelley-ross.com
 kelloggindia.com
+kellymariemurphy.com
 kentucky.com.do
 kentuckyfuckery.net
+kepowin.com
 keracomp.fi
 kerbersports.com
 kerchansheequipment.com
@@ -1342,6 +1354,7 @@ kesher-tel.com
 ketteringtowingservice.com
 kezual.com
 kfdm.com
+kfmall.com.tw
 kgcworkshop.com.sg
 khelochagabia.com
 khoinghiep247.com
@@ -1370,6 +1383,7 @@ kitarticle.com
 kitchenequipmentdubai.com
 kitpass.karpagamhelpdesk.in
 kittech.fr
+kizamu.com
 klarauberet.ru
 klimabuendnis-hamm.de
 klinix.com
@@ -1385,6 +1399,7 @@ knowproz.com
 knoxbronson.com
 koalixu.com
 kodiaksafety.com
+kodmatic.com
 koi-memo.com
 koiw.info
 kolaleipzig.de
@@ -1409,6 +1424,7 @@ kratomverify.com
 krav-magazin.com
 kravmaga-ev.de
 kravmaga-sun.de
+kreativfieber.de
 kreativna-europa.ba
 krediti.biz
 krenirakennuspalvelu.fi
@@ -1421,7 +1437,7 @@ ktvl.com
 ktxs.com
 kube.travel
 kud-wafter.jp
-kufun.online
+kudway.go.th
 kukadoo.com
 kulakperek.shop
 kulutusluotto.com
@@ -1443,6 +1459,7 @@ login.kalari.app
 login.ksif.or.kr
 loj291.keap-link008.com
 mail-gmailaccount-agento2.securemail.kvamsellanraa.no
+mail.discododo.kantaloup.org
 mail.kind-life-japan.com
 mail.kyftransporteyservicios.cl
 mail2.knebel-partner.de
@@ -1468,6 +1485,7 @@ portal.kalmarlanstrafik.se
 portal.kim.pl
 redmine.kyotorobotics.co.jp
 rtf-dev.kayaneetech.com
+s.kens.cc
 secure.kureex.com
 seminarhauspartner.kunden-server.net
 share.kumc.edu
@@ -1581,6 +1599,7 @@ www.kiiitv.com
 www.kikitaxservice.com
 www.killmybill.be
 www.kimchimama.de
+www.king-jouet.com
 www.kinitrokaikinisi.gr
 www.kinu-restoranas.com
 www.kinyradio.com
@@ -1594,6 +1613,7 @@ www.klambt.de
 www.klaus-service.bmw
 www.klee-service.bmw
 www.kmbc.com
+www.kmkservice.dk
 www.kmltechcompany.com.br
 www.knuba.edu.ua
 www.koco.com
@@ -1601,6 +1621,7 @@ www.koeitecmoeurope.com
 www.koholiornem4reps.com
 www.kokuyo-st.co.jp
 www.komera-bc-services-ltd.kasuwaniger.com
+www.komonews.com
 www.komu.com
 www.konamistyle.jp
 www.kopp.eu
@@ -1684,6 +1705,7 @@ www.makague.khulappservice.com
 www.monthlyupdate.kristen-welsh.com
 www.nordcon.kunder2-guru-utvikling.no
 www.nssupport.kevinmullins.com
+www.onineshopsupport.khaniz.com
 www.pagarrumah.kawankitasolusindo.com
 www.pikavippi-heti.kulutusluotto.com
 www.postal.kzblock.com
