@@ -3087,6 +3087,7 @@ Do not create new issue or we will close it as duplicate.
 | [GarrettsNetwork@twitter](https://twitter.com/GarrettsNetwork/status/1475938283850973195) | advertise |
 | [GarywMonoch@twitter](https://twitter.com/GarywMonoch/status/1573172912261337088) | advertise |
 | [gasbrbn@twitter](https://twitter.com/gasbrbn/status/1555948590492635137) | advertise |
+| [gasieuthimaume1@twitter](https://twitter.com/gasieuthimaume1/status/1606965509219844096) | advertise |
 | [gatito9420@twitter](https://twitter.com/gatito9420/status/1573395463965143041) | advertise |
 | [gatoflood@twitter](https://twitter.com/gatoflood/status/1577675897657856000) | advertise |
 | [gaung3579@twitter](https://twitter.com/gaung3579/status/1597640312460935170) | advertise |
@@ -5051,8 +5052,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
