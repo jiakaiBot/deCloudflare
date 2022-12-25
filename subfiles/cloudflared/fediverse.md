@@ -4364,6 +4364,7 @@ Here's a list of public Fediverse services.
 | `campusgemeinde.de` | No |
 | `camthoms.com` | Yes |
 | `canadafriendfinder.com` | No |
+| `canalsidecoach.app` | Yes |
 | `canard.club` | No |
 | `canard.tube` | No |
 | `canarygateway.com` | No |
@@ -9482,6 +9483,7 @@ Here's a list of public Fediverse services.
 | `fedja.fi` | No |
 | `fedpi.de` | No |
 | `fedposters.club` | No |
+| `fedposting.club` | No |
 | `fedposting.org` | Yes |
 | `fedposting.site` | Yes |
 | `fedre.land` | No |
@@ -16108,6 +16110,7 @@ Here's a list of public Fediverse services.
 | `larrysanger.org` | Yes |
 | `larsen.social` | No |
 | `larvata.com` | No |
+| `las.rs` | No |
 | `lasanha.org` | No |
 | `lascapi.fr` | No |
 | `laserbeam.productions` | No |
@@ -17011,6 +17014,7 @@ Here's a list of public Fediverse services.
 | `lonet.org` | Yes |
 | `longcovid.social` | No |
 | `longden.me` | No |
+| `longlandclan.id.au` | No |
 | `longlines.org` | No |
 | `longmusic.com` | No |
 | `longreads.com` | No |
@@ -34517,8 +34521,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,957 |
-| Normal | 26,517 |
+| Cloudflare | 7,958 |
+| Normal | 26,520 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
