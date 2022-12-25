@@ -3296,6 +3296,7 @@ Do not create new issue or we will close it as duplicate.
 | [h3ll4lyf@twitter](https://twitter.com/h3ll4lyf/status/1572112629409390592) | advertise |
 | [h4ck3rkor_ghost@twitter](https://twitter.com/h4ck3rkor_ghost/status/1568312588588695553) | advertise |
 | [h29id@twitter](https://twitter.com/h29id/status/1370211563068551170) | advertise |
+| [h95009495@twitter](https://twitter.com/h95009495/status/1606859215884386304) | advertise |
 | [HabibPwx@twitter](https://twitter.com/HabibPwx/status/1594753343729057802) | advertise |
 | [HabijulKhan8@twitter](https://twitter.com/HabijulKhan8/status/1405041121261080576) | advertise |
 | [hachung1710@twitter](https://twitter.com/hachung1710/status/1564972921746903041) | advertise |
@@ -9029,6 +9030,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sep19810@twitter](https://twitter.com/Sep19810/status/1403778268524806144) | advertise |
 | [sepehrmohaghegh@twitter](https://twitter.com/sepehrmohaghegh/status/1577881648506576898) | advertise |
 | [septicloneduap1@twitter](https://twitter.com/septicloneduap1/status/1587472034212515840) | advertise |
+| [SERAJPUBG7@twitter](https://twitter.com/SERAJPUBG7/status/1606858784835502080) | advertise |
 | [Seraphino2021@twitter](https://twitter.com/Seraphino2021/status/1391001738505637893) | advertise |
 | [SergioBruja@twitter](https://twitter.com/SergioBruja/status/1383807911781015563) | advertise |
 | [Seth12888249@twitter](https://twitter.com/Seth12888249/status/1391277120844873728) | advertise |
