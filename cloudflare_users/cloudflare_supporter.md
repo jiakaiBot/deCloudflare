@@ -1100,6 +1100,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungZin85246702@twitter](https://twitter.com/AungZin85246702/status/1395941143179710468) | advertise |
 | [AungZin89580728@twitter](https://twitter.com/AungZin89580728/status/1390098630879498240) | advertise |
 | [AungZweMarn2@twitter](https://twitter.com/AungZweMarn2/status/1387380277547208705) | advertise |
+| [aupeo@twitter](https://twitter.com/aupeo/status/1607030623943954432) | advertise |
 | [Aurk2beeS@twitter](https://twitter.com/Aurk2beeS/status/1561981490057158657) | advertise |
 | [Auroprex@twitter](https://twitter.com/Auroprex/status/1376780261560512513) | advertise |
 | [AUR_BATAO__@twitter](https://twitter.com/AUR_BATAO__/status/1396083478052040711) | advertise |
@@ -3159,6 +3160,7 @@ Do not create new issue or we will close it as duplicate.
 | [GidInw@twitter](https://twitter.com/GidInw/status/1563619614936158214) | advertise |
 | [gigagagagago@twitter](https://twitter.com/gigagagagago/status/1552655280831627266) | advertise |
 | [gigasharkio@twitter](https://twitter.com/gigasharkio/status/1559733024425639942) | advertise |
+| [giibic11@twitter](https://twitter.com/giibic11/status/1607044901610323970) | advertise |
 | [gil6508343915@twitter](https://twitter.com/gil6508343915/status/1505250862767087617) | advertise |
 | [gimanadotkom@twitter](https://twitter.com/gimanadotkom/status/1383989601493164041) | advertise |
 | [gindaGill9@twitter](https://twitter.com/gindaGill9/status/1377649793418297345) | advertise |
@@ -5055,8 +5057,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -8501,6 +8503,7 @@ Do not create new issue or we will close it as duplicate.
 | [RealDNewsMag@twitter](https://twitter.com/RealDNewsMag/status/1441466401781211137) | advertise |
 | [RealFaizAhmed1@twitter](https://twitter.com/RealFaizAhmed1/status/1402941244456775687) | advertise |
 | [realfaizalkha1@twitter](https://twitter.com/realfaizalkha1/status/1559374629264826368) | advertise |
+| [Realfileing@twitter](https://twitter.com/Realfileing/status/1607037458541154305) | advertise |
 | [RealFTG2@twitter](https://twitter.com/RealFTG2/status/1425143438551490564) | advertise |
 | [RealJB303@twitter](https://twitter.com/RealJB303/status/1603718927959216129) | advertise |
 | [realKUZNETSOV@twitter](https://twitter.com/realKUZNETSOV/status/1510345313567006731) | advertise |
