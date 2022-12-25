@@ -10361,7 +10361,7 @@ Here's a list of public Fediverse services.
 | `fro.ge` | Yes |
 | `frog.camp` | No |
 | `frog.fashion` | Yes |
-| `frogcat.club` | Yes |
+| `frogcat.club` | No |
 | `frogdrool.net` | No |
 | `frogeye.fr` | No |
 | `froghat.ca` | No |
@@ -22707,7 +22707,7 @@ Here's a list of public Fediverse services.
 | `p.lu` | Yes |
 | `p0.pm` | Yes |
 | `p0lymer.net` | No |
-| `p0wn3d.com` | Yes |
+| `p0wn3d.com` | No |
 | `p1k3.com` | No |
 | `p1ng0ut.social` | No |
 | `p1x.in` | No |
@@ -24398,7 +24398,7 @@ Here's a list of public Fediverse services.
 | `pueseso.club` | No |
 | `puff.place` | No |
 | `puffer.blog` | Yes |
-| `puffin.social` | No |
+| `puffin.social` | Yes |
 | `pug.family` | No |
 | `pug.photos` | No |
 | `pug.social` | No |
@@ -32691,6 +32691,7 @@ Here's a list of public Fediverse services.
 | `webdancers.com` | No |
 | `webdev.community` | Yes |
 | `webdev.network` | No |
+| `webdev189.tk` | No |
 | `webdevnerds.tech` | No |
 | `webdevs.social` | No |
 | `weber.fi.eu.org` | No |
@@ -34462,8 +34463,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,939 |
-| Normal | 26,480 |
+| Cloudflare | 7,938 |
+| Normal | 26,482 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
