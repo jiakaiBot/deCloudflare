@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,073 |
-| social | 3,104 |
-| net | 2,599 |
+| social | 3,105 |
+| net | 2,600 |
 | org | 1,876 |
 | de | 1,717 |
 
@@ -12038,7 +12038,7 @@ Here's a list of public Fediverse services.
 | `haikara.party` | No |
 | `hails.org` | No |
 | `hairydiode.xyz` | No |
-| `hairyfupa.com` | No |
+| `hairyfupa.com` | Yes |
 | `hairylarry.rocks` | No |
 | `haj.gf` | No |
 | `haja.nz` | No |
@@ -14712,6 +14712,7 @@ Here's a list of public Fediverse services.
 | `junkyard.quest` | No |
 | `junna.moe` | No |
 | `jupiter.tube` | No |
+| `jupiterslanding.social` | No |
 | `jurablogs.com` | No |
 | `jurassic.network` | Yes |
 | `jurgenfranse.nl` | No |
@@ -21948,6 +21949,7 @@ Here's a list of public Fediverse services.
 | `oddly-influenced.dev` | No |
 | `oddnetwork.org` | No |
 | `oddprocess.social` | No |
+| `oddte.ch` | Yes |
 | `oddvacado.com` | No |
 | `oddz.blog` | No |
 | `odenwald.social` | No |
@@ -32651,6 +32653,7 @@ Here's a list of public Fediverse services.
 | `waxandleather.com` | Yes |
 | `waxwing.studio` | Yes |
 | `wayde.tech` | Yes |
+| `waymeet.net` | Yes |
 | `wayne.social` | No |
 | `waytoo.online` | No |
 | `waytoohip.com` | No |
@@ -34470,7 +34473,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,941 |
+| Cloudflare | 7,944 |
 | Normal | 26,486 |
 
 
