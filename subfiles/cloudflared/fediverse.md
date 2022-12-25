@@ -5466,7 +5466,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -33258,6 +33258,7 @@ Here's a list of public Fediverse services.
 | `worldsmith.org` | No |
 | `worldtravel.photos` | No |
 | `worm.horse` | No |
+| `worm.pink` | No |
 | `wormers.net` | No |
 | `wormhole.eu` | No |
 | `worst-friends.chat` | Yes |
@@ -34474,7 +34475,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,946 |
+| Cloudflare | 7,947 |
 | Normal | 26,485 |
 
 
