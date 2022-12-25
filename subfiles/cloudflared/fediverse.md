@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,073 |
 | social | 3,104 |
-| net | 2,598 |
+| net | 2,599 |
 | org | 1,876 |
 | de | 1,717 |
 
@@ -3977,6 +3977,7 @@ Here's a list of public Fediverse services.
 | `britishbogroll.com` | No |
 | `brittg.com` | Yes |
 | `brjuno.com` | No |
+| `brk.io` | No |
 | `brnrs.pl` | No |
 | `brnt.cr` | No |
 | `broccoli.si` | No |
@@ -12172,6 +12173,7 @@ Here's a list of public Fediverse services.
 | `haru2036.com` | No |
 | `haruhi-mstdn.club` | No |
 | `haruk.in` | Yes |
+| `harumakizaemon.net` | No |
 | `harusamex.com` | No |
 | `haruska.social` | Yes |
 | `harvard.edu` | Yes |
@@ -18457,6 +18459,7 @@ Here's a list of public Fediverse services.
 | `matts.network` | No |
 | `mattstenson.com` | Yes |
 | `mattwilson.org` | No |
+| `mattyaski.co` | Yes |
 | `mattyatea.me` | Yes |
 | `matubusi.com` | No |
 | `matus.faith` | No |
@@ -18948,6 +18951,7 @@ Here's a list of public Fediverse services.
 | `mhz.social` | No |
 | `mi-chan.ml` | No |
 | `mi-chan.work` | No |
+| `mi-wo.site` | Yes |
 | `mi2428.net` | No |
 | `miao.dev` | Yes |
 | `miaochann.com` | Yes |
@@ -24906,6 +24910,7 @@ Here's a list of public Fediverse services.
 | `ralsei.moe` | No |
 | `ralsina.me` | Yes |
 | `ram.lgbt` | Yes |
+| `rama3.jp` | No |
 | `ramble.moe` | Yes |
 | `ramble.space` | No |
 | `rambleon.social` | No |
@@ -24965,6 +24970,7 @@ Here's a list of public Fediverse services.
 | `ranranhome.info` | Yes |
 | `ranranhome.site` | No |
 | `ransom.buzz` | Yes |
+| `rant.li` | Yes |
 | `rants.au` | Yes |
 | `rants.org` | No |
 | `rantz.xyz` | No |
@@ -34021,6 +34027,7 @@ Here's a list of public Fediverse services.
 | `yufarch.com` | No |
 | `yugioh.social` | No |
 | `yujinakao.com` | No |
+| `yujitamura.blog` | No |
 | `yuka.dev` | No |
 | `yukari.cafe` | Yes |
 | `yukari.cloud` | Yes |
@@ -34463,8 +34470,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,938 |
-| Normal | 26,482 |
+| Cloudflare | 7,941 |
+| Normal | 26,486 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
