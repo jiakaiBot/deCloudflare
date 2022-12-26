@@ -435,7 +435,6 @@ dynomotion.dynomotion.biz
 dynomusic.co.uk
 dynopulls.com
 dynoracing.com
-dynorobux.com
 dynotech-solutions.com
 dynovaleting.com
 dynoyes.com
@@ -499,8 +498,6 @@ harlingsecurity-staging.digitalgarden.co
 harwicks-art.deviantart.com
 health.demowebsiteclient.com
 help.digitalprachar.app
-helpdesk-account18.dns.army
-helpdesk-supports154.dns.army
 herbal.doordelivery.pk
 holivi.deviantart.com
 hr.disano.it
@@ -700,7 +697,6 @@ support.digitalvirgo.com
 support.dijitli.com
 support.discord-accounts.ru
 support.dispatchanywhere.com
-supports-smbc1545.dns.army
 surgut.dom-electric.ru
 survey-qu1.deutschebahn.com
 sync.datacomcloud.co.nz
@@ -2262,6 +2258,7 @@ zm.davrbank.uz
 3sisecurity.durkancloud.net
 4639639.www.pma.discord-accounts.ru
 74e1170ee16343b1a5629b4750ed5b1c.svc.dynamics.com
+8150817.fls.doubleclick.net
 89590d3010da4c869306ed4e8a513386.svc.dynamics.com
 90f44e59ea464486adcc48318e1c30c7.svc.dynamics.com
 a67j840kdgnodbwww.pma.discord-accounts.ru
@@ -2309,6 +2306,7 @@ auth2.doitbestcorp.com
 authomaatischz1.dynv6.net
 autoconfig.discworld-convention.de
 autodiscover.daftarcasino.site
+autodiscover.degallinas.site
 autodiscover.disco-entertainment.co.uk
 autodiscover.discoduroexternoonline.top
 autodiscover.discordhosting.com
@@ -2334,11 +2332,13 @@ bafybeihnwieu7fenrmt22rhzliqeqplnjfn5sfm7amebtt5o4pfexh4o4e.ipfs.dweb.link
 bbc.depanne.be
 beck-pbx.debesis.pl
 bi.dtsgroup.com.tw
+billing.dolphin.com.np
 bla2019.discord-accounts.ru
 blockchain-consent.datatrustee.org
 blockchainz.dkvfamedic.plus
 bodyinnovations.demowebsiteclient.com
 bot.devmachine.tech
+bot.discord-acc.ru
 bot1.discord-manager.fr
 bowling.demowebsiteclient.com
 bpdphrikalsehost.discord-accounts.ru
@@ -2378,6 +2378,7 @@ cp.discord-acc.ru
 cpanel.desentechdesentupidora.com.br
 cpanel.discardedmedia.com
 cpanel.discoduroexternoonline.top
+cpanel.discordgamepass.com
 cpanel.discordhosting.com
 cpanel.discorvi.com
 cpanel.dsmg-sinait.org.br
@@ -2391,6 +2392,7 @@ cpcalendars.davincicabinets.ca
 cpcalendars.davincitlv.com
 cpcalendars.device-icloud.com
 cpcalendars.discardedmedia.com
+cpcalendars.discordgamepass.com
 cpcalendars.discordhosting.com
 cpcalendars.discordiastudios.com
 cpcalendars.discoroyaal.nl
@@ -2412,6 +2414,7 @@ cpcontacts.between-the-hedges.digital-disco-services.co.uk
 cpcontacts.dailymercedes-benz.com.vn
 cpcontacts.dataprotect.ph
 cpcontacts.dekapai56789.site
+cpcontacts.discordgamepass.com
 cpcontacts.discordhosting.com
 cpcontacts.discordiastudios.com
 cpcontacts.discorvi.com
@@ -2433,7 +2436,9 @@ csirt.divd.nl
 customer.mr-128.devtastic.nl
 customerservice.disabilityrms.com
 d-auth.dentsu.co.jp
+da.d211.org
 da.dpd.nl
+dadinurdiansah.com
 dafinancial-services.com
 dagnygrant.com
 dailybangladeshupdate.com
@@ -2443,6 +2448,7 @@ dailyruposibangladesh.com
 daks-japan-shoponline-onwardkashiyama.com
 dakshyacareeracademy.com.np
 damianilux.md
+damyfx.eu
 dancingjuices.com
 dandeli-resorts-packages.com
 dandelipackage.in
@@ -2466,6 +2472,7 @@ das-kann-bk.de
 das-schokoladenmaedchen.de
 das.al
 dasa.net
+data-caq.me
 databet88.asia
 datachamber.com.ng
 datacloudin.com
@@ -2477,6 +2484,7 @@ dataxapi.data-x.ai
 datenaustausch-deutschland-page-group.com
 datenschutz-agentur.de
 dav.discordia.ch
+davinci1.dpages.co
 davinciforensics.co.za
 davyoauto.ro
 dbpedia.org
@@ -2557,6 +2565,7 @@ devesdee.deves.co.th
 devletyardimi.net
 devodimension.com
 devrim.im
+devsam.my.id
 devsofteaven.com
 dewaslot777.co
 df.se.com
@@ -2608,13 +2617,16 @@ discoduroexternoonline.top
 discografiasenmega.com
 discoproperty.com
 discord-bot.dns.navy
+discord.der-blutige-neuner.net
 discord.die-marktradikalen.cc
 discord.silenttblog.w.derinport.net
 discordalpha.com
 discordcudayi.com
 discordfootball.com
+discordgamepass.com
 discordhosting.com
 discordia.uk
+discordoauth.ga
 discoride.ru
 discoroles.store
 discorvi.com
@@ -2625,6 +2637,7 @@ discouraged-site57r.tk
 discourse.dynomotion.com
 discoursedash.com
 discourseflarum.my.id
+discourtserslongsfin.cf
 discoverymachine.com
 discovreducation.com
 discproduction24.com
@@ -2652,6 +2665,7 @@ dmptcourse.com
 dmsappstore.com
 dniotwarte.eu
 dnsprivacy.org
+dntb.net
 docarmor.click
 doccument.net
 doctor24h.net
@@ -2712,6 +2726,7 @@ dscit.sa
 dsybank.com
 dsymphony.com
 dtbot.directtalk.com.br
+dtlpi.dealertrack.com
 dtsuat.qatar.dlrcertify.com
 dttyypffulrbwwqvzcrd.objects-us-east-1.dream.io
 dtvbangla.tv
@@ -2748,6 +2763,7 @@ dynolion.com
 dynolt.com
 dynomaxg.com
 dynometrodrainage.draingain.co.uk
+dynoo.de
 dynopiste.fi
 dynorob.com
 dynorodcentral.com
@@ -2856,6 +2872,7 @@ ica.dipostar.com
 idp.prod.carrefour.diffractive.io
 ikt-hd.dsmynas.com
 img.dailycafe.co.kr
+in.mdemail.discord-accounts.ru
 int.kyc.deutschebank.be
 invicdn.dynomeshcdn.net
 inyourarea.digdat.co.uk
@@ -2881,6 +2898,7 @@ m.discord-accounts.ru
 mail.253global.com.ahttsitemaps.discord-store.ru
 mail.dallascommunitynews.us
 mail.discoduroexternoonline.top
+mail.discordgamepass.com
 mail.discordhosting.com
 mail.discorvi.com
 mail.dooraudit.com.au
@@ -2890,10 +2908,12 @@ mail.dynobulldog.com
 mail.dynogames.jp
 mail.dynomaui.com
 mail.dynotuning.net.au
+mail.portalv3.dynotestedfiles.com
 maprest.dynamicdiscord.de
 maraimhennaartist.discoveryecommerce4.co.uk
 membership-amazon24h-support.com.derhosting.ma
 message-rtr-edu.cbp.dhs.gov
+metamask202305.dedyn.io
 meumundomaiswww2.discord-accounts.ru
 mijn.deschutse.net
 mindful-journey.demowebsiteclient.com
@@ -2932,6 +2952,7 @@ ops-corpsite.darksa.com
 ops.deloitteconference.com
 orders.deansstationery.co.za
 outandaboutpensacosmtp.discord-accounts.ru
+owa.discord-accounts.ru
 pagaragung.desacantik.online
 palletize.demowebsiteclient.com
 parkingcashless.denbighshire.gov.uk
@@ -2946,6 +2967,7 @@ pi-dv-app.dairyfarmgroup.com
 pimvdvossen.disco-dj.nl
 platform.anna1.drugdevdev.com
 portal.devriesretail.nl
+portalv3.dynotestedfiles.com
 pos.discord-accounts.ru
 postfixadmin.descours.cc
 postoapoloadm.ddns.com.br
@@ -2979,6 +3001,7 @@ shop.admin.discord-accounts.ru
 shop.dawnfoods.com
 shop.discord-acc.ru
 shop.email.discord-accounts.ru
+shop3.dynotestedfiles.com
 shopify.discord-store.ru
 sirserver.dynovski.xyz
 sjalan.demoserver.co.in
@@ -2987,6 +3010,7 @@ smkmuda.dikdasmenpaciran.my.id
 smservice.digitalmarketerguru.com
 softpcsecure.dedyn.io
 ssl.discord-accounts.ru
+sso.accounts.dowjones.com
 stage-origin-nrd-static.nhtsa.dot.gov
 stage-origin-nrd.nhtsa.dot.gov
 stage.discord-accounts.ru
@@ -3050,6 +3074,7 @@ webdisk.dcs-japan.com
 webdisk.device-icloud.com
 webdisk.dimani-rakuten.site
 webdisk.discoduroexternoonline.top
+webdisk.discordgamepass.com
 webdisk.discordhosting.com
 webdisk.discordiastudios.com
 webdisk.discorvi.com
@@ -3068,16 +3093,20 @@ webdisk.dynomiteheadlite.com
 webdisk.dynomob.com
 webdisk.dynotestcenter.fi
 webdisk.dynotuning.net.au
+webdisk.katrincoitoguarwww.admin.discord-accounts.ru
 webdisk.placeholder.davincisoap.com
+webmail.degallinas.site
 webmail.dejongmail.nl
 webmail.dekapai56789.site
 webmail.dhc-solvent.de
 webmail.discoduroexternoonline.top
+webmail.discordgamepass.com
 webmail.discordhosting.com
 webmail.discorvi.com
 webmail.dsmg-sinait.org.br
 webmail.dynobulldogs.com
 webmail.dynogames.jp
+webmail.dynoo.de
 webmail.dynotuning.net.au
 whm.discordhosting.com
 wiki.blog.discord-accounts.ru
@@ -3136,6 +3165,7 @@ www.daltonwatson.com
 www.damgan-partage.fr
 www.damoncroberts.com
 www.dangers-naturels.ch
+www.dankspresso.com
 www.darkdel.com
 www.darkhorizons.com
 www.darkskyconsulting.com
@@ -3152,6 +3182,7 @@ www.davenportlegalsupport.com
 www.davinci-graz.at
 www.davincik12.org
 www.davoli.fr
+www.dayin.melbourne.dna-accounts.com
 www.daysofwonder.com
 www.dazller.co.in
 www.dbs-login.com
@@ -3246,6 +3277,7 @@ www.donki.com
 www.doobox.co.uk
 www.doorstepapplianceservice.com
 www.dopracenakole.cz
+www.dori.si
 www.doriemillerpost213.org
 www.dospara.co.jp
 www.dougahaishin-service.com
@@ -3322,6 +3354,7 @@ www.newbluesky.demowebsiteclient.com
 www.nirvanapackage.designwebsiteasia.com
 www.pacetadventurestore.drwskincarebanten.com
 www.palletize.demowebsiteclient.com
+www.pedizap.deliverydigital.app.br
 www.phambili.demowebsiteclient.com
 www.postky.digitalistr.com
 www.pulserasdeactividad.net.downn.store
