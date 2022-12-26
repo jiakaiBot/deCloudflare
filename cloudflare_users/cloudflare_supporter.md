@@ -5467,6 +5467,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lam34989379@twitter](https://twitter.com/Lam34989379/status/1500010999960588288) | advertise |
 | [LamChi02566231@twitter](https://twitter.com/LamChi02566231/status/1402533776597475329) | advertise |
 | [lamduc321@twitter](https://twitter.com/lamduc321/status/1387107706796871680) | advertise |
+| [lamduong12124@twitter](https://twitter.com/lamduong12124/status/1607251325934522368) | advertise |
 | [LamHoan86896554@twitter](https://twitter.com/LamHoan86896554/status/1470579960981385219) | advertise |
 | [lamhz1@twitter](https://twitter.com/lamhz1/status/1394607383368716293) | advertise |
 | [laminthant3@twitter](https://twitter.com/laminthant3/status/1481053782868115456) | advertise |
