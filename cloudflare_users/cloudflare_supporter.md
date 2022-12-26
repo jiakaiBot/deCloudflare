@@ -1816,6 +1816,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChDng79664031@twitter](https://twitter.com/ChDng79664031/status/1551712285085016064) | advertise |
 | [CHE43888993@twitter](https://twitter.com/CHE43888993/status/1390611367195942914) | advertise |
 | [cheeryluvly2@twitter](https://twitter.com/cheeryluvly2/status/1401203225659912192) | advertise |
+| [chegekjames@twitter](https://twitter.com/chegekjames/status/1607231687313735680) | advertise |
 | [CHEKUTH66047936@twitter](https://twitter.com/CHEKUTH66047936/status/1401783579168763907) | advertise |
 | [ChelleV60@twitter](https://twitter.com/ChelleV60/status/1553220253760602112) | advertise |
 | [Chelle_n_Lulu@twitter](https://twitter.com/Chelle_n_Lulu/status/1596628650853797888) | advertise |
@@ -4569,6 +4570,7 @@ Do not create new issue or we will close it as duplicate.
 | [joki91564607@twitter](https://twitter.com/joki91564607/status/1382441461719924740) | advertise |
 | [jokosegoro86@twitter](https://twitter.com/jokosegoro86/status/1440170771238641672) | advertise |
 | [Jomaung1@twitter](https://twitter.com/Jomaung1/status/1397903092956372992) | advertise |
+| [jompubg@twitter](https://twitter.com/jompubg/status/1607236950213423104) | advertise |
 | [jonasclaesbe@twitter](https://twitter.com/jonasclaesbe/status/1563959778413535232) | advertise |
 | [jonatha53201761@twitter](https://twitter.com/jonatha53201761/status/1553054673716023296) | advertise |
 | [jonathanbourke@twitter](https://twitter.com/jonathanbourke/status/1473258607886143492) | advertise |
@@ -6354,6 +6356,7 @@ Do not create new issue or we will close it as duplicate.
 | [miltonD63111423@twitter](https://twitter.com/miltonD63111423/status/1385195789354369024) | advertise |
 | [milwdaslwni@twitter](https://twitter.com/milwdaslwni/status/1382945486441742337) | advertise |
 | [mimajharul@twitter](https://twitter.com/mimajharul/status/1399331088237957123) | advertise |
+| [Min58086908@twitter](https://twitter.com/Min58086908/status/1607236825348997125) | advertise |
 | [Min64451871@twitter](https://twitter.com/Min64451871/status/1395814516458332164) | advertise |
 | [min72518684@twitter](https://twitter.com/min72518684/status/1391212367640367107) | advertise |
 | [minaaa1995@twitter](https://twitter.com/minaaa1995/status/1391662384918368267) | advertise |
