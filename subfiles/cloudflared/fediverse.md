@@ -237,6 +237,7 @@ Here's a list of public Fediverse services.
 | `2137.social` | No |
 | `21x9.org` | No |
 | `2207.fr` | No |
+| `221b.uk` | Yes |
 | `22300-lannion.fr` | No |
 | `22decembre.eu` | No |
 | `238c.org` | No |
@@ -34779,7 +34780,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,008 |
+| Cloudflare | 8,009 |
 | Normal | 26,728 |
 
 
