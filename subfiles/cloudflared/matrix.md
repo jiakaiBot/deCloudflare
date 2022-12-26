@@ -69,6 +69,7 @@ Here's a list of public Matrix services.
 | matrix.hadoly.fr | No |
 | chatserver.hashi.sbs | Yes |
 | hot-chilli.im | No |
+| houtworm.im | No |
 | synapse.hyteck.de | No |
 | inetd.xyz | No |
 | matrix.jonasled.de | Yes |
@@ -82,7 +83,6 @@ Here's a list of public Matrix services.
 | mandragot.org | No |
 | matrix.im | No |
 | matrix.org | Yes |
-| matrix.monero.social | No |
 | mtrx.nz | No |
 | nibbana.jp | No |
 | nitro.chat | No |
