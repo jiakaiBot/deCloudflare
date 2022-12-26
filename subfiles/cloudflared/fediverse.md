@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,107 |
-| social | 3,119 |
-| net | 2,626 |
-| org | 1,890 |
+| com | 5,110 |
+| social | 3,120 |
+| net | 2,627 |
+| org | 1,892 |
 | de | 1,768 |
 
 
@@ -1136,6 +1136,7 @@ Here's a list of public Fediverse services.
 | `alduino.xyz` | Yes |
 | `ale-elements.ml` | No |
 | `aleatoire.net` | No |
+| `alejandromiranda.org` | No |
 | `aleksrudzitis.com` | No |
 | `alemi.dev` | No |
 | `alentours.cc` | No |
@@ -3870,6 +3871,7 @@ Here's a list of public Fediverse services.
 | `boyslove.jp` | No |
 | `boyter.org` | No |
 | `boz.fi` | No |
+| `bozg.se` | Yes |
 | `bozgor.org` | Yes |
 | `bozolord.ml` | Yes |
 | `bpconsulting.my` | No |
@@ -4060,6 +4062,7 @@ Here's a list of public Fediverse services.
 | `brunisholz.fr` | No |
 | `brunk.io` | No |
 | `bruno-tatu.com` | No |
+| `brunomassa.com` | Yes |
 | `brunopedro.com` | No |
 | `brunty.social` | Yes |
 | `brusilia.eu` | No |
@@ -4778,6 +4781,7 @@ Here's a list of public Fediverse services.
 | `chaos.social` | No |
 | `chaosandorder.net` | No |
 | `chaoscult.org` | Yes |
+| `chaosfem.tw` | No |
 | `chaosfield.at` | No |
 | `chaosfurs.social` | No |
 | `chaosgate.eu` | No |
@@ -6134,6 +6138,7 @@ Here's a list of public Fediverse services.
 | `cuezakuisgodofthe.world` | No |
 | `cuff.social` | No |
 | `cuiguan.com` | Yes |
+| `cuitan.id` | No |
 | `cujian.com` | No |
 | `cuken.net` | Yes |
 | `culair.nl` | No |
@@ -9373,6 +9378,7 @@ Here's a list of public Fediverse services.
 | `federicoigne.com` | No |
 | `fedgram.com` | No |
 | `fedi.agency` | No |
+| `fedi.ai` | No |
 | `fedi.app` | No |
 | `fedi.at` | No |
 | `fedi.bar` | Yes |
@@ -12877,6 +12883,7 @@ Here's a list of public Fediverse services.
 | `homelinux.net` | No |
 | `homenet.click` | Yes |
 | `homepc.it` | No |
+| `homeplex.org` | No |
 | `homeplex.tk` | No |
 | `homeset.de` | No |
 | `hometech.social` | No |
@@ -15513,6 +15520,7 @@ Here's a list of public Fediverse services.
 | `kittenapproved.com` | No |
 | `kittenme.ws` | No |
 | `kittenpanic.io` | No |
+| `kitties.gay` | No |
 | `kitty.church` | No |
 | `kitty.observer` | No |
 | `kitty.photos` | Yes |
@@ -16233,6 +16241,7 @@ Here's a list of public Fediverse services.
 | `lastauth.com` | No |
 | `lastbreach.tv` | No |
 | `lastfree.space` | No |
+| `lasthearth.net` | No |
 | `lastlight.cafe` | No |
 | `lastminute.one` | No |
 | `lastorder.xyz` | Yes |
@@ -18926,6 +18935,7 @@ Here's a list of public Fediverse services.
 | `mental.af` | No |
 | `mental.camp` | No |
 | `mental.social` | No |
+| `mentalarts.info` | No |
 | `mentalhealth-masto.com` | No |
 | `mentalhealth.social` | No |
 | `mentality.rip` | No |
@@ -20319,6 +20329,7 @@ Here's a list of public Fediverse services.
 | `murata.jp.net` | No |
 | `murcier.fr` | No |
 | `murder.town` | No |
+| `murderhobo.club` | No |
 | `murderhobos.party` | Yes |
 | `muretlabarba.de` | No |
 | `murf.org` | Yes |
@@ -22436,6 +22447,7 @@ Here's a list of public Fediverse services.
 | `opantu.net` | No |
 | `opantu.site` | No |
 | `opaque.social` | No |
+| `opayq.social` | Yes |
 | `opekkt.tech` | No |
 | `open-net.nl` | No |
 | `open-plug.eu` | No |
@@ -25805,6 +25817,7 @@ Here's a list of public Fediverse services.
 | `rknight.me` | No |
 | `rknv.cc` | Yes |
 | `rkor.info` | No |
+| `rkowl.com` | No |
 | `rkun.cf` | No |
 | `rkunkunr.com` | Yes |
 | `rkvssr.nl` | No |
@@ -28765,6 +28778,7 @@ Here's a list of public Fediverse services.
 | `steveroy.ca` | Yes |
 | `stevesnider.com` | No |
 | `stevestreza.com` | No |
+| `steviebobbins.com` | No |
 | `stevijo.me` | Yes |
 | `stfu.social` | Yes |
 | `stgt.social` | No |
@@ -28772,6 +28786,7 @@ Here's a list of public Fediverse services.
 | `sthorp.com` | Yes |
 | `sti.social` | No |
 | `stickbear.me` | Yes |
+| `stiehler.dev` | Yes |
 | `stiles.dev` | No |
 | `still-ai.net` | No |
 | `stilobique.com` | No |
@@ -30658,6 +30673,7 @@ Here's a list of public Fediverse services.
 | `tlfoxhuman.net` | No |
 | `tli.io` | No |
 | `tlmstdn.de` | No |
+| `tlo.xyz` | Yes |
 | `tls.zone` | Yes |
 | `tlsn.com` | No |
 | `tlsocial.de` | No |
@@ -34748,8 +34764,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,998 |
-| Normal | 26,707 |
+| Cloudflare | 8,003 |
+| Normal | 26,718 |
 
 
 ### 23% of public Fediverse services are using Cloudflare.
