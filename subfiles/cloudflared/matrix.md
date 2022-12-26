@@ -22,6 +22,7 @@ Here's a list of public Matrix services.
 | Service | Cloudflared |
 | --- | --- |
 | 0wnz.at | No |
+| agdersam.no | No |
 | riot.allmende.io | No |
 | alternanet.fr | No |
 | anonymousland.org | No |
@@ -68,7 +69,6 @@ Here's a list of public Matrix services.
 | matrix.hadoly.fr | No |
 | chatserver.hashi.sbs | Yes |
 | hot-chilli.im | No |
-| houtworm.im | No |
 | synapse.hyteck.de | No |
 | inetd.xyz | No |
 | matrix.jonasled.de | Yes |
