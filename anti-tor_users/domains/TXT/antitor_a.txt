@@ -3980,9 +3980,11 @@ zplr8.app.link
 9anfi.app.link
 9fppvdl.r.ap-south-1.awstrack.me
 9kgwj5s3.r.ap-south-1.awstrack.me
+9ks1nw8n.r.us-east-1.awstrack.me
 9n6oc.app.link
 9psgr.app.link
 a-b-c-service.com
+a-cademy.pl
 a07af.app.link
 a126avoddashs3ww-a.akamaihd.net
 a190avoddashs3ww-a.akamaihd.net
@@ -4013,6 +4015,7 @@ abcnotation.com
 abcpowerx.com
 abcseguridad.com.mx
 abdeen.nl
+abdul-media.tv
 abeautifulcalflorist.com
 abelrey.net
 abgfoodsafety.com
@@ -4058,6 +4061,7 @@ academie.cloud
 academiedoyle.com
 academievoorleiderschap.nl
 academiya-samoraskrytiya.ru
+academy-express.com
 academyaec.edu.vn
 academyccdance.com
 academycenter.website
@@ -4070,6 +4074,7 @@ academyoffutureminds.com
 academyofroboticsurgery.com
 academyskateboarding.com
 academystack.com
+academyvegan.com
 academyvietnam.edu.vn
 acadiaonmymind.com
 acc-cca.ca
@@ -4096,6 +4101,7 @@ accounting.anvikaspices.in
 accountingco.com.au
 accountingjobs101.com
 accountingmarketplace.ae
+accounts-software.net
 accounts.amsspk.com
 accountsetc.com
 accountsieure.com
@@ -4230,6 +4236,7 @@ alaiagold.com
 alamazonuae.com
 alanbaapost.com
 alanbaapost.ma
+alancona.com
 alanfletcher.net
 alarm4sales.dk
 alarmsoftware.dk
@@ -4254,6 +4261,7 @@ alhamdoulillahcoin.com
 alianzac.com
 aliesterbank.online
 alifeinbooks.co.uk
+alifmuzaa.my.id
 alinaalexandrovacademy.ro
 alitqanac.com
 aljawi.info
@@ -4308,6 +4316,7 @@ alumlight.co.il
 alwaha-hospital.com
 amaiassendwishonlineca-dot-mmevents.appspot.com
 amaiassendwishonlineca-dot-mmmetrics.appspot.com
+amarillomedicarestore.com
 amavmt.com.br
 amazon-facture.info
 amazon-prime84.com
@@ -4328,7 +4337,6 @@ americafirstweb3.ga
 americankahani.com
 americanstaffing.net
 amisonline-dev02.allianz.de
-ammseguridad.cl
 amnonfreepress.com
 amp-lasexta-com.cdn.ampproject.org
 amp-n--tv-de.cdn.ampproject.org
@@ -4338,6 +4346,7 @@ amp-tmz-com.cdn.ampproject.org
 ampersandassociates.com.sg
 amplifymag.us
 amplivoz.es
+amu.edu.ye
 amuletfireandsecurity.co.uk
 amwdynoservice.com
 amzon-formulaire.fr
@@ -4354,6 +4363,7 @@ andrecruz.com.br
 andreiu.ro
 andrestore.com.br
 andrianiscordellis.com
+androidstreamingservice.com
 andromedagraha.co.id
 anerwelten.lu
 anewdye.com
@@ -4449,6 +4459,7 @@ app.airkit.eu
 app.ald.aldautomotive.com
 app.go.arrow.com
 appavalle.com
+apple-airpods-sale.gives
 apple-oranges.net
 apple.com.ht
 apple.com.nf
@@ -4458,6 +4469,7 @@ appleid-maps-findmy.us
 appleid.com.am
 applenp.com
 applesoporte.com.kz
+applethaispa.xyz
 appletoncreamery.com
 appli.support
 applid-ios-track.live
@@ -4630,6 +4642,7 @@ authormanojsoni.com
 authormeconnellybooks.com
 authorsaudio.com
 authorwaddelldunmore.com
+authpipfx.com
 authscotiaonline.com
 autodiscover.aaainvestmentservicesllc.com
 autodiscover.absoluteprecisionlocating.com
@@ -4690,6 +4703,7 @@ beta.rmesdalerts.c4.rme.amazon.dev
 beta.us-east-1.staticdocumentsmanagement.finance.amazon.dev
 bill.atechbd.net
 billing.agismarketingsolutions.com
+billing.alifhotspot.my.id
 bimobile.alsea.com.mx
 biprows.allianz.de
 blog.abim.org
@@ -4716,6 +4730,9 @@ cadis.arla.net
 calfire-forestry.maps.arcgis.com
 canada-jobs-2023.apply-here.cfd
 capitalone.arena-washingtondc.com
+caposttracking.app.link
+captcha.aic-homepages.de
+careercenter.americananthro.org
 cast.addradio.de
 cast4.asiancasting.site
 ccc2.appleboxagency.com
@@ -4818,6 +4835,7 @@ customer.amdvietnam.vn
 customercare.atlanticwebs.com
 cyberranges88859.lt.acemlnb.com
 czm01-curie-dev-euw-apim.azure-api.net
+da2.alliander.com
 daesp-origin.allianz.it
 dagbankapi.accscore-dev.net
 dashboard-profile-secureacconts.alreadyownpup.org
@@ -4842,6 +4860,7 @@ directory.amcham.gr
 discord-alerting.dev.artificialmind.ai
 discord-alerting.prod2.artificialmind.ai
 discord.ardennesdecouverte.com
+discord.asgard.network
 discord.aureka.io
 discordportal.aurasix.com
 dispatchse2.avhs.axis.com
@@ -4862,6 +4881,7 @@ ebimap2-stg2.aamgeocloud.com
 ecare.atmc.com.sa
 ecdneu2fdyec01.azureedge.net
 ee6c1.app.link
+einvoice-proxy.acs-tpkg.com
 ekgzy.app.link
 eleasoft.asyst.co.id
 eli2i.app.link
@@ -4940,11 +4960,14 @@ grafana-itau.accountfypvt.dev
 gutter-cleaners-dot-yamm-track.appspot.com
 guulslackapp.azurewebsites.net
 haproxy.anchor.co.uk
+hcb3k.app.link
 hdi-hus-p-development.public.container.avenga.cloud
 healix-screening-cft.agaassistance.com.au
 helpdesk.arccc.org
 helphsbc.com.altoconstruct.com
+himayati.atlanta.ci
 hmg-target-dte-billingapi.azurewebsites.net
+holcim-dot-yamm-track.appspot.com
 hr.auditaccount.pt
 hv-dynamicscrm-s4-prod-in.azurewebsites.net
 hzvyz.app.link
@@ -5040,6 +5063,7 @@ maekme-dot-yamm-track.appspot.com
 mail.agroblockchain.tech
 mail.amwdynoservice.com
 mail.appleid.applee.us
+mail.arcsmartsolutions.com
 mail.axisbankgroup.com
 mail.ayudaappco.com
 mail.equipotrinitroninatrinitrinitonina.actiweb.net
@@ -5092,6 +5116,7 @@ n7dkzzjx.r.us-east-1.awstrack.me
 na.account.amazon.com
 natuser.arcohosting01.com.br
 navi.alagerstrom.se
+navitracker.awtce.de
 nbcnews3.akamaized.net
 neopetrol.lt.acemlnc.com
 nerdsofbusiness.lt.acemlnb.com
@@ -5174,6 +5199,7 @@ pubweb-develop.auth-fips.us-west-2.amazoncognito.com
 pw82jwhw.r.us-east-1.awstrack.me
 pz6c6.app.link
 pz6czg89.r.us-east-1.awstrack.me
+qa-identity.auto-partner.net
 qa.identity.sts.aperatureuk.com
 quality.automatingaction.com
 query-verify04h.authorizeddns.us
@@ -5188,6 +5214,7 @@ recovery-amazons.accountcostumer.com
 recruitingdaily18418.lt.acemlnb.com
 recruitment.advensus.com
 remoteaccess.argenta.be
+reports-dot-smartqprd-india.appspot.com
 researchcentre.army.gov.au
 reseller-service.asastech.xyz
 restapi.subhrajd.dev.robostart-sample.robotics.amazon.dev
@@ -5196,6 +5223,7 @@ rivo20test.azurewebsites.net
 robfox.adzspots.com
 rodrigoservinventagocommx-dot-mmmetrics.appspot.com
 roger.autumnbegins20.com
+roxy.azurefd.net
 rulestest.ais-int.net
 s-my.au.com
 s5nsz.app.link
@@ -5236,12 +5264,15 @@ solarpoweredtoystore.paulb.a2hosted.com
 sosdev.a101.com.tr
 southend.abehrdigital.com
 spa-api.authentisign.com
+sparx.test.arceurope.com
 spoprod-a.akamaihd.net
 springfundinggroup.lt.acemlnd.com
 spt.services.aci.it
 ssms.app.aok.de
 ssoservice.accessanywhere.net
+staging-develop.apemobile.com
 staging.website.accounty.dev
+stara.anaomanovic.com
 static.matbacic.search-beta.amazon.work
 static2.avansas.com
 stg-brismap2.aamgeocloud.com
@@ -5251,6 +5282,7 @@ stukent-dot-yamm-track.appspot.com
 sub.accountantme.com
 subscribe.agriculture.gov.au
 support-cyberlab.acronis.work
+support.abs.in
 support.accs.at
 support.activision.com
 support.airport-pad.com
@@ -5293,6 +5325,7 @@ tidy-cleaningsolutions2022-dot-yamm-track.appspot.com
 top1008.grootnieuwsradio.clients.angrylabs.nl
 topxe.app.link
 toqua-dot-yamm-track.appspot.com
+tr-asia.adsmoloco.com
 trabajo.audecca.com.uy
 track.adpod.in
 tracking.ablexpress.id
@@ -5394,6 +5427,7 @@ www-id-sdi.appleidru.cn
 www-id-ucr.appleidru.cn
 www-infolibre-es.cdn.ampproject.org
 www-kare11-com.cdn.ampproject.org
+www-laprensagrafica-com.cdn.ampproject.org
 www-macfilos-com.cdn.ampproject.org
 www-mdr-de.cdn.ampproject.org
 www-mdzol-com.cdn.ampproject.org
@@ -5439,6 +5473,7 @@ www.academyatrattlesnakepoint.ca
 www.academyimpact.org
 www.academymta.com
 www.academyofbeautynutrition.com
+www.academyroadlanguages.org
 www.academytv.com.au
 www.accesolegalabogados.com.co
 www.accesorioscamper.shop
@@ -5453,6 +5488,8 @@ www.account.amall.com.hk
 www.account.apexcluemarket.com
 www.account.appllys.com
 www.accounting.anvikaspices.in
+www.accounts-software.net
+www.accounts.araingoods.com
 www.accounts.armstrongfinancials.com
 www.accountverify.com.ng
 www.accredit.net.au
@@ -5692,6 +5729,7 @@ www.authordawnisaacs.com
 www.authorkokelly.com
 www.authormanojsoni.com
 www.authormeconnellybooks.com
+www.authorpaulaljones.com
 www.authorwaddelldunmore.com
 www.autoboss.se
 www.autocontrol19.com
@@ -5711,6 +5749,7 @@ www.avisosdempleo.com
 www.avisosuspension.alelivenetworks.com
 www.aviva.co.uk
 www.avonview.ca
+www.avosassiettes.fr
 www.avpress.com
 www.awayfromthebox.com
 www.awp.ch
@@ -5725,6 +5764,7 @@ www.bill.atechbd.net
 www.billing.abrn.uz
 www.billing.agismarketingsolutions.com
 www.billing.alfathnetwork.my.id
+www.billing.alifhotspot.my.id
 www.billyidol2022.tickets.a2hosted.com
 www.blueteamcybersecurity.com.appstogo.ca
 www.centroservice.ag2mais.com.br
