@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,097 |
+| com | 5,098 |
 | social | 3,119 |
 | net | 2,619 |
 | org | 1,887 |
@@ -8801,6 +8801,7 @@ Here's a list of public Fediverse services.
 | `eschler.net` | Yes |
 | `escovan.net` | No |
 | `escpod.fun` | No |
+| `escribitionist.com` | No |
 | `escritores.social` | No |
 | `escriu.cat` | No |
 | `esdin.me` | No |
@@ -10874,7 +10875,7 @@ Here's a list of public Fediverse services.
 | `gamt.tech` | No |
 | `ganba.re` | No |
 | `gancio.org` | No |
-| `gandi.net` | No |
+| `gandi.net` | Yes |
 | `gandi.social` | No |
 | `ganesha.org.br` | No |
 | `ganeshapress.net` | No |
@@ -34704,7 +34705,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,981 |
+| Cloudflare | 7,982 |
 | Normal | 26,680 |
 
 
