@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,117 |
-| social | 3,129 |
+| social | 3,130 |
 | net | 2,632 |
 | org | 1,892 |
-| de | 1,770 |
+| de | 1,771 |
 
 
 - Mastodon, Pleroma, etc
@@ -8756,6 +8756,7 @@ Here's a list of public Fediverse services.
 | `eqb.social` | No |
 | `eqgr.gr` | Yes |
 | `equals.community` | No |
+| `equanimity.blue` | No |
 | `equel.social` | Yes |
 | `equestria.social` | No |
 | `equinux.social` | No |
@@ -15967,6 +15968,7 @@ Here's a list of public Fediverse services.
 | `kulturnik.si` | No |
 | `kultwiki.net` | Yes |
 | `kulupu.party` | Yes |
+| `kuma.social` | No |
 | `kumadrive.com` | No |
 | `kumano-ryo.tech` | No |
 | `kumi.life` | No |
@@ -24058,6 +24060,7 @@ Here's a list of public Fediverse services.
 | `podcasts.social` | No |
 | `poddery.com` | No |
 | `podfriend.com` | No |
+| `podjournal.de` | No |
 | `podkast.de` | No |
 | `podlibre.social` | No |
 | `podlibre.video` | No |
@@ -25545,6 +25548,7 @@ Here's a list of public Fediverse services.
 | `remark.as` | No |
 | `remarkably.social` | Yes |
 | `remben.ch` | No |
+| `remcorp.fr` | No |
 | `remembertheend.com` | Yes |
 | `remerge.net` | No |
 | `remicck.club` | No |
@@ -33130,6 +33134,7 @@ Here's a list of public Fediverse services.
 | `wellduck.me` | No |
 | `wellenform.net` | No |
 | `weller.io` | Yes |
+| `welling.io` | No |
 | `wellington.gen.nz` | No |
 | `wellness.so` | Yes |
 | `wellnesswayorbit.com` | No |
@@ -34822,7 +34827,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,019 |
-| Normal | 26,759 |
+| Normal | 26,764 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
