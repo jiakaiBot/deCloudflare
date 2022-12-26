@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [global addEventListener / removeEventListener / dispatchEvent](https://github.com/nodejs/node/issues/45981)
 - [Japscan: "No results found" error after changing user agent](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/14675)
 - [Update from 2.5.2 to 2.6.2 breaks caddyfile](https://github.com/caddyserver/caddy/issues/5268)
 - [Can't update Humhub - Gateway Timeout 504 error](https://github.com/humhub/humhub/issues/5989)
