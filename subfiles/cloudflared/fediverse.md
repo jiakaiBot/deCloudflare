@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,096 |
+| com | 5,097 |
 | social | 3,118 |
-| net | 2,618 |
+| net | 2,619 |
 | org | 1,887 |
 | de | 1,767 |
 
@@ -958,7 +958,7 @@ Here's a list of public Fediverse services.
 | `agilereaction.com` | Yes |
 | `agilist.social` | No |
 | `agilodon.social` | No |
-| `aglaea.me` | No |
+| `aglaea.me` | Yes |
 | `agmjub.fr` | Yes |
 | `agnail.net` | No |
 | `agneraya.com` | No |
@@ -1353,6 +1353,7 @@ Here's a list of public Fediverse services.
 | `amanda.systems` | Yes |
 | `amane.moe` | Yes |
 | `amanite.be` | No |
+| `amanogawa.info` | No |
 | `amanzi.nz` | Yes |
 | `amapin.love` | Yes |
 | `amaranth.network` | Yes |
@@ -1634,6 +1635,7 @@ Here's a list of public Fediverse services.
 | `annp.jp` | No |
 | `annwan.me` | No |
 | `anomalocaris.link` | No |
+| `anon-chan.com` | No |
 | `anon-groups.de` | No |
 | `anon-kenkai.com` | No |
 | `anonboard.xyz` | No |
@@ -2233,6 +2235,7 @@ Here's a list of public Fediverse services.
 | `atikoro.net` | No |
 | `atilla.im` | No |
 | `atiltedtree.dev` | No |
+| `atkinson.life` | Yes |
 | `atlanti.se` | No |
 | `atmasto.com` | No |
 | `atmoschem.org` | No |
@@ -5496,7 +5499,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -12591,6 +12594,7 @@ Here's a list of public Fediverse services.
 | `heypumpk.in` | Yes |
 | `heysailor.nz` | No |
 | `heystat.us` | No |
+| `heystory.net` | Yes |
 | `heythere.cloud` | Yes |
 | `heythere.org` | No |
 | `hfranco.dev` | No |
@@ -15628,6 +15632,7 @@ Here's a list of public Fediverse services.
 | `koehr.tech` | No |
 | `koeia.de` | No |
 | `koenekoken.org` | No |
+| `koenvh.nl` | No |
 | `koesters.xyz` | No |
 | `koetodon.com` | No |
 | `kogak.ninja` | No |
@@ -15749,6 +15754,7 @@ Here's a list of public Fediverse services.
 | `kosmospora.de` | No |
 | `kossin.io` | No |
 | `kossin.social` | No |
+| `kosti.dev` | No |
 | `kostnixladen-bochum.de` | No |
 | `kostnixladen.de` | No |
 | `kostodon.com` | No |
@@ -21260,6 +21266,7 @@ Here's a list of public Fediverse services.
 | `niedersachsen.social` | No |
 | `nieein56.me` | No |
 | `nieein56.xyz` | No |
+| `niel.me` | No |
 | `nielk1.com` | No |
 | `nielniel.net` | No |
 | `nielsemmer.com` | Yes |
@@ -24410,6 +24417,7 @@ Here's a list of public Fediverse services.
 | `projectmihun.cyou` | Yes |
 | `projectmushroom.social` | No |
 | `projectsegfau.lt` | Yes |
+| `projectspoint.uk` | No |
 | `projectx.fun` | No |
 | `projektchaos.network` | No |
 | `projekthafen.net` | No |
@@ -34556,6 +34564,7 @@ Here's a list of public Fediverse services.
 | `zmtdn.de` | No |
 | `zn80.net` | No |
 | `znark.us` | No |
+| `znet.li` | No |
 | `znw.io` | Yes |
 | `znw.social` | Yes |
 | `zoc.me` | Yes |
@@ -34694,8 +34703,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,979 |
-| Normal | 26,672 |
+| Cloudflare | 7,981 |
+| Normal | 26,679 |
 
 
 ### 23% of public Fediverse services are using Cloudflare.
