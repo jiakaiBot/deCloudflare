@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,110 |
-| social | 3,120 |
+| social | 3,121 |
 | net | 2,627 |
 | org | 1,892 |
-| de | 1,768 |
+| de | 1,770 |
 
 
 - Mastodon, Pleroma, etc
@@ -1132,6 +1132,7 @@ Here's a list of public Fediverse services.
 | `alcolatra.social` | No |
 | `alcove.website` | No |
 | `alden.page` | No |
+| `aldiserver.de` | Yes |
 | `aldude999.net` | No |
 | `alduino.xyz` | Yes |
 | `ale-elements.ml` | No |
@@ -10121,6 +10122,7 @@ Here's a list of public Fediverse services.
 | `fountainpen.social` | No |
 | `fouquet.me` | No |
 | `four-nine.club` | No |
+| `fouroclockfarms.club` | No |
 | `fourth-brigade.jp` | No |
 | `fourthestate.social` | No |
 | `fox-club.monster` | No |
@@ -12624,6 +12626,7 @@ Here's a list of public Fediverse services.
 | `hha.app` | No |
 | `hhhammer.de` | No |
 | `hhome.me` | Yes |
+| `hhra.uk` | No |
 | `hhsocial.de` | No |
 | `hi-low.social` | No |
 | `hi.ls` | Yes |
@@ -12671,6 +12674,7 @@ Here's a list of public Fediverse services.
 | `hikaruaikawa.tk` | No |
 | `hiker.camp` | No |
 | `hiker.tips` | No |
+| `hikikomori.dev` | Yes |
 | `hikikomori.me` | No |
 | `hikoukidon.com` | No |
 | `hikoukidon.jp` | No |
@@ -12755,6 +12759,7 @@ Here's a list of public Fediverse services.
 | `hitsuji.work` | No |
 | `hive.institute` | No |
 | `hiveagile.com` | Yes |
+| `hiveagile.dev` | Yes |
 | `hivechat.co.uk` | No |
 | `hivecore.social` | Yes |
 | `hivemind.gq` | No |
@@ -12914,6 +12919,7 @@ Here's a list of public Fediverse services.
 | `honk.best` | No |
 | `honk.farm` | Yes |
 | `honking.online` | No |
+| `honks.io` | No |
 | `honksybonksy.com` | No |
 | `honkwerx.tech` | No |
 | `honnef.co` | No |
@@ -22876,6 +22882,7 @@ Here's a list of public Fediverse services.
 | `oxygen.pub` | No |
 | `oxytodon.com` | No |
 | `oyakodon.biz` | No |
+| `oyam.ca` | Yes |
 | `oyashirosama.cf` | No |
 | `oyashirosama.tk` | No |
 | `oyd.social` | No |
@@ -24859,6 +24866,7 @@ Here's a list of public Fediverse services.
 | `quey.org` | Yes |
 | `quic.fr` | No |
 | `quiet.horse` | No |
+| `quiet.social` | No |
 | `quiet.town` | No |
 | `quietcar.social` | No |
 | `quiethabits.net` | No |
@@ -26246,6 +26254,7 @@ Here's a list of public Fediverse services.
 | `rybergs.net` | No |
 | `rychannel.com` | No |
 | `rydlabs.com` | No |
+| `rydzak.me` | No |
 | `ryecroft21.info` | No |
 | `ryecroft21.net` | No |
 | `ryey.icu` | No |
@@ -26507,6 +26516,7 @@ Here's a list of public Fediverse services.
 | `sapphic.city` | No |
 | `sapphic.life` | No |
 | `sapphic.site` | Yes |
+| `sapphicommune.info` | No |
 | `sapphos.be` | No |
 | `sapratza.in` | No |
 | `saptodon.org` | No |
@@ -31437,6 +31447,7 @@ Here's a list of public Fediverse services.
 | `tudgwal.fr` | No |
 | `tue.su` | Yes |
 | `tuetue.org` | Yes |
+| `tuffert.de` | No |
 | `tuffi.org` | Yes |
 | `tugate.ch` | Yes |
 | `tugging.online` | No |
@@ -34764,8 +34775,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,003 |
-| Normal | 26,718 |
+| Cloudflare | 8,007 |
+| Normal | 26,725 |
 
 
-### 23% of public Fediverse services are using Cloudflare.
+### 23.1% of public Fediverse services are using Cloudflare.
