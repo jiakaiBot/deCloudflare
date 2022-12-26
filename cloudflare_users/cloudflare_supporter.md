@@ -6269,6 +6269,7 @@ Do not create new issue or we will close it as duplicate.
 | [MeorhashimH@twitter](https://twitter.com/MeorhashimH/status/1560170392047992832) | advertise |
 | [Meowmeow9339@twitter](https://twitter.com/Meowmeow9339/status/1589495016954957826) | advertise |
 | [MEOWsama1802@twitter](https://twitter.com/MEOWsama1802/status/1544339586607747072) | advertise |
+| [Meo_Captainnnm@twitter](https://twitter.com/Meo_Captainnnm/status/1607387376300724224) | advertise |
 | [meran0maruf@twitter](https://twitter.com/meran0maruf/status/1397979741173469186) | advertise |
 | [MercuryKIInG91@twitter](https://twitter.com/MercuryKIInG91/status/1398250256794624005) | advertise |
 | [mercytown918@twitter](https://twitter.com/mercytown918/status/1558387091171590145) | advertise |
@@ -7929,6 +7930,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pharm_chocolate@twitter](https://twitter.com/Pharm_chocolate/status/1401267624013668352) | advertise |
 | [Phat5312@twitter](https://twitter.com/Phat5312/status/1514940394651684870) | advertise |
 | [PhatLe_2241@twitter](https://twitter.com/PhatLe_2241/status/1400493633120342018) | advertise |
+| [phatlie@twitter](https://twitter.com/phatlie/status/1607378368886099969) | advertise |
 | [PhatNgu75533287@twitter](https://twitter.com/PhatNgu75533287/status/1394214535414751232) | advertise |
 | [phatnguyenkim@twitter](https://twitter.com/phatnguyenkim/status/1479475998634635265) | advertise |
 | [phat_soc@twitter](https://twitter.com/phat_soc/status/1381112315865485314) | advertise |
@@ -9539,6 +9541,7 @@ Do not create new issue or we will close it as duplicate.
 | [sugengwawa@twitter](https://twitter.com/sugengwawa/status/1395032415744135168) | advertise |
 | [suhailsuhail666@twitter](https://twitter.com/suhailsuhail666/status/1387674141461860352) | advertise |
 | [SuHlain43891953@twitter](https://twitter.com/SuHlain43891953/status/1390213962633863168) | advertise |
+| [suitrumuonnam@twitter](https://twitter.com/suitrumuonnam/status/1607386751592718336) | advertise |
 | [Sujancocaine24@twitter](https://twitter.com/Sujancocaine24/status/1528449509176627201) | advertise |
 | [SuJan_khadka21@twitter](https://twitter.com/SuJan_khadka21/status/1385811411306106880) | advertise |
 | [sujitch_sujit@twitter](https://twitter.com/sujitch_sujit/status/1497176955342319618) | advertise |
@@ -9965,8 +9968,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
