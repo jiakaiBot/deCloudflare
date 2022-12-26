@@ -603,9 +603,6 @@ www.vreaucredit.ro
 www.vrijebond.org
 www.vudu.com
 www.vy.no
-www2.aplusk.co.jpbvcb5vh6hjb4.vbts.cn
-www2.aplusk.co.jpbvcb5vh6hjb4.vphd.cn
-www2.aplusk.co.jpbvcb5vh6hjb4.vxdl.cn
 www3ccitizenslogin.vantechdns.com
 wwwti.sipar.vlaanderen.be
 xerhwzubskd0p31.store.outlook.vermeernorthwest.com
@@ -1212,6 +1209,7 @@ yntxbmer381olwq.store.outlook.vermeernorthwest.com
 z452k5-gmailcom.vercel.app
 zeus.vdw-rw.de
 zmail.vpp-energy.hu
+3dsp.vtb.ru
 aaa.gallerycdn.vsassets.io
 abhishekuct-gmailcom.vercel.app
 abouabdulla1-gmailcom.vercel.app
@@ -1234,6 +1232,7 @@ api.comid.ace-3de78578.core.build.vwn.cloud
 api.comid.ace-9204d307.core.build.vwn.cloud
 api.comid.ace-e1afb0.core.build.vwn.cloud
 api.comid.ace-e7fb8c39.core.build.vwn.cloud
+api.odlc.eu.dp15.vwg-connect.com
 api.tsc.eu.dp15.vwg-connect.com
 api.tsc.na.dp15.vwg-connect.com
 api.voltmoney.in
@@ -1247,6 +1246,7 @@ apps.vrsg.ch
 authensecsfr.vantechddns.com
 authorization-server.ace-53346d0c.core.build.vwn.cloud
 autodiscover.vauttech.in
+autodiscover.venafitjuice.com
 autodiscover.vgacmedia.com
 bbs.vansteinenco.nl
 be-rtm-app-c.vwg-connect.cn
@@ -1304,6 +1304,7 @@ discordjs-japan.vercel.app
 discordlosmonsters.vercel.app
 discordyukadev.vercel.app
 discosdevictoria.vercel.app
+discovrbookings.vercel.app
 discrird.vercel.app
 dlf-aspire-api-ca-central-1.dni.velocityfabric.com
 dogforlife.v3client.com
@@ -1378,6 +1379,7 @@ naoyukikanezawarecaptcha0.vercel.app
 naoyukikanezawarecaptcha2.vercel.app
 navid-asgharzadeh.vercel.app
 navidart.vercel.app
+navilg.vercel.app
 navizdev.vercel.app
 netservicos.victoria-seguros.pt
 new-event-8-dev.vbuzzclient.com
@@ -1458,6 +1460,7 @@ track.visage-mail.com
 tracker.engg.vayana.com
 tracking.volito.software
 transact.vantivpostlive.com
+treatsupport.vitalhub.com
 uchendubozz-gmailcom.vercel.app
 unfox.vercel.app
 unixfox.vercel.app
@@ -1471,6 +1474,7 @@ update2112b.videosintimes.com
 update2112c.votreintimite.com
 update2312.votreintimite.com
 update2312a.votreintimite.com
+update2512.videosintimes.com
 v-seo.eu
 v02-chain.link
 v1scotiaoniine.com
@@ -1589,6 +1593,7 @@ visualsquirrels.net
 vividbilling.net
 vivilock.com.vivipost.com
 vivirsinplastico.com
+vixozenpoll.online
 vladdba.com
 vlbajio.com
 vm-rbcroyalbank1.com
@@ -1613,6 +1618,7 @@ vpn-connection-security.net
 vpn2.valora.net
 vpunks.com
 vrindavaneshvari.com
+vrindavantourpackage.com
 vrocescoca-gmailcom.vercel.app
 vsjayan.com
 vsminternational.in
