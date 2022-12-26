@@ -535,6 +535,7 @@ Do not create new issue or we will close it as duplicate.
 | [aliimozhdeh@twitter](https://twitter.com/aliimozhdeh/status/1384949009035431936) | advertise |
 | [AliiWoi@twitter](https://twitter.com/AliiWoi/status/1468846308219781120) | advertise |
 | [AliN2103695113@twitter](https://twitter.com/AliN2103695113/status/1402345722310180867) | advertise |
+| [alinematii77@twitter](https://twitter.com/alinematii77/status/1607345333872246790) | advertise |
 | [Aliov456@twitter](https://twitter.com/Aliov456/status/1596472440963604482) | advertise |
 | [Aliphent1@twitter](https://twitter.com/Aliphent1/status/1390970393012445188) | advertise |
 | [Alireza38854410@twitter](https://twitter.com/Alireza38854410/status/1590028048241659904) | advertise |
