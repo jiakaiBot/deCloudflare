@@ -2619,6 +2619,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dx1998x@twitter](https://twitter.com/Dx1998x/status/1393091007365984258) | advertise |
 | [Dya72255408@twitter](https://twitter.com/Dya72255408/status/1406552108002840576) | advertise |
 | [DyamannaPojari@twitter](https://twitter.com/DyamannaPojari/status/1398619196183875593) | advertise |
+| [Dyennn2212@twitter](https://twitter.com/Dyennn2212/status/1607289204115140608) | advertise |
 | [DylanPhan14@twitter](https://twitter.com/DylanPhan14/status/1379077937966710798) | advertise |
 | [DySay4@twitter](https://twitter.com/DySay4/status/1446314593387642884) | advertise |
 | [Dz01019558@twitter](https://twitter.com/Dz01019558/status/1553125143349952512) | advertise |
@@ -8954,6 +8955,7 @@ Do not create new issue or we will close it as duplicate.
 | [satepoke@twitter](https://twitter.com/satepoke/status/1377922362394431490) | advertise |
 | [SaTheinThanMoe1@twitter](https://twitter.com/SaTheinThanMoe1/status/1391062225561874434) | advertise |
 | [SathiRa75888185@twitter](https://twitter.com/SathiRa75888185/status/1397477512070926336) | advertise |
+| [SatHtut@twitter](https://twitter.com/SatHtut/status/1607295989106507778) | advertise |
 | [sathya81556437@twitter](https://twitter.com/sathya81556437/status/1606994774048874499) | advertise |
 | [Sativa420z@twitter](https://twitter.com/Sativa420z/status/1505881310228713475) | advertise |
 | [SatPain66967155@twitter](https://twitter.com/SatPain66967155/status/1392384928206123016) | advertise |
