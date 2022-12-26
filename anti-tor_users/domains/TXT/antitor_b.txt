@@ -1194,7 +1194,6 @@ baggrund.com
 bairroantoniobezerra.com.br
 bakersfieldnow.com
 bakulomah.my.id
-bakwerilanguage.org
 baldus-sedation.de
 baliairportservice.bxjourney.com
 balicuat.bajajallianz.com
@@ -2615,11 +2614,13 @@ aamlprod.b2clogin.com
 accescibles.banquepopulaire.fr
 account-verification-96106309213719235.batieco.be
 account.bjnahce.org
+account.blis.at
 accounts.btpnsyariah.com
 accounts.businesstrack.com
 admin-api.banka.banfico.net
 admin-ksa.blu-points.com
 ads.betweendigital.com
+agency.beyondtheexpected.com
 airapps.wireless.bell.ca
 akagi.maeyes.bbreak.jp
 al-rayan-berlin.business.site
@@ -2651,6 +2652,7 @@ apps.staging.bouquet.ai
 archive.biofizpribor.ru
 archive.br.de
 asia-bistro-gruner-bambus.business.site
+atlantic.cwmp.tdlab.acs.bell.ca
 atmnet.bankmandiri.co.id
 atoz.brightone-h.com
 auth.baleron.fun
@@ -2706,6 +2708,8 @@ bankirefi.hu
 bankkulonprogo.co.id
 bankmatching.com
 bankminismk.com
+bankniftyastrology.com
+banko.si
 bankofamerica-checkings.com
 bankovnikrediti-tomislav.com
 bankprofits.xyz
@@ -2771,6 +2775,7 @@ bemetricsappdev.b2ktech.com.br
 bemetricstestapp.b2ktech.com.br
 bemisa.com.br
 benefitcommunications.com
+bengribaudo.com
 benjaltf4.me
 bensugeprek.xyz
 benzol.live
@@ -2800,10 +2805,13 @@ bfpartners.click
 bge-community.buendnis-grundeinkommen.de
 bgk24.nl
 bgmeactg.org
+bgmi-event-2022-march-december.blogspot.com
+bgmi-free-event-official.blogspot.com
 bgmi-store-66.blogspot.com
 bgmieventjujutsukaisen.blogspot.com
 bgmifreeucandroyalpaas.blogspot.com
 bgrc-bcs.com
+bhamla.in
 bharatpackersmovers.in
 biamo.bet
 biblioteca-de-reit.blogspot.com
@@ -2908,6 +2916,7 @@ blalockftreeservice.com
 blath-na-dtulach.com
 bleacherbrawls.com
 blink.ba
+blitz.investments
 blockchain-advisor.org
 blockchain-camp-up.org
 blockchainbuccaneers.com
@@ -2929,6 +2938,7 @@ blogatlarge.com
 blogdaytinhoc.com
 blogdeldia.com
 blogpocket.app
+blogsaddnadiscwormpe.ga
 blogscrolls.com
 blogspinners.com
 bloguers.net
@@ -2939,6 +2949,7 @@ bloorhomes.com
 blossomsfield.com.sg
 bloxhamstudio.ca
 bloxs.com
+bloxynews.net
 bltkub-coin.blogspot.com
 blue-services.gr
 bluna.fr
@@ -2981,6 +2992,7 @@ bowendoorservice.com
 box-intermodal-containers.com
 bpbc.io
 bper.it
+bplrepairexpertantophill.xyz
 bprarthanugraha.com
 bpwebapip.bancoprocredit.com.ec
 bpwebapit.bancoprocredit.com.ec
@@ -2993,6 +3005,7 @@ bran-castle-tickets.com
 brandconfer.com
 brandiodom.com
 brandnewmatch.de
+bravoauto.co.th
 brbstudio.co.uk
 breadrosesfund.org
 breast-augmentationnyc.com
@@ -3041,8 +3054,10 @@ buku.bancak.id
 bulldogottawa.com
 bullionmoney.com
 bumblejax.com
+bumitanitropical.com
 bundymotorhomes.com
 bunsheesports.com
+burgertokramantbh.my.id
 burp.es
 bursadekor.net.tr
 busdminers.xyz
@@ -3249,6 +3264,7 @@ login.bproeng.com.br
 login.bvicb.com
 loginunico-vla.bpc-bo.online
 logs.browser-intake-datadoghq.com
+lsab2cint.b2clogin.com
 lyondell-maasvlakte.bis-client.com
 mail.bankofamerica-checkings.com
 mail.beachtimesunglasses.com
@@ -3287,6 +3303,7 @@ nitrous.big3d.co
 nl.billiefashion.be
 nsm.basedriver.com
 ntstconnect.b2clogin.com
+oblox.bsd.am
 odoo-12.bjetpro.com
 openapi.dev.tradinghubng.brueckner-system-service.com
 opensea.io.bonsavonsoaps.com
@@ -3457,6 +3474,7 @@ www.banking.baclaysfinance.com
 www.bankirefi.hu
 www.bankkredite-ohne-schufa.de
 www.bankmatching.com
+www.bankniftyastrology.com
 www.bankofdoniphan.com
 www.bankopinie.pl
 www.bankovnikrediti-tomislav.com
@@ -3545,6 +3563,7 @@ www.billiniconsultingservice.com
 www.billionaireacademy.id
 www.billionbits.co.nz
 www.billionscomputer.site
+www.billl-kiyoowoooo5.bucin.site
 www.billmartin.site
 www.billmohrpoet.com
 www.billnow.shop
@@ -3619,6 +3638,7 @@ www.brainlesstales.com
 www.braintrust-hh.de
 www.brajabinod.com
 www.branchinouttreeservice.com
+www.branditonline.com
 www.brandlution.com
 www.brannlandcider.se
 www.brasserie-bourbon.fr
@@ -3636,6 +3656,7 @@ www.bsmaskinservice.dk
 www.bss-support.org.uk
 www.btkub-login.com
 www.btselem.org
+www.btyaccessories.com
 www.buildcorporatecredit123.com
 www.buildup.eu
 www.buku.bancak.id
@@ -3717,6 +3738,7 @@ www.siteupdate.bulit21.com
 www.staging.businesssupport.dk
 www.tds.bestrentalservice.xyz
 www.ticket.boxshoplogistics.com
+www.universite.banque-france.fr
 www.update-connection.broadcast4k.site
 www.user.bitcoin-trade.co.uk
 www.user.blksambas.sch.id
@@ -3724,6 +3746,7 @@ www.verify-trustwallet.bergerato.com
 www.w69slot.info.beritaupdate.org
 www.wl-beta.budgetcredit.ch
 x.bidswitch.net
+xmlpo.brucknersupply.com
 xq.burgvaguity.com
 xunavigator.b2clogin.com
 yardact.bandcamp.com
