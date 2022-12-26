@@ -244,6 +244,7 @@ adfs.infrastructure.zopa.com
 alaan-test.zulayka.com
 alert.zoostore.pro
 all-service.zapages.co.il
+amazon-qwdswx.zzux.com
 amazon-rdfcv.zzux.com
 api.zoolife.live
 api.zs-clinical-study-feasibility.dev.zsservices.com
@@ -262,6 +263,7 @@ discord.zorustech.com
 eki-kkfk.zzux.com
 entry1-bk-mufg-jp.zxbucs.vip
 etc-defsd.zzux.com
+etc-fdfdxcv.zzux.com
 etc-fdsa.zzux.com
 etc-fdsewfsd.zyns.com
 etc-fjiojoe.zzux.com
@@ -326,7 +328,7 @@ www.zazzle.de
 www.zeelandbusiness.nl
 www.zelitesolutions.com
 www.zengin-net-bcp1.jp
-www.zenith-watches.com
+www.zenkouro.org
 www.zierzolab.com
 www.zillowstatic.com
 www.zimlab.com
@@ -358,6 +360,7 @@ ziremm.az
 zkteco.co.id
 zmdownload-accl.zoho.com
 zmenu.com
+znitro.com
 zoefox.co.uk
 zoohelpdesk.com
 zoomingjapan.com
