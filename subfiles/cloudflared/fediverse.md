@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,110 |
-| social | 3,121 |
+| social | 3,122 |
 | net | 2,627 |
 | org | 1,892 |
 | de | 1,770 |
@@ -685,6 +685,7 @@ Here's a list of public Fediverse services.
 | `about-bitcoin.com` | Yes |
 | `aboutchromebooks.com` | Yes |
 | `abq.actor` | Yes |
+| `abraham.su` | No |
 | `abraka-dabra.sk` | No |
 | `abramson.dev` | No |
 | `abraum.de` | No |
@@ -2239,6 +2240,7 @@ Here's a list of public Fediverse services.
 | `atilla.im` | No |
 | `atiltedtree.dev` | No |
 | `atkinson.life` | Yes |
+| `atlantasoccer.social` | No |
 | `atlanti.se` | No |
 | `atmasto.com` | No |
 | `atmoschem.org` | No |
@@ -9329,6 +9331,7 @@ Here's a list of public Fediverse services.
 | `fdb.to` | No |
 | `fdlibre.eu` | No |
 | `fdn.fr` | No |
+| `fe-mastodon.tk` | No |
 | `feaneron.com` | No |
 | `fearisfreedom.com` | No |
 | `fearness.org` | No |
@@ -10893,7 +10896,7 @@ Here's a list of public Fediverse services.
 | `gamt.tech` | No |
 | `ganba.re` | No |
 | `gancio.org` | No |
-| `gandi.net` | Yes |
+| `gandi.net` | No |
 | `gandi.social` | No |
 | `ganesha.org.br` | No |
 | `ganeshapress.net` | No |
@@ -25760,6 +25763,7 @@ Here's a list of public Fediverse services.
 | `rightmastodon.com` | No |
 | `rights.ninja` | Yes |
 | `rightto.repair` | No |
+| `riinswork.space` | Yes |
 | `rijndael.cc` | No |
 | `rijpersweg.nl` | No |
 | `rijul.me` | Yes |
@@ -27430,7 +27434,7 @@ Here's a list of public Fediverse services.
 | `shytrr.com` | Yes |
 | `si4-mstdn.xyz` | No |
 | `siass-loch.de` | No |
-| `sibaya.com` | No |
+| `sibaya.com` | Yes |
 | `sibear.fr` | No |
 | `siberia.work` | No |
 | `siberspace.org` | Yes |
@@ -34775,8 +34779,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,007 |
-| Normal | 26,725 |
+| Cloudflare | 8,008 |
+| Normal | 26,728 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
