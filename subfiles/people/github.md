@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [AvistaZ Cloudflare Error: No challenge selectors found, unable to proceed](https://github.com/FlareSolverr/FlareSolverr/issues/640)
 - [dbip-country-lite.mmdb file nowhere to be found](https://github.com/linuxserver/docker-mods/issues/545)
 - [global addEventListener / removeEventListener / dispatchEvent](https://github.com/nodejs/node/issues/45981)
 - [Japscan: "No results found" error after changing user agent](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/14675)
