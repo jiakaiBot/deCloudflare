@@ -29,6 +29,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | alidns.com | No |
 | almir1904.eu | Yes |
 | ambiya.net | Yes |
+| aquilenet.fr | No |
 | arnor.org | No |
 | artikel10.org | No |
 | atakorah.com | No |
@@ -299,7 +300,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 107 |
-| Normal | 172 |
+| Normal | 173 |
 
 
-### 38.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 38.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
