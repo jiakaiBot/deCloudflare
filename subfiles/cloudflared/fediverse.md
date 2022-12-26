@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,106 |
+| com | 5,107 |
 | social | 3,119 |
-| net | 2,625 |
+| net | 2,626 |
 | org | 1,890 |
 | de | 1,768 |
 
@@ -12219,6 +12219,7 @@ Here's a list of public Fediverse services.
 | `haoyayoi.net` | No |
 | `happens.horse` | No |
 | `happyjesus.online` | Yes |
+| `happykraken.net` | Yes |
 | `happysocial.site` | No |
 | `happytobehe.re` | No |
 | `happytoo.cyou` | Yes |
@@ -14713,6 +14714,7 @@ Here's a list of public Fediverse services.
 | `joshuacasey.net` | Yes |
 | `joshuamlee.com` | Yes |
 | `joshuas-server.com` | Yes |
+| `joshumax.me` | Yes |
 | `josias.dev` | No |
 | `josta.me` | Yes |
 | `josz.space` | No |
@@ -22009,7 +22011,7 @@ Here's a list of public Fediverse services.
 | `nyoho.jp` | No |
 | `nyoki.club` | No |
 | `nyoom.io` | Yes |
-| `nyoroooon.xyz` | No |
+| `nyoroooon.xyz` | Yes |
 | `nyoxfox.com` | Yes |
 | `nypost.com` | Yes |
 | `nyquist.rocks` | No |
@@ -25934,6 +25936,7 @@ Here's a list of public Fediverse services.
 | `rokosocial.com` | Yes |
 | `rokoucha.net` | Yes |
 | `rolandmicroblog.com` | No |
+| `roleplaycastle.com` | Yes |
 | `roli.io` | No |
 | `rolim.biz` | Yes |
 | `roll.cafe` | No |
@@ -34745,8 +34748,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,994 |
-| Normal | 26,708 |
+| Cloudflare | 7,998 |
+| Normal | 26,707 |
 
 
 ### 23% of public Fediverse services are using Cloudflare.
