@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,117 |
-| social | 3,128 |
+| social | 3,129 |
 | net | 2,632 |
 | org | 1,892 |
 | de | 1,770 |
@@ -16299,6 +16299,7 @@ Here's a list of public Fediverse services.
 | `laurelmail.net` | Yes |
 | `laurentclaude.fr` | No |
 | `laurenweinstein.org` | No |
+| `lausitz.social` | No |
 | `lavadero.dev` | No |
 | `lavafeld.org` | No |
 | `lavalite.de` | No |
@@ -34821,7 +34822,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,019 |
-| Normal | 26,758 |
+| Normal | 26,759 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
