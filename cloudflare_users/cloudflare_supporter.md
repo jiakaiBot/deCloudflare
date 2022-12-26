@@ -4383,6 +4383,7 @@ Do not create new issue or we will close it as duplicate.
 | [Jasson02887484@twitter](https://twitter.com/Jasson02887484/status/1556242722528591872) | advertise |
 | [jas_dhillon001@twitter](https://twitter.com/jas_dhillon001/status/1377232805659283457) | advertise |
 | [JatinSi55636829@twitter](https://twitter.com/JatinSi55636829/status/1398883557947236353) | advertise |
+| [Jattupon007@twitter](https://twitter.com/Jattupon007/status/1607274841408954375) | advertise |
 | [JatxCrypto@twitter](https://twitter.com/JatxCrypto/status/1478944922698977281) | advertise |
 | [jauhari@twitter](https://twitter.com/jauhari/status/1376870621636829186) | advertise |
 | [JavierLandry8@twitter](https://twitter.com/JavierLandry8/status/1519168069108645888) | advertise |
@@ -5060,8 +5061,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6208,6 +6209,7 @@ Do not create new issue or we will close it as duplicate.
 | [MdShauk19707675@twitter](https://twitter.com/MdShauk19707675/status/1383835265383370760) | advertise |
 | [MDShori73803492@twitter](https://twitter.com/MDShori73803492/status/1377934270396735488) | advertise |
 | [MDTanve67193191@twitter](https://twitter.com/MDTanve67193191/status/1545099438036697090) | advertise |
+| [MDTaseenKhan@twitter](https://twitter.com/MDTaseenKhan/status/1607273021324300289) | advertise |
 | [MDudaeb@twitter](https://twitter.com/MDudaeb/status/1459703663547408384) | advertise |
 | [MDWalters124@twitter](https://twitter.com/MDWalters124/status/1558905873807941635) | advertise |
 | [MdyBboy@twitter](https://twitter.com/MdyBboy/status/1390850990161629184) | advertise |
