@@ -4591,6 +4591,7 @@ Do not create new issue or we will close it as duplicate.
 | [Jonsteave1@twitter](https://twitter.com/Jonsteave1/status/1400466186899312644) | advertise |
 | [JoonasPulliain1@twitter](https://twitter.com/JoonasPulliain1/status/1472506852307054594) | advertise |
 | [JoonCathy@twitter](https://twitter.com/JoonCathy/status/1391688136925712391) | advertise |
+| [Jordan51468849@twitter](https://twitter.com/Jordan51468849/status/1607577126001336320) | advertise |
 | [jordanblaise39@twitter](https://twitter.com/jordanblaise39/status/1499532521276678146) | advertise |
 | [Joselfmode@twitter](https://twitter.com/Joselfmode/status/1542250994637094913) | advertise |
 | [JosephDey2@twitter](https://twitter.com/JosephDey2/status/1401179924237520896) | advertise |
