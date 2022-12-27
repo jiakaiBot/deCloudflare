@@ -2282,11 +2282,12 @@ api.datapp.fr
 api.dev-dbs.degussa-bank.de
 api.developer.deutsche-boerse.com
 api.dfsdx.com
+api.digitalaccess-portals.com
 api.digybot.io
 api.google-phonenumber-validation.ddn.decathlonweparis.com
 api.lab.k8s.dats.tech
-api.prod.digitalchargingsolutions.com
 api.sbkh-dev.connector.demo-application.net
+api.stage.k8s.dats.tech
 apis.deleo.co.kr
 app.dunasdelivery.com
 app.dwp.gov.sg
@@ -2330,6 +2331,7 @@ bafybeibgseoawsvqjszdtqndiz6k7ua753ubvihkrxxrpl2s4qkustwoum.ipfs.dweb.link
 bafybeidqy2sjdvhxlhqhmqrnzoqrupju76bqpyyhkjb5xcluybzy3phvli.ipfs.dweb.link
 bafybeihnwieu7fenrmt22rhzliqeqplnjfn5sfm7amebtt5o4pfexh4o4e.ipfs.dweb.link
 bbc.depanne.be
+bbs.docksud.com.ar
 beck-pbx.debesis.pl
 bi.dtsgroup.com.tw
 billing.dolphin.com.np
@@ -2408,12 +2410,14 @@ cpcalendars.dynoemail.com
 cpcalendars.dynogames.jp
 cpcalendars.dynomaui.com
 cpcalendars.dynomob.com
+cpcalendars.dynospin.com
 cpcalendars.dynotestcenter.fi
 cpcalendars.dynotuning.net.au
 cpcontacts.between-the-hedges.digital-disco-services.co.uk
 cpcontacts.dailymercedes-benz.com.vn
 cpcontacts.dataprotect.ph
 cpcontacts.dekapai56789.site
+cpcontacts.detectives-madrid-baratos.es
 cpcontacts.discordgamepass.com
 cpcontacts.discordhosting.com
 cpcontacts.discordiastudios.com
@@ -2429,6 +2433,7 @@ cpcontacts.dynoemail.com
 cpcontacts.dynogames.jp
 cpcontacts.dynomaui.com
 cpcontacts.dynomob.com
+cpcontacts.dynospin.com
 cpcontacts.dynotestcenter.fi
 cpcontacts.dynotuning.net.au
 craig-whittington.demowebsiteclient.com
@@ -2472,6 +2477,7 @@ das-kann-bk.de
 das-schokoladenmaedchen.de
 das.al
 dasa.net
+daslegeichweg.de
 data-caq.me
 databet88.asia
 datachamber.com.ng
@@ -2492,6 +2498,7 @@ dbsoffshoreintl.com
 dcbbank.com
 dcelectionnews.com
 dclnigeria.com
+dcsecurity.com.mx
 dd-eg.de
 deaemasu.com
 decaturgriefsupport.com
@@ -2612,6 +2619,7 @@ discard.gg
 disco-opa.nl
 disco.as
 discodancersgame.com
+discodazzle.co.za
 discodien.com
 discoduroexternoonline.top
 discografiasenmega.com
@@ -2626,7 +2634,7 @@ discordfootball.com
 discordgamepass.com
 discordhosting.com
 discordia.uk
-discordoauth.ga
+discordlegal.com
 discoride.ru
 discoroles.store
 discorvi.com
@@ -2637,7 +2645,6 @@ discouraged-site57r.tk
 discourse.dynomotion.com
 discoursedash.com
 discourseflarum.my.id
-discourtserslongsfin.cf
 discoverymachine.com
 discovreducation.com
 discproduction24.com
@@ -2706,6 +2713,7 @@ dr-leaddriver.drsvc.aws.dealertrack.com
 dragonballsuper-france.fr
 dragonballz.jp
 dreamcatchersjournal.com
+dreamingofajewishchristmas.com
 dreamstateofficial.com
 dreoriekodoerp.com
 drivdelivery.com.br
@@ -2733,6 +2741,7 @@ dtvbangla.tv
 duartbeauty.com
 duarymedia.com
 dubaicartowingservice.com
+dubasque.org
 dubtek.de
 duchessofcybersecurity.com
 dunaharasztionline.hu
@@ -2787,6 +2796,7 @@ etc-bbcvcvf.dumb1.com
 etc-bcvdfsfs.dumb1.com
 etc-fdehgg.dumb1.com
 etp.dkvservicios.com
+evolution-co-pack.demowebsiteclient.com
 expressroofing.dfwstagingclient.com
 extensiones-metamask.com.dymtecnologia.com
 f9e702ef7c804715b5ae38bb4d44aa0e.svc.dynamics.com
@@ -2874,6 +2884,8 @@ ikt-hd.dsmynas.com
 img.dailycafe.co.kr
 in.mdemail.discord-accounts.ru
 int.kyc.deutschebank.be
+intelly-monitor.dpscable.com
+interior-graphics.demowebsiteclient.com
 invicdn.dynomeshcdn.net
 inyourarea.digdat.co.uk
 iq-support.digital-control.de
@@ -2909,6 +2921,7 @@ mail.dynogames.jp
 mail.dynomaui.com
 mail.dynotuning.net.au
 mail.portalv3.dynotestedfiles.com
+mailcenterdev.distribion.com
 maprest.dynamicdiscord.de
 maraimhennaartist.discoveryecommerce4.co.uk
 membership-amazon24h-support.com.derhosting.ma
@@ -2966,9 +2979,12 @@ phpmyadmin.discord-acc.ru
 pi-dv-app.dairyfarmgroup.com
 pimvdvossen.disco-dj.nl
 platform.anna1.drugdevdev.com
+plex.maison.discours.org
+pmlitetest.dmc-one.com
 portal.devriesretail.nl
 portalv3.dynotestedfiles.com
 pos.discord-accounts.ru
+postfix.dreammllc.com
 postfixadmin.descours.cc
 postoapoloadm.ddns.com.br
 postulatecan.dynamus.com
@@ -3069,6 +3085,7 @@ vendas.drivdelivery.com.br
 video.disney.ph
 vls.dev-vlaanderen.be
 vmail.desirewordnet.com
+wallet-dev.detiktemasek.com
 web.discord-accounts.ru
 webdisk.dcs-japan.com
 webdisk.device-icloud.com
@@ -3091,6 +3108,7 @@ webdisk.dynogames.jp
 webdisk.dynomaui.com
 webdisk.dynomiteheadlite.com
 webdisk.dynomob.com
+webdisk.dynospin.com
 webdisk.dynotestcenter.fi
 webdisk.dynotuning.net.au
 webdisk.katrincoitoguarwww.admin.discord-accounts.ru
@@ -3129,6 +3147,7 @@ www.arabicana.ga.deliveryontime.ca
 www.aupost.debrenyart.com
 www.australia-security-testserver.developerventure.com
 www.bancofalabella.com.co.djcottage.com
+www.billgenerate.dbsforme.com
 www.billionscomputer.desamacang.com
 www.blueskyoilforsale.com.deliveryexpressagency.com
 www.bodyinnovations.demowebsiteclient.com
@@ -3188,6 +3207,7 @@ www.dazller.co.in
 www.dbs-login.com
 www.dcbbank.com
 www.dcceew.gov.au
+www.dcsecurity.com.mx
 www.dealertrack.com
 www.deckert-service.bmw
 www.deeprootcenter.org
@@ -3200,6 +3220,7 @@ www.dei.gr
 www.delasoft.com
 www.delectoralector.com
 www.delivery-switzerland.com
+www.deliveryfoodsnow.shop
 www.deliverypedefy.com.br
 www.delta359.com
 www.deltalloyd.nl
@@ -3275,6 +3296,7 @@ www.domu.nyc
 www.domusbali.pt
 www.donki.com
 www.doobox.co.uk
+www.doordash-services.com
 www.doorstepapplianceservice.com
 www.dopracenakole.cz
 www.dori.si
@@ -3318,6 +3340,7 @@ www.dynamicssquare.co.uk
 www.dynoli.com
 www.dynopiste.fi
 www.dynops.no
+www.evolution-co-pack.demowebsiteclient.com
 www.expressroofing.dfwstagingclient.com
 www.fossbilling.deikijilo.com
 www.ghosttownchiropractic.dfwstagingclient.com
@@ -3335,6 +3358,7 @@ www.helpdesk.d-prompt.com
 www.ikrxibpncvfk.dentistrybliss.com
 www.info.directexpressdelivery.us
 www.ingkundenservice.diepost-track.com
+www.interior-graphics.demowebsiteclient.com
 www.iqra.demowebsiteclient.com
 www.jasapembasmirayapjakarta.divapestcontrol.net
 www.jwyuwkhoprgu.accounts.dentistrybliss.com
@@ -3356,6 +3380,7 @@ www.pacetadventurestore.drwskincarebanten.com
 www.palletize.demowebsiteclient.com
 www.pedizap.deliverydigital.app.br
 www.phambili.demowebsiteclient.com
+www.postfix.dreammllc.com
 www.postky.digitalistr.com
 www.pulserasdeactividad.net.downn.store
 www.salemfve.login.dailygraphiq.com
@@ -3370,6 +3395,7 @@ www.smservice.digitalmarketerguru.com
 www.sports-update.directtv1.com
 www.sports-update.directtv1.site
 www.store.digitalsecurity-dz.com
+www.superwifi.id.deltasystem-security.com
 www.support.darkdesigns.co
 www.syncsecurity.co.uk.divage.info
 www.teamit.difento-kunder.dk
@@ -3385,6 +3411,7 @@ www.usernet.dekoningh.nl
 www.vanessa.demowebsiteclient.com
 www.webbanksolution.eu.digitalbankservice.eu
 www.webdisk.onecroregoawww.2019.discord-accounts.ru
+www.whats.deliverydigital.app.br
 www.xn--lkkeservice-ggb.dk.linux205.dandomainserver.dk
 www7.signon2.deadorbit.net
 wwww.dioneprotocol.com
