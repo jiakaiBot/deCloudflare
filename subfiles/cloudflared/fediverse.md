@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,118 |
-| social | 3,132 |
+| social | 3,133 |
 | net | 2,631 |
 | org | 1,892 |
 | de | 1,773 |
@@ -32399,6 +32399,7 @@ Here's a list of public Fediverse services.
 | `velma.club` | No |
 | `velocipederider.com` | No |
 | `veloma.org` | No |
+| `velour.social` | Yes |
 | `velstandsfanden.no` | No |
 | `velt.space` | No |
 | `veltens.org` | No |
@@ -34837,7 +34838,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,023 |
+| Cloudflare | 8,024 |
 | Normal | 26,771 |
 
 
