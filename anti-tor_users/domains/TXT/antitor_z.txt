@@ -270,6 +270,7 @@ etc-fjiojoe.zzux.com
 etc-ytrtrt.zzux.com
 gateway.zscalergov.net
 gog-ws.zt-archiv.at
+happless-api-prod.zeitfracht.digital
 home.zander.su
 impots.gouv.fr.zweirad-center-bullerjahn.de
 javelin.staging.zsservices.com
@@ -278,6 +279,7 @@ jvc.ziondelivery.app.br
 kennis.zuid-holland.nl
 keycloak.zzieut.com
 koala.zetadns.net
+link.zomato.com
 login.zinki.ai
 nh-sauce-discord-bot.zeferinix.com
 p.zpa-auth.net
@@ -329,6 +331,7 @@ www.zeelandbusiness.nl
 www.zelitesolutions.com
 www.zengin-net-bcp1.jp
 www.zenkouro.org
+www.zeroway.site
 www.zierzolab.com
 www.zillowstatic.com
 www.zimlab.com
@@ -336,11 +339,13 @@ www.zinapflegedienst.de
 www.zomato.com
 www.zonguldakbarosu.org.tr
 www.zoogdiervereniging.nl
+www.zoya.in
 www.ztzhelpdesk.info
 yearmoney.zi5qyr.cf
 zacrknt.si
 zagreb-apt.com
 zapach-papieru.pl
+zapatosrosas.com
 zebrayouth.org
 zebtravels.com.pk
 zenflo.org
