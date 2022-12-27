@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,120 |
-| social | 3,135 |
+| social | 3,136 |
 | net | 2,631 |
 | org | 1,892 |
 | de | 1,773 |
@@ -183,6 +183,7 @@ Here's a list of public Fediverse services.
 | `15cm.net` | Yes |
 | `15o2.de` | No |
 | `161.social` | No |
+| `1611.social` | No |
 | `161976857.com` | No |
 | `161hz.de` | No |
 | `1689.social` | Yes |
@@ -2698,7 +2699,7 @@ Here's a list of public Fediverse services.
 | `bangdream.space` | Yes |
 | `bangdream.tokyo` | No |
 | `bangtan.army` | No |
-| `banii.cafe` | No |
+| `banii.cafe` | Yes |
 | `banjo.camp` | Yes |
 | `banjo.town` | No |
 | `bankmann.name` | No |
@@ -15834,6 +15835,7 @@ Here's a list of public Fediverse services.
 | `kotiboksi.xyz` | No |
 | `kotikoff.net` | No |
 | `kotlin.social` | No |
+| `koto.moe` | No |
 | `kotobank.ch` | No |
 | `kotocoop.org` | No |
 | `kotonoha.cafe` | Yes |
@@ -20836,7 +20838,7 @@ Here's a list of public Fediverse services.
 | `natudon-fishing.net` | No |
 | `natudon-outdoor.net` | No |
 | `naturalistlife.com` | No |
-| `naturalorder.me` | No |
+| `naturalorder.me` | Yes |
 | `naturar.social` | No |
 | `naturemag.org` | Yes |
 | `naturesmeatcandy.org` | Yes |
@@ -24048,7 +24050,7 @@ Here's a list of public Fediverse services.
 | `pnw.one` | No |
 | `pnw.place` | No |
 | `pnw.social` | No |
-| `pnw.zone` | No |
+| `pnw.zone` | Yes |
 | `pnyhf.eu` | No |
 | `poa.st` | Yes |
 | `poag.one` | Yes |
@@ -34845,8 +34847,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,028 |
-| Normal | 26,774 |
+| Cloudflare | 8,031 |
+| Normal | 26,773 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
