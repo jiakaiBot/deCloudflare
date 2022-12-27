@@ -22103,6 +22103,7 @@ Here's a list of public Fediverse services.
 | `nyan.live` | Yes |
 | `nyan.lol` | No |
 | `nyan.network` | No |
+| `nyan.systems` | No |
 | `nyanako.com` | Yes |
 | `nyanbinary.club` | No |
 | `nyanlout.re` | No |
@@ -34932,7 +34933,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,052 |
-| Normal | 26,836 |
+| Normal | 26,837 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
