@@ -2641,6 +2641,7 @@ api.broker-sb.ru
 api.collaudo.blockchainregionelombardia.it
 api.devices.eu.bosch-mobility-cloud.com
 api.qa.brusafe.be
+apibemgelada.bempensadoconsul.com.br
 app-galagames-star.blogspot.com
 app.bankinteres.net
 app.bankofbaroda.cyou
@@ -2685,6 +2686,7 @@ banca.tk
 bancadejornais.tk
 bancaderevistas.tk
 bancadigital.bancocuscatlan.com
+bancadjornal.tk
 bancanet.tk
 banco.bradesco
 bancociudad.com.ar
@@ -2714,6 +2716,7 @@ bankofamerica-checkings.com
 bankovnikrediti-tomislav.com
 bankprofits.xyz
 banksampahanggur.com
+banksampahbangkitku.site
 banksampahkemuning.com
 banksanimalhospital.com
 banksiagrovefishandchips.com.au
@@ -2791,6 +2794,7 @@ bestcv.com.ua
 bestdayever.uk
 bestielts.ir
 bestlifesolutions.de
+bestoculos.com.br
 bestowsoftwaresolutions.com
 bestshiftingservices.com
 bet88slot.cc
@@ -2895,9 +2899,11 @@ biosyafa.id
 biotalde.com
 birathospital.com
 birger.app
+birminghamwatch.org
 bismuni.com
 bistopbhadim.co.il
 bit.lv
+bitcarlo.com
 bitflyer-transaction.blogspot.com
 bittenoxford.co.uk
 bivabox.com
@@ -2912,6 +2918,7 @@ bjsys.uk
 bkbo.nl
 blackflightaviation.com
 blacksail.club
+blackswanfarming.com
 blalockftreeservice.com
 blath-na-dtulach.com
 bleacherbrawls.com
@@ -2938,7 +2945,6 @@ blogatlarge.com
 blogdaytinhoc.com
 blogdeldia.com
 blogpocket.app
-blogsaddnadiscwormpe.ga
 blogscrolls.com
 blogspinners.com
 bloguers.net
@@ -2949,6 +2955,7 @@ bloorhomes.com
 blossomsfield.com.sg
 bloxhamstudio.ca
 bloxs.com
+bloxvalues.com
 bloxynews.net
 bltkub-coin.blogspot.com
 blue-services.gr
@@ -2962,6 +2969,7 @@ bmrcreation.com
 bnacredibility.org.uk
 boastcity.com
 bocatablet.com
+bocoran-slot.com
 bodennews.us
 boerderij-rust-in-pipowagens.com.es
 bofsecurity.com
@@ -2972,6 +2980,7 @@ bonifacemwangi.com
 bookiing.online
 bookozy.fr
 booksrar.com
+bookyourpost.co.uk
 boostbuddy.xyz
 bootsanmeldung-lago-maggiore.de
 boran.live
@@ -3051,6 +3060,7 @@ bueriaktiv60plus.ch
 bugertech.com
 bukharianmatch.com
 buku.bancak.id
+bulkonline.ir
 bulldogottawa.com
 bullionmoney.com
 bumblejax.com
@@ -3062,6 +3072,7 @@ burp.es
 bursadekor.net.tr
 busdminers.xyz
 businessconnectindia.in
+businessgracy.com
 businessitsupport.net.au
 businesslug.com
 businessofcannabis.com
@@ -3155,6 +3166,7 @@ docs.bizzkit.dev
 dot.biletyplus.ua
 dss-psd2.obdirectory.banfico.net
 e-office.bni.co.id
+earnfreecry.blogspot.com
 eccoviaauth.b2clogin.com
 edge.blockboardtech.com
 edge02-jzk.beetv.kz
@@ -3170,6 +3182,7 @@ eprofileatpib2c.b2clogin.com
 erste-foundation.byinfinum.co
 escalantetreeservice.bytfm.com
 esperanzaspaldingfredhersch.bandcamp.com
+esticket2022-2023.belugacpn.jp
 events.paypay.blameless.io
 exchange.buzzoola.com
 exretailb2c.b2clogin.com
@@ -3178,6 +3191,7 @@ farismetha.butuh.website
 feedback.bkgc.in
 files.banco-pichincha.io
 flwdesigncloud.b2clogin.com
+free-fireevent123.blogspot.com
 freefx.best-japan-tokyo.com
 front.digitalniuniverzita.cz.microsoft.staging.biceps.digital
 front.digitalniurad.cz.microsoft.staging.biceps.digital
@@ -3267,6 +3281,7 @@ logs.browser-intake-datadoghq.com
 lsab2cint.b2clogin.com
 lyondell-maasvlakte.bis-client.com
 mail.bankofamerica-checkings.com
+mail.bay81.com
 mail.beachtimesunglasses.com
 mail.blockchaink-12.com
 mail.blockchainpubs.com
@@ -3292,6 +3307,7 @@ moneroid.b2clogin.com
 monmark.bancow.com.co
 monthlyupdate.blossomplaytherapy.com
 mtrxadmiral.b2clogin.com
+navicob2c.b2clogin.com
 navidrome.bugcore.net
 ncsprod.b2clogin.com
 nedratawwab.bulletin.com
@@ -3313,6 +3329,7 @@ package.bismoment.com
 pancakeswapflnance.blogspot.com
 papelariabarao-mg.blogspot.com
 particulares.bancosantander.es
+partners-api.bnpparibas-pf.pt
 payroll.benefitsforyou.com
 pgadmin.blockchaindevbd.com
 pin.brimfinancial.com
@@ -3332,6 +3349,7 @@ prod.sdi.beyers.eu
 protectedaccount-amazccom.bonokiwbandar.net
 pt.beone-bank.com
 qa01.boardpad.com
+qld-api.bnpparibas-pf.pt
 qtcprdb2c.b2clogin.com
 quo25.belcorp.biz
 rainey.bandcamp.com
@@ -3358,6 +3376,7 @@ services.bwiki.co
 sharepoint.bre.com
 shyft-dev.byteorbit.com
 signature.bforbank.com
+sip.bankbsi.co.id
 sip.beiersdorf.com
 sisgestao.bancotbs.com.br
 site.bancodedatos.com.co
@@ -3420,6 +3439,7 @@ webdisk.blogwithcom.com
 webdisk.bolajalanyuk.com
 webdisk.brust-vergroesserung.at
 webdisk.businessbrokersmiddlemarkets.com.au
+webmail.bapedibamaroteng.org.za
 webmail.blockchaink-12.com
 webmail.blockchainz.top
 webmail.boydinsuranceservice.com
@@ -3496,6 +3516,7 @@ www.baumann-bauservice.de
 www.baunetz.de
 www.bbc-express.com
 www.bbva.com.co
+www.bcrsanto.com
 www.bdautos.net
 www.bdtonline.com
 www.be-selfunlimited.com
@@ -3507,6 +3528,7 @@ www.behavioralsurveys.com
 www.belaireplaza.com
 www.benbnyc.com
 www.benemarqualityservice.com.br
+www.benitosupport.com
 www.benjaminmoore.com
 www.benoitdebarras.fr
 www.benteh.no
@@ -3597,6 +3619,7 @@ www.blogvarient.com
 www.bloomnation.com
 www.bluecher-bar.de
 www.bluestbunny.net
+www.bluetherapeutics.com
 www.bluetilecreative.com
 www.bmgbolig.no
 www.bmgresearch.co.uk
@@ -3608,6 +3631,7 @@ www.bodhi.com.my
 www.bodyarmorcompany.com
 www.boekgeschiedenis.nl
 www.boj.or.jp
+www.bok.or.kr
 www.bokumolifeshift.com
 www.bonheurdechine.com
 www.bookdoorservice.com
@@ -3714,6 +3738,7 @@ www.gitlab.gitlab.gitlab.gitlab.f.bankiras.ru
 www.go.banktryout.com
 www.identity-clinic.brandlab.hu
 www.intesasanpaolo.com.brasersteel.pt
+www.kontol.bucin.site
 www.leon.banqueate.com
 www.login-nbd-emirates.bottroofing.com
 www.loscompadres.banqueate.com
@@ -3730,6 +3755,7 @@ www.safemanager.balmacedahostel.cl
 www.safety.bussinesimpact.com
 www.samtaku.banksampah.online
 www.secured.boofintech.site
+www.service.bejimla.com
 www.services.batclub-gh.com
 www.services.bwiki.co
 www.singer.bpclient.click
