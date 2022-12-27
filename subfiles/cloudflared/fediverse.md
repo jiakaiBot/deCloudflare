@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,123 |
-| social | 3,136 |
+| com | 5,124 |
+| social | 3,137 |
 | net | 2,636 |
 | org | 1,895 |
 | de | 1,773 |
@@ -31028,6 +31028,7 @@ Here's a list of public Fediverse services.
 | `tootally.me` | No |
 | `tootaloo.me` | No |
 | `tootbook.com` | No |
+| `tootchute.com` | No |
 | `tootcn.com` | Yes |
 | `toote.rs` | No |
 | `tooted.ca` | No |
@@ -32944,6 +32945,7 @@ Here's a list of public Fediverse services.
 | `wallflowersocial.club` | No |
 | `wallhax.co` | Yes |
 | `walljm.com` | Yes |
+| `wallonie-bruxelles.social` | No |
 | `walls.social` | Yes |
 | `walrusmafia.com` | No |
 | `waltdn.com` | No |
@@ -34874,7 +34876,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,039 |
-| Normal | 26,791 |
+| Normal | 26,793 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
