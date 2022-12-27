@@ -1205,14 +1205,17 @@ accept.marseaservices.com.kiwicloud.nl
 accept.protix.eu.kiwicloud.nl
 accept.seatrade-hamburg.com.kiwicloud.nl
 account.login.com.kccamp.com
+accsys.k12ea.gov.tw
 adfs.ksthky.fi
 amp.kentucky.com
+api-frc.eu.kone.com
 api-map-service.kai.sn
 api.cadro.kaldi.si
 api.janushenderson.hub.kaizenreporting.com
 api.kaisservices.co.uk
 api.karmak.io
 api.keepo.io
+api.klktech.com
 api.kocfinans.com.tr
 app.karza.in
 appleseedlabs.com.kmvin.com
@@ -1223,8 +1226,11 @@ autodiscover.katyroblog.com
 autodiscover.kinitrologoukaipsixis.gr
 aws1.klinge.com.au
 b2b.kinitro-exartimata.gr
+bba.klesnc.edu.in
+bca.klesnc.edu.in
 bed-and-breakfast.kunden-server.net
 clement-forms-xoxoxosafe.share.dev.kizeo.dev
+client.kageyama.developers.kikitori-dev.net
 cloud.kawigraha.com
 cloud.kumi.ch
 containyourself.konker.ie
@@ -1258,6 +1264,7 @@ erp.kkl.gov.tw
 eset.kontorbutikken.dk
 estold.kometaservice.ro
 experience.heidibroerman.knight.domains
+fad.klesnc.edu.in
 faq.musashinobank.karakuri.ai
 fedex-track.co.nz.kora.et
 fg250.keap-link011.com
@@ -1281,11 +1288,13 @@ gov.kakaowork.com
 grueil.kunder2-guru-utvikling.no
 ha.komish.de
 helpdesk.klinikberdikari.id
+home.gov.kakaowork.com
 id.aruba.kfv-main-tauber.com
 img.krchoksey.com
 inpro-dev.kfintech.com
 integrationsstaging.kenexa.com
 ipb.service.dev.infra.karawaning.pl
+ir.kiromic.com
 it-support.kaufland-ecommerce.com
 ivrcaller.klearcom.com
 ja.kyoto.travel
@@ -1388,6 +1397,7 @@ kitpass.karpagamhelpdesk.in
 kittech.fr
 kizamu.com
 klarauberet.ru
+klecbalc.edu.in
 klimabuendnis-hamm.de
 klinix.com
 klinnow.com
@@ -1520,6 +1530,7 @@ test.sana-commerce.com.kiwicloud.nl
 testfrontdoor.kokorowatch.com
 toot-fakerelay.kra.hn
 traefik.klukap.de
+ttm.klesnc.edu.in
 turn-meet.kienlongbank.co
 umz786.keap-link005.com
 united-states.kinokuniya.com
