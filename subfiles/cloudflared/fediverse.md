@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,118 |
-| social | 3,133 |
+| com | 5,119 |
+| social | 3,135 |
 | net | 2,631 |
 | org | 1,892 |
 | de | 1,773 |
@@ -4012,6 +4012,7 @@ Here's a list of public Fediverse services.
 | `brined.fish` | Yes |
 | `bring.tw` | Yes |
 | `brioco.art` | No |
+| `brioco.social` | No |
 | `brisingr.uk` | Yes |
 | `bristol.social` | No |
 | `bristow.ch` | Yes |
@@ -4137,6 +4138,7 @@ Here's a list of public Fediverse services.
 | `bugbrowser.com` | No |
 | `bugplasma.de` | No |
 | `bugs.social` | No |
+| `buicha.social` | Yes |
 | `builditwith.pw` | No |
 | `bukkake.social` | No |
 | `bulbasaur.garden` | No |
@@ -5518,7 +5520,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -15979,6 +15981,7 @@ Here's a list of public Fediverse services.
 | `kumi.life` | No |
 | `kumi.tube` | No |
 | `kumi.zone` | No |
+| `kumolabo.com` | No |
 | `kunkel24.de` | No |
 | `kunkunzzz.xyz` | Yes |
 | `kunstkultundkaffee.de` | No |
@@ -22479,6 +22482,7 @@ Here's a list of public Fediverse services.
 | `oocsoul.com` | No |
 | `ooe.social` | No |
 | `oof.me` | No |
+| `oogy.club` | Yes |
 | `ooio.org` | No |
 | `ookami.one` | No |
 | `oomfi.es` | No |
@@ -34838,8 +34842,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,024 |
-| Normal | 26,771 |
+| Cloudflare | 8,027 |
+| Normal | 26,772 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
