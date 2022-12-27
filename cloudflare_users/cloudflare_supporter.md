@@ -6296,6 +6296,7 @@ Do not create new issue or we will close it as duplicate.
 | [MgKAUNGMINSAN1@twitter](https://twitter.com/MgKAUNGMINSAN1/status/1388468024299061249) | advertise |
 | [MgKyawLay20211@twitter](https://twitter.com/MgKyawLay20211/status/1393142033678704641) | advertise |
 | [MgMg05326455@twitter](https://twitter.com/MgMg05326455/status/1391212150182617088) | advertise |
+| [MgMg17638079@twitter](https://twitter.com/MgMg17638079/status/1607523414629322754) | advertise |
 | [MgMg62363537@twitter](https://twitter.com/MgMg62363537/status/1484801614519336960) | advertise |
 | [MgMg81376148@twitter](https://twitter.com/MgMg81376148/status/1403732741514878983) | advertise |
 | [Mgmg87269206@twitter](https://twitter.com/Mgmg87269206/status/1391808437126787072) | advertise |
