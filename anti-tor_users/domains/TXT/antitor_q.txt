@@ -178,6 +178,7 @@ betas.quantalucia.com
 contenu.authentification.quebec.ca
 datarobot.edr.stg.qantasloyalty.net
 device.app.qbee.io
+discourse.q2r.net
 dpvverify.saas.devshared.ondemand.qas.com
 enyl.us1.qeadaptiveauth.com
 idp.desktopdev.quicktools.cloud
