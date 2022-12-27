@@ -4349,6 +4349,7 @@ Do not create new issue or we will close it as duplicate.
 | [James96208841@twitter](https://twitter.com/James96208841/status/1393623179201900544) | advertise |
 | [JamesAutoDude@twitter](https://twitter.com/JamesAutoDude/status/1456424781746630658) | advertise |
 | [JamesBaKyaw2@twitter](https://twitter.com/JamesBaKyaw2/status/1391787887943766016) | advertise |
+| [JamesCruce@twitter](https://twitter.com/JamesCruce/status/1607732728694472705) | advertise |
 | [JamesDanMadeIt@twitter](https://twitter.com/JamesDanMadeIt/status/1489444365412016129) | advertise |
 | [JamesHa60757976@twitter](https://twitter.com/JamesHa60757976/status/1399815122022014981) | advertise |
 | [JamesKightley@twitter](https://twitter.com/JamesKightley/status/1530279999575564289) | advertise |
