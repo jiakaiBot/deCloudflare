@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,119 |
+| com | 5,120 |
 | social | 3,135 |
 | net | 2,631 |
 | org | 1,892 |
@@ -25482,6 +25482,7 @@ Here's a list of public Fediverse services.
 | `redrosewriter.com` | Yes |
 | `redrover.social` | Yes |
 | `redsnow.io` | No |
+| `redspinning.top` | No |
 | `redsqua.re` | No |
 | `redstateliberal.social` | No |
 | `redstonelp2.com` | Yes |
@@ -28570,6 +28571,7 @@ Here's a list of public Fediverse services.
 | `sqkyote.me` | Yes |
 | `sqlblog.com` | No |
 | `sqldba.pro` | No |
+| `sqlik.com` | Yes |
 | `sqljuju.com` | Yes |
 | `sqrrl.xyz` | Yes |
 | `sqrt.to` | Yes |
@@ -33094,6 +33096,7 @@ Here's a list of public Fediverse services.
 | `webzone69.com` | No |
 | `wecraft.beer` | No |
 | `weddingweiser.de` | Yes |
+| `wedgi.us` | No |
 | `wedin.us` | Yes |
 | `wedistribute.org` | No |
 | `wee.tf` | No |
@@ -34842,8 +34845,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,027 |
-| Normal | 26,772 |
+| Cloudflare | 8,028 |
+| Normal | 26,774 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
