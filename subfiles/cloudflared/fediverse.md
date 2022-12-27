@@ -738,6 +738,7 @@ Here's a list of public Fediverse services.
 | `accioly.dev` | Yes |
 | `acclaro.digital` | Yes |
 | `accoord.fr` | Yes |
+| `accordi.online` | No |
 | `accordingtohoyt.com` | No |
 | `accounting.social` | No |
 | `accretion.eu.org` | No |
@@ -7759,6 +7760,7 @@ Here's a list of public Fediverse services.
 | `douga.ga` | No |
 | `dougaldog.uk` | No |
 | `dougbeal.com` | No |
+| `dounx.me` | No |
 | `douvk.co.uk` | No |
 | `doux.fun` | No |
 | `douzepoints.social` | Yes |
@@ -34872,7 +34874,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,039 |
-| Normal | 26,789 |
+| Normal | 26,791 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
