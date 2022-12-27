@@ -8398,6 +8398,7 @@ Do not create new issue or we will close it as duplicate.
 | [q_thatguy@twitter](https://twitter.com/q_thatguy/status/1601748909038374915) | advertise |
 | [q_vz88@twitter](https://twitter.com/q_vz88/status/1588861118705184769) | advertise |
 | [r0c4p1a@twitter](https://twitter.com/r0c4p1a/status/1489935636815568897) | advertise |
+| [R1_Khalid@twitter](https://twitter.com/R1_Khalid/status/1607573474477744131) | advertise |
 | [R3DActual@twitter](https://twitter.com/R3DActual/status/1468895846444015617) | advertise |
 | [R3Zipo@twitter](https://twitter.com/R3Zipo/status/1542271365642059776) | advertise |
 | [R3ZNamikaze23@twitter](https://twitter.com/R3ZNamikaze23/status/1583609063954227201) | advertise |
