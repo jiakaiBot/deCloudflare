@@ -9974,8 +9974,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
@@ -10146,6 +10146,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThuKywel@twitter](https://twitter.com/ThuKywel/status/1391427152147480577) | advertise |
 | [ThuLinh45837796@twitter](https://twitter.com/ThuLinh45837796/status/1556577384253784065) | advertise |
 | [thun72999810@twitter](https://twitter.com/thun72999810/status/1405922614225211392) | advertise |
+| [thuocla01@twitter](https://twitter.com/thuocla01/status/1607612256971526144) | advertise |
 | [thuong120780@twitter](https://twitter.com/thuong120780/status/1379211441912209408) | advertise |
 | [ThuongN25131395@twitter](https://twitter.com/ThuongN25131395/status/1556707499004526593) | advertise |
 | [thuowngqua@twitter](https://twitter.com/thuowngqua/status/1383526302058106881) | advertise |
@@ -10663,6 +10664,7 @@ Do not create new issue or we will close it as duplicate.
 | [UnicornBot3@twitter](https://twitter.com/UnicornBot3/status/1607219397617418241) | advertise |
 | [united88488681@twitter](https://twitter.com/united88488681/status/1394865054521053189) | advertise |
 | [unitedasone2001@twitter](https://twitter.com/unitedasone2001/status/1585668577038053376) | advertise |
+| [Unknown_123127@twitter](https://twitter.com/Unknown_123127/status/1607629192665137153) | advertise |
 | [UnmineableCode@twitter](https://twitter.com/UnmineableCode/status/1510333319317176327) | advertise |
 | [UNo29958011@twitter](https://twitter.com/UNo29958011/status/1399227396000149504) | advertise |
 | [Uno74600825@twitter](https://twitter.com/Uno74600825/status/1393655865744363523) | advertise |
