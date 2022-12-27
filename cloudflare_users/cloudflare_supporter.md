@@ -3751,6 +3751,7 @@ Do not create new issue or we will close it as duplicate.
 | [HongTr04515619@twitter](https://twitter.com/HongTr04515619/status/1399293060333203457) | advertise |
 | [HongTun98217052@twitter](https://twitter.com/HongTun98217052/status/1562456220744941570) | advertise |
 | [HongVNguyn13@twitter](https://twitter.com/HongVNguyn13/status/1377792442032816128) | advertise |
+| [HongVnNguynPhc1@twitter](https://twitter.com/HongVnNguynPhc1/status/1607848210537795585) | advertise |
 | [honhonhon15@twitter](https://twitter.com/honhonhon15/status/1391140808623939585) | advertise |
 | [Honziiin1@twitter](https://twitter.com/Honziiin1/status/1536496120448303105) | advertise |
 | [Hoo20967296@twitter](https://twitter.com/Hoo20967296/status/1552675581833097216) | advertise |
@@ -8655,6 +8656,7 @@ Do not create new issue or we will close it as duplicate.
 | [RMS_KING24@twitter](https://twitter.com/RMS_KING24/status/1495456762257809408) | advertise |
 | [rm_blank_slash@twitter](https://twitter.com/rm_blank_slash/status/1382681666817126402) | advertise |
 | [rng81037312@twitter](https://twitter.com/rng81037312/status/1548930284585766913) | advertise |
+| [Rnosiba_12@twitter](https://twitter.com/Rnosiba_12/status/1607854048358666242) | advertise |
 | [rnrwebdesign@twitter](https://twitter.com/rnrwebdesign/status/1557482655087738880) | advertise |
 | [RobAllen26@twitter](https://twitter.com/RobAllen26/status/1386491535038902276) | advertise |
 | [Robert54332996@twitter](https://twitter.com/Robert54332996/status/1398109501794906119) | advertise |
@@ -10500,6 +10502,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrungVu97820946@twitter](https://twitter.com/TrungVu97820946/status/1514387383353229315) | advertise |
 | [TrunTru48885665@twitter](https://twitter.com/TrunTru48885665/status/1405518457458753536) | advertise |
 | [trun_kynw1506@twitter](https://twitter.com/trun_kynw1506/status/1551907227535310848) | advertise |
+| [Truong00386753@twitter](https://twitter.com/Truong00386753/status/1607847017514160129) | advertise |
 | [Truong31084796@twitter](https://twitter.com/Truong31084796/status/1569522394636877824) | advertise |
 | [truongchoechoet@twitter](https://twitter.com/truongchoechoet/status/1489978969927843840) | advertise |
 | [Truongd26939610@twitter](https://twitter.com/Truongd26939610/status/1400501039443361796) | advertise |
@@ -10924,6 +10927,7 @@ Do not create new issue or we will close it as duplicate.
 | [Waelelsayed56@twitter](https://twitter.com/Waelelsayed56/status/1397011445435469824) | advertise |
 | [wael_shamsedin@twitter](https://twitter.com/wael_shamsedin/status/1522288287284711427) | advertise |
 | [Waffle2175@twitter](https://twitter.com/Waffle2175/status/1535801167816577024) | advertise |
+| [wahabkh15404091@twitter](https://twitter.com/wahabkh15404091/status/1607854425128706052) | advertise |
 | [wahib0206@twitter](https://twitter.com/wahib0206/status/1522471146721099778) | advertise |
 | [Wahid765306612@twitter](https://twitter.com/Wahid765306612/status/1597558028467064833) | advertise |
 | [wahide09476385@twitter](https://twitter.com/wahide09476385/status/1578259810029830147) | advertise |
