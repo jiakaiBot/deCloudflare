@@ -272,6 +272,7 @@ yzphouse.com
 activity.yptqkc.cn
 admin.fast-track-v2-integration.yabawt-clients.com
 admin.fast-track-v2.yabawt-clients.com
+am.yahoo.co.jp
 an.yandex.ru
 app14.yellow-page.us
 asset.yes.my
@@ -337,6 +338,7 @@ www.bank.iefinance.go.yj.fr
 www.bill.yosasoftware.com
 www.billing.yourhostings.net
 www.clients.yukimedia.co.uk
+www.decline-bankofamerica.yapaya.com.co
 www.identity.yukimedia.co.uk
 www.occup-confirm-ation-lite-fr.go.yj.fr
 www.qr.yummydelivery.et
@@ -385,6 +387,7 @@ ym.y3technologies.com
 yoergbeer.com
 yoga36.de
 yomi-kata.com
+yophotodude.com
 yorkevent.com
 yorkplacemusicalsalon.ca
 youness.dev
