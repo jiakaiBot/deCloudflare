@@ -540,6 +540,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aliphent1@twitter](https://twitter.com/Aliphent1/status/1390970393012445188) | advertise |
 | [Alireza38854410@twitter](https://twitter.com/Alireza38854410/status/1590028048241659904) | advertise |
 | [Alireza47491461@twitter](https://twitter.com/Alireza47491461/status/1384770721897984000) | advertise |
+| [alirezas998@twitter](https://twitter.com/alirezas998/status/1607533612043276293) | advertise |
 | [alirezasalahi10@twitter](https://twitter.com/alirezasalahi10/status/1567979767273762817) | advertise |
 | [Alireza_mgm@twitter](https://twitter.com/Alireza_mgm/status/1378312020651618304) | advertise |
 | [alishaimrankhan@twitter](https://twitter.com/alishaimrankhan/status/1402248745991884806) | advertise |
