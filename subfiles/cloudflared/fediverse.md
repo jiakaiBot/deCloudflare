@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,123 |
 | social | 3,136 |
-| net | 2,634 |
+| net | 2,636 |
 | org | 1,895 |
 | de | 1,773 |
 
@@ -5478,6 +5478,7 @@ Here's a list of public Fediverse services.
 | `cold.solar` | No |
 | `coldness.co` | No |
 | `coldrick.me.uk` | Yes |
+| `coldvolcano.li` | No |
 | `cole.mn` | Yes |
 | `colean.cc` | No |
 | `colearn.social` | No |
@@ -5874,6 +5875,7 @@ Here's a list of public Fediverse services.
 | `crack.group` | No |
 | `crack.ninja` | Yes |
 | `cracked.ink` | No |
+| `cracker.cloud` | Yes |
 | `crackpipe.org` | Yes |
 | `cracrayol.org` | No |
 | `craftam.app` | No |
@@ -14577,6 +14579,7 @@ Here's a list of public Fediverse services.
 | `jleb.dev` | Yes |
 | `jlelse.blog` | Yes |
 | `jlelse.me` | Yes |
+| `jlelse.net` | Yes |
 | `jlfr.me` | No |
 | `jlg.id.au` | No |
 | `jlg.link` | Yes |
@@ -17700,6 +17703,7 @@ Here's a list of public Fediverse services.
 | `magnetic-ink.dk` | No |
 | `magnier.io` | No |
 | `magnificentbeardsfan.club` | No |
+| `magnitude-ten.net` | No |
 | `magnocrm.com` | No |
 | `magnoren.uk` | No |
 | `magnox.me` | No |
@@ -22039,6 +22043,7 @@ Here's a list of public Fediverse services.
 | `nwo.nu` | No |
 | `nx-pod.de` | No |
 | `nx12.net` | No |
+| `nx15.me` | No |
 | `nx15.rocks` | No |
 | `nxc.one` | Yes |
 | `nxs3.com` | No |
@@ -27792,6 +27797,7 @@ Here's a list of public Fediverse services.
 | `skyefortresszone.xyz` | No |
 | `skyenet.online` | No |
 | `skyenet.social` | Yes |
+| `skyevg.systems` | Yes |
 | `skyfish.jp` | No |
 | `skyjake.fi` | No |
 | `skylair.info` | Yes |
@@ -29632,6 +29638,7 @@ Here's a list of public Fediverse services.
 | `tank.im` | No |
 | `tankernn.eu` | No |
 | `tankie.ml` | No |
+| `tanngrisnir.xyz` | No |
 | `tanooki.club` | No |
 | `tanoshii.site` | Yes |
 | `tansuo.plus` | Yes |
@@ -34864,8 +34871,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,036 |
-| Normal | 26,785 |
+| Cloudflare | 8,039 |
+| Normal | 26,789 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
