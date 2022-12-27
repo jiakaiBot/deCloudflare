@@ -2030,7 +2030,6 @@ covidsafetymeasures.com
 covidsafetysupply.com
 covidsmallbusinesscounseling.com
 covidtest-lohausen.corona-server.de
-covidtestsurrey.co.uk
 covidupdate.cf
 covidwithcorndog.com
 cpanel-login.biz.id
@@ -3483,6 +3482,7 @@ api.cognitrom.net
 api.colorme-repeat.jp
 api.content.audi
 api.corpinter.net
+api.csdotnet.dev
 api.cutilei.com
 api.phyon.crif.com
 api.public.fixedline-dt-poc.clearblockchain.io
@@ -3505,6 +3505,7 @@ appleld.com-mx-web.us
 appleld.com-my-login.us
 appqa-pace.coca-cola.com.vn
 arview.cascais.pt
+assets.coreservice.io
 assettv.cmail19.com
 assettv.cmail20.com
 assurances.pacifica.credit-agricole.fr
@@ -3517,6 +3518,7 @@ autoconfig.coronamichele.it
 autodiscover.camerafoxinternational.com
 autodiscover.cheapnitrorccars.net
 autodiscover.chriscoddingtondesign.com
+autodiscover.christianhylander.com
 autodiscover.chriswigginspersonaltraining.com
 autodiscover.cnnogales.com
 autodiscover.coccursos.com.br
@@ -3568,6 +3570,7 @@ caca.pk
 cache-google.com
 cactuspk.com
 cafedeviande.com
+cafenitro.net
 cafeteria-cerveceriasuso.com
 cafflano.com
 cagleservice.com
@@ -3609,6 +3612,7 @@ cancela.comercio-digital.mx
 cancelthiscompany.com
 cancerfundforchildren.com
 candcinfotechdev.com
+canednpost-postasanedc.cc
 canex.ca
 canopusprint.com.au
 canopyplanet.org
@@ -3619,6 +3623,8 @@ capitalone5.space
 capitaomarques.com.br
 capres.com.ve
 captcha-dev.kube.cgorod.pw
+captcha.api.contentfleet.com
+captchabot.ml
 captchacreative.com
 captess.com
 caq-depot.me
@@ -3647,6 +3653,7 @@ carpetflooringservice.com
 carpusnaturalfoods.com
 carreira.vc
 carrierzone.com
+carsonparkdesign.com
 carsulmultimarcas.com
 carta.cabassers.org
 casadamoeda.pt
@@ -3858,6 +3865,7 @@ coinnex-platform-login.com
 coinno.com
 colegiodesociologos.org.uy
 colinmoss.info
+colischronopost-suivi.com
 colispostecanada.com
 collectiioon.com
 collectivemachinery.com
@@ -3916,7 +3924,6 @@ confronti.net
 congressos.corpbusiness.com.br
 connectrwanda.rw
 connecttrust.live
-conniespilotservice.com
 conosaki.net
 conquaindustries.co.za
 consciousnessofsheep.co.uk
@@ -3958,6 +3965,7 @@ contafast.net
 contagiouscollectivevg.nl
 contain.cf
 contain.gq
+containerb.com
 containere-de-locuit.ro
 containereoradea.ro
 containerhire.co.za
@@ -4145,6 +4153,7 @@ cryptomeritocracy.com
 cryptomlmsoftware.com
 cryptoninjachildren.com
 cryptoxl.com
+crystal-signal.com
 crystaleyessecurity.com
 crystalheights.edu.gh
 cs-s.dk
@@ -4164,6 +4173,7 @@ csgoethereum.com
 csgogladiators.clickplaydigital.com
 csgolist.pl
 csgopot.com
+csgoskinit.com
 csgosticker.com
 csgoszerverhun123321.fun
 csp-group.co.uk
@@ -4180,6 +4190,7 @@ cuantonecesitoparapasar.com
 cuentacuentos.uy
 cuentaletras.com
 cuentasempresariales.com.co
+cuetaroblog.com
 cufc-supportersclub.co.uk
 culmenodontologia.cl
 cumberland.crimewatchpa.com
@@ -4215,6 +4226,7 @@ cyberscoreoptimization.com
 cybersmartaquatics.org
 cyberspro.com
 cyberstories.com
+cyberthreat.id
 cyberwoxacademy.com
 cychatapp.cioinfotech.com
 cyrusindustrial.com
@@ -4245,6 +4257,7 @@ da.chesterfield.ac.uk
 daecrzzg3cbmx.cloudfront.net
 daily.cmail20.com
 data.cen.eu
+ddm-search-demo.crifbuergel.de
 de.cyberstore-de.com
 deanauto.cmail19.com
 dechoker.clickacumba.com
@@ -4404,6 +4417,7 @@ login.creativeblend.ml
 london.demo.cubelogic.com
 lp.contornomg.com
 lpages.cleanheartcredit.com
+lyb-devcac.cognizantgoc.com
 m.cmpgn.page
 m.cricbuzz.com
 m.klv.chatface.tech
@@ -4485,6 +4499,7 @@ performance.empresarial.citibanamex.com
 petition-file.cba.am
 ph.briq.int.crif.com
 piptest.crif.com
+play.clubgg.net
 plugin.1-107-01.release.client-paykassma.com
 pm-test0.insuranceoversight.cms.gov
 poligonomadrigueres.clientesgrupocyma.es
@@ -4586,6 +4601,7 @@ support.creatics.cl
 support.crediseguro.net
 supportservices.compass-group.co.in
 surokkha.gov.bd.covii.uno
+tcdlcdn.click.vn
 tdcanadatrust-mobile.cielomobile.com
 techthings.createsend1.com
 telefonservice.checkunity.com
@@ -4595,6 +4611,7 @@ test.campmonk.com
 test.csgo-distant.com
 test.qnetmft.cms.gov
 testefakture.schneider.coming.rs
+testpos.cyocs.com
 theconversationespaa.cmail19.com
 theconversationespaa.createsend1.com
 theconversationuk.createsend1.com
@@ -4835,6 +4852,7 @@ www.ciac.cu
 www.cibccards.com
 www.ciee-icee.ca
 www.cielosdegaia.com
+www.cinefilwowow.com
 www.cineplex.com
 www.ciosolutions.com
 www.cipe.org
@@ -4939,6 +4957,7 @@ www.concrete-roseville.com
 www.condicioneslaborales.com
 www.connect-kub1.ml
 www.connexion-fb.fr
+www.connexion-mabanque-bnpparibas.cb-wala.in
 www.conseguirdinero.cuentabanco.com
 www.consiglioveneto.it
 www.constructionweeksaudi.com
@@ -4959,6 +4978,7 @@ www.contactlensclinic.ru
 www.contactoqhse.com
 www.contadorescie.com
 www.container-registry.xyz
+www.containerb.com
 www.containertrans.central-coast-flooring.com
 www.containertrans.com.au
 www.contamac-demo.ccagency.co.uk
@@ -5109,6 +5129,7 @@ www.moneygame.carmis.ro
 www.monthlyupdate.cult-escape.com
 www.mts.asepcucu.contohdomain.com
 www.natural.contabilitate-neamt.ro
+www.newyorklists.com.courier-services.in
 www.nrangineh.clientstempsite.com
 www.nubank.certificado-seguro.com
 www.nzipi.org.nz.casesupport.co.nz
@@ -5137,14 +5158,17 @@ www.secure-payment.com.correaassociados.com.br
 www.secure.crestcrditunion.com
 www.security.chsrfypl-zljbypaf.org
 www.seguro.clientpixels.xyz
+www.seguroscatalana.catalanaoccidentesantcugat.cat
 www.service.confucius-institutes.eu
 www.servicemaq.confortaire.uy
+www.services.cadplus.in
 www.serviciosgeneralesjurupe.carpinteriajurupe.com
 www.shein-es.coupondeal-plus.com
 www.sigit.contohdomain.com
 www.staff.testuser.casinodestination.asia
 www.sub.hunuman.cfbx.jp
 www.supercreditifn.creditfararefuz.ro
+www.support.cdservis.ru
 www.support.churchinfinity.online
 www.support.creatics.cl
 www.support.crediseguro.net
