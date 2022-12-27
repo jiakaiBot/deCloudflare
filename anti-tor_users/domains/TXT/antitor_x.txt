@@ -6,7 +6,6 @@ autoconfig.xn--reifenservice-rbel-r3b.de
 autodiscover.cpanel.webdisk.webmail.mail.www.xflirt.fr
 avisosdeprivacidad.xtrategya.com
 blue-canary.xboxservices.com
-canadapost.ca.xueqfa.cn
 ci.xiaohongshu.com
 citizen-alert.x24hr.com
 click.messages.xoom.com
@@ -258,19 +257,20 @@ www.hasupport.xn--ogbza6bb.com
 www.restauservice.xtechsoftwarelib.com
 www.staging-1671712291.xn--dalbgesejendomsservice-8ic.dk
 www.xcubelabs.com
-www.xeosig.com
 www.xeroxmoney.com
 www.xn--7sich-ira.ch
 www.xn--billige-havembler-d1b.dk
 www.xn--feirododesconto-nkb.com.br
 www.xn--glasgonbgar-48a0t.se
 www.xn--mainzer-gebudereinigungsservice-0vc.de
+www.xn--skoogngleservice-qxb.dk
 www.xpressservice.in
 x-controls.no
 xabid.com
 xanaxdelivery-usa.com
 xbiz1627a2.xbiz.jp
 xclusive.mx
+xcontrol.com.tr
 xdesix.com
 xebenchenglong.com
 xechuyendungvulinh.com
@@ -284,6 +284,7 @@ xn--feirododesconto-nkb.com.br
 xn--hndverkerservice-dob.no
 xn--mainzer-gebudereinigungsservice-0vc.de
 xn--regnskapsfrerpris-90b.no
+xn--skoogngleservice-qxb.dk
 xn--t8j6c6de7a4051bxgdpu2o.net
 xn--webducation-dbb.com
 xn--www-ofus-touch-j1b.com
