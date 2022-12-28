@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,134 |
-| social | 3,149 |
-| net | 2,639 |
-| org | 1,895 |
+| com | 5,136 |
+| social | 3,151 |
+| net | 2,640 |
+| org | 1,896 |
 | de | 1,777 |
 
 
@@ -5531,7 +5531,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -5885,7 +5885,7 @@ Here's a list of public Fediverse services.
 | `crack.ninja` | Yes |
 | `cracked.ink` | No |
 | `cracker.cloud` | Yes |
-| `crackpipe.org` | Yes |
+| `crackpipe.org` | No |
 | `cracrayol.org` | No |
 | `craftam.app` | No |
 | `craftbeer.social` | No |
@@ -16085,6 +16085,7 @@ Here's a list of public Fediverse services.
 | `kwan.one` | No |
 | `kwat.chat` | No |
 | `kwatra.me` | Yes |
+| `kwhtech.net` | No |
 | `kwiecien.us` | No |
 | `kwinkunks.org` | No |
 | `kwitter.club` | No |
@@ -19740,6 +19741,7 @@ Here's a list of public Fediverse services.
 | `mod.digital` | No |
 | `modalnode.club` | No |
 | `mode15.com` | No |
+| `modelrailway.social` | No |
 | `modem.show` | Yes |
 | `moderators.tv` | No |
 | `modern-industry.com` | No |
@@ -19897,6 +19899,7 @@ Here's a list of public Fediverse services.
 | `montereybay.social` | No |
 | `monterrokyo.town` | No |
 | `montgomery.fr` | No |
+| `montmast.com` | No |
 | `montpellier.buzz` | No |
 | `montpeyroux.social` | No |
 | `montreuillois.com` | No |
@@ -21365,7 +21368,7 @@ Here's a list of public Fediverse services.
 | `nicholson.social` | Yes |
 | `nickbell.uk` | Yes |
 | `nickcharlton.net` | No |
-| `nickching.com` | No |
+| `nickching.com` | Yes |
 | `nickcho.social` | No |
 | `nickey.ru` | Yes |
 | `nickgreenbank.com` | No |
@@ -25214,7 +25217,7 @@ Here's a list of public Fediverse services.
 | `raite.social` | No |
 | `raithsphe.re` | Yes |
 | `raitisoja.cloud` | Yes |
-| `raitisoja.com` | No |
+| `raitisoja.com` | Yes |
 | `raitisoja.net` | No |
 | `raitsc.uk` | No |
 | `raiuraiu.de` | No |
@@ -25924,6 +25927,7 @@ Here's a list of public Fediverse services.
 | `riverside.camp` | No |
 | `riverside.rocks` | Yes |
 | `riversouldiers.dk` | No |
+| `rivervalleymaine.social` | No |
 | `riverwest.xyz` | Yes |
 | `riveted.social` | No |
 | `riviera.social` | No |
@@ -30363,6 +30367,7 @@ Here's a list of public Fediverse services.
 | `themastodon.uk` | No |
 | `themaymeow.com` | Yes |
 | `themazuma.net` | No |
+| `themcbros.com` | Yes |
 | `themcphails.uk` | No |
 | `themelancholaholic.com` | No |
 | `themepark.community` | Yes |
@@ -30507,6 +30512,7 @@ Here's a list of public Fediverse services.
 | `theultraworld.org` | No |
 | `theundead.cricket` | No |
 | `theunseen.city` | No |
+| `theunwashed.org` | No |
 | `theup.link` | No |
 | `theupsidedown.uk` | Yes |
 | `theurbanfarmer.org` | No |
@@ -33152,6 +33158,7 @@ Here's a list of public Fediverse services.
 | `webm.ink` | No |
 | `webmages.com` | No |
 | `webmapping.social` | No |
+| `webmdma.live` | Yes |
 | `webmontag-kiel.de` | No |
 | `webopt.eu` | Yes |
 | `webos.direct` | No |
@@ -34933,8 +34940,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,053 |
-| Normal | 26,837 |
+| Cloudflare | 8,055 |
+| Normal | 26,842 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
