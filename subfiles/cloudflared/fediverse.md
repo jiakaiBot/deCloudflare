@@ -728,6 +728,7 @@ Here's a list of public Fediverse services.
 | `academic.social` | No |
 | `academiccloud.social` | No |
 | `academictalk.org` | Yes |
+| `academist.jp` | No |
 | `academycity.studio` | No |
 | `acadiageeks.com` | No |
 | `acapi.net` | No |
@@ -19859,6 +19860,7 @@ Here's a list of public Fediverse services.
 | `monich.dk` | No |
 | `monigatti.net` | No |
 | `monigh.nl` | No |
+| `monika.im` | Yes |
 | `monke.fans` | Yes |
 | `monkee.ch` | No |
 | `monkey.org` | No |
@@ -34965,8 +34967,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,062 |
-| Normal | 26,860 |
+| Cloudflare | 8,063 |
+| Normal | 26,861 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
