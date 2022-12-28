@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,138 |
-| social | 3,152 |
-| net | 2,645 |
-| org | 1,896 |
+| social | 3,156 |
+| net | 2,646 |
+| org | 1,897 |
 | de | 1,777 |
 
 
@@ -300,6 +300,7 @@ Here's a list of public Fediverse services.
 | `30d.org` | Yes |
 | `31337.eu` | Yes |
 | `31337.nz` | No |
+| `31337.social` | Yes |
 | `314cloud.com` | No |
 | `31i73.com` | Yes |
 | `32-b.it` | No |
@@ -3780,6 +3781,7 @@ Here's a list of public Fediverse services.
 | `boon.chat` | Yes |
 | `boonchat.xyz` | Yes |
 | `boony.space` | No |
+| `boop.city` | No |
 | `boop.link` | No |
 | `boop.town` | Yes |
 | `boopsnoot.de` | No |
@@ -5889,6 +5891,7 @@ Here's a list of public Fediverse services.
 | `cracker.cloud` | Yes |
 | `crackpipe.org` | No |
 | `cracrayol.org` | No |
+| `craft-berries.town` | Yes |
 | `craftam.app` | No |
 | `craftbeer.social` | No |
 | `craftberries.town` | Yes |
@@ -8819,6 +8822,7 @@ Here's a list of public Fediverse services.
 | `ericrie.se` | No |
 | `ericrogers.org` | No |
 | `erictapen.name` | No |
+| `ericwalk.net` | No |
 | `eridi.us` | No |
 | `erikkemp.eu` | No |
 | `erikxxon.se` | No |
@@ -10416,6 +10420,7 @@ Here's a list of public Fediverse services.
 | `fricci.dev` | No |
 | `frichetten.com` | No |
 | `frickalou.com` | No |
+| `fricklers.org` | No |
 | `frictionless.contact` | No |
 | `fridaysforfuturefvg.it` | No |
 | `friedbumblebees.com` | No |
@@ -18778,6 +18783,7 @@ Here's a list of public Fediverse services.
 | `mayel.space` | Yes |
 | `mayfirst.org` | No |
 | `mayhap.org` | No |
+| `mayheminc.win` | Yes |
 | `maymeow.red` | No |
 | `maymeow.social` | No |
 | `mayobus.me` | No |
@@ -23426,6 +23432,7 @@ Here's a list of public Fediverse services.
 | `peertube.nz` | No |
 | `peertube.pl` | No |
 | `peertube.red` | Yes |
+| `peertube.ro` | No |
 | `peertube.social` | No |
 | `peertube.space` | No |
 | `peertube.stream` | No |
@@ -27001,6 +27008,7 @@ Here's a list of public Fediverse services.
 | `scriptfanix.fr` | No |
 | `scriptforge.org` | No |
 | `scriptjunkie.us` | No |
+| `scritches.social` | No |
 | `scriu.cat` | No |
 | `scronch.com` | No |
 | `scronkfinkle.net` | Yes |
@@ -27561,6 +27569,7 @@ Here's a list of public Fediverse services.
 | `shrimp.faith` | Yes |
 | `shrimpguild.social` | No |
 | `shrimpia.network` | No |
+| `shrimply.social` | No |
 | `shrine.moe` | Yes |
 | `shrn.co` | Yes |
 | `shroom.party` | No |
@@ -28388,6 +28397,7 @@ Here's a list of public Fediverse services.
 | `soton.eco` | No |
 | `sotong.cloud` | No |
 | `soucy.cc` | No |
+| `souder.ca` | No |
 | `soulice.moe` | No |
 | `soultribe.net` | Yes |
 | `soulzeppel.in` | No |
@@ -30128,6 +30138,7 @@ Here's a list of public Fediverse services.
 | `texting.com` | No |
 | `texto-plano.xyz` | No |
 | `tezcat.social` | No |
+| `tezos.lol` | No |
 | `tezos.rocks` | No |
 | `tf.au` | No |
 | `tf.fi` | Yes |
@@ -32888,6 +32899,7 @@ Here's a list of public Fediverse services.
 | `vs-the.world` | No |
 | `vscape.tk` | No |
 | `vseinstrukcii.date` | No |
+| `vshn.social` | No |
 | `vspace.me` | No |
 | `vss365mast.org` | No |
 | `vsta.org` | No |
@@ -34967,8 +34979,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,063 |
-| Normal | 26,861 |
+| Cloudflare | 8,066 |
+| Normal | 26,870 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
