@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 | com | 5,143 |
 | social | 3,165 |
 | net | 2,649 |
-| org | 1,898 |
-| de | 1,780 |
+| org | 1,899 |
+| de | 1,781 |
 
 
 - Mastodon, Pleroma, etc
@@ -3535,6 +3535,7 @@ Here's a list of public Fediverse services.
 | `blimps.xyz` | Yes |
 | `blind.lol` | No |
 | `blindwith.science` | Yes |
+| `blinry.org` | No |
 | `bliothek.social` | No |
 | `blisscampus.com` | No |
 | `blisses.org` | No |
@@ -6378,6 +6379,7 @@ Here's a list of public Fediverse services.
 | `cyberverse.bar` | No |
 | `cybervillains.com` | No |
 | `cyberwald.com` | No |
+| `cyberwitches.club` | No |
 | `cyberwiz.xyz` | No |
 | `cybik.moe` | Yes |
 | `cybikbase.com` | Yes |
@@ -9451,6 +9453,7 @@ Here's a list of public Fediverse services.
 | `fedi.bar` | Yes |
 | `fedi.be` | No |
 | `fedi.blog` | No |
+| `fedi.buzz` | Yes |
 | `fedi.bzh` | No |
 | `fedi.camp` | No |
 | `fedi.cat` | No |
@@ -12129,6 +12132,7 @@ Here's a list of public Fediverse services.
 | `hackademiet.dk` | No |
 | `hackadoll.com` | No |
 | `hackadon.space` | Yes |
+| `hackaroun.de` | Yes |
 | `hackdezorg.nl` | No |
 | `hackea.org` | No |
 | `hacked.af` | No |
@@ -35021,8 +35025,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,083 |
-| Normal | 26,895 |
+| Cloudflare | 8,085 |
+| Normal | 26,897 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
