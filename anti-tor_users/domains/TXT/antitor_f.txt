@@ -2579,6 +2579,7 @@ api.eu.freshchat.com
 api.feederloop.com
 api.freecharge.in
 api.futureofu.com
+api.ob.fibi.co.il
 api07.fcc.co.th
 app.fatmanframe.com
 appleid.fiindmy.com
@@ -2733,6 +2734,7 @@ dev.fabulabook.com
 dev.fansupport.co
 dev.faturalab.com
 dev.fedcom.be
+dev.finnova.ch
 dev2.open.flyscoot.com
 dew.fanbox.cc
 dgc89k-mkyh67.firebaseapp.com
@@ -2744,12 +2746,15 @@ discordrelay.fznetworks.co.uk
 discourse.fatalplayers.de
 dkg-eakte.portal.fidelis-hr.de
 dksha19.fanbox.cc
+dnc-api.fta.gov.il
 dogma-lord.fanbox.cc
+dokudoku.fanbox.cc
 download.flexnetoperations.com
 drc1369.fanbox.cc
 drvu.fanbox.cc
 dude-doodle-do.fanbox.cc
 dw.felis.jp
+e9-d4e-sr71.firebaseapp.com
 eb110ss.fanbox.cc
 edi.fukoku-rubber.co.jp
 efb9w-sb.fdx.finance
@@ -2762,6 +2767,7 @@ evtapi.fhnw.ch
 exit-nothing.fanbox.cc
 exmozboi.fanbox.cc
 ext-dev7-dev.freecharge.in
+f4security.cl
 faastfax.com
 fab.frontieragribusiness.com
 fabfitfunusa.com
@@ -2773,7 +2779,6 @@ facso.cl
 factivate.com
 fairseas.ie
 fairycosmo.fanbox.cc
-faliz3125.website
 fameportal.fairfirst.lk
 familiarkitchen.com
 familydentalcare.com.mv
@@ -2938,6 +2943,7 @@ freefastweb.com
 freefaucetclaim.tk
 freejeremymackenzie.com
 freieschulekreuzberg.de
+freifunk-ansbach.de
 frenchescapade.com
 frescobaldi.org
 frescoflowersnyc.com
@@ -2953,6 +2959,7 @@ frogmedia.se
 fromthewindowtothewall.com
 frontierfencingltd.com
 frosthollow.com
+fructii.fr
 fruitautomaten.casino
 frznz.fanbox.cc
 fsa-psoe.org
@@ -2965,6 +2972,7 @@ fujifilmservice.ro
 fulcrum.sg
 fullcircleco.net
 fullmeasure.news
+fullstar-home-services.com
 functionalareas.eu
 funnydigital.ml
 fuoriritmo.it
@@ -3147,6 +3155,7 @@ nc-al.freeddns.org
 necrobern.fanbox.cc
 neji13th.fanbox.cc
 nekojira.fanbox.cc
+nekokan-eaters.fanbox.cc
 nekokyun.fanbox.cc
 neokyou.fanbox.cc
 netzealous.freshmarketer.com
@@ -3157,6 +3166,7 @@ news.freshports.org
 nl.finagohub.com
 nlpbots.freecharge.in
 nmh.fanbox.cc
+nomad-91174.firebaseapp.com
 noraneko-master.fanbox.cc
 nw67.fcomet.com
 o.ftf-international.com
@@ -3183,6 +3193,7 @@ pepper0.fanbox.cc
 pepsiminusplus.fanbox.cc
 phailuplate.fanbox.cc
 pikepikeid.fanbox.cc
+play.fallows.ca
 plos.figshare.com
 poe7jwch.fanbox.cc
 ponpu.fanbox.cc
@@ -3331,6 +3342,7 @@ webdisk.firstzenithlawfirm.org.ng
 webdisk.fishing7.site
 webdisk.flashcleaning.nyc
 webdisk.foldynote.com
+webdisk.forsibiu.ro
 webdisk.foxashwalkingfootball.uk
 webdisk.foxbase.tv
 webdisk.foxhairdesign.shop
@@ -3373,10 +3385,12 @@ www.delivery.fuscomotosegura.com.br
 www.demo.fincorebank.com
 www.demohr.fazservice.com
 www.demonstracao1.testeoracle.or01.futurasistemas.com.br
+www.dwithawkins.federalgovernment.info
 www.ebk.fubonbank.com.hk
 www.eurecat5.factoriadigitalpremium.es
 www.exception.fampost.dk
 www.f2-nettoyage-services.fr
+www.f4security.cl
 www.faastfax.com
 www.fabricamus.com
 www.fabriquedemocratique.org
@@ -3446,6 +3460,7 @@ www.forgottenoasisvacationrentals.com
 www.formulaires-ramq-assurance-maladieuser.cf
 www.forssantuulilasi.fi
 www.fortiscordedogs.co.uk
+www.fortislife.com
 www.forumservice-ks.com
 www.forwardoutlookcounselingmi.com
 www.fountainvalleytermitecontrol.com
@@ -3472,9 +3487,11 @@ www.fsc-int.com
 www.ftiacservice.ftiac.com
 www.fuelpovertyresearch.net
 www.fujii-worldforecast.jp
+www.fullstar-home-services.com
 www.fumoir.net
 www.funds.sa.gov.au
 www.funeralpeersupport.com
+www.gatherup.federalgovernment.info
 www.git.git.git.git.gitlab.gitlab.bbs.frisorvillan.se
 www.hadsundvej.fiberkunde.dk
 www.helpdesk.freecode.my.id
@@ -3490,6 +3507,7 @@ www.mnstones.federalgovernment.info
 www.moneycharge.forzexploit.my.id
 www.news.dns.burbek.com.firstottawarealty.com
 www.noticias21.com.br.flashdenoticias.com.br
+www.pirnastv.com.fokuspost.com
 www.posturalmente.lab.factoriadigitalpremium.es
 www.questionnaire.formation-gestes-postures.com
 www.sandbox.freedybank.com
