@@ -5292,7 +5292,7 @@ Here's a list of public Fediverse services.
 | `cloudns.cl` | Yes |
 | `cloudns.nz` | Yes |
 | `cloudonaut.io` | Yes |
-| `cloudops.space` | No |
+| `cloudops.space` | Yes |
 | `cloudpirat.es` | No |
 | `cloudplane.app` | Yes |
 | `cloudpractice.cf` | No |
@@ -15164,6 +15164,7 @@ Here's a list of public Fediverse services.
 | `kariance.xyz` | No |
 | `karjalazet.se` | No |
 | `karkador.com` | No |
+| `karl.guru` | No |
 | `karlender.net` | No |
 | `karlmarx.social` | No |
 | `karloskar.org` | No |
@@ -34979,7 +34980,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,066 |
+| Cloudflare | 8,067 |
 | Normal | 26,870 |
 
 
