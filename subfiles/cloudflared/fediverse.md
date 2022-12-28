@@ -23865,6 +23865,7 @@ Here's a list of public Fediverse services.
 | `pixelfed.cz` | Yes |
 | `pixelfed.de` | No |
 | `pixelfed.earth` | No |
+| `pixelfed.es` | Yes |
 | `pixelfed.eu` | No |
 | `pixelfed.eus` | No |
 | `pixelfed.fi` | No |
@@ -34944,7 +34945,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,056 |
+| Cloudflare | 8,057 |
 | Normal | 26,845 |
 
 
