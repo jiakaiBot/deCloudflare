@@ -29110,6 +29110,7 @@ Here's a list of public Fediverse services.
 | `stuttgart.network` | Yes |
 | `stuttgart.social` | No |
 | `stux.nyc` | Yes |
+| `stux.tv` | Yes |
 | `stuxmedia.com` | No |
 | `stuxnet.ai` | Yes |
 | `stuxstore.com` | Yes |
@@ -34932,7 +34933,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,052 |
+| Cloudflare | 8,053 |
 | Normal | 26,837 |
 
 
