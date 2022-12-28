@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-05: [CPH (Copenhagen) on 2023-01-05](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5hpxx6d2x4wr)
 - 2022-12-22: [Network Performance Issues in Singapore](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qkwy8bmqgnzk)
 - 2022-12-23: [FRA (Frankfurt) on 2022-12-23](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/c903rwny0l0d)
 - 2022-12-23: [FRA (Frankfurt) on 2022-12-23](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/dmzt6p6f3hyt)
