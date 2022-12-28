@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,138 |
-| social | 3,156 |
-| net | 2,646 |
+| com | 5,140 |
+| social | 3,159 |
+| net | 2,648 |
 | org | 1,897 |
 | de | 1,777 |
 
@@ -262,6 +262,7 @@ Here's a list of public Fediverse services.
 | `2a03.party` | No |
 | `2bit.co` | No |
 | `2blackflags.net` | No |
+| `2br02b.live` | Yes |
 | `2br02b.online` | No |
 | `2cb.rocks` | No |
 | `2ch.site` | No |
@@ -1943,6 +1944,7 @@ Here's a list of public Fediverse services.
 | `ariadne.space` | No |
 | `aridgwayweb.com` | No |
 | `ariela.jp` | Yes |
+| `arielfinn.social` | No |
 | `arihi.me` | No |
 | `arinbasu.online` | No |
 | `arint.me` | Yes |
@@ -6152,6 +6154,7 @@ Here's a list of public Fediverse services.
 | `cuban.social` | No |
 | `cubar.co` | Yes |
 | `cube4fun.net` | No |
+| `cubewebsites.com` | Yes |
 | `cubeworld.de` | No |
 | `cubhub.social` | No |
 | `cubicgarden.com` | No |
@@ -11845,6 +11848,7 @@ Here's a list of public Fediverse services.
 | `greenwoodmedia.xyz` | No |
 | `greg-kennedy.com` | No |
 | `greggallardo.com` | No |
+| `gregmoore.me` | No |
 | `gregorlove.com` | No |
 | `gregoryjay.co.uk` | Yes |
 | `gregorypittman.net` | Yes |
@@ -12945,6 +12949,7 @@ Here's a list of public Fediverse services.
 | `home.kg` | No |
 | `home.social` | No |
 | `home31.pw` | Yes |
+| `homebrewer.social` | Yes |
 | `homebrewserver.club` | No |
 | `homecomputing.fr` | No |
 | `homeip.net` | No |
@@ -14968,6 +14973,7 @@ Here's a list of public Fediverse services.
 | `jxs.me` | Yes |
 | `jymuoyu.com` | Yes |
 | `jynxd.it` | Yes |
+| `jzp.se` | No |
 | `jzqk.org` | No |
 | `k-a-i-f.ru` | No |
 | `k-ba.net` | No |
@@ -24235,6 +24241,7 @@ Here's a list of public Fediverse services.
 | `polonkai.eu` | No |
 | `polsci.social` | No |
 | `polsum.rocks` | No |
+| `poltrack.net` | Yes |
 | `polxa.online` | No |
 | `polyam.space` | No |
 | `polyamory.social` | No |
@@ -26894,6 +26901,7 @@ Here's a list of public Fediverse services.
 | `schokoladensouffle.eu` | No |
 | `scholar.social` | No |
 | `scholzbande.de` | No |
+| `schoolahead.social` | No |
 | `schoolahead.today` | No |
 | `schoolforafrica.org` | Yes |
 | `schoolidol.club` | No |
@@ -31287,6 +31295,7 @@ Here's a list of public Fediverse services.
 | `trafo.social` | No |
 | `tragi.cc` | No |
 | `tragically.social` | No |
+| `trailblazer.gallery` | No |
 | `trailblazer.social` | No |
 | `trailblazer.tube` | No |
 | `trailrunnersdog.de` | Yes |
@@ -32225,6 +32234,7 @@ Here's a list of public Fediverse services.
 | `upliving.se` | No |
 | `upload.chat` | No |
 | `uploadvideo.tv` | No |
+| `upmix.net` | Yes |
 | `upp2.com` | No |
 | `upr.fr` | No |
 | `upsilo.net` | Yes |
@@ -33990,6 +34000,7 @@ Here's a list of public Fediverse services.
 | `xhec.dev` | No |
 | `xhrpb.com` | No |
 | `xi.ht` | No |
+| `xianlandia.com` | No |
 | `xianon.net` | Yes |
 | `xiaoyuanvc.com` | No |
 | `xiaoyun.space` | Yes |
@@ -34980,8 +34991,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,067 |
-| Normal | 26,870 |
+| Cloudflare | 8,072 |
+| Normal | 26,876 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
