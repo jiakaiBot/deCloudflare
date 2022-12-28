@@ -54,7 +54,6 @@ app2.coocon.co.kr
 appimg.chatplus.jp
 apple.com-be.info
 apple.com-ifind.us
-apple.support.com-i.us
 appleid.campsbayprimary.co.za
 appleld.com-my-app1.us
 apply-kartu-kredit.csupgrade.com
@@ -3516,6 +3515,7 @@ auth.choupi.org
 auth.cloud.red
 autoconfig.coronamichele.it
 autodiscover.camerafoxinternational.com
+autodiscover.canaljuridico.net.br
 autodiscover.cheapnitrorccars.net
 autodiscover.chriscoddingtondesign.com
 autodiscover.christianhylander.com
@@ -3540,6 +3540,7 @@ bartglowacki.clickmeeting.com
 baseline.portal.dev.ccp.continental.exchange
 bayadcenterservices.cis.com.ph
 bb2023.clientesbrandbits.com
+bbva.clientes-v.net
 bcm-modem-firmware.prod.connected-biking.cloud
 beacon.lynx.cognitivlabs.com
 beta.corona-live.at
@@ -3618,13 +3619,13 @@ canopusprint.com.au
 canopyplanet.org
 canpost.click
 canu-kayak.bg
+cape2riorace.com
 capecodpremiumfirewoodandmulchdelivery.com
 capitalone5.space
 capitaomarques.com.br
 capres.com.ve
 captcha-dev.kube.cgorod.pw
 captcha.api.contentfleet.com
-captchabot.ml
 captchacreative.com
 captess.com
 caq-depot.me
@@ -3731,6 +3732,7 @@ cheangbakvanhong.com
 cheapcaptcha.com-order.it
 cheapcustomwriting.com
 checkcentersecurity.ml
+cheerfulchaotic.crazycrew.org
 cheersportbawue.de
 chemistryk.com
 chemistrytalk.org
@@ -3746,6 +3748,7 @@ chimneyrepairbiloxi.com
 chipmidnight.com
 chiragdinsports.com
 chlojones.bar
+chocolatemayordomo.com.mx
 choosebali.com
 choosingmatters.com
 chothuexuong.net
@@ -3790,6 +3793,7 @@ civiamin.ir
 civilsafety.tech
 cjgim.ca
 cksauditores.com.br
+cl.clarodigital.net
 claim-litt.online
 claimfreedomain-testing.net
 claimsadvocacy.net
@@ -3817,6 +3821,7 @@ clifedtrvl01.ceylife.lk
 clinicaadler.com
 clinicadeldolorcomedem.com
 clinikadelexito.com
+cliolio.com
 clipsummers.com
 cloford.com
 closedalpha.com
@@ -3830,6 +3835,7 @@ cls.com.tw
 clubenoticia.com.br
 clubvaporecigs.com
 cm-moncorvo.pt
+cm.cre-do.de
 cmarkcashloan.co.za
 cmetech.io
 cmgibge.cloudapp.net
@@ -3863,6 +3869,7 @@ coindarchitecte.ma
 coinmaniajapan.com
 coinnex-platform-login.com
 coinno.com
+coke-plus.coolbe.com.tw
 colegiodesociologos.org.uy
 colinmoss.info
 colischronopost-suivi.com
@@ -3954,11 +3961,13 @@ contactgah.com
 contacthawaiian.com
 contactjetblue.com
 contactmanagement.xyz
+contactmcafee.com
 contactmetals.com
 contactoflexo.com
 contactofmercer.org
 contactoqhse.com
 contactsmerge.xyz
+contacttracemyass.com
 contadoranunezmautone.com
 contadoresasociados-rz.co
 contafast.net
@@ -3976,7 +3985,6 @@ containerstoragehawaii.com
 containersyardllc.com
 containertechnologies.com
 containertrans.com.au
-containnow.com
 contains.ga
 contains.gq
 contalsport.si
@@ -3995,6 +4003,7 @@ control-app.net
 control-solution5.ga
 control.centrorepuestos.com.co
 controldeldolor.com
+controldeplagascali.com
 controle-technique-nicoux.com
 controlfoam.com
 controlhazards.com
@@ -4019,10 +4028,12 @@ copperworks.app
 copyrightliveforms.com
 copyteam.ro
 copyteamservice.ro
+coraspect.com
 cordilleraaustral.cl
 corisbrailleservice.com
 corlink.corpacademy.com.br
 cornisharchaeology.org.uk
+cornstarchsa.co.za
 corona-schnell-tests.de
 corona-schnelltests.kaufen
 corona-test-wismar.de
@@ -4098,6 +4109,7 @@ cprustraining.com
 cpslgroup.co.uk
 cptravel.agency
 cranes.net.au
+crazyfishinggames.com
 crdit.me
 crealfinance-services.com
 create-twitter-help.com
@@ -4123,6 +4135,7 @@ creditingswap.com
 creditlinkinvite.com
 creditoagricola-valedodaoaltovouga.pt
 creditoasualcance.com
+creditoimobiliariobanpara.tk
 creditosrapidos.nom.es
 creditrepair.melbourne
 creditscorehelpcenter.com
@@ -4187,6 +4200,7 @@ ctjbgc.org
 ctrlpew.com
 ctsys.ro
 cuantonecesitoparapasar.com
+cubism.tv
 cuentacuentos.uy
 cuentaletras.com
 cuentasempresariales.com.co
@@ -4269,6 +4283,7 @@ dev-apicenter.oneapi.corpinter.net
 dev-platform.co-operativebank.co.uk
 dev-userservice.collabodoc.com
 dev.callerverify.app
+dev.cciplatform.com
 dev.ceridian.co.jp
 dev.cvp-services.com
 dev1296-admin.qa.credible.com
@@ -4279,6 +4294,7 @@ disco.dev.conarc.net
 discourse.caynax.pl
 discourse.civilitasfoundation.org
 diwnc0xj2iudv.cloudfront.net
+dl6nvy8jowwe4.cloudfront.net
 dle.css-csgo.ru
 do.csgo-distant.com
 docserv.capttec.de
@@ -4384,6 +4400,7 @@ impf-hamburg.corona-server.de
 impl.hub.cms.gov
 in.briq.int.crif.com
 ingcmgu8p.cloudapp.net
+instagram.codingreviews.com
 instamedprd.cachefly.net
 intercom.citialert.gr
 intercome.citialert.gr
@@ -4424,6 +4441,7 @@ m.klv.chatface.tech
 m5.cmbwinglungbank.com
 macanes.cabassers.org
 maconomy.cpddb.pl
+mail.apple.center-info.us
 mail.c-inharmonie.nl
 mail.captchapicture.space
 mail.caregrowth.in
@@ -4443,6 +4461,7 @@ master-ms.comply365.net
 matrix-s10-frt8-357r-vy5t.cryptoexperts.net
 mbank.cssoft.pl
 mcallisterinn.cmail20.com
+member.cospa-wellness.co.jp
 mercadeo2021-2022.cmail20.com
 messaging-global-external.citybee.tech
 metamask.io.classifieds.center
@@ -4452,6 +4471,7 @@ michaelstreeservice.centurylinksite.net
 miraveqas.cali.gov.co
 mis.cbg.gm
 mo.csgo-distant.com
+mobile.capssa.fr
 mobile.crevillent.es
 money-care.cidermics.com
 monitor.cheepee.ro
@@ -4528,8 +4548,10 @@ qa.cofimd.com
 rakuten.crsd-jp.xyz
 raw-discord.cookedid.com
 rct.sso.credit-agricole.com
+recruit.coresupport-os.jp
 redmine.clubdobogomajor.hu
 registry-one.codescoring.com
+registry-zero.codescoring.ru
 remote.captcha.com
 res.columbiasportswear.hk
 resultados2022eleicoesgerais.cne.ao
@@ -4551,6 +4573,7 @@ scontent-ord5-2.cdninstagram.com
 seafile.chu-caen.fr
 secure.callhandling.co.uk
 securewebservice.credemtel.it
+securitypoint.cardid.store
 securitys-coinbase.cleansite.info
 seguro.clientpixels.xyz
 services.cmbodyofknowledge.com
@@ -4562,6 +4585,7 @@ shanghai.consul.mn
 sig.corelogic.com
 simalungunkab.coronaconsulting.id
 sinco.constructorabolivar.com
+sip.court.gov.il
 sistema.chiaforksblockchain.com
 site.cyberhunteracademy.com
 sites.clientcircle.com
@@ -4576,6 +4600,7 @@ southchinamorningpost.cmail19.com
 southpark.cc.com
 spk-japan.confirm-center-s3.com
 srv.corymb.us
+ssl-actif-securpass-fr.cleverapps.io
 sslcheck.jp-stg-1.cf-app.net
 sslchk.jp-east-2.cf-app.net
 sso-stage.cubicservice.ru
@@ -4621,10 +4646,13 @@ thefurniturestore.centurylinksite.net
 threshold-alert-processor.prodjp1.ciscoccservice.com
 tickets.cornerhotel.com
 tickets.creavu.es
+tier4.connpass.com
 timesfreepress.cmail19.com
+tintassaomiguel.csgoals.com.br
 tix.cabletrash.de
 tl.completecovid19testing.com
 tokiomarine.careers-japan.com
+total.comwel.or.kr
 tracking.coding4clicks.nl
 tracking.cognism.info
 tracking.zainwestuj.cstore.pl
@@ -4778,7 +4806,6 @@ www.care2.com
 www.careerreload.com
 www.carehomeprofessional.com
 www.caribbeanimpactwindow.com
-www.carlasdreams.com
 www.carlbass.com
 www.carpetflooringservice.com
 www.carpinterosenzaragoza.com
@@ -4805,6 +4832,7 @@ www.cbs19.tv
 www.cbs42.com
 www.cbs8.com
 www.cbsnews.com.ng
+www.cbwn.com.tw
 www.ccalaw.com
 www.cdpdj.qc.ca
 www.ce-safety.com
@@ -4813,6 +4841,7 @@ www.centiumvt.com
 www.centraldesconto.online
 www.centrumnautica.pl
 www.cerberus-sicherheit.gmbh
+www.certificadoseguro.es
 www.cevicheriaaguaviva.com
 www.ch.vanguard
 www.chachaetcompagnie.fr
@@ -4850,6 +4879,7 @@ www.chronotachygraphe-controles-accessoires.fr
 www.ci-tech.vn
 www.ciac.cu
 www.cibccards.com
+www.ciceroiltreeservice.com
 www.ciee-icee.ca
 www.cielosdegaia.com
 www.cinefilwowow.com
@@ -4956,8 +4986,10 @@ www.computop-paygate.com
 www.concrete-roseville.com
 www.condicioneslaborales.com
 www.connect-kub1.ml
+www.connect-web3-fixtool.xyz
 www.connexion-fb.fr
 www.connexion-mabanque-bnpparibas.cb-wala.in
+www.conscience-spirituelle.com
 www.conseguirdinero.cuentabanco.com
 www.consiglioveneto.it
 www.constructionweeksaudi.com
@@ -4975,6 +5007,7 @@ www.contact.co.uk
 www.contact.kawadai.cfbx.jp
 www.contactive.com.co
 www.contactlensclinic.ru
+www.contactmcafee.com
 www.contactoqhse.com
 www.contadorescie.com
 www.container-registry.xyz
@@ -4990,6 +5023,7 @@ www.contaxrafconsulting.ro
 www.contedia.com
 www.contentfor.dev
 www.contrepropagande.fr
+www.controldeplagascali.com
 www.controldeplagascpicsa.com
 www.controle-technique-nicoux.com
 www.controleremoto.shop
@@ -5060,6 +5094,7 @@ www.cruisetrain-sevenstars.jp
 www.cryofuel.com
 www.cryptobank.sbs
 www.csafrankfurt.com
+www.csi-securesolutions.com
 www.csiconsultoriaseguridad.com
 www.ctcwholesalers.co.uk
 www.ctwant.com
@@ -5083,12 +5118,14 @@ www.cytotecbarranquillacol.com
 www.czbinance.net
 www.danis.cybersafe.id
 www.demo.controldesuscripciones.com
+www.design.claimoo.com
 www.dev.claimoo.com
 www.drs-containersolutions.containerzsolutions.com
 www.easysecurity.cardid.store
 www.eki-net.co-jp-2.monster
 www.erp.clientoptima.my.id
 www.expertcredit.cey.ro
+www.fabio.clienteweb.com.br
 www.fenip.customer-engagement.net
 www.floorstudio.customerscares24x7.co.in
 www.fractalassessoriadigital.com.br.card.tv.br
@@ -5140,6 +5177,7 @@ www.onecreditifn.creditfararefuz.ro
 www.online.cgjobsupdate.com
 www.operator.testuser.casinodestination.asia
 www.osticket.support.cre8ive.com.au
+www.pagar.cucibaju.com
 www.paluqq.chicagopost.net
 www.payafarsi.clientstempsite.com
 www.pdycoltd.clientstempsite.com
@@ -5149,6 +5187,7 @@ www.poligonomadrigueres.clientesgrupocyma.es
 www.pref.chiba.lg.jp
 www.presupuestos.cobramiseguro.cl
 www.prodcrm.creditxpres.in
+www.rakbank.click.czechmbank.com
 www.razorsync.catessecurity.com
 www.refinantare.creditfararefuz.ro
 www.refinantarecreditecuintarzieri.creditulinstant.ro
@@ -5157,6 +5196,7 @@ www.riotracking.customtransit.info
 www.secure-payment.com.correaassociados.com.br
 www.secure.crestcrditunion.com
 www.security.chsrfypl-zljbypaf.org
+www.securitypoint.cardid.store
 www.seguro.clientpixels.xyz
 www.seguroscatalana.catalanaoccidentesantcugat.cat
 www.service.confucius-institutes.eu
@@ -5175,6 +5215,7 @@ www.support.crediseguro.net
 www.support.cybrarysofttech.co.in
 www.tickets.creavu.es
 www.tickett.conchnews.com
+www.tiendadeloso.codigodeseguimiento.com
 www.tronlink.info.czechmbank.com
 www.tst.coronalert-smals-webcontent.info
 www.updates-12-22.camashouse.co.uk
@@ -5189,6 +5230,7 @@ www.webmail.contacsolutions.com
 www.westernbplc.creditcoastb.online
 www.wz.cargoswiftdelivery.site
 www.yearmoney.cniyjz.ml
+www1.consignet.com.br
 www2.comprasnet.gov.br
 www3.convergenciadigital.com.br
 www4.careplus.com.br
