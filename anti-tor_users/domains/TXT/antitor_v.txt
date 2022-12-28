@@ -1272,6 +1272,7 @@ click.info.virtualedelivery.com
 client.vivortis.com
 cnn.videomemetemplate.com
 coastaldiecut.v3client.com
+contohcaleg.voxpol.id
 coronamapbr.vercel.app
 corporate.vanguard.com
 cpanel.vaccine-proof.xyz
@@ -1309,6 +1310,7 @@ discosdevictoria.vercel.app
 discovrbookings.vercel.app
 discrird.vercel.app
 dlf-aspire-api-ca-central-1.dni.velocityfabric.com
+dlsgtbzn.rdcguqhx.whemrczs.hippo.vteam.tech
 dogforlife.v3client.com
 domaincfg.vivo.com
 download.viewworks.nl
@@ -1317,6 +1319,7 @@ dynos.vercel.app
 elhessainisoufiane-gmailcom.vercel.app
 eliteimage.v3client.com
 eliteupdate.v3work.com
+elliemae-acuity.valligent.com
 emmanuelteisaire-gmailcom.vercel.app
 env-9187341.users.scale.virtualcloud.com.br
 epac.verisurepagos.cl
@@ -1340,6 +1343,7 @@ gmailgate.view-manager.com
 h0i6d2e1-gmailcom.vercel.app
 ha.vermeerschconsulting.be
 hb-a.services.vnc.com
+hcwin.vodafone.es
 honda-us.telematics.verisk.io
 hunt3751.vercel.app
 hunterwatrin.vercel.app
@@ -1421,6 +1425,7 @@ prodr4x.vivaaerobus.app
 rainydaydiscord.vercel.app
 rakuten-games1.vercel.app
 rakutenready.vercel.app
+rdcguqhx.whemrczs.hippo.vteam.tech
 rec1.vidagroupapps.com
 ricom.veramorozova.com
 robfox805.vercel.app
@@ -1512,11 +1517,13 @@ vaydamchonguoibeobung.com
 vcelda.cz
 vegintuitiveeating.com
 vekalatkhane.com
+velgbank.no
 venservice.ro
 ventservice.no
 ver88official.com.vn
 verbojuridico.pt
 verificastrutturalegru.it
+verification-addresss.top
 verification.uz
 verifizierenonline.com
 verify-site.cf
@@ -1636,6 +1643,7 @@ vutaelectrical.com
 vwvwvwvw.com
 vz99.biz
 wafparis.prod.aws.vsct.fr
+wagmi-git-feat-moonpay-jpgstore.vercel.app
 wca.vozovoz.ru
 we-teach-blockchain.vercel.app
 webdisk.vaccine-proof.xyz
@@ -1656,6 +1664,7 @@ wschkb.vodafone.pt
 wsj-88488111.vercel.app
 www.account.vierrania.id
 www.account.vincentwillemsen.nl
+www.account.viralbrightindustries.com
 www.accounting.visaandall.com
 www.akaanvuokrapalvelu.viasetti.fi
 www.ayavay.vayiphone.com
@@ -1668,6 +1677,7 @@ www.cekmuka.com.verifywajah.com
 www.chipactivar.valen.es
 www.chunghwa-epost.org.verfolgung-dpost.com
 www.contoh.vikasu.com
+www.contohcaleg.voxpol.id
 www.control.vigo-app.com
 www.conuslenzagevolazionifiscali.verificastrutturalegru.it
 www.dknordpost.org.verfolgung-dpost.com
@@ -1693,6 +1703,7 @@ www.valedistributingservice.com
 www.valenciaoptometry.com
 www.valentino.com.ar
 www.valentino.realtor
+www.valeo.com
 www.valeriecoteauteure.com
 www.valhallaediciones.com
 www.vallejoandcompany.com
@@ -1724,6 +1735,7 @@ www.vesi.fi
 www.vetenskaphalsa.se
 www.vhec.org
 www.vial-bondon.fr
+www.vianatel.com.br
 www.victoriaadvocate.com
 www.videostory.com
 www.vidhionline.com
@@ -1742,6 +1754,7 @@ www.viviology.com.au
 www.viz.com
 www.vline.com.au
 www.vodafone.ie
+www.vodafonemail.de
 www.volgagermansportland.info
 www.vollmar-akademie.de
 www.volusionpentest1.com
