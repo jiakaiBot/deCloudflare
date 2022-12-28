@@ -1653,6 +1653,7 @@ Do not create new issue or we will close it as duplicate.
 | [bulon9090@twitter](https://twitter.com/bulon9090/status/1578839085795639296) | advertise |
 | [bulunahihi@twitter](https://twitter.com/bulunahihi/status/1594595964635185152) | advertise |
 | [bumrah888@twitter](https://twitter.com/bumrah888/status/1389055956856705024) | advertise |
+| [BundlesChinx@twitter](https://twitter.com/BundlesChinx/status/1607908988573855746) | advertise |
 | [bunkercoin@twitter](https://twitter.com/bunkercoin/status/1482786162343395328) | advertise |
 | [bunny01627359@twitter](https://twitter.com/bunny01627359/status/1390340286769897475) | advertise |
 | [Bunny257930@twitter](https://twitter.com/Bunny257930/status/1396442714577661956) | advertise |
@@ -1776,6 +1777,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChadaramGanesh@twitter](https://twitter.com/ChadaramGanesh/status/1377217673478594565) | advertise |
 | [chaddieosrs@twitter](https://twitter.com/chaddieosrs/status/1444224405740077062) | advertise |
 | [ChadwickCway@twitter](https://twitter.com/ChadwickCway/status/1386446568761532416) | advertise |
+| [chadw_millenial@twitter](https://twitter.com/chadw_millenial/status/1607992971835719680) | advertise |
 | [ChaEunbi3@twitter](https://twitter.com/ChaEunbi3/status/1390013196153462784) | advertise |
 | [Chahali@twitter](https://twitter.com/Chahali/status/1483045454778707971) | advertise |
 | [Chahin303@twitter](https://twitter.com/Chahin303/status/1504562221426298886) | advertise |
@@ -10956,6 +10958,7 @@ Do not create new issue or we will close it as duplicate.
 | [WaiMinPaing13@twitter](https://twitter.com/WaiMinPaing13/status/1399028674737840134) | advertise |
 | [WaiMinSoe14@twitter](https://twitter.com/WaiMinSoe14/status/1390484472026394628) | advertise |
 | [WaiOrtho@twitter](https://twitter.com/WaiOrtho/status/1377476715556003840) | advertise |
+| [WaiphotoLin1@twitter](https://twitter.com/WaiphotoLin1/status/1607971985770024960) | advertise |
 | [WaiPhyo66@twitter](https://twitter.com/WaiPhyo66/status/1579040228677160960) | advertise |
 | [WaiPhyo10948051@twitter](https://twitter.com/WaiPhyo10948051/status/1390732711245975555) | advertise |
 | [WaiPhyo14479248@twitter](https://twitter.com/WaiPhyo14479248/status/1391332005577519104) | advertise |
