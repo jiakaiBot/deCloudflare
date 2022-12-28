@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,136 |
-| social | 3,151 |
-| net | 2,640 |
+| social | 3,152 |
+| net | 2,641 |
 | org | 1,896 |
 | de | 1,777 |
 
@@ -183,7 +183,7 @@ Here's a list of public Fediverse services.
 | `15cm.net` | Yes |
 | `15o2.de` | No |
 | `161.social` | No |
-| `1611.social` | No |
+| `1611.social` | Yes |
 | `161976857.com` | No |
 | `161hz.de` | No |
 | `1689.social` | Yes |
@@ -6981,6 +6981,7 @@ Here's a list of public Fediverse services.
 | `dekameta.com` | No |
 | `dekeyser.au` | No |
 | `dekkia.com` | No |
+| `deklinpike.social` | No |
 | `dekloo.net` | No |
 | `deko.cloud` | No |
 | `deko.yt` | Yes |
@@ -11804,6 +11805,7 @@ Here's a list of public Fediverse services.
 | `greatlakes.community` | No |
 | `greatview.video` | No |
 | `gred.al` | Yes |
+| `greed.monster` | No |
 | `greek-true-social.ga` | No |
 | `greekgodbod.com` | No |
 | `green-owl-technology.com` | No |
@@ -23767,6 +23769,7 @@ Here's a list of public Fediverse services.
 | `pine.cab` | No |
 | `pinellas.space` | No |
 | `pinetree.ink` | No |
+| `pinewoodroad.net` | No |
 | `pingbase.net` | No |
 | `pingo-computer.de` | No |
 | `pingupod.de` | No |
@@ -34940,8 +34943,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,055 |
-| Normal | 26,842 |
+| Cloudflare | 8,056 |
+| Normal | 26,844 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
