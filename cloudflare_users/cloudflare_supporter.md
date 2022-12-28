@@ -4396,6 +4396,7 @@ Do not create new issue or we will close it as duplicate.
 | [Jattupon007@twitter](https://twitter.com/Jattupon007/status/1607274841408954375) | advertise |
 | [JatxCrypto@twitter](https://twitter.com/JatxCrypto/status/1478944922698977281) | advertise |
 | [jauhari@twitter](https://twitter.com/jauhari/status/1376870621636829186) | advertise |
+| [JavadAllen@twitter](https://twitter.com/JavadAllen/status/1608019614914564096) | advertise |
 | [JavierLandry8@twitter](https://twitter.com/JavierLandry8/status/1519168069108645888) | advertise |
 | [jawadka40403774@twitter](https://twitter.com/jawadka40403774/status/1395731355925979139) | advertise |
 | [JAY787233@twitter](https://twitter.com/JAY787233/status/1542207673046683648) | advertise |
@@ -9986,8 +9987,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
