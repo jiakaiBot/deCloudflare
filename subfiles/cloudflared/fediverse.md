@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,151 |
-| social | 3,174 |
-| net | 2,652 |
-| org | 1,902 |
-| de | 1,784 |
+| com | 5,155 |
+| social | 3,175 |
+| net | 2,653 |
+| org | 1,903 |
+| de | 1,785 |
 
 
 - Mastodon, Pleroma, etc
@@ -387,7 +387,7 @@ Here's a list of public Fediverse services.
 | `448c.net` | No |
 | `44944.eu` | No |
 | `44con.com` | No |
-| `45bis.cc` | No |
+| `45bis.cc` | Yes |
 | `465789.xyz` | No |
 | `481516.xyz` | Yes |
 | `48645.tk` | No |
@@ -1527,6 +1527,7 @@ Here's a list of public Fediverse services.
 | `andi-net.de` | No |
 | `andi1984.social` | No |
 | `andie.club` | No |
+| `andieadorable.gay` | Yes |
 | `andlang.me` | No |
 | `andoria.social` | Yes |
 | `andoria.space` | No |
@@ -8451,7 +8452,7 @@ Here's a list of public Fediverse services.
 | `elastic-dystopia.asia` | Yes |
 | `elasticperch.com` | Yes |
 | `elastihost.social` | No |
-| `elastos.social` | Yes |
+| `elastos.social` | No |
 | `elb.cloud` | No |
 | `elbblick.org` | No |
 | `elbehnon.de` | No |
@@ -11333,6 +11334,7 @@ Here's a list of public Fediverse services.
 | `ggwq.ml` | No |
 | `gh0st.live` | No |
 | `ghacks.net` | Yes |
+| `gharbeia.net` | No |
 | `ghastr.com` | No |
 | `ghetti.monster` | No |
 | `ghibah.space` | No |
@@ -12267,6 +12269,7 @@ Here's a list of public Fediverse services.
 | `halifaxsocial.ca` | No |
 | `halki.info` | No |
 | `halla-aho.net` | No |
+| `hallanalysis.com` | Yes |
 | `halle-leaks.de` | No |
 | `hallertau.social` | No |
 | `halley.systems` | No |
@@ -12481,6 +12484,7 @@ Here's a list of public Fediverse services.
 | `hear-me.social` | Yes |
 | `hear-ye.com` | Yes |
 | `hearne.social` | Yes |
+| `hearst.social` | No |
 | `heart-to-heart.tech` | No |
 | `heartade.dev` | No |
 | `hearthtodon.com` | No |
@@ -13134,7 +13138,7 @@ Here's a list of public Fediverse services.
 | `howse.social` | Yes |
 | `howtheheck.co` | No |
 | `hoyer.xyz` | No |
-| `hoyle.me.uk` | No |
+| `hoyle.me.uk` | Yes |
 | `hoyle.social` | Yes |
 | `hp-gauster.name` | No |
 | `hpadm.de` | No |
@@ -13377,6 +13381,7 @@ Here's a list of public Fediverse services.
 | `iammer.net` | No |
 | `iamnate.net` | Yes |
 | `iamover18.org` | No |
+| `iamschulz.com` | Yes |
 | `iamtakagi.net` | Yes |
 | `iamtalon.me` | No |
 | `iamterminally.online` | No |
@@ -15315,6 +15320,7 @@ Here's a list of public Fediverse services.
 | `kd0bpv.name` | No |
 | `kd0ioe.com` | No |
 | `kddlb.cl` | Yes |
+| `kdecherf.com` | No |
 | `kdhq.dev` | No |
 | `kdlvklv.xyz` | No |
 | `kdvr.com` | No |
@@ -15481,6 +15487,7 @@ Here's a list of public Fediverse services.
 | `khaus.io` | No |
 | `khazad.org` | Yes |
 | `kher.nl` | No |
+| `khesp.com` | No |
 | `khiar.net` | Yes |
 | `khimaros.com` | No |
 | `khisanth.com` | No |
@@ -17658,6 +17665,7 @@ Here's a list of public Fediverse services.
 | `m0r016.net` | Yes |
 | `m0t0k1ch1.com` | No |
 | `m11n.de` | No |
+| `m1234.de` | No |
 | `m14xa.ru` | No |
 | `m17e.co` | Yes |
 | `m1ch.eu` | Yes |
@@ -23141,6 +23149,7 @@ Here's a list of public Fediverse services.
 | `packetlost.dev` | No |
 | `packetranger.com` | No |
 | `packetwarriors.net` | No |
+| `packmates.org` | Yes |
 | `pacmanfan.co.nz` | No |
 | `pacna.org` | No |
 | `paco.to` | No |
@@ -25757,6 +25766,7 @@ Here's a list of public Fediverse services.
 | `renkontu.com` | Yes |
 | `rennerocha.com` | Yes |
 | `renshaw.au` | Yes |
+| `reoccur.cat` | Yes |
 | `reparierecke.de` | No |
 | `repc.co` | Yes |
 | `repl.co` | Yes |
@@ -30693,6 +30703,7 @@ Here's a list of public Fediverse services.
 | `thilobuchholz.de` | No |
 | `thimic.no` | Yes |
 | `thinaticsystem.com` | Yes |
+| `thinegen.eu` | No |
 | `thing-averse.com` | No |
 | `thing.org` | No |
 | `thingr.us` | No |
@@ -35072,8 +35083,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,103 |
-| Normal | 26,926 |
+| Cloudflare | 8,109 |
+| Normal | 26,931 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
