@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,144 |
-| social | 3,165 |
-| net | 2,649 |
+| com | 5,145 |
+| social | 3,166 |
+| net | 2,650 |
 | org | 1,900 |
 | de | 1,781 |
 
@@ -156,6 +156,7 @@ Here's a list of public Fediverse services.
 | `10minutepleroma.com` | No |
 | `10one.net` | No |
 | `10qt.net` | No |
+| `10vorne.eu` | No |
 | `10x.sh` | Yes |
 | `114514.xyz` | Yes |
 | `117net.co.uk` | Yes |
@@ -8463,7 +8464,7 @@ Here's a list of public Fediverse services.
 | `electricpea.ch` | No |
 | `electricrequiem.com` | No |
 | `electrifyingcloud.com` | Yes |
-| `electro.social` | No |
+| `electro.social` | Yes |
 | `electron.ninja` | No |
 | `electronblueberry.xyz` | No |
 | `electroncash.de` | No |
@@ -13930,6 +13931,7 @@ Here's a list of public Fediverse services.
 | `inumimi.net` | No |
 | `inux39.me` | Yes |
 | `invalidentry.engineer` | Yes |
+| `invariant.social` | Yes |
 | `inventaire.io` | No |
 | `inveos.com` | No |
 | `inverse.moe` | No |
@@ -17576,7 +17578,7 @@ Here's a list of public Fediverse services.
 | `lux-nightclub.com` | No |
 | `lux.blue` | No |
 | `luxiferapp.com` | No |
-| `luxortube.com` | Yes |
+| `luxortube.com` | No |
 | `luxray.club` | No |
 | `luxtube.lu` | No |
 | `luxurygay.space` | No |
@@ -25407,6 +25409,7 @@ Here's a list of public Fediverse services.
 | `rat.party` | No |
 | `rat.pub` | Yes |
 | `ratemycancer.com` | No |
+| `ratfish.net` | No |
 | `rathe.social` | Yes |
 | `rather.social` | Yes |
 | `rathersafe.space` | No |
@@ -25545,6 +25548,7 @@ Here's a list of public Fediverse services.
 | `rebootcyber.xyz` | No |
 | `rebooted.cc` | No |
 | `rebtoor.com` | Yes |
+| `recentic.com` | Yes |
 | `recentic.net` | Yes |
 | `recetasbellas.com` | No |
 | `recharge.fm` | No |
@@ -30249,6 +30253,7 @@ Here's a list of public Fediverse services.
 | `the937.rocks` | No |
 | `the9thcircle.club` | No |
 | `theabsolute.plus` | Yes |
+| `theaether.space` | Yes |
 | `theagora.one` | No |
 | `theairplan.com` | Yes |
 | `thealtnet.com` | No |
@@ -35027,8 +35032,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,085 |
-| Normal | 26,899 |
+| Cloudflare | 8,088 |
+| Normal | 26,901 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
