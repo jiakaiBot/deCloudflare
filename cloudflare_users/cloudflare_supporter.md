@@ -10015,6 +10015,7 @@ Do not create new issue or we will close it as duplicate.
 | [theprincei@twitter](https://twitter.com/theprincei/status/1589631018654650369) | advertise |
 | [theprincessxena@twitter](https://twitter.com/theprincessxena/status/1382886673055416325) | advertise |
 | [therealgeorge@twitter](https://twitter.com/therealgeorge/status/1399077136720334851) | advertise |
+| [TheRealHighElmo@twitter](https://twitter.com/TheRealHighElmo/status/1608565874092277760) | advertise |
 | [therealjokerk@twitter](https://twitter.com/therealjokerk/status/1446952055176892416) | advertise |
 | [therealmthree@twitter](https://twitter.com/therealmthree/status/1394930520664907792) | advertise |
 | [TheRealSpy5@twitter](https://twitter.com/TheRealSpy5/status/1537494687958851585) | advertise |
