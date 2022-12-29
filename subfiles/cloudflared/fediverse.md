@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,145 |
-| social | 3,166 |
+| social | 3,167 |
 | net | 2,650 |
 | org | 1,901 |
 | de | 1,781 |
@@ -2656,6 +2656,7 @@ Here's a list of public Fediverse services.
 | `baixllobregat.social` | No |
 | `bajax.us` | No |
 | `bajsicki.com` | No |
+| `baka.social` | No |
 | `bakdos.de` | No |
 | `bakedbean.xyz` | No |
 | `baker.network` | No |
@@ -35035,7 +35036,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,088 |
-| Normal | 26,903 |
+| Normal | 26,904 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
