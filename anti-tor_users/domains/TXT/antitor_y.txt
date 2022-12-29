@@ -276,6 +276,7 @@ app14.yellow-page.us
 asset.yes.my
 b90.yahoo.co.jp
 back.logintemplate.youngfog.cn
+bank.yvonnetake.nl
 baseball.yahoo.co.jp
 click.sf.yumobile.co.jp
 cms-cdn.yo-digital.com
@@ -317,9 +318,11 @@ refactor-alerts.mf-yss.yousee.dk
 rest.yafacture.com
 revisions.go.yj.fr
 safeway.yahia.fr
+scmuat01.hk.yusen-logistics.com
 sig-inbank.yofin.ru
 sta.api.youatcollege.com
 static.77.219.108.65.clients.your-server.de
+stg.york.com.sa
 sts.yesbank.in
 support.yougethost.com
 techhunters.y.net.ye
@@ -349,6 +352,7 @@ www.yallaclaim.com
 www.yarok-restaurant.de
 www.yarpaket.ru
 www.yasss.es
+www.yatreek.com
 www.yeepbank.com
 www.yellowpages.com
 www.yelp.de
@@ -372,6 +376,7 @@ yamilyarguelles.com
 yaone.fr
 yaoyorozuya.info
 yarpaket.ru
+yasitsupport.com
 yatisocialfoundation.org
 ydinlehti.fi
 yello.com.ua
@@ -383,6 +388,7 @@ yesterbits.com
 yesvkyc.yesbank.in
 yiff.party
 yilbasi-mujdesi-denizuyelere.ml
+ykop-shaptraki.ml
 ym.y3technologies.com
 yoergbeer.com
 yoga36.de
@@ -396,6 +402,7 @@ yourdatebill.com
 yourmagichost.com
 yourmobilepay.online
 yournamewebsite.com
+yourpackage-instruction-express-kw.com
 yourrugdepot.com
 yoursafestinvestment.com
 youthmediaaction.com
