@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,145 |
 | social | 3,166 |
 | net | 2,650 |
-| org | 1,900 |
+| org | 1,901 |
 | de | 1,781 |
 
 
@@ -13464,6 +13464,7 @@ Here's a list of public Fediverse services.
 | `idtech.space` | No |
 | `idw-online.social` | No |
 | `idw.zone` | No |
+| `ie9.org` | No |
 | `iedred7584.com` | No |
 | `iee.engineer` | Yes |
 | `ieee.org` | Yes |
@@ -14988,7 +14989,7 @@ Here's a list of public Fediverse services.
 | `jvbf.dev` | Yes |
 | `jvdidactics.de` | No |
 | `jvm.social` | No |
-| `jvol.wtf` | Yes |
+| `jvol.wtf` | No |
 | `jvpiter.net` | No |
 | `jvt.me` | No |
 | `jw.be` | No |
@@ -35033,8 +35034,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,089 |
-| Normal | 26,901 |
+| Cloudflare | 8,088 |
+| Normal | 26,903 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
