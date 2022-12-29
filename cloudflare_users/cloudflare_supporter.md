@@ -349,6 +349,7 @@ Do not create new issue or we will close it as duplicate.
 | [afif___rizki@twitter](https://twitter.com/afif___rizki/status/1526398091141664768) | advertise |
 | [AfizOmari@twitter](https://twitter.com/AfizOmari/status/1404102260293054466) | advertise |
 | [afrash@twitter](https://twitter.com/afrash/status/1369943509839585281) | advertise |
+| [Afro02040034@twitter](https://twitter.com/Afro02040034/status/1608224194394832897) | advertise |
 | [AfshinFshnsm@twitter](https://twitter.com/AfshinFshnsm/status/1578027381033340935) | advertise |
 | [Afsi70019929@twitter](https://twitter.com/Afsi70019929/status/1599064914156408833) | advertise |
 | [aftab_afsal@twitter](https://twitter.com/aftab_afsal/status/1548610479810961408) | advertise |
@@ -6930,6 +6931,7 @@ Do not create new issue or we will close it as duplicate.
 | [MzwzSrh@twitter](https://twitter.com/MzwzSrh/status/1581275350599749633) | advertise |
 | [MZykky@twitter](https://twitter.com/MZykky/status/1552553256861470722) | advertise |
 | [M_alamin95@twitter](https://twitter.com/M_alamin95/status/1376986669270847497) | advertise |
+| [m_isaac@twitter](https://twitter.com/m_isaac/status/1608218349036777472) | advertise |
 | [m_mazeed2011@twitter](https://twitter.com/m_mazeed2011/status/1488809662917091330) | advertise |
 | [m_teegani@twitter](https://twitter.com/m_teegani/status/1563618580675051523) | advertise |
 | [n0k35@twitter](https://twitter.com/n0k35/status/1517243040615653376) | advertise |
