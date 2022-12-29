@@ -14671,6 +14671,7 @@ Here's a list of public Fediverse services.
 | `jnjosh.social` | No |
 | `jnktn.tv` | No |
 | `jnsk.info` | Yes |
+| `jo-dev.xyz` | Yes |
 | `joaocosta.eu` | No |
 | `jochen-tetzlaff.online` | No |
 | `jockstrap.futbol` | No |
@@ -35032,7 +35033,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,088 |
+| Cloudflare | 8,089 |
 | Normal | 26,901 |
 
 
