@@ -4881,6 +4881,7 @@ Do not create new issue or we will close it as duplicate.
 | [kenhnhacsan@twitter](https://twitter.com/kenhnhacsan/status/1375658471224320000) | advertise |
 | [KenKawai0@twitter](https://twitter.com/KenKawai0/status/1377570971159126020) | advertise |
 | [kenneth05350139@twitter](https://twitter.com/kenneth05350139/status/1516859886713602048) | advertise |
+| [kennokid@twitter](https://twitter.com/kennokid/status/1608475576742080512) | advertise |
 | [Kenny40929211@twitter](https://twitter.com/Kenny40929211/status/1390248159071203334) | advertise |
 | [kenny50345536@twitter](https://twitter.com/kenny50345536/status/1539617604750278662) | advertise |
 | [KennyJ93864048@twitter](https://twitter.com/KennyJ93864048/status/1391395724621795332) | advertise |
@@ -8171,6 +8172,7 @@ Do not create new issue or we will close it as duplicate.
 | [pongpetxima@twitter](https://twitter.com/pongpetxima/status/1412884176534048769) | moral (advertise) |
 | [Pongsak25990264@twitter](https://twitter.com/Pongsak25990264/status/1390733516778864640) | advertise |
 | [pongtiwat_blue@twitter](https://twitter.com/pongtiwat_blue/status/1399366953886752771) | advertise |
+| [PONKUNGS2@twitter](https://twitter.com/PONKUNGS2/status/1608478951802044416) | advertise |
 | [pontakorn322@twitter](https://twitter.com/pontakorn322/status/1559225662363144193) | advertise |
 | [Poofu1@twitter](https://twitter.com/Poofu1/status/1552379860022358016) | advertise |
 | [Pooh77732056@twitter](https://twitter.com/Pooh77732056/status/1378258475097055234) | advertise |
@@ -10373,6 +10375,7 @@ Do not create new issue or we will close it as duplicate.
 | [tophigh43192@twitter](https://twitter.com/tophigh43192/status/1516070231776456709) | advertise |
 | [TopMan84177559@twitter](https://twitter.com/TopMan84177559/status/1380097459976736769) | advertise |
 | [ToreyHill4@twitter](https://twitter.com/ToreyHill4/status/1577841660293222400) | advertise |
+| [TorpidTech@twitter](https://twitter.com/TorpidTech/status/1608465800364711936) | advertise |
 | [torproject.org](https://www.torproject.org/) | [HISTORY.md](../HISTORY.md), [README.md](README.md) |
 | [Torrekie@twitter](https://twitter.com/Torrekie/status/1449973586664595458) | advertise |
 | [torukMnk@twitter](https://twitter.com/torukMnk/status/1588337042945343488) | advertise |
