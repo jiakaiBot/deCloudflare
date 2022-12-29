@@ -20,5 +20,6 @@ gitlab.mysql.google.718it.biz
 myship.7-11.com.tw
 scm-uat.shop.7-11.com.tw
 test.cert.70r.de
+wetrok.storage.7si.ch
 www.7servicesjax.com
 79xmz3lmss.com
