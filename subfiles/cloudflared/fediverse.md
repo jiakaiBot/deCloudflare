@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,143 |
+| com | 5,144 |
 | social | 3,165 |
 | net | 2,649 |
-| org | 1,899 |
+| org | 1,900 |
 | de | 1,781 |
 
 
@@ -404,6 +404,7 @@ Here's a list of public Fediverse services.
 | `4gx.de` | No |
 | `4hackers.org` | No |
 | `4her.space` | No |
+| `4lb4ny.com` | No |
 | `4lgorhythm.com` | No |
 | `4lgorhythm.io` | No |
 | `4liberty.one` | Yes |
@@ -11111,6 +11112,7 @@ Here's a list of public Fediverse services.
 | `geekbrigade.co.uk` | No |
 | `geekcloud.cyou` | Yes |
 | `geekcompass.com` | Yes |
+| `geekcorner.eu.org` | No |
 | `geekdom.social` | No |
 | `geekery.org` | No |
 | `geekgirls.de` | No |
@@ -35026,7 +35028,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,085 |
-| Normal | 26,897 |
+| Normal | 26,899 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
