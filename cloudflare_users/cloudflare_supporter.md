@@ -7578,6 +7578,7 @@ Do not create new issue or we will close it as duplicate.
 | [nurunnabi56@twitter](https://twitter.com/nurunnabi56/status/1560217013288861696) | advertise |
 | [nuttawoot33150@twitter](https://twitter.com/nuttawoot33150/status/1557336093254569984) | advertise |
 | [NuwajunaJustus@twitter](https://twitter.com/NuwajunaJustus/status/1588943780883095553) | advertise |
+| [nuyenthv@twitter](https://twitter.com/nuyenthv/status/1608552420929601536) | advertise |
 | [NV25532344@twitter](https://twitter.com/NV25532344/status/1480206141401354244) | advertise |
 | [nva30042000@twitter](https://twitter.com/nva30042000/status/1400858007844450312) | advertise |
 | [nvc20222@twitter](https://twitter.com/nvc20222/status/1607766802884354049) | advertise |
