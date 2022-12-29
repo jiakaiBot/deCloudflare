@@ -31,6 +31,7 @@ Here's a list of public Matrix services.
 | asra.gr | No |
 | matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
+| bancino.net | No |
 | breeze.town | No |
 | buyvm.chat | No |
 | matrix.bytes4u.de | No |
@@ -72,7 +73,6 @@ Here's a list of public Matrix services.
 | houtworm.im | No |
 | synapse.hyteck.de | No |
 | inetd.xyz | No |
-| matrix.jonasled.de | Yes |
 | junta.pl | No |
 | chat.librem.one | No |
 | matrix.libreon.fr | No |
@@ -125,8 +125,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 16 |
-| Normal | 82 |
+| Cloudflare | 15 |
+| Normal | 83 |
 
 
-### 16.3% of public Matrix services are using Cloudflare.
+### 15.3% of public Matrix services are using Cloudflare.
