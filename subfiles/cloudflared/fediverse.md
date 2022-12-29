@@ -4923,7 +4923,7 @@ Here's a list of public Fediverse services.
 | `cheese.beer` | No |
 | `cheesebsd.com` | No |
 | `cheeseburger.cafe` | No |
-| `cheeseburger.social` | No |
+| `cheeseburger.social` | Yes |
 | `cheeseland.xyz` | No |
 | `cheesemakesmehappy.com` | No |
 | `cheesepark.io` | No |
@@ -15068,6 +15068,7 @@ Here's a list of public Fediverse services.
 | `kaartinen.photos` | Yes |
 | `kaartinen.social` | Yes |
 | `kabadesu.ch` | No |
+| `kabelsalat.ch` | No |
 | `kabi.tk` | No |
 | `kabipix.tk` | No |
 | `kabudon.jp` | No |
@@ -17388,6 +17389,7 @@ Here's a list of public Fediverse services.
 | `lottum2.de` | No |
 | `lotty.jp` | No |
 | `lotus-eyes.net` | No |
+| `lotz.dev` | Yes |
 | `lou.lt` | Yes |
 | `louderthanten.net` | Yes |
 | `loudstoffarm.de` | No |
@@ -18252,6 +18254,7 @@ Here's a list of public Fediverse services.
 | `masto-sport.us` | No |
 | `masto.actor` | Yes |
 | `masto.ai` | Yes |
+| `masto.amsterdam` | No |
 | `masto.bar` | No |
 | `masto.beer` | Yes |
 | `masto.bg` | No |
@@ -20247,6 +20250,7 @@ Here's a list of public Fediverse services.
 | `msdyn365bc.social` | No |
 | `mserdar.net` | No |
 | `msetalk.net` | Yes |
+| `msfs.info` | Yes |
 | `msgdn.xyz` | No |
 | `msgs.ee` | Yes |
 | `msh.al` | Yes |
@@ -35119,8 +35123,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,119 |
-| Normal | 26,957 |
+| Cloudflare | 8,122 |
+| Normal | 26,958 |
 
 
-### 23.1% of public Fediverse services are using Cloudflare.
+### 23.2% of public Fediverse services are using Cloudflare.
