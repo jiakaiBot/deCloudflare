@@ -629,6 +629,7 @@ amazon-puytr.jungleheart.com
 api-dev.julo.co.id
 api-sit.jio.com
 api.jio.com
+auth.hdmk.jbo-meitingen.de
 auth.jh-research.de
 auth.jiri-pejsa.cz
 auth.jungconsultant.com
@@ -676,6 +677,7 @@ gwdocs-tn.jobs.net
 j2logo.com
 ja-yokohama-aml.jp
 jabe-dakservice.nl
+jackashley.co.uk
 jackstanley.cl
 jacobsladderblog.com
 jaegeroslo.no
@@ -741,6 +743,7 @@ jimsmowing.net
 jiosaerogel.com
 jiosag.com
 jjpestcontrolservice.in
+jklahituki.fi
 jkwrn.de
 jmlpt.co
 jmplanning.net
@@ -766,6 +769,8 @@ jollyrogertelephone.com
 jomtraining.com
 jornalpovodeportugal.eu
 jost-portal.jost-world.com
+joulukuusipalvelu.com
+joulukuusipalvelu.fi
 journal-bpa.org
 journalsadministrativesystem.com
 jovenescaficultoresnescafe.com
@@ -801,6 +806,7 @@ khadmat-login.jvmhost.net
 kyc.joyn-app.com
 larasindo.joesam0208.com
 law.justia.com
+login.jobinteligente.com.br
 loginsecure.jh-agency.com
 mail.jurisicordinacija.co.rs
 mail1.jvgas.com
@@ -828,9 +834,11 @@ sisu-client.cap.jukk.it
 starcash.jamiealarie.com
 static.joox.com
 swjttodfapi000.jaltest.com
+te7tyidfg.jimdofree.com
 test-infoweb.jaltest.com
 ticket.jogjabikerendezvous.com
 tickets.jazzaandesjtasie.nl
+timetrack.jkmsite.com
 va.jamfsupport.systems
 web.jsc.gov.jo
 webapi.jrechina.com
@@ -906,8 +914,10 @@ www.jobvacancyresult.com
 www.joeygaseracing.com
 www.johngrenham.com
 www.johngrimwade.com
+www.jointfarmersmicrofinancebank.com.ng
 www.jonathan-cook.net
 www.jornalaguarda.com
+www.josephconradsparrow-author.com
 www.joseptamarit.com
 www.jounilehtonen.com
 www.journaldunet.com
