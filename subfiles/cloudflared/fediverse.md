@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,145 |
+| com | 5,146 |
 | social | 3,167 |
 | net | 2,650 |
 | org | 1,901 |
@@ -10970,7 +10970,7 @@ Here's a list of public Fediverse services.
 | `gamt.tech` | No |
 | `ganba.re` | No |
 | `gancio.org` | No |
-| `gandi.net` | No |
+| `gandi.net` | Yes |
 | `gandi.social` | No |
 | `ganesha.org.br` | No |
 | `ganeshapress.net` | No |
@@ -34333,6 +34333,7 @@ Here's a list of public Fediverse services.
 | `yamagadon.com` | No |
 | `yamaha.lol` | Yes |
 | `yamaken.jp` | Yes |
+| `yamako-ya.com` | No |
 | `yamanote.tokyo.jp` | No |
 | `yamaoka-takeshi.xyz` | No |
 | `yamast.com` | No |
@@ -35035,7 +35036,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,088 |
+| Cloudflare | 8,089 |
 | Normal | 26,904 |
 
 
