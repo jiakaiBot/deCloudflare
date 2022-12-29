@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,146 |
-| social | 3,167 |
+| com | 5,148 |
+| social | 3,172 |
 | net | 2,650 |
-| org | 1,901 |
+| org | 1,902 |
 | de | 1,781 |
 
 
@@ -2431,6 +2431,7 @@ Here's a list of public Fediverse services.
 | `awaymessage.club` | No |
 | `awes.one` | Yes |
 | `awesome.computer` | No |
+| `awesome.garden` | No |
 | `awesomebible.de` | Yes |
 | `awesomefriends.social` | No |
 | `awesomehouse.ca` | No |
@@ -3468,6 +3469,7 @@ Here's a list of public Fediverse services.
 | `blackquill.cc` | No |
 | `blackrock.city` | No |
 | `blackrock.social` | No |
+| `blackrookery.ca` | No |
 | `blackshuck.net` | No |
 | `blacksketch.com` | No |
 | `blackspace.social` | No |
@@ -3706,6 +3708,7 @@ Here's a list of public Fediverse services.
 | `bofh.social` | Yes |
 | `bofhers.es` | No |
 | `bog.life` | No |
+| `bog.social` | No |
 | `bograham.xyz` | No |
 | `bogus.ee` | No |
 | `bohnstedt.org` | No |
@@ -4674,6 +4677,7 @@ Here's a list of public Fediverse services.
 | `cbinary.sk` | Yes |
 | `cbm.xyz` | Yes |
 | `cbrpnk.dev` | No |
+| `cbrsocial.au` | Yes |
 | `cbruegg.com` | Yes |
 | `cbrx.io` | Yes |
 | `cbslocal.com` | No |
@@ -6796,6 +6800,7 @@ Here's a list of public Fediverse services.
 | `davidpeach.co.uk` | Yes |
 | `davidpeach.me` | No |
 | `davidriederer.com` | No |
+| `davids.social` | Yes |
 | `davidsimon.com` | Yes |
 | `davidwolfpaw.com` | Yes |
 | `davidzeiger.net` | Yes |
@@ -7076,6 +7081,7 @@ Here's a list of public Fediverse services.
 | `denizens.social` | No |
 | `denkbrettl.org` | No |
 | `denkfabrikblog.de` | No |
+| `dennis.gg` | Yes |
 | `dennisforbes.ca` | Yes |
 | `deno.dev` | No |
 | `densco.net` | No |
@@ -9155,6 +9161,7 @@ Here's a list of public Fediverse services.
 | `ezdog.press` | No |
 | `ezhevita.dev` | Yes |
 | `ezix.org` | Yes |
+| `ezone.fun` | No |
 | `ezra.ch` | No |
 | `ezra.social` | No |
 | `ezramiguel.me` | No |
@@ -9955,6 +9962,7 @@ Here's a list of public Fediverse services.
 | `fleur7.com` | No |
 | `fleuv.es` | No |
 | `flexnation.xyz` | No |
+| `flexnet.social` | Yes |
 | `flifloo.fr` | Yes |
 | `flightclub.social` | No |
 | `flim.ml` | No |
@@ -12733,6 +12741,7 @@ Here's a list of public Fediverse services.
 | `hiddan.net` | No |
 | `hidden.blue` | Yes |
 | `hiddenpalace.zone` | No |
+| `hide.li` | Yes |
 | `hidekisaito.com` | Yes |
 | `hidemyfap.com` | No |
 | `hideo54.com` | Yes |
@@ -12888,6 +12897,7 @@ Here's a list of public Fediverse services.
 | `ho-me.zone` | Yes |
 | `hoagie.fun` | Yes |
 | `hoam.earth` | No |
+| `hobapolis.social` | No |
 | `hobaugh.social` | No |
 | `hobbies.social` | No |
 | `hobbitasylum.com` | No |
@@ -13189,6 +13199,7 @@ Here's a list of public Fediverse services.
 | `hug.network` | No |
 | `hugeglobal.net` | Yes |
 | `huggingservers.uk` | Yes |
+| `hugglebot.io` | Yes |
 | `huggles.club` | No |
 | `hugh.buzz` | No |
 | `hugh.run` | No |
@@ -17721,6 +17732,7 @@ Here's a list of public Fediverse services.
 | `madder-mad.net` | No |
 | `maddie.rocks` | No |
 | `maddox.io` | No |
+| `maddux.blog` | No |
 | `maddworld.org` | Yes |
 | `maddypa.ws` | No |
 | `madeorsk.com` | No |
@@ -18852,6 +18864,7 @@ Here's a list of public Fediverse services.
 | `mcavey.net` | No |
 | `mcb.today` | No |
 | `mccallig.com` | No |
+| `mcchattersons.com` | No |
 | `mcclear.net` | Yes |
 | `mccormick.cx` | No |
 | `mcculley.social` | Yes |
@@ -21138,6 +21151,7 @@ Here's a list of public Fediverse services.
 | `neongrove.social` | No |
 | `neonsoup.house` | Yes |
 | `neonsoup.xyz` | Yes |
+| `neontechnica.lol` | No |
 | `neophili.ac` | No |
 | `neos.social` | No |
 | `neosam.dev` | No |
@@ -22573,6 +22587,7 @@ Here's a list of public Fediverse services.
 | `onlypixel.nl` | No |
 | `onlyroleplayth.com` | No |
 | `onlysomestories.com` | No |
+| `onmasto.com` | No |
 | `onore.org` | No |
 | `onosend.ai` | No |
 | `onosendai.jp` | No |
@@ -22995,6 +23010,7 @@ Here's a list of public Fediverse services.
 | `over9k.tech` | No |
 | `overblue.net` | No |
 | `overbye.dev` | Yes |
+| `overenginerd.org` | No |
 | `overgrown.garden` | Yes |
 | `overheard.social` | No |
 | `overholts.dev` | No |
@@ -28122,6 +28138,7 @@ Here's a list of public Fediverse services.
 | `snapshare.social` | No |
 | `snarfed.org` | No |
 | `snargol.com` | No |
+| `snark.fail` | No |
 | `snarky.club` | No |
 | `snarl.de` | No |
 | `snarpix.com` | No |
@@ -32498,6 +32515,7 @@ Here's a list of public Fediverse services.
 | `vapedon.club` | No |
 | `vapefam.fun` | No |
 | `vapers.jp` | No |
+| `vapeslurry.social` | No |
 | `vapid.io` | No |
 | `vaping.social` | No |
 | `vapokland.io` | No |
@@ -35036,8 +35054,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,089 |
-| Normal | 26,904 |
+| Cloudflare | 8,095 |
+| Normal | 26,916 |
 
 
 ### 23.1% of public Fediverse services are using Cloudflare.
