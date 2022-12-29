@@ -1715,6 +1715,7 @@ zmail.grasssuggestionangle.online
 02751c7414f6411a37eca9880b9eb197.safeframe.googlesyndication.com
 0277acbbfa4cc876036999cf792de624.safeframe.googlesyndication.com
 07bae7f1bc6b8601ad478f98b6f2d38c.safeframe.googlesyndication.com
+0a06927292fe2ae3bb3bedfffb7ea8b2.safeframe.googlesyndication.com
 0ad2b771b1843e3c8637916a72d30f7b.safeframe.googlesyndication.com
 0cb3a8374792c88f79ed961703de4fd6.safeframe.googlesyndication.com
 1088051487-atari-embeds.googleusercontent.com
@@ -1753,6 +1754,7 @@ zmail.grasssuggestionangle.online
 a1d0d5a11568f11cb1326942b42befd7.safeframe.googlesyndication.com
 a3b97c68b78d6f7654afe7db7844b4c1.safeframe.googlesyndication.com
 a970dd25ca2a643d2c17c232720d5ec1.safeframe.googlesyndication.com
+ab05-hub.github.io
 abdallamhmoud.github.io
 abhimanyukumar-lab.github.io
 absorbed-tree-mojoceratops.glitch.me
@@ -1769,7 +1771,6 @@ afbe02d24dc3f87a76aa6c60ce0a302b.safeframe.googlesyndication.com
 afcu-s4n.github.io
 agustforbussines.github.io
 ai.grimtech.co.uk
-airflow.core-banking-1.staging.getampla.com
 akanksha3012.github.io
 akashpmani.github.io
 akshata2696.github.io
@@ -1789,7 +1790,6 @@ api.green-joker.com
 api.smartmedia.gs1au.org
 api.test.gopay.com
 apidata.googleusercontent.com
-apiv2-flower.core-banking-1.staging.getampla.com
 apm.greateasternlife.com
 app.graaab.com
 appalapp.gallapplipal.com
@@ -1807,6 +1807,7 @@ billing-services.greentie.solutions
 billing.globalwer.com
 blnance.com.grupposcuola.org
 blog.genista.info
+bloxcode.getappmod.com
 borhan365.github.io
 brief-abalone-nose.glitch.me
 bt-busines.github.io
@@ -1840,6 +1841,7 @@ coni.ggap.it
 consent.google.ca
 consent.google.co.in
 consent.google.es
+consent.google.fr
 consent.google.pl
 contact.galarecords.fr
 contact.goodpep.com
@@ -1863,6 +1865,7 @@ cpcontacts.gulfblockchainsummit.com
 cpcontacts.gummiesapplecidervinegar.ca
 cpcontacts.japan.genecodes.com
 creative-time-neon.glitch.me
+crypto.giroblog.it
 csgo.godhelper.org
 cubicus.groupelesechos.fr
 cuentaseguridadauthactualizarahora.gitarcaang.com
@@ -2013,6 +2016,7 @@ gen.page
 generalcontractornewyorkcity.com
 generator-service.kyiv.ua
 generatorservice.com.ua
+geniesccriptsupport.com
 genius1coder.github.io
 genless.govt.nz
 genocean.org
@@ -2075,6 +2079,7 @@ gitlab.gitlab.webdisk.webmail.mail.www.guru.net.nz
 gitlab.instagram.gm-ph.ru
 gitlab.www.www.www.covid19.gorod-sveta-rf.ru
 givesdrop.ru
+gjks.jp
 gjsfashion.com
 gjthub.net
 gks.academy
@@ -2192,6 +2197,7 @@ grupocartograf.com
 grupoics.cl
 grupopisis.com.mx
 grupounoseguridad.com.uy
+gruppo-credito.com
 gsa777.xyz
 gssarang.org
 gst-pay.ca
@@ -2281,11 +2287,13 @@ multisend-unsubscribe.gmail.com
 mutantmonkez.github.io
 mynsionline.guardsman.com
 n3m6x.app.goo.gl
+namib.groupeadf.com
 near-reminiscent-alamosaurus.glitch.me
 nerdgang89.github.io
 nestservices.google.com
 nethservice.grassoeassociati.it
 newspawww.demo.google-shopping.club
+nhraju78.github.io
 niveditaparasappagol.github.io
 njg.geologi.no
 notebooks.cloud.google.com
@@ -2358,6 +2366,7 @@ schneemensch.glitch.me
 scholar.google.nl
 scholar.google.no
 sculptingpastedot.com.googlehub.com
+sebene27.github.io
 secretive-keen-snow.glitch.me
 secure.geonames.net
 secure.gpo.ca
@@ -2370,6 +2379,7 @@ service.gruppodolomitienergia.it
 shaheema-kv.github.io
 shamilshamsudheen.github.io
 share-on-mastodon.glitch.me
+shifin424.github.io
 shinantc.github.io
 shop.google-shopping.club
 shop.vmail.gnomus.systems
@@ -2459,6 +2469,7 @@ webdisk.gulfblockchainsummit.com
 webdisk.japan.genecodes.com
 webdisk.sandstoneleisure.ginvoice.co.uk
 webdisk.theexhaustcompany.garageinvoice.co.uk
+webmail-signin-signon-ca.github.io
 webmail-update.github.io
 webmail.garantias.site
 webmail.generalcontractornewyorkcity.com
@@ -2502,6 +2513,7 @@ www.garysbesttreeservice.com
 www.gauntlet-rpg.com
 www.gavinpestcontrol.com
 www.gaziantepfk.org
+www.gcacademianetwork.org
 www.gcc.com.cy
 www.gconta.com.br
 www.gcwildlifecontrol.com
@@ -2513,6 +2525,7 @@ www.general-staff.com
 www.generator-service.kyiv.ua
 www.generatorservice.com.ua
 www.genewilburn.com
+www.geniesccriptsupport.com
 www.geocities.jp
 www.georgeandnoralondon.org
 www.geowyo.com
@@ -2536,6 +2549,7 @@ www.gla-cier-auth.galaxyventuresproperties.com
 www.glasgowwellingtonfc.co.uk
 www.glentleiten.de
 www.global-alarm.dk
+www.globalmydomtrack.com
 www.globalstarsafety.globalstarsafety.org
 www.globaltv.com
 www.glowing.surf
@@ -2599,6 +2613,7 @@ www.gwinnettdailypost.com
 www.gwsecurity.com.co
 www.homeservice-freelancer.girlfrombravos.co.ke
 www.hostingbilling.greathost.ro
+www.ibank-nbg.gr-info-acc.com
 www.lapor.gopost.id
 www.login.gozap.delivery
 www.oidcservice.globo.com
