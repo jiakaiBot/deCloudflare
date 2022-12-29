@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [last updates didn't fix the issues](https://github.com/humhub-contrib/external_calendar/issues/41)
 - [Cloudflare page will always get 405 error for non-GET method](https://github.com/unjs/nitro/issues/787)
 - [adapter-cloudflare@1.0.0-next.36 ambient.d.ts breaks DOM manipulation function types](https://github.com/sveltejs/kit/issues/8268)
 - [AvistaZ Cloudflare Error: No challenge selectors found, unable to proceed](https://github.com/FlareSolverr/FlareSolverr/issues/640)
