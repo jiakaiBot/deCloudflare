@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,166 |
-| social | 3,182 |
+| com | 5,168 |
+| social | 3,183 |
 | net | 2,659 |
-| org | 1,910 |
+| org | 1,911 |
 | de | 1,790 |
 
 
@@ -804,6 +804,7 @@ Here's a list of public Fediverse services.
 | `acts-sh.pp.ua` | No |
 | `acts17archive.org` | No |
 | `actuallyacat.com` | No |
+| `actuallyautistics.org` | No |
 | `acu.lt` | No |
 | `acurrency.org` | No |
 | `ad5001.eu` | No |
@@ -4713,6 +4714,7 @@ Here's a list of public Fediverse services.
 | `cde.social` | No |
 | `cdibluetooth.com` | Yes |
 | `cdmx.rocks` | No |
+| `cdownie.co.uk` | Yes |
 | `cdrom.tokyo` | No |
 | `cdstm.ch` | No |
 | `ceb8.de` | No |
@@ -9804,6 +9806,7 @@ Here's a list of public Fediverse services.
 | `fiddlebike.us` | No |
 | `fidei.xyz` | Yes |
 | `fideli.us` | No |
+| `fidelis.social` | No |
 | `fidgetykid.club` | No |
 | `fidonet.io` | No |
 | `fiduciary.business` | No |
@@ -10722,6 +10725,7 @@ Here's a list of public Fediverse services.
 | `funny.cl` | No |
 | `funnygirl.wtf` | No |
 | `funnylookinhat.com` | Yes |
+| `funnymonkey.com` | No |
 | `funposters.club` | Yes |
 | `funs.vn` | No |
 | `fuo.fi` | Yes |
@@ -19144,6 +19148,7 @@ Here's a list of public Fediverse services.
 | `mendelmaleh.gq` | No |
 | `meneame.net` | No |
 | `meneer.space` | No |
+| `meneeraart.nl` | No |
 | `menf.in` | No |
 | `mengjiang.org` | Yes |
 | `mengobrol.com` | Yes |
@@ -25229,6 +25234,7 @@ Here's a list of public Fediverse services.
 | `r33int.xyz` | No |
 | `r3bl.me` | Yes |
 | `r3bl.social` | No |
+| `r3dp1ll.sh` | No |
 | `r3pek.org` | No |
 | `r3s.nrw` | No |
 | `r3valkyrie.com` | Yes |
@@ -27858,7 +27864,7 @@ Here's a list of public Fediverse services.
 | `simonwillison.net` | Yes |
 | `simonwood.info` | No |
 | `simounet.net` | No |
-| `simple-gear.com` | No |
+| `simple-gear.com` | Yes |
 | `simplefinances.net` | No |
 | `simplefinances.us` | No |
 | `simpleguy.net` | No |
@@ -33714,6 +33720,7 @@ Here's a list of public Fediverse services.
 | `winteroak.org.uk` | No |
 | `winterrific.cloud` | No |
 | `wintu520.com` | Yes |
+| `wiorca.com` | Yes |
 | `wip.la` | Yes |
 | `wip.sh` | No |
 | `wiper.dev` | Yes |
@@ -35161,8 +35168,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,133 |
-| Normal | 26,985 |
+| Cloudflare | 8,136 |
+| Normal | 26,989 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
