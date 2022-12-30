@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,166 |
 | social | 3,181 |
-| net | 2,658 |
-| org | 1,908 |
+| net | 2,659 |
+| org | 1,909 |
 | de | 1,789 |
 
 
@@ -12852,6 +12852,7 @@ Here's a list of public Fediverse services.
 | `hirtzfr.eu` | No |
 | `hiruandon.life` | No |
 | `his-hoes.uk` | No |
+| `hisaac.net` | No |
 | `hispagatos.org` | Yes |
 | `hispagatos.space` | No |
 | `hispanilandia.net` | No |
@@ -28689,6 +28690,7 @@ Here's a list of public Fediverse services.
 | `speeqeasy.com` | No |
 | `speicherbereich.net` | No |
 | `speicherwolke.net` | No |
+| `spejset.org` | No |
 | `spekadyon.org` | No |
 | `spelt.io` | No |
 | `sperg.city` | Yes |
@@ -35150,7 +35152,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,131 |
-| Normal | 26,975 |
+| Normal | 26,977 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
