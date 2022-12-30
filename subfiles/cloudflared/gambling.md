@@ -23,8 +23,8 @@ Here's the result.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 624 |
-| Normal | 784 |
+| Cloudflare | 626 |
+| Normal | 782 |
 
 
-### 44.3% of gambling domains are using Cloudflare.
+### 44.5% of gambling domains are using Cloudflare.
