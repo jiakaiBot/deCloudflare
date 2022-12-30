@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,163 |
 | social | 3,180 |
-| net | 2,654 |
+| net | 2,655 |
 | org | 1,908 |
 | de | 1,787 |
 
@@ -27532,6 +27532,7 @@ Here's a list of public Fediverse services.
 | `shas.am` | No |
 | `shashindo.de` | No |
 | `shatteredpalisa.de` | No |
+| `shatteredsky.net` | Yes |
 | `shaughnessy.xyz` | No |
 | `shaun.net` | No |
 | `shauny.me` | Yes |
@@ -35129,8 +35130,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,122 |
+| Cloudflare | 8,123 |
 | Normal | 26,964 |
 
 
-### 23.1% of public Fediverse services are using Cloudflare.
+### 23.2% of public Fediverse services are using Cloudflare.
