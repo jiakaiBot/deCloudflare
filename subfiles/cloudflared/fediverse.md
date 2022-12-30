@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,180 |
 | net | 2,655 |
 | org | 1,908 |
-| de | 1,787 |
+| de | 1,788 |
 
 
 - Mastodon, Pleroma, etc
@@ -10940,6 +10940,7 @@ Here's a list of public Fediverse services.
 | `gamasutra.com` | Yes |
 | `gamba.osaka.jp` | No |
 | `game-create-mastodon.com` | No |
+| `game-tecx.de` | No |
 | `gamebubble.eu` | No |
 | `gamechat.social` | No |
 | `gamecluster.net` | No |
@@ -28676,7 +28677,7 @@ Here's a list of public Fediverse services.
 | `spelt.io` | No |
 | `sperg.city` | Yes |
 | `sperg.world` | No |
-| `speyhard.club` | No |
+| `speyhard.club` | Yes |
 | `spezi.social` | No |
 | `spezl.bayern` | No |
 | `spfd.online` | No |
@@ -35130,7 +35131,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,123 |
+| Cloudflare | 8,124 |
 | Normal | 26,964 |
 
 
