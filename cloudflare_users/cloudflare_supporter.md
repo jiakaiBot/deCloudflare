@@ -2032,8 +2032,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -10992,6 +10992,7 @@ Do not create new issue or we will close it as duplicate.
 | [WaiPhyo14479248@twitter](https://twitter.com/WaiPhyo14479248/status/1391332005577519104) | advertise |
 | [Waiphyo17569533@twitter](https://twitter.com/Waiphyo17569533/status/1526528431646597120) | advertise |
 | [WaiPhyo37526807@twitter](https://twitter.com/WaiPhyo37526807/status/1542872247227994112) | advertise |
+| [waiphyo75779158@twitter](https://twitter.com/waiphyo75779158/status/1608907496395268097) | advertise |
 | [WaiPhyo77727039@twitter](https://twitter.com/WaiPhyo77727039/status/1391880294983028737) | advertise |
 | [WaiWai86299852@twitter](https://twitter.com/WaiWai86299852/status/1390855275997917192) | advertise |
 | [WaiYan05198096@twitter](https://twitter.com/WaiYan05198096/status/1393037907317903365) | advertise |
