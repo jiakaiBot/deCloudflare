@@ -2032,8 +2032,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -9369,6 +9369,7 @@ Do not create new issue or we will close it as duplicate.
 | [SmithPhyo1@twitter](https://twitter.com/SmithPhyo1/status/1396327329824051209) | advertise |
 | [Smkyaw123@twitter](https://twitter.com/Smkyaw123/status/1544674611794952192) | advertise |
 | [smmoooooe@twitter](https://twitter.com/smmoooooe/status/1389422042521358337) | advertise |
+| [smokinsalmons@twitter](https://twitter.com/smokinsalmons/status/1608942227769954304) | advertise |
 | [smplbutcreative@twitter](https://twitter.com/smplbutcreative/status/1474489963903209472) | advertise |
 | [smtkaitou@twitter](https://twitter.com/smtkaitou/status/1395713765975363585) | advertise |
 | [SMZ23449578@twitter](https://twitter.com/SMZ23449578/status/1402810629530873860) | advertise |
