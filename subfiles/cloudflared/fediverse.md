@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,166 |
 | social | 3,181 |
-| net | 2,656 |
+| net | 2,657 |
 | org | 1,908 |
 | de | 1,789 |
 
@@ -12704,7 +12704,7 @@ Here's a list of public Fediverse services.
 | `heslach.international` | No |
 | `hespere.de` | No |
 | `hessen.social` | No |
-| `hesshaus.us` | No |
+| `hesshaus.us` | Yes |
 | `hessis.xyz` | No |
 | `hesslesmiths.uk` | No |
 | `hetnieuweinstituut.nl` | No |
@@ -14006,6 +14006,7 @@ Here's a list of public Fediverse services.
 | `ion.ovh` | No |
 | `ionainstitute.ie` | Yes |
 | `ionathan.ch` | No |
+| `ionazun.net` | Yes |
 | `ionian.eu` | No |
 | `ionorth.net` | No |
 | `ions.sh` | Yes |
@@ -20286,6 +20287,7 @@ Here's a list of public Fediverse services.
 | `mspa.social` | No |
 | `msps.io` | Yes |
 | `mspsocial.net` | No |
+| `msqtdn.tk` | No |
 | `mst-dn.me` | No |
 | `mst.blue` | No |
 | `mst.social` | No |
@@ -35146,7 +35148,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,129 |
+| Cloudflare | 8,131 |
 | Normal | 26,974 |
 
 
