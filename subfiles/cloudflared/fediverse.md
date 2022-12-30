@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,166 |
 | social | 3,181 |
-| net | 2,657 |
+| net | 2,658 |
 | org | 1,908 |
 | de | 1,789 |
 
@@ -25071,6 +25071,7 @@ Here's a list of public Fediverse services.
 | `quarteredcircle.net` | No |
 | `quasi.social` | No |
 | `quasireal.ca` | Yes |
+| `quasivoid.net` | No |
 | `quasselfritze.de` | No |
 | `quasselkopf.de` | No |
 | `quaylessed.icu` | No |
@@ -35149,7 +35150,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,131 |
-| Normal | 26,974 |
+| Normal | 26,975 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
