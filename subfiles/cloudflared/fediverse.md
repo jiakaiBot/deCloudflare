@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 | com | 5,166 |
 | social | 3,182 |
 | net | 2,659 |
-| org | 1,909 |
-| de | 1,789 |
+| org | 1,910 |
+| de | 1,790 |
 
 
 - Mastodon, Pleroma, etc
@@ -9905,6 +9905,7 @@ Here's a list of public Fediverse services.
 | `firmware.doctor` | No |
 | `firmware.network` | No |
 | `firobe.fr` | No |
+| `firr.cam` | No |
 | `firstforest.jp` | No |
 | `firstmountainenterprises.com` | No |
 | `firstpost.de` | No |
@@ -21091,6 +21092,7 @@ Here's a list of public Fediverse services.
 | `nebulon.io` | Yes |
 | `nebulon.space` | No |
 | `necessarius.church` | No |
+| `nechapu.to` | No |
 | `neckarwie.se` | No |
 | `neckbeard.xyz` | No |
 | `necomi.co` | No |
@@ -22027,6 +22029,7 @@ Here's a list of public Fediverse services.
 | `nott.cc` | No |
 | `nottechnicallyalien.com` | No |
 | `nottingham.city` | Yes |
+| `nottjott.online` | No |
 | `notunremarkable.me` | No |
 | `notvery.social` | No |
 | `notwebsite.com` | No |
@@ -23436,6 +23439,7 @@ Here's a list of public Fediverse services.
 | `paulwilde.uk` | No |
 | `paupers.xyz` | No |
 | `pavel.online` | No |
+| `pavluk.org` | Yes |
 | `pavot.ca` | No |
 | `paw.best` | No |
 | `paw.cafe` | Yes |
@@ -30173,6 +30177,7 @@ Here's a list of public Fediverse services.
 | `telepath.ee` | No |
 | `telepati.ch` | No |
 | `telescope.garden` | No |
+| `teleurstellend.nl` | No |
 | `television.social` | No |
 | `teleyal.blog` | No |
 | `telmina.com` | No |
@@ -30224,6 +30229,7 @@ Here's a list of public Fediverse services.
 | `teppelin.fr` | No |
 | `tepsne.ovh` | No |
 | `teqqnet.de` | Yes |
+| `teqqy.de` | Yes |
 | `terabyte-computing.com` | No |
 | `terbea.com` | No |
 | `terbeest.net` | No |
@@ -35155,8 +35161,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,131 |
-| Normal | 26,981 |
+| Cloudflare | 8,133 |
+| Normal | 26,985 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
