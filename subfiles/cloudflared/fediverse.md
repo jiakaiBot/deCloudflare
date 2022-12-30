@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,163 |
-| social | 3,178 |
+| social | 3,179 |
 | net | 2,654 |
 | org | 1,908 |
 | de | 1,787 |
@@ -10284,6 +10284,7 @@ Here's a list of public Fediverse services.
 | `francoacg.com` | No |
 | `franken.social` | No |
 | `frankenwolke.com` | No |
+| `frankfurt.monster` | No |
 | `frankfurt.social` | No |
 | `frankfurtium.de` | No |
 | `frankgrimm.net` | No |
@@ -12340,6 +12341,7 @@ Here's a list of public Fediverse services.
 | `happysocial.site` | No |
 | `happytobehe.re` | No |
 | `happytoo.cyou` | Yes |
+| `happyvalley.social` | No |
 | `hapyyr.com` | No |
 | `haqueers.com` | No |
 | `harahar.com` | No |
@@ -35125,7 +35127,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,122 |
-| Normal | 26,959 |
+| Normal | 26,961 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
