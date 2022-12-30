@@ -18281,6 +18281,7 @@ Here's a list of public Fediverse services.
 | `masto.lol` | No |
 | `masto.me.uk` | No |
 | `masto.media` | No |
+| `masto.miami` | No |
 | `masto.ml` | No |
 | `masto.ninja` | No |
 | `masto.nu` | No |
@@ -35124,7 +35125,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,122 |
-| Normal | 26,958 |
+| Normal | 26,959 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
