@@ -270,6 +270,7 @@ yzphouse.com
 activity.yptqkc.cn
 admin.fast-track-v2-integration.yabawt-clients.com
 admin.fast-track-v2.yabawt-clients.com
+ahi.yoxel.com
 am.yahoo.co.jp
 an.yandex.ru
 app14.yellow-page.us
@@ -285,8 +286,11 @@ coinbasecomllogin.yahoosites.com
 coinbasee-prologin.yahoosites.com
 coinbaseprologinel.yahoosites.com
 cpanel.yacovid.com
+cpanel.yutaroblog.org
 cpcalendars.yacovid.com
 cpcalendars.yprseguros.com
+cpcalendars.yutaroblog.org
+cpcontacts.yutaroblog.org
 dms-cx24dadhv2report.wc.yahoodns.net
 epg.yokkeapi.com
 etc-dsdw.yourtrap.com
@@ -304,6 +308,7 @@ invoicexpressnew.yesbank.in
 iovmxrwu.xnsujetf.uhratkfs.hrweb.yalecarolinas.com
 lk.yakutskenergo.ru
 mail.youthinvest.global
+mail.yutaroblog.org
 market.yandex.ru
 msacs.yrgcareitsupport.org
 nawacitapost2.yessindo.id
@@ -334,8 +339,10 @@ v-crd7q2u3op.wc.yahoodns.net
 v-cvktbosoyn.wc.yahoodns.net
 vriwsogp.lwdybhnz.uhratkfs.hrweb.yalecarolinas.com
 webdisk.yacovid.com
+webdisk.yutaroblog.org
 webmail.yacovid.com
 webmail.yogamylife.site
+webmail.yutaroblog.org
 www.bank.iefinance.go.yj.fr
 www.bill.yosasoftware.com
 www.billing.yourhostings.net
@@ -388,7 +395,6 @@ yesterbits.com
 yesvkyc.yesbank.in
 yiff.party
 yilbasi-mujdesi-denizuyelere.ml
-ykop-shaptraki.ml
 ym.y3technologies.com
 yoergbeer.com
 yoga36.de
@@ -408,9 +414,11 @@ yoursafestinvestment.com
 youthmediaaction.com
 ypsilenna.art
 yukisecurity24.com.vn
+yulyrical.com
 yummydelivery.et
 yupintang.org
 yushu.or.jp
+yutaroblog.org
 yuyuyu.yutaroblog.org
 yvonnemarcwedding.nl
 zmail.yogaplace.by
