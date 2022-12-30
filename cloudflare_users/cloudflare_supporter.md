@@ -10639,6 +10639,7 @@ Do not create new issue or we will close it as duplicate.
 | [Twyla54100915@twitter](https://twitter.com/Twyla54100915/status/1377527323654725636) | advertise |
 | [tybchris5823@twitter](https://twitter.com/tybchris5823/status/1566692358552334336) | advertise |
 | [TyGLpDCrMAHsKkR@twitter](https://twitter.com/TyGLpDCrMAHsKkR/status/1557362946652508160) | advertise |
+| [tygod1993@twitter](https://twitter.com/tygod1993/status/1608625576360955906) | advertise |
 | [Tygrin1@twitter](https://twitter.com/Tygrin1/status/1400084109523832847) | advertise |
 | [tylerkb7873@twitter](https://twitter.com/tylerkb7873/status/1484538703309459459) | advertise |
 | [TylerRoblox49@twitter](https://twitter.com/TylerRoblox49/status/1489700451000123392) | advertise |
