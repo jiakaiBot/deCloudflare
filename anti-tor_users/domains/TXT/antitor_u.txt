@@ -727,6 +727,7 @@ api.unnati.gov.in
 api.urbanoexpress.com.pe
 api.uwallet.jo
 app.dawson.ustaxcourt.gov
+app3.uupon.tw
 appleld.uss-lnc.com
 arena.upstay.tech
 assettv.updatemyprofile.com
@@ -741,6 +742,7 @@ bhncanadagiftma-web.uatfisprepaid.com
 blog.blog.demo.smoketest.updatemy.website
 blue.unilaan.dk
 cap.hippo.use-fuse.com
+captcha-v1.umbrellaio.dev
 captcha.uhplanet.com
 cards.ubot.com.tw
 centersport.usa9-channel.com
@@ -751,6 +753,7 @@ click.email.undergroundinvestors.com
 click.mail.usaexpose.com
 click.news.uhccommunityplan.com
 clients.urbantutorial.com
+cloud.unigis.com
 cmumdm.unige.ch
 coinbasevalue.unleashed.be
 commons.und.edu
@@ -825,6 +828,7 @@ productencatalogus.uat-vlaanderen.be
 professionalstandards.fns.usda.gov
 psychologie.uni-greifswald.de
 ptm.untirta.ac.id
+ptuonlinehom.unimedprudente.coop.br
 rd-bms-model-manager.dev.unblu-test.com
 reg.usps.com
 rfw.updatemyprofile.com
@@ -944,6 +948,7 @@ utvyakta.com
 uub.jp
 uvtron.net
 ux0.jp
+uxnitro.com
 uxsrv06.unixauto.hu
 uzbekistan.org
 videoadmin.union.hu
@@ -952,6 +957,7 @@ vls.uat-vlaanderen.be
 vpn.pu1.uktsg.ch
 webdisk.uberlab.eu
 webdisk.unitron.tech
+webdisk.updateredirects.top
 webdisk.ura-josi.site
 webdisk.utvnitrous.net
 webmail.umojatournamentarusha.com
@@ -1042,6 +1048,7 @@ www.unox.nl
 www.unpopularnyc.com
 www.unsolvedcasefiles.com
 www.unspokensymphony.com
+www.upc-online.org
 www.update24.co.za
 www.updatebillingamazoncustomerhopt.com
 www.updateentertainment.com
