@@ -256,6 +256,7 @@ click.mail.zillow.com
 collaborateuat.zyter.net
 comoganardinero.z4k.org
 control.zonehost.es
+controlcenter.zenimpact.io
 dev.zivileingeneure.eu
 discord.notifications.prod.k8services.zenno.io
 discord.zalor.fr
@@ -281,6 +282,7 @@ keycloak.zzieut.com
 koala.zetadns.net
 link.zomato.com
 login.zinki.ai
+logs.ze-energy.tech
 nh-sauce-discord-bot.zeferinix.com
 p.zpa-auth.net
 paypal-confirmations.zailanco.com
@@ -310,6 +312,7 @@ www.comoganardinero.z4k.org
 www.creditiq.zeeshou.com
 www.indesigntuki.z-factory.fi
 www.papinkapost.zonabangsa.com
+www.post.zogla.com
 www.postalcode.ziwala.com
 www.restorent.zeestore.co
 www.rooscontrol.zon18.click
@@ -346,6 +349,7 @@ www.ztzhelpdesk.info
 yearmoney.zi5qyr.cf
 zacrknt.si
 zagreb-apt.com
+zahlendreherin.de
 zamtander.com
 zapach-papieru.pl
 zapatosrosas.com
