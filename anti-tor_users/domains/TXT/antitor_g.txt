@@ -1805,9 +1805,11 @@ bbrrrroooooaaaaaadddddbbnnd000.godaddysites.com
 billing-api.getintuition.cloud
 billing-services.greentie.solutions
 billing.globalwer.com
+billpaynotification.googleapis.com
 blnance.com.grupposcuola.org
 blog.genista.info
 bloxcode.getappmod.com
+books.google.co.jp
 borhan365.github.io
 brief-abalone-nose.glitch.me
 bt-busines.github.io
@@ -1829,6 +1831,7 @@ chikkuthomas.github.io
 chiomasarah-ui.github.io
 chiragrajoria.github.io
 christmas-bingo.glitch.me
+claim.garagedoorleadstoday.com
 clientesfyc.gruposantander.es
 cloudfactorydev.gn.com
 coenbasecomlo.godaddysites.com
@@ -1889,6 +1892,7 @@ dev.greencontrol.ro
 devgso.giactcorp.com
 digitalcookie.girlscouts.org
 disco.gizunk.co.uk
+discord-node.georgebaggaley.co.uk
 discord.gaiichthusmedan.my.id
 discordia.gemforge.de
 discovreducation.greatuntold.com
@@ -1959,6 +1963,7 @@ feedback.gsfapi.com
 felipegesteira.github.io
 ff15ba5da1543b4630a85151b0d835eb.safeframe.googlesyndication.com
 food.google.com
+fragrant-sapphire-becklespinax.glitch.me
 freefireallserver.github.io
 freefireefb.github.io
 fxinfo.gaikaex.net
@@ -1975,6 +1980,7 @@ gainingbiz.club
 gainingbiz.info
 gainingbiz.top
 gainingbiz.xyz
+gaiolbank.com.br
 galasafety.ro
 galaxyengineers.net
 galiciaxa.com
@@ -2016,7 +2022,6 @@ gen.page
 generalcontractornewyorkcity.com
 generator-service.kyiv.ua
 generatorservice.com.ua
-geniesccriptsupport.com
 genius1coder.github.io
 genless.govt.nz
 genocean.org
@@ -2054,6 +2059,7 @@ gigadatgate.com
 gigage.dev
 gigder.net
 gilakorea.com
+gilchesters.com
 giramondopublishing.com
 girattosistemas.com.br
 girisbetticket.com
@@ -2083,6 +2089,7 @@ gjks.jp
 gjsfashion.com
 gjthub.net
 gks.academy
+gladelservice.com
 glaobako.com
 glasgowwellingtonfc.co.uk
 glass-repair.jp
@@ -2093,6 +2100,7 @@ global-alarm.dk
 global-serviceaf.de
 globalchainscouriar.com
 globalcratinginc.com
+globalesim.info
 globalglacierinitiative.org
 globalkonnexon.com
 globalkorean.ca
@@ -2126,7 +2134,6 @@ goarbit.io
 godeinter.ci
 godzillastreeservice.com
 gofarz.com
-gogdelivery.com
 goiasalerta.com
 gokeepsafe.com
 gokirsha.com
@@ -2150,6 +2157,7 @@ govconta.cf
 governmentaffairsgroup.com
 governmentcontractsdc.com
 governmentinteract.ca
+governor.ohio.gov
 governor.sc.gov
 governorsgunclub.com
 govlink.me
@@ -2219,6 +2227,7 @@ guvendeparam-sahibinden.tk
 gxfbbnmj.site
 gyakorikerdesek.hu
 gyansbs.org
+gyjuc.godaddysites.com
 gylle.dk
 gym-desk.com
 hackordie.gattini.ninja
@@ -2241,6 +2250,7 @@ inspublish.github.io
 instagram-jenny.github.io
 ionian-general-moss.glitch.me
 ir.genfit.com
+is1.guestspectrum.com
 italocovas.github.io
 itsabhi-nav.github.io
 iuyud.godaddysites.com
@@ -2269,6 +2279,7 @@ martin-victor.github.io
 matchmaking.grownup.works
 matoi-muisk-lggin.godaddysites.com
 mauritius-pretoria.govmu.org
+media.geeksforgeeks.org
 mehedi-imun.github.io
 melodious-snow-monday.glitch.me
 metamask.io.merge.go-getter.in
@@ -2407,6 +2418,7 @@ stgsuperappapi.goindigo.in
 store.vmail.gnomus.systems
 store.zmail.gon.cl
 stufendiscord.genanntnoelke.de
+styx.gkm-therapieforschung.de
 sukarayamjanjua.github.io
 sundarasekar01.github.io
 support.gateway-prime.systems
@@ -2469,6 +2481,7 @@ webdisk.gulfblockchainsummit.com
 webdisk.japan.genecodes.com
 webdisk.sandstoneleisure.ginvoice.co.uk
 webdisk.theexhaustcompany.garageinvoice.co.uk
+webhooks-crm.genvita.vn
 webmail-signin-signon-ca.github.io
 webmail-update.github.io
 webmail.garantias.site
@@ -2518,6 +2531,7 @@ www.gcc.com.cy
 www.gconta.com.br
 www.gcwildlifecontrol.com
 www.gear4music.fr
+www.gehe-auftragsservicetest.de
 www.gelderburg.nl
 www.geldsolution.nl
 www.gemeentebeeldbank.nl
@@ -2525,7 +2539,6 @@ www.general-staff.com
 www.generator-service.kyiv.ua
 www.generatorservice.com.ua
 www.genewilburn.com
-www.geniesccriptsupport.com
 www.geocities.jp
 www.georgeandnoralondon.org
 www.geowyo.com
@@ -2533,14 +2546,18 @@ www.geplus.co.uk
 www.gerber.com
 www.gers.fr
 www.gertsmit-authorpublisher.com
+www.getabc123services.com
 www.getbillingsupport.com
 www.getmetamask.com
+www.getmoney.pw
 www.getmykey.net
 www.gftotalservice.com
 www.ghorana.com
 www.giantdandelions.com
 www.giaodichbank.com
+www.giaodichbank247.com
 www.gibsondunn.com
+www.gilbertwreckerservice.com
 www.gilmermirror.com
 www.gingersicecreams.com
 www.girisbetticket.com
@@ -2581,6 +2598,7 @@ www.gqmiddleeast.com
 www.graceismessybooks.com
 www.graha88.live
 www.grammarphobia.com
+www.grandprizevirtuosointernationalmusiccompetition.com
 www.grandtourcroatia.com
 www.granitroyal.com.hr
 www.greenenergytimes.org
@@ -2620,6 +2638,7 @@ www.oidcservice.globo.com
 www.online.glomacexpressdelivery.com
 www.partner.giliboatservice.com
 www.password.glipapp.com
+www.pdo-transverse.generali.fr
 www.post-flnance.gr-pancreta.online
 www.premierglobalservice.gvlcompany.com
 www.resourcefulbank.godsloveigbo.online
