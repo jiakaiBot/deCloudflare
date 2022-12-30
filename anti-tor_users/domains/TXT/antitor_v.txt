@@ -1219,6 +1219,7 @@ acc-auth.vanlanschot.com
 access.vw.com
 account-s-bina-nce-support.ticket039482.v6.navy
 account.vincentwillemsen.nl
+adiscord.vercel.app
 aguslop0921-gmailcom.vercel.app
 aidanf95-gmailcom.vercel.app
 akashgoindi-gmailcom.vercel.app
@@ -1245,6 +1246,7 @@ app.viskase.com
 apple-icloud.vercel.app
 apps.vrsg.ch
 authensecsfr.vantechddns.com
+authority.verybadmail.net
 authorization-server.ace-53346d0c.core.build.vwn.cloud
 autodiscover.vauttech.in
 autodiscover.venafitjuice.com
@@ -1258,6 +1260,7 @@ blog.blog.blog.vmail.valetparking.pl
 blog.blog.dev.vmail.valetparking.pl
 blog.dev.vmail.valetparking.pl
 blog.store.vmail.valetparking.pl
+bluebeardiscord.vercel.app
 bnx9wkgipnc89nm.cbc.vteam.tech
 cactusdiscord.vercel.app
 cajatrujillo.voixhub.com
@@ -1346,6 +1349,8 @@ h0i6d2e1-gmailcom.vercel.app
 ha.vermeerschconsulting.be
 hb-a.services.vnc.com
 hcwin.vodafone.es
+hero-galaxy.vercel.app
+hidroservicio.vidavirtual.cl
 honda-us.telematics.verisk.io
 hunt3751.vercel.app
 hunterrwaters.vercel.app
@@ -1370,6 +1375,7 @@ lexfoxer.vercel.app
 littechnology.vercel.app
 livenesspasif.com.verifywajah.com
 login.vianova.coop
+login.vicmr.com
 login2.volkskrant.nl
 mail.vacadascordas.com
 mail.vaccine-proof.xyz
@@ -1423,6 +1429,7 @@ portal.comid.ace-1d0df0aa.core.build.vwn.cloud
 portal.comid.ace-b45b119f.core.build.vwn.cloud
 portal.comid.ace-c2d48006.core.build.vwn.cloud
 post.viazorg.nl
+postcode.vnpost.vn
 pra.velco.com
 prahalathank-gmailcom.vercel.app
 prasanthprabha81-gmailcom.vercel.app
@@ -1530,6 +1537,7 @@ venservice.ro
 ventservice.no
 ver88official.com.vn
 verbojuridico.pt
+verginixodemelisi.net
 verificari-contabile.ro
 verificastrutturalegru.it
 verification-addresss.top
@@ -1610,6 +1618,7 @@ virabank.viraza.net
 virginia-modularhomes.com
 virl.bc.ca
 virtualcall.com.br
+visacent.com
 vishalpai.com
 vishwakarmarollingshutter.in
 visitlokka.no
@@ -1697,6 +1706,7 @@ www.conuslenzagevolazionifiscali.verificastrutturalegru.it
 www.dknordpost.org.verfolgung-dpost.com
 www.firestore.venta-group.ru
 www.git.git.gitlab.gitlab.gitlab.wp.vanillagiftc.xyz
+www.hidroservicio.vidavirtual.cl
 www.infosrena.com.ng.vistapay.online
 www.money-funnel.vegas-valley.com
 www.mytest.verifygiftcard.online
@@ -1749,6 +1759,7 @@ www.verify-account-meta.com
 www.verifymygooglebusiness.com
 www.verifypofpremiumaccount.com
 www.veronapress.com
+www.vesavihriala.fi
 www.vesi.fi
 www.vetenskaphalsa.se
 www.vhec.org
@@ -1758,10 +1769,12 @@ www.victoriaadvocate.com
 www.videostory.com
 www.vidhionline.com
 www.vietnamworks.com
+www.vikeasyko.gq
 www.vikka.ua
 www.vilaservice.com.br
 www.vill.ogata.akita.jp
 www.viparis.com
+www.virtualonlineacademy.net
 www.virungaparkcongo.com
 www.visegradsky-jezdec.cz
 www.visionhumana.mx
