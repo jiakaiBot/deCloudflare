@@ -2032,8 +2032,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -6114,6 +6114,7 @@ Do not create new issue or we will close it as duplicate.
 | [maslankd@twitter](https://twitter.com/maslankd/status/1580194516186722304) | advertise |
 | [mason78555541@twitter](https://twitter.com/mason78555541/status/1552343962970918912) | advertise |
 | [masonman443@twitter](https://twitter.com/masonman443/status/1572914826946682884) | advertise |
+| [Masonsteven111@twitter](https://twitter.com/Masonsteven111/status/1608870893496971264) | advertise |
 | [masoudT48958265@twitter](https://twitter.com/masoudT48958265/status/1588573955413397505) | advertise |
 | [masOUmy49@twitter](https://twitter.com/masOUmy49/status/1378421995021471752) | advertise |
 | [Master14352302@twitter](https://twitter.com/Master14352302/status/1392063606175510528) | advertise |
