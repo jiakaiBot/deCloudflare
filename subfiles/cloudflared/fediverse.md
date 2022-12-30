@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,163 |
-| social | 3,179 |
+| social | 3,180 |
 | net | 2,654 |
 | org | 1,908 |
 | de | 1,787 |
@@ -1698,6 +1698,7 @@ Here's a list of public Fediverse services.
 | `antho.dev` | No |
 | `anthro.asia` | Yes |
 | `anthro.cc` | No |
+| `anthro.fun` | No |
 | `anthro.in.th` | Yes |
 | `anthro.social` | No |
 | `anthropogenesis.xyz` | No |
@@ -30948,6 +30949,7 @@ Here's a list of public Fediverse services.
 | `tinygo.org` | Yes |
 | `tinygrumpydistro.xyz` | No |
 | `tinykitten.me` | Yes |
+| `tinylad.social` | No |
 | `tinylan.com` | No |
 | `tinymst.xyz` | No |
 | `tinypod.org` | No |
@@ -35128,7 +35130,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,122 |
-| Normal | 26,962 |
+| Normal | 26,964 |
 
 
-### 23.2% of public Fediverse services are using Cloudflare.
+### 23.1% of public Fediverse services are using Cloudflare.
