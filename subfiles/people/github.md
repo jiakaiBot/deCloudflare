@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [yggtorrent (updating) The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/642)
 - [migrate legacy tunnel to named tunnels](https://github.com/aschzero/hera/issues/18)
 - [last updates didn't fix the issues](https://github.com/humhub-contrib/external_calendar/issues/41)
 - [Cloudflare page will always get 405 error for non-GET method](https://github.com/unjs/nitro/issues/787)
