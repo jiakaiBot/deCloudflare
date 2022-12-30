@@ -2032,8 +2032,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -10901,6 +10901,7 @@ Do not create new issue or we will close it as duplicate.
 | [VNSPnet@twitter](https://twitter.com/VNSPnet/status/1388806930890592258) | advertise |
 | [VnTnh53728960@twitter](https://twitter.com/VnTnh53728960/status/1378052859594383363) | advertise |
 | [VN_Ricefield@twitter](https://twitter.com/VN_Ricefield/status/1387816206636240897) | advertise |
+| [voanhkhoi2003@twitter](https://twitter.com/voanhkhoi2003/status/1608843184284766208) | advertise |
 | [vodinhngocpro@twitter](https://twitter.com/vodinhngocpro/status/1551985802501992449) | advertise |
 | [Voduytin2@twitter](https://twitter.com/Voduytin2/status/1401510533958832136) | advertise |
 | [vokeylee@twitter](https://twitter.com/vokeylee/status/1468226302935142404) | advertise |
