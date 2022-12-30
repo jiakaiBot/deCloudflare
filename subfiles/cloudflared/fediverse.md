@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,166 |
-| social | 3,181 |
+| social | 3,182 |
 | net | 2,659 |
 | org | 1,909 |
 | de | 1,789 |
@@ -1833,6 +1833,7 @@ Here's a list of public Fediverse services.
 | `appdot.net` | No |
 | `appellate.ninja` | No |
 | `appellate.social` | No |
+| `appetizer.club` | No |
 | `apple-user.club` | No |
 | `apple2.org.za` | No |
 | `appleontech.com` | No |
@@ -5266,6 +5267,7 @@ Here's a list of public Fediverse services.
 | `climatejustice.rocks` | No |
 | `climatejustice.social` | No |
 | `climatejustice.video` | Yes |
+| `clinchfire.social` | No |
 | `clinicians-exchange.org` | No |
 | `clintmoyer.com` | No |
 | `clipperz.is` | No |
@@ -16128,6 +16130,7 @@ Here's a list of public Fediverse services.
 | `kuon.xyz` | Yes |
 | `kuoushi.com` | No |
 | `kuperman.me` | No |
+| `kupo.space` | No |
 | `kurabloodlust.eu` | No |
 | `kurage.cc` | No |
 | `kurakake.net` | No |
@@ -26734,6 +26737,7 @@ Here's a list of public Fediverse services.
 | `sammydee.net` | No |
 | `samnoble.org` | No |
 | `samojlenko.com` | No |
+| `samosada.ga` | No |
 | `sample.pw` | No |
 | `samr1.net` | No |
 | `samsai.eu` | No |
@@ -35152,7 +35156,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,131 |
-| Normal | 26,977 |
+| Normal | 26,981 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
