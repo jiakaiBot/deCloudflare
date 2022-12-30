@@ -3468,6 +3468,7 @@ Here's a list of public Fediverse services.
 | `blackjacknuttenundkoks.de` | No |
 | `blackmesa.space` | Yes |
 | `blacknapkins.co.uk` | No |
+| `blackoutstout.space` | No |
 | `blackpacket.net` | Yes |
 | `blackpaws.me` | Yes |
 | `blackpoolgay.xyz` | No |
@@ -35127,7 +35128,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,122 |
-| Normal | 26,961 |
+| Normal | 26,962 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
