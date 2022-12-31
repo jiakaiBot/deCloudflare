@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Filelist Error calling provider filelist: The cookies provided by FlareSolverr are not valid](https://github.com/Jackett/Jackett/issues/13828)
 - [using nexus with cloudflare workers](https://github.com/graphql-nexus/nexus/issues/1147)
 - [yggtorrent (updating) The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/642)
 - [migrate legacy tunnel to named tunnels](https://github.com/aschzero/hera/issues/18)
