@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,172 |
 | social | 3,188 |
 | net | 2,661 |
-| org | 1,913 |
+| org | 1,914 |
 | de | 1,794 |
 
 
@@ -33795,6 +33795,7 @@ Here's a list of public Fediverse services.
 | `witches.town` | No |
 | `witchey.club` | No |
 | `witchey.tech` | No |
+| `witchfinder.org` | No |
 | `witchgirls.moe` | No |
 | `witchhat.house` | No |
 | `witchy.ink` | Yes |
@@ -35202,7 +35203,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,140 |
-| Normal | 27,018 |
+| Normal | 27,019 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
