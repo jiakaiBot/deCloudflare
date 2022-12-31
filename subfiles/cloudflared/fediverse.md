@@ -25872,6 +25872,7 @@ Here's a list of public Fediverse services.
 | `repro.video` | No |
 | `reptilehouse.info` | Yes |
 | `reptileowners.tk` | No |
+| `republic.red` | Yes |
 | `republicofmayhem.xyz` | Yes |
 | `republicofthieves.org` | No |
 | `republik.ch` | Yes |
@@ -35202,7 +35203,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,140 |
+| Cloudflare | 8,141 |
 | Normal | 27,019 |
 
 
