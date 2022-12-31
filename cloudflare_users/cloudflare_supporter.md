@@ -1421,6 +1421,7 @@ Do not create new issue or we will close it as duplicate.
 | [bilell_mz@twitter](https://twitter.com/bilell_mz/status/1539562989120020485) | advertise |
 | [BIlli42767896@twitter](https://twitter.com/BIlli42767896/status/1394538237880782853) | advertise |
 | [Billionairehei1@twitter](https://twitter.com/Billionairehei1/status/1390817006937542658) | advertise |
+| [billionthOW@twitter](https://twitter.com/billionthOW/status/1608987483454476288) | advertise |
 | [Billy97547132@twitter](https://twitter.com/Billy97547132/status/1399284703367098369) | advertise |
 | [Billy456270155@twitter](https://twitter.com/Billy456270155/status/1580341056335249408) | advertise |
 | [BillyJavier@twitter](https://twitter.com/BillyJavier/status/1476939824179421188) | advertise |
