@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,170 |
+| com | 5,172 |
 | social | 3,187 |
 | net | 2,661 |
 | org | 1,912 |
@@ -5538,6 +5538,7 @@ Here's a list of public Fediverse services.
 | `colinmartin.uk` | No |
 | `colino.net` | No |
 | `colinramsay.co.uk` | Yes |
+| `colinschlueter.com` | No |
 | `colivre.net` | No |
 | `collabora.digital` | No |
 | `collantes.social` | No |
@@ -7927,6 +7928,7 @@ Here's a list of public Fediverse services.
 | `dresden.network` | No |
 | `dresserfamily.social` | No |
 | `drew.life` | No |
+| `drew.monster` | No |
 | `drewgat.es` | No |
 | `drewstokes.com` | Yes |
 | `drfluellen.com` | No |
@@ -12119,6 +12121,7 @@ Here's a list of public Fediverse services.
 | `gwei.cz` | Yes |
 | `gwitter.li` | No |
 | `gwomp.com` | No |
+| `gww.app` | No |
 | `gwynnestudio.com` | Yes |
 | `gxc.io` | Yes |
 | `gxnetwork.net` | Yes |
@@ -14173,7 +14176,7 @@ Here's a list of public Fediverse services.
 | `ispv-7.com` | No |
 | `israelmgo.es` | No |
 | `israely.xyz` | Yes |
-| `issizler.club` | Yes |
+| `issizler.club` | No |
 | `issue.network` | No |
 | `ist-ur.org` | No |
 | `ist.social` | No |
@@ -27737,6 +27740,7 @@ Here's a list of public Fediverse services.
 | `shpposter.club` | No |
 | `shr.today` | No |
 | `shrdr.de` | No |
+| `shredderfood.com` | No |
 | `shrekislove.us` | Yes |
 | `shrieker.net` | No |
 | `shrik3.com` | No |
@@ -35192,8 +35196,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,141 |
-| Normal | 27,008 |
+| Cloudflare | 8,140 |
+| Normal | 27,013 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
