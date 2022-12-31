@@ -25941,6 +25941,7 @@ Here's a list of public Fediverse services.
 | `retirenow.top` | Yes |
 | `retoldclassics.org` | No |
 | `retompi.com` | Yes |
+| `retortillo.ink` | No |
 | `retr0.id` | No |
 | `retr0.party` | No |
 | `retro-ink.com` | No |
@@ -35225,7 +35226,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,145 |
-| Normal | 27,036 |
+| Normal | 27,037 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
