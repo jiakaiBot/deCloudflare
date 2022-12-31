@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,173 |
+| com | 5,174 |
 | social | 3,188 |
 | net | 2,661 |
 | org | 1,914 |
@@ -18758,6 +18758,7 @@ Here's a list of public Fediverse services.
 | `mastoworld.com` | No |
 | `mastoxiv.page` | No |
 | `mastportal.info` | No |
+| `mastpub.com` | No |
 | `mastrodon.space` | No |
 | `mastudon.com` | No |
 | `masturbadon.com` | No |
@@ -35207,7 +35208,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,142 |
-| Normal | 27,021 |
+| Normal | 27,022 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
