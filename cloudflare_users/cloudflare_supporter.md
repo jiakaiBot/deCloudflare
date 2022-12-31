@@ -3218,6 +3218,7 @@ Do not create new issue or we will close it as duplicate.
 | [GogehZailani@twitter](https://twitter.com/GogehZailani/status/1557726171130802179) | advertise |
 | [GogKhant@twitter](https://twitter.com/GogKhant/status/1393684373484961794) | advertise |
 | [GolamkibriaRony@twitter](https://twitter.com/GolamkibriaRony/status/1404201070306361345) | advertise |
+| [golangcoach@twitter](https://twitter.com/golangcoach/status/1598157904825417729) | advertise |
 | [GoldenK45835342@twitter](https://twitter.com/GoldenK45835342/status/1574048018084425728) | advertise |
 | [GoldenT73523612@twitter](https://twitter.com/GoldenT73523612/status/1387635147965485061) | advertise |
 | [golf22110@twitter](https://twitter.com/golf22110/status/1606992184791937024) | advertise |
