@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [using nexus with cloudflare workers](https://github.com/graphql-nexus/nexus/issues/1147)
 - [yggtorrent (updating) The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/642)
 - [migrate legacy tunnel to named tunnels](https://github.com/aschzero/hera/issues/18)
 - [last updates didn't fix the issues](https://github.com/humhub-contrib/external_calendar/issues/41)
