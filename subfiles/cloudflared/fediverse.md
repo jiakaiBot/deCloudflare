@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,172 |
-| social | 3,187 |
+| social | 3,188 |
 | net | 2,661 |
-| org | 1,912 |
+| org | 1,913 |
 | de | 1,794 |
 
 
@@ -12960,6 +12960,7 @@ Here's a list of public Fediverse services.
 | `hock.one` | Yes |
 | `hodakov.me` | Yes |
 | `hodapp.club` | No |
+| `hodgepig.org` | No |
 | `hodgson.io` | No |
 | `hodl.city` | No |
 | `hodl.social` | No |
@@ -13346,6 +13347,7 @@ Here's a list of public Fediverse services.
 | `hydrosaas.com` | Yes |
 | `hydroscope.info` | No |
 | `hydroxyquinol.net` | No |
+| `hye.social` | No |
 | `hye.st` | No |
 | `hyem.tech` | No |
 | `hyena.network` | No |
@@ -25768,6 +25770,7 @@ Here's a list of public Fediverse services.
 | `refractive.group` | No |
 | `refuge.casa` | No |
 | `refusal.biz` | Yes |
+| `refusal.llc` | No |
 | `refuse2.work` | No |
 | `refuznik.video` | No |
 | `regastream.com` | No |
@@ -26243,6 +26246,7 @@ Here's a list of public Fediverse services.
 | `rocu.de` | Yes |
 | `rodab.party` | No |
 | `rodacy.tv` | No |
+| `rodent.city` | No |
 | `rodent.cloud` | No |
 | `rodent.io` | No |
 | `rodents.party` | No |
@@ -35198,7 +35202,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,140 |
-| Normal | 27,014 |
+| Normal | 27,018 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
