@@ -21423,6 +21423,7 @@ Here's a list of public Fediverse services.
 | `neuroscience.day` | Yes |
 | `neurosciencenews.com` | Yes |
 | `neurospicy.club` | No |
+| `neustrelitz.nz` | No |
 | `neuwirth.priv.at` | No |
 | `neuzerling.com` | No |
 | `never.bid` | Yes |
@@ -35197,7 +35198,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,140 |
-| Normal | 27,013 |
+| Normal | 27,014 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
