@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,178 |
-| social | 3,189 |
-| net | 2,662 |
-| org | 1,914 |
+| com | 5,179 |
+| social | 3,190 |
+| net | 2,664 |
+| org | 1,915 |
 | de | 1,796 |
 
 
@@ -1178,6 +1178,7 @@ Here's a list of public Fediverse services.
 | `alexbelgraver.nl` | No |
 | `alexdobin.com` | Yes |
 | `alexhatala.com` | No |
+| `alexjamesconrad.com` | No |
 | `alexjanka.com` | No |
 | `alexjyong.dev` | No |
 | `alexkeating.me` | No |
@@ -1957,6 +1958,7 @@ Here's a list of public Fediverse services.
 | `aria.dog` | No |
 | `ariacorbett.com` | Yes |
 | `ariadne.space` | No |
+| `arianelazaga.tk` | No |
 | `aridgwayweb.com` | No |
 | `ariela.jp` | Yes |
 | `arielfinn.social` | No |
@@ -6733,6 +6735,7 @@ Here's a list of public Fediverse services.
 | `dasgelobteland.art` | Yes |
 | `dash.dev.br` | No |
 | `dashall.net` | No |
+| `dashi.social` | Yes |
 | `dashslot.org` | No |
 | `dashten.dev` | No |
 | `dashtube.org` | No |
@@ -8051,6 +8054,7 @@ Here's a list of public Fediverse services.
 | `dueckert.eu` | No |
 | `duergner.io` | No |
 | `duesseldorf.social` | No |
+| `duh.org` | Yes |
 | `duk.space` | No |
 | `dulc.es` | No |
 | `dulfer.social` | No |
@@ -10340,6 +10344,7 @@ Here's a list of public Fediverse services.
 | `freaklab.es` | No |
 | `freaks.social` | Yes |
 | `freaksonly.space` | No |
+| `freaksquirrel.net` | No |
 | `fred.social` | No |
 | `fredcavazza.net` | No |
 | `freddi.app` | Yes |
@@ -13485,6 +13490,7 @@ Here's a list of public Fediverse services.
 | `ichiji.social` | No |
 | `ichinyo.site` | No |
 | `ichiroa.com` | Yes |
+| `ichliebe.games` | No |
 | `ichmagdiesen.link` | Yes |
 | `ichraum.social` | Yes |
 | `ici.voyage` | No |
@@ -15708,6 +15714,7 @@ Here's a list of public Fediverse services.
 | `kitamura.name` | No |
 | `kitamurakz.com` | No |
 | `kitch.win` | No |
+| `kitchenparty.online` | No |
 | `kitetu.com` | No |
 | `kith.kitchen` | No |
 | `kithop.ca` | No |
@@ -16308,6 +16315,7 @@ Here's a list of public Fediverse services.
 | `lacan.net` | No |
 | `lacasa.ovh` | Yes |
 | `lacaveatonton.ovh` | No |
+| `lacheiner.at` | No |
 | `lachessfortress.com` | No |
 | `lachman.tk` | No |
 | `lacia.life` | Yes |
@@ -33033,6 +33041,7 @@ Here's a list of public Fediverse services.
 | `vocivia.tk` | No |
 | `vodka.gg` | No |
 | `voe.social` | No |
+| `voege.net` | No |
 | `vofr.net` | No |
 | `vogtland.social` | Yes |
 | `voi.social` | No |
@@ -33701,6 +33710,7 @@ Here's a list of public Fediverse services.
 | `wikitetas.club` | No |
 | `wikitetas.live` | No |
 | `wilboard.nl` | No |
+| `wilbvr.me` | Yes |
 | `wilcosky.com` | Yes |
 | `wilcox.pub` | No |
 | `wildada.com` | No |
@@ -35225,8 +35235,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,145 |
-| Normal | 27,037 |
+| Cloudflare | 8,148 |
+| Normal | 27,044 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
