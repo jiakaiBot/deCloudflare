@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,172 |
+| com | 5,173 |
 | social | 3,188 |
 | net | 2,661 |
 | org | 1,914 |
@@ -2878,6 +2878,7 @@ Here's a list of public Fediverse services.
 | `bbcmic.ro` | No |
 | `bbfactory.it` | No |
 | `bbiz.io` | No |
+| `bbngh.com` | Yes |
 | `bbq.golf` | No |
 | `bbqmasters.life` | No |
 | `bbrks.me` | Yes |
@@ -34401,6 +34402,7 @@ Here's a list of public Fediverse services.
 | `xpub.one` | Yes |
 | `xqz.ca` | No |
 | `xreality.social` | No |
+| `xrh0905.top` | No |
 | `xroad.se` | No |
 | `xrono.org` | No |
 | `xrvs.net` | No |
@@ -35203,8 +35205,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,141 |
-| Normal | 27,019 |
+| Cloudflare | 8,142 |
+| Normal | 27,020 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
