@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,179 |
+| com | 5,180 |
 | social | 3,190 |
 | net | 2,664 |
 | org | 1,915 |
@@ -13957,6 +13957,7 @@ Here's a list of public Fediverse services.
 | `inter21.net` | No |
 | `intercal.top` | No |
 | `interconnected.systems` | No |
+| `interestingtimes.club` | No |
 | `interfel.de` | No |
 | `interferencias.tech` | No |
 | `interfesse.net` | No |
@@ -20114,6 +20115,7 @@ Here's a list of public Fediverse services.
 | `moosecow.net` | Yes |
 | `moosetadon.social` | No |
 | `moosetodon.com` | No |
+| `mooseybytes.com` | No |
 | `mooshoe.me` | Yes |
 | `moot.pub` | Yes |
 | `mootech.eu` | No |
@@ -35236,7 +35238,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,148 |
-| Normal | 27,044 |
+| Normal | 27,046 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
