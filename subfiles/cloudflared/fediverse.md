@@ -13382,6 +13382,7 @@ Here's a list of public Fediverse services.
 | `hypnovir.us` | Yes |
 | `hypr.ninja` | No |
 | `hypurrr.net` | Yes |
+| `hyrulecastle.town` | No |
 | `hyss.us` | No |
 | `hyteck.de` | No |
 | `hyuki.net` | Yes |
@@ -35206,7 +35207,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,142 |
-| Normal | 27,020 |
+| Normal | 27,021 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
