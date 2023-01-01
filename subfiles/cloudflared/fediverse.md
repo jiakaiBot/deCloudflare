@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,187 |
-| social | 3,198 |
+| social | 3,199 |
 | net | 2,667 |
 | org | 1,916 |
 | de | 1,798 |
@@ -3797,6 +3797,7 @@ Here's a list of public Fediverse services.
 | `bookbeezhive.com` | No |
 | `bookdon.jp` | No |
 | `booker.social` | No |
+| `bookface.social` | No |
 | `bookish.community` | No |
 | `bookishbook.club` | No |
 | `bookmark.org` | No |
@@ -15627,7 +15628,7 @@ Here's a list of public Fediverse services.
 | `kill.yt` | No |
 | `killbox.social` | Yes |
 | `killcops.lol` | No |
-| `killed.xyz` | No |
+| `killed.xyz` | Yes |
 | `killerkitty.ch` | No |
 | `killerwhale.solutions` | No |
 | `killiwamps.com` | No |
@@ -35273,7 +35274,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,158 |
+| Cloudflare | 8,159 |
 | Normal | 27,072 |
 
 
