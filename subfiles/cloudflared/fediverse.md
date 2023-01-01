@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,190 |
+| com | 5,191 |
 | social | 3,201 |
 | net | 2,669 |
-| org | 1,917 |
-| de | 1,798 |
+| org | 1,918 |
+| de | 1,799 |
 
 
 - Mastodon, Pleroma, etc
@@ -2118,6 +2118,7 @@ Here's a list of public Fediverse services.
 | `asama.net` | No |
 | `asami.red` | No |
 | `asbb.beskidy.pl` | Yes |
+| `asbestos.cafe` | No |
 | `ascendtoday.link` | No |
 | `ascenet.ch` | No |
 | `aschwege.me` | Yes |
@@ -3648,7 +3649,7 @@ Here's a list of public Fediverse services.
 | `blueflat.org` | Yes |
 | `blueforest.cc` | Yes |
 | `bluefox.social` | No |
-| `bluejay.social` | No |
+| `bluejay.social` | Yes |
 | `blueleaks.net` | No |
 | `blueline.mg` | No |
 | `bluelupine.social` | No |
@@ -7122,6 +7123,7 @@ Here's a list of public Fediverse services.
 | `den.yt` | Yes |
 | `denibol.com` | No |
 | `denimu.ga` | No |
+| `denizencity.com` | No |
 | `denizens.social` | No |
 | `denkbrettl.org` | No |
 | `denkfabrikblog.de` | No |
@@ -11970,6 +11972,7 @@ Here's a list of public Fediverse services.
 | `greyduck.social` | No |
 | `greylog.ru` | No |
 | `greyopossum.net` | No |
+| `greys.place` | No |
 | `greyserv.net` | No |
 | `greyt.co.za` | Yes |
 | `grezl.eu` | No |
@@ -13317,6 +13320,7 @@ Here's a list of public Fediverse services.
 | `humanumest.social` | No |
 | `humbernews.ca` | No |
 | `humbernews.online` | No |
+| `humberto.io` | No |
 | `humble.cafe` | Yes |
 | `humblr.social` | No |
 | `hummertje.nl` | No |
@@ -24111,6 +24115,7 @@ Here's a list of public Fediverse services.
 | `pixelfd.com` | No |
 | `pixelfed.at` | No |
 | `pixelfed.au` | No |
+| `pixelfed.beer` | Yes |
 | `pixelfed.cafe` | No |
 | `pixelfed.co.za` | No |
 | `pixelfed.com.br` | Yes |
@@ -25044,6 +25049,7 @@ Here's a list of public Fediverse services.
 | `puyo.jp` | No |
 | `puz.fun` | No |
 | `puzzled.cc` | No |
+| `puzzling.org` | No |
 | `pvl.pw` | No |
 | `pwarren.id.au` | No |
 | `pwbsoft.gay` | Yes |
@@ -31076,6 +31082,7 @@ Here's a list of public Fediverse services.
 | `timmorgner.de` | No |
 | `timmot.com` | No |
 | `timnolte.com` | No |
+| `timodo.de` | Yes |
 | `timoheider.de` | No |
 | `timotheejulien.fr` | No |
 | `timothychambers.net` | No |
@@ -35296,8 +35303,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,168 |
-| Normal | 27,085 |
+| Cloudflare | 8,171 |
+| Normal | 27,089 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
