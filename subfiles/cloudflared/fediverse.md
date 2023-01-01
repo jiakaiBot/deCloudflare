@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,187 |
 | social | 3,199 |
-| net | 2,667 |
+| net | 2,668 |
 | org | 1,916 |
 | de | 1,798 |
 
@@ -13729,6 +13729,7 @@ Here's a list of public Fediverse services.
 | `in-deep.blue` | No |
 | `in-purple.de` | Yes |
 | `in-stuggi.de` | No |
+| `in-ter.net` | Yes |
 | `in-visible.eu` | No |
 | `in0rdr.ch` | No |
 | `inaccessible.ac` | No |
@@ -19585,6 +19586,7 @@ Here's a list of public Fediverse services.
 | `miltackink.space` | No |
 | `miltonkeynes.social` | No |
 | `milway.ca` | No |
+| `milyd.pl` | Yes |
 | `mim-libre.fr` | No |
 | `mimigo.xyz` | No |
 | `mimikun.dev` | No |
@@ -35274,7 +35276,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,159 |
+| Cloudflare | 8,161 |
 | Normal | 27,072 |
 
 
