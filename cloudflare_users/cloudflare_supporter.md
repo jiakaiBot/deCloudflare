@@ -2959,6 +2959,7 @@ Do not create new issue or we will close it as duplicate.
 | [findmeadevice@twitter](https://twitter.com/findmeadevice/status/1465437487497682955) | advertise |
 | [finmods_com@twitter](https://twitter.com/finmods_com/status/1494976559966572549) | advertise |
 | [finn476@twitter](https://twitter.com/finn476/status/1379428259914424329) | advertise |
+| [finyre@twitter](https://twitter.com/finyre/status/1609557514617786368) | advertise |
 | [fiqzzzi@twitter](https://twitter.com/fiqzzzi/status/1594694105845878784) | advertise |
 | [FirasFandi@twitter](https://twitter.com/FirasFandi/status/1552683420404355074) | advertise |
 | [fire11po@twitter](https://twitter.com/fire11po/status/1552902952083689472) | advertise |
@@ -3612,6 +3613,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hing49094553@twitter](https://twitter.com/Hing49094553/status/1403161998183985162) | advertise |
 | [Hing59514415@twitter](https://twitter.com/Hing59514415/status/1388181905875423234) | advertise |
 | [Hing64416706@twitter](https://twitter.com/Hing64416706/status/1387995214791335939) | advertise |
+| [HiNguyn10030784@twitter](https://twitter.com/HiNguyn10030784/status/1609563063904079873) | advertise |
 | [HiNguyn74792313@twitter](https://twitter.com/HiNguyn74792313/status/1400332809403723779) | advertise |
 | [HinHin47689528@twitter](https://twitter.com/HinHin47689528/status/1527436519467732992) | advertise |
 | [HipBui@twitter](https://twitter.com/HipBui/status/1552005063585198081) | advertise |
@@ -5972,6 +5974,7 @@ Do not create new issue or we will close it as duplicate.
 | [Magmavalt@twitter](https://twitter.com/Magmavalt/status/1526286649839206400) | advertise |
 | [magnificus_g@twitter](https://twitter.com/magnificus_g/status/1534864691318640641) | advertise |
 | [magxnews@twitter](https://twitter.com/magxnews/status/1598277776704167939) | advertise |
+| [Magz3ro@twitter](https://twitter.com/Magz3ro/status/1609565055569526785) | advertise |
 | [MAHATOBABu711@twitter](https://twitter.com/MAHATOBABu711/status/1407249433952079875) | advertise |
 | [Mahatvavirya@twitter](https://twitter.com/Mahatvavirya/status/1548499205588602882) | advertise |
 | [mahdi0414R@twitter](https://twitter.com/mahdi0414R/status/1575619195760361473) | advertise |
@@ -7004,6 +7007,7 @@ Do not create new issue or we will close it as duplicate.
 | [naing_soe02093@twitter](https://twitter.com/naing_soe02093/status/1395377742481403905) | advertise |
 | [Najahh_62@twitter](https://twitter.com/Najahh_62/status/1385735535319212034) | advertise |
 | [nalathon8@twitter](https://twitter.com/nalathon8/status/1393174233556021249) | advertise |
+| [nam08926332@twitter](https://twitter.com/nam08926332/status/1609565020203126789) | advertise |
 | [Nam42Duongtruo1@twitter](https://twitter.com/Nam42Duongtruo1/status/1553281681859104768) | advertise |
 | [nam291296@twitter](https://twitter.com/nam291296/status/1603282501543174145) | advertise |
 | [nam14316033@twitter](https://twitter.com/nam14316033/status/1584798469851865088) | advertise |
@@ -9587,6 +9591,7 @@ Do not create new issue or we will close it as duplicate.
 | [Subhamdm@twitter](https://twitter.com/Subhamdm/status/1401919030034714630) | advertise |
 | [subhash73902708@twitter](https://twitter.com/subhash73902708/status/1597228369875435521) | advertise |
 | [SubhashGottum9@twitter](https://twitter.com/SubhashGottum9/status/1397529313537265665) | advertise |
+| [Subigwin223@twitter](https://twitter.com/Subigwin223/status/1609539892190777344) | advertise |
 | [SuccessvisionPr@twitter](https://twitter.com/SuccessvisionPr/status/1393314160625307653) | advertise |
 | [sudanindepende1@twitter](https://twitter.com/sudanindepende1/status/1430518977386721280) | advertise |
 | [SUday49665279@twitter](https://twitter.com/SUday49665279/status/1386583498014683137) | advertise |
