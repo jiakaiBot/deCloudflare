@@ -19372,6 +19372,7 @@ Here's a list of public Fediverse services.
 | `mexico-pensante.blog` | No |
 | `mexicosocial.mx` | No |
 | `mexo.pro` | No |
+| `meyer-guillot.fr` | No |
 | `meyfam.com` | No |
 | `mezashi.info` | No |
 | `mezzo.moe` | No |
@@ -35277,7 +35278,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,161 |
-| Normal | 27,072 |
+| Normal | 27,073 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
