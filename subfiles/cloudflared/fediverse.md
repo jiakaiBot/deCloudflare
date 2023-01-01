@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,188 |
-| social | 3,199 |
+| com | 5,189 |
+| social | 3,200 |
 | net | 2,668 |
 | org | 1,916 |
 | de | 1,798 |
@@ -1387,6 +1387,7 @@ Here's a list of public Fediverse services.
 | `amas.dev` | No |
 | `amaseto.com` | Yes |
 | `amastodon.uk` | No |
+| `amateurfunk.social` | No |
 | `amateurwire.org` | No |
 | `amatriain.site` | Yes |
 | `amaurot.city` | Yes |
@@ -7949,6 +7950,7 @@ Here's a list of public Fediverse services.
 | `drew.monster` | No |
 | `drewgat.es` | No |
 | `drewstokes.com` | Yes |
+| `drewtoot.com` | No |
 | `drfluellen.com` | No |
 | `drg.im` | No |
 | `drg.nz` | Yes |
@@ -8097,6 +8099,7 @@ Here's a list of public Fediverse services.
 | `dungeoncrawler.world` | No |
 | `dungeons.social` | No |
 | `dunglas.fr` | Yes |
+| `dunkel.cloud` | Yes |
 | `dunkelheit.biz` | No |
 | `dunkelmann.eu` | Yes |
 | `dunkelschunkel.de` | No |
@@ -12787,6 +12790,7 @@ Here's a list of public Fediverse services.
 | `heystory.net` | Yes |
 | `heythere.cloud` | Yes |
 | `heythere.org` | No |
+| `hezu.art` | No |
 | `hfranco.dev` | No |
 | `hfrc.de` | No |
 | `hgoel.dev` | Yes |
@@ -19787,6 +19791,7 @@ Here's a list of public Fediverse services.
 | `mit.edu` | Yes |
 | `mita.me` | Yes |
 | `mitaka.nl` | Yes |
+| `mitch.homes` | No |
 | `mitch.science` | No |
 | `mitchcohen.com` | No |
 | `mitchellpkt.com` | No |
@@ -20966,6 +20971,7 @@ Here's a list of public Fediverse services.
 | `nahfe.xyz` | No |
 | `nahuelwexd.com` | Yes |
 | `naia.gay` | Yes |
+| `naiad.io` | Yes |
 | `naii.io` | No |
 | `naiw.jp` | No |
 | `nakadashi.life` | No |
@@ -35279,8 +35285,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,162 |
-| Normal | 27,074 |
+| Cloudflare | 8,164 |
+| Normal | 27,078 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
