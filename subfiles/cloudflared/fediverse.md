@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,186 |
+| com | 5,187 |
 | social | 3,198 |
 | net | 2,667 |
-| org | 1,915 |
+| org | 1,916 |
 | de | 1,798 |
 
 
@@ -4835,6 +4835,7 @@ Here's a list of public Fediverse services.
 | `chancellor.cc` | No |
 | `chancellor.social` | No |
 | `changelog.social` | No |
+| `changeme.fr.eu.org` | No |
 | `changmaoxiang.one` | Yes |
 | `channelinfosec.com` | Yes |
 | `chantierlibre.org` | No |
@@ -5580,7 +5581,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7163,7 +7164,7 @@ Here's a list of public Fediverse services.
 | `derg.nz` | Yes |
 | `derg.social` | Yes |
 | `dergnation.org` | Yes |
-| `dergrimm.net` | No |
+| `dergrimm.net` | Yes |
 | `dergrisch.de` | No |
 | `derguhl.de` | No |
 | `derhof.eu` | No |
@@ -7594,6 +7595,7 @@ Here's a list of public Fediverse services.
 | `djuber.tk` | No |
 | `djuchuu.co.uk` | No |
 | `dk1mi.radio` | No |
+| `dkl.jp` | Yes |
 | `dkm.cloud` | No |
 | `dkub.dev` | Yes |
 | `dkwall.social` | Yes |
@@ -13266,6 +13268,7 @@ Here's a list of public Fediverse services.
 | `huebner.tk` | No |
 | `hueck.social` | No |
 | `hueowo.me` | Yes |
+| `huey.xyz` | Yes |
 | `huffiy.me` | No |
 | `hug.network` | No |
 | `hugeglobal.net` | Yes |
@@ -20333,7 +20336,7 @@ Here's a list of public Fediverse services.
 | `mrx.im` | No |
 | `mrxi.org` | No |
 | `mryoogomusic.fr` | No |
-| `mrzan.xyz` | Yes |
+| `mrzan.xyz` | No |
 | `mrzm.io` | Yes |
 | `ms-olive.club` | Yes |
 | `ms.vg` | No |
@@ -30039,6 +30042,7 @@ Here's a list of public Fediverse services.
 | `tass.town` | No |
 | `tassaron.com` | No |
 | `tassiaart.com` | Yes |
+| `taste-of-taboo.com` | No |
 | `tastefuldinosaurerotica.com` | No |
 | `tastingtraffic.net` | No |
 | `tastybugs.club` | Yes |
@@ -35269,8 +35273,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,155 |
-| Normal | 27,071 |
+| Cloudflare | 8,158 |
+| Normal | 27,072 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
