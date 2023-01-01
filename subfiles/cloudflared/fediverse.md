@@ -22787,6 +22787,7 @@ Here's a list of public Fediverse services.
 | `ooxxcc.com` | Yes |
 | `oozry.com` | No |
 | `oozuze.social` | No |
+| `opa.re` | Yes |
 | `opafritz.de` | No |
 | `opalstack.social` | No |
 | `opalstacked.com` | No |
@@ -35288,7 +35289,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,165 |
+| Cloudflare | 8,166 |
 | Normal | 27,080 |
 
 
