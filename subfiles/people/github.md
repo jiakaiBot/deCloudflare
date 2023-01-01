@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [pixiv: cloudscraper requires paying to solve Cloudflare captcha v2](https://github.com/teppyboy/ayayaxyz/issues/4)
 - [500 error for second check-in when a check in is already in progress and near the end](https://github.com/trakt/api-help/issues/387)
 - [Getting cloud flare error code 1020](https://github.com/DMarby/picsum-photos/issues/101)
 - [Easily Reduce ListObjects Sorting Incompatibilities](https://github.com/juicedata/juicefs/issues/3144)
