@@ -5625,6 +5625,7 @@ Do not create new issue or we will close it as duplicate.
 | [LewisLi02673279@twitter](https://twitter.com/LewisLi02673279/status/1389147021542559747) | advertise |
 | [lexidelamare@twitter](https://twitter.com/lexidelamare/status/1516483603219189764) | advertise |
 | [lexuyen63400696@twitter](https://twitter.com/lexuyen63400696/status/1394090281981468673) | advertise |
+| [lg2yt@twitter](https://twitter.com/lg2yt/status/1609335372017721350) | advertise |
 | [Lgbt76420082@twitter](https://twitter.com/Lgbt76420082/status/1403667374448943106) | advertise |
 | [LGQuang1989@twitter](https://twitter.com/LGQuang1989/status/1552674772571471875) | advertise |
 | [LHin00071152@twitter](https://twitter.com/LHin00071152/status/1377265697613508612) | advertise |
