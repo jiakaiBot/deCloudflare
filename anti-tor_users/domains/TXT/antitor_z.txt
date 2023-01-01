@@ -173,6 +173,7 @@ discord.zalor.fr
 discord.zorustech.com
 eki-kkfk.zzux.com
 entry1-bk-mufg-jp.zxbucs.vip
+es-logs.prod-cluster.zedge.io
 etc-defsd.zzux.com
 etc-fdfdxcv.zzux.com
 etc-fdsa.zzux.com
@@ -298,6 +299,7 @@ zurcherarquitectos.com
 zurica.co.in
 zustmarketing.com
 acceptatie-client.zorgplatform.online
+api-sprint.zlip2x.com
 api.zodomus.com
 api.zurich.de
 assessments.zfco.com
@@ -308,6 +310,7 @@ culevit.zerovic.com
 datacenter.zolbermedia.com
 diakszeft-api.uat.zeelabs.online
 es-logs.analytics-cluster.zedge.io
+etc-yizzz.zzux.com
 gateway.zscalerthree.net
 gateway.zscalertwo.net
 idp.saas.zeb-it.de
