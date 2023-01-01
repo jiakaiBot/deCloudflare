@@ -13843,6 +13843,7 @@ Here's a list of public Fediverse services.
 | `informethique.org` | No |
 | `infosec.exchange` | No |
 | `infosecnerd.cc` | No |
+| `infosex.exchange` | No |
 | `infosexy.fun` | No |
 | `infoteck.ru` | No |
 | `infothema.net` | No |
@@ -35279,7 +35280,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,162 |
-| Normal | 27,073 |
+| Normal | 27,074 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
