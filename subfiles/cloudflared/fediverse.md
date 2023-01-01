@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,189 |
+| com | 5,190 |
 | social | 3,201 |
-| net | 2,668 |
-| org | 1,916 |
+| net | 2,669 |
+| org | 1,917 |
 | de | 1,798 |
 
 
@@ -4252,6 +4252,7 @@ Here's a list of public Fediverse services.
 | `burner.social` | No |
 | `burner.zone` | No |
 | `burners.social` | No |
+| `burningbird.net` | No |
 | `burningboard.net` | No |
 | `burningnebula.net` | No |
 | `burningpixel.net` | No |
@@ -16645,6 +16646,7 @@ Here's a list of public Fediverse services.
 | `left-tusk.com` | No |
 | `left.community` | No |
 | `left.media` | No |
+| `leftarchive.ie` | No |
 | `lefti.sh` | No |
 | `leftic.club` | No |
 | `lefties.social` | Yes |
@@ -17961,6 +17963,7 @@ Here's a list of public Fediverse services.
 | `maindron.io` | No |
 | `mainesocial.xyz` | No |
 | `mainframe.club` | No |
+| `mainframe.community` | No |
 | `mainz.social` | No |
 | `maiome.xyz` | No |
 | `maique.eu` | No |
@@ -21942,6 +21945,7 @@ Here's a list of public Fediverse services.
 | `nolanlawson.com` | No |
 | `noldal.net` | No |
 | `nolen.io` | No |
+| `noleron.com` | Yes |
 | `nolewd.space` | No |
 | `nolifecomique.co.uk` | No |
 | `nolim1t.co` | No |
@@ -22040,6 +22044,7 @@ Here's a list of public Fediverse services.
 | `noronista.net` | No |
 | `norrebro.space` | No |
 | `norrland.xyz` | No |
+| `nortelnetworks.dev` | Yes |
 | `northeast.one` | No |
 | `northernvoice.app` | No |
 | `northpole.host` | No |
@@ -27068,6 +27073,7 @@ Here's a list of public Fediverse services.
 | `scdg.net` | No |
 | `scdmx.de` | Yes |
 | `scenecore.net` | No |
+| `sceneworld.org` | No |
 | `scfzfilm.org` | No |
 | `schaal-server.de` | No |
 | `schaarsen.de` | No |
@@ -27190,6 +27196,7 @@ Here's a list of public Fediverse services.
 | `schykle.com` | No |
 | `sci.kiwi` | Yes |
 | `scicomm.xyz` | No |
+| `sciencefiction.nl` | No |
 | `sciencemastodon.com` | No |
 | `sciencemediacenter.social` | No |
 | `sciences.re` | No |
@@ -35289,8 +35296,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,166 |
-| Normal | 27,080 |
+| Cloudflare | 8,168 |
+| Normal | 27,085 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
