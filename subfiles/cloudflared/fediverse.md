@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,189 |
-| social | 3,200 |
+| social | 3,201 |
 | net | 2,668 |
 | org | 1,916 |
 | de | 1,798 |
@@ -1094,6 +1094,7 @@ Here's a list of public Fediverse services.
 | `akiba.tokyo.jp` | No |
 | `akibadon.com` | No |
 | `akibaoh.tech` | No |
+| `akimasa.jp` | Yes |
 | `akionux.net` | No |
 | `akipe.fr` | No |
 | `akire.xyz` | No |
@@ -2875,6 +2876,7 @@ Here's a list of public Fediverse services.
 | `bayfur.club` | No |
 | `bayliss.social` | No |
 | `baym.lol` | No |
+| `baz.bar` | No |
 | `baz.com` | No |
 | `bazbaze.com` | No |
 | `bazurk.com` | No |
@@ -21540,6 +21542,7 @@ Here's a list of public Fediverse services.
 | `nextcloud.com` | No |
 | `nextinnonprofits.com` | Yes |
 | `nextme.tk` | No |
+| `nextpayge.social` | No |
 | `nextstepventures.org` | No |
 | `nexum.hu` | No |
 | `nexus8.cf` | No |
@@ -35285,8 +35288,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,164 |
-| Normal | 27,078 |
+| Cloudflare | 8,165 |
+| Normal | 27,080 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
