@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,185 |
-| social | 3,195 |
+| com | 5,186 |
+| social | 3,198 |
 | net | 2,667 |
 | org | 1,915 |
 | de | 1,798 |
@@ -12691,6 +12691,7 @@ Here's a list of public Fediverse services.
 | `hep.social` | No |
 | `hepburn.social` | No |
 | `hepper.net` | No |
+| `heppycat.com` | No |
 | `heptagon.social` | Yes |
 | `herag.xyz` | No |
 | `herald-petrel.com` | No |
@@ -17440,6 +17441,7 @@ Here's a list of public Fediverse services.
 | `lost-angles.im` | No |
 | `lost-frequencies.eu` | Yes |
 | `lost-in-outer.space` | No |
+| `lost.social` | No |
 | `lostall.faith` | No |
 | `lostallofmy.faith` | No |
 | `lostblog.me` | No |
@@ -22962,6 +22964,7 @@ Here's a list of public Fediverse services.
 | `oromasdis.tk` | No |
 | `oromit.de` | No |
 | `orphan.black` | Yes |
+| `orphaned.monster` | Yes |
 | `orpticon.social` | Yes |
 | `orran.net` | No |
 | `orreadi.com` | Yes |
@@ -26509,6 +26512,7 @@ Here's a list of public Fediverse services.
 | `rubedo.cloud` | No |
 | `rubee.buzz` | No |
 | `rubencito.net` | Yes |
+| `rubend.nl` | Yes |
 | `rubensolvang.no` | No |
 | `rubi.gd` | Yes |
 | `rubiez.eu` | No |
@@ -31679,6 +31683,7 @@ Here's a list of public Fediverse services.
 | `tricast.org` | No |
 | `trickle.ink` | No |
 | `trickyfoxy.ru` | Yes |
+| `tricorder.social` | No |
 | `tried-to-do.science` | Yes |
 | `trier.website` | No |
 | `triformine.dev` | Yes |
@@ -32206,6 +32211,7 @@ Here's a list of public Fediverse services.
 | `ufm.su` | No |
 | `ufoo9k.space` | Yes |
 | `uggs.io` | No |
+| `uglymachine.social` | No |
 | `ugm.ac.id` | No |
 | `ugoday.co` | No |
 | `ugrash.org` | No |
@@ -35263,8 +35269,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,153 |
-| Normal | 27,067 |
+| Cloudflare | 8,155 |
+| Normal | 27,071 |
 
 
-### 23.1% of public Fediverse services are using Cloudflare.
+### 23.2% of public Fediverse services are using Cloudflare.
