@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,187 |
+| com | 5,188 |
 | social | 3,199 |
 | net | 2,668 |
 | org | 1,916 |
@@ -5931,6 +5931,7 @@ Here's a list of public Fediverse services.
 | `crabdisk.online` | No |
 | `crabland.social` | No |
 | `crablettesare.life` | No |
+| `crabnetic.com` | Yes |
 | `crabs.life` | Yes |
 | `crabsin.space` | No |
 | `crack.group` | No |
@@ -35277,7 +35278,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,161 |
+| Cloudflare | 8,162 |
 | Normal | 27,073 |
 
 
