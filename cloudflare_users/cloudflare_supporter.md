@@ -6138,6 +6138,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mat71017572@twitter](https://twitter.com/Mat71017572/status/1573066318437404674) | advertise |
 | [mATAsBokaklIPdM@twitter](https://twitter.com/mATAsBokaklIPdM/status/1394944549911359497) | advertise |
 | [matfitt@twitter](https://twitter.com/matfitt/status/1386357122070310912) | advertise |
+| [mathias777_2002@twitter](https://twitter.com/mathias777_2002/status/1609466968494510082) | advertise |
 | [Matnipp93_@twitter](https://twitter.com/Matnipp93_/status/1544927051458953216) | advertise |
 | [MatnXPharis@twitter](https://twitter.com/MatnXPharis/status/1501580663169839109) | advertise |
 | [matrix-org@github.com](https://github.com/matrix-org) | moral (forcefully closed issue) |
