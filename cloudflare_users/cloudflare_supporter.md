@@ -2977,6 +2977,7 @@ Do not create new issue or we will close it as duplicate.
 | [fjdb3@twitter](https://twitter.com/fjdb3/status/1554143968685789184) | advertise |
 | [fjpkagami@twitter](https://twitter.com/fjpkagami/status/1392923842880831488) | advertise |
 | [FlameOcho@twitter](https://twitter.com/FlameOcho/status/1390911778918305799) | advertise |
+| [FlareCasino@twitter](https://twitter.com/FlareCasino/status/1610016544914046976) | advertise |
 | [FlashZA_@twitter](https://twitter.com/FlashZA_/status/1507735134799372288) | advertise |
 | [FlawCra@twitter](https://twitter.com/FlawCra/status/1580222680694812672) | advertise |
 | [FlB22659378@twitter](https://twitter.com/FlB22659378/status/1396356630082514944) | advertise |
