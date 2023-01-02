@@ -10944,6 +10944,7 @@ Do not create new issue or we will close it as duplicate.
 | [vrankyrule@twitter](https://twitter.com/vrankyrule/status/1386668245902512138) | advertise |
 | [VSkarleas@twitter](https://twitter.com/VSkarleas/status/1456937424660094982) | advertise |
 | [VtbKo@twitter](https://twitter.com/VtbKo/status/1395561904467185664) | advertise |
+| [Vtcialis2022@twitter](https://twitter.com/Vtcialis2022/status/1609693415024857089) | advertise |
 | [vu1408@twitter](https://twitter.com/vu1408/status/1377882512286867460) | advertise |
 | [Vu567105Vu@twitter](https://twitter.com/Vu567105Vu/status/1596477348840284161) | advertise |
 | [Vu33317074@twitter](https://twitter.com/Vu33317074/status/1594572608665980929) | advertise |
