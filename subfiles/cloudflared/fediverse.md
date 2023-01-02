@@ -28356,6 +28356,7 @@ Here's a list of public Fediverse services.
 | `snabel.party` | No |
 | `snabelen.no` | No |
 | `snabeltann.no` | No |
+| `snack.investments` | No |
 | `snack.social` | No |
 | `snacka.org` | No |
 | `snafu.bar` | No |
@@ -35344,7 +35345,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,179 |
-| Normal | 27,121 |
+| Normal | 27,122 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
