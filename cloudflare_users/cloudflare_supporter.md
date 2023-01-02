@@ -2792,6 +2792,7 @@ Do not create new issue or we will close it as duplicate.
 | [enesphp@twitter](https://twitter.com/enesphp/status/1402188376867065863) | advertise |
 | [EngAlexMusic1@twitter](https://twitter.com/EngAlexMusic1/status/1526159260509515776) | advertise |
 | [Engineer_7oda@twitter](https://twitter.com/Engineer_7oda/status/1540451421069484033) | advertise |
+| [EnglishExam4@twitter](https://twitter.com/EnglishExam4/status/1609895978449895425) | advertise |
 | [engmawia_23@twitter](https://twitter.com/engmawia_23/status/1383721139730481156) | advertise |
 | [eniayoogunsola@twitter](https://twitter.com/eniayoogunsola/status/1554367999418798080) | advertise |
 | [Eniola47530017@twitter](https://twitter.com/Eniola47530017/status/1588642827155963904) | advertise |
@@ -9745,6 +9746,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tai58496438@twitter](https://twitter.com/Tai58496438/status/1384020224547069952) | advertise |
 | [Tailu123@twitter](https://twitter.com/Tailu123/status/1552009946790629381) | advertise |
 | [taisaDesigner@twitter](https://twitter.com/taisaDesigner/status/1511636003626311680) | advertise |
+| [taitran09539503@twitter](https://twitter.com/taitran09539503/status/1609894150962577408) | advertise |
 | [tajinde52425634@twitter](https://twitter.com/tajinde52425634/status/1407580334489628676) | advertise |
 | [taketimez@twitter](https://twitter.com/taketimez/status/1393835169971281921) | advertise |
 | [takn12262883@twitter](https://twitter.com/takn12262883/status/1380791412078206978) | advertise |
@@ -10964,6 +10966,7 @@ Do not create new issue or we will close it as duplicate.
 | [vuquoc203@twitter](https://twitter.com/vuquoc203/status/1408052147787161601) | advertise |
 | [vusimpzerotwo@twitter](https://twitter.com/vusimpzerotwo/status/1549475267692744704) | advertise |
 | [vuthien46196@twitter](https://twitter.com/vuthien46196/status/1401809290449473539) | advertise |
+| [vutruyphong@twitter](https://twitter.com/vutruyphong/status/1609902245604212739) | advertise |
 | [VuVuiVe10@twitter](https://twitter.com/VuVuiVe10/status/1400107055604592645) | advertise |
 | [vuzakamaki@twitter](https://twitter.com/vuzakamaki/status/1398091363682455555) | advertise |
 | [vu_baoo@twitter](https://twitter.com/vu_baoo/status/1570095416766763010) | advertise |
