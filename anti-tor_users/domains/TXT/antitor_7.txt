@@ -16,6 +16,7 @@ test.cert.70r.de
 wetrok.storage.7si.ch
 www.7servicesjax.com
 79xmz3lmss.com
+7gate.vc
 api.7-eleven.com
 api.7semyan.ru
 loyalty-qa-api.7eleven.com.my
