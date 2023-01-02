@@ -9587,6 +9587,7 @@ Do not create new issue or we will close it as duplicate.
 | [StreamingDad@twitter](https://twitter.com/StreamingDad/status/1572356539163484166) | advertise |
 | [StreetbikeVee@twitter](https://twitter.com/StreetbikeVee/status/1561912858602049536) | advertise |
 | [Streetlawyer11@twitter](https://twitter.com/Streetlawyer11/status/1393088374794190850) | advertise |
+| [strygwyr_69@twitter](https://twitter.com/strygwyr_69/status/1609960928828862464) | advertise |
 | [StuartLathrop@twitter](https://twitter.com/StuartLathrop/status/1552079377978081282) | advertise |
 | [stun71@twitter](https://twitter.com/stun71/status/1389220264244776963) | advertise |
 | [Stuurgurs@twitter](https://twitter.com/Stuurgurs/status/1453710354920452098) | advertise |
