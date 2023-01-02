@@ -4357,6 +4357,7 @@ Here's a list of public Fediverse services.
 | `c-r-t.tk` | Yes |
 | `c-view.club` | No |
 | `c.im` | Yes |
+| `c.wtf` | Yes |
 | `c0de.works` | Yes |
 | `c0debabe.com` | No |
 | `c0ffee.net` | No |
@@ -35360,7 +35361,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,184 |
+| Cloudflare | 8,185 |
 | Normal | 27,133 |
 
 
