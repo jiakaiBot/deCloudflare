@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,204 |
-| social | 3,204 |
+| social | 3,205 |
 | net | 2,673 |
 | org | 1,923 |
 | de | 1,802 |
@@ -25055,6 +25055,7 @@ Here's a list of public Fediverse services.
 | `puppo.space` | No |
 | `puppy.cafe` | No |
 | `puppy.place` | No |
+| `puppyfire.social` | No |
 | `pups.social` | Yes |
 | `pupsparkle.nl` | Yes |
 | `pupu.moe` | Yes |
@@ -30271,6 +30272,7 @@ Here's a list of public Fediverse services.
 | `technodro.me` | No |
 | `technodruide.ca` | No |
 | `technoetic.com` | Yes |
+| `technohazard.io` | No |
 | `technologeek.me` | No |
 | `technologists.cloud` | No |
 | `technologyinmontreal.com` | No |
@@ -35352,7 +35354,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,182 |
-| Normal | 27,126 |
+| Normal | 27,128 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
