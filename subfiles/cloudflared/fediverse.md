@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,203 |
+| com | 5,204 |
 | social | 3,203 |
-| net | 2,672 |
+| net | 2,673 |
 | org | 1,923 |
 | de | 1,802 |
 
@@ -15876,6 +15876,7 @@ Here's a list of public Fediverse services.
 | `knotted.pet` | No |
 | `knotteye.cc` | No |
 | `knottywolf.sexy` | No |
+| `knova.net` | No |
 | `know.me.uk` | No |
 | `knowbility.nl` | No |
 | `knowfeeldo.xyz` | Yes |
@@ -20431,6 +20432,7 @@ Here's a list of public Fediverse services.
 | `mstdn-east.jp` | No |
 | `mstdn-ff14.jp` | No |
 | `mstdn-football.jp` | No |
+| `mstdn-huahin.com` | No |
 | `mstdn-jp.site` | Yes |
 | `mstdn-kanazawa.jp` | No |
 | `mstdn-kichijoji.tokyo` | No |
@@ -23144,6 +23146,7 @@ Here's a list of public Fediverse services.
 | `otyakai.xyz` | Yes |
 | `ouahpiti.info` | No |
 | `ouais.xyz` | No |
+| `oubliette.city` | No |
 | `ouda.space` | No |
 | `oufmilo.com` | No |
 | `ouin.land` | No |
@@ -35346,7 +35349,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,180 |
-| Normal | 27,122 |
+| Normal | 27,125 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
