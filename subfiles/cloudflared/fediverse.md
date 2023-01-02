@@ -9001,7 +9001,7 @@ Here's a list of public Fediverse services.
 | `estadoo.com` | No |
 | `estarik.com` | No |
 | `estel-freesia.moe` | No |
-| `esthetic.win` | No |
+| `esthetic.win` | Yes |
 | `estoespodcast.net` | Yes |
 | `estradi-niol-of.services` | No |
 | `estrageit.net` | No |
@@ -15099,6 +15099,7 @@ Here's a list of public Fediverse services.
 | `justbennet.com` | No |
 | `justbros.xyz` | No |
 | `justcoding.tech` | Yes |
+| `justda.tips` | No |
 | `justdied.com` | No |
 | `justfollow.me.uk` | No |
 | `justgage.blog` | No |
@@ -35344,7 +35345,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,179 |
+| Cloudflare | 8,180 |
 | Normal | 27,122 |
 
 
