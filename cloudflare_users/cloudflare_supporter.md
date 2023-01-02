@@ -1716,6 +1716,7 @@ Do not create new issue or we will close it as duplicate.
 | [Calvin85712232@twitter](https://twitter.com/Calvin85712232/status/1392362270051639304) | advertise |
 | [CalvinHybrid@twitter](https://twitter.com/CalvinHybrid/status/1583147934627299329) | advertise |
 | [cameleondragoon@twitter](https://twitter.com/cameleondragoon/status/1385175092917723138) | advertise |
+| [CamelMargaret@twitter](https://twitter.com/CamelMargaret/status/1609716214179459072) | advertise |
 | [CamLy142857@twitter](https://twitter.com/CamLy142857/status/1608834365668364288) | advertise |
 | [canadamarket21@twitter](https://twitter.com/canadamarket21/status/1456298106689970178) | advertise |
 | [canarikan98@twitter](https://twitter.com/canarikan98/status/1515519404439740423) | advertise |
@@ -5095,8 +5096,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5142,6 +5143,7 @@ Do not create new issue or we will close it as duplicate.
 | [KLacey83@twitter](https://twitter.com/KLacey83/status/1401868983159070725) | advertise |
 | [klausblackk@twitter](https://twitter.com/klausblackk/status/1393991709457993728) | advertise |
 | [KlaxonDigital@twitter](https://twitter.com/KlaxonDigital/status/1478738130165510147) | advertise |
+| [kld_sjd@twitter](https://twitter.com/kld_sjd/status/1609701245647724549) | advertise |
 | [KLiesty@twitter](https://twitter.com/KLiesty/status/1552540429236961280) | advertise |
 | [klopmp@twitter](https://twitter.com/klopmp/status/1422969764905816068) | advertise |
 | [kmantecM@twitter](https://twitter.com/kmantecM/status/1422478263440396292) | advertise |
@@ -6862,6 +6864,7 @@ Do not create new issue or we will close it as duplicate.
 | [muthusblog@twitter](https://twitter.com/muthusblog/status/1387977153954807808) | advertise |
 | [muzzadatukMuzaf@twitter](https://twitter.com/muzzadatukMuzaf/status/1536250143518777344) | advertise |
 | [muzzammilmpr@twitter](https://twitter.com/muzzammilmpr/status/1386511376730841090) | advertise |
+| [MuzzaMuzzaMuzz@twitter](https://twitter.com/MuzzaMuzzaMuzz/status/1609817033792946176) | advertise |
 | [MValiauga@twitter](https://twitter.com/MValiauga/status/1391094817564905472) | advertise |
 | [MWarraphat@twitter](https://twitter.com/MWarraphat/status/1552516267231178753) | advertise |
 | [MWbadt@twitter](https://twitter.com/MWbadt/status/1495648127113699328) | advertise |
@@ -10628,6 +10631,7 @@ Do not create new issue or we will close it as duplicate.
 | [TuNguyddjcmf@twitter](https://twitter.com/TuNguyddjcmf/status/1597145101834518529) | advertise |
 | [TunHmine@twitter](https://twitter.com/TunHmine/status/1391918737368895488) | advertise |
 | [TunHtetAung15@twitter](https://twitter.com/TunHtetAung15/status/1389878074771054592) | advertise |
+| [TunHuyDng1@twitter](https://twitter.com/TunHuyDng1/status/1609663108418797568) | advertise |
 | [TunKhaing11@twitter](https://twitter.com/TunKhaing11/status/1400037855548821513) | advertise |
 | [TunKhan14422309@twitter](https://twitter.com/TunKhan14422309/status/1383756038566940672) | advertise |
 | [tunlinnainggtc@twitter](https://twitter.com/tunlinnainggtc/status/1392842957846286336) | advertise |
@@ -11468,6 +11472,7 @@ Do not create new issue or we will close it as duplicate.
 | [YKopaei@twitter](https://twitter.com/YKopaei/status/1576572826064019457) | advertise |
 | [YLay06809442@twitter](https://twitter.com/YLay06809442/status/1392878829312503808) | advertise |
 | [YmnsSatoshi@twitter](https://twitter.com/YmnsSatoshi/status/1547386705698639872) | advertise |
+| [ymuc____@twitter](https://twitter.com/ymuc____/status/1609825111649193986) | advertise |
 | [YnBnh53625192@twitter](https://twitter.com/YnBnh53625192/status/1377619350748864517) | advertise |
 | [YNGGUNNA13@twitter](https://twitter.com/YNGGUNNA13/status/1577596765326508034) | advertise |
 | [ynhuongnguyen@twitter](https://twitter.com/ynhuongnguyen/status/1552945350675075074) | advertise |
