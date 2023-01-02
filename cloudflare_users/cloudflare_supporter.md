@@ -2286,6 +2286,7 @@ Do not create new issue or we will close it as duplicate.
 | [DdeeaannK@twitter](https://twitter.com/DdeeaannK/status/1601652495729983488) | advertise |
 | [ddkatsios@twitter](https://twitter.com/ddkatsios/status/1398632489028104192) | advertise |
 | [De6Bi@twitter](https://twitter.com/De6Bi/status/1401432705661693956) | advertise |
+| [DeadCrazy007@twitter](https://twitter.com/DeadCrazy007/status/1609933132110921728) | advertise |
 | [deadlyembrace6@twitter](https://twitter.com/deadlyembrace6/status/1565304061779394561) | advertise |
 | [deadman50378288@twitter](https://twitter.com/deadman50378288/status/1552530084514304001) | advertise |
 | [DeanFreer@twitter](https://twitter.com/DeanFreer/status/1382581349039607808) | advertise |
@@ -4881,6 +4882,7 @@ Do not create new issue or we will close it as duplicate.
 | [kea4nu@twitter](https://twitter.com/kea4nu/status/1532442400831901698) | advertise |
 | [KeartisakP1998K@twitter](https://twitter.com/KeartisakP1998K/status/1505614174239354883) | advertise |
 | [kebritsokhte375@twitter](https://twitter.com/kebritsokhte375/status/1581885862480007168) | advertise |
+| [KeeLesbian69@twitter](https://twitter.com/KeeLesbian69/status/1609950315591389185) | advertise |
 | [KeenenJohannes@twitter](https://twitter.com/KeenenJohannes/status/1396513112229138434) | advertise |
 | [KeepGodFirst92@twitter](https://twitter.com/KeepGodFirst92/status/1396552670861746176) | advertise |
 | [KeerthanaKirthi@twitter](https://twitter.com/KeerthanaKirthi/status/1387650402225590275) | advertise |
@@ -7191,6 +7193,7 @@ Do not create new issue or we will close it as duplicate.
 | [networks_times@twitter](https://twitter.com/networks_times/status/1465907575241658368) | advertise |
 | [NetworkThreats@twitter](https://twitter.com/NetworkThreats/status/1384218165878530052) | advertise |
 | [network_ims@twitter](https://twitter.com/network_ims/status/1589891168640593922) | advertise |
+| [neuy1234@twitter](https://twitter.com/neuy1234/status/1609936523029540866) | advertise |
 | [Never87346438@twitter](https://twitter.com/Never87346438/status/1392124512888496128) | advertise |
 | [NeverGi40238045@twitter](https://twitter.com/NeverGi40238045/status/1390975560411586560) | advertise |
 | [neverlandoff@twitter](https://twitter.com/neverlandoff/status/1550496168072941569) | advertise |
@@ -8354,6 +8357,7 @@ Do not create new issue or we will close it as duplicate.
 | [pyaephy19148076@twitter](https://twitter.com/pyaephy19148076/status/1393615034614386688) | advertise |
 | [PyaePhy36522143@twitter](https://twitter.com/PyaePhy36522143/status/1394330917515055108) | advertise |
 | [PyaePhy61702591@twitter](https://twitter.com/PyaePhy61702591/status/1384161398029111306) | advertise |
+| [PyaePhy80318677@twitter](https://twitter.com/PyaePhy80318677/status/1609957207969497090) | advertise |
 | [PyaePhy80857556@twitter](https://twitter.com/PyaePhy80857556/status/1395343436220403721) | advertise |
 | [PyaePya35398066@twitter](https://twitter.com/PyaePya35398066/status/1394164909320114176) | advertise |
 | [PyaeSatt@twitter](https://twitter.com/PyaeSatt/status/1384425461954977797) | advertise |
