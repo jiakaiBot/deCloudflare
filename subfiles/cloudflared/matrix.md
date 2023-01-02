@@ -84,7 +84,6 @@ Here's a list of public Matrix services.
 | mandragot.org | No |
 | matrix.im | No |
 | matrix.org | Yes |
-| matrix.monero.social | No |
 | mtrx.nz | No |
 | nibbana.jp | No |
 | nitro.chat | No |
@@ -113,7 +112,6 @@ Here's a list of public Matrix services.
 | the-apothecary.club | No |
 | matrix.tomesh.net | No |
 | trygve.me | No |
-| ungleich.matrix.ungleich.cloud | No |
 | matrix.unredacted.org | Yes |
 | utwente.io | No |
 | mtrx.vern.cc | No |
@@ -128,7 +126,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15 |
-| Normal | 85 |
+| Normal | 83 |
 
 
-### 15% of public Matrix services are using Cloudflare.
+### 15.3% of public Matrix services are using Cloudflare.
