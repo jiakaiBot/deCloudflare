@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,204 |
+| com | 5,205 |
 | social | 3,205 |
 | net | 2,673 |
-| org | 1,923 |
+| org | 1,925 |
 | de | 1,802 |
 
 
@@ -2370,6 +2370,7 @@ Here's a list of public Fediverse services.
 | `auspol.cafe` | Yes |
 | `ausretrogamer.com` | No |
 | `ausrineblackthorn.com` | No |
+| `aussie-bbq.com` | No |
 | `aussiebondage.au` | Yes |
 | `austin.community` | No |
 | `austintexas.social` | No |
@@ -4631,6 +4632,7 @@ Here's a list of public Fediverse services.
 | `catdon.jp` | No |
 | `catdon.life` | No |
 | `categoryurls.top` | Yes |
+| `caterpillarcheesecake.xyz` | Yes |
 | `catgirl.army` | Yes |
 | `catgirl.biz` | Yes |
 | `catgirl.cafe` | No |
@@ -6204,7 +6206,7 @@ Here's a list of public Fediverse services.
 | `cthulhu.social` | No |
 | `ctrl-shift.net` | No |
 | `ctrlaltdog.xyz` | Yes |
-| `ctrlz.es` | No |
+| `ctrlz.es` | Yes |
 | `ctseuro.com` | No |
 | `ctsollars.com` | No |
 | `ctu.cx` | No |
@@ -14621,6 +14623,7 @@ Here's a list of public Fediverse services.
 | `jeannieindigital.me` | No |
 | `jeanpartobad.fr` | No |
 | `jeanpaulphd.com` | No |
+| `jebba.moe` | No |
 | `jeckyll.net` | No |
 | `jeda.im` | Yes |
 | `jeder.pl` | No |
@@ -16573,6 +16576,7 @@ Here's a list of public Fediverse services.
 | `layer8.space` | No |
 | `layer9.online` | Yes |
 | `lazar.social` | No |
+| `lazarus.name` | No |
 | `laze.today` | Yes |
 | `lazer.pizza` | No |
 | `lazoop.org` | No |
@@ -17905,6 +17909,7 @@ Here's a list of public Fediverse services.
 | `madridgug.com` | No |
 | `mads-hartmann.com` | No |
 | `madscientists.social` | Yes |
+| `madsnoot.org` | No |
 | `madworld.social` | No |
 | `madyanne.fr` | No |
 | `madzel.de` | No |
@@ -32138,6 +32143,7 @@ Here's a list of public Fediverse services.
 | `twittar.com.br` | No |
 | `twitter-two.com` | Yes |
 | `twitter.moe` | Yes |
+| `twitter4.me` | No |
 | `twitterchan.net` | No |
 | `twitteregypt.online` | No |
 | `twitterers.social` | No |
@@ -34199,6 +34205,7 @@ Here's a list of public Fediverse services.
 | `wtf.social` | Yes |
 | `wtfayla.net` | No |
 | `wtfflorida.com` | Yes |
+| `wtfomfg.org` | No |
 | `wtr.app` | Yes |
 | `wtsnjp.com` | No |
 | `wuatek.is` | No |
@@ -35353,8 +35360,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,182 |
-| Normal | 27,128 |
+| Cloudflare | 8,184 |
+| Normal | 27,133 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
