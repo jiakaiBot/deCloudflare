@@ -23137,6 +23137,7 @@ Here's a list of public Fediverse services.
 | `ottawa.place` | No |
 | `ottawaks.us` | Yes |
 | `otter.garden` | No |
+| `otter.homes` | Yes |
 | `otter.sh` | No |
 | `otter.tube` | No |
 | `otterbark.com` | No |
@@ -35350,7 +35351,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,181 |
+| Cloudflare | 8,182 |
 | Normal | 27,126 |
 
 
