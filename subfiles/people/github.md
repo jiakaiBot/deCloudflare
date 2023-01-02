@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error to generate link](https://github.com/Alygnt/Clifty/issues/18)
 - [Trying to setup personal relay through cloudflare: "initial bytes are not magic"](https://github.com/schollz/croc/issues/522)
 - [cloudscraper.exceptions.CloudflareChallengeError: Detected a Cloudflare version 2 Captcha challenge, This feature is not available in the opensource (free) version.](https://github.com/DarkCat09/python-aternos/issues/63)
 - [pixiv: cloudscraper requires paying to solve Cloudflare captcha v2](https://github.com/teppyboy/ayayaxyz/issues/4)
