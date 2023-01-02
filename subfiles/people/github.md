@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Ambi Climate doesn't show all devices](https://github.com/home-assistant/core/issues/84978)
+- [Add user agent to outbound calls](https://github.com/grafana/plugin-validator/issues/46)
 - [Add streaming-mode. Complementing the answer with each iteration.](https://github.com/terry3041/pyChatGPT/issues/91)
 - [Error to generate link](https://github.com/Alygnt/Clifty/issues/18)
 - [Trying to setup personal relay through cloudflare: "initial bytes are not magic"](https://github.com/schollz/croc/issues/522)
