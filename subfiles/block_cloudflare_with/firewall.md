@@ -3,6 +3,25 @@
 
 This page show you how to block CloudFlare websites with your firewall, preventing from connecting to them.
 
+### With nftables
+
+<details><summary> _click me_ </summary>
+
+```nftables
+# make the ip definition
+define cf4 = { 103.21.244.0/22, 103.22.200.0/22, 103.31.4.0/22, 104.16.0.0/13, 104.24.0.0/14, 108.162.192.0/18, 131.0.72.0/22, 141.101.64.0/18, 162.158.0.0/15, 172.64.0.0/13, 173.245.48.0/20, 188.114.96.0/20, 190.93.240.0/20, 197.234.240.0/22, 198.41.128.0/17 }
+define cf6 = { 2400:cb00::/32, 2405:8100::/32, 2405:b500::/32, 2606:4700::/32, 2803:f800::/32, 2a06:98c0::/29, 2c0f:f248::/32 }
+
+# add the following lines to 
+table inet filter {
+    chain output {
+        ip daddr { $dns_google, $dns_tdc, $dns_telenor } counter reject with icmp type admin-prohibited comment "Droped CF quires"
+        ip6 daddr { $ipv6_google_dns, $ipv6_tdc_dns } counter reject with icmpv6 type admin-prohibited comment "Droped CF quires"
+        ...
+
+```
+
+</details>
 
 ### With UFW
 
