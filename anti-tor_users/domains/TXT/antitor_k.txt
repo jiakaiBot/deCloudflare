@@ -227,7 +227,6 @@ kimyass.com
 kinamedia.se
 kindenzorg.nl
 kinitrobox.com
-kinnaurspitipackage.com
 kirklees.gov.uk
 kissberry.ru
 kisstheeconomy.com
@@ -319,7 +318,6 @@ kukarkab.go.id
 kulturalisszalon.hu
 kumarglobalexport.com
 kumi93kumi.com
-kunden-qob-90431c120005-7og.bar
 kuragebunch.com
 kurtas.it
 kuwait-parcel-track.com
@@ -1394,9 +1392,12 @@ api.kliniq.co
 api.newpoker.klasgaming.com
 app.kazancinnoktasi.site
 apps.kiai.co
+auth.krassimir.dev
+authelia.krassimir.dev
 autodiscover.kangs1600.site
 autopatcher.knv-power.ro
 beacon.krxd.net
+blog.kubukoz.com
 canelo-novaterra.kasaconstructora.com
 cl340.keap-link008.com
 click.klasresearch.com
@@ -1446,6 +1447,7 @@ idp.kvn.de
 ikfz.kreis-slk.de
 insights.katten.com
 io535.keap-link012.com
+ir.kratosdefense.com
 k-lite-codec-pack.org.ua
 k68tkg.com
 kakedashiweb.site
@@ -1487,6 +1489,7 @@ key-notion.com
 keydawnawe.com
 khanjeeyapness.website
 ki128.keap-link006.com
+kibur.net
 kidneydiseaseupdate.com
 kids.kahoku.co.jp
 kientrucanhung.com
@@ -1508,6 +1511,7 @@ klantactie.be
 kledingbankamstelland.nl
 klenhosnc.com
 klikbank.net
+klikblox.com
 klimaservisairsolution.rs
 klinika-semejnogo-zdorovya.ru
 klinikhanglekiu.com
@@ -1566,7 +1570,10 @@ moderplatform.kozelo.com
 money-changer.app.kaymedia.net
 museum.kirinholdings.com
 nelspruit.kleuterzonegroep.co.za
+new.kinitro.org
 nflshop.k77v.net
+nimfapi.kfintech.com
+nitro135.keenetic.pro
 nl-go.kelkoogroup.net
 old.kryptonsecurity.co.za
 online.kclaims.com.my
@@ -1586,12 +1593,14 @@ relaunch.klimamenschgesundheit.de
 relaunch.klimamenschgesundheit.info
 rhui-lb.k-square.jp
 sde.kaspersky-labs.com
+servicedesk.kgisl.com
 signin.kaspi.kz
 sit01.kasikornasset.com
 smail.kimblegroup.com
 smartotp.kebhana.com
 sso.kinopoisk.ru
 staging-nursery.dev.kidsly.jp
+staging.konsign.com
 stardesign11.komit.link
 sts.kfplc.com
 subdomain.kontorexdata.se
@@ -1637,10 +1646,12 @@ www.kijiji.ca
 www.kirinholdings.com
 www.kissmyseoul.com
 www.kleiw.info
+www.kochlust-hengstmann.de
 www.kodami.it
 www.krcgtv.com
 www.ksdenki.com
 www.kupobserwujacych.pl
+www.rdm-mtsibnukatsir.kkmikalsel.com
 www.git.git.login.kreolyar.ru
 www.git.re.secure.kleinformart.com
 www.gitlab.git.git.org.kolodes.com
