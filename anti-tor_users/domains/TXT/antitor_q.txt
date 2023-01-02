@@ -123,7 +123,6 @@ qcom.co.uk
 qh88n.com
 qh88r.com
 qh88u.com
-qh88vn.net
 qhsealert.com
 qqsafety.com
 qqslot77.asia
@@ -226,6 +225,7 @@ seif.clickbankbuilder-staging.domains.qloaked.com
 server.quality-it.eu
 servicedesk.quub.it
 t.corp.e.queensland.com
+tls.qfund.net
 uat1a.us1.qeadaptiveauthbo.com
 us.q2s15.com
 www.cardapioonline.qtaldelivery.com.br
