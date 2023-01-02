@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,209 |
-| social | 3,207 |
+| com | 5,210 |
+| social | 3,208 |
 | net | 2,673 |
-| org | 1,927 |
+| org | 1,928 |
 | de | 1,804 |
 
 
@@ -1275,6 +1275,7 @@ Here's a list of public Fediverse services.
 | `allplayer.tk` | Yes |
 | `allpro.social` | No |
 | `allpurposem.at` | No |
+| `allrandom.org` | Yes |
 | `allreadyexist.ca` | No |
 | `allrite.at` | No |
 | `allrite.au` | No |
@@ -3601,6 +3602,7 @@ Here's a list of public Fediverse services.
 | `blogfrei.de` | No |
 | `blogger-mstdn.com` | No |
 | `blogger.com` | No |
+| `bloggesspals.com` | No |
 | `blogging.dk` | No |
 | `blognot.co` | No |
 | `blogold.xyz` | No |
@@ -6975,6 +6977,7 @@ Here's a list of public Fediverse services.
 | `debo.io` | No |
 | `debove.dev` | No |
 | `debrouillonet.org` | No |
+| `debt.dev` | No |
 | `debuenrollo.org` | No |
 | `debugco.de` | No |
 | `debula.ml` | Yes |
@@ -14323,6 +14326,7 @@ Here's a list of public Fediverse services.
 | `itsukey.jp` | No |
 | `itsybitsysissy.eu` | No |
 | `itsysadm.in` | No |
+| `itsze.ro` | No |
 | `itter.xyz` | Yes |
 | `itu.dk` | Yes |
 | `itunix.eu` | No |
@@ -28129,6 +28133,7 @@ Here's a list of public Fediverse services.
 | `sjm.codes` | No |
 | `sjolin.io` | No |
 | `sjsr.social` | No |
+| `skaegabe.dk` | No |
 | `skaeya.com` | No |
 | `skaggsfamily.us` | Yes |
 | `skaia.space` | No |
@@ -30114,6 +30119,7 @@ Here's a list of public Fediverse services.
 | `tar.black` | No |
 | `tar.cx` | No |
 | `tar.mx` | Yes |
+| `tara.social` | No |
 | `tarasis.net` | Yes |
 | `tarasupadon.com` | No |
 | `tardar.social` | No |
@@ -35386,8 +35392,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,192 |
-| Normal | 27,151 |
+| Cloudflare | 8,193 |
+| Normal | 27,156 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
