@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,205 |
-| social | 3,205 |
+| com | 5,209 |
+| social | 3,207 |
 | net | 2,673 |
-| org | 1,925 |
+| org | 1,927 |
 | de | 1,804 |
 
 
@@ -790,6 +790,7 @@ Here's a list of public Fediverse services.
 | `act2restore.org` | No |
 | `acticiel.org` | No |
 | `acting-man.com` | No |
+| `action0.com` | No |
 | `actionsecit.de` | No |
 | `activism.live` | No |
 | `activists.family` | No |
@@ -1924,6 +1925,7 @@ Here's a list of public Fediverse services.
 | `archous.net` | No |
 | `archraspberrypi.tk` | No |
 | `arclight.pro` | Yes |
+| `arctian.org` | No |
 | `arcturus.blog` | No |
 | `arctus.ml` | No |
 | `arda.pw` | Yes |
@@ -4315,6 +4317,7 @@ Here's a list of public Fediverse services.
 | `by.tc` | No |
 | `bycreyo.de` | No |
 | `byebye.party` | Yes |
+| `byecorps.com` | Yes |
 | `byemc.live` | No |
 | `bygg.land` | No |
 | `byl.fr` | No |
@@ -4468,6 +4471,7 @@ Here's a list of public Fediverse services.
 | `campusgemeinde.de` | No |
 | `camthoms.com` | Yes |
 | `canadafriendfinder.com` | No |
+| `canal.social` | No |
 | `canalsidecoach.app` | Yes |
 | `canard.club` | No |
 | `canard.tube` | No |
@@ -5975,6 +5979,7 @@ Here's a list of public Fediverse services.
 | `crakila.moe` | No |
 | `crandol.com` | No |
 | `cranil.io` | Yes |
+| `crank.report` | No |
 | `crap.today` | No |
 | `crapaud-fou.org` | Yes |
 | `crappyhost.de` | No |
@@ -6247,6 +6252,7 @@ Here's a list of public Fediverse services.
 | `culair.nl` | No |
 | `cultic.xyz` | No |
 | `cultiv.social` | Yes |
+| `cultofprimes.com` | No |
 | `cultofshiv.wtf` | No |
 | `cultofzoe.com` | No |
 | `cultur.social` | No |
@@ -14371,6 +14377,7 @@ Here's a list of public Fediverse services.
 | `izzodlaw.com` | No |
 | `izzy.rodeo` | No |
 | `izzz.fr` | No |
+| `j-koreth.com` | No |
 | `j-m.pet` | Yes |
 | `j-mueller.eu` | Yes |
 | `j-w.au` | Yes |
@@ -15434,6 +15441,7 @@ Here's a list of public Fediverse services.
 | `kazv.moe` | No |
 | `kazvam.com` | Yes |
 | `kb3lyb.com` | Yes |
+| `kbec.dev` | No |
 | `kbrice.blog` | No |
 | `kc8jc.com` | No |
 | `kcdon.jp` | No |
@@ -17204,6 +17212,7 @@ Here's a list of public Fediverse services.
 | `literatur.social` | No |
 | `lithio.fr` | No |
 | `lithium03.info` | Yes |
+| `liti.ca` | Yes |
 | `litmind.club` | Yes |
 | `litodon.de` | No |
 | `litrat.xyz` | No |
@@ -18173,6 +18182,7 @@ Here's a list of public Fediverse services.
 | `maphammond.club` | No |
 | `mapicardie.fr` | No |
 | `maple.social` | No |
+| `maplecrew.org` | No |
 | `maplelawn.net` | No |
 | `mappostcards.pl` | No |
 | `maprambo.net` | Yes |
@@ -19138,6 +19148,7 @@ Here's a list of public Fediverse services.
 | `medieval.jp` | No |
 | `medium.com` | Yes |
 | `medium.place` | Yes |
+| `medium.social` | Yes |
 | `mediverse.social` | No |
 | `medjed.com` | No |
 | `medlibre.fr` | No |
@@ -27141,6 +27152,7 @@ Here's a list of public Fediverse services.
 | `schaffenburg.org` | No |
 | `schafweide.org` | No |
 | `schalke.social` | No |
+| `schaltwerk.io` | No |
 | `scharner.me` | No |
 | `scharom.de` | No |
 | `schattenwe.lt` | No |
@@ -32142,6 +32154,7 @@ Here's a list of public Fediverse services.
 | `twink.ink` | No |
 | `twinkaga.in` | No |
 | `twinksonly.club` | No |
+| `twinports.us` | No |
 | `twipo.net` | No |
 | `twipped.social` | No |
 | `twistedsifter.com` | No |
@@ -35373,8 +35386,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,189 |
-| Normal | 27,141 |
+| Cloudflare | 8,192 |
+| Normal | 27,151 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
