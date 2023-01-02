@@ -11882,6 +11882,7 @@ Here's a list of public Fediverse services.
 | `gra.one` | No |
 | `gracchi.work` | No |
 | `gracehartford.org` | No |
+| `graceteng.me` | No |
 | `gracie-tech.tokyo` | No |
 | `graeber.video` | No |
 | `graedener.com` | Yes |
@@ -15109,7 +15110,7 @@ Here's a list of public Fediverse services.
 | `justdied.com` | No |
 | `justfollow.me.uk` | No |
 | `justgage.blog` | No |
-| `justicewarrior.social` | Yes |
+| `justicewarrior.social` | No |
 | `justin-und-florian.de` | Yes |
 | `justinbremer.com` | No |
 | `justinian.codes` | No |
@@ -16843,7 +16844,7 @@ Here's a list of public Fediverse services.
 | `levallo.is` | No |
 | `levallois.social` | No |
 | `levant.social` | No |
-| `level8tech.com` | No |
+| `level8tech.com` | Yes |
 | `levelxstudios.org` | No |
 | `leverburns.blue` | No |
 | `leverger.ovh` | No |
@@ -29833,6 +29834,7 @@ Here's a list of public Fediverse services.
 | `synthwave.social` | Yes |
 | `syntik.fr` | No |
 | `syo.tokyo` | No |
+| `syok.lol` | Yes |
 | `syoriken.org` | No |
 | `syosetu.social` | No |
 | `syringa.social` | Yes |
@@ -31115,6 +31117,7 @@ Here's a list of public Fediverse services.
 | `tille.ch` | No |
 | `tilvids.com` | No |
 | `tim-boettcher.online` | No |
+| `tim.do` | Yes |
 | `timapple.com` | Yes |
 | `timapple.me` | No |
 | `timbo.cc` | Yes |
@@ -35361,8 +35364,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,185 |
-| Normal | 27,133 |
+| Cloudflare | 8,187 |
+| Normal | 27,134 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
