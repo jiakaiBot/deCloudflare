@@ -303,6 +303,7 @@ api-sprint.zlip2x.com
 api.zodomus.com
 api.zurich.de
 assessments.zfco.com
+autodiscover.zentuber.com
 betadrive.zoho.eu
 click.email.zalando-lounge.com
 client.zorgplatform.online
@@ -330,6 +331,8 @@ www.alternativnamedicina.com.mk.zemi.net.mk
 www.apply.zarnab.pk
 www.client-analytics.zerrohost.com
 www.creditrepairstlouis.com.zim4.com
+www.moneychannel.zeba.ro
+www.z-father.co.jp
 www.zappos.com
 www.zenit.ru
 www.zennioptical.com
@@ -337,6 +340,7 @@ www.zeppelin-bar.de
 www.ziplocal.ca
 www.zippoguide.com
 www.zone-service.com
+www.zoomtventertainment.com
 www.zovni.ovh
 www.zwilnik.com
 zabavashop.in.ua
@@ -348,6 +352,7 @@ zadonsk-monastyr.ru
 zadroweb.com
 zahid-agromiks.com.ua
 zaiflyer.com
+zakka-kurawanka.com
 zantimes.com
 zbnfhsk.com
 zen-escort.com
