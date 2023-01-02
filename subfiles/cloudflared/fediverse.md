@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,204 |
-| social | 3,203 |
+| social | 3,204 |
 | net | 2,673 |
 | org | 1,923 |
 | de | 1,802 |
@@ -5239,6 +5239,7 @@ Here's a list of public Fediverse services.
 | `ckfb.cc` | No |
 | `ckitbara.info` | No |
 | `cknweb.it` | Yes |
+| `ckpg.space` | No |
 | `cksv.jp` | No |
 | `cktec.net` | No |
 | `ckyln.com` | No |
@@ -10577,6 +10578,7 @@ Here's a list of public Fediverse services.
 | `friends.tn` | No |
 | `friendsend.org` | No |
 | `friendsni.co` | No |
+| `friendsofbill.social` | Yes |
 | `friendsofdesoto.social` | No |
 | `friendster.lol` | No |
 | `friendsyu.me` | No |
@@ -35348,8 +35350,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,180 |
-| Normal | 27,125 |
+| Cloudflare | 8,181 |
+| Normal | 27,126 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
