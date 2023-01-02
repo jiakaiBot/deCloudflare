@@ -2352,6 +2352,7 @@ Do not create new issue or we will close it as duplicate.
 | [DevilRelentless@twitter](https://twitter.com/DevilRelentless/status/1458868886812577821) | advertise |
 | [DevilYTBVN@twitter](https://twitter.com/DevilYTBVN/status/1498285245761683460) | advertise |
 | [DeViL_jOkER7@twitter](https://twitter.com/DeViL_jOkER7/status/1386035714664456193) | advertise |
+| [devops732@twitter](https://twitter.com/devops732/status/1609889839847215104) | advertise |
 | [devrajgujjar54@twitter](https://twitter.com/devrajgujjar54/status/1385292357449527296) | advertise |
 | [devrajput67508@twitter](https://twitter.com/devrajput67508/status/1590263618595352577) | advertise |
 | [DevSub2@twitter](https://twitter.com/DevSub2/status/1551589055124893696) | advertise |
