@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,205 |
 | net | 2,673 |
 | org | 1,925 |
-| de | 1,802 |
+| de | 1,803 |
 
 
 - Mastodon, Pleroma, etc
@@ -12497,6 +12497,7 @@ Here's a list of public Fediverse services.
 | `hates.technology` | No |
 | `hatesli.me` | No |
 | `hatesnigge.rs` | No |
+| `hathp.de` | No |
 | `hatimaki.xyz` | No |
 | `hatnix.net` | No |
 | `hatred.club` | No |
@@ -29553,6 +29554,7 @@ Here's a list of public Fediverse services.
 | `sugarfuel.social` | No |
 | `sugary.fashion` | No |
 | `sugoma.tk` | Yes |
+| `suhbat.online` | No |
 | `sui-hei.net` | No |
 | `suicide.group` | No |
 | `suicide.holiday` | Yes |
@@ -35365,7 +35367,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,187 |
-| Normal | 27,134 |
+| Normal | 27,136 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
