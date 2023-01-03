@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,218 |
+| com | 5,219 |
 | social | 3,214 |
 | net | 2,678 |
 | org | 1,929 |
@@ -6162,6 +6162,7 @@ Here's a list of public Fediverse services.
 | `cryptodont.io` | No |
 | `cryptography.dog` | No |
 | `cryptographyengineering.com` | No |
+| `cryptombit.com` | Yes |
 | `cryptonica.de` | No |
 | `cryptonomic.tech` | Yes |
 | `cryptos.cloud` | No |
@@ -35433,7 +35434,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,203 |
+| Cloudflare | 8,204 |
 | Normal | 27,187 |
 
 
