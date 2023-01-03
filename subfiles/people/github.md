@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [PSA Car Controller in combination with Cloudflared Reverse Proxy/ External Access](https://github.com/Flodu31/HomeAssistant-PeugeotIntegration/issues/27)
 - [Flare Solver Stop work with YYG](https://github.com/FlareSolverr/FlareSolverr/issues/644)
 - [Ambi Climate doesn't show all devices](https://github.com/home-assistant/core/issues/84978)
 - [Add user agent to outbound calls](https://github.com/grafana/plugin-validator/issues/46)
