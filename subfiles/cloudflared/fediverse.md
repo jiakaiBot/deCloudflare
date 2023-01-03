@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,224 |
-| social | 3,217 |
-| net | 2,681 |
-| org | 1,930 |
-| de | 1,810 |
+| com | 5,226 |
+| social | 3,219 |
+| net | 2,683 |
+| org | 1,931 |
+| de | 1,812 |
 
 
 - Mastodon, Pleroma, etc
@@ -947,6 +947,7 @@ Here's a list of public Fediverse services.
 | `afix.space` | No |
 | `afk.social` | Yes |
 | `afn.social` | No |
+| `afnsocial.co` | No |
 | `afontaine.dev` | No |
 | `afop.tech` | No |
 | `afr.pm` | No |
@@ -1853,6 +1854,7 @@ Here's a list of public Fediverse services.
 | `apple2.org.za` | No |
 | `appleontech.com` | No |
 | `applest.net` | No |
+| `applevis.com` | No |
 | `applicaria.net` | No |
 | `applichan.com` | No |
 | `applied-langua.ge` | Yes |
@@ -2465,6 +2467,7 @@ Here's a list of public Fediverse services.
 | `awesomebible.de` | Yes |
 | `awesomefriends.social` | No |
 | `awesomehouse.ca` | No |
+| `awful.buzz` | No |
 | `awful.club` | No |
 | `awful.computer` | No |
 | `awful.monster` | No |
@@ -4221,6 +4224,7 @@ Here's a list of public Fediverse services.
 | `bulme.at` | No |
 | `bulubulu.club` | No |
 | `bumblbee.de` | No |
+| `bumbleflies.de` | No |
 | `bumpto.space` | Yes |
 | `bumscode.com` | Yes |
 | `bun.social` | No |
@@ -7740,6 +7744,7 @@ Here's a list of public Fediverse services.
 | `doghub.eu` | No |
 | `dogiakos.com` | No |
 | `dogno.se` | Yes |
+| `dogs.chat` | No |
 | `dogsballs.net` | No |
 | `dogsex.org` | Yes |
 | `dogspin.xyz` | Yes |
@@ -8817,6 +8822,7 @@ Here's a list of public Fediverse services.
 | `ennimedia.de` | No |
 | `ennomeijers.nl` | No |
 | `ennui.industries` | No |
+| `ennui.page` | Yes |
 | `ennui.ws` | No |
 | `enoughisenough14.org` | No |
 | `enovale.com` | No |
@@ -11473,6 +11479,7 @@ Here's a list of public Fediverse services.
 | `giant.systems` | No |
 | `giants-club.net` | No |
 | `gib.social` | Yes |
+| `gibald.com` | No |
 | `gibbens.dev` | Yes |
 | `gibberfish.org` | No |
 | `gibble.be` | No |
@@ -12334,6 +12341,7 @@ Here's a list of public Fediverse services.
 | `hafkehafke.org` | No |
 | `hafs.in` | No |
 | `hagale.net` | No |
+| `hagan.social` | No |
 | `hagelb.org` | No |
 | `hagen.coffee` | No |
 | `hagew.blog` | No |
@@ -16365,6 +16373,7 @@ Here's a list of public Fediverse services.
 | `kyunkyun.moe` | No |
 | `kyushojitsu.ca` | Yes |
 | `kzhub.cc` | No |
+| `kzoo.to` | Yes |
 | `kzstan.com` | No |
 | `l-internet.fr` | No |
 | `l-p-d.org` | No |
@@ -18203,6 +18212,7 @@ Here's a list of public Fediverse services.
 | `mantlepro.com` | No |
 | `manton.org` | No |
 | `mantyke.icu` | Yes |
+| `manualdousuario.net` | Yes |
 | `manuelcortez.net` | Yes |
 | `manulanglois.fr` | No |
 | `manuviciano.com` | No |
@@ -19953,6 +19963,7 @@ Here's a list of public Fediverse services.
 | `mkr-tech.ch` | No |
 | `mkr.house` | No |
 | `mktoho.social` | Yes |
+| `ml45.net` | No |
 | `mlabouri.fr` | No |
 | `mlan.im` | No |
 | `mlborder.com` | No |
@@ -22458,6 +22469,7 @@ Here's a list of public Fediverse services.
 | `nyawan.club` | No |
 | `nycity.social` | No |
 | `nycmesh.net` | No |
+| `nycnyne.social` | Yes |
 | `nycr.social` | Yes |
 | `nye.lol` | No |
 | `nyerm.com` | No |
@@ -25403,6 +25415,7 @@ Here's a list of public Fediverse services.
 | `quodlibet.social` | No |
 | `quodverum.com` | No |
 | `quokka.run` | No |
+| `quoli.bet` | No |
 | `quornichon.org` | No |
 | `quotient.space` | No |
 | `qupzilla.com` | No |
@@ -32128,6 +32141,7 @@ Here's a list of public Fediverse services.
 | `turtleapparel.eu` | No |
 | `turtletoot.us` | No |
 | `turystyka-niecodzienna.pl` | No |
+| `tusk.fyi` | No |
 | `tusk.social` | No |
 | `tusk.wtf` | No |
 | `tusker.social` | Yes |
@@ -32507,6 +32521,7 @@ Here's a list of public Fediverse services.
 | `undernopretext.social` | No |
 | `undersco.re` | No |
 | `underscore.world` | No |
+| `undertone.org` | No |
 | `underwear.social` | No |
 | `underworld.fr` | No |
 | `underworld.social` | Yes |
@@ -32626,6 +32641,7 @@ Here's a list of public Fediverse services.
 | `uns.social` | Yes |
 | `unsafe.co` | No |
 | `unsafe.space` | No |
+| `unsalle.de` | No |
 | `unsandboxed.org` | Yes |
 | `unseensounds.com` | No |
 | `unshaped.space` | No |
@@ -35457,8 +35473,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,214 |
-| Normal | 27,200 |
+| Cloudflare | 8,218 |
+| Normal | 27,212 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
