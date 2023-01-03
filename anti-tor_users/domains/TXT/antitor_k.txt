@@ -1387,6 +1387,7 @@ ae907.keap-link002.com
 aimg.kwcdn.com
 amp.kansas.com
 amp.kansascity.com
+android.kuveytturk.com.tr
 api.kline-portal.com
 api.kliniq.co
 api.newpoker.klasgaming.com
@@ -1399,6 +1400,7 @@ autopatcher.knv-power.ro
 beacon.krxd.net
 blog.kubukoz.com
 canelo-novaterra.kasaconstructora.com
+catalog.lib.kyushu-u.ac.jp
 cl340.keap-link008.com
 click.klasresearch.com
 client-pavel.keenetic.pro
@@ -1408,15 +1410,18 @@ cpanel.redtailtelematicstest.com.2d1e8d38a9af69582df36f593-18135.sites.k-hosting
 cpcalendars.kangs1610.site
 cpcontacts.kangs1590.site
 ct.klclick.com
+customercaseid.katikohamazon.com
 dc1.ksn.kaspersky-labs.com
 dev2.kensetsu-cloud.jp
 dircomm.li.kernix.net
 directenrollment-3ds2.kasikornbank.com
 discord.krypticrp.se
+dolap.guvenliodeme.k2stqk.ga
 ece88010.keap-link008.com
 einmalpin.knappschaft.de
 email.a.kajabimail.net
 email.c.kajabimail.net
+email.g.kajabimail.net
 email.v.kajabimail.net
 ers.kbv.de
 europm2025.com.e18dca092597d21a68cf17757-11476.sites.k-hosting.co.uk
@@ -1485,6 +1490,7 @@ kenben.net
 kenzoventures.io
 ketoblastgummybears.net
 ketodis.com
+key-device-security.com
 key-notion.com
 keydawnawe.com
 khanjeeyapness.website
@@ -1501,6 +1507,7 @@ kindjalvitalic.com
 kineckekyu.com
 kingbet86.top
 kingchuen.com
+kingtrack-crawler.com
 kinkledunendly.com
 kino-michi.com
 kintaro.goog
@@ -1577,6 +1584,7 @@ nitro135.keenetic.pro
 nl-go.kelkoogroup.net
 old.kryptonsecurity.co.za
 online.kclaims.com.my
+onza5050post.keenetic.link
 ou337.keap-link017.com
 owa.kcb.gov.kw
 paineldemo.kangudelivery.com.br
@@ -1593,11 +1601,13 @@ relaunch.klimamenschgesundheit.de
 relaunch.klimamenschgesundheit.info
 rhui-lb.k-square.jp
 sde.kaspersky-labs.com
+sdx.kfintech.com
 servicedesk.kgisl.com
 signin.kaspi.kz
 sit01.kasikornasset.com
 smail.kimblegroup.com
 smartotp.kebhana.com
+sso.kabelmail.de
 sso.kinopoisk.ru
 staging-nursery.dev.kidsly.jp
 staging.konsign.com
@@ -1630,6 +1640,7 @@ www.5d0nf9aay8bpa6g.hostmaster.ledlighmail5.kino-teka.ru
 www.a1servicecenter.kvwebtech.in
 www.billing.khsmmpro.com
 www.clientes.kleversoft.net
+www.clientnew.krishnakalyani.in
 www.clinicalservice.kassp.pl
 www.dashboard.kachelan.com
 www.feedback.kaher.edu.in
@@ -1648,9 +1659,12 @@ www.kissmyseoul.com
 www.kleiw.info
 www.kochlust-hengstmann.de
 www.kodami.it
+www.komisarnews.com
+www.komplett.no
 www.krcgtv.com
 www.ksdenki.com
 www.kupobserwujacych.pl
+www.pakalljobs.karachijobsupdate.com
 www.rdm-mtsibnukatsir.kkmikalsel.com
 www.git.git.login.kreolyar.ru
 www.git.re.secure.kleinformart.com
