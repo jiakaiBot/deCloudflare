@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,224 |
-| social | 3,216 |
+| social | 3,217 |
 | net | 2,681 |
 | org | 1,930 |
 | de | 1,810 |
@@ -34666,6 +34666,7 @@ Here's a list of public Fediverse services.
 | `xthemage.net` | No |
 | `xtinalee.xyz` | No |
 | `xtity.com` | No |
+| `xtom.social` | No |
 | `xtremely.online` | No |
 | `xttech.top` | Yes |
 | `xtux.org` | No |
@@ -35457,7 +35458,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,214 |
-| Normal | 27,199 |
+| Normal | 27,200 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
