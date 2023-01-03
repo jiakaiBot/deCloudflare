@@ -2429,6 +2429,7 @@ Do not create new issue or we will close it as duplicate.
 | [DirtyScanGang@twitter](https://twitter.com/DirtyScanGang/status/1589054954308014085) | advertise |
 | [discomaenad@twitter](https://twitter.com/discomaenad/status/1602379563698356225) | advertise |
 | [DiscordedLynx@twitter](https://twitter.com/DiscordedLynx/status/1418624822771437575) | advertise |
+| [discree17928848@twitter](https://twitter.com/discree17928848/status/1610265362272256005) | advertise |
 | [DishaDidi3@twitter](https://twitter.com/DishaDidi3/status/1387742143855222790) | advertise |
 | [divy83381142@twitter](https://twitter.com/divy83381142/status/1405595079176196100) | advertise |
 | [DiyokeCelestine@twitter](https://twitter.com/DiyokeCelestine/status/1602692664956227584) | advertise |
@@ -8244,6 +8245,7 @@ Do not create new issue or we will close it as duplicate.
 | [PowerPopClub@twitter](https://twitter.com/PowerPopClub/status/1402682751841603595) | advertise |
 | [PowerRanger1156@twitter](https://twitter.com/PowerRanger1156/status/1395353501174312962) | advertise |
 | [pownew94@twitter](https://twitter.com/pownew94/status/1566475617125941248) | advertise |
+| [pp0476@twitter](https://twitter.com/pp0476/status/1610272481792913408) | advertise |
 | [Pp31666051P@twitter](https://twitter.com/Pp31666051P/status/1550559730950541312) | advertise |
 | [pp54486931@twitter](https://twitter.com/pp54486931/status/1593629456219766784) | advertise |
 | [PP74284531@twitter](https://twitter.com/PP74284531/status/1398910741277593604) | advertise |
