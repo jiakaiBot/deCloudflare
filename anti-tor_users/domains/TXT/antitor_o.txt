@@ -1035,6 +1035,7 @@ api.owxd.xyz
 apigw.ontidwit.com
 apiprod.outlookindia.com
 app.response.oracle-mail.com
+assert.on365.mobi
 auth.ookamikun.tv
 autodiscover.oneofdiscord.com
 az.osgbilling.com
@@ -1067,6 +1068,7 @@ cpcontacts.oneofdiscord.com
 dak-hr-dev-lcsyoj31.it-cpi018-rt.cfapps.eu10-003.hana.ondemand.com
 dashboard.onlytheonline.co.uk
 databank.ogkkb.be
+demo.ocvitsaigon.com
 designersdiscourse.onedabrand.com
 dev.auth.identity.oneadvanced.io
 dev.beratung.organspende-info.de
@@ -1127,6 +1129,7 @@ mail.onboardingofficers.co.uk
 mail.orange-peach.info
 mail.osterreicherflirtbook.com
 mail.oticasvisao.net.br
+mail.otto-schneider.de
 mail.ourpurchasemart.online
 mailbird.onfastspring.com
 mailgenerator.outspot.be
@@ -1157,6 +1160,7 @@ objectstorage.us-phoenix-1.oraclecloud.com
 observatoriodamineracao.com.br
 observer-reporter.com
 obsteslieburvey.com
+ocdn.ml
 oceaniccolor.com
 ochaugly.net
 ochokko.co.uk
@@ -1168,6 +1172,7 @@ odessa-life.od.ua
 odsherred-ejendomsservice.dk
 odynokovteam.kiev.ua
 ofblackservitude.com
+offbeat.oztix.com.au
 offergate-apps-actual.com
 offfurreton.com
 offgate-app-phkr.com
@@ -1313,6 +1318,8 @@ static.openpetition.de
 steam.oldboys.gg
 storage.gra.cloud.ovh.net
 superior-smart-live.opt7dev.com
+support-test.onedata.de
+support.onedata.de
 t.cse1.officielce.com
 tigerknight.owst.jp
 tim2-cdc.omniengage.net
@@ -1396,6 +1403,7 @@ www.outsourcestrategies.com
 www.oxfordescorts.co.uk
 www.ozarksfirst.com
 www.pref.osaka.lg.jp
+www.secure.onemedplace.com
 www.support.ottaboxtechnologies.com
 www.surokkha.gov.bd.verify.online-id.biz
 www.update.odaanews.net
