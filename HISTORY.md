@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-06: [AMS (Amsterdam) on 2023-01-06](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/tsk1p4khhnyh)
 - 2023-01-06: [MRS (Marseille) on 2023-01-06](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wkc1m8dgsm4g)
 - 2023-01-05: [CPH (Copenhagen) on 2023-01-05](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5hpxx6d2x4wr)
 - 2022-12-22: [Network Performance Issues in Singapore](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qkwy8bmqgnzk)
