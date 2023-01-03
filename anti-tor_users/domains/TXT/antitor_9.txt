@@ -29,3 +29,4 @@ git.gitlab.gitlab.blog.gitlab.demo.old.958888.ga
 gitlab.git.gitlab.store.staging.958888.ga
 tickets.97team.co.uk
 www.9moneyapp.com
+www.tinubu-support.9jabizzabizza.com.ng
