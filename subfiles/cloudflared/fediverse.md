@@ -4826,7 +4826,7 @@ Here's a list of public Fediverse services.
 | `ch405.xyz` | No |
 | `ch94.de` | No |
 | `cha-cu.it` | No |
-| `chabal.es` | No |
+| `chabal.es` | Yes |
 | `chabant.social` | No |
 | `chablis.social` | No |
 | `chaconne.club` | No |
@@ -18151,6 +18151,7 @@ Here's a list of public Fediverse services.
 | `mana-ka.com` | No |
 | `managingengineers.net` | Yes |
 | `manalejandro.com` | No |
+| `manateeth.club` | No |
 | `mancave.de` | No |
 | `mancavgeek.co.uk` | No |
 | `mandarismoore.com` | No |
@@ -35434,7 +35435,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,204 |
+| Cloudflare | 8,205 |
 | Normal | 27,187 |
 
 
