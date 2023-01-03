@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,224 |
-| social | 3,215 |
+| social | 3,216 |
 | net | 2,681 |
 | org | 1,930 |
 | de | 1,810 |
@@ -13202,6 +13202,7 @@ Here's a list of public Fediverse services.
 | `horrific.dev` | Yes |
 | `horrorhub.club` | Yes |
 | `hors.zone` | No |
+| `horse.app` | Yes |
 | `horse.band` | No |
 | `horsecr.app` | No |
 | `horsemans.online` | No |
@@ -27005,6 +27006,7 @@ Here's a list of public Fediverse services.
 | `sandersnel.com` | No |
 | `sandervandam2.nl` | Yes |
 | `sandervandamme.com` | Yes |
+| `sandhill.social` | No |
 | `sandiegan.social` | Yes |
 | `sandiegourbanists.com` | No |
 | `sandlot.club` | Yes |
@@ -35454,8 +35456,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,213 |
-| Normal | 27,198 |
+| Cloudflare | 8,214 |
+| Normal | 27,199 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
