@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,215 |
+| com | 5,218 |
 | social | 3,214 |
-| net | 2,676 |
+| net | 2,678 |
 | org | 1,929 |
 | de | 1,808 |
 
@@ -10379,6 +10379,7 @@ Here's a list of public Fediverse services.
 | `frankly.social` | No |
 | `frankmeeuwsen.xyz` | Yes |
 | `frankreimer.de` | No |
+| `frankston.com` | No |
 | `franksworld.org` | No |
 | `franssen.mobi` | No |
 | `franssen.xyz` | No |
@@ -11152,6 +11153,7 @@ Here's a list of public Fediverse services.
 | `gaven.me` | No |
 | `gaven.social` | No |
 | `gavinbrown.xyz` | Yes |
+| `gawk.es` | Yes |
 | `gawlinski.com` | No |
 | `gawo.ga` | No |
 | `gay-pirate-assassins.de` | No |
@@ -12399,6 +12401,7 @@ Here's a list of public Fediverse services.
 | `hamiller.net` | No |
 | `haminoa.net` | No |
 | `hammer-and-sickle.net` | No |
+| `hammyhavoc.com` | Yes |
 | `hamont.social` | No |
 | `hamradio.social` | No |
 | `hamradio.space` | Yes |
@@ -13117,6 +13120,7 @@ Here's a list of public Fediverse services.
 | `homeless.group` | Yes |
 | `homelinux.net` | No |
 | `homenet.click` | Yes |
+| `homeofcode.com` | No |
 | `homepc.it` | No |
 | `homeplex.org` | No |
 | `homeplex.tk` | No |
@@ -16498,7 +16502,7 @@ Here's a list of public Fediverse services.
 | `lancaster.ac.uk` | No |
 | `lancasterpa.social` | No |
 | `lanceur-alerte.tv` | No |
-| `lanciano.it` | No |
+| `lanciano.it` | Yes |
 | `landbox.info` | No |
 | `landofkittens.community` | Yes |
 | `landofkittens.social` | Yes |
@@ -16722,6 +16726,7 @@ Here's a list of public Fediverse services.
 | `leftlibertarian.club` | Yes |
 | `leftodon.social` | No |
 | `leftreality.com` | No |
+| `leftuseless.net` | No |
 | `leftwesht.ie` | No |
 | `lefty.social` | No |
 | `leftychan.net` | Yes |
@@ -19926,6 +19931,7 @@ Here's a list of public Fediverse services.
 | `mk-l.info` | No |
 | `mk.gs` | Yes |
 | `mk39.xyz` | No |
+| `mkdir.uk` | Yes |
 | `mkg20001.io` | Yes |
 | `mkgrcd.xyz` | No |
 | `mkir.ch` | No |
@@ -26306,6 +26312,7 @@ Here's a list of public Fediverse services.
 | `rivqr.xyz` | Yes |
 | `riye.de` | Yes |
 | `riz-om.net` | Yes |
+| `riz-om.network` | Yes |
 | `rizomatica.org` | No |
 | `rizzek.de` | No |
 | `rjbastyr.com` | No |
@@ -32491,6 +32498,7 @@ Here's a list of public Fediverse services.
 | `unfediverse.com` | No |
 | `unfettered.net` | Yes |
 | `unfilter.tube` | No |
+| `unfinished.bike` | No |
 | `unfollow.today` | Yes |
 | `unfoo.net` | No |
 | `unforgiven.pl` | No |
@@ -33814,6 +33822,7 @@ Here's a list of public Fediverse services.
 | `when.computer` | No |
 | `whereaboat.rocks` | No |
 | `whereismysupersuit.com` | No |
+| `whereismytribe.net` | No |
 | `wherelinux.xyz` | No |
 | `wheresalice.info` | No |
 | `wheresmar.co` | Yes |
@@ -35424,8 +35433,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,198 |
-| Normal | 27,183 |
+| Cloudflare | 8,203 |
+| Normal | 27,187 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
