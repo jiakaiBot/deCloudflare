@@ -3758,6 +3758,7 @@ Do not create new issue or we will close it as duplicate.
 | [homkheak@twitter](https://twitter.com/homkheak/status/1392949897683365888) | advertise |
 | [homloveyou@twitter](https://twitter.com/homloveyou/status/1490834810931089411) | advertise |
 | [hon24112001@twitter](https://twitter.com/hon24112001/status/1552954462532034562) | advertise |
+| [honekatsu@twitter](https://twitter.com/honekatsu/status/1610185770450702336) | advertise |
 | [HoneyKy27043553@twitter](https://twitter.com/HoneyKy27043553/status/1552272274937356288) | advertise |
 | [hong37027741@twitter](https://twitter.com/hong37027741/status/1498676585079410694) | advertise |
 | [Hong40127590@twitter](https://twitter.com/Hong40127590/status/1397596489220640774) | advertise |
@@ -9362,6 +9363,7 @@ Do not create new issue or we will close it as duplicate.
 | [SiyaRam1000@twitter](https://twitter.com/SiyaRam1000/status/1395305720472506370) | advertise |
 | [si_iyo@twitter](https://twitter.com/si_iyo/status/1388647216412127234) | advertise |
 | [si_phyo94784420@twitter](https://twitter.com/si_phyo94784420/status/1391063077953499142) | advertise |
+| [sjcler@twitter](https://twitter.com/sjcler/status/1610183629803782145) | advertise |
 | [SJSLORG@twitter](https://twitter.com/SJSLORG/status/1525672130414886914) | advertise |
 | [skelly_mage@twitter](https://twitter.com/skelly_mage/status/1539459217349910529) | advertise |
 | [SkilledUpLife@twitter](https://twitter.com/SkilledUpLife/status/1465258430273306629) | advertise |
