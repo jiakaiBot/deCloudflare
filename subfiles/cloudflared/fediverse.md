@@ -337,6 +337,7 @@ Here's a list of public Fediverse services.
 | `3dp.social` | Yes |
 | `3dscapture.net` | No |
 | `3dxmedia.com` | No |
+| `3e.gg` | Yes |
 | `3ends.info` | No |
 | `3fu.de` | No |
 | `3fx.ch` | No |
@@ -4874,7 +4875,7 @@ Here's a list of public Fediverse services.
 | `chameth.com` | No |
 | `chamook.lol` | No |
 | `champagne.io` | No |
-| `champlain.cc` | No |
+| `champlain.cc` | Yes |
 | `chancellor.cc` | No |
 | `chancellor.social` | No |
 | `changelog.social` | No |
@@ -25080,7 +25081,7 @@ Here's a list of public Fediverse services.
 | `protoxin.net` | Yes |
 | `prou.be` | No |
 | `proud.social` | No |
-| `proudhon.ovh` | No |
+| `proudhon.ovh` | Yes |
 | `proudtobeapastafarian.com` | No |
 | `prout.social` | No |
 | `provo.lol` | No |
@@ -35569,8 +35570,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,247 |
-| Normal | 27,279 |
+| Cloudflare | 8,250 |
+| Normal | 27,277 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
