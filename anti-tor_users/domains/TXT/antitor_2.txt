@@ -113,6 +113,7 @@ etc-ffvbn.2waky.com
 mehrweg-app-bug-paypal.dev2.28apps-software.de
 mehrweg-bug-paypal.dev2.28apps-software.de
 navi.2gis.design
+next.services.28apps-software.de
 paypal3de.int74.202-dev.com
 pt.2021synchroworldmusic-jessytakako.com
 pws.sport-news.20minutes.fr
