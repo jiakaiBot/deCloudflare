@@ -1625,7 +1625,9 @@ app.solutions.lexisnexis.com
 aria2.labhome.site
 asml-dev.logicnets.net
 au.loyaltygateway.com
+auth.laptopcu.com.vn
 auth.linkhub.co.kr
+auth.vpn.lucasviana.xyz
 autodiscover.latihangolf.site
 awbs.lmaeronautics.com
 b.logly.co.jp
@@ -1644,6 +1646,7 @@ business-mail-storage-space-iimit-capacity-exceeded-iusxadqvtc.us-southeast-1.li
 business-mail-storage-space-iimit-capacity-exceeded-setting.us-east-1.linodeobjects.com
 business-mail-storage-space-iimit-capacity-exceeded-settings.us-east-1.linodeobjects.com
 c.licasd.com
+callcentre-loyalty.nab.loyalty-kognitiv.com
 cfe8aff5b.lwcdn.com
 cgi-login-account-verify-update-info.lulka.sk
 clear-your-business-email-accounts-units-storage-web-capcity.us-east-1.linodeobjects.com
@@ -1695,6 +1698,7 @@ git.libre-a-toi.org
 googleadsindonesia.langit9.info
 greatlakeso1.livejournal.com
 grey-croco.livejournal.com
+h.gancevichi.loogle.by
 hanaqiao.lofter.com
 hiji.l-p.page
 homebuildersass.livejournal.com
@@ -1747,6 +1751,8 @@ lbc-api.dev.insights-test.leboncoinpublicite.fr
 lbc-app-front-v2.insights.leboncoinpublicite.fr
 lbcontasimples-login.tk
 lcebook.store
+lcloud-alerta.life
+lcloud-alerta.top
 ldapple-itunes.com.cn
 ldev.ir
 leadwayminds.com
@@ -1834,6 +1840,7 @@ long-terms.ga
 longterms.gq
 longterms.ml
 lookereras.casa
+lordofthemoon.com
 lorimer.ca
 lortonnews.com
 losmovies.site
@@ -1852,6 +1859,7 @@ lovelyandco.pt
 lovelyletterings.com
 lovereality.nl
 loxitdat.com
+lp004.ml
 lpknc.org
 lpservice.co.uk
 ltengronsa.com
@@ -1873,6 +1881,7 @@ lwonclbench.com
 lxheot.com
 lxsodqyysz.com
 lzxdx24yib.com
+m.gancevichi.loogle.by
 m.gmail.comscheduler.leaguelobster.com
 mail.lnsolucoesfinanceiras.com.br
 mb88site.livejournal.com
@@ -1882,6 +1891,7 @@ meetings.ltblekinge.se
 mekura9oqjl4ljft.google-analytics.com.lonewolf.net
 memas02.lbeg.de
 memas04.lbeg.de
+mentalfloss.us18.list-manage.com
 meterboxlockau.livejournal.com
 misskey.levome-dol.com
 mobileapp.landbank.com
@@ -1923,7 +1933,10 @@ verify.longxiastudio.cn
 vrbilling.laxman.work
 webdisk.localbusinessmailer.com
 webdisk.logomatsprinting.com
+www.gancevichi.loogle.by
+www.go.logindesigns.com
 www.lacentrale.fr
+www.lagrangetowingservice.com
 www.larksuite.com
 www.larp.net
 www.lastazionesf.com
@@ -1948,6 +1961,7 @@ www.lustagentur.ch
 www.lux.co.jp
 www.morentotntsdelivery.com.lunarcryptominers.net
 www.www.git.gitlab.gitlab.instagram.liferune.ru
+xen.localcaredirect.org
 projects.landartgenerator.org
 pt.larougestudio.com
 pt.lethalgamersoficial.com
