@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,241 |
-| social | 3,228 |
-| net | 2,690 |
+| com | 5,244 |
+| social | 3,231 |
+| net | 2,691 |
 | org | 1,935 |
-| de | 1,815 |
+| de | 1,816 |
 
 
 - Mastodon, Pleroma, etc
@@ -183,6 +183,7 @@ Here's a list of public Fediverse services.
 | `13ad.de` | No |
 | `13bells.com` | No |
 | `14r8.club` | No |
+| `15-15-15.social` | No |
 | `15cm.net` | Yes |
 | `15o2.de` | No |
 | `161.social` | No |
@@ -4711,6 +4712,7 @@ Here's a list of public Fediverse services.
 | `catsandcoffee.de` | Yes |
 | `catsbay.org` | No |
 | `catscatscats.party` | No |
+| `catskill.social` | No |
 | `catspace.xyz` | No |
 | `catswords.net` | Yes |
 | `catswords.social` | Yes |
@@ -4883,6 +4885,7 @@ Here's a list of public Fediverse services.
 | `chanyukming.com` | Yes |
 | `chao.tokyo` | No |
 | `chaoflux.de` | No |
+| `chaos-goeppingen.de` | No |
 | `chaos.is` | No |
 | `chaos.koeln` | Yes |
 | `chaos.nrw` | No |
@@ -5564,6 +5567,7 @@ Here's a list of public Fediverse services.
 | `cogito.io` | Yes |
 | `cogitoergofem.me` | Yes |
 | `cogneon.de` | Yes |
+| `cogneon.io` | No |
 | `cognitheurge.com` | No |
 | `cognize.co` | Yes |
 | `cogwheel.social` | No |
@@ -7396,6 +7400,7 @@ Here's a list of public Fediverse services.
 | `di2.io` | Yes |
 | `di20.de` | No |
 | `diagonalley.club` | No |
+| `dialectica.red` | No |
 | `dialogundsinn.com` | No |
 | `dialogundsinn.de` | No |
 | `dialup.cafe` | No |
@@ -11278,6 +11283,7 @@ Here's a list of public Fediverse services.
 | `geekhaven.social` | Yes |
 | `geekinati.com` | No |
 | `geekingout.online` | No |
+| `geeklife.com` | No |
 | `geekly.social` | Yes |
 | `geekmodedad.com` | No |
 | `geekmynerdup.com` | No |
@@ -14512,6 +14518,7 @@ Here's a list of public Fediverse services.
 | `jaekr.sh` | No |
 | `jaen-ho.de` | No |
 | `jaesharp.social` | No |
+| `jago.uk` | No |
 | `jagow15.org` | Yes |
 | `jagtalon.com` | Yes |
 | `jahait.tk` | No |
@@ -16894,6 +16901,7 @@ Here's a list of public Fediverse services.
 | `lernortdigital.de` | No |
 | `lernsachen.online` | No |
 | `leroygaming.gq` | No |
+| `leroygaming.ml` | No |
 | `leroymcqy.tk` | No |
 | `lertsenem.com` | No |
 | `lervo.de` | No |
@@ -22709,6 +22717,7 @@ Here's a list of public Fediverse services.
 | `ogrumm.club` | No |
 | `ogspy.fr` | No |
 | `oh14.de` | No |
+| `oh2cil.radio` | No |
 | `ohai.eu` | No |
 | `ohai.social` | No |
 | `ohai.su` | No |
@@ -24804,6 +24813,7 @@ Here's a list of public Fediverse services.
 | `potatoxel.org` | No |
 | `potchan.org` | Yes |
 | `potkukelkka.bond` | No |
+| `potla.ch` | Yes |
 | `poto.cafe` | No |
 | `potofu.moe` | Yes |
 | `potp.me` | Yes |
@@ -26486,6 +26496,7 @@ Here's a list of public Fediverse services.
 | `robothive.net` | No |
 | `robotstart.info` | No |
 | `robox.org` | No |
+| `robsayers.com` | Yes |
 | `robtarr.net` | No |
 | `robutti.me` | No |
 | `robw.me` | No |
@@ -27327,6 +27338,7 @@ Here's a list of public Fediverse services.
 | `schlegelmilch.org` | No |
 | `schleicloud.de` | No |
 | `schlenz.ruhr` | No |
+| `schlesser.net` | No |
 | `schleswig-holstein.social` | No |
 | `schleuss.online` | No |
 | `schlot.at` | No |
@@ -28475,6 +28487,7 @@ Here's a list of public Fediverse services.
 | `smart-cactus.org` | Yes |
 | `smartcitydev.jp` | No |
 | `smartdonkey.social` | No |
+| `smartinwriter.social` | No |
 | `smartpassivehouse.com` | No |
 | `smash.today` | No |
 | `smashnet.de` | No |
@@ -28783,6 +28796,7 @@ Here's a list of public Fediverse services.
 | `solari.com` | No |
 | `solaria.space` | No |
 | `solaris.institute` | No |
+| `solarisfire.com` | No |
 | `solarnight.net` | No |
 | `solarpunk.cafe` | No |
 | `solarpunk.cloud` | No |
@@ -35555,8 +35569,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,245 |
-| Normal | 27,267 |
+| Cloudflare | 8,247 |
+| Normal | 27,279 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
