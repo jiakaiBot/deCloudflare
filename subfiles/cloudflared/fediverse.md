@@ -17626,7 +17626,7 @@ Here's a list of public Fediverse services.
 | `louis-c-novel.com` | Yes |
 | `louis-vallat.fr` | No |
 | `louis-vallat.xyz` | No |
-| `louis.software` | Yes |
+| `louis.software` | No |
 | `louiscap.dev` | Yes |
 | `louiscap.io` | Yes |
 | `louisderrac.com` | No |
@@ -21408,6 +21408,7 @@ Here's a list of public Fediverse services.
 | `nekomimi.yokohama` | Yes |
 | `nekomin.jp` | No |
 | `nekonekoserver.net` | Yes |
+| `nekonet.cyou` | Yes |
 | `nekonote.cc` | No |
 | `nekoport.com` | No |
 | `nekoruri.jp` | No |
@@ -23366,6 +23367,7 @@ Here's a list of public Fediverse services.
 | `ovh.ca` | No |
 | `oviked.xyz` | No |
 | `ovo.blue` | No |
+| `ovo.pink` | Yes |
 | `ovo.st` | Yes |
 | `owari.nl` | No |
 | `owatan.jp` | No |
@@ -26512,6 +26514,7 @@ Here's a list of public Fediverse services.
 | `rodent.city` | No |
 | `rodent.cloud` | No |
 | `rodent.io` | No |
+| `rodent.life` | No |
 | `rodents.party` | No |
 | `rodere.systems` | No |
 | `rodetc.com` | No |
@@ -32346,6 +32349,7 @@ Here's a list of public Fediverse services.
 | `twos.dev` | Yes |
 | `twoslashes.com` | No |
 | `twosteps.net` | No |
+| `twothree.space` | No |
 | `twrc.ru` | No |
 | `twst.me` | No |
 | `twt.rs` | Yes |
@@ -35549,8 +35553,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,241 |
-| Normal | 27,265 |
+| Cloudflare | 8,242 |
+| Normal | 27,268 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
