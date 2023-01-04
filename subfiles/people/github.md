@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Pages Deployment Broken](https://github.com/ubiquity/ubiquity-dollar/issues/448)
+- [Cannot upload channel image, CORS issue](https://github.com/microfeed/microfeed/issues/32)
 - [PSA Car Controller in combination with Cloudflared Reverse Proxy/ External Access](https://github.com/Flodu31/HomeAssistant-PeugeotIntegration/issues/27)
 - [Flare Solver Stop work with YYG](https://github.com/FlareSolverr/FlareSolverr/issues/644)
 - [Ambi Climate doesn't show all devices](https://github.com/home-assistant/core/issues/84978)
