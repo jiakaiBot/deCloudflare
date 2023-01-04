@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,226 |
-| social | 3,219 |
-| net | 2,683 |
+| com | 5,228 |
+| social | 3,220 |
+| net | 2,685 |
 | org | 1,931 |
-| de | 1,812 |
+| de | 1,813 |
 
 
 - Mastodon, Pleroma, etc
@@ -664,6 +664,7 @@ Here's a list of public Fediverse services.
 | `abdulocra.cy` | No |
 | `abeardedqueer.com` | No |
 | `abend.social` | No |
+| `abf.li` | Yes |
 | `abfalleimer.org` | No |
 | `abga.be` | No |
 | `abh.as` | No |
@@ -3036,6 +3037,7 @@ Here's a list of public Fediverse services.
 | `belligerence.club` | No |
 | `belliottsmith.com` | No |
 | `belllab.ca` | Yes |
+| `bellmyer.me` | Yes |
 | `belltower.it` | No |
 | `belovely.xyz` | No |
 | `belpheg.org` | No |
@@ -5405,6 +5407,7 @@ Here's a list of public Fediverse services.
 | `clubmer.com` | No |
 | `clubmontclair.com` | No |
 | `clumsy.computer` | No |
+| `cluster-b.online` | No |
 | `clusterfog.com` | No |
 | `clusterfucks.nl` | No |
 | `cly.wtf` | Yes |
@@ -8122,6 +8125,7 @@ Here's a list of public Fediverse services.
 | `duluth.social` | No |
 | `dulynoded.online` | No |
 | `dumango.com` | No |
+| `dumanovschi.com` | Yes |
 | `dumb.land` | No |
 | `dumb.place` | No |
 | `dumbdevelopers.com` | Yes |
@@ -8814,6 +8818,7 @@ Here's a list of public Fediverse services.
 | `enjinm7.com` | No |
 | `enjoyable.gay` | No |
 | `enkitunes.com` | No |
+| `enl.social` | Yes |
 | `enlightened.army` | Yes |
 | `enlightware.ch` | No |
 | `enmity.com` | No |
@@ -9990,6 +9995,7 @@ Here's a list of public Fediverse services.
 | `fireplace.social` | No |
 | `firewall-sec.com` | No |
 | `firewally.net` | Yes |
+| `firlefanz.one` | No |
 | `firmware.doctor` | No |
 | `firmware.network` | No |
 | `firobe.fr` | No |
@@ -15579,6 +15585,7 @@ Here's a list of public Fediverse services.
 | `kensei.dev` | No |
 | `kensimon.io` | No |
 | `kent-dobias.com` | No |
+| `kerat.net` | No |
 | `kerekes.net.au` | No |
 | `keremyaldiz.com` | No |
 | `kerenon.com` | No |
@@ -17155,6 +17162,7 @@ Here's a list of public Fediverse services.
 | `lindipravity.be` | No |
 | `lindroth.xyz` | Yes |
 | `lindsaybison.com` | Yes |
+| `linekszuka.pl` | Yes |
 | `linenoise.club` | No |
 | `linernotes.club` | No |
 | `linfan.moe` | No |
@@ -19466,6 +19474,7 @@ Here's a list of public Fediverse services.
 | `metrix.network` | No |
 | `metro.bieszczady.pl` | No |
 | `metro.social` | Yes |
+| `metrob.us` | No |
 | `metropolan.com` | Yes |
 | `metsubo-jinrai.net` | No |
 | `metu.life` | No |
@@ -20363,6 +20372,7 @@ Here's a list of public Fediverse services.
 | `motorradfan.net` | No |
 | `motorsport.org.uk` | Yes |
 | `motorsports.social` | No |
+| `mototravel.net` | No |
 | `motov.org` | Yes |
 | `motuhake.xyz` | No |
 | `mou-da.me` | No |
@@ -26215,6 +26225,7 @@ Here's a list of public Fediverse services.
 | `rheinhessen.social` | No |
 | `rheinland.social` | No |
 | `rheinmain.social` | No |
+| `rheinneckar.events` | No |
 | `rheinneckar.social` | Yes |
 | `rhetoricked.com` | No |
 | `rhetro.de` | No |
@@ -26615,6 +26626,7 @@ Here's a list of public Fediverse services.
 | `rpgradio.me` | No |
 | `rpgtable.top` | No |
 | `rpi-virtuell.de` | No |
+| `rpicloud.de` | No |
 | `rpix.dk` | No |
 | `rplatonov.com` | No |
 | `rplatonov.ru` | No |
@@ -27058,6 +27070,7 @@ Here's a list of public Fediverse services.
 | `sanwe.xyz` | No |
 | `saoirse.zone` | No |
 | `saovq.de` | Yes |
+| `sapara.com` | No |
 | `sapphic.city` | No |
 | `sapphic.life` | No |
 | `sapphic.site` | Yes |
@@ -35473,8 +35486,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,218 |
-| Normal | 27,212 |
+| Cloudflare | 8,223 |
+| Normal | 27,220 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
