@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Return 500 error by cURL](https://github.com/ije/esm.sh/issues/484)
 - [No challenge selectors found, unable to proceed.](https://github.com/FlareSolverr/FlareSolverr/issues/646)
 - [Cloudflare Pages Deployment Broken](https://github.com/ubiquity/ubiquity-dollar/issues/448)
 - [Cannot upload channel image, CORS issue](https://github.com/microfeed/microfeed/issues/32)
