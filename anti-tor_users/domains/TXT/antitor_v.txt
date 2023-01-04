@@ -1222,7 +1222,9 @@ api.csa-preprod.na.dp15.vwg-connect.com
 api.gsp.vayana.com
 api.odlc.na.dp15.vwg-connect.com
 api.preprod.vhi.ie
+api.veiligvertoon.nl
 api.veritystream.cloud
+api.vero.fi
 api.via-backend.com
 api.virtusbank.com.br
 api.vivapp.live
@@ -1237,6 +1239,7 @@ applicationsqas.venture.com.sg
 apurav2007-gmailcom.vercel.app
 ask-staging.va.gov
 auth.vinci.net
+auth.voguishcapital.com
 authentiquetravel.voyagerwebsites.com
 autodiscover.vanguardcapital.group
 autodiscover.vortexmediaworkshops.com
@@ -1251,6 +1254,7 @@ blox-link.vercel.app
 bloxcord.vercel.app
 bloxtest.vercel.app
 bluewaters.v3client.com
+bmgw.volocopter.org
 bo.indoor.vodafone.pt
 c.vialoops.com
 cdn.vsassets.io
@@ -1265,6 +1269,7 @@ com.cp-ht-3.bigroblog.debug.vojvodinanet.com
 comune.vanzago.mi.it
 consent.vwgroup.io
 coturn.qa.app.visitme.doctor
+cpanel.vasport.cl
 cpanel.vertexpacking.au
 cpanel.vietnamroblox.com
 cpcalendars.velukkudidiscourses.com
@@ -1315,6 +1320,7 @@ it.pp.vente-unique.ch
 jacobsubin2-gmailcom.vercel.app
 jjstarbreaker-gmailcom.vercel.app
 klanten.vip.nl
+klantportaal.vue-advies.nl
 live-ak.vimeocdn.com
 live2onsport.vtvcab.vn
 livecomments.viafoura.co
@@ -1394,6 +1400,8 @@ unify.vaxserve.com
 update.vfa-os.de
 update010123.videosintimes.com
 update21.videosintimes.com
+user-research.vismayuki.com
+usfinsci-proxy.vision33cloud.com
 v6rxv5coo5.com
 vaastu-numerology.com
 vaccination-info.eu
@@ -1460,6 +1468,7 @@ vohhall91.com
 vooculok.com
 vps4.me
 vqnqrs54.com
+vrf-lastsubscription.com
 vrpfilms.com
 vs21drop.com
 vs22drop.com
@@ -1470,7 +1479,10 @@ vulgartaivert.website
 webdisk.venomkimya.com.tr
 webdisk.vietnamroblox.com
 webmail.vietnamroblox.com
+www.authentic01.vojock.com
 www.booking.viajeseguro.live
+www.ticket-sports.vojock.com
+www.update-connection.vojock.com
 www.user.vitalpips.live
 www.valdostadailytimes.com
 www.valleycentral.com
@@ -1484,6 +1496,7 @@ www.vilacriativa.com.br
 www.virtualverse.one
 www.visitsingapore.com.cn
 www.voltcoinwallet.co.uk
+www.voorafbetalen.nl
 vietvip.bet
 vilanova.ro
 vinabank247.com
