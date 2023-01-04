@@ -1100,6 +1100,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungZaw11643048@twitter](https://twitter.com/AungZaw11643048/status/1478028534568214529) | advertise |
 | [Aungzaw26392868@twitter](https://twitter.com/Aungzaw26392868/status/1391635364394135553) | advertise |
 | [AungZaw39810644@twitter](https://twitter.com/AungZaw39810644/status/1384019489994338304) | advertise |
+| [Aungzaw45804460@twitter](https://twitter.com/Aungzaw45804460/status/1610696886171889665) | advertise |
 | [AungZaw54411828@twitter](https://twitter.com/AungZaw54411828/status/1396622525937819649) | advertise |
 | [AungZaw67675933@twitter](https://twitter.com/AungZaw67675933/status/1393983062665404418) | advertise |
 | [aungzawlatt151@twitter](https://twitter.com/aungzawlatt151/status/1387444510091739138) | advertise |
@@ -1802,6 +1803,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChaiwichitJarn3@twitter](https://twitter.com/ChaiwichitJarn3/status/1406515044427259904) | advertise |
 | [Chakkrit_bank24@twitter](https://twitter.com/Chakkrit_bank24/status/1392631487460114436) | advertise |
 | [Chaloewut09@twitter](https://twitter.com/Chaloewut09/status/1503882755629019138) | advertise |
+| [Chanatip_Saifah@twitter](https://twitter.com/Chanatip_Saifah/status/1610727845546061824) | advertise |
 | [Chanawee20@twitter](https://twitter.com/Chanawee20/status/1481902051361947648) | advertise |
 | [ChanAye00073908@twitter](https://twitter.com/ChanAye00073908/status/1390488182332874753) | advertise |
 | [CHANBAE21088600@twitter](https://twitter.com/CHANBAE21088600/status/1392122926711836676) | advertise |
@@ -9613,6 +9615,7 @@ Do not create new issue or we will close it as duplicate.
 | [stun71@twitter](https://twitter.com/stun71/status/1389220264244776963) | advertise |
 | [Stuurgurs@twitter](https://twitter.com/Stuurgurs/status/1453710354920452098) | advertise |
 | [Styler30091@twitter](https://twitter.com/Styler30091/status/1589511843814735873) | advertise |
+| [stylish27148631@twitter](https://twitter.com/stylish27148631/status/1610726376734339073) | advertise |
 | [su8lime@twitter](https://twitter.com/su8lime/status/1530683753948819456) | advertise |
 | [suabahasa@twitter](https://twitter.com/suabahasa/status/1464808940600893445) | advertise |
 | [SuatuoiB@twitter](https://twitter.com/SuatuoiB/status/1394638045916237831) | advertise |
@@ -10065,8 +10068,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
