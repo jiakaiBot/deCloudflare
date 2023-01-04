@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,228 |
 | net | 2,690 |
 | org | 1,935 |
-| de | 1,814 |
+| de | 1,815 |
 
 
 - Mastodon, Pleroma, etc
@@ -1043,6 +1043,7 @@ Here's a list of public Fediverse services.
 | `airen-no-jikken.icu` | No |
 | `airescommunes.ca` | No |
 | `airi.tv` | No |
+| `airikr.me` | No |
 | `airis.work` | No |
 | `airpollution.science` | No |
 | `airwaves.social` | Yes |
@@ -3780,6 +3781,7 @@ Here's a list of public Fediverse services.
 | `bolddaemon.com` | Yes |
 | `bolebook.com` | No |
 | `boles.social` | Yes |
+| `boles.xyz` | No |
 | `bolha.one` | Yes |
 | `bolha.photos` | Yes |
 | `bolha.social` | Yes |
@@ -14838,6 +14840,7 @@ Here's a list of public Fediverse services.
 | `jinteki.industries` | Yes |
 | `jinteki.link` | No |
 | `jinwei.me` | Yes |
+| `jinxd.tech` | No |
 | `jippi.dev` | Yes |
 | `jir.moe` | No |
 | `jis.work` | Yes |
@@ -27359,6 +27362,7 @@ Here's a list of public Fediverse services.
 | `schooner.social` | No |
 | `schosta.com` | No |
 | `schottkydio.de` | No |
+| `schrdr.nl` | No |
 | `schreiblehrling.de` | No |
 | `schub.social` | No |
 | `schuelerzeitung-elsensee.de` | Yes |
@@ -28205,7 +28209,6 @@ Here's a list of public Fediverse services.
 | `sindicato.social` | No |
 | `sindominio.net` | No |
 | `sineware.ca` | No |
-| `singaporebuses.app` | No |
 | `singee.site` | Yes |
 | `singersongwritodon.com` | No |
 | `singing.dog` | No |
@@ -31223,6 +31226,7 @@ Here's a list of public Fediverse services.
 | `thurk.org` | No |
 | `thurman.org.uk` | No |
 | `thurse.de` | No |
+| `thw-vlotho.de` | No |
 | `thx.gg` | Yes |
 | `thx.one` | Yes |
 | `thyme.se` | No |
@@ -33354,6 +33358,7 @@ Here's a list of public Fediverse services.
 | `void.ac` | Yes |
 | `void.garden` | No |
 | `void.gift` | Yes |
+| `void.holdings` | No |
 | `void.monster` | Yes |
 | `voided.ee` | No |
 | `voided.space` | Yes |
@@ -35545,7 +35550,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,241 |
-| Normal | 27,260 |
+| Normal | 27,265 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
