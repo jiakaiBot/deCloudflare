@@ -190,6 +190,7 @@ Do not create new issue or we will close it as duplicate.
 | [aanggoro14@twitter](https://twitter.com/aanggoro14/status/1393251527637159938) | advertise |
 | [aarashaaria@twitter](https://twitter.com/aarashaaria/status/1376873295639949315) | advertise |
 | [AAravindthkumar@twitter](https://twitter.com/AAravindthkumar/status/1396989298654650388) | advertise |
+| [aaressinfomedia@twitter](https://twitter.com/aaressinfomedia/status/1610560709615812609) | advertise |
 | [aaron54733902@twitter](https://twitter.com/aaron54733902/status/1400550977971818497) | advertise |
 | [aaronaboagye619@twitter](https://twitter.com/aaronaboagye619/status/1538699895145734144) | advertise |
 | [AaronHaughton12@twitter](https://twitter.com/AaronHaughton12/status/1582206604480774146) | advertise |
