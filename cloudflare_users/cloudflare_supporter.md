@@ -8211,6 +8211,7 @@ Do not create new issue or we will close it as duplicate.
 | [PNKPND1@twitter](https://twitter.com/PNKPND1/status/1408101550552199170) | advertise |
 | [pnsxmm@twitter](https://twitter.com/pnsxmm/status/1457586213062205449) | advertise |
 | [Pntien3@twitter](https://twitter.com/Pntien3/status/1383675689711198219) | advertise |
+| [PNuoc@twitter](https://twitter.com/PNuoc/status/1610630293219835905) | advertise |
 | [po0_0chen@twitter](https://twitter.com/po0_0chen/status/1455057369247858688) | advertise |
 | [PoarkM@twitter](https://twitter.com/PoarkM/status/1562708928625946624) | advertise |
 | [PoeChitEi2@twitter](https://twitter.com/PoeChitEi2/status/1405041271559753729) | advertise |
@@ -8589,6 +8590,7 @@ Do not create new issue or we will close it as duplicate.
 | [RBIN25079279@twitter](https://twitter.com/RBIN25079279/status/1392757432779034624) | advertise |
 | [rccoders@twitter](https://twitter.com/rccoders/status/1525855907405389824) | advertise |
 | [RcPias@twitter](https://twitter.com/RcPias/status/1562039171677847552) | advertise |
+| [RCT21896@twitter](https://twitter.com/RCT21896/status/1610630825846112257) | advertise |
 | [rc_aung@twitter](https://twitter.com/rc_aung/status/1400450996766052360) | advertise |
 | [rd8719@twitter](https://twitter.com/rd8719/status/1548813349982437378) | advertise |
 | [Rdd25036476@twitter](https://twitter.com/Rdd25036476/status/1556404502739181568) | advertise |
