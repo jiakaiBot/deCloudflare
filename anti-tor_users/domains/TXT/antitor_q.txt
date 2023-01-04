@@ -186,6 +186,7 @@ belavista.duckdns.org.printondemand.metech.domains.qloaked.com
 bnehome.duckdns.org0.shop.blog.ustt.domains.qloaked.com
 dynaserv.qivalon.com
 eu.questionpro.de
+evt.quicklizard.com
 exchange.qualysoft.com
 gitlab.git.git.gitlab.git.gitlab.sitemap.qualshop.online
 identityverify-wellsfargo.quantumtraveltowers.com.au
@@ -206,6 +207,7 @@ qqplans.test.qantas.com.au
 qsafe.biz
 qsafe.ro
 qtbb6.com
+qtesttristate.qtestnet.com
 quadrupleclick.com
 qualitykefir.com
 qualitypenn.com.co
@@ -224,6 +226,7 @@ quickpasss.com
 quokkacheeks.com
 quriousfly.com
 qwa3ldhn9u0t.com
+qyy.nu
 seif.clickbankbuilder-staging.domains.qloaked.com
 server.quality-it.eu
 servicedesk.quub.it
