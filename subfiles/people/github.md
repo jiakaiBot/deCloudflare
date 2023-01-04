@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [No challenge selectors found, unable to proceed.](https://github.com/FlareSolverr/FlareSolverr/issues/646)
 - [Cloudflare Pages Deployment Broken](https://github.com/ubiquity/ubiquity-dollar/issues/448)
 - [Cannot upload channel image, CORS issue](https://github.com/microfeed/microfeed/issues/32)
 - [PSA Car Controller in combination with Cloudflared Reverse Proxy/ External Access](https://github.com/Flodu31/HomeAssistant-PeugeotIntegration/issues/27)
