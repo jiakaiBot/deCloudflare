@@ -12528,6 +12528,7 @@ Here's a list of public Fediverse services.
 | `haskell.social` | Yes |
 | `haskovec.social` | No |
 | `hasslo.dev` | No |
+| `hasthebig.gay` | Yes |
 | `hastodon.org` | No |
 | `hastodon.social` | No |
 | `hata.casa` | No |
@@ -35487,7 +35488,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,224 |
+| Cloudflare | 8,225 |
 | Normal | 27,220 |
 
 
