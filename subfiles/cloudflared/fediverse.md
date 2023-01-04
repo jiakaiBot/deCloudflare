@@ -23880,6 +23880,7 @@ Here's a list of public Fediverse services.
 | `penclub.club` | Yes |
 | `pencricket.com` | No |
 | `pendorwright.com` | No |
+| `pengi-san.moe` | Yes |
 | `pengin.club` | Yes |
 | `pengins.dev` | No |
 | `penguicon.social` | No |
@@ -25689,7 +25690,7 @@ Here's a list of public Fediverse services.
 | `ramble.space` | No |
 | `rambleon.social` | No |
 | `ramblingreaders.org` | No |
-| `ramblings.social` | No |
+| `ramblings.social` | Yes |
 | `ramda.io` | No |
 | `ramen-fsm.eu.org` | No |
 | `ramendon.jp` | No |
@@ -35554,8 +35555,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,243 |
-| Normal | 27,268 |
+| Cloudflare | 8,245 |
+| Normal | 27,267 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
