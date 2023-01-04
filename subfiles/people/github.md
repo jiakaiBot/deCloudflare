@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Google Colab Support](https://github.com/dr413677671/PromptGallery-stable-diffusion-webui/issues/15)
 - [Return 500 error by cURL](https://github.com/ije/esm.sh/issues/484)
 - [No challenge selectors found, unable to proceed.](https://github.com/FlareSolverr/FlareSolverr/issues/646)
 - [Cloudflare Pages Deployment Broken](https://github.com/ubiquity/ubiquity-dollar/issues/448)
