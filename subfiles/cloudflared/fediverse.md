@@ -24127,6 +24127,7 @@ Here's a list of public Fediverse services.
 | `pianyu.cyou` | Yes |
 | `piaste.it` | No |
 | `piaty.ovh` | No |
+| `piazza.today` | No |
 | `pibvt.net` | Yes |
 | `picasoft.net` | No |
 | `pickle.zone` | Yes |
@@ -32961,7 +32962,7 @@ Here's a list of public Fediverse services.
 | `vampirebbs.org` | No |
 | `vamuki.club` | No |
 | `van-der-boom.nl` | No |
-| `van-hemmen.com` | No |
+| `van-hemmen.com` | Yes |
 | `van-ransbeeck.be` | No |
 | `van.blue` | Yes |
 | `vanbeek.nz` | No |
@@ -35553,7 +35554,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,242 |
+| Cloudflare | 8,243 |
 | Normal | 27,268 |
 
 
