@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,237 |
+| com | 5,241 |
 | social | 3,228 |
 | net | 2,690 |
-| org | 1,934 |
+| org | 1,935 |
 | de | 1,814 |
 
 
@@ -3542,6 +3542,7 @@ Here's a list of public Fediverse services.
 | `blaisemcrowly.com` | Yes |
 | `blake-hofer.net` | No |
 | `blake.earth` | Yes |
+| `blan.cc` | Yes |
 | `blanboom.org` | Yes |
 | `blank.org` | No |
 | `blankshrimp.com` | No |
@@ -7123,6 +7124,7 @@ Here's a list of public Fediverse services.
 | `deleteyourfacebook.today` | No |
 | `deli.st` | Yes |
 | `delic.fi` | No |
+| `delicesbdsm.fr` | No |
 | `delire.party` | No |
 | `deliverabilit.ie` | No |
 | `deliverydoubled.com` | Yes |
@@ -7172,6 +7174,7 @@ Here's a list of public Fediverse services.
 | `den.yt` | Yes |
 | `denibol.com` | No |
 | `denimu.ga` | No |
+| `deninet.com` | No |
 | `denizencity.com` | No |
 | `denizens.social` | No |
 | `denkbrettl.org` | No |
@@ -7633,6 +7636,7 @@ Here's a list of public Fediverse services.
 | `diversity.kitchen` | No |
 | `dividuate.me` | No |
 | `divineduty.xyz` | No |
+| `divinereel.com` | No |
 | `diviney.us` | No |
 | `division25.xyz` | No |
 | `divita.eu` | No |
@@ -14255,6 +14259,7 @@ Here's a list of public Fediverse services.
 | `isaaccronk.com` | No |
 | `isaacsu.com` | Yes |
 | `isabelle-santos.space` | No |
+| `isabelroses.live` | Yes |
 | `isacutie.net` | No |
 | `isaffine.name` | No |
 | `isafurry.baby` | No |
@@ -14969,6 +14974,7 @@ Here's a list of public Fediverse services.
 | `jon.eus` | No |
 | `jonahthen.com` | Yes |
 | `jonak.org` | No |
+| `jonamerica.com` | Yes |
 | `jonarbuckle.com` | No |
 | `jonas-heinz.eu` | Yes |
 | `jonaskoeritz.de` | No |
@@ -20001,6 +20007,7 @@ Here's a list of public Fediverse services.
 | `mktoho.social` | Yes |
 | `ml45.net` | No |
 | `mlabouri.fr` | No |
+| `mlaga97.space` | No |
 | `mlan.im` | No |
 | `mlborder.com` | No |
 | `mldn.jp` | No |
@@ -23359,6 +23366,7 @@ Here's a list of public Fediverse services.
 | `ovo.st` | Yes |
 | `owari.nl` | No |
 | `owatan.jp` | No |
+| `owenryan.us` | No |
 | `owenyoung.com` | Yes |
 | `owlcode.tech` | No |
 | `owlparliament.com` | No |
@@ -25030,6 +25038,7 @@ Here's a list of public Fediverse services.
 | `proptech.news` | No |
 | `propublica.org` | Yes |
 | `propulse.club` | No |
+| `proquality.ro` | No |
 | `prose.zone` | No |
 | `prosopa.org` | No |
 | `prosou.nu` | No |
@@ -28070,6 +28079,7 @@ Here's a list of public Fediverse services.
 | `sidewalken.com` | No |
 | `sidh.bzh` | No |
 | `sididoma.club` | Yes |
+| `sidlibrary.org` | Yes |
 | `sidlicious.net` | No |
 | `sidraco.in` | No |
 | `siebent.net` | No |
@@ -29632,6 +29642,7 @@ Here's a list of public Fediverse services.
 | `stuxnet.ai` | Yes |
 | `stuxstore.com` | Yes |
 | `stvmln.com` | No |
+| `stw2.xyz` | Yes |
 | `stylecheat.de` | No |
 | `styrofoamxylophone.com` | No |
 | `styx.org` | No |
@@ -31477,6 +31488,7 @@ Here's a list of public Fediverse services.
 | `tomboy.tech` | Yes |
 | `tombraider.chat` | No |
 | `tombraiderchronicles.com` | Yes |
+| `tombraidersocial.com` | Yes |
 | `tomcasavant.com` | No |
 | `tomcat.one` | Yes |
 | `tomcat.onefriendica` | No |
@@ -35532,8 +35544,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,235 |
-| Normal | 27,254 |
+| Cloudflare | 8,241 |
+| Normal | 27,260 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
