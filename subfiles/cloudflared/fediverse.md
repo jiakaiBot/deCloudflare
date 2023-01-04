@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,236 |
+| com | 5,237 |
 | social | 3,228 |
 | net | 2,690 |
 | org | 1,934 |
@@ -1386,6 +1386,7 @@ Here's a list of public Fediverse services.
 | `ama.ne.jp` | Yes |
 | `amaa.it` | No |
 | `amanda.systems` | Yes |
+| `amandaquraishi.com` | No |
 | `amane.moe` | Yes |
 | `amanite.be` | No |
 | `amanogawa.info` | No |
@@ -13012,7 +13013,7 @@ Here's a list of public Fediverse services.
 | `hitchin.live` | Yes |
 | `hitchtube.fr` | No |
 | `hiten.org` | No |
-| `hitime.space` | Yes |
+| `hitime.space` | No |
 | `hitithere.cafe` | No |
 | `hitkahaloot.tk` | No |
 | `hitobito.club` | No |
@@ -17475,6 +17476,7 @@ Here's a list of public Fediverse services.
 | `logorrhea.online` | Yes |
 | `logoss.eu` | No |
 | `lohn.in` | Yes |
+| `loicrobert.fr` | No |
 | `loirodonto.club` | No |
 | `lojinx.social` | Yes |
 | `lokal.social` | No |
@@ -26164,6 +26166,7 @@ Here's a list of public Fediverse services.
 | `rethinkplaces.social` | No |
 | `reticu.li` | No |
 | `retidurc.fr` | No |
+| `retiisi.eu` | No |
 | `retiolus.net` | No |
 | `retirenow.top` | Yes |
 | `retoldclassics.org` | No |
@@ -35529,8 +35532,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,236 |
-| Normal | 27,250 |
+| Cloudflare | 8,235 |
+| Normal | 27,254 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
