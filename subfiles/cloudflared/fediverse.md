@@ -26759,6 +26759,7 @@ Here's a list of public Fediverse services.
 | `rustedneuron.com` | No |
 | `rustlang.social` | Yes |
 | `rusty.cat` | No |
+| `rustynail.su` | No |
 | `rustysoft.de` | No |
 | `rustywinks.net` | Yes |
 | `rutan.info` | No |
@@ -32440,7 +32441,7 @@ Here's a list of public Fediverse services.
 | `uknow.moe` | No |
 | `ukpagan.com` | Yes |
 | `ukpats.io` | No |
-| `ukrainedao.love` | No |
+| `ukrainedao.love` | Yes |
 | `ukrainian.network` | No |
 | `ukrainian.social` | No |
 | `uksocial.cloud` | No |
@@ -35486,7 +35487,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,223 |
+| Cloudflare | 8,224 |
 | Normal | 27,220 |
 
 
