@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,254 |
-| social | 3,240 |
+| social | 3,241 |
 | net | 2,698 |
 | org | 1,942 |
 | de | 1,817 |
@@ -22180,6 +22180,7 @@ Here's a list of public Fediverse services.
 | `nonalogue.space` | No |
 | `nonbinary.be` | No |
 | `nonbinaryanalog.com` | No |
+| `nonbiri.social` | No |
 | `noncorporate.network` | No |
 | `nondeterministic.computer` | No |
 | `nonewfriends.club` | Yes |
@@ -35482,7 +35483,7 @@ Here's a list of public Fediverse services.
 | `zlatko.dev` | No |
 | `zld.red` | No |
 | `zlg.space` | No |
-| `zlhub.xyz` | No |
+| `zlhub.xyz` | Yes |
 | `zlma.org` | No |
 | `zlop.de` | No |
 | `zlucplayz.com` | Yes |
@@ -35630,7 +35631,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,258 |
+| Cloudflare | 8,259 |
 | Normal | 27,329 |
 
 
