@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,244 |
 | social | 3,233 |
 | net | 2,692 |
-| org | 1,936 |
+| org | 1,937 |
 | de | 1,817 |
 
 
@@ -4491,6 +4491,7 @@ Here's a list of public Fediverse services.
 | `campbell.social` | No |
 | `campdarling.com` | No |
 | `campduffel.social` | No |
+| `campfi.rs` | Yes |
 | `campfire.website` | No |
 | `campfollow.life` | No |
 | `campuschat.io` | No |
@@ -5310,6 +5311,7 @@ Here's a list of public Fediverse services.
 | `cleac.me` | No |
 | `cleantechnica.com` | No |
 | `clearairflying.com` | Yes |
+| `clearpixels.org` | Yes |
 | `cleasky.blue` | No |
 | `cleave.nz` | Yes |
 | `cleeb.net` | Yes |
@@ -24586,7 +24588,7 @@ Here's a list of public Fediverse services.
 | `podlibre.social` | No |
 | `podlibre.video` | No |
 | `podnews.net` | No |
-| `podnutz.us` | Yes |
+| `podnutz.us` | No |
 | `podpro.biz` | No |
 | `podricing.pw` | No |
 | `podsothoth.club` | No |
@@ -35579,8 +35581,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,251 |
-| Normal | 27,285 |
+| Cloudflare | 8,252 |
+| Normal | 27,286 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
