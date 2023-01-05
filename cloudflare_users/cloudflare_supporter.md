@@ -2939,6 +2939,7 @@ Do not create new issue or we will close it as duplicate.
 | [fatts_el@twitter](https://twitter.com/fatts_el/status/1569365314122514433) | advertise |
 | [Fat_Grizzly@twitter](https://twitter.com/Fat_Grizzly/status/1442666571634130944) | advertise |
 | [faucetbch@twitter](https://twitter.com/faucetbch/status/1416471725643075589) | advertise |
+| [FaucetTiquebet@twitter](https://twitter.com/FaucetTiquebet/status/1611136410408607746) | advertise |
 | [FauxSuave@twitter](https://twitter.com/FauxSuave/status/1569717708698324994) | advertise |
 | [Fauzan85586001@twitter](https://twitter.com/Fauzan85586001/status/1403997313991811072) | advertise |
 | [fauzanwahid@twitter](https://twitter.com/fauzanwahid/status/1519531527608352769) | advertise |
