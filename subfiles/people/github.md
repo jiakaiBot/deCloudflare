@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [penderdrill! is this still working?](https://github.com/784/OGU-Autobumper/issues/1)
 - [sops tasks broken](https://github.com/onedr0p/flux-cluster-template/issues/578)
 - [CloudFlare workers Response.type workaround](https://github.com/elbywan/wretch/issues/159)
 - [Error when initiate connection](https://github.com/terry3041/pyChatGPT/issues/95)
