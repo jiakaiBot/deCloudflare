@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,244 |
-| social | 3,231 |
-| net | 2,691 |
-| org | 1,935 |
-| de | 1,816 |
+| social | 3,233 |
+| net | 2,692 |
+| org | 1,936 |
+| de | 1,817 |
 
 
 - Mastodon, Pleroma, etc
@@ -11067,6 +11067,7 @@ Here's a list of public Fediverse services.
 | `gall.family` | Yes |
 | `gallegoiv.com` | No |
 | `gallifrey.es` | No |
+| `gallifrey.social` | No |
 | `gallinula.com` | No |
 | `gallion.sh` | No |
 | `galm.io` | No |
@@ -11715,6 +11716,7 @@ Here's a list of public Fediverse services.
 | `gnethomelinux.com` | No |
 | `gng.io` | No |
 | `gnieh.org` | No |
+| `gnien.no` | Yes |
 | `gnj.media` | No |
 | `gnlk.cc` | No |
 | `gnlk.ovh` | No |
@@ -11802,6 +11804,7 @@ Here's a list of public Fediverse services.
 | `godzillasbigjeans.com` | Yes |
 | `goe.land` | No |
 | `goehler.digital` | No |
+| `goes.social` | No |
 | `goethe12.de` | No |
 | `goettingen.social` | No |
 | `goev.social` | No |
@@ -23799,6 +23802,7 @@ Here's a list of public Fediverse services.
 | `pebcak.de` | Yes |
 | `pech.tech` | No |
 | `peck.li` | No |
+| `pedalkickers.de` | No |
 | `pede.rs` | No |
 | `pedesen.de` | No |
 | `pedo.house` | No |
@@ -24344,6 +24348,7 @@ Here's a list of public Fediverse services.
 | `pixelroiber.de` | No |
 | `pixels.pizza` | No |
 | `pixelspielemagazin.de` | No |
+| `pixelspieler.net` | No |
 | `pixey.org` | No |
 | `pixfed.com` | No |
 | `pixie.garden` | No |
@@ -27401,6 +27406,7 @@ Here's a list of public Fediverse services.
 | `schutte.me` | No |
 | `schwabenkneipe.de` | No |
 | `schwanksta.com` | Yes |
+| `schwanzer.online` | No |
 | `schwartzh.com` | No |
 | `schwartzwelt.xyz` | No |
 | `schwarzer.dev` | No |
@@ -28113,6 +28119,7 @@ Here's a list of public Fediverse services.
 | `sieweke.social` | No |
 | `sig21.net` | No |
 | `sigatu.com` | No |
+| `sigcrap.org` | No |
 | `sigdrifa.eu` | Yes |
 | `sigfried.be` | No |
 | `sighash.info` | Yes |
@@ -31753,6 +31760,7 @@ Here's a list of public Fediverse services.
 | `topteeth.xyz` | No |
 | `toque.town` | No |
 | `torb.no` | No |
+| `torbin.me` | No |
 | `torgo.com` | No |
 | `torguard.social` | No |
 | `torlaz.online` | No |
@@ -33152,6 +33160,7 @@ Here's a list of public Fediverse services.
 | `vgai.de` | No |
 | `vgc.social` | No |
 | `vger.cloud` | Yes |
+| `vgmastodon.it` | No |
 | `vgmnation.com` | No |
 | `vh13.de` | No |
 | `vheart.online` | No |
@@ -35570,8 +35579,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,250 |
-| Normal | 27,277 |
+| Cloudflare | 8,251 |
+| Normal | 27,285 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
