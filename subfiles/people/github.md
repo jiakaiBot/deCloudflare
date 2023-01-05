@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [sops tasks broken](https://github.com/onedr0p/flux-cluster-template/issues/578)
 - [CloudFlare workers Response.type workaround](https://github.com/elbywan/wretch/issues/159)
 - [Error when initiate connection](https://github.com/terry3041/pyChatGPT/issues/95)
 - [No longer able to require?](https://github.com/geelen/shellac/issues/12)
