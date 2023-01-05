@@ -30795,6 +30795,7 @@ Here's a list of public Fediverse services.
 | `thebadgers.live` | No |
 | `thebag.social` | No |
 | `thebarrens.nu` | No |
+| `thebased.club` | No |
 | `thebeeches.house` | No |
 | `thebene.fit` | No |
 | `thebergstrands.net` | No |
@@ -35609,7 +35610,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,256 |
-| Normal | 27,309 |
+| Normal | 27,310 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
