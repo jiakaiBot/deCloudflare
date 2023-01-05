@@ -308,9 +308,11 @@ autodiscover.zentuber.com
 betadrive.zoho.eu
 click.email.zalando-lounge.com
 client.zorgplatform.online
+clientes.zetaarquitetura.com.br
 culevit.zerovic.com
 datacenter.zolbermedia.com
 diakszeft-api.uat.zeelabs.online
+email.ziosuite.com
 es-logs.analytics-cluster.zedge.io
 etc-yizzz.zzux.com
 gateway.zscalerthree.net
@@ -328,11 +330,13 @@ secure-paypal-access-login-confirm-account.zmgconsulting.co.za
 service-line-messaging.zipzoft.online
 star-motor.zapads.co.il
 uat.service.payroll.zenyohr.com
+user.zgem.org
 web.zensys.app.br
 www.accountabuddy.zeromedia.com.au
 www.alternativnamedicina.com.mk.zemi.net.mk
 www.apply.zarnab.pk
 www.client-analytics.zerrohost.com
+www.clientes.zetaarquitetura.com.br
 www.creditrepairstlouis.com.zim4.com
 www.moneychannel.zeba.ro
 www.sendmoney.zonketech.org
