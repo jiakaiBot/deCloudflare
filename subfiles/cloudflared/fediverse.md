@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,254 |
-| social | 3,241 |
-| net | 2,698 |
+| com | 5,257 |
+| social | 3,242 |
+| net | 2,700 |
 | org | 1,942 |
 | de | 1,817 |
 
@@ -4209,6 +4209,7 @@ Here's a list of public Fediverse services.
 | `bubbletea.dev` | Yes |
 | `bubbletea.moe` | Yes |
 | `bubuit.net` | No |
+| `bucchere.com` | Yes |
 | `buceoluegoexisto.com` | No |
 | `buchwurm.social` | No |
 | `bucketofcrabs.club` | No |
@@ -4925,6 +4926,7 @@ Here's a list of public Fediverse services.
 | `chaouane.xyz` | Yes |
 | `chaox.ro` | Yes |
 | `chaoyu.us` | No |
+| `chaoznekoz.com` | No |
 | `chapril.org` | No |
 | `chapsterhood.com` | No |
 | `charade.social` | No |
@@ -5340,6 +5342,7 @@ Here's a list of public Fediverse services.
 | `climatejustice.rocks` | No |
 | `climatejustice.social` | No |
 | `climatejustice.video` | Yes |
+| `climatescienc.es` | No |
 | `clinchfire.social` | No |
 | `clinicians-exchange.org` | No |
 | `clintmoyer.com` | No |
@@ -5916,6 +5919,7 @@ Here's a list of public Fediverse services.
 | `cosmicdust.cloud` | No |
 | `cosmicfir.es` | No |
 | `cosmicfriends.org` | No |
+| `cosmick9.net` | Yes |
 | `cosmicnation.co` | No |
 | `cosmin.at` | No |
 | `cosmos.social` | Yes |
@@ -8105,6 +8109,7 @@ Here's a list of public Fediverse services.
 | `dshk.pro` | No |
 | `dshr.org` | No |
 | `dsmouse.net` | No |
+| `dsnv.net` | No |
 | `dsocialize.net` | Yes |
 | `dsrev.me` | Yes |
 | `dssc.io` | Yes |
@@ -11708,6 +11713,7 @@ Here's a list of public Fediverse services.
 | `glowing.surf` | No |
 | `glownow.club` | No |
 | `glowpen.eu` | No |
+| `gluck.cc` | No |
 | `glucose.rocks` | No |
 | `glueoh.com` | No |
 | `glukose.fr` | No |
@@ -13190,7 +13196,7 @@ Here's a list of public Fediverse services.
 | `home31.pw` | Yes |
 | `homebrewer.social` | Yes |
 | `homebrewserver.club` | No |
-| `homecloud.site` | No |
+| `homecloud.site` | Yes |
 | `homecomputing.fr` | No |
 | `homeip.net` | No |
 | `homelab.lt` | No |
@@ -17968,6 +17974,7 @@ Here's a list of public Fediverse services.
 | `m510.net` | No |
 | `m544.net` | Yes |
 | `m64.in` | Yes |
+| `m68k.church` | Yes |
 | `m6n.eu` | No |
 | `m6n.io` | No |
 | `m6n.jp` | No |
@@ -20890,6 +20897,7 @@ Here's a list of public Fediverse services.
 | `musing.studio` | No |
 | `musingsofanaspie.com` | No |
 | `musiq.fan` | Yes |
+| `musk.sucks` | No |
 | `muskless.social` | No |
 | `muskodon.ml` | No |
 | `muskodon.social` | Yes |
@@ -21473,6 +21481,7 @@ Here's a list of public Fediverse services.
 | `nelson.social` | Yes |
 | `nelson.zone` | Yes |
 | `nem.one` | Yes |
+| `nemargut.com` | No |
 | `nemertes.nl` | No |
 | `nemeto.fr` | No |
 | `nemo.click` | No |
@@ -24105,7 +24114,7 @@ Here's a list of public Fediverse services.
 | `philia.work` | Yes |
 | `philipcristiano.com` | Yes |
 | `philipjohn.social` | No |
-| `philipp-rosch.de` | No |
+| `philipp-rosch.de` | Yes |
 | `philipp.info` | No |
 | `philipphoefer.de` | No |
 | `phillipjordan.com` | Yes |
@@ -27864,6 +27873,7 @@ Here's a list of public Fediverse services.
 | `sfba.social` | No |
 | `sfbubble.net` | No |
 | `sfconservancy.org` | No |
+| `sffpc.io` | Yes |
 | `sfgreens.org` | No |
 | `sflan.uk` | Yes |
 | `sfss.space` | No |
@@ -28467,6 +28477,7 @@ Here's a list of public Fediverse services.
 | `sleeping.town` | No |
 | `sleepy.cafe` | No |
 | `sleepy.casa` | No |
+| `sleepy.cool` | No |
 | `sleepy.kiev.ua` | No |
 | `sleepy.social` | Yes |
 | `sleepy.tube` | No |
@@ -30509,6 +30520,7 @@ Here's a list of public Fediverse services.
 | `technicaldoctor.social` | No |
 | `technicat.cafe` | No |
 | `technick.org` | No |
+| `technobabble.social` | No |
 | `technodon.social` | No |
 | `technodro.me` | No |
 | `technodruide.ca` | No |
@@ -31419,6 +31431,7 @@ Here's a list of public Fediverse services.
 | `tippetarius.ru` | No |
 | `tipsyvixen.com` | No |
 | `tirr.dev` | Yes |
+| `tisato.live` | Yes |
 | `tissink.me` | No |
 | `titi.me.uk` | No |
 | `titilat.com` | Yes |
@@ -35631,8 +35644,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,259 |
-| Normal | 27,329 |
+| Cloudflare | 8,266 |
+| Normal | 27,335 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
