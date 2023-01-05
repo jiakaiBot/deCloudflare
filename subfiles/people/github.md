@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error when initiate connection](https://github.com/terry3041/pyChatGPT/issues/95)
 - [No longer able to require?](https://github.com/geelen/shellac/issues/12)
 - [Unable to verify contracts on etherscan](https://github.com/foundry-rs/foundry/issues/4036)
 - [Cloudflare catches CycleTLS](https://github.com/Danny-Dasilva/CycleTLS/issues/210)
