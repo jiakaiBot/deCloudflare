@@ -318,6 +318,7 @@ zmail.yogaplace.by
 adguard.services.yukihyo.nl
 b92.yahoo.co.jp
 b97.yahoo.co.jp
+case.yangoilahcustomerservice.com
 click.mail.yaliberty.org
 click.yourhealth-wellnessteam.com
 cms.yujinkai.org
@@ -326,6 +327,7 @@ coinbasepro-nlogin.yahoosites.com
 consent.youtube.com
 contactme.yusufhamitkaya.com
 cpcontacts.yourmobilefriendly.website
+cs-stage.yieldoptimizer.com
 cv.youbuy.com
 diehard.yandex.ru
 ecp.yusercontent.com
@@ -347,6 +349,8 @@ openweb.jac.yahoosandbox.com
 ov.youbuy.com
 pos.yesgrp.com
 qa.yalamanchili.in
+qa3-ag.yieldoptimizer.com
+reeddiffuser.yukha.com.my
 resize.yandex.net
 rest.edu.you-connect.de
 rest.edupub.you-connect.de
@@ -359,6 +363,7 @@ www.db.yugioh-card.com
 www.helpdesk.youngbox.id
 www.home.yummydelivery.et
 www.kauppa.ykkospalvelu.fi
+www.reeddiffuser.yukha.com.my
 www.y-koseiren.jp
 www.yakunet.com
 www.yasmeenabaya.com
@@ -388,5 +393,6 @@ yoursexpartner5.com
 yourtrax.com
 yourwebproject.net
 yoweszincoid.com
+ysajielectronica.com.py
 yuldash.com
 yuming.co.jp
