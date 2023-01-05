@@ -235,7 +235,7 @@ Here's a list of public Fediverse services.
 | `2-blog.net` | No |
 | `2017derby.biz` | No |
 | `20320514.com` | No |
-| `204.jp` | No |
+| `204.jp` | Yes |
 | `2077.win` | Yes |
 | `213.link` | No |
 | `21314.de` | No |
@@ -8108,6 +8108,7 @@ Here's a list of public Fediverse services.
 | `dscw.fr` | Yes |
 | `dshk.pro` | No |
 | `dshr.org` | No |
+| `dskofgrn.xyz` | No |
 | `dsmouse.net` | No |
 | `dsnv.net` | No |
 | `dsocialize.net` | Yes |
@@ -35644,7 +35645,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,266 |
+| Cloudflare | 8,267 |
 | Normal | 27,335 |
 
 
