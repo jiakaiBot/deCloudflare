@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare workers Response.type workaround](https://github.com/elbywan/wretch/issues/159)
 - [Error when initiate connection](https://github.com/terry3041/pyChatGPT/issues/95)
 - [No longer able to require?](https://github.com/geelen/shellac/issues/12)
 - [Unable to verify contracts on etherscan](https://github.com/foundry-rs/foundry/issues/4036)
