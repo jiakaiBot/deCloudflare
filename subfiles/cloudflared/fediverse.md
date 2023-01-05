@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,251 |
-| social | 3,238 |
-| net | 2,697 |
-| org | 1,941 |
+| com | 5,254 |
+| social | 3,240 |
+| net | 2,698 |
+| org | 1,942 |
 | de | 1,817 |
 
 
@@ -1557,6 +1557,7 @@ Here's a list of public Fediverse services.
 | `andoria.space` | No |
 | `andr3.net` | No |
 | `andr3w.net` | Yes |
+| `andreafranceschini.org` | No |
 | `andreas-edler.de` | No |
 | `andreaskilgus.de` | No |
 | `andreasrohner.at` | No |
@@ -3460,6 +3461,7 @@ Here's a list of public Fediverse services.
 | `bitwalker.eu` | Yes |
 | `bitwaves.de` | No |
 | `bitwig.community` | No |
+| `bitwiseanime.com` | No |
 | `bitworking.org` | No |
 | `bitzenbytes.com` | No |
 | `bitzeny.link` | Yes |
@@ -3500,6 +3502,7 @@ Here's a list of public Fediverse services.
 | `black.social` | Yes |
 | `black6.dev` | No |
 | `blackblock.rocks` | No |
+| `blackblocpolitics.com` | No |
 | `blackbrigade.org` | No |
 | `blackcanediary.com` | No |
 | `blackcat.ca` | Yes |
@@ -10568,6 +10571,7 @@ Here's a list of public Fediverse services.
 | `frei.social` | Yes |
 | `freiburg.social` | No |
 | `freie-linke.de` | No |
+| `freiewaehler.social` | No |
 | `freifalt.org` | No |
 | `freifunk-ansbach.de` | No |
 | `freifunk-fediverse.de` | No |
@@ -13966,6 +13970,7 @@ Here's a list of public Fediverse services.
 | `infocamp.digital` | No |
 | `infoheap.com` | No |
 | `infolattice.org` | No |
+| `infoq.social` | No |
 | `inforbidden.ink` | No |
 | `informaction.info` | No |
 | `informancer.eu` | No |
@@ -15966,6 +15971,7 @@ Here's a list of public Fediverse services.
 | `klemorali.guru` | No |
 | `kleph.eu` | No |
 | `klg-tree.jp` | No |
+| `kliklak.net` | No |
 | `klinikowski.pl` | No |
 | `klinikretter.de` | Yes |
 | `kliu.io` | Yes |
@@ -29829,6 +29835,7 @@ Here's a list of public Fediverse services.
 | `sunshine.town` | No |
 | `sunshinecoast.social` | No |
 | `sunshinegardens.org` | No |
+| `sunspot.icu` | No |
 | `sunville.org` | No |
 | `suomi-kp-31.xyz` | No |
 | `suomi.social` | No |
@@ -31762,6 +31769,7 @@ Here's a list of public Fediverse services.
 | `tootsahoy.com` | No |
 | `tootschat.com` | Yes |
 | `tootsmcgoots.io` | Yes |
+| `tootsmygoots.com` | No |
 | `tootsnoot.gq` | No |
 | `tootsocial.com` | Yes |
 | `tootspace.nl` | No |
@@ -33334,6 +33342,7 @@ Here's a list of public Fediverse services.
 | `vis4valentine.com` | No |
 | `visalian.com` | No |
 | `viserrin.me` | No |
+| `vish.link` | No |
 | `vishnurajeevan.com` | No |
 | `visible.pictures` | No |
 | `visionel.de` | No |
@@ -35622,7 +35631,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,258 |
-| Normal | 27,320 |
+| Normal | 27,329 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
