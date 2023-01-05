@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to verify contracts on etherscan](https://github.com/foundry-rs/foundry/issues/4036)
 - [Cloudflare catches CycleTLS](https://github.com/Danny-Dasilva/CycleTLS/issues/210)
 - [Google Colab Support](https://github.com/dr413677671/PromptGallery-stable-diffusion-webui/issues/15)
 - [Return 500 error by cURL](https://github.com/ije/esm.sh/issues/484)
