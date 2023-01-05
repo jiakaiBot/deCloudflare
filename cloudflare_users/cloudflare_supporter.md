@@ -9276,6 +9276,7 @@ Do not create new issue or we will close it as duplicate.
 | [Shireen21778793@twitter](https://twitter.com/Shireen21778793/status/1404067613232099332) | advertise |
 | [Shirogane1092@twitter](https://twitter.com/Shirogane1092/status/1384817156747972608) | advertise |
 | [Shiroizdabezt@twitter](https://twitter.com/Shiroizdabezt/status/1492443603813408768) | advertise |
+| [shirosora_lumie@twitter](https://twitter.com/shirosora_lumie/status/1611019334884954118) | advertise |
 | [shitaro2021@twitter](https://twitter.com/shitaro2021/status/1425783479455813635) | advertise |
 | [shitsura@twitter](https://twitter.com/shitsura/status/1551280376089387010) | advertise |
 | [shiva68995788@twitter](https://twitter.com/shiva68995788/status/1379824052232130561) | advertise |
