@@ -1395,6 +1395,7 @@ app.kazancinnoktasi.site
 apps.kiai.co
 auth.krassimir.dev
 authelia.krassimir.dev
+autodiscover.kabarbonekpersebaya.com
 autodiscover.kangs1600.site
 autopatcher.knv-power.ro
 beacon.krxd.net
@@ -1404,6 +1405,7 @@ catalog.lib.kyushu-u.ac.jp
 cl340.keap-link008.com
 click.klasresearch.com
 client-pavel.keenetic.pro
+client.knightstechnology.co.uk
 consumer.krxd.net
 contact.krausemonument.com
 cpanel.klimaservisairsolution.rs
@@ -1416,6 +1418,7 @@ dc1.ksn.kaspersky-labs.com
 dev2.kensetsu-cloud.jp
 dircomm.li.kernix.net
 directenrollment-3ds2.kasikornbank.com
+disco.san.kpmgcdd-fincrime.com
 discord.krypticrp.se
 dolap.guvenliodeme.k2stqk.ga
 ece88010.keap-link008.com
@@ -1429,6 +1432,7 @@ europm2025.com.e18dca092597d21a68cf17757-11476.sites.k-hosting.co.uk
 ftp.k4.cz
 galleries.cassie.karensbitches.com
 gastrikevatten-nrg.kravportal.se
+gateway-sby.pat.kobie.io
 git.alfrescohn.duckdns.org.gitlab.store.krylologiy.ru
 git.git.alfrescohn.duckdns.org.gitlab.store.krylologiy.ru
 git.git.git.gitlab.support.kaydzen.com
@@ -1490,6 +1494,7 @@ kelemobil.hu
 kelopronto.com
 kemetium.com
 kenben.net
+kentuckyecosolar.com
 kenzoventures.io
 ketoblastgummybears.net
 ketodis.com
@@ -1570,6 +1575,7 @@ kw3y5otoeuniv7e9rsi.com
 kwtnhdrmbx.com
 kximxxzsva.com
 kxnggkh2nj.com
+l.kuranosuke.jp
 ld978.keap-link015.com
 live.rebuild.medicalpetshirts.com.kiwicloud.nl
 live.rebuild.suitical.com.kiwicloud.nl
@@ -1577,6 +1583,7 @@ login.microsoftonline.com-oauth2-wa-authorize.kukakenya.com
 logisticsbureau.keap-link015.com
 m.kabum.com.br
 m.kazancinnoktasi.site
+mail.kabarbonekpersebaya.com
 mail.kreativeinc.in
 mdmapdev.kyoboezmore.co.kr
 microsoft-staging.kpcorp.com
@@ -1590,9 +1597,12 @@ nflshop.k77v.net
 nimfapi.kfintech.com
 nitro135.keenetic.pro
 nl-go.kelkoogroup.net
+ntest.kubewaf.com
+old.kontorexdata.se
 old.kryptonsecurity.co.za
 online.kclaims.com.my
 onza5050post.keenetic.link
+otevocalepad-1d836.kxcdn.com
 ou337.keap-link017.com
 owa.kcb.gov.kw
 paineldemo.kangudelivery.com.br
@@ -1631,6 +1641,7 @@ trk.klclick.com
 trk.klclick1.com
 trk.klclick2.com
 trk.klclick3.com
+trust-wallet.kccamp.com
 u2.kaspi.kz
 uatprepaid.ktcgroup.dev
 update.kenben.net
@@ -1647,6 +1658,7 @@ wpeproblog.store.admin.kleinformart.com
 www.5d0nf9aay8bpa6g.hostmaster.ledlighmail5.kino-teka.ru
 www.a1servicecenter.kvwebtech.in
 www.billing.khsmmpro.com
+www.client.knightstechnology.co.uk
 www.clientes.kleversoft.net
 www.clientnew.krishnakalyani.in
 www.clinicalservice.kassp.pl
@@ -1655,6 +1667,7 @@ www.feedback.kaher.edu.in
 www.gastrikevatten-nrg.kravportal.se
 www.kamukkissa.com
 www.kark.com
+www.karman-services.nl
 www.kauveryhospital.com
 www.kcentv.com
 www.ketk.com
@@ -1670,6 +1683,7 @@ www.kochlust-hengstmann.de
 www.kodami.it
 www.komisarnews.com
 www.komplett.no
+www.konzilijum.ba
 www.krcgtv.com
 www.kredyt-max-1.shop
 www.kredyt-max-10.shop
@@ -1731,8 +1745,10 @@ www.kredyt-max-8.shop
 www.kredyt-max-9.shop
 www.ksdenki.com
 www.kupobserwujacych.pl
+www.old.kontorexdata.se
 www.pakalljobs.karachijobsupdate.com
 www.rdm-mtsibnukatsir.kkmikalsel.com
+www.support.kresna.web.id
 www.git.git.login.kreolyar.ru
 www.git.re.secure.kleinformart.com
 www.gitlab.git.git.org.kolodes.com
