@@ -92,7 +92,7 @@ Here's a list of public Matrix services.
 | matrix.ohai.su | No |
 | matrix.ombreport.info | No |
 | pcriot.org | Yes |
-| perthchat.org | Yes |
+| matrix.perthchat.org | Yes |
 | matrix.pikaviestin.fi | No |
 | pragma-messenger.ch | No |
 | www.privacytools.io | Yes |
