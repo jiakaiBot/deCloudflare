@@ -847,6 +847,7 @@ alumnialliances.updatemyprofile.com
 apg.uteq.edu.mx
 api-uaz-prod.ukh.de
 api.unitynxt.com
+app.uniconn.me
 auth.apps.urlaubsverwaltung.cloud
 autodiscover.umgnet.com
 b01.ugwdevice.net
@@ -859,6 +860,7 @@ blog.blog.magento.wp.updatemy.website
 brasseriefred.updatemyprofile.com
 bvt.unitrontourism.com
 camaidopk7jeuoqifnvg.www.blog.test.naloxone.updatemy.website
+ccta.ufpb.br
 celltraveller.uke.de
 citrix.unicreditbank.ba
 click.e.unrefugees.org
@@ -874,6 +876,7 @@ dev-solr.unwomen.org
 dev.qa.unum.pl
 discord.unchained-esports.gg
 django-cms-test.uibk.ac.at
+dt.usf.education
 e5xx22pbfj94ot8.test.splendid-azure-site-677548.updatemy.website
 ebank.uaeb.uz
 ecf.mieb.uscourts.gov
@@ -898,6 +901,7 @@ login.ufc.com
 login.ujatcare.com
 maibxupgrade.usite.pro
 managemymove.usps.com
+marjan.unitrontourism.com
 media.unibet.fr
 mobilecore.api.uatbi.com.br
 money-recognition.apps.uraki.dev
@@ -921,6 +925,7 @@ slack.apps.uatbi.com.br
 ssp.usps.gov
 strea.umaru.to
 test.chem.uni-sofia.bg
+test.updatemiddelharnis.shop
 testclwd.uber.space
 token.uicpayment.com.tw
 u0054.com
@@ -983,6 +988,7 @@ upvcwindowssuffolk.co.uk
 uraskill.com
 urbistone.pt
 uriherrera.com
+urlc.online
 urlturbo.com
 urpotential.co.uk
 urquia.org
@@ -992,9 +998,11 @@ usaps-track.uspsvdvos.top
 usendbrazil.com
 user.fm
 usercontent.goog
+userio.nl
 userplace.net
 userstellar.com
 uspect.eu
+ussd.org.ua
 ussusd1centralff5.blob.core.usgovcloudapi.net
 usts.fr
 utme.uniqlo.com
@@ -1003,6 +1011,8 @@ uudzfbzthj.com
 uuhvungdag.com
 uvbyty.com
 v2.utefilm.no
+webdisk.uctc.xyz
+webmail.uctc.xyz
 webmail.uddoktatelecom.xyz
 withintelligence.ubpages.com
 www.account.ulohas.tw
@@ -1047,6 +1057,7 @@ www.urbanbaby.xyz
 www.urbandesignmentalhealth.com
 www.urbanoutfitters.com
 www.urmoney.info
+www.us-revivedaily.us
 www.usavisaconsultant.com
 www.uscourts.gov
 www.usda.gov
