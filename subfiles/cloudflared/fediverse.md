@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,250 |
-| social | 3,236 |
-| net | 2,695 |
-| org | 1,940 |
+| com | 5,251 |
+| social | 3,238 |
+| net | 2,697 |
+| org | 1,941 |
 | de | 1,817 |
 
 
@@ -3396,6 +3396,7 @@ Here's a list of public Fediverse services.
 | `biribiri.de` | No |
 | `biribiri.dev` | No |
 | `birth-online.de` | No |
+| `birthday.cat` | No |
 | `bisby.xyz` | No |
 | `bischoff-ibb.de` | No |
 | `biscuit.town` | No |
@@ -10091,6 +10092,7 @@ Here's a list of public Fediverse services.
 | `flashtrafficlabs.com` | Yes |
 | `flastodon.social` | No |
 | `flatearth.group` | No |
+| `flatland.town` | No |
 | `flatline.club` | No |
 | `flatline.online` | No |
 | `flatmountain.rocks` | No |
@@ -15092,6 +15094,7 @@ Here's a list of public Fediverse services.
 | `josta.me` | Yes |
 | `josz.space` | No |
 | `journa.host` | No |
+| `journalism.social` | No |
 | `journalist.social` | Yes |
 | `journodao.xyz` | Yes |
 | `journodon.com` | No |
@@ -15816,6 +15819,7 @@ Here's a list of public Fediverse services.
 | `kinesin.org` | No |
 | `kinetix.social` | Yes |
 | `kinexis.co.uk` | No |
+| `kingant.net` | No |
 | `kingdo.ms` | No |
 | `kingdown.fr` | No |
 | `kingdown.social` | No |
@@ -16489,6 +16493,7 @@ Here's a list of public Fediverse services.
 | `labriks.com` | Yes |
 | `labview.social` | No |
 | `labyrinth.social` | No |
+| `labyrinthos.org` | No |
 | `lac.one` | No |
 | `laca.dev` | No |
 | `lacajita.es` | No |
@@ -16776,6 +16781,7 @@ Here's a list of public Fediverse services.
 | `leathfam.com` | Yes |
 | `lebalkon.de` | No |
 | `lebe.gg` | No |
+| `lebeaunuage.net` | No |
 | `leblanc.io` | No |
 | `leboulaire.ovh` | No |
 | `lebrady.net` | No |
@@ -25906,6 +25912,7 @@ Here's a list of public Fediverse services.
 | `rcelko.ch` | No |
 | `rche-iidx.jp` | No |
 | `rcm.dev` | Yes |
+| `rcode.fi` | Yes |
 | `rcp.tf` | No |
 | `rcr.social` | No |
 | `rcrowley.org` | No |
@@ -26972,6 +26979,7 @@ Here's a list of public Fediverse services.
 | `sacspace.com` | No |
 | `sad.cab` | No |
 | `sad.earth` | No |
+| `sadecki.com` | No |
 | `sadgirl.club` | No |
 | `sadium.ml` | No |
 | `sadlads.com` | Yes |
@@ -28256,6 +28264,7 @@ Here's a list of public Fediverse services.
 | `sindicato.social` | No |
 | `sindominio.net` | No |
 | `sineware.ca` | No |
+| `singaporebuses.app` | No |
 | `singee.site` | Yes |
 | `singersongwritodon.com` | No |
 | `singing.dog` | No |
@@ -32762,6 +32771,7 @@ Here's a list of public Fediverse services.
 | `unraidcloud.de` | Yes |
 | `unraids.ml` | No |
 | `unreality.pink` | No |
+| `unrelated.family` | Yes |
 | `unrelenting.technology` | No |
 | `unrelentingly.online` | No |
 | `unroot.de` | No |
@@ -34182,6 +34192,7 @@ Here's a list of public Fediverse services.
 | `wisepoint.org` | No |
 | `wishy.co.uk` | No |
 | `wisskomm.social` | No |
+| `wit.social` | No |
 | `witch.academy` | No |
 | `witch.energy` | No |
 | `witch.garden` | No |
@@ -35610,8 +35621,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,256 |
-| Normal | 27,311 |
+| Cloudflare | 8,258 |
+| Normal | 27,320 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
