@@ -732,6 +732,7 @@ app.jet.vet
 application.jeffjobin.com
 apps.jucees.es.gov.br
 autodiscover.jornadacontradepressao.site
+autodiscover.jualmobil-toyota.com
 bj.jmoney.xyz
 blockchain101.work.nextplan.jetboy.jp
 booking.jonacor-charter.ru
@@ -790,11 +791,13 @@ jenonaw.com
 jeparamebel.co.id
 jerancoroofing.com
 jesseltontimes.com
+jessicaandnugraha.com
 jetcoin.io
 jetcontrol.ro
 jetflamedeliveryservice.com
 jetskiservice.ro
 jevicamoney.com
+jg-teknik.dk
 jh-industrieservice.de
 jhakkas.com.np
 jhpsandkasse.jfm360kunder.dk
@@ -869,6 +872,7 @@ trademarks.justia.com
 traininfo.jr-central.co.jp
 traininfo.jreast.co.jp
 ungit.service.joa.finance
+update-refs-student-id-from-appt-2227679983.backend-ci.junilearning.com
 user.113-clone-questionary-bugs.cnt-testcenter.r.jost-devops.de
 webdisk.jalanpintasemak.com
 webdisk.japan-secret-service.com
@@ -891,6 +895,7 @@ www.jennsecurity.com
 www.jetaasafetyandsecurity.in
 www.jetflamedeliveryservice.com
 www.jftc.go.jp
+www.jinjyagoshuin.com
 www.jll.co.uk
 www.jobapscloud.com
 www.jocelynrish.com
