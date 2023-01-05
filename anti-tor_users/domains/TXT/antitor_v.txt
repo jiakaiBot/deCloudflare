@@ -1063,7 +1063,6 @@ vswbill.com
 vunewbies.com
 vutaelectrical.com
 vwvwvwvw.com
-vz99.biz
 wafparis.prod.aws.vsct.fr
 wagmi-git-feat-moonpay-jpgstore.vercel.app
 wca.vozovoz.ru
@@ -1229,6 +1228,7 @@ api.via-backend.com
 api.virtusbank.com.br
 api.vivapp.live
 api.volkswagengroup.fr
+api2.vetrf.ru
 apigateway-stg.veritas.com
 apigateway.veritas.com
 apigw.vib.com.vn
@@ -1242,6 +1242,7 @@ auth.vinci.net
 auth.voguishcapital.com
 authentiquetravel.voyagerwebsites.com
 autodiscover.vanguardcapital.group
+autodiscover.versaofitness.site
 autodiscover.vortexmediaworkshops.com
 ba4b3ndin4m1c4.vercel.app
 bacanaplay.com.br.blog.wpsites.validbox.com
@@ -1360,6 +1361,7 @@ ownyourfuture.vanguard.com
 pelander.vanguard.com
 platform.dev.bip.va.gov
 portal-sentry-v2.vk.team
+prod-back-promo-allianz.valide.vc
 prod.intellicode.vsengsaas.visualstudio.com
 projetos.vipconnectssh.com
 promotion.vib.com.vn
@@ -1375,14 +1377,17 @@ santiagorodriguezmastoros-gmailcom.vercel.app
 sarageld-gmailcom.vercel.app
 securenet.vodafone.ie
 sentry.kube.viralgains.com
+servicedesk.vbg-it.de
 shakeitright-ws.pre.vodafone.pt
 shakeitright.pre.vodafone.pt
 sharepoint.vets-inc.com
 short.lit.vodafone.pt
 shubhamnitj-gmailcom.vercel.app
 sms.vodafone.pt
+sprint.vismaraet.nl
 staging.vvs-regnskap.no
 startblox.vercel.app
+static.voidboost.com
 stifin-blockchain.vercel.app
 sumitkumararora-gmailcom.vercel.app
 support.vlabsrepair.com
@@ -1403,6 +1408,7 @@ update21.videosintimes.com
 user-research.vismayuki.com
 usfinsci-proxy.vision33cloud.com
 v6rxv5coo5.com
+v789.asia
 vaastu-numerology.com
 vaccination-info.eu
 vaccinerights.com
@@ -1413,6 +1419,7 @@ validaciondedomicilios.com.mx
 valuelogic.one
 vampirov-bal.ru
 vancouverdjservice.ca
+vanguardwest.com
 vannersstadservice.se
 vantaitruongvy.com
 varechphugoid.com
@@ -1424,6 +1431,7 @@ vaugroar.com
 vawsmoocah.com
 vaytien57.com
 vbec.nl
+vcbdigibbaink.viettcoimbank.com
 veebox.co.uk
 vegas777netlogin.icu
 veggiebank.in
@@ -1440,6 +1448,7 @@ veritonic.com
 verseverify.com.ng
 verticalsysadmin.com
 vertigo-escort.com
+veryl.com
 vessoupy.com
 vestnikarche.com
 vetdeberg.com
@@ -1461,6 +1470,7 @@ visiblemeasures.com
 vistoolr.net
 vitalitywellnessmissoula.com
 vitaltech.com
+vivienholl.com
 vn88club.net
 vocco-escort.com
 vohhall71.com
@@ -1476,6 +1486,7 @@ vs23drop.com
 vuelodequimera.com.ar
 vulgamag.ca
 vulgartaivert.website
+vwin88.ltd
 webdisk.venomkimya.com.tr
 webdisk.vietnamroblox.com
 webmail.vietnamroblox.com
