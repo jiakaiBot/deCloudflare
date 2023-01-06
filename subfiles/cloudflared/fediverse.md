@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,260 |
-| social | 3,250 |
+| com | 5,261 |
+| social | 3,252 |
 | net | 2,703 |
 | org | 1,943 |
 | de | 1,820 |
@@ -12252,6 +12252,7 @@ Here's a list of public Fediverse services.
 | `guitar.rodeo` | Yes |
 | `guizzyordi.info` | No |
 | `gulacsi.eu` | No |
+| `gulas.ch` | No |
 | `guldner.eu` | Yes |
 | `gulovsen.io` | No |
 | `gulp.cafe` | No |
@@ -15986,6 +15987,7 @@ Here's a list of public Fediverse services.
 | `klazema.net` | No |
 | `klee-wife.moe` | Yes |
 | `klein.is` | No |
+| `klein.social` | No |
 | `klein.tl` | No |
 | `kleinbottle.club` | No |
 | `kleinheld.ch` | No |
@@ -15995,6 +15997,7 @@ Here's a list of public Fediverse services.
 | `kleinrot.net` | No |
 | `kleins.io` | No |
 | `kleio.dev` | No |
+| `klemm.one` | No |
 | `klemorali.guru` | No |
 | `kleph.eu` | No |
 | `klg-tree.jp` | No |
@@ -20948,6 +20951,7 @@ Here's a list of public Fediverse services.
 | `mutiny.today` | No |
 | `muto.me` | No |
 | `mutolo.social` | No |
+| `mutualaid.social` | No |
 | `mutualdon.social` | Yes |
 | `muu.space` | Yes |
 | `muuli.de` | No |
@@ -23335,6 +23339,7 @@ Here's a list of public Fediverse services.
 | `otherreality.net` | No |
 | `others.social` | No |
 | `otherwise.social` | No |
+| `otherworldsink.com` | Yes |
 | `oti.st` | No |
 | `otlab.dev` | Yes |
 | `otmns.net` | Yes |
@@ -35686,8 +35691,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,277 |
-| Normal | 27,366 |
+| Cloudflare | 8,278 |
+| Normal | 27,370 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
