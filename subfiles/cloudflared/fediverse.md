@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,264 |
+| com | 5,265 |
 | social | 3,253 |
 | net | 2,703 |
 | org | 1,944 |
@@ -13835,6 +13835,7 @@ Here's a list of public Fediverse services.
 | `im-paranoid.tk` | No |
 | `im.im` | No |
 | `im.sb` | Yes |
+| `im20a0.com` | No |
 | `imaag.de` | No |
 | `image-space.info` | No |
 | `imaginair.es` | No |
@@ -19813,6 +19814,7 @@ Here's a list of public Fediverse services.
 | `milktea.io` | Yes |
 | `milktr.uk` | No |
 | `milky.coffee` | No |
+| `milkyl.in` | Yes |
 | `millcrick.com` | No |
 | `millcrick.org` | No |
 | `millcrick.social` | No |
@@ -34359,6 +34361,7 @@ Here's a list of public Fediverse services.
 | `woem.space` | No |
 | `wogan.im` | No |
 | `wohlbrecht.eu` | No |
+| `wohlfarth.name` | No |
 | `wohmr.com` | No |
 | `wohnzimmer.social` | No |
 | `woho.ooo` | No |
@@ -35705,8 +35708,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,281 |
-| Normal | 27,381 |
+| Cloudflare | 8,282 |
+| Normal | 27,383 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
