@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,263 |
-| social | 3,252 |
+| com | 5,264 |
+| social | 3,253 |
 | net | 2,703 |
-| org | 1,943 |
+| org | 1,944 |
 | de | 1,820 |
 
 
@@ -2092,6 +2092,7 @@ Here's a list of public Fediverse services.
 | `artimec.social` | No |
 | `artisan.chat` | No |
 | `artisanlogiciel.net` | No |
+| `artism.place` | No |
 | `artist.cx` | No |
 | `artistalley.space` | No |
 | `artistsinthe.cloud` | No |
@@ -5171,6 +5172,7 @@ Here's a list of public Fediverse services.
 | `christianjunk.de` | No |
 | `christianwkaiser.de` | No |
 | `christmas.tattoo` | No |
+| `christmas2023.au` | No |
 | `christodon.com` | No |
 | `christopherhimes.com` | Yes |
 | `christopherjones.us` | No |
@@ -10155,6 +10157,7 @@ Here's a list of public Fediverse services.
 | `floe.earth` | No |
 | `flokinet.is` | No |
 | `flokinet.social` | No |
+| `flooded.club` | No |
 | `flooey.org` | No |
 | `floof.link` | Yes |
 | `floof.org` | No |
@@ -13318,6 +13321,7 @@ Here's a list of public Fediverse services.
 | `hostifi.com` | Yes |
 | `hostpath.de` | No |
 | `hostr.my.id` | Yes |
+| `hostservice.nl` | No |
 | `hostsharing.coop` | No |
 | `hostsharing.net` | No |
 | `hostux.coffee` | No |
@@ -13625,6 +13629,7 @@ Here's a list of public Fediverse services.
 | `ianbetteridge.com` | No |
 | `ianbgibson.com` | No |
 | `ianbrown.tech` | No |
+| `iandavies.org` | No |
 | `ianhopkinson.org.uk` | No |
 | `iankelling.org` | No |
 | `ianmjones.com` | No |
@@ -19959,6 +19964,7 @@ Here's a list of public Fediverse services.
 | `misfitropolis.club` | No |
 | `misfittoys.social` | No |
 | `mish.co` | No |
+| `misha.click` | Yes |
 | `mishkacloud.fun` | No |
 | `misjump.net` | No |
 | `miso.monster` | No |
@@ -21620,6 +21626,7 @@ Here's a list of public Fediverse services.
 | `nerdsteria.com` | No |
 | `nerdtreff.it` | No |
 | `nerdworks.casa` | Yes |
+| `nerdyfam.tech` | Yes |
 | `nerdynate.app` | No |
 | `nerdynate.com` | Yes |
 | `nerdynate.live` | Yes |
@@ -22473,7 +22480,7 @@ Here's a list of public Fediverse services.
 | `ntrp.lol` | No |
 | `ntrpg.net` | Yes |
 | `ntumfy.re` | No |
-| `ntwk.tk` | Yes |
+| `ntwk.tk` | No |
 | `ntwrkcdn.net` | No |
 | `nu.mba` | No |
 | `nuagelibre.fr` | No |
@@ -23174,6 +23181,7 @@ Here's a list of public Fediverse services.
 | `oral.world` | No |
 | `oran.ski` | No |
 | `orange-order.co.uk` | No |
+| `orange.farm` | Yes |
 | `orangechair.org` | No |
 | `orangehalo.net` | No |
 | `orangeliner.net` | No |
@@ -24397,6 +24405,7 @@ Here's a list of public Fediverse services.
 | `pixelfed.eu` | No |
 | `pixelfed.eus` | No |
 | `pixelfed.fi` | No |
+| `pixelfed.fo` | No |
 | `pixelfed.fr` | No |
 | `pixelfed.icu` | No |
 | `pixelfed.ink` | No |
@@ -30404,6 +30413,7 @@ Here's a list of public Fediverse services.
 | `tarunbauri.in` | Yes |
 | `taruntarun.net` | Yes |
 | `tasartir.cz` | No |
+| `taskcards.eu` | No |
 | `taslug.org.au` | Yes |
 | `tasmania.social` | No |
 | `tasmantis.net` | No |
@@ -30962,6 +30972,7 @@ Here's a list of public Fediverse services.
 | `thefediverse.ca` | Yes |
 | `theferret.social` | No |
 | `thefire.work` | Yes |
+| `thefirethesetimes.com` | No |
 | `thefishcrow.com` | No |
 | `thefishermenandthepriestess.com` | No |
 | `thefloatinglab.world` | No |
@@ -35416,6 +35427,7 @@ Here's a list of public Fediverse services.
 | `zedsocial.ca` | No |
 | `zee.li` | Yes |
 | `zeeborn.social` | No |
+| `zeeland.social` | No |
 | `zeero.dev` | No |
 | `zef.social` | No |
 | `zefirchik.xyz` | No |
@@ -35693,8 +35705,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,279 |
-| Normal | 27,371 |
+| Cloudflare | 8,281 |
+| Normal | 27,381 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
