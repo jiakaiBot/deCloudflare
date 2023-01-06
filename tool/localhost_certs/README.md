@@ -20,14 +20,26 @@ Here you can download SSL certificate for your localhost/network use.
 
 `Signed for: localhost.crimeflare.eu.org`
 
-- Public key file.
-- Private key file.
-- Last update hash, the value will be updated when above files are changed.
+- [Public key file](public.txt).
+- [Private key file](private.txt).
+- [Last update hash](update_hash.txt), the value will be updated when above files are changed.
+
+```
+You can use "Last update hash" to automatically fetch those certificates.
+
+like this:
+
+check "Last update hash"
+is the value changed?
+   download Public key.
+   download Private key.
+   restart server.
+```
 
 
 ## Example
 
-1. Bend your DNS to your desired IP address.
+**1**. **Bend** your DNS to your desired IP address.
 
 ```
 hosts:
@@ -35,7 +47,7 @@ hosts:
 127.0.0.1 localhost.crimeflare.eu.org
 ```
 
-2. Configure your server to use those certificate.
+**2**. **Configure** your server to use those certificate.
 
-3. Connect to `localhost.crimeflare.eu.org` via HTTPS!
+**3**. **Connect** to `localhost.crimeflare.eu.org` via HTTPS!
 
