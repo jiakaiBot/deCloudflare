@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,260 |
 | social | 3,250 |
-| net | 2,702 |
+| net | 2,703 |
 | org | 1,943 |
 | de | 1,820 |
 
@@ -13099,6 +13099,7 @@ Here's a list of public Fediverse services.
 | `hjarta.io` | No |
 | `hjklyubn.jp` | No |
 | `hjkos.com` | No |
+| `hk-shuttle.net` | Yes |
 | `hkc.social` | No |
 | `hkdon.com` | Yes |
 | `hklbgd.org` | No |
@@ -29637,6 +29638,7 @@ Here's a list of public Fediverse services.
 | `str.nz` | No |
 | `str4.com` | No |
 | `strabbit.com` | No |
+| `strac.au` | No |
 | `stracknet.com` | No |
 | `straffin.net` | No |
 | `strafpla.net` | No |
@@ -35684,8 +35686,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,276 |
-| Normal | 27,365 |
+| Cloudflare | 8,277 |
+| Normal | 27,366 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
