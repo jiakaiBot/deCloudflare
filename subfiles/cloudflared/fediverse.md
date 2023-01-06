@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,265 |
-| social | 3,254 |
+| com | 5,267 |
+| social | 3,260 |
 | net | 2,703 |
 | org | 1,944 |
-| de | 1,820 |
+| de | 1,822 |
 
 
 - Mastodon, Pleroma, etc
@@ -848,6 +848,7 @@ Here's a list of public Fediverse services.
 | `adforward.org` | No |
 | `adg.tech` | No |
 | `adhd.energy` | Yes |
+| `adhdthings.social` | No |
 | `adhoc.group` | No |
 | `adhoc.systems` | No |
 | `adhocmusic.com` | No |
@@ -3009,6 +3010,7 @@ Here's a list of public Fediverse services.
 | `beerbeer.tokyo` | No |
 | `beercore.de` | No |
 | `beerfactory.org` | No |
+| `beergeek.social` | No |
 | `beerinacan.com` | Yes |
 | `beery.beer` | Yes |
 | `beesbuzz.biz` | No |
@@ -4990,6 +4992,7 @@ Here's a list of public Fediverse services.
 | `chb.xyz` | No |
 | `chbk.co` | Yes |
 | `chbmeyer.de` | No |
+| `chc1.com` | Yes |
 | `che5hire.club` | No |
 | `cheatha.de` | No |
 | `checked.social` | No |
@@ -5649,6 +5652,7 @@ Here's a list of public Fediverse services.
 | `colorfur.com` | No |
 | `colorid.es` | Yes |
 | `colson.re` | No |
+| `colter.social` | No |
 | `colton.world` | No |
 | `com.de` | No |
 | `coma.pictures` | No |
@@ -12235,6 +12239,7 @@ Here's a list of public Fediverse services.
 | `guedes.com.pt` | Yes |
 | `guelink.de` | Yes |
 | `guerilla-economist.eu.org` | No |
+| `guerilla.studio` | No |
 | `guero.top` | No |
 | `guerra24.net` | Yes |
 | `guerredeclasse.fr` | No |
@@ -12893,6 +12898,7 @@ Here's a list of public Fediverse services.
 | `herokai.cafe` | No |
 | `herokuapp.com` | No |
 | `herolfg.com` | No |
+| `herrhaensel.de` | No |
 | `herrkochhatrecht.de` | No |
 | `herrliberg.online` | No |
 | `herrmontag.de` | No |
@@ -13319,6 +13325,7 @@ Here's a list of public Fediverse services.
 | `hostdon.jp` | No |
 | `hostdon.ne.jp` | Yes |
 | `hostdon.net` | No |
+| `hosterra.social` | No |
 | `hostg.ovh` | No |
 | `hostifi.com` | Yes |
 | `hostpath.de` | No |
@@ -15052,6 +15059,7 @@ Here's a list of public Fediverse services.
 | `jonarbuckle.com` | No |
 | `jonas-heinz.eu` | Yes |
 | `jonaskoeritz.de` | No |
+| `jonasled.de` | Yes |
 | `jonasx.de` | No |
 | `jonathancamp.co.uk` | No |
 | `jonathancandler.com` | No |
@@ -15283,6 +15291,7 @@ Here's a list of public Fediverse services.
 | `justpotato.net` | Yes |
 | `justtact.com` | No |
 | `justtelly.com` | No |
+| `justuskings.com` | No |
 | `justweb.dev` | No |
 | `juvenesco.eu` | No |
 | `juzt.social` | No |
@@ -21139,6 +21148,7 @@ Here's a list of public Fediverse services.
 | `mythic-beasts.com` | No |
 | `mythic.wtf` | Yes |
 | `mythik.co.uk` | No |
+| `mythology.social` | No |
 | `mythoughtprocess.info` | No |
 | `mytoot.de` | No |
 | `mytoot.net` | No |
@@ -23058,6 +23068,7 @@ Here's a list of public Fediverse services.
 | `ooops.cloud` | Yes |
 | `oopsall.gay` | Yes |
 | `oopscommand.com` | No |
+| `oort.social` | No |
 | `oortcloud.online` | No |
 | `oour.org` | No |
 | `ooxxcc.com` | Yes |
@@ -25606,6 +25617,7 @@ Here's a list of public Fediverse services.
 | `qwertqwefsday.eu` | No |
 | `qwerty.city` | No |
 | `qwq.dog` | Yes |
+| `qwq.mx` | Yes |
 | `qwq.ooo` | Yes |
 | `qwwwq.cat` | Yes |
 | `qzhou.dev` | Yes |
@@ -31335,7 +31347,7 @@ Here's a list of public Fediverse services.
 | `thorium.cc` | No |
 | `thorjhanson.com` | No |
 | `thorlaksson.com` | No |
-| `thosemartins.net` | No |
+| `thosemartins.net` | Yes |
 | `thoshiswelt.de` | No |
 | `thoster.net` | No |
 | `thotsofa304.club` | Yes |
@@ -35710,8 +35722,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,282 |
-| Normal | 27,385 |
+| Cloudflare | 8,286 |
+| Normal | 27,393 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
