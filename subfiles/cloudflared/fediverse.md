@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,262 |
+| com | 5,263 |
 | social | 3,252 |
 | net | 2,703 |
 | org | 1,943 |
@@ -9682,6 +9682,7 @@ Here's a list of public Fediverse services.
 | `fedida.com` | Yes |
 | `fedidb.org` | Yes |
 | `fedifence.social` | No |
+| `fedified.com` | Yes |
 | `fedifilm.art` | No |
 | `fedifilth.com` | No |
 | `fedifilth.tk` | No |
@@ -35692,7 +35693,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,278 |
+| Cloudflare | 8,279 |
 | Normal | 27,371 |
 
 
