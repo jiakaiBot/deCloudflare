@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,257 |
-| social | 3,243 |
+| social | 3,244 |
 | net | 2,700 |
 | org | 1,942 |
 | de | 1,818 |
@@ -13070,7 +13070,7 @@ Here's a list of public Fediverse services.
 | `hitobito.club` | No |
 | `hitomishinozaki.com` | No |
 | `hitoribocchi.org` | Yes |
-| `hitorino.club` | Yes |
+| `hitorino.club` | No |
 | `hitorino.moe` | Yes |
 | `hitorino.tv` | Yes |
 | `hitotsu.me` | No |
@@ -23529,6 +23529,7 @@ Here's a list of public Fediverse services.
 | `pachamamita.de` | No |
 | `pachi.house` | No |
 | `pachislodon.net` | No |
+| `pachy.social` | No |
 | `pachyder.me` | No |
 | `pachyderm.party` | No |
 | `pachyderme.net` | No |
@@ -35656,8 +35657,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,270 |
-| Normal | 27,343 |
+| Cloudflare | 8,269 |
+| Normal | 27,345 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
