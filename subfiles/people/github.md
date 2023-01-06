@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ValueError: Found wrong number (0) of constraints for dcim_device(virtual_chassis_id, vc_position)](https://github.com/netbox-community/netbox-docker/issues/920)
 - [SSL bypass for ingress that already does SSL termination](https://github.com/loft-sh/vcluster/issues/890)
 - [FEATURE Support for Cloudflare Workers](https://github.com/andytango/mupdf-js/issues/36)
 - [Can't export to CSV](https://github.com/jpatokal/openflights/issues/1164)
