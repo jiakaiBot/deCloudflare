@@ -1213,6 +1213,7 @@ a.vfgtg.com
 acdn01.vidox.net
 acmp.vero.co.nz
 adfs.vggm.nl
+airtickets.vvo.aero
 anketolog.vtb-leasing.com
 anpham2407-gmailcom.vercel.app
 api.ati.na.dp15.vwg-connect.com
@@ -1242,6 +1243,7 @@ auth.vinci.net
 auth.voguishcapital.com
 authentiquetravel.voyagerwebsites.com
 autodiscover.vanguardcapital.group
+autodiscover.vanguardseguridadindustrial.com
 autodiscover.versaofitness.site
 autodiscover.vortexmediaworkshops.com
 ba4b3ndin4m1c4.vercel.app
@@ -1282,6 +1284,7 @@ cpcontacts.velukkudidiscourses.com
 cpcontacts.videodyno.com.au
 cpcontacts.vietnamroblox.com
 cpcontacts.vighospitaljalandhar.com
+cpcontacts.vistana.com.ar
 cpcontacts.vortexmediaworkshops.com
 ctf0.vsec.university
 damanipms.visithatta.ae
@@ -1298,6 +1301,7 @@ discordservers-me.vercel.app
 docs.client.vl-logistic.com
 docs.client.vl-logistic.ru
 dryvoilmalaysia-gmailcom.vercel.app
+elian.vercel.app
 en.virtualhelpdesk.online
 enews.vietnamairlines.com
 ernestowusu80-gmailcom.vercel.app
@@ -1347,6 +1351,7 @@ navinghimire.vercel.app
 navinsoni262626.vercel.app
 nduhiu254-gmailcom.vercel.app
 news.voegol.com.br
+newyear.vegas-city.ru
 nginx-sa-httpcoinbaseregione.vikingdeals.be
 ngovanthien10598-gmailcom.vercel.app
 nitromicug.vercel.app
@@ -1365,6 +1370,7 @@ prod-back-promo-allianz.valide.vc
 prod.intellicode.vsengsaas.visualstudio.com
 projetos.vipconnectssh.com
 promotion.vib.com.vn
+prudhvichowdary14.vercel.app
 prustagedevpb.v3locitydev.com
 ramonponsmiralles-gmailcom.vercel.app
 raymondliang2015-gmailcom.vercel.app
@@ -1407,8 +1413,8 @@ update010123.videosintimes.com
 update21.videosintimes.com
 user-research.vismayuki.com
 usfinsci-proxy.vision33cloud.com
+v-suncoast.info
 v6rxv5coo5.com
-v789.asia
 vaastu-numerology.com
 vaccination-info.eu
 vaccinerights.com
@@ -1421,6 +1427,7 @@ vampirov-bal.ru
 vancouverdjservice.ca
 vanguardwest.com
 vannersstadservice.se
+vannik.co.za
 vantaitruongvy.com
 varechphugoid.com
 varslingshuset.no
@@ -1435,6 +1442,7 @@ vcbdigibbaink.viettcoimbank.com
 veebox.co.uk
 vegas777netlogin.icu
 veggiebank.in
+veinticuatrosietesecurity.cl
 velocitywls.virtusa.com
 veneziabeach-hotram.net
 venfioletadas.com
@@ -1446,6 +1454,7 @@ verifyid.id
 verifyphoto.id
 veritonic.com
 verseverify.com.ng
+vertexroofingandcladding.co.uk
 verticalsysadmin.com
 vertigo-escort.com
 veryl.com
@@ -1463,18 +1472,23 @@ vietnamroblox.com
 vieu.cc
 viewablemedia.net
 vikingstrength.ca
+vinduespudserservice.dk
 vinxy.uk
 vipbarcelonaescorts.com
 vipheliservices.com
 visiblemeasures.com
+vision-service.be
 vistoolr.net
 vitalitywellnessmissoula.com
 vitaltech.com
 vivienholl.com
 vn88club.net
 vocco-escort.com
+voessing.net
 vohhall71.com
 vohhall91.com
+volkerhartzsch.com
+vologda-oblast.ru
 vooculok.com
 vps4.me
 vqnqrs54.com
@@ -1495,6 +1509,7 @@ www.booking.viajeseguro.live
 www.ticket-sports.vojock.com
 www.update-connection.vojock.com
 www.user.vitalpips.live
+www.v12voice.com
 www.valdostadailytimes.com
 www.valleycentral.com
 www.vasculardiseasemanagement.com
@@ -1502,9 +1517,13 @@ www.vca-koeln.de
 www.vdoncasterescorts.co.uk
 www.veganzetta.org
 www.verifythis.com
+www.verkehrskunde.sh
+www.verstehbahnhof.de
 www.veteransecurityinc.com
 www.vilacriativa.com.br
+www.vinduesps.vinduespudserservice.dk
 www.virtualverse.one
+www.vision-service.be
 www.visitsingapore.com.cn
 www.voltcoinwallet.co.uk
 www.voorafbetalen.nl
