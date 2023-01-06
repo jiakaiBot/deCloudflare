@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [SSL bypass for ingress that already does SSL termination](https://github.com/loft-sh/vcluster/issues/890)
 - [FEATURE Support for Cloudflare Workers](https://github.com/andytango/mupdf-js/issues/36)
 - [Can't export to CSV](https://github.com/jpatokal/openflights/issues/1164)
 - [yay -Syu fails with "manjaro-sway.db failed to download"](https://github.com/manjaro-sway/manjaro-sway/issues/408)
