@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [verify_strict and weak-key forgery](https://github.com/dalek-cryptography/ed25519-dalek/issues/259)
 - [Invalid SSL certificate](https://github.com/JupiterBroadcasting/matrix/issues/12)
 - [penderdrill! is this still working?](https://github.com/784/OGU-Autobumper/issues/1)
 - [sops tasks broken](https://github.com/onedr0p/flux-cluster-template/issues/578)
