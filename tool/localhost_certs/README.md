@@ -3,7 +3,7 @@
 
 Looking for **SSL certificate for localhost**?
 
-Here you can download SSL certificate for your localhost/network use.
+Here you can download SSL certificate for your localhost or network use.
 
 `#FuckChrome for forcing localhost or network to use HTTPS #FuckGoogle`
 
@@ -22,7 +22,7 @@ Here you can download SSL certificate for your localhost/network use.
 
 - [Public key file](public.txt).
 - [Private key file](private.txt).
-- [Last update hash](update_hash.txt), the value will be updated when above files are changed.
+- [Last update hash](update_hash.json), the value will be updated when above files are changed.
 
 ```
 You can use "Last update hash" to automatically fetch those certificates.
