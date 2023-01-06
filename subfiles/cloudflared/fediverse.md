@@ -4043,6 +4043,7 @@ Here's a list of public Fediverse services.
 | `breadtube.tv` | No |
 | `breakblocks.social` | No |
 | `breakpoint.cafe` | No |
+| `breastmilk.club` | No |
 | `breau.ca` | No |
 | `brechanegra.net` | No |
 | `breeze.town` | No |
@@ -35709,7 +35710,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,282 |
-| Normal | 27,383 |
+| Normal | 27,384 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
