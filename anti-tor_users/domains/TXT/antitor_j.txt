@@ -724,6 +724,8 @@ yearmoney.jkxhg9.cf
 zmail.jbfaktor.hu
 adfs.jfpe.jus.br
 adfs.jmcbiz.com
+amazon-icfrtg.jungleheart.com
+amazon-izaqs.justdied.com
 api-ent1.jio.com
 api-st.jio.com
 api.jyro.io
@@ -749,6 +751,8 @@ cpcalendars.jorgecastroblog.com
 cpcalendars.juegoroblox.com
 cpcontacts.jalanpintasemak.com
 cpcontacts.japan-secret-service.com
+cpcontacts.jaringmitramandiri.com
+cpcontacts.jijione.net
 cpcontacts.juegoroblox.com
 d.joinhoney.com
 disco.jr93.de
@@ -787,6 +791,7 @@ jeejujou.net
 jeeptourpackage.com
 jeffmackinnon.com
 jeghomir.com
+jennyappleseed.co.uk
 jenonaw.com
 jeparamebel.co.id
 jerancoroofing.com
@@ -810,6 +815,7 @@ jmsi.pt
 jnxm2.com
 jobflixbd.com
 jobsassamalert.com
+jobsearcher.com
 joelgomezsanchez.me
 joergrupp.de
 johanndinges.com
@@ -824,7 +830,10 @@ jorbfstarn.com
 jordanmechner.com
 jorgecastroblog.com
 jorttiuyng.com
+josephuliano.com
 joshinweb.jp
+joshlong.com
+journalsproof.com
 joygaskin.com
 joyhaftsyears.com
 jr-central.co.jp
@@ -833,6 +842,7 @@ jrleachauthor.com
 juego-de-la-vida.ga
 juergeninez.com
 juicycash.net
+juletraeslevering.dk
 juliansummerhayes.com
 julolecalve.website
 jumpplusgoods.jp
@@ -860,8 +870,10 @@ repositorio.jfpe.jus.br
 sakuban.jsm.co.jp
 sandkasse-jhp.jfm360kunder.dk
 sante.journaldesfemmes.fr
+shop.edstore.gitlab.joshuaanello.com
 sign-in.amazon.go.jp.jp-webservice.info
 sip.jobcenter-ge.de
+sit-int-ev.jioreel.com
 spd-forum.jinr.ru
 storefront-qa.securetest.jeniusbank.com
 subscribe.justsystems.com
@@ -883,7 +895,9 @@ webmail.juegoroblox.com
 wiki.jarexibackblaze.xyz
 www.jaccs.co.jp
 www.jackiessewingservice.com
+www.jackson.org
 www.jacksrbetter.com
+www.jamesburgess.com
 www.janschwartzworkshops.com
 www.japinfinityservice.com
 www.jardin-services-paysagiste-lpa.fr
@@ -922,6 +936,8 @@ www.jrff.co.jp
 www.jrkyushu-kippu.jp
 www.jsdolls.com
 www.jthlvservice.se
+www.juanaperez.net
+www.juletraeslevering.dk
 www.jumbostay.com
 www.juming.com
 www.jungpost.com
