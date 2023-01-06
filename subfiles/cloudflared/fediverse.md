@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,242 |
 | net | 2,700 |
 | org | 1,942 |
-| de | 1,817 |
+| de | 1,818 |
 
 
 - Mastodon, Pleroma, etc
@@ -1207,6 +1207,7 @@ Here's a list of public Fediverse services.
 | `alextraterrestrial.net` | No |
 | `alexwennerberg.com` | No |
 | `alexx.ml` | Yes |
+| `alexyang.me` | Yes |
 | `alfazema.club` | No |
 | `alfheim.ca` | No |
 | `alfter.us` | No |
@@ -6810,6 +6811,7 @@ Here's a list of public Fediverse services.
 | `dasasozialenetzwerk.de` | Yes |
 | `dasaweb.de` | No |
 | `dasbiersec.com` | Yes |
+| `dasblog.io` | No |
 | `dasbrennen.org` | No |
 | `dasdeck.com` | No |
 | `dasforum.org` | No |
@@ -7329,6 +7331,7 @@ Here's a list of public Fediverse services.
 | `devery.eu` | Yes |
 | `deveth0.de` | No |
 | `devfs.xyz` | No |
+| `devgeek.io` | Yes |
 | `devianze.city` | No |
 | `device5.co.uk` | No |
 | `devil-children-alitaso.com` | Yes |
@@ -7461,6 +7464,7 @@ Here's a list of public Fediverse services.
 | `didierlaumen.be` | Yes |
 | `didiermary.fr` | No |
 | `didit.site` | No |
+| `didriksen.fo` | No |
 | `die-familie.link` | No |
 | `die-partei-reutlingen.de` | No |
 | `die-partei.social` | No |
@@ -7787,6 +7791,7 @@ Here's a list of public Fediverse services.
 | `dogiakos.com` | No |
 | `dogno.se` | Yes |
 | `dogs.chat` | No |
+| `dogs.photos` | No |
 | `dogsballs.net` | No |
 | `dogsex.org` | Yes |
 | `dogspin.xyz` | Yes |
@@ -8221,6 +8226,7 @@ Here's a list of public Fediverse services.
 | `dutchipoo.com` | No |
 | `dutchxs.com` | No |
 | `duti.tech` | No |
+| `dutka-is.de` | No |
 | `duwa.ng` | No |
 | `duxez.dev` | No |
 | `dv.buzz` | No |
@@ -11574,6 +11580,7 @@ Here's a list of public Fediverse services.
 | `gillesmertens.com` | No |
 | `gillyb.net` | Yes |
 | `gimme-sympathy.org` | No |
+| `gimon.zone` | No |
 | `gimp.chat` | No |
 | `ginatic.social` | No |
 | `gingadon.com` | Yes |
@@ -12392,6 +12399,7 @@ Here's a list of public Fediverse services.
 | `hacksrus.xyz` | Yes |
 | `hacktastic.org` | No |
 | `hackthebox.social` | No |
+| `hacktheplanet.be` | No |
 | `hackthis.space` | No |
 | `hacktivis.me` | No |
 | `hackto.me` | No |
@@ -14616,6 +14624,7 @@ Here's a list of public Fediverse services.
 | `janhamisch.de` | No |
 | `janherm.de` | No |
 | `janian.de` | No |
+| `janitor.chat` | No |
 | `jank.town` | No |
 | `jankambo.net` | No |
 | `janke.biz` | No |
@@ -20646,6 +20655,7 @@ Here's a list of public Fediverse services.
 | `mstdn.ca` | Yes |
 | `mstdn.cafe` | No |
 | `mstdn.camera` | No |
+| `mstdn.casa` | No |
 | `mstdn.cat` | No |
 | `mstdn.cc` | Yes |
 | `mstdn.cf` | Yes |
@@ -35645,8 +35655,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,267 |
-| Normal | 27,335 |
+| Cloudflare | 8,269 |
+| Normal | 27,343 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
