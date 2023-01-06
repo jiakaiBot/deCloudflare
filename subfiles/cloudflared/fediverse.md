@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,261 |
+| com | 5,262 |
 | social | 3,252 |
 | net | 2,703 |
 | org | 1,943 |
@@ -15829,6 +15829,7 @@ Here's a list of public Fediverse services.
 | `killerwhale.solutions` | No |
 | `killiwamps.com` | No |
 | `killmi.st` | No |
+| `killpc.com` | No |
 | `killrobot.com` | Yes |
 | `killtheradio.net` | No |
 | `kilo.cafe` | No |
@@ -35692,7 +35693,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,278 |
-| Normal | 27,370 |
+| Normal | 27,371 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
