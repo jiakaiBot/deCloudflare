@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,265 |
-| social | 3,253 |
+| social | 3,254 |
 | net | 2,703 |
 | org | 1,944 |
 | de | 1,820 |
@@ -4389,6 +4389,7 @@ Here's a list of public Fediverse services.
 | `byzero.de` | No |
 | `byzoni.org` | No |
 | `bzb.kz` | No |
+| `bzh.social` | No |
 | `c-c.lol` | Yes |
 | `c-cha.cc` | No |
 | `c-don.net` | No |
@@ -35710,7 +35711,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,282 |
-| Normal | 27,384 |
+| Normal | 27,385 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
