@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [FEATURE Support for Cloudflare Workers](https://github.com/andytango/mupdf-js/issues/36)
+- [Can't export to CSV](https://github.com/jpatokal/openflights/issues/1164)
 - [yay -Syu fails with "manjaro-sway.db failed to download"](https://github.com/manjaro-sway/manjaro-sway/issues/408)
 - [verify_strict and weak-key forgery](https://github.com/dalek-cryptography/ed25519-dalek/issues/259)
 - [Invalid SSL certificate](https://github.com/JupiterBroadcasting/matrix/issues/12)
