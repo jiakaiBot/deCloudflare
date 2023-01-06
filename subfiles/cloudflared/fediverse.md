@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,257 |
-| social | 3,242 |
+| social | 3,243 |
 | net | 2,700 |
 | org | 1,942 |
 | de | 1,818 |
@@ -29350,6 +29350,7 @@ Here's a list of public Fediverse services.
 | `stancik.cz` | No |
 | `standup-comics.net` | No |
 | `standyck.com` | No |
+| `stanford.social` | Yes |
 | `stani.se` | No |
 | `stanisic.nl` | Yes |
 | `staniverse.one` | No |
@@ -35655,7 +35656,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,269 |
+| Cloudflare | 8,270 |
 | Normal | 27,343 |
 
 
