@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,276 |
 | social | 3,271 |
-| net | 2,706 |
+| net | 2,707 |
 | org | 1,944 |
 | de | 1,823 |
 
@@ -2709,7 +2709,7 @@ Here's a list of public Fediverse services.
 | `bajsicki.com` | No |
 | `baka.social` | No |
 | `bakdos.de` | No |
-| `bakedbean.xyz` | No |
+| `bakedbean.xyz` | Yes |
 | `baker.network` | No |
 | `baker.uk` | No |
 | `baking.social` | No |
@@ -17807,6 +17807,7 @@ Here's a list of public Fediverse services.
 | `loyko.stream` | No |
 | `lpfm.social` | No |
 | `lpha-z.net` | No |
+| `lplab.net` | No |
 | `lpmcma.com` | Yes |
 | `lpn.systems` | Yes |
 | `lpo.host` | No |
@@ -35769,7 +35770,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,298 |
+| Cloudflare | 8,299 |
 | Normal | 27,428 |
 
 
