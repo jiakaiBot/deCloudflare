@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,268 |
+| com | 5,269 |
 | social | 3,263 |
 | net | 2,703 |
 | org | 1,944 |
@@ -1116,6 +1116,7 @@ Here's a list of public Fediverse services.
 | `akkoma.dev` | No |
 | `akkoma.net` | No |
 | `aklsh.me` | Yes |
+| `akmentins.com` | Yes |
 | `akoot.site` | No |
 | `akop.online` | No |
 | `aksel.at` | No |
@@ -4764,7 +4765,7 @@ Here's a list of public Fediverse services.
 | `cbrsocial.au` | Yes |
 | `cbruegg.com` | Yes |
 | `cbrx.io` | Yes |
-| `cbslocal.com` | No |
+| `cbslocal.com` | Yes |
 | `cc.bi` | No |
 | `cc2.at` | No |
 | `cc38.cc` | Yes |
@@ -35732,8 +35733,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,287 |
-| Normal | 27,402 |
+| Cloudflare | 8,289 |
+| Normal | 27,401 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
