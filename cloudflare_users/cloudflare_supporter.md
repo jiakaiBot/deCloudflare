@@ -8559,6 +8559,7 @@ Do not create new issue or we will close it as duplicate.
 | [RakeshK61313394@twitter](https://twitter.com/RakeshK61313394/status/1376649585691566081) | advertise |
 | [rakib558159@twitter](https://twitter.com/rakib558159/status/1513843716317855750) | advertise |
 | [rakibalshams17@twitter](https://twitter.com/rakibalshams17/status/1583178284140875777) | advertise |
+| [rakssak1698@twitter](https://twitter.com/rakssak1698/status/1611751794807537665) | advertise |
 | [RakWrathraiser@twitter](https://twitter.com/RakWrathraiser/status/1377330536742408194) | advertise |
 | [ramdonalhb@twitter](https://twitter.com/ramdonalhb/status/1395604254186872832) | advertise |
 | [Ramesh64443583@twitter](https://twitter.com/Ramesh64443583/status/1388522144590491650) | advertise |
@@ -11811,6 +11812,7 @@ Do not create new issue or we will close it as duplicate.
 | [zozozo65286220@twitter](https://twitter.com/zozozo65286220/status/1555692585901035521) | advertise |
 | [ZPyiphyo@twitter](https://twitter.com/ZPyiphyo/status/1386897802408566787) | advertise |
 | [zring_barzinjy@twitter](https://twitter.com/zring_barzinjy/status/1531738609983885312) | advertise |
+| [zrobit@twitter](https://twitter.com/zrobit/status/1611729247240065027) | advertise |
 | [zrqofficial@twitter](https://twitter.com/zrqofficial/status/1397715275596800000) | advertise |
 | [zScn4EFpzZCeVzx@twitter](https://twitter.com/zScn4EFpzZCeVzx/status/1383128637285683201) | advertise |
 | [zshell_zi@twitter](https://twitter.com/zshell_zi/status/1489283834311024645) | advertise |
