@@ -851,7 +851,6 @@ app.uniconn.me
 auth.apps.urlaubsverwaltung.cloud
 autodiscover.umgnet.com
 b01.ugwdevice.net
-backend.uniqa.at
 bigliettazione.sma.unipi.it
 billing.umbvafood.com
 blockchain-explorer.dev.mccormick.ublo.dev
@@ -899,6 +898,7 @@ instana-eum-prod.uspto.gov
 it.ua-avon.net
 jof8.unitea.jp
 leisuretop.unitrontourism.com
+live.malwine.uber.space
 login.ufc.com
 login.ujatcare.com
 maibxupgrade.usite.pro
@@ -978,6 +978,7 @@ up-app.unpluggedsystems.app
 upb.ac.id
 update-amazon.net
 update.md
+updategametoday.com
 updateit.space
 updatenusantara.id
 upeyganpell.website
@@ -1034,6 +1035,7 @@ www.login.unnet.com.br
 www.nrcs.usda.gov
 www.nrs.fs.usda.gov
 www.osticket.razziel2.usermd.net
+www.supportdiscord.utero.id
 www.test.updateconsulting.az
 www.u-buy.com.ua
 www.ubcpress.ca
@@ -1063,6 +1065,7 @@ www.updateit.space
 www.updatenusantara.id
 www.upn.to
 www.uppers.es
+www.uppsalastadsteater.se
 www.uralchem.com
 www.uralweb.ru
 www.urbanbaby.xyz
