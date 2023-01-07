@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,275 |
-| social | 3,269 |
+| social | 3,270 |
 | net | 2,706 |
 | org | 1,944 |
 | de | 1,823 |
@@ -8495,6 +8495,7 @@ Here's a list of public Fediverse services.
 | `eduposse.org` | No |
 | `edusocial.it` | No |
 | `edusol.info` | No |
+| `edutalk.social` | No |
 | `edutictac.gq` | No |
 | `eduvid.org` | No |
 | `edvdocs.info` | Yes |
@@ -35761,7 +35762,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,294 |
-| Normal | 27,423 |
+| Normal | 27,424 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
