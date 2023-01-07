@@ -125,6 +125,7 @@ Do not create new issue or we will close it as duplicate.
 | [68Mjd@twitter](https://twitter.com/68Mjd/status/1579154746451296256) | advertise |
 | [69Transylvania@twitter](https://twitter.com/69Transylvania/status/1468804258019659779) | advertise |
 | [77_naman@twitter](https://twitter.com/77_naman/status/1379437501786456065) | advertise |
+| [78NRC@twitter](https://twitter.com/78NRC/status/1611818270977568768) | advertise |
 | [80x5_jonathan@twitter](https://twitter.com/80x5_jonathan/status/1563428306694729731) | advertise |
 | [82G3eUUY0BFpiFP@twitter](https://twitter.com/82G3eUUY0BFpiFP/status/1393161725579382784) | advertise |
 | [82Thar@twitter](https://twitter.com/82Thar/status/1386958515932106754) | advertise |
@@ -877,6 +878,7 @@ Do not create new issue or we will close it as duplicate.
 | [arshia135563@twitter](https://twitter.com/arshia135563/status/1575086077362065409) | advertise |
 | [ArShin48050365@twitter](https://twitter.com/ArShin48050365/status/1383422252864065541) | advertise |
 | [ArshSin32893074@twitter](https://twitter.com/ArshSin32893074/status/1485148098816983044) | advertise |
+| [arsh_m302@twitter](https://twitter.com/arsh_m302/status/1611778176874676224) | advertise |
 | [Arsian84722563@twitter](https://twitter.com/Arsian84722563/status/1392123750821208068) | advertise |
 | [arslansheikh381@twitter](https://twitter.com/arslansheikh381/status/1467975634391601156) | advertise |
 | [ars_robotics@twitter](https://twitter.com/ars_robotics/status/1524778405308387330) | advertise |
@@ -2830,6 +2832,7 @@ Do not create new issue or we will close it as duplicate.
 | [ererernest@twitter](https://twitter.com/ererernest/status/1402204151765889025) | advertise |
 | [erfan3029@twitter](https://twitter.com/erfan3029/status/1595026944806068227) | advertise |
 | [erfann_rahmati@twitter](https://twitter.com/erfann_rahmati/status/1595678026494545920) | advertise |
+| [ErfanullahK@twitter](https://twitter.com/ErfanullahK/status/1611805214851432449) | advertise |
 | [Ericduo19201253@twitter](https://twitter.com/Ericduo19201253/status/1397342285428232194) | advertise |
 | [Erics87402408@twitter](https://twitter.com/Erics87402408/status/1537793280657989633) | advertise |
 | [EricWarnasch2@twitter](https://twitter.com/EricWarnasch2/status/1501394632424534018) | advertise |
@@ -11190,6 +11193,7 @@ Do not create new issue or we will close it as duplicate.
 | [wigan_mancs@twitter](https://twitter.com/wigan_mancs/status/1391843058933800963) | advertise |
 | [WiIIiam34@twitter](https://twitter.com/WiIIiam34/status/1391450619479662593) | advertise |
 | [WiiUDefender@twitter](https://twitter.com/WiiUDefender/status/1470609310484885504) | advertise |
+| [WikhnesHn@twitter](https://twitter.com/WikhnesHn/status/1611820867570511872) | advertise |
 | [wiki08795141@twitter](https://twitter.com/wiki08795141/status/1553016251651624960) | advertise |
 | [Wil64484180@twitter](https://twitter.com/Wil64484180/status/1384697118556712963) | advertise |
 | [wildannararya17@twitter](https://twitter.com/wildannararya17/status/1552724552907902977) | advertise |
