@@ -1213,6 +1213,7 @@ a.vfgtg.com
 acdn01.vidox.net
 acmp.vero.co.nz
 adfs.vggm.nl
+ai.vztrader.com
 airtickets.vvo.aero
 anketolog.vtb-leasing.com
 anpham2407-gmailcom.vercel.app
@@ -1229,6 +1230,7 @@ api.via-backend.com
 api.virtusbank.com.br
 api.vivapp.live
 api.volkswagengroup.fr
+api.vtbay.vn
 api2.vetrf.ru
 apigateway-stg.veritas.com
 apigateway.veritas.com
@@ -1265,6 +1267,7 @@ cdn3.vzwdm.com
 cekliveness.com.verifywajah.com
 cjohn772-gmailcom.vercel.app
 click.e.vsp.com
+click.vp.volatilitypredictor.com
 clicks.valk.nl
 cloud.e.vsp.com
 clouston.v3client.com
@@ -1318,6 +1321,7 @@ helpdesk.virginactive.com.sg
 hunterweii.vercel.app
 huuku901ax0bkdf.store.outlook.vermeernorthwest.com
 iam.vepdev.com
+infojreastmembereki.viewdns.net
 int-hm-rec-proj-kx.viamedis.fr
 int.vaicore.xyz
 int.viageo.ch
@@ -1366,12 +1370,14 @@ ownyourfuture.vanguard.com
 pelander.vanguard.com
 platform.dev.bip.va.gov
 portal-sentry-v2.vk.team
+postfixadmin.vmil.eu
 prod-back-promo-allianz.valide.vc
 prod.intellicode.vsengsaas.visualstudio.com
 projetos.vipconnectssh.com
 promotion.vib.com.vn
 prudhvichowdary14.vercel.app
 prustagedevpb.v3locitydev.com
+rajiv.vercel.app
 ramonponsmiralles-gmailcom.vercel.app
 raymondliang2015-gmailcom.vercel.app
 realdiscordmatters.vercel.app
@@ -1384,6 +1390,7 @@ sarageld-gmailcom.vercel.app
 securenet.vodafone.ie
 sentry.kube.viralgains.com
 servicedesk.vbg-it.de
+services.viededingue.fr
 shakeitright-ws.pre.vodafone.pt
 shakeitright.pre.vodafone.pt
 sharepoint.vets-inc.com
@@ -1396,6 +1403,7 @@ startblox.vercel.app
 static.voidboost.com
 stifin-blockchain.vercel.app
 sumitkumararora-gmailcom.vercel.app
+support.visometry.com
 support.vlabsrepair.com
 test.blog.blog.store.outlook.vermeernorthwest.com
 test.vau.auction
@@ -1422,6 +1430,7 @@ vainillaweddings.com
 valcester.com.br
 valerianworkshops.com
 validaciondedomicilios.com.mx
+validconnectify.com
 valuelogic.one
 vampirov-bal.ru
 vancouverdjservice.ca
@@ -1431,12 +1440,14 @@ vannik.co.za
 vantaitruongvy.com
 varechphugoid.com
 varslingshuset.no
+vascocity.com
 vaspo33.com
 vaspo36.com
 vattingbalak.com
 vaugroar.com
 vawsmoocah.com
 vaytien57.com
+vaytiennganhang.net
 vbec.nl
 vcbdigibbaink.viettcoimbank.com
 veebox.co.uk
@@ -1452,6 +1463,7 @@ verificare-gaze.ro
 verificaregaze.ro
 verifyid.id
 verifyphoto.id
+verifyuser-wf.com
 veritonic.com
 verseverify.com.ng
 vertexroofingandcladding.co.uk
@@ -1481,9 +1493,11 @@ vision-service.be
 vistoolr.net
 vitalitywellnessmissoula.com
 vitaltech.com
+vitpost.gq
 vivienholl.com
 vn88club.net
 vocco-escort.com
+voenews.com.br
 voessing.net
 vohhall71.com
 vohhall91.com
@@ -1505,7 +1519,13 @@ webdisk.venomkimya.com.tr
 webdisk.vietnamroblox.com
 webmail.vietnamroblox.com
 www.authentic01.vojock.com
+www.bestofhenricocounty.com.viajarfacil.info
 www.booking.viajeseguro.live
+www.delivery.vitoriafood.com.br
+www.idnpoker95.com.viajarfacil.info
+www.moneyline.vztrader.com
+www.southdakotasbest.com.viajarfacil.info
+www.superdryonsale.com.viajarfacil.info
 www.ticket-sports.vojock.com
 www.update-connection.vojock.com
 www.user.vitalpips.live
@@ -1520,11 +1540,14 @@ www.verifythis.com
 www.verkehrskunde.sh
 www.verstehbahnhof.de
 www.veteransecurityinc.com
+www.victoriafilmfestival.com
+www.videomarket.jp
 www.vilacriativa.com.br
 www.vinduesps.vinduespudserservice.dk
 www.virtualverse.one
 www.vision-service.be
 www.visitsingapore.com.cn
+www.vitpost.gq
 www.voltcoinwallet.co.uk
 www.voorafbetalen.nl
 vietvip.bet
