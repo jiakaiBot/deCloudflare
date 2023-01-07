@@ -423,7 +423,6 @@ bkits.com.br
 blackicedesigners.com
 blackiowanews.bulletin.com
 blackisgood.ch
-blackmountainsecurity.nl
 blacksunjournal.com
 blakesmediamanagement.com
 blendedminimalist.com
@@ -2858,6 +2857,7 @@ zmail.beton-krasnoarmejsk.ru
 abjandamelayu.blogspot.com
 access.bankinter.es
 accesscontrolint.b2clogin.com
+account.saas.beemata.dev
 ad.benagilcaves.com
 admin-api.nextgenpsd2bank-sbx.banfico.io
 admin.borneodelivery.com
@@ -2869,6 +2869,7 @@ alertmanager.prod.mzg.bestbytes.net
 amazon-pay.brightspotcdn.com
 amietravels.blogspot.com
 aokhoahocsenprint25.blogspot.com
+aon.police.be.ch
 aovpn2.brighton-hove.gov.uk
 api-cloud.app.bosch-diy.com
 api-cobrancas.bancovillela.com
@@ -2903,10 +2904,12 @@ ar.bankjazeera.com
 arnavutkoftepiyaz.business.site
 aspone-sandbox.biapi.pro
 auth-devops.dv.bond-pro.com
+auth.beazubi.de
 auth.bmwgroup.net
 auth.dev.bii-gmbh.com
 authentication.bancovillela.com
 authenticationmanager.bimco.org
+autoconfig.bmatch.cl
 autodiscover.bamin.com.br
 autodiscover.banglacoursebazar.online
 autodiscover.belezainstituto.site
@@ -2925,6 +2928,7 @@ baaomenaltho.com
 baasie.com
 bab-alaqar.com
 babalublog.com
+babymetalpodcast.com
 babypanda.com.co
 backlink-paketi.com.tr
 backlink-paketleri.com.tr
@@ -2983,6 +2987,7 @@ bastingestival.com
 baswstudynotes.com
 baton.ua
 battle-optimus.com
+bauser.com.br
 baxkit.com
 baykimya.com.tr
 bbet88.win
@@ -3020,6 +3025,7 @@ bertfairbank.ml
 bertonbox.fr
 berwickparksville.com
 besafe24.ro
+best.co.ua
 best247support.com
 bestbikes.com.ua
 bestdailystuffs.com
@@ -3040,6 +3046,8 @@ bglobalpost.com
 bgnindustrialtires.com
 bgtv24.com
 bhere.ro
+bhpulseportal.com
+bhwwecare.com
 bibel-baptistengemeinde.ch
 biblrac.eu
 bibodynow.com
@@ -3067,6 +3075,7 @@ billig-boligadvokat.dk
 billigbegravelser.dk
 billigelokaler.dk
 billigt.dk
+billingsinsurance.com
 billion8indonesia.com
 billionairestore.net
 billionbot.com
@@ -3097,6 +3106,7 @@ bjjtrainer.com.br
 bjmono.com
 blacksecurity.cl
 blackshibainu.finance
+blazefire.cloud
 blb.co.id
 blika.com
 blockchain1-wallet.com
@@ -3113,6 +3123,7 @@ blog.test.zmail.brodiecompanies.com
 blog.wp.mail.bigtruckandequipmenttrader.info
 blog.yahoojhd.biennale.info
 bloggater.com
+bloggzonen.se
 bloghear.com
 blogports.com
 blogrind.com
@@ -3140,14 +3151,15 @@ boacheeb.com
 boagotinha.online
 boatheeh.com
 bobilkjeden.no
-boda8malaysia.net
 bodydefendersmovie.com
+bodyextremes.com
 boligfritid.dk
 bolrookr.com
 bondowosonews.com
 bonthronesecurity.co.uk
 bonusl0gin.com
 boogie.com.ua
+bookcover.pt
 booking4night.com
 boomcarservice.ro
 borupost.dk
@@ -3177,6 +3189,8 @@ brickpaverpros.com
 bride-jp.com
 bridgeclub-dlv.nl
 bridgewatercanalguidedtours.com
+brigantiproperties.com
+brighamcityarmory.com
 brimola.bri.co.id
 bringmumiahome.com
 brioletredeyes.com
@@ -3329,6 +3343,7 @@ helpdesk.bethesda.org.au
 images.e.bmia.bloomberg.com
 insidemedicine.bulletin.com
 lakupandai.banksumut.co.id
+line.blockchain-authn.app
 login.bestapi.in
 m.beautypageants.in
 mail.bakmigmkids.com
@@ -3344,8 +3359,10 @@ paulhelmsdeep.blogspot.com
 pix.bancovillela.com
 podium.bulletin.com
 pop.billig-ps4.dk
+portal.bizmail.su
 prd-ptconnector.bosch-pt.com
 problogweb.brianlaundrienotebook.net
+pwc-us-api-mtm.blueja.io
 r18.bookwalker.jp
 rampingroaring.blogspot.com
 rdmedia.api.bbc.co.uk
@@ -3355,6 +3372,7 @@ servicemania.bluserwer.pl
 sjobs.brassring.com
 sp.baystars.co.jp
 staging.cs.labs.blackberry.com
+stg.bcportal.jp
 store.csgomroulette.biennale.info
 sunshop.dcswbnmqdg.billig-isolering.dk
 support.b2b.brainyoo.de
@@ -3374,6 +3392,7 @@ tokyo-fight-club-barshow-restaurant.business.site
 track.barreleyez.com
 va.banksumut.co.id
 vest.bankofbaroda.cyou
+w.behold.so
 web9512.web07.bero-webspace.de
 webdisk.banglacoursebazar.online
 webdisk.bankrotoadvokatas.lt
@@ -3388,13 +3407,16 @@ www.acesso.bancariosriopreto.com.br
 www.ar.bankjazeera.com
 www.babestationtube.com
 www.babsboomer-kinderkleding.nl
+www.babymallasdeseguridad.com
 www.baccredomatic.com
 www.balkannews.com.tr
 www.bankano.com
 www.bankfoot-coachworks.co.uk
 www.banqueting4you.online
 www.basilcanteen.com
+www.bauser.com.br
 www.bccsolution.co.id
+www.bcgneeds.store
 www.beautifuldiscord.life
 www.beauty-und-wellness-hotels.de
 www.bedsteservice.dk
@@ -3406,9 +3428,13 @@ www.benjerry.com
 www.bertsmithsubaru.com
 www.bestattung-zobel.de
 www.bestvetcare.com
+www.bhashini.gov.in
 www.biancaion.com
 www.bijbelsdigitaal.nl
 www.billdietrich.me
+www.billigesoveposer.dk
+www.billigpavillon.dk
+www.billingsinsurance.com
 www.billioneverltd.info
 www.billydavenport.com
 www.biocontrol.com.co
@@ -3439,13 +3465,16 @@ www.braybrookcleaningservice.com.au
 www.brazelspestcontrol.com
 www.brazelspestcontrol.com.au
 www.brazilianbreads.com
+www.bredband.se
 www.brides.com
 www.brilliant-objektservice.de
 www.britishwater.co.uk
 www.brothersgreenhouses.com
 www.bryancollier.com
+www.bryansroadplumbingservice.com
 www.bs-graveservice.no
 www.bsdnl.co.uk
+www.btsa.com
 www.bucks.radio
 www.burgosconecta.es
 www.businessinsider.in
@@ -3454,6 +3483,7 @@ www.butcherandbakerprovisions.com
 www.bybit-serviceudlejning.dk
 www.contact.buycaracalpet.com
 www.contao413.baselfellowship.org
+www.event.boosteducationservice.co.uk
 www.fintech.bankbkc.co.id
 www.git.adminportal.bestshopvk.pro
 www.kbstrack.bprkbs.co.id
@@ -3461,6 +3491,7 @@ www.medbee-client.bsconsultants.us
 www.motsaigon.binhminhsafety.com
 www.netbank.bankjazeera.com
 www.nnwga.bankmymobile.com
+www.test.bankolab.pl
 www.teste.billions.market
 www3.bcportal.jp
 email.best-telekom.net
