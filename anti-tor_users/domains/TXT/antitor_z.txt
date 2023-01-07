@@ -305,6 +305,7 @@ api.zodomus.com
 api.zurich.de
 ares.zixcentral.com
 assessments.zfco.com
+auth.znet.li
 autodiscover.zentuber.com
 betadrive.zoho.eu
 click.email.zalando-lounge.com
@@ -325,12 +326,14 @@ login.ziraatbankanturkey.com
 mail.zasgroup.com
 mail.zeusassociate.com
 newstore.ziondelivery.app.br
+paketbersihcepat.zonawanita.com
 pay.zivameshapewear.com
 paypal.com.zd-league.com
 perr.zspeed-cdn.com
 realwavecore-public-saas.gateway.zup.me
 secure-paypal-access-login-confirm-account.zmgconsulting.co.za
 service-line-messaging.zipzoft.online
+speechmatics-portal-design-update.znn.app
 star-motor.zapads.co.il
 uat.service.payroll.zenyohr.com
 user.zgem.org
@@ -342,6 +345,7 @@ www.client-analytics.zerrohost.com
 www.clientes.zetaarquitetura.com.br
 www.creditrepairstlouis.com.zim4.com
 www.moneychannel.zeba.ro
+www.paketbersihcepat.zonawanita.com
 www.sendmoney.zonketech.org
 www.z-father.co.jp
 www.zappos.com
@@ -354,6 +358,7 @@ www.zone-service.com
 www.zoomtventertainment.com
 www.zovni.ovh
 www.zwilnik.com
+www81.zippyshare.com
 www84.zippyshare.com
 zabavashop.in.ua
 zacharyballard.ml
