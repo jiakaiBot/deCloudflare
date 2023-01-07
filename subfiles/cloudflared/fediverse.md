@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 | com | 5,277 |
 | social | 3,271 |
 | net | 2,707 |
-| org | 1,944 |
-| de | 1,823 |
+| org | 1,946 |
+| de | 1,824 |
 
 
 - Mastodon, Pleroma, etc
@@ -968,6 +968,7 @@ Here's a list of public Fediverse services.
 | `afternoonauthor.online` | No |
 | `afternoonrobot.co.uk` | No |
 | `afterpod.com` | No |
+| `afterspace.rocks` | No |
 | `afterway.ga` | Yes |
 | `afterway.pw` | Yes |
 | `afteryu.me` | Yes |
@@ -6921,6 +6922,7 @@ Here's a list of public Fediverse services.
 | `davidanaxagoras.com` | No |
 | `davidbankshome.co.uk` | No |
 | `davidbisset.social` | No |
+| `davidbrush.info` | No |
 | `davidciani.com` | Yes |
 | `davidcs.net` | No |
 | `davidgarywood.com` | No |
@@ -10392,6 +10394,7 @@ Here's a list of public Fediverse services.
 | `fossil.wang` | No |
 | `fossium.space` | Yes |
 | `fosslife.org` | No |
+| `fosspri.de` | No |
 | `fosstodon.org` | No |
 | `fossworld.hu` | No |
 | `fostodon.uk` | No |
@@ -11114,6 +11117,7 @@ Here's a list of public Fediverse services.
 | `gaime.fr` | No |
 | `gainer.cloud` | No |
 | `gaiserik.com` | Yes |
+| `gaithersburgnewsletter.org` | No |
 | `gajsin.name` | No |
 | `gaku-tab-kill.com` | Yes |
 | `gaku-tab-love.com` | Yes |
@@ -15637,6 +15641,7 @@ Here's a list of public Fediverse services.
 | `kcl.academy` | No |
 | `kcmo.social` | No |
 | `kcore.org` | Yes |
+| `kcsocial.us` | No |
 | `kcubeterm.com` | Yes |
 | `kd0bpv.name` | No |
 | `kd0ioe.com` | No |
@@ -17302,6 +17307,7 @@ Here's a list of public Fediverse services.
 | `liminal.lgbt` | No |
 | `liminalearth.social` | No |
 | `liminalismo.com` | No |
+| `liminalweb.site` | Yes |
 | `limited.systems` | No |
 | `lin.cat` | Yes |
 | `lin.codes` | Yes |
@@ -17441,6 +17447,7 @@ Here's a list of public Fediverse services.
 | `littlejoy.xyz` | Yes |
 | `littleoni.net` | Yes |
 | `littleplanet.life` | No |
+| `littleroom.io` | No |
 | `littletheorem.com` | Yes |
 | `littleturnip.net` | Yes |
 | `littr.me` | Yes |
@@ -22913,6 +22920,7 @@ Here's a list of public Fediverse services.
 | `okinawa-mstdn.okinawa` | No |
 | `okinawadon.okinawa` | No |
 | `okinkin.top` | Yes |
+| `okkema.org` | Yes |
 | `okkikki.tokyo` | No |
 | `okko.io` | No |
 | `okla.social` | Yes |
@@ -35641,6 +35649,7 @@ Here's a list of public Fediverse services.
 | `zoc.me` | Yes |
 | `zocradio.info` | No |
 | `zoddo.fr` | No |
+| `zode.me` | No |
 | `zoethical.org` | No |
 | `zoeymae.tk` | No |
 | `zoeyvid.de` | Yes |
@@ -35774,8 +35783,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,299 |
-| Normal | 27,432 |
+| Cloudflare | 8,301 |
+| Normal | 27,439 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
