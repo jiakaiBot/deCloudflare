@@ -1314,6 +1314,7 @@ Do not create new issue or we will close it as duplicate.
 | [Basuki_null@twitter](https://twitter.com/Basuki_null/status/1394215228364115970) | advertise |
 | [batajoonp@twitter](https://twitter.com/batajoonp/status/1562996003825156101) | advertise |
 | [Batmancin@twitter](https://twitter.com/Batmancin/status/1441297464389029896) | advertise |
+| [bayuart@twitter](https://twitter.com/bayuart/status/1611784224138489856) | advertise |
 | [bay_yellk@twitter](https://twitter.com/bay_yellk/status/1405940589284233220) | advertise |
 | [ba_gyee@twitter](https://twitter.com/ba_gyee/status/1393872315771850752) | advertise |
 | [bbbbba911@twitter](https://twitter.com/bbbbba911/status/1402935512663535618) | advertise |
