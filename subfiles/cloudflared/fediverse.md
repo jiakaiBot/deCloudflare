@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,275 |
-| social | 3,270 |
+| social | 3,271 |
 | net | 2,706 |
 | org | 1,944 |
 | de | 1,823 |
@@ -1367,6 +1367,7 @@ Here's a list of public Fediverse services.
 | `alternativons.com` | No |
 | `alternativos.pt` | No |
 | `alterracloud.com` | Yes |
+| `alterspheres.fr` | No |
 | `altertek.org` | No |
 | `altervista.org` | Yes |
 | `alterw.fr` | No |
@@ -7867,6 +7868,7 @@ Here's a list of public Fediverse services.
 | `doneydenouden.com` | Yes |
 | `dong.army` | No |
 | `dong.engineer` | No |
+| `dongs.social` | Yes |
 | `dongxi.ca` | Yes |
 | `donjuans.page` | No |
 | `donk.pm` | Yes |
@@ -16547,6 +16549,7 @@ Here's a list of public Fediverse services.
 | `laaw.nrw` | No |
 | `lab-kadokawa.com` | No |
 | `lab.am` | No |
+| `lab.how` | No |
 | `lab.nrw` | No |
 | `lab61.org` | No |
 | `labalagan.fr` | No |
@@ -17687,6 +17690,7 @@ Here's a list of public Fediverse services.
 | `lord.sh` | Yes |
 | `lordinateur.tech` | Yes |
 | `lordofthedummies.com` | No |
+| `lore.monster` | Yes |
 | `lorem.club` | No |
 | `loren.pics` | No |
 | `lorenzi.one` | Yes |
@@ -23465,6 +23469,7 @@ Here's a list of public Fediverse services.
 | `outdoors.lgbt` | No |
 | `outdoors.social` | No |
 | `outergod.art` | No |
+| `outerheaven.cc` | No |
 | `outerheaven.club` | No |
 | `outerspace.place` | No |
 | `outerweb.social` | No |
@@ -35761,8 +35766,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,294 |
-| Normal | 27,424 |
+| Cloudflare | 8,296 |
+| Normal | 27,427 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
