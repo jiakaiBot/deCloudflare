@@ -3456,6 +3456,7 @@ Here's a list of public Fediverse services.
 | `bitschubser.dev` | No |
 | `bitseatech.com` | No |
 | `bitsec.org` | No |
+| `bitsnbytes.chat` | No |
 | `bitsof.tech` | No |
 | `bitstick.rip` | Yes |
 | `bitterhusk.net` | No |
@@ -5662,6 +5663,7 @@ Here's a list of public Fediverse services.
 | `combatbahai.com` | No |
 | `combiner.team` | No |
 | `comedyclub.social` | No |
+| `comelibros.club` | No |
 | `comerocudequemestalendo.com` | No |
 | `cometary.org` | No |
 | `cometeo.com` | No |
@@ -20313,6 +20315,7 @@ Here's a list of public Fediverse services.
 | `monigatti.net` | No |
 | `monigh.nl` | No |
 | `monika.im` | Yes |
+| `monke.fail` | No |
 | `monke.fans` | Yes |
 | `monkee.ch` | No |
 | `monkey.org` | No |
@@ -35723,7 +35726,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,286 |
-| Normal | 27,393 |
+| Normal | 27,396 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
