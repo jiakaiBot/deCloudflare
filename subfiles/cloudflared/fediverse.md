@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,275 |
+| com | 5,276 |
 | social | 3,271 |
 | net | 2,706 |
 | org | 1,944 |
@@ -4526,6 +4526,7 @@ Here's a list of public Fediverse services.
 | `canarygateway.com` | No |
 | `canberrasocial.net` | No |
 | `cancelcultu.re` | No |
+| `cancn.com` | No |
 | `cancoillotte.space` | No |
 | `cancri.me` | No |
 | `candim.eu` | Yes |
@@ -5496,6 +5497,7 @@ Here's a list of public Fediverse services.
 | `coalition.zone` | No |
 | `coasterfreak88.net` | No |
 | `coatandlinen.com` | No |
+| `coates.life` | Yes |
 | `coazergues.info` | No |
 | `cobaltia.org` | No |
 | `cobaltkiss.blue` | Yes |
@@ -10119,6 +10121,7 @@ Here's a list of public Fediverse services.
 | `fkn-systems.de` | No |
 | `fkpk.org` | Yes |
 | `fl0w.fr` | No |
+| `fla.am` | Yes |
 | `fla.red` | Yes |
 | `flabs.org` | No |
 | `flach.land` | No |
@@ -35766,8 +35769,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,296 |
-| Normal | 27,427 |
+| Cloudflare | 8,298 |
+| Normal | 27,428 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
