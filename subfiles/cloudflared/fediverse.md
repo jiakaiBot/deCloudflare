@@ -6699,6 +6699,7 @@ Here's a list of public Fediverse services.
 | `dananglin.me.uk` | No |
 | `danbruno.net` | No |
 | `dance-dance-dance.space` | No |
+| `dancefight.club` | No |
 | `dancemusic-mstdn.com` | No |
 | `dancingbanana.party` | Yes |
 | `dancohen.org` | No |
@@ -35760,7 +35761,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,294 |
-| Normal | 27,422 |
+| Normal | 27,423 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
