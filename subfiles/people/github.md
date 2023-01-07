@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error In Deploy operation](https://github.com/microfeed/microfeed/issues/38)
 - [Verify error:no valid A records found](https://github.com/acmesh-official/acme.sh/issues/4459)
 - [ValueError: Found wrong number (0) of constraints for dcim_device(virtual_chassis_id, vc_position)](https://github.com/netbox-community/netbox-docker/issues/920)
 - [SSL bypass for ingress that already does SSL termination](https://github.com/loft-sh/vcluster/issues/890)
