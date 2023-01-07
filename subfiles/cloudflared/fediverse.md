@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,276 |
+| com | 5,277 |
 | social | 3,271 |
 | net | 2,707 |
 | org | 1,944 |
@@ -2146,6 +2146,7 @@ Here's a list of public Fediverse services.
 | `ascenet.ch` | No |
 | `aschwege.me` | Yes |
 | `ascii.social` | No |
+| `ascii.tk` | No |
 | `ascll.net` | No |
 | `ascraeus.org` | No |
 | `ascyltos.social` | No |
@@ -5870,6 +5871,7 @@ Here's a list of public Fediverse services.
 | `coolpenguins.nl` | Yes |
 | `coolshit.social` | Yes |
 | `coolsocial.club` | No |
+| `coolstarship.blog` | No |
 | `coolworld.cc` | No |
 | `coom.club` | No |
 | `coon.town` | Yes |
@@ -29047,6 +29049,7 @@ Here's a list of public Fediverse services.
 | `sophy.life` | Yes |
 | `sopuli.xyz` | No |
 | `sora.pub` | No |
+| `sorairo.space` | No |
 | `soranews24.com` | No |
 | `sorasaki-ct.uk` | Yes |
 | `sorbit.no` | No |
@@ -35413,6 +35416,7 @@ Here's a list of public Fediverse services.
 | `zaaltek.net` | No |
 | `zaatar.org` | No |
 | `zabaglione.net` | No |
+| `zabutone.com` | No |
 | `zac.dev` | Yes |
 | `zachartajuddin.com` | No |
 | `zachary.com` | No |
@@ -35771,7 +35775,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,299 |
-| Normal | 27,428 |
+| Normal | 27,432 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
