@@ -1227,6 +1227,7 @@ Do not create new issue or we will close it as duplicate.
 | [ba11z1@twitter](https://twitter.com/ba11z1/status/1585907997930188800) | advertise |
 | [baabajaylani1@twitter](https://twitter.com/baabajaylani1/status/1610099588643397636) | advertise |
 | [Baalolenvadi@twitter](https://twitter.com/Baalolenvadi/status/1555616002037383168) | advertise |
+| [baaslaawe@twitter](https://twitter.com/baaslaawe/status/1612184489026879489) | advertise |
 | [babacoinbbc@twitter](https://twitter.com/babacoinbbc/status/1594053334901690370) | advertise |
 | [BabaDeviant@twitter](https://twitter.com/BabaDeviant/status/1390391826134282246) | advertise |
 | [babaei2@twitter](https://twitter.com/babaei2/status/1578798780086091776) | advertise |
