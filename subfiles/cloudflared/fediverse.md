@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,278 |
+| com | 5,282 |
 | social | 3,276 |
-| net | 2,709 |
+| net | 2,710 |
 | org | 1,949 |
 | de | 1,824 |
 
@@ -3688,6 +3688,7 @@ Here's a list of public Fediverse services.
 | `blue-mastodon.club` | No |
 | `blueadair.net` | No |
 | `bluebell.social` | No |
+| `bluebirdmigrate.com` | No |
 | `blueblueblue.blue` | No |
 | `bluecatnet.work` | No |
 | `bluecifer.social` | Yes |
@@ -4598,6 +4599,7 @@ Here's a list of public Fediverse services.
 | `carbontwelve.jp` | No |
 | `carcio.fi` | No |
 | `carclub.social` | Yes |
+| `cardanodevelopment.com` | Yes |
 | `cardboard.construction` | No |
 | `cardiffmas.uk` | No |
 | `cardina1.red` | No |
@@ -6285,6 +6287,7 @@ Here's a list of public Fediverse services.
 | `cthulhu.love` | No |
 | `cthulhu.rocks` | No |
 | `cthulhu.social` | No |
+| `ctmiller.net` | No |
 | `ctrl-shift.net` | No |
 | `ctrlaltdog.xyz` | Yes |
 | `ctrlz.es` | Yes |
@@ -7918,6 +7921,7 @@ Here's a list of public Fediverse services.
 | `doompill.com` | No |
 | `dooms.com.br` | No |
 | `doon.promo` | No |
+| `doop.coop` | No |
 | `dopamine.social` | No |
 | `dopasoft.com` | No |
 | `dopcrew.com` | No |
@@ -12448,6 +12452,7 @@ Here's a list of public Fediverse services.
 | `hacks.fi` | Yes |
 | `hacks.wiki` | No |
 | `hacksaw.space` | No |
+| `hacksrus.com` | No |
 | `hacksrus.xyz` | Yes |
 | `hacktastic.org` | No |
 | `hackthebox.social` | No |
@@ -26701,6 +26706,7 @@ Here's a list of public Fediverse services.
 | `rocklobster.cat` | No |
 | `rockoo.pw` | No |
 | `rockosbasilisk.com` | Yes |
+| `rockpaperjelly.com` | Yes |
 | `rockprofile.com` | Yes |
 | `rocu.de` | Yes |
 | `rodab.party` | No |
@@ -30879,7 +30885,7 @@ Here's a list of public Fediverse services.
 | `tezcat.social` | No |
 | `tezos.lol` | No |
 | `tezos.rocks` | No |
-| `tf.au` | No |
+| `tf.au` | Yes |
 | `tf.fi` | Yes |
 | `tfdn.cloud` | Yes |
 | `tfk.one` | No |
@@ -35806,8 +35812,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,303 |
-| Normal | 27,460 |
+| Cloudflare | 8,306 |
+| Normal | 27,463 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
