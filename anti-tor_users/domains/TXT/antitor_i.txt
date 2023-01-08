@@ -1675,6 +1675,7 @@ api.imkev.co.kr
 api.insw.go.id
 api.intervals.science
 api.issn.org
+api.itax.kr
 api.primary-xpp-txn.aws-wealth-production-za.iress.online
 api.staging.iglooinsure.com
 apibankingone.icicibank.com
@@ -1695,6 +1696,7 @@ bangaloremirror.indiatimes.com
 bankhoes.ikheethans.nl
 base.i2ilogic.com
 bfsi.economictimes.indiatimes.com
+blog.blog.old.demo.skinzbaroblog.blog.exchange.instaporn.to
 blog.imani-s.sh
 bms.imprev.net
 bpgmandiri.infinitium.com
@@ -1715,7 +1717,6 @@ client.itgtcm.com
 client.pe.service.interexo.com
 cloud.sfmc.itau.com.br
 common.dm-us.informaticacloud.com
-comunitate.mobile.telekom.interactions.ro
 contact.iowamemorialgranite.com
 container-1216042.jpt.irangpu.com
 container-51546411.jpt.irangpu.com
@@ -1864,6 +1865,7 @@ imaxsalon.ca
 imds.in
 immanuelenglish.com
 immixteddo.com
+immo-investissement.com
 immuneactivity.com
 impetus.mk
 inbdmaza.com
@@ -1891,6 +1893,8 @@ infibank.com.co
 infinity.icicibank.bh
 influencer2020.com
 info-log-on.com
+infodesigns.ru
+informationsecurity.dk
 infosyset.com
 ingenkopaaisen.com
 ingi-sup.com
@@ -1907,6 +1911,7 @@ inonclbench.com
 inovationproj1538ectc.tech
 inpage-push.net
 inquestrepresentationservice.com
+inquirersuper.com.ph
 inquityprecame.com
 insec2.com
 insightnews.media
@@ -1933,7 +1938,6 @@ intensao.pt
 intensomethode.nl
 intentfarm.com
 intentionalmediasa.co.za
-interbanck.com
 interiorsettings.site
 internet.gov.pl
 internet.itau.com.br
@@ -1990,6 +1994,7 @@ items.iconpln.co.id
 iteportal.intertoll.eu
 itgsmservice.ro
 itidal.com.tr
+itp-service-hotelanvelope-ghirase.ro
 itp-serviceglobal.ro
 itsburning.nl
 itseedotor.com
@@ -2075,6 +2080,7 @@ saas-prod-securityapi-us-01.instem.com
 safe-air.ibego.eu
 savoir-suisse.izibook.com
 sdb-auth.inwink.ninja
+sdcdn1.izbank.ir
 search.icons8.com
 sebarintipersada.insider.co.id
 secure.helpdesk.intricatecloud.co.uk
@@ -2089,6 +2095,7 @@ sso.immobilienscout24.de
 ssocial.isecf.site
 stage.internal.intellect.co
 staging.iclinicapp.ru
+stagingnitrogenus.ishalife.com
 staticapp.icpsc.com
 stg-auth.inwink.ninja
 taxiclass-db-dev.iphonedroid.com
@@ -2098,6 +2105,7 @@ telecom.economictimes.indiatimes.com
 test-schedule.user-admin.intoglobal.dev
 trackers.inflection.io
 trust-tradeinvestments.iseeyounow.xyz
+vaultfashion.invotide.com
 washingtonpost.id742470.com
 web.immers.space
 webdisk.ikomamanabu.com
@@ -2105,6 +2113,8 @@ webdisk.infinitetrust-fund.com
 webdisk.infomgmr.my.id
 www.bancasinternetempresas.inversionesislagrande.cl
 www.client.itgtcm.com
+www.etax.ird.gov.tt
+www.hosting.itsolutionssupport.uk
 www.iansresearch.com
 www.ibpa-online.org
 www.ibuildcredit.com
@@ -2116,6 +2126,7 @@ www.in10stappensuccesvolbeleggenreview.nl
 www.indiatravelsolution.com
 www.infinityescorts.com
 www.informaticien.be
+www.informationsecurity.dk
 www.injurylegalhelpers.com
 www.innhatkhang.com
 www.innopay.com
@@ -2147,9 +2158,12 @@ www.itv-hogeschool.nl
 www.ivanbhaskar.com.au
 www.pakettundacepat.infobunda.org
 www.paysabank.ico-dev.com
+www.secureservicesgroup.innocence-investigations.co.uk
 www.support.ifssi.co.id
 www.support.imaps-ec.com
 www.usps.informed-delivery.online
+www.xerolanches.itapetingadelivery.com
+xerolanches.itapetingadelivery.com
 xxxhome.ixbb.ru
 stg-community.infineon.com
 study.institutdepsychiatrie.org
