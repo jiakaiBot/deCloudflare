@@ -312,6 +312,7 @@ click.email.zalando-lounge.com
 client.zorgplatform.online
 clientes.zetaarquitetura.com.br
 colnbase.com-verifyaccount.supportmail-pending.zgrlbqf.com
+cpcontacts.zenit-vamaveche.ro
 culevit.zerovic.com
 datacenter.zolbermedia.com
 diakszeft-api.uat.zeelabs.online
@@ -335,6 +336,7 @@ secure-paypal-access-login-confirm-account.zmgconsulting.co.za
 service-line-messaging.zipzoft.online
 speechmatics-portal-design-update.znn.app
 star-motor.zapads.co.il
+ticket.zeromiles.co.il
 uat.service.payroll.zenyohr.com
 user.zgem.org
 web.zensys.app.br
@@ -360,6 +362,7 @@ www.zovni.ovh
 www.zwilnik.com
 www81.zippyshare.com
 www84.zippyshare.com
+z5h64q92x9.net
 zabavashop.in.ua
 zacharyballard.ml
 zachclem.ml
@@ -367,8 +370,10 @@ zachmarshall.ml
 zachmitchell.ml
 zadonsk-monastyr.ru
 zadroweb.com
+zag-t-music.com
 zahid-agromiks.com.ua
 zaiflyer.com
+zakarashop.com
 zakka-kurawanka.com
 zantimes.com
 zbnfhsk.com
