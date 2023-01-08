@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,283 |
 | social | 3,276 |
-| net | 2,710 |
+| net | 2,711 |
 | org | 1,949 |
 | de | 1,824 |
 
@@ -16387,6 +16387,7 @@ Here's a list of public Fediverse services.
 | `kroo.co` | No |
 | `kroo.is` | No |
 | `kroo.network` | No |
+| `krowverse.net` | No |
 | `krowverse.services` | No |
 | `kroy.io` | Yes |
 | `krpgpub.net` | No |
@@ -35822,7 +35823,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,311 |
-| Normal | 27,467 |
+| Normal | 27,468 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
