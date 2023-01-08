@@ -1402,6 +1402,8 @@ autodiscover.kabarbonekpersebaya.com
 autodiscover.kangs1600.site
 autodiscover.khimel.in
 autopatcher.knv-power.ro
+bba.klenagarbhavi.edu.in
+bca.klenagarbhavi.edu.in
 beacon.krxd.net
 blog.kubukoz.com
 bravo.kelas.site
@@ -1418,6 +1420,7 @@ contact.krausemonument.com
 cpanel.klimaservisairsolution.rs
 cpanel.kuwait-international.online
 cpanel.redtailtelematicstest.com.2d1e8d38a9af69582df36f593-18135.sites.k-hosting.co.uk
+cpanel.unlockmyradio.4267502caefae3e6f158a5d88-19811.sites.k-hosting.co.uk
 cpcalendars.kangs1610.site
 cpcalendars.kriyan.com.my
 cpcontacts.kangs1590.site
@@ -1475,6 +1478,7 @@ k68tkg.com
 kakedashiweb.site
 kalibags.com
 kalibreboru.com
+kaltengpost.net
 kampoengconfectie.com
 kanchiuniv.ac.in
 kangs1580.site
@@ -1496,9 +1500,11 @@ kavisashah.com
 kawasaninternet.site
 kawate-ya.com
 kbbet.games
+kbn48.com
 kbpureessentials.com
 kbstrack.com
 kcsxpress.com
+kdmpalvelu.fi
 keeneticloud.keenetic.pro
 keesdekort.com
 kelemobil.hu
@@ -1509,6 +1515,7 @@ kentuckyecosolar.com
 kenzoventures.io
 ketoblastgummybears.net
 ketodis.com
+keungznfts.com
 key-device-security.com
 key-notion.com
 key-services.ro
@@ -1533,6 +1540,7 @@ kingtrack-crawler.com
 kinkledunendly.com
 kino-michi.com
 kintaro.goog
+kiselev-anton.ru
 kitabghr.com
 kitokit.com
 kitrigthy.com
@@ -1543,6 +1551,7 @@ klenhosnc.com
 klikbank.net
 klikblox.com
 klimaservisairsolution.rs
+klimastiftelsen.no
 klinika-semejnogo-zdorovya.ru
 klinikhanglekiu.com
 klrecreationhub.com
@@ -1589,6 +1598,7 @@ kursusmenjahitamaya.com
 kutv.com
 kuzeytarimltd.com
 kw3y5otoeuniv7e9rsi.com
+kwachua.bet
 kwtnhdrmbx.com
 kximxxzsva.com
 kxnggkh2nj.com
@@ -1623,6 +1633,7 @@ otevocalepad-1d836.kxcdn.com
 ou337.keap-link017.com
 owa.kcb.gov.kw
 paineldemo.kangudelivery.com.br
+pakettuntascepat.kasihmedika.com
 pay.keepruralkidslearning.com
 pcmshop.kaspi.kz
 pod-t30i.kbdev.net
@@ -1639,7 +1650,9 @@ rhui-lb.k-square.jp
 sankalpanalytica.kisankartbill.com
 sde.kaspersky-labs.com
 sdx.kfintech.com
+seguro.kitdepanelas.com
 servicedesk.kgisl.com
+services.prod.kbfina.com.vn
 signin.kaspi.kz
 sit01.kasikornasset.com
 smail.kimblegroup.com
@@ -1649,6 +1662,7 @@ sn251.keap-link013.com
 sso.kabelmail.de
 sso.kinopoisk.ru
 staging-nursery.dev.kidsly.jp
+staging.api-server.kyuncall.com
 staging.konsign.com
 stardesign11.komit.link
 sts.kfplc.com
@@ -1676,10 +1690,12 @@ webdisk.kangs1590.site
 webdisk.kriyan.com.my
 webmail.kangs1610.site
 whatsapp.kkdclient.site
+whm.kedaitinted.com
 workshops.keith-forbes.com
 wpeproblog.store.admin.kleinformart.com
 www.5d0nf9aay8bpa6g.hostmaster.ledlighmail5.kino-teka.ru
 www.a1servicecenter.kvwebtech.in
+www.auth0.keantex.com
 www.billing.khsmmpro.com
 www.client.knightstechnology.co.uk
 www.clientes.kleversoft.net
@@ -1689,6 +1705,7 @@ www.dashboard.kachelan.com
 www.feedback.kaher.edu.in
 www.gastrikevatten-nrg.kravportal.se
 www.kajuen.co.jp
+www.kaltengpost.kaltengexpres.com
 www.kamukkissa.com
 www.kark.com
 www.karman-services.nl
@@ -1702,6 +1719,7 @@ www.kevindorst.com
 www.key.aero
 www.ki-tech.global
 www.kijiji.ca
+www.kirchheim-teck.de
 www.kirinholdings.com
 www.kissmyseoul.com
 www.kiuc.coop
@@ -1772,10 +1790,12 @@ www.kredyt-max-60.shop
 www.kredyt-max-7.shop
 www.kredyt-max-8.shop
 www.kredyt-max-9.shop
+www.krisis.org
 www.ksdenki.com
 www.kupobserwujacych.pl
 www.old.kontorexdata.se
 www.pakalljobs.karachijobsupdate.com
+www.pakettuntascepat.kasihmedika.com
 www.rdm-mtsibnukatsir.kkmikalsel.com
 www.sankalpanalytica.kisankartbill.com
 www.support.kresna.web.id
