@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,277 |
+| com | 5,278 |
 | social | 3,271 |
 | net | 2,708 |
 | org | 1,946 |
@@ -24364,7 +24364,7 @@ Here's a list of public Fediverse services.
 | `pimoore.ca` | No |
 | `pina.space` | Yes |
 | `pinbun.com` | Yes |
-| `pinc.tube` | Yes |
+| `pinc.tube` | No |
 | `pine.cab` | No |
 | `pinellas.space` | No |
 | `pinetree.ink` | No |
@@ -29706,6 +29706,7 @@ Here's a list of public Fediverse services.
 | `stopwatchingus-heidelberg.de` | Yes |
 | `storais.org` | No |
 | `storel.li` | No |
+| `storiesnotablog.com` | No |
 | `storkeus.xyz` | Yes |
 | `stormdragon.tk` | No |
 | `stormgrass.com` | No |
@@ -35786,8 +35787,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,300 |
-| Normal | 27,443 |
+| Cloudflare | 8,299 |
+| Normal | 27,445 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
