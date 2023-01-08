@@ -10819,6 +10819,7 @@ Do not create new issue or we will close it as duplicate.
 | [UOoSanGyi1@twitter](https://twitter.com/UOoSanGyi1/status/1398504684256600067) | advertise |
 | [updatedreviews@twitter](https://twitter.com/updatedreviews/status/1425499895272665094) | advertise |
 | [uprise_s@twitter](https://twitter.com/uprise_s/status/1407659965129629696) | advertise |
+| [Upwader@twitter](https://twitter.com/Upwader/status/1612132167278284800) | advertise |
 | [URabiullah@twitter](https://twitter.com/URabiullah/status/1490471474808897538) | advertise |
 | [URkar3@twitter](https://twitter.com/URkar3/status/1395564448207704066) | advertise |
 | [us5bowling@twitter](https://twitter.com/us5bowling/status/1598492947045031938) | advertise |
