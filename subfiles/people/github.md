@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Getting Error Code 1020 Access Denied in some Region in vipanicdn streaming url Any Solution For This](https://github.com/riimuru/gogoanime-api/issues/102)
 - [Issue: error receiving data: The remote party closed the WebSocket connection without completing the close handshake](https://github.com/jellyfin/jellyfin/issues/9040)
 - [The system cannot find the path specified.](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin/issues/48)
 - [HOWTO serve SVGZ images from GitHub Pages](https://github.com/Jylpah/svgztest/issues/1)
