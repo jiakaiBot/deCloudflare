@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,278 |
-| social | 3,272 |
+| social | 3,276 |
 | net | 2,709 |
-| org | 1,947 |
+| org | 1,949 |
 | de | 1,824 |
 
 
@@ -454,6 +454,7 @@ Here's a list of public Fediverse services.
 | `57n.org` | No |
 | `57north.org.uk` | No |
 | `584817.xyz` | Yes |
+| `5950x.lol` | Yes |
 | `5ch.pink` | Yes |
 | `5ch4um1.es` | No |
 | `5dollah.click` | No |
@@ -2650,6 +2651,7 @@ Here's a list of public Fediverse services.
 | `backbord.net` | No |
 | `backert.net` | No |
 | `backlight.social` | Yes |
+| `backpacklife.social` | No |
 | `backroad.city` | No |
 | `backtick.town` | No |
 | `backtoroot.xyz` | No |
@@ -3512,6 +3514,7 @@ Here's a list of public Fediverse services.
 | `black-milk.de` | No |
 | `black.social` | Yes |
 | `black6.dev` | No |
+| `blackbike.us` | Yes |
 | `blackblock.rocks` | No |
 | `blackblocpolitics.com` | No |
 | `blackbrigade.org` | No |
@@ -6826,6 +6829,7 @@ Here's a list of public Fediverse services.
 | `darpsindustries.com` | No |
 | `darrenord.co.uk` | Yes |
 | `darringaming.com` | No |
+| `dartboard.social` | No |
 | `darthsidius.net` | No |
 | `dartisan.dev` | No |
 | `darts.social` | No |
@@ -7902,6 +7906,7 @@ Here's a list of public Fediverse services.
 | `dontmindrick.com` | No |
 | `donttrust.me` | No |
 | `donut.quest` | No |
+| `donut0711.ga` | No |
 | `doobie.cafe` | No |
 | `dood.net` | No |
 | `doodlehub.de` | No |
@@ -9046,6 +9051,7 @@ Here's a list of public Fediverse services.
 | `eris.social` | Yes |
 | `erisly.social` | Yes |
 | `eristocracy.org` | No |
+| `erlend.sh` | No |
 | `ernesto.dev` | No |
 | `ernestoacosta.org` | No |
 | `erneuer.bar` | No |
@@ -12479,6 +12485,7 @@ Here's a list of public Fediverse services.
 | `haijo.eu` | No |
 | `haikara.party` | No |
 | `hails.org` | No |
+| `hairlessape.org` | No |
 | `hairydiode.xyz` | No |
 | `hairyfupa.com` | Yes |
 | `hairylarry.rocks` | No |
@@ -14165,6 +14172,7 @@ Here's a list of public Fediverse services.
 | `instaart.org` | No |
 | `instance.business` | No |
 | `instance.community` | Yes |
+| `instance.digital` | No |
 | `instanzfreun.de` | No |
 | `instaporn.org` | No |
 | `instawp.xyz` | Yes |
@@ -15415,6 +15423,7 @@ Here's a list of public Fediverse services.
 | `kahtlane.place` | No |
 | `kai-poenisch.de` | No |
 | `kai-stuht.com` | No |
+| `kai.dev` | No |
 | `kai.moe` | No |
 | `kaias1jp.site` | No |
 | `kaiba.ga` | No |
@@ -24587,6 +24596,7 @@ Here's a list of public Fediverse services.
 | `playadust.social` | No |
 | `playgames.jp` | No |
 | `playground.ws` | No |
+| `playingbothsides.top` | No |
 | `playingwithworms.org.uk` | No |
 | `playpen.social` | No |
 | `playseye.com` | No |
@@ -27529,6 +27539,7 @@ Here's a list of public Fediverse services.
 | `schmu.se` | No |
 | `schmuttermaier.com` | No |
 | `schnatter.eu` | No |
+| `schnauzer.social` | No |
 | `schnauzergang.online` | No |
 | `schneckenradio.de` | No |
 | `schneesportlehrer.biz` | No |
@@ -29257,6 +29268,7 @@ Here's a list of public Fediverse services.
 | `spielschrank.com` | No |
 | `spiffy.social` | No |
 | `spike-el-clopero.org` | No |
+| `spill-the-tea.ninja` | No |
 | `spin-2.net` | No |
 | `spin-off.com` | No |
 | `spindles.cc` | Yes |
@@ -30443,6 +30455,7 @@ Here's a list of public Fediverse services.
 | `tanoshii.site` | Yes |
 | `tansuo.plus` | Yes |
 | `tantalum.life` | Yes |
+| `tante.cc` | No |
 | `tantek.com` | No |
 | `tanti.org.uk` | No |
 | `tantor.online` | No |
@@ -33258,7 +33271,7 @@ Here's a list of public Fediverse services.
 | `vda-group.de` | No |
 | `vdna.be` | No |
 | `vdoor.ch` | No |
-| `vdurdome.net` | No |
+| `vdurdome.net` | Yes |
 | `vecinos.fi` | No |
 | `vecna.xyz` | No |
 | `vectemis.co.uk` | Yes |
@@ -33822,6 +33835,7 @@ Here's a list of public Fediverse services.
 | `wallflowersocial.club` | No |
 | `wallhax.co` | Yes |
 | `walljm.com` | Yes |
+| `wallofconfusion.org` | No |
 | `wallonie-bruxelles.social` | No |
 | `walls.social` | Yes |
 | `walrusmafia.com` | No |
@@ -35088,6 +35102,7 @@ Here's a list of public Fediverse services.
 | `yamastodon.com` | No |
 | `yamastodon.jp` | No |
 | `yambal.net` | No |
+| `yambo.social` | No |
 | `yampp.de` | No |
 | `yamr.cc` | No |
 | `yams.lol` | Yes |
@@ -35791,8 +35806,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,300 |
-| Normal | 27,448 |
+| Cloudflare | 8,303 |
+| Normal | 27,460 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
