@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [The system cannot find the path specified.](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin/issues/48)
 - [HOWTO serve SVGZ images from GitHub Pages](https://github.com/Jylpah/svgztest/issues/1)
 - [Error In Deploy operation](https://github.com/microfeed/microfeed/issues/38)
 - [Verify error:no valid A records found](https://github.com/acmesh-official/acme.sh/issues/4459)
