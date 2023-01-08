@@ -589,7 +589,6 @@ u1830637.plsk.regruhosting.ru
 u1835310.plsk.regruhosting.ru
 u1850220.plsk.regruhosting.ru
 uat.ripplehire.com
-uat.sso.rbinternational.com
 umcg-icat01.hpc.rug.nl
 update.roborock.group
 upgrade-server-2023.royalwaysdemo.com
@@ -1666,6 +1665,7 @@ applogger.redbus.com
 archive.rip-x.site
 asteria.riskmonster.com
 auth.readymag.net
+auth.rpxapps.com
 autodiscover.rbcashback.in
 autodiscover.robl.ee
 azuregoogle.renci589.ml
@@ -1736,12 +1736,14 @@ dev.mobile-intermediate.rbfa.services
 dev.restore.com.pt
 dfsdgfs-1b8897185d70b198c119e1d2b7efd8a2.ssl.cf1.rackcdn.com
 discord.riom-db.ch
+discourse.realmofastra.ca
 do.rcsng.com
 ds.ravago.com
 editorial.rottentomatoes.com
 education.raypal.info
 elqtracking.richardsonrfpd.com
 eur1a.eu1.rsaadaptiveauthbo.com
+filebrowser.rynodyno.xyz
 firsebase.ronaldhuaira.com
 fsstud.ruhr-uni-bochum.de
 global-do.renaissance-golabs.com
@@ -1783,6 +1785,7 @@ neo-authz-backend-prod-6p4aubtica-uc.a.run.app
 newassets.hcaptcha.com.suss.remotexs.co
 nncvd-1b8897185d70b198c119e1d2b7efd8a2.ssl.cf1.rackcdn.com
 norner.runfree.no
+novosite.ricardohaag.com.br
 oapi.qa1.responsys.net
 ob.robotflowermobile.com
 odkuabrqbzhhppmu.ransommethis.net
@@ -1828,6 +1831,7 @@ rajdhanisecurity.com
 rakamu.com
 rallycontrol.ro
 ramboatgaming.ml
+raminerals.co.uk
 ramirezlandscapingservice.com
 rammishruinous.com
 ramphisecurity.co.za
@@ -1874,6 +1878,7 @@ recentlyupdate.gq
 recovery1bxz-amazonaccount.com
 recurseagin.com
 redabruptly.autos
+redditsx.com
 redemaiscondominios.com.br
 redirect-9.com
 redirection-compte-particulier.com
@@ -1953,6 +1958,7 @@ rinjanitrekkingagency.com
 riool-zit-verstopt.nl
 ripplexrpbank.com
 risemania.com
+risemoney.in
 riskwaredbserver.riskcloud.net
 risolma.ro
 riverwoodassociates.com
@@ -1973,6 +1979,7 @@ roblogram.com
 roblox.bitbot.rosacomabella.cat
 robloxdiscord.com
 robloxengine.com
+robloxplayer-exe.us.com
 robloxresources.com
 robsdyno.com
 robspabah.com
@@ -2024,6 +2031,7 @@ rtbbnrdip.com
 rtbrennab.com
 rtclx.com
 rtdhomes.sg
+rtfktcryptokicks.com
 rtgsales.fi
 rtphokibank.com
 ru-matrix.org
@@ -2074,6 +2082,7 @@ www.readreceipt.pro
 www.recyclingplatform.com
 www.redbiotec.ch
 www.redditstatic.com
+www.redruin.org
 www.refaelissupportiveservices.org
 www.referencesupplements.com
 www.regenerativemedicinedaily.com
