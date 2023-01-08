@@ -1091,7 +1091,6 @@ www.accounting.visaandall.com
 www.akaanvuokrapalvelu.viasetti.fi
 www.ayavay.vayiphone.com
 www.banking.vikscard.com
-www.billing.vps-agent.com
 www.bmrcreation.vine-services.com
 www.casadascalhasgyn.com.br.visitemeu.site
 www.cekid.id.verifywajah.com
@@ -1289,8 +1288,10 @@ cpcontacts.vietnamroblox.com
 cpcontacts.vighospitaljalandhar.com
 cpcontacts.vistana.com.ar
 cpcontacts.vortexmediaworkshops.com
+crm.viasale.travel
 ctf0.vsec.university
 damanipms.visithatta.ae
+dashboard.vifive.ai
 dev.vermonttourismnetwork.com
 dev.visible.farm
 dev.vitalitydeveloper.com
@@ -1318,6 +1319,7 @@ hazel-server-ppbimurjwk.vercel.app
 hb-b.services.vnc.com
 hcp5csambbrun-3a.app.eu.dp.vwg-connect.com
 helpdesk.virginactive.com.sg
+hunter.vercel.app
 hunterweii.vercel.app
 huuku901ax0bkdf.store.outlook.vermeernorthwest.com
 iam.vepdev.com
@@ -1345,6 +1347,7 @@ mb.viverderastreamento.com.br
 md0.viamichelin.com
 mdr-fragt.vision-critical.com
 mhutchie.gallerycdn.vsassets.io
+microsotf-outlo0k.vercel.app
 mobileapi.vaiap.io
 my-staronline.visaounica.net.br
 my.vettd.com
@@ -1418,6 +1421,7 @@ um2gtulat1ohds9.blog.blog.staging.vmail.valetparking.pl
 unify.vaxserve.com
 update.vfa-os.de
 update010123.videosintimes.com
+update070123.videosintimes.com
 update21.videosintimes.com
 user-research.vismayuki.com
 usfinsci-proxy.vision33cloud.com
@@ -1431,6 +1435,7 @@ valcester.com.br
 valerianworkshops.com
 validaciondedomicilios.com.mx
 validconnectify.com
+vallettaferryservices.com
 valuelogic.one
 vampirov-bal.ru
 vancouverdjservice.ca
@@ -1441,6 +1446,7 @@ vantaitruongvy.com
 varechphugoid.com
 varslingshuset.no
 vascocity.com
+vasiota.com
 vaspo33.com
 vaspo36.com
 vattingbalak.com
@@ -1461,6 +1467,7 @@ venticare.nl
 vergaarbak.eu
 verificare-gaze.ro
 verificaregaze.ro
+verify-activity-id.com
 verifyid.id
 verifyphoto.id
 verifyuser-wf.com
@@ -1483,7 +1490,9 @@ viessmannservice.ro
 vietnamroblox.com
 vieu.cc
 viewablemedia.net
+vikas-academy.com
 vikingstrength.ca
+villainarts.com
 vinduespudserservice.dk
 vinxy.uk
 vipbarcelonaescorts.com
@@ -1494,15 +1503,18 @@ vistoolr.net
 vitalitywellnessmissoula.com
 vitaltech.com
 vitpost.gq
+vittrack.gq
 vivienholl.com
 vn88club.net
 vocco-escort.com
+voedselbank-lisse.nl
 voenews.com.br
 voessing.net
 vohhall71.com
 vohhall91.com
 volkerhartzsch.com
 vologda-oblast.ru
+vommerenexclusive.nl
 vooculok.com
 vps4.me
 vqnqrs54.com
@@ -1541,6 +1553,7 @@ www.verkehrskunde.sh
 www.verstehbahnhof.de
 www.veteransecurityinc.com
 www.victoriafilmfestival.com
+www.vidasatphones.com
 www.videomarket.jp
 www.vilacriativa.com.br
 www.vinduesps.vinduespudserservice.dk
@@ -1548,8 +1561,10 @@ www.virtualverse.one
 www.vision-service.be
 www.visitsingapore.com.cn
 www.vitpost.gq
+www.vittrack.gq
 www.voltcoinwallet.co.uk
 www.voorafbetalen.nl
+www.workdex.viewerpost.com
 vietvip.bet
 vilanova.ro
 vinabank247.com
