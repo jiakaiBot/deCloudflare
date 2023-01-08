@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,278 |
-| social | 3,271 |
-| net | 2,708 |
-| org | 1,946 |
+| social | 3,272 |
+| net | 2,709 |
+| org | 1,947 |
 | de | 1,824 |
 
 
@@ -1752,7 +1752,7 @@ Here's a list of public Fediverse services.
 | `antinetzwerk.de` | No |
 | `antiniveau.eu` | No |
 | `antioil.party` | No |
-| `antiope.link` | No |
+| `antiope.link` | Yes |
 | `antiorario.it` | Yes |
 | `antipub.org` | No |
 | `antiquated.systems` | No |
@@ -12780,6 +12780,7 @@ Here's a list of public Fediverse services.
 | `hehn.xyz` | No |
 | `hei.baby` | No |
 | `heiber.im` | No |
+| `height.social` | No |
 | `heigl.org` | No |
 | `heijmans.social` | Yes |
 | `heiki-hecchara.net` | No |
@@ -25181,6 +25182,7 @@ Here's a list of public Fediverse services.
 | `project-imas.cn` | No |
 | `project-taco.org` | Yes |
 | `project.social` | No |
+| `project2.at` | No |
 | `project47.xyz` | No |
 | `projectftm.com` | No |
 | `projectlounge.pw` | Yes |
@@ -25983,6 +25985,7 @@ Here's a list of public Fediverse services.
 | `raudssus.de` | No |
 | `rauhala.info` | No |
 | `raulhc.cc` | Yes |
+| `raumfahrer.net` | No |
 | `raumhaus.info` | No |
 | `rauschfrei.eu` | No |
 | `raval.io` | No |
@@ -26164,6 +26167,7 @@ Here's a list of public Fediverse services.
 | `rednblack.net` | Yes |
 | `redneck.cloud` | No |
 | `rednosehacker.com` | No |
+| `redowl.org` | No |
 | `redp.icu` | Yes |
 | `redpanda.fun` | No |
 | `redpanda.lgbt` | No |
@@ -35787,8 +35791,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,299 |
-| Normal | 27,445 |
+| Cloudflare | 8,300 |
+| Normal | 27,448 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
