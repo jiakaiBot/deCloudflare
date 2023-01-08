@@ -1482,7 +1482,7 @@ Here's a list of public Fediverse services.
 | `amplifie.red` | No |
 | `amplifyukraine.eu` | Yes |
 | `amrhein.social` | No |
-| `amsterdam.nl` | No |
+| `amsterdam.nl` | Yes |
 | `amsterdon.nl` | No |
 | `amum.al` | Yes |
 | `amumal.party` | No |
@@ -9050,6 +9050,7 @@ Here's a list of public Fediverse services.
 | `erictapen.name` | No |
 | `ericvandam.me` | No |
 | `ericwalk.net` | No |
+| `ericwbailey.website` | No |
 | `eridi.us` | No |
 | `erikkemp.eu` | No |
 | `erikxxon.se` | No |
@@ -26010,6 +26011,7 @@ Here's a list of public Fediverse services.
 | `raumfahrer.net` | No |
 | `raumhaus.info` | No |
 | `rauschfrei.eu` | No |
+| `rauten.co.za` | Yes |
 | `raval.io` | No |
 | `rave.nz` | No |
 | `ravearizona.club` | Yes |
@@ -35822,7 +35824,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,311 |
+| Cloudflare | 8,313 |
 | Normal | 27,468 |
 
 
