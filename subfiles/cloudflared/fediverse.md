@@ -1481,7 +1481,7 @@ Here's a list of public Fediverse services.
 | `amplifie.red` | No |
 | `amplifyukraine.eu` | Yes |
 | `amrhein.social` | No |
-| `amsterdam.nl` | Yes |
+| `amsterdam.nl` | No |
 | `amsterdon.nl` | No |
 | `amum.al` | Yes |
 | `amumal.party` | No |
@@ -20830,7 +20830,7 @@ Here's a list of public Fediverse services.
 | `mstdn.tokyo` | No |
 | `mstdn.top` | No |
 | `mstdn.tw` | Yes |
-| `mstdn.us` | Yes |
+| `mstdn.us` | No |
 | `mstdn.vet` | No |
 | `mstdn.vodka` | No |
 | `mstdn.voyage` | No |
@@ -29749,7 +29749,7 @@ Here's a list of public Fediverse services.
 | `strapp.co.uk` | Yes |
 | `strass.blog` | No |
 | `strasser.wien` | No |
-| `strasza.net` | Yes |
+| `strasza.net` | No |
 | `stratinator.com` | Yes |
 | `stratonauts.co` | Yes |
 | `strausmann.net` | Yes |
@@ -30700,6 +30700,7 @@ Here's a list of public Fediverse services.
 | `teets.cloud` | Yes |
 | `tegedon.net` | No |
 | `tegix.net` | Yes |
+| `tegowerk.eu` | Yes |
 | `teh-interwebz.com` | No |
 | `teh.ninja` | No |
 | `tehduck.club` | No |
@@ -34719,6 +34720,7 @@ Here's a list of public Fediverse services.
 | `xalthe.com` | Yes |
 | `xaltsc.dev` | No |
 | `xamk.fi` | No |
+| `xana.live` | Yes |
 | `xanadu.ws` | Yes |
 | `xanderwharts.us` | Yes |
 | `xaneaid.com` | No |
@@ -35784,8 +35786,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,301 |
-| Normal | 27,440 |
+| Cloudflare | 8,300 |
+| Normal | 27,443 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
