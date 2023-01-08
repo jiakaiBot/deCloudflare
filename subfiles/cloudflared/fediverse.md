@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,282 |
+| com | 5,283 |
 | social | 3,276 |
 | net | 2,710 |
 | org | 1,949 |
@@ -2523,6 +2523,7 @@ Here's a list of public Fediverse services.
 | `ax9.eu` | No |
 | `axac.fr` | No |
 | `axbom.com` | Yes |
+| `axbom.me` | No |
 | `axhxrx.com` | Yes |
 | `axiixc.com` | No |
 | `axilus.network` | No |
@@ -4472,6 +4473,7 @@ Here's a list of public Fediverse services.
 | `cailincat.cloud` | No |
 | `caille.fr` | No |
 | `cain.mobi` | Yes |
+| `cairnscustomcomputers.cloud` | Yes |
 | `cairobraga.com` | No |
 | `cakes.rocks` | Yes |
 | `calamityconductor.com` | No |
@@ -8008,6 +8010,7 @@ Here's a list of public Fediverse services.
 | `draconix.org` | Yes |
 | `dracos.co.uk` | No |
 | `draculo.net` | No |
+| `drag.li` | Yes |
 | `dragast.me` | No |
 | `dragchaser.com` | No |
 | `dragn.gay` | Yes |
@@ -16805,6 +16808,7 @@ Here's a list of public Fediverse services.
 | `lawprofs.org` | No |
 | `lawrence.sh` | Yes |
 | `lawrenceks.social` | No |
+| `lawrenceli.me` | Yes |
 | `lawsocial.org` | Yes |
 | `lawtalk.app` | No |
 | `lawtalk.social` | No |
@@ -30160,6 +30164,7 @@ Here's a list of public Fediverse services.
 | `swop.social` | No |
 | `sworddynasty.tokyo` | No |
 | `swordlogic.com` | No |
+| `swrgroups.com` | Yes |
 | `swrlab.org` | No |
 | `swrs.net` | No |
 | `swungda.sh` | No |
@@ -35781,6 +35786,7 @@ Here's a list of public Fediverse services.
 | `zvr.gr` | No |
 | `zw.lu` | No |
 | `zwei.net` | No |
+| `zwerfcat.world` | No |
 | `zwischenlaut.de` | No |
 | `zwist.space` | No |
 | `zwoelfdreifuenfundvierzig.net` | No |
@@ -35812,8 +35818,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,306 |
-| Normal | 27,463 |
+| Cloudflare | 8,310 |
+| Normal | 27,465 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
