@@ -12948,6 +12948,7 @@ Here's a list of public Fediverse services.
 | `herrschlauschlau.de` | No |
 | `herrspitau.de` | No |
 | `herrtxbias.net` | Yes |
+| `herry001.cc` | Yes |
 | `hersecret.fi` | Yes |
 | `herthafans.de` | No |
 | `hertz.dev` | No |
@@ -18219,6 +18220,7 @@ Here's a list of public Fediverse services.
 | `magyarok.cc` | Yes |
 | `magzu.net` | No |
 | `mahagyani.net` | No |
+| `mahakala.tech` | No |
 | `mahalle.li` | No |
 | `mahiradon.com` | Yes |
 | `maho-do.jp` | No |
@@ -35481,6 +35483,7 @@ Here's a list of public Fediverse services.
 | `zaibon.be` | No |
 | `zaisu-club.xyz` | Yes |
 | `zaitcev.nu` | No |
+| `zak.ee` | No |
 | `zaksoup.club` | No |
 | `zaktakespictures.com` | Yes |
 | `zakuac.com` | No |
@@ -35818,8 +35821,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,310 |
-| Normal | 27,465 |
+| Cloudflare | 8,311 |
+| Normal | 27,467 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
