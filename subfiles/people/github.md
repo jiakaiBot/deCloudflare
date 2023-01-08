@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issue: error receiving data: The remote party closed the WebSocket connection without completing the close handshake](https://github.com/jellyfin/jellyfin/issues/9040)
 - [The system cannot find the path specified.](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin/issues/48)
 - [HOWTO serve SVGZ images from GitHub Pages](https://github.com/Jylpah/svgztest/issues/1)
 - [Error In Deploy operation](https://github.com/microfeed/microfeed/issues/38)
