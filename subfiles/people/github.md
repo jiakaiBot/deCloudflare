@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [x/vulndb: potential Go vuln in github.com/cloudflare/cloudflared: GHSA-hgwp-4vp4-qmm2](https://github.com/golang/vulndb/issues/1392)
 - [S3: Failed to save image on recipe import](https://github.com/TandoorRecipes/recipes/issues/2259)
 - [Can't download Windows 10](https://github.com/pbatard/Fido/issues/53)
 - [get.geojs.io throws 500 for certain source ip's](https://github.com/jloh/geojs/issues/48)
