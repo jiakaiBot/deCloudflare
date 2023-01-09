@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,284 |
-| social | 3,277 |
+| com | 5,289 |
+| social | 3,279 |
 | net | 2,713 |
 | org | 1,949 |
-| de | 1,827 |
+| de | 1,828 |
 
 
 - Mastodon, Pleroma, etc
@@ -84,6 +84,7 @@ Here's a list of public Fediverse services.
 | `0u0.fun` | No |
 | `0upti.me` | Yes |
 | `0v0.ch` | Yes |
+| `0verti.me` | Yes |
 | `0w0.is` | No |
 | `0w3n.ga` | No |
 | `0wo.ooo` | No |
@@ -2526,6 +2527,7 @@ Here's a list of public Fediverse services.
 | `axbom.com` | Yes |
 | `axbom.me` | No |
 | `axhxrx.com` | Yes |
+| `axidstudios.com` | Yes |
 | `axiixc.com` | No |
 | `axilus.network` | No |
 | `aximov.net` | Yes |
@@ -6712,6 +6714,7 @@ Here's a list of public Fediverse services.
 | `damu.page` | Yes |
 | `dan.cloud` | No |
 | `dan.glass` | No |
+| `danampersanderic.social` | No |
 | `dananglin.me.uk` | No |
 | `danbruno.net` | No |
 | `dance-dance-dance.space` | No |
@@ -8929,6 +8932,7 @@ Here's a list of public Fediverse services.
 | `enoughisenough14.org` | No |
 | `enovale.com` | No |
 | `enquequedo.org` | No |
+| `enrhu.be` | No |
 | `ensapn.ovh` | No |
 | `ensilib.re` | No |
 | `enso.ist` | Yes |
@@ -13628,6 +13632,7 @@ Here's a list of public Fediverse services.
 | `hypertalk.io` | No |
 | `hypertextcoffee.com` | Yes |
 | `hypervasis.com` | Yes |
+| `hypetrix.com` | Yes |
 | `hypno.church` | No |
 | `hypno.social` | Yes |
 | `hypnoguys.com` | No |
@@ -17900,6 +17905,7 @@ Here's a list of public Fediverse services.
 | `lucida-note.info` | No |
 | `lucidragons.de` | No |
 | `lucie-philou.com` | No |
+| `lucienpuget.fr` | No |
 | `luciferi.st` | No |
 | `luckow.org` | No |
 | `luckycat.chat` | No |
@@ -19574,6 +19580,7 @@ Here's a list of public Fediverse services.
 | `meowr.me` | No |
 | `meowr.org` | No |
 | `meows.life` | No |
+| `meows.lol` | Yes |
 | `meowsdeluxe.com` | No |
 | `meowstodon.net` | Yes |
 | `meowstodon.org` | No |
@@ -26186,6 +26193,7 @@ Here's a list of public Fediverse services.
 | `redere.org` | No |
 | `redeyes.club` | No |
 | `redeyes.site` | No |
+| `redfern.is` | No |
 | `redfish.ca` | No |
 | `redflag.social` | Yes |
 | `redgarterclub.com` | No |
@@ -26618,6 +26626,7 @@ Here's a list of public Fediverse services.
 | `riz-om.network` | Yes |
 | `rizomatica.org` | No |
 | `rizzek.de` | No |
+| `rjbasitali.com` | No |
 | `rjbastyr.com` | No |
 | `rjl.li` | No |
 | `rjm.id.au` | Yes |
@@ -27455,6 +27464,7 @@ Here's a list of public Fediverse services.
 | `sbit.xyz` | No |
 | `sbite0138.net` | Yes |
 | `sbnode.com` | Yes |
+| `sboots.ca` | No |
 | `sbpk.fr` | Yes |
 | `sbrk.org` | No |
 | `sbruder.xyz` | No |
@@ -28705,6 +28715,7 @@ Here's a list of public Fediverse services.
 | `smartcitydev.jp` | No |
 | `smartdonkey.social` | No |
 | `smartinwriter.social` | No |
+| `smartnotsocial.com` | No |
 | `smartpassivehouse.com` | No |
 | `smash.today` | No |
 | `smashnet.de` | No |
@@ -29986,6 +29997,7 @@ Here's a list of public Fediverse services.
 | `summoners-riftodon.jp` | No |
 | `sumou.fun` | No |
 | `sunbeam.city` | No |
+| `sunburnt.social` | No |
 | `sunbutt.faith` | No |
 | `suncha.biz` | No |
 | `suncircuit.club` | No |
@@ -31705,6 +31717,7 @@ Here's a list of public Fediverse services.
 | `todon.de` | No |
 | `todon.eu` | No |
 | `todon.fr` | No |
+| `todon.in` | No |
 | `todon.nl` | No |
 | `todon.uk` | No |
 | `toepi.moe` | Yes |
@@ -32774,6 +32787,7 @@ Here's a list of public Fediverse services.
 | `ulisboa.pt` | No |
 | `ullihome.de` | No |
 | `ulman.social` | Yes |
+| `ulmd.de` | No |
 | `ulne.be` | No |
 | `ulo.social` | No |
 | `ulrar.net` | No |
@@ -34330,6 +34344,7 @@ Here's a list of public Fediverse services.
 | `wim.lol` | No |
 | `wimjaap.nl` | No |
 | `wimmer-edv.de` | No |
+| `wimpelgrim.nl` | No |
 | `winaero.com` | No |
 | `winblad.io` | Yes |
 | `winchester.social` | Yes |
@@ -34810,6 +34825,7 @@ Here's a list of public Fediverse services.
 | `xeno.chat` | No |
 | `xeno.science` | No |
 | `xenoeye.com` | No |
+| `xenofact.com` | No |
 | `xenofem.me` | No |
 | `xenolith.foundation` | Yes |
 | `xensen.net` | No |
@@ -35837,8 +35853,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,318 |
-| Normal | 27,476 |
+| Cloudflare | 8,322 |
+| Normal | 27,488 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
