@@ -7796,6 +7796,7 @@ Do not create new issue or we will close it as duplicate.
 | [OmarOmarahmedkr@twitter](https://twitter.com/OmarOmarahmedkr/status/1559481116934938625) | advertise |
 | [Omary52022014@twitter](https://twitter.com/Omary52022014/status/1541496884065345537) | advertise |
 | [omar_ibrahim_28@twitter](https://twitter.com/omar_ibrahim_28/status/1533075831781834753) | advertise |
+| [omprakaskumar@twitter](https://twitter.com/omprakaskumar/status/1612490059156160512) | advertise |
 | [Omsin_Fhandsome@twitter](https://twitter.com/Omsin_Fhandsome/status/1552978611455799296) | advertise |
 | [Omygg8@twitter](https://twitter.com/Omygg8/status/1537951267242201089) | advertise |
 | [Omzey@twitter](https://twitter.com/Omzey/status/1540210865743486976) | advertise |
