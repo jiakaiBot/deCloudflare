@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,289 |
-| social | 3,279 |
+| com | 5,291 |
+| social | 3,280 |
 | net | 2,713 |
 | org | 1,949 |
 | de | 1,828 |
@@ -3710,6 +3710,7 @@ Here's a list of public Fediverse services.
 | `bluemchenbuch.de` | No |
 | `bluemedia.dev` | Yes |
 | `bluenoser.me` | No |
+| `bluepanda.fun` | No |
 | `bluepenguin.social` | No |
 | `blueplanet.social` | Yes |
 | `blueraccoon.online` | No |
@@ -12636,6 +12637,7 @@ Here's a list of public Fediverse services.
 | `harpsica.net` | No |
 | `harpy.life` | No |
 | `harrisville.net.nz` | No |
+| `harrykantas.com` | Yes |
 | `harrystyl.es` | Yes |
 | `harshadsharma.com` | No |
 | `harshnoise.club` | No |
@@ -23558,6 +23560,7 @@ Here's a list of public Fediverse services.
 | `overkill.social` | No |
 | `overland.social` | No |
 | `overlappingmagisteria.org` | No |
+| `overminddl1.com` | No |
 | `override.social` | Yes |
 | `overthinking.club` | No |
 | `overwatch-japan.net` | No |
@@ -26678,6 +26681,7 @@ Here's a list of public Fediverse services.
 | `robboss.art` | No |
 | `robbyzambito.me` | No |
 | `robekworld.com` | No |
+| `robermar.social` | No |
 | `robert-porten.net` | No |
 | `robertdevore.com` | Yes |
 | `robertivanc.com` | Yes |
@@ -28848,6 +28852,7 @@ Here's a list of public Fediverse services.
 | `snowandtweet.jp` | No |
 | `snowcat.link` | No |
 | `snowchyld.org` | Yes |
+| `snowcloud.one` | Yes |
 | `snowcode.ovh` | No |
 | `snowcrash.ca` | No |
 | `snowcrash.org` | No |
@@ -29905,6 +29910,7 @@ Here's a list of public Fediverse services.
 | `styrofoamxylophone.com` | No |
 | `styx.org` | No |
 | `su-social.de` | No |
+| `su3.io` | No |
 | `su4ka.icu` | No |
 | `suah.dev` | No |
 | `suayoo.online` | Yes |
@@ -35854,8 +35860,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,323 |
-| Normal | 27,488 |
+| Cloudflare | 8,325 |
+| Normal | 27,492 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
