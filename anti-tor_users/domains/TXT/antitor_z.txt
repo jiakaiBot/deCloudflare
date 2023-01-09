@@ -321,6 +321,7 @@ es-logs.analytics-cluster.zedge.io
 etc-yizzz.zzux.com
 gateway.zscalerthree.net
 gateway.zscalertwo.net
+gitlab.git.blog.demo.staging.zurvitavirtual.com
 idp.saas.zeb-it.de
 img01.ztat.net
 login.ziraatbankanturkey.com
