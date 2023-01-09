@@ -1247,6 +1247,7 @@ Here's a list of public Fediverse services.
 | `alinke.com` | No |
 | `alirezahayati.com` | No |
 | `alis.me` | Yes |
+| `alisa.sh` | No |
 | `alisonserver.xyz` | No |
 | `alisonw.uk` | No |
 | `alittle.social` | Yes |
@@ -35825,7 +35826,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,313 |
-| Normal | 27,468 |
+| Normal | 27,469 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
