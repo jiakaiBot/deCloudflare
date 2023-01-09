@@ -5173,6 +5173,7 @@ Here's a list of public Fediverse services.
 | `chrisburnell.com` | Yes |
 | `chrisco.me` | No |
 | `chrisduffley.com` | No |
+| `chrisedwards.tech` | No |
 | `chrisfried.com` | Yes |
 | `chrishannah.me` | No |
 | `chrishumphreys.tech` | No |
@@ -35832,7 +35833,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,316 |
-| Normal | 27,472 |
+| Normal | 27,473 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
