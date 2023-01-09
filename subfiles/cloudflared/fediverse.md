@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,284 |
-| social | 3,276 |
+| social | 3,277 |
 | net | 2,713 |
 | org | 1,949 |
-| de | 1,825 |
+| de | 1,827 |
 
 
 - Mastodon, Pleroma, etc
@@ -8462,6 +8462,7 @@ Here's a list of public Fediverse services.
 | `ecosteader.com` | No |
 | `ecotube.fr` | No |
 | `ecru.social` | No |
+| `ecton.dev` | Yes |
 | `ecuadortl.club` | No |
 | `ecurie.social` | No |
 | `ecutsa.fr` | No |
@@ -11325,6 +11326,7 @@ Here's a list of public Fediverse services.
 | `gbg.social` | No |
 | `gbl08ma.com` | No |
 | `gbnet.net` | No |
+| `gbo.social` | No |
 | `gboaonline.org` | No |
 | `gbox.work` | No |
 | `gbraad.nl` | Yes |
@@ -19161,6 +19163,7 @@ Here's a list of public Fediverse services.
 | `matpix.net` | No |
 | `matri.cx` | No |
 | `matri.ml` | No |
+| `matricaria.de` | No |
 | `matriochka.re` | No |
 | `matriphe.net` | Yes |
 | `matriu.cat` | No |
@@ -27612,6 +27615,7 @@ Here's a list of public Fediverse services.
 | `schweigert.dev` | Yes |
 | `schwend.us` | No |
 | `schwerin.social` | No |
+| `schwerkraftlabor.de` | No |
 | `schweter.org` | No |
 | `schwetz.au` | Yes |
 | `schwifty.space` | No |
@@ -35077,6 +35081,7 @@ Here's a list of public Fediverse services.
 | `xyzzy.social` | Yes |
 | `xz.vc` | No |
 | `xz0.org` | Yes |
+| `xzh.gs` | Yes |
 | `xzqt.xyz` | Yes |
 | `y-bbs.de` | No |
 | `y-gallery.net` | Yes |
@@ -35832,8 +35837,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,316 |
-| Normal | 27,473 |
+| Cloudflare | 8,318 |
+| Normal | 27,476 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
