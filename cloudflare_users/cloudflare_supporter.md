@@ -789,6 +789,7 @@ Do not create new issue or we will close it as duplicate.
 | [ap1998106822@twitter](https://twitter.com/ap1998106822/status/1389791514016948225) | advertise |
 | [apa4h@twitter](https://twitter.com/apa4h/status/1379030071202185217) | advertise |
 | [ApAp33062813@twitter](https://twitter.com/ApAp33062813/status/1490578123163054088) | advertise |
+| [AphirakRaenrot@twitter](https://twitter.com/AphirakRaenrot/status/1612475927061213185) | advertise |
 | [APhyuYaung10@twitter](https://twitter.com/APhyuYaung10/status/1381663498736963589) | advertise |
 | [ApihCandurry@twitter](https://twitter.com/ApihCandurry/status/1527834662923804673) | advertise |
 | [apipnail_@twitter](https://twitter.com/apipnail_/status/1566788039203962880) | advertise |
@@ -2059,8 +2060,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3595,6 +3596,7 @@ Do not create new issue or we will close it as duplicate.
 | [HeoVat@twitter](https://twitter.com/HeoVat/status/1569110496070217729) | advertise |
 | [HereticCrusader@twitter](https://twitter.com/HereticCrusader/status/1383727868123832321) | advertise |
 | [Herijoko16@twitter](https://twitter.com/Herijoko16/status/1402705618562027526) | advertise |
+| [Hermer01820424@twitter](https://twitter.com/Hermer01820424/status/1612471498668740612) | advertise |
 | [hero8728@twitter](https://twitter.com/hero8728/status/1548766188746014722) | advertise |
 | [Hero41258950@twitter](https://twitter.com/Hero41258950/status/1394528251637211136) | advertise |
 | [herobadboy_@twitter](https://twitter.com/herobadboy_/status/1483852098202705924) | advertise |
