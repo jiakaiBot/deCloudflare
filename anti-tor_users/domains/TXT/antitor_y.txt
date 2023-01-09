@@ -339,6 +339,9 @@ edibmi-ws.y3technologies.com
 epicgames.ykonni.de
 express.yesbank.in
 giant.yzshidai.cn
+gitlab.git.git.blog.olimp.yocity12.com
+gitlab.git.mail9.yocity12.com
+gitlab.www.demo.m.yatakeaway.com
 gkkuipxdeclin0t.www.shop.ruchitakeaway-office.yatakeaway.com
 i.youbuy.com
 i.ytimg.com
@@ -355,6 +358,7 @@ mc.yandex.com
 mypartner-uat.yuanta.com.tw
 openweb.jac.yahoosandbox.com
 ov.youbuy.com
+pcidss.yandex.net
 pos.yesgrp.com
 qa.yalamanchili.in
 qa3-ag.yieldoptimizer.com
@@ -366,6 +370,7 @@ s.yimg.com
 scsapp01.hk.yusen-logistics.com
 uatnewpersonal.yesbank.co.in
 vzpn.ydns.eu
+webmail.bureauveritas.yoomultimedia.com
 www.contactme.yusufhamitkaya.com
 www.dashboard.yamnet.website
 www.db.yugioh-card.com
@@ -400,6 +405,7 @@ ylavjbljpt.com
 yoga-blox.com
 yolandachapman.ml
 yorkdefibtraining.co.uk
+yoseopawnshop.com
 yottlyscript.com
 your-server.de
 your-services.online
