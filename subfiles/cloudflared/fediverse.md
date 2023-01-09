@@ -29455,6 +29455,7 @@ Here's a list of public Fediverse services.
 | `squeet.me` | No |
 | `squid.cafe` | No |
 | `squid.gay` | Yes |
+| `squid.kids` | No |
 | `squiddev.cc` | Yes |
 | `squiggly.club` | No |
 | `squirrelmob.com` | No |
@@ -35871,7 +35872,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,330 |
-| Normal | 27,497 |
+| Normal | 27,498 |
 
 
-### 23.3% of public Fediverse services are using Cloudflare.
+### 23.2% of public Fediverse services are using Cloudflare.
