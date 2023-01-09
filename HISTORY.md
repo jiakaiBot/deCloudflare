@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-12: [BOG (Bogotá) on 2023-01-12](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/321gy0bnjgfw)
 - 2023-01-12: [ORD (Chicago) on 2023-01-12](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2ckgg6jzxksz)
 - 2023-01-11: [VIE (Vienna) on 2023-01-11](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hwwq7t7qyg4h)
 - 2023-01-10: [FRA (Frankfurt) on 2023-01-10](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2qkbfd3bnfg5)
