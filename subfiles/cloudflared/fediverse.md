@@ -6138,6 +6138,7 @@ Here's a list of public Fediverse services.
 | `crisq.cf` | No |
 | `crisritma.com` | No |
 | `crissdepauvre.com` | No |
+| `crissdepauvre.shop` | No |
 | `cristiano.cloud` | No |
 | `cristini.social` | No |
 | `critcare.social` | No |
@@ -10132,7 +10133,7 @@ Here's a list of public Fediverse services.
 | `fivem-paradise.com` | No |
 | `fiveop.de` | No |
 | `fivest.one` | Yes |
-| `fivestone.info` | No |
+| `fivestone.info` | Yes |
 | `fivetanley.com` | No |
 | `fivethirtyeight.com` | No |
 | `fivewords.uk` | No |
@@ -35853,7 +35854,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,322 |
+| Cloudflare | 8,323 |
 | Normal | 27,488 |
 
 
