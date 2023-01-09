@@ -19,7 +19,7 @@
 > If you′re using Cloudflare on your website, you won′t get first rank.
 > You shouldn′t use it if you value visitor′s privacy.
 
-― [Ombrelo](subfiles/service.ombrelo.md)
+― [Ombrelo](subfiles/service/ombrelo.md)
 
 
 > I say it's a bad idea to pimp CloudFlare sites and expect such repressions to go unchallenged.
@@ -148,6 +148,7 @@
 <summary><h3>Forum / Wiki</h3>
 </summary>
 
+- [What does everyone think of overly prominent networking dependencies in Mastodon instances? (A discussion on CloudFlare)](https://old.reddit.com/r/Mastodon/comments/zkwpek/what_does_everyone_think_of_overly_prominent/)
 - [EasyList filter blocks cloudflare](https://old.reddit.com/r/9anime/comments/xctq9z/easylist_filter_blocks_cloudflare/)
 - [Waiting for cloudlfare bypass... I really need help fixing this please!! I’m a beginner.](https://old.reddit.com/r/CloudFlare/comments/xbgm98/waiting_for_cloudlfare_bypass_i_really_need_help/)
 - [Website in proxied mode not reachable in Leipzig/Germany](https://community.cloudflare.com/t/website-in-proxied-mode-not-reachable-in-leipzig-germany/414279)
