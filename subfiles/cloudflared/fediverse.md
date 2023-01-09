@@ -5672,7 +5672,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -24103,6 +24103,7 @@ Here's a list of public Fediverse services.
 | `peoplesleaders.net` | No |
 | `peoplesrevolution.xyz` | No |
 | `pepecyb.hu` | No |
+| `pepega.club` | Yes |
 | `pepega.media` | No |
 | `pepepper.cf` | Yes |
 | `pepepper.net` | Yes |
@@ -35830,8 +35831,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,314 |
-| Normal | 27,473 |
+| Cloudflare | 8,316 |
+| Normal | 27,472 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
