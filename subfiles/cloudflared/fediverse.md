@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,283 |
+| com | 5,284 |
 | social | 3,276 |
-| net | 2,711 |
+| net | 2,713 |
 | org | 1,949 |
-| de | 1,824 |
+| de | 1,825 |
 
 
 - Mastodon, Pleroma, etc
@@ -8739,7 +8739,7 @@ Here's a list of public Fediverse services.
 | `ellie.chat` | No |
 | `ellie.social` | No |
 | `ellieayla.net` | No |
-| `ellied.net` | Yes |
+| `ellied.net` | No |
 | `ellih.eu` | No |
 | `ellijaymakerspace.org` | No |
 | `elliot.wales` | No |
@@ -12563,6 +12563,7 @@ Here's a list of public Fediverse services.
 | `hams.social` | No |
 | `hamster.science` | No |
 | `hamtter.net` | No |
+| `han.do` | No |
 | `hanashi.dev` | Yes |
 | `handelsfrei.org` | No |
 | `handholding.gay` | No |
@@ -15584,6 +15585,7 @@ Here's a list of public Fediverse services.
 | `kartoffelwolke.de` | No |
 | `kartonrad.de` | Yes |
 | `karukera.social` | No |
+| `kashayokai.com` | Yes |
 | `kashishokunin.com` | No |
 | `kashiwadon.net` | No |
 | `kaskadee.eu` | Yes |
@@ -32145,6 +32147,7 @@ Here's a list of public Fediverse services.
 | `treadl.com` | No |
 | `treasuredgem.xyz` | No |
 | `treasurestate.social` | No |
+| `trebaxis.net` | Yes |
 | `trebo.chat` | Yes |
 | `treebaglia.xyz` | Yes |
 | `treecast.com` | No |
@@ -34949,6 +34952,7 @@ Here's a list of public Fediverse services.
 | `xn--qubec-csa.tk` | No |
 | `xn--r9j630glz6a.xn--q9jyb4c` | No |
 | `xn--ratatskr-r4a.de` | No |
+| `xn--rdstrupe-54a.net` | No |
 | `xn--rtta-qoa.nu` | Yes |
 | `xn--rvca9caab9a8aafa7qa6ethsbi9ewa1jbdf91i.com` | No |
 | `xn--sh8hve.to` | No |
@@ -35777,6 +35781,7 @@ Here's a list of public Fediverse services.
 | `zunda.ninja` | No |
 | `zunidominion.com` | No |
 | `zuo.pub` | Yes |
+| `zurell.de` | No |
 | `zurich-mastodon.ch` | No |
 | `zurich.social` | No |
 | `zusammen.social` | No |
@@ -35825,8 +35830,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,313 |
-| Normal | 27,469 |
+| Cloudflare | 8,314 |
+| Normal | 27,473 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
