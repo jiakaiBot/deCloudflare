@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,291 |
-| social | 3,280 |
-| net | 2,713 |
+| com | 5,292 |
+| social | 3,281 |
+| net | 2,715 |
 | org | 1,949 |
 | de | 1,828 |
 
@@ -2545,6 +2545,7 @@ Here's a list of public Fediverse services.
 | `ayano.jp` | No |
 | `ayco.io` | No |
 | `ayden.life` | Yes |
+| `aylett.co.uk` | Yes |
 | `aynrand.social` | No |
 | `ayom.media` | No |
 | `ayotocorp.com` | No |
@@ -7055,6 +7056,7 @@ Here's a list of public Fediverse services.
 | `deagle.club` | No |
 | `deamandel.co` | No |
 | `deanosim.net` | Yes |
+| `deargod.no` | Yes |
 | `death.horse` | No |
 | `deathbybandaid.net` | No |
 | `deathbycomputers.co.uk` | No |
@@ -9622,6 +9624,7 @@ Here's a list of public Fediverse services.
 | `fdb.to` | No |
 | `fdlibre.eu` | No |
 | `fdn.fr` | No |
+| `fdom.social` | No |
 | `fe-mastodon.tk` | No |
 | `feaneron.com` | No |
 | `fearisfreedom.com` | No |
@@ -11256,6 +11259,7 @@ Here's a list of public Fediverse services.
 | `gargantia.fr` | No |
 | `garranoileain.com` | No |
 | `garri.us` | No |
+| `garriguv.io` | No |
 | `garrison.beer` | No |
 | `garrlab.it` | No |
 | `garro.moe` | Yes |
@@ -16745,6 +16749,7 @@ Here's a list of public Fediverse services.
 | `lantredugeek.net` | No |
 | `lanuevebastarda.es` | No |
 | `laoda.ge` | Yes |
+| `laoda.life` | Yes |
 | `lap.social` | Yes |
 | `lapidak.is` | Yes |
 | `lapineige.fr` | No |
@@ -20259,6 +20264,7 @@ Here's a list of public Fediverse services.
 | `mobilehackerz.jp` | No |
 | `mobileography.info` | No |
 | `mobilisons.ch` | No |
+| `mobilite-mobiliteit.brussels` | No |
 | `mobilize-hannover.de` | No |
 | `mobilize.berlin` | No |
 | `mobilizemuc.org` | No |
@@ -22929,6 +22935,7 @@ Here's a list of public Fediverse services.
 | `ohnoim.online` | No |
 | `ohnomy.rocks` | No |
 | `ohsan.cc` | Yes |
+| `ohsb.net` | Yes |
 | `ohyo.cloud` | No |
 | `ohyo.work` | No |
 | `oi7.de` | No |
@@ -24132,6 +24139,7 @@ Here's a list of public Fediverse services.
 | `peregrinecross.com` | No |
 | `peregrinor.net` | No |
 | `perfect.moe` | No |
+| `performing-arts.ch` | No |
 | `performingart.online` | No |
 | `perfumefan.jp` | No |
 | `pericles.hu` | No |
@@ -24923,6 +24931,7 @@ Here's a list of public Fediverse services.
 | `pop-in-don.com` | No |
 | `pop.zone` | No |
 | `pop42.net` | No |
+| `popagandhi.com` | No |
 | `popcornaddiction.xyz` | No |
 | `pope.party` | Yes |
 | `popgeeks.com` | No |
@@ -32989,6 +32998,7 @@ Here's a list of public Fediverse services.
 | `unpopular.cloud` | Yes |
 | `unraidcloud.de` | Yes |
 | `unraids.ml` | No |
+| `unrealasia.net` | Yes |
 | `unreality.pink` | No |
 | `unrelated.family` | Yes |
 | `unrelenting.technology` | No |
@@ -35860,8 +35870,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,325 |
-| Normal | 27,492 |
+| Cloudflare | 8,330 |
+| Normal | 27,497 |
 
 
-### 23.2% of public Fediverse services are using Cloudflare.
+### 23.3% of public Fediverse services are using Cloudflare.
