@@ -17505,6 +17505,7 @@ Here's a list of public Fediverse services.
 | `livecchi.cloud` | No |
 | `livedon.tokyo` | No |
 | `livedrone.club` | No |
+| `liveevents.world` | No |
 | `livegram.net` | No |
 | `liveitlive.show` | No |
 | `livelaughlove.social` | No |
@@ -30361,7 +30362,7 @@ Here's a list of public Fediverse services.
 | `taboulisme.com` | No |
 | `tacam.social` | No |
 | `tachibana-labs.online` | No |
-| `tachibana.cool` | Yes |
+| `tachibana.cool` | No |
 | `taciturn.social` | Yes |
 | `tackett.family` | No |
 | `tackman.info` | Yes |
@@ -35871,8 +35872,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,330 |
-| Normal | 27,498 |
+| Cloudflare | 8,329 |
+| Normal | 27,500 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
