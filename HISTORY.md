@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-13: [OSL (Oslo) on 2023-01-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gl4kr4dsnz06)
 - 2023-01-13: [BOS (Boston) on 2023-01-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zzldfm55g46h)
 - 2023-01-12: [BOS (Boston) on 2023-01-12](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2bd9q84t7kh3)
 - 2023-01-18: [ICN (Seoul) on 2023-01-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qc1yr6kqgbqp)
