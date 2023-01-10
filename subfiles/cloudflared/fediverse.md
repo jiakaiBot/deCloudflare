@@ -3628,6 +3628,7 @@ Here's a list of public Fediverse services.
 | `bln41.net` | Yes |
 | `bln41.win` | Yes |
 | `bloade.social` | Yes |
+| `bloatfree.ovh` | No |
 | `blob.cat` | No |
 | `blob.coffee` | No |
 | `blobfox.coffee` | No |
@@ -10483,7 +10484,7 @@ Here's a list of public Fediverse services.
 | `fpv.social` | No |
 | `fpvogel.com` | Yes |
 | `fqserv.eu` | No |
-| `fr.cr` | No |
+| `fr.cr` | Yes |
 | `fr.nf` | Yes |
 | `fr.to` | Yes |
 | `fr13nd5.com` | No |
@@ -28423,7 +28424,7 @@ Here's a list of public Fediverse services.
 | `silvermag.net` | No |
 | `silvernight.social` | No |
 | `silverseams.com` | No |
-| `silverspine.net` | No |
+| `silverspine.net` | Yes |
 | `silversword.online` | No |
 | `sim.onl` | No |
 | `sim.show` | Yes |
@@ -35886,8 +35887,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,331 |
-| Normal | 27,512 |
+| Cloudflare | 8,333 |
+| Normal | 27,511 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
