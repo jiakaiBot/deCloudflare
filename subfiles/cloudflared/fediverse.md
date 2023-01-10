@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,295 |
-| social | 3,283 |
+| com | 5,296 |
+| social | 3,284 |
 | net | 2,715 |
 | org | 1,949 |
 | de | 1,828 |
@@ -4574,6 +4574,7 @@ Here's a list of public Fediverse services.
 | `canor.kr` | Yes |
 | `canox.net` | No |
 | `cansoccer.social` | No |
+| `cant-breathe.cf` | No |
 | `cant.at` | No |
 | `cantabria.social` | No |
 | `canti.space` | No |
@@ -8016,6 +8017,7 @@ Here's a list of public Fediverse services.
 | `dpm.social` | No |
 | `dpost.jp` | No |
 | `dprj.xyz` | No |
+| `dpw.social` | No |
 | `dq10.online` | No |
 | `dqfan.club` | No |
 | `dr-hardware.ch` | No |
@@ -10999,6 +11001,7 @@ Here's a list of public Fediverse services.
 | `furrycom.com` | No |
 | `furrycon.social` | Yes |
 | `furryfandom.me` | Yes |
+| `furrygroup.gay` | No |
 | `furryink.com` | Yes |
 | `furrylife.online` | Yes |
 | `furryowo.top` | Yes |
@@ -19266,6 +19269,7 @@ Here's a list of public Fediverse services.
 | `maware.cc` | Yes |
 | `mawo24.de` | No |
 | `mawoka.eu` | Yes |
+| `mawsnpaws.live` | Yes |
 | `max-fun.de` | No |
 | `max.town` | Yes |
 | `maxdec.fr` | Yes |
@@ -34157,6 +34161,7 @@ Here's a list of public Fediverse services.
 | `wellington.gen.nz` | No |
 | `wellness.so` | Yes |
 | `wellnesswayorbit.com` | No |
+| `wellobserve.com` | No |
 | `wellperns.com` | No |
 | `wells-family.xyz` | No |
 | `welltempered.net` | No |
@@ -35890,8 +35895,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,336 |
-| Normal | 27,511 |
+| Cloudflare | 8,337 |
+| Normal | 27,515 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
