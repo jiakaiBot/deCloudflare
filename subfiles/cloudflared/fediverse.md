@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,299 |
+| com | 5,301 |
 | social | 3,286 |
-| net | 2,715 |
+| net | 2,716 |
 | org | 1,951 |
 | de | 1,828 |
 
@@ -2258,6 +2258,7 @@ Here's a list of public Fediverse services.
 | `astrologer.cc` | No |
 | `astrolovy.com` | No |
 | `astrometrics.xyz` | No |
+| `astronavis.net` | No |
 | `astronomique.de` | No |
 | `astronomy.city` | No |
 | `astronomy.social` | No |
@@ -3781,6 +3782,7 @@ Here's a list of public Fediverse services.
 | `bocchi.tokyo` | No |
 | `bocholt.social` | No |
 | `bocode.de` | Yes |
+| `bocops.app` | No |
 | `boddez.net` | Yes |
 | `bodensee.social` | No |
 | `bodul.fr` | No |
@@ -9062,7 +9064,7 @@ Here's a list of public Fediverse services.
 | `ericblade.us` | No |
 | `ericcredeur.com` | No |
 | `ericdube.com` | No |
-| `ericf.social` | No |
+| `ericf.social` | Yes |
 | `ericgregorich.com` | Yes |
 | `ericjustdoesnotcare.com` | No |
 | `ericlathrop.com` | No |
@@ -9081,6 +9083,7 @@ Here's a list of public Fediverse services.
 | `erirun.net` | No |
 | `eris.moe` | No |
 | `eris.social` | Yes |
+| `erisa.party` | Yes |
 | `erisly.social` | Yes |
 | `eristocracy.org` | No |
 | `erlend.sh` | No |
@@ -14877,6 +14880,7 @@ Here's a list of public Fediverse services.
 | `jeff.town` | No |
 | `jeffjeff.us` | No |
 | `jeffl.es` | Yes |
+| `jefflembeck.com` | Yes |
 | `jeffreymiller.org` | No |
 | `jeffscloud.com` | No |
 | `jeffthompson.dev` | Yes |
@@ -21637,6 +21641,7 @@ Here's a list of public Fediverse services.
 | `nekoruri.jp` | No |
 | `nekos.io` | No |
 | `nekos.one` | Yes |
+| `nekos.us` | Yes |
 | `nekoscience.space` | No |
 | `nekotodon.com` | No |
 | `nekover.se` | Yes |
@@ -25116,7 +25121,7 @@ Here's a list of public Fediverse services.
 | `pr0mised.life` | Yes |
 | `pr0n.space` | No |
 | `pr1nt.xyz` | Yes |
-| `praccu.com` | No |
+| `praccu.com` | Yes |
 | `practically.social` | No |
 | `pradenco.com` | No |
 | `prado.it` | Yes |
@@ -28869,6 +28874,7 @@ Here's a list of public Fediverse services.
 | `sneed.social` | Yes |
 | `sneed.vip` | No |
 | `sneedtube.com` | No |
+| `sneeu.com` | No |
 | `snej.de` | No |
 | `snek.cafe` | Yes |
 | `snek.dev` | Yes |
@@ -35915,8 +35921,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,354 |
-| Normal | 27,518 |
+| Cloudflare | 8,359 |
+| Normal | 27,519 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
