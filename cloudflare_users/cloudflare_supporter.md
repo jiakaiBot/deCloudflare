@@ -8900,6 +8900,7 @@ Do not create new issue or we will close it as duplicate.
 | [rzrobbi17@twitter](https://twitter.com/rzrobbi17/status/1604436870414209024) | advertise |
 | [R_107571624@twitter](https://twitter.com/R_107571624/status/1503908534076932097) | advertise |
 | [r_diamondd@twitter](https://twitter.com/r_diamondd/status/1578466623220248576) | advertise |
+| [s04365076@twitter](https://twitter.com/s04365076/status/1612814202929922050) | advertise |
 | [s1mpoverYoi@twitter](https://twitter.com/s1mpoverYoi/status/1500007315440693249) | advertise |
 | [S2G11693168@twitter](https://twitter.com/S2G11693168/status/1593549107406471168) | advertise |
 | [s6my7jk@twitter](https://twitter.com/s6my7jk/status/1398057139667623936) | advertise |
@@ -11393,6 +11394,7 @@ Do not create new issue or we will close it as duplicate.
 | [xVcLc3U5giDDbYt@twitter](https://twitter.com/xVcLc3U5giDDbYt/status/1397256988959051784) | advertise |
 | [xWARBEARx@twitter](https://twitter.com/xWARBEARx/status/1563595325159268352) | advertise |
 | [XxBestGanexX@twitter](https://twitter.com/XxBestGanexX/status/1400081132989734914) | advertise |
+| [xXPlexXx@twitter](https://twitter.com/xXPlexXx/status/1612825085630455809) | advertise |
 | [XxPoNaGeXx@twitter](https://twitter.com/XxPoNaGeXx/status/1383560559707049998) | advertise |
 | [Xxxxx41471542@twitter](https://twitter.com/Xxxxx41471542/status/1376932828768829440) | advertise |
 | [xylo_leavander3@twitter](https://twitter.com/xylo_leavander3/status/1393415201907634177) | advertise |
