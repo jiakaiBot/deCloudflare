@@ -1212,7 +1212,7 @@ Here's a list of public Fediverse services.
 | `alexreiner-hosting.de` | No |
 | `alexrio.fr` | No |
 | `alexschroeder.ch` | No |
-| `alextraterrestrial.net` | No |
+| `alextraterrestrial.net` | Yes |
 | `alexwennerberg.com` | No |
 | `alexx.ml` | Yes |
 | `alexyang.me` | Yes |
@@ -9307,7 +9307,7 @@ Here's a list of public Fediverse services.
 | `exactly.news` | No |
 | `exan.tech` | Yes |
 | `exanimate.net` | No |
-| `excbadacc.es` | No |
+| `excbadacc.es` | Yes |
 | `excelereight.tk` | No |
 | `exceptional.party` | No |
 | `excession.llc` | Yes |
@@ -19317,6 +19317,7 @@ Here's a list of public Fediverse services.
 | `mazzarino.social` | No |
 | `mazzonetto.eu` | Yes |
 | `mb-it.com` | No |
+| `mbator.pl` | No |
 | `mbbit.de` | No |
 | `mbe.tv` | No |
 | `mbehan.com` | No |
@@ -21077,7 +21078,7 @@ Here's a list of public Fediverse services.
 | `mutiny.today` | No |
 | `muto.me` | No |
 | `mutolo.social` | No |
-| `mutualaid.social` | No |
+| `mutualaid.social` | Yes |
 | `mutualdon.social` | Yes |
 | `muu.space` | Yes |
 | `muuli.de` | No |
@@ -35895,8 +35896,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,337 |
-| Normal | 27,515 |
+| Cloudflare | 8,340 |
+| Normal | 27,513 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
