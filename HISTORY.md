@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-18: [ICN (Seoul) on 2023-01-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qc1yr6kqgbqp)
+- 2023-01-16: [ICN (Seoul) on 2023-01-16](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ll1w6v2cy5rp)
 - 2023-01-13: [CGK (Jakarta) on 2023-01-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/w86pyt6spfsw)
 - 2023-01-18: [SEA (Seattle) on 2023-01-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/m9sl6j3b4y79)
 - 2023-01-17: [SEA (Seattle) on 2023-01-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kb1m9c9gnrgg)
