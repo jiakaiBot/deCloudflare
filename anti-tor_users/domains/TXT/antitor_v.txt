@@ -258,7 +258,6 @@ tejasaiyenprince-gmailcom.vercel.app
 test-vercel-1-asd.vercel.app
 test.vaccines-otaru-city.jp
 testuser.vercel.app
-tracking.vitaminspy.com
 traefik.vihtelic.eu
 trusted-s.us.hsbc.com.prod.na.dynp.cloud1.vv1865.com
 untubvaostalbus.vin09.info
@@ -571,7 +570,6 @@ www.visionet.co.id
 www.visionservice.com.pe
 www.vivino.com
 www.vlacomcbs.com
-www.vmaj.jp
 www.vnwpod.de
 www.vodafone.pt
 www.voievodulgelu.ro
@@ -782,7 +780,6 @@ milakankanala-gmailcom.vercel.app
 mindtrust-taas-1994.vercel.app
 minhac.vedataydin.nl
 mlflow.eran-young-vm-1.dev.vianai.site
-mta-sts.vandeven.net
 muhammed671-gmailcom.vercel.app
 mx1.vnukovo.ru
 myusernameisthisroblox.vercel.app
@@ -1222,7 +1219,9 @@ api.csa-preprod.na.dp15.vwg-connect.com
 api.gsp.vayana.com
 api.odlc.na.dp15.vwg-connect.com
 api.preprod.vhi.ie
+api.vayonet.com
 api.veiligvertoon.nl
+api.verifymyfafsa.com
 api.veritystream.cloud
 api.vero.fi
 api.via-backend.com
@@ -1261,6 +1260,7 @@ bluewaters.v3client.com
 bmgw.volocopter.org
 bo.indoor.vodafone.pt
 c.vialoops.com
+ccservices.vertexsmb.com
 cdn.vsassets.io
 cdn3.vzwdm.com
 cekliveness.com.verifywajah.com
@@ -1285,6 +1285,7 @@ cpcalendars.vortexmediaworkshops.com
 cpcontacts.velukkudidiscourses.com
 cpcontacts.videodyno.com.au
 cpcontacts.vietnamroblox.com
+cpcontacts.viewty7.site
 cpcontacts.vighospitaljalandhar.com
 cpcontacts.vistana.com.ar
 cpcontacts.vortexmediaworkshops.com
@@ -1314,9 +1315,13 @@ feb-security.vapetaninyo.info
 frokyyy123-gmailcom.vercel.app
 fuscaclubemogi.com.br.volksmeetdragracing.com.br
 gagaplus-protonmailc.vercel.app
+genetix.ritmx-dev.aws.vsct.fr
+git.git.gitlab.git.gitlab.login.veriotexas.net
+git.gitlab.gitlab.git.mail1.vabargaintrader.com
 git.gitlab.gitlab.gitlab.gitlab.www.2019.vermeernorthwest.com
 gitlab.git.i.vashsad37.ru
 gitlab.gitlab.blog.app.vkgo.info
+gitlab.gitlab.git.accounts.vykup-vashego-avto.com
 gitlab.smtp.vacationtraderonline.com
 hasanjafory-gmailcom.vercel.app
 hazel-server-ppbimurjwk.vercel.app
@@ -1424,6 +1429,7 @@ tiemporealcorreo-gmailcom.vercel.app
 tmed.vit-bund.de
 tracking3.vnncdn.net
 twilio.engage.kgblaw.voyagernetz.us
+tymczasowy.vh.pl
 um2gtulat1ohds9.blog.blog.staging.vmail.valetparking.pl
 unify.vaxserve.com
 update.vfa-os.de
@@ -1439,6 +1445,7 @@ vaccination-info.eu
 vaccinerights.com
 vainillaweddings.com
 valcester.com.br
+valeowipers.us
 valerianworkshops.com
 validaciondedomicilios.com.mx
 validconnectify.com
@@ -1490,6 +1497,7 @@ vessoupy.com
 vestnikarche.com
 vetdeberg.com
 veteranmobilenotaryservice.com
+vetpost.nz
 vianoivernom.com
 vickyclayton.com
 victorlofinmakin.com
@@ -1506,6 +1514,7 @@ vinduespudserservice.dk
 vinxy.uk
 vipbarcelonaescorts.com
 vipheliservices.com
+vipinstalacaodepisos.website
 visiblemeasures.com
 vision-service.be
 vistoolr.net
@@ -1542,6 +1551,7 @@ vwin88.ltd
 webdisk.venomkimya.com.tr
 webdisk.vietnamroblox.com
 webmail.vietnamroblox.com
+wpg.vercel.app
 www.authentic01.vojock.com
 www.bestofhenricocounty.com.viajarfacil.info
 www.bill.vivecademy.com
