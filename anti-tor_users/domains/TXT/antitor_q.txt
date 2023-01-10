@@ -183,6 +183,11 @@ auth.feature-1.review.qpard.dev
 auth.quanthome.ch
 autodiscover.olga.q-alia.com
 aws.qureme.co.in
+bancogradualws.qcertifica.com.br
+bancoindigows.qcertifica.com.br
+bancolimine-ws.qcertifica.com.br
+bancomaximaws.qcertifica.com.br
+bancopaulistaws.qcertifica.com.br
 bankofamerica.qnb.tw
 belavista.duckdns.org.printondemand.metech.domains.qloaked.com
 bnehome.duckdns.org0.shop.blog.ustt.domains.qloaked.com
@@ -194,6 +199,7 @@ evt.quicklizard.com
 exchange.qualysoft.com
 feedback.quranreflect.org
 gitlab.events.domains.qloaked.com
+gitlab.git.git.git.gitlab.gitlab.atclg.domains.qloaked.com
 gitlab.git.git.gitlab.git.gitlab.sitemap.qualshop.online
 gitlab.icwleads.domains.qloaked.com
 identityverify-wellsfargo.quantumtraveltowers.com.au
@@ -248,6 +254,7 @@ tls.qfund.net
 uat1a.us1.qeadaptiveauthbo.com
 us.q2s15.com
 www.cardapioonline.qtaldelivery.com.br
+www.enxuguei.com.br.queroumnamorado.com
 www.gitlab.git.git.www2.leadeggllc.domains.qloaked.com
 www.hubvantage.qontrack.in
 www.loja.qtaldelivery.com.br
@@ -255,6 +262,7 @@ www.qabnpparibasfortis.com
 www.qlife.jp
 www.qr-hotel-postavecchia-bastia.com
 www.qrcodeelopagseguro.com.br
+www.qsotodayhamexpo.com
 www.quadifyrc.com
 www.qualitatsfuhrerschein.com
 www.qualityfirsttreeservice.co
