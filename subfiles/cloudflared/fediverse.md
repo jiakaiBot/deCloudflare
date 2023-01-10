@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,299 |
 | social | 3,286 |
 | net | 2,715 |
-| org | 1,950 |
+| org | 1,951 |
 | de | 1,828 |
 
 
@@ -9765,6 +9765,7 @@ Here's a list of public Fediverse services.
 | `fedihams.net` | No |
 | `fedihost.io` | No |
 | `fedihub.com` | No |
+| `fedihub.rocks` | No |
 | `fedihum.org` | No |
 | `fedilab.app` | No |
 | `fediland.in.ua` | No |
@@ -20987,7 +20988,7 @@ Here's a list of public Fediverse services.
 | `mujico.org` | No |
 | `mujo.xyz` | Yes |
 | `muknown.jp` | No |
-| `mullet.social` | No |
+| `mullet.social` | Yes |
 | `mulligrubs.me` | No |
 | `mulliken.net` | Yes |
 | `mullin.dev` | No |
@@ -33788,6 +33789,7 @@ Here's a list of public Fediverse services.
 | `vs-the.world` | No |
 | `vscape.tk` | No |
 | `vseinstrukcii.date` | No |
+| `vsfx.org` | No |
 | `vshn.social` | No |
 | `vspace.me` | No |
 | `vss365mast.org` | No |
@@ -35913,8 +35915,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,353 |
-| Normal | 27,517 |
+| Cloudflare | 8,354 |
+| Normal | 27,518 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
