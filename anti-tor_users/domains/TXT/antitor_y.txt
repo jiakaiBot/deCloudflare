@@ -320,9 +320,11 @@ adguard.services.yukihyo.nl
 api.yaanimail.com
 b92.yahoo.co.jp
 b97.yahoo.co.jp
+billing.yac.la
 capi.yaanimail.com
 case.yangoilahcustomerservice.com
 click.mail.yaliberty.org
+click.ybg.yourbusinessgazette.com
 click.yourhealth-wellnessteam.com
 cms.yujinkai.org
 coinbase.yona.tech
@@ -368,12 +370,15 @@ rest.edu.you-connect.de
 rest.edupub.you-connect.de
 s.yimg.com
 scsapp01.hk.yusen-logistics.com
+sportcenter.yadika.or.id
+test.api.yujky.cn
 uatnewpersonal.yesbank.co.in
 vzpn.ydns.eu
 webmail.bureauveritas.yoomultimedia.com
 www.contactme.yusufhamitkaya.com
 www.dashboard.yamnet.website
 www.db.yugioh-card.com
+www.gitlab.gitlab.git.11eb-af87-10c3abf9bee2.your-proxy.com
 www.helpdesk.youngbox.id
 www.home.yummydelivery.et
 www.kauppa.ykkospalvelu.fi
@@ -409,6 +414,7 @@ yoseopawnshop.com
 yottlyscript.com
 your-server.de
 your-services.online
+youradmission.info
 yourchangelab.com
 yoursexpartner5.com
 yourtrax.com
