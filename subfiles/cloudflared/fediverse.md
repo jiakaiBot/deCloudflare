@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,293 |
+| com | 5,294 |
 | social | 3,281 |
 | net | 2,715 |
 | org | 1,949 |
@@ -825,6 +825,7 @@ Here's a list of public Fediverse services.
 | `adamasnemesis.com` | No |
 | `adamb.ro` | No |
 | `adambindslev.dk` | No |
+| `adamchandler.me` | No |
 | `adamclaxon.com` | No |
 | `adamd.host` | No |
 | `adamgeitgey.com` | No |
@@ -12347,6 +12348,7 @@ Here's a list of public Fediverse services.
 | `gusl.org` | Yes |
 | `gustavosousa.eu` | No |
 | `gutsux.com` | No |
+| `guya.ml` | No |
 | `guysden.online` | No |
 | `guyvernk.com` | No |
 | `guzmer.social` | Yes |
@@ -24477,6 +24479,7 @@ Here's a list of public Fediverse services.
 | `piratenpartij.nl` | No |
 | `pirateparty.be` | No |
 | `pirateradio.social` | Yes |
+| `piratetwitter.com` | No |
 | `pirati.ca` | No |
 | `pirati.cc` | No |
 | `pirati.cz` | Yes |
@@ -25022,6 +25025,7 @@ Here's a list of public Fediverse services.
 | `posts.stream` | Yes |
 | `postsoviet.space` | No |
 | `poststoffarm.de` | No |
+| `postthread.xyz` | No |
 | `postworlds.com` | No |
 | `postxiami.space` | Yes |
 | `postygram.com` | No |
@@ -27826,6 +27830,7 @@ Here's a list of public Fediverse services.
 | `seblog.nl` | No |
 | `sebtobie.de` | No |
 | `sebwarnke.com` | No |
+| `sec.rip` | Yes |
 | `secbig.com` | Yes |
 | `secclo.community` | Yes |
 | `secdiary.com` | No |
@@ -35881,8 +35886,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,330 |
-| Normal | 27,508 |
+| Cloudflare | 8,331 |
+| Normal | 27,512 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
