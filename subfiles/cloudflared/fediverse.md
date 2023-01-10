@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,294 |
-| social | 3,281 |
+| com | 5,295 |
+| social | 3,283 |
 | net | 2,715 |
 | org | 1,949 |
 | de | 1,828 |
@@ -482,6 +482,7 @@ Here's a list of public Fediverse services.
 | `616.one` | No |
 | `619.fm` | Yes |
 | `619.zone` | Yes |
+| `621industries.com` | Yes |
 | `62x54r.ru` | No |
 | `64.re` | No |
 | `6449.work` | No |
@@ -6977,6 +6978,7 @@ Here's a list of public Fediverse services.
 | `dawidpotocki.com` | Yes |
 | `dax.moe` | No |
 | `daydream.cafe` | No |
+| `daytongang.social` | No |
 | `dayvancowboy.net` | Yes |
 | `dazult.com` | No |
 | `dbatley.com` | No |
@@ -7176,7 +7178,7 @@ Here's a list of public Fediverse services.
 | `dejfcold.cz` | No |
 | `dejongs.de` | No |
 | `dekameta.com` | No |
-| `dekeyser.au` | No |
+| `dekeyser.au` | Yes |
 | `dekkia.com` | No |
 | `deklinpike.social` | No |
 | `dekloo.net` | No |
@@ -26215,6 +26217,7 @@ Here's a list of public Fediverse services.
 | `redacted.life` | No |
 | `redbeardthe.ninja` | No |
 | `redcloud.org` | No |
+| `redcook.social` | No |
 | `redeagle.me` | No |
 | `redelephant.us` | No |
 | `redere.org` | No |
@@ -33855,7 +33858,7 @@ Here's a list of public Fediverse services.
 | `waffle.tech` | No |
 | `wafflec.one` | No |
 | `wafflecity.org` | Yes |
-| `waffles.fun` | No |
+| `waffles.fun` | Yes |
 | `wageoffsite.com` | Yes |
 | `wagesofsinisdeath.com` | No |
 | `wagner.pp.ru` | No |
@@ -35887,8 +35890,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,333 |
+| Cloudflare | 8,336 |
 | Normal | 27,511 |
 
 
-### 23.2% of public Fediverse services are using Cloudflare.
+### 23.3% of public Fediverse services are using Cloudflare.
