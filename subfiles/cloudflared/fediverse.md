@@ -4748,6 +4748,7 @@ Here's a list of public Fediverse services.
 | `cathrow.social` | Yes |
 | `cativa.net` | No |
 | `catmargue.org` | No |
+| `catona.cloud` | No |
 | `catonmat.net` | No |
 | `catoptric.com` | No |
 | `catpowered.net` | Yes |
@@ -35922,7 +35923,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,359 |
-| Normal | 27,519 |
+| Normal | 27,520 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
