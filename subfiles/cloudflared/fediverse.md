@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,301 |
+| com | 5,302 |
 | social | 3,286 |
 | net | 2,716 |
 | org | 1,951 |
-| de | 1,828 |
+| de | 1,829 |
 
 
 - Mastodon, Pleroma, etc
@@ -7342,6 +7342,7 @@ Here's a list of public Fediverse services.
 | `desord.re` | No |
 | `despair.life` | No |
 | `despora.de` | No |
+| `dess.ga` | No |
 | `dessert.coffee` | No |
 | `destituent.social` | Yes |
 | `destrocodpiece.wtf` | No |
@@ -9230,6 +9231,7 @@ Here's a list of public Fediverse services.
 | `european-pirates.eu` | No |
 | `europeanservice.eu` | No |
 | `europecom.net` | No |
+| `europhiles.uk` | No |
 | `europlus.zone` | No |
 | `eurotrib.com` | No |
 | `eurovision.social` | Yes |
@@ -13042,6 +13044,7 @@ Here's a list of public Fediverse services.
 | `hfrc.de` | No |
 | `hgoel.dev` | Yes |
 | `hgs.moe` | No |
+| `hh82.de` | No |
 | `hha.app` | No |
 | `hhhammer.de` | No |
 | `hhome.me` | Yes |
@@ -14560,7 +14563,7 @@ Here's a list of public Fediverse services.
 | `itter.xyz` | Yes |
 | `itu.dk` | Yes |
 | `itunix.eu` | No |
-| `itx.chat` | No |
+| `itx.chat` | Yes |
 | `ity.org` | No |
 | `itzzen.net` | No |
 | `iu.social` | Yes |
@@ -15374,6 +15377,7 @@ Here's a list of public Fediverse services.
 | `justinian.codes` | No |
 | `justinmarrington.com` | No |
 | `justjuut.de` | No |
+| `justnormal.men` | No |
 | `justodon.net` | No |
 | `justonecookbook.com` | Yes |
 | `justos.info` | No |
@@ -20981,7 +20985,7 @@ Here's a list of public Fediverse services.
 | `muffin-uwu.com` | Yes |
 | `muffin.pm` | No |
 | `muga.xyz` | No |
-| `mugicha.club` | No |
+| `mugicha.club` | Yes |
 | `mugit.farm` | No |
 | `mugwort.xyz` | No |
 | `muh.wang` | No |
@@ -25929,6 +25933,7 @@ Here's a list of public Fediverse services.
 | `rainyme.ca` | Yes |
 | `rainynight.city` | No |
 | `raisan.co` | Yes |
+| `raise-uav.com` | No |
 | `raisondetre.live` | No |
 | `raitamaa.net` | No |
 | `raite.social` | No |
@@ -27373,6 +27378,7 @@ Here's a list of public Fediverse services.
 | `sandiegourbanists.com` | No |
 | `sandlot.club` | Yes |
 | `sandmill.org` | No |
+| `sandortamas.dev` | No |
 | `sandou.space` | No |
 | `sandwich.net` | No |
 | `sandym.ca` | No |
@@ -31999,6 +32005,7 @@ Here's a list of public Fediverse services.
 | `tootin.online` | No |
 | `tootin.tokyo` | No |
 | `tooting.ai` | No |
+| `tooting.app` | No |
 | `tooting.ch` | No |
 | `tooting.social` | No |
 | `tootist.net` | No |
@@ -35922,8 +35929,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,359 |
-| Normal | 27,520 |
+| Cloudflare | 8,361 |
+| Normal | 27,525 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
