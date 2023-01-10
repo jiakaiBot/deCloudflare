@@ -3038,6 +3038,7 @@ Do not create new issue or we will close it as duplicate.
 | [fonkon99@twitter](https://twitter.com/fonkon99/status/1396068557625073671) | advertise |
 | [FoodSokla@twitter](https://twitter.com/FoodSokla/status/1403218484138442754) | advertise |
 | [foreveraloneami@twitter](https://twitter.com/foreveraloneami/status/1382509367673561088) | advertise |
+| [foreverfIawless@twitter](https://twitter.com/foreverfIawless/status/1612795011480838146) | advertise |
 | [ForidUd69936856@twitter](https://twitter.com/ForidUd69936856/status/1402253597501362182) | advertise |
 | [Forms_Ge@twitter](https://twitter.com/Forms_Ge/status/1413774450676453384) | advertise |
 | [fouad20092000@twitter](https://twitter.com/fouad20092000/status/1472866649971871744) | advertise |
@@ -4251,6 +4252,7 @@ Do not create new issue or we will close it as duplicate.
 | [indobatch@twitter](https://twitter.com/indobatch/status/1549052357081567232) | advertise |
 | [INDRA2952@twitter](https://twitter.com/INDRA2952/status/1390746500385296384) | advertise |
 | [IndrajithTweets@twitter](https://twitter.com/IndrajithTweets/status/1578675459851550720) | advertise |
+| [indrarg899@twitter](https://twitter.com/indrarg899/status/1612662791051313153) | advertise |
 | [infectedmann@twitter](https://twitter.com/infectedmann/status/1388156292125143044) | advertise |
 | [infobbonline@twitter](https://twitter.com/infobbonline/status/1580912783540961280) | advertise |
 | [InfoDigi3@twitter](https://twitter.com/InfoDigi3/status/1393209236088229896) | advertise |
@@ -5146,8 +5148,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5542,6 +5544,7 @@ Do not create new issue or we will close it as duplicate.
 | [LabradaSandoval@twitter](https://twitter.com/LabradaSandoval/status/1381051321848102912) | advertise |
 | [LadyBarani@twitter](https://twitter.com/LadyBarani/status/1387925243558248449) | advertise |
 | [ladyknife88@twitter](https://twitter.com/ladyknife88/status/1401229529452990467) | advertise |
+| [LaeWai@twitter](https://twitter.com/LaeWai/status/1612691656574369794) | advertise |
 | [LahLaaah2@twitter](https://twitter.com/LahLaaah2/status/1493543345720741891) | advertise |
 | [LakayAnNou@twitter](https://twitter.com/LakayAnNou/status/1543703868059648001) | advertise |
 | [LakeNef@twitter](https://twitter.com/LakeNef/status/1492140804873277446) | advertise |
@@ -7843,6 +7846,7 @@ Do not create new issue or we will close it as duplicate.
 | [OPTONEEDSEARCH@twitter](https://twitter.com/OPTONEEDSEARCH/status/1548454333401878528) | advertise |
 | [opuakse6@twitter](https://twitter.com/opuakse6/status/1563590491828273154) | advertise |
 | [Ora33654854@twitter](https://twitter.com/Ora33654854/status/1390769586522443776) | advertise |
+| [OracleByHades@twitter](https://twitter.com/OracleByHades/status/1612795630723944448) | advertise |
 | [Orange15115578@twitter](https://twitter.com/Orange15115578/status/1400454754145234952) | advertise |
 | [Orange23582707@twitter](https://twitter.com/Orange23582707/status/1390373004798959617) | advertise |
 | [orangesweed@twitter](https://twitter.com/orangesweed/status/1381985172153802752) | advertise |
@@ -8783,6 +8787,7 @@ Do not create new issue or we will close it as duplicate.
 | [RobertoGoossens@twitter](https://twitter.com/RobertoGoossens/status/1429012009534824457) | advertise |
 | [Robindivaina@twitter](https://twitter.com/Robindivaina/status/1393566638255984650) | advertise |
 | [RobJPyne@twitter](https://twitter.com/RobJPyne/status/1381766563749982212) | advertise |
+| [RoboCanvas@twitter](https://twitter.com/RoboCanvas/status/1612796426123378689) | advertise |
 | [Robson1Lee@twitter](https://twitter.com/Robson1Lee/status/1608219726672711680) | advertise |
 | [Roccorockz2@twitter](https://twitter.com/Roccorockz2/status/1399533964579151876) | advertise |
 | [ROCC_OUT_SHORTY@twitter](https://twitter.com/ROCC_OUT_SHORTY/status/1380923792822788101) | advertise |
