@@ -9542,6 +9542,7 @@ Do not create new issue or we will close it as duplicate.
 | [soidn12382@twitter](https://twitter.com/soidn12382/status/1564290659644715008) | advertise |
 | [soil35719772@twitter](https://twitter.com/soil35719772/status/1392742661144997890) | advertise |
 | [Sojolah02162432@twitter](https://twitter.com/Sojolah02162432/status/1401944661275545603) | advertise |
+| [SokoBotStatus@twitter](https://twitter.com/SokoBotStatus/status/1612941804583657474) | advertise |
 | [solakoskik@twitter](https://twitter.com/solakoskik/status/1555226731350409216) | advertise |
 | [SoldustMero@twitter](https://twitter.com/SoldustMero/status/1549580892988850182) | advertise |
 | [SolekhudinAK@twitter](https://twitter.com/SolekhudinAK/status/1384881486944509956) | advertise |
