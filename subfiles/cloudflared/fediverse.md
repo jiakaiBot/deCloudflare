@@ -1790,6 +1790,7 @@ Here's a list of public Fediverse services.
 | `anwalt.pub` | No |
 | `anxioustwit.ch` | No |
 | `any-key.press` | No |
+| `any.dev` | Yes |
 | `anyfrog.net` | Yes |
 | `anyhu.gs` | No |
 | `anymore.nl` | No |
@@ -5677,7 +5678,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7956,6 +7957,7 @@ Here's a list of public Fediverse services.
 | `doshidon.com` | No |
 | `dostoevsskey.com` | Yes |
 | `dot.or.at` | No |
+| `dotart.blog` | No |
 | `dotdon.jp` | Yes |
 | `dotdon.net` | No |
 | `dotexperiment.org` | No |
@@ -15921,6 +15923,7 @@ Here's a list of public Fediverse services.
 | `killtheradio.net` | No |
 | `kilo.cafe` | No |
 | `kilobaser.info` | No |
+| `kilobyte.club` | No |
 | `kiloduck.com` | Yes |
 | `kimberlyhirsh.com` | No |
 | `kimharding.net` | No |
@@ -16392,6 +16395,7 @@ Here's a list of public Fediverse services.
 | `krinite.com` | No |
 | `kriom.net` | No |
 | `krishanv.xyz` | No |
+| `kristaps.lv` | No |
 | `kristianfreeman.com` | Yes |
 | `kristoffer-strube.dk` | No |
 | `krisztianfekete.org` | No |
@@ -21971,6 +21975,7 @@ Here's a list of public Fediverse services.
 | `nickw.io` | Yes |
 | `nickwasused.com` | Yes |
 | `nickwood.ninja` | No |
+| `nickwrites.ca` | No |
 | `nickz.org` | No |
 | `nico-bayati.de` | No |
 | `nicoban.one` | No |
@@ -31360,7 +31365,7 @@ Here's a list of public Fediverse services.
 | `thevelvetedge.net` | No |
 | `thevideoverse.com` | No |
 | `thevillage.chat` | Yes |
-| `thevillage.social` | No |
+| `thevillage.social` | Yes |
 | `thevillastraylight.com` | No |
 | `thevipvipers.space` | No |
 | `thewaifu.club` | No |
@@ -32106,6 +32111,7 @@ Here's a list of public Fediverse services.
 | `trailblazer.tube` | No |
 | `trailrunnersdog.de` | Yes |
 | `trailsroc.org` | No |
+| `train.cz` | No |
 | `trainhobo.com` | Yes |
 | `training-fitness.fun` | No |
 | `trains.coffee` | No |
@@ -32147,7 +32153,7 @@ Here's a list of public Fediverse services.
 | `transmutagen.net` | No |
 | `transmuted.city` | No |
 | `transneptune.net` | No |
-| `transparentedge.eu` | No |
+| `transparentedge.eu` | Yes |
 | `transpeak.lgbt` | No |
 | `transponderings.blog` | No |
 | `transportation.social` | Yes |
@@ -35872,8 +35878,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,329 |
-| Normal | 27,500 |
+| Cloudflare | 8,331 |
+| Normal | 27,504 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
