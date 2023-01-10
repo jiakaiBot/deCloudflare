@@ -107,6 +107,7 @@ Or is this merely a case of simple modesty?
 | Alex Kim | Employee | |
 | Alex Krawiec | Technical Writer and Engineer |  |
 | Alex Krivit | Employee |  |
+| Alex Kuck | Employee | |
 | Alex Musgrove | Account Executive |  |
 | Alex Odagiu | Special Projects |  |
 | Alex Robinson | Systems Engineer | arobinson@cloudflare.com<br>https://twitter.com/alexwritescode<br>https://www.linkedin.com/in/alexdrobinson<br>https://www.zoominfo.com/p/Alex-Robinson/1816533224<br>https://github.com/a-robinson |
