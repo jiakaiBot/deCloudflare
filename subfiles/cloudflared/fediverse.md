@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,292 |
+| com | 5,293 |
 | social | 3,281 |
 | net | 2,715 |
 | org | 1,949 |
@@ -916,6 +916,7 @@ Here's a list of public Fediverse services.
 | `adwebcat.com` | No |
 | `adyxax.org` | Yes |
 | `aebok.com` | Yes |
+| `aedius.fr` | No |
 | `aegibson.me` | No |
 | `aegiszero.is` | Yes |
 | `aekrylov.me` | No |
@@ -7398,6 +7399,7 @@ Here's a list of public Fediverse services.
 | `devolutionnet.com` | No |
 | `devolver.social` | No |
 | `devonrjohnson.stream` | Yes |
+| `devontechnologies.com` | No |
 | `devopsgenius.com` | No |
 | `devosi.org` | No |
 | `devosmium.xyz` | Yes |
@@ -20668,6 +20670,7 @@ Here's a list of public Fediverse services.
 | `mrcippy.xyz` | Yes |
 | `mrclon.net` | No |
 | `mrcol.es` | No |
+| `mrdaft.fr` | No |
 | `mrelay.link` | No |
 | `mrfunkedude.com` | No |
 | `mrh.io` | No |
@@ -32179,7 +32182,7 @@ Here's a list of public Fediverse services.
 | `travelodon.net` | No |
 | `travelpandas.eu` | No |
 | `travelpandas.fr` | No |
-| `travelpandas.xyz` | Yes |
+| `travelpandas.xyz` | No |
 | `travelsoftux.co.uk` | No |
 | `travisshears.xyz` | No |
 | `travnewmatic.com` | Yes |
@@ -35878,8 +35881,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,331 |
-| Normal | 27,504 |
+| Cloudflare | 8,330 |
+| Normal | 27,508 |
 
 
 ### 23.2% of public Fediverse services are using Cloudflare.
