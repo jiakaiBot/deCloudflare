@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [No relevant user found](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2533)
 - [Fix RSS Error for EU-Startups](https://github.com/automatisch/automatisch/issues/835)
 - [x/vulndb: potential Go vuln in github.com/cloudflare/cloudflared: GHSA-hgwp-4vp4-qmm2](https://github.com/golang/vulndb/issues/1392)
 - [S3: Failed to save image on recipe import](https://github.com/TandoorRecipes/recipes/issues/2259)
