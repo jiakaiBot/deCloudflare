@@ -3446,7 +3446,7 @@ Here's a list of public Fediverse services.
 | `bitcoinhackers.org` | Yes |
 | `bitcoinlizard.net` | No |
 | `bitcoinmagazine.social` | No |
-| `bitcoinmastodon.org` | No |
+| `bitcoinmastodon.org` | Yes |
 | `bitcoinmining.social` | No |
 | `bitcoinplebs.net` | No |
 | `bitcoinsasquatch.com` | No |
@@ -14881,7 +14881,7 @@ Here's a list of public Fediverse services.
 | `jeffthompson.dev` | Yes |
 | `jeffvautin.com` | No |
 | `jeffyen.net` | No |
-| `jehanalvani.com` | No |
+| `jehanalvani.com` | Yes |
 | `jehuty11.com` | No |
 | `jel-tech.com` | Yes |
 | `jeli.kz` | No |
@@ -16441,7 +16441,7 @@ Here's a list of public Fediverse services.
 | `kryptozoology.xyz` | No |
 | `kryptykphysh.xyz` | No |
 | `krysinmedia.com` | Yes |
-| `kryta.app` | No |
+| `kryta.app` | Yes |
 | `kryta.xyz` | No |
 | `ksidi.top` | No |
 | `ksite.de` | No |
@@ -29416,6 +29416,7 @@ Here's a list of public Fediverse services.
 | `spork.gay` | No |
 | `spork.gg` | No |
 | `spork.org` | No |
+| `spork.quest` | Yes |
 | `sportmed.social` | No |
 | `sportmedsocial.com` | No |
 | `sports-scores.win` | No |
@@ -31318,7 +31319,7 @@ Here's a list of public Fediverse services.
 | `theprotondandelion.org` | No |
 | `thepub.xyz` | No |
 | `thequantumblockchainproject.com` | No |
-| `thequietplace.social` | Yes |
+| `thequietplace.social` | No |
 | `theradio.au` | Yes |
 | `theragnarbay.org` | No |
 | `therealblue.de` | No |
@@ -35912,8 +35913,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,350 |
-| Normal | 27,519 |
+| Cloudflare | 8,353 |
+| Normal | 27,517 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
