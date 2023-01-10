@@ -15,6 +15,7 @@ scm-uat.shop.7-11.com.tw
 test.cert.70r.de
 wetrok.storage.7si.ch
 www.7servicesjax.com
+70skin.com
 79xmz3lmss.com
 7gate.vc
 api.7-eleven.com
@@ -22,3 +23,4 @@ api.7semyan.ru
 loyalty-qa-api.7eleven.com.my
 staging.7rivers.kz
 tr.7wdata.net
+www.gitlab.git.deviqoledyh.7e8e.xyz
