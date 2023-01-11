@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [HTML 'Class not found' errors when using CDN stylesheet](https://github.com/apache/netbeans/issues/5276)
 - [Feat.Req Automation: boot nodes management](https://github.com/graphops/graphcast-sdk/issues/35)
 - [No relevant user found](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2533)
 - [Fix RSS Error for EU-Startups](https://github.com/automatisch/automatisch/issues/835)
