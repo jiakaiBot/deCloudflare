@@ -726,6 +726,7 @@ adfs.jfpe.jus.br
 adfs.jmcbiz.com
 amazon-icfrtg.jungleheart.com
 amazon-izaqs.justdied.com
+amazon-xfcwdas.jungleheart.com
 anmeldung.jubiko.com
 api-ent1.jio.com
 api-st.jio.com
@@ -819,6 +820,7 @@ jetcontrol.ro
 jetflamedeliveryservice.com
 jetskiservice.ro
 jevicamoney.com
+jf-hvidevareservice.dk
 jg-teknik.dk
 jh-industrieservice.de
 jhakkas.com.np
@@ -859,6 +861,7 @@ joyhaftsyears.com
 jppn.ne.jp
 jr-central.co.jp
 jra.jp
+jrecaptcha.jdoxx.com
 jrleachauthor.com
 juego-de-la-vida.ga
 juergeninez.com
@@ -895,6 +898,7 @@ sandkasse-jhp.jfm360kunder.dk
 sante.journaldesfemmes.fr
 servicos.jslnext.com.br
 shop.edstore.gitlab.joshuaanello.com
+shop.jailers.de
 sign-in.amazon.go.jp.jp-webservice.info
 sip.jobcenter-ge.de
 sit-int-ev.jioreel.com
@@ -943,6 +947,7 @@ www.jerseyhighdelivery.com
 www.jessicagrimm.com
 www.jetaasafetyandsecurity.in
 www.jetflamedeliveryservice.com
+www.jf-hvidevareservice.dk
 www.jftc.go.jp
 www.jinjyagoshuin.com
 www.jll.co.uk
@@ -951,6 +956,7 @@ www.jobapscloud.com
 www.jobsrepublictoo.nl
 www.jocelynrish.com
 www.jodiharveyart.com
+www.jodysbakery.net
 www.joeescateringservice.com
 www.jogpeople.com
 www.john-roche-author.com
