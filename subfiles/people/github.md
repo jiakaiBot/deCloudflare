@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Feat.Req Automation: boot nodes management](https://github.com/graphops/graphcast-sdk/issues/35)
 - [No relevant user found](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2533)
 - [Fix RSS Error for EU-Startups](https://github.com/automatisch/automatisch/issues/835)
 - [x/vulndb: potential Go vuln in github.com/cloudflare/cloudflared: GHSA-hgwp-4vp4-qmm2](https://github.com/golang/vulndb/issues/1392)
