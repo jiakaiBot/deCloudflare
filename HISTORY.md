@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-11: [Network Performance Issues in DFW](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/nq5ds6bsqj20)
 - 2023-01-10: [Cache Reserve errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/h07khhdb3009)
 - 2023-01-13: [OSL (Oslo) on 2023-01-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gl4kr4dsnz06)
 - 2023-01-13: [BOS (Boston) on 2023-01-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zzldfm55g46h)
