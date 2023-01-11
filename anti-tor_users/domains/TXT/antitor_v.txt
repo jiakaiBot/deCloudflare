@@ -1230,6 +1230,7 @@ api.vivapp.live
 api.volkswagengroup.fr
 api.vtbay.vn
 api2.vetrf.ru
+apias.vsp.com
 apigateway-stg.veritas.com
 apigateway.veritas.com
 apigw.vib.com.vn
@@ -1246,6 +1247,8 @@ autodiscover.vanguardcapital.group
 autodiscover.vanguardseguridadindustrial.com
 autodiscover.versaofitness.site
 autodiscover.vortexmediaworkshops.com
+avito.avito.gitlab.sberbank.git.sber.ffxdid6m4my1niy.vh.vteam.tech
+avito.blablacar.gitlab.avito.avito.uxqtjjdid4wuyv4.comercial.vteam.tech
 ba4b3ndin4m1c4.vercel.app
 bacanaplay.com.br.blog.wpsites.validbox.com
 baoviphero2641996-gmailcom.vercel.app
@@ -1266,6 +1269,7 @@ cdn3.vzwdm.com
 cekliveness.com.verifywajah.com
 cjohn772-gmailcom.vercel.app
 click.e.vsp.com
+click.email.vegas.com
 click.vp.volatilitypredictor.com
 clicks.valk.nl
 cloud.e.vsp.com
@@ -1277,10 +1281,12 @@ coturn.qa.app.visitme.doctor
 cpanel.vasport.cl
 cpanel.vertexpacking.au
 cpanel.vietnamroblox.com
+cpanel.vitaltrust-global.com
 cpcalendars.velukkudidiscourses.com
 cpcalendars.videodyno.com.au
 cpcalendars.vietnamroblox.com
 cpcalendars.vighospitaljalandhar.com
+cpcalendars.vitaltrust-global.com
 cpcalendars.vortexmediaworkshops.com
 cpcontacts.velukkudidiscourses.com
 cpcontacts.videodyno.com.au
@@ -1288,6 +1294,7 @@ cpcontacts.vietnamroblox.com
 cpcontacts.viewty7.site
 cpcontacts.vighospitaljalandhar.com
 cpcontacts.vistana.com.ar
+cpcontacts.vitaltrust-global.com
 cpcontacts.vortexmediaworkshops.com
 crm.viasale.travel
 ctf0.vsec.university
@@ -1311,6 +1318,7 @@ en.virtualhelpdesk.online
 enews.vietnamairlines.com
 ernestowusu80-gmailcom.vercel.app
 events-dev.vianai.site
+faturacao.vertlabis-web.com
 feb-security.vapetaninyo.info
 frokyyy123-gmailcom.vercel.app
 fuscaclubemogi.com.br.volksmeetdragracing.com.br
@@ -1322,6 +1330,7 @@ git.gitlab.gitlab.gitlab.gitlab.www.2019.vermeernorthwest.com
 gitlab.git.i.vashsad37.ru
 gitlab.gitlab.blog.app.vkgo.info
 gitlab.gitlab.git.accounts.vykup-vashego-avto.com
+gitlab.gitlab.gitlab.git.git.gitlab.blog.vteam.tech
 gitlab.smtp.vacationtraderonline.com
 hasanjafory-gmailcom.vercel.app
 hazel-server-ppbimurjwk.vercel.app
@@ -1330,6 +1339,7 @@ hcp5csambbrun-3a.app.eu.dp.vwg-connect.com
 helpdesk.villagehelpdesk.com
 helpdesk.virginactive.com.sg
 hunter.vercel.app
+hunterraffety.vercel.app
 hunterweii.vercel.app
 huuku901ax0bkdf.store.outlook.vermeernorthwest.com
 iam.vepdev.com
@@ -1351,6 +1361,7 @@ logon.institutional.vanguard.com
 mail.vietnamroblox.com
 mail.viroblock.uk
 mail.viscotec.de
+mail.vitaltrust-global.com
 main.vscode-cdn.net
 mauritserkendiep-gmailcom.vercel.app
 mb.viverderastreamento.com.br
@@ -1400,6 +1411,7 @@ rspace.services.vision4it.de
 s1.vnecdn.net
 santiagorodriguezmastoros-gmailcom.vercel.app
 sarageld-gmailcom.vercel.app
+sberbank.avito.blablacar.git.sber.ffxdid6m4my1niy.vh.vteam.tech
 securenet.vodafone.ie
 sentry.kube.viralgains.com
 servicedesk.vbg-it.de
@@ -1445,6 +1457,7 @@ vaccination-info.eu
 vaccinerights.com
 vainillaweddings.com
 valcester.com.br
+valentineflorist.net
 valeowipers.us
 valerianworkshops.com
 validaciondedomicilios.com.mx
@@ -1471,7 +1484,6 @@ vaytiennganhang.net
 vbec.nl
 vcbdigibbaink.viettcoimbank.com
 veebox.co.uk
-vegas777netlogin.icu
 veggiebank.in
 veinticuatrosietesecurity.cl
 velocitywls.virtusa.com
@@ -1487,6 +1499,7 @@ verifyid.id
 verifyphoto.id
 verifyuser-wf.com
 veritonic.com
+vermittlerws.vhv.de
 vernegallery.com
 verseverify.com.ng
 vertexroofingandcladding.co.uk
@@ -1507,6 +1520,7 @@ viessmannservice.ro
 vietnamroblox.com
 vieu.cc
 viewablemedia.net
+vigorousism.com
 vikas-academy.com
 vikingstrength.ca
 villainarts.com
@@ -1520,6 +1534,7 @@ vision-service.be
 vistoolr.net
 vitalitywellnessmissoula.com
 vitaltech.com
+vitaltrust-global.com
 vitpost.gq
 vittrack.gq
 vivienholl.com
@@ -1530,6 +1545,7 @@ voenews.com.br
 voessing.net
 vohhall71.com
 vohhall91.com
+volcanoactivity.com
 volkerhartzsch.com
 vologda-oblast.ru
 vommerenexclusive.nl
@@ -1538,6 +1554,7 @@ vps4.me
 vqnqrs54.com
 vrcvlyreadingservice.org
 vrf-lastsubscription.com
+vrhermit.com
 vrpfilms.com
 vs21drop.com
 vs22drop.com
@@ -1550,7 +1567,9 @@ vulgartaivert.website
 vwin88.ltd
 webdisk.venomkimya.com.tr
 webdisk.vietnamroblox.com
+webdisk.vitaltrust-global.com
 webmail.vietnamroblox.com
+webmail.vitaltrust-global.com
 wpg.vercel.app
 www.authentic01.vojock.com
 www.bestofhenricocounty.com.viajarfacil.info
@@ -1561,6 +1580,7 @@ www.git.git.gitlab.git.sslvpn.vpkver.ru
 www.git.gitlab.i.vashsad37.ru
 www.gitlab.g.sitemap.vkgo.info
 www.idnpoker95.com.viajarfacil.info
+www.mecagrogrup.videocontrol.md
 www.moneyline.vztrader.com
 www.southdakotasbest.com.viajarfacil.info
 www.superdryonsale.com.viajarfacil.info
@@ -1576,6 +1596,7 @@ www.vasculardiseasemanagement.com
 www.vca-koeln.de
 www.vdoncasterescorts.co.uk
 www.veganzetta.org
+www.verifyreceives.com
 www.verifythis.com
 www.verkehrskunde.sh
 www.verstehbahnhof.de
