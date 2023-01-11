@@ -363,6 +363,7 @@ ov.youbuy.com
 pcidss.yandex.net
 pos.yesgrp.com
 qa.yalamanchili.in
+qa1-cdnfs1.yieldoptimizer.com
 qa3-ag.yieldoptimizer.com
 reeddiffuser.yukha.com.my
 resize.yandex.net
@@ -370,7 +371,9 @@ rest.edu.you-connect.de
 rest.edupub.you-connect.de
 s.yimg.com
 scsapp01.hk.yusen-logistics.com
+signln-accountapp1e.ymsdszx.com
 sportcenter.yadika.or.id
+support.yyproductions.net
 test.api.yujky.cn
 uatnewpersonal.yesbank.co.in
 vzpn.ydns.eu
