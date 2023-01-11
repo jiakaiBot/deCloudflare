@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,310 |
+| com | 5,311 |
 | social | 3,290 |
 | net | 2,719 |
 | org | 1,954 |
@@ -540,6 +540,7 @@ Here's a list of public Fediverse services.
 | `805.social` | Yes |
 | `8086.net` | Yes |
 | `8086.org` | No |
+| `80chars.io` | No |
 | `80o.xyz` | No |
 | `80percent.social` | Yes |
 | `819.blue` | No |
@@ -2697,6 +2698,7 @@ Here's a list of public Fediverse services.
 | `badgerson.com` | No |
 | `badhills.de` | No |
 | `badly.co` | Yes |
+| `badpacman.io` | Yes |
 | `badpixels.be` | No |
 | `badposts.net` | No |
 | `badprocess.me` | No |
@@ -4689,6 +4691,7 @@ Here's a list of public Fediverse services.
 | `casoetto.net` | No |
 | `caspar.social` | No |
 | `caspodon.club` | No |
+| `casraf.dev` | No |
 | `cassette.click` | No |
 | `cassone.social` | No |
 | `castironguy.ca` | No |
@@ -14805,6 +14808,7 @@ Here's a list of public Fediverse services.
 | `jaseroque.com` | Yes |
 | `jasforce.com` | No |
 | `jasmine.lgbt` | No |
+| `jasnell.me` | Yes |
 | `jason.re` | Yes |
 | `jasonbaker.info` | No |
 | `jasondaigo.de` | No |
@@ -15113,6 +15117,7 @@ Here's a list of public Fediverse services.
 | `joelanders.net` | No |
 | `joelaro.com` | No |
 | `joelburns.me` | No |
+| `joeldebruijn.nl` | No |
 | `joeldmoore.com` | No |
 | `joelle.us` | No |
 | `joelvim.net` | Yes |
@@ -19734,7 +19739,7 @@ Here's a list of public Fediverse services.
 | `metalmatze.de` | No |
 | `metalsha.re` | No |
 | `metalverse.social` | No |
-| `metamodernism.social` | Yes |
+| `metamodernism.social` | No |
 | `metamuffin.org` | No |
 | `metapan.online` | No |
 | `metaphil.de` | No |
@@ -30275,6 +30280,7 @@ Here's a list of public Fediverse services.
 | `swedneck.xyz` | Yes |
 | `sweetappleacr.es` | No |
 | `sweetcliche.com` | Yes |
+| `sweetestdelilah.com` | No |
 | `sweetjams.club` | No |
 | `sweetme.at` | Yes |
 | `sweetpastel.space` | No |
@@ -35983,8 +35989,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,381 |
-| Normal | 27,559 |
+| Cloudflare | 8,382 |
+| Normal | 27,564 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
