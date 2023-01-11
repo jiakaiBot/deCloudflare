@@ -3737,6 +3737,7 @@ Here's a list of public Fediverse services.
 | `bluntbangs.com` | No |
 | `blurb.town` | No |
 | `blurts.net` | No |
+| `blyler.cc` | Yes |
 | `bmaci.me` | No |
 | `bmannconsulting.com` | Yes |
 | `bmbl.fun` | No |
@@ -35940,7 +35941,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,366 |
+| Cloudflare | 8,367 |
 | Normal | 27,531 |
 
 
