@@ -9774,6 +9774,7 @@ Do not create new issue or we will close it as duplicate.
 | [suzume_janai@twitter](https://twitter.com/suzume_janai/status/1402257716974919688) | advertise |
 | [SuzuTomo2001@twitter](https://twitter.com/SuzuTomo2001/status/1577679736121458688) | advertise |
 | [su_ndrhlaing@twitter](https://twitter.com/su_ndrhlaing/status/1399618984626905088) | advertise |
+| [SVeejakumaran@twitter](https://twitter.com/SVeejakumaran/status/1613255511914483719) | advertise |
 | [svencaos@twitter](https://twitter.com/svencaos/status/1599352328712499200) | advertise |
 | [Svvvvyi@twitter](https://twitter.com/Svvvvyi/status/1383555195305484292) | advertise |
 | [Swag124455@twitter](https://twitter.com/Swag124455/status/1397945567238627332) | advertise |
