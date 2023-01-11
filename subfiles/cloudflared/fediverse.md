@@ -22526,7 +22526,7 @@ Here's a list of public Fediverse services.
 | `notnull.space` | No |
 | `notobono.de` | No |
 | `notodoesprogramacion.es` | No |
-| `notohiro.com` | No |
+| `notohiro.com` | Yes |
 | `notorious.gay` | No |
 | `notpickard.com` | No |
 | `notreal.pw` | No |
@@ -26412,6 +26412,7 @@ Here's a list of public Fediverse services.
 | `repc.co` | Yes |
 | `repl.co` | Yes |
 | `replacementhipster.com` | No |
+| `replicants.cafe` | No |
 | `replik.xyz` | No |
 | `repnop.dev` | No |
 | `repomaa.com` | No |
@@ -35437,6 +35438,7 @@ Here's a list of public Fediverse services.
 | `yourintrinsicself.com` | No |
 | `yourlife.social` | No |
 | `yournearestbar.com` | Yes |
+| `yournetwork.cloud` | No |
 | `yourownnet.cloud` | No |
 | `yourrhythm.jp` | No |
 | `yourshit.rocks` | No |
@@ -35941,8 +35943,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,367 |
-| Normal | 27,531 |
+| Cloudflare | 8,368 |
+| Normal | 27,532 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
