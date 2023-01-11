@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,305 |
+| com | 5,306 |
 | social | 3,286 |
 | net | 2,716 |
 | org | 1,951 |
-| de | 1,830 |
+| de | 1,832 |
 
 
 - Mastodon, Pleroma, etc
@@ -3583,6 +3583,7 @@ Here's a list of public Fediverse services.
 | `blan.cc` | Yes |
 | `blanboom.org` | Yes |
 | `blank.org` | No |
+| `blanketfort.blog` | No |
 | `blankshrimp.com` | No |
 | `blanu.net` | No |
 | `blarg.world` | No |
@@ -4788,6 +4789,7 @@ Here's a list of public Fediverse services.
 | `caylee.de` | No |
 | `cayote.cf` | No |
 | `cayra.info` | No |
+| `cbc.lol` | Yes |
 | `cbcmelbourne.life` | No |
 | `cbctech.app` | No |
 | `cbeck.dev` | No |
@@ -7263,6 +7265,7 @@ Here's a list of public Fediverse services.
 | `deninet.com` | No |
 | `denizencity.com` | No |
 | `denizens.social` | No |
+| `denk-nach-mcfly.de` | No |
 | `denkbrettl.org` | No |
 | `denkfabrikblog.de` | No |
 | `dennis.gg` | Yes |
@@ -9924,6 +9927,7 @@ Here's a list of public Fediverse services.
 | `felleisen.de` | No |
 | `fellies.social` | No |
 | `fellr.net` | No |
+| `fellstar.one` | No |
 | `felmey.org` | No |
 | `felmo.app` | No |
 | `felvidek.online` | No |
@@ -13982,6 +13986,7 @@ Here's a list of public Fediverse services.
 | `immers.space` | No |
 | `immerweiterlaufen.net` | No |
 | `immerweiterlaufen.org` | No |
+| `immibis.com` | No |
 | `imn-fujita.com` | No |
 | `imno.in` | No |
 | `imoimo.xyz` | No |
@@ -25120,6 +25125,7 @@ Here's a list of public Fediverse services.
 | `poweredbygay.social` | No |
 | `powerlineblog.com` | Yes |
 | `powerlot.net` | No |
+| `powersrv.de` | No |
 | `powerweb.io` | No |
 | `poya.icu` | Yes |
 | `poyo.me` | No |
@@ -35944,8 +35950,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,368 |
-| Normal | 27,533 |
+| Cloudflare | 8,369 |
+| Normal | 27,538 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
