@@ -2214,6 +2214,7 @@ Do not create new issue or we will close it as duplicate.
 | [DanTran09071985@twitter](https://twitter.com/DanTran09071985/status/1390363471179489282) | advertise |
 | [danvice639s@twitter](https://twitter.com/danvice639s/status/1610309573570592772) | advertise |
 | [Danxity@twitter](https://twitter.com/Danxity/status/1521653614816956416) | advertise |
+| [Danyntlp@twitter](https://twitter.com/Danyntlp/status/1613032210684346370) | advertise |
 | [DanyPratmanto@twitter](https://twitter.com/DanyPratmanto/status/1433013360367312904) | advertise |
 | [danzia224@twitter](https://twitter.com/danzia224/status/1470779146427064331) | advertise |
 | [DaoTrungLap1@twitter](https://twitter.com/DaoTrungLap1/status/1386002962531586050) | advertise |
@@ -3015,6 +3016,7 @@ Do not create new issue or we will close it as duplicate.
 | [FlawCra@twitter](https://twitter.com/FlawCra/status/1580222680694812672) | advertise |
 | [FlB22659378@twitter](https://twitter.com/FlB22659378/status/1396356630082514944) | advertise |
 | [flDtnyWkEEqOpk9@twitter](https://twitter.com/flDtnyWkEEqOpk9/status/1388450053430202369) | advertise |
+| [Flip42O@twitter](https://twitter.com/Flip42O/status/1613027878626594817) | advertise |
 | [FliuchOff@twitter](https://twitter.com/FliuchOff/status/1573550524946857986) | advertise |
 | [Flonerr@twitter](https://twitter.com/Flonerr/status/1390128815595130888) | advertise |
 | [Floofpics@twitter](https://twitter.com/Floofpics/status/1532870528763043840) | advertise |
@@ -3146,6 +3148,7 @@ Do not create new issue or we will close it as duplicate.
 | [Gangste72661199@twitter](https://twitter.com/Gangste72661199/status/1400366679192858625) | advertise |
 | [Gangster55Gang@twitter](https://twitter.com/Gangster55Gang/status/1501172639359975427) | advertise |
 | [Gans192919191@twitter](https://twitter.com/Gans192919191/status/1563603499228639232) | advertise |
+| [ganyuenjoyer69@twitter](https://twitter.com/ganyuenjoyer69/status/1613023325508493318) | advertise |
 | [GAomizu@twitter](https://twitter.com/GAomizu/status/1385919913861156867) | advertise |
 | [GaRMaNi88317663@twitter](https://twitter.com/GaRMaNi88317663/status/1390341978458492930) | advertise |
 | [GarrettsNetwork@twitter](https://twitter.com/GarrettsNetwork/status/1475938283850973195) | advertise |
@@ -10344,6 +10347,7 @@ Do not create new issue or we will close it as duplicate.
 | [thuyvan_783@twitter](https://twitter.com/thuyvan_783/status/1576109484484988929) | advertise |
 | [ThuzarT00985996@twitter](https://twitter.com/ThuzarT00985996/status/1394809068502491137) | advertise |
 | [ThuZarW61704898@twitter](https://twitter.com/ThuZarW61704898/status/1390733792663412738) | advertise |
+| [ThwayBala@twitter](https://twitter.com/ThwayBala/status/1613022044349956102) | advertise |
 | [thway_yin@twitter](https://twitter.com/thway_yin/status/1397078843416932362) | advertise |
 | [ThweNuSwe7@twitter](https://twitter.com/ThweNuSwe7/status/1472228009839001606) | advertise |
 | [ThweThw86283263@twitter](https://twitter.com/ThweThw86283263/status/1392055046829842437) | advertise |
