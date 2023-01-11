@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,304 |
+| com | 5,305 |
 | social | 3,286 |
 | net | 2,716 |
 | org | 1,951 |
@@ -9942,6 +9942,7 @@ Here's a list of public Fediverse services.
 | `feneas.org` | No |
 | `fenetre.dev` | No |
 | `fengan.ga` | No |
+| `fenix-cantina.com` | No |
 | `fenix.cafe` | No |
 | `fenk.org` | No |
 | `fennec.online` | No |
@@ -35944,7 +35945,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,368 |
-| Normal | 27,532 |
+| Normal | 27,533 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
