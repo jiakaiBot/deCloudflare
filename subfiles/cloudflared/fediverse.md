@@ -19657,6 +19657,7 @@ Here's a list of public Fediverse services.
 | `meowclown.de` | No |
 | `meowhome.xyz` | No |
 | `meowing.online` | Yes |
+| `meowmeow.gay` | Yes |
 | `meowr.me` | No |
 | `meowr.org` | No |
 | `meows.life` | No |
@@ -29254,7 +29255,7 @@ Here's a list of public Fediverse services.
 | `sousoupe.fr` | No |
 | `souterra.com` | Yes |
 | `southcape.social` | No |
-| `southcoastgeek.uk` | No |
+| `southcoastgeek.uk` | Yes |
 | `southflorida.social` | No |
 | `southfox.gay` | Yes |
 | `southfox.me` | Yes |
@@ -35982,8 +35983,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,379 |
-| Normal | 27,560 |
+| Cloudflare | 8,381 |
+| Normal | 27,559 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
