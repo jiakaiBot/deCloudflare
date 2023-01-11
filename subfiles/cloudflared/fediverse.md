@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,302 |
+| com | 5,304 |
 | social | 3,286 |
 | net | 2,716 |
 | org | 1,951 |
-| de | 1,829 |
+| de | 1,830 |
 
 
 - Mastodon, Pleroma, etc
@@ -72,6 +72,7 @@ Here's a list of public Fediverse services.
 | `0lb.be` | No |
 | `0mph.de` | No |
 | `0ms.me` | No |
+| `0n.ee` | Yes |
 | `0ne.day` | Yes |
 | `0pp.us` | Yes |
 | `0q0.xyz` | No |
@@ -808,6 +809,7 @@ Here's a list of public Fediverse services.
 | `activitypub-troll.cf` | Yes |
 | `activitypub.actor` | Yes |
 | `activitypub.be` | No |
+| `activitypub.ca` | No |
 | `activitypub.eu` | No |
 | `activitypub.tk` | No |
 | `activitypubhub.de` | No |
@@ -3791,6 +3793,7 @@ Here's a list of public Fediverse services.
 | `boeck.social` | No |
 | `boehmke.net` | No |
 | `boelz.eu` | No |
+| `boerdica.de` | No |
 | `bof.space` | No |
 | `bofa.lol` | Yes |
 | `boffosocko.com` | No |
@@ -5561,6 +5564,7 @@ Here's a list of public Fediverse services.
 | `code4lib.social` | No |
 | `codebase.one` | No |
 | `codechem.io` | Yes |
+| `codecoffin.com` | No |
 | `codeday.social` | Yes |
 | `codefor.de` | No |
 | `codegito.xyz` | No |
@@ -9847,6 +9851,7 @@ Here's a list of public Fediverse services.
 | `fediverse.partners` | No |
 | `fediverse.pl` | Yes |
 | `fediverse.pw` | No |
+| `fediverse.ro` | No |
 | `fediverse.rocks` | No |
 | `fediverse.ru` | No |
 | `fediverse.science` | No |
@@ -14048,6 +14053,7 @@ Here's a list of public Fediverse services.
 | `indie.host` | No |
 | `indieapps.space` | No |
 | `indieauthors.social` | No |
+| `indiecreatorhub.com` | Yes |
 | `indiefedi.party` | No |
 | `indiefilm.fun` | Yes |
 | `indiegamedev.online` | No |
@@ -15990,6 +15996,7 @@ Here's a list of public Fediverse services.
 | `kinl.gq` | No |
 | `kinlan.me` | No |
 | `kinlane.com` | Yes |
+| `kinney.tax` | No |
 | `kino.ma` | No |
 | `kinowolnosc.pl` | No |
 | `kinu.ml` | Yes |
@@ -16756,6 +16763,7 @@ Here's a list of public Fediverse services.
 | `lancasterpa.social` | No |
 | `lanceur-alerte.tv` | No |
 | `lanciano.it` | Yes |
+| `lancianoblog.it` | Yes |
 | `landbox.info` | No |
 | `landofkittens.community` | Yes |
 | `landofkittens.social` | Yes |
@@ -17505,6 +17513,7 @@ Here's a list of public Fediverse services.
 | `litmind.club` | Yes |
 | `litodon.de` | No |
 | `litrat.xyz` | No |
+| `litrpg.online` | No |
 | `litrpgnovels.com` | No |
 | `litschner.com` | No |
 | `litterae.social` | No |
@@ -19411,7 +19420,7 @@ Here's a list of public Fediverse services.
 | `mdr-services.com` | No |
 | `mdrockwell.net` | No |
 | `mdrqnxtagon.pw` | No |
-| `mds.name` | No |
+| `mds.name` | Yes |
 | `mdunn.io` | No |
 | `mdx.ac.uk` | Yes |
 | `me.dm` | Yes |
@@ -20334,7 +20343,7 @@ Here's a list of public Fediverse services.
 | `modem.show` | Yes |
 | `moderators.tv` | No |
 | `modern-industry.com` | No |
-| `modernfanatic.com` | No |
+| `modernfanatic.com` | Yes |
 | `moderntraditional.com` | No |
 | `modest.com` | Yes |
 | `modestymaise.com` | No |
@@ -26362,7 +26371,7 @@ Here's a list of public Fediverse services.
 | `reluctantly.social` | No |
 | `rem7.space` | No |
 | `remark.as` | No |
-| `remarkably.social` | Yes |
+| `remarkably.social` | No |
 | `remben.ch` | No |
 | `remcorp.fr` | No |
 | `remembertheend.com` | Yes |
@@ -29578,6 +29587,7 @@ Here's a list of public Fediverse services.
 | `stamps.town` | No |
 | `stan.one` | No |
 | `stancik.cz` | No |
+| `stancliff.dev` | No |
 | `standup-comics.net` | No |
 | `standyck.com` | No |
 | `stanford.social` | Yes |
@@ -30109,6 +30119,7 @@ Here's a list of public Fediverse services.
 | `superawesomeclub.vip` | No |
 | `supercolossal.co` | No |
 | `supercomputer321.tk` | No |
+| `supercool.fun` | Yes |
 | `superduper.space` | No |
 | `superextragood.com` | No |
 | `superflue.no` | No |
@@ -35929,8 +35940,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,361 |
-| Normal | 27,525 |
+| Cloudflare | 8,366 |
+| Normal | 27,531 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
