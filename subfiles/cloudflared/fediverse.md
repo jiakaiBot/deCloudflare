@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,311 |
-| social | 3,290 |
+| com | 5,312 |
+| social | 3,291 |
 | net | 2,719 |
-| org | 1,954 |
-| de | 1,834 |
+| org | 1,955 |
+| de | 1,836 |
 
 
 - Mastodon, Pleroma, etc
@@ -1460,6 +1460,7 @@ Here's a list of public Fediverse services.
 | `amicable.social` | Yes |
 | `amical.info` | No |
 | `amicale.net` | No |
+| `amichan.de` | No |
 | `amicidelbaretto.org` | Yes |
 | `amie.moe` | Yes |
 | `amiensweb.fr` | No |
@@ -9064,6 +9065,7 @@ Here's a list of public Fediverse services.
 | `equanimity.blue` | No |
 | `equel.social` | Yes |
 | `equestria.social` | No |
+| `equinox.social` | No |
 | `equinux.social` | No |
 | `eqver.se` | No |
 | `erabo.de` | No |
@@ -15880,6 +15882,7 @@ Here's a list of public Fediverse services.
 | `kevinr.fr` | No |
 | `kevinschachtschneider.net` | No |
 | `kevinthomaseagan.com` | No |
+| `kevinvandam.me` | No |
 | `kevinwhalen.org` | No |
 | `kevinyank.com` | No |
 | `kevjack.eu` | No |
@@ -25413,6 +25416,7 @@ Here's a list of public Fediverse services.
 | `psjb.me` | No |
 | `pso2.club` | No |
 | `psodon.com` | No |
+| `pstreader.com` | No |
 | `psu.social` | Yes |
 | `psy.io` | No |
 | `psyched.cat` | No |
@@ -29774,6 +29778,7 @@ Here's a list of public Fediverse services.
 | `stemy.me` | No |
 | `stemzeweg.nl` | No |
 | `stenki.eu` | Yes |
+| `stenneken.de` | No |
 | `stennmedia.nl` | No |
 | `stenoweb.net` | No |
 | `step.im` | No |
@@ -34238,6 +34243,7 @@ Here's a list of public Fediverse services.
 | `weirdgone.pro` | No |
 | `weirdo.network` | No |
 | `weirdos.social` | No |
+| `weirdwords.org` | No |
 | `weisensee.me` | No |
 | `weisnix.social` | No |
 | `weisser-zwerg.dev` | No |
@@ -35990,7 +35996,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,382 |
-| Normal | 27,564 |
+| Normal | 27,570 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
