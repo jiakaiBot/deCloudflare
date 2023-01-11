@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,312 |
-| social | 3,291 |
+| social | 3,292 |
 | net | 2,719 |
 | org | 1,955 |
 | de | 1,836 |
@@ -12396,6 +12396,7 @@ Here's a list of public Fediverse services.
 | `gustavosousa.eu` | No |
 | `gutsux.com` | No |
 | `guya.ml` | No |
+| `guyfawkes.social` | No |
 | `guysden.online` | No |
 | `guyvernk.com` | No |
 | `guzmer.social` | Yes |
@@ -35996,7 +35997,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,382 |
-| Normal | 27,570 |
+| Normal | 27,571 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
