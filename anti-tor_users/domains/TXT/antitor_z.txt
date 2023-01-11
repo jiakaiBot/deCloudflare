@@ -328,10 +328,12 @@ login.ziraatbankanturkey.com
 mail.zasgroup.com
 mail.zeusassociate.com
 newstore.ziondelivery.app.br
+opns.zvcloud.de
 paketbersihcepat.zonawanita.com
 pay.zivameshapewear.com
 paypal.com.zd-league.com
 perr.zspeed-cdn.com
+raad.staging.zutphen.nl
 realwavecore-public-saas.gateway.zup.me
 secure-paypal-access-login-confirm-account.zmgconsulting.co.za
 service-line-messaging.zipzoft.online
@@ -351,6 +353,7 @@ www.dinheiro-rapido.xyz.zeroacne.site
 www.moneychannel.zeba.ro
 www.paketbersihcepat.zonawanita.com
 www.sendmoney.zonketech.org
+www.wmaautoservice.nl.ztr-kanjoautoservice.nl
 www.z-father.co.jp
 www.zappos.com
 www.zenit.ru
@@ -361,6 +364,7 @@ www.zippoguide.com
 www.zone-service.com
 www.zoomtventertainment.com
 www.zovni.ovh
+www.zwai.ie
 www.zwilnik.com
 www81.zippyshare.com
 www84.zippyshare.com
@@ -385,7 +389,6 @@ zen-escort.com
 zenontreeservice.com
 zenva.pk
 zernyatko.in.ua
-zeus77.asia
 zhej78i1an8w6ceu.com
 zinichi.net
 zionsgemein.de
