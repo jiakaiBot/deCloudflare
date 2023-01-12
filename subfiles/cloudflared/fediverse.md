@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,321 |
-| social | 3,302 |
+| com | 5,323 |
+| social | 3,303 |
 | net | 2,723 |
 | org | 1,955 |
 | de | 1,839 |
@@ -1129,6 +1129,7 @@ Here's a list of public Fediverse services.
 | `akko.wtf` | No |
 | `akkoma.dev` | No |
 | `akkoma.net` | No |
+| `akkoma.nl` | No |
 | `aklsh.me` | Yes |
 | `akmentins.com` | Yes |
 | `akoot.site` | No |
@@ -4541,7 +4542,7 @@ Here's a list of public Fediverse services.
 | `camerondcampbell.blog` | No |
 | `cameronheard.com` | No |
 | `cameronmonagle.com` | No |
-| `cameronseid.com` | No |
+| `cameronseid.com` | Yes |
 | `cametleon.me` | No |
 | `camglobe.social` | No |
 | `camijo.de` | No |
@@ -9595,6 +9596,7 @@ Here's a list of public Fediverse services.
 | `fanglitch.space` | No |
 | `fangluo.top` | Yes |
 | `fanlan.art` | No |
+| `fanscrowd.com` | No |
 | `fansdao.club` | No |
 | `fantail.dev` | Yes |
 | `fantashley.dev` | No |
@@ -9970,6 +9972,7 @@ Here's a list of public Fediverse services.
 | `femboy.city` | No |
 | `femboy.rent` | Yes |
 | `femboy.world` | Yes |
+| `femboyfor.sale` | No |
 | `femby.club` | No |
 | `feminine.social` | Yes |
 | `feminism.lgbt` | No |
@@ -11903,6 +11906,7 @@ Here's a list of public Fediverse services.
 | `gnotc.com` | No |
 | `gnous.eu` | No |
 | `gnsky.space` | No |
+| `gnu.gl` | No |
 | `gnu.moe` | No |
 | `gnu.one` | Yes |
 | `gnu.rocks` | No |
@@ -12524,6 +12528,7 @@ Here's a list of public Fediverse services.
 | `hackerspace.zone` | No |
 | `hackerspaces.be` | No |
 | `hackertribe.io` | No |
+| `hackerverse.social` | No |
 | `hackerzlab.net` | No |
 | `hackerzone.space` | Yes |
 | `hackingand.coffee` | Yes |
@@ -13163,6 +13168,7 @@ Here's a list of public Fediverse services.
 | `hillexplorer.com` | No |
 | `hilltown.studio` | No |
 | `hima-jin.info` | No |
+| `himanshuanand.com` | Yes |
 | `himasaku.net` | No |
 | `himastdon.club` | No |
 | `himbeer.me` | Yes |
@@ -22016,6 +22022,7 @@ Here's a list of public Fediverse services.
 | `nextblock.nl` | No |
 | `nextcloud-music-vault.de` | No |
 | `nextcloud.com` | No |
+| `nextgamers.eu` | No |
 | `nextinnonprofits.com` | Yes |
 | `nextme.tk` | No |
 | `nextpayge.social` | No |
@@ -27399,6 +27406,7 @@ Here's a list of public Fediverse services.
 | `salocha.online` | Yes |
 | `salocin.eu` | No |
 | `salon.social` | No |
+| `salonen.dk` | No |
 | `salted.fish` | Yes |
 | `saltedskies.social` | No |
 | `saltlake.social` | No |
@@ -29783,6 +29791,7 @@ Here's a list of public Fediverse services.
 | `steele.blue` | No |
 | `stefan-muenz.de` | No |
 | `stefanberger.net` | No |
+| `stefanbohacek.dev` | No |
 | `stefanbohacek.online` | No |
 | `stefaniehippert.de` | No |
 | `stefanomarinelli.it` | No |
@@ -36046,8 +36055,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,396 |
-| Normal | 27,607 |
+| Cloudflare | 8,398 |
+| Normal | 27,614 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
