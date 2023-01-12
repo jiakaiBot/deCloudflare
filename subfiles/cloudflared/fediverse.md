@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,320 |
-| social | 3,301 |
+| com | 5,321 |
+| social | 3,302 |
 | net | 2,723 |
 | org | 1,955 |
 | de | 1,839 |
@@ -2319,7 +2319,7 @@ Here's a list of public Fediverse services.
 | `atheistmedianetwork.com` | No |
 | `athemeus.com` | No |
 | `atho.me` | No |
-| `atico.ga` | No |
+| `atico.ga` | Yes |
 | `atikoro.net` | No |
 | `atilla.im` | No |
 | `atiltedtree.dev` | No |
@@ -5215,6 +5215,7 @@ Here's a list of public Fediverse services.
 | `chrisedwards.tech` | No |
 | `chrisfried.com` | Yes |
 | `chrishannah.me` | No |
+| `chrishubbs.com` | No |
 | `chrishumphreys.tech` | No |
 | `chrisjones.io` | No |
 | `chrisjov.de` | Yes |
@@ -13213,6 +13214,7 @@ Here's a list of public Fediverse services.
 | `history.lol` | No |
 | `historyhorde.com` | No |
 | `historywalksvenice.com` | No |
+| `hisubway.me` | Yes |
 | `hisurga.com` | No |
 | `hit.moe` | Yes |
 | `hitchenor.com` | No |
@@ -22047,6 +22049,7 @@ Here's a list of public Fediverse services.
 | `nhcrossing.com` | No |
 | `nhg.moe` | No |
 | `nho.io` | No |
+| `nhw.social` | No |
 | `niadon.club` | No |
 | `nial.to` | Yes |
 | `nibiru.nz` | No |
@@ -34815,6 +34818,7 @@ Here's a list of public Fediverse services.
 | `wpsocial.live` | No |
 | `wptoots.social` | No |
 | `wq64.net` | No |
+| `wr.ci` | Yes |
 | `wrasstodon.pro` | No |
 | `wreck.rocks` | No |
 | `wrestle.town` | No |
@@ -36042,8 +36046,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,393 |
-| Normal | 27,606 |
+| Cloudflare | 8,396 |
+| Normal | 27,607 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
