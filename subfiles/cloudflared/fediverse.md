@@ -6123,7 +6123,7 @@ Here's a list of public Fediverse services.
 | `creativegamer.net` | No |
 | `creativepassport.net` | No |
 | `creativeramblings.com` | No |
-| `creatives.host` | No |
+| `creatives.host` | Yes |
 | `creativetech.social` | No |
 | `creativewriting.social` | No |
 | `creativity.cafe` | No |
@@ -31075,6 +31075,7 @@ Here's a list of public Fediverse services.
 | `thaitodon.social` | No |
 | `thaitube.in.th` | No |
 | `thaler.nz` | No |
+| `thaler.tech` | Yes |
 | `thapaliya.com` | Yes |
 | `tharealnino.rocks` | No |
 | `tharyrok.eu` | No |
@@ -36002,8 +36003,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,379 |
-| Normal | 27,580 |
+| Cloudflare | 8,381 |
+| Normal | 27,579 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
