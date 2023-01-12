@@ -3670,6 +3670,7 @@ Here's a list of public Fediverse services.
 | `blogger.com` | No |
 | `bloggesspals.com` | No |
 | `blogging.dk` | No |
+| `blogkreatywny.pl` | No |
 | `blognot.co` | No |
 | `blogold.xyz` | No |
 | `blogoma.de` | No |
@@ -13691,7 +13692,7 @@ Here's a list of public Fediverse services.
 | `hyper.equipment` | Yes |
 | `hyperborea.org` | No |
 | `hyperboreal.zone` | No |
-| `hypercube.social` | Yes |
+| `hypercube.social` | No |
 | `hypercute.eu` | No |
 | `hyperfreedom.org` | No |
 | `hyperion.social` | Yes |
@@ -35674,6 +35675,7 @@ Here's a list of public Fediverse services.
 | `zak.ee` | No |
 | `zaksoup.club` | No |
 | `zaktakespictures.com` | Yes |
+| `zakto.pw` | Yes |
 | `zakuac.com` | No |
 | `zakwan-khello.de` | No |
 | `zalem.city` | No |
@@ -36011,7 +36013,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,384 |
-| Normal | 27,583 |
+| Normal | 27,585 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
