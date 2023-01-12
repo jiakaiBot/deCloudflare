@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,313 |
+| com | 5,315 |
 | social | 3,295 |
 | net | 2,719 |
 | org | 1,955 |
@@ -2997,6 +2997,7 @@ Here's a list of public Fediverse services.
 | `beaulieu.social` | No |
 | `beaumonts.me` | Yes |
 | `beausejour.social` | No |
+| `beausimensen.com` | Yes |
 | `beautifullosers.org` | No |
 | `beautrait.com` | No |
 | `bebear.net` | No |
@@ -7764,6 +7765,7 @@ Here's a list of public Fediverse services.
 | `dje.li` | No |
 | `djiko.net` | No |
 | `djitter.com` | No |
+| `djnrrd.com` | No |
 | `djs.social` | No |
 | `djs.to` | Yes |
 | `djsumdog.com` | No |
@@ -27729,6 +27731,7 @@ Here's a list of public Fediverse services.
 | `schule.social` | No |
 | `schuler.me` | No |
 | `schulte.org` | No |
+| `schumacher.berlin` | No |
 | `schumacher.im` | No |
 | `schumacher.social` | No |
 | `schumann.social` | Yes |
@@ -28971,6 +28974,7 @@ Here's a list of public Fediverse services.
 | `snoreway.com` | No |
 | `snorklr.com` | No |
 | `snouts.online` | Yes |
+| `snoval.art` | Yes |
 | `snow-crash.org` | No |
 | `snowandtweet.jp` | No |
 | `snowcat.link` | No |
@@ -36006,8 +36010,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,382 |
-| Normal | 27,581 |
+| Cloudflare | 8,384 |
+| Normal | 27,583 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
