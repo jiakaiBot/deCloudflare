@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-17: [LAX (Los Angeles) on 2023-01-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/r77hwydhs353)
+- 2023-01-12: [Issues with Version Management](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/tlq2bc142h78)
 - 2023-01-18: [DFW (Dallas) on 2023-01-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ry6xq1dvxtd2)
 - 2023-01-18: [LIS (Lisbon) on 2023-01-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qlfh616hwrjg)
 - 2023-01-12: [Increased number of 503/503 errors in globe](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/m0lrhny3xpqv)
