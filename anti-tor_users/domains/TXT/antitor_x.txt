@@ -204,9 +204,11 @@ blue-canary.xboxservices.com
 click.messages.xoom.com
 click.xpnews.com.br
 clients.x-trait.com
+contact.xynythcorp.com
 cpanel.xpressone.com.ph
 cpcalendars.xfinityservice.us
 cpcontacts.xyprus.ir
+discord.xhr.my.id
 gameclipscontent-d2003.xboxlive.com
 giant.xahtsm.cn
 git.git.git.gitlab.git.faxij64962.temp.xn--vs-zi72aga.ga
@@ -264,6 +266,7 @@ www.xn--billigehavembelst-6rb15a.dk
 www.xn--billigehjrnesofa-txb.dk
 www.xn--billigehjskabe-xqb.dk
 www.xn--billigehndklder-olbv.dk
+www.xn--billigehnsehuse-dub.dk
 www.xn--billigehretelefoner-27b.dk
 www.xn--billigekkkenskabe-70b.dk
 www.xn--billigekldeskabe-2ob.dk
@@ -305,6 +308,7 @@ xcoinx.com
 xenbits.xen.org
 xetaichuyennhabinhduong.com
 xhamster.link
+xinfo2001na.xsrv.jp
 xizo.jp
 xkzrbaexyrds.com
 xmsflzmygw.com
@@ -325,6 +329,7 @@ xn--service-reparaii-bzf.ro
 xn--serviceconstana-knf.ro
 xn--sikkerhetsmned-vib.no
 xn--toftgrd-ixa.dk
+xn--velsesbank-zcb.no
 xnetric.com
 xpertsolutionsac.com
 xpressfreightservice.com
