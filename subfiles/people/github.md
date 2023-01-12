@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Incompatible with Cloudflare Managed Challenge firewall rule](https://github.com/hatl/hasscontrol/issues/11)
 - [Fail to deploy to cloudflare page](https://github.com/ruheni/prisma-edge-functions/issues/38)
 - [Kamyroll return urls behind cloudflare. 403 return](https://github.com/justfoolingaround/animdl/issues/215)
 - [Support the Back Forward Cache](https://github.com/bigcommerce/cornerstone/issues/2306)
