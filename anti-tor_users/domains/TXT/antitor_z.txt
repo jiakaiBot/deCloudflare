@@ -319,11 +319,13 @@ diakszeft-api.uat.zeelabs.online
 email.ziosuite.com
 es-logs.analytics-cluster.zedge.io
 etc-yizzz.zzux.com
+etc-yppppppoty.zzux.com
 gateway.zscalerthree.net
 gateway.zscalertwo.net
 gitlab.git.blog.demo.staging.zurvitavirtual.com
 idp.saas.zeb-it.de
 img01.ztat.net
+login.zeeshankalwar.info
 login.ziraatbankanturkey.com
 mail.zasgroup.com
 mail.zeusassociate.com
@@ -350,12 +352,14 @@ www.client-analytics.zerrohost.com
 www.clientes.zetaarquitetura.com.br
 www.creditrepairstlouis.com.zim4.com
 www.dinheiro-rapido.xyz.zeroacne.site
+www.login.zeeshankalwar.info
 www.moneychannel.zeba.ro
 www.paketbersihcepat.zonawanita.com
 www.sendmoney.zonketech.org
 www.wmaautoservice.nl.ztr-kanjoautoservice.nl
 www.z-father.co.jp
 www.zappos.com
+www.zeisloftconstruction.com
 www.zenit.ru
 www.zennioptical.com
 www.zeppelin-bar.de
@@ -392,6 +396,7 @@ zernyatko.in.ua
 zhej78i1an8w6ceu.com
 zinichi.net
 zionsgemein.de
+zit.academy
 zjazdordynatorow.pl
 zmaildirect.com
 znsrc.com
