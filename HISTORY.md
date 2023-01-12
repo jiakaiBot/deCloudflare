@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-16: [OSL (Oslo) on 2023-01-16](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/thwk0vppkps3)
 - 2023-01-12: [LAX (Los Angeles) on 2023-01-12](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/d35m6g9vrks3)
 - 2023-01-11: [Network Performance Issues in DFW](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/yyrzcd42y0zz)
 - 2023-01-17: [JAX (Jacksonville) on 2023-01-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kygzg9k0mk7c)
