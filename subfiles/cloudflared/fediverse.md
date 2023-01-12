@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,295 |
 | net | 2,719 |
 | org | 1,955 |
-| de | 1,836 |
+| de | 1,837 |
 
 
 - Mastodon, Pleroma, etc
@@ -872,6 +872,7 @@ Here's a list of public Fediverse services.
 | `adkins.digital` | No |
 | `adlerhorst.net` | No |
 | `adlerweb.info` | No |
+| `adless.de` | No |
 | `admannz.com` | No |
 | `admin.co.com` | Yes |
 | `adminero.it` | Yes |
@@ -22311,6 +22312,7 @@ Here's a list of public Fediverse services.
 | `nocensoring.net` | No |
 | `nocheincoach.com` | No |
 | `nocheincoach.de` | Yes |
+| `nochiiverse.eu` | No |
 | `nochn.net` | No |
 | `nocial.de` | No |
 | `nocko.se` | No |
@@ -33349,6 +33351,7 @@ Here's a list of public Fediverse services.
 | `vabois.fr` | No |
 | `vacant.ventures` | No |
 | `vacantmastodon.ca` | No |
+| `vacatureforum.nl` | Yes |
 | `vachon.club` | No |
 | `vacunt.tk` | No |
 | `vacuous.one` | No |
@@ -36003,8 +36006,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,381 |
-| Normal | 27,579 |
+| Cloudflare | 8,382 |
+| Normal | 27,581 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
