@@ -335,6 +335,7 @@ Do not create new issue or we will close it as duplicate.
 | [adzmxn_@twitter](https://twitter.com/adzmxn_/status/1552709076634996736) | advertise |
 | [ad_kausar@twitter](https://twitter.com/ad_kausar/status/1552275486784442369) | advertise |
 | [aebob@twitter](https://twitter.com/aebob/status/1383247993155903496) | advertise |
+| [aechonnoon@twitter](https://twitter.com/aechonnoon/status/1613566705392820224) | advertise |
 | [aed048@twitter](https://twitter.com/aed048/status/1423165022642098177) | advertise |
 | [AeidraMoe@twitter](https://twitter.com/AeidraMoe/status/1392122365429964802) | advertise |
 | [AeiniPouya@twitter](https://twitter.com/AeiniPouya/status/1546545934896603141) | advertise |
@@ -715,6 +716,7 @@ Do not create new issue or we will close it as duplicate.
 | [AnhChinNguyn@twitter](https://twitter.com/AnhChinNguyn/status/1552377608280502273) | advertise |
 | [AnhDen160399@twitter](https://twitter.com/AnhDen160399/status/1553966645219328000) | advertise |
 | [anhdetien99@twitter](https://twitter.com/anhdetien99/status/1397575707610402826) | advertise |
+| [anhduc6969@twitter](https://twitter.com/anhduc6969/status/1613541597819596801) | advertise |
 | [Anhhoan35581072@twitter](https://twitter.com/Anhhoan35581072/status/1383844166002614275) | advertise |
 | [AnhKhan49996728@twitter](https://twitter.com/AnhKhan49996728/status/1392903615111565312) | advertise |
 | [AnhKun96@twitter](https://twitter.com/AnhKun96/status/1553787579203403777) | advertise |
@@ -4638,6 +4640,7 @@ Do not create new issue or we will close it as duplicate.
 | [JohnKhaing2@twitter](https://twitter.com/JohnKhaing2/status/1395711379818958851) | advertise |
 | [johnnyphanjp@twitter](https://twitter.com/johnnyphanjp/status/1553781591222018050) | advertise |
 | [JohnSmi50780892@twitter](https://twitter.com/JohnSmi50780892/status/1391425220108439560) | advertise |
+| [JohnSmit2208@twitter](https://twitter.com/JohnSmit2208/status/1613556957625094146) | advertise |
 | [Johnson26816196@twitter](https://twitter.com/Johnson26816196/status/1397785719502827520) | advertise |
 | [JohnsonMore6@twitter](https://twitter.com/JohnsonMore6/status/1532200571507187716) | advertise |
 | [JohnSto93368906@twitter](https://twitter.com/JohnSto93368906/status/1394195513751183360) | advertise |
@@ -8568,6 +8571,7 @@ Do not create new issue or we will close it as duplicate.
 | [rahul05ranjan@twitter](https://twitter.com/rahul05ranjan/status/1497685840428146688) | advertise |
 | [rahulkaswa112@twitter](https://twitter.com/rahulkaswa112/status/1391641130710700037) | advertise |
 | [RaidhaRaameen@twitter](https://twitter.com/RaidhaRaameen/status/1501565539751133188) | advertise |
+| [RainBoaaaa@twitter](https://twitter.com/RainBoaaaa/status/1613559485825712129) | advertise |
 | [RainClo56642753@twitter](https://twitter.com/RainClo56642753/status/1488097711995850754) | advertise |
 | [RainCome7@twitter](https://twitter.com/RainCome7/status/1495670791698272259) | advertise |
 | [rainepartanen@twitter](https://twitter.com/rainepartanen/status/1391102792476106753) | advertise |
@@ -10143,8 +10147,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
