@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Add Cloudflare's R2 File Storage](https://github.com/livebook-dev/livebook/issues/1637)
 - [Black screen when accessing the app](https://github.com/ssddanbrown/rss/issues/10)
 - [manifestKeyMap error throwed after version upgrade](https://github.com/brillout/vite-plugin-ssr/issues/596)
 - [HTML 'Class not found' errors when using CDN stylesheet](https://github.com/apache/netbeans/issues/5276)
