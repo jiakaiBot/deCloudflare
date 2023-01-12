@@ -1240,6 +1240,7 @@ app.short.lit.vodafone.pt
 applicationsqas.venture.com.sg
 apurav2007-gmailcom.vercel.app
 ask-staging.va.gov
+assessoriagoogleads.vkron.adv.br
 auth.vinci.net
 auth.voguishcapital.com
 authentiquetravel.voyagerwebsites.com
@@ -1278,6 +1279,7 @@ com.cp-ht-3.bigroblog.debug.vojvodinanet.com
 comune.vanzago.mi.it
 consent.vwgroup.io
 coturn.qa.app.visitme.doctor
+covid.virtusa.com
 cpanel.vasport.cl
 cpanel.vertexpacking.au
 cpanel.vietnamroblox.com
@@ -1318,6 +1320,7 @@ en.virtualhelpdesk.online
 enews.vietnamairlines.com
 ernestowusu80-gmailcom.vercel.app
 events-dev.vianai.site
+ewalletmbupload.vnpay.vn
 faturacao.vertlabis-web.com
 feb-security.vapetaninyo.info
 frokyyy123-gmailcom.vercel.app
@@ -1370,6 +1373,7 @@ mdr-fragt.vision-critical.com
 mhutchie.gallerycdn.vsassets.io
 microsotf-outlo0k.vercel.app
 mobileapi.vaiap.io
+mordesd.verisfbnps.buzz
 my-staronline.visaounica.net.br
 my.vettd.com
 mynew.vincotte.com
@@ -1399,8 +1403,10 @@ prod-back-promo-allianz.valide.vc
 prod.intellicode.vsengsaas.visualstudio.com
 projetos.vipconnectssh.com
 promotion.vib.com.vn
+provisioning.voxivo.com
 prudhvichowdary14.vercel.app
 prustagedevpb.v3locitydev.com
+qua-fragonard-assurances.votreassistance.fr
 rajiv.vercel.app
 ramonponsmiralles-gmailcom.vercel.app
 raymondliang2015-gmailcom.vercel.app
@@ -1413,18 +1419,22 @@ santiagorodriguezmastoros-gmailcom.vercel.app
 sarageld-gmailcom.vercel.app
 sberbank.avito.blablacar.git.sber.ffxdid6m4my1niy.vh.vteam.tech
 securenet.vodafone.ie
+security.vida.software
+semo.verkstad.net
 sentry.kube.viralgains.com
 servicedesk.vbg-it.de
 services.viededingue.fr
 shakeitright-ws.pre.vodafone.pt
 shakeitright.pre.vodafone.pt
 sharepoint.vets-inc.com
+shop.vwmanager.de
 short.lit.vodafone.pt
 shubhamnitj-gmailcom.vercel.app
 sms.vodafone.pt
 sprint.vismaraet.nl
 staging.vvs-regnskap.no
 startblox.vercel.app
+static.virtualstore.jp
 static.voidboost.com
 stifin-blockchain.vercel.app
 sumitkumararora-gmailcom.vercel.app
@@ -1452,6 +1462,7 @@ user-research.vismayuki.com
 usfinsci-proxy.vision33cloud.com
 v-suncoast.info
 v6rxv5coo5.com
+v9betpro.org
 vaastu-numerology.com
 vaccination-info.eu
 vaccinerights.com
@@ -1515,6 +1526,7 @@ vianoivernom.com
 vickyclayton.com
 victorlofinmakin.com
 vidao.org
+videobuddyapkdownload.com
 videomemetemplate.com
 viessmannservice.ro
 vietnamroblox.com
@@ -1580,8 +1592,11 @@ www.git.git.gitlab.git.sslvpn.vpkver.ru
 www.git.gitlab.i.vashsad37.ru
 www.gitlab.g.sitemap.vkgo.info
 www.idnpoker95.com.viajarfacil.info
+www.marathatransportservice.com.vividindiatour.com
 www.mecagrogrup.videocontrol.md
 www.moneyline.vztrader.com
+www.pixtodosdias.com.br.verificagram.com.br
+www.services.vriddhi-lanka.org
 www.southdakotasbest.com.viajarfacil.info
 www.superdryonsale.com.viajarfacil.info
 www.support.valosgames.com
@@ -1599,7 +1614,9 @@ www.veganzetta.org
 www.verifyreceives.com
 www.verifythis.com
 www.verkehrskunde.sh
+www.vermouth-deportivo.com.ar
 www.verstehbahnhof.de
+www.vestinglopen.nl
 www.veteransecurityinc.com
 www.victoriafilmfestival.com
 www.vidasatphones.com
