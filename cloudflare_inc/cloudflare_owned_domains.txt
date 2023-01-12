@@ -5,6 +5,7 @@ cfargotunnel.com
 cfl.re
 cloudflare-dns.com
 cloudflare-free.com
+cloudflare-gateway.com
 cloudflare-ipfs.com
 cloudflare-quic.com
 cloudflare.com
