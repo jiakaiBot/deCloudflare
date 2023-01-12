@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,315 |
-| social | 3,295 |
+| social | 3,296 |
 | net | 2,719 |
 | org | 1,955 |
 | de | 1,837 |
@@ -2594,6 +2594,7 @@ Here's a list of public Fediverse services.
 | `azure.com` | Yes |
 | `azure.icu` | Yes |
 | `azureheads.gr` | Yes |
+| `azuretalk.social` | No |
 | `azurewebsites.net` | No |
 | `azurity.onl` | No |
 | `azurs.fr` | No |
@@ -13417,6 +13418,7 @@ Here's a list of public Fediverse services.
 | `hoppinglife.com` | No |
 | `hoppysensei.com` | No |
 | `hopto.org` | Yes |
+| `hora.win` | Yes |
 | `horak.hu` | No |
 | `horde.net.br` | No |
 | `hordearii.fr` | No |
@@ -36012,8 +36014,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,384 |
-| Normal | 27,585 |
+| Cloudflare | 8,385 |
+| Normal | 27,586 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
