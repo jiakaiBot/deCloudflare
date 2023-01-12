@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,312 |
-| social | 3,292 |
+| social | 3,293 |
 | net | 2,719 |
 | org | 1,955 |
 | de | 1,836 |
@@ -16456,6 +16456,7 @@ Here's a list of public Fediverse services.
 | `kretschmann.social` | No |
 | `kreuder.me` | No |
 | `krgame.fr` | No |
+| `krigskunst.social` | No |
 | `krikkert.net` | No |
 | `krimb0.com` | Yes |
 | `krinchan.com` | Yes |
@@ -35997,7 +35998,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,382 |
-| Normal | 27,571 |
+| Normal | 27,572 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
