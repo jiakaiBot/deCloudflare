@@ -469,6 +469,7 @@ Do not create new issue or we will close it as duplicate.
 | [Akito28238860@twitter](https://twitter.com/Akito28238860/status/1493097617219534849) | advertise |
 | [AkMonk7@twitter](https://twitter.com/AkMonk7/status/1552111416982880257) | advertise |
 | [AKO35197755@twitter](https://twitter.com/AKO35197755/status/1391902794236403713) | advertise |
+| [akrv1@twitter](https://twitter.com/akrv1/status/1613488936814362624) | advertise |
 | [Akshada44184872@twitter](https://twitter.com/Akshada44184872/status/1389269449371316224) | advertise |
 | [akshai45422138@twitter](https://twitter.com/akshai45422138/status/1386717813822287873) | advertise |
 | [Akshay46862774@twitter](https://twitter.com/Akshay46862774/status/1380200466567471106) | advertise |
