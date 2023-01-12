@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,312 |
-| social | 3,293 |
+| com | 5,313 |
+| social | 3,295 |
 | net | 2,719 |
 | org | 1,955 |
 | de | 1,836 |
@@ -614,6 +614,7 @@ Here's a list of public Fediverse services.
 | `a11y.social` | No |
 | `a13.social` | No |
 | `a15a.co` | No |
+| `a17k.social` | No |
 | `a19industries.com` | Yes |
 | `a1bbs.com` | No |
 | `a1x.com` | No |
@@ -5318,6 +5319,7 @@ Here's a list of public Fediverse services.
 | `cisti.org` | No |
 | `citizen0.online` | No |
 | `citizen4.eu` | No |
+| `citizenry.social` | No |
 | `citringo.net` | No |
 | `citrus.farm` | No |
 | `citsc.de` | No |
@@ -8901,6 +8903,7 @@ Here's a list of public Fediverse services.
 | `emtee.xyz` | No |
 | `emu.social` | Yes |
 | `emucafe.club` | No |
+| `emy.lu` | No |
 | `emy.world` | No |
 | `enbi.es` | No |
 | `enbies.space` | Yes |
@@ -12662,7 +12665,7 @@ Here's a list of public Fediverse services.
 | `haolit.de` | No |
 | `haoyayoi.net` | No |
 | `happens.horse` | No |
-| `happyjesus.online` | Yes |
+| `happyjesus.online` | No |
 | `happykraken.net` | Yes |
 | `happysocial.site` | No |
 | `happytobehe.re` | No |
@@ -16911,6 +16914,7 @@ Here's a list of public Fediverse services.
 | `layer0.dev` | Yes |
 | `layer8.space` | No |
 | `layer9.online` | Yes |
+| `layerze.ro` | No |
 | `lazar.social` | No |
 | `lazarus.name` | No |
 | `laze.today` | Yes |
@@ -22785,7 +22789,7 @@ Here's a list of public Fediverse services.
 | `nyaa.io` | Yes |
 | `nyaa.social` | No |
 | `nyaa.tech` | Yes |
-| `nyadobe.online` | Yes |
+| `nyadobe.online` | No |
 | `nyago.cyou` | Yes |
 | `nyahyun.com` | Yes |
 | `nyan.cafe` | No |
@@ -25225,7 +25229,7 @@ Here's a list of public Fediverse services.
 | `pretok.tv` | No |
 | `prettyboytellem.com` | No |
 | `prettygrouse.com` | No |
-| `prettyqueer.online` | Yes |
+| `prettyqueer.online` | No |
 | `prettyrequiem.com` | Yes |
 | `pretzlaff.co` | No |
 | `previti.net` | No |
@@ -30604,6 +30608,7 @@ Here's a list of public Fediverse services.
 | `tandarkan.com` | No |
 | `tandlers.de` | No |
 | `tane.codes` | No |
+| `tanelpoder.com` | No |
 | `tangentfox.com` | No |
 | `tangentideas.info` | No |
 | `tanghus.net` | No |
@@ -35997,8 +36002,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,382 |
-| Normal | 27,572 |
+| Cloudflare | 8,379 |
+| Normal | 27,580 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
