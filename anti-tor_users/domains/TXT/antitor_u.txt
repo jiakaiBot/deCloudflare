@@ -905,6 +905,7 @@ health.udn.com
 heilpraxis.ursachenheilkunde.com
 heilpraxis.ursachenheilkunde.de
 iap.ulss4.veneto.it
+icashvapt.ussc.com.ph
 id.usps.com
 identificatie.uwzorgonline.nl
 informeddelivery.usps.com
@@ -962,6 +963,7 @@ u0054.com
 u0064.com
 u0078.com
 u0082.com
+u677.info
 uads.shop
 uapi.uniware.com.br
 uarun-mobile.api.ua.com
@@ -993,6 +995,7 @@ ultradeluxxe.com
 ultraeth.com
 ultrashippingcontainers.com
 ulukaris.com
+umbrella.com.pe
 un-carriers-services.online
 unarbokor.com
 uncnso.red
@@ -1016,8 +1019,10 @@ upb.ac.id
 update-amazon.net
 update.md
 updategametoday.com
+updateint.com
 updateit.space
 updatenusantara.id
+updateterkini2023.my.id
 updatewp.my.id
 upeyganpell.website
 upgrade.uroblog.it
@@ -1064,9 +1069,11 @@ webdisk.uctc.xyz
 webdisk.utkalinfraandpower.com
 webmail.uctc.xyz
 webmail.uddoktatelecom.xyz
+webmail.uniwisprunningclub.co.za
 withintelligence.ubpages.com
 www.absbank230109.cruzwwa.usermd.net
 www.account.ulohas.tw
+www.bank.un-secure.com
 www.billing.umbvafood.com
 www.billing.uwupi.com
 www.biosoft.updatesetup.com
@@ -1083,6 +1090,7 @@ www.herningboligservice.usboligudlejning.dk
 www.ibank.ut-bk.com
 www.kivi.avvatar.usermd.net
 www.login.unnet.com.br
+www.mo.ascdp.updatemy.website
 www.nrcs.usda.gov
 www.nrs.fs.usda.gov
 www.osticket.razziel2.usermd.net
@@ -1117,11 +1125,13 @@ www.union-bulletin.com
 www.unionecomuni.re.it
 www.unionpapelera.ml
 www.unionpublishing.org
+www.unitedstatespostaservice.us
 www.universalcontrol.co.zw
 www.universallogservices.com
 www.unrelenting.show
 www.unsdsn.org
 www.up6.com.br
+www.update-ship.us
 www.updateit.space
 www.updatenusantara.id
 www.upn.to
