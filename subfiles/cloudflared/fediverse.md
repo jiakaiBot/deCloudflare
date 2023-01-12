@@ -15830,6 +15830,7 @@ Here's a list of public Fediverse services.
 | `kemo.city` | No |
 | `kemo.no` | No |
 | `kemo.one` | Yes |
+| `kemomi.me` | Yes |
 | `kemoner-don.tokyo` | No |
 | `kemonine.info` | Yes |
 | `kemono-friends.info` | Yes |
@@ -36041,7 +36042,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,392 |
+| Cloudflare | 8,393 |
 | Normal | 27,606 |
 
 
