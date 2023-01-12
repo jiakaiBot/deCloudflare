@@ -4015,6 +4015,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hung789666@twitter](https://twitter.com/Hung789666/status/1552762342525771777) | advertise |
 | [Hung52831637@twitter](https://twitter.com/Hung52831637/status/1399774938542665731) | advertise |
 | [HungDin89400275@twitter](https://twitter.com/HungDin89400275/status/1402315841178259469) | advertise |
+| [hungdz976@twitter](https://twitter.com/hungdz976/status/1613435429092749312) | advertise |
 | [Hunggg7d@twitter](https://twitter.com/Hunggg7d/status/1485984559435247618) | advertise |
 | [Hunghun13865970@twitter](https://twitter.com/Hunghun13865970/status/1486000138225131528) | advertise |
 | [HungHuy11921511@twitter](https://twitter.com/HungHuy11921511/status/1477127249556291584) | advertise |
@@ -5155,8 +5156,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6356,6 +6357,7 @@ Do not create new issue or we will close it as duplicate.
 | [MehrabH95891991@twitter](https://twitter.com/MehrabH95891991/status/1395810158475845632) | advertise |
 | [Mehrabjan123@twitter](https://twitter.com/Mehrabjan123/status/1394097749604409344) | advertise |
 | [mehran060@twitter](https://twitter.com/mehran060/status/1543887005062414337) | advertise |
+| [mehran85324434@twitter](https://twitter.com/mehran85324434/status/1613447642289258498) | advertise |
 | [mehrdad137100@twitter](https://twitter.com/mehrdad137100/status/1508746993497260037) | advertise |
 | [mehrdad138387@twitter](https://twitter.com/mehrdad138387/status/1578662486307647488) | advertise |
 | [Mehrdad83222579@twitter](https://twitter.com/Mehrdad83222579/status/1584484492395175936) | advertise |
