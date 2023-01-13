@@ -432,6 +432,7 @@ Or is this merely a case of simple modesty?
 | Curtis Lam | System Engineer |  |
 | Curtis Lowder | Software Engineer Intern |  |
 | Cyrus Roshan | Systems Engineer |  |
+| Dafu Wang | Employee | |
 | Dalton Cherry | Solutions Engineer |  |
 | Damian Dulanovic | Employee |  |
 | Damian Parker | Employee |  |
@@ -858,6 +859,7 @@ Or is this merely a case of simple modesty?
 | John Fawcett | Systems Engineer | +1-469-387-5077<br>jrf0110@gmail.com<br>5336 Krueger Ln. Austin, TX, 78723 |
 | John Graham-Cumming | Chief Technology Officer | https://twitter.com/jgrahamc<br>https://jgc.org/<br>jgc@cloudflare.com<br> |
 | John Kaden | General Manager, Public Sector |  |
+| John Norwood | Employee | |
 | John Terzis | Systems Engineer |  |
 | Jonas Otten | Employee |  |
 | Jonathan Bruce | Product |  |
@@ -1696,6 +1698,7 @@ Or is this merely a case of simple modesty?
 | Taylor Galusha | Legal Intern |  |
 | Taylor Lemmon | Account Executive |  |
 | Taylor Murray | Employee |  |
+| Teddy Solano | Employee | |
 | Ted Patsos | Business Development |  |
 | Teffen Ellis | Employee |  |
 | Teresa Huang | Sales |  |
