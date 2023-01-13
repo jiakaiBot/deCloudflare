@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Greenbone Web GUI behind Cloudflare Proxy](https://github.com/greenbone/gsa/issues/3580)
 - [Incompatible with Cloudflare Managed Challenge firewall rule](https://github.com/hatl/hasscontrol/issues/11)
 - [Fail to deploy to cloudflare page](https://github.com/ruheni/prisma-edge-functions/issues/38)
 - [Kamyroll return urls behind cloudflare. 403 return](https://github.com/justfoolingaround/animdl/issues/215)
