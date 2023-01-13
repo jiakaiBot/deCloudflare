@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,323 |
-| social | 3,303 |
-| net | 2,723 |
+| com | 5,324 |
+| social | 3,304 |
+| net | 2,724 |
 | org | 1,955 |
-| de | 1,839 |
+| de | 1,840 |
 
 
 - Mastodon, Pleroma, etc
@@ -4036,6 +4036,7 @@ Here's a list of public Fediverse services.
 | `bradmcgarr.me` | No |
 | `bradsease.com` | No |
 | `braemer.us` | No |
+| `brage.fr` | Yes |
 | `brainbaking.com` | No |
 | `brainjuice.ca` | No |
 | `brainsoap.net` | No |
@@ -6389,7 +6390,7 @@ Here's a list of public Fediverse services.
 | `culturaeinnovacion.social` | No |
 | `culturedigitally.org` | No |
 | `culturewar.radio` | No |
-| `culturewar.site` | Yes |
+| `culturewar.site` | No |
 | `culturewar.us` | No |
 | `cultuurparticipatie.nl` | No |
 | `cultuurpers.nl` | No |
@@ -6602,6 +6603,7 @@ Here's a list of public Fediverse services.
 | `cygnan.com` | Yes |
 | `cygnoir.net` | No |
 | `cyka.cf` | No |
+| `cymaphore.net` | No |
 | `cynder.me` | Yes |
 | `cyoum.xyz` | No |
 | `cyph.club` | No |
@@ -8589,6 +8591,7 @@ Here's a list of public Fediverse services.
 | `edythemighty.com` | No |
 | `edzilla.info` | Yes |
 | `eebrn.de` | No |
+| `eeeeeeee.ee` | Yes |
 | `eeeeeeeee.eu` | No |
 | `eegle.cloud` | No |
 | `eena.me` | No |
@@ -9824,6 +9827,7 @@ Here's a list of public Fediverse services.
 | `fedimas.com` | Yes |
 | `fedimast.com` | No |
 | `fedimon.uk` | No |
+| `fedimoon.com` | No |
 | `fedimovie.com` | Yes |
 | `fedinauten.social` | No |
 | `fedinerds.net` | Yes |
@@ -18612,7 +18616,7 @@ Here's a list of public Fediverse services.
 | `mariosabatino.it` | No |
 | `mariotaku.me` | Yes |
 | `mariovavti.com` | No |
-| `maritime.social` | No |
+| `maritime.social` | Yes |
 | `mariu5.de` | Yes |
 | `mariusdavid.fr` | No |
 | `mariustimmer.de` | No |
@@ -19364,6 +19368,7 @@ Here's a list of public Fediverse services.
 | `mawa.link` | No |
 | `mawalabs.de` | No |
 | `maware.cc` | Yes |
+| `mawby.eu` | Yes |
 | `mawo24.de` | No |
 | `mawoka.eu` | Yes |
 | `mawsnpaws.live` | Yes |
@@ -20487,7 +20492,7 @@ Here's a list of public Fediverse services.
 | `moltonlava.online` | No |
 | `molyboha.me` | No |
 | `momcha.me` | No |
-| `moment.at` | No |
+| `moment.at` | Yes |
 | `moment.ist` | No |
 | `momi.ca` | No |
 | `mommy.party` | No |
@@ -21147,6 +21152,7 @@ Here's a list of public Fediverse services.
 | `musicdn.jp` | No |
 | `musician.social` | No |
 | `musicians.today` | No |
+| `musicproduction.world` | No |
 | `musicspots.de` | No |
 | `musicstudio.pro` | No |
 | `musictech.space` | No |
@@ -24837,7 +24843,7 @@ Here's a list of public Fediverse services.
 | `ploovi.us` | No |
 | `plop.cc` | No |
 | `plop.gq` | No |
-| `plopchute.com` | Yes |
+| `plopchute.com` | No |
 | `ploptodon.com` | No |
 | `ploud.fr` | Yes |
 | `ploud.jp` | Yes |
@@ -35134,6 +35140,7 @@ Here's a list of public Fediverse services.
 | `xn--federao-2wa9a.social` | No |
 | `xn--fiqwix98h.jp` | No |
 | `xn--geldwsche24-p8a.eu` | No |
+| `xn--groovebro-w9a.de` | No |
 | `xn--gu1a.moe` | No |
 | `xn--h1ahnbk7d.xn--p1ai` | No |
 | `xn--hea.nz` | No |
@@ -36023,6 +36030,7 @@ Here's a list of public Fediverse services.
 | `zvr.gr` | No |
 | `zw.lu` | No |
 | `zwei.net` | No |
+| `zweibruecken.social` | No |
 | `zwerfcat.world` | No |
 | `zwischenlaut.de` | No |
 | `zwist.space` | No |
@@ -36055,8 +36063,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,398 |
-| Normal | 27,614 |
+| Cloudflare | 8,401 |
+| Normal | 27,619 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
