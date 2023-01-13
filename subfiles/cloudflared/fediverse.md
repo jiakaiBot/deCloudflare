@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,324 |
-| social | 3,305 |
+| social | 3,306 |
 | net | 2,724 |
 | org | 1,955 |
 | de | 1,841 |
@@ -27209,6 +27209,7 @@ Here's a list of public Fediverse services.
 | `rutan.info` | No |
 | `ruthenic.com` | No |
 | `ruud.je` | No |
+| `ruud.social` | No |
 | `ruxnor.net` | Yes |
 | `ruz.social` | No |
 | `rv.social` | No |
@@ -36067,7 +36068,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,401 |
-| Normal | 27,622 |
+| Normal | 27,623 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
