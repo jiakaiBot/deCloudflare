@@ -320,6 +320,7 @@ api.yaanimail.com
 b92.yahoo.co.jp
 b97.yahoo.co.jp
 capi.yaanimail.com
+cas.yvp.yusen-logistics.com
 case.yangoilahcustomerservice.com
 click.mail.yaliberty.org
 click.ybg.yourbusinessgazette.com
@@ -375,6 +376,7 @@ support.yyproductions.net
 test.api.yujky.cn
 uatnewpersonal.yesbank.co.in
 vzpn.ydns.eu
+webclickbank2.youtokmarketing.com
 webmail.bureauveritas.yoomultimedia.com
 www.contactme.yusufhamitkaya.com
 www.dashboard.yamnet.website
@@ -385,6 +387,7 @@ www.home.yummydelivery.et
 www.kauppa.ykkospalvelu.fi
 www.newupdate.yasiin.online
 www.reeddiffuser.yukha.com.my
+www.webclickbank2.youtokmarketing.com
 www.y-koseiren.jp
 www.yakunet.com
 www.yasmeenabaya.com
