@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Support uploading files to cloudflare](https://github.com/InnoDeck/InnoDeck/issues/3)
 - [Connection closed: ERR_PROXY_CONNECTION_FAILED](https://github.com/klzgrad/naiveproxy/issues/452)
 - [Issues with sourcing TAF data](https://github.com/psharma04/unsw-aviation/issues/8)
 - [Greenbone Web GUI behind Cloudflare Proxy](https://github.com/greenbone/gsa/issues/3580)
