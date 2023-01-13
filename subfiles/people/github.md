@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Connection closed: ERR_PROXY_CONNECTION_FAILED](https://github.com/klzgrad/naiveproxy/issues/452)
 - [Issues with sourcing TAF data](https://github.com/psharma04/unsw-aviation/issues/8)
 - [Greenbone Web GUI behind Cloudflare Proxy](https://github.com/greenbone/gsa/issues/3580)
 - [Incompatible with Cloudflare Managed Challenge firewall rule](https://github.com/hatl/hasscontrol/issues/11)
