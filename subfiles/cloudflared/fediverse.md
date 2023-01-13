@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,324 |
-| social | 3,304 |
+| social | 3,305 |
 | net | 2,724 |
 | org | 1,955 |
-| de | 1,840 |
+| de | 1,841 |
 
 
 - Mastodon, Pleroma, etc
@@ -12257,6 +12257,7 @@ Here's a list of public Fediverse services.
 | `gridfinity.com` | No |
 | `griesser.me` | No |
 | `grieve-smith.com` | No |
+| `griffgrub.social` | No |
 | `griffindow.com` | Yes |
 | `grifoni.futbol` | No |
 | `griftgang.com` | Yes |
@@ -14861,6 +14862,7 @@ Here's a list of public Fediverse services.
 | `jasonscheirer.com` | No |
 | `jasonshawnclee.com` | No |
 | `jasonstryker.com` | No |
+| `jastrow.me` | No |
 | `jatan.space` | Yes |
 | `jauer.it` | No |
 | `jauntygoat.net` | No |
@@ -22104,6 +22106,7 @@ Here's a list of public Fediverse services.
 | `nickz.org` | No |
 | `nico-bayati.de` | No |
 | `nicoban.one` | No |
+| `nicobucher.de` | No |
 | `nicodon.jp` | No |
 | `nicolaiarocci.com` | No |
 | `nicolas-constant.com` | No |
@@ -36064,7 +36067,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,401 |
-| Normal | 27,619 |
+| Normal | 27,622 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
