@@ -2854,6 +2854,7 @@ Do not create new issue or we will close it as duplicate.
 | [Erics87402408@twitter](https://twitter.com/Erics87402408/status/1537793280657989633) | advertise |
 | [EricWarnasch2@twitter](https://twitter.com/EricWarnasch2/status/1501394632424534018) | advertise |
 | [erigomwsn@twitter](https://twitter.com/erigomwsn/status/1393026360788938752) | advertise |
+| [ermpy@twitter](https://twitter.com/ermpy/status/1613712080380776448) | advertise |
 | [ernielehman@twitter](https://twitter.com/ernielehman/status/1382762709394071555) | advertise |
 | [erpsoftwarebd@twitter](https://twitter.com/erpsoftwarebd/status/1464521477504466946) | advertise |
 | [Er_Manipathak@twitter](https://twitter.com/Er_Manipathak/status/1588544216526774273) | advertise |
@@ -10148,8 +10149,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
@@ -10585,6 +10586,7 @@ Do not create new issue or we will close it as duplicate.
 | [TribeEphraim@twitter](https://twitter.com/TribeEphraim/status/1378124350625173505) | advertise |
 | [TrickyKunn@twitter](https://twitter.com/TrickyKunn/status/1379848256000122880) | advertise |
 | [tridatinh1@twitter](https://twitter.com/tridatinh1/status/1554751528744800256) | advertise |
+| [TridentDiscord@twitter](https://twitter.com/TridentDiscord/status/1613718565898813440) | advertise |
 | [trieuit@twitter](https://twitter.com/trieuit/status/1468829070804676612) | advertise |
 | [trieu_quoc_bao@twitter](https://twitter.com/trieu_quoc_bao/status/1557807836133982209) | advertise |
 | [triknesiacom@twitter](https://twitter.com/triknesiacom/status/1417953851982766080) | advertise |
