@@ -734,6 +734,7 @@ Here's a list of public Fediverse services.
 | `abuzz.social` | No |
 | `abwesend.com` | No |
 | `abxy.fr` | No |
+| `abypom.work` | No |
 | `abyss.fun` | Yes |
 | `abyss.observer` | No |
 | `abyssdomain.expert` | No |
@@ -11530,7 +11531,7 @@ Here's a list of public Fediverse services.
 | `gemma.ee` | Yes |
 | `gemmari.us` | No |
 | `gemnoc.ca` | No |
-| `gemuplay.com` | No |
+| `gemuplay.com` | Yes |
 | `genart.social` | No |
 | `genbeta.com` | No |
 | `genbu.eu` | No |
@@ -16156,6 +16157,7 @@ Here's a list of public Fediverse services.
 | `kitunetya-ya-mastdom.com` | No |
 | `kity.wtf` | Yes |
 | `kitzmiller.social` | No |
+| `kiwa.space` | No |
 | `kiwe.ch` | No |
 | `kiwec.net` | Yes |
 | `kiwifarms.cc` | Yes |
@@ -25876,6 +25878,7 @@ Here's a list of public Fediverse services.
 | `qwq.mx` | Yes |
 | `qwq.ooo` | Yes |
 | `qwwwq.cat` | Yes |
+| `qyz.one` | Yes |
 | `qzhou.dev` | Yes |
 | `r-12.net` | No |
 | `r-flash.eu` | No |
@@ -36077,8 +36080,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,403 |
-| Normal | 27,631 |
+| Cloudflare | 8,405 |
+| Normal | 27,632 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
