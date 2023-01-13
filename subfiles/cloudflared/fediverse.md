@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,324 |
-| social | 3,306 |
-| net | 2,724 |
-| org | 1,955 |
-| de | 1,841 |
+| com | 5,325 |
+| social | 3,307 |
+| net | 2,725 |
+| org | 1,956 |
+| de | 1,842 |
 
 
 - Mastodon, Pleroma, etc
@@ -6842,6 +6842,7 @@ Here's a list of public Fediverse services.
 | `dark-alexandr.net` | No |
 | `dark-elves.social` | No |
 | `darkandstormynight.club` | No |
+| `darkcarnival.me` | No |
 | `darkcooger.net` | No |
 | `darkcyber.club` | No |
 | `darkcyber.social` | No |
@@ -7653,6 +7654,7 @@ Here's a list of public Fediverse services.
 | `dinobansigan.com` | No |
 | `dinoleaf.com` | Yes |
 | `dinosaur.farm` | No |
+| `dinotoyblog.com` | Yes |
 | `dinven.de` | No |
 | `diode.zone` | No |
 | `diogo.site` | Yes |
@@ -8287,6 +8289,7 @@ Here's a list of public Fediverse services.
 | `dumbo.kr` | No |
 | `dumbo.life` | No |
 | `dumbopinions.xyz` | No |
+| `dumbthing.org` | No |
 | `dumez.info` | No |
 | `dummbutz.nl` | No |
 | `dummkopf.live` | No |
@@ -9755,6 +9758,7 @@ Here's a list of public Fediverse services.
 | `fedi.cc` | No |
 | `fedi.church` | No |
 | `fedi.club` | No |
+| `fedi.co.za` | Yes |
 | `fedi.community` | No |
 | `fedi.dev` | No |
 | `fedi.farm` | No |
@@ -16457,6 +16461,7 @@ Here's a list of public Fediverse services.
 | `kra.hn` | No |
 | `kraeuterhexer.com` | No |
 | `kraft.blog` | No |
+| `krafting.net` | No |
 | `krakatoa.bar` | No |
 | `krake.re` | No |
 | `krakow.social` | No |
@@ -16875,6 +16880,7 @@ Here's a list of public Fediverse services.
 | `larkspur.one` | No |
 | `larlet.fr` | No |
 | `larmefamily.com` | No |
+| `laroche.dev` | No |
 | `larrybeck.net` | No |
 | `larrysanger.org` | Yes |
 | `larsen.social` | No |
@@ -20334,7 +20340,7 @@ Here's a list of public Fediverse services.
 | `mlny.info` | Yes |
 | `mlpol.net` | Yes |
 | `mls20.de` | No |
-| `mlsskey.io` | Yes |
+| `mlsskey.io` | No |
 | `mmaj.ca` | Yes |
 | `mmav.club` | Yes |
 | `mmcnet.io` | Yes |
@@ -21336,6 +21342,7 @@ Here's a list of public Fediverse services.
 | `myselfdot.work` | No |
 | `mysignal.world` | No |
 | `mysim.online` | No |
+| `mysitemikoh.pl` | Yes |
 | `mysmallbusiness.online` | Yes |
 | `mysocial.world` | No |
 | `mysound.directory` | No |
@@ -24391,6 +24398,7 @@ Here's a list of public Fediverse services.
 | `phatnastytour.com` | No |
 | `phaysis.com` | No |
 | `phdstudents.space` | No |
+| `pheme.au` | No |
 | `phene.gay` | No |
 | `phenomenon.cloud` | No |
 | `phenomenon.space` | No |
@@ -27440,6 +27448,7 @@ Here's a list of public Fediverse services.
 | `samhza.com` | Yes |
 | `samiandalex.com` | No |
 | `samicrusader.me` | Yes |
+| `samizdat.social` | No |
 | `samizdatpixelpress.net` | Yes |
 | `sammacbeth.eu` | Yes |
 | `sammeechward.com` | Yes |
@@ -28556,6 +28565,7 @@ Here's a list of public Fediverse services.
 | `silkyplover.org` | No |
 | `silly.business` | No |
 | `sillydragon.ca` | No |
+| `sillymo.de` | No |
 | `siltala.net` | No |
 | `silvan.cloud` | No |
 | `silvatici.com` | No |
@@ -36067,8 +36077,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,401 |
-| Normal | 27,623 |
+| Cloudflare | 8,403 |
+| Normal | 27,631 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
