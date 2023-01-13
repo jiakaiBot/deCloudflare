@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-19: [ICN (Seoul) on 2023-01-19](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/x5v6x5lkbz9b)
+- 2023-01-17: [ICN (Seoul) on 2023-01-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/tb6bkxsy571l)
 - 2023-01-20: [SJC (San Jose) on 2023-01-20](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zfscyt6g1g1q)
 - 2023-01-13: [YUL (Montréal) on 2023-01-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/b4hd5yfxjd19)
 - 2023-01-17: [LAX (Los Angeles) on 2023-01-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/r77hwydhs353)
