@@ -1374,6 +1374,7 @@ zuk.kktix.cc
 352.pr.stater.nl.kiwicloud.nl
 366.pr.stater.nl.kiwicloud.nl
 372.pr.stater.nl.kiwicloud.nl
+3ds.kaspi.kz
 420-cash-kings.k420-inc-moneymaker.com
 420-rewards.k420-inc-moneymaker.com
 434.pr.stater.nl.kiwicloud.nl
@@ -1383,6 +1384,7 @@ zuk.kktix.cc
 476.pr.stater.nl.kiwicloud.nl
 abrechnung.koni.monster
 accept.worldbearingtrade.com.kiwicloud.nl
+account.kansascity.com
 accounts-receivable.keyence.eu
 adfs.kontextplan.ch
 adminservice-3ds2.kasikornbank.com
@@ -1398,6 +1400,7 @@ api.newpoker.klasgaming.com
 app.kazancinnoktasi.site
 apps.kiai.co
 auth.krassimir.dev
+auth.vpn.krzysztofozog.com
 authelia.krassimir.dev
 autodiscover.kabarbonekpersebaya.com
 autodiscover.kangs1600.site
@@ -1415,6 +1418,7 @@ canelo-novaterra.kasaconstructora.com
 card.krungthai.com
 catalog.lib.kyushu-u.ac.jp
 chargeway.knuckleheads.net
+checklistweb.kalmar.se
 ckgtest.kroschke.de
 cl340.keap-link008.com
 click.klasresearch.com
@@ -1498,6 +1502,7 @@ ir.kratosdefense.com
 k-lite-codec-pack.org.ua
 k420-flappycash.k420-inc-moneymaker.com
 k68tkg.com
+k7services.com.au
 k9manhuntscotland.co.uk
 kakedashiweb.site
 kalibags.com
@@ -1544,6 +1549,7 @@ kenben.net
 kentuckyecosolar.com
 kenzoventures.io
 kesland.ca
+ketcau-stc.com
 ketoblastgummybears.net
 ketodis.com
 keungznfts.com
@@ -1564,6 +1570,7 @@ kids.kahoku.co.jp
 kientrucanhung.com
 kifornecedor.com.br
 kijani.co.ke
+kikacafe.gr
 kikusui.co.jp
 kimmenongpleredupdate.com
 kimsa.pw
@@ -1595,6 +1602,7 @@ klinika-semejnogo-zdorovya.ru
 klinikhanglekiu.com
 klinikintan.site
 klrecreationhub.com
+kms-pico.info
 kneeansweras.com
 kngarie.com
 knjigovodstvo-account.hr
@@ -1611,6 +1619,7 @@ kollektivet.nu
 koln-escort.com
 komarchlupoid.com
 kontobirojarun.hr
+kontoodzaraz.pl
 kontormarketingdigital.com
 kontos-dental.gr
 konveksibajuseragamkerja.com
@@ -1618,6 +1627,7 @@ koolahwelder.com
 kotokot.com
 kprwawasansgara.com
 kranparts.ru
+kraveseo.com
 kravmagaikmf.ro
 krcrtv.com
 kreasiprimasertifikasi.com
@@ -1652,6 +1662,7 @@ l.kuranosuke.jp
 ld978.keap-link015.com
 live.rebuild.medicalpetshirts.com.kiwicloud.nl
 live.rebuild.suitical.com.kiwicloud.nl
+loan.kagawabank.co.jp
 login.microsoftonline.com-oauth2-wa-authorize.kukakenya.com
 logisticsbureau.keap-link015.com
 m.kabum.com.br
@@ -1680,7 +1691,9 @@ onza5050post.keenetic.link
 otevocalepad-1d836.kxcdn.com
 ou337.keap-link017.com
 owa.kcb.gov.kw
+pad-safe.klimalisterlp.de
 paineldemo.kangudelivery.com.br
+paketlancarkan.kasihmedika.com
 pakettuntascepat.kasihmedika.com
 password.kpgbr.com
 pay.keepruralkidslearning.com
@@ -1730,6 +1743,7 @@ trk.klclick1.com
 trk.klclick2.com
 trk.klclick3.com
 trust-wallet.kccamp.com
+trust-wallet.kipuperu.com
 u2.kaspi.kz
 uatprepaid.ktcgroup.dev
 update.kenben.net
@@ -1795,6 +1809,7 @@ www.ketk.com
 www.ketv.com
 www.kevindorst.com
 www.key.aero
+www.kgis-cambodia.com
 www.ki-tech.global
 www.kids-krav-maga.ch
 www.kijiji.ca
@@ -1813,10 +1828,12 @@ www.kmmo.com
 www.kochlust-hengstmann.de
 www.kodami.it
 www.koffiegeld.online
+www.kolegaliterat.pl
 www.komaitis.org
 www.komisarnews.com
 www.kompjuter-service.ru
 www.komplett.no
+www.kontoodzaraz.pl
 www.konzilijum.ba
 www.kravmaga-chatel.ch
 www.kravmaga.ch
@@ -1882,12 +1899,15 @@ www.kredyt-max-9.shop
 www.krisis.org
 www.ksdenki.com
 www.kundeheltene.dk
+www.kundemonique.nl
 www.kupobserwujacych.pl
 www.kwxx.com
 www.kyotobank.co.jp
 www.old.kontorexdata.se
 www.pakalljobs.karachijobsupdate.com
+www.paketlancarkan.kasihmedika.com
 www.pakettuntascepat.kasihmedika.com
+www.post.kring.store
 www.rdm-mtsibnukatsir.kkmikalsel.com
 www.safety-ows.eu.kdp-primorje.hr
 www.sankalpanalytica.kisankartbill.com
