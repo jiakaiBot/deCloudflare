@@ -979,7 +979,6 @@ very-match.com
 verygood.com.my
 veteranminners.com
 vfwh.com
-vfwpost788.org
 vhznh123-gmailcom.vercel.app
 viabm39.com
 viacredy-copeerativa.tk
@@ -1243,6 +1242,7 @@ ask-staging.va.gov
 assessoriagoogleads.vkron.adv.br
 auth.vinci.net
 auth.voguishcapital.com
+authentik.valcube.de
 authentiquetravel.voyagerwebsites.com
 autodiscover.vanguardcapital.group
 autodiscover.vanguardseguridadindustrial.com
@@ -1319,6 +1319,7 @@ elian.vercel.app
 en.virtualhelpdesk.online
 enews.vietnamairlines.com
 ernestowusu80-gmailcom.vercel.app
+etrading.vdp.com
 events-dev.vianai.site
 ewalletmbupload.vnpay.vn
 faturacao.vertlabis-web.com
@@ -1335,6 +1336,7 @@ gitlab.gitlab.blog.app.vkgo.info
 gitlab.gitlab.git.accounts.vykup-vashego-avto.com
 gitlab.gitlab.gitlab.git.git.gitlab.blog.vteam.tech
 gitlab.smtp.vacationtraderonline.com
+gw-acc.vandersanden.com
 hasanjafory-gmailcom.vercel.app
 hazel-server-ppbimurjwk.vercel.app
 hb-b.services.vnc.com
@@ -1378,10 +1380,12 @@ my-staronline.visaounica.net.br
 my.vettd.com
 mynew.vincotte.com
 navidmadani.vercel.app
+navigate-retain-websites.vercel.app
 navijaher.vercel.app
 navinghimire.vercel.app
 navinsoni262626.vercel.app
 nduhiu254-gmailcom.vercel.app
+new.viverservice.com
 news.voegol.com.br
 newyear.vegas-city.ru
 nginx-sa-httpcoinbaseregione.vikingdeals.be
@@ -1396,6 +1400,7 @@ ossmobile.vodafone.pt
 ota.swmsn.prd.eu.bp.aws.cloud.vwgroup.com
 ownyourfuture.vanguard.com
 pelander.vanguard.com
+personal1.vanguard.com
 platform.dev.bip.va.gov
 portal-sentry-v2.vk.team
 postfixadmin.vmil.eu
@@ -1447,6 +1452,7 @@ testeres.vercel.app
 testerexacasdfsd.vercel.app
 testxuser.vercel.app
 thesigmarilion-gmailcom.vercel.app
+ticketshop.vor.at
 tiemporealcorreo-gmailcom.vercel.app
 tmed.vit-bund.de
 tracking3.vnncdn.net
@@ -1507,6 +1513,7 @@ verificare-gaze.ro
 verificaregaze.ro
 verify-activity-id.com
 verifyid.id
+verifynfcu.com
 verifyphoto.id
 verifyuser-wf.com
 veritonic.com
