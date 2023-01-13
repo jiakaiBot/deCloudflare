@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,331 |
-| social | 3,312 |
-| net | 2,728 |
+| social | 3,314 |
+| net | 2,729 |
 | org | 1,958 |
 | de | 1,844 |
 
@@ -128,6 +128,7 @@ Here's a list of public Fediverse services.
 | `0xdd.org.ru` | Yes |
 | `0xdevelopers.online` | No |
 | `0xemmy.me` | No |
+| `0xf.fr` | No |
 | `0xf4240.bid` | Yes |
 | `0xfa.de` | No |
 | `0xfeedc0.de` | No |
@@ -618,7 +619,7 @@ Here's a list of public Fediverse services.
 | `a19industries.com` | Yes |
 | `a1bbs.com` | No |
 | `a1x.com` | No |
-| `a2.io` | No |
+| `a2.io` | Yes |
 | `a2mi.social` | No |
 | `a3.pm` | Yes |
 | `a3size.com` | No |
@@ -5305,6 +5306,7 @@ Here's a list of public Fediverse services.
 | `cijber.social` | No |
 | `cincodenada.com` | No |
 | `cincoseis.tech` | No |
+| `cincy.social` | No |
 | `cinematheque.social` | Yes |
 | `cinematheque.tube` | No |
 | `cinnamond.social` | No |
@@ -6854,7 +6856,7 @@ Here's a list of public Fediverse services.
 | `darkcyber.club` | No |
 | `darkcyber.social` | No |
 | `darkd.xyz` | No |
-| `darkduck.xyz` | Yes |
+| `darkduck.xyz` | No |
 | `darkest-timeline.com` | No |
 | `darkesttimeline.social` | No |
 | `darkfriend.social` | No |
@@ -13183,6 +13185,7 @@ Here's a list of public Fediverse services.
 | `hil.ist` | No |
 | `hilandchris.com` | No |
 | `hilciferous.nl` | No |
+| `hildrey.net` | No |
 | `hilfikers.com` | Yes |
 | `hillebrand.io` | No |
 | `hillenius.net` | No |
@@ -15384,6 +15387,7 @@ Here's a list of public Fediverse services.
 | `jtl.vision` | Yes |
 | `jtn.us` | No |
 | `jtown.xyz` | No |
+| `jtut.io` | No |
 | `jtworld.net` | No |
 | `jtworld.xyz` | No |
 | `jtwp470.net` | No |
@@ -24826,6 +24830,7 @@ Here's a list of public Fediverse services.
 | `pleco.ca` | Yes |
 | `pleiades.link` | No |
 | `plein.org` | No |
+| `pleistocene.social` | Yes |
 | `plero.ma` | No |
 | `plerodatech.fr` | No |
 | `plerom.com` | No |
@@ -27327,7 +27332,7 @@ Here's a list of public Fediverse services.
 | `s25.pl` | No |
 | `s2s.video` | No |
 | `s3lph.me` | No |
-| `s4die.co` | No |
+| `s4die.co` | Yes |
 | `s4m0r1.net` | No |
 | `s4y.us` | Yes |
 | `s6jr.com` | No |
@@ -36107,8 +36112,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,412 |
-| Normal | 27,652 |
+| Cloudflare | 8,414 |
+| Normal | 27,655 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
