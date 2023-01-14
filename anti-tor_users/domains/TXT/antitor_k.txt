@@ -840,11 +840,9 @@ gitlab.service.konvergence.it
 gitlab.www.covid19.ktk-construct.cz
 gmail1.kajakktyper.com
 google-jobs-verify.kremer.bayern
-gov.kakaowork.com
 grueil.kunder2-guru-utvikling.no
 ha.komish.de
 helpdesk.klinikberdikari.id
-home.gov.kakaowork.com
 id.aruba.kfv-main-tauber.com
 img.krchoksey.com
 inpro-dev.kfintech.com
@@ -1425,6 +1423,7 @@ click.klasresearch.com
 client-pavel.keenetic.pro
 client.knightstechnology.co.uk
 cloud.keithhacks.cyou
+cm.onlineservices.komplettbank.no
 consumer.krxd.net
 contact.krausemonument.com
 cpanel.klimaservisairsolution.rs
@@ -1539,6 +1538,7 @@ kbstrack.com
 kcsxpress.com
 kdmpalvelu.fi
 kdservice.at
+keelsandsloops.org.uk
 keeneticloud.keenetic.pro
 keesdekort.com
 kelemobil.hu
@@ -1584,6 +1584,7 @@ kingtrack-crawler.com
 kinkledunendly.com
 kino-michi.com
 kintaro.goog
+kireinayuki.com
 kiselev-anton.ru
 kist.edu.bd
 kitabghr.com
@@ -1625,6 +1626,7 @@ kontos-dental.gr
 konveksibajuseragamkerja.com
 koolahwelder.com
 kotokot.com
+kozuldelivery.com
 kprwawasansgara.com
 kranparts.ru
 kraveseo.com
@@ -1754,6 +1756,7 @@ vbl647.keap-link011.com
 visa.kdmid.ru
 vnitro.keenetic.link
 w00dcc71.kasserver.com
+w017546a.kasserver.com
 web.dev.kr.karrotpay.com
 webdisk.kangs1590.site
 webdisk.kopfmail.com
@@ -1773,6 +1776,7 @@ www.clientes.kleversoft.net
 www.clientnew.krishnakalyani.in
 www.clinicalservice.kassp.pl
 www.dashboard.kachelan.com
+www.dfgases.com.br.kombify.com.br
 www.feedback.kaher.edu.in
 www.gastrikevatten-nrg.kravportal.se
 www.git.git.git.git.git.kelharjamukti.cirebonmsecure.kareprost-24.ru
@@ -1796,6 +1800,7 @@ www.kaidankaistories.com
 www.kajuen.co.jp
 www.kaltengpost.kaltengexpres.com
 www.kalyanjewellers.net
+www.kamarikuoro.com
 www.kamo-uniforma.ru
 www.kamukkissa.com
 www.kark.com
@@ -1809,6 +1814,7 @@ www.ketk.com
 www.ketv.com
 www.kevindorst.com
 www.key.aero
+www.kfultonwiggins.com
 www.kgis-cambodia.com
 www.ki-tech.global
 www.kids-krav-maga.ch
@@ -1912,6 +1918,7 @@ www.rdm-mtsibnukatsir.kkmikalsel.com
 www.safety-ows.eu.kdp-primorje.hr
 www.sankalpanalytica.kisankartbill.com
 www.support.kresna.web.id
+www.violetbirthdayservice.konyvtipp.hu
 youtrack.cld.kokoc.tech
 zoul.konnten-suchbegriff-treffer-finden.top
 www.git.git.login.kreolyar.ru
