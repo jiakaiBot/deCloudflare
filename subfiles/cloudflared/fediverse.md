@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,331 |
-| social | 3,314 |
-| net | 2,729 |
+| com | 5,333 |
+| social | 3,318 |
+| net | 2,730 |
 | org | 1,958 |
 | de | 1,844 |
 
@@ -4146,6 +4146,7 @@ Here's a list of public Fediverse services.
 | `brid.gy` | No |
 | `bridgend.online` | Yes |
 | `bridgepattern.com` | No |
+| `briefly.social` | No |
 | `brieseland.de` | No |
 | `brig.gs` | Yes |
 | `brigato.fr` | No |
@@ -4657,6 +4658,7 @@ Here's a list of public Fediverse services.
 | `carfree.city` | Yes |
 | `carfulhony.com` | No |
 | `carhenge.club` | No |
+| `cariad.social` | Yes |
 | `caric.io` | No |
 | `caricio.com` | No |
 | `carl.fish` | No |
@@ -8086,6 +8088,7 @@ Here's a list of public Fediverse services.
 | `dracos.co.uk` | No |
 | `draculo.net` | No |
 | `drag.li` | Yes |
+| `dragashosting.com` | No |
 | `dragast.me` | No |
 | `dragchaser.com` | No |
 | `dragn.gay` | Yes |
@@ -12980,6 +12983,7 @@ Here's a list of public Fediverse services.
 | `helmet.hair` | No |
 | `helmholtz.social` | No |
 | `helmi.social` | Yes |
+| `helms.social` | No |
 | `helpchangethe.world` | No |
 | `helpmedog.com` | Yes |
 | `helse.rocks` | No |
@@ -21083,6 +21087,7 @@ Here's a list of public Fediverse services.
 | `mtu7.com` | No |
 | `mtwerk.com` | No |
 | `mtxyz.me` | No |
+| `mtzlr.io` | No |
 | `muage.org` | No |
 | `mublog.nl` | No |
 | `mucrone.tech` | No |
@@ -24173,6 +24178,7 @@ Here's a list of public Fediverse services.
 | `pebcak.de` | Yes |
 | `pech.tech` | No |
 | `peck.li` | No |
+| `pedagogustarsadalom.hu` | No |
 | `pedalkickers.de` | No |
 | `pede.rs` | No |
 | `pedesen.de` | No |
@@ -26508,6 +26514,7 @@ Here's a list of public Fediverse services.
 | `remben.ch` | No |
 | `remco.social` | No |
 | `remcorp.fr` | No |
+| `remeika.social` | No |
 | `remembertheend.com` | Yes |
 | `remerge.net` | No |
 | `remicck.club` | No |
@@ -31563,6 +31570,7 @@ Here's a list of public Fediverse services.
 | `thetarecords.de` | No |
 | `thetavern.social` | No |
 | `theteamtrauma.com` | No |
+| `thetechnewssource.com` | Yes |
 | `thething.ca` | No |
 | `thethird.tech` | No |
 | `thetooniverse.xyz` | Yes |
@@ -34998,6 +35006,7 @@ Here's a list of public Fediverse services.
 | `wyrms.de` | No |
 | `wyrmsign.org` | No |
 | `wyshy.net` | No |
+| `wysterialane.net` | Yes |
 | `wysteriary.art` | No |
 | `wytchmourne.com` | No |
 | `wzf.wtf` | No |
@@ -36115,8 +36124,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,415 |
-| Normal | 27,657 |
+| Cloudflare | 8,418 |
+| Normal | 27,663 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
