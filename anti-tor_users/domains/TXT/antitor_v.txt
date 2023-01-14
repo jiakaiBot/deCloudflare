@@ -1285,6 +1285,7 @@ cpanel.vertexpacking.au
 cpanel.vietnamroblox.com
 cpanel.vitaltrust-global.com
 cpcalendars.velukkudidiscourses.com
+cpcalendars.vhittech.com
 cpcalendars.videodyno.com.au
 cpcalendars.vietnamroblox.com
 cpcalendars.vighospitaljalandhar.com
@@ -1340,6 +1341,8 @@ gw-acc.vandersanden.com
 hasanjafory-gmailcom.vercel.app
 hazel-server-ppbimurjwk.vercel.app
 hb-b.services.vnc.com
+hcp3csaccdpreg-5a.app.eu.vwg.vwautocloud.net
+hcp3csaccdpregdev-5a.app.eu.vwg.vwautocloud.net
 hcp5csambbrun-3a.app.eu.dp.vwg-connect.com
 helpdesk.villagehelpdesk.com
 helpdesk.virginactive.com.sg
@@ -1360,6 +1363,7 @@ klantportaal.vue-advies.nl
 live-ak.vimeocdn.com
 live2onsport.vtvcab.vn
 livecomments.viafoura.co
+login.vakil4tax.com
 login.vanwagenen.com
 login.volvoconnect.com
 logon.institutional.vanguard.com
@@ -1393,6 +1397,7 @@ ngovanthien10598-gmailcom.vercel.app
 nitromicug.vercel.app
 nyc-modeling-agencies.veryfasthosting.co.uk
 o2-ac.vkplay.ru
+onamaen.vps-omga.com
 ondemand-radio.aka.vrtcdn.be
 ondemand-radio.vrtcdn.be
 onenet-ws-sit.vodafone.pt
@@ -1451,6 +1456,7 @@ test.vau.auction
 testeres.vercel.app
 testerexacasdfsd.vercel.app
 testxuser.vercel.app
+textures.vandersanden.com
 thesigmarilion-gmailcom.vercel.app
 ticketshop.vor.at
 tiemporealcorreo-gmailcom.vercel.app
@@ -1500,6 +1506,7 @@ vaytien57.com
 vaytiennganhang.net
 vbec.nl
 vcbdigibbaink.viettcoimbank.com
+vcdl.org
 veebox.co.uk
 veggiebank.in
 veinticuatrosietesecurity.cl
@@ -1508,6 +1515,7 @@ venepalvelu.com
 veneziabeach-hotram.net
 venfioletadas.com
 venticare.nl
+veranoseguro.com.ar
 vergaarbak.eu
 verificare-gaze.ro
 verificaregaze.ro
@@ -1533,6 +1541,7 @@ vianoivernom.com
 vickyclayton.com
 victorlofinmakin.com
 vidao.org
+vidasatphones.com
 videobuddyapkdownload.com
 videomemetemplate.com
 viessmannservice.ro
@@ -1545,6 +1554,7 @@ vikingstrength.ca
 villainarts.com
 vinduespudserservice.dk
 vinxy.uk
+violetbirthdayservice.hu
 vipbarcelonaescorts.com
 vipheliservices.com
 vipinstalacaodepisos.website
@@ -1594,6 +1604,8 @@ www.authentic01.vojock.com
 www.bestofhenricocounty.com.viajarfacil.info
 www.bill.vivecademy.com
 www.booking.viajeseguro.live
+www.cs.money.verticeconstructor.com
+www.cs.moneys.verticeconstructor.com
 www.delivery.vitoriafood.com.br
 www.git.git.gitlab.git.sslvpn.vpkver.ru
 www.git.gitlab.i.vashsad37.ru
@@ -1638,6 +1650,7 @@ www.vitpost.gq
 www.vittrack.gq
 www.voltcoinwallet.co.uk
 www.voorafbetalen.nl
+www.whatsapp.vaidelivery.com
 www.workdex.viewerpost.com
 vietvip.bet
 vilanova.ro
