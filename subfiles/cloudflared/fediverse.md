@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,333 |
+| com | 5,335 |
 | social | 3,321 |
-| net | 2,731 |
+| net | 2,733 |
 | org | 1,960 |
 | de | 1,844 |
 
@@ -2914,6 +2914,7 @@ Here's a list of public Fediverse services.
 | `battleangels.net` | No |
 | `battlepenguin.video` | No |
 | `battletech.social` | No |
+| `batts.cloud` | No |
 | `baty.net` | Yes |
 | `bau-ha.us` | No |
 | `baubs.net` | No |
@@ -6615,6 +6616,7 @@ Here's a list of public Fediverse services.
 | `cygnan.com` | Yes |
 | `cygnoir.net` | No |
 | `cyka.cf` | No |
+| `cylon.space` | No |
 | `cymaphore.net` | No |
 | `cynder.me` | Yes |
 | `cyoum.xyz` | No |
@@ -8357,6 +8359,7 @@ Here's a list of public Fediverse services.
 | `dver.se` | No |
 | `dvk.co` | No |
 | `dvlup.social` | No |
+| `dvob.ch` | No |
 | `dvor.link` | Yes |
 | `dvshn0.ch` | No |
 | `dvsn.io` | Yes |
@@ -9431,7 +9434,7 @@ Here's a list of public Fediverse services.
 | `extinctionrebellion.fr` | No |
 | `extradienst.net` | No |
 | `extratone.com` | No |
-| `extratone.online` | No |
+| `extratone.online` | Yes |
 | `extremecameo.website` | No |
 | `extremely.online` | No |
 | `extremelycorporate.ca` | No |
@@ -12785,6 +12788,7 @@ Here's a list of public Fediverse services.
 | `hastodon.social` | No |
 | `hata.casa` | No |
 | `hatabowyou.club` | No |
+| `hatabowyou.com` | No |
 | `hatawaku.xyz` | No |
 | `hatchee.bz` | No |
 | `hate-machine.com` | No |
@@ -14990,6 +14994,7 @@ Here's a list of public Fediverse services.
 | `jehuty11.com` | No |
 | `jel-tech.com` | Yes |
 | `jeli.kz` | No |
+| `jelliefrontier.net` | No |
 | `jellis.co.uk` | No |
 | `jellydonut.me` | No |
 | `jellystyle.social` | No |
@@ -16424,6 +16429,7 @@ Here's a list of public Fediverse services.
 | `koreadon.com` | No |
 | `koreus.com` | No |
 | `koreus.social` | No |
+| `korfmann.net` | No |
 | `korhonen.cc` | Yes |
 | `korio.me` | No |
 | `kormi.hu` | No |
@@ -16699,7 +16705,7 @@ Here's a list of public Fediverse services.
 | `kylemacquarrie.co.uk` | No |
 | `kylepiira.com` | No |
 | `kylewm.com` | Yes |
-| `kymo.org` | Yes |
+| `kymo.org` | No |
 | `kyohju.com` | No |
 | `kyosakuyo.com` | Yes |
 | `kyot.me` | Yes |
@@ -21887,6 +21893,7 @@ Here's a list of public Fediverse services.
 | `nerdnightlax.com` | Yes |
 | `nerdorium.org` | No |
 | `nerdout.cc` | No |
+| `nerdout.club` | No |
 | `nerdout.online` | No |
 | `nerdpol.ch` | No |
 | `nerdpol.ovh` | No |
@@ -22136,6 +22143,7 @@ Here's a list of public Fediverse services.
 | `nickgreenbank.com` | No |
 | `nickjordan.co.uk` | No |
 | `nickmiller.dev` | No |
+| `nickpegg.com` | Yes |
 | `nickpellant.com` | Yes |
 | `nickredmark.com` | No |
 | `nickscloud.social` | No |
@@ -30883,6 +30891,7 @@ Here's a list of public Fediverse services.
 | `tealshark.net` | Yes |
 | `team-crash.de` | No |
 | `team-d.jp` | No |
+| `team-prism.rocks` | No |
 | `team-unix.de` | No |
 | `team.jetzt` | No |
 | `team.tt` | No |
@@ -35528,7 +35537,7 @@ Here's a list of public Fediverse services.
 | `yidhra.farm` | No |
 | `yidian.ga` | No |
 | `yiff.agency` | No |
-| `yiff.cafe` | No |
+| `yiff.cafe` | Yes |
 | `yiff.co` | Yes |
 | `yiff.fyi` | No |
 | `yiff.life` | Yes |
@@ -36133,8 +36142,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,421 |
-| Normal | 27,669 |
+| Cloudflare | 8,423 |
+| Normal | 27,676 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
