@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,339 |
-| social | 3,330 |
-| net | 2,733 |
-| org | 1,960 |
+| com | 5,340 |
+| social | 3,331 |
+| net | 2,735 |
+| org | 1,961 |
 | de | 1,845 |
 
 
@@ -932,6 +932,7 @@ Here's a list of public Fediverse services.
 | `aegibson.me` | No |
 | `aegiszero.is` | Yes |
 | `aekrylov.me` | No |
+| `aeld.net` | No |
 | `aelf.ee` | Yes |
 | `aelisya.ch` | No |
 | `aemulatia.net` | No |
@@ -2097,6 +2098,7 @@ Here's a list of public Fediverse services.
 | `artalley.porn` | No |
 | `artalley.social` | Yes |
 | `artao.ca` | No |
+| `artatomic.social` | No |
 | `artbaron.social` | No |
 | `artblock.de` | No |
 | `artchair.net` | No |
@@ -6589,6 +6591,7 @@ Here's a list of public Fediverse services.
 | `cyberspace.club` | No |
 | `cyberspace.rodeo` | No |
 | `cyberstorm.one` | Yes |
+| `cybersulu.ninja` | No |
 | `cybert-media.net` | No |
 | `cybertect.net` | Yes |
 | `cyberthings.net` | No |
@@ -13399,6 +13402,7 @@ Here's a list of public Fediverse services.
 | `hollandsepod.nl` | No |
 | `hollings.io` | No |
 | `holllo.org` | Yes |
+| `hollow.capital` | No |
 | `hollow.city` | No |
 | `holly.town` | No |
 | `holmmade.cafe` | Yes |
@@ -15459,6 +15463,7 @@ Here's a list of public Fediverse services.
 | `jumping.wang` | No |
 | `jumpingcrab.com` | No |
 | `jun-ji.me` | No |
+| `junaidbhura.blog` | No |
 | `jungley.net` | Yes |
 | `juni.tube` | No |
 | `juniorjpdj.pl` | No |
@@ -18345,6 +18350,7 @@ Here's a list of public Fediverse services.
 | `madgui.fr` | No |
 | `madhammer.club` | No |
 | `madholi.cc` | No |
+| `madhouse.org` | No |
 | `madhousebeyond.com` | No |
 | `madiator.cloud` | Yes |
 | `madiator.com` | Yes |
@@ -23043,6 +23049,7 @@ Here's a list of public Fediverse services.
 | `ocx2.cc` | No |
 | `odakyu.app` | Yes |
 | `odat.xyz` | No |
+| `oday.net` | No |
 | `odayacres.farm` | Yes |
 | `odd.blog` | No |
 | `oddballs.vip` | No |
@@ -31716,6 +31723,7 @@ Here's a list of public Fediverse services.
 | `this-is-epic.space` | Yes |
 | `thisawfuldungeon.art` | No |
 | `thisco.de` | No |
+| `thisdayinaviation.com` | Yes |
 | `thisdevfucks.com` | No |
 | `thisgay.earth` | No |
 | `thisiscowboy.io` | No |
@@ -36178,8 +36186,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,438 |
-| Normal | 27,697 |
+| Cloudflare | 8,439 |
+| Normal | 27,704 |
 
 
-### 23.4% of public Fediverse services are using Cloudflare.
+### 23.3% of public Fediverse services are using Cloudflare.
