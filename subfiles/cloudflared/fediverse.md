@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,333 |
-| social | 3,320 |
+| social | 3,321 |
 | net | 2,731 |
 | org | 1,960 |
 | de | 1,844 |
@@ -27053,6 +27053,7 @@ Here's a list of public Fediverse services.
 | `rootsignals.ai` | No |
 | `rooty.fr` | No |
 | `ropable.com` | Yes |
+| `ropedrop.social` | No |
 | `ropo.jp` | No |
 | `rorea.moe` | Yes |
 | `rororo.xyz` | No |
@@ -36133,7 +36134,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,421 |
-| Normal | 27,668 |
+| Normal | 27,669 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
