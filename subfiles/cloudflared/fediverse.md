@@ -8475,7 +8475,7 @@ Here's a list of public Fediverse services.
 | `ebin.zone` | No |
 | `ebinwebsite.xyz` | No |
 | `ebiryu.tech` | No |
-| `ebisu.me` | Yes |
+| `ebisu.me` | No |
 | `eble.name` | No |
 | `ebnar.xyz` | No |
 | `eboboserver.ru` | Yes |
@@ -19270,6 +19270,7 @@ Here's a list of public Fediverse services.
 | `mastportal.info` | No |
 | `mastpub.com` | No |
 | `mastrodon.space` | No |
+| `masts.lv` | No |
 | `mastsocial.de` | No |
 | `mastudon.com` | No |
 | `masturbadon.com` | No |
@@ -36112,8 +36113,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,414 |
-| Normal | 27,655 |
+| Cloudflare | 8,413 |
+| Normal | 27,657 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
