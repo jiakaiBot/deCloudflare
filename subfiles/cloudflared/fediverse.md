@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,333 |
 | social | 3,320 |
-| net | 2,730 |
+| net | 2,731 |
 | org | 1,960 |
 | de | 1,844 |
 
@@ -5467,6 +5467,7 @@ Here's a list of public Fediverse services.
 | `cloudfrancois.fr` | No |
 | `cloudhesselhoj.dk` | No |
 | `cloudisland.nz` | No |
+| `cloudisland.online` | No |
 | `cloudist.cc` | No |
 | `cloudkatze.de` | No |
 | `cloudlabs.ga` | Yes |
@@ -18232,6 +18233,7 @@ Here's a list of public Fediverse services.
 | `m0nikasingh.xyz` | Yes |
 | `m0r016.net` | Yes |
 | `m0t0k1ch1.com` | No |
+| `m0xee.net` | No |
 | `m11n.de` | No |
 | `m1234.de` | No |
 | `m14xa.ru` | No |
@@ -36131,7 +36133,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,421 |
-| Normal | 27,666 |
+| Normal | 27,668 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
