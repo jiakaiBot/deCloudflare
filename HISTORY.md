@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-16: [TPE (Taipei) on 2023-01-16](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xwdj2k9kkj4r)
 - 2023-01-18: [OSL (Oslo) on 2023-01-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ld6d7gd8z4mn)
 - 2023-01-16: [ORK (Cork) on 2023-01-16](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hdgv9dpb7r27)
 - 2023-01-17: [LIS (Lisbon) on 2023-01-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/sfpfphpnwqbg)
