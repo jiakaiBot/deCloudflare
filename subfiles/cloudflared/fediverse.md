@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,333 |
-| social | 3,318 |
+| social | 3,320 |
 | net | 2,730 |
-| org | 1,958 |
+| org | 1,960 |
 | de | 1,844 |
 
 
@@ -11247,6 +11247,7 @@ Here's a list of public Fediverse services.
 | `galad.it` | Yes |
 | `galax.be` | No |
 | `galaxians.org` | No |
+| `galaxy-control.org` | No |
 | `galaxy.cat` | No |
 | `galaxy.quest` | No |
 | `galaxybound.com` | Yes |
@@ -12959,6 +12960,7 @@ Here's a list of public Fediverse services.
 | `hellch.at` | No |
 | `hellchat.club` | No |
 | `hellcom.live` | No |
+| `hellions.cloud` | Yes |
 | `hellmage.com` | No |
 | `hellohihi.net` | No |
 | `hellomasto.com` | No |
@@ -16714,6 +16716,7 @@ Here's a list of public Fediverse services.
 | `l-internet.fr` | No |
 | `l-p-d.org` | No |
 | `l-w-i-don.net` | No |
+| `l0nax.org` | Yes |
 | `l0v.es` | Yes |
 | `l1f.de` | No |
 | `l33t.city` | Yes |
@@ -25925,6 +25928,7 @@ Here's a list of public Fediverse services.
 | `r00tshell.me` | No |
 | `r0r1.de` | No |
 | `r13w.social` | No |
+| `r18.social` | No |
 | `r18don.xyz` | No |
 | `r2.do` | No |
 | `r23s.eu` | Yes |
@@ -27700,6 +27704,7 @@ Here's a list of public Fediverse services.
 | `scalie.eu` | Yes |
 | `scalies.cc` | Yes |
 | `scalingo.io` | Yes |
+| `scaly.social` | Yes |
 | `scalzi.com` | No |
 | `scambait.social` | No |
 | `scambaiting.social` | No |
@@ -35741,6 +35746,7 @@ Here's a list of public Fediverse services.
 | `yyyyy.life` | No |
 | `yyyyy.world` | No |
 | `yzsdcm.top` | No |
+| `z-blog.tk` | No |
 | `z-flag.work` | No |
 | `z.je` | No |
 | `z0ne.moe` | Yes |
@@ -36124,8 +36130,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,418 |
-| Normal | 27,663 |
+| Cloudflare | 8,421 |
+| Normal | 27,666 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
