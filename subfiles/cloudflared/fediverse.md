@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,335 |
-| social | 3,321 |
+| com | 5,336 |
+| social | 3,322 |
 | net | 2,733 |
 | org | 1,960 |
 | de | 1,844 |
@@ -1170,6 +1170,7 @@ Here's a list of public Fediverse services.
 | `alberniweather.ca` | No |
 | `albertj.info` | No |
 | `albertj.nl` | No |
+| `albertoluna.es` | Yes |
 | `albigro.com` | No |
 | `albin.cc` | No |
 | `albin.club` | No |
@@ -4375,6 +4376,7 @@ Here's a list of public Fediverse services.
 | `bushu-denno.com` | No |
 | `businessinsider.com` | Yes |
 | `busshi.moe` | No |
+| `bussmann.social` | No |
 | `bussy.gallery` | No |
 | `bussy.monster` | No |
 | `bustinfam.com` | Yes |
@@ -20047,6 +20049,7 @@ Here's a list of public Fediverse services.
 | `mikespla.in` | Yes |
 | `mikesplaces.blog` | No |
 | `mikestone.me` | No |
+| `mikev.com` | No |
 | `mikewells.name` | No |
 | `mikhra.com` | Yes |
 | `mikka.md` | No |
@@ -36143,8 +36146,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,425 |
-| Normal | 27,675 |
+| Cloudflare | 8,426 |
+| Normal | 27,677 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
