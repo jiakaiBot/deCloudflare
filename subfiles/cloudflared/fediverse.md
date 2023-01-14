@@ -5728,7 +5728,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9874,6 +9874,7 @@ Here's a list of public Fediverse services.
 | `feditoxos.eu` | No |
 | `feditrends.live` | Yes |
 | `feditube.com` | No |
+| `fediunam.site` | No |
 | `fediuni.xyz` | No |
 | `fedive.rs` | No |
 | `fediver.de` | No |
@@ -19646,6 +19647,7 @@ Here's a list of public Fediverse services.
 | `melijn.me` | Yes |
 | `melilot.icu` | No |
 | `melin.org` | Yes |
+| `meliora.family` | No |
 | `mell0w-5phere.net` | No |
 | `mellem.space` | No |
 | `mellified.men` | No |
@@ -35310,7 +35312,7 @@ Here's a list of public Fediverse services.
 | `xthemage.net` | No |
 | `xtinalee.xyz` | No |
 | `xtity.com` | No |
-| `xtom.social` | No |
+| `xtom.social` | Yes |
 | `xtremely.online` | No |
 | `xttech.top` | Yes |
 | `xtux.org` | No |
@@ -36113,7 +36115,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,413 |
+| Cloudflare | 8,415 |
 | Normal | 27,657 |
 
 
