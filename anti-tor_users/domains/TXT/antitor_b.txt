@@ -409,7 +409,6 @@ bitarkivo.org
 bitcoin-detector.us
 bitcoin-takeover.com
 bitcointimes.com.au
-bitflyerinvitationcode.xyz
 bitly.ro
 bitpaid.io
 bitrefili.com
@@ -2885,8 +2884,10 @@ api.bnpparibas-pf.co.uk
 api.boniversum.com
 api.bvg.de
 api.dev.boom-api.nl
+api.ext-int.san.bkicloudtest.com
 api.mail.kunden.burgeins.de
 api.na01.prod.boreas.cloud
+api.pl-e1.san.bkicloud.com
 api.prod.web.bec.dk
 api.test.boom-api.nl
 api.uat.bill360.com
@@ -2897,9 +2898,11 @@ app.bcinthecloud.com
 app.bni-life.co.id
 app101prodazureadb2c01.b2clogin.com
 appcatalog.bancafideuram.it
+applycreditcard.bni.co.id
 apps.bni-life.co.id
 ar.bankjazeera.com
 arnavutkoftepiyaz.business.site
+asipulse.bureauveritas.com
 aspone-sandbox.biapi.pro
 auth-devops.dv.bond-pro.com
 auth-test.blackpin.tech
@@ -2976,16 +2979,20 @@ bandung-container.id
 bangkokescortservice.com
 banhtrangthitheophucuong.vn
 bank-career-game.ru
+bank-soal.bandikmentibatang.com
 bankano.com
 bankathqfa.com
+bankenveldequestriancentre.co.za
 bankers.today
 bankerslendingservice.com
 bankhkj.com
 bankhuanprang.ac.th
+banking40.ro
 bankingexpert.info
 bankkontakt.no
 banklebak.co.id
 bankmanager.com.br
+bankoff.md
 bankovnikrediti.org
 bankovnipoplatek.cz
 bankrojava.com
@@ -2993,6 +3000,7 @@ bankruptcyautoadvisors.com
 bankruptcylawyers-metroeast.com
 bankserc.pl
 banksiagroverealestate.com.au
+banquet61.com
 banquetesbogota.com.co
 banrural.com.hn
 bantec.es
@@ -3010,6 +3018,7 @@ bastingestival.com
 baswstudynotes.com
 baton.ua
 battle-optimus.com
+battlebornalarm.com
 bauser.com.br
 baxkit.com
 baykimya.com.tr
@@ -3059,6 +3068,7 @@ beshvy.xyz
 best.co.ua
 best247support.com
 bestbikes.com.ua
+bestbusinessidea.in
 bestdailystuffs.com
 bestpark.ro
 bestsafe.ro
@@ -3080,6 +3090,7 @@ bglobalpost.com
 bgnindustrialtires.com
 bgtv24.com
 bhamnow.com
+bhashini.gov.in
 bhere.ro
 bhpulseportal.com
 bhwwecare.com
@@ -3099,6 +3110,8 @@ bikros.com
 bildungskultur-rhein-neckar.de
 bilerico.com
 bilety.baabusmusicalis.com
+billashop.pk
+billburch.com
 billcoppedge.com
 billcoxbooks.com
 billcraft.ca
@@ -3115,6 +3128,7 @@ billig-boligadvokat.dk
 billigbegravelser.dk
 billigelokaler.dk
 billigt.dk
+billingsctsp.com
 billingsinsurance.com
 billion8indonesia.com
 billionairestore.net
@@ -3147,6 +3161,7 @@ bipp44qctivqte.online
 bisouservice.com
 bit-bull.net
 bit-thinking.ca
+bitcoinliveapps.net
 bitfinex.com.bttfinex.com
 bitlog.shop
 bitrafic.com
@@ -3209,8 +3224,10 @@ bobilkjeden.no
 bobstreeservice.org
 bodydefendersmovie.com
 bodyextremes.com
+boggedfinance.exchange
 boggedlfinance.com
 bogortransmandiri.com
+bokamososecurity.co.za
 boligfritid.dk
 bolrookr.com
 bolservice.net
@@ -3227,6 +3244,7 @@ bookofmorden.co.uk
 boomcarservice.ro
 boophotobooth.pt
 bootmacos.com
+bornglobals.com
 borupost.dk
 bosen.net
 bostonsecurity.net
@@ -3270,6 +3288,7 @@ bristoljournal.co.uk
 broadreachconsulting.co.ke
 broadwaystudios.com
 brocardcored.com
+brokentilewarrantylloydspestcontrol.com
 brokersprint.com
 brolis.bilco.com
 brollox.co.za
@@ -3378,6 +3397,7 @@ cpanel.bmsc.com.sa
 cpanel.boagotinha.online
 cpanel.boateazulcachaca.com.br
 cpanel.brollox.co.za
+cpcalendars.bangkukbenk-com.shop
 cpcalendars.barrosebarros.ao
 cpcalendars.bedlamanddiscord.com
 cpcalendars.bellabysaccessibility.com
@@ -3386,6 +3406,7 @@ cpcalendars.blockchainforfinancialservices.com
 cpcalendars.blockchainforutilities.com
 cpcalendars.bms-mitsubishi.fr
 cpcalendars.bolajalanidhoki88.com
+cpcontacts.bangkukbenk-com.shop
 cpcontacts.barrosebarros.ao
 cpcontacts.bedlamanddiscord.com
 cpcontacts.blackrockfarms.net
@@ -3405,6 +3426,7 @@ davidepstein.bulletin.com
 db.services.blockchain-birds.com
 de-staging-api.biletdukkani.com
 de.banggood.com
+debug.tagging.bicevida.cl
 dev-portal.bongtrip.com.vn
 dev.billfold-wallet.com
 dev.billvolt.com
@@ -3413,6 +3435,7 @@ dev.jaxforms.cloud.bs.ch
 dev.klarsicht.bzga.de
 developer-api.nextgenpsd2bank-sbx.banfico.io
 dex.b-sre1.dev.bluescape.io
+digisales.bni.co.id
 discodomo.boostedbrands.club
 discord-notifier.cl00-dev-bgv-forge.bgvapp.com
 discord.bdegeiirouen.fr
@@ -3435,6 +3458,8 @@ fresco-gelateria.business.site
 fuel.bakercommunications.com
 games.bcafinance.co.id
 gamesrv1.bettarget.com
+garciatreeservice.bytfm.com
+gb-online.bni.co.id
 geodienste.bfn.de
 git.git.gitlab.git.8393229fb9.buxmonitor.ru
 git.git.gitlab.wp.bargaindealer.info
@@ -3457,6 +3482,8 @@ hk.b2b-demoshop.de
 hml-secure-api.brinks.com.br
 hml2-secure-api.brinks.com.br
 hoffmann-fds.brumm-service.de
+icg.bolder.de
+ihcs.bni.co.id
 images.e.bmia.bloomberg.com
 insidemedicine.bulletin.com
 jayworx.bisadibantu.com
@@ -3479,6 +3506,7 @@ mail.bedlamanddiscord.com
 mc.blubrry.com
 migrate.cdn-2.bigcheese.site
 movimentacoes.bancovillela.com
+muetzenfalterin.blogda.ch
 multimedia.arcus.cm.bloomberga.com
 my.billheap.com
 navi.bing.luxe
@@ -3489,7 +3517,9 @@ notes.bka.li
 onetrust-webhook.bovitzapi.com
 onex.bydata.com.co
 open.broadmaster.top
+pacotes.beachhotel.com.br
 paulhelmsdeep.blogspot.com
+payway.sinergia.bcc.it
 pix.bancovillela.com
 planblife.bni-life.co.id
 plataion56.business.site
@@ -3504,6 +3534,9 @@ rampingroaring.blogspot.com
 rdmedia.api.bbc.co.uk
 relay.babb.be
 rmt.bankmandiri.co.id
+rum.browser-intake-datadoghq.eu
+saas.britech.com.br
+saas2.britech.com.br
 seasidevets.blogspot.com
 secure.bmtmicro.com
 securemail.bronsonhg.org
@@ -3516,6 +3549,7 @@ sp.beforward.jp
 staging.cs.labs.blackberry.com
 stg.bcportal.jp
 store.csgomroulette.biennale.info
+strembert.bulldots.be
 stuggikidis.brumm-service.de
 stuggikids.brumm-service.de
 sunshop.dcswbnmqdg.billig-isolering.dk
@@ -3542,6 +3576,7 @@ va.banksumut.co.id
 vest.bankofbaroda.cyou
 w.behold.so
 web9512.web07.bero-webspace.de
+webdisk.bangkukbenk-com.shop
 webdisk.banglacoursebazar.online
 webdisk.bankrotoadvokatas.lt
 webdisk.bankruptcypaperwork.com
@@ -3572,6 +3607,7 @@ www.balkannews.com.tr
 www.bancanacional.com.br
 www.bangkokbrain.com
 www.bangkoktrans.com
+www.bank-soal.bandikmentibatang.com
 www.bankano.com
 www.bankathqfa.com
 www.bankfoot-coachworks.co.uk
@@ -3581,6 +3617,7 @@ www.bankruptcy-fresno.com
 www.banortevtm.com
 www.banquetesbogota.com.co
 www.banqueting4you.online
+www.barbournebrook.co.uk
 www.baristi.gr
 www.barrocarte.com.br
 www.basilcanteen.com
@@ -3589,6 +3626,7 @@ www.bauser.com.br
 www.bcaa.com
 www.bccsolution.co.id
 www.bcgneeds.store
+www.bcidaho.com
 www.bdallservice.xyz
 www.bdpestcontrol.net
 www.beautifuldiscord.life
@@ -3618,6 +3656,7 @@ www.billdietrich.me
 www.billdunn.realtor
 www.billedbybroadway.com
 www.billigearbejdssko.dk
+www.billigebadesandaler.dk
 www.billigebadesko.dk
 www.billigeblomster.dk
 www.billigeboksmadrasser.dk
@@ -3633,6 +3672,7 @@ www.billigehundebure.dk
 www.billigekontinentalsenge.dk
 www.billigelaminatgulve.dk
 www.billigelammeskind.dk
+www.billigelegehuse.dk
 www.billigemotionscykler.dk
 www.billigenatborde.dk
 www.billigeplakater.dk
@@ -3647,7 +3687,9 @@ www.billigesommerkjoler.dk
 www.billigesoveposer.dk
 www.billigestole.dk
 www.billigetallerkener.dk
+www.billigetremmesenge.dk
 www.billigpavillon.dk
+www.billigrumdeler.dk
 www.billigtdameur.dk
 www.billigtgaskomfur.dk
 www.billigthundemad.dk
@@ -3677,6 +3719,7 @@ www.bluefoodinnovation.com
 www.bluewaterstt.com
 www.boatrace.jp
 www.bochum.de
+www.bodyrock.fi
 www.boll.ch
 www.bonafideresearch.com
 www.boneroom.com
@@ -3708,10 +3751,12 @@ www.bsls.ac.uk
 www.btsa.com
 www.bubblebd.com
 www.bucks.radio
+www.bullcitysoleraandtaproom.com
 www.bundesverbraucherhilfe.de
 www.burgosconecta.es
 www.businessinsider.in
 www.businesslawyers.jp
+www.bussgeld-verkehrsrecht.de
 www.butcherandbakerprovisions.com
 www.buurtsuperwijnjewoude.nl
 www.bybit-serviceudlejning.dk
@@ -3734,11 +3779,13 @@ www.lelang.bankswadaya.co.id
 www.medbee-client.bsconsultants.us
 www.money.busineso.site
 www.motsaigon.binhminhsafety.com
+www.necl.online.billerska.com
 www.netbank.bankjazeera.com
 www.nnapost.blangriek.desa.id
 www.nnwga.bankmymobile.com
 www.pagarbetis.berita99.com
 www.paintingservice.bookingcarkuching.com
+www.securepoint.ltd.bloq.info
 www.siak.banktulungagung.co.id
 www.test.bankolab.pl
 www.teste.billions.market
