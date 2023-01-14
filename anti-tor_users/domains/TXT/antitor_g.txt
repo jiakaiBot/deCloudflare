@@ -1988,6 +1988,7 @@ zelda-heardle.glitch.me
 00f74ba44be8f9b9bb3411da8750379890c6c72b06-apidata.googleusercontent.com
 01vitu.github.io
 1d053fd4696c41.site.godaddyarabicwsbonline.com
+21acb87f9afc4018484b5ad8ffbd08f5.safeframe.googlesyndication.com
 419d4d77b56a9fdda578c4c1027bf1ed.safeframe.googlesyndication.com
 71544ad6f57558d5be2336094c894dfb.safeframe.googlesyndication.com
 7342fa263f446a1fc28fb52d66953146.safeframe.googlesyndication.com
@@ -1998,6 +1999,7 @@ abdullahabdu786.github.io
 abdulmusawirkp.github.io
 abrahamjuliot.github.io
 accounting.gamechangersdigitech.co.za
+accounts.gasconfoods.com
 acquisition-staging.gsa.gov
 afs.googlesyndication.com
 aga-cb-h.geoinspector.com.br
@@ -2005,6 +2007,7 @@ agnasvarro.github.io
 ah-essam.github.io
 ai.discord.gunnarstone.com
 ai.geneeskunde.com
+ajin-mathew69.github.io
 ajit6609.github.io
 akkarma07.github.io
 akulamanasa2002.github.io
@@ -2021,6 +2024,7 @@ api.gmservices.com.br
 api.google.com
 api.staging.gigabank.jp
 api2.gettoby.com
+apidev.goforitapp.com
 apiscrm.dev.gruposuperdigital.com
 apolozani.github.io
 app.gartnerformarketers.com
@@ -2073,12 +2077,14 @@ cdn.greatnews.life
 cdss.govqa.us
 cei-captcha-cracker.service.grana.capital
 cfyl-original.ggmserver.com
+chart.apis.google.com
 ci3.googleusercontent.com
 ci4.googleusercontent.com
 ci5.googleusercontent.com
 ci6.googleusercontent.com
 claim.goclaim.net
 claraj101.github.io
+click.email.greatwolfmail.com
 click.info.gestore.com
 click.info.globallearnclub.com
 click.info.gosafeguard.com
@@ -2180,6 +2186,7 @@ doc-0k-5s-docs.googleusercontent.com
 doc-0k-78-docs.googleusercontent.com
 doc-0k-7k-docs.googleusercontent.com
 doc-0k-90-docs.googleusercontent.com
+doc-0o-38-docs.googleusercontent.com
 doc-0o-5o-docs.googleusercontent.com
 doc-0o-70-docs.googleusercontent.com
 doc-0o-74-docs.googleusercontent.com
@@ -2194,6 +2201,7 @@ doc-10-90-docs.googleusercontent.com
 doc-10-as-docs.googleusercontent.com
 doc-14-1k-docs.googleusercontent.com
 doc-14-2c-docs.googleusercontent.com
+doc-14-38-docs.googleusercontent.com
 doc-14-5g-docs.googleusercontent.com
 doc-14-8g-docs.googleusercontent.com
 doc-14-98-docs.googleusercontent.com
@@ -2219,6 +2227,7 @@ email.gradifi.com
 empresas3.gruposantander.es
 encrypted-tbn0.gstatic.com
 engineer-support.grandioso.co.jp
+equatorial-foam-archer.glitch.me
 ersunilkumardeveloper.github.io
 esca4.app.goo.gl
 etrade.geosecurities.com.hk
@@ -2238,6 +2247,7 @@ fonts.googleapis.com
 fonts.gstatic.com
 fr.grantcapitalbank.com
 franquias.godiscorosqueria.com.br
+fresh-brassy-mascara.glitch.me
 fuchsia-updates-autopush-qual.googleusercontent.com
 fuchsia-updates-autopush.googleusercontent.com
 fuchsia-updates-dev.googleusercontent.com
@@ -2278,17 +2288,20 @@ gasylicyg1e8n6po.com
 gatewayfiresafety.sg
 gatlinsescapegames.com
 gatoartesano.com
+gavetadedinheiro.com.br
 gawsfashion.com
 gcahlla.ga
 gcluster.jp
 gdcfm.com
 gdquest.github.io
+gdrintl.com
 geagroservice.com
 geegotech.com
 geeks2u.com.au
 geekydomain.com
 geerautoservice.com
 geldantgrins.com
+gelden-faber.de
 gelderbloem.co.za
 gelderblom.net
 geldgolf.nl
@@ -2329,6 +2342,7 @@ gft4.me
 gfunkhouser.com
 ggongcash.com
 ggongcream.com
+gha-associates.com
 gha.org
 ghettoschanse.com
 ghkeshani.com
@@ -2337,9 +2351,9 @@ giametrics.com
 giasutoancau.com
 giftee.com
 gigaportalhost.com
-gilbertpisecurity.com
 gilgamesh-amu.com
 gingembreetwasabi.com
+ginkoblattverlag.com
 gintonico.com
 gio-escort.com
 gipsecurity.com
@@ -2400,6 +2414,7 @@ gloucester-drainage-services.co.uk
 glovo-delivery.ro
 glxtest.site
 gmrlaw.ca
+gndnews.in
 gnzsecurity.ae
 go-brum.getcruise.com
 go-container.id
@@ -2445,6 +2460,7 @@ grahamsbandbox.com
 grandfoyer.gr
 grandpascrypto.com
 grandtheftnft.com
+grantguidesnow.shop
 grapa.gr
 gravidtrekker.com
 greenfo.hu
@@ -2477,6 +2493,7 @@ hakuhakuwu.github.io
 heady-troubled-river.glitch.me
 horse-wirehaired-phosphorus.glitch.me
 ikkitousenbarsu.game-info.wiki
+insarmap.gsi.go.jp
 interface.golf-jalan.net
 irshadabdulla19.github.io
 jagged-abrupt-baritone.glitch.me
@@ -2503,6 +2520,7 @@ moneynews.globalpassivemoney.com
 mtap.partners.glanceapis.com
 newterms3.godaddysites.com
 nianhuoolyjd.guanmeikj.com
+nithinsaichoudary.github.io
 orders.gazettextra.com
 pay.globallinker.com
 pe-eca.grupodigitex.com
@@ -2511,6 +2529,7 @@ periclesperes.github.io
 play.geforcenow.com
 postback.glanceapis.com
 ppd.bealert.gedicom.fr
+prometheus-k8s.grieg.io
 pt.globeygroup.com
 pubsub.googleapis.com
 pyenchant.github.io
@@ -2580,6 +2599,7 @@ webmail.gadluiscordero.gob.ec
 webmail.ghayandibali.com
 webmail.grasmeremotors.garageinvoice2.co.uk
 wellgatesupport.gmzdev.uk
+ws3.gi-electric.at
 www.30mints.com.grenstonesecurity.in
 www.accounting.gamechangersdigitech.co.za
 www.alertaciudadana.gongalsoft.com
@@ -2603,6 +2623,7 @@ www.gas-safety-certificates.com
 www.gaudiumpress.ca
 www.ge-registrar.com
 www.geistinderflasche.de
+www.gelden-faber.de
 www.geldersmannenensemble.nl
 www.geldgirls.com
 www.genengnews.com
@@ -2646,6 +2667,7 @@ www.gothamcoyote.org
 www.gotwoway.com
 www.gov.nu.ca
 www.governo.it
+www.gpsmultitrack.store
 www.gpwsecurity.com.au
 www.gpwsecuritynsw.com.au
 www.gradesservice.com
@@ -2658,6 +2680,7 @@ www.grnottinghamaccesscontrol.co.uk
 www.groundlabs.com
 www.gservice.se
 www.guinness.com
+www.gungemadstore.com
 www.gunze.jp
 www.gvpedia.org
 www.gymsecurity.cl
