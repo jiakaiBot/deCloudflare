@@ -308,6 +308,7 @@ assessments.zfco.com
 auth.znet.li
 autodiscover.zentuber.com
 betadrive.zoho.eu
+captcha.zerozendesign.com
 click.email.zalando-lounge.com
 client.zorgplatform.online
 clientes.zetaarquitetura.com.br
@@ -341,10 +342,12 @@ secure-paypal-access-login-confirm-account.zmgconsulting.co.za
 service-line-messaging.zipzoft.online
 speechmatics-portal-design-update.znn.app
 star-motor.zapads.co.il
+support.zionforever.tech
 t1.zoommailnews.co.uk
 test.services.zvjezdanparavac.de
 ticket.zeromiles.co.il
 uat.service.payroll.zenyohr.com
+update.zestydigital.co.uk
 user.zgem.org
 web.zensys.app.br
 www.accountabuddy.zeromedia.com.au
@@ -354,6 +357,7 @@ www.client-analytics.zerrohost.com
 www.clientes.zetaarquitetura.com.br
 www.creditrepairstlouis.com.zim4.com
 www.dinheiro-rapido.xyz.zeroacne.site
+www.fokuser.zalozba-chiara.si
 www.login.zeeshankalwar.info
 www.moneychannel.zeba.ro
 www.paketbersihcepat.zonawanita.com
@@ -365,6 +369,7 @@ www.zeisloftconstruction.com
 www.zenit.ru
 www.zennioptical.com
 www.zeppelin-bar.de
+www.zionsbank.com
 www.ziplocal.ca
 www.zippoguide.com
 www.zone-service.com
@@ -404,6 +409,7 @@ zjazdordynatorow.pl
 zmaildirect.com
 znsrc.com
 zoagremo.net
+zodiacappzu.mpm.zodiac-cloud.com
 zoelashspa.com
 zoohaven.no
 zoroastrianonline.com
