@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [change the issuer for a certificate](https://github.com/cert-manager/cert-manager/issues/5728)
 - [CloudFlare "Auto Minify" breaks SolidJS](https://github.com/solidjs/solid/issues/1482)
 - [Sollution to "Could not contact entitlement service. Status code: 530, error message: 0/, response body: <!DOCTYPE html>"?](https://github.com/citizenfx/fivem/issues/1798)
 - [Support uploading files to cloudflare](https://github.com/InnoDeck/InnoDeck/issues/3)
