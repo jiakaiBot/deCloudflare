@@ -18438,7 +18438,7 @@ Here's a list of public Fediverse services.
 | `maiome.xyz` | No |
 | `maique.eu` | No |
 | `maique.lol` | Yes |
-| `maique.xyz` | No |
+| `maique.xyz` | Yes |
 | `maiquemadeira.com` | No |
 | `mair.io` | No |
 | `maiti.info` | No |
@@ -25614,6 +25614,7 @@ Here's a list of public Fediverse services.
 | `puni.moe` | No |
 | `puniman.co` | No |
 | `punipuni.eu` | Yes |
+| `punk.pizza` | Yes |
 | `punkchords.com` | No |
 | `punkmaniac.com` | Yes |
 | `punkrock-underground.com` | No |
@@ -36142,8 +36143,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,423 |
-| Normal | 27,676 |
+| Cloudflare | 8,425 |
+| Normal | 27,675 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
