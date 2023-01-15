@@ -3727,6 +3727,7 @@ Do not create new issue or we will close it as duplicate.
 | [hmoo_yint@twitter](https://twitter.com/hmoo_yint/status/1376867328655167489) | advertise |
 | [HmueWah@twitter](https://twitter.com/HmueWah/status/1390065653806034944) | advertise |
 | [hmuhammod56@twitter](https://twitter.com/hmuhammod56/status/1608346207646273538) | advertise |
+| [hmuu_kyaw@twitter](https://twitter.com/hmuu_kyaw/status/1614532136165605379) | advertise |
 | [hn40147@twitter](https://twitter.com/hn40147/status/1515949214903111682) | advertise |
 | [Hn53502@twitter](https://twitter.com/Hn53502/status/1500090041405952007) | advertise |
 | [hng8_qun@twitter](https://twitter.com/hng8_qun/status/1534239549207252992) | advertise |
@@ -4478,6 +4479,7 @@ Do not create new issue or we will close it as duplicate.
 | [JasonEr17605258@twitter](https://twitter.com/JasonEr17605258/status/1606180787094552576) | advertise |
 | [JasonkaranikO@twitter](https://twitter.com/JasonkaranikO/status/1505896917921841160) | advertise |
 | [JasonLovesDoggo@twitter](https://twitter.com/JasonLovesDoggo/status/1503187393268097032) | advertise |
+| [JasonPan@twitter](https://twitter.com/JasonPan/status/1614480718754725889) | advertise |
 | [JasonRe78052527@twitter](https://twitter.com/JasonRe78052527/status/1557051673335439363) | advertise |
 | [jasonwtien@twitter](https://twitter.com/jasonwtien/status/1538028781675290624) | advertise |
 | [JasperGolden14@twitter](https://twitter.com/JasperGolden14/status/1608873574638710785) | advertise |
@@ -6825,6 +6827,7 @@ Do not create new issue or we will close it as duplicate.
 | [mozilla.org](https://www.mozilla.org/) | ACTION.md:bugzilla |
 | [mo_nhan@twitter](https://twitter.com/mo_nhan/status/1388524071961255936) | advertise |
 | [MPaivandy@twitter](https://twitter.com/MPaivandy/status/1470874647461777411) | advertise |
+| [Mphay9139Ok@twitter](https://twitter.com/Mphay9139Ok/status/1614544032428101634) | advertise |
 | [Mphetamine2@twitter](https://twitter.com/Mphetamine2/status/1389550479969980417) | advertise |
 | [Mpzo55@twitter](https://twitter.com/Mpzo55/status/1554556620050673664) | advertise |
 | [MR360_CRICKETER@twitter](https://twitter.com/MR360_CRICKETER/status/1552192413535719424) | advertise |
