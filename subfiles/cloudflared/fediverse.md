@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,340 |
 | social | 3,331 |
-| net | 2,735 |
+| net | 2,736 |
 | org | 1,961 |
 | de | 1,845 |
 
@@ -5743,7 +5743,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -23509,6 +23509,7 @@ Here's a list of public Fediverse services.
 | `orangechair.org` | No |
 | `orangehalo.net` | No |
 | `orangeliner.net` | No |
+| `orangem.net` | Yes |
 | `orangenote.dev` | No |
 | `orangespatula.com` | No |
 | `orani.co` | Yes |
@@ -36188,7 +36189,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,438 |
-| Normal | 27,706 |
+| Normal | 27,707 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
