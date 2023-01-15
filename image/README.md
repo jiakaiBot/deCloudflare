@@ -5,4 +5,4 @@
 - [Meme](meme/)
 - [image/\*.\* list](images.md) (warning: heavy)
 - [classics image list](../subfiles/classics/img/README.md)
-- [Poster list](poster/)
+- [Poster list](poster/README.md)
