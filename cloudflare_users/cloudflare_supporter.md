@@ -1332,6 +1332,7 @@ Do not create new issue or we will close it as duplicate.
 | [ba_gyee@twitter](https://twitter.com/ba_gyee/status/1393872315771850752) | advertise |
 | [bbbbba911@twitter](https://twitter.com/bbbbba911/status/1402935512663535618) | advertise |
 | [bbcha11793920@twitter](https://twitter.com/bbcha11793920/status/1536942284989943808) | advertise |
+| [bbeing_SCP@twitter](https://twitter.com/bbeing_SCP/status/1614457811748139011) | advertise |
 | [bbiillaallh@twitter](https://twitter.com/bbiillaallh/status/1569240876710334464) | advertise |
 | [Bbin23638730@twitter](https://twitter.com/Bbin23638730/status/1386172036981006336) | advertise |
 | [BBuZLYHHQ1iEopD@twitter](https://twitter.com/BBuZLYHHQ1iEopD/status/1398583949593518080) | advertise |
