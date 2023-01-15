@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,340 |
 | social | 3,331 |
 | net | 2,736 |
-| org | 1,961 |
+| org | 1,962 |
 | de | 1,845 |
 
 
@@ -18281,6 +18281,7 @@ Here's a list of public Fediverse services.
 | `m6n.io` | No |
 | `m6n.jp` | No |
 | `m86.work` | Yes |
+| `m87.pp.ua` | Yes |
 | `m9esports.online` | No |
 | `ma-nic.de` | No |
 | `ma3ali.net` | No |
@@ -19367,6 +19368,7 @@ Here's a list of public Fediverse services.
 | `mats.sh` | Yes |
 | `matsu-nico.me` | No |
 | `matsukky.com` | Yes |
+| `matsuu.org` | Yes |
 | `matsuuratomoya.com` | No |
 | `matt-social.co.uk` | No |
 | `mattarkin.com` | Yes |
@@ -36188,7 +36190,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,438 |
+| Cloudflare | 8,440 |
 | Normal | 27,707 |
 
 
