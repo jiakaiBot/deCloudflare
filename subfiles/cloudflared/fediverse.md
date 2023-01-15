@@ -16138,6 +16138,7 @@ Here's a list of public Fediverse services.
 | `kiobu.dev` | No |
 | `kios.cc` | No |
 | `kippenbergs.de` | No |
+| `kipple.be` | Yes |
 | `kira-sei.com` | Yes |
 | `kira.zone` | Yes |
 | `kiraako.work` | No |
@@ -36207,7 +36208,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,448 |
+| Cloudflare | 8,449 |
 | Normal | 27,716 |
 
 
