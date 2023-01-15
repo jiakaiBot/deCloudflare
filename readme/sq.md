@@ -182,4 +182,4 @@ Asnjëherë nuk pyesim në median tënde sociale.**
 
 ![](../image/eastdakota_1273277839102656515.jpg)
 
-![](../image/stopcf.jpg)  [🖼 Poster](../image/poster)
+![](../image/stopcf.jpg)  [🖼 Poster](../image/poster/README.md)
