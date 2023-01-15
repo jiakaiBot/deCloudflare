@@ -66,6 +66,11 @@
 
 ##    براہ کرم اگلے صفحے پر جاری رکھیں:  "[کلاؤڈ فلایر اخلاقیات](ur.ethics.md)"
 
+| 🖼 | 🖼 | 🖼 |
+| --- | --- | --- |
+| ![](../image/fbi_on_cloudflare.jpg) | ![](../image/cloudflare_cisa_govtld.png) | ![](../image/twitterban_cloudflare.jpg) |
+
+
 ---
 
 <details>
