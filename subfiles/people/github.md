@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Multipart upload fails with Cloudflare R2](https://github.com/s3fs-fuse/s3fs-fuse/issues/2095)
 - [Works but also does not.](https://github.com/ayunami2000/ayun61cord/issues/4)
 - [CloudFlare "Auto Minify" breaks SolidJS](https://github.com/solidjs/solid-docs-next/issues/185)
 - [Invalid Response caused by network changes (Cloudflare)](https://github.com/Dar9586/NClientV2/issues/520)
