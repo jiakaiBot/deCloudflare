@@ -62,7 +62,9 @@
 ---
 
 
-##    Fortsett til neste side:  "[Cloudflare-etikk](nb.ethics.md)"| 🖼 | 🖼 | 🖼 |
+##    Fortsett til neste side:  "[Cloudflare-etikk](nb.ethics.md)"
+
+| 🖼 | 🖼 | 🖼 |
 | --- | --- | --- |
 | ![](../image/fbi_on_cloudflare.jpg) | ![](../image/cloudflare_cisa_govtld.png) | ![](../image/twitterban_cloudflare.jpg) |
 
