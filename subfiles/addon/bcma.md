@@ -21,4 +21,4 @@ Your cloudflare-domain collection is yours.
 
 - Looking for `Palemoon`? [Block Cloudflare Requests (Palemoon)](../../tool/block_cloudflare_requests_pm)
 - Download add-on
-  - From Git: [FirefoxESR](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/bcma.xpi) / [Chromium / Edge](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/bcma.crx)
+  - From Git: [FirefoxESR](https://framagit.org/dCF/deCloudflare/-/raw/master/addons/releases/bcma.xpi) / [Chromium / Edge](https://framagit.org/dCF/deCloudflare/-/raw/master/addons/releases/bcma.crx)
