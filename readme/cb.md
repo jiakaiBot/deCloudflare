@@ -64,6 +64,11 @@
 
 ##    Palihug magpadayon sa sunod nga panid:  "[Mga Etika sa Cloudflare](cb.ethics.md)"
 
+| 🖼 | 🖼 | 🖼 |
+| --- | --- | --- |
+| ![](../image/fbi_on_cloudflare.jpg) | ![](../image/cloudflare_cisa_govtld.png) | ![](../image/twitterban_cloudflare.jpg) |
+
+
 ---
 
 <details>
