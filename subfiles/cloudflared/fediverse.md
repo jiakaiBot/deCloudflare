@@ -21390,6 +21390,7 @@ Here's a list of public Fediverse services.
 | `myownhost.de` | No |
 | `mypeertube.fr` | No |
 | `mypict.net` | No |
+| `mypixl.fr` | No |
 | `myporntv.com` | No |
 | `myportal.social` | No |
 | `myprayer.center` | No |
@@ -24329,7 +24330,7 @@ Here's a list of public Fediverse services.
 | `penisrakete.space` | No |
 | `penner.party` | Yes |
 | `penple.dev` | Yes |
-| `pensinspace.net` | Yes |
+| `pensinspace.net` | No |
 | `pensive.guru` | No |
 | `pentacene.cyou` | Yes |
 | `pentacl.es` | No |
@@ -36186,8 +36187,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,439 |
-| Normal | 27,704 |
+| Cloudflare | 8,438 |
+| Normal | 27,706 |
 
 
 ### 23.3% of public Fediverse services are using Cloudflare.
