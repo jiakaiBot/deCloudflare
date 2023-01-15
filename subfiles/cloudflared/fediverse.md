@@ -3671,6 +3671,7 @@ Here's a list of public Fediverse services.
 | `blobular.com` | Yes |
 | `bloc.black` | No |
 | `blockbastler.de` | No |
+| `blockedur.mom` | No |
 | `blockernet.com` | No |
 | `blockriot.com` | No |
 | `blockvideo.live` | No |
@@ -36217,7 +36218,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,450 |
-| Normal | 27,723 |
+| Normal | 27,724 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
