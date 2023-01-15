@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,343 |
-| social | 3,333 |
+| com | 5,344 |
+| social | 3,335 |
 | net | 2,736 |
 | org | 1,964 |
 | de | 1,845 |
@@ -847,6 +847,7 @@ Here's a list of public Fediverse services.
 | `adamtbradley.net` | No |
 | `adamwolf.org` | No |
 | `adapulawska.org` | Yes |
+| `adawesome.tech` | No |
 | `adb.sh` | No |
 | `addajones.com` | Yes |
 | `addesp.com` | Yes |
@@ -2984,6 +2985,7 @@ Here's a list of public Fediverse services.
 | `beamweb.de` | No |
 | `beamy-lake.social` | No |
 | `beanlog.xyz` | No |
+| `beanofficial.co` | No |
 | `beans.do` | Yes |
 | `bear.community` | No |
 | `bearbooks.se` | No |
@@ -6862,6 +6864,7 @@ Here's a list of public Fediverse services.
 | `darckoune.moe` | No |
 | `darcy.family` | No |
 | `darcy.social` | No |
+| `dardan.com` | No |
 | `dardan.im` | No |
 | `dareme.org` | No |
 | `darfweb.eu` | No |
@@ -12615,6 +12618,7 @@ Here's a list of public Fediverse services.
 | `hadret.com` | Yes |
 | `haecksen.social` | No |
 | `haeder.net` | No |
+| `haeder.netfeatured` | No |
 | `hafen.io` | No |
 | `hafkehafke.org` | No |
 | `hafs.in` | No |
@@ -14664,6 +14668,7 @@ Here's a list of public Fediverse services.
 | `its2.fun` | Yes |
 | `itsagooddaytobegeek.com` | No |
 | `itsall.space` | No |
+| `itschristophers.life` | No |
 | `itsfoss.com` | Yes |
 | `itsfree.realestate.pl` | No |
 | `itsg.host` | Yes |
@@ -21398,6 +21403,7 @@ Here's a list of public Fediverse services.
 | `mynextcloudserver.ml` | No |
 | `mynoghra.jp` | No |
 | `mynxt.cloud` | No |
+| `myon.social` | No |
 | `myonlinelife.social` | No |
 | `myopic.one` | No |
 | `myops.de` | No |
@@ -29928,6 +29934,7 @@ Here's a list of public Fediverse services.
 | `stefanberger.net` | No |
 | `stefanbohacek.dev` | No |
 | `stefanbohacek.online` | No |
+| `stefanbohacek.social` | No |
 | `stefaniehippert.de` | No |
 | `stefanomarinelli.it` | No |
 | `stefanovski.io` | Yes |
@@ -31380,6 +31387,7 @@ Here's a list of public Fediverse services.
 | `thecommandline.social` | No |
 | `thecommotion.social` | No |
 | `theconley.club` | No |
+| `theconsciousness.club` | Yes |
 | `theconservativetreehouse.com` | Yes |
 | `theconstract.com` | No |
 | `thecool.tube` | No |
@@ -36208,8 +36216,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,449 |
-| Normal | 27,716 |
+| Cloudflare | 8,450 |
+| Normal | 27,723 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
