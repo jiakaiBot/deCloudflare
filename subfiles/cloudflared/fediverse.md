@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,343 |
-| social | 3,331 |
+| social | 3,332 |
 | net | 2,736 |
-| org | 1,962 |
+| org | 1,963 |
 | de | 1,845 |
 
 
@@ -18776,6 +18776,7 @@ Here's a list of public Fediverse services.
 | `masatodon.com` | No |
 | `masatodon.jp` | No |
 | `masatoshi-yokota.com` | No |
+| `maschinendeck.org` | No |
 | `masdis.com` | No |
 | `masdon.life` | No |
 | `masdoon.com` | No |
@@ -32677,6 +32678,7 @@ Here's a list of public Fediverse services.
 | `tschaba.de` | Yes |
 | `tschannen.me` | No |
 | `tschlotfeldt.de` | No |
+| `tschunk.social` | Yes |
 | `tschuss.li` | No |
 | `tseivan.com` | No |
 | `tsia.de` | No |
@@ -36203,8 +36205,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,444 |
-| Normal | 27,716 |
+| Cloudflare | 8,445 |
+| Normal | 27,717 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
