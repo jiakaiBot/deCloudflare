@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,340 |
+| com | 5,343 |
 | social | 3,331 |
 | net | 2,736 |
 | org | 1,962 |
@@ -2345,6 +2345,7 @@ Here's a list of public Fediverse services.
 | `atomatheoria.com` | No |
 | `atomic-zombie-squirrel.tech` | No |
 | `atomicblon.de` | No |
+| `atomicedge.online` | Yes |
 | `atomicfridge.net` | No |
 | `atomicpoet.org` | No |
 | `atomicstar.xyz` | Yes |
@@ -4421,6 +4422,7 @@ Here's a list of public Fediverse services.
 | `byecorps.com` | Yes |
 | `byemc.live` | No |
 | `bygg.land` | No |
+| `byjc.co` | No |
 | `byl.fr` | No |
 | `bylines.social` | No |
 | `bylsem.com` | No |
@@ -6892,6 +6894,7 @@ Here's a list of public Fediverse services.
 | `darkpeak.org` | No |
 | `darkpenguin.social` | No |
 | `darkplanetego.de` | No |
+| `darkposh.com` | No |
 | `darks.fr` | No |
 | `darksair.org` | No |
 | `darkshade.social` | No |
@@ -9687,6 +9690,7 @@ Here's a list of public Fediverse services.
 | `fat.cab` | Yes |
 | `fataxl.online` | No |
 | `fatelectron.net` | No |
+| `fathermaurer.com` | Yes |
 | `fatkin.me` | No |
 | `fatpig.club` | No |
 | `fatsofa.eu` | No |
@@ -10579,6 +10583,7 @@ Here's a list of public Fediverse services.
 | `foxxo.gay` | Yes |
 | `foxyhole.io` | Yes |
 | `foxylo.xyz` | No |
+| `fozztexx.com` | No |
 | `fpfle.de` | No |
 | `fpga.style` | No |
 | `fpsource.eu` | No |
@@ -12975,6 +12980,7 @@ Here's a list of public Fediverse services.
 | `helix.cafe` | Yes |
 | `hell.social` | No |
 | `hell0friend.de` | No |
+| `hella.cheap` | No |
 | `helladoge.com` | Yes |
 | `hellch.at` | No |
 | `hellchat.club` | No |
@@ -13077,6 +13083,7 @@ Here's a list of public Fediverse services.
 | `hermanns.cloud` | Yes |
 | `hermes2020.de` | No |
 | `hermherm.org` | Yes |
+| `hermine.top` | Yes |
 | `hermit.cafe` | No |
 | `hermitmagicians.com` | No |
 | `hermitmountain.top` | No |
@@ -15483,6 +15490,7 @@ Here's a list of public Fediverse services.
 | `juro.cloud` | No |
 | `juso.social` | No |
 | `jussak.net` | No |
+| `just-one-more.club` | Yes |
 | `justabit.social` | No |
 | `justafellow.com` | No |
 | `justandras.com` | Yes |
@@ -18815,6 +18823,7 @@ Here's a list of public Fediverse services.
 | `mastaudon.org` | No |
 | `mastburgh.social` | No |
 | `mastchan.org` | No |
+| `mastd.dev` | No |
 | `mastd.me` | No |
 | `mastd.net` | No |
 | `mastd.racing` | No |
@@ -21146,6 +21155,7 @@ Here's a list of public Fediverse services.
 | `muffin.pm` | No |
 | `muga.xyz` | No |
 | `mugicha.club` | Yes |
+| `mugiko.moe` | No |
 | `mugit.farm` | No |
 | `mugwort.xyz` | No |
 | `muh.wang` | No |
@@ -26862,6 +26872,7 @@ Here's a list of public Fediverse services.
 | `risingsun.red` | No |
 | `risk.social` | No |
 | `riskmanage.jp` | No |
+| `risky.af` | No |
 | `risma.app` | Yes |
 | `risonchu.social` | No |
 | `rita.moe` | Yes |
@@ -27414,6 +27425,7 @@ Here's a list of public Fediverse services.
 | `sabletopia.co.uk` | Yes |
 | `sabordage.net` | No |
 | `sabre.social` | No |
+| `sabross.xyz` | No |
 | `sac.moe` | Yes |
 | `sac.se` | No |
 | `sachertorte.xyz` | No |
@@ -28133,6 +28145,7 @@ Here's a list of public Fediverse services.
 | `seeedstudio.social` | Yes |
 | `seeingthatwhichis.org` | No |
 | `seekahead.eu` | No |
+| `seerofsouls.xyz` | No |
 | `seerr.dev` | Yes |
 | `seesomesun.be` | No |
 | `seetake.net` | Yes |
@@ -36190,8 +36203,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,440 |
-| Normal | 27,707 |
+| Cloudflare | 8,444 |
+| Normal | 27,716 |
 
 
-### 23.3% of public Fediverse services are using Cloudflare.
+### 23.4% of public Fediverse services are using Cloudflare.
