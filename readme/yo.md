@@ -64,6 +64,11 @@
 
 ##    Jọwọ tẹsiwaju si oju-iwe atẹle:  "[Aṣa Cloudflare](yo.ethics.md)"
 
+| 🖼 | 🖼 | 🖼 |
+| --- | --- | --- |
+| ![](../image/fbi_on_cloudflare.jpg) | ![](../image/cloudflare_cisa_govtld.png) | ![](../image/twitterban_cloudflare.jpg) |
+
+
 ---
 
 <details>
