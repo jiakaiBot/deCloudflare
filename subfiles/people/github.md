@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Invalid Response caused by network changes (Cloudflare)](https://github.com/Dar9586/NClientV2/issues/520)
 - [change the issuer for a certificate](https://github.com/cert-manager/cert-manager/issues/5728)
 - [Make it work outside cloudflare](https://github.com/cloudflare/wildebeest/issues/84)
 - [CloudFlare "Auto Minify" breaks SolidJS](https://github.com/solidjs/solid/issues/1482)
