@@ -19,4 +19,4 @@ Your domain collection is yours.
 
 
 - Download add-on
-  - From Git: [FirefoxESR](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/urjm.xpi) / [Chromium / Edge](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/urjm.crx)
+  - From Git: [FirefoxESR](https://framagit.org/dCF/deCloudflare/-/raw/master/addons/releases/urjm.xpi) / [Chromium / Edge](https://framagit.org/dCF/deCloudflare/-/raw/master/addons/releases/urjm.crx)
