@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,343 |
-| social | 3,332 |
+| social | 3,333 |
 | net | 2,736 |
-| org | 1,963 |
+| org | 1,964 |
 | de | 1,845 |
 
 
@@ -10600,6 +10600,7 @@ Here's a list of public Fediverse services.
 | `fractalego.social` | No |
 | `fractopia.org` | No |
 | `fractum.gq` | No |
+| `fracturedhosting.social` | Yes |
 | `fragdev.com` | No |
 | `fragmental.art` | No |
 | `fraize.com` | No |
@@ -26462,7 +26463,7 @@ Here's a list of public Fediverse services.
 | `redere.org` | No |
 | `redeyes.club` | No |
 | `redeyes.site` | No |
-| `redfern.is` | No |
+| `redfern.is` | Yes |
 | `redfish.ca` | No |
 | `redflag.social` | Yes |
 | `redgarterclub.com` | No |
@@ -30072,6 +30073,7 @@ Here's a list of public Fediverse services.
 | `stormdragon.tk` | No |
 | `stormgrass.com` | No |
 | `stormlight.space` | Yes |
+| `stormux.org` | No |
 | `stormy178.com` | No |
 | `stormyknight.xyz` | No |
 | `storo.social` | No |
@@ -30702,7 +30704,7 @@ Here's a list of public Fediverse services.
 | `take.farm` | No |
 | `takebackourtech.org` | No |
 | `takedown.sh` | No |
-| `takehi.to` | No |
+| `takehi.to` | Yes |
 | `takeko.cyou` | No |
 | `takeko.monster` | Yes |
 | `takemusu-aiki.be` | No |
@@ -36205,8 +36207,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,445 |
-| Normal | 27,717 |
+| Cloudflare | 8,448 |
+| Normal | 27,716 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
