@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,344 |
-| social | 3,335 |
+| social | 3,336 |
 | net | 2,736 |
 | org | 1,964 |
 | de | 1,845 |
@@ -2391,6 +2391,7 @@ Here's a list of public Fediverse services.
 | `audiosauti.com` | No |
 | `audiovalentine.com` | No |
 | `audiovisuel-participatif.org` | No |
+| `audon.space` | Yes |
 | `audreywatters.com` | Yes |
 | `auf1.eu` | No |
 | `aufdeine.art` | Yes |
@@ -27357,6 +27358,7 @@ Here's a list of public Fediverse services.
 | `rxn.be` | No |
 | `rxt.social` | No |
 | `rxtx.nl` | No |
+| `ry.xxx` | No |
 | `ryan.su` | Yes |
 | `ryan77627.xyz` | No |
 | `ryanak.xyz` | Yes |
@@ -28197,6 +28199,7 @@ Here's a list of public Fediverse services.
 | `selent.ca` | No |
 | `selexco.net` | No |
 | `self-hosted.site` | No |
+| `self.social` | No |
 | `selfhost.co` | No |
 | `selfhost.de` | No |
 | `selfhost.lol` | Yes |
@@ -36218,8 +36221,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,450 |
-| Normal | 27,725 |
+| Cloudflare | 8,451 |
+| Normal | 27,727 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
