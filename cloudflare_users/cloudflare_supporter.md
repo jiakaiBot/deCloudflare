@@ -7663,6 +7663,7 @@ Do not create new issue or we will close it as duplicate.
 | [nottsonline1@twitter](https://twitter.com/nottsonline1/status/1519043499328421900) | advertise |
 | [notwaytoomuch@twitter](https://twitter.com/notwaytoomuch/status/1396359332447485953) | advertise |
 | [NoungN2@twitter](https://twitter.com/NoungN2/status/1392947583866130432) | advertise |
+| [noun_wild@twitter](https://twitter.com/noun_wild/status/1614553648343977984) | advertise |
 | [Nouraabdulla15@twitter](https://twitter.com/Nouraabdulla15/status/1586210209336381442) | advertise |
 | [nouriehp@twitter](https://twitter.com/nouriehp/status/1600769155669852160) | advertise |
 | [nouskayarzthrs@twitter](https://twitter.com/nouskayarzthrs/status/1592351291422175235) | advertise |
@@ -7811,6 +7812,7 @@ Do not create new issue or we will close it as duplicate.
 | [Okami54259404@twitter](https://twitter.com/Okami54259404/status/1391062217710129154) | advertise |
 | [okayyakko@twitter](https://twitter.com/okayyakko/status/1407936483143524353) | advertise |
 | [okellochristo@twitter](https://twitter.com/okellochristo/status/1531884571842818053) | advertise |
+| [OkkerZweLwin@twitter](https://twitter.com/OkkerZweLwin/status/1614559286021197828) | advertise |
 | [Okla12344678833@twitter](https://twitter.com/Okla12344678833/status/1559894067454287876) | advertise |
 | [okynnorhosiery@twitter](https://twitter.com/okynnorhosiery/status/1576256442293968897) | advertise |
 | [Olala85233012@twitter](https://twitter.com/Olala85233012/status/1389032029568651267) | advertise |
