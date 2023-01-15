@@ -52,6 +52,7 @@ codequalityconverter.42gears.com
 databar-astrofarm-in.42gears.com
 flipkart-clonestorage.42gears.com
 in.4trk.cyou
+katsepa.4cloud.gr
 mars.42gears.com
 myntramdmstorage.42gears.com
 ocrcanada-astrofarm-us.42gears.com
@@ -60,6 +61,7 @@ thebaysocial-astrofarm-us.42gears.com
 wbv.clients.4dnet.work
 whm.4ainvestment.pt
 www.4321mediagroup.com
+www.47news.jp
 www.4gamers.com.tw
 www.offroadservice.ro.4x4magazin.ro
 www.wallpilot.4easymoney.com
