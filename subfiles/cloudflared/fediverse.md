@@ -362,6 +362,7 @@ Here's a list of public Fediverse services.
 | `3t0kb.com` | No |
 | `3towers.de` | No |
 | `3v.fi` | No |
+| `3v.is` | Yes |
 | `3x1t.eu` | No |
 | `3xd.eu` | Yes |
 | `3zi.ru` | No |
@@ -26416,7 +26417,7 @@ Here's a list of public Fediverse services.
 | `reaves.dev` | No |
 | `rebased.io` | Yes |
 | `rebased.network` | Yes |
-| `rebased.social` | No |
+| `rebased.social` | Yes |
 | `rebble.net` | No |
 | `rebekahcanada.com` | No |
 | `rebel-lion.uk` | No |
@@ -36221,8 +36222,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,451 |
-| Normal | 27,727 |
+| Cloudflare | 8,453 |
+| Normal | 27,726 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
