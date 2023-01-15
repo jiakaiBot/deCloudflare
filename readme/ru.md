@@ -170,4 +170,4 @@
 
 ![](../image/stopcf.jpg)
 
-[🖼 Плакаты](../image/poster)
+[🖼 Плакаты](../image/poster/README.md)
