@@ -64,6 +64,11 @@
 
 ##    ביטע פאָרזעצן צו ווייַטער בלאַט:  "[קלאָודפלאַרע עטיקס](yi.ethics.md)"
 
+| 🖼 | 🖼 | 🖼 |
+| --- | --- | --- |
+| ![](../image/fbi_on_cloudflare.jpg) | ![](../image/cloudflare_cisa_govtld.png) | ![](../image/twitterban_cloudflare.jpg) |
+
+
 ---
 
 <details>
