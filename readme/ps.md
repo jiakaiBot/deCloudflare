@@ -66,6 +66,11 @@
 
 ##    مهرباني وکړئ بل پا toې ته دوام ورکړئ:  "[د کلاوډ فلایر اخلاقيات](ps.ethics.md)"
 
+| 🖼 | 🖼 | 🖼 |
+| --- | --- | --- |
+| ![](../image/fbi_on_cloudflare.jpg) | ![](../image/cloudflare_cisa_govtld.png) | ![](../image/twitterban_cloudflare.jpg) |
+
+
 ---
 
 <details>
