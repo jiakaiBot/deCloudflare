@@ -28909,6 +28909,7 @@ Here's a list of public Fediverse services.
 | `skyenet.social` | Yes |
 | `skyevg.systems` | Yes |
 | `skyfish.jp` | No |
+| `skyizwhite.dev` | No |
 | `skyjake.fi` | No |
 | `skylair.info` | Yes |
 | `skylantern.social` | No |
@@ -36218,7 +36219,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,450 |
-| Normal | 27,724 |
+| Normal | 27,725 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
