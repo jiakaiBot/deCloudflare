@@ -64,6 +64,11 @@
 
 ##    Feuch an lean thu air adhart chun ath dhuilleag:  "[Beusachd Cloudflare](gd.ethics.md)"
 
+| 🖼 | 🖼 | 🖼 |
+| --- | --- | --- |
+| ![](../image/fbi_on_cloudflare.jpg) | ![](../image/cloudflare_cisa_govtld.png) | ![](../image/twitterban_cloudflare.jpg) |
+
+
 ---
 
 <details>
