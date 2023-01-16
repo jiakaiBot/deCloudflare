@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [v1.29.3 panic in Docker: "OS can't spawn worker thread: Operation not permitted"](https://github.com/denoland/deno/issues/17444)
 - [Definitive guide to Sourcemaps and more with Sveltekit 🎉](https://github.com/getsentry/sentry/issues/43301)
 - [CloudFlare Issues with Advanced TCP protection API](https://github.com/MatBenfield/news/issues/8070)
 - [Yggtorrent not working since domain change](https://github.com/Prowlarr/Prowlarr/issues/1333)
