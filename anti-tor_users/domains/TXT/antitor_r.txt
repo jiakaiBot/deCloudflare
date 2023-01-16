@@ -241,7 +241,6 @@ prf.riotinto.com
 proxynux.rnde.tm.fr
 qaregister.retinavue.net
 qtc8kc8no-1b8897185d70b198c119e1d2b7efd8a2.ssl.cf1.rackcdn.com
-r-roblox.com
 raamoprusland.nl
 rachelallan.au
 racingnelliebly.com
@@ -1198,7 +1197,6 @@ resebutik.se
 reseticket.com
 resetickets.com
 residenciasmontepio.pt
-resourcefulbank.com
 respectfe.org.uk
 restauracioncurico.com
 restore-dublin.com
@@ -1691,6 +1689,7 @@ click.royalcaribbeanmarketing.com
 client.rizalshah.com
 client.rxsmp.com
 clients.rokk.cloud
+cobp.resist.ca
 college.rrmch.org
 connectpoint.radixx.com
 connexionhost.revender.host
@@ -1772,6 +1771,7 @@ filebrowser.rynodyno.xyz
 firsebase.ronaldhuaira.com
 fsstud.ruhr-uni-bochum.de
 ftp.rtptinder88.com
+git.git.git.git.git.test-discourse.staging.remontnik.ru
 git.git.git.gitlab.mail.ryanmcbride.org
 git.git.gitlab.ail.mail.www.rencontre-adultere.co
 git.git.gitlab.git.gitlab.mail3.rvtrader-newhampshire.com
@@ -1835,6 +1835,7 @@ mail.roblof.com
 mail.roblofaudio.com
 mail.robloxgameplay.com
 mail.rtpcnnslot.com
+majidalfuttaim.api.retailnext.net
 mamang.remotetunnel.net
 master-newyear-kaspersky.rcoast.ru
 mastodon.rpicloud.de
@@ -1860,6 +1861,7 @@ novosite.ricardohaag.com.br
 oapi.qa1.responsys.net
 ob.robotflowermobile.com
 odkuabrqbzhhppmu.ransommethis.net
+online.radarbank.us
 pay.rosebarrett.net
 paypal-support.reddysecurity.com.au
 pixel.app.returnpath.net
@@ -1920,6 +1922,7 @@ randlovonlinecoach.dk
 rangersecurity.uk
 raning-possip.icu
 ranking-deli.jp
+rapidcityjournal.com
 rapidexdelivery.online
 rapload.org
 rashersingle.com
@@ -2028,10 +2031,12 @@ retry-anpost.com
 retry-webapp-auth.com
 revengetenting.website
 revert-170-ishuvalov-fix-node-warnings.k8s.readymag.net
+reverttosaved.com
 reverysteno.com
 review-login-web.com
 review-primesubscription.com
 revistamutaciones.com
+revistaorto.net
 revistaselva.com
 revistasic.es
 revolutionarypapers.org
@@ -2174,12 +2179,11 @@ staging.responsibleequityrelease.co.uk
 static.returnpath.net
 stresstest.reward.tv
 sts.rhlseutu.fi
+sts.ropack.com
 thestarphoenix.remembering.ca
 tls.search.proquest.com.iitj.remotexs.co
 uisois.remon.top
 unleashedcapital-jenkins.refinery.dev
-update.risingjoysourdough.com
-update2.risingjoysourdough.com
 webdisk.randynowell.com
 webdisk.roblofaudio.com
 webdisk.robloxgameplay.com
@@ -2249,10 +2253,12 @@ www.referencesupplements.com
 www.regenerativemedicinedaily.com
 www.reifuku-rental.com
 www.reisemeister.de
+www.rejoinandreform.co.uk
 www.reliantrs.com
 www.remoteitjobs.co.uk
 www.renealmeling.com
 www.renovaservice.fr
+www.renovierungsservice-andruchowicz.de
 www.repairiphonebangi.com.my
 www.reporters-collective.in
 www.resolutesf.com
