@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,347 |
-| social | 3,344 |
+| com | 5,348 |
+| social | 3,345 |
 | net | 2,738 |
-| org | 1,965 |
+| org | 1,966 |
 | de | 1,848 |
 
 
@@ -6667,6 +6667,7 @@ Here's a list of public Fediverse services.
 | `cyzed.com` | No |
 | `czarnylas.net` | No |
 | `czech.social` | No |
+| `czerwoni.org` | No |
 | `czinege.social` | No |
 | `czleteron.net` | Yes |
 | `czm.io` | Yes |
@@ -13329,6 +13330,7 @@ Here's a list of public Fediverse services.
 | `hivemind.gq` | No |
 | `hivemind.plus` | No |
 | `hiveway.net` | Yes |
+| `hiwaga.tech` | No |
 | `hixe.fr` | No |
 | `hiyuki.xyz` | No |
 | `hiyuki2578.net` | Yes |
@@ -16103,7 +16105,7 @@ Here's a list of public Fediverse services.
 | `kill.yt` | No |
 | `killbox.social` | Yes |
 | `killcops.lol` | No |
-| `killed.xyz` | Yes |
+| `killed.xyz` | No |
 | `killerkitty.ch` | No |
 | `killerwhale.solutions` | No |
 | `killiwamps.com` | No |
@@ -23089,6 +23091,7 @@ Here's a list of public Fediverse services.
 | `ocr.social` | No |
 | `ocsf.in` | No |
 | `octaplex.net` | No |
+| `octii.chat` | Yes |
 | `octo.im` | No |
 | `octobot.space` | Yes |
 | `octodon.social` | No |
@@ -26968,6 +26971,7 @@ Here's a list of public Fediverse services.
 | `rmdir.co.uk` | No |
 | `rmendes.net` | No |
 | `rmgr.dev` | No |
+| `rmi0.com` | No |
 | `rmrf.space` | No |
 | `rmrs.nl` | No |
 | `rmxr.net` | No |
@@ -29200,6 +29204,7 @@ Here's a list of public Fediverse services.
 | `snowday-hls.tk` | Yes |
 | `snowdin.town` | No |
 | `snowdon.jp` | No |
+| `snowdon.social` | No |
 | `snowfrost.garden` | No |
 | `snowgoons.ro` | Yes |
 | `snowii.moe` | Yes |
@@ -36262,7 +36267,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,461 |
-| Normal | 27,757 |
+| Normal | 27,762 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
