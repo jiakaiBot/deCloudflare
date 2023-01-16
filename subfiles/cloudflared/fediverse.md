@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,350 |
-| social | 3,347 |
-| net | 2,738 |
+| com | 5,353 |
+| social | 3,349 |
+| net | 2,739 |
 | org | 1,967 |
-| de | 1,848 |
+| de | 1,850 |
 
 
 - Mastodon, Pleroma, etc
@@ -342,6 +342,7 @@ Here's a list of public Fediverse services.
 | `3dxmedia.com` | No |
 | `3e.gg` | Yes |
 | `3ends.info` | No |
+| `3ex.de` | No |
 | `3fu.de` | No |
 | `3fx.ch` | No |
 | `3gigs.xyz` | Yes |
@@ -1722,6 +1723,7 @@ Here's a list of public Fediverse services.
 | `anontown.com` | No |
 | `anonworld.de` | No |
 | `anonworld.us` | Yes |
+| `anonyme-atheisten.ga` | No |
 | `anonymous-cat.site` | No |
 | `anonymous.blue` | No |
 | `anonymous.wtf` | Yes |
@@ -2383,6 +2385,7 @@ Here's a list of public Fediverse services.
 | `atypical.social` | No |
 | `atypique.net` | No |
 | `au2pb.net` | No |
+| `aubrielee.com` | No |
 | `aucklandia.social` | Yes |
 | `aucubin.de` | No |
 | `aucubin.eu` | No |
@@ -5908,6 +5911,7 @@ Here's a list of public Fediverse services.
 | `conservative.capital` | No |
 | `consolving.de` | No |
 | `conspiracyfiles.net` | Yes |
+| `constant.social` | Yes |
 | `constantine.name` | No |
 | `constantinluegering.de` | No |
 | `constellati.one` | No |
@@ -6861,6 +6865,7 @@ Here's a list of public Fediverse services.
 | `danstodon.com` | No |
 | `dansu.org` | No |
 | `danvelopment.net` | Yes |
+| `danz.cloud` | Yes |
 | `daotalk.cn` | No |
 | `daotodon.me` | No |
 | `dapchat.online` | No |
@@ -9362,6 +9367,7 @@ Here's a list of public Fediverse services.
 | `eventprofs.social` | No |
 | `everlong.org` | No |
 | `eversole.co` | No |
+| `evertools.io` | Yes |
 | `evertron.tv` | No |
 | `everwas.com` | Yes |
 | `everydayedward.com` | Yes |
@@ -9867,6 +9873,7 @@ Here's a list of public Fediverse services.
 | `fedifilth.xyz` | Yes |
 | `fedifit.site` | No |
 | `fediflix.social` | No |
+| `fedifrog.com` | No |
 | `fedifur.social` | No |
 | `fedigram.com` | No |
 | `fedigram.net` | No |
@@ -12216,6 +12223,7 @@ Here's a list of public Fediverse services.
 | `graha.ms` | Yes |
 | `grahamc.com` | No |
 | `grahamedgecombe.com` | No |
+| `grahams.wtf` | No |
 | `grahamstewartphoto.com` | Yes |
 | `grainedutopie.eu` | No |
 | `gram.social` | Yes |
@@ -14794,6 +14802,7 @@ Here's a list of public Fediverse services.
 | `jackbenson.xyz` | Yes |
 | `jackbot.fr` | No |
 | `jackdaw.today` | No |
+| `jackelope.gay` | Yes |
 | `jackf.red` | No |
 | `jackhumphrey.me` | Yes |
 | `jacklinke.com` | No |
@@ -14983,6 +14992,7 @@ Here's a list of public Fediverse services.
 | `jayfreestone.com` | No |
 | `jaypee.solutions` | No |
 | `jaysanalysis.com` | No |
+| `jayshome.online` | No |
 | `jaystevens.me` | Yes |
 | `jayvii.de` | No |
 | `jazz.af` | No |
@@ -15654,6 +15664,7 @@ Here's a list of public Fediverse services.
 | `kaiba.one` | Yes |
 | `kaientai-jp.net` | No |
 | `kaifa.ch` | Yes |
+| `kaijauch.de` | No |
 | `kaiju.city` | No |
 | `kaiju.social` | Yes |
 | `kaikretschmann.de` | No |
@@ -22375,6 +22386,7 @@ Here's a list of public Fediverse services.
 | `nissenet.com` | No |
 | `nistkasten-dresden.de` | No |
 | `nisu.ly` | Yes |
+| `nitalia.uno` | No |
 | `nitech.online` | No |
 | `nitecrew.biz` | No |
 | `nitecrew.rip` | No |
@@ -23924,6 +23936,7 @@ Here's a list of public Fediverse services.
 | `p-y.ro` | Yes |
 | `p.lu` | Yes |
 | `p0.pm` | Yes |
+| `p0d.fr` | No |
 | `p0lymer.net` | No |
 | `p0wn3d.com` | No |
 | `p1k3.com` | No |
@@ -26384,6 +26397,7 @@ Here's a list of public Fediverse services.
 | `rayonnant.org` | Yes |
 | `raysofhope.love` | Yes |
 | `raytec.co` | No |
+| `raza.social` | No |
 | `raziel.space` | Yes |
 | `razmadze.me` | No |
 | `razormonkey.eu` | Yes |
@@ -26539,6 +26553,7 @@ Here's a list of public Fediverse services.
 | `redpandemonium.com` | Yes |
 | `redpeacock78.com` | Yes |
 | `redpilled.life` | No |
+| `redra1n.net` | No |
 | `redroo.ml` | No |
 | `redroot.xyz` | No |
 | `redrosa.social` | No |
@@ -31474,6 +31489,7 @@ Here's a list of public Fediverse services.
 | `thedimpau.se` | No |
 | `thedisco.social` | No |
 | `thedixons.net` | Yes |
+| `thedoodleproject.com` | No |
 | `thedoodleproject.net` | No |
 | `thedreaming.city` | No |
 | `theduran.icu` | No |
@@ -36283,8 +36299,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,464 |
-| Normal | 27,776 |
+| Cloudflare | 8,468 |
+| Normal | 27,788 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
