@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,353 |
-| social | 3,349 |
-| net | 2,739 |
-| org | 1,967 |
+| com | 5,356 |
+| social | 3,351 |
+| net | 2,742 |
+| org | 1,968 |
 | de | 1,850 |
 
 
@@ -3552,7 +3552,7 @@ Here's a list of public Fediverse services.
 | `bknyc.us` | No |
 | `bkrdam.social` | No |
 | `bkryer.com` | No |
-| `bl1nk.com` | No |
+| `bl1nk.com` | Yes |
 | `blabber.rocks` | No |
 | `blabbergoats.com` | No |
 | `blablah.space` | No |
@@ -3835,6 +3835,7 @@ Here's a list of public Fediverse services.
 | `boehmke.net` | No |
 | `boelz.eu` | No |
 | `boerdica.de` | No |
+| `boeskol.nl` | No |
 | `bof.space` | No |
 | `bofa.lol` | Yes |
 | `boffosocko.com` | No |
@@ -6189,6 +6190,7 @@ Here's a list of public Fediverse services.
 | `creatureofthehill.com` | No |
 | `creerunjeuvideo.fr` | No |
 | `creetail-ps.net` | No |
+| `crem.in` | Yes |
 | `cremebrulee.xyz` | Yes |
 | `cremple.ovh` | No |
 | `crepe.live` | No |
@@ -7234,6 +7236,7 @@ Here's a list of public Fediverse services.
 | `defake.app` | Yes |
 | `defaultmediatransmitter.com` | Yes |
 | `defcon.social` | No |
+| `defcon42.net` | No |
 | `defective.work` | No |
 | `defelo.de` | Yes |
 | `defenders.town` | Yes |
@@ -7543,6 +7546,7 @@ Here's a list of public Fediverse services.
 | `dgoeke.io` | No |
 | `dgplug.org` | No |
 | `dgrammatiko.dev` | No |
+| `dh.social` | Yes |
 | `dharmadhatu.nl` | No |
 | `dharmapunx.online` | No |
 | `dharmarakshak.com` | No |
@@ -9597,6 +9601,7 @@ Here's a list of public Fediverse services.
 | `fak3r.com` | No |
 | `fakeclimate.science` | No |
 | `faked.org` | No |
+| `fakematts.space` | No |
 | `fakeologist.social` | No |
 | `fakesteve.net` | No |
 | `fakru.ch` | No |
@@ -13217,6 +13222,7 @@ Here's a list of public Fediverse services.
 | `hideo54.com` | Yes |
 | `hideout.dk` | No |
 | `hidupmanis.studio` | Yes |
+| `hidyn.com` | Yes |
 | `hieda.cc` | Yes |
 | `hieron.cc` | No |
 | `hieronymusch.net` | No |
@@ -15453,6 +15459,7 @@ Here's a list of public Fediverse services.
 | `js.social` | Yes |
 | `js4.in` | No |
 | `jschwab.org` | No |
+| `jseggers.com` | Yes |
 | `jsfamily.in` | No |
 | `jshwlkr.info` | No |
 | `jsna.dev` | Yes |
@@ -15497,6 +15504,7 @@ Here's a list of public Fediverse services.
 | `juick.com` | Yes |
 | `juist.social` | No |
 | `juju.house` | No |
+| `juju.nz` | Yes |
 | `juke.fr` | Yes |
 | `julekraus.de` | No |
 | `juleserver.no` | Yes |
@@ -17276,6 +17284,7 @@ Here's a list of public Fediverse services.
 | `lepissier.org` | No |
 | `leporid.net` | No |
 | `lepouete.fr` | No |
+| `lepoulsdumonde.com` | No |
 | `leptonics.com` | No |
 | `lequerrec.eu` | No |
 | `ler.jp` | No |
@@ -23461,6 +23470,7 @@ Here's a list of public Fediverse services.
 | `oozuze.social` | No |
 | `opa.re` | Yes |
 | `opafritz.de` | No |
+| `opalium.net` | Yes |
 | `opalstack.social` | No |
 | `opalstacked.com` | No |
 | `opantu.jp` | No |
@@ -28422,6 +28432,7 @@ Here's a list of public Fediverse services.
 | `sgiath.dev` | No |
 | `sgr.cc` | No |
 | `sgrclowd.xyz` | No |
+| `sgtk.net` | No |
 | `sgv.social` | No |
 | `sh-topia.ml` | No |
 | `sh4re.net` | Yes |
@@ -32327,6 +32338,7 @@ Here's a list of public Fediverse services.
 | `tootally.me` | No |
 | `tootaloo.me` | No |
 | `tootbook.com` | No |
+| `tootbot.org` | No |
 | `tootchute.com` | No |
 | `tootcn.com` | Yes |
 | `toote.rs` | No |
@@ -33404,6 +33416,7 @@ Here's a list of public Fediverse services.
 | `unraids.ml` | No |
 | `unrealasia.net` | Yes |
 | `unreality.pink` | No |
+| `unredacted.social` | Yes |
 | `unrelated.family` | Yes |
 | `unrelenting.technology` | No |
 | `unrelentingly.online` | No |
@@ -34853,6 +34866,7 @@ Here's a list of public Fediverse services.
 | `witches.in` | No |
 | `witches.live` | No |
 | `witches.pub` | No |
+| `witches.rest` | No |
 | `witches.social` | No |
 | `witches.town` | No |
 | `witchey.club` | No |
@@ -35634,6 +35648,7 @@ Here's a list of public Fediverse services.
 | `yawp.social` | No |
 | `yayest.space` | No |
 | `yayforqueers.net` | No |
+| `yba.dev` | Yes |
 | `ycare.de` | No |
 | `ycrack.net` | Yes |
 | `ycros.org` | Yes |
@@ -36299,8 +36314,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,468 |
-| Normal | 27,788 |
+| Cloudflare | 8,477 |
+| Normal | 27,794 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
