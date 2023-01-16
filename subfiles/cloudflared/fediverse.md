@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,346 |
+| com | 5,347 |
 | social | 3,341 |
 | net | 2,737 |
 | org | 1,965 |
@@ -11047,6 +11047,7 @@ Here's a list of public Fediverse services.
 | `functor.pro` | No |
 | `fundraising.social` | No |
 | `funfunmstdn.tokyo` | No |
+| `fungalhalo.com` | No |
 | `funigtor.fr` | No |
 | `funil.de` | No |
 | `funke-software.de` | No |
@@ -36250,7 +36251,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,458 |
-| Normal | 27,748 |
+| Normal | 27,749 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
