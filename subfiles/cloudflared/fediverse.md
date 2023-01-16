@@ -21228,6 +21228,7 @@ Here's a list of public Fediverse services.
 | `muhroads.net` | No |
 | `muhroads.party` | No |
 | `muiiio.com` | No |
+| `muimi.moe` | Yes |
 | `muina.me` | No |
 | `muito.top` | No |
 | `mujico.org` | No |
@@ -21885,6 +21886,7 @@ Here's a list of public Fediverse services.
 | `nekonet.cyou` | Yes |
 | `nekonote.cc` | No |
 | `nekoport.com` | No |
+| `nekoruri.dev` | Yes |
 | `nekoruri.jp` | No |
 | `nekos.io` | No |
 | `nekos.one` | Yes |
@@ -36314,7 +36316,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,477 |
+| Cloudflare | 8,479 |
 | Normal | 27,794 |
 
 
