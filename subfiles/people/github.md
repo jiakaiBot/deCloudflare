@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Definitive guide to Sourcemaps and more with Sveltekit 🎉](https://github.com/getsentry/sentry/issues/43301)
+- [CloudFlare Issues with Advanced TCP protection API](https://github.com/MatBenfield/news/issues/8070)
 - [Yggtorrent not working since domain change](https://github.com/Prowlarr/Prowlarr/issues/1333)
 - [Error when bot trys to login](https://github.com/ICEGXG/UntitledNuker/issues/4)
 - [cloudflared tunnel Reverse Proxy error](https://github.com/louislam/uptime-kuma/issues/2613)
