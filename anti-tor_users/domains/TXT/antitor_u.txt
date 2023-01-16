@@ -941,6 +941,7 @@ marjan.unitrontourism.com
 media.unibet.fr
 mobilecore.api.uatbi.com.br
 money-recognition.apps.uraki.dev
+moskit.uwm.edu.pl
 my-api.ucom.am
 nasertours.unitrontourism.com
 netflix.unreel.me
@@ -954,6 +955,7 @@ posudoff.uaprom.net
 praxis.ursachen-heilkunde.de
 praxis.ursachenheilkunde.com
 praxis.ursachenheilkunde.de
+premier.unlimitedstreamingsports.com
 prep.u-perf.fr
 profed.utk.education
 ps.userapi.com
@@ -971,12 +973,14 @@ slack.apps.uatbi.com.br
 ssp.usps.gov
 staging-oembed.uef.fi
 strea.umaru.to
+support.us-f1nds.ws
 svriesen.uber.space
 test.chem.uni-sofia.bg
 test.updatemiddelharnis.shop
 testclwd.uber.space
 ticket1.drknw.uber.space
 token.uicpayment.com.tw
+tools.usps.com
 u0054.com
 u0064.com
 u0078.com
@@ -992,6 +996,7 @@ ubuibi.org
 uccmediajustice.org
 uchkzmzehr.com
 ucs-web-google-auth-redirect.uc-school.com
+udmeldelse.dk
 udonexpo.net
 udookrou.com
 udraokrou.com
@@ -1002,11 +1007,13 @@ ufficio-postale.it
 ufora.dk
 ufosafe.com
 ufugaji.co.tz
+uispost.com
 ukexpressdelivery.com
 ukiasunnot.fi
 ukids.uplus.co.kr
 ukrainianservice.com
 ukreximbank.net
+ukrnet.co.uk
 uloc.dev
 ulsthai.com
 ultradefinitionbrows.com
@@ -1055,9 +1062,9 @@ upregisteelon.com
 ups-error.com
 upscourierexpress.com
 upsdiscrete-services.com
+upseteveret.no
 upskittyan.com
 upspinarakor.com
-upturnservice.com
 upvcwindowsessex.co.uk
 upvcwindowsfelixstowe.co.uk
 upvcwindowssuffolk.co.uk
