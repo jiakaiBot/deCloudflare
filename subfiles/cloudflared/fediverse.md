@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,347 |
-| social | 3,341 |
+| social | 3,342 |
 | net | 2,737 |
 | org | 1,965 |
 | de | 1,847 |
@@ -31171,6 +31171,7 @@ Here's a list of public Fediverse services.
 | `tenna.site` | No |
 | `tennis-friends.com` | No |
 | `tennisfriends.co.uk` | No |
+| `tenno.social` | Yes |
 | `tennt.in` | No |
 | `tenoru.xyz` | No |
 | `tenpenny.network` | No |
@@ -36250,7 +36251,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,458 |
+| Cloudflare | 8,459 |
 | Normal | 27,749 |
 
 
