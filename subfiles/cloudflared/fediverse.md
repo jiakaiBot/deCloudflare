@@ -10501,6 +10501,7 @@ Here's a list of public Fediverse services.
 | `forfuture.social` | No |
 | `forgetthis.site` | Yes |
 | `forgi.social` | Yes |
+| `forgor.club` | Yes |
 | `foritso.com` | Yes |
 | `fork.sh` | No |
 | `forkd.net` | No |
@@ -14704,7 +14705,7 @@ Here's a list of public Fediverse services.
 | `itsybitsysissy.eu` | No |
 | `itsysadm.in` | No |
 | `itsze.ro` | No |
-| `itter.xyz` | Yes |
+| `itter.xyz` | No |
 | `itu.dk` | Yes |
 | `itunix.eu` | No |
 | `itx.chat` | Yes |
@@ -16746,6 +16747,7 @@ Here's a list of public Fediverse services.
 | `kwmr.info` | Yes |
 | `kwmr.me` | Yes |
 | `kwolek.io` | Yes |
+| `kwot.in` | Yes |
 | `kwtechs.xyz` | No |
 | `kx.studio` | No |
 | `kxn4t.tech` | No |
@@ -23024,6 +23026,7 @@ Here's a list of public Fediverse services.
 | `oalm.gub.uy` | No |
 | `oar-online.uk` | No |
 | `oark.org` | No |
+| `oat.sh` | No |
 | `ob-wahl-freiburg.de` | No |
 | `obapom.work` | No |
 | `obbs.one` | No |
@@ -27996,7 +27999,7 @@ Here's a list of public Fediverse services.
 | `scorpinc.social` | No |
 | `scorpion.social` | No |
 | `scotland.computer` | No |
-| `scots.network` | No |
+| `scots.network` | Yes |
 | `scott.ee` | Yes |
 | `scott.in.th` | Yes |
 | `scottbking.com` | No |
@@ -33374,6 +33377,7 @@ Here's a list of public Fediverse services.
 | `unsandboxed.org` | Yes |
 | `unseensounds.com` | No |
 | `unshaped.space` | No |
+| `unsigned.cc` | No |
 | `unsociable.social` | Yes |
 | `unstable.icu` | Yes |
 | `unstable.systems` | Yes |
@@ -36256,8 +36260,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,458 |
-| Normal | 27,755 |
+| Cloudflare | 8,460 |
+| Normal | 27,757 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
