@@ -14253,6 +14253,7 @@ Here's a list of public Fediverse services.
 | `informaton.blog` | No |
 | `informethique.org` | No |
 | `infosec.exchange` | No |
+| `infosec.press` | No |
 | `infosecnerd.cc` | No |
 | `infosex.exchange` | No |
 | `infosexy.fun` | No |
@@ -15241,6 +15242,7 @@ Here's a list of public Fediverse services.
 | `joergmorbitzer.rocks` | No |
 | `joeshaw.org` | No |
 | `joev.dev` | No |
+| `joewoods.dev` | No |
 | `joeyboon.nl` | No |
 | `joffreyverd.fr` | No |
 | `jogger.social` | No |
@@ -16116,6 +16118,7 @@ Here's a list of public Fediverse services.
 | `kimpire.net` | No |
 | `kimse-bg.de` | No |
 | `kimsible.com` | No |
+| `kina.boo` | No |
 | `kinbaku.club` | No |
 | `kind.social` | No |
 | `kindbook.us` | No |
@@ -28463,6 +28466,7 @@ Here's a list of public Fediverse services.
 | `shelldog.de` | No |
 | `shelter.moe` | No |
 | `shelter.social` | Yes |
+| `shelton.chat` | No |
 | `shemmes.me` | No |
 | `shenanigan.space` | No |
 | `shenyanshu.com` | No |
@@ -33557,7 +33561,7 @@ Here's a list of public Fediverse services.
 | `v-insanity.com` | No |
 | `v.nu` | Yes |
 | `v.st` | No |
-| `v01d.app` | Yes |
+| `v01d.app` | No |
 | `v0idkr4ft.com` | Yes |
 | `v112.space` | No |
 | `v1x3n.net` | No |
@@ -35560,6 +35564,7 @@ Here's a list of public Fediverse services.
 | `yargl.com` | No |
 | `yarmo.eu` | No |
 | `yarmo.live` | No |
+| `yarnspinner.dev` | Yes |
 | `yarr.io` | No |
 | `yarrum.dev` | No |
 | `yart.me` | Yes |
@@ -36245,7 +36250,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,458 |
-| Normal | 27,743 |
+| Normal | 27,748 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
