@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Yggtorrent not working since domain change](https://github.com/Prowlarr/Prowlarr/issues/1333)
 - [Error when bot trys to login](https://github.com/ICEGXG/UntitledNuker/issues/4)
 - [cloudflared tunnel Reverse Proxy error](https://github.com/louislam/uptime-kuma/issues/2613)
 - [Multipart upload fails with Cloudflare R2](https://github.com/s3fs-fuse/s3fs-fuse/issues/2095)
