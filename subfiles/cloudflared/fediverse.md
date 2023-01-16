@@ -35036,6 +35036,7 @@ Here's a list of public Fediverse services.
 | `writ.live` | No |
 | `write-o-don.com` | No |
 | `write.as` | No |
+| `write.bz` | Yes |
 | `write.house` | No |
 | `write.wtf` | No |
 | `writeas.com` | No |
@@ -36260,7 +36261,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,460 |
+| Cloudflare | 8,461 |
 | Normal | 27,757 |
 
 
