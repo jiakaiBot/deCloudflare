@@ -3,7 +3,6 @@ adfs.qualfon.com
 api.qrserver.com
 api.qualitelis-crm.com
 api.quieroboon.com
-api.quikreturn.com
 api.quizflight.com
 apimedicina-pre.quironprevencion.com
 areyourapturereadynow.qcpsystems.com
@@ -266,6 +265,7 @@ tls.qfund.net
 uat1a.us1.qeadaptiveauthbo.com
 us.q2s15.com
 vo2.qrlsx.com
+www.auth.qualitymentoring.ca
 www.billlreadvisitorg.com.quizgota.com
 www.cardapioonline.qtaldelivery.com.br
 www.enxuguei.com.br.queroumnamorado.com
