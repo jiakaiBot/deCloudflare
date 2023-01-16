@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,347 |
-| social | 3,342 |
-| net | 2,737 |
+| social | 3,344 |
+| net | 2,738 |
 | org | 1,965 |
-| de | 1,847 |
+| de | 1,848 |
 
 
 - Mastodon, Pleroma, etc
@@ -3434,6 +3434,7 @@ Here's a list of public Fediverse services.
 | `birdbox.party` | Yes |
 | `birdcar.dev` | No |
 | `birddon.com` | No |
+| `birdinter.net` | No |
 | `birdity.club` | No |
 | `birdkey.ml` | No |
 | `birdon.social` | No |
@@ -13209,6 +13210,7 @@ Here's a list of public Fediverse services.
 | `high-low.ml` | No |
 | `high.cat` | No |
 | `high.lol` | No |
+| `highcaffeinecontent.social` | No |
 | `higheredweb.social` | No |
 | `higherorder.fun` | No |
 | `highfivesquad.com` | No |
@@ -13370,6 +13372,7 @@ Here's a list of public Fediverse services.
 | `hobbytech.club` | No |
 | `hobsoft.org` | No |
 | `hochminuseins.net` | No |
+| `hochschule-trier.de` | No |
 | `hochstenbach.net` | Yes |
 | `hock.one` | Yes |
 | `hodakov.me` | Yes |
@@ -25077,7 +25080,7 @@ Here's a list of public Fediverse services.
 | `poetic.systems` | No |
 | `poetry.garden` | No |
 | `pofilo.fr` | No |
-| `pogchamp.xyz` | Yes |
+| `pogchamp.xyz` | No |
 | `pogge.rs` | Yes |
 | `poggerinos.ml` | No |
 | `poggers.lgbt` | Yes |
@@ -27955,6 +27958,7 @@ Here's a list of public Fediverse services.
 | `schykle.com` | No |
 | `sci.kiwi` | Yes |
 | `scicomm.xyz` | No |
+| `science-mastodon.se` | No |
 | `science-practice.com` | No |
 | `sciencefiction.nl` | No |
 | `sciencemastodon.com` | No |
@@ -34745,6 +34749,7 @@ Here's a list of public Fediverse services.
 | `windowsnerd.cc` | No |
 | `windwords.eu.org` | No |
 | `windycity.style` | No |
+| `winecountry.social` | No |
 | `winframe.de` | Yes |
 | `wingartz.de` | No |
 | `wingers.social` | Yes |
@@ -36251,8 +36256,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,459 |
-| Normal | 27,749 |
+| Cloudflare | 8,458 |
+| Normal | 27,755 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
