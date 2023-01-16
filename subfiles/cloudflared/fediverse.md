@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,348 |
-| social | 3,345 |
+| social | 3,346 |
 | net | 2,738 |
 | org | 1,966 |
 | de | 1,848 |
@@ -16880,6 +16880,7 @@ Here's a list of public Fediverse services.
 | `lain.faith` | No |
 | `lain.gay` | No |
 | `lain.haus` | No |
+| `lain.la` | No |
 | `lain.moe` | No |
 | `lain.sh` | No |
 | `lainchan.gay` | No |
@@ -18717,6 +18718,7 @@ Here's a list of public Fediverse services.
 | `margiovanni.com` | Yes |
 | `marijuanacomputer.com` | No |
 | `marimo-net.com` | Yes |
+| `marimoko.biz` | No |
 | `marinintim.com` | Yes |
 | `mario.chat` | No |
 | `mariobreskic.de` | No |
@@ -22670,6 +22672,7 @@ Here's a list of public Fediverse services.
 | `nortelnetworks.dev` | Yes |
 | `northeast.one` | No |
 | `northernvoice.app` | No |
+| `northofthewall.social` | No |
 | `northpole.host` | No |
 | `northside.tokyo` | Yes |
 | `northstar.engineering` | No |
@@ -36267,7 +36270,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,461 |
-| Normal | 27,762 |
+| Normal | 27,765 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
