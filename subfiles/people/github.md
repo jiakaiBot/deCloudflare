@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Workers: The initWasm() function can be used only once.](https://github.com/kosei28/ezog/issues/1)
 - [QUESTION trojan-go + nginx + sni转发 + cloudflare非完全CDN代理](https://github.com/p4gefau1t/trojan-go/issues/484)
 - [FIPS: ERROR: java.lang.NoSuchMethodError: 'void org.bouncycastle.asn1.ASN1EncodableVector.<init>(int)'](https://github.com/keycloak/keycloak/issues/16486)
 - [v1.29.3 panic in Docker: "OS can't spawn worker thread: Operation not permitted"](https://github.com/denoland/deno/issues/17444)
