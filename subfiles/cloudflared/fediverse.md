@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,358 |
-| social | 3,355 |
+| social | 3,356 |
 | net | 2,745 |
 | org | 1,969 |
 | de | 1,850 |
@@ -8359,7 +8359,7 @@ Here's a list of public Fediverse services.
 | `dummy.cafe` | Yes |
 | `dummyload.co.uk` | No |
 | `dumont.video` | No |
-| `dumpkin.monster` | Yes |
+| `dumpkin.monster` | No |
 | `dumpster.social` | Yes |
 | `dun.land` | Yes |
 | `duncancmt.com` | No |
@@ -9043,6 +9043,7 @@ Here's a list of public Fediverse services.
 | `eniehack.net` | No |
 | `enigmastation.com` | No |
 | `enigmatic.observer` | No |
+| `enigmaticnewt.social` | No |
 | `enimihil.net` | No |
 | `enitg.no` | Yes |
 | `enitor.xyz` | No |
@@ -35958,6 +35959,7 @@ Here's a list of public Fediverse services.
 | `yzsdcm.top` | No |
 | `z-blog.tk` | No |
 | `z-flag.work` | No |
+| `z.fail` | No |
 | `z.je` | No |
 | `z0ne.moe` | Yes |
 | `z0ne.social` | Yes |
@@ -36341,8 +36343,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,488 |
-| Normal | 27,810 |
+| Cloudflare | 8,487 |
+| Normal | 27,813 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
