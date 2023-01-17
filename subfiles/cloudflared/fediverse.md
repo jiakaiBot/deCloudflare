@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,357 |
 | social | 3,352 |
 | net | 2,744 |
-| org | 1,968 |
+| org | 1,969 |
 | de | 1,850 |
 
 
@@ -2689,6 +2689,7 @@ Here's a list of public Fediverse services.
 | `bacherik.eu` | No |
 | `bachgau.social` | No |
 | `bachmann.social` | No |
+| `bachmann.wtf` | No |
 | `backbord.net` | No |
 | `backert.net` | No |
 | `backlight.social` | Yes |
@@ -9645,6 +9646,7 @@ Here's a list of public Fediverse services.
 | `familleborne.com` | No |
 | `famillegiovannini.ch` | No |
 | `family-m.art` | No |
+| `familyds.org` | No |
 | `familyhistory.page` | No |
 | `familysolidarity.org` | No |
 | `famjam.social` | Yes |
@@ -18794,6 +18796,7 @@ Here's a list of public Fediverse services.
 | `marrow.haus` | No |
 | `marrus.xyz` | Yes |
 | `marsam.graphics` | No |
+| `marschik.me` | No |
 | `marsey.club` | No |
 | `marstodon.com` | No |
 | `marsupialgurgle.com` | Yes |
@@ -22670,6 +22673,7 @@ Here's a list of public Fediverse services.
 | `nopulse.net` | No |
 | `noraa.gay` | No |
 | `norad.org` | No |
+| `noraneko.pics` | No |
 | `noraworld.com` | No |
 | `noraworld.jp` | No |
 | `norberteder.com` | No |
@@ -27805,6 +27809,7 @@ Here's a list of public Fediverse services.
 | `saunner.com` | Yes |
 | `sauropods.win` | No |
 | `sausage.social` | Yes |
+| `sausage.work` | No |
 | `savageworlds.social` | Yes |
 | `savant.so` | No |
 | `saved.video` | No |
@@ -33192,6 +33197,7 @@ Here's a list of public Fediverse services.
 | `ugrash.org` | No |
 | `uguu.io` | No |
 | `uguu.ltd` | No |
+| `uhh.monster` | No |
 | `uhlig.it` | No |
 | `uhlig.social` | No |
 | `uhnon.com` | No |
@@ -35445,6 +35451,7 @@ Here's a list of public Fediverse services.
 | `xn--sh8hve.to` | No |
 | `xn--sjpmeg-juab.space` | No |
 | `xn--stefan-hhn-lcb.de` | No |
+| `xn--sthle-nra.dk` | No |
 | `xn--t8jzbl7g.jp` | No |
 | `xn--thelnd-eua.land` | Yes |
 | `xn--tmp-qb4b9c2eyc.tokyo` | Yes |
@@ -36151,6 +36158,7 @@ Here's a list of public Fediverse services.
 | `zilla.tech` | No |
 | `zimbo.uk` | No |
 | `zimmer428.net` | No |
+| `zine.party` | No |
 | `zinzolin.fr` | No |
 | `zion-techs.com` | No |
 | `zip2.social` | No |
@@ -36326,7 +36334,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,484 |
-| Normal | 27,798 |
+| Normal | 27,806 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
