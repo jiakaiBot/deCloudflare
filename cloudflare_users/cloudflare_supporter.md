@@ -675,6 +675,7 @@ Do not create new issue or we will close it as duplicate.
 | [anas_freeman@twitter](https://twitter.com/anas_freeman/status/1402146891094167556) | advertise |
 | [anavaralimited@twitter](https://twitter.com/anavaralimited/status/1389661876397637632) | advertise |
 | [Ana_R2005@twitter](https://twitter.com/Ana_R2005/status/1507169578832605198) | advertise |
+| [ancientxfire@twitter](https://twitter.com/ancientxfire/status/1615290300020449280) | advertise |
 | [Andeptrai291122@twitter](https://twitter.com/Andeptrai291122/status/1553017887182712833) | advertise |
 | [andiodang77@twitter](https://twitter.com/andiodang77/status/1493927735823319041) | advertise |
 | [AndreDasz@twitter](https://twitter.com/AndreDasz/status/1389889427141390336) | advertise |
