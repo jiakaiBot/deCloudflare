@@ -1268,6 +1268,7 @@ ccservices.vertexsmb.com
 cdn.vsassets.io
 cdn3.vzwdm.com
 cekliveness.com.verifywajah.com
+chinese-discord-server.vercel.app
 cjohn772-gmailcom.vercel.app
 click.e.vsp.com
 click.email.vegas.com
@@ -1356,6 +1357,7 @@ infojreastmembereki.viewdns.net
 int-hm-rec-proj-kx.viamedis.fr
 int.vaicore.xyz
 int.viageo.ch
+inv.vern.cc
 it.pp.vente-unique.ch
 jacobsubin2-gmailcom.vercel.app
 jjstarbreaker-gmailcom.vercel.app
@@ -1477,6 +1479,7 @@ update21.videosintimes.com
 user-research.vismayuki.com
 usfinsci-proxy.vision33cloud.com
 v-suncoast.info
+v-zuma.ru
 v2solutions.com
 v6rxv5coo5.com
 v9betpro.org
@@ -1544,6 +1547,7 @@ vestnikarche.com
 vetdeberg.com
 veteranmobilenotaryservice.com
 vetpost.nz
+vgval2.valgenesis.in
 vianoivernom.com
 viavino.hr
 vickyclayton.com
@@ -1567,6 +1571,7 @@ violetbirthdayservice.hu
 vipbarcelonaescorts.com
 vipheliservices.com
 vipinstalacaodepisos.website
+viptoolses.com
 viralspaceshare.com
 visiblemeasures.com
 vision-service.be
@@ -1640,6 +1645,7 @@ www.user.vitalpips.live
 www.v12voice.com
 www.vacantmastodon.ca
 www.valdostadailytimes.com
+www.valentinpistrui.xyz
 www.valleycentral.com
 www.vasculardiseasemanagement.com
 www.vca-koeln.de
@@ -1662,6 +1668,7 @@ www.vilacriativa.com.br
 www.ville-sens.fr
 www.vinduesps.vinduespudserservice.dk
 www.virtualverse.one
+www.visiblecollege.education
 www.vision-service.be
 www.visitsingapore.com.cn
 www.vitalitywatch.com
