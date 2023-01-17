@@ -611,7 +611,6 @@ uknisumitai.com
 ukpost.life
 ukraineseedrelief.org
 ukrainians.fi
-ukrposhta.ua
 ulisex.com
 ultima-generazione.com
 ultimate-measure.my.id
@@ -885,6 +884,7 @@ dev-solr.unwomen.org
 dev.qa.unum.pl
 discollective.upri.se
 discord.unchained-esports.gg
+discourse.dalembert.upmc.fr
 django-cms-test.uibk.ac.at
 dt.usf.education
 e1e7dd88-1bdd-41cc-b42c-1146677ba529.usrfiles.com
@@ -894,6 +894,7 @@ ecf.mieb.uscourts.gov
 ecommerce.userede.com.br
 ef7ed799-7df5-4ff8-920c-3a70ed657e9c.usrfiles.com
 erms.uplus.co.kr
+evalue.iic.uam.es
 extern.unicat-gmbh.com
 fb4f2124-5ed5-4197-b362-e3e1f8355eb5.usrfiles.com
 fb6603af-2803-4193-8547-4092b8934993.usrfiles.com
@@ -902,10 +903,12 @@ files.upscale.ai
 fm-2023.fm.usermd.net
 forms.ugllimited.com
 fotoshtori.uaprom.net
+fser.ulss4.veneto.it
 gangstas.uber.space
 giftcenter.ubpages.com
 girlinistanbul.ucoz.net
 git.gitlab.gitlab.gitlab.uza4.ru
+git.userlevels.com
 gitlab.gitlab.gitlab.gitlab.gitlab.mail3.upfittrucktrader.com
 gitlab.gitlab.gitlab.gitlab.mail.stage.ucliq.app
 gitlab.kovovyrobasperl.cz.n.uwv.cz
@@ -942,6 +945,7 @@ media.unibet.fr
 mobilecore.api.uatbi.com.br
 money-recognition.apps.uraki.dev
 moskit.uwm.edu.pl
+mpo-slot-login.ufc.com
 my-api.ucom.am
 nasertours.unitrontourism.com
 netflix.unreel.me
@@ -1038,6 +1042,7 @@ uniquevillarentals.com
 unisla.ac.id
 unitedstataspostaservice.us
 unitrontourism.com
+universityofgalway.ie
 universityvacancies.com
 unjointbobbed.com
 unnumelom.com
@@ -1079,6 +1084,7 @@ urquia.org
 uruguayseguro.com
 uruswan.com
 usabestmeds.com
+usabilitygeek.com
 usaps-track.uspsvdvos.top
 usendbrazil.com
 user.fm
@@ -1092,6 +1098,7 @@ uspect.eu
 ussd.org.ua
 ussusd1centralff5.blob.core.usgovcloudapi.net
 usts.fr
+usvideo.se
 utme.uniqlo.com
 utopie-netzwerk.de
 utoumine.net
@@ -1190,6 +1197,7 @@ www.unrelenting.show
 www.unsdsn.org
 www.up6.com.br
 www.update-ship.us
+www.updateautohouston.com
 www.updateit.space
 www.updatenusantara.id
 www.upn.to
