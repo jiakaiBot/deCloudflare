@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-18: [EZE (Buenos Aires) on 2023-01-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/y4lrryx367hn)
 - 2023-01-17: [IAD (Ashburn) on 2023-01-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/rf3dqmy3qqtv)
 - 2023-01-16: [Network Performance Issues in CDG](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/v4f1vwszj65d)
 - 2023-01-17: [NRT (Tokyo) on 2023-01-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2kpgr2n28gcn)
