@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [FIPS: ERROR: java.lang.NoSuchMethodError: 'void org.bouncycastle.asn1.ASN1EncodableVector.<init>(int)'](https://github.com/keycloak/keycloak/issues/16486)
 - [v1.29.3 panic in Docker: "OS can't spawn worker thread: Operation not permitted"](https://github.com/denoland/deno/issues/17444)
 - [Definitive guide to Sourcemaps and more with Sveltekit 🎉](https://github.com/getsentry/sentry/issues/43301)
 - [CloudFlare Issues with Advanced TCP protection API](https://github.com/MatBenfield/news/issues/8070)
