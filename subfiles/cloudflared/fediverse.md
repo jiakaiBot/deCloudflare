@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,358 |
-| social | 3,356 |
-| net | 2,745 |
+| com | 5,360 |
+| social | 3,358 |
+| net | 2,746 |
 | org | 1,969 |
 | de | 1,850 |
 
@@ -2516,6 +2516,7 @@ Here's a list of public Fediverse services.
 | `awaworks.net` | No |
 | `awayfrompeople.com` | No |
 | `awaymessage.club` | No |
+| `awcca.ca` | No |
 | `awes.one` | Yes |
 | `awesome.computer` | No |
 | `awesome.garden` | No |
@@ -4357,6 +4358,7 @@ Here's a list of public Fediverse services.
 | `bunny.cafe` | No |
 | `bunny.cloud` | Yes |
 | `bunny.social` | No |
+| `bunnycloud.ca` | No |
 | `bunnyhut.ch` | No |
 | `bunt.social` | No |
 | `buntadon.jp` | No |
@@ -8413,6 +8415,7 @@ Here's a list of public Fediverse services.
 | `dvsn.io` | Yes |
 | `dvsn.net` | No |
 | `dvstrg.social` | Yes |
+| `dvur.me` | No |
 | `dwar.fi` | No |
 | `dwe.ng` | No |
 | `dwin.link` | No |
@@ -9176,6 +9179,7 @@ Here's a list of public Fediverse services.
 | `ericaftereric.top` | No |
 | `ericalba.com` | Yes |
 | `ericandamanda.net` | No |
+| `ericbardi.com` | No |
 | `ericbeckers.nl` | No |
 | `ericblade.us` | No |
 | `ericcredeur.com` | No |
@@ -14084,6 +14088,7 @@ Here's a list of public Fediverse services.
 | `ill.moe` | No |
 | `illegalpornography.com` | No |
 | `illegitimate.technology` | Yes |
+| `illum.dev` | Yes |
 | `illuminada.io` | No |
 | `illuminati.org` | No |
 | `illusionfxnet.com` | Yes |
@@ -14415,6 +14420,7 @@ Here's a list of public Fediverse services.
 | `intellectuallusts.ovh` | No |
 | `intelme.com` | Yes |
 | `intensifi.es` | No |
+| `intentional.network` | No |
 | `intentropycs.com` | No |
 | `inter-mundos.de` | No |
 | `inter21.net` | No |
@@ -16029,6 +16035,7 @@ Here's a list of public Fediverse services.
 | `ketz.io` | Yes |
 | `keuwel.com` | Yes |
 | `kev.by` | No |
+| `kev.cc` | Yes |
 | `kev.pub` | No |
 | `kev.social` | Yes |
 | `kevbob.com` | Yes |
@@ -20543,6 +20550,7 @@ Here's a list of public Fediverse services.
 | `mobile.co` | Yes |
 | `mobile.st` | No |
 | `mobiledads.live` | No |
+| `mobiledevs.social` | No |
 | `mobilehackerz.jp` | No |
 | `mobileography.info` | No |
 | `mobilisons.ch` | No |
@@ -21464,6 +21472,7 @@ Here's a list of public Fediverse services.
 | `mymastodon.org` | No |
 | `mymastodon.uk` | No |
 | `mymastodon.us` | No |
+| `mymath.rocks` | No |
 | `mymeta.social` | No |
 | `mymicro.blog` | No |
 | `mymouns.net` | No |
@@ -25779,6 +25788,7 @@ Here's a list of public Fediverse services.
 | `pupy.cafe` | No |
 | `pure-isp.eu` | Yes |
 | `purelove.icu` | No |
+| `purengom.kr` | Yes |
 | `purexo.mom` | No |
 | `purgatos.online` | No |
 | `puri.sm` | No |
@@ -26346,6 +26356,7 @@ Here's a list of public Fediverse services.
 | `rapidblock.org` | No |
 | `rapidsloth.xyz` | No |
 | `raplst.town` | No |
+| `rappappa.com` | No |
 | `rapsons.co` | Yes |
 | `raptnrent.me` | No |
 | `raptol.net` | No |
@@ -30248,6 +30259,7 @@ Here's a list of public Fediverse services.
 | `strengeralsstreng.de` | No |
 | `stress404.com` | Yes |
 | `stress404.dev` | Yes |
+| `strigo.social` | No |
 | `striker.host` | No |
 | `striker.net.eu.org` | No |
 | `strindevall.com` | Yes |
@@ -32120,6 +32132,7 @@ Here's a list of public Fediverse services.
 | `tmpa.io` | Yes |
 | `tmpim.com` | Yes |
 | `tmprs.net` | No |
+| `tmspk.net` | Yes |
 | `tnd.lol` | No |
 | `tneal.org` | No |
 | `tnem.dev` | Yes |
@@ -33436,6 +33449,7 @@ Here's a list of public Fediverse services.
 | `unordentlich.space` | Yes |
 | `unperson.us` | No |
 | `unpopular.cloud` | Yes |
+| `unpopular.me` | Yes |
 | `unraidcloud.de` | Yes |
 | `unraids.ml` | No |
 | `unrealasia.net` | Yes |
@@ -36343,8 +36357,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,487 |
-| Normal | 27,813 |
+| Cloudflare | 8,492 |
+| Normal | 27,822 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
