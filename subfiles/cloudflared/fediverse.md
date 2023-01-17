@@ -2525,6 +2525,7 @@ Here's a list of public Fediverse services.
 | `awful.club` | No |
 | `awful.computer` | No |
 | `awful.monster` | No |
+| `awjeez.help` | No |
 | `awk.is` | No |
 | `awkward.company` | No |
 | `awkwardly.social` | No |
@@ -36335,7 +36336,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,484 |
-| Normal | 27,807 |
+| Normal | 27,808 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
