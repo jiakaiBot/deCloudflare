@@ -1730,7 +1730,6 @@ djbc.net
 djdameentertainment.com
 djnl.decisionnowlive.com
 djriko.com
-dkb-aktiv.com
 dkc-alexandrovska.com
 dl.d3v1c3.io
 dl.dropbox.com
@@ -2739,6 +2738,7 @@ cebas-pki.i.daimler.com
 cfg.smt.docomo.ne.jp
 cherepovec.dom-electric.ru
 christian-hecht.dyndns.biz
+christmas.danskebank.com
 cig.dhl.de
 cleanup.dedyn.io
 click.comm.delltechnologies.com
@@ -2828,6 +2828,7 @@ d7ig4ieghb8arika.com
 da-prd-1.goodville.dxc-ins.com
 da.discardedartshop.com
 da1.gov.je
+daftar-bluebet33.asia
 daftar-judi-online-slot.com
 daftargilabet88.asia
 daftporus.website
@@ -2840,12 +2841,14 @@ dailyprogress.com
 dailytaker.com
 dailywold.com
 daincautela.com
+dakotasecurity.org
 daliaomana.com
 damnfoolpress.com
 damro.lk
 danagioia.com
 dangphat.vn
 dansk2talservice.dk
+dantappanmusic.com
 dapp-update.com
 dappwallet-bridge.com
 dardenrestaurants.demdex.net
@@ -2889,6 +2892,7 @@ ddhvacservice.com
 dea.sg
 deadlinkedin.it
 dealer-express.com.ua
+debako.nl
 debtfree.in
 decizia.ro
 decking-services.eu
@@ -2918,6 +2922,7 @@ deliverytrafficnews.com
 delmarviato.com
 delrossiservice.it
 delscleaningservice.ca
+delta2security.co.za
 demae-can.com
 demandgen.io
 demetraplus.com.ua
@@ -2989,12 +2994,14 @@ digital-disco-services.co.uk
 digital-planet.co.uk
 digital-report.ru
 digital.dokterappleid.com
+digitalcoalition.pt
 digitaldiscord.org
 digitalextremadura.com
 digitalfox.fi
 digitalit.jp
 digitalkreativ.sk
 digitalnz.org
+digitalpackage.fun
 digitalretail.daimler.com
 digitalstoresite.com
 digitaltrack.co.za
@@ -3017,6 +3024,7 @@ disco-lespectacle.fr
 disco2disco.co.uk
 discobrass.co.uk
 discodoge.org
+discografias.me
 disconworld.com
 discoovera.com
 discord-backend.domination-gaming.com
@@ -3043,6 +3051,7 @@ disrootaffa.com
 distractionware.com
 district160.com
 dito.com.mx
+divinegracerosaries.com
 dixonsjamaican.com
 djclegal.com
 djelixir.com
@@ -3182,6 +3191,7 @@ etherpad.dnb.de
 eu.dspsuper.com
 eurospec.dynotestedfiles.com
 evenorganizer.desongraha.com
+events.api.auth.connect.drivecloud.site
 events.drupal.org
 express.dispatchhealth.com
 factoryservicemanual.net.daxiis.com
@@ -3213,6 +3223,7 @@ git.git.git.git.gitlab.business.discord-store.ru
 git.git.git.gitlab.business.discord-store.ru
 git.git.git.gitlab.git.business.discord-store.ru
 git.git.git.gitlab.gitlab.secure.discord-acc.ru
+git.git.git.gitlab.sportsmastersuitemaps.discord-accounts.ru
 git.git.git.gitlab.thenagainwww.2019.discord-accounts.ru
 git.git.git.microsoft-iis.del-ko.ru
 git.git.git.winload.winrepl.co.herokuapp.com.dieverdorp.nl
@@ -3272,6 +3283,7 @@ gitlab.discord-store.ru
 gitlab.duckdns.orga.discordstore.ru
 gitlab.exchange.discord-accounts.ru
 gitlab.git.c9s8xocp78blgdq.a.discordstore.ru
+gitlab.git.cart.discord-acc.ru
 gitlab.git.checkout.discord-accounts.ru
 gitlab.git.git.git.gitlab.git.adminportal.discord-acc.ru
 gitlab.git.git.gitlab.dvmge51xmpmuqmu.a.discordstore.ru
@@ -3340,12 +3352,14 @@ kasir.docafe.id
 kbank.desarrollos-iq.com
 kdgraph-api.kdgraph.prod.da-service.io
 kidwatch-dre.things.dbankcloud.cn
+klimtest.dmc-one.com
 kpadk8hzrzsz5zjkyk1gea.on.drv.tw
 kunalbansal-net.dynobit.org
 lady-leaf.demowebsiteclient.com
 lead-intake.qa.dealer.com
 lead-services-ext-qa.dealer.com
 lead-services-ext.dealer.com
+leanmatics.davinci-ic.co.uk
 learn.discord-acc.ru
 les.priol.pagesperso-orangmail.edev.w1.dentistrybliss.com
 localhost.discord-acc.ru
@@ -3353,14 +3367,17 @@ login.damov.eu
 lovealle.demoapp.xyz
 lovingood.demowebsiteclient.com
 m.api.discord-accounts.ru
+maccabi.datosconnectedhealth.com
 madartraven.deviantart.com
 mail.dioscorus.org
 mail.discodazzle.co.za
 mail.dynoenergytrans.com
 mail.dynogy.com
+matchmaster.dagher.io
 mfuat.dcbbank.com
 mi-id.dnlsrv.com
 mi-in.dnlsrv.com
+micc.digsafe.com
 mienbac.dhlpost.com.vn
 miennam.dhlpost.com.vn
 mijninkomen.doesburg.nl
@@ -3372,6 +3389,7 @@ myaccount.dailyscreed.live
 myrewardscoupons.dei.gr
 na4-onlineapp.dnbi.com
 narwal.deliveryblu.com.br
+natoli.deviantart.com
 new.cdn.discord-accounts.ru
 news.backup.discord-accounts.ru
 news.cdn.discord-accounts.ru
@@ -3423,7 +3441,9 @@ sts.daikin.co.jp
 support.darma.ba
 support.dognow.at
 support.dohaoasis.com
+swiss-post.dream.press
 t.dripemail2.com
+tadsccmcmg.dof6.com
 temporary-old.dop-avtoservice.ru
 tesomu.deviantart.com
 test.api.dishcloud.io
@@ -3437,6 +3457,7 @@ tmservice.dev24.co
 tv.discord-acc.ru
 tv.discord-store.ru
 uat001.dgvmoney.in
+uc06a83689aac5b53981fa42df1e.dl.dropboxusercontent.com
 uc66abb2815bc75067758741b381.dl.dropboxusercontent.com
 uem-api.dataport.de
 ulises.ditsibits.ml
@@ -3444,6 +3465,7 @@ unifi.damousys.nl
 updatejenkin.doorloop.info
 updatepayment-coxcommunicationincswe.dynnamn.ru
 value-way-dev-04.dyno.design
+video.disco-designer.com
 vocabulary.degrowth.org
 webdisk.depokupdate.id
 webdisk.dioscorus.org
@@ -3469,8 +3491,10 @@ wiki.sitemap.discord-store.ru
 winwin.demowebsiteclient.com
 wocaonimads-werup.ddnsking.com
 worldshipit.dogeshino.com
+wrappedvi.deviantart.com
 wresleratmoacrk.in.mdemail.discord-accounts.ru
 www.alekomp.dkonto.pl
+www.app.storage.redirect.uri.digitalplatformoauth.com
 www.asuransipru.life.deliverinc.co.id
 www.auth.developer-rkhaidir.my.id
 www.axm.demowebsiteclient.com
@@ -3481,8 +3505,10 @@ www.boosted-marketing.demowebsiteclient.com
 www.btob.services.dailynizam.pk
 www.casa-din-containere.ro.dmt-modular.ro
 www.client.dc-online.co.uk
+www.client.denapk.com
 www.controlworks.cl.digitalinvesting.cl
 www.couchlintmoney.digitalrealmz.com
+www.crediteieftine.domenii-premium.ro
 www.dadfedup.org
 www.daftargilabet88.asia
 www.dailyunion.com
@@ -3494,6 +3520,7 @@ www.dappwalletsrestore.com
 www.dartointernational.com
 www.dashsymons.com
 www.databank.deelkracht.nl
+www.daveswellservice.com
 www.daviddeen.com
 www.daydesconto.com.br
 www.daysafe2u.com
@@ -3516,6 +3543,7 @@ www.developersthrill.org
 www.devis-et-travaux.com
 www.dewereldvolgenssonja.nl
 www.dgavtoservice.dgturbo.com
+www.dgtl-circus.bz.it
 www.dharanihealingarts.com
 www.dhgate.com
 www.dhl-post.com.vn
@@ -3530,11 +3558,14 @@ www.digikey.dk
 www.digikey.jp
 www.digikey.tw
 www.digital-ark.com
+www.digitallydownloaded.net
 www.digitalmex.mx
 www.diplomatie.gouv.fr
 www.directsellgroup.com
 www.disabled-world.com
+www.discoforever.nl
 www.discofrank.com
+www.discografias.me
 www.discom.it
 www.discombobulator.org
 www.disconfres.com
@@ -3632,6 +3663,7 @@ www.test.dansksikkerhedsservice.dk
 www.test055.dkonto.pl
 www.testezero.deliveryy.com.br
 www.toxexpresscourierservice.com.doortodoordeliveryservices.com
+www.tracker.dtcl.co.tz
 www.treeservice.demositelive.com
 www.update.deboldelivery.com
 www.user.dhanvantary.com
