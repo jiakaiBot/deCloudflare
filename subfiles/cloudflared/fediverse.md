@@ -4226,7 +4226,7 @@ Here's a list of public Fediverse services.
 | `broski.me` | Yes |
 | `brot.social` | No |
 | `brotherscommon.place` | No |
-| `broti.tk` | No |
+| `broti.tk` | Yes |
 | `brotka.st` | No |
 | `brown-family.org.uk` | No |
 | `brownfield.dev` | No |
@@ -8164,6 +8164,7 @@ Here's a list of public Fediverse services.
 | `dragontoot.me` | No |
 | `dragoofamily.com` | No |
 | `drahflow.name` | No |
+| `draine.rs` | No |
 | `drak.al` | Yes |
 | `drakakorp.eu` | No |
 | `drake.network` | No |
@@ -36340,7 +36341,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,487 |
+| Cloudflare | 8,488 |
 | Normal | 27,810 |
 
 
