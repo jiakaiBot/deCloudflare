@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,356 |
-| social | 3,351 |
-| net | 2,742 |
+| com | 5,357 |
+| social | 3,352 |
+| net | 2,744 |
 | org | 1,968 |
 | de | 1,850 |
 
@@ -2196,6 +2196,7 @@ Here's a list of public Fediverse services.
 | `ash.bzh` | No |
 | `ashaibani.com` | Yes |
 | `asharpminor.com` | No |
+| `ashdavies.dev` | Yes |
 | `asherif.xyz` | Yes |
 | `ashevillains.org` | Yes |
 | `ashfurrow.com` | No |
@@ -17938,6 +17939,7 @@ Here's a list of public Fediverse services.
 | `loma.ml` | No |
 | `lomara.org` | No |
 | `lomo.live` | No |
+| `lomz.me` | No |
 | `lond.com.br` | Yes |
 | `londonsocial.uk` | No |
 | `lone-starr.net` | No |
@@ -22357,6 +22359,7 @@ Here's a list of public Fediverse services.
 | `nimbus.social` | Yes |
 | `nime.space` | No |
 | `nimmerland.space` | No |
+| `ninabobina.me` | Yes |
 | `ninapaley.com` | No |
 | `nindanaoto.dev` | Yes |
 | `nine-hells.net` | Yes |
@@ -22836,6 +22839,7 @@ Here's a list of public Fediverse services.
 | `nps.exchange` | No |
 | `nrd.li` | Yes |
 | `nrev.org` | No |
+| `nrg2.net` | No |
 | `nrgup.net` | Yes |
 | `nrk.cloud` | No |
 | `nrkn.fr` | No |
@@ -25930,6 +25934,7 @@ Here's a list of public Fediverse services.
 | `qube.ovh` | No |
 | `qubit-social.xyz` | No |
 | `qubyte.codes` | No |
+| `que-sera.io` | No |
 | `quebec.gq` | No |
 | `quecoisas.xyz` | No |
 | `queef.social` | No |
@@ -26242,6 +26247,7 @@ Here's a list of public Fediverse services.
 | `rakyll.org` | No |
 | `ralb.eu` | No |
 | `ralek.art` | Yes |
+| `ralnode.net` | No |
 | `ralphkuehnl.de` | No |
 | `ralsei.moe` | No |
 | `ralsina.me` | Yes |
@@ -32102,6 +32108,7 @@ Here's a list of public Fediverse services.
 | `tmprs.net` | No |
 | `tnd.lol` | No |
 | `tneal.org` | No |
+| `tnem.dev` | Yes |
 | `tnhh.org` | No |
 | `tnku.co` | Yes |
 | `tny.social` | No |
@@ -32275,7 +32282,7 @@ Here's a list of public Fediverse services.
 | `toot.exchange` | No |
 | `toot.futbol` | No |
 | `toot.garden` | Yes |
-| `toot.ge` | No |
+| `toot.ge` | Yes |
 | `toot.gg` | No |
 | `toot.haus` | No |
 | `toot.host` | No |
@@ -34710,6 +34717,7 @@ Here's a list of public Fediverse services.
 | `whovian.social` | Yes |
 | `whydoesntmycode.work` | No |
 | `whymark.net` | Yes |
+| `whymark.social` | Yes |
 | `whytheyfight.com` | Yes |
 | `wi51.cc` | No |
 | `wicce.me` | No |
@@ -35392,6 +35400,7 @@ Here's a list of public Fediverse services.
 | `xn--groovebro-w9a.de` | No |
 | `xn--gu1a.moe` | No |
 | `xn--h1ahnbk7d.xn--p1ai` | No |
+| `xn--h9j8c2bz77yyo5a.com` | No |
 | `xn--hea.nz` | No |
 | `xn--hek.ws` | No |
 | `xn--hex.jp` | Yes |
@@ -36316,8 +36325,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,479 |
-| Normal | 27,794 |
+| Cloudflare | 8,484 |
+| Normal | 27,798 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
