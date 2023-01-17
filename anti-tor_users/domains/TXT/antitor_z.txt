@@ -309,6 +309,7 @@ assessments.zfco.com
 auth.znet.li
 autodiscover.zentuber.com
 betadrive.zoho.eu
+cache4.zapitv.com
 captcha.zerozendesign.com
 click.email.zalando-lounge.com
 client.zorgplatform.online
@@ -335,6 +336,7 @@ mail.zeusassociate.com
 mastodon.zaclys.com
 newstore.ziondelivery.app.br
 opns.zvcloud.de
+ott.zapitv.com
 paketbersihcepat.zonawanita.com
 pay.zivameshapewear.com
 paypal.com.zd-league.com
@@ -368,6 +370,8 @@ www.paketbersihcepat.zonawanita.com
 www.sendmoney.zonketech.org
 www.wmaautoservice.nl.ztr-kanjoautoservice.nl
 www.z-father.co.jp
+www.zachman.com
+www.zamzaminfra.com
 www.zappos.com
 www.zeisloftconstruction.com
 www.zenit.ru
@@ -401,6 +405,7 @@ zaiflyer.com
 zakarashop.com
 zakka-kurawanka.com
 zantimes.com
+zarate-asociados.com
 zbnfhsk.com
 zbusinessonline.co.nz
 zen-escort.com
