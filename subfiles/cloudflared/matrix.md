@@ -82,6 +82,7 @@ Here's a list of public Matrix services.
 | chat.magdeburg.jetzt | No |
 | mailstation.de | No |
 | mandragot.org | No |
+| marmottel.com | No |
 | matrix.im | No |
 | matrix.org | Yes |
 | matrix.monero.social | No |
@@ -128,7 +129,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 16 |
-| Normal | 84 |
+| Normal | 85 |
 
 
-### 16% of public Matrix services are using Cloudflare.
+### 15.8% of public Matrix services are using Cloudflare.
