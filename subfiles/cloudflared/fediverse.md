@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,357 |
 | social | 3,352 |
-| net | 2,744 |
+| net | 2,745 |
 | org | 1,969 |
 | de | 1,850 |
 
@@ -1879,6 +1879,7 @@ Here's a list of public Fediverse services.
 | `apollolemmon.com` | No |
 | `apolut.net` | Yes |
 | `apontaeclica.com` | No |
+| `aposimz.net` | No |
 | `apothecary.social` | No |
 | `apothecaryshed.com` | No |
 | `apotheke.social` | No |
@@ -36334,7 +36335,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,484 |
-| Normal | 27,806 |
+| Normal | 27,807 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
