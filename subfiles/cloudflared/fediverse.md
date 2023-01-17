@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,358 |
-| social | 3,354 |
+| social | 3,355 |
 | net | 2,745 |
 | org | 1,969 |
 | de | 1,850 |
@@ -16327,7 +16327,7 @@ Here's a list of public Fediverse services.
 | `kloen-cafe.de` | No |
 | `kloenk.dev` | No |
 | `kloetensecurity.com` | Yes |
-| `klog.tw` | No |
+| `klog.tw` | Yes |
 | `klosowicz.net` | No |
 | `kloud.social` | Yes |
 | `kloudboy.xyz` | No |
@@ -21003,6 +21003,7 @@ Here's a list of public Fediverse services.
 | `msm.moe` | Yes |
 | `msmprojects.com` | No |
 | `msng.info` | Yes |
+| `msocial.top` | No |
 | `mspa.social` | No |
 | `msps.io` | Yes |
 | `mspsocial.net` | No |
@@ -21447,6 +21448,7 @@ Here's a list of public Fediverse services.
 | `myhre.wtf` | Yes |
 | `myidanonymous.me` | No |
 | `myifn.de` | No |
+| `mykal.social` | Yes |
 | `mylegendary.quest` | Yes |
 | `myles.life` | No |
 | `myles.social` | No |
@@ -22472,7 +22474,7 @@ Here's a list of public Fediverse services.
 | `nmsl.website` | Yes |
 | `nna774.net` | Yes |
 | `nnct-mstdn.site` | No |
-| `nneko.me` | Yes |
+| `nneko.me` | No |
 | `nnia.space` | Yes |
 | `nnnuu.de` | No |
 | `nnrt.site` | No |
@@ -31498,7 +31500,7 @@ Here's a list of public Fediverse services.
 | `thecore.city` | Yes |
 | `thecove.cc` | Yes |
 | `thecovertgeek.xyz` | No |
-| `thecrazyinsanity.ml` | No |
+| `thecrazyinsanity.ml` | Yes |
 | `thecreatives.social` | No |
 | `thecriminaliraq.com` | No |
 | `thecrimsontint.com` | Yes |
@@ -36338,7 +36340,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,485 |
+| Cloudflare | 8,487 |
 | Normal | 27,810 |
 
 
