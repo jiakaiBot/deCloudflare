@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,367 |
 | social | 3,362 |
-| net | 2,748 |
+| net | 2,749 |
 | org | 1,970 |
 | de | 1,852 |
 
@@ -8404,6 +8404,7 @@ Here's a list of public Fediverse services.
 | `duriez.re` | No |
 | `durst.world` | No |
 | `dusepo.co.uk` | No |
+| `dust-net.systems` | Yes |
 | `dustbuster.club` | No |
 | `dustinkirkland.com` | No |
 | `dustinrue.com` | Yes |
@@ -16177,6 +16178,7 @@ Here's a list of public Fediverse services.
 | `kiloduck.com` | Yes |
 | `kimberlyhirsh.com` | No |
 | `kimharding.net` | No |
+| `kimiaki.space` | Yes |
 | `kiminona.co` | No |
 | `kimonosou.tokyo` | No |
 | `kimoty.net` | Yes |
@@ -27702,7 +27704,7 @@ Here's a list of public Fediverse services.
 | `samnoble.org` | No |
 | `samojlenko.com` | No |
 | `samosada.ga` | No |
-| `sample.pw` | No |
+| `sample.pw` | Yes |
 | `samr1.net` | No |
 | `samsai.eu` | No |
 | `samsteiner.net` | No |
@@ -30494,6 +30496,7 @@ Here's a list of public Fediverse services.
 | `sunshinegardens.org` | No |
 | `sunspot.icu` | No |
 | `sunville.org` | No |
+| `suole.me` | No |
 | `suomi-kp-31.xyz` | No |
 | `suomi.social` | No |
 | `suorcd.us` | No |
@@ -30726,6 +30729,7 @@ Here's a list of public Fediverse services.
 | `synthwave.social` | Yes |
 | `syntik.fr` | No |
 | `syo.tokyo` | No |
+| `syobon.net` | Yes |
 | `syok.lol` | Yes |
 | `syoriken.org` | No |
 | `syosetu.social` | No |
@@ -35263,6 +35267,7 @@ Here's a list of public Fediverse services.
 | `wysterialane.net` | Yes |
 | `wysteriary.art` | No |
 | `wytchmourne.com` | No |
+| `wyvern.rip` | No |
 | `wzf.wtf` | No |
 | `wznmickey.com` | Yes |
 | `x-serv.ovh` | No |
@@ -36389,8 +36394,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,506 |
-| Normal | 27,840 |
+| Cloudflare | 8,510 |
+| Normal | 27,841 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
