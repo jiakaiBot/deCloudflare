@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,357 |
-| social | 3,352 |
+| com | 5,358 |
+| social | 3,354 |
 | net | 2,745 |
 | org | 1,969 |
 | de | 1,850 |
@@ -2201,6 +2201,7 @@ Here's a list of public Fediverse services.
 | `asherif.xyz` | Yes |
 | `ashevillains.org` | Yes |
 | `ashfurrow.com` | No |
+| `ashgrove.social` | No |
 | `ashhhleyyy.dev` | Yes |
 | `ashiato45.net` | No |
 | `ashikaga.link` | No |
@@ -3259,6 +3260,7 @@ Here's a list of public Fediverse services.
 | `beyblader.top` | No |
 | `beyermatthias.de` | No |
 | `beyleyisnot.moe` | Yes |
+| `beyond-here.com` | No |
 | `beyond.codes` | No |
 | `beyondgender.social` | No |
 | `beyondhorizons.eu` | No |
@@ -8665,7 +8667,7 @@ Here's a list of public Fediverse services.
 | `eertu.be` | No |
 | `eeruwang.me` | No |
 | `eesti.zone` | No |
-| `eevee.ca` | No |
+| `eevee.ca` | Yes |
 | `ef.gg` | No |
 | `ef67daisuki.club` | No |
 | `ef7.cc` | Yes |
@@ -24089,6 +24091,7 @@ Here's a list of public Fediverse services.
 | `pano.community` | No |
 | `panoply.cx` | No |
 | `panoptic.onl` | Yes |
+| `panopticon.social` | No |
 | `panoptikum.io` | No |
 | `panoptikum.social` | No |
 | `panormus.blog` | No |
@@ -36335,8 +36338,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,484 |
-| Normal | 27,808 |
+| Cloudflare | 8,485 |
+| Normal | 27,810 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
