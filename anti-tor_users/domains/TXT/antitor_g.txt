@@ -2014,6 +2014,7 @@ almondine-hickory-columnist.glitch.me
 aloneuy.github.io
 alpine-glaze-cast.glitch.me
 aluminum-mica-pufferfish.glitch.me
+andersenservice.gimik.dk
 api-soap.sfa.gdocloud.jp
 api.genworth.com.au
 api.germanautolabs.com
@@ -2021,6 +2022,7 @@ api.girogate.de
 api.globalpay-ecommerce.com
 api.gmservices.com.br
 api.google.com
+api.green.ch
 api.staging.gigabank.jp
 api2.gettoby.com
 apidev.goforitapp.com
@@ -2122,6 +2124,7 @@ cpcalendars.generalvertex.com
 cpcalendars.gmais.srv.br
 cpcalendars.gmgeridonusum.com
 cpcalendars.goldworkshop.net
+cpcalendars.grupoconnectmobile.com.br
 cpcalendars.gruposdediscord.com
 cpcalendars.gsbteck.com
 cpcalendars.pmdgarageservices.garageinvoice2.co.uk
@@ -2297,6 +2300,7 @@ gatoartesano.com
 gavetadedinheiro.com.br
 gawsfashion.com
 gcahlla.ga
+gcloud-planilla.com
 gcluster.jp
 gcr.io
 gdcfm.com
@@ -2314,10 +2318,12 @@ gelderblom.net
 geldgolf.nl
 geldhal.nl
 geluidsband.be
+gemaksecurity.co.zw
 gembank.lk
 geminiguitar.com
 gencaslan.com
 generalaviationnews.com
+genericgames.co.nz
 genervest.org
 gensh.in
 gentlemans-desire.com
@@ -2431,6 +2437,7 @@ glovo-delivery.ro
 glxtest.site
 gmrlaw.ca
 gndnews.in
+gnhabitat.org
 gnzsecurity.ae
 go-brum.getcruise.com
 go-container.id
@@ -2484,6 +2491,7 @@ grandtheftnft.com
 grantguidesnow.shop
 grapa.gr
 gravidtrekker.com
+green-services.hr
 greenfo.hu
 greenfuture.pt
 grehtrsan.com
@@ -2500,6 +2508,7 @@ growtika.com
 grserver.gr
 grupomedicheck.com.pe
 gs-ch.com
+gsoftnic.net.gcloud-planilla.com
 gstaad-delivery.ch
 gtbt-services-ae.com
 gtimeonlinebank.com
@@ -2515,9 +2524,11 @@ gwegner.de
 gymsecurity.cl
 hakuhakuwu.github.io
 heady-troubled-river.glitch.me
+hitesh-web2.github.io
 horse-wirehaired-phosphorus.glitch.me
 ifunanyagits.github.io
 ikkitousenbarsu.game-info.wiki
+info.gendai.com.br
 insarmap.gsi.go.jp
 interface.c1.golf-jalan.net
 interface.golf-jalan.net
@@ -2540,6 +2551,7 @@ mahadi61.github.io
 mail.gadluiscordero.gob.ec
 marmikpatel003.github.io
 matheus-almeida78.github.io
+media.go2speed.org
 meghabhatt0529.github.io
 memex-pa.googleapis.com
 metarisk.guycarp.com
@@ -2550,6 +2562,7 @@ newterms3.godaddysites.com
 nianhuoolyjd.guanmeikj.com
 nithinsaichoudary.github.io
 oauth-playground.glitch.me
+obvious-holistic-background.glitch.me
 orders.gazettextra.com
 pay.globallinker.com
 pay.gofnc.com
@@ -2560,6 +2573,7 @@ play.geforcenow.com
 postback.glanceapis.com
 ppd.bealert.gedicom.fr
 prometheus-k8s.grieg.io
+proxybay.github.io
 pt.globeygroup.com
 pubsub.googleapis.com
 putra-xd.github.io
@@ -2602,6 +2616,7 @@ sinkid.glitch.me
 softpos.garantibbva.com.tr
 solidsecurity.globzine.com
 staging.gezinshuis-attention.nl
+sudden-potent-zydeco.glitch.me
 sumitgirwal.github.io
 sunshineshuttleandcarservice.grapevinemarketing.org
 support.getup.my
@@ -2621,6 +2636,7 @@ translate.google.com
 trends.google.com
 tribunatreviso.gelocal.it
 trust-wallet1.guacimo.org
+u4f78.app.goo.gl
 underwaternya.github.io
 updates.grupoitg.com.br
 url1804.getzaymo.com
@@ -2641,12 +2657,14 @@ webmail.ghayandibali.com
 webmail.grasmeremotors.garageinvoice2.co.uk
 wellgatesupport.gmzdev.uk
 wifi.grundon.com
+wobble-clock.glitch.me
 ws3.gi-electric.at
 www.30mints.com.grenstonesecurity.in
 www.account.goparel.host
 www.accounting.gamechangersdigitech.co.za
 www.activate.gardenhubinc.xyz
 www.alertaciudadana.gongalsoft.com
+www.andersenservice.gimik.dk
 www.bankofamerican2023.georgestraitranchsale.com
 www.beautyexpertbyashwani.grenstonesecurity.in
 www.billing.gotmyhost.com
@@ -2675,6 +2693,7 @@ www.gelden-faber.de
 www.geldersmannenensemble.nl
 www.geldgirls.com
 www.geldnerd.nl
+www.gemaksecurity.co.zw
 www.genengnews.com
 www.genesisofhiltonhead.com
 www.geocycle.live
@@ -2701,6 +2720,7 @@ www.gitlab.gitlab.git.gitlab.panel.gates-io-onlinie.com
 www.gitlab.gitlab.gitlab.panel.gates-io-onlinie.com
 www.gitlab.w8nq1twandh0ded.www.user.gorod-sveta-rf.ru
 www.glenaustin.co.za
+www.glitchspaces.org
 www.globalclimatejobs.org
 www.globalcristalservice.it
 www.globalgourmetfoods.com
@@ -2722,6 +2742,7 @@ www.gorjkh.gomel.by
 www.gothamcoyote.org
 www.gotwoway.com
 www.gourmetchef.ca
+www.gouvernement.fr
 www.gov.nu.ca
 www.governo.it
 www.gpsmultitrack.store
@@ -2766,7 +2787,9 @@ www.updater.ggmt2.hu
 www.vclaim2.grhakumalaclinic.com
 www.wellgatesupport.gmzdev.uk
 www.wwwwebservice.globaltek.us
+www.yearmoney.getf41.shop
 www.zafiroapartbuenosaires.com.gof1brasil.com
+yearmoney.getf41.shop
 yhmaler02.godaddysites.com
 ymailuser4.godaddysites.com
 youparth18.github.io
