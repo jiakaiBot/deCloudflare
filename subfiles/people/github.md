@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Bad peer gets added to config by networking-service - causes yggdrasil service to segfault](https://github.com/samizdapp/herakles/issues/157)
 - [Danbooru API implementation is not working](https://github.com/ajiiisai/booru-rs/issues/2)
 - [Authelia auto-start on UnRAID server fails every time](https://github.com/authelia/authelia/issues/4790)
 - [Invalid memory access when parsing message](https://github.com/jorgen/json_struct/issues/44)
