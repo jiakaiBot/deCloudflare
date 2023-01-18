@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Danbooru API implementation is not working](https://github.com/ajiiisai/booru-rs/issues/2)
 - [Authelia auto-start on UnRAID server fails every time](https://github.com/authelia/authelia/issues/4790)
 - [Invalid memory access when parsing message](https://github.com/jorgen/json_struct/issues/44)
 - [Security Issue with Passwords](https://github.com/SycamoreEducation/SycamoreSchoolAPI/issues/5)
