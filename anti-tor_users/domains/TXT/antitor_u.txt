@@ -836,6 +836,7 @@ a01.ugwdevice.net
 a978bc47-2e90-454c-8e51-b9931c679832.usrfiles.com
 academy.uber.space
 achtest.uicpayment.com.tw
+adfs.ukc-mb.si
 adfs.unitedlearning.org.uk
 adfs.uplet.cloud
 admin.s3.unige.ch
@@ -873,6 +874,7 @@ click.benefits.unitedhealthcare.com
 click.e.unrefugees.org
 click.endurance.usatventures.com
 click.ubsarena-email.com
+click.udr-email.com
 click.uswsalvationarmy.org
 cloud.endurance.usatventures.com
 cloud2.ubona.com
@@ -884,6 +886,8 @@ dev-solr.unwomen.org
 dev.qa.unum.pl
 discollective.upri.se
 discord.unchained-esports.gg
+discord.urtservercreator.com
+discordapi.urtservercreator.com
 discourse.dalembert.upmc.fr
 django-cms-test.uibk.ac.at
 dt.usf.education
@@ -971,8 +975,10 @@ realizesolucoesfinanceiraas.ubpages.com
 registration-registration-service.mk.dev.underwriteme.co.uk
 ribut2-wixsite-com.usrfiles.com
 ruaetal.uynnjyw.cn
+s2.udshkcloud.com
 sandbox-autoid.ubiid.ch
 secure.app.umea.se
+sensetest.usalearning.net
 slack.apps.uatbi.com.br
 ssp.usps.gov
 staging-oembed.uef.fi
@@ -1018,6 +1024,7 @@ ukids.uplus.co.kr
 ukrainianservice.com
 ukreximbank.net
 ukrnet.co.uk
+uktaxpolicymap.com
 uloc.dev
 ulsthai.com
 ultradefinitionbrows.com
@@ -1032,6 +1039,7 @@ uncnso.red
 undailysnout.com
 undeenardoo.com
 underconsoletation.com
+unearthed.com
 unfurlcuisine.com
 uni-col.gov.sd
 unicom24.ru
@@ -1052,6 +1060,7 @@ up-app.unpluggedsystems.app
 upb.ac.id
 update-amazon.net
 update.md
+updatedeliverycanadapost-en.ca
 updategametoday.com
 updateint.com
 updateit.space
@@ -1156,6 +1165,7 @@ www.mo.ascdp.updatemy.website
 www.newflix.updatedvpn.xyz
 www.nrcs.usda.gov
 www.nrs.fs.usda.gov
+www.onlinefood.updatedvpn.xyz
 www.orders.zubek.usermd.net
 www.osticket.razziel2.usermd.net
 www.secmail.uhb.nhs.uk
@@ -1191,8 +1201,10 @@ www.unionpapelera.ml
 www.unionpublishing.org
 www.unitedstataspostaservice.us
 www.unitedstatespostaservice.us
+www.unitysecurity02.com
 www.universalcontrol.co.zw
 www.universallogservices.com
+www.unlimitedinkclient.com
 www.unrelenting.show
 www.unsdsn.org
 www.up6.com.br
@@ -1207,6 +1219,7 @@ www.uralchem.com
 www.uralweb.ru
 www.urbanbaby.xyz
 www.urbandesignmentalhealth.com
+www.urbanmice.co.uk
 www.urbanoutfitters.com
 www.urmoney.info
 www.us-revivedaily.us
