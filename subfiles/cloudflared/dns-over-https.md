@@ -225,6 +225,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | shuting.idv.tw | Yes |
 | silen.org | Yes |
 | slinkyman.net | Yes |
+| sly.io | Yes |
 | softcom.net | No |
 | southam.family | No |
 | spacedns.org | No |
@@ -249,7 +250,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tls-data.de | No |
 | torgues.net | No |
 | totoro.pub | Yes |
-| tru.io | Yes |
 | truong.fi | Yes |
 | tu-bs.de | No |
 | turker.info | No |
