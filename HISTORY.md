@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-19: [MAD (Madrid) on 2023-01-19](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0v0p6pf6m9s5)
 - 2023-01-18: [JAX (Jacksonville) on 2023-01-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/49qsxc9yyx37)
 - 2023-01-20: [WAW (Warsaw) on 2023-01-20](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/w99x5f5zny9v)
 - 2023-01-18: [MAD (Madrid) on 2023-01-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/n289tvqzn6j7)
