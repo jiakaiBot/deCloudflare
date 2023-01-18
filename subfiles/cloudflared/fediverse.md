@@ -2218,6 +2218,7 @@ Here's a list of public Fediverse services.
 | `ashwin.run` | No |
 | `asie.pl` | No |
 | `asimon.org` | No |
+| `asiriyuq.xyz` | No |
 | `asjk.xyz` | Yes |
 | `askan.info` | No |
 | `askapunk.net` | No |
@@ -7262,6 +7263,7 @@ Here's a list of public Fediverse services.
 | `defelo.de` | Yes |
 | `defenders.town` | Yes |
 | `defenestrate.it` | Yes |
+| `deferpanic.dev` | No |
 | `deff.no` | Yes |
 | `deffo.com.au` | Yes |
 | `defiant-tomato.social` | No |
@@ -27251,6 +27253,7 @@ Here's a list of public Fediverse services.
 | `root4friends.net` | Yes |
 | `rootaccess.org` | No |
 | `rootdc.xyz` | No |
+| `rooted.host` | No |
 | `rootfs.eu` | No |
 | `roothell.org` | Yes |
 | `rooting.garden` | No |
@@ -30409,6 +30412,7 @@ Here's a list of public Fediverse services.
 | `subtleaf.social` | Yes |
 | `subtoot.com` | No |
 | `subtype.space` | No |
+| `subtype.uk` | No |
 | `suburbia.au` | No |
 | `subut.ai` | No |
 | `subversida.de` | No |
@@ -34351,6 +34355,7 @@ Here's a list of public Fediverse services.
 | `wagner.pp.ru` | No |
 | `wagnersnetz.de` | No |
 | `wah.gg` | No |
+| `wah.lgbt` | Yes |
 | `waha.work` | No |
 | `wahni.at` | No |
 | `wahni.se` | No |
@@ -35933,6 +35938,7 @@ Here's a list of public Fediverse services.
 | `ytringsrett.net` | No |
 | `yttrx.com` | Yes |
 | `yu10g.com` | No |
+| `yuangezhizao.cn` | Yes |
 | `yubal.blog` | No |
 | `yude.jp` | Yes |
 | `yude.moe` | Yes |
@@ -36406,8 +36412,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,515 |
-| Normal | 27,848 |
+| Cloudflare | 8,517 |
+| Normal | 27,852 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
