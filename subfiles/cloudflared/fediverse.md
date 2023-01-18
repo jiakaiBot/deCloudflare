@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,367 |
-| social | 3,362 |
-| net | 2,749 |
+| com | 5,369 |
+| social | 3,363 |
+| net | 2,750 |
 | org | 1,970 |
 | de | 1,852 |
 
@@ -3878,6 +3878,7 @@ Here's a list of public Fediverse services.
 | `bol.social` | No |
 | `bolddaemon.com` | Yes |
 | `bolebook.com` | No |
+| `boles.co` | No |
 | `boles.social` | Yes |
 | `boles.xyz` | No |
 | `bolha.one` | Yes |
@@ -6304,6 +6305,7 @@ Here's a list of public Fediverse services.
 | `crq.systems` | No |
 | `crqra.com` | Yes |
 | `crschmidt.net` | No |
+| `crtaxon.info` | No |
 | `crtcollective.com` | No |
 | `crucible.world` | No |
 | `cruiserhome.org` | No |
@@ -10651,7 +10653,7 @@ Here's a list of public Fediverse services.
 | `fpv.social` | No |
 | `fpvogel.com` | Yes |
 | `fqserv.eu` | No |
-| `fr.cr` | Yes |
+| `fr.cr` | No |
 | `fr.nf` | Yes |
 | `fr.to` | Yes |
 | `fr13nd5.com` | No |
@@ -13920,7 +13922,7 @@ Here's a list of public Fediverse services.
 | `ianbgibson.com` | No |
 | `ianbrown.tech` | No |
 | `iandavies.org` | No |
-| `ianhopkinson.org.uk` | No |
+| `ianhopkinson.org.uk` | Yes |
 | `iankelling.org` | No |
 | `ianmjones.com` | No |
 | `ianneubert.com` | No |
@@ -21658,6 +21660,7 @@ Here's a list of public Fediverse services.
 | `naia.gay` | Yes |
 | `naiad.io` | Yes |
 | `naii.io` | No |
+| `naiveapps.com` | Yes |
 | `naiw.jp` | No |
 | `nakadashi.life` | No |
 | `nakadashi.rocks` | Yes |
@@ -23035,6 +23038,7 @@ Here's a list of public Fediverse services.
 | `nxs3.com` | No |
 | `nxt.social` | No |
 | `nxte.org` | No |
+| `nxtgen.social` | Yes |
 | `nya.coffee` | Yes |
 | `nya.house` | No |
 | `nya.one` | Yes |
@@ -26944,6 +26948,7 @@ Here's a list of public Fediverse services.
 | `ricearoni.org` | No |
 | `ricebook.org` | No |
 | `ricejuice.xyz` | No |
+| `ricekot.com` | Yes |
 | `rich.gop` | Yes |
 | `richard-dern.fr` | No |
 | `richardandbethany.xyz` | No |
@@ -28276,6 +28281,7 @@ Here's a list of public Fediverse services.
 | `securitymastod.one` | Yes |
 | `securitypuppy.com` | Yes |
 | `securitysnakeoil.org` | No |
+| `securitytheater.net` | No |
 | `securitywolfy.ninja` | No |
 | `secuwing.social` | No |
 | `secvoip.com` | Yes |
@@ -29999,6 +30005,7 @@ Here's a list of public Fediverse services.
 | `starfyre.de` | No |
 | `stargaze.cafe` | No |
 | `stargazer.at` | No |
+| `starholder.us` | No |
 | `staria.club` | No |
 | `starkey.family` | No |
 | `starkov.site` | No |
@@ -34628,6 +34635,7 @@ Here's a list of public Fediverse services.
 | `welford.social` | Yes |
 | `welivesecurity.com` | No |
 | `well-known.social` | No |
+| `wellcr.app` | No |
 | `welldn.net` | No |
 | `wellduck.me` | No |
 | `wellenform.net` | No |
@@ -36394,8 +36402,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,510 |
-| Normal | 27,841 |
+| Cloudflare | 8,513 |
+| Normal | 27,846 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
