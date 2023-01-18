@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Invalid memory access when parsing message](https://github.com/jorgen/json_struct/issues/44)
 - [Security Issue with Passwords](https://github.com/SycamoreEducation/SycamoreSchoolAPI/issues/5)
 - [Cloudflare Workers: The initWasm() function can be used only once.](https://github.com/kosei28/ezog/issues/1)
 - [QUESTION trojan-go + nginx + sni转发 + cloudflare非完全CDN代理](https://github.com/p4gefau1t/trojan-go/issues/484)
