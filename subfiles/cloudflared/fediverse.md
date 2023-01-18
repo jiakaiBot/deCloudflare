@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,372 |
-| social | 3,363 |
+| com | 5,374 |
+| social | 3,364 |
 | net | 2,755 |
-| org | 1,971 |
-| de | 1,853 |
+| org | 1,972 |
+| de | 1,854 |
 
 
 - Mastodon, Pleroma, etc
@@ -2841,6 +2841,7 @@ Here's a list of public Fediverse services.
 | `bapp.me` | No |
 | `baptisttaliban.com` | No |
 | `bar.fo` | No |
+| `bara.monster` | No |
 | `baraaabbas.com` | Yes |
 | `baraag.net` | Yes |
 | `barach.at` | No |
@@ -7333,6 +7334,7 @@ Here's a list of public Fediverse services.
 | `delurk.com` | No |
 | `demanderjustice.social` | No |
 | `dembowski.social` | No |
+| `demedes.social` | No |
 | `demelo.fr` | No |
 | `demelt.net` | No |
 | `dementedandsadbut.social` | No |
@@ -7346,6 +7348,7 @@ Here's a list of public Fediverse services.
 | `democracy.town` | No |
 | `democracybrief.com` | Yes |
 | `democracymas.to` | No |
+| `democraticnet.de` | No |
 | `demokratischer-sommer.de` | No |
 | `demon.army` | No |
 | `demon.care` | No |
@@ -9425,6 +9428,7 @@ Here's a list of public Fediverse services.
 | `evilfactorylabs.social` | No |
 | `evilgeniuschronicles.org` | No |
 | `evilma.id` | No |
+| `evilmeow.com` | Yes |
 | `evilolive.dev` | Yes |
 | `evilscientress.de` | No |
 | `evl.im` | No |
@@ -14788,6 +14792,7 @@ Here's a list of public Fediverse services.
 | `ivn.cx` | Yes |
 | `ivor.org` | No |
 | `ivrianochi.com` | No |
+| `ivsu.es` | No |
 | `ivy.io` | No |
 | `ivy.moe` | No |
 | `ivystech.com` | No |
@@ -17093,6 +17098,7 @@ Here's a list of public Fediverse services.
 | `lausitz.social` | No |
 | `lavadero.dev` | No |
 | `lavafeld.org` | No |
+| `lavaforge.org` | No |
 | `lavalite.de` | No |
 | `lavallee.tech` | No |
 | `lavanderblue.art` | Yes |
@@ -23804,6 +23810,7 @@ Here's a list of public Fediverse services.
 | `ostfrie.se` | No |
 | `osto.us` | No |
 | `ostolc.org` | No |
+| `osu.io` | Yes |
 | `osureplayviewer.xyz` | No |
 | `osvoj.ru` | No |
 | `oswalt.dev` | Yes |
@@ -29676,6 +29683,7 @@ Here's a list of public Fediverse services.
 | `spacenoid.social` | No |
 | `spacepatrol.org` | No |
 | `spacepub.space` | No |
+| `spaceraser.dev` | No |
 | `spacerock.jp` | No |
 | `spacerslike.us` | No |
 | `spaceshipsin.space` | No |
@@ -31914,6 +31922,7 @@ Here's a list of public Fediverse services.
 | `thinkerview.com` | Yes |
 | `thinkerview.video` | No |
 | `thinkgeek.com` | No |
+| `thinkingguy.com` | No |
 | `thinkinginsystems.online` | No |
 | `thinkof.name` | Yes |
 | `thinktanki.social` | No |
@@ -36418,8 +36427,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,520 |
-| Normal | 27,855 |
+| Cloudflare | 8,522 |
+| Normal | 27,862 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
