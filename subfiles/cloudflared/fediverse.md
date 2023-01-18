@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,371 |
 | social | 3,363 |
-| net | 2,754 |
+| net | 2,751 |
 | org | 1,970 |
 | de | 1,852 |
 
@@ -5305,7 +5305,6 @@ Here's a list of public Fediverse services.
 | `chriswilson.blog` | No |
 | `chrom.ee` | Yes |
 | `chromabits.com` | No |
-| `chromachan.net` | No |
 | `chromatica.gay` | No |
 | `chromatique.xyz` | No |
 | `chromebook.space` | No |
@@ -16743,7 +16742,6 @@ Here's a list of public Fediverse services.
 | `kumi.tube` | No |
 | `kumi.zone` | No |
 | `kumolabo.com` | No |
-| `kunagisa.moe` | Yes |
 | `kunkel24.de` | No |
 | `kunkunzzz.xyz` | Yes |
 | `kunstkultundkaffee.de` | No |
@@ -19684,7 +19682,6 @@ Here's a list of public Fediverse services.
 | `mdhughes.tech` | No |
 | `mdmck10.xyz` | Yes |
 | `mdon.ee` | No |
-| `mdr-m.net` | No |
 | `mdr-services.com` | No |
 | `mdrockwell.net` | No |
 | `mdrqnxtagon.pw` | No |
@@ -31301,7 +31298,6 @@ Here's a list of public Fediverse services.
 | `tenforward.social` | No |
 | `tengu.ch` | No |
 | `tenjin.ch` | No |
-| `tenjuu.net` | No |
 | `tenka.love` | No |
 | `tenko.ai` | No |
 | `tenna.site` | No |
@@ -36415,8 +36411,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,519 |
-| Normal | 27,853 |
+| Cloudflare | 8,518 |
+| Normal | 27,850 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
