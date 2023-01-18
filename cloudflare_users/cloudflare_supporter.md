@@ -7767,6 +7767,7 @@ Do not create new issue or we will close it as duplicate.
 | [NyiUaung@twitter](https://twitter.com/NyiUaung/status/1405482070843936770) | advertise |
 | [NyiYeZaw4@twitter](https://twitter.com/NyiYeZaw4/status/1402451114558033926) | advertise |
 | [Nyizin19@twitter](https://twitter.com/Nyizin19/status/1390308657204629507) | advertise |
+| [nym91602941@twitter](https://twitter.com/nym91602941/status/1615610676285968385) | advertise |
 | [Nyo33346283@twitter](https://twitter.com/Nyo33346283/status/1376720739886276608) | advertise |
 | [NyoMinHset@twitter](https://twitter.com/NyoMinHset/status/1396414491575922692) | advertise |
 | [NyoNaingaung@twitter](https://twitter.com/NyoNaingaung/status/1395362108888567808) | advertise |
@@ -9356,6 +9357,7 @@ Do not create new issue or we will close it as duplicate.
 | [shinehtet207512@twitter](https://twitter.com/shinehtet207512/status/1389975545044094978) | advertise |
 | [Shinekoko1997@twitter](https://twitter.com/Shinekoko1997/status/1581662665398968320) | advertise |
 | [shineli93964917@twitter](https://twitter.com/shineli93964917/status/1390220514199707648) | advertise |
+| [shinene2322@twitter](https://twitter.com/shinene2322/status/1615598190392377345) | advertise |
 | [ShineWinHtet2@twitter](https://twitter.com/ShineWinHtet2/status/1392305680896249864) | advertise |
 | [shinezzzzzzzz@twitter](https://twitter.com/shinezzzzzzzz/status/1387051830325125131) | advertise |
 | [SHINKAIKU107757@twitter](https://twitter.com/SHINKAIKU107757/status/1600801195194716166) | advertise |
@@ -9855,6 +9857,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sylla19072446@twitter](https://twitter.com/Sylla19072446/status/1392059309698265088) | advertise |
 | [Sylvhem@eldritch.cafe](https://eldritch.cafe/@Sylvhem) | attacked activist; see quote |
 | [synacksec@twitter](https://twitter.com/synacksec/status/1497422146007674883) | advertise |
+| [sync2031@twitter](https://twitter.com/sync2031/status/1615569895328186368) | advertise |
 | [Sync_Pundit@twitter](https://twitter.com/Sync_Pundit/status/1515749859776675842) | advertise |
 | [SyndicatedLife@twitter](https://twitter.com/SyndicatedLife/status/1481295106892189696) | advertise |
 | [synmediaclub@twitter](https://twitter.com/synmediaclub/status/1520375055951462401) | advertise |
