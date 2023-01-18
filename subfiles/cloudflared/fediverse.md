@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,371 |
+| com | 5,372 |
 | social | 3,363 |
-| net | 2,754 |
+| net | 2,755 |
 | org | 1,971 |
 | de | 1,853 |
 
@@ -5016,7 +5016,6 @@ Here's a list of public Fediverse services.
 | `chaos.koeln` | Yes |
 | `chaos.nrw` | No |
 | `chaos.social` | No |
-| `chaos.solar` | No |
 | `chaosandorder.net` | No |
 | `chaoscult.org` | Yes |
 | `chaosfem.tw` | No |
@@ -23634,6 +23633,7 @@ Here's a list of public Fediverse services.
 | `opgezwolle.nl` | No |
 | `opiat.es` | Yes |
 | `opinion8.social` | No |
+| `opinuendo.com` | No |
 | `oplibris.com` | No |
 | `opliko.dev` | Yes |
 | `opossum.rocks` | No |
@@ -31274,6 +31274,7 @@ Here's a list of public Fediverse services.
 | `tela.moe` | Yes |
 | `teldarpaper.com` | No |
 | `teleassist.fr` | No |
+| `telefant.net` | No |
 | `telefreizeit.de` | No |
 | `telekomunikace.cz` | No |
 | `telemetrydeck.com` | No |
@@ -36418,7 +36419,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,520 |
-| Normal | 27,854 |
+| Normal | 27,855 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
