@@ -329,6 +329,7 @@ git.gitlab.git.gitlab.git.accounting.zenicolor.com
 gitlab.git.blog.demo.staging.zurvitavirtual.com
 idp.saas.zeb-it.de
 img01.ztat.net
+live-streaming.zegna.cn
 login.zeeshankalwar.info
 login.ziraatbankanturkey.com
 mail.zasgroup.com
@@ -367,12 +368,14 @@ www.lnwuser.com.z198658-1x1mk.s01.zwphosting.com
 www.login.zeeshankalwar.info
 www.moneychannel.zeba.ro
 www.paketbersihcepat.zonawanita.com
+www.rahasia.zems.us
 www.sendmoney.zonketech.org
 www.wmaautoservice.nl.ztr-kanjoautoservice.nl
 www.z-father.co.jp
 www.zachman.com
 www.zamzaminfra.com
 www.zappos.com
+www.zealouscreative.com
 www.zeisloftconstruction.com
 www.zenit.ru
 www.zennioptical.com
