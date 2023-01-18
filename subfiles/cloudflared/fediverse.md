@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,374 |
 | social | 3,364 |
-| net | 2,755 |
-| org | 1,972 |
+| net | 2,756 |
+| org | 1,973 |
 | de | 1,854 |
 
 
@@ -15175,6 +15175,7 @@ Here's a list of public Fediverse services.
 | `jewink.it` | No |
 | `jews.international` | No |
 | `jews.run` | No |
+| `jeykey.org` | No |
 | `jezdez.social` | No |
 | `jezner.com` | No |
 | `jezra.net` | No |
@@ -20964,6 +20965,7 @@ Here's a list of public Fediverse services.
 | `moxxis.space` | No |
 | `moytura.org` | No |
 | `moyu.foundation` | Yes |
+| `moyu.la` | No |
 | `moyu.social` | Yes |
 | `mozc-plasma.tech` | Yes |
 | `mozcmozc.club` | No |
@@ -21947,6 +21949,7 @@ Here's a list of public Fediverse services.
 | `nekomimi.jp` | No |
 | `nekomimi.yokohama` | Yes |
 | `nekomin.jp` | No |
+| `nekomiya.net` | Yes |
 | `nekonekoserver.net` | Yes |
 | `nekonet.cyou` | Yes |
 | `nekonote.cc` | No |
@@ -23751,6 +23754,7 @@ Here's a list of public Fediverse services.
 | `orties.net` | No |
 | `ortion.xyz` | No |
 | `orwell.fun` | No |
+| `orx.me` | Yes |
 | `orz.hm` | No |
 | `orz.uno` | Yes |
 | `orzech.me` | Yes |
@@ -36427,8 +36431,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,522 |
-| Normal | 27,862 |
+| Cloudflare | 8,524 |
+| Normal | 27,864 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
