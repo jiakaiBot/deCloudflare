@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,369 |
+| com | 5,371 |
 | social | 3,363 |
-| net | 2,753 |
+| net | 2,754 |
 | org | 1,970 |
 | de | 1,852 |
 
@@ -9696,6 +9696,7 @@ Here's a list of public Fediverse services.
 | `fanglitch.space` | No |
 | `fangluo.top` | Yes |
 | `fanlan.art` | No |
+| `fanlan.net` | Yes |
 | `fanscrowd.com` | No |
 | `fansdao.club` | No |
 | `fantail.dev` | Yes |
@@ -14466,6 +14467,7 @@ Here's a list of public Fediverse services.
 | `internaut.club` | No |
 | `internaut.me` | No |
 | `internet-czas-dzialac.pl` | No |
+| `internetdemon.com` | No |
 | `internetofshit.net` | Yes |
 | `internetofthings.social` | No |
 | `internetplumbing.net` | No |
@@ -21359,6 +21361,7 @@ Here's a list of public Fediverse services.
 | `musicspots.de` | No |
 | `musicstudio.pro` | No |
 | `musictech.space` | No |
+| `musicto.com` | Yes |
 | `musicverse.social` | No |
 | `musicworld.social` | No |
 | `musikkapellebuxheim.de` | No |
@@ -36412,8 +36415,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,517 |
-| Normal | 27,852 |
+| Cloudflare | 8,519 |
+| Normal | 27,853 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
