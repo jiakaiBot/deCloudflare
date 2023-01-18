@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Authelia auto-start on UnRAID server fails every time](https://github.com/authelia/authelia/issues/4790)
 - [Invalid memory access when parsing message](https://github.com/jorgen/json_struct/issues/44)
 - [Security Issue with Passwords](https://github.com/SycamoreEducation/SycamoreSchoolAPI/issues/5)
 - [Cloudflare Workers: The initWasm() function can be used only once.](https://github.com/kosei28/ezog/issues/1)
