@@ -181,6 +181,7 @@ alianzas.qapaq.pe
 api.qlinkportal.com
 auth.feature-1.review.qpard.dev
 auth.quanthome.ch
+authentification.quebec.ca
 autodiscover.olga.q-alia.com
 aws.qureme.co.in
 bancogradualws.qcertifica.com.br
@@ -212,6 +213,7 @@ itg1a.us1.qeadaptiveauthbo.com
 links.quickhelp.com
 loja.qtaldelivery.com.br
 lp.quizz2win.com
+mail.quantum-gruppe.de
 myprofile.qasgx.com
 ncpfinance.qfund.net
 portal-development.qteach.nl
