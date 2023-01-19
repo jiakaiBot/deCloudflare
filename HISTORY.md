@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-25: [QRO (Queretaro) on 2023-01-25](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5ycfn44t0v5t)
 - 2023-01-19: [MIA (Miami) on 2023-01-19](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/t1x28b0pktck)
 - 2023-01-24: [SEA (Seattle) on 2023-01-24](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hzgqmsp169jl)
 - 2023-01-18: [MAA (Chennai) on 2023-01-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ytksg5grkz3f)
