@@ -4424,6 +4424,7 @@ Here's a list of public Fediverse services.
 | `busybit.at` | No |
 | `buta.moe` | Yes |
 | `butash.net` | No |
+| `butnot.today` | Yes |
 | `butt.dev` | Yes |
 | `butt.fan` | Yes |
 | `butt.team` | No |
@@ -14148,7 +14149,7 @@ Here's a list of public Fediverse services.
 | `ilyakelner.com` | No |
 | `ilyamikcoder.com` | No |
 | `ilyli.ly` | No |
-| `ilys.fm` | No |
+| `ilys.fm` | Yes |
 | `im-in.space` | No |
 | `im-neko.net` | Yes |
 | `im-paranoid.tk` | No |
@@ -36481,8 +36482,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,536 |
-| Normal | 27,902 |
+| Cloudflare | 8,538 |
+| Normal | 27,901 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
