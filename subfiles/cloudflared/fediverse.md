@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,383 |
-| social | 3,373 |
-| net | 2,759 |
-| org | 1,975 |
+| com | 5,384 |
+| social | 3,374 |
+| net | 2,760 |
+| org | 1,976 |
 | de | 1,856 |
 
 
@@ -3700,6 +3700,7 @@ Here's a list of public Fediverse services.
 | `blockbastler.de` | No |
 | `blockedur.mom` | No |
 | `blockernet.com` | No |
+| `blockfowl.com` | No |
 | `blockriot.com` | No |
 | `blockvideo.live` | No |
 | `bloerp.org` | No |
@@ -7107,6 +7108,7 @@ Here's a list of public Fediverse services.
 | `dazult.com` | No |
 | `dbatley.com` | No |
 | `dbcohen.com` | No |
+| `dbcohen.rocks` | No |
 | `dbfmradio.org` | No |
 | `dbg.social` | Yes |
 | `dbhq.social` | No |
@@ -15066,6 +15068,7 @@ Here's a list of public Fediverse services.
 | `jaysanalysis.com` | No |
 | `jayshome.online` | No |
 | `jaystevens.me` | Yes |
+| `jayus.net` | No |
 | `jayvii.de` | No |
 | `jazz.af` | No |
 | `jazzbutcher.com` | No |
@@ -17547,6 +17550,7 @@ Here's a list of public Fediverse services.
 | `libr.events` | No |
 | `libranet.de` | No |
 | `librarianofalexandria.com` | No |
+| `library.love` | No |
 | `libraryland.social` | Yes |
 | `libratoi.org` | No |
 | `libre-association.party` | Yes |
@@ -18395,6 +18399,7 @@ Here's a list of public Fediverse services.
 | `lyros.net` | No |
 | `lys.systems` | No |
 | `lyte.dev` | No |
+| `lyven.live` | No |
 | `m-ast.de` | No |
 | `m-i.im` | Yes |
 | `m-n.live` | No |
@@ -25818,6 +25823,7 @@ Here's a list of public Fediverse services.
 | `publicspaces.net` | No |
 | `publicsquare.global` | Yes |
 | `publicvm.com` | Yes |
+| `publishing.social` | No |
 | `pubnex.us` | No |
 | `puck.moe` | No |
 | `puckett.contact` | Yes |
@@ -25966,6 +25972,7 @@ Here's a list of public Fediverse services.
 | `qag.me` | No |
 | `qahel.io` | No |
 | `qapp.cloud` | No |
+| `qaq.gay` | Yes |
 | `qaq.jp` | Yes |
 | `qaq.wiki` | Yes |
 | `qatuno.de` | No |
@@ -27653,7 +27660,7 @@ Here's a list of public Fediverse services.
 | `sadlads.com` | Yes |
 | `sadlerjw.com` | No |
 | `sadmansk.com` | No |
-| `sadmin.io` | No |
+| `sadmin.io` | Yes |
 | `sadoway.com` | Yes |
 | `sadposting.space` | No |
 | `sadrarin.com` | No |
@@ -29130,6 +29137,7 @@ Here's a list of public Fediverse services.
 | `skylarkservers.net` | Yes |
 | `skyline.monster` | Yes |
 | `skyliu.me` | Yes |
+| `skylord.org` | No |
 | `skymethod.com` | Yes |
 | `skymocha.net` | Yes |
 | `skyn3t.in` | No |
@@ -32878,6 +32886,7 @@ Here's a list of public Fediverse services.
 | `tropical-is.land` | No |
 | `tropicalbeachclub.com` | No |
 | `troplo.com` | Yes |
+| `trotlot.online` | No |
 | `trougnouf.com` | No |
 | `trouth.eu` | No |
 | `troxelhome.page` | No |
@@ -36492,8 +36501,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,539 |
-| Normal | 27,910 |
+| Cloudflare | 8,541 |
+| Normal | 27,917 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
