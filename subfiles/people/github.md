@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [example not working, error required output is empty list of dynamic](https://github.com/terraform-aws-modules/terraform-aws-acm/issues/129)
+- [dkim_verify fails to find DKIM record, thinks it's just a TXT record.](https://github.com/haraka/Haraka/issues/3148)
 - [Cloudflare Integration, could not connect.](https://github.com/home-assistant/core/issues/86203)
 - [Bad peer gets added to config by networking-service - causes yggdrasil service to segfault](https://github.com/samizdapp/herakles/issues/157)
 - [Danbooru API implementation is not working](https://github.com/ajiiisai/booru-rs/issues/2)
