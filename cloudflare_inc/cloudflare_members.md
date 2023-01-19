@@ -1394,6 +1394,7 @@ Or is this merely a case of simple modesty?
 | Piers Cornwell | Employee |  |
 | Piotr Lipski | Web Engineer |  |
 | Piotr Sikora | Systems Engineer |  |
+| Piper McCorkle | Employee | |
 | Pop Chunhapanya | Employee |  |
 | Popie Bastaki | People Team (EMEA) |  |
 | Pradeep BalleChandrasekharan | Newtork SRE |  |
@@ -1580,6 +1581,7 @@ Or is this merely a case of simple modesty?
 | Shannon Leong | Legal Counsel |  |
 | Sharan Birak | Analyst Relations Manager |  |
 | Shashi Mishra | Employee |  |
+| Shawn Bohrer | Employee | |
 | Shawn Nelson | Infrastructure Supply Chain |  |
 | Shawn Robinson | Employee |  |
 | Shay Padhye | Customer Development |  |
