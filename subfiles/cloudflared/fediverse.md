@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,381 |
+| com | 5,382 |
 | social | 3,371 |
 | net | 2,759 |
 | org | 1,974 |
@@ -20406,6 +20406,7 @@ Here's a list of public Fediverse services.
 | `misanthropy.wang` | No |
 | `misc.name` | No |
 | `miscellanea-numerica.fr` | No |
+| `mischivous.com` | No |
 | `miscworks.net` | No |
 | `misell.cymru` | Yes |
 | `miserables.net` | No |
@@ -36481,7 +36482,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,536 |
-| Normal | 27,901 |
+| Normal | 27,902 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
