@@ -33,6 +33,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | arnor.org | No |
 | artikel10.org | No |
 | atakorah.com | No |
+| avastdns.com | No |
 | azsopro.net | No |
 | b-cdn.net | No |
 | b612.me | Yes |
@@ -284,7 +285,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 101 |
-| Normal | 163 |
+| Normal | 164 |
 
 
-### 38.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 38.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
