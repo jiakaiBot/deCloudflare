@@ -1945,6 +1945,7 @@ Here's a list of public Fediverse services.
 | `araisan.club` | No |
 | `arakawa-lab.com` | No |
 | `arakawa.xyz` | No |
+| `arakelyan.uk` | Yes |
 | `araneum.org` | No |
 | `aranfielder.art` | No |
 | `arasaka.vip` | No |
@@ -9699,6 +9700,7 @@ Here's a list of public Fediverse services.
 | `famjam.social` | Yes |
 | `famkos.net` | No |
 | `famline.ru` | Yes |
+| `fancat.ml` | No |
 | `fancy.org.uk` | Yes |
 | `fancycade.xyz` | No |
 | `fancydomain.eu` | No |
@@ -27105,7 +27107,7 @@ Here's a list of public Fediverse services.
 | `riverside.rocks` | Yes |
 | `riversouldiers.dk` | No |
 | `rivervalleymaine.social` | No |
-| `riverwest.xyz` | Yes |
+| `riverwest.xyz` | No |
 | `riveted.social` | No |
 | `riviera.social` | No |
 | `rivqr.xyz` | Yes |
@@ -29927,6 +29929,7 @@ Here's a list of public Fediverse services.
 | `sprawl.club` | Yes |
 | `spree.social` | No |
 | `spren.space` | No |
+| `sprig.gs` | No |
 | `spring-has-come.tk` | No |
 | `springbo.cc` | No |
 | `springspin.nl` | No |
@@ -32100,6 +32103,7 @@ Here's a list of public Fediverse services.
 | `tidy.camp` | No |
 | `tiennot.net` | No |
 | `tiepup.co.uk` | No |
+| `tiernanotoole.ie` | Yes |
 | `tierslieux.re` | No |
 | `tiff.is` | No |
 | `tiffinfamilynetwork.com` | No |
@@ -36501,8 +36505,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,541 |
-| Normal | 27,917 |
+| Cloudflare | 8,542 |
+| Normal | 27,920 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
