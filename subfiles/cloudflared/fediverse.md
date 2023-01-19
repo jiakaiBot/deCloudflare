@@ -27353,6 +27353,7 @@ Here's a list of public Fediverse services.
 | `rossabaker.com` | No |
 | `rosseaux.com` | No |
 | `rosy-colored.space` | Yes |
+| `rot.gives` | No |
 | `roter-kreis.de` | No |
 | `roteserver.de` | No |
 | `rothery.me` | No |
@@ -36506,7 +36507,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,542 |
-| Normal | 27,920 |
+| Normal | 27,921 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
