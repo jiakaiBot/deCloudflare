@@ -876,6 +876,7 @@ click.endurance.usatventures.com
 click.ubsarena-email.com
 click.udr-email.com
 click.uswsalvationarmy.org
+clicks.uk-safety.com
 cloud.endurance.usatventures.com
 cloud2.ubona.com
 communitybuilding.unitedwaygcr.org
@@ -896,6 +897,7 @@ e5xx22pbfj94ot8.test.splendid-azure-site-677548.updatemy.website
 ebank.uaeb.uz
 ecf.mieb.uscourts.gov
 ecommerce.userede.com.br
+eee.updatemyprofile.com
 ef7ed799-7df5-4ff8-920c-3a70ed657e9c.usrfiles.com
 erms.uplus.co.kr
 evalue.iic.uam.es
@@ -934,6 +936,7 @@ jagoan.userteknologi.com
 jindb.unimat-rc.co.jp
 jobs.unige.ch
 jof8.unitea.jp
+joshbraun.umasscreate.net
 kalender.univie.ac.at
 kivi.avvatar.usermd.net
 kravmaga.dev.upcow.co.il
@@ -999,6 +1002,7 @@ u677.info
 uads.shop
 uapi.uniware.com.br
 uarun-mobile.api.ua.com
+ubank-au2.com
 uber-trust-partners.com
 uberturco.com
 ubie.app
@@ -1074,6 +1078,7 @@ upnorthlive.com
 uponhariyamar.com
 upregisteelon.com
 ups-error.com
+upsclientpaymentcanada-en.ca
 upscourierexpress.com
 upsdiscrete-services.com
 upseteveret.no
@@ -1097,6 +1102,7 @@ usabilitygeek.com
 usaps-track.uspsvdvos.top
 usendbrazil.com
 user.fm
+userconfirmed.com
 usercontent.goog
 userexpired.com
 userflow.dk
@@ -1168,8 +1174,10 @@ www.nrs.fs.usda.gov
 www.onlinefood.updatedvpn.xyz
 www.orders.zubek.usermd.net
 www.osticket.razziel2.usermd.net
+www.otherrealm.updatedvpn.xyz
 www.secmail.uhb.nhs.uk
 www.supportdiscord.utero.id
+www.teamaction.updatedvpn.xyz
 www.test.updateconsulting.az
 www.tiketku.userteknologi.com
 www.u-buy.com.ua
@@ -1179,6 +1187,7 @@ www.ubsafe.nl
 www.ucssecurity.nl
 www.ufc.com
 www.ufficio-postale.it
+www.ufg.uni-kiel.de
 www.ufosafe.com
 www.ugc.fr
 www.ugelhuancabamba.gob.pe
@@ -1197,6 +1206,7 @@ www.unicampania.it
 www.unilever.pk
 www.union-bulletin.com
 www.unionecomuni.re.it
+www.unionleader.com
 www.unionpapelera.ml
 www.unionpublishing.org
 www.unitedstataspostaservice.us
