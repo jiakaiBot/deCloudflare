@@ -25970,6 +25970,7 @@ Here's a list of public Fediverse services.
 | `qcx.io` | Yes |
 | `qdnx.org` | No |
 | `qdon.space` | Yes |
+| `qeepitsafe.nl` | Yes |
 | `qemfd.net` | No |
 | `qfotografie.de` | Yes |
 | `qianmianyao.cn` | No |
@@ -29623,6 +29624,7 @@ Here's a list of public Fediverse services.
 | `soothing.cloud` | No |
 | `sopelj.ca` | Yes |
 | `sophiade.net` | No |
+| `sophie.cafe` | No |
 | `sophieversum.net` | No |
 | `sophos.com` | Yes |
 | `sophy.life` | Yes |
@@ -36375,6 +36377,7 @@ Here's a list of public Fediverse services.
 | `zopyx.com` | No |
 | `zor.gg` | No |
 | `zorbo.social` | No |
+| `zord.works` | No |
 | `zordhak.fr` | No |
 | `zork.social` | No |
 | `zornhau.de` | No |
@@ -36477,8 +36480,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,535 |
-| Normal | 27,899 |
+| Cloudflare | 8,536 |
+| Normal | 27,901 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
