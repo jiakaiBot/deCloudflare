@@ -7361,6 +7361,7 @@ Do not create new issue or we will close it as duplicate.
 | [NgocLongk1@twitter](https://twitter.com/NgocLongk1/status/1554028232093052928) | advertise |
 | [ngocthang_9577@twitter](https://twitter.com/ngocthang_9577/status/1401800231713345543) | advertise |
 | [NgocUnmei@twitter](https://twitter.com/NgocUnmei/status/1402936171265548289) | advertise |
+| [NgongTuan@twitter](https://twitter.com/NgongTuan/status/1616054390145814528) | advertise |
 | [Ngonhathuy17@twitter](https://twitter.com/Ngonhathuy17/status/1402444148506988548) | advertise |
 | [NgoQuye89100242@twitter](https://twitter.com/NgoQuye89100242/status/1395052107913330689) | advertise |
 | [ngoson05@twitter](https://twitter.com/ngoson05/status/1602293399402745857) | advertise |
@@ -8017,6 +8018,7 @@ Do not create new issue or we will close it as duplicate.
 | [Patrici13804952@twitter](https://twitter.com/Patrici13804952/status/1534399090943045632) | advertise |
 | [patrickgoosby1@twitter](https://twitter.com/patrickgoosby1/status/1394439072811307013) | advertise |
 | [PatrickHonorez@twitter](https://twitter.com/PatrickHonorez/status/1486822811796750343) | advertise |
+| [patrickianbern1@twitter](https://twitter.com/patrickianbern1/status/1616055355934445569) | advertise |
 | [PatrickLNorman@twitter](https://twitter.com/PatrickLNorman/status/1378071182319222788) | advertise |
 | [PAtt20022998@twitter](https://twitter.com/PAtt20022998/status/1392449578453008389) | advertise |
 | [Pattenden_D_D@twitter](https://twitter.com/Pattenden_D_D/status/1536872188074201089) | advertise |
