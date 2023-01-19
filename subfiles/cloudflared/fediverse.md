@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,382 |
-| social | 3,371 |
+| social | 3,373 |
 | net | 2,759 |
-| org | 1,974 |
-| de | 1,855 |
+| org | 1,975 |
+| de | 1,856 |
 
 
 - Mastodon, Pleroma, etc
@@ -6733,6 +6733,7 @@ Here's a list of public Fediverse services.
 | `d14n.club` | No |
 | `d19.ca` | No |
 | `d1n0.link` | No |
+| `d1nu.de` | No |
 | `d20.eu` | No |
 | `d20.social` | No |
 | `d20hero.club` | No |
@@ -9189,6 +9190,7 @@ Here's a list of public Fediverse services.
 | `equanimity.blue` | No |
 | `equel.social` | Yes |
 | `equestria.social` | No |
+| `equestrian.social` | Yes |
 | `equinox.social` | No |
 | `equinux.social` | No |
 | `eqver.se` | No |
@@ -13865,6 +13867,7 @@ Here's a list of public Fediverse services.
 | `hygge.ovh` | No |
 | `hyggeverset.dk` | No |
 | `hylianux.com` | No |
+| `hylobatidae.org` | No |
 | `hypatie.xyz` | No |
 | `hype.city` | Yes |
 | `hyper.dev` | No |
@@ -30751,6 +30754,7 @@ Here's a list of public Fediverse services.
 | `syaroshi.co` | No |
 | `syasai.club` | No |
 | `sycarion.com` | No |
+| `sydenie.me` | No |
 | `sygil.org` | No |
 | `sylable.co` | No |
 | `syleogroup.fr` | No |
@@ -33473,6 +33477,7 @@ Here's a list of public Fediverse services.
 | `unfuc.cyou` | No |
 | `unfuckwithable.one` | No |
 | `unfufadoo.net` | Yes |
+| `unfug.social` | No |
 | `ungenreasoi.com` | No |
 | `ungleich.ch` | No |
 | `ungovernavl.org` | No |
@@ -35255,6 +35260,7 @@ Here's a list of public Fediverse services.
 | `writee.org` | Yes |
 | `writefree.de` | No |
 | `writefree.ly` | No |
+| `writefreely.au` | No |
 | `writefreely.dev` | No |
 | `writefreely.host` | No |
 | `writefreely.org` | No |
@@ -36482,8 +36488,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,538 |
-| Normal | 27,901 |
+| Cloudflare | 8,539 |
+| Normal | 27,906 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
