@@ -26830,6 +26830,7 @@ Here's a list of public Fediverse services.
 | `repc.co` | Yes |
 | `repl.co` | Yes |
 | `replacementhipster.com` | No |
+| `replicant.pl` | No |
 | `replicants.cafe` | No |
 | `replik.xyz` | No |
 | `repnop.dev` | No |
@@ -36510,7 +36511,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,544 |
-| Normal | 27,922 |
+| Normal | 27,923 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
