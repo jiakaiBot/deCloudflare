@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Integration, could not connect.](https://github.com/home-assistant/core/issues/86203)
 - [Bad peer gets added to config by networking-service - causes yggdrasil service to segfault](https://github.com/samizdapp/herakles/issues/157)
 - [Danbooru API implementation is not working](https://github.com/ajiiisai/booru-rs/issues/2)
 - [Authelia auto-start on UnRAID server fails every time](https://github.com/authelia/authelia/issues/4790)
