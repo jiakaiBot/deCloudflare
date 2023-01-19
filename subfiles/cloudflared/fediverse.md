@@ -10482,6 +10482,7 @@ Here's a list of public Fediverse services.
 | `fly.dev` | No |
 | `flyand.chat` | Yes |
 | `flyaway.city` | Yes |
+| `flyemoji.moe` | Yes |
 | `flying-snail.de` | No |
 | `flyingburri.to` | Yes |
 | `flyingcube.tech` | No |
@@ -11518,7 +11519,7 @@ Here's a list of public Fediverse services.
 | `gay.camera` | No |
 | `gay.coffee` | Yes |
 | `gay.mba` | No |
-| `gaybaby.club` | Yes |
+| `gaybaby.club` | No |
 | `gaybdsm.group` | No |
 | `gaycatgirl.sex` | No |
 | `gaychina.com` | Yes |
@@ -18007,6 +18008,7 @@ Here's a list of public Fediverse services.
 | `loli.pizza` | Yes |
 | `lolic.at` | Yes |
 | `lolicon.rocks` | No |
+| `lolicon.win` | Yes |
 | `loliheaven.net` | No |
 | `loliloli.moe` | Yes |
 | `loliotaku.club` | No |
@@ -29905,7 +29907,7 @@ Here's a list of public Fediverse services.
 | `spoonie.community` | No |
 | `sporadically.social` | No |
 | `spore.social` | No |
-| `spork.gay` | No |
+| `spork.gay` | Yes |
 | `spork.gg` | No |
 | `spork.org` | No |
 | `spork.quest` | Yes |
@@ -36506,7 +36508,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,542 |
+| Cloudflare | 8,544 |
 | Normal | 27,921 |
 
 
