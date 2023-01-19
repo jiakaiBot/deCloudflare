@@ -613,6 +613,7 @@ Do not create new issue or we will close it as duplicate.
 | [amekiri13@twitter](https://twitter.com/amekiri13/status/1437975591152611329) | advertise |
 | [AmeliaNyeint@twitter](https://twitter.com/AmeliaNyeint/status/1398295090909499397) | advertise |
 | [Amer71692232@twitter](https://twitter.com/Amer71692232/status/1497751670188490758) | advertise |
+| [amiamigo97@twitter](https://twitter.com/amiamigo97/status/1616127323887243266) | advertise |
 | [Amiirfahad@twitter](https://twitter.com/Amiirfahad/status/1492928600978382856) | advertise |
 | [aMiLcArBaRrErA@twitter](https://twitter.com/aMiLcArBaRrErA/status/1594907159397289984) | advertise |
 | [Amine84851078@twitter](https://twitter.com/Amine84851078/status/1497688175740923906) | advertise |
