@@ -8595,6 +8595,7 @@ Do not create new issue or we will close it as duplicate.
 | [rabieemostafa3@twitter](https://twitter.com/rabieemostafa3/status/1579358487712129024) | advertise |
 | [rabsngrob@twitter](https://twitter.com/rabsngrob/status/1572252767967936518) | advertise |
 | [RaceLifeNet@twitter](https://twitter.com/RaceLifeNet/status/1518636611977809921) | advertise |
+| [Racer_Kamira@twitter](https://twitter.com/Racer_Kamira/status/1616029541973266432) | advertise |
 | [Rachan51471422@twitter](https://twitter.com/Rachan51471422/status/1555757912835776513) | advertise |
 | [Rachel3304@twitter](https://twitter.com/Rachel3304/status/1559547803692666888) | advertise |
 | [racycars@twitter](https://twitter.com/racycars/status/1394606713827778561) | advertise |
@@ -10174,6 +10175,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThcVi3@twitter](https://twitter.com/ThcVi3/status/1484537255989772290) | advertise |
 | [the3ASiC@twitter](https://twitter.com/the3ASiC/status/1493630130664919041) | advertise |
 | [TheAnh23257867@twitter](https://twitter.com/TheAnh23257867/status/1553976137063141378) | advertise |
+| [theankansaha@twitter](https://twitter.com/theankansaha/status/1616039812410245123) | advertise |
 | [TheBhramjaal@twitter](https://twitter.com/TheBhramjaal/status/1567563388884250625) | advertise |
 | [TheChadDevET@twitter](https://twitter.com/TheChadDevET/status/1613799586489073664) | advertise |
 | [TheCrowdFundLaw@twitter](https://twitter.com/TheCrowdFundLaw/status/1394434955032285186) | advertise |
