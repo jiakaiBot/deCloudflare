@@ -597,7 +597,6 @@ mc5s8k4mxpmd-2bwfxrn7s0nlg14.soap.marketingcloudapis.com
 mcdermottcybersecurity.com
 mcfgc5jz20lrcyt3-tck4mt4w9ty.rest.marketingcloudapis.com
 mcm.ba
-mcpompups.com
 mcsistemasdev.com.br
 mct7zv71224tqn5q3ymmqpn4q7q1.auth.marketingcloudapis.com
 md2.mafsas.mobi
@@ -3158,6 +3157,7 @@ access.mimer.nu
 account.myuni.com.my
 accounts-api.as.mod3projects.com
 accounts.mondotalk.com
+accounts.myherbalife.com
 acms.infra.gov.teams.microsoft.us
 adfs.matheson.com
 adfs5.metro.info
@@ -3191,6 +3191,7 @@ api.millikart.az
 api.mobiticket.co.ke
 api.mtgsvc.com
 api.my529.org
+api.mybogaloyalty.id
 api.myvaluefirst.com
 api.myvfirst.com
 api.qa101.millennium-falcon.team
@@ -3201,6 +3202,7 @@ apigs.mapfreasistencia.com
 apisandboxqa.mpaycenter.com
 apisbn.mapfreasistencia.com
 apollo.m2ns.com
+app.mycity-bank.com
 app.online.mt.com
 appointment.maqasa.com
 appsupport.mais.tech
@@ -3215,6 +3217,7 @@ assetapitst.mypriva.com
 assets.micpn.com
 astrolog.mozellosite.com
 atlantis.m2ns.com
+attachment-view-2038473v.obs.ap-southeast-1.myhuaweicloud.com
 auth-mini-fileshare.obs.ap-southeast-2.myhuaweicloud.com
 auth.k8s.miplanning.es
 auth.m-tag.cloud
@@ -3225,6 +3228,7 @@ authsvc.gov.teams.microsoft.us
 autodiscover.macquarielinksestate.com.au
 autodiscover.maislaserpresprudente.com.br
 autodiscover.matchgradeexcavation.com
+autodiscover.mg-innovation.marketing
 autodiscover.microblogging.in
 autodiscover.misibusz.hu
 autodiscover.montecarlohotelsjdr.com.br
@@ -3253,6 +3257,7 @@ blog.manuelfnavas.es
 blog.mew151.net
 blog.mikamiseta.com
 blossomblastsaga-prod-live.ext.p.midasplayer.cloud
+bloxwich-bonanza.meet-pete-dinosaur-hire.co.uk
 browser.pipe.aria.microsoft.com.box.box.zengel.myshn.net
 browser.pipe.aria.microsoft.com.box.vault.raymondjames.myshn.net
 bryansk.kupit-grill.mcdir.ru
@@ -3281,6 +3286,7 @@ cdn.mysites.guru
 cdppush.mitec.com.mx
 chat.mb-spb.com
 chat.myaccountinquiry.com
+checkout.myprotein.ru
 chelyabinsk.kupit-grill.mcdir.ru
 chita.kupit-grill.mcdir.ru
 ci-presentment.svc.platform.myobdev.com
@@ -3346,6 +3352,7 @@ cyberbrokers.mint-nftfree.com
 dapi.merlin.net
 data.moneymatch.technology
 data.mongodb-api.com
+data.uat.markit.com
 datenbank.massage-kalender.de
 db.msin.jp
 dbtcsc.bt.motive.com
@@ -3417,6 +3424,7 @@ filerun.mailsecure.online
 fls-na.m-iicrosoft-user-case-update-id0987.ml
 forklift.mach1.my
 freelancewriterservice.mediatopiasolutions.com
+fundosocial.maxicredito.coop.br
 g.mancavgeek.co.uk
 gateseyecarecenter.maximeyes.com
 gateway.dev.superapp.m-pesa.com
@@ -3458,6 +3466,7 @@ gitlab.gitlab.git.git.git.git.qbgukxeidx.n.moneyxonline.com
 gitlab.gitlab.git.git.gitlab.gitlab.majesticbank.pl
 gitlab.gitlab.git.git.server.myaviationwebservices.com
 gitlab.gitlab.gitlab.git.git.git.new.bo1.myrecipepage.com
+gitlab.gitlab.gitlab.git.gitlab.gitlab.accounts.mosstolyarka.ru
 gitlab.gitlab.gitlab.git.gitlab.www.x.macks.in
 gitlab.gitlab.gitlab.gitlab.gitlab.mailer.mosgieltkd.co.nz
 gitlab.gitlab.preprod.mbousosh12.ru
@@ -3468,6 +3477,7 @@ gm-info.com.ar.mallia-zapiola.com.ar
 gosayari.mailchimpsites.com
 grp12.mrree.gub.uy
 gsales.mobiledatacollection.it
+gtm.miinto.be
 gtransport.mobiledatacollection.it
 guineecall.mokatourconsulting.com
 gworkforce.mobiledatacollection.it
@@ -3501,6 +3511,7 @@ integration-puyfou-e.mondial-assistance.fr
 internal.sfs.operations.gov.microsoftdynamics.us
 investor.mesa-air.com
 invisionbosca.maximeyes.com
+iot.aroundyou.my.id.iiot-telkomsel.masuk.id
 iot.malieiot.org
 is1-ssl.mzstatic.com
 isois.ois.muni.cz
@@ -3521,6 +3532,7 @@ landingpage.demo.mekartek.com
 lead-scoring-api.test.mobiauto.com.br
 liberty-qa-marketing.moneyplace.com.au
 library-admin.mfa.am
+link.musicmatch.co
 links.mailfame.com
 linkservice.dev.miraeasset.io
 listado.mercadolibre.com.ar
@@ -3534,6 +3546,7 @@ logincert.microsoftonline.com
 lts.af-south-1.myhuaweicloud.com
 luke.mushroompirates.com
 luna.m2ns.com
+m-huodong.mysteel.com
 m-oservice.de
 m-shes.ru
 m2mtrack.net
@@ -3542,6 +3555,7 @@ m3citibank.com
 m45assachucsh9w7etts.com
 m4cliente.com.br
 m88pro.net
+macgarage.co.ke
 machi-log.net
 madison.com
 madroneartbar.com
@@ -3580,6 +3594,7 @@ manuelseguridad.com.do
 manufacturingandsupplychainsummit.com
 map-api.megt.io
 mapadelasprepagos.com
+mapdelivery.ro
 mappingislamophobia.org
 marbellaangelsescort.com
 marc.pt
@@ -3607,6 +3622,7 @@ mavq.net
 mawlaybob.com
 mawmishtrior.com
 maxbittker.com
+maxco.pe
 maximussportsnutrition.com
 maximusx.sg
 mayagroup.vn
@@ -3629,6 +3645,8 @@ mdshock.com
 mdzs.jp
 mec-st-api.mt-square.com
 medabots.game
+medcoveruniformes.com
+mediacityfilmfestival.com
 mediasama.com
 medical-information-m.muroblog.net
 medicardapi02-app.medicardphils.com
@@ -3646,6 +3664,7 @@ melbourne.measurecamp.org
 melmakes.ca
 melodyepiphany.com
 membersportal.com.pk
+memorialhermann.wd5.myworkdayjobs.com
 mensajesdecumpleanos.wiki
 mercadolibre.expert
 merchant-center-analytics.goog
@@ -3660,6 +3679,8 @@ metalplanetmusic.com
 metaversebridge-connect.com
 metodo12s.com
 metrics.monitoring.plato.mps.mpg.de
+metroguardsecurity.ca
+metropolitan.radio
 metroycincuenta.cl
 mets24.ee
 metsienpuolesta.fi
@@ -3675,6 +3696,7 @@ mi-binder.com
 mi-path.io
 miaaw.net
 miamiboatingservice.com
+micawooddeco.com
 micghiga2n7ahjnnsar0fbor.com
 michaeldunnauthor.com
 microbiomenutritions.com
@@ -3759,6 +3781,7 @@ moneyup.capital
 moneyvipprogram.net
 moneyvit.gq
 mongge.com
+monicalemos.es
 moniiescurrencyexchange.com
 monologging.org
 monsonmadethis.com
@@ -3766,6 +3789,7 @@ montanaro-banks.com
 montanoindustrial.com
 montrealbb.ca
 moonbirds.win
+morales.org
 morentotntsdelivery.com
 morethannotaryservice.com
 moriahservice.com.br
@@ -3778,7 +3802,10 @@ mpi.net.co
 mr-and-mrs-support-repair.com
 mr-service2011.com
 mr.pt
+mrestore.dk
+mrmaidservice.ca
 mrtopfive.com
+mrvuokrauspalvelu.fi
 ms973.mymanaged.host
 msisservices.com
 mt-services.ir
@@ -3800,10 +3827,12 @@ my-netflix.myddns.me
 myasecurity.cl
 mycatalogcloud.com
 mycbs4.com
+mycity-bank.com
 mycompas.com
 mygamedb.com
 mylogistics.mobiledatacollection.it
 mymoneygame.website
+mymscp.com
 mynbc15.com
 mynheerpuller.com
 myoutube.com
@@ -3818,10 +3847,12 @@ mywallet-authhold.com
 mywipl.com
 nc.martinfischer.at
 news.mapcamera.com
+nickel-eu.misecure.com
 nicole.myprettyportal.com
 nitroxtrem.mr-auguste.com
 office.mcphersonfamilyeyecare.com
 origin-service.mao.work
+otherwhatsapp.micro.blog
 owa.madisonct.org
 pakettundacepat.medinahusada.com
 payments.mypcsportal.com
@@ -3831,6 +3862,7 @@ post-ch-diepost.misecure.com
 posta.msds.it
 ppr.nonprod.microcredit-accompagne.org
 pr-1234.test.mobilet.com
+pr-1244.test.mobilet.com
 pr-985.staging.bill-gate.macpaw.dev
 preprod.mactech.net.in
 preprodapi.myinwebo.com
@@ -3843,6 +3875,7 @@ rcttest7.msbexpress.net
 refund.mobi.id
 registry.plato.mps.mpg.de
 resources.edge.eu1.mindsphere.io
+roblox-analytics.mildmania.net
 roblox.mechurch.ai
 rust-registry.mindbaz.org
 sakura.mafcolombia.com
@@ -3852,6 +3885,7 @@ sap.minasligas.com.br
 sds.mysunpower.com
 seb.mondet.org
 securemail.medcity.net
+seguro-vehicular.mapfre.com.pe
 service-prepaye.math-concept-web.ca
 service.mx-live.com
 serviceborsoi.markeven.it
@@ -3871,6 +3905,7 @@ streaknow.mbilalmirza.com
 stream.myolmc.com
 support.makingtheimpact.com
 support.merrion.bz
+support.meyerhorecagroep.nl
 support.mimema.nl
 telecare.maasuk.com
 test.mm-system.de
@@ -3907,6 +3942,8 @@ webmail.misibusz.hu
 webmail.miyabi-sokujitu.site
 whm.metropolistrustbank.com
 whm.mgcentrumautos.com
+wss-dev.mystiebel.com
+wss-us.mystiebel.com
 www.admin.mysafety24x7.com
 www.ahaliafm.com.mposbill.com
 www.amazon-support-bonus.michforum.xyz
@@ -3939,6 +3976,7 @@ www.dev.mail-tracker-minerba.mosframtech.com
 www.dira.moch.gov.il
 www.dosri.moneymallrb.com
 www.en.myunilab.net
+www.flutesafe.modernflutist.com
 www.git.git.git.gitlab.gitlab.gitlab.dpdfns.medknizhky.ru
 www.git.git.git.gitlab.gitlab.webdesiwww.auth.mensnewspaper.ru
 www.git.git.gitlab.git.git.gitlab.cp.maaau.ru
@@ -3966,6 +4004,7 @@ www.kabaneeram.com.mposbill.com
 www.kgcsafety.metra1st.biz.id
 www.lbverify.makemoneyonlinedirectory.com
 www.likefformoney.com.metodoplatinumcard.com
+www.login.mayprosolutions.com
 www.login.mironet.fi
 www.m4cliente.com.br
 www.macf.com.mx
@@ -4004,12 +4043,15 @@ www.marinathaimassage.com
 www.marineconservation.org.au
 www.marketplace.com.ua
 www.markets.com
+www.marshall.net
 www.martin-buber.com
 www.martinsalzmann.com
 www.martinworkssafety.com
 www.masajeshotel.es
 www.mascwifihotspotlogin.com
 www.maseventos.com.mx.mexicotravelalliance.com
+www.masonrymagazine.com
+www.masshemden-bielefeld.de
 www.massimogentili.it
 www.masteracteamservice.com
 www.matchthefuture.at
@@ -4054,9 +4096,11 @@ www.mg-mashin.ir
 www.mhpf.in
 www.miazs.org
 www.michaelpetry.com
+www.microsoftoline-sharefile-shea-co.in
 www.microtourpackage.microslot88.id
 www.midtsupport.dk
 www.migration-security-service.com
+www.mijnvissertuinservice.nl
 www.milknhoneycafe.com
 www.milletnews.com
 www.millifolklor.com
@@ -4080,6 +4124,7 @@ www.moderationdeck.com
 www.moderator-bastibloedt.de
 www.modesticarservice.it
 www.modestycredit.co.ke
+www.moehren-milieu.de
 www.mog-l.com
 www.mogulvalley.com
 www.moldremovalappleton.com
@@ -4099,6 +4144,7 @@ www.moneyliterateacademy.com
 www.moneymarketing.co.uk
 www.moneymattersmost.com.au
 www.moneynote.co.uk
+www.moneyrecoverygroup.com
 www.moneysch88l.nl
 www.moneyup.capital
 www.moneyvit.gq
@@ -4115,6 +4161,7 @@ www.moveservice.ee
 www.mpl-palvelu.com
 www.mprotect.rs
 www.mr-and-mrs-support-repair.com
+www.mrestore.dk
 www.mrfollower.fr
 www.mrso.jp
 www.mrw.co.uk
@@ -4134,6 +4181,7 @@ www.museidiasti.com
 www.museoevitaresto.com.ar
 www.museothyssen.org
 www.music-ministry.org
+www.mutesound.org
 www.mvlaw.com.au
 www.mvmeventsupport.com
 www.my-elixir.io
@@ -4165,6 +4213,7 @@ www.packager.madwebcrafts.com
 www.pakettundacepat.medinahusada.com
 www.planetariosol.com.br.marttins.com.br
 www.post.kvl.me.tueih605.mywhc.ca
+www.prime-membership.manageaccountsupport.com
 www.projetoservice.mateusnobre.com
 www.rpsfleetservice.managemyurl.in
 www.samplelogin.makebizgrow.com
