@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,382 |
+| com | 5,383 |
 | social | 3,373 |
 | net | 2,759 |
 | org | 1,975 |
@@ -7672,6 +7672,7 @@ Here's a list of public Fediverse services.
 | `diggingthedigital.com` | Yes |
 | `digibyte.social` | No |
 | `digic.cloud` | No |
+| `digida.li` | No |
 | `digigame.org` | No |
 | `digikite.net` | Yes |
 | `digilife.club` | No |
@@ -26755,6 +26756,7 @@ Here's a list of public Fediverse services.
 | `reinierhernandez.com` | Yes |
 | `reiphoto.net` | Yes |
 | `reipository.moe` | No |
+| `reisen-nach-spanien.com` | No |
 | `reisetagebuch-podcast.de` | No |
 | `reisig.world` | No |
 | `reitrace.ga` | No |
@@ -30722,6 +30724,7 @@ Here's a list of public Fediverse services.
 | `swiso.de` | No |
 | `swiso.org` | No |
 | `swiss-chaos.social` | No |
+| `swiss-hobby-entertainment.ch` | No |
 | `swiss-talk.net` | Yes |
 | `swiss.social` | No |
 | `swisttal.social` | No |
@@ -35165,6 +35168,7 @@ Here's a list of public Fediverse services.
 | `woodpecker.blue` | Yes |
 | `woodphant.fr` | No |
 | `woodplate.club` | No |
+| `woodside.nz` | No |
 | `woodwideweb.social` | No |
 | `woof.group` | No |
 | `woof.tech` | No |
@@ -36489,7 +36493,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,539 |
-| Normal | 27,906 |
+| Normal | 27,910 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
