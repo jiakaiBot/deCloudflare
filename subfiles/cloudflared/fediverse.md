@@ -27627,6 +27627,7 @@ Here's a list of public Fediverse services.
 | `s25.pl` | No |
 | `s2s.video` | No |
 | `s3lph.me` | No |
+| `s3th.me` | No |
 | `s4die.co` | Yes |
 | `s4m0r1.net` | No |
 | `s4y.us` | Yes |
@@ -36509,7 +36510,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,544 |
-| Normal | 27,921 |
+| Normal | 27,922 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
