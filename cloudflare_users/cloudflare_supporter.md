@@ -7737,6 +7737,7 @@ Do not create new issue or we will close it as duplicate.
 | [NweOoSwe1@twitter](https://twitter.com/NweOoSwe1/status/1390971223786418177) | advertise |
 | [NwetYeeWin3@twitter](https://twitter.com/NwetYeeWin3/status/1393197108929261571) | advertise |
 | [NwlCed@twitter](https://twitter.com/NwlCed/status/1488854472655007746) | advertise |
+| [NyaHo_vrc@twitter](https://twitter.com/NyaHo_vrc/status/1615949643099308032) | advertise |
 | [Nyangyi48157984@twitter](https://twitter.com/Nyangyi48157984/status/1401538518430539782) | advertise |
 | [NyanKhant1@twitter](https://twitter.com/NyanKhant1/status/1395592053048758273) | advertise |
 | [nyanlinhtet36@twitter](https://twitter.com/nyanlinhtet36/status/1397597766944137218) | advertise |
