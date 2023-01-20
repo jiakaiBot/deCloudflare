@@ -5797,7 +5797,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -18964,6 +18964,7 @@ Here's a list of public Fediverse services.
 | `mashable.com` | Yes |
 | `mashed.cloud` | Yes |
 | `mashek.net` | No |
+| `mashi.ro` | Yes |
 | `mashiro.life` | No |
 | `mashiro.top` | Yes |
 | `mashtodon.net` | No |
@@ -33331,7 +33332,7 @@ Here's a list of public Fediverse services.
 | `tzyl.nl` | No |
 | `u-tokyo.social` | No |
 | `u-v.de` | No |
-| `u0conveni.club` | No |
+| `u0conveni.club` | Yes |
 | `u1ocloud.de` | No |
 | `u2.social` | Yes |
 | `u2p.net` | No |
@@ -36552,8 +36553,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,555 |
-| Normal | 27,954 |
+| Cloudflare | 8,558 |
+| Normal | 27,952 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
