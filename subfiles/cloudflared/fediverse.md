@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,394 |
-| social | 3,380 |
+| com | 5,395 |
+| social | 3,382 |
 | net | 2,763 |
 | org | 1,980 |
 | de | 1,858 |
@@ -3813,7 +3813,7 @@ Here's a list of public Fediverse services.
 | `bmgn.rs` | No |
 | `bmhorn.de` | No |
 | `bminde.com` | No |
-| `bmrf.institute` | No |
+| `bmrf.institute` | Yes |
 | `bmu.cloud` | No |
 | `bmvs.io` | Yes |
 | `bmw-and-more.info` | No |
@@ -6427,6 +6427,7 @@ Here's a list of public Fediverse services.
 | `ctmiller.net` | No |
 | `ctrl-shift.net` | No |
 | `ctrlaltdog.xyz` | Yes |
+| `ctrlobsolete.com` | Yes |
 | `ctrlz.es` | Yes |
 | `ctseuro.com` | No |
 | `ctsollars.com` | No |
@@ -9282,6 +9283,7 @@ Here's a list of public Fediverse services.
 | `ery.kr` | No |
 | `eryptock.xyz` | No |
 | `erzbistum-hamburg.de` | No |
+| `es.social` | No |
 | `es4.co` | Yes |
 | `esadhar.net` | No |
 | `esamecar.net` | No |
@@ -19085,7 +19087,7 @@ Here's a list of public Fediverse services.
 | `masto.se` | Yes |
 | `masto.social` | Yes |
 | `masto.space` | No |
-| `masto.tech` | Yes |
+| `masto.tech` | No |
 | `masto.technology` | No |
 | `masto.travel` | No |
 | `masto.uk` | Yes |
@@ -25982,7 +25984,7 @@ Here's a list of public Fediverse services.
 | `pyrignis.fr` | No |
 | `pyrope.net` | No |
 | `pyrosome.social` | No |
-| `pyry.me` | No |
+| `pyry.me` | Yes |
 | `pyscript.social` | No |
 | `python-podcast.de` | No |
 | `python.it` | Yes |
@@ -28600,6 +28602,7 @@ Here's a list of public Fediverse services.
 | `sf.social` | No |
 | `sfba.social` | No |
 | `sfbubble.net` | No |
+| `sfcc.social` | No |
 | `sfconservancy.org` | No |
 | `sffpc.io` | Yes |
 | `sfgreens.org` | No |
@@ -36555,8 +36558,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,558 |
-| Normal | 27,954 |
+| Cloudflare | 8,560 |
+| Normal | 27,955 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
