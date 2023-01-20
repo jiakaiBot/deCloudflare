@@ -29036,7 +29036,7 @@ Here's a list of public Fediverse services.
 | `simplysocial.online` | No |
 | `simplytoast.me` | Yes |
 | `simpreative.network` | Yes |
-| `simpson.id` | No |
+| `simpson.id` | Yes |
 | `simracing.community` | No |
 | `simstim.club` | No |
 | `simstodon.com` | No |
@@ -32426,6 +32426,7 @@ Here's a list of public Fediverse services.
 | `tomaz.me` | Yes |
 | `tombik.click` | No |
 | `tomboy.tech` | Yes |
+| `tomboyfan.club` | No |
 | `tombraider.chat` | No |
 | `tombraiderchronicles.com` | Yes |
 | `tombraidersocial.com` | Yes |
@@ -36584,7 +36585,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,570 |
+| Cloudflare | 8,571 |
 | Normal | 27,971 |
 
 
