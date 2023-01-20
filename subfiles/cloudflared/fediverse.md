@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,394 |
-| social | 3,379 |
+| social | 3,380 |
 | net | 2,763 |
 | org | 1,980 |
 | de | 1,858 |
@@ -2405,6 +2405,7 @@ Here's a list of public Fediverse services.
 | `audio-video.tech` | No |
 | `audiochad.xyz` | No |
 | `audiomix.club` | No |
+| `audiomo.online` | No |
 | `audiophile-mastodon.com` | No |
 | `audiophilestyle.com` | Yes |
 | `audiosauti.com` | No |
@@ -2950,6 +2951,7 @@ Here's a list of public Fediverse services.
 | `battletech.social` | No |
 | `batts.cloud` | No |
 | `baty.net` | Yes |
+| `baty.social` | No |
 | `bau-ha.us` | No |
 | `baubs.net` | No |
 | `baucum.me` | No |
@@ -36554,7 +36556,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,558 |
-| Normal | 27,952 |
+| Normal | 27,954 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
