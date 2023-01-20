@@ -34416,6 +34416,7 @@ Here's a list of public Fediverse services.
 | `vulpes.one` | No |
 | `vulpes.work` | No |
 | `vulpine.club` | Yes |
+| `vulpini.zone` | Yes |
 | `vulpo.one` | Yes |
 | `vulturion.com` | No |
 | `vvitches.live` | No |
@@ -36549,7 +36550,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,554 |
+| Cloudflare | 8,555 |
 | Normal | 27,952 |
 
 
