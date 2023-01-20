@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,392 |
 | social | 3,376 |
 | net | 2,762 |
-| org | 1,979 |
+| org | 1,980 |
 | de | 1,858 |
 
 
@@ -6078,6 +6078,7 @@ Here's a list of public Fediverse services.
 | `cosmick9.net` | Yes |
 | `cosmicnation.co` | No |
 | `cosmin.at` | No |
+| `cosmo.do` | No |
 | `cosmos.social` | Yes |
 | `cosnomi.com` | Yes |
 | `cosocial.ca` | No |
@@ -10796,6 +10797,7 @@ Here's a list of public Fediverse services.
 | `freedomofspee.ch` | No |
 | `freedompenguin.com` | No |
 | `freedomstrike.net` | No |
+| `freedomstrike.org` | No |
 | `freedomtothink.social` | Yes |
 | `freedomwolf.cc` | Yes |
 | `freedomworkshop.com` | No |
@@ -18746,6 +18748,7 @@ Here's a list of public Fediverse services.
 | `manateeth.club` | No |
 | `mancave.de` | No |
 | `mancavgeek.co.uk` | No |
+| `manchoukuo.men` | Yes |
 | `mandarismoore.com` | No |
 | `mandelbrotsetapp.com` | No |
 | `mander.xyz` | No |
@@ -36538,8 +36541,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,550 |
-| Normal | 27,945 |
+| Cloudflare | 8,551 |
+| Normal | 27,947 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
