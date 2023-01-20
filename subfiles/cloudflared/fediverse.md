@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,399 |
 | social | 3,387 |
-| net | 2,764 |
+| net | 2,766 |
 | org | 1,980 |
 | de | 1,858 |
 
@@ -3196,7 +3196,7 @@ Here's a list of public Fediverse services.
 | `benzo.online` | No |
 | `beo.social` | No |
 | `beow.party` | Yes |
-| `bepis.au` | No |
+| `bepis.au` | Yes |
 | `bepis.social` | No |
 | `beppo.online` | No |
 | `beppo.social` | No |
@@ -17389,6 +17389,7 @@ Here's a list of public Fediverse services.
 | `lenny.ninja` | Yes |
 | `lennys.quest` | No |
 | `lennysh.com` | No |
+| `leno3s.net` | No |
 | `lenote.eu` | No |
 | `lenuxde.net` | No |
 | `lenzn.net` | No |
@@ -21108,6 +21109,7 @@ Here's a list of public Fediverse services.
 | `mrpjevans.com` | No |
 | `mrporky.moe` | No |
 | `mrprud.me` | Yes |
+| `mrrlll.net` | No |
 | `mrroman.pl` | Yes |
 | `mrsmckhaos.me` | No |
 | `mrt.al` | No |
@@ -36582,8 +36584,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,569 |
-| Normal | 27,970 |
+| Cloudflare | 8,570 |
+| Normal | 27,971 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
