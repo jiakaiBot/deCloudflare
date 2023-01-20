@@ -2815,6 +2815,7 @@ Do not create new issue or we will close it as duplicate.
 | [elperiodicodigi@twitter](https://twitter.com/elperiodicodigi/status/1513992177906601995) | advertise |
 | [elsaidelazhary@twitter](https://twitter.com/elsaidelazhary/status/1577526530707709953) | advertise |
 | [elsashweyee@twitter](https://twitter.com/elsashweyee/status/1389796841860964354) | advertise |
+| [eltonfe72717723@twitter](https://twitter.com/eltonfe72717723/status/1616344393320898561) | advertise |
 | [ElTr72218261@twitter](https://twitter.com/ElTr72218261/status/1390311899552632834) | advertise |
 | [El_Twyce@twitter](https://twitter.com/El_Twyce/status/1588237297379680258) | advertise |
 | [EMadhavi3@twitter](https://twitter.com/EMadhavi3/status/1392409666294935553) | advertise |
