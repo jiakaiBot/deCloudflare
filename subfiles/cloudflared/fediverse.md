@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,392 |
-| social | 3,376 |
-| net | 2,762 |
+| com | 5,394 |
+| social | 3,378 |
+| net | 2,763 |
 | org | 1,980 |
 | de | 1,858 |
 
@@ -1163,6 +1163,7 @@ Here's a list of public Fediverse services.
 | `alaeith.com` | No |
 | `alamaisondulibre.org` | No |
 | `alamantus.com` | No |
+| `alan.ooo` | Yes |
 | `alanae.net` | No |
 | `alanapost.net` | No |
 | `alancfrancis.com` | No |
@@ -12385,6 +12386,7 @@ Here's a list of public Fediverse services.
 | `gregstoltz.com` | Yes |
 | `gregtaole.fr` | No |
 | `gregvogt.net` | Yes |
+| `greiner.social` | No |
 | `greinr.com` | No |
 | `grella.rocks` | No |
 | `grelli.org` | No |
@@ -12485,6 +12487,7 @@ Here's a list of public Fediverse services.
 | `gruifor.eu` | No |
 | `grumble.social` | No |
 | `grumbulon.xyz` | No |
+| `grumpwizard.com` | No |
 | `grumpy.world` | No |
 | `grumpyoldme.de` | No |
 | `grumpys.online` | Yes |
@@ -12882,6 +12885,7 @@ Here's a list of public Fediverse services.
 | `harpsica.net` | No |
 | `harpy.life` | No |
 | `harrisville.net.nz` | No |
+| `harry.cat` | No |
 | `harrykantas.com` | Yes |
 | `harrystyl.es` | Yes |
 | `harshadsharma.com` | No |
@@ -18678,6 +18682,7 @@ Here's a list of public Fediverse services.
 | `makiroll.space` | No |
 | `makito.me` | Yes |
 | `mako.li` | No |
+| `makoism.com` | Yes |
 | `makotia.me` | No |
 | `makotoworkshop.org` | No |
 | `makrgroup.com` | No |
@@ -25345,6 +25350,7 @@ Here's a list of public Fediverse services.
 | `polyglot.network` | Yes |
 | `polygon.rocks` | No |
 | `polylux.xyz` | No |
+| `polymath.net` | Yes |
 | `polymatic.social` | No |
 | `polymerwitch.com` | No |
 | `polymorph.cool` | No |
@@ -26281,6 +26287,7 @@ Here's a list of public Fediverse services.
 | `raconteur.ink` | No |
 | `radar.fail` | No |
 | `radbox.org` | No |
+| `radfae.social` | No |
 | `radfoote.net` | No |
 | `radgames.space` | No |
 | `radiant.garden` | No |
@@ -36542,8 +36549,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,551 |
-| Normal | 27,948 |
+| Cloudflare | 8,554 |
+| Normal | 27,952 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
