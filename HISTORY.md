@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-21: [PBM (Paramaribo) on 2023-01-21](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/js3tmbr565gk)
 - 2023-01-20: [Cloudflare Notifications issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lxmr3n0cv13h)
 - 2023-02-02: [BOS (Boston) on 2023-02-02](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/16dq8s3s86x9)
 - 2023-01-27: [BOS (Boston) on 2023-01-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fs1hd1rzfb1w)
