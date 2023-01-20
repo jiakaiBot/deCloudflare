@@ -2884,6 +2884,7 @@ api.bnpparibas-pf.co.uk
 api.boniversum.com
 api.bvg.de
 api.dev.boom-api.nl
+api.dev01.denovo.boqdev.com.au
 api.ext-int.san.bkicloudtest.com
 api.mail.kunden.burgeins.de
 api.na01.prod.boreas.cloud
@@ -2916,6 +2917,7 @@ auth.bmwgroup.net
 auth.dev.bii-gmbh.com
 authentication.bancovillela.com
 authenticationmanager.bimco.org
+authorization.bell-update.info
 autoconfig.bmatch.cl
 autodiscover.bamin.com.br
 autodiscover.banglacoursebazar.online
@@ -2943,6 +2945,7 @@ bab-alaqar.com
 babalublog.com
 babymetalpodcast.com
 babypanda.com.co
+babyssb.shop
 backlink-paketi.com.tr
 backlink-paketleri.com.tr
 backtrack.cf
@@ -2958,6 +2961,7 @@ baghaadvocates.com
 baglikeurging.com
 bagvrk.dk
 bahanamahasiswa.co
+bahrdelivery.com
 bailall.com
 bailonushe.com
 baiturrahmancitra.sch.id
@@ -2990,6 +2994,7 @@ banhtrangthitheophucuong.vn
 bank-soal.bandikmentibatang.com
 bankano.com
 bankathqfa.com
+bankbisma.ac.id
 bankbuildgroup.com
 bankemokamel.com
 bankenveldequestriancentre.co.za
@@ -3012,6 +3017,7 @@ bankruptcylawyers-metroeast.com
 bankserc.pl
 banksiagroverealestate.com.au
 bankstonmechanical.com
+bankzakat.com
 banquet61.com
 banquetesbogota.com.co
 banrural.com.hn
@@ -3065,8 +3071,11 @@ beid.bssn.go.id
 beingraluca.com
 bekledingservice.nl
 belkadan.com
+bellatorcyber.com
+bellevue-postojna.si
 bellinternationaldelivery.com
 belluna.jp
+belmoremedical.com.au
 belsoft-collaboration.ch
 belya-market.com.ua
 bemlegalizado.com.br
@@ -3113,6 +3122,7 @@ bhere.ro
 bhpulseportal.com
 bhwwecare.com
 bibel-baptistengemeinde.ch
+biblioscout.net
 biblrac.eu
 bibodynow.com
 bicycling.se
@@ -3169,6 +3179,7 @@ billybrasov.com
 billyco.com.au
 billycup.com
 billydavenport.com
+billygomez.org
 billyhammond.com
 billylbooker.ml
 bim.mx
@@ -3205,6 +3216,7 @@ bkl-okb.ru
 bl-malerservice.dk
 blacksecurity.cl
 blackshibainu.finance
+blacksquarefeminists.bandcamp.com
 blank.com
 blattmedicalbilling.com
 blavesseguridad.com
@@ -3213,6 +3225,7 @@ blb.co.id
 bleedingcool.com
 blendle.com
 blika.com
+blinqsecurity.nl
 blissflowsystems.com
 blockchain1-wallet.com
 blockchainforcybersecurity.com
@@ -3256,6 +3269,7 @@ bm-servicedogs.com
 bmanetwork.com
 bmdglobal.org
 bmedonline.it
+bmfce.com
 bmforum.boringmoney.co.uk
 bmsmedicalsolutions.com
 bnc.ca
@@ -3286,7 +3300,9 @@ boligfritid.dk
 bolrookr.com
 bolservice.net
 boltaxiservice.com
+bombazne-posteljnine.eu
 bondowosonews.com
+bonnehumeurgenerale.xyz
 bonthronesecurity.co.uk
 bonusl0gin.com
 boogie.com.ua
@@ -3358,6 +3374,7 @@ brsf.brins.co.id
 brucefeiler.bulletin.com
 bruiloftfiets.nl
 bs-graveservice.no
+bsimobiletwo.bankbsi.co.id
 btk7pokerdom.com
 btob.services
 btpnsyariahventura.com
@@ -3403,6 +3420,7 @@ buyingbis.top
 bvfamalicao.org
 bvpl.org
 bway20coll.businessway.bnl.it
+bwillettcomics.com
 by-sfr.fr
 bybit-serviceudlejning.dk
 byd.co.jp
@@ -3428,6 +3446,7 @@ click.bcbst-email.com
 click.corp.bancofalabella.com
 click.e.budget.com
 click.email.beachbody.com
+click.email.bedbathandbeyond.com
 click.email.boxtops4education.com
 click.team.bayern-innovativ.de
 client.baturajanet.com
@@ -3507,6 +3526,7 @@ db.services.blockchain-birds.com
 de-staging-api.biletdukkani.com
 de.banggood.com
 debug.tagging.bicevida.cl
+dev-40.oasis-dev.azure.bmw.cloud
 dev-auth.brightspace.com
 dev-portal.bongtrip.com.vn
 dev.billfold-wallet.com
@@ -3525,6 +3545,7 @@ discord.bloakqr.pw
 discordbot.babyanii.de
 dlv.balsamfarms.com
 docfinder.bnpparibas-am.com
+easye.boydgroup.com
 easysms-bank1-accept.blue.pl
 easysms-main.blue.pl
 ebiz.web.sbc-sub.solution.cest.bayaasin.com
@@ -3610,6 +3631,7 @@ multimedia.arcus.cm.bloomberga.com
 my.billheap.com
 navi.bing.luxe
 navicodevb2c.b2clogin.com
+navitabs-imr-bitvoodoo.tunneling.bitvoodoo.cloud
 nbg-staff-security.builderallwppro.com
 nfplogin.bimstec.org
 nfts.blockchainblox.com
@@ -3631,6 +3653,7 @@ planblife.bni-life.co.id
 plataion56.business.site
 podium.bulletin.com
 pop.billig-ps4.dk
+portal.bancalliance.com
 portal.bizmail.su
 ppi.bankx.money
 prd-ptconnector.bosch-pt.com
@@ -3650,11 +3673,13 @@ saas2.britech.com.br
 seasidevets.blogspot.com
 secure.bmtmicro.com
 securemail.bronsonhg.org
+securemessage.bcbsil.com
 servicemania.bluserwer.pl
 services.bilista.no
 services.boeckbautrocknung.de
 servicios.bazdigital.com
 serving.bepolite.eu
+sigma-support.bpaquality.co.uk
 sitemap.blox.xyz
 sjobs.brassring.com
 sp.baystars.co.jp
@@ -3700,6 +3725,7 @@ w.behold.so
 web.book-n-drive.de
 web9512.web07.bero-webspace.de
 web9587.web07.bero-webspace.de
+web9665.web07.bero-webspace.de
 webdisk.bangkukbenk-com.shop
 webdisk.banglacoursebazar.online
 webdisk.bankrotoadvokatas.lt
@@ -3727,6 +3753,7 @@ ww-acesso-realsite-acompanhe.blogspot.com
 www.account.binamaxfx.com
 www.accountalawwa.bizbee.lk
 www.acesso.bancariosriopreto.com.br
+www.activeren.balpios.com
 www.alarm3.balts.capital
 www.ar.bankjazeera.com
 www.authentic-game.day.bejadken.site
@@ -3737,6 +3764,7 @@ www.babymallasdeseguridad.com
 www.baccredomatic.com
 www.balkannews.com.tr
 www.ballantines.ne.jp
+www.ballieballerson.com
 www.bancanacional.com.br
 www.bangkokbrain.com
 www.bangkoktrans.com
@@ -3760,6 +3788,7 @@ www.baruquedelivery.com
 www.basilcanteen.com
 www.bataviapost504.org
 www.bauser.com.br
+www.baytechnicalsupport.com
 www.bcaa.com
 www.bccsolution.co.id
 www.bcgneeds.store
@@ -3849,7 +3878,9 @@ www.billioneverltd.info
 www.billmurphy.realtor
 www.billybrasov.com
 www.billydavenport.com
+www.billygomez.org
 www.binarystarclub.com
+www.binghamtonhomepage.com
 www.biocontrol.com.co
 www.biologische-beratung.de
 www.bioversalremedies.com
@@ -3863,9 +3894,11 @@ www.blackcountryradio.co.uk
 www.blackout-paket.at
 www.blackpoolescorts.co.uk
 www.blackwhite.tv
+www.blair.com
 www.blavesseguridad.com
 www.blbfilmproductions.com
 www.blende-fotowettbewerb.de
+www.blinqsecurity.nl
 www.blocktrainer.de
 www.blogbank.vn
 www.blogfrei.de
@@ -3875,9 +3908,11 @@ www.blossombytheparks.sg
 www.bluefoodinnovation.com
 www.bluewaterstt.com
 www.boatrace.jp
+www.bobbyandersontreeservice.com
 www.bochum.de
 www.bodyrock.fi
 www.boll.ch
+www.bombazne-posteljnine.eu
 www.bonafideresearch.com
 www.boneroom.com
 www.bonkboxes.com
@@ -3953,6 +3988,7 @@ www.medbee-client.bsconsultants.us
 www.melhorkombucha.com.br.bluedogrevolution.com.br
 www.money.busineso.site
 www.motsaigon.binhminhsafety.com
+www.naveed.billspos.com
 www.necl.online.billerska.com
 www.netbank.bankjazeera.com
 www.nnapost.blangriek.desa.id
