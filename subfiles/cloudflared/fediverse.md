@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,395 |
-| social | 3,382 |
+| com | 5,396 |
+| social | 3,384 |
 | net | 2,763 |
 | org | 1,980 |
 | de | 1,858 |
@@ -3988,6 +3988,7 @@ Here's a list of public Fediverse services.
 | `bores.com` | No |
 | `borg.social` | Yes |
 | `borganism.com` | No |
+| `borgar.space` | No |
 | `borgcube.eu` | No |
 | `borgsocial.org` | No |
 | `boricua.energy` | No |
@@ -5671,6 +5672,7 @@ Here's a list of public Fediverse services.
 | `codechem.io` | Yes |
 | `codecoffin.com` | No |
 | `codeday.social` | Yes |
+| `codeflow.club` | Yes |
 | `codefor.de` | No |
 | `codegito.xyz` | No |
 | `codeine.world` | No |
@@ -6972,6 +6974,7 @@ Here's a list of public Fediverse services.
 | `darktable.org.es` | No |
 | `darktech.org` | No |
 | `darkyonmasto.ch` | No |
+| `darlow.co.uk` | No |
 | `darmstadt.social` | Yes |
 | `darn.social` | Yes |
 | `darnell.app` | No |
@@ -9577,6 +9580,7 @@ Here's a list of public Fediverse services.
 | `ezra.social` | No |
 | `ezramiguel.me` | No |
 | `ezumee.com` | No |
+| `ezytech.fr` | No |
 | `ezzz.au` | Yes |
 | `f-ckendehoelle.de` | No |
 | `f-ggots.online` | No |
@@ -9833,6 +9837,7 @@ Here's a list of public Fediverse services.
 | `fearness.org` | No |
 | `feather.city` | Yes |
 | `feather.onl` | No |
+| `feather.wiki` | No |
 | `featherless.design` | No |
 | `feathers.link` | No |
 | `featyre.xyz` | Yes |
@@ -11965,6 +11970,8 @@ Here's a list of public Fediverse services.
 | `gleisnetze.de` | No |
 | `glemza.net` | Yes |
 | `glend.me` | No |
+| `glenelg.io` | Yes |
+| `glenelg.social` | Yes |
 | `glenetive.org` | No |
 | `glennon.online` | Yes |
 | `glenparva.com` | No |
@@ -23670,6 +23677,7 @@ Here's a list of public Fediverse services.
 | `openforfuture.org` | No |
 | `openformation.io` | No |
 | `openhood.ru` | No |
+| `openinfra.dev` | Yes |
 | `openjournalism.app` | No |
 | `openlatin.org` | No |
 | `openlearning.cc` | No |
@@ -23773,6 +23781,7 @@ Here's a list of public Fediverse services.
 | `orchid-cottage.uk` | No |
 | `orctavern.pub` | No |
 | `ord.social` | No |
+| `ordchaos.top` | Yes |
 | `ordeawing.fr` | No |
 | `order-order.com` | No |
 | `order.life` | No |
@@ -24161,6 +24170,7 @@ Here's a list of public Fediverse services.
 | `padayon.net` | No |
 | `paddlefish.net` | No |
 | `paddys.pub` | No |
+| `paderborn.social` | No |
 | `padovelli.com` | No |
 | `padserver.xyz` | Yes |
 | `paepke.net` | No |
@@ -25834,6 +25844,7 @@ Here's a list of public Fediverse services.
 | `ptaah.fr` | No |
 | `ptah-alexs.info` | No |
 | `ptbo.social` | Yes |
+| `ptcl.me` | Yes |
 | `pter.it` | No |
 | `pteranodon.net` | No |
 | `ptinem.io` | No |
@@ -27351,6 +27362,7 @@ Here's a list of public Fediverse services.
 | `roobre.es` | No |
 | `roocita.com` | Yes |
 | `rookieo.com` | No |
+| `room19.com` | No |
 | `room409.xyz` | No |
 | `roommatefriendfinder.com` | No |
 | `roon.fr` | No |
@@ -28786,6 +28798,7 @@ Here's a list of public Fediverse services.
 | `shitposting.fr` | No |
 | `shitposting.network` | Yes |
 | `shitshow24.com` | No |
+| `shitter.blue` | No |
 | `shitter.me` | No |
 | `shitter.ml` | No |
 | `shitty.life` | No |
@@ -30747,6 +30760,7 @@ Here's a list of public Fediverse services.
 | `svltan.at` | No |
 | `svnet.fr` | No |
 | `svp.im` | No |
+| `svt.se` | No |
 | `svtw.online` | No |
 | `sw-development-is.social` | No |
 | `swab.dev` | Yes |
@@ -31398,6 +31412,7 @@ Here's a list of public Fediverse services.
 | `teleassist.fr` | No |
 | `telefant.net` | No |
 | `telefreizeit.de` | No |
+| `telegrafverket.cc` | Yes |
 | `telekomunikace.cz` | No |
 | `telemetrydeck.com` | No |
 | `telemillevaches.net` | No |
@@ -36558,8 +36573,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,560 |
-| Normal | 27,955 |
+| Cloudflare | 8,567 |
+| Normal | 27,963 |
 
 
-### 23.4% of public Fediverse services are using Cloudflare.
+### 23.5% of public Fediverse services are using Cloudflare.
