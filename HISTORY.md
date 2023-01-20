@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-02-02: [BOS (Boston) on 2023-02-02](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/16dq8s3s86x9)
+- 2023-01-27: [BOS (Boston) on 2023-01-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fs1hd1rzfb1w)
 - 2023-01-20: [MIA (Miami) on 2023-01-20](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qyz7zf3sm2w9)
 - 2023-01-19: [Responses proxied by Cloudflare truncated](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/b11v23y52j89)
 - 2023-01-19: [Website visitors could not pass challenges in Bangalore, Fuzhou, Houston, Lisbon and Salt Lake City](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7gxwrmxd5nvh)
