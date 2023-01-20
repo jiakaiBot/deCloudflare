@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,394 |
-| social | 3,378 |
+| social | 3,379 |
 | net | 2,763 |
 | org | 1,980 |
 | de | 1,858 |
@@ -20395,6 +20395,7 @@ Here's a list of public Fediverse services.
 | `minorthoughts.com` | No |
 | `minovsky.space` | No |
 | `mint-n-er.de` | No |
+| `mint-nrw.social` | No |
 | `mint.lgbt` | No |
 | `minter.uno` | No |
 | `minuit.xyz` | No |
@@ -36552,7 +36553,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,555 |
-| Normal | 27,953 |
+| Normal | 27,954 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
