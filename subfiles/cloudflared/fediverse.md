@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,396 |
-| social | 3,384 |
-| net | 2,763 |
+| com | 5,399 |
+| social | 3,387 |
+| net | 2,764 |
 | org | 1,980 |
 | de | 1,858 |
 
@@ -2078,6 +2078,7 @@ Here's a list of public Fediverse services.
 | `arnep.de` | No |
 | `arnesocial.de` | No |
 | `arnip.org` | No |
+| `arnoldhoogerwerf.nl` | No |
 | `arns.lt` | No |
 | `aroace.lgbt` | No |
 | `aroace.space` | No |
@@ -2437,6 +2438,7 @@ Here's a list of public Fediverse services.
 | `aus.lgbt` | Yes |
 | `aus.party` | No |
 | `aus.social` | Yes |
+| `ausdroid.net` | Yes |
 | `ausfin.tech` | No |
 | `ausglam.space` | No |
 | `ausmed.social` | No |
@@ -2896,6 +2898,7 @@ Here's a list of public Fediverse services.
 | `barrio.zone` | No |
 | `barriohacker.net` | No |
 | `barrir.ca` | No |
+| `barrow.social` | No |
 | `barrucadu.co.uk` | No |
 | `barry-moore-ii.com` | No |
 | `barrygrahamauthor.site` | No |
@@ -3052,6 +3055,7 @@ Here's a list of public Fediverse services.
 | `beck.technology` | No |
 | `beckend.tk` | No |
 | `becker-mayer.com` | No |
+| `becker.pizza` | No |
 | `becker.soy` | No |
 | `becking.saarland` | No |
 | `beckmeyer.us` | No |
@@ -6933,6 +6937,7 @@ Here's a list of public Fediverse services.
 | `dardan.com` | No |
 | `dardan.im` | No |
 | `dareme.org` | No |
+| `dareuc.com` | No |
 | `darfweb.eu` | No |
 | `dariabloodworth.ca` | No |
 | `dariox.club` | Yes |
@@ -15651,6 +15656,7 @@ Here's a list of public Fediverse services.
 | `juso.social` | No |
 | `jussak.net` | No |
 | `just-one-more.club` | Yes |
+| `just4fun.social` | No |
 | `justabit.social` | No |
 | `justafellow.com` | No |
 | `justandras.com` | Yes |
@@ -20936,6 +20942,7 @@ Here's a list of public Fediverse services.
 | `morgn.net` | No |
 | `morgurth.com` | No |
 | `morichan.site` | No |
+| `morikapu.com` | Yes |
 | `morikka.me` | No |
 | `moritoworks.com` | Yes |
 | `moritrunk.com` | Yes |
@@ -23202,6 +23209,7 @@ Here's a list of public Fediverse services.
 | `o-nature-culture.net` | No |
 | `o-u-t-e-r.space` | No |
 | `o0i.es` | No |
+| `o0o.social` | No |
 | `o1li.net` | No |
 | `o2h.club` | No |
 | `o2l.ie` | Yes |
@@ -23330,6 +23338,7 @@ Here's a list of public Fediverse services.
 | `oeru.org` | No |
 | `oesterreich.social` | No |
 | `oevents.co.za` | No |
+| `ofadam.com` | No |
 | `ofans.site` | Yes |
 | `ofbajor.com` | Yes |
 | `off-investigation.fr` | Yes |
@@ -36573,8 +36582,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,567 |
-| Normal | 27,963 |
+| Cloudflare | 8,569 |
+| Normal | 27,970 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
