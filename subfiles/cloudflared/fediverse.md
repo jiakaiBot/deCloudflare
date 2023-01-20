@@ -11885,6 +11885,7 @@ Here's a list of public Fediverse services.
 | `gingadon.com` | Yes |
 | `ginju.de` | No |
 | `ginny.chat` | No |
+| `ginpatu.moe` | Yes |
 | `giobu.cyou` | Yes |
 | `gioia.cloud` | No |
 | `gioia.social` | No |
@@ -24486,7 +24487,7 @@ Here's a list of public Fediverse services.
 | `peertube-blablalinux.be` | No |
 | `peertube-host.de` | No |
 | `peertube.art` | No |
-| `peertube.at` | Yes |
+| `peertube.at` | No |
 | `peertube.bike` | No |
 | `peertube.biz` | No |
 | `peertube.cat` | No |
@@ -36551,7 +36552,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,555 |
-| Normal | 27,952 |
+| Normal | 27,953 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
