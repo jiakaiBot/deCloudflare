@@ -22855,6 +22855,7 @@ Here's a list of public Fediverse services.
 | `nospy.net` | No |
 | `nostalghia.xyz` | Yes |
 | `nostream.stream` | No |
+| `not-a.top` | No |
 | `not-enough.space` | No |
 | `not-in.de` | No |
 | `not-ok.computer` | No |
@@ -36542,7 +36543,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,551 |
-| Normal | 27,947 |
+| Normal | 27,948 |
 
 
 ### 23.4% of public Fediverse services are using Cloudflare.
