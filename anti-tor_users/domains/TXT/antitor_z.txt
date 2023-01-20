@@ -300,8 +300,10 @@ zustmarketing.com
 acceptatie-client.zorgplatform.online
 amazon-dzfcdsft.zyns.com
 amazon-zaswq.zyns.com
+api-dev.zt-ft.com
 api-sprint.zlip2x.com
 api.zodomus.com
+api.zt-ft.com
 api.zurich.de
 ares.zixcentral.com
 assessments.zfco.com
@@ -328,6 +330,8 @@ git.gitlab.git.gitlab.git.accounting.zenicolor.com
 gitlab.git.blog.demo.staging.zurvitavirtual.com
 idp.saas.zeb-it.de
 img01.ztat.net
+itau-ips-backoffice-frontend.itau-cartoes.zup.com.br
+jp.zaloapp.com
 live-streaming.zegna.cn
 login.zeeshankalwar.info
 login.ziraatbankanturkey.com
@@ -337,6 +341,7 @@ mastodon.zaclys.com
 media.zybeksports.com
 newstore.ziondelivery.app.br
 opns.zvcloud.de
+otpportal.zao-agrokomplex.ru
 ott.zapitv.com
 paketbersihcepat.zonawanita.com
 pay.zivameshapewear.com
@@ -344,6 +349,7 @@ paypal.com.zd-league.com
 perr.zspeed-cdn.com
 raad.staging.zutphen.nl
 realwavecore-public-saas.gateway.zup.me
+sa6-csgo.zebedee.studio
 secure-paypal-access-login-confirm-account.zmgconsulting.co.za
 service-line-messaging.zipzoft.online
 speechmatics-portal-design-update.znn.app
@@ -355,6 +361,7 @@ test.services.zvjezdanparavac.de
 ticket.zeromiles.co.il
 uat.service.payroll.zenyohr.com
 update.zestydigital.co.uk
+us9-csgo.zebedee.studio
 user.zgem.org
 web.zensys.app.br
 www.accountabuddy.zeromedia.com.au
