@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,403 |
-| social | 3,396 |
-| net | 2,770 |
+| com | 5,404 |
+| social | 3,398 |
+| net | 2,771 |
 | org | 1,982 |
-| de | 1,861 |
+| de | 1,863 |
 
 
 - Mastodon, Pleroma, etc
@@ -1353,6 +1353,7 @@ Here's a list of public Fediverse services.
 | `alpharius.io` | No |
 | `alphasoft.org` | No |
 | `alphasupport.xyz` | Yes |
+| `alphathiel.de` | No |
 | `alphaville.club` | No |
 | `alphawaveradio.co.uk` | No |
 | `alphawuff.com` | No |
@@ -6149,7 +6150,7 @@ Here's a list of public Fediverse services.
 | `coywolf.social` | Yes |
 | `coza.cloud` | No |
 | `cozymech.com` | No |
-| `cozysumo.space` | No |
+| `cozysumo.space` | Yes |
 | `cozytronics.com` | No |
 | `cplus8.com` | Yes |
 | `cpluspatch.com` | Yes |
@@ -16501,6 +16502,7 @@ Here's a list of public Fediverse services.
 | `knowfeeldo.xyz` | Yes |
 | `knowingart.com` | No |
 | `knowltonwx.com` | Yes |
+| `knowscore.de` | No |
 | `knowsima.dog` | Yes |
 | `knoxodon.com` | No |
 | `knoyism.net` | No |
@@ -18457,6 +18459,7 @@ Here's a list of public Fediverse services.
 | `lyo.social` | No |
 | `lyoko.social` | No |
 | `lyokotech.com` | No |
+| `lyokoweb.net` | No |
 | `lyonbros.com` | Yes |
 | `lyonsinbeta.com` | No |
 | `lyrae.us` | Yes |
@@ -21550,6 +21553,7 @@ Here's a list of public Fediverse services.
 | `mxks.dj` | No |
 | `mxmaxime.ovh` | No |
 | `mxmla.de` | No |
+| `mxrlkn.com` | Yes |
 | `mxsglobal.com` | No |
 | `mxstbr.com` | Yes |
 | `mxtthxw.art` | No |
@@ -34424,6 +34428,7 @@ Here's a list of public Fediverse services.
 | `vost.pt` | Yes |
 | `vostain.net` | No |
 | `voterintegrity.today` | No |
+| `votho.social` | No |
 | `vov.camp` | No |
 | `vovard.net` | No |
 | `voxcry.pt` | No |
@@ -34980,6 +34985,7 @@ Here's a list of public Fediverse services.
 | `whispr.social` | Yes |
 | `whitakernet.com` | No |
 | `white-void.net` | No |
+| `whitecoat.social` | No |
 | `whitedissidenttv.com` | No |
 | `whitehead-smith.com` | Yes |
 | `whitelion.me` | No |
@@ -36623,8 +36629,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,582 |
-| Normal | 27,998 |
+| Cloudflare | 8,584 |
+| Normal | 28,002 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
