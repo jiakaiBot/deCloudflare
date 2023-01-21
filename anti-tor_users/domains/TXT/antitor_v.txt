@@ -1243,6 +1243,7 @@ applicationsqas.venture.com.sg
 apurav2007-gmailcom.vercel.app
 ask-staging.va.gov
 assessoriagoogleads.vkron.adv.br
+athenaeum.vt.domains
 auth.vinci.net
 auth.voguishcapital.com
 authentik.valcube.de
@@ -1356,6 +1357,7 @@ helpdesk.villagehelpdesk.com
 helpdesk.virginactive.com.sg
 helpdesk.vlsiexpert.in
 hunter.vercel.app
+hunter33ru.vercel.app
 huntercallaway.vercel.app
 hunterraffety.vercel.app
 hunterweii.vercel.app
@@ -1458,6 +1460,7 @@ short.lit.vodafone.pt
 shubhamnitj-gmailcom.vercel.app
 sms.vodafone.pt
 sprint.vismaraet.nl
+ssvha.veosvending.com
 staging.vexonsecurity.nl
 staging.vvs-regnskap.no
 startblox.vercel.app
@@ -1479,6 +1482,7 @@ thesigmarilion-gmailcom.vercel.app
 ticketshop.vor.at
 tiemporealcorreo-gmailcom.vercel.app
 tmed.vit-bund.de
+tqms.vocalinkon.com
 tracking3.vnncdn.net
 twilio.engage.kgblaw.voyagernetz.us
 tymczasowy.vh.pl
@@ -1531,6 +1535,7 @@ vaytiennganhang.net
 vbec.nl
 vcbdigibbaink.viettcoimbank.com
 vcdl.org
+vcme387834ieiohlk8628709i89429e290.ewr1.vultrobjects.com
 veebox.co.uk
 vegane-jobs.de
 veggiebank.in
@@ -1546,6 +1551,7 @@ vergaarbak.eu
 verifameli.fr
 verificare-gaze.ro
 verificaregaze.ro
+verification-coupons.com
 verify-activity-id.com
 verifyid.id
 verifynfcu.com
@@ -1638,6 +1644,7 @@ vuelodequimera.com.ar
 vulgamag.ca
 vulgartaivert.website
 vwin88.ltd
+vwtransporterberles.hu
 webdisk.vanguardchurch.info
 webdisk.venomkimya.com.tr
 webdisk.vietnamroblox.com
@@ -1662,6 +1669,7 @@ www.equitybank-secure-customer.verification.onl
 www.git.git.gitlab.git.sslvpn.vpkver.ru
 www.git.gitlab.i.vashsad37.ru
 www.gitlab.g.sitemap.vkgo.info
+www.gitlab.git.gitlab.ninja.v9ky.info
 www.idnpoker95.com.viajarfacil.info
 www.kundeweb2.voxe.no
 www.marathatransportservice.com.vividindiatour.com
@@ -1686,7 +1694,6 @@ www.vanhornansweringservice.com
 www.vasculardiseasemanagement.com
 www.vca-koeln.de
 www.vdoncasterescorts.co.uk
-www.vegane-fleischerei.de
 www.veganplantbasedhealth.com
 www.veganzetta.org
 www.verify.vcot.lk
@@ -1716,6 +1723,7 @@ www.vogons.org
 www.volcanocafe.org
 www.voltcoinwallet.co.uk
 www.voorafbetalen.nl
+www.vote.pa.gov
 www.vous.academy
 www.whatsapp.vaidelivery.com
 www.workdex.viewerpost.com
