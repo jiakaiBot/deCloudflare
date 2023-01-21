@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,405 |
+| com | 5,408 |
 | social | 3,400 |
 | net | 2,772 |
 | org | 1,982 |
@@ -1032,6 +1032,7 @@ Here's a list of public Fediverse services.
 | `agwa.name` | No |
 | `ahabitual.dev` | No |
 | `ahaldorsen.no` | No |
+| `ahem.ca` | No |
 | `ahhhhhh.social` | No |
 | `ahlers.space` | No |
 | `ahlers.xyz` | No |
@@ -1516,6 +1517,7 @@ Here's a list of public Fediverse services.
 | `amplifie.red` | No |
 | `amplifyukraine.eu` | Yes |
 | `amrhein.social` | No |
+| `ams.su` | Yes |
 | `amsterdam.nl` | Yes |
 | `amsterdon.nl` | No |
 | `amum.al` | Yes |
@@ -14828,6 +14830,7 @@ Here's a list of public Fediverse services.
 | `itmgitmo.com` | No |
 | `itmslaves.com` | Yes |
 | `ito.com` | No |
+| `itools.jp` | No |
 | `itp.io` | No |
 | `itprotalk.social` | Yes |
 | `itram.es` | Yes |
@@ -18084,8 +18087,8 @@ Here's a list of public Fediverse services.
 | `lolisandstuff.moe` | No |
 | `lolison.network` | No |
 | `lolison.top` | No |
-| `loliverse.xyz` | Yes |
-| `loliwife.xyz` | Yes |
+| `loliverse.xyz` | No |
+| `loliwife.xyz` | No |
 | `lollipopcloud.solutions` | Yes |
 | `lollygaggers.uk` | No |
 | `lolpix.org` | Yes |
@@ -19491,6 +19494,7 @@ Here's a list of public Fediverse services.
 | `mastodonte.tech` | Yes |
 | `mastodontech.de` | No |
 | `mastodonten.de` | No |
+| `mastodonter.se` | No |
 | `mastodontest.ga` | No |
 | `mastodontests.com` | No |
 | `mastodonti.co` | Yes |
@@ -20202,6 +20206,7 @@ Here's a list of public Fediverse services.
 | `micah.social` | No |
 | `micca.xyz` | No |
 | `micha.priv.at` | No |
+| `michae.lv` | Yes |
 | `michael-anders.net` | No |
 | `michael-webber.com` | No |
 | `michaelbishop.me` | No |
@@ -21499,7 +21504,6 @@ Here's a list of public Fediverse services.
 | `musing.studio` | No |
 | `musingsofanaspie.com` | No |
 | `musiq.fan` | Yes |
-| `musk.sucks` | No |
 | `muskless.social` | No |
 | `muskodon.ml` | No |
 | `muskodon.social` | Yes |
@@ -21876,6 +21880,7 @@ Here's a list of public Fediverse services.
 | `narf.social` | No |
 | `narikiri.club` | No |
 | `narinimous.fr` | No |
+| `narrativ.es` | No |
 | `narrativerry.xyz` | No |
 | `narratosis.com` | No |
 | `narravista.blog.br` | No |
@@ -23511,6 +23516,7 @@ Here's a list of public Fediverse services.
 | `olfsoftware.fr` | No |
 | `olifant.fi` | No |
 | `olifantje.net` | No |
+| `oliinyk.com` | No |
 | `olimaia.net` | No |
 | `olio.lol` | Yes |
 | `oliphant.social` | No |
@@ -25141,6 +25147,7 @@ Here's a list of public Fediverse services.
 | `planeteers.social` | No |
 | `planetfifty.one` | Yes |
 | `planetly.social` | No |
+| `planetxo.com` | No |
 | `plank.ga` | No |
 | `plank.town` | No |
 | `plankton.cz` | No |
@@ -34826,6 +34833,7 @@ Here's a list of public Fediverse services.
 | `weebs.moe` | No |
 | `weebsite.net` | No |
 | `weebvr.com` | No |
+| `weebyte.com` | Yes |
 | `weedfediverse.de` | No |
 | `weedis.life` | Yes |
 | `weedsoft.xyz` | No |
@@ -36642,8 +36650,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,588 |
-| Normal | 28,011 |
+| Cloudflare | 8,589 |
+| Normal | 28,018 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
