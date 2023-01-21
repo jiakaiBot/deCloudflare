@@ -19855,6 +19855,7 @@ Here's a list of public Fediverse services.
 | `medium.social` | Yes |
 | `mediverse.social` | No |
 | `medjed.com` | No |
+| `medlab.host` | No |
 | `medlibre.fr` | No |
 | `medmastodon.social` | No |
 | `medsos.web.id` | No |
@@ -29346,6 +29347,7 @@ Here's a list of public Fediverse services.
 | `sm-mstdn.com` | No |
 | `smaier.net` | Yes |
 | `small-home.group` | No |
+| `small-pieces.au` | No |
 | `small-web.org` | No |
 | `smallbooks.com.tw` | No |
 | `smallcamp.art` | No |
@@ -36630,7 +36632,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,584 |
-| Normal | 28,002 |
+| Normal | 28,004 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
