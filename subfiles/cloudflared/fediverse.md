@@ -15777,6 +15777,7 @@ Here's a list of public Fediverse services.
 | `kaczynski.scot` | No |
 | `kadokawadon.jp` | No |
 | `kadono.moe` | No |
+| `kaeablog.pl` | No |
 | `kaede.ch` | Yes |
 | `kaede.im` | Yes |
 | `kaelig.ovh` | No |
@@ -36634,7 +36635,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,584 |
-| Normal | 28,006 |
+| Normal | 28,007 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
