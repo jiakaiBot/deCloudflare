@@ -349,6 +349,7 @@ paypal.com.zd-league.com
 perr.zspeed-cdn.com
 raad.staging.zutphen.nl
 realwavecore-public-saas.gateway.zup.me
+sa3-csgo.zebedee.studio
 sa6-csgo.zebedee.studio
 secure-paypal-access-login-confirm-account.zmgconsulting.co.za
 service-line-messaging.zipzoft.online
@@ -426,12 +427,14 @@ zenontreeservice.com
 zenva.pk
 zernyatko.in.ua
 zeusconta.ro
+zeuth.dk
 zhej78i1an8w6ceu.com
 zinichi.net
 zionsgemein.de
 zit.academy
 zjazdordynatorow.pl
 zmaildirect.com
+zmcurrency.com
 znsrc.com
 zoagremo.net
 zodiacappzu.mpm.zodiac-cloud.com
