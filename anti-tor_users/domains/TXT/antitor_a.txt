@@ -2527,7 +2527,6 @@ ad-lab.org
 adadminapi.afreecatv.com
 adafinanzas.com
 adambindslev.dk
-adamspestcontrol.ca
 adeqnic.com
 aderircoletafull.online
 adfs.apac-bridgestone.com
@@ -2888,7 +2887,6 @@ appavalle.com
 apple-oranges.net
 apple.com.ht
 apple.com.nf
-applecreekwinery.com
 appleid-alerts-findmy.us
 appleid-maps-findmy.us
 appleid.com.am
@@ -3086,7 +3084,6 @@ authoritymediapros.com
 authorized-spectrum.com
 authorizedcommercial.com
 authorizek.com
-authorkarinahalle.com
 authorliadavis.com
 authormanojsoni.com
 authormeconnellybooks.com
@@ -4649,6 +4646,7 @@ aarongiles.com
 abadauedois.fun
 abaditourtravel.id
 abangbersihin.id
+abc-barber.ch
 abc3340.com
 abc6onyourside.com
 abc7chicago-com.cdn.ampproject.org
@@ -4666,6 +4664,7 @@ abstractdevelopments.com
 abtz-quantum-test.avantgardportal.com
 ac-cdn.azureedge.net
 ac-service.ro
+aca.edu.my
 academex.net
 academeyat.com
 academia365.net
@@ -4700,7 +4699,6 @@ academycleaning.com
 academycontracts.co.uk
 academydtek.com
 academyfaceandbody.com.au
-academyforall.club
 academyforbusinesscredit.com
 academygoogle.com
 academygorilla.com
@@ -4734,9 +4732,11 @@ accel365.lt.acemlnb.com
 acceleravendas.com
 accesible.opina.alfafar.com
 accesorii-copii.ro
+accesoriicoafor.ro
 accesoriigsm1.ro
 accesoriimirese.ro
 accesoriipentrumasini.ro
+accesoriosparalosparrilleros.cl
 accesorizam.ro
 accesorizat.ro
 accesosenlineapromericagt.vip
@@ -4805,6 +4805,7 @@ activerent.hr
 activergo.fi
 actividadesenlinea.com
 activision.com
+activiteitenradar.nl
 activities03sec.online
 activitypicker.me
 activityratio.com
@@ -4839,6 +4840,7 @@ adobeint-mid-prod13-t.adobe-campaign.com
 adobeint-mid-prod9-m.adobe-campaign.com
 adonrp.com
 adopteunelivraison.fr
+adorabletoad.tk
 adpatrof.com
 adrunnr.com
 advancedwindowcleaners.bdigitau.a2hosted.com
@@ -4848,6 +4850,7 @@ adventurize.lt.acemlnb.com
 adveroproperties.com
 advertising-cdn.com
 advicecredit89.com
+advmoto.ca
 advsci.maps.arcgis.com
 aed-kfc.top
 aegaming.tv
@@ -4858,6 +4861,7 @@ aeroportultransilvania.ro
 aeropostale.com.co
 aerorubber.com
 aet.com.ua
+afamiglietti.org
 afetoclimatizacao.com.br
 affix.artedigital.rio
 affordablehousingaction.org
@@ -4999,6 +5003,7 @@ alexandriavatreeservice.com
 alexfairbank.ml
 alfad.pro
 alfatvuutiset.fi
+aliahelal.com
 aliancaevangelica.pt
 alianzas-de-titanio.com
 alilatln.aliaxis-la.com
@@ -5019,6 +5024,7 @@ allons-y-pyrenees.fr
 allreadyexist.ca
 allure-escort.com
 allurefashion.net
+allweathercontractors.com
 allycf.com
 almadoc.almaviacx.com
 almultiservice.dk
@@ -5037,6 +5043,7 @@ altmuligservice.no
 altppe.net
 altynamoan.com
 alulimprowess.com
+alvinus.art
 alwaysher.me
 alysson.de
 am.acblnk.com
@@ -5058,6 +5065,7 @@ amazonprime23.com
 amazonproduct.shop
 amazonprozone.com
 amazonsteer.com
+amazontopfinds.com
 amazonzohar.com.agenciavirtu.com.br
 ambaguinee.org
 ambicaphotos.co.in
@@ -5099,6 +5107,7 @@ angelicfitness.in
 anglican.ink
 ani-chat.net
 animalabuser.co.nz
+animationdigitalnetwork.fr
 anishgiriofficial.com
 anitha.tech
 ankaraopl.com
@@ -5127,6 +5136,7 @@ antoannamviet.com
 antoninoiacona.it
 anwarululoom.in
 anws.co
+anxietygem.co.uk
 anydesk-for-desktop.com
 anytimesecurity.nl
 anytxt.net
@@ -5149,6 +5159,7 @@ api-test.archivagroup.it
 api.aadrm.com
 api.adduprewards.com
 api.adecco.com
+api.advise.com.br
 api.agexpert.ca
 api.alohaorderonline.com
 api.amedigital.com
@@ -5204,12 +5215,14 @@ appie-login.info
 appieaccount-login.info
 appk.alertcstomerportsrcvis.com
 apple-mac-repair.eu
+apple-tracking-id.a2d.tv
 applegateestates.co.uk
 appleiphone14promax.com
 applemacsupport.eu
 applesoda.jp
 applevents.com
 apps-chrd.auctionsolutions.com
+apps-gemini-account.website
 apps00901.hosting.across.net
 appwallet-reauth.com
 appweb.afphabitat.com.pe
@@ -5301,6 +5314,7 @@ attorneylawcenter.com
 attrapincha.com
 atuweb.info
 atvactivity.ro
+au-acc-myauth.online
 auburnrehab.com
 audaxservice.it
 audiencr-agency-dot-yamm-track.appspot.com
@@ -5315,6 +5329,7 @@ australiareads.org.au
 auth-heimdall-lonn-demo.aditrocloud.com
 auth-mygovtto.info
 auth.acm-e.com
+auth.aggronet.de
 auth.barsoom.ausunit.com
 auth.h.axute.tech
 auth.vpn.amspec.group
@@ -5359,9 +5374,12 @@ avarnsecurity.adrepublic.se
 avdb.aerops.com
 aveni.net
 aviainfo.site
+avibol.com
 avisoleggio.it
 avisovip.store
 avokadoajasitruunaa.fi
+avscsupport.com
+aws-startup-lofts.com
 awstaticdn.net
 ax-prod-webservices.area.cab
 axatravelinsurance.com
@@ -5371,6 +5389,7 @@ axonflow.net
 ay5u9w4jjc.com
 ayahucapasso.website
 ayambrand.co.id
+az-sy-pcodp-synapse-prod.sql.azuresynapse.net
 azartgambler.com
 azazlon.com
 azjewishlife.com
@@ -5389,9 +5408,12 @@ boingboing-net.cdn.ampproject.org
 bpmoney.agenciartm.com.br
 branch.axisbank.com
 brhypermais.lt.acemlna.com
+brownswitoutreachio-dot-mmevents.appspot.com
 brownswitoutreachio-dot-mmmetrics.appspot.com
 bs-custui-pp.aditrocloud.com
 bs-custui.aditrocloud.com
+bs-pp-int.aditrocloud.com
+bs-pp.aditrocloud.com
 bs-tenantui-pp.aditrocloud.com
 bsc-pp.aditrocloud.com
 buggy-app.azurewebsites.net
@@ -5419,6 +5441,7 @@ clientdashboard.pr-40030.anchorage-development.com
 cliente.artsyssolucoes.com.br
 clienteslatam.asciende.pe
 clones.aquihaydominios.com
+comengotest.aditrocloud.com
 connect-pp-service.aditrocloud.com
 conoscereilmondo.lt.acemlnc.com
 contamoti.avcanido.org
@@ -5494,15 +5517,19 @@ f6ptj.app.link
 facebook.asesorcge.com
 fasttrack14964.lt.acemlnb.com
 fc2-laxd.adult-delivery.com
+feageafeagheagea.azurewebsites.net
 feature-33.pmi.redesign-storybook.ci.nyc1.awkbit.com
 federation.aditrocloud.com
 fedi.astrologer.cc
 fedidp.airfrance.fr
+fgcipf0y.r.us-east-1.awstrack.me
 fin2030617.aditrocloud.com
 fin2188521.aditrocloud.com
+fin2228740.aditrocloud.com
 financesdemystified825.lt.acemlnc.com
 financewaper16840.lt.acemlnb.com
 finesa.adminfo.net
+flamingoallservice.se.zhorik.a2hosted.com
 flourish.ariannasicuro.it
 flow-apim-europe-001-northeurope-01.azure-apim.net
 flow-apim-europe-002-northeurope-01.azure-apim.net
@@ -5513,6 +5540,7 @@ fser.aulss5.veneto.it
 fw.aivo.ee
 g7-cap-frontend.aditrocloud.com
 g7-prod-authentication.aditrocloud.com
+g7-prod-backend.aditrocloud.com
 g7-prod-frontend.aditrocloud.com
 gateway.abc-cooking.studio
 gatherdmc.lt.acemlnb.com
@@ -5554,12 +5582,14 @@ gitlab.share.accvk.shop
 gitlab.smtpauth.amall.com.hk
 gitlab.staging-api.atvtraders.com
 gk31v33.r.us-west-2.awstrack.me
+globalfed.acosta.com
 globalfundmedia13726.lt.acemlnc.com
 gofruct.aeqobank.com
 golf.auxilium.nl
 governmentofbc.maps.arcgis.com
 gradosdeti.acblnk.com
 greenet.app.link
+gruppo-intesa-sanpaolo-addministrativo.authorizeddns.us
 gtm-nbhj6b3-otu1n.uc.r.appspot.com
 gygoy.app.link
 halo-prov-ring.amazon.com
@@ -5572,6 +5602,7 @@ heli2qa.aditrocloud.com
 heli2upg.aditrocloud.com
 helpdesk.arn.com.au
 helpdesk.awakendnation.com
+helploginamaz00.authorizeddns.net
 homolog3-consignet-legacy.app-csg.com.br
 hotelpraterstern.users.aboliton.at
 hr.aditrocloud.com
@@ -5587,13 +5618,16 @@ inloggen.aandestamtafel.nl
 insight.adsrvr.org
 internationaljustice.apms5.com
 internetbanking-intesasanpaolobank.authorizeddns.net
+intient-product-test.apigee.net
 ip260027942.ahcdn.com
 ironmountain-dot-yamm-track.appspot.com
 ixonostravel.aditrocloud.com
 j5lnd.app.link
+jbi-interiors-dot-sharepointpdf-367707.uk.r.appspot.com
 jhlxo.app.link
 jjbnb.alison-design.com
 join.arbeitsagentur.de
+jq1z2.app.link
 kateyang9682-dot-yamm-track.appspot.com
 khanaraib.lt.acemlnd.com
 knauer-stage.apprunner.info
@@ -5690,9 +5724,11 @@ nuevo.accesoalejandromeza.com
 nutrillermo.lt.acemlnb.com
 oauth.agoralab.co
 octomedia.lt.acemlnb.com
+officer.alittlebit-ofeach.online
 oliviaccolemailswitoutreachio-dot-mmmetrics.appspot.com
 oliviaicolemailswitoutreachio-dot-mmmetrics.appspot.com
 onlinecommunity.authentiekeondernemers.be
+osticketcrs.tst.abreu.pt
 osugisci.maps.arcgis.com
 pa5c5.app.link
 packages.arfservices.com
@@ -5788,6 +5824,7 @@ support.akirolabs.com
 support.aurocreativestudio.com
 support.billing-update.asboqiw.com
 svc-kuki.a1m.cz
+swe2000429forecast.aditrocloud.com
 swe2000437testforecast.aditrocloud.com
 swe2000523lweb.aditrocloud.com
 swe2000761lweb.aditrocloud.com
@@ -5796,6 +5833,7 @@ swe2000791lweb.aditrocloud.com
 swe2000791test.aditrocloud.com
 swe2000883lweb.aditrocloud.com
 swe2000883testlweb.aditrocloud.com
+swe2000893lweb.aditrocloud.com
 swe2000909lweb.aditrocloud.com
 swe2001011test3.aditrocloud.com
 swe2001011test3lweb.aditrocloud.com
@@ -5812,6 +5850,7 @@ swe2001367testlweb.aditrocloud.com
 swe2001409lweb.aditrocloud.com
 swe2001409testforecast.aditrocloud.com
 swe2001409testlweb.aditrocloud.com
+swe201069testlweb.aditrocloud.com
 swe2071137lweb.aditrocloud.com
 swe2071137testforecast.aditrocloud.com
 swe2076436test.aditrocloud.com
@@ -5828,9 +5867,11 @@ swe2107044lweb.aditrocloud.com
 swe2107305lweb.aditrocloud.com
 swe2110149lweb.aditrocloud.com
 swe2121806lweb.aditrocloud.com
+swe2121933lweb.aditrocloud.com
 swe2129932lweb.aditrocloud.com
 swe2129932testlweb.aditrocloud.com
 swe2132024lweb.aditrocloud.com
+swe2132327lweb.aditrocloud.com
 swe2132327testlweb.aditrocloud.com
 swe2134073testlweb.aditrocloud.com
 swe2134457lweb.aditrocloud.com
@@ -5844,6 +5885,7 @@ swe2153836lweb.aditrocloud.com
 swe2174878lweb.aditrocloud.com
 swe2176574timecare.aditrocloud.com
 swe2176818forecast.aditrocloud.com
+swe2206004lweb.aditrocloud.com
 swe2212793lweb.aditrocloud.com
 swe2221261lweb.aditrocloud.com
 swe2231951testlweb.aditrocloud.com
@@ -5857,6 +5899,7 @@ swfeathersgmailcom-dot-mm-event.appspot.com
 synthesized-dot-yamm-track.appspot.com
 t3t.audatis-services.de
 tastemade-tastemadeinternational-brightcove-cnf7i.amagi.tv
+tcwww.aditrocloud.com
 tecajnica.addiko.si
 test.amavalis.at
 test.artsecurity.ro
@@ -5868,6 +5911,7 @@ testvision-53.api.algebrakit.com
 tfconnect.axisbank.co.in
 th.archienitro.com
 theonegroup.lt.acemlnd.com
+threatfox-api.abuse.ch
 ticket.asta-kassel.de
 ticket.athonetusa.com
 ticketing-amm.asankadigital.online
@@ -5905,6 +5949,7 @@ voipmonitor-support-production-us1.avoxi.io
 vonage-dot-yamm-track.appspot.com
 vs.aws.amazon.com
 w-aze-preprod-svc.aditrocloud.com
+w-svc.aditro.com
 wantedlysg.lt.acemlnc.com
 wearealight1857.lt.acemlnc.com
 webclaim.admedika.co.id
@@ -5975,9 +6020,11 @@ www.academiamhf.com
 www.academyaarhus.dk
 www.academyebikes.com
 www.academyfarfa.com
+www.academyos.com
 www.academytaichi.co.uk
 www.academytechchurch.com
 www.accakappa.jp
+www.accesoriicoafor.accesoriifrizerie.ro
 www.accessible-it.com
 www.account-ed.com
 www.accountantskantoorspijk.nl
@@ -5991,9 +6038,11 @@ www.acn.cat
 www.acn.gov.it
 www.acornsales.com
 www.acreditebank.com.br
+www.activate-mc.afee.me
 www.activatedmindset.co.uk
 www.activatetocaptivate.com
 www.activerens.com
+www.activeresistance.org.uk
 www.activityratio.com
 www.acuteblog.com
 www.adambstreeservice.com
@@ -6017,6 +6066,7 @@ www.aeroportultransilvania.ro
 www.afgupdate.com
 www.agasol.gal
 www.agenciamarkepost.com
+www.agnesherczeg.com
 www.agriaffaires.com
 www.aguilascleaningservice.com
 www.aguopenletter.com
@@ -6026,6 +6076,7 @@ www.aims.gov.au
 www.airbnb.com.pe
 www.airbnb.com.vn
 www.airbnb.fr
+www.airforce.gov.au
 www.airportcluj.ro
 www.aisletile.com
 www.aivali.gr
@@ -6042,6 +6093,7 @@ www.alcyon-services.fr
 www.alertesgroup.com
 www.alexandermcqueen.com
 www.alexandrawriters.org
+www.alfintechcomputer.com
 www.algarvelongterms.com
 www.all-bill.online
 www.allen-allen.com
@@ -6095,6 +6147,7 @@ www.apoyosdemexico.site
 www.apple-tutoring.com
 www.appleton-nail-nurse.com
 www.apppanel.attabookbank.com
+www.apprendre-en-ligne.net
 www.approvedcryptoatcbitcioninvestment.com
 www.apses.org
 www.aptracking1.com
@@ -6121,6 +6174,7 @@ www.aryanasolution.abchomesecurity.com
 www.asa-assistance-et-service-a-la-personne-lpa.fr
 www.asahi-gf.co.jp
 www.asanmoney4you.com
+www.asianage.com
 www.asianescorts69.co.uk
 www.asiansensation.co.uk
 www.askobot.uz
@@ -6160,6 +6214,7 @@ www.authenticsocalflavors.com
 www.authoritycoursemastery.com
 www.authorityo.com
 www.authoritypestcontrol.net
+www.authorjeniferwood.com
 www.authorlorraynejohnson.com
 www.autoexpresservice.cl
 www.autoglass-claims.com
@@ -6275,6 +6330,7 @@ www.login.ajvkt.dk
 www.loginauthemail.aynyalian.my.id
 www.marwaservice.a3techideas.com
 www.mcdnsstaging.accountta.com
+www.meudelivery.andreluiz.online
 www.milennium-bank-of-apex.alphawealthglobal.com
 www.money.amazon-shoping.com
 www.n1.alarm3.lv
@@ -6296,6 +6352,7 @@ www.rocad-service.amevo.ma
 www.safetylift.kab-academy-hosting-2023.a2hosted.com
 www.secure.arboronlinecu.com
 www.services.astrojagat.co.in
+www.simulador-credito-vehiculo.abbaseguros.co
 www.staging.applyonlinenow.com
 www.support.accountifying.com
 www.support.ar-8id.info
@@ -6303,6 +6360,7 @@ www.support.aurocreativestudio.com
 www.system.ankasecurity.com
 www.tameiimpala2022.tickets.a2hosted.com
 www.test.artsecurity.ro
+www.test.avscsupport.com
 www.testing.accuratesolutionssecurity.com
 www.ticket-sports.access-broadcast4k.com
 www.tracking.allindiatranslogistics.com
@@ -6416,7 +6474,6 @@ authenticfit.ro
 authentichalongtravel.com
 authenticmagazin.com
 authenticslf.com
-authorization.jnj.dev.aetion.com
 authorlclee.com
 authorsvoice.net
 authorswritehand.com
