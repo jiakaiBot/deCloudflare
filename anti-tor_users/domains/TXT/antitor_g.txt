@@ -1986,11 +1986,14 @@ zelda-heardle.glitch.me
 00f74ba44baef2a33a53f6faa85c0cd3256e3b0a68-apidata.googleusercontent.com
 00f74ba44be8f9b9bb3411da8750379890c6c72b06-apidata.googleusercontent.com
 01vitu.github.io
+124e6df00f3ef6b193f579cfa94f5fc2.safeframe.googlesyndication.com
 1d053fd4696c41.site.godaddyarabicwsbonline.com
 21acb87f9afc4018484b5ad8ffbd08f5.safeframe.googlesyndication.com
 419d4d77b56a9fdda578c4c1027bf1ed.safeframe.googlesyndication.com
+51dcd1cd4b397b71011a4c788d14cfde.safeframe.googlesyndication.com
 71544ad6f57558d5be2336094c894dfb.safeframe.googlesyndication.com
 7342fa263f446a1fc28fb52d66953146.safeframe.googlesyndication.com
+7936617fcb8f5a06cfd086d561bfc6e8.safeframe.googlesyndication.com
 aashicr.github.io
 aazacz.github.io
 aazeez257.github.io
@@ -2036,6 +2039,7 @@ apolozani.github.io
 app.gartnerformarketers.com
 app.gaustral.com
 apps.gamepind.com
+aruba.fattura.goldschmiede-kastner.de
 arunsingh009.github.io
 arvindhsundar.github.io
 ashutosh86941.github.io
@@ -2064,10 +2068,13 @@ bellsouthverification.godaddysites.com
 beta-globoplay.globo.com
 billing.getcatalyzed.in
 billing.gotinofurniture.com
+billingon.gegar.com
 blackspoidy.github.io
 blogger.googleusercontent.com
 books.google.com.au
 bratusek.googleus.info
+briantsai1015.github.io
+browser.geekbench.com
 browser.pipe.aria.microsoft.com.rproxy.goskope.com
 btbiusness.github.io
 btbuisnes.github.io
@@ -2235,6 +2242,7 @@ douglaso-r.github.io
 download-telecharger-stage.services.geo.ca
 drive-thirdparty.googleusercontent.com
 dropbox8.godaddysites.com
+e02974e15f76acb1aa74f62575dd578a.safeframe.googlesyndication.com
 e0ee46d2d5c671535756da0caaacebf1.safeframe.googlesyndication.com
 e2c10.gcp.gvt2.com
 e2c13.gcp.gvt2.com
@@ -2333,6 +2341,8 @@ gcahlla.ga
 gcloud-planilla.com
 gcluster.jp
 gcr.io
+gcvuae.com
+gdaservice.cl
 gdcfm.com
 gdquest.github.io
 gdrintl.com
@@ -2358,6 +2368,7 @@ gencaslan.com
 generalaviationnews.com
 genericgames.co.nz
 genervest.org
+genitor.dk
 gensh.in
 gentlemans-desire.com
 gentmulaj1.github.io
@@ -2393,8 +2404,10 @@ gft4.me
 gfunkhouser.com
 ggongcash.com
 ggongcream.com
+ggoogl.xyz
 gha-associates.com
 gha.org
+ghanacom.org.my
 ghettoschanse.com
 ghkeshani.com
 giaiphaphutam.com
@@ -2518,6 +2531,7 @@ googleexpert.info
 googlesheetsacademy.com
 googletracker.top
 goomaphy.com
+goovefitness.com
 gopro-qa.com
 gorodz.info
 gourmetcazorla.es
@@ -2541,6 +2555,7 @@ graspthisworld.com
 gravidtrekker.com
 greatercareservice.com
 green-services.hr
+greenagenda.org.au
 greenfo.hu
 greenfuture.pt
 greenpeace.org.uk
@@ -2556,6 +2571,7 @@ groupbizconsulting.com
 groupsalingsupport.online
 growmoney.dk
 growtika.com
+growyourgiving.org
 grserver.gr
 grupomedicheck.com.pe
 gruponous.net
@@ -2568,6 +2584,7 @@ gtstowingservice.com
 gualacaharm.com
 guardiandigitalcomparison.co.uk
 guardlnkcaptcha.com
+guardnow.com
 guerra.com
 guilaxfooddelivery.com.br
 gulf-crown.com
@@ -2585,6 +2602,7 @@ horse-wirehaired-phosphorus.glitch.me
 ifunanyagits.github.io
 ikkitousenbarsu.game-info.wiki
 info.gendai.com.br
+informazioni-private-it.gets-it.net
 ing.globesr-actions.com
 insarmap.gsi.go.jp
 interface.c1.golf-jalan.net
@@ -2624,6 +2642,8 @@ moneynews.globalpassivemoney.com
 monitorias.bi.grupodigitex.com.br
 movie.gujjusupport.in
 mtap.partners.glanceapis.com
+myaccount.gravityportals.com
+myprivat.gothit.de
 newterms3.godaddysites.com
 nianhuoolyjd.guanmeikj.com
 nithinsaichoudary.github.io
@@ -2643,6 +2663,7 @@ postback.glanceapis.com
 ppd.bealert.gedicom.fr
 prometheus-k8s.grieg.io
 proxybay.github.io
+pruts-dev-lucas.glowfm.nl
 pt.globeygroup.com
 pubsub.googleapis.com
 putra-xd.github.io
@@ -2816,8 +2837,10 @@ www.glenaustin.co.za
 www.glitchspaces.org
 www.globalclimatejobs.org
 www.globalcristalservice.it
+www.globaldiamondinvestment.com
 www.globalgourmetfoods.com
 www.globaltpa.net
+www.globalvisservice1306.ga
 www.globukalypse.org
 www.gloucestershirelive.co.uk
 www.gloucestertimes.com
@@ -2843,6 +2866,7 @@ www.gov.nu.ca
 www.governmentdeficit.com
 www.governo.it
 www.governor.pa.gov
+www.governor.virginia.gov
 www.gp-ruesselsheim.de
 www.gpsmultitrack.store
 www.gpwsecurity.com.au
@@ -2851,6 +2875,7 @@ www.gradesservice.com
 www.grandfamiliesuc.org
 www.graphicaudio.net
 www.gravi-t-clients.ca
+www.greatgreenwall.org
 www.greatwarforum.org
 www.greenfoundationireland.ie
 www.greengeeks.com
@@ -2861,6 +2886,7 @@ www.grootoudersvoorhetklimaat.be
 www.groundlabs.com
 www.gruponous.net
 www.gservice.se
+www.guardiananytime.com
 www.guinness.com
 www.gumtree.com.au
 www.gungemadstore.com
@@ -2869,6 +2895,7 @@ www.gutefrage.net
 www.gvpedia.org
 www.gymsecurity.cl
 www.hbonlincustomerservice.group-ints.com
+www.helpdesk.gtten.com
 www.impressorabematechmp4200.gavetadedinheiro.com.br
 www.joomla.growitsecure.com
 www.latiendadelespia.globalsecurity.com.uy
@@ -2878,11 +2905,13 @@ www.newgocontrol.fr.go-control.fr
 www.newupdate.streamhd4k.goken.site
 www.nordicom.gu.se
 www.paketwisata.gotravelombok.com
+www.punegasstoveservice.online.gasstoverepairnearme.co.in
 www.rahasiaorangtua.generosgold.id
 www.relogiodepontobiometria.gavetadedinheiro.com.br
 www.safeinnovcleaning.greenschooleducation.eu
 www.safesolarinvest.co.za.greenpalmcottage.co.za
 www.sap.guiawebservice.com
+www.secure.gogreenwoodbank.com
 www.security2.glow-web.net
 www.solidsecurity.globzine.com
 www.staging.gezinshuis-attention.nl
@@ -2890,6 +2919,7 @@ www.updater.ggmt2.hu
 www.user.glommart.com
 www.vclaim2.grhakumalaclinic.com
 www.wa.gabungpaket.com
+www.web.gebadelivery.com
 www.wellgatesupport.gmzdev.uk
 www.wwwwebservice.globaltek.us
 www.yearmoney.getf41.shop
