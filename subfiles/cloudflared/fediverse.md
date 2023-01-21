@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,404 |
-| social | 3,399 |
-| net | 2,771 |
+| com | 5,405 |
+| social | 3,400 |
+| net | 2,772 |
 | org | 1,982 |
-| de | 1,863 |
+| de | 1,864 |
 
 
 - Mastodon, Pleroma, etc
@@ -767,6 +767,7 @@ Here's a list of public Fediverse services.
 | `accidental.yoga` | No |
 | `accioly.dev` | Yes |
 | `acclaro.digital` | Yes |
+| `accomplice.social` | No |
 | `accoord.fr` | Yes |
 | `accordi.online` | No |
 | `accordingtohoyt.com` | No |
@@ -20918,6 +20919,7 @@ Here's a list of public Fediverse services.
 | `mooh.fr` | No |
 | `mookie.xyz` | Yes |
 | `moon.holiday` | No |
+| `moonagic.com` | Yes |
 | `moonbeam.dance` | No |
 | `moonbeam.town` | No |
 | `moonbootlabs.net` | No |
@@ -26397,6 +26399,7 @@ Here's a list of public Fediverse services.
 | `raf.hamburg` | No |
 | `rafaelbailon.com` | Yes |
 | `rafaelbekkema.nl` | No |
+| `rafal06.dev` | No |
 | `rafe.name` | Yes |
 | `rafferty.net` | No |
 | `raffi.de` | No |
@@ -27989,6 +27992,7 @@ Here's a list of public Fediverse services.
 | `sartorial.online` | No |
 | `sarubobo.red` | Yes |
 | `sarunint.com` | Yes |
+| `saryay.club` | Yes |
 | `sas.monster` | No |
 | `sasa.africa` | No |
 | `sasachi.tokyo` | No |
@@ -30996,6 +31000,7 @@ Here's a list of public Fediverse services.
 | `t-asa2000.net` | No |
 | `t-beutel.com` | No |
 | `t-mobile.community` | Yes |
+| `t-online.de` | Yes |
 | `t-rg.ws` | No |
 | `t0.lv` | Yes |
 | `t00t.it` | No |
@@ -31854,6 +31859,7 @@ Here's a list of public Fediverse services.
 | `thejar.club` | No |
 | `thejesus.fish` | No |
 | `thejoyo.com` | No |
+| `thekambattu.rocks` | No |
 | `thekellys.co` | Yes |
 | `thekosinski.com` | No |
 | `thekurokuma.net` | No |
@@ -31938,6 +31944,7 @@ Here's a list of public Fediverse services.
 | `theopjones.blog` | Yes |
 | `theopjones.com` | Yes |
 | `theor.io` | Yes |
+| `theorangebird.net` | Yes |
 | `theorangeone.net` | Yes |
 | `theorchid.social` | No |
 | `theosis.church` | No |
@@ -35090,6 +35097,7 @@ Here's a list of public Fediverse services.
 | `willnorris.com` | No |
 | `willow.cafe` | No |
 | `willtmonroe.com` | No |
+| `willy.lol` | No |
 | `wilshirehosting.com` | Yes |
 | `wilshirehosting.net` | Yes |
 | `wilsonxia.cn` | No |
@@ -36634,8 +36642,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,584 |
-| Normal | 28,007 |
+| Cloudflare | 8,588 |
+| Normal | 28,011 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
