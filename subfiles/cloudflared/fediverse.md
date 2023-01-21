@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,404 |
-| social | 3,398 |
+| social | 3,399 |
 | net | 2,771 |
 | org | 1,982 |
 | de | 1,863 |
@@ -16457,6 +16457,7 @@ Here's a list of public Fediverse services.
 | `klinikowski.pl` | No |
 | `klinikretter.de` | Yes |
 | `kliu.io` | Yes |
+| `klockenga.social` | No |
 | `kloen-cafe.de` | No |
 | `kloenk.dev` | No |
 | `kloetensecurity.com` | Yes |
@@ -26852,6 +26853,7 @@ Here's a list of public Fediverse services.
 | `rei-ayanami.club` | No |
 | `reidodon.net` | No |
 | `reil.de` | No |
+| `reima.rocks` | No |
 | `reimu.info` | Yes |
 | `reinboar.space` | Yes |
 | `reinboar.xyz` | Yes |
@@ -36632,7 +36634,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,584 |
-| Normal | 28,004 |
+| Normal | 28,006 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
