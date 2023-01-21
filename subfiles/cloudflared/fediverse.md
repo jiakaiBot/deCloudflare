@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,409 |
+| com | 5,410 |
 | social | 3,400 |
 | net | 2,773 |
 | org | 1,982 |
-| de | 1,864 |
+| de | 1,865 |
 
 
 - Mastodon, Pleroma, etc
@@ -1239,6 +1239,7 @@ Here's a list of public Fediverse services.
 | `alexrio.fr` | No |
 | `alexschroeder.ch` | No |
 | `alextraterrestrial.net` | Yes |
+| `alexwacker.com` | Yes |
 | `alexwennerberg.com` | No |
 | `alexx.ml` | Yes |
 | `alexyang.me` | Yes |
@@ -19092,6 +19093,7 @@ Here's a list of public Fediverse services.
 | `mastiverse.social` | Yes |
 | `mastnerds.com` | Yes |
 | `mastnode.faith` | No |
+| `masto-be.studio` | No |
 | `masto-fs.de` | No |
 | `masto-sport.us` | No |
 | `masto.actor` | Yes |
@@ -23548,6 +23550,7 @@ Here's a list of public Fediverse services.
 | `oltoko.de` | No |
 | `oluflorenzen.de` | No |
 | `olympe.online` | No |
+| `olympique-lyonnais.club` | No |
 | `olympus.blog` | Yes |
 | `om.gay` | No |
 | `om.nom.pl` | No |
@@ -24957,6 +24960,7 @@ Here's a list of public Fediverse services.
 | `pilote.me` | No |
 | `pimaker.at` | Yes |
 | `pimoore.ca` | No |
+| `pimux.de` | No |
 | `pina.space` | Yes |
 | `pinbun.com` | Yes |
 | `pinc.tube` | No |
@@ -36657,8 +36661,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,594 |
-| Normal | 28,020 |
+| Cloudflare | 8,595 |
+| Normal | 28,023 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
