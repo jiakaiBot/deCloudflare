@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,408 |
+| com | 5,409 |
 | social | 3,400 |
-| net | 2,772 |
+| net | 2,773 |
 | org | 1,982 |
 | de | 1,864 |
 
@@ -1107,6 +1107,7 @@ Here's a list of public Fediverse services.
 | `akademienl.social` | No |
 | `akagi.moe` | No |
 | `akamanju.com` | No |
+| `akamdon.com` | No |
 | `akane.blue` | Yes |
 | `akane.ml` | Yes |
 | `akane.osaka` | No |
@@ -2939,6 +2940,7 @@ Here's a list of public Fediverse services.
 | `bashell.com` | Yes |
 | `bashgeek.net` | No |
 | `basilisk.dev` | Yes |
+| `basilisk.gallery` | Yes |
 | `basilisk.technology` | No |
 | `basjes.nl` | No |
 | `bassam.social` | Yes |
@@ -9170,6 +9172,7 @@ Here's a list of public Fediverse services.
 | `entropyharvest.com` | No |
 | `entropyin.space` | No |
 | `entropyservice.com` | No |
+| `entropysource.ru` | Yes |
 | `enum.run` | No |
 | `envismo.social` | No |
 | `envs.net` | No |
@@ -14712,6 +14715,7 @@ Here's a list of public Fediverse services.
 | `irrsinn.video` | No |
 | `irrwitz.com` | No |
 | `irsoluciones.social` | No |
+| `irumina.net` | No |
 | `is-a.cat` | Yes |
 | `is-a.horse` | No |
 | `is-he.re` | Yes |
@@ -16351,6 +16355,7 @@ Here's a list of public Fediverse services.
 | `kirei.moe` | No |
 | `kirgroup.com` | No |
 | `kirgroup.net` | No |
+| `kiri.to` | Yes |
 | `kirigakure.net` | Yes |
 | `kiriha.me` | Yes |
 | `kirimasharo.org` | Yes |
@@ -17584,7 +17589,7 @@ Here's a list of public Fediverse services.
 | `libcyb.so` | No |
 | `libella.social` | No |
 | `liber.cx` | No |
-| `libera.blue` | No |
+| `libera.blue` | Yes |
 | `libera.site` | No |
 | `libera.tokyo` | No |
 | `liberakampo.org` | No |
@@ -21452,6 +21457,7 @@ Here's a list of public Fediverse services.
 | `mundosaparte.com` | No |
 | `mundy.info` | No |
 | `muni.fi` | Yes |
+| `munochi.moe` | Yes |
 | `munroe.ch` | Yes |
 | `munsell.io` | Yes |
 | `munster.dev` | Yes |
@@ -36651,8 +36657,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,589 |
-| Normal | 28,019 |
+| Cloudflare | 8,594 |
+| Normal | 28,020 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
