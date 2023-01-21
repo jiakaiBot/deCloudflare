@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Column Settings: getting 520 error when making a new column but column is created](https://github.com/SEED-platform/seed/issues/3780)
+- [似乎 AWS S3 的配置项与 Cloudflare R2 不兼容](https://github.com/lsky-org/lsky-pro/issues/600)
 - [Invalid header value](https://github.com/williamfzc/chat-gpt-ppt/issues/5)
 - [throwing a Redirect is incorrectly handled as an Error, not a Response.](https://github.com/sveltejs/kit/issues/8617)
 - [example not working, error required output is empty list of dynamic](https://github.com/terraform-aws-modules/terraform-aws-acm/issues/129)
