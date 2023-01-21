@@ -1522,6 +1522,7 @@ Here's a list of public Fediverse services.
 | `amxl.com` | No |
 | `amyos.net` | No |
 | `an.exchange` | No |
+| `an0thr.app` | No |
 | `an6.us` | No |
 | `anacreonte.eu` | No |
 | `analogdreams.blog` | No |
@@ -22887,7 +22888,6 @@ Here's a list of public Fediverse services.
 | `noronista.net` | No |
 | `norrebro.space` | No |
 | `norrland.xyz` | No |
-| `nortelnetworks.dev` | Yes |
 | `northeast.one` | No |
 | `northernvoice.app` | No |
 | `northofthewall.social` | No |
@@ -27363,7 +27363,7 @@ Here's a list of public Fediverse services.
 | `rokoucha.net` | Yes |
 | `rolandmicroblog.com` | No |
 | `roleplaycastle.com` | Yes |
-| `roli.io` | No |
+| `roli.io` | Yes |
 | `rolim.biz` | Yes |
 | `roll.cafe` | No |
 | `rollemaa.fi` | Yes |
@@ -28094,6 +28094,7 @@ Here's a list of public Fediverse services.
 | `scambier.xyz` | No |
 | `scamdemic.life` | No |
 | `scamdemic.party` | No |
+| `scammed.me` | Yes |
 | `scammerrevolts.com` | Yes |
 | `scanline.dev` | No |
 | `scanlines.xyz` | No |
@@ -36622,7 +36623,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,581 |
+| Cloudflare | 8,582 |
 | Normal | 27,998 |
 
 
