@@ -321,6 +321,8 @@ amazon-bnnjhhh.youdontcare.com
 api.yaanimail.com
 b92.yahoo.co.jp
 b97.yahoo.co.jp
+bananatrust-dev.yode.pro
+ben.yaf.ai
 capi.yaanimail.com
 cas.yvp.yusen-logistics.com
 case.yangoilahcustomerservice.com
@@ -368,6 +370,8 @@ lync.jp.yazaki.com
 m.youtopia.com
 mariam.yoors.date
 mc.yandex.com
+media.yenimedya.com.tr
+music.yandex.ru
 mypartner-uat.yuanta.com.tw
 one2021-production.prod.emea.yaradigitallabs.io
 openweb.jac.yahoosandbox.com
@@ -457,6 +461,7 @@ yoseopawnshop.com
 yottlyscript.com
 youcantry.store
 youhue.com
+youmorestore.com.br
 your-server.de
 your-services.online
 youradmission.info
