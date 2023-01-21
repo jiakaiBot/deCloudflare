@@ -82,6 +82,7 @@ Here's a list of public Matrix services.
 | marmottel.com | No |
 | matrix.im | No |
 | matrix.org | Yes |
+| matrix.monero.social | No |
 | mtrx.nz | No |
 | nibbana.jp | No |
 | nitro.chat | No |
@@ -125,7 +126,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 15 |
-| Normal | 82 |
+| Normal | 83 |
 
 
-### 15.5% of public Matrix services are using Cloudflare.
+### 15.3% of public Matrix services are using Cloudflare.
