@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Invalid header value](https://github.com/williamfzc/chat-gpt-ppt/issues/5)
 - [throwing a Redirect is incorrectly handled as an Error, not a Response.](https://github.com/sveltejs/kit/issues/8617)
 - [example not working, error required output is empty list of dynamic](https://github.com/terraform-aws-modules/terraform-aws-acm/issues/129)
 - [dkim_verify fails to find DKIM record, thinks it's just a TXT record.](https://github.com/haraka/Haraka/issues/3148)
