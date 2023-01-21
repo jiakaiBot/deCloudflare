@@ -11373,6 +11373,7 @@ Here's a list of public Fediverse services.
 | `gabeappleton.me` | No |
 | `gabekangas.com` | No |
 | `gabfed.com` | Yes |
+| `gabgoo.xyz` | No |
 | `gabi.is` | No |
 | `gabnotes.org` | No |
 | `gabosh.net` | No |
@@ -36651,7 +36652,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,589 |
-| Normal | 28,018 |
+| Normal | 28,019 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
