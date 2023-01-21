@@ -112,6 +112,7 @@ Do not create new issue or we will close it as duplicate.
 | [16_kyaw@twitter](https://twitter.com/16_kyaw/status/1393511123639439365) | advertise |
 | [18kilihjl@twitter](https://twitter.com/18kilihjl/status/1553835202564087809) | advertise |
 | [19Naywinaung1@twitter](https://twitter.com/19Naywinaung1/status/1404472645710540803) | advertise |
+| [23gundem@twitter](https://twitter.com/23gundem/status/1601520818466717696) | advertise |
 | [27Muaon@twitter](https://twitter.com/27Muaon/status/1391459657881772032) | advertise |
 | [30deapanupong@twitter](https://twitter.com/30deapanupong/status/1395835660913631232) | advertise |
 | [31Thanhson@twitter](https://twitter.com/31Thanhson/status/1579494987733274624) | advertise |
