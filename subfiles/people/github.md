@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [GitHub Actions fails with No public key set yet. Run 'cachix generate-keypair' first.](https://github.com/cachix/cachix/issues/500)
 - [CORS package not working correctly](https://github.com/honojs/hono/issues/828)
 - [When captcha fails don't show blank page](https://github.com/dotenv-org/dotenv-vault/issues/226)
 - [Column Settings: getting 520 error when making a new column but column is created](https://github.com/SEED-platform/seed/issues/3780)
