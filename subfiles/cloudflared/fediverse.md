@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,426 |
-| social | 3,426 |
+| social | 3,425 |
 | net | 2,777 |
 | org | 1,984 |
 | de | 1,868 |
@@ -3842,7 +3842,6 @@ Here's a list of public Fediverse services.
 | `bmhorn.de` | No |
 | `bminde.com` | No |
 | `bmrf.institute` | Yes |
-| `bms.social` | Yes |
 | `bmu.cloud` | No |
 | `bmvs.io` | Yes |
 | `bmw-and-more.info` | No |
@@ -17070,7 +17069,6 @@ Here's a list of public Fediverse services.
 | `lacan.net` | No |
 | `lacasa.ovh` | Yes |
 | `lacaveatonton.ovh` | No |
-| `laccoske.online` | Yes |
 | `lacheiner.at` | No |
 | `lachessfortress.com` | No |
 | `lachman.tk` | No |
@@ -17957,7 +17955,6 @@ Here's a list of public Fediverse services.
 | `litvin.pro` | No |
 | `litza.de` | No |
 | `liu.se` | No |
-| `liuli.lol` | Yes |
 | `liuwm.work` | Yes |
 | `live-on.net` | No |
 | `live-website.com` | No |
@@ -29059,7 +29056,6 @@ Here's a list of public Fediverse services.
 | `sidraco.in` | No |
 | `siebent.net` | No |
 | `siedler.ro` | No |
-| `sieg-dragon.blue` | No |
 | `siegenthaler.mx` | No |
 | `sieker.software` | No |
 | `sien.no` | No |
@@ -36758,8 +36754,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,627 |
-| Normal | 28,088 |
+| Cloudflare | 8,624 |
+| Normal | 28,087 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
