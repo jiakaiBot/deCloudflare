@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Site slow to load/crashes to Gateway timeout](https://github.com/Nexus-Mods/web-issues/issues/1642)
 - [fallback for trojan not working](https://github.com/XrayR-project/XrayR/issues/233)
 - [GitHub Actions fails with No public key set yet. Run 'cachix generate-keypair' first.](https://github.com/cachix/cachix/issues/500)
 - [CORS package not working correctly](https://github.com/honojs/hono/issues/828)
