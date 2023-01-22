@@ -1249,7 +1249,7 @@ Here's a list of public Fediverse services.
 | `algarve-pur.de` | No |
 | `algebra.chat` | No |
 | `algenhonig.de` | No |
-| `algerietelecom.org` | Yes |
+| `algerietelecom.org` | No |
 | `alglab.net` | No |
 | `algonoise.social` | No |
 | `algore42069.ga` | No |
@@ -2467,6 +2467,7 @@ Here's a list of public Fediverse services.
 | `aut.social` | No |
 | `authn.cc` | No |
 | `author.chat` | Yes |
+| `authorbuzz.co.uk` | No |
 | `authren.systems` | No |
 | `autisme.social` | No |
 | `autisten.club` | No |
@@ -5123,7 +5124,7 @@ Here's a list of public Fediverse services.
 | `chatterboxtown.us` | No |
 | `chattergrid.com` | No |
 | `chatterjee.social` | No |
-| `chatterly.me` | Yes |
+| `chatterly.me` | No |
 | `chattingdarkly.org` | No |
 | `chattr.pub` | No |
 | `chatty.monster` | No |
@@ -5820,7 +5821,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9383,7 +9384,7 @@ Here's a list of public Fediverse services.
 | `etbus.ch` | No |
 | `etc-services.de` | No |
 | `eternalaugust.com` | No |
-| `eternawings.com` | Yes |
+| `eternawings.com` | No |
 | `eth.moe` | No |
 | `eth0.sh` | Yes |
 | `eth0lew.com` | No |
@@ -28869,6 +28870,7 @@ Here's a list of public Fediverse services.
 | `shitpost.school` | Yes |
 | `shitpost.site` | No |
 | `shitpostbot.com` | No |
+| `shitposted.today` | No |
 | `shitposter.club` | No |
 | `shitposting.army` | Yes |
 | `shitposting.fr` | No |
@@ -36662,8 +36664,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,595 |
-| Normal | 28,024 |
+| Cloudflare | 8,591 |
+| Normal | 28,030 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
