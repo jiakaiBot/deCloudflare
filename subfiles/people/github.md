@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CORS package not working correctly](https://github.com/honojs/hono/issues/828)
 - [When captcha fails don't show blank page](https://github.com/dotenv-org/dotenv-vault/issues/226)
 - [Column Settings: getting 520 error when making a new column but column is created](https://github.com/SEED-platform/seed/issues/3780)
 - [似乎 AWS S3 的配置项与 Cloudflare R2 不兼容](https://github.com/lsky-org/lsky-pro/issues/600)
