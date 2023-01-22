@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,421 |
-| social | 3,414 |
+| social | 3,415 |
 | net | 2,776 |
 | org | 1,983 |
 | de | 1,867 |
@@ -1522,6 +1522,7 @@ Here's a list of public Fediverse services.
 | `amplifyukraine.eu` | Yes |
 | `amrhein.social` | No |
 | `ams.su` | Yes |
+| `amst.io` | No |
 | `amsterdam.nl` | Yes |
 | `amsterdon.nl` | No |
 | `amum.al` | Yes |
@@ -14744,6 +14745,7 @@ Here's a list of public Fediverse services.
 | `is-he.re` | Yes |
 | `is-heckin.gay` | Yes |
 | `is-here.com` | No |
+| `is-pretty.gay` | Yes |
 | `is-super.moe` | No |
 | `is4.site` | Yes |
 | `isaaccronk.com` | No |
@@ -21953,6 +21955,7 @@ Here's a list of public Fediverse services.
 | `natehn.com` | No |
 | `natehub.com` | Yes |
 | `nateledford.com` | Yes |
+| `nathalie.social` | Yes |
 | `nathan.social` | No |
 | `nathanaelsilverman.com` | No |
 | `nathanheffley.com` | No |
@@ -36714,8 +36717,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,609 |
-| Normal | 28,062 |
+| Cloudflare | 8,611 |
+| Normal | 28,063 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
