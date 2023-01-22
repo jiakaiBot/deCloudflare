@@ -24639,6 +24639,7 @@ Here's a list of public Fediverse services.
 | `penclub.club` | Yes |
 | `pencricket.com` | No |
 | `pendorwright.com` | No |
+| `pendragon.rocks` | No |
 | `pengi-san.moe` | Yes |
 | `pengin.club` | Yes |
 | `pengins.dev` | No |
@@ -36662,7 +36663,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,595 |
-| Normal | 28,023 |
+| Normal | 28,024 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
