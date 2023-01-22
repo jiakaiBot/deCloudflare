@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,424 |
-| social | 3,419 |
+| com | 5,425 |
+| social | 3,424 |
 | net | 2,776 |
-| org | 1,983 |
+| org | 1,984 |
 | de | 1,868 |
 
 
@@ -415,6 +415,7 @@ Here's a list of public Fediverse services.
 | `4gx.de` | No |
 | `4hackers.org` | No |
 | `4her.space` | No |
+| `4i2.cc` | No |
 | `4lb4ny.com` | No |
 | `4lgorhythm.com` | No |
 | `4lgorhythm.io` | No |
@@ -1191,6 +1192,7 @@ Here's a list of public Fediverse services.
 | `albin.social` | No |
 | `albinoblacksheep.com` | No |
 | `albormentum.com` | No |
+| `albr.to` | Yes |
 | `alcalyn.app` | No |
 | `alcatir.com` | No |
 | `alcolatra.social` | No |
@@ -2241,6 +2243,7 @@ Here's a list of public Fediverse services.
 | `asimon.org` | No |
 | `asiriyuq.xyz` | No |
 | `asjk.xyz` | Yes |
+| `askan.cloud` | No |
 | `askan.info` | No |
 | `askapunk.net` | No |
 | `askboon.com` | Yes |
@@ -6535,6 +6538,7 @@ Here's a list of public Fediverse services.
 | `curenoize.org` | Yes |
 | `curiosas.mx` | No |
 | `curiositykilledthebookworm.net` | No |
+| `curious.bio` | No |
 | `curious.social` | No |
 | `curiouscabbit.social` | No |
 | `curiousminds.net` | No |
@@ -7246,6 +7250,7 @@ Here's a list of public Fediverse services.
 | `deanware.blog` | No |
 | `deargod.no` | Yes |
 | `death.horse` | No |
+| `death.id.au` | Yes |
 | `deathbybandaid.net` | No |
 | `deathbycomputers.co.uk` | No |
 | `debateclub.eu` | No |
@@ -7913,6 +7918,7 @@ Here's a list of public Fediverse services.
 | `diversity.kitchen` | No |
 | `dividuate.me` | No |
 | `divineduty.xyz` | No |
+| `divinemp3.com` | No |
 | `divinereel.com` | No |
 | `diviney.us` | No |
 | `division25.xyz` | No |
@@ -10149,6 +10155,7 @@ Here's a list of public Fediverse services.
 | `feldspaten.org` | No |
 | `felesitas.cloud` | No |
 | `felice.biz` | No |
+| `felin.social` | No |
 | `feline.cloud` | No |
 | `feline.rodeo` | No |
 | `feline.social` | No |
@@ -10793,6 +10800,7 @@ Here's a list of public Fediverse services.
 | `frankreimer.de` | No |
 | `frankston.com` | No |
 | `franksworld.org` | No |
+| `frankwiles.social` | No |
 | `franssen.mobi` | No |
 | `franssen.xyz` | No |
 | `franziskaner-der-erneuerung.de` | Yes |
@@ -12702,6 +12710,7 @@ Here's a list of public Fediverse services.
 | `h3z.jp` | Yes |
 | `h4.io` | Yes |
 | `h4x.group` | No |
+| `h4x0r.army` | Yes |
 | `h55.social` | No |
 | `h5q.net` | Yes |
 | `h7i.jp` | No |
@@ -14020,6 +14029,7 @@ Here's a list of public Fediverse services.
 | `i2p.rocks` | No |
 | `i3x.cx` | No |
 | `i544c.me` | Yes |
+| `i8y.org` | No |
 | `ia.cafe` | Yes |
 | `iacast.net` | No |
 | `iaccessibility.net` | No |
@@ -15894,6 +15904,7 @@ Here's a list of public Fediverse services.
 | `kalaclista.com` | Yes |
 | `kalakukko.social` | Yes |
 | `kalamazoo.social` | Yes |
+| `kalapa.social` | No |
 | `kalasarn.se` | No |
 | `kalebporter.club` | No |
 | `kalecream.com` | Yes |
@@ -22360,6 +22371,7 @@ Here's a list of public Fediverse services.
 | `netzweh.de` | No |
 | `netzwerk-gebet.de` | No |
 | `netzwerk-it.org` | No |
+| `neubau.social` | No |
 | `neuberger.dev` | No |
 | `neue.city` | No |
 | `neue.social` | Yes |
@@ -29159,6 +29171,7 @@ Here's a list of public Fediverse services.
 | `simplytoast.me` | Yes |
 | `simpreative.network` | Yes |
 | `simpson.id` | Yes |
+| `simracer.social` | Yes |
 | `simracing.community` | No |
 | `simstim.club` | No |
 | `simstodon.com` | No |
@@ -34062,6 +34075,7 @@ Here's a list of public Fediverse services.
 | `valleycommunity.co.za` | Yes |
 | `valleypost.us` | No |
 | `valo.chat` | No |
+| `valtlai.fi` | Yes |
 | `valvin.fr` | No |
 | `vampir.monster` | No |
 | `vampire.estate` | No |
@@ -36735,8 +36749,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,621 |
-| Normal | 28,071 |
+| Cloudflare | 8,626 |
+| Normal | 28,080 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
