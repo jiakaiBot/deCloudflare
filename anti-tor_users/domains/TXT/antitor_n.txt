@@ -1741,6 +1741,7 @@ areadocliente.netseven.com.br
 atendimentobb.normin.com.br
 auth.dev.nlbf.co
 auth.usa.naser.biz
+authelia.netzkommando.de
 autoconfig.neodigit.net
 autodiscover.nerdynobody.com
 autodiscover.nitrographics.com
@@ -1889,6 +1890,7 @@ eu-webviews.nativechat.com
 exodus.nutribei.com
 ext.nicovideo.jp
 f1e7-124-110-228-162.jp.ngrok.io
+feedback.narrowstack.com
 feedback.novocentrolajoya.com
 fibu.north-it-service.de
 fkhqqvj9yt3cutd.blog.blog.api.amazon.com.nwr.com.na
@@ -1929,6 +1931,7 @@ ids-mgh.ncoup.com
 instasaral.nivabupa.com
 interactive.nrucfc.coop
 internetbank.nsb.lk
+internship-api.ncoded.xyz
 ip232.208-100-26.static.steadfastdns.net.newstula.ru
 irc.nebulance.cc
 istation.newbetainnovation.com.cn
@@ -2040,11 +2043,13 @@ navilplayschool.com
 navimultimedia.com
 navinyojana.com
 navipilotmarinesb.com
+navita-yachtsservice.com
 navitag.xyz
 navitakosmetik.ch
 navitrac.co.ke
 navitruck.ro
 navittrine.com.br
+naviyas.com
 navpreetsingh.com
 nawindpower.com
 naylaweddingpackage.com
@@ -2110,6 +2115,7 @@ newyear2020gaming.ml
 newyearfreshyou.com
 newyearmag.net
 newyearnewlife2021.com
+newyearswedding.ca
 newyearwealth2023.com
 nexel-int.com
 nexeps.com
@@ -2154,10 +2160,12 @@ ninetofivestudio.com
 nintendo.nivolacloud.com
 nirvanawind.com
 nis.gl
+nissancommunity.com.mx
 nitelabs.io
 nitro-cpanel.xyz
 nitro-stat.gq
 nitro.ninjakitty.net
+nitro.nupixel.co.uk
 nitroanglingclub.nitrocrew.co.za
 nitroautopecasoficial.com.br
 nitrobluproductions.com
@@ -2168,7 +2176,6 @@ nitroconsult.com
 nitroconsult.se
 nitrocrew.co.za
 nitrogamer.net
-nitrogamer.org
 nitrogames.cl
 nitrogarage.cl
 nitrogengroup.co
@@ -2176,6 +2183,7 @@ nitrogenie.fr
 nitrogenjirehventanitrogenoliquido.com
 nitrogenvn.com
 nitrographicsnw.com
+nitrohorse.co.uk
 nitrolenz.com
 nitromix.es
 nitrooutlet.com
@@ -2200,6 +2208,7 @@ nnwga.org
 no0blog.com
 noapai.name
 nobleoutlook.co.ke
+noctics.noctics.com
 noelsdoc.cam
 nohosupport.com
 noithattrevietnam.com
@@ -2224,11 +2233,13 @@ northcanroofing.com
 northcentralhealthdistrict.org
 northcoastsynthesis.com
 northzone.com
+nostalgirock.se
 nostrumshop.com
 notanemployee.net
 noticeboard.netmarble.com.cn
 noticiascordillera.com.ar
 notificationcheck.com
+notiklab.cf
 notixio.com
 novakeith.net
 novapayer.com
@@ -2277,6 +2288,7 @@ oracle-anapec-filemanager.neosys.biz
 penrith.nswminitrots.org.au
 phcallbackws.testing.novumbankgroup.com
 phpmyadmin.neboley.click
+pin.nxt.tw
 piriguin.nitrolike.com
 plex.netflix2.nl
 plex.nitro.systems
@@ -2326,11 +2338,13 @@ survey.noyb.eu
 tattoos.newpost.co.il
 tcg.negociopokemon.com
 test-pmcc-ids.ncoup.com
+testanthem-auth.nb2intra.com
 testlastupdate.nahentertainment.com
 ticket.netmarble.com
 ticket2.netmarble.com
 tickets.nowandagain.com.au
 timhomologacao.negociafacil.com.br
+tmtg.newsletter-olding.top
 tracking.ninedragonlabs.com
 traefik.dev.nielsen.consulting
 triathlon.pehl.ncku.edu.tw
@@ -2419,6 +2433,7 @@ www.dashboard.novachromatica.com.br
 www.dumper.notmypost.com
 www.epson.newdriverupdate.com
 www.exx.nallservice.com
+www.git.git.git.gitlab.git.portal.nikos-inc.ru
 www.git.git.portal-backend-service.demo.numuscash.com
 www.git.gitlab.git.git.gitlab.ouomommsucmdxy.notisend.ru
 www.git.gitlab.gitlab.git.hrwajqvqa9p8imr.support.notwar.ru
@@ -2465,6 +2480,8 @@ www.nato-pa.int
 www.naturistparadise.co.uk
 www.navigatingbreastcancer.com
 www.navio.fi
+www.navita-yachtsservice.com
+www.navypoint360.com
 www.nbplussupport.com
 www.ncapsa.org
 www.ncprotection.com
@@ -2508,6 +2525,7 @@ www.nitrobay.io
 www.nitrocomputers.co
 www.nitrofroid31.fr
 www.nitrohost.fr
+www.nitroshadeandawning.com
 www.nitrotronic.fr
 www.nixieclock.org
 www.nnapost.com
@@ -2552,6 +2570,7 @@ www.tracking.naztranslogistik.com
 www.tv-update.newscore.online
 www.update-new.nicktrans.ro
 www.worktracking.online.nexusapp.eu
+wxn.nitro-cpanel.xyz
 xbwwfuxwigmyykhi.notisend.ru
 xerzu1zwb401-dotrezapi.test.xe.navitaire.com
 www.naver.com
