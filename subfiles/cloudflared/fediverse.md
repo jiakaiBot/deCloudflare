@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,425 |
-| social | 3,424 |
-| net | 2,776 |
+| com | 5,426 |
+| social | 3,426 |
+| net | 2,777 |
 | org | 1,984 |
 | de | 1,868 |
 
@@ -4228,6 +4228,7 @@ Here's a list of public Fediverse services.
 | `brid.gy` | No |
 | `bridgend.online` | Yes |
 | `bridgepattern.com` | No |
+| `bridport.pics` | No |
 | `briefly.social` | No |
 | `brieseland.de` | No |
 | `brig.gs` | Yes |
@@ -8946,6 +8947,7 @@ Here's a list of public Fediverse services.
 | `elfland.me` | No |
 | `elfnostate.info` | No |
 | `elforcer.ru` | No |
+| `elfredo.net` | No |
 | `elgeekerrante.com` | No |
 | `elgiebety.pl` | No |
 | `elgranj.com` | No |
@@ -9182,6 +9184,7 @@ Here's a list of public Fediverse services.
 | `ente.fun` | No |
 | `entelodont.social` | No |
 | `enter-key.net` | Yes |
+| `enterenchanted.com` | No |
 | `entertheempty.space` | No |
 | `entheoconnect.social` | No |
 | `entire.website` | Yes |
@@ -12888,6 +12891,7 @@ Here's a list of public Fediverse services.
 | `hameln.social` | No |
 | `hamik.net` | No |
 | `hamiller.net` | No |
+| `hamilton.social` | No |
 | `haminoa.net` | No |
 | `hammer-and-sickle.net` | No |
 | `hammyhavoc.com` | Yes |
@@ -18463,6 +18467,7 @@ Here's a list of public Fediverse services.
 | `luon.net` | No |
 | `lupinjacket.party` | No |
 | `lupino.uk` | No |
+| `lur.no` | No |
 | `lurchchamber.de` | No |
 | `lurid.pink` | No |
 | `lurk.online` | No |
@@ -23962,6 +23967,7 @@ Here's a list of public Fediverse services.
 | `orsburn.org` | No |
 | `ortg.de` | No |
 | `orthis.social` | No |
+| `orthoheterodox.blog` | No |
 | `orties.net` | No |
 | `ortion.xyz` | No |
 | `orwell.fun` | No |
@@ -30767,6 +30773,7 @@ Here's a list of public Fediverse services.
 | `sumi.space` | Yes |
 | `sumikko.club` | No |
 | `summerlin.social` | No |
+| `summerwind.blue` | No |
 | `summoners-riftodon.jp` | No |
 | `sumou.fun` | No |
 | `sunbeam.city` | No |
@@ -32941,6 +32948,7 @@ Here's a list of public Fediverse services.
 | `transfurrmation.town` | No |
 | `transgener.de` | No |
 | `transgression.cafe` | No |
+| `transhub.social` | No |
 | `transient.garden` | Yes |
 | `transitieweb.nl` | No |
 | `transition-waedenswil.ch` | No |
@@ -35239,6 +35247,7 @@ Here's a list of public Fediverse services.
 | `winninger.me` | No |
 | `winnipegsocial.online` | No |
 | `winscloud.net` | Yes |
+| `winslow.cloud` | Yes |
 | `winter.ink` | No |
 | `winterbaum.io` | No |
 | `wintermade.it` | No |
@@ -36749,8 +36758,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,626 |
-| Normal | 28,080 |
+| Cloudflare | 8,627 |
+| Normal | 28,088 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
