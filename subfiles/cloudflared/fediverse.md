@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,423 |
-| social | 3,419 |
+| social | 3,418 |
 | net | 2,776 |
 | org | 1,983 |
 | de | 1,868 |
@@ -3839,7 +3839,6 @@ Here's a list of public Fediverse services.
 | `bmhorn.de` | No |
 | `bminde.com` | No |
 | `bmrf.institute` | Yes |
-| `bms.social` | Yes |
 | `bmu.cloud` | No |
 | `bmvs.io` | Yes |
 | `bmw-and-more.info` | No |
@@ -10903,7 +10902,6 @@ Here's a list of public Fediverse services.
 | `freespeech.tube` | No |
 | `freespeechextremist.com` | No |
 | `freestead.be` | No |
-| `freestorm.online` | No |
 | `freetalk.club` | Yes |
 | `freetalk.ml` | Yes |
 | `freetalklive.com` | No |
@@ -11633,7 +11631,7 @@ Here's a list of public Fediverse services.
 | `gbox.work` | No |
 | `gbraad.nl` | Yes |
 | `gbtdn.tokyo` | No |
-| `gbudou.ml` | No |
+| `gbudou.ml` | Yes |
 | `gc2.jp` | Yes |
 | `gcaillaut.fr` | No |
 | `gcfam.net` | No |
@@ -17054,7 +17052,6 @@ Here's a list of public Fediverse services.
 | `lacan.net` | No |
 | `lacasa.ovh` | Yes |
 | `lacaveatonton.ovh` | No |
-| `laccoske.online` | Yes |
 | `lacheiner.at` | No |
 | `lachessfortress.com` | No |
 | `lachman.tk` | No |
@@ -17941,7 +17938,6 @@ Here's a list of public Fediverse services.
 | `litvin.pro` | No |
 | `litza.de` | No |
 | `liu.se` | No |
-| `liuli.lol` | Yes |
 | `liuwm.work` | Yes |
 | `live-on.net` | No |
 | `live-website.com` | No |
@@ -23356,7 +23352,6 @@ Here's a list of public Fediverse services.
 | `obsolete.digital` | No |
 | `obsolete29.com` | No |
 | `obspm.fr` | No |
-| `obufalus.jp` | No |
 | `oc.is` | Yes |
 | `ocallahan.org` | No |
 | `ocaml.org` | No |
@@ -29039,7 +29034,6 @@ Here's a list of public Fediverse services.
 | `sidraco.in` | No |
 | `siebent.net` | No |
 | `siedler.ro` | No |
-| `sieg-dragon.blue` | No |
 | `siegenthaler.mx` | No |
 | `sieker.software` | No |
 | `sien.no` | No |
@@ -34645,7 +34639,7 @@ Here's a list of public Fediverse services.
 | `waarland.eu` | No |
 | `wabarr.com` | No |
 | `wachbleiben.ch` | No |
-| `wack.industries` | No |
+| `wack.industries` | Yes |
 | `wack.win` | Yes |
 | `wackwack.net` | No |
 | `wacky.town` | No |
@@ -36733,8 +36727,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,618 |
-| Normal | 28,072 |
+| Cloudflare | 8,617 |
+| Normal | 28,067 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
