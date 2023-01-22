@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,421 |
-| social | 3,416 |
+| com | 5,423 |
+| social | 3,417 |
 | net | 2,776 |
 | org | 1,983 |
 | de | 1,867 |
@@ -10306,6 +10306,7 @@ Here's a list of public Fediverse services.
 | `filmaidykai.net` | Yes |
 | `filmfreedom.net` | No |
 | `filmherd.social` | No |
+| `filmmusic.social` | No |
 | `filmvirgins.com` | No |
 | `fim.social` | Yes |
 | `fimidi.com` | No |
@@ -18800,6 +18801,7 @@ Here's a list of public Fediverse services.
 | `malone.social` | No |
 | `malsum.org` | No |
 | `maltech.io` | Yes |
+| `maltestock.com` | No |
 | `malu.today` | No |
 | `malua.xyz` | No |
 | `maly.io` | Yes |
@@ -21275,7 +21277,7 @@ Here's a list of public Fediverse services.
 | `mstdn.agency` | No |
 | `mstdn.ai` | No |
 | `mstdn.ar` | Yes |
-| `mstdn.art` | No |
+| `mstdn.art` | Yes |
 | `mstdn.at` | No |
 | `mstdn.beer` | No |
 | `mstdn.biz` | No |
@@ -23671,6 +23673,7 @@ Here's a list of public Fediverse services.
 | `onlinekirche.net` | No |
 | `onlinetrainer.es` | No |
 | `onlyarts.social` | No |
+| `onlybsds.com` | Yes |
 | `onlycasino.legal` | Yes |
 | `onlycosplays.social` | No |
 | `onlyfans.tokyo` | No |
@@ -36718,8 +36721,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,612 |
-| Normal | 28,063 |
+| Cloudflare | 8,614 |
+| Normal | 28,064 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
