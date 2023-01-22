@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,423 |
-| social | 3,417 |
+| social | 3,418 |
 | net | 2,776 |
 | org | 1,983 |
 | de | 1,867 |
@@ -3837,6 +3837,7 @@ Here's a list of public Fediverse services.
 | `bmhorn.de` | No |
 | `bminde.com` | No |
 | `bmrf.institute` | Yes |
+| `bms.social` | Yes |
 | `bmu.cloud` | No |
 | `bmvs.io` | Yes |
 | `bmw-and-more.info` | No |
@@ -4849,6 +4850,7 @@ Here's a list of public Fediverse services.
 | `catgirls.party` | Yes |
 | `catgirls.science` | Yes |
 | `catgirls.technology` | Yes |
+| `catgirlsare.cool` | Yes |
 | `catgirlsfor.science` | Yes |
 | `catgirlsin.space` | No |
 | `catgram.co` | Yes |
@@ -5183,6 +5185,7 @@ Here's a list of public Fediverse services.
 | `chevroulet.ch` | No |
 | `chew.monster` | Yes |
 | `chez-papy-daarky.ovh` | No |
+| `chez.chat` | No |
 | `chezjln.xyz` | No |
 | `chezmoi.cloud` | No |
 | `chezwam.eu` | No |
@@ -10898,6 +10901,7 @@ Here's a list of public Fediverse services.
 | `freespeech.tube` | No |
 | `freespeechextremist.com` | No |
 | `freestead.be` | No |
+| `freestorm.online` | No |
 | `freetalk.club` | Yes |
 | `freetalk.ml` | Yes |
 | `freetalklive.com` | No |
@@ -17048,6 +17052,7 @@ Here's a list of public Fediverse services.
 | `lacan.net` | No |
 | `lacasa.ovh` | Yes |
 | `lacaveatonton.ovh` | No |
+| `laccoske.online` | Yes |
 | `lacheiner.at` | No |
 | `lachessfortress.com` | No |
 | `lachman.tk` | No |
@@ -17934,6 +17939,7 @@ Here's a list of public Fediverse services.
 | `litvin.pro` | No |
 | `litza.de` | No |
 | `liu.se` | No |
+| `liuli.lol` | Yes |
 | `liuwm.work` | Yes |
 | `live-on.net` | No |
 | `live-website.com` | No |
@@ -23348,6 +23354,7 @@ Here's a list of public Fediverse services.
 | `obsolete.digital` | No |
 | `obsolete29.com` | No |
 | `obspm.fr` | No |
+| `obufalus.jp` | No |
 | `oc.is` | Yes |
 | `ocallahan.org` | No |
 | `ocaml.org` | No |
@@ -29029,6 +29036,7 @@ Here's a list of public Fediverse services.
 | `sidraco.in` | No |
 | `siebent.net` | No |
 | `siedler.ro` | No |
+| `sieg-dragon.blue` | No |
 | `siegenthaler.mx` | No |
 | `sieker.software` | No |
 | `sien.no` | No |
@@ -36721,8 +36729,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,614 |
-| Normal | 28,064 |
+| Cloudflare | 8,618 |
+| Normal | 28,068 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
