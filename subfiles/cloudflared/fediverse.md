@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,423 |
-| social | 3,418 |
+| social | 3,419 |
 | net | 2,776 |
 | org | 1,983 |
-| de | 1,867 |
+| de | 1,868 |
 
 
 - Mastodon, Pleroma, etc
@@ -2011,6 +2011,7 @@ Here's a list of public Fediverse services.
 | `area51.media` | No |
 | `area51.social` | No |
 | `area893.org` | No |
+| `arein.space` | No |
 | `areiyatech.com` | No |
 | `arel.net` | Yes |
 | `arent.net` | No |
@@ -2066,6 +2067,7 @@ Here's a list of public Fediverse services.
 | `arkchat.org` | No |
 | `arkenous.me` | No |
 | `arkham.cafe` | No |
+| `arkm.de` | No |
 | `arkmag.rocks` | No |
 | `arkproject.io` | Yes |
 | `arkros.net` | No |
@@ -24753,6 +24755,7 @@ Here's a list of public Fediverse services.
 | `persians.life` | Yes |
 | `persiansmastodon.com` | Yes |
 | `personal.pizza` | No |
+| `personaleum.at` | No |
 | `personalfinance.social` | No |
 | `personaljournal.ca` | No |
 | `personashield.com` | No |
@@ -33635,6 +33638,7 @@ Here's a list of public Fediverse services.
 | `umiamz.me` | Yes |
 | `umikaki.net` | Yes |
 | `umirin.me` | No |
+| `umit.social` | No |
 | `umiumi.net` | No |
 | `umontreal.ca` | Yes |
 | `umrath.net` | No |
@@ -36730,7 +36734,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,618 |
-| Normal | 28,068 |
+| Normal | 28,072 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
