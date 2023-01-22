@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,421 |
-| social | 3,415 |
+| social | 3,416 |
 | net | 2,776 |
 | org | 1,983 |
 | de | 1,867 |
@@ -528,7 +528,7 @@ Here's a list of public Fediverse services.
 | `7homas.de` | No |
 | `7io.org` | No |
 | `7jours.be` | No |
-| `7ka.org` | No |
+| `7ka.org` | Yes |
 | `7kry.net` | No |
 | `7l7.dk` | No |
 | `7lb.de` | No |
@@ -6314,6 +6314,7 @@ Here's a list of public Fediverse services.
 | `crlf.ninja` | No |
 | `crmbl.uk` | No |
 | `cro-maat.com` | Yes |
+| `cro.social` | No |
 | `croall.ca` | No |
 | `crobin.photos` | No |
 | `crockett.network` | No |
@@ -36717,7 +36718,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,611 |
+| Cloudflare | 8,612 |
 | Normal | 28,063 |
 
 
