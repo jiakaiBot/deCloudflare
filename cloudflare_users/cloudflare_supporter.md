@@ -2979,6 +2979,7 @@ Do not create new issue or we will close it as duplicate.
 | [farooq_dmj@twitter](https://twitter.com/farooq_dmj/status/1471859023389630468) | advertise |
 | [farooq_furkhan@twitter](https://twitter.com/farooq_furkhan/status/1406526860792455169) | advertise |
 | [farpa23926673@twitter](https://twitter.com/farpa23926673/status/1573059951970377733) | advertise |
+| [farrukh768acca@twitter](https://twitter.com/farrukh768acca/status/1617188352150896640) | advertise |
 | [Farzad33475400@twitter](https://twitter.com/Farzad33475400/status/1578132827421507592) | advertise |
 | [farzanf@twitter](https://twitter.com/farzanf/status/1526583866181529609) | advertise |
 | [Farzin19576702@twitter](https://twitter.com/Farzin19576702/status/1391834415785861120) | advertise |
@@ -5200,8 +5201,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6480,6 +6481,7 @@ Do not create new issue or we will close it as duplicate.
 | [mhmdqay1@twitter](https://twitter.com/mhmdqay1/status/1492953909517856781) | advertise |
 | [mhmmuneef@twitter](https://twitter.com/mhmmuneef/status/1434865010694569987) | advertise |
 | [mhns1824@twitter](https://twitter.com/mhns1824/status/1391902191628079107) | advertise |
+| [MH_Maulana@twitter](https://twitter.com/MH_Maulana/status/1617179846576340996) | advertise |
 | [Mi60252365@twitter](https://twitter.com/Mi60252365/status/1391274283339423744) | advertise |
 | [mia36384229@twitter](https://twitter.com/mia36384229/status/1477691522912907264) | advertise |
 | [Miasng2012@twitter](https://twitter.com/Miasng2012/status/1398618997755498496) | advertise |
