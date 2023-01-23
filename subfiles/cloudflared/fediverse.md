@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,435 |
-| social | 3,441 |
-| net | 2,781 |
+| social | 3,442 |
+| net | 2,783 |
 | org | 1,986 |
 | de | 1,872 |
 
@@ -3386,6 +3386,7 @@ Here's a list of public Fediverse services.
 | `bigbox.red` | No |
 | `bigbrother.house` | Yes |
 | `bigcavemaps.com` | Yes |
+| `bigchat.social` | No |
 | `bigchungus69.club` | No |
 | `bigdickisbackintown.futbol` | No |
 | `bigdinosaur.org` | Yes |
@@ -15959,6 +15960,7 @@ Here's a list of public Fediverse services.
 | `kamel.social` | No |
 | `kamens.us` | Yes |
 | `kamiyacho.net` | No |
+| `kammeyer.xyz` | No |
 | `kamp.site` | No |
 | `kampa.si` | No |
 | `kampftoast.de` | No |
@@ -18911,6 +18913,7 @@ Here's a list of public Fediverse services.
 | `mandps.net` | No |
 | `mandra.us` | Yes |
 | `maneisacutie.club` | No |
+| `manetheren.net` | No |
 | `manfre.net` | No |
 | `manga.tokyo` | Yes |
 | `mangadon.biz` | No |
@@ -22971,6 +22974,7 @@ Here's a list of public Fediverse services.
 | `noovi.org` | No |
 | `nop.codes` | Yes |
 | `nop.moe` | No |
+| `noparticular.place` | No |
 | `nopasaran.red` | No |
 | `nopdev.com` | No |
 | `nope.social` | No |
@@ -27938,6 +27942,7 @@ Here's a list of public Fediverse services.
 | `saibo.world` | Yes |
 | `saibou.work` | No |
 | `saidon.online` | No |
+| `saifulh.online` | No |
 | `saifulh.web.id` | No |
 | `saigodon.jp` | No |
 | `saigyouji.cyou` | Yes |
@@ -28353,6 +28358,7 @@ Here's a list of public Fediverse services.
 | `schoolidol.pro` | No |
 | `schoollibraries.net` | No |
 | `schooner.social` | No |
+| `schorelweb.nl` | No |
 | `schosta.com` | No |
 | `schottkydio.de` | No |
 | `schrdr.nl` | No |
@@ -28783,6 +28789,7 @@ Here's a list of public Fediverse services.
 | `setsetset.space` | No |
 | `setsuna.kr` | No |
 | `settgast.org` | Yes |
+| `seungjin.net` | No |
 | `seva.rocks` | No |
 | `seven-don.com` | No |
 | `sevenbyte.org` | No |
@@ -33190,6 +33197,7 @@ Here's a list of public Fediverse services.
 | `trouth.eu` | No |
 | `troxelhome.page` | No |
 | `trpg-link.tk` | No |
+| `trpg-o.xyz` | No |
 | `trpg.cloud` | Yes |
 | `trshnet.de` | No |
 | `trtl.in` | No |
@@ -36824,7 +36832,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,648 |
-| Normal | 28,132 |
+| Normal | 28,140 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
