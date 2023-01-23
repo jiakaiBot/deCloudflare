@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,434 |
 | social | 3,441 |
-| net | 2,780 |
+| net | 2,781 |
 | org | 1,986 |
 | de | 1,870 |
 
@@ -8067,6 +8067,7 @@ Here's a list of public Fediverse services.
 | `doghub.eu` | No |
 | `dogiakos.com` | No |
 | `dogno.se` | Yes |
+| `dogphilosophy.net` | No |
 | `dogs.chat` | No |
 | `dogs.photos` | No |
 | `dogsballs.net` | No |
@@ -36816,7 +36817,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,646 |
-| Normal | 28,126 |
+| Normal | 28,127 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
