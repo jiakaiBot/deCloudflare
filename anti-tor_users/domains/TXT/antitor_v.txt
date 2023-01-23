@@ -1264,6 +1264,7 @@ bhormilind-gmailcom.vercel.app
 billing.db.vpisglobal.com
 billing.vaccoda.com
 billingarchive.v3.ca
+biz.view-web.net
 blackhat-seo-services.veryfasthosting.co.uk
 blog.store.zmail.vermeerlouisiana.com
 blox-link.vercel.app
@@ -1284,6 +1285,7 @@ click.e.vsp.com
 click.email.vegas.com
 click.vp.volatilitypredictor.com
 clicks.valk.nl
+client.visi.help
 cloud.e.vsp.com
 clouston.v3client.com
 com.cp-ht-3.bigroblog.debug.vojvodinanet.com
@@ -1453,6 +1455,7 @@ securenet.vodafone.ie
 security.vida.software
 semo.verkstad.net
 sentry.kube.viralgains.com
+service.veddigitalportal.com
 servicedesk.vbg-it.de
 services.viededingue.fr
 shakeitright-ws.pre.vodafone.pt
@@ -1512,6 +1515,7 @@ valcester.com.br
 valentineflorist.net
 valeowipers.us
 valerianworkshops.com
+valiantsupport.com.au
 validaciondedomicilios.com.mx
 validconnectify.com
 vallettaferryservices.com
@@ -1590,6 +1594,7 @@ videomemetemplate.com
 viessmann-service.tech
 viessmannservice.ro
 vietnamroblox.com
+vietskysupport.com
 vieu.cc
 viewablemedia.net
 viewdigital.org
@@ -1597,6 +1602,7 @@ vigorousism.com
 vikas-academy.com
 vikingstrength.ca
 vildeuniverser.dk
+villa-authentica.com
 villainarts.com
 vinduespudserservice.dk
 vineremoval.com
@@ -1609,9 +1615,11 @@ vipheliservices.com
 vipinstalacaodepisos.website
 viptoolses.com
 viralspaceshare.com
+virtualtechfrontier.com
 visiblemeasures.com
 vision-service.be
 vistoolr.net
+vita-gate.com
 vitale-experation.fr
 vitalitywellnessmissoula.com
 vitaltech.com
@@ -1630,6 +1638,7 @@ vohhall71.com
 vohhall91.com
 voicepingpong.com
 volcanoactivity.com
+voliofun.site
 volkerhartzsch.com
 vologda-oblast.ru
 vommerenexclusive.nl
@@ -1682,7 +1691,10 @@ www.marathatransportservice.com.vividindiatour.com
 www.mecagrogrup.videocontrol.md
 www.moneyline.vztrader.com
 www.pixtodosdias.com.br.verificagram.com.br
+www.securedataware.in.vydhya.in
+www.service.veddigitalportal.com
 www.services.vriddhi-lanka.org
+www.serviciodecorreo.vadejardin.com
 www.southdakotasbest.com.viajarfacil.info
 www.superdryonsale.com.viajarfacil.info
 www.support.valosgames.com
@@ -1695,6 +1707,7 @@ www.v12voice.com
 www.vacantmastodon.ca
 www.valdostadailytimes.com
 www.valentinpistrui.xyz
+www.valiantsupport.com.au
 www.valleycentral.com
 www.vanhornansweringservice.com
 www.vasculardiseasemanagement.com
@@ -1715,6 +1728,7 @@ www.vidasatphones.com
 www.videomarket.jp
 www.viessmann-service.tech
 www.vilacriativa.com.br
+www.villa-authentica.com
 www.ville-sens.fr
 www.vinduesps.vinduespudserservice.dk
 www.vipeqlogin.com
@@ -1722,9 +1736,11 @@ www.virtualverse.one
 www.visiblecollege.education
 www.vision-service.be
 www.visitsingapore.com.cn
+www.visordown.com
 www.vitalitywatch.com
 www.vitpost.gq
 www.vittrack.gq
+www.vmf.com
 www.vogons.org
 www.volcanocafe.org
 www.voltcoinwallet.co.uk
