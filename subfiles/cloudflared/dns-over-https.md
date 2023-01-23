@@ -93,7 +93,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | censurfridns.dk | No |
 | cgnat.net | No |
 | chaos-system.de | No |
-| charleslondon.online | Yes |
 | chavy.dev | No |
 | chenu.ch | No |
 | chromeina.top | Yes |
@@ -469,8 +468,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 211 |
+| Cloudflare | 210 |
 | Normal | 239 |
 
 
-### 46.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
