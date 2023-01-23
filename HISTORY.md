@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-26: [WAW (Warsaw) on 2023-01-26](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lfvdhvnwv5y1)
+- 2023-01-25: [WAW (Warsaw) on 2023-01-25](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/x6vxmyxkpspy)
 - 2023-01-22: [Customers can experience high 5XX errors rate](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fws16cqmcl6w)
 - 2023-01-21: [PBM (Paramaribo) on 2023-01-21](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/js3tmbr565gk)
 - 2023-01-20: [Cloudflare Notifications issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lxmr3n0cv13h)
