@@ -1433,7 +1433,6 @@ goldenticket.fi
 goldman.rs
 gomart.ge
 good-support.gskila.com.np
-goodcredit.com
 goodiesfor.me
 goodsensesecurity.com
 googlemap.pk
@@ -1443,7 +1442,6 @@ gotchingon.me
 gotournamentscs.ru
 govconta.cf
 governmentaffairsgroup.com
-governmentcontractsdc.com
 governmentinteract.ca
 governor.ohio.gov
 governor.sc.gov
@@ -1987,12 +1985,23 @@ zelda-heardle.glitch.me
 00f74ba44baef2a33a53f6faa85c0cd3256e3b0a68-apidata.googleusercontent.com
 00f74ba44be8f9b9bb3411da8750379890c6c72b06-apidata.googleusercontent.com
 01vitu.github.io
+039d29ff7db5312b3b95774fd0827236.safeframe.googlesyndication.com
+06a7db15e8f54e808c259f9feea37aea.safeframe.googlesyndication.com
 124e6df00f3ef6b193f579cfa94f5fc2.safeframe.googlesyndication.com
 1d053fd4696c41.site.godaddyarabicwsbonline.com
 21acb87f9afc4018484b5ad8ffbd08f5.safeframe.googlesyndication.com
+249ca40abccd0f59482ad6de3b5329ca.safeframe.googlesyndication.com
 27409719181dd624703636bc3525a7ab.safeframe.googlesyndication.com
+2c6a0df4a4c2fbe94d34d2db7ffeb521.safeframe.googlesyndication.com
+38b2c623a754fac6bfe73a54931514bb.safeframe.googlesyndication.com
+3c-bap.gmx.net
+3c-bs.gmx.es
 419d4d77b56a9fdda578c4c1027bf1ed.safeframe.googlesyndication.com
+43569562e5fadb603e135d1fffccb1d3.safeframe.googlesyndication.com
+4bd2b1d8bc8dac95529ebb35df24e2f1.safeframe.googlesyndication.com
 51dcd1cd4b397b71011a4c788d14cfde.safeframe.googlesyndication.com
+54eba168cd8e9015836383204fe3d6e6.safeframe.googlesyndication.com
+6fba8a25f59402525ade39095698624d.safeframe.googlesyndication.com
 71544ad6f57558d5be2336094c894dfb.safeframe.googlesyndication.com
 7342fa263f446a1fc28fb52d66953146.safeframe.googlesyndication.com
 7936617fcb8f5a06cfd086d561bfc6e8.safeframe.googlesyndication.com
@@ -2091,6 +2100,7 @@ btibuisnes.github.io
 btibusniess.github.io
 business.google-shopping.club
 c61bed2e4e4b8a52cda65f3fc103a68f.safeframe.googlesyndication.com
+ca1d558b8f45c8b8dbb6d49c48b0fbe3.safeframe.googlesyndication.com
 caring-bright-celery.glitch.me
 casper-cybercode-v2.geecko.dev
 caterwauling-economic-newsboy.glitch.me
@@ -2142,6 +2152,7 @@ consent.google.com.mx
 consent.google.gr
 consent.google.it
 consent.google.pt
+content-storage-p2.googleapis.com
 content.govdelivery.com
 cpanel.gadluiscordero.gob.ec
 cpanel.geraldicoding.my.id
@@ -2172,6 +2183,7 @@ customer-support-rnd.getcruise.com
 cvs.governikus-asp.de
 d008ee581727647af896698deb83557c.safeframe.googlesyndication.com
 d812edd594ffc619f1ad6cb4b80a4f47.safeframe.googlesyndication.com
+d87ae6791765f809837b0d9921fdc289.safeframe.googlesyndication.com
 d8bv7.app.goo.gl
 danielcampos214.github.io
 dashboard.groundenergysupport.com
@@ -2185,6 +2197,7 @@ dev-atlas.idam.gehealthcloud.io
 dev-support.galaxyforms.com
 dev.gridvision.com
 develop-web.gsa-cs.com
+devendra-gaur.github.io
 dhpsgapgtnerafshsya-omylbglhrbiogjikwwi-yieftjnlyyfdbacsjwu.glitch.me
 different-marsh-date.glitch.me
 dig.abclocal.go.com
@@ -2261,6 +2274,7 @@ e2c39.gcp.gvt2.com
 e2c43.gcp.gvt2.com
 e2c6.gcp.gvt2.com
 e2cs42.gcp.gvt2.com
+eamartglez.github.io
 earl-sweatshirt-heardlee.glitch.me
 eduhbarb.github.io
 ekl-net.gesyque.shop
@@ -2282,6 +2296,7 @@ fb-account-activation.github.io
 fcmtoken.googleapis.com
 feedback.gsa.gov
 femetrics.grammarly.io
+ffc413f003a3dfcd896efd6f1cc3ba74.safeframe.googlesyndication.com
 fgthuyjygyiuhjikujhk.storage.googleapis.com
 figueiredotiago.github.io
 files.gateway-spark.com
@@ -2338,8 +2353,10 @@ garamens.com
 garantiasonline.com
 garchencanada.com
 gardapest.my.id
+garonwhited.com
 garumlabia.com
 garystu.art
+gas-elec.org.uk
 gaslineservice.com
 gasparatras.pt
 gaspartorriero.it
@@ -2350,6 +2367,7 @@ gatoartesano.com
 gauravgogoi.org
 gavetadedinheiro.com.br
 gawsfashion.com
+gazettedesfemmes.ca
 gcahlla.ga
 gcloud-planilla.com
 gcluster.jp
@@ -2389,6 +2407,7 @@ genvideos.com
 geoma.casa
 geometry-almaty.kz
 geopoliticaleconomy.com
+george-erste-sparkass-at.com
 geosguide.com
 geraldicoding.my.id
 gerardofigueroa.club
@@ -2542,6 +2561,7 @@ google-com.org
 google.io
 googleapps.com
 googlebio.org
+googlebusinessprofileguide.com
 googledrive.com
 googleexpert.info
 googlesheetsacademy.com
@@ -2633,6 +2653,7 @@ jnn-pa.googleapis.com
 joaom22zl1.github.io
 joomla.growitsecure.com
 jss.gsa.gov
+keyauth.gad1.de
 kunden.gastromarketing.jetzt
 lamiahasanrodoshi.github.io
 large-parallel-savory.glitch.me
@@ -2722,6 +2743,7 @@ sajidimon.github.io
 sap.guiawebservice.com
 saranyasidda.github.io
 savannah.gnu.org
+scholar.google.co.jp
 security.gbotuephd.com
 security2.glow-web.net
 seguro.goviralshopp.com.br
@@ -2735,6 +2757,8 @@ sinkid.glitch.me
 sjtnu.github.io
 softpos.garantibbva.com.tr
 solidsecurity.globzine.com
+sparkasse.ch.go4d.ch
+sparkasse.ch.go4r.ch
 sprint.admin.gleamer.io
 staging.gezinshuis-attention.nl
 sudden-potent-zydeco.glitch.me
@@ -2750,6 +2774,7 @@ test-api.gonika.top
 test-socket.gonika.top
 test.vault.geoville.com
 thietbibeboihafuco.glitch.me
+thu2le.github.io
 timetaxy.github.io
 toolbarqueries.google.co.bw
 toolbarqueries.google.com.gh
@@ -2840,11 +2865,13 @@ www.georgewalllincoln.com
 www.georgewalllincolnredbank.com
 www.geoseer.net
 www.gerosciencenetwork.org
+www.gerwien-dresden.de
 www.getfeedback.fi
 www.getrevue.co
 www.getsmeup.com
 www.gezinshuis-attention.nl
 www.ghcustomer.biz
+www.gigharborpost236.org
 www.giovis.my
 www.gires.org.uk
 www.git.668f5e0e.z1.hashicorp.cloudg.magento.clud.gpinfo.eu
@@ -2903,6 +2930,7 @@ www.gpwsecuritynsw.com.au
 www.gradesservice.com
 www.grafcontrol.com.br
 www.grandfamiliesuc.org
+www.grandforksamericanlegionpost6.org
 www.graphicaudio.net
 www.gravi-t-clients.ca
 www.greatgreenwall.org
@@ -2910,6 +2938,7 @@ www.greatwarforum.org
 www.greenfoundationireland.ie
 www.greengeeks.com
 www.greenpeace.org.uk
+www.greenwoodlegionpost252.org
 www.gregorys.gr
 www.grimsbytelegraph.co.uk
 www.grnottinghamaccesscontrol.co.uk
@@ -2921,6 +2950,7 @@ www.guardiananytime.com
 www.guinness.com
 www.gumtree.com.au
 www.gungemadstore.com
+www.gunghaggis.com
 www.gunze.jp
 www.gutefrage.net
 www.gvpedia.org
@@ -2937,6 +2967,7 @@ www.newupdate.streamhd4k.goken.site
 www.nordicom.gu.se
 www.paketwisata.gotravelombok.com
 www.pmyupdate.com.gulabigangofficial.in
+www.post.gooviral.net
 www.punegasstoveservice.online.gasstoverepairnearme.co.in
 www.rahasiaorangtua.generosgold.id
 www.relogiodepontobiometria.gavetadedinheiro.com.br
