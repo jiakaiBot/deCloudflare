@@ -13118,6 +13118,7 @@ Here's a list of public Fediverse services.
 | `headcrashing.eu` | No |
 | `headhearthands.xyz` | No |
 | `headmat.es` | No |
+| `headpat.cafe` | Yes |
 | `headpat.moe` | No |
 | `headpats.cafe` | Yes |
 | `headphone.actor` | No |
@@ -36835,7 +36836,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,648 |
+| Cloudflare | 8,649 |
 | Normal | 28,144 |
 
 
