@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,428 |
 | social | 3,427 |
 | net | 2,777 |
-| org | 1,984 |
+| org | 1,985 |
 | de | 1,868 |
 
 
@@ -1524,7 +1524,7 @@ Here's a list of public Fediverse services.
 | `amplifyukraine.eu` | Yes |
 | `amrhein.social` | No |
 | `ams.su` | Yes |
-| `amst.io` | No |
+| `amst.io` | Yes |
 | `amsterdam.nl` | Yes |
 | `amsterdon.nl` | No |
 | `amum.al` | Yes |
@@ -19075,6 +19075,7 @@ Here's a list of public Fediverse services.
 | `masatodon.jp` | No |
 | `masatoshi-yokota.com` | No |
 | `maschinendeck.org` | No |
+| `mascodon.jp` | No |
 | `masdis.com` | No |
 | `masdon.life` | No |
 | `masdoon.com` | No |
@@ -32296,6 +32297,7 @@ Here's a list of public Fediverse services.
 | `thraeryn.red` | No |
 | `thrailkill.cloud` | Yes |
 | `thrash.club` | No |
+| `thrashzone.org` | Yes |
 | `threadintheweb.com` | No |
 | `threads.social` | No |
 | `threatactor.club` | No |
@@ -33110,7 +33112,7 @@ Here's a list of public Fediverse services.
 | `troll.academy` | No |
 | `troll.cafe` | No |
 | `troll.social` | No |
-| `troll.tube` | No |
+| `troll.tube` | Yes |
 | `troll.tv` | No |
 | `troll.university` | No |
 | `trollian.space` | No |
@@ -36762,8 +36764,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,630 |
-| Normal | 28,089 |
+| Cloudflare | 8,633 |
+| Normal | 28,088 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
