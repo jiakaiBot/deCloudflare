@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,433 |
-| social | 3,440 |
+| com | 5,434 |
+| social | 3,441 |
 | net | 2,780 |
 | org | 1,986 |
 | de | 1,870 |
@@ -2564,6 +2564,7 @@ Here's a list of public Fediverse services.
 | `awesomebible.de` | Yes |
 | `awesomefriends.social` | No |
 | `awesomehouse.ca` | No |
+| `awesomein.space` | No |
 | `awful.buzz` | No |
 | `awful.club` | No |
 | `awful.computer` | No |
@@ -4573,6 +4574,7 @@ Here's a list of public Fediverse services.
 | `c63.dev` | Yes |
 | `c64.chat` | No |
 | `c64.social` | No |
+| `c7.io` | Yes |
 | `c99.org` | Yes |
 | `c9users.io` | No |
 | `ca-os.com` | No |
@@ -12325,6 +12327,7 @@ Here's a list of public Fediverse services.
 | `gormware.engineering` | No |
 | `gorone.club` | No |
 | `gorone.xyz` | Yes |
+| `goroundtrip.co` | Yes |
 | `gorritodeplata.xyz` | No |
 | `gory.social` | No |
 | `goshdarn.fun` | No |
@@ -28045,6 +28048,7 @@ Here's a list of public Fediverse services.
 | `sanantonio.lol` | No |
 | `sanb62.com` | No |
 | `sanboukarasu.io` | Yes |
+| `sanchayanmaity.com` | No |
 | `sandcat.club` | No |
 | `sander.photos` | No |
 | `sander.sh` | No |
@@ -30620,6 +30624,7 @@ Here's a list of public Fediverse services.
 | `stratinator.com` | Yes |
 | `stratonauts.co` | Yes |
 | `strausmann.net` | Yes |
+| `straw.social` | Yes |
 | `strawhousepig.net` | No |
 | `strawjackal.org` | No |
 | `straylight.engineering` | No |
@@ -36810,8 +36815,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,643 |
-| Normal | 28,124 |
+| Cloudflare | 8,646 |
+| Normal | 28,126 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
