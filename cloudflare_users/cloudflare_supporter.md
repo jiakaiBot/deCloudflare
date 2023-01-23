@@ -86,6 +86,7 @@ Do not create new issue or we will close it as duplicate.
 | [4QUIGE@twitter](https://twitter.com/4QUIGE/status/1558725276162347011) | advertise |
 | [4Taff@twitter](https://twitter.com/4Taff/status/1397536462606831617) | advertise |
 | [5hc7_@twitter](https://twitter.com/5hc7_/status/1560757781958987783) | advertise |
+| [5Kiqg9RtIwnzbnB@twitter](https://twitter.com/5Kiqg9RtIwnzbnB/status/1617383692040822786) | advertise |
 | [5ss_ss4@twitter](https://twitter.com/5ss_ss4/status/1483667377044828160) | advertise |
 | [6lizzys@twitter](https://twitter.com/6lizzys/status/1490561482525855747) | advertise |
 | [6October8@twitter](https://twitter.com/6October8/status/1382415935454199815) | advertise |
@@ -4108,6 +4109,7 @@ Do not create new issue or we will close it as duplicate.
 | [huy98710873@twitter](https://twitter.com/huy98710873/status/1552622666808688641) | advertise |
 | [huybeokute@twitter](https://twitter.com/huybeokute/status/1379461629310509065) | advertise |
 | [huydn12@twitter](https://twitter.com/huydn12/status/1395017615651663873) | advertise |
+| [HuyGau2014@twitter](https://twitter.com/HuyGau2014/status/1617297071538868224) | advertise |
 | [Huyhoanghuynh05@twitter](https://twitter.com/Huyhoanghuynh05/status/1388289129624981505) | advertise |
 | [HUYHOANGLAVN@twitter](https://twitter.com/HUYHOANGLAVN/status/1580707897066938368) | advertise |
 | [huyjunior1@twitter](https://twitter.com/huyjunior1/status/1518422399389413376) | advertise |
@@ -4798,6 +4800,7 @@ Do not create new issue or we will close it as duplicate.
 | [Justin2582003@twitter](https://twitter.com/Justin2582003/status/1396401918914662400) | advertise |
 | [justincase8686@twitter](https://twitter.com/justincase8686/status/1555193631597887489) | advertise |
 | [justinchandu1@twitter](https://twitter.com/justinchandu1/status/1377719527098695681) | advertise |
+| [JustiNDarkVinci@twitter](https://twitter.com/JustiNDarkVinci/status/1617398001080889345) | advertise |
 | [justinkrenek2@twitter](https://twitter.com/justinkrenek2/status/1471386539934502915) | advertise |
 | [justinvawter@twitter](https://twitter.com/justinvawter/status/1530392285401124864) | advertise |
 | [justinwjohn@twitter](https://twitter.com/justinwjohn/status/1490784558807011328) | advertise |
@@ -7541,6 +7544,7 @@ Do not create new issue or we will close it as duplicate.
 | [NhanNeyugn@twitter](https://twitter.com/NhanNeyugn/status/1566722523274027009) | advertise |
 | [NhanNgu65502772@twitter](https://twitter.com/NhanNgu65502772/status/1506866514929995780) | advertise |
 | [NhanPha27178636@twitter](https://twitter.com/NhanPha27178636/status/1377611494133751810) | advertise |
+| [NhanRosy@twitter](https://twitter.com/NhanRosy/status/1617394157752037377) | advertise |
 | [nhan_dac@twitter](https://twitter.com/nhan_dac/status/1407903659929739268) | advertise |
 | [Nhat64394560@twitter](https://twitter.com/Nhat64394560/status/1385579142603677697) | advertise |
 | [Nhatchinh310@twitter](https://twitter.com/Nhatchinh310/status/1556312052180058112) | advertise |
