@@ -1748,6 +1748,7 @@ Do not create new issue or we will close it as duplicate.
 | [callmebyurnam18@twitter](https://twitter.com/callmebyurnam18/status/1401480809123508227) | advertise |
 | [CallmeDjNext@twitter](https://twitter.com/CallmeDjNext/status/1548434139954614272) | advertise |
 | [CallMeSanjuro@twitter](https://twitter.com/CallMeSanjuro/status/1559725959397494784) | advertise |
+| [callme_Raafi@twitter](https://twitter.com/callme_Raafi/status/1617434153829699584) | advertise |
 | [calmyourtittiez@twitter](https://twitter.com/calmyourtittiez/status/1392510606515658757) | advertise |
 | [calum523_2@twitter](https://twitter.com/calum523_2/status/1381710423825735688) | advertise |
 | [Calvin85712232@twitter](https://twitter.com/Calvin85712232/status/1392362270051639304) | advertise |
@@ -2082,8 +2083,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3268,6 +3269,7 @@ Do not create new issue or we will close it as duplicate.
 | [GinTl112@twitter](https://twitter.com/GinTl112/status/1392572589084606465) | advertise |
 | [Gio32429382@twitter](https://twitter.com/Gio32429382/status/1399756747972173830) | advertise |
 | [Giorga113@twitter](https://twitter.com/Giorga113/status/1404012205373280257) | advertise |
+| [girl97dam@twitter](https://twitter.com/girl97dam/status/1617443536508706823) | advertise |
 | [Girl_Crypto1102@twitter](https://twitter.com/Girl_Crypto1102/status/1391172773595123714) | advertise |
 | [GitBun1@twitter](https://twitter.com/GitBun1/status/1398636138944892929) | advertise |
 | [GiVTnh87561860@twitter](https://twitter.com/GiVTnh87561860/status/1585233563972431872) | advertise |
