@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,434 |
+| com | 5,435 |
 | social | 3,441 |
 | net | 2,781 |
 | org | 1,986 |
@@ -32199,7 +32199,7 @@ Here's a list of public Fediverse services.
 | `theunwashed.org` | No |
 | `theup.link` | No |
 | `theupsidedown.uk` | Yes |
-| `theurbanfarmer.org` | No |
+| `theurbanfarmer.org` | Yes |
 | `theusefularts.org` | No |
 | `thevacuumof.space` | No |
 | `thevalley.social` | No |
@@ -34974,6 +34974,7 @@ Here's a list of public Fediverse services.
 | `webunraveling.com` | No |
 | `weburbanists.com` | Yes |
 | `weburn.ru` | No |
+| `webvsn.com` | Yes |
 | `webworker.social` | No |
 | `webxb.com` | Yes |
 | `webzone69.com` | No |
@@ -36816,8 +36817,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,646 |
-| Normal | 28,127 |
+| Cloudflare | 8,648 |
+| Normal | 28,126 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
