@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Docker-compose the service does not exist](https://github.com/traefik/traefik/issues/9674)
+- [Deleting a release version fails with status 500](https://github.com/spring-io/projects-api/issues/7)
 - [rutracker (updating) The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/676)
 - [CloudFlare Customers can experience high 5XX errors rate](https://github.com/MatBenfield/news/issues/8383)
 - [Site slow to load/crashes to Gateway timeout](https://github.com/Nexus-Mods/web-issues/issues/1642)
