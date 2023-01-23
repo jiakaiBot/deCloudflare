@@ -14151,6 +14151,7 @@ Here's a list of public Fediverse services.
 | `icnerd.com` | Yes |
 | `icodeinht.ml` | No |
 | `icolectiva.org` | No |
+| `iconfactory.world` | No |
 | `icosahedron.website` | No |
 | `icosaverse.social` | No |
 | `icreate.social` | Yes |
@@ -36838,7 +36839,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,649 |
-| Normal | 28,145 |
+| Normal | 28,146 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
