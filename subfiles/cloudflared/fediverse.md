@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,441 |
 | net | 2,781 |
 | org | 1,986 |
-| de | 1,870 |
+| de | 1,872 |
 
 
 - Mastodon, Pleroma, etc
@@ -7486,6 +7486,7 @@ Here's a list of public Fediverse services.
 | `depht.com` | No |
 | `depixelated.com` | Yes |
 | `depone.net` | No |
+| `depoze.xyz` | Yes |
 | `deppenkessel.de` | No |
 | `deprecastan.com` | No |
 | `depressed.bar` | No |
@@ -11721,7 +11722,7 @@ Here's a list of public Fediverse services.
 | `geekprojects.com` | No |
 | `geeks.cafe` | No |
 | `geeks.one` | No |
-| `geekshell.fr` | Yes |
+| `geekshell.fr` | No |
 | `geeksociety.social` | No |
 | `geekspawn.xyz` | Yes |
 | `geekspot.com` | No |
@@ -17116,6 +17117,7 @@ Here's a list of public Fediverse services.
 | `lactomeda.tk` | No |
 | `ladd.network` | Yes |
 | `ladicle.com` | No |
+| `ladies-log.de` | No |
 | `ladies.community` | No |
 | `ladisquette.fr` | No |
 | `ladn.org` | No |
@@ -24092,6 +24094,7 @@ Here's a list of public Fediverse services.
 | `other.blue` | Yes |
 | `otherbyte.com` | No |
 | `otherground.party` | No |
+| `otherja.red` | No |
 | `otherkin.club` | No |
 | `otherreality.net` | No |
 | `others.social` | No |
@@ -28366,6 +28369,7 @@ Here's a list of public Fediverse services.
 | `schumacher.im` | No |
 | `schumacher.social` | No |
 | `schumann.social` | Yes |
+| `schunzel.de` | No |
 | `schuppen.dev` | Yes |
 | `schuppen.social` | No |
 | `schuppentier.org` | No |
@@ -30007,6 +30011,7 @@ Here's a list of public Fediverse services.
 | `spacelasers.us` | Yes |
 | `spaceling.sh` | Yes |
 | `spacenoid.social` | No |
+| `spacepanda.se` | No |
 | `spacepatrol.org` | No |
 | `spacepub.space` | No |
 | `spaceraser.dev` | No |
@@ -34740,6 +34745,7 @@ Here's a list of public Fediverse services.
 | `wafflecity.org` | Yes |
 | `waffles.fun` | Yes |
 | `wafrn.net` | Yes |
+| `wafy.ga` | No |
 | `wageoffsite.com` | Yes |
 | `wagesofsinisdeath.com` | No |
 | `wagner.pp.ru` | No |
@@ -36818,7 +36824,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,648 |
-| Normal | 28,126 |
+| Normal | 28,132 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
