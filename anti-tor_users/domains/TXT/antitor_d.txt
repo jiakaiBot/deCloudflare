@@ -2678,11 +2678,13 @@ authspokegovpass.dss.gov.au
 autodiscover.destmediagroup.com
 autodiscover.devletkamulastirma.com
 autodiscover.diederiknomden-rumbleroyale.com
+autodiscover.dijitalsube-acikdenizv5-com.tk
 autodiscover.dioscorus.org
 autodiscover.discordatura.com
 autodiscover.discordiastudio.hr
 autodiscover.discotrope.org
 autodiscover.domainbank.be
+autodiscover.dynnovation.com
 autodiscover.dynobit.org
 autodiscover.dynoenergytrans.com
 autodiscover.dynogy.com
@@ -2778,7 +2780,9 @@ cpanel.deltachain.site
 cpanel.dimani-hanbai.site
 cpanel.dioscorus.org
 cpanel.discodazzle.co.za
+cpanel.discordiamental.cl
 cpanel.discordiastudio.hr
+cpanel.dynnovation.com
 cpanel.dynogy.com
 cpanel.dynomotion.biz
 cpanel.dynomotion.com
@@ -2788,10 +2792,12 @@ cpcalendars.dioscorus.org
 cpcalendars.disco-jl-music.fr
 cpcalendars.discodetacografo.com.br
 cpcalendars.discordatura.com
+cpcalendars.discordiamental.cl
 cpcalendars.discorv.com
 cpcalendars.discotrope.org
 cpcalendars.dougpruitt.com
 cpcalendars.dreammmatch.com
+cpcalendars.dynnovation.com
 cpcalendars.dynobit.org
 cpcalendars.dynocomputer.com
 cpcalendars.dynoenergytrans.com
@@ -2810,11 +2816,13 @@ cpcontacts.dimani-tuhan.site
 cpcontacts.dioscorus.org
 cpcontacts.disco-jl-music.fr
 cpcontacts.discordatura.com
+cpcontacts.discordiamental.cl
 cpcontacts.discorv.com
 cpcontacts.discotrope.org
 cpcontacts.dougpruitt.com
 cpcontacts.dreammmatch.com
 cpcontacts.drsibelgelecek.com
+cpcontacts.dynnovation.com
 cpcontacts.dynobit.org
 cpcontacts.dynoenergytrans.com
 cpcontacts.dynofam.com.sg
@@ -2931,6 +2939,7 @@ delightfulhentai.com
 deliver-to-you.com
 deliverhealth.ch
 deliveries123.com
+deliveringtomorrow.ca
 deliveringtomorrow.today
 delivery-nv.online
 delivery-patra.gr
@@ -2968,6 +2977,7 @@ derechohabiente.com
 deref-gmx.net
 derickrethans.nl
 derma360.gr
+descargatelocorp.net
 desekansr.com
 desertjewells.com.au
 desi-escort.com
@@ -3002,6 +3012,7 @@ dfyouolsdq.com
 dg.dhgate.com
 dgavtoservice.com
 dhakkaburr.xyz
+dhl-suivis.be
 dhoom-escort.com
 diabeticdietfoodlist.com
 diacord.me
@@ -3060,6 +3071,8 @@ diplomatsafe.ru
 dis.co.id
 disc.io
 disccorp.com
+discgolftradingpost.com
+disciroundraccipe.tk
 disco-lespectacle.fr
 disco2disco.co.uk
 discobrass.co.uk
@@ -3077,7 +3090,7 @@ discord.dannyk.us
 discord.dlvgaming.com
 discordbans.com
 discordbugs.tk
-discordlink.de
+discordiamental.cl
 discordmembership.com
 discordpredator.co.uk
 discords-bonus.pro
@@ -3100,6 +3113,7 @@ distractionware.com
 district160.com
 dito.com.mx
 divinegracerosaries.com
+divinitylabsketo.org
 dixonsjamaican.com
 djclegal.com
 djelixir.com
@@ -3114,6 +3128,7 @@ dkd.eu
 dl.dropboxusercontent.com
 dlktech.co.in
 dlnservice.ro
+dlscord-steam.com
 dmcproduction.com
 dmipay-familysupport.com
 dmm-imys.com
@@ -3163,6 +3178,7 @@ downsouthsafety.com.au
 dowtyler.com
 dperfect.com
 dpeservice.com
+dposafety.ro
 dpsdoc.it
 dragcave.net
 dragly.org
@@ -3170,6 +3186,7 @@ dragondaniela.de
 dragonsdelivery.ro
 drakbareyehospitals.com
 drclintonlee.ca
+dreamauthentics.com
 drelitesecurity.com
 dresdencodak.com
 drfatihkoroglu.com
@@ -3398,6 +3415,7 @@ graphic.demowebsiteclient.com
 groupcalconn.dachser.com
 gtlaw-ap-epapi.ditno.com
 h5.discord-store.ru
+haproxy.dataroid.com
 harlingsecurity-staging.digitalgarden.co
 health.demowebsiteclient.com
 hec.splunk.aws.digital.nhs.uk
@@ -3418,9 +3436,11 @@ interior-nitro-weighted.us-east-1.geo.hosted.content.distribution.dtcisb.technol
 interior-nitro.content.distribution.dtcisb.technology
 interior-nitro.geo.hosted.content.distribution.dtcisb.technology
 interior-nitro.us-east-1.aws.hosted.content.distribution.dtcisb.technology
+intertrust-api.dac6connect.com
 intranet.discord-acc.ru
 ipoffice.donoralliance.org
 iqmaiulgpzlfb52.caradmin.discord-accounts.ru
+isvoc.deviantart.com
 ita.edu.daneurope.org
 itunes.apple.update.compte.id.doughudson.com
 jab.disco.to
@@ -3454,6 +3474,7 @@ madartraven.deviantart.com
 madchiimp.denusmoneycircle.com
 mail.dioscorus.org
 mail.discodazzle.co.za
+mail.discordiamental.cl
 mail.dynoenergytrans.com
 mail.dynogy.com
 mail.dynotestedfiles.com
@@ -3499,6 +3520,7 @@ play.dkempinski.com
 pma.discord-acc.ru
 pma.discord-store.ru
 pos.delivermyvape.co.uk
+price-support.datawithcar.com
 private.delft.nl
 prod.discord-acc.ru
 prod.umbrella.demonware.net
@@ -3526,6 +3548,7 @@ share.demcastusa.com
 shop.app.discord-accounts.ru
 shopdisney.disney.co.jp
 shopify.discord-acc.ru
+sistema.discord-accounts.ru
 skd.donghee.co.kr
 socipost.digitalpoonam.store
 soti1b.datema.se
@@ -3587,9 +3610,11 @@ w0000.denshikeiyaku.jp
 webdisk.depokupdate.id
 webdisk.dioscorus.org
 webdisk.discodazzle.co.za
+webdisk.discordiamental.cl
 webdisk.discotrope.org
 webdisk.discoveryfm.com
 webdisk.dumanlitwitter.xyz
+webdisk.dynnovation.com
 webdisk.dynobit.org
 webdisk.dynogy.com
 webdisk.dynopulls.com
@@ -3600,7 +3625,9 @@ webmail.dfwstagingclient.com
 webmail.digital-banking.asia
 webmail.dioscorus.org
 webmail.discodazzle.co.za
+webmail.discordiamental.cl
 webmail.discorsi.nl
+webmail.dynnovation.com
 webmail.dynogy.com
 welshpixie.deviantart.com
 whm.dioscorus.org
@@ -3649,12 +3676,14 @@ www.dashsymons.com
 www.databank.deelkracht.nl
 www.dateukrainianwoman.com
 www.daveswellservice.com
+www.davidbrin.com
 www.daviddeen.com
 www.daydesconto.com.br
 www.daysafe2u.com
 www.daysixcoffee.com
 www.dbvonline.de
 www.decotidien.com
+www.deenipost.com
 www.deeppestcontrol.in
 www.deepunddoof.de
 www.delange-services.nl
@@ -3665,6 +3694,9 @@ www.delivery5.com.br
 www.deliveryorderbuy.site
 www.deliveryorderbuy.space
 www.deliveryorderbuy.xyz
+www.deliveryorderpoint.online
+www.deliveryorderpoint.space
+www.deliveryorderpoint.store
 www.deliverypanamacity.com
 www.deltasigmatheta.org
 www.dem.cl
@@ -3676,6 +3708,7 @@ www.dental-service.daas-group.ro
 www.detroithockey.net
 www.deutrechtsebespanservice.nl
 www.deutsche-apotheker-zeitung.de
+www.dev47apps.com
 www.developerdotstar.com
 www.developersthrill.org
 www.devis-et-travaux.com
@@ -3703,6 +3736,7 @@ www.digitaliga.com.tr
 www.digitallydownloaded.net
 www.digitalmex.mx
 www.digitiser2000.com
+www.dioscoridepaulino.com
 www.diplomatie.gouv.fr
 www.directsellgroup.com
 www.dirty30services.com
@@ -3803,6 +3837,7 @@ www.odap.demowebsiteclient.com
 www.pos.delivermyvape.co.uk
 www.postfinance.dolomiten.top
 www.postgradofacgobiernoudd.dragarciahuidobro.cl
+www.price-support.datawithcar.com
 www.promax-seth.demowebsiteclient.com
 www.recycling.dominos.com
 www.rhysclout.demowebsiteclient.com
@@ -3819,6 +3854,7 @@ www.service.doozyinfo.in
 www.serviciotecnico.dercocenterpromociones.cl
 www.simplepassword.dudoni.pl
 www.social-security-disability-now.disability-ecafe.net
+www.superuser.com.au.dailytip.top
 www.support.darma.ba
 www.survey.dreamedservice.com
 www.system.dewijayakomputer.site
@@ -3830,6 +3866,7 @@ www.testezero.deliveryy.com.br
 www.testtest.demowebsiteclient.com
 www.thehealthycollection.demowebsiteclient.com
 www.toxexpresscourierservice.com.doortodoordeliveryservices.com
+www.track.dole-ro1.com
 www.tracker.dtcl.co.tz
 www.treeservice.demositelive.com
 www.trustwallet-supports.dodz-eg.com
