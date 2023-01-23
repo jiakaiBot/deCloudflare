@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,435 |
+| com | 5,437 |
 | social | 3,442 |
 | net | 2,783 |
 | org | 1,986 |
@@ -3733,6 +3733,7 @@ Here's a list of public Fediverse services.
 | `bln41.net` | Yes |
 | `bln41.win` | Yes |
 | `bloade.social` | Yes |
+| `bloatcat.tk` | No |
 | `bloatfree.ovh` | No |
 | `blob.cat` | No |
 | `blob.coffee` | No |
@@ -5341,6 +5342,7 @@ Here's a list of public Fediverse services.
 | `chrishumphreys.tech` | No |
 | `chrisjones.io` | No |
 | `chrisjov.de` | Yes |
+| `chriskrycho.com` | Yes |
 | `chriskthomas.com` | Yes |
 | `chrislesch.de` | No |
 | `chrislovett.com` | Yes |
@@ -5588,6 +5590,7 @@ Here's a list of public Fediverse services.
 | `cloudisland.online` | No |
 | `cloudist.cc` | No |
 | `cloudkatze.de` | No |
+| `cloudkeeper.dev` | No |
 | `cloudlabs.ga` | Yes |
 | `cloudland.social` | Yes |
 | `cloudless.world` | No |
@@ -11131,7 +11134,7 @@ Here's a list of public Fediverse services.
 | `fruitscale.com` | No |
 | `frunc.de` | No |
 | `frustrat.es` | No |
-| `fryntiz.cloud` | Yes |
+| `fryntiz.cloud` | No |
 | `fs.al` | No |
 | `fsam.one` | No |
 | `fsch.dev` | Yes |
@@ -27658,6 +27661,7 @@ Here's a list of public Fediverse services.
 | `rsi.social` | No |
 | `rsn.io` | No |
 | `rsngrtn.fyi` | No |
+| `rsnstats.com` | No |
 | `rsp-blogs.de` | No |
 | `rstdn-p.com` | No |
 | `rsxo.de` | No |
@@ -36832,7 +36836,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,648 |
-| Normal | 28,140 |
+| Normal | 28,144 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
