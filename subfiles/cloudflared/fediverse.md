@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,437 |
 | social | 3,442 |
-| net | 2,783 |
+| net | 2,784 |
 | org | 1,986 |
 | de | 1,872 |
 
@@ -17831,6 +17831,7 @@ Here's a list of public Fediverse services.
 | `lilithsaintcrow.com` | Yes |
 | `lilledame.nl` | No |
 | `lillimi.com` | No |
+| `lillin.net` | Yes |
 | `lilog.net` | Yes |
 | `lilomoino.fr` | No |
 | `lily.flowers` | No |
@@ -31289,7 +31290,7 @@ Here's a list of public Fediverse services.
 | `talking.dev` | No |
 | `talkingdrupal.social` | No |
 | `talkinghuman.com` | No |
-| `talkopol.is` | Yes |
+| `talkopol.is` | No |
 | `talkparanormal.social` | No |
 | `talkplus.org` | No |
 | `talkr.online` | No |
@@ -36837,7 +36838,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,649 |
-| Normal | 28,144 |
+| Normal | 28,145 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
