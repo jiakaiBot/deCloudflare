@@ -15,6 +15,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | --- | --- |
 | 00dani.me | No |
 | 360.cn | No |
+| 5ososea.com | Yes |
 | 7vpn.com | Yes |
 | 8888.google | No |
 | aa.net.uk | No |
@@ -29,6 +30,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | alidns.com | No |
 | almir1904.eu | Yes |
 | ambiya.net | Yes |
+| anggityuls.my.id | Yes |
+| apemlegit.my.id | No |
 | aquilenet.fr | No |
 | arnor.org | No |
 | artikel10.org | No |
@@ -57,6 +60,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | circl.lu | No |
 | clanless.ovh | Yes |
 | cloudflare-dns.com | Yes |
+| cmsdp.my.id | Yes |
 | cnblw.me | Yes |
 | cola16.app | Yes |
 | colorfreedom.org | No |
@@ -90,6 +94,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | doh.buzz | No |
 | doh.li | No |
 | doh.lv | No |
+| doh.sb | Yes |
 | dukun.de | No |
 | dyn1.de | No |
 | dyndns.org | No |
@@ -99,6 +104,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | elemental.software | Yes |
 | emiliyan.com | Yes |
 | ender.fr | No |
+| esegece.com | No |
 | fancyorg.at | No |
 | ffmuc.net | Yes |
 | flm9.net | No |
@@ -111,6 +117,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | futa.gg | Yes |
 | gac.edu | No |
 | ginovs.nl | No |
+| gnb09.id | Yes |
 | goodbyegambling.com | No |
 | grqu.de | No |
 | ha-dvin.pp.ua | No |
@@ -130,6 +137,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hotta.page | Yes |
 | hottis.de | No |
 | huque.com | No |
+| i2pd.xyz | No |
 | ihaveacloud.com | No |
 | iij.jp | Yes |
 | in-berlin.de | No |
@@ -218,6 +226,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rubyfish.cn | No |
 | ryan-palmer.com | No |
 | safesurfer.io | Yes |
+| salome.my.id | Yes |
 | seby.io | Yes |
 | sellan.fr | No |
 | shecan.ir | No |
@@ -230,6 +239,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | southam.family | No |
 | spacedns.org | No |
 | spectrum.com | Yes |
+| spil.co.id | Yes |
 | startupstack.tech | Yes |
 | stevenz.net | No |
 | surfshark.com | Yes |
@@ -254,6 +264,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tu-bs.de | No |
 | turker.info | No |
 | twnic.tw | No |
+| ubd.ac.id | No |
 | ultima-thule.ru | Yes |
 | uncensoreddns.org | No |
 | uni-bremen.de | No |
@@ -264,6 +275,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | velyn.my.id | Yes |
 | vinnyp.xyz | Yes |
 | vinokurov.tk | No |
+| vmath.my.id | No |
 | waringer-atg.de | No |
 | warpnine.de | No |
 | wewitro.net | No |
@@ -284,8 +296,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 102 |
-| Normal | 163 |
+| Cloudflare | 109 |
+| Normal | 168 |
 
 
-### 38.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 39.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
