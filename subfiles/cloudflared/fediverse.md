@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,431 |
-| social | 3,439 |
-| net | 2,779 |
-| org | 1,985 |
+| com | 5,433 |
+| social | 3,440 |
+| net | 2,780 |
+| org | 1,986 |
 | de | 1,870 |
 
 
@@ -17103,6 +17103,7 @@ Here's a list of public Fediverse services.
 | `lacienciaysusdemonios.com` | No |
 | `lacking.fun` | No |
 | `lacko.network` | Yes |
+| `lackthereof.info` | No |
 | `lacolaco.net` | No |
 | `lacoloc.cafe` | No |
 | `lacommune.social` | Yes |
@@ -20482,6 +20483,7 @@ Here's a list of public Fediverse services.
 | `minable.xyz` | No |
 | `minadoraserver.art` | No |
 | `minakodon.jp` | No |
+| `minamina3710.com` | No |
 | `minarin.moe` | No |
 | `minbash.de` | Yes |
 | `mince.network` | No |
@@ -20731,6 +20733,7 @@ Here's a list of public Fediverse services.
 | `mkdir.uk` | Yes |
 | `mkg20001.io` | Yes |
 | `mkgrcd.xyz` | No |
+| `mkihr-ojisan.com` | No |
 | `mkir.ch` | No |
 | `mkljczk.pl` | Yes |
 | `mkm.scot` | Yes |
@@ -20977,6 +20980,7 @@ Here's a list of public Fediverse services.
 | `monomarchos.agency` | No |
 | `monotremata.xyz` | No |
 | `monotropa-satellite.social` | No |
+| `monotropism.org` | No |
 | `monoweb.jp` | No |
 | `monoxyd.de` | No |
 | `monroemi.us` | No |
@@ -22969,6 +22973,7 @@ Here's a list of public Fediverse services.
 | `nops.red` | No |
 | `nopsled.club` | No |
 | `nopulse.net` | No |
+| `nora.social` | No |
 | `noraa.gay` | No |
 | `norad.org` | No |
 | `noraneko.pics` | No |
@@ -36259,6 +36264,7 @@ Here's a list of public Fediverse services.
 | `yorishiro.space` | No |
 | `yorklocal.org` | Yes |
 | `yorkshire.social` | Yes |
+| `yoroshiku.net` | No |
 | `yorozu-sys.net` | No |
 | `yorrike.com` | No |
 | `yorugatanokuni.com` | No |
@@ -36805,7 +36811,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,643 |
-| Normal | 28,118 |
+| Normal | 28,124 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
