@@ -31,7 +31,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 7vpn.com | Yes |
 | 886886886.xyz | Yes |
 | 8888.google | No |
-| 9273082020.ru | No |
 | 996333.xyz | Yes |
 | aa.net.uk | No |
 | aaflalo.me | Yes |
@@ -48,7 +47,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | adguardh.ga | No |
 | adrianion.eu | Yes |
 | adrianlam.com | Yes |
-| adtidy.net | Yes |
 | afastserver.com | Yes |
 | afixer.app | Yes |
 | aflr.io | No |
@@ -82,7 +80,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | art-nas.pp.ua | Yes |
 | artikel10.org | No |
 | asf1992labs.tk | No |
-| atakorah.com | No |
 | audet.cloud | No |
 | avastdns.com | No |
 | avdkishore.dev | Yes |
@@ -90,7 +87,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | azcom.dev | Yes |
 | azsopro.net | No |
 | b-cdn.net | No |
-| b33.network | Yes |
 | b33.space | Yes |
 | b612.me | Yes |
 | bancuh.com | No |
@@ -102,7 +98,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | benpro.fr | Yes |
 | betamax65.de | No |
 | bielperes.me | Yes |
-| bigbangtheory.monster | Yes |
 | bin.st | Yes |
 | bissnes.org | No |
 | bit-trail.nl | No |
@@ -154,7 +149,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cloudmini.net | Yes |
 | cloudnx.cloud | Yes |
 | cloudseriousshit.com | Yes |
-| cmsdp.my.id | Yes |
 | cnblw.me | Yes |
 | cola16.app | Yes |
 | colorfreedom.org | No |
@@ -278,7 +272,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | funtopia.tv | Yes |
 | futa.gg | Yes |
 | gac.edu | No |
-| gaconsulting.com.au | No |
 | gando.fr | Yes |
 | gbrossi.com.br | No |
 | gclouddns.com | Yes |
@@ -293,7 +286,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | goodbyegambling.com | No |
 | gosprout.org | No |
 | grantbruneau.com | No |
-| greatharts.com | Yes |
 | groupy.ga | No |
 | grqu.de | No |
 | gugainfo.com.br | Yes |
@@ -673,7 +665,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | yovbak.com | No |
 | ypbind.de | No |
 | zachitect.com | No |
-| zernico.de | Yes |
 | zfsystem.tech | No |
 | zxcvb.pp.ua | Yes |
 
@@ -682,8 +673,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 294 |
-| Normal | 369 |
+| Cloudflare | 288 |
+| Normal | 366 |
 
 
-### 44.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44% of DNS-over-HTTPS (DoH) are using Cloudflare.
