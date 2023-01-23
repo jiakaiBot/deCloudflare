@@ -374,6 +374,7 @@ mc.yandex.com
 media.yenimedya.com.tr
 music.yandex.ru
 mypartner-uat.yuanta.com.tw
+nitrobusinesssystems.yvecoleconsulting.com
 one2021-production.prod.emea.yaradigitallabs.io
 openweb.jac.yahoosandbox.com
 ov.youbuy.com
@@ -450,6 +451,7 @@ yariika.com
 yasmeenabaya.com
 yasno.com.ua
 yatirimdijitaldenizkredi.com
+ycloud.ytechnotes.eu.org
 ydwjez8.com
 yekdo.com
 yetistrafikdanismanlik.com
