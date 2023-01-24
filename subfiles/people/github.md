@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Images API and Analytics Delays](https://github.com/MatBenfield/news/issues/8486)
 - [Fails in cloudflare-workers environment](https://github.com/mailgun/mailgun.js/issues/341)
 - [not sure if is possible](https://github.com/stedolan/jq/issues/2527)
 - [Docker-compose the service does not exist](https://github.com/traefik/traefik/issues/9674)
