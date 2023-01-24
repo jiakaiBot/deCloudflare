@@ -319,6 +319,7 @@ account-dev.ypcloud.com
 adguard.services.yukihyo.nl
 amazon-bnnjhhh.youdontcare.com
 api.yaanimail.com
+autodiscover.youradpartner.com
 b92.yahoo.co.jp
 b97.yahoo.co.jp
 bananatrust-dev.yode.pro
@@ -432,7 +433,9 @@ www.yeos.com.sg
 www.yesbank.in
 www.yetiksh.my.id
 www.yhsupport.com.au
+www.yilbim.com.tr
 www.yorn.net
+www.yory.nl
 www.yosoynoticia.es
 www.your-server.de
 www.yourstartupservice.com
@@ -443,6 +446,7 @@ www.yvelines-infos.fr
 www.yzpst.net
 y6u7r5.com
 ya62.ru
+yacadeuro.org
 yachtbot.us
 yads.yjtag.yahoo.co.jp
 yamamotocli.com
@@ -471,6 +475,7 @@ your-server.de
 your-services.online
 youradmission.info
 yourchangelab.com
+yourparcel-canadapost.online
 yoursexpartner5.com
 yourstartupservice.com
 yourtrax.com
