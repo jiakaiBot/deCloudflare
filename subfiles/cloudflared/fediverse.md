@@ -35838,6 +35838,7 @@ Here's a list of public Fediverse services.
 | `xiupos.net` | Yes |
 | `xiv.social` | No |
 | `xiweb.de` | No |
+| `xj-ix.luxe` | No |
 | `xjmaoyaoyao.monster` | Yes |
 | `xkcd.network` | No |
 | `xkjd.us` | Yes |
@@ -36839,7 +36840,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,649 |
-| Normal | 28,146 |
+| Normal | 28,147 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
