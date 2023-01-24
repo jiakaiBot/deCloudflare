@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,446 |
-| social | 3,452 |
+| social | 3,453 |
 | net | 2,787 |
 | org | 1,987 |
-| de | 1,873 |
+| de | 1,875 |
 
 
 - Mastodon, Pleroma, etc
@@ -9120,6 +9120,7 @@ Here's a list of public Fediverse services.
 | `emptyair.space` | No |
 | `emptydoll.house` | No |
 | `emptyjar.xyz` | Yes |
+| `emptystack.top` | Yes |
 | `emre.xyz` | No |
 | `emse.fr` | No |
 | `emsenn.net` | No |
@@ -13066,6 +13067,7 @@ Here's a list of public Fediverse services.
 | `hatnix.net` | No |
 | `hatred.club` | No |
 | `hatthieves.es` | No |
+| `hatto.dev` | Yes |
 | `hauchruh.de` | No |
 | `haukola.ru` | No |
 | `haulo.fi` | No |
@@ -14195,6 +14197,7 @@ Here's a list of public Fediverse services.
 | `idic.social` | No |
 | `idigitalweb.net` | No |
 | `idimensionz.com` | No |
+| `idiocy.xyz` | Yes |
 | `idiomdrottning.org` | No |
 | `idiot-garbage.tk` | No |
 | `idiots.chat` | No |
@@ -15732,6 +15735,7 @@ Here's a list of public Fediverse services.
 | `jubison.fr` | No |
 | `juche.town` | No |
 | `judaism.social` | No |
+| `juderjahn.de` | No |
 | `judesign.vision` | No |
 | `judge.sh` | Yes |
 | `judges119.me` | No |
@@ -17989,6 +17993,7 @@ Here's a list of public Fediverse services.
 | `liti.ca` | Yes |
 | `litmind.club` | Yes |
 | `litodon.de` | No |
+| `litrat.online` | No |
 | `litrat.xyz` | No |
 | `litrpg.online` | No |
 | `litrpgnovels.com` | No |
@@ -19932,6 +19937,7 @@ Here's a list of public Fediverse services.
 | `md0.ru` | No |
 | `mdbenning.de` | Yes |
 | `mdelaunay.fr` | No |
+| `mdg.no` | Yes |
 | `mdhughes.tech` | No |
 | `mdmck10.xyz` | Yes |
 | `mdon.ee` | No |
@@ -27092,6 +27098,7 @@ Here's a list of public Fediverse services.
 | `renard.xyz` | No |
 | `renardrebelle.fr` | No |
 | `renaud.gr` | No |
+| `rencher.industries` | No |
 | `rencontres-atelier.fr` | No |
 | `renehsz.com` | No |
 | `renem.net` | Yes |
@@ -30853,6 +30860,7 @@ Here's a list of public Fediverse services.
 | `sugarashcat.xyz` | No |
 | `sugarcube.pw` | Yes |
 | `sugarfuel.social` | No |
+| `sugarshack.social` | No |
 | `sugary.fashion` | No |
 | `sugoma.tk` | Yes |
 | `suhbat.online` | No |
@@ -32691,6 +32699,7 @@ Here's a list of public Fediverse services.
 | `tomasek.mobi` | Yes |
 | `tomasfarias.dev` | Yes |
 | `tomasino.org` | No |
+| `tomaszdunia.pl` | Yes |
 | `tomat0.me` | No |
 | `tomatoa.club` | No |
 | `tomatotux.net` | No |
@@ -34801,7 +34810,7 @@ Here's a list of public Fediverse services.
 | `wafflecity.org` | Yes |
 | `waffles.fun` | Yes |
 | `wafrn.net` | Yes |
-| `wafy.ga` | No |
+| `wafy.ga` | Yes |
 | `wageoffsite.com` | Yes |
 | `wagesofsinisdeath.com` | No |
 | `wagner.pp.ru` | No |
@@ -35770,6 +35779,7 @@ Here's a list of public Fediverse services.
 | `x39.dev` | No |
 | `x41.rocks` | No |
 | `x41.social` | No |
+| `x4h.de` | No |
 | `x4s.io` | Yes |
 | `x59.co` | No |
 | `x59.dev` | No |
@@ -36881,8 +36891,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,663 |
-| Normal | 28,175 |
+| Cloudflare | 8,669 |
+| Normal | 28,179 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
