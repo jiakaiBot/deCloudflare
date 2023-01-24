@@ -658,6 +658,7 @@ norm.ns.cloudflare.com
 norman.ns.cloudflare.com
 nova.ns.cloudflare.com
 novalee.ns.cloudflare.com
+ns.cloudflare.com
 ns0004.secondary.cloudflare.com
 ns0005.secondary.cloudflare.com
 ns0006.secondary.cloudflare.com
