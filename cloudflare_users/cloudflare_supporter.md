@@ -270,6 +270,7 @@ Do not create new issue or we will close it as duplicate.
 | [AbuDaudAhmad1@twitter](https://twitter.com/AbuDaudAhmad1/status/1546309538747678720) | advertise |
 | [ABUMUHAMMEDDRA1@twitter](https://twitter.com/ABUMUHAMMEDDRA1/status/1548655532004614144) | advertise |
 | [abusolegal@twitter](https://twitter.com/abusolegal/status/1516444548653854724) | advertise |
+| [abu_turki994@twitter](https://twitter.com/abu_turki994/status/1617736578851549184) | advertise |
 | [AccioLaw@twitter](https://twitter.com/AccioLaw/status/1490055581062807553) | advertise |
 | [Accml3@twitter](https://twitter.com/Accml3/status/1509928686157725697) | advertise |
 | [Acd4512@twitter](https://twitter.com/Acd4512/status/1553069977468411904) | advertise |
@@ -2085,8 +2086,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -2975,6 +2976,7 @@ Do not create new issue or we will close it as duplicate.
 | [FareedAmirul2@twitter](https://twitter.com/FareedAmirul2/status/1468342850953768962) | advertise |
 | [FARES79157202@twitter](https://twitter.com/FARES79157202/status/1595385322946322433) | advertise |
 | [FaresX27@twitter](https://twitter.com/FaresX27/status/1399054260785106952) | advertise |
+| [Farhad30630026@twitter](https://twitter.com/Farhad30630026/status/1617919867461709824) | advertise |
 | [FarhanAacin@twitter](https://twitter.com/FarhanAacin/status/1379323075624202240) | advertise |
 | [Farhatasli@twitter](https://twitter.com/Farhatasli/status/1569995471455936512) | advertise |
 | [fariborzn1@twitter](https://twitter.com/fariborzn1/status/1391848602469814272) | advertise |
@@ -5210,8 +5212,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -8486,6 +8488,7 @@ Do not create new issue or we will close it as duplicate.
 | [PubgMdlinpubg1@twitter](https://twitter.com/PubgMdlinpubg1/status/1577250430593253377) | advertise |
 | [PubRicardo@twitter](https://twitter.com/PubRicardo/status/1398443571536146435) | advertise |
 | [Pucuk15146444@twitter](https://twitter.com/Pucuk15146444/status/1395245832069210115) | advertise |
+| [PujaDev64573407@twitter](https://twitter.com/PujaDev64573407/status/1617906792750776323) | advertise |
 | [PUJIANTO@twitter](https://twitter.com/PUJIANTO/status/1442524922501160971) | advertise |
 | [PuLu30355961@twitter](https://twitter.com/PuLu30355961/status/1389410310419664902) | advertise |
 | [Puma98911029@twitter](https://twitter.com/Puma98911029/status/1578437530591952897) | advertise |
