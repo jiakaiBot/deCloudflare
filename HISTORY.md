@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-24: [HTTP/3 Performance Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mwlpmy15kp52)
 - 2023-01-27: [SEA (Seattle) on 2023-01-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6d183c0494xr)
 - 2023-01-26: [SEA (Seattle) on 2023-01-26](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/93pp3g4lxtj5)
 - 2023-01-24: [Issues with multiple Cloudflare Services](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hqm15hl7fgd1)
