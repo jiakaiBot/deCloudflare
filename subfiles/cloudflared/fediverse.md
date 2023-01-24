@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,445 |
-| social | 3,447 |
+| social | 3,448 |
 | net | 2,787 |
 | org | 1,987 |
 | de | 1,873 |
@@ -8377,7 +8377,7 @@ Here's a list of public Fediverse services.
 | `droogers.eu` | No |
 | `droom.vision` | No |
 | `drop.moe` | Yes |
-| `dropbear.club` | Yes |
+| `dropbear.club` | No |
 | `dropbear.xyz` | Yes |
 | `dropshare.social` | No |
 | `drosophila.social` | No |
@@ -29702,6 +29702,7 @@ Here's a list of public Fediverse services.
 | `snowleopard.run` | Yes |
 | `snowmans.land` | Yes |
 | `snowmew.gay` | No |
+| `snowp.io` | No |
 | `snowshaven.space` | No |
 | `snptrs.com` | Yes |
 | `sns-sakura.jp` | No |
@@ -32125,6 +32126,7 @@ Here's a list of public Fediverse services.
 | `thenextweb.com` | Yes |
 | `thenice.cafe` | No |
 | `thenintendo.shop` | No |
+| `thenks.social` | No |
 | `thenobody.club` | No |
 | `thenomads.social` | Yes |
 | `thenormalpeople.xyz` | No |
@@ -36870,8 +36872,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,659 |
-| Normal | 28,168 |
+| Cloudflare | 8,658 |
+| Normal | 28,171 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
