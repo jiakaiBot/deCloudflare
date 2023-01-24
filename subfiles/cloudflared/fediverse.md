@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,445 |
-| social | 3,450 |
+| com | 5,446 |
+| social | 3,452 |
 | net | 2,787 |
 | org | 1,987 |
 | de | 1,873 |
@@ -772,6 +772,7 @@ Here's a list of public Fediverse services.
 | `accoord.fr` | Yes |
 | `accordi.online` | No |
 | `accordingtohoyt.com` | No |
+| `accountant.social` | No |
 | `accounting.social` | No |
 | `accretion.eu.org` | No |
 | `acegiak.net` | No |
@@ -5625,6 +5626,7 @@ Here's a list of public Fediverse services.
 | `clove.red` | No |
 | `clover.social` | No |
 | `clovers.social` | No |
+| `clovershaunt.space` | No |
 | `clown-wife-clown.life` | No |
 | `clown.center` | No |
 | `clown.social` | No |
@@ -9542,6 +9544,7 @@ Here's a list of public Fediverse services.
 | `evil.ist` | No |
 | `evil.red` | No |
 | `evil.social` | Yes |
+| `evilalive.ru` | No |
 | `evilchi.li` | No |
 | `evilcyberhacker.net` | Yes |
 | `evilfactorylabs.social` | No |
@@ -12010,6 +12013,7 @@ Here's a list of public Fediverse services.
 | `giov.dev` | No |
 | `girak.net` | No |
 | `giratina.net` | Yes |
+| `girdglen.com` | Yes |
 | `girevik.su` | No |
 | `girino.org` | Yes |
 | `girlc.at` | Yes |
@@ -22809,7 +22813,7 @@ Here's a list of public Fediverse services.
 | `no-ip.bizfriendica` | No |
 | `no-ip.info` | No |
 | `no-ip.org` | No |
-| `no-one.dev` | No |
+| `no-one.dev` | Yes |
 | `no-thoccs.cc` | No |
 | `no-trace.de` | No |
 | `no.zone` | No |
@@ -26941,6 +26945,7 @@ Here's a list of public Fediverse services.
 | `redcloud.org` | No |
 | `redcook.social` | No |
 | `redeagle.me` | No |
+| `redeemed.social` | No |
 | `redelephant.us` | No |
 | `redere.org` | No |
 | `redeyes.club` | No |
@@ -36876,8 +36881,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,661 |
-| Normal | 28,172 |
+| Cloudflare | 8,663 |
+| Normal | 28,175 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
