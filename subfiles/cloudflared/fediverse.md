@@ -27891,6 +27891,7 @@ Here's a list of public Fediverse services.
 | `ryonatodon.com` | No |
 | `ryotak.me` | Yes |
 | `rys.io` | No |
+| `rytter.me` | No |
 | `ryu.org` | No |
 | `ryuchan.dev` | No |
 | `ryuryu.tw` | Yes |
@@ -36893,7 +36894,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,669 |
-| Normal | 28,180 |
+| Normal | 28,181 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
