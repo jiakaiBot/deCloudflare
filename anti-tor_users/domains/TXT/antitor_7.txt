@@ -23,6 +23,8 @@ amazon.79-9.com
 api.7-eleven.com
 api.7semyan.ru
 loyalty-qa-api.7eleven.com.my
+paket-usaha.7permata.com
 staging.7rivers.kz
 tr.7wdata.net
 www.gitlab.git.deviqoledyh.7e8e.xyz
+www.paket-usaha.7permata.com
