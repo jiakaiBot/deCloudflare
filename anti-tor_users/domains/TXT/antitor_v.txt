@@ -1314,6 +1314,7 @@ cpcontacts.vitaltrust-global.com
 cpcontacts.vortexmediaworkshops.com
 crm.viasale.travel
 ctf0.vsec.university
+d2-chorusplus.virtusa.com
 damanipms.visithatta.ae
 dashboard.vifive.ai
 dev.vermonttourismnetwork.com
@@ -1326,6 +1327,7 @@ discoloredeyes.vercel.app
 discord-h.vercel.app
 discord-modding-archive.vercel.app
 discord-ui-toolkit.vercel.app
+discordbotse.vercel.app
 discordservers-me.vercel.app
 docs.client.vl-logistic.com
 docs.client.vl-logistic.ru
@@ -1374,6 +1376,7 @@ int-hm-rec-proj-kx.viamedis.fr
 int.vaicore.xyz
 int.viageo.ch
 inv.vern.cc
+iservice2.vanillamedia.hr
 it.pp.vente-unique.ch
 jacobsubin2-gmailcom.vercel.app
 jjstarbreaker-gmailcom.vercel.app
@@ -1477,6 +1480,7 @@ sumitkumararora-gmailcom.vercel.app
 support.valosgames.com
 support.visometry.com
 support.vlabsrepair.com
+support.volag.io
 test-jb6ep5rrs1o.vercel.app
 test.blog.blog.store.outlook.vermeernorthwest.com
 test.vau.auction
@@ -1501,6 +1505,7 @@ update070123.videosintimes.com
 update21.videosintimes.com
 user-research.vismayuki.com
 usfinsci-proxy.vision33cloud.com
+v-ents.com
 v-hub.vodafone.ie
 v-suncoast.info
 v-zuma.ru
@@ -1586,6 +1591,7 @@ vgval2.valgenesis.in
 vianoivernom.com
 viavino.hr
 vickyclayton.com
+vicsword.com
 victorlofinmakin.com
 vidao.org
 vidasatphones.com
@@ -1634,8 +1640,6 @@ vocco-escort.com
 voedselbank-lisse.nl
 voenews.com.br
 voessing.net
-vohhall71.com
-vohhall91.com
 voicepingpong.com
 volcanoactivity.com
 voliofun.site
@@ -1671,6 +1675,7 @@ wpg.vercel.app
 www.accounting.verification.onl
 www.admin.vaidelivery.com
 www.authentic01.vojock.com
+www.backoffice.verifiance-fnci.fr
 www.bankonline.vastshore.com
 www.bestofhenricocounty.com.viajarfacil.info
 www.bill.vivecademy.com
@@ -1686,6 +1691,7 @@ www.git.gitlab.i.vashsad37.ru
 www.gitlab.g.sitemap.vkgo.info
 www.gitlab.git.gitlab.ninja.v9ky.info
 www.idnpoker95.com.viajarfacil.info
+www.iservice2.vanillamedia.hr
 www.kundeweb2.voxe.no
 www.marathatransportservice.com.vividindiatour.com
 www.mecagrogrup.videocontrol.md
@@ -1699,6 +1705,7 @@ www.southdakotasbest.com.viajarfacil.info
 www.superdryonsale.com.viajarfacil.info
 www.support.valosgames.com
 www.ticket-sports.vojock.com
+www.tickets.vktrdev.cl
 www.update-connection.vojock.com
 www.update.vidiosa.com
 www.usefibra.com.br.viasatdigital.com.br
@@ -1709,6 +1716,7 @@ www.valdostadailytimes.com
 www.valentinpistrui.xyz
 www.valiantsupport.com.au
 www.valleycentral.com
+www.valleycjdr.com
 www.vanhornansweringservice.com
 www.vasculardiseasemanagement.com
 www.vca-koeln.de
