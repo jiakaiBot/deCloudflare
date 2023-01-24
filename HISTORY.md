@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-25: [IAD (Ashburn) on 2023-01-25](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/q572np42b6gk)
 - 2023-01-25: [JAX (Jacksonville) on 2023-01-25](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kc6461299l79)
 - 2023-01-25: [BKK (Bangkok) on 2023-01-25](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/3cgypzbvs1kr)
 - 2023-01-25: [SEA (Seattle) on 2023-01-25](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/s2v2v9rwgpt6)
