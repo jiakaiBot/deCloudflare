@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,446 |
-| social | 3,453 |
+| social | 3,454 |
 | net | 2,787 |
-| org | 1,987 |
+| org | 1,988 |
 | de | 1,875 |
 
 
@@ -8240,6 +8240,7 @@ Here's a list of public Fediverse services.
 | `douvk.co.uk` | No |
 | `doux.fun` | No |
 | `douzepoints.social` | Yes |
+| `dovac.org` | Yes |
 | `dowata.xyz` | No |
 | `downey.family` | No |
 | `downey.net` | No |
@@ -20522,6 +20523,7 @@ Here's a list of public Fediverse services.
 | `mimumedon.com` | No |
 | `minable.xyz` | No |
 | `minadoraserver.art` | No |
+| `minaduki.dev` | Yes |
 | `minakodon.jp` | No |
 | `minamina3710.com` | No |
 | `minarin.moe` | No |
@@ -25306,6 +25308,7 @@ Here's a list of public Fediverse services.
 | `plala.jp` | No |
 | `plamo.social` | No |
 | `plan.cat` | No |
+| `plan9.rocks` | No |
 | `planamag.com` | No |
 | `plandemic.icu` | No |
 | `planet-geek.com` | No |
@@ -26256,6 +26259,7 @@ Here's a list of public Fediverse services.
 | `qapp.cloud` | No |
 | `qaq.gay` | Yes |
 | `qaq.jp` | Yes |
+| `qaq.social` | Yes |
 | `qaq.wiki` | Yes |
 | `qassim.uk` | No |
 | `qatuno.de` | No |
@@ -36893,8 +36897,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,669 |
-| Normal | 28,181 |
+| Cloudflare | 8,672 |
+| Normal | 28,182 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
