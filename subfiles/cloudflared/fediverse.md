@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,444 |
 | social | 3,447 |
-| net | 2,786 |
+| net | 2,787 |
 | org | 1,987 |
 | de | 1,873 |
 
@@ -13213,6 +13213,7 @@ Here's a list of public Fediverse services.
 | `helene.moe` | Yes |
 | `helene.tk` | No |
 | `helenprejean.org` | No |
+| `helicos.net` | No |
 | `heliohost.us` | No |
 | `helios.red` | Yes |
 | `helios42.de` | No |
@@ -36869,7 +36870,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,659 |
-| Normal | 28,166 |
+| Normal | 28,167 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
