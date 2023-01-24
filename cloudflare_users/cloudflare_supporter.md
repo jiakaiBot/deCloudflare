@@ -2798,6 +2798,7 @@ Do not create new issue or we will close it as duplicate.
 | [Elaine01799523@twitter](https://twitter.com/Elaine01799523/status/1397575836140589056) | advertise |
 | [elara_kin@twitter](https://twitter.com/elara_kin/status/1395797258030002177) | advertise |
 | [ElBrooklyn5@twitter](https://twitter.com/ElBrooklyn5/status/1559384072291590144) | advertise |
+| [elclaustro@twitter](https://twitter.com/elclaustro/status/1617738072128651266) | advertise |
 | [eldrdgdayao@twitter](https://twitter.com/eldrdgdayao/status/1547573579453059073) | advertise |
 | [Elena160921@twitter](https://twitter.com/Elena160921/status/1506156363692478464) | advertise |
 | [ELEVEN86464120@twitter](https://twitter.com/ELEVEN86464120/status/1398547337459367936) | advertise |
