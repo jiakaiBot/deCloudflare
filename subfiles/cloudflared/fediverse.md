@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,445 |
-| social | 3,448 |
+| social | 3,450 |
 | net | 2,787 |
 | org | 1,987 |
 | de | 1,873 |
@@ -13686,6 +13686,7 @@ Here's a list of public Fediverse services.
 | `homecloud.site` | Yes |
 | `homecomputing.fr` | No |
 | `homeip.net` | No |
+| `homelab.host` | Yes |
 | `homelab.lt` | No |
 | `homeland.network` | Yes |
 | `homeless.group` | Yes |
@@ -18100,6 +18101,7 @@ Here's a list of public Fediverse services.
 | `lnk.co.ua` | No |
 | `lnkk.app` | No |
 | `lnkr.dev` | Yes |
+| `lnm.jp` | No |
 | `lnsystems.de` | Yes |
 | `lnxt.cloud` | No |
 | `lo-li.art` | Yes |
@@ -23198,6 +23200,7 @@ Here's a list of public Fediverse services.
 | `nsfw.social` | Yes |
 | `nsfwphotography.social` | No |
 | `nsg.cc` | No |
+| `nsgn.eu` | No |
 | `nshl.xyz` | No |
 | `nsinteger.com` | Yes |
 | `nsk.io` | No |
@@ -28554,6 +28557,7 @@ Here's a list of public Fediverse services.
 | `sdz5.com` | No |
 | `se1.eu` | No |
 | `sea-moon.net` | No |
+| `sea-mstdn.social` | Yes |
 | `sea.social` | No |
 | `seacow.social` | No |
 | `seafish.io` | Yes |
@@ -29932,6 +29936,7 @@ Here's a list of public Fediverse services.
 | `sona.live` | Yes |
 | `sonatagreen.com` | No |
 | `sondages.pro` | No |
+| `sondersign.social` | Yes |
 | `sone.social` | No |
 | `sonedon.com` | No |
 | `sonet.ws` | No |
@@ -33705,7 +33710,6 @@ Here's a list of public Fediverse services.
 | `uhoreg.ca` | Yes |
 | `uhouho.xyz` | Yes |
 | `uiae.at` | No |
-| `uibk.ac.at` | No |
 | `uilleann.pizza` | Yes |
 | `uiuxdev.social` | Yes |
 | `uji.es` | No |
@@ -36872,8 +36876,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,658 |
-| Normal | 28,171 |
+| Cloudflare | 8,661 |
+| Normal | 28,172 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
