@@ -731,6 +731,7 @@ anmeldung.jubiko.com
 api-ent1.jio.com
 api-st.jio.com
 api.adoptme.jazwares.com
+api.jaxvpn.com
 api.jyro.io
 api.possible-drake.jetrist.com
 app.jet.vet
@@ -808,6 +809,7 @@ jaipurangels.in
 jalanpintasemak.com
 jamesevansbooks.co.uk
 jamhooriwatanparty.pk
+jammin.co.jp
 jankoogrodnik.pl
 jansen.com.ua
 janus360feedback.com
@@ -1018,6 +1020,7 @@ www.jeebeesupport.nl
 www.jefesrvservice.com
 www.jeffdeherdt.com
 www.jeninasdanceworkshop.com
+www.jennilwalsh.com
 www.jennsecurity.com
 www.jeremydormitzer.com
 www.jeroenlagerwerf.com
@@ -1025,6 +1028,7 @@ www.jerseyhighdelivery.com
 www.jessicagrimm.com
 www.jetaasafetyandsecurity.in
 www.jetflamedeliveryservice.com
+www.jetfuelreview.com
 www.jf-hvidevareservice.dk
 www.jflalc.org
 www.jftc.go.jp
@@ -1100,6 +1104,7 @@ www.support.jayapriyanidhi.com
 www.support.jfxtechnologies.com
 www.supportpack.jgelectronics.com
 www.swiftdoorcourierxpress.jptcourierdeliveryservice.com
+www.ticket.jonakitravel.com
 www.yearmoney.jg09uj.shop
 www.yearmoney.jmb0va.store
 yearmoney.jg09uj.shop
