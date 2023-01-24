@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [not sure if is possible](https://github.com/stedolan/jq/issues/2527)
 - [Docker-compose the service does not exist](https://github.com/traefik/traefik/issues/9674)
 - [Deleting a release version fails with status 500](https://github.com/spring-io/projects-api/issues/7)
 - [rutracker (updating) The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/676)
