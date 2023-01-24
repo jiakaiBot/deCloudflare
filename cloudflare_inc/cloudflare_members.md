@@ -151,6 +151,7 @@ Or is this merely a case of simple modesty?
 | Anbang Wen | Employee |  |
 | Anca Hurduc | Account Executive |  |
 | Andie Goodwin | Employee | |
+| Andrea Medda | Employee | |
 | Andrea Miller | Marketing Coordinator |  |
 | Andre Bluehs | Employee |  |
 | Andre Cruz | Employee |  |
@@ -377,6 +378,7 @@ Or is this merely a case of simple modesty?
 | Chris Merritt | Chief Revenue Officer |  |
 | Chris N. Maynard | Business Development |  |
 | Chris Scharff | Solutions Engineer, Austin |  |
+| Chris Shepherd | Employee | |
 | Chris Snook | Systems Engineer |  |
 | Chris Snowdon | Employee |  |
 | Christiaan Smits | Employee | |
