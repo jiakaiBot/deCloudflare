@@ -14087,6 +14087,7 @@ Here's a list of public Fediverse services.
 | `iamastodon.gifu.jp` | No |
 | `iambillweber.me` | No |
 | `iame.li` | Yes |
+| `iamernie.ca` | Yes |
 | `iametza.com` | No |
 | `iametza.eus` | No |
 | `iamjannik.me` | No |
@@ -36867,7 +36868,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,658 |
+| Cloudflare | 8,659 |
 | Normal | 28,166 |
 
 
