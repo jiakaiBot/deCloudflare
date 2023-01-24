@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,444 |
+| com | 5,445 |
 | social | 3,447 |
 | net | 2,787 |
 | org | 1,987 |
@@ -3534,6 +3534,7 @@ Here's a list of public Fediverse services.
 | `bitbattles.com` | No |
 | `bitbot.dev` | No |
 | `bitbucket.org` | No |
+| `bitbukket.com` | No |
 | `bitbybitwhatever.com` | Yes |
 | `bitcast.info` | No |
 | `bitcast.online` | Yes |
@@ -36870,7 +36871,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,659 |
-| Normal | 28,167 |
+| Normal | 28,168 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
