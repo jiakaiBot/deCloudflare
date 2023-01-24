@@ -10666,6 +10666,7 @@ Do not create new issue or we will close it as duplicate.
 | [trandinhtien99@twitter](https://twitter.com/trandinhtien99/status/1552107910377144321) | advertise |
 | [Tranducanh0104@twitter](https://twitter.com/Tranducanh0104/status/1552705286477352966) | advertise |
 | [trandunghl@twitter](https://twitter.com/trandunghl/status/1519338460704026626) | advertise |
+| [TranHa34047160@twitter](https://twitter.com/TranHa34047160/status/1617946199889432578) | advertise |
 | [tranhaonam331@twitter](https://twitter.com/tranhaonam331/status/1482005738461757454) | advertise |
 | [TranKimBinh4@twitter](https://twitter.com/TranKimBinh4/status/1563849712847192064) | advertise |
 | [trantha16219627@twitter](https://twitter.com/trantha16219627/status/1480025129786564613) | advertise |
@@ -10724,6 +10725,7 @@ Do not create new issue or we will close it as duplicate.
 | [Trnh97735635@twitter](https://twitter.com/Trnh97735635/status/1552751472118726657) | advertise |
 | [Trnhmin93832782@twitter](https://twitter.com/Trnhmin93832782/status/1541427659837943808) | advertise |
 | [TrnHngLy18@twitter](https://twitter.com/TrnHngLy18/status/1385581701514940417) | advertise |
+| [TrnhngQ49531273@twitter](https://twitter.com/TrnhngQ49531273/status/1617935032810868742) | advertise |
 | [trnHnh36775165@twitter](https://twitter.com/trnHnh36775165/status/1493078579277488129) | advertise |
 | [TrnhTrnh300495@twitter](https://twitter.com/TrnhTrnh300495/status/1468838879457210369) | advertise |
 | [TrnHuT10645622@twitter](https://twitter.com/TrnHuT10645622/status/1402307646372204547) | advertise |
@@ -11165,6 +11167,7 @@ Do not create new issue or we will close it as duplicate.
 | [VoxziB@twitter](https://twitter.com/VoxziB/status/1380772820624412673) | advertise |
 | [vpsinghbaghel@twitter](https://twitter.com/vpsinghbaghel/status/1552679945025261568) | advertise |
 | [VQucTriu6@twitter](https://twitter.com/VQucTriu6/status/1594914769257259009) | advertise |
+| [vR8gxyMLVrhDDuZ@twitter](https://twitter.com/vR8gxyMLVrhDDuZ/status/1617941805777195008) | advertise |
 | [vrankyrule@twitter](https://twitter.com/vrankyrule/status/1386668245902512138) | advertise |
 | [VSkarleas@twitter](https://twitter.com/VSkarleas/status/1456937424660094982) | advertise |
 | [VtbKo@twitter](https://twitter.com/VtbKo/status/1395561904467185664) | advertise |
