@@ -23422,6 +23422,7 @@ Here's a list of public Fediverse services.
 | `oalm.gub.uy` | No |
 | `oar-online.uk` | No |
 | `oark.org` | No |
+| `oasys.earth` | No |
 | `oat.sh` | No |
 | `ob-wahl-freiburg.de` | No |
 | `obapom.work` | No |
@@ -36892,7 +36893,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,669 |
-| Normal | 28,179 |
+| Normal | 28,180 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
