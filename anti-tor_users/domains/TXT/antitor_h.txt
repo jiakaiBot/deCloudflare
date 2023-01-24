@@ -1340,7 +1340,6 @@ immunisationhandbook.health.gov.au
 in.hiltexdelivery.com
 information.hsbc.com.mt
 infotech.mla.hcommons.org
-insights.huschblackwell.com
 is1-3.housingcdn.com
 it.service.hbk-essen.de
 january6th.house.gov
@@ -1701,6 +1700,7 @@ ancient-fortress-03582.herokuapp.com
 apaga-enciende-temporalmente-bbva.hg-ergosstrategy.co.ao
 api-app.hausmaster.com
 api-bfx.hellobank.cz
+api-preprod01.ha-medibank.com
 api.fs.haufe.io
 api.hcep.qa
 api.heliportal.nl
@@ -1711,12 +1711,14 @@ api.hilton.io
 app.hakken.life
 app.info.haymarketmedicalnetwork.com
 aptest.hillagroup.fi
+aryhomeeng.clients.hsreklam.se
 as2-prod.hagebau.com
 asahigroupholdings.hostedconnectedrisk.com
 asiob.herokuapp.com
 ask.up.hcommons.org
 aspmx2.googlemail.com.hess.fm
 assets.homedepot-static.com
+auth-server.health-cld2020.com
 auth.hakvit.com
 auth.hbs-net.hanssens.io
 auth.helv.io
@@ -1772,6 +1774,7 @@ click.email.healthvalueinstitute.com
 click.emails.hsabank.com
 click.fanmail.houstondynamo.com
 click.hdsupply-email.com
+click.hearing-sensation.com
 click.heartemail.org
 click.huggies-enews.com
 click.hulumail.com
@@ -1799,6 +1802,7 @@ cpcalendars.healthpointbloodsugar.com
 cpcalendars.hiroblog2525.com
 cpcalendars.homeownersoceansands.org
 cpcalendars.homeremediescorner.com
+cpcalendars.hottec.ca
 cpcalendars.htinvestment.ga
 cpcalendars.hustlelikeaboss.com.ng
 cpcalendars.hypensquare.net
@@ -1815,6 +1819,7 @@ creditcard.financialservices.hol.es
 creditcard.hargaria.com
 crystalised-hostage.herokuapp.com
 cs.hubble.in
+cs.moneys.halaniimmigration.com
 customer.hasewerk.net
 customer.hostyler.com
 daigas-unsafe-api-alb-prod.hacarus.com
@@ -1851,11 +1856,13 @@ enso-service.hingehealth.io
 ep2.hawleyhazel.com
 epay-proxy.homebank.kz
 esbikyc.herokuapp.com
+eshoo.house.gov
 esign.hrnewyear.ru
 evrakademo.havelsan.com.tr
 fabric.stg.us.dhp.hrdev.io
 faced-knickers.herokuapp.com
 feed.hotelcareer.nl
+files.ht-line.ru
 fileupload.hangseng.com
 filmoteca.hacialared.com
 filter.hoster.az
@@ -1874,6 +1881,8 @@ fypbreastcancermds3.herokuapp.com
 galleries.hitzefrei.com
 gateway.hallomob.com
 git.git.git.git.g8mlxqkxvqgoenj.touch.hackbanks.com
+git.git.git.git.shop.hrnewyear.ru
+git.git.gitlab.git.gitlab.www.instagram.hrnewyear.ru
 git.gitlab.git.git.git.gitlab.adminportal.hrnewyear.ru
 git.gitlab.git.git.gitlab.gitlab.kbvnywv.hayat-schutz.de
 git.gitlab.git.gitlab.git.gitlab.cloud.hrnewyear.ru
@@ -1944,6 +1953,7 @@ haymishlytta.com
 haytch0910.herokuapp.com
 haytchapifullz.herokuapp.com
 hbt-summer-gala-2022.hudsonvalleyballet.com
+hcabbott.ca
 hcai.ca.gov
 hcbc.faith
 hcommons.org
@@ -1999,6 +2009,7 @@ hevamart.com
 hexdrop.org
 hexman-accesorii.ro
 heydo1005v1.update2022-3.development.heydo.net
+heydo1014v4.update2022-3.development.heydo.net
 heydo12v1.update2022-3.development.heydo.net
 heydo22v1.update2022-3.development.heydo.net
 heydo38v1.update2022-3.development.heydo.net
@@ -2035,6 +2046,7 @@ hiperacesso.com
 hiredpetro.com
 histoire.ci
 historia.nu
+historiacartarum.org
 historice.ro
 historicmt.org
 historipedia.org
@@ -2105,6 +2117,7 @@ hsst38.hochschulstart.de
 htservermanager.com
 https-roblox.com.ge
 https-www-1inch.io
+htwbhry.in
 hubcustomersupport.com
 huber3.de
 huhubet311.com
@@ -2114,6 +2127,7 @@ hulaevents.pl
 humanspermbank.cn
 hundert.pl
 hundert1.ch
+hungryfor.co.uk
 hunniumvarted.com
 hunonic.com
 hunter-brettspiele.de
@@ -2158,6 +2172,7 @@ hygientsmartservice.com
 hyouikuukan.com
 hypensquare.net
 hypermedia.systems
+hypersports.ir
 hyperstudio.es
 hyperwax.live
 hypogeeinial.com
@@ -2173,6 +2188,7 @@ imghandler.heraldo.es
 impressum.hes.de
 infinite-springs-44153.herokuapp.com
 inkivaarikauppa.cloud21.hostingpalvelu.fi
+intelligence.house.gov
 iot.horttech.app
 ipay.hrnewyear.ru
 iqconnect.house.gov
@@ -2216,6 +2232,7 @@ mobileapps02.heromotocorp.com
 monitoring.cloud39.hostingservice.fi
 mvnouat.hkcsl.com
 mypixels.hw2k.com
+nanocephalic-rameses.herokuapp.com
 navika.hackernwar.com
 oasys.homecredit.co.id
 octosyllabic-disc.herokuapp.com
@@ -2254,6 +2271,7 @@ simiteru8150.hatenablog.com
 softhearted-inhumanity.herokuapp.com
 ssl-vpn1.hidc.jp
 steampod30.hair-gallery.de
+storage.pie.avatar.ext.hp.com
 sudf-api.hpcloud.hp.com
 supersonic-ravioli.herokuapp.com
 support.heathcoteandherran.com
@@ -2300,6 +2318,7 @@ www.account.hamrovet.com
 www.accounterpart.hetcodeerbedrijf.nl
 www.add.hbonetwork.com
 www.alarm-check.high-pass.co.uk
+www.app.hauerdelivery.site
 www.apple-support.hondacemaramotor.com
 www.atlas.hstc.com.br
 www.authentic19thcmansionwithspaciousgarden.hotelyu.top
@@ -2328,6 +2347,7 @@ www.gitlab.gitlab.gitlab.git.12.hackway.su
 www.globalservice.hornproperty.com
 www.h2-sicherheit.de
 www.haha.se
+www.halbeisen.at
 www.hallo-vegan.de
 www.hambleunitedfc.co.uk
 www.hamiltonhonda.net
@@ -2351,6 +2371,7 @@ www.healthright360.org
 www.heatheninc.com
 www.helion.co.uk
 www.hellolisting.com.au
+www.helpinghandsrvservice.com
 www.helpinghandssupportivehousing.org
 www.helppackage.herradesign.ro
 www.hepsibahis.com
@@ -2403,7 +2424,6 @@ www.housing.vic.gov.au
 www.howellfarmdozerservice.com
 www.hp.com
 www.hpcleaningandsupport.co.uk
-www.hpmhdnbuhg.ml
 www.hptservice.vn
 www.hsn.com
 www.hudexchange.info
