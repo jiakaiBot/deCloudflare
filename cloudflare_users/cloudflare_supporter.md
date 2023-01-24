@@ -6852,6 +6852,7 @@ Do not create new issue or we will close it as duplicate.
 | [MoonLight98__@twitter](https://twitter.com/MoonLight98__/status/1536627517209165826) | advertise |
 | [moosarezam@twitter](https://twitter.com/moosarezam/status/1561040908245688325) | advertise |
 | [morahlana78@twitter](https://twitter.com/morahlana78/status/1541860463549751296) | advertise |
+| [MorbidSugar9@twitter](https://twitter.com/MorbidSugar9/status/1617664514497077248) | advertise |
 | [Morgan89660901@twitter](https://twitter.com/Morgan89660901/status/1376646842503602179) | advertise |
 | [morixal@twitter](https://twitter.com/morixal/status/1488785584801959937) | advertise |
 | [mosayeb09@twitter](https://twitter.com/mosayeb09/status/1583618285383258112) | advertise |
