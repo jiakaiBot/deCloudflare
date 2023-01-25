@@ -1991,6 +1991,7 @@ zelda-heardle.glitch.me
 1d053fd4696c41.site.godaddyarabicwsbonline.com
 21acb87f9afc4018484b5ad8ffbd08f5.safeframe.googlesyndication.com
 21b85ea0ccba2373035e950b33dda0e7.safeframe.googlesyndication.com
+238b6cab28685b64086931984696ae5f.safeframe.googlesyndication.com
 249ca40abccd0f59482ad6de3b5329ca.safeframe.googlesyndication.com
 27409719181dd624703636bc3525a7ab.safeframe.googlesyndication.com
 2c6a0df4a4c2fbe94d34d2db7ffeb521.safeframe.googlesyndication.com
@@ -2000,9 +2001,12 @@ zelda-heardle.glitch.me
 3c-bs.gmx.es
 419d4d77b56a9fdda578c4c1027bf1ed.safeframe.googlesyndication.com
 43569562e5fadb603e135d1fffccb1d3.safeframe.googlesyndication.com
+4776b22f62618d0afd8eed2dd7f9f01a.safeframe.googlesyndication.com
 4bd2b1d8bc8dac95529ebb35df24e2f1.safeframe.googlesyndication.com
 51dcd1cd4b397b71011a4c788d14cfde.safeframe.googlesyndication.com
+54725ee895098bc5af84513792ff43d8.safeframe.googlesyndication.com
 54eba168cd8e9015836383204fe3d6e6.safeframe.googlesyndication.com
+54f43d9825e14a4a764576e24006108d.safeframe.googlesyndication.com
 6fba8a25f59402525ade39095698624d.safeframe.googlesyndication.com
 71544ad6f57558d5be2336094c894dfb.safeframe.googlesyndication.com
 7342fa263f446a1fc28fb52d66953146.safeframe.googlesyndication.com
@@ -2019,6 +2023,7 @@ accounting.gamechangersdigitech.co.za
 accounts.gasconfoods.com
 acquisition-staging.gsa.gov
 ad237a8b6d3530369dafcb16d0e79a0e.safeframe.googlesyndication.com
+admin.garantipartners.com
 adservice.google.ca
 afs.googlesyndication.com
 aga-cb-h.geoinspector.com.br
@@ -2076,6 +2081,7 @@ babrnip.github.io
 baezruddy.github.io
 bananarepublicfactory.gapfactory.com
 bandrex.green-nitrogen.com
+be.gcm3.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons2.gvt2.com
@@ -2165,11 +2171,13 @@ content-storage-p2.googleapis.com
 content.govdelivery.com
 coordinated-wax-file.glitch.me
 cpanel.gadluiscordero.gob.ec
+cpanel.geophysnyc.com
 cpanel.geraldicoding.my.id
 cpanel.goldworkshop.net
 cpanel.receipts.org.uk.geoffrice.net
 cpcalendars.gadluiscordero.gob.ec
 cpcalendars.generalvertex.com
+cpcalendars.geophysnyc.com
 cpcalendars.gmais.srv.br
 cpcalendars.gmgeridonusum.com
 cpcalendars.goldworkshop.net
@@ -2178,6 +2186,7 @@ cpcalendars.gruposdediscord.com
 cpcalendars.gsbteck.com
 cpcalendars.pmdgarageservices.garageinvoice2.co.uk
 cpcontacts.gadluiscordero.gob.ec
+cpcontacts.geophysnyc.com
 cpcontacts.gestaoescolar.website
 cpcontacts.goldworkshop.net
 cpcontacts.gruposdediscord.com
@@ -2238,6 +2247,7 @@ doc-0c-4s-docs.googleusercontent.com
 doc-0c-5g-docs.googleusercontent.com
 doc-0g-3k-docs.googleusercontent.com
 doc-0g-4s-docs.googleusercontent.com
+doc-0g-b8-docs.googleusercontent.com
 doc-0k-14-docs.googleusercontent.com
 doc-0k-1g-docs.googleusercontent.com
 doc-0k-4g-docs.googleusercontent.com
@@ -2285,6 +2295,7 @@ e2c39.gcp.gvt2.com
 e2c43.gcp.gvt2.com
 e2c6.gcp.gvt2.com
 e2cs42.gcp.gvt2.com
+e778647dee2cbe179d6e62886ec7fbe0.safeframe.googlesyndication.com
 eamartglez.github.io
 earl-sweatshirt-heardlee.glitch.me
 eduhbarb.github.io
@@ -2300,10 +2311,13 @@ equatorial-foam-archer.glitch.me
 ersunilkumardeveloper.github.io
 esca4.app.goo.gl
 etrade.geosecurities.com.hk
+eusonlito.github.io
 exuberant-jagged-pangolin.glitch.me
 f15ca44feb3179b2b78b33ff38711df3.safeframe.googlesyndication.com
+fa0394a99e221cd38ec6b8d572f7febf.safeframe.googlesyndication.com
 facebookk-k.github.io
 fb-account-activation.github.io
+fb5edbc62694a0b662e4ea9d34896ff2.safeframe.googlesyndication.com
 fcmtoken.googleapis.com
 feedback.gsa.gov
 femetrics.grammarly.io
@@ -2346,6 +2360,7 @@ gainza.gov.ph
 gaisteem.net
 galaxys23userguide.my.id
 galicia-ingresa.gpconsulting.com.ar
+galihratnaroblox.my.id
 gambahluar.id
 gamefiventures.com
 gamelive22.co
@@ -2373,6 +2388,7 @@ gas-elec.org.uk
 gaslineservice.com
 gasparatras.pt
 gaspartorriero.it
+gasstovehobservice.com
 gasylicyg1e8n6po.com
 gates-mcfadden.com
 gatewayfiresafety.sg
@@ -2407,6 +2423,7 @@ gelderblom.net
 geldgolf.nl
 geldhal.nl
 geldimgittim.online
+geldverzekerd.nl
 geluidsband.be
 gemaksecurity.co.zw
 gembank.lk
@@ -2432,6 +2449,7 @@ gerardvanderpost.nl
 gerer-mon-abonnement.fr
 gerihome.com.br
 germansausagewagon.com.au
+gerowhairink.com
 gerusiatootsie.com
 gescliente.com
 gestorabanagricola.com
@@ -2631,8 +2649,10 @@ growmoney.dk
 growtika.com
 growyourgiving.org
 grserver.gr
+grupohelvetica.com
 grupomedicheck.com.pe
 gruponous.net
+gruporuralviaclient.online
 gs-ch.com
 gsoftnic.net.gcloud-planilla.com
 gstaad-delivery.ch
@@ -2690,6 +2710,7 @@ lucatool.grpitsrv.com
 m-saim786.github.io
 magicdeveloperdocs.github.io
 mahadi61.github.io
+mail-settings.google.com
 mail.gadluiscordero.gob.ec
 marmikpatel003.github.io
 matheus-almeida78.github.io
@@ -2716,7 +2737,10 @@ nianhuoolyjd.guanmeikj.com
 nithinsaichoudary.github.io
 oauth-playground.glitch.me
 obvious-holistic-background.glitch.me
+ora4.godaddysites.com
 orders.gazettextra.com
+parts.gmparts.com
+patentimages.storage.googleapis.com
 pay.globallinker.com
 pay.gofnc.com
 paymentpage-eip.getneteurope.com
@@ -2727,8 +2751,10 @@ pibara.github.io
 pionantar.grosirsayur.id
 play.geforcenow.com
 points.gerdau.com
+polylith.github.io
 postback.glanceapis.com
 ppd.bealert.gedicom.fr
+ppfpattern.gyeon.co
 pramodk2807.github.io
 prometheus-k8s.grieg.io
 proxybay.github.io
@@ -2749,6 +2775,7 @@ ram-deshmukh.github.io
 rdg.globalagritrade.com
 recaptchaenterprise.googleapis.com
 relaxing733.github.io
+remote.gbcma.vic.gov.au
 reunion-mauritius.govmu.org
 risk-eip.getneteurope.com
 ritendragour.github.io
@@ -2795,6 +2822,7 @@ support.getup.my
 support.greenstory.io
 susangasong.gnasus.com
 sweetonex.github.io
+t1-1265-fix-heure.eodv2.groupeactual.io
 t2.gstatic.com
 tafarn.glauca.space
 test-api.gonika.top
@@ -2833,9 +2861,11 @@ wbm-lb.golfyoyaku.jp
 webapi.glshk.com
 webdisk.gadluiscordero.gob.ec
 webdisk.gautamgurukul.com
+webdisk.geophysnyc.com
 webdisk.goldenstarnetworks.com
 webdisk.guiamedicocarioca.com.br
 webmail.gadluiscordero.gob.ec
+webmail.geophysnyc.com
 webmail.ghayandibali.com
 webmail.grasmeremotors.garageinvoice2.co.uk
 wellgatesupport.gmzdev.uk
@@ -2878,6 +2908,7 @@ www.gardiensdularge.org
 www.gas-safety-certificates.com
 www.gasapp.co
 www.gasp4change.org
+www.gasstovehobservice.com
 www.gaudiumpress.ca
 www.ge-registrar.com
 www.gedabes.com.br
@@ -2886,6 +2917,7 @@ www.gelden-faber.de
 www.geldersmannenensemble.nl
 www.geldgirls.com
 www.geldnerd.nl
+www.geldverzekerd.nl
 www.gemaksecurity.co.zw
 www.genengnews.com
 www.genesisofhiltonhead.com
@@ -2986,6 +3018,7 @@ www.gunghaggis.com
 www.gunze.jp
 www.gutefrage.net
 www.gvpedia.org
+www.gwefrhebwifrau.org.uk
 www.gymsecurity.cl
 www.hbonlincustomerservice.group-ints.com
 www.helpdesk.gtten.com
@@ -3011,6 +3044,7 @@ www.secure.gogreenwoodbank.com
 www.security2.glow-web.net
 www.solidsecurity.globzine.com
 www.staging.gezinshuis-attention.nl
+www.toimitussopimus.gromi.fi
 www.updater.ggmt2.hu
 www.user.glommart.com
 www.vclaim2.grhakumalaclinic.com
