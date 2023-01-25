@@ -742,6 +742,7 @@ auth.jefersoncardoso.dev
 autodiscover.jornadacontradepressao.site
 autodiscover.jualmobil-toyota.com
 autodiscover.justforfoodies.site
+backend.jofotara.gov.jo
 billings.jwdevsite.co.uk
 bj.jmoney.xyz
 blockchain101.work.nextplan.jetboy.jp
@@ -767,6 +768,7 @@ customer.jubaopen.win
 d.joinhoney.com
 d23.jobo.to
 deposits.secure.jeniusbank.com
+directory.jenett.org
 disco-doodle.jspade.net
 disco.jr93.de
 discord.jamesphillipsuk.com
@@ -791,6 +793,7 @@ gitlab.gitlab.blog.nullnullordpress.outlook.jenbrial.com
 gitlab.gitlab.gitlab.git.shop.edutest.dev.joshuaanello.com
 gitlab.gitlab.shop.edutest.dev.joshuaanello.com
 gl.google.com.japonica.ru
+helpdesk.jolmautilities.com
 hosted.jacksonriverdev.com
 hugolescargot.journaldesfemmes.fr
 iamt.justice.sk
@@ -950,6 +953,7 @@ repositorio.jfpe.jus.br
 sakuban.jsm.co.jp
 sandkasse-jhp.jfm360kunder.dk
 sante.journaldesfemmes.fr
+secure.jskypro.com
 servicos.jslnext.com.br
 shop.edstore.gitlab.joshuaanello.com
 shop.jailers.de
@@ -1046,6 +1050,7 @@ www.jodysbakery.net
 www.joeescateringservice.com
 www.jogpeople.com
 www.johannesburgsolarsystem.co.za
+www.johannesherden.de
 www.john-roche-author.com
 www.johncbarentine.com
 www.johndaniel-author.net
@@ -1087,6 +1092,7 @@ www.juming.com
 www.junelfebirthcontrol.com
 www.jungpost.com
 www.junkbox.com
+www.justbe.nyc
 www.justdial.com
 www.justia.com
 www.justtwogoodoldboys.com
