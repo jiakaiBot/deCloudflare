@@ -5198,6 +5198,7 @@ Do not create new issue or we will close it as duplicate.
 | [kimarmy24@twitter](https://twitter.com/kimarmy24/status/1378000928897298433) | advertise |
 | [KimChi92918716@twitter](https://twitter.com/KimChi92918716/status/1382591961891172354) | advertise |
 | [KimDaEu28711507@twitter](https://twitter.com/KimDaEu28711507/status/1394988993398382596) | advertise |
+| [KimiaMiri3@twitter](https://twitter.com/KimiaMiri3/status/1618307172273643521) | advertise |
 | [KimiLov34227418@twitter](https://twitter.com/KimiLov34227418/status/1527786022809255937) | advertise |
 | [KiMin19701070@twitter](https://twitter.com/KiMin19701070/status/1391844228691501058) | advertise |
 | [Kimkung71968826@twitter](https://twitter.com/Kimkung71968826/status/1379758619114106886) | advertise |
