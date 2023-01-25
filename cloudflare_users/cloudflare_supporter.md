@@ -11511,6 +11511,7 @@ Do not create new issue or we will close it as duplicate.
 | [Xing14851@twitter](https://twitter.com/Xing14851/status/1390482855403220994) | advertise |
 | [XixonK@twitter](https://twitter.com/XixonK/status/1388732923772162065) | advertise |
 | [xiye21970014@twitter](https://twitter.com/xiye21970014/status/1572105392993480705) | advertise |
+| [XjkgdF@twitter](https://twitter.com/XjkgdF/status/1618278848000585729) | advertise |
 | [XjwlXx@twitter](https://twitter.com/XjwlXx/status/1403028809415266306) | advertise |
 | [xjx25616339@twitter](https://twitter.com/xjx25616339/status/1593931759464640517) | advertise |
 | [xmanhbun@twitter](https://twitter.com/xmanhbun/status/1397539419356221441) | advertise |
