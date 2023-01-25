@@ -4427,6 +4427,7 @@ Here's a list of public Fediverse services.
 | `bunny.blue` | No |
 | `bunny.cafe` | No |
 | `bunny.cloud` | Yes |
+| `bunny.family` | Yes |
 | `bunny.social` | No |
 | `bunnycloud.ca` | No |
 | `bunnyhut.ch` | No |
@@ -9221,6 +9222,7 @@ Here's a list of public Fediverse services.
 | `enterenchanted.com` | No |
 | `entertheempty.space` | No |
 | `entheoconnect.social` | No |
+| `entire.vc` | No |
 | `entire.website` | Yes |
 | `entomophagy.world` | No |
 | `entouragemag.net` | No |
@@ -18907,7 +18909,7 @@ Here's a list of public Fediverse services.
 | `mammothcirc.us` | No |
 | `mammothcircus.com` | No |
 | `mammout.bzh` | Yes |
-| `mammouth.cafe` | Yes |
+| `mammouth.cafe` | No |
 | `mammouth.quebec` | No |
 | `mammut.id` | Yes |
 | `mammut.moe` | No |
@@ -36898,7 +36900,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,672 |
-| Normal | 28,182 |
+| Normal | 28,184 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
