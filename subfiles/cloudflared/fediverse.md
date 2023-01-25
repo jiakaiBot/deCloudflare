@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,453 |
-| social | 3,465 |
+| social | 3,466 |
 | net | 2,791 |
 | org | 1,991 |
 | de | 1,881 |
@@ -81,6 +81,7 @@ Here's a list of public Fediverse services.
 | `0sint.social` | No |
 | `0sn.net` | Yes |
 | `0svc.com` | No |
+| `0t0.xyz` | No |
 | `0twitter.com` | No |
 | `0u0.fun` | No |
 | `0upti.me` | Yes |
@@ -6014,6 +6015,7 @@ Here's a list of public Fediverse services.
 | `conman.co.za` | No |
 | `conne.cc` | Yes |
 | `connect.cafe` | No |
+| `connected.so` | Yes |
 | `connectified.com` | No |
 | `connectingdotsblog.com` | No |
 | `connections.coach` | Yes |
@@ -6046,6 +6048,7 @@ Here's a list of public Fediverse services.
 | `contentnation.net` | No |
 | `contentsyndikat.de` | No |
 | `contenttechtodon.org` | No |
+| `contingency.world` | No |
 | `continja.com` | Yes |
 | `continuouswonder.social` | No |
 | `contra-bit.com` | No |
@@ -8793,6 +8796,7 @@ Here's a list of public Fediverse services.
 | `edtechyogi.com` | No |
 | `eduardocloud.com` | Yes |
 | `eduardocollado.com` | No |
+| `educacaovigiada.org.br` | No |
 | `education.fr` | Yes |
 | `educator.social` | No |
 | `educhat.social` | No |
@@ -10769,6 +10773,7 @@ Here's a list of public Fediverse services.
 | `fosslife.org` | No |
 | `fosspri.de` | No |
 | `fosstodon.org` | No |
+| `fosstodon.ru` | No |
 | `fossworld.hu` | No |
 | `fostodon.uk` | No |
 | `fotoclub.ml` | No |
@@ -14342,6 +14347,7 @@ Here's a list of public Fediverse services.
 | `illustietor.com` | No |
 | `illyasviel.cf` | No |
 | `ilnk.info` | No |
+| `ilot.social` | No |
 | `ilove.bzh` | No |
 | `ilovedbt.com` | No |
 | `ilovela.in` | No |
@@ -36965,8 +36971,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,688 |
-| Normal | 28,234 |
+| Cloudflare | 8,689 |
+| Normal | 28,239 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
