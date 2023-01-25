@@ -9950,6 +9950,7 @@ Do not create new issue or we will close it as duplicate.
 | [T83532576@twitter](https://twitter.com/T83532576/status/1398708012445962247) | advertise |
 | [ta89151567@twitter](https://twitter.com/ta89151567/status/1502756006052380678) | advertise |
 | [TachaOfficial@twitter](https://twitter.com/TachaOfficial/status/1401122102476947458) | advertise |
+| [tacticalmoves@twitter](https://twitter.com/tacticalmoves/status/1618381075964891138) | advertise |
 | [TaDuy12@twitter](https://twitter.com/TaDuy12/status/1601377920790179840) | advertise |
 | [Taehyun21314560@twitter](https://twitter.com/Taehyun21314560/status/1394203615284240384) | advertise |
 | [Taejas3@twitter](https://twitter.com/Taejas3/status/1398096510802268160) | advertise |
