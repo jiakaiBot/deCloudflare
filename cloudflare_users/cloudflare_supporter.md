@@ -1501,6 +1501,7 @@ Do not create new issue or we will close it as duplicate.
 | [bkflyn@twitter](https://twitter.com/bkflyn/status/1569293300821270528) | advertise |
 | [BKhanthtal@twitter](https://twitter.com/BKhanthtal/status/1391690284749127688) | advertise |
 | [bkstout@twitter](https://twitter.com/bkstout/status/1552998686841618432) | advertise |
+| [Bl4ckDyck@twitter](https://twitter.com/Bl4ckDyck/status/1618313331244421120) | advertise |
 | [black77595179@twitter](https://twitter.com/black77595179/status/1552697052324581381) | advertise |
 | [BLack89036412@twitter](https://twitter.com/BLack89036412/status/1394289770767949827) | advertise |
 | [Black2282487130@twitter](https://twitter.com/Black2282487130/status/1395330021967941634) | advertise |
@@ -2088,8 +2089,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -9008,6 +9009,7 @@ Do not create new issue or we will close it as duplicate.
 | [rzrobbi17@twitter](https://twitter.com/rzrobbi17/status/1604436870414209024) | advertise |
 | [R_107571624@twitter](https://twitter.com/R_107571624/status/1503908534076932097) | advertise |
 | [r_diamondd@twitter](https://twitter.com/r_diamondd/status/1578466623220248576) | advertise |
+| [r_wajiha@twitter](https://twitter.com/r_wajiha/status/1618313780244680704) | advertise |
 | [s04365076@twitter](https://twitter.com/s04365076/status/1612814202929922050) | advertise |
 | [s1mpoverYoi@twitter](https://twitter.com/s1mpoverYoi/status/1500007315440693249) | advertise |
 | [S2G11693168@twitter](https://twitter.com/S2G11693168/status/1593549107406471168) | advertise |
@@ -10257,8 +10259,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
@@ -10892,6 +10894,7 @@ Do not create new issue or we will close it as duplicate.
 | [tuyennguyen2906@twitter](https://twitter.com/tuyennguyen2906/status/1434738541506924547) | advertise |
 | [TuynNgu65141795@twitter](https://twitter.com/TuynNgu65141795/status/1399803170520371204) | advertise |
 | [TuynNgu79383740@twitter](https://twitter.com/TuynNgu79383740/status/1551997972795527168) | advertise |
+| [TV2490541679@twitter](https://twitter.com/TV2490541679/status/1618313406314090497) | advertise |
 | [tvtrsteven@twitter](https://twitter.com/tvtrsteven/status/1510619103048118272) | advertise |
 | [tvtttt03@twitter](https://twitter.com/tvtttt03/status/1571177765751361536) | advertise |
 | [tv_ngo@twitter](https://twitter.com/tv_ngo/status/1551988000271114240) | advertise |
