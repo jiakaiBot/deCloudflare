@@ -36587,6 +36587,7 @@ Here's a list of public Fediverse services.
 | `zabaglione.net` | No |
 | `zabutone.com` | No |
 | `zac.dev` | Yes |
+| `zach.rocks` | No |
 | `zachartajuddin.com` | No |
 | `zachary.com` | No |
 | `zachcampau.com` | No |
@@ -36954,7 +36955,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,685 |
-| Normal | 28,225 |
+| Normal | 28,226 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
