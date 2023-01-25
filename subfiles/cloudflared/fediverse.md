@@ -326,6 +326,7 @@ Here's a list of public Fediverse services.
 | `36c.nl` | No |
 | `39.gy` | Yes |
 | `39sounds.net` | No |
+| `3bit.one` | Yes |
 | `3bk.jp` | No |
 | `3cat.icu` | No |
 | `3cgw.de` | No |
@@ -4496,7 +4497,7 @@ Here's a list of public Fediverse services.
 | `butash.net` | No |
 | `butnot.today` | Yes |
 | `butt.dev` | Yes |
-| `butt.fan` | Yes |
+| `butt.fan` | No |
 | `butt.team` | No |
 | `butterknifeestates.com` | No |
 | `buttersc.one` | Yes |
@@ -5128,6 +5129,7 @@ Here's a list of public Fediverse services.
 | `chaoznekoz.com` | No |
 | `chapril.org` | No |
 | `chapsterhood.com` | No |
+| `char.my.id` | Yes |
 | `charade.social` | No |
 | `charcha.cc` | No |
 | `chargen.one` | No |
@@ -22351,6 +22353,7 @@ Here's a list of public Fediverse services.
 | `neonsoup.xyz` | Yes |
 | `neontechnica.lol` | No |
 | `neophili.ac` | No |
+| `neos.love` | Yes |
 | `neos.social` | No |
 | `neosam.dev` | No |
 | `neosocial.xyz` | No |
@@ -32881,6 +32884,7 @@ Here's a list of public Fediverse services.
 | `toot.design` | No |
 | `toot.earth` | No |
 | `toot.exchange` | No |
+| `toot.fan` | No |
 | `toot.futbol` | No |
 | `toot.garden` | Yes |
 | `toot.ge` | Yes |
@@ -35392,6 +35396,7 @@ Here's a list of public Fediverse services.
 | `wikis.world` | No |
 | `wikitetas.club` | No |
 | `wikitetas.live` | No |
+| `wikiwiki.li` | Yes |
 | `wilboard.nl` | No |
 | `wilbvr.me` | Yes |
 | `wilcosky.com` | Yes |
@@ -36985,8 +36990,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,696 |
-| Normal | 28,246 |
+| Cloudflare | 8,699 |
+| Normal | 28,248 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
