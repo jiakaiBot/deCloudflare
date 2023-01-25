@@ -114,7 +114,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | borjalopez.eu | No |
 | bosco.ovh | No |
 | brahma.world | Yes |
-| brb.pp.ua | Yes |
 | brian-hong.tech | No |
 | brightesttv.com | Yes |
 | brosena.xyz | Yes |
@@ -165,12 +164,10 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | d96.info | No |
 | dankatapich.eu.org | Yes |
 | darknet.bg | No |
-| darktraffic.cloud | No |
 | data.haus | No |
 | datacore.ch | No |
 | datahata.by | No |
 | datamatter.co.za | No |
-| david888.com | No |
 | davidruhmann.com | Yes |
 | daw.dev | No |
 | decloudus.com | No |
@@ -392,7 +389,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | krnl.eu | Yes |
 | kswro.web.id | Yes |
 | lacontrevoie.fr | No |
-| landgame.net | No |
 | lars-lehmann.net | Yes |
 | lastentarvike.fi | No |
 | laurenlaufman.com | No |
@@ -432,7 +428,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | meeo.win | Yes |
 | meganerd.nl | No |
 | meidouling.com | No |
-| melalandia.tk | No |
 | meshkov.info | Yes |
 | mgiptvpro.ml | No |
 | mhn.de | No |
@@ -491,7 +486,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nongdanthanky.com | No |
 | norgan.net | No |
 | norvig.dk | Yes |
-| norvrandt.co.uk | Yes |
 | notecore.me | No |
 | novali.date | Yes |
 | novg.net | No |
@@ -524,7 +518,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | privacy.cm | Yes |
 | privilab.net | No |
 | project-evoex.de | No |
-| psociety.de | Yes |
 | puredns.org | Yes |
 | pyry.me | Yes |
 | pzhg.me | No |
@@ -604,7 +597,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | thecremeens.com | Yes |
 | theres.one | No |
 | therifleman.name | No |
-| thiagoalmeida.ca | Yes |
 | tiar.app | No |
 | tiarap.org | Yes |
 | timmes.nl | No |
@@ -673,8 +665,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 288 |
-| Normal | 366 |
+| Cloudflare | 284 |
+| Normal | 362 |
 
 
 ### 44% of DNS-over-HTTPS (DoH) are using Cloudflare.
