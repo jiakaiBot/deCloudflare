@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,453 |
-| social | 3,466 |
-| net | 2,791 |
+| com | 5,455 |
+| social | 3,468 |
+| net | 2,793 |
 | org | 1,991 |
 | de | 1,881 |
 
@@ -231,6 +231,7 @@ Here's a list of public Fediverse services.
 | `1necat.com` | Yes |
 | `1o1.io` | No |
 | `1oku.net` | No |
+| `1password.social` | No |
 | `1person.me` | No |
 | `1rl.social` | Yes |
 | `1stva.mp` | No |
@@ -2616,6 +2617,7 @@ Here's a list of public Fediverse services.
 | `axac.fr` | No |
 | `axbom.com` | Yes |
 | `axbom.me` | No |
+| `axeleroy.com` | No |
 | `axhxrx.com` | Yes |
 | `axidstudios.com` | Yes |
 | `axiixc.com` | No |
@@ -4773,6 +4775,7 @@ Here's a list of public Fediverse services.
 | `cardinalmedia.co` | No |
 | `care-tags.org` | No |
 | `carecom.social` | No |
+| `carelesswhisper.nl` | No |
 | `carey.sh` | No |
 | `careyscloud.ie` | No |
 | `carfree.city` | Yes |
@@ -4862,6 +4865,7 @@ Here's a list of public Fediverse services.
 | `catdon.app` | Yes |
 | `catdon.jp` | No |
 | `catdon.life` | No |
+| `categoryurls.life` | Yes |
 | `categoryurls.top` | Yes |
 | `caterpillarcheesecake.xyz` | Yes |
 | `catgirl.army` | Yes |
@@ -7070,6 +7074,7 @@ Here's a list of public Fediverse services.
 | `darnell.app` | No |
 | `darnell.day` | No |
 | `darnell.fyi` | No |
+| `darnell.moe` | No |
 | `darnell.one` | No |
 | `darnell.ooo` | No |
 | `darnell.tv` | No |
@@ -8024,6 +8029,7 @@ Here's a list of public Fediverse services.
 | `dmorozov.info` | No |
 | `dmrty.fr` | No |
 | `dmrty.net` | No |
+| `dms100.net` | Yes |
 | `dmv.community` | No |
 | `dmxd.party` | No |
 | `dmynerd78.me` | No |
@@ -9260,6 +9266,7 @@ Here's a list of public Fediverse services.
 | `entropyin.space` | No |
 | `entropyservice.com` | No |
 | `entropysource.ru` | Yes |
+| `enu8d.com` | Yes |
 | `enum.run` | No |
 | `envismo.social` | No |
 | `envs.net` | No |
@@ -12431,6 +12438,7 @@ Here's a list of public Fediverse services.
 | `government.st` | No |
 | `govital.net` | No |
 | `govt.is` | No |
+| `gowalla.social` | No |
 | `goyim.app` | No |
 | `goyslop.cafe` | No |
 | `goziline.com` | No |
@@ -19536,6 +19544,7 @@ Here's a list of public Fediverse services.
 | `mastodon.radio` | No |
 | `mastodon.re` | No |
 | `mastodon.red` | No |
+| `mastodon.rehab` | No |
 | `mastodon.rip` | Yes |
 | `mastodon.rocks` | Yes |
 | `mastodon.saarland` | No |
@@ -21627,6 +21636,7 @@ Here's a list of public Fediverse services.
 | `multiclan.ninja` | No |
 | `multijeux.fr` | Yes |
 | `multimob.be` | No |
+| `multinet.ua` | No |
 | `multiple-creature.party` | No |
 | `multisum.info` | No |
 | `multitasked.net` | Yes |
@@ -29453,6 +29463,7 @@ Here's a list of public Fediverse services.
 | `skilltoy.site` | No |
 | `skinheads.co` | No |
 | `skinheads.eu` | Yes |
+| `skinheads.io` | Yes |
 | `skinheads.network` | Yes |
 | `skinheads.social` | Yes |
 | `skinheads.uk` | Yes |
@@ -34771,6 +34782,7 @@ Here's a list of public Fediverse services.
 | `vraphim.com` | No |
 | `vreeman.com` | Yes |
 | `vreign.space` | No |
+| `vries.dev` | Yes |
 | `vriezekolk.org` | No |
 | `vrifox.cc` | No |
 | `vrij.social` | Yes |
@@ -36584,6 +36596,7 @@ Here's a list of public Fediverse services.
 | `yzsdcm.top` | No |
 | `z-blog.tk` | No |
 | `z-flag.work` | No |
+| `z-n-a-k.net` | Yes |
 | `z.fail` | No |
 | `z.je` | No |
 | `z0ne.moe` | Yes |
@@ -36972,8 +36985,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,690 |
-| Normal | 28,239 |
+| Cloudflare | 8,696 |
+| Normal | 28,246 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
