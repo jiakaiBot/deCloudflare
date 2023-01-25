@@ -7177,6 +7177,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nami37622@twitter](https://twitter.com/Nami37622/status/1585387486687416320) | advertise |
 | [NamKhnhNguyn5@twitter](https://twitter.com/NamKhnhNguyn5/status/1383584263686160386) | advertise |
 | [NamKZ10@twitter](https://twitter.com/NamKZ10/status/1392522903040651264) | advertise |
+| [namlcasd@twitter](https://twitter.com/namlcasd/status/1618256014788427776) | advertise |
 | [namle131@twitter](https://twitter.com/namle131/status/1400518758590947331) | advertise |
 | [nammap12@twitter](https://twitter.com/nammap12/status/1391274693244592137) | advertise |
 | [namnam18993308@twitter](https://twitter.com/namnam18993308/status/1394853064482435074) | advertise |
@@ -9377,6 +9378,7 @@ Do not create new issue or we will close it as duplicate.
 | [Shanilk40518007@twitter](https://twitter.com/Shanilk40518007/status/1401086959989268482) | advertise |
 | [ShanKoKo10@twitter](https://twitter.com/ShanKoKo10/status/1394641850879725569) | advertise |
 | [ShannonMMitche1@twitter](https://twitter.com/ShannonMMitche1/status/1405702171438555136) | advertise |
+| [shapoo67@twitter](https://twitter.com/shapoo67/status/1618249394830331905) | advertise |
 | [SharabShrestha@twitter](https://twitter.com/SharabShrestha/status/1536686494672617474) | advertise |
 | [sharanuswamy9@twitter](https://twitter.com/sharanuswamy9/status/1403599807860535298) | advertise |
 | [SHARDXD1@twitter](https://twitter.com/SHARDXD1/status/1528293917959290880) | advertise |
@@ -10938,6 +10940,7 @@ Do not create new issue or we will close it as duplicate.
 | [udng83676589@twitter](https://twitter.com/udng83676589/status/1388778273388195844) | advertise |
 | [ufirz825732@twitter](https://twitter.com/ufirz825732/status/1396484531826221057) | advertise |
 | [UHanHtet1@twitter](https://twitter.com/UHanHtet1/status/1396313963051298818) | advertise |
+| [UhteinCe@twitter](https://twitter.com/UhteinCe/status/1618254816119250945) | advertise |
 | [UHtike_@twitter](https://twitter.com/UHtike_/status/1390057336333426691) | advertise |
 | [uislis@twitter](https://twitter.com/uislis/status/1383408197793325062) | advertise |
 | [uitlaber@twitter](https://twitter.com/uitlaber/status/1531845335915679744) | advertise |
@@ -11153,6 +11156,7 @@ Do not create new issue or we will close it as duplicate.
 | [VnDoanhLng11@twitter](https://twitter.com/VnDoanhLng11/status/1602678256414601216) | advertise |
 | [Vng1Nht@twitter](https://twitter.com/Vng1Nht/status/1531109033708441600) | advertise |
 | [vng56169078@twitter](https://twitter.com/vng56169078/status/1606319273550311426) | advertise |
+| [VNguyn69950687@twitter](https://twitter.com/VNguyn69950687/status/1618260218189864960) | advertise |
 | [VngV80717900@twitter](https://twitter.com/VngV80717900/status/1599461822410940416) | advertise |
 | [Vnhi73891454@twitter](https://twitter.com/Vnhi73891454/status/1553821417107767297) | advertise |
 | [VNhLinh5@twitter](https://twitter.com/VNhLinh5/status/1477522077796438016) | advertise |
