@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,452 |
+| com | 5,453 |
 | social | 3,465 |
 | net | 2,790 |
 | org | 1,990 |
@@ -81,6 +81,7 @@ Here's a list of public Fediverse services.
 | `0sint.social` | No |
 | `0sn.net` | Yes |
 | `0svc.com` | No |
+| `0t0.xyz` | No |
 | `0twitter.com` | No |
 | `0u0.fun` | No |
 | `0upti.me` | Yes |
@@ -6014,6 +6015,7 @@ Here's a list of public Fediverse services.
 | `conman.co.za` | No |
 | `conne.cc` | Yes |
 | `connect.cafe` | No |
+| `connected.so` | Yes |
 | `connectified.com` | No |
 | `connectingdotsblog.com` | No |
 | `connections.coach` | Yes |
@@ -6046,6 +6048,7 @@ Here's a list of public Fediverse services.
 | `contentnation.net` | No |
 | `contentsyndikat.de` | No |
 | `contenttechtodon.org` | No |
+| `contingency.world` | No |
 | `continja.com` | Yes |
 | `continuouswonder.social` | No |
 | `contra-bit.com` | No |
@@ -22369,6 +22372,7 @@ Here's a list of public Fediverse services.
 | `nerdhaven.de` | No |
 | `nerdheim.de` | No |
 | `nerdherd.space` | No |
+| `nerdhub.co` | Yes |
 | `nerdhut.ch` | No |
 | `nerdica.net` | No |
 | `nerdington.de` | No |
@@ -35062,6 +35066,7 @@ Here's a list of public Fediverse services.
 | `webblund.dev` | No |
 | `webcabin.xyz` | No |
 | `webcommunity.club` | No |
+| `webcoven.com` | No |
 | `webdancers.com` | No |
 | `webdev.community` | Yes |
 | `webdev.network` | No |
@@ -36953,8 +36958,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,685 |
-| Normal | 28,225 |
+| Cloudflare | 8,687 |
+| Normal | 28,228 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
