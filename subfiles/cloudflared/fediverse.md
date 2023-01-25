@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,452 |
-| social | 3,464 |
+| social | 3,465 |
 | net | 2,790 |
 | org | 1,990 |
 | de | 1,878 |
@@ -1800,6 +1800,7 @@ Here's a list of public Fediverse services.
 | `anticom.world` | No |
 | `anticontent.net` | No |
 | `anticorrectiv.de` | Yes |
+| `antidisplacement.nyc` | No |
 | `antifa.ceo` | No |
 | `antifa.gmbh` | No |
 | `antifa.tokyo` | No |
@@ -9380,6 +9381,7 @@ Here's a list of public Fediverse services.
 | `errant.cloud` | No |
 | `erratasec.com` | No |
 | `erratic.cc` | Yes |
+| `erratic.social` | Yes |
 | `errbufferoverfl.me` | Yes |
 | `error.im` | Yes |
 | `errormaker.net` | Yes |
@@ -32350,6 +32352,7 @@ Here's a list of public Fediverse services.
 | `thewired.zone` | Yes |
 | `thewiring.com` | Yes |
 | `thewomenintechshow.com` | No |
+| `thewookiees.dev` | No |
 | `theworldiscoated.blue` | No |
 | `thexboxcast.co.nz` | Yes |
 | `thexsoft.com` | Yes |
@@ -35283,6 +35286,7 @@ Here's a list of public Fediverse services.
 | `whetmoser.com` | No |
 | `whhone.com` | No |
 | `whimsic.al` | No |
+| `whinge.house` | No |
 | `whinge.town` | No |
 | `whiplashprinciples.club` | Yes |
 | `whisker.org.uk` | No |
@@ -35353,6 +35357,7 @@ Here's a list of public Fediverse services.
 | `wiki-tube.de` | No |
 | `wiki.style` | No |
 | `wikimedia.de` | No |
+| `wikimedia.es` | No |
 | `wikimedia.pt` | Yes |
 | `wikis.world` | No |
 | `wikitetas.club` | No |
@@ -36948,8 +36953,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,684 |
-| Normal | 28,221 |
+| Cloudflare | 8,685 |
+| Normal | 28,225 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
