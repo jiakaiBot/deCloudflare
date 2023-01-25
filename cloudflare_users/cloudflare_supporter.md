@@ -10504,6 +10504,7 @@ Do not create new issue or we will close it as duplicate.
 | [tiggy8x@twitter](https://twitter.com/tiggy8x/status/1485163858755207173) | advertise |
 | [tightslvr1@twitter](https://twitter.com/tightslvr1/status/1576256442293968897) | advertise |
 | [Tiii60222842@twitter](https://twitter.com/Tiii60222842/status/1381243276804513796) | advertise |
+| [TiinTung@twitter](https://twitter.com/TiinTung/status/1618284022014308355) | advertise |
 | [TikkhaVen@twitter](https://twitter.com/TikkhaVen/status/1390583202595672069) | advertise |
 | [Timeox2kDev@twitter](https://twitter.com/Timeox2kDev/status/1529840436390420480) | advertise |
 | [TimJiang0106@twitter](https://twitter.com/TimJiang0106/status/1602945168805486592) | advertise |
