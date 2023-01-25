@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,446 |
-| social | 3,454 |
+| social | 3,455 |
 | net | 2,787 |
 | org | 1,988 |
 | de | 1,875 |
@@ -22528,6 +22528,7 @@ Here's a list of public Fediverse services.
 | `newtown.chiba.jp` | No |
 | `newtro.club` | No |
 | `newtype.institute` | No |
+| `newvivarium.social` | No |
 | `newwest.social` | Yes |
 | `newyorkdon.net` | No |
 | `newyorkfriendfinder.com` | No |
@@ -33048,7 +33049,7 @@ Here's a list of public Fediverse services.
 | `trailrunnersdog.de` | Yes |
 | `trailsroc.org` | No |
 | `train.cz` | No |
-| `trainhobo.com` | Yes |
+| `trainhobo.com` | No |
 | `training-fitness.fun` | No |
 | `trains.coffee` | No |
 | `trainsgende.red` | No |
@@ -36899,8 +36900,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,672 |
-| Normal | 28,184 |
+| Cloudflare | 8,671 |
+| Normal | 28,186 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
