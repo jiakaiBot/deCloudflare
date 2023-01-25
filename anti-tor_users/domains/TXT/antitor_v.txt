@@ -1287,6 +1287,7 @@ click.vp.volatilitypredictor.com
 clicks.valk.nl
 client.visi.help
 cloud.e.vsp.com
+cloud.vasttech.co.uk
 clouston.v3client.com
 com.cp-ht-3.bigroblog.debug.vojvodinanet.com
 comune.vanzago.mi.it
@@ -1332,6 +1333,7 @@ discordservers-me.vercel.app
 docs.client.vl-logistic.com
 docs.client.vl-logistic.ru
 dryvoilmalaysia-gmailcom.vercel.app
+ebics.vtb.de
 elian.vercel.app
 en.virtualhelpdesk.online
 enews.vietnamairlines.com
@@ -1348,6 +1350,7 @@ genetix.ritmx-dev.aws.vsct.fr
 git.git.gitlab.git.gitlab.login.veriotexas.net
 git.gitlab.gitlab.git.mail1.vabargaintrader.com
 git.gitlab.gitlab.gitlab.gitlab.www.2019.vermeernorthwest.com
+gitlab.avito.gitlab.sberbank.ffxdid6m4my1niy.vh.vteam.tech
 gitlab.git.i.vashsad37.ru
 gitlab.gitlab.blog.app.vkgo.info
 gitlab.gitlab.git.accounts.vykup-vashego-avto.com
@@ -1360,6 +1363,7 @@ hb-b.services.vnc.com
 hcp3csaccdpreg-5a.app.eu.vwg.vwautocloud.net
 hcp3csaccdpregdev-5a.app.eu.vwg.vwautocloud.net
 hcp5csambbrun-3a.app.eu.dp.vwg-connect.com
+helix-campaign.vendycare.com
 helpdesk.villagehelpdesk.com
 helpdesk.virginactive.com.sg
 helpdesk.vlsiexpert.in
@@ -1380,6 +1384,7 @@ iservice2.vanillamedia.hr
 it.pp.vente-unique.ch
 jacobsubin2-gmailcom.vercel.app
 jjstarbreaker-gmailcom.vercel.app
+kaartech.viewpage.co
 klanten.vip.nl
 klantportaal.vue-advies.nl
 kundeweb2.voxe.no
@@ -1390,6 +1395,7 @@ login.vakil4tax.com
 login.vanwagenen.com
 login.volvoconnect.com
 logon.institutional.vanguard.com
+logout.vakifbank.at
 mail.vietnamroblox.com
 mail.viroblock.uk
 mail.viscotec.de
@@ -1431,6 +1437,7 @@ ossmobile.vodafone.pt
 ota.swmsn.prd.eu.bp.aws.cloud.vwgroup.com
 ownyourfuture.vanguard.com
 pelander.vanguard.com
+personal.vanguard.com
 personal1.vanguard.com
 platform.dev.bip.va.gov
 portal-sentry-v2.vk.team
@@ -1605,6 +1612,7 @@ vieu.cc
 viewablemedia.net
 viewdigital.org
 vigorousism.com
+vikarina.lt
 vikas-academy.com
 vikingstrength.ca
 vildeuniverser.dk
@@ -1728,6 +1736,7 @@ www.verifyreceives.com
 www.verifythis.com
 www.verkehrskunde.sh
 www.vermouth-deportivo.com.ar
+www.vernoncounty.org
 www.verstehbahnhof.de
 www.vestinglopen.nl
 www.veteransecurityinc.com
@@ -1745,6 +1754,7 @@ www.visiblecollege.education
 www.vision-service.be
 www.visitsingapore.com.cn
 www.visordown.com
+www.vistasbank.com
 www.vitalitywatch.com
 www.vitpost.gq
 www.vittrack.gq
@@ -1753,6 +1763,7 @@ www.vogons.org
 www.volcanocafe.org
 www.voltcoinwallet.co.uk
 www.voorafbetalen.nl
+www.voordeligvoorjou.com
 www.vote.pa.gov
 www.vous.academy
 www.whatsapp.vaidelivery.com
