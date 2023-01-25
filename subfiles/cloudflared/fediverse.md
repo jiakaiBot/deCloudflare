@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,465 |
 | net | 2,791 |
 | org | 1,991 |
-| de | 1,880 |
+| de | 1,881 |
 
 
 - Mastodon, Pleroma, etc
@@ -7144,6 +7144,7 @@ Here's a list of public Fediverse services.
 | `datenkrake.ch` | Yes |
 | `datenschleuse.de` | No |
 | `datenschutz-fuerth.de` | No |
+| `datenschutz-guru.de` | No |
 | `datensturm.net` | No |
 | `datentopf.org` | No |
 | `datenwolke.io` | No |
@@ -13230,6 +13231,7 @@ Here's a list of public Fediverse services.
 | `heim.sh` | No |
 | `heimann13.com` | Yes |
 | `heimat.social` | No |
+| `hein.cx` | Yes |
 | `heine.xyz` | No |
 | `heinz.cloud` | Yes |
 | `heio.co` | No |
@@ -18073,6 +18075,7 @@ Here's a list of public Fediverse services.
 | `livellosegreto.it` | No |
 | `livem.de` | No |
 | `liveplatform.ca` | No |
+| `livepods.eu` | No |
 | `livers.jp` | No |
 | `livesconnect.com` | No |
 | `livespac.es` | No |
@@ -22372,6 +22375,7 @@ Here's a list of public Fediverse services.
 | `nerdhaven.de` | No |
 | `nerdheim.de` | No |
 | `nerdherd.space` | No |
+| `nerdhub.co` | Yes |
 | `nerdhut.ch` | No |
 | `nerdica.net` | No |
 | `nerdington.de` | No |
@@ -26111,6 +26115,7 @@ Here's a list of public Fediverse services.
 | `psyk.yt` | No |
 | `psylodrumean.fr` | No |
 | `psynergy.io` | No |
+| `psynet.me` | No |
 | `psyopshop.com` | No |
 | `psyopvict.im` | Yes |
 | `psyver.space` | No |
@@ -36960,8 +36965,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,686 |
-| Normal | 28,231 |
+| Cloudflare | 8,688 |
+| Normal | 28,234 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
