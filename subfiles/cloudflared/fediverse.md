@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,452 |
+| com | 5,453 |
 | social | 3,465 |
-| net | 2,790 |
-| org | 1,990 |
-| de | 1,878 |
+| net | 2,791 |
+| org | 1,991 |
+| de | 1,880 |
 
 
 - Mastodon, Pleroma, etc
@@ -12594,6 +12594,7 @@ Here's a list of public Fediverse services.
 | `grnetcloud.net` | No |
 | `grngl.link` | No |
 | `grobox.de` | No |
+| `grobwiefein.de` | No |
 | `groenaz.de` | No |
 | `groktop.us` | Yes |
 | `gronendahl.de` | No |
@@ -14124,6 +14125,7 @@ Here's a list of public Fediverse services.
 | `iamanerd.club` | Yes |
 | `iamastodon.gifu.jp` | No |
 | `iambillweber.me` | No |
+| `iambsd.org` | Yes |
 | `iame.li` | Yes |
 | `iamernie.ca` | Yes |
 | `iametza.com` | No |
@@ -16498,6 +16500,7 @@ Here's a list of public Fediverse services.
 | `kirei.moe` | No |
 | `kirgroup.com` | No |
 | `kirgroup.net` | No |
+| `kirgus.net` | No |
 | `kiri.to` | Yes |
 | `kirigakure.net` | Yes |
 | `kiriha.me` | Yes |
@@ -22609,6 +22612,7 @@ Here's a list of public Fediverse services.
 | `niadon.club` | No |
 | `nial.to` | Yes |
 | `nibiru.nz` | No |
+| `nibis.de` | Yes |
 | `niboe.info` | No |
 | `nice.community` | No |
 | `nice.kiwi` | Yes |
@@ -32527,6 +32531,7 @@ Here's a list of public Fediverse services.
 | `tigernurse.com` | No |
 | `tigersnail.app` | Yes |
 | `tigerstyping.com` | No |
+| `tigger.ie` | No |
 | `tiggi.es` | No |
 | `tigr.space` | No |
 | `tigvarts.com` | No |
@@ -35062,6 +35067,7 @@ Here's a list of public Fediverse services.
 | `webblund.dev` | No |
 | `webcabin.xyz` | No |
 | `webcommunity.club` | No |
+| `webcoven.com` | No |
 | `webdancers.com` | No |
 | `webdev.community` | Yes |
 | `webdev.network` | No |
@@ -36917,7 +36923,7 @@ Here's a list of public Fediverse services.
 | `zuyang.wtf` | Yes |
 | `zuzakistan.com` | No |
 | `zuzax.com` | No |
-| `zveryok.pp.ua` | Yes |
+| `zveryok.pp.ua` | No |
 | `zvr.gr` | No |
 | `zw.lu` | No |
 | `zwei.net` | No |
@@ -36954,8 +36960,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,685 |
-| Normal | 28,226 |
+| Cloudflare | 8,686 |
+| Normal | 28,231 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
