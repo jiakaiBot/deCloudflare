@@ -428,6 +428,7 @@ Do not create new issue or we will close it as duplicate.
 | [ah_pinn@twitter](https://twitter.com/ah_pinn/status/1390812857999101954) | advertise |
 | [AI03105794@twitter](https://twitter.com/AI03105794/status/1551766571504340992) | advertise |
 | [AIascu@twitter](https://twitter.com/AIascu/status/1588823794311127040) | advertise |
+| [AIbietgidau00@twitter](https://twitter.com/AIbietgidau00/status/1618328664357351424) | advertise |
 | [aibos_Hodl@twitter](https://twitter.com/aibos_Hodl/status/1388969919740514306) | advertise |
 | [AicKhiem@twitter](https://twitter.com/AicKhiem/status/1584565736097226752) | advertise |
 | [aido36449809@twitter](https://twitter.com/aido36449809/status/1470779906057547786) | advertise |
@@ -1335,6 +1336,7 @@ Do not create new issue or we will close it as duplicate.
 | [BaSai44822569@twitter](https://twitter.com/BaSai44822569/status/1390875744100827142) | advertise |
 | [BasavarajShaha4@twitter](https://twitter.com/BasavarajShaha4/status/1392060094108504067) | advertise |
 | [BashaBa71391325@twitter](https://twitter.com/BashaBa71391325/status/1384809106226106371) | advertise |
+| [Bashirafg001@twitter](https://twitter.com/Bashirafg001/status/1618332901841711107) | advertise |
 | [basiconess@twitter](https://twitter.com/basiconess/status/1501542754723450887) | advertise |
 | [BasiriShahla@twitter](https://twitter.com/BasiriShahla/status/1578136198115078144) | advertise |
 | [Basix1120@twitter](https://twitter.com/Basix1120/status/1444317697794142211) | advertise |
@@ -5581,6 +5583,7 @@ Do not create new issue or we will close it as duplicate.
 | [kyaw_san_oo@twitter](https://twitter.com/kyaw_san_oo/status/1395654819742846980) | advertise |
 | [kyaw_tein@twitter](https://twitter.com/kyaw_tein/status/1380206760099733507) | advertise |
 | [kyaw_thihan@twitter](https://twitter.com/kyaw_thihan/status/1390792585921273857) | advertise |
+| [Kyi2277@twitter](https://twitter.com/Kyi2277/status/1618328156070633472) | advertise |
 | [kyiminthaw6@twitter](https://twitter.com/kyiminthaw6/status/1393374831974916098) | advertise |
 | [kyiphyu204@twitter](https://twitter.com/kyiphyu204/status/1398823767644643332) | advertise |
 | [Kyiphyu59609300@twitter](https://twitter.com/Kyiphyu59609300/status/1396712209145753609) | advertise |
