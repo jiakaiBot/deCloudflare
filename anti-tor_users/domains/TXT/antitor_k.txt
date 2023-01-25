@@ -1393,6 +1393,7 @@ aimg.kwcdn.com
 amp.kansas.com
 amp.kansascity.com
 android.kuveytturk.com.tr
+api-discord.katou.ovh
 api.kline-portal.com
 api.kliniq.co
 api.kmart.co.nz
@@ -1413,6 +1414,7 @@ bba.klenagarbhavi.edu.in
 bbs.kamfaisec.com.hk
 bca.klenagarbhavi.edu.in
 beacon.krxd.net
+bestb.kunde-formativ.net
 beta.2019.support.kaydzen.com
 blog.kanedo.net
 blog.kubukoz.com
@@ -1430,7 +1432,9 @@ click.klasresearch.com
 client-pavel.keenetic.pro
 client.knightstechnology.co.uk
 client.kring.store
+clientes.knc.works
 clients.konceptkit.com
+clientwebsitesuat3.kfintech.com
 cloud.keithhacks.cyou
 cloud.kelnik.pro
 cm.onlineservices.komplettbank.no
@@ -1451,6 +1455,7 @@ cpcalendars.kaluaseguros.com.br
 cpcalendars.kangs1610.site
 cpcalendars.kriyan.com.my
 cpcalendars.kucccnn.com
+cpcalendars.tms.travaux.korigan.fr
 cpcontacts.kangs1590.site
 ct.klclick.com
 customercaseid.katikohamazon.com
@@ -1458,6 +1463,7 @@ customertrial.kerjaplus.id
 cybersafe.kr.om
 dahassan.kar.nic.in
 data.klientportal.se
+dc.med.kyushu-u.ac.jp
 dc1.ksn.kaspersky-labs.com
 dev2.kensetsu-cloud.jp
 dircomm.li.kernix.net
@@ -1475,6 +1481,7 @@ email.g.kajabimail.net
 email.keyboardsettlement.com
 email.v.kajabimail.net
 english.kyodonews.net
+enrl.kibstrust.com
 ers.kbv.de
 europm2025.com.e18dca092597d21a68cf17757-11476.sites.k-hosting.co.uk
 events.api.ypo.0auth.klis.pro
@@ -1539,7 +1546,9 @@ kalyani.lk
 kalymnos-news.gr
 kampoengconfectie.com
 kanadapost.com
+kanal-telegram-nufilter.ga
 kanchiuniv.ac.in
+kandaka.work
 kangs1580.site
 kangs1600.site
 kangs1610.site
@@ -1554,12 +1563,14 @@ karoserimobilpendingin.com
 karoseritrukmixer.com
 kartoffelraekkerne.dk
 karyaindofurniture.com
+karyamedika.my.id
 kashmirawareness.org
 kassatheatre.com
 kastellet.com
 katcr.co
 katex.org
 katharsisdrill.art
+kathmanduhealing.org
 katingankab.go.id
 katv.com
 kauppakamaritili.fi
@@ -1636,6 +1647,7 @@ kino-michi.com
 kintaro.goog
 kipuperu.com
 kireinayuki.com
+kirimpaket.my.id
 kirstenhof.org.za
 kiselev-anton.ru
 kist.edu.bd
@@ -1694,6 +1706,8 @@ koolahwelder.com
 koreandramalocation.com
 korusigorta.com.tr
 korusigortaportal.com
+kotijahyvinvointipalvelu.net
+kotohi.com
 kotokot.com
 koucho-endless.com
 kozuldelivery.com
@@ -1703,7 +1717,6 @@ kravei.com
 kraveseo.com
 kravmagaikmf.ro
 krcrtv.com
-kreadiva-gestaltung.de
 kreasiprimasertifikasi.com
 kreatifdesain.net
 kredinbizden.net
@@ -1714,6 +1727,7 @@ kristel.com.co
 kristosh.eu
 krunamphung.com
 kryptonsecurity.co.za
+kryptouutiset.net
 kseracustomworkshop.co.uk
 ksthakker.in
 ktul.com
@@ -1776,6 +1790,7 @@ obst.kiefl-media.group
 office365verify.keybase.pub
 old.kontorexdata.se
 old.kryptonsecurity.co.za
+oneid-lpki.kibs.com.mk
 online.kclaims.com.my
 onlineafspraak.kapelle-op-den-bos.be
 onza5050post.keenetic.link
@@ -1879,6 +1894,7 @@ www.auth0.keantex.com
 www.avito.avito.avito.sberbank.wiki.aid33yx1.kbereg.info
 www.bank.kardashianfinance.com
 www.billing.khsmmpro.com
+www.bsnserver.kunstgebitservice.info
 www.client.knightstechnology.co.uk
 www.clientes.kleversoft.net
 www.clientnew.krishnakalyani.in
@@ -1886,6 +1902,7 @@ www.clinicalservice.kassp.pl
 www.conditoriet.kunder2-guru-utvikling.no
 www.confirmyouraccount-fbstaticxaspx-cdn.kabarita.co
 www.contoh.klinik-khitanan-paramedika.com
+www.credit.kin-que.com
 www.dashboard.kachelan.com
 www.dfgases.com.br.kombify.com.br
 www.eksposekaltara.kaltaracybersecurity.com
@@ -1911,6 +1928,7 @@ www.gitlab.gitlab.webdisk.derbyaffost.kirillreshetnikov.ru
 www.kaggle.com
 www.kaidankaistories.com
 www.kajuen.co.jp
+www.kakiro-web.com
 www.kaltengpost.kaltengexpres.com
 www.kalyanjewellers.net
 www.kamarikuoro.com
@@ -1929,6 +1947,7 @@ www.kb-pt.com
 www.kcbathremodel.com
 www.kcentv.com
 www.kcua.ac.jp
+www.kebumenupdate.com
 www.kellenfreeman.com
 www.kempacollection.com
 www.ketk.com
