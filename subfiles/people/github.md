@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Add Sentry to Worker](https://github.com/tiki/l0-storage/issues/41)
 - [Astro 2.0 Node Version Check Issue](https://github.com/withastro/astro/issues/5967)
 - [CloudFlare Cloudflare Images API and Analytics Delays](https://github.com/MatBenfield/news/issues/8486)
 - [Fails in cloudflare-workers environment](https://github.com/mailgun/mailgun.js/issues/341)
