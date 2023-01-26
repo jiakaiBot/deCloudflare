@@ -1692,11 +1692,13 @@ account.holyrics.com.br
 accounting-pr-2533.herokuapp.com
 accounting-pr-2563.herokuapp.com
 accounts-1a1d9246dbda1d9b-af.highbond-s3.com
+accounts.harventschool.com
 accounts.hodlhodl.com
 advent2022-opening-bot.herokuapp.com
 aerophilic-vaudois.herokuapp.com
 afpush.herocraft.com
 air.huawei.com
+airindiaexpress.huagati.com
 amazon-fx.com.hectar-trade.com
 ancient-fortress-03582.herokuapp.com
 apaga-enciende-temporalmente-bbva.hg-ergosstrategy.co.ao
@@ -1844,6 +1846,7 @@ dps.ws.hmrc.gov.uk
 dr2blog.hcommons.org
 dtest-evrgrn-fdib.lp.hsbc.co.uk
 dural-headrest.herokuapp.com
+dutchcontrol.hkwebsitetotaal.nl
 dweb.happybeing.com
 dynomiteheadlite.hansuld.com
 dynoview.howtank.ninja
@@ -1876,6 +1879,7 @@ firemelon.hsbc-online-banking.co.uk
 fournisseurs.hydroquebec.com
 fr.hostsslingdba.buzz
 free-de.hideservers.net
+free.hub212.com
 fritz.haneklaus.net
 fs.helplinecloud.de
 fs.hoganas.com
@@ -1904,6 +1908,7 @@ gitlab.filef366a234b7fe.rel.hicode.com
 gitlab.git.git.git.gitlab.git.secure.hot-live-owa.com
 gitlab.git.git.git.magento.blog.highlyimportantpeople.se
 gitlab.git.git.git.www.instagram.hrnewyear.ru
+gitlab.git.git.gitlab.git.adminportal.hrnewyear.ru
 gitlab.git.gitlab.gitlab.support.hetraderwebservices.com
 gitlab.git.gitlab.status.hackway.su
 gitlab.gitlab.git.git.git.grocery.hrnewyear.ru
@@ -1934,11 +1939,13 @@ hanfordsentinel.com
 hangersbozal.com
 hangipartili.com
 hanhtrinhvietnam.vn
+hannekekarsten.nl
 hanonstudio.com
 hanoverdentalsedation.com
 hanzawasan-file.com
 happy2clean.dk
 happysanta.com.ua
+harariprosperitypartybroff.org.et
 hard-money.fund
 harkey.info
 harlaairbank.ml
@@ -1946,6 +1953,7 @@ harmalpilotry.com
 harolfairbank.ml
 harrell.com
 harryanddavid.info
+harrydamm.com
 hart.com.sg
 harvestinght.life
 harvestinght.top
@@ -1958,6 +1966,7 @@ hats.goog
 hauufhgezl.com
 havasreunion.com
 hawkscybersecurity.cc
+hawleys.run
 hayatiskele.com
 haymishlytta.com
 haytch0910.herokuapp.com
@@ -1999,6 +2008,7 @@ hellobooks.com
 hellotierney.com
 helpdesk.cp4.host25.com
 helpinghandssupport.co.uk
+helpinprogress.com
 helpukrainianhospitals.com
 heltonbarros.com
 hemiolajobson.website
@@ -2035,7 +2045,6 @@ heydo852newv1.update2022-3.development.heydo.net
 heydo875v3.update2022-3.development.heydo.net
 heydynoriega.com
 heysistravelsafe.com
-hgscocodemes.net
 hhsecurity.org
 hibouchushou.net
 high-authority29.ml
@@ -2081,6 +2090,7 @@ holidays.hrs.de
 holtensys.no
 holybackshots.com
 home-appliances-door-to-door-service.co.in
+homebank-ing.com
 homecctvsecurity.com.au
 homelifeuae.com
 homeonnativeland.com
@@ -2102,6 +2112,9 @@ hostinghunk.com
 hostrider.com
 hostwebservice.com
 hosupshunk.com
+hotbit-official-platform.cf
+hotbit-official-platform.ga
+hotbit-official-platform.gq
 hotel-it-service.com
 hotelinnovation.gr
 hotelmacris.com
@@ -2228,6 +2241,7 @@ klantportaal.hoekstra-urk.nl
 landing.hrnewyear.ru
 landonfoster204958.hatenablog.com
 launch.heysimon.com
+lesser-laterite.herokuapp.com
 leveredge3.hulcd.com
 lgimages.hotims.com
 liujnmk.herokuapp.com
@@ -2255,6 +2269,7 @@ mvnouat.hkcsl.com
 mypixels.hw2k.com
 nanocephalic-rameses.herokuapp.com
 navika.hackernwar.com
+new.hrnewyear.ru
 oasys.homecredit.co.id
 octosyllabic-disc.herokuapp.com
 oidc.idp.elogin.hraccess-e-access.page
@@ -2276,14 +2291,18 @@ prod-api.hypercard.com
 proxia.hateblo.jp
 push-api.cloud.huawei.com
 push-api.cloud.huawei.com.cn
+quantifiable-professionalism.herokuapp.com
 quechuan-steiner.herokuapp.com
+raddled-gynobase.herokuapp.com
 realizesolucoesfinanceirass.herokuapp.com
 repugnant-invalidity.herokuapp.com
 ritchietorres.house.gov
 router.hereapi.com
 s.hbdongda.cn
+saas.haugazel.be
 saosepe.hcpa.edu.br
 sautinkari.cloud21.hostingpalvelu.fi
+sberbank.sber.avito.blablacar.avito.avito.hearing-aid-4ease.com
 sc.hkex.com.hk
 schiff.house.gov
 scrm-statics-files.hypers.com.cn
@@ -2293,6 +2312,7 @@ serviceportal.hlmgroup.as
 shopify.hrnewyear.ru
 simiteru8150.hatenablog.com
 softhearted-inhumanity.herokuapp.com
+sroom.hcu.edu.tw
 ss.hivatalosalkoholszonda.hu
 ssl-vpn1.hidc.jp
 steampod30.hair-gallery.de
@@ -2309,16 +2329,19 @@ technology-networks-sciences.hastac.hcommons.org
 test-apis.hireright.com
 test1.homexsecurity.com
 threatresearch.ext.hp.com
+ticket.hinzaco.com
 tmtheme-editor.herokuapp.com
 totalfunds.haslerinc.com
 touch-vodafone-uk.hackbanks.com
 traefik.herrschlauschlau.de
 traefik.holstentor.eu
+treated-ruling.herokuapp.com
 tripinnate-kuru.herokuapp.com
 uat.heytorus.com
 ulyanovsk.azhurstal.ru.hudkovka.com.hudkovka.com
 unchristlike-callirhoe.herokuapp.com
 unclad-gecko.herokuapp.com
+undomesticated-bugbane.herokuapp.com
 unrevealed-vindictiveness.herokuapp.com
 unshorn-conceding.herokuapp.com
 untufted-millwork.herokuapp.com
@@ -2342,6 +2365,7 @@ whm.horsebalance.fi
 workflow.uat.hiringhood.com
 www.account.hamrovet.com
 www.accounterpart.hetcodeerbedrijf.nl
+www.accounts.harventschool.com
 www.add.hbonetwork.com
 www.alarm-check.high-pass.co.uk
 www.app.hauerdelivery.site
@@ -2384,12 +2408,14 @@ www.hangipartili.com
 www.hannibal.net
 www.hanonstudio.com
 www.harlandclarkegiftcard.com
+www.hatyaibusticket.com
 www.hautarzt-mainz.de
 www.hawkins-weeks.com
 www.haywardtowingservice.com
 www.hblibank.com
 www.hbm-machines.com
 www.hbpropiscineservice-lpa.fr
+www.hc-cameroon-ottawa.org
 www.hc-post.com
 www.hcp-services.nl
 www.he-wg.eu
@@ -2399,6 +2425,7 @@ www.health.pa.gov
 www.healthcare.gov
 www.healthright360.org
 www.heatheninc.com
+www.heinekenespana.es
 www.helion.co.uk
 www.hellolisting.com.au
 www.helpdesk.co.rs
@@ -2411,6 +2438,7 @@ www.heraldonline.com
 www.heraldpalladium.com
 www.heraldsun.com
 www.heredarconseguridad.com
+www.herokucdn.com
 www.herttakustannus.fi
 www.hhc-ut.net
 www.hiawathaialegionpost735.org
@@ -2422,11 +2450,13 @@ www.hillspet.be
 www.hino.co.jp
 www.histoiredeserignan.fr
 www.historischecartografie.nl
+www.hivesocial.app
 www.hm-trust-ag.de
 www.hme-tech.de
 www.hmpharmacon.com
 www.hno-aerzte-mainz.de
 www.hoangminhservice.com
+www.hobo.nl
 www.hochheuser.ch
 www.hoehenkirchen-siegertsbrunn.de
 www.hof-fankhauser.ch
@@ -2495,6 +2525,7 @@ www.huntertones.com
 www.huntertownmeats.com
 www.huntervalleycsd.com
 www.huntervalleyedit.com
+www.hunterxofficial.com
 www.huntleyrental.com
 www.huntsvilletxroofing.com
 www.hushmanchesterescorts.co.uk
@@ -2515,6 +2546,7 @@ www.security.hydemy.com
 www.serviceac-bekasi.com.hargacatlantai.com
 www.servicerca.hibridturbo.ro
 www.support.halseygadgets.xyz
+www.test.helpcompservice.ru
 www.thegatewayathestbank.hotelinn.top
 www.ticketsell.hdsports-area.site
 www.user.heirsglobal.com
