@@ -202,6 +202,7 @@ autodiscover.cpanel.webdisk.webmail.mail.www.xflirt.fr
 blue-canary.xboxservices.com
 bod.xchanging.it
 botdiscord.xantxo-coquillard.fr
+chatbot.staging.xclapi.in
 click.messages.xoom.com
 click.xpnews.com.br
 clients.x-trait.com
@@ -214,6 +215,7 @@ cracker.xianglikj.cn
 discord.xhr.my.id
 facebookextract.xtremeforyou.com
 gameclipscontent-d2003.xboxlive.com
+games.xcentercentral.com
 giant.xahtsm.cn
 git.git.git.gitlab.git.faxij64962.temp.xn--vs-zi72aga.ga
 git.git.outlook.xn--80aamnof2bfhn9f.xn--p1acf
@@ -236,6 +238,7 @@ media.xiq.io
 mobile.xoom.com
 o3gmail3aojyusp.account.xn----stbbukh.xn--p1ai
 old.xetel.in
+platinademo.x-docs.com
 sts.xiduamdev.ca
 tracking.xiq.io
 webdisk.xyprus.ir
@@ -257,6 +260,7 @@ www.gitlab.gitlab.agmahalopizza.www.payment.xn--80aakfzr9e8a.pp.ua
 www.gitlab.gitlab.git.git.gitlab.mail.innahvatlogin.x1200.ru
 www.gitlab.i.xn----7sbahmgm3djr5j.xn--p1ai
 www.gitlab.mail.innahvatlogin.x1200.ru
+www.helenacastrosiqueira.online.xn--vocmaisbonita-rhb.online
 www.mangalibnation.com.xryptoverse.store
 www.roddingisoleringsservice.xn--rddingisoleringsservice-lmc.dk
 www.secureonlinaccount.x24hr.com
@@ -327,6 +331,7 @@ xbiz1636a2.xbiz.jp
 xbiz1637a2.xbiz.jp
 xbiz1638a2.xbiz.jp
 xcoinx.com
+xcredit.ro
 xenbits.xen.org
 xetaichuyennhabinhduong.com
 xfinitymobile-accountpaymenst.com
@@ -336,7 +341,6 @@ xizo.jp
 xkzrbaexyrds.com
 xmodalert.com
 xmsflzmygw.com
-xn-----7kcbhcq1apepggniuibwjf.su
 xn--12cgq8beu0efp2c2e4d2dsfua.com
 xn--billigelger-48a.dk
 xn--billigerestrm-mnb.no
@@ -355,6 +359,7 @@ xn--monespaceclientle-6sb.fr
 xn--mreportservice-qqb.no
 xn--plneklipperservice-pub.dk
 xn--rddingisoleringsservice-lmc.dk
+xn--salonlmppalvelu-5kb22a.fi
 xn--service-reparaii-bzf.ro
 xn--serviceconstana-knf.ro
 xn--sikkerhetsmned-vib.no
