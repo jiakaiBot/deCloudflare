@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-30: [BOS (Boston) on 2023-01-30](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8sp81ny2ycx9)
 - 2023-01-31: [ICN (Seoul) on 2023-01-31](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/3zdmwnbvss0v)
 - 2023-01-26: [MEL (Melbourne) on 2023-01-26](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xsy8cjrvt7lb)
 - 2023-01-26: [IAD (Ashburn) on 2023-01-26](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kt8vb7xgsrd6)
