@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,455 |
+| com | 5,456 |
 | social | 3,468 |
-| net | 2,793 |
+| net | 2,794 |
 | org | 1,991 |
 | de | 1,881 |
 
@@ -1117,6 +1117,7 @@ Here's a list of public Fediverse services.
 | `akabe.co` | Yes |
 | `akademienl.social` | No |
 | `akagi.moe` | No |
+| `akagii.net` | Yes |
 | `akamanju.com` | No |
 | `akamdon.com` | No |
 | `akane.blue` | Yes |
@@ -8445,6 +8446,7 @@ Here's a list of public Fediverse services.
 | `dscw.fr` | Yes |
 | `dshk.pro` | No |
 | `dshr.org` | No |
+| `dsj-toot.com` | No |
 | `dskofgrn.xyz` | No |
 | `dsmouse.net` | No |
 | `dsnv.net` | No |
@@ -29960,6 +29962,7 @@ Here's a list of public Fediverse services.
 | `sojo-u-only-mstdn.xyz` | No |
 | `sokkah.net` | No |
 | `sokoll.com` | No |
+| `sokosoko.info` | No |
 | `sokrates.social` | No |
 | `sol.org.tr` | Yes |
 | `solagg.com` | No |
@@ -36990,8 +36993,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,699 |
-| Normal | 28,248 |
+| Cloudflare | 8,700 |
+| Normal | 28,250 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
