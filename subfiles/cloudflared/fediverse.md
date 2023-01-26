@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,468 |
-| social | 3,485 |
+| social | 3,486 |
 | net | 2,798 |
 | org | 1,998 |
 | de | 1,886 |
@@ -34408,6 +34408,7 @@ Here's a list of public Fediverse services.
 | `var.one` | Yes |
 | `varia.zone` | No |
 | `variety.com` | Yes |
+| `varis.social` | Yes |
 | `varis.tv` | Yes |
 | `varishangout.com` | Yes |
 | `varishangout.net` | Yes |
@@ -37059,7 +37060,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,711 |
+| Cloudflare | 8,712 |
 | Normal | 28,305 |
 
 
