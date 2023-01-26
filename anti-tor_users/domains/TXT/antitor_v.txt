@@ -1203,6 +1203,7 @@ zmail.valetparking.pl
 1svr-tcloud.gauges.memory.ultilization.virtareal.asia
 1svr-tcloud.graph.memory.ultilization.virtareal.asia
 2lauafirdezf4yk.blog.blog.staging.vmail.valetparking.pl
+4g.vzwdm.com
 5th.vaccine-support.aichi.jp
 91k.vercel.app
 9s1np3xffyn92-iadf18n4w-clientshold.vercel.app
@@ -1245,6 +1246,7 @@ apurav2007-gmailcom.vercel.app
 ask-staging.va.gov
 assessoriagoogleads.vkron.adv.br
 athenaeum.vt.domains
+audit-log-service.fda-ae4c9f21.core.build.vwn.cloud
 auth.vinci.net
 auth.voguishcapital.com
 authentik.valcube.de
@@ -1261,6 +1263,7 @@ bacanaplay.com.br.blog.wpsites.validbox.com
 baoviphero2641996-gmailcom.vercel.app
 bg.v-bank.com
 bhormilind-gmailcom.vercel.app
+bildarkiv.vesthav.net
 billing.db.vpisglobal.com
 billing.vaccoda.com
 billingarchive.v3.ca
@@ -1274,6 +1277,7 @@ bloxtest.vercel.app
 bluewaters.v3client.com
 bmgw.volocopter.org
 bo.indoor.vodafone.pt
+botdiscord.vicagent.com
 c.vialoops.com
 ccservices.vertexsmb.com
 cdn.vsassets.io
@@ -1417,6 +1421,7 @@ navidmadani.vercel.app
 navidrome.vrielinck.com
 navigate-retain-websites.vercel.app
 navijaher.vercel.app
+navin-moorthy.vercel.app
 navinghimire.vercel.app
 navinsoni262626.vercel.app
 nduhiu254-gmailcom.vercel.app
@@ -1429,6 +1434,7 @@ ngovanthien10598-gmailcom.vercel.app
 nitromicug.vercel.app
 nyc-modeling-agencies.veryfasthosting.co.uk
 o2-ac.vkplay.ru
+okwiki.cluster.service.vp6e.com
 onamaen.vps-omga.com
 ondemand-radio.aka.vrtcdn.be
 ondemand-radio.vrtcdn.be
@@ -1449,11 +1455,13 @@ promotion.vib.com.vn
 provisioning.voxivo.com
 prudhvichowdary14.vercel.app
 prustagedevpb.v3locitydev.com
+pubg21vs12fortnite.vercel.app
 qua-fragonard-assurances.votreassistance.fr
 rajiv.vercel.app
 ramonponsmiralles-gmailcom.vercel.app
 raymondliang2015-gmailcom.vercel.app
 realdiscordmatters.vercel.app
+reserve.mb.vtb.ru
 ringcaptcha1.vercel.app
 rr.cdnlab.vodafone.pt
 rspace.services.vision4it.de
@@ -1516,6 +1524,7 @@ v-ents.com
 v-hub.vodafone.ie
 v-suncoast.info
 v-zuma.ru
+v2ray-server-00.ga
 v2solutions.com
 v6rxv5coo5.com
 v9betpro.org
@@ -1534,6 +1543,7 @@ vallettaferryservices.com
 valuelogic.one
 vampirov-bal.ru
 vancouverdjservice.ca
+vancouverguardian.com
 vanguardwest.com
 vannersstadservice.se
 vannik.co.za
@@ -1544,6 +1554,7 @@ vascocity.com
 vasiota.com
 vaspo33.com
 vaspo36.com
+vastgoedkijker.be
 vastshore.com
 vatans.com
 vattingbalak.com
@@ -1567,6 +1578,7 @@ venfioletadas.com
 venticare.nl
 veranoseguro.com.ar
 vergaarbak.eu
+verianet.gr
 verifameli.fr
 verifica.pe
 verificacfdi-facturaelectronica-org-mx.online
@@ -1627,6 +1639,7 @@ violetbirthdayservice.hu
 vipbarcelonaescorts.com
 vipheliservices.com
 vipinstalacaodepisos.website
+vipticket.es
 viptoolses.com
 viralspaceshare.com
 virtualtechfrontier.com
@@ -1641,6 +1654,7 @@ vitaltrust-global.com
 vitpost.gq
 vittrack.gq
 vivienholl.com
+vlcdesktopclient.site
 vmjtruckservice.com
 vn88.la
 vn88club.net
@@ -1667,6 +1681,7 @@ vs22drop.com
 vs23drop.com
 vsesdal.com
 vsviti.com.ua
+vtest314-hby4ly8pigifvwwemogx.vercel.app
 vuelodequimera.com.ar
 vulgamag.ca
 vulgartaivert.website
@@ -1729,9 +1744,12 @@ www.vanhornansweringservice.com
 www.vasculardiseasemanagement.com
 www.vca-koeln.de
 www.vdoncasterescorts.co.uk
+www.vectorpeople.com
 www.veganplantbasedhealth.com
 www.veganzetta.org
+www.verify-fr-orsecure.com
 www.verify.vcot.lk
+www.verifydashersglobal.com
 www.verifyreceives.com
 www.verifythis.com
 www.verkehrskunde.sh
@@ -1750,6 +1768,7 @@ www.ville-sens.fr
 www.vinduesps.vinduespudserservice.dk
 www.vipeqlogin.com
 www.virtualverse.one
+www.virtuosal.com
 www.visiblecollege.education
 www.vision-service.be
 www.visitsingapore.com.cn
@@ -1758,6 +1777,7 @@ www.vistasbank.com
 www.vitalitywatch.com
 www.vitpost.gq
 www.vittrack.gq
+www.vmaxbatteries.com.au
 www.vmf.com
 www.vogons.org
 www.volcanocafe.org
