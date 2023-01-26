@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,470 |
 | social | 3,491 |
-| net | 2,798 |
+| net | 2,800 |
 | org | 1,998 |
 | de | 1,886 |
 
@@ -6946,6 +6946,7 @@ Here's a list of public Fediverse services.
 | `dalliance.social` | No |
 | `dalliard.ch` | No |
 | `dallincrump.com` | No |
+| `dalmatino.net` | Yes |
 | `dalme.net` | No |
 | `daltonhome.net` | Yes |
 | `damarada.net` | No |
@@ -20223,6 +20224,7 @@ Here's a list of public Fediverse services.
 | `memiks.fr` | No |
 | `memo-village.com` | No |
 | `memo-village.online` | Yes |
+| `memomo.me` | Yes |
 | `memories.am` | Yes |
 | `memoryandthought.me` | No |
 | `memtech.social` | Yes |
@@ -25740,6 +25742,7 @@ Here's a list of public Fediverse services.
 | `pommes.social` | Yes |
 | `pommesrotweiss.xyz` | Yes |
 | `pon.ee` | No |
+| `pon.icu` | Yes |
 | `pon.mt` | No |
 | `pona.la` | No |
 | `pona.social` | No |
@@ -30687,6 +30690,7 @@ Here's a list of public Fediverse services.
 | `stenneken.de` | No |
 | `stennmedia.nl` | No |
 | `stenoweb.net` | No |
+| `stenyan.dev` | No |
 | `step.im` | No |
 | `stephanbeer.de` | No |
 | `stephane-klein.info` | Yes |
@@ -31137,6 +31141,7 @@ Here's a list of public Fediverse services.
 | `surstroemming.de` | No |
 | `surtdelcercle.cat` | No |
 | `surumeapps.tk` | No |
+| `surutodon.net` | No |
 | `survival-machines.fr` | No |
 | `survivebox.net` | No |
 | `survol.fr` | No |
@@ -37075,8 +37080,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,721 |
-| Normal | 28,311 |
+| Cloudflare | 8,724 |
+| Normal | 28,313 |
 
 
-### 23.5% of public Fediverse services are using Cloudflare.
+### 23.6% of public Fediverse services are using Cloudflare.
