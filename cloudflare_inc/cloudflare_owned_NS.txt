@@ -700,6 +700,7 @@ ns0088.secondary.cloudflare.com
 ns0093.secondary.cloudflare.com
 ns0095.secondary.cloudflare.com
 ns0098.secondary.cloudflare.com
+ns01.ken.ns.cloudflare.com
 ns0103.secondary.cloudflare.com
 ns0105.secondary.cloudflare.com
 ns0107.secondary.cloudflare.com
