@@ -9252,6 +9252,7 @@ Here's a list of public Fediverse services.
 | `enoughisenough14.org` | No |
 | `enovale.com` | No |
 | `enquequedo.org` | No |
+| `enqy.one` | No |
 | `enrhu.be` | No |
 | `ensapn.ovh` | No |
 | `ensilib.re` | No |
@@ -37035,7 +37036,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,705 |
-| Normal | 28,286 |
+| Normal | 28,287 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
