@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-31: [DFW (Dallas) on 2023-01-31](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/q1xj4d9ss2gk)
 - 2023-01-31: [YUL (Montréal) on 2023-01-31](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/v4wdhjh27qfq)
 - 2023-01-30: [MEM (Memphis) on 2023-01-30](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/q7gvxtf5v6dm)
 - 2023-02-01: [YUL (Montréal) on 2023-02-01](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pw3wlwtknd1z)
