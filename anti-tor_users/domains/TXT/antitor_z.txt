@@ -349,6 +349,7 @@ paypal.com.zd-league.com
 perr.zspeed-cdn.com
 raad.staging.zutphen.nl
 realwavecore-public-saas.gateway.zup.me
+sa2-csgo.zebedee.studio
 sa3-csgo.zebedee.studio
 sa6-csgo.zebedee.studio
 secure-paypal-access-login-confirm-account.zmgconsulting.co.za
@@ -357,6 +358,7 @@ speechmatics-portal-design-update.znn.app
 spreadingthefeed.zyns.com
 star-motor.zapads.co.il
 support.zionforever.tech
+t.mailing.zeit.de
 t1.zoommailnews.co.uk
 test.services.zvjezdanparavac.de
 ticket.zeromiles.co.il
@@ -406,6 +408,7 @@ www.zwilnik.com
 www81.zippyshare.com
 www84.zippyshare.com
 y.l-security.zgpage.co.il
+z-der.xyz
 z-sport-support.hr
 z5h64q92x9.net
 za-ejendomsservice.dk
@@ -443,7 +446,6 @@ zoagremo.net
 zodiacappzu.mpm.zodiac-cloud.com
 zoelashspa.com
 zoohaven.no
-zoometod.su
 zoroastrianonline.com
 zosu.eu
 zouloafi.net
