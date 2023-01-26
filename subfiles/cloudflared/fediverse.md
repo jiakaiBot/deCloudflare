@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,468 |
-| social | 3,486 |
+| com | 5,470 |
+| social | 3,491 |
 | net | 2,798 |
 | org | 1,998 |
 | de | 1,886 |
@@ -945,6 +945,7 @@ Here's a list of public Fediverse services.
 | `advocrazy.com` | Yes |
 | `adwb.io` | No |
 | `adwebcat.com` | No |
+| `adxm.social` | No |
 | `adyxax.org` | Yes |
 | `aebok.com` | Yes |
 | `aedius.fr` | No |
@@ -3867,6 +3868,7 @@ Here's a list of public Fediverse services.
 | `bluex.im` | No |
 | `blumenwie.se` | No |
 | `blumpus.com` | No |
+| `blunck.social` | No |
 | `blunet.fr` | No |
 | `bluntbangs.com` | No |
 | `blurb.town` | No |
@@ -6196,6 +6198,7 @@ Here's a list of public Fediverse services.
 | `cosplay.earth` | No |
 | `cosplaydn.jp` | No |
 | `cosplayer.com` | Yes |
+| `cosplaygif.com` | Yes |
 | `costas.dev` | No |
 | `coste.video` | No |
 | `costodon.social` | No |
@@ -9360,6 +9363,7 @@ Here's a list of public Fediverse services.
 | `equinox.social` | No |
 | `equinux.social` | No |
 | `eqver.se` | No |
+| `era.social` | Yes |
 | `erabo.de` | No |
 | `eradicatinglove.xyz` | Yes |
 | `eragon.re` | No |
@@ -11602,6 +11606,7 @@ Here's a list of public Fediverse services.
 | `gameliberty.club` | No |
 | `gamelinks007.net` | No |
 | `gamemaking.social` | No |
+| `gamepad.club` | No |
 | `gameplay.wtf` | Yes |
 | `gamer007.com` | Yes |
 | `gamercast.net` | No |
@@ -15964,6 +15969,7 @@ Here's a list of public Fediverse services.
 | `ka0.co` | No |
 | `kaa.bz` | No |
 | `kaaa.ren` | No |
+| `kaak.online` | No |
 | `kaaosunlimited.fi` | No |
 | `kaartinen.photos` | Yes |
 | `kaartinen.social` | Yes |
@@ -15980,6 +15986,7 @@ Here's a list of public Fediverse services.
 | `kaczynski.scot` | No |
 | `kadokawadon.jp` | No |
 | `kadono.moe` | No |
+| `kae.lt` | Yes |
 | `kaeablog.pl` | No |
 | `kaede.ch` | Yes |
 | `kaede.im` | Yes |
@@ -20605,6 +20612,7 @@ Here's a list of public Fediverse services.
 | `milliways.social` | No |
 | `milll.ws` | No |
 | `mills.io` | Yes |
+| `millsfam.art` | No |
 | `millshome.ca` | No |
 | `millwoodonline.co.uk` | Yes |
 | `miloserver.com` | Yes |
@@ -24538,6 +24546,7 @@ Here's a list of public Fediverse services.
 | `palepanda.club` | No |
 | `palepanda.com` | No |
 | `palewi.re` | Yes |
+| `pali7x.com` | Yes |
 | `palindro.me.uk` | No |
 | `palinoia.xyz` | Yes |
 | `palipalimag.com` | No |
@@ -31689,6 +31698,7 @@ Here's a list of public Fediverse services.
 | `teamblackberry.jp` | No |
 | `teamblow.jp` | No |
 | `teambrej.com` | No |
+| `teamgallagher.social` | No |
 | `teamhuman.club` | No |
 | `teamkitten.tk` | No |
 | `teamlichen.de` | No |
@@ -31801,6 +31811,7 @@ Here's a list of public Fediverse services.
 | `tedomum.net` | No |
 | `tedunangst.com` | No |
 | `tee-server.de` | No |
+| `teebeeart.me` | Yes |
 | `teefax.de` | No |
 | `teela.jp` | No |
 | `teenwhistle.fr` | No |
@@ -33035,6 +33046,7 @@ Here's a list of public Fediverse services.
 | `tootin.tokyo` | No |
 | `tooting.ai` | No |
 | `tooting.app` | No |
+| `tooting.cc` | Yes |
 | `tooting.ch` | No |
 | `tooting.social` | No |
 | `tootist.net` | No |
@@ -35781,6 +35793,7 @@ Here's a list of public Fediverse services.
 | `worty.de` | No |
 | `wos.la` | Yes |
 | `wotter.space` | Yes |
+| `woundclinic.space` | Yes |
 | `woutfeys.be` | No |
 | `wovensoup.com` | No |
 | `wovs.tk` | Yes |
@@ -36508,6 +36521,7 @@ Here's a list of public Fediverse services.
 | `yorha.club` | No |
 | `yorha.social` | Yes |
 | `yorishiro.space` | No |
+| `york.social` | Yes |
 | `yorklocal.org` | Yes |
 | `yorkshire.social` | Yes |
 | `yoroshiku.net` | No |
@@ -37060,8 +37074,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,712 |
-| Normal | 28,305 |
+| Cloudflare | 8,720 |
+| Normal | 28,311 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
