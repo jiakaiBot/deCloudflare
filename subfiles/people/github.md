@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Providing custom headers when using signQuery results in incorrect SignedHeaders](https://github.com/mhart/aws4fetch/issues/46)
 - [Cannot Get Mattermost Notificaitons to work](https://github.com/caronc/apprise/issues/810)
 - [error with Cloudflare R2](https://github.com/delta-io/delta-rs/issues/1104)
 - [NULL response body incorrectly treated as Uint8Array in collectBody method](https://github.com/aws/aws-sdk-js-v3/issues/4369)
