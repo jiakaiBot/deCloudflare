@@ -36,7 +36,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | aaflalo.me | Yes |
 | aavesh.tech | Yes |
 | aaytorr.com | Yes |
-| abgnetwork.es | No |
 | absolight.net | No |
 | abstergo.it | No |
 | adblocker.eu.org | No |
@@ -336,7 +335,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | intertop.link | Yes |
 | invisv.com | No |
 | ipoac.nl | No |
-| ipsecloud.ru | No |
 | ipv6dns.com | No |
 | irre.li | No |
 | irumatech.com | Yes |
@@ -369,14 +367,12 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | karimdns.com | Yes |
 | karl.one | No |
 | kawa.tf | No |
-| kcolspacrm.ir | No |
 | kennethhuang.com | No |
 | kenzohost.de | No |
 | kernel-error.de | No |
 | kescher.at | No |
 | ketan.dev | Yes |
 | keweon.center | No |
-| keymiagar.ir | Yes |
 | khanhtran.me | Yes |
 | killtw.im | Yes |
 | kngnet.de | No |
@@ -454,7 +450,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | muxinghe.cn | Yes |
 | muxyuji.ru | No |
 | my.to | Yes |
-| myadguardhome.com | No |
 | myddns.me | No |
 | myddns.org | No |
 | myds.me | No |
@@ -616,7 +611,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | twtrs.com | Yes |
 | tylerwahl.com | No |
 | typaza.com | No |
-| ubd.ac.id | No |
 | ultima-thule.ru | Yes |
 | uncensoreddns.org | No |
 | unerror.network | Yes |
@@ -665,8 +659,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 284 |
-| Normal | 362 |
+| Cloudflare | 283 |
+| Normal | 357 |
 
 
-### 44% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
