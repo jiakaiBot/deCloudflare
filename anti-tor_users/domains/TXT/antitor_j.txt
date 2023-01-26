@@ -739,6 +739,7 @@ application.jeffjobin.com
 apps.jucees.es.gov.br
 area-cliente.jongomara.es
 auth.jefersoncardoso.dev
+auth.jista.org
 autodiscover.jornadacontradepressao.site
 autodiscover.jualmobil-toyota.com
 autodiscover.justforfoodies.site
@@ -767,6 +768,8 @@ cpcontacts.juegoroblox.com
 customer.jubaopen.win
 d.joinhoney.com
 d23.jobo.to
+delay-customer-creation-852033191.backend-ci.junilearning.com
+delay-customer-creation.backend-ci.junilearning.com
 deposits.secure.jeniusbank.com
 directory.jenett.org
 disco-doodle.jspade.net
@@ -824,9 +827,11 @@ japanesequizzes.com
 japanlinux.club
 japinfinityservice.com
 japritoto.me
+jaqamul.my.id
 jarche.com
 jargariapost.id
 jarviscodinghub.com
+jasafacebookads.juragan77.id
 jaspersgameday.com
 javeda-escort.com
 jbravo2uk.com
@@ -882,6 +887,7 @@ joelgomezsanchez.me
 joergrupp.de
 johanndinges.com
 johnnyblocks.com
+join-tel-nutfilter.ga
 jointrestore-gummies.org
 joinxo.app
 joker168.asia
@@ -907,6 +913,7 @@ jr-central.co.jp
 jra.jp
 jrecaptcha.jdoxx.com
 jrleachauthor.com
+jualhoist.com
 juego-de-la-vida.ga
 juergeninez.com
 juicycash.net
@@ -930,6 +937,7 @@ login.johncockrill.com
 lowcode-stg.justice.nsw.gov.au
 mail.japan-secret-service.com
 mail.jmberlin.de
+mail.nitrosports.juvo.dev
 maskiner.jfm360kunder.dk
 matrix.j-o-s-t.de
 meiers.jfm360kunder.dk
@@ -940,6 +948,7 @@ motersuppliermsgqa.jlrext.com
 myjio.shopping.jio.com
 n8n.service.jevalide.ca
 nagios.jostle.us
+nitrosports.juvo.dev
 onvpn.jafa.fi
 oos.jo.se
 paypal.co.uk.jblevyco.com
@@ -1005,6 +1014,7 @@ www.jaccs.co.jp
 www.jackiessewingservice.com
 www.jackson.org
 www.jacksrbetter.com
+www.jalapenojohns.com
 www.jamesburgess.com
 www.jamesmdorsey.net
 www.janameuser-coaching.de
@@ -1039,6 +1049,7 @@ www.jftc.go.jp
 www.jigowatt121.com
 www.jinjyagoshuin.com
 www.jll.co.uk
+www.jll.de
 www.jmfireandsecurity.com
 www.jmpaintingservice.com
 www.jmpaintingservices.jmpaintingservice.com
