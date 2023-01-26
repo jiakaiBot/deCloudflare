@@ -10002,6 +10002,7 @@ Here's a list of public Fediverse services.
 | `fed.contact` | No |
 | `fed.fan` | Yes |
 | `fed.im` | No |
+| `fed.sh` | Yes |
 | `fedaya.net` | No |
 | `fedblog.ch` | No |
 | `fedcast.ch` | No |
@@ -37074,7 +37075,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,720 |
+| Cloudflare | 8,721 |
 | Normal | 28,311 |
 
 
