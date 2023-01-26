@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,468 |
-| social | 3,481 |
+| social | 3,485 |
 | net | 2,798 |
 | org | 1,997 |
 | de | 1,886 |
@@ -5898,7 +5898,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7001,6 +7001,7 @@ Here's a list of public Fediverse services.
 | `danielwmorgan.town` | Yes |
 | `danirod.es` | No |
 | `danj.ca` | No |
+| `dank-me.me` | Yes |
 | `dank.software` | No |
 | `dankmemes.gg` | Yes |
 | `danksquad.org` | Yes |
@@ -12709,6 +12710,7 @@ Here's a list of public Fediverse services.
 | `gsugambit.com` | No |
 | `gt-mod.site` | No |
 | `gtaconnect.net` | No |
+| `gtfo.social` | No |
 | `gtfoh.lol` | No |
 | `gthmg.com` | No |
 | `gtio.io` | No |
@@ -13793,6 +13795,7 @@ Here's a list of public Fediverse services.
 | `honahuku.com` | Yes |
 | `honey.church` | No |
 | `honey.town` | No |
+| `honeybadger.social` | No |
 | `honeypot.im` | No |
 | `honeypot.net` | No |
 | `honeytree.social` | Yes |
@@ -13891,6 +13894,7 @@ Here's a list of public Fediverse services.
 | `hotfreshporn.com` | No |
 | `hoto.rocks` | Yes |
 | `hoto.us` | Yes |
+| `hotpot.social` | No |
 | `hotspiderdemonsinyourarea.com` | No |
 | `hottake.city` | No |
 | `hotwife.social` | No |
@@ -24134,6 +24138,7 @@ Here's a list of public Fediverse services.
 | `origamion.net` | No |
 | `originalpatchou.li` | No |
 | `orikumi.com` | No |
+| `orikumi.social` | No |
 | `oriol.ie` | No |
 | `orion-hub.fr` | No |
 | `orion-serv.fr` | Yes |
@@ -31700,6 +31705,7 @@ Here's a list of public Fediverse services.
 | `tearaikazuki.jp` | Yes |
 | `tearmoon.com` | No |
 | `teasmith.com.au` | Yes |
+| `teatime.gr.jp` | No |
 | `tebukuro.pw` | No |
 | `tebukuro.xyz` | Yes |
 | `tec.wtf` | No |
@@ -36526,6 +36532,7 @@ Here's a list of public Fediverse services.
 | `youngroyals.net` | No |
 | `your-server.de` | No |
 | `your-storageshare.de` | No |
+| `yourdata.click` | No |
 | `youre.space` | Yes |
 | `yourface.social` | No |
 | `yourhome.social` | No |
@@ -37050,8 +37057,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,709 |
-| Normal | 28,298 |
+| Cloudflare | 8,711 |
+| Normal | 28,303 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
