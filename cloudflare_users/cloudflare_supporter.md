@@ -7554,6 +7554,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynVitTm1@twitter](https://twitter.com/NguynVitTm1/status/1516778185018712067) | advertise |
 | [Nguynvn32504660@twitter](https://twitter.com/Nguynvn32504660/status/1400969920246996996) | advertise |
 | [nguynvn35045368@twitter](https://twitter.com/nguynvn35045368/status/1596173780040065025) | advertise |
+| [nguynvn61340357@twitter](https://twitter.com/nguynvn61340357/status/1618652491964641281) | advertise |
 | [Nguynvn62079714@twitter](https://twitter.com/Nguynvn62079714/status/1515947957765689344) | advertise |
 | [NguynVn66653963@twitter](https://twitter.com/NguynVn66653963/status/1377554948997611522) | advertise |
 | [NguynVn96285547@twitter](https://twitter.com/NguynVn96285547/status/1471311673088569348) | advertise |
@@ -9707,6 +9708,7 @@ Do not create new issue or we will close it as duplicate.
 | [sophiemabel69@twitter](https://twitter.com/sophiemabel69/status/1391867304632328197) | advertise |
 | [Sosuke5N@twitter](https://twitter.com/Sosuke5N/status/1393150723941183492) | advertise |
 | [sosunwale@twitter](https://twitter.com/sosunwale/status/1400970212980240394) | advertise |
+| [soulife883@twitter](https://twitter.com/soulife883/status/1618650120001839107) | advertise |
 | [soulmat12366294@twitter](https://twitter.com/soulmat12366294/status/1552314201783148544) | advertise |
 | [Soumalyaplayz@twitter](https://twitter.com/Soumalyaplayz/status/1495078297268473858) | advertise |
 | [Soumilsiwach1@twitter](https://twitter.com/Soumilsiwach1/status/1380401647990448130) | advertise |
