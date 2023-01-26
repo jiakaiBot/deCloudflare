@@ -378,6 +378,7 @@ media.yenimedya.com.tr
 music.yandex.ru
 mypartner-uat.yuanta.com.tw
 nitrobusinesssystems.yvecoleconsulting.com
+olyyespaywalletuat.yesbank.in
 one2021-production.prod.emea.yaradigitallabs.io
 openweb.jac.yahoosandbox.com
 ov.youbuy.com
@@ -392,6 +393,7 @@ rest.edu.you-connect.de
 rest.edupub.you-connect.de
 s.yimg.com
 scsapp01.hk.yusen-logistics.com
+servicedesk.yyproductions.net
 signln-accountapp1e.ymsdszx.com
 sportcenter.yadika.or.id
 static.0.171.107.91.clients.your-server.de
@@ -413,6 +415,7 @@ v-ctp59a3myk.wc.yahoodns.net
 vzpn.ydns.eu
 webclickbank2.youtokmarketing.com
 webmail.bureauveritas.yoomultimedia.com
+www.account.yakkawireless.com
 www.contactme.yusufhamitkaya.com
 www.contodepositomigliore.yesweweb.com
 www.dashboard.yamnet.website
@@ -441,6 +444,7 @@ www.yory.nl
 www.yosoynoticia.es
 www.your-server.de
 www.yourstartupservice.com
+www.youtrack.yasc.de
 www.youtube-nocookie.com
 www.yuchi.org.tw
 www.yummymummykitchen.com
@@ -457,7 +461,6 @@ yariika.com
 yasmeenabaya.com
 yasno.com.ua
 yatirimdijitaldenizkredi.com
-ycloud.ytechnotes.eu.org
 ydwjez8.com
 yekdo.com
 yetistrafikdanismanlik.com
@@ -465,7 +468,9 @@ yhdservice.com
 yieldminingnft.com
 yimpolis.com
 ylavjbljpt.com
+yodobashi.yangfz.com
 yoga-blox.com
+yogeesridle.com
 yolandachapman.ml
 yorkdefibtraining.co.uk
 yoseopawnshop.com
@@ -473,6 +478,7 @@ yottlyscript.com
 youcantry.store
 youhue.com
 youmorestore.com.br
+youprecedence.info
 your-server.de
 your-services.online
 youradmission.info
@@ -486,6 +492,7 @@ yourwebproject.net
 yoweszincoid.com
 ysajielectronica.com.py
 yuira.jp
+yukonnuggets.com
 yuldash.com
 yulpronos.ca
 yuming.co.jp
