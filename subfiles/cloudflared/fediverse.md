@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,467 |
+| com | 5,468 |
 | social | 3,480 |
 | net | 2,798 |
 | org | 1,996 |
@@ -1159,6 +1159,7 @@ Here's a list of public Fediverse services.
 | `akkoma.net` | No |
 | `akkoma.nl` | No |
 | `aklsh.me` | Yes |
+| `akme.ink` | Yes |
 | `akmentins.com` | Yes |
 | `akoot.site` | No |
 | `akop.online` | No |
@@ -15726,6 +15727,7 @@ Here's a list of public Fediverse services.
 | `joshhansen.tech` | No |
 | `joshknox.rocks` | Yes |
 | `joshlevy.ca` | No |
+| `joshlglenn.com` | No |
 | `joshnicholas.blog` | No |
 | `joshrandall.net` | Yes |
 | `joshtheblack.com` | Yes |
@@ -37041,8 +37043,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,706 |
-| Normal | 28,292 |
+| Cloudflare | 8,707 |
+| Normal | 28,293 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
