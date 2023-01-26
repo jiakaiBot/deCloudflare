@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [error with Cloudflare R2](https://github.com/delta-io/delta-rs/issues/1104)
 - [NULL response body incorrectly treated as Uint8Array in collectBody method](https://github.com/aws/aws-sdk-js-v3/issues/4369)
 - [403 Forbidden when using CoinMetricsDataExporter](https://github.com/coinmetrics/api-client-python/issues/11)
 - [Catch and log failed SvelteKit fetch() API calls properly](https://github.com/tradingstrategy-ai/frontend/issues/324)
