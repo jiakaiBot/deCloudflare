@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,468 |
 | social | 3,485 |
 | net | 2,798 |
-| org | 1,997 |
+| org | 1,998 |
 | de | 1,886 |
 
 
@@ -4824,6 +4824,7 @@ Here's a list of public Fediverse services.
 | `cartaxo.eu` | No |
 | `cartbefore.horse` | No |
 | `carterobserver.me` | No |
+| `carters.cloud` | No |
 | `cartodon.com` | No |
 | `cartoonist.social` | No |
 | `caruanafamily.net` | Yes |
@@ -33642,6 +33643,7 @@ Here's a list of public Fediverse services.
 | `tvor.support` | No |
 | `tvt.moe` | Yes |
 | `tvwatch.party` | No |
+| `tw.in.eu.org` | No |
 | `tw.social` | No |
 | `tw.town` | No |
 | `tw1tter.com` | No |
@@ -37058,7 +37060,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,711 |
-| Normal | 28,303 |
+| Normal | 28,305 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
