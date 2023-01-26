@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,468 |
-| social | 3,480 |
+| social | 3,481 |
 | net | 2,798 |
 | org | 1,996 |
 | de | 1,884 |
@@ -5082,6 +5082,7 @@ Here's a list of public Fediverse services.
 | `chadole.com` | Yes |
 | `chadwaltercummings.me` | Yes |
 | `chagratt.site` | No |
+| `chahut.social` | No |
 | `chai.wtf` | No |
 | `chainchat.eu` | No |
 | `chainfire.eu` | No |
@@ -14418,6 +14419,7 @@ Here's a list of public Fediverse services.
 | `imayuki.com` | No |
 | `imbadwithnames.xyz` | No |
 | `imbushuo.net` | No |
+| `imc.sh` | Yes |
 | `imchip.be` | No |
 | `imcpwn.com` | Yes |
 | `imd.social` | No |
@@ -37043,8 +37045,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,707 |
-| Normal | 28,293 |
+| Cloudflare | 8,708 |
+| Normal | 28,294 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
