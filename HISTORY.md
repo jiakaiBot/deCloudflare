@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-26: [MEL (Melbourne) on 2023-01-26](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xsy8cjrvt7lb)
 - 2023-01-26: [IAD (Ashburn) on 2023-01-26](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kt8vb7xgsrd6)
 - 2023-01-25: [Issues with Bring Your Own IP (BYOIP) / Bring Your Own IP On-Demand feature](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/3b7kv7gpkljw)
 - 2023-01-25: [Content Upload Scanner Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/35w5890qtwkl)
