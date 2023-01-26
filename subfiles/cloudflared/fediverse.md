@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 | com | 5,468 |
 | social | 3,481 |
 | net | 2,798 |
-| org | 1,996 |
-| de | 1,884 |
+| org | 1,997 |
+| de | 1,886 |
 
 
 - Mastodon, Pleroma, etc
@@ -4077,7 +4077,7 @@ Here's a list of public Fediverse services.
 | `bortzmeyer.fr` | No |
 | `boscolager.de` | No |
 | `bosetsu.org` | No |
-| `boshi.press` | Yes |
+| `boshi.press` | No |
 | `bosio.dev` | No |
 | `boskovice.social` | No |
 | `boson.blue` | No |
@@ -5784,6 +5784,7 @@ Here's a list of public Fediverse services.
 | `codestaff.io` | No |
 | `codethat.sucks` | No |
 | `codethings.it` | No |
+| `codethink.co.uk` | No |
 | `codevoid.de` | No |
 | `codi.moe` | No |
 | `codigoaberto.pt` | Yes |
@@ -6845,6 +6846,7 @@ Here's a list of public Fediverse services.
 | `d.foundation` | Yes |
 | `d.gs` | No |
 | `d.sb` | No |
+| `d.sh` | Yes |
 | `d09.app` | Yes |
 | `d0gb0x.com` | No |
 | `d0p1.eu` | No |
@@ -21036,7 +21038,7 @@ Here's a list of public Fediverse services.
 | `mojo.fyi` | Yes |
 | `mojobuslife.com` | No |
 | `mojotube.net` | No |
-| `mojowriter.com` | No |
+| `mojowriter.com` | Yes |
 | `mojozilla.net` | No |
 | `mojt.net` | Yes |
 | `mokana.media` | No |
@@ -22692,6 +22694,7 @@ Here's a list of public Fediverse services.
 | `nickcharlton.net` | No |
 | `nickching.com` | Yes |
 | `nickcho.social` | No |
+| `nickd.org` | No |
 | `nickey.ru` | Yes |
 | `nickgreenbank.com` | No |
 | `nickjordan.co.uk` | No |
@@ -23721,6 +23724,7 @@ Here's a list of public Fediverse services.
 | `oit-unofficial.tokyo` | No |
 | `ojamajo.moe` | No |
 | `ojitabi.club` | Yes |
+| `ojour.de` | No |
 | `ok310.gq` | No |
 | `okadajp.org` | No |
 | `okaminet.xyz` | No |
@@ -31157,6 +31161,7 @@ Here's a list of public Fediverse services.
 | `sven-joerns.de` | No |
 | `svenbrier.de` | No |
 | `svenbrier.eu` | No |
+| `svenkubiak.de` | No |
 | `svenmasuhr.de` | No |
 | `svenwal.de` | No |
 | `svij.org` | No |
@@ -37045,8 +37050,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,708 |
-| Normal | 28,294 |
+| Cloudflare | 8,709 |
+| Normal | 28,298 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
