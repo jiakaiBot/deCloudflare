@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,466 |
-| social | 3,478 |
+| social | 3,480 |
 | net | 2,798 |
 | org | 1,996 |
 | de | 1,884 |
@@ -3691,6 +3691,7 @@ Here's a list of public Fediverse services.
 | `blaha.me` | Yes |
 | `blahaj.eu` | No |
 | `blahaj.fun` | No |
+| `blahaj.photo` | Yes |
 | `blahaj.social` | Yes |
 | `blahaj.solutions` | No |
 | `blahaj.zone` | No |
@@ -17934,6 +17935,7 @@ Here's a list of public Fediverse services.
 | `lilledame.nl` | No |
 | `lillimi.com` | No |
 | `lillin.net` | Yes |
+| `liloandstit.ch` | No |
 | `lilog.net` | Yes |
 | `lilomoino.fr` | No |
 | `lily.flowers` | No |
@@ -26297,6 +26299,7 @@ Here's a list of public Fediverse services.
 | `pwet.me` | Yes |
 | `pwi.social` | No |
 | `pwk.land` | No |
+| `pwm.social` | No |
 | `pwn.institute` | No |
 | `pwn3d.eu` | No |
 | `pwned.lol` | No |
@@ -29482,6 +29485,7 @@ Here's a list of public Fediverse services.
 | `skbo.net` | No |
 | `skeleton.army` | Yes |
 | `skeleton.cool` | No |
+| `skeleton.town` | No |
 | `skeletons.gay` | No |
 | `skepteis.social` | No |
 | `skeptics.social` | No |
@@ -33533,6 +33537,7 @@ Here's a list of public Fediverse services.
 | `tulip.blue` | No |
 | `tulln.social` | No |
 | `tulsa.ok.us` | No |
+| `tulsa.social` | No |
 | `tuluk.nl` | No |
 | `tum.social` | Yes |
 | `tumelum.de` | No |
@@ -37035,8 +37040,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,705 |
-| Normal | 28,287 |
+| Cloudflare | 8,706 |
+| Normal | 28,291 |
 
 
 ### 23.5% of public Fediverse services are using Cloudflare.
