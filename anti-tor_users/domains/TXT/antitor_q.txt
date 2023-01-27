@@ -185,6 +185,7 @@ auth.quanthome.ch
 authentification.quebec.ca
 autodiscover.olga.q-alia.com
 aws.qureme.co.in
+b.q9tech.com
 bancogradualws.qcertifica.com.br
 bancoindigows.qcertifica.com.br
 bancolimine-ws.qcertifica.com.br
@@ -251,6 +252,7 @@ qsafe.ro
 qservice.md
 qtbb6.com
 qtesttristate.qtestnet.com
+qtractor.org
 quadrupleclick.com
 qualimoony.ma
 qualitykefir.com
