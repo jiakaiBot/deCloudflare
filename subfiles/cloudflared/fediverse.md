@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,487 |
-| social | 3,501 |
-| net | 2,802 |
-| org | 2,005 |
+| social | 3,503 |
+| net | 2,803 |
+| org | 2,008 |
 | de | 1,887 |
 
 
@@ -209,6 +209,7 @@ Here's a list of public Fediverse services.
 | `1984.cz` | No |
 | `1994.io` | Yes |
 | `19hundert84.de` | No |
+| `19marbles.org` | No |
 | `1a.pm` | Yes |
 | `1a1a1a.xyz` | No |
 | `1a23.com` | Yes |
@@ -4329,6 +4330,7 @@ Here's a list of public Fediverse services.
 | `brookshelley.com` | Yes |
 | `broski.me` | Yes |
 | `brot.social` | No |
+| `broth.fun` | Yes |
 | `brotherscommon.place` | No |
 | `broti.tk` | Yes |
 | `brotka.st` | No |
@@ -5691,6 +5693,7 @@ Here's a list of public Fediverse services.
 | `clubhouse2.net` | Yes |
 | `clubmer.com` | No |
 | `clubmontclair.com` | No |
+| `clubnf.us` | No |
 | `clumsy.computer` | No |
 | `cluster-b.online` | No |
 | `clusterfog.com` | No |
@@ -6064,6 +6067,7 @@ Here's a list of public Fediverse services.
 | `conradkramer.com` | No |
 | `conroy.org` | Yes |
 | `conscious-connection.de` | No |
+| `consensys.social` | Yes |
 | `consequenceofsound.net` | No |
 | `conservative.capital` | No |
 | `consolving.de` | No |
@@ -9467,6 +9471,7 @@ Here's a list of public Fediverse services.
 | `escriu.cat` | No |
 | `esdin.me` | No |
 | `esel.social` | No |
+| `esgeroth.org` | No |
 | `eshopview.com` | No |
 | `esiliati.org` | No |
 | `esjewett.com` | No |
@@ -14873,6 +14878,7 @@ Here's a list of public Fediverse services.
 | `iphodase.fr` | No |
 | `iphoneincanada.ca` | No |
 | `ipmorris.com` | No |
+| `ipng.ch` | No |
 | `ipno.us` | No |
 | `ipoac.nl` | No |
 | `ipol.social` | No |
@@ -14942,6 +14948,7 @@ Here's a list of public Fediverse services.
 | `isabelle-santos.space` | No |
 | `isabelroses.live` | Yes |
 | `isacutie.net` | No |
+| `isadati.work` | Yes |
 | `isaffine.name` | No |
 | `isafurry.baby` | No |
 | `isagood.dog` | No |
@@ -17417,6 +17424,7 @@ Here's a list of public Fediverse services.
 | `lasersare.fun` | No |
 | `lasershark.army` | No |
 | `lasersword.club` | No |
+| `laski.app` | Yes |
 | `lastauth.com` | No |
 | `lastbreach.tv` | No |
 | `lastfree.space` | No |
@@ -21678,6 +21686,7 @@ Here's a list of public Fediverse services.
 | `mtndevelopment.com` | No |
 | `mtnlss.co` | Yes |
 | `mtrichardson.com` | No |
+| `mtth.org` | Yes |
 | `mttv.it` | No |
 | `mtu7.com` | No |
 | `mtwerk.com` | No |
@@ -22234,6 +22243,7 @@ Here's a list of public Fediverse services.
 | `natsushyo.me` | No |
 | `natter.wtf` | No |
 | `natterati.com` | No |
+| `nattois.life` | No |
 | `nattyvideo.com` | No |
 | `natudon-fishing.net` | No |
 | `natudon-outdoor.net` | No |
@@ -25283,6 +25293,7 @@ Here's a list of public Fediverse services.
 | `pikachu.rocks` | No |
 | `pikafan.de` | No |
 | `pikami.org` | Yes |
+| `pikapod.net` | No |
 | `piki.dev` | No |
 | `piki.moe` | No |
 | `pikokr.dev` | Yes |
@@ -27812,6 +27823,7 @@ Here's a list of public Fediverse services.
 | `ropo.jp` | No |
 | `rorea.moe` | Yes |
 | `rororo.xyz` | No |
+| `rorshok.social` | No |
 | `roryprice.me` | No |
 | `roryprice.net` | No |
 | `rosaceae.net` | No |
@@ -28291,6 +28303,7 @@ Here's a list of public Fediverse services.
 | `samueldr.com` | Yes |
 | `samuelezappala.it` | No |
 | `samuelgharvey.com` | Yes |
+| `samulczyk.pl` | No |
 | `samurai-gamers.com` | No |
 | `san-antonio.social` | Yes |
 | `san-tama.tokyo` | No |
@@ -30727,6 +30740,7 @@ Here's a list of public Fediverse services.
 | `stegeman.me` | Yes |
 | `stegodon.eu` | No |
 | `stegodon.me` | No |
+| `stegodon.nl` | No |
 | `stegodon.org` | No |
 | `stegodon.social` | No |
 | `stehlel.it` | No |
@@ -35323,6 +35337,7 @@ Here's a list of public Fediverse services.
 | `weenook.space` | No |
 | `weep.jp` | Yes |
 | `weep.me` | Yes |
+| `weerindedraai.nl` | Yes |
 | `weesefamily.ca` | No |
 | `weewee.social` | Yes |
 | `weeweird1s.space` | Yes |
@@ -37157,8 +37172,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,749 |
-| Normal | 28,365 |
+| Cloudflare | 8,755 |
+| Normal | 28,374 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
