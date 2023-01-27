@@ -2611,6 +2611,7 @@ zmail.directiondiscussioncake.online
 a0ccd66b18074711ba2dce50157bf861.svc.dynamics.com
 a2fb9781b6e24716995472ddae4ed540.svc.dynamics.com
 aarok.deviantart.com
+academia.dcym.tech
 academy.databank.lt
 academy.discord-accounts.ru
 account.denninvestmentcorp.com
@@ -2660,6 +2661,7 @@ api.dynoboyz.com
 api.recaptcha.datatec-develop.com
 api.request-for-service.dev-inforit.cloud
 api.sales-test-1.bc.asmodeena-onmicrosoft-com.tds.eastus1.test.datahaven365.com
+api.uat.eu.drvnsolutions.net
 api.user.stocksquad.dharmatech.in
 app.dnbhoovers.com
 app.online.dowjones.com
@@ -2699,6 +2701,12 @@ autodiscover.dynoenergytrans.com
 autodiscover.dynogy.com
 autodiscover.dynomotion.biz
 autodiscover.dynomotion.com
+avito.avito.git.c9rqld8pk7jahttnoas0.console.discord-acc.ru
+avito.avito.git.git.c9rqld8pk7jahttnoas0.console.discord-acc.ru
+avito.avito.sber.git.c9rqld8pk7jahttnoas0.console.discord-acc.ru
+avito.blablacar.git.c9rqld8pk7jahttnoas0.console.discord-acc.ru
+avito.sber.avito.git.c9rqld8pk7jahttnoas0.console.discord-acc.ru
+avito.sber.sber.git.c9rqld8pk7jahttnoas0.console.discord-acc.ru
 axm.demowebsiteclient.com
 backend.darpatente.com
 backend.discord-acc.ru
@@ -2726,6 +2734,7 @@ billing.discord-acc.ru
 billing.discord-store.ru
 billing.duaarah.id
 binance.dapermatamurah.com
+blablacar.avito.git.c9rqld8pk7jahttnoas0.console.discord-acc.ru
 blablatest.dyuyo.com
 blog.bbs.discord-accounts.ru
 blog.cdn.discord-accounts.ru
@@ -2930,6 +2939,7 @@ davincicybersecurity.co.za
 daviromservice.ro
 dawnchemical.vn
 day-womens.com.ua
+dayannepereira.com.br
 daydesconto.com.br
 dayuna.top
 db80698f56854981a0dc3395fa9216cc.svc.dynamics.com
@@ -2951,10 +2961,13 @@ decking-services.eu
 decorwala.com
 deed.co.th
 deefauph.com
+deeperthanwater.org
 deeppestcontrol.in
 deepsh.t.divinereel.com
 deepwavesystems.com
 deewansturacin.com
+defec.nl
+definefifty.com
 definingfifty.com
 deitel.com
 deixaqueeuteconto.com.br
@@ -2978,6 +2991,7 @@ deliverycarioca.app.br
 deliverycomdigital.com.br
 deliverydhl.net
 deliveryfastfood.com.br
+deliveryhobby.com
 deliveryrunspace.com
 deliverytrafficnews.com
 delmarviato.com
@@ -3121,7 +3135,9 @@ discord-s.cf
 discord.dannyk.us
 discord.dlvgaming.com
 discordbans.com
+discordbots.dev
 discordbugs.tk
+discordgameslab.com
 discordiamental.cl
 discordmembership.com
 discordpredator.co.uk
@@ -3133,7 +3149,9 @@ discordv2.com
 discorsi.nl
 discortec.disruptivecore.us
 discosport.drivelandrover.be
+discountdomains.co.nz
 discourse.amir.dev-ts-platform.net
+discourse.sgh.dev-ts-platform.net
 discoursedoctors.com
 discoverserbia.rs
 discovery-prod01.diligentcloudservices.com
@@ -3162,6 +3180,7 @@ djonline.com
 djsustainabilityenergy.com
 djxfar6.com
 dkb--konto.ddns.mobi
+dkb-entry-wp983948.com
 dkd.eu
 dl.dropboxusercontent.com
 dlktech.co.in
@@ -3211,7 +3230,6 @@ dorotom.demowebsiteclient.com
 dosmatas.com.mx
 dossousgroup.com
 dotaideas.com
-dotsanddistcora.cf
 dovekarachispa.com
 download.deacent.com
 downsouthsafety.com.au
@@ -3508,6 +3526,7 @@ kbank.desarrollos-iq.com
 kdgraph-api.kdgraph.prod.da-service.io
 kidwatch-dre.things.dbankcloud.cn
 klimtest.dmc-one.com
+kone.dy.fi
 konto-dkb.ddns.mobi
 kpadk8hzrzsz5zjkyk1gea.on.drv.tw
 kuden-dkb.ddns.mobi
@@ -3541,6 +3560,7 @@ mi-in.dnlsrv.com
 micc.digsafe.com
 mienbac.dhlpost.com.vn
 miennam.dhlpost.com.vn
+mierakigai.com.dealerresmihonda.online
 mijninkomen.doesburg.nl
 milk-onetwobags-t0x0d31zgd90.deno.dev
 minhtan.davico.vn
@@ -3560,6 +3580,7 @@ news.cdn.discord-accounts.ru
 news.digitalservice.club
 newyear.dialnumber.in
 nfl.demdex.net
+october.discord-accounts.ru
 office.discord-store.ru
 old.api.discord-accounts.ru
 old.cdn.discord-accounts.ru
@@ -3569,6 +3590,7 @@ omni-uat.dbank.co.id
 onecroregoawww.2019.discord-accounts.ru
 opensea.io.verification.dzinerstudio.com
 ordinary.dasgno.com
+ottbizapi.dlive.kr
 pasarpuncak.dmctindonesia.com
 pastelmistress.deviantart.com
 pes.docapost-bpo.com
@@ -3576,6 +3598,7 @@ piatelli.dablox.com
 pictura.bbf.dipf.de
 planejados.davinciplanejados.com.br
 play.dkempinski.com
+plex.anustart.dedyn.io
 plugin.discord-acc.ru
 pma.discord-acc.ru
 pma.discord-store.ru
@@ -3598,6 +3621,14 @@ sa.double-support.com
 sagamba-muhira.demowebsiteclient.com
 sandbox-api.datacredito.com.co
 saude.dnkseguros.com.br
+sber.avito.git.c9rqld8pk7jahttnoas0.console.discord-acc.ru
+sber.avito.git.git.c9rqld8pk7jahttnoas0.console.discord-acc.ru
+sber.avito.sber.git.c9rqld8pk7jahttnoas0.console.discord-acc.ru
+sber.blablacar.git.c9rqld8pk7jahttnoas0.console.discord-acc.ru
+sber.sber.avito.git.c9rqld8pk7jahttnoas0.console.discord-acc.ru
+sber.sber.sber.git.c9rqld8pk7jahttnoas0.console.discord-acc.ru
+sber.www.sber.git.c9rqld8pk7jahttnoas0.console.discord-acc.ru
+sberbank.avito.git.c9rqld8pk7jahttnoas0.console.discord-acc.ru
 scholarship.law.duke.edu
 secure.deannsetiia.net
 securemail.dacotahbank.com
@@ -3712,6 +3743,7 @@ webmail.dynogy.com
 welshpixie.deviantart.com
 whm.dioscorus.org
 wida-insight-client.drcedirect.com
+wiki.derivation.co.uk
 wiki.sitemap.discord-store.ru
 winwin.demowebsiteclient.com
 wocaonimads-werup.ddnsking.com
@@ -3820,6 +3852,7 @@ www.digikey.be
 www.digikey.ca
 www.digikey.de
 www.digikey.dk
+www.digikey.fr
 www.digikey.jp
 www.digikey.tw
 www.digital-ark.com
@@ -3835,6 +3868,7 @@ www.directsellgroup.com
 www.dirty30services.com
 www.disabled-world.com
 www.disco-oma.de
+www.discodao.com
 www.discoforever.nl
 www.discofrank.com
 www.discografias.me
@@ -3849,7 +3883,9 @@ www.disippel2023.no
 www.disputedpod.com
 www.disrespectfulmoney.com
 www.distribuidorgobierno.com
+www.distributeresultsfast.com
 www.divultec.pt
+www.djno.ca
 www.dkmok.com
 www.dm-services-habitat-couverture-lpa.fr
 www.dm-services-manutentions.fr
