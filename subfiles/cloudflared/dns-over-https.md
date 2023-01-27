@@ -49,7 +49,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | afastserver.com | Yes |
 | afixer.app | Yes |
 | aflr.io | No |
-| agafon.space | Yes |
 | ahadns.net | Yes |
 | aihe.app | Yes |
 | airmaxcloud.ml | No |
@@ -110,14 +109,12 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | bluestarnc.com | No |
 | bobstrecansky.com | No |
 | boje8.me | Yes |
-| borjalopez.eu | No |
 | bosco.ovh | No |
 | brahma.world | Yes |
 | brian-hong.tech | No |
 | brightesttv.com | Yes |
 | brosena.xyz | Yes |
 | bruckmoser.it | No |
-| buck.ovh | Yes |
 | c-dns.com | No |
 | cachitopetshop.com | Yes |
 | carson-family.com | Yes |
@@ -346,7 +343,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jabber-server.de | Yes |
 | jackyes.ovh | No |
 | jamesxue.xyz | No |
-| jammerxd.dev | Yes |
 | jeroenhd.nl | No |
 | jfchenier.ca | Yes |
 | jimirobaer.be | Yes |
@@ -396,8 +392,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lekdijk.online | No |
 | lentel.ru | No |
 | libredns.gr | No |
-| lightmaster.pw | Yes |
-| lightmaster.space | Yes |
 | limotelu.org | Yes |
 | lindung.pp.ua | Yes |
 | lingmont.net | No |
@@ -538,7 +532,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rouga.ch | Yes |
 | rsaikat.com | No |
 | rubyfish.cn | No |
-| ryan-palmer.com | No |
 | ryanleek.com | Yes |
 | safesurfer.io | Yes |
 | sagutxustech.com | Yes |
@@ -659,8 +652,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 283 |
-| Normal | 357 |
+| Cloudflare | 278 |
+| Normal | 355 |
 
 
-### 44.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 43.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
