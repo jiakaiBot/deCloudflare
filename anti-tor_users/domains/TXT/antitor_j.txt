@@ -735,6 +735,7 @@ api.jaxvpn.com
 api.jyro.io
 api.possible-drake.jetrist.com
 app.jet.vet
+app.jocr.com
 application.jeffjobin.com
 apps.jucees.es.gov.br
 area-cliente.jongomara.es
@@ -748,6 +749,7 @@ billings.jwdevsite.co.uk
 bj.jmoney.xyz
 blockchain101.work.nextplan.jetboy.jp
 booking.jonacor-charter.ru
+click.jencapcommunications.com
 clientes.jasinversiones.com
 company.jr-central.co.jp
 content-origin-feeds-staging.jwplatform.com
@@ -846,6 +848,7 @@ jeffmackinnon.com
 jeghomir.com
 jennyappleseed.co.uk
 jenonaw.com
+jeparajati.com
 jeparamebel.co.id
 jerancoroofing.com
 jeremypboggess.com
@@ -887,7 +890,6 @@ joelgomezsanchez.me
 joergrupp.de
 johanndinges.com
 johnnyblocks.com
-join-tel-nutfilter.ga
 jointrestore-gummies.org
 joinxo.app
 joker168.asia
@@ -959,6 +961,7 @@ printpicker.johntaro.art
 railway.jr-central.co.jp
 recommend.jr-central.co.jp
 repositorio.jfpe.jus.br
+river2.jonesandpalmer.net
 sakuban.jsm.co.jp
 sandkasse-jhp.jfm360kunder.dk
 sante.journaldesfemmes.fr
@@ -1032,6 +1035,7 @@ www.jdilogistics.com
 www.jdsports.pt
 www.jeebeesupport.nl
 www.jefesrvservice.com
+www.jeff-de-bruges.com
 www.jeffdeherdt.com
 www.jeninasdanceworkshop.com
 www.jennilwalsh.com
@@ -1058,6 +1062,7 @@ www.jobsrepublictoo.nl
 www.jocelynrish.com
 www.jodiharveyart.com
 www.jodysbakery.net
+www.joe-bike.com
 www.joeescateringservice.com
 www.jogpeople.com
 www.johannesburgsolarsystem.co.za
@@ -1121,6 +1126,7 @@ www.support.jayapriyanidhi.com
 www.support.jfxtechnologies.com
 www.supportpack.jgelectronics.com
 www.swiftdoorcourierxpress.jptcourierdeliveryservice.com
+www.szfast.jammyness.com
 www.ticket.jonakitravel.com
 www.yearmoney.jg09uj.shop
 www.yearmoney.jmb0va.store
