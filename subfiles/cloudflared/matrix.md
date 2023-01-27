@@ -59,7 +59,6 @@ Here's a list of public Matrix services.
 | matrix.frei.chat | No |
 | matrix.freiburg.social | No |
 | freitrix.de | No |
-| matrix.fsfe.org | No |
 | matrix.fulda.social | No |
 | g24.at | No |
 | matrix.gemeinsam.jetzt | No |
@@ -131,7 +130,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 17 |
-| Normal | 86 |
+| Normal | 85 |
 
 
-### 16.5% of public Matrix services are using Cloudflare.
+### 16.7% of public Matrix services are using Cloudflare.
