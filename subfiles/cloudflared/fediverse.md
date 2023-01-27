@@ -5901,7 +5901,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -12718,7 +12718,7 @@ Here's a list of public Fediverse services.
 | `gsugambit.com` | No |
 | `gt-mod.site` | No |
 | `gtaconnect.net` | No |
-| `gtfo.social` | No |
+| `gtfo.social` | Yes |
 | `gtfoh.lol` | No |
 | `gthmg.com` | No |
 | `gtio.io` | No |
@@ -28058,6 +28058,7 @@ Here's a list of public Fediverse services.
 | `s0cial.sh` | No |
 | `s10y.eu` | No |
 | `s1gm4.eu` | No |
+| `s1i.dev` | No |
 | `s1ttidoe.com.tw` | No |
 | `s25.pl` | No |
 | `s2s.video` | No |
@@ -37081,7 +37082,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,724 |
-| Normal | 28,313 |
+| Normal | 28,314 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
