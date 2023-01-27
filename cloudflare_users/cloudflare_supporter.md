@@ -2253,6 +2253,7 @@ Do not create new issue or we will close it as duplicate.
 | [danzia224@twitter](https://twitter.com/danzia224/status/1470779146427064331) | advertise |
 | [DaoTrungLap1@twitter](https://twitter.com/DaoTrungLap1/status/1386002962531586050) | advertise |
 | [DapePangkey@twitter](https://twitter.com/DapePangkey/status/1384234124240515075) | advertise |
+| [DarawsheS@twitter](https://twitter.com/DarawsheS/status/1619025221339713536) | advertise |
 | [dara_gang@twitter](https://twitter.com/dara_gang/status/1383060905412349959) | advertise |
 | [DarDar75569428@twitter](https://twitter.com/DarDar75569428/status/1397238795242704901) | advertise |
 | [DaRealSparticus@twitter](https://twitter.com/DaRealSparticus/status/1539092475951755264) | advertise |
@@ -3318,6 +3319,7 @@ Do not create new issue or we will close it as duplicate.
 | [GogKhant@twitter](https://twitter.com/GogKhant/status/1393684373484961794) | advertise |
 | [GolamkibriaRony@twitter](https://twitter.com/GolamkibriaRony/status/1404201070306361345) | advertise |
 | [golangcoach@twitter](https://twitter.com/golangcoach/status/1598157904825417729) | advertise |
+| [goldenboi199@twitter](https://twitter.com/goldenboi199/status/1619012118401134593) | advertise |
 | [GoldenK45835342@twitter](https://twitter.com/GoldenK45835342/status/1574048018084425728) | advertise |
 | [GoldenT73523612@twitter](https://twitter.com/GoldenT73523612/status/1387635147965485061) | advertise |
 | [golf22110@twitter](https://twitter.com/golf22110/status/1606992184791937024) | advertise |
@@ -5149,6 +5151,7 @@ Do not create new issue or we will close it as duplicate.
 | [khnhiyuu@twitter](https://twitter.com/khnhiyuu/status/1391964324885762048) | advertise |
 | [KhnhTQuc1@twitter](https://twitter.com/KhnhTQuc1/status/1596393354501447680) | advertise |
 | [Khoa56267707@twitter](https://twitter.com/Khoa56267707/status/1483829033565827072) | advertise |
+| [Khoa60508776@twitter](https://twitter.com/Khoa60508776/status/1619022701238304768) | advertise |
 | [Khoa69462509@twitter](https://twitter.com/Khoa69462509/status/1555495230685646848) | advertise |
 | [khoacream@twitter](https://twitter.com/khoacream/status/1477881004341985282) | advertise |
 | [khoaito9292@twitter](https://twitter.com/khoaito9292/status/1478745024930086913) | advertise |
@@ -9796,6 +9799,7 @@ Do not create new issue or we will close it as duplicate.
 | [StHost@twitter](https://twitter.com/StHost/status/1421792790602784773) | advertise |
 | [stipicak@twitter](https://twitter.com/stipicak/status/1389233494824521728) | advertise |
 | [StLHandyMan@twitter](https://twitter.com/StLHandyMan/status/1381472769431470081) | advertise |
+| [stlsystembuster@twitter](https://twitter.com/stlsystembuster/status/1619014585083891712) | advertise |
 | [sto18918690@twitter](https://twitter.com/sto18918690/status/1513872991955861514) | advertise |
 | [stockharold@twitter](https://twitter.com/stockharold/status/1565373102573461508) | advertise |
 | [StoncoC@twitter](https://twitter.com/StoncoC/status/1468247348308594704) | advertise |
