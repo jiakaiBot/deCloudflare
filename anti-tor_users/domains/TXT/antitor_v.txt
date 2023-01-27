@@ -1223,6 +1223,7 @@ api.gsp.vayana.com
 api.odlc.na.dp15.vwg-connect.com
 api.preprod.vhi.ie
 api.vayonet.com
+api.vclub.com.hk
 api.veiligvertoon.nl
 api.verifymyfafsa.com
 api.veritystream.cloud
@@ -1290,6 +1291,7 @@ click.email.vegas.com
 click.vp.volatilitypredictor.com
 clicks.valk.nl
 client.visi.help
+clientservices.vonex.com.br
 cloud.e.vsp.com
 cloud.vasttech.co.uk
 clouston.v3client.com
@@ -1338,6 +1340,7 @@ docs.client.vl-logistic.com
 docs.client.vl-logistic.ru
 dryvoilmalaysia-gmailcom.vercel.app
 ebics.vtb.de
+elements.vanderkrogt.net
 elian.vercel.app
 en.virtualhelpdesk.online
 enews.vietnamairlines.com
@@ -1372,6 +1375,7 @@ helpdesk.villagehelpdesk.com
 helpdesk.virginactive.com.sg
 helpdesk.vlsiexpert.in
 hunter.vercel.app
+hunter199129.vercel.app
 hunter33ru.vercel.app
 huntercallaway.vercel.app
 hunterraffety.vercel.app
@@ -1432,6 +1436,7 @@ newyear.vegas-city.ru
 nginx-sa-httpcoinbaseregione.vikingdeals.be
 ngovanthien10598-gmailcom.vercel.app
 nitromicug.vercel.app
+nitronews.ventabrasil.com.br
 nyc-modeling-agencies.veryfasthosting.co.uk
 o2-ac.vkplay.ru
 okwiki.cluster.service.vp6e.com
@@ -1461,6 +1466,7 @@ rajiv.vercel.app
 ramonponsmiralles-gmailcom.vercel.app
 raymondliang2015-gmailcom.vercel.app
 realdiscordmatters.vercel.app
+redcap.vhir.org
 reserve.mb.vtb.ru
 ringcaptcha1.vercel.app
 rr.cdnlab.vodafone.pt
@@ -1508,6 +1514,7 @@ ticketshop.vor.at
 tiemporealcorreo-gmailcom.vercel.app
 tmed.vit-bund.de
 tqms.vocalinkon.com
+track.violetlovelines.com
 tracking3.vnncdn.net
 twilio.engage.kgblaw.voyagernetz.us
 tymczasowy.vh.pl
@@ -1524,7 +1531,6 @@ v-ents.com
 v-hub.vodafone.ie
 v-suncoast.info
 v-zuma.ru
-v2ray-server-00.ga
 v2solutions.com
 v6rxv5coo5.com
 v9betpro.org
@@ -1534,6 +1540,7 @@ vaccinerights.com
 vainillaweddings.com
 valcester.com.br
 valentineflorist.net
+valeoplumaslimpiaparabrisas.mx
 valeowipers.us
 valerianworkshops.com
 valiantsupport.com.au
@@ -1576,6 +1583,7 @@ venera.social
 veneziabeach-hotram.net
 venfioletadas.com
 venticare.nl
+ventureburn.com
 veranoseguro.com.ar
 vergaarbak.eu
 verianet.gr
@@ -1624,6 +1632,7 @@ vieu.cc
 viewablemedia.net
 viewdigital.org
 vigorousism.com
+vijou.com.co
 vikarina.lt
 vikas-academy.com
 vikingstrength.ca
@@ -1654,7 +1663,7 @@ vitaltrust-global.com
 vitpost.gq
 vittrack.gq
 vivienholl.com
-vlcdesktopclient.site
+viz.com
 vmjtruckservice.com
 vn88.la
 vn88club.net
@@ -1682,9 +1691,11 @@ vs23drop.com
 vsesdal.com
 vsviti.com.ua
 vtest314-hby4ly8pigifvwwemogx.vercel.app
+vtxvn.com
 vuelodequimera.com.ar
 vulgamag.ca
 vulgartaivert.website
+vvwvloginsunico-viabpc.com
 vwin88.ltd
 vwtransporterberles.hu
 webdisk.vanguardchurch.info
@@ -1707,7 +1718,6 @@ www.booking.viajeseguro.live
 www.cs.money.verticeconstructor.com
 www.cs.moneys.verticeconstructor.com
 www.customer.vaskar.co.in
-www.delivery.vitoriafood.com.br
 www.equitybank-secure-customer.verification.onl
 www.git.git.gitlab.git.sslvpn.vpkver.ru
 www.git.gitlab.i.vashsad37.ru
@@ -1757,11 +1767,13 @@ www.vermouth-deportivo.com.ar
 www.vernoncounty.org
 www.verstehbahnhof.de
 www.vestinglopen.nl
+www.vetdolakha.gov.np
 www.veteransecurityinc.com
 www.victoriafilmfestival.com
 www.vidasatphones.com
 www.videomarket.jp
 www.viessmann-service.tech
+www.vikingcruises.com
 www.vilacriativa.com.br
 www.villa-authentica.com
 www.ville-sens.fr
@@ -1771,6 +1783,7 @@ www.virtualverse.one
 www.virtuosal.com
 www.visiblecollege.education
 www.vision-service.be
+www.visionfarma.es
 www.visitsingapore.com.cn
 www.visordown.com
 www.vistasbank.com
