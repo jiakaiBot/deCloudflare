@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,482 |
 | social | 3,498 |
 | net | 2,802 |
-| org | 2,003 |
+| org | 2,004 |
 | de | 1,887 |
 
 
@@ -7244,6 +7244,7 @@ Here's a list of public Fediverse services.
 | `davigge.com` | No |
 | `davinkevin.fr` | No |
 | `davisohana.org` | No |
+| `davlin.io` | Yes |
 | `davralin.work` | Yes |
 | `davsgarage.com` | No |
 | `davydepauw.social` | No |
@@ -18752,6 +18753,7 @@ Here's a list of public Fediverse services.
 | `m14xa.ru` | No |
 | `m17e.co` | Yes |
 | `m1ch.eu` | Yes |
+| `m1x.app` | Yes |
 | `m2.nz` | No |
 | `m213.xyz` | Yes |
 | `m2hq.net` | No |
@@ -22008,6 +22010,7 @@ Here's a list of public Fediverse services.
 | `mytubetoday.tv` | No |
 | `myutsutaka.com` | No |
 | `myvnc.com` | No |
+| `mywanderings.org` | Yes |
 | `mywebprojects.co.uk` | No |
 | `mywire.org` | Yes |
 | `myworkoutarenapeertube.cf` | No |
@@ -36048,6 +36051,7 @@ Here's a list of public Fediverse services.
 | `xarxa.cloud` | No |
 | `xataka.com` | No |
 | `xatakandroid.com` | No |
+| `xavier.ooo` | No |
 | `xavierbigfox.net` | No |
 | `xavierroy.com` | No |
 | `xavin.net` | No |
@@ -37134,8 +37138,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,741 |
-| Normal | 28,350 |
+| Cloudflare | 8,744 |
+| Normal | 28,351 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
