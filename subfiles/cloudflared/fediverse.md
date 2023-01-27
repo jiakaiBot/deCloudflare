@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,487 |
 | social | 3,503 |
-| net | 2,803 |
+| net | 2,805 |
 | org | 2,008 |
 | de | 1,887 |
 
@@ -252,6 +252,7 @@ Here's a list of public Fediverse services.
 | `2207.fr` | No |
 | `221b.uk` | Yes |
 | `22300-lannion.fr` | No |
+| `2248.live` | Yes |
 | `22decembre.eu` | No |
 | `238c.org` | No |
 | `24-7.ro` | No |
@@ -14846,6 +14847,7 @@ Here's a list of public Fediverse services.
 | `iofoundry.eu` | Yes |
 | `ioi-xd.net` | Yes |
 | `ioioioio.io` | Yes |
+| `iokibe.net` | No |
 | `ioloro.com` | No |
 | `iomm.net` | No |
 | `iomm.social` | No |
@@ -15731,6 +15733,7 @@ Here's a list of public Fediverse services.
 | `jontyms.com` | Yes |
 | `jonwatson.ca` | No |
 | `joohanv.me` | No |
+| `joojak.net` | No |
 | `jookia.org` | No |
 | `joom.la` | No |
 | `joopleberry.garden` | No |
@@ -20477,7 +20480,7 @@ Here's a list of public Fediverse services.
 | `mi-wo.site` | Yes |
 | `mi2428.net` | No |
 | `miao.dev` | Yes |
-| `miao.social` | No |
+| `miao.social` | Yes |
 | `miaochann.com` | Yes |
 | `miaomiao.li` | Yes |
 | `miaomiao.party` | Yes |
@@ -23444,6 +23447,7 @@ Here's a list of public Fediverse services.
 | `null.town` | No |
 | `nullable.space` | Yes |
 | `nullc.at` | Yes |
+| `nullcat.moe` | Yes |
 | `nulled.network` | Yes |
 | `nulled.pink` | Yes |
 | `nulled.red` | Yes |
@@ -25892,6 +25896,7 @@ Here's a list of public Fediverse services.
 | `portside.social` | No |
 | `portswigger.net` | No |
 | `porubu.com` | Yes |
+| `porubuskey.cc` | Yes |
 | `posadis.me` | No |
 | `positiveinfinity.net` | No |
 | `posix.gay` | No |
@@ -37172,8 +37177,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,755 |
-| Normal | 28,374 |
+| Cloudflare | 8,759 |
+| Normal | 28,375 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
