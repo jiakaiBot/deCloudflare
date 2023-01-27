@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,470 |
-| social | 3,491 |
-| net | 2,800 |
+| com | 5,472 |
+| social | 3,492 |
+| net | 2,801 |
 | org | 1,998 |
 | de | 1,886 |
 
@@ -5499,6 +5499,7 @@ Here's a list of public Fediverse services.
 | `citizen4.eu` | No |
 | `citizenry.social` | No |
 | `citringo.net` | No |
+| `citrouille.ch` | No |
 | `citrus.farm` | No |
 | `citsc.de` | No |
 | `city-of-glass.net` | No |
@@ -5733,6 +5734,7 @@ Here's a list of public Fediverse services.
 | `coazergues.info` | No |
 | `cobaltia.org` | No |
 | `cobaltkiss.blue` | Yes |
+| `cobblestone.rocks` | No |
 | `cobby.eu` | No |
 | `cobracrew.de` | No |
 | `cobryce.com` | Yes |
@@ -12647,6 +12649,7 @@ Here's a list of public Fediverse services.
 | `grobox.de` | No |
 | `grobwiefein.de` | No |
 | `groenaz.de` | No |
+| `groene.nl` | No |
 | `groktop.us` | Yes |
 | `gronendahl.de` | No |
 | `groningen.social` | No |
@@ -16949,6 +16952,7 @@ Here's a list of public Fediverse services.
 | `krake.re` | No |
 | `krakow.social` | No |
 | `krall.sh` | Yes |
+| `kramersson.com` | No |
 | `kramse.org` | No |
 | `kranat.com` | No |
 | `kranzkrone.de` | No |
@@ -20434,6 +20438,7 @@ Here's a list of public Fediverse services.
 | `mi-wo.site` | Yes |
 | `mi2428.net` | No |
 | `miao.dev` | Yes |
+| `miao.social` | No |
 | `miaochann.com` | Yes |
 | `miaomiao.li` | Yes |
 | `miaomiao.party` | Yes |
@@ -25424,6 +25429,7 @@ Here's a list of public Fediverse services.
 | `pkm.social` | No |
 | `pks.ai` | Yes |
 | `pkteerium.xyz` | No |
+| `pkutalk.com` | No |
 | `pl-sonic.net` | No |
 | `pla.social` | No |
 | `pla1.net` | No |
@@ -28057,6 +28063,7 @@ Here's a list of public Fediverse services.
 | `s-yurama.com` | No |
 | `s0cial.sh` | No |
 | `s10y.eu` | No |
+| `s1204.net` | No |
 | `s1gm4.eu` | No |
 | `s1i.dev` | No |
 | `s1ttidoe.com.tw` | No |
@@ -29655,6 +29662,7 @@ Here's a list of public Fediverse services.
 | `sleepycrew.social` | No |
 | `sleepygremlin.online` | No |
 | `sleiss.me` | Yes |
+| `sleroq.link` | Yes |
 | `slerp.ch` | No |
 | `sleuth.world` | No |
 | `sliek.social` | No |
@@ -29887,6 +29895,7 @@ Here's a list of public Fediverse services.
 | `soap.coffee` | No |
 | `soapbox.network` | No |
 | `sobac.com` | No |
+| `sobes.co.uk` | No |
 | `sobieck.social` | No |
 | `sobieski.social` | No |
 | `sobkowicz.org` | No |
@@ -37081,8 +37090,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,724 |
-| Normal | 28,314 |
+| Cloudflare | 8,725 |
+| Normal | 28,322 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
