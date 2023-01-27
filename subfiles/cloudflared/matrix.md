@@ -39,7 +39,6 @@ Here's a list of public Matrix services.
 | matrix.catgirl.cloud | Yes |
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
-| matrix.chatinamatrix.xyz | No |
 | matrix.chatwave.org | No |
 | chrrreeeeesss.com | No |
 | club1.fr | No |
@@ -80,9 +79,11 @@ Here's a list of public Matrix services.
 | matrix.libreon.fr | No |
 | matrix.llamarific.social | No |
 | lugnsk.org | No |
+| chat.magdeburg.jetzt | No |
 | mailstation.de | No |
 | mandragot.org | No |
 | matrix.marmottel.com | No |
+| matrix.im | No |
 | matrix.org | Yes |
 | matrix.monero.social | No |
 | mtrx.nz | No |
@@ -107,7 +108,6 @@ Here's a list of public Matrix services.
 | matrix.sfunk1x.com | No |
 | matrix.sibnsk.net | No |
 | socialnetwork24.com | No |
-| matrix.studichat.de | No |
 | synod.im | No |
 | matrix.tchncs.de | No |
 | matrix.techsaviours.org | No |
