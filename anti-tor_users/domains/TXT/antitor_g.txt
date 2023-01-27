@@ -1765,7 +1765,6 @@ verify.globaldatacompany.com
 verify.goldseal.me
 vickylamiel.github.io
 vinhtruong2001.github.io
-violationtracker.goodjobsfirst.org
 virtualbox.greengoblin.net
 visibility-tools-gateway-uat.extranet.geodis.org
 vpn.gusteru.tk
@@ -2023,6 +2022,7 @@ aazeez257.github.io
 abdullahabdu786.github.io
 abdulmusawirkp.github.io
 abrahamjuliot.github.io
+accessobperbanca.giomatic.com
 accounting.gamechangersdigitech.co.za
 accounts.gasconfoods.com
 accountupdateverification.godaddysites.com
@@ -2066,9 +2066,12 @@ apidev.goforitapp.com
 apiscrm.dev.gruposuperdigital.com
 apolozani.github.io
 app-rsrc.getbee.io
+app.freeme.glkb.ch
 app.gartnerformarketers.com
 app.gaustral.com
+app.guryeli.com
 apps.gamepind.com
+apps.wdiv-live.gmg.io
 aruba.fattura.goldschmiede-kastner.de
 arunsingh009.github.io
 arvindhsundar.github.io
@@ -2270,6 +2273,7 @@ doc-0o-38-docs.googleusercontent.com
 doc-0o-5o-docs.googleusercontent.com
 doc-0o-70-docs.googleusercontent.com
 doc-0o-74-docs.googleusercontent.com
+doc-0s-14-docs.googleusercontent.com
 doc-0s-3s-docs.googleusercontent.com
 doc-0s-4c-docs.googleusercontent.com
 doc-0s-6o-docs.googleusercontent.com
@@ -2312,11 +2316,14 @@ earl-sweatshirt-heardlee.glitch.me
 eduhbarb.github.io
 ekl-net.gesyque.shop
 email.clientmail.goturbo.app
+email.gavitigroup.com
 email.gradifi.com
 email.gravitylearningco.com
+emailverification2222.godaddysites.com
 empresas3.gruposantander.es
 encontrando-bozo.glitch.me
 encrypted-tbn0.gstatic.com
+encrypted-vtbn2.gstatic.com
 engineer-support.grandioso.co.jp
 epgsklsxgmmekrysicloicutldi.storage.googleapis.com
 equatorial-foam-archer.glitch.me
@@ -2330,6 +2337,7 @@ f15ca44feb3179b2b78b33ff38711df3.safeframe.googlesyndication.com
 fa0394a99e221cd38ec6b8d572f7febf.safeframe.googlesyndication.com
 fa6de5170aca924ac17e1640385f06ec.safeframe.googlesyndication.com
 facebookk-k.github.io
+fairdatasociety.github.io
 fb-account-activation.github.io
 fb5edbc62694a0b662e4ea9d34896ff2.safeframe.googlesyndication.com
 fcmtoken.googleapis.com
@@ -2341,6 +2349,8 @@ figueiredotiago.github.io
 files.gateway-spark.com
 files.get-file.eu
 firebasecloudmessaging.googleapis.com
+firebaselogging-pa.googleapis.com
+firebaseremoteconfig.googleapis.com
 firebasestorage.googleapis.com
 firmware.gigabit.io
 flicker-lacy-diplodocus.glitch.me
@@ -2381,6 +2391,7 @@ gambahluar.id
 gamefiventures.com
 gamelive22.co
 gamemovie.net
+gamemusic.pl
 gameportal.casa
 gameprogrammingpatterns.com
 gamer-days.jp
@@ -2404,7 +2415,6 @@ gas-elec.org.uk
 gaslineservice.com
 gasparatras.pt
 gaspartorriero.it
-gasstovehobservice.com
 gasylicyg1e8n6po.com
 gates-mcfadden.com
 gatesofvienna.net
@@ -2416,6 +2426,7 @@ gavetadedinheiro.com.br
 gavinpublishers.com
 gawsfashion.com
 gazettedesfemmes.ca
+gbrotherssecurity.in
 gcahlla.ga
 gcjapan-kyoto.com
 gcloud-planilla.com
@@ -2450,6 +2461,7 @@ gencaslan.com
 generalaviationnews.com
 genericgames.co.nz
 genervest.org
+genial-trust-motor-onboarding.homolog.api.genial.systems
 genitor.dk
 gensh.in
 gentlemans-desire.com
@@ -2506,6 +2518,7 @@ gig.my.id
 gigaportalhost.com
 gilgamesh-amu.com
 gingembreetwasabi.com
+ginger.godiva.ovh
 ginkoblattverlag.com
 gino.com.br
 gintonico.com
@@ -2715,6 +2728,7 @@ interface.c1.golf-jalan.net
 interface.golf-jalan.net
 iris-battle-morning.glitch.me
 irshadabdulla19.github.io
+ja2r7.app.goo.gl
 jagged-abrupt-baritone.glitch.me
 jma.genieesspv.jp
 jnn-pa.googleapis.com
@@ -2722,11 +2736,14 @@ joaoabreu004.github.io
 joaom22zl1.github.io
 joomla.growitsecure.com
 jss.gsa.gov
+kasapovicrijad.github.io
 keyauth.gad1.de
+kh.google.com
 kitchen.gowiefr.be
 kunden.gastromarketing.jetzt
 lamiahasanrodoshi.github.io
 large-parallel-savory.glitch.me
+laser-swanky-mapusaurus.glitch.me
 law.guiawebservice.com
 links.gotok.app
 liontrout.github.io
@@ -2739,6 +2756,7 @@ magicdeveloperdocs.github.io
 mahadi61.github.io
 mail-settings.google.com
 mail.gadluiscordero.gob.ec
+maps.gstatic.com
 marmikpatel003.github.io
 matheus-almeida78.github.io
 mcg.gerdau.net
@@ -2755,17 +2773,20 @@ mini-amber-partridge.glitch.me
 moneynews.globalpassivemoney.com
 monitorias.bi.grupodigitex.com.br
 movie.gujjusupport.in
+mserv.groupe-casino.fr
 mtap.partners.glanceapis.com
 my.gm.ca
 myaccount.gravityportals.com
 myprivat.gothit.de
 natwest.gitlab-dedicated.com
+navisaf14.ganemo.co
 newterms3.godaddysites.com
 nianhuoolyjd.guanmeikj.com
 nithinsaichoudary.github.io
 novo.gruporecovery.com
 oauth-playground.glitch.me
 obvious-holistic-background.glitch.me
+omarothman20052.github.io
 one.google.com
 ora4.godaddysites.com
 orangbaik.gopost.id
@@ -2778,6 +2799,8 @@ pay.gofnc.com
 paymentpage-eip.getneteurope.com
 pe-eca.grupodigitex.com
 pe-eca.grupokonecta.pe
+pedrodevvv.github.io
+peg3z.app.goo.gl
 peoplestack-pa.googleapis.com
 periclesperes.github.io
 pibara.github.io
@@ -2807,17 +2830,20 @@ rajatkumar00.github.io
 ram-deshmukh.github.io
 rdg.globalagritrade.com
 recaptchaenterprise.googleapis.com
+region1.google-analytics.com
 relaxing733.github.io
 remote.gbcma.vic.gov.au
 reunion-mauritius.govmu.org
 risk-eip.getneteurope.com
 ritendragour.github.io
+rr1---sn-p5qddn76.googlevideo.com
 rr1---sn-p5qlsnrl.googlevideo.com
 rr1---sn-p5qs7nzk.googlevideo.com
 rr1---sn-p5qs7nzr.googlevideo.com
 rr2---sn-p5qddn7r.googlevideo.com
 rr2---sn-p5qlsn7s.googlevideo.com
 rr2---sn-qxoedne7.googlevideo.com
+rr2---sn-qxoednee.googlevideo.com
 rr3---sn-p5qs7nzr.googlevideo.com
 rr4---sn-p5qddn7z.googlevideo.com
 rr4---sn-p5qlsnrr.googlevideo.com
@@ -2855,6 +2881,7 @@ sumitgirwal.github.io
 sunshineshuttleandcarservice.grapevinemarketing.org
 support.getup.my
 support.greenstory.io
+supportnode.github.io
 susangasong.gnasus.com
 sweetonex.github.io
 t1-1265-fix-heure.eodv2.groupeactual.io
@@ -2872,6 +2899,7 @@ toolbarqueries.google.com.gh
 toolbarqueries.google.fr
 tour-partner-api.gmarket.com
 tpc.googlesyndication.com
+tracking.get-your-rates-right.com
 trading.globalprime.com
 translate.google.com
 trends.google.com
@@ -2888,6 +2916,7 @@ updates.grupoitg.com.br
 url1185.mailing.gocar.be
 url1804.getzaymo.com
 us-central1-dev-health-cruise-shells.getcruise.com
+userlocation.googleapis.com
 vanguardchurch.greggarner.net
 vema.gastromach.cz
 verifiedinstagram.github.io
@@ -2909,8 +2938,10 @@ webmail.ghayandibali.com
 webmail.grasmeremotors.garageinvoice2.co.uk
 wellgatesupport.gmzdev.uk
 wifi.grundon.com
+wiki.glmc.pl
 wobble-clock.glitch.me
 ws3.gi-electric.at
+wsapi-rec.groupe-casino.fr
 www.30mints.com.grenstonesecurity.in
 www.account.goparel.host
 www.accounting.gamechangersdigitech.co.za
@@ -2947,7 +2978,6 @@ www.gardiensdularge.org
 www.gas-safety-certificates.com
 www.gasapp.co
 www.gasp4change.org
-www.gasstovehobservice.com
 www.gaudiumpress.ca
 www.gcps.net
 www.ge-registrar.com
@@ -2966,6 +2996,7 @@ www.georgakopoulos.org
 www.georgewalllincoln.com
 www.georgewalllincolnredbank.com
 www.geoseer.net
+www.gerginphillips.com
 www.gerosciencenetwork.org
 www.gerwien-dresden.de
 www.getfeedback.fi
@@ -3016,6 +3047,7 @@ www.goldenvalleylending.com
 www.goldvipescort.co.uk
 www.goodhumor.com
 www.goodmoney.io
+www.goodshepherdsisters.org.ph
 www.goosvanderveen.nl
 www.gorjkh.gomel.by
 www.gosportcameraclub.org.uk
@@ -3060,6 +3092,7 @@ www.gungemadstore.com
 www.gunghaggis.com
 www.gunze.jp
 www.gutefrage.net
+www.guywhite.biz
 www.gvpedia.org
 www.gwefrhebwifrau.org.uk
 www.gymsecurity.cl
