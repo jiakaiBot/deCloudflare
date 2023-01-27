@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,487 |
 | social | 3,501 |
 | net | 2,802 |
-| org | 2,004 |
+| org | 2,005 |
 | de | 1,887 |
 
 
@@ -7734,6 +7734,7 @@ Here's a list of public Fediverse services.
 | `dftba.club` | Yes |
 | `dftba.xyz` | Yes |
 | `dfw2600.net` | Yes |
+| `dfxn.org` | No |
 | `dg74.pro` | No |
 | `dgc.social` | No |
 | `dgfp.club` | No |
@@ -28059,7 +28060,7 @@ Here's a list of public Fediverse services.
 | `ryanleesipes.me` | No |
 | `ryanschultz.com` | No |
 | `ryanteck.xyz` | No |
-| `ryanthomas.org` | No |
+| `ryanthomas.org` | Yes |
 | `ryantoohil.com` | Yes |
 | `rybergs.net` | No |
 | `rychannel.com` | No |
@@ -37154,7 +37155,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,748 |
+| Cloudflare | 8,749 |
 | Normal | 28,363 |
 
 
