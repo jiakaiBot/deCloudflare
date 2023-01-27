@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,483 |
-| social | 3,499 |
+| com | 5,484 |
+| social | 3,500 |
 | net | 2,802 |
 | org | 2,004 |
 | de | 1,887 |
@@ -1359,6 +1359,7 @@ Here's a list of public Fediverse services.
 | `allulla.space` | No |
 | `allwurst.com` | No |
 | `allymukai.com` | No |
+| `almajlis.me` | No |
 | `almere.social` | No |
 | `almeroth.com` | No |
 | `almonds.gq` | No |
@@ -19973,6 +19974,7 @@ Here's a list of public Fediverse services.
 | `maxservices.wf` | No |
 | `maxsocial.me` | No |
 | `maxsons.org` | No |
+| `maxtodon.lol` | No |
 | `maxvel.sh` | No |
 | `maxvolu.me` | No |
 | `maxweiss.io` | No |
@@ -29368,6 +29370,7 @@ Here's a list of public Fediverse services.
 | `sighash.info` | Yes |
 | `sigil.ink` | Yes |
 | `sigil.li` | No |
+| `sigin.fo` | No |
 | `sigint.life` | No |
 | `sigint.sx` | No |
 | `sigmaris.info` | Yes |
@@ -29860,6 +29863,7 @@ Here's a list of public Fediverse services.
 | `sndr.social` | No |
 | `sndw.ch` | Yes |
 | `sneak.berlin` | Yes |
+| `sneak.ovh` | No |
 | `sneakerwave.net` | Yes |
 | `sneaky.computer` | Yes |
 | `sneakycrow.io` | Yes |
@@ -33161,6 +33165,7 @@ Here's a list of public Fediverse services.
 | `tooweb.se` | No |
 | `tooxy.cz` | No |
 | `top10homeremedies.com` | No |
+| `topazz.me` | No |
 | `topbol.com` | Yes |
 | `topbug.net` | Yes |
 | `topcat.io` | No |
@@ -34293,6 +34298,7 @@ Here's a list of public Fediverse services.
 | `urspringer.de` | No |
 | `urtu.be` | No |
 | `uruguayos.social` | No |
+| `uruk-hai.eu` | Yes |
 | `urusai.social` | No |
 | `urvogel.club` | No |
 | `uryokurin.net` | Yes |
@@ -34603,6 +34609,7 @@ Here's a list of public Fediverse services.
 | `veroone.fr` | No |
 | `verr.cc` | No |
 | `verteiltegedanken.de` | No |
+| `vertexspew.social` | No |
 | `verumsocial.com` | Yes |
 | `vervology.social` | No |
 | `verweg.com` | No |
@@ -37070,6 +37077,7 @@ Here's a list of public Fediverse services.
 | `zteo.com` | Yes |
 | `ztn.sh` | Yes |
 | `ztrl.de` | No |
+| `zu1k.com` | Yes |
 | `zu2.org` | No |
 | `zu26.net` | No |
 | `zucchini.guru` | No |
@@ -37140,8 +37148,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,745 |
-| Normal | 28,352 |
+| Cloudflare | 8,747 |
+| Normal | 28,358 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
