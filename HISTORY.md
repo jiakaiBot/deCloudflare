@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-31: [WAW (Warsaw) on 2023-01-31](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wt1rvml2jcy3)
+- 2023-01-30: [WAW (Warsaw) on 2023-01-30](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pzkyp9srz493)
 - 2023-02-01: [MUC (Munich) on 2023-02-01](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2jxsksv0tn4d)
 - 2023-02-02: [MRS (Marseille) on 2023-02-02](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/x0cbxrb164ql)
 - 2023-02-01: [SCL (Santiago) on 2023-02-01](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/13rdmv21phmp)
