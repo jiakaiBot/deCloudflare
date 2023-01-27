@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,482 |
-| social | 3,498 |
+| com | 5,483 |
+| social | 3,499 |
 | net | 2,802 |
 | org | 2,004 |
 | de | 1,887 |
@@ -3500,6 +3500,7 @@ Here's a list of public Fediverse services.
 | `binfalse.de` | No |
 | `binfish.jp` | No |
 | `binocl.art` | No |
+| `binsec.social` | No |
 | `binted.space` | No |
 | `binwang.me` | Yes |
 | `biobuf.link` | No |
@@ -20124,6 +20125,7 @@ Here's a list of public Fediverse services.
 | `medienverwaltung.org` | No |
 | `medienzentrum-harburg.de` | No |
 | `medieval.jp` | No |
+| `medinnna.com` | Yes |
 | `medium-sandbox.social` | Yes |
 | `medium.com` | Yes |
 | `medium.place` | Yes |
@@ -37138,8 +37140,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,744 |
-| Normal | 28,351 |
+| Cloudflare | 8,745 |
+| Normal | 28,352 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
