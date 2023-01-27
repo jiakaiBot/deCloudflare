@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,484 |
-| social | 3,500 |
+| com | 5,487 |
+| social | 3,501 |
 | net | 2,802 |
 | org | 2,004 |
 | de | 1,887 |
@@ -7903,6 +7903,7 @@ Here's a list of public Fediverse services.
 | `dingdash.com` | No |
 | `dingo.network` | No |
 | `dingshunyu.top` | No |
+| `dingus.social` | No |
 | `diniscorreia.com` | No |
 | `dinn.ca` | No |
 | `dino.icu` | No |
@@ -13605,6 +13606,7 @@ Here's a list of public Fediverse services.
 | `hinzundcode.social` | No |
 | `hiphop.horse` | No |
 | `hipotter.com` | No |
+| `hippidion.xyz` | No |
 | `hippo.ws` | No |
 | `hippyjim.uk` | No |
 | `hips.social` | Yes |
@@ -14479,6 +14481,7 @@ Here's a list of public Fediverse services.
 | `imoimo.xyz` | No |
 | `imojito.com` | Yes |
 | `imouto.wiki` | No |
+| `impa.cc` | No |
 | `impa.me` | No |
 | `impeccable.social` | No |
 | `impeccablewords.net` | No |
@@ -16652,6 +16655,7 @@ Here's a list of public Fediverse services.
 | `kitunetya-ya-mastdom.com` | No |
 | `kity.wtf` | Yes |
 | `kitzmiller.social` | No |
+| `kivinsae.com` | Yes |
 | `kiwa.space` | No |
 | `kiwe.ch` | No |
 | `kiwec.net` | Yes |
@@ -23369,6 +23373,7 @@ Here's a list of public Fediverse services.
 | `nsgn.eu` | No |
 | `nshl.xyz` | No |
 | `nsinteger.com` | Yes |
+| `nsivertsen.com` | No |
 | `nsk.io` | No |
 | `nsnw.ca` | No |
 | `nsobj.com` | No |
@@ -32092,6 +32097,7 @@ Here's a list of public Fediverse services.
 | `the-av.club` | Yes |
 | `the-be.at` | No |
 | `the-box.work` | No |
+| `the-brannons.com` | No |
 | `the-cloud.io` | No |
 | `the-cool.zone` | No |
 | `the-destro.com` | No |
@@ -37148,8 +37154,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,747 |
-| Normal | 28,358 |
+| Cloudflare | 8,748 |
+| Normal | 28,363 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
