@@ -7975,6 +7975,7 @@ Do not create new issue or we will close it as duplicate.
 | [oshinehtet@twitter](https://twitter.com/oshinehtet/status/1390850798490292225) | advertise |
 | [OSsupporter@twitter](https://twitter.com/OSsupporter/status/1531334268722503680) | advertise |
 | [ot7since2017@twitter](https://twitter.com/ot7since2017/status/1379383185210028034) | advertise |
+| [otakuchipmunk@twitter](https://twitter.com/otakuchipmunk/status/1618826937321033732) | advertise |
 | [OthmanAlnaqbi@twitter](https://twitter.com/OthmanAlnaqbi/status/1388557696115281925) | advertise |
 | [otouristas@twitter](https://twitter.com/otouristas/status/1383554131143450626) | advertise |
 | [otp0real@twitter](https://twitter.com/otp0real/status/1618568011639828481) | advertise |
