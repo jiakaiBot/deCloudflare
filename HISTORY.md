@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-02-03: [JNB (Johannesburg) on 2023-02-03](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bjg38g37kjg7)
 - 2023-01-27: [FRA (Frankfurt) on 2023-01-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6pdcs4rvdkdf)
 - 2023-01-27: [YVR (Vancouver) on 2023-01-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/md58r2vkmc21)
 - 2023-01-27: [WAW (Warsaw) on 2023-01-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5l9d4yltxx9v)
