@@ -24797,6 +24797,7 @@ Here's a list of public Fediverse services.
 | `paulwilde.uk` | No |
 | `paupers.xyz` | No |
 | `pavel.online` | No |
+| `pavlik.top` | No |
 | `pavluk.org` | Yes |
 | `pavot.ca` | No |
 | `paw.best` | No |
@@ -33312,6 +33313,7 @@ Here's a list of public Fediverse services.
 | `transitieweb.nl` | No |
 | `transition-waedenswil.ch` | No |
 | `transliminal.space` | No |
+| `transmas.cyou` | No |
 | `transmit.social` | No |
 | `transmom.love` | No |
 | `transmothra.com` | Yes |
@@ -37156,7 +37158,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,749 |
-| Normal | 28,363 |
+| Normal | 28,365 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
