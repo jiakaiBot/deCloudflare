@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Authorization fails on Linux server (headless)](https://github.com/terry3041/pyChatGPT/issues/115)
 - [Redirect to Uptimekuma not working with Authentik, using NGINX reverse proxy.](https://github.com/goauthentik/authentik/issues/4541)
 - [Providing custom headers when using signQuery results in incorrect SignedHeaders](https://github.com/mhart/aws4fetch/issues/46)
 - [Cannot Get Mattermost Notificaitons to work](https://github.com/caronc/apprise/issues/810)
