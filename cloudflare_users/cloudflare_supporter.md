@@ -638,6 +638,7 @@ Do not create new issue or we will close it as duplicate.
 | [amirali_7777_q@twitter](https://twitter.com/amirali_7777_q/status/1581881580221763585) | advertise |
 | [amirchitgaran@twitter](https://twitter.com/amirchitgaran/status/1384197111500083214) | advertise |
 | [AmirFusaini@twitter](https://twitter.com/AmirFusaini/status/1399362665416314883) | advertise |
+| [AmirHam43950357@twitter](https://twitter.com/AmirHam43950357/status/1619260000517623809) | advertise |
 | [amirhejazi17@twitter](https://twitter.com/amirhejazi17/status/1591860252600827908) | advertise |
 | [Amirh_1991@twitter](https://twitter.com/Amirh_1991/status/1530140150327541762) | advertise |
 | [amirjune14@twitter](https://twitter.com/amirjune14/status/1558795946577780737) | advertise |
