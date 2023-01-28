@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [POST /files 500 Internal Server Error](https://github.com/Klowner/tussle/issues/9)
 - [cannot login to my readthedocs account from Hamburg/Germany](https://github.com/readthedocs/readthedocs.org/issues/9959)
 - [Use another CDN to get certificate](https://github.com/xcode75/XMPlus/issues/10)
 - [epublibre (updating) The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/683)
