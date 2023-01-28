@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,495 |
-| social | 3,510 |
-| net | 2,806 |
+| social | 3,511 |
+| net | 2,807 |
 | org | 2,011 |
 | de | 1,888 |
 
@@ -1015,6 +1015,7 @@ Here's a list of public Fediverse services.
 | `afu.social` | No |
 | `aga.ovh` | No |
 | `agadius.de` | No |
+| `againstthefuture.net` | No |
 | `agates.io` | No |
 | `agb-web.de` | No |
 | `agdersam.no` | No |
@@ -9422,6 +9423,7 @@ Here's a list of public Fediverse services.
 | `ericpuryear.com` | Yes |
 | `ericrie.se` | No |
 | `ericrogers.org` | No |
+| `ericscouten.social` | No |
 | `erictapen.name` | No |
 | `ericvandam.me` | No |
 | `ericwalk.net` | No |
@@ -21039,6 +21041,7 @@ Here's a list of public Fediverse services.
 | `mobilizon.nl` | No |
 | `mobilizon.org` | No |
 | `mobilizon.pl` | No |
+| `mobilizon.us` | No |
 | `mobilsicher.de` | No |
 | `mobiltv.org` | Yes |
 | `moby3012.de` | No |
@@ -24850,6 +24853,7 @@ Here's a list of public Fediverse services.
 | `paws.ninja` | Yes |
 | `paws.press` | No |
 | `paws.town` | No |
+| `pawsitiv.space` | Yes |
 | `paxanimi.club` | No |
 | `paxation.info` | No |
 | `paxriel.art` | No |
@@ -37211,8 +37215,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,761 |
-| Normal | 28,407 |
+| Cloudflare | 8,762 |
+| Normal | 28,410 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
