@@ -2578,6 +2578,7 @@ zent.dn-cloud.com
 zhaodllcommentaspp.dedyn.io
 zmail.directiondiscussioncake.online
 0765d321c6394a709fd6204d195991bb.svc.dynamics.com
+08337df4c7df4391806fc57fb8aacd0c.svc.dynamics.com
 0nline-clientconnect02b.dns05.com
 0nline-userconnect05b.dns05.com
 0nline-userconnect06b.dns05.com
@@ -2630,6 +2631,9 @@ aemail.discord-accounts.ru
 akaunting.discord-store.ru
 allianz.app.dolineo.com
 amazon-aaqqq.dns04.com
+amazon-fgdsd.dns-report.com
+amazon-hvmnbbm.dns04.com
+amazon-ujyhg.dns05.com
 amazon-vvbbbccs.dumb1.com
 amazon-xsza.dns05.com
 ambassadors.thepreswordpress.discord-accounts.ru
@@ -2667,6 +2671,7 @@ app.dnbhoovers.com
 app.online.dowjones.com
 appict.dwtcmarketing.com
 appleid.devmaster.org
+apply.deltaconstructionpartners.com
 appn.dimar.mil.co
 apt-api.datentonne.net
 ar.dian.gov.co
@@ -2792,6 +2797,7 @@ cloud.dogchen.com
 coaching-plus.demowebsiteclient.com
 code.daridan.net
 code.djangoproject.com
+comacd5a91372441ed.bxriq.mongodb.net.discord-store.ru
 commx1.discord-accounts.ru
 conf.uw.docomo.ne.jp
 connect.deloitte.lu
@@ -2861,6 +2867,7 @@ cpcontacts.dynomotion.com
 cpcontacts.dynopulls.com
 cpcontacts.jab.disco.to
 cpcontacts.mercadotrecos.com.br.dmatechnus.com.br
+credicitrus-hml.docspider.com.br
 criteria-blog.digisupportdesk.com
 crm.discord-acc.ru
 crmtest.daw.de
@@ -2932,6 +2939,7 @@ dating2you.org
 datingleben.com
 davapost.com
 davefleet.com
+daveslusher.com
 davidjhughes.ca
 davidjoel.com
 davidmadacsi.com
@@ -2946,11 +2954,15 @@ db80698f56854981a0dc3395fa9216cc.svc.dynamics.com
 dblinc.com
 dblogistics.com
 dbu3d.com
+dccbkkr.in
 dcfinancialadvice.com.au
+dciscorenotes.staging.dcis.io
+dciscoretasks.staging.dcis.io
 ddconsultingservice.com
 dddcontrol.ro
 dddomainccc.com
 ddhvacservice.com
+ddvelop.de
 dea.sg
 deadlinkedin.it
 dealer-express.com.ua
@@ -3027,6 +3039,7 @@ desi-escort.com
 designet-alex.co.il
 designu-posters.dk
 destituencies.com
+detectivegrimoire.com
 dethinky.com
 detinetcallant.com
 detroitcommunitytech.org
@@ -3107,6 +3120,7 @@ digiwincloud.top
 diligentpackage.com
 dimarakis.de
 dimessing-parker.com
+dimforge.com
 dimosiografia.com
 dimsadhorod.com.ua
 dinauto-service-auto.ro
@@ -3116,6 +3130,7 @@ dinshagnadaco.com
 dionetaylor.com
 dioscorus.org
 diplomatsafe.ru
+dirittiallacitta.org
 dis.co.id
 disc.io
 discgolftradingpost.com
@@ -3126,6 +3141,7 @@ discodoge.org
 discoerbank.com
 discofever.hu
 discografias.me
+discographie-rameau.com
 disconworld.com
 discoovera.com
 discorante-exclusiv.li
@@ -3164,6 +3180,7 @@ disembarkappendix.com
 diskorid.ee
 dispatcheldservice.com
 disrootaffa.com
+disticor.co
 distractionware.com
 district160.com
 dito.com.mx
@@ -3174,6 +3191,7 @@ dixonsjamaican.com
 djclegal.com
 djelixir.com
 djelixir.jab.disco.to
+djlogin.dowjones.com
 djmelo.com
 djnitrous.com
 djonline.com
@@ -3345,10 +3363,12 @@ facebook.doozyinfo.in
 factoryservicemanual.net.daxiis.com
 files-us-prod.cms.commerce.dynamics.com
 files.dericon.de
+files.digitalprocurements.com
 first-in-caring.demowebsiteclient.com
 fis.infoblox.dynecon.cloud
 fmiweb.deltekenterprise.com
 food.discord-acc.ru
+form.dynobil.com
 fortissime.digitaltwilight.ca
 forum.diyperks.com
 frapp.dtdc.com
@@ -3372,6 +3392,7 @@ git.git.git.erp.discord-acc.ru
 git.git.git.git.business.discord-store.ru
 git.git.git.git.git.git.gitlab.git.git.login.dartunorro.com
 git.git.git.git.git.gitlab.business.discord-store.ru
+git.git.git.git.git.m.cloud.discord-accounts.ru
 git.git.git.git.git.vmail.desyatykh.ru
 git.git.git.git.gitlab.business.discord-store.ru
 git.git.git.gitlab.business.discord-store.ru
@@ -3456,6 +3477,7 @@ gitlab.git.gitlab.gitlab.git.business.discord-store.ru
 gitlab.git.gitlab.gitlab.gitlab.git.business.discord-store.ru
 gitlab.git.gitlab.gitlab.thenagainwww.2019.discord-accounts.ru
 gitlab.git.m.dtivaluetrucks.com
+gitlab.git.thenagainwww.2019.discord-accounts.ru
 gitlab.gitlab.bt.sve.dnsabr.comb.git.nl.herokuapp.com.dieverdorp.nl
 gitlab.gitlab.business.discord-store.ru
 gitlab.gitlab.firefox.phx1985.duckdns.orgpp.com.dieverdorp.nl
@@ -3469,6 +3491,7 @@ gitlab.gitlab.gitlab.gate.dentistrybliss.com
 gitlab.gitlab.gitlab.git.3378.uk.viptlab.herokuapp.com.dieverdorp.nl
 gitlab.gitlab.gitlab.git.git.business.discord-store.ru
 gitlab.gitlab.gitlab.git.git.gitlab.stage-api.difolts.ru
+gitlab.gitlab.gitlab.git.gitlab.old.discord-acc.ru
 gitlab.gitlab.gitlab.gitlab.git.business.discord-store.ru
 gitlab.gitlab.gitlab.gitlab.git.git.store.difolts.ru
 gitlab.gitlab.gitlab.gitlab.gitlab.git.business.discord-store.ru
@@ -3495,6 +3518,7 @@ herbal.doordelivery.pk
 hn-admin.dgengines.com.au
 horizon.demowebsiteclient.com
 hr.disano.it
+hssl.discord-accounts.ru
 identity.diligentcloudservices.com
 ikea.duqier.com
 images-au-prod.cms.commerce.dynamics.com
@@ -3602,6 +3626,8 @@ plex.anustart.dedyn.io
 plugin.discord-acc.ru
 pma.discord-acc.ru
 pma.discord-store.ru
+podklady.dopravniinfo.cz
+portal.dkg.nl
 pos.delivermyvape.co.uk
 price-support.datawithcar.com
 private.delft.nl
@@ -3646,6 +3672,7 @@ shopdisney.disney.co.jp
 shopify.discord-acc.ru
 sistema.discord-accounts.ru
 skd.donghee.co.kr
+smartdispatchdev.dieboldnixdorf.com.br
 socipost.digitalpoonam.store
 soti1b.datema.se
 sso.dnbi.com
@@ -3799,6 +3826,7 @@ www.daydesconto.com.br
 www.daysafe2u.com
 www.daysixcoffee.com
 www.dbvonline.de
+www.debrahnovak.au
 www.decotidien.com
 www.dedoimedo.com
 www.deenipost.com
@@ -3914,6 +3942,7 @@ www.drivespark.com
 www.drk-stuttgart-shop.de
 www.drmusakhan.digitalservice.club
 www.droparticle.com
+www.drwellness.care
 www.dsautomobiles.com.co
 www.dsm.edu.uy
 www.dtf.com.co
