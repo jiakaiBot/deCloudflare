@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Use another CDN to get certificate](https://github.com/xcode75/XMPlus/issues/10)
 - [epublibre (updating) The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/683)
 - [Incompatible with Cloudflare -> Rocket Loader](https://github.com/the-djmaze/snappymail/issues/882)
 - [Trying to convert a PEM public key to JWK](https://github.com/panva/jose/issues/495)
