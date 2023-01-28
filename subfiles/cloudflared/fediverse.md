@@ -18772,7 +18772,7 @@ Here's a list of public Fediverse services.
 | `m-thompson.co.uk` | Yes |
 | `m-uru.website` | No |
 | `m.atm.pl` | No |
-| `m.onl` | No |
+| `m.onl` | Yes |
 | `m.to` | No |
 | `m0.lc` | Yes |
 | `m0e.space` | Yes |
@@ -19593,6 +19593,7 @@ Here's a list of public Fediverse services.
 | `mastodon.im` | Yes |
 | `mastodon.in.th` | No |
 | `mastodon.in.ua` | No |
+| `mastodon.info` | No |
 | `mastodon.international` | Yes |
 | `mastodon.irish` | No |
 | `mastodon.is` | No |
@@ -36108,7 +36109,7 @@ Here's a list of public Fediverse services.
 | `xabid.com` | No |
 | `xabirequejo.eus` | No |
 | `xaetacore.net` | No |
-| `xajh.org` | No |
+| `xajh.org` | Yes |
 | `xaloc.space` | No |
 | `xalthe.com` | Yes |
 | `xaltsc.dev` | No |
@@ -37215,8 +37216,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,762 |
-| Normal | 28,410 |
+| Cloudflare | 8,764 |
+| Normal | 28,409 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
