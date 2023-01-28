@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,487 |
-| social | 3,503 |
-| net | 2,805 |
+| com | 5,488 |
+| social | 3,504 |
+| net | 2,806 |
 | org | 2,008 |
 | de | 1,887 |
 
@@ -7823,6 +7823,7 @@ Here's a list of public Fediverse services.
 | `die-progressiven.de` | No |
 | `die-stammrunde.de` | No |
 | `die3um2.de` | No |
+| `diede.app` | No |
 | `diedyoung.com` | No |
 | `diefreien.club` | No |
 | `diego.codes` | No |
@@ -11672,6 +11673,7 @@ Here's a list of public Fediverse services.
 | `gandi.net` | Yes |
 | `gandi.social` | No |
 | `ganesha.org.br` | No |
+| `ganesha.social` | No |
 | `ganeshapress.net` | No |
 | `gangneux.net` | Yes |
 | `gangstalking.services` | Yes |
@@ -15514,6 +15516,7 @@ Here's a list of public Fediverse services.
 | `jgaskins.wtf` | No |
 | `jgc.org` | Yes |
 | `jgregorymcverry.com` | No |
+| `jh.do` | No |
 | `jhewitt.net` | Yes |
 | `jhilgert.de` | No |
 | `jhnc.me.uk` | No |
@@ -20974,6 +20977,7 @@ Here's a list of public Fediverse services.
 | `mmpr.ca` | No |
 | `mmrw.de` | No |
 | `mmunin.com` | Yes |
+| `mmwelch.net` | No |
 | `mn.ms` | No |
 | `mn.social` | No |
 | `mn9.de` | No |
@@ -25315,7 +25319,7 @@ Here's a list of public Fediverse services.
 | `pimoore.ca` | No |
 | `pimux.de` | No |
 | `pina.space` | Yes |
-| `pinbun.com` | Yes |
+| `pinbun.com` | No |
 | `pinc.tube` | No |
 | `pine.cab` | No |
 | `pinellas.space` | No |
@@ -25731,6 +25735,7 @@ Here's a list of public Fediverse services.
 | `point.community` | Yes |
 | `pointless.net` | No |
 | `pointless.one` | No |
+| `pointofviewpoint.com` | No |
 | `pointsecu.fr` | No |
 | `poisson.me` | Yes |
 | `poitr.us` | Yes |
@@ -27018,7 +27023,7 @@ Here's a list of public Fediverse services.
 | `raxx.la` | No |
 | `rayci.st` | No |
 | `raygoon.tk` | Yes |
-| `raygungothic.xyz` | Yes |
+| `raygungothic.xyz` | No |
 | `raymondtec.com` | No |
 | `rayn.bo` | Yes |
 | `raynor.haus` | Yes |
@@ -29834,8 +29839,8 @@ Here's a list of public Fediverse services.
 | `smolwofl.com` | Yes |
 | `smooth.guru` | No |
 | `smoothbrain.top` | No |
-| `smoothdream.me` | Yes |
-| `smoothdream.online` | Yes |
+| `smoothdream.me` | No |
+| `smoothdream.online` | No |
 | `smop.org` | No |
 | `smores.town` | No |
 | `smseden.com` | Yes |
@@ -37177,8 +37182,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,759 |
-| Normal | 28,375 |
+| Cloudflare | 8,755 |
+| Normal | 28,384 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
