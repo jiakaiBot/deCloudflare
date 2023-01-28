@@ -26477,6 +26477,7 @@ Here's a list of public Fediverse services.
 | `qaf.one` | Yes |
 | `qag.me` | No |
 | `qahel.io` | No |
+| `qamoe.cyou` | Yes |
 | `qapp.cloud` | No |
 | `qaq.gay` | Yes |
 | `qaq.jp` | Yes |
@@ -37210,7 +37211,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,760 |
+| Cloudflare | 8,761 |
 | Normal | 28,407 |
 
 
