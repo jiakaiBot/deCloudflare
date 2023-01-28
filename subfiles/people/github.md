@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [epublibre (updating) The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/683)
 - [Incompatible with Cloudflare -> Rocket Loader](https://github.com/the-djmaze/snappymail/issues/882)
 - [Trying to convert a PEM public key to JWK](https://github.com/panva/jose/issues/495)
 - [Authorization fails on Linux server (headless)](https://github.com/terry3041/pyChatGPT/issues/115)
