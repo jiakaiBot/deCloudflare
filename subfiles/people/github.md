@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [cannot login to my readthedocs account from Hamburg/Germany](https://github.com/readthedocs/readthedocs.org/issues/9959)
 - [Use another CDN to get certificate](https://github.com/xcode75/XMPlus/issues/10)
 - [epublibre (updating) The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/683)
 - [Incompatible with Cloudflare -> Rocket Loader](https://github.com/the-djmaze/snappymail/issues/882)
