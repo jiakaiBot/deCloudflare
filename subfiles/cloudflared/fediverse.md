@@ -24839,6 +24839,7 @@ Here's a list of public Fediverse services.
 | `pavot.ca` | No |
 | `paw.best` | No |
 | `paw.cafe` | Yes |
+| `paw.college` | Yes |
 | `paw.su` | Yes |
 | `pawb.fun` | Yes |
 | `pawbs.club` | No |
@@ -37216,7 +37217,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,764 |
+| Cloudflare | 8,765 |
 | Normal | 28,409 |
 
 
