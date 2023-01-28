@@ -1712,10 +1712,12 @@ api-preprod01.ha-medibank.com
 api.fs.haufe.io
 api.hcep.qa
 api.heliportal.nl
+api.helloextend.com
 api.hesta.com.au
 api.hillrom.com
 api.hillsretailorder.com
 api.hilton.io
+api4.hungakiraroblox.vn
 app.hakken.life
 app.info.haymarketmedicalnetwork.com
 aptest.hillagroup.fi
@@ -1769,6 +1771,11 @@ bt-r1-staging-api.hubble.in
 bt-r1-staging-cs.hubble.in
 burtons.hamilton-grant.com
 ca.halcom.com
+captcha2.envira.gagat-komodo.c.host2host.id
+captcha2.envira.sap-komodo.c.host2host.id
+captcha5.envira.gagat-komodo.c.host2host.id
+captcha7.envira.sap-komodo.c.host2host.id
+captcha8.envira.gagat-komodo.c.host2host.id
 caroupay-banks-choice.herokuapp.com
 caroupay-banks-selection.herokuapp.com
 case.house.gov
@@ -1900,7 +1907,11 @@ galleries.hitzefrei.com
 gateway.hallomob.com
 gen.hr-mg-logistics.jp
 git.git.git.git.g8mlxqkxvqgoenj.touch.hackbanks.com
+git.git.git.git.git.git.shop.hrnewyear.ru
+git.git.git.git.intranet.hrnewyear.ru
 git.git.git.git.shop.hrnewyear.ru
+git.git.git.new.hrnewyear.ru
+git.git.git.sms.hrnewyear.ru
 git.git.gitlab.git.gitlab.www.instagram.hrnewyear.ru
 git.gitlab.git.git.git.gitlab.adminportal.hrnewyear.ru
 git.gitlab.git.git.gitlab.gitlab.kbvnywv.hayat-schutz.de
@@ -1922,6 +1933,7 @@ gitlab.git.gitlab.status.hackway.su
 gitlab.gitlab.git.git.git.grocery.hrnewyear.ru
 gitlab.gitlab.git.gitlab.git.gitlab.ns5.hronologica.com
 gitlab.gitlab.git.gitlab.gitlab.kbvnywv.hayat-schutz.de
+gitlab.gitlab.gitlab.git.git.grocery.hrnewyear.ru
 gitlab.gitlab.gitlab.gitlab.blog.himchistka-dom.ru
 gitlab.localhost.hrnewyear.ru
 gmail2.hammartunskolekorps.com
@@ -1935,6 +1947,7 @@ hacloudservice.com
 haewongroup.com
 hagakure-crew.com
 haircarehiroblog.com
+hakimi.hjnitro.com
 hako.hera-stage.de
 haktha.com
 halalhomedelivery.ca
@@ -2003,6 +2016,7 @@ heartaerospace.com
 heaventurizm.com.tr
 heavymetalrarities.com
 heavyrnews.name
+hedgecraftwitch.com
 hedleytradingpost.ca
 hefoblast.com
 heggteknologi.no
@@ -2058,6 +2072,7 @@ heysistravelsafe.com
 hhsecurity.org
 hibouchushou.net
 high-authority29.ml
+highbtcminingpro.com
 highlow.com
 highoctanemerch.com
 hightechreviews.net
@@ -2085,11 +2100,12 @@ historipedia.org
 history.mk
 historysymposium.com
 hitachiservicecenterinkandivalieast.xyz
+hititmobilya.com
 hitoiroblog.com
 hitroblog.huljag.nl
 hjgjkyc.herokuapp.com
 hjlogistical.com
-hkclaim100.com
+hjnitro.com
 hm-trust-ag.de
 hmafhczsos.com
 hoangminhservice.com
@@ -2151,13 +2167,16 @@ hsbcverification.com
 hscscotland.scot
 hsst38.hochschulstart.de
 html5doctor.com
+htpublishers.es
 htservermanager.com
 https-roblox.com.ge
 https-www-1inch.io
+httsp-steamcommunity.ru
 htwbhry.in
 hubcustomersupport.com
 huber3.de
 huhubet311.com
+huidhonger.com
 huighbyftdxrs.online
 huizenga.house.gov
 hulaevents.pl
@@ -2173,6 +2192,7 @@ hunter4ld10.com
 hunterangus.com
 hunterbessell.com
 hunterdouglasfabrics.com
+huntergardencare.ie
 hunterhalfhilldesign.com
 hunterideias.com.br
 hunterlife.jp
@@ -2207,6 +2227,7 @@ hverdagsnadia.dk
 hvh.org.nz
 hxmi.com
 hydro-maximum.com.ua
+hydrogencms.net
 hygientsmartservice.com
 hyouikuukan.com
 hypensquare.net
@@ -2230,6 +2251,7 @@ impressum.hes.de
 infinite-springs-44153.herokuapp.com
 inkivaarikauppa.cloud21.hostingpalvelu.fi
 intelligence.house.gov
+intranet.handsoft.com.uy
 iot.horttech.app
 ipay.hrnewyear.ru
 iqconnect.house.gov
@@ -2281,6 +2303,7 @@ mypixels.hw2k.com
 nanocephalic-rameses.herokuapp.com
 navika.hackernwar.com
 new.hrnewyear.ru
+ngbeta.hotelhub.net
 oasys.homecredit.co.id
 octosyllabic-disc.herokuapp.com
 oidc.idp.elogin.hraccess-e-access.page
@@ -2310,9 +2333,12 @@ realizesolucoesfinanceirass.herokuapp.com
 register.holidaykataloge.de
 repugnant-invalidity.herokuapp.com
 ritchietorres.house.gov
+robloxexploiting.com.hynos.net
 router.hereapi.com
 s.hbdongda.cn
 saas.haugazel.be
+sacramentohmongnewyear.hmongfree.com
+salman.hjnitro.com
 saosepe.hcpa.edu.br
 sautinkari.cloud21.hostingpalvelu.fi
 sberbank.sber.avito.blablacar.avito.avito.hearing-aid-4ease.com
@@ -2324,6 +2350,7 @@ servicedesk.humanativaspa.it
 serviceportal.hlmgroup.as
 shopify.hrnewyear.ru
 simiteru8150.hatenablog.com
+sissy-defalcation.herokuapp.com
 softhearted-inhumanity.herokuapp.com
 sroom.hcu.edu.tw
 ss.hivatalosalkoholszonda.hu
@@ -2368,6 +2395,7 @@ va05-dyno-funnel.runtime.herokai.com
 vecon.hostserv.nl
 verbose-shrapnel.herokuapp.com
 vpn.helbling.ch
+wdc-evrgrn-fdib.lp.hsbc.co.uk
 webdisk.hamzarebronja.com
 webdisk.happynewyearquotes.info
 webdisk.helpjus.com.br
@@ -2449,6 +2477,7 @@ www.hellolisting.com.au
 www.helpdesk.co.rs
 www.helpinghandsrvservice.com
 www.helpinghandssupportivehousing.org
+www.helpnbruidjie.co.za
 www.helppackage.herradesign.ro
 www.hengemusic.com
 www.hepsibahis.com
@@ -2462,6 +2491,7 @@ www.hhc-ut.net
 www.hiawathaialegionpost735.org
 www.hifisingapore.com
 www.highcpmrevenuenetwork.com
+www.highdefinition.agency
 www.highlevelgames.ca
 www.hikarimiso.shop
 www.hillspet.be
@@ -2474,6 +2504,7 @@ www.hm-trust-ag.de
 www.hme-tech.de
 www.hmpharmacon.com
 www.hno-aerzte-mainz.de
+www.hoa44trk.com
 www.hoangminhservice.com
 www.hobo.nl
 www.hochheuser.ch
@@ -2500,7 +2531,6 @@ www.hostingsupport4u.com
 www.hoteliermiddleeast.com
 www.hotelnewsresource.com
 www.hotelsportinglivigno.com
-www.hotsasdalasane.net
 www.house-pestcontrol.com
 www.housing.vic.gov.au
 www.howellfarmdozerservice.com
