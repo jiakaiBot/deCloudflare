@@ -367,6 +367,7 @@ Do not create new issue or we will close it as duplicate.
 | [AfizOmari@twitter](https://twitter.com/AfizOmari/status/1404102260293054466) | advertise |
 | [afrash@twitter](https://twitter.com/afrash/status/1369943509839585281) | advertise |
 | [Afro02040034@twitter](https://twitter.com/Afro02040034/status/1608224194394832897) | advertise |
+| [afsadevdigital@twitter](https://twitter.com/afsadevdigital/status/1619194960347267073) | advertise |
 | [AfshinFshnsm@twitter](https://twitter.com/AfshinFshnsm/status/1578027381033340935) | advertise |
 | [Afsi70019929@twitter](https://twitter.com/Afsi70019929/status/1599064914156408833) | advertise |
 | [aftab_afsal@twitter](https://twitter.com/aftab_afsal/status/1548610479810961408) | advertise |
