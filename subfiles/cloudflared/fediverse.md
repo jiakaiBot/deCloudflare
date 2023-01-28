@@ -31376,6 +31376,7 @@ Here's a list of public Fediverse services.
 | `swiss-hobby-entertainment.ch` | No |
 | `swiss-talk.net` | Yes |
 | `swiss.social` | No |
+| `swisstoots.ch` | No |
 | `swisttal.social` | No |
 | `switchserver.fr` | No |
 | `switter.at` | No |
@@ -37243,7 +37244,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,771 |
-| Normal | 28,428 |
+| Normal | 28,429 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
