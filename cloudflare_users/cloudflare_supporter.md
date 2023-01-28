@@ -565,6 +565,7 @@ Do not create new issue or we will close it as duplicate.
 | [Alireza06559988@twitter](https://twitter.com/Alireza06559988/status/1611630338618593281) | advertise |
 | [Alireza38854410@twitter](https://twitter.com/Alireza38854410/status/1590028048241659904) | advertise |
 | [Alireza47491461@twitter](https://twitter.com/Alireza47491461/status/1384770721897984000) | advertise |
+| [Alireza73451812@twitter](https://twitter.com/Alireza73451812/status/1619299096967237633) | advertise |
 | [alirezas998@twitter](https://twitter.com/alirezas998/status/1607533612043276293) | advertise |
 | [alirezasalahi10@twitter](https://twitter.com/alirezasalahi10/status/1567979767273762817) | advertise |
 | [AlirezaSarfrazi@twitter](https://twitter.com/AlirezaSarfrazi/status/1617160276452978691) | advertise |
@@ -2061,6 +2062,7 @@ Do not create new issue or we will close it as duplicate.
 | [Congtru16@twitter](https://twitter.com/Congtru16/status/1403711950945587200) | advertise |
 | [congtytongluc@twitter](https://twitter.com/congtytongluc/status/1501822389621264385) | advertise |
 | [Conheo93476222@twitter](https://twitter.com/Conheo93476222/status/1400096830415798274) | advertise |
+| [conmemay99999@twitter](https://twitter.com/conmemay99999/status/1619318443383361537) | advertise |
 | [ConnectTimeOut@twitter](https://twitter.com/ConnectTimeOut/status/1512081926605062156) | advertise |
 | [ConnersHua@twitter](https://twitter.com/ConnersHua/status/1503371931466174465) | advertise |
 | [connordoesdev@twitter](https://twitter.com/connordoesdev/status/1531927162042953728) | advertise |
@@ -2097,8 +2099,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
