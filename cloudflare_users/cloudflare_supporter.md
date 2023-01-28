@@ -1742,6 +1742,7 @@ Do not create new issue or we will close it as duplicate.
 | [byambamk@twitter](https://twitter.com/byambamk/status/1390722042400444418) | advertise |
 | [Byarsar2@twitter](https://twitter.com/Byarsar2/status/1391089544322158594) | advertise |
 | [BYfpyglTtMHPB8s@twitter](https://twitter.com/BYfpyglTtMHPB8s/status/1537369104193290240) | advertise |
+| [ByJaccoB@twitter](https://twitter.com/ByJaccoB/status/1619330056534507520) | advertise |
 | [ByKu24674252@twitter](https://twitter.com/ByKu24674252/status/1470865823606587392) | advertise |
 | [Byo_Anago@twitter](https://twitter.com/Byo_Anago/status/1468858493096841221) | advertise |
 | [byshwbbjy@twitter](https://twitter.com/byshwbbjy/status/1538951698038808576) | advertise |
@@ -8585,6 +8586,7 @@ Do not create new issue or we will close it as duplicate.
 | [qn_duong@twitter](https://twitter.com/qn_duong/status/1391105546585927680) | advertise |
 | [qomar235@twitter](https://twitter.com/qomar235/status/1553425731673133057) | advertise |
 | [qosai47002182@twitter](https://twitter.com/qosai47002182/status/1380123705238507520) | advertise |
+| [QTED52@twitter](https://twitter.com/QTED52/status/1619330406364610560) | advertise |
 | [Qu99898489@twitter](https://twitter.com/Qu99898489/status/1397203398479556612) | advertise |
 | [QuaiRau@twitter](https://twitter.com/QuaiRau/status/1387606927006322692) | advertise |
 | [quan02587035@twitter](https://twitter.com/quan02587035/status/1404362231333023755) | advertise |
@@ -11653,6 +11655,7 @@ Do not create new issue or we will close it as duplicate.
 | [Yasar_USLU_@twitter](https://twitter.com/Yasar_USLU_/status/1479886743633600516) | advertise |
 | [yash0444@twitter](https://twitter.com/yash0444/status/1397217640729522186) | advertise |
 | [yash44828366@twitter](https://twitter.com/yash44828366/status/1394641996401176580) | advertise |
+| [YasharTwitt1@twitter](https://twitter.com/YasharTwitt1/status/1619329067857362944) | advertise |
 | [yashhhh04@twitter](https://twitter.com/yashhhh04/status/1378478478022991874) | advertise |
 | [yashhshd@twitter](https://twitter.com/yashhshd/status/1403777236600119299) | advertise |
 | [yasinozvar@twitter](https://twitter.com/yasinozvar/status/1449656098777088000) | advertise |
