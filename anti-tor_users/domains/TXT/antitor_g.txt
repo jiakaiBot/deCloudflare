@@ -2075,6 +2075,7 @@ apps.wdiv-live.gmg.io
 aruba.fattura.goldschmiede-kastner.de
 arunsingh009.github.io
 arvindhsundar.github.io
+aryamohan7.github.io
 ashutosh86941.github.io
 assets-origin.eks.production.govuk.digital
 atencionalcliente.grupoherrerobrigantina.eu
@@ -2082,6 +2083,7 @@ atomecowollot.godaddysites.com
 auth.dev.gruposuperdigital.com
 auth.gltheater.com
 authcontrol.gruposuperdigital.com
+autodiscover.gamingdiscordserver.com
 autodiscover.goldworkshop.net
 ayomide200024.github.io
 ayushkhadgi.github.io
@@ -2123,6 +2125,7 @@ btbusneiss.github.io
 btibuisnes.github.io
 btibusniess.github.io
 buh.goodnet.ru
+business.get-your-rates-right.com
 business.google-shopping.club
 c2042fd9fb7e3dcc4e80136426683e67.safeframe.googlesyndication.com
 c61bed2e4e4b8a52cda65f3fc103a68f.safeframe.googlesyndication.com
@@ -2148,6 +2151,7 @@ claraj101.github.io
 clever-gleaming-chance.glitch.me
 click.e.gruporecovery.com
 click.email.greatwolfmail.com
+click.gavi-vaccinealliance.org
 click.info.gestore.com
 click.info.globallearnclub.com
 click.info.gosafeguard.com
@@ -2183,11 +2187,13 @@ content-storage-p2.googleapis.com
 content.govdelivery.com
 coordinated-wax-file.glitch.me
 cpanel.gadluiscordero.gob.ec
+cpanel.gamingdiscordserver.com
 cpanel.geophysnyc.com
 cpanel.geraldicoding.my.id
 cpanel.goldworkshop.net
 cpanel.receipts.org.uk.geoffrice.net
 cpcalendars.gadluiscordero.gob.ec
+cpcalendars.gamingdiscordserver.com
 cpcalendars.generalvertex.com
 cpcalendars.geophysnyc.com
 cpcalendars.gmais.srv.br
@@ -2198,6 +2204,7 @@ cpcalendars.gruposdediscord.com
 cpcalendars.gsbteck.com
 cpcalendars.pmdgarageservices.garageinvoice2.co.uk
 cpcontacts.gadluiscordero.gob.ec
+cpcontacts.gamingdiscordserver.com
 cpcontacts.geophysnyc.com
 cpcontacts.gestaoescolar.website
 cpcontacts.goldworkshop.net
@@ -2228,6 +2235,7 @@ demo.goldworkshop.net
 design.graceduong.com
 dev-atlas.idam.gehealthcloud.io
 dev-support.galaxyforms.com
+dev.gammon.de
 dev.gridvision.com
 develop-web.gsa-cs.com
 devendra-gaur.github.io
@@ -2235,6 +2243,8 @@ dhpsgapgtnerafshsya-omylbglhrbiogjikwwi-yieftjnlyyfdbacsjwu.glitch.me
 different-marsh-date.glitch.me
 dig.abclocal.go.com
 directaccess.glasgow.gov.uk
+directaccess.glostrup.dk
+discord.greestudio.com
 discord.guden.lol
 discord.pseiblog.blog.mx4.getthefactshomeinspection.com
 discordcr.github.io
@@ -2254,6 +2264,7 @@ doc-08-5g-docs.googleusercontent.com
 doc-08-6k-docs.googleusercontent.com
 doc-08-70-docs.googleusercontent.com
 doc-08-9g-docs.googleusercontent.com
+doc-08-ao-docs.googleusercontent.com
 doc-0c-14-docs.googleusercontent.com
 doc-0c-38-docs.googleusercontent.com
 doc-0c-4s-docs.googleusercontent.com
@@ -2269,6 +2280,7 @@ doc-0k-5s-docs.googleusercontent.com
 doc-0k-78-docs.googleusercontent.com
 doc-0k-7k-docs.googleusercontent.com
 doc-0k-90-docs.googleusercontent.com
+doc-0o-18-docs.googleusercontent.com
 doc-0o-38-docs.googleusercontent.com
 doc-0o-5o-docs.googleusercontent.com
 doc-0o-70-docs.googleusercontent.com
@@ -2338,6 +2350,7 @@ fa0394a99e221cd38ec6b8d572f7febf.safeframe.googlesyndication.com
 fa6de5170aca924ac17e1640385f06ec.safeframe.googlesyndication.com
 facebookk-k.github.io
 fairdatasociety.github.io
+familiar-ossified-citron.glitch.me
 fb-account-activation.github.io
 fb5edbc62694a0b662e4ea9d34896ff2.safeframe.googlesyndication.com
 fcmtoken.googleapis.com
@@ -2356,7 +2369,9 @@ firmware.gigabit.io
 flicker-lacy-diplodocus.glitch.me
 fluorescent-obvious-zephyr.glitch.me
 flying-endurable-pipe.glitch.me
+foamy-translucent-sardine.glitch.me
 fondy.generali.sk
+fonta1n3.github.io
 fonts.googleapis.com
 fonts.gstatic.com
 fr.grantcapitalbank.com
@@ -2397,6 +2412,7 @@ gameprogrammingpatterns.com
 gamer-days.jp
 gamestop-wallet.online
 gamethedungeon.com
+gamingdiscordserver.com
 gamingpastime.com
 gamm.gadeloitte.com
 ganesh-m19.github.io
@@ -2410,6 +2426,7 @@ garchencanada.com
 gardapest.my.id
 garonwhited.com
 garumlabia.com
+garybake.com
 garystu.art
 gas-elec.org.uk
 gaslineservice.com
@@ -2458,6 +2475,7 @@ gemaksecurity.co.zw
 gembank.lk
 geminiguitar.com
 gencaslan.com
+gendergp.com
 generalaviationnews.com
 genericgames.co.nz
 genervest.org
@@ -2469,6 +2487,7 @@ gentmulaj1.github.io
 genvideos.com
 geoma.casa
 geometry-almaty.kz
+geometrydashe.ru
 geopoliticaeconomica.com
 geopoliticaleconomy.com
 george-erste-sparkass-at.com
@@ -2618,6 +2637,7 @@ godwin-kachi.github.io
 goeringer-erdbewegungen.de
 goflattrack.com
 gokannomachi.site
+golali.id
 goldworkshop.net
 golfsimulatorforum.com
 golperjhuri.com
@@ -2672,6 +2692,7 @@ greenfo.hu
 greenfuture.pt
 greenpeace.org.uk
 greenronin.com
+greenupdate.dk
 grehtrsan.com
 greyli.com
 grglobalactivity.com
@@ -2730,7 +2751,9 @@ iris-battle-morning.glitch.me
 irshadabdulla19.github.io
 ja2r7.app.goo.gl
 jagged-abrupt-baritone.glitch.me
+jfsjd-mum-saiprasad.github.io
 jma.genieesspv.jp
+jmt17.google.co.za
 jnn-pa.googleapis.com
 joaoabreu004.github.io
 joaom22zl1.github.io
@@ -2787,7 +2810,9 @@ novo.gruporecovery.com
 oauth-playground.glitch.me
 obvious-holistic-background.glitch.me
 omarothman20052.github.io
+omniauth.globusbank.com
 one.google.com
+openoms.github.io
 ora4.godaddysites.com
 orangbaik.gopost.id
 orders.gazettextra.com
@@ -2836,6 +2861,8 @@ remote.gbcma.vic.gov.au
 reunion-mauritius.govmu.org
 risk-eip.getneteurope.com
 ritendragour.github.io
+rr1---sn-5uaezned.googlevideo.com
+rr1---sn-5ualdnsd.googlevideo.com
 rr1---sn-p5qddn76.googlevideo.com
 rr1---sn-p5qlsnrl.googlevideo.com
 rr1---sn-p5qs7nzk.googlevideo.com
@@ -2845,9 +2872,12 @@ rr2---sn-p5qlsn7s.googlevideo.com
 rr2---sn-qxoedne7.googlevideo.com
 rr2---sn-qxoednee.googlevideo.com
 rr3---sn-p5qs7nzr.googlevideo.com
+rr4---sn-5ualdnls.googlevideo.com
 rr4---sn-p5qddn7z.googlevideo.com
 rr4---sn-p5qlsnrr.googlevideo.com
 rr4---sn-vgqskne6.googlevideo.com
+rr4---sn-vgqsknll.googlevideo.com
+rr5---sn-5ualdnsy.googlevideo.com
 rr5---sn-p5qlsnd6.googlevideo.com
 runscope-datadog-integration-staging.getcruise.com
 sahil-github011.github.io
@@ -2899,6 +2929,7 @@ toolbarqueries.google.com.gh
 toolbarqueries.google.fr
 tour-partner-api.gmarket.com
 tpc.googlesyndication.com
+tpp.globusbank.com
 tracking.get-your-rates-right.com
 trading.globalprime.com
 translate.google.com
@@ -2927,12 +2958,14 @@ vpn01-thn.eu1.gknaerospace.com
 wbm-lb.golfyoyaku.jp
 webapi.glshk.com
 webdisk.gadluiscordero.gob.ec
+webdisk.gamingdiscordserver.com
 webdisk.gautamgurukul.com
 webdisk.geophysnyc.com
 webdisk.goldenstarnetworks.com
 webdisk.guiamedicocarioca.com.br
 webdisk.gymrepairservicepune.com
 webmail.gadluiscordero.gob.ec
+webmail.gamingdiscordserver.com
 webmail.geophysnyc.com
 webmail.ghayandibali.com
 webmail.grasmeremotors.garageinvoice2.co.uk
@@ -2971,6 +3004,7 @@ www.galeriemaubert.com
 www.galpon.org
 www.galwaypropertyservices.com
 www.gamecoinwallet.com
+www.gamingdiscordserver.com
 www.ganahamasako.com
 www.ganymede.tv
 www.ganzheitliche-wohnkonzepte.de
@@ -3061,6 +3095,7 @@ www.governo.it
 www.governor.pa.gov
 www.governor.virginia.gov
 www.gp-ruesselsheim.de
+www.gpschools.org
 www.gpsmultitrack.store
 www.gpwsecurity.com.au
 www.gpwsecuritynsw.com.au
@@ -3109,6 +3144,7 @@ www.nordicom.gu.se
 www.paketwisata.gotravelombok.com
 www.pmyupdate.com.gulabigangofficial.in
 www.post.gooviral.net
+www.prazdniny.ilogin.gkny.fr
 www.proper-accounting.greenway-travel.net
 www.punegasstoveservice.online.gasstoverepairnearme.co.in
 www.rahasiaorangtua.generosgold.id
@@ -3132,6 +3168,7 @@ www.yearmoney.getf41.shop
 www.zafiroapartbuenosaires.com.gof1brasil.com
 yahvi1.godaddysites.com
 yearmoney.getf41.shop
+yettyusdusdusd84.godaddysites.com
 yhmaler02.godaddysites.com
 ymailuser4.godaddysites.com
 youparth18.github.io
