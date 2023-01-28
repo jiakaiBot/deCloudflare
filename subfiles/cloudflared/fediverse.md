@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,495 |
-| social | 3,512 |
+| com | 5,497 |
+| social | 3,514 |
 | net | 2,808 |
-| org | 2,011 |
+| org | 2,012 |
 | de | 1,889 |
 
 
@@ -1493,6 +1493,7 @@ Here's a list of public Fediverse services.
 | `ameci.online` | Yes |
 | `ameci.org` | Yes |
 | `amecomidon.com` | No |
+| `amedcalf.com` | No |
 | `amefur.asia` | No |
 | `amemiya.work` | No |
 | `amencarini.com` | No |
@@ -3926,6 +3927,7 @@ Here's a list of public Fediverse services.
 | `bobiko.blog` | Yes |
 | `bobiko.dev` | Yes |
 | `bobiverse.social` | Yes |
+| `bobs.social` | No |
 | `bobsica.com` | No |
 | `bobwertz.com` | No |
 | `bocc.de` | No |
@@ -4202,6 +4204,7 @@ Here's a list of public Fediverse services.
 | `brands.chat` | No |
 | `brands.town` | No |
 | `brank.me` | No |
+| `brannigandraic.com` | No |
 | `brantley.world` | No |
 | `brap.party` | No |
 | `brapbarn.farm` | Yes |
@@ -5116,6 +5119,7 @@ Here's a list of public Fediverse services.
 | `chameth.com` | No |
 | `chamook.lol` | No |
 | `champagne.io` | No |
+| `champis.social` | No |
 | `champlain.cc` | Yes |
 | `chancellor.cc` | No |
 | `chancellor.social` | No |
@@ -12412,6 +12416,7 @@ Here's a list of public Fediverse services.
 | `goneaway.social` | No |
 | `gonerd.me` | Yes |
 | `gonext.gg` | Yes |
+| `gonit.org` | Yes |
 | `gonsphere.tk` | No |
 | `gonta.net` | No |
 | `gonzohacker.com` | No |
@@ -37220,8 +37225,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,767 |
-| Normal | 28,410 |
+| Cloudflare | 8,768 |
+| Normal | 28,414 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
