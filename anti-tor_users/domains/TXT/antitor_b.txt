@@ -2856,6 +2856,7 @@ amazon-pay.brightspotcdn.com
 amazon.billing-prime.online
 amietravels.blogspot.com
 amp.bradenton.com
+andrewpoppy.bandcamp.com
 ansysaccount.b2clogin.com
 aokhoahocsenprint25.blogspot.com
 aon.police.be.ch
@@ -2908,10 +2909,13 @@ apple15090739.brizy.site
 applycreditcard.bni.co.id
 apps.bni-life.co.id
 ar.bankjazeera.com
+arforest.bandcamp.com
 arnavutkoftepiyaz.business.site
+ashertuil.bandcamp.com
 asipulse.bureauveritas.com
 aspone-sandbox.biapi.pro
 auth-devops.dv.bond-pro.com
+auth-sandboxobk.bancorandon.com
 auth-test.blackpin.tech
 auth.3024vpn.bbmb.me
 auth.bbkoord.info
@@ -3054,6 +3058,7 @@ battlebornalarm.com
 bauser.com.br
 baxkit.com
 baykimya.com.tr
+baytalsbah.net
 bb-service.dk
 bbet88.win
 bbjupdate.com
@@ -3100,6 +3105,7 @@ belmoremedical.com.au
 belsoft-collaboration.ch
 belya-market.com.ua
 bemlegalizado.com.br
+benbkoningsbosch.nl
 benchmark.co.ke
 benderlawfrm.com
 bengalsecurityservice.com
@@ -3303,6 +3309,7 @@ bloxaninvest.com
 bloxbuildeg.com
 bloxeon.com
 bloxevo.com
+bloxhamfc.co.uk
 bloxoncloud.com
 bloxwichpeople.com
 blue-peacock.com
@@ -3320,6 +3327,7 @@ bmedonline.it
 bmfce.com
 bmforum.boringmoney.co.uk
 bmsmedicalsolutions.com
+bmtbima.co.id
 bmxmuseum.com
 bnc.ca
 bncmpprod.b2clogin.com
@@ -3333,6 +3341,7 @@ boagotinha.online
 boatheeh.com
 bobilkjeden.no
 bobinaimpressoratermica.com.br
+bodil.lol
 bodydefendersmovie.com
 bodyextremes.com
 boelhouwer-familie.nl
@@ -3426,6 +3435,7 @@ brotzeitservice-augsburg.de
 browsiprod.com
 brsf.brins.co.id
 brucefeiler.bulletin.com
+brugmanziah.bandcamp.com
 bruiloftfiets.nl
 brussels-express.eu
 bs-graveservice.no
@@ -3498,6 +3508,7 @@ cascade-parse-server.cascade-prod.funkitron.gcp.bigfishgames.com
 cases.byenscomputerservice.dk
 cashpad-prod.betc.fr
 cdn.bitrix24.com
+cdn.brandfolder.io
 cdn2.bitwiseglobal.com
 chikkoku.bamboodom.jp
 chikungunya.butantan.gov.br
@@ -3634,6 +3645,7 @@ efideu.b2clogin.com
 ekaterina255.blogspot.com
 email.bahaa-ayteh.com
 empirum.behn.de
+enolafall.bandcamp.com
 entitymanager-d.bindg.com
 epos-card.com.bqyfoods.com
 eremiterecords.bandcamp.com
@@ -3671,9 +3683,11 @@ gitlab.gitlab.git.panel.brienhopkins.com
 givingblox.b2clogin.com
 glutenfree01.bitbucket.io
 go.billionheirenterprises.com
+goitse.bandcamp.com
 grapefruit15092272.brizy.site
 griefsymposium.bandcamp.com
 h-hmsbds-ord-1-2.binc.net
+h2whoa.bandcamp.com
 hashdatasolutiondev.b2clogin.com
 hc.baf.id
 healingpotpourri.bandcamp.com
@@ -3733,6 +3747,7 @@ medmij-auth.brightfish-fhir.com
 melon15096491.brizy.site
 menitrust.bandcamp.com
 migrate.cdn-2.bigcheese.site
+mitsukiyo.bandcamp.com
 mng.beatonresearch.com
 mobilespark.bankmandiri.co.id
 movimentacoes.bancovillela.com
@@ -3780,6 +3795,7 @@ portal.bizmail.su
 ppi.bankx.money
 prd-ptconnector.bosch-pt.com
 problogweb.brianlaundrienotebook.net
+pruebas.bryangrados.com
 pwc-us-api-mtm.blueja.io
 qbeglobalb2cdev.b2clogin.com
 qnzdya.bluejeanblues.net
@@ -3789,17 +3805,22 @@ rafaelafaria.clientes.bitframe.com.br
 rampingroaring.blogspot.com
 rdmedia.api.bbc.co.uk
 relay.babb.be
+restful-api-bim-contact-stage.bimcontact.com
 resume.bankdaerahkabkediri.com
 rgs.public.eks00.engage-ap00.prod.aws-ap-northeast-2.ballys.tech
 rhm-coaching.brumm-service.de
+riotseasonrecords.bandcamp.com
 rmt.bankmandiri.co.id
 rossbrownfoot.blogspot.com
+rottentrash.bandcamp.com
 rum.browser-intake-datadoghq.eu
+rvfuynix.www.gxbtljso.akbanka.biennale.info
 saas.britech.com.br
 saas2.britech.com.br
 samuraixdr.b2clogin.com
 seasidevets.blogspot.com
 secure.bmtmicro.com
+securemail.bgrs.ca
 securemail.bronsonhg.org
 securemessage.bcbsil.com
 servicemania.bluserwer.pl
@@ -3812,6 +3833,7 @@ shilparay.bandcamp.com
 sidelinemag.bandcamp.com
 sigma-support.bpaquality.co.uk
 sitemap.blox.xyz
+sites.bauru.sp.gov.br
 sjobs.brassring.com
 solumb2cseg.b2clogin.com
 sp.baystars.co.jp
@@ -3842,6 +3864,7 @@ t.bme.jp
 t.info.bpostbank.be
 tarihi-kum-kahvecisi.business.site
 techb2bsolutions.benchmarkurl.com
+telstra-online-sin-in-bigpond-online-telstra.blogfizz.com
 test.bcrecycles.ca
 test.sunshop.billesvej.dk
 test.sunshop.blog.autoconfig.billesvej.dk
@@ -3852,6 +3875,7 @@ textile.buymo.ro
 tf11lm-dr.bsi.com
 thebudosband.bandcamp.com
 themeatless.bandcamp.com
+thesecondtransition.blogspot.com
 thisischicagoweatherwatch.blogspot.com
 thomsonreutersblogs.blogspot.com
 thwaxion77.bitbucket.io
@@ -3862,6 +3886,7 @@ tokyo-fight-club-barshow-restaurant.business.site
 tows.bluarc.ca
 track.barreleyez.com
 tsak-giorgis.blogspot.com
+tse2.explicit.bing.net
 turboapps.blogspot.com
 twitchminer.bitwolf.net
 uccae1.bankgirot.se
@@ -4092,6 +4117,7 @@ www.bloggalot.com
 www.bloomingmindfulness.co.uk
 www.bloomsgiving.com
 www.blossombytheparks.sg
+www.bloxhamfc.co.uk
 www.bloxhamrally.com
 www.bluedoordesigngroup.com
 www.bluefoodinnovation.com
@@ -4147,12 +4173,14 @@ www.bs-graveservice.no
 www.bsdnl.co.uk
 www.bsidesseattle.com
 www.bsls.ac.uk
+www.bsp.gov.ph
 www.btsa.com
 www.bubblebd.com
 www.bucks.radio
 www.budenheimer-terrassen.de
 www.buildingblockstlv.com
 www.bullcitysoleraandtaproom.com
+www.bullshitjob.com
 www.bundesverbraucherhilfe.de
 www.burgosconecta.es
 www.businessinsider.in
@@ -4189,7 +4217,6 @@ www.lan.borrarcuenta.online
 www.lelang.bankswadaya.co.id
 www.link.bankingdetails.co.za
 www.login.bajogo.com
-www.medbee-client.bsconsultants.us
 www.melhorkombucha.com.br.bluedogrevolution.com.br
 www.money.busineso.site
 www.moneyflix.fun.belamorskin.com
