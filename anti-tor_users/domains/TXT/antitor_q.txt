@@ -178,6 +178,7 @@ www.ticketmaster.quality4k.com
 www.verify-myinfo.qhigh.com
 admin.qualup.app
 alianzas.qapaq.pe
+api-validation.qv-dev-veeva.com
 api.ondemand.quest.com
 api.qlinkportal.com
 auth.feature-1.review.qpard.dev
@@ -208,6 +209,7 @@ dynaserv.qivalon.com
 eu.questionpro.de
 evt.quicklizard.com
 exchange.qualysoft.com
+faas1.q37.info
 feedback.quranreflect.org
 git.git.git.gitlab.git.git.fallback.domains.qloaked-staging.com
 gitlab.events.domains.qloaked.com
@@ -219,6 +221,7 @@ idctvmws.qcertifica.com.br
 identityverify-wellsfargo.quantumtraveltowers.com.au
 it.qs-gas-safety.com
 itg1a.us1.qeadaptiveauthbo.com
+laas.cloud.qacitizensbank.com
 links.quickhelp.com
 loja.qtaldelivery.com.br
 lp.quizz2win.com
@@ -240,6 +243,7 @@ qentrega.com
 qh88.today
 qh888.shop
 qh88z.com
+qheem.com
 qiblatunagroup.com
 qiqinpost.com
 qmasker.q-api.cloud
@@ -258,6 +262,7 @@ qualimoony.ma
 qualitykefir.com
 qualitypenn.com.co
 quallyrimers.com
+quallytamp.com.br
 quangcaophuongdong.vn
 quangtrungchem.com.vn
 quantum-escort.com
@@ -281,6 +286,7 @@ quriousfly.com
 qwa3ldhn9u0t.com
 qyy.nu
 revelion.qservice.md
+seeticketsus.queue-it.net
 seif.clickbankbuilder-staging.domains.qloaked.com
 server.quality-it.eu
 servicedesk.quub.it
