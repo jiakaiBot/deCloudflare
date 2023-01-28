@@ -1461,6 +1461,7 @@ Do not create new issue or we will close it as duplicate.
 | [BigEd95@twitter](https://twitter.com/BigEd95/status/1550168159562383366) | advertise |
 | [BiggIce1@twitter](https://twitter.com/BiggIce1/status/1530927758607810560) | advertise |
 | [bigsansar@twitter](https://twitter.com/bigsansar/status/1574045051264520197) | advertise |
+| [Bigwillt@twitter](https://twitter.com/Bigwillt/status/1619361753414111232) | advertise |
 | [bigwinoxx27@twitter](https://twitter.com/bigwinoxx27/status/1602666245127823362) | advertise |
 | [BihariB42458660@twitter](https://twitter.com/BihariB42458660/status/1406293306783404035) | advertise |
 | [BiHuy22612510@twitter](https://twitter.com/BiHuy22612510/status/1401856193472065546) | advertise |
@@ -6544,6 +6545,7 @@ Do not create new issue or we will close it as duplicate.
 | [Midnigh30262555@twitter](https://twitter.com/Midnigh30262555/status/1384919574668267520) | advertise |
 | [MigabonRica@twitter](https://twitter.com/MigabonRica/status/1608663676646756352) | advertise |
 | [migratingstream@twitter](https://twitter.com/migratingstream/status/1393409904086425600) | advertise |
+| [Miguel96959725@twitter](https://twitter.com/Miguel96959725/status/1619363628637114368) | advertise |
 | [mikailbayat1252@twitter](https://twitter.com/mikailbayat1252/status/1492272535374680065) | advertise |
 | [MikasaMino@twitter](https://twitter.com/MikasaMino/status/1387209691172728832) | advertise |
 | [Mikeang15546407@twitter](https://twitter.com/Mikeang15546407/status/1391183859216158720) | advertise |
