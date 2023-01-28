@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,495 |
-| social | 3,511 |
-| net | 2,807 |
+| social | 3,512 |
+| net | 2,808 |
 | org | 2,011 |
-| de | 1,888 |
+| de | 1,889 |
 
 
 - Mastodon, Pleroma, etc
@@ -20618,6 +20618,7 @@ Here's a list of public Fediverse services.
 | `mikado-city.jp` | No |
 | `mikaela.info` | No |
 | `mike.ai` | Yes |
+| `mikebourquin.de` | No |
 | `mikecoats.social` | Yes |
 | `mikedilger.com` | No |
 | `mikedunn.blog` | No |
@@ -27495,6 +27496,7 @@ Here's a list of public Fediverse services.
 | `rgst.io` | Yes |
 | `rgv.social` | No |
 | `rgx.pt` | No |
+| `rh-x.net` | Yes |
 | `rhabarberbarbara.bar` | Yes |
 | `rhadamanthe.ch` | No |
 | `rhamzeh.com` | No |
@@ -31318,6 +31320,7 @@ Here's a list of public Fediverse services.
 | `swagg.net` | No |
 | `swagger.hu` | No |
 | `swagosaure.com` | No |
+| `swain.social` | Yes |
 | `swampfoxden.com` | No |
 | `swansinflight.nz` | No |
 | `swapping.space` | No |
@@ -37217,8 +37220,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,765 |
-| Normal | 28,409 |
+| Cloudflare | 8,767 |
+| Normal | 28,410 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
