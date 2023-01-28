@@ -299,8 +299,11 @@ zurica.co.in
 zustmarketing.com
 acceptatie-client.zorgplatform.online
 amazon-dzfcdsft.zyns.com
+amazon-fgnfdgnjg.zyns.com
+amazon-hgfhtt.zyns.com
 amazon-zaswq.zyns.com
 api-dev.zt-ft.com
+api-shipp.zipi.app
 api-sprint.zlip2x.com
 api.zodomus.com
 api.zt-ft.com
@@ -320,10 +323,12 @@ cpcontacts.zenit-vamaveche.ro
 culevit.zerovic.com
 datacenter.zolbermedia.com
 diakszeft-api.uat.zeelabs.online
+discord.zfmbsb.com
 email.ziosuite.com
 es-logs.analytics-cluster.zedge.io
 etc-yizzz.zzux.com
 etc-yppppppoty.zzux.com
+eu3-csgo.zebedee.studio
 fsbc.unicreditgroup.zaba.hr
 gateway.zscalerthree.net
 gateway.zscalertwo.net
@@ -366,6 +371,7 @@ ticket.zeromiles.co.il
 tv.zonepl.net
 uat.service.payroll.zenyohr.com
 update.zestydigital.co.uk
+us5-csgo.zebedee.studio
 us9-csgo.zebedee.studio
 user.zgem.org
 web.zensys.app.br
@@ -404,6 +410,7 @@ www.zippoguide.com
 www.zone-service.com
 www.zoomtventertainment.com
 www.zovni.ovh
+www.zvab.com
 www.zwai.ie
 www.zwilnik.com
 www81.zippyshare.com
@@ -413,6 +420,7 @@ z-der.xyz
 z-sport-support.hr
 z5h64q92x9.net
 za-ejendomsservice.dk
+za.zalo.me
 zabavashop.in.ua
 zacharyballard.ml
 zachclem.ml
