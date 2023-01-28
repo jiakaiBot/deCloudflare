@@ -5316,6 +5316,7 @@ Do not create new issue or we will close it as duplicate.
 | [KoHtetZawOo1@twitter](https://twitter.com/KoHtetZawOo1/status/1395015158922100737) | advertise |
 | [koHtut80471997@twitter](https://twitter.com/koHtut80471997/status/1393249583065550851) | advertise |
 | [koicanwol@twitter](https://twitter.com/koicanwol/status/1523264151749279749) | advertise |
+| [kokayzo@twitter](https://twitter.com/kokayzo/status/1619350734700695560) | advertise |
 | [KoKhit9@twitter](https://twitter.com/KoKhit9/status/1390702857016332288) | advertise |
 | [Koko01940303@twitter](https://twitter.com/Koko01940303/status/1393036325188608000) | advertise |
 | [Koko06717120@twitter](https://twitter.com/Koko06717120/status/1401117550314876928) | advertise |
