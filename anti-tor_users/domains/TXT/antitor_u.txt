@@ -846,6 +846,7 @@ alumnialliances.updatemyprofile.com
 amict.urban-science.eu
 analytics.uhhospitals.org
 apg.uteq.edu.mx
+api-sms-interna.unipix.com.br
 api-tor-staging.naas.ultipro.ca
 api-uaz-prod.ukh.de
 api.garage.uniqys.net
@@ -881,6 +882,7 @@ click.ubsarena-email.com
 click.udr-email.com
 click.uswsalvationarmy.org
 clicks.uk-safety.com
+cloud.benefits.unitedhealthcare.com
 cloud.endurance.usatventures.com
 cloud2.ubona.com
 cnlearn.uployal.com
@@ -936,6 +938,7 @@ health.udn.com
 heilpraxis.ursachenheilkunde.com
 heilpraxis.ursachenheilkunde.de
 hub.ucd.ie
+hundt.uber.space
 iap.ulss4.veneto.it
 icashvapt.ussc.com.ph
 id.usps.com
@@ -980,6 +983,7 @@ nxb.ueh.edu.vn
 ojs.uho.ac.id
 opendcim.ic.unicamp.br
 order.upngopay.com
+otsuyon.urahiroblog.com
 parisahdinarkr.com.updatehargaemas.com
 pe.usps.com
 poamotddmzinternet.ual.com
@@ -1042,6 +1046,7 @@ udmeldelse.dk
 udonexpo.net
 udookrou.com
 udraokrou.com
+uello.com.br
 uerdingen.info
 uersfa.com
 ufabet-premium.com
@@ -1104,6 +1109,7 @@ upb.ac.id
 update-amazon.net
 update.md
 updatedeliverycanadapost-en.ca
+updatedfxtrade.com
 updategametoday.com
 updateint.com
 updateit.space
@@ -1247,6 +1253,7 @@ www.pakaianseragamjahitansj.unitedalarm.com.my
 www.paymatrixx.unkinstantdelivery.net
 www.plokite.unicompost.com.hr
 www.secmail.uhb.nhs.uk
+www.staging.smoketest.updatemy.website
 www.strahlentherapie.uni-wuerzburg.de
 www.subreseller1.updatedvpn.xyz
 www.support.us-z3wx.us
@@ -1272,6 +1279,7 @@ www.ukpublicspending.co.uk
 www.ukrainianbrides4you.com
 www.ukrainianservice.com
 www.ukspace.org
+www.ulfhenrich.de
 www.ultra88de.com
 www.um-palembang.ac.id
 www.umaza.edu.ar
@@ -1335,6 +1343,7 @@ www.xtreams.updatedvpn.xyz
 www.yearmoney.u9nuo9.store
 www.z.muzeumdominikano.usermd.net
 www3.uninove.br
+wwwofc.utcfa.com
 xxxgafexxx-wixsite-com.usrfiles.com
 yearmoney.u9nuo9.store
 zefil3-wixsite-com.usrfiles.com
