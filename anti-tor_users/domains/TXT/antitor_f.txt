@@ -2274,7 +2274,9 @@ cat-ess.firstdataspendtrendinsights.com
 cbank.flooyd.link
 cdn.flxml.eu
 cdn.forsant.io
+cert-payments-exchange-services.fiservapps.com
 cf417fa6-de04649d.filesharingopen.info
+ch-cs-udp2.fiservapps.com
 ch4-n2o.fanbox.cc
 channels-us.freshchannel.io
 city-mallir.froblog.ir
@@ -2454,6 +2456,7 @@ fasttrack.ml
 fasttracking-courier-service.online
 fastwayexpresservice.com
 fastweb-fibra.com
+fatbitch.lol
 fated.org
 fatherdavesworkshop.com
 fattigerworkshop.com
@@ -2476,6 +2479,7 @@ federicogobbo.name
 fedexexpress.delivery
 fedhackathon.net
 fedipress.com
+fediverse.quebec
 feecredit.com
 feelgrips.com
 feesmobileanpost.com
@@ -2506,6 +2510,7 @@ ficotest.store
 fideab.com
 fideltutorial.com
 fiducia.com.ec
+fiercely.pt
 figspdms.figtreesystems.com.au
 figure3d.site
 fija.org
@@ -2600,6 +2605,7 @@ foenixrepair.dk
 foggyoutline.com
 fojo.se
 fokuser.si
+folking.com
 folklorescotland.com
 followpcprotocol.com
 fologicsighter.com
@@ -2614,6 +2620,7 @@ footstoolgovernment.com
 forbssecurity.gr
 fordefence.com
 forejour.com
+forfattarcentrum.se
 forfrogadiertor.com
 forgerwheel.com
 forget-investion.info
@@ -2665,6 +2672,7 @@ frankfurtbabes.com
 fraudassistanceservice.com
 freeandsafe.co
 freechinapost.com
+freeforeach.ru
 freelancefreedom.co.uk
 freestatetenders.com
 freetousemusic.com
@@ -2711,6 +2719,7 @@ fumarinpest.com
 functionalnerds.com
 fundacjaincanto.pl
 fundasnordicasinfantiles.top
+funinternetthings.com
 funkdub.co.uk
 funkwhale.net
 furaha.ro
@@ -2846,6 +2855,7 @@ landsale.fanbox.cc
 lemicon.fanbox.cc
 lewlemartist.fanbox.cc
 license.frinx.io
+links.daily.foodsby.com
 links.offers.foodsby.com
 liquidbenki.fanbox.cc
 liquidcredit.cqa.ficoanalyticcloud.com
@@ -2860,6 +2870,7 @@ maguaki.fanbox.cc
 mail.fgstudionyc.com
 mail.fishingeight-japan.com
 mail.fknewyear-store.co.in
+mail1.federalprotection.com
 mailings.economie.fgov.be
 manji-haruno.fanbox.cc
 mao.fanbox.cc
@@ -2891,6 +2902,7 @@ moss-owa.fihtdc.com
 motokami-c.fanbox.cc
 mousse.fanbox.cc
 mrpiggy.fanbox.cc
+msteams.formmachines.com
 mtomita.fanbox.cc
 mubarakir.froblog.ir
 mukuton.fanbox.cc
@@ -2950,6 +2962,7 @@ ploxy.fanbox.cc
 poisonguard.fanbox.cc
 politepuppet.fanbox.cc
 popemw.fanbox.cc
+popmoney.fundsxpress.com
 portal.forensicfluids.com
 post.fershouno.tk
 postalcodenepal.factscircle.com
@@ -2973,6 +2986,7 @@ q5ylq2.fe74.fdske.com
 qa-edgier-azure-api.fetchcore-cloud.com
 qa-ocppj.freshmile.com
 reblemondremese.firebaseapp.com
+recaptcha.fxrracing.net
 red-fox.fanbox.cc
 rest.mind.sc2.fsapi.com
 rfde-107a7.firebaseapp.com
@@ -3001,6 +3015,7 @@ sbvkv8.firebaseapp.com
 sbxcf1.firebaseapp.com
 sbxsdr.firebaseapp.com
 scoot-dev.open.flyscoot.com
+scoot-stg.open.flyscoot.com
 seia.fanbox.cc
 seikinoe.fanbox.cc
 senetoisnantoka.fanbox.cc
@@ -3079,6 +3094,7 @@ tur587d53e5746574.from-sd.com
 twitchsounds-com.fl-studio.nl
 twitter.findomdiscord.com
 tx14.fcomet.com
+u-duki.fanbox.cc
 u-stella.fanbox.cc
 ulten.fanbox.cc
 uncaged.fanbox.cc
@@ -3140,6 +3156,7 @@ www.facetsjournal.com
 www.fahrschule-klein.de
 www.failbettergames.com
 www.fairfaxtimes.com
+www.fairfieldscribes.com
 www.fairwork.gov.au
 www.fairytalezilla.com
 www.fallenrookpublishing.co.uk
@@ -3240,6 +3257,7 @@ www.fs-service.ch
 www.fservice.dk
 www.fsnews.it
 www.fuckoffnewscorp.net
+www.fuel50careerdrive.com
 www.fujidreamairlines.com
 www.fukui-tv.co.jp
 www.fukuinkan.co.jp
@@ -3247,6 +3265,7 @@ www.fukuokajalt.org
 www.fulda.de
 www.fulkerson-services.com
 www.fullrainbow.co.uk
+www.funcas.es
 www.fundmerica-loans.com
 www.funtaikhoan.com
 www.fuso.com.ec
@@ -3289,6 +3308,7 @@ www.gitlab.gitlab.git.gitlab.gitlab.gitlab.helpdesk.findsome.su
 www.gitlab.gitlab.git.helpdesk.findsome.su
 www.gitlab.gitlab.git.user.fatal-world.ru
 www.gitlab.gitlab.gitlab.git.helpdesk.findsome.su
+www.gitlab.gitlab.gitlab.gitlab.git.gitlab.secure.floralschool.ru
 www.gitlab.gitlab.gitlab.gitlab.git.user.fatal-world.ru
 www.gitlab.gitlab.gitlab.helpdesk.findsome.su
 www.gitlab.gitlab.helpdesk.findsome.su
@@ -3296,6 +3316,7 @@ www.hughesjanitorial.federalgovernment.info
 www.landing-multisafe.fluxux.cl
 www.localflowersshops.floristflowersdelivery.com
 www.login.idm.telekom.fishingmasters.ug
+www.lotusarquitetura.net.br.farowebhospedagemdesites.com.br
 www.maissaude.services.foguetedigital.com
 www.moneyagora.online.faca14ou15pontos.online
 www.moneyonbed.fabrika3b.com
