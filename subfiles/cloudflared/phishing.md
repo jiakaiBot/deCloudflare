@@ -12,19 +12,19 @@ Here's the result.
 
 | TLD | Count |
 | --- | --- |
-| com | 29,900 |
-| net | 2,068 |
-| org | 1,778 |
+| com | 29,825 |
+| net | 2,060 |
+| org | 1,771 |
 | top | 1,548 |
-| br | 1,511 |
+| br | 1,508 |
 
 
 - Cloudflare %
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,005 |
-| Normal | 51,590 |
+| Cloudflare | 3,916 |
+| Normal | 51,459 |
 
 
-### 7.2% of phishing domains are using Cloudflare.
+### 7.1% of phishing domains are using Cloudflare.
