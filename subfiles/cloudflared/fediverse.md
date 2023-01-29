@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,501 |
-| social | 3,519 |
+| social | 3,520 |
 | net | 2,810 |
-| org | 2,012 |
+| org | 2,013 |
 | de | 1,890 |
 
 
@@ -468,6 +468,7 @@ Here's a list of public Fediverse services.
 | `57north.org.uk` | No |
 | `584817.xyz` | Yes |
 | `5950x.lol` | Yes |
+| `59ry.jp` | Yes |
 | `5ch.pink` | Yes |
 | `5ch4um1.es` | No |
 | `5dollah.click` | No |
@@ -17035,6 +17036,7 @@ Here's a list of public Fediverse services.
 | `krazy.party` | No |
 | `krbn.pl` | Yes |
 | `krbonne.net` | No |
+| `krc.lol` | No |
 | `krdtube.org` | No |
 | `kreato.dev` | No |
 | `kreatv.org` | No |
@@ -19475,6 +19477,7 @@ Here's a list of public Fediverse services.
 | `mastodaix.de` | No |
 | `mastoden.com` | No |
 | `mastodimation.art` | Yes |
+| `mastodn.eu.org` | Yes |
 | `mastodn.lol` | No |
 | `mastodn.social` | Yes |
 | `mastodns.net` | No |
@@ -31369,6 +31372,7 @@ Here's a list of public Fediverse services.
 | `swiatczytnikow.pl` | No |
 | `swiftdevs.space` | No |
 | `swillyumsdatacenter.com` | Yes |
+| `swinden.social` | Yes |
 | `swineair.com` | No |
 | `swingset.social` | No |
 | `swirlhub.com` | No |
@@ -37246,8 +37250,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,773 |
-| Normal | 28,430 |
+| Cloudflare | 8,776 |
+| Normal | 28,431 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
