@@ -1340,9 +1340,11 @@ discord-modding-archive.vercel.app
 discord-ui-toolkit.vercel.app
 discordbotse.vercel.app
 discordservers-me.vercel.app
+discourse.video-gamer.com
 docs.client.vl-logistic.com
 docs.client.vl-logistic.ru
 dryvoilmalaysia-gmailcom.vercel.app
+dynoalot.vercel.app
 ebics.vtb.de
 elements.vanderkrogt.net
 elian.vercel.app
@@ -1359,6 +1361,7 @@ fuscaclubemogi.com.br.volksmeetdragracing.com.br
 gagaplus-protonmailc.vercel.app
 genetix.ritmx-dev.aws.vsct.fr
 git.git.gitlab.git.gitlab.login.veriotexas.net
+git.gitlab.git.store.community-beta5.vendev.info
 git.gitlab.gitlab.git.mail1.vabargaintrader.com
 git.gitlab.gitlab.gitlab.gitlab.www.2019.vermeernorthwest.com
 gitlab.avito.gitlab.sberbank.ffxdid6m4my1niy.vh.vteam.tech
@@ -1378,6 +1381,7 @@ helix-campaign.vendycare.com
 helpdesk.villagehelpdesk.com
 helpdesk.virginactive.com.sg
 helpdesk.vlsiexpert.in
+hlrdiscord.vercel.app
 hunter.vercel.app
 hunter199129.vercel.app
 hunter33ru.vercel.app
@@ -1397,6 +1401,7 @@ inv.vern.cc
 iservice2.vanillamedia.hr
 it.pp.vente-unique.ch
 jacobsubin2-gmailcom.vercel.app
+jdiscordbots.vercel.app
 jjstarbreaker-gmailcom.vercel.app
 kaartech.viewpage.co
 klanten.vip.nl
@@ -1476,6 +1481,7 @@ ramonponsmiralles-gmailcom.vercel.app
 raymondliang2015-gmailcom.vercel.app
 realdiscordmatters.vercel.app
 redcap.vhir.org
+request.eprotect.vantivcnp.com
 reserve.mb.vtb.ru
 ringcaptcha1.vercel.app
 rr.cdnlab.vodafone.pt
@@ -1528,6 +1534,7 @@ tracking3.vnncdn.net
 trinitrotoluene.vercel.app
 twilio.engage.kgblaw.voyagernetz.us
 twitch.videodownload.online
+twitchstonks.vercel.app
 tymczasowy.vh.pl
 um2gtulat1ohds9.blog.blog.staging.vmail.valetparking.pl
 unify.vaxserve.com
@@ -1631,6 +1638,7 @@ vga256.com
 vgval2.valgenesis.in
 vianoivernom.com
 viavino.hr
+vibe.md
 vickyclayton.com
 vicsword.com
 victorlofinmakin.com
@@ -1645,6 +1653,7 @@ vietskysupport.com
 vieu.cc
 viewablemedia.net
 viewdigital.org
+vignette-critair-fr.com
 vigorousism.com
 vijou.com.co
 vikarina.lt
@@ -1764,6 +1773,7 @@ www.vacantmastodon.ca
 www.valdostadailytimes.com
 www.valentinpistrui.xyz
 www.valiantsupport.com.au
+www.valladoscordoba.es
 www.valleycentral.com
 www.valleycjdr.com
 www.vanhornansweringservice.com
@@ -1773,6 +1783,7 @@ www.vdoncasterescorts.co.uk
 www.vectorpeople.com
 www.veganplantbasedhealth.com
 www.veganzetta.org
+www.veridica.ro
 www.verify-fr-orsecure.com
 www.verify.vcot.lk
 www.verifydashersglobal.com
