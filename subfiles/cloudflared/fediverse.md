@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,503 |
-| social | 3,523 |
+| social | 3,524 |
 | net | 2,814 |
 | org | 2,016 |
 | de | 1,891 |
@@ -28816,6 +28816,7 @@ Here's a list of public Fediverse services.
 | `screamshitter.club` | No |
 | `screebo.net` | Yes |
 | `screech.social` | No |
+| `screencastsonline.social` | No |
 | `screenshake.io` | No |
 | `screentimes.net` | Yes |
 | `screenwriting.space` | No |
@@ -37288,7 +37289,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,785 |
-| Normal | 28,459 |
+| Normal | 28,460 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
