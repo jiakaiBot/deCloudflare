@@ -7129,6 +7129,7 @@ Here's a list of public Fediverse services.
 | `darkyonmasto.ch` | No |
 | `darlow.co.uk` | No |
 | `darmstadt.social` | Yes |
+| `darn.fish` | Yes |
 | `darn.social` | Yes |
 | `darnell.app` | No |
 | `darnell.day` | No |
@@ -37266,7 +37267,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,781 |
+| Cloudflare | 8,782 |
 | Normal | 28,442 |
 
 
