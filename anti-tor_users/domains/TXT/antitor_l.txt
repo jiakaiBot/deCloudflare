@@ -1610,6 +1610,7 @@ adfs.lokalplanportalen.dk
 admin-keycloak.trust-services.aws.stg.ldg-tech.com
 ai-dev.linkaja.com
 akmss-stg.lillypulitzer.io
+alenxa.livejournal.com
 alertmanager-avana-lms-staging.lendfoundry.com
 alertmanager-fwd-lms-stg.lendfoundry.com
 amazon-adsystem.com.lonewolf.net
@@ -1728,6 +1729,7 @@ dev.schule.loveline.de
 dianuser1.livejournal.com
 dir-com.labtest.dev
 discord.lunacore.it
+discotheque.loicdaniel.fr
 discuss.lautech.edu.ng
 divcdkmqiibijm57.smtp2.gmail.lucero.com
 dl.listdl.com
@@ -1971,6 +1973,7 @@ liftservice24.nl
 ligfiets.net
 light-bringer-world.com
 lighthouse-eco.co.za
+lightmaitreyaway.com
 lightspeed-tracking.com
 lihat360.com
 likefformoney.com
@@ -2018,6 +2021,7 @@ lithgow-schmidt.dk
 lithyphiomia.com
 litkicks.com
 littlebearsanctuary.org
+littlecitystudios.us20.list-manage.com
 littlelucyscleaningservice.com
 littleneptunenews.com
 littlmarsnews22.com
@@ -2046,6 +2050,7 @@ loanaccel-coforge.com
 lobban.org
 local-seo-service.us
 localnewsdelivery.co.uk
+localpgrmca.com
 location-kfc.top
 locksmith-horsham.com
 lode88online.com
@@ -2120,6 +2125,7 @@ lovelyletterings.com
 lovereality.nl
 lowdownnhs.info
 lowerdecksradio.co.uk
+lowes-solicitors.co.uk
 loxitdat.com
 lpknc.org
 lpservice.co.uk
@@ -2144,6 +2150,7 @@ luminouslivingnow.com
 lunapay.com.br
 lunaservice.dk
 lunchboxbulb.autos
+lurchundlama.de
 lurkmore.to
 lusac.com.vn
 lustesthd.com
@@ -2201,6 +2208,7 @@ p.liadm.com
 panal.login-privatemod.ga
 particulares.ruralvia.es.leshans.co.ke
 patentebcompra.livejournal.com
+paydirect.ca.link2gov.com
 paydirect.link2gov.com
 pharmweb.lakersoftware.com
 pivision.lomanegra.com
@@ -2239,6 +2247,7 @@ support.learn-gpt.com
 support.lewsion.com
 support.lorma.edu
 sv7.linearudi.org
+svn.l2jdev.ru
 sw.linksap.eu
 t.lacot.top
 tabletcust-cdn.lenovocust.com
