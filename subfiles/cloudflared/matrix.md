@@ -31,11 +31,11 @@ Here's a list of public Matrix services.
 | asra.gr | No |
 | matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
-| bancino.net | No |
 | synapse.bark.lgbt | Yes |
 | bolha.chat | Yes |
 | breeze.town | No |
 | matrix.bytes4u.de | No |
+| matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
@@ -89,6 +89,7 @@ Here's a list of public Matrix services.
 | mtrx.nz | No |
 | nibbana.jp | No |
 | nitro.chat | No |
+| nope.chat | No |
 | matrix.norge.chat | Yes |
 | matrix.ohai.su | No |
 | matrix.ombreport.info | No |
@@ -107,7 +108,6 @@ Here's a list of public Matrix services.
 | matrix.sfunk1x.com | No |
 | matrix.sibnsk.net | No |
 | socialnetwork24.com | No |
-| matrix.studichat.de | No |
 | synod.im | No |
 | matrix.tchncs.de | No |
 | matrix.techsaviours.org | No |
