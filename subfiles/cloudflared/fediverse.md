@@ -6149,6 +6149,7 @@ Here's a list of public Fediverse services.
 | `coolmemes.biz` | No |
 | `coolpenguins.nl` | Yes |
 | `coolshit.social` | Yes |
+| `coolsite.win` | No |
 | `coolsocial.club` | No |
 | `coolstarship.blog` | No |
 | `cooltux.net` | No |
@@ -37289,7 +37290,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,785 |
-| Normal | 28,460 |
+| Normal | 28,461 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
