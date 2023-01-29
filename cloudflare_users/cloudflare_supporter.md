@@ -2102,8 +2102,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -10598,6 +10598,7 @@ Do not create new issue or we will close it as duplicate.
 | [TiuLamTam1@twitter](https://twitter.com/TiuLamTam1/status/1405713320758321158) | advertise |
 | [TiziMarketing@twitter](https://twitter.com/TiziMarketing/status/1383784834225434627) | advertise |
 | [tjxupnex@twitter](https://twitter.com/tjxupnex/status/1394284882130608135) | advertise |
+| [TKDirect_co@twitter](https://twitter.com/TKDirect_co/status/1619744886898712581) | advertise |
 | [TKNguyen12a9@twitter](https://twitter.com/TKNguyen12a9/status/1581408397668548608) | advertise |
 | [TKTRAN989@twitter](https://twitter.com/TKTRAN989/status/1553103875158450176) | advertise |
 | [TLay75095361@twitter](https://twitter.com/TLay75095361/status/1402574255456284676) | advertise |
