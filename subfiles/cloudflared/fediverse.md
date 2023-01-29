@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,501 |
 | social | 3,522 |
 | net | 2,810 |
-| org | 2,014 |
+| org | 2,015 |
 | de | 1,890 |
 
 
@@ -726,6 +726,7 @@ Here's a list of public Fediverse services.
 | `abraham.social` | No |
 | `abraham.su` | No |
 | `abraka-dabra.sk` | No |
+| `abramov.org` | No |
 | `abramson.dev` | No |
 | `abraum.de` | No |
 | `abrizero.fr` | No |
@@ -24443,6 +24444,7 @@ Here's a list of public Fediverse services.
 | `ourempty.pub` | No |
 | `ourfuture.org` | Yes |
 | `ourislandgeorgia.net` | No |
+| `ourlatex.life` | No |
 | `ourlittle.space` | No |
 | `ourmemory.sbs` | Yes |
 | `ouroboros.monster` | No |
@@ -37268,7 +37270,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,782 |
-| Normal | 28,442 |
+| Normal | 28,444 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
