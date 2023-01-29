@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,501 |
-| social | 3,520 |
+| social | 3,522 |
 | net | 2,810 |
-| org | 2,013 |
+| org | 2,014 |
 | de | 1,890 |
 
 
@@ -940,6 +940,7 @@ Here's a list of public Fediverse services.
 | `adultsonly.social` | No |
 | `advancedsoftware.engineering` | No |
 | `advent.social` | No |
+| `adventurehound.io` | No |
 | `adventuremalmusic.com` | No |
 | `adventures.social` | No |
 | `adventurewithautism.org` | No |
@@ -9811,6 +9812,7 @@ Here's a list of public Fediverse services.
 | `fabis.cafe` | No |
 | `fabler.su` | No |
 | `fabrigli.fr` | No |
+| `fabulous.social` | No |
 | `facb69.com.br` | No |
 | `faccionlatina.org` | Yes |
 | `faceborg.io` | No |
@@ -14107,6 +14109,7 @@ Here's a list of public Fediverse services.
 | `hun73r.xyz` | No |
 | `hund.schule` | No |
 | `hungryhacker.com` | Yes |
+| `hungryquokka.club` | Yes |
 | `hunk.city` | No |
 | `hunted.one` | Yes |
 | `hunterandannie.com` | Yes |
@@ -18262,6 +18265,7 @@ Here's a list of public Fediverse services.
 | `llamarific.social` | No |
 | `llamasweet.tech` | No |
 | `llarian.net` | No |
+| `llbbl.blog` | Yes |
 | `lleddew.uk` | No |
 | `lleialtat.cat` | No |
 | `llii.ga` | No |
@@ -19867,6 +19871,7 @@ Here's a list of public Fediverse services.
 | `mastorol.es` | Yes |
 | `mastotn.com` | No |
 | `mastoton.fi` | No |
+| `mastoturk.org` | No |
 | `mastotut.cat` | No |
 | `mastouille.fr` | No |
 | `mastoverse.social` | Yes |
@@ -21180,6 +21185,7 @@ Here's a list of public Fediverse services.
 | `monads.online` | No |
 | `monappy.jp` | Yes |
 | `monarch-pass.net` | No |
+| `monastery.ink` | No |
 | `monastery.social` | No |
 | `monch.ee` | Yes |
 | `moncloudprive.eu` | No |
@@ -21888,6 +21894,7 @@ Here's a list of public Fediverse services.
 | `muy.moe` | Yes |
 | `muyfinanciero.com` | No |
 | `muylinux.com` | No |
+| `muyun.cloud` | No |
 | `muzzlespace.com` | No |
 | `mv-software.de` | No |
 | `mvalente.eu` | No |
@@ -23905,6 +23912,7 @@ Here's a list of public Fediverse services.
 | `oliinyk.com` | No |
 | `olimaia.net` | No |
 | `olio.lol` | Yes |
+| `olipassey.me.uk` | No |
 | `oliphant.social` | No |
 | `oliphaunt.social` | No |
 | `olisti.co` | No |
@@ -25184,6 +25192,7 @@ Here's a list of public Fediverse services.
 | `pgp.cool` | Yes |
 | `pgrb.cc` | No |
 | `pgw.jp` | No |
+| `ph.social` | Yes |
 | `ph3j.com` | No |
 | `phal.io` | No |
 | `phanisvara.com` | No |
@@ -26611,6 +26620,7 @@ Here's a list of public Fediverse services.
 | `queer.garden` | No |
 | `queer.group` | No |
 | `queer.haus` | No |
+| `queer.horse` | No |
 | `queer.miami` | No |
 | `queer.party` | No |
 | `queer.town` | No |
@@ -26902,6 +26912,7 @@ Here's a list of public Fediverse services.
 | `raitsc.uk` | No |
 | `raiuraiu.de` | No |
 | `raize.in` | No |
+| `raki.club` | No |
 | `raki.social` | No |
 | `rakitov.org` | No |
 | `rakka.tk` | No |
@@ -28295,6 +28306,7 @@ Here's a list of public Fediverse services.
 | `sakura-rage.net` | No |
 | `sakura.church` | No |
 | `sakura.ne.jp` | No |
+| `sakuradancer.zone` | Yes |
 | `sakuradon.jp` | No |
 | `sakuragawa.moe` | Yes |
 | `sakurajima.moe` | No |
@@ -29022,6 +29034,7 @@ Here's a list of public Fediverse services.
 | `sementerrori.st` | No |
 | `semicharmed.net` | Yes |
 | `semiosen.de` | No |
+| `semiotic.systems` | No |
 | `semipvt.com` | No |
 | `semisol.net` | No |
 | `semnil.com` | No |
@@ -29978,6 +29991,7 @@ Here's a list of public Fediverse services.
 | `sniff122.tech` | Yes |
 | `snipesearch.co.uk` | Yes |
 | `snircle.space` | No |
+| `snld.ca` | No |
 | `snmsoc.org` | No |
 | `snoot.club` | No |
 | `snoot.com` | No |
@@ -31339,6 +31353,7 @@ Here's a list of public Fediverse services.
 | `svltan.at` | No |
 | `svnet.fr` | No |
 | `svp.im` | No |
+| `svrgn.sh` | No |
 | `svt.se` | No |
 | `svtw.online` | No |
 | `sw-development-is.social` | No |
@@ -31989,6 +32004,7 @@ Here's a list of public Fediverse services.
 | `teilgedanken.de` | No |
 | `teitoku.to` | No |
 | `tejas.wtf` | No |
+| `tekati.cloud` | Yes |
 | `tekdmn.me` | Yes |
 | `tekhify.de` | No |
 | `tekicha.org` | No |
@@ -37250,8 +37266,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,776 |
-| Normal | 28,431 |
+| Cloudflare | 8,781 |
+| Normal | 28,442 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
