@@ -1,6 +1,6 @@
 # Cloudflare DNS Alternatives
 
-This page is for `domain owner` who like to move away from CloudFlare DNS.
+This page is for `domain owner` who wish to move away from CloudFlare DNS.
 
 
 ## Alternatives
@@ -8,9 +8,11 @@ This page is for `domain owner` who like to move away from CloudFlare DNS.
 | ----------------- | --------------------------------- | ------ |
 | [1984 Hosting](https://www.1984hosting.com/) | No customer support | Free |
 | [Afraid.Org](https://freedns.afraid.org/) | Admin will delete your account if you create one via Tor | Free |
+| [DNSMadeEasy](https://dnsmadeeasy.com/) | Limited Queries per month | Paid |
 | [Dyn.com](https://dyn.com/dns/) | - | Paid |
 | [Hetzner DNS](https://docs.hetzner.com/dns-console/dns/general/dns-overview/) | - | ? |
 | [Hurricane Electric Free DNS](https://dns.he.net/) | - | Free |
+| [LuaDNS](https://luadns.com/) | API supported | Free |
 | [deSEC](https://desec.io/) | dynamic DNS & API supported | Free |
 
 
