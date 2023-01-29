@@ -735,6 +735,8 @@ api-ent1.jio.com
 api-st.jio.com
 api.adoptme.jazwares.com
 api.jaxvpn.com
+api.jeonnamtour.kr
+api.jibit.ir
 api.jyro.io
 api.possible-drake.jetrist.com
 app.jet.vet
@@ -793,6 +795,7 @@ ex.jfpe.jus.br
 expose-instructor-account-status.backend-ci.junilearning.com
 files.jinshuju.net
 genesys.jaskut.com
+get.joinhoney.com
 gitlab.blog.blog.dev.blog.joomla-agentur-pforzheim.de
 gitlab.git.git.9.magento.sitemap.joomla-agentur-pforzheim.de
 gitlab.git.git.git.gitlab.5cdjmag2a2dc4ap.joyta.ru
@@ -851,6 +854,7 @@ jeejujou.net
 jeeptourpackage.com
 jeffmackinnon.com
 jeghomir.com
+jekl.com
 jennyappleseed.co.uk
 jenonaw.com
 jeparajati.com
@@ -880,6 +884,7 @@ jiocity.com
 jiofibers.com
 jis.gov.jm
 jitsimeet.eu
+jlr.academy
 jmarierundquist.com
 jmpaintingservice.com
 jmpharmasafe.com
@@ -899,6 +904,7 @@ jointrestore-gummies.org
 joinxo.app
 joker168.asia
 joker1888.asia
+jokerapp678.asia
 jolecyclist.com
 jomassage.website
 jongomara-clientes.com.es
@@ -913,6 +919,7 @@ josephuliano.com
 joshinweb.jp
 joshlong.com
 journalsproof.com
+jovempan.com.br
 joygaskin.com
 joyhaftsyears.com
 jppn.ne.jp
@@ -1036,6 +1043,7 @@ www.japinfinityservice.com
 www.jardin-services-paysagiste-lpa.fr
 www.jardin-suizo.com
 www.jargariapost.id
+www.jarmolindberg.fi
 www.jatam.org
 www.jaycar.com.au
 www.jddtreeservice.com
