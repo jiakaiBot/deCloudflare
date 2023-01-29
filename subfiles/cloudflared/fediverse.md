@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,501 |
 | social | 3,522 |
-| net | 2,811 |
+| net | 2,812 |
 | org | 2,015 |
 | de | 1,890 |
 
@@ -3163,7 +3163,7 @@ Here's a list of public Fediverse services.
 | `beetoons.tv` | No |
 | `beets.social` | No |
 | `before.dog` | No |
-| `begbie.party` | Yes |
+| `begbie.party` | No |
 | `begoo.bar` | No |
 | `begovoy.club` | No |
 | `begovoy.social` | No |
@@ -7652,6 +7652,7 @@ Here's a list of public Fediverse services.
 | `dessert.coffee` | No |
 | `destituent.social` | Yes |
 | `destrocodpiece.wtf` | No |
+| `destructatron.net` | No |
 | `destruktive.one` | No |
 | `desttinghim.name` | No |
 | `desu.blog` | No |
@@ -37272,8 +37273,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,783 |
-| Normal | 28,446 |
+| Cloudflare | 8,782 |
+| Normal | 28,448 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
