@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,501 |
 | social | 3,522 |
-| net | 2,810 |
+| net | 2,811 |
 | org | 2,015 |
 | de | 1,890 |
 
@@ -20977,6 +20977,7 @@ Here's a list of public Fediverse services.
 | `mjohnson.tech` | Yes |
 | `mk-l.info` | No |
 | `mk.gs` | Yes |
+| `mk1.io` | Yes |
 | `mk39.xyz` | No |
 | `mkdir.uk` | Yes |
 | `mkg20001.io` | Yes |
@@ -26334,6 +26335,7 @@ Here's a list of public Fediverse services.
 | `psynet.me` | No |
 | `psyopshop.com` | No |
 | `psyopvict.im` | Yes |
+| `psysocial.net` | No |
 | `psyver.space` | No |
 | `pta2002.com` | Yes |
 | `ptaah.fr` | No |
@@ -36843,6 +36845,7 @@ Here's a list of public Fediverse services.
 | `yuruyuri.family` | No |
 | `yusaku.social` | No |
 | `yusuf.fyi` | No |
+| `yusufipek.me` | No |
 | `yusuke.pub` | Yes |
 | `yutacar.info` | No |
 | `yutasan.co` | No |
@@ -37269,8 +37272,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,782 |
-| Normal | 28,444 |
+| Cloudflare | 8,783 |
+| Normal | 28,446 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
