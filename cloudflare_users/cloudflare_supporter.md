@@ -5728,6 +5728,7 @@ Do not create new issue or we will close it as duplicate.
 | [LedetuW@twitter](https://twitter.com/LedetuW/status/1606129977488838656) | advertise |
 | [ledlightzebra@twitter](https://twitter.com/ledlightzebra/status/1490983409166217218) | advertise |
 | [Ledofmon@twitter](https://twitter.com/Ledofmon/status/1399956537821466631) | advertise |
+| [leducanh23@twitter](https://twitter.com/leducanh23/status/1619703525226995712) | advertise |
 | [Leducta70074660@twitter](https://twitter.com/Leducta70074660/status/1600338472396476416) | advertise |
 | [Leduy190894@twitter](https://twitter.com/Leduy190894/status/1552682722803724288) | advertise |
 | [leechah0793@twitter](https://twitter.com/leechah0793/status/1553762529297731595) | advertise |
