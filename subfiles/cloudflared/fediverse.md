@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,501 |
-| social | 3,522 |
+| social | 3,523 |
 | net | 2,812 |
 | org | 2,015 |
-| de | 1,890 |
+| de | 1,891 |
 
 
 - Mastodon, Pleroma, etc
@@ -257,6 +257,7 @@ Here's a list of public Fediverse services.
 | `238c.org` | No |
 | `24-7.ro` | No |
 | `240.network` | Yes |
+| `246135.xyz` | No |
 | `247420.xyz` | No |
 | `24bit48khz.de` | No |
 | `24daysindecember.net` | No |
@@ -9177,6 +9178,7 @@ Here's a list of public Fediverse services.
 | `embeddedarm.com` | No |
 | `ember.lgbt` | Yes |
 | `ember.li` | No |
+| `embers.social` | No |
 | `embracing.space` | Yes |
 | `embros.org` | No |
 | `emelyne.eu` | No |
@@ -26390,6 +26392,7 @@ Here's a list of public Fediverse services.
 | `pueseso.club` | No |
 | `puff.place` | No |
 | `puffer.blog` | Yes |
+| `pufferzone.racing` | No |
 | `puffin.social` | Yes |
 | `pug.family` | No |
 | `pug.photos` | No |
@@ -32162,6 +32165,7 @@ Here's a list of public Fediverse services.
 | `tewt.me` | No |
 | `texasfriendfinder.com` | No |
 | `texasobserver.social` | No |
+| `textasylum.de` | No |
 | `texting.com` | No |
 | `texto-plano.xyz` | No |
 | `tezcat.social` | No |
@@ -36000,6 +36004,7 @@ Here's a list of public Fediverse services.
 | `wpcomstaging.com` | No |
 | `wpengine.com` | Yes |
 | `wpj.name` | No |
+| `wpmastodon.es` | No |
 | `wpmeetup-frankfurt.de` | No |
 | `wprzemianie.pl` | No |
 | `wps.de` | No |
@@ -37274,7 +37279,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,782 |
-| Normal | 28,448 |
+| Normal | 28,453 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
