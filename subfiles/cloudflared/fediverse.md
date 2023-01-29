@@ -15175,6 +15175,7 @@ Here's a list of public Fediverse services.
 | `iwolfking.xyz` | Yes |
 | `iworkinpixels.com` | No |
 | `ix.is` | Yes |
+| `ix.md` | Yes |
 | `ixcat.fr` | No |
 | `ixda.org` | Yes |
 | `iyasaretai.pw` | No |
@@ -16778,7 +16779,7 @@ Here's a list of public Fediverse services.
 | `km-connect.org` | No |
 | `km6g.us` | No |
 | `kmdkuk.com` | No |
-| `kmlg.jp` | No |
+| `kmlg.jp` | Yes |
 | `kmmtn.com` | No |
 | `kmr.me` | Yes |
 | `kmrs.org` | No |
@@ -21425,6 +21426,7 @@ Here's a list of public Fediverse services.
 | `motorsports.social` | No |
 | `mototravel.net` | No |
 | `motov.org` | Yes |
+| `motss.cc` | Yes |
 | `motuhake.xyz` | No |
 | `mou-da.me` | No |
 | `mouchkine.fr` | No |
@@ -37300,8 +37302,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,791 |
-| Normal | 28,466 |
+| Cloudflare | 8,794 |
+| Normal | 28,465 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
