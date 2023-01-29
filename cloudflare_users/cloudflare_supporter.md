@@ -1503,6 +1503,7 @@ Do not create new issue or we will close it as duplicate.
 | [birt_isaac@twitter](https://twitter.com/birt_isaac/status/1377936339212062725) | advertise |
 | [BishalK59489606@twitter](https://twitter.com/BishalK59489606/status/1536094886596079616) | advertise |
 | [BisterHope@twitter](https://twitter.com/BisterHope/status/1597713288959524864) | advertise |
+| [BitconTai@twitter](https://twitter.com/BitconTai/status/1619687927411523586) | advertise |
 | [bitdotcoin@twitter](https://twitter.com/bitdotcoin/status/1378723169066967042) | advertise |
 | [BitMagge@twitter](https://twitter.com/BitMagge/status/1571636052884062208) | advertise |
 | [BizganCostin@twitter](https://twitter.com/BizganCostin/status/1382363988013555713) | advertise |
@@ -8206,6 +8207,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhHong20@twitter](https://twitter.com/PhHong20/status/1389017688685498370) | advertise |
 | [Phi0354363688@twitter](https://twitter.com/Phi0354363688/status/1562949897305100288) | advertise |
 | [PhibulyWr@twitter](https://twitter.com/PhibulyWr/status/1552136900596858882) | advertise |
+| [phihoang2009@twitter](https://twitter.com/phihoang2009/status/1619689858217422848) | advertise |
 | [philcgeo@twitter](https://twitter.com/philcgeo/status/1549340881584635904) | advertise |
 | [PhillipXin@twitter](https://twitter.com/PhillipXin/status/1378201985539772416) | advertise |
 | [PhiLong702@twitter](https://twitter.com/PhiLong702/status/1549900445275275264) | advertise |
@@ -11247,6 +11249,7 @@ Do not create new issue or we will close it as duplicate.
 | [vunguyen930@twitter](https://twitter.com/vunguyen930/status/1549490832893325312) | advertise |
 | [Vuong18239009@twitter](https://twitter.com/Vuong18239009/status/1389212433655336960) | advertise |
 | [VuonghovuDt@twitter](https://twitter.com/VuonghovuDt/status/1529242139091054592) | advertise |
+| [VuPham08252400@twitter](https://twitter.com/VuPham08252400/status/1619692199930642433) | advertise |
 | [vuquoc203@twitter](https://twitter.com/vuquoc203/status/1408052147787161601) | advertise |
 | [vusimpzerotwo@twitter](https://twitter.com/vusimpzerotwo/status/1549475267692744704) | advertise |
 | [vuthien46196@twitter](https://twitter.com/vuthien46196/status/1401809290449473539) | advertise |
