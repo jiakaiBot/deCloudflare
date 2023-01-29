@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-30: [GRU (São Paulo) on 2023-01-30](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4mdvyz6cs0v6)
 - 2023-02-03: [BOS (Boston) on 2023-02-03](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/55zzm7g1ll18)
 - 2023-02-01: [BOS (Boston) on 2023-02-01](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/z0nfdh8qsh1p)
 - 2023-01-31: [SIN (Singapore) on 2023-01-31](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xdz25dgj6gq4)
