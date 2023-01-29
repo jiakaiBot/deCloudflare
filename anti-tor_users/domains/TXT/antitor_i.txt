@@ -1703,6 +1703,7 @@ auth.fivegame.insula.ai
 auth.iktdemo.tech
 auth.infojungs.de
 authenticworld.invotide.com
+autodiscover.ibtech.ro
 autodiscover.imersebanheiras.com.br
 autodiscover.indynorthsplit.com
 autodiscover.intense-trust-gadgets.com
@@ -1802,13 +1803,16 @@ dev.internal.intient.com
 dev6-moduleapi.indegene.com
 devel.ielts-japan.org
 direct2.imagedepositgateway.com
+discord-bot.isotopic.io
 dmbs.ibk.co.id
 docs.inovado.eu
 domains-yahoo-com.innomarkinc.com
+download.itopvpn.com
 download.ivanticloud.com
 dreap.idacloud.ru
 e11ae7e865a6f9cb5d827fbab085a89b-httpcache0-03837-cacheod0.dna.ip-only.net
 ecm.irving.com
+edi.inxeption.net
 educacio.intersindical-csc.cat
 efiapiqa.identco.com
 elezioni.interno.gov.it
@@ -1838,6 +1842,7 @@ gen-dc1ffsfips-ax1.tam.dev.inforcloudsuite.com
 get.itexpertresource.com
 gfreerobloxaccounts.in-goo.com
 gister.interseguridad.com.ar
+git.git.git.bfkw7n7dcpxqy3l.erp.izborsk.club
 git.git.git.git.gitlab.rwnkwmuvvlhv.irresistiblestudios.com
 git.git.git.gitlab.git.soft.intertrade-msk.ru
 git.git.git.rabochiy-poselok-zaprudnya.internet-c.ru
@@ -1906,6 +1911,7 @@ iadeislemcozumleri.com
 iaesc.org
 ialarm.no
 iamoreshoes.com
+ib888.asia
 ibaby.kiev.ua
 iban-asb-24pay.ru
 ibawt.ca
@@ -1925,6 +1931,7 @@ ici-ltda.cl
 icid-ciid.org
 icloud-fmi.ru
 icm.org.uy
+icoolonline.com
 icsadviseurs-vr.nl
 id-accounting.com
 id9980-deliveryupdate-en.com
@@ -1988,6 +1995,7 @@ immuneactivity.com
 imoleite.com
 impeccablewords.net
 impetus.mk
+impot-gov.fr
 imprentagb.com.ar
 imprimecolor.es
 improntia.com
@@ -2033,6 +2041,8 @@ infonews.uno
 informaticoguadalixdelasierra.com.es
 informationother.com
 informationsecurity.dk
+infortechmanaus.com.br
+infosekolah.net
 infosyset.com
 infoterupdate.site
 infraon.io
@@ -2081,6 +2091,7 @@ institutesafety.com
 institutfrancais-suede.com
 insulinresistancepost.com
 insurance-services.info
+intalio.com
 intechsearch.com
 integra.net.mx
 integracaolog.com.br
@@ -2113,6 +2124,7 @@ interfex-mining.com
 interia-news.com
 interiorsettings.site
 intermen.com.ua
+internationalintegrators.org
 internet.gov.pl
 internet.itau.com.br
 internet6.itau.com.br
@@ -2169,6 +2181,7 @@ iq-dist-2.com
 iq-oeservice.de
 iqform.demo.iqnet.co.jp
 iqosclub.pl
+ireadindies.com
 irms.org.uk
 irohani.art
 ironwynch.com
@@ -2214,11 +2227,13 @@ itp-service-hotelanvelope-ghirase.ro
 itp-serviceglobal.ro
 itparkshop.com
 itrgsecure.com
+its-et.me
 itsburning.nl
 itseedotor.com
 itshab.com
 itsranking.xyz
 itsscan.itupdates.support
+itsystembetreuung.de
 itwitch.cc
 itxdancer.com
 ivisit-romania.com
@@ -2289,6 +2304,7 @@ n11uqbccdspknzo.aitcaracaswww.web.instaporn.to
 n8n.office.it-service-menges.de
 na1.ai.dm-us.informaticacloud.com
 na2.dm-us.informaticacloud.com
+nav.irbm.it
 navigation.citysense.iterait.com
 navigation.ihkk.net
 navik-folkulture-api.ilnconnect.com
@@ -2354,6 +2370,7 @@ s15.api.imgcandy.com
 saas-prod-securityapi-us-01.instem.com
 safe-air.ibego.eu
 safe.gateway.i234.me
+sahibinden.ileguvenli-odeme.com
 sappo-prd.imagina.tv
 savoir-suisse.izibook.com
 scrb2b-1.t.it-finance.com
@@ -2423,9 +2440,11 @@ use1-api.mediacheck.tr-fr-prod.public.inf0.net
 user.insanakdigital.com
 users.iplatforms.co.nz
 vaultfashion.invotide.com
+vhealth.iho.in
 web.immers.space
 web.itu.edu.tr
 web3.isss.org
+webapedi.idec.co.jp
 webdisk.ikomamanabu.com
 webdisk.infinitetrust-fund.com
 webdisk.infomgmr.my.id
@@ -2531,8 +2550,10 @@ www.intensiv-one.de
 www.intensliving.dk
 www.intenstalent.be
 www.intent.vision
+www.intentconsultants.co
 www.intentionaleats.net
 www.intentionmassagetherapy.net
+www.intentionsbehavior.com
 www.intentionsbyrina.com
 www.intentionsocial.com
 www.intentonsweet.com
