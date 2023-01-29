@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,503 |
-| social | 3,524 |
-| net | 2,814 |
-| org | 2,016 |
+| social | 3,527 |
+| net | 2,815 |
+| org | 2,017 |
 | de | 1,891 |
 
 
@@ -546,6 +546,7 @@ Here's a list of public Fediverse services.
 | `7pm.org` | No |
 | `7pounds.army` | Yes |
 | `7rg.de` | No |
+| `7sdre.am` | Yes |
 | `7seven.cloud` | Yes |
 | `7td.org` | Yes |
 | `7thmagic.net` | No |
@@ -3923,6 +3924,7 @@ Here's a list of public Fediverse services.
 | `boardgames.social` | Yes |
 | `bob.wtf` | No |
 | `boba.best` | Yes |
+| `boba.fun` | No |
 | `boba.zone` | No |
 | `bobadon.co.uk` | No |
 | `bobadon.rocks` | No |
@@ -8056,6 +8058,7 @@ Here's a list of public Fediverse services.
 | `division25.xyz` | No |
 | `divita.eu` | No |
 | `divnull.com` | No |
+| `diwaniyah.social` | No |
 | `dixies.land` | No |
 | `diya-mastodon.com` | No |
 | `diymusic.space` | No |
@@ -16303,6 +16306,7 @@ Here's a list of public Fediverse services.
 | `kawane.icu` | Yes |
 | `kawasaki-city.social` | No |
 | `kawauso.ml` | No |
+| `kawayo.moe` | Yes |
 | `kawen.dance` | No |
 | `kawen.site` | No |
 | `kawen.space` | No |
@@ -21908,6 +21912,7 @@ Here's a list of public Fediverse services.
 | `muyfinanciero.com` | No |
 | `muylinux.com` | No |
 | `muyun.cloud` | No |
+| `muyun.social` | No |
 | `muzzlespace.com` | No |
 | `mv-software.de` | No |
 | `mvalente.eu` | No |
@@ -26835,6 +26840,7 @@ Here's a list of public Fediverse services.
 | `radicalzz.network` | No |
 | `radicchio.town` | No |
 | `radicle.space` | No |
+| `radig.social` | No |
 | `radio.af` | Yes |
 | `radio.fm` | Yes |
 | `radioaconchego.org` | No |
@@ -27585,6 +27591,7 @@ Here's a list of public Fediverse services.
 | `rhythmania.net` | No |
 | `rhythmgam.es` | No |
 | `rhythms-of-resistance.org` | No |
+| `riaf.xyz` | Yes |
 | `rib.gay` | Yes |
 | `ribbit.fun` | No |
 | `ribbit.social` | No |
@@ -28177,6 +28184,7 @@ Here's a list of public Fediverse services.
 | `ryg.one` | No |
 | `ryick.net` | No |
 | `ryjelsum.xyz` | Yes |
+| `rylander.cc` | Yes |
 | `rylees.net` | Yes |
 | `rym.social` | No |
 | `rymer.social` | Yes |
@@ -31675,6 +31683,7 @@ Here's a list of public Fediverse services.
 | `talk2machines.tech` | Yes |
 | `talkabout.cf` | No |
 | `talkative.fish` | No |
+| `talkbet.org` | Yes |
 | `talkbottle.com` | No |
 | `talkedabout.social` | No |
 | `talker.to` | No |
@@ -34017,6 +34026,7 @@ Here's a list of public Fediverse services.
 | `tzyl.nl` | No |
 | `u-tokyo.social` | No |
 | `u-v.de` | No |
+| `u.fail` | Yes |
 | `u0conveni.club` | Yes |
 | `u1ocloud.de` | No |
 | `u2.social` | Yes |
@@ -34209,6 +34219,7 @@ Here's a list of public Fediverse services.
 | `underwear.social` | No |
 | `underworld.fr` | No |
 | `underworld.social` | Yes |
+| `underza.net` | No |
 | `undisruptable.technology` | No |
 | `undo.it` | Yes |
 | `undrground.org` | Yes |
@@ -37289,8 +37300,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,785 |
-| Normal | 28,461 |
+| Cloudflare | 8,791 |
+| Normal | 28,466 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
