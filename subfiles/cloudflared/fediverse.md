@@ -37211,6 +37211,7 @@ Here's a list of public Fediverse services.
 | `zw.lu` | No |
 | `zwei.net` | No |
 | `zweibruecken.social` | No |
+| `zweitekassabitte.jetzt` | No |
 | `zwerfcat.world` | No |
 | `zwischenlaut.de` | No |
 | `zwist.space` | No |
@@ -37244,7 +37245,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,771 |
-| Normal | 28,429 |
+| Normal | 28,430 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
