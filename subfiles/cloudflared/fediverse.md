@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,501 |
 | social | 3,519 |
-| net | 2,809 |
+| net | 2,810 |
 | org | 2,012 |
 | de | 1,890 |
 
@@ -2119,7 +2119,7 @@ Here's a list of public Fediverse services.
 | `armendarizprecioso.ovh` | No |
 | `armingbears.com` | No |
 | `armpc.de` | No |
-| `armpit.me` | No |
+| `armpit.me` | Yes |
 | `armstube.com` | Yes |
 | `arnaudboutry.art` | No |
 | `arnauld.org` | No |
@@ -7123,6 +7123,7 @@ Here's a list of public Fediverse services.
 | `darkstar.social` | No |
 | `darktable.org.es` | No |
 | `darktech.org` | No |
+| `darkwitch.net` | Yes |
 | `darkyonmasto.ch` | No |
 | `darlow.co.uk` | No |
 | `darmstadt.social` | Yes |
@@ -37245,8 +37246,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,771 |
-| Normal | 28,431 |
+| Cloudflare | 8,773 |
+| Normal | 28,430 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
