@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,501 |
+| com | 5,503 |
 | social | 3,523 |
-| net | 2,812 |
-| org | 2,015 |
+| net | 2,814 |
+| org | 2,016 |
 | de | 1,891 |
 
 
@@ -4049,6 +4049,7 @@ Here's a list of public Fediverse services.
 | `bookwyrm.de` | No |
 | `bookwyrm.social` | No |
 | `bookwyrm.tech` | No |
+| `boon.asia` | Yes |
 | `boon.chat` | Yes |
 | `boonchat.xyz` | Yes |
 | `boony.space` | No |
@@ -6942,6 +6943,7 @@ Here's a list of public Fediverse services.
 | `daemons.it` | No |
 | `daenarion.com` | Yes |
 | `daepi.so` | Yes |
+| `daevien.com` | Yes |
 | `daf.ug` | Yes |
 | `daffodil-11.org` | No |
 | `daft.host` | Yes |
@@ -9037,6 +9039,7 @@ Here's a list of public Fediverse services.
 | `electric-goat.net` | No |
 | `electriceye.info` | No |
 | `electricglen.com` | No |
+| `electrickite.org` | No |
 | `electricmonk.social` | No |
 | `electricpea.ch` | No |
 | `electricrequiem.com` | No |
@@ -9814,6 +9817,7 @@ Here's a list of public Fediverse services.
 | `fabienphoto.eu` | No |
 | `fabiomrbarbosa.com` | Yes |
 | `fabioneves.ca` | No |
+| `fabiorusso.net` | No |
 | `fabis.cafe` | No |
 | `fabler.su` | No |
 | `fabrigli.fr` | No |
@@ -11118,6 +11122,7 @@ Here's a list of public Fediverse services.
 | `freifunk.social` | Yes |
 | `freight.fan` | No |
 | `freihd.de` | No |
+| `freiholtz.net` | No |
 | `freinetz.ch` | No |
 | `freiraumzittau.de` | No |
 | `freitas.net` | No |
@@ -20161,6 +20166,7 @@ Here's a list of public Fediverse services.
 | `mecanis.me` | Yes |
 | `mecha.garden` | Yes |
 | `mechanicalmischief.com` | No |
+| `mechanizedarmadillo.com` | Yes |
 | `mechenici.com` | No |
 | `mechkey.jp` | No |
 | `meckpom.social` | No |
@@ -23800,6 +23806,7 @@ Here's a list of public Fediverse services.
 | `offsign.nl` | No |
 | `offsite.guru` | No |
 | `offtopic.town` | No |
+| `ofloo.io` | No |
 | `ofm.bar` | No |
 | `ofmd.social` | No |
 | `ofthe.top` | No |
@@ -33051,6 +33058,7 @@ Here's a list of public Fediverse services.
 | `tomatoa.club` | No |
 | `tomatotux.net` | No |
 | `tomaz.me` | Yes |
+| `tombies.eu` | No |
 | `tombik.click` | No |
 | `tomboy.tech` | Yes |
 | `tomboyfan.club` | No |
@@ -33225,6 +33233,7 @@ Here's a list of public Fediverse services.
 | `tooter.club` | No |
 | `tooter.computer` | No |
 | `tooter.fr` | Yes |
+| `tooter.is` | No |
 | `tooter.it` | No |
 | `tooter.kr` | Yes |
 | `tooter.social` | No |
@@ -37278,8 +37287,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,782 |
-| Normal | 28,453 |
+| Cloudflare | 8,785 |
+| Normal | 28,459 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
