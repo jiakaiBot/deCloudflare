@@ -39,7 +39,6 @@ Here's a list of public Matrix services.
 | matrix.catgirl.cloud | Yes |
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
-| matrix.chatinamatrix.xyz | No |
 | matrix.chatwave.org | No |
 | chrrreeeeesss.com | No |
 | club1.fr | No |
@@ -65,7 +64,7 @@ Here's a list of public Matrix services.
 | g24.at | No |
 | matrix.gemeinsam.jetzt | No |
 | ggc-project.de | Yes |
-| matrix.glasgow.social | No |
+| glasgow.social | No |
 | matrix.grin.hu | No |
 | hackerspaces.be | No |
 | matrix.hadoly.fr | No |
@@ -96,6 +95,7 @@ Here's a list of public Matrix services.
 | pcriot.org | Yes |
 | matrix.perthchat.org | Yes |
 | matrix.pikaviestin.fi | No |
+| matrix.plus.st | No |
 | pragma-messenger.ch | No |
 | www.privacytools.io | Yes |
 | matrix.pub.solar | No |
