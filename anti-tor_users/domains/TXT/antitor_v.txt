@@ -1208,6 +1208,7 @@ zmail.valetparking.pl
 91k.vercel.app
 9s1np3xffyn92-iadf18n4w-clientshold.vercel.app
 a.vfgtg.com
+abc-color.cdn.vustreams.com
 acdn01.vidox.net
 acmp.vero.co.nz
 adfs.vggm.nl
@@ -1432,11 +1433,13 @@ mordesd.verisfbnps.buzz
 my-staronline.visaounica.net.br
 my.vettd.com
 mynew.vincotte.com
+navi.vpnswift.store
 navidmadani.vercel.app
 navidrome.vrielinck.com
 navigate-retain-websites.vercel.app
 navijaher.vercel.app
 navin-moorthy.vercel.app
+navin1551.vercel.app
 navinghimire.vercel.app
 navinsoni262626.vercel.app
 nduhiu254-gmailcom.vercel.app
@@ -1456,6 +1459,7 @@ onamaen.vps-omga.com
 ondemand-radio.aka.vrtcdn.be
 ondemand-radio.vrtcdn.be
 onenet-ws-sit.vodafone.pt
+onetrust-hl.vercel.app
 ossmobile.vodafone.pt
 ota.swmsn.prd.eu.bp.aws.cloud.vwgroup.com
 ownyourfuture.vanguard.com
@@ -1504,6 +1508,7 @@ shop.vwmanager.de
 short.lit.vodafone.pt
 shubhamnitj-gmailcom.vercel.app
 sms.vodafone.pt
+sparkasse-api.virtual-service-center.com
 sprint.vismaraet.nl
 ssvha.veosvending.com
 staging.vexonsecurity.nl
@@ -1549,6 +1554,7 @@ v-ents.com
 v-hub.vodafone.ie
 v-suncoast.info
 v-zuma.ru
+v.vfgte.com
 v2solutions.com
 v6rxv5coo5.com
 v9betpro.org
@@ -1594,6 +1600,7 @@ vcme387834ieiohlk8628709i89429e290.ewr1.vultrobjects.com
 veebox.co.uk
 vegane-jobs.de
 veggiebank.in
+vegidish.com
 veinticuatrosietesecurity.cl
 velocitywls.virtusa.com
 venepalvelu.com
@@ -1677,6 +1684,7 @@ viralspaceshare.com
 virtualtechfrontier.com
 visiblemeasures.com
 vision-service.be
+visitorinvictoria.ca
 vistoolr.net
 vita-gate.com
 vitale-experation.fr
@@ -1703,6 +1711,7 @@ vologda-oblast.ru
 vommerenexclusive.nl
 vonkonow.com
 vooculok.com
+voyageminnesota.com
 vps4.me
 vqnqrs54.com
 vrcvlyreadingservice.org
@@ -1745,6 +1754,7 @@ www.cs.moneys.verticeconstructor.com
 www.customer.vaskar.co.in
 www.equitybank-secure-customer.verification.onl
 www.git.git.gitlab.git.sslvpn.vpkver.ru
+www.git.gitlab.gitlab.gitlab.git.git.secure.viva-vika.ru
 www.git.gitlab.i.vashsad37.ru
 www.gitlab.g.sitemap.vkgo.info
 www.gitlab.git.gitlab.ninja.v9ky.info
@@ -1826,6 +1836,7 @@ www.voorafbetalen.nl
 www.voordeligvoorjou.com
 www.vote.pa.gov
 www.vous.academy
+www.vtcsprinterandalucia.com
 www.whatsapp.vaidelivery.com
 www.workdex.viewerpost.com
 vietvip.bet
