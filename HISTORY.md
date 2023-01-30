@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-01-30: [Network Performance Issues in Dallas](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/577d7nnvv1m3)
 - 2023-01-30: [Network Performance Issues in Frankfurt](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bf19902kvsgb)
 - 2023-01-31: [AMS (Amsterdam) on 2023-01-31](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/nx3z36rjrhnv)
 - 2023-01-31: [LAS (Las Vegas) on 2023-01-31](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ldhptscjk4f0)
