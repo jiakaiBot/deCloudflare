@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,517 |
-| social | 3,530 |
-| net | 2,817 |
+| com | 5,519 |
+| social | 3,533 |
+| net | 2,819 |
 | org | 2,019 |
 | de | 1,893 |
 
@@ -764,6 +764,7 @@ Here's a list of public Fediverse services.
 | `acab.land` | No |
 | `acab.ovh` | No |
 | `acab.systems` | No |
+| `academe.social` | No |
 | `academe.world` | No |
 | `academic.social` | No |
 | `academiccloud.social` | No |
@@ -4887,6 +4888,7 @@ Here's a list of public Fediverse services.
 | `caspar.social` | No |
 | `caspodon.club` | No |
 | `casraf.dev` | No |
+| `cassee.net` | No |
 | `cassette.click` | No |
 | `cassone.social` | No |
 | `castironguy.ca` | No |
@@ -5157,6 +5159,7 @@ Here's a list of public Fediverse services.
 | `chaos.koeln` | Yes |
 | `chaos.nrw` | No |
 | `chaos.social` | No |
+| `chaos.tips` | No |
 | `chaosandorder.net` | No |
 | `chaoscult.org` | Yes |
 | `chaosfem.tw` | No |
@@ -5174,6 +5177,7 @@ Here's a list of public Fediverse services.
 | `chaoswork.cn` | No |
 | `chaoszone.tv` | No |
 | `chaotic.moe` | No |
+| `chaotic.ninja` | No |
 | `chaotic.social` | No |
 | `chaoticaredux.com` | No |
 | `chaoticride.com` | No |
@@ -8001,6 +8005,7 @@ Here's a list of public Fediverse services.
 | `discuss.scot` | Yes |
 | `discuss.systems` | No |
 | `discussion.studio` | No |
+| `discworld.social` | Yes |
 | `disequilibrium.org` | Yes |
 | `disinfo.zone` | Yes |
 | `disism.com` | Yes |
@@ -9002,6 +9007,7 @@ Here's a list of public Fediverse services.
 | `eikobear.blue` | No |
 | `ein-hub-von-vielen.de` | No |
 | `einbeck.social` | No |
+| `eindhoven.social` | No |
 | `einemeru.com` | No |
 | `eineseite.at` | No |
 | `einfacheswebdesign.de` | No |
@@ -21345,6 +21351,7 @@ Here's a list of public Fediverse services.
 | `moooon.network` | No |
 | `mooooo.ooo` | Yes |
 | `moop.uk` | No |
+| `moorepixel.com` | No |
 | `moores.org` | No |
 | `moose.land` | No |
 | `moosecow.net` | Yes |
@@ -22877,6 +22884,7 @@ Here's a list of public Fediverse services.
 | `nickey.ru` | Yes |
 | `nickgreenbank.com` | No |
 | `nickjordan.co.uk` | No |
+| `nickkaczmarek.com` | No |
 | `nickmiller.dev` | No |
 | `nicknisi.com` | No |
 | `nickpegg.com` | Yes |
@@ -25902,6 +25910,7 @@ Here's a list of public Fediverse services.
 | `poliversity.it` | No |
 | `poliverso.org` | No |
 | `polli.social` | No |
+| `pollock.network` | No |
 | `pollyanna.social` | No |
 | `polonkai.eu` | No |
 | `polsci.social` | No |
@@ -28055,6 +28064,7 @@ Here's a list of public Fediverse services.
 | `rsngrtn.fyi` | No |
 | `rsnstats.com` | No |
 | `rsp-blogs.de` | No |
+| `rss.town` | No |
 | `rstdn-p.com` | No |
 | `rsxo.de` | No |
 | `rsync420.com` | No |
@@ -30814,6 +30824,7 @@ Here's a list of public Fediverse services.
 | `starkey.family` | No |
 | `starkov.site` | No |
 | `starlifter.tv` | Yes |
+| `starlight.camp` | Yes |
 | `starlilyth.net` | No |
 | `starlink.cz` | No |
 | `starlit.city` | No |
@@ -31479,6 +31490,7 @@ Here's a list of public Fediverse services.
 | `swiss-hobby-entertainment.ch` | No |
 | `swiss-talk.net` | Yes |
 | `swiss.social` | No |
+| `swissgeocaching.net` | No |
 | `swisstoots.ch` | No |
 | `swisttal.social` | No |
 | `switchserver.fr` | No |
@@ -32689,6 +32701,7 @@ Here's a list of public Fediverse services.
 | `theusefularts.org` | No |
 | `thevacuumof.space` | No |
 | `thevalley.social` | No |
+| `thevapor.space` | No |
 | `thevelvetedge.net` | No |
 | `theverge.space` | No |
 | `thevideoverse.com` | No |
@@ -37365,8 +37378,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,816 |
-| Normal | 28,506 |
+| Cloudflare | 8,818 |
+| Normal | 28,517 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
