@@ -746,6 +746,7 @@ apps.jucees.es.gov.br
 area-cliente.jongomara.es
 auth.jefersoncardoso.dev
 auth.jista.org
+autodiscover.johntwitchentenor.co.uk
 autodiscover.jornadacontradepressao.site
 autodiscover.jualmobil-toyota.com
 autodiscover.justforfoodies.site
@@ -756,6 +757,7 @@ blockchain101.work.nextplan.jetboy.jp
 booking.jonacor-charter.ru
 click.jencapcommunications.com
 clientes.jasinversiones.com
+cocoro-power.jp.sharp
 company.jr-central.co.jp
 content-origin-feeds-staging.jwplatform.com
 corporate.benesse-mcm.jp.japan-art-origin.jp
@@ -765,6 +767,7 @@ cpanel.juegoroblox.com
 cpcalendars.jalanpintasemak.com
 cpcalendars.japan-secret-service.com
 cpcalendars.jioffer.com
+cpcalendars.johntwitchentenor.co.uk
 cpcalendars.jorgecastroblog.com
 cpcalendars.juegoroblox.com
 cpcontacts.jalanpintasemak.com
@@ -886,6 +889,7 @@ jis.gov.jm
 jitsimeet.eu
 jlr.academy
 jmarierundquist.com
+jmdworks.org
 jmpaintingservice.com
 jmpharmasafe.com
 jmsi.pt
@@ -940,6 +944,7 @@ jumanji.shop
 jumpplusgoods.jp
 jumpstartmycreditscore.info
 junelfebirthcontrol.com
+jungliestpats.com
 jupiterintel.com
 justaddwaterdevelopment.com
 jvictorians.com
@@ -950,6 +955,7 @@ lemmy.juggler.jp
 login.jaysreegoldfin.com
 login.johncockrill.com
 lowcode-stg.justice.nsw.gov.au
+lunchfrench1.jigsy.com
 mail.japan-secret-service.com
 mail.jmberlin.de
 mail.nitrosports.juvo.dev
@@ -1001,6 +1007,7 @@ tmsp-webhook.jablotron.cloud
 trademarks.justia.com
 traininfo.jr-central.co.jp
 traininfo.jreast.co.jp
+twitch.jacknytely.com
 ungit.service.joa.finance
 update-jotform-api-key-env-var-name.backend-ci.junilearning.com
 update-refs-student-id-from-appt-2227679983.backend-ci.junilearning.com
@@ -1008,6 +1015,7 @@ user.113-clone-questionary-bugs.cnt-testcenter.r.jost-devops.de
 video.jigmedatse.com
 webdisk.jalanpintasemak.com
 webdisk.japan-secret-service.com
+webdisk.johntwitchentenor.co.uk
 webdisk.juegoroblox.com
 webmail.jalanpintasemak.com
 webmail.januysboerdery.co.za
@@ -1068,6 +1076,7 @@ www.jflalc.org
 www.jftc.go.jp
 www.jigowatt121.com
 www.jinjyagoshuin.com
+www.jlaf.jp
 www.jll.co.uk
 www.jll.de
 www.jmfireandsecurity.com
@@ -1129,6 +1138,7 @@ www.junkbox.com
 www.justbe.nyc
 www.justdial.com
 www.justia.com
+www.justincaseband.com
 www.justtwogoodoldboys.com
 www.juullabs.com
 www.juwelierlangeler.nl
