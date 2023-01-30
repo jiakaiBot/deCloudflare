@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,510 |
+| com | 5,511 |
 | social | 3,528 |
 | net | 2,815 |
 | org | 2,018 |
@@ -28933,6 +28933,7 @@ Here's a list of public Fediverse services.
 | `seanzach.com` | Yes |
 | `seaoco.com` | No |
 | `seaofog.com` | Yes |
+| `seaofpeers.com` | Yes |
 | `searx.li` | No |
 | `seaside.cafe` | No |
 | `seaswallow.me` | Yes |
@@ -37332,7 +37333,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,802 |
+| Cloudflare | 8,803 |
 | Normal | 28,487 |
 
 
