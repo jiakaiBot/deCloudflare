@@ -1677,6 +1677,7 @@ auth.reischmann.de
 auth.rother-oss.com
 auth.rpxapps.com
 auth.rubyfox.mx
+autodiscover.discodurossd.online.repetidoreswifi.online
 autodiscover.rbcashback.in
 autodiscover.rcnitro.cl
 autodiscover.remikelsey.website
@@ -1719,6 +1720,7 @@ contato.redeeletricasolarabc.com.br
 copy-partner-frontech-fujitsu.r-cms.jp
 counter.rambler.ru
 cpafd.rapidfinance.info
+cpanel.discodurossd.online.repetidoreswifi.online
 cpanel.rcnitro.cl
 cpanel.reformasintegralesbarcelona.info
 cpanel.regulatoryblockchain.com
@@ -1729,6 +1731,7 @@ cpanel.robloxgameplay.com
 cpanel.robloxks.com
 cpanel.roots-messebau.ae
 cpanel.rtptinder88.com
+cpcalendars.discodurossd.online.repetidoreswifi.online
 cpcalendars.randynowell.com
 cpcalendars.rcnitro.cl
 cpcalendars.reizen.raypal.info
@@ -1743,6 +1746,7 @@ cpcalendars.robloxks.com
 cpcalendars.roofmascochemical.pk
 cpcalendars.royalinvestmentsolutions.com
 cpcalendars.rtptinder88.com
+cpcontacts.discodurossd.online.repetidoreswifi.online
 cpcontacts.randynowell.com
 cpcontacts.rcnitro.cl
 cpcontacts.reizen.raypal.info
@@ -1785,6 +1789,7 @@ dev.mobile-intermediate.rbfa.services
 dev.restore.com.pt
 dev.rioservice-copieurs.com
 dfsdgfs-1b8897185d70b198c119e1d2b7efd8a2.ssl.cf1.rackcdn.com
+discodurossd.online.repetidoreswifi.online
 discord.rab-devs.com
 discord.regz.pl
 discord.riom-db.ch
@@ -1815,6 +1820,7 @@ fs.rogers-corp.com
 fsstud.ruhr-uni-bochum.de
 ftp.rtptinder88.com
 git.git.git.git.git.test-discourse.staging.remontnik.ru
+git.git.git.git.test-discourse.staging.remontnik.ru
 git.git.git.gitlab.mail.ryanmcbride.org
 git.git.gitlab.ail.mail.www.rencontre-adultere.co
 git.git.gitlab.git.gitlab.mail3.rvtrader-newhampshire.com
@@ -1981,7 +1987,10 @@ rajasthantourcarhire.com
 rajasthantripcab.com
 rajdhanisecurity.com
 rakamu.com
+raler.top
+ralet.top
 rallycontrol.ro
+ralus.top
 ramblersjournal.com
 ramboatgaming.ml
 raminerals.co.uk
@@ -2130,6 +2139,7 @@ resources.regulations.gov
 resperro.com
 restaurant-capland.fr
 restisbench.com
+restor.eco
 restorationswellness.com
 restore-hiltonhead.com
 restore-snet.com
@@ -2143,10 +2153,12 @@ retailbum.com
 retailxp.goog
 rethinkrestore.no
 retired-moocher-dave.org
+retrobrewcomputers.org
 retroid.gr
 retronics.eu
 retry-anpost.com
 retry-webapp-auth.com
+retsil-ndt.com
 returntonow.net
 rev0ke.cash
 revconto.hr
@@ -2169,6 +2181,7 @@ rheachandler.ml
 rhkyufodw8ochdr3ogsite.com
 rhombicsomeday.com
 riaconta.pt
+riadhh.com
 riadool.com
 richardfelix.co.uk
 richinfo.co
@@ -2232,6 +2245,8 @@ robloxwim.com
 roblxworks.com
 robsdyno.com
 robspabah.com
+roburgmedia.nl
+robustrade.com
 robuxpro.fun
 rockfordilnews.com
 rocklamdtrust.com
@@ -2277,7 +2292,6 @@ rovservice.cl
 roxanaysebastiantango.com
 royalmandiri.co.id
 royalservice.ro
-royaltv01.com
 rpcfinance.com
 rpfinancelk.com
 rpimanagement.org
@@ -2285,6 +2299,7 @@ rpisvr.edu.kh
 rpnyc.org.nz
 rptechniek.nl
 rs-security.com.ua
+rscaptcha.ru
 rsk.academy
 rslservice.nl
 rsmotopalvelu.fi
@@ -2297,6 +2312,7 @@ rtbrennab.com
 rtclx.com
 rtdhomes.sg
 rtgsales.fi
+rtp.tn
 rtphokibank.com
 rtvmaastricht.nl
 ru-matrix.org
@@ -2307,6 +2323,7 @@ rudenyaproject.ru
 ruftodru.net
 rugbyromania.ro
 ruka-oshiro.com
+rukkolanewyear.ru
 rumah-syariah.com
 runkleatemoya.com
 rupalibank.com.bd
@@ -2326,6 +2343,7 @@ sb.api.redlink.com.ar
 sbspool01.rsu.lv
 secure.bitcoindepot.rakibulislamlab.xyz
 sellerconnect.rugbyabp.com
+servedby.revive-adserver.net
 server15.realview.ch
 sfd25d-1b8897185d70b198c119e1d2b7efd8a2.ssl.cf1.rackcdn.com
 sfes.rakuten-bank.co.jp
@@ -2355,6 +2373,7 @@ uapr.roinnovation.com
 udrzba.rsd.cz
 uisois.remon.top
 unleashedcapital-jenkins.refinery.dev
+webdisk.discodurossd.online.repetidoreswifi.online
 webdisk.randynowell.com
 webdisk.rcnitro.cl
 webdisk.roblofaudio.com
@@ -2364,6 +2383,7 @@ webdisk.robloxks.com
 webdisk.rockstardjs.com
 webdisk.romuloreydelosamoresimposibles.com
 webdisk.rosebrookpetersfunaro.com
+webmail.discodurossd.online.repetidoreswifi.online
 webmail.rcnitro.cl
 webmail.reddecuidado.cl
 webmail.roblofaudio.com
@@ -2441,6 +2461,7 @@ www.reactiverentals.co.uk
 www.reactjsteam.com
 www.readinghasruinedmylife.com
 www.readreceipt.pro
+www.readytodistribute.com
 www.realtime1960s.com
 www.rebuildnrestore.com
 www.recet.at
@@ -2521,6 +2542,7 @@ www.rooftopruby.com
 www.rosemaryrichings.com
 www.rotax-service.ru
 www.rottentomatoes.com
+www.routeyou.com
 www.rovservice.cl
 www.rowsknitwear.com
 www.royal-hc.co.jp
