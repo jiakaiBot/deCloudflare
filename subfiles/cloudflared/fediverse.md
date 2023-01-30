@@ -10860,6 +10860,7 @@ Here's a list of public Fediverse services.
 | `forked.io` | Yes |
 | `forklift-certified.fyi` | No |
 | `forlorn.computer` | No |
+| `formansbasement.club` | Yes |
 | `forms.community` | No |
 | `formu.net` | Yes |
 | `formu1a.social` | Yes |
@@ -37378,7 +37379,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,818 |
+| Cloudflare | 8,819 |
 | Normal | 28,517 |
 
 
