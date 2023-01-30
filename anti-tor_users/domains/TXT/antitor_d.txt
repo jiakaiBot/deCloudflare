@@ -2440,7 +2440,6 @@ www.dori.si
 www.doriemillerpost213.org
 www.dorville.realestate
 www.dosgamers.com
-www.dospara.co.jp
 www.doublevcontrol.com
 www.dougahaishin-service.com
 www.douglaservice.cl
@@ -2663,6 +2662,7 @@ api.dxpromote-dev.dataservices.doverfs.com
 api.dxpromote-qa.dataservices.doverfs.com
 api.dynoacademy.com
 api.dynoboyz.com
+api.dynostics.com
 api.recaptcha.datatec-develop.com
 api.request-for-service.dev-inforit.cloud
 api.sales-test-1.bc.asmodeena-onmicrosoft-com.tds.eastus1.test.datahaven365.com
@@ -2696,6 +2696,7 @@ autodiscover.devletkamulastirma.com
 autodiscover.diederiknomden-rumbleroyale.com
 autodiscover.dijitalsube-acikdenizv5-com.tk
 autodiscover.dioscorus.org
+autodiscover.discodurossd.online
 autodiscover.discordatura.com
 autodiscover.discordiastudio.hr
 autodiscover.discotrope.org
@@ -2718,10 +2719,14 @@ backend.discord-acc.ru
 backend.discord-accounts.ru
 backoffice.discord-acc.ru
 bafybeiatckfszg7vzhbtki36ealsyjxc3hzykha45y3so64vwm7b33h52e.ipfs.dweb.link
+bafybeiav7szqp7xvs7v4fj3djm6lzksohgmczbjjld7nozlg2fet5yeete.ipfs.dweb.link
 bafybeibt6wibl22ooenbmhfrioubrlyovfrumluiml7kaebdmroile2pxy.ipfs.dweb.link
 bafybeic5c7vs2dcy3xlifm7qbu2ayf35p3ucgcqd2qwgy4myffhtjich3i.ipfs.dweb.link
 bafybeic7r5mx5oq6c52z5t7ngtpc6x7cxdmkreyf4ld3ltkpwtp3535vty.ipfs.dweb.link
 bafybeidipdxylvjhxn7fb3xmvo5c3jfn7dn6yebbiajjot6dbwod6sft3a.ipfs.dweb.link
+bafybeidiqbokbxtvf33eitczla5vze76o5gwaozhoqi6r3wjtpyawfdk7q.ipfs.dweb.link
+bafybeidivvwygluyisbb6l4osxaj3bk3oww4jtt246vw4uxglycx5fm4rq.ipfs.dweb.link
+bafybeidwj6gsxguk67xlgyfm2s3df22ywferob7eva7ywtkdgwchfo3xy4.ipfs.dweb.link
 bafybeieploeogmaoylvmdrcufo336aztv3bknxmr5xuejwlhswjl6o7whi.ipfs.dweb.link
 bafybeifocg3t7psudjz3u6uuk3f7n7odsqnqahin376u7jzx7mjseoqiea.ipfs.dweb.link
 bank.doxel.de
@@ -2815,6 +2820,7 @@ cpanel.deltachain.site
 cpanel.dimani-hanbai.site
 cpanel.dioscorus.org
 cpanel.discodazzle.co.za
+cpanel.discodurossd.online
 cpanel.discordiamental.cl
 cpanel.discordiastudio.hr
 cpanel.dynnovation.com
@@ -2826,6 +2832,7 @@ cpcalendars.descargaroblox.top
 cpcalendars.dioscorus.org
 cpcalendars.disco-jl-music.fr
 cpcalendars.discodetacografo.com.br
+cpcalendars.discodurossd.online
 cpcalendars.discordatura.com
 cpcalendars.discordedharmony.com
 cpcalendars.discordiamental.cl
@@ -2851,6 +2858,7 @@ cpcontacts.destmediagroup.com
 cpcontacts.dimani-tuhan.site
 cpcontacts.dioscorus.org
 cpcontacts.disco-jl-music.fr
+cpcontacts.discodurossd.online
 cpcontacts.discordatura.com
 cpcontacts.discordedharmony.com
 cpcontacts.discordiamental.cl
@@ -2970,6 +2978,7 @@ dddomainccc.com
 ddhvacservice.com
 ddvelop.de
 dea.sg
+dead-cells0.ru
 deadlinkedin.it
 dealer-express.com.ua
 debako.nl
@@ -2979,6 +2988,7 @@ decking-services.eu
 decorwala.com
 deed.co.th
 deefauph.com
+deeny.dev
 deeperthanwater.org
 deeppestcontrol.in
 deepsh.t.divinereel.com
@@ -2999,6 +3009,7 @@ deliverhealth.ch
 deliveries123.com
 deliveringtomorrow.ca
 deliveringtomorrow.today
+delivery-dhlexpress.com
 delivery-nv.online
 delivery-patra.gr
 delivery5.com.br
@@ -3013,6 +3024,7 @@ deliveryhobby.com
 deliveryrunspace.com
 deliverytrafficnews.com
 delmarviato.com
+delphicfraternity.net
 delrossiservice.it
 delscleaningservice.ca
 delta2security.co.za
@@ -3043,6 +3055,7 @@ descargatelocorp.net
 desekansr.com
 desertjewells.com.au
 desi-escort.com
+design.discordiastudio.hr
 designet-alex.co.il
 designu-posters.dk
 destituencies.com
@@ -3084,9 +3097,11 @@ diacord.me
 dialecticanet.com
 diamond-disco.co.uk
 diamondchain.com
+diamondleadership.com
 diamondtok.com
 dianaconta.ro
 diasciaplatly.com
+diascorr.com.br
 diberiuntukmemberi.org
 dibsemey.com
 dichtailieu247.com
@@ -3142,14 +3157,17 @@ dirittiallacitta.org
 dis.co.id
 disc.io
 discgolftradingpost.com
+dischordandharmony.com
 disco-lespectacle.fr
 disco2disco.co.uk
 discobrass.co.uk
 discodoge.org
+discodurossd.online
 discoerbank.com
 discofever.hu
 discografias.me
 discographie-rameau.com
+discon.nl
 disconworld.com
 discoovera.com
 discorante-exclusiv.li
@@ -3161,6 +3179,7 @@ discord.dlvgaming.com
 discordbans.com
 discordbots.dev
 discordbugs.tk
+discordfinance.com
 discordgameslab.com
 discordiamental.cl
 discordmembership.com
@@ -3200,6 +3219,7 @@ dixonsjamaican.com
 djclegal.com
 djelixir.com
 djelixir.jab.disco.to
+djha.in
 djlogin.dowjones.com
 djmelo.com
 djnitrous.com
@@ -3232,6 +3252,7 @@ doctorspringbed.com
 doctorya.dssgroup.pe
 docutrack.docufile.co.za
 doffingiceboat.com
+dofuspourlesnoobs.fr
 dogilar.com
 dogocreative.com
 dok.ua
@@ -3312,6 +3333,7 @@ dubrovnikchauffeurservice.com
 duckswillsmoochyou.com
 dudeism.com
 duellosheliced.com
+dufeev.org
 duit123.asia
 dulatiosa.com
 dulichsaigon.vn
@@ -3356,6 +3378,7 @@ elearning.dgmsupport.com
 eltolowoegcgio.dedyn.io
 emacs.dyerdwelling.family
 email.discord-accounts.ru
+en.darkmatter.berlin
 en.dynoscript.xyz
 engineering.dena.com
 erik-hansen.demowebsiteclient.com
@@ -3409,6 +3432,7 @@ git.git.git.git.git.git.sitemap.discord-store.ru
 git.git.git.git.git.git.wx.discord-acc.ru
 git.git.git.git.git.gitlab.business.discord-store.ru
 git.git.git.git.git.m.cloud.discord-accounts.ru
+git.git.git.git.git.sitemap.discord-store.ru
 git.git.git.git.git.vmail.desyatykh.ru
 git.git.git.git.git.wx.discord-acc.ru
 git.git.git.git.gitlab.business.discord-store.ru
@@ -3443,6 +3467,7 @@ git.git.gitlab.www.kigkxybxucls.a.mx.dentistrybliss.com
 git.git.old.discord-acc.ru
 git.git.winload.winrepl.co.herokuapp.com.dieverdorp.nl
 git.git.www.gitlab.gitlab.gitlab.cpanel.dentistrybliss.com
+git.git.wx.discord-accounts.ru
 git.gitlab.business.discord-store.ru
 git.gitlab.com.compitlab.herokuapp.com.dieverdorp.nl
 git.gitlab.firefox.phx1985.duckdns.orgpp.com.dieverdorp.nl
@@ -3521,6 +3546,7 @@ gitlab.gitlab.gitlab.gitlab.git.git.store.difolts.ru
 gitlab.gitlab.gitlab.gitlab.gitlab.git.business.discord-store.ru
 gitlab.gitlab.gitlab.play.dealercoreapp.org
 gitlab.gitlab.mo.old.djsensible.com
+gitlab.gitlab.office.discord-acc.ru
 gitlab.gitlab.v6nejbwa4mbg9qr.twp.dashenka.pp.ua
 gitlab.kzt.herokuapp.com.dieverdorp.nl
 gitlab.m.host.discord-accounts.ru
@@ -3551,6 +3577,7 @@ images.mktsvcp102wu101.svc.dynamics.com
 inchirieriauto.dinauto-service-auto.ro
 infocare.digiweb.net.nz
 infocare12.digiweb.net.nz
+inni.directmg.com
 interior-nitro-latency.geo.hosted.content.distribution.dtcisb.technology
 interior-nitro-weighted.us-east-1.geo.hosted.content.distribution.dtcisb.technology
 interior-nitro.content.distribution.dtcisb.technology
@@ -3597,6 +3624,7 @@ madartraven.deviantart.com
 madchiimp.denusmoneycircle.com
 mail.dioscorus.org
 mail.discodazzle.co.za
+mail.discodurossd.online
 mail.discordiamental.cl
 mail.dynoenergytrans.com
 mail.dynogy.com
@@ -3614,6 +3642,7 @@ milk-onetwobags-t0x0d31zgd90.deno.dev
 minhtan.davico.vn
 mirrortest.safelock.doxis.com
 mobile.discord-store.ru
+modsv2.dynotestedfiles.com
 msv24.dkonto.pl
 mta-sts.dellol.io
 myaccount.dailyscreed.live
@@ -3701,12 +3730,14 @@ skd.donghee.co.kr
 smartdispatchdev.dieboldnixdorf.com.br
 socipost.digitalpoonam.store
 soti1b.datema.se
+sporo.oexchange.discord-accounts.ru
 sso.dnbi.com
 ssw.web.docomo.ne.jp
 st02.sslstream.dlf.de
 staging-api.discord-acc.ru
 staging-steppyweb.discord-acc.ru
 staging.discord-store.ru
+staging.dpay.my
 static02.dkvseguros.com
 stats.digitalmetric.fr
 sternbach.preview.dynadev.io
@@ -3773,6 +3804,7 @@ w0000.denshikeiyaku.jp
 webdisk.depokupdate.id
 webdisk.dioscorus.org
 webdisk.discodazzle.co.za
+webdisk.discodurossd.online
 webdisk.discordedharmony.com
 webdisk.discordiamental.cl
 webdisk.discotrope.org
@@ -3791,6 +3823,7 @@ webmail.digital-banking.asia
 webmail.digitaldavinci.ca
 webmail.dioscorus.org
 webmail.discodazzle.co.za
+webmail.discodurossd.online
 webmail.discordiamental.cl
 webmail.discorsi.nl
 webmail.doingverywell.net
@@ -3976,6 +4009,7 @@ www.drk-stuttgart-shop.de
 www.drmusakhan.digitalservice.club
 www.droparticle.com
 www.drwellness.care
+www.dsanorthstar.org
 www.dsautomobiles.com.co
 www.dsm.edu.uy
 www.dtf.com.co
@@ -4078,6 +4112,7 @@ www.track.dole-ro1.com
 www.tracker.dtcl.co.tz
 www.treeservice.demositelive.com
 www.trustwallet-supports.dodz-eg.com
+www.uniondondenitovillanueva.diggingingoogle.com
 www.update.deboldelivery.com
 www.user.dhanvantary.com
 www.web.deliveryheroes.net
