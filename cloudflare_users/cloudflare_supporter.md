@@ -9072,6 +9072,7 @@ Do not create new issue or we will close it as duplicate.
 | [SachdevPawar5@twitter](https://twitter.com/SachdevPawar5/status/1401485466873090048) | advertise |
 | [Sachin39662463@twitter](https://twitter.com/Sachin39662463/status/1388022474474889217) | advertise |
 | [sachpushpawela@twitter](https://twitter.com/sachpushpawela/status/1588601171845218304) | advertise |
+| [SacreOrg@twitter](https://twitter.com/SacreOrg/status/1620189090133209088) | advertise |
 | [sacryptofund@twitter](https://twitter.com/sacryptofund/status/1511439696324435978) | advertise |
 | [SaddimN@twitter](https://twitter.com/SaddimN/status/1394441598142922752) | advertise |
 | [sadiqful_@twitter](https://twitter.com/sadiqful_/status/1404839930405195781) | advertise |
