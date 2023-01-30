@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,516 |
+| com | 5,517 |
 | social | 3,530 |
 | net | 2,817 |
 | org | 2,019 |
@@ -5946,7 +5946,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -21539,6 +21539,7 @@ Here's a list of public Fediverse services.
 | `mrkapowski.com` | Yes |
 | `mrkiddle.co.uk` | No |
 | `mrkod.com` | No |
+| `mrks.network` | Yes |
 | `mrls.xyz` | No |
 | `mrlungshot.com` | Yes |
 | `mrmoreira.com` | Yes |
@@ -31900,6 +31901,7 @@ Here's a list of public Fediverse services.
 | `taxodon.com` | No |
 | `taxtech.social` | No |
 | `tayfun.cloud` | Yes |
+| `taylanpince.com` | No |
 | `tayledras.social` | No |
 | `tayori.org` | No |
 | `tazy.xyz` | Yes |
@@ -37363,7 +37365,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,814 |
+| Cloudflare | 8,816 |
 | Normal | 28,506 |
 
 
