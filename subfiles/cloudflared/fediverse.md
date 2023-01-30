@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,513 |
+| com | 5,516 |
 | social | 3,530 |
 | net | 2,817 |
 | org | 2,019 |
-| de | 1,892 |
+| de | 1,893 |
 
 
 - Mastodon, Pleroma, etc
@@ -7860,6 +7860,7 @@ Here's a list of public Fediverse services.
 | `die-partei.social` | No |
 | `die-progressiven.de` | No |
 | `die-stammrunde.de` | No |
+| `die.one` | Yes |
 | `die3um2.de` | No |
 | `diede.app` | No |
 | `diedyoung.com` | No |
@@ -8892,6 +8893,7 @@ Here's a list of public Fediverse services.
 | `edtechme.org` | Yes |
 | `edtechstrategies.social` | No |
 | `edtechyogi.com` | No |
+| `edu.nl` | No |
 | `eduardocloud.com` | Yes |
 | `eduardocollado.com` | No |
 | `educacaovigiada.org.br` | No |
@@ -11391,6 +11393,7 @@ Here's a list of public Fediverse services.
 | `fullstuck.net` | No |
 | `fulltermprivacy.com` | No |
 | `fulltime.party` | No |
+| `fullvoid.de` | No |
 | `fullyautomatedluxurygayspacecommunism.party` | No |
 | `fultz.xyz` | No |
 | `fumi2kick.com` | No |
@@ -13353,6 +13356,7 @@ Here's a list of public Fediverse services.
 | `hedgehoghunter.club` | Yes |
 | `hedr.in` | No |
 | `hedron.io` | No |
+| `heer.xyz` | No |
 | `heewch.com` | No |
 | `heff.fyi` | No |
 | `heffley.social` | No |
@@ -14278,6 +14282,7 @@ Here's a list of public Fediverse services.
 | `iamernie.ca` | Yes |
 | `iametza.com` | No |
 | `iametza.eus` | No |
+| `iamjacke.com` | Yes |
 | `iamjannik.me` | No |
 | `iamkonstantin.eu` | Yes |
 | `iammer.net` | No |
@@ -17165,6 +17170,7 @@ Here's a list of public Fediverse services.
 | `kuester7.com` | No |
 | `kuhs.me` | Yes |
 | `kuinya.net` | Yes |
+| `kuja.xyz` | No |
 | `kujiu.org` | No |
 | `kuk.is` | No |
 | `kuketz.social` | No |
@@ -18822,6 +18828,7 @@ Here's a list of public Fediverse services.
 | `lyoko.social` | No |
 | `lyokotech.com` | No |
 | `lyokoweb.net` | No |
+| `lyon.lol` | No |
 | `lyonbros.com` | Yes |
 | `lyonsinbeta.com` | No |
 | `lyrae.us` | Yes |
@@ -19926,6 +19933,7 @@ Here's a list of public Fediverse services.
 | `mastudon.com` | No |
 | `masturbadon.com` | No |
 | `masturbatordon.info` | Yes |
+| `mastypek.lol` | No |
 | `masudadon.com` | No |
 | `masuei.net` | No |
 | `masuhr.social` | No |
@@ -28341,6 +28349,7 @@ Here's a list of public Fediverse services.
 | `saigyouji.cyou` | Yes |
 | `saii.cc` | No |
 | `saik0.com` | Yes |
+| `sail216.com` | Yes |
 | `sail42.fr` | No |
 | `saillune.online` | No |
 | `sailor.cat` | No |
@@ -29908,6 +29917,7 @@ Here's a list of public Fediverse services.
 | `slownewsdayshow.com` | No |
 | `slrie.de` | No |
 | `slrpnk.net` | No |
+| `slsrepo.com` | No |
 | `sludge.town` | Yes |
 | `sludgepool.org` | No |
 | `sluga.xyz` | No |
@@ -35799,6 +35809,7 @@ Here's a list of public Fediverse services.
 | `windows98.dev` | No |
 | `windowsnerd.cc` | No |
 | `windwords.eu.org` | No |
+| `windy.me` | No |
 | `windycity.style` | No |
 | `winecountry.social` | No |
 | `winframe.de` | Yes |
@@ -37153,6 +37164,7 @@ Here's a list of public Fediverse services.
 | `zhoal.pw` | Yes |
 | `zholnay.name` | Yes |
 | `zhub.link` | No |
+| `zhuravel.bz` | Yes |
 | `zhz.moe` | Yes |
 | `zia.io` | No |
 | `ziabo.ga` | No |
@@ -37350,8 +37362,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,809 |
-| Normal | 28,498 |
+| Cloudflare | 8,813 |
+| Normal | 28,506 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
