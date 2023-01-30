@@ -2951,6 +2951,7 @@ Do not create new issue or we will close it as duplicate.
 | [eyoung2134@twitter](https://twitter.com/eyoung2134/status/1390776289389289473) | advertise |
 | [eyr661@twitter](https://twitter.com/eyr661/status/1533640464523530240) | advertise |
 | [ey_itsalex@twitter](https://twitter.com/ey_itsalex/status/1391091357591166980) | advertise |
+| [ezdanapak@twitter](https://twitter.com/ezdanapak/status/1619968498821898242) | advertise |
 | [EzeChuk92@twitter](https://twitter.com/EzeChuk92/status/1563941063722680321) | advertise |
 | [Ezlove12345@twitter](https://twitter.com/Ezlove12345/status/1495345866483191808) | advertise |
 | [E_Throgmartin@twitter](https://twitter.com/E_Throgmartin/status/1570929398525698049) | advertise |
@@ -10303,8 +10304,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
