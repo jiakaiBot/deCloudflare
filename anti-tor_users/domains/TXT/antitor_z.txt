@@ -337,6 +337,7 @@ gateway.zscalertwo.net
 git.gitlab.git.gitlab.git.accounting.zenicolor.com
 gitlab.git.blog.demo.staging.zurvitavirtual.com
 idp.saas.zeb-it.de
+images.zmaildirect.com
 img01.ztat.net
 itau-ips-backoffice-frontend.itau-cartoes.zup.com.br
 jp.zaloapp.com
