@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,511 |
-| social | 3,528 |
-| net | 2,816 |
-| org | 2,018 |
+| com | 5,512 |
+| social | 3,530 |
+| net | 2,817 |
+| org | 2,019 |
 | de | 1,891 |
 
 
@@ -1048,6 +1048,7 @@ Here's a list of public Fediverse services.
 | `agorism.blog` | No |
 | `agrico.la` | Yes |
 | `agroecologymap.org` | No |
+| `agsj.me` | No |
 | `agudesign.cz` | No |
 | `aguiarvieira.pt` | No |
 | `aguilera.soy` | No |
@@ -8887,6 +8888,7 @@ Here's a list of public Fediverse services.
 | `edolas.world` | No |
 | `edserv.net` | Yes |
 | `edstromsocial.com` | No |
+| `edtechme.org` | Yes |
 | `edtechstrategies.social` | No |
 | `edtechyogi.com` | No |
 | `eduardocloud.com` | Yes |
@@ -9068,6 +9070,7 @@ Here's a list of public Fediverse services.
 | `electrosphe.re` | No |
 | `electroverse.tech` | No |
 | `elefant.social` | No |
+| `elefantico.social` | No |
 | `elegantnewt.blog` | No |
 | `eleith.com` | No |
 | `elekk.xyz` | Yes |
@@ -15352,6 +15355,7 @@ Here's a list of public Fediverse services.
 | `janri.de` | Yes |
 | `jansens-pott.de` | No |
 | `janstenpickle.io` | Yes |
+| `jantzen.no` | No |
 | `janusworx.com` | No |
 | `janwillemswane.nl` | No |
 | `janxy.me` | No |
@@ -23562,6 +23566,7 @@ Here's a list of public Fediverse services.
 | `nullzone.fr` | No |
 | `nulvoid.net` | Yes |
 | `numaverse.com` | No |
+| `number5.dev` | Yes |
 | `numerama.com` | Yes |
 | `numericoop.fr` | No |
 | `numerique.gouv.fr` | No |
@@ -27636,6 +27641,7 @@ Here's a list of public Fediverse services.
 | `richardandbethany.xyz` | No |
 | `richardhall.online` | No |
 | `richardjdalton.com` | No |
+| `richardo.xyz` | Yes |
 | `richardshub.com` | No |
 | `richardsoper.me` | Yes |
 | `richardzach.org` | No |
@@ -29162,6 +29168,7 @@ Here's a list of public Fediverse services.
 | `server17.net` | No |
 | `server321.de` | No |
 | `serverhosting.social` | No |
+| `serverlesscult.com` | No |
 | `servernerds.net` | Yes |
 | `serverok.pl` | No |
 | `serveromnis.com` | No |
@@ -29288,6 +29295,7 @@ Here's a list of public Fediverse services.
 | `shark.moe` | No |
 | `sharlayan.in` | No |
 | `sharma.io` | No |
+| `sharpletters.net` | Yes |
 | `shart.network` | Yes |
 | `shas.am` | No |
 | `shashindo.de` | No |
@@ -30682,6 +30690,7 @@ Here's a list of public Fediverse services.
 | `squid.kids` | No |
 | `squiddev.cc` | Yes |
 | `squiggly.club` | No |
+| `squirrelco.social` | No |
 | `squirrelmob.com` | No |
 | `squope.net` | No |
 | `squug.net` | No |
@@ -37334,8 +37343,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,804 |
-| Normal | 28,487 |
+| Cloudflare | 8,808 |
+| Normal | 28,492 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
