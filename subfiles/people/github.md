@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [An error occurred for error code: 35](https://github.com/acmesh-official/acme.sh/issues/4481)
 - [v2: CORS issues when reducing permissions](https://github.com/Cimbali/markdown-viewer/issues/101)
 - [Yet another CORS issue](https://github.com/shlinkio/shlink-web-client/issues/795)
 - [POST /files 500 Internal Server Error](https://github.com/Klowner/tussle/issues/9)
