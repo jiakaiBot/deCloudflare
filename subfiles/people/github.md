@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failed to retrieve cf_clearance cookie.](https://github.com/Xewdy444/CF-Clearance-Scraper/issues/11)
 - [WS/gRPC & SNI through CDN (Cloudflare)](https://github.com/xcode75/XManagerPlus/issues/16)
 - [Update Cloudflare code to the latest library](https://github.com/wp-media/wp-rocket/issues/5729)
 - [An error occurred for error code: 35](https://github.com/acmesh-official/acme.sh/issues/4481)
