@@ -2521,6 +2521,7 @@ Here's a list of public Fediverse services.
 | `author.chat` | Yes |
 | `authorbuzz.co.uk` | No |
 | `authren.systems` | No |
+| `autism.zone` | No |
 | `autisme.social` | No |
 | `autisten.club` | No |
 | `autistic.blog` | No |
@@ -30032,7 +30033,7 @@ Here's a list of public Fediverse services.
 | `sneak.ovh` | No |
 | `sneakerwave.net` | Yes |
 | `sneaky.computer` | Yes |
-| `sneakycrow.io` | Yes |
+| `sneakycrow.io` | No |
 | `sneakymonkey.io` | No |
 | `sneed.network` | Yes |
 | `sneed.org.uk` | No |
@@ -37346,8 +37347,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,810 |
-| Normal | 28,493 |
+| Cloudflare | 8,809 |
+| Normal | 28,495 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
