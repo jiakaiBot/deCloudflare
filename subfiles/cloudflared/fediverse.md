@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,512 |
+| com | 5,513 |
 | social | 3,530 |
 | net | 2,817 |
 | org | 2,019 |
@@ -1786,7 +1786,7 @@ Here's a list of public Fediverse services.
 | `another-guild.com` | No |
 | `another.cymru` | No |
 | `anotherbloody.com` | Yes |
-| `anotherdayu.com` | No |
+| `anotherdayu.com` | Yes |
 | `anotherfoxguy.com` | No |
 | `anotherlooser.eu` | No |
 | `anothersuper.social` | Yes |
@@ -10716,6 +10716,7 @@ Here's a list of public Fediverse services.
 | `flr.social` | No |
 | `fltd.io` | No |
 | `flubbr.nl` | No |
+| `fluegge.digital` | No |
 | `fluf.club` | No |
 | `fluff.land` | No |
 | `fluff.org` | No |
@@ -15848,6 +15849,7 @@ Here's a list of public Fediverse services.
 | `joshlevy.ca` | No |
 | `joshlglenn.com` | No |
 | `joshnicholas.blog` | No |
+| `joshpeek.com` | No |
 | `joshrandall.net` | Yes |
 | `joshtheblack.com` | Yes |
 | `joshthomas.dev` | Yes |
@@ -19000,6 +19002,7 @@ Here's a list of public Fediverse services.
 | `magnox.me` | No |
 | `magokorobin.com` | Yes |
 | `magoniadb.com` | No |
+| `magpie.gay` | No |
 | `magrathea.social` | No |
 | `maguire.social` | No |
 | `magurodon.net` | No |
@@ -36883,7 +36886,7 @@ Here's a list of public Fediverse services.
 | `yukia.me` | No |
 | `yukieyun.net` | Yes |
 | `yukiisbo.red` | No |
-| `yukimochi.io` | No |
+| `yukimochi.io` | Yes |
 | `yukimochi.jp` | No |
 | `yukineko.me` | Yes |
 | `yukisou.xyz` | No |
@@ -37343,8 +37346,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,808 |
-| Normal | 28,492 |
+| Cloudflare | 8,810 |
+| Normal | 28,493 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
