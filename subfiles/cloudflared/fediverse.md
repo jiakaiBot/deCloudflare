@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,511 |
 | social | 3,528 |
-| net | 2,815 |
+| net | 2,816 |
 | org | 2,018 |
 | de | 1,891 |
 
@@ -4908,6 +4908,7 @@ Here's a list of public Fediverse services.
 | `catalunya.social` | No |
 | `catatec.ch` | No |
 | `catboi.party` | No |
+| `catboomer.net` | No |
 | `catboy.cafe` | No |
 | `catboyindustries.co` | Yes |
 | `catcatnya.com` | No |
@@ -21929,7 +21930,7 @@ Here's a list of public Fediverse services.
 | `muy.moe` | Yes |
 | `muyfinanciero.com` | No |
 | `muylinux.com` | No |
-| `muyun.cloud` | No |
+| `muyun.cloud` | Yes |
 | `muyun.social` | No |
 | `muzzlespace.com` | No |
 | `mv-software.de` | No |
@@ -37333,7 +37334,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,803 |
+| Cloudflare | 8,804 |
 | Normal | 28,487 |
 
 
