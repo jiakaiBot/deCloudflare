@@ -219,6 +219,7 @@ gitlab.gitlab.git.git.git.sitemap.qualshop.online
 gitlab.icwleads.domains.qloaked.com
 idctvmws.qcertifica.com.br
 identityverify-wellsfargo.quantumtraveltowers.com.au
+iqweb.quick.co.jp
 it.qs-gas-safety.com
 itg1a.us1.qeadaptiveauthbo.com
 laas.cloud.qacitizensbank.com
@@ -237,9 +238,11 @@ qamwm5o8dlgijte.com
 qblueheart.com
 qbooklogin.com
 qburgh.com
+qctimes.com
 qe0ckm024b.com
 qef57ph3x.cn
 qentrega.com
+qh2engenharia.com.br
 qh88.today
 qh888.shop
 qh88z.com
@@ -266,6 +269,7 @@ quallytamp.com.br
 quangcaophuongdong.vn
 quangtrungchem.com.vn
 quantum-escort.com
+quantumai.google
 quantumits.online
 quarttzcare.com
 quartzsecurity.eu
