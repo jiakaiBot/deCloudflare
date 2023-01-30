@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,530 |
 | net | 2,817 |
 | org | 2,019 |
-| de | 1,891 |
+| de | 1,892 |
 
 
 - Mastodon, Pleroma, etc
@@ -26473,6 +26473,7 @@ Here's a list of public Fediverse services.
 | `pupbrained.xyz` | Yes |
 | `pupmaxx.com` | Yes |
 | `puppo.space` | No |
+| `puppy-social.xyz` | No |
 | `puppy.cafe` | No |
 | `puppy.place` | No |
 | `puppyfire.social` | No |
@@ -37214,6 +37215,7 @@ Here's a list of public Fediverse services.
 | `zof.sh` | No |
 | `zofe.com.br` | No |
 | `zofel.be` | No |
+| `zogan.de` | No |
 | `zohup.com` | Yes |
 | `zohup.ml` | Yes |
 | `zohup.net` | Yes |
@@ -37348,7 +37350,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,809 |
-| Normal | 28,495 |
+| Normal | 28,497 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
