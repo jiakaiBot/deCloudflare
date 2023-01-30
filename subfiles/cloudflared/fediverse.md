@@ -1470,6 +1470,7 @@ Here's a list of public Fediverse services.
 | `amane.moe` | Yes |
 | `amanite.be` | No |
 | `amanogawa.info` | No |
+| `amanogawa.work` | No |
 | `amanzi.nz` | Yes |
 | `amapin.love` | Yes |
 | `amaranth.network` | Yes |
@@ -4127,7 +4128,7 @@ Here's a list of public Fediverse services.
 | `bots-in.space` | No |
 | `botsandbees.space` | No |
 | `botsin.space` | No |
-| `botsonthego.xyz` | Yes |
+| `botsonthego.xyz` | No |
 | `botspopuli.social` | No |
 | `botta.social` | Yes |
 | `bottom.rs` | No |
@@ -21569,6 +21570,7 @@ Here's a list of public Fediverse services.
 | `msm.moe` | Yes |
 | `msmprojects.com` | No |
 | `msng.info` | Yes |
+| `msnic.jp` | Yes |
 | `msocial.top` | No |
 | `mspa.social` | No |
 | `msps.io` | Yes |
@@ -26672,7 +26674,7 @@ Here's a list of public Fediverse services.
 | `queerdon.social` | Yes |
 | `queerdorks.club` | No |
 | `queerenough.com` | No |
-| `queerfeels.com` | No |
+| `queerfeels.com` | Yes |
 | `queerfem.space` | No |
 | `queerfreiburg.de` | No |
 | `queerhackers.social` | No |
@@ -31805,6 +31807,7 @@ Here's a list of public Fediverse services.
 | `tarasis.net` | Yes |
 | `tarasupadon.com` | No |
 | `tardar.social` | No |
+| `tardis.guide` | Yes |
 | `tardis.pw` | No |
 | `tardis.world` | No |
 | `tardisproject.uk` | No |
@@ -37329,8 +37332,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,800 |
-| Normal | 28,486 |
+| Cloudflare | 8,802 |
+| Normal | 28,487 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
