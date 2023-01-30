@@ -21131,6 +21131,7 @@ Here's a list of public Fediverse services.
 | `mocodbo.com` | Yes |
 | `mod-12.com` | No |
 | `mod.digital` | No |
+| `modak.boo` | No |
 | `modalnode.club` | No |
 | `mode15.com` | No |
 | `modelrailway.social` | No |
@@ -37350,7 +37351,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,809 |
-| Normal | 28,497 |
+| Normal | 28,498 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
