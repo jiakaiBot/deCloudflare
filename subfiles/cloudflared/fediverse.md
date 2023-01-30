@@ -13133,6 +13133,7 @@ Here's a list of public Fediverse services.
 | `hanf.chat` | No |
 | `hangup.eu` | No |
 | `hankchizljaw.io` | No |
+| `hanna.lol` | Yes |
 | `hannebrook.info` | No |
 | `hanniset.fi` | No |
 | `hannover.social` | No |
@@ -37362,7 +37363,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,813 |
+| Cloudflare | 8,814 |
 | Normal | 28,506 |
 
 
