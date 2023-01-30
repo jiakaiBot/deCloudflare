@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Update Cloudflare code to the latest library](https://github.com/wp-media/wp-rocket/issues/5729)
 - [An error occurred for error code: 35](https://github.com/acmesh-official/acme.sh/issues/4481)
 - [v2: CORS issues when reducing permissions](https://github.com/Cimbali/markdown-viewer/issues/101)
 - [Yet another CORS issue](https://github.com/shlinkio/shlink-web-client/issues/795)
