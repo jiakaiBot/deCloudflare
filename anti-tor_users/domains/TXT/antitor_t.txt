@@ -2874,6 +2874,7 @@ alasdairmunro-substack-com.translate.goog
 alertmanager-stg-na-1-1a.gcp.stg.tinfoilsecurity.network
 alexberenson-substack-com.translate.goog
 alon98.tk.de
+alpha.trunks.social
 amazon-cxzaz.toythieves.com
 amazon-fggfdhfgg.toythieves.com
 amazon-xcdfer.toythieves.com
@@ -2928,6 +2929,7 @@ ask.trustme.ro
 assets-unlayer-com.translate.goog
 aus-clientportal.thryv.info
 auth.thegioimaylanh.com.vn
+auth.tilia-inc.com
 auth.tragltech.com
 auth.trangsuccuoi.com
 auth.tulero.it
@@ -3000,11 +3002,13 @@ ci.api.preprd.sharedhealth.teluslabs.net
 cimsapii.tumc.in
 cki.tradevan.com.tw
 click.e.taxact.com
+click.mail.tnt.com
 click.mail.trainhealthonline.com
 click.tp2.terrapinn.com
 click.us.techappointments.com
 clicks.tebcomms.co.uk
 clicks.totaljobs-email.co.uk
+client.tabrizit.ir
 client.terryhaganmd.com
 client.tridah.cloud
 clientarea.thetinydesign.com
@@ -3014,6 +3018,7 @@ cloudtest.taipeifubon.com.tw
 cnn-iprima-cz.translate.goog
 codebank.tuyafed.org
 community.gitlab.magento.zmail.tallyman.org
+computermuseum--visselhoevede-de.translate.goog
 coms.toyotabody.jp
 concordia.thousands.com.tw
 contactcompanyold.thefarmfactory.co.uk
@@ -3240,6 +3245,7 @@ jcb209.thrive60.com
 jenkins-op01.win.tue.nl
 jenkins.tepez.co.il
 jkdc.thecardservicesonline.com
+joinmastodon-org.translate.goog
 joytravelrewards.com.transcendencegroup.com.mx
 jp.taiwantoday.tw
 jprastreadores.com.br.tracktv.online
@@ -3300,6 +3306,7 @@ mw.tzembassy.go.tz
 mx.technolutions.net
 my800credit.thedisputewizard.com
 mypos.takeyourbill.com
+mytnt.tnt.com
 mzp67z7j64n37lgmkgqvaxq2ddu46exvqldxqcwf2sxbkr7ae-ipfs-w3s-link.translate.goog
 nagorik-net.translate.goog
 nautil-us.translate.goog
@@ -3332,6 +3339,7 @@ operation-canhan.taxbook.vn
 org.md1397.testmoydom.ru
 origem-image-online.terra.com.br
 ortogonline-com.translate.goog
+pakete-abrufen.tempurl.host
 palu.tribunnews.com
 partner-services.us-west-2.demo.trust-truth-joy.services
 partnership-coll.tim.it
@@ -3487,6 +3495,7 @@ takeoneleaveone.org
 takewarning.com
 takeyourbill.com
 takychasing.com
+tal-kw.ca
 talento-sj.com
 talenton.eu
 talhenbeauty.co.il
@@ -3496,6 +3505,7 @@ talomaena.go.th
 talsauve.com
 tamildiary.in
 tanandatable.com
+tangsoodo.cymru
 tannerfieled.net
 tanx.fr
 tanzundtheaterwerkstatt.de
@@ -3509,6 +3519,7 @@ tarrilyathenee.com
 tartator.com
 tascozconsultancyminerallimited.com
 task.run
+tattoo-supplies.com
 tattooworkshop.nl
 tatujinlog.com
 tauvoojo.net
@@ -3551,7 +3562,6 @@ technygo.net
 techpicks.co
 techrouf.com
 techsavvy.media
-techshali.com
 techvilly.com
 techwork.ng
 teciza.net
@@ -3568,6 +3578,7 @@ tekniktente.com
 teknoveri.com
 tekstanet-ru.translate.goog
 tekstra.nl
+tektro-usa.com
 telecom.na
 telecomscentre.co.zw
 telefoonvandewind.nl
@@ -3593,6 +3604,7 @@ terapi-klienter.dk
 termadodad.com
 termirepel.com
 termitescontrolservice.in
+termo.pt
 termometre-non-contact.ro
 termopane-reparatii.ro
 terms-condition.cf
@@ -3645,6 +3657,7 @@ testgmailapi.tnsoft.ir
 testgudie.es
 testingurls.net
 testmonkeys.nl
+testnegsite.com
 testprepnerds.com
 testsantilucas.tk
 testserver-ng.de
@@ -3712,6 +3725,7 @@ thegameaudio.com
 thegoodmental.com
 thegreatawakeningnft.com
 theguyontherooftop.com
+thegx.ca
 thehappyactivist.org
 thehealthyfoodrecipes.com
 thehinesgaphideaway.com
@@ -3753,6 +3767,7 @@ therandomsingaporean.com
 theresaallore.com
 theresahannig.de
 theresajenningsfineart.com
+theringer.com
 thesaker-is.translate.goog
 theseenitroute.com
 theservtech.com
@@ -3788,6 +3803,7 @@ thietkewebsitecantho.com.vn
 thingrealtape.com
 thinkgestalt.com
 thinkingispower.com
+thinktheology.co.uk
 thirtmarie.website
 thistothat.com
 thoaltie.net
@@ -3872,6 +3888,7 @@ tmx.tdbank.com
 tnbhsg.com
 tnewsline.com
 tnmba.org
+tnr.academy
 tnsc.pt
 toaks.org
 toaticket.com
@@ -3916,6 +3933,7 @@ topfox.co.uk
 topgardiner.dk
 tophomeamazon.review
 topix.com.my
+topminers.space
 toprdeus1.training-orchestra.com
 topservice.es
 topsthcshop.com
@@ -4048,6 +4066,7 @@ truepeople.space
 truestory-bg.translate.goog
 truid.tymebank.co.za
 trunks.social
+trust-co-ltd-cc.com
 trust-co-ltd-t.com
 trust-coaching.com
 trust-did.com
@@ -4080,6 +4099,7 @@ tseedspil.teknosgroup.com
 tsfunctions.net
 tslprojects.art
 tssandycateup.com
+ttinfo.ttechglobal.com
 tucabello.site
 tuffsecurity.co.nz
 tuftonarms.theproblog.com
@@ -4103,7 +4123,9 @@ twirehillers.com
 twitch-awards.com
 twitch-sms.online
 twitchdenboslar.com
+twitchen.co.uk
 twitchnasal.com
+twitchofficial.com
 twitchraids.com
 twitter.web.id
 twitterhozonloader.com
@@ -4134,6 +4156,7 @@ video-edge-691974.jfk04.abs.hls.ttvnw.net
 video-edge-785bd6.jfk04.abs.hls.ttvnw.net
 video-edge-d5c534.iad03.abs.hls.ttvnw.net
 villageinns.theproblog.com
+vilneslovo-com.translate.goog
 vivid.trend-net.net
 warnews247-gr.translate.goog
 webapi.carry.trust-truth-joy.services
@@ -4178,6 +4201,7 @@ www-elnacional-cat.translate.goog
 www-eluniverso-com.translate.goog
 www-emma-de.translate.goog
 www-eugyppius-com.translate.goog
+www-greaterlove-org-uk.translate.goog
 www-hrt-hr.translate.goog
 www-huffingtonpost-it.translate.goog
 www-iculture-nl.translate.goog
@@ -4198,6 +4222,7 @@ www-publico-es.translate.goog
 www-redebrasilatual-com-br.translate.goog
 www-renovablesverdes-com.translate.goog
 www-revistafactum-com.translate.goog
+www-rmf24-pl.translate.goog
 www-rtlnieuws-nl.translate.goog
 www-rtvslo-si.translate.goog
 www-sapiens-org.translate.goog
@@ -4311,6 +4336,7 @@ www.takafuol.com
 www.takashimaya.co.jp
 www.takeitbackcollective.com
 www.takimoto.website
+www.talenteal.com
 www.taleof2backpackers.com
 www.talilalewis.com
 www.talkontopicz.com
@@ -4322,6 +4348,7 @@ www.taoservice.id
 www.taquitos.net
 www.tasocialservice.com
 www.tavernermotorsports.com.au
+www.taxgrapplerpro.com
 www.tbc.co.jp
 www.tcbwa.com
 www.tci-global.org
@@ -4357,6 +4384,7 @@ www.termssecondary.net
 www.terrell.com
 www.tesago.es.tesagoseguridad.com
 www.tesolteachers.com
+www.testesolidar.com
 www.testingstandards.net
 www.testmetals.com
 www.testvedere.ro
