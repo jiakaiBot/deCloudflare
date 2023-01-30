@@ -1701,6 +1701,7 @@ aetr.ppd.hubprotransport.com
 afpush.herocraft.com
 air.huawei.com
 airindiaexpress.huagati.com
+allegro-emmenthal.herokuapp.com
 alpha.hrnewyear.ru
 amazon-fx.com.hectar-trade.com
 ancient-fortress-03582.herokuapp.com
@@ -1762,6 +1763,7 @@ blox.hdiuky.net
 blumenauerforms.house.gov
 bodyrock.cloud18.hostingpalvelu.fi
 br-me.herokuapp.com
+br.homeandgardenideas.com
 brbcloud.herokuapp.com
 brick-dynos-proxy-jp.herokuapp.com
 brick-dynos-proxy-na.herokuapp.com
@@ -1785,6 +1787,7 @@ cdn.halvacard.ru
 cdn.heise-business-services.com
 cha.house.gov
 chatbot.healthgrp.com.sg
+checkout.hrnewyear.ru
 chinchy-equinox.herokuapp.com
 ckdn-tkg.hitachi-ap.co.jp
 clairejacobson206788.hatenablog.com
@@ -1843,6 +1846,7 @@ cs.hubble.in
 cs.moneys.halaniimmigration.com
 customer.hasewerk.net
 customer.hostyler.com
+customerapi.hppay.in
 daigas-unsafe-api-alb-prod.hacarus.com
 delegated-identity-caucusvote.house.gov
 deliciasdeaicha-com-br.hijaziia.com.br
@@ -1906,10 +1910,13 @@ fypbreastcancermds3.herokuapp.com
 galleries.hitzefrei.com
 gateway.hallomob.com
 gen.hr-mg-logistics.jp
+git.git.crm.hrnewyear.ru
 git.git.git.git.g8mlxqkxvqgoenj.touch.hackbanks.com
+git.git.git.git.git.crm.hrnewyear.ru
 git.git.git.git.git.git.shop.hrnewyear.ru
 git.git.git.git.git.git.store.hrnewyear.ru
 git.git.git.git.intranet.hrnewyear.ru
+git.git.git.git.new.hrnewyear.ru
 git.git.git.git.shop.hrnewyear.ru
 git.git.git.new.hrnewyear.ru
 git.git.git.sms.hrnewyear.ru
@@ -1938,9 +1945,11 @@ gitlab.gitlab.gitlab.git.git.grocery.hrnewyear.ru
 gitlab.gitlab.gitlab.gitlab.blog.himchistka-dom.ru
 gitlab.localhost.hrnewyear.ru
 gmail2.hammartunskolekorps.com
+gomez.house.gov
 gptclient.helv.io
 gujjlo.herokuapp.com
 h2aek6rv0ard.com
+h2c.dev
 h3-cata.com
 habilitas.ca
 hackerjunkie.nl
@@ -1997,6 +2006,7 @@ haytchapifullz.herokuapp.com
 hbt-summer-gala-2022.hudsonvalleyballet.com
 hcabbott.ca
 hcai.ca.gov
+hcapi.hondacarindia.com
 hcbc.faith
 hcm.hondacarindia.com
 hcommons.org
@@ -2013,18 +2023,21 @@ headnet-smk-www-smk-dk-update-wp-532.test.headnet.dk
 headnet-ufm-eusupport-dk-docker.test.headnet.dk
 headwaterscentralkitchen.com
 healizm.com
+healthiersteps.com
 healthybodynodiet.com
 heartaerospace.com
 heaventurizm.com.tr
 heavymetalrarities.com
 heavyrnews.name
 hedgecraftwitch.com
+hedgescompany.com
 hedleytradingpost.ca
 hefoblast.com
 heggteknologi.no
 heilstein-datenbank.de
 heimtier-zubehoer.com
 hejaolika.se
+held-parcel.info
 heldenreis.nl
 helion.pl
 hellenicbank-apk.com
@@ -2213,9 +2226,11 @@ huntersdog.pl
 huntersgame.ir
 huntersglenhoa.net
 hunterslincoln.com
+huntersnet.ru
 huntersoft.cn
 huntersorder.com
 hunterstambola.com
+huntertech.us
 huntertrading.co.uk
 hunterwellies.ie
 hunterxlife.com
@@ -2245,6 +2260,7 @@ hyperquark.com
 hypersports.ir
 hyperstudio.es
 hyperwax.live
+hypnosbrewery.lv
 hypogeeinial.com
 hyprops.ng
 hyundaihanoi5s.net
@@ -2293,6 +2309,7 @@ localhelp.healthcare.gov
 loganarthurs44707.hatenablog.com
 login.hannasgroup.co.id
 login.hashdatadev.co
+ly.hkfture.com
 mail.haircarehiroblog.com
 mail.happynewyearquotes.info
 mail.hb8x.com
@@ -2353,13 +2370,16 @@ salman.hjnitro.com
 saosepe.hcpa.edu.br
 sautinkari.cloud21.hostingpalvelu.fi
 sberbank.sber.avito.blablacar.avito.avito.hearing-aid-4ease.com
+sbslmp-uat.hpcloud.hp.com
 sc.hkex.com.hk
 schiff.house.gov
 scrm-statics-files.hypers.com.cn
 securemembership.hfholidays.co.uk
 servicedesk.humanativaspa.it
 serviceportal.hlmgroup.as
+shared-eye.herokuapp.com
 shopify.hrnewyear.ru
+shuhari-iconoclast-production.herokuapp.com
 simiteru8150.hatenablog.com
 sissy-defalcation.herokuapp.com
 softhearted-inhumanity.herokuapp.com
@@ -2367,6 +2387,7 @@ sroom.hcu.edu.tw
 ss.hivatalosalkoholszonda.hu
 ssl-vpn1.hidc.jp
 starrag.heydo.net
+steam.hcyacg.com
 steampod30.hair-gallery.de
 storage.pie.avatar.ext.hp.com
 sts.hostway.co.kr
@@ -2386,6 +2407,7 @@ test1.homexsecurity.com
 threatresearch.ext.hp.com
 ticket.hinzaco.com
 tmtheme-editor.herokuapp.com
+torpid-zap.herokuapp.com
 totalfunds.haslerinc.com
 touch-vodafone-uk.hackbanks.com
 toxicologic-au.herokuapp.com
@@ -2454,6 +2476,7 @@ www.gitlab.git.gitlab.gitlab.git.gitlab.ns5.hronologica.com
 www.gitlab.gitlab.gitlab.git.12.hackway.su
 www.globalservice.hornproperty.com
 www.h2-sicherheit.de
+www.habe-ich-selbstgemacht.de
 www.haha.se
 www.halbeisen.at
 www.hallo-vegan.de
@@ -2502,6 +2525,7 @@ www.heredarconseguridad.com
 www.heredia.go.cr
 www.herokucdn.com
 www.herttakustannus.fi
+www.hexicongroup.com
 www.hhc-ut.net
 www.hiawathaialegionpost735.org
 www.hifisingapore.com
@@ -2545,6 +2569,7 @@ www.hopewellhub.com
 www.horizonblue.com
 www.hosticon.com
 www.hoteliermiddleeast.com
+www.hotelluxor.co
 www.hotelnewsresource.com
 www.hotelsportinglivigno.com
 www.house-pestcontrol.com
@@ -2553,6 +2578,7 @@ www.howellfarmdozerservice.com
 www.hp.com
 www.hpcleaningandsupport.co.uk
 www.hptservice.vn
+www.hsbnoticias.com
 www.hsn.com
 www.hudexchange.info
 www.hudsonsaccountancy.co.uk
@@ -2589,6 +2615,7 @@ www.hunters.gr
 www.huntersconcrete.co.nz
 www.hunterscottmacnair.com
 www.huntershabitat.com
+www.huntersheroes2013.com
 www.huntershoes.com.au
 www.huntersmalling.com
 www.hunterspointetulsa.com
@@ -2598,10 +2625,13 @@ www.huntersvolleyball.com
 www.hunterswoodscotland.com
 www.huntertones.com
 www.huntertownmeats.com
+www.hunterupholstery.co.uk
 www.huntervalleycsd.com
 www.huntervalleyedit.com
+www.hunterwenstrom.com
 www.hunterxofficial.com
 www.huntingdencarpets.com
+www.huntinglucifer.com
 www.huntingtonshowerdoor.com
 www.huntleyrental.com
 www.huntsvilletxroofing.com
