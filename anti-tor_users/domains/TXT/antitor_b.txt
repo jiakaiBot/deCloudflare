@@ -2828,6 +2828,7 @@ zmail.beton-krasnoarmejsk.ru
 4nierefabmeki12tlv.blogspot.com
 7076-2712-0823-1077-375.blogspot.com
 a365dev.b2clogin.com
+aaronfrazermusic.bandcamp.com
 abjandamelayu.blogspot.com
 ablazemysorrowblacklion.bandcamp.com
 academicauser.b2clogin.com
@@ -2851,6 +2852,7 @@ aistudio.boozallencsn.com
 alertapolicia.boomboox.net
 alertmanager.b-sre1.dev.bluescape.io
 alertmanager.prod.mzg.bestbytes.net
+alexbienstock.bandcamp.com
 amazon-pay.brightspotcdn.com
 amazon.billing-prime.online
 amietravels.blogspot.com
@@ -2868,6 +2870,7 @@ api-new.bring.com
 api-ppd.bhdleon.com.do
 api.acc.boom-api.nl
 api.ba-gmbh.com
+api.bankrespublika.az
 api.banksumut.co.id
 api.bbo.bullhornstaffing.com
 api.beem.energy
@@ -2932,6 +2935,7 @@ autodiscover.banglacoursebazar.online
 autodiscover.belezainstituto.site
 autodiscover.bennettaustin.site
 autodiscover.blue-pills.co.uk
+autodiscover.bluesignalfloorcovering.com
 autodiscover.bmcofficial.com
 autodiscover.bvg.de
 avtestonlineb2c.b2clogin.com
@@ -3049,6 +3053,7 @@ bartfilm.com
 bartoszadamiak.pl
 basicfantasy.org
 bassproblockchain.com
+bastchenge.com
 bastingestival.com
 bastos.billytravel.shop
 baswstudynotes.com
@@ -3240,6 +3245,7 @@ bioalarm.hu
 biocompost4.cl
 biocompost4.com
 biocontrol.pt
+biohackersmagazine.com
 biolarpaint.lv
 biologists.com
 biolyfecbd.net
@@ -3281,6 +3287,7 @@ blika.com
 blinqsecurity.nl
 blissflowsystems.com
 blockchain1-wallet.com
+blockchain77.com
 blockchainforcybersecurity.com
 blockchainforfinancialservices.com
 blockchainforutilities.com
@@ -3303,6 +3310,7 @@ blogrind.com
 blogtipszone.com
 blokkbanken.no
 blokwolf.com
+blondshell.bandcamp.com
 bloody-download.ru
 bloomberggovernment.com
 bloomsgiving.com
@@ -3407,7 +3415,6 @@ brcb.bper.it
 brdlandscape.com
 breachedprivacy.com
 breakfastburn-usa.us
-breakthroughfunding.co.uk
 breathesbooks.com
 brechmittelfolter-bremen.de
 breigner01.fr
@@ -3446,6 +3453,7 @@ brucefeiler.bulletin.com
 brugmanziah.bandcamp.com
 bruiloftfiets.nl
 brussels-express.eu
+brust-op-stuttgart.de
 bs-graveservice.no
 bsimobiletwo.bankbsi.co.id
 bssn.go.id
@@ -3470,6 +3478,7 @@ buildaspacustomersupport.co.uk
 buildcreditscorenow.com
 buildgreatteams.ca
 buildup.eu
+builtingym.com
 bukarekening.bni.co.id
 bulatochka.com.ua
 bulkpost.com.br
@@ -3611,7 +3620,9 @@ cpcontacts.brujeriahechizosyamarres.site
 cpcontacts.buttercrust-bakery.com
 cpg.bandainamcoasia.com
 cramedse.bpvergenc.buzz
+csgo-dedicated2.bananaspliff.com
 csgo.blatant-lizardry.moe
+current931.bandcamp.com
 custardflux.bandcamp.com
 cxidsdev.b2clogin.com
 cxidsuat.b2clogin.com
@@ -3753,11 +3764,13 @@ login.bkaksha.com
 louvoresparaacalmar.blogspot.com
 m.beautypageants.in
 m.birdsong.dev
+magenbni2022.bni.co.id
 mahamy.b2clogin.com
 mail.bakmigmkids.com
 mail.bedlamanddiscord.com
 mail.bharatpetroleum.in
 mail.broblog.blog
+maxcooper.bandcamp.com
 mbrc2023.bni.co.id
 mc.blubrry.com
 mccorebe.baselinux.net
@@ -3766,6 +3779,7 @@ melon15096491.brizy.site
 menitrust.bandcamp.com
 migrate.cdn-2.bigcheese.site
 mitsukiyo.bandcamp.com
+mm-backend.barde.app
 mng.beatonresearch.com
 mobilespark.bankmandiri.co.id
 movimentacoes.bancovillela.com
@@ -3809,6 +3823,7 @@ pix.bancovillela.com
 planblife.bni-life.co.id
 plataion56.business.site
 podium.bulletin.com
+pokemon.bobai.art
 policyreporter.b2capps.alpha.gyroscope.wb.bforbank.com
 pop.billig-ps4.dk
 portal.bancalliance.com
@@ -3861,15 +3876,18 @@ sjobs.brassring.com
 solumb2cseg.b2clogin.com
 sp.baystars.co.jp
 sp.beforward.jp
+spring-time.bandcamp.com
 ssaude.dsv.bradescoseguros.com.br
 staging.app.bridgefy.services
 staging.baf.asia
 staging.buyerlink.com
 staging.cs.labs.blackberry.com
 staging.sdk.bridgefy.services
+state.bankboubyan.com
 static.nitro-qa2.lower.k3.m1.brightspot.cloud
 steam.buzznative.xyz
 stg.bcportal.jp
+stilll-off.bandcamp.com
 store.csgomroulette.biennale.info
 strembert.bulldots.be
 stuggikidis.brumm-service.de
@@ -3888,6 +3906,7 @@ t.info.bpostbank.be
 tarihi-kum-kahvecisi.business.site
 techb2bsolutions.benchmarkurl.com
 telstra-online-sin-in-bigpond-online-telstra.blogfizz.com
+tempashot.bandcamp.com
 test.bcrecycles.ca
 test.sunshop.billesvej.dk
 test.sunshop.blog.autoconfig.billesvej.dk
@@ -3910,6 +3929,7 @@ tokyo-fight-club-barshow-restaurant.business.site
 tows.bluarc.ca
 track.barreleyez.com
 trainfou.bandcamp.com
+triberg.bandcamp.com
 tsak-giorgis.blogspot.com
 tse2.explicit.bing.net
 turboapps.blogspot.com
@@ -3980,6 +4000,7 @@ www.ballantines.ne.jp
 www.ballieballerson.com
 www.bancamediolanum.it
 www.bancanacional.com.br
+www.bangkok-bank.com
 www.bangkokbrain.com
 www.bangkoktrans.com
 www.bank-soal.bandikmentibatang.com
@@ -4030,6 +4051,7 @@ www.bekledingservice.nl
 www.beldon.com
 www.belgiantrain.be
 www.beliveu.com
+www.belle-nuit.com
 www.belter-radio.com
 www.benalupcasasviejas.es
 www.bengals.com
