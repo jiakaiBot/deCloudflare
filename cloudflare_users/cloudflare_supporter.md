@@ -5842,6 +5842,7 @@ Do not create new issue or we will close it as duplicate.
 | [lincolndu@twitter](https://twitter.com/lincolndu/status/1577637836731260928) | advertise |
 | [Lineetcom@twitter](https://twitter.com/Lineetcom/status/1432080628141289475) | advertise |
 | [LineNetizen@twitter](https://twitter.com/LineNetizen/status/1410440237751308289) | moral (advertise) |
+| [Linfiel@twitter](https://twitter.com/Linfiel/status/1620386108013154305) | advertise |
 | [LinGyi90627876@twitter](https://twitter.com/LinGyi90627876/status/1392445960488374274) | advertise |
 | [Linh69467503@twitter](https://twitter.com/Linh69467503/status/1552074440200327168) | advertise |
 | [Linh85120294@twitter](https://twitter.com/Linh85120294/status/1485994548753010690) | advertise |
