@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Downloads on the Get.Monero site are down!](https://github.com/monero-project/meta/issues/789)
+- [Files Upload Erroring Out - Self Hosted](https://github.com/standardnotes/forum/issues/2435)
 - [Failed to retrieve cf_clearance cookie.](https://github.com/Xewdy444/CF-Clearance-Scraper/issues/11)
 - [WS/gRPC & SNI through CDN (Cloudflare)](https://github.com/xcode75/XManagerPlus/issues/16)
 - [Update Cloudflare code to the latest library](https://github.com/wp-media/wp-rocket/issues/5729)
