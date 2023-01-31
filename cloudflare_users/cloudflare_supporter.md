@@ -1842,6 +1842,7 @@ Do not create new issue or we will close it as duplicate.
 | [cey36481826@twitter](https://twitter.com/cey36481826/status/1503391992877031434) | advertise |
 | [ce_kyaw@twitter](https://twitter.com/ce_kyaw/status/1397158337012113410) | advertise |
 | [cfleesphotograp@twitter](https://twitter.com/cfleesphotograp/status/1602054464005091329) | advertise |
+| [CGI_ERIC@twitter](https://twitter.com/CGI_ERIC/status/1620496261731463170) | advertise |
 | [ch1nux@twitter](https://twitter.com/ch1nux/status/1601612208739614720) | advertise |
 | [chac_vui@twitter](https://twitter.com/chac_vui/status/1393402667586572288) | advertise |
 | [ChadaramGanesh@twitter](https://twitter.com/ChadaramGanesh/status/1377217673478594565) | advertise |
@@ -6233,6 +6234,7 @@ Do not create new issue or we will close it as duplicate.
 | [manwiththelens@twitter](https://twitter.com/manwiththelens/status/1452280682613444608) | advertise |
 | [Mapesaofficial1@twitter](https://twitter.com/Mapesaofficial1/status/1530997837554757635) | advertise |
 | [MaPhyuPhyuWin2@twitter](https://twitter.com/MaPhyuPhyuWin2/status/1395061790921433088) | advertise |
+| [mapit_social@twitter](https://twitter.com/mapit_social/status/1620503024161677312) | advertise |
 | [Mapkmaster@twitter](https://twitter.com/Mapkmaster/status/1387092246756007941) | advertise |
 | [maplepie23@twitter](https://twitter.com/maplepie23/status/1578057602801336320) | advertise |
 | [marblerosee@twitter](https://twitter.com/marblerosee/status/1394172478780411906) | advertise |
