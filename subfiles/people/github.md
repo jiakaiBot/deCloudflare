@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [302 response not archived?](https://github.com/webrecorder/archiveweb.page/issues/137)
 - [Downloads on the Get.Monero site are down!](https://github.com/monero-project/meta/issues/789)
 - [Files Upload Erroring Out - Self Hosted](https://github.com/standardnotes/forum/issues/2435)
 - [Failed to retrieve cf_clearance cookie.](https://github.com/Xewdy444/CF-Clearance-Scraper/issues/11)
