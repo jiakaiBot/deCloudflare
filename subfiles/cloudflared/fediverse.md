@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,525 |
-| social | 3,540 |
+| social | 3,541 |
 | net | 2,821 |
 | org | 2,019 |
 | de | 1,895 |
@@ -2586,6 +2586,7 @@ Here's a list of public Fediverse services.
 | `aviators.network` | No |
 | `avidol.jp` | No |
 | `avinash.com.np` | Yes |
+| `avision-it.social` | No |
 | `avn.org` | No |
 | `avocado.lol` | No |
 | `avoel.de` | No |
@@ -28986,7 +28987,7 @@ Here's a list of public Fediverse services.
 | `sean.wtf` | Yes |
 | `sean666888.tk` | No |
 | `seancarpenter.net` | No |
-| `seance.online` | No |
+| `seance.online` | Yes |
 | `seaneboy.xyz` | No |
 | `seanmaddison.uk` | No |
 | `seanmorr.is` | Yes |
@@ -37419,7 +37420,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,836 |
+| Cloudflare | 8,837 |
 | Normal | 28,540 |
 
 
