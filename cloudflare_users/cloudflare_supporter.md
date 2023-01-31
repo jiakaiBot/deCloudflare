@@ -10126,6 +10126,7 @@ Do not create new issue or we will close it as duplicate.
 | [telitabisok@twitter](https://twitter.com/telitabisok/status/1392907252755931139) | advertise |
 | [tembofxai@twitter](https://twitter.com/tembofxai/status/1448912721869787148) | advertise |
 | [temen_vcs@twitter](https://twitter.com/temen_vcs/status/1499778362495344641) | advertise |
+| [temo199124@twitter](https://twitter.com/temo199124/status/1620459160629567488) | advertise |
 | [tennayrathay1@twitter](https://twitter.com/tennayrathay1/status/1552381696984592384) | advertise |
 | [Tennenee@twitter](https://twitter.com/Tennenee/status/1543516175174631424) | advertise |
 | [TenoTaren@twitter](https://twitter.com/TenoTaren/status/1388771312672280576) | advertise |
