@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,523 |
+| com | 5,525 |
 | social | 3,540 |
 | net | 2,821 |
 | org | 2,019 |
@@ -175,6 +175,7 @@ Here's a list of public Fediverse services.
 | `1242.com` | Yes |
 | `128.ca` | No |
 | `128k.blog` | No |
+| `128k.site` | No |
 | `12vpx.com` | Yes |
 | `1312.media` | No |
 | `1315.me` | No |
@@ -6346,6 +6347,7 @@ Here's a list of public Fediverse services.
 | `craftweg.com` | Yes |
 | `craig0990.net` | No |
 | `craigearley.com` | No |
+| `craigmcclellan.com` | No |
 | `craignt.com` | No |
 | `craigstewart.de` | No |
 | `crakac.com` | No |
@@ -7451,6 +7453,7 @@ Here's a list of public Fediverse services.
 | `dedosdefrente.com` | Yes |
 | `deds.nl` | No |
 | `dedyn.io` | No |
+| `deeds.digital` | Yes |
 | `deef.tech` | Yes |
 | `deeloves.me` | Yes |
 | `deep-learning.site` | No |
@@ -7911,6 +7914,7 @@ Here's a list of public Fediverse services.
 | `digitalanyone.co.uk` | No |
 | `digitalapotheosis.com` | Yes |
 | `digitalassetinfo.net` | No |
+| `digitalcarnage.co.uk` | No |
 | `digitalcastle.me` | No |
 | `digitalcitizen.at` | No |
 | `digitalcollections.nyc` | No |
@@ -8106,6 +8110,7 @@ Here's a list of public Fediverse services.
 | `djuber.tk` | No |
 | `djuchuu.co.uk` | No |
 | `dk1mi.radio` | No |
+| `dkii.best` | No |
 | `dkl.jp` | Yes |
 | `dkm.cloud` | No |
 | `dkub.dev` | Yes |
@@ -18528,6 +18533,7 @@ Here's a list of public Fediverse services.
 | `lore.monster` | Yes |
 | `lorem.club` | No |
 | `loren.pics` | No |
+| `lorenzana.engineer` | No |
 | `lorenzi.one` | Yes |
 | `lorenzoancora.info` | No |
 | `loria.fr` | No |
@@ -26584,6 +26590,7 @@ Here's a list of public Fediverse services.
 | `pyrosome.social` | No |
 | `pyry.me` | Yes |
 | `pyscript.social` | No |
+| `pythia.cloud` | No |
 | `python-podcast.de` | No |
 | `python.it` | Yes |
 | `python.szkola.pl` | No |
@@ -27455,7 +27462,7 @@ Here's a list of public Fediverse services.
 | `remoteitout.com` | No |
 | `remotelab.uk` | No |
 | `remotenode.host` | Yes |
-| `remotesec.io` | No |
+| `remotesec.io` | Yes |
 | `remouk.fr` | No |
 | `removelogic.org` | No |
 | `remram.fr` | Yes |
@@ -34089,6 +34096,7 @@ Here's a list of public Fediverse services.
 | `tyk.nu` | No |
 | `tylerdavis.xyz` | No |
 | `tylerjfisher.com` | No |
+| `tylinux.com` | Yes |
 | `tylko.fans` | Yes |
 | `tylxr.com` | Yes |
 | `tymoon.eu` | Yes |
@@ -37411,8 +37419,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,833 |
-| Normal | 28,535 |
+| Cloudflare | 8,836 |
+| Normal | 28,540 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
