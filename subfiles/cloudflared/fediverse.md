@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,522 |
 | social | 3,538 |
-| net | 2,820 |
+| net | 2,821 |
 | org | 2,019 |
 | de | 1,894 |
 
@@ -5952,7 +5952,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7529,7 +7529,7 @@ Here's a list of public Fediverse services.
 | `deleteyourfacebook.today` | No |
 | `deli.st` | Yes |
 | `delic.fi` | No |
-| `delicesbdsm.fr` | No |
+| `delicesbdsm.fr` | Yes |
 | `delire.party` | No |
 | `deliverabilit.ie` | No |
 | `deliverydoubled.com` | Yes |
@@ -9891,7 +9891,7 @@ Here's a list of public Fediverse services.
 | `fairmove.net` | No |
 | `fairpoints.social` | No |
 | `fairuse.org` | No |
-| `fairy.id` | No |
+| `fairy.id` | Yes |
 | `fairy.life` | No |
 | `fairy.zone` | No |
 | `fairyland.cyou` | Yes |
@@ -9963,7 +9963,7 @@ Here's a list of public Fediverse services.
 | `famjam.social` | Yes |
 | `famkos.net` | No |
 | `famline.ru` | Yes |
-| `fancat.ml` | No |
+| `fancat.ml` | Yes |
 | `fancy.org.uk` | Yes |
 | `fancycade.xyz` | No |
 | `fancydomain.eu` | No |
@@ -29961,7 +29961,7 @@ Here's a list of public Fediverse services.
 | `slyversoft.fr` | No |
 | `sm-mstdn.com` | No |
 | `smaier.net` | Yes |
-| `small-home.group` | No |
+| `small-home.group` | Yes |
 | `small-pieces.au` | No |
 | `small-web.org` | No |
 | `small.cloud` | No |
@@ -35028,6 +35028,7 @@ Here's a list of public Fediverse services.
 | `vivaldi.com` | Yes |
 | `vivaldi.net` | Yes |
 | `vivaristics.net` | No |
+| `vivatucson.net` | No |
 | `vivere.uno` | Yes |
 | `vivi.moe` | No |
 | `vivianmaier.club` | Yes |
@@ -37400,8 +37401,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,824 |
-| Normal | 28,533 |
+| Cloudflare | 8,827 |
+| Normal | 28,531 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
