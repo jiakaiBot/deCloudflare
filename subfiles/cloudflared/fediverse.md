@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,523 |
-| social | 3,539 |
+| com | 5,524 |
+| social | 3,540 |
 | net | 2,821 |
 | org | 2,019 |
 | de | 1,895 |
@@ -6345,6 +6345,7 @@ Here's a list of public Fediverse services.
 | `craftweg.com` | Yes |
 | `craig0990.net` | No |
 | `craigearley.com` | No |
+| `craigmcclellan.com` | No |
 | `craignt.com` | No |
 | `craigstewart.de` | No |
 | `crakac.com` | No |
@@ -7450,6 +7451,7 @@ Here's a list of public Fediverse services.
 | `dedosdefrente.com` | Yes |
 | `deds.nl` | No |
 | `dedyn.io` | No |
+| `deeds.digital` | Yes |
 | `deef.tech` | Yes |
 | `deeloves.me` | Yes |
 | `deep-learning.site` | No |
@@ -7910,6 +7912,7 @@ Here's a list of public Fediverse services.
 | `digitalanyone.co.uk` | No |
 | `digitalapotheosis.com` | Yes |
 | `digitalassetinfo.net` | No |
+| `digitalcarnage.co.uk` | No |
 | `digitalcastle.me` | No |
 | `digitalcitizen.at` | No |
 | `digitalcollections.nyc` | No |
@@ -34193,6 +34196,7 @@ Here's a list of public Fediverse services.
 | `uhh.monster` | No |
 | `uhlig.it` | No |
 | `uhlig.social` | No |
+| `uhlmann.social` | No |
 | `uhnon.com` | No |
 | `uhoreg.ca` | Yes |
 | `uhouho.xyz` | Yes |
@@ -34858,6 +34862,7 @@ Here's a list of public Fediverse services.
 | `verweg.com` | No |
 | `verweij.network` | No |
 | `verwirrung.institute` | No |
+| `very.photos` | Yes |
 | `verya.pe` | No |
 | `veryamt.com` | Yes |
 | `veryinteresting.cool` | No |
@@ -37406,8 +37411,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,829 |
-| Normal | 28,534 |
+| Cloudflare | 8,831 |
+| Normal | 28,537 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
