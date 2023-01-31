@@ -10375,6 +10375,7 @@ Do not create new issue or we will close it as duplicate.
 | [TheVaporNinja@twitter](https://twitter.com/TheVaporNinja/status/1501243621626068995) | advertise |
 | [Thewors92308064@twitter](https://twitter.com/Thewors92308064/status/1608502705328369665) | advertise |
 | [thewyfly@twitter](https://twitter.com/thewyfly/status/1471579386520371200) | advertise |
+| [TheXiteGroup@twitter](https://twitter.com/TheXiteGroup/status/1620409460631162880) | advertise |
 | [They03464315@twitter](https://twitter.com/They03464315/status/1399744810345324544) | advertise |
 | [the_ayo_ifedapo@twitter](https://twitter.com/the_ayo_ifedapo/status/1402141427564519424) | advertise |
 | [the_kinq_himsef@twitter](https://twitter.com/the_kinq_himsef/status/1547572762717196289) | advertise |
