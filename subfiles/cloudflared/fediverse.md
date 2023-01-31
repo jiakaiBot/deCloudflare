@@ -14529,6 +14529,7 @@ Here's a list of public Fediverse services.
 | `im.sb` | Yes |
 | `im20a0.com` | No |
 | `imaag.de` | No |
+| `imach.me` | Yes |
 | `image-space.info` | No |
 | `imaginair.es` | No |
 | `imagotv.fr` | No |
@@ -18939,6 +18940,7 @@ Here's a list of public Fediverse services.
 | `maciaszek.social` | No |
 | `maciej.website` | No |
 | `mackenba.ch` | No |
+| `macks.uk` | Yes |
 | `macleay.ca` | Yes |
 | `macmynatt.com` | No |
 | `macmynatt.social` | No |
@@ -34860,6 +34862,7 @@ Here's a list of public Fediverse services.
 | `verweg.com` | No |
 | `verweij.network` | No |
 | `verwirrung.institute` | No |
+| `very.photos` | Yes |
 | `verya.pe` | No |
 | `veryamt.com` | Yes |
 | `veryinteresting.cool` | No |
@@ -37408,7 +37411,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,830 |
+| Cloudflare | 8,833 |
 | Normal | 28,535 |
 
 
