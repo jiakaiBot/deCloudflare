@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,525 |
-| social | 3,541 |
-| net | 2,821 |
-| org | 2,019 |
-| de | 1,895 |
+| com | 5,529 |
+| social | 3,543 |
+| net | 2,822 |
+| org | 2,020 |
+| de | 1,896 |
 
 
 - Mastodon, Pleroma, etc
@@ -2352,6 +2352,7 @@ Here's a list of public Fediverse services.
 | `astralsystem.com` | Yes |
 | `astrel.la` | No |
 | `astria.city` | Yes |
+| `astrian.social` | Yes |
 | `astrid.tech` | Yes |
 | `astridbartels.de` | No |
 | `astro.clinic` | Yes |
@@ -3007,6 +3008,7 @@ Here's a list of public Fediverse services.
 | `basilisk.dev` | Yes |
 | `basilisk.gallery` | Yes |
 | `basilisk.technology` | No |
+| `basilweb.net` | No |
 | `basjes.nl` | No |
 | `bassam.social` | Yes |
 | `basspistol.org` | No |
@@ -5494,6 +5496,7 @@ Here's a list of public Fediverse services.
 | `chunboan.zone` | No |
 | `chungus.cc` | No |
 | `chungus.online` | Yes |
+| `chunkyguys.app` | No |
 | `chups.me` | No |
 | `churanova.eu` | No |
 | `churrosoft.ar` | Yes |
@@ -9575,6 +9578,7 @@ Here's a list of public Fediverse services.
 | `espressoapps.social` | No |
 | `esprit-fablab.org` | No |
 | `esq.social` | No |
+| `esqcast.com` | No |
 | `esquer.dev` | No |
 | `esquinafeliz.com` | No |
 | `esrever.cc` | No |
@@ -9588,6 +9592,7 @@ Here's a list of public Fediverse services.
 | `estoespodcast.net` | Yes |
 | `estradi-niol-of.services` | No |
 | `estrageit.net` | No |
+| `estrisabnor.com` | Yes |
 | `estrogen.network` | Yes |
 | `estwald.icu` | No |
 | `et-puis.eu` | No |
@@ -12500,6 +12505,7 @@ Here's a list of public Fediverse services.
 | `goodchristian.website` | No |
 | `goodevilgenius.org` | Yes |
 | `goodfeeds.net` | No |
+| `goodlett.social` | No |
 | `goodman-wilson.com` | Yes |
 | `goodmotion.de` | No |
 | `goodo.men` | No |
@@ -16284,6 +16290,7 @@ Here's a list of public Fediverse services.
 | `karl.guru` | No |
 | `karlender.net` | No |
 | `karlmarx.social` | No |
+| `karlnotcarl.com` | Yes |
 | `karloskar.org` | No |
 | `karlrolson.com` | No |
 | `karlskron-politik.info` | No |
@@ -21613,6 +21620,7 @@ Here's a list of public Fediverse services.
 | `msicc.net` | No |
 | `msinschek.de` | No |
 | `msitc.de` | No |
+| `msjl.nl` | No |
 | `msky.cafe` | Yes |
 | `msky.tokyo` | Yes |
 | `msky.work` | Yes |
@@ -22306,6 +22314,7 @@ Here's a list of public Fediverse services.
 | `nand.tk` | No |
 | `nandon.cc` | No |
 | `naninani.uk` | No |
+| `nannerpuss.club` | Yes |
 | `nanoapp.io` | No |
 | `nanobyte.cafe` | No |
 | `nanocloud.solutions` | No |
@@ -28663,6 +28672,7 @@ Here's a list of public Fediverse services.
 | `sb17.space` | No |
 | `sbaron.fr` | No |
 | `sbcloud.cc` | Yes |
+| `sbea.in` | Yes |
 | `sbg-social.at` | No |
 | `sbit.xyz` | No |
 | `sbite0138.net` | Yes |
@@ -31418,6 +31428,7 @@ Here's a list of public Fediverse services.
 | `surazal.net` | No |
 | `surfin.dog` | No |
 | `surfnet.space` | No |
+| `surfshark.com` | Yes |
 | `surftao.life` | Yes |
 | `surfzone.nz` | Yes |
 | `surgeons.social` | Yes |
@@ -31732,6 +31743,7 @@ Here's a list of public Fediverse services.
 | `tailored.social` | No |
 | `tailsproject.co` | No |
 | `tailswish.industries` | No |
+| `taintedworld.org` | Yes |
 | `tainton.uk` | Yes |
 | `taiwan.wtf` | Yes |
 | `taiy.me` | Yes |
@@ -32662,6 +32674,7 @@ Here's a list of public Fediverse services.
 | `theredcaps.net` | No |
 | `thereeferal.com` | No |
 | `theres.life` | No |
+| `theresa.network` | Yes |
 | `theresnotime.io` | Yes |
 | `therestartproject.org` | Yes |
 | `therevert.org` | No |
@@ -33703,6 +33716,7 @@ Here's a list of public Fediverse services.
 | `troetbande.social` | No |
 | `troetco.de` | No |
 | `troeterei.de` | No |
+| `troetet.de` | No |
 | `troettroet.de` | No |
 | `troidy.social` | Yes |
 | `troll-zeit.de` | No |
@@ -37420,8 +37434,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,837 |
-| Normal | 28,540 |
+| Cloudflare | 8,845 |
+| Normal | 28,546 |
 
 
-### 23.6% of public Fediverse services are using Cloudflare.
+### 23.7% of public Fediverse services are using Cloudflare.
