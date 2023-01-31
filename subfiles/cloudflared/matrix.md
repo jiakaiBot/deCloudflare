@@ -53,7 +53,6 @@ Here's a list of public Matrix services.
 | matrix.dieandalusier.net | No |
 | matrix.duesen.chat | No |
 | matrix.envs.net | No |
-| exarius.org | No |
 | matrix.fachschaften.org | No |
 | feneas.org | No |
 | matrix.flieger.chat | No |
@@ -61,6 +60,7 @@ Here's a list of public Matrix services.
 | matrix.frei.chat | No |
 | matrix.freiburg.social | No |
 | freitrix.de | No |
+| matrix.fsfe.org | No |
 | matrix.fulda.social | No |
 | g24.at | No |
 | matrix.gemeinsam.jetzt | No |
