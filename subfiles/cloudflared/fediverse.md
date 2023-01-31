@@ -6087,6 +6087,7 @@ Here's a list of public Fediverse services.
 | `confusi.one` | No |
 | `conglomer.net` | Yes |
 | `conguista.net` | No |
+| `conii.co` | Yes |
 | `coniunct.io` | Yes |
 | `conjured.space` | No |
 | `conley.io` | No |
@@ -37407,7 +37408,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,829 |
+| Cloudflare | 8,830 |
 | Normal | 28,535 |
 
 
