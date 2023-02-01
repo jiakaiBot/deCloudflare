@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,539 |
-| social | 3,548 |
+| social | 3,550 |
 | net | 2,825 |
 | org | 2,021 |
 | de | 1,899 |
@@ -4513,6 +4513,7 @@ Here's a list of public Fediverse services.
 | `buoyantair.co` | No |
 | `burch.es` | No |
 | `burchill.social` | No |
+| `bureau-wehrmann.eu` | Yes |
 | `burg-halle.de` | No |
 | `burg.art` | Yes |
 | `burger.rodeo` | Yes |
@@ -9014,6 +9015,7 @@ Here's a list of public Fediverse services.
 | `eicht.me` | No |
 | `eick.com` | Yes |
 | `eicker.news` | No |
+| `eiden.ch` | Yes |
 | `eideo.de` | No |
 | `eientei.org` | No |
 | `eierteich.de` | No |
@@ -26573,6 +26575,7 @@ Here's a list of public Fediverse services.
 | `purplepa.ws` | No |
 | `purplepenguin.lol` | No |
 | `purplerabbit.xyz` | No |
+| `purplespider.social` | No |
 | `purposefully.social` | No |
 | `purr.gq` | No |
 | `pusang-ina-mo.ooo` | No |
@@ -27133,6 +27136,7 @@ Here's a list of public Fediverse services.
 | `rants.au` | Yes |
 | `rants.org` | No |
 | `rantz.xyz` | No |
+| `rap.pm` | Yes |
 | `rap.social` | Yes |
 | `rapadura.site` | No |
 | `rape.town` | No |
@@ -34446,6 +34450,7 @@ Here's a list of public Fediverse services.
 | `univ-paris-diderot.fr` | No |
 | `univalence.me` | Yes |
 | `univdon.com` | No |
+| `univention.social` | No |
 | `universalstoryengine.com` | No |
 | `universeodon.com` | Yes |
 | `universoalterno.es` | No |
@@ -37471,8 +37476,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,855 |
-| Normal | 28,573 |
+| Cloudflare | 8,858 |
+| Normal | 28,575 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
