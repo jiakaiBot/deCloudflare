@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Workspaces Cloudflare 521 error and ERR_TOO_MANY_REDIRECTS](https://github.com/kasmtech/workspaces-issues/issues/328)
 - [No such file or directory](https://github.com/mag37/dockcheck/issues/6)
 - [osumatrix.me is down](https://github.com/oSumAtrIX/DownOnSpot/issues/49)
 - [Mermaid.ink down with timeout error](https://github.com/mermaid-js/mermaid-live-editor/issues/1148)
