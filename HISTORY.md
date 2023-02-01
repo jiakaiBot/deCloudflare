@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-02-01: [TPE (Taipei) on 2023-02-01](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0y1gtps3w627)
 - 2023-02-03: [MRS (Marseille) on 2023-02-03](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lzq0kpn68l1k)
 - 2023-02-03: [SCL (Santiago) on 2023-02-03](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qygk7c9xhf7c)
 - 2023-02-03: [PHX (Phoenix) on 2023-02-03](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kct2gy3vvdgp)
