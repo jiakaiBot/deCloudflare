@@ -5248,8 +5248,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6053,6 +6053,7 @@ Do not create new issue or we will close it as duplicate.
 | [LukeParkerDev@twitter](https://twitter.com/LukeParkerDev/status/1463643178242752515) | advertise |
 | [lukyy404@twitter](https://twitter.com/lukyy404/status/1532624007513907200) | advertise |
 | [LuLay33753810@twitter](https://twitter.com/LuLay33753810/status/1391572999329882112) | advertise |
+| [lulledinguilt@twitter](https://twitter.com/lulledinguilt/status/1620777569867161600) | advertise |
 | [LuMin67718407@twitter](https://twitter.com/LuMin67718407/status/1394701176998817792) | advertise |
 | [Lun34192472@twitter](https://twitter.com/Lun34192472/status/1398103398453440512) | advertise |
 | [lun53738567@twitter](https://twitter.com/lun53738567/status/1396546452512407552) | advertise |
@@ -8641,6 +8642,7 @@ Do not create new issue or we will close it as duplicate.
 | [quangvi23804819@twitter](https://twitter.com/quangvi23804819/status/1392901696733413377) | advertise |
 | [quanpha77413701@twitter](https://twitter.com/quanpha77413701/status/1559802704251105280) | advertise |
 | [QuantusTecSol@twitter](https://twitter.com/QuantusTecSol/status/1425608252662992896) | advertise |
+| [quan_hoang1803@twitter](https://twitter.com/quan_hoang1803/status/1620757954453712898) | advertise |
 | [quartexnet@twitter](https://twitter.com/quartexnet/status/1456456640744632320) | advertise |
 | [quay_lam@twitter](https://twitter.com/quay_lam/status/1391964463318720523) | advertise |
 | [QucAnh43254041@twitter](https://twitter.com/QucAnh43254041/status/1498321851013275654) | advertise |
@@ -11192,6 +11194,7 @@ Do not create new issue or we will close it as duplicate.
 | [VincentNguyn5@twitter](https://twitter.com/VincentNguyn5/status/1552245153322397697) | advertise |
 | [VINCENTRIX184@twitter](https://twitter.com/VINCENTRIX184/status/1605518018183712775) | advertise |
 | [VinhH55904850t@twitter](https://twitter.com/VinhH55904850t/status/1477898812764999681) | advertise |
+| [VinhL66476170@twitter](https://twitter.com/VinhL66476170/status/1620764837184933889) | advertise |
 | [vinhlcv@twitter](https://twitter.com/vinhlcv/status/1508827801981714432) | advertise |
 | [vinhngu79083341@twitter](https://twitter.com/vinhngu79083341/status/1386229081218306048) | advertise |
 | [VinhPhu11882452@twitter](https://twitter.com/VinhPhu11882452/status/1399627549534310401) | advertise |
