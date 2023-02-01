@@ -5967,7 +5967,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -11207,7 +11207,7 @@ Here's a list of public Fediverse services.
 | `freshman.dev` | No |
 | `freumh.org` | No |
 | `freundica.de` | No |
-| `freundliches.de` | No |
+| `freundliches.de` | Yes |
 | `freundtech.com` | No |
 | `freyhult.net` | No |
 | `freyrlepage.com` | Yes |
@@ -23528,6 +23528,7 @@ Here's a list of public Fediverse services.
 | `noyer.app` | No |
 | `noyu.me` | No |
 | `noyuno.space` | No |
+| `nozomi.best` | Yes |
 | `nozzi.social` | No |
 | `npa-marseille.org` | No |
 | `npcore.net` | Yes |
@@ -37470,8 +37471,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,852 |
-| Normal | 28,575 |
+| Cloudflare | 8,855 |
+| Normal | 28,573 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
