@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [How can I log more detailed information?](https://github.com/tus/tus-java-client/issues/80)
 - [Workspaces Cloudflare 521 error and ERR_TOO_MANY_REDIRECTS](https://github.com/kasmtech/workspaces-issues/issues/328)
 - [No such file or directory](https://github.com/mag37/dockcheck/issues/6)
 - [osumatrix.me is down](https://github.com/oSumAtrIX/DownOnSpot/issues/49)
