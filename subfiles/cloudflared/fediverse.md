@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,533 |
-| social | 3,546 |
-| net | 2,824 |
-| org | 2,020 |
+| com | 5,538 |
+| social | 3,548 |
+| net | 2,825 |
+| org | 2,021 |
 | de | 1,898 |
 
 
@@ -5457,6 +5457,7 @@ Here's a list of public Fediverse services.
 | `christmas.tattoo` | No |
 | `christmas2023.au` | No |
 | `christodon.com` | No |
+| `christophercasper.com` | Yes |
 | `christopherhimes.com` | Yes |
 | `christopherirl.social` | No |
 | `christopherjones.us` | No |
@@ -5487,6 +5488,7 @@ Here's a list of public Fediverse services.
 | `chrotonic.com` | No |
 | `chrxs.net` | No |
 | `chrysanthem.org` | No |
+| `chswx.social` | No |
 | `chth85.ovh` | No |
 | `chtisurel.net` | No |
 | `chubbybubble.life` | No |
@@ -5926,6 +5928,7 @@ Here's a list of public Fediverse services.
 | `coletivos.org` | No |
 | `coley.co` | No |
 | `colibris-outilslibres.org` | No |
+| `colinlabs.com` | No |
 | `colinmartin.uk` | No |
 | `colino.net` | No |
 | `colinramsay.co.uk` | Yes |
@@ -10141,6 +10144,7 @@ Here's a list of public Fediverse services.
 | `federated.press` | Yes |
 | `federated.zone` | No |
 | `federatedfandom.net` | No |
+| `federatedhub.org` | No |
 | `federatedme.com` | No |
 | `federatedservices.ch` | No |
 | `federati.net` | No |
@@ -11048,6 +11052,7 @@ Here's a list of public Fediverse services.
 | `freakenstein.nl` | No |
 | `freakingfurries.ca` | No |
 | `freaklab.es` | No |
+| `freaknweekend.com` | No |
 | `freaks.social` | Yes |
 | `freaksonly.space` | No |
 | `freaksquirrel.net` | No |
@@ -14224,6 +14229,7 @@ Here's a list of public Fediverse services.
 | `hw74.com` | No |
 | `hwahlgren.dev` | No |
 | `hwang.me.uk` | No |
+| `hwarf.com` | Yes |
 | `hwc.brussels` | No |
 | `hwdon.jp` | No |
 | `hwfo.online` | No |
@@ -18347,6 +18353,7 @@ Here's a list of public Fediverse services.
 | `lka.hu` | No |
 | `lkaybob.pe.kr` | Yes |
 | `lkbch.com` | No |
+| `lkinley.com` | No |
 | `lkjxblog.tech` | Yes |
 | `lkmx.de` | No |
 | `lksz.me` | Yes |
@@ -25503,6 +25510,7 @@ Here's a list of public Fediverse services.
 | `pinellas.space` | No |
 | `pinetree.ink` | No |
 | `pinewoodroad.net` | No |
+| `ping.moi` | No |
 | `pingbase.net` | No |
 | `pingo-computer.de` | No |
 | `pingupod.de` | No |
@@ -27040,7 +27048,7 @@ Here's a list of public Fediverse services.
 | `raitsc.uk` | No |
 | `raiuraiu.de` | No |
 | `raize.in` | No |
-| `raki.club` | No |
+| `raki.club` | Yes |
 | `raki.social` | No |
 | `rakitov.org` | No |
 | `rakka.tk` | No |
@@ -28619,6 +28627,7 @@ Here's a list of public Fediverse services.
 | `sasix.it` | No |
 | `saskodon.ca` | No |
 | `sassy.pics` | No |
+| `sassyass.net` | No |
 | `sastry.co` | Yes |
 | `sastudio.jp` | No |
 | `sasuga.xyz` | No |
@@ -30170,6 +30179,7 @@ Here's a list of public Fediverse services.
 | `snowii.moe` | Yes |
 | `snowleopard.run` | Yes |
 | `snowmans.land` | Yes |
+| `snowmastodon.social` | Yes |
 | `snowmew.gay` | No |
 | `snowp.io` | No |
 | `snowshaven.space` | No |
@@ -37334,6 +37344,7 @@ Here's a list of public Fediverse services.
 | `zom.bi` | No |
 | `zomaareenfeestje.org` | No |
 | `zombiecats.run` | No |
+| `zombielawng.nom.es` | No |
 | `zombienet.org` | No |
 | `zombini.fr` | No |
 | `zombocloud.com` | No |
@@ -37457,8 +37468,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,847 |
-| Normal | 28,567 |
+| Cloudflare | 8,851 |
+| Normal | 28,574 |
 
 
 ### 23.6% of public Fediverse services are using Cloudflare.
