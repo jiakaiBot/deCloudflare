@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Mermaid.ink down with timeout error](https://github.com/mermaid-js/mermaid-live-editor/issues/1148)
 - [Unmarshal Response s3/GetObjectTagging failed, attempt 11/25, error SerializationError: failed to decode REST XML response](https://github.com/aws/aws-sdk-go/issues/4709)
 - [CloudFlare Cloudflare API service issues](https://github.com/MatBenfield/news/issues/8870)
 - [302 response not archived?](https://github.com/webrecorder/archiveweb.page/issues/137)
