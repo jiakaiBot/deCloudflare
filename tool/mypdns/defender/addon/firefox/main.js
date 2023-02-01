@@ -20,7 +20,7 @@ function stopDownload() {
 }
 function doDownload(url) {
    return new Promise((g, b) => {
-      fetch('https://mypdns.org/my-privacy-dns/matrix/-/raw/master/source/' + url + '?no_cache=' + dymd(), {
+      fetch('https://karma.crimeflare.eu.org:1984/api/mypdns/get_url/matrixlist/?path=' + url + '@no_cache_' + dymd(), {
          method: 'GET',
          mode: 'no-cors',
          cache: 'force-cache',
