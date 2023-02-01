@@ -14738,6 +14738,7 @@ Here's a list of public Fediverse services.
 | `informaton.blog` | No |
 | `informethique.org` | No |
 | `infosec.exchange` | No |
+| `infosec.place` | No |
 | `infosec.press` | No |
 | `infosecnerd.cc` | No |
 | `infosex.exchange` | No |
@@ -22995,7 +22996,7 @@ Here's a list of public Fediverse services.
 | `nih.gov` | Yes |
 | `nihao.pub` | Yes |
 | `nihar.page` | Yes |
-| `nihars.in` | No |
+| `nihars.in` | Yes |
 | `nihilist.space` | No |
 | `nihilum.space` | No |
 | `nihongoposter.club` | No |
@@ -37456,7 +37457,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,846 |
+| Cloudflare | 8,847 |
 | Normal | 28,567 |
 
 
