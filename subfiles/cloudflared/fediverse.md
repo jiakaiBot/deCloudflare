@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,540 |
-| social | 3,552 |
+| social | 3,553 |
 | net | 2,826 |
 | org | 2,021 |
 | de | 1,899 |
@@ -14815,6 +14815,7 @@ Here's a list of public Fediverse services.
 | `inmmosiliketo.tk` | No |
 | `inn4tel.social` | No |
 | `inndy.tw` | Yes |
+| `innernette.social` | No |
 | `innerwebs.social` | Yes |
 | `innkeep.co` | No |
 | `innkeepergames.com` | No |
@@ -37488,7 +37489,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,859 |
-| Normal | 28,585 |
+| Normal | 28,586 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
