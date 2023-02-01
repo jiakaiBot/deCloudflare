@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-02-03: [SCL (Santiago) on 2023-02-03](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qygk7c9xhf7c)
 - 2023-02-03: [PHX (Phoenix) on 2023-02-03](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kct2gy3vvdgp)
 - 2023-02-06: [ICN (Seoul) on 2023-02-06](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9n8qxn4790kl)
 - 2023-01-31: [Connectivity issues in Bangkok](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g4k986d5rr64)
