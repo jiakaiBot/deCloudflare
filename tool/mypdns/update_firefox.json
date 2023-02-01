@@ -22,9 +22,9 @@
               "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.0.4",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/defender/addon/firefox/addon.xpi?ac6295f529e67815398635a975ec403fd8c48ddfb58950726b98d886970f8cf1",
-          "update_hash": "sha256:ac6295f529e67815398635a975ec403fd8c48ddfb58950726b98d886970f8cf1"
+          "version": "1.0.0.5",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/defender/addon/firefox/addon.xpi?b4bc135feafbc6f99b01233c7cc97ae73b3ca294e82b589f97f47054f28c5098",
+          "update_hash": "sha256:b4bc135feafbc6f99b01233c7cc97ae73b3ca294e82b589f97f47054f28c5098"
         }
       ]
     },
