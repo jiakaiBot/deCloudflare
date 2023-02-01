@@ -16019,7 +16019,7 @@ Here's a list of public Fediverse services.
 | `juju.house` | No |
 | `juju.nz` | Yes |
 | `juke.fr` | Yes |
-| `julekraus.de` | No |
+| `julekraus.de` | Yes |
 | `juleserver.no` | Yes |
 | `julialang.social` | No |
 | `julianjulian.moe` | No |
@@ -26005,6 +26005,7 @@ Here's a list of public Fediverse services.
 | `polynom.me` | No |
 | `polyohm.net` | No |
 | `polyphony.me` | No |
+| `polyserv.xyz` | No |
 | `polyson.space` | No |
 | `polytech-reseau.org` | No |
 | `pom.community` | No |
@@ -29962,7 +29963,7 @@ Here's a list of public Fediverse services.
 | `slatecave.net` | No |
 | `slattery.social` | No |
 | `slattyslatt.life` | No |
-| `slayers.online` | No |
+| `slayers.online` | Yes |
 | `slcb.xyz` | No |
 | `sldon.jp` | No |
 | `sled.social` | No |
@@ -37488,8 +37489,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,859 |
-| Normal | 28,586 |
+| Cloudflare | 8,861 |
+| Normal | 28,585 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
