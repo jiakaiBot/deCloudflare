@@ -2107,8 +2107,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -10226,6 +10226,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thanhthienngu13@twitter](https://twitter.com/Thanhthienngu13/status/1556346876995063808) | advertise |
 | [ThanHti21144948@twitter](https://twitter.com/ThanHti21144948/status/1499974741159194625) | advertise |
 | [Thanhti81320901@twitter](https://twitter.com/Thanhti81320901/status/1385916921774702593) | advertise |
+| [thanhtikeag13@twitter](https://twitter.com/thanhtikeag13/status/1620668504625262592) | advertise |
 | [thanhtin187020@twitter](https://twitter.com/thanhtin187020/status/1402666295019991045) | advertise |
 | [ThanhTo64819679@twitter](https://twitter.com/ThanhTo64819679/status/1552581167849046017) | advertise |
 | [thanhtuantmck@twitter](https://twitter.com/thanhtuantmck/status/1559274715247935488) | advertise |
@@ -12030,6 +12031,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZinLinPhyu6@twitter](https://twitter.com/ZinLinPhyu6/status/1396153510375342083) | advertise |
 | [Zinmin0@twitter](https://twitter.com/Zinmin0/status/1393561035903160321) | advertise |
 | [ZinMin31587579@twitter](https://twitter.com/ZinMin31587579/status/1391210545638887424) | advertise |
+| [ZinMin54889045@twitter](https://twitter.com/ZinMin54889045/status/1620684934884245505) | advertise |
 | [ZinMinH26563161@twitter](https://twitter.com/ZinMinH26563161/status/1391146138166710276) | advertise |
 | [ZinMinH35223078@twitter](https://twitter.com/ZinMinH35223078/status/1396691482988351488) | advertise |
 | [ZinMinP94065189@twitter](https://twitter.com/ZinMinP94065189/status/1391611125712760835) | advertise |
