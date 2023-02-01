@@ -3365,6 +3365,7 @@ Do not create new issue or we will close it as duplicate.
 | [goseki@twitter](https://twitter.com/goseki/status/1395683930536251393) | advertise |
 | [got7bambamkanja@twitter](https://twitter.com/got7bambamkanja/status/1405505624645914628) | advertise |
 | [GotMilk080702@twitter](https://twitter.com/GotMilk080702/status/1560579136825212928) | advertise |
+| [Gouzer6@twitter](https://twitter.com/Gouzer6/status/1620709961511882753) | advertise |
 | [governa@twitter](https://twitter.com/governa/status/1516708406522007558) | advertise |
 | [GoyunInfo@twitter](https://twitter.com/GoyunInfo/status/1486163916564705281) | advertise |
 | [go_to_happy_@twitter](https://twitter.com/go_to_happy_/status/1377840144179400704) | advertise |
@@ -11846,6 +11847,7 @@ Do not create new issue or we will close it as duplicate.
 | [YThu999@twitter](https://twitter.com/YThu999/status/1378320350136655872) | advertise |
 | [Ytonymlo97@twitter](https://twitter.com/Ytonymlo97/status/1585061094217113600) | advertise |
 | [ytPGamerX@twitter](https://twitter.com/ytPGamerX/status/1425139212152500224) | advertise |
+| [Yu03773058@twitter](https://twitter.com/Yu03773058/status/1620709694242459648) | advertise |
 | [yubian_meiwu@twitter](https://twitter.com/yubian_meiwu/status/1451610756370161665) | advertise |
 | [Yucky17358536@twitter](https://twitter.com/Yucky17358536/status/1559099220136980480) | advertise |
 | [yuenbeihai@twitter](https://twitter.com/yuenbeihai/status/1376673572677021699) | advertise |
