@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,539 |
-| social | 3,550 |
-| net | 2,825 |
+| com | 5,540 |
+| social | 3,552 |
+| net | 2,826 |
 | org | 2,021 |
 | de | 1,899 |
 
@@ -2595,6 +2595,7 @@ Here's a list of public Fediverse services.
 | `avoel.de` | No |
 | `avoh.club` | No |
 | `avtobiografia.com` | Yes |
+| `avtweeps.social` | No |
 | `awa.im` | Yes |
 | `awakeningproject.net` | No |
 | `awaodori.tokyo` | No |
@@ -7347,6 +7348,7 @@ Here's a list of public Fediverse services.
 | `dcerberus.com` | No |
 | `dchua.com` | Yes |
 | `dcj.im` | No |
+| `dcj.me` | No |
 | `dcntr.org` | No |
 | `dcomm.net.ua` | No |
 | `dcr.pw` | No |
@@ -9998,6 +10000,7 @@ Here's a list of public Fediverse services.
 | `fandom.garden` | No |
 | `fandom.ink` | Yes |
 | `fandom.party` | No |
+| `fandomonium.space` | No |
 | `fandoms.social` | No |
 | `fanfare.horse` | No |
 | `fanfou.today` | No |
@@ -14506,6 +14509,7 @@ Here's a list of public Fediverse services.
 | `ijustwanttoenjoymy.life` | No |
 | `ik-y.jp` | No |
 | `ika.moe` | No |
+| `ikaruga.me` | No |
 | `ikasekai.com` | No |
 | `ikashima.net` | No |
 | `ikata.co` | Yes |
@@ -16441,6 +16445,7 @@ Here's a list of public Fediverse services.
 | `keenclocks.studio` | No |
 | `keenetic.link` | No |
 | `keenfamily.us` | No |
+| `keepcoding.io` | Yes |
 | `keeranoor.com` | Yes |
 | `keerl-it.com` | No |
 | `kef2.net` | No |
@@ -21566,6 +21571,7 @@ Here's a list of public Fediverse services.
 | `moztodon.net` | No |
 | `moztodon.nl` | No |
 | `mp-tube.de` | No |
+| `mp0.jp` | No |
 | `mp3reelhub.com` | No |
 | `mpda.ru` | No |
 | `mpg.de` | No |
@@ -24284,6 +24290,7 @@ Here's a list of public Fediverse services.
 | `opensocial.network` | Yes |
 | `opensocial.online` | No |
 | `opensocial.space` | No |
+| `opensource.network` | No |
 | `opensource.org` | Yes |
 | `opensourcegardens.info` | No |
 | `opensourcemusings.com` | No |
@@ -24691,6 +24698,7 @@ Here's a list of public Fediverse services.
 | `ozhika.me` | No |
 | `ozlabs.house` | No |
 | `ozoned.net` | No |
+| `ozstream.net.au` | No |
 | `p-arte.org` | No |
 | `p-dev.net` | No |
 | `p-epsilon.com` | Yes |
@@ -24850,6 +24858,7 @@ Here's a list of public Fediverse services.
 | `pantsu.biz` | Yes |
 | `pantsu.life` | Yes |
 | `panxatony.net` | No |
+| `panxl.net` | No |
 | `pao.moe` | Yes |
 | `paoloamoroso.com` | No |
 | `paoon.club` | No |
@@ -27008,6 +27017,7 @@ Here's a list of public Fediverse services.
 | `ragnate.la` | No |
 | `ragtag.moe` | Yes |
 | `rah.social` | No |
+| `rahlstedt.social` | No |
 | `rai.dog` | No |
 | `raichu.lol` | No |
 | `raidarou.com` | No |
@@ -28095,6 +28105,7 @@ Here's a list of public Fediverse services.
 | `roxxers.xyz` | No |
 | `roxysocks.xyz` | Yes |
 | `royalaid.me` | Yes |
+| `royalhellcustoms.com` | No |
 | `royaltechnology.net` | Yes |
 | `royniang.com` | No |
 | `royscholten.nl` | No |
@@ -37476,8 +37487,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,858 |
-| Normal | 28,575 |
+| Cloudflare | 8,859 |
+| Normal | 28,585 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
