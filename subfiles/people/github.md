@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [No such file or directory](https://github.com/mag37/dockcheck/issues/6)
+- [osumatrix.me is down](https://github.com/oSumAtrIX/DownOnSpot/issues/49)
 - [Mermaid.ink down with timeout error](https://github.com/mermaid-js/mermaid-live-editor/issues/1148)
 - [Unmarshal Response s3/GetObjectTagging failed, attempt 11/25, error SerializationError: failed to decode REST XML response](https://github.com/aws/aws-sdk-go/issues/4709)
 - [CloudFlare Cloudflare API service issues](https://github.com/MatBenfield/news/issues/8870)
