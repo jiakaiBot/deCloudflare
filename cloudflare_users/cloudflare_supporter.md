@@ -2107,8 +2107,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -5261,6 +5261,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kingiferous7@twitter](https://twitter.com/Kingiferous7/status/1569373239016656902) | advertise |
 | [kingk4888888@twitter](https://twitter.com/kingk4888888/status/1394730960894119937) | advertise |
 | [KingmaxNft@twitter](https://twitter.com/KingmaxNft/status/1550009809159630849) | advertise |
+| [Kingo74770300@twitter](https://twitter.com/Kingo74770300/status/1620716316163461123) | advertise |
 | [kingpolat5@twitter](https://twitter.com/kingpolat5/status/1397988631265038339) | advertise |
 | [kingpubg121212@twitter](https://twitter.com/kingpubg121212/status/1498498459980255234) | advertise |
 | [KINGSAM87263995@twitter](https://twitter.com/KINGSAM87263995/status/1400419727210532864) | advertise |
@@ -9520,6 +9521,7 @@ Do not create new issue or we will close it as duplicate.
 | [SHtunlin@twitter](https://twitter.com/SHtunlin/status/1396520953408999425) | advertise |
 | [Shubham42036238@twitter](https://twitter.com/Shubham42036238/status/1399776433300402177) | advertise |
 | [Shubham67752473@twitter](https://twitter.com/Shubham67752473/status/1381239826377138183) | advertise |
+| [Shumel0077@twitter](https://twitter.com/Shumel0077/status/1620719599766601729) | advertise |
 | [ShuneLa79693266@twitter](https://twitter.com/ShuneLa79693266/status/1391965524230242307) | advertise |
 | [shunelet@twitter](https://twitter.com/shunelet/status/1390644795693932544) | advertise |
 | [shushigeo@twitter](https://twitter.com/shushigeo/status/1552961476461092864) | advertise |
@@ -10325,8 +10327,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
@@ -11117,6 +11119,7 @@ Do not create new issue or we will close it as duplicate.
 | [VashSta01811715@twitter](https://twitter.com/VashSta01811715/status/1394408365036511233) | advertise |
 | [Vaso64@twitter](https://twitter.com/Vaso64/status/1571901747181850625) | advertise |
 | [Vasu46138364@twitter](https://twitter.com/Vasu46138364/status/1386724549954203648) | advertise |
+| [VasuRali@twitter](https://twitter.com/VasuRali/status/1620722624312807426) | advertise |
 | [vazquezjg@twitter](https://twitter.com/vazquezjg/status/1407182928275070976) | advertise |
 | [Vazquez_One@twitter](https://twitter.com/Vazquez_One/status/1571261569308270595) | advertise |
 | [VA_ACE_VN@twitter](https://twitter.com/VA_ACE_VN/status/1552549702167511040) | advertise |
