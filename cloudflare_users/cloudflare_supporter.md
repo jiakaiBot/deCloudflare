@@ -2657,6 +2657,7 @@ Do not create new issue or we will close it as duplicate.
 | [DucMinhVu9@twitter](https://twitter.com/DucMinhVu9/status/1407931928137715714) | advertise |
 | [DucNguy17484873@twitter](https://twitter.com/DucNguy17484873/status/1577371114346774528) | advertise |
 | [Ducongluat1@twitter](https://twitter.com/Ducongluat1/status/1387339273892876290) | advertise |
+| [Ductri14tom@twitter](https://twitter.com/Ductri14tom/status/1620796759026073600) | advertise |
 | [Ducvu1212@twitter](https://twitter.com/Ducvu1212/status/1552367108843241472) | advertise |
 | [duc_peo@twitter](https://twitter.com/duc_peo/status/1617956427993341952) | advertise |
 | [dudapahe@twitter](https://twitter.com/dudapahe/status/1586234780836061184) | advertise |
@@ -6882,6 +6883,7 @@ Do not create new issue or we will close it as duplicate.
 | [MonarengT4real@twitter](https://twitter.com/MonarengT4real/status/1382196959067389956) | advertise |
 | [mona_susan4@twitter](https://twitter.com/mona_susan4/status/1542713379399168003) | advertise |
 | [Monchzd82288185@twitter](https://twitter.com/Monchzd82288185/status/1394220655265009665) | advertise |
+| [Moncute16@twitter](https://twitter.com/Moncute16/status/1620799123166470144) | advertise |
 | [mondeamoi@twitter](https://twitter.com/mondeamoi/status/1532632574241214464) | advertise |
 | [MoneyCarlo7@twitter](https://twitter.com/MoneyCarlo7/status/1602277134722015232) | advertise |
 | [Moneysdm1@twitter](https://twitter.com/Moneysdm1/status/1384978130008514560) | advertise |
@@ -11280,6 +11282,7 @@ Do not create new issue or we will close it as duplicate.
 | [vuminh56923521@twitter](https://twitter.com/vuminh56923521/status/1397945170750885895) | advertise |
 | [vunguyen930@twitter](https://twitter.com/vunguyen930/status/1549490832893325312) | advertise |
 | [Vuong18239009@twitter](https://twitter.com/Vuong18239009/status/1389212433655336960) | advertise |
+| [VuongHo87563908@twitter](https://twitter.com/VuongHo87563908/status/1620797012668215296) | advertise |
 | [VuonghovuDt@twitter](https://twitter.com/VuonghovuDt/status/1529242139091054592) | advertise |
 | [VuPham08252400@twitter](https://twitter.com/VuPham08252400/status/1619692199930642433) | advertise |
 | [vuquoc203@twitter](https://twitter.com/vuquoc203/status/1408052147787161601) | advertise |
