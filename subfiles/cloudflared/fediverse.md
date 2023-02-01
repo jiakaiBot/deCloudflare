@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,538 |
+| com | 5,539 |
 | social | 3,548 |
 | net | 2,825 |
 | org | 2,021 |
-| de | 1,898 |
+| de | 1,899 |
 
 
 - Mastodon, Pleroma, etc
@@ -13412,6 +13412,7 @@ Here's a list of public Fediverse services.
 | `heigl.org` | No |
 | `heijmans.social` | Yes |
 | `heiki-hecchara.net` | No |
+| `heiko-adams.de` | No |
 | `heikosblog.eu` | No |
 | `heim-server.de` | No |
 | `heim.id` | Yes |
@@ -30342,6 +30343,7 @@ Here's a list of public Fediverse services.
 | `softwhere.ca` | No |
 | `sogipe.fr` | No |
 | `sohan-tricoire.fr` | No |
+| `sohwatt.com` | Yes |
 | `soir.wtf` | No |
 | `sojo-u-only-mstdn.xyz` | No |
 | `sokkah.net` | No |
@@ -37468,8 +37470,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,851 |
-| Normal | 28,574 |
+| Cloudflare | 8,852 |
+| Normal | 28,575 |
 
 
-### 23.6% of public Fediverse services are using Cloudflare.
+### 23.7% of public Fediverse services are using Cloudflare.
