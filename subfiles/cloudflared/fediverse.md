@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,552 |
+| com | 5,553 |
 | social | 3,564 |
 | net | 2,827 |
 | org | 2,023 |
@@ -8751,7 +8751,7 @@ Here's a list of public Fediverse services.
 | `dystroy.org` | No |
 | `dytrych.cloud` | No |
 | `dytube.com` | No |
-| `dz4k.com` | No |
+| `dz4k.com` | Yes |
 | `dzacarias.net` | No |
 | `dzek.ru` | No |
 | `dzerom.space` | No |
@@ -23080,6 +23080,7 @@ Here's a list of public Fediverse services.
 | `nil.nu` | Yes |
 | `nil.social` | Yes |
 | `nildon.com` | No |
+| `nileane.fr` | Yes |
 | `nilfm.cc` | No |
 | `nilles.net` | No |
 | `nils-andresen.de` | No |
@@ -34518,6 +34519,7 @@ Here's a list of public Fediverse services.
 | `univention.social` | No |
 | `universalstoryengine.com` | No |
 | `universeodon.com` | Yes |
+| `universetoday.com` | Yes |
 | `universoalterno.es` | No |
 | `uniwa.gr` | No |
 | `unix.dog` | Yes |
@@ -37548,8 +37550,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,881 |
-| Normal | 28,624 |
+| Cloudflare | 8,884 |
+| Normal | 28,623 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
