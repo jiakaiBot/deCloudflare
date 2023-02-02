@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [s3 upload CRC32C error](https://github.com/mattermost/mattermost-server/issues/22221)
 - [SSL for panel](https://github.com/VZiChoushaDui/Libertea/issues/10)
 - [Getting 500 trying to run Sanity + Nuxt 3 on Cloudflare Workers](https://github.com/nuxt-modules/sanity/issues/660)
 - [How can I log more detailed information?](https://github.com/tus/tus-java-client/issues/80)
