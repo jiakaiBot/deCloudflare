@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: Plugin Disabler only works as a must-use plugin in a bedrock site.](https://github.com/lukasbesch/bedrock-plugin-disabler/issues/15)
 - [Fix/optimise communication with Blockbook](https://github.com/trezor/trezor-suite/issues/7526)
 - [Digifinex missing a number of tickers.](https://github.com/ccxt/ccxt/issues/16723)
 - [aws_lightsail_lb healthcheck - Message_: "The HealthCheckPath value is not valid. HealthCheckPath must begin with a '/' character and only contain printable ASCII characters, without spaces."](https://github.com/hashicorp/terraform/issues/32616)
