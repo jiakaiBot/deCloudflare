@@ -10893,6 +10893,7 @@ Do not create new issue or we will close it as duplicate.
 | [TruongSaShin@twitter](https://twitter.com/TruongSaShin/status/1507719438694752265) | advertise |
 | [truongsonhai@twitter](https://twitter.com/truongsonhai/status/1392223378480660483) | advertise |
 | [TrustedhostingI@twitter](https://twitter.com/TrustedhostingI/status/1424252791506145280) | advertise |
+| [tru_zillah@twitter](https://twitter.com/tru_zillah/status/1621142218714263553) | advertise |
 | [TrVNguyn7@twitter](https://twitter.com/TrVNguyn7/status/1554575659833659393) | advertise |
 | [try2hack@twitter](https://twitter.com/try2hack/status/1584609234750042118) | advertise |
 | [tr_ling@twitter](https://twitter.com/tr_ling/status/1523468569475837953) | advertise |
