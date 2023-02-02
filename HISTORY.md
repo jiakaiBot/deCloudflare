@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-02-03: [MUC (Munich) on 2023-02-03](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ktbdcm9g3lh4)
 - 2023-02-07: [FRA (Frankfurt) on 2023-02-07](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lssbmvmhd2qz)
 - 2023-02-02: [QRO (Queretaro) on 2023-02-02](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/144c167zzw4g)
 - 2023-02-03: [ATL (Atlanta) on 2023-02-03](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ll0td64hpwht)
