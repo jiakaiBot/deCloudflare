@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Turn on strict encryption between cloudflare and ordinals.com origin server](https://github.com/casey/ord/issues/1475)
 - [It's completely impossible for me to load the telegram group captcha](https://github.com/Dr-TSNG/TwiFucker/issues/108)
 - [Error: Plugin Disabler only works as a must-use plugin in a bedrock site.](https://github.com/lukasbesch/bedrock-plugin-disabler/issues/15)
 - [Fix/optimise communication with Blockbook](https://github.com/trezor/trezor-suite/issues/7526)
