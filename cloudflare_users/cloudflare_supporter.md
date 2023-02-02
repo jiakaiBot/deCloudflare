@@ -2064,6 +2064,7 @@ Do not create new issue or we will close it as duplicate.
 | [coms4socialcha1@twitter](https://twitter.com/coms4socialcha1/status/1379781588263661581) | advertise |
 | [Concho117@twitter](https://twitter.com/Concho117/status/1403355446610587648) | advertise |
 | [condork66@twitter](https://twitter.com/condork66/status/1534384000873156610) | advertise |
+| [Conel19343514@twitter](https://twitter.com/Conel19343514/status/1621071012761849856) | advertise |
 | [cong242000@twitter](https://twitter.com/cong242000/status/1383487920498040838) | advertise |
 | [Conganh78457546@twitter](https://twitter.com/Conganh78457546/status/1497191208829227008) | advertise |
 | [congpop1@twitter](https://twitter.com/congpop1/status/1620338134864244737) | advertise |
@@ -8670,6 +8671,7 @@ Do not create new issue or we will close it as duplicate.
 | [QunBiAnh2@twitter](https://twitter.com/QunBiAnh2/status/1572818967605186560) | advertise |
 | [Qung14859286@twitter](https://twitter.com/Qung14859286/status/1396899351985725442) | advertise |
 | [QungPhm4@twitter](https://twitter.com/QungPhm4/status/1394555032100507650) | advertise |
+| [QuNguyn74976091@twitter](https://twitter.com/QuNguyn74976091/status/1621055849446916097) | advertise |
 | [QunhNh33492587@twitter](https://twitter.com/QunhNh33492587/status/1407263425604980758) | advertise |
 | [QunhQun392246@twitter](https://twitter.com/QunhQun392246/status/1596858209678938113) | advertise |
 | [QunhTM11@twitter](https://twitter.com/QunhTM11/status/1468241517387173889) | advertise |
@@ -12090,6 +12092,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZonZon36269349@twitter](https://twitter.com/ZonZon36269349/status/1557675159259353088) | advertise |
 | [zon_paing@twitter](https://twitter.com/zon_paing/status/1391939112874225670) | advertise |
 | [ZookgyiG@twitter](https://twitter.com/ZookgyiG/status/1392647332592644096) | advertise |
+| [zoro72649924@twitter](https://twitter.com/zoro72649924/status/1621070155689394176) | advertise |
 | [Zorrow_kzz@twitter](https://twitter.com/Zorrow_kzz/status/1531717541021761541) | advertise |
 | [Zosia57710493@twitter](https://twitter.com/Zosia57710493/status/1384735879755751429) | advertise |
 | [ZOsrati@twitter](https://twitter.com/ZOsrati/status/1580790269838249984) | advertise |
