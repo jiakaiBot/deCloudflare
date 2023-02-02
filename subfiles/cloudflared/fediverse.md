@@ -24612,6 +24612,7 @@ Here's a list of public Fediverse services.
 | `outergod.art` | No |
 | `outerheaven.cc` | No |
 | `outerheaven.club` | No |
+| `outerkosm.us` | No |
 | `outerspace.place` | No |
 | `outerweb.social` | No |
 | `outils-conviviaux.fr` | No |
@@ -37517,7 +37518,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,870 |
-| Normal | 28,603 |
+| Normal | 28,604 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
