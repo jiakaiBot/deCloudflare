@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [It's completely impossible for me to load the telegram group captcha](https://github.com/Dr-TSNG/TwiFucker/issues/108)
 - [Error: Plugin Disabler only works as a must-use plugin in a bedrock site.](https://github.com/lukasbesch/bedrock-plugin-disabler/issues/15)
 - [Fix/optimise communication with Blockbook](https://github.com/trezor/trezor-suite/issues/7526)
 - [Digifinex missing a number of tickers.](https://github.com/ccxt/ccxt/issues/16723)
