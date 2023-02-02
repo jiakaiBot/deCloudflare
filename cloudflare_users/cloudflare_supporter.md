@@ -6936,6 +6936,7 @@ Do not create new issue or we will close it as duplicate.
 | [MR360_CRICKETER@twitter](https://twitter.com/MR360_CRICKETER/status/1552192413535719424) | advertise |
 | [mr3455@twitter](https://twitter.com/mr3455/status/1578272184174141443) | advertise |
 | [MR40303137@twitter](https://twitter.com/MR40303137/status/1391397403165700106) | advertise |
+| [mrafi26863@twitter](https://twitter.com/mrafi26863/status/1620979984717451265) | advertise |
 | [MrAlone45283422@twitter](https://twitter.com/MrAlone45283422/status/1408058930232586242) | advertise |
 | [mrarashi3@twitter](https://twitter.com/mrarashi3/status/1394589698434113540) | advertise |
 | [MrAung30882580@twitter](https://twitter.com/MrAung30882580/status/1386334358844305410) | advertise |
@@ -9107,6 +9108,7 @@ Do not create new issue or we will close it as duplicate.
 | [SaepurRamdan@twitter](https://twitter.com/SaepurRamdan/status/1527177130593128449) | advertise |
 | [safadi_tammam@twitter](https://twitter.com/safadi_tammam/status/1470666322010947586) | advertise |
 | [safasafari3@twitter](https://twitter.com/safasafari3/status/1556833438426177543) | advertise |
+| [SaFaZia10@twitter](https://twitter.com/SaFaZia10/status/1620942287470530560) | advertise |
 | [Sagar40471368@twitter](https://twitter.com/Sagar40471368/status/1394306315283959815) | advertise |
 | [SagrJony@twitter](https://twitter.com/SagrJony/status/1378421082592575491) | advertise |
 | [sahand90818531@twitter](https://twitter.com/sahand90818531/status/1584475574302826496) | advertise |
@@ -9752,6 +9754,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sonicek3@twitter](https://twitter.com/Sonicek3/status/1386002746780766208) | advertise |
 | [sonlu14654722@twitter](https://twitter.com/sonlu14654722/status/1400477010179235842) | advertise |
 | [SonNgoc82244972@twitter](https://twitter.com/SonNgoc82244972/status/1603285673339154432) | advertise |
+| [SonPham47707692@twitter](https://twitter.com/SonPham47707692/status/1620887365484183552) | advertise |
 | [Sontung1081@twitter](https://twitter.com/Sontung1081/status/1564156305396285440) | advertise |
 | [SonuleSonule1@twitter](https://twitter.com/SonuleSonule1/status/1482956779067940866) | advertise |
 | [SonuneKaustubh@twitter](https://twitter.com/SonuneKaustubh/status/1383286380348940289) | advertise |
@@ -10012,6 +10015,7 @@ Do not create new issue or we will close it as duplicate.
 | [t011199@twitter](https://twitter.com/t011199/status/1578358195789041664) | advertise |
 | [t03739787@twitter](https://twitter.com/t03739787/status/1611713527416512514) | advertise |
 | [T2ikJpl7nVsB4AN@twitter](https://twitter.com/T2ikJpl7nVsB4AN/status/1548789731005124608) | advertise |
+| [t1234231@twitter](https://twitter.com/t1234231/status/1620980454055903232) | advertise |
 | [T31543226@twitter](https://twitter.com/T31543226/status/1524287509496168448) | advertise |
 | [t36604925@twitter](https://twitter.com/t36604925/status/1619552068800487425) | advertise |
 | [t78338238@twitter](https://twitter.com/t78338238/status/1562835572728950784) | advertise |
@@ -10029,6 +10033,7 @@ Do not create new issue or we will close it as duplicate.
 | [tai58342704@twitter](https://twitter.com/tai58342704/status/1557035585038012416) | advertise |
 | [Tai58496438@twitter](https://twitter.com/Tai58496438/status/1384020224547069952) | advertise |
 | [Tailu123@twitter](https://twitter.com/Tailu123/status/1552009946790629381) | advertise |
+| [Taimoor15565194@twitter](https://twitter.com/Taimoor15565194/status/1620874697683660800) | advertise |
 | [taisaDesigner@twitter](https://twitter.com/taisaDesigner/status/1511636003626311680) | advertise |
 | [taitran09539503@twitter](https://twitter.com/taitran09539503/status/1609894150962577408) | advertise |
 | [tajinde52425634@twitter](https://twitter.com/tajinde52425634/status/1407580334489628676) | advertise |
@@ -10116,6 +10121,7 @@ Do not create new issue or we will close it as duplicate.
 | [TechRedneck901@twitter](https://twitter.com/TechRedneck901/status/1396056226329505794) | advertise |
 | [TechTailor@twitter](https://twitter.com/TechTailor/status/1381152232410816514) | advertise |
 | [techtweetlive@twitter](https://twitter.com/techtweetlive/status/1447213119869050886) | advertise |
+| [tech_dts@twitter](https://twitter.com/tech_dts/status/1620981471401099264) | advertise |
 | [Teddy2100@twitter](https://twitter.com/Teddy2100/status/1379049599210512384) | advertise |
 | [TedionBirhanu@twitter](https://twitter.com/TedionBirhanu/status/1558365661835010054) | advertise |
 | [TedTschopp@twitter](https://twitter.com/TedTschopp/status/1486743304528007169) | advertise |
