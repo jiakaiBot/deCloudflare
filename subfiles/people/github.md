@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Digifinex missing a number of tickers.](https://github.com/ccxt/ccxt/issues/16723)
+- [aws_lightsail_lb healthcheck - Message_: "The HealthCheckPath value is not valid. HealthCheckPath must begin with a '/' character and only contain printable ASCII characters, without spaces."](https://github.com/hashicorp/terraform/issues/32616)
 - [s3 upload CRC32C error](https://github.com/mattermost/mattermost-server/issues/22221)
 - [SSL for panel](https://github.com/VZiChoushaDui/Libertea/issues/10)
 - [Getting 500 trying to run Sanity + Nuxt 3 on Cloudflare Workers](https://github.com/nuxt-modules/sanity/issues/660)
