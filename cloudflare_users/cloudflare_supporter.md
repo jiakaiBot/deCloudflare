@@ -7324,6 +7324,7 @@ Do not create new issue or we will close it as duplicate.
 | [nawazbitone@twitter](https://twitter.com/nawazbitone/status/1563582579449614337) | advertise |
 | [NawYamin5@twitter](https://twitter.com/NawYamin5/status/1394208976900739074) | advertise |
 | [nayan1332@twitter](https://twitter.com/nayan1332/status/1495866875267678208) | advertise |
+| [nayanray22@twitter](https://twitter.com/nayanray22/status/1621196111779340289) | advertise |
 | [Naychi59081646@twitter](https://twitter.com/Naychi59081646/status/1390612281566789639) | advertise |
 | [NayChi62191591@twitter](https://twitter.com/NayChi62191591/status/1385800652056530947) | advertise |
 | [NayChiAung7@twitter](https://twitter.com/NayChiAung7/status/1402581066209243136) | advertise |
