@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,547 |
-| social | 3,560 |
+| com | 5,548 |
+| social | 3,562 |
 | net | 2,827 |
 | org | 2,021 |
-| de | 1,899 |
+| de | 1,900 |
 
 
 - Mastodon, Pleroma, etc
@@ -1753,6 +1753,7 @@ Here's a list of public Fediverse services.
 | `anitwitter.com` | No |
 | `anitwitter.moe` | Yes |
 | `anivar.in` | Yes |
+| `aniy.jp` | No |
 | `aniyomechan.jp` | No |
 | `anjara.eu` | No |
 | `anji.nl` | No |
@@ -2583,6 +2584,7 @@ Here's a list of public Fediverse services.
 | `avery.cafe` | No |
 | `avery.garden` | No |
 | `averythefurry.com` | No |
+| `avete.world` | No |
 | `avfig.com` | No |
 | `avgeek.social` | No |
 | `avian.space` | Yes |
@@ -8501,6 +8503,7 @@ Here's a list of public Fediverse services.
 | `drew.life` | No |
 | `drew.monster` | No |
 | `drewgat.es` | No |
+| `drewhess.social` | Yes |
 | `drewstokes.com` | Yes |
 | `drewtoot.com` | No |
 | `drfluellen.com` | No |
@@ -13807,6 +13810,7 @@ Here's a list of public Fediverse services.
 | `hkdon.com` | Yes |
 | `hklbgd.org` | No |
 | `hks.zone` | Yes |
+| `hku.hk` | Yes |
 | `hlad.org` | No |
 | `hlavac.social` | No |
 | `hlhost.gr` | Yes |
@@ -15945,6 +15949,7 @@ Here's a list of public Fediverse services.
 | `jp-mstdn.com` | No |
 | `jp-studios.de` | Yes |
 | `jp-warrior.cf` | No |
+| `jp0id.fun` | No |
 | `jpa.com` | Yes |
 | `jpages.eu` | No |
 | `jparenas.com` | No |
@@ -16375,6 +16380,7 @@ Here's a list of public Fediverse services.
 | `katiechapman.ie` | Yes |
 | `katiehopkinspolitical.icu` | No |
 | `katis.me` | No |
+| `katjaevertz.de` | No |
 | `kattenmeisje.org` | No |
 | `katty.me` | No |
 | `katuemon.com` | No |
@@ -19573,6 +19579,7 @@ Here's a list of public Fediverse services.
 | `masto.nyc` | Yes |
 | `masto.one` | Yes |
 | `masto.ovh` | No |
+| `masto.pet` | No |
 | `masto.plus` | No |
 | `masto.pt` | Yes |
 | `masto.quebec` | No |
@@ -21418,6 +21425,7 @@ Here's a list of public Fediverse services.
 | `moonmoth.de` | No |
 | `moonstars.org` | No |
 | `moontreeproject.org` | No |
+| `moonwolf.network` | Yes |
 | `mooo.com` | No |
 | `mooo.info` | No |
 | `moooon.network` | No |
@@ -23380,7 +23388,7 @@ Here's a list of public Fediverse services.
 | `nope.social` | No |
 | `nophase.net` | No |
 | `noplasticshowers.com` | No |
-| `nops.red` | No |
+| `nops.red` | Yes |
 | `nopsled.club` | No |
 | `nopulse.net` | No |
 | `nora.social` | No |
@@ -26220,7 +26228,7 @@ Here's a list of public Fediverse services.
 | `ppl.town` | No |
 | `ppluss.de` | Yes |
 | `ppmx.org` | No |
-| `ppn.pw` | Yes |
+| `ppn.pw` | No |
 | `ppplot.top` | Yes |
 | `ppsfleet.navy` | No |
 | `pptdn.jp` | No |
@@ -27759,6 +27767,7 @@ Here's a list of public Fediverse services.
 | `richard-dern.fr` | No |
 | `richardandbethany.xyz` | No |
 | `richardhall.online` | No |
+| `richardhickson.com` | Yes |
 | `richardjdalton.com` | No |
 | `richardo.xyz` | Yes |
 | `richardshub.com` | No |
@@ -35086,6 +35095,7 @@ Here's a list of public Fediverse services.
 | `vinilox.eu` | No |
 | `vinodjam.com` | No |
 | `vintagemac1984.com` | No |
+| `vintageracing.social` | No |
 | `vinyl-41.de` | No |
 | `vinylor.com` | Yes |
 | `vinzenz.social` | No |
@@ -35297,6 +35307,7 @@ Here's a list of public Fediverse services.
 | `vrparty.social` | Yes |
 | `vrpnet.org` | No |
 | `vrse.be` | No |
+| `vrsocial.network` | Yes |
 | `vrt36.com` | Yes |
 | `vrutkovs.eu` | No |
 | `vrvg.xyz` | No |
@@ -37185,6 +37196,7 @@ Here's a list of public Fediverse services.
 | `zapistan.net` | No |
 | `zapletalovi.com` | Yes |
 | `zapto.org` | Yes |
+| `zarapito.cl` | No |
 | `zarchbox.fr` | No |
 | `zarchbox.ovh` | No |
 | `zaremba.me` | No |
@@ -37517,8 +37529,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,870 |
-| Normal | 28,604 |
+| Cloudflare | 8,875 |
+| Normal | 28,611 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
