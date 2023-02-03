@@ -8343,6 +8343,7 @@ Here's a list of public Fediverse services.
 | `doof.net` | No |
 | `dook.business` | No |
 | `dookie.eu.org` | No |
+| `dooky.top` | No |
 | `doom.fm` | No |
 | `doomicile.de` | No |
 | `doompill.com` | No |
@@ -37592,7 +37593,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,894 |
-| Normal | 28,654 |
+| Normal | 28,655 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
