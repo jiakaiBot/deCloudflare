@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,563 |
+| com | 5,564 |
 | social | 3,569 |
 | net | 2,834 |
-| org | 2,025 |
+| org | 2,026 |
 | de | 1,903 |
 
 
@@ -862,6 +862,7 @@ Here's a list of public Fediverse services.
 | `adambindslev.dk` | No |
 | `adamchandler.me` | No |
 | `adamclaxon.com` | No |
+| `adamcomputer.blog` | No |
 | `adamd.host` | No |
 | `adamgeitgey.com` | No |
 | `adamharis.com` | No |
@@ -2573,6 +2574,7 @@ Here's a list of public Fediverse services.
 | `avali.co.uk` | Yes |
 | `avali.one` | No |
 | `avalos.me` | No |
+| `avancee.agency` | No |
 | `avantwhatever.org` | No |
 | `avapxia.tk` | No |
 | `avare.com.tr` | Yes |
@@ -5702,6 +5704,7 @@ Here's a list of public Fediverse services.
 | `cloud-foo.de` | No |
 | `cloud-libre.eu` | No |
 | `cloud-native.social` | No |
+| `cloud68.co` | No |
 | `cloudapps.ninja` | No |
 | `cloudboard.fr` | No |
 | `cloudbolwell.co.uk` | Yes |
@@ -7623,6 +7626,7 @@ Here's a list of public Fediverse services.
 | `dems.social` | No |
 | `demtech.global` | No |
 | `den.yt` | Yes |
+| `deniau.org` | No |
 | `denibol.com` | No |
 | `denimu.ga` | No |
 | `deninet.com` | No |
@@ -12023,6 +12027,7 @@ Here's a list of public Fediverse services.
 | `gelt.cz` | No |
 | `gem.org.ru` | Yes |
 | `gemeinschaffen.com` | Yes |
+| `gemini-tech.be` | No |
 | `gemini.city` | No |
 | `gemlog.ca` | No |
 | `gemma.ee` | Yes |
@@ -14901,6 +14906,7 @@ Here's a list of public Fediverse services.
 | `insoumis.social` | No |
 | `inspiredlife.fun` | Yes |
 | `instaart.org` | No |
+| `instadon.ru` | No |
 | `instance.business` | No |
 | `instance.community` | Yes |
 | `instance.digital` | No |
@@ -15351,6 +15357,7 @@ Here's a list of public Fediverse services.
 | `jacksonchen666.com` | No |
 | `jackspangler.xyz` | No |
 | `jacksplace.dk` | No |
+| `jackvcurtis.com` | No |
 | `jackwellborn.com` | No |
 | `jacky.wtf` | No |
 | `jacl.tech` | Yes |
@@ -17274,6 +17281,7 @@ Here's a list of public Fediverse services.
 | `kuenet.ch` | No |
 | `kuenstlerquadrat.de` | No |
 | `kuester7.com` | No |
+| `kuhnchris.eu` | No |
 | `kuhs.me` | Yes |
 | `kuinya.net` | Yes |
 | `kuja.xyz` | No |
@@ -27292,6 +27300,7 @@ Here's a list of public Fediverse services.
 | `ravergram.club` | No |
 | `ravetracer.photography` | No |
 | `raviteja.computer` | Yes |
+| `ravoque.com.br` | No |
 | `rawe.nl` | No |
 | `rawkode.com` | Yes |
 | `rawkode.dev` | Yes |
@@ -37597,7 +37606,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,897 |
-| Normal | 28,656 |
+| Normal | 28,665 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
