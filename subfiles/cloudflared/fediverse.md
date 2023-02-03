@@ -29665,6 +29665,7 @@ Here's a list of public Fediverse services.
 | `shrik3.com` | No |
 | `shrike.club` | No |
 | `shrimp.faith` | Yes |
+| `shrimpcam.pw` | Yes |
 | `shrimpguild.social` | No |
 | `shrimpia.network` | No |
 | `shrimply.social` | No |
@@ -37608,7 +37609,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,898 |
+| Cloudflare | 8,899 |
 | Normal | 28,667 |
 
 
