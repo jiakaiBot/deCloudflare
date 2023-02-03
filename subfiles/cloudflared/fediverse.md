@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,562 |
+| com | 5,563 |
 | social | 3,569 |
 | net | 2,834 |
 | org | 2,025 |
-| de | 1,902 |
+| de | 1,903 |
 
 
 - Mastodon, Pleroma, etc
@@ -1661,6 +1661,7 @@ Here's a list of public Fediverse services.
 | `andres.cat` | Yes |
 | `andresbilevich.com` | No |
 | `andresen.mx` | No |
+| `andreubotella.com` | Yes |
 | `andrevillien.fr` | No |
 | `andrew.xyz` | No |
 | `andrewbaker.uk` | Yes |
@@ -28403,6 +28404,7 @@ Here's a list of public Fediverse services.
 | `rytter.me` | No |
 | `ryu.org` | No |
 | `ryuchan.dev` | No |
+| `ryumu.dev` | Yes |
 | `ryuryu.tw` | Yes |
 | `ryusei.dev` | No |
 | `ryutoto.com` | Yes |
@@ -33482,6 +33484,7 @@ Here's a list of public Fediverse services.
 | `toot.world` | No |
 | `toot.ws` | Yes |
 | `toot.zone` | Yes |
+| `toot24.de` | No |
 | `toot9.de` | No |
 | `tootafterdark.xyz` | Yes |
 | `tootally.me` | No |
@@ -35670,6 +35673,7 @@ Here's a list of public Fediverse services.
 | `webdancers.com` | No |
 | `webdev.community` | Yes |
 | `webdev.network` | No |
+| `webdev.so` | Yes |
 | `webdev189.tk` | No |
 | `webdevnerds.tech` | No |
 | `webdevs.social` | No |
@@ -37592,8 +37596,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,894 |
-| Normal | 28,655 |
+| Cloudflare | 8,897 |
+| Normal | 28,656 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
