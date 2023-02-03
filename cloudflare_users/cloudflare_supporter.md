@@ -6140,6 +6140,7 @@ Do not create new issue or we will close it as duplicate.
 | [M2773299429@twitter](https://twitter.com/M2773299429/status/1392920911179878404) | advertise |
 | [Ma7moud3arf@twitter](https://twitter.com/Ma7moud3arf/status/1552086942870904833) | advertise |
 | [Ma91Myoaung@twitter](https://twitter.com/Ma91Myoaung/status/1392153948098744323) | advertise |
+| [MAAX30_04@twitter](https://twitter.com/MAAX30_04/status/1621577555487723520) | advertise |
 | [mabyestar@twitter](https://twitter.com/mabyestar/status/1553105701328654336) | advertise |
 | [macawtechbr@twitter](https://twitter.com/macawtechbr/status/1604493456801337344) | advertise |
 | [mackendy94@twitter](https://twitter.com/mackendy94/status/1478395983893565447) | advertise |
