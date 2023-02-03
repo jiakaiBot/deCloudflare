@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,558 |
+| com | 5,559 |
 | social | 3,569 |
 | net | 2,830 |
 | org | 2,024 |
@@ -1107,7 +1107,7 @@ Here's a list of public Fediverse services.
 | `airyz.xyz` | No |
 | `aisler.social` | Yes |
 | `aistear.net` | No |
-| `ait.place` | No |
+| `ait.place` | Yes |
 | `aitor-sama.es` | Yes |
 | `aitorpazos.es` | No |
 | `aix-en-provence.social` | No |
@@ -5987,7 +5987,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7786,7 +7786,7 @@ Here's a list of public Fediverse services.
 | `devolio.net` | Yes |
 | `devolutionnet.com` | No |
 | `devolver.social` | No |
-| `devonrjohnson.stream` | Yes |
+| `devonrjohnson.stream` | No |
 | `devontechnologies.com` | No |
 | `devopsgenius.com` | No |
 | `devosi.org` | No |
@@ -14947,6 +14947,7 @@ Here's a list of public Fediverse services.
 | `internetstuff.xyz` | Yes |
 | `internot.no` | No |
 | `interocitor.parts` | No |
+| `interordi.com` | No |
 | `interrobang.pizza` | No |
 | `interru.io` | No |
 | `intersects.art` | No |
@@ -37575,8 +37576,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,893 |
-| Normal | 28,639 |
+| Cloudflare | 8,892 |
+| Normal | 28,641 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
