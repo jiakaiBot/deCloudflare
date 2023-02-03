@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,561 |
+| com | 5,562 |
 | social | 3,569 |
-| net | 2,833 |
-| org | 2,024 |
+| net | 2,834 |
+| org | 2,025 |
 | de | 1,902 |
 
 
@@ -14710,6 +14710,7 @@ Here's a list of public Fediverse services.
 | `index.community` | No |
 | `indexof.co.uk` | No |
 | `indg.club` | No |
+| `indiana.edu` | Yes |
 | `indianliberals.org` | No |
 | `indie.chat` | No |
 | `indie.computer` | No |
@@ -16514,6 +16515,7 @@ Here's a list of public Fediverse services.
 | `kelp.community` | No |
 | `kelp.photo` | No |
 | `kelseyz.org` | No |
+| `kelso.club` | No |
 | `keltruc.com` | No |
 | `keltruc.one` | No |
 | `kelvsyc.com` | No |
@@ -22794,6 +22796,7 @@ Here's a list of public Fediverse services.
 | `netdc.ca` | No |
 | `netfg.net` | No |
 | `netflux.io` | No |
+| `nether.net` | No |
 | `netheredge.com` | No |
 | `nethole.us` | No |
 | `netlandish.com` | No |
@@ -23762,6 +23765,7 @@ Here's a list of public Fediverse services.
 | `nxte.org` | No |
 | `nxtgen.social` | Yes |
 | `nya.coffee` | Yes |
+| `nya.gay` | No |
 | `nya.house` | No |
 | `nya.one` | Yes |
 | `nya.rest` | Yes |
@@ -30452,6 +30456,7 @@ Here's a list of public Fediverse services.
 | `solarpunkcanuck.ca` | No |
 | `solarpunks.blog` | No |
 | `solarpunks.social` | No |
+| `solarpunkstation.com` | No |
 | `solawi.social` | No |
 | `solchefreu.de` | No |
 | `soldyn.net` | Yes |
@@ -32821,6 +32826,7 @@ Here's a list of public Fediverse services.
 | `thesan.space` | No |
 | `thesandbox.net` | No |
 | `thesatelliteoflove.com` | No |
+| `thesayres.org` | No |
 | `thesea.men` | Yes |
 | `thesecretlair.org` | No |
 | `theself.cloud` | No |
@@ -34394,6 +34400,7 @@ Here's a list of public Fediverse services.
 | `ultrix.me` | No |
 | `ultros.pro` | No |
 | `uluntu.se` | No |
+| `ulysses.app` | No |
 | `um-pudding.de` | No |
 | `umamusu.me` | Yes |
 | `umarhadi.dev` | Yes |
@@ -37582,8 +37589,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,893 |
-| Normal | 28,646 |
+| Cloudflare | 8,894 |
+| Normal | 28,652 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
