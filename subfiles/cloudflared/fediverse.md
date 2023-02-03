@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,560 |
 | social | 3,569 |
-| net | 2,832 |
+| net | 2,833 |
 | org | 2,024 |
 | de | 1,902 |
 
@@ -26978,6 +26978,7 @@ Here's a list of public Fediverse services.
 | `r8z.us` | No |
 | `ra-phi.ch` | No |
 | `ra.no` | No |
+| `ra1nb0wsec.net` | No |
 | `raa0121.info` | No |
 | `raatiniemi.me` | No |
 | `rabalyn.de` | No |
@@ -37581,7 +37582,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,893 |
-| Normal | 28,644 |
+| Normal | 28,645 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
