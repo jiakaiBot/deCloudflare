@@ -12117,6 +12117,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZStravnik@twitter](https://twitter.com/ZStravnik/status/1515982927552823296) | advertise |
 | [ZtHmadt@twitter](https://twitter.com/ZtHmadt/status/1597540508779581441) | advertise |
 | [ZueffCoder@twitter](https://twitter.com/ZueffCoder/status/1456673609473314818) | advertise |
+| [ZuhatzArt@twitter](https://twitter.com/ZuhatzArt/status/1621463571337986051) | advertise |
 | [ZuHlaingWin2@twitter](https://twitter.com/ZuHlaingWin2/status/1392026289674981378) | advertise |
 | [zulfadlieber@twitter](https://twitter.com/zulfadlieber/status/1404423041573027844) | advertise |
 | [zunnooneth@twitter](https://twitter.com/zunnooneth/status/1542169862520197126) | advertise |
