@@ -29,7 +29,7 @@ function toBinary(string) {
 }
 function iGetNxCSAMUrl(id) {
    return new Promise((g, b) => {
-      fetch(apiurl + '/api/mypdns/make_csam_url/', {
+      fetch(apiurl + '/api/mypdns/get_url/new_csam/', {
          method: 'POST',
          mode: 'cors',
          headers: {
