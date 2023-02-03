@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,559 |
+| com | 5,560 |
 | social | 3,569 |
-| net | 2,830 |
+| net | 2,832 |
 | org | 2,024 |
 | de | 1,902 |
 
@@ -20946,6 +20946,7 @@ Here's a list of public Fediverse services.
 | `minkenstein.de` | No |
 | `minkiver.se` | No |
 | `minmi.xyz` | No |
+| `minnanasi.net` | No |
 | `minne.social` | No |
 | `minnix.dev` | No |
 | `minnna.xyz` | No |
@@ -21253,6 +21254,7 @@ Here's a list of public Fediverse services.
 | `mod.digital` | No |
 | `modak.boo` | No |
 | `modalnode.club` | No |
+| `modding.games` | Yes |
 | `mode15.com` | No |
 | `modelrailway.social` | No |
 | `modem.show` | Yes |
@@ -29279,6 +29281,7 @@ Here's a list of public Fediverse services.
 | `sengeis.priv.at` | No |
 | `senigallia.one` | Yes |
 | `seniorenakademie-digital.de` | No |
+| `senkitahara.com` | No |
 | `senky.social` | Yes |
 | `sennomo.net` | No |
 | `senooken.jp` | No |
@@ -35894,6 +35897,7 @@ Here's a list of public Fediverse services.
 | `whitedissidenttv.com` | No |
 | `whitehead-smith.com` | Yes |
 | `whitelion.me` | No |
+| `whitepig.net` | No |
 | `whitepositive.media` | No |
 | `whiteside.social` | No |
 | `whitesmokebbq.social` | No |
@@ -37576,8 +37580,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,892 |
-| Normal | 28,641 |
+| Cloudflare | 8,893 |
+| Normal | 28,644 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
