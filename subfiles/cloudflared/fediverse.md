@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,569 |
 | net | 2,834 |
 | org | 2,026 |
-| de | 1,903 |
+| de | 1,904 |
 
 
 - Mastodon, Pleroma, etc
@@ -157,7 +157,7 @@ Here's a list of public Fediverse services.
 | `10don.xyz` | No |
 | `10hoch-6.de` | No |
 | `10hz.org` | No |
-| `10mb.at` | No |
+| `10mb.at` | Yes |
 | `10minutepleroma.com` | No |
 | `10one.net` | No |
 | `10qt.net` | No |
@@ -22057,6 +22057,7 @@ Here's a list of public Fediverse services.
 | `muslims.net.in` | No |
 | `muso.social` | No |
 | `musson.uk` | No |
+| `must.beer` | No |
 | `mustam.in` | Yes |
 | `mustard.blog` | No |
 | `mustardon.tokyo` | No |
@@ -31662,6 +31663,7 @@ Here's a list of public Fediverse services.
 | `swetrust.com` | Yes |
 | `swffthiker.online` | No |
 | `swiatczytnikow.pl` | No |
+| `swiftdev.space` | No |
 | `swiftdevs.space` | No |
 | `swillyumsdatacenter.com` | Yes |
 | `swinden.social` | Yes |
@@ -35275,6 +35277,7 @@ Here's a list of public Fediverse services.
 | `voccs.com` | No |
 | `vocivia.tk` | No |
 | `vodka.gg` | No |
+| `vodkabull0.de` | No |
 | `voe.social` | No |
 | `voege.net` | No |
 | `vofr.net` | No |
@@ -37605,8 +37608,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,897 |
-| Normal | 28,665 |
+| Cloudflare | 8,898 |
+| Normal | 28,667 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
