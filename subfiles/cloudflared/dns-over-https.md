@@ -446,6 +446,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | my.to | Yes |
 | myddns.me | No |
 | myddns.org | No |
+| mydns.network | Yes |
 | myds.me | No |
 | myfritz.net | No |
 | myhottiemama.de | No |
@@ -652,8 +653,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 278 |
+| Cloudflare | 279 |
 | Normal | 355 |
 
 
-### 43.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44% of DNS-over-HTTPS (DoH) are using Cloudflare.
