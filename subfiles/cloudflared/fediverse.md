@@ -8913,6 +8913,7 @@ Here's a list of public Fediverse services.
 | `ed1.tokyo` | No |
 | `edbob.org` | No |
 | `edchat.social` | No |
+| `edddy.eu` | No |
 | `eddie-the-jacky.de` | No |
 | `eddiehinkle.com` | No |
 | `eddland.co.uk` | No |
@@ -14009,6 +14010,7 @@ Here's a list of public Fediverse services.
 | `hopefullyread.com` | No |
 | `hopeph.com` | Yes |
 | `hopman.nl` | No |
+| `hopmann.xyz` | No |
 | `hoppclan.com` | No |
 | `hoppinggalaxies.social` | No |
 | `hoppinglife.com` | No |
@@ -37590,7 +37592,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,894 |
-| Normal | 28,652 |
+| Normal | 28,654 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
