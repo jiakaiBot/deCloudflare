@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,560 |
+| com | 5,561 |
 | social | 3,569 |
 | net | 2,833 |
 | org | 2,024 |
@@ -26606,6 +26606,7 @@ Here's a list of public Fediverse services.
 | `puls.social` | No |
 | `pumba.space` | Yes |
 | `pumpitbetter.com` | No |
+| `pumpkinvrar.com` | No |
 | `punchdrunker.org` | No |
 | `pundo.com` | No |
 | `puni.moe` | No |
@@ -37582,7 +37583,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,893 |
-| Normal | 28,645 |
+| Normal | 28,646 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
