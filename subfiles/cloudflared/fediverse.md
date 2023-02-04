@@ -20104,6 +20104,7 @@ Here's a list of public Fediverse services.
 | `mastsocial.de` | No |
 | `mastudon.com` | No |
 | `masturbadon.com` | No |
+| `masturbated.one` | No |
 | `masturbatordon.info` | Yes |
 | `mastypek.lol` | No |
 | `masudadon.com` | No |
@@ -37695,7 +37696,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,935 |
-| Normal | 28,716 |
+| Normal | 28,717 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
