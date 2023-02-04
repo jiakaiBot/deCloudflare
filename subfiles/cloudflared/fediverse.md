@@ -19803,6 +19803,7 @@ Here's a list of public Fediverse services.
 | `mastodon.education` | No |
 | `mastodon.ee` | Yes |
 | `mastodon.energy` | No |
+| `mastodon.engineer` | No |
 | `mastodon.engineering` | No |
 | `mastodon.eus` | No |
 | `mastodon.exchange` | No |
@@ -34391,6 +34392,7 @@ Here's a list of public Fediverse services.
 | `ua-fediland.de` | No |
 | `uaatwar.com` | Yes |
 | `ualberta.ca` | Yes |
+| `uasa.io` | No |
 | `ub32.org` | No |
 | `uber.space` | No |
 | `ubermorgen.info` | No |
@@ -37696,7 +37698,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,935 |
-| Normal | 28,717 |
+| Normal | 28,719 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
