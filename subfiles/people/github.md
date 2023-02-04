@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Trying to change a channel category gives an error](https://github.com/Lucky3028/terraform-provider-discord/issues/67)
 - [environment variables still are not available on Cloudflare Pages](https://github.com/withastro/astro/issues/6130)
 - [v6 FetchCancelSignal might have an incorrect assertion](https://github.com/ethers-io/ethers.js/issues/3733)
 - [new auth: <Verify you are human> .Can not login.](https://github.com/terry3041/pyChatGPT/issues/123)
