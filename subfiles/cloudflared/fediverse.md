@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,584 |
 | social | 3,575 |
-| net | 2,840 |
+| net | 2,841 |
 | org | 2,029 |
 | de | 1,906 |
 
@@ -14279,7 +14279,7 @@ Here's a list of public Fediverse services.
 | `husk.site` | No |
 | `husku.net` | No |
 | `husky.xyz` | Yes |
-| `huskyapp.dev` | No |
+| `huskyapp.dev` | Yes |
 | `huslage.com` | No |
 | `husq.tk` | No |
 | `hustlersquad.net` | Yes |
@@ -35260,6 +35260,7 @@ Here's a list of public Fediverse services.
 | `virtual-kaf.fun` | Yes |
 | `virtualapero.de` | No |
 | `virtualarchitectures.social` | No |
+| `virtualkemomimi.net` | Yes |
 | `virtuallyhillbilly.com` | No |
 | `virtualprivateserver.space` | No |
 | `virtualsanity.com` | No |
@@ -37682,8 +37683,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,928 |
-| Normal | 28,711 |
+| Cloudflare | 8,930 |
+| Normal | 28,710 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
