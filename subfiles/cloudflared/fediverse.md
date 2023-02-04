@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,584 |
-| social | 3,575 |
+| com | 5,585 |
+| social | 3,576 |
 | net | 2,841 |
-| org | 2,029 |
+| org | 2,030 |
 | de | 1,907 |
 
 
@@ -373,6 +373,7 @@ Here's a list of public Fediverse services.
 | `3sparks.net` | Yes |
 | `3stadt.com` | No |
 | `3t0kb.com` | No |
+| `3tes.dev` | Yes |
 | `3towers.de` | No |
 | `3v.fi` | No |
 | `3v.is` | Yes |
@@ -394,6 +395,7 @@ Here's a list of public Fediverse services.
 | `417yuji.net` | No |
 | `420.vin` | Yes |
 | `4201337.xyz` | Yes |
+| `42069epicgamers.app` | Yes |
 | `4232.cf` | No |
 | `42pix.pl` | No |
 | `42toot.com` | No |
@@ -2386,6 +2388,7 @@ Here's a list of public Fediverse services.
 | `astrox.xyz` | No |
 | `astrr.ru` | Yes |
 | `astrra.space` | Yes |
+| `astrum.social` | No |
 | `asturias.red` | Yes |
 | `astuto.cc` | No |
 | `asty.org` | No |
@@ -9868,6 +9871,7 @@ Here's a list of public Fediverse services.
 | `extremely.online` | No |
 | `extremelycorporate.ca` | No |
 | `extremelylegitimate.website` | No |
+| `extremelyoffline.org` | No |
 | `extremelyonline.website` | Yes |
 | `extremelywoke.club` | No |
 | `extremeprivacy.net` | Yes |
@@ -11090,6 +11094,7 @@ Here's a list of public Fediverse services.
 | `frankfurtium.de` | No |
 | `frankgrimm.net` | No |
 | `frankly.social` | No |
+| `frankmcpherson.blog` | No |
 | `frankmeeuwsen.xyz` | Yes |
 | `frankreimer.de` | No |
 | `frankston.com` | No |
@@ -25011,6 +25016,7 @@ Here's a list of public Fediverse services.
 | `paradox.social` | No |
 | `paragon-es.de` | Yes |
 | `paragonia.nl` | No |
+| `param.codes` | Yes |
 | `paramdeo.co` | Yes |
 | `paramdeo.com` | Yes |
 | `parametric.social` | No |
@@ -30503,6 +30509,7 @@ Here's a list of public Fediverse services.
 | `softwerk2.de` | No |
 | `softwhere.ca` | No |
 | `sogipe.fr` | No |
+| `sognensnekkerhaugen.xyz` | Yes |
 | `sohan-tricoire.fr` | No |
 | `sohwatt.com` | Yes |
 | `soir.wtf` | No |
@@ -35743,6 +35750,7 @@ Here's a list of public Fediverse services.
 | `weatherishappening.network` | No |
 | `weaviate.community` | No |
 | `web-dev.social` | No |
+| `web-of-us.com` | No |
 | `web0000.jp` | No |
 | `web30.top` | No |
 | `web3music.land` | No |
@@ -37686,8 +37694,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,931 |
-| Normal | 28,712 |
+| Cloudflare | 8,935 |
+| Normal | 28,716 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
