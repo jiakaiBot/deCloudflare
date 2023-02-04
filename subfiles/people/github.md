@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [new auth: <Verify you are human> .Can not login.](https://github.com/terry3041/pyChatGPT/issues/123)
 - [sing-box 作 client 时 ws 0-rtt 不生效](https://github.com/SagerNet/sing-box/issues/344)
 - [problem in connecting to CDN](https://github.com/xcode75/XManagerPlus/issues/21)
 - [Turn on strict encryption between cloudflare and ordinals.com origin server](https://github.com/casey/ord/issues/1475)
