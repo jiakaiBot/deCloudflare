@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,573 |
 | net | 2,838 |
 | org | 2,028 |
-| de | 1,905 |
+| de | 1,906 |
 
 
 - Mastodon, Pleroma, etc
@@ -16692,6 +16692,7 @@ Here's a list of public Fediverse services.
 | `khpape.blog` | No |
 | `kianting.info` | No |
 | `kiasyn.com` | Yes |
+| `kiber-ogur4ik.space` | Yes |
 | `kibertonija.in` | No |
 | `kibi.family` | No |
 | `kibitz.cloud` | Yes |
@@ -31225,6 +31226,7 @@ Here's a list of public Fediverse services.
 | `stkrdn.xyz` | No |
 | `stl.fyi` | No |
 | `stlouist.com` | No |
+| `stlpnetwork.de` | Yes |
 | `stmh.io` | No |
 | `stml.me` | No |
 | `stoablick.de` | No |
@@ -37654,7 +37656,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,914 |
+| Cloudflare | 8,916 |
 | Normal | 28,697 |
 
 
