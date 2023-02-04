@@ -338,6 +338,7 @@ zycierodzina.pl
 api.prod.zoov.eu
 avito.avito.git.git.gitlab.www.covid19.zalive-akvilon.ru
 bcczotrsv2.zeland.net
+hot.ztk89dmu.com
 idp.dev-saas.zeb-it.de
 kuuhaku.zudakode.com
 sber.avito.avito.gitlab.git.www.covid19.zalive-akvilon.ru
@@ -346,10 +347,12 @@ sberbank.avito.avito.gitlab.covid19.zlclubmarket.com
 sberbank.avito.git.git.gitlab.www.covid19.zalive-akvilon.ru
 webdisk.ll24new.aymen.zgstageci.work
 www.aruba.zbouer.net
+www.author.zeffa.com
 www.e-accountants.net.zehraglobalinfotech.in
 z88344-xn3fu.s01.zwphosting.com
 zastupci-allianz.cz
 zaus.my
+zooknoxvillecof.org
 zycrypto.com
 01.ccm.qa.verso.zsservices.com
 alert-manager.k3s.zunicloud.de
