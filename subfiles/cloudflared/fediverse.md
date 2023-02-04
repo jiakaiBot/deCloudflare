@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,585 |
 | social | 3,576 |
-| net | 2,841 |
+| net | 2,842 |
 | org | 2,030 |
 | de | 1,907 |
 
@@ -33351,6 +33351,7 @@ Here's a list of public Fediverse services.
 | `tobias-k.de` | Yes |
 | `tobiastom.name` | No |
 | `tobiaswiese.com` | No |
+| `tobitti.net` | Yes |
 | `tobolaski.com` | No |
 | `toboldlybrew.com` | Yes |
 | `tobru.ch` | No |
@@ -35662,6 +35663,7 @@ Here's a list of public Fediverse services.
 | `warc.space` | No |
 | `warcraft.one` | No |
 | `warcraft.social` | Yes |
+| `wardell.dev` | No |
 | `wardenburg.social` | No |
 | `wardenbypass.tk` | No |
 | `warehouse8.social` | No |
@@ -35907,6 +35909,7 @@ Here's a list of public Fediverse services.
 | `wer.ee` | Yes |
 | `werblog.com` | No |
 | `wercx.net` | No |
+| `werd.io` | Yes |
 | `werd.social` | No |
 | `were.party` | Yes |
 | `were.social` | No |
@@ -37697,8 +37700,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,935 |
-| Normal | 28,719 |
+| Cloudflare | 8,937 |
+| Normal | 28,720 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
