@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,576 |
+| com | 5,580 |
 | social | 3,573 |
-| net | 2,838 |
+| net | 2,840 |
 | org | 2,028 |
 | de | 1,906 |
 
@@ -4082,6 +4082,7 @@ Here's a list of public Fediverse services.
 | `booknetwork.ca` | No |
 | `bookofadamz.com` | No |
 | `bookrastinating.com` | No |
+| `books-lighthouse.com` | No |
 | `bookstodon.com` | No |
 | `bookstodon.net` | No |
 | `booktoot.club` | No |
@@ -11911,6 +11912,7 @@ Here's a list of public Fediverse services.
 | `gaycatgirl.sex` | No |
 | `gaychina.com` | Yes |
 | `gaycookie.dev` | Yes |
+| `gaydadon.jp` | No |
 | `gayest.cloud` | No |
 | `gayfr.social` | No |
 | `gayfurry.space` | No |
@@ -13298,6 +13300,7 @@ Here's a list of public Fediverse services.
 | `hartley.cc` | No |
 | `haru-jishnu.eu` | No |
 | `haru2036.com` | No |
+| `haru3.me` | No |
 | `haruhi-mstdn.club` | No |
 | `haruk.in` | Yes |
 | `harumakizaemon.net` | No |
@@ -14021,6 +14024,7 @@ Here's a list of public Fediverse services.
 | `honksybonksy.com` | No |
 | `honkwerx.tech` | No |
 | `honnef.co` | No |
+| `honokanomori.com` | No |
 | `honq.me` | No |
 | `hoob.io` | No |
 | `hoops.chat` | No |
@@ -16505,6 +16509,7 @@ Here's a list of public Fediverse services.
 | `kdecherf.com` | No |
 | `kdhq.dev` | No |
 | `kdlvklv.xyz` | No |
+| `kdmgkr.com` | Yes |
 | `kdvr.com` | No |
 | `kdy.ch` | Yes |
 | `keane.ml` | Yes |
@@ -20330,6 +20335,7 @@ Here's a list of public Fediverse services.
 | `mctek.tk` | No |
 | `mctetsudou.net` | No |
 | `mcth.fr` | No |
+| `mcuch.com` | No |
 | `mcwhirter.io` | No |
 | `mcyt.cc` | Yes |
 | `mczachurski.dev` | No |
@@ -20585,6 +20591,7 @@ Here's a list of public Fediverse services.
 | `mercut.io` | No |
 | `meremortalspodcast.shop` | No |
 | `merfolk.social` | No |
+| `mergl.in` | No |
 | `meridiangrp.co.uk` | Yes |
 | `merill.net` | Yes |
 | `merkel.info` | No |
@@ -23232,6 +23239,7 @@ Here's a list of public Fediverse services.
 | `nixnet.xyz` | No |
 | `nixorigin.one` | Yes |
 | `nixos.paris` | No |
+| `nixphere.chat` | No |
 | `nixphere.org` | No |
 | `nixre.net` | No |
 | `nixslave.xyz` | No |
@@ -32167,6 +32175,7 @@ Here's a list of public Fediverse services.
 | `tcjc.uk` | No |
 | `tcnfy.uk` | No |
 | `tcp.expert` | Yes |
+| `tcp.fm` | No |
 | `tcp53.ch` | No |
 | `tcpcat.net` | No |
 | `tcsh.online` | No |
@@ -34343,6 +34352,7 @@ Here's a list of public Fediverse services.
 | `tzwolak.com` | Yes |
 | `tzyl.eu` | No |
 | `tzyl.nl` | No |
+| `u-srv.net` | No |
 | `u-tokyo.social` | No |
 | `u-v.de` | No |
 | `u.fail` | Yes |
@@ -34704,6 +34714,7 @@ Here's a list of public Fediverse services.
 | `unx.pw` | No |
 | `unxpctd.xyz` | No |
 | `unxpnx.farm` | No |
+| `unyacat.net` | Yes |
 | `unyu.live` | Yes |
 | `unzensiert.to` | No |
 | `uofgbot.top` | No |
@@ -37657,8 +37668,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,916 |
-| Normal | 28,698 |
+| Cloudflare | 8,918 |
+| Normal | 28,707 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
