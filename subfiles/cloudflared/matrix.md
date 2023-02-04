@@ -35,6 +35,7 @@ Here's a list of public Matrix services.
 | bolha.chat | Yes |
 | breeze.town | No |
 | matrix.bytes4u.de | No |
+| matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
@@ -100,7 +101,6 @@ Here's a list of public Matrix services.
 | matrix.plus.st | No |
 | pragma-messenger.ch | No |
 | www.privacytools.io | Yes |
-| matrix.pub.solar | No |
 | radiowarnerd.org | No |
 | matrix.rimfaxe.net | No |
 | riotchat.de | Yes |
