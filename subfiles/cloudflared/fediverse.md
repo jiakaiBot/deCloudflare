@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,575 |
 | net | 2,841 |
 | org | 2,029 |
-| de | 1,906 |
+| de | 1,907 |
 
 
 - Mastodon, Pleroma, etc
@@ -3111,6 +3111,7 @@ Here's a list of public Fediverse services.
 | `bcostodon.lol` | No |
 | `bdash.net.nz` | Yes |
 | `bdeshi.space` | No |
+| `bdmuvt.de` | Yes |
 | `bdn.one` | No |
 | `bdsmspace.club` | No |
 | `bdx.town` | No |
@@ -24291,6 +24292,7 @@ Here's a list of public Fediverse services.
 | `onlysomestories.com` | No |
 | `onmasto.com` | No |
 | `onore.org` | No |
+| `onosamo.tech` | No |
 | `onosend.ai` | No |
 | `onosendai.jp` | No |
 | `onpaper.su` | Yes |
@@ -36747,6 +36749,7 @@ Here's a list of public Fediverse services.
 | `xn--mnq49e62t21e.xn--rhqv96g` | No |
 | `xn--modervr-jxa.space` | No |
 | `xn--mta-bma.hu` | No |
+| `xn--n3haa.ws` | No |
 | `xn--n6x.net` | Yes |
 | `xn--n8jyhka.shop` | No |
 | `xn--nead-na-bhfinleog-hpb.ie` | No |
@@ -37683,8 +37686,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,930 |
-| Normal | 28,710 |
+| Cloudflare | 8,931 |
+| Normal | 28,712 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
