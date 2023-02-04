@@ -541,6 +541,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlfatihAbdalla@twitter](https://twitter.com/AlfatihAbdalla/status/1442078849823563780) | advertise |
 | [alfielord21@twitter](https://twitter.com/alfielord21/status/1498966562505646080) | advertise |
 | [alfoxdie@twitter](https://twitter.com/alfoxdie/status/1402541023146897410) | advertise |
+| [Alfred52321621@twitter](https://twitter.com/Alfred52321621/status/1621866869719453696) | advertise |
 | [AlgNinja@twitter](https://twitter.com/AlgNinja/status/1378849294208360451) | advertise |
 | [Ali03101829Ali@twitter](https://twitter.com/Ali03101829Ali/status/1561268730075701250) | advertise |
 | [Ali12khan12@twitter](https://twitter.com/Ali12khan12/status/1497947864743432199) | advertise |
@@ -8416,6 +8417,7 @@ Do not create new issue or we will close it as duplicate.
 | [PKumkaewprom@twitter](https://twitter.com/PKumkaewprom/status/1387070626297487361) | advertise |
 | [pkworlz@twitter](https://twitter.com/pkworlz/status/1475561304786046977) | advertise |
 | [PKZAIT@twitter](https://twitter.com/PKZAIT/status/1575982222493986816) | advertise |
+| [pl91pht@twitter](https://twitter.com/pl91pht/status/1621859825700474882) | advertise |
 | [Pl47926009@twitter](https://twitter.com/Pl47926009/status/1395366611989655553) | advertise |
 | [Plan43611745@twitter](https://twitter.com/Plan43611745/status/1399656503079018497) | advertise |
 | [Plang04546316@twitter](https://twitter.com/Plang04546316/status/1536426694986420225) | advertise |
