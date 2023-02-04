@@ -5931,6 +5931,7 @@ Do not create new issue or we will close it as duplicate.
 | [llAnh_Hungll@twitter](https://twitter.com/llAnh_Hungll/status/1563110667812425733) | advertise |
 | [LlcBillionaire@twitter](https://twitter.com/LlcBillionaire/status/1498441224264552455) | advertise |
 | [lloydkissoon3@twitter](https://twitter.com/lloydkissoon3/status/1536419970590158848) | advertise |
+| [llsc121@twitter](https://twitter.com/llsc121/status/1621940122714349574) | advertise |
 | [llteky@twitter](https://twitter.com/llteky/status/1529935561091432453) | advertise |
 | [LluDavil@twitter](https://twitter.com/LluDavil/status/1493158792003207169) | advertise |
 | [ll_ofi@twitter](https://twitter.com/ll_ofi/status/1490596081264214016) | advertise |
