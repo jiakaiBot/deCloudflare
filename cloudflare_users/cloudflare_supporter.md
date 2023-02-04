@@ -758,6 +758,7 @@ Do not create new issue or we will close it as duplicate.
 | [anh_shiper1@twitter](https://twitter.com/anh_shiper1/status/1557637888942424065) | advertise |
 | [ani2nill@twitter](https://twitter.com/ani2nill/status/1444552778748084226) | advertise |
 | [AniateRyan@twitter](https://twitter.com/AniateRyan/status/1497729331958665220) | advertise |
+| [aniiwal@twitter](https://twitter.com/aniiwal/status/1621898538102960128) | advertise |
 | [AnikethDevadiga@twitter](https://twitter.com/AnikethDevadiga/status/1393885775305928706) | advertise |
 | [AniketR19914841@twitter](https://twitter.com/AniketR19914841/status/1384569411630026752) | advertise |
 | [Anikets98739334@twitter](https://twitter.com/Anikets98739334/status/1393038098561331200) | advertise |
@@ -5140,6 +5141,7 @@ Do not create new issue or we will close it as duplicate.
 | [khant45034632@twitter](https://twitter.com/khant45034632/status/1399752623771635715) | advertise |
 | [KhantAu50443719@twitter](https://twitter.com/KhantAu50443719/status/1391450190825988099) | advertise |
 | [KHANTMINKYAW16@twitter](https://twitter.com/KHANTMINKYAW16/status/1391791292695207940) | advertise |
+| [KhantMinThant96@twitter](https://twitter.com/KhantMinThant96/status/1621897459206344704) | advertise |
 | [KhantNa49596643@twitter](https://twitter.com/KhantNa49596643/status/1392408241062092808) | advertise |
 | [KhantNyarZaw57@twitter](https://twitter.com/KhantNyarZaw57/status/1397060377377001472) | advertise |
 | [KhantphyoW@twitter](https://twitter.com/KhantphyoW/status/1404800896471535619) | advertise |
@@ -10945,6 +10947,7 @@ Do not create new issue or we will close it as duplicate.
 | [TuanDo60212814@twitter](https://twitter.com/TuanDo60212814/status/1597020296418324481) | advertise |
 | [TuanHoa92591402@twitter](https://twitter.com/TuanHoa92591402/status/1401178907756220419) | advertise |
 | [tuanit3697@twitter](https://twitter.com/tuanit3697/status/1483194691680337920) | advertise |
+| [TuanKie91679866@twitter](https://twitter.com/TuanKie91679866/status/1621889233165357057) | advertise |
 | [tuanland168@twitter](https://twitter.com/tuanland168/status/1494107056051085315) | advertise |
 | [TuanN2020@twitter](https://twitter.com/TuanN2020/status/1553269866844803072) | advertise |
 | [TuanNamLe1@twitter](https://twitter.com/TuanNamLe1/status/1552596263081615360) | advertise |
