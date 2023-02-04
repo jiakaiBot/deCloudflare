@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [v6 FetchCancelSignal might have an incorrect assertion](https://github.com/ethers-io/ethers.js/issues/3733)
 - [new auth: <Verify you are human> .Can not login.](https://github.com/terry3041/pyChatGPT/issues/123)
 - [sing-box 作 client 时 ws 0-rtt 不生效](https://github.com/SagerNet/sing-box/issues/344)
 - [problem in connecting to CDN](https://github.com/xcode75/XManagerPlus/issues/21)
