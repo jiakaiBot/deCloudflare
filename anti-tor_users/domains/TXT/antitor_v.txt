@@ -1271,15 +1271,19 @@ www.vtcsprinterandalucia.com
 www.whatsapp.vaidelivery.com
 www.workdex.viewerpost.com
 access.vseegypt.com
+adfs.vargroup.it
 analytics.vodafone.com.au
 api.n46-eolda1.dev.eu.pp.cloud.vwgroup.com
 apieu.verteil.com
 apps.saas.visicom.com
 content.vodafone.gr
 cpanel.vietsupport.vn
+dashboard.vivira.com
+graylog.validcertificadora.com.br
 ipa.vdslab.ca
 mbboauth-1c.prd.ece.vwg-connect.com
 mod3digestmbbrun-3a.prd.eu.dp.vwg-connect.com
+navi-developer.vercel.app
 nolijlink.villanova.edu
 perf-gte.virtusa.com
 sberbank.avito.blablacar.avito.avito.covid19.vossbryggeri.com
@@ -1288,6 +1292,7 @@ service-account-key-vault.gcp.veolia.tech
 shipping-manager.doelgroep.dgs.dev.platforms.symeta.vvc.dev
 vapecartsdelivery.com
 vastucreations.com
+verhoilupalvelu.fi
 vertography.com
 victoria-creditrepair.com
 vietvip.bet
@@ -1315,6 +1320,7 @@ vitals.ua
 vivamedia.se
 vlsaglobalservices.com
 vnorthwest.com
+vnprintusa.com
 vnvh.ch
 vodafone.com.gh
 voicesupport.ro
@@ -1343,6 +1349,7 @@ wemobi.vendasjca.com.br
 whm.viegliemsoliem.lv
 wow.corp.vodafone.pt
 wsnfse.vitoria.es.gov.br
+wsnfsehomologa.vitoria.es.gov.br
 www.billys.vimirlab.com
 www.cekliveness.com.verifywajah.com
 www.clientes.virtualhostnet.com.co
