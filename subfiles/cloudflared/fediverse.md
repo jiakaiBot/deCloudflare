@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,580 |
-| social | 3,573 |
+| com | 5,584 |
+| social | 3,575 |
 | net | 2,840 |
-| org | 2,028 |
+| org | 2,029 |
 | de | 1,906 |
 
 
@@ -5289,6 +5289,7 @@ Here's a list of public Fediverse services.
 | `chaudhery.com` | No |
 | `chaunchy.com` | No |
 | `chaurocks.com` | Yes |
+| `chazx.cc` | Yes |
 | `chb.xyz` | No |
 | `chbk.co` | Yes |
 | `chbmeyer.de` | No |
@@ -9167,6 +9168,7 @@ Here's a list of public Fediverse services.
 | `elemsys.com` | Yes |
 | `elendia.net` | No |
 | `eleos.space` | No |
+| `eleph.social` | No |
 | `elephant.bike` | Yes |
 | `elephantelephantelephant.com` | Yes |
 | `elephantfossil.com` | Yes |
@@ -10406,6 +10408,7 @@ Here's a list of public Fediverse services.
 | `feedle.net` | No |
 | `feedly.com` | Yes |
 | `feedmechocolate.com` | No |
+| `feedmedoughnuts.com` | Yes |
 | `feedpunk.net` | Yes |
 | `feeds.social` | No |
 | `feedseer.com` | No |
@@ -11273,6 +11276,7 @@ Here's a list of public Fediverse services.
 | `frickalou.com` | No |
 | `fricklers.org` | No |
 | `frictionless.contact` | No |
+| `friday.computer` | No |
 | `fridaysforfuturefvg.it` | No |
 | `friedbumblebees.com` | No |
 | `friede.cc` | No |
@@ -23203,7 +23207,7 @@ Here's a list of public Fediverse services.
 | `nisa.cat` | No |
 | `niscii.xyz` | Yes |
 | `nishimin.com` | No |
-| `nishimin.net` | No |
+| `nishimin.net` | Yes |
 | `nishinomiya.in.net` | No |
 | `nishiwaseda.net` | No |
 | `niso.org` | No |
@@ -25072,7 +25076,7 @@ Here's a list of public Fediverse services.
 | `passageenseine.fr` | No |
 | `passey.cloud` | No |
 | `passionsofaman.com` | No |
-| `passtodon.social` | No |
+| `passtodon.social` | Yes |
 | `passwd.org` | Yes |
 | `pasta.ga` | No |
 | `pasta.social` | Yes |
@@ -27835,6 +27839,7 @@ Here's a list of public Fediverse services.
 | `rhinofore.st` | No |
 | `rhinoworks.info` | No |
 | `rhizome.org` | Yes |
+| `rhizome.red` | No |
 | `rhizome.social` | Yes |
 | `rhnhssn.social` | No |
 | `rhoads.com` | No |
@@ -30953,6 +30958,7 @@ Here's a list of public Fediverse services.
 | `squug.net` | No |
 | `sqweeb.net` | No |
 | `sqwkr.eu` | No |
+| `srb2.org` | Yes |
 | `srbstodon.rs` | Yes |
 | `srcr.nl` | No |
 | `srdn.net` | No |
@@ -31070,6 +31076,7 @@ Here's a list of public Fediverse services.
 | `starship.coffee` | No |
 | `starshipchangeling.net` | No |
 | `starshipcritic.space` | No |
+| `starshipjennings.com` | No |
 | `starside.social` | No |
 | `starsky.me` | Yes |
 | `start9labs.com` | Yes |
@@ -31319,6 +31326,7 @@ Here's a list of public Fediverse services.
 | `strangeplace.me` | Yes |
 | `stranger.social` | No |
 | `stranger.town` | No |
+| `strangerproduction.com` | No |
 | `strangestack.com` | No |
 | `strangevistas.com` | No |
 | `strangeweb.page` | No |
@@ -33811,6 +33819,7 @@ Here's a list of public Fediverse services.
 | `travelpandas.xyz` | No |
 | `travelsoftux.co.uk` | No |
 | `travisshears.xyz` | No |
+| `travisthieman.com` | Yes |
 | `travnewmatic.com` | Yes |
 | `traxo.net` | Yes |
 | `traydent.info` | No |
@@ -35828,6 +35837,7 @@ Here's a list of public Fediverse services.
 | `weho.st` | No |
 | `wehost.lgbt` | No |
 | `weibo.run` | Yes |
+| `weilnboeck.social` | No |
 | `weinzierlweb.com` | No |
 | `weiranzhang.com` | Yes |
 | `weird.autos` | No |
@@ -37404,6 +37414,7 @@ Here's a list of public Fediverse services.
 | `zenfolie.org` | No |
 | `zenger.nl` | No |
 | `zenphp.com` | No |
+| `zenshin.uk` | Yes |
 | `zentea.gay` | No |
 | `zentonic.org` | No |
 | `zentroverse.xyz` | Yes |
@@ -37670,8 +37681,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,920 |
-| Normal | 28,707 |
+| Cloudflare | 8,927 |
+| Normal | 28,711 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
