@@ -17106,6 +17106,7 @@ Here's a list of public Fediverse services.
 | `konklone.com` | No |
 | `konkon.click` | No |
 | `konmalehth.org` | No |
+| `kono.pub` | Yes |
 | `kono.sh` | Yes |
 | `konosuke.jp` | No |
 | `konradlemanski.dev` | Yes |
@@ -20588,6 +20589,7 @@ Here's a list of public Fediverse services.
 | `merci-la-police.fr` | No |
 | `mercurial.solar` | Yes |
 | `mercury.social` | No |
+| `mercurywork.shop` | Yes |
 | `mercut.io` | No |
 | `meremortalspodcast.shop` | No |
 | `merfolk.social` | No |
@@ -37668,7 +37670,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,918 |
+| Cloudflare | 8,920 |
 | Normal | 28,707 |
 
 
