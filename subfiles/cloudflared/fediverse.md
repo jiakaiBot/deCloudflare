@@ -31140,6 +31140,7 @@ Here's a list of public Fediverse services.
 | `stefanbohacek.online` | No |
 | `stefanbohacek.social` | No |
 | `stefaniehippert.de` | No |
+| `stefankoopmanschap.nl` | Yes |
 | `stefanomarinelli.it` | No |
 | `stefanovski.io` | Yes |
 | `stefanpfeiffer.blog` | Yes |
@@ -37681,7 +37682,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,927 |
+| Cloudflare | 8,928 |
 | Normal | 28,711 |
 
 
