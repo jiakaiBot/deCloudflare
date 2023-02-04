@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,575 |
+| com | 5,576 |
 | social | 3,573 |
 | net | 2,838 |
 | org | 2,028 |
@@ -9968,7 +9968,7 @@ Here's a list of public Fediverse services.
 | `fairy.id` | Yes |
 | `fairy.life` | No |
 | `fairy.zone` | No |
-| `fairyland.cyou` | Yes |
+| `fairyland.cyou` | No |
 | `fairymeadow.org` | No |
 | `faisal.social` | No |
 | `faiss.com` | No |
@@ -13273,7 +13273,7 @@ Here's a list of public Fediverse services.
 | `harding.dev` | No |
 | `hardlimit.com` | No |
 | `hardr.social` | No |
-| `hardtoast.social` | No |
+| `hardtoast.social` | Yes |
 | `hardwarehookups.com.au` | No |
 | `hardwarejunkies.social` | No |
 | `hardwarepunk.de` | No |
@@ -27104,6 +27104,7 @@ Here's a list of public Fediverse services.
 | `radon.social` | No |
 | `radres.xyz` | No |
 | `radsportsalat.de` | No |
+| `radsrv.com` | No |
 | `radtke-partner.de` | No |
 | `radtke.pw` | No |
 | `radtusks.xyz` | No |
@@ -37657,7 +37658,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,916 |
-| Normal | 28,697 |
+| Normal | 28,698 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
