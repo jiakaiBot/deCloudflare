@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,600 |
 | social | 3,583 |
 | net | 2,848 |
-| org | 2,031 |
+| org | 2,032 |
 | de | 1,911 |
 
 
@@ -8840,6 +8840,7 @@ Here's a list of public Fediverse services.
 | `eagleear.social` | No |
 | `eaglefirenation.com` | No |
 | `eaku.net` | No |
+| `eamonn.org` | No |
 | `eanske.eu` | No |
 | `ear7h.net` | No |
 | `earfolds.com` | No |
@@ -10964,6 +10965,7 @@ Here's a list of public Fediverse services.
 | `forensicpsychiatry.social` | No |
 | `fores.top` | Yes |
 | `foresdon.jp` | No |
+| `forestroad.xyz` | Yes |
 | `forestver.se` | No |
 | `forextrading.one` | No |
 | `forfreedom.at` | No |
@@ -37786,8 +37788,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,965 |
-| Normal | 28,778 |
+| Cloudflare | 8,966 |
+| Normal | 28,779 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
