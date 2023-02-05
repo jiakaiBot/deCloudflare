@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,598 |
+| com | 5,599 |
 | social | 3,582 |
 | net | 2,847 |
 | org | 2,030 |
@@ -9026,7 +9026,7 @@ Here's a list of public Fediverse services.
 | `eenoog.org` | No |
 | `eersteblik.nl` | No |
 | `eertu.be` | No |
-| `eeruwang.me` | No |
+| `eeruwang.me` | Yes |
 | `eesti.zone` | No |
 | `eevee.ca` | Yes |
 | `ef.gg` | No |
@@ -9293,7 +9293,7 @@ Here's a list of public Fediverse services.
 | `elysian.city` | No |
 | `elysian.space` | No |
 | `elysians.social` | No |
-| `elytra15.com` | No |
+| `elytra15.com` | Yes |
 | `emacs.ch` | No |
 | `emacs.li` | No |
 | `emacsen.net` | No |
@@ -20598,6 +20598,7 @@ Here's a list of public Fediverse services.
 | `mentalhealth-masto.com` | No |
 | `mentalhealth.social` | No |
 | `mentality.rip` | No |
+| `mentallogic.com` | Yes |
 | `mentalswarf.com` | No |
 | `menteva.ga` | No |
 | `menzel-it.social` | No |
@@ -37774,8 +37775,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,958 |
-| Normal | 28,773 |
+| Cloudflare | 8,961 |
+| Normal | 28,771 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
