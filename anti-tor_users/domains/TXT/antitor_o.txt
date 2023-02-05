@@ -704,7 +704,6 @@ mili-to.owst.jp
 mini-app-ev-charge-server-service.twallet-jp.opn.dev
 mobilizon.openstreetmap.fr
 mtestrf2.ok.ru
-multiversa.olisnet.com
 mymillenniumbcp3-imwrapper.cc.oneit.pt
 mysav-dotnet-app.orbility.com
 navigate-import.qa.sit.sys.odj.cloud
@@ -1266,9 +1265,12 @@ www.wachtwoord.apps.omnius.nl
 www.whitelistpass.obzidian.net
 xbox.orange.fr
 adfs.ostbau.de
+amazon-bvrghr.organiccrap.com
 api.opentok.com
+azure.onenine.cloud
 botcaptcha.oiti.me
 click.openbankingexcellence.online
+cmi.omgeo.net
 cpanel.openmicroblogger.org
 cpcontacts.openmicroblogger.org
 dependency-track.odin-vision.com
@@ -1276,6 +1278,7 @@ domaintohosting.organiccrap.com
 gordini.oscc.com.br
 mail.openmicroblogger.org
 mww.okwiththate.quest
+navi-za-kamion.onebgshop.com
 nostr.onsats.org
 obahost.com.br
 ofertasemconta.com.br
@@ -1285,6 +1288,7 @@ omegasupport.dk
 onboard-app.openinvoice.com
 onecitizendaily.com
 online-tollpayment.com
+onnoboerwinkel.nl
 openingline.co
 openmicroblogger.org
 opensiddur.org
@@ -1294,6 +1298,8 @@ ouvindomusica.com
 salestest.orico.co.jp
 samruddhib.onlinegoogleadscourse.com
 smssit.onepuhunan.com.ph
+staging.opengovernment.ke
+support.demo.osmianski.com
 sw6.officedirekt-servicecenter.de
 traildenuces.onmypc.net
 twitch.otkdata.com
@@ -1304,6 +1310,7 @@ www.citybank.onlinedikari.com
 www.livid.outer-control.com
 www.oculus.com
 www.ofertasemconta.com.br
+www.officemarket.hu
 www.ohiostatearms.com
 www.olxautos.in
 www.opustech.us
@@ -1311,6 +1318,9 @@ www.organifarms.de
 www.orishealthsafety.com
 www.osverdes.pt
 www.oulunkattopalvelu.fi
+www.staging.opengovernment.ke
+www.surokkha.gov.bd.verify.online-id.site
+www3.ohrc.on.ca
 720creditscore.com.respond.ontraport.net
 720creditscore.pages.ontraport.net
 achasp2-cert.onefiserv.com
