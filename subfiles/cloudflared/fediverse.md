@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,582 |
 | net | 2,847 |
 | org | 2,030 |
-| de | 1,909 |
+| de | 1,910 |
 
 
 - Mastodon, Pleroma, etc
@@ -6675,6 +6675,7 @@ Here's a list of public Fediverse services.
 | `ctuck.com` | No |
 | `ctw.pw` | No |
 | `ctx.red` | Yes |
+| `cu-it.de` | No |
 | `cu2d.com` | No |
 | `cuatrolibertades.org` | No |
 | `cub.porn` | No |
@@ -36988,6 +36989,7 @@ Here's a list of public Fediverse services.
 | `yaat.org` | Yes |
 | `yabtm.us` | No |
 | `yaddayaddayadda.xyz` | No |
+| `yae.lol` | No |
 | `yaeghs.net` | No |
 | `yael.fun` | No |
 | `yaesu-eas.tokyo` | Yes |
@@ -37772,7 +37774,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,958 |
-| Normal | 28,770 |
+| Normal | 28,772 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
