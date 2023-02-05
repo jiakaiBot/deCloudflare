@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,599 |
-| social | 3,582 |
-| net | 2,847 |
-| org | 2,030 |
+| com | 5,600 |
+| social | 3,583 |
+| net | 2,848 |
+| org | 2,031 |
 | de | 1,911 |
 
 
@@ -466,6 +466,7 @@ Here's a list of public Fediverse services.
 | `536.fr` | No |
 | `54nord.net` | No |
 | `54park.de` | No |
+| `5505.industries` | Yes |
 | `551.social` | No |
 | `56k.es` | No |
 | `56k.space` | No |
@@ -490,6 +491,7 @@ Here's a list of public Fediverse services.
 | `5kg.jp` | No |
 | `5lb.co` | No |
 | `5ma.club` | No |
+| `5ma.eu` | No |
 | `5py.de` | No |
 | `5seen.social` | Yes |
 | `5sigma.io` | No |
@@ -2079,6 +2081,7 @@ Here's a list of public Fediverse services.
 | `area893.org` | No |
 | `arein.space` | No |
 | `areiyatech.com` | No |
+| `arekkusu.net` | No |
 | `arel.net` | Yes |
 | `arent.net` | No |
 | `arenzana.org` | No |
@@ -14794,6 +14797,7 @@ Here's a list of public Fediverse services.
 | `indiegames.online` | No |
 | `indiehackers.social` | Yes |
 | `indiepocalypse.social` | No |
+| `indietz.icu` | Yes |
 | `indieweb.life` | No |
 | `indieweb.me` | No |
 | `indieweb.social` | No |
@@ -15184,6 +15188,7 @@ Here's a list of public Fediverse services.
 | `is4.site` | Yes |
 | `isaaccronk.com` | No |
 | `isaacsu.com` | Yes |
+| `isaak.ovh` | No |
 | `isabelle-santos.space` | No |
 | `isabelroses.live` | Yes |
 | `isacutie.net` | No |
@@ -18957,6 +18962,7 @@ Here's a list of public Fediverse services.
 | `lunerousse.eu` | No |
 | `lunes.social` | No |
 | `lunet.org` | No |
+| `lunsford.xyz` | No |
 | `lunta.net` | No |
 | `luoe.dev` | Yes |
 | `luoghicomuni.social` | No |
@@ -20620,6 +20626,7 @@ Here's a list of public Fediverse services.
 | `meowclown.de` | No |
 | `meowhome.xyz` | No |
 | `meowing.online` | Yes |
+| `meowly.org` | Yes |
 | `meowmeow.gay` | Yes |
 | `meowr.me` | No |
 | `meowr.org` | No |
@@ -25768,6 +25775,7 @@ Here's a list of public Fediverse services.
 | `pirouz.io` | Yes |
 | `pirsamti.com` | Yes |
 | `pirtube.cz` | No |
+| `pirxpilot.me` | Yes |
 | `piscolabis.me` | No |
 | `pisino.it` | Yes |
 | `piss.io` | No |
@@ -25836,6 +25844,7 @@ Here's a list of public Fediverse services.
 | `pixelfred.de` | No |
 | `pixelgesicht.de` | No |
 | `pixelho.me` | No |
+| `pixelig.social` | No |
 | `pixellife.app` | No |
 | `pixeloasis.eu` | Yes |
 | `pixelpaperyarn.rocks` | No |
@@ -26988,6 +26997,7 @@ Here's a list of public Fediverse services.
 | `quet.ch` | Yes |
 | `quey.org` | Yes |
 | `quic.fr` | No |
+| `quickfix.es` | No |
 | `quiet.horse` | No |
 | `quiet.social` | No |
 | `quiet.town` | No |
@@ -34041,6 +34051,7 @@ Here's a list of public Fediverse services.
 | `trougnouf.com` | No |
 | `trouth.eu` | No |
 | `troxelhome.page` | No |
+| `troykitch.com` | No |
 | `trpg-link.tk` | No |
 | `trpg-o.xyz` | No |
 | `trpg.cloud` | Yes |
@@ -37775,8 +37786,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,961 |
-| Normal | 28,771 |
+| Cloudflare | 8,965 |
+| Normal | 28,778 |
 
 
-### 23.7% of public Fediverse services are using Cloudflare.
+### 23.8% of public Fediverse services are using Cloudflare.
