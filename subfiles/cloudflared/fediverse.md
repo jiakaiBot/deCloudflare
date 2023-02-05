@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,600 |
+| com | 5,601 |
 | social | 3,583 |
 | net | 2,848 |
 | org | 2,032 |
@@ -3187,6 +3187,7 @@ Here's a list of public Fediverse services.
 | `beef.moe` | Yes |
 | `beefboyz.com` | Yes |
 | `beefboyz.net` | Yes |
+| `beefus.camp` | No |
 | `beefyboys.club` | Yes |
 | `beefyboys.win` | Yes |
 | `beehaw.org` | No |
@@ -8337,6 +8338,7 @@ Here's a list of public Fediverse services.
 | `domm.me` | Yes |
 | `dommunicate.com` | Yes |
 | `domo.cafe` | Yes |
+| `domori.club` | No |
 | `domov.de` | No |
 | `domtube.de` | No |
 | `don.im` | Yes |
@@ -16274,6 +16276,7 @@ Here's a list of public Fediverse services.
 | `kabipix.tk` | No |
 | `kabudon.jp` | No |
 | `kabuki.club` | No |
+| `kabukimono.top` | No |
 | `kabutodon.com` | No |
 | `kacco-e.org` | No |
 | `kachel.social` | No |
@@ -17426,6 +17429,7 @@ Here's a list of public Fediverse services.
 | `kuscheltierdoktor.de` | No |
 | `kusoda.net` | Yes |
 | `kusoneko.moe` | No |
+| `kusso-yotta.com` | Yes |
 | `kusu.icu` | Yes |
 | `kuu.moe` | Yes |
 | `kuude.re` | No |
@@ -37789,8 +37793,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,967 |
-| Normal | 28,779 |
+| Cloudflare | 8,968 |
+| Normal | 28,782 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
