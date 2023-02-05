@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,582 |
 | net | 2,847 |
 | org | 2,030 |
-| de | 1,910 |
+| de | 1,911 |
 
 
 - Mastodon, Pleroma, etc
@@ -14954,6 +14954,7 @@ Here's a list of public Fediverse services.
 | `insert.moe` | Yes |
 | `insert.tk` | Yes |
 | `insicurezzadigitale.com` | Yes |
+| `insider-it.de` | No |
 | `insidetherink.com` | Yes |
 | `insightful.systems` | Yes |
 | `insitu.coop` | No |
@@ -37774,7 +37775,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,958 |
-| Normal | 28,772 |
+| Normal | 28,773 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
