@@ -17030,6 +17030,7 @@ Here's a list of public Fediverse services.
 | `know.me.uk` | No |
 | `knowbility.nl` | No |
 | `knowfeeldo.xyz` | Yes |
+| `knowhere.cafe` | Yes |
 | `knowingart.com` | No |
 | `knowltonwx.com` | Yes |
 | `knowscore.de` | No |
@@ -37788,7 +37789,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,966 |
+| Cloudflare | 8,967 |
 | Normal | 28,779 |
 
 
