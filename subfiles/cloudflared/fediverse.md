@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,594 |
-| social | 3,581 |
+| com | 5,598 |
+| social | 3,582 |
 | net | 2,847 |
 | org | 2,030 |
 | de | 1,909 |
@@ -3118,6 +3118,7 @@ Here's a list of public Fediverse services.
 | `bcom.moe` | Yes |
 | `bcome.nl` | No |
 | `bcostodon.lol` | No |
+| `bd.pub` | Yes |
 | `bdash.net.nz` | Yes |
 | `bdeshi.space` | No |
 | `bdmuvt.de` | Yes |
@@ -4191,6 +4192,7 @@ Here's a list of public Fediverse services.
 | `boumas.eu` | No |
 | `bounced.ca` | No |
 | `bounceme.net` | No |
+| `bound4the.icu` | Yes |
 | `boundary.wtf` | No |
 | `bounz.net` | Yes |
 | `bouquet.blue` | No |
@@ -5798,6 +5800,7 @@ Here's a list of public Fediverse services.
 | `cluster-b.online` | No |
 | `clusterfog.com` | No |
 | `clusterfucks.nl` | No |
+| `clustr.fun` | No |
 | `cly.wtf` | Yes |
 | `clyez.city` | No |
 | `cm-en-transition.fr` | No |
@@ -6363,6 +6366,7 @@ Here's a list of public Fediverse services.
 | `coywolf.photos` | Yes |
 | `coywolf.social` | Yes |
 | `coza.cloud` | No |
+| `cozy.chat` | Yes |
 | `cozymech.com` | No |
 | `cozysumo.space` | Yes |
 | `cozytronics.com` | No |
@@ -7880,6 +7884,7 @@ Here's a list of public Fediverse services.
 | `dhch.de` | No |
 | `dhd-netzwerk.de` | No |
 | `dhealth.social` | No |
+| `dheinemann.com` | No |
 | `dhoare.me` | No |
 | `dhosted.io` | Yes |
 | `dhpt.nl` | No |
@@ -10155,6 +10160,7 @@ Here's a list of public Fediverse services.
 | `fazbear.lol` | No |
 | `fb.com` | Yes |
 | `fbender.de` | No |
+| `fberriman.com` | No |
 | `fbi.pm` | Yes |
 | `fbievan.live` | No |
 | `fbk.moe` | Yes |
@@ -11970,6 +11976,7 @@ Here's a list of public Fediverse services.
 | `gcaillaut.fr` | No |
 | `gcfam.net` | No |
 | `gcfamily.fr` | No |
+| `gchq.icu` | No |
 | `gchq.online` | No |
 | `gclv.es` | No |
 | `gctxl.com` | No |
@@ -17824,6 +17831,7 @@ Here's a list of public Fediverse services.
 | `learnlinux.social` | No |
 | `learntosolveit.com` | Yes |
 | `leaseissues.org` | No |
+| `least.cool` | No |
 | `leastfixedpoint.com` | No |
 | `leatherdyk.es` | No |
 | `leathfam.com` | Yes |
@@ -21679,6 +21687,7 @@ Here's a list of public Fediverse services.
 | `mouf.net` | No |
 | `moul.re` | No |
 | `mountain.exchange` | No |
+| `mountainbock.social` | No |
 | `mountaincommunity.co` | No |
 | `mountains.social` | No |
 | `mountaintop.social` | No |
@@ -22644,6 +22653,7 @@ Here's a list of public Fediverse services.
 | `ne0ndrag0n.com` | No |
 | `nealgroothuis.name` | No |
 | `nealta.fr` | No |
+| `neamonitak.is` | No |
 | `near.social` | Yes |
 | `nearly.social` | No |
 | `neat.computer` | Yes |
@@ -27160,6 +27170,7 @@ Here's a list of public Fediverse services.
 | `radiostatler.social` | No |
 | `radiotogether.uk` | No |
 | `radiotube.org` | No |
+| `radlc.com` | No |
 | `radon.social` | No |
 | `radres.xyz` | No |
 | `radsportsalat.de` | No |
@@ -35050,6 +35061,7 @@ Here's a list of public Fediverse services.
 | `vaporpolis.net` | No |
 | `vapronva.pw` | No |
 | `var.one` | Yes |
+| `vara.lol` | Yes |
 | `varia.zone` | No |
 | `variety.com` | Yes |
 | `varis.social` | Yes |
@@ -36584,6 +36596,7 @@ Here's a list of public Fediverse services.
 | `wychwit.ch` | Yes |
 | `wyld.me` | No |
 | `wyld.media` | No |
+| `wyngraphs.com` | No |
 | `wynning.tech` | Yes |
 | `wyomingfriendfinder.com` | No |
 | `wyrd.social` | No |
@@ -37573,6 +37586,7 @@ Here's a list of public Fediverse services.
 | `zik.ooo` | Yes |
 | `zilla.tech` | No |
 | `zimbo.uk` | No |
+| `zimiao.moe` | Yes |
 | `zimmer428.net` | No |
 | `zine.party` | No |
 | `zinzolin.fr` | No |
@@ -37757,8 +37771,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,953 |
-| Normal | 28,761 |
+| Cloudflare | 8,958 |
+| Normal | 28,770 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
