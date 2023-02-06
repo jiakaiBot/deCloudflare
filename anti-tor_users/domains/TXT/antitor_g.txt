@@ -2377,16 +2377,20 @@ clients4.google.com
 clientzone.gasmanager.co.za
 consent.google.bj
 cpanel.graphicsprintshop.xyz
+cryptauthvault.googleapis.com
 cust-001-v4-prod-atl2.gdsb.net
 debajyotidas05.github.io
 deepmaladixit.github.io
 doc-04-88-docs.googleusercontent.com
+doc-08-90-docs.googleusercontent.com
 doc-0g-7o-docs.googleusercontent.com
 en.gpservice.is
 espace-immobilier-service.gnimmo.com
 football.getyourticket.io
 g0.in.net
 gamegavel.com
+gdasaasnt.com
+gender-journey.org
 gentledentalcaresa.com
 geoengineering.global
 gesundheitsverbund.at
@@ -2397,6 +2401,7 @@ glenirisvethospital.com.au
 gloaphoo.net
 globalweddingvibes.com
 gmu-apps.com
+gnfb8tv.cn
 gojireekitchen.in
 goldblox.finance
 goodvibration.hu
@@ -2437,6 +2442,7 @@ gruene-harsefeld.de
 grumpyoldbens.com
 grupo-ats.com
 grupocallcenter.com
+grupomolinaleon.com
 grupononbasta.pt
 gruposdediscord.com
 grupovyv.com.pe
@@ -2452,7 +2458,6 @@ gurkhamuseum.org.np
 gustacredit.ba
 guyacave.fr
 gymservice.gnss-lp.co.il
-hassani443.grinderumse.store
 hattatsu.work.googlemeo.work
 hausen.goip.de
 healthnews.graymoney.co.kr
@@ -2460,6 +2465,7 @@ help.glitch.com
 helpdesk-worldwide.gethappier.org
 honeysuckle-terrific-thief.glitch.me
 hospitable-wise-sweater.glitch.me
+ht.gardenspotinsurance.com
 humorous-woolen-abacus.glitch.me
 i6.govx.net
 ibaterna04.github.io
@@ -2468,6 +2474,7 @@ img.girlsheaven-job.net
 img.guestfolio.net
 ingrid.test.ffm.gdi-de.org
 instruction.gls-info.nl
+invoice.google-shopping.club
 iron-cottony-mouse.glitch.me
 is.gpservice.is
 jahid140191.github.io
@@ -2491,6 +2498,8 @@ link.gondola.be
 live.apis.gruposuperdigital.com
 locals-integration-api-gateway.artisandev.getirapi.com
 localtunnel.github.io
+loewenherz.gmailn.de
+login.corp.google.com
 login.gasag.de
 login.microsoftonline.com.rproxy.goskope.com
 login209.public.gkvi.de
@@ -2560,6 +2569,7 @@ pilentboy.github.io
 play-lh.googleusercontent.com
 play.app.goo.gl
 portal.manage.microsoft.com.rproxy.goskope.com
+postalas.gorija.com
 powerplatform.microsoft.com.rproxy.goskope.com
 preprod-qnb.godigit.com
 prism-massive-game.glitch.me
@@ -2608,6 +2618,7 @@ sber.blablacar.sberbank.avito.www.covid19.gardnerinsinc.com
 sber.blablacar.sberbank.avito.www.www.covid19.gardnerinsinc.com
 sber.sber.avito.avito.sberbank.sber.covid19.gardnerinsinc.com
 sber.sber.avito.sberbank.sberbank.sber.covid19.gardnerinsinc.com
+sber.sber.avito.www.avito.avito.avito.covid19.gardnerinsinc.com
 sber.sber.sber.sber.sberbank.avito.covid19.gardnerinsinc.com
 sber.sber.sber.sber.sberbank.sber.covid19.gardnerinsinc.com
 sber.sber.sber.sberbank.avito.www.sber.covid19.gardnerinsinc.com
@@ -2797,11 +2808,13 @@ www.gfs-opt-out-002.com
 www.giacarbitrationdays.ge
 www.giftnow.com
 www.gigabiz.io
+www.gigaintrax.co.id
 www.gimnasticdetarragona.cat
 www.gioia.gmbh
 www.girlgogetyourmoney.com
 www.gitlab.blog.shop.support.givetogo.org
 www.gj-bill.com
+www.glaciermotoryachts.com
 www.glicotw.com
 www.globalcashloanservice.co.za
 www.globaleggbank.com
@@ -2836,6 +2849,7 @@ www.grabandgo.pt
 www.grahamsmithillustration.com
 www.greateridaho.org
 www.greenbelt.org
+www.greencleanservice.dk
 www.greghermanmusic.com
 www.groupetranswest.com
 www.growingfuturestreeservice.com
