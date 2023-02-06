@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,611 |
-| social | 3,588 |
-| net | 2,854 |
+| com | 5,613 |
+| social | 3,589 |
+| net | 2,855 |
 | org | 2,034 |
-| de | 1,916 |
+| de | 1,917 |
 
 
 - Mastodon, Pleroma, etc
@@ -2932,7 +2932,7 @@ Here's a list of public Fediverse services.
 | `baluna.org` | No |
 | `bam.io` | Yes |
 | `bam.yt` | Yes |
-| `bamader.co.in` | No |
+| `bamader.co.in` | Yes |
 | `bambuch.cz` | No |
 | `bambus.social` | No |
 | `bambuswald.social` | No |
@@ -16051,6 +16051,7 @@ Here's a list of public Fediverse services.
 | `joshaustin.xyz` | Yes |
 | `joshbayne.com` | Yes |
 | `joshbrez.com` | No |
+| `joshbutts.social` | Yes |
 | `joshdata.me` | No |
 | `joshglenn.org` | No |
 | `joshhansen.tech` | No |
@@ -17684,6 +17685,7 @@ Here's a list of public Fediverse services.
 | `lanciano.it` | Yes |
 | `lancianoblog.it` | Yes |
 | `landbox.info` | No |
+| `landlordsguild.com` | Yes |
 | `landofkittens.community` | Yes |
 | `landofkittens.social` | Yes |
 | `landreville.blog` | No |
@@ -21735,6 +21737,7 @@ Here's a list of public Fediverse services.
 | `mouf.net` | No |
 | `moul.re` | No |
 | `mountain.exchange` | No |
+| `mountainash.id.au` | Yes |
 | `mountainbock.social` | No |
 | `mountaincommunity.co` | No |
 | `mountains.social` | No |
@@ -24185,6 +24188,7 @@ Here's a list of public Fediverse services.
 | `ohhi.icu` | No |
 | `ohi.icu` | No |
 | `ohineri.me` | No |
+| `ohmreserve.com` | No |
 | `ohmygod.social` | No |
 | `ohmylanta.today` | No |
 | `ohmyposh.dev` | Yes |
@@ -26603,6 +26607,7 @@ Here's a list of public Fediverse services.
 | `project-alt.tech` | No |
 | `project-cts.com` | No |
 | `project-imas.cn` | No |
+| `project-nex.net` | No |
 | `project-taco.org` | Yes |
 | `project.social` | No |
 | `project2.at` | No |
@@ -30446,6 +30451,7 @@ Here's a list of public Fediverse services.
 | `snooter.space` | No |
 | `snooze.zone` | Yes |
 | `snopyta.org` | No |
+| `snordian.de` | No |
 | `snoreway.com` | No |
 | `snorklr.com` | No |
 | `snouts.online` | Yes |
@@ -37862,8 +37868,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,988 |
-| Normal | 28,831 |
+| Cloudflare | 8,992 |
+| Normal | 28,833 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
