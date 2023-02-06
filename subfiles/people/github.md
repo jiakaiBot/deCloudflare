@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Create new .do worker template at template.do](https://github.com/drivly/roadmap.do/issues/21)
 - [help wanted 求助:](https://github.com/fscarmen/warp/issues/269)
 - [Repository subdomains intermittently fail to resolve over IPv4, causing aptitude to fail during update without IPv6 enabled.](https://github.com/canonical/ubuntu-desktop-installer/issues/1368)
 - [Ghost crashes when uploading images](https://github.com/TryGhost/Ghost/issues/16230)
