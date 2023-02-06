@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,607 |
+| com | 5,604 |
 | social | 3,586 |
-| net | 2,852 |
+| net | 2,851 |
 | org | 2,033 |
 | de | 1,915 |
 
@@ -22697,7 +22697,6 @@ Here's a list of public Fediverse services.
 | `near.social` | Yes |
 | `nearly.social` | No |
 | `neat.computer` | Yes |
-| `neat.pub` | Yes |
 | `neatidea.net` | No |
 | `neb.host` | No |
 | `nebbia.fail` | No |
@@ -29843,7 +29842,6 @@ Here's a list of public Fediverse services.
 | `shufudon.com` | No |
 | `shugetsu.space` | Yes |
 | `shuklafam.club` | No |
-| `shumihub.net` | Yes |
 | `shun-shin.com` | Yes |
 | `shun1s.com` | No |
 | `shunderdo.me` | No |
@@ -35631,7 +35629,6 @@ Here's a list of public Fediverse services.
 | `vulpini.zone` | Yes |
 | `vulpo.one` | Yes |
 | `vulturion.com` | No |
-| `vutazeal.com` | Yes |
 | `vvitches.live` | No |
 | `vvn.space` | No |
 | `vvv-net.de` | No |
@@ -37090,7 +37087,6 @@ Here's a list of public Fediverse services.
 | `yamast.com` | No |
 | `yamastodon.com` | No |
 | `yamastodon.jp` | No |
-| `yamatodon.com` | No |
 | `yambal.net` | No |
 | `yambo.social` | No |
 | `yampp.de` | No |
@@ -37405,7 +37401,6 @@ Here's a list of public Fediverse services.
 | `yusuf.fyi` | No |
 | `yusufipek.me` | No |
 | `yusuke.pub` | Yes |
-| `yusukebe.com` | Yes |
 | `yutacar.info` | No |
 | `yutasan.co` | No |
 | `yuto-shin.net` | No |
@@ -37840,8 +37835,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,980 |
-| Normal | 28,817 |
+| Cloudflare | 8,976 |
+| Normal | 28,816 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
