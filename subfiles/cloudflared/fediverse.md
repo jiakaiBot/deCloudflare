@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,607 |
+| com | 5,608 |
 | social | 3,586 |
 | net | 2,852 |
 | org | 2,033 |
@@ -26178,6 +26178,7 @@ Here's a list of public Fediverse services.
 | `pokemongo-get.com` | No |
 | `pokemonsocial.love` | No |
 | `pokemonunite.tv` | No |
+| `pokete.com` | No |
 | `poketnetpeertube.online` | No |
 | `poketnetpeertube.site` | No |
 | `poketopia.city` | No |
@@ -37842,7 +37843,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 8,980 |
-| Normal | 28,818 |
+| Normal | 28,819 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
