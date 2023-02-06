@@ -10058,6 +10058,7 @@ Do not create new issue or we will close it as duplicate.
 | [t78338238@twitter](https://twitter.com/t78338238/status/1562835572728950784) | advertise |
 | [T83532576@twitter](https://twitter.com/T83532576/status/1398708012445962247) | advertise |
 | [ta89151567@twitter](https://twitter.com/ta89151567/status/1502756006052380678) | advertise |
+| [tabby_sl@twitter](https://twitter.com/tabby_sl/status/1622453316771782657) | advertise |
 | [TachaOfficial@twitter](https://twitter.com/TachaOfficial/status/1401122102476947458) | advertise |
 | [tacticalmoves@twitter](https://twitter.com/tacticalmoves/status/1618381075964891138) | advertise |
 | [TaDuy12@twitter](https://twitter.com/TaDuy12/status/1601377920790179840) | advertise |
