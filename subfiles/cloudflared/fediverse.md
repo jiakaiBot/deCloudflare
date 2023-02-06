@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,604 |
 | social | 3,586 |
-| net | 2,851 |
+| net | 2,852 |
 | org | 2,033 |
 | de | 1,915 |
 
@@ -29842,6 +29842,7 @@ Here's a list of public Fediverse services.
 | `shufudon.com` | No |
 | `shugetsu.space` | Yes |
 | `shuklafam.club` | No |
+| `shumihub.net` | Yes |
 | `shun-shin.com` | Yes |
 | `shun1s.com` | No |
 | `shunderdo.me` | No |
@@ -37835,7 +37836,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,976 |
+| Cloudflare | 8,977 |
 | Normal | 28,816 |
 
 
