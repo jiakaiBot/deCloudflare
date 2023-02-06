@@ -345,6 +345,7 @@ Or is this merely a case of simple modesty?
 | Carson Andorf | Employee |  |
 | Cassandra Morris | Employee |  |
 | Cassy Olson | Account Executive |  |
+| Cat Allen | Employee | |
 | Cate Danielson | Employee |  |
 | Catherine Dawson | Business Development |  |
 | Catherine Flagler | Recruiter |  |
