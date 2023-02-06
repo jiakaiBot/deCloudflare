@@ -3498,6 +3498,7 @@ Do not create new issue or we will close it as duplicate.
 | [HaiqalD49420589@twitter](https://twitter.com/HaiqalD49420589/status/1497850789918048257) | advertise |
 | [haiquandeptry@twitter](https://twitter.com/haiquandeptry/status/1521697593000046592) | advertise |
 | [HairKarinak@twitter](https://twitter.com/HairKarinak/status/1593940778790756352) | advertise |
+| [hairsalonandy@twitter](https://twitter.com/hairsalonandy/status/1622611444520079361) | advertise |
 | [haitensama@twitter](https://twitter.com/haitensama/status/1388050755433603075) | advertise |
 | [HajiDawood200@twitter](https://twitter.com/HajiDawood200/status/1597334326638653440) | advertise |
 | [HajiKha39541085@twitter](https://twitter.com/HajiKha39541085/status/1379155176917991429) | advertise |
@@ -10708,6 +10709,7 @@ Do not create new issue or we will close it as duplicate.
 | [TngTinHuy1@twitter](https://twitter.com/TngTinHuy1/status/1552935174970568704) | advertise |
 | [TngTrn26793091y@twitter](https://twitter.com/TngTrn26793091y/status/1596387049762066432) | advertise |
 | [TnNgha8@twitter](https://twitter.com/TnNgha8/status/1397500016055357440) | advertise |
+| [TnNguyn57740396@twitter](https://twitter.com/TnNguyn57740396/status/1622606187551395841) | advertise |
 | [TnNguyn90524471@twitter](https://twitter.com/TnNguyn90524471/status/1518930560218927104) | advertise |
 | [tntn22096759@twitter](https://twitter.com/tntn22096759/status/1398392845615067138) | advertise |
 | [Tntrn47460351@twitter](https://twitter.com/Tntrn47460351/status/1379142780765675520) | advertise |
