@@ -4315,6 +4315,7 @@ Do not create new issue or we will close it as duplicate.
 | [iLxlo_@twitter](https://twitter.com/iLxlo_/status/1517757375641440256) | advertise |
 | [ilybraden@twitter](https://twitter.com/ilybraden/status/1565920728582602752) | advertise |
 | [ilyEmilyuwu@twitter](https://twitter.com/ilyEmilyuwu/status/1567210899370393600) | advertise |
+| [Ilyr3sssaa@twitter](https://twitter.com/Ilyr3sssaa/status/1622656440627257344) | advertise |
 | [im4noone@twitter](https://twitter.com/im4noone/status/1532995716196765696) | advertise |
 | [imaginemystrobe@twitter](https://twitter.com/imaginemystrobe/status/1546150235176636419) | advertise |
 | [ImAmDumbBoiiiii@twitter](https://twitter.com/ImAmDumbBoiiiii/status/1567143093169958912) | advertise |
@@ -5519,6 +5520,7 @@ Do not create new issue or we will close it as duplicate.
 | [kumawat_is@twitter](https://twitter.com/kumawat_is/status/1407925039995920386) | advertise |
 | [KumDew0678@twitter](https://twitter.com/KumDew0678/status/1394875950643388417) | advertise |
 | [kumpalli@twitter](https://twitter.com/kumpalli/status/1381179571559620610) | advertise |
+| [KundahHazri@twitter](https://twitter.com/KundahHazri/status/1622682818555056128) | advertise |
 | [Kunn82617248@twitter](https://twitter.com/Kunn82617248/status/1399757357467406339) | advertise |
 | [KuppjL@twitter](https://twitter.com/KuppjL/status/1383683527871328263) | advertise |
 | [kuraKoy05814776@twitter](https://twitter.com/kuraKoy05814776/status/1398928410819317761) | advertise |
@@ -7799,6 +7801,7 @@ Do not create new issue or we will close it as duplicate.
 | [NOsheeennn@twitter](https://twitter.com/NOsheeennn/status/1394946949963415555) | advertise |
 | [noshereyno@twitter](https://twitter.com/noshereyno/status/1570718460736409600) | advertise |
 | [NotARealNn@twitter](https://twitter.com/NotARealNn/status/1604645943797768194) | advertise |
+| [notarismalang@twitter](https://twitter.com/notarismalang/status/1622653041123143680) | advertise |
 | [notausername18@twitter](https://twitter.com/notausername18/status/1441310591574970375) | advertise |
 | [Note42243223@twitter](https://twitter.com/Note42243223/status/1389304584317845504) | advertise |
 | [nothing53612785@twitter](https://twitter.com/nothing53612785/status/1613127329873633280) | advertise |
