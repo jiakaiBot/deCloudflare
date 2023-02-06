@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,604 |
 | social | 3,586 |
-| net | 2,850 |
+| net | 2,851 |
 | org | 2,033 |
 | de | 1,915 |
 
@@ -2735,6 +2735,7 @@ Here's a list of public Fediverse services.
 | `azumanga.gay` | No |
 | `azumarill.net` | No |
 | `azumi.fr` | No |
+| `azunyan.info` | No |
 | `azunyan.jp` | No |
 | `azunyan.uk` | No |
 | `azunyu.moe` | No |
@@ -11904,6 +11905,7 @@ Here's a list of public Fediverse services.
 | `garethrogers.net` | No |
 | `garexp.org` | No |
 | `gargantia.fr` | No |
+| `garmy.jp` | No |
 | `garranoileain.com` | No |
 | `garri.us` | No |
 | `garriguv.io` | No |
@@ -26933,6 +26935,7 @@ Here's a list of public Fediverse services.
 | `qpomelo.app` | No |
 | `qpomelo.cc` | No |
 | `qpomelo.network` | No |
+| `qqey.net` | Yes |
 | `qr.dev` | No |
 | `qrbt.ch` | No |
 | `qrewhub.com` | No |
@@ -37320,6 +37323,7 @@ Here's a list of public Fediverse services.
 | `yqmmm.site` | No |
 | `yrf.me` | Yes |
 | `yrr0r.net` | Yes |
+| `ys217.tokyo` | No |
 | `ysan.moe` | No |
 | `ysarris.xyz` | No |
 | `ysd.be` | No |
@@ -37829,8 +37833,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,974 |
-| Normal | 28,812 |
+| Cloudflare | 8,975 |
+| Normal | 28,815 |
 
 
 ### 23.7% of public Fediverse services are using Cloudflare.
