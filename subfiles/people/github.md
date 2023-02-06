@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Repository subdomains intermittently fail to resolve over IPv4, causing aptitude to fail during update without IPv6 enabled.](https://github.com/canonical/ubuntu-desktop-installer/issues/1368)
+- [Ghost crashes when uploading images](https://github.com/TryGhost/Ghost/issues/16230)
 - [Cloudflare worker w/ GraphQL Yoga is unable to start using useSofaWithSwaggerUI](https://github.com/dotansimha/graphql-yoga/issues/2387)
 - [Trying to change a channel category gives an error](https://github.com/Lucky3028/terraform-provider-discord/issues/67)
 - [environment variables still are not available on Cloudflare Pages](https://github.com/withastro/astro/issues/6130)
