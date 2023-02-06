@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,613 |
-| social | 3,589 |
-| net | 2,855 |
+| social | 3,590 |
+| net | 2,858 |
 | org | 2,034 |
 | de | 1,917 |
 
@@ -16455,6 +16455,7 @@ Here's a list of public Fediverse services.
 | `kapussinettes.ovh` | No |
 | `kaputt.cloud` | No |
 | `kaputtendorf.de` | No |
+| `kapuverse.net` | Yes |
 | `kar.ly` | Yes |
 | `karab.in` | Yes |
 | `karabro.net` | Yes |
@@ -23647,6 +23648,7 @@ Here's a list of public Fediverse services.
 | `nosocial.org` | No |
 | `nospy.net` | No |
 | `nostalghia.xyz` | Yes |
+| `nostalgia-tns.net` | No |
 | `nostream.stream` | No |
 | `not-a.top` | No |
 | `not-enough.space` | No |
@@ -28924,6 +28926,7 @@ Here's a list of public Fediverse services.
 | `saten.info` | No |
 | `sathyasai.guru` | No |
 | `sathyasays.com` | Yes |
+| `satisfactory.social` | No |
 | `satki.net` | Yes |
 | `satocc.biz` | No |
 | `satori.cafe` | No |
@@ -33549,6 +33552,7 @@ Here's a list of public Fediverse services.
 | `tollyx.net` | Yes |
 | `tolstoevsky.ml` | No |
 | `tom-eric.info` | No |
+| `toma.ink` | Yes |
 | `tomais.nz` | Yes |
 | `tomasek.mobi` | Yes |
 | `tomasfarias.dev` | Yes |
@@ -37382,6 +37386,7 @@ Here's a list of public Fediverse services.
 | `yufarch.com` | No |
 | `yufushiro.dev` | Yes |
 | `yugioh.social` | No |
+| `yuicho.net` | Yes |
 | `yujinakao.com` | No |
 | `yujitamura.blog` | No |
 | `yujo.me` | No |
@@ -37868,8 +37873,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,992 |
-| Normal | 28,833 |
+| Cloudflare | 8,995 |
+| Normal | 28,835 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
