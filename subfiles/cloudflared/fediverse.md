@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,610 |
+| com | 5,611 |
 | social | 3,588 |
 | net | 2,854 |
 | org | 2,034 |
@@ -9518,6 +9518,7 @@ Here's a list of public Fediverse services.
 | `epenguin.com` | Yes |
 | `epgn.ch` | No |
 | `ephaone.org` | No |
+| `ephemeral-sns.com` | No |
 | `epic.haus` | No |
 | `epic.net` | No |
 | `epicalert.xyz` | No |
@@ -17411,6 +17412,7 @@ Here's a list of public Fediverse services.
 | `kuma.social` | No |
 | `kumadrive.com` | No |
 | `kumano-ryo.tech` | No |
+| `kumarin.co` | No |
 | `kumi.life` | No |
 | `kumi.tube` | No |
 | `kumi.zone` | No |
@@ -23292,6 +23294,7 @@ Here's a list of public Fediverse services.
 | `nintendult.xyz` | No |
 | `ninthgate.us` | No |
 | `nioncapul.net` | No |
+| `nioruzu.club` | Yes |
 | `nip.io` | Yes |
 | `nipahchan.co` | No |
 | `nipponalba.scot` | No |
@@ -37859,8 +37862,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,987 |
-| Normal | 28,829 |
+| Cloudflare | 8,988 |
+| Normal | 28,831 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
