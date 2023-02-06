@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Got an error and success response at the same time](https://github.com/zyrouge/node-genius-lyrics/issues/42)
 - [301 Moved Permanently Error](https://github.com/stephenou/fruitionsite/issues/225)
 - [sqlmap cloudflare (REAL IP)](https://github.com/sqlmapproject/sqlmap/issues/5307)
 - [Create new .do worker template at template.do](https://github.com/drivly/roadmap.do/issues/21)
