@@ -43,6 +43,7 @@ Do not create new issue or we will close it as duplicate.
 | [0xSonaMaka@twitter](https://twitter.com/0xSonaMaka/status/1491992920148578304) | advertise |
 | [0xym0r022@twitter](https://twitter.com/0xym0r022/status/1379045277588279301) | advertise |
 | [0x__0@twitter](https://twitter.com/0x__0/status/1582075153676005376) | advertise |
+| [0111_wwanz@twitter](https://twitter.com/0111_wwanz/status/1622585998235553792) | advertise |
 | [01227770316min2@twitter](https://twitter.com/01227770316min2/status/1385909202766508032) | advertise |
 | [021Brayoo@twitter](https://twitter.com/021Brayoo/status/1602594924091920386) | advertise |
 | [0339608959a@twitter](https://twitter.com/0339608959a/status/1606933443279204352) | advertise |
@@ -7924,6 +7925,7 @@ Do not create new issue or we will close it as duplicate.
 | [o0Yurpa0o@twitter](https://twitter.com/o0Yurpa0o/status/1381196081145335809) | advertise |
 | [Oai83223657@twitter](https://twitter.com/Oai83223657/status/1398312021532188684) | advertise |
 | [Oakar10272130@twitter](https://twitter.com/Oakar10272130/status/1391927452830683136) | advertise |
+| [Oakhuck@twitter](https://twitter.com/Oakhuck/status/1622556599754842112) | advertise |
 | [OakSoe_95@twitter](https://twitter.com/OakSoe_95/status/1390580036474793988) | advertise |
 | [obaydFox1@twitter](https://twitter.com/obaydFox1/status/1603825475079503872) | advertise |
 | [oBHp4@twitter](https://twitter.com/oBHp4/status/1490716075268665347) | advertise |
@@ -10974,6 +10976,7 @@ Do not create new issue or we will close it as duplicate.
 | [tuanteox69@twitter](https://twitter.com/tuanteox69/status/1400828810925199360) | advertise |
 | [tuan_anh101@twitter](https://twitter.com/tuan_anh101/status/1553282938296418304) | advertise |
 | [tuan_kobe@twitter](https://twitter.com/tuan_kobe/status/1566103981293592576) | advertise |
+| [Tuc224@twitter](https://twitter.com/Tuc224/status/1622593231719657472) | advertise |
 | [Tuikho2@twitter](https://twitter.com/Tuikho2/status/1405925091263741954) | advertise |
 | [tuilatuifa@twitter](https://twitter.com/tuilatuifa/status/1621732698950877186) | advertise |
 | [TulipLinn@twitter](https://twitter.com/TulipLinn/status/1380883824805081090) | advertise |
@@ -12081,6 +12084,7 @@ Do not create new issue or we will close it as duplicate.
 | [zikizac@twitter](https://twitter.com/zikizac/status/1551618644895055872) | advertise |
 | [zikow00@twitter](https://twitter.com/zikow00/status/1583002258630770690) | advertise |
 | [Zim00444831@twitter](https://twitter.com/Zim00444831/status/1580781886850203648) | advertise |
+| [zimarwin1@twitter](https://twitter.com/zimarwin1/status/1622596297286115330) | advertise |
 | [zimmerism@twitter](https://twitter.com/zimmerism/status/1583849936625741824) | advertise |
 | [zin2_myat@twitter](https://twitter.com/zin2_myat/status/1391688138884403202) | advertise |
 | [zinaung05642017@twitter](https://twitter.com/zinaung05642017/status/1399014483066908676) | advertise |
