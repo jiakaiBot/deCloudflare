@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,603 |
-| social | 3,585 |
-| net | 2,849 |
+| com | 5,604 |
+| social | 3,586 |
+| net | 2,850 |
 | org | 2,033 |
 | de | 1,915 |
 
@@ -690,6 +690,7 @@ Here's a list of public Fediverse services.
 | `abaweb.social` | No |
 | `abb.ink` | Yes |
 | `abbotsfurred.ca` | No |
+| `abbr.wtf` | Yes |
 | `abcang.net` | No |
 | `abcde.social` | No |
 | `abcric.net` | Yes |
@@ -805,6 +806,7 @@ Here's a list of public Fediverse services.
 | `aceinteract.social` | No |
 | `acerbo.me` | No |
 | `acewebservices.co.uk` | No |
+| `acfus.co` | No |
 | `acg.mn` | Yes |
 | `acg.social` | No |
 | `acgdoge.net` | No |
@@ -3742,7 +3744,7 @@ Here's a list of public Fediverse services.
 | `blackice.online` | No |
 | `blackjackandhookers.net` | No |
 | `blackjacknuttenundkoks.de` | No |
-| `blackmesa.space` | Yes |
+| `blackmesa.space` | No |
 | `blacknapkins.co.uk` | No |
 | `blackoutstout.space` | No |
 | `blackpacket.net` | Yes |
@@ -8892,7 +8894,7 @@ Here's a list of public Fediverse services.
 | `ebildungslabor.social` | No |
 | `ebildungslabor.video` | No |
 | `ebin.club` | No |
-| `ebin.website` | Yes |
+| `ebin.website` | No |
 | `ebin.zone` | No |
 | `ebinwebsite.xyz` | No |
 | `ebiryu.tech` | No |
@@ -10778,6 +10780,7 @@ Here's a list of public Fediverse services.
 | `flauschgeschaedigt.de` | No |
 | `flauschhausen.de` | No |
 | `flauschig.social` | No |
+| `flauschsystem.space` | No |
 | `flavigula.net` | No |
 | `flawbee.net` | Yes |
 | `flaximus.net` | No |
@@ -13634,6 +13637,7 @@ Here's a list of public Fediverse services.
 | `henzi.org` | No |
 | `heonian.org` | No |
 | `heorb.it` | No |
+| `heotul.ovh` | No |
 | `hep.social` | No |
 | `hepburn.social` | No |
 | `hepper.net` | No |
@@ -14822,6 +14826,7 @@ Here's a list of public Fediverse services.
 | `indoario.xyz` | No |
 | `indologylive.org` | No |
 | `indoors.club` | No |
+| `indoors.trade` | No |
 | `indoorsman.ee` | No |
 | `indoverse.nl` | Yes |
 | `indulgent.art` | No |
@@ -18324,6 +18329,7 @@ Here's a list of public Fediverse services.
 | `lin.codes` | Yes |
 | `linarite.net` | Yes |
 | `linaro.tech` | No |
+| `linarphy.net` | No |
 | `linc.systems` | No |
 | `lincolncyber.com` | No |
 | `lincolnite.net` | No |
@@ -20410,6 +20416,7 @@ Here's a list of public Fediverse services.
 | `mctetsudou.net` | No |
 | `mcth.fr` | No |
 | `mcuch.com` | No |
+| `mcul.blog` | No |
 | `mcwhirter.io` | No |
 | `mcyt.cc` | Yes |
 | `mczachurski.dev` | No |
@@ -23346,6 +23353,7 @@ Here's a list of public Fediverse services.
 | `nkb.moe` | No |
 | `nkmi.cc` | No |
 | `nksm.in.net` | No |
+| `nku.ovh` | No |
 | `nkwebservices.de` | No |
 | `nlhiphop.nl` | No |
 | `nlogic.systems` | No |
@@ -24392,6 +24400,7 @@ Here's a list of public Fediverse services.
 | `ontological.city` | No |
 | `onuu.uno` | Yes |
 | `onweb.idv.tw` | No |
+| `onya.social` | Yes |
 | `onzenet.com` | No |
 | `oo.tc` | Yes |
 | `ooblick.com` | No |
@@ -24877,7 +24886,7 @@ Here's a list of public Fediverse services.
 | `owo.monster` | No |
 | `owo.sg` | Yes |
 | `owo.town` | No |
-| `owotel.com` | No |
+| `owotel.com` | Yes |
 | `oxasploits.com` | Yes |
 | `oxel.me` | No |
 | `oxente.club` | No |
@@ -31672,7 +31681,7 @@ Here's a list of public Fediverse services.
 | `sunmicro.rip` | No |
 | `sunmker.cn` | No |
 | `sunn.net` | No |
-| `sunne.space` | Yes |
+| `sunne.space` | No |
 | `sunny.garden` | No |
 | `sunnypup.io` | No |
 | `sunpowered.house` | Yes |
@@ -31865,6 +31874,7 @@ Here's a list of public Fediverse services.
 | `swrgroups.com` | Yes |
 | `swrlab.org` | No |
 | `swrs.net` | No |
+| `swtlo.com` | No |
 | `swungda.sh` | No |
 | `swurl.xyz` | No |
 | `sxgr.fun` | No |
@@ -33711,7 +33721,7 @@ Here's a list of public Fediverse services.
 | `tooting.social` | No |
 | `tootist.net` | No |
 | `tootl.org` | No |
-| `tootles.space` | Yes |
+| `tootles.space` | No |
 | `tootmate.com` | No |
 | `tootme.de` | No |
 | `tootme.ru` | No |
@@ -35894,6 +35904,7 @@ Here's a list of public Fediverse services.
 | `webhop.me` | No |
 | `webhop.net` | No |
 | `webionite.com` | No |
+| `webish.dev` | No |
 | `webjunkie.nl` | No |
 | `weblib.re` | No |
 | `weblibre.org` | No |
@@ -37818,8 +37829,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 8,975 |
-| Normal | 28,800 |
+| Cloudflare | 8,974 |
+| Normal | 28,812 |
 
 
-### 23.8% of public Fediverse services are using Cloudflare.
+### 23.7% of public Fediverse services are using Cloudflare.
