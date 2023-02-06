@@ -69,7 +69,6 @@ cnn.videomemetemplate.com
 coastaldiecut.v3client.com
 contohcaleg.voxpol.id
 coronamapbr.vercel.app
-corporate.vanguard.com
 cpanel.vaccine-proof.xyz
 cpanel.viewty7.site
 cpanel.voxunum.hr
@@ -154,8 +153,6 @@ idp.comid.ace-1d0df0aa.core.build.vwn.cloud
 imadozaim-gmailcom.vercel.app
 image.northeast.vitalant.org
 inc-paypal-update.vivahomes.my
-institutional.vanguard.com
-investor.vanguard.com
 ipostal.vnpost.vn
 itrust-api.vetiva.com
 ivan-discord.vercel.app
@@ -830,7 +827,6 @@ livecomments.viafoura.co
 login.vakil4tax.com
 login.vanwagenen.com
 login.volvoconnect.com
-logon.institutional.vanguard.com
 logout.vakifbank.at
 mail.vietnamroblox.com
 mail.viroblock.uk
@@ -880,12 +876,8 @@ onenet-ws-sit.vodafone.pt
 onetrust-hl.vercel.app
 ossmobile.vodafone.pt
 ota.swmsn.prd.eu.bp.aws.cloud.vwgroup.com
-ownyourfuture.vanguard.com
 pagos.vmgbusinesscenter.com
 payments.vantivpostlive.com
-pelander.vanguard.com
-personal.vanguard.com
-personal1.vanguard.com
 platform.dev.bip.va.gov
 plugins.vstintegration.com
 portaal.versluysgroep.nl
@@ -1281,13 +1273,17 @@ content.vodafone.gr
 corona-antigenschnelltest-covid19.is.versuchsballon.online
 cpanel.vietsupport.vn
 dashboard.vivira.com
+dev.vita-gate.com
+f.vimeocdn.com
 graylog.validcertificadora.com.br
 highintoxicdiscordbot.vercel.app
 ipa.vdslab.ca
+iservice3.vanillamedia.hr
 loginparceiros.vodafone.pt
 mbboauth-1c.prd.ece.vwg-connect.com
 mod3digestmbbrun-3a.prd.eu.dp.vwg-connect.com
 navi-developer.vercel.app
+nginx.vitreo.cloud
 nolijlink.villanova.edu
 perf-gte.virtusa.com
 sber.sberbank.git.git.git.git.covid19.vesta-donors.com
@@ -1299,7 +1295,9 @@ sberbank.sberbank.git.git.git.git.covid19.vesta-donors.com
 sberbank.www.git.git.covid19.vesta-donors.com
 service-account-key-vault.gcp.veolia.tech
 shipping-manager.doelgroep.dgs.dev.platforms.symeta.vvc.dev
+support.vechtstromen.nl
 tazenda.viewtrade.com
+topup.vtunaija.com.ng
 twitchbuffer.vaudience.net
 vapecartsdelivery.com
 vastucreations.com
@@ -1308,6 +1306,7 @@ verhoilupalvelu.fi
 verify-appleld.com
 vertography.com
 victoria-creditrepair.com
+victorycs.org
 vietvip.bet
 vignettes365.com
 vilanova.ro
@@ -1338,6 +1337,7 @@ vnorthwest.com
 vnprintusa.com
 vnvh.ch
 vodafone.com.gh
+vodun.co.uk
 voicesupport.ro
 voladm.gov.ua
 volcanicas.com
@@ -1370,6 +1370,7 @@ www.cekliveness.com.verifywajah.com
 www.clientes.virtualhostnet.com.co
 www.feb-security.vapetaninyo.info
 www.indiareporters.vedicarestore.com
+www.iservice3.vanillamedia.hr
 www.lootlemoney.velaexpress.com
 www.postmaster.vkrf.ru
 www.prueba.visionservice.com.pe
@@ -1387,8 +1388,10 @@ www.vasten.co.uk
 www.vaxserve.com
 www.vcolemanmusic.com
 www.vd-service.online
+www.vecchio-services.com
 www.verenigingnlt.nl
 www.verificaregaze.ro
+www.verify-dasher.com
 www.verifyid.id
 www.verifyphoto.id
 www.vernaculardiscourse.com
