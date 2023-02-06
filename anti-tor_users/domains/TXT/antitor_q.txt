@@ -245,6 +245,9 @@ accountmanager.queue-it.net
 api.os.qiku.com
 fs.qaeval.com
 goo.stage.qcsafety.xyz
+gsteam.queue-it.net
+keycloak.qwghlm.quantumflux.nl
+oauth2.qwghlm.quantumflux.nl
 qliktag.com
 qr.ae
 qualityhealingnewz.com
@@ -254,6 +257,7 @@ quibitechmining.com
 quick2service.in
 quickbookhelpdesk.com
 quickercredit.com.co
+quicknote.io
 quotesmasala.com
 rustdesk.quedenau.de
 www.cuentamecuentos.quieromasingresos.com
