@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [301 Moved Permanently Error](https://github.com/stephenou/fruitionsite/issues/225)
 - [sqlmap cloudflare (REAL IP)](https://github.com/sqlmapproject/sqlmap/issues/5307)
 - [Create new .do worker template at template.do](https://github.com/drivly/roadmap.do/issues/21)
 - [help wanted 求助:](https://github.com/fscarmen/warp/issues/269)
