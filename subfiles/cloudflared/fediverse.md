@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,615 |
+| com | 5,620 |
 | social | 3,596 |
-| net | 2,860 |
+| net | 2,862 |
 | org | 2,035 |
 | de | 1,917 |
 
@@ -4569,6 +4569,7 @@ Here's a list of public Fediverse services.
 | `buny.plus` | Yes |
 | `bunyip.space` | No |
 | `buoyantair.co` | No |
+| `burch-hill.com` | Yes |
 | `burch.es` | No |
 | `burchill.social` | No |
 | `bureau-wehrmann.eu` | Yes |
@@ -5606,6 +5607,7 @@ Here's a list of public Fediverse services.
 | `ciprit.com` | No |
 | `circl.lu` | No |
 | `circl.social` | No |
+| `circle.lt` | Yes |
 | `circlebasti.at` | No |
 | `circlelinego.com` | Yes |
 | `circletocqueville.no` | No |
@@ -7905,6 +7907,7 @@ Here's a list of public Fediverse services.
 | `dharmadhatu.nl` | No |
 | `dharmapunx.online` | No |
 | `dharmarakshak.com` | No |
+| `dhbenihana.jp` | No |
 | `dhbit.ca` | No |
 | `dhch.de` | No |
 | `dhd-netzwerk.de` | No |
@@ -11026,6 +11029,7 @@ Here's a list of public Fediverse services.
 | `fort-da.xyz` | No |
 | `fortat.fr` | No |
 | `fortean.social` | No |
+| `forth.ml` | No |
 | `forth.work` | No |
 | `forth.works` | No |
 | `fortnite.chat` | No |
@@ -23402,6 +23406,7 @@ Here's a list of public Fediverse services.
 | `nmoo.dev` | No |
 | `nmrc.org` | No |
 | `nmsl.website` | Yes |
+| `nmwhite.com` | No |
 | `nna774.net` | Yes |
 | `nnct-mstdn.site` | No |
 | `nneko.me` | No |
@@ -23631,6 +23636,7 @@ Here's a list of public Fediverse services.
 | `nordisk.cloud` | No |
 | `nordpol.social` | No |
 | `nordsee.social` | No |
+| `nore.me` | Yes |
 | `noreboot.org` | No |
 | `noresoft.com` | No |
 | `norge.social` | No |
@@ -23780,6 +23786,7 @@ Here's a list of public Fediverse services.
 | `noyer.app` | No |
 | `noyu.me` | No |
 | `noyuno.space` | No |
+| `nozbe.com` | No |
 | `nozomi.best` | Yes |
 | `nozzi.social` | No |
 | `npa-marseille.org` | No |
@@ -24039,6 +24046,7 @@ Here's a list of public Fediverse services.
 | `obbs.one` | No |
 | `obdev.at` | No |
 | `oberberg.nrw` | No |
+| `oberhauser.space` | Yes |
 | `obermui.de` | No |
 | `oberpfalz.social` | No |
 | `obese.cat` | Yes |
@@ -25184,6 +25192,7 @@ Here's a list of public Fediverse services.
 | `parlez-ici.ca` | No |
 | `parlonslinux.fr` | No |
 | `parocus.de` | No |
+| `parrot-ctfs.com` | Yes |
 | `parrygod.club` | No |
 | `pars.ee` | No |
 | `parsec.social` | No |
@@ -26747,7 +26756,7 @@ Here's a list of public Fediverse services.
 | `psynet.me` | No |
 | `psyopshop.com` | No |
 | `psyopvict.im` | Yes |
-| `psysocial.net` | No |
+| `psysocial.net` | Yes |
 | `psyver.space` | No |
 | `pta2002.com` | Yes |
 | `ptaah.fr` | No |
@@ -28039,7 +28048,7 @@ Here's a list of public Fediverse services.
 | `ricorda.social` | No |
 | `ricostrongxxx.com` | Yes |
 | `ridernet.org` | No |
-| `ridetrans.it` | No |
+| `ridetrans.it` | Yes |
 | `ridgebacks.social` | Yes |
 | `ridixy.com` | Yes |
 | `riedl.net` | No |
@@ -28179,6 +28188,7 @@ Here's a list of public Fediverse services.
 | `robert-porten.net` | No |
 | `robertdevore.com` | Yes |
 | `robertivanc.com` | Yes |
+| `robertobaca.com` | No |
 | `robertoszek.xyz` | No |
 | `robertparker.se` | No |
 | `robertsasuke.com` | Yes |
@@ -28299,6 +28309,7 @@ Here's a list of public Fediverse services.
 | `romeorose.xyz` | Yes |
 | `romeov.me` | No |
 | `romeros.link` | No |
+| `romerotools.net` | Yes |
 | `romlinch.ovh` | No |
 | `romne.co` | Yes |
 | `romneko.net` | Yes |
@@ -34185,6 +34196,7 @@ Here's a list of public Fediverse services.
 | `truongan.name.vn` | No |
 | `truska.xyz` | No |
 | `trustfundme.site` | No |
+| `trustory.fm` | Yes |
 | `truth-sandwich.com` | No |
 | `truthpirates.club` | No |
 | `truthsocial.co.in` | No |
@@ -37672,6 +37684,7 @@ Here's a list of public Fediverse services.
 | `zeroping.cc` | Yes |
 | `zeroping.us` | No |
 | `zeroplex.tw` | No |
+| `zerosync.net` | Yes |
 | `zerotier.com` | No |
 | `zerovolt.org` | No |
 | `zerowastefvg.it` | No |
@@ -37907,8 +37920,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,008 |
-| Normal | 28,856 |
+| Cloudflare | 9,018 |
+| Normal | 28,859 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
