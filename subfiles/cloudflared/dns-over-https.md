@@ -428,6 +428,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mjanson.de | Yes |
 | mobik.com | No |
 | modr.club | Yes |
+| moedns.dev | Yes |
 | mokocup.cf | Yes |
 | molinero.dev | Yes |
 | monzoon.net | No |
@@ -525,6 +526,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | restena.lu | No |
 | rethinkdns.com | Yes |
 | rezhajul.io | No |
+| rferee.dev | Yes |
 | richardapplegate.io | Yes |
 | rin.sh | Yes |
 | rjmva.com | No |
@@ -653,8 +655,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 279 |
+| Cloudflare | 281 |
 | Normal | 355 |
 
 
-### 44% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
