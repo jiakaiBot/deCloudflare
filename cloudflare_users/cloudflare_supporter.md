@@ -12224,6 +12224,7 @@ Do not create new issue or we will close it as duplicate.
 | [_CyberMaster@twitter](https://twitter.com/_CyberMaster/status/1555502381504368641) | advertise |
 | [_DepvaOTP_@twitter](https://twitter.com/_DepvaOTP_/status/1399004303788888067) | advertise |
 | [_ejlazaro@twitter](https://twitter.com/_ejlazaro/status/1600045438387691525) | advertise |
+| [_haibala_@twitter](https://twitter.com/_haibala_/status/1623057255519358976) | advertise |
 | [_htet1@twitter](https://twitter.com/_htet1/status/1390121428360433672) | advertise |
 | [_hxqg@twitter](https://twitter.com/_hxqg/status/1588518959250575362) | advertise |
 | [_ishtiaquddin@twitter](https://twitter.com/_ishtiaquddin/status/1576323927806205953) | advertise |
