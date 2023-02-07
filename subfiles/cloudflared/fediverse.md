@@ -16974,6 +16974,7 @@ Here's a list of public Fediverse services.
 | `kitsune.social` | No |
 | `kitsunemimi.club` | No |
 | `kitsunes.club` | Yes |
+| `kitsunes.gay` | Yes |
 | `kitsunes.world` | Yes |
 | `kitsunet.net` | No |
 | `kitteh.pw` | No |
@@ -37939,7 +37940,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,028 |
+| Cloudflare | 9,029 |
 | Normal | 28,868 |
 
 
