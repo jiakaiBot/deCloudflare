@@ -137,6 +137,7 @@ Do not create new issue or we will close it as duplicate.
 | [94Shein@twitter](https://twitter.com/94Shein/status/1386880285396979713) | advertise |
 | [96Phoiek@twitter](https://twitter.com/96Phoiek/status/1556293739697815552) | advertise |
 | [97Khaing@twitter](https://twitter.com/97Khaing/status/1391428007261212673) | advertise |
+| [99ake@twitter](https://twitter.com/99ake/status/1622871895518355457) | advertise |
 | [99c780f786c0438@twitter](https://twitter.com/99c780f786c0438/status/1390430759148670976) | advertise |
 | [99ooreum@twitter](https://twitter.com/99ooreum/status/1516714582894866433) | advertise |
 | [120Immig@twitter](https://twitter.com/120Immig/status/1397486652344307712) | advertise |
@@ -5863,6 +5864,7 @@ Do not create new issue or we will close it as duplicate.
 | [lildrip34202595@twitter](https://twitter.com/lildrip34202595/status/1547291257529147393) | advertise |
 | [Lili64674222@twitter](https://twitter.com/Lili64674222/status/1595789914691584001) | advertise |
 | [Liliana87157653@twitter](https://twitter.com/Liliana87157653/status/1620286338661773316) | advertise |
+| [LilienthalKaleb@twitter](https://twitter.com/LilienthalKaleb/status/1622878151767650306) | advertise |
 | [Lillii412@twitter](https://twitter.com/Lillii412/status/1395707127176458243) | advertise |
 | [lilMonst4@twitter](https://twitter.com/lilMonst4/status/1577680492257755139) | advertise |
 | [LiLy19600218@twitter](https://twitter.com/LiLy19600218/status/1394904381653356544) | advertise |
@@ -9510,6 +9512,7 @@ Do not create new issue or we will close it as duplicate.
 | [Shashik19575790@twitter](https://twitter.com/Shashik19575790/status/1384458463896477698) | advertise |
 | [Shatan17600579@twitter](https://twitter.com/Shatan17600579/status/1403215707387482116) | advertise |
 | [shaunphillips98@twitter](https://twitter.com/shaunphillips98/status/1530928282278961152) | advertise |
+| [ShaunScholz@twitter](https://twitter.com/ShaunScholz/status/1622870309064916993) | advertise |
 | [ShaunVillafana@twitter](https://twitter.com/ShaunVillafana/status/1495117083700387840) | advertise |
 | [shawadin96@twitter](https://twitter.com/shawadin96/status/1393564895409434627) | advertise |
 | [shawnjvandiver@twitter](https://twitter.com/shawnjvandiver/status/1455368726748954625) | advertise |
