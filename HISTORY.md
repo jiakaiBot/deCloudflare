@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-02-07: [Sporadic HTTP 500 errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/yywg41b3dgr9)
 - 2023-02-20: [ICN (Seoul) on 2023-02-20](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jxmkmnbk02jd)
 - 2023-02-16: [ICN (Seoul) on 2023-02-16](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/c3lzy1g4np0c)
 - 2023-02-13: [ICN (Seoul) on 2023-02-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8t4f0v5vb9wf)
