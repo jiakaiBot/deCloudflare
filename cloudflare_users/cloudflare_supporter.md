@@ -4614,6 +4614,7 @@ Do not create new issue or we will close it as duplicate.
 | [JaySoh13@twitter](https://twitter.com/JaySoh13/status/1390786934335705092) | advertise |
 | [jaysonm76681877@twitter](https://twitter.com/jaysonm76681877/status/1376793641474260994) | advertise |
 | [jayywavvyyyy@twitter](https://twitter.com/jayywavvyyyy/status/1379843985175310341) | advertise |
+| [jayzelazny@twitter](https://twitter.com/jayzelazny/status/1623034341587619857) | advertise |
 | [jazzalmao@twitter](https://twitter.com/jazzalmao/status/1480849791936389120) | advertise |
 | [jbri87@twitter](https://twitter.com/jbri87/status/1596343197705216000) | advertise |
 | [JC7IaJ1c3VB4wU6@twitter](https://twitter.com/JC7IaJ1c3VB4wU6/status/1394992890561146885) | advertise |
