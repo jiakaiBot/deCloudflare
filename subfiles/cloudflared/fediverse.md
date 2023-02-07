@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,623 |
-| social | 3,596 |
+| social | 3,599 |
 | net | 2,863 |
 | org | 2,036 |
 | de | 1,917 |
@@ -14164,6 +14164,7 @@ Here's a list of public Fediverse services.
 | `hoshi.garden` | Yes |
 | `hoshisaki-h.com` | Yes |
 | `hosnet.fr` | No |
+| `hosszu.social` | No |
 | `hostc.at` | No |
 | `hostdon.jp` | No |
 | `hostdon.ne.jp` | Yes |
@@ -22357,6 +22358,7 @@ Here's a list of public Fediverse services.
 | `myidanonymous.me` | No |
 | `myifn.de` | No |
 | `mykal.social` | Yes |
+| `myke.social` | No |
 | `mylegendary.quest` | Yes |
 | `myles.life` | No |
 | `myles.social` | No |
@@ -27719,6 +27721,7 @@ Here's a list of public Fediverse services.
 | `redterrorcollective.net` | No |
 | `redvoice.news` | No |
 | `redwave.social` | No |
+| `redwings.social` | No |
 | `redwombat.social` | Yes |
 | `redxen.eu` | No |
 | `reece.sx` | Yes |
@@ -36577,6 +36580,7 @@ Here's a list of public Fediverse services.
 | `woofy.social` | No |
 | `woogmbh.cc` | Yes |
 | `woojinkim.org` | Yes |
+| `woolly.monster` | No |
 | `woolly.world` | No |
 | `woop.cf` | No |
 | `woox.cc` | Yes |
@@ -37941,7 +37945,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,029 |
-| Normal | 28,868 |
+| Normal | 28,872 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
