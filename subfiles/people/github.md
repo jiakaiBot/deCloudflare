@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Config Tries to Be Loaded Before Secrets Have Been Injected Into Pod](https://github.com/kubernetes/ingress-nginx/issues/9593)
 - [ddclient for cloudflare only works with curl=yes](https://github.com/ddclient/ddclient/issues/513)
 - [Unavailable provider "registry.terraform.io/hashicorp/null"](https://github.com/hashicorp/terraform/issues/32633)
 - [Got an error and success response at the same time](https://github.com/zyrouge/node-genius-lyrics/issues/42)
