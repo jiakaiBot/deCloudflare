@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,622 |
+| com | 5,623 |
 | social | 3,596 |
-| net | 2,862 |
-| org | 2,035 |
+| net | 2,863 |
+| org | 2,036 |
 | de | 1,917 |
 
 
@@ -2799,6 +2799,7 @@ Here's a list of public Fediverse services.
 | `baa.social` | No |
 | `baab.de` | No |
 | `baacke.net` | No |
+| `baarsch.net` | No |
 | `baazee.social` | No |
 | `babar1917.com` | No |
 | `babar24.com` | No |
@@ -5405,6 +5406,7 @@ Here's a list of public Fediverse services.
 | `chilemasto.casa` | No |
 | `chilira.com` | No |
 | `chillbot.space` | No |
+| `chillbros.online` | No |
 | `chilli.social` | No |
 | `chilliet.eu` | No |
 | `chillout.chat` | Yes |
@@ -12672,6 +12674,7 @@ Here's a list of public Fediverse services.
 | `goopcave.net` | Yes |
 | `goopply.me` | No |
 | `goos.social` | No |
+| `goose.directory` | No |
 | `goose.rodeo` | No |
 | `goover.de` | Yes |
 | `goover.social` | Yes |
@@ -16578,6 +16581,7 @@ Here's a list of public Fediverse services.
 | `kay.sh` | No |
 | `kay26.de` | No |
 | `kayloehmann.de` | No |
+| `kaylon.org` | No |
 | `kazantsev.fun` | No |
 | `kazar.ma` | No |
 | `kazatsuyu.com` | Yes |
@@ -21888,6 +21892,7 @@ Here's a list of public Fediverse services.
 | `msky.cafe` | Yes |
 | `msky.tokyo` | Yes |
 | `msky.work` | Yes |
+| `mslink.com` | No |
 | `msm.moe` | Yes |
 | `msmprojects.com` | No |
 | `msng.info` | Yes |
@@ -23758,6 +23763,7 @@ Here's a list of public Fediverse services.
 | `noupti.me` | No |
 | `noushi.chat` | Yes |
 | `noussommes.org` | No |
+| `nov.im` | No |
 | `nov.re` | No |
 | `nova.community` | Yes |
 | `novababilonia.me` | No |
@@ -28677,6 +28683,7 @@ Here's a list of public Fediverse services.
 | `saas.yachts` | Yes |
 | `saastisfy.com` | No |
 | `saasycloud.social` | No |
+| `saayaa.space` | No |
 | `sabadell.site` | No |
 | `sabakan.industries` | Yes |
 | `sabatino.cloud` | No |
@@ -29292,6 +29299,7 @@ Here's a list of public Fediverse services.
 | `scronkfinkle.net` | Yes |
 | `scrubjay.social` | Yes |
 | `scrumcar.me` | No |
+| `scrun.ch` | Yes |
 | `scruz.social` | Yes |
 | `scssoft.com` | No |
 | `scuba323.com` | Yes |
@@ -34985,6 +34993,7 @@ Here's a list of public Fediverse services.
 | `urban.social` | No |
 | `urbaninversion.com` | No |
 | `urbanists.social` | Yes |
+| `urbanists.video` | Yes |
 | `urbanmind.net` | Yes |
 | `urbanodin.org` | Yes |
 | `urbansolarpunk.social` | No |
@@ -37739,6 +37748,7 @@ Here's a list of public Fediverse services.
 | `zigzak.net` | No |
 | `zihigh.club` | No |
 | `zik.ooo` | Yes |
+| `zikin.us` | Yes |
 | `zilla.tech` | No |
 | `zimbo.uk` | No |
 | `zimiao.moe` | Yes |
@@ -37926,8 +37936,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,021 |
-| Normal | 28,862 |
+| Cloudflare | 9,024 |
+| Normal | 28,869 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
