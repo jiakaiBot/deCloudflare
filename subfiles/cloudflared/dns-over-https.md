@@ -536,6 +536,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rsaikat.com | No |
 | rubyfish.cn | No |
 | ryanleek.com | Yes |
+| safeservedns.com | No |
 | safesurfer.io | Yes |
 | sagutxustech.com | Yes |
 | salome.my.id | Yes |
@@ -656,7 +657,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 281 |
-| Normal | 355 |
+| Normal | 356 |
 
 
-### 44.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
