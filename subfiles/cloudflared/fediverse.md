@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,621 |
+| com | 5,622 |
 | social | 3,596 |
 | net | 2,862 |
 | org | 2,035 |
@@ -5699,6 +5699,7 @@ Here's a list of public Fediverse services.
 | `cleac.me` | No |
 | `cleantechnica.com` | No |
 | `clearairflying.com` | Yes |
+| `clearly.rocks` | Yes |
 | `clearpixels.org` | Yes |
 | `cleasky.blue` | No |
 | `cleave.nz` | Yes |
@@ -36579,6 +36580,7 @@ Here's a list of public Fediverse services.
 | `wordsmith.social` | No |
 | `wordsmith.world` | No |
 | `wordy.gdn` | Yes |
+| `worgames.com` | No |
 | `workaholic.cloud` | No |
 | `workbus.com` | No |
 | `workers.dev` | Yes |
@@ -37924,8 +37926,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,020 |
-| Normal | 28,861 |
+| Cloudflare | 9,021 |
+| Normal | 28,862 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
