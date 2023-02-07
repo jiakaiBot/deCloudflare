@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,615 |
+| com | 5,617 |
 | social | 3,596 |
 | net | 2,860 |
 | org | 2,035 |
@@ -76,6 +76,7 @@ Here's a list of public Fediverse services.
 | `0ne.day` | Yes |
 | `0oooo0.ooo` | No |
 | `0pp.us` | Yes |
+| `0px.io` | Yes |
 | `0q0.xyz` | No |
 | `0raptor.earth` | No |
 | `0sand1s.net` | Yes |
@@ -4976,7 +4977,7 @@ Here's a list of public Fediverse services.
 | `castodon.jp` | No |
 | `castopod.social` | No |
 | `castoranxieux.ca` | No |
-| `casually.cat` | No |
+| `casually.cat` | Yes |
 | `casuallyblue.xyz` | No |
 | `cat-from-outer.space` | No |
 | `cat.engineer` | Yes |
@@ -7904,6 +7905,7 @@ Here's a list of public Fediverse services.
 | `dharmadhatu.nl` | No |
 | `dharmapunx.online` | No |
 | `dharmarakshak.com` | No |
+| `dhbenihana.jp` | No |
 | `dhbit.ca` | No |
 | `dhch.de` | No |
 | `dhd-netzwerk.de` | No |
@@ -10236,7 +10238,7 @@ Here's a list of public Fediverse services.
 | `federa.social` | No |
 | `federado.es` | No |
 | `federarks.xyz` | No |
-| `federatable.com` | No |
+| `federatable.com` | Yes |
 | `federate.me.uk` | No |
 | `federate.social` | No |
 | `federated-networks.org` | No |
@@ -10831,6 +10833,7 @@ Here's a list of public Fediverse services.
 | `floatplane.rip` | No |
 | `flockingbird.social` | No |
 | `floe.earth` | No |
+| `flohgro.com` | No |
 | `flokinet.is` | No |
 | `flokinet.social` | No |
 | `flooded.club` | No |
@@ -11941,7 +11944,7 @@ Here's a list of public Fediverse services.
 | `gascoigne.social` | No |
 | `gasfed.xyz` | No |
 | `gaspartorriero.it` | No |
-| `gassner.io` | No |
+| `gassner.io` | Yes |
 | `gast.social` | No |
 | `gastacaoinfinita.online` | No |
 | `gasthe.lgbt` | No |
@@ -20608,6 +20611,7 @@ Here's a list of public Fediverse services.
 | `melonland.net` | No |
 | `melonmancy.net` | Yes |
 | `melonpan.run` | No |
+| `melonsoda.site` | No |
 | `melroy.org` | No |
 | `meltdown.world` | No |
 | `meltdownlabs.com` | No |
@@ -25183,6 +25187,7 @@ Here's a list of public Fediverse services.
 | `parlez-ici.ca` | No |
 | `parlonslinux.fr` | No |
 | `parocus.de` | No |
+| `parrot-ctfs.com` | Yes |
 | `parrygod.club` | No |
 | `pars.ee` | No |
 | `parsec.social` | No |
@@ -30362,6 +30367,7 @@ Here's a list of public Fediverse services.
 | `smc.li` | Yes |
 | `smc62.com` | No |
 | `smcm.xyz` | Yes |
+| `smdr.io` | Yes |
 | `sme.li` | No |
 | `smeap.com` | No |
 | `smeets.re` | Yes |
@@ -32684,6 +32690,7 @@ Here's a list of public Fediverse services.
 | `tetrarch.co` | Yes |
 | `tetrisfreak.org` | No |
 | `tetsugaku.place` | No |
+| `tetsujin.work` | No |
 | `tetsumaki.net` | No |
 | `teufel100.de` | No |
 | `teutsch.me` | No |
@@ -34787,7 +34794,7 @@ Here's a list of public Fediverse services.
 | `ungleich.ch` | No |
 | `ungovernavl.org` | No |
 | `ungoverned.social` | Yes |
-| `ungrind.io` | No |
+| `ungrind.io` | Yes |
 | `ungzeit.de` | No |
 | `unhandledexpression.com` | No |
 | `unhinged.social` | No |
@@ -37613,7 +37620,7 @@ Here's a list of public Fediverse services.
 | `zeeland.social` | No |
 | `zeero.dev` | No |
 | `zef.social` | No |
-| `zefirchik.xyz` | No |
+| `zefirchik.xyz` | Yes |
 | `zeguigui.com` | No |
 | `zehaeva.com` | No |
 | `zeitlinie.wien` | No |
@@ -37906,8 +37913,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,002 |
-| Normal | 28,861 |
+| Cloudflare | 9,010 |
+| Normal | 28,860 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
