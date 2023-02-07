@@ -551,6 +551,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ali20484288@twitter](https://twitter.com/Ali20484288/status/1578121167734538252) | advertise |
 | [Ali31543248@twitter](https://twitter.com/Ali31543248/status/1573662744905240577) | advertise |
 | [Ali74967035@twitter](https://twitter.com/Ali74967035/status/1398191756433264646) | advertise |
+| [aliabuhashim_@twitter](https://twitter.com/aliabuhashim_/status/1622885653821239298) | advertise |
 | [aliali57636674@twitter](https://twitter.com/aliali57636674/status/1552967267352072192) | advertise |
 | [aliasger32raj@twitter](https://twitter.com/aliasger32raj/status/1391608805218144260) | advertise |
 | [AliasQarrezai@twitter](https://twitter.com/AliasQarrezai/status/1576464746567434240) | advertise |
@@ -1265,6 +1266,7 @@ Do not create new issue or we will close it as duplicate.
 | [ba11z1@twitter](https://twitter.com/ba11z1/status/1585907997930188800) | advertise |
 | [baabajaylani1@twitter](https://twitter.com/baabajaylani1/status/1610099588643397636) | advertise |
 | [Baalolenvadi@twitter](https://twitter.com/Baalolenvadi/status/1555616002037383168) | advertise |
+| [baasandash2003@twitter](https://twitter.com/baasandash2003/status/1622891151698329600) | advertise |
 | [baaslaawe@twitter](https://twitter.com/baaslaawe/status/1612184489026879489) | advertise |
 | [babacoinbbc@twitter](https://twitter.com/babacoinbbc/status/1594053334901690370) | advertise |
 | [BabaDeviant@twitter](https://twitter.com/BabaDeviant/status/1390391826134282246) | advertise |
@@ -7210,6 +7212,7 @@ Do not create new issue or we will close it as duplicate.
 | [n49568234@twitter](https://twitter.com/n49568234/status/1556292421184811009) | advertise |
 | [NAABIL49027157@twitter](https://twitter.com/NAABIL49027157/status/1387326620009074692) | advertise |
 | [naamloser@twitter](https://twitter.com/naamloser/status/1503867812963569666) | advertise |
+| [naba7419@twitter](https://twitter.com/naba7419/status/1622887893436858368) | advertise |
 | [nabin_ss@twitter](https://twitter.com/nabin_ss/status/1562381057974214657) | advertise |
 | [nadeemshahzad07@twitter](https://twitter.com/nadeemshahzad07/status/1563845130565881856) | advertise |
 | [nadersa66179603@twitter](https://twitter.com/nadersa66179603/status/1593615842314526720) | advertise |
