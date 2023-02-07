@@ -2267,6 +2267,7 @@ Do not create new issue or we will close it as duplicate.
 | [dAniO500gucci50@twitter](https://twitter.com/dAniO500gucci50/status/1392152995455021061) | advertise |
 | [Danish111930617@twitter](https://twitter.com/Danish111930617/status/1560183361636683776) | advertise |
 | [danishfaizal20@twitter](https://twitter.com/danishfaizal20/status/1567192300438302720) | advertise |
+| [DankCheeseMemes@twitter](https://twitter.com/DankCheeseMemes/status/1622991806026727424) | advertise |
 | [DannySiregar4@twitter](https://twitter.com/DannySiregar4/status/1386713728511479810) | advertise |
 | [danny_mx@twitter](https://twitter.com/danny_mx/status/1404509805117648902) | advertise |
 | [DanOno365@twitter](https://twitter.com/DanOno365/status/1371618039108673545) | advertise |
@@ -4121,6 +4122,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hung789666@twitter](https://twitter.com/Hung789666/status/1552762342525771777) | advertise |
 | [Hung52831637@twitter](https://twitter.com/Hung52831637/status/1399774938542665731) | advertise |
 | [HungDin89400275@twitter](https://twitter.com/HungDin89400275/status/1402315841178259469) | advertise |
+| [hungdqdesign@twitter](https://twitter.com/hungdqdesign/status/1622993680096432130) | advertise |
 | [hungdz976@twitter](https://twitter.com/hungdz976/status/1613435429092749312) | advertise |
 | [Hunggg7d@twitter](https://twitter.com/Hunggg7d/status/1485984559435247618) | advertise |
 | [Hunghun13865970@twitter](https://twitter.com/Hunghun13865970/status/1486000138225131528) | advertise |
@@ -10409,8 +10411,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
@@ -10675,6 +10677,7 @@ Do not create new issue or we will close it as duplicate.
 | [tin18508176@twitter](https://twitter.com/tin18508176/status/1598712447468044289) | advertise |
 | [Tin33331141@twitter](https://twitter.com/Tin33331141/status/1402133284868354048) | advertise |
 | [Tin97391743@twitter](https://twitter.com/Tin97391743/status/1468848833052372995) | advertise |
+| [TinAnhT71290107@twitter](https://twitter.com/TinAnhT71290107/status/1622990933632634881) | advertise |
 | [tinapham0906@twitter](https://twitter.com/tinapham0906/status/1468973962134646787) | advertise |
 | [TINAUNGWIN469@twitter](https://twitter.com/TINAUNGWIN469/status/1390341815673360386) | advertise |
 | [tinh23@twitter](https://twitter.com/tinh23/status/1553419999888285696) | advertise |
