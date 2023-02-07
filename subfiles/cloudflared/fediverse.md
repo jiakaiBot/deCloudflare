@@ -3780,6 +3780,7 @@ Here's a list of public Fediverse services.
 | `blaha.me` | Yes |
 | `blahaj.eu` | No |
 | `blahaj.fun` | No |
+| `blahaj.gg` | Yes |
 | `blahaj.photo` | Yes |
 | `blahaj.social` | Yes |
 | `blahaj.solutions` | No |
@@ -13340,6 +13341,7 @@ Here's a list of public Fediverse services.
 | `happens.horse` | No |
 | `happyjesus.online` | No |
 | `happykraken.net` | Yes |
+| `happyorange.xyz` | Yes |
 | `happysocial.site` | No |
 | `happytobehe.re` | No |
 | `happytoo.cyou` | Yes |
@@ -22442,7 +22444,7 @@ Here's a list of public Fediverse services.
 | `mytoot.de` | No |
 | `mytoot.net` | No |
 | `mytransponder.com` | No |
-| `mytsu.com.br` | No |
+| `mytsu.com.br` | Yes |
 | `mytter.jp` | No |
 | `mytubetoday.tv` | No |
 | `myutsutaka.com` | No |
@@ -27671,6 +27673,7 @@ Here's a list of public Fediverse services.
 | `redbeardthe.ninja` | No |
 | `redcloud.org` | No |
 | `redcook.social` | No |
+| `redd.live` | Yes |
 | `redeagle.me` | No |
 | `redeemed.social` | No |
 | `redelephant.us` | No |
@@ -37936,8 +37939,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,024 |
-| Normal | 28,869 |
+| Cloudflare | 9,028 |
+| Normal | 28,868 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
