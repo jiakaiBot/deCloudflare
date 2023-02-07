@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,620 |
+| com | 5,621 |
 | social | 3,596 |
 | net | 2,862 |
 | org | 2,035 |
@@ -6043,7 +6043,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -10835,6 +10835,7 @@ Here's a list of public Fediverse services.
 | `floatplane.rip` | No |
 | `flockingbird.social` | No |
 | `floe.earth` | No |
+| `flohgro.com` | No |
 | `flokinet.is` | No |
 | `flokinet.social` | No |
 | `flooded.club` | No |
@@ -20613,6 +20614,7 @@ Here's a list of public Fediverse services.
 | `melonland.net` | No |
 | `melonmancy.net` | Yes |
 | `melonpan.run` | No |
+| `melonsoda.site` | No |
 | `melroy.org` | No |
 | `meltdown.world` | No |
 | `meltdownlabs.com` | No |
@@ -30374,6 +30376,7 @@ Here's a list of public Fediverse services.
 | `smc.li` | Yes |
 | `smc62.com` | No |
 | `smcm.xyz` | Yes |
+| `smdr.io` | Yes |
 | `sme.li` | No |
 | `smeap.com` | No |
 | `smeets.re` | Yes |
@@ -32696,6 +32699,7 @@ Here's a list of public Fediverse services.
 | `tetrarch.co` | Yes |
 | `tetrisfreak.org` | No |
 | `tetsugaku.place` | No |
+| `tetsujin.work` | No |
 | `tetsumaki.net` | No |
 | `teufel100.de` | No |
 | `teutsch.me` | No |
@@ -37920,8 +37924,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,018 |
-| Normal | 28,859 |
+| Cloudflare | 9,020 |
+| Normal | 28,861 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
