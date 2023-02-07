@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,622 |
+| com | 5,623 |
 | social | 3,596 |
 | net | 2,863 |
 | org | 2,036 |
@@ -10839,6 +10839,7 @@ Here's a list of public Fediverse services.
 | `floatplane.rip` | No |
 | `flockingbird.social` | No |
 | `floe.earth` | No |
+| `flohgro.com` | No |
 | `flokinet.is` | No |
 | `flokinet.social` | No |
 | `flooded.club` | No |
@@ -30387,6 +30388,7 @@ Here's a list of public Fediverse services.
 | `smc.li` | Yes |
 | `smc62.com` | No |
 | `smcm.xyz` | Yes |
+| `smdr.io` | Yes |
 | `sme.li` | No |
 | `smeap.com` | No |
 | `smeets.re` | Yes |
@@ -32709,6 +32711,7 @@ Here's a list of public Fediverse services.
 | `tetrarch.co` | Yes |
 | `tetrisfreak.org` | No |
 | `tetsugaku.place` | No |
+| `tetsujin.work` | No |
 | `tetsumaki.net` | No |
 | `teufel100.de` | No |
 | `teutsch.me` | No |
@@ -37936,8 +37939,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,027 |
-| Normal | 28,866 |
+| Cloudflare | 9,028 |
+| Normal | 28,868 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
