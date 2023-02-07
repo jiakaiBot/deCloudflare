@@ -23,6 +23,7 @@ Here's a list of public Matrix services.
 | --- | --- |
 | 0wnz.at | No |
 | matrix.4d2.org | No |
+| agdersam.no | No |
 | riot.allmende.io | No |
 | alternanet.fr | No |
 | matrix.archaeo.social | No |
@@ -32,6 +33,7 @@ Here's a list of public Matrix services.
 | matrix.badstuebner.biz | No |
 | synapse.bark.lgbt | Yes |
 | bolha.chat | Yes |
+| breeze.town | No |
 | matrix.bytes4u.de | No |
 | matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
@@ -132,7 +134,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 17 |
-| Normal | 87 |
+| Normal | 89 |
 
 
-### 16.3% of public Matrix services are using Cloudflare.
+### 16% of public Matrix services are using Cloudflare.
