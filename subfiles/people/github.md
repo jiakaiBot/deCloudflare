@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [geo lookup gets stack trace when 'location' info missing](https://github.com/cvmfs/cvmfs/issues/3186)
 - [Error: Failed to fetch a lazy token - blocked by Cloudflare?](https://github.com/realcoloride/node_characterai/issues/1)
 - [Error The script will never generate a response on Cloudflare Worker when using mesh](https://github.com/Urigo/graphql-mesh/issues/5112)
 - [support generative art creative coding libs (p5js etc)](https://github.com/casey/ord/issues/1545)
