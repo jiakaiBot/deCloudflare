@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,631 |
-| social | 3,613 |
+| social | 3,614 |
 | net | 2,869 |
 | org | 2,040 |
 | de | 1,919 |
@@ -5776,6 +5776,7 @@ Here's a list of public Fediverse services.
 | `cloudcauldron.io` | No |
 | `clouded.monster` | No |
 | `cloudfiction.social` | No |
+| `cloudflare.social` | Yes |
 | `cloudfrancois.fr` | No |
 | `cloudhesselhoj.dk` | No |
 | `cloudisland.nz` | No |
@@ -32991,7 +32992,7 @@ Here's a list of public Fediverse services.
 | `thefrakinship.xyz` | Yes |
 | `thefranks.club` | No |
 | `thefreaks.club` | No |
-| `thefreaks.online` | Yes |
+| `thefreaks.online` | No |
 | `thefreecollective.net` | No |
 | `thefreestate.xyz` | No |
 | `thefrugalgamer.net` | No |
@@ -38009,7 +38010,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,046 |
-| Normal | 28,919 |
+| Normal | 28,920 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
