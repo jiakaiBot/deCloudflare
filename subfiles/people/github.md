@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Need help - I can't get it to work](https://github.com/baudneo/nginx-proxy-manager/issues/8)
 - [geo lookup gets stack trace when 'location' info missing](https://github.com/cvmfs/cvmfs/issues/3186)
 - [Error: Failed to fetch a lazy token - blocked by Cloudflare?](https://github.com/realcoloride/node_characterai/issues/1)
 - [Error The script will never generate a response on Cloudflare Worker when using mesh](https://github.com/Urigo/graphql-mesh/issues/5112)
