@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,628 |
-| social | 3,607 |
-| net | 2,867 |
+| com | 5,631 |
+| social | 3,610 |
+| net | 2,868 |
 | org | 2,040 |
 | de | 1,919 |
 
@@ -4376,6 +4376,7 @@ Here's a list of public Fediverse services.
 | `bridgend.online` | Yes |
 | `bridgepattern.com` | No |
 | `bridport.pics` | No |
+| `bridport.social` | No |
 | `briefly.social` | No |
 | `brieseland.de` | No |
 | `brig.gs` | Yes |
@@ -5098,6 +5099,7 @@ Here's a list of public Fediverse services.
 | `cc.chat` | Yes |
 | `cc2.at` | No |
 | `cc38.cc` | Yes |
+| `ccc-ffm.space` | No |
 | `cccccmake.de` | No |
 | `cccp.io` | No |
 | `cccwi.social` | No |
@@ -5504,6 +5506,7 @@ Here's a list of public Fediverse services.
 | `chrisaudet.ca` | No |
 | `chrisbeckstrom.com` | No |
 | `chrisbol.nl` | No |
+| `chrisbues.com` | No |
 | `chrisburnell.com` | Yes |
 | `chrisco.me` | No |
 | `chrisduffley.com` | No |
@@ -6053,7 +6056,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8127,7 +8130,7 @@ Here's a list of public Fediverse services.
 | `discorporea.com` | No |
 | `discourse-research.net` | No |
 | `discourse.social` | Yes |
-| `discover.earth` | No |
+| `discover.earth` | Yes |
 | `discovermagazine.com` | No |
 | `discoveryone.sh` | No |
 | `discretos.fr` | No |
@@ -11086,6 +11089,7 @@ Here's a list of public Fediverse services.
 | `foule.net` | No |
 | `foundation.city` | No |
 | `foundationsedge.co.uk` | Yes |
+| `founding.space` | No |
 | `fountainpen.social` | No |
 | `fouquet.me` | No |
 | `four-nine.club` | No |
@@ -14735,6 +14739,7 @@ Here's a list of public Fediverse services.
 | `im20a0.com` | No |
 | `imaag.de` | No |
 | `imach.me` | Yes |
+| `imagazine.pl` | No |
 | `image-space.info` | No |
 | `imaginair.es` | No |
 | `imagotv.fr` | No |
@@ -15119,6 +15124,7 @@ Here's a list of public Fediverse services.
 | `introvert.social` | Yes |
 | `introverts.social` | No |
 | `intspec.ru` | Yes |
+| `intuitivefuture.com` | No |
 | `inu.is` | No |
 | `inubo.ch` | No |
 | `inuh.net` | No |
@@ -15537,6 +15543,7 @@ Here's a list of public Fediverse services.
 | `jakelazaroff.com` | Yes |
 | `jakepi.net` | No |
 | `jakereed.co.uk` | Yes |
+| `jakewalker.social` | No |
 | `jakewharton.com` | No |
 | `jako.social` | Yes |
 | `jakob-altmann.de` | No |
@@ -16270,6 +16277,7 @@ Here's a list of public Fediverse services.
 | `justinmarrington.com` | No |
 | `justinpickard.net` | No |
 | `justinsweb.com` | No |
+| `justinyost.com` | No |
 | `justjuut.de` | No |
 | `justnormal.men` | No |
 | `justodon.net` | No |
@@ -27886,6 +27894,7 @@ Here's a list of public Fediverse services.
 | `reppard.com` | No |
 | `represent.social` | No |
 | `repro.video` | No |
+| `reptile.love` | No |
 | `reptilehouse.info` | Yes |
 | `reptileowners.tk` | No |
 | `republic.red` | Yes |
@@ -28879,6 +28888,7 @@ Here's a list of public Fediverse services.
 | `samr1.net` | No |
 | `samsai.eu` | No |
 | `samsteiner.net` | No |
+| `samstodon.net` | No |
 | `samsunginter.net` | Yes |
 | `samtale.rocks` | No |
 | `samtherapy.net` | No |
@@ -28943,6 +28953,7 @@ Here's a list of public Fediverse services.
 | `sanssouci.club` | No |
 | `santic-zombie.ru` | No |
 | `santolin.eu` | No |
+| `santos.social` | Yes |
 | `santoshhari.dev` | No |
 | `santoyo.io` | Yes |
 | `santry.us` | No |
@@ -36077,6 +36088,7 @@ Here's a list of public Fediverse services.
 | `weburbanists.com` | Yes |
 | `weburn.ru` | No |
 | `webvsn.com` | Yes |
+| `webwizard.uk` | Yes |
 | `webworker.social` | No |
 | `webxb.com` | Yes |
 | `webzone69.com` | No |
@@ -37984,8 +37996,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,040 |
-| Normal | 28,901 |
+| Cloudflare | 9,044 |
+| Normal | 28,909 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
