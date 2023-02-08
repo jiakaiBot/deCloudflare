@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,626 |
-| social | 3,604 |
-| net | 2,866 |
+| com | 5,628 |
+| social | 3,606 |
+| net | 2,867 |
 | org | 2,038 |
 | de | 1,918 |
 
@@ -7682,7 +7682,7 @@ Here's a list of public Fediverse services.
 | `demokratischer-sommer.de` | No |
 | `demon.army` | No |
 | `demon.care` | No |
-| `demon.party` | Yes |
+| `demon.party` | No |
 | `demon.social` | No |
 | `demon.tech` | No |
 | `demoncore.info` | No |
@@ -10555,6 +10555,7 @@ Here's a list of public Fediverse services.
 | `feralmimesis.xyz` | Yes |
 | `feraltomatoes.com` | No |
 | `ferd.at` | No |
+| `ferelith.blue` | No |
 | `fergl.ie` | No |
 | `ferguson.today` | No |
 | `feria.me.uk` | Yes |
@@ -14684,6 +14685,7 @@ Here's a list of public Fediverse services.
 | `ikeji.ma` | No |
 | `ikelos.monster` | No |
 | `ikepe.xyz` | Yes |
+| `ikesu.social` | Yes |
 | `ikeweb.net` | Yes |
 | `iklem.fr` | No |
 | `iko.soy` | Yes |
@@ -16265,6 +16267,7 @@ Here's a list of public Fediverse services.
 | `justinbremer.com` | No |
 | `justinian.codes` | No |
 | `justinmarrington.com` | No |
+| `justinpickard.net` | No |
 | `justinsweb.com` | No |
 | `justjuut.de` | No |
 | `justnormal.men` | No |
@@ -18301,6 +18304,7 @@ Here's a list of public Fediverse services.
 | `libretube.org` | No |
 | `libretube.ru` | No |
 | `libretux.com` | No |
+| `libretweet.com` | No |
 | `libreyate.org` | No |
 | `librezone.org` | No |
 | `librino.net` | No |
@@ -21547,6 +21551,7 @@ Here's a list of public Fediverse services.
 | `momoiro9.ro` | No |
 | `momok.xyz` | Yes |
 | `momoyo.digital` | No |
+| `mon-desu.com` | No |
 | `mona.do` | Yes |
 | `monade.li` | No |
 | `monadnock.ca` | No |
@@ -23243,6 +23248,7 @@ Here's a list of public Fediverse services.
 | `nicolog.jp` | No |
 | `nicolosus.chat` | Yes |
 | `nicolosus.com` | No |
+| `nicomedkey.cc` | Yes |
 | `nicosan.guru` | Yes |
 | `nicra.fr` | No |
 | `nicuverse.org` | No |
@@ -29144,6 +29150,7 @@ Here's a list of public Fediverse services.
 | `schildt.social` | No |
 | `schillinois.com` | No |
 | `schinbo.de` | No |
+| `schipper.social` | No |
 | `schirmer.tech` | No |
 | `schizo.dev` | No |
 | `schizo.me` | Yes |
@@ -37970,8 +37977,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,039 |
-| Normal | 28,888 |
+| Cloudflare | 9,040 |
+| Normal | 28,894 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
