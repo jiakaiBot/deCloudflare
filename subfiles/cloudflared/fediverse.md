@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,631 |
-| social | 3,614 |
-| net | 2,869 |
-| org | 2,041 |
+| com | 5,630 |
+| social | 3,612 |
+| net | 2,868 |
+| org | 2,040 |
 | de | 1,919 |
 
 
@@ -8577,7 +8577,6 @@ Here's a list of public Fediverse services.
 | `drawk.cab` | No |
 | `drazisil.com` | Yes |
 | `drcassone.social` | No |
-| `drcit.social` | Yes |
 | `drdeimann.de` | No |
 | `drdr.club` | Yes |
 | `drdr.work` | Yes |
@@ -13166,7 +13165,6 @@ Here's a list of public Fediverse services.
 | `hackabee.fr` | No |
 | `hackaday.com` | No |
 | `hackaday.social` | No |
-| `hackade.org` | Yes |
 | `hackademiet.dk` | No |
 | `hackadoll.com` | No |
 | `hackadon.space` | Yes |
@@ -13396,7 +13394,6 @@ Here's a list of public Fediverse services.
 | `haroo.ca` | No |
 | `harpsica.net` | No |
 | `harpy.life` | No |
-| `harrier.io` | No |
 | `harrisville.net.nz` | No |
 | `harry.cat` | No |
 | `harrykantas.com` | Yes |
@@ -13570,7 +13567,7 @@ Here's a list of public Fediverse services.
 | `hed.im` | No |
 | `hedenstroem.com` | Yes |
 | `hedgehog.pub` | Yes |
-| `hedgehoghunter.club` | Yes |
+| `hedgehoghunter.club` | No |
 | `hedr.in` | No |
 | `hedron.io` | No |
 | `heer.xyz` | No |
@@ -14699,7 +14696,6 @@ Here's a list of public Fediverse services.
 | `ikeji.ma` | No |
 | `ikelos.monster` | No |
 | `ikepe.xyz` | Yes |
-| `ikesu.social` | Yes |
 | `ikeweb.net` | Yes |
 | `iklem.fr` | No |
 | `iko.soy` | Yes |
@@ -16286,7 +16282,6 @@ Here's a list of public Fediverse services.
 | `justinbremer.com` | No |
 | `justinian.codes` | No |
 | `justinmarrington.com` | No |
-| `justinpickard.net` | No |
 | `justinsweb.com` | No |
 | `justinyost.com` | No |
 | `justjuut.de` | No |
@@ -21572,7 +21567,6 @@ Here's a list of public Fediverse services.
 | `momoiro9.ro` | No |
 | `momok.xyz` | Yes |
 | `momoyo.digital` | No |
-| `mon-desu.com` | No |
 | `mona.do` | Yes |
 | `monade.li` | No |
 | `monadnock.ca` | No |
@@ -23269,7 +23263,6 @@ Here's a list of public Fediverse services.
 | `nicolog.jp` | No |
 | `nicolosus.chat` | Yes |
 | `nicolosus.com` | No |
-| `nicomedkey.cc` | Yes |
 | `nicosan.guru` | Yes |
 | `nicra.fr` | No |
 | `nicuverse.org` | No |
@@ -38011,8 +38004,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,049 |
-| Normal | 28,919 |
+| Cloudflare | 9,044 |
+| Normal | 28,917 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
