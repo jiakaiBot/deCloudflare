@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,630 |
-| social | 3,612 |
-| net | 2,868 |
+| com | 5,631 |
+| social | 3,613 |
+| net | 2,869 |
 | org | 2,040 |
 | de | 1,919 |
 
@@ -14696,6 +14696,7 @@ Here's a list of public Fediverse services.
 | `ikeji.ma` | No |
 | `ikelos.monster` | No |
 | `ikepe.xyz` | Yes |
+| `ikesu.social` | Yes |
 | `ikeweb.net` | Yes |
 | `iklem.fr` | No |
 | `iko.soy` | Yes |
@@ -16282,6 +16283,7 @@ Here's a list of public Fediverse services.
 | `justinbremer.com` | No |
 | `justinian.codes` | No |
 | `justinmarrington.com` | No |
+| `justinpickard.net` | No |
 | `justinsweb.com` | No |
 | `justinyost.com` | No |
 | `justjuut.de` | No |
@@ -21567,6 +21569,7 @@ Here's a list of public Fediverse services.
 | `momoiro9.ro` | No |
 | `momok.xyz` | Yes |
 | `momoyo.digital` | No |
+| `mon-desu.com` | No |
 | `mona.do` | Yes |
 | `monade.li` | No |
 | `monadnock.ca` | No |
@@ -23263,6 +23266,7 @@ Here's a list of public Fediverse services.
 | `nicolog.jp` | No |
 | `nicolosus.chat` | Yes |
 | `nicolosus.com` | No |
+| `nicomedkey.cc` | Yes |
 | `nicosan.guru` | Yes |
 | `nicra.fr` | No |
 | `nicuverse.org` | No |
@@ -38004,8 +38008,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,044 |
-| Normal | 28,917 |
+| Cloudflare | 9,046 |
+| Normal | 28,919 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
