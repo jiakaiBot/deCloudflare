@@ -36647,6 +36647,7 @@ Here's a list of public Fediverse services.
 | `wordsmith.social` | No |
 | `wordsmith.world` | No |
 | `wordy.gdn` | Yes |
+| `worf.win` | No |
 | `worgames.com` | No |
 | `workaholic.cloud` | No |
 | `workbus.com` | No |
@@ -37997,7 +37998,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,044 |
-| Normal | 28,909 |
+| Normal | 28,910 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
