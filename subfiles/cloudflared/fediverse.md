@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,628 |
-| social | 3,606 |
+| social | 3,607 |
 | net | 2,867 |
-| org | 2,039 |
-| de | 1,918 |
+| org | 2,040 |
+| de | 1,919 |
 
 
 - Mastodon, Pleroma, etc
@@ -1065,6 +1065,7 @@ Here's a list of public Fediverse services.
 | `agoraforum.website` | No |
 | `agoranet.info` | No |
 | `agorism.blog` | No |
+| `agouritin.fr` | No |
 | `agrico.la` | Yes |
 | `agroecologymap.org` | No |
 | `agsj.me` | No |
@@ -24315,6 +24316,7 @@ Here's a list of public Fediverse services.
 | `oktadev.dev` | No |
 | `okteto.net` | Yes |
 | `okumin.com` | No |
+| `olching.social` | No |
 | `olchis.net` | No |
 | `olcy.fr` | No |
 | `oldb.social` | No |
@@ -25987,7 +25989,7 @@ Here's a list of public Fediverse services.
 | `pixodes.com` | No |
 | `pixopat.social` | No |
 | `pixp.cc` | No |
-| `pixxaddict.social` | Yes |
+| `pixxaddict.social` | No |
 | `pizzadog.moe` | No |
 | `pizzaf.art` | No |
 | `pizzafactory.jp` | No |
@@ -34159,6 +34161,7 @@ Here's a list of public Fediverse services.
 | `tripelix.com` | No |
 | `triplea.fr` | No |
 | `triplebit.net` | Yes |
+| `triplecore.org` | No |
 | `tripleplusgood.us` | No |
 | `triplering.site` | Yes |
 | `trippelm.tv` | No |
@@ -35554,6 +35557,7 @@ Here's a list of public Fediverse services.
 | `viste.pt` | No |
 | `visualdev.fm` | Yes |
 | `visualsoul.uk` | No |
+| `vit-connect.de` | Yes |
 | `vital.org.nz` | No |
 | `vitaulium.nl` | No |
 | `vitonica.com` | No |
@@ -36688,6 +36692,7 @@ Here's a list of public Fediverse services.
 | `wpwatercooler.com` | Yes |
 | `wq64.net` | No |
 | `wr.ci` | Yes |
+| `wrannek.me` | No |
 | `wrasstodon.pro` | No |
 | `wreck.rocks` | No |
 | `wrestle.town` | No |
@@ -37980,7 +37985,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,040 |
-| Normal | 28,896 |
+| Normal | 28,901 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
