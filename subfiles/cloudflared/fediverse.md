@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,625 |
-| social | 3,602 |
+| com | 5,626 |
+| social | 3,604 |
 | net | 2,866 |
 | org | 2,038 |
-| de | 1,917 |
+| de | 1,918 |
 
 
 - Mastodon, Pleroma, etc
@@ -2215,6 +2215,7 @@ Here's a list of public Fediverse services.
 | `artchair.net` | No |
 | `arteeh.com` | No |
 | `artemai.art` | No |
+| `artemisia.systems` | Yes |
 | `artemlab.tk` | No |
 | `artermyss.com` | Yes |
 | `artfusion.social` | No |
@@ -5175,6 +5176,7 @@ Here's a list of public Fediverse services.
 | `cesium.pw` | Yes |
 | `ceskar.xyz` | No |
 | `ceske.site` | Yes |
+| `cesko.social` | Yes |
 | `cestoliv.com` | No |
 | `cetialphafive.com` | No |
 | `cetra.club` | No |
@@ -10229,6 +10231,7 @@ Here's a list of public Fediverse services.
 | `feather.city` | Yes |
 | `feather.onl` | No |
 | `feather.wiki` | No |
+| `feathered.space` | Yes |
 | `featherless.design` | No |
 | `feathers.link` | No |
 | `featyre.xyz` | Yes |
@@ -18662,6 +18665,7 @@ Here's a list of public Fediverse services.
 | `locked.social` | No |
 | `locksport.space` | No |
 | `loclx.io` | No |
+| `locrealloc.de` | No |
 | `loctobrerie.fr` | No |
 | `lode.social` | Yes |
 | `lodis.se` | No |
@@ -24172,6 +24176,7 @@ Here's a list of public Fediverse services.
 | `odorite.tokyo` | No |
 | `odosys.net` | No |
 | `ody.si` | No |
+| `odysseus.social` | No |
 | `odyssey346.dev` | No |
 | `oe74.net` | No |
 | `oe7drt.com` | Yes |
@@ -25133,6 +25138,7 @@ Here's a list of public Fediverse services.
 | `panic.com` | No |
 | `panic.social` | No |
 | `panicking.net` | No |
+| `panix.com` | No |
 | `pano.community` | No |
 | `panoply.cx` | No |
 | `panoptic.onl` | Yes |
@@ -26557,6 +26563,7 @@ Here's a list of public Fediverse services.
 | `presidentissimo.com` | No |
 | `preslav.me` | Yes |
 | `press.community` | No |
+| `pressed.press` | Yes |
 | `pressguild.online` | No |
 | `pressguild.org` | No |
 | `pressthebutton.pw` | No |
@@ -37963,8 +37970,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,035 |
-| Normal | 28,885 |
+| Cloudflare | 9,039 |
+| Normal | 28,888 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
