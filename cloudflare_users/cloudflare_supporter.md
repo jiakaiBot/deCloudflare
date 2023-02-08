@@ -7361,6 +7361,7 @@ Do not create new issue or we will close it as duplicate.
 | [NateJuran1@twitter](https://twitter.com/NateJuran1/status/1546341024280317953) | advertise |
 | [Nath73616642@twitter](https://twitter.com/Nath73616642/status/1399415551819075584) | advertise |
 | [Nathan33310057@twitter](https://twitter.com/Nathan33310057/status/1389756877311942657) | advertise |
+| [Natsoc_UK@twitter](https://twitter.com/Natsoc_UK/status/1623377778522394637) | advertise |
 | [NatSri18@twitter](https://twitter.com/NatSri18/status/1550642548607418368) | advertise |
 | [nattayanee69@twitter](https://twitter.com/nattayanee69/status/1405489449119543299) | advertise |
 | [naturbrilian@twitter](https://twitter.com/naturbrilian/status/1400047671784579078) | advertise |
