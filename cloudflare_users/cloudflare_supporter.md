@@ -1564,6 +1564,7 @@ Do not create new issue or we will close it as duplicate.
 | [Blood81903194@twitter](https://twitter.com/Blood81903194/status/1391762333274411010) | advertise |
 | [BlowJob10305560@twitter](https://twitter.com/BlowJob10305560/status/1507861498575556610) | advertise |
 | [Blue10665653@twitter](https://twitter.com/Blue10665653/status/1395706450995990530) | advertise |
+| [bluebee7878@twitter](https://twitter.com/bluebee7878/status/1623276700795801602) | advertise |
 | [bluechip_india@twitter](https://twitter.com/bluechip_india/status/1468831895370625024) | advertise |
 | [BlueLinqPC@twitter](https://twitter.com/BlueLinqPC/status/1558938491106594822) | advertise |
 | [bluenote_18@twitter](https://twitter.com/bluenote_18/status/1380066714130386945) | advertise |
