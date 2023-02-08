@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,631 |
-| social | 3,613 |
+| social | 3,614 |
 | net | 2,869 |
-| org | 2,040 |
+| org | 2,041 |
 | de | 1,919 |
 
 
@@ -8577,6 +8577,7 @@ Here's a list of public Fediverse services.
 | `drawk.cab` | No |
 | `drazisil.com` | Yes |
 | `drcassone.social` | No |
+| `drcit.social` | Yes |
 | `drdeimann.de` | No |
 | `drdr.club` | Yes |
 | `drdr.work` | Yes |
@@ -12999,6 +13000,7 @@ Here's a list of public Fediverse services.
 | `grurple.org` | No |
 | `grwd.com` | No |
 | `gry.st` | No |
+| `grynaserio.pl` | Yes |
 | `gsalucci.dev` | No |
 | `gsch.eu` | Yes |
 | `gsd.foundation` | No |
@@ -13164,6 +13166,7 @@ Here's a list of public Fediverse services.
 | `hackabee.fr` | No |
 | `hackaday.com` | No |
 | `hackaday.social` | No |
+| `hackade.org` | Yes |
 | `hackademiet.dk` | No |
 | `hackadoll.com` | No |
 | `hackadon.space` | Yes |
@@ -13393,6 +13396,7 @@ Here's a list of public Fediverse services.
 | `haroo.ca` | No |
 | `harpsica.net` | No |
 | `harpy.life` | No |
+| `harrier.io` | No |
 | `harrisville.net.nz` | No |
 | `harry.cat` | No |
 | `harrykantas.com` | Yes |
@@ -38007,8 +38011,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,046 |
-| Normal | 28,918 |
+| Cloudflare | 9,049 |
+| Normal | 28,919 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
