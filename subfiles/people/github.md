@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Idea Is there a way to let cloudflare tunnel to proxy naiveproxy traffic?](https://github.com/klzgrad/naiveproxy/issues/462)
 - [Central bootstrap store with worker is not working stably](https://github.com/perspect3vism/ad4m/issues/240)
 - [docs.sodalite.rocks do not work](https://github.com/sodaliterocks/sodalite/issues/67)
 - [Need help - I can't get it to work](https://github.com/baudneo/nginx-proxy-manager/issues/8)
