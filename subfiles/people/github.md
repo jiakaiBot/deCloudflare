@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Central bootstrap store with worker is not working stably](https://github.com/perspect3vism/ad4m/issues/240)
 - [docs.sodalite.rocks do not work](https://github.com/sodaliterocks/sodalite/issues/67)
 - [Need help - I can't get it to work](https://github.com/baudneo/nginx-proxy-manager/issues/8)
 - [geo lookup gets stack trace when 'location' info missing](https://github.com/cvmfs/cvmfs/issues/3186)
