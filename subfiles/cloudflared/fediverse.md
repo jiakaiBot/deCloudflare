@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,631 |
-| social | 3,610 |
-| net | 2,868 |
+| social | 3,613 |
+| net | 2,869 |
 | org | 2,040 |
 | de | 1,919 |
 
@@ -660,6 +660,7 @@ Here's a list of public Fediverse services.
 | `a9.wtf` | Yes |
 | `a9z.de` | No |
 | `a9z.dev` | Yes |
+| `aa.net.uk` | No |
 | `aaart.social` | No |
 | `aachen.social` | No |
 | `aadtp.be` | No |
@@ -8881,6 +8882,7 @@ Here's a list of public Fediverse services.
 | `eagleear.social` | No |
 | `eaglefirenation.com` | No |
 | `eaku.net` | No |
+| `ealmuina.xyz` | No |
 | `eamonn.org` | No |
 | `eanske.eu` | No |
 | `ear7h.net` | No |
@@ -9819,6 +9821,7 @@ Here's a list of public Fediverse services.
 | `eventide.town` | No |
 | `eventphotographie.com` | Yes |
 | `eventprofs.social` | No |
+| `everafter.digital` | No |
 | `everlong.org` | No |
 | `eversole.co` | No |
 | `evertools.io` | Yes |
@@ -10481,6 +10484,7 @@ Here's a list of public Fediverse services.
 | `feed.studio` | No |
 | `feedbackloo.pw` | No |
 | `feedbeat.me` | No |
+| `feedbin.social` | No |
 | `feedle.net` | No |
 | `feedly.com` | Yes |
 | `feedmechocolate.com` | No |
@@ -12717,6 +12721,7 @@ Here's a list of public Fediverse services.
 | `gosia.lol` | No |
 | `goslar.social` | No |
 | `gosocial.au` | Yes |
+| `gosocial.click` | No |
 | `gossler.family` | No |
 | `got-tty.org` | No |
 | `gotdns.ch` | No |
@@ -14859,6 +14864,7 @@ Here's a list of public Fediverse services.
 | `indie.host` | No |
 | `indieapps.space` | No |
 | `indieauthors.social` | No |
+| `indiebasement.live` | No |
 | `indiecreatorhub.com` | Yes |
 | `indiefedi.party` | No |
 | `indiefilm.fun` | Yes |
@@ -16235,6 +16241,7 @@ Here's a list of public Fediverse services.
 | `jumpingcrab.com` | No |
 | `jun-ji.me` | No |
 | `junaidbhura.blog` | No |
+| `junaidbhura.social` | No |
 | `jungley.net` | Yes |
 | `juni.tube` | No |
 | `juniorjpdj.pl` | No |
@@ -19233,6 +19240,7 @@ Here's a list of public Fediverse services.
 | `macsnet.cz` | No |
 | `macstodon.scot` | Yes |
 | `macstories.net` | Yes |
+| `macuser.fr` | Yes |
 | `macwinlin.cloud` | Yes |
 | `macwright.com` | No |
 | `mad-scientist.club` | No |
@@ -32026,6 +32034,7 @@ Here's a list of public Fediverse services.
 | `syaroshi.co` | No |
 | `syasai.club` | No |
 | `sycarion.com` | No |
+| `syd.social` | Yes |
 | `sydenie.me` | No |
 | `sygil.org` | No |
 | `sylable.co` | No |
@@ -32871,6 +32880,7 @@ Here's a list of public Fediverse services.
 | `theautisticobserver.com` | No |
 | `theawakenedcollective.nl` | No |
 | `theawkwardhillgang.net` | No |
+| `thebackupbox.net` | No |
 | `thebadgers.live` | No |
 | `thebag.social` | No |
 | `thebarrens.nu` | No |
@@ -37997,8 +38007,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,044 |
-| Normal | 28,910 |
+| Cloudflare | 9,046 |
+| Normal | 28,918 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
