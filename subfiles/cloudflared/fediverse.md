@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,628 |
 | social | 3,606 |
 | net | 2,867 |
-| org | 2,038 |
+| org | 2,039 |
 | de | 1,918 |
 
 
@@ -30367,6 +30367,7 @@ Here's a list of public Fediverse services.
 | `slobbe.ch` | No |
 | `slonisko.cz` | No |
 | `sloth.network` | No |
+| `sloth.run` | No |
 | `slothcloud.com` | No |
 | `slothfc.net` | No |
 | `sloths.club` | Yes |
@@ -37657,6 +37658,7 @@ Here's a list of public Fediverse services.
 | `zbecker.cc` | Yes |
 | `zbeul.ist` | No |
 | `zbop.xyz` | Yes |
+| `zbrx.org` | No |
 | `zbucaao2-liquidwebsites.com` | No |
 | `zbuffer.com` | No |
 | `zcmi.social` | No |
@@ -37978,7 +37980,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,040 |
-| Normal | 28,894 |
+| Normal | 28,896 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
