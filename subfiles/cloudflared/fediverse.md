@@ -18607,7 +18607,7 @@ Here's a list of public Fediverse services.
 | `lna-dev.net` | No |
 | `lnaze.net` | No |
 | `lnbrg.net` | Yes |
-| `lncn.dev` | No |
+| `lncn.dev` | Yes |
 | `lndvll.se` | Yes |
 | `lnk.co.ua` | No |
 | `lnkk.app` | No |
@@ -28409,6 +28409,7 @@ Here's a list of public Fediverse services.
 | `rout0r.org` | No |
 | `route66.social` | No |
 | `routemehome.org` | Yes |
+| `routing.center` | Yes |
 | `routing.rocks` | Yes |
 | `routleynet.org` | No |
 | `rouvray.info` | No |
@@ -31217,7 +31218,7 @@ Here's a list of public Fediverse services.
 | `staipa.it` | Yes |
 | `stalbertdixon.ca` | No |
 | `stale.link` | No |
-| `stalin.rocks` | No |
+| `stalin.rocks` | Yes |
 | `stalker.ee` | Yes |
 | `stallman.au` | Yes |
 | `staltsoft.com` | Yes |
@@ -37944,8 +37945,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,029 |
-| Normal | 28,872 |
+| Cloudflare | 9,032 |
+| Normal | 28,870 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
