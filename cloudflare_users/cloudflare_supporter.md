@@ -1859,6 +1859,7 @@ Do not create new issue or we will close it as duplicate.
 | [cfleesphotograp@twitter](https://twitter.com/cfleesphotograp/status/1602054464005091329) | advertise |
 | [CGI_ERIC@twitter](https://twitter.com/CGI_ERIC/status/1620496261731463170) | advertise |
 | [ch1nux@twitter](https://twitter.com/ch1nux/status/1601612208739614720) | advertise |
+| [chaag@twitter](https://twitter.com/chaag/status/1623366325543534593) | advertise |
 | [chac_vui@twitter](https://twitter.com/chac_vui/status/1393402667586572288) | advertise |
 | [ChadaramGanesh@twitter](https://twitter.com/ChadaramGanesh/status/1377217673478594565) | advertise |
 | [chaddieosrs@twitter](https://twitter.com/chaddieosrs/status/1444224405740077062) | advertise |
@@ -2122,8 +2123,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -2582,6 +2583,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dolfa19@twitter](https://twitter.com/Dolfa19/status/1490365663797522436) | advertise |
 | [Doli18316877@twitter](https://twitter.com/Doli18316877/status/1394684058098049024) | advertise |
 | [dominic37487702@twitter](https://twitter.com/dominic37487702/status/1479207257279660034) | advertise |
+| [Dominic80556794@twitter](https://twitter.com/Dominic80556794/status/1623366344124289024) | advertise |
 | [DominicDeepan@twitter](https://twitter.com/DominicDeepan/status/1420647774509432835) | advertise |
 | [dompeeze@twitter](https://twitter.com/dompeeze/status/1511224654370906113) | advertise |
 | [donaldliuT@twitter](https://twitter.com/donaldliuT/status/1390745327217516544) | advertise |
