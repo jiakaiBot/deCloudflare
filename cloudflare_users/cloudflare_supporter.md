@@ -2392,6 +2392,7 @@ Do not create new issue or we will close it as duplicate.
 | [Deden_Cot@twitter](https://twitter.com/Deden_Cot/status/1386114365657477120) | advertise |
 | [DediR92@twitter](https://twitter.com/DediR92/status/1603212787739607040) | advertise |
 | [DeeDee01433732@twitter](https://twitter.com/DeeDee01433732/status/1400972148387192833) | advertise |
+| [DeeInte@twitter](https://twitter.com/DeeInte/status/1623341751028133888) | advertise |
 | [Deen15641467@twitter](https://twitter.com/Deen15641467/status/1552474002635255809) | advertise |
 | [DeenangL@twitter](https://twitter.com/DeenangL/status/1395737200336146436) | advertise |
 | [DeepakGunjale@twitter](https://twitter.com/DeepakGunjale/status/1379062410263154690) | advertise |
@@ -7745,6 +7746,7 @@ Do not create new issue or we will close it as duplicate.
 | [niloomeraj@twitter](https://twitter.com/niloomeraj/status/1607485496762204161) | advertise |
 | [nilou1995@twitter](https://twitter.com/nilou1995/status/1573241066312302594) | advertise |
 | [nilo_asl@twitter](https://twitter.com/nilo_asl/status/1575209653176528897) | advertise |
+| [Nima1980@twitter](https://twitter.com/Nima1980/status/1623344875059003393) | advertise |
 | [NimaNaji@twitter](https://twitter.com/NimaNaji/status/1495309685401993216) | advertise |
 | [nima_jalilzadeh@twitter](https://twitter.com/nima_jalilzadeh/status/1383908849791340555) | advertise |
 | [Nimesh04922409@twitter](https://twitter.com/Nimesh04922409/status/1401428764907642883) | advertise |
@@ -9915,6 +9917,7 @@ Do not create new issue or we will close it as duplicate.
 | [StephenCj10@twitter](https://twitter.com/StephenCj10/status/1589602635719770113) | advertise |
 | [stephengiesen@twitter](https://twitter.com/stephengiesen/status/1595074571182477318) | advertise |
 | [stephen_talla@twitter](https://twitter.com/stephen_talla/status/1392849291710849035) | advertise |
+| [stepsaheadj@twitter](https://twitter.com/stepsaheadj/status/1623340489633067008) | advertise |
 | [Steve13279142@twitter](https://twitter.com/Steve13279142/status/1387094740437377025) | advertise |
 | [stevebrain_dev@twitter](https://twitter.com/stevebrain_dev/status/1553396113570504706) | advertise |
 | [SteveLittleIWS@twitter](https://twitter.com/SteveLittleIWS/status/1383507432328949770) | advertise |
