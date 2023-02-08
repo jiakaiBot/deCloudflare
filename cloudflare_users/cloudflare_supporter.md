@@ -2325,6 +2325,7 @@ Do not create new issue or we will close it as duplicate.
 | [DatFriiscoFella@twitter](https://twitter.com/DatFriiscoFella/status/1498121876345790465) | advertise |
 | [Datfro102@twitter](https://twitter.com/Datfro102/status/1494686737360384001) | advertise |
 | [DatLevan11@twitter](https://twitter.com/DatLevan11/status/1551518810795958272) | advertise |
+| [Datngooo@twitter](https://twitter.com/Datngooo/status/1623336818853965824) | advertise |
 | [datnguy99682140@twitter](https://twitter.com/datnguy99682140/status/1387181211366268929) | advertise |
 | [Dato14160788@twitter](https://twitter.com/Dato14160788/status/1601602629716815875) | advertise |
 | [dauconlacuachi@twitter](https://twitter.com/dauconlacuachi/status/1553359546059718656) | advertise |
@@ -4760,6 +4761,7 @@ Do not create new issue or we will close it as duplicate.
 | [JohnJoh28798504@twitter](https://twitter.com/JohnJoh28798504/status/1402285463600304132) | advertise |
 | [JohnKhaing2@twitter](https://twitter.com/JohnKhaing2/status/1395711379818958851) | advertise |
 | [johnnyphanjp@twitter](https://twitter.com/johnnyphanjp/status/1553781591222018050) | advertise |
+| [JohnPha40863688@twitter](https://twitter.com/JohnPha40863688/status/1623327693088653315) | advertise |
 | [JohnSmi50780892@twitter](https://twitter.com/JohnSmi50780892/status/1391425220108439560) | advertise |
 | [JohnSmit2208@twitter](https://twitter.com/JohnSmit2208/status/1613556957625094146) | advertise |
 | [Johnson26816196@twitter](https://twitter.com/Johnson26816196/status/1397785719502827520) | advertise |
@@ -5290,8 +5292,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5737,6 +5739,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lastavicaaaa@twitter](https://twitter.com/Lastavicaaaa/status/1570320326684188672) | advertise |
 | [LasteventsSpace@twitter](https://twitter.com/LasteventsSpace/status/1550721607030968320) | advertise |
 | [LASXD2@twitter](https://twitter.com/LASXD2/status/1396425725666762752) | advertise |
+| [latifckrgl@twitter](https://twitter.com/latifckrgl/status/1623329433703575553) | advertise |
 | [Latina65648589@twitter](https://twitter.com/Latina65648589/status/1379128051192107014) | advertise |
 | [latta1891@twitter](https://twitter.com/latta1891/status/1564662935049236482) | advertise |
 | [LattminT@twitter](https://twitter.com/LattminT/status/1395096297296695299) | advertise |
@@ -5919,6 +5922,7 @@ Do not create new issue or we will close it as duplicate.
 | [link_porn_xxx@twitter](https://twitter.com/link_porn_xxx/status/1468220158116175873) | advertise |
 | [LinlattN@twitter](https://twitter.com/LinlattN/status/1389301241398824975) | advertise |
 | [Linlin12697723@twitter](https://twitter.com/Linlin12697723/status/1558298519957811201) | advertise |
+| [LinlinL86205754@twitter](https://twitter.com/LinlinL86205754/status/1623323609711390720) | advertise |
 | [LinLinT38540012@twitter](https://twitter.com/LinLinT38540012/status/1394185705073659906) | advertise |
 | [Linn15286235@twitter](https://twitter.com/Linn15286235/status/1394684377657856001) | advertise |
 | [LinNguync1@twitter](https://twitter.com/LinNguync1/status/1398348538472374275) | advertise |
@@ -7714,6 +7718,7 @@ Do not create new issue or we will close it as duplicate.
 | [nichith11@twitter](https://twitter.com/nichith11/status/1391815897422045185) | advertise |
 | [NicholasBruneau@twitter](https://twitter.com/NicholasBruneau/status/1464751618642034688) | advertise |
 | [Nick49172888@twitter](https://twitter.com/Nick49172888/status/1380676591949205508) | advertise |
+| [Nick64818081@twitter](https://twitter.com/Nick64818081/status/1623327306486845442) | advertise |
 | [nicknitro09@twitter](https://twitter.com/nicknitro09/status/1381362588001402894) | advertise |
 | [NickOneness@twitter](https://twitter.com/NickOneness/status/1471575647709499393) | advertise |
 | [nickwarters@twitter](https://twitter.com/nickwarters/status/1407441318511513605) | advertise |
