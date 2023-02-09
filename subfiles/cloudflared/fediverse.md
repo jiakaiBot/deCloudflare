@@ -25284,6 +25284,7 @@ Here's a list of public Fediverse services.
 | `parfait-mastodon.com` | No |
 | `parfait.day` | No |
 | `parfaitement.social` | No |
+| `pari.cafe` | Yes |
 | `parigotmanchot.fr` | No |
 | `parinux.org` | No |
 | `pariserstr.de` | No |
@@ -38081,8 +38082,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,072 |
+| Cloudflare | 9,073 |
 | Normal | 28,966 |
 
 
-### 23.8% of public Fediverse services are using Cloudflare.
+### 23.9% of public Fediverse services are using Cloudflare.
