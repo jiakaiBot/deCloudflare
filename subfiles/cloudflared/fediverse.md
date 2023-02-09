@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,636 |
+| com | 5,637 |
 | social | 3,619 |
-| net | 2,874 |
+| net | 2,875 |
 | org | 2,040 |
 | de | 1,919 |
 
@@ -18901,6 +18901,7 @@ Here's a list of public Fediverse services.
 | `louma.ml` | No |
 | `lounge.fan` | Yes |
 | `lounge.town` | Yes |
+| `loupe.page` | Yes |
 | `lourensr.dev` | Yes |
 | `lousydomain.xyz` | Yes |
 | `loutaci.cz` | No |
@@ -28985,6 +28986,7 @@ Here's a list of public Fediverse services.
 | `sankara.me` | Yes |
 | `sanmin.jp.net` | No |
 | `sanpo-an.site` | No |
+| `sanrizuka-struggle.com` | Yes |
 | `sans-nuage.fr` | No |
 | `sans.fun` | Yes |
 | `sans.pub` | No |
@@ -35770,6 +35772,7 @@ Here's a list of public Fediverse services.
 | `vr4.me` | Yes |
 | `vran.as` | Yes |
 | `vraphim.com` | No |
+| `vrc-ins.net` | No |
 | `vreeman.com` | Yes |
 | `vreign.space` | No |
 | `vries.dev` | Yes |
@@ -38047,8 +38050,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,059 |
-| Normal | 28,945 |
+| Cloudflare | 9,061 |
+| Normal | 28,946 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
