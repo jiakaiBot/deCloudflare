@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,634 |
+| com | 5,635 |
 | social | 3,619 |
 | net | 2,873 |
 | org | 2,040 |
@@ -15966,6 +15966,7 @@ Here's a list of public Fediverse services.
 | `jnktn.tv` | No |
 | `jnsk.info` | Yes |
 | `jo-dev.xyz` | Yes |
+| `jo3qma.com` | Yes |
 | `joanmastodon.blog` | No |
 | `joaocosta.eu` | No |
 | `jochen-tetzlaff.online` | No |
@@ -38040,7 +38041,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,056 |
+| Cloudflare | 9,057 |
 | Normal | 28,941 |
 
 
