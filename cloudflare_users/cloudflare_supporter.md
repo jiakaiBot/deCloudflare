@@ -9082,6 +9082,7 @@ Do not create new issue or we will close it as duplicate.
 | [RonnieSstore@twitter](https://twitter.com/RonnieSstore/status/1401572362261237764) | advertise |
 | [Ronnie_chiep@twitter](https://twitter.com/Ronnie_chiep/status/1602676819441876993) | advertise |
 | [ronnyinvesting@twitter](https://twitter.com/ronnyinvesting/status/1534207065282949122) | advertise |
+| [roo21566206@twitter](https://twitter.com/roo21566206/status/1623537392278974464) | advertise |
 | [Roodro3@twitter](https://twitter.com/Roodro3/status/1552012207667687424) | advertise |
 | [rookies87949021@twitter](https://twitter.com/rookies87949021/status/1389072539935076352) | advertise |
 | [ropangkrimbat@twitter](https://twitter.com/ropangkrimbat/status/1539175227368030209) | advertise |
@@ -10432,8 +10433,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
@@ -11003,6 +11004,7 @@ Do not create new issue or we will close it as duplicate.
 | [TtarZzin@twitter](https://twitter.com/TtarZzin/status/1473115853101039618) | advertise |
 | [TTayblack@twitter](https://twitter.com/TTayblack/status/1553438180581724161) | advertise |
 | [Ttleo13@twitter](https://twitter.com/Ttleo13/status/1382004085373595648) | advertise |
+| [ttqmanga@twitter](https://twitter.com/ttqmanga/status/1623576776734646272) | advertise |
 | [TTsoknyi@twitter](https://twitter.com/TTsoknyi/status/1390252150224166915) | advertise |
 | [Tu95824630@twitter](https://twitter.com/Tu95824630/status/1403925491455709195) | advertise |
 | [tuan00233424@twitter](https://twitter.com/tuan00233424/status/1476923602381332487) | advertise |
