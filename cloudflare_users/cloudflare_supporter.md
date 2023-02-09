@@ -3914,6 +3914,7 @@ Do not create new issue or we will close it as duplicate.
 | [HoiNam45620692@twitter](https://twitter.com/HoiNam45620692/status/1381245125330800642) | advertise |
 | [HoiNam74986942@twitter](https://twitter.com/HoiNam74986942/status/1595621294040838145) | advertise |
 | [HoiphongL1@twitter](https://twitter.com/HoiphongL1/status/1385425425745154049) | advertise |
+| [HoiVVn4@twitter](https://twitter.com/HoiVVn4/status/1623698197347696641) | advertise |
 | [Hoka46241573@twitter](https://twitter.com/Hoka46241573/status/1401380621033771013) | advertise |
 | [holmeszyx@twitter](https://twitter.com/holmeszyx/status/1379404117936893954) | advertise |
 | [Homa10000@twitter](https://twitter.com/Homa10000/status/1570850952676245504) | advertise |
