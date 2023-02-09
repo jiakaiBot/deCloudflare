@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,635 |
+| com | 5,636 |
 | social | 3,619 |
-| net | 2,873 |
+| net | 2,874 |
 | org | 2,040 |
 | de | 1,919 |
 
@@ -14731,6 +14731,7 @@ Here's a list of public Fediverse services.
 | `ill.moe` | No |
 | `illegalpornography.com` | No |
 | `illegitimate.technology` | Yes |
+| `illoda.com` | Yes |
 | `illum.dev` | Yes |
 | `illuminada.io` | No |
 | `illuminati.org` | No |
@@ -21276,6 +21277,7 @@ Here's a list of public Fediverse services.
 | `mission1701.com` | Yes |
 | `missionbendtx.net` | Yes |
 | `missioncontrol.social` | No |
+| `misskey-experiment.tokyo` | No |
 | `misskey-forkbomb.cf` | Yes |
 | `misskey.ai` | No |
 | `misskey.art` | Yes |
@@ -23612,6 +23614,7 @@ Here's a list of public Fediverse services.
 | `nojob.jp` | Yes |
 | `nojober.work` | No |
 | `nokes.name` | No |
+| `nokinoki.net` | No |
 | `noko1024.net` | No |
 | `nokok.net` | No |
 | `nokotaro.com` | Yes |
@@ -28723,6 +28726,7 @@ Here's a list of public Fediverse services.
 | `rytter.me` | No |
 | `ryu.org` | No |
 | `ryuchan.dev` | No |
+| `ryugu.link` | No |
 | `ryumu.dev` | Yes |
 | `ryuryu.tw` | Yes |
 | `ryusei.dev` | No |
@@ -35421,6 +35425,7 @@ Here's a list of public Fediverse services.
 | `verified-mastodon.org` | No |
 | `verified.af` | Yes |
 | `verified.coop` | No |
+| `veriny.tf` | Yes |
 | `verisimilitudino.us` | No |
 | `verita84.com` | No |
 | `verkehrswende.social` | Yes |
@@ -38042,8 +38047,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,057 |
-| Normal | 28,942 |
+| Cloudflare | 9,059 |
+| Normal | 28,945 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
