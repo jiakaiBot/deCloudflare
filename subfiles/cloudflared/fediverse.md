@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,637 |
-| social | 3,619 |
-| net | 2,875 |
+| com | 5,641 |
+| social | 3,621 |
+| net | 2,877 |
 | org | 2,040 |
 | de | 1,919 |
 
@@ -3695,6 +3695,7 @@ Here's a list of public Fediverse services.
 | `bitstick.rip` | Yes |
 | `bitsuppe.de` | No |
 | `bitterhusk.net` | No |
+| `bitterswede.com` | No |
 | `bittube.app` | No |
 | `bittube.social` | No |
 | `bittube.tv` | No |
@@ -5652,6 +5653,7 @@ Here's a list of public Fediverse services.
 | `citringo.net` | No |
 | `citrouille.ch` | No |
 | `citrus.farm` | No |
+| `citrussocial.uk` | No |
 | `citsc.de` | No |
 | `city-of-glass.net` | No |
 | `city17.online` | No |
@@ -8383,6 +8385,7 @@ Here's a list of public Fediverse services.
 | `domdom.tokyo` | No |
 | `dominicdewolfe.com` | No |
 | `dominikmarciniak.pl` | No |
+| `domjh.com` | Yes |
 | `domm.me` | Yes |
 | `dommunicate.com` | Yes |
 | `domo.cafe` | Yes |
@@ -9021,6 +9024,7 @@ Here's a list of public Fediverse services.
 | `eddyn.net` | Yes |
 | `eddyssofa.com` | No |
 | `edegem.social` | No |
+| `edel-ornstein.pro` | No |
 | `edelmann.bond` | Yes |
 | `eden.one` | No |
 | `edgarogh.fr` | No |
@@ -15158,6 +15162,7 @@ Here's a list of public Fediverse services.
 | `inventaire.io` | No |
 | `inveos.com` | No |
 | `inverse.moe` | No |
+| `invincible.ink` | No |
 | `invisible-republic.blog` | No |
 | `invisible.ch` | No |
 | `invisibles.org` | No |
@@ -20343,6 +20348,7 @@ Here's a list of public Fediverse services.
 | `mattball.io` | No |
 | `mattbk.com` | No |
 | `mattbog.art` | No |
+| `mattbowen.net` | No |
 | `mattburkedev.com` | No |
 | `mattcannon.uk` | Yes |
 | `mattchew.ninja` | No |
@@ -22668,6 +22674,7 @@ Here's a list of public Fediverse services.
 | `naokisz.tk` | No |
 | `naomi.moe` | Yes |
 | `naomielliott.net` | No |
+| `naomini.tel` | No |
 | `naotodon.xyz` | No |
 | `naoy.fr` | No |
 | `napolisocial.com` | Yes |
@@ -23563,6 +23570,7 @@ Here's a list of public Fediverse services.
 | `nodoka.de` | Yes |
 | `nodomain.cc` | No |
 | `nodots.xyz` | No |
+| `nodotsam.com` | Yes |
 | `nodotsam.xyz` | No |
 | `nodutiesowed.com` | No |
 | `noela.moe` | No |
@@ -28182,6 +28190,7 @@ Here's a list of public Fediverse services.
 | `ring0.space` | No |
 | `ringtailsoftware.co.uk` | No |
 | `rinsuki.net` | Yes |
+| `rintik.xyz` | No |
 | `rio.social` | No |
 | `rio20.net` | No |
 | `riotcat.org` | No |
@@ -30096,6 +30105,7 @@ Here's a list of public Fediverse services.
 | `siliconvalley.social` | No |
 | `silkhe.art` | Yes |
 | `silkky.cloud` | Yes |
+| `silkroad.net` | No |
 | `silksky.us` | No |
 | `silkyplover.org` | No |
 | `silliness.observer` | No |
@@ -32171,6 +32181,7 @@ Here's a list of public Fediverse services.
 | `syundo.org` | No |
 | `syuneci.am` | Yes |
 | `syunm1n.cf` | No |
+| `syutin.com` | No |
 | `syuwa.fun` | No |
 | `syvita.club` | No |
 | `szeged.social` | No |
@@ -33710,6 +33721,7 @@ Here's a list of public Fediverse services.
 | `tom-eric.info` | No |
 | `toma.ink` | Yes |
 | `tomais.nz` | Yes |
+| `tomarra.social` | No |
 | `tomasek.mobi` | Yes |
 | `tomasfarias.dev` | Yes |
 | `tomasino.org` | No |
@@ -36706,6 +36718,7 @@ Here's a list of public Fediverse services.
 | `workers.dev` | Yes |
 | `workingweb.nl` | No |
 | `workisboring.com` | No |
+| `worklifepsych.social` | No |
 | `world-congress.org` | No |
 | `worldbankofmemes.com` | No |
 | `worldbuildersforge.com` | No |
@@ -38050,8 +38063,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,061 |
-| Normal | 28,946 |
+| Cloudflare | 9,063 |
+| Normal | 28,957 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
