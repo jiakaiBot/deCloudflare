@@ -1950,6 +1950,7 @@ Do not create new issue or we will close it as duplicate.
 | [Chirp_nft@twitter](https://twitter.com/Chirp_nft/status/1492614463408775169) | advertise |
 | [chisol45@twitter](https://twitter.com/chisol45/status/1549627899149717504) | advertise |
 | [Chit12127394@twitter](https://twitter.com/Chit12127394/status/1377063466050056192) | advertise |
+| [ChiThanh1701@twitter](https://twitter.com/ChiThanh1701/status/1623720426659794944) | advertise |
 | [chithtunzaw@twitter](https://twitter.com/chithtunzaw/status/1394130268122984452) | advertise |
 | [ChitHtw24401859@twitter](https://twitter.com/ChitHtw24401859/status/1390946660096696322) | advertise |
 | [ChitKaungHtetA2@twitter](https://twitter.com/ChitKaungHtetA2/status/1391425005188177926) | advertise |
@@ -7484,6 +7485,7 @@ Do not create new issue or we will close it as duplicate.
 | [NftfunmadeX@twitter](https://twitter.com/NftfunmadeX/status/1611882239977000960) | advertise |
 | [NFTsMintMarket@twitter](https://twitter.com/NFTsMintMarket/status/1508599297839104003) | advertise |
 | [nftsrt@twitter](https://twitter.com/nftsrt/status/1472866208814964740) | advertise |
+| [Ng09091997@twitter](https://twitter.com/Ng09091997/status/1623718287761874944) | advertise |
 | [ng19995@twitter](https://twitter.com/ng19995/status/1562750933624565766) | advertise |
 | [Ng17137539@twitter](https://twitter.com/Ng17137539/status/1391247431531077636) | advertise |
 | [ng57176180@twitter](https://twitter.com/ng57176180/status/1540245706174124032) | advertise |
