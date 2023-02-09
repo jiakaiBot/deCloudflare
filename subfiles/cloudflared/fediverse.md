@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,632 |
-| social | 3,617 |
-| net | 2,872 |
+| com | 5,634 |
+| social | 3,619 |
+| net | 2,873 |
 | org | 2,040 |
 | de | 1,919 |
 
@@ -4824,6 +4824,7 @@ Here's a list of public Fediverse services.
 | `campdarling.com` | No |
 | `campdon.jp` | No |
 | `campduffel.social` | No |
+| `campegg.com` | No |
 | `campfi.rs` | Yes |
 | `campfire.website` | No |
 | `campfollow.life` | No |
@@ -6388,6 +6389,7 @@ Here's a list of public Fediverse services.
 | `courat.fr` | No |
 | `courbet.social` | No |
 | `courier.no` | No |
+| `courtenay.io` | Yes |
 | `courtneyr.dev` | No |
 | `cousinsd.net` | No |
 | `covalent.ml` | No |
@@ -8583,6 +8585,7 @@ Here's a list of public Fediverse services.
 | `drawk.cab` | No |
 | `drazisil.com` | Yes |
 | `drcassone.social` | No |
+| `drcit.social` | Yes |
 | `drdeimann.de` | No |
 | `drdr.club` | Yes |
 | `drdr.work` | Yes |
@@ -12774,6 +12777,7 @@ Here's a list of public Fediverse services.
 | `govital.net` | No |
 | `govsocial.org` | No |
 | `govt.is` | No |
+| `gow.fr` | No |
 | `gowalla.social` | No |
 | `goyim.app` | No |
 | `goyslop.cafe` | No |
@@ -13432,6 +13436,7 @@ Here's a list of public Fediverse services.
 | `hash.my` | No |
 | `hash.social` | No |
 | `hashapp.space` | No |
+| `hashbang.sh` | No |
 | `hashi.icu` | Yes |
 | `hashi.sbs` | Yes |
 | `hashtagueule.fr` | No |
@@ -15759,6 +15764,7 @@ Here's a list of public Fediverse services.
 | `jeckyll.net` | No |
 | `jeda.im` | Yes |
 | `jeder.pl` | No |
+| `jedi.black` | No |
 | `jedillama.net` | No |
 | `jeena.net` | No |
 | `jeff.town` | No |
@@ -17843,6 +17849,7 @@ Here's a list of public Fediverse services.
 | `laughingsquid.com` | Yes |
 | `launay.org` | No |
 | `laundromat.me` | No |
+| `laura.social` | No |
 | `laurakalbag.com` | No |
 | `lauraritchie.com` | No |
 | `laurelmail.net` | Yes |
@@ -19259,6 +19266,7 @@ Here's a list of public Fediverse services.
 | `madbob.org` | No |
 | `madcam.co.uk` | No |
 | `madder-mad.net` | No |
+| `maddie.cloud` | No |
 | `maddie.rocks` | No |
 | `maddox.io` | No |
 | `maddux.blog` | No |
@@ -21898,7 +21906,7 @@ Here's a list of public Fediverse services.
 | `mrkiddle.co.uk` | No |
 | `mrkod.com` | No |
 | `mrks.network` | Yes |
-| `mrls.xyz` | No |
+| `mrls.xyz` | Yes |
 | `mrlungshot.com` | Yes |
 | `mrmoreira.com` | Yes |
 | `mrn.bz` | No |
@@ -25742,6 +25750,7 @@ Here's a list of public Fediverse services.
 | `phoenixict.it` | No |
 | `phoenixkahlo.com` | No |
 | `phoenixproject.group` | No |
+| `phoenixradio1208.com` | No |
 | `phoenixtrap.com` | Yes |
 | `phonesare.fun` | No |
 | `phonghg.fr` | No |
@@ -30018,6 +30027,7 @@ Here's a list of public Fediverse services.
 | `sideras.net` | No |
 | `sideslip.social` | No |
 | `sidestreetapps.net` | Yes |
+| `sidetools.net` | Yes |
 | `sidewalken.com` | No |
 | `sidh.bzh` | No |
 | `sididoma.club` | Yes |
@@ -30662,6 +30672,7 @@ Here's a list of public Fediverse services.
 | `social.lol` | No |
 | `social.mw` | No |
 | `social.net.ua` | No |
+| `social.oslo.no` | No |
 | `social.photo` | No |
 | `social.saarland` | No |
 | `social.scot` | Yes |
@@ -33043,6 +33054,7 @@ Here's a list of public Fediverse services.
 | `thehistoryofancientgreece.com` | No |
 | `thehistoryofbyzantium.com` | No |
 | `thehonestdev.com` | Yes |
+| `thehub.su` | No |
 | `theiceshelf.com` | No |
 | `theicon.stream` | No |
 | `theindependentwhig.com` | No |
@@ -36578,6 +36590,7 @@ Here's a list of public Fediverse services.
 | `wmer.icu` | No |
 | `wmlgr.space` | No |
 | `wndp.cloud` | Yes |
+| `wnelson.dev` | Yes |
 | `wngs.uk` | Yes |
 | `wnymathguy.com` | No |
 | `woafre.tk` | No |
@@ -38027,8 +38040,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,051 |
-| Normal | 28,933 |
+| Cloudflare | 9,056 |
+| Normal | 28,941 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
