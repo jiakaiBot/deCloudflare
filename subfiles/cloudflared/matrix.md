@@ -35,6 +35,7 @@ Here's a list of public Matrix services.
 | bolha.chat | Yes |
 | breeze.town | No |
 | matrix.bytes4u.de | No |
+| matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
@@ -52,7 +53,6 @@ Here's a list of public Matrix services.
 | matrix.dieandalusier.net | No |
 | matrix.duesen.chat | No |
 | matrix.envs.net | No |
-| exarius.org | No |
 | matrix.fachschaften.org | No |
 | feneas.org | No |
 | matrix.flieger.chat | No |
