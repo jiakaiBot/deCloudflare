@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [package(cloudflare_workers): Missing headers](https://github.com/invertase/dart_edge/issues/15)
 - [macOS / Ctrld 1.1 / Client.Timeout](https://github.com/Control-D-Inc/ctrld/issues/19)
 - [Idea Is there a way to let cloudflare tunnel to proxy naiveproxy traffic?](https://github.com/klzgrad/naiveproxy/issues/462)
 - [Central bootstrap store with worker is not working stably](https://github.com/perspect3vism/ad4m/issues/240)
