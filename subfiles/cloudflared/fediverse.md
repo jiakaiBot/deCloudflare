@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,642 |
+| com | 5,643 |
 | social | 3,623 |
 | net | 2,878 |
 | org | 2,041 |
@@ -1201,6 +1201,7 @@ Here's a list of public Fediverse services.
 | `akmentins.com` | Yes |
 | `akoot.site` | No |
 | `akop.online` | No |
+| `akrabat.com` | No |
 | `aksel.at` | No |
 | `aksel.rocks` | No |
 | `aksura.tk` | No |
@@ -17210,7 +17211,7 @@ Here's a list of public Fediverse services.
 | `kogak.ninja` | No |
 | `kogak.xyz` | No |
 | `kogasa.de` | No |
-| `kohan.pl` | No |
+| `kohan.pl` | Yes |
 | `kohl.dev` | No |
 | `kohodon.com` | No |
 | `kohrville.net` | No |
@@ -38082,7 +38083,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,073 |
+| Cloudflare | 9,074 |
 | Normal | 28,966 |
 
 
