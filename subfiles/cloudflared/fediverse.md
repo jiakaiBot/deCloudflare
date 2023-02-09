@@ -14077,7 +14077,7 @@ Here's a list of public Fediverse services.
 | `hollow.capital` | No |
 | `hollow.city` | No |
 | `holly.town` | No |
-| `holmmade.cafe` | Yes |
+| `holmmade.cafe` | No |
 | `holnburger.social` | No |
 | `holocaustdeprogrammingcourse.com` | No |
 | `holomaplefeline.net` | No |
@@ -18010,7 +18010,7 @@ Here's a list of public Fediverse services.
 | `lefty.social` | No |
 | `leftychan.net` | Yes |
 | `legacycode.rocks` | No |
-| `legadolibre.com.ar` | No |
+| `legadolibre.com.ar` | Yes |
 | `legal.social` | No |
 | `legalloli.net` | No |
 | `legaltech.social` | No |
@@ -18933,6 +18933,7 @@ Here's a list of public Fediverse services.
 | `lovingexpressions.net` | No |
 | `low5.de` | No |
 | `lowb.run` | Yes |
+| `lowficarrots.wiki` | No |
 | `lowkey.party` | No |
 | `lowlab.social` | No |
 | `lowlevel.ca` | No |
@@ -38042,7 +38043,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,057 |
-| Normal | 28,941 |
+| Normal | 28,942 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
