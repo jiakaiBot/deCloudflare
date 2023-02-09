@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-02-09: [Privacy Pass Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/r5b15yx8l78l)
 - 2023-02-10: [VIE (Vienna) on 2023-02-10](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/87wp923jbv4z)
 - 2023-02-16: [ORD (Chicago) on 2023-02-16](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/31g9476ymgx4)
 - 2023-02-15: [ORD (Chicago) on 2023-02-15](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/t8k8vzrw4p0x)
