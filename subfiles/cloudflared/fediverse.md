@@ -4898,6 +4898,7 @@ Here's a list of public Fediverse services.
 | `capitalism.wtf` | No |
 | `capitalistlepton.com` | No |
 | `capricom.info` | No |
+| `capslock.dev` | Yes |
 | `captainark.net` | No |
 | `captainslog.aero` | No |
 | `captnstark.com` | Yes |
@@ -19930,7 +19931,7 @@ Here's a list of public Fediverse services.
 | `mastodon-rosenheim.de` | No |
 | `mastodon-s.com` | Yes |
 | `mastodon-sci.tk` | No |
-| `mastodon-server.co.uk` | No |
+| `mastodon-server.co.uk` | Yes |
 | `mastodon-servers.net` | No |
 | `mastodon-sheep-smile.com` | No |
 | `mastodon-space.com` | No |
@@ -28769,7 +28770,7 @@ Here's a list of public Fediverse services.
 | `ryza.moe` | Yes |
 | `rzgierskopp.de` | No |
 | `rzhaus.com` | No |
-| `rzl.icu` | Yes |
+| `rzl.icu` | No |
 | `rzon.de` | No |
 | `rzpn.pl` | No |
 | `s-a.at` | No |
@@ -34224,6 +34225,7 @@ Here's a list of public Fediverse services.
 | `trevormanternach.com` | No |
 | `trevormeier.com` | No |
 | `trex.cafe` | No |
+| `treyground.dev` | Yes |
 | `treyssatvincent.fr` | No |
 | `tri.cash` | Yes |
 | `triangle.social` | No |
@@ -38090,7 +38092,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,077 |
+| Cloudflare | 9,079 |
 | Normal | 28,970 |
 
 
