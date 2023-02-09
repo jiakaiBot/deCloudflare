@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,645 |
-| social | 3,624 |
+| social | 3,625 |
 | net | 2,878 |
 | org | 2,041 |
 | de | 1,919 |
@@ -1256,6 +1256,7 @@ Here's a list of public Fediverse services.
 | `alduino.xyz` | Yes |
 | `ale-elements.ml` | No |
 | `ale.gd` | No |
+| `aleana.xyz` | Yes |
 | `aleatoire.net` | No |
 | `alecmuffett.com` | No |
 | `alejandromiranda.org` | No |
@@ -3449,6 +3450,7 @@ Here's a list of public Fediverse services.
 | `bghost.xyz` | No |
 | `bgmastodon.com` | No |
 | `bgme.me` | Yes |
+| `bgp.social` | No |
 | `bgr.com` | No |
 | `bgsteiner.com` | Yes |
 | `bgta.net` | No |
@@ -38092,8 +38094,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,079 |
-| Normal | 28,970 |
+| Cloudflare | 9,080 |
+| Normal | 28,971 |
 
 
 ### 23.9% of public Fediverse services are using Cloudflare.
