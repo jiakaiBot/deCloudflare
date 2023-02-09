@@ -4147,6 +4147,7 @@ Here's a list of public Fediverse services.
 | `bootblackcub.com` | No |
 | `boothcomputing.social` | No |
 | `booths.cyou` | Yes |
+| `bootjp.me` | Yes |
 | `bootlicker.party` | No |
 | `bootlicker.world` | No |
 | `bootloader.io` | No |
@@ -5698,6 +5699,7 @@ Here's a list of public Fediverse services.
 | `clanwood.com` | No |
 | `clar.ke` | Yes |
 | `clareifi.org` | Yes |
+| `clarin.moe` | No |
 | `claris.cf` | No |
 | `claristdon.link` | No |
 | `claristdon.net` | No |
@@ -38063,8 +38065,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,063 |
-| Normal | 28,957 |
+| Cloudflare | 9,064 |
+| Normal | 28,958 |
 
 
 ### 23.8% of public Fediverse services are using Cloudflare.
