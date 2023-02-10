@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,662 |
-| social | 3,639 |
+| com | 5,664 |
+| social | 3,641 |
 | net | 2,884 |
 | org | 2,042 |
-| de | 1,920 |
+| de | 1,921 |
 
 
 - Mastodon, Pleroma, etc
@@ -119,6 +119,7 @@ Here's a list of public Fediverse services.
 | `0x68.net` | No |
 | `0x68756773.moe` | No |
 | `0x6d77.net` | No |
+| `0x705h.com` | No |
 | `0x77.ml` | No |
 | `0x7f.dev` | Yes |
 | `0x7f.one` | No |
@@ -10154,6 +10155,7 @@ Here's a list of public Fediverse services.
 | `family-m.art` | No |
 | `familyds.org` | No |
 | `familyhistory.page` | No |
+| `familyofme.com` | No |
 | `familysolidarity.org` | No |
 | `famjam.social` | Yes |
 | `famkos.net` | No |
@@ -10457,6 +10459,7 @@ Here's a list of public Fediverse services.
 | `feditube.com` | No |
 | `fediunam.site` | No |
 | `fediuni.xyz` | No |
+| `fediv.de` | No |
 | `fedive.rs` | No |
 | `fediver.de` | No |
 | `fediver.se` | No |
@@ -10701,6 +10704,7 @@ Here's a list of public Fediverse services.
 | `fietser.app` | No |
 | `fietser.social` | No |
 | `fifteen40.com` | No |
+| `fifthcity.social` | No |
 | `fifthdread.com` | No |
 | `fig.lt` | No |
 | `figendi.de` | No |
@@ -14724,6 +14728,7 @@ Here's a list of public Fediverse services.
 | `igualdad.cf` | No |
 | `iguana.coffee` | Yes |
 | `iguanodon.net` | Yes |
+| `igw.ovh` | No |
 | `igwan.fr` | No |
 | `igwigg.space` | No |
 | `igyigy.com` | No |
@@ -15831,6 +15836,7 @@ Here's a list of public Fediverse services.
 | `jellydonut.me` | No |
 | `jellystyle.social` | No |
 | `jelqing.men` | No |
+| `jemal.contact` | No |
 | `jemp.co` | No |
 | `jemverse.xyz` | Yes |
 | `jenkins.cc` | No |
@@ -19597,7 +19603,7 @@ Here's a list of public Fediverse services.
 | `manimani.cc` | No |
 | `manitoba.one` | No |
 | `manj.io` | Yes |
-| `manji.dev` | No |
+| `manji.dev` | Yes |
 | `manley.org` | No |
 | `mannennet.eu` | No |
 | `mannheim.social` | No |
@@ -20603,6 +20609,7 @@ Here's a list of public Fediverse services.
 | `mdunn.io` | No |
 | `mdx.ac.uk` | Yes |
 | `me.dm` | Yes |
+| `meadow.social` | No |
 | `mean.engineer` | No |
 | `measure.chat` | Yes |
 | `meatbag.app` | Yes |
@@ -22365,6 +22372,7 @@ Here's a list of public Fediverse services.
 | `mustardon.tokyo` | No |
 | `mustbeart.com` | No |
 | `mustdomast.com` | No |
+| `mustel.id` | Yes |
 | `mustodon.net` | No |
 | `mustodon.xyz` | No |
 | `musty.io` | No |
@@ -22940,6 +22948,7 @@ Here's a list of public Fediverse services.
 | `nekocave.xyz` | Yes |
 | `nekoconeko.nl` | No |
 | `nekocross.xyz` | Yes |
+| `nekodai.ski` | No |
 | `nekoea.red` | No |
 | `nekogenesis.com` | No |
 | `nekohell.eu` | Yes |
@@ -26977,6 +26986,7 @@ Here's a list of public Fediverse services.
 | `pufferzone.racing` | No |
 | `puffin.social` | Yes |
 | `pug.family` | No |
+| `pug.ninja` | Yes |
 | `pug.photos` | No |
 | `pug.social` | No |
 | `pugly.org` | Yes |
@@ -27403,6 +27413,7 @@ Here's a list of public Fediverse services.
 | `raconteur.ink` | No |
 | `radar.fail` | No |
 | `radbox.org` | No |
+| `raddemo.host` | No |
 | `radfae.social` | No |
 | `radfoote.net` | No |
 | `radgames.space` | No |
@@ -38157,8 +38168,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,109 |
-| Normal | 29,005 |
+| Cloudflare | 9,112 |
+| Normal | 29,013 |
 
 
 ### 23.9% of public Fediverse services are using Cloudflare.
