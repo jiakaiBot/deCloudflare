@@ -22654,6 +22654,7 @@ Here's a list of public Fediverse services.
 | `nagekar.com` | Yes |
 | `naggel.com` | No |
 | `naghdbishi.ir` | No |
+| `nagichan.page` | No |
 | `nagoyadon.jp` | Yes |
 | `nagy.haus` | No |
 | `nah.re` | No |
@@ -24113,7 +24114,7 @@ Here's a list of public Fediverse services.
 | `nya.rest` | Yes |
 | `nya.show` | Yes |
 | `nya.social` | No |
-| `nyaa.app` | No |
+| `nyaa.app` | Yes |
 | `nyaa.io` | Yes |
 | `nyaa.social` | No |
 | `nyaa.tech` | Yes |
@@ -38156,7 +38157,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,108 |
+| Cloudflare | 9,109 |
 | Normal | 29,005 |
 
 
