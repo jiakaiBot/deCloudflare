@@ -67,10 +67,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | anoogohost.net | No |
 | apemlegit.my.id | No |
 | apigw.online | Yes |
-| apollohct.com | No |
 | applewebkit.dev | Yes |
 | armorrush.eu.org | No |
-| arnor.org | No |
 | art-nas.pp.ua | Yes |
 | artikel10.org | No |
 | asf1992labs.tk | No |
@@ -101,7 +99,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | blokada.org | Yes |
 | bluemeda.cf | No |
 | bluemood.me | Yes |
-| bluestarnc.com | No |
 | bobstrecansky.com | No |
 | boje8.me | Yes |
 | bosco.ovh | No |
@@ -113,7 +110,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | c-dns.com | No |
 | carson-family.com | Yes |
 | cbio.top | Yes |
-| ceai.com.tw | No |
 | cearhome.top | Yes |
 | censurfridns.dk | No |
 | cepheus0.com | Yes |
@@ -150,13 +146,11 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | d365.in | Yes |
 | d94.xyz | No |
 | d96.info | No |
-| dankatapich.eu.org | Yes |
 | darknet.bg | No |
 | data.haus | No |
 | datacore.ch | No |
 | datahata.by | No |
 | datamatter.co.za | No |
-| davidruhmann.com | Yes |
 | daw.dev | No |
 | decloudus.com | No |
 | dedyn.io | No |
@@ -175,7 +169,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | disconnect.app | Yes |
 | dlinkddns.com | No |
 | dmr.pw | Yes |
-| dns-ga.de | No |
 | dns.google | No |
 | dns.pub | No |
 | dns.sb | Yes |
@@ -246,7 +239,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | freequensi.com | Yes |
 | froth.zone | No |
 | ftp.sh | No |
-| funil.de | No |
 | funtopia.tv | Yes |
 | futa.gg | Yes |
 | gac.edu | No |
@@ -261,7 +253,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | gnb09.id | Yes |
 | goodbyegambling.com | No |
 | gosprout.org | No |
-| grantbruneau.com | No |
 | groupy.ga | No |
 | grqu.de | No |
 | gugainfo.com.br | Yes |
@@ -270,14 +261,11 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ha-dvin.pp.ua | No |
 | hafidzradhival.my.id | Yes |
 | hahnjo.de | No |
-| hakutakucn.com | Yes |
 | haneulo.com | Yes |
 | hanmey.de | No |
 | haoxuan.xyz | Yes |
-| harrache.info | Yes |
 | harriganhome.ga | No |
 | harvester.fr | Yes |
-| hdns.io | No |
 | he.net | No |
 | hee.ink | Yes |
 | heliumcloud.cc | Yes |
@@ -310,15 +298,12 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | instadart.net | No |
 | intertop.link | Yes |
 | invisv.com | No |
-| ipoac.nl | No |
 | ipv6dns.com | No |
 | irre.li | No |
 | irumatech.com | Yes |
 | isteal.info | Yes |
 | itdept.pro | Yes |
 | iucc.ac.il | No |
-| jabber-germany.de | No |
-| jabber-server.de | Yes |
 | jackyes.ovh | No |
 | jamesxue.xyz | No |
 | jeroenhd.nl | No |
@@ -347,12 +332,10 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | kescher.at | No |
 | ketan.dev | Yes |
 | keweon.center | No |
-| khanhtran.me | Yes |
 | killtw.im | Yes |
 | kngnet.de | No |
 | korks.tk | Yes |
 | korzhov.dev | No |
-| koshonsa.fr | Yes |
 | kpsn.org | Yes |
 | kreonet.net | No |
 | krnl.eu | Yes |
@@ -379,10 +362,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lspcr.space | Yes |
 | luan.contact | Yes |
 | lujiacai.top | No |
-| lululu.eu.org | No |
 | lunet.design | Yes |
 | lz0724.com | No |
-| magic-pics.tk | No |
 | mailchan.eu | Yes |
 | malwarelul.download | Yes |
 | maolaohei.xyz | No |
@@ -486,8 +467,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | project-evoex.de | No |
 | puredns.org | Yes |
 | pyry.me | Yes |
-| pzhg.me | No |
-| qis.io | No |
 | qquack.org | Yes |
 | quad9.net | Yes |
 | quentin-stoeckel.fr | No |
@@ -572,12 +551,10 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | truong.fi | Yes |
 | tu-bs.de | No |
 | tuankhaiit.com | Yes |
-| turker.info | No |
 | twnic.tw | No |
 | twtrs.com | Yes |
 | tylerwahl.com | No |
 | typaza.com | No |
-| ultima-thule.ru | Yes |
 | uncensoreddns.org | No |
 | unerror.network | Yes |
 | uni-bremen.de | No |
@@ -623,8 +600,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 263 |
-| Normal | 341 |
+| Cloudflare | 255 |
+| Normal | 326 |
 
 
-### 43.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 43.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
