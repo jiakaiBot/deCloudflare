@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,664 |
 | social | 3,641 |
-| net | 2,884 |
+| net | 2,885 |
 | org | 2,042 |
 | de | 1,921 |
 
@@ -22460,7 +22460,7 @@ Here's a list of public Fediverse services.
 | `mydns.jp` | Yes |
 | `myds.me` | No |
 | `myepicserver.de` | Yes |
-| `myexp.de` | No |
+| `myexp.de` | Yes |
 | `myfake.website` | Yes |
 | `myfamilyandfriends.net` | No |
 | `myfed.space` | No |
@@ -33691,6 +33691,7 @@ Here's a list of public Fediverse services.
 | `tiuxo.com` | Yes |
 | `tiv.today` | No |
 | `tivia.social` | No |
+| `tivy.work` | No |
 | `tix-hosting.social` | No |
 | `tiz.social` | No |
 | `tjatse.no` | Yes |
@@ -35461,6 +35462,7 @@ Here's a list of public Fediverse services.
 | `vbrandl.net` | No |
 | `vbrlabs.io` | No |
 | `vbz.net` | No |
+| `vcasskey.net` | No |
 | `vcborn.com` | Yes |
 | `vcfed.org` | No |
 | `vcity.de` | No |
@@ -37921,7 +37923,6 @@ Here's a list of public Fediverse services.
 | `zeroanarchy.com` | No |
 | `zerobeat.in` | No |
 | `zerocat.club` | No |
-| `zeroclick.xyz` | No |
 | `zerodayfri.day` | Yes |
 | `zeroes.ca` | Yes |
 | `zerohack.xyz` | No |
@@ -38168,7 +38169,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,112 |
+| Cloudflare | 9,113 |
 | Normal | 29,013 |
 
 
