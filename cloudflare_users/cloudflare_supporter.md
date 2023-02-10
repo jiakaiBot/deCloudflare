@@ -6275,6 +6275,7 @@ Do not create new issue or we will close it as duplicate.
 | [MalwarePeter@twitter](https://twitter.com/MalwarePeter/status/1604834102556893185) | advertise |
 | [malwifati@twitter](https://twitter.com/malwifati/status/1381271570304401408) | advertise |
 | [mamadukino@twitter](https://twitter.com/mamadukino/status/1589769719049244673) | advertise |
+| [mamee12145@twitter](https://twitter.com/mamee12145/status/1624070485557510144) | advertise |
 | [MamMad08079795@twitter](https://twitter.com/MamMad08079795/status/1491453521266638848) | advertise |
 | [MamMam02043349@twitter](https://twitter.com/MamMam02043349/status/1538613925004333057) | advertise |
 | [MamNaw@twitter](https://twitter.com/MamNaw/status/1400309873594691584) | advertise |
@@ -9160,6 +9161,7 @@ Do not create new issue or we will close it as duplicate.
 | [RyanLee28594985@twitter](https://twitter.com/RyanLee28594985/status/1378844547619254273) | advertise |
 | [RyanRully@twitter](https://twitter.com/RyanRully/status/1387743223737585666) | advertise |
 | [RyanSoElectric@twitter](https://twitter.com/RyanSoElectric/status/1386785297183084544) | advertise |
+| [ryazrr@twitter](https://twitter.com/ryazrr/status/1624075263129812992) | advertise |
 | [ryder8155cw@twitter](https://twitter.com/ryder8155cw/status/1397635504556937218) | advertise |
 | [RyduTempesta@twitter](https://twitter.com/RyduTempesta/status/1498907656458686470) | advertise |
 | [RyunosukeHaruki@twitter](https://twitter.com/RyunosukeHaruki/status/1390218243734835206) | advertise |
@@ -10885,6 +10887,7 @@ Do not create new issue or we will close it as duplicate.
 | [TranTua00316518@twitter](https://twitter.com/TranTua00316518/status/1503265835145904128) | advertise |
 | [TranTuanTico@twitter](https://twitter.com/TranTuanTico/status/1530249051777961985) | advertise |
 | [tranvan89033780@twitter](https://twitter.com/tranvan89033780/status/1474185476256845826) | advertise |
+| [Tranvin89298643@twitter](https://twitter.com/Tranvin89298643/status/1624070850277437445) | advertise |
 | [trappygypsy@twitter](https://twitter.com/trappygypsy/status/1382015075331014664) | advertise |
 | [travelmatebd@twitter](https://twitter.com/travelmatebd/status/1420998094452256769) | advertise |
 | [TRC_slayer@twitter](https://twitter.com/TRC_slayer/status/1546377981072838656) | advertise |
