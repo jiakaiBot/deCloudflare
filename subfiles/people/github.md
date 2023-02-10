@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Gateway timeout during schema:publish](https://github.com/kamilkisiela/graphql-hive/issues/1337)
+- [error code: 1034 on some Cloudflare IP ranges](https://github.com/MortezaBashsiz/CFScanner/issues/30)
 - [Cannot call contract methods using Cloudflare Workers](https://github.com/ethers-io/ethers.js/issues/3763)
 - [feat Use abstract controller implementation](https://github.com/pascaliske/helm-charts/issues/172)
 - [package(cloudflare_workers): Missing headers](https://github.com/invertase/dart_edge/issues/15)
