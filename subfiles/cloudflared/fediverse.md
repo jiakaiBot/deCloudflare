@@ -555,6 +555,7 @@ Here's a list of public Fediverse services.
 | `7kry.net` | No |
 | `7l7.dk` | No |
 | `7lb.de` | No |
+| `7mi.site` | Yes |
 | `7nw.eu` | Yes |
 | `7pm.org` | No |
 | `7pounds.army` | Yes |
@@ -35802,6 +35803,7 @@ Here's a list of public Fediverse services.
 | `voidwood.online` | No |
 | `voidwork.space` | No |
 | `voidworks.cc` | No |
+| `vol.red` | No |
 | `volaras.net` | No |
 | `volcanocoffee.monster` | Yes |
 | `volkomorov.ru` | Yes |
@@ -38137,8 +38139,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,094 |
-| Normal | 29,000 |
+| Cloudflare | 9,095 |
+| Normal | 29,001 |
 
 
 ### 23.9% of public Fediverse services are using Cloudflare.
