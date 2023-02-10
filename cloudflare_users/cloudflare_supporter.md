@@ -6348,6 +6348,7 @@ Do not create new issue or we will close it as duplicate.
 | [marketstock369a@twitter](https://twitter.com/marketstock369a/status/1489290822164090881) | advertise |
 | [MarketYourBizAg@twitter](https://twitter.com/MarketYourBizAg/status/1389379097118183428) | advertise |
 | [MarkGar72931609@twitter](https://twitter.com/MarkGar72931609/status/1596324947554873345) | advertise |
+| [markquitoriano@twitter](https://twitter.com/markquitoriano/status/1623900446279749632) | advertise |
 | [Marky37711385@twitter](https://twitter.com/Marky37711385/status/1401925640610369539) | advertise |
 | [Mark_Branson@twitter](https://twitter.com/Mark_Branson/status/1566240658511249411) | advertise |
 | [Mark_C_Upshaw@twitter](https://twitter.com/Mark_C_Upshaw/status/1592534802724716546) | advertise |
@@ -10439,8 +10440,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
