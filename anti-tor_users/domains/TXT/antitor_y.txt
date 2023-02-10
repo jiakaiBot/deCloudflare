@@ -362,6 +362,7 @@ amazon-olkncj.yourtrap.com
 amazon-ploi.youdontcare.com
 amazon-uytrdfg.youdontcare.com
 api.yabbr.io
+auth.yuncezhihui.com
 avito.sber.avito.git.git.git.covid19.youhollywood.com
 certificate.mobile.yandex.net
 chassis.yaw.co.jp
@@ -369,6 +370,7 @@ cis.yokosuka-uwp-energy.jp
 clicks.yodel-mobile.com
 clientdemo.yascmarketing.net
 dashboard.yamacasa.com
+dev.yokke.co.id
 dms-ajflxfgxd9report.wc.yahoodns.net
 etc-azxcdd.yourtrap.com
 github.iam-secret-scanner.yandexcloud.net
@@ -378,6 +380,7 @@ monitoring.ymc.ch
 pass.ysplay.cz
 sberbank.blablacar.git.git.git.git.covid19.youhollywood.com
 scada1.ycua.org
+support.yazo.ai
 www.billing.ydworld.world
 www.clientdemo.yascmarketing.net
 www.demoppdb.yapimjaya.sch.id
@@ -391,12 +394,14 @@ www.your-nitro.com
 www.yourbigsky.com
 www.yourc2cservice.com
 www.yourquote.in
+www.yourvpn.pro
 www.ysl.com
 www.yusupov-palace.ru
 yeublockchain.com
 ygmail.com
 yilkonyapi.com.tr
 yitracking.com
+yletros.com
 youprecedence.club
 yourmob.net
 yt1s.works
