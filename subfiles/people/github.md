@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Found no Zones for domain _acme-challenge.mydomain.com](https://github.com/cert-manager/cert-manager/issues/5800)
 - [Gateway timeout during schema:publish](https://github.com/kamilkisiela/graphql-hive/issues/1337)
 - [error code: 1034 on some Cloudflare IP ranges](https://github.com/MortezaBashsiz/CFScanner/issues/30)
 - [Cannot call contract methods using Cloudflare Workers](https://github.com/ethers-io/ethers.js/issues/3763)
