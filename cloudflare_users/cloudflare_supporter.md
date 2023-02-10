@@ -1572,6 +1572,7 @@ Do not create new issue or we will close it as duplicate.
 | [bluenote_18@twitter](https://twitter.com/bluenote_18/status/1380066714130386945) | advertise |
 | [blues_tuan@twitter](https://twitter.com/blues_tuan/status/1379313198956830723) | advertise |
 | [bluetide_co@twitter](https://twitter.com/bluetide_co/status/1600183188995072000) | advertise |
+| [blurr140@twitter](https://twitter.com/blurr140/status/1624079552409395202) | advertise |
 | [blw10210@twitter](https://twitter.com/blw10210/status/1542354724493697024) | advertise |
 | [blxxdyii@twitter](https://twitter.com/blxxdyii/status/1543838705198440448) | advertise |
 | [Bmccc1228@twitter](https://twitter.com/Bmccc1228/status/1588584506239471621) | advertise |
