@@ -6907,6 +6907,7 @@ Here's a list of public Fediverse services.
 | `cybercirujas.club` | No |
 | `cybercity.eu.org` | No |
 | `cybercrew.site` | No |
+| `cybercriminal.eu` | No |
 | `cybercriminology.nl` | No |
 | `cybercrusade.xyz` | Yes |
 | `cybercuties.net` | No |
@@ -38170,7 +38171,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,113 |
-| Normal | 29,013 |
+| Normal | 29,014 |
 
 
 ### 23.9% of public Fediverse services are using Cloudflare.
