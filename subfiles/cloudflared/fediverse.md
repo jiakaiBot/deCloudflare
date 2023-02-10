@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,651 |
-| social | 3,630 |
+| com | 5,657 |
+| social | 3,634 |
 | net | 2,881 |
 | org | 2,042 |
 | de | 1,920 |
@@ -3579,6 +3579,7 @@ Here's a list of public Fediverse services.
 | `binaryfour.de` | No |
 | `binarylife.ru` | Yes |
 | `binarystar.systems` | No |
+| `binarytales.social` | Yes |
 | `binarytango.com` | No |
 | `binaryunit.com` | No |
 | `binaryworks.ca` | Yes |
@@ -6235,6 +6236,7 @@ Here's a list of public Fediverse services.
 | `consequenceofsound.net` | No |
 | `conservative.capital` | No |
 | `consolving.de` | No |
+| `conspiracydistillery.com` | No |
 | `conspiracyfiles.net` | Yes |
 | `constant.social` | Yes |
 | `constantine.name` | No |
@@ -12271,6 +12273,7 @@ Here's a list of public Fediverse services.
 | `gergen.family` | No |
 | `gergo.city` | No |
 | `gerhardhoogterp.nl` | No |
+| `geri.be` | Yes |
 | `gerkenator.com` | Yes |
 | `germanium.top` | No |
 | `geromazza.com` | No |
@@ -16179,6 +16182,7 @@ Here's a list of public Fediverse services.
 | `joshuapsteele.com` | No |
 | `joshuas-server.com` | Yes |
 | `joshumax.me` | Yes |
+| `joshwithers.blog` | Yes |
 | `josias.dev` | No |
 | `josoko.net` | No |
 | `josta.me` | Yes |
@@ -17126,6 +17130,7 @@ Here's a list of public Fediverse services.
 | `klemorali.guru` | No |
 | `kleph.eu` | No |
 | `klg-tree.jp` | No |
+| `kliberal.com` | Yes |
 | `kliklak.net` | No |
 | `klinikowski.pl` | No |
 | `klinikretter.de` | Yes |
@@ -17999,6 +18004,7 @@ Here's a list of public Fediverse services.
 | `leastfixedpoint.com` | No |
 | `leatherdyk.es` | No |
 | `leathfam.com` | Yes |
+| `leavesunderfoot.com` | Yes |
 | `lebalkon.de` | No |
 | `lebe.gg` | No |
 | `lebeaunuage.net` | No |
@@ -18181,6 +18187,7 @@ Here's a list of public Fediverse services.
 | `lescorpsdereve.space` | Yes |
 | `lesharris.com` | No |
 | `lesinfos.top` | No |
+| `leskor.com` | Yes |
 | `leskowsky.net` | Yes |
 | `lespocky.de` | No |
 | `lespoesiesdheloise.fr` | No |
@@ -20455,7 +20462,7 @@ Here's a list of public Fediverse services.
 | `max-fun.de` | No |
 | `max.town` | Yes |
 | `maxdec.fr` | Yes |
-| `maxim.com` | No |
+| `maxim.com` | Yes |
 | `maximalists.club` | No |
 | `maximandreev.de` | No |
 | `maximbaz.com` | No |
@@ -24281,6 +24288,7 @@ Here's a list of public Fediverse services.
 | `oe7drt.com` | Yes |
 | `oekaki.st` | No |
 | `oeks.de` | No |
+| `oelabs.co` | Yes |
 | `oer.me` | No |
 | `oer.social` | No |
 | `oer.today` | No |
@@ -25158,6 +25166,7 @@ Here's a list of public Fediverse services.
 | `pacmanfan.co.nz` | No |
 | `pacna.org` | No |
 | `paco.to` | No |
+| `pacoandpals.com` | No |
 | `pad23.com` | Yes |
 | `padayon.net` | No |
 | `paddlefish.net` | No |
@@ -25670,6 +25679,7 @@ Here's a list of public Fediverse services.
 | `perthchat.org` | Yes |
 | `pertinent-ops.com` | No |
 | `pertur.be` | No |
+| `peruano.social` | No |
 | `pescada.pt` | No |
 | `peshane.net` | No |
 | `pesso.al` | No |
@@ -26722,6 +26732,7 @@ Here's a list of public Fediverse services.
 | `privacy.fyi` | No |
 | `privacy.tk` | No |
 | `privacyfirst.social` | No |
+| `privacyfocus.it` | No |
 | `privacyguides.org` | Yes |
 | `privacyhub.xyz` | No |
 | `privacyinternational.org` | Yes |
@@ -31609,6 +31620,7 @@ Here's a list of public Fediverse services.
 | `stodon.com` | No |
 | `stodon.fr` | No |
 | `stoecker.me` | No |
+| `stoepflora.nl` | No |
 | `stoffstromer.de` | No |
 | `stogramm.xyz` | No |
 | `stoicsounds.jp` | No |
@@ -32454,6 +32466,7 @@ Here's a list of public Fediverse services.
 | `tapesoftware.net` | No |
 | `tapferimnirgendwo.com` | No |
 | `tapi.cafe` | No |
+| `tapir.social` | No |
 | `tappret.fr` | No |
 | `taprest.fr` | No |
 | `taprix.org` | No |
@@ -32887,6 +32900,7 @@ Here's a list of public Fediverse services.
 | `tf.au` | Yes |
 | `tf.fi` | Yes |
 | `tfdn.cloud` | Yes |
+| `tfemily.com` | No |
 | `tfk.one` | No |
 | `tfl.net.pl` | No |
 | `tfnux.org` | No |
@@ -35530,6 +35544,7 @@ Here's a list of public Fediverse services.
 | `vexingworkshop.com` | No |
 | `vffsm.de` | No |
 | `vfpmedia.com` | No |
+| `vfx.social` | No |
 | `vgai.de` | No |
 | `vgc.social` | No |
 | `vger.cloud` | Yes |
@@ -38119,8 +38134,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,084 |
-| Normal | 28,992 |
+| Cloudflare | 9,092 |
+| Normal | 28,999 |
 
 
 ### 23.9% of public Fediverse services are using Cloudflare.
