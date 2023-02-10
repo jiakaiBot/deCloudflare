@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,657 |
+| com | 5,658 |
 | social | 3,635 |
 | net | 2,881 |
 | org | 2,042 |
@@ -5089,6 +5089,7 @@ Here's a list of public Fediverse services.
 | `catwuschel.com` | No |
 | `cau.se` | No |
 | `caucus.social` | No |
+| `causa-arcana.com` | Yes |
 | `causticretail.org` | No |
 | `cavac.at` | No |
 | `cavalca.name` | Yes |
@@ -21333,6 +21334,7 @@ Here's a list of public Fediverse services.
 | `misskey.ai` | No |
 | `misskey.art` | Yes |
 | `misskey.at` | No |
+| `misskey.beer` | No |
 | `misskey.cf` | Yes |
 | `misskey.cloud` | Yes |
 | `misskey.club` | Yes |
@@ -38135,8 +38137,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,093 |
-| Normal | 28,999 |
+| Cloudflare | 9,094 |
+| Normal | 29,000 |
 
 
 ### 23.9% of public Fediverse services are using Cloudflare.
