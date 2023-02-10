@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot call contract methods using Cloudflare Workers](https://github.com/ethers-io/ethers.js/issues/3763)
 - [feat Use abstract controller implementation](https://github.com/pascaliske/helm-charts/issues/172)
 - [package(cloudflare_workers): Missing headers](https://github.com/invertase/dart_edge/issues/15)
 - [macOS / Ctrld 1.1 / Client.Timeout](https://github.com/Control-D-Inc/ctrld/issues/19)
