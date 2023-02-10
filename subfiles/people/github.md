@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [feat Use abstract controller implementation](https://github.com/pascaliske/helm-charts/issues/172)
 - [package(cloudflare_workers): Missing headers](https://github.com/invertase/dart_edge/issues/15)
 - [macOS / Ctrld 1.1 / Client.Timeout](https://github.com/Control-D-Inc/ctrld/issues/19)
 - [Idea Is there a way to let cloudflare tunnel to proxy naiveproxy traffic?](https://github.com/klzgrad/naiveproxy/issues/462)
