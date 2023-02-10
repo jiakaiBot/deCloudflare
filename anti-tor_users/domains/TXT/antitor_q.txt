@@ -244,6 +244,7 @@ yourbooking.qantas.com.au
 accountmanager.queue-it.net
 amazon-rfdgh.qpoe.com
 api.os.qiku.com
+api.qv-veeva.com
 cdn03.qrcodechimp.com
 eki-net.com.qohz.cn
 eki-net.com.qoig.cn
@@ -266,6 +267,7 @@ quafrizz.co.za
 qualityhealingnewz.com
 queenbeedisabilitysupport.com
 queseriesver.es
+questionmyfaith.com
 quibitechmining.com
 quick2service.in
 quickbookhelpdesk.com
