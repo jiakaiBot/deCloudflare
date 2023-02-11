@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [TypeError: _run_cloudflared() missing 1 required positional argument: 'metrics_port'](https://github.com/ebolam/KoboldAI/issues/366)
 - [CloudFlare Cloudflare Workers Availability Issues in China](https://github.com/MatBenfield/news/issues/9544)
 - [Cloudflare workers FinalizationRegistry not defined](https://github.com/automerge/automerge/issues/532)
 - [Found no Zones for domain _acme-challenge.mydomain.com](https://github.com/cert-manager/cert-manager/issues/5800)
