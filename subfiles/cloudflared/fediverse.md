@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,681 |
+| com | 5,683 |
 | social | 3,656 |
-| net | 2,891 |
+| net | 2,893 |
 | org | 2,043 |
 | de | 1,923 |
 
@@ -5340,6 +5340,7 @@ Here's a list of public Fediverse services.
 | `chatalk.club` | No |
 | `chatamerica.us` | No |
 | `chatan.cc` | Yes |
+| `chatbett.com` | Yes |
 | `chatbox.social` | No |
 | `chatch.at` | No |
 | `chatdespair.com` | No |
@@ -9071,6 +9072,7 @@ Here's a list of public Fediverse services.
 | `edelmann.bond` | Yes |
 | `eden.one` | No |
 | `edgarogh.fr` | No |
+| `edgarpierre.fr` | No |
 | `edge4cube.work` | Yes |
 | `edgecats.network` | No |
 | `edgerunner.network` | No |
@@ -15503,6 +15505,7 @@ Here's a list of public Fediverse services.
 | `itsronny.de` | No |
 | `itsukey.cf` | No |
 | `itsukey.jp` | No |
+| `itsukey.net` | No |
 | `itsybitsysissy.eu` | No |
 | `itsysadm.in` | No |
 | `itsze.ro` | No |
@@ -17567,6 +17570,7 @@ Here's a list of public Fediverse services.
 | `kudzu.ca` | No |
 | `kuecker.eu` | No |
 | `kueckieben.de` | No |
+| `kuehnert.io` | No |
 | `kuenet.ch` | No |
 | `kuenstlerquadrat.de` | No |
 | `kuester7.com` | No |
@@ -17944,6 +17948,7 @@ Here's a list of public Fediverse services.
 | `lauderdale.social` | No |
 | `lauercloud.de` | No |
 | `laughingsquid.com` | Yes |
+| `lauka.space` | No |
 | `launay.org` | No |
 | `laundromat.me` | No |
 | `laura.social` | No |
@@ -24424,6 +24429,7 @@ Here's a list of public Fediverse services.
 | `ohai.su` | No |
 | `ohana.stream` | No |
 | `ohayo.social` | No |
+| `ohbear.wtf` | No |
 | `ohbutt.com` | Yes |
 | `ohdesi.re` | No |
 | `ohelig.me` | Yes |
@@ -27468,6 +27474,7 @@ Here's a list of public Fediverse services.
 | `racing-lagoon.info` | No |
 | `rack.social` | Yes |
 | `raconteur.ink` | No |
+| `racquetbookclub.com` | No |
 | `radar.fail` | No |
 | `radbox.org` | No |
 | `raddemo.host` | No |
@@ -28568,6 +28575,7 @@ Here's a list of public Fediverse services.
 | `ronguest.net` | No |
 | `rongyi.io` | Yes |
 | `ronin.world` | No |
+| `ronnilix.eu` | No |
 | `roobre.es` | No |
 | `roocita.com` | Yes |
 | `rookieo.com` | No |
@@ -36887,6 +36895,7 @@ Here's a list of public Fediverse services.
 | `words.social` | Yes |
 | `wordsmith.social` | No |
 | `wordsmith.world` | No |
+| `wordy-rappinghood.net` | No |
 | `wordy.gdn` | Yes |
 | `worf.win` | No |
 | `worgames.com` | No |
@@ -37269,7 +37278,7 @@ Here's a list of public Fediverse services.
 | `xn--fiqwix98h.jp` | No |
 | `xn--geldwsche24-p8a.eu` | No |
 | `xn--groovebro-w9a.de` | No |
-| `xn--gu1a.moe` | No |
+| `xn--gu1a.moe` | Yes |
 | `xn--h1ahnbk7d.xn--p1ai` | No |
 | `xn--h9j8c2bz77yyo5a.com` | No |
 | `xn--hea.nz` | No |
@@ -38245,8 +38254,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,152 |
-| Normal | 29,050 |
+| Cloudflare | 9,154 |
+| Normal | 29,057 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
