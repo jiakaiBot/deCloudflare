@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,683 |
+| com | 5,684 |
 | social | 3,656 |
 | net | 2,893 |
 | org | 2,043 |
@@ -14316,6 +14316,7 @@ Here's a list of public Fediverse services.
 | `hotpot.social` | No |
 | `hotspiderdemonsinyourarea.com` | No |
 | `hottake.city` | No |
+| `hotwaru.com` | No |
 | `hotwife.social` | No |
 | `houbahouba.de` | No |
 | `houchouas.name` | No |
@@ -16729,6 +16730,7 @@ Here's a list of public Fediverse services.
 | `kay26.de` | No |
 | `kayloehmann.de` | No |
 | `kaylon.org` | No |
+| `kazahana.cafe` | Yes |
 | `kazantsev.fun` | No |
 | `kazar.ma` | No |
 | `kazatsuyu.com` | Yes |
@@ -38255,8 +38257,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,155 |
-| Normal | 29,057 |
+| Cloudflare | 9,156 |
+| Normal | 29,058 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
