@@ -4537,6 +4537,7 @@ Do not create new issue or we will close it as duplicate.
 | [JaeRinKim7@twitter](https://twitter.com/JaeRinKim7/status/1396481821047607300) | advertise |
 | [Jagannatham66@twitter](https://twitter.com/Jagannatham66/status/1539237215628304386) | advertise |
 | [Jagdish70911049@twitter](https://twitter.com/Jagdish70911049/status/1383679712208199682) | advertise |
+| [Jahansafi128@twitter](https://twitter.com/Jahansafi128/status/1624359389606862848) | advertise |
 | [JahanTulip@twitter](https://twitter.com/JahanTulip/status/1394853895973720064) | advertise |
 | [Jahidul55686473@twitter](https://twitter.com/Jahidul55686473/status/1533044377983291393) | advertise |
 | [jahji3@twitter](https://twitter.com/jahji3/status/1551128863849062400) | advertise |
