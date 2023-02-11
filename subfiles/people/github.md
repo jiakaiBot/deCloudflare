@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [1337x (testing) Exception (1337x): The cookies provided by FlareSolverr are not valid: The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/700)
 - [TypeError: _run_cloudflared() missing 1 required positional argument: 'metrics_port'](https://github.com/ebolam/KoboldAI/issues/366)
 - [CloudFlare Cloudflare Workers Availability Issues in China](https://github.com/MatBenfield/news/issues/9544)
 - [Cloudflare workers FinalizationRegistry not defined](https://github.com/automerge/automerge/issues/532)
