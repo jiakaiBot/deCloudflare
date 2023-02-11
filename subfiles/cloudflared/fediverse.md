@@ -305,7 +305,7 @@ Here's a list of public Fediverse services.
 | `2muchin4mation.com` | No |
 | `2n3904.net` | No |
 | `2ndamendment.social` | No |
-| `2orb.de` | No |
+| `2orb.de` | Yes |
 | `2ot.fun` | No |
 | `2p.gg` | Yes |
 | `2pp.uk` | Yes |
@@ -22983,7 +22983,7 @@ Here's a list of public Fediverse services.
 | `nekocave.xyz` | Yes |
 | `nekoconeko.nl` | No |
 | `nekocross.xyz` | Yes |
-| `nekodai.ski` | No |
+| `nekodai.ski` | Yes |
 | `nekoea.red` | No |
 | `nekogenesis.com` | No |
 | `nekohell.eu` | Yes |
@@ -27769,7 +27769,7 @@ Here's a list of public Fediverse services.
 | `rbq.press` | Yes |
 | `rbq.pw` | Yes |
 | `rbq.social` | Yes |
-| `rbrdog.xyz` | No |
+| `rbrdog.xyz` | Yes |
 | `rbs.io` | No |
 | `rbvea.co` | Yes |
 | `rbx.rip` | Yes |
@@ -27900,7 +27900,7 @@ Here's a list of public Fediverse services.
 | `redmi233.tk` | No |
 | `redmine.jp` | No |
 | `rednblack.net` | Yes |
-| `redneck.cloud` | No |
+| `redneck.cloud` | Yes |
 | `rednosehacker.com` | No |
 | `redowl.org` | No |
 | `redp.icu` | Yes |
@@ -35055,7 +35055,7 @@ Here's a list of public Fediverse services.
 | `underworld.social` | Yes |
 | `underza.net` | No |
 | `undisruptable.technology` | No |
-| `undo.it` | No |
+| `undo.it` | Yes |
 | `undrground.org` | Yes |
 | `une33.club` | No |
 | `uneex.net` | No |
@@ -37958,6 +37958,7 @@ Here's a list of public Fediverse services.
 | `zepa.org` | No |
 | `zepfanman.com` | No |
 | `zepher.dev` | Yes |
+| `zephyr.place` | Yes |
 | `zepi.social` | No |
 | `zeppelin.flights` | No |
 | `zeptar.org` | No |
@@ -38218,8 +38219,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,137 |
-| Normal | 29,038 |
+| Cloudflare | 9,143 |
+| Normal | 29,033 |
 
 
 ### 23.9% of public Fediverse services are using Cloudflare.
