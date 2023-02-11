@@ -28666,6 +28666,7 @@ Here's a list of public Fediverse services.
 | `royalhellcustoms.com` | No |
 | `royaltechnology.net` | Yes |
 | `royniang.com` | No |
+| `roysbeer.place` | No |
 | `royscholten.nl` | No |
 | `roytang.net` | Yes |
 | `royvanlunsen.nl` | No |
@@ -37685,7 +37686,7 @@ Here's a list of public Fediverse services.
 | `york.social` | Yes |
 | `yorklocal.org` | Yes |
 | `yorkshire.social` | Yes |
-| `yoroshiku.net` | No |
+| `yoroshiku.net` | Yes |
 | `yorozu-sys.net` | No |
 | `yorrike.com` | No |
 | `yorugatanokuni.com` | No |
@@ -38262,7 +38263,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,158 |
+| Cloudflare | 9,159 |
 | Normal | 29,061 |
 
 
