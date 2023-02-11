@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,684 |
+| com | 5,685 |
 | social | 3,656 |
-| net | 2,893 |
+| net | 2,894 |
 | org | 2,043 |
 | de | 1,923 |
 
@@ -1426,6 +1426,7 @@ Here's a list of public Fediverse services.
 | `alpaka.pictures` | No |
 | `alpaka.social` | No |
 | `alpega.space` | No |
+| `alpha-omega.space` | No |
 | `alphago.co` | No |
 | `alphakilo.eu` | Yes |
 | `alphapi.me` | No |
@@ -35789,6 +35790,7 @@ Here's a list of public Fediverse services.
 | `viridianpatriots.com` | No |
 | `viridiome.ga` | No |
 | `virintox.com` | No |
+| `virtecam.net` | No |
 | `virton13.ovh` | No |
 | `virtual-assembly.org` | No |
 | `virtual-kaf.fun` | Yes |
@@ -37785,6 +37787,7 @@ Here's a list of public Fediverse services.
 | `yukimochi.io` | Yes |
 | `yukimochi.jp` | No |
 | `yukineko.me` | Yes |
+| `yukioke.com` | No |
 | `yukisou.xyz` | No |
 | `yukitsukuura.jp` | No |
 | `yukiya.me` | No |
@@ -38260,7 +38263,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,158 |
-| Normal | 29,058 |
+| Normal | 29,061 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
