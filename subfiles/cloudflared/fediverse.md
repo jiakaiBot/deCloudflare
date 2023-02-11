@@ -1335,6 +1335,7 @@ Here's a list of public Fediverse services.
 | `aliceice.de` | No |
 | `aliceriverpark.pw` | No |
 | `alicevie.space` | Yes |
+| `alicey.dev` | No |
 | `alicia.ne.jp` | No |
 | `alid.pw` | No |
 | `aliel.fr` | No |
@@ -6096,7 +6097,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -38254,7 +38255,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,154 |
+| Cloudflare | 9,155 |
 | Normal | 29,057 |
 
 
