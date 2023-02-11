@@ -1263,6 +1263,7 @@ Do not create new issue or we will close it as duplicate.
 | [a_rahnavard@twitter](https://twitter.com/a_rahnavard/status/1573282935796805636) | advertise |
 | [b0rzoff@twitter](https://twitter.com/b0rzoff/status/1409774769717792769) | moral (advertise) |
 | [B0t51@twitter](https://twitter.com/B0t51/status/1390031961192734720) | advertise |
+| [B4LE01@twitter](https://twitter.com/B4LE01/status/1624404474570903553) | advertise |
 | [B4TNarobae@twitter](https://twitter.com/B4TNarobae/status/1587792556192333824) | advertise |
 | [b7b4c7d8e0a04ec@twitter](https://twitter.com/b7b4c7d8e0a04ec/status/1505572845442662401) | advertise |
 | [ba11z1@twitter](https://twitter.com/ba11z1/status/1585907997930188800) | advertise |
