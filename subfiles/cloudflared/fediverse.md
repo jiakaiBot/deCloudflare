@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,664 |
-| social | 3,642 |
+| social | 3,643 |
 | net | 2,886 |
 | org | 2,042 |
 | de | 1,921 |
@@ -4165,6 +4165,7 @@ Here's a list of public Fediverse services.
 | `bootybaesquad.uk` | No |
 | `booya.cool` | No |
 | `boozerboozeman.xyz` | No |
+| `boozy.social` | No |
 | `bopinions.de` | No |
 | `bora.army` | No |
 | `borahae.love` | No |
@@ -6083,7 +6084,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -38175,8 +38176,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,117 |
-| Normal | 29,015 |
+| Cloudflare | 9,116 |
+| Normal | 29,017 |
 
 
 ### 23.9% of public Fediverse services are using Cloudflare.
