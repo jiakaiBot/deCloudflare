@@ -123,13 +123,10 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cintra.ml | No |
 | cira.ca | Yes |
 | circl.lu | No |
-| cirruscloud.it | No |
 | clanless.ovh | Yes |
-| clawsucht.nrw | Yes |
 | clearviewtechnology.net | No |
 | cloud-sekeng.com | No |
 | cloudflare-dns.com | Yes |
-| cloudlinz.de | No |
 | cloudmini.net | Yes |
 | cloudnx.cloud | Yes |
 | cloudseriousshit.com | Yes |
@@ -235,7 +232,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | frankslabs.org | No |
 | frece.de | No |
 | freeboxos.fr | No |
-| freegod.ml | No |
 | freequensi.com | Yes |
 | froth.zone | No |
 | ftp.sh | No |
@@ -248,11 +244,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ggdns.club | No |
 | ggrbb.xyz | No |
 | ghost.pm | No |
-| giaan.org | Yes |
 | ginovs.nl | No |
 | gnb09.id | Yes |
-| goodbyegambling.com | No |
-| gosprout.org | No |
 | groupy.ga | No |
 | grqu.de | No |
 | gugainfo.com.br | Yes |
@@ -356,7 +349,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lindung.pp.ua | Yes |
 | lingmont.net | No |
 | linkr.ninja | No |
-| lrdnet.cf | No |
 | lsasss.com | No |
 | lsho.top | Yes |
 | lspcr.space | Yes |
@@ -400,7 +392,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | murgi.de | No |
 | muxinghe.cn | Yes |
 | muxyuji.ru | No |
-| my.to | Yes |
 | myddns.me | No |
 | myddns.org | No |
 | mydns.network | Yes |
@@ -448,7 +439,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | onedns.net | No |
 | ooroot.com | No |
 | opendns.com | Yes |
-| opennameserver.org | No |
 | opnsource.com.au | Yes |
 | ozer.im | No |
 | paesa.es | Yes |
@@ -458,7 +448,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | piekacz.pl | No |
 | pigs.eu.org | No |
 | pitnetdns.ga | No |
-| plan9-dns.com | No |
 | pleumkungz.com | Yes |
 | port53.dk | No |
 | porteii.com | Yes |
@@ -532,7 +521,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | techcpu.net | Yes |
 | tek411.com | No |
 | telekom.de | Yes |
-| teng.sh | No |
 | teradns.org | Yes |
 | terumi.club | No |
 | tezoi.com | No |
@@ -600,8 +588,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 255 |
-| Normal | 326 |
+| Cloudflare | 252 |
+| Normal | 317 |
 
 
-### 43.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
