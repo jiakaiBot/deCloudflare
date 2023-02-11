@@ -9939,6 +9939,7 @@ Here's a list of public Fediverse services.
 | `exactly.news` | No |
 | `exan.tech` | Yes |
 | `exanimate.net` | No |
+| `exapieco.jp` | No |
 | `excbadacc.es` | Yes |
 | `excelereight.tk` | No |
 | `exceptional.party` | No |
@@ -17203,6 +17204,7 @@ Here's a list of public Fediverse services.
 | `kmr.me` | Yes |
 | `kmrs.org` | No |
 | `kmruddy.com` | No |
+| `kmy.blue` | Yes |
 | `kmyd.moe` | No |
 | `kn-cloud.de` | No |
 | `knallimall.org` | No |
@@ -31523,7 +31525,7 @@ Here's a list of public Fediverse services.
 | `starnix.network` | Yes |
 | `staropa.net` | Yes |
 | `starrevolution.org` | No |
-| `starrwulfe.xyz` | No |
+| `starrwulfe.xyz` | Yes |
 | `starry.day` | No |
 | `starry.ml` | No |
 | `starrycocoon.ml` | No |
@@ -38243,7 +38245,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,150 |
+| Cloudflare | 9,152 |
 | Normal | 29,050 |
 
 
