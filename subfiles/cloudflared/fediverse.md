@@ -5263,6 +5263,7 @@ Here's a list of public Fediverse services.
 | `chameth.com` | No |
 | `chamook.lol` | No |
 | `champagne.io` | No |
+| `championpictures.at` | No |
 | `champis.social` | No |
 | `champlain.cc` | Yes |
 | `chancellor.cc` | No |
@@ -31093,7 +31094,7 @@ Here's a list of public Fediverse services.
 | `soundbyte.social` | No |
 | `soundcafe.nl` | No |
 | `soundcheck.fr` | No |
-| `soundforsound.co.uk` | No |
+| `soundforsound.co.uk` | Yes |
 | `soundfury.net` | No |
 | `soundship.de` | No |
 | `soup6020.dev` | No |
@@ -34629,6 +34630,7 @@ Here's a list of public Fediverse services.
 | `tuiter.rocks` | No |
 | `tuitort.cat` | No |
 | `tuiwen.live` | No |
+| `tuki.dev` | Yes |
 | `tukkers.online` | No |
 | `tuktube.com` | No |
 | `tulip.blue` | No |
@@ -38257,7 +38259,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,156 |
+| Cloudflare | 9,158 |
 | Normal | 29,058 |
 
 
