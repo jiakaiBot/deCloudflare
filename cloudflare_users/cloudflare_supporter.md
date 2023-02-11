@@ -2751,6 +2751,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dya72255408@twitter](https://twitter.com/Dya72255408/status/1406552108002840576) | advertise |
 | [DyamannaPojari@twitter](https://twitter.com/DyamannaPojari/status/1398619196183875593) | advertise |
 | [Dyennn2212@twitter](https://twitter.com/Dyennn2212/status/1607289204115140608) | advertise |
+| [DylanLe50118011@twitter](https://twitter.com/DylanLe50118011/status/1624240404714426370) | advertise |
 | [DylanPhan14@twitter](https://twitter.com/DylanPhan14/status/1379077937966710798) | advertise |
 | [DySay4@twitter](https://twitter.com/DySay4/status/1446314593387642884) | advertise |
 | [Dz01019558@twitter](https://twitter.com/Dz01019558/status/1553125143349952512) | advertise |
@@ -2801,6 +2802,7 @@ Do not create new issue or we will close it as duplicate.
 | [edgymane@twitter](https://twitter.com/edgymane/status/1423841971265687552) | advertise |
 | [edin225883@twitter](https://twitter.com/edin225883/status/1614267643061477379) | advertise |
 | [editing_hero@twitter](https://twitter.com/editing_hero/status/1370248075189448711) | advertise |
+| [Edmond01972656@twitter](https://twitter.com/Edmond01972656/status/1624235307599294464) | advertise |
 | [edm_thien@twitter](https://twitter.com/edm_thien/status/1400004176311046144) | advertise |
 | [edneymedeiros@twitter](https://twitter.com/edneymedeiros/status/1582791777853280256) | advertise |
 | [edrandall@twitter](https://twitter.com/edrandall/status/1620085641899040768) | advertise |
@@ -9907,6 +9909,7 @@ Do not create new issue or we will close it as duplicate.
 | [spychalski_luk@twitter](https://twitter.com/spychalski_luk/status/1575255362193825793) | advertise |
 | [spzooky@twitter](https://twitter.com/spzooky/status/1556649865710473216) | advertise |
 | [SQUIDMANGA@twitter](https://twitter.com/SQUIDMANGA/status/1550594180799422468) | advertise |
+| [Srealisreal@twitter](https://twitter.com/Srealisreal/status/1624264304915791872) | advertise |
 | [Sreejit13700215@twitter](https://twitter.com/Sreejit13700215/status/1388191035029823488) | advertise |
 | [sriyogeshkumar1@twitter](https://twitter.com/sriyogeshkumar1/status/1478380858981638146) | advertise |
 | [srl_donglink@twitter](https://twitter.com/srl_donglink/status/1515773433921310721) | advertise |
@@ -10132,6 +10135,7 @@ Do not create new issue or we will close it as duplicate.
 | [Taejas3@twitter](https://twitter.com/Taejas3/status/1398096510802268160) | advertise |
 | [TaeniaSaginata7@twitter](https://twitter.com/TaeniaSaginata7/status/1380026644589473793) | advertise |
 | [taetaewonderla1@twitter](https://twitter.com/taetaewonderla1/status/1401205775628832776) | advertise |
+| [Taeyeon47077149@twitter](https://twitter.com/Taeyeon47077149/status/1624347311735447552) | advertise |
 | [tahung12345678@twitter](https://twitter.com/tahung12345678/status/1391180261518282752) | advertise |
 | [tai25381999@twitter](https://twitter.com/tai25381999/status/1400114995506008066) | advertise |
 | [tai58342704@twitter](https://twitter.com/tai58342704/status/1557035585038012416) | advertise |
@@ -11029,6 +11033,7 @@ Do not create new issue or we will close it as duplicate.
 | [TUAN74461461@twitter](https://twitter.com/TUAN74461461/status/1407565032620056581) | advertise |
 | [TuanAnh00992166@twitter](https://twitter.com/TuanAnh00992166/status/1484853433605967877) | advertise |
 | [TuanAnh84827709@twitter](https://twitter.com/TuanAnh84827709/status/1396374291449479169) | advertise |
+| [tuananhle11199@twitter](https://twitter.com/tuananhle11199/status/1624282311503265792) | advertise |
 | [TuanCuong_24@twitter](https://twitter.com/TuanCuong_24/status/1491066171663466499) | advertise |
 | [TuanDan48@twitter](https://twitter.com/TuanDan48/status/1508407933150765056) | advertise |
 | [TuanDo60212814@twitter](https://twitter.com/TuanDo60212814/status/1597020296418324481) | advertise |
