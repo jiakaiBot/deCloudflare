@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,675 |
+| com | 5,681 |
 | social | 3,652 |
-| net | 2,889 |
+| net | 2,891 |
 | org | 2,043 |
 | de | 1,922 |
 
@@ -167,6 +167,7 @@ Here's a list of public Fediverse services.
 | `10qt.net` | No |
 | `10vorne.eu` | No |
 | `10x.sh` | Yes |
+| `1132don.com` | No |
 | `114514.xyz` | Yes |
 | `117.social` | No |
 | `117net.co.uk` | Yes |
@@ -369,6 +370,7 @@ Here's a list of public Fediverse services.
 | `3ischn.de` | No |
 | `3j.no` | No |
 | `3mivon.net` | No |
+| `3naly.xyz` | No |
 | `3q3.de` | Yes |
 | `3rdstone.cc` | Yes |
 | `3rdstone.uk` | Yes |
@@ -691,6 +693,7 @@ Here's a list of public Fediverse services.
 | `aas.wtf` | No |
 | `aasg.name` | No |
 | `aatame3.net` | Yes |
+| `ab2m.cf` | Yes |
 | `abacusswitch.me` | No |
 | `abaft.co` | No |
 | `abandonedsocialnetwork.com` | No |
@@ -4657,6 +4660,7 @@ Here's a list of public Fediverse services.
 | `butts.team` | No |
 | `buttsex.restaurant` | No |
 | `butwithgod.cn` | No |
+| `buu.re` | No |
 | `buzeet.com` | No |
 | `buzhangjiuzhou.com` | Yes |
 | `buzon.uy` | No |
@@ -6563,7 +6567,7 @@ Here's a list of public Fediverse services.
 | `crime.team` | Yes |
 | `crimes.consulting` | No |
 | `crimethink.top` | No |
-| `crimetime.online` | No |
+| `crimetime.online` | Yes |
 | `crimew.gay` | No |
 | `criminallycute.fi` | No |
 | `criminallycute.stream` | No |
@@ -13357,6 +13361,7 @@ Here's a list of public Fediverse services.
 | `hal.ai` | No |
 | `hal.codes` | Yes |
 | `hal9.ooo` | No |
+| `halby24.com` | No |
 | `half-shot.uk` | No |
 | `halfacree.co.uk` | Yes |
 | `halfast.com` | No |
@@ -13490,6 +13495,7 @@ Here's a list of public Fediverse services.
 | `harumakizaemon.net` | No |
 | `harusamex.com` | No |
 | `haruska.social` | Yes |
+| `haruyjsn.net` | No |
 | `harvard.edu` | Yes |
 | `harvestasya.org` | Yes |
 | `harz.social` | No |
@@ -14299,6 +14305,7 @@ Here's a list of public Fediverse services.
 | `hoteltoday.tokyo` | No |
 | `hotfemboy.pics` | Yes |
 | `hotfreshporn.com` | No |
+| `hotman78.com` | Yes |
 | `hoto.rocks` | Yes |
 | `hoto.us` | Yes |
 | `hotpot.social` | No |
@@ -19132,6 +19139,7 @@ Here's a list of public Fediverse services.
 | `lukaroose.nl` | No |
 | `lukasrosenstock.net` | No |
 | `lukaszkopczyk.com` | No |
+| `luke256.dev` | No |
 | `lukeaddison.com` | No |
 | `lukec.me` | Yes |
 | `lukehebb.com` | No |
@@ -19477,6 +19485,7 @@ Here's a list of public Fediverse services.
 | `mailstation.de` | No |
 | `mailtrix.app` | No |
 | `main-angler.de` | No |
+| `mainasuk.com` | Yes |
 | `maindreieck-tv.de` | No |
 | `maindron.io` | No |
 | `mainesocial.xyz` | No |
@@ -21413,6 +21422,7 @@ Here's a list of public Fediverse services.
 | `misskey.tech` | Yes |
 | `misskey.to` | No |
 | `misskey.uk` | Yes |
+| `misskey.vip` | Yes |
 | `misskey.wine` | Yes |
 | `misskey.work` | No |
 | `misskey.world` | No |
@@ -28664,6 +28674,7 @@ Here's a list of public Fediverse services.
 | `rpz.su` | No |
 | `rrrrrichard.social` | Yes |
 | `rs-einrich.de` | No |
+| `rs64.net` | Yes |
 | `rsch.club` | No |
 | `rsch.social` | No |
 | `rse43.com` | Yes |
@@ -29727,6 +29738,7 @@ Here's a list of public Fediverse services.
 | `selexco.net` | No |
 | `self-hosted.site` | No |
 | `self.social` | No |
+| `selfdon.com` | No |
 | `selfhost.co` | No |
 | `selfhost.de` | No |
 | `selfhost.lol` | Yes |
@@ -37731,6 +37743,7 @@ Here's a list of public Fediverse services.
 | `yue.cat` | Yes |
 | `yufarch.com` | No |
 | `yufushiro.dev` | Yes |
+| `yug1224.com` | No |
 | `yugioh.social` | No |
 | `yuicho.net` | Yes |
 | `yujinakao.com` | No |
@@ -37777,6 +37790,7 @@ Here's a list of public Fediverse services.
 | `yurikonanao.cloud` | No |
 | `yurisora.com` | No |
 | `yuritopia.net` | No |
+| `yuru.site` | Yes |
 | `yuru.studio` | Yes |
 | `yuruchara.info` | Yes |
 | `yuruyuri.family` | No |
@@ -38150,6 +38164,7 @@ Here's a list of public Fediverse services.
 | `zspn.me` | Yes |
 | `zteo.com` | Yes |
 | `ztn.sh` | Yes |
+| `ztrehagem.dev` | No |
 | `ztrl.de` | No |
 | `zu1k.com` | Yes |
 | `zu2.org` | No |
@@ -38223,8 +38238,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,141 |
-| Normal | 29,039 |
+| Cloudflare | 9,148 |
+| Normal | 29,047 |
 
 
-### 23.9% of public Fediverse services are using Cloudflare.
+### 24% of public Fediverse services are using Cloudflare.
