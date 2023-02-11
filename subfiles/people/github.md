@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Workers Availability Issues in China](https://github.com/MatBenfield/news/issues/9544)
 - [Cloudflare workers FinalizationRegistry not defined](https://github.com/automerge/automerge/issues/532)
 - [Found no Zones for domain _acme-challenge.mydomain.com](https://github.com/cert-manager/cert-manager/issues/5800)
 - [Gateway timeout during schema:publish](https://github.com/kamilkisiela/graphql-hive/issues/1337)
