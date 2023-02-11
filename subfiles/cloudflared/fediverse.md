@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,674 |
+| com | 5,675 |
 | social | 3,652 |
 | net | 2,889 |
 | org | 2,043 |
-| de | 1,921 |
+| de | 1,922 |
 
 
 - Mastodon, Pleroma, etc
@@ -6794,7 +6794,7 @@ Here's a list of public Fediverse services.
 | `cultofshiv.wtf` | No |
 | `cultofzoe.com` | No |
 | `cultur.social` | No |
-| `cultura.gov.br` | No |
+| `cultura.gov.br` | Yes |
 | `culturaeinnovacion.social` | No |
 | `culturedigitally.org` | No |
 | `culturewar.radio` | No |
@@ -15522,6 +15522,7 @@ Here's a list of public Fediverse services.
 | `ivsu.es` | No |
 | `ivy.io` | No |
 | `ivy.moe` | No |
+| `ivydra.com` | Yes |
 | `ivystech.com` | No |
 | `iwade.net` | No |
 | `iwalt.com` | No |
@@ -17134,6 +17135,7 @@ Here's a list of public Fediverse services.
 | `kiwifarms.net` | Yes |
 | `kiyi.ca` | No |
 | `kizaing.ca` | No |
+| `kjr-mut.de` | No |
 | `kjv.online` | No |
 | `kjwon15.net` | Yes |
 | `kk4lpi.com` | No |
@@ -19541,6 +19543,7 @@ Here's a list of public Fediverse services.
 | `malbak.fr` | No |
 | `malbela.net` | No |
 | `malegebi.de` | Yes |
+| `maleo.uk` | No |
 | `malfunctional.net` | No |
 | `malfunctioning.technology` | No |
 | `malgranda.net` | No |
@@ -20043,7 +20046,7 @@ Here's a list of public Fediverse services.
 | `mastodon.city` | No |
 | `mastodon.cl` | Yes |
 | `mastodon.cloud` | Yes |
-| `mastodon.club` | Yes |
+| `mastodon.club` | No |
 | `mastodon.co.nz` | No |
 | `mastodon.co.za` | No |
 | `mastodon.codes` | No |
@@ -24004,7 +24007,7 @@ Here's a list of public Fediverse services.
 | `nsa.lol` | No |
 | `nsa.ovh` | No |
 | `nscio.us` | No |
-| `nsfw.cafe` | Yes |
+| `nsfw.cafe` | No |
 | `nsfw.finance` | Yes |
 | `nsfw.onl` | Yes |
 | `nsfw.social` | Yes |
@@ -24159,7 +24162,7 @@ Here's a list of public Fediverse services.
 | `nya.show` | Yes |
 | `nya.social` | No |
 | `nyaa.app` | Yes |
-| `nyaa.io` | Yes |
+| `nyaa.io` | No |
 | `nyaa.social` | No |
 | `nyaa.tech` | Yes |
 | `nyadobe.online` | No |
@@ -24493,7 +24496,7 @@ Here's a list of public Fediverse services.
 | `oldyellowhouse.se` | No |
 | `ole.md` | Yes |
 | `ole.wine` | Yes |
-| `oleary.xyz` | Yes |
+| `oleary.xyz` | No |
 | `oleetkustudios.net` | No |
 | `oleg.kim` | No |
 | `olender.me` | Yes |
@@ -31238,6 +31241,7 @@ Here's a list of public Fediverse services.
 | `spiegelslust.xyz` | Yes |
 | `spiele.jp` | No |
 | `spielschrank.com` | No |
+| `spiezmaestro.ch` | No |
 | `spiffy.social` | No |
 | `spike-el-clopero.org` | No |
 | `spill-the-tea.ninja` | No |
@@ -38219,8 +38223,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,143 |
-| Normal | 29,033 |
+| Cloudflare | 9,141 |
+| Normal | 29,039 |
 
 
 ### 23.9% of public Fediverse services are using Cloudflare.
