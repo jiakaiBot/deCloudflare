@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,664 |
-| social | 3,641 |
-| net | 2,885 |
+| social | 3,642 |
+| net | 2,886 |
 | org | 2,042 |
 | de | 1,921 |
 
@@ -3624,7 +3624,7 @@ Here's a list of public Fediverse services.
 | `bird.website` | No |
 | `birdbox.party` | Yes |
 | `birdbutt.com` | No |
-| `birdcar.dev` | No |
+| `birdcar.dev` | Yes |
 | `birddon.com` | No |
 | `birdinter.net` | No |
 | `birdity.club` | No |
@@ -10020,6 +10020,7 @@ Here's a list of public Fediverse services.
 | `f-gs-only.com` | No |
 | `f-rabbit.com` | No |
 | `f-si.org` | No |
+| `f-t.net.pl` | No |
 | `f.cz` | No |
 | `f0x.es` | Yes |
 | `f12n.de` | No |
@@ -13816,6 +13817,7 @@ Here's a list of public Fediverse services.
 | `hesslesmiths.uk` | No |
 | `hetnieuweinstituut.nl` | No |
 | `hett.org` | No |
+| `hetzel.net` | Yes |
 | `hevertonfreitas.com.br` | Yes |
 | `hew.cloud` | No |
 | `hewwo.net` | Yes |
@@ -16675,6 +16677,7 @@ Here's a list of public Fediverse services.
 | `kawaiidelic.space` | No |
 | `kawaiipunk.xyz` | No |
 | `kawaiistu.moe` | No |
+| `kawaiivrc.site` | Yes |
 | `kawaiuniv.work` | No |
 | `kawaiyume.net` | No |
 | `kawamr.com` | No |
@@ -16871,6 +16874,7 @@ Here's a list of public Fediverse services.
 | `keybiscayne.social` | No |
 | `keyboard.social` | Yes |
 | `keyboardon.club` | No |
+| `keyboards.social` | No |
 | `keybored.me` | No |
 | `keycord.me` | No |
 | `keyd.ru` | No |
@@ -24510,6 +24514,7 @@ Here's a list of public Fediverse services.
 | `omega-bytes.com` | No |
 | `omeganote.fr` | No |
 | `omeowgle.com` | Yes |
+| `omer.land` | Yes |
 | `omfg.blog` | No |
 | `omfg.town` | No |
 | `omfg.tv` | No |
@@ -38170,8 +38175,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,113 |
-| Normal | 29,014 |
+| Cloudflare | 9,117 |
+| Normal | 29,015 |
 
 
 ### 23.9% of public Fediverse services are using Cloudflare.
