@@ -297,10 +297,13 @@ franciza.online.xpost.com.ro
 git.git.wallet.xn--1-otb3ae.xn--p1ai
 www.clientes.xatasoluciones.com
 www.franciza.online.xpost.com.ro
+www.myths.xix-recovery.org
+www.x-invoice.com
 www.xeronosso.com.br
 www.xn--freizgigkeitskonto-erffnen-wvc5m.ch
 www.xn--glgepsikoloji-imb.com
 www.xn--schttgut-liefern-lzb.de
+www.xn--vad-r-vpn-y2a.se
 www.xtremeinternet.biz
 xboxuser.co
 xeronosso.com.br
@@ -312,6 +315,7 @@ xn--freizgigkeitskonto-erffnen-wvc5m.ch
 xn--hmeenkonepalvelu-vnb.fi
 xn--mlholtforsamlingshus-bcc.dk
 xn--schttgut-liefern-lzb.de
+xn--vad-r-vpn-y2a.se
 xsafe.io
 xsteampowered.com
 xuemiaoqaq.top
