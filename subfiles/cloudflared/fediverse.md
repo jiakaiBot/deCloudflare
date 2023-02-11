@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,681 |
-| social | 3,652 |
+| social | 3,656 |
 | net | 2,891 |
 | org | 2,043 |
-| de | 1,922 |
+| de | 1,923 |
 
 
 - Mastodon, Pleroma, etc
@@ -13079,6 +13079,7 @@ Here's a list of public Fediverse services.
 | `grwd.com` | No |
 | `gry.st` | No |
 | `grynaserio.pl` | Yes |
+| `gryphon68.social` | No |
 | `gsalucci.dev` | No |
 | `gsch.eu` | Yes |
 | `gsd.foundation` | No |
@@ -20710,6 +20711,7 @@ Here's a list of public Fediverse services.
 | `medsos.web.id` | No |
 | `medusmedia.com` | No |
 | `meecolabs.eu` | No |
+| `meedan.social` | Yes |
 | `meekchopp.es` | No |
 | `meemu.org` | No |
 | `meenzen.net` | Yes |
@@ -29673,6 +29675,7 @@ Here's a list of public Fediverse services.
 | `secureprivacy.tech` | No |
 | `securetown.top` | Yes |
 | `securingchange.org` | No |
+| `security-manufaktur.de` | No |
 | `security.plumbing` | No |
 | `securitycafe.ca` | No |
 | `securityisdead.com` | No |
@@ -31939,6 +31942,7 @@ Here's a list of public Fediverse services.
 | `subtoot.com` | No |
 | `subtype.space` | No |
 | `subtype.uk` | No |
+| `suburbansmarts.social` | No |
 | `suburbia.au` | No |
 | `subut.ai` | No |
 | `subversida.de` | No |
@@ -37656,6 +37660,7 @@ Here's a list of public Fediverse services.
 | `yopic.cc` | No |
 | `yopo.work` | Yes |
 | `yopp.me` | Yes |
+| `yord.social` | Yes |
 | `yorha.club` | No |
 | `yorha.social` | Yes |
 | `yorishiro.space` | No |
@@ -38238,8 +38243,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,148 |
-| Normal | 29,047 |
+| Cloudflare | 9,150 |
+| Normal | 29,050 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
