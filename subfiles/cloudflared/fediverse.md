@@ -6099,7 +6099,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -13465,6 +13465,7 @@ Here's a list of public Fediverse services.
 | `harbour.cafe` | No |
 | `hardboiled.app` | No |
 | `hardcoredevs.com` | No |
+| `hardcover.app` | Yes |
 | `harder.social` | No |
 | `hardill.me.uk` | No |
 | `harding.dev` | No |
@@ -23112,7 +23113,7 @@ Here's a list of public Fediverse services.
 | `nerdarena.de` | No |
 | `nerdbutler.com` | Yes |
 | `nerdcave.eu` | No |
-| `nerdcave.site` | Yes |
+| `nerdcave.site` | No |
 | `nerdco.ws` | No |
 | `nerdcore.fans` | No |
 | `nerdcore.social` | No |
@@ -34556,6 +34557,7 @@ Here's a list of public Fediverse services.
 | `tstm.info` | No |
 | `tstorm.se` | No |
 | `tstv.me` | No |
+| `tsub.me` | No |
 | `tsubamedon.com` | No |
 | `tsubasaori.be` | No |
 | `tsuchidon.com` | No |
@@ -38264,8 +38266,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,159 |
-| Normal | 29,062 |
+| Cloudflare | 9,158 |
+| Normal | 29,065 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
