@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,692 |
+| com | 5,694 |
 | social | 3,672 |
 | net | 2,897 |
 | org | 2,045 |
@@ -167,6 +167,7 @@ Here's a list of public Fediverse services.
 | `10qt.net` | No |
 | `10vorne.eu` | No |
 | `10x.sh` | Yes |
+| `1132don.com` | No |
 | `114514.xyz` | Yes |
 | `117.social` | No |
 | `117net.co.uk` | Yes |
@@ -16062,6 +16063,7 @@ Here's a list of public Fediverse services.
 | `jlfr.me` | No |
 | `jlg.id.au` | No |
 | `jlg.link` | Yes |
+| `jlm.name` | No |
 | `jltml.me` | Yes |
 | `jludwig.net` | No |
 | `jluo.io` | Yes |
@@ -37825,6 +37827,7 @@ Here's a list of public Fediverse services.
 | `yue.cat` | Yes |
 | `yufarch.com` | No |
 | `yufushiro.dev` | Yes |
+| `yug1224.com` | No |
 | `yugioh.social` | No |
 | `yuicho.net` | Yes |
 | `yujinakao.com` | No |
@@ -37872,6 +37875,7 @@ Here's a list of public Fediverse services.
 | `yurikonanao.cloud` | No |
 | `yurisora.com` | No |
 | `yuritopia.net` | No |
+| `yuru.site` | Yes |
 | `yuru.studio` | Yes |
 | `yuruchara.info` | Yes |
 | `yuruyuri.family` | No |
@@ -38319,8 +38323,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,176 |
-| Normal | 29,100 |
+| Cloudflare | 9,177 |
+| Normal | 29,103 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
