@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,694 |
+| com | 5,695 |
 | social | 3,672 |
-| net | 2,897 |
+| net | 2,898 |
 | org | 2,045 |
 | de | 1,925 |
 
@@ -27705,7 +27705,7 @@ Here's a list of public Fediverse services.
 | `randomnessthing.com` | No |
 | `randomonics.net` | No |
 | `randompherret.com` | Yes |
-| `randomroad.net` | No |
+| `randomroad.net` | Yes |
 | `randomroad.social` | No |
 | `randomrul.es` | No |
 | `randomserver.org` | No |
@@ -32559,6 +32559,7 @@ Here's a list of public Fediverse services.
 | `talktodan.com` | Yes |
 | `tall.coffee` | Yes |
 | `tallahasseesocial.org` | No |
+| `talldude.net` | No |
 | `tallulah.fi` | No |
 | `tallwireless.com` | No |
 | `talos.link` | No |
@@ -36815,6 +36816,7 @@ Here's a list of public Fediverse services.
 | `withconor.com` | No |
 | `withers.online` | No |
 | `within.website` | Yes |
+| `withinwindows.com` | Yes |
 | `withoccasional.com` | No |
 | `withsilence.com` | Yes |
 | `witiko.de` | No |
@@ -38323,7 +38325,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,177 |
+| Cloudflare | 9,179 |
 | Normal | 29,103 |
 
 
