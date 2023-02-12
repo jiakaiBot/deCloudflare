@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,699 |
 | social | 3,675 |
-| net | 2,902 |
+| net | 2,903 |
 | org | 2,045 |
 | de | 1,925 |
 
@@ -25144,6 +25144,7 @@ Here's a list of public Fediverse services.
 | `ourwebgrove.com` | No |
 | `outadoc.fr` | No |
 | `outaouais.club` | No |
+| `outdoorenthusiasts.space` | No |
 | `outdoorism.net` | No |
 | `outdoors.lgbt` | No |
 | `outdoors.social` | No |
@@ -35897,6 +35898,7 @@ Here's a list of public Fediverse services.
 | `viste.pt` | No |
 | `visualdev.fm` | Yes |
 | `visualsoul.uk` | No |
+| `visualsquirrels.net` | No |
 | `vit-connect.de` | Yes |
 | `vital.org.nz` | No |
 | `vitaulium.nl` | No |
@@ -38344,7 +38346,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,187 |
-| Normal | 29,113 |
+| Normal | 29,115 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
