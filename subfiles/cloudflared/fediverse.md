@@ -26653,6 +26653,7 @@ Here's a list of public Fediverse services.
 | `postpandemicparty.org` | No |
 | `postrad.social` | No |
 | `postrausch.tech` | Yes |
+| `posts.gallery` | No |
 | `posts.stream` | Yes |
 | `postsoviet.space` | No |
 | `poststoffarm.de` | No |
@@ -38264,7 +38265,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,159 |
-| Normal | 29,061 |
+| Normal | 29,062 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
