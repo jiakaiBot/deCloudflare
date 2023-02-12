@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,700 |
 | social | 3,676 |
-| net | 2,904 |
+| net | 2,905 |
 | org | 2,045 |
 | de | 1,925 |
 
@@ -14300,7 +14300,7 @@ Here's a list of public Fediverse services.
 | `horizin.de` | No |
 | `horizon.ac.uk` | No |
 | `horizonnet.eu` | No |
-| `horizonprivacy.fr` | No |
+| `horizonprivacy.fr` | Yes |
 | `horizons.one` | Yes |
 | `hormonzicken.party` | Yes |
 | `horner.tj` | Yes |
@@ -27290,6 +27290,7 @@ Here's a list of public Fediverse services.
 | `qore.no` | Yes |
 | `qorg11.net` | No |
 | `qoto.org` | No |
+| `qouop.net` | No |
 | `qowala.org` | No |
 | `qownnotes.org` | Yes |
 | `qp3.uk` | Yes |
@@ -38351,7 +38352,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,191 |
+| Cloudflare | 9,192 |
 | Normal | 29,117 |
 
 
