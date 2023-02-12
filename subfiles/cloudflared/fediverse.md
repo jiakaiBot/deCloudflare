@@ -8383,6 +8383,7 @@ Here's a list of public Fediverse services.
 | `doenietzomoeilijk.nl` | No |
 | `doern.tech` | No |
 | `does.social` | No |
+| `doesnm.cc` | Yes |
 | `doesnotexist.club` | No |
 | `doesthings.online` | Yes |
 | `doetnix.nl` | No |
@@ -27703,7 +27704,7 @@ Here's a list of public Fediverse services.
 | `randohg.com` | No |
 | `random.systems` | No |
 | `random101.net` | Yes |
-| `randombits.host` | No |
+| `randombits.host` | Yes |
 | `randomcat.org` | No |
 | `randomchatss.xyz` | No |
 | `randomcloud.io` | Yes |
@@ -38342,8 +38343,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,185 |
-| Normal | 29,114 |
+| Cloudflare | 9,187 |
+| Normal | 29,113 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
