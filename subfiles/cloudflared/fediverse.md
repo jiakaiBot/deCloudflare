@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,695 |
+| com | 5,697 |
 | social | 3,672 |
-| net | 2,898 |
+| net | 2,901 |
 | org | 2,045 |
 | de | 1,925 |
 
@@ -8138,6 +8138,7 @@ Here's a list of public Fediverse services.
 | `dilavni.com` | Yes |
 | `dillingen.social` | No |
 | `dilopiaf.fr` | No |
+| `dimension.host` | No |
 | `dimequecomes.com` | No |
 | `dimethyl.xyz` | No |
 | `dimick.social` | Yes |
@@ -13460,6 +13461,7 @@ Here's a list of public Fediverse services.
 | `haneto.org` | No |
 | `hanf.chat` | No |
 | `hangup.eu` | No |
+| `hanitoh.com` | No |
 | `hankchizljaw.io` | No |
 | `hanna.lol` | Yes |
 | `hannebrook.info` | No |
@@ -22839,6 +22841,7 @@ Here's a list of public Fediverse services.
 | `nanoapp.io` | No |
 | `nanobyte.cafe` | No |
 | `nanocloud.solutions` | No |
+| `nanodawa.net` | Yes |
 | `nanoscopic.de` | No |
 | `nanosector.nl` | No |
 | `nanovim.tk` | No |
@@ -22853,6 +22856,7 @@ Here's a list of public Fediverse services.
 | `napolisocial.com` | Yes |
 | `naraku.cc` | Yes |
 | `narang.me` | Yes |
+| `narazaka.net` | Yes |
 | `nardi.social` | No |
 | `narf.ca` | No |
 | `narf.social` | No |
@@ -28854,6 +28858,7 @@ Here's a list of public Fediverse services.
 | `runyu.tokyo` | No |
 | `ruomu.in` | No |
 | `rural-it.org` | No |
+| `rurinya.com` | Yes |
 | `rushon.xyz` | No |
 | `rusingh.com` | No |
 | `rusk.app` | No |
@@ -32409,6 +32414,7 @@ Here's a list of public Fediverse services.
 | `syuneci.am` | Yes |
 | `syunm1n.cf` | No |
 | `syutin.com` | No |
+| `syuuta.net` | Yes |
 | `syuwa.fun` | No |
 | `syvita.club` | No |
 | `szeged.social` | No |
@@ -33051,6 +33057,7 @@ Here's a list of public Fediverse services.
 | `tetsugaku.place` | No |
 | `tetsujin.work` | No |
 | `tetsumaki.net` | No |
+| `teu.ac.jp` | No |
 | `teufel100.de` | No |
 | `teutsch.me` | No |
 | `tevps.net` | No |
@@ -38325,8 +38332,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,179 |
-| Normal | 29,103 |
+| Cloudflare | 9,183 |
+| Normal | 29,106 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
