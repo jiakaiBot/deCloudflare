@@ -519,7 +519,6 @@ jigdigtry.com
 jikitourai.net
 jimparedes.com
 jiocity.com
-jiofibers.com
 jis.gov.jm
 jitsimeet.eu
 jlr.academy
@@ -807,6 +806,7 @@ amazon-vbvnh.justdied.com
 api-vo.jitsi.net
 bloxnord.jlaasonen.fi
 bogensemurer.jfm360kunder.dk
+caas.jaisonghisi.it
 cloud.jascii.dev
 cloud.joshcolletta.com
 contact-blacklist.justcall.dev
@@ -815,9 +815,11 @@ discodyes.jillybilly.com
 discourse.jarbelix.tk
 discourse.jhome.page
 epcmg.josephbranthospital.ca
+etc-dfkfere.justdied.com
 ether-x5.jvapi.net
 gaspmx.l.google.com.japonica.ru
 gg.joe.dj
+github.jeidsan.com.br
 gitlab.new.blog.blog.store.redmine.junghanns.it
 hermes.jumpstart.hu
 ja-scotiabank.com
@@ -859,6 +861,7 @@ joyaitaliano.com
 joyincrafting.com
 jpgtrk.com
 jpmainslot.com
+jrs.net
 js-palvelu.fi
 jsonprice.org
 juanfranciscorodriguez.com
@@ -870,8 +873,11 @@ linkedin.job-vacancy.my.id
 live.jmfl.com
 loans.jhfcu.org
 lsservice.jjshouse.com
+monitoring.jovoc.com
 nfcprod.jiophone.net
 nitrotienda.com.jergalicia.com
+nl.preprod.japanspecialist.com
+office365-office365.aws-us-east-1-prod.svc.jivehosted.com
 origin-tst2-tuxedo.gcp.josbank.com
 pt.juniperspecialgifts.com
 rwbdemo.public.jip.jp
@@ -884,6 +890,7 @@ tasyuminoblog.iroiroblog.jetboy.jp
 tickets.jojischool.nl
 twitchwebhook.jmtk.co
 uatiams.jci-hitachi.com
+usps-user.vip.jisudy.vip
 vpn1.joajandek.hu
 vpnadm.joajandek.hu
 www.academi-bpm.com.mx.julioverne42.com
@@ -893,6 +900,7 @@ www.creativebay.juliusiskandar.com
 www.gear.jeep.com
 www.gitlab.git.gitlab.git.git.gitlab.5cdjmag2a2dc4ap.joyta.ru
 www.invoice.jvvprojects.co.za
+www.jandacleaningservice.com
 www.jasaairmancur.com
 www.jaz-services.fr
 www.jdltreeservice.net
@@ -901,6 +909,7 @@ www.jeannieservices.ca
 www.jemco-controls.jemco-inc.com
 www.jennivallenius.net
 www.jeroensespresso.nl
+www.jerseyshoreonline.com
 www.jesusciti.com
 www.jesushandymanservice.com
 www.jet1security.com
@@ -913,12 +922,15 @@ www.jonstasevich2024.com
 www.joudapost.com
 www.joyaitaliano.com
 www.julienpinaud.net
+www.julietpalmer.ca
 www.juniperspecialgifts.com
 www.kunder.joomlaskola.se
 www.linkedin.job-vacancy.my.id
+www.payment.jidsbd.org
 www.redditch-meeting-api.jwsmithdev.com
 www.redditch-meeting.jwsmithdev.com
 www.semburankilat.jompurchase.com
+www.servicekomporpangilan.jagoaniklan.org
 www.standard-za.jubam.com.br
 www.steamstats.jaydips.website
 www.user.jajananorangbanyak.com
