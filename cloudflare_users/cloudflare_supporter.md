@@ -4536,6 +4536,7 @@ Do not create new issue or we will close it as duplicate.
 | [jack_minn@twitter](https://twitter.com/jack_minn/status/1394683992071229441) | advertise |
 | [Jacob84666899@twitter](https://twitter.com/Jacob84666899/status/1475111743772897281) | advertise |
 | [JacobBeckerman@twitter](https://twitter.com/JacobBeckerman/status/1406628495900426242) | advertise |
+| [JacobDupuy3@twitter](https://twitter.com/JacobDupuy3/status/1624795625509339138) | advertise |
 | [Jade12683299@twitter](https://twitter.com/Jade12683299/status/1397944572437692422) | advertise |
 | [jaehong_lim@twitter](https://twitter.com/jaehong_lim/status/1456276906999828481) | advertise |
 | [jaemin1508@twitter](https://twitter.com/jaemin1508/status/1614678909798461441) | advertise |
@@ -8778,6 +8779,7 @@ Do not create new issue or we will close it as duplicate.
 | [QunhTM11@twitter](https://twitter.com/QunhTM11/status/1468241517387173889) | advertise |
 | [Quo35259089@twitter](https://twitter.com/Quo35259089/status/1386228152406401024) | advertise |
 | [Quocbao10601948@twitter](https://twitter.com/Quocbao10601948/status/1386125895648219141) | advertise |
+| [Quochung160695@twitter](https://twitter.com/Quochung160695/status/1624551631747686400) | advertise |
 | [Quocsang12@twitter](https://twitter.com/Quocsang12/status/1585603869295673345) | advertise |
 | [quocthaii168@twitter](https://twitter.com/quocthaii168/status/1516899698329591808) | advertise |
 | [QUOTESwtm@twitter](https://twitter.com/QUOTESwtm/status/1555673804986253313) | advertise |
@@ -9419,6 +9421,7 @@ Do not create new issue or we will close it as duplicate.
 | [SawmyintO@twitter](https://twitter.com/SawmyintO/status/1389548332943437827) | advertise |
 | [SawNaun69013208@twitter](https://twitter.com/SawNaun69013208/status/1392243678723198978) | advertise |
 | [SawPyaeKhaing2@twitter](https://twitter.com/SawPyaeKhaing2/status/1389941532560486400) | advertise |
+| [SawritaN@twitter](https://twitter.com/SawritaN/status/1624798127583817728) | advertise |
 | [SawThantZayarO1@twitter](https://twitter.com/SawThantZayarO1/status/1391276064647700484) | advertise |
 | [Sawwinmaung0@twitter](https://twitter.com/Sawwinmaung0/status/1394517271758790661) | advertise |
 | [sawyannaing97@twitter](https://twitter.com/sawyannaing97/status/1613418902465445895) | advertise |
