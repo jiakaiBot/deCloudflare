@@ -1129,7 +1129,6 @@ api.fadoc.kr
 api.fbox.fpt.vn
 api.fidypay.com
 api.flavus.xyz
-api.folxhealth.com
 api.fwd.co.th
 app-coh-prod.famgenix.com
 app-vkboservice-test-01.fitagency.be
@@ -2413,6 +2412,7 @@ zisafety.flexpro.software
 zivaralat-shopir.froblog.ir
 zooanime.fanbox.cc
 zuryurdierapackcompletoen.filesusr.com
+2.rome.api.flipkart.net
 7seenkalair.froblog.ir
 9725442983idt28524.from-ms.com
 99665236.filesusr.com
@@ -2421,6 +2421,7 @@ acns-rancher-controller.cnp-prod.fujicns.com
 adfs.framo.no
 advocacia.francez.com.br
 amazon-azxd.freetcp.com
+amazon-bfdagds.freeddns.com
 amazon-hxcvbvn.fartit.com
 amazon-pnfdhb.fartit.com
 anoh223.fanbox.cc
@@ -2478,8 +2479,12 @@ falcommunity.de
 familyberkahservice.com
 fantavolando.it
 farawayadventures.com
+fargoalumni.net
+fargocpapstores.ml
+fargoschoolsfoundation.org
 fascia.work
 fase.org.br
+fashlane.com
 fast4youdelivery.eu
 fastlinkcourieranddelivery.com
 fastmoney.homes
@@ -2493,10 +2498,12 @@ fcscourireservice.com
 fcuc.edu.gh
 fdrmoney.space
 federal-constitution-for-lebanon.com
+federalaccesscode.us
 federalexxecc.com
 federalgrp.com
 fehlerteufel.fuzztech.de
 feltmagnet.com
+fenalcosantander.com.co
 fencepost.link
 festivalpolitica.pt
 fidelityconsultancy.ae
@@ -2516,6 +2523,8 @@ firstsgbk.com
 fit4youdelivery.ro
 fiti.site
 flakie.co.uk
+flexflier.com
+flexocodintesa.com
 flipshope.com
 floralsbyzoya.com
 floridastormrelief.fl.gov
@@ -2526,7 +2535,9 @@ foglinenwork.com
 foksnail.by
 folklorevillage.org
 food-italiano.hu
+forgetcant.com
 forkanudd.in
+forlorenespresso.dk
 formlets.com
 foundationservice.ca
 fox56news.com
@@ -2536,6 +2547,7 @@ foxhillswiss.com
 foxnitroden.co.uk
 franco-borussia.de
 fredystucan.com
+freelance-delivery.com
 freelance-security.net
 freenet.org
 freeskinsgift.ru
@@ -2548,7 +2560,6 @@ friendlygateservice.com
 friscodigitalsecurity.com
 fs.fondsdev.com
 fs.fondsftq.com
-fsaconsultinggroup.com
 fu-u.com
 fuerzalegalchile.com
 fukkenuber.com
@@ -2593,6 +2604,7 @@ iecommuter.forwardtomyfriend.com
 ikuchankaoru.fanbox.cc
 imyme-maro.fanbox.cc
 information.frbcommunications.org
+instagram.farstudios.com
 investors.f-star.com
 iohbyofmjw.firebaseapp.com
 ios.ftuhamzanwadi.ac.id
@@ -2631,6 +2643,7 @@ m.flex.team
 m176367.firebaseapp.com
 maherrezair.froblog.ir
 mahkhatooncom.froblog.ir
+mail.find-appleld.com
 mail.flash-tours.gr
 mail.foxnitroden.co.uk
 mailings.bosa.fgov.be
@@ -2638,6 +2651,7 @@ mailings.ibz.fgov.be
 manga.ferrarinas.it
 marketer.froblog.ir
 massmail.ficci.com
+maven.fabric.io
 mazenda.fanbox.cc
 mebasketir.froblog.ir
 media.freshmail.mx
@@ -2651,6 +2665,7 @@ minoco123.fanbox.cc
 missax3d.fanbox.cc
 mkamiya.fanbox.cc
 mn.faraoweb.nl
+mobileapi.flipkart.net
 mobws.faktura.ru
 mochi00.fanbox.cc
 mohsenkit.froblog.ir
@@ -2661,6 +2676,7 @@ monitoring.ffhb.de
 monosex.fanbox.cc
 mrpiggyloli.fanbox.cc
 mservices.fazenda.df.gov.br
+msiteapi.flipkart.net
 msmspc.fanbox.cc
 mt-sign.firebaseapp.com
 mtbwebonline10.firebaseapp.com
@@ -2699,6 +2715,7 @@ oma-cit-maxregister.fiservapp.com
 onotchi.fanbox.cc
 onworkshop-jenellelivet.sites.freshmember.com
 oobservatoriosocial.fundacaolacaixa.pt
+openam-allianzau.id.forgerock.io
 openam-support-platformui.forgeblocks.com
 oseugestoconta.formulastudio.pt
 osticket.formabilitycpp.com
@@ -2805,6 +2822,7 @@ retasu.fanbox.cc
 robeshiri.fanbox.cc
 rukminim1.flixcart.com
 s716-monespace-lcl-fr.firebaseapp.com
+sa88-ij.firebaseapp.com
 safety.forweb.ro
 satsukikatze.fanbox.cc
 sberbank.avito.blablacar.sber.avito.covid19.freedomsailing.ru
@@ -2833,10 +2851,12 @@ shira9enemy.fanbox.cc
 shockcreampuff.fanbox.cc
 shoppatraplusir.froblog.ir
 shuushi.fanbox.cc
+si44-vm.firebaseapp.com
 sigillidisicurezza.francescozappavigna.it
 signin-hunton.firebaseapp.com
 simao.fanbox.cc
 sitibank.fosite.ru
+sj77-fs.firebaseapp.com
 smshttpsgw.fibernetics.ca
 smtp.fabbri1905.com
 sso.fbtestnet.com
@@ -2853,6 +2873,7 @@ stylebazcom.froblog.ir
 support.farbaralmas.com
 support.fitnessbooker.fi
 support.fullcircleinsights.com
+support.futsoft.net
 svcu-dc.cert.fec-dc.fiservapps.com
 syuri22.fanbox.cc
 t.noreply.fnb.co.za
@@ -2920,6 +2941,7 @@ www.delivery.freshlanders.com
 www.dhanmondirealservice.farmgateabasikhotel.com
 www.ensinamentosdemae.com.br.fkinfinity.com.br
 www.faasafety.gov
+www.facebookenterprise.com
 www.fach.sk
 www.facturanegociabledesbcp.com
 www.fahrschule-rath.de
@@ -2930,8 +2952,12 @@ www.fallsconventions.com
 www.faqihjasa.com
 www.farfetch.com
 www.fargofoundationrepair.com
+www.fargoschoolsfoundation.com
+www.fargoschoolsfoundation.org
+www.fargotapetspecialisten.se
 www.farmerziraat.com
 www.farpointcon.com
+www.fatcatfundinggroup.com
 www.fatturapaga-it.com
 www.fatturapaga.com
 www.fbglodging.com
@@ -2944,23 +2970,30 @@ www.fcubs.ch
 www.fdibr.com.br
 www.feastmagazine.com
 www.fedecu.com
+www.federalaccesscode.us
 www.federaleurope.info
 www.federalgrp.com
 www.federalinjurycentersofsouthbend.com
 www.federalinteriorsgroup.com
+www.federalwayhome.net
 www.federatedinsurance.com
 www.federatedinsurancepersonal.com
 www.felipeconciergeservice.com
 www.fellowshipsf.org
 www.fempower-health.com
 www.femsamonterrey.com
+www.fenalcosantander.com.co
 www.ferronnerie-perasso.fr
 www.ferticompuestos.com.co
 www.fgdelivery.com
 www.fgmyapi.com
+www.fidelity77.com
+www.fidelitydebt.co.za
+www.fidelitysoulbulls.com
 www.fiets.uk
 www.fifthelementholistic.co.uk
 www.fifthsense.org.uk
+www.fifthwardenterprises.com
 www.filmtipset.se
 www.filson.com
 www.fime.fi
@@ -3001,6 +3034,7 @@ www.foreign.gov.bb
 www.foreverbridefilms.com
 www.forex4money.f4mtech.com
 www.forfatterforeningen.no
+www.forgetcant.com
 www.forgotteneagles.org
 www.forgottenplaces.global
 www.fortecapitalbank.com
@@ -3029,16 +3063,20 @@ www.frattarolitreeservice.com
 www.frauenaerztin-bank.de
 www.frazixwears.international.com.frazixwears.com
 www.fredericknewspost.com
+www.fredmeyer.com
 www.freedomhealth.com
 www.freepeople.com
 www.freepoint.com
+www.freestatedoc.com
 www.freewai.com
 www.freiefarbe.de
 www.frenzousa.com
+www.frespresso.com
 www.freyafaust.com
 www.friedemann-dd.de
 www.friendsofgoodwinforest.org
 www.frihemservice.com
+www.fritolay.com
 www.fronteraenergy.ca
 www.frostiesandcoco.jp
 www.fryco.co
@@ -3063,6 +3101,7 @@ www.gibsonps.federalgovernment.info
 www.git.git.gitlab.git.gitlab.server1.fusion5-performance.de
 www.gitlab.git.gitlab.gitlab.git.gitlab.libanswers.foxfishing.ru
 www.gitlab.git.gitlab.order.frontline.support
+www.glenuber.finaculus.com
 www.google.fastbit.pt
 www.gsm.fazservice.com
 www.helpdesk.fhactorsolucoes.com
@@ -3070,6 +3109,7 @@ www.helpdesk.fx-fast.com
 www.hhsecurity.org.falcontransportltd.com
 www.hsafety.cl.ferrol.cl
 www.hybiscuscove.federalgovernment.info
+www.instagram.fahimfaisal.net
 www.intergratedworksolutions.federalgovernment.info
 www.livrocaixa.ferrovelhoastrogil.com.br
 www.mfl.fireclient.com
@@ -3085,6 +3125,7 @@ www.postmagazine.farmediumclose.com
 www.pt.fotolab.pt
 www.razia.federalgovernment.info
 www.roi.federalgovernment.info
+www.safemeet.foodvalleyweb.com
 www.safetransremovals.freshclick.ro
 www.sber.www.sber.avito.sberbank.eid93vfpq9xx1sl.phpmynew.finslet.ru
 www.sberbank.avito.blablacar.blablacar.webrid3462www.finslet.ru
@@ -3097,6 +3138,7 @@ www.shesagiven.federalgovernment.info
 www.smlivraison.forticgroup.ci
 www.support.fbvn.live
 www.support.futuretechbdit.com
+www.swissicunion.fastlinkocunion.com
 www.test.church.frobill.com
 www.tnr.federalgovernment.info
 www.ulbqroups.foxpressdlservice.com
