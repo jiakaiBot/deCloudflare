@@ -20,7 +20,6 @@ qalmoco.quicksoft.com.br
 qataritsolutions.com
 qcom.co.uk
 qh88n.com
-qh88r.com
 qh88u.com
 qhsealert.com
 qqsafety.com
@@ -250,10 +249,12 @@ eki-net.com.qohz.cn
 eki-net.com.qoig.cn
 en.quoreitaliano.it
 etc-ethnfds.qhigh.com
+etc-mvdsa.qpoe.com
 etc-qavcb.qhigh.com
 fs.qaeval.com
 goo.stage.qcsafety.xyz
 gsteam.queue-it.net
+it.quoreitaliano.it
 keycloak.qwghlm.quantumflux.nl
 oauth2.qwghlm.quantumflux.nl
 oktatas.qsec.hu
