@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,699 |
-| social | 3,675 |
-| net | 2,903 |
+| social | 3,676 |
+| net | 2,904 |
 | org | 2,045 |
 | de | 1,925 |
 
@@ -869,6 +869,7 @@ Here's a list of public Fediverse services.
 | `activitypub.tk` | No |
 | `activitypubhub.de` | No |
 | `actocom.com` | No |
+| `actors.social` | Yes |
 | `actrophp.de` | No |
 | `acts-sh.pp.ua` | No |
 | `acts17archive.org` | No |
@@ -14237,6 +14238,7 @@ Here's a list of public Fediverse services.
 | `homirun.pw` | No |
 | `homnomnom.fr` | No |
 | `homo.dev` | No |
+| `homo.promo` | No |
 | `homo.social` | Yes |
 | `homoluden.com` | No |
 | `homoludensinmirrorshades.org` | No |
@@ -16590,7 +16592,7 @@ Here's a list of public Fediverse services.
 | `kakudon.com` | No |
 | `kakujin.network` | No |
 | `kakun.jp` | No |
-| `kakunpc.com` | No |
+| `kakunpc.com` | Yes |
 | `kalabradas.club` | No |
 | `kalaclista.com` | Yes |
 | `kalakukko.social` | Yes |
@@ -17961,6 +17963,7 @@ Here's a list of public Fediverse services.
 | `larlet.fr` | No |
 | `larmefamily.com` | No |
 | `laroche.dev` | No |
+| `larry.town` | No |
 | `larrybeck.net` | No |
 | `larrysanger.org` | Yes |
 | `larsen.social` | No |
@@ -29743,7 +29746,7 @@ Here's a list of public Fediverse services.
 | `secretsealing.club` | No |
 | `sect.social` | No |
 | `section.app` | No |
-| `sectiontwo.org` | No |
+| `sectiontwo.org` | Yes |
 | `sectorinf.com` | No |
 | `secular-humanism.eu` | No |
 | `securadmin.net` | No |
@@ -30315,7 +30318,7 @@ Here's a list of public Fediverse services.
 | `sikademo.com` | Yes |
 | `sikke.fi` | Yes |
 | `sikloud.com` | No |
-| `sil.sh` | Yes |
+| `sil.sh` | No |
 | `silat.cloud` | No |
 | `silba.me` | No |
 | `silberkind.de` | No |
@@ -33218,6 +33221,7 @@ Here's a list of public Fediverse services.
 | `thechad.zone` | No |
 | `thechairman.info` | No |
 | `thechangebook.org` | No |
+| `thechimp.zone` | Yes |
 | `thechurchofmemes.com` | No |
 | `thecitadel.social` | No |
 | `thecitizen.icu` | No |
@@ -35930,6 +35934,7 @@ Here's a list of public Fediverse services.
 | `vladtepesblog.com` | Yes |
 | `vlan42.com` | Yes |
 | `vleij.com` | No |
+| `vlekken.net` | No |
 | `vlen.org` | No |
 | `vlenture.org` | No |
 | `vlkpack.com` | Yes |
@@ -38345,8 +38350,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,187 |
-| Normal | 29,115 |
+| Cloudflare | 9,190 |
+| Normal | 29,117 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
