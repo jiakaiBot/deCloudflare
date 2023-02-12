@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,697 |
-| social | 3,672 |
-| net | 2,901 |
+| com | 5,699 |
+| social | 3,675 |
+| net | 2,902 |
 | org | 2,045 |
 | de | 1,925 |
 
@@ -3421,6 +3421,7 @@ Here's a list of public Fediverse services.
 | `bestodon.com` | Yes |
 | `bestregard.co` | No |
 | `bestself.social` | No |
+| `beta.town` | Yes |
 | `beta42.dev` | No |
 | `betabuild.dev` | No |
 | `betafive.net` | No |
@@ -4312,6 +4313,7 @@ Here's a list of public Fediverse services.
 | `brainworms.io` | Yes |
 | `braithwaite.dev` | Yes |
 | `brakebill.me` | No |
+| `bram.dev` | No |
 | `bramble.me` | Yes |
 | `bramblepc.net` | No |
 | `branati.com.br` | No |
@@ -5125,6 +5127,7 @@ Here's a list of public Fediverse services.
 | `caylee.de` | No |
 | `cayote.cf` | No |
 | `cayra.info` | No |
+| `cazzaserver.com` | Yes |
 | `cbc.lol` | Yes |
 | `cbcmelbourne.life` | No |
 | `cbctech.app` | No |
@@ -10016,6 +10019,7 @@ Here's a list of public Fediverse services.
 | `extec.uk` | No |
 | `extinctionrebellion.fr` | No |
 | `extradienst.net` | No |
+| `extraordinarygeeks.social` | No |
 | `extratone.com` | No |
 | `extratone.online` | Yes |
 | `extremecameo.website` | No |
@@ -12931,7 +12935,7 @@ Here's a list of public Fediverse services.
 | `grappler.social` | No |
 | `grappling.ca` | No |
 | `grasserisen.de` | No |
-| `grassroot.space` | Yes |
+| `grassroot.space` | No |
 | `grasstruths.co.za` | No |
 | `gratitude.blog` | No |
 | `grav.social` | Yes |
@@ -20313,6 +20317,7 @@ Here's a list of public Fediverse services.
 | `mastodong.club` | No |
 | `mastodong.lol` | Yes |
 | `mastodong.net` | Yes |
+| `mastodongroup.social` | No |
 | `mastodonhk.social` | No |
 | `mastodonhost.net` | No |
 | `mastodonhub.com` | No |
@@ -21170,6 +21175,7 @@ Here's a list of public Fediverse services.
 | `microhive.org` | No |
 | `microhive.social` | No |
 | `microkod.xyz` | Yes |
+| `micromaquina.com` | Yes |
 | `micromegas.social` | No |
 | `micromookie.com` | No |
 | `micronet.at` | No |
@@ -22437,6 +22443,7 @@ Here's a list of public Fediverse services.
 | `murraystreet.media` | Yes |
 | `murty.au` | No |
 | `murty.social` | No |
+| `murui.me` | No |
 | `mus.social` | No |
 | `musain.cafe` | Yes |
 | `muscle.rocks` | No |
@@ -30701,6 +30708,7 @@ Here's a list of public Fediverse services.
 | `smartnotsocial.com` | No |
 | `smartpassivehouse.com` | No |
 | `smash.today` | No |
+| `smashingly.gay` | No |
 | `smashnet.de` | No |
 | `smatodon.net` | No |
 | `smbcc.org` | Yes |
@@ -34015,6 +34023,7 @@ Here's a list of public Fediverse services.
 | `tomtau.be` | No |
 | `tomtaylor.co.uk` | Yes |
 | `tomw.net` | No |
+| `tomw.social` | No |
 | `tomwiththeweather.org` | Yes |
 | `tomwsmf.com` | No |
 | `tonesplace.com` | No |
@@ -38211,6 +38220,7 @@ Here's a list of public Fediverse services.
 | `zombienet.org` | No |
 | `zombini.fr` | No |
 | `zombocloud.com` | No |
+| `zombofant.net` | No |
 | `zombor.net` | Yes |
 | `zomg-wtf.com` | Yes |
 | `zomglol.wtf` | No |
@@ -38332,8 +38342,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,183 |
-| Normal | 29,106 |
+| Cloudflare | 9,185 |
+| Normal | 29,114 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
