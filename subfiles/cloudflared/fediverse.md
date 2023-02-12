@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,693 |
+| com | 5,692 |
 | social | 3,672 |
-| net | 2,896 |
+| net | 2,897 |
 | org | 2,045 |
 | de | 1,925 |
 
@@ -167,7 +167,6 @@ Here's a list of public Fediverse services.
 | `10qt.net` | No |
 | `10vorne.eu` | No |
 | `10x.sh` | Yes |
-| `1132don.com` | No |
 | `114514.xyz` | Yes |
 | `117.social` | No |
 | `117net.co.uk` | Yes |
@@ -10750,6 +10749,7 @@ Here's a list of public Fediverse services.
 | `fiets.uk` | No |
 | `fietser.app` | No |
 | `fietser.social` | No |
+| `fifitido.net` | Yes |
 | `fifteen40.com` | No |
 | `fifthcity.social` | No |
 | `fifthdread.com` | No |
@@ -13583,6 +13583,7 @@ Here's a list of public Fediverse services.
 | `haunted.computer` | No |
 | `hausi.social` | No |
 | `havas.jp` | No |
+| `havebroken.it` | Yes |
 | `haveibeenpwned.com` | Yes |
 | `havelland.eu` | No |
 | `haven.family` | No |
@@ -18889,6 +18890,7 @@ Here's a list of public Fediverse services.
 | `logomancy.net` | No |
 | `logorrhea.online` | Yes |
 | `logoss.eu` | No |
+| `logzinga.com` | Yes |
 | `lohn.in` | Yes |
 | `loicrobert.fr` | No |
 | `loirodonto.club` | No |
@@ -33133,6 +33135,7 @@ Here's a list of public Fediverse services.
 | `the937.rocks` | No |
 | `the9thcircle.club` | No |
 | `theabsolute.plus` | Yes |
+| `theaddict.xyz` | No |
 | `theaether.space` | Yes |
 | `theagora.one` | No |
 | `theairplan.com` | Yes |
@@ -37389,6 +37392,7 @@ Here's a list of public Fediverse services.
 | `xn--sjpmeg-juab.space` | No |
 | `xn--stefan-hhn-lcb.de` | No |
 | `xn--sthle-nra.dk` | No |
+| `xn--t8j1bd0a4k.xn--q9jyb4c` | No |
 | `xn--t8jzbl7g.jp` | No |
 | `xn--thelnd-eua.land` | Yes |
 | `xn--tmp-qb4b9c2eyc.tokyo` | Yes |
@@ -37821,7 +37825,6 @@ Here's a list of public Fediverse services.
 | `yue.cat` | Yes |
 | `yufarch.com` | No |
 | `yufushiro.dev` | Yes |
-| `yug1224.com` | No |
 | `yugioh.social` | No |
 | `yuicho.net` | Yes |
 | `yujinakao.com` | No |
@@ -37869,7 +37872,6 @@ Here's a list of public Fediverse services.
 | `yurikonanao.cloud` | No |
 | `yurisora.com` | No |
 | `yuritopia.net` | No |
-| `yuru.site` | Yes |
 | `yuru.studio` | Yes |
 | `yuruchara.info` | Yes |
 | `yuruyuri.family` | No |
@@ -38317,7 +38319,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,174 |
+| Cloudflare | 9,176 |
 | Normal | 29,100 |
 
 
