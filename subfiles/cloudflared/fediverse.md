@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,704 |
+| com | 5,705 |
 | social | 3,686 |
 | net | 2,907 |
 | org | 2,050 |
@@ -7964,6 +7964,7 @@ Here's a list of public Fediverse services.
 | `devurandom.xyz` | No |
 | `devvul.com` | No |
 | `devweb.dev` | No |
+| `devxnet.com` | Yes |
 | `dewitte.xyz` | Yes |
 | `dewp.space` | No |
 | `dexnext.social` | No |
@@ -11755,6 +11756,7 @@ Here's a list of public Fediverse services.
 | `fur.is` | No |
 | `fur2.xyz` | No |
 | `fura.dev` | No |
+| `furactive.us` | No |
 | `furality.social` | No |
 | `furankum.ovh` | No |
 | `furbidden.com` | No |
@@ -16761,6 +16763,7 @@ Here's a list of public Fediverse services.
 | `katz.vision` | Yes |
 | `katze.sh` | Yes |
 | `katzenjens.de` | No |
+| `kauaku.us` | No |
 | `kavehmoravej.com` | No |
 | `kaver.it` | No |
 | `kavkaza.ru` | No |
@@ -22849,6 +22852,7 @@ Here's a list of public Fediverse services.
 | `nameless.city` | No |
 | `namelesscitizen.space` | No |
 | `namelivia.com` | No |
+| `namestaci.cz` | No |
 | `nametaketakewo.net` | Yes |
 | `namknat.win` | No |
 | `namok.be` | No |
@@ -38390,8 +38394,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,205 |
-| Normal | 29,142 |
+| Cloudflare | 9,206 |
+| Normal | 29,145 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
