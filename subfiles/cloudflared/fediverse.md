@@ -18047,6 +18047,7 @@ Here's a list of public Fediverse services.
 | `lavallee.tech` | No |
 | `lavanderblue.art` | Yes |
 | `lavatech.top` | Yes |
+| `lavenby.site` | Yes |
 | `laverdu.re` | No |
 | `lavergne.online` | No |
 | `laviadililith.eu` | No |
@@ -34338,7 +34339,7 @@ Here's a list of public Fediverse services.
 | `totalliberation.net` | No |
 | `totally.moe` | No |
 | `totallylegit.site` | No |
-| `totallynoob.com` | Yes |
+| `totallynoob.com` | No |
 | `totalnoob.club` | No |
 | `totemtube.com` | No |
 | `tothepeople.eu` | No |
@@ -38418,7 +38419,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,216 |
-| Normal | 29,158 |
+| Normal | 29,159 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
