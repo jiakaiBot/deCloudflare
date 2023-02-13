@@ -79,6 +79,7 @@ Here's a list of public Fediverse services.
 | `0px.io` | Yes |
 | `0q0.xyz` | No |
 | `0raptor.earth` | No |
+| `0sakana.xyz` | No |
 | `0sand1s.net` | Yes |
 | `0sint.social` | No |
 | `0sn.net` | Yes |
@@ -5017,6 +5018,7 @@ Here's a list of public Fediverse services.
 | `cascarilla.social` | No |
 | `caselibre.fr` | No |
 | `caserio.de` | No |
+| `cashless.gr.jp` | Yes |
 | `casioguy.com` | No |
 | `caskey-demaret.se` | No |
 | `casoetto.net` | No |
@@ -22783,6 +22785,7 @@ Here's a list of public Fediverse services.
 | `n7mn.xyz` | Yes |
 | `n8e.dev` | Yes |
 | `n8vsi.com` | No |
+| `na13.co.uk` | No |
 | `na2na.dev` | Yes |
 | `na2na.website` | No |
 | `naasat.in` | No |
@@ -38412,8 +38415,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,214 |
-| Normal | 29,155 |
+| Cloudflare | 9,215 |
+| Normal | 29,157 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
