@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-02-17: [BOS (Boston) on 2023-02-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/18r90v9s8nzl)
+- 2023-02-16: [MRS (Marseille) on 2023-02-16](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9wvs5c7bq74y)
 - 2023-02-15: [BOS (Boston) on 2023-02-15](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/33mxl0k63cqg)
 - 2023-02-11: [Network Performance Issues in APJC and EMEA](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fvdbhgtpwk88)
 - 2023-02-20: [DFW (Dallas) on 2023-02-20](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/rmt5jwr7pmlt)
