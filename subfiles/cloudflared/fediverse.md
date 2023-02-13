@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,706 |
+| com | 5,707 |
 | social | 3,686 |
-| net | 2,907 |
+| net | 2,909 |
 | org | 2,050 |
-| de | 1,925 |
+| de | 1,926 |
 
 
 - Mastodon, Pleroma, etc
@@ -6118,7 +6118,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -12764,6 +12764,7 @@ Here's a list of public Fediverse services.
 | `goggles.social` | No |
 | `gogn.in` | Yes |
 | `gogu.ma` | Yes |
+| `gohan-oisii.net` | No |
 | `goip.de` | No |
 | `goisgod.com` | Yes |
 | `goji84.xyz` | No |
@@ -17106,7 +17107,7 @@ Here's a list of public Fediverse services.
 | `kink.clinic` | No |
 | `kink.family` | No |
 | `kink.social` | Yes |
-| `kink.town` | Yes |
+| `kink.town` | No |
 | `kinks.wtf` | Yes |
 | `kinkster.dk` | No |
 | `kinktroet.social` | No |
@@ -17621,6 +17622,7 @@ Here's a list of public Fediverse services.
 | `ksite.de` | No |
 | `ksj.social` | No |
 | `ksl-bmx.de` | No |
+| `ksrgte.ch` | Yes |
 | `ksu-mastodon.com` | No |
 | `kswk.org` | No |
 | `kt2003.info` | No |
@@ -18362,7 +18364,7 @@ Here's a list of public Fediverse services.
 | `lewacki.space` | Yes |
 | `lewactwo.pl` | No |
 | `lewd.best` | No |
-| `lewd.cat` | Yes |
+| `lewd.cat` | No |
 | `lewd.cx` | No |
 | `lewd.host` | Yes |
 | `lewd.network` | No |
@@ -19908,6 +19910,7 @@ Here's a list of public Fediverse services.
 | `masatodon.com` | No |
 | `masatodon.jp` | No |
 | `masatoshi-yokota.com` | No |
+| `masawada.me` | No |
 | `maschinendeck.org` | No |
 | `mascodon.jp` | No |
 | `masdis.com` | No |
@@ -21734,6 +21737,7 @@ Here's a list of public Fediverse services.
 | `moe.cat` | No |
 | `moe.gy` | Yes |
 | `moe.hm` | No |
+| `moe.lol` | Yes |
 | `moe.onl` | Yes |
 | `moe.reisen` | No |
 | `moe.tips` | Yes |
@@ -32127,6 +32131,7 @@ Here's a list of public Fediverse services.
 | `sujets-libres.fr` | No |
 | `sukadon.cf` | No |
 | `sukany.cz` | No |
+| `sukara.dev` | Yes |
 | `sukebeneko.com` | No |
 | `sulairris.com` | No |
 | `sulegna.de` | Yes |
@@ -35549,6 +35554,7 @@ Here's a list of public Fediverse services.
 | `uzume.uno` | No |
 | `v-elf.com` | No |
 | `v-insanity.com` | No |
+| `v-laboratory.com` | Yes |
 | `v.nu` | Yes |
 | `v.st` | No |
 | `v01d.app` | No |
@@ -35860,6 +35866,7 @@ Here's a list of public Fediverse services.
 | `vielfalt-begegnung.de` | No |
 | `vientos.live` | Yes |
 | `vier.beer` | No |
+| `vier1.de` | No |
 | `vierkantor.com` | No |
 | `vietmojo.space` | No |
 | `vigaucho.eu` | No |
@@ -37373,7 +37380,7 @@ Here's a list of public Fediverse services.
 | `xmit.xyz` | No |
 | `xmob.me` | No |
 | `xmob.social` | No |
-| `xmpp.moe` | Yes |
+| `xmpp.moe` | No |
 | `xmpp.net` | No |
 | `xmr.cx` | No |
 | `xmr.se` | No |
@@ -37948,6 +37955,7 @@ Here's a list of public Fediverse services.
 | `yuri.ro` | Yes |
 | `yurialbuquerque.dev` | No |
 | `yurikonanao.cloud` | No |
+| `yurina256.net` | No |
 | `yurisora.com` | No |
 | `yuritopia.net` | No |
 | `yuru.site` | Yes |
@@ -38385,6 +38393,7 @@ Here's a list of public Fediverse services.
 | `zyxl.xyz` | No |
 | `zyz.link` | No |
 | `zyzz.me` | Yes |
+| `zyzzsupremacy.xyz` | No |
 | `zz777.ru` | Yes |
 | `zzhsuper3.rocks` | No |
 | `zztails.gay` | No |
@@ -38399,8 +38408,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,209 |
-| Normal | 29,147 |
+| Cloudflare | 9,211 |
+| Normal | 29,154 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
