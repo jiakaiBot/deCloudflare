@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,705 |
+| com | 5,706 |
 | social | 3,686 |
 | net | 2,907 |
 | org | 2,050 |
@@ -5639,6 +5639,7 @@ Here's a list of public Fediverse services.
 | `chumley.io` | No |
 | `chun.pro` | Yes |
 | `chunboan.zone` | No |
+| `chunchun.world` | No |
 | `chungus.cc` | No |
 | `chungus.online` | Yes |
 | `chunkyguys.app` | No |
@@ -16635,6 +16636,7 @@ Here's a list of public Fediverse services.
 | `kameha.click` | No |
 | `kamel.social` | No |
 | `kamens.us` | Yes |
+| `kamikaze.moe` | No |
 | `kamiyacho.net` | No |
 | `kammeyer.xyz` | No |
 | `kamp.site` | No |
@@ -24715,6 +24717,7 @@ Here's a list of public Fediverse services.
 | `ongstar.jp` | No |
 | `onic.eu` | No |
 | `onigiridon.com` | No |
+| `onihajim.com` | Yes |
 | `oniko-branch.moe` | No |
 | `onion.ly` | No |
 | `onion.pet` | No |
@@ -30173,6 +30176,7 @@ Here's a list of public Fediverse services.
 | `shiny.gift` | No |
 | `shinyuu.net` | No |
 | `shio.moe` | Yes |
+| `shiokazehs.jp` | Yes |
 | `shiosyakeyakini.info` | No |
 | `shioyaki.party` | Yes |
 | `shipnix.io` | No |
@@ -31827,6 +31831,7 @@ Here's a list of public Fediverse services.
 | `stiniog.social` | No |
 | `stinkt.online` | Yes |
 | `stinkytoot.social` | Yes |
+| `stkr.dev` | Yes |
 | `stkrdn.xyz` | No |
 | `stl.fyi` | No |
 | `stlouist.com` | No |
@@ -38394,8 +38399,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,206 |
-| Normal | 29,145 |
+| Cloudflare | 9,209 |
+| Normal | 29,147 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
