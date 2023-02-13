@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [BleepingComputer Cloudflare blocks record-breaking 71 million RPS DDoS attack](https://github.com/MatBenfield/news/issues/9607)
 - [Nextcloud behind Cloudflare, GPSlogger doesn't upload](https://github.com/mendhak/gpslogger/issues/1052)
 - [The allowlist field should just require a CID (not a URL) so the app can find a suitable gateway](https://github.com/Network-Goods/hypercerts/issues/254)
 - [Infinite redirects on several pages](https://github.com/readthedocs/readthedocs.org/issues/10017)
