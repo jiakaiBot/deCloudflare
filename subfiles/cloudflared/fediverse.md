@@ -36458,6 +36458,7 @@ Here's a list of public Fediverse services.
 | `webhop.net` | No |
 | `webionite.com` | No |
 | `webish.dev` | No |
+| `webitel.me` | Yes |
 | `webjunkie.nl` | No |
 | `weblib.re` | No |
 | `weblibre.org` | No |
@@ -38415,7 +38416,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,215 |
+| Cloudflare | 9,216 |
 | Normal | 29,157 |
 
 
