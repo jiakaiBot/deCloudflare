@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [✨ Add way to specify PLATFORM for action](https://github.com/BuilderIO/qwik/issues/2952)
 - [Vite ErrorOverlay TypeError](https://github.com/sveltejs/kit/issues/9010)
 - [发生异常: URLError <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)> ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:1129) During handling of the above exception, another exception occurred: File "/Users/xiaoyichao/projects/ChatGPT-Proxy/proxy.py", line 37, in <module> ) = Cloudflare(proxy=PROXY).get_cf_cookies() urllib.error.URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>](https://github.com/acheong08/ChatGPT-Proxy/issues/15)
 - [1337x (testing) Exception (1337x): The cookies provided by FlareSolverr are not valid: The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/700)
