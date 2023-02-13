@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [The allowlist field should just require a CID (not a URL) so the app can find a suitable gateway](https://github.com/Network-Goods/hypercerts/issues/254)
+- [Infinite redirects on several pages](https://github.com/readthedocs/readthedocs.org/issues/10017)
 - [✨ Add way to specify PLATFORM for action](https://github.com/BuilderIO/qwik/issues/2952)
 - [Vite ErrorOverlay TypeError](https://github.com/sveltejs/kit/issues/9010)
 - [发生异常: URLError <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)> ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:1129) During handling of the above exception, another exception occurred: File "/Users/xiaoyichao/projects/ChatGPT-Proxy/proxy.py", line 37, in <module> ) = Cloudflare(proxy=PROXY).get_cf_cookies() urllib.error.URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>](https://github.com/acheong08/ChatGPT-Proxy/issues/15)
