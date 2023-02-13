@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Nextcloud behind Cloudflare, GPSlogger doesn't upload](https://github.com/mendhak/gpslogger/issues/1052)
 - [The allowlist field should just require a CID (not a URL) so the app can find a suitable gateway](https://github.com/Network-Goods/hypercerts/issues/254)
 - [Infinite redirects on several pages](https://github.com/readthedocs/readthedocs.org/issues/10017)
 - [✨ Add way to specify PLATFORM for action](https://github.com/BuilderIO/qwik/issues/2952)
