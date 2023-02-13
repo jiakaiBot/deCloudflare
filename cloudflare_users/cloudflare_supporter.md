@@ -5322,8 +5322,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -7188,6 +7188,7 @@ Do not create new issue or we will close it as duplicate.
 | [myat_libra@twitter](https://twitter.com/myat_libra/status/1390613364162842624) | advertise |
 | [myayaesin@twitter](https://twitter.com/myayaesin/status/1390430263465832450) | advertise |
 | [myazin7@twitter](https://twitter.com/myazin7/status/1378303362303688705) | advertise |
+| [MyEcoria@twitter](https://twitter.com/MyEcoria/status/1625258862201774081) | advertise |
 | [MyeikPyae@twitter](https://twitter.com/MyeikPyae/status/1390309179072516098) | advertise |
 | [myfutur70735977@twitter](https://twitter.com/myfutur70735977/status/1390130425838723074) | advertise |
 | [MygMoe@twitter](https://twitter.com/MygMoe/status/1393034658363834371) | advertise |
