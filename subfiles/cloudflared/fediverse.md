@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,707 |
-| social | 3,686 |
+| social | 3,687 |
 | net | 2,909 |
 | org | 2,050 |
 | de | 1,926 |
@@ -5774,6 +5774,7 @@ Here's a list of public Fediverse services.
 | `clearairflying.com` | Yes |
 | `clearly.rocks` | Yes |
 | `clearpixels.org` | Yes |
+| `cleary.au` | No |
 | `cleasky.blue` | No |
 | `cleave.nz` | Yes |
 | `cleeb.net` | Yes |
@@ -6868,7 +6869,7 @@ Here's a list of public Fediverse services.
 | `cursedquail.com` | No |
 | `cursoryreview.org` | No |
 | `curta.cc` | No |
-| `curta.red` | No |
+| `curta.red` | Yes |
 | `curtisjewell.website` | No |
 | `curtismchale.ca` | No |
 | `curttech.com` | No |
@@ -13276,6 +13277,7 @@ Here's a list of public Fediverse services.
 | `h4.io` | Yes |
 | `h4x.group` | No |
 | `h4x0r.army` | Yes |
+| `h4x0r.host` | Yes |
 | `h55.social` | No |
 | `h5q.net` | Yes |
 | `h7i.jp` | No |
@@ -29188,6 +29190,7 @@ Here's a list of public Fediverse services.
 | `samenet.social` | No |
 | `samerion.com` | No |
 | `samezo.net` | No |
+| `samf.me` | Yes |
 | `samfira.com` | No |
 | `samh.us` | No |
 | `samharris.org` | Yes |
@@ -32200,6 +32203,7 @@ Here's a list of public Fediverse services.
 | `supergood.social` | No |
 | `superhamster.tk` | No |
 | `superheronecromancer.games` | No |
+| `superhighway.social` | No |
 | `superkultur.dk` | No |
 | `superleet.club` | No |
 | `supermotoaustralia.com` | No |
@@ -38408,8 +38412,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,211 |
-| Normal | 29,154 |
+| Cloudflare | 9,214 |
+| Normal | 29,155 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
