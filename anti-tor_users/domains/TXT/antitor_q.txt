@@ -252,6 +252,7 @@ etc-ethnfds.qhigh.com
 etc-mvdsa.qpoe.com
 etc-qavcb.qhigh.com
 fs.qaeval.com
+gisext.qfes.qld.gov.au
 goo.stage.qcsafety.xyz
 gsteam.queue-it.net
 it.quoreitaliano.it
@@ -276,11 +277,14 @@ quicknote.io
 quotesmasala.com
 rustdesk.quedenau.de
 sfv5.online.qas.com
+www.congresso-de-casais.quadrangularsedemacapa.com.br
 www.cuentamecuentos.quieromasingresos.com
 www.hotelbilling.qntminfo.com
 www.oktatas.qsec.hu
+www.pr-congresso-de-mulh.quadrangularsedemacapa.com.br
 www.qcmfunds.com
 www.qespresso.kz
+www.qinetiq.com
 www.qtips.com
 www.quantumsafety.com.sg
 www.quarantashipping.com
