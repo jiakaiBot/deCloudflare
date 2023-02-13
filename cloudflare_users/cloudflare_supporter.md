@@ -1924,6 +1924,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChenBaiHui1@twitter](https://twitter.com/ChenBaiHui1/status/1391426148903514113) | advertise |
 | [chendinhit@twitter](https://twitter.com/chendinhit/status/1519025856399560704) | advertise |
 | [ChendipraveenC@twitter](https://twitter.com/ChendipraveenC/status/1517752295626207232) | advertise |
+| [ChenGravitation@twitter](https://twitter.com/ChenGravitation/status/1625234353755242496) | advertise |
 | [chennaicpl@twitter](https://twitter.com/chennaicpl/status/1566754531576356866) | advertise |
 | [cherrjboom@twitter](https://twitter.com/cherrjboom/status/1604427064723247104) | advertise |
 | [Cherry7784@twitter](https://twitter.com/Cherry7784/status/1507027917351505923) | advertise |
@@ -10473,8 +10474,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
