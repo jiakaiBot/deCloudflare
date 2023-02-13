@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,700 |
 | social | 3,676 |
 | net | 2,905 |
-| org | 2,045 |
+| org | 2,046 |
 | de | 1,925 |
 
 
@@ -10768,7 +10768,7 @@ Here's a list of public Fediverse services.
 | `fightthis.net` | Yes |
 | `fightxing.com` | Yes |
 | `figureskating.online` | Yes |
-| `fika.moe` | Yes |
+| `fika.moe` | No |
 | `fikaverse.club` | No |
 | `fiks.de` | No |
 | `file-explorers.club` | No |
@@ -30484,6 +30484,7 @@ Here's a list of public Fediverse services.
 | `sjm.codes` | No |
 | `sjolin.io` | No |
 | `sjsr.social` | No |
+| `sk85.org` | Yes |
 | `skaegabe.dk` | No |
 | `skaeya.com` | No |
 | `skaggsfamily.us` | Yes |
@@ -38353,7 +38354,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,192 |
-| Normal | 29,117 |
+| Normal | 29,118 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
