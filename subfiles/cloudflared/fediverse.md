@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,707 |
+| com | 5,708 |
 | social | 3,687 |
 | net | 2,909 |
 | org | 2,050 |
@@ -4100,6 +4100,7 @@ Here's a list of public Fediverse services.
 | `boles.co` | No |
 | `boles.social` | Yes |
 | `boles.xyz` | No |
+| `bolesblogs.com` | No |
 | `bolha.one` | Yes |
 | `bolha.photos` | Yes |
 | `bolha.social` | Yes |
@@ -38417,7 +38418,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,216 |
-| Normal | 29,157 |
+| Normal | 29,158 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
