@@ -2541,6 +2541,7 @@ Do not create new issue or we will close it as duplicate.
 | [DJojotay@twitter](https://twitter.com/DJojotay/status/1391966148896313345) | advertise |
 | [Djongov@twitter](https://twitter.com/Djongov/status/1445299786047963138) | advertise |
 | [DJzVanNa@twitter](https://twitter.com/DJzVanNa/status/1384131916484399120) | advertise |
+| [dkaliasim85@twitter](https://twitter.com/dkaliasim85/status/1625192841390526489) | advertise |
 | [DKSum4@twitter](https://twitter.com/DKSum4/status/1401594633134567426) | advertise |
 | [DL2419@twitter](https://twitter.com/DL2419/status/1389381874758291457) | advertise |
 | [dlcmh@twitter](https://twitter.com/dlcmh/status/1504010502481281024) | advertise |
