@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,708 |
+| com | 5,709 |
 | social | 3,687 |
-| net | 2,909 |
+| net | 2,911 |
 | org | 2,050 |
 | de | 1,926 |
 
@@ -4527,7 +4527,7 @@ Here's a list of public Fediverse services.
 | `bstly.de` | No |
 | `btbytes.com` | Yes |
 | `btc.gdn` | Yes |
-| `btc21m.net` | Yes |
+| `btc21m.net` | No |
 | `btcmb.org` | No |
 | `btcpins.com` | No |
 | `bternes.com` | No |
@@ -5233,7 +5233,7 @@ Here's a list of public Fediverse services.
 | `cesiandalex.com` | Yes |
 | `cesium.pw` | Yes |
 | `ceskar.xyz` | No |
-| `ceske.site` | Yes |
+| `ceske.site` | No |
 | `cesko.social` | Yes |
 | `cestoliv.com` | No |
 | `cetialphafive.com` | No |
@@ -17717,6 +17717,7 @@ Here's a list of public Fediverse services.
 | `kuscheltierdoktor.de` | No |
 | `kusoda.net` | Yes |
 | `kusoneko.moe` | No |
+| `kusozako.com` | Yes |
 | `kusso-yotta.com` | Yes |
 | `kusu.icu` | Yes |
 | `kuu.moe` | Yes |
@@ -19894,6 +19895,7 @@ Here's a list of public Fediverse services.
 | `martz.codes` | No |
 | `marud.fr` | No |
 | `marufeuille.dev` | No |
+| `marunai.net` | Yes |
 | `marupost.jp` | No |
 | `marussy.com` | No |
 | `marutani.xyz` | No |
@@ -21116,6 +21118,7 @@ Here's a list of public Fediverse services.
 | `mfbfreaks.nl` | No |
 | `mfg.fyi` | No |
 | `mfjt.jp` | Yes |
+| `mfmfuyu.net` | Yes |
 | `mfojtik.io` | Yes |
 | `mfr.social` | No |
 | `mfraters.net` | No |
@@ -38418,8 +38421,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,216 |
-| Normal | 29,159 |
+| Cloudflare | 9,217 |
+| Normal | 29,161 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
