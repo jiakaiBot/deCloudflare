@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,713 |
-| social | 3,690 |
+| com | 5,716 |
+| social | 3,691 |
 | net | 2,913 |
 | org | 2,050 |
 | de | 1,926 |
@@ -13614,6 +13614,7 @@ Here's a list of public Fediverse services.
 | `hatred.club` | No |
 | `hatthieves.es` | No |
 | `hatto.dev` | Yes |
+| `hatton.social` | No |
 | `hauchruh.de` | No |
 | `haukola.ru` | No |
 | `haulo.fi` | No |
@@ -17274,6 +17275,7 @@ Here's a list of public Fediverse services.
 | `klg-tree.jp` | No |
 | `kliberal.com` | Yes |
 | `kliklak.net` | No |
+| `klingele.dev` | No |
 | `klinikowski.pl` | No |
 | `klinikretter.de` | Yes |
 | `kliu.io` | Yes |
@@ -19947,6 +19949,7 @@ Here's a list of public Fediverse services.
 | `masip.cat` | No |
 | `masked.cloud` | No |
 | `maskneko.com` | No |
+| `maslipmat.com` | No |
 | `masochi.st` | No |
 | `masonbee.nz` | No |
 | `masonx.ca` | Yes |
@@ -20878,6 +20881,7 @@ Here's a list of public Fediverse services.
 | `meisskey.one` | Yes |
 | `meissners.me` | No |
 | `meitendo.space` | No |
+| `mejatto.com` | No |
 | `mejia.social` | No |
 | `mejiaforcontroller.com` | Yes |
 | `mel.sh` | No |
@@ -21934,6 +21938,7 @@ Here's a list of public Fediverse services.
 | `moonbutt.science` | Yes |
 | `mooncell.uk` | No |
 | `moondeer.blog` | Yes |
+| `moongirl.io` | No |
 | `moonglade.net` | No |
 | `moonhaus.eu` | No |
 | `moonlight-party.net` | No |
@@ -27649,6 +27654,7 @@ Here's a list of public Fediverse services.
 | `radiotogether.uk` | No |
 | `radiotube.org` | No |
 | `radlc.com` | No |
+| `radnovich.com` | No |
 | `radon.social` | No |
 | `radres.xyz` | No |
 | `radsportsalat.de` | No |
@@ -38438,7 +38444,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,221 |
-| Normal | 29,173 |
+| Normal | 29,179 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
