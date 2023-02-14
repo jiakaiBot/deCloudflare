@@ -82,7 +82,7 @@ Here's a list of public Matrix services.
 | matrix.libreon.fr | No |
 | matrix.llamarific.social | No |
 | lugnsk.org | No |
-| magdeburg.jetzt | No |
+| chat.magdeburg.jetzt | No |
 | mailstation.de | No |
 | mandragot.org | No |
 | matrix.marmottel.com | No |
