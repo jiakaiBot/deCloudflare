@@ -811,6 +811,7 @@ cdn.discourse.beta.jamstud.io
 cloud.jascii.dev
 cloud.joshcolletta.com
 contact-blacklist.justcall.dev
+control.joa2020.jp
 deutsche-tanzkompanie.jweiland-hosting.de
 discodyes.jillybilly.com
 discourse.jarbelix.tk
@@ -824,6 +825,7 @@ gg.joe.dj
 github.jeidsan.com.br
 gitlab.new.blog.blog.store.redmine.junghanns.it
 google.justflourish.co.uk
+helpdesk.jatfw.com
 hermes.jumpstart.hu
 hrbc.jobs-dimples.net
 ja-scotiabank.com
@@ -840,6 +842,7 @@ jasalivestreamingmurah.com
 jascii.dev
 jaydenunlock.com
 jeanjpacheco.icu
+jeffkreeftmeijer.com
 jerbgavitanomoshii.com
 jeszczenie.pl
 jet1security.com
@@ -852,6 +855,7 @@ jjflexo.com
 jkipl.in
 jmb-servicestransport.com
 jne.go.kr
+johnmstephens.icu
 johnnyhallyday.com
 joinamfam.com
 joinrock.ae
@@ -878,6 +882,7 @@ junobeach.org
 juri-hoffmann.de
 jvcldms-office365.aws-us-east-1-prod.svc.jivehosted.com
 jwsmoving.com
+lawyers.justia.com
 linkedin.job-vacancy.my.id
 live.jmfl.com
 loans.jhfcu.org
@@ -890,6 +895,7 @@ nl.preprod.japanspecialist.com
 office365-office365.aws-us-east-1-prod.svc.jivehosted.com
 origin-tst2-tuxedo.gcp.josbank.com
 pt.juniperspecialgifts.com
+rakuraku-kensuke.jmdc.co.jp
 rwbdemo.public.jip.jp
 sberbank.avito.avito.avito.www.avito.covid19.juliecolombe.com
 sberbank.avito.avito.blablacar.avito.covid19.juliecolombe.com
@@ -897,8 +903,10 @@ sberbank.avito.sber.www.covid19.juliecolombe.com
 semburankilat.jompurchase.com
 sts.jerez.fun
 tasyuminoblog.iroiroblog.jetboy.jp
+technology.jaredrimer.net
 tickets.jojischool.nl
 track.jetsend.com
+twitch.jcorelife.com
 twitchwebhook.jedrzejostrowski.pl
 twitchwebhook.jmtk.co
 twitchwebhooktest.jedrzejostrowski.pl
@@ -1020,7 +1028,6 @@ jb-contadores.com
 jbhelpdesk.dk
 jcmit.net
 jconnect-build.uat.jivascience.com
-jdelivery.jdtecnologiapb.com
 jdsr.se
 jedewette.online
 jeevatrials.com
@@ -1099,7 +1106,6 @@ www.jazzappreciationsociety.com
 www.jazzedmagazine.com
 www.jb-contadores.com
 www.jcrabhouse.com
-www.jdelivery.jdtecnologiapb.com
 www.jean-eric-dj-animation.fr
 www.jennyodell.com
 www.jensbilling.se
