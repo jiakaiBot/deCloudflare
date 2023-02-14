@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-02-20: [ARN (Stockholm) on 2023-02-20](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vkdplmh2g5fg)
 - 2023-02-21: [ICN (Seoul) on 2023-02-21](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vm6nwdpzlm2v)
 - 2023-02-16: [BOS (Boston) on 2023-02-16](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pzfqxwl1sdy5)
 - 2023-02-15: [CDG (Paris) on 2023-02-15](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lm3tv72mnwgr)
