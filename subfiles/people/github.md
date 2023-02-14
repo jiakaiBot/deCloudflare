@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [The allowlist field should just require a CID (not a URL) so the app can find a suitable gateway](https://github.com/hypercerts-org/hypercerts/issues/254)
 - [json_extract exploding when inside map](https://github.com/duckdb/duckdb/issues/6259)
 - [Is this package working?](https://github.com/supabase-community/postgrest-rs/issues/49)
 - [BleepingComputer Cloudflare blocks record-breaking 71 million RPS DDoS attack](https://github.com/MatBenfield/news/issues/9607)
