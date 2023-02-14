@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cache s3 images on CDN](https://github.com/hicommonwealth/commonwealth/issues/2792)
 - [Issue uploading JSON file](https://github.com/nftstorage/python-client/issues/6)
 - [The allowlist field should just require a CID (not a URL) so the app can find a suitable gateway](https://github.com/hypercerts-org/hypercerts/issues/254)
 - [json_extract exploding when inside map](https://github.com/duckdb/duckdb/issues/6259)
