@@ -2831,7 +2831,7 @@ Here's a list of public Fediverse services.
 | `baa.social` | No |
 | `baab.de` | No |
 | `baacke.net` | No |
-| `baarsch.net` | No |
+| `baarsch.net` | Yes |
 | `baazee.social` | No |
 | `babar1917.com` | No |
 | `babar24.com` | No |
@@ -11271,7 +11271,7 @@ Here's a list of public Fediverse services.
 | `fpv.social` | No |
 | `fpvogel.com` | Yes |
 | `fqserv.eu` | No |
-| `fr.cr` | No |
+| `fr.cr` | Yes |
 | `fr.nf` | No |
 | `fr.to` | Yes |
 | `fr13nd5.com` | No |
@@ -25518,6 +25518,7 @@ Here's a list of public Fediverse services.
 | `paperneko.moe` | Yes |
 | `papey.fr` | No |
 | `papill0n.org` | No |
+| `papotage.club` | Yes |
 | `papote.eu` | Yes |
 | `papylhomme.site` | No |
 | `para.watch` | No |
@@ -38464,8 +38465,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,225 |
-| Normal | 29,196 |
+| Cloudflare | 9,228 |
+| Normal | 29,194 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
