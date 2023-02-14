@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,716 |
+| com | 5,717 |
 | social | 3,691 |
 | net | 2,913 |
 | org | 2,050 |
@@ -5262,6 +5262,7 @@ Here's a list of public Fediverse services.
 | `chablis.social` | No |
 | `chaconne.club` | No |
 | `chadda.se` | Yes |
+| `chadhigh.com` | Yes |
 | `chadig.com` | No |
 | `chadkohalyk.com` | Yes |
 | `chadland.net` | No |
@@ -38443,7 +38444,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,221 |
+| Cloudflare | 9,222 |
 | Normal | 29,179 |
 
 
