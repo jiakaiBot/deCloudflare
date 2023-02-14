@@ -2881,6 +2881,7 @@ Here's a list of public Fediverse services.
 | `bad-radio.social` | No |
 | `bad.mn` | No |
 | `bad.network` | No |
+| `bad2000.fun` | No |
 | `badabadoc.online` | No |
 | `badabam.net` | No |
 | `badadmin.net` | No |
@@ -10688,7 +10689,7 @@ Here's a list of public Fediverse services.
 | `feraltomatoes.com` | No |
 | `ferd.at` | No |
 | `ferelith.blue` | No |
-| `fergl.ie` | No |
+| `fergl.ie` | Yes |
 | `ferguson.today` | No |
 | `feria.me.uk` | Yes |
 | `fernomac.rip` | No |
@@ -36225,6 +36226,7 @@ Here's a list of public Fediverse services.
 | `vulpo.one` | Yes |
 | `vulturion.com` | No |
 | `vutazeal.com` | Yes |
+| `vvil.jp` | No |
 | `vvitches.live` | No |
 | `vvn.space` | No |
 | `vvv-net.de` | No |
@@ -38465,8 +38467,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,228 |
-| Normal | 29,194 |
+| Cloudflare | 9,229 |
+| Normal | 29,195 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
