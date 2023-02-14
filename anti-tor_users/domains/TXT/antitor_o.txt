@@ -1274,6 +1274,7 @@ amazon-vedsa.organiccrap.com
 api.aws.seed.dev.k8s.ondemand.com
 api.cb55tqh30c-australia1-s1-public.model-t.cc.commerce.ondemand.com
 api.opentok.com
+armstrong-law.outlookdev.co.uk
 azure.onenine.cloud
 booking.orangeboxphotobooth.com
 booking.oyes.pl
@@ -1306,6 +1307,7 @@ extranetprdintegrations.outsystems.net
 front.selectour-sandbox.orchestra-platform.com
 gate.ohlzs.cz
 git.gitlab.rf6ir3iy3gyqqxx.www.v1.olimp-shop.net
+gitlab.correo.oknaprof.su
 gitlab.git.git.staging.opt-vk.ru
 gitlab.gitlab.git.fe.olgatnt.ru
 gordini.oscc.com.br
@@ -1318,6 +1320,8 @@ info.otto-payments.de
 invoice.oracleaviation.co.za
 m.ocbcwhmac.com
 mail.openmicroblogger.org
+manannan.outlookdev.co.uk
+matls-sso.openbanking.org.uk
 member.operatorsunatindonesia.com
 monitoring-aws.omnicasa.com
 monitoring.bpl.outsystemscloud.io
@@ -1327,8 +1331,10 @@ monitoring.lss.oimesh.cloud
 monitoring.obt-services.ch
 monitoring.omnys.com
 monitoring.pp.outsystemscloud.io
+monitoring.sac.outsystemscloud.io
 monitoring3.ovyka.com
 mte1-oc.hospitality-api.eu-frankfurt-1.ocs.oraclecloud.com
+mtrace.play.t002.ottcn.com
 mww.okwiththate.quest
 navi-za-kamion.onebgshop.com
 nebula.oschene.com
@@ -1342,6 +1348,7 @@ objectstorage.ap-mumbai-1.oraclecloud.com
 objectstorage.sa-vinhedo-1.oraclecloud.com
 oceans-group-booking.com
 odoo16.odooetc21.com
+ofertasdesucesso.com.br
 ofertasemconta.com.br
 okanaganjournal.com
 okbienestar.com
@@ -1349,6 +1356,7 @@ oketuki.fi
 oktaedumaterijali.co.rs
 oktahanif.com
 oktava.lutsk.ua
+omarstietravelconsult.com
 omegasupport.dk
 omg3qmobile.com
 omkaaltyapi.com
@@ -1356,7 +1364,9 @@ onboard-app.openinvoice.com
 onecitizendaily.com
 onedrire.com
 onestopshopwallet.com
+oneworldstaffing.ca
 online-eflowtollpayment.com
+online-support-identity.com
 online-tollpayment.com
 onnoboerwinkel.nl
 ontarioportal.com
@@ -1378,16 +1388,21 @@ originbonline.com
 origitea.ru
 oulunkattopalvelu.fi
 oulunkehitysvammaistentuki.fi
+ourbrainbank.org
 ourtime.dk
 ourtime.us
 outletsofadirect.fr
+outlookaero.aero
 outlookcalederintegrationwithmonday.com
 outlookfaq.net
 ouvindomusica.com
+overflowcompact.de
 overstockdlz.com
 paribahis.oiuarxs.com
 payments.outsourcingangel.com
+payu.okta-emea.com
 r1.res.office365.com
+reactiv8b.outlookdev.co.uk
 rec-gestion-pe.osmos.tech
 resousercerdfufufufu.organiccrap.com
 roblog248003.respond.ontraport.net
@@ -1407,7 +1422,9 @@ slz.onadiamonds.com
 smssit.onepuhunan.com.ph
 staging.opengovernment.ke
 stateofalret.odoo.com
+streamahelafilm.ouvavotreargent.com
 support.demo.osmianski.com
+sw.orbitiongroup.com
 sw6.officedirekt-servicecenter.de
 swiftobjectstorage.us-phoenix-1.oraclecloud.com
 terraform.oneviewportal.cloud
@@ -1422,6 +1439,7 @@ waf.ca-toronto-1.oci.oraclecloud.com
 webmail.openmicroblogger.org
 wikis.openlinksw.com
 wp-a900000000000000.id.admin.mdn.ors.at
+ws.ocpp.one
 www.account.oceanfundies.com
 www.appleby.one-name.net
 www.ardeyapi.orgehome.com
@@ -1436,8 +1454,11 @@ www.git.gitlab.gitlab.gitlab.www2.backup.olimp-shop.net
 www.gitlab.git.gitlab.git.fe.olgatnt.ru
 www.gitlab.tv.ooo-medinkom.ru
 www.google.ocaleni.pl
+www.invoice.ongray.com
+www.invoice.oorize.com
 www.j2c.onthetrack.io
 www.livid.outer-control.com
+www.lojadonesso.oruc.com.br
 www.managertoko.otodidak.tech
 www.obanacaixa.com
 www.oceans-group-booking.com
@@ -1477,9 +1498,13 @@ www.oss-forums.com
 www.osverdes.pt
 www.oulunkattopalvelu.fi
 www.ourtime.dk
+www.outlookaero.aero
+www.owensoundsuntimes.com
+www.serenitypoolservices.olivermarketinggroup.net
 www.seriededinero.shop.oscarli.com.br
 www.shooting2020.oktavaesumpfer.com
 www.staging.opengovernment.ke
+www.streamahelafilm.ouvavotreargent.com
 www.surokkha.gov.bd.verify.online-id.site
 www.tangerinemountain.orderfastfoodanime.com
 www.yoga.onbooking.ca
