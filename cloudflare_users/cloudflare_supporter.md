@@ -3834,6 +3834,7 @@ Do not create new issue or we will close it as duplicate.
 | [hlyine@twitter](https://twitter.com/hlyine/status/1391813441375981571) | advertise |
 | [HMA2421998@twitter](https://twitter.com/HMA2421998/status/1390041016690905088) | advertise |
 | [Hmee04832631@twitter](https://twitter.com/Hmee04832631/status/1390389504314265600) | advertise |
+| [HMigu6@twitter](https://twitter.com/HMigu6/status/1625281174967820290) | advertise |
 | [hmonethawtar@twitter](https://twitter.com/hmonethawtar/status/1391661251399356421) | advertise |
 | [hmoo_yint@twitter](https://twitter.com/hmoo_yint/status/1376867328655167489) | advertise |
 | [hmtkha@twitter](https://twitter.com/hmtkha/status/1620191779818700801) | advertise |
@@ -6291,6 +6292,7 @@ Do not create new issue or we will close it as duplicate.
 | [mallikiss@twitter](https://twitter.com/mallikiss/status/1515454565197692928) | advertise |
 | [MalluBoii@twitter](https://twitter.com/MalluBoii/status/1386720777110622218) | advertise |
 | [MalshaManuri@twitter](https://twitter.com/MalshaManuri/status/1550120147364372482) | advertise |
+| [malsulimain@twitter](https://twitter.com/malsulimain/status/1625273262665080833) | advertise |
 | [malvprass@twitter](https://twitter.com/malvprass/status/1385256169795588096) | advertise |
 | [MalwarePeter@twitter](https://twitter.com/MalwarePeter/status/1604834102556893185) | advertise |
 | [malwifati@twitter](https://twitter.com/malwifati/status/1381271570304401408) | advertise |
