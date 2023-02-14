@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,693 |
 | net | 2,915 |
 | org | 2,051 |
-| de | 1,927 |
+| de | 1,928 |
 
 
 - Mastodon, Pleroma, etc
@@ -1953,6 +1953,7 @@ Here's a list of public Fediverse services.
 | `aoirint.com` | No |
 | `aoitofu.net` | No |
 | `aonyx-cinerea.fun` | No |
+| `aoq.me` | Yes |
 | `aorinngo.ga` | No |
 | `aorinngo.tk` | No |
 | `aorinngo.top` | No |
@@ -9125,6 +9126,7 @@ Here's a list of public Fediverse services.
 | `edheil.com` | No |
 | `edi.social` | Yes |
 | `edibleb.one` | No |
+| `edieh.de` | No |
 | `edina.st` | Yes |
 | `ediot.social` | No |
 | `ediscovery.social` | No |
@@ -38467,8 +38469,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,229 |
-| Normal | 29,195 |
+| Cloudflare | 9,230 |
+| Normal | 29,196 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
