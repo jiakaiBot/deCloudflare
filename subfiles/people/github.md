@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [json_extract exploding when inside map](https://github.com/duckdb/duckdb/issues/6259)
 - [Is this package working?](https://github.com/supabase-community/postgrest-rs/issues/49)
 - [BleepingComputer Cloudflare blocks record-breaking 71 million RPS DDoS attack](https://github.com/MatBenfield/news/issues/9607)
 - [Nextcloud behind Cloudflare, GPSlogger doesn't upload](https://github.com/mendhak/gpslogger/issues/1052)
