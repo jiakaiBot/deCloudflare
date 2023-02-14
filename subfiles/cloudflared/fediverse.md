@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,719 |
+| com | 5,720 |
 | social | 3,693 |
 | net | 2,915 |
 | org | 2,051 |
@@ -6523,6 +6523,7 @@ Here's a list of public Fediverse services.
 | `craftbeer.social` | No |
 | `craftberries.town` | Yes |
 | `craftcat.dev` | Yes |
+| `craftcms.com` | Yes |
 | `craftingcomrades.net` | Yes |
 | `craftodon.social` | Yes |
 | `craftplacer.moe` | No |
@@ -10194,7 +10195,7 @@ Here's a list of public Fediverse services.
 | `falk.us` | No |
 | `falkenhagen.de` | No |
 | `falkensee.social` | No |
-| `falkenslabyrinth.net` | No |
+| `falkenslabyrinth.net` | Yes |
 | `falkensweb.com` | No |
 | `falktx.com` | No |
 | `falkvinge.net` | Yes |
@@ -38469,8 +38470,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,230 |
-| Normal | 29,196 |
+| Cloudflare | 9,232 |
+| Normal | 29,195 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
