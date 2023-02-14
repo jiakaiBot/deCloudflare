@@ -1688,6 +1688,7 @@ Do not create new issue or we will close it as duplicate.
 | [bright_wyne@twitter](https://twitter.com/bright_wyne/status/1391849321524436992) | advertise |
 | [BrillanteAndrei@twitter](https://twitter.com/BrillanteAndrei/status/1386016310790873088) | advertise |
 | [BrindleIt@twitter](https://twitter.com/BrindleIt/status/1511705577449267201) | advertise |
+| [BrittanyBrian5@twitter](https://twitter.com/BrittanyBrian5/status/1625426154541678592) | advertise |
 | [BroadbandInst@twitter](https://twitter.com/BroadbandInst/status/1591887893274189824) | advertise |
 | [broken__wind@twitter](https://twitter.com/broken__wind/status/1551971580468760578) | advertise |
 | [Brom72825358@twitter](https://twitter.com/Brom72825358/status/1552579310245908480) | advertise |
@@ -6607,6 +6608,7 @@ Do not create new issue or we will close it as duplicate.
 | [me_mmzu@twitter](https://twitter.com/me_mmzu/status/1393107449863839744) | advertise |
 | [me_sizzler@twitter](https://twitter.com/me_sizzler/status/1536529221866033152) | advertise |
 | [mfarish_khan@twitter](https://twitter.com/mfarish_khan/status/1387547342132310017) | advertise |
+| [MG96326346@twitter](https://twitter.com/MG96326346/status/1625319816243585024) | advertise |
 | [mgcl_bb@twitter](https://twitter.com/mgcl_bb/status/1400480869983211521) | advertise |
 | [MGedga@twitter](https://twitter.com/MGedga/status/1622112923266220033) | advertise |
 | [MGHTWE97845204@twitter](https://twitter.com/MGHTWE97845204/status/1396118328825901061) | advertise |
@@ -11413,6 +11415,7 @@ Do not create new issue or we will close it as duplicate.
 | [VngV80717900@twitter](https://twitter.com/VngV80717900/status/1599461822410940416) | advertise |
 | [Vnhi73891454@twitter](https://twitter.com/Vnhi73891454/status/1553821417107767297) | advertise |
 | [VNhLinh5@twitter](https://twitter.com/VNhLinh5/status/1477522077796438016) | advertise |
+| [VnHuy00413630@twitter](https://twitter.com/VnHuy00413630/status/1625412392468484096) | advertise |
 | [VnLc48599484@twitter](https://twitter.com/VnLc48599484/status/1400390004984016899) | advertise |
 | [VnManucian@twitter](https://twitter.com/VnManucian/status/1519366337750921216) | advertise |
 | [VnPhi94354953@twitter](https://twitter.com/VnPhi94354953/status/1501922833395445762) | advertise |
