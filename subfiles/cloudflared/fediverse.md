@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,719 |
-| social | 3,692 |
-| net | 2,914 |
+| social | 3,693 |
+| net | 2,915 |
 | org | 2,051 |
-| de | 1,926 |
+| de | 1,927 |
 
 
 - Mastodon, Pleroma, etc
@@ -1258,6 +1258,7 @@ Here's a list of public Fediverse services.
 | `albr.to` | Yes |
 | `alcalyn.app` | No |
 | `alcatir.com` | No |
+| `alceawisteria.de` | No |
 | `alcolatra.social` | No |
 | `alcove.website` | No |
 | `alden.page` | No |
@@ -14338,6 +14339,7 @@ Here's a list of public Fediverse services.
 | `hormonzicken.party` | Yes |
 | `horner.tj` | Yes |
 | `horns.by` | Yes |
+| `horny.house` | Yes |
 | `hornyjail.pro` | No |
 | `hornyold.uk` | No |
 | `horoskop2000.de` | No |
@@ -17442,6 +17444,7 @@ Here's a list of public Fediverse services.
 | `kondakor.net` | Yes |
 | `konecnyjakub.top` | No |
 | `konectik.fr` | No |
+| `koneczny.info` | No |
 | `konf.yt` | No |
 | `konfederacja.ru` | No |
 | `konfigurationsmanufaktur.de` | No |
@@ -18024,6 +18027,7 @@ Here's a list of public Fediverse services.
 | `laski.app` | Yes |
 | `lastauth.com` | No |
 | `lastbreach.tv` | No |
+| `lastchance.rodeo` | No |
 | `lastfree.space` | No |
 | `lasthearth.net` | No |
 | `lastlight.cafe` | No |
@@ -19474,6 +19478,7 @@ Here's a list of public Fediverse services.
 | `macleay.ca` | Yes |
 | `macmynatt.com` | No |
 | `macmynatt.social` | No |
+| `macnemo.social` | No |
 | `macondo.info` | No |
 | `macro.tokyo` | No |
 | `macrofurs.social` | Yes |
@@ -23619,6 +23624,7 @@ Here's a list of public Fediverse services.
 | `nikkel.xyz` | Yes |
 | `nikkisocial.com` | No |
 | `niklas.life` | Yes |
+| `niklas.network` | No |
 | `niklas.social` | No |
 | `niklasbarning.de` | No |
 | `niklasrosenstein.com` | No |
@@ -24019,6 +24025,7 @@ Here's a list of public Fediverse services.
 | `nosiliconheaven.uk` | No |
 | `nosink.eu` | Yes |
 | `nosocial.org` | No |
+| `nosocialnet.work` | No |
 | `nospy.net` | No |
 | `nostalghia.xyz` | Yes |
 | `nostalgia-tns.net` | No |
@@ -31328,6 +31335,7 @@ Here's a list of public Fediverse services.
 | `spacelase.rs` | Yes |
 | `spacelasers.us` | Yes |
 | `spaceling.sh` | Yes |
+| `spacenode.net` | No |
 | `spacenoid.social` | No |
 | `spacepanda.se` | No |
 | `spacepatrol.org` | No |
@@ -38456,8 +38464,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,224 |
-| Normal | 29,189 |
+| Cloudflare | 9,225 |
+| Normal | 29,196 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
