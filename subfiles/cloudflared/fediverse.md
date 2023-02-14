@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,717 |
+| com | 5,719 |
 | social | 3,691 |
-| net | 2,913 |
+| net | 2,914 |
 | org | 2,050 |
 | de | 1,926 |
 
@@ -9242,6 +9242,7 @@ Here's a list of public Fediverse services.
 | `eigener.host` | No |
 | `eigenlab.org` | No |
 | `eigenmagic.net` | Yes |
+| `eight-bamboo.com` | No |
 | `eightballde.luxe` | No |
 | `eighthstreetorchestra.com` | No |
 | `eightpoint.app` | Yes |
@@ -20778,6 +20779,7 @@ Here's a list of public Fediverse services.
 | `meatball.lol` | No |
 | `meatpi.es` | No |
 | `meawchill.xyz` | No |
+| `mebitek.com` | Yes |
 | `mecanis.me` | Yes |
 | `mecha.garden` | Yes |
 | `mechanicalmischief.com` | No |
@@ -26897,6 +26899,7 @@ Here's a list of public Fediverse services.
 | `presidentielle.tech` | No |
 | `presidentissimo.com` | No |
 | `preslav.me` | Yes |
+| `press-staging.net` | No |
 | `press.community` | No |
 | `pressed.press` | Yes |
 | `pressguild.online` | No |
@@ -38444,8 +38447,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,222 |
-| Normal | 29,179 |
+| Cloudflare | 9,223 |
+| Normal | 29,181 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
