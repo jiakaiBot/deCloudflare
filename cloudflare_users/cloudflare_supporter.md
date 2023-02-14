@@ -2900,6 +2900,7 @@ Do not create new issue or we will close it as duplicate.
 | [embedded_iot@twitter](https://twitter.com/embedded_iot/status/1480167905132228613) | advertise |
 | [EMChat_cloud@twitter](https://twitter.com/EMChat_cloud/status/1530900726561521666) | advertise |
 | [emdi_3@twitter](https://twitter.com/emdi_3/status/1571153701213184001) | advertise |
+| [Emilian95935552@twitter](https://twitter.com/Emilian95935552/status/1625479540230201344) | advertise |
 | [Emily326696461@twitter](https://twitter.com/Emily326696461/status/1389534601618460673) | advertise |
 | [emlo40Official@twitter](https://twitter.com/emlo40Official/status/1423392503223439376) | advertise |
 | [EmmanuelChucks@twitter](https://twitter.com/EmmanuelChucks/status/1611483333917134868) | advertise |
@@ -10481,8 +10482,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
