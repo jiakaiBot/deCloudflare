@@ -1265,6 +1265,7 @@ www.workdex.viewerpost.com
 access.vseegypt.com
 accounting.visiblemedia.ch
 adfs.vargroup.it
+adfs.vistaprint.net
 alexvps2.virtuspayment.com
 amazon-bvgghgfgt.vizvaz.com
 analytics.vodafone.com.au
@@ -1273,12 +1274,16 @@ apiekyc.cloud.vietbank.com.vn
 apiekyc.sandbox.vietbank.com.vn
 apieu.verteil.com
 apps.saas.visicom.com
+arcfmweb.vivaservizi.it
 autodiscover.grupoconfianza.com.br.volteaviver.com.br
 autodiscover.vintagepremiumgift.com
 avito.avito.avito.blablacar.sber.covid19.view-manager.com
 avito.avito.avito.sberbank.www.m.www.covid19.vitorheinzen.com
 avito.avito.sberbank.www.m.www.covid19.vitorheinzen.com
+backoffice.qua.viaverde.pt
+backoffice1.qua.viaverde.pt
 bbbank.vr-risikoneigung.de
+blog.verslu.is
 bulktext.vodafone.ie
 business.vodafone.ie
 bvfenlinea.visionfund.ec
@@ -1291,15 +1296,18 @@ corona-antigenschnelltest-covid19.is.versuchsballon.online
 cpanel.verifyapplewalletuk.com
 cpanel.vietsupport.vn
 cpanel.vintagepremiumgift.com
+csgoteamzeit.vercel.app
 dashboard.vivira.com
 demo.vpntopreviews.com
 dev.vita-gate.com
 deviceguides.vodafone.ie
 devtoken.vrbank.com.vn
 discordbot.venusrust.com
+discordbots1.vercel.app
 driscordbr12.vercel.app
 en.vyn-overstocks.com
 es.vyn-overstocks.com
+externalservices.viaverde.pt
 f.vimeocdn.com
 ftp.villa-rica.com
 git.gitlab.autodiscover.valid-vk.ru
@@ -1308,6 +1316,7 @@ git.gitlab.new.2.vashsad37.ru
 gitlab.cpanel.news.2020.vitorheinzen.com
 gitlab.git.wiki.staging.m.vermeeralaska.com
 graylog.validcertificadora.com.br
+ha-5a.user-management.dev.eu.vwg.vwautocloud.net
 hcp3csaazsrundev-3a.dmo.eu.dp.vwg-connect.com
 highintoxicdiscordbot.vercel.app
 info.voxi.co.uk
@@ -1324,6 +1333,8 @@ mail.happynewyear2020-imailwww.blog.admin.vashsad37.ru
 mail.vintagepremiumgift.com
 mbboauth-1c.prd.ece.vwg-connect.com
 mijnapi.vlcompliant.nl
+mobileservices4.qua.viaverde.pt
+mobileservices5.qua.viaverde.pt
 mod3csambbrun-3a.dmo.eu.dp.vwg-connect.com
 mod3csambbrundev-3a.dmo.eu.dp.vwg-connect.com
 mod3digestmbbrun-3a.prd.eu.dp.vwg-connect.com
@@ -1333,6 +1344,8 @@ monitoring-service.ace-24f7e70c.core.build.vwn.cloud
 monitoring-service.ace-445397f.core.build.vwn.cloud
 monitoring-service.ace-64c1b0ec.core.build.vwn.cloud
 monitoring-service.ace-8401cf3a.core.build.vwn.cloud
+monitoring-service.ace-e4f91a8e.core.build.vwn.cloud
+monitoring.viveropalmar.com
 mpenezenka.vodafone.cz
 n.vodafone.ie
 navi-de-haproxy-3.weather.vaisala.io
@@ -1375,6 +1388,7 @@ shipping-manager.doelgroep.dgs.dev.platforms.symeta.vvc.dev
 smartinvoice.vodafone.ro
 sousadiscord.vercel.app
 spark-dev.np.vertexcybersecurity.com.au
+speedtest-test.vodafone-ip.de
 staging.ukitservice.veryfasthosting.co.uk
 support.vechtstromen.nl
 support.vietfo.com
@@ -1392,6 +1406,7 @@ valeoserviceusa.com
 vapecartsdelivery.com
 vastucreations.com
 vatclient.eu
+vaultxwallet.com
 vayena.org
 vboddxcl2.asia
 vdc.vodafone.ie
@@ -1446,6 +1461,7 @@ vnorthwest.com
 vnprintusa.com
 vnvh.ch
 voa.vodafone.ie
+vodafone-stiftung.de
 vodafone.com.gh
 vodafone.ro
 vodafonefaf.ie
@@ -1498,6 +1514,7 @@ www.billys.vimirlab.com
 www.booking.vojaingg.org
 www.capricorn.assets.cloudflare.cdn.on-cloud.live.vanguardavisionaria.com
 www.cekliveness.com.verifywajah.com
+www.client.victorhosting.com
 www.clientes.virtualhostnet.com.co
 www.creditcardcollection.virtualskyit.com
 www.demo.vpntopreviews.com
@@ -1509,6 +1526,9 @@ www.lootlemoney.velaexpress.com
 www.lratvakan.vansteam.am
 www.mygo.v2rsolution.com
 www.oktatas.varrosbaratno.hu
+www.pagef12a.site.vivendoosucesso.online
+www.pagef12j.site.vivendoosucesso.online
+www.pagef12k.site.vivendoosucesso.online
 www.pinapple-colony.vizagchildrensclub.org
 www.portraits-2.valenditomasso.com
 www.postmaster.vkrf.ru
@@ -1522,6 +1542,7 @@ www.staging.ukitservice.veryfasthosting.co.uk
 www.storage.vsteam.edu.vn
 www.test.vexonsecurity.nl
 www.tickets.visitislandpond.com
+www.trustwallet.verification.gift
 www.ubersearchbar.vlachos.com
 www.update-score.vojock.com
 www.user.vinfirstechsponsor.com
@@ -1581,6 +1602,7 @@ www.vodafonecu.gr
 www.vodafonefaf.ie
 www.vodafonegiftcard.com
 www.vodafoneready.co.uk
+www.voltdeutschland.org
 www.volusia.org
 www.vonkraken.com
 www.vpn-tunnel.nu
@@ -1598,6 +1620,7 @@ www.vy.no
 www.vyn-overstocks.com
 www.whatsapp.viralcampaign.in
 www.yper.vpn.gr
+www1.qua.viaverde.pt
 xerhwzubskd0p31.store.outlook.vermeernorthwest.com
 xp-workshop-5.vercel.app
 xwizard102-gmailcom.vercel.app
