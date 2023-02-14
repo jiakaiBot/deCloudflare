@@ -4278,6 +4278,7 @@ Do not create new issue or we will close it as duplicate.
 | [IamEthan3030@twitter](https://twitter.com/IamEthan3030/status/1390610688234590208) | advertise |
 | [iamihID@twitter](https://twitter.com/iamihID/status/1553226282313592832) | advertise |
 | [iamjamiilkhan@twitter](https://twitter.com/iamjamiilkhan/status/1394134655419523073) | advertise |
+| [iamjulia98_@twitter](https://twitter.com/iamjulia98_/status/1625287558425985026) | advertise |
 | [iamkakashi1252@twitter](https://twitter.com/iamkakashi1252/status/1386984066084343813) | advertise |
 | [iamKAvinash@twitter](https://twitter.com/iamKAvinash/status/1380585343192158210) | advertise |
 | [Iamkingsleyf@twitter](https://twitter.com/Iamkingsleyf/status/1401053471340695552) | advertise |
@@ -10750,6 +10751,7 @@ Do not create new issue or we will close it as duplicate.
 | [tinhngo79541721@twitter](https://twitter.com/tinhngo79541721/status/1601284409801707520) | advertise |
 | [TinHunh33663977@twitter](https://twitter.com/TinHunh33663977/status/1380935663692914690) | advertise |
 | [TinKoyu@twitter](https://twitter.com/TinKoyu/status/1406503215068184583) | advertise |
+| [TinL9293093@twitter](https://twitter.com/TinL9293093/status/1625294514750652416) | advertise |
 | [tinlai3@twitter](https://twitter.com/tinlai3/status/1552195694471311360) | advertise |
 | [TinLinKo1@twitter](https://twitter.com/TinLinKo1/status/1390913316025901059) | advertise |
 | [TinmarWin14@twitter](https://twitter.com/TinmarWin14/status/1399308838445010945) | advertise |
