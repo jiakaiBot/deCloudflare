@@ -244,6 +244,7 @@ accountmanager.queue-it.net
 amazon-rfdgh.qpoe.com
 api.os.qiku.com
 api.qv-veeva.com
+blog.quest.com
 cdn03.qrcodechimp.com
 eki-net.com.qohz.cn
 eki-net.com.qoig.cn
@@ -282,6 +283,7 @@ www.cuentamecuentos.quieromasingresos.com
 www.hotelbilling.qntminfo.com
 www.oktatas.qsec.hu
 www.pr-congresso-de-mulh.quadrangularsedemacapa.com.br
+www.qantas.com.au
 www.qcmfunds.com
 www.qespresso.kz
 www.qinetiq.com
