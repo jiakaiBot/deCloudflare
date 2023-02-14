@@ -123,6 +123,7 @@ accounting.2at.com.et
 amazon-asdrer.2waky.com
 amazon-qgefwv.25u.com
 auth.vpn.2ne.org
+control.240kanko.com
 etc-sdjlkj.2waky.com
 hpe.2ndeffect.dk
 monitoring.2feurstein.eu
