@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,719 |
-| social | 3,691 |
+| social | 3,692 |
 | net | 2,914 |
-| org | 2,050 |
+| org | 2,051 |
 | de | 1,926 |
 
 
@@ -5027,6 +5027,7 @@ Here's a list of public Fediverse services.
 | `caspar.social` | No |
 | `caspodon.club` | No |
 | `casraf.dev` | No |
+| `cassano.com.br` | No |
 | `cassee.net` | No |
 | `cassette.click` | No |
 | `cassone.social` | No |
@@ -15389,6 +15390,7 @@ Here's a list of public Fediverse services.
 | `ipv64.net` | No |
 | `ipvsix.me` | No |
 | `ipz.jp` | No |
+| `iqhina.org` | No |
 | `ir0k.de` | No |
 | `ir1s.com` | Yes |
 | `ir5.eu` | No |
@@ -19417,6 +19419,7 @@ Here's a list of public Fediverse services.
 | `m544.net` | Yes |
 | `m64.in` | Yes |
 | `m68k.church` | Yes |
+| `m6n.ca` | Yes |
 | `m6n.eu` | No |
 | `m6n.io` | No |
 | `m6n.jp` | No |
@@ -19815,6 +19818,7 @@ Here's a list of public Fediverse services.
 | `marcleroi.be` | No |
 | `marcoabis.it` | No |
 | `marcogiorgio.net` | Yes |
+| `marcoraaphorst.nl` | No |
 | `marcorennmaus.de` | Yes |
 | `marcosalmeida.dev` | No |
 | `marcosilva.eu` | No |
@@ -27450,6 +27454,7 @@ Here's a list of public Fediverse services.
 | `queerfreiburg.de` | No |
 | `queerhackers.social` | No |
 | `queermotion.org` | Yes |
+| `queernerds.social` | No |
 | `queerscience.net` | No |
 | `queersin.space` | No |
 | `queertube.org` | No |
@@ -28465,6 +28470,7 @@ Here's a list of public Fediverse services.
 | `rijul.me` | Yes |
 | `rikadon.club` | No |
 | `rikapimatome.fun` | No |
+| `rikka-zine.jp` | No |
 | `rikmeijer.nl` | No |
 | `rikozone.net` | No |
 | `rikunagiweb.jp` | Yes |
@@ -31670,6 +31676,7 @@ Here's a list of public Fediverse services.
 | `stardenver.eu` | No |
 | `stardenver.social` | No |
 | `stardew.city` | No |
+| `stardust.blog` | No |
 | `stardust.fm` | No |
 | `stardust.red` | Yes |
 | `stareinto.space` | Yes |
@@ -32795,6 +32802,7 @@ Here's a list of public Fediverse services.
 | `tatooine.space` | No |
 | `tatsuya0902.jp` | Yes |
 | `tatu.la` | Yes |
+| `tau-ceti.space` | No |
 | `taucha.social` | No |
 | `taullo.live` | No |
 | `taullo.social` | No |
@@ -36958,6 +36966,7 @@ Here's a list of public Fediverse services.
 | `wizard.casa` | No |
 | `wizard.estate` | Yes |
 | `wizardfrag.co.uk` | Yes |
+| `wizarding-world.icu` | No |
 | `wizards.blue` | No |
 | `wizards.business` | No |
 | `wizards.town` | No |
@@ -38447,8 +38456,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,223 |
-| Normal | 29,181 |
+| Cloudflare | 9,224 |
+| Normal | 29,189 |
 
 
 ### 24% of public Fediverse services are using Cloudflare.
