@@ -2131,8 +2131,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3118,6 +3118,7 @@ Do not create new issue or we will close it as duplicate.
 | [fjdb3@twitter](https://twitter.com/fjdb3/status/1554143968685789184) | advertise |
 | [fjpkagami@twitter](https://twitter.com/fjpkagami/status/1392923842880831488) | advertise |
 | [FlameOcho@twitter](https://twitter.com/FlameOcho/status/1390911778918305799) | advertise |
+| [Flaming89718410@twitter](https://twitter.com/Flaming89718410/status/1625812608736452609) | advertise |
 | [FlareCasino@twitter](https://twitter.com/FlareCasino/status/1610016544914046976) | advertise |
 | [FlashZA_@twitter](https://twitter.com/FlashZA_/status/1507735134799372288) | advertise |
 | [FlawCra@twitter](https://twitter.com/FlawCra/status/1580222680694812672) | advertise |
@@ -4878,6 +4879,7 @@ Do not create new issue or we will close it as duplicate.
 | [jst79@twitter](https://twitter.com/jst79/status/1536882259101290496) | advertise |
 | [jst_adel@twitter](https://twitter.com/jst_adel/status/1601245648271056896) | advertise |
 | [JTdoodler@twitter](https://twitter.com/JTdoodler/status/1441130159227252738) | advertise |
+| [juangom28889276@twitter](https://twitter.com/juangom28889276/status/1625807442318872576) | advertise |
 | [JuanHerna132@twitter](https://twitter.com/JuanHerna132/status/1514846521870589954) | advertise |
 | [JubearHossan@twitter](https://twitter.com/JubearHossan/status/1472037401329504257) | advertise |
 | [judgybaguette@twitter](https://twitter.com/judgybaguette/status/1583525208920449025) | advertise |
@@ -5330,8 +5332,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -8033,6 +8035,7 @@ Do not create new issue or we will close it as duplicate.
 | [officialmiplay@twitter](https://twitter.com/officialmiplay/status/1411076180300779530) | moral (advertise) |
 | [OfficialSs34@twitter](https://twitter.com/OfficialSs34/status/1389541392251293705) | advertise |
 | [Official_Aidzyy@twitter](https://twitter.com/Official_Aidzyy/status/1429092121550667785) | advertise |
+| [offroadstudios@twitter](https://twitter.com/offroadstudios/status/1625804363376771072) | advertise |
 | [ofwje@twitter](https://twitter.com/ofwje/status/1599145219559108608) | advertise |
 | [of_544@twitter](https://twitter.com/of_544/status/1395086316665118720) | advertise |
 | [of_yomi@twitter](https://twitter.com/of_yomi/status/1529872490008170498) | advertise |
