@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [WHIP Client destroy method causes error](https://github.com/Eyevinn/whip/issues/115)
 - [CloudFlare Unexpected rate limiting errors](https://github.com/MatBenfield/news/issues/9734)
 - [Dendrite with Cloudflare Tunnel fails federation test](https://github.com/matrix-org/dendrite/issues/2971)
 - [Cache s3 images on CDN](https://github.com/hicommonwealth/commonwealth/issues/2792)
