@@ -39,7 +39,6 @@ Here's a list of public Matrix services.
 | matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
 | mx.chagai.website | No |
-| matrix.chatcloud.net | No |
 | matrix.chatwave.org | No |
 | chrrreeeeesss.com | No |
 | club1.fr | No |
@@ -76,7 +75,6 @@ Here's a list of public Matrix services.
 | hot-chilli.im | No |
 | houtworm.im | No |
 | synapse.hyteck.de | No |
-| matrix.jonasled.de | Yes |
 | junta.pl | No |
 | chat.librem.one | No |
 | matrix.libreon.fr | No |
@@ -111,7 +109,7 @@ Here's a list of public Matrix services.
 | matrix.sans-nuage.fr | No |
 | matrix.sibnsk.net | No |
 | socialnetwork24.com | No |
-| matrix.studichat.de | No |
+| studichat.de | No |
 | synod.im | No |
 | matrix.tchncs.de | No |
 | matrix.techsaviours.org | No |
@@ -133,8 +131,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 17 |
-| Normal | 89 |
+| Cloudflare | 16 |
+| Normal | 88 |
 
 
-### 16% of public Matrix services are using Cloudflare.
+### 15.4% of public Matrix services are using Cloudflare.
