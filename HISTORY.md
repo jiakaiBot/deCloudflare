@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-02-22: [SJC (San Jose) on 2023-02-22](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/t8p9gm38ppvz)
 - 2023-02-17: [LAX (Los Angeles) on 2023-02-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ltpzh2dlcfbs)
 - 2023-02-15: [Unexpected rate limiting errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/k3249mmr5n7h)
 - 2023-02-20: [BOS (Boston) on 2023-02-20](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/txjd5gwzmz29)
