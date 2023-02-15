@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,731 |
-| social | 3,698 |
-| net | 2,921 |
+| com | 5,733 |
+| social | 3,701 |
+| net | 2,922 |
 | org | 2,057 |
-| de | 1,929 |
+| de | 1,930 |
 
 
 - Mastodon, Pleroma, etc
@@ -2223,6 +2223,7 @@ Here's a list of public Fediverse services.
 | `arrakis.se` | No |
 | `arranfrance.com` | Yes |
 | `arrel.cloud` | No |
+| `arretsurinfo.com` | No |
 | `arrifana.org` | Yes |
 | `arroba.pt` | No |
 | `arrrgh.online` | No |
@@ -4823,6 +4824,7 @@ Here's a list of public Fediverse services.
 | `cairnscustomcomputers.cloud` | Yes |
 | `cairobraga.com` | No |
 | `cakes.rocks` | Yes |
+| `calamity.world` | Yes |
 | `calamityconductor.com` | No |
 | `calavere.me` | No |
 | `calbasi.net` | No |
@@ -6408,6 +6410,7 @@ Here's a list of public Fediverse services.
 | `corona.monster` | No |
 | `corp.social` | Yes |
 | `corporaterunaways.social` | No |
+| `corporatetravel.social` | No |
 | `correctiv.social` | No |
 | `correlation.zone` | No |
 | `corrigan.moe` | No |
@@ -7012,6 +7015,7 @@ Here's a list of public Fediverse services.
 | `cyberprivacyfirst.com` | No |
 | `cyberpunk.earth` | No |
 | `cyberpunk.fan` | Yes |
+| `cyberpunk.gmbh` | No |
 | `cyberpunk.haus` | No |
 | `cyberpunk.net.ar` | Yes |
 | `cyberpunks.social` | No |
@@ -8926,6 +8930,7 @@ Here's a list of public Fediverse services.
 | `dwin.link` | No |
 | `dwntr.xyz` | No |
 | `dwscdv3.com` | Yes |
+| `dwx.social` | Yes |
 | `dxcibel.cyou` | No |
 | `dxlb.nl` | No |
 | `dy.fi` | No |
@@ -13571,6 +13576,7 @@ Here's a list of public Fediverse services.
 | `hardy.dev` | Yes |
 | `harekiet.com` | No |
 | `harem.moe` | Yes |
+| `harfang.social` | Yes |
 | `harijs.id.lv` | No |
 | `harmoniescreatives.com` | No |
 | `harmonytheory.net` | No |
@@ -15345,6 +15351,7 @@ Here's a list of public Fediverse services.
 | `inventaire.io` | No |
 | `inveos.com` | No |
 | `inverse.moe` | No |
+| `invicious.net` | No |
 | `invincible.ink` | No |
 | `invisible-republic.blog` | No |
 | `invisible.ch` | No |
@@ -18390,6 +18397,7 @@ Here's a list of public Fediverse services.
 | `letallmortalfleshfindtheirvoice.social` | No |
 | `lethani.ch` | No |
 | `lethar.gy` | No |
+| `letmiko.eu` | No |
 | `letna.dev` | No |
 | `letoine.fr` | No |
 | `letootprimai.re` | No |
@@ -27746,6 +27754,7 @@ Here's a list of public Fediverse services.
 | `ragnate.la` | No |
 | `ragtag.moe` | Yes |
 | `rah.social` | No |
+| `rahlstedt.de` | No |
 | `rahlstedt.social` | No |
 | `rai.dog` | No |
 | `raichu.lol` | No |
@@ -28965,6 +28974,7 @@ Here's a list of public Fediverse services.
 | `rued.com` | No |
 | `rueduport.fr` | No |
 | `rueffer.ch` | No |
+| `rueter.nl` | No |
 | `rufposten.de` | No |
 | `rugdon.fun` | No |
 | `ruhr.social` | No |
@@ -31306,6 +31316,7 @@ Here's a list of public Fediverse services.
 | `sotong.cloud` | No |
 | `soucy.cc` | No |
 | `souder.ca` | No |
+| `soul.ua` | Yes |
 | `soulice.moe` | No |
 | `soultribe.net` | Yes |
 | `soulzeppel.in` | No |
@@ -34444,7 +34455,7 @@ Here's a list of public Fediverse services.
 | `totodile.net` | No |
 | `totoot.social` | No |
 | `totoro.im` | Yes |
-| `totoro.live` | Yes |
+| `totoro.live` | No |
 | `totse.tube` | No |
 | `tottoriscout.org` | No |
 | `toucans.social` | No |
@@ -37047,6 +37058,7 @@ Here's a list of public Fediverse services.
 | `wkfa.org` | No |
 | `wkfg.me` | Yes |
 | `wkly.ws` | No |
+| `wkwk.land` | Yes |
 | `wkwkwk.fun` | Yes |
 | `wlabs.de` | No |
 | `wltr.pw` | Yes |
@@ -37470,6 +37482,7 @@ Here's a list of public Fediverse services.
 | `xiph.org` | No |
 | `xirb-solutions.de` | No |
 | `xirion.net` | No |
+| `xirtak.com` | Yes |
 | `xistinflow.net` | No |
 | `xitus.club` | No |
 | `xiu.io` | No |
@@ -38521,8 +38534,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,264 |
-| Normal | 29,214 |
+| Cloudflare | 9,269 |
+| Normal | 29,222 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
