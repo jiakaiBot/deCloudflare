@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Forbidden - referer invalid](https://github.com/gophish/gophish/issues/2765)
+- [example using datausa fails...](https://github.com/sandstorm/caddy-nats-bridge/issues/1)
 - [Broken build in remix with cloudflare-workers. Use of import.meta.env.](https://github.com/pmndrs/zustand/issues/1639)
 - [WHIP Client destroy method causes error](https://github.com/Eyevinn/whip/issues/115)
 - [CloudFlare Unexpected rate limiting errors](https://github.com/MatBenfield/news/issues/9734)
