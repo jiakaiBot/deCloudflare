@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-02-20: [BOS (Boston) on 2023-02-20](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/txjd5gwzmz29)
 - 2023-02-17: [MRS (Marseille) on 2023-02-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/j3br3xy078yg)
 - 2023-02-16: [CDG (Paris) on 2023-02-16](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/t99d3ssbz4d3)
 - 2023-02-14: [Investigating Cache Reserve Expiry Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/q7sc4qf131pp)
