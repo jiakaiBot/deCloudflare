@@ -341,7 +341,6 @@ your-services.online
 youradmission.info
 youradviceconsulting.com
 yourchangelab.com
-youreachiteach.com
 yourparcel-canadapost.online
 yoursexpartner5.com
 yourstartupservice.com
@@ -370,6 +369,7 @@ certificate.mobile.yandex.net
 chassis.yaw.co.jp
 cis.yokosuka-uwp-energy.jp
 click.s.yourdailyinsiders.com
+click.yourpharmacybenefits.com
 clicks.yodel-mobile.com
 clientdemo.yascmarketing.net
 cpcontacts.yourcashsystemnetstudio.com
@@ -389,6 +389,7 @@ knowledge.support.yahoo-net.jp
 mailcenter.ydns.eu
 monitoring.ymc.ch
 pass.ysplay.cz
+raspisrv.gdl.ydns.eu
 sberbank.blablacar.git.git.git.git.covid19.youhollywood.com
 sberbank.sber.avito.avito.covid19.youhollywood.com
 sc.youth.gov.hk
@@ -407,6 +408,7 @@ www.yapicimobilya.com
 www.yapingwang.net
 www.yapisaglikturizm.com
 www.yellowfindigital.com
+www.yesfordwv.com
 www.yilkonyapi.com.tr
 www.ymfbuildnbank.com
 www.yogacinquiemesaison.com
