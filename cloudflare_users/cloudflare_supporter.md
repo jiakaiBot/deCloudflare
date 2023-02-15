@@ -8092,6 +8092,7 @@ Do not create new issue or we will close it as duplicate.
 | [onethreenineon2@twitter](https://twitter.com/onethreenineon2/status/1377541859241644042) | advertise |
 | [OniiTien@twitter](https://twitter.com/OniiTien/status/1387349185091960832) | advertise |
 | [Onim16321345@twitter](https://twitter.com/Onim16321345/status/1385246334161092619) | advertise |
+| [OnlineKolshi@twitter](https://twitter.com/OnlineKolshi/status/1625885503764430849) | advertise |
 | [onlinesafety001@twitter](https://twitter.com/onlinesafety001/status/1516478432791732230) | advertise |
 | [Onlybar150893@twitter](https://twitter.com/Onlybar150893/status/1408063898222141446) | advertise |
 | [Onlybrand69@twitter](https://twitter.com/Onlybrand69/status/1503400371619713025) | advertise |
@@ -10641,6 +10642,7 @@ Do not create new issue or we will close it as duplicate.
 | [thngngu22608045@twitter](https://twitter.com/thngngu22608045/status/1472219741029044227) | advertise |
 | [ThngPhm85167718@twitter](https://twitter.com/ThngPhm85167718/status/1552739837341356033) | advertise |
 | [Thnh12733398@twitter](https://twitter.com/Thnh12733398/status/1394514924429139969) | advertise |
+| [Thnh23107977@twitter](https://twitter.com/Thnh23107977/status/1625861466980233216) | advertise |
 | [Thnh86949251@twitter](https://twitter.com/Thnh86949251/status/1477715889625571334) | advertise |
 | [ThnhHinLm1@twitter](https://twitter.com/ThnhHinLm1/status/1397758764904636418) | advertise |
 | [ThnhHip11@twitter](https://twitter.com/ThnhHip11/status/1396278038707335173) | advertise |
