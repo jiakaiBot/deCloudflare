@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Dendrite with Cloudflare Tunnel fails federation test](https://github.com/matrix-org/dendrite/issues/2971)
 - [Cache s3 images on CDN](https://github.com/hicommonwealth/commonwealth/issues/2792)
 - [Issue uploading JSON file](https://github.com/nftstorage/python-client/issues/6)
 - [The allowlist field should just require a CID (not a URL) so the app can find a suitable gateway](https://github.com/hypercerts-org/hypercerts/issues/254)
