@@ -11221,6 +11221,7 @@ Do not create new issue or we will close it as duplicate.
 | [ULay99705792@twitter](https://twitter.com/ULay99705792/status/1394445652147404802) | advertise |
 | [ulaygyi245@twitter](https://twitter.com/ulaygyi245/status/1389821983290892290) | advertise |
 | [UMinthu84921464@twitter](https://twitter.com/UMinthu84921464/status/1381438301366747136) | advertise |
+| [UmmahNewsTV@twitter](https://twitter.com/UmmahNewsTV/status/1625906513113141248) | advertise |
 | [UmSaldanha@twitter](https://twitter.com/UmSaldanha/status/1586835109298192385) | advertise |
 | [UMyo85141513@twitter](https://twitter.com/UMyo85141513/status/1401038127473434626) | advertise |
 | [UMZaw4@twitter](https://twitter.com/UMZaw4/status/1380115765228044290) | advertise |
