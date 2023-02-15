@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,733 |
 | social | 3,701 |
-| net | 2,922 |
-| org | 2,057 |
-| de | 1,930 |
+| net | 2,923 |
+| org | 2,058 |
+| de | 1,932 |
 
 
 - Mastodon, Pleroma, etc
@@ -4756,6 +4756,7 @@ Here's a list of public Fediverse services.
 | `c-view.club` | No |
 | `c.im` | Yes |
 | `c.wtf` | Yes |
+| `c07.in` | Yes |
 | `c0de.works` | Yes |
 | `c0debabe.com` | No |
 | `c0ffee.net` | No |
@@ -10691,6 +10692,7 @@ Here's a list of public Fediverse services.
 | `femme.energy` | No |
 | `fenarinarsa.com` | No |
 | `fenda.win` | No |
+| `fendek.net` | No |
 | `fenderbaum.de` | No |
 | `feneas.org` | No |
 | `fenetre.dev` | No |
@@ -28222,6 +28224,7 @@ Here's a list of public Fediverse services.
 | `reisen-nach-spanien.com` | No |
 | `reisetagebuch-podcast.de` | No |
 | `reisig.world` | No |
+| `reit-it.de` | Yes |
 | `reitrace.ga` | No |
 | `rejoiner.eu` | No |
 | `rekt.app` | No |
@@ -29151,6 +29154,7 @@ Here's a list of public Fediverse services.
 | `saadnpq.com` | No |
 | `saagarjha.com` | No |
 | `saarmupfel.de` | No |
+| `saartweet.de` | No |
 | `saas.yachts` | Yes |
 | `saastisfy.com` | No |
 | `saasycloud.social` | No |
@@ -33537,6 +33541,7 @@ Here's a list of public Fediverse services.
 | `thelukes.org` | No |
 | `them.scot` | No |
 | `themadlads.live` | Yes |
+| `themarkup.org` | No |
 | `themars.tk` | Yes |
 | `themastodon.uk` | No |
 | `themaymeow.com` | Yes |
@@ -38534,8 +38539,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,269 |
-| Normal | 29,222 |
+| Cloudflare | 9,271 |
+| Normal | 29,225 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
