@@ -7413,6 +7413,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nathan33310057@twitter](https://twitter.com/Nathan33310057/status/1389756877311942657) | advertise |
 | [Natsoc_UK@twitter](https://twitter.com/Natsoc_UK/status/1623377778522394637) | advertise |
 | [NatSri18@twitter](https://twitter.com/NatSri18/status/1550642548607418368) | advertise |
+| [nattawatt17@twitter](https://twitter.com/nattawatt17/status/1625857921325371399) | advertise |
 | [nattayanee69@twitter](https://twitter.com/nattayanee69/status/1405489449119543299) | advertise |
 | [naturbrilian@twitter](https://twitter.com/naturbrilian/status/1400047671784579078) | advertise |
 | [Naung36204458@twitter](https://twitter.com/Naung36204458/status/1390969392670953472) | advertise |
@@ -7486,6 +7487,7 @@ Do not create new issue or we will close it as duplicate.
 | [NearlyWithme@twitter](https://twitter.com/NearlyWithme/status/1390914049760661510) | advertise |
 | [necromungrel@twitter](https://twitter.com/necromungrel/status/1382410058735054850) | advertise |
 | [ned61103443@twitter](https://twitter.com/ned61103443/status/1401817912399130628) | advertise |
+| [nedladdning2728@twitter](https://twitter.com/nedladdning2728/status/1625851458481684484) | advertise |
 | [neerajberi01@twitter](https://twitter.com/neerajberi01/status/1407986671929331713) | advertise |
 | [NehaLohiya8@twitter](https://twitter.com/NehaLohiya8/status/1548921034241220609) | advertise |
 | [nejcs@twitter](https://twitter.com/nejcs/status/1574658004158648320) | advertise |
@@ -10496,8 +10498,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
