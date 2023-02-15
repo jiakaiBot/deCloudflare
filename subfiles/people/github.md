@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Unexpected rate limiting errors](https://github.com/MatBenfield/news/issues/9734)
 - [Dendrite with Cloudflare Tunnel fails federation test](https://github.com/matrix-org/dendrite/issues/2971)
 - [Cache s3 images on CDN](https://github.com/hicommonwealth/commonwealth/issues/2792)
 - [Issue uploading JSON file](https://github.com/nftstorage/python-client/issues/6)
