@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,733 |
-| social | 3,701 |
+| social | 3,702 |
 | net | 2,923 |
 | org | 2,058 |
 | de | 1,932 |
@@ -19168,6 +19168,7 @@ Here's a list of public Fediverse services.
 | `lovehatesugar.com` | No |
 | `loveisgrief.tk` | No |
 | `loveisover.me` | No |
+| `lovelace.social` | No |
 | `lovelacec.org` | No |
 | `lovelinus.club` | No |
 | `lovelive-anime.tk` | No |
@@ -38544,7 +38545,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,273 |
-| Normal | 29,227 |
+| Normal | 29,228 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
