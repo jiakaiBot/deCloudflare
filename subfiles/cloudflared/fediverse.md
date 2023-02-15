@@ -19291,6 +19291,7 @@ Here's a list of public Fediverse services.
 | `luhrck.com` | Yes |
 | `luizpicolo.com.br` | Yes |
 | `lukacern.cz` | No |
+| `lukaprincic.si` | No |
 | `lukaroose.nl` | No |
 | `lukasrosenstock.net` | No |
 | `lukaszkopczyk.com` | No |
@@ -38541,7 +38542,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,272 |
-| Normal | 29,225 |
+| Normal | 29,226 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
