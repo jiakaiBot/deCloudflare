@@ -8868,6 +8868,7 @@ Here's a list of public Fediverse services.
 | `dummbutz.nl` | No |
 | `dummkopf.live` | No |
 | `dummy.cafe` | Yes |
+| `dummy.red` | No |
 | `dummyload.co.uk` | No |
 | `dumont.video` | No |
 | `dumpkin.monster` | No |
@@ -24472,7 +24473,7 @@ Here's a list of public Fediverse services.
 | `obkkszd.club` | Yes |
 | `oblivion.social` | No |
 | `obnh.network` | No |
-| `obo.sh` | No |
+| `obo.sh` | Yes |
 | `obota.art` | No |
 | `obousanmstdn.com` | No |
 | `obrien.ws` | No |
@@ -38539,7 +38540,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,271 |
+| Cloudflare | 9,272 |
 | Normal | 29,225 |
 
 
