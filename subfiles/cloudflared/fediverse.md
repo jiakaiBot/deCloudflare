@@ -5779,6 +5779,7 @@ Here's a list of public Fediverse services.
 | `classifiedcosmos.com` | No |
 | `clatza.dev` | No |
 | `clausgames.com` | Yes |
+| `clavis.info` | No |
 | `clawhammer.net` | No |
 | `claws.blue` | No |
 | `claycord.social` | No |
@@ -8120,6 +8121,7 @@ Here's a list of public Fediverse services.
 | `digigame.org` | No |
 | `digikite.net` | Yes |
 | `digilife.club` | No |
+| `digiline.io` | Yes |
 | `digimortal.org` | No |
 | `digineko.jp` | No |
 | `digineko.net` | No |
@@ -38541,8 +38543,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,272 |
-| Normal | 29,226 |
+| Cloudflare | 9,273 |
+| Normal | 29,227 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
