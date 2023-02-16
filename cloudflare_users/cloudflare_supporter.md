@@ -2504,6 +2504,7 @@ Do not create new issue or we will close it as duplicate.
 | [DileepaMV@twitter](https://twitter.com/DileepaMV/status/1372732617934606344) | advertise |
 | [DileepD87691922@twitter](https://twitter.com/DileepD87691922/status/1395573825618661380) | advertise |
 | [DilJan15404602@twitter](https://twitter.com/DilJan15404602/status/1394369935506382848) | advertise |
+| [Dilpree77850645@twitter](https://twitter.com/Dilpree77850645/status/1626114065092456448) | advertise |
 | [dimasbayusjw@twitter](https://twitter.com/dimasbayusjw/status/1462956408064733186) | advertise |
 | [DimAtmodihardjo@twitter](https://twitter.com/DimAtmodihardjo/status/1404448329673576452) | advertise |
 | [DimensionWeb@twitter](https://twitter.com/DimensionWeb/status/1517072901673041920) | advertise |
@@ -7716,6 +7717,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynTrngPhcHn2@twitter](https://twitter.com/NguynTrngPhcHn2/status/1389292187704119296) | advertise |
 | [NguynTrnhHongA3@twitter](https://twitter.com/NguynTrnhHongA3/status/1401956424331137028) | advertise |
 | [NguynTrnQuanSa1@twitter](https://twitter.com/NguynTrnQuanSa1/status/1377658912007102464) | advertise |
+| [NguynTu34598112@twitter](https://twitter.com/NguynTu34598112/status/1625982001206689793) | advertise |
 | [NGUYNTU55287167@twitter](https://twitter.com/NGUYNTU55287167/status/1604122115661189120) | advertise |
 | [NguynVi44331431@twitter](https://twitter.com/NguynVi44331431/status/1564084374597169154) | advertise |
 | [NguynVitTm1@twitter](https://twitter.com/NguynVitTm1/status/1516778185018712067) | advertise |
@@ -8703,6 +8705,7 @@ Do not create new issue or we will close it as duplicate.
 | [PUNISHE56843209@twitter](https://twitter.com/PUNISHE56843209/status/1387023915801747463) | advertise |
 | [Punnampidishet1@twitter](https://twitter.com/Punnampidishet1/status/1386990158772277248) | advertise |
 | [PuntoWicaksono@twitter](https://twitter.com/PuntoWicaksono/status/1589562583757258752) | advertise |
+| [purbojatie@twitter](https://twitter.com/purbojatie/status/1626104712172027904) | advertise |
 | [Purusho73711864@twitter](https://twitter.com/Purusho73711864/status/1379331169649500160) | advertise |
 | [PushpadAnshika@twitter](https://twitter.com/PushpadAnshika/status/1395636260044099586) | advertise |
 | [PuSiNan1@twitter](https://twitter.com/PuSiNan1/status/1395189807467298818) | advertise |
@@ -10949,6 +10952,7 @@ Do not create new issue or we will close it as duplicate.
 | [tranvan89033780@twitter](https://twitter.com/tranvan89033780/status/1474185476256845826) | advertise |
 | [Tranvin89298643@twitter](https://twitter.com/Tranvin89298643/status/1624070850277437445) | advertise |
 | [trappygypsy@twitter](https://twitter.com/trappygypsy/status/1382015075331014664) | advertise |
+| [TraTra15032897@twitter](https://twitter.com/TraTra15032897/status/1626027182660390912) | advertise |
 | [travelmatebd@twitter](https://twitter.com/travelmatebd/status/1420998094452256769) | advertise |
 | [TRC_slayer@twitter](https://twitter.com/TRC_slayer/status/1546377981072838656) | advertise |
 | [Trend_N_Trader@twitter](https://twitter.com/Trend_N_Trader/status/1519510452639731712) | advertise |
