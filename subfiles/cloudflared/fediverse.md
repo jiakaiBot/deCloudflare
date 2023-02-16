@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,739 |
-| social | 3,704 |
+| social | 3,705 |
 | net | 2,931 |
-| org | 2,058 |
+| org | 2,059 |
 | de | 1,935 |
 
 
@@ -19454,6 +19454,7 @@ Here's a list of public Fediverse services.
 | `lys.systems` | No |
 | `lyte.dev` | No |
 | `lyven.live` | No |
+| `lyyn.me` | No |
 | `m-ast.de` | No |
 | `m-i.im` | Yes |
 | `m-n.live` | No |
@@ -26496,6 +26497,7 @@ Here's a list of public Fediverse services.
 | `playingbothsides.top` | No |
 | `playingwithworms.org.uk` | No |
 | `playpen.social` | No |
+| `playset.social` | No |
 | `playseye.com` | No |
 | `playstation-mstdn.com` | No |
 | `playstation-sns.com` | No |
@@ -33076,6 +33078,7 @@ Here's a list of public Fediverse services.
 | `technick.org` | No |
 | `technobabble.social` | No |
 | `technocat.art` | No |
+| `technodon.org` | Yes |
 | `technodon.social` | No |
 | `technodro.me` | No |
 | `technodruide.ca` | No |
@@ -35287,6 +35290,7 @@ Here's a list of public Fediverse services.
 | `uknow.moe` | No |
 | `ukpagan.com` | Yes |
 | `ukpats.io` | No |
+| `ukraine.rs` | Yes |
 | `ukrainedao.love` | Yes |
 | `ukrainian.network` | No |
 | `ukrainian.social` | No |
@@ -38598,8 +38602,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,289 |
-| Normal | 29,266 |
+| Cloudflare | 9,291 |
+| Normal | 29,268 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
