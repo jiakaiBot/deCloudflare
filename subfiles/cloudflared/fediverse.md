@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,738 |
+| com | 5,739 |
 | social | 3,704 |
 | net | 2,931 |
 | org | 2,058 |
@@ -11687,6 +11687,7 @@ Here's a list of public Fediverse services.
 | `fsimonetti.info` | Yes |
 | `fsinf.at` | No |
 | `fslhome.org` | No |
+| `fslurs.gay` | No |
 | `fsmeets.nl` | No |
 | `fsmi.social` | Yes |
 | `fsmn.xyz` | Yes |
@@ -17806,7 +17807,7 @@ Here's a list of public Fediverse services.
 | `kvet.ch` | Yes |
 | `kviss.is` | No |
 | `kvitter.wtf` | No |
-| `kvlt.info` | Yes |
+| `kvlt.info` | No |
 | `kvlt.zone` | No |
 | `kvokni.cz` | No |
 | `kvuzet.org` | No |
@@ -21754,6 +21755,7 @@ Here's a list of public Fediverse services.
 | `mn.social` | No |
 | `mn9.de` | No |
 | `mnas.info` | No |
+| `mnck.dev` | No |
 | `mndet.net` | No |
 | `mne.social` | No |
 | `mnementh.co.uk` | No |
@@ -22684,6 +22686,7 @@ Here's a list of public Fediverse services.
 | `mxsglobal.com` | No |
 | `mxstbr.com` | Yes |
 | `mxtthxw.art` | No |
+| `my-create.art` | No |
 | `my-fediverse.org` | No |
 | `my-freedom.space` | No |
 | `my-gnusocial.de` | No |
@@ -30379,6 +30382,7 @@ Here's a list of public Fediverse services.
 | `shocktohp.xyz` | No |
 | `shodan.io` | Yes |
 | `shodan.social` | No |
+| `shoddy.site` | No |
 | `shoghi.rocks` | Yes |
 | `shokanradio.com` | Yes |
 | `shoko.one` | No |
@@ -31298,6 +31302,7 @@ Here's a list of public Fediverse services.
 | `someonewho.codes` | No |
 | `someotherguy.xyz` | No |
 | `something.wtf` | No |
+| `somethingorotherwhatever.com` | No |
 | `somethoughts.social` | No |
 | `sometimes.io` | No |
 | `sometimes.social` | No |
@@ -38589,8 +38594,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,287 |
-| Normal | 29,259 |
+| Cloudflare | 9,286 |
+| Normal | 29,265 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
