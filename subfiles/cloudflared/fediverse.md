@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,734 |
+| com | 5,736 |
 | social | 3,703 |
-| net | 2,927 |
+| net | 2,928 |
 | org | 2,058 |
 | de | 1,932 |
 
@@ -629,6 +629,7 @@ Here's a list of public Fediverse services.
 | `9to5mac.com` | No |
 | `9uelle.jp` | No |
 | `9wd.eu` | Yes |
+| `9zn.net` | No |
 | `a-apple.net` | No |
 | `a-chill.space` | No |
 | `a-db.fr` | Yes |
@@ -1331,6 +1332,7 @@ Here's a list of public Fediverse services.
 | `algorithm.berlin` | No |
 | `algorithmic.tv` | No |
 | `algufr.com` | No |
+| `algul.in` | No |
 | `alhameedawi.com` | No |
 | `alhur.es` | Yes |
 | `alice-and-bob.de` | No |
@@ -12112,6 +12114,7 @@ Here's a list of public Fediverse services.
 | `garate.email` | No |
 | `garbage-juice.com` | No |
 | `garbagefire.io` | No |
+| `garciapimentel.com` | Yes |
 | `gardeludwig.fr` | No |
 | `garden-life.org` | No |
 | `gardensoul.org` | No |
@@ -12532,6 +12535,7 @@ Here's a list of public Fediverse services.
 | `giles.fun` | Yes |
 | `gilespaterson.com` | No |
 | `gillesmertens.com` | No |
+| `gillich.me` | Yes |
 | `gillyb.net` | Yes |
 | `gimme-sympathy.org` | No |
 | `gimon.zone` | No |
@@ -16816,6 +16820,7 @@ Here's a list of public Fediverse services.
 | `katarpilar.com` | No |
 | `kate.land` | No |
 | `kathryl.fr` | No |
+| `kathyreid.id.au` | No |
 | `katiechapman.ie` | Yes |
 | `katiehopkinspolitical.icu` | No |
 | `katis.me` | No |
@@ -17228,7 +17233,7 @@ Here's a list of public Fediverse services.
 | `kirota.net` | No |
 | `kirstenmalzwei.de` | No |
 | `kiru.fun` | No |
-| `kirv.in` | No |
+| `kirv.in` | Yes |
 | `kisaan.social` | Yes |
 | `kish.social` | No |
 | `kishkush.net` | No |
@@ -31845,6 +31850,7 @@ Here's a list of public Fediverse services.
 | `ste.no` | No |
 | `ste2.de` | No |
 | `steakandgravy.com` | No |
+| `steakatzee.it` | No |
 | `stealingyour.info` | No |
 | `steam-don.fun` | Yes |
 | `steamdb.info` | Yes |
@@ -36168,6 +36174,7 @@ Here's a list of public Fediverse services.
 | `voe.social` | No |
 | `voege.net` | No |
 | `vofr.net` | No |
+| `vogliaditerra.com` | No |
 | `vogtland.social` | Yes |
 | `voi.social` | No |
 | `voice.fit` | No |
@@ -38458,6 +38465,7 @@ Here's a list of public Fediverse services.
 | `zorns.eu` | No |
 | `zoski.fr` | No |
 | `zot.social` | No |
+| `zota.la` | No |
 | `zotadel.net` | No |
 | `zotan.host` | No |
 | `zotha.de` | Yes |
@@ -38558,8 +38566,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,277 |
-| Normal | 29,238 |
+| Cloudflare | 9,280 |
+| Normal | 29,243 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
