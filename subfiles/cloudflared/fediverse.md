@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,733 |
 | social | 3,702 |
-| net | 2,923 |
+| net | 2,924 |
 | org | 2,058 |
 | de | 1,932 |
 
@@ -14392,6 +14392,7 @@ Here's a list of public Fediverse services.
 | `horvath.com` | No |
 | `hoschwald.de` | No |
 | `hoshi.garden` | Yes |
+| `hoshipaso.net` | Yes |
 | `hoshisaki-h.com` | Yes |
 | `hosnet.fr` | No |
 | `hosszu.social` | No |
@@ -30523,6 +30524,7 @@ Here's a list of public Fediverse services.
 | `silverseams.com` | No |
 | `silverspine.net` | Yes |
 | `silversword.online` | No |
+| `silye-nielsen.cloud` | Yes |
 | `sim.onl` | No |
 | `sim.show` | Yes |
 | `simad.pro` | No |
@@ -38544,7 +38546,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,273 |
+| Cloudflare | 9,275 |
 | Normal | 29,228 |
 
 
