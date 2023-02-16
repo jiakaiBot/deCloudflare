@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to download nvm install.sh via curl on Mac.](https://github.com/nvm-sh/nvm/issues/3037)
+- [Error: Please Check Your Plex URL and Token with internal IP Adress](https://github.com/Wizarrrr/wizarr/issues/57)
 - [Forbidden - referer invalid](https://github.com/gophish/gophish/issues/2765)
 - [example using datausa fails...](https://github.com/sandstorm/caddy-nats-bridge/issues/1)
 - [Broken build in remix with cloudflare-workers. Use of import.meta.env.](https://github.com/pmndrs/zustand/issues/1639)
