@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,704 |
 | net | 2,931 |
 | org | 2,058 |
-| de | 1,934 |
+| de | 1,935 |
 
 
 - Mastodon, Pleroma, etc
@@ -5170,6 +5170,7 @@ Here's a list of public Fediverse services.
 | `cbruegg.com` | Yes |
 | `cbrx.io` | Yes |
 | `cbslocal.com` | Yes |
+| `cbz.pw` | Yes |
 | `cc.bi` | No |
 | `cc.chat` | Yes |
 | `cc2.at` | No |
@@ -9029,6 +9030,7 @@ Here's a list of public Fediverse services.
 | `east17.org` | No |
 | `eastback.co.jp` | No |
 | `eastman.tech` | No |
+| `easy-mastodon.de` | Yes |
 | `easya.solutions` | No |
 | `easydns.ca` | No |
 | `easymode.im` | Yes |
@@ -12058,7 +12060,7 @@ Here's a list of public Fediverse services.
 | `gamelan.social` | No |
 | `gameliberty.club` | No |
 | `gamelinks007.net` | No |
-| `gamelore.fun` | No |
+| `gamelore.fun` | Yes |
 | `gamemaking.social` | No |
 | `gamepad.club` | No |
 | `gameplay.wtf` | Yes |
@@ -38594,8 +38596,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,286 |
-| Normal | 29,265 |
+| Cloudflare | 9,289 |
+| Normal | 29,264 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
