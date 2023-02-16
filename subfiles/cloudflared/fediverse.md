@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,739 |
+| com | 5,740 |
 | social | 3,705 |
 | net | 2,931 |
 | org | 2,059 |
@@ -7665,6 +7665,7 @@ Here's a list of public Fediverse services.
 | `decredcommunity.org` | No |
 | `decrypt.fail` | No |
 | `decuir.org` | Yes |
+| `decwebb.com` | Yes |
 | `dedasys.com` | No |
 | `dededon072.net` | No |
 | `dediboite.fr` | No |
@@ -31642,6 +31643,7 @@ Here's a list of public Fediverse services.
 | `spraci.info` | No |
 | `spragleknas.no` | No |
 | `sprawl.club` | Yes |
+| `sprawy.eu` | No |
 | `spree.social` | No |
 | `spren.space` | No |
 | `sprig.gs` | No |
@@ -38602,8 +38604,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,291 |
-| Normal | 29,268 |
+| Cloudflare | 9,292 |
+| Normal | 29,269 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
