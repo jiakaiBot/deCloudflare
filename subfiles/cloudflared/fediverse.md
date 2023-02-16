@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,737 |
-| social | 3,703 |
-| net | 2,930 |
+| social | 3,704 |
+| net | 2,931 |
 | org | 2,058 |
 | de | 1,933 |
 
@@ -25633,6 +25633,7 @@ Here's a list of public Fediverse services.
 | `parkour-eppingen.de` | No |
 | `parkpioneer.com` | No |
 | `parkrocker.com` | No |
+| `parkrocker.xyz` | No |
 | `parlementum.net` | No |
 | `parlementum.news` | No |
 | `parler.team` | No |
@@ -25734,6 +25735,7 @@ Here's a list of public Fediverse services.
 | `paw.best` | No |
 | `paw.cafe` | Yes |
 | `paw.college` | Yes |
+| `paw.photo` | No |
 | `paw.su` | Yes |
 | `pawb.fun` | Yes |
 | `pawbs.club` | No |
@@ -35867,6 +35869,7 @@ Here's a list of public Fediverse services.
 | `vegan.im.it` | No |
 | `veganact.org.au` | No |
 | `veganbtw.net` | No |
+| `veganbyproxy.net` | No |
 | `vegane.schule` | No |
 | `veganism.social` | No |
 | `veganmsp.com` | Yes |
@@ -37644,6 +37647,7 @@ Here's a list of public Fediverse services.
 | `xn--t8j1bd0a4k.xn--q9jyb4c` | No |
 | `xn--t8jzbl7g.jp` | No |
 | `xn--thelnd-eua.land` | Yes |
+| `xn--thringen-75a.social` | No |
 | `xn--tmp-qb4b9c2eyc.tokyo` | Yes |
 | `xn--tr-fkaba.social` | No |
 | `xn--transposes-i7a.eu` | No |
@@ -38576,7 +38580,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,284 |
-| Normal | 29,248 |
+| Normal | 29,252 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
