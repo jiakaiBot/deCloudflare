@@ -3112,6 +3112,7 @@ Do not create new issue or we will close it as duplicate.
 | [fire11po@twitter](https://twitter.com/fire11po/status/1552902952083689472) | advertise |
 | [firecryptoeth@twitter](https://twitter.com/firecryptoeth/status/1592021042524225537) | advertise |
 | [FireGam99404905@twitter](https://twitter.com/FireGam99404905/status/1399726131842977792) | advertise |
+| [FIRSTCLUB888888@twitter](https://twitter.com/FIRSTCLUB888888/status/1626264885503102989) | advertise |
 | [fitcarenavi@twitter](https://twitter.com/fitcarenavi/status/1548612339058241537) | advertise |
 | [fithri2k21@twitter](https://twitter.com/fithri2k21/status/1601977855248039936) | advertise |
 | [fixgameaja@twitter](https://twitter.com/fixgameaja/status/1585299964066160641) | advertise |
@@ -3224,6 +3225,7 @@ Do not create new issue or we will close it as duplicate.
 | [g02M1Rjo2WJvITL@twitter](https://twitter.com/g02M1Rjo2WJvITL/status/1402969073282027525) | advertise |
 | [G7OAH_Ken@twitter](https://twitter.com/G7OAH_Ken/status/1544335505235517441) | advertise |
 | [g7Vsqme2nATL3G6@twitter](https://twitter.com/g7Vsqme2nATL3G6/status/1400850162675716096) | advertise |
+| [g33k4iicloud@twitter](https://twitter.com/g33k4iicloud/status/1626264654904463373) | advertise |
 | [G191433996@twitter](https://twitter.com/G191433996/status/1393383252304572419) | advertise |
 | [gabatigol@twitter](https://twitter.com/gabatigol/status/1559416630199095296) | advertise |
 | [gabes_hub@twitter](https://twitter.com/gabes_hub/status/1448032264940630023) | advertise |
@@ -6614,6 +6616,7 @@ Do not create new issue or we will close it as duplicate.
 | [metafetamarcio@twitter](https://twitter.com/metafetamarcio/status/1510468915306115082) | advertise |
 | [metimeister@twitter](https://twitter.com/metimeister/status/1577456031071977473) | advertise |
 | [metoporizo@twitter](https://twitter.com/metoporizo/status/1461211384482611201) | advertise |
+| [metro3_@twitter](https://twitter.com/metro3_/status/1619105918066761729) | advertise |
 | [MetrotechsInc@twitter](https://twitter.com/MetrotechsInc/status/1570253772013592576) | advertise |
 | [meu2p@twitter](https://twitter.com/meu2p/status/1486055370800111618) | advertise |
 | [MeVlezz@twitter](https://twitter.com/MeVlezz/status/1396832967700271116) | advertise |
@@ -10784,6 +10787,7 @@ Do not create new issue or we will close it as duplicate.
 | [tinlai3@twitter](https://twitter.com/tinlai3/status/1552195694471311360) | advertise |
 | [TinLinKo1@twitter](https://twitter.com/TinLinKo1/status/1390913316025901059) | advertise |
 | [TinmarWin14@twitter](https://twitter.com/TinmarWin14/status/1399308838445010945) | advertise |
+| [TinMinh78270232@twitter](https://twitter.com/TinMinh78270232/status/1626248638870732800) | advertise |
 | [tinmyoOfficial@twitter](https://twitter.com/tinmyoOfficial/status/1396749342237552641) | advertise |
 | [TinoRck@twitter](https://twitter.com/TinoRck/status/1398243241040912388) | advertise |
 | [TinPhm16592203@twitter](https://twitter.com/TinPhm16592203/status/1552533854707384320) | advertise |
