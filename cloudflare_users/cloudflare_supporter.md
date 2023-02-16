@@ -2132,8 +2132,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -11728,6 +11728,7 @@ Do not create new issue or we will close it as duplicate.
 | [wizkhalifaedgar@twitter](https://twitter.com/wizkhalifaedgar/status/1493223256580624385) | advertise |
 | [wizkiller96@twitter](https://twitter.com/wizkiller96/status/1381748522094051329) | advertise |
 | [Wizzard52684082@twitter](https://twitter.com/Wizzard52684082/status/1392121099983466499) | advertise |
+| [wi_no_haf_sry@twitter](https://twitter.com/wi_no_haf_sry/status/1625902149480718336) | advertise |
 | [wkfar@twitter](https://twitter.com/wkfar/status/1598157904825417729) | advertise |
 | [wL5X7lOTQMmoHiG@twitter](https://twitter.com/wL5X7lOTQMmoHiG/status/1398145990977327104) | advertise |
 | [WMT48027007@twitter](https://twitter.com/WMT48027007/status/1393435090273800195) | advertise |
