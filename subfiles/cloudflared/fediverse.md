@@ -1519,6 +1519,7 @@ Here's a list of public Fediverse services.
 | `am9gw.in` | No |
 | `ama.ne.jp` | Yes |
 | `amaa.it` | No |
+| `amaki.cc` | No |
 | `amanda.systems` | Yes |
 | `amandaquraishi.com` | No |
 | `amane.moe` | Yes |
@@ -38597,7 +38598,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,289 |
-| Normal | 29,264 |
+| Normal | 29,265 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
