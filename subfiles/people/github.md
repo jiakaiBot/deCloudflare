@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Danbooru Cloudflare challenge warning + 403 error](https://github.com/mikf/gallery-dl/issues/3665)
 - [Error when creating image: can not identify image file](https://github.com/db0/AI-Horde-Worker/issues/51)
 - [Demo website link broken](https://github.com/unlock-protocol/unlock-wordpress-plugin/issues/60)
 - [Doing ZOD validation on import seems like seriously blocks script startup times](https://github.com/webstudio-is/webstudio-builder/issues/1051)
