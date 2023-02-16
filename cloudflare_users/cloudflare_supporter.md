@@ -2131,8 +2131,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -11819,6 +11819,7 @@ Do not create new issue or we will close it as duplicate.
 | [XuamVinh0908@twitter](https://twitter.com/XuamVinh0908/status/1556205862716264448) | advertise |
 | [xuanky12@twitter](https://twitter.com/xuanky12/status/1572089406122762240) | advertise |
 | [Xuanly60441460@twitter](https://twitter.com/Xuanly60441460/status/1504496542375301133) | advertise |
+| [xubairsattar@twitter](https://twitter.com/xubairsattar/status/1626147660213149698) | advertise |
 | [xubbers@twitter](https://twitter.com/xubbers/status/1375092922975145988) | advertise |
 | [XunDngBi1@twitter](https://twitter.com/XunDngBi1/status/1623701300549652480) | advertise |
 | [XUniwathunder@twitter](https://twitter.com/XUniwathunder/status/1614262894266572802) | advertise |
