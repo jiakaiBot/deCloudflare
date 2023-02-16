@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,737 |
+| com | 5,738 |
 | social | 3,704 |
 | net | 2,931 |
 | org | 2,058 |
-| de | 1,933 |
+| de | 1,934 |
 
 
 - Mastodon, Pleroma, etc
@@ -1690,6 +1690,7 @@ Here's a list of public Fediverse services.
 | `andi1984.social` | No |
 | `andie.club` | No |
 | `andieadorable.gay` | Yes |
+| `andinfinity.de` | No |
 | `andlang.me` | No |
 | `andoria.social` | Yes |
 | `andoria.space` | No |
@@ -16483,6 +16484,7 @@ Here's a list of public Fediverse services.
 | `jumping.wang` | No |
 | `jumpingcrab.com` | No |
 | `jun-ji.me` | No |
+| `junaid.dev` | No |
 | `junaidbhura.blog` | No |
 | `junaidbhura.social` | No |
 | `jungley.net` | Yes |
@@ -17720,6 +17722,7 @@ Here's a list of public Fediverse services.
 | `kuecker.eu` | No |
 | `kueckieben.de` | No |
 | `kuehnert.io` | No |
+| `kuendig.io` | No |
 | `kuenet.ch` | No |
 | `kuenstlerquadrat.de` | No |
 | `kuester7.com` | No |
@@ -19272,6 +19275,7 @@ Here's a list of public Fediverse services.
 | `lucentinian.com` | No |
 | `lucero.top` | No |
 | `lucfaucher.fr` | No |
+| `lucha.nyc` | No |
 | `lucid.community` | No |
 | `lucida-don.net` | No |
 | `lucida-memo.info` | No |
@@ -19965,6 +19969,7 @@ Here's a list of public Fediverse services.
 | `martin-peterdamm.com` | No |
 | `martin502.com` | No |
 | `martinchapman.co.uk` | Yes |
+| `martinez.sh` | No |
 | `martinezperspective.org` | No |
 | `martinfernandez.info` | No |
 | `martinh.net` | No |
@@ -22204,6 +22209,7 @@ Here's a list of public Fediverse services.
 | `mpy.ovh` | No |
 | `mq24.club` | No |
 | `mqm.social` | No |
+| `mqtr.es` | Yes |
 | `mr-omneo.co.uk` | No |
 | `mr.am` | Yes |
 | `mr64.net` | No |
@@ -28054,6 +28060,7 @@ Here's a list of public Fediverse services.
 | `rdh27785.net` | No |
 | `rdis.dev` | No |
 | `rdl.ph` | Yes |
+| `rdm.me` | No |
 | `rdpnd.org` | No |
 | `rdpstudio.top` | Yes |
 | `rdrama.cc` | No |
@@ -28886,6 +28893,7 @@ Here's a list of public Fediverse services.
 | `rotten.network` | No |
 | `rouge.eu.org` | No |
 | `rougevertbleu.tv` | No |
+| `roughdraft.party` | Yes |
 | `roughseas.xyz` | No |
 | `roundpaddedcell.com` | No |
 | `roundpond.net` | No |
@@ -28940,6 +28948,7 @@ Here's a list of public Fediverse services.
 | `rsch.club` | No |
 | `rsch.social` | No |
 | `rse43.com` | Yes |
+| `rselbach.com` | No |
 | `rsi.social` | No |
 | `rsn.io` | No |
 | `rsngrtn.fyi` | No |
@@ -38580,8 +38589,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,285 |
-| Normal | 29,252 |
+| Cloudflare | 9,287 |
+| Normal | 29,259 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
