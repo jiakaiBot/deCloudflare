@@ -344,6 +344,7 @@ Or is this merely a case of simple modesty?
 | Caroline White | Sales Operations |  |
 | Carson Andorf | Employee |  |
 | Cassandra Morris | Employee |  |
+| Cass Fridkin | Employee | |
 | Cassy Olson | Account Executive |  |
 | Cat Allen | Employee | |
 | Cate Danielson | Employee |  |
@@ -565,6 +566,7 @@ Or is this merely a case of simple modesty?
 | Elina Todorov | Global Sales Strategy |  |
 | Elisa L. Durrette | Legal-Commercial Transactions |  |
 | Elizabeth Addison | Commercial Counsel |  |
+| Elizabeth Rapoport | Employee | |
 | Ellen Miao | Employee |  |
 | Ellie Cooper | Austin |  |
 | Ellie Jamison | Recruiting Coordinator |  |
