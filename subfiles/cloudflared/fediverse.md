@@ -11975,7 +11975,7 @@ Here's a list of public Fediverse services.
 | `gabeappleton.me` | No |
 | `gabekangas.com` | No |
 | `gabfed.com` | Yes |
-| `gabgoo.xyz` | No |
+| `gabgoo.xyz` | Yes |
 | `gabi.is` | No |
 | `gabnotes.org` | No |
 | `gabosh.net` | No |
@@ -19685,6 +19685,7 @@ Here's a list of public Fediverse services.
 | `makai.xyz` | No |
 | `makamaka.me` | No |
 | `makani.dev` | No |
+| `makary.online` | No |
 | `makegame.run` | No |
 | `makegames.social` | No |
 | `makemusic.social` | Yes |
@@ -38579,7 +38580,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,284 |
+| Cloudflare | 9,285 |
 | Normal | 29,252 |
 
 
