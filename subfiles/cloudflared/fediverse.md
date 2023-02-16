@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,737 |
 | social | 3,703 |
-| net | 2,929 |
+| net | 2,930 |
 | org | 2,058 |
 | de | 1,933 |
 
@@ -28044,6 +28044,7 @@ Here's a list of public Fediverse services.
 | `rcsocial.net` | Yes |
 | `rctatman.com` | No |
 | `rcwd.social` | No |
+| `rd-social.net` | No |
 | `rd-srv.de` | Yes |
 | `rdela.com` | No |
 | `rdg.world` | No |
@@ -37819,6 +37820,7 @@ Here's a list of public Fediverse services.
 | `yandere.cc` | Yes |
 | `yang.social` | No |
 | `yanick.ca` | No |
+| `yanix.jp` | Yes |
 | `yankee.social` | No |
 | `yanlinaung.xyz` | No |
 | `yannforet.fr` | No |
@@ -38573,8 +38575,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,283 |
-| Normal | 29,247 |
+| Cloudflare | 9,284 |
+| Normal | 29,248 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
