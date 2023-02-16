@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Demo website link broken](https://github.com/unlock-protocol/unlock-wordpress-plugin/issues/60)
 - [Doing ZOD validation on import seems like seriously blocks script startup times](https://github.com/webstudio-is/webstudio-builder/issues/1051)
 - [Unable to download nvm install.sh via curl on Mac.](https://github.com/nvm-sh/nvm/issues/3037)
 - [Error: Please Check Your Plex URL and Token with internal IP Adress](https://github.com/Wizarrrr/wizarr/issues/57)
