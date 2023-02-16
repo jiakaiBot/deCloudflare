@@ -12093,6 +12093,7 @@ Here's a list of public Fediverse services.
 | `gaming-gorilla.de` | No |
 | `gaming.pizza` | No |
 | `gaming.rip` | No |
+| `gamingden.zone` | No |
 | `gamingecke.space` | No |
 | `gaminginthe.cloud` | Yes |
 | `gamingjp.org` | No |
@@ -38598,7 +38599,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,289 |
-| Normal | 29,265 |
+| Normal | 29,266 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
