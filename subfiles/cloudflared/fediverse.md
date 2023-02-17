@@ -8198,6 +8198,7 @@ Here's a list of public Fediverse services.
 | `digper.tech` | No |
 | `dijy.eu.org` | No |
 | `dilavni.com` | Yes |
+| `dilithium.fr` | No |
 | `dillingen.social` | No |
 | `dilopiaf.fr` | No |
 | `dimension.host` | No |
@@ -22878,6 +22879,7 @@ Here's a list of public Fediverse services.
 | `mytubetoday.tv` | No |
 | `myutsutaka.com` | No |
 | `myvnc.com` | No |
+| `myvpsserver.top` | No |
 | `mywanderings.org` | Yes |
 | `mywebprojects.co.uk` | No |
 | `mywire.org` | Yes |
@@ -38527,6 +38529,7 @@ Here's a list of public Fediverse services.
 | `zone.io` | No |
 | `zone42.org` | No |
 | `zonepl.net` | No |
+| `zonurben.ch` | No |
 | `zoomer.photography` | No |
 | `zoomers.lol` | No |
 | `zoonior.app` | No |
@@ -38645,7 +38648,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,313 |
-| Normal | 29,288 |
+| Normal | 29,291 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
