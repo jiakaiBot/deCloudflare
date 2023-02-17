@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,748 |
-| social | 3,712 |
-| net | 2,934 |
-| org | 2,059 |
+| social | 3,713 |
+| net | 2,936 |
+| org | 2,060 |
 | de | 1,938 |
 
 
@@ -2359,6 +2359,7 @@ Here's a list of public Fediverse services.
 | `ashleystone.me.uk` | Yes |
 | `ashwalker.net` | No |
 | `ashwin.run` | No |
+| `ashworth.io` | No |
 | `asie.pl` | No |
 | `asimon.org` | No |
 | `asiriyuq.xyz` | No |
@@ -5474,6 +5475,7 @@ Here's a list of public Fediverse services.
 | `chezjln.xyz` | No |
 | `chezmoi.cloud` | No |
 | `chezwam.eu` | No |
+| `chfrank.net` | No |
 | `chi.st` | No |
 | `chiakey.io` | Yes |
 | `chiantos.org` | No |
@@ -15904,6 +15906,7 @@ Here's a list of public Fediverse services.
 | `jasonbaker.info` | No |
 | `jasondaigo.de` | No |
 | `jasondavies.com` | No |
+| `jasondavis.net` | Yes |
 | `jasondavis.org` | Yes |
 | `jasongraphix.com` | No |
 | `jasongreen.net` | Yes |
@@ -26154,6 +26157,7 @@ Here's a list of public Fediverse services.
 | `phill.gg` | Yes |
 | `phillipjordan.com` | Yes |
 | `phillips.fun` | No |
+| `phillipsuk.org` | No |
 | `philoxweb.be` | No |
 | `philpin.com` | Yes |
 | `philpot.org` | No |
@@ -30357,6 +30361,7 @@ Here's a list of public Fediverse services.
 | `shillest.net` | No |
 | `shimadate.com` | Yes |
 | `shimaidon.net` | No |
+| `shimanchu.social` | No |
 | `shimapan.moe` | No |
 | `shimbashi.beer` | No |
 | `shimmy1996.com` | No |
@@ -38656,8 +38661,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,316 |
-| Normal | 29,297 |
+| Cloudflare | 9,317 |
+| Normal | 29,301 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
