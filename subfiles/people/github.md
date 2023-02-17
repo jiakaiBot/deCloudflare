@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [cloudflare: Response.json() errors (type error)](https://github.com/invertase/dart_edge/issues/17)
 - [Error with Jackett and YggTorrent](https://github.com/FlareSolverr/FlareSolverr/issues/704)
 - [Danbooru Cloudflare challenge warning + 403 error](https://github.com/mikf/gallery-dl/issues/3665)
 - [Error when creating image: can not identify image file](https://github.com/db0/AI-Horde-Worker/issues/51)
