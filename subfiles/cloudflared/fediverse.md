@@ -4761,6 +4761,7 @@ Here's a list of public Fediverse services.
 | `byzoni.org` | No |
 | `bzb.kz` | No |
 | `bzh.social` | No |
+| `c-at.jp` | No |
 | `c-c.lol` | Yes |
 | `c-cha.cc` | No |
 | `c-don.net` | No |
@@ -38662,7 +38663,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,317 |
-| Normal | 29,301 |
+| Normal | 29,302 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
