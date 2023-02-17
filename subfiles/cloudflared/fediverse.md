@@ -9214,6 +9214,7 @@ Here's a list of public Fediverse services.
 | `eebrn.de` | No |
 | `eeeeeeee.ee` | Yes |
 | `eeeeeeeee.eu` | No |
+| `eeeeeeeeeeeeeee.ee` | Yes |
 | `eegle.cloud` | No |
 | `eena.me` | No |
 | `eenoog.org` | No |
@@ -16728,6 +16729,7 @@ Here's a list of public Fediverse services.
 | `kamel.social` | No |
 | `kamens.us` | Yes |
 | `kamikaze.moe` | No |
+| `kamima.site` | No |
 | `kamiyacho.net` | No |
 | `kammeyer.xyz` | No |
 | `kamp.site` | No |
@@ -23668,6 +23670,7 @@ Here's a list of public Fediverse services.
 | `nicra.fr` | No |
 | `nicuverse.org` | No |
 | `nicwaller.com` | No |
+| `nidone.club` | No |
 | `niebling.online` | No |
 | `niederbayern.social` | No |
 | `niederkassel.social` | No |
@@ -26279,7 +26282,7 @@ Here's a list of public Fediverse services.
 | `pimoore.ca` | No |
 | `pimux.de` | No |
 | `pina.space` | Yes |
-| `pinbun.com` | No |
+| `pinbun.com` | Yes |
 | `pinc.tube` | No |
 | `pine.cab` | No |
 | `pinellas.space` | No |
@@ -31950,6 +31953,7 @@ Here's a list of public Fediverse services.
 | `steinwart.dk` | No |
 | `stelabrego.com` | No |
 | `stella.place` | Yes |
+| `stellar-drop.info` | No |
 | `stellar.build` | Yes |
 | `stellaria.network` | Yes |
 | `stellartwin-186f.ovh` | No |
@@ -38636,8 +38640,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,308 |
-| Normal | 29,285 |
+| Cloudflare | 9,310 |
+| Normal | 29,287 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
