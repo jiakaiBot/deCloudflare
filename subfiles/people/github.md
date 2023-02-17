@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Random range selection](https://github.com/MortezaBashsiz/CFScanner/issues/80)
 - [Show database connection error page](https://github.com/TheRacetrack/racetrack/issues/174)
 - [Tracking CSP error related issues for newDot](https://github.com/Expensify/App/issues/15244)
 - [cloudflare: Response.json() errors (type error)](https://github.com/invertase/dart_edge/issues/17)
