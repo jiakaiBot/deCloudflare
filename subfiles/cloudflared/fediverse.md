@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,747 |
+| com | 5,748 |
 | social | 3,712 |
 | net | 2,934 |
 | org | 2,059 |
-| de | 1,937 |
+| de | 1,938 |
 
 
 - Mastodon, Pleroma, etc
@@ -8476,6 +8476,7 @@ Here's a list of public Fediverse services.
 | `dogwhipping.day` | No |
 | `dogwonder.co.uk` | No |
 | `doingmyp.art` | No |
+| `doingtheir.best` | No |
 | `doingyourmom.club` | No |
 | `doisakura.moe` | No |
 | `dojos.social` | Yes |
@@ -9898,6 +9899,7 @@ Here's a list of public Fediverse services.
 | `etbus.ch` | No |
 | `etc-services.de` | No |
 | `eternalaugust.com` | No |
+| `eternalflame24.com` | No |
 | `eternawings.com` | No |
 | `eth.moe` | No |
 | `eth0.sh` | Yes |
@@ -13986,6 +13988,7 @@ Here's a list of public Fediverse services.
 | `herzbu.de` | No |
 | `heslach.international` | No |
 | `hespere.de` | No |
+| `hessen.de` | No |
 | `hessen.social` | No |
 | `hesshaus.us` | Yes |
 | `hessis.xyz` | No |
@@ -15708,6 +15711,7 @@ Here's a list of public Fediverse services.
 | `ix.md` | Yes |
 | `ixcat.fr` | No |
 | `ixda.org` | Yes |
+| `ixiaochuan.cn` | No |
 | `iyasaretai.pw` | No |
 | `iyher.club` | No |
 | `iys.io` | Yes |
@@ -17281,6 +17285,7 @@ Here's a list of public Fediverse services.
 | `kitetu.com` | No |
 | `kith.kitchen` | No |
 | `kithop.ca` | No |
+| `kitproject.info` | No |
 | `kitsi.biz` | No |
 | `kitsui.life` | Yes |
 | `kitsuna.net` | Yes |
@@ -19037,7 +19042,7 @@ Here's a list of public Fediverse services.
 | `logoss.eu` | No |
 | `logzinga.com` | Yes |
 | `lohn.in` | Yes |
-| `loicrobert.fr` | No |
+| `loicrobert.fr` | Yes |
 | `loirodonto.club` | No |
 | `lojinx.social` | Yes |
 | `lokal.social` | No |
@@ -24904,6 +24909,7 @@ Here's a list of public Fediverse services.
 | `onlyferas.dev` | No |
 | `onlyfounders.org` | No |
 | `onlyfoxes.biz` | No |
+| `onlyfriends.cloud` | No |
 | `onlygans.social` | No |
 | `onlypixel.nl` | No |
 | `onlyroleplayth.com` | No |
@@ -35241,6 +35247,7 @@ Here's a list of public Fediverse services.
 | `u-v.de` | No |
 | `u.fail` | Yes |
 | `u0conveni.club` | Yes |
+| `u16.io` | Yes |
 | `u1ocloud.de` | No |
 | `u2.social` | Yes |
 | `u2p.net` | No |
@@ -36335,7 +36342,7 @@ Here's a list of public Fediverse services.
 | `vran.as` | Yes |
 | `vraphim.com` | No |
 | `vrc-ins.net` | No |
-| `vrc-instance.xyz` | No |
+| `vrc-instance.xyz` | Yes |
 | `vreeman.com` | Yes |
 | `vreign.space` | No |
 | `vries.dev` | Yes |
@@ -37574,6 +37581,7 @@ Here's a list of public Fediverse services.
 | `xiaoyuanvc.com` | No |
 | `xiaoyun.space` | Yes |
 | `xice.org` | Yes |
+| `xicon.eu` | No |
 | `xierqi.club` | No |
 | `xiii.cards` | No |
 | `xiii.ch` | Yes |
@@ -38647,8 +38655,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,313 |
-| Normal | 29,291 |
+| Cloudflare | 9,316 |
+| Normal | 29,296 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
