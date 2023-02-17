@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,746 |
-| social | 3,710 |
+| social | 3,711 |
 | net | 2,934 |
 | org | 2,059 |
-| de | 1,936 |
+| de | 1,937 |
 
 
 - Mastodon, Pleroma, etc
@@ -1315,6 +1315,7 @@ Here's a list of public Fediverse services.
 | `alexrio.fr` | No |
 | `alexschroeder.ch` | No |
 | `alexsteiner.de` | No |
+| `alexswensen.io` | Yes |
 | `alextraterrestrial.com` | Yes |
 | `alextraterrestrial.net` | Yes |
 | `alexwacker.com` | Yes |
@@ -8993,6 +8994,7 @@ Here's a list of public Fediverse services.
 | `dzindzik.com` | Yes |
 | `dzmastodon.com` | Yes |
 | `dznr.org` | No |
+| `e-ait.de` | No |
 | `e-code.in` | Yes |
 | `e-dt.xyz` | No |
 | `e-editiones.org` | No |
@@ -29096,6 +29098,7 @@ Here's a list of public Fediverse services.
 | `russ.green` | Yes |
 | `russ.industries` | No |
 | `russ.network` | Yes |
+| `russell.social` | Yes |
 | `russiandiaspora.org` | No |
 | `russiaukraine.world` | No |
 | `russnelson.com` | No |
@@ -38633,8 +38636,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,306 |
-| Normal | 29,284 |
+| Cloudflare | 9,308 |
+| Normal | 29,285 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
