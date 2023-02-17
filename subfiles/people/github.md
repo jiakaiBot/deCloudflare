@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error with Jackett and YggTorrent](https://github.com/FlareSolverr/FlareSolverr/issues/704)
 - [Danbooru Cloudflare challenge warning + 403 error](https://github.com/mikf/gallery-dl/issues/3665)
 - [Error when creating image: can not identify image file](https://github.com/db0/AI-Horde-Worker/issues/51)
 - [Demo website link broken](https://github.com/unlock-protocol/unlock-wordpress-plugin/issues/60)
