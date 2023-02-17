@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Tracking CSP error related issues for newDot](https://github.com/Expensify/App/issues/15244)
 - [cloudflare: Response.json() errors (type error)](https://github.com/invertase/dart_edge/issues/17)
 - [Error with Jackett and YggTorrent](https://github.com/FlareSolverr/FlareSolverr/issues/704)
 - [Danbooru Cloudflare challenge warning + 403 error](https://github.com/mikf/gallery-dl/issues/3665)
