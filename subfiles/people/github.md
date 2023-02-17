@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Show database connection error page](https://github.com/TheRacetrack/racetrack/issues/174)
 - [Tracking CSP error related issues for newDot](https://github.com/Expensify/App/issues/15244)
 - [cloudflare: Response.json() errors (type error)](https://github.com/invertase/dart_edge/issues/17)
 - [Error with Jackett and YggTorrent](https://github.com/FlareSolverr/FlareSolverr/issues/704)
