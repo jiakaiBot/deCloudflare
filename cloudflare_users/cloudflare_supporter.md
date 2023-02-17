@@ -2923,6 +2923,7 @@ Do not create new issue or we will close it as duplicate.
 | [enesphp@twitter](https://twitter.com/enesphp/status/1402188376867065863) | advertise |
 | [EngAlexMusic1@twitter](https://twitter.com/EngAlexMusic1/status/1526159260509515776) | advertise |
 | [Engineer_7oda@twitter](https://twitter.com/Engineer_7oda/status/1540451421069484033) | advertise |
+| [Engku_Badrul@twitter](https://twitter.com/Engku_Badrul/status/1626609935210659840) | advertise |
 | [EnglishExam4@twitter](https://twitter.com/EnglishExam4/status/1609895978449895425) | advertise |
 | [engmawia_23@twitter](https://twitter.com/engmawia_23/status/1383721139730481156) | advertise |
 | [eniayoogunsola@twitter](https://twitter.com/eniayoogunsola/status/1554367999418798080) | advertise |
@@ -4976,6 +4977,7 @@ Do not create new issue or we will close it as duplicate.
 | [kai_h@twitter](https://twitter.com/kai_h/status/1409654911566974980) | moral (advertise) |
 | [Kaja70332299@twitter](https://twitter.com/Kaja70332299/status/1389526952747311106) | advertise |
 | [Kaka15107023@twitter](https://twitter.com/Kaka15107023/status/1387055575758868480) | advertise |
+| [kakakakhahak@twitter](https://twitter.com/kakakakhahak/status/1626586718114816000) | advertise |
 | [Kakaro0922@twitter](https://twitter.com/Kakaro0922/status/1558177402320465920) | advertise |
 | [KakMaruf@twitter](https://twitter.com/KakMaruf/status/1604826285242343425) | advertise |
 | [Kakuzu231@twitter](https://twitter.com/Kakuzu231/status/1392289987828146184) | advertise |
@@ -6253,6 +6255,7 @@ Do not create new issue or we will close it as duplicate.
 | [MadznalA@twitter](https://twitter.com/MadznalA/status/1475493006442565633) | advertise |
 | [MaEiEiKhine1@twitter](https://twitter.com/MaEiEiKhine1/status/1396386851187924993) | advertise |
 | [MaffandiMhafizi@twitter](https://twitter.com/MaffandiMhafizi/status/1597250541138374656) | advertise |
+| [mafiasans10@twitter](https://twitter.com/mafiasans10/status/1626511664681197574) | advertise |
 | [MagedSa03599768@twitter](https://twitter.com/MagedSa03599768/status/1555284648200208384) | advertise |
 | [magicshoptae1@twitter](https://twitter.com/magicshoptae1/status/1391277628955402244) | advertise |
 | [Magmavalt@twitter](https://twitter.com/Magmavalt/status/1526286649839206400) | advertise |
@@ -11064,6 +11067,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrunTru48885665@twitter](https://twitter.com/TrunTru48885665/status/1405518457458753536) | advertise |
 | [trun_kynw1506@twitter](https://twitter.com/trun_kynw1506/status/1551907227535310848) | advertise |
 | [Truong00386753@twitter](https://twitter.com/Truong00386753/status/1607847017514160129) | advertise |
+| [Truong0412@twitter](https://twitter.com/Truong0412/status/1626596646405685256) | advertise |
 | [Truong31084796@twitter](https://twitter.com/Truong31084796/status/1569522394636877824) | advertise |
 | [truongchoechoet@twitter](https://twitter.com/truongchoechoet/status/1489978969927843840) | advertise |
 | [Truongd26939610@twitter](https://twitter.com/Truongd26939610/status/1400501039443361796) | advertise |
