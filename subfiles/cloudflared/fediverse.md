@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,748 |
+| com | 5,747 |
 | social | 3,713 |
 | net | 2,936 |
 | org | 2,060 |
-| de | 1,938 |
+| de | 1,939 |
 
 
 - Mastodon, Pleroma, etc
@@ -760,6 +760,7 @@ Here's a list of public Fediverse services.
 | `abraum.de` | No |
 | `abrizero.fr` | No |
 | `abrody.com` | No |
+| `abscue.de` | No |
 | `absentmorality.online` | No |
 | `abshoff.social` | No |
 | `abski.pl` | No |
@@ -5952,7 +5953,7 @@ Here's a list of public Fediverse services.
 | `cmdr.social` | No |
 | `cme-hosting.de` | No |
 | `cmer.fr` | Yes |
-| `cmh.one` | No |
+| `cmh.one` | Yes |
 | `cmjoyce.com` | Yes |
 | `cmm.fyi` | No |
 | `cmnr.eu` | No |
@@ -16312,7 +16313,6 @@ Here's a list of public Fediverse services.
 | `jonasled.de` | Yes |
 | `jonasx.de` | No |
 | `jonathancamp.co.uk` | No |
-| `jonathancandler.com` | No |
 | `jonathandupre.fr` | No |
 | `jonathanhaack.com` | No |
 | `jonathansblog.co.uk` | Yes |
@@ -23021,7 +23021,7 @@ Here's a list of public Fediverse services.
 | `namtari.com` | Yes |
 | `namtsui.com` | No |
 | `namwen.me` | No |
-| `nan1.casa` | No |
+| `nan1.casa` | Yes |
 | `nana.sh` | No |
 | `nanaaki.com` | No |
 | `nanaka.love` | No |
@@ -38662,8 +38662,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,317 |
-| Normal | 29,302 |
+| Cloudflare | 9,319 |
+| Normal | 29,300 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
