@@ -5588,6 +5588,7 @@ Do not create new issue or we will close it as duplicate.
 | [kumawat_is@twitter](https://twitter.com/kumawat_is/status/1407925039995920386) | advertise |
 | [KumDew0678@twitter](https://twitter.com/KumDew0678/status/1394875950643388417) | advertise |
 | [kumpalli@twitter](https://twitter.com/kumpalli/status/1381179571559620610) | advertise |
+| [kun1_1111@twitter](https://twitter.com/kun1_1111/status/1626373990033022977) | advertise |
 | [KundahHazri@twitter](https://twitter.com/KundahHazri/status/1622682818555056128) | advertise |
 | [Kunn82617248@twitter](https://twitter.com/Kunn82617248/status/1399757357467406339) | advertise |
 | [KuppjL@twitter](https://twitter.com/KuppjL/status/1383683527871328263) | advertise |
