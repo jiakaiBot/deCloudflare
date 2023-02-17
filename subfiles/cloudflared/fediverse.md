@@ -3827,6 +3827,7 @@ Here's a list of public Fediverse services.
 | `blackshuck.net` | No |
 | `blacksketch.com` | No |
 | `blackspace.social` | No |
+| `blackstar.cafe` | No |
 | `blacksun.social` | Yes |
 | `blacktre.es` | No |
 | `blacktwitter.io` | No |
@@ -38656,7 +38657,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,316 |
-| Normal | 29,296 |
+| Normal | 29,297 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
