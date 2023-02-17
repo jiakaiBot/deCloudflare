@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,746 |
+| com | 5,747 |
 | social | 3,711 |
 | net | 2,934 |
 | org | 2,059 |
@@ -7632,6 +7632,7 @@ Here's a list of public Fediverse services.
 | `debateclub.eu` | No |
 | `debbie-chan.space` | No |
 | `debenny.de` | No |
+| `deberelene.com` | Yes |
 | `deberon.com` | No |
 | `debian.net` | No |
 | `debian.social` | No |
@@ -21672,6 +21673,7 @@ Here's a list of public Fediverse services.
 | `misty.casa` | No |
 | `misty.garden` | No |
 | `mistynotes.nl` | No |
+| `misw.jp` | Yes |
 | `mit.edu` | Yes |
 | `mita.me` | Yes |
 | `mitaka.nl` | Yes |
@@ -36330,6 +36332,7 @@ Here's a list of public Fediverse services.
 | `vran.as` | Yes |
 | `vraphim.com` | No |
 | `vrc-ins.net` | No |
+| `vrc-instance.xyz` | No |
 | `vreeman.com` | Yes |
 | `vreign.space` | No |
 | `vries.dev` | Yes |
@@ -38640,8 +38643,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,310 |
-| Normal | 29,287 |
+| Cloudflare | 9,312 |
+| Normal | 29,288 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
