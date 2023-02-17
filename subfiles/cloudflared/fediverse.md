@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,747 |
-| social | 3,711 |
+| social | 3,712 |
 | net | 2,934 |
 | org | 2,059 |
 | de | 1,937 |
@@ -2332,6 +2332,7 @@ Here's a list of public Fediverse services.
 | `ascraeus.org` | No |
 | `ascyltos.social` | No |
 | `asdf.wf` | Yes |
+| `asdgsadga.social` | Yes |
 | `asdn.dev` | No |
 | `aseanbar.camp` | No |
 | `asentientbot.ca` | No |
@@ -38643,7 +38644,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,312 |
+| Cloudflare | 9,313 |
 | Normal | 29,288 |
 
 
