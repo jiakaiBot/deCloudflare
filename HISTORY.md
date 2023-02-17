@@ -5,6 +5,10 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-03-06: [MAD (Madrid) on 2023-03-06](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xh32ycjthdb5)
+- 2023-03-03: [MAD (Madrid) on 2023-03-03](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hm2hprz14nlm)
+- 2023-03-02: [MXP (Milan) on 2023-03-02](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/y1zkkx1ts99m)
+- 2023-03-01: [MXP (Milan) on 2023-03-01](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/yd1q5j3zv6xf)
 - 2023-02-24: [FRA (Frankfurt) on 2023-02-24](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7frxpfv93mwn)
 - 2023-02-28: [AMS (Amsterdam) on 2023-02-28](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6gvbq38662m5)
 - 2023-02-27: [AMS (Amsterdam) on 2023-02-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mxnc68c50dfg)
