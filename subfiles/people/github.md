@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Danbooru doesn't work](https://github.com/Bionus/imgbrd-grabber/issues/2912)
 - [SSL is broken](https://github.com/hl/elixircookbook/issues/1)
 - [Random range selection](https://github.com/MortezaBashsiz/CFScanner/issues/80)
 - [Show database connection error page](https://github.com/TheRacetrack/racetrack/issues/174)
