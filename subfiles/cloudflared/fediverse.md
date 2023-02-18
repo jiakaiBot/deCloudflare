@@ -6162,7 +6162,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -11261,7 +11261,7 @@ Here's a list of public Fediverse services.
 | `forza7.jp` | No |
 | `foss.al` | No |
 | `foss.guru` | No |
-| `foss.social` | Yes |
+| `foss.social` | No |
 | `foss.technology` | Yes |
 | `foss.tube` | No |
 | `fossdle.org` | No |
@@ -34916,7 +34916,7 @@ Here's a list of public Fediverse services.
 | `tstm.info` | No |
 | `tstorm.se` | No |
 | `tstv.me` | No |
-| `tsub.me` | No |
+| `tsub.me` | Yes |
 | `tsubamedon.com` | No |
 | `tsubasaori.be` | No |
 | `tsuchidon.com` | No |
@@ -35964,6 +35964,7 @@ Here's a list of public Fediverse services.
 | `velius.dev` | No |
 | `velma.club` | No |
 | `velocipederider.com` | No |
+| `velodrama.cc` | No |
 | `veloma.org` | No |
 | `velour.social` | Yes |
 | `velstandsfanden.no` | No |
@@ -38430,7 +38431,7 @@ Here's a list of public Fediverse services.
 | `zesh.club` | No |
 | `zestysoft.com` | No |
 | `zesummen.online` | No |
-| `zetamu.club` | Yes |
+| `zetamu.club` | No |
 | `zetamu.love` | No |
 | `zetawing.com` | No |
 | `zete.tk` | No |
@@ -38663,8 +38664,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,319 |
-| Normal | 29,301 |
+| Cloudflare | 9,317 |
+| Normal | 29,304 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
