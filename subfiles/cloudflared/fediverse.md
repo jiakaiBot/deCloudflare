@@ -28239,6 +28239,7 @@ Here's a list of public Fediverse services.
 | `redbeardthe.ninja` | No |
 | `redcloud.org` | No |
 | `redcook.social` | No |
+| `redcry.eu` | No |
 | `redd.live` | Yes |
 | `redeagle.me` | No |
 | `redeemed.social` | No |
@@ -29907,6 +29908,7 @@ Here's a list of public Fediverse services.
 | `scronch.com` | No |
 | `scronkfinkle.net` | Yes |
 | `scrubjay.social` | Yes |
+| `scrum.town` | No |
 | `scrumcar.me` | No |
 | `scrun.ch` | Yes |
 | `scruz.social` | Yes |
@@ -38710,7 +38712,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,336 |
-| Normal | 29,330 |
+| Normal | 29,332 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
