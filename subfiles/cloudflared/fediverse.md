@@ -15676,6 +15676,7 @@ Here's a list of public Fediverse services.
 | `itsgarrett.com` | Yes |
 | `itsgonna.com` | No |
 | `itskil.com` | No |
+| `itslaura.eu` | No |
 | `itsme.lgbt` | No |
 | `itsmy.app` | Yes |
 | `itsmy.social` | Yes |
@@ -38707,7 +38708,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,335 |
-| Normal | 29,328 |
+| Normal | 29,329 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
