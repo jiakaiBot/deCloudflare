@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,755 |
+| com | 5,757 |
 | social | 3,720 |
 | net | 2,939 |
 | org | 2,063 |
@@ -3851,6 +3851,7 @@ Here's a list of public Fediverse services.
 | `blahaj.photo` | Yes |
 | `blahaj.social` | Yes |
 | `blahaj.solutions` | No |
+| `blahaj.world` | Yes |
 | `blahaj.zone` | No |
 | `blahblahblah.wtf` | No |
 | `blaho.info` | No |
@@ -5408,6 +5409,7 @@ Here's a list of public Fediverse services.
 | `chatbox.social` | No |
 | `chatch.at` | No |
 | `chatdespair.com` | No |
+| `chateaude.luxe` | Yes |
 | `chatelet.ovh` | No |
 | `chatinbit.com` | No |
 | `chating.xyz` | No |
@@ -20969,6 +20971,7 @@ Here's a list of public Fediverse services.
 | `medlab.host` | No |
 | `medlibre.fr` | No |
 | `medmastodon.social` | No |
+| `medsocionwheels.com` | Yes |
 | `medsos.web.id` | No |
 | `medusmedia.com` | No |
 | `meecolabs.eu` | No |
@@ -34746,6 +34749,7 @@ Here's a list of public Fediverse services.
 | `traxo.net` | Yes |
 | `traydent.info` | No |
 | `trayvonmart.in` | Yes |
+| `trblcorp.com` | Yes |
 | `trblmkr.net` | Yes |
 | `treadl.com` | No |
 | `treasuredgem.xyz` | No |
@@ -38712,8 +38716,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,337 |
+| Cloudflare | 9,341 |
 | Normal | 29,332 |
 
 
-### 24.1% of public Fediverse services are using Cloudflare.
+### 24.2% of public Fediverse services are using Cloudflare.
