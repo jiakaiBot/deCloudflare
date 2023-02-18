@@ -35,7 +35,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | aaytorr.com | Yes |
 | absolight.net | No |
 | abstergo.it | No |
-| adblocker.eu.org | No |
 | adfilter.net | Yes |
 | adguard-dns.com | Yes |
 | adguard-server.cf | Yes |
@@ -106,7 +105,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | carson-family.com | Yes |
 | cbio.top | Yes |
 | cearhome.top | Yes |
-| censurfridns.dk | No |
 | cepheus0.com | Yes |
 | cgnat.net | No |
 | chaos-system.de | No |
@@ -159,7 +157,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | diplo.es | Yes |
 | disconnect.app | Yes |
 | dlinkddns.com | No |
-| dmr.pw | Yes |
 | dns.google | No |
 | dns.pub | No |
 | dns.sb | Yes |
@@ -181,7 +178,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | doh.sb | Yes |
 | dotls.org | Yes |
 | douglaster.com | No |
-| dr-adguard.de | Yes |
 | druta.me | Yes |
 | dscloud.me | No |
 | dtness.com | No |
@@ -288,7 +284,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jamesxue.xyz | No |
 | jeroenhd.nl | No |
 | jfchenier.ca | Yes |
-| jimirobaer.be | Yes |
 | jiripocta.cz | No |
 | jjm.asia | Yes |
 | jnorton.us | No |
@@ -345,7 +340,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | marcrnt.de | No |
 | masters-of-cloud.de | No |
 | mcasviper.de | No |
-| me7878.com | Yes |
 | meddy94.de | No |
 | meeo.win | Yes |
 | meganerd.nl | No |
@@ -378,7 +372,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mydns.network | Yes |
 | myds.me | No |
 | myfritz.net | No |
-| myhottiemama.de | No |
 | myon.lu | No |
 | mytm.cc | No |
 | mywire.org | Yes |
@@ -400,7 +393,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | node15.com | Yes |
 | nolo.ltd | Yes |
 | nomu.pw | No |
-| norgan.net | No |
 | norvig.dk | Yes |
 | notecore.me | No |
 | novali.date | Yes |
@@ -517,7 +509,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | twtrs.com | Yes |
 | tylerwahl.com | No |
 | typaza.com | No |
-| uncensoreddns.org | No |
 | unerror.network | Yes |
 | uni-bremen.de | No |
 | unipd.it | Yes |
@@ -558,8 +549,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 238 |
-| Normal | 301 |
+| Cloudflare | 234 |
+| Normal | 296 |
 
 
 ### 44.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
