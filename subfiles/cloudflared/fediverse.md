@@ -6618,6 +6618,7 @@ Here's a list of public Fediverse services.
 | `creatives.host` | Yes |
 | `creativetech.social` | No |
 | `creativewriting.social` | No |
+| `creativition.dev` | Yes |
 | `creativity.cafe` | No |
 | `creatodon.online` | No |
 | `creators.social` | Yes |
@@ -38708,7 +38709,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,335 |
+| Cloudflare | 9,336 |
 | Normal | 29,330 |
 
 
