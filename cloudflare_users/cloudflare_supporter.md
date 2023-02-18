@@ -8218,6 +8218,7 @@ Do not create new issue or we will close it as duplicate.
 | [PaingTh77598832@twitter](https://twitter.com/PaingTh77598832/status/1394999586486317058) | advertise |
 | [paingthuyaaung4@twitter](https://twitter.com/paingthuyaaung4/status/1391851858046582789) | advertise |
 | [pai_gao@twitter](https://twitter.com/pai_gao/status/1391217520967786497) | advertise |
+| [pajarrahmansyah@twitter](https://twitter.com/pajarrahmansyah/status/1626736157622165505) | advertise |
 | [pajeraspart@twitter](https://twitter.com/pajeraspart/status/1552017882372276225) | advertise |
 | [pakalupapitol@twitter](https://twitter.com/pakalupapitol/status/1399651143311974404) | advertise |
 | [PakoMotsumi4@twitter](https://twitter.com/PakoMotsumi4/status/1551305611824041985) | advertise |
