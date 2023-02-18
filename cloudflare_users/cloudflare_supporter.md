@@ -991,6 +991,7 @@ Do not create new issue or we will close it as duplicate.
 | [AtlasFNM_@twitter](https://twitter.com/AtlasFNM_/status/1389023296939651074) | advertise |
 | [atlpastor@twitter](https://twitter.com/atlpastor/status/1541612710416236546) | advertise |
 | [atomstudy_com@twitter](https://twitter.com/atomstudy_com/status/1449689471675355136) | advertise |
+| [ATP_Sang@twitter](https://twitter.com/ATP_Sang/status/1626915325227966465) | advertise |
 | [AttaAtt05399049@twitter](https://twitter.com/AttaAtt05399049/status/1386699730898456579) | advertise |
 | [attab0yyy@twitter](https://twitter.com/attab0yyy/status/1383128080818970624) | advertise |
 | [augthu@twitter](https://twitter.com/augthu/status/1400836583994007554) | advertise |
@@ -3166,6 +3167,7 @@ Do not create new issue or we will close it as duplicate.
 | [Frankie15083281@twitter](https://twitter.com/Frankie15083281/status/1552191447042256896) | advertise |
 | [frankygu@twitter](https://twitter.com/frankygu/status/1533974817438941185) | advertise |
 | [freaklinkrd@twitter](https://twitter.com/freaklinkrd/status/1622968715120902144) | advertise |
+| [FreakXff@twitter](https://twitter.com/FreakXff/status/1626766134883106818) | advertise |
 | [freak_bharath@twitter](https://twitter.com/freak_bharath/status/1398311217605738496) | advertise |
 | [FreddyKaung@twitter](https://twitter.com/FreddyKaung/status/1396197482086813701) | advertise |
 | [freddyschre@twitter](https://twitter.com/freddyschre/status/1501565599746596867) | advertise |
@@ -9470,6 +9472,7 @@ Do not create new issue or we will close it as duplicate.
 | [SawNaun69013208@twitter](https://twitter.com/SawNaun69013208/status/1392243678723198978) | advertise |
 | [SawPyaeKhaing2@twitter](https://twitter.com/SawPyaeKhaing2/status/1389941532560486400) | advertise |
 | [SawritaN@twitter](https://twitter.com/SawritaN/status/1624798127583817728) | advertise |
+| [SawThandarHtay@twitter](https://twitter.com/SawThandarHtay/status/1626846723112054785) | advertise |
 | [SawThantZayarO1@twitter](https://twitter.com/SawThantZayarO1/status/1391276064647700484) | advertise |
 | [Sawwinmaung0@twitter](https://twitter.com/Sawwinmaung0/status/1394517271758790661) | advertise |
 | [sawyannaing97@twitter](https://twitter.com/sawyannaing97/status/1613418902465445895) | advertise |
