@@ -303,6 +303,7 @@ franciza.online.xpost.com.ro
 git.git.wallet.xn--1-otb3ae.xn--p1ai
 giveawine-api.weita.xiag.dev
 jbuat.xplan.ch
+mail.xtisqk.live
 memoq-gcp3.dev.xtrf.eu
 monitoring.xand.tools
 pickasso-hdl-preprod-sg.xdigi-pickasso.com
@@ -336,6 +337,7 @@ xhygnusnews.com
 xinfo2341na.xsrv.jp
 xix-recovery.org
 xmkd.com
+xn--80atb.net
 xn--altdeutsche-schferhunde-vom-angeliter-land-ksd.de
 xn--freizgigkeitskonto-erffnen-wvc5m.ch
 xn--hmeenkonepalvelu-vnb.fi
@@ -344,6 +346,7 @@ xn--kbcrypto-54a.dk
 xn--lnmedinkasso-tcb.com
 xn--loqim-bcrr-hx3e.com
 xn--mlholtforsamlingshus-bcc.dk
+xn--sabinarengring-zqb.dk
 xn--sandebtservice-qib.no
 xn--schttgut-liefern-lzb.de
 xn--ssom-poa.se
