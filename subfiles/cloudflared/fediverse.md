@@ -22814,6 +22814,7 @@ Here's a list of public Fediverse services.
 | `mymicro.blog` | No |
 | `mymouns.net` | No |
 | `mymountain.life` | No |
+| `mymstdn.pl` | No |
 | `mymte.de` | No |
 | `myna.social` | No |
 | `mynah.org` | No |
@@ -38663,7 +38664,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,319 |
-| Normal | 29,300 |
+| Normal | 29,301 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
