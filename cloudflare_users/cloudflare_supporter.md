@@ -1198,6 +1198,7 @@ Do not create new issue or we will close it as duplicate.
 | [axillarystudios@twitter](https://twitter.com/axillarystudios/status/1580359764046884865) | advertise |
 | [Axng04841938@twitter](https://twitter.com/Axng04841938/status/1560016017967161344) | advertise |
 | [Axon31869044@twitter](https://twitter.com/Axon31869044/status/1545035870281285634) | advertise |
+| [Axxhhhh@twitter](https://twitter.com/Axxhhhh/status/1626929633152143363) | advertise |
 | [AyadGhezzi@twitter](https://twitter.com/AyadGhezzi/status/1575585105690533888) | advertise |
 | [ayaz76681172@twitter](https://twitter.com/ayaz76681172/status/1574500158607441955) | advertise |
 | [Aye92548468@twitter](https://twitter.com/Aye92548468/status/1392788493001134085) | advertise |
@@ -4509,6 +4510,7 @@ Do not create new issue or we will close it as duplicate.
 | [itssararsh@twitter](https://twitter.com/itssararsh/status/1578387662221852674) | advertise |
 | [ItsSimplyBelle@twitter](https://twitter.com/ItsSimplyBelle/status/1397995563812073476) | advertise |
 | [ITSystemsAdmin@twitter](https://twitter.com/ITSystemsAdmin/status/1373030532469112834) | advertise |
+| [its_abo1@twitter](https://twitter.com/its_abo1/status/1626923118089637889) | advertise |
 | [its_bakhshish_s@twitter](https://twitter.com/its_bakhshish_s/status/1566001461225435138) | advertise |
 | [its_bimbima@twitter](https://twitter.com/its_bimbima/status/1404597353076596737) | advertise |
 | [Its_nonsoo@twitter](https://twitter.com/Its_nonsoo/status/1615742511091179520) | advertise |
@@ -10667,6 +10669,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThnhHip11@twitter](https://twitter.com/ThnhHip11/status/1396278038707335173) | advertise |
 | [ThnhPhc34390808@twitter](https://twitter.com/ThnhPhc34390808/status/1400122599829426177) | advertise |
 | [ThnhTrn98084443@twitter](https://twitter.com/ThnhTrn98084443/status/1398332486560583681) | advertise |
+| [THoa64408120@twitter](https://twitter.com/THoa64408120/status/1626928241327087617) | advertise |
 | [Thoi60256647@twitter](https://twitter.com/Thoi60256647/status/1402575444285657092) | advertise |
 | [thomas71920860@twitter](https://twitter.com/thomas71920860/status/1390879393963134978) | advertise |
 | [thomasselvaraj4@twitter](https://twitter.com/thomasselvaraj4/status/1486340242789470212) | advertise |
