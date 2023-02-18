@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,755 |
-| social | 3,719 |
-| net | 2,938 |
-| org | 2,062 |
-| de | 1,943 |
+| social | 3,720 |
+| net | 2,939 |
+| org | 2,063 |
+| de | 1,944 |
 
 
 - Mastodon, Pleroma, etc
@@ -1827,6 +1827,7 @@ Here's a list of public Fediverse services.
 | `anmol.net.in` | No |
 | `annaclemens.io` | Yes |
 | `annakirche.at` | No |
+| `annathepiper.org` | No |
 | `annetteschwindt.de` | No |
 | `anniqa.com` | No |
 | `annleckie.com` | No |
@@ -8004,6 +8005,7 @@ Here's a list of public Fediverse services.
 | `devolver.social` | No |
 | `devonrjohnson.stream` | No |
 | `devontechnologies.com` | No |
+| `devopsdays.social` | Yes |
 | `devopsgenius.com` | No |
 | `devosi.org` | No |
 | `devosmium.xyz` | Yes |
@@ -16754,6 +16756,7 @@ Here's a list of public Fediverse services.
 | `kame.land` | No |
 | `kame.moe` | No |
 | `kameari.tokyo` | No |
+| `kamee.rip` | No |
 | `kameha.click` | No |
 | `kamel.social` | No |
 | `kamens.us` | Yes |
@@ -20848,6 +20851,7 @@ Here's a list of public Fediverse services.
 | `mcdev.tech` | No |
 | `mcdizzle.com` | No |
 | `mcewan.io` | No |
+| `mcflash99.de` | No |
 | `mcfood.org` | No |
 | `mcgeo.xyz` | No |
 | `mcgrath.club` | No |
@@ -23784,6 +23788,7 @@ Here's a list of public Fediverse services.
 | `nilles.net` | No |
 | `nils-andresen.de` | No |
 | `nils.moe` | Yes |
+| `nilsmueller.info` | No |
 | `nilsu.org` | No |
 | `nilswloka.com` | No |
 | `nimag.net` | No |
@@ -31326,6 +31331,7 @@ Here's a list of public Fediverse services.
 | `sokrates.social` | No |
 | `sol.org.tr` | Yes |
 | `solagg.com` | No |
+| `solarbird.net` | No |
 | `solardorf.eu` | No |
 | `solari.com` | No |
 | `solaria.space` | No |
@@ -38697,8 +38703,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,330 |
-| Normal | 29,324 |
+| Cloudflare | 9,331 |
+| Normal | 29,329 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
