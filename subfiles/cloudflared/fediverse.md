@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,755 |
 | social | 3,719 |
-| net | 2,937 |
+| net | 2,938 |
 | org | 2,061 |
 | de | 1,943 |
 
@@ -8326,7 +8326,7 @@ Here's a list of public Fediverse services.
 | `distsn.org` | No |
 | `disunitedstates.com` | No |
 | `disunitedstates.org` | No |
-| `dit.li` | No |
+| `dit.li` | Yes |
 | `ditatompel.com` | Yes |
 | `ditchthebird.eu` | No |
 | `dithernet.org` | No |
@@ -12434,6 +12434,7 @@ Here's a list of public Fediverse services.
 | `geofox.org` | Yes |
 | `geofront.rocks` | No |
 | `geontime.com` | No |
+| `geoplanetary.net` | Yes |
 | `geordieguy.au` | No |
 | `geore.pub` | Yes |
 | `georg-rosenbaum.de` | No |
@@ -38695,8 +38696,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,328 |
-| Normal | 29,324 |
+| Cloudflare | 9,330 |
+| Normal | 29,323 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
