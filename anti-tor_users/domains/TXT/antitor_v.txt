@@ -994,7 +994,6 @@ vapclean.com.br
 varechphugoid.com
 varslingshuset.no
 vascocity.com
-vasiota.com
 vaspo33.com
 vaspo36.com
 vastgoedkijker.be
@@ -1268,6 +1267,7 @@ alertmanager.us-central1.common.hs.vatic.cloud
 alexvps2.virtuspayment.com
 amazon-bvgghgfgt.vizvaz.com
 analytics.vodafone.com.au
+api-external.prd.veuu.com
 api.n46-eolda1.dev.eu.pp.cloud.vwgroup.com
 apiekyc.cloud.vietbank.com.vn
 apiekyc.sandbox.vietbank.com.vn
@@ -1286,8 +1286,11 @@ backoffice.qua.viaverde.pt
 backoffice1.qua.viaverde.pt
 bbbank.vr-risikoneigung.de
 be.vaplatform.ru
+billionaire.vertx.ma
 blog.verslu.is
 bloxdev.vercel.app
+bms.ace-894ef952.core.build.vwn.cloud
+bms.ace-e2da7539.core.build.vwn.cloud
 bulktext.vodafone.ie
 business.vodafone.ie
 bvfenlinea.visionfund.ec
@@ -1304,6 +1307,7 @@ cpcontacts.venom-fitness.com
 cpcontacts.veribank.net
 csgoteamzeit.vercel.app
 dashboard.vivira.com
+demo.virtualwealth.ca
 demo.vpntopreviews.com
 dev.api.vexpens.es
 dev.vita-gate.com
@@ -1320,6 +1324,8 @@ es.vyn-overstocks.com
 externalservices.viaverde.pt
 f.vimeocdn.com
 form.volkswagen.it
+forums.virtualbox.org
+foxhill.vtitlereport.com
 ftp.villa-rica.com
 git.gitlab.autodiscover.valid-vk.ru
 git.gitlab.git.autodiscover.valid-vk.ru
@@ -1330,6 +1336,7 @@ graylog.validcertificadora.com.br
 ha-5a.user-management.dev.eu.vwg.vwautocloud.net
 hcp3csaazsrundev-3a.dmo.eu.dp.vwg-connect.com
 hec.splunkinfra.vipps.io
+hermes.vidam.hu
 highintoxicdiscordbot.vercel.app
 id.strato-rechnung.vidoslav.de
 identity.vwapps.io
@@ -1339,6 +1346,7 @@ int-generischer-fileupload.vr-bankenportal.de
 invoice.vene.kr
 ipa.vdslab.ca
 iservice3.vanillamedia.hr
+ivts-31884m.web-react-invictus.evoyageurs-dev.aws.vsct.fr
 katana.vintagepremiumgift.com
 keno.vietlott.vn
 lessentiel.vinci-autoroutes.com
@@ -1351,6 +1359,7 @@ mail-server-mock.ace-b7144077.core.build.vwn.cloud
 mail.happynewyear2020-imailwww.blog.admin.vashsad37.ru
 mail.vantasecuritygroup.com
 mail.vintagepremiumgift.com
+mailchimp.viapan.eu
 mapd.vodafone.com.au
 mbboauth-1c.prd.ece.vwg-connect.com
 mijnapi.vlcompliant.nl
@@ -1423,6 +1432,7 @@ shipping-manager.doelgroep.dgs.dev.platforms.symeta.vvc.dev
 smartinvoice.vodafone.ro
 software.voicego.se
 sousadiscord.vercel.app
+souvlaki.vpn.gr
 spark-dev.np.vertexcybersecurity.com.au
 speedtest-test.vodafone-ip.de
 staging.ukitservice.veryfasthosting.co.uk
@@ -1438,6 +1448,7 @@ topup.vtunaija.com.ng
 tunnel2.vetropack.com
 twitch.vopu.cloud
 twitchbuffer.vaudience.net
+twitchy123.vercel.app
 vafcu.com
 vakif.org
 valeoserviceusa.com
@@ -1453,8 +1464,11 @@ vboddxcl2.asia
 vdc.vodafone.ie
 vedantapublicschool.org
 vegas411.com
+velloreccbank.in
 velo29events.com
 velocetrax-cybersecurity.com
+vemco.app
+venmostni.tk
 venusb2b.com.tr
 ver2.asia
 verein-fem-theologie.de
@@ -1467,11 +1481,13 @@ verizonwiresess.com
 veros.com
 vertentesolucoes.com.br
 vertography.com
+vestsupport.dk
 viaplay.pl
 victoria-creditrepair.com
 victorycs.org
 videogamesblockchain.com
 vidrotechmt.com.br
+vietaust.com.au
 vietvip.bet
 vignettes365.com
 vilanova.ro
@@ -1479,6 +1495,7 @@ vimcar.de
 vinabank247.com
 vinhomesoceanparkthecrown.net
 vinodetenerife.es
+vintageproperty.vintagepremiumgift.com
 vipcapitalfunding.com
 vipgrandsecurity.com
 vipguard-security.ro
@@ -1499,6 +1516,7 @@ visitmy.website
 visitroyalmail.com
 visuallistings.app
 visualuno.com.ar
+viswiss.com.br
 vitalautoservice.ro
 vitalbox.com
 vitals.ua
@@ -1515,15 +1533,18 @@ vodafone.ro
 vodafonefaf.ie
 vodafonefantasticdays.com
 vodafoneready.co.uk
+vodicnekretnine.rs
 vodun.co.uk
 voicesupport.ro
 voladm.gov.ua
 volcanicas.com
 volunteer.vcfd.org
+voorpositiviteit.nl
 vostok.ru
 vozer.fr
 vpbankcf.com
 vpn234.com
+vpna2z.de
 vpnbgone.com
 vpninformatica.com.br
 vpnmik.net
@@ -1550,12 +1571,15 @@ vwi.vwgroup.co.za
 vwsadmz.vwgroup.co.za
 vysogorets.org
 webapi.volanty.com
+webdisk.vaccinet.org
 webdisk.velukkudidiscourses.com
+webdisk.venomoth.shop
 webdisk.videodyno.com.au
 webdisk.vighospitaljalandhar.com
 webdisk.vintagepremiumgift.com
 webdisk.vortexmediaworkshops.com
 webmail.vintagepremiumgift.com
+webmail.viralfyp.my.id
 webmail.viverbemehpossivel.site
 webservice.vetindex.be
 wemobi.vendasjca.com.br
@@ -1565,6 +1589,7 @@ ws.vhega.com.br
 wsnfse.vitoria.es.gov.br
 wsnfsehomologa.vitoria.es.gov.br
 www.alexvps2.virtuspayment.com
+www.bcstateofvolunteering.volunteerbc.bc.ca
 www.billionaire.vertx.ma
 www.billys.vimirlab.com
 www.booking.vojaingg.org
@@ -1595,7 +1620,9 @@ www.prueba.visionservice.com.pe
 www.reginastanley.viding.co
 www.safe-dent.vyapparindia.com
 www.selectomatic.net.vpnpool.net
+www.sentralparcel.dev.002.veccani.com
 www.service.vicbest.ro
+www.souvlaki.vpn.gr
 www.staging.ukitservice.veryfasthosting.co.uk
 www.storage.vsteam.edu.vn
 www.subirgoogle.vostperudigital.com
@@ -1628,6 +1655,7 @@ www.vcolemanmusic.com
 www.vd-service.online
 www.vecchio-services.com
 www.veinpros.md
+www.velatcentroplaza.velatyapi.com
 www.vendormanufacture.com
 www.venise-services.fr
 www.ventanamicro.com
@@ -1649,6 +1677,7 @@ www.verywellmind.com
 www.veteranmobilenotaryservice.com
 www.viagogo.com
 www.vice-espresso.co.nz
+www.vicortechcr.com
 www.victory-counseling-services.com
 www.vidamaisbox.com
 www.videogamesblockchain.com
@@ -1656,11 +1685,13 @@ www.videogamesjet.com
 www.viewpointsfromfacebook.com
 www.vii.com.au
 www.villageofpound.com
+www.vincentpricelegacy.uk
 www.vinilkosmo-mp3.com
 www.virginmoney-uk.com
 www.virtualtrekcon.com
 www.viseratech.com
 www.visible.com
+www.visitasahara.es
 www.visitnewhavenmo.com
 www.vivid-accounting.com
 www.vki-service.de
@@ -1683,6 +1714,7 @@ www.voyagesbrosso.com
 www.vpn-tunnel.nu
 www.vpn.vpnstunnel.cf
 www.vpn234.com
+www.vpna2z.de
 www.vpnveil.com
 www.vpnworld.cn
 www.vr.com.br
