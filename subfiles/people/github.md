@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Applying mods without 'linuxserver' prefix results with 'tar' error](https://github.com/linuxserver/docker-mods/issues/585)
 - [Danbooru doesn't work](https://github.com/Bionus/imgbrd-grabber/issues/2912)
 - [SSL is broken](https://github.com/hl/elixircookbook/issues/1)
 - [Random range selection](https://github.com/MortezaBashsiz/CFScanner/issues/80)
