@@ -5611,6 +5611,7 @@ Here's a list of public Fediverse services.
 | `chrisbol.nl` | No |
 | `chrisbues.com` | No |
 | `chrisburnell.com` | Yes |
+| `chrischro.me` | No |
 | `chrisco.me` | No |
 | `chrisduffley.com` | No |
 | `chrisedwards.tech` | No |
@@ -8780,7 +8781,7 @@ Here's a list of public Fediverse services.
 | `drivingshift.com` | Yes |
 | `drizzle-damp.net` | No |
 | `drk.network` | No |
-| `drl.me` | No |
+| `drl.me` | Yes |
 | `drmandrewtoad.com` | No |
 | `drn1.com` | No |
 | `drnk.ca` | Yes |
@@ -10399,7 +10400,7 @@ Here's a list of public Fediverse services.
 | `favdon.com` | No |
 | `favela.world` | No |
 | `favrep.ch` | No |
-| `fawcett.social` | No |
+| `fawcett.social` | Yes |
 | `fawi.site` | No |
 | `fawks.ie` | Yes |
 | `fawx.news` | Yes |
@@ -15600,6 +15601,7 @@ Here's a list of public Fediverse services.
 | `isoba.rs` | No |
 | `isoc.no` | No |
 | `isoladellerose.social` | No |
+| `isolated.actor` | Yes |
 | `isoliertaber.online` | No |
 | `isometry.black` | No |
 | `isometry.group` | No |
@@ -25941,7 +25943,7 @@ Here's a list of public Fediverse services.
 | `peertube.ltd` | No |
 | `peertube.me` | No |
 | `peertube.moe` | No |
-| `peertube.network` | No |
+| `peertube.network` | Yes |
 | `peertube.nz` | No |
 | `peertube.pl` | No |
 | `peertube.red` | Yes |
@@ -34543,6 +34545,7 @@ Here's a list of public Fediverse services.
 | `tootteros.me` | No |
 | `tootti.fi` | Yes |
 | `toottoot.de` | No |
+| `toottoot.eu` | No |
 | `toottoot.nl` | Yes |
 | `tootux.tk` | No |
 | `tootville.com` | No |
@@ -38703,8 +38706,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,331 |
-| Normal | 29,329 |
+| Cloudflare | 9,335 |
+| Normal | 29,328 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
