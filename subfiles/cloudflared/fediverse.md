@@ -7128,6 +7128,7 @@ Here's a list of public Fediverse services.
 | `cytag.nl` | No |
 | `cythin.aero` | No |
 | `cytrax.net` | Yes |
+| `cyuucat.moe` | Yes |
 | `cyvr.org` | Yes |
 | `cywa.ch` | No |
 | `cyzed.com` | No |
@@ -38711,7 +38712,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,336 |
+| Cloudflare | 9,337 |
 | Normal | 29,332 |
 
 
