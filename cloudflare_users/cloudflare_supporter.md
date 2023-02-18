@@ -4532,6 +4532,7 @@ Do not create new issue or we will close it as duplicate.
 | [izat_haqimi@twitter](https://twitter.com/izat_haqimi/status/1586260010694496257) | advertise |
 | [izaznordin@twitter](https://twitter.com/izaznordin/status/1531691892940738560) | advertise |
 | [izggbet@twitter](https://twitter.com/izggbet/status/1552646027483955200) | advertise |
+| [IzherKhan1@twitter](https://twitter.com/IzherKhan1/status/1627031154892177408) | advertise |
 | [izzanzahinwho@twitter](https://twitter.com/izzanzahinwho/status/1576417610723622912) | advertise |
 | [IZZY08644619@twitter](https://twitter.com/IZZY08644619/status/1391758790807097348) | advertise |
 | [izzymhr@twitter](https://twitter.com/izzymhr/status/1556715063511519233) | advertise |
@@ -8445,6 +8446,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhongNg16713251@twitter](https://twitter.com/PhongNg16713251/status/1381110708708864002) | advertise |
 | [phongng60616682@twitter](https://twitter.com/phongng60616682/status/1532517081169526784) | advertise |
 | [Phongo84768240@twitter](https://twitter.com/Phongo84768240/status/1405929524727005184) | advertise |
+| [PhongPh40212236@twitter](https://twitter.com/PhongPh40212236/status/1627037472243978241) | advertise |
 | [phongsachai@twitter](https://twitter.com/phongsachai/status/1382869842181558273) | advertise |
 | [Phongsiri_17@twitter](https://twitter.com/Phongsiri_17/status/1490200452851703809) | advertise |
 | [phoone_pyae_@twitter](https://twitter.com/phoone_pyae_/status/1394996486010589187) | advertise |
