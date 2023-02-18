@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,755 |
 | social | 3,719 |
 | net | 2,938 |
-| org | 2,061 |
+| org | 2,062 |
 | de | 1,943 |
 
 
@@ -5064,6 +5064,7 @@ Here's a list of public Fediverse services.
 | `cassee.net` | No |
 | `cassette.click` | No |
 | `cassone.social` | No |
+| `castelodelego.org` | No |
 | `castironguy.ca` | No |
 | `castlebrickbuilding.com` | No |
 | `castlecannon.house` | No |
@@ -9408,7 +9409,7 @@ Here's a list of public Fediverse services.
 | `elephant.bike` | Yes |
 | `elephantelephantelephant.com` | Yes |
 | `elephantfossil.com` | Yes |
-| `elephantgod.club` | Yes |
+| `elephantgod.club` | No |
 | `elephantus.moe` | Yes |
 | `elephas.cloud` | No |
 | `elephnt.party` | No |
@@ -12867,7 +12868,7 @@ Here's a list of public Fediverse services.
 | `goisgod.com` | Yes |
 | `goji84.xyz` | No |
 | `goku.zone` | No |
-| `golangengine.de` | No |
+| `golangengine.de` | Yes |
 | `goldandblack.club` | No |
 | `goldandblack.xyz` | No |
 | `goldborneroad.dev` | No |
@@ -38697,7 +38698,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,330 |
-| Normal | 29,323 |
+| Normal | 29,324 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
