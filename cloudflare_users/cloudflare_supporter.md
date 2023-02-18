@@ -9968,6 +9968,7 @@ Do not create new issue or we will close it as duplicate.
 | [spychalski_luk@twitter](https://twitter.com/spychalski_luk/status/1575255362193825793) | advertise |
 | [spzooky@twitter](https://twitter.com/spzooky/status/1556649865710473216) | advertise |
 | [SQUIDMANGA@twitter](https://twitter.com/SQUIDMANGA/status/1550594180799422468) | advertise |
+| [srcxngcd@twitter](https://twitter.com/srcxngcd/status/1614642551042052100) | advertise |
 | [Srealisreal@twitter](https://twitter.com/Srealisreal/status/1624264304915791872) | advertise |
 | [Sreejit13700215@twitter](https://twitter.com/Sreejit13700215/status/1388191035029823488) | advertise |
 | [sriyogeshkumar1@twitter](https://twitter.com/sriyogeshkumar1/status/1478380858981638146) | advertise |
