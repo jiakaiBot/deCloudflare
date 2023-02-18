@@ -12241,6 +12241,7 @@ Here's a list of public Fediverse services.
 | `gaymedmastadon.social` | No |
 | `gaymer.social` | Yes |
 | `gaymers.me` | No |
+| `gaymers.space` | No |
 | `gaypxrn.de` | No |
 | `gayrobot.club` | No |
 | `gayweeb.vip` | No |
@@ -38708,7 +38709,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,335 |
-| Normal | 29,329 |
+| Normal | 29,330 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
