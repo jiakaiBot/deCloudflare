@@ -424,6 +424,7 @@ Here's a list of public Fediverse services.
 | `465789.xyz` | No |
 | `481516.xyz` | Yes |
 | `48645.tk` | No |
+| `4869.homes` | Yes |
 | `48bin.net` | No |
 | `49six.club` | Yes |
 | `4ac.me` | No |
@@ -4539,6 +4540,7 @@ Here's a list of public Fediverse services.
 | `brunty.social` | Yes |
 | `brusilia.eu` | No |
 | `brutsellog.nl` | No |
+| `bry.bar` | No |
 | `bryanmacmurray.com` | No |
 | `bryla.tk` | Yes |
 | `brz9.dev` | No |
@@ -38775,8 +38777,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,360 |
-| Normal | 29,372 |
+| Cloudflare | 9,361 |
+| Normal | 29,373 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
