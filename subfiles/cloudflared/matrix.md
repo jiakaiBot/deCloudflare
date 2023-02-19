@@ -64,6 +64,7 @@ Here's a list of public Matrix services.
 | matrix.freiburg.social | No |
 | freitrix.de | No |
 | matrix.fsfe.org | No |
+| matrix.fulda.social | No |
 | g24.at | No |
 | matrix.gemeinsam.jetzt | No |
 | ggc-project.de | Yes |
@@ -103,7 +104,6 @@ Here's a list of public Matrix services.
 | matrix.plus.st | No |
 | pragma-messenger.ch | No |
 | www.privacytools.io | Yes |
-| matrix.pub.solar | No |
 | radiowarnerd.org | No |
 | matrix.rimfaxe.net | No |
 | riotchat.de | Yes |
