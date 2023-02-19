@@ -8604,6 +8604,7 @@ Do not create new issue or we will close it as duplicate.
 | [pongtiwat_blue@twitter](https://twitter.com/pongtiwat_blue/status/1399366953886752771) | advertise |
 | [PONKUNGS2@twitter](https://twitter.com/PONKUNGS2/status/1608478951802044416) | advertise |
 | [pontakorn322@twitter](https://twitter.com/pontakorn322/status/1559225662363144193) | advertise |
+| [pony66204919@twitter](https://twitter.com/pony66204919/status/1627213726658232320) | advertise |
 | [Poofu1@twitter](https://twitter.com/Poofu1/status/1552379860022358016) | advertise |
 | [Pooh77732056@twitter](https://twitter.com/Pooh77732056/status/1378258475097055234) | advertise |
 | [Pookie5552@twitter](https://twitter.com/Pookie5552/status/1396760560037863424) | advertise |
