@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,761 |
+| com | 5,762 |
 | social | 3,727 |
 | net | 2,942 |
 | org | 2,070 |
@@ -17489,6 +17489,7 @@ Here's a list of public Fediverse services.
 | `koalahub.io` | No |
 | `kob-net.de` | No |
 | `kobalt.dev` | No |
+| `kobokskobok.com` | No |
 | `kobold.space` | No |
 | `kobolds.space` | No |
 | `kobschaetzki.net` | No |
@@ -35336,6 +35337,7 @@ Here's a list of public Fediverse services.
 | `tzwolak.com` | Yes |
 | `tzyl.eu` | No |
 | `tzyl.nl` | No |
+| `u-ryukyu.ac.jp` | No |
 | `u-srv.net` | No |
 | `u-tokyo.social` | No |
 | `u-v.de` | No |
@@ -38758,7 +38760,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,350 |
-| Normal | 29,364 |
+| Normal | 29,366 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
