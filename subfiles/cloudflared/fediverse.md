@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,766 |
+| com | 5,767 |
 | social | 3,727 |
 | net | 2,944 |
-| org | 2,072 |
+| org | 2,073 |
 | de | 1,947 |
 
 
@@ -33643,6 +33643,7 @@ Here's a list of public Fediverse services.
 | `theedgeofrage.com` | Yes |
 | `theepicblock.nl` | No |
 | `theepistle.net` | No |
+| `theeum.org` | No |
 | `thefamily.rocks` | No |
 | `thefamilycloud.org` | No |
 | `thefederation.net` | No |
@@ -34171,6 +34172,7 @@ Here's a list of public Fediverse services.
 | `timotheejulien.fr` | No |
 | `timothychambers.net` | No |
 | `timowens.io` | No |
+| `timprobst.com` | No |
 | `timsherratt.org` | No |
 | `timshomepage.net` | No |
 | `timtin.digital` | No |
@@ -38774,7 +38776,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,360 |
-| Normal | 29,370 |
+| Normal | 29,372 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
