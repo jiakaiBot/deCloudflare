@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,761 |
 | social | 3,727 |
-| net | 2,940 |
+| net | 2,941 |
 | org | 2,070 |
 | de | 1,946 |
 
@@ -11257,6 +11257,7 @@ Here's a list of public Fediverse services.
 | `fork.sh` | No |
 | `forkd.net` | No |
 | `forked.io` | Yes |
+| `forkexec.net` | No |
 | `forklift-certified.fyi` | No |
 | `forlorn.computer` | No |
 | `formansbasement.club` | Yes |
@@ -16787,6 +16788,7 @@ Here's a list of public Fediverse services.
 | `kamens.us` | Yes |
 | `kamikaze.moe` | No |
 | `kamima.site` | No |
+| `kamisato.xyz` | Yes |
 | `kamiyacho.net` | No |
 | `kammeyer.xyz` | No |
 | `kamp.site` | No |
@@ -21714,6 +21716,7 @@ Here's a list of public Fediverse services.
 | `misskey.social` | No |
 | `misskey.space` | Yes |
 | `misskey.studio` | Yes |
+| `misskey.systems` | No |
 | `misskey.tech` | Yes |
 | `misskey.to` | No |
 | `misskey.uk` | Yes |
@@ -38753,8 +38756,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,348 |
-| Normal | 29,362 |
+| Cloudflare | 9,349 |
+| Normal | 29,364 |
 
 
 ### 24.1% of public Fediverse services are using Cloudflare.
