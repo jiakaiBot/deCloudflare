@@ -224,7 +224,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | gbrossi.com.br | No |
 | gclouddns.com | Yes |
 | geili.me | Yes |
-| ggdns.club | No |
 | ggrbb.xyz | No |
 | ghost.pm | No |
 | ginovs.nl | No |
@@ -454,7 +453,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | silen.org | Yes |
 | silentlybren.com | Yes |
 | sillundil.ovh | No |
-| simulhost.com | Yes |
 | siry.de | No |
 | sitdns.com | No |
 | skrep.eu | No |
@@ -463,7 +461,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sntrk.ru | Yes |
 | softcom.net | No |
 | southam.family | No |
-| spacedns.org | No |
 | spectrum.com | Yes |
 | spil.co.id | Yes |
 | ssrahul96.xyz | Yes |
@@ -542,8 +539,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 230 |
-| Normal | 293 |
+| Cloudflare | 229 |
+| Normal | 291 |
 
 
 ### 44% of DNS-over-HTTPS (DoH) are using Cloudflare.
