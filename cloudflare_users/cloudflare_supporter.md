@@ -11460,6 +11460,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vizzky1@twitter](https://twitter.com/Vizzky1/status/1384922814038302720) | advertise |
 | [Vjmohan39051357@twitter](https://twitter.com/Vjmohan39051357/status/1398332820154556416) | advertise |
 | [Vjncentzx@twitter](https://twitter.com/Vjncentzx/status/1583513032772096001) | advertise |
+| [vjrana99@twitter](https://twitter.com/vjrana99/status/1627225669557166080) | advertise |
 | [VKBHURIYAOFFIC3@twitter](https://twitter.com/VKBHURIYAOFFIC3/status/1592837849074008064) | advertise |
 | [VKhawm@twitter](https://twitter.com/VKhawm/status/1380887571274686475) | advertise |
 | [VMinhd89477656@twitter](https://twitter.com/VMinhd89477656/status/1552697713204301825) | advertise |
