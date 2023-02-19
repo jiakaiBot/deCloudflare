@@ -105,7 +105,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | carson-family.com | Yes |
 | cbio.top | Yes |
 | cearhome.top | Yes |
-| cepheus0.com | Yes |
 | cgnat.net | No |
 | chaos-system.de | No |
 | chavy.dev | No |
@@ -301,7 +300,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ketan.dev | Yes |
 | keweon.center | No |
 | killtw.im | Yes |
-| kngnet.de | No |
 | korks.tk | Yes |
 | korzhov.dev | No |
 | kpsn.org | Yes |
@@ -539,8 +537,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 229 |
-| Normal | 291 |
+| Cloudflare | 228 |
+| Normal | 290 |
 
 
 ### 44% of DNS-over-HTTPS (DoH) are using Cloudflare.
