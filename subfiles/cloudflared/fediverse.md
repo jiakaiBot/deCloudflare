@@ -3511,6 +3511,7 @@ Here's a list of public Fediverse services.
 | `bgzashtita.espisma` | No |
 | `bhamtech.net` | Yes |
 | `bhh.sh` | No |
+| `bhop.zone` | Yes |
 | `bhre.social` | No |
 | `bhscs2.club` | No |
 | `bhsnw.com` | Yes |
@@ -26314,7 +26315,7 @@ Here's a list of public Fediverse services.
 | `pid1.sh` | Yes |
 | `pidibi.com` | No |
 | `pie.gd` | Yes |
-| `piecemaker.rocks` | No |
+| `piecemaker.rocks` | Yes |
 | `piecewise.im` | No |
 | `piedmontnons.top` | No |
 | `piejacker.net` | No |
@@ -38761,8 +38762,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,352 |
-| Normal | 29,366 |
+| Cloudflare | 9,354 |
+| Normal | 29,365 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
