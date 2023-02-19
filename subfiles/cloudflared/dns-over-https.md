@@ -120,7 +120,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | clearviewtechnology.net | No |
 | cloud-sekeng.com | No |
 | cloudflare-dns.com | Yes |
-| cloudmini.net | Yes |
 | cloudnx.cloud | Yes |
 | cloudseriousshit.com | Yes |
 | cnblw.me | Yes |
@@ -171,7 +170,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dnsforge.de | No |
 | dnshome.de | No |
 | dnslow.me | No |
-| dnsuser.info | No |
 | doh.beauty | No |
 | doh.buzz | No |
 | doh.lv | No |
@@ -192,7 +190,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | edgy-dns.com | No |
 | edison42.dev | No |
 | ef67daisuki.club | No |
-| ekipapi.com | Yes |
 | elbschloss.xyz | Yes |
 | elemental.software | Yes |
 | ellichua.com | No |
@@ -285,7 +282,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jeroenhd.nl | No |
 | jfchenier.ca | Yes |
 | jiripocta.cz | No |
-| jjm.asia | Yes |
 | jnorton.us | No |
 | joaofidelix.com.br | Yes |
 | josephyap.me | Yes |
@@ -332,7 +328,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lspcr.space | Yes |
 | luan.contact | Yes |
 | lujiacai.top | No |
-| lunet.design | Yes |
 | lz0724.com | No |
 | mailchan.eu | Yes |
 | malwarelul.download | Yes |
@@ -343,7 +338,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | meddy94.de | No |
 | meeo.win | Yes |
 | meganerd.nl | No |
-| meidouling.com | No |
 | meshkov.info | Yes |
 | mgiptvpro.ml | No |
 | mhn.de | No |
@@ -530,7 +524,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | whax.eu.org | No |
 | wirimij.nl | No |
 | woozeno.eu | No |
-| wyx.cloud | No |
 | x88.in | Yes |
 | xcom.pro | No |
 | xenergy.cc | Yes |
@@ -549,8 +542,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 234 |
-| Normal | 296 |
+| Cloudflare | 230 |
+| Normal | 293 |
 
 
-### 44.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44% of DNS-over-HTTPS (DoH) are using Cloudflare.
