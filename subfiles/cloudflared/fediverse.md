@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,763 |
+| com | 5,766 |
 | social | 3,727 |
-| net | 2,942 |
-| org | 2,070 |
-| de | 1,946 |
+| net | 2,944 |
+| org | 2,072 |
+| de | 1,947 |
 
 
 - Mastodon, Pleroma, etc
@@ -3074,6 +3074,7 @@ Here's a list of public Fediverse services.
 | `barnard.world` | No |
 | `barnettjones.com` | No |
 | `baronvonclack.com` | No |
+| `baroukh.com` | No |
 | `barr0w.net` | No |
 | `barra.bar` | No |
 | `barrett.dog` | No |
@@ -5401,6 +5402,7 @@ Here's a list of public Fediverse services.
 | `chasem.dev` | No |
 | `chasingdings.com` | No |
 | `chasingrabbbits.xyz` | No |
+| `chasmcity.net` | No |
 | `chasoba.net` | Yes |
 | `chaster.app` | Yes |
 | `chat-laden.net` | No |
@@ -7086,6 +7088,7 @@ Here's a list of public Fediverse services.
 | `cyberwald.com` | No |
 | `cyberwitches.club` | No |
 | `cyberwiz.xyz` | No |
+| `cyberyoga.org` | No |
 | `cybik.moe` | Yes |
 | `cybikbase.com` | Yes |
 | `cybnox.de` | No |
@@ -8810,6 +8813,7 @@ Here's a list of public Fediverse services.
 | `drop.moe` | Yes |
 | `dropbear.club` | No |
 | `dropbear.xyz` | Yes |
+| `dropmann.org` | Yes |
 | `dropshare.social` | No |
 | `drosophila.social` | No |
 | `drostan.org` | Yes |
@@ -19182,6 +19186,7 @@ Here's a list of public Fediverse services.
 | `lopezjuan.com` | No |
 | `lopeztel.xyz` | No |
 | `lopp.social` | No |
+| `loppermann.de` | No |
 | `lopresto.dev` | Yes |
 | `loquacious-pachyderm.social` | Yes |
 | `loquacious.social` | Yes |
@@ -19928,6 +19933,7 @@ Here's a list of public Fediverse services.
 | `mantlepro.com` | No |
 | `manton.org` | No |
 | `mantyke.icu` | Yes |
+| `manu.systems` | Yes |
 | `manualdousuario.net` | Yes |
 | `manuelcortez.net` | Yes |
 | `manulanglois.fr` | No |
@@ -20217,6 +20223,7 @@ Here's a list of public Fediverse services.
 | `masto.lol` | No |
 | `masto.me.uk` | No |
 | `masto.media` | No |
+| `masto.melbourne` | Yes |
 | `masto.miami` | No |
 | `masto.ml` | No |
 | `masto.ninja` | No |
@@ -33495,6 +33502,7 @@ Here's a list of public Fediverse services.
 | `the-destro.com` | No |
 | `the-door.uk` | No |
 | `the-evil.net` | No |
+| `the-expanse.net` | Yes |
 | `the-gathering.space` | No |
 | `the-goblin.net` | Yes |
 | `the-idw.com` | No |
@@ -34181,6 +34189,7 @@ Here's a list of public Fediverse services.
 | `tinkeringwithalien.tech` | No |
 | `tinko.club` | No |
 | `tinnies.club` | Yes |
+| `tinokaltsas.com` | No |
 | `tiny.gripe` | No |
 | `tinycart.club` | No |
 | `tinycities.net` | No |
@@ -34688,6 +34697,7 @@ Here's a list of public Fediverse services.
 | `tposocial.nl` | No |
 | `tpshd.de` | No |
 | `tpz.de` | No |
+| `tr-security.com` | Yes |
 | `tr00st.co.uk` | Yes |
 | `tr0llhoehle.de` | No |
 | `tr4ck.net` | No |
@@ -35478,6 +35488,7 @@ Here's a list of public Fediverse services.
 | `umbrella.cafe` | Yes |
 | `umbrellacorporation.work` | No |
 | `umbrellix.org` | No |
+| `umbreon.cloud` | Yes |
 | `umbreon.online` | No |
 | `umbriel.fr` | No |
 | `umeahackerspace.se` | No |
@@ -38762,8 +38773,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,354 |
-| Normal | 29,365 |
+| Cloudflare | 9,360 |
+| Normal | 29,370 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
