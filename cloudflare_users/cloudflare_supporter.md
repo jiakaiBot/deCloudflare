@@ -10017,6 +10017,7 @@ Do not create new issue or we will close it as duplicate.
 | [StevenYagel1@twitter](https://twitter.com/StevenYagel1/status/1561718347590680576) | advertise |
 | [steven_rusty@twitter](https://twitter.com/steven_rusty/status/1476304266746810376) | advertise |
 | [STEVESYH@twitter](https://twitter.com/STEVESYH/status/1573325435899084802) | advertise |
+| [Steve_wheezy@twitter](https://twitter.com/Steve_wheezy/status/1627096246098751488) | advertise |
 | [sthabiso_iv@twitter](https://twitter.com/sthabiso_iv/status/1596898514885287941) | advertise |
 | [STharaan@twitter](https://twitter.com/STharaan/status/1563651594914148352) | advertise |
 | [SthiKvs@twitter](https://twitter.com/SthiKvs/status/1552687724498341889) | advertise |
