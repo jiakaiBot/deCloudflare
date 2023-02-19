@@ -803,6 +803,7 @@ amazon-fdgh.justdied.com
 amazon-hbnmhjhgjhgn.jkub.com
 amazon-vbvnh.justdied.com
 api-vo.jitsi.net
+autodiscover.jaimeoneilldentistry.com
 bloxnord.jlaasonen.fi
 bogensemurer.jfm360kunder.dk
 caas.jaisonghisi.it
@@ -818,6 +819,7 @@ discodyes.jillybilly.com
 discourse.jarbelix.tk
 discourse.jhome.page
 elearn.jscc.edu
+en.jorvisartbooking.com
 epcmg.josephbranthospital.ca
 etc-dfkfere.justdied.com
 ether-x5.jvapi.net
@@ -828,6 +830,7 @@ gg.joe.dj
 github.jeidsan.com.br
 gitlab.new.blog.blog.store.redmine.junghanns.it
 google.justflourish.co.uk
+guiafacebook.jsantos.pro
 helpdesk.jatfw.com
 hermes.jumpstart.hu
 hrbc.jobs-dimples.net
@@ -836,6 +839,7 @@ jaffabooking.com
 jahorina-booking.com
 jameschase.ca
 jameslabadynotary.com
+jamestradinggroup.com
 jamini.site
 jamsafety.com.au
 jamztudioz.com
@@ -853,6 +857,7 @@ jesscaporusso.com
 jeszczenie.pl
 jet1security.com
 jettonsquid.com
+jeutopye.com
 jeuxdargent-enligne.com
 jewamongyou.com
 jewelrysmutual.com
@@ -869,10 +874,10 @@ jmb-servicestransport.com
 jmvandervelden.nl
 jne.go.kr
 jobrx.com
+jobwalegoogle.com
 jobzzbank.com
 johnnyhallyday.com
 joinamfam.com
-joinlyonnatomas.com
 joinrock.ae
 jolatili.fi
 jolsterbooking.no
@@ -915,6 +920,7 @@ nfcprod.jiophone.net
 nitrotienda.com.jergalicia.com
 nl.preprod.japanspecialist.com
 nullnullnullnullnullnullnullwp.outlook.jenbrial.com
+nullnullnullnullnullnullwp.outlook.jenbrial.com
 nullnullordpress.outlook.jenbrial.com
 office365-office365.aws-us-east-1-prod.svc.jivehosted.com
 origin-tst2-tuxedo.gcp.josbank.com
@@ -952,6 +958,7 @@ webmail.jempolgroup.id
 webmail.jingersstainedglass.com
 wiki.j2interactive.com
 www.academi-bpm.com.mx.julioverne42.com
+www.booking.jigsawpuzzleworld.com.sg
 www.cashmoney.jadidana.site
 www.clientarea.hybridservers.org.jteksolutionsusa.com
 www.comsupport-sub.jtbnn.com
@@ -960,9 +967,11 @@ www.creativebay.juliusiskandar.com
 www.facebook.james-harvest.ro
 www.gear.jeep.com
 www.gitlab.git.gitlab.git.git.gitlab.5cdjmag2a2dc4ap.joyta.ru
+www.guiafacebook.jsantos.pro
 www.havenholdinggroup.johnnysspace.com
 www.homeawayfarmbahamas.jbgraphicandwebdesigns.com
 www.invoice.jvvprojects.co.za
+www.j1fm.tokyo
 www.jac-trackandfield.com
 www.jacfcu.org
 www.jahorina-booking.com
@@ -973,6 +982,7 @@ www.jandacleaningservice.com
 www.jandlconsultinggroup.com
 www.jannekegodschalk.nl
 www.jardinesdetudela.com
+www.jarnvag.net
 www.jasaairmancur.com
 www.jattjardinero.es
 www.jaz-services.fr
@@ -982,6 +992,7 @@ www.jdsports-standards.com
 www.jeannieservices.ca
 www.jemco-controls.jemco-inc.com
 www.jennivallenius.net
+www.jerichohistoricalsociety.org
 www.jeroensespresso.nl
 www.jerseyshoreonline.com
 www.jesscaporusso.com
@@ -1004,6 +1015,7 @@ www.joltinjosespresso.com
 www.jonesdigitalmarketinggroup.com
 www.jonstasevich2024.com
 www.jorvisartbooking.com
+www.josvanriswick.com
 www.joudapost.com
 www.joyaitaliano.com
 www.joyatparty.com.my
@@ -1026,6 +1038,7 @@ www.standard-za.jubam.com.br
 www.steamstats.jaydips.website
 www.tesco.josephpolytechnic.com
 www.user.jajananorangbanyak.com
+www.vpn1.joajandek.hu
 www.wipedycleaningservice.com.juliolaraprado.com
 zaptiyemsbeta.jandarma.gov.tr
 absolute-client-ul-login-rls-vander.jtc.ooo
