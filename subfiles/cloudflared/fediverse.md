@@ -14940,6 +14940,7 @@ Here's a list of public Fediverse services.
 | `ifvg.info` | No |
 | `ifwo.eu` | No |
 | `igda.social` | No |
+| `igelko.space` | No |
 | `igloo.cloud` | No |
 | `ignazbearth.ch` | No |
 | `ignifi.games` | No |
@@ -38760,7 +38761,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,350 |
-| Normal | 29,366 |
+| Normal | 29,367 |
 
 
-### 24.2% of public Fediverse services are using Cloudflare.
+### 24.1% of public Fediverse services are using Cloudflare.
