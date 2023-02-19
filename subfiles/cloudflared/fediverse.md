@@ -11372,7 +11372,7 @@ Here's a list of public Fediverse services.
 | `fpv.social` | No |
 | `fpvogel.com` | Yes |
 | `fqserv.eu` | No |
-| `fr.cr` | Yes |
+| `fr.cr` | No |
 | `fr.nf` | No |
 | `fr.to` | Yes |
 | `fr13nd5.com` | No |
@@ -16890,6 +16890,7 @@ Here's a list of public Fediverse services.
 | `kartoffelwolke.de` | No |
 | `kartonrad.de` | Yes |
 | `karukera.social` | No |
+| `kas.sh` | Yes |
 | `kashayokai.com` | Yes |
 | `kashishokunin.com` | No |
 | `kashiwadon.net` | No |
@@ -37340,7 +37341,7 @@ Here's a list of public Fediverse services.
 | `wolfgirl.bar` | No |
 | `wolfgirl.engineering` | No |
 | `wolfhaus.me` | Yes |
-| `wolfhowl.me` | No |
+| `wolfhowl.me` | Yes |
 | `wolfie.pw` | No |
 | `wolflab.net` | Yes |
 | `wolfpaw.kr` | No |
@@ -38777,7 +38778,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,361 |
+| Cloudflare | 9,362 |
 | Normal | 29,373 |
 
 
