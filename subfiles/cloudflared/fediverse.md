@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,761 |
 | social | 3,727 |
-| net | 2,941 |
+| net | 2,942 |
 | org | 2,070 |
 | de | 1,946 |
 
@@ -27019,6 +27019,7 @@ Here's a list of public Fediverse services.
 | `potatofrom.space` | No |
 | `potatoxel.org` | No |
 | `potchan.org` | Yes |
+| `potionlab.net` | Yes |
 | `potkukelkka.bond` | No |
 | `potla.ch` | Yes |
 | `poto.cafe` | No |
@@ -38756,8 +38757,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,349 |
+| Cloudflare | 9,350 |
 | Normal | 29,364 |
 
 
-### 24.1% of public Fediverse services are using Cloudflare.
+### 24.2% of public Fediverse services are using Cloudflare.
