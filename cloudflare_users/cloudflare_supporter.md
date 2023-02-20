@@ -10007,6 +10007,7 @@ Do not create new issue or we will close it as duplicate.
 | [ssbs36576411@twitter](https://twitter.com/ssbs36576411/status/1399095335973265418) | advertise |
 | [ssf5tx5ktv@twitter](https://twitter.com/ssf5tx5ktv/status/1536649892520955905) | advertise |
 | [SshuvoFF1@twitter](https://twitter.com/SshuvoFF1/status/1502123888020393985) | advertise |
+| [SsssTwinkie@twitter](https://twitter.com/SsssTwinkie/status/1627730651670794240) | advertise |
 | [SSuiteSoftware@twitter](https://twitter.com/SSuiteSoftware/status/1372875712240230400) | advertise |
 | [Ssupunsathsara@twitter](https://twitter.com/Ssupunsathsara/status/1545152719266410496) | advertise |
 | [STA54946378@twitter](https://twitter.com/STA54946378/status/1394890464516399107) | advertise |
@@ -10881,6 +10882,7 @@ Do not create new issue or we will close it as duplicate.
 | [Toan57454997@twitter](https://twitter.com/Toan57454997/status/1480182943813226498) | advertise |
 | [Toan82395945@twitter](https://twitter.com/Toan82395945/status/1553753597745082368) | advertise |
 | [ToanBBC@twitter](https://twitter.com/ToanBBC/status/1397107077282078722) | advertise |
+| [Toanng01@twitter](https://twitter.com/Toanng01/status/1627729233035538432) | advertise |
 | [toantoa12376650@twitter](https://twitter.com/toantoa12376650/status/1599204951565422593) | advertise |
 | [toanvm1@twitter](https://twitter.com/toanvm1/status/1619245044099350528) | advertise |
 | [tobeyy____@twitter](https://twitter.com/tobeyy____/status/1496596667268698112) | advertise |
