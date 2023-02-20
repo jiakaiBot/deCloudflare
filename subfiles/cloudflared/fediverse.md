@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,767 |
+| com | 5,768 |
 | social | 3,727 |
 | net | 2,944 |
 | org | 2,073 |
@@ -4294,6 +4294,7 @@ Here's a list of public Fediverse services.
 | `bounceme.net` | No |
 | `bound4the.icu` | Yes |
 | `boundary.wtf` | No |
+| `boundcovers.com` | No |
 | `bounz.net` | Yes |
 | `bouquet.blue` | No |
 | `bourbo.net` | No |
@@ -38779,7 +38780,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,362 |
-| Normal | 29,373 |
+| Normal | 29,374 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
