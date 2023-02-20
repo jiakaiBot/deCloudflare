@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,775 |
 | social | 3,731 |
-| net | 2,946 |
+| net | 2,947 |
 | org | 2,074 |
 | de | 1,951 |
 
@@ -25039,6 +25039,7 @@ Here's a list of public Fediverse services.
 | `onthesecond.com` | No |
 | `onthetable.social` | No |
 | `ontological.city` | No |
+| `onurb.net` | No |
 | `onuu.uno` | Yes |
 | `onweb.idv.tw` | No |
 | `onya.social` | Yes |
@@ -25917,6 +25918,7 @@ Here's a list of public Fediverse services.
 | `payfrit.com` | No |
 | `paymentbanking.eu` | No |
 | `paypig.org` | Yes |
+| `payravi.xyz` | No |
 | `pazoles.co` | No |
 | `pbar.xyz` | No |
 | `pbb.lc` | No |
@@ -38818,7 +38820,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,372 |
-| Normal | 29,402 |
+| Normal | 29,404 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
