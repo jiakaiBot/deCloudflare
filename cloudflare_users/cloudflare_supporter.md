@@ -2287,6 +2287,7 @@ Do not create new issue or we will close it as duplicate.
 | [Danish111930617@twitter](https://twitter.com/Danish111930617/status/1560183361636683776) | advertise |
 | [danishfaizal20@twitter](https://twitter.com/danishfaizal20/status/1567192300438302720) | advertise |
 | [DankCheeseMemes@twitter](https://twitter.com/DankCheeseMemes/status/1622991806026727424) | advertise |
+| [dannwaneri@twitter](https://twitter.com/dannwaneri/status/1627759174967873539) | advertise |
 | [DannySiregar4@twitter](https://twitter.com/DannySiregar4/status/1386713728511479810) | advertise |
 | [danny_mx@twitter](https://twitter.com/danny_mx/status/1404509805117648902) | advertise |
 | [DanOno365@twitter](https://twitter.com/DanOno365/status/1371618039108673545) | advertise |
@@ -10176,6 +10177,7 @@ Do not create new issue or we will close it as duplicate.
 | [SwervoThree@twitter](https://twitter.com/SwervoThree/status/1620332195721408512) | advertise |
 | [SweYiPhyo1@twitter](https://twitter.com/SweYiPhyo1/status/1397547716910018560) | advertise |
 | [swe_sone@twitter](https://twitter.com/swe_sone/status/1392755306854293506) | advertise |
+| [swjmj01@twitter](https://twitter.com/swjmj01/status/1627757920288120832) | advertise |
 | [sx_313@twitter](https://twitter.com/sx_313/status/1579576121779433472) | advertise |
 | [Syahputra902@twitter](https://twitter.com/Syahputra902/status/1405110962055643136) | advertise |
 | [syahril_akbar32@twitter](https://twitter.com/syahril_akbar32/status/1468464046445785089) | advertise |
@@ -10545,8 +10547,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
