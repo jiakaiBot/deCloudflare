@@ -214,7 +214,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | fomichev.cloud | Yes |
 | frankslabs.org | No |
 | frece.de | No |
-| freeboxos.fr | No |
 | froth.zone | No |
 | ftp.sh | No |
 | funtopia.tv | Yes |
@@ -450,7 +449,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | shuting.idv.tw | Yes |
 | silen.org | Yes |
 | silentlybren.com | Yes |
-| sillundil.ovh | No |
 | siry.de | No |
 | sitdns.com | No |
 | skrep.eu | No |
@@ -495,7 +493,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | truong.fi | Yes |
 | tu-bs.de | No |
 | twnic.tw | No |
-| twtrs.com | Yes |
 | tylerwahl.com | No |
 | typaza.com | No |
 | unerror.network | Yes |
@@ -517,7 +514,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | warpnine.de | No |
 | wewitro.net | No |
 | whax.eu.org | No |
-| wirimij.nl | No |
 | woozeno.eu | No |
 | x88.in | Yes |
 | xcom.pro | No |
@@ -527,7 +523,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ychen.cf | No |
 | ychen.ga | No |
 | youni.win | Yes |
-| youroute.ru | No |
 | yovbak.com | No |
 | zfsystem.tech | No |
 | zxcvb.pp.ua | Yes |
@@ -537,8 +532,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 228 |
-| Normal | 290 |
+| Cloudflare | 227 |
+| Normal | 286 |
 
 
-### 44% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
