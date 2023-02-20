@@ -2584,6 +2584,7 @@ Do not create new issue or we will close it as duplicate.
 | [Doanman78962511@twitter](https://twitter.com/Doanman78962511/status/1485691320228548608) | advertise |
 | [Doantrung1102@twitter](https://twitter.com/Doantrung1102/status/1585002647056416768) | advertise |
 | [doatmang3000@twitter](https://twitter.com/doatmang3000/status/1404433092757000194) | advertise |
+| [DoctorMcCoy2022@twitter](https://twitter.com/DoctorMcCoy2022/status/1627589537819156483) | advertise |
 | [DoctorVadarWho@twitter](https://twitter.com/DoctorVadarWho/status/1504056932218568704) | advertise |
 | [doggiesflix@twitter](https://twitter.com/doggiesflix/status/1398852820250497030) | advertise |
 | [doggo_cowboy@twitter](https://twitter.com/doggo_cowboy/status/1593107308296695808) | advertise |
