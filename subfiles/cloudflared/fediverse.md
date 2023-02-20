@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,776 |
 | social | 3,731 |
-| net | 2,947 |
+| net | 2,948 |
 | org | 2,074 |
 | de | 1,951 |
 
@@ -9377,6 +9377,7 @@ Here's a list of public Fediverse services.
 | `ekoms.top` | No |
 | `eksb.net` | No |
 | `eksp.at` | Yes |
+| `ekurea.net` | Yes |
 | `ekuro.jp` | No |
 | `el-ktm.com` | No |
 | `el-spot.xyz` | Yes |
@@ -38820,7 +38821,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,373 |
+| Cloudflare | 9,374 |
 | Normal | 29,404 |
 
 
