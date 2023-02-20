@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,776 |
-| social | 3,731 |
+| com | 5,778 |
+| social | 3,733 |
 | net | 2,948 |
-| org | 2,074 |
+| org | 2,076 |
 | de | 1,951 |
 
 
@@ -5769,6 +5769,7 @@ Here's a list of public Fediverse services.
 | `cisti.org` | No |
 | `citizen0.online` | No |
 | `citizen4.eu` | No |
+| `citizengkar.com` | No |
 | `citizenry.social` | No |
 | `citringo.net` | No |
 | `citrouille.ch` | No |
@@ -5784,6 +5785,7 @@ Here's a list of public Fediverse services.
 | `ciurdarea.nu` | No |
 | `civilians.social` | No |
 | `civilitas.io` | Yes |
+| `civiliza.xyz` | No |
 | `civilposter.club` | No |
 | `civiq.social` | Yes |
 | `cizek.chat` | No |
@@ -9364,6 +9366,7 @@ Here's a list of public Fediverse services.
 | `einzbern.one` | No |
 | `eipystyilman.beer` | No |
 | `eiselecloud.de` | Yes |
+| `eisenhower.org` | No |
 | `eizodon.jp` | No |
 | `ejls.fr` | No |
 | `eka.hn` | No |
@@ -10841,6 +10844,7 @@ Here's a list of public Fediverse services.
 | `ff14-mstdn.xyz` | No |
 | `ff15.eu` | No |
 | `ffail-music.de` | No |
+| `ffconf.org` | Yes |
 | `ffee.ooo` | No |
 | `fff-du.de` | No |
 | `fff.gay` | Yes |
@@ -13219,6 +13223,7 @@ Here's a list of public Fediverse services.
 | `grobwiefein.de` | No |
 | `groenaz.de` | No |
 | `groene.nl` | No |
+| `groer.cloud` | No |
 | `groktop.us` | Yes |
 | `gronendahl.de` | No |
 | `groningen.social` | No |
@@ -13328,6 +13333,7 @@ Here's a list of public Fediverse services.
 | `guh.lol` | No |
 | `gui.do` | No |
 | `guia.nom.br` | Yes |
+| `guictx.com` | No |
 | `guiling.me` | No |
 | `guimik.fr` | No |
 | `guin.ovh` | No |
@@ -14699,6 +14705,7 @@ Here's a list of public Fediverse services.
 | `hustlersquad.net` | Yes |
 | `hutaffe.blog` | No |
 | `hutch.chat` | Yes |
+| `hutchie.scot` | Yes |
 | `hutin-moise.com` | No |
 | `hutspod.nl` | No |
 | `hutt.social` | No |
@@ -14898,6 +14905,7 @@ Here's a list of public Fediverse services.
 | `icosaverse.social` | No |
 | `icreate.social` | Yes |
 | `icu.social` | No |
+| `iculture.social` | Yes |
 | `icum.to` | No |
 | `icynet.eu` | No |
 | `icyphox.sh` | No |
@@ -35103,6 +35111,7 @@ Here's a list of public Fediverse services.
 | `tu-berlin.de` | No |
 | `tu-bs.de` | No |
 | `tu-dresden.de` | No |
+| `tu.social` | No |
 | `tubage.social` | No |
 | `tubbycats.club` | No |
 | `tube-nachrichten.com` | No |
@@ -38029,6 +38038,7 @@ Here's a list of public Fediverse services.
 | `yakiniku.cloud` | No |
 | `yakitamago.info` | No |
 | `yakka.art` | Yes |
+| `yakker.app` | No |
 | `yakshed.org` | Yes |
 | `yakult.style` | No |
 | `yakumo.foundation` | Yes |
@@ -38821,8 +38831,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,374 |
-| Normal | 29,404 |
+| Cloudflare | 9,377 |
+| Normal | 29,411 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
