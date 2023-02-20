@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Broken Link Detected](https://github.com/pingcap/docs/issues/12573)
 - [CSRF Errors in admin console after install using helm chart](https://github.com/goauthentik/authentik/issues/4719)
 - [Applying mods without 'linuxserver' prefix results with 'tar' error](https://github.com/linuxserver/docker-mods/issues/585)
 - [Danbooru doesn't work](https://github.com/Bionus/imgbrd-grabber/issues/2912)
