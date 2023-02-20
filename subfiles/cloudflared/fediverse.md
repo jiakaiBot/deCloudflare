@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,773 |
-| social | 3,730 |
+| com | 5,775 |
+| social | 3,731 |
 | net | 2,946 |
-| org | 2,073 |
-| de | 1,950 |
+| org | 2,074 |
+| de | 1,951 |
 
 
 - Mastodon, Pleroma, etc
@@ -701,6 +701,7 @@ Here's a list of public Fediverse services.
 | `ab2m.cf` | Yes |
 | `abacusswitch.me` | No |
 | `abaft.co` | No |
+| `abakas.com` | No |
 | `abandonedsocialnetwork.com` | No |
 | `abaweb.online` | No |
 | `abaweb.social` | No |
@@ -2162,6 +2163,7 @@ Here's a list of public Fediverse services.
 | `ari-zone.com` | Yes |
 | `aria.company` | No |
 | `aria.dog` | No |
+| `aria.rip` | No |
 | `ariacorbett.com` | Yes |
 | `ariadne.space` | No |
 | `arianelazaga.tk` | No |
@@ -3367,6 +3369,7 @@ Here's a list of public Fediverse services.
 | `benis8bits.stream` | No |
 | `benitox1.tk` | No |
 | `benjamin-westland.de` | No |
+| `benjamin.social` | No |
 | `benjaminhollon.com` | Yes |
 | `benjaminmayo.co.uk` | Yes |
 | `benjaminturner.me` | Yes |
@@ -16257,6 +16260,7 @@ Here's a list of public Fediverse services.
 | `jlg.id.au` | No |
 | `jlg.link` | Yes |
 | `jlm.name` | No |
+| `jln.io` | No |
 | `jltml.me` | Yes |
 | `jludwig.net` | No |
 | `jluo.io` | Yes |
@@ -16349,6 +16353,7 @@ Here's a list of public Fediverse services.
 | `joinfediverse.com` | No |
 | `joinfediverse.online` | No |
 | `joinfreedom.tk` | No |
+| `joinfriendica.de` | No |
 | `joingardens.com` | No |
 | `joingeeksocial.com` | Yes |
 | `joinhaven.us` | No |
@@ -20754,6 +20759,7 @@ Here's a list of public Fediverse services.
 | `matrix.org` | Yes |
 | `mats.sh` | Yes |
 | `matsu-nico.me` | No |
+| `matsuda.tips` | No |
 | `matsukky.com` | Yes |
 | `matsuu.org` | Yes |
 | `matsuuratomoya.com` | Yes |
@@ -27182,6 +27188,7 @@ Here's a list of public Fediverse services.
 | `primarycare.app` | Yes |
 | `primatemind.info` | No |
 | `primeharbor.com` | No |
+| `primehq.co` | Yes |
 | `primeos.dev` | No |
 | `primitivebits.com` | No |
 | `primitivebits.social` | No |
@@ -34370,6 +34377,7 @@ Here's a list of public Fediverse services.
 | `tokamstdn.jp` | No |
 | `tokhmi.xyz` | Yes |
 | `toki.social` | No |
+| `tokimiss.club` | No |
 | `tokler.com` | No |
 | `toktan.org` | Yes |
 | `tokudan.de` | No |
@@ -34799,6 +34807,7 @@ Here's a list of public Fediverse services.
 | `transrights.art` | No |
 | `transrights.ovh` | No |
 | `transsafety.network` | Yes |
+| `trapezial.com` | Yes |
 | `trapped.codes` | No |
 | `trapped.online` | No |
 | `trash.haus` | No |
@@ -36353,6 +36362,7 @@ Here's a list of public Fediverse services.
 | `vladovince.com` | No |
 | `vladtepesblog.com` | Yes |
 | `vlan42.com` | Yes |
+| `vlarp.nl` | No |
 | `vleij.com` | No |
 | `vlekken.net` | No |
 | `vlen.org` | No |
@@ -37517,6 +37527,7 @@ Here's a list of public Fediverse services.
 | `writersaur.us` | No |
 | `writeworks.uk` | No |
 | `writing.exchange` | No |
+| `writingcircle.us` | No |
 | `wrk.ru` | Yes |
 | `wrmstdn.ca` | No |
 | `wrobix.de` | No |
@@ -38010,6 +38021,7 @@ Here's a list of public Fediverse services.
 | `yahoo.com` | Yes |
 | `yajamon.com` | No |
 | `yajamon.xyz` | No |
+| `yakimapride.org` | No |
 | `yakiniku.cloud` | No |
 | `yakitamago.info` | No |
 | `yakka.art` | Yes |
@@ -38644,6 +38656,7 @@ Here's a list of public Fediverse services.
 | `zmach1n3.com` | No |
 | `zmb.cm` | No |
 | `zmi.im` | Yes |
+| `zmon.tech` | Yes |
 | `zmtdn.de` | No |
 | `zn80.net` | No |
 | `znark.us` | No |
@@ -38804,8 +38817,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,369 |
-| Normal | 29,392 |
+| Cloudflare | 9,372 |
+| Normal | 29,402 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
