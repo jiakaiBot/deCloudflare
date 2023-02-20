@@ -17,7 +17,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 0ooo.icu | Yes |
 | 11i.eu | Yes |
 | 1899.com.mx | Yes |
-| 2025up.xyz | No |
 | 240130034.xyz | Yes |
 | 280blocker.net | Yes |
 | 2poi.com | Yes |
@@ -85,7 +84,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | benpro.fr | Yes |
 | betamax65.de | No |
 | bielperes.me | Yes |
-| bin.st | Yes |
 | bissnes.org | No |
 | bit-trail.nl | No |
 | bitdefender.net | Yes |
@@ -140,7 +138,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | datamatter.co.za | No |
 | daw.dev | No |
 | decloudus.com | No |
-| dedyn.io | No |
 | deekshith.in | No |
 | dekonix.ru | Yes |
 | depieri.net | No |
@@ -439,7 +436,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | safeservedns.com | No |
 | safesurfer.io | Yes |
 | sagutxustech.com | Yes |
-| salome.my.id | Yes |
 | sbdns.co.in | No |
 | seby.io | Yes |
 | sellan.fr | No |
@@ -499,7 +495,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | uni-bremen.de | No |
 | unipd.it | Yes |
 | unstoppable.io | Yes |
-| usableprivacy.net | Yes |
 | vasi.li | No |
 | vendorvista.xyz | No |
 | vinnyp.xyz | Yes |
@@ -532,8 +527,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 227 |
-| Normal | 286 |
+| Cloudflare | 224 |
+| Normal | 284 |
 
 
-### 44.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
