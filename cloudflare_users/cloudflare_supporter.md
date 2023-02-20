@@ -7568,6 +7568,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ng86609674Khang@twitter](https://twitter.com/Ng86609674Khang/status/1609391856785453059) | advertise |
 | [NgaHtwe2@twitter](https://twitter.com/NgaHtwe2/status/1389454383495135233) | advertise |
 | [NgalLay22498592@twitter](https://twitter.com/NgalLay22498592/status/1394158283217416194) | advertise |
+| [ngchung97568484@twitter](https://twitter.com/ngchung97568484/status/1627745568209649665) | advertise |
 | [NgcSn99050011@twitter](https://twitter.com/NgcSn99050011/status/1379102105907068931) | advertise |
 | [NgcThng76202493@twitter](https://twitter.com/NgcThng76202493/status/1393416142945878017) | advertise |
 | [NgcThnh94267200@twitter](https://twitter.com/NgcThnh94267200/status/1405698642988572677) | advertise |
