@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,778 |
 | social | 3,733 |
-| net | 2,948 |
+| net | 2,950 |
 | org | 2,076 |
 | de | 1,951 |
 
@@ -6569,6 +6569,7 @@ Here's a list of public Fediverse services.
 | `cr8.com` | No |
 | `cr8.social` | Yes |
 | `cr8r.gg` | Yes |
+| `crab.garden` | No |
 | `crab.lol` | No |
 | `crabby.fyi` | No |
 | `crabcake.social` | Yes |
@@ -27273,6 +27274,7 @@ Here's a list of public Fediverse services.
 | `profesionalreview.com` | No |
 | `profiklickser.com` | No |
 | `profitwallet.team` | No |
+| `prognesubis.net` | No |
 | `programist.ro` | Yes |
 | `programm.community` | No |
 | `programmer.technology` | No |
@@ -32039,6 +32041,7 @@ Here's a list of public Fediverse services.
 | `station.gallery` | No |
 | `stationerygamer.com` | No |
 | `stationzero.me` | No |
+| `statisticallyhuman.net` | No |
 | `statium.link` | No |
 | `statler.ws` | No |
 | `staton.us` | No |
@@ -38832,7 +38835,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,377 |
-| Normal | 29,411 |
+| Normal | 29,414 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
