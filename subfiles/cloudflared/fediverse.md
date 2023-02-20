@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,778 |
-| social | 3,733 |
+| social | 3,734 |
 | net | 2,950 |
 | org | 2,076 |
 | de | 1,951 |
@@ -8060,6 +8060,7 @@ Here's a list of public Fediverse services.
 | `devvul.com` | No |
 | `devweb.dev` | No |
 | `devxnet.com` | Yes |
+| `dewbert.social` | Yes |
 | `dewitte.xyz` | Yes |
 | `dewp.space` | No |
 | `dexnext.social` | No |
@@ -38316,6 +38317,7 @@ Here's a list of public Fediverse services.
 | `ytgrsua4.net` | No |
 | `ything.xyz` | No |
 | `ytopia.xyz` | No |
+| `ytpmv.info` | Yes |
 | `ytringsrett.net` | No |
 | `yttrx.com` | Yes |
 | `yu10g.com` | No |
@@ -38834,7 +38836,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,377 |
+| Cloudflare | 9,379 |
 | Normal | 29,414 |
 
 
