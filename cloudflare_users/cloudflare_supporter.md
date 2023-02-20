@@ -6612,6 +6612,7 @@ Do not create new issue or we will close it as duplicate.
 | [MellowSpun@twitter](https://twitter.com/MellowSpun/status/1497652387502297090) | advertise |
 | [MellowzNguyen@twitter](https://twitter.com/MellowzNguyen/status/1391458316803444741) | advertise |
 | [melodyy0102@twitter](https://twitter.com/melodyy0102/status/1408007120407220226) | advertise |
+| [Melon060701@twitter](https://twitter.com/Melon060701/status/1627550952965414912) | advertise |
 | [Memo04905668@twitter](https://twitter.com/Memo04905668/status/1389065111659294720) | advertise |
 | [MennaTSMTM@twitter](https://twitter.com/MennaTSMTM/status/1384571665946800130) | advertise |
 | [menwhobuiltug@twitter](https://twitter.com/menwhobuiltug/status/1570324989429297152) | advertise |
