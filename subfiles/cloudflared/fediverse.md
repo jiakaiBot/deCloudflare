@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,775 |
+| com | 5,776 |
 | social | 3,731 |
 | net | 2,947 |
 | org | 2,074 |
@@ -13406,6 +13406,7 @@ Here's a list of public Fediverse services.
 | `h-sozial.de` | No |
 | `h-sund.nu` | No |
 | `h-y-p-e-r.space` | No |
+| `h0lmes.com` | Yes |
 | `h12r.de` | No |
 | `h1v3.de` | No |
 | `h2x.us` | Yes |
@@ -38819,7 +38820,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,372 |
+| Cloudflare | 9,373 |
 | Normal | 29,404 |
 
 
