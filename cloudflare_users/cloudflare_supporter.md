@@ -2142,6 +2142,7 @@ Do not create new issue or we will close it as duplicate.
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
 | [crisnguyen0809@twitter](https://twitter.com/crisnguyen0809/status/1404837227679555591) | advertise |
 | [crmoldu@twitter](https://twitter.com/crmoldu/status/1558473653741830147) | advertise |
+| [CROauditor@twitter](https://twitter.com/CROauditor/status/1627508426925572097) | advertise |
 | [crofflendcoffee@twitter](https://twitter.com/crofflendcoffee/status/1536313341504720896) | advertise |
 | [CRONUSISLIVE@twitter](https://twitter.com/CRONUSISLIVE/status/1513956818644783104) | advertise |
 | [crosiderr@twitter](https://twitter.com/crosiderr/status/1379494464545243136) | advertise |
@@ -3619,6 +3620,7 @@ Do not create new issue or we will close it as duplicate.
 | [happygagarara12@twitter](https://twitter.com/happygagarara12/status/1427587476953042952) | advertise |
 | [HaqimTuan@twitter](https://twitter.com/HaqimTuan/status/1559453138695753728) | advertise |
 | [haqyyi@twitter](https://twitter.com/haqyyi/status/1394274130329886720) | advertise |
+| [hardcorx1@twitter](https://twitter.com/hardcorx1/status/1627486390429810689) | advertise |
 | [harden_69@twitter](https://twitter.com/harden_69/status/1552074135030857728) | advertise |
 | [hardey62820667@twitter](https://twitter.com/hardey62820667/status/1528254214584946689) | advertise |
 | [Harinderulakh1@twitter](https://twitter.com/Harinderulakh1/status/1404809733282877442) | advertise |
@@ -4232,6 +4234,7 @@ Do not create new issue or we will close it as duplicate.
 | [HuyGau2014@twitter](https://twitter.com/HuyGau2014/status/1617297071538868224) | advertise |
 | [Huyhoanghuynh05@twitter](https://twitter.com/Huyhoanghuynh05/status/1388289129624981505) | advertise |
 | [HUYHOANGLAVN@twitter](https://twitter.com/HUYHOANGLAVN/status/1580707897066938368) | advertise |
+| [huyinA786@twitter](https://twitter.com/huyinA786/status/1627405498009124864) | advertise |
 | [huyjunior1@twitter](https://twitter.com/huyjunior1/status/1518422399389413376) | advertise |
 | [huykhenh969@twitter](https://twitter.com/huykhenh969/status/1596591666751672320) | advertise |
 | [HuyL68129865@twitter](https://twitter.com/HuyL68129865/status/1398308580957122564) | advertise |
