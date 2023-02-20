@@ -339,6 +339,7 @@ amazon-bhju.zzux.com
 amazon-dfrrt.zzux.com
 amazon-olkjih.zzux.com
 amazon-ujiop.zzux.com
+amazon-vidasgddbjb.zzux.com
 api.prod.zoov.eu
 api.zmsa-tech.com
 app.zapoj.com
@@ -351,8 +352,10 @@ avito.blablacar.avito.sber.www.covid19.zapusk-million.ru
 avito.blablacar.avito.sberbank.www.covid19.zapusk-million.ru
 avito.blablacar.avito.www.avito.www.covid19.zapusk-million.ru
 bcczotrsv2.zeland.net
+cache-video-server-04.zeop.tv
 chitadelivery2023.zapweb.co.il
 click.shop.zennioptical.com
+eas.zasa-elektro.de
 employees.zezobusiness.com
 etc-bcvhtgh.zzux.com
 etc-poim.zzux.com
@@ -361,6 +364,7 @@ hot.ztk89dmu.com
 idp.dev-saas.zeb-it.de
 kobil.ziraatbank.az
 kuuhaku.zudakode.com
+liorarozen.zapgoogle.co.il
 monitoring.dc.zammad.com
 monitoring.zetamex.com
 paribahis.zejaffa.com
@@ -388,6 +392,9 @@ sberbank.blablacar.avito.www.avito.covid19.zapusk-million.ru
 sberbank.git.gitlab.gitlab.git.covid19.zlclubmarket.com
 sberbank.gitlab.git.gitlab.gitlab.covid19.zlclubmarket.com
 sberbank.gitlab.gitlab.git.gitlab.git.covid19.zlclubmarket.com
+sberbank.sber.avito.avito.avito.avito.covid19.zapusk-million.ru
+sberbank.sber.avito.avito.avito.covid19.zapusk-million.ru
+sberbank.sber.avito.avito.blablacar.covid19.zapusk-million.ru
 sberbank.sber.avito.www.sber.blablacar.covid19.zepter-catalog.ru
 sberbank.sber.blablacar.avito.avito.covid19.zepter-catalog.ru
 sberbank.sber.blablacar.avito.covid19.zepter-catalog.ru
@@ -396,6 +403,7 @@ securitssy-adssmin.zzux.com
 steamgame.zser-art.hu
 studiodevo.zanesebasovich.com
 track.zoltans.co
+trackify.zigamlogistics.com
 webdisk.ll24new.aymen.zgstageci.work
 webmail.z201466-2m1hn.s01.zwphosting.com
 webmail.zetta.com.sg
@@ -414,6 +422,7 @@ www.moneyondemand.co.in.zehraglobalinfotech.in
 www.sonic-interventions.zanrosso.photo
 www.steamgame.zser-art.hu
 www.studiodevo.zanesebasovich.com
+www.trackify.zigamlogistics.com
 www.trustwallet.zionmoving.com
 www.utish.zipcodespostal.com
 www.zales.com
@@ -431,6 +440,7 @@ www.zsk-torservice.com
 www.zsk-torservice.zsk-elektrotechnik.de
 www.zuberpettingzoo.com
 www.zund.dk
+yapis.zivtech.id
 z88344-xn3fu.s01.zwphosting.com
 zacatecasonline.com.mx
 zaki.zakspeed.click
