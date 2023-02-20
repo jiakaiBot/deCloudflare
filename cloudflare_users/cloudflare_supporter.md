@@ -481,6 +481,7 @@ Do not create new issue or we will close it as duplicate.
 | [akhilreddy1431@twitter](https://twitter.com/akhilreddy1431/status/1391641491353653250) | advertise |
 | [akhilvarma2020@twitter](https://twitter.com/akhilvarma2020/status/1381176091314806785) | advertise |
 | [AkhmalHaziq@twitter](https://twitter.com/AkhmalHaziq/status/1392301139526258694) | advertise |
+| [Akihitoreal@twitter](https://twitter.com/Akihitoreal/status/1627639160592019456) | advertise |
 | [Akira47150780@twitter](https://twitter.com/Akira47150780/status/1400190504193589260) | advertise |
 | [akirafinn@twitter](https://twitter.com/akirafinn/status/1557606290725056513) | advertise |
 | [Akito28238860@twitter](https://twitter.com/Akito28238860/status/1493097617219534849) | advertise |
