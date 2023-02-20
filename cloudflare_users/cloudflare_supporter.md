@@ -705,6 +705,7 @@ Do not create new issue or we will close it as duplicate.
 | [ancientxfire@twitter](https://twitter.com/ancientxfire/status/1615290300020449280) | advertise |
 | [Andeptrai291122@twitter](https://twitter.com/Andeptrai291122/status/1553017887182712833) | advertise |
 | [andiodang77@twitter](https://twitter.com/andiodang77/status/1493927735823319041) | advertise |
+| [andoan1610@twitter](https://twitter.com/andoan1610/status/1627668391099256832) | advertise |
 | [AndreDasz@twitter](https://twitter.com/AndreDasz/status/1389889427141390336) | advertise |
 | [andrepayne1@twitter](https://twitter.com/andrepayne1/status/1597301381358288896) | advertise |
 | [Andrew05534631@twitter](https://twitter.com/Andrew05534631/status/1378876163599175687) | advertise |
@@ -5409,6 +5410,7 @@ Do not create new issue or we will close it as duplicate.
 | [KLiesty@twitter](https://twitter.com/KLiesty/status/1552540429236961280) | advertise |
 | [klopmp@twitter](https://twitter.com/klopmp/status/1422969764905816068) | advertise |
 | [kmantecM@twitter](https://twitter.com/kmantecM/status/1422478263440396292) | advertise |
+| [KMHt67762096@twitter](https://twitter.com/KMHt67762096/status/1627645025395048449) | advertise |
 | [KMobydic@twitter](https://twitter.com/KMobydic/status/1398362611859673090) | advertise |
 | [knn145@twitter](https://twitter.com/knn145/status/1560467875227631616) | advertise |
 | [Ko29699364@twitter](https://twitter.com/Ko29699364/status/1391248483504451585) | advertise |
@@ -7732,6 +7734,7 @@ Do not create new issue or we will close it as duplicate.
 | [nguynTh20115189@twitter](https://twitter.com/nguynTh20115189/status/1484482391162773504) | advertise |
 | [NguynTh31341123@twitter](https://twitter.com/NguynTh31341123/status/1405558068138496005) | advertise |
 | [NguynTh33426431@twitter](https://twitter.com/NguynTh33426431/status/1473913068606275587) | advertise |
+| [NguynTh36598771@twitter](https://twitter.com/NguynTh36598771/status/1627643352119377920) | advertise |
 | [NguynTh53936240@twitter](https://twitter.com/NguynTh53936240/status/1403065974199259141) | advertise |
 | [NguynTh63622356@twitter](https://twitter.com/NguynTh63622356/status/1552349061218725889) | advertise |
 | [NguynTh72542449@twitter](https://twitter.com/NguynTh72542449/status/1401213945289994243) | advertise |
