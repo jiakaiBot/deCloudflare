@@ -1320,6 +1320,7 @@ devtoken.vrbank.com.vn
 discordbot.venusrust.com
 discordbots1.vercel.app
 discordnitro1.vercel.app
+distwitchchat.vercel.app
 dmp-int.apps.emea.vwapps.io
 driscordbr12.vercel.app
 dynogic.vercel.app
@@ -1338,6 +1339,7 @@ git.gitlab.git.autodiscover.valid-vk.ru
 git.gitlab.new.2.vashsad37.ru
 gitlab.cpanel.news.2020.vitorheinzen.com
 gitlab.git.wiki.staging.m.vermeeralaska.com
+grafana.us.verifyid.security
 graylog.validcertificadora.com.br
 ha-5a.user-management.dev.eu.vwg.vwautocloud.net
 hcp3csaazsrundev-3a.dmo.eu.dp.vwg-connect.com
@@ -1401,6 +1403,7 @@ paquetes.vekkafilms.com
 particuliers-sg.verification-securite.org
 perf-gte.virtusa.com
 pics.vodafone.cz
+postula.venderonline.net
 prod-mb.vbsp.vn
 pub.marketingmail.vdab.be
 redinteligente.vodafone.es
@@ -1445,7 +1448,9 @@ software.voicego.se
 sousadiscord.vercel.app
 souvlaki.vpn.gr
 spark-dev.np.vertexcybersecurity.com.au
+spark-uat.np.vertexcybersecurity.com.au
 speedtest-test.vodafone-ip.de
+speedtest.vpnpara.com
 staging.ukitservice.veryfasthosting.co.uk
 stg04community.vendev.info
 subirgoogle.vostperudigital.com
@@ -1464,6 +1469,7 @@ twitchy123.vercel.app
 vafcu.com
 vakif.org
 valeoserviceusa.com
+valmedco.com
 valpostal.cl
 vampiredetroit.com
 vancitymotorsport.ca
@@ -1496,6 +1502,7 @@ verizonwiresess.com
 veros.com
 vertentesolucoes.com.br
 vertography.com
+vespacluj.com
 vestsupport.dk
 viaplay.pl
 victoria-creditrepair.com
@@ -1511,6 +1518,8 @@ vinabank247.com
 vinhomesoceanparkthecrown.net
 vinodetenerife.es
 vintageproperty.vintagepremiumgift.com
+vintagetek.org
+vip-security-mykonos.gr
 vipcapitalfunding.com
 vipgrandsecurity.com
 vipguard-security.ro
@@ -1526,6 +1535,7 @@ virtuspayment.com
 visegradinsight.eu
 visionforlifeod.com
 visionsecurity.jp
+visit-holidays.com
 visitkepri.com
 visitmy.website
 visitroyalmail.com
@@ -1535,6 +1545,7 @@ viswiss.com.br
 vitalautoservice.ro
 vitalbox.com
 vitals.ua
+vitamasso.com
 vivamedia.se
 vivot.io
 vlsaglobalservices.com
@@ -1564,12 +1575,16 @@ vpn777.cc
 vpna2z.de
 vpnaustralia.net
 vpnbgone.com
+vpnc.cc
+vpncommunicationsng.com
+vpngacor.fun
 vpninformatica.com.br
 vpnmik.net
 vpnphoenix.com
 vpnreviews.io
 vpnslab.com
 vpnslot.pro
+vpnsmartdns.com
 vpntags.com
 vpnveil.com
 vpnxshadow.online
@@ -1580,6 +1595,7 @@ vr-netflix.com
 vrgwallet.com
 vrm.pics
 vsmcreative.com
+vstapple.com
 vstmac.co
 vstprokey.com
 vt894axs16.com
@@ -1599,6 +1615,7 @@ webdisk.videodyno.com.au
 webdisk.vighospitaljalandhar.com
 webdisk.vintagepremiumgift.com
 webdisk.vortexmediaworkshops.com
+webmail.verifyghostextracts.co
 webmail.vintagepremiumgift.com
 webmail.viralfyp.my.id
 webmail.viverbemehpossivel.site
@@ -1618,6 +1635,7 @@ www.booking.vojaingg.org
 www.capricorn.assets.cloudflare.cdn.on-cloud.live.vanguardavisionaria.com
 www.cekliveness.com.verifywajah.com
 www.chat.whatsapp.vipchatroom.com
+www.citiesforeveryone.vtpi.org
 www.client.victorhosting.com
 www.clientes.virtualhostnet.com.co
 www.creditcardcollection.virtualskyit.com
@@ -1641,6 +1659,7 @@ www.parcel.vaegam.space
 www.pinapple-colony.vizagchildrensclub.org
 www.portraits-2.valenditomasso.com
 www.postmaster.vkrf.ru
+www.postula.venderonline.net
 www.projects.v2rsolution.com
 www.prueba.visionservice.com.pe
 www.reginastanley.viding.co
@@ -1649,6 +1668,7 @@ www.selectomatic.net.vpnpool.net
 www.sentralparcel.dev.002.veccani.com
 www.service.vicbest.ro
 www.souvlaki.vpn.gr
+www.speedtest.vpnpara.com
 www.staging.ukitservice.veryfasthosting.co.uk
 www.storage.vsteam.edu.vn
 www.subirgoogle.vostperudigital.com
@@ -1683,6 +1703,7 @@ www.vd-service.online
 www.vecchio-services.com
 www.veinpros.md
 www.velatcentroplaza.velatyapi.com
+www.velatyapi.com
 www.vendezvotrevoiture.fr
 www.vendormanufacture.com
 www.venise-services.fr
@@ -1695,7 +1716,9 @@ www.verifyid.id
 www.verifyphoto.id
 www.verifytalks.com
 www.verizon.realestate
+www.verizonrouterblinkingwhite.com
 www.vermilionstandard.com
+www.vermontcustomfitness.com
 www.vernaculardiscourse.com
 www.versatope.com
 www.versicherungsteam.at
@@ -1754,6 +1777,7 @@ www.vr.com.br
 www.vreaucredit.ro
 www.vrijebond.org
 www.vsl.nl
+www.vstapple.com
 www.vulcanblockchain.com
 www.vvconsultinggroup.com
 www.vvxofingerstyletab.com
