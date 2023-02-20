@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,768 |
+| com | 5,769 |
 | social | 3,727 |
 | net | 2,944 |
 | org | 2,073 |
@@ -19407,7 +19407,7 @@ Here's a list of public Fediverse services.
 | `luglufa.com` | No |
 | `lugnasad.eu` | No |
 | `lugodev.com` | Yes |
-| `lugonials.social` | Yes |
+| `lugonials.social` | No |
 | `lugoweb.es` | No |
 | `luhrck.com` | Yes |
 | `luizpicolo.com.br` | Yes |
@@ -34876,6 +34876,7 @@ Here's a list of public Fediverse services.
 | `trinitium.ovh` | No |
 | `trinitron.town` | No |
 | `trinitybristol.social` | No |
+| `triodug.com` | No |
 | `triofan.com` | Yes |
 | `triopticon.com` | No |
 | `tripbullet.com` | No |
@@ -38779,8 +38780,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,362 |
-| Normal | 29,374 |
+| Cloudflare | 9,361 |
+| Normal | 29,376 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
