@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,769 |
 | social | 3,727 |
-| net | 2,944 |
+| net | 2,945 |
 | org | 2,073 |
 | de | 1,947 |
 
@@ -1757,6 +1757,7 @@ Here's a list of public Fediverse services.
 | `anfora.social` | Yes |
 | `anfora.xyz` | No |
 | `ang.social` | No |
+| `angelo.land` | No |
 | `angelou.club` | Yes |
 | `angelstrapped.com` | No |
 | `angezeckt.de` | No |
@@ -23151,6 +23152,7 @@ Here's a list of public Fediverse services.
 | `nasface.cz` | No |
 | `nashe.be` | No |
 | `nashtodon.com` | No |
+| `naskya.net` | Yes |
 | `nasn.icu` | No |
 | `nasnfl.com` | No |
 | `nasqueron.org` | No |
@@ -32283,6 +32285,7 @@ Here's a list of public Fediverse services.
 | `stripedsocks.dev` | No |
 | `stripittoride.club` | No |
 | `strits.dk` | No |
+| `strix.pm` | Yes |
 | `strizhakov.dev` | Yes |
 | `strnad.social` | No |
 | `stroan.net` | Yes |
@@ -38780,8 +38783,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,361 |
-| Normal | 29,376 |
+| Cloudflare | 9,363 |
+| Normal | 29,377 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
