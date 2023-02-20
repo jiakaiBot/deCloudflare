@@ -242,6 +242,7 @@ www.userstellar.qinpra.com
 yourbooking.qantas.com.au
 accountmanager.queue-it.net
 amazon-rfdgh.qpoe.com
+api.node1.qnix.pl
 api.os.qiku.com
 api.qv-veeva.com
 blog.quest.com
@@ -259,9 +260,11 @@ goo.stage.qcsafety.xyz
 gsteam.queue-it.net
 it.quoreitaliano.it
 keycloak.qwghlm.quantumflux.nl
+kohonjin.qb4byy.shop
 oauth2.qwghlm.quantumflux.nl
 okta.quinstreet.com
 oktatas.qsec.hu
+pune.quikr.com
 qebay.com
 qh88zalo.com
 qliktag.com
@@ -278,6 +281,7 @@ queenbeedisabilitysupport.com
 queseriesver.es
 questionmyfaith.com
 quibitechmining.com
+quick-parcel.com
 quick2service.in
 quickbookhelpdesk.com
 quicknote.io
@@ -304,6 +308,7 @@ www.qespresso.kz
 www.qinetiq.com
 www.qip.id
 www.qtips.com
+www.qualifiedgenealogists.org
 www.quantifyhealth.co
 www.quantumsafety.com.sg
 www.quarantashipping.com
