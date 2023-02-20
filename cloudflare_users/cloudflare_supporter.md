@@ -11643,6 +11643,7 @@ Do not create new issue or we will close it as duplicate.
 | [WDragon203@twitter](https://twitter.com/WDragon203/status/1416258687266476033) | advertise |
 | [wd_kill@twitter](https://twitter.com/wd_kill/status/1475478794626650123) | advertise |
 | [webdownunder@twitter](https://twitter.com/webdownunder/status/1472764286283833345) | advertise |
+| [webmaster67fr@twitter](https://twitter.com/webmaster67fr/status/1627568295619530752) | advertise |
 | [websamrat@twitter](https://twitter.com/websamrat/status/1417114848085696515) | advertise |
 | [websolapp@twitter](https://twitter.com/websolapp/status/1436377910638792712) | advertise |
 | [webtechexpertz@twitter](https://twitter.com/webtechexpertz/status/1476421030377926665) | advertise |
