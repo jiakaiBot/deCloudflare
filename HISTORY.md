@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-02-24: [MRS (Marseille) on 2023-02-24](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bhq1r2mwmfs8)
 - 2023-02-23: [CWB (Curitiba) on 2023-02-23](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zhgy8g9fx5k8)
 - 2023-02-23: [GRU (São Paulo) on 2023-02-23](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pthbtmckcyxn)
 - 2023-02-22: [GRU (São Paulo) on 2023-02-22](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/3yvzvxfg6yl8)
