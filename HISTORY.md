@@ -5,6 +5,9 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-02-23: [CWB (Curitiba) on 2023-02-23](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zhgy8g9fx5k8)
+- 2023-02-23: [GRU (São Paulo) on 2023-02-23](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pthbtmckcyxn)
+- 2023-02-22: [GRU (São Paulo) on 2023-02-22](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/3yvzvxfg6yl8)
 - 2023-02-23: [SJC (San Jose) on 2023-02-23](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kmn04ltwv55n)
 - 2023-02-21: [SJC (San Jose) on 2023-02-21](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lc57bwn62w4w)
 - 2023-02-17: [Pages users may be experiencing issues with their sites](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cpx9ctxd9nt2)
