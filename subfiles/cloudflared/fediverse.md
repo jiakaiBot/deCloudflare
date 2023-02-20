@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,773 |
-| social | 3,729 |
+| social | 3,730 |
 | net | 2,946 |
 | org | 2,073 |
-| de | 1,948 |
+| de | 1,950 |
 
 
 - Mastodon, Pleroma, etc
@@ -13190,6 +13190,7 @@ Here's a list of public Fediverse services.
 | `grilledcheese.social` | No |
 | `grim.run` | Yes |
 | `grim.town` | No |
+| `grimbrook.community` | No |
 | `grimerica.ca` | No |
 | `grimhe.art` | Yes |
 | `grimkroton.de` | No |
@@ -16617,6 +16618,7 @@ Here's a list of public Fediverse services.
 | `justcoding.tech` | Yes |
 | `justda.tips` | No |
 | `justdied.com` | No |
+| `justec.co.uk` | No |
 | `justfollow.me.uk` | No |
 | `justgage.blog` | No |
 | `justicewarrior.social` | No |
@@ -25260,6 +25262,7 @@ Here's a list of public Fediverse services.
 | `ork.institute` | No |
 | `orkinsel.de` | No |
 | `orko.it` | No |
+| `orkpiraten.de` | No |
 | `orkz.net` | No |
 | `ornella.xyz` | Yes |
 | `orng.social` | Yes |
@@ -26698,6 +26701,7 @@ Here's a list of public Fediverse services.
 | `plnetwork.xyz` | No |
 | `plock.social` | No |
 | `ploen.social` | Yes |
+| `ploink.land` | No |
 | `plom.net` | Yes |
 | `plomlompom.com` | No |
 | `plone.social` | Yes |
@@ -29852,6 +29856,7 @@ Here's a list of public Fediverse services.
 | `schrock.social` | No |
 | `schub.social` | No |
 | `schuelerzeitung-elsensee.de` | Yes |
+| `schuerenbo.de` | No |
 | `schuerz.at` | No |
 | `schuessler.vip` | No |
 | `schuldt.dev` | No |
@@ -38761,6 +38766,7 @@ Here's a list of public Fediverse services.
 | `zuzax.com` | No |
 | `zveryok.pp.ua` | No |
 | `zvr.gr` | No |
+| `zvt.social` | No |
 | `zw.lu` | No |
 | `zwei.net` | No |
 | `zweibruecken.social` | No |
@@ -38799,7 +38805,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,369 |
-| Normal | 29,386 |
+| Normal | 29,392 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
