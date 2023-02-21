@@ -1268,13 +1268,16 @@ alertmanager.us-central1.common.hs.vatic.cloud
 alexvps2.virtuspayment.com
 amazon-bvgghgfgt.vizvaz.com
 analytics.vodafone.com.au
+anglrsecurity.versi.pt
 api-external.prd.veuu.com
 api.n46-eolda1.dev.eu.pp.cloud.vwgroup.com
+api.vship.com.vn
 apiekyc.cloud.vietbank.com.vn
 apiekyc.sandbox.vietbank.com.vn
 apieu.verteil.com
 apps.saas.visicom.com
 arcfmweb.vivaservizi.it
+arzte.v-skin.ch
 ato.verizone.buzz
 auth.variant9.dev
 autodiscover.grupoconfianza.com.br.volteaviver.com.br
@@ -1298,6 +1301,7 @@ business.vodafone.ie
 bvfenlinea.visionfund.ec
 cdn.violetlovelines.com
 certifikaty.vodafone.cz
+citibank.viztakarekossag.hu
 click.marketingmail.vdab.be
 coinhive1.vercel.app
 con-west-europe-gma.vmobapps.com
@@ -1388,6 +1392,7 @@ monitoring-service.ace-e4f91a8e.core.build.vwn.cloud
 monitoring.127437123744-793.vianai.site
 monitoring.vcklan.cz
 monitoring.viveropalmar.com
+movieham-web.vercel.app
 mpenezenka.vodafone.cz
 n.vodafone.ie
 natwest.vnx2z7.net
@@ -1405,6 +1410,7 @@ perf-gte.virtusa.com
 pics.vodafone.cz
 postula.venderonline.net
 prod-mb.vbsp.vn
+promociones.volkswagengaldakauto.com
 pub.marketingmail.vdab.be
 redinteligente.vodafone.es
 resource.visitcloud.com
@@ -1462,11 +1468,13 @@ test.vexonsecurity.nl
 test.vodafone-kitt.de
 thankyou.vodafone.gr
 topup.vtunaija.com.ng
+trialover.videocreditscore.com
 tunnel2.vetropack.com
 twitch.vopu.cloud
 twitchbuffer.vaudience.net
 twitchy123.vercel.app
 vafcu.com
+vahocomedia.com
 vakif.org
 valeoserviceusa.com
 valmedco.com
@@ -1479,6 +1487,7 @@ vastucreations.com
 vatclient.eu
 vaultxwallet.com
 vayena.org
+vaytienbangicloud.com
 vboddxcl2.asia
 vdc.vodafone.ie
 vedantapublicschool.org
@@ -1504,6 +1513,7 @@ vertentesolucoes.com.br
 vertography.com
 vespacluj.com
 vestsupport.dk
+veve.com
 viaplay.pl
 victoria-creditrepair.com
 victorycs.org
@@ -1536,6 +1546,8 @@ visegradinsight.eu
 visionforlifeod.com
 visionsecurity.jp
 visit-holidays.com
+visitcampbellcounty.com
+visithogsback.co.za
 visitkepri.com
 visitmy.website
 visitroyalmail.com
@@ -1603,9 +1615,11 @@ vtclib23.vtc.edu.hk
 vtexid.vtex.com.br
 vtventure.com
 vuaclub.live
+vulcanmanufacturingsystems.com
 vunjabei.com
 vwi.vwgroup.co.za
 vwsadmz.vwgroup.co.za
+vybe.ch
 vysogorets.org
 webapi.volanty.com
 webdisk.vaccinet.org
@@ -1629,6 +1643,7 @@ wsnfsehomologa.vitoria.es.gov.br
 www.alexvps2.virtuspayment.com
 www.ato.verizone.buzz
 www.bcstateofvolunteering.volunteerbc.bc.ca
+www.benaturestore.es.vitalgreenstore.es
 www.billionaire.vertx.ma
 www.billys.vimirlab.com
 www.booking.vojaingg.org
@@ -1666,12 +1681,14 @@ www.reginastanley.viding.co
 www.safe-dent.vyapparindia.com
 www.selectomatic.net.vpnpool.net
 www.sentralparcel.dev.002.veccani.com
+www.sentralparcel.dev.003.veccani.com
 www.service.vicbest.ro
 www.souvlaki.vpn.gr
 www.speedtest.vpnpara.com
 www.staging.ukitservice.veryfasthosting.co.uk
 www.storage.vsteam.edu.vn
 www.subirgoogle.vostperudigital.com
+www.telegram.viacomedia.com
 www.test.vexonsecurity.nl
 www.tickets.visitislandpond.com
 www.trustwallet.verification.gift
@@ -1739,6 +1756,7 @@ www.vii.com.au
 www.village-bank.com
 www.villageofpound.com
 www.vincentpricelegacy.uk
+www.vindeckservice.com
 www.vinilkosmo-mp3.com
 www.virginmoney-uk.com
 www.virtualtrekcon.com
@@ -1757,6 +1775,7 @@ www.vodafonefaf.ie
 www.vodafonegiftcard.com
 www.vodafoneready.co.uk
 www.volansyapi.com.tr
+www.volkskultur.ch
 www.volkswagenofclarksville.com
 www.volkswagent1buscombi.com
 www.voltdeutschland.org
@@ -1779,6 +1798,7 @@ www.vrijebond.org
 www.vsl.nl
 www.vstapple.com
 www.vulcanblockchain.com
+www.vulcangomma.com
 www.vvconsultinggroup.com
 www.vvxofingerstyletab.com
 www.vw.com
