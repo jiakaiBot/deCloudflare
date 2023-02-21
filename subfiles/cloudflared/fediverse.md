@@ -17834,6 +17834,7 @@ Here's a list of public Fediverse services.
 | `krysinmedia.com` | Yes |
 | `kryta.app` | Yes |
 | `kryta.xyz` | No |
+| `ksgaming.it` | No |
 | `ksidi.top` | No |
 | `ksite.de` | No |
 | `ksj.social` | No |
@@ -38870,7 +38871,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,390 |
-| Normal | 29,436 |
+| Normal | 29,437 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
