@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,781 |
-| social | 3,746 |
+| com | 5,783 |
+| social | 3,747 |
 | net | 2,953 |
 | org | 2,077 |
 | de | 1,951 |
@@ -1107,6 +1107,7 @@ Here's a list of public Fediverse services.
 | `ahlroos.me` | No |
 | `ahmadhaghighi.com` | Yes |
 | `ahmedsaad.xyz` | No |
+| `ahmetasabanci.com` | Yes |
 | `ahnlak.com` | Yes |
 | `ahokusa.club` | No |
 | `ahorn.info` | Yes |
@@ -5235,6 +5236,7 @@ Here's a list of public Fediverse services.
 | `cdownie.co.uk` | Yes |
 | `cdrom.tokyo` | No |
 | `cdstm.ch` | No |
+| `cdy.social` | Yes |
 | `ceb8.de` | No |
 | `ced117.net` | No |
 | `cedar-republic.com` | No |
@@ -15940,6 +15942,7 @@ Here's a list of public Fediverse services.
 | `jamiekerr.net` | Yes |
 | `jamiemchale.com` | No |
 | `jamiesnotes.com` | Yes |
+| `jamiethegeek.com` | Yes |
 | `jaminit.co.uk` | Yes |
 | `jamit.social` | Yes |
 | `jammer.social` | Yes |
@@ -38870,7 +38873,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,390 |
+| Cloudflare | 9,393 |
 | Normal | 29,437 |
 
 
