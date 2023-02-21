@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't subscribe to events for whatever reason](https://github.com/MrBrax/LiveStreamDVR/issues/412)
 - [Agent's subscriber losing ws connection to chaosCenter](https://github.com/litmuschaos/litmus/issues/3903)
 - [Broken Link Detected](https://github.com/pingcap/docs/issues/12573)
 - [CSRF Errors in admin console after install using helm chart](https://github.com/goauthentik/authentik/issues/4719)
