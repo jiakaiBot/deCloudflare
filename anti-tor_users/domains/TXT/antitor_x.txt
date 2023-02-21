@@ -314,6 +314,7 @@ post-track.x24hr.com
 sigma.xebmin.fr
 test2api.xupervisor.com
 thsv.xinit.se
+track.xpologisticservices.com
 webmail.xpsapps.com
 www.birthparentaddiction.xix-recovery.org
 www.blog.xix-recovery.org
@@ -323,6 +324,7 @@ www.franciza.online.xpost.com.ro
 www.myths.xix-recovery.org
 www.news.xix-recovery.org
 www.thehardstuff.xix-recovery.org
+www.track.xpologisticservices.com
 www.uba.xix-recovery.org
 www.x-invoice.com
 www.xeronosso.com.br
@@ -337,6 +339,7 @@ www.xn--produktdesign-mller-kbc.de
 www.xn--rallye-garage-mller-kbc.ch
 www.xn--schttgut-liefern-lzb.de
 www.xn--ssom-poa.se
+www.xn--trdfllningnybro-1kbc.se
 www.xn--trdfllningrebro-1kbc44a.se
 www.xn--vad-r-vpn-y2a.se
 www.xn--weingut-herbert-lwen-kbc.de
@@ -344,6 +347,7 @@ www.xolod-service.ru
 www.xtremeinternet.biz
 xaviercarrascosa.com
 xboxuser.co
+xccservices.com
 xegiarethaibinh.com
 xeronosso.com.br
 xfinitystream.co
