@@ -43,7 +43,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | adrianlam.com | Yes |
 | afastserver.com | Yes |
 | afixer.app | Yes |
-| aflr.io | No |
 | ahadns.net | Yes |
 | aihe.app | Yes |
 | airmaxcloud.ml | No |
@@ -82,7 +81,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | beliefanx.cn | No |
 | belnet.be | No |
 | benpro.fr | Yes |
-| betamax65.de | No |
 | bielperes.me | Yes |
 | bissnes.org | No |
 | bit-trail.nl | No |
@@ -367,7 +365,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | n3120.wang | No |
 | nas-server.ru | Yes |
 | ndo.dev | Yes |
-| nerdpol.ovh | No |
 | neubsi.at | No |
 | nexific.it | Yes |
 | nhtsky.com | Yes |
@@ -404,7 +401,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | pentament.de | No |
 | piekacz.pl | No |
 | pigs.eu.org | No |
-| pitnetdns.ga | No |
 | pleumkungz.com | Yes |
 | porteii.com | Yes |
 | privacy.cm | Yes |
@@ -508,7 +504,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | waringer-atg.de | No |
 | warpnine.de | No |
 | wewitro.net | No |
-| whax.eu.org | No |
 | woozeno.eu | No |
 | x88.in | Yes |
 | xcom.pro | No |
@@ -528,7 +523,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 224 |
-| Normal | 284 |
+| Normal | 279 |
 
 
-### 44.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
