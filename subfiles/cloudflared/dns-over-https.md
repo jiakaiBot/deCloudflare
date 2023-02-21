@@ -425,7 +425,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | richardapplegate.io | Yes |
 | rin.sh | Yes |
 | rjmva.com | No |
-| rodovatech.com | No |
 | ronc.ru | No |
 | rouga.ch | Yes |
 | rsaikat.com | No |
@@ -523,7 +522,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 224 |
-| Normal | 279 |
+| Normal | 278 |
 
 
-### 44.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
