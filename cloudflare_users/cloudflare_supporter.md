@@ -6305,6 +6305,7 @@ Do not create new issue or we will close it as duplicate.
 | [MaiCoLong1@twitter](https://twitter.com/MaiCoLong1/status/1494931023662313472) | advertise |
 | [maihong28907499@twitter](https://twitter.com/maihong28907499/status/1475838291639697413) | advertise |
 | [maik24562885@twitter](https://twitter.com/maik24562885/status/1425610293216940043) | advertise |
+| [mailregistrator@twitter](https://twitter.com/mailregistrator/status/1628128956640624640) | advertise |
 | [MailServerPwnr@twitter](https://twitter.com/MailServerPwnr/status/1384346054011744258) | advertise |
 | [MainaAwudu@twitter](https://twitter.com/MainaAwudu/status/1606611116662063107) | advertise |
 | [MaiPham06160922@twitter](https://twitter.com/MaiPham06160922/status/1392396112179306500) | advertise |
