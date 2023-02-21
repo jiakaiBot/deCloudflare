@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,783 |
-| social | 3,747 |
+| social | 3,748 |
 | net | 2,953 |
 | org | 2,077 |
 | de | 1,951 |
@@ -762,6 +762,7 @@ Here's a list of public Fediverse services.
 | `abramov.org` | No |
 | `abramson.dev` | No |
 | `abraum.de` | No |
+| `abrir.gal` | No |
 | `abrizero.fr` | No |
 | `abrody.com` | No |
 | `abscue.de` | No |
@@ -7137,6 +7138,7 @@ Here's a list of public Fediverse services.
 | `cygis.cf` | Yes |
 | `cygnan.com` | Yes |
 | `cygnoir.net` | No |
+| `cyhsu.xyz` | Yes |
 | `cyka.cf` | No |
 | `cylon.space` | No |
 | `cymaphore.net` | No |
@@ -28766,6 +28768,7 @@ Here's a list of public Fediverse services.
 | `ries-web.de` | No |
 | `riesen.fail` | No |
 | `rievo.net` | No |
+| `riffel.family` | No |
 | `riffic.rocks` | Yes |
 | `riffraff.info` | Yes |
 | `rigal.eu.org` | No |
@@ -35089,6 +35092,7 @@ Here's a list of public Fediverse services.
 | `tschunk.social` | Yes |
 | `tschuss.li` | No |
 | `tseivan.com` | No |
+| `tsellhorn.social` | No |
 | `tsia.de` | No |
 | `tsiopanos.social` | No |
 | `tsjirper.eu` | Yes |
@@ -38874,8 +38878,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,394 |
-| Normal | 29,437 |
+| Cloudflare | 9,395 |
+| Normal | 29,440 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
