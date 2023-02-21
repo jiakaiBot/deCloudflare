@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,779 |
-| social | 3,742 |
+| social | 3,743 |
 | net | 2,950 |
 | org | 2,076 |
 | de | 1,951 |
@@ -3553,7 +3553,7 @@ Here's a list of public Fediverse services.
 | `bidule.app` | No |
 | `bien-etre.social` | Yes |
 | `bien.ee` | No |
-| `biendeo.com` | No |
+| `biendeo.com` | Yes |
 | `bierochs.org` | No |
 | `bierschutzpartei.de` | No |
 | `bierzilla.fr` | No |
@@ -19930,6 +19930,7 @@ Here's a list of public Fediverse services.
 | `man-ya.asia` | No |
 | `mana-ka.com` | No |
 | `managingengineers.net` | Yes |
+| `manakeep.social` | No |
 | `manalejandro.com` | No |
 | `manateeth.club` | No |
 | `mancave.de` | No |
@@ -24426,7 +24427,7 @@ Here's a list of public Fediverse services.
 | `nsk.io` | No |
 | `nsnw.ca` | No |
 | `nsobj.com` | No |
-| `nspeaks.xyz` | No |
+| `nspeaks.xyz` | Yes |
 | `nspes.ca` | No |
 | `nssvc.top` | Yes |
 | `nstr.se` | No |
@@ -25245,6 +25246,7 @@ Here's a list of public Fediverse services.
 | `orc.social` | No |
 | `orc.zone` | No |
 | `orcaphant.cool` | No |
+| `orchestra.md` | No |
 | `orchid-cottage.uk` | No |
 | `orctavern.pub` | No |
 | `ord.social` | No |
@@ -30600,7 +30602,7 @@ Here's a list of public Fediverse services.
 | `shortens.net` | No |
 | `shortnote.jp` | No |
 | `shortshady.com` | No |
-| `shortstackran.ch` | No |
+| `shortstackran.ch` | Yes |
 | `shoshal.com` | No |
 | `shota.house` | No |
 | `shota.social` | Yes |
@@ -38851,8 +38853,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,383 |
-| Normal | 29,425 |
+| Cloudflare | 9,386 |
+| Normal | 29,424 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
