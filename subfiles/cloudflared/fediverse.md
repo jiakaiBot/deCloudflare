@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,781 |
 | social | 3,746 |
-| net | 2,951 |
+| net | 2,952 |
 | org | 2,077 |
 | de | 1,951 |
 
@@ -15902,6 +15902,7 @@ Here's a list of public Fediverse services.
 | `jakelazaroff.com` | Yes |
 | `jakepi.net` | No |
 | `jakereed.co.uk` | Yes |
+| `jakest.us` | Yes |
 | `jakewalker.social` | No |
 | `jakewharton.com` | No |
 | `jako.social` | Yes |
@@ -32320,6 +32321,7 @@ Here's a list of public Fediverse services.
 | `stratonauts.co` | Yes |
 | `strausmann.net` | Yes |
 | `straw.social` | Yes |
+| `strawberry-pudding.net` | Yes |
 | `strawhousepig.net` | No |
 | `strawjackal.org` | No |
 | `straybits.social` | Yes |
@@ -36685,7 +36687,7 @@ Here's a list of public Fediverse services.
 | `waimanu.io` | No |
 | `wairanokoya.com` | Yes |
 | `wakakyu.tk` | No |
-| `wakamesoba98.net` | No |
+| `wakamesoba98.net` | Yes |
 | `wakanda.social` | No |
 | `wakapo.com` | No |
 | `wake.st` | No |
@@ -38865,8 +38867,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,387 |
-| Normal | 29,435 |
+| Cloudflare | 9,390 |
+| Normal | 29,434 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
