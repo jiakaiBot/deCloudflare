@@ -258,6 +258,7 @@ fs.qaeval.com
 gisext.qfes.qld.gov.au
 goo.stage.qcsafety.xyz
 gsteam.queue-it.net
+help.amazone-2fa.authentification.qxcviv.com
 it.quoreitaliano.it
 keycloak.qwghlm.quantumflux.nl
 kohonjin.qb4byy.shop
@@ -265,6 +266,7 @@ oauth2.qwghlm.quantumflux.nl
 okta.quinstreet.com
 oktatas.qsec.hu
 pune.quikr.com
+qcsignscharlotte.com
 qebay.com
 qh88zalo.com
 qliktag.com
@@ -307,6 +309,7 @@ www.qcmfunds.com
 www.qespresso.kz
 www.qinetiq.com
 www.qip.id
+www.qldelectricalservicesteam.com.au
 www.qtips.com
 www.qualifiedgenealogists.org
 www.quantifyhealth.co
