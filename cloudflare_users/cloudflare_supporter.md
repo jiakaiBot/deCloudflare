@@ -4545,6 +4545,7 @@ Do not create new issue or we will close it as duplicate.
 | [izaznordin@twitter](https://twitter.com/izaznordin/status/1531691892940738560) | advertise |
 | [izggbet@twitter](https://twitter.com/izggbet/status/1552646027483955200) | advertise |
 | [IzherKhan1@twitter](https://twitter.com/IzherKhan1/status/1627031154892177408) | advertise |
+| [Izumi_Otsuki@twitter](https://twitter.com/Izumi_Otsuki/status/1627838448790024192) | advertise |
 | [izzanzahinwho@twitter](https://twitter.com/izzanzahinwho/status/1576417610723622912) | advertise |
 | [IZZY08644619@twitter](https://twitter.com/IZZY08644619/status/1391758790807097348) | advertise |
 | [izzymhr@twitter](https://twitter.com/izzymhr/status/1556715063511519233) | advertise |
@@ -8127,6 +8128,7 @@ Do not create new issue or we will close it as duplicate.
 | [onepro202@twitter](https://twitter.com/onepro202/status/1396891095674535937) | advertise |
 | [OneSix@twitter](https://twitter.com/OneSix/status/1487221418337181697) | advertise |
 | [onethreenineon2@twitter](https://twitter.com/onethreenineon2/status/1377541859241644042) | advertise |
+| [OnHamza1828@twitter](https://twitter.com/OnHamza1828/status/1627851108675616768) | advertise |
 | [OniiTien@twitter](https://twitter.com/OniiTien/status/1387349185091960832) | advertise |
 | [Onim16321345@twitter](https://twitter.com/Onim16321345/status/1385246334161092619) | advertise |
 | [OnlineKolshi@twitter](https://twitter.com/OnlineKolshi/status/1625885503764430849) | advertise |
