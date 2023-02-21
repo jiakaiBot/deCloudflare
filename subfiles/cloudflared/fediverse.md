@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,781 |
 | social | 3,746 |
-| net | 2,952 |
+| net | 2,953 |
 | org | 2,077 |
 | de | 1,951 |
 
@@ -38284,6 +38284,7 @@ Here's a list of public Fediverse services.
 | `yorrike.com` | No |
 | `yorugatanokuni.com` | No |
 | `yosh.is` | No |
+| `yoshida2015.net` | No |
 | `yoshimov.com` | Yes |
 | `yoshimov.info` | No |
 | `yostme.com` | Yes |
@@ -38869,7 +38870,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,390 |
-| Normal | 29,435 |
+| Normal | 29,436 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
