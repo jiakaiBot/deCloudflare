@@ -5739,6 +5739,7 @@ Here's a list of public Fediverse services.
 | `cinematheque.social` | Yes |
 | `cinematheque.tube` | No |
 | `cinnamond.social` | No |
+| `cipay.ca` | No |
 | `cipherbliss.com` | No |
 | `cipherdogs.net` | No |
 | `cipioshouse.xyz` | Yes |
@@ -8469,7 +8470,7 @@ Here's a list of public Fediverse services.
 | `dnyfrs.io` | No |
 | `dnzm.nl` | No |
 | `do-crimes-be.gay` | No |
-| `doan.me` | No |
+| `doan.me` | Yes |
 | `dobbs.town` | No |
 | `dobergroup.org.ua` | Yes |
 | `doble.ee` | No |
@@ -38837,7 +38838,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,380 |
+| Cloudflare | 9,381 |
 | Normal | 29,414 |
 
 
