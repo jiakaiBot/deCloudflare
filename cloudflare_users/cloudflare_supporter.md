@@ -1779,6 +1779,7 @@ Do not create new issue or we will close it as duplicate.
 | [byzocker@twitter](https://twitter.com/byzocker/status/1574089902299533315) | advertise |
 | [B_15031998@twitter](https://twitter.com/B_15031998/status/1603078420464037890) | advertise |
 | [b_e_h_n_a_m_@twitter](https://twitter.com/b_e_h_n_a_m_/status/1588595056415424512) | advertise |
+| [c08981422@twitter](https://twitter.com/c08981422/status/1628076000461611009) | advertise |
 | [c09643643@twitter](https://twitter.com/c09643643/status/1385578671075840001) | advertise |
 | [c1e2dcd1b220469@twitter](https://twitter.com/c1e2dcd1b220469/status/1494467616425099264) | advertise |
 | [C80753171@twitter](https://twitter.com/C80753171/status/1537513388774785024) | advertise |
@@ -4263,6 +4264,7 @@ Do not create new issue or we will close it as duplicate.
 | [HuyQuan22034350@twitter](https://twitter.com/HuyQuan22034350/status/1473433972147310593) | advertise |
 | [huyquan33416426@twitter](https://twitter.com/huyquan33416426/status/1471381418114650116) | advertise |
 | [Huyrua1231@twitter](https://twitter.com/Huyrua1231/status/1388672136244465667) | advertise |
+| [huyssame@twitter](https://twitter.com/huyssame/status/1628081025900507136) | advertise |
 | [huytoppp@twitter](https://twitter.com/huytoppp/status/1600017930267201536) | advertise |
 | [Huytrankm@twitter](https://twitter.com/Huytrankm/status/1552161221532876800) | advertise |
 | [Huyytr_@twitter](https://twitter.com/Huyytr_/status/1552993398990131200) | advertise |
@@ -10550,8 +10552,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
@@ -11075,6 +11077,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrongDaotran1@twitter](https://twitter.com/TrongDaotran1/status/1626236783502700547) | advertise |
 | [trongkimtran@twitter](https://twitter.com/trongkimtran/status/1376771803389915136) | advertise |
 | [TrongLe43169710@twitter](https://twitter.com/TrongLe43169710/status/1487900755776311297) | advertise |
+| [trongng81321249@twitter](https://twitter.com/trongng81321249/status/1628090261392990208) | advertise |
 | [TrongNg81459215@twitter](https://twitter.com/TrongNg81459215/status/1400108623376707585) | advertise |
 | [TrongTa54508026@twitter](https://twitter.com/TrongTa54508026/status/1392741752461725698) | advertise |
 | [TrongTh89348240@twitter](https://twitter.com/TrongTh89348240/status/1383966127752060940) | advertise |
