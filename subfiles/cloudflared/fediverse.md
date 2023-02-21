@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,778 |
-| social | 3,735 |
+| com | 5,779 |
+| social | 3,742 |
 | net | 2,950 |
 | org | 2,076 |
 | de | 1,951 |
@@ -1834,6 +1834,7 @@ Here's a list of public Fediverse services.
 | `annakirche.at` | No |
 | `annathepiper.org` | No |
 | `annetteschwindt.de` | No |
+| `annihilation.social` | No |
 | `anniqa.com` | No |
 | `annleckie.com` | No |
 | `anno79.de` | No |
@@ -3764,6 +3765,7 @@ Here's a list of public Fediverse services.
 | `bitsof.tech` | No |
 | `bitstick.rip` | Yes |
 | `bitsuppe.de` | No |
+| `bitten2up.dev` | No |
 | `bitterhusk.net` | No |
 | `bitterswede.com` | No |
 | `bittube.app` | No |
@@ -7397,6 +7399,7 @@ Here's a list of public Fediverse services.
 | `darkduck.xyz` | No |
 | `darkest-timeline.com` | No |
 | `darkesttimeline.social` | No |
+| `darkflame.dev` | Yes |
 | `darkfriend.social` | No |
 | `darkfuture.social` | No |
 | `darkgeek.city` | No |
@@ -8962,6 +8965,7 @@ Here's a list of public Fediverse services.
 | `dunkelschunkel.de` | No |
 | `dunnette.us` | No |
 | `dunsmore.me` | No |
+| `duong.social` | No |
 | `dup.space` | Yes |
 | `dupeuple.fr` | No |
 | `duplos.org` | No |
@@ -11180,6 +11184,7 @@ Here's a list of public Fediverse services.
 | `flying-snail.de` | No |
 | `flyingburri.to` | Yes |
 | `flyingcube.tech` | No |
+| `flyingdingo.social` | No |
 | `flyingmou.se` | No |
 | `flyingsquirrel.ca` | No |
 | `flynn.me.uk` | Yes |
@@ -11750,6 +11755,7 @@ Here's a list of public Fediverse services.
 | `fryntiz.cloud` | No |
 | `fs.al` | No |
 | `fsam.one` | No |
+| `fsc.rocks` | No |
 | `fsch.dev` | Yes |
 | `fschl-co.de` | No |
 | `fsci.in` | No |
@@ -18911,6 +18917,7 @@ Here's a list of public Fediverse services.
 | `lio.one` | No |
 | `liolok.com` | Yes |
 | `lion.land` | No |
+| `lioncourt.social` | No |
 | `lipanisecurity.com` | No |
 | `lipn.info` | No |
 | `lipsia.casa` | No |
@@ -19449,6 +19456,7 @@ Here's a list of public Fediverse services.
 | `luke256.dev` | Yes |
 | `lukeaddison.com` | No |
 | `lukec.me` | Yes |
+| `lukehasa.bike` | No |
 | `lukehebb.com` | No |
 | `lukeleppan.com` | No |
 | `lukem.net` | Yes |
@@ -22265,6 +22273,7 @@ Here's a list of public Fediverse services.
 | `mosqueeto.net` | No |
 | `moss.church` | No |
 | `moss.haus` | No |
+| `mossferatu.monster` | No |
 | `mossou.com` | No |
 | `mossrc.me` | No |
 | `mossymaker.com` | No |
@@ -23891,6 +23900,7 @@ Here's a list of public Fediverse services.
 | `ninetails.click` | Yes |
 | `nineties.cafe` | No |
 | `ninetiesmysteri.es` | No |
+| `nineworlds.social` | No |
 | `ningen.one` | No |
 | `ninja.social` | No |
 | `ninjacool.com` | No |
@@ -26768,6 +26778,7 @@ Here's a list of public Fediverse services.
 | `plx.chat` | No |
 | `plyuk.rocks` | No |
 | `plzpet.dog` | No |
+| `pmai.social` | No |
 | `pmdcollab.org` | No |
 | `pmhcvn.com` | No |
 | `pmj.rocks` | No |
@@ -34896,6 +34907,7 @@ Here's a list of public Fediverse services.
 | `trex.cafe` | No |
 | `treyground.dev` | Yes |
 | `treyssatvincent.fr` | No |
+| `trg.social` | Yes |
 | `tri.cash` | Yes |
 | `triangle.social` | No |
 | `triangleidiot.online` | No |
@@ -36477,6 +36489,7 @@ Here's a list of public Fediverse services.
 | `volya.xyz` | No |
 | `volzel.net` | No |
 | `von.zone` | No |
+| `vonhaller.com` | No |
 | `vonsee.de` | No |
 | `vonste.in` | No |
 | `voomer.co.ke` | No |
@@ -38838,8 +38851,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,381 |
-| Normal | 29,414 |
+| Cloudflare | 9,383 |
+| Normal | 29,425 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
