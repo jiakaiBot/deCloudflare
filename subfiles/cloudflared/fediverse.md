@@ -79,7 +79,7 @@ Here's a list of public Fediverse services.
 | `0px.io` | Yes |
 | `0q0.xyz` | No |
 | `0raptor.earth` | No |
-| `0sakana.xyz` | No |
+| `0sakana.xyz` | Yes |
 | `0sand1s.net` | Yes |
 | `0sint.social` | No |
 | `0sn.net` | Yes |
@@ -4278,6 +4278,7 @@ Here's a list of public Fediverse services.
 | `bostoncaucus.club` | No |
 | `bostonglobe.social` | Yes |
 | `bostonmusic.online` | No |
+| `bot.country` | No |
 | `bot.nu` | Yes |
 | `botany.social` | No |
 | `botdon.net` | No |
@@ -38873,7 +38874,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,393 |
+| Cloudflare | 9,394 |
 | Normal | 29,437 |
 
 
