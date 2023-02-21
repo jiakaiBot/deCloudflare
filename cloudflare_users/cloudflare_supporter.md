@@ -11888,6 +11888,7 @@ Do not create new issue or we will close it as duplicate.
 | [XxPoNaGeXx@twitter](https://twitter.com/XxPoNaGeXx/status/1383560559707049998) | advertise |
 | [Xxxxx41471542@twitter](https://twitter.com/Xxxxx41471542/status/1376932828768829440) | advertise |
 | [xylo_leavander3@twitter](https://twitter.com/xylo_leavander3/status/1393415201907634177) | advertise |
+| [xyzxyz93@twitter](https://twitter.com/xyzxyz93/status/1628033613056065539) | advertise |
 | [XZIST7@twitter](https://twitter.com/XZIST7/status/1393398464877268996) | advertise |
 | [XZIzIzcDqm5htEy@twitter](https://twitter.com/XZIzIzcDqm5htEy/status/1381304962840358914) | advertise |
 | [xzykho@twitter](https://twitter.com/xzykho/status/1374177504546619395) | advertise |
