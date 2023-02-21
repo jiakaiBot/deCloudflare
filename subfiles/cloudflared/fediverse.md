@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,783 |
+| com | 5,784 |
 | social | 3,748 |
 | net | 2,953 |
 | org | 2,077 |
@@ -23945,6 +23945,7 @@ Here's a list of public Fediverse services.
 | `nishimin.net` | Yes |
 | `nishinomiya.in.net` | No |
 | `nishiwaseda.net` | No |
+| `nislam.wiki` | Yes |
 | `niso.org` | No |
 | `nissenet.com` | No |
 | `nistkasten-dresden.de` | No |
@@ -38305,6 +38306,7 @@ Here's a list of public Fediverse services.
 | `youdabomb.social` | No |
 | `youdeserve.space` | No |
 | `youdieifyou.work` | No |
+| `youdofoo.com` | No |
 | `youfoh.xyz` | No |
 | `youhavewrites.social` | No |
 | `youhoo.fr` | No |
@@ -38878,8 +38880,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,395 |
-| Normal | 29,440 |
+| Cloudflare | 9,396 |
+| Normal | 29,441 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
