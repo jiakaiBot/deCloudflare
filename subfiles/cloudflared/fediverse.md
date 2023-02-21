@@ -32270,6 +32270,7 @@ Here's a list of public Fediverse services.
 | `storel.li` | No |
 | `storiesnotablog.com` | No |
 | `storkeus.xyz` | Yes |
+| `stormcloak.info` | No |
 | `stormdragon.tk` | No |
 | `stormgrass.com` | No |
 | `stormlight.space` | Yes |
@@ -38868,7 +38869,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,390 |
-| Normal | 29,434 |
+| Normal | 29,435 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
