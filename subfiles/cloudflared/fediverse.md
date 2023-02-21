@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,778 |
-| social | 3,734 |
+| social | 3,735 |
 | net | 2,950 |
 | org | 2,076 |
 | de | 1,951 |
@@ -28928,6 +28928,7 @@ Here's a list of public Fediverse services.
 | `rockosbasilisk.com` | Yes |
 | `rockpaperjelly.com` | Yes |
 | `rockprofile.com` | Yes |
+| `rockyroad.social` | Yes |
 | `rocu.de` | Yes |
 | `rodab.party` | No |
 | `rodacy.tv` | No |
@@ -38836,7 +38837,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,379 |
+| Cloudflare | 9,380 |
 | Normal | 29,414 |
 
 
