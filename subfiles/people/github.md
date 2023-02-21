@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Compiling schema doesn't work in Cloudflare Workers](https://github.com/polymath-ai/configuration/issues/1)
 - [Chore: investigate "redirected you too many times." error for app.dwyl.com](https://github.com/dwyl/app/issues/316)
 - [Can't subscribe to events for whatever reason](https://github.com/MrBrax/LiveStreamDVR/issues/412)
 - [Agent's subscriber losing ws connection to chaosCenter](https://github.com/litmuschaos/litmus/issues/3903)
