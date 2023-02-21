@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Chore: investigate "redirected you too many times." error for app.dwyl.com](https://github.com/dwyl/app/issues/316)
 - [Can't subscribe to events for whatever reason](https://github.com/MrBrax/LiveStreamDVR/issues/412)
 - [Agent's subscriber losing ws connection to chaosCenter](https://github.com/litmuschaos/litmus/issues/3903)
 - [Broken Link Detected](https://github.com/pingcap/docs/issues/12573)
