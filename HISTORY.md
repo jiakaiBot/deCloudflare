@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-03-01: [DUS (Düsseldorf) on 2023-03-01](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8wlpjtn475d6)
 - 2023-02-27: [DUS (Düsseldorf) on 2023-02-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pwwy5dch9py5)
 - 2023-02-24: [VIE (Vienna) on 2023-02-24](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2dyy2s02qr9n)
 - 2023-02-23: [NRT (Tokyo) on 2023-02-23](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7q5qbcn3b5vh)
