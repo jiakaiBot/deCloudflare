@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,784 |
-| social | 3,749 |
+| com | 5,785 |
+| social | 3,750 |
 | net | 2,953 |
 | org | 2,078 |
 | de | 1,951 |
@@ -15090,6 +15090,7 @@ Here's a list of public Fediverse services.
 | `im.im` | No |
 | `im.sb` | Yes |
 | `im20a0.com` | No |
+| `ima1zumi.com` | No |
 | `imaag.de` | No |
 | `imach.me` | Yes |
 | `imagazine.pl` | No |
@@ -30673,6 +30674,7 @@ Here's a list of public Fediverse services.
 | `shunrin.com` | Yes |
 | `shuuji3.xyz` | Yes |
 | `shuuten.org` | No |
+| `shyly.social` | No |
 | `shytrr.com` | Yes |
 | `si4-mstdn.xyz` | No |
 | `siass-loch.de` | No |
@@ -38887,7 +38889,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,401 |
-| Normal | 29,442 |
+| Normal | 29,444 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
