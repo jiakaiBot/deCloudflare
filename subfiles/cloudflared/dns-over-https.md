@@ -51,7 +51,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | alidns.com | No |
 | alloxr.info | No |
 | almir1904.eu | Yes |
-| aman.ltd | Yes |
 | ambiya.net | Yes |
 | amigo-mgn.ru | No |
 | amlegion.org | No |
@@ -61,7 +60,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | anoogohost.net | No |
 | apemlegit.my.id | No |
 | apigw.online | Yes |
-| applewebkit.dev | Yes |
 | armorrush.eu.org | No |
 | artikel10.org | No |
 | audet.cloud | No |
@@ -515,8 +513,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 222 |
+| Cloudflare | 220 |
 | Normal | 274 |
 
 
-### 44.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
