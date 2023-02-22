@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,791 |
-| social | 3,754 |
-| net | 2,954 |
-| org | 2,078 |
+| com | 5,792 |
+| social | 3,755 |
+| net | 2,955 |
+| org | 2,079 |
 | de | 1,951 |
 
 
@@ -6282,6 +6282,7 @@ Here's a list of public Fediverse services.
 | `complete.org` | No |
 | `completehostingguide.com` | No |
 | `completelysafe.download` | No |
+| `completext.com` | No |
 | `complexityweekend.xyz` | No |
 | `compositecomputer.club` | Yes |
 | `compostintraining.club` | No |
@@ -7590,6 +7591,7 @@ Here's a list of public Fediverse services.
 | `davsgarage.com` | No |
 | `davydepauw.social` | No |
 | `dawdle.space` | Yes |
+| `dawdling.net` | No |
 | `dawidpotocki.com` | Yes |
 | `dax.moe` | No |
 | `daydream.cafe` | No |
@@ -8231,6 +8233,7 @@ Here's a list of public Fediverse services.
 | `digitalcourage.social` | No |
 | `digitalcourage.video` | No |
 | `digitaldarkage.cc` | No |
+| `digitaldemocracies.org` | Yes |
 | `digitalesozialearbeit.de` | No |
 | `digitalesparadies.de` | No |
 | `digitalkr.am` | No |
@@ -13084,6 +13087,7 @@ Here's a list of public Fediverse services.
 | `gracehartford.org` | No |
 | `graceteng.me` | No |
 | `gracie-tech.tokyo` | No |
+| `graeber.social` | No |
 | `graeber.video` | No |
 | `graedener.com` | Yes |
 | `grafana.social` | Yes |
@@ -16029,6 +16033,7 @@ Here's a list of public Fediverse services.
 | `jasonscheirer.com` | No |
 | `jasonshawnclee.com` | No |
 | `jasonstryker.com` | No |
+| `jasper.land` | No |
 | `jastrow.me` | No |
 | `jatan.space` | Yes |
 | `jauer.it` | No |
@@ -23561,6 +23566,7 @@ Here's a list of public Fediverse services.
 | `nerdynate.app` | No |
 | `nerdynate.com` | Yes |
 | `nerdynate.live` | Yes |
+| `nerdzoom.media` | No |
 | `nere9.help` | No |
 | `nerfherders.io` | Yes |
 | `neria.link` | Yes |
@@ -38906,8 +38912,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,409 |
-| Normal | 29,454 |
+| Cloudflare | 9,410 |
+| Normal | 29,459 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
