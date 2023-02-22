@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-02-23: [NRT (Tokyo) on 2023-02-23](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7q5qbcn3b5vh)
 - 2023-02-22: [MXP (Milan) on 2023-02-22](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/q77qcmdrp4b9)
 - 2023-02-22: [ATL (Atlanta) on 2023-02-22](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hl2d8z468qmq)
 - 2023-02-23: [ICN (Seoul) on 2023-02-23](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0w6qt7ltwg3g)
