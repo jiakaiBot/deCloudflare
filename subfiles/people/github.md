@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [“The Trust Settings Record was corrupted”](https://github.com/volta-cli/volta/issues/1454)
 - [R2 Region Error](https://github.com/filecoin-project/filecoin-chain-archiver/issues/56)
 - [Compiling schema doesn't work in Cloudflare Workers](https://github.com/polymath-ai/configuration/issues/1)
 - [Chore: investigate "redirected you too many times." error for app.dwyl.com](https://github.com/dwyl/app/issues/316)
