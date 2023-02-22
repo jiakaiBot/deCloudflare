@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,790 |
 | social | 3,751 |
-| net | 2,953 |
+| net | 2,954 |
 | org | 2,078 |
 | de | 1,951 |
 
@@ -5754,7 +5754,7 @@ Here's a list of public Fediverse services.
 | `cipherbliss.com` | No |
 | `cipherdogs.net` | No |
 | `cipioshouse.xyz` | Yes |
-| `ciprit.com` | No |
+| `ciprit.com` | Yes |
 | `circl.lu` | No |
 | `circl.social` | No |
 | `circle.lt` | Yes |
@@ -8035,6 +8035,7 @@ Here's a list of public Fediverse services.
 | `deviltracks.net` | No |
 | `devinberg.com` | Yes |
 | `devinck.eu` | No |
+| `devincow.net` | No |
 | `devinemarsa.com` | No |
 | `devinstance.de` | No |
 | `devio.us` | No |
@@ -21908,7 +21909,7 @@ Here's a list of public Fediverse services.
 | `mlejnas.com` | No |
 | `mlhangout.social` | No |
 | `mlmie.net` | No |
-| `mlny.info` | Yes |
+| `mlny.info` | No |
 | `mlpol.net` | Yes |
 | `mls20.de` | No |
 | `mlsskey.io` | No |
@@ -38900,7 +38901,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,407 |
-| Normal | 29,449 |
+| Normal | 29,450 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
