@@ -4158,6 +4158,7 @@ Do not create new issue or we will close it as duplicate.
 | [HuaweiY55388310@twitter](https://twitter.com/HuaweiY55388310/status/1396889296347402242) | advertise |
 | [hucklebberryy@twitter](https://twitter.com/hucklebberryy/status/1396743405867204611) | advertise |
 | [HudaShom@twitter](https://twitter.com/HudaShom/status/1390342722960035840) | advertise |
+| [hudsonforensics@twitter](https://twitter.com/hudsonforensics/status/1628240413994758145) | advertise |
 | [huebs@twitter](https://twitter.com/huebs/status/1486424384369664001) | advertise |
 | [Huenz2021@twitter](https://twitter.com/Huenz2021/status/1395243727929577476) | advertise |
 | [HugeBananaZZ@twitter](https://twitter.com/HugeBananaZZ/status/1394272864786817028) | advertise |
