@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,784 |
 | social | 3,748 |
 | net | 2,953 |
-| org | 2,077 |
+| org | 2,078 |
 | de | 1,951 |
 
 
@@ -12624,6 +12624,7 @@ Here's a list of public Fediverse services.
 | `gigant.social` | Yes |
 | `gigantos.net` | Yes |
 | `gigaohm.bio` | No |
+| `gigarange.org` | Yes |
 | `giggle.army` | No |
 | `giggleplex.red` | No |
 | `giggly.de` | No |
@@ -38880,7 +38881,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,396 |
+| Cloudflare | 9,397 |
 | Normal | 29,441 |
 
 
