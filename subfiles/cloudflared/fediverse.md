@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,790 |
+| com | 5,791 |
 | social | 3,754 |
 | net | 2,954 |
 | org | 2,078 |
@@ -16200,6 +16200,7 @@ Here's a list of public Fediverse services.
 | `jetnet.social` | No |
 | `jetspire.com` | No |
 | `jetstream.watch` | Yes |
+| `jetzou.com` | No |
 | `jeunesse.media` | No |
 | `jeuseweeder.xyz` | No |
 | `jeuxthemes.ch` | No |
@@ -38906,7 +38907,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,409 |
-| Normal | 29,453 |
+| Normal | 29,454 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
