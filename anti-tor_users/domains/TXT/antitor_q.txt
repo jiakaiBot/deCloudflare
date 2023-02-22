@@ -244,6 +244,7 @@ accountmanager.queue-it.net
 amazon-rfdgh.qpoe.com
 api.node1.qnix.pl
 api.os.qiku.com
+api.qlcb.vn
 api.qv-veeva.com
 blog.quest.com
 cdn.quarry.com
@@ -262,6 +263,7 @@ help.amazone-2fa.authentification.qxcviv.com
 it.quoreitaliano.it
 keycloak.qwghlm.quantumflux.nl
 kohonjin.qb4byy.shop
+mail.quirsa.com
 oauth2.qwghlm.quantumflux.nl
 okta.quinstreet.com
 oktatas.qsec.hu
@@ -315,6 +317,7 @@ www.qualifiedgenealogists.org
 www.quantifyhealth.co
 www.quantumsafety.com.sg
 www.quarantashipping.com
+www.quarlesconsultinggroup.com
 www.quatuor-hermes.com
 www.quebecdettes.ca
 www.queenbeedisabilitysupport.com
