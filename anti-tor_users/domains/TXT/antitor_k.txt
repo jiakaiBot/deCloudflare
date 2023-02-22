@@ -654,7 +654,6 @@ adminservice-3ds2.kasikornbank.com
 adms.kingsms.ws
 advancehappynewyear2016.com.kodowe.pl
 ae907.keap-link002.com
-aimg.kwcdn.com
 amp.kansas.com
 amp.kansascity.com
 api-discord.katou.ovh
@@ -1448,10 +1447,12 @@ www.violetbirthdayservice.konyvtipp.hu
 youtrack.cld.kokoc.tech
 zoul.konnten-suchbegriff-treffer-finden.top
 abrechnung.kbstn.io
+adcs.kering.com
 advogadoscordeiro.klinstalacaoemanutencao.com
 alert.kramerundcrew.de
 api-mobile.kashan.ir
 api.stg-1.klouser.com
+apiservices.krxd.net
 app.kingnetsmart.com.tw
 argentum.keenetic.pro
 argocd.live.karkinos.in
@@ -1509,6 +1510,8 @@ email.kmart.com.au
 en.kymteknikyapi.com
 etherpad.kagolug.org
 evaheissenhuber.klimba.ch
+finportal.imf.kaspersky.net
+form.kkj-st.go.jp
 forum.konchangfuns.com
 fr859.keap-link008.com
 fr859.keap-link017.com
@@ -1586,6 +1589,7 @@ key3.co.jp
 kfz-reifen-service-mandl.at
 kfz-service-kalkstein.de
 kharideappleid.com
+khawamts.com
 kidd.com
 kidsforthebay.org
 kilderent.no
@@ -1602,6 +1606,7 @@ kinoklubsplit.hr
 kinshipengineering.com
 kirahub.org
 kismetbagels.com
+kissteam.fi
 kisstom.ru
 kitegolpe.com
 kitesurfing-croatia.com.hr
@@ -1627,8 +1632,10 @@ kogi00.kogi.fr
 kokodaproperty.com.au
 kokoroblog0812.com
 kolibriartgallery.com
+komisbah.com
 komkanafricana.ca
 konotop-rada.gov.ua
+kontakmee.my.id
 kontaktregisteret.no
 konto-produkt.hr
 kontoryoga.no
@@ -1698,6 +1705,7 @@ oktatas.kinaiorvoslas.hu
 oktatas.kurzuscentrum.hu
 ov.kredit24.com
 owa.us.kpmg.com
+palovpn.kaszi.hu
 pandoblox.kahon.org
 paribahis.kuptopgos.com
 pay.kukicelebrations.com
@@ -1705,6 +1713,7 @@ pay2.koodomobile.com
 payment.kerenkraus.com
 polvpn.keenetic.link
 practice.kayswallet.com.ng
+prod-kgp-mobile2.kogopay.com
 puffy.kuistio.me
 pws-security.kiju.me
 quizland.kt.co.kr
@@ -1734,6 +1743,9 @@ sberbank.sber.avito.avito.avito.sber.covid19.karuseldetstva.ru
 sberbank.sber.avito.covid19.karuseldetstva.ru
 sberbank.sber.avito.sber.avito.avito.covid19.karuseldetstva.ru
 sberbank.sber.avito.sber.covid19.karuseldetstva.ru
+sberbank.sber.sber.avito.avito.covid19.kupit-banyu-38.ru
+sberbank.sber.sber.avito.avito.git.covid19.kupit-banyu-38.ru
+sberbank.sber.sber.blablacar.blablacar.covid19.kupit-banyu-38.ru
 shopify.kruskaroland.com
 shopruche.kmulder.nl
 signinauth-accountapp1e.kawneercelezat.com
@@ -1757,6 +1769,7 @@ tuko.integration.kalambagames.com
 twitch.kouna.io
 uag-p.k-business-emm-rmt.jp
 uat01.kasikornasset.com
+uber.kellerlenkner.co.uk
 ucenterclouddev.kasikornbank.com
 ucenterclouduat.kasikornbank.com
 updates.kaleidoscope.app
@@ -1811,9 +1824,11 @@ www.client.kelarhost.com
 www.clients.kennedypc.com
 www.coclass.kravportal.se
 www.commonwealth-quartet.ksgsc.org
+www.contoh.kampung-digital.com
 www.contoh.khanzatraveltour.com
 www.control.koros.se
 www.dev.kravmagasofia.com
+www.ekarmika.karnataka.gov.in
 www.espace-client.kwsecurity.fr
 www.event.kbconnection.store
 www.facebook.kecskemetiszatyor.hu
@@ -1880,6 +1895,7 @@ www.kbcapitalrealty.com
 www.kbcinderauthor.com
 www.kbcls.org
 www.kbcom.kreativabyran.se
+www.kbconsultingforher.com
 www.kbconsultingsd.com
 www.kbcreations4u.net
 www.kbcreativeny.com
@@ -1904,6 +1920,7 @@ www.kevinvendgaranti.ca
 www.keyence.co.in
 www.keyence.com.my
 www.keyence.com.sg
+www.keyence.com.tw
 www.keyence.eu
 www.keysightvnachallenge.com
 www.kfc.pt
@@ -1935,6 +1952,7 @@ www.kjell.com
 www.kk-kokusai.com
 www.klangzauber.at
 www.klausrohrhuber.de
+www.klempnerservice-frankfurt.de
 www.klientocentryczni.piotrekd.kylos.pl
 www.klimaservisairsolution.rs
 www.klm.ie
@@ -1974,6 +1992,7 @@ www.krakenmy.com
 www.krakenskullz.com
 www.krakensudsco.com
 www.krakenxgraphix.com
+www.kravmaga-polnoc.pl.szel.kylos.pl
 www.kravmagakapap.pl
 www.kreaciti.com
 www.kredifaizbanka.com
@@ -2041,6 +2060,8 @@ www.odtruwanie.com.ssosii.kylos.pl
 www.okesender.klikbank.net
 www.oktatas.kinaiorvoslas.hu
 www.oktatas.kurzuscentrum.hu
+www.payment.kontakmee.my.id
+www.payment.koslanda.com
 www.payment.kscf.org
 www.pohjolansalaoja.khppalvelu.fi
 www.postingviral.com.kaktusberita.com
@@ -2080,6 +2101,7 @@ www.uitmsarawakbooking.com.kaib.com.my
 www.usuarios.katana-trader.store
 www.verify-trustwallet.kehpca.org
 www.vodafone.ko-ro.net
+www.wallet.kruskaroland.com
 www.whatsapp-blast.kscmotor.id
 www.whatsapp.kart.my
 www.whatsapp.kkdclient.site
@@ -2090,6 +2112,7 @@ xh186.keap-link012.com
 yr789.keap-link013.com
 za.kompass.com
 zero-gateway.dev.kubershmuber.com
+zunastatic-abf.kxcdn.com
 377.pr.stater.nl.kiwicloud.nl
 381.pr.stater.nl.kiwicloud.nl
 382.pr.stater.nl.kiwicloud.nl
