@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,785 |
+| com | 5,789 |
 | social | 3,750 |
 | net | 2,953 |
 | org | 2,078 |
@@ -615,6 +615,7 @@ Here's a list of public Fediverse services.
 | `91stack.com` | No |
 | `91video.online` | Yes |
 | `91x.gg` | Yes |
+| `940213.xyz` | Yes |
 | `9478.ch` | No |
 | `98degrees.co.uk` | Yes |
 | `999983.xyz` | No |
@@ -20892,6 +20893,7 @@ Here's a list of public Fediverse services.
 | `maximesrd.ovh` | No |
 | `maximus.uy` | No |
 | `maxlaumeister.com` | No |
+| `maxmaxmaxmaxmax.com` | Yes |
 | `maxmazz.com` | No |
 | `maxocull.com` | No |
 | `maxodon.com` | No |
@@ -22509,6 +22511,7 @@ Here's a list of public Fediverse services.
 | `mstdn-politics.com` | No |
 | `mstdn-pso2.online` | No |
 | `mstdn-scc.jp` | No |
+| `mstdn-seelsorge.com` | No |
 | `mstdn-server.jp` | No |
 | `mstdn-shinshu.com` | No |
 | `mstdn-tech.jp` | No |
@@ -23108,6 +23111,7 @@ Here's a list of public Fediverse services.
 | `nagekar.com` | Yes |
 | `naggel.com` | No |
 | `naghdbishi.ir` | No |
+| `nagi.fan` | Yes |
 | `nagichan.page` | No |
 | `nagito.net` | Yes |
 | `nagoyadon.jp` | Yes |
@@ -32810,6 +32814,7 @@ Here's a list of public Fediverse services.
 | `synaps.space` | Yes |
 | `synapse.cafe` | No |
 | `synapthein.org` | No |
+| `synatopia.fr` | No |
 | `syncloud.it` | No |
 | `syncpundit.io` | Yes |
 | `syndae.de` | No |
@@ -34123,6 +34128,7 @@ Here's a list of public Fediverse services.
 | `thomasdmn.net` | No |
 | `thomashaley.net` | Yes |
 | `thomashaley.social` | No |
+| `thomasholland.uk` | Yes |
 | `thomasjaggi.ch` | No |
 | `thomasjpr.social` | Yes |
 | `thomasknoll.info` | No |
@@ -37214,6 +37220,7 @@ Here's a list of public Fediverse services.
 | `wilde.cloud` | No |
 | `wildebeest.social` | Yes |
 | `wildeboer.net` | No |
+| `wildhawkfield.com` | No |
 | `wildparadox.com` | No |
 | `wildsplash.photography` | No |
 | `wildsurf.net` | No |
@@ -38676,6 +38683,7 @@ Here's a list of public Fediverse services.
 | `zhoal.pw` | Yes |
 | `zholnay.name` | Yes |
 | `zhongguotese.net` | Yes |
+| `zhoushen929.com` | Yes |
 | `zhub.link` | No |
 | `zhuravel.bz` | Yes |
 | `zhz.moe` | Yes |
@@ -38888,8 +38896,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,401 |
-| Normal | 29,444 |
+| Cloudflare | 9,406 |
+| Normal | 29,447 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
