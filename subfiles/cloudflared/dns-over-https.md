@@ -51,7 +51,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | alidns.com | No |
 | alloxr.info | No |
 | almir1904.eu | Yes |
-| alpo.pp.ua | Yes |
 | aman.ltd | Yes |
 | ambiya.net | Yes |
 | amigo-mgn.ru | No |
@@ -64,7 +63,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | apigw.online | Yes |
 | applewebkit.dev | Yes |
 | armorrush.eu.org | No |
-| art-nas.pp.ua | Yes |
 | artikel10.org | No |
 | audet.cloud | No |
 | avastdns.com | No |
@@ -245,7 +243,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hoover.eu.org | No |
 | hopto.org | Yes |
 | hostux.net | No |
-| hottis.de | No |
 | huque.com | No |
 | i2pd.xyz | No |
 | i81.ru | No |
@@ -370,7 +367,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nhtsky.com | Yes |
 | nic.cz | No |
 | nic.lv | No |
-| nielsvoorn.nl | No |
 | niyawe.de | No |
 | njal.la | No |
 | noaddns.com | No |
@@ -388,7 +384,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nullrecon.com | Yes |
 | o1.lt | Yes |
 | ofdoom.net | Yes |
-| ondrejsramek.cz | No |
 | onedns.cc | Yes |
 | onedns.net | No |
 | ooroot.com | No |
@@ -451,7 +446,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | spectrum.com | Yes |
 | spil.co.id | Yes |
 | ssrahul96.xyz | Yes |
-| stackpathcdn.com | No |
 | startupstack.tech | Yes |
 | stvsk.ml | No |
 | surfshark.com | Yes |
@@ -521,8 +515,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 224 |
-| Normal | 278 |
+| Cloudflare | 222 |
+| Normal | 274 |
 
 
-### 44.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
