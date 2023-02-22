@@ -926,6 +926,7 @@ Here's a list of public Fediverse services.
 | `adforward.org` | No |
 | `adg.tech` | No |
 | `adhd.energy` | Yes |
+| `adhd.stream` | No |
 | `adhdthings.social` | No |
 | `adhoc.group` | No |
 | `adhoc.systems` | No |
@@ -16043,6 +16044,7 @@ Here's a list of public Fediverse services.
 | `jawa.moe` | Yes |
 | `jawns.club` | No |
 | `jaws-ug.okinawa` | No |
+| `jawsh.xyz` | No |
 | `jawshoeadan.me` | Yes |
 | `jax.social` | No |
 | `jaxbeach.social` | No |
@@ -38882,7 +38884,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,397 |
-| Normal | 29,441 |
+| Normal | 29,443 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
