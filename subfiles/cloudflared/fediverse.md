@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,784 |
-| social | 3,748 |
+| social | 3,749 |
 | net | 2,953 |
 | org | 2,078 |
 | de | 1,951 |
@@ -8024,6 +8024,7 @@ Here's a list of public Fediverse services.
 | `deveth0.de` | No |
 | `devfs.xyz` | No |
 | `devgeek.io` | Yes |
+| `devhonk.tk` | Yes |
 | `devianze.city` | No |
 | `device5.co.uk` | No |
 | `devil-children-alitaso.com` | Yes |
@@ -32991,7 +32992,7 @@ Here's a list of public Fediverse services.
 | `takimag.com` | Yes |
 | `takingalook.dev` | No |
 | `takiverse.tk` | No |
-| `tako774.net` | No |
+| `tako774.net` | Yes |
 | `takpika.jp` | Yes |
 | `taks.garden` | No |
 | `takuann.net` | Yes |
@@ -33981,7 +33982,7 @@ Here's a list of public Fediverse services.
 | `thetake.zone` | No |
 | `thetalestable.com` | No |
 | `thetalkingproject.org` | No |
-| `thetaoist.online` | No |
+| `thetaoist.online` | Yes |
 | `thetarecords.de` | No |
 | `thetavern.social` | No |
 | `theteamtrauma.com` | No |
@@ -35537,6 +35538,7 @@ Here's a list of public Fediverse services.
 | `uk.to` | Yes |
 | `ukd.social` | Yes |
 | `ukese.me` | No |
+| `ukgb.social` | Yes |
 | `ukhwah.org` | No |
 | `ukiyo.cafe` | No |
 | `ukka.xyz` | No |
@@ -38884,8 +38886,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,397 |
-| Normal | 29,444 |
+| Cloudflare | 9,401 |
+| Normal | 29,442 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
