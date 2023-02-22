@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,790 |
-| social | 3,751 |
+| social | 3,754 |
 | net | 2,954 |
 | org | 2,078 |
 | de | 1,951 |
@@ -8539,6 +8539,7 @@ Here's a list of public Fediverse services.
 | `dogsports.social` | No |
 | `dogwhipping.day` | No |
 | `dogwonder.co.uk` | No |
+| `doherty.social` | No |
 | `doingmyp.art` | No |
 | `doingtheir.best` | No |
 | `doingyourmom.club` | No |
@@ -11398,7 +11399,7 @@ Here's a list of public Fediverse services.
 | `foxxo.gay` | Yes |
 | `foxyhole.io` | Yes |
 | `foxylo.xyz` | No |
-| `fozztexx.com` | No |
+| `fozztexx.com` | Yes |
 | `fpfle.de` | No |
 | `fpga.style` | No |
 | `fpl.social` | No |
@@ -12821,6 +12822,7 @@ Here's a list of public Fediverse services.
 | `gmem.ca` | Yes |
 | `gmr.news` | No |
 | `gn-tronics.dev` | No |
+| `gnarfhead.social` | No |
 | `gnarlen.us` | Yes |
 | `gndec.ac.in` | No |
 | `gndh.net` | No |
@@ -34369,6 +34371,7 @@ Here's a list of public Fediverse services.
 | `tmichellemoore.com` | No |
 | `tmin.cf` | No |
 | `tmin.ml` | No |
+| `tmint.social` | No |
 | `tmkis.cloud` | No |
 | `tmkis.social` | No |
 | `tmm.cx` | No |
@@ -34937,6 +34940,7 @@ Here's a list of public Fediverse services.
 | `trendcreate.net` | No |
 | `trendless.ca` | Yes |
 | `trenkner.net` | No |
+| `tresmos.wtf` | Yes |
 | `tret.jp` | Yes |
 | `tretkowski.de` | No |
 | `treuchtlingen.de` | No |
@@ -35545,6 +35549,7 @@ Here's a list of public Fediverse services.
 | `uhouho.xyz` | Yes |
 | `uiae.at` | No |
 | `uilleann.pizza` | Yes |
+| `uir.org.uk` | No |
 | `uiuxdev.social` | Yes |
 | `uji.es` | No |
 | `uk.to` | Yes |
@@ -38900,8 +38905,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,407 |
-| Normal | 29,450 |
+| Cloudflare | 9,409 |
+| Normal | 29,453 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
