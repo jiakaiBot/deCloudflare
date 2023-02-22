@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [!history and set_title stopped working](https://github.com/mmabrouk/chatgpt-wrapper/issues/133)
+- [!history and set_title stopped working](https://github.com/mmabrouk/chatgpt-wrapper/issues/132)
+- [api is outdated?](https://github.com/shashankktiwariii/anikatsu/issues/6)
 - [Vanilla install failed at getting lat/lon, ifconfig.co/json is presenting a cloudflare bot challenge](https://github.com/mcguirepr89/BirdNET-Pi/issues/756)
 - [Flaresolverr does not work](https://github.com/FlareSolverr/FlareSolverr/issues/709)
 - [Fix this source novelsemperor](https://github.com/dipu-bd/lightnovel-crawler/issues/1897)
