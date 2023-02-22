@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,789 |
-| social | 3,750 |
+| com | 5,790 |
+| social | 3,751 |
 | net | 2,953 |
 | org | 2,078 |
 | de | 1,951 |
@@ -3197,6 +3197,7 @@ Here's a list of public Fediverse services.
 | `bbq.golf` | No |
 | `bbqmasters.life` | No |
 | `bbrks.me` | Yes |
+| `bbs.casa` | No |
 | `bbs3k.com` | No |
 | `bbsn.ca` | Yes |
 | `bbw.network` | No |
@@ -17539,6 +17540,7 @@ Here's a list of public Fediverse services.
 | `knowingart.com` | No |
 | `knowltonwx.com` | Yes |
 | `knowscore.de` | No |
+| `knowscore.social` | No |
 | `knowsima.dog` | Yes |
 | `knoxodon.com` | No |
 | `knoyism.net` | No |
@@ -23759,6 +23761,7 @@ Here's a list of public Fediverse services.
 | `ngen15.tv` | Yes |
 | `ngeredwolf.me` | Yes |
 | `nghieng.net` | Yes |
+| `ngmx.com` | Yes |
 | `ngndn.jp` | No |
 | `ngonbay.com` | No |
 | `ngrok.io` | No |
@@ -38896,8 +38899,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,406 |
-| Normal | 29,447 |
+| Cloudflare | 9,407 |
+| Normal | 29,449 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
