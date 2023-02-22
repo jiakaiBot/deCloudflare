@@ -1703,10 +1703,12 @@ zine.lechantdesmuses.fr
 8e6f63ac-8502178b.lnvestcloud.com
 absipdate.us-east-1.linodeobjects.com
 acc.easyfunders.leiden.nl
+accor-member-provisioning-api-test.loyaltfacts.com
 account.ltropix.com
 accounts.liff.dev
 adfs.luc.fi
 admin.invoice.luciditv.com
+admin.meridiandev2.levisssd.com
 alwatanya.lbp-support.com
 amazon-grertrk.longmusic.com
 amazon-ngsdg.lflinkup.com
@@ -1765,6 +1767,7 @@ curations-assets.lvmh.clienteling.lvmhda.com
 da9c43f6-7061c2ec.lamwo.go.ug
 dac-api-01.emea.luware.cloud
 dadata.plugins.lvrtx.com
+darna-card-linking-web-sdk.loyaltfacts.com
 darna-partner-test.loyaltfacts.com
 darna-visa-vop-gateway-test.loyaltfacts.com
 de.leniahauser.de
@@ -1773,6 +1776,7 @@ deliveries.locai.io
 demo-cci.logement.com
 dev-bloc.luismarialopez.es
 dev.lesan.io
+directaccess.lerum.se
 dleejackson.lbjackson.com
 dlrkeys.dr.linkats.com
 docusign.us-southeast-1.linodeobjects.com
@@ -1791,6 +1795,7 @@ emeasep.luxottica.com
 en.lassiette4saisons.fr
 en.leniahauser.de
 erichsenhunt2.livejournal.com
+es.lifestyleplanninggroup.net
 espaceclient.lesopticiensmobiles.com
 etc-darewr.longmusic.com
 etc-dfagre.longmusic.com
@@ -1815,6 +1820,7 @@ ghs.googlehosted.com.loimaa-airsoft.com
 git.gitlab.gitlab.gitlab.m.blog.store.lyubovbiryukova.com
 gitlab.git.git.gitlab.gitlab.itest.lenmar.name
 gitlab.k8s-restore.lhindts.io
+gizmopayment.link2lenders.com
 hvezxgwluyna8ddl.blog.amazon.com.lonewolf.net
 icloud.loginfinds.us
 idp.lowell.io
@@ -1832,6 +1838,7 @@ labellaperfumes.com
 labenini.com.br
 lacafeteriadelinkedin.com
 laconfiance-asso.fr
+laesquinatx.com
 lafaweb.com.br
 lagoon2626.com
 lah.li
@@ -1840,10 +1847,12 @@ lambic.org
 laminexsampleservice.laminex.com.au
 lammphoto.com
 lancasternationalbank.com
+lanceapple.ml
 landmark-creditunion.com
 langeland-labservice.no
 lapakservice.com
 lapistalasmimicici.com
+laresso.shop
 larvatus.livejournal.com
 las-3d.com
 latitudeunlock.com
@@ -1878,6 +1887,7 @@ legalbrandmarketing.leadportal.com
 legislation.govt.nz
 legitcryptominers.online
 leicesterbookbindinggroup.org
+leicestercounsellingcentre.co.uk
 lenvi.com
 leolagrange-vieasso.fr
 leopoldapple.ml
@@ -1889,6 +1899,7 @@ lfp-totalservice.dk
 lfx07.com
 lgmachinepro.com
 lhhc.org
+lhvcbooking.com
 liberalsarecool.com
 librus.co.jp
 licarenote.jp
@@ -1938,6 +1949,7 @@ login-dkb.com
 login-universo.org
 logistikkgp.my.id
 lojakidsdelivery.com.br
+lojaotendisconto.shop
 lokalewallet.com
 lokalnenovineobrenovac.com
 loker-sragen.com
@@ -1999,6 +2011,9 @@ pay.luckylaycee.com
 phpmyadmin.luiscordero29.com
 pic.latvijasradio.lv
 pinkfloyd.lnk.to
+portal-digital.lpages.co
+portal.liveop24.com
+postimages.lucasvandorp.nl
 prod.covid2.trial.lainaent.com
 prod.crm.lmc.cz
 projects.landartgenerator.org
@@ -2012,7 +2027,9 @@ px.ladsp.com
 qdfzxsstjgdssrwgisnhwtmwkxsydwetfkrnuptmzrfqvwcgyxnpqimysvdtflb.us-east-1.linodeobjects.com
 radhasoami.livejournal.com
 relaunch.schule.loveline.de
+release.luit.co.in
 review-users-edit-mly4al.cutest.stage.loftorbital.com
+rh-loyaltfacts-api-cde.loyaltfacts.com
 risk.lexisnexis.com
 s.launchmynft.io
 s.lemon8-app.com
@@ -2042,6 +2059,7 @@ shop.littlepopworkshop.com
 shop.lscontrol.dk
 si1.lunrac.com
 simplelogin.linuxbox.ninja
+single-sign-on.luminalearning-nonproduction.com
 sit09-dlp-secure-b.digital.wealth.lloydsbank.co.uk
 skyapi.onedrive.live.com
 slsp-skk.lpages.co
@@ -2115,6 +2133,7 @@ www.account.localtravel.ro
 www.account.ltropix.com
 www.accounts.larongresort.com
 www.accounts.livepractise.com
+www.admin.meridiandev2.levisssd.com
 www.allianz.llanofotografia.com
 www.alwatanya.lbp-support.com
 www.app.wift-gravity.icu.lent-delivery.site
@@ -2165,6 +2184,7 @@ www.git.git.git.git.gitlab.mail.nabchelny.lock-russia.ru
 www.gitlab.git.gitlab.k46gegbs6qabve5.sitemaps.labskings.com
 www.gitlab.gitlab.git.git.gitlab.gitlab.itest.lenmar.name
 www.gitlab.gitlab.git.git.m.blog.store.lyubovbiryukova.com
+www.gizmopayment.link2lenders.com
 www.gravitytest.logindesigns.com
 www.grizzlyfitness.linnebank.net
 www.hitachiservicecenterinkandivalieast.lgpointandheri.xyz
@@ -2187,6 +2207,7 @@ www.l.laseguridadeneltrabajo.com
 www.la-chaussure.fr
 www.la-vintage-paperback-show.com
 www.lab.listoparaentrega.com
+www.labelandfifth.com
 www.labnacaixa.com.br
 www.laboratoriodamulher.com.br
 www.lacandelatoulouse.fr
@@ -2223,6 +2244,8 @@ www.lascrucesprints.com
 www.lassiette4saisons.fr
 www.lasso-labo.com
 www.latinoitaliano.com
+www.latrobefcu.com
+www.lauber-partners.com
 www.lauragottschalk.com
 www.lauriegoldstein.co.il
 www.lavenderservice.co.za
@@ -2234,6 +2257,7 @@ www.lbs-fcu.org
 www.lcsportsandrec.com
 www.ldfleetmanager.co.uk
 www.ldnpost.co.uk
+www.leadingtechusa.com
 www.leak.pt
 www.leakz.guru
 www.leaserp.com
@@ -2333,6 +2357,7 @@ www.lloydsofessexremovals.co.uk
 www.lloydsofleavenworth.com
 www.lloydsphotography.net
 www.lloydsrepair.com
+www.lloydssupplies.co.uk
 www.lloydstationhollow.com
 www.lloydstudios.com
 www.lmis.gov.in
@@ -2354,6 +2379,7 @@ www.login-security-coinbase.com
 www.logitrack.ma
 www.lojaacredito.com.br
 www.lojakidsdelivery.com.br
+www.lojaotendisconto.shop
 www.londonautodetailing.com
 www.londoneducationsupply.co.uk
 www.longhornrecycling.com
@@ -2418,6 +2444,7 @@ www.rubii.logindesigns.com
 www.sber.sber.sberbank.avito.hrazrh7jid2qiia.www.rv.langmarket.com
 www.sber.sberbank.sber.sber.hrazrh7jid2qiia.www.rv.langmarket.com
 www.sber.sberbank.sberbank.hrazrh7jid2qiia.www.rv.langmarket.com
+www.sberbank.avito.blablacar.avito.www.xz5vjxqwfld2m7r.lamamine.com
 www.sberbank.avito.git.jm852dnh2vhrjnf.fnyql10f9hrld4z.mart.l2z.ru
 www.sberbank.blablacar.avito.sberbank.xz5vjxqwfld2m7r.lamamine.com
 www.sberbank.blablacar.fnyql10f9hrld4z.mart.l2z.ru
