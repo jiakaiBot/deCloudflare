@@ -14175,6 +14175,7 @@ Here's a list of public Fediverse services.
 | `higumadon.club` | No |
 | `higurashi.xyz` | Yes |
 | `hiimmilan.dev` | No |
+| `hijacked.download` | No |
 | `hijsselinckx.com` | No |
 | `hikali.work` | Yes |
 | `hikaruaikawa.com` | No |
@@ -38884,7 +38885,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,397 |
-| Normal | 29,443 |
+| Normal | 29,444 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
