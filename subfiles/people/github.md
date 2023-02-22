@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Fix this source novelsemperor](https://github.com/dipu-bd/lightnovel-crawler/issues/1897)
 - [使用 API3 时 504 错误信息刷屏](https://github.com/ikechan8370/chatgpt-plugin/issues/183)
 - [“The Trust Settings Record was corrupted”](https://github.com/volta-cli/volta/issues/1454)
 - [R2 Region Error](https://github.com/filecoin-project/filecoin-chain-archiver/issues/56)
