@@ -370,6 +370,7 @@ auth.yuncezhihui.com
 authori-adhgmin.yourtrap.com
 avito.sber.avito.git.git.git.covid19.youhollywood.com
 b99.yahoo.co.jp
+backend.ytadblock.com
 certificate.mobile.yandex.net
 chassis.yaw.co.jp
 cis.yokosuka-uwp-energy.jp
@@ -392,12 +393,14 @@ geniemobile.yesbank.in
 git.ya2.it
 github.iam-secret-scanner.yandexcloud.net
 gitlab.www.magento.slowboat.yatakeaway.com
+icert.yonsei.ac.kr
 joat.yuanta.com.tw
 knowledge.support.yahoo-net.jp
 login.youronlinecircle.com
 mailcenter.ydns.eu
 monitoring.yishan.io
 monitoring.ymc.ch
+oollltg.youdontcare.com
 pass.ysplay.cz
 portal.youforce.com
 pro.insurance.yesbank.in
@@ -458,6 +461,7 @@ www.yogacinquiemesaison.com
 www.yomalraha.com.sa
 www.yorbalindacaliforniatermitecontrol.com
 www.youngbloodtrilogy.com
+www.youngpeoplestheatre.org
 www.your-nitro.com
 www.yourbigsky.com
 www.yourc2cservice.com
@@ -470,6 +474,7 @@ www.ysl.com
 www.yukonxml.com
 www.yusupov-palace.ru
 www.yves-petit-assurances-bandol.fr
+yahoosupportyahoo.com
 yapicimobilya.com
 yapin.sch.id
 yapishasanuddin.com
