@@ -808,6 +808,7 @@ api-vo.jitsi.net
 autodiscover.jaimeoneilldentistry.com
 bloxnord.jlaasonen.fi
 bogensemurer.jfm360kunder.dk
+booking.jeanmadeline.edu
 caas.jaisonghisi.it
 cdn.discourse.beta.jamstud.io
 cloud.jascii.dev
@@ -832,6 +833,7 @@ diamondemail.jatesco.com
 discodyes.jillybilly.com
 discourse.jarbelix.tk
 discourse.jhome.page
+ecfr.jacando.io
 elearn.jscc.edu
 en.jorvisartbooking.com
 epcmg.josephbranthospital.ca
@@ -848,10 +850,12 @@ gitlab.new.blog.blog.store.redmine.junghanns.it
 gnulltest.outlook.jenbrial.com
 google.justflourish.co.uk
 guiafacebook.jsantos.pro
+gwordpress.www.outlook.jenbrial.com
 helpdesk.jatfw.com
 hermes.jumpstart.hu
 hrbc.jobs-dimples.net
 is.jasapropertyservice.com
+j-lantah.com
 jadebay-bbq.de
 jadeliver.com
 jaffabooking.com
@@ -929,6 +933,7 @@ julegavekortet.no
 julessherred.com
 julianopie.com
 julietkemp.com
+jungl.ist
 junglesafaribooking.in
 junkerhq.net
 junobeach.org
@@ -970,9 +975,11 @@ sberbank.avito.sber.www.covid19.juliecolombe.com
 sberbank.blablacar.avito.sberbank.covid19.juliecolombe.com
 semburankilat.jompurchase.com
 sts.jerez.fun
+support.jah4ww.com
 tasyuminoblog.iroiroblog.jetboy.jp
 technology.jaredrimer.net
 tickets.jojischool.nl
+tijarimobile.jcbank.com.jo
 track.jetsend.com
 tv2u.jc-teksupport.com
 twitch.jcorelife.com
@@ -1026,6 +1033,7 @@ www.janagruber.realtor
 www.jandacleaningservice.com
 www.jandlconsultinggroup.com
 www.jannekegodschalk.nl
+www.japaneseswiss.com
 www.jardinesdetudela.com
 www.jarnvag.net
 www.jarsofgoodness.co.ke
@@ -1033,11 +1041,14 @@ www.jasaairmancur.com
 www.jattjardinero.es
 www.javierjasso.net
 www.jaz-services.fr
+www.jazzisdeadfestival.it
 www.jce.gob.do
+www.jdirvingconservation.com
 www.jdltreeservice.net
 www.jdsports-standards.com
 www.jeannieservices.ca
 www.jegagneenassurance.com
+www.jellybellyinternational.com
 www.jemco-controls.jemco-inc.com
 www.jennivallenius.net
 www.jerichohistoricalsociety.org
@@ -1057,6 +1068,7 @@ www.jnjwgtreeservice.com
 www.joanhoulihan.com
 www.jobin.cloud
 www.jobs.virginia.gov
+www.jobsathomestaffing.com
 www.johnniemoore.com
 www.johnrpowell.work
 www.johnsoncitytn.org
@@ -1080,6 +1092,7 @@ www.juniperspecialgifts.com
 www.justallstar.com
 www.kunder.joomlaskola.se
 www.linkedin.job-vacancy.my.id
+www.mjbstore33.jompurchase.com
 www.nullnullnullnullnullnullnullnullwp.outlook.jenbrial.com
 www.onlineyojna.com.jobwalegoogle.com
 www.parcelbuku.jakartaislamicschool.com
@@ -1088,8 +1101,10 @@ www.redditch-meeting-api.jwsmithdev.com
 www.redditch-meeting.jwsmithdev.com
 www.semburankilat.jompurchase.com
 www.servicekomporpangilan.jagoaniklan.org
+www.spotify.jungl.ist
 www.standard-za.jubam.com.br
 www.steamstats.jaydips.website
+www.support.jah4ww.com
 www.tesco.josephpolytechnic.com
 www.tokyo.jordanlebron.com
 www.user.jajananorangbanyak.com
