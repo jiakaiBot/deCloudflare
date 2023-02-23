@@ -3317,6 +3317,7 @@ Do not create new issue or we will close it as duplicate.
 | [georgeyotov@twitter](https://twitter.com/georgeyotov/status/1564823393417187328) | advertise |
 | [Geoxis_co@twitter](https://twitter.com/Geoxis_co/status/1442723657147506693) | advertise |
 | [Germanyme150598@twitter](https://twitter.com/Germanyme150598/status/1533276349946662912) | advertise |
+| [Getamped2N@twitter](https://twitter.com/Getamped2N/status/1628678928956268545) | advertise |
 | [getferdi@twitter](https://twitter.com/getferdi/status/1519038075669827586) | advertise |
 | [getmadeinlocal@twitter](https://twitter.com/getmadeinlocal/status/1566500705946460160) | advertise |
 | [ggcc37590384@twitter](https://twitter.com/ggcc37590384/status/1489085811094016005) | advertise |
@@ -7620,6 +7621,7 @@ Do not create new issue or we will close it as duplicate.
 | [NgocLongk1@twitter](https://twitter.com/NgocLongk1/status/1554028232093052928) | advertise |
 | [ngocthang_9577@twitter](https://twitter.com/ngocthang_9577/status/1401800231713345543) | advertise |
 | [NgocUnmei@twitter](https://twitter.com/NgocUnmei/status/1402936171265548289) | advertise |
+| [NgoHai32610802@twitter](https://twitter.com/NgoHai32610802/status/1628675676839747584) | advertise |
 | [NgongTuan@twitter](https://twitter.com/NgongTuan/status/1616054390145814528) | advertise |
 | [Ngonhathuy17@twitter](https://twitter.com/Ngonhathuy17/status/1402444148506988548) | advertise |
 | [NgoQuye89100242@twitter](https://twitter.com/NgoQuye89100242/status/1395052107913330689) | advertise |
@@ -9944,6 +9946,7 @@ Do not create new issue or we will close it as duplicate.
 | [solakoskik@twitter](https://twitter.com/solakoskik/status/1555226731350409216) | advertise |
 | [SoldustMero@twitter](https://twitter.com/SoldustMero/status/1549580892988850182) | advertise |
 | [SolekhudinAK@twitter](https://twitter.com/SolekhudinAK/status/1384881486944509956) | advertise |
+| [SoloisGamer@twitter](https://twitter.com/SoloisGamer/status/1628677962739634177) | advertise |
 | [Solon59889088@twitter](https://twitter.com/Solon59889088/status/1378327434219560960) | advertise |
 | [SolSquadZA@twitter](https://twitter.com/SolSquadZA/status/1581229224735965184) | advertise |
 | [solucionesdcmx@twitter](https://twitter.com/solucionesdcmx/status/1437832776573759492) | advertise |
