@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,801 |
-| social | 3,758 |
-| net | 2,956 |
+| com | 5,803 |
+| social | 3,760 |
+| net | 2,958 |
 | org | 2,079 |
 | de | 1,953 |
 
@@ -5686,6 +5686,7 @@ Here's a list of public Fediverse services.
 | `christophfink.com` | No |
 | `christophvoigt.com` | Yes |
 | `christouranchor.org` | No |
+| `christunscripted.com` | Yes |
 | `chrisvannoy.com` | No |
 | `chriswb.dev` | Yes |
 | `chriswiegman.com` | Yes |
@@ -9651,6 +9652,7 @@ Here's a list of public Fediverse services.
 | `enbies.space` | Yes |
 | `enby-box.de` | No |
 | `enby.club` | Yes |
+| `enby.site` | Yes |
 | `enby.space` | No |
 | `enby.town` | No |
 | `encanarias.info` | No |
@@ -15651,6 +15653,7 @@ Here's a list of public Fediverse services.
 | `isaffine.name` | No |
 | `isafurry.baby` | No |
 | `isagood.dog` | No |
+| `isalman.dev` | Yes |
 | `ischool.social` | No |
 | `iscurrently.live` | Yes |
 | `iscute.moe` | No |
@@ -18288,6 +18291,7 @@ Here's a list of public Fediverse services.
 | `lauderdale.social` | No |
 | `lauercloud.de` | No |
 | `laughingsquid.com` | Yes |
+| `lauka.net` | No |
 | `lauka.space` | No |
 | `launay.org` | No |
 | `laundromat.me` | No |
@@ -27781,6 +27785,7 @@ Here's a list of public Fediverse services.
 | `quecoisas.xyz` | No |
 | `queef.social` | No |
 | `queenlainsrevenge.xyz` | No |
+| `queensbridge.social` | No |
 | `queensnkings.de` | No |
 | `queensu.ca` | Yes |
 | `queer-lexikon.net` | No |
@@ -28945,6 +28950,7 @@ Here's a list of public Fediverse services.
 | `roanapur.de` | No |
 | `roaries.social` | Yes |
 | `roarke.industries` | No |
+| `rob-earth.com` | No |
 | `rob.in.net` | No |
 | `rob365.online` | Yes |
 | `robattrell.com` | Yes |
@@ -32346,6 +32352,7 @@ Here's a list of public Fediverse services.
 | `stown.me` | Yes |
 | `stoyko.space` | No |
 | `stp.cx` | No |
+| `stpauli.social` | No |
 | `stpaulinu.de` | No |
 | `stpo.st` | No |
 | `str.nz` | No |
@@ -32604,6 +32611,7 @@ Here's a list of public Fediverse services.
 | `sundet.io` | No |
 | `sunet.se` | No |
 | `sunflowe.rs` | No |
+| `sunflowerfuchs.dev` | No |
 | `sunglasses.dog` | No |
 | `sungo.cloud` | No |
 | `sungo.io` | No |
@@ -33007,6 +33015,7 @@ Here's a list of public Fediverse services.
 | `tailma.ws` | No |
 | `tailnet.xyz` | Yes |
 | `tailored.social` | No |
+| `tails.ch` | No |
 | `tailsproject.co` | No |
 | `tailswish.industries` | No |
 | `taintedworld.org` | Yes |
@@ -38161,6 +38170,7 @@ Here's a list of public Fediverse services.
 | `yamaha.lol` | Yes |
 | `yamaken.jp` | Yes |
 | `yamako-ya.com` | No |
+| `yamakusa.net` | Yes |
 | `yamanote.tokyo.jp` | No |
 | `yamaoka-takeshi.xyz` | No |
 | `yamast.com` | No |
@@ -38945,8 +38955,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,421 |
-| Normal | 29,481 |
+| Cloudflare | 9,425 |
+| Normal | 29,487 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
