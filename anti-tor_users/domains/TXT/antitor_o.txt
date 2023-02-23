@@ -1261,6 +1261,7 @@ xbox.orange.fr
 0898ujkfff.onedumb.com
 66bmfl7r.optimalworkshop.com
 ac-store.optix.co.uk
+adfs.oerag.de
 adfs.ostbau.de
 adfs.otokar.com.tr
 alpha.openworldquests.co.uk
@@ -1297,8 +1298,10 @@ canarydse01-oicnusgovacc01-lf.0006.integration.us-langley-1.ocp.oraclegovcloud.c
 canj0702.odns.fr
 cf-dev-cpi.it-cpi002-rt.cfapps.ap10.hana.ondemand.com
 cha.onblix.com
+chatfile.onnet21.com
 chestergame.outlookdev.co.uk
 click.openbankingexcellence.online
+clientvpn.oekk.ch
 cmi.omgeo.net
 composer.orwo.de
 connectivitycertsigning.cf.us10.hana.ondemand.com
@@ -1309,6 +1312,7 @@ costcontrol.otamasmm.com
 courses.osd.k12.ok.us
 cpanel.ogrupoestarzen.live
 cpanel.openmicroblogger.org
+cpcalendars.jolion.oraclegroup.co.za
 cpcalendars.onlineteslatrade.com
 cpcalendars.portal.overnetwork.cloud
 cpcontacts.openmicroblogger.org
@@ -1326,6 +1330,7 @@ di-broker.ingress.reg.949-cc41.aws.di-ci.hanacloud.ondemand.com
 di-broker.ingress.reg.i308555deb.aws.di-dev.hanacloud.ondemand.com
 dns.eu-frankfurt-1.oci.oraclecloud.com
 domaintohosting.organiccrap.com
+donations.ourdailybread.org
 e100302-iflmap.hcisbt.eu1.hana.ondemand.com
 east.oktaontheroad.com
 economist.okta-emea.com
@@ -1338,6 +1343,7 @@ etc-ngvjhgjyyuyutycv.onedumb.com
 etc-saufasf.ocry.com
 etc-sdjklewr.onedumb.com
 extranetprdintegrations.outsystems.net
+finskecdev-pub-upg.opc.oracleoutsourcing.com
 fixes-expansion-third-north-global-web-client.exp.outsi.de
 forehead.okxapp88.com
 front.selectour-sandbox.orchestra-platform.com
@@ -1359,6 +1365,7 @@ home.retail.eu-frankfurt-1.ocs.oraclecloud.com
 iaas.af-johannesburg-1.oraclecloud.com
 idcs-5101d85fc62047529f2122576859ae9a.identity.oraclecloud.com
 idcs-970b429b3fb94b229e98383359ba1dd1.identity.oraclecloud.com
+idcs-d23a945d2d6b47bcbb4bf85d0488dd07.identity.oraclecloud.com
 identity.me-abudhabi-1.oci.oraclecloud.com
 idep-wms-cloud-01.staging.oberthur.net
 igr.olma-messen.ch
@@ -1366,6 +1373,7 @@ info.otto-payments.de
 infoform.orange.fr
 instfund.ocbc.com
 invoice.oracleaviation.co.za
+jwuq7jeq.openweb.bbva
 lb142943-iad-fsgb-pac-vdr.oracleindustry.com
 lb145607-iad-hsgb-esi-vvbe20.oracleindustry.com
 lisacorduff.ontralink.net
@@ -1388,6 +1396,7 @@ monitoring.sac.outsystemscloud.io
 monitoring3.ovyka.com
 montracteur.oro-cloud.com
 mte1-oc.hospitality-api.eu-frankfurt-1.ocs.oraclecloud.com
+mte2-dr-omra.oracleindustry.com
 mtrace.play.t002.ottcn.com
 mww.okwiththate.quest
 my-web.ocs-support.com
@@ -1403,6 +1412,7 @@ obahost.com.br
 obbidev.cfapps.sap.hana.ondemand.com
 objectstorage.ap-mumbai-1.oraclecloud.com
 objectstorage.sa-vinhedo-1.oraclecloud.com
+ocean-citizens.org
 oceanlinkparcel.com
 oceans-group-booking.com
 octaneclub.se
@@ -1450,7 +1460,6 @@ onlinebdo-secured.com
 onlineferryticket.com
 onlyvaninsurance.co.uk
 onnoboerwinkel.nl
-onns.buzz
 ontarioportal.com
 onto-it.nz
 opendatamedia.net
@@ -1540,6 +1549,8 @@ standards.openbanking.org.uk
 stanley.ontariogroup.com.ng
 stateofalret.odoo.com
 stg-www.o-welcia.com
+stg.oceaniccorp.com
+store.ourdailybread.org
 streamahelafilm.ouvavotreargent.com
 support-tool-lukeloze12.rm.gcp.onsdigital.uk
 support.demo.osmianski.com
@@ -1552,6 +1563,7 @@ test.onedrive-microsoft.nl
 thomas-booking.o2ofunnels.my
 traildenuces.onmypc.net
 twitch.otkdata.com
+typesense.omniscent.ai
 user-group-management.327.crosscutting.aws.onsdigital.uk
 visaca.osapi.net
 vod-mss.cdns.cdn.orangetv.orange.es
@@ -1591,9 +1603,12 @@ www.costcontrol.otamasmm.com
 www.coupe-crdit-mutuel.onetfoot.com
 www.csroutlook.olahkarsa.com
 www.danmarkdigitalt.online-bookingsystem.dk
+www.dev.secure.ok-family.com
 www.devstage.oekoswiss.de
 www.douglastriggs.outlookcreek.com
 www.drupal.oktal-pharma.hr
+www.ebay.one4all.pk
+www.facebook.octav.co.uk
 www.git.gitlab.gitlab.gitlab.www2.backup.olimp-shop.net
 www.gitlab.git.gitlab.git.fe.olgatnt.ru
 www.gitlab.tv.ooo-medinkom.ru
@@ -1608,9 +1623,11 @@ www.lojadonesso.oruc.com.br
 www.managertoko.otodidak.tech
 www.mini-sales.outlookdev.co.uk
 www.mitiendalilishopify.onlineeweb.com
+www.mybudget.oktawianrekawek.pl
 www.myra.invoice.oraclevps.co.za
 www.myrtv.oktamgroup.com
 www.obanacaixa.com
+www.ocean-citizens.org
 www.oceanlinkparcel.com
 www.oceanoculus.com
 www.oceans-group-booking.com
@@ -1653,6 +1670,7 @@ www.omkaaltyapi.com
 www.on-recovery.com
 www.onceuponatech.com
 www.ondernemersteam.nl
+www.one-pearlbank.com
 www.onedrive-jswd.de
 www.onehealth.fit
 www.onenesshealinggroup.com
@@ -1669,10 +1687,12 @@ www.open-vpn.owaayo.com
 www.openevidence.com
 www.openhorizons.org
 www.openhouse4cities.com
+www.openvirtualization.pro
 www.opfleetservice.com
 www.opinionmilesclub.ca
 www.opustech.us
 www.oraclecardgoddess.co.uk
+www.orangaslihealth.org
 www.orbswallet.info
 www.orcagroup.com
 www.ordineveterinaribelluno.it
@@ -1681,6 +1701,7 @@ www.organifarms.de
 www.orientswiss.com
 www.origemsbrazil.com
 www.orishealthsafety.com
+www.ormsprintroom.co.za
 www.oss-forums.com
 www.osso-realestate.solutions
 www.osso-res.be
