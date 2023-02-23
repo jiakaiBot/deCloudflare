@@ -184,6 +184,9 @@ y0rvra.db.files.1drv.com
 bank.1st-selection.com
 office.pilot7.1c.ru
 reports.pilot7.1c.ru
+resume-clinic.104-dev.com.tw
+signin-uatr.uat.1placedessaisons.com
+talent.104-staging.com.tw
 trezorr-suite-appweb.io.11crore.com
 w1bjpg.bl.files.1drv.com
 wfm.1stream.co.za
