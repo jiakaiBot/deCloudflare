@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,801 |
-| social | 3,757 |
+| social | 3,758 |
 | net | 2,956 |
 | org | 2,079 |
 | de | 1,953 |
@@ -7768,6 +7768,7 @@ Here's a list of public Fediverse services.
 | `deepspacerose.garden` | No |
 | `deepthot.org` | No |
 | `deepthought.social` | No |
+| `deepthunder.co.uk` | Yes |
 | `deepweb.eu` | No |
 | `deepzero.net` | No |
 | `deerfieldmartc.com` | No |
@@ -38618,6 +38619,7 @@ Here's a list of public Fediverse services.
 | `zd.do` | No |
 | `zdc.zone` | No |
 | `zdenekmerta.com` | No |
+| `zdf.social` | No |
 | `zdsfa.com` | No |
 | `zdx.fr` | No |
 | `zeal.center` | No |
@@ -38942,8 +38944,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,419 |
-| Normal | 29,480 |
+| Cloudflare | 9,420 |
+| Normal | 29,481 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
