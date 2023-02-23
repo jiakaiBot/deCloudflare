@@ -1294,9 +1294,11 @@ bbbank.vr-risikoneigung.de
 be.vaplatform.ru
 billionaire.vertx.ma
 blog.verslu.is
+bloxcaster.vercel.app
 bloxdev.vercel.app
 bms.ace-894ef952.core.build.vwn.cloud
 bms.ace-e2da7539.core.build.vwn.cloud
+booking.venscart.com
 bulktext.vodafone.ie
 business.vodafone.ie
 bvfenlinea.visionfund.ec
@@ -1383,6 +1385,7 @@ mailchimp.viapan.eu
 mapd.vodafone.com.au
 mbboauth-1c.prd.ece.vwg-connect.com
 mijnapi.vlcompliant.nl
+mmpayment.viska.dev
 mobileservices4.qua.viaverde.pt
 mobileservices5.qua.viaverde.pt
 mod3csambbrun-3a.app.eu.dp.vwg-connect.com
@@ -1396,6 +1399,8 @@ monitoring-service.ace-445397f.core.build.vwn.cloud
 monitoring-service.ace-59e8fb9.core.build.vwn.cloud
 monitoring-service.ace-64c1b0ec.core.build.vwn.cloud
 monitoring-service.ace-8401cf3a.core.build.vwn.cloud
+monitoring-service.ace-a77192c.core.build.vwn.cloud
+monitoring-service.ace-b950e728.core.build.vwn.cloud
 monitoring-service.ace-e4f91a8e.core.build.vwn.cloud
 monitoring.127437123744-793.vianai.site
 monitoring.van-der-velde.net
@@ -1424,6 +1429,7 @@ pro-dtp-app.vocohub.com
 prod-mb.vbsp.vn
 promociones.volkswagengaldakauto.com
 pub.marketingmail.vdab.be
+qa.volvobusconnect.com
 quorum-proxy.vision33cloud.com
 redinteligente.vodafone.es
 resource.visitcloud.com
@@ -1436,7 +1442,9 @@ rustamqua.vercel.app
 rusty.vercel.app
 rustyonrampage.vercel.app
 sber.avito.blablacar.avito.sber.covid19.view-manager.com
+sber.avito.sber.sberbank.avito.avito.covid19.vossbryggeri.com
 sber.blablacar.avito.blablacar.avito.covid19.view-manager.com
+sber.sber.avito.blablacar.www.blablacar.covid19.vossbryggeri.com
 sber.sberbank.git.git.git.git.covid19.vesta-donors.com
 sber.sberbank.www.avito.covid19.vossbryggeri.com
 sber.www.avito.blablacar.www.blablacar.covid19.vossbryggeri.com
@@ -1453,6 +1461,7 @@ sberbank.blablacar.avito.avito.sber.www.covid19.vossbryggeri.com
 sberbank.blablacar.avito.avito.www.www.covid19.vitorheinzen.com
 sberbank.git.git.git.git.covid19.vesta-donors.com
 sberbank.sber.avito.avito.avito.avito.covid19.vossbryggeri.com
+sberbank.sber.avito.blablacar.blablacar.covid19.vossbryggeri.com
 sberbank.sberbank.git.git.git.git.covid19.vesta-donors.com
 sberbank.www.git.git.covid19.vesta-donors.com
 sberbank.www.sberbank.blablacar.www.covid19.vossbryggeri.com
@@ -1470,6 +1479,7 @@ sousadiscord.vercel.app
 souvlaki.vpn.gr
 spark-dev.np.vertexcybersecurity.com.au
 spark-uat.np.vertexcybersecurity.com.au
+spark.vertexcybersecurity.com.au
 speedtest-test.vodafone-ip.de
 speedtest.vpnpara.com
 staging.ukitservice.veryfasthosting.co.uk
@@ -1488,13 +1498,16 @@ tunnel2.vetropack.com
 twitch.vopu.cloud
 twitchbuffer.vaudience.net
 twitchy123.vercel.app
+vabp-mock.visainnovation.com
 vafcu.com
 vahocomedia.com
 vakif.org
+valaccount.com
 valeoserviceusa.com
 valmedco.com
 valpostal.cl
 vampiredetroit.com
+vancitydj.ca
 vancitymotorsport.ca
 vanduffel.nl
 vapecartsdelivery.com
@@ -1505,6 +1518,7 @@ vaultxwallet.com
 vayena.org
 vaytienbangicloud.com
 vboddxcl2.asia
+vdc.va.gov
 vdc.vodafone.ie
 vedantapublicschool.org
 vegas411.com
@@ -1527,6 +1541,7 @@ verizonwiresess.com
 veros.com
 vertentesolucoes.com.br
 vertography.com
+vertrontech.com
 vespacluj.com
 vestsupport.dk
 veve.com
@@ -1534,6 +1549,7 @@ viaplay.pl
 victoria-creditrepair.com
 victorycs.org
 videogamesblockchain.com
+vidriosydecoracionhuber.com
 vidrotechmt.com.br
 vieiraimobiliaria.com.br
 vietaust.com.au
@@ -1587,7 +1603,6 @@ voa.vodafone.ie
 vodafone-stiftung.de
 vodafone.com.gh
 vodafone.ro
-vodafonefaf.ie
 vodafonefantasticdays.com
 vodafoneready.co.uk
 vodicnekretnine.rs
@@ -1611,6 +1626,7 @@ vpncommunicationsng.com
 vpngacor.fun
 vpninformatica.com.br
 vpnmik.net
+vpnnex.com
 vpnphoenix.com
 vpnreviews.io
 vpnslab.com
@@ -1644,11 +1660,13 @@ vybe.ch
 vysogorets.org
 webapi.volanty.com
 webdisk.vaccinet.org
+webdisk.vanguardendurance.com
 webdisk.velukkudidiscourses.com
 webdisk.venomoth.shop
 webdisk.videodyno.com.au
 webdisk.vighospitaljalandhar.com
 webdisk.vintagepremiumgift.com
+webdisk.viverosanse.cl
 webdisk.vortexmediaworkshops.com
 webdisk.vulcanhost.com
 webmail.verifyghostextracts.co
@@ -1657,7 +1675,9 @@ webmail.viralfyp.my.id
 webmail.viverbemehpossivel.site
 webservice.vetindex.be
 wemobi.vendasjca.com.br
+wfo.m2.verintcloudservices.com
 whm.viegliemsoliem.lv
+wordpress.vcompcenter.com
 wow.corp.vodafone.pt
 ws.vhega.com.br
 wsnfse.vitoria.es.gov.br
@@ -1668,6 +1688,7 @@ www.bcstateofvolunteering.volunteerbc.bc.ca
 www.benaturestore.es.vitalgreenstore.es
 www.billionaire.vertx.ma
 www.billys.vimirlab.com
+www.booking.venscart.com
 www.booking.viacenter.com
 www.booking.vojaingg.org
 www.capricorn.assets.cloudflare.cdn.on-cloud.live.vanguardavisionaria.com
@@ -1707,6 +1728,7 @@ www.sendmoney.vokers.co.zw
 www.sentralparcel.dev.002.veccani.com
 www.sentralparcel.dev.003.veccani.com
 www.service.vicbest.ro
+www.sharepoint.vsoftindustry.pt
 www.sivana.vansteam.am
 www.smartinvoice.vsoft.co.ke
 www.souvlaki.vpn.gr
@@ -1734,6 +1756,7 @@ www.vancityrei.com
 www.vancitytrax.com
 www.vancouverdeck.ca
 www.vanderbiltnursemidwives.org
+www.vanguardconstructiontn.com
 www.vannersstadservice.se
 www.vaporcontrol.com
 www.varo-inform.com
@@ -1744,6 +1767,7 @@ www.vaxserve.com
 www.vcolemanmusic.com
 www.vd-service.online
 www.vecchio-services.com
+www.veganwomensummit.com
 www.veinpros.md
 www.velatcentroplaza.velatyapi.com
 www.velatyapi.com
@@ -1766,6 +1790,7 @@ www.vernaculardiscourse.com
 www.versatope.com
 www.versicherungsteam.at
 www.versy.ai
+www.vertrieb-kmu.de
 www.verywellhealth.com
 www.verywellmind.com
 www.veteranmobilenotaryservice.com
@@ -1781,10 +1806,12 @@ www.vietsinggroup.com
 www.viewpointsfromfacebook.com
 www.vii.com.au
 www.village-bank.com
+www.villageofhussar.ca
 www.villageofpound.com
 www.vincentpricelegacy.uk
 www.vindeckservice.com
 www.vinilkosmo-mp3.com
+www.viraduavesso.com.br
 www.virginmoney-uk.com
 www.virtualtrekcon.com
 www.virtuaservice.com
@@ -1799,7 +1826,6 @@ www.vma.com.pt
 www.vodafone-jobacademy.de
 www.vodafone.ro
 www.vodafonecu.gr
-www.vodafonefaf.ie
 www.vodafonegiftcard.com
 www.vodafoneready.co.uk
 www.volansyapi.com.tr
@@ -1832,6 +1858,7 @@ www.vvxofingerstyletab.com
 www.vw.com
 www.vy.no
 www.vyn-overstocks.com
+www.whatsapp.ventasbolivia.net
 www.whatsapp.viralcampaign.in
 www.worldnewsservice.co.in.virtualskyit.com
 www.yper.vpn.gr
