@@ -6120,6 +6120,7 @@ Do not create new issue or we will close it as duplicate.
 | [louisbenhihi@twitter](https://twitter.com/louisbenhihi/status/1534999176391852032) | advertise |
 | [LouisDang13@twitter](https://twitter.com/LouisDang13/status/1394819629336317955) | advertise |
 | [LouisNguyen307@twitter](https://twitter.com/LouisNguyen307/status/1496998018398056448) | advertise |
+| [LouisTu20@twitter](https://twitter.com/LouisTu20/status/1628661704136728576) | advertise |
 | [louis_siu@twitter](https://twitter.com/louis_siu/status/1504838925868621832) | advertise |
 | [louled_sidha@twitter](https://twitter.com/louled_sidha/status/1588840326474928129) | advertise |
 | [louli122@twitter](https://twitter.com/louli122/status/1596195761834033152) | advertise |
@@ -9408,6 +9409,7 @@ Do not create new issue or we will close it as duplicate.
 | [SamerTallauze@twitter](https://twitter.com/SamerTallauze/status/1478361206280835081) | advertise |
 | [Samim54823362@twitter](https://twitter.com/Samim54823362/status/1485258949540683778) | advertise |
 | [SamioWol@twitter](https://twitter.com/SamioWol/status/1395796936045649924) | advertise |
+| [samiram71908706@twitter](https://twitter.com/samiram71908706/status/1628660090223075329) | advertise |
 | [SamirSi28964752@twitter](https://twitter.com/SamirSi28964752/status/1388133397294469122) | advertise |
 | [samliew@twitter](https://twitter.com/samliew/status/1566940977784188928) | advertise |
 | [Sammu0108@twitter](https://twitter.com/Sammu0108/status/1379878407597477890) | advertise |
