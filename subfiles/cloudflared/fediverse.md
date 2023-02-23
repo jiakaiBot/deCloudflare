@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,792 |
-| social | 3,755 |
+| com | 5,793 |
+| social | 3,756 |
 | net | 2,955 |
 | org | 2,079 |
 | de | 1,951 |
@@ -12291,6 +12291,7 @@ Here's a list of public Fediverse services.
 | `gaybdsm.group` | No |
 | `gaycatgirl.sex` | No |
 | `gaychina.com` | Yes |
+| `gaycity.lgbt` | No |
 | `gaycookie.dev` | Yes |
 | `gaydadon.jp` | No |
 | `gayest.cloud` | No |
@@ -19350,6 +19351,7 @@ Here's a list of public Fediverse services.
 | `lousydomain.xyz` | Yes |
 | `loutaci.cz` | No |
 | `loutre.info` | No |
+| `louy.social` | Yes |
 | `louzao.network` | Yes |
 | `lovecrafts.social` | No |
 | `lovedones.in` | No |
@@ -38659,6 +38661,7 @@ Here's a list of public Fediverse services.
 | `zeroanarchy.com` | No |
 | `zerobeat.in` | No |
 | `zerocat.club` | No |
+| `zerocial.com` | No |
 | `zerodayfri.day` | Yes |
 | `zeroes.ca` | Yes |
 | `zerohack.xyz` | No |
@@ -38915,8 +38918,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,411 |
-| Normal | 29,461 |
+| Cloudflare | 9,412 |
+| Normal | 29,463 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
