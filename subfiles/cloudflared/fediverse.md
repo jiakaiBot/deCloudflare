@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,797 |
+| com | 5,801 |
 | social | 3,757 |
-| net | 2,955 |
+| net | 2,956 |
 | org | 2,079 |
-| de | 1,951 |
+| de | 1,952 |
 
 
 - Mastodon, Pleroma, etc
@@ -2398,6 +2398,7 @@ Here's a list of public Fediverse services.
 | `asohh.eu` | No |
 | `asonix.dog` | No |
 | `asorrybowl.blog` | No |
+| `asozial.me` | No |
 | `aspectsof.love` | Yes |
 | `aspergerstestsite.com` | Yes |
 | `asphodel.rip` | Yes |
@@ -4011,6 +4012,7 @@ Here's a list of public Fediverse services.
 | `blu.social` | No |
 | `blub.social` | No |
 | `blubrry.chat` | No |
+| `bludood.com` | Yes |
 | `blue-mastodon.club` | No |
 | `blueadair.net` | Yes |
 | `bluebell.social` | No |
@@ -12032,6 +12034,7 @@ Here's a list of public Fediverse services.
 | `fvhj.net` | No |
 | `fvktv.me` | No |
 | `fvnki.town` | No |
+| `fw3rd-bc.jp` | No |
 | `fx-don.net` | No |
 | `fx.cafe` | No |
 | `fx4.net` | No |
@@ -16995,6 +16998,7 @@ Here's a list of public Fediverse services.
 | `katiehopkinspolitical.icu` | No |
 | `katis.me` | No |
 | `katjaevertz.de` | No |
+| `katsquill.com` | No |
 | `kattenmeisje.org` | No |
 | `katty.me` | No |
 | `katuemon.com` | No |
@@ -17574,6 +17578,7 @@ Here's a list of public Fediverse services.
 | `koalahub.io` | No |
 | `kob-net.de` | No |
 | `kobalt.dev` | No |
+| `koboksdon.net` | Yes |
 | `kobokskobok.com` | No |
 | `kobold.space` | No |
 | `kobolds.space` | No |
@@ -21447,6 +21452,7 @@ Here's a list of public Fediverse services.
 | `miau.chat` | No |
 | `miau.pub` | Yes |
 | `miauuu.de` | No |
+| `miawinter.de` | No |
 | `mib.contact` | No |
 | `miblog.life` | No |
 | `mibo.live` | Yes |
@@ -25263,6 +25269,7 @@ Here's a list of public Fediverse services.
 | `opsgang.chat` | No |
 | `opsnotice.xyz` | Yes |
 | `opsone.social` | No |
+| `opticality.com` | No |
 | `opticor.digital` | Yes |
 | `optimus.ovh` | Yes |
 | `optimusgreen.com` | Yes |
@@ -31024,6 +31031,7 @@ Here's a list of public Fediverse services.
 | `skrt.social` | No |
 | `skrug.net` | Yes |
 | `skryking.com` | No |
+| `sksat.run` | Yes |
 | `sksocial.ca` | Yes |
 | `skull.boutique` | No |
 | `skull.town` | No |
@@ -34321,6 +34329,7 @@ Here's a list of public Fediverse services.
 | `tinycart.club` | No |
 | `tinycities.net` | No |
 | `tinycomputer.club` | No |
+| `tinydev.art` | No |
 | `tinyfactories.space` | No |
 | `tinyfed.com` | No |
 | `tinyfox.dev` | No |
@@ -36254,6 +36263,7 @@ Here's a list of public Fediverse services.
 | `vernunftzentrum.de` | No |
 | `veroone.fr` | No |
 | `verr.cc` | No |
+| `versionfeeds.com` | Yes |
 | `verteiltegedanken.de` | No |
 | `vertexspew.social` | No |
 | `verumsocial.com` | Yes |
@@ -38929,8 +38939,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,415 |
-| Normal | 29,471 |
+| Cloudflare | 9,419 |
+| Normal | 29,477 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
