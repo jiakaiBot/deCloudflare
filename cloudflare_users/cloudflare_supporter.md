@@ -1868,6 +1868,7 @@ Do not create new issue or we will close it as duplicate.
 | [cesef@twitter](https://twitter.com/cesef/status/1543653828255432706) | advertise |
 | [cexinsco@twitter](https://twitter.com/cexinsco/status/1587000003612090368) | advertise |
 | [cey36481826@twitter](https://twitter.com/cey36481826/status/1503391992877031434) | advertise |
+| [CezzBB@twitter](https://twitter.com/CezzBB/status/1628846850705874947) | advertise |
 | [ce_kyaw@twitter](https://twitter.com/ce_kyaw/status/1397158337012113410) | advertise |
 | [cfleesphotograp@twitter](https://twitter.com/cfleesphotograp/status/1602054464005091329) | advertise |
 | [CGI_ERIC@twitter](https://twitter.com/CGI_ERIC/status/1620496261731463170) | advertise |
