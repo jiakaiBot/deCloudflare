@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-02-24: [CLT (Charlotte) on 2023-02-24](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7yr0pmg4hc90)
 - 2023-02-27: [ICN (Seoul) on 2023-02-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hhd7nn518fmp)
 - 2023-02-27: [BOS (Boston) on 2023-02-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4m2jhgtv8v9q)
 - 2023-03-01: [DUS (Düsseldorf) on 2023-03-01](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8wlpjtn475d6)
