@@ -11333,6 +11333,7 @@ Here's a list of public Fediverse services.
 | `fortyoz.org` | Yes |
 | `forum-lucifer.com` | No |
 | `forumanalogue.fr` | No |
+| `forwriter.homes` | Yes |
 | `forza7.jp` | No |
 | `foss.al` | No |
 | `foss.guru` | No |
@@ -38913,7 +38914,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,410 |
+| Cloudflare | 9,411 |
 | Normal | 29,460 |
 
 
