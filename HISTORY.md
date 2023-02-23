@@ -5,6 +5,10 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-03-01: [SJC (San Jose) on 2023-03-01](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/dykt88f37q8r)
+- 2023-02-28: [SJC (San Jose) on 2023-02-28](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/51yrkd3t617k)
+- 2023-02-27: [SJC (San Jose) on 2023-02-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/s1d6mhw3wkjt)
+- 2023-02-24: [SJC (San Jose) on 2023-02-24](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/45ym7bq09kjy)
 - 2023-02-24: [AMS (Amsterdam) on 2023-02-24](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/t3hphv9hclqw)
 - 2023-02-24: [CLT (Charlotte) on 2023-02-24](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7yr0pmg4hc90)
 - 2023-02-27: [ICN (Seoul) on 2023-02-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hhd7nn518fmp)
