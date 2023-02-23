@@ -11101,6 +11101,7 @@ Here's a list of public Fediverse services.
 | `flawbee.net` | Yes |
 | `flaximus.net` | No |
 | `flay.gay` | No |
+| `fle.st` | Yes |
 | `fle.studio` | Yes |
 | `flecken.monster` | No |
 | `fleshmeat.com` | No |
@@ -38944,7 +38945,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,420 |
+| Cloudflare | 9,421 |
 | Normal | 29,481 |
 
 
