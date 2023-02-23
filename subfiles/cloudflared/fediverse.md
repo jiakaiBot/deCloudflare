@@ -19747,6 +19747,7 @@ Here's a list of public Fediverse services.
 | `madomadon.net` | No |
 | `madost.one` | Yes |
 | `madpainter.info` | No |
+| `madr.it` | No |
 | `madrid.how` | No |
 | `madridgug.com` | No |
 | `mads-hartmann.com` | No |
@@ -38913,7 +38914,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,410 |
-| Normal | 29,459 |
+| Normal | 29,460 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
