@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,803 |
-| social | 3,760 |
+| social | 3,761 |
 | net | 2,958 |
-| org | 2,079 |
+| org | 2,080 |
 | de | 1,953 |
 
 
@@ -8621,6 +8621,7 @@ Here's a list of public Fediverse services.
 | `donphan.social` | Yes |
 | `donsuke.biz` | No |
 | `donswelt.de` | Yes |
+| `dont-panic.quest` | No |
 | `dontask.how` | No |
 | `dontbulling.me` | No |
 | `dontdontdontletsstartthisistheworstpartcouldntbelieveforallthe.world` | Yes |
@@ -17783,6 +17784,7 @@ Here's a list of public Fediverse services.
 | `kovtash.com` | No |
 | `kowelenz.social` | No |
 | `kowlo.com` | No |
+| `koyomi.co` | No |
 | `koyu.space` | Yes |
 | `koyuston.tk` | No |
 | `kozlovsky.institute` | Yes |
@@ -23772,6 +23774,7 @@ Here's a list of public Fediverse services.
 | `newyorkdon.net` | No |
 | `newyorkfriendfinder.com` | No |
 | `nex.sh` | No |
+| `nexific.social` | Yes |
 | `nexon.su` | No |
 | `nextblock.nl` | No |
 | `nextcloud-music-vault.de` | No |
@@ -27061,6 +27064,7 @@ Here's a list of public Fediverse services.
 | `popnet.xyz` | Yes |
 | `popnja.com` | Yes |
 | `popolon.org` | No |
+| `popomoc.org` | No |
 | `poppelreuter.de` | No |
 | `poppelreuter.desocial` | No |
 | `poppingboxes.org` | No |
@@ -32203,7 +32207,7 @@ Here's a list of public Fediverse services.
 | `steinwart.dk` | No |
 | `stelabrego.com` | No |
 | `stella.place` | Yes |
-| `stellar-drop.info` | No |
+| `stellar-drop.info` | Yes |
 | `stellar.build` | Yes |
 | `stellaria.network` | Yes |
 | `stellartwin-186f.ovh` | No |
@@ -34410,6 +34414,7 @@ Here's a list of public Fediverse services.
 | `tlsocial.de` | No |
 | `tlv.cool` | No |
 | `tm2t.net` | No |
+| `tmi.community` | Yes |
 | `tmi.fyi` | No |
 | `tmi.pics` | No |
 | `tmichellemoore.com` | No |
@@ -38955,8 +38960,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,425 |
-| Normal | 29,487 |
+| Cloudflare | 9,428 |
+| Normal | 29,489 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
