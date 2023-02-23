@@ -153,7 +153,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dns8.org | No |
 | dnsadguard.co.uk | No |
 | dnscrypt.ca | No |
-| dnscrypt.uk | No |
 | dnsenc.com | No |
 | dnsfish.com | Yes |
 | dnsforfamily.com | Yes |
@@ -333,7 +332,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mirandil.ru | No |
 | mobik.com | No |
 | modr.club | Yes |
-| moedns.dev | Yes |
 | mokocup.cf | Yes |
 | molinero.dev | Yes |
 | monzoon.net | No |
@@ -347,8 +345,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | murgi.de | No |
 | muxinghe.cn | Yes |
 | muxyuji.ru | No |
-| myddns.me | No |
-| myddns.org | No |
 | mydns.network | Yes |
 | myds.me | No |
 | myfritz.net | No |
@@ -440,7 +436,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sly.io | Yes |
 | sntrk.ru | Yes |
 | softcom.net | No |
-| southam.family | No |
 | spectrum.com | Yes |
 | spil.co.id | Yes |
 | ssrahul96.xyz | Yes |
@@ -513,8 +508,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 220 |
-| Normal | 274 |
+| Cloudflare | 219 |
+| Normal | 270 |
 
 
-### 44.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
