@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,757 |
 | net | 2,956 |
 | org | 2,079 |
-| de | 1,952 |
+| de | 1,953 |
 
 
 - Mastodon, Pleroma, etc
@@ -888,6 +888,7 @@ Here's a list of public Fediverse services.
 | `actuallyautistics.org` | No |
 | `acu.lt` | No |
 | `acurrency.org` | No |
+| `ad-astra.moe` | No |
 | `ad5001.eu` | No |
 | `ada.st` | No |
 | `adaizen.com` | No |
@@ -18008,6 +18009,7 @@ Here's a list of public Fediverse services.
 | `kwmr.me` | Yes |
 | `kwolek.io` | Yes |
 | `kwot.in` | Yes |
+| `kwpeace.ca` | No |
 | `kwtechs.xyz` | No |
 | `kx.studio` | No |
 | `kxn4t.tech` | No |
@@ -23069,6 +23071,7 @@ Here's a list of public Fediverse services.
 | `myyouniverse.observer` | Yes |
 | `mzaha.net` | No |
 | `mzhang.io` | No |
+| `mzhd.de` | No |
 | `mzhub.net` | No |
 | `mzn-potatochips.me` | No |
 | `mzumquadrat.de` | No |
@@ -38940,7 +38943,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,419 |
-| Normal | 29,477 |
+| Normal | 29,480 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
