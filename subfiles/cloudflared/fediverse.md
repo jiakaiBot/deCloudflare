@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,793 |
-| social | 3,756 |
+| com | 5,797 |
+| social | 3,757 |
 | net | 2,955 |
 | org | 2,079 |
 | de | 1,951 |
@@ -5404,6 +5404,7 @@ Here's a list of public Fediverse services.
 | `charade.social` | No |
 | `charcha.cc` | No |
 | `chargen.one` | No |
+| `chariri.moe` | Yes |
 | `chariz.com` | Yes |
 | `charla.mx` | No |
 | `charlag.space` | No |
@@ -9114,6 +9115,7 @@ Here's a list of public Fediverse services.
 | `earthclub.one` | No |
 | `earthlings.social` | No |
 | `earthstream.social` | No |
+| `earthsucks.com` | No |
 | `east17.org` | No |
 | `eastback.co.jp` | No |
 | `eastman.tech` | No |
@@ -10074,6 +10076,7 @@ Here's a list of public Fediverse services.
 | `everynothing.org` | No |
 | `everynothing.social` | No |
 | `everysick.com` | No |
+| `everythingbut.fish` | No |
 | `everythingistacos.net` | No |
 | `everythingsysadmin.com` | Yes |
 | `everywhereforever.net` | No |
@@ -11097,6 +11100,7 @@ Here's a list of public Fediverse services.
 | `fle.studio` | Yes |
 | `flecken.monster` | No |
 | `fleshmeat.com` | No |
+| `fleur.social` | No |
 | `fleur7.com` | No |
 | `fleuronic.com` | No |
 | `fleuv.es` | No |
@@ -16752,6 +16756,7 @@ Here's a list of public Fediverse services.
 | `kaa.bz` | No |
 | `kaaa.ren` | No |
 | `kaak.online` | No |
+| `kaam.biz` | No |
 | `kaaosunlimited.fi` | No |
 | `kaartinen.photos` | Yes |
 | `kaartinen.social` | Yes |
@@ -21797,6 +21802,7 @@ Here's a list of public Fediverse services.
 | `misskey.fun` | No |
 | `misskey.id` | Yes |
 | `misskey.im` | Yes |
+| `misskey.in` | Yes |
 | `misskey.io` | Yes |
 | `misskey.jp` | Yes |
 | `misskey.life` | Yes |
@@ -21807,6 +21813,7 @@ Here's a list of public Fediverse services.
 | `misskey.nl` | Yes |
 | `misskey.oita.jp` | No |
 | `misskey.online` | Yes |
+| `misskey.pm` | No |
 | `misskey.rip` | No |
 | `misskey.site` | No |
 | `misskey.social` | No |
@@ -21857,6 +21864,7 @@ Here's a list of public Fediverse services.
 | `mitra.pm` | No |
 | `mitra.social` | No |
 | `mitrailleuse.net` | Yes |
+| `mitrofanov.su` | No |
 | `mitron.social` | No |
 | `mitsu9.com` | No |
 | `mitsukey.cf` | No |
@@ -23163,6 +23171,7 @@ Here's a list of public Fediverse services.
 | `naln1.ca` | No |
 | `nalocal519.social` | No |
 | `nalum.me` | No |
+| `nalzus.com` | No |
 | `namachan10777.dev` | Yes |
 | `namakajiri.net` | No |
 | `namapie.info` | No |
@@ -35241,6 +35250,7 @@ Here's a list of public Fediverse services.
 | `tuning.social` | No |
 | `tunkki.xyz` | No |
 | `tunnelcat.net` | No |
+| `tunpok.com` | No |
 | `tunstall.in` | No |
 | `tuomisto.io` | No |
 | `tupambae.com` | No |
@@ -38039,6 +38049,7 @@ Here's a list of public Fediverse services.
 | `xsoftware.it` | No |
 | `xsteadfastx.org` | No |
 | `xtaldave.net` | No |
+| `xtendxbox.com` | Yes |
 | `xtenz.xyz` | No |
 | `xthemage.net` | No |
 | `xtinalee.xyz` | No |
@@ -38918,8 +38929,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,412 |
-| Normal | 29,463 |
+| Cloudflare | 9,415 |
+| Normal | 29,471 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
