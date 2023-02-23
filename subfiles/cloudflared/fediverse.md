@@ -12525,6 +12525,7 @@ Here's a list of public Fediverse services.
 | `gerhardhoogterp.nl` | No |
 | `gerkenator.com` | Yes |
 | `germanium.top` | No |
+| `germination.systems` | No |
 | `geromazza.com` | No |
 | `gerontopilot.de` | No |
 | `gerotintin.com` | No |
@@ -38915,7 +38916,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,411 |
-| Normal | 29,460 |
+| Normal | 29,461 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
