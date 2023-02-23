@@ -2278,7 +2278,6 @@ www.friendlyelec.com
 www.friscoridersbaseball.com
 www.fritesbruges.com
 www.frnrw.de
-www.froggodgames.com
 www.frontsidefive.com
 www.fs-service.ch
 www.fservice.dk
@@ -2432,6 +2431,7 @@ anbaconsultinggroup.fasdigital.info
 anoh223.fanbox.cc
 anregiomed-rot.portal.fidelis-hr.de
 aovpn.fedcourt.gov.au
+api-spot-binance-price.fastaitop.com
 api.fello.id
 api.fidodarts.com
 api.flexera.eu
@@ -2486,6 +2486,7 @@ cpanel.brakspearmore.foxnitroden.co.uk
 cpanel.fitpromo.online
 cpanel.reports.foxnitroden.co.uk
 cpcalendars.brakspearmore.foxnitroden.co.uk
+cpcalendars.fealemdasfronteiras.com.br
 cpcalendars.freesiamang.com
 cpcalendars.reports.foxnitroden.co.uk
 cpcontacts.brakspearmore.foxnitroden.co.uk
@@ -2501,16 +2502,19 @@ dav.foreigner.cc
 dax.flcancer.com
 de.cba.fro.at
 de.fmt-swiss.com
+deear.fanbox.cc
 delete-special-services.ftsis.francistuttle.edu
 delete-special-services.prodigy.francistuttle.edu
 delivery.firstvision.host
 demo-eakte.portal.fidelis-hr.de
+dev.firetree.co.za
 dev.free-recovery.org
 develop.firsebooking.com
 development.booking.fitnesspoint.no
 dex.k8s.bravo-shared.hf.flant.com
 dimension-section-ca-70da8.firebaseapp.com
 directsend.firstonboard.net
+dividev.fiftheye.com
 dns.firstblackphase.com
 donate.fanspay.io
 donate.tbcc.fanspay.io
@@ -2579,6 +2583,8 @@ federalgrp.com
 federalretireesvictoria.ca
 federalrifas.online
 federalshipment.com
+fedesurf.com
+fedexforum.com
 feff.works
 fehlerteufel.fuzztech.de
 feltmagnet.com
@@ -2590,7 +2596,6 @@ ffh-iesso.com
 fidelityatms.com
 fidelityconsultancy.ae
 fidelityetitle.com
-fidelityetrading.com
 fidelityhealthandwellness.com
 fidelitylistings.com
 fidelitynetbeenefits.com
@@ -2606,6 +2611,7 @@ figgjo-autoservice.no
 filehippo.com
 filfillah.net
 film-documentaire.fr
+filme-subtitrate.online
 filmmakerscollab.org
 filthyrichmall.com
 finanin.site
@@ -2614,8 +2620,9 @@ finanz-proyectos.es
 fincens.online
 find-apple.support
 finder.taxi
-findmysupport.pro
+firatyapi.net
 firefighters-cu-dn.financial-net.com
+firestoreapple.com.br
 firstcooperativeservice.com
 firstmutualcreditbank.com
 firstnationalbankus-fnbusmobileqa.fastcache.net
@@ -2624,12 +2631,14 @@ fiscarddisputeresolutioncenter.fnis.com
 fit4youdelivery.ro
 fiti.site
 fitnesshuber.com
+flagstaffbirdbatcontrol.com
 flakie.co.uk
 flexflier.com
 flexocodintesa.com
 flickracers.dk
 flightsm.com
 flipshope.com
+floormatcompany.com
 floralsbyzoya.com
 floridastormrelief.fl.gov
 flosec.net
@@ -2672,6 +2681,7 @@ fps.qa
 fragarso.com
 franco-borussia.de
 franco.com.au
+franconstruction.com
 frangonopote.com.br
 franksilvestrin.com.br
 frbc.org.au
@@ -2699,6 +2709,7 @@ fuengirolaeste.com
 fuerzalegalchile.com
 fukkenuber.com
 fullocleaningservice.ca
+fundaciontelefonica.com.ec
 furry-friends-recovery.org
 futbolbro-api.com
 future-outlook.com
@@ -2742,6 +2753,7 @@ hr.freshservice.org
 ht.fafha.org
 htnkys.fanbox.cc
 hzrb9m.fd05.fdske.com
+i-am-aquulei.fanbox.cc
 iam.uat.fwd.co.th
 ibtech.feminize.com.br
 icloud.fr-bienvenue.net
@@ -2934,6 +2946,7 @@ plex.fedl.im
 pocchipocchi.fanbox.cc
 points.fanbox.cc
 pre-www.foxsafety.com
+preprod-test.www.fairsquare.ca
 preprodefdreinf.receita.fazenda.gov.br
 presto.test.fhnw.ch
 process.filestackapi.com
@@ -3032,6 +3045,7 @@ sasamomi.fanbox.cc
 satsukikatze.fanbox.cc
 savings.ftsplus.com
 sberbank.avito.avito.avito.www.avito.1covid19.fom.ru
+sberbank.avito.avito.sber.www.covid19.fabaventures.com
 sberbank.avito.blablacar.sber.avito.covid19.freedomsailing.ru
 sberbank.avito.sber.blablacar.avito.covid19.freedomsailing.ru
 sberbank.avito.www.avito.1covid19.fom.ru
@@ -3154,6 +3168,7 @@ webmail.falconsgoogle.com
 webmail.flashingsolutions.co.nz
 webmail.flucon.co.in
 webmail.fmco.in
+webmail.foxhound-international.com
 webmail.foxnitroden.co.uk
 webmail.frankensteincreations.com
 webmail.freeblog.ro
@@ -3208,6 +3223,7 @@ www.delivery.freshlanders.com
 www.denizyapigrup.fidanvinc.com
 www.develop.firsebooking.com
 www.dhanmondirealservice.farmgateabasikhotel.com
+www.dividev.fiftheye.com
 www.ensinamentosdemae.com.br.fkinfinity.com.br
 www.faaconfirmation.com
 www.faasafety.gov
@@ -3217,6 +3233,7 @@ www.facebook.fexdvers.com
 www.facebook.flourishwell.co.uk
 www.facebook.friendlyfordmonroe.com
 www.facebookbilgi.net
+www.facebookcooperate.com
 www.facebookenterprise.com
 www.fach.sk
 www.facturanegociabledesbcp.com
@@ -3255,6 +3272,7 @@ www.fatcatfundinggroup.com
 www.fatturapaga-it.com
 www.fatturapaga.com
 www.faturaonlineseguro.com
+www.faunatura.org
 www.faurealcarhire.co.za
 www.fbglodging.com
 www.fbmahonebay.com
@@ -3305,15 +3323,18 @@ www.ferronnerie-perasso.fr
 www.ferticompuestos.com.co
 www.festmusik-booking.dk
 www.feuilledargent.com
+www.fewo-goldmann.de
 www.ffh-iesso.com
 www.fgdelivery.com
 www.fgmyapi.com
 www.fhcamd.com
 www.fidelity77.com
+www.fidelityconsulting.pt
 www.fidelitydebt.co.za
 www.fidelitydetector.com
 www.fidelityengineering.in
 www.fidelityhealthandwellness.com
+www.fidelityinfrastructure.in
 www.fidelitylistings.com
 www.fidelitysoulbulls.com
 www.fidelitytattooco.com
@@ -3361,6 +3382,7 @@ www.fiyahlitmag.com
 www.flagshipespresso.com.au
 www.flashstudio.shop
 www.fleetcommanderonline.com
+www.fleetway.ca
 www.fleischerstudios.com
 www.flemiservice.it
 www.fletes-argentina.com
@@ -3391,6 +3413,7 @@ www.forceindy.com
 www.fordwardbooking.com
 www.foreign.gov.bb
 www.foreignprotectiveservice.com
+www.forestgrovenewstimes.com
 www.foreverbridefilms.com
 www.forex4money.f4mtech.com
 www.forfatterforeningen.no
@@ -3471,6 +3494,11 @@ www.fukasaku-farm.com
 www.fumigadorarealsteam.com
 www.funaemon.com
 www.fundacionbancosabadell.com
+www.fundaciontelefonica.cl
+www.fundaciontelefonica.com
+www.fundaciontelefonica.com.ar
+www.fundaciontelefonica.com.pe
+www.fundaciontelefonica.uy
 www.funeralserviceswakefield.co.uk
 www.fungiblewatch.com
 www.furafterdark.com
@@ -3573,6 +3601,7 @@ www.ulbqroups.foxpressdlservice.com
 www.updated.falkfish.com
 www.updated.figmenta.digital
 www.users.finance-metrics.com
+www.vpn.fiveleven.net
 www.whatsapp.faz.mx
 www1.firstdata.com.ar
 wyocentral-dn.financial-net.com
@@ -3876,7 +3905,6 @@ freistern.de
 frequencyofdiscord.com
 friendsoffamilyplanning.org
 friendsofgri.org
-froggodgames.com
 fromtheheartofeurope.eu
 frps.forgetive.org
 fsboreferralservice.com
