@@ -366,7 +366,9 @@ api.youatcollege.com
 appleaday.yourwebdev.com.au
 aspaljalan.yahoonta.com
 auspost.yamqs.com
+autdahori-admifsdfn.yourtrap.com
 auth.yuncezhihui.com
+authordasi-admindas.youdontcare.com
 authori-adhgmin.yourtrap.com
 avito.sber.avito.git.git.git.covid19.youhollywood.com
 b99.yahoo.co.jp
@@ -447,7 +449,9 @@ www.yapicimobilya.com
 www.yapingwang.net
 www.yapiplanlama.com
 www.yapisaglikturizm.com
+www.yapistil.com
 www.yapitasarim.com
+www.yapitasnakliyat.com
 www.yardimcilaryapi.com.tr
 www.yayasaninspirasi.yesb.my
 www.yellow-stripe.com
@@ -479,7 +483,9 @@ yapicimobilya.com
 yapin.sch.id
 yapishasanuddin.com
 yapitasarim.com
+yapitasnakliyat.com
 yapividanjor.com
+yestrip.nl
 yeublockchain.com
 ygmail.com
 yilkonyapi.com.tr
