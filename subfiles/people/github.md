@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Nhentai.net error Cloudflare with cookies](https://github.com/mikf/gallery-dl/issues/3699)
 - [!history and set_title stopped working](https://github.com/mmabrouk/chatgpt-wrapper/issues/133)
 - [!history and set_title stopped working](https://github.com/mmabrouk/chatgpt-wrapper/issues/132)
 - [api is outdated?](https://github.com/shashankktiwariii/anikatsu/issues/6)
