@@ -17627,6 +17627,7 @@ Here's a list of public Fediverse services.
 | `kohodon.com` | No |
 | `kohrville.net` | No |
 | `koi.moe` | Yes |
+| `koifu.re` | No |
 | `koinonia.club` | No |
 | `kokedon.xyz` | No |
 | `kokkoro.moe` | Yes |
@@ -38961,7 +38962,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,428 |
-| Normal | 29,489 |
+| Normal | 29,490 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
