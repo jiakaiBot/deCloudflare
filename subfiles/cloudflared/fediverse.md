@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,810 |
+| com | 5,811 |
 | social | 3,765 |
-| net | 2,958 |
+| net | 2,960 |
 | org | 2,082 |
 | de | 1,956 |
 
@@ -1454,6 +1454,7 @@ Here's a list of public Fediverse services.
 | `alpaka.pictures` | No |
 | `alpaka.social` | No |
 | `alpega.space` | No |
+| `alpenblick-resort.com` | No |
 | `alpha-omega.space` | No |
 | `alphago.co` | No |
 | `alphakilo.eu` | Yes |
@@ -13132,6 +13133,7 @@ Here's a list of public Fediverse services.
 | `grahamstewartphoto.com` | Yes |
 | `grainedutopie.eu` | No |
 | `gram.social` | Yes |
+| `grammus.net` | No |
 | `gramschladen.de` | No |
 | `granatapet.io` | Yes |
 | `grand-duchy.net` | No |
@@ -23680,6 +23682,7 @@ Here's a list of public Fediverse services.
 | `netsend.nl` | No |
 | `netsol.co.th` | Yes |
 | `netsons.org` | No |
+| `netsphere.one` | No |
 | `netsplit.social` | Yes |
 | `netstat.app` | No |
 | `netsyms.com` | Yes |
@@ -25856,6 +25859,7 @@ Here's a list of public Fediverse services.
 | `pantsu.life` | Yes |
 | `panxatony.net` | No |
 | `panxl.net` | No |
+| `panzner.net` | No |
 | `pao.moe` | Yes |
 | `paoloamoroso.com` | No |
 | `paoon.club` | No |
@@ -38996,7 +39000,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,444 |
-| Normal | 29,508 |
+| Normal | 29,512 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
