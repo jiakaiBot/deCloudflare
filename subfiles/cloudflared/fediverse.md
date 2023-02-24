@@ -15765,6 +15765,7 @@ Here's a list of public Fediverse services.
 | `itmgitmo.com` | No |
 | `itmslaves.com` | Yes |
 | `ito.com` | No |
+| `itoji0419.jp` | Yes |
 | `itools.jp` | No |
 | `itp.io` | No |
 | `itprotalk.social` | Yes |
@@ -38971,7 +38972,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,433 |
+| Cloudflare | 9,434 |
 | Normal | 29,495 |
 
 
