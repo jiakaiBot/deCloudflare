@@ -19,12 +19,12 @@
         {
           "applications": {
             "gecko": {
-              "strict_min_version": "91.0"
+              "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.26.1",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/addons/releases/ismm.xpi?82dbd17e268bcfb12d3bcdd84cbff2753de570530f4d1940d582dee357948c6f",
-          "update_hash": "sha256:82dbd17e268bcfb12d3bcdd84cbff2753de570530f4d1940d582dee357948c6f"
+          "version": "1.0.27",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/addons/releases/ismm.xpi?0854436688e68dbd6c731eb4fc39e1a6dbe97d0b4374c4e8f8a24a889d6a337f",
+          "update_hash": "sha256:0854436688e68dbd6c731eb4fc39e1a6dbe97d0b4374c4e8f8a24a889d6a337f"
         }
       ]
     },
