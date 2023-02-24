@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-02-27: [MIA (Miami) on 2023-02-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/tr9v1r3rk9rv)
 - 2023-02-27: [LAX (Los Angeles) on 2023-02-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qyx2y6mvgn08)
 - 2023-02-24: [GND (St. George's) on 2023-02-24](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/87n9vfq1zlnt)
 - 2023-02-28: [BOS (Boston) on 2023-02-28](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/t9bqwdb3ggt2)
