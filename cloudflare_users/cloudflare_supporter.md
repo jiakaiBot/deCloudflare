@@ -3470,6 +3470,7 @@ Do not create new issue or we will close it as duplicate.
 | [Grewal74166785@twitter](https://twitter.com/Grewal74166785/status/1405490752663261186) | advertise |
 | [GreySlitaz@twitter](https://twitter.com/GreySlitaz/status/1393006277333331976) | advertise |
 | [Grifed_@twitter](https://twitter.com/Grifed_/status/1519028872389570565) | advertise |
+| [GriffeeLevi@twitter](https://twitter.com/GriffeeLevi/status/1629201346367823874) | advertise |
 | [griffins@twitter](https://twitter.com/griffins/status/1451393828435345414) | advertise |
 | [GrigoriyIgnati1@twitter](https://twitter.com/GrigoriyIgnati1/status/1505872579822862336) | advertise |
 | [Grimsley_16@twitter](https://twitter.com/Grimsley_16/status/1528654567038078977) | advertise |
