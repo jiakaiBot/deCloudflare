@@ -2051,6 +2051,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ck30553721@twitter](https://twitter.com/Ck30553721/status/1392149231826133005) | advertise |
 | [ckm98qqw2r1@twitter](https://twitter.com/ckm98qqw2r1/status/1586021227667525633) | advertise |
 | [Cky03556663@twitter](https://twitter.com/Cky03556663/status/1391966836149809159) | advertise |
+| [cL97120100@twitter](https://twitter.com/cL97120100/status/1629013636718170112) | advertise |
 | [clacliclu@twitter](https://twitter.com/clacliclu/status/1393260220885831681) | advertise |
 | [Clarence2510@twitter](https://twitter.com/Clarence2510/status/1556321410225565696) | advertise |
 | [ClassicOTPlumbe@twitter](https://twitter.com/ClassicOTPlumbe/status/1401089260011372547) | advertise |
@@ -3267,6 +3268,7 @@ Do not create new issue or we will close it as duplicate.
 | [gameonwe@twitter](https://twitter.com/gameonwe/status/1606358816584515584) | advertise |
 | [GamerBoy1789@twitter](https://twitter.com/GamerBoy1789/status/1549586329901535234) | advertise |
 | [Gameski65226328@twitter](https://twitter.com/Gameski65226328/status/1394977499864576006) | advertise |
+| [GamesStudio5@twitter](https://twitter.com/GamesStudio5/status/1629003514331496448) | advertise |
 | [gamesuwan@twitter](https://twitter.com/gamesuwan/status/1580106222203973634) | advertise |
 | [Gametes97490418@twitter](https://twitter.com/Gametes97490418/status/1550866603083829248) | advertise |
 | [gameXprofanclu2@twitter](https://twitter.com/gameXprofanclu2/status/1394939425281376259) | advertise |
@@ -6144,6 +6146,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lovery80916268@twitter](https://twitter.com/Lovery80916268/status/1394129643360370691) | advertise |
 | [Lovetofun1@twitter](https://twitter.com/Lovetofun1/status/1399009105184915456) | advertise |
 | [Loveyou57911593@twitter](https://twitter.com/Loveyou57911593/status/1382721327207907341) | advertise |
+| [Lovie07096051@twitter](https://twitter.com/Lovie07096051/status/1629003877117837312) | advertise |
 | [Lowkey6663@twitter](https://twitter.com/Lowkey6663/status/1508020581207527430) | advertise |
 | [lowkey_jimenez@twitter](https://twitter.com/lowkey_jimenez/status/1399129185591779328) | advertise |
 | [lox14370@twitter](https://twitter.com/lox14370/status/1609109721956368384) | advertise |
@@ -10583,8 +10586,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
