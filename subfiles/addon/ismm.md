@@ -4,6 +4,7 @@
 
 ![](../../image/ismmpreview.jpg)
 
+![](../../image/ismm_sample.jpg)
 
 ```
 
