@@ -84,7 +84,6 @@ container-62172211.jpt.irangpu.com
 copernicus-int.cptec.inpe.br
 cordoceu.inventivedns.com
 corona-ethnomed.armenisch.info-data.info
-corona.improveperformancegroup.no
 coronaswitch-com.indiamarketingsolution.com
 corpormobileasia.icbc.com.cn
 covid-19-origin.integromat.tech
@@ -318,7 +317,6 @@ instaagram.app
 instalacje-piechowiak.pl
 instantcoins-exchange.uk
 instantukrainian.com
-institutocarbono.com
 institutodavinci.com
 institutoproolhar.com.br
 instruction-required-dhpack-express.com
@@ -1821,11 +1819,14 @@ wwwuat.ibullion.icicibank.com
 xerolanches.itapetingadelivery.com
 xxxhome.ixbb.ru
 zob.inrae.fr
+3001623-bangkok-post.cf.ivideosmart.com
 a.insgly.net
+a0e5de25f175becee81035a8a56c0fe0-httpcache0-03837-cacheod0.dna.ip-only.net
 adfs.intrum.no
 adm.indosupport.com
 adtdt2api.enp.immigration.govt.nz
 advancebat130220230330.indussecure.com
+afyg-g3-23gveqv-3v321vg-c231c3.infura-ipfs.io
 aieledev.iscsolution.net
 airfranceklm-d9-ppd.integra.fr
 akamai.waf-test-02.cloud.itau.com.br
@@ -1840,11 +1841,13 @@ amazon-trutyuert.isasecret.com
 ametsoc.informz.net
 amp.ibtimes.sg
 api.insidesales-playbooks.com
+api.instacaptcha.com
 api.legacy-business.staging.ittaxi.it
 api.pmp.infopro-digital-automotive.com
 api.stg-hd.ihis.com.sg
 api.vb.incerta.be
 api.xplan-outlook-plugin.aws-wealth-uat-uk.iress.online
+apiportal.infodation.com
 app.ifinancepay.com
 apple.ipgirl.com
 appleld.id-issesion.com
@@ -1913,6 +1916,7 @@ de.iappswiss.org
 demande-opposition.inpi.fr
 denki.insweb.co.jp
 desktop.itv.by
+dev.api.instacaptcha.com
 dev.ita-ikaalistenvpk.fi
 dh-build-test-2.icmcdev1.com
 dhlvodafone.increso.it
@@ -1930,6 +1934,7 @@ ebay-city.i-ways-network.org
 ecdcstage.ingenta.com
 ecmqa.irving.com
 ecomm.istate.com
+edm.ipart.nsw.gov.au
 eki-net.com.igjd.cn
 eld1.inthinc.com
 email.invoiceplus.de
@@ -1950,6 +1955,7 @@ facebook-bot.instal.com
 facebook.instaawork.com
 fin.ibc.ru
 fl-app.icchie.org
+fp.idric.com.mx
 frigg.test.oidc.idtech.no
 fy.internationalinternetsecurity.com
 ga.internationalinternetsecurity.com
@@ -2022,6 +2028,7 @@ idscord.com
 ieltspresso.com
 iett.gr
 ifbic.infobolsanet.com
+ifconsultants.org
 ifmgroup.eu
 ig-verifiedcenter.com
 ig.internationalinternetsecurity.com
@@ -2036,6 +2043,7 @@ imaginariumitaliano.com
 imedical.expert
 imgoing-prod-api.xyz
 imgspics.com
+imobilepreprod.icicibank.com
 imoney168.com.tw
 impedagogy.com
 imperialgeosecurity.com
@@ -2090,8 +2098,10 @@ interiordoavesso.pt
 interjob-swiss.ch
 internal-alerts.com
 internetbankingtsb-signin.com
+internetempresago.com
 internetoutreachexperts.com
 interviewtimes.net
+intoworks.fi
 intragmail.com
 intuitivemusic.dk
 inventivesands.ae
@@ -2106,6 +2116,7 @@ invoice.inertia.id
 invoice.instacube.online
 invoice.io-storage.co.uk
 invoiceplane.internet-department.net
+inwata.com
 ionfireandsafety.co.id
 ipaper.ipapercms.dk
 iposapi-uat.investorpos.com
@@ -2139,7 +2150,6 @@ itworksonlocal.dk
 iujxnsp.com
 ivolve.io
 ivorywallet.online
-ixsamirimyuklemma.net
 jenkins.iwannaticket.com.au
 ka.internationalinternetsecurity.com
 kali.inovaway.org
@@ -2205,6 +2215,7 @@ pbc.tbibank-test.irispay.bg
 perronecompagni.istitutogenealogicoitaliano.it
 pl.iowebsecure.com
 places.infobridgeuniverse.com
+pmplidlive.itemdb.com
 pns-pricewatchgame.itehk-services.com
 portal.intrum.com
 preapi.immigration.govt.nz
@@ -2217,6 +2228,7 @@ pwa.it2innova.com
 qasts.mobility.ihis.com.sg
 raiffeisen.irodai-masszazs.hu
 rancher.ev3.k8sg-dev.cloud.itau.com.br
+rbl-banca.indiainfoline.com
 rpr.irs.gov
 rustdesk.i-eng.nl
 sarimbit.invoicezivana.com
@@ -2258,8 +2270,12 @@ securemail.insadminservices.com
 secureupload.iepdirect.com
 seguridadsocialsolicitarcitas.islacristinaparallevar.es
 sendungsstatusch654d.is-a-socialist.com
+service-ata.icmaa.eu
+service-ataus.icmaa.eu
+services.ipartner.es
 setup.icloud.com
 sevp.ice.gov
+sh2-ue321.imptracking.com
 shop.iwebdev.ir
 shopify.innoweather.com
 shoppingtest.ing.com.tr
@@ -2360,6 +2376,7 @@ www.alumni.ikbasatili.com
 www.api.idealexpresso.pt
 www.app.invoicemudah.com
 www.apple-watch-series-1.itekcare.net
+www.apple.com.ilog-map.info
 www.apple.ilocations.us
 www.apple.isaiahadekanye.com
 www.arabpst.ibtbooking.com
@@ -2394,6 +2411,7 @@ www.ebaybypass.ios-jailbreak.com
 www.elite-shopify.inpq.net
 www.espacebenignoservice.com.incsse.com
 www.expertsecurity.inetcenter.cl
+www.facebook.com.i4uagency.org
 www.facebookcolor.ininet.hu
 www.fallbrookfinancialservices.iconixclient.host
 www.fhmultistore.invoicemudah.com
@@ -2405,6 +2423,7 @@ www.geek.insconto.net
 www.git.gitlab.gitlab.git.gitlab.gitlab.secure.itmosfera.ru
 www.gitlab.git.gitlab.git.gitlab.git.crm.izmaylovskiy.ru
 www.googlef1eb82eb24ddcfd1.intecomdigital.com
+www.governmentcompliantwebsites.infiniteindex.com
 www.hasibservice.infinitecubebd.com
 www.healthtrack-backend.idilab.es
 www.helpdesk.interad.gr
@@ -2416,11 +2435,14 @@ www.ia-forum.org
 www.iacademygroup.cl
 www.iact.ngo
 www.iag.com.au
+www.iagsilverstripe.com
+www.iappswiss.org
 www.iasteam.org
 www.ibank.ingoffshores.com
 www.ibanksystems.com
 www.ibiservice.com
 www.ibmsupport.intibharu.com
+www.ibnz.co.uk
 www.ic2serenatreviso.it
 www.ic2stagno.edu.it
 www.ic3avezzano.edu.it
@@ -2440,6 +2462,7 @@ www.iceuropa-alighieri.edu.it
 www.icfermi-re.edu.it
 www.icgrossitreviglio.edu.it
 www.icgrottedicastro.edu.it
+www.iciaevents.org
 www.iciciprulife.com
 www.icko-apiculture.com
 www.icleonesinigaglia.edu.it
@@ -2518,6 +2541,7 @@ www.ileri-yapi.com
 www.ileseguin-rivesdeseine.fr
 www.ilfl.co.in
 www.illy.iespresso.ee
+www.ilmaterasso.it
 www.ilrosso.de
 www.ilyadayapi.com
 www.imaginariumitaliano.com
@@ -2542,6 +2566,7 @@ www.indianwoodsmbc.com
 www.indiapalacefargo.com
 www.indieboomff.com
 www.indiepublishinggroup.com
+www.indossovinorosso.com
 www.indusservicio.com
 www.industriaslacoruna.com
 www.infinimata.com
@@ -2567,6 +2592,7 @@ www.insightcloud.se.com
 www.inspectrum.io
 www.inspiredcitizen.com
 www.instagrameando.net
+www.instantia.cr
 www.instanttraffics.com
 www.instimoney.online
 www.institutionalinvestor.com
@@ -2605,8 +2631,11 @@ www.inwit.it
 www.inworld.ai
 www.ioleonardodavinci.edu.it
 www.ionfireandsafety.co.id
+www.ioposso.eu
 www.iowebsecure.com
+www.ipart.nsw.gov.au
 www.ipcsecurity.co
+www.iphone-repair-espresso.net
 www.iphoneplace.com
 www.iphonerepairswiss.com
 www.ips-journal.eu
@@ -2661,6 +2690,7 @@ www.italianoptions.com
 www.italyinvestmoney.xyz
 www.itau.com.br
 www.itauba.mt.gov.br
+www.itauudenmaanomaishoitajat.fi
 www.iteamabile.edu.it
 www.itimariecurie.edu.it
 www.itmattei.edu.it
@@ -2706,6 +2736,7 @@ www.pay.ebay.com.item6310.com
 www.payment.inflykebonsari.online
 www.payments.itiswhatitis.se
 www.perfectmoney.iubaby.pk
+www.pinjamanbank.net.ikatandinamik.my
 www.prima-di-adsso.inquadratura-oltre.com
 www.proremovendovarizes.com.br.instaladordehabitos.com.br
 www.prostandard.innvotech.net
@@ -2724,6 +2755,8 @@ www.services.igsgroup.co.id
 www.servicios.ingegasesyredes.com
 www.sohel.ispbilling.info
 www.soutien-learning.ideasland.ma
+www.sport.intopcservice.com
+www.standardi-znanja.info.in.rs
 www.support.ibrows.ro
 www.support.iterativestudios.com
 www.support.profosvita.online.it-gravity.co
@@ -2737,6 +2770,7 @@ www.whatsapp.iboozter.com
 www.whatsapp.ieadap.com
 www.whatsapp.italiacolchoes.com.br
 www.whatsappquery.indiaray.in
+www.worldpadel.intopcservice.com
 www2.nancy.inrae.fr
 xh.internationalinternetsecurity.com
 xl.icmanage.com
