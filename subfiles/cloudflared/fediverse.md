@@ -9468,6 +9468,7 @@ Here's a list of public Fediverse services.
 | `electrosphe.re` | No |
 | `electroverse.tech` | No |
 | `elefant.social` | No |
+| `elefanti.co` | No |
 | `elefantico.social` | No |
 | `elegantnewt.blog` | No |
 | `eleith.com` | No |
@@ -38992,7 +38993,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,441 |
-| Normal | 29,507 |
+| Normal | 29,508 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
