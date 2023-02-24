@@ -7680,6 +7680,7 @@ Do not create new issue or we will close it as duplicate.
 | [nguyenk15697@twitter](https://twitter.com/nguyenk15697/status/1556293365196500992) | advertise |
 | [nguyenkhacanhh@twitter](https://twitter.com/nguyenkhacanhh/status/1478749565364813825) | advertise |
 | [nguyenlong2122@twitter](https://twitter.com/nguyenlong2122/status/1552206834160660480) | advertise |
+| [NguyennLuong@twitter](https://twitter.com/NguyennLuong/status/1629023245801508864) | advertise |
 | [NguyenP04335211@twitter](https://twitter.com/NguyenP04335211/status/1471757635879780356) | advertise |
 | [NguyenP80191706@twitter](https://twitter.com/NguyenP80191706/status/1567330421897310208) | advertise |
 | [Nguyent24495937@twitter](https://twitter.com/Nguyent24495937/status/1497216805932126215) | advertise |
