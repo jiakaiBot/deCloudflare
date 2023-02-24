@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Authentication issue from Cloudflare workers](https://github.com/upstash/upstash-kafka/issues/47)
 - [Nhentai.net error Cloudflare with cookies](https://github.com/mikf/gallery-dl/issues/3699)
 - [!history and set_title stopped working](https://github.com/mmabrouk/chatgpt-wrapper/issues/133)
 - [!history and set_title stopped working](https://github.com/mmabrouk/chatgpt-wrapper/issues/132)
