@@ -143,7 +143,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | digitale-gesellschaft.ch | No |
 | digitalsize.net | No |
 | dionysus.beauty | Yes |
-| diplo.es | Yes |
 | disconnect.app | Yes |
 | dlinkddns.com | No |
 | dns.google | No |
@@ -227,7 +226,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hanmey.de | No |
 | haoxuan.xyz | Yes |
 | harriganhome.ga | No |
-| harvester.fr | Yes |
 | he.net | No |
 | hee.ink | Yes |
 | heliumcloud.cc | Yes |
@@ -399,7 +397,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | pyry.me | Yes |
 | qquack.org | Yes |
 | quad9.net | Yes |
-| quentin-stoeckel.fr | No |
 | qwer.pw | Yes |
 | r0cket.net | No |
 | r1bnc.com | Yes |
@@ -488,7 +485,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wakgood.net | Yes |
 | wantaquddin.com | No |
 | waringer-atg.de | No |
-| warpnine.de | No |
 | wewitro.net | No |
 | woozeno.eu | No |
 | x88.in | Yes |
@@ -508,8 +504,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 219 |
-| Normal | 270 |
+| Cloudflare | 217 |
+| Normal | 268 |
 
 
-### 44.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
