@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,810 |
-| social | 3,764 |
+| social | 3,765 |
 | net | 2,958 |
 | org | 2,082 |
 | de | 1,956 |
@@ -23136,6 +23136,7 @@ Here's a list of public Fediverse services.
 | `n64.social` | No |
 | `n6a.xyz` | No |
 | `n7.gg` | No |
+| `n7.social` | Yes |
 | `n7mn.xyz` | Yes |
 | `n8e.dev` | Yes |
 | `n8vsi.com` | No |
@@ -38992,7 +38993,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,441 |
+| Cloudflare | 9,442 |
 | Normal | 29,508 |
 
 
