@@ -5105,6 +5105,7 @@ Here's a list of public Fediverse services.
 | `casually.cat` | Yes |
 | `casuallyblue.xyz` | No |
 | `cat-from-outer.space` | No |
+| `cat.broker` | No |
 | `cat.engineer` | Yes |
 | `cat.family` | No |
 | `cat.scot` | Yes |
@@ -6210,7 +6211,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -24503,7 +24504,7 @@ Here's a list of public Fediverse services.
 | `nspeaks.xyz` | Yes |
 | `nspes.ca` | No |
 | `nssvc.top` | Yes |
-| `nstr.se` | No |
+| `nstr.se` | Yes |
 | `nsupdate.info` | Yes |
 | `nsw.social` | No |
 | `ntauthority.me` | Yes |
@@ -38963,7 +38964,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,430 |
-| Normal | 29,489 |
+| Normal | 29,490 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
