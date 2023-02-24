@@ -5380,8 +5380,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -11756,6 +11756,7 @@ Do not create new issue or we will close it as duplicate.
 | [Wilhelm30014903@twitter](https://twitter.com/Wilhelm30014903/status/1403652402616492032) | advertise |
 | [Wiliam39135257@twitter](https://twitter.com/Wiliam39135257/status/1607422671834451969) | advertise |
 | [Will26294908@twitter](https://twitter.com/Will26294908/status/1546869335934742532) | advertise |
+| [willglob@twitter](https://twitter.com/willglob/status/1629075289392259074) | advertise |
 | [William12682865@twitter](https://twitter.com/William12682865/status/1392605865677496322) | advertise |
 | [William19073051@twitter](https://twitter.com/William19073051/status/1380260553881497607) | advertise |
 | [William59676471@twitter](https://twitter.com/William59676471/status/1390854991309467649) | advertise |
