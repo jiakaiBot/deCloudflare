@@ -11582,6 +11582,7 @@ Do not create new issue or we will close it as duplicate.
 | [vvhieu34@twitter](https://twitter.com/vvhieu34/status/1567982342584803328) | advertise |
 | [Vvv37293205@twitter](https://twitter.com/Vvv37293205/status/1600375772740349954) | advertise |
 | [vxunc9@twitter](https://twitter.com/vxunc9/status/1384036046799736832) | advertise |
+| [Vy20542147@twitter](https://twitter.com/Vy20542147/status/1628992858005831680) | advertise |
 | [vysecurity@twitter](https://twitter.com/vysecurity/status/1525362451516370944) | advertise |
 | [vZHh3za8DnpsEuZ@twitter](https://twitter.com/vZHh3za8DnpsEuZ/status/1394326959975407619) | advertise |
 | [W01fyH@twitter](https://twitter.com/W01fyH/status/1377451953353986053) | advertise |
