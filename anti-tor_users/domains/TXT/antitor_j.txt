@@ -804,6 +804,7 @@ amazon-fdgh.justdied.com
 amazon-hbnmhjhgjhgn.jkub.com
 amazon-vbvnh.justdied.com
 annijamikkojupinsuku.jotteimeitaunohdettaisi.fi
+api-gw-test.jazzcash.com.pk
 api-vo.jitsi.net
 autodiscover.jaimeoneilldentistry.com
 bloxnord.jlaasonen.fi
@@ -817,6 +818,7 @@ cocoroplusapp.jp.sharp
 contact-blacklist.justcall.dev
 control.joa2020.jp
 cpanel.jasjasseba.site
+cpanel.jawsprint.com
 design.jadwalkeberangkatan.com
 deutsche-tanzkompanie.jweiland-hosting.de
 dev-api.job-posting.ai
@@ -872,6 +874,7 @@ jascii.dev
 jattjardinero.es
 jaydenunlock.com
 jcaa.gov.jm
+jdc.bio
 jeanjpacheco.icu
 jeffkreeftmeijer.com
 jerbgavitanomoshii.com
@@ -887,6 +890,7 @@ jewelrysmutual.com
 jewishsacredaging.com
 jf-marvila.pt
 jhblades.com
+jindra.jelly.cz
 jiovideo.jio.com
 jiowebtec.com
 jiowoodart.com
@@ -990,6 +994,8 @@ uatiams.jci-hitachi.com
 usps-user.vip.jisudy.vip
 vpn1.joajandek.hu
 vpnadm.joajandek.hu
+vulcan-medica.secure.junoemr.com
+webdisk.jawsprint.com
 webdisk.jmfacilitiesservices.com
 webdisk.judynorbury.com
 webdisk.junjiono.net
@@ -997,6 +1003,7 @@ webmail.jadecanvadesign.com
 webmail.jangankendor2.shop
 webmail.jardinesdetudela.com
 webmail.jasjasseba.site
+webmail.jawsprint.com
 webmail.jdjconstructionroofingllc.com
 webmail.jempolgroup.id
 webmail.jingersstainedglass.com
@@ -1007,6 +1014,7 @@ www.accounting.jb-global.com
 www.adobetuber.monsterexpress.jetboy.jp
 www.booking.jigsawpuzzleworld.com.sg
 www.cashmoney.jadidana.site
+www.chases-balenciaga-bi.j2911.fun
 www.citius.josecarlossoto.es
 www.clientarea.hybridservers.org.jteksolutionsusa.com
 www.comsupport-sub.jtbnn.com
@@ -1083,6 +1091,7 @@ www.joyaitaliano.com
 www.joyatparty.com.my
 www.judynorbury.com
 www.julehendrischke.com
+www.juliasangervo.fi
 www.julienpinaud.net
 www.julietpalmer.ca
 www.junettebay.dk
