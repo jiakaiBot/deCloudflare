@@ -23966,7 +23966,7 @@ Here's a list of public Fediverse services.
 | `nindanaoto.dev` | Yes |
 | `nine-hells.net` | Yes |
 | `nine.land` | Yes |
-| `nine.moe` | No |
+| `nine.moe` | Yes |
 | `ninefortyone.social` | No |
 | `ninetailed.space` | No |
 | `ninetailed.uk` | No |
@@ -29485,6 +29485,7 @@ Here's a list of public Fediverse services.
 | `sabross.xyz` | No |
 | `sac.moe` | Yes |
 | `sac.se` | No |
+| `sacasa.casa` | Yes |
 | `sachertorte.xyz` | No |
 | `sachsen-social.de` | Yes |
 | `sackheads.blog` | No |
@@ -38961,8 +38962,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,428 |
-| Normal | 29,490 |
+| Cloudflare | 9,430 |
+| Normal | 29,489 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
