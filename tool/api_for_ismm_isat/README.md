@@ -27,7 +27,8 @@
 2. Create `listdata` directory.<br>
     e.g. `/api/listdata/`
 3. Download JSON files (*.json) from [/anti-tor_users/domains](../../anti-tor_users/domains) and save them to dir above.<br>
-    e.g. `/api/listdata/antitor_e.json`
+    e.g. `/api/listdata/antitor_e.json`<br>
+    (you can use [cfdomains --dl](../cfdomains/README.md) to download JSON)
 4. Open your API. It should say `OK`.<br>
     e.g. `http://localhost/api/isat.php`
 
