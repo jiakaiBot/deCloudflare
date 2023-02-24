@@ -7364,6 +7364,7 @@ Here's a list of public Fediverse services.
 | `danielstucke.com` | No |
 | `danielwmorgan.town` | Yes |
 | `danirod.es` | No |
+| `danis.one` | Yes |
 | `danj.ca` | No |
 | `dank-me.me` | Yes |
 | `dank.software` | No |
@@ -19718,7 +19719,7 @@ Here's a list of public Fediverse services.
 | `mablr.org` | No |
 | `mabulledu.net` | No |
 | `mac-vicar.eu` | No |
-| `macalba.net` | No |
+| `macalba.net` | Yes |
 | `macalinao.org` | Yes |
 | `macato.net` | Yes |
 | `macavity.cat` | No |
@@ -38993,8 +38994,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,442 |
-| Normal | 29,508 |
+| Cloudflare | 9,444 |
+| Normal | 29,507 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
