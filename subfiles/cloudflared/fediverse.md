@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,803 |
-| social | 3,761 |
+| com | 5,804 |
+| social | 3,762 |
 | net | 2,958 |
 | org | 2,080 |
 | de | 1,953 |
@@ -21182,6 +21182,7 @@ Here's a list of public Fediverse services.
 | `melbye.design` | No |
 | `melcore.fr` | No |
 | `meld.de` | No |
+| `melder.social` | No |
 | `melijn.me` | Yes |
 | `melilot.icu` | No |
 | `melin.org` | Yes |
@@ -24887,6 +24888,7 @@ Here's a list of public Fediverse services.
 | `ogrelair.net` | No |
 | `ogrumm.club` | No |
 | `ogspy.fr` | No |
+| `ogtrekker.com` | No |
 | `oh-w.tf` | No |
 | `oh14.de` | No |
 | `oh2cil.radio` | No |
@@ -38964,7 +38966,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,430 |
-| Normal | 29,490 |
+| Normal | 29,492 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
