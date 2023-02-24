@@ -3883,6 +3883,7 @@ Do not create new issue or we will close it as duplicate.
 | [hmuu_kyaw@twitter](https://twitter.com/hmuu_kyaw/status/1614532136165605379) | advertise |
 | [hn40147@twitter](https://twitter.com/hn40147/status/1515949214903111682) | advertise |
 | [Hn53502@twitter](https://twitter.com/Hn53502/status/1500090041405952007) | advertise |
+| [hnd_25251325@twitter](https://twitter.com/hnd_25251325/status/1628937087654436864) | advertise |
 | [hng8_qun@twitter](https://twitter.com/hng8_qun/status/1534239549207252992) | advertise |
 | [Hng25016334@twitter](https://twitter.com/Hng25016334/status/1404028778926403584) | advertise |
 | [hng49153156@twitter](https://twitter.com/hng49153156/status/1395678619909771266) | advertise |
