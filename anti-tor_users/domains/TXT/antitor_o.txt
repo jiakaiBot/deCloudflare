@@ -192,7 +192,6 @@ omnium.gr
 omnium.online
 omniwoundapi.com
 omstatesgoa.com
-onbet66.com
 one-drama-auth.app.one-studio.me
 onedentalsupport.com
 onemobilebyon.ocbcnisp.com
@@ -861,7 +860,6 @@ opdaq.com
 opencognitives.com
 openculture.agency
 openhardware.science
-openhub.net
 opensea-claim.buzz
 opensecret.online
 openticket.opensaaslive.com
@@ -1260,6 +1258,7 @@ www.whitelistpass.obzidian.net
 xbox.orange.fr
 0898ujkfff.onedumb.com
 66bmfl7r.optimalworkshop.com
+a16404930c1prd-store.occa.us-ashburn-1.ocs.oraclecloud.com
 ac-store.optix.co.uk
 adfs.oerag.de
 adfs.ostbau.de
@@ -1279,6 +1278,7 @@ api.cb55tqh30c-australia1-s1-public.model-t.cc.commerce.ondemand.com
 api.o2rintelligence.com
 api.opentok.com
 apinewbi.o2rintelligence.com
+argentina.orbia.ag
 armstrong-law.outlookdev.co.uk
 auth.test.ordoclic.fr
 avito.sber.sberbank.sber.sber.www.www.covid19.omveterinary.com
@@ -1288,6 +1288,7 @@ b840.prf-banker.online-banking-services.com
 behemoth.orange.com.do
 bi-integration-dev-ip-ticketing.cfapps.eu10.hana.ondemand.com
 blog.blog.blog.test.wordpress.onnerz.be
+blogs.openbookpublishers.com
 booking.omnitech.pro
 booking.orangeboxphotobooth.com
 booking.oyes.pl
@@ -1298,6 +1299,7 @@ canarydse01-oicnusgovacc01-lf.0006.integration.us-langley-1.ocp.oraclegovcloud.c
 canj0702.odns.fr
 cf-dev-cpi.it-cpi002-rt.cfapps.ap10.hana.ondemand.com
 cha.onblix.com
+chat.oteuamigo.pt
 chatfile.onnet21.com
 chestergame.outlookdev.co.uk
 click.openbankingexcellence.online
@@ -1328,12 +1330,14 @@ di-broker.ingress.reg.230-eff0.aws.di-ci.hanacloud.ondemand.com
 di-broker.ingress.reg.576-81.aws.di-ci.hanacloud.ondemand.com
 di-broker.ingress.reg.949-cc41.aws.di-ci.hanacloud.ondemand.com
 di-broker.ingress.reg.i308555deb.aws.di-dev.hanacloud.ondemand.com
+discourse.onplanetearth.net
 dns.eu-frankfurt-1.oci.oraclecloud.com
 domaintohosting.organiccrap.com
 donations.ourdailybread.org
 e100302-iflmap.hcisbt.eu1.hana.ondemand.com
 east.oktaontheroad.com
 economist.okta-emea.com
+elastic.seetlu.orange-sonatel.com
 email.outboundsend.com
 en.oktagono.com
 epp.ordercontrolbox.com
@@ -1372,6 +1376,7 @@ igr.olma-messen.ch
 info.otto-payments.de
 infoform.orange.fr
 instfund.ocbc.com
+interface.oeticket.com
 invoice.oracleaviation.co.za
 jwuq7jeq.openweb.bbva
 lb142943-iad-fsgb-pac-vdr.oracleindustry.com
@@ -1416,12 +1421,15 @@ ocean-citizens.org
 oceanlinkparcel.com
 oceans-group-booking.com
 octaneclub.se
+odb.outbrain.com
 odoo16.odooetc21.com
 oepairsoft.com
 ofertasdesucesso.com.br
 ofertasemconta.com.br
 oferty-bankowe.pl
+offbeateats.org
 officesolutions.com
+offsideupdate.com
 oire.me
 okanaganjournal.com
 okanoganfamilyfaire.net
@@ -1441,6 +1449,7 @@ omarstietravelconsult.com
 omegasupport.dk
 omg3qmobile.com
 omkaaltyapi.com
+onattukarakompanmar.com
 onboard-app.openinvoice.com
 ondernemersteam.nl
 onderyapi.com.tr
@@ -1460,17 +1469,21 @@ onlinebdo-secured.com
 onlineferryticket.com
 onlyvaninsurance.co.uk
 onnoboerwinkel.nl
+ontarioinsulators.com
 ontarioportal.com
 onto-it.nz
+op-todentaminen.info
 opendatamedia.net
 openhouse4cities.com
 openid-int.orange.eg
 openingline.co
 openmediavault.info
 openmicroblogger.org
+openobservability.io
 opensiddur.org
 operahedeland.dk
 opi-security.com
+opinionsciencepodcast.com
 opose.fr
 opositest.es
 opprinnelsesgaranti.no
@@ -1497,6 +1510,7 @@ oulunkattopalvelu.fi
 oulunkehitysvammaistentuki.fi
 ourbrainbank.org
 ourmoneymarket.com
+ourstarblazers.com
 ourtime.dk
 ourtime.us
 outletsofadirect.fr
@@ -1513,6 +1527,7 @@ ozkilic.com.tr
 parcelamentomei.oportaldomei.com.br
 paribahis.oiuarxs.com
 payments.outsourcingangel.com
+payments.uat.ampc.opti9tech.info
 payu.okta-emea.com
 provisioning.tt.staging.xion.oxcs.net
 qwasad.organiccrap.com
@@ -1528,6 +1543,8 @@ roblogappthingy.pages.ontraport.net
 safetycred-creditscore.homolog.ocrediario.com.br
 salestest.orico.co.jp
 samruddhib.onlinegoogleadscourse.com
+sberbank.avito.avito.avito.avito.git.covid19.ooo-medexpress.ru
+sberbank.avito.avito.avito.covid19.ooo-medexpress.ru
 sberbank.avito.blablacar.avito.www.covid19.omveterinary.com
 sberbank.blablacar.avito.avito.sber.www.covid19.omveterinary.com
 sberbank.blablacar.avito.sber.www.covid19.omveterinary.com
@@ -1595,6 +1612,7 @@ www.billing.olt-bot.my.id
 www.booking.omnitech.pro
 www.booking.oyes.pl
 www.bookings.omadudu.com
+www.bookings.opus12.ca
 www.boxbilling.opencartcart.com
 www.citi.com.otelferah.com.tr
 www.citybank.onlinedikari.com
@@ -1608,12 +1626,14 @@ www.devstage.oekoswiss.de
 www.douglastriggs.outlookcreek.com
 www.drupal.oktal-pharma.hr
 www.ebay.one4all.pk
+www.expresslogisticsservice.online.osharestech.com
 www.facebook.octav.co.uk
 www.git.gitlab.gitlab.gitlab.www2.backup.olimp-shop.net
 www.gitlab.git.gitlab.git.fe.olgatnt.ru
 www.gitlab.tv.ooo-medinkom.ru
 www.google.ocaleni.pl
 www.invoice.ofex.ge
+www.invoice.olhops.com
 www.invoice.ongray.com
 www.invoice.oorize.com
 www.j2c.onthetrack.io
@@ -1643,9 +1663,11 @@ www.oesterreichische-citizen-science-konferenz-2022.com
 www.ofchuntington.org
 www.ofertasemconta.com.br
 www.oferty-bankowe.pl
+www.offensiveselfdefence.de
 www.officemarket.hu
 www.officialmaurysterling.com
 www.officinaomniabasso.it
+www.offlinegamer.co.uk
 www.ohabooking.oha.ph
 www.ohiostatearms.com
 www.oikosresorts.com
@@ -1688,6 +1710,7 @@ www.openevidence.com
 www.openhorizons.org
 www.openhouse4cities.com
 www.openvirtualization.pro
+www.opeswiss.com
 www.opfleetservice.com
 www.opinionmilesclub.ca
 www.opustech.us
@@ -1746,6 +1769,7 @@ www.surokkha.gov.bd.verify.online-id.site
 www.tangerinemountain.orderfastfoodanime.com
 www.telegram.otbmediaconcept.com
 www.testpayment.orientalsails.com
+www.uber3d.outfox.partners
 www.webonitis.oktamgroup.com
 www.westernunionphilippinebranches.owwabenefits.com
 www.yoga.onbooking.ca
