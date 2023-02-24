@@ -1142,7 +1142,6 @@ vuelodequimera.com.ar
 vulgamag.ca
 vulgartaivert.website
 vvwvloginsunico-viabpc.com
-vwin88.ltd
 vwtransporterberles.hu
 webdisk.vanguardchurch.info
 webdisk.venomkimya.com.tr
@@ -1276,6 +1275,7 @@ api.vship.com.vn
 apiekyc.cloud.vietbank.com.vn
 apiekyc.sandbox.vietbank.com.vn
 apieu.verteil.com
+applehome-test.vogs.by
 apps.saas.visicom.com
 arcfmweb.vivaservizi.it
 arzte.v-skin.ch
@@ -1284,9 +1284,12 @@ auth.variant9.dev
 autodiscover.grupoconfianza.com.br.volteaviver.com.br
 autodiscover.vintagepremiumgift.com
 avito.avito.avito.blablacar.sber.covid19.view-manager.com
+avito.avito.avito.blablacar.sberbank.covid19.view-manager.com
 avito.avito.avito.sberbank.www.m.www.covid19.vitorheinzen.com
 avito.avito.blablacar.avito.avito.covid19.view-manager.com
 avito.avito.blablacar.avito.avito.sber.covid19.view-manager.com
+avito.avito.blablacar.blablacar.avito.covid19.view-manager.com
+avito.avito.sber.avito.avito.avito.covid19.view-manager.com
 avito.avito.sberbank.www.m.www.covid19.vitorheinzen.com
 backoffice.qua.viaverde.pt
 backoffice1.qua.viaverde.pt
@@ -1306,6 +1309,7 @@ cdn.violetlovelines.com
 certifikaty.vodafone.cz
 citibank.viztakarekossag.hu
 click.marketingmail.vdab.be
+cloudstorage.viacloud.com
 coinhive1.vercel.app
 con-west-europe-gma.vmobapps.com
 content.vodafone.gr
@@ -1313,11 +1317,14 @@ corona-antigenschnelltest-covid19.is.versuchsballon.online
 cpanel.verifyapplewalletuk.com
 cpanel.vietsupport.vn
 cpanel.vintagepremiumgift.com
+cpanel.vulcano.co.ao
 cpcalendars.vulcanhost.com
+cpcalendars.vulcano.co.ao
 cpcontacts.venom-fitness.com
 cpcontacts.veribank.net
 cpcontacts.vickysdiscovery.com
 cpcontacts.vulcanhost.com
+cpcontacts.vulcano.co.ao
 csgoteamzeit.vercel.app
 dashboard.vivira.com
 demo.virtualwealth.ca
@@ -1337,6 +1344,7 @@ driscordbr12.vercel.app
 dynogic.vercel.app
 dyscoring.vipapplicant.com
 ecms.vnr.de
+egdgdfb-gdfdxcbv.v76998.com
 en.vyn-overstocks.com
 es.virtuaservice.com
 es.vyn-overstocks.com
@@ -1371,8 +1379,10 @@ ivts-31884m.web-react-invictus.evoyageurs-dev.aws.vsct.fr
 jira-mig-test-1.prod2-ds.vwgroup.com
 katana.vintagepremiumgift.com
 keno.vietlott.vn
+leancoffee.lit.vodafone.pt
 lessentiel.vinci-autoroutes.com
 login.mail.verifyyahoomail.com
+login.support.na.prod.vg-cs.com
 login.versoptimize.de
 login.vodafone.es
 loginparceiros.vodafone.pt
@@ -1381,6 +1391,7 @@ mail-server-mock.ace-b7144077.core.build.vwn.cloud
 mail.happynewyear2020-imailwww.blog.admin.vashsad37.ru
 mail.vantasecuritygroup.com
 mail.vintagepremiumgift.com
+mail.vulcano.co.ao
 mailchimp.viapan.eu
 mapd.vodafone.com.au
 mbboauth-1c.prd.ece.vwg-connect.com
@@ -1395,6 +1406,7 @@ mod3digestmbbrun-3a.prd.eu.dp.vwg-connect.com
 monitoring-istio.galactus.verimi.cloud
 monitoring-service.ace-16e21cb4.core.build.vwn.cloud
 monitoring-service.ace-24f7e70c.core.build.vwn.cloud
+monitoring-service.ace-30bf3f2.core.build.vwn.cloud
 monitoring-service.ace-445397f.core.build.vwn.cloud
 monitoring-service.ace-59e8fb9.core.build.vwn.cloud
 monitoring-service.ace-64c1b0ec.core.build.vwn.cloud
@@ -1425,13 +1437,16 @@ perf-gte.virtusa.com
 pics.vodafone.cz
 pmwcf.vaxjo.se
 postula.venderonline.net
+private3-stream-ovp.vide.io
 pro-dtp-app.vocohub.com
 prod-mb.vbsp.vn
 promociones.volkswagengaldakauto.com
 pub.marketingmail.vdab.be
 qa.volvobusconnect.com
 quorum-proxy.vision33cloud.com
+receivercc.vodafone.pt
 redinteligente.vodafone.es
+remoteaccess.vodafone.pt
 resource.visitcloud.com
 rhmobile.vli-logistica.com.br
 rnr.valuegb.com
@@ -1441,7 +1456,11 @@ rustamgarifulin.vercel.app
 rustamqua.vercel.app
 rusty.vercel.app
 rustyonrampage.vercel.app
+sandbox.vkb-bank.at
+sber.avito.avito.blablacar.avito.sber.covid19.view-manager.com
 sber.avito.blablacar.avito.sber.covid19.view-manager.com
+sber.avito.blablacar.blablacar.sber.covid19.view-manager.com
+sber.avito.sber.avito.avito.avito.sber.covid19.view-manager.com
 sber.avito.sber.sberbank.avito.avito.covid19.vossbryggeri.com
 sber.blablacar.avito.blablacar.avito.covid19.view-manager.com
 sber.sber.avito.blablacar.www.blablacar.covid19.vossbryggeri.com
@@ -1450,6 +1469,7 @@ sber.sberbank.www.avito.covid19.vossbryggeri.com
 sber.www.avito.blablacar.www.blablacar.covid19.vossbryggeri.com
 sber.www.sberbank.blablacar.covid19.vossbryggeri.com
 sber.www.sberbank.sber.avito.covid19.vossbryggeri.com
+sberbank.avito.avito.avito.sberbank.covid19.vojvodinanet.com
 sberbank.avito.avito.avito.www.m.www.covid19.vitorheinzen.com
 sberbank.avito.avito.test.www.www.covid19.vitorheinzen.com
 sberbank.avito.blablacar.avito.avito.covid19.view-manager.com
@@ -1503,6 +1523,7 @@ vafcu.com
 vahocomedia.com
 vakif.org
 valaccount.com
+valentines.my.vodafone.pt
 valeoserviceusa.com
 valmedco.com
 valpostal.cl
@@ -1529,6 +1550,7 @@ velocetrax-cybersecurity.com
 vemco.app
 venicebakeryandrestaurant.com
 venusb2b.com.tr
+veosafe.com
 ver2.asia
 verein-fem-theologie.de
 verhoilupalvelu.fi
@@ -1560,6 +1582,7 @@ vilanova.ro
 viltsporing.no
 vimcar.de
 vinabank247.com
+vingtsun-kuen.org
 vinhomesoceanparkthecrown.net
 vinodetenerife.es
 vintageproperty.vintagepremiumgift.com
@@ -1572,11 +1595,13 @@ viplasti.com
 virginiatkd.com
 viroblock.uk
 virtocean.com
+virtualstack.io
 virtus-us.com
 virtus.co.kr
 virtuslogic.co.uk
 virtuslogic.com.ph
 virtuspayment.com
+viruelect.com
 visegradinsight.eu
 visionforlifeod.com
 visionsecurity.jp
@@ -1589,6 +1614,7 @@ visitroyalmail.com
 visuallistings.app
 visualuno.com.ar
 viswiss.com.br
+vital-fidelity.org
 vitalautoservice.ro
 vitalbox.com
 vitals.ua
@@ -1613,6 +1639,8 @@ volcanicas.com
 volunteer.vcfd.org
 voorpositiviteit.nl
 vostok.ru
+voteashregan.com
+votre-portail-rh.fr
 vozer.fr
 vpbankcf.com
 vpn1.volvox.hu
@@ -1653,6 +1681,7 @@ vtventure.com
 vuaclub.live
 vulcandigitalconsulting.vercel.app
 vulcanmanufacturingsystems.com
+vulcano.co.ao
 vunjabei.com
 vwi.vwgroup.co.za
 vwsadmz.vwgroup.co.za
@@ -1669,13 +1698,16 @@ webdisk.vintagepremiumgift.com
 webdisk.viverosanse.cl
 webdisk.vortexmediaworkshops.com
 webdisk.vulcanhost.com
+webdisk.vulcano.co.ao
 webmail.verifyghostextracts.co
 webmail.vintagepremiumgift.com
 webmail.viralfyp.my.id
 webmail.viverbemehpossivel.site
+webmail.vulcano.co.ao
 webservice.vetindex.be
 wemobi.vendasjca.com.br
 wfo.m2.verintcloudservices.com
+white.short.lit.vodafone.pt
 whm.viegliemsoliem.lv
 wordpress.vcompcenter.com
 wow.corp.vodafone.pt
@@ -1683,6 +1715,7 @@ ws.vhega.com.br
 wsnfse.vitoria.es.gov.br
 wsnfsehomologa.vitoria.es.gov.br
 www.alexvps2.virtuspayment.com
+www.applehome-test.vogs.by
 www.ato.verizone.buzz
 www.bcstateofvolunteering.volunteerbc.bc.ca
 www.benaturestore.es.vitalgreenstore.es
@@ -1700,10 +1733,12 @@ www.clientes.virtualhostnet.com.co
 www.creditcardcollection.virtualskyit.com
 www.demo.vpntopreviews.com
 www.dev.vitalargent.com
+www.es.vpncomparison.org
 www.facebook.varazdinski-kvartet.hr
 www.facebook.vtveres.eu
 www.feb-security.vapetaninyo.info
 www.findmap-apple.com.viewmap.live
+www.fr.vpncomparison.org
 www.indiareporters.vedicarestore.com
 www.instagram.vcnainternet.com.br
 www.iservice3.vanillamedia.hr
@@ -1721,6 +1756,7 @@ www.postmaster.vkrf.ru
 www.postula.venderonline.net
 www.projects.v2rsolution.com
 www.prueba.visionservice.com.pe
+www.pt.vpncomparison.org
 www.reginastanley.viding.co
 www.safe-dent.vyapparindia.com
 www.selectomatic.net.vpnpool.net
@@ -1799,12 +1835,15 @@ www.vibevancity.com
 www.vice-espresso.co.nz
 www.vicortechcr.com
 www.victory-counseling-services.com
+www.vidaactivamutual.com
 www.vidamaisbox.com
 www.videogamesblockchain.com
 www.videogamesjet.com
+www.vietnamoutlook.com
 www.vietsinggroup.com
 www.viewpointsfromfacebook.com
 www.vii.com.au
+www.vill.samegawa.fukushima.jp
 www.village-bank.com
 www.villageofhussar.ca
 www.villageofpound.com
@@ -1821,6 +1860,7 @@ www.visitasahara.es
 www.visitnewhavenmo.com
 www.vivid-accounting.com
 www.vki-service.de
+www.vladschool.com
 www.vloerwerken-arbc.be
 www.vma.com.pt
 www.vodafone-jobacademy.de
@@ -1844,6 +1884,7 @@ www.vpn.vpnstunnel.cf
 www.vpn234.com
 www.vpna2z.de
 www.vpnaturopath.com
+www.vpnrouter.uk
 www.vpnveil.com
 www.vpnworld.cn
 www.vr.com.br
@@ -1851,6 +1892,7 @@ www.vreaucredit.ro
 www.vrijebond.org
 www.vsl.nl
 www.vstapple.com
+www.vulcan-press.com
 www.vulcanblockchain.com
 www.vulcangomma.com
 www.vvconsultinggroup.com
@@ -1860,6 +1902,7 @@ www.vy.no
 www.vyn-overstocks.com
 www.whatsapp.ventasbolivia.net
 www.whatsapp.viralcampaign.in
+www.whatsapp.visendaresidence.com
 www.worldnewsservice.co.in.virtualskyit.com
 www.yper.vpn.gr
 www1.qua.viaverde.pt
