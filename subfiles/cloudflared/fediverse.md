@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,811 |
-| social | 3,765 |
-| net | 2,960 |
+| social | 3,766 |
+| net | 2,961 |
 | org | 2,082 |
 | de | 1,956 |
 
@@ -27403,6 +27403,7 @@ Here's a list of public Fediverse services.
 | `programmer1.com` | No |
 | `programmingsocks.com` | No |
 | `progressiv.dev` | No |
+| `progressivecafe.social` | No |
 | `progressiverevolution.social` | No |
 | `progressives.social` | No |
 | `progval.net` | No |
@@ -38183,6 +38184,7 @@ Here's a list of public Fediverse services.
 | `yaesu-eas.tokyo` | Yes |
 | `yaf.ai` | No |
 | `yaffle.xyz` | Yes |
+| `yagamin.net` | No |
 | `yagi.tc` | No |
 | `yagi2.com` | No |
 | `yagst.de` | No |
@@ -39000,7 +39002,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,444 |
-| Normal | 29,512 |
+| Normal | 29,514 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
