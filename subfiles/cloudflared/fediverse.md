@@ -4186,6 +4186,7 @@ Here's a list of public Fediverse services.
 | `boneheadmedia.com` | Yes |
 | `bonequest.net` | No |
 | `boner.camp` | Yes |
+| `bonespr.it` | No |
 | `bonfire.cafe` | No |
 | `bong.social` | No |
 | `bonga.nu` | No |
@@ -39002,7 +39003,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,444 |
-| Normal | 29,514 |
+| Normal | 29,515 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
