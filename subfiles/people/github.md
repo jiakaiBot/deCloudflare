@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [AccessDenied error during import existing bucket into state](https://github.com/scaleway/terraform-provider-scaleway/issues/1806)
 - [Exclude the canonical link from the "Relative protocol" setting to avoid SEO issues](https://github.com/wp-media/wp-rocket/issues/5781)
 - [Questions about tls certificates](https://github.com/freedit-org/freedit/issues/79)
 - [Authentication issue from Cloudflare workers](https://github.com/upstash/upstash-kafka/issues/47)
