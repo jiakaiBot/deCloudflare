@@ -22173,6 +22173,7 @@ Here's a list of public Fediverse services.
 | `mond-basis.eu` | No |
 | `mone.dev` | No |
 | `monedalliure.org` | No |
+| `monero.house` | No |
 | `monero.wf` | No |
 | `monerokon.com` | Yes |
 | `mong.chat` | No |
@@ -38995,7 +38996,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,444 |
-| Normal | 29,507 |
+| Normal | 29,508 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
