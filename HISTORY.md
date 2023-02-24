@@ -5,6 +5,10 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-03-03: [YVR (Vancouver) on 2023-03-03](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9g6rs8hnp413)
+- 2023-03-01: [DFW (Dallas) on 2023-03-01](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vtsyqqgml8qs)
+- 2023-02-28: [KUL (Kuala Lumpur) on 2023-02-28](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/096rsdglfd4t)
+- 2023-02-28: [MFE (McAllen) on 2023-02-28](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ft6xf0yrg7tg)
 - 2023-03-02: [DEL (New Delhi) on 2023-03-02](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2gbhp4z23h7h)
 - 2023-02-27: [PHX (Phoenix) on 2023-02-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jnzvwrkxnj18)
 - 2023-02-27: [MIA (Miami) on 2023-02-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/tr9v1r3rk9rv)
