@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,804 |
-| social | 3,762 |
+| com | 5,805 |
+| social | 3,764 |
 | net | 2,958 |
 | org | 2,080 |
 | de | 1,953 |
@@ -93,6 +93,7 @@ Here's a list of public Fediverse services.
 | `0w0.is` | No |
 | `0w3n.ga` | No |
 | `0wo.ooo` | No |
+| `0x.kiwi` | No |
 | `0x.mk` | Yes |
 | `0x0.icu` | No |
 | `0x0.sk` | Yes |
@@ -3581,7 +3582,7 @@ Here's a list of public Fediverse services.
 | `bigdickisbackintown.futbol` | No |
 | `bigdinosaur.org` | Yes |
 | `bigdoinks.online` | No |
-| `bigfloppa.art` | No |
+| `bigfloppa.art` | Yes |
 | `bigger6.com` | No |
 | `biggs.social` | Yes |
 | `bigguys.club` | No |
@@ -11997,6 +11998,7 @@ Here's a list of public Fediverse services.
 | `futa.gg` | Yes |
 | `futa.moe` | Yes |
 | `futaba-works.com` | Yes |
+| `futaba.social` | No |
 | `futabachannel.com` | No |
 | `futen.work` | No |
 | `futex.au` | No |
@@ -21585,6 +21587,7 @@ Here's a list of public Fediverse services.
 | `mikedilger.com` | No |
 | `mikedunn.blog` | No |
 | `mikegerwitz.com` | No |
+| `mikehayn.es` | Yes |
 | `mikehendley.com` | Yes |
 | `mikei.sh` | No |
 | `mikeinspace.nl` | No |
@@ -30958,6 +30961,7 @@ Here's a list of public Fediverse services.
 | `sixbucks.club` | No |
 | `sixdegreesofohio.com` | No |
 | `sixfalls.me` | Yes |
+| `sixfeetup.social` | No |
 | `sixfoisneuf.fr` | No |
 | `sixohthree.com` | No |
 | `sixy.name` | No |
@@ -38480,6 +38484,7 @@ Here's a list of public Fediverse services.
 | `yukisou.xyz` | No |
 | `yukitsukuura.jp` | No |
 | `yukiya.me` | No |
+| `yukkukomei.com` | Yes |
 | `yuko.im` | Yes |
 | `yukorabb.it` | Yes |
 | `yume.social` | No |
@@ -38705,6 +38710,7 @@ Here's a list of public Fediverse services.
 | `zergy.net` | No |
 | `zero-day.tech` | Yes |
 | `zero.lgbt` | Yes |
+| `zero.parts` | No |
 | `zeroanarchy.com` | No |
 | `zerobeat.in` | No |
 | `zerocat.club` | No |
@@ -38965,8 +38971,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,430 |
-| Normal | 29,492 |
+| Cloudflare | 9,433 |
+| Normal | 29,495 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
