@@ -11580,6 +11580,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vu567105Vu@twitter](https://twitter.com/Vu567105Vu/status/1596477348840284161) | advertise |
 | [Vu33317074@twitter](https://twitter.com/Vu33317074/status/1594572608665980929) | advertise |
 | [VuAtu1996@twitter](https://twitter.com/VuAtu1996/status/1392296243791994880) | advertise |
+| [vuavuathoii11@twitter](https://twitter.com/vuavuathoii11/status/1629364843936620545) | advertise |
 | [vubao1511@twitter](https://twitter.com/vubao1511/status/1399724212215033867) | advertise |
 | [vuddh_s@twitter](https://twitter.com/vuddh_s/status/1385846511309709313) | advertise |
 | [VuLe24596549@twitter](https://twitter.com/VuLe24596549/status/1477302008063283201) | advertise |
