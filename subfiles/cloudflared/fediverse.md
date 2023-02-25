@@ -17741,6 +17741,7 @@ Here's a list of public Fediverse services.
 | `kopier.ninja` | Yes |
 | `kopis.de` | No |
 | `kopiti.am` | Yes |
+| `kopnij.in` | Yes |
 | `koppermann-itk.de` | No |
 | `koprulu.me` | No |
 | `korako.me` | Yes |
@@ -39002,7 +39003,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,444 |
+| Cloudflare | 9,445 |
 | Normal | 29,515 |
 
 
