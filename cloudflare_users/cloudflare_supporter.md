@@ -6778,6 +6778,7 @@ Do not create new issue or we will close it as duplicate.
 | [MineeChoice@twitter](https://twitter.com/MineeChoice/status/1593085058113409024) | advertise |
 | [Minemu@twitter](https://twitter.com/Minemu/status/1421686937522348036) | advertise |
 | [MingMin02597486@twitter](https://twitter.com/MingMin02597486/status/1564671348097527808) | advertise |
+| [minh2_quangg@twitter](https://twitter.com/minh2_quangg/status/1629464876367376384) | advertise |
 | [Minh1717@twitter](https://twitter.com/Minh1717/status/1401879124075892736) | advertise |
 | [minh2995@twitter](https://twitter.com/minh2995/status/1494965864340537346) | advertise |
 | [minh85912@twitter](https://twitter.com/minh85912/status/1482260480852824065) | advertise |
