@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Set Up Cloudflare with Linode Proposed Changes](https://github.com/linode/docs/issues/6109)
 - [Issue on startup](https://github.com/wovalle/angelos/issues/10)
 - ['NoneType' object has no attribute 'lower'](https://github.com/jointakahe/takahe/issues/522)
 - [AccessDenied error during import existing bucket into state](https://github.com/scaleway/terraform-provider-scaleway/issues/1806)
