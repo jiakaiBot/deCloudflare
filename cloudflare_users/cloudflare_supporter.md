@@ -2640,6 +2640,7 @@ Do not create new issue or we will close it as duplicate.
 | [doonedin@twitter](https://twitter.com/doonedin/status/1575061999888629760) | advertise |
 | [DopeBiz_@twitter](https://twitter.com/DopeBiz_/status/1473546314529001473) | advertise |
 | [doren1_@twitter](https://twitter.com/doren1_/status/1556740217012371457) | advertise |
+| [Dorian41748115@twitter](https://twitter.com/Dorian41748115/status/1629301952487084032) | advertise |
 | [Dorychann96@twitter](https://twitter.com/Dorychann96/status/1596466914762821632) | advertise |
 | [dotbitcoin@twitter](https://twitter.com/dotbitcoin/status/1581772196359589889) | advertise |
 | [dotcomhunters@twitter](https://twitter.com/dotcomhunters/status/1396422947313569793) | advertise |
