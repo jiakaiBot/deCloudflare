@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,818 |
+| com | 5,819 |
 | social | 3,770 |
 | net | 2,963 |
 | org | 2,082 |
@@ -16923,6 +16923,7 @@ Here's a list of public Fediverse services.
 | `kamu.social` | No |
 | `kamunagara.org` | Yes |
 | `kan.social` | Yes |
+| `kanachu-homes.com` | Yes |
 | `kanagu.info` | Yes |
 | `kanatan.club` | Yes |
 | `kanatzidis.com` | No |
@@ -39031,7 +39032,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,457 |
+| Cloudflare | 9,458 |
 | Normal | 29,531 |
 
 
