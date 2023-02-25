@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Bypass Failed (CloudFlare Captcha)](https://github.com/Eltik/Puppeteer-Bypass/issues/2)
 - [Unable to generate link, please try after turning on hotspot.](https://github.com/htr-tech/zphisher/issues/706)
 - [Set Up Cloudflare with Linode Proposed Changes](https://github.com/linode/docs/issues/6109)
 - [Issue on startup](https://github.com/wovalle/angelos/issues/10)
