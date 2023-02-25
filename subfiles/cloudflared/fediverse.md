@@ -4898,6 +4898,7 @@ Here's a list of public Fediverse services.
 | `calciumsigma.com` | No |
 | `calckey.art` | No |
 | `calckey.cloud` | No |
+| `calckey.jp` | No |
 | `calckey.social` | No |
 | `calculate-linux.org` | No |
 | `calculate.social` | No |
@@ -21140,6 +21141,7 @@ Here's a list of public Fediverse services.
 | `medievalarchives.com` | No |
 | `medievalarchives.social` | No |
 | `medinnna.com` | Yes |
+| `mediocre.photos` | No |
 | `medium-sandbox.social` | Yes |
 | `medium.com` | Yes |
 | `medium.place` | Yes |
@@ -24313,6 +24315,7 @@ Here's a list of public Fediverse services.
 | `nonsocialand.space` | No |
 | `nontongp.live` | No |
 | `nontongp.lol` | No |
+| `nontongp.tv` | No |
 | `nonzero.social` | No |
 | `noob.party` | No |
 | `nooble.cloud` | Yes |
@@ -39035,7 +39038,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,460 |
-| Normal | 29,531 |
+| Normal | 29,534 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
