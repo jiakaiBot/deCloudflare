@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to generate link, please try after turning on hotspot.](https://github.com/htr-tech/zphisher/issues/706)
 - [Set Up Cloudflare with Linode Proposed Changes](https://github.com/linode/docs/issues/6109)
 - [Issue on startup](https://github.com/wovalle/angelos/issues/10)
 - ['NoneType' object has no attribute 'lower'](https://github.com/jointakahe/takahe/issues/522)
