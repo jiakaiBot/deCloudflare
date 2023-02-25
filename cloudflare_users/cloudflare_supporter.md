@@ -4729,6 +4729,7 @@ Do not create new issue or we will close it as duplicate.
 | [jeepinjeepin@twitter](https://twitter.com/jeepinjeepin/status/1557058497166073856) | advertise |
 | [Jeerawa38868336@twitter](https://twitter.com/Jeerawa38868336/status/1399151884649172992) | advertise |
 | [Jeeva09507345@twitter](https://twitter.com/Jeeva09507345/status/1380107605213814789) | advertise |
+| [jeevanbobba@twitter](https://twitter.com/jeevanbobba/status/1629511938735497216) | advertise |
 | [jef43477408@twitter](https://twitter.com/jef43477408/status/1377262260272439301) | advertise |
 | [jeff41691518@twitter](https://twitter.com/jeff41691518/status/1553804959950700545) | advertise |
 | [JefferyQ@twitter](https://twitter.com/JefferyQ/status/1402835144604631043) | advertise |
