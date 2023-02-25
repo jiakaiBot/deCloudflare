@@ -36,7 +36,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | abstergo.it | No |
 | adfilter.net | Yes |
 | adguard-dns.com | Yes |
-| adguard-server.cf | Yes |
 | adguard.com | Yes |
 | adguardh.ga | No |
 | adrianion.eu | Yes |
@@ -233,7 +232,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | heronet.nl | No |
 | hinet.net | Yes |
 | hitian.me | Yes |
-| hm3.day | Yes |
 | hoerli.net | Yes |
 | hoover.eu.org | No |
 | hopto.org | Yes |
@@ -244,7 +242,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | iamninja.ru | No |
 | ibytex.systems | No |
 | ihatemy.live | Yes |
-| ihaveacloud.com | No |
 | iij.jp | Yes |
 | ikataruto.com | No |
 | ilker.se | Yes |
@@ -448,7 +445,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | t53.de | No |
 | tardishost.ru | No |
 | techcpu.net | Yes |
-| tek411.com | No |
 | telekom.de | Yes |
 | teradns.org | Yes |
 | terumi.club | No |
@@ -504,8 +500,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 217 |
-| Normal | 268 |
+| Cloudflare | 215 |
+| Normal | 266 |
 
 
 ### 44.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
