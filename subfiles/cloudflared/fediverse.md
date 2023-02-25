@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,819 |
-| social | 3,770 |
-| net | 2,963 |
+| social | 3,771 |
+| net | 2,964 |
 | org | 2,082 |
 | de | 1,957 |
 
@@ -7335,6 +7335,7 @@ Here's a list of public Fediverse services.
 | `damogran.space` | Yes |
 | `dampfdruck-presse.hu` | No |
 | `dampfkraft.com` | No |
+| `damron.social` | No |
 | `damu.page` | Yes |
 | `dan.cloud` | No |
 | `dan.glass` | No |
@@ -18648,7 +18649,7 @@ Here's a list of public Fediverse services.
 | `letallmortalfleshfindtheirvoice.social` | No |
 | `lethani.ch` | No |
 | `lethar.gy` | No |
-| `letmiko.eu` | No |
+| `letmiko.eu` | Yes |
 | `letna.dev` | No |
 | `letoine.fr` | No |
 | `letootprimai.re` | No |
@@ -34879,7 +34880,7 @@ Here's a list of public Fediverse services.
 | `totalliberation.net` | No |
 | `totally.moe` | No |
 | `totallylegit.site` | No |
-| `totallynoob.com` | No |
+| `totallynoob.com` | Yes |
 | `totalnoob.club` | No |
 | `totemtube.com` | No |
 | `tothepeople.eu` | No |
@@ -36257,6 +36258,7 @@ Here's a list of public Fediverse services.
 | `vcity.network` | No |
 | `vda-group.de` | No |
 | `vdavez.com` | No |
+| `vdheide.net` | No |
 | `vdna.be` | No |
 | `vdoor.ch` | No |
 | `vdurdome.net` | Yes |
@@ -39032,7 +39034,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,458 |
+| Cloudflare | 9,460 |
 | Normal | 29,531 |
 
 
