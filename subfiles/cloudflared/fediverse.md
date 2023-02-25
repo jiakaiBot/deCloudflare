@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,820 |
+| com | 5,821 |
 | social | 3,774 |
-| net | 2,964 |
+| net | 2,965 |
 | org | 2,082 |
 | de | 1,957 |
 
@@ -12070,7 +12070,7 @@ Here's a list of public Fediverse services.
 | `fuzzytacular.net` | No |
 | `fvhj.net` | No |
 | `fvktv.me` | No |
-| `fvnki.town` | No |
+| `fvnki.town` | Yes |
 | `fw3rd-bc.jp` | No |
 | `fx-don.net` | No |
 | `fx.cafe` | No |
@@ -19297,6 +19297,7 @@ Here's a list of public Fediverse services.
 | `loneliness.academy` | No |
 | `lonelocust.com` | No |
 | `lonely.town` | No |
+| `lonelycat.online` | No |
 | `lonelyfurry.com` | No |
 | `lonelystranger.org` | No |
 | `loner.jp` | No |
@@ -19505,6 +19506,7 @@ Here's a list of public Fediverse services.
 | `luca-cazzulo.it` | No |
 | `luca.run` | Yes |
 | `luca0n.com` | No |
+| `lucagasperini.net` | No |
 | `lucahammer.com` | Yes |
 | `lucaire.ovh` | No |
 | `lucas.monster` | No |
@@ -36143,6 +36145,7 @@ Here's a list of public Fediverse services.
 | `v2br.social` | No |
 | `v2x.org` | Yes |
 | `v3g.de` | No |
+| `v4d0r.com` | No |
 | `v4v.dev` | No |
 | `v5ox.com` | No |
 | `v6.rocks` | Yes |
@@ -39044,8 +39047,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,462 |
-| Normal | 29,539 |
+| Cloudflare | 9,463 |
+| Normal | 29,541 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
