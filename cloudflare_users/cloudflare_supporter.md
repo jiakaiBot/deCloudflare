@@ -9332,6 +9332,7 @@ Do not create new issue or we will close it as duplicate.
 | [Saeed74715235@twitter](https://twitter.com/Saeed74715235/status/1606354183824805889) | advertise |
 | [Saeed86289484@twitter](https://twitter.com/Saeed86289484/status/1575517368394170369) | advertise |
 | [SaeedAshifAhmed@twitter](https://twitter.com/SaeedAshifAhmed/status/1440904537758318601) | advertise |
+| [SaeedGhanaat@twitter](https://twitter.com/SaeedGhanaat/status/1629334608314777602) | advertise |
 | [saeidkhosravi6@twitter](https://twitter.com/saeidkhosravi6/status/1575312207583346690) | advertise |
 | [SaepurRamdan@twitter](https://twitter.com/SaepurRamdan/status/1527177130593128449) | advertise |
 | [safadi_tammam@twitter](https://twitter.com/safadi_tammam/status/1470666322010947586) | advertise |
