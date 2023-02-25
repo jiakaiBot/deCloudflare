@@ -14006,6 +14006,7 @@ Here's a list of public Fediverse services.
 | `hellsite.site` | No |
 | `hellsite.xyz` | Yes |
 | `hellspenguins.org` | No |
+| `hellthread.church` | No |
 | `hellwife.online` | No |
 | `hellyandthemountains.fr` | No |
 | `hellyeah.social` | No |
@@ -39004,7 +39005,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,445 |
-| Normal | 29,515 |
+| Normal | 29,516 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
