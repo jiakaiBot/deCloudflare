@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,811 |
-| social | 3,766 |
+| com | 5,812 |
+| social | 3,767 |
 | net | 2,961 |
 | org | 2,082 |
-| de | 1,956 |
+| de | 1,957 |
 
 
 - Mastodon, Pleroma, etc
@@ -7348,6 +7348,7 @@ Here's a list of public Fediverse services.
 | `dangilbert.eu` | Yes |
 | `dangre.de` | No |
 | `dani.cool` | Yes |
+| `dani.pw` | No |
 | `danidanz.dev` | No |
 | `daniel-schmitt.eu` | Yes |
 | `daniel-siepmann.de` | No |
@@ -13243,6 +13244,7 @@ Here's a list of public Fediverse services.
 | `grezl.eu` | No |
 | `grh.am` | Yes |
 | `grib.co` | Yes |
+| `grib.social` | No |
 | `grid.tf` | No |
 | `gridcave.social` | Yes |
 | `gridfinity.com` | No |
@@ -17073,6 +17075,7 @@ Here's a list of public Fediverse services.
 | `kazeyomi.cloud` | No |
 | `kazu-server.tk` | No |
 | `kazu34.net` | No |
+| `kazu634.com` | Yes |
 | `kazuki.xyz` | Yes |
 | `kazv.moe` | No |
 | `kazvam.com` | Yes |
@@ -22283,6 +22286,7 @@ Here's a list of public Fediverse services.
 | `moop.uk` | No |
 | `moorepixel.com` | No |
 | `moores.org` | No |
+| `moortaube.de` | No |
 | `moose.land` | No |
 | `moosecow.net` | Yes |
 | `moosetadon.social` | No |
@@ -34339,6 +34343,7 @@ Here's a list of public Fediverse services.
 | `tilvids.com` | No |
 | `tim-boettcher.online` | No |
 | `tim.do` | Yes |
+| `tim.lgbt` | Yes |
 | `timapple.com` | Yes |
 | `timapple.me` | No |
 | `timbo.cc` | Yes |
@@ -39004,8 +39009,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,445 |
-| Normal | 29,516 |
+| Cloudflare | 9,447 |
+| Normal | 29,519 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
