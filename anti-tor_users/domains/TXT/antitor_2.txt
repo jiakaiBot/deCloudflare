@@ -136,6 +136,7 @@ hpe.2ndeffect.dk
 monitoring.2feurstein.eu
 poorttyuyi.2waky.com
 prilavok.2discord.ru
+prometheus.utoronto.2i2c.cloud
 r4---sn-p5qlsn7l.c.2mdn.net
 r5---sn-p5qddn7d.c.2mdn.net
 sylhet-gas-field-idcard.2aitautomation.com
