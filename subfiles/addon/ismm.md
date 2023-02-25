@@ -12,7 +12,7 @@ You′ve found something on the internet.
 Are these links or images vulnerable to MITM attack or not?
 (Cloudflare links will be marked)
  
-This add-on is using[1] public[4] API to scan[3] FQDN.
+This add-on is using[1] public[4] API to scan[3] the domain.
 WE DO NOT COLLECT THIS DATA.
 	e.g. https://www.ekzemplo.com/page.html → "ekzemplo.com"
 
