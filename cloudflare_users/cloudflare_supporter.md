@@ -2257,6 +2257,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dame69475429@twitter](https://twitter.com/Dame69475429/status/1494681069916143620) | advertise |
 | [damhieu9@twitter](https://twitter.com/damhieu9/status/1382137551306121218) | advertise |
 | [DamianSins777@twitter](https://twitter.com/DamianSins777/status/1379913794047123458) | advertise |
+| [damidave05@twitter](https://twitter.com/damidave05/status/1629527908547960833) | advertise |
 | [DAMIDROIDTV@twitter](https://twitter.com/DAMIDROIDTV/status/1591866063624736770) | advertise |
 | [damienwatts18@twitter](https://twitter.com/damienwatts18/status/1405558548344586245) | advertise |
 | [damik_raw@twitter](https://twitter.com/damik_raw/status/1398632489028104192) | advertise |
@@ -11324,6 +11325,7 @@ Do not create new issue or we will close it as duplicate.
 | [Uditkhan1920@twitter](https://twitter.com/Uditkhan1920/status/1539274059267158017) | advertise |
 | [uditmehra631@twitter](https://twitter.com/uditmehra631/status/1395606145041981443) | advertise |
 | [udng83676589@twitter](https://twitter.com/udng83676589/status/1388778273388195844) | advertise |
+| [UescaGroup@twitter](https://twitter.com/UescaGroup/status/1629521125095923713) | advertise |
 | [ufirz825732@twitter](https://twitter.com/ufirz825732/status/1396484531826221057) | advertise |
 | [UHanHtet1@twitter](https://twitter.com/UHanHtet1/status/1396313963051298818) | advertise |
 | [UhteinCe@twitter](https://twitter.com/UhteinCe/status/1618254816119250945) | advertise |
