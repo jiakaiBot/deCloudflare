@@ -364,9 +364,11 @@ employees.zezobusiness.com
 etc-bcvhtgh.zzux.com
 etc-poim.zzux.com
 etc-qwfsaf.zzux.com
+ga.zettletest.com
 hot.ztk89dmu.com
 idosafe.zapweb.co.il
 idp.dev-saas.zeb-it.de
+ionos-web01.znil.org
 kobil.ziraatbank.az
 kuuhaku.zudakode.com
 liorarozen.zapgoogle.co.il
@@ -439,6 +441,7 @@ www.idosafe.zapweb.co.il
 www.jobs-bank.pp.ua.zbv.in.ua
 www.kitesurfing-croatia.com.hr.zutimacak.hr
 www.moneyondemand.co.in.zehraglobalinfotech.in
+www.sms01.safeurl.updoch.zeeshanwaris.com
 www.sonic-interventions.zanrosso.photo
 www.steamgame.zser-art.hu
 www.studiodevo.zanesebasovich.com
@@ -489,6 +492,7 @@ zilingoconnect.com
 ziluxdelivery.com
 zimmermanska.se
 zingnews.site
+zingvntv.com
 zippyshare.com
 ziraatbankanturkey.com
 ziraatmtour.uz
@@ -498,6 +502,8 @@ zone-tvservice.site
 zone4pharma.ae
 zoo-info.nl
 zooknoxvillecof.org
+zoomgellary.com
+zoro-dev-qa-invoices-custom-app.zoro.com
 zoryaninstitute.org
 zschynov.cz
 zsk-torservice.com
