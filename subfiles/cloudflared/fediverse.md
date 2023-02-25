@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,819 |
+| com | 5,818 |
 | social | 3,770 |
-| net | 2,962 |
+| net | 2,963 |
 | org | 2,082 |
 | de | 1,957 |
 
@@ -11391,7 +11391,7 @@ Here's a list of public Fediverse services.
 | `fostodon.uk` | No |
 | `fotoclub.ml` | No |
 | `fotofed.nl` | No |
-| `fotolog.club` | No |
+| `fotolog.club` | Yes |
 | `fotoverse.net` | No |
 | `fotz.cc` | No |
 | `fouchard.org` | No |
@@ -16923,7 +16923,6 @@ Here's a list of public Fediverse services.
 | `kamu.social` | No |
 | `kamunagara.org` | Yes |
 | `kan.social` | Yes |
-| `kanachu-homes.com` | Yes |
 | `kanagu.info` | Yes |
 | `kanatan.club` | Yes |
 | `kanatzidis.com` | No |
@@ -29852,6 +29851,7 @@ Here's a list of public Fediverse services.
 | `sausage.social` | Yes |
 | `sausage.work` | No |
 | `savageworlds.social` | Yes |
+| `savali.net` | No |
 | `savant.so` | No |
 | `saved.video` | No |
 | `saveker.org` | Yes |
@@ -33835,7 +33835,7 @@ Here's a list of public Fediverse services.
 | `thecrow.uk` | No |
 | `theculture.quest` | No |
 | `thecum.zone` | Yes |
-| `thecyberdeck.xyz` | No |
+| `thecyberdeck.xyz` | Yes |
 | `thecybernetwork.us` | Yes |
 | `thedailyeconomist.com` | No |
 | `thedataexchange.media` | No |
@@ -35955,7 +35955,7 @@ Here's a list of public Fediverse services.
 | `unxpnx.farm` | No |
 | `unyacat.net` | Yes |
 | `unyu.live` | Yes |
-| `unzensiert.to` | No |
+| `unzensiert.to` | Yes |
 | `uofgbot.top` | No |
 | `uoga.net` | No |
 | `up.edu.ph` | Yes |
@@ -39031,8 +39031,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,455 |
-| Normal | 29,533 |
+| Cloudflare | 9,457 |
+| Normal | 29,531 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
