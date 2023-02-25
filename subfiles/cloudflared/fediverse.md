@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,818 |
-| social | 3,772 |
-| net | 2,965 |
+| com | 5,820 |
+| social | 3,774 |
+| net | 2,964 |
 | org | 2,082 |
 | de | 1,957 |
 
@@ -3257,6 +3257,7 @@ Here's a list of public Fediverse services.
 | `bearvideo.win` | Yes |
 | `bearygoosey.com` | No |
 | `beastnet.works` | No |
+| `beatles.social` | No |
 | `beatrice.wtf` | No |
 | `beatty.family` | No |
 | `beaulieu.social` | No |
@@ -6229,7 +6230,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8124,6 +8125,7 @@ Here's a list of public Fediverse services.
 | `dezucked.com` | Yes |
 | `dfaria.eu` | No |
 | `dffm.de` | No |
+| `dfir.social` | No |
 | `dflatmajor.social` | No |
 | `dfsek.com` | Yes |
 | `dftba.club` | Yes |
@@ -15964,6 +15966,7 @@ Here's a list of public Fediverse services.
 | `jagow15.org` | Yes |
 | `jagtalon.com` | Yes |
 | `jahait.tk` | No |
+| `jai.cat` | Yes |
 | `jaiden.pw` | Yes |
 | `jailbreak.chat` | No |
 | `jake.nyc` | Yes |
@@ -16928,6 +16931,7 @@ Here's a list of public Fediverse services.
 | `kamu.social` | No |
 | `kamunagara.org` | Yes |
 | `kan.social` | Yes |
+| `kanachu-homes.com` | Yes |
 | `kanagu.info` | Yes |
 | `kanatan.club` | Yes |
 | `kanatzidis.com` | No |
@@ -18746,7 +18750,7 @@ Here's a list of public Fediverse services.
 | `lianwu.fun` | No |
 | `liao.dev` | No |
 | `liaru.link` | No |
-| `libarti.com` | Yes |
+| `libarti.com` | No |
 | `libcore.org` | Yes |
 | `libcyb.so` | No |
 | `libella.social` | No |
@@ -18892,7 +18896,6 @@ Here's a list of public Fediverse services.
 | `liker.social` | Yes |
 | `likids.info` | No |
 | `lil-bird.xyz` | No |
-| `lil.mn` | No |
 | `lilac.place` | Yes |
 | `lile.cl` | Yes |
 | `liliputech.com` | No |
@@ -19502,7 +19505,6 @@ Here's a list of public Fediverse services.
 | `luca-cazzulo.it` | No |
 | `luca.run` | Yes |
 | `luca0n.com` | No |
-| `lucagasperini.net` | No |
 | `lucahammer.com` | Yes |
 | `lucaire.ovh` | No |
 | `lucas.monster` | No |
@@ -29754,6 +29756,7 @@ Here's a list of public Fediverse services.
 | `sanjuans.life` | No |
 | `sankaku.io` | No |
 | `sankara.me` | Yes |
+| `sanlive.com` | No |
 | `sanmin.jp.net` | No |
 | `sanpo-an.site` | No |
 | `sanrizuka-struggle.com` | Yes |
@@ -39041,8 +39044,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,460 |
-| Normal | 29,538 |
+| Cloudflare | 9,462 |
+| Normal | 29,539 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
