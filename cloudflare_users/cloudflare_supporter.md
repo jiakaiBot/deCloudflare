@@ -6384,6 +6384,7 @@ Do not create new issue or we will close it as duplicate.
 | [manhhung1944@twitter](https://twitter.com/manhhung1944/status/1530580713309085696) | advertise |
 | [ManhVi11@twitter](https://twitter.com/ManhVi11/status/1408088812664680453) | advertise |
 | [mani2jeff@twitter](https://twitter.com/mani2jeff/status/1486825496146952192) | advertise |
+| [ManikantShah10@twitter](https://twitter.com/ManikantShah10/status/1629402767931617281) | advertise |
 | [ManishaBharadw2@twitter](https://twitter.com/ManishaBharadw2/status/1395440002557890562) | advertise |
 | [ManishK42497763@twitter](https://twitter.com/ManishK42497763/status/1542146127012966400) | advertise |
 | [ManishS14486946@twitter](https://twitter.com/ManishS14486946/status/1376922638216531974) | advertise |
