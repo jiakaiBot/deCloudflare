@@ -82,7 +82,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | bitdefender.net | Yes |
 | bitteeinbyte.de | No |
 | blahdns.com | Yes |
-| blissdns.net | No |
+| blissdns.net | Yes |
 | blokada.org | Yes |
 | bluemeda.cf | No |
 | bluemood.me | Yes |
@@ -500,8 +500,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 215 |
-| Normal | 266 |
+| Cloudflare | 216 |
+| Normal | 265 |
 
 
-### 44.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
