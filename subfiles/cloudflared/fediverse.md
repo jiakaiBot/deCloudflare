@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,819 |
-| social | 3,771 |
-| net | 2,964 |
+| com | 5,818 |
+| social | 3,772 |
+| net | 2,965 |
 | org | 2,082 |
 | de | 1,957 |
 
@@ -275,6 +275,7 @@ Here's a list of public Fediverse services.
 | `25.wf` | No |
 | `2502.net` | No |
 | `251.sh` | Yes |
+| `256.lt` | No |
 | `272labs.com` | Yes |
 | `27b6.com` | Yes |
 | `27origin.com` | Yes |
@@ -11155,6 +11156,7 @@ Here's a list of public Fediverse services.
 | `flipscreen.social` | Yes |
 | `flirtingwithnihilism.com` | No |
 | `flisol.com.br` | No |
+| `flittermice.club` | Yes |
 | `flm9.me` | No |
 | `floatie.xyz` | No |
 | `floating-in.space` | No |
@@ -13800,6 +13802,7 @@ Here's a list of public Fediverse services.
 | `hash.social` | No |
 | `hashapp.space` | No |
 | `hashbang.sh` | No |
+| `hashem.social` | No |
 | `hashi.icu` | Yes |
 | `hashi.sbs` | Yes |
 | `hashtagueule.fr` | No |
@@ -16925,7 +16928,6 @@ Here's a list of public Fediverse services.
 | `kamu.social` | No |
 | `kamunagara.org` | Yes |
 | `kan.social` | Yes |
-| `kanachu-homes.com` | Yes |
 | `kanagu.info` | Yes |
 | `kanatan.club` | Yes |
 | `kanatzidis.com` | No |
@@ -18890,6 +18892,7 @@ Here's a list of public Fediverse services.
 | `liker.social` | Yes |
 | `likids.info` | No |
 | `lil-bird.xyz` | No |
+| `lil.mn` | No |
 | `lilac.place` | Yes |
 | `lile.cl` | Yes |
 | `liliputech.com` | No |
@@ -19499,6 +19502,7 @@ Here's a list of public Fediverse services.
 | `luca-cazzulo.it` | No |
 | `luca.run` | Yes |
 | `luca0n.com` | No |
+| `lucagasperini.net` | No |
 | `lucahammer.com` | Yes |
 | `lucaire.ovh` | No |
 | `lucas.monster` | No |
@@ -39038,7 +39042,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,460 |
-| Normal | 29,534 |
+| Normal | 29,538 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
