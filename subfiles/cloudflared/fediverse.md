@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,812 |
+| com | 5,814 |
 | social | 3,767 |
 | net | 2,961 |
 | org | 2,082 |
@@ -6948,6 +6948,7 @@ Here's a list of public Fediverse services.
 | `cumbia.social` | No |
 | `cumblr.club` | No |
 | `cumbria.social` | No |
+| `cumulonimbus-cloud.com` | No |
 | `cunnin.me` | No |
 | `cunny.finance` | No |
 | `cunny.moe` | Yes |
@@ -16913,6 +16914,7 @@ Here's a list of public Fediverse services.
 | `kamu.social` | No |
 | `kamunagara.org` | Yes |
 | `kan.social` | Yes |
+| `kanachu-homes.com` | Yes |
 | `kanagu.info` | Yes |
 | `kanatan.club` | Yes |
 | `kanatzidis.com` | No |
@@ -21780,6 +21782,7 @@ Here's a list of public Fediverse services.
 | `mirbsd.org` | No |
 | `mircoweb.de` | No |
 | `miri.my` | No |
+| `miri.site` | No |
 | `miri64.xyz` | No |
 | `miria.love` | No |
 | `mirko-schenk.de` | No |
@@ -34551,6 +34554,7 @@ Here's a list of public Fediverse services.
 | `tokudan.de` | No |
 | `tokyocameraclub.com` | No |
 | `tokyohouse.party` | Yes |
+| `tokyoto.cyou` | Yes |
 | `toldi.eu` | Yes |
 | `toldme.com` | Yes |
 | `tolleham.top` | Yes |
@@ -39009,8 +39013,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,447 |
-| Normal | 29,519 |
+| Cloudflare | 9,449 |
+| Normal | 29,521 |
 
 
 ### 24.2% of public Fediverse services are using Cloudflare.
