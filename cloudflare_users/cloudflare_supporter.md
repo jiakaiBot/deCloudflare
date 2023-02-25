@@ -5023,6 +5023,7 @@ Do not create new issue or we will close it as duplicate.
 | [kai_h@twitter](https://twitter.com/kai_h/status/1409654911566974980) | moral (advertise) |
 | [Kaja70332299@twitter](https://twitter.com/Kaja70332299/status/1389526952747311106) | advertise |
 | [Kaka15107023@twitter](https://twitter.com/Kaka15107023/status/1387055575758868480) | advertise |
+| [Kakakak39505088@twitter](https://twitter.com/Kakakak39505088/status/1629351738707959811) | advertise |
 | [kakakakhahak@twitter](https://twitter.com/kakakakhahak/status/1626586718114816000) | advertise |
 | [Kakaro0922@twitter](https://twitter.com/Kakaro0922/status/1558177402320465920) | advertise |
 | [KakMaruf@twitter](https://twitter.com/KakMaruf/status/1604826285242343425) | advertise |
