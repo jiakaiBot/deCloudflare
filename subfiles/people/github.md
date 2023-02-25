@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issue on startup](https://github.com/wovalle/angelos/issues/10)
 - ['NoneType' object has no attribute 'lower'](https://github.com/jointakahe/takahe/issues/522)
 - [AccessDenied error during import existing bucket into state](https://github.com/scaleway/terraform-provider-scaleway/issues/1806)
 - [Exclude the canonical link from the "Relative protocol" setting to avoid SEO issues](https://github.com/wp-media/wp-rocket/issues/5781)
