@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,814 |
+| com | 5,813 |
 | social | 3,767 |
 | net | 2,961 |
 | org | 2,082 |
@@ -4356,6 +4356,7 @@ Here's a list of public Fediverse services.
 | `boz.fi` | No |
 | `bozg.se` | Yes |
 | `bozgor.org` | Yes |
+| `bozohub.com` | No |
 | `bozolord.ml` | Yes |
 | `bpconsulting.my` | No |
 | `bpd.monster` | Yes |
@@ -6948,7 +6949,6 @@ Here's a list of public Fediverse services.
 | `cumbia.social` | No |
 | `cumblr.club` | No |
 | `cumbria.social` | No |
-| `cumulonimbus-cloud.com` | No |
 | `cunnin.me` | No |
 | `cunny.finance` | No |
 | `cunny.moe` | Yes |
@@ -16914,7 +16914,6 @@ Here's a list of public Fediverse services.
 | `kamu.social` | No |
 | `kamunagara.org` | Yes |
 | `kan.social` | Yes |
-| `kanachu-homes.com` | Yes |
 | `kanagu.info` | Yes |
 | `kanatan.club` | Yes |
 | `kanatzidis.com` | No |
@@ -17156,6 +17155,7 @@ Here's a list of public Fediverse services.
 | `kelso.club` | No |
 | `keltruc.com` | No |
 | `keltruc.one` | No |
+| `kelu.one` | Yes |
 | `kelvsyc.com` | No |
 | `kemitix.net` | No |
 | `kemo.city` | No |
