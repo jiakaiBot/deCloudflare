@@ -11042,6 +11042,7 @@ Do not create new issue or we will close it as duplicate.
 | [TquanganTa@twitter](https://twitter.com/TquanganTa/status/1553266413460402176) | advertise |
 | [tra79774787@twitter](https://twitter.com/tra79774787/status/1604896396334616579) | advertise |
 | [tradeserg@twitter](https://twitter.com/tradeserg/status/1507822829789716481) | advertise |
+| [TradingGod5@twitter](https://twitter.com/TradingGod5/status/1629806799158214659) | advertise |
 | [Trai49328033@twitter](https://twitter.com/Trai49328033/status/1402999939983056899) | advertise |
 | [Traicod03486526@twitter](https://twitter.com/Traicod03486526/status/1400417859872960514) | advertise |
 | [Traidam48945344@twitter](https://twitter.com/Traidam48945344/status/1558491875031805952) | advertise |
