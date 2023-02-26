@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,822 |
 | social | 3,774 |
-| net | 2,965 |
+| net | 2,966 |
 | org | 2,082 |
 | de | 1,957 |
 
@@ -12716,6 +12716,7 @@ Here's a list of public Fediverse services.
 | `giorgiocomai.eu` | Yes |
 | `giot.es` | No |
 | `giov.dev` | No |
+| `girak.moe` | Yes |
 | `girak.net` | No |
 | `giratina.net` | Yes |
 | `girdglen.com` | Yes |
@@ -24317,6 +24318,7 @@ Here's a list of public Fediverse services.
 | `nonfungibleart.club` | No |
 | `nongrata.social` | No |
 | `nonlinear.zone` | No |
+| `nonn.io` | Yes |
 | `nonnewtoniangoblins.pw` | No |
 | `nono.li` | No |
 | `nononymous.fr` | No |
@@ -24467,6 +24469,7 @@ Here's a list of public Fediverse services.
 | `notohiro.com` | Yes |
 | `notorious.gay` | No |
 | `notpickard.com` | No |
+| `notr.app` | Yes |
 | `notreal.pw` | No |
 | `notreally.info` | No |
 | `notroot.social` | No |
@@ -24997,6 +25000,7 @@ Here's a list of public Fediverse services.
 | `ojamajo.moe` | No |
 | `ojitabi.club` | Yes |
 | `ojour.de` | No |
+| `ojousama-tea.party` | Yes |
 | `ok310.gq` | No |
 | `okadajp.org` | No |
 | `okaminet.xyz` | No |
@@ -28697,6 +28701,7 @@ Here's a list of public Fediverse services.
 | `reseaujaune.com` | No |
 | `reseaumarseillais.com` | No |
 | `reseaumilitant.org` | No |
+| `reseleste.net` | Yes |
 | `reservepn.eu` | No |
 | `reset.tech` | Yes |
 | `resetera.social` | No |
@@ -39054,7 +39059,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,462 |
+| Cloudflare | 9,467 |
 | Normal | 29,549 |
 
 
