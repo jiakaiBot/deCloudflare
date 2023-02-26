@@ -1286,7 +1286,9 @@ avito.avito.avito.sberbank.www.m.www.covid19.vitorheinzen.com
 avito.avito.blablacar.avito.avito.covid19.view-manager.com
 avito.avito.blablacar.avito.avito.sber.covid19.view-manager.com
 avito.avito.blablacar.blablacar.avito.covid19.view-manager.com
+avito.avito.blablacar.www.m.www.covid19.vitorheinzen.com
 avito.avito.sber.avito.avito.avito.covid19.view-manager.com
+avito.avito.sberbank.www.covid19.vr-cosmetology.ru
 avito.avito.sberbank.www.m.www.covid19.vitorheinzen.com
 avito.sber.avito.avito.avito.sberbank.covid19.view-manager.com
 avito.sber.avito.blablacar.blablacar.covid19.view-manager.com
@@ -1301,6 +1303,7 @@ bloxcaster.vercel.app
 bloxdev.vercel.app
 bms.ace-894ef952.core.build.vwn.cloud
 bms.ace-e2da7539.core.build.vwn.cloud
+bmssprojects.com.vsshosting.in
 booking.venscart.com
 bulktext.vodafone.ie
 business.vodafone.ie
@@ -1309,6 +1312,7 @@ cdn.violetlovelines.com
 certifikaty.vodafone.cz
 citibank.viztakarekossag.hu
 click.marketingmail.vdab.be
+client.muktadir.velotix.dev
 cloudstorage.viacloud.com
 coinhive1.vercel.app
 con-west-europe-gma.vmobapps.com
@@ -1320,6 +1324,7 @@ cpanel.vietsupport.vn
 cpanel.vintagepremiumgift.com
 cpanel.vulcano.co.ao
 cpcalendars.vendible.mx
+cpcalendars.vikingnitrostore.com
 cpcalendars.vulcanhost.com
 cpcalendars.vulcano.co.ao
 cpcontacts.venom-fitness.com
@@ -1336,6 +1341,7 @@ dev.vita-gate.com
 deviceguides.vodafone.ie
 devtoken.vrbank.com.vn
 devwp.visibleone.io
+dicom.vodex.in
 discord-twitter-bot.vercel.app
 discordbot.venusrust.com
 discordbots1.vercel.app
@@ -1429,10 +1435,14 @@ navi-de-haproxy-3.weather.vaisala.io
 navi-developer.vercel.app
 nginx.vitreo.cloud
 nitrogate.vercel.app
+nitrohorse.vercel.app
 nitromacchiato.vercel.app
 nolijlink.villanova.edu
+ogulo.volksbank-immobilien.online
 oktatas.varrosbaratno.hu
 onenet.vodafone.ie
+ooklatestpune.live.vodafone.in
+ooklatestraipur.live.vodafone.in
 ota.oru-swms.prd.eu.bp.aws.cloud.vwgroup.com
 panel.vgsensory.be
 paquetes.vekkafilms.com
@@ -1527,6 +1537,7 @@ twitchbuffer.vaudience.net
 twitchy123.vercel.app
 vabp-mock.visainnovation.com
 vacation-packages-india.com
+vaccinecredentialinitiative.info
 vafcu.com
 vahocomedia.com
 vakif.org
@@ -1541,6 +1552,7 @@ vancitydrivingacademy.com
 vancitymotorsport.ca
 vanduffel.nl
 vapecartsdelivery.com
+varix-nishinomiya.com
 vaskenhabib.com
 vastucreations.com
 vatclient.eu
@@ -1559,6 +1571,7 @@ velloreccbank.in
 velo29events.com
 velocetrax-cybersecurity.com
 vemco.app
+vendoticket.com
 venicebakeryandrestaurant.com
 venusb2b.com.tr
 veosafe.com
@@ -1637,6 +1650,7 @@ vitinhphuongtam.com
 vivamedia.se
 vivot.io
 vizbi.org
+vklijnenbreugel-cleaning.nl
 vlsaglobalservices.com
 vnorthwest.com
 vnprintusa.com
@@ -1645,6 +1659,7 @@ voa.vodafone.ie
 vodafone-stiftung.de
 vodafone.com.gh
 vodafone.ro
+vodafonecard.ga
 vodafonefantasticdays.com
 vodafoneready.co.uk
 vodicnekretnine.rs
@@ -1658,6 +1673,7 @@ voorpositiviteit.nl
 vostok.ru
 voteashregan.com
 votre-portail-rh.fr
+voyaohiohighered.com
 vozer.fr
 vpbankcf.com
 vpn1.volvox.hu
@@ -1679,6 +1695,7 @@ vpnslot.pro
 vpnsmartdns.com
 vpntags.com
 vpnveil.com
+vpnworks.org
 vpnxshadow.online
 vpopharco.com.vn
 vpos-api.versitechgh.com
@@ -1731,6 +1748,7 @@ wow.corp.vodafone.pt
 ws.vhega.com.br
 wsnfse.vitoria.es.gov.br
 wsnfsehomologa.vitoria.es.gov.br
+www.5dgroup.vansteam.am
 www.alexvps2.virtuspayment.com
 www.applehome-test.vogs.by
 www.ato.verizone.buzz
@@ -1795,6 +1813,7 @@ www.storage.vsteam.edu.vn
 www.subirgoogle.vostperudigital.com
 www.telegram.viacomedia.com
 www.test.vexonsecurity.nl
+www.ticket-app.vietlesson.tk
 www.tickets.visitislandpond.com
 www.tickets.voltajemag.com.voltajemag.com
 www.trustwallet.verification.gift
@@ -1809,7 +1828,10 @@ www.valentinbordeaux.com
 www.validatebayerhfculogin.com
 www.validatedowneyfculogin.com
 www.valledelguadalhorce.org
+www.vama-macchineagricole.it
 www.vancitycanadaroofing.com
+www.vancityconcrete.com
+www.vancitylockers.com
 www.vancitymotorsport.ca
 www.vancityrei.com
 www.vancitytrax.com
@@ -1837,6 +1859,7 @@ www.vendormanufacture.com
 www.venise-services.fr
 www.ventanamicro.com
 www.verbouwingsteam.eu
+www.verenafreingruber.com
 www.verenigingnlt.nl
 www.verificaregaze.ro
 www.verify-dasher.com
@@ -1848,6 +1871,7 @@ www.verizonrouterblinkingwhite.com
 www.vermilionstandard.com
 www.vermontcustomfitness.com
 www.vernaculardiscourse.com
+www.vernaderofederal.com
 www.versatope.com
 www.versicherungsteam.at
 www.versy.ai
@@ -1869,7 +1893,9 @@ www.vietnamoutlook.com
 www.vietsinggroup.com
 www.viewpointsfromfacebook.com
 www.vii.com.au
+www.vikinggroup.company
 www.vill.samegawa.fukushima.jp
+www.villa-poggio-rosso.com
 www.village-bank.com
 www.villageofhussar.ca
 www.villageofpound.com
@@ -1913,6 +1939,7 @@ www.vpn234.com
 www.vpna2z.de
 www.vpnaturopath.com
 www.vpnrouter.uk
+www.vpns.org
 www.vpnveil.com
 www.vpnworld.cn
 www.vr.com.br
