@@ -368,7 +368,7 @@ Here's a list of public Fediverse services.
 | `3ex.de` | No |
 | `3fu.de` | No |
 | `3fx.ch` | No |
-| `3gigs.xyz` | Yes |
+| `3gigs.xyz` | No |
 | `3h3h.org` | No |
 | `3hw.de` | No |
 | `3ischn.de` | No |
@@ -2743,7 +2743,7 @@ Here's a list of public Fediverse services.
 | `awoo.church` | No |
 | `awoo.dev` | Yes |
 | `awoo.fi` | No |
-| `awoo.fun` | Yes |
+| `awoo.fun` | No |
 | `awoo.fyi` | Yes |
 | `awoo.pub` | Yes |
 | `awoo.space` | No |
@@ -4257,6 +4257,7 @@ Here's a list of public Fediverse services.
 | `bootsie.org.uk` | No |
 | `bootybaesquad.uk` | No |
 | `booya.cool` | No |
+| `booyah.dev` | No |
 | `boozerboozeman.xyz` | No |
 | `boozy.social` | No |
 | `bopinions.de` | No |
@@ -12638,7 +12639,7 @@ Here's a list of public Fediverse services.
 | `ghost.supplies` | No |
 | `ghost.work` | No |
 | `ghost7.com` | No |
-| `ghostburtiraven.com` | Yes |
+| `ghostburtiraven.com` | No |
 | `ghostcorp.net` | No |
 | `ghostdub.de` | No |
 | `ghostintheshell.de` | No |
@@ -39047,8 +39048,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,463 |
-| Normal | 29,541 |
+| Cloudflare | 9,460 |
+| Normal | 29,545 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
