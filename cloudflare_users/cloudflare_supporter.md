@@ -5207,6 +5207,7 @@ Do not create new issue or we will close it as duplicate.
 | [kesean78266591@twitter](https://twitter.com/kesean78266591/status/1398800986555125760) | advertise |
 | [KeshavBP1@twitter](https://twitter.com/KeshavBP1/status/1380784361436368896) | advertise |
 | [keshavrai@twitter](https://twitter.com/keshavrai/status/1399420764885962763) | advertise |
+| [keSravi@twitter](https://twitter.com/keSravi/status/1629709529310019585) | advertise |
 | [kevilhau@twitter](https://twitter.com/kevilhau/status/1381681452455108609) | advertise |
 | [Kevin46689475@twitter](https://twitter.com/Kevin46689475/status/1562144682427224066) | advertise |
 | [KevinCa23673515@twitter](https://twitter.com/KevinCa23673515/status/1515993450872819712) | advertise |
@@ -5396,8 +5397,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -7700,6 +7701,7 @@ Do not create new issue or we will close it as duplicate.
 | [nguyenk15697@twitter](https://twitter.com/nguyenk15697/status/1556293365196500992) | advertise |
 | [nguyenkhacanhh@twitter](https://twitter.com/nguyenkhacanhh/status/1478749565364813825) | advertise |
 | [nguyenlong2122@twitter](https://twitter.com/nguyenlong2122/status/1552206834160660480) | advertise |
+| [Nguyenm15647657@twitter](https://twitter.com/Nguyenm15647657/status/1629695455343833095) | advertise |
 | [NguyennLuong@twitter](https://twitter.com/NguyennLuong/status/1629023245801508864) | advertise |
 | [NguyenP04335211@twitter](https://twitter.com/NguyenP04335211/status/1471757635879780356) | advertise |
 | [NguyenP80191706@twitter](https://twitter.com/NguyenP80191706/status/1567330421897310208) | advertise |
@@ -10613,8 +10615,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
@@ -12133,6 +12135,7 @@ Do not create new issue or we will close it as duplicate.
 | [yinkakun@twitter](https://twitter.com/yinkakun/status/1402141184001253378) | advertise |
 | [YinLaiPhyu3@twitter](https://twitter.com/YinLaiPhyu3/status/1397230464293801984) | advertise |
 | [yinlay08081677@twitter](https://twitter.com/yinlay08081677/status/1395651962004144129) | advertise |
+| [Yinlay25346630@twitter](https://twitter.com/Yinlay25346630/status/1629756997817221122) | advertise |
 | [YinMa31984902@twitter](https://twitter.com/YinMa31984902/status/1397009313705598979) | advertise |
 | [yinminlut@twitter](https://twitter.com/yinminlut/status/1385788900694663173) | advertise |
 | [YinMinPhyu11@twitter](https://twitter.com/YinMinPhyu11/status/1406756700103708674) | advertise |
