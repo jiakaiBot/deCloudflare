@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,821 |
+| com | 5,822 |
 | social | 3,774 |
 | net | 2,965 |
 | org | 2,082 |
@@ -26113,6 +26113,7 @@ Here's a list of public Fediverse services.
 | `pcworms.ir` | No |
 | `pdbq.us` | Yes |
 | `pdgn.co` | Yes |
+| `pdx.land` | Yes |
 | `pdx.place` | No |
 | `pdx.sh` | Yes |
 | `pdx.social` | No |
@@ -26599,6 +26600,7 @@ Here's a list of public Fediverse services.
 | `pinksheep.org` | No |
 | `pinkumandrill.com` | No |
 | `pinkwhite.blue` | No |
+| `pinniped.pub` | No |
 | `pinnoto.org` | No |
 | `pinseri.com` | No |
 | `pinskiy.space` | No |
@@ -32389,6 +32391,7 @@ Here's a list of public Fediverse services.
 | `stolen.money` | No |
 | `stoneartprod.xyz` | No |
 | `stonebot.io` | Yes |
+| `stonedfounder.com` | No |
 | `stonemonkeyresearch.com` | No |
 | `stoner.town` | No |
 | `stonerclub.tk` | No |
@@ -39051,8 +39054,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,461 |
-| Normal | 29,547 |
+| Cloudflare | 9,462 |
+| Normal | 29,549 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
