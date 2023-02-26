@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,825 |
-| social | 3,777 |
+| com | 5,826 |
+| social | 3,778 |
 | net | 2,966 |
 | org | 2,084 |
 | de | 1,958 |
@@ -3480,6 +3480,7 @@ Here's a list of public Fediverse services.
 | `bestgore.fun` | Yes |
 | `besthairypussy.com` | No |
 | `bestiaexmachina.com` | No |
+| `besties.com` | No |
 | `bestio.top` | No |
 | `bestodon.com` | Yes |
 | `bestregard.co` | No |
@@ -18236,6 +18237,7 @@ Here's a list of public Fediverse services.
 | `lakedistrict.social` | No |
 | `lakedrops.com` | Yes |
 | `lakelogaztetxea.net` | No |
+| `lakerturner.co.uk` | Yes |
 | `lakomarka.cat` | Yes |
 | `lalafell.org` | No |
 | `laliguepaysdelaloire.org` | No |
@@ -20418,6 +20420,7 @@ Here's a list of public Fediverse services.
 | `mastoc.fr` | Yes |
 | `mastoc.net` | No |
 | `mastocaz.zone` | Yes |
+| `mastochist.social` | No |
 | `mastocial.stream` | No |
 | `mastoclass.fr` | Yes |
 | `mastocomm.org` | No |
@@ -39078,8 +39081,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,473 |
-| Normal | 29,562 |
+| Cloudflare | 9,474 |
+| Normal | 29,564 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
