@@ -28,7 +28,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 7vpn.com | Yes |
 | 886886886.xyz | Yes |
 | 8888.google | No |
-| 996333.xyz | Yes |
 | aa.net.uk | No |
 | aaflalo.me | Yes |
 | aaytorr.com | Yes |
@@ -215,7 +214,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ginovs.nl | No |
 | gnb09.id | Yes |
 | groupy.ga | No |
-| grqu.de | No |
 | gugainfo.com.br | Yes |
 | gztech.me | Yes |
 | ha-dvin.pp.ua | No |
@@ -500,8 +498,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 216 |
-| Normal | 265 |
+| Cloudflare | 215 |
+| Normal | 264 |
 
 
 ### 44.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
