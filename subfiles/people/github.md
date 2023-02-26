@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare workers has blocked in iran](https://github.com/net4people/bbs/issues/215)
 - [Bypass Failed (CloudFlare Captcha)](https://github.com/Eltik/Puppeteer-Bypass/issues/2)
 - [Unable to generate link, please try after turning on hotspot.](https://github.com/htr-tech/zphisher/issues/706)
 - [Set Up Cloudflare with Linode Proposed Changes](https://github.com/linode/docs/issues/6109)
