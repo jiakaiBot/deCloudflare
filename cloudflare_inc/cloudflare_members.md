@@ -1872,6 +1872,7 @@ Or is this merely a case of simple modesty?
 | Zaid Farooqui | Product Manager |  |
 | Zaidoon Abd Al Hadi | Employee |  |
 | Zaid Zaid | Employee | |
+| Zain Rizavi | special projects | https://twitter.com/MrRazzi17<br>https://indiscretemusings.substack.com/ |
 | Zak Cutner | Employee |  |
 | Zanoni Harris | IT Operations |  |
 | Zebulon Piasecki | Employee | |
