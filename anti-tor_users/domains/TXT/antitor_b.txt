@@ -266,7 +266,6 @@ billiardtelevision.com
 billie-joan.com
 billiepaul.com
 billig-pakkepost.dk
-billigblog.dk
 billigmarkedet.no
 billinghayhistorygroup.org
 billingmem.com
@@ -2889,6 +2888,7 @@ adfs.bof.fi
 adifob2cprd.b2clogin.com
 admin-stg-treadnetbrasil.bridgestoneamericas.com
 ae.buynespresso.com
+agar--agar.bandcamp.com
 agcmx.isf.bnpparibas-pf.com
 airstripone1.bandcamp.com
 alibabacloud.bluepowertechnology.com
@@ -2928,6 +2928,7 @@ applicant-openanywhere-midmobank.banno-uat.com
 applynow.bankiowa.com
 aruba-test.dev-rtls.bordatech.com
 assets.backlog.jp
+atomicreactor.bandcamp.com
 audtspreprod.batomnirep.com
 auth-sign-hhm2tlex4sclaftsax4dpnvtvmdngqb7i73pgidt.hb.bizmrg.com
 auth.bhendel.io
@@ -2993,6 +2994,7 @@ banjoguyollie.bandcamp.com
 bank-oa.com
 banka.studio
 bankabj.com
+banket-hall.md
 bankgunadaya.com
 bankit.com.ng
 bankk.ml
@@ -3003,6 +3005,7 @@ banknusapanidakuta.com
 banko.fi
 bankofindia.co.in
 bankrejects.net
+bankrolled.ca
 bankruptcy.am
 bankruptcyinedmonton.ca
 bankruptcylawinfo.net
@@ -3032,6 +3035,7 @@ batterhost.com
 baubaupost.com
 bauimex.si
 bayramoglupvcyapi.com
+baytalkhubaraa.com
 bazel.build
 bbchausaa.com
 bbooking.com
@@ -3075,6 +3079,7 @@ benefitscal.com
 benjamin.com
 bennetbuildinggroup.com.au
 bennettbuildinggroup.com.au
+benninggroup.com
 berclays-home.com
 berhanbanksc.com
 berkatsafety.co.id
@@ -3100,6 +3105,7 @@ beyond-reflections.org.uk
 beyondintractability.org
 beyondplusmealprep.com
 beyondwpath.org
+bg.bhcfcu.org
 bgee.org
 bhami.com
 bhdelivery.co.uk
@@ -3109,6 +3115,7 @@ bicakcilaryapi.com
 bidanokta.com
 bigandrichmall.com
 bigwin777.asia
+bikerepair.pt
 bikewalkkc.org
 bilbao.spb.ru
 billallenenterprises.com.brick2clicks.com
@@ -3132,6 +3139,7 @@ billswop.com
 billtorres.cl
 billvangelder.com
 billwaldrip.com
+billybear.com.au
 billybobfadez.com.au
 billykidding.com
 billywoodmusic.com
@@ -3157,6 +3165,7 @@ bitflyer8.com
 bithumb-ex.com
 bithumbsignal.online
 bitsy.ai
+bittrex-connect.ga
 biv.org.bw
 blablacar.sberbank.git.covid19.belugabahiss.com
 blackspy.vn
@@ -3168,6 +3177,7 @@ blockchaincreatures.io
 blockchainengineeringsas.com
 blockchainfriends.com
 blockchainkingdomsummit.com
+blockchainmalaga.es
 blockchainminerglobe.online
 blockchainmoonshots.com
 blockchainparrot.com
@@ -3212,6 +3222,7 @@ booking-bonapart.ru
 booking.barberhouse.hu
 booking.barberhouselurdy.hu
 booking.barbershopmammut.hu
+booking.bestoptionsinsuranceagency.com
 booking.birchlawgroup.com
 booking.biz88.info
 booking.bled-adventures.com
@@ -3309,6 +3320,7 @@ busbooking.co.mz
 busbooking.com.sg
 buscarempleo.info
 busconnects.ie
+business-redirect.do
 businessachiever.net
 businessguidetosalesforce.com
 businessworldreport.com
@@ -3380,6 +3392,7 @@ da.bankfrick.li
 danagavanskifth.bandcamp.com
 danielteruggi.bandcamp.com
 datakatalogpoc.bufdir.no
+daupe.bandcamp.com
 dbc1b0ec4b7e8202-wwe.blockedge.dev
 dcs.bahamasair.com
 dekkermusic.bandcamp.com
@@ -3414,6 +3427,7 @@ email.best-telekom.net
 email.blockchainreport.tv
 emp-discord-app-test.binpar.online
 ems.bhcet.org.uk
+en.bethelhk-rbc.org
 en.blockchainqd.org
 en.bogdan.app
 en.bonbesso.com
@@ -3504,6 +3518,7 @@ haustradstefna.bookingfactory.io
 hcmknowledgehub.benchmarkurl.com
 hcmknowledgehub.bmetrack.com
 hearst.stage.basedriver.com
+heartdancerecords.bandcamp.com
 helpdesk.bluebird.space
 hermesembedded.b2clogin.com
 hl3b2c.b2clogin.com
@@ -3520,6 +3535,7 @@ iam.dvdv.bund.de
 ianfink.bandcamp.com
 ib.bancognb.com.pe
 ib.bankaceh.co.id
+ibankt8.bankmandiri.co.id
 id.blooket.com
 identity-myprofile.bosch.com
 image.emailing.bancosantander-mail.es
@@ -3532,6 +3548,7 @@ integration-shopify-dev.brandfolder-svc.com
 intelligence.baltasaar.com
 investorview.berkadia.com
 invoice.bayareacomputerrepairs.com
+invoice.bluepin.ro
 iportal.barclays.com
 irmphonestg.bisom.fr
 it.blockchain-cafe.com
@@ -3547,6 +3564,7 @@ js.braintreegateway.com
 js.bucks.llc
 junglefiremusic.bandcamp.com
 jwi-tusa01b.app.blackbaud.net
+k12.b12app.com
 kalpaband.bandcamp.com
 kaltararental.beresweb.com
 keithfullertonwhitman.bandcamp.com
@@ -3570,6 +3588,7 @@ lb.bliskosztuki.pl
 le-saint-gery.business.site
 learnsmart.babyhaven.com.ng
 lecomptoir-bar.business.site
+leejong-sejong.blogspot.com
 lernportal.bfw-muenchen.de
 leumi-stg7.bll.co.il
 lindevfisschall60.bsh.de
@@ -3618,6 +3637,7 @@ mblseminarsb2c.b2clogin.com
 mdrprod.b2clogin.com
 meatbeatmanifesto.bandcamp.com
 mediacenter.bengkuluselatankab.go.id
+mediterraneanshippingcompany.business.site
 meemocomma.bandcamp.com
 mendezcleaningservice.bytfm.com
 micro-insurance-dev-backend.bfsiaim.com
@@ -3659,13 +3679,21 @@ netflix-update.bbtzgs.com
 new.bestageoffers22.com
 new.bookingadv.com
 news.bershka.com
+newwordsglobal.bandcamp.com
 nginx-fieldint-bi-mobilecontentdelivery-com-master.bi4.bi-oneweb.com
 nginx-invoice-boehringer-ingelheim-com-master.bi-oneweb.com
+nginx-patient-bi-com-in-strokeofsupport-master.bi4.bi-oneweb.com
+nginx-pulmonaryfibrosis360-com-ca-master.bi4.bi-oneweb.com
+nginx-pulmonaryfibrosis360-com-master.bi4.bi-oneweb.com
+nginx-sales-customer-support-master.bi4.bi-oneweb.com
+niche4k.blogspot.com
 ninjapanel.b2clogin.com
 nintendult.bandcamp.com
 nitrogen.business-magazine.online
 nl.banggood.com
 noc.bluex.cl
+nordicwinter.bandcamp.com
+noveller.bandcamp.com
 nsm.test.basedriver.com
 ntapb2c.b2clogin.com
 ntsportal.bafg.de
@@ -3753,6 +3781,7 @@ redmine.braincraft.de
 regionalverband.sormas.bund.de
 registry.terraform.breakingwave.dev
 relaunch.infodienst.bzga.de
+remote.babysmile24.com
 report.blockchaindevelopment.ph
 reports.bestshippers.com
 requiempouruntwister.bandcamp.com
@@ -3805,6 +3834,7 @@ sberbank.sber.sberbank.www.www.www.covid19.brienhopkins.com
 sberbank.sberbank.avito.www.www.www.covid19.brienhopkins.com
 scarey.bandcamp.com
 schematicmusiccompany.bandcamp.com
+scottlawlor.bandcamp.com
 scriptsld.buyitdirect.co.uk
 secure.buildersmarketpips.com
 secure4.billerweb.com
@@ -3916,6 +3946,7 @@ token-test-tiaa.secure.barclays.com
 tooslowtodisco.bandcamp.com
 torreanticarestaurant.sitiweb-prod.bookingexpert.it
 toughcuffs.bandcamp.com
+tower.bulungan.go.id
 track-mb.bront4mail.com
 trancilli.tkan.duckdns.orglowvineyards.com.bexio.shop
 trew3000.bandcamp.com
@@ -3935,6 +3966,7 @@ u-enroll.benefitsconnect.net
 uat.bcm.com.mo
 uat.buddynote.com.au
 uatapi.buopso.com
+ucamerfrepoolws03.bmwgroup.net
 ucjoin.bmwgroup.net
 uk.bogdan.app
 updater-2022-10-13.cschelp.r.bkroot.de
@@ -3969,6 +4001,7 @@ web10072.web07.bero-webspace.de
 webadmin.bernardshof.cloud
 webdisk.barrylockunlock.com
 webdisk.baswstudynotes.com
+webdisk.bdo-onlineupdate.com
 webdisk.blockchain2-20.xyz
 webdisk.blockchainforcybersecurity.com
 webdisk.blockchainforfinancialservices.com
@@ -3983,6 +4016,7 @@ webdoc-senegal.bicisnet.net
 webmail.bacaniadulce.ro
 webmail.baswstudynotes.com
 webmail.besoto.in
+webmail.bijo-match.com
 webmail.biwaa.tokyo
 webmail.blockchain2-20.com
 webmail.blockchainforcybersecurity.com
@@ -4005,6 +4039,7 @@ wiki.bardstv.com
 wildebeestband.bandcamp.com
 willowdevb2c.b2clogin.com
 willyjhons.billfixers.net
+witchinghourproductions.bandcamp.com
 wkmprodb2c.b2clogin.com
 wkmtestdevb2c.b2clogin.com
 wordpress.bancodealimentosdevalladolid.es
@@ -4023,6 +4058,7 @@ www.absensi.bankkotakediri.co.id
 www.account.bravofxtrade.online
 www.accountants.bid.barterofamerica.com
 www.ae.buynespresso.com
+www.allegro.bagazniki.eu
 www.alquimistadecha.com.br.bluedogrevolution.com.br
 www.alysias-purchase.brandiautry.com
 www.amandas-purchase0822.brandiautry.com
@@ -4048,6 +4084,7 @@ www.bagoesservice.com
 www.bahamashclondon.net
 www.baileysteam.org
 www.bairrodoavillez.pt
+www.bajioindustrial.com
 www.bakalavriat.com
 www.baldersolutions.fr
 www.balkos-service.de
@@ -4055,6 +4092,7 @@ www.ballardconstruction.net
 www.balletfinland.com
 www.ballusso.com
 www.balramindia.com
+www.baltazar.si
 www.bambino-booking.dk
 www.bambinoti.ro
 www.bambooaudiovisual.com
@@ -4174,6 +4212,7 @@ www.bellinghamherald.com
 www.bellsapplianceservice.com
 www.belperbc.co.uk
 www.bemkayapi.com
+www.bemon.fr
 www.benchmarkplc.com
 www.bendbulletin.com
 www.bendinggroup.se
@@ -4185,6 +4224,7 @@ www.bentyapi.com.tr
 www.beonchelseasteam.com
 www.bepost-servicesclients.fr
 www.beqbe.com
+www.berendesteam.com
 www.bergamont.com
 www.bergo-services-elagage-abattage-lpa.fr
 www.bergoogle.com
@@ -4246,6 +4286,7 @@ www.billierobyncoaching.com
 www.billigereenergi.dk
 www.billigt-hus.dk
 www.billing.batlaeka.co.za
+www.billing.jmk.beningmedia.co.id
 www.billingshurstwineandbeercircle.com
 www.billion.baze9ja.com
 www.billionaire.cl
@@ -4305,6 +4346,7 @@ www.blackinmarinescience.org
 www.blackmountainsoftware.com
 www.blacksecurity.cl
 www.blackstarsecurity-academy.co.uk
+www.bled-booking.com
 www.blika.com
 www.blinkersport.si
 www.blockchain360.asia
@@ -4316,6 +4358,7 @@ www.blockchainfriends.com
 www.blockchainghost.com
 www.blockchainkingdomsummit.com
 www.blockchainlegals.com
+www.blockchainmalaga.es
 www.blockchainnoodles.com
 www.blockchainpros.io
 www.blockchainpubs.com
@@ -4332,6 +4375,7 @@ www.bloxbouw.com
 www.bluconsole.com
 www.bluea.co.uk
 www.blueappleelectric.com
+www.bluebay-monaco.mc
 www.blueexpresso.com
 www.blueknightstutoringservice.com
 www.bluelinemarketinggroup.com
@@ -4380,11 +4424,13 @@ www.bonprix.ua
 www.bookandsword.com
 www.bookarts.org
 www.booking-bonapart.ru
+www.booking-campingarosa.ch
 www.booking-frenchriviera.com
 www.booking-guys.com
 www.booking-salento.com
 www.booking-taxi-idf.fr
 www.booking.beautilogy.id
+www.booking.bestoptionsinsuranceagency.com
 www.booking.biz88.info
 www.booking.bksdasumbar.org
 www.booking.bled-adventures.com
@@ -4411,6 +4457,7 @@ www.bookings.bfames.com
 www.bookings.boathirepollensa.com
 www.bookingskart.com
 www.bookingsmadesimple.co.uk
+www.bookingsridebluederby.com.au
 www.bookingsswissaesthetics.com
 www.bookingsystem1.no
 www.bookingtaxinow.com
@@ -4459,6 +4506,7 @@ www.bri.co.id
 www.brico-services-lpa.fr
 www.bricopost.com
 www.brightoncarkeys.co.uk
+www.brightxloud.com
 www.brindesparatodos.pt
 www.briscoedigital.com
 www.broadreachconsulting.co.ke
@@ -4470,6 +4518,7 @@ www.brownspointhome.com
 www.brproud.com
 www.brushmag.co.uk
 www.brylleled.dk
+www.brzezinski-societe.fr
 www.bsecure.ca
 www.bseindia.com
 www.btfdwallet.btfd.shop
@@ -4512,6 +4561,7 @@ www.bygeorge.design
 www.bym-rsf.org
 www.byrdie.com
 www.bytechek.com
+www.camrosetowinggroup.bowrayneholdings.com
 www.cases.byenscomputerservice.dk
 www.cek.billmik.com
 www.chupps.bouncyapple.co.uk
@@ -4521,12 +4571,15 @@ www.comune.barletta.bt.it
 www.connexion1.bnfra.store
 www.contact.bbafinacialservices.com
 www.contact.bicobi.co
+www.contact.bowenwellnesscenter.com
+www.contact.html.buffaloadventureriding.com
 www.contoh.buserindonesia.id
 www.cragricole.bnfra.store
 www.cryptolifetradings.bankcoholdings.online
 www.cynmactradingventure.bookingafrica.org
 www.delivery.bersabehcoffee.com
 www.dev.billvolt.com
+www.dev.www.gitlab.enter.briancrabs.cm
 www.dirttrack.blackwellmotorsports.com
 www.dmagency.bankdigital.vn
 www.dostavka.biz.kg
@@ -4545,6 +4598,7 @@ www.ftpclient.bhp.hu
 www.fxtradeprofit.bankcoholdings.online
 www.gasmartconsult.bookingcarkuching.com
 www.git.git.gitlab.git.f5vjgec8ifop8wp.www.portal.bahsi.info
+www.goodcheapinfonow.billmansfield.com
 www.google.boraski.com
 www.holgerdanske.ryvangen.beretning.dk
 www.homeaway-com.info.bitcoin-cash-games.com
@@ -4560,6 +4614,7 @@ www.invoice.baddak.com
 www.invoice.bayareacomputerrepairs.com
 www.invoice.bestow.com.my
 www.invoice.bigeweb.com
+www.invoice.bluepin.ro
 www.invoice.boombascarlo.net
 www.invoice.bsawarehouse.com
 www.itopvpn.pw.branellico.org
@@ -4568,6 +4623,7 @@ www.justgetadmission.balajieduservice.net.in
 www.kelerushenterprises.bookingafrica.org
 www.kingwanatranslation.com.bestforthemoney.org
 www.kmc.bankasoc.lv
+www.kunden.commerzbenkde.babycharmy.com.br
 www.kw.buynespresso.com
 www.laravel-login.biviplant.com
 www.leadgen.bankruptcycanada.com
@@ -4586,6 +4642,7 @@ www.money.bnbparadise.org
 www.moneysurance.bosswoman.in
 www.mudwheelfabricators.blueberry2security.co.ke
 www.mudwheelfabricators.co.ke.blueberry2security.co.ke
+www.multi-control.bcocamp.com
 www.my.blockmoney.io
 www.mysticalboutique.birchbank.info
 www.navyfederal.biorichindia.in
@@ -4598,6 +4655,7 @@ www.osari.mx.billingsjuarez.com
 www.password.byvets.be
 www.payment.batterhost.com
 www.payment.bisvic.com
+www.payment.blogtivity.id
 www.payment.bumdes-sukaharja.com
 www.probusblue.ca.billbooth.me
 www.r12-3s-v-fairfield.bankstowncricket.com
@@ -4625,6 +4683,7 @@ www.serviceapp.bizproapps.online
 www.servicemesincuci.batam.cc
 www.services.bizquicksolutions.com
 www.services.bleeched.co.uk
+www.servicetonews.buyantiviruskeyonline.com
 www.simanis.bankkebumen.com
 www.standard.builtbytouchpoint.com
 www.standardq.bluxus.com
@@ -4666,6 +4725,7 @@ www.whatsapp-panel.focus.belfoods.com
 www.whatsapp.betaplus.com.br
 www.whatsapp.bookbrothers.in
 www.wordpress.bancodealimentosdevalladolid.es
+www.www-ticketmaster.booster4k.com
 www.za.buynespresso.com
 www5.bancaribe.com.ve
 xn--kll887lio8y2fn76k-fdo6a4g.blogspot.com
