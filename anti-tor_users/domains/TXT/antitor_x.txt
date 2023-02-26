@@ -320,6 +320,7 @@ monitoring.xand.tools
 os.googleapi.xyplay.cn
 pickasso-hdl-preprod-sg.xdigi-pickasso.com
 post-track.x24hr.com
+settings-ssl.xboxlive.com
 sigma.xebmin.fr
 support.xl8.ai
 test2api.xupervisor.com
