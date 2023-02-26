@@ -438,6 +438,7 @@ www.clientdemo.yascmarketing.net
 www.delivery.yanandone.ma
 www.demoppdb.yapimjaya.sch.id
 www.dev-anggaran.yapi.sch.id
+www.facebook.yorktonfullgospel.ca
 www.flightbooking.ygensys.com
 www.galleryginting.yahoonta.com
 www.gmail.ysphoto.com.my
@@ -457,6 +458,7 @@ www.yapicimobilya.com
 www.yapingwang.net
 www.yapiplanlama.com
 www.yapisaglikturizm.com
+www.yapisanmusluk.com
 www.yapistil.com
 www.yapitasarim.com
 www.yapitasnakliyat.com
@@ -493,10 +495,12 @@ www.yves-petit-assurances-bandol.fr
 yahoosupportyahoo.com
 yapicimobilya.com
 yapin.sch.id
+yapisanmusluk.com
 yapishasanuddin.com
 yapitasarim.com
 yapitasnakliyat.com
 yapividanjor.com
+yardfinder.us
 yatrabooking.org
 yestrip.nl
 yeublockchain.com
