@@ -18897,6 +18897,7 @@ Here's a list of public Fediverse services.
 | `liker.social` | Yes |
 | `likids.info` | No |
 | `lil-bird.xyz` | No |
+| `lil.mn` | No |
 | `lilac.place` | Yes |
 | `lile.cl` | Yes |
 | `liliputech.com` | No |
@@ -23003,6 +23004,7 @@ Here's a list of public Fediverse services.
 | `myds.me` | No |
 | `myepicserver.de` | Yes |
 | `myexp.de` | Yes |
+| `myf.one` | Yes |
 | `myfake.website` | Yes |
 | `myfamilyandfriends.net` | No |
 | `myfed.space` | No |
@@ -36824,6 +36826,7 @@ Here's a list of public Fediverse services.
 | `wackyneighbor.com` | No |
 | `wadjnetech.industries` | Yes |
 | `wadza.fr` | No |
+| `wafer.baby` | No |
 | `waferbaby.com` | No |
 | `waff.club` | Yes |
 | `waffelo.net` | No |
@@ -39048,8 +39051,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,460 |
-| Normal | 29,545 |
+| Cloudflare | 9,461 |
+| Normal | 29,547 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
