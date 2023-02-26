@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,822 |
+| com | 5,823 |
 | social | 3,774 |
 | net | 2,966 |
 | org | 2,082 |
@@ -1397,6 +1397,7 @@ Here's a list of public Fediverse services.
 | `allcaps.club` | No |
 | `allco.jp` | No |
 | `allcrew.space` | No |
+| `alldnb.com` | No |
 | `allemonde.world` | No |
 | `allen.by` | Yes |
 | `allen.gg` | No |
@@ -8039,6 +8040,7 @@ Here's a list of public Fediverse services.
 | `deuxfleurs.fr` | No |
 | `deuxmillesoixantedix.art` | No |
 | `dev-c.at` | Yes |
+| `dev-null.io` | Yes |
 | `dev-null.rocks` | Yes |
 | `dev-wiki.de` | Yes |
 | `dev.estate` | No |
@@ -8126,7 +8128,7 @@ Here's a list of public Fediverse services.
 | `dezucked.com` | Yes |
 | `dfaria.eu` | No |
 | `dffm.de` | No |
-| `dfir.social` | No |
+| `dfir.social` | Yes |
 | `dflatmajor.social` | No |
 | `dfsek.com` | Yes |
 | `dftba.club` | Yes |
@@ -27307,6 +27309,7 @@ Here's a list of public Fediverse services.
 | `pravdasocial.net` | Yes |
 | `pravdastalina.info` | No |
 | `pravic.xyz` | Yes |
+| `praxis.red` | Yes |
 | `praxis.su` | Yes |
 | `prayerforwords.com` | No |
 | `prb1.es` | No |
@@ -35838,6 +35841,7 @@ Here's a list of public Fediverse services.
 | `ungleich.ch` | No |
 | `ungovernavl.org` | No |
 | `ungoverned.social` | Yes |
+| `ungra.dev` | No |
 | `ungrind.io` | Yes |
 | `ungzeit.de` | No |
 | `unhandledexpression.com` | No |
@@ -39059,8 +39063,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,467 |
-| Normal | 29,549 |
+| Cloudflare | 9,470 |
+| Normal | 29,550 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
