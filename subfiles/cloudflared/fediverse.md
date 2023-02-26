@@ -22423,6 +22423,7 @@ Here's a list of public Fediverse services.
 | `mostodon.cloud` | Yes |
 | `mostodon.info` | No |
 | `mostodon.net` | No |
+| `mostr.pub` | Yes |
 | `mostrom.eu` | No |
 | `mosw.work` | No |
 | `motcha.tech` | Yes |
@@ -39081,7 +39082,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,474 |
+| Cloudflare | 9,475 |
 | Normal | 29,564 |
 
 
