@@ -1171,6 +1171,7 @@ Do not create new issue or we will close it as duplicate.
 | [austinphyo@twitter](https://twitter.com/austinphyo/status/1394898571476930560) | advertise |
 | [austria_ferlyn@twitter](https://twitter.com/austria_ferlyn/status/1480204860737810432) | advertise |
 | [Austynjohnson51@twitter](https://twitter.com/Austynjohnson51/status/1561195515500429312) | advertise |
+| [austynrko21@twitter](https://twitter.com/austynrko21/status/1629608307156451329) | advertise |
 | [Automati18@twitter](https://twitter.com/Automati18/status/1596582995707977728) | advertise |
 | [autopalvelut@twitter](https://twitter.com/autopalvelut/status/1407036600136126475) | advertise |
 | [auto_tue@twitter](https://twitter.com/auto_tue/status/1513499048569114624) | advertise |
@@ -1586,6 +1587,7 @@ Do not create new issue or we will close it as duplicate.
 | [blw10210@twitter](https://twitter.com/blw10210/status/1542354724493697024) | advertise |
 | [blxxdyii@twitter](https://twitter.com/blxxdyii/status/1543838705198440448) | advertise |
 | [Bmccc1228@twitter](https://twitter.com/Bmccc1228/status/1588584506239471621) | advertise |
+| [bmgentile@twitter](https://twitter.com/bmgentile/status/1619022882553876480) | advertise, badmouthing |
 | [BMoRe410_2k@twitter](https://twitter.com/BMoRe410_2k/status/1502623013346463744) | advertise |
 | [bmth_gfy@twitter](https://twitter.com/bmth_gfy/status/1533867458246885376) | advertise |
 | [bnfyqsge@twitter](https://twitter.com/bnfyqsge/status/1561898244598538240) | advertise |
@@ -2146,8 +2148,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3840,6 +3842,7 @@ Do not create new issue or we will close it as duplicate.
 | [HinHin47689528@twitter](https://twitter.com/HinHin47689528/status/1527436519467732992) | advertise |
 | [HinoQuan@twitter](https://twitter.com/HinoQuan/status/1621514850626322434) | advertise |
 | [HipBui@twitter](https://twitter.com/HipBui/status/1552005063585198081) | advertise |
+| [HipNguy30377254@twitter](https://twitter.com/HipNguy30377254/status/1629654301726642176) | advertise |
 | [hiraethforever_@twitter](https://twitter.com/hiraethforever_/status/1545012644595511296) | advertise |
 | [HiranoKuro@twitter](https://twitter.com/HiranoKuro/status/1388350222598742016) | advertise |
 | [Hiren70757789@twitter](https://twitter.com/Hiren70757789/status/1570795252298162177) | advertise |
@@ -4437,6 +4440,7 @@ Do not create new issue or we will close it as duplicate.
 | [IMRANSM3@twitter](https://twitter.com/IMRANSM3/status/1376860023729446913) | advertise |
 | [imranvazirr@twitter](https://twitter.com/imranvazirr/status/1545281808409174016) | advertise |
 | [imsurit@twitter](https://twitter.com/imsurit/status/1468784896537608193) | advertise |
+| [imSuriya_P@twitter](https://twitter.com/imSuriya_P/status/1629650661322153987) | advertise |
 | [Imtiyaz17794109@twitter](https://twitter.com/Imtiyaz17794109/status/1388483545459351553) | advertise |
 | [imTyleri@twitter](https://twitter.com/imTyleri/status/1470833408905519107) | advertise |
 | [ImZiso@twitter](https://twitter.com/ImZiso/status/1552377179643584512) | advertise |
@@ -5893,6 +5897,7 @@ Do not create new issue or we will close it as duplicate.
 | [LedetuW@twitter](https://twitter.com/LedetuW/status/1606129977488838656) | advertise |
 | [ledlightzebra@twitter](https://twitter.com/ledlightzebra/status/1490983409166217218) | advertise |
 | [Ledofmon@twitter](https://twitter.com/Ledofmon/status/1399956537821466631) | advertise |
+| [LeDuc51952647@twitter](https://twitter.com/LeDuc51952647/status/1629598325073940480) | advertise |
 | [leducanh23@twitter](https://twitter.com/leducanh23/status/1619703525226995712) | advertise |
 | [Leducta70074660@twitter](https://twitter.com/Leducta70074660/status/1600338472396476416) | advertise |
 | [Leduy190894@twitter](https://twitter.com/Leduy190894/status/1552682722803724288) | advertise |
@@ -7858,6 +7863,7 @@ Do not create new issue or we will close it as duplicate.
 | [Niaamrs1@twitter](https://twitter.com/Niaamrs1/status/1505443363838824449) | advertise |
 | [nichith11@twitter](https://twitter.com/nichith11/status/1391815897422045185) | advertise |
 | [NicholasBruneau@twitter](https://twitter.com/NicholasBruneau/status/1464751618642034688) | advertise |
+| [niciosity@twitter](https://twitter.com/niciosity/status/1629650783527669762) | advertise |
 | [Nick49172888@twitter](https://twitter.com/Nick49172888/status/1380676591949205508) | advertise |
 | [Nick64818081@twitter](https://twitter.com/Nick64818081/status/1623327306486845442) | advertise |
 | [nicknitro09@twitter](https://twitter.com/nicknitro09/status/1381362588001402894) | advertise |
@@ -12485,7 +12491,6 @@ Do not create new issue or we will close it as duplicate.
 | [_UmmuUmairah_@twitter](https://twitter.com/_UmmuUmairah_/status/1394222981342060544) | advertise |
 | [_VPixx@twitter](https://twitter.com/_VPixx/status/1525433377301532672) | advertise |
 | [_YoonminIsKii_@twitter](https://twitter.com/_YoonminIsKii_/status/1395181543241523205) | advertise |
-| [bmgentile@twitter](https://twitter.com/bmgentile/status/1619022882553876480) | advertise, badmouthing |
 | [_zackwu@twitter](https://twitter.com/_zackwu/status/1459165605555179520) | advertise |
 | [__2x4@twitter](https://twitter.com/__2x4/status/1552234529355595778) | advertise |
 | [__4x5@twitter](https://twitter.com/__4x5/status/1552234529355595778) | advertise |
