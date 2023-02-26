@@ -30329,6 +30329,7 @@ Here's a list of public Fediverse services.
 | `securingchange.org` | No |
 | `security-manufaktur.de` | No |
 | `security.plumbing` | No |
+| `security.theater` | No |
 | `securitycafe.ca` | No |
 | `securityisdead.com` | No |
 | `securitymadein.lu` | No |
@@ -35955,6 +35956,7 @@ Here's a list of public Fediverse services.
 | `unrelated.family` | Yes |
 | `unrelenting.technology` | No |
 | `unrelentingly.online` | No |
+| `unreliable.associates` | No |
 | `unroot.de` | No |
 | `uns.social` | Yes |
 | `unsafe.co` | No |
@@ -39077,7 +39079,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,473 |
-| Normal | 29,560 |
+| Normal | 29,562 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
