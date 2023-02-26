@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,823 |
-| social | 3,774 |
+| com | 5,825 |
+| social | 3,777 |
 | net | 2,966 |
-| org | 2,082 |
-| de | 1,957 |
+| org | 2,084 |
+| de | 1,958 |
 
 
 - Mastodon, Pleroma, etc
@@ -2428,6 +2428,7 @@ Here's a list of public Fediverse services.
 | `asselma.eu` | No |
 | `assemblag.es` | No |
 | `associated.social` | No |
+| `assonance.org` | No |
 | `assorted.ink` | No |
 | `assortedblend.com` | No |
 | `assortedflotsam.com` | No |
@@ -5372,6 +5373,7 @@ Here's a list of public Fediverse services.
 | `chalec.org` | No |
 | `chalk.moe` | Yes |
 | `challenger.city` | No |
+| `chamba.social` | No |
 | `chambel.net` | No |
 | `chameth.com` | No |
 | `chamook.lol` | No |
@@ -5739,6 +5741,7 @@ Here's a list of public Fediverse services.
 | `chubbypaw.net` | Yes |
 | `chuck.town` | No |
 | `chuckdries.com` | Yes |
+| `chud.space` | Yes |
 | `chudbuds.lol` | No |
 | `chudbuds.org` | No |
 | `chuggybumba.com` | No |
@@ -6914,6 +6917,7 @@ Here's a list of public Fediverse services.
 | `cubar.co` | Yes |
 | `cube4fun.net` | No |
 | `cuberry.one` | Yes |
+| `cubes.link` | No |
 | `cubewebsites.com` | Yes |
 | `cubeworld.de` | No |
 | `cubhub.social` | No |
@@ -8269,6 +8273,7 @@ Here's a list of public Fediverse services.
 | `digitalcourage.social` | No |
 | `digitalcourage.video` | No |
 | `digitaldarkage.cc` | No |
+| `digitaldata.social` | No |
 | `digitaldemocracies.org` | Yes |
 | `digitalesozialearbeit.de` | No |
 | `digitalesparadies.de` | No |
@@ -8524,6 +8529,7 @@ Here's a list of public Fediverse services.
 | `dny.social` | No |
 | `dnyfrs.io` | No |
 | `dnzm.nl` | No |
+| `do-berghofen.de` | No |
 | `do-crimes-be.gay` | No |
 | `doan.me` | Yes |
 | `dobbs.town` | No |
@@ -16371,6 +16377,7 @@ Here's a list of public Fediverse services.
 | `jlg.link` | Yes |
 | `jlm.name` | No |
 | `jln.io` | No |
+| `jlperidot.com` | No |
 | `jltml.me` | Yes |
 | `jludwig.net` | No |
 | `jluo.io` | Yes |
@@ -18340,6 +18347,7 @@ Here's a list of public Fediverse services.
 | `latner.us` | No |
 | `latransition.org` | No |
 | `latsch.rocks` | No |
+| `latteru.ru` | No |
 | `laubacher.io` | Yes |
 | `lauderdale.social` | No |
 | `lauercloud.de` | No |
@@ -19976,6 +19984,7 @@ Here's a list of public Fediverse services.
 | `makotoworkshop.org` | No |
 | `makrgroup.com` | No |
 | `makrobytes.eu` | No |
+| `maksales.su` | Yes |
 | `mal.systems` | No |
 | `malachi.cc` | No |
 | `malacology.net` | Yes |
@@ -21436,6 +21445,7 @@ Here's a list of public Fediverse services.
 | `metcha.me` | Yes |
 | `meteion.social` | No |
 | `meteo.social` | No |
+| `meteocon.com` | No |
 | `meteor.ne.jp` | Yes |
 | `meteor1.de` | No |
 | `meteora.gg` | No |
@@ -28898,6 +28908,7 @@ Here's a list of public Fediverse services.
 | `rickornick.com` | No |
 | `rickosborne.org` | No |
 | `ricky-dev.com` | Yes |
+| `ricomputermuseum.org` | No |
 | `ricorda.social` | No |
 | `ricostrongxxx.com` | Yes |
 | `ridernet.org` | No |
@@ -35720,6 +35731,7 @@ Here's a list of public Fediverse services.
 | `ulf-kaempfer.de` | No |
 | `ulik.at` | No |
 | `ulisboa.pt` | No |
+| `ull.social` | No |
 | `ullihome.de` | No |
 | `ulman.social` | Yes |
 | `ulmd.de` | No |
@@ -39063,8 +39075,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,470 |
-| Normal | 29,550 |
+| Cloudflare | 9,472 |
+| Normal | 29,560 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
