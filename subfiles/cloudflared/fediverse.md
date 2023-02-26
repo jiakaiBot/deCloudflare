@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,826 |
 | social | 3,778 |
-| net | 2,966 |
+| net | 2,967 |
 | org | 2,084 |
 | de | 1,958 |
 
@@ -1378,6 +1378,7 @@ Here's a list of public Fediverse services.
 | `alisa.sh` | No |
 | `alisonserver.xyz` | No |
 | `alisonw.uk` | No |
+| `alisonwilder.net` | Yes |
 | `alisyd.info` | No |
 | `alittle.social` | Yes |
 | `alittlestrange.com` | Yes |
@@ -9050,7 +9051,7 @@ Here's a list of public Fediverse services.
 | `dutchcaribbean.social` | No |
 | `dutchipoo.com` | No |
 | `dutchxs.com` | No |
-| `duti.tech` | No |
+| `duti.tech` | Yes |
 | `dutka-is.de` | No |
 | `duwa.ng` | No |
 | `duxez.dev` | No |
@@ -22968,6 +22969,7 @@ Here's a list of public Fediverse services.
 | `mwegner.com` | Yes |
 | `mwknet.de` | No |
 | `mwl.io` | No |
+| `mws.rocks` | No |
 | `mwzhang.com` | No |
 | `mx00s.com` | No |
 | `mxcao.me` | No |
@@ -39082,7 +39084,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,475 |
+| Cloudflare | 9,477 |
 | Normal | 29,564 |
 
 
