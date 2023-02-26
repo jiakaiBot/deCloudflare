@@ -27826,6 +27826,7 @@ Here's a list of public Fediverse services.
 | `qpomelo.cc` | No |
 | `qpomelo.network` | No |
 | `qqey.net` | Yes |
+| `qqs.tw` | Yes |
 | `qr.dev` | No |
 | `qrbt.ch` | No |
 | `qrewhub.com` | No |
@@ -39075,7 +39076,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,472 |
+| Cloudflare | 9,473 |
 | Normal | 29,560 |
 
 
