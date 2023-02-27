@@ -37825,6 +37825,7 @@ Here's a list of public Fediverse services.
 | `wuewuewue.de` | No |
 | `wuff-miau.club` | No |
 | `wuff.space` | Yes |
+| `wufo.watch` | No |
 | `wufwuf.org` | No |
 | `wug.fun` | Yes |
 | `wuhei.racing` | No |
@@ -39086,7 +39087,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,477 |
-| Normal | 29,565 |
+| Normal | 29,566 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
