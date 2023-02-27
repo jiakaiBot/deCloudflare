@@ -94,7 +94,6 @@ Here's a list of public Matrix services.
 | nibbana.jp | No |
 | nitro.chat | No |
 | matrix.noevil.pl | No |
-| nopasaran.red | No |
 | nope.chat | No |
 | matrix.norge.chat | Yes |
 | matrix.ohai.su | No |
@@ -137,7 +136,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 19 |
-| Normal | 90 |
+| Normal | 89 |
 
 
-### 17.4% of public Matrix services are using Cloudflare.
+### 17.6% of public Matrix services are using Cloudflare.
