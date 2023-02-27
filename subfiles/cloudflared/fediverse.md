@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,828 |
+| com | 5,830 |
 | social | 3,778 |
-| net | 2,967 |
+| net | 2,969 |
 | org | 2,084 |
 | de | 1,958 |
 
@@ -2796,6 +2796,7 @@ Here's a list of public Fediverse services.
 | `ayom.media` | No |
 | `ayotocorp.com` | No |
 | `ayushio.com` | Yes |
+| `ayutsuki.net` | Yes |
 | `az-men.com` | No |
 | `az.social` | No |
 | `azabani.com` | No |
@@ -11291,6 +11292,7 @@ Here's a list of public Fediverse services.
 | `foggyminds.com` | Yes |
 | `fogna.social` | No |
 | `fogtype.com` | Yes |
+| `fohte.net` | Yes |
 | `foilhat.tk` | No |
 | `foinb.de` | Yes |
 | `fokken.ninja` | No |
@@ -13171,6 +13173,7 @@ Here's a list of public Fediverse services.
 | `grand-duchy.net` | No |
 | `grand.im` | No |
 | `grandma.space` | No |
+| `granford.uk` | No |
 | `granitestate.social` | No |
 | `grantipak.ru` | No |
 | `granto.cloud` | Yes |
@@ -22538,6 +22541,7 @@ Here's a list of public Fediverse services.
 | `mrls.xyz` | Yes |
 | `mrlungshot.com` | Yes |
 | `mrmoreira.com` | Yes |
+| `mrmts.com` | No |
 | `mrn.bz` | No |
 | `mrnd.xyz` | No |
 | `mrnet.pt` | Yes |
@@ -33610,6 +33614,7 @@ Here's a list of public Fediverse services.
 | `tenpenny.network` | No |
 | `tenpest-moon.uk` | Yes |
 | `tenpl.us` | No |
+| `tenpoku.com` | Yes |
 | `tenshi.sh` | Yes |
 | `tenshicorn.dog` | Yes |
 | `tenta.fun` | No |
@@ -39088,8 +39093,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,479 |
-| Normal | 29,566 |
+| Cloudflare | 9,482 |
+| Normal | 29,568 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
