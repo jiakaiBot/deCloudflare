@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,831 |
-| social | 3,778 |
+| com | 5,832 |
+| social | 3,779 |
 | net | 2,969 |
 | org | 2,084 |
 | de | 1,958 |
@@ -2169,6 +2169,7 @@ Here's a list of public Fediverse services.
 | `argentwolf.org` | No |
 | `argh.club` | No |
 | `argia.eus` | No |
+| `argocatania.it` | No |
 | `argon.city` | Yes |
 | `argonauten.space` | No |
 | `argos-security.io` | Yes |
@@ -10327,6 +10328,7 @@ Here's a list of public Fediverse services.
 | `faery.pub` | No |
 | `faf.photos` | Yes |
 | `faf.social` | Yes |
+| `faf.watch` | Yes |
 | `fag.lol` | Yes |
 | `fahrin.me` | No |
 | `fai.st` | No |
@@ -14299,6 +14301,7 @@ Here's a list of public Fediverse services.
 | `hintersphere.com` | No |
 | `hintz.social` | Yes |
 | `hinzundcode.social` | No |
+| `hip-hop.social` | No |
 | `hiphop.horse` | No |
 | `hipotter.com` | No |
 | `hippidion.xyz` | No |
@@ -26512,6 +26515,7 @@ Here's a list of public Fediverse services.
 | `phseiff.com` | No |
 | `phsta.de` | No |
 | `phub.pl` | No |
+| `phukuile.com` | Yes |
 | `phun.club` | No |
 | `phundrak.com` | Yes |
 | `phutu.re` | No |
@@ -39095,8 +39099,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,482 |
-| Normal | 29,570 |
+| Cloudflare | 9,484 |
+| Normal | 29,572 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
