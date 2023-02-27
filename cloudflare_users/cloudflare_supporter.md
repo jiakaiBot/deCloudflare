@@ -792,6 +792,7 @@ Do not create new issue or we will close it as duplicate.
 | [annamy25058602@twitter](https://twitter.com/annamy25058602/status/1388149916875198468) | advertise |
 | [annein5@twitter](https://twitter.com/annein5/status/1392743216085049346) | advertise |
 | [AnnSali18@twitter](https://twitter.com/AnnSali18/status/1404425553235517443) | advertise |
+| [anonymamir@twitter](https://twitter.com/anonymamir/status/1630243468021989376) | advertise |
 | [Anonymo86349012@twitter](https://twitter.com/Anonymo86349012/status/1576995192187813888) | advertise |
 | [AnonymousVideo@twitter](https://twitter.com/AnonymousVideo/status/1552591858248843264) | advertise |
 | [AnoshGeddam@twitter](https://twitter.com/AnoshGeddam/status/1393448106365095939) | advertise |
@@ -11875,6 +11876,7 @@ Do not create new issue or we will close it as duplicate.
 | [Wooddadda13@twitter](https://twitter.com/Wooddadda13/status/1393045087119056898) | advertise |
 | [Woodkamsomida@twitter](https://twitter.com/Woodkamsomida/status/1616000203223629826) | advertise |
 | [woodwardweird@twitter](https://twitter.com/woodwardweird/status/1552995500420263936) | advertise |
+| [WoolongCorp@twitter](https://twitter.com/WoolongCorp/status/1630241563010891778) | advertise |
 | [WoolongsC@twitter](https://twitter.com/WoolongsC/status/1455335970610589696) | advertise |
 | [woraperth@twitter](https://twitter.com/woraperth/status/1527100429905334273) | advertise |
 | [world32541@twitter](https://twitter.com/world32541/status/1540714404899069953) | advertise |
