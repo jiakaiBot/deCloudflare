@@ -2445,6 +2445,7 @@ Here's a list of public Fediverse services.
 | `asteringtech.com` | No |
 | `asterism.xyz` | Yes |
 | `astest.org` | No |
+| `astheriver.art` | No |
 | `astifter.com` | No |
 | `astodon.app` | No |
 | `astodon.com` | No |
@@ -34696,7 +34697,7 @@ Here's a list of public Fediverse services.
 | `toni.im` | Yes |
 | `tonikawa.social` | Yes |
 | `toniotti.be` | No |
-| `toniozz75.fr` | No |
+| `toniozz75.fr` | Yes |
 | `tonkku.me` | No |
 | `tonos.io` | No |
 | `tonybark.com` | No |
@@ -39099,7 +39100,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,484 |
+| Cloudflare | 9,485 |
 | Normal | 29,572 |
 
 
