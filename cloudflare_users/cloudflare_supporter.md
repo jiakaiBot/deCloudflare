@@ -2824,6 +2824,7 @@ Do not create new issue or we will close it as duplicate.
 | [EcchiTien@twitter](https://twitter.com/EcchiTien/status/1380172764078768128) | advertise |
 | [ecco_fm@twitter](https://twitter.com/ecco_fm/status/1527823486286176257) | advertise |
 | [ECcrasci@twitter](https://twitter.com/ECcrasci/status/1376228756952469505) | advertise |
+| [EChanguero@twitter](https://twitter.com/EChanguero/status/1630006280961048576) | advertise |
 | [echebukati@twitter](https://twitter.com/echebukati/status/1466131790603685892) | advertise |
 | [Echo_d_bot@twitter](https://twitter.com/Echo_d_bot/status/1512432565562531842) | advertise |
 | [EclecticBeaver@twitter](https://twitter.com/EclecticBeaver/status/1494050303074836494) | advertise |
@@ -5399,8 +5400,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
