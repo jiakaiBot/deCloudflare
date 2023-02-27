@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Danbooru Cloudflare IUAM challenge](https://github.com/mikf/gallery-dl/issues/3710)
 - [cloudflare integration produces errors when zero audit log results received](https://github.com/elastic/integrations/issues/5392)
 - [Cloudflare workers has blocked in iran](https://github.com/net4people/bbs/issues/215)
 - [Bypass Failed (CloudFlare Captcha)](https://github.com/Eltik/Puppeteer-Bypass/issues/2)
