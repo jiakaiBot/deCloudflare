@@ -11208,6 +11208,7 @@ Here's a list of public Fediverse services.
 | `florian-brinker.de` | No |
 | `florian.ec` | Yes |
 | `florian.moe` | Yes |
+| `florianbeijers.xyz` | No |
 | `florianbrochard.fr` | No |
 | `florianjensen.com` | No |
 | `florimond.eu` | No |
@@ -36763,7 +36764,7 @@ Here's a list of public Fediverse services.
 | `voxint.pw` | Yes |
 | `voxmojo.com` | No |
 | `vpn.tv` | Yes |
-| `vpnbanzai.eu.org` | No |
+| `vpnbanzai.eu.org` | Yes |
 | `vpndns.org` | No |
 | `vps-dogado.de` | No |
 | `vpx.moe` | Yes |
@@ -39116,7 +39117,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,497 |
+| Cloudflare | 9,498 |
 | Normal | 29,576 |
 
 
