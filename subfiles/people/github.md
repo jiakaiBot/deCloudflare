@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [cloudflare integration produces errors when zero audit log results received](https://github.com/elastic/integrations/issues/5392)
 - [Cloudflare workers has blocked in iran](https://github.com/net4people/bbs/issues/215)
 - [Bypass Failed (CloudFlare Captcha)](https://github.com/Eltik/Puppeteer-Bypass/issues/2)
 - [Unable to generate link, please try after turning on hotspot.](https://github.com/htr-tech/zphisher/issues/706)
