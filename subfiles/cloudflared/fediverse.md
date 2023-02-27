@@ -435,7 +435,7 @@ Here's a list of public Fediverse services.
 | `4bear.com` | No |
 | `4com.jp` | No |
 | `4estate.media` | No |
-| `4eva.online` | Yes |
+| `4eva.online` | No |
 | `4four.org` | No |
 | `4gl.io` | Yes |
 | `4gx.de` | No |
@@ -23521,6 +23521,7 @@ Here's a list of public Fediverse services.
 | `neko.cat` | No |
 | `neko.chat` | No |
 | `neko.ci` | Yes |
+| `neko.computer` | Yes |
 | `neko.pics` | No |
 | `neko.space` | No |
 | `neko.st` | Yes |
@@ -39085,7 +39086,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,477 |
-| Normal | 29,564 |
+| Normal | 29,565 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
