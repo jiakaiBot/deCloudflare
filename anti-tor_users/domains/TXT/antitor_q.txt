@@ -249,6 +249,7 @@ api.qv-veeva.com
 blog.quest.com
 cdn.quarry.com
 cdn03.qrcodechimp.com
+dav.hugo.qplex.de
 eki-net.com.qohz.cn
 eki-net.com.qoig.cn
 en.quoreitaliano.it
@@ -274,6 +275,7 @@ qebay.com
 qh88zalo.com
 qliktag.com
 qneservice.com
+qpython.club
 qr.ae
 qturf.com
 quafrizz.co.za
@@ -297,10 +299,12 @@ quip-cdn.com
 quotesmasala.com
 restaurant.qk-delivery.in
 rustdesk.quedenau.de
+salesnews.qantas.com.au
 secure2.quickwebsitefix.com
 servicedesk.quantium.ch
 sfv5.online.qas.com
 static.qgov.net.au
+sts.qualnet.org
 villeroyboch.qualifioapp.com
 webdisk.qstellarbanking.co
 wsold-hom.qcertifica.com.br
