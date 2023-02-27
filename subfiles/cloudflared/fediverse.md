@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,835 |
-| social | 3,779 |
+| social | 3,780 |
 | net | 2,971 |
-| org | 2,084 |
-| de | 1,959 |
+| org | 2,085 |
+| de | 1,960 |
 
 
 - Mastodon, Pleroma, etc
@@ -3255,7 +3255,7 @@ Here's a list of public Fediverse services.
 | `bearhole.gay` | No |
 | `bearmulk.us` | No |
 | `bearologics.social` | No |
-| `bearpo.st` | No |
+| `bearpo.st` | Yes |
 | `bears.social` | No |
 | `bears.town` | Yes |
 | `bearswithsa.ws` | No |
@@ -6893,7 +6893,7 @@ Here's a list of public Fediverse services.
 | `csullender.com` | Yes |
 | `csunday95.space` | No |
 | `csys64.com` | Yes |
-| `ct2.io` | No |
+| `ct2.io` | Yes |
 | `ct8.pl` | No |
 | `ctc.community` | Yes |
 | `ctdl.co` | Yes |
@@ -18331,7 +18331,7 @@ Here's a list of public Fediverse services.
 | `larlet.fr` | No |
 | `larmefamily.com` | No |
 | `laroche.dev` | No |
-| `larry.town` | No |
+| `larry.town` | Yes |
 | `larrybeck.net` | No |
 | `larrysanger.org` | Yes |
 | `larsen.social` | No |
@@ -21205,6 +21205,7 @@ Here's a list of public Fediverse services.
 | `meekchopp.es` | No |
 | `meemu.org` | No |
 | `meenzen.net` | Yes |
+| `meerjungfrauengrotte.de` | No |
 | `meetwoof.com` | Yes |
 | `meety.me` | No |
 | `mef.gg` | Yes |
@@ -30950,6 +30951,7 @@ Here's a list of public Fediverse services.
 | `silly.business` | No |
 | `sillydragon.ca` | No |
 | `sillymo.de` | No |
+| `silsha.me` | No |
 | `siltala.net` | No |
 | `silva.social` | No |
 | `silvan.cloud` | No |
@@ -33131,6 +33133,7 @@ Here's a list of public Fediverse services.
 | `tacoma.social` | No |
 | `tacosdedatos.com` | No |
 | `tacostea.net` | No |
+| `tacticaltech.org` | No |
 | `tacty.social` | Yes |
 | `tad.me` | Yes |
 | `tadeas.net` | Yes |
@@ -34454,6 +34457,7 @@ Here's a list of public Fediverse services.
 | `timmorgan.com` | No |
 | `timmorgner.de` | No |
 | `timmot.com` | No |
+| `timmymcb.social` | Yes |
 | `timnolte.com` | No |
 | `timodo.de` | Yes |
 | `timoheider.de` | No |
@@ -39112,7 +39116,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,493 |
+| Cloudflare | 9,497 |
 | Normal | 29,576 |
 
 
