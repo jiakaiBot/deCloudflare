@@ -6184,6 +6184,7 @@ Do not create new issue or we will close it as duplicate.
 | [LTnEJJJpwCebucj@twitter](https://twitter.com/LTnEJJJpwCebucj/status/1472960409988521986) | advertise |
 | [LTrungT21684251@twitter](https://twitter.com/LTrungT21684251/status/1382949410984714244) | advertise |
 | [LTrwc@twitter](https://twitter.com/LTrwc/status/1396900089595981826) | advertise |
+| [LTun59439273@twitter](https://twitter.com/LTun59439273/status/1630125133825474561) | advertise |
 | [LTunAnh04418449@twitter](https://twitter.com/LTunAnh04418449/status/1603474166321414145) | advertise |
 | [ltunanh08941347@twitter](https://twitter.com/ltunanh08941347/status/1557232940559499265) | advertise |
 | [Lu13Tn@twitter](https://twitter.com/Lu13Tn/status/1377597764624805888) | advertise |
@@ -12480,6 +12481,7 @@ Do not create new issue or we will close it as duplicate.
 | [_hxqg@twitter](https://twitter.com/_hxqg/status/1588518959250575362) | advertise |
 | [_ishtiaquddin@twitter](https://twitter.com/_ishtiaquddin/status/1576323927806205953) | advertise |
 | [_IvanFlecha@twitter](https://twitter.com/_IvanFlecha/status/1507311637857980417) | advertise |
+| [_j4oy@twitter](https://twitter.com/_j4oy/status/1630120329946251265) | advertise |
 | [_Jarvis_here@twitter](https://twitter.com/_Jarvis_here/status/1568301037265760256) | advertise |
 | [_kanybekov@twitter](https://twitter.com/_kanybekov/status/1534247054385549313) | advertise |
 | [_kg7x@twitter](https://twitter.com/_kg7x/status/1540677251687075840) | advertise |
