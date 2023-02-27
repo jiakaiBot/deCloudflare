@@ -639,7 +639,6 @@ apias.vsp.com
 apigateway-stg.veritas.com
 apigateway.veritas.com
 apigw.vib.com.vn
-apis.cert.vantiv.com
 app.info.verintsystemsinc.com
 app.short.lit.vodafone.pt
 applicationsqas.venture.com.sg
@@ -1375,6 +1374,7 @@ ha-5a.user-management.dev.eu.vwg.vwautocloud.net
 hcp3csaazsrundev-3a.dmo.eu.dp.vwg-connect.com
 hec.splunkinfra.vipps.io
 hermes.vidam.hu
+hermesonpinheiro.vkron.adv.br
 highintoxicdiscordbot.vercel.app
 hubertm331.vercel.app
 id.strato-rechnung.vidoslav.de
@@ -1390,6 +1390,7 @@ katana.vintagepremiumgift.com
 keno.vietlott.vn
 leancoffee.lit.vodafone.pt
 lessentiel.vinci-autoroutes.com
+license.voiceserve.net
 login.mail.verifyyahoomail.com
 login.support.na.prod.vg-cs.com
 login.versoptimize.de
@@ -1399,10 +1400,12 @@ loneworker.iot.vodafoneinnovus.com
 mail-server-mock.ace-b7144077.core.build.vwn.cloud
 mail.happynewyear2020-imailwww.blog.admin.vashsad37.ru
 mail.vantasecuritygroup.com
+mail.varlink.co.uk
 mail.vintagepremiumgift.com
 mail.vulcano.co.ao
 mailchimp.viapan.eu
 mapd.vodafone.com.au
+marcin.voiceserve.net
 mbboauth-1c.prd.ece.vwg-connect.com
 mijnapi.vlcompliant.nl
 mmpayment.viska.dev
@@ -1460,6 +1463,7 @@ pub.marketingmail.vdab.be
 qa.volvobusconnect.com
 quorum-proxy.vision33cloud.com
 receivercc.vodafone.pt
+receptie.villamonterosso.it
 redinteligente.vodafone.es
 remoteaccess.vodafone.pt
 resource.visitcloud.com
@@ -1493,8 +1497,10 @@ sberbank.avito.blablacar.avito.avito.covid19.vossbryggeri.com
 sberbank.avito.blablacar.git.git.covid19.vesta-donors.com
 sberbank.avito.covid19.vesta-donors.com
 sberbank.avito.git.git.git.git.covid19.vesta-donors.com
+sberbank.avito.m.www.covid19.vitorheinzen.com
 sberbank.blablacar.avito.avito.sber.www.covid19.vossbryggeri.com
 sberbank.blablacar.avito.avito.www.www.covid19.vitorheinzen.com
+sberbank.blablacar.m.covid19.vitorheinzen.com
 sberbank.git.git.git.git.covid19.vesta-donors.com
 sberbank.sber.avito.avito.avito.avito.covid19.vossbryggeri.com
 sberbank.sber.avito.blablacar.blablacar.covid19.vossbryggeri.com
@@ -1594,6 +1600,7 @@ vesuvioitaliano.co.uk
 veve.com
 vfwpost7608.org
 viaplay.pl
+vibrant-skin.com
 victoria-creditrepair.com
 victorycs.org
 videogamesblockchain.com
@@ -1603,6 +1610,7 @@ vieiraimobiliaria.com.br
 vietaust.com.au
 vietsinggroup.com
 vietvip.bet
+viewcameraaustralia.org
 vignettes365.com
 vilanova.ro
 viltsporing.no
@@ -1659,7 +1667,6 @@ voa.vodafone.ie
 vodafone-stiftung.de
 vodafone.com.gh
 vodafone.ro
-vodafonecard.ga
 vodafonefantasticdays.com
 vodafoneready.co.uk
 vodicnekretnine.rs
@@ -1667,6 +1674,7 @@ vodun.co.uk
 voicesupport.ro
 voladm.gov.ua
 volcanicas.com
+volkswagenpangkalpinang.com
 volunteer.vcfd.org
 vons0dergren.no
 voorpositiviteit.nl
@@ -1703,7 +1711,9 @@ vr-game.pw
 vr-netflix.com
 vrgwallet.com
 vrm.pics
+vroegerenvandaag.nl
 vrtecjesenice.si
+vrviewtech.com
 vsmcreative.com
 vstapple.com
 vstmac.co
@@ -1716,6 +1726,7 @@ vuaclub.live
 vulcandigitalconsulting.vercel.app
 vulcanmanufacturingsystems.com
 vulcano.co.ao
+vulcanriders.hu
 vunjabei.com
 vwi.vwgroup.co.za
 vwsadmz.vwgroup.co.za
@@ -1731,6 +1742,7 @@ webdisk.vighospitaljalandhar.com
 webdisk.vintagepremiumgift.com
 webdisk.viverosanse.cl
 webdisk.vortexmediaworkshops.com
+webdisk.vrserviceexperts.com
 webdisk.vulcanhost.com
 webdisk.vulcano.co.ao
 webmail.verifyghostextracts.co
@@ -1762,9 +1774,11 @@ www.booking.vojaingg.org
 www.capricorn.assets.cloudflare.cdn.on-cloud.live.vanguardavisionaria.com
 www.cekliveness.com.verifywajah.com
 www.chat.whatsapp.vipchatroom.com
+www.christmaslightshuntington.com.vineremoval.com
 www.citiesforeveryone.vtpi.org
 www.client.victorhosting.com
 www.clientes.virtualhostnet.com.co
+www.comune.valeggiosulmincio.vr.it
 www.contact.vipcincinnatitaxi.com
 www.creditcardcollection.virtualskyit.com
 www.demo.vpntopreviews.com
@@ -1811,6 +1825,7 @@ www.speedtest.vpnpara.com
 www.staging.ukitservice.veryfasthosting.co.uk
 www.storage.vsteam.edu.vn
 www.subirgoogle.vostperudigital.com
+www.techsupport.vnssystems.com
 www.telegram.viacomedia.com
 www.test.vexonsecurity.nl
 www.ticket-app.vietlesson.tk
@@ -1930,6 +1945,7 @@ www.voltdeutschland.org
 www.volusia.org
 www.volvocarsdublin.com
 www.vonkraken.com
+www.vorsorge-versichern.de
 www.voyagebrosso.ca
 www.voyagebrosso.com
 www.voyagesbrosso.com
@@ -1955,6 +1971,7 @@ www.vvxofingerstyletab.com
 www.vw.com
 www.vy.no
 www.vyn-overstocks.com
+www.webtvprogresso.vo6.info
 www.whatsapp.ventasbolivia.net
 www.whatsapp.viralcampaign.in
 www.whatsapp.visendaresidence.com
