@@ -15343,7 +15343,6 @@ Here's a list of public Fediverse services.
 | `inexist.club` | Yes |
 | `inferencium.net` | No |
 | `inferiorlattice.com` | No |
-| `infernal.design` | No |
 | `infernal.garden` | No |
 | `infernalerror.com` | Yes |
 | `infinimatix.net` | Yes |
@@ -39113,7 +39112,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,489 |
-| Normal | 29,580 |
+| Normal | 29,579 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
