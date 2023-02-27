@@ -425,7 +425,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sitdns.com | No |
 | skrep.eu | No |
 | slinkyman.net | Yes |
-| sly.io | Yes |
 | sntrk.ru | Yes |
 | softcom.net | No |
 | spectrum.com | Yes |
@@ -471,6 +470,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | vasi.li | No |
 | vendorvista.xyz | No |
 | vinnyp.xyz | Yes |
+| virga.pp.ua | Yes |
 | vmath.my.id | No |
 | vpnrf.com | Yes |
 | vpservice.cf | No |
