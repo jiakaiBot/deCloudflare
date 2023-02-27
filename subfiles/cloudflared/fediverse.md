@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,826 |
+| com | 5,828 |
 | social | 3,778 |
 | net | 2,967 |
 | org | 2,084 |
@@ -8921,6 +8921,7 @@ Here's a list of public Fediverse services.
 | `dryusdan.fr` | No |
 | `ds106.us` | Yes |
 | `dsanj.org` | No |
+| `dsbeans.com` | Yes |
 | `dsc.sh` | Yes |
 | `dschns.com` | No |
 | `dsci4.xyz` | No |
@@ -10020,6 +10021,7 @@ Here's a list of public Fediverse services.
 | `etaverse.com` | No |
 | `etbus.ch` | No |
 | `etc-services.de` | No |
+| `eter9.com` | Yes |
 | `eternalaugust.com` | No |
 | `eternalflame24.com` | No |
 | `eternawings.com` | No |
@@ -39086,7 +39088,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,477 |
+| Cloudflare | 9,479 |
 | Normal | 29,566 |
 
 
