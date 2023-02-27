@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,835 |
 | social | 3,779 |
-| net | 2,970 |
+| net | 2,971 |
 | org | 2,084 |
 | de | 1,959 |
 
@@ -7315,6 +7315,7 @@ Here's a list of public Fediverse services.
 | `daishouri.moe` | No |
 | `daize.xin` | No |
 | `daizhige.org` | No |
+| `daizin.net` | Yes |
 | `dajiaweibo.com` | No |
 | `dakes.de` | No |
 | `dakkaz.net` | Yes |
@@ -24933,7 +24934,7 @@ Here's a list of public Fediverse services.
 | `odosys.net` | No |
 | `ody.si` | No |
 | `odysseus.social` | No |
-| `odyssey346.dev` | No |
+| `odyssey346.dev` | Yes |
 | `oe74.net` | No |
 | `oe7drt.com` | Yes |
 | `oekaki.st` | No |
@@ -28475,7 +28476,7 @@ Here's a list of public Fediverse services.
 | `realkane.dev` | No |
 | `reallocats.org` | No |
 | `reallygay.party` | No |
-| `realm.best` | No |
+| `realm.best` | Yes |
 | `realmat.de` | Yes |
 | `realmofespionage.xyz` | No |
 | `realmonsters.rodeo` | No |
@@ -34768,7 +34769,7 @@ Here's a list of public Fediverse services.
 | `toot.host` | No |
 | `toot.house` | No |
 | `toot.hu` | No |
-| `toot.icu` | No |
+| `toot.icu` | Yes |
 | `toot.institute` | No |
 | `toot.io` | No |
 | `toot.is` | Yes |
@@ -39111,8 +39112,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,489 |
-| Normal | 29,579 |
+| Cloudflare | 9,493 |
+| Normal | 29,576 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
