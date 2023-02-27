@@ -134,6 +134,7 @@
 1-2-3care.us
 1-2-3clean.com
 1-2-3fastforward.com
+1-2-3getorganized.com
 1-2-3movies.co
 1-2-3movies.com
 1-2-3movies.online
@@ -181,7 +182,6 @@
 1-2ms.com
 1-2pitch.nl
 1-3-3-1.com
-1-3-3-7.org
 1-3.biz
 1-3.com.cn
 1-3.me
@@ -1336,6 +1336,9 @@
 1-tr.ru.com
 1-track.info
 1-trades.site
+1-tradingview.com
+1-tradingview.net
+1-tradingview.org
 1-traffic-school.com
 1-trend-shop.com
 1-trgovina.si
@@ -1361,6 +1364,7 @@
 1-urok.ru
 1-usersendingproduct.xyz
 1-v.net
+1-v6.by
 1-v9.by
 1-vacuumsealedcontainers.com
 1-valiant.com
@@ -2111,7 +2115,6 @@
 100-sushi.fr
 100-tacos.fr
 100-tagu.com
-100-talents.com
 100-tea.com
 100-top.fun
 100-top.guru
@@ -2750,6 +2753,7 @@
 10007.pw
 10007.uk
 10007.win
+10007.xyz
 100070.ru
 100070.xyz
 100071.tw
@@ -2773,6 +2777,7 @@
 10008.top
 10008.uk
 10008.win
+10008.xyz
 100080.com
 100080.xyz
 10008121.com
@@ -2830,6 +2835,7 @@
 1000ann.com
 1000ann.com.au
 1000anunturi.ro
+1000apk.ru
 1000arcu.hu
 1000aroma.com
 1000artsgallery.com
@@ -4081,6 +4087,7 @@
 10010114.com
 10010168.xyz
 1001017.com
+100101hk.com
 100101kg.com
 10010202.xyz
 100102044.xyz
@@ -4088,6 +4095,7 @@
 10010252.com
 10010256.com
 10010268.com
+100102hk.com
 100102kg.com
 10010328.com
 10010371.com
@@ -4105,6 +4113,7 @@
 10010825.com
 10010827.com
 10010898.com
+10010982.com
 1001099.cn
 10010cbss.com
 10010fj.cn
@@ -4851,6 +4860,7 @@
 1001rifa.com
 1001rijscholen.nl
 1001romania.ro
+1001rozas.ru
 1001rss.com
 1001rues.org
 1001ruya.com
@@ -5184,6 +5194,7 @@
 10026.in
 10026.org
 10026.pw
+10026.xyz
 100267.com
 1002687190.com
 10026tonm.com
@@ -5203,6 +5214,7 @@
 10028.bid
 10028.biz
 10028.in
+10028.xyz
 100282.com
 100283.com
 100287.com
@@ -5267,6 +5279,7 @@
 10030.org
 10030.pw
 10030.vip
+10030.xyz
 100300.com.cn
 100304.com
 100306.com
@@ -5289,6 +5302,7 @@
 10032.co
 10032.in
 10032.pw
+10032.xyz
 100322.com
 100326.com
 10032tonm.com
@@ -5309,6 +5323,7 @@
 10034.ir
 10034.org
 10034.pw
+10034.xyz
 100344.com
 10034557656786723.com
 10034568934875790.com
@@ -5320,6 +5335,7 @@
 10035.in
 10035.org
 10035.pw
+10035.xyz
 100351.com
 100357347858345.com
 100358i.com
@@ -5329,6 +5345,7 @@
 10036.biz
 10036.co
 10036.pw
+10036.xyz
 100361.review
 100362.com
 1003659.com
@@ -5336,6 +5353,7 @@
 10037.co
 10037.org
 10037.pw
+10037.xyz
 100370.com
 10038.at
 10038.biz
@@ -5344,6 +5362,7 @@
 10038.org
 10038.pw
 10038.win
+10038.xyz
 100381.com
 100383.com
 1003837.com
@@ -5354,6 +5373,7 @@
 10039.org
 10039.pw
 10039.win
+10039.xyz
 100394003.help
 1003999.com
 1003a.com
@@ -5376,6 +5396,7 @@
 1003gamestarwin.online
 1003gg.xyz
 1003hh.xyz
+1003hkwinstar.online
 1003jj.xyz
 1003kk.cc
 1003kk.xyz
@@ -5412,6 +5433,7 @@
 10040.in
 10040.pw
 10040.vip
+10040.xyz
 1004004.net
 100402500792.com
 100404.xyz
@@ -5440,6 +5462,7 @@
 10044.biz
 10044.pw
 10044.win
+10044.xyz
 100440.xyz
 100442.com
 100443.xyz
@@ -5457,13 +5480,16 @@
 10047.net
 10047.pw
 10047.win
+10047.xyz
 100478.me
 10048.pw
 10048.vip
+10048.xyz
 10049.pw
 10049.vip
 10049.wang
 10049.win
+10049.xyz
 100494.xyz
 1004aa.xyz
 1004api.com
@@ -5671,6 +5697,7 @@
 10051.co
 10051.org
 10051.pw
+10051.xyz
 1005101.com
 100512632.com
 10051320.com
@@ -5683,6 +5710,7 @@
 10052.org
 10052.pw
 10052.win
+10052.xyz
 100520.xyz
 1005222.com
 1005270746.top
@@ -5691,6 +5719,7 @@
 10053.ca
 10053.org
 10053.pw
+10053.xyz
 100532208.com
 10053472.vip
 100535.xyz
@@ -5703,6 +5732,7 @@
 10054.pw
 10054.sh
 10054.vip
+10054.xyz
 100541.com
 100542.com
 100544.xyz
@@ -5725,6 +5755,7 @@
 10056.org
 10056.pw
 10056.win
+10056.xyz
 100560.com
 1005610265198415620.com
 10056185201986206.com
@@ -5737,6 +5768,7 @@
 10057.biz
 10057.org
 10057.pw
+10057.xyz
 1005711.com
 100574.com
 100575.com
@@ -5752,6 +5784,7 @@
 100584.com
 100585.xyz
 10058612019894150.com
+1005888.xyz
 10059.biz
 10059.co
 10059.pw
@@ -5820,6 +5853,7 @@
 10062.org
 10062.pw
 10062.vip
+10062.xyz
 100624.com
 100627.xyz
 10063.biz
@@ -5834,6 +5868,7 @@
 10064.co
 10064.org
 10064.pw
+10064.xyz
 100640.com
 100645.com
 100648.com
@@ -5842,6 +5877,7 @@
 10065.co
 10065.org
 10065.pw
+10065.xyz
 100650.com
 10065295961098520293.com
 1006558.com
@@ -5862,6 +5898,7 @@
 10067.co
 10067.org
 10067.pw
+10067.xyz
 100670.com
 100674.com
 1006766.com
@@ -5873,7 +5910,9 @@
 10068.org
 10068.pw
 10068.vip
+10068.xyz
 10068038.com
+10068040.com
 10068041.com
 10068042.com
 10068044.com
@@ -5886,6 +5925,7 @@
 10068051.com
 10068052.com
 10068053.com
+10068054.com
 10068055.com
 10068056.com
 10068057.com
@@ -5997,6 +6037,7 @@
 10068814.com
 10068815.com
 10068816.com
+10068818.com
 10068819.com
 1006882.com
 10068820.com
@@ -6050,11 +6091,14 @@
 10068980.com
 10068982.com
 10068983.com
+10068984.com
 10068985.com
+10068986.com
 10068987.com
 10068988.com
 1006899.com
 10068990.com
+10068992.com
 10068993.com
 10068994.com
 10068995.com
@@ -6150,12 +6194,14 @@
 10070.org
 10070.pw
 10070.vip
+10070.xyz
 100704.com
 100706.com
 10071.biz
 10071.co
 10071.org
 10071.pw
+10071.xyz
 100711.com
 100714.com
 1007148.com
@@ -6308,6 +6354,7 @@
 100811.com
 100812.xyz
 100818.xyz
+10081991.com
 10081999.xyz
 10081caferacer.it
 10082.biz
@@ -6410,6 +6457,7 @@
 10086261.com
 1008628.cc
 100863.cc
+100863.xyz
 1008633.xyz
 10086360.xyz
 10086396.vip
@@ -6499,6 +6547,7 @@
 10086dsyd.com
 10086ebg.com
 10086ek.com
+10086fbh.com
 10086fbv.vip
 10086fcd.com
 10086fcv.com
@@ -6596,6 +6645,7 @@
 10086saf.com
 10086sf.com
 10086shenzhen.com
+10086sjn.com
 10086skynet.top
 10086snucy.com
 10086spg.com
@@ -6644,8 +6694,10 @@
 10086ydcv.com
 10086ydcy.com
 10086ydcz.com
+10086ydd.vip
 10086ydds.com
 10086ydeg.com
+10086ydjs.com
 10086ydkq.com
 10086ydmq.com
 10086ydmw.com
@@ -6659,6 +6711,7 @@
 10086ydvt.com
 10086ydwf.com
 10086ydxs.top
+10086ydyf.com
 10086ydyh.com
 10086ydzy.com
 10086yk.com
@@ -7408,7 +7461,6 @@
 100copies.com
 100cosasporhacer.com
 100cotton.cn
-100count.xyz
 100covers.com
 100covidclear.co.uk
 100cp0.com
@@ -9733,6 +9785,7 @@
 100riovistablvd.com
 100risadinha.com
 100rivartle.store
+100rivobahis.com
 100rj.cn
 100rl.com
 100roadsdesign.com
@@ -10254,6 +10307,7 @@
 100uw.com
 100v.xyz
 100vaidades.com
+100value.net
 100valve.cn
 100vampirenovels.com
 100vampirenovels.net
@@ -10421,6 +10475,7 @@
 100wow.com
 100wpfix.xyz
 100wputnam.com
+100wunder.com
 100wwcnaperville.com
 100wwcrf.org
 100wwcstlw.org
@@ -10759,6 +10814,7 @@
 101-guides.com
 101-health.com
 101-help.com
+101-homeworkouts.com
 101-idees-fashion.com
 101-idees-fashion.de
 101-idees-fashion.es
@@ -11648,6 +11704,7 @@
 1015620.com
 101565.com
 10157.pw
+101575.com
 101579.com
 1015858.com
 101589.com
@@ -11830,6 +11887,7 @@
 1016kp.vip
 1016live.com
 1016llc.com
+1016media.com
 1016resortwear.com
 1016shop.com
 1016washington.com
@@ -12799,7 +12857,9 @@
 101interiordesign.com
 101internet.id
 101internet.in
+101invest.au
 101invest.com
+101invest.com.au
 101investing.asia
 101investing.club
 101investing.fund
@@ -13270,6 +13330,7 @@
 101ripley.com
 101ripple.com
 101rivalo.com
+101rivobahis.com
 101roads.com
 101roi.online
 101roll.ru
@@ -13413,7 +13474,6 @@
 101sunglasses.com
 101super.buzz
 101super.com.au
-101superalimentos.com
 101superbetin.com
 101supercars.com
 101superheroes.com
@@ -15077,6 +15137,7 @@
 102qu.xyz
 102r.xyz
 102rivalo.com
+102rivobahis.com
 102rm7.cn
 102roi.online
 102rr.com
@@ -16131,6 +16192,7 @@
 103remonta.ru
 103rio.buzz
 103rivalo.com
+103rivobahis.com
 103roi.online
 103rr.com
 103s.xyz
@@ -16225,6 +16287,7 @@
 104027.com
 10402laredo.com
 10403.cc
+1040304.xyz
 104033.com
 10404.cc
 10405.cc
@@ -16353,6 +16416,7 @@
 10418.uk
 10418.vip
 1041851.com
+104188.com
 10419.cc
 10419.uk
 1041901.xyz
@@ -16507,6 +16571,7 @@
 10458.cc
 10458.co
 10458.vip
+104588.com
 1045925330.icu
 10459526.com
 1045broadway.com
@@ -16866,6 +16931,7 @@
 104qwe.vip
 104r.xyz
 104rivalo.com
+104rivobahis.com
 104roi.online
 104rr.com
 104s.xyz
@@ -17908,6 +17974,11 @@
 10564.shop
 105642.com
 105644.com
+105644000.com
+105644111.com
+105644222.com
+105644333.com
+105644444.com
 105644555.com
 105644777.com
 105644888.com
@@ -18022,16 +18093,21 @@
 1056uu.com
 1056uuu.com
 1056v.com
+1056vv.com
 1056vvv.com
 1056w.com
 1056wct.com
+1056ww.com
 1056www.com
 1056x.com
+1056xx.com
 1056xxx.com
 1056y.com
+1056yy.com
 1056yyy.com
 1056z.com
 1056z.vip
+1056zz.com
 1056zzz.com
 1057.eu
 1057.gs
@@ -18328,6 +18404,7 @@
 105quarryroad.com
 105r.xyz
 105reflections24.com
+105rivobahis.com
 105roi.online
 105royal.com
 105rrw.com
@@ -18728,6 +18805,7 @@
 10664636.com
 10665.cc
 10665.net
+1066534.xyz
 106659a.com
 106659b.com
 106659c.com
@@ -20510,7 +20588,6 @@
 108767.com
 10877.eu
 10877.net
-108773858.club
 10877o.com
 10878.vip
 108786.net
@@ -21276,6 +21353,7 @@
 10963807.com
 109644.com
 109644.space
+1096480.xyz
 10965.cz
 109651.com
 109652.com
@@ -21784,7 +21862,6 @@
 10ajw.us
 10aka2.de
 10akhsbdjad1.monster
-10akjdba00.monster
 10aksjbdk0.monster
 10ald.com
 10alert.com
@@ -22379,7 +22456,6 @@
 10buckscrypto.com
 10buckshop.com
 10bucksonly.co.za
-10bucksupplements.com
 10bucktee.com
 10bucktwo.com
 10buen.com
@@ -22730,7 +22806,6 @@
 10da10marketing.com
 10dady.com
 10dagen.com
-10daily.fun
 10dailythings.com
 10dajiaju.com
 10daki.com
@@ -23470,7 +23545,6 @@
 10gbtrintaeum.live
 10gbvps.com
 10gbvps.ru
-10gcdn.top
 10gclothing.com
 10gde.shop
 10gdedi.com
@@ -23536,6 +23610,7 @@
 10gperformance.org
 10gperformancetest.com
 10gperformancetest.org
+10gplay.buzz
 10gr.store
 10gradersmalet.info
 10grambars.com
@@ -23611,7 +23686,6 @@
 10healthnews.com
 10healthy.com
 10heath.com
-10hec.xyz
 10hensave.com
 10hentai.com
 10hentai.net
@@ -23746,7 +23820,6 @@
 10insights.com
 10insta.com
 10insta.net
-10instrumentos.solar
 10insurances.com
 10interestingfact.com
 10interiordesign.com
@@ -24737,6 +24810,8 @@
 10mldropperbottles.com
 10mlistesi.shop
 10mlshortfilm.com
+10mlvial.com
+10mlvials.com
 10mm-only.com
 10mm.cc
 10mm.com.au
@@ -26070,7 +26145,6 @@
 10times.kr
 10times.org
 10timesecrets.com
-10tintuc.com
 10tinvest.com
 10tinvng.site
 10tip.com
@@ -26457,6 +26531,7 @@
 10wishes.com
 10wix.com
 10wkchallenge.com
+10wkebfhw10.monster
 10wlink.com
 10wlistesi.shop
 10wmr.ru
@@ -27564,6 +27639,7 @@
 11-46.software
 11-54.com
 11-54.ms
+11-55.at
 11-6.dk
 11-64.engineering
 11-65.engineering
@@ -27575,6 +27651,7 @@
 11-81.bond
 11-827.com
 11-88.co
+11-99.me
 11-a.ru
 11-access.com
 11-ae489-ll.com
@@ -31288,6 +31365,7 @@
 111cc11.xyz
 111cc12.xyz
 111cc13.xyz
+111cc14.xyz
 111cc16.xyz
 111cc19.xyz
 111cc2.xyz
@@ -31353,6 +31431,7 @@
 111dwj.vip
 111dx.com
 111dy.cc
+111dzh.com
 111e.cc
 111eastchestnut.org
 111eb.com
@@ -31671,6 +31750,7 @@
 111powertesto.com
 111ppm.com
 111ppp111.top
+111pretaporter.fr
 111projectga.com
 111propertiesllc.com
 111proxy.eu
@@ -31688,6 +31768,7 @@
 111qq11.xyz
 111qq12.xyz
 111qq13.xyz
+111qq14.xyz
 111qq15.xyz
 111qq2.xyz
 111qq3.xyz
@@ -31761,7 +31842,6 @@
 111sn.com
 111sn88.com
 111soul.com
-111soulangel.com
 111soundhealing.com
 111souq.com
 111southwacker.com
@@ -31796,8 +31876,6 @@
 111tbwsj.com
 111tdh.com
 111te.com
-111tetetoololl.in.net
-111tetetoololl2.pw
 111th.app
 111th.vip
 111thelian.com
@@ -31819,7 +31897,6 @@
 111ttt111.top
 111turkbet.com
 111tv.work
-111tv0.tokyo
 111tvb.com
 111u23.com
 111u9.com
@@ -31856,7 +31933,6 @@
 111vk.com
 111vl.com
 111vm.com
-111vn.live
 111vo.com
 111vq.com
 111vs.xyz
@@ -32016,7 +32092,6 @@
 111xsd.com
 111xun.site
 111xvideos.com
-111xw.top
 111xwsy.app
 111xwsy.com
 111xxx.xyz
@@ -34321,6 +34396,7 @@
 11303.com
 113039.com
 11304.cc
+11304.shop
 11305.cc
 11306.cc
 113069.com
@@ -34816,6 +34892,7 @@
 113710.com
 1137112.com
 113717.com
+11372.biz
 11372200.com
 1137222.com
 1137227.com
@@ -34967,7 +35044,6 @@
 113azino777.ru
 113b8ffeea69.com
 113baba-wwwxiexietv.cc
-113bahis.com
 113bar.ru
 113bbin.com
 113bbty.com
@@ -35859,7 +35935,6 @@
 114b2b.com
 114b514t.top
 114baba-wwwxiexietv.cc
-114bahis.com
 114bangong.buzz
 114bbin.com
 114bbr.xyz
@@ -36645,6 +36720,7 @@
 115637.com
 115644.com
 11565.cc
+115658.com
 115659.com
 1156600.com
 1156623n.com
@@ -36893,7 +36969,6 @@
 115ay.com
 115azino777.ru
 115baba-wwwxiexietv.cc
-115bahis.com
 115balceta.com
 115baud.net
 115baysansli.com
@@ -37182,6 +37257,7 @@
 1160sbellaire.com
 1160t.com
 1160wmet.com
+1160wns.com
 1160y2.com
 1160yt.com
 1160z.vip
@@ -37259,6 +37335,7 @@
 1162t.com
 1162trestleglen.com
 1162tyc.com
+1162wns.com
 1162xx.com
 1162yt.com
 1162z.vip
@@ -37272,6 +37349,7 @@
 1163251.org
 11632777.com
 1163371.com
+116343.cn
 1163555.com
 1163655.com
 116366.xyz
@@ -37740,6 +37818,7 @@
 1166pg.com
 1166tv.com
 1166vs.com
+1166wns.com
 1166ww.vip
 1166y.com
 1166yd.com
@@ -37833,6 +37912,7 @@
 1168pk.com
 1168tk.com
 1168w.com
+1168wns.com
 1168yabo.com
 1168yl.com
 1168yt.com
@@ -37897,7 +37977,6 @@
 116av.cc
 116azino777.ru
 116baba-wwwxiexietv.cc
-116bahis.com
 116bbb.com
 116bbin.com
 116bbs.cn
@@ -38597,7 +38676,6 @@
 117azino777.ru
 117b.net
 117baba-wwwxiexietv.cc
-117bahis.com
 117banker.com
 117bbb.com
 117bbin.com
@@ -39698,7 +39776,6 @@
 11878zx.com
 118790000.com
 118792.com
-118795.xyz
 1187999.com
 118799900.com
 118799999.com
@@ -39829,7 +39906,6 @@
 1188345.com
 11883885.com
 11883v.com
-1188447868.xyz
 118845.space
 1188456.com
 11885.com
@@ -40068,7 +40144,6 @@
 118azino777.ru
 118ba.com
 118baba-wwwxiexietv.cc
-118bahis.com
 118bbin.com
 118bbty.com
 118bd.com
@@ -40980,7 +41055,6 @@
 119b.lv
 119b.net
 119baba-wwwxiexietv.cc
-119bahis.com
 119baro.com
 119bb.com
 119bbb.com
@@ -42444,6 +42518,7 @@
 11gp.shop
 11gpbfi.buzz
 11gpbfi.shop
+11gplay.buzz
 11gr.com
 11grand-casino.com
 11grandbetting.com
@@ -42643,7 +42718,6 @@
 11ii11.xyz
 11iii.com
 11iiiii.com
-11ij6z.cyou
 11ik.xyz
 11ikan.xyz
 11ikeshop.biz
@@ -42681,7 +42755,6 @@
 11iybb.com
 11j.jp
 11j.vip
-11j5.pw
 11j7.com
 11j9.com
 11ja.com
@@ -42718,7 +42791,6 @@
 11jjnn.com
 11jjp.xyz
 11jjrr.com
-11jjwgzx.fit
 11jjww.com
 11jjxx.com
 11jjyy.com
@@ -43542,6 +43614,7 @@
 11pianostudio.com
 11pickleball.com
 11piecesofflare.com
+11pietro.pl
 11pilgrimdrive.com
 11pilot.com
 11pingm.com
@@ -44376,6 +44449,7 @@
 11toon9.com
 11totobo.com
 11totobotipo90.site
+11touches.com
 11tours.us
 11tpp.com
 11tracking.com
@@ -45050,6 +45124,7 @@
 12-14secondstreet.com
 12-21productions.com
 12-21wywyff.org
+12-27.bond
 12-27.com
 12-27.me
 12-28.me
@@ -45587,6 +45662,7 @@
 120572454.com
 120581asd.com
 1205888.com
+1205888.xyz
 12059.co
 12059.vip
 120599.com
@@ -45848,7 +45924,6 @@
 120ay.com
 120b.xyz
 120baba-wwwxiexietv.cc
-120bahis.com
 120bbin.com
 120bbty.com
 120bennett.com
@@ -46212,6 +46287,7 @@
 121-finance.eu.org
 121-flooring.co.uk
 121-fundraising.co.uk
+121-fundraising.cyou
 121-homes.com
 121-hometuition.com
 121-library.com
@@ -46509,6 +46585,7 @@
 12123123.xyz
 121231234.xyz
 121232.xyz
+1212321.com
 121233.cc
 121233.ge
 1212387.vip
@@ -47124,7 +47201,6 @@
 121azino777.ru
 121backup.africa
 121bags.com
-121bahis.com
 121bannockburnave.com
 121bbb.com
 121bbin.com
@@ -47294,7 +47370,6 @@
 121international.com
 121intl.org
 121islamonline.com
-121iy.xyz
 121jamarketing.com
 121jasperliquor.ca
 121jjj.com
@@ -48315,7 +48390,6 @@
 122av.com
 122aw.com
 122azino777.ru
-122bahis.com
 122bb1345dcc.com
 122bbin.com
 122bbty.com
@@ -48866,8 +48940,14 @@
 12300000.cn
 123000123.xyz
 1230009.com
+123001.buzz
 123001.cc
+123001.cloud
 123001.co
+123001.life
+123001.ltd
+123001.shop
+123001.today
 123001.vip
 12300123.xyz
 1230018.com
@@ -49032,6 +49112,7 @@
 12311.life
 12311.one
 12311.xyz
+123111.ltd
 123111.me
 123111.net
 123111.xyz
@@ -49778,7 +49859,6 @@
 1234567888.top
 123456789.best
 123456789.buzz
-123456789.cm
 123456789.ee
 123456789.lt
 123456789.top
@@ -49883,7 +49963,6 @@
 12345buyer.com
 12345c.cc
 12345cc.vip
-12345cp.vip
 12345cq.cc
 12345cs.cc
 12345d.cc
@@ -49982,7 +50061,6 @@
 12346.tv
 123461.fun
 123464.com
-1234643.top
 123467.xyz
 12346754.top
 12346789.xyz
@@ -50155,7 +50233,6 @@
 1234mir.com
 1234mj.com
 1234moregame.com
-1234movies.best
 1234movies.club
 1234movies.cyou
 1234movies.me
@@ -50679,6 +50756,7 @@
 123750b.com
 123750c.cc
 123750c.com
+123751.net
 123751.xyz
 1237535.com
 1237536.com
@@ -50974,6 +51052,7 @@
 123aa.today
 123aaa.today
 123aaa.xyz
+123aab.xyz
 123aabb.com
 123aabbyz.xyz
 123aar.top
@@ -51336,6 +51415,7 @@
 123b666.com
 123b77.com
 123b789.com
+123b811.com
 123b88.com
 123b888.website
 123b9.com
@@ -51371,6 +51451,7 @@
 123bankruptcy.com.au
 123bankruptcy.net.au
 123banzhu.com
+123bapp.club
 123bapp.com
 123bapp.org
 123barbiegames.com
@@ -51406,11 +51487,14 @@
 123bccaer.live
 123bccaer.shop
 123bccaer.xyz
+123bccd.xyz
 123bclub.com
 123bcom.online
+123bcx.xyz
 123bd.com
 123bd.xyz
 123bdangki.fun
+123bdl.com
 123bdqn.com
 123bds.com
 123bdsm.nl
@@ -51551,6 +51635,7 @@
 123beveiligingsshop.nl
 123beverages.com
 123bff.xyz
+123bfun.shop
 123bg.co.uk
 123bgg.xyz
 123bharath.com
@@ -51604,6 +51689,7 @@
 123blog.com.es
 123blogg.com
 123blokjes.nl
+123blt.com
 123bm.com
 123bmbm.com
 123bmi.com
@@ -51740,6 +51826,7 @@
 123bvnz.com
 123bx888.shop
 123bxj.com
+123bxoso.com
 123by.com
 123by.ir
 123byd.dk
@@ -51923,7 +52010,6 @@
 123chill.org
 123chill.pro
 123chill.to
-123chill.top
 123chill.watch
 123china.com.br
 123china.net
@@ -52775,7 +52861,6 @@
 123freebrushes.com
 123freebusinesscardtemplates.com
 123freedownload.com
-123freefilmsnow.gq
 123freeicons.com
 123freelas.com
 123freelas.com.br
@@ -52902,7 +52987,6 @@
 123glutenfree.com
 123gmovies.com
 123go.click
-123go.space
 123go.vip
 123goal-bet.app
 123goal-bet.art
@@ -52985,6 +53069,7 @@
 123gosport.com
 123gostream.one
 123gostreams.to
+123gotravel.travel
 123gottobounce.co.uk
 123gotv.com
 123goweb.eu
@@ -53187,7 +53272,6 @@
 123hp-com.com
 123hp-com.net
 123hp.co.com
-123hp.org
 123hp.site
 123hp.tech
 123hp.xyz
@@ -54026,7 +54110,6 @@
 123mkv.autos
 123mkv.best
 123mkv.bike
-123mkv.blue
 123mkv.bond
 123mkv.buzz
 123mkv.click
@@ -54205,6 +54288,7 @@
 123movies-fi.com
 123movies-free.club
 123movies-free.co
+123movies-free.cyou
 123movies-free.icu
 123movies-free.live
 123movies-free.net
@@ -54217,6 +54301,7 @@
 123movies-go.dev
 123movies-go.me
 123movies-hub.com
+123movies-hub.cyou
 123movies-i.net
 123movies-ii.com
 123movies-ii.net
@@ -54460,7 +54545,6 @@
 123movies7.us
 123movies9.co
 123movies9.com
-123moviesa.com
 123moviesall.com
 123moviesalternative.com
 123moviesapp.com
@@ -55557,6 +55641,7 @@
 123quadra.fr
 123quadras.com.br
 123quangcao.com
+123questoes.com.br
 123quet.com
 123quickincome.com
 123quicklaan.dk
@@ -55999,6 +56084,7 @@
 123sms.es
 123smslaan.dk
 123smurf.com
+123snf.com
 123soap2day.com
 123soap2day.to
 123soapgate.cc
@@ -56654,6 +56740,7 @@
 123vervanging.com
 123viagem.com
 123viajando.com
+123viajes.com
 123vibrator.nl
 123vibrators.com
 123vid.net
@@ -56905,6 +56992,7 @@
 123wmc-web.com
 123wmc.page
 123woning.com
+123wood.ltd
 123woodshop.com
 123woodworking.com
 123woontrends.nl
@@ -56938,6 +57026,7 @@
 123x7.info
 123x7.net
 123x7betting.com
+123x89.com
 123xa.org
 123xaff.com
 123xaxa.com
@@ -57096,6 +57185,7 @@
 123zandstraal.nl
 123zangmadreseh.ir
 123zante.gr
+123zap.com.br
 123zapytanie.pl
 123zaunverleih.com
 123zb.com
@@ -57535,7 +57625,6 @@
 124ay.com
 124az.com
 124azino777.ru
-124bahis.com
 124baker.com
 124bbb.com
 124bbin.com
@@ -58051,6 +58140,7 @@
 125529.com
 12553.cc
 12553.net
+125531.com
 125532.com
 125532924.xyz
 1255341562.com
@@ -58428,7 +58518,6 @@
 125az.com
 125azino777.ru
 125azul.com
-125bahis.com
 125banjia.com
 125base.com
 125bbin.com
@@ -59249,7 +59338,6 @@
 126azino777.ru
 126b.shop
 126baby.com.tw
-126bahis.com
 126bb.com
 126bbb.com
 126bbty.com
@@ -59309,6 +59397,7 @@
 126golaro.com
 126google.com
 126gorabet.com
+126grammes.com
 126h7.com
 126handikap.com
 126hao.cn
@@ -59555,6 +59644,7 @@
 12711s.com
 12711t.vip
 12711xx.com
+12712.cc
 127120.xyz
 1271246.com
 127127.app
@@ -59706,6 +59796,7 @@
 1275.al
 1275.es
 1275.nl
+1275.online
 1275.ru
 127502.com
 127503.com
@@ -59741,6 +59832,7 @@
 1275ppn.bar
 1275y.com
 1276.gs
+1276.online
 1276.win
 127615.com
 127616.com
@@ -59872,7 +59964,6 @@
 127b.com
 127b.tv
 127b.xyz
-127bahis.com
 127bao.com
 127baoyu.com
 127bayovista308.com
@@ -59887,6 +59978,7 @@
 127brookdaleave.com
 127buy.top
 127c.tv
+127cards.com
 127cc.tv
 127ccc.com
 127cdn.com
@@ -60796,7 +60888,6 @@
 128b.org
 128b6b.shop
 128b87dce6f75ffa.pw
-128bahis.com
 128bakedeats.com
 128bali.com
 128bandarwalet.com
@@ -61465,6 +61556,7 @@
 1296355.com
 12963runwayroad.com
 129644.com
+1296480.xyz
 129654.com
 129660.com
 1296600.com
@@ -61601,7 +61693,6 @@
 129av.cc
 129azino777.ru
 129b36.com
-129bahis.com
 129bbb.com
 129bbin.com
 129bbty.com
@@ -61817,6 +61908,7 @@
 12and60.com
 12andersonway.com
 12andersonwy.com
+12andmain.com
 12andporter.com
 12android.uk
 12andunderbooks.com
@@ -62051,6 +62143,7 @@
 12betfan.com
 12betfast.com
 12betgame.net
+12betgo.co.in
 12betgo.com
 12betgobet.online
 12betgobet.shop
@@ -62855,6 +62948,7 @@
 12gotravel.asia
 12gp.buzz
 12gp.shop
+12gplay.buzz
 12gpm.com
 12grad.eu
 12grados.com
@@ -62979,7 +63073,6 @@
 12houressays.com
 12hourkirtaniya.com
 12hours.party
-12hoursamadhi.com
 12hoursofmagic.com
 12hoursofprayer.com
 12hoursoftech.com
@@ -63000,6 +63093,7 @@
 12hub.in
 12hubhub.xyz
 12huc.com
+12hudong.com
 12hukk.com
 12humans.org
 12hunews.site
@@ -63406,6 +63500,7 @@
 12maoee.com
 12maoek.com
 12maoff.com
+12maofk.com
 12maogk.com
 12maokt.com
 12maomm.com
@@ -65761,6 +65856,7 @@
 130573.com
 130588.com
 1305888.com
+1305888.xyz
 13059.shop
 13059872728.com
 1305990.com
@@ -65971,7 +66067,6 @@
 130azino777.ru
 130b.vip
 130b.xyz
-130bahis.com
 130bbb.com
 130bbin.com
 130bbty.com
@@ -66217,6 +66312,7 @@
 13111979.nl
 13111984.xyz
 13111999.cc
+13111hk.com
 13111y.com
 131122.cc
 1311222.cc
@@ -66610,6 +66706,7 @@
 131476.xyz
 131477.xyz
 1314777999.vip
+1314778.top
 1314788.com
 13147888.com
 13148.fun
@@ -66963,7 +67060,6 @@
 131ay.com
 131azino777.ru
 131b.shop
-131bahis.com
 131bbb.com
 131bbin.com
 131bbty.com
@@ -67649,7 +67745,6 @@
 13287809.xyz
 132885.com
 132886.cm
-1328864049.xyz
 13288888.com
 132890.com
 1328henry.com
@@ -67698,7 +67793,6 @@
 132azino777.ru
 132b.live
 132b.xyz
-132bahis.com
 132banffway.com
 132baoyu.com
 132bbb.com
@@ -68308,6 +68402,7 @@
 1334fitness.com
 1334kp.vip
 1334londonderry.com
+1334pickford.com
 1334s.com
 1334utah.com
 1335.me
@@ -68457,7 +68552,6 @@
 13364444.com
 133650.com
 133652.com
-133653629.club
 133655.uk
 13365555.com
 133656.uk
@@ -68917,6 +69011,7 @@
 133887.xyz
 1338877.com
 133888.com.cn
+133888444.xyz
 133889.xyz
 13389.cc
 133897.com
@@ -68982,7 +69077,6 @@
 133b.net
 133b9.com
 133ba.com
-133bahis.com
 133bakery1.com
 133bb.com
 133bbb.com
@@ -69752,7 +69846,6 @@
 134az.com
 134azino777.ru
 134b.cn
-134bahis.com
 134bbb.com
 134bbin.com
 134bbo.com
@@ -70707,7 +70800,6 @@
 135b2ad02fa5.com
 135b4d6b57450d83c51f21.buzz
 135b89.com
-135bahis.com
 135bbb.com
 135bbin.com
 135bbs.com
@@ -71566,7 +71658,6 @@
 136az.com
 136azino777.ru
 136b8k.xyz
-136bahis.com
 136bbb.com
 136bbin.com
 136bbty.com
@@ -71814,6 +71905,7 @@
 13712.org
 13712287201.com
 137127.com
+13713.cc
 13713.ir
 13713371861.cn
 137136.xyz
@@ -72265,7 +72357,6 @@
 137ay.com
 137azino777.ru
 137b.us
-137bahis.com
 137bbb.com
 137bbin.com
 137bbty.com
@@ -72401,6 +72492,7 @@
 137jp.com
 137jw.com
 137jx.com
+137k.cn
 137k.nl
 137k5.de
 137ka.cn
@@ -73368,6 +73460,7 @@
 13888.one
 13888000.cc
 13888000.com
+1388803.com
 1388811.cc
 13888111.cc
 13888182296.com
@@ -73503,7 +73596,6 @@
 138azino777.ru
 138b.cc
 138ba.com
-138bahis.com
 138bar.ru
 138baystate.com
 138bb.vip
@@ -74246,6 +74338,7 @@
 1394.me
 1394.nl
 1394.st
+1394.us
 139401.net
 139402.net
 139403.net
@@ -74346,6 +74439,7 @@
 13964.uk
 13964465.com
 13964492041.com
+1396480.xyz
 139649.com
 13964922898.com
 139655.com
@@ -74509,6 +74603,7 @@
 1399.live
 1399.net.cn
 1399.nl
+1399.us
 13990001.com
 13990002.com
 13990003.com
@@ -74628,7 +74723,6 @@
 139ay.com
 139az.com
 139azino777.ru
-139bahis.com
 139bbb.com
 139bbin.com
 139bbty.com
@@ -75269,6 +75363,7 @@
 13element.pro
 13elements.com
 13elistesi.shop
+13ellkun.live
 13els.com
 13embed.xyz
 13eme-lune.com
@@ -75422,6 +75517,7 @@
 13got.com
 13gp.buzz
 13gp.shop
+13gplay.buzz
 13gq3br.space
 13grand-casino.com
 13grandbetting.com
@@ -75475,6 +75571,7 @@
 13hippo.com
 13hjdc.co
 13hjdc.net
+13hk.com
 13hk.us
 13hlb.top
 13hlistesi.shop
@@ -76863,6 +76960,7 @@
 1400ways.com
 1400webster3.com
 1400westedgewater.com
+1400winhibitor.com
 1400y.com
 1401-1402.com
 1401.credit
@@ -77027,6 +77125,7 @@
 140555.vip
 140577.com
 140588.xyz
+1405888.xyz
 14059.org
 14059.wang
 1405comunicaciones.com
@@ -77154,7 +77253,6 @@
 140ay.com
 140az.com
 140azino777.ru
-140bahis.com
 140bb.com
 140bbb.com
 140bbin.com
@@ -77250,7 +77348,6 @@
 140redwood.com
 140redwooddr.com
 140roi.store
-140salon.com
 140saoru.com
 140sekastream.com
 140south1026.com
@@ -77399,7 +77496,6 @@
 1412.dev
 1412.gs
 1412.io
-1412.kids
 1412.rest
 1412121.xyz
 141213.xyz
@@ -78403,6 +78499,7 @@
 1432valencia.com
 1433-10.com
 1433.se
+1433.us
 143300.ru
 14331111.com
 143322.xyz
@@ -78439,6 +78536,7 @@
 1434.eu
 1434.me
 1434.top
+1434.us
 14340tyc.com
 14341.net
 14341a.com
@@ -78467,6 +78565,7 @@
 14341x.com
 14341y.com
 14341z.com
+1434233532232-13224242552353253232.uk
 14343a.com
 14343b.com
 14343c.com
@@ -78758,7 +78857,6 @@
 143az.com
 143azino777.ru
 143b0g.xyz
-143bahis.com
 143bandmusic.com
 143bb.com
 143bbb.com
@@ -79237,6 +79335,7 @@
 1445shadwell.info
 1446.cm
 1446.gy
+1446.us
 14461.org
 1446111.com
 144616479.xyz
@@ -79336,7 +79435,6 @@
 144az.com
 144azino777.ru
 144ba.com
-144bahis.com
 144bbb.com
 144bbin.com
 144bbty.com
@@ -79784,7 +79882,6 @@
 1459.eu
 1459.top
 145924.com
-14593.xyz
 14595.net
 1459501.com
 14596.com
@@ -79815,7 +79912,6 @@
 145az.com
 145azino777.ru
 145bahigo.xyz
-145bahis.com
 145bbb.com
 145bbin.com
 145bbty.com
@@ -80169,6 +80265,7 @@
 1468.ge
 1468.st
 1468.uk
+1468.us
 14680.cc
 14681.shop
 146815.com
@@ -80211,7 +80308,6 @@
 146albertstreet.com
 146asdfg.today
 146azino777.ru
-146bahis.com
 146bbb.com
 146bbin.com
 146bbty.com
@@ -80298,6 +80394,7 @@
 147.guru
 147.hair
 147.hk
+147.info
 147.jp
 147.live
 147.mn
@@ -80351,6 +80448,7 @@
 14713.cc
 147138.com
 14713tyc.com
+14714.cc
 14714.win
 1471471.com
 147147147.xyz
@@ -80608,6 +80706,7 @@
 1478unlimitedcdn.com
 1478wrmih.com
 1479.org
+1479.us
 147900.com
 147902.com
 1479111.com
@@ -80640,11 +80739,11 @@
 147ay.com
 147az.com
 147azino777.ru
-147bahis.com
 147bbin.com
 147bbty.com
 147beach.com
 147bestl0.space
+147betduhan.com
 147betlaffan.com
 147betturka.com
 147break.co.uk
@@ -81121,7 +81220,6 @@
 148az.com
 148azino777.ru
 148b.com
-148bahis.com
 148bayviewavenue.com
 148bb.com
 148bbb.com
@@ -81549,7 +81647,6 @@
 149azino777.ru
 149b.com
 149b.nl
-149bahis.com
 149bbb.com
 149bbin.com
 149bbty.com
@@ -81854,6 +81951,7 @@
 14cleandyson.com
 14click.click
 14closet.com
+14clothing.store
 14clouds.com
 14club.co.uk
 14clubs.us
@@ -82200,6 +82298,7 @@
 14gorabettv.com
 14gp.buzz
 14gp.shop
+14gplay.buzz
 14gq.com
 14gr5zc.rest
 14gradi.it
@@ -82322,7 +82421,6 @@
 14ix.com
 14izbfj.shop
 14j.net
-14j7u.xyz
 14j8.com
 14ja.com
 14jav.com
@@ -82688,6 +82786,7 @@
 14pasajbet.com
 14pc.co.uk
 14pcr.us
+14pd.com
 14pdf.com
 14pdtt.cyou
 14pe.com
@@ -82903,6 +83002,7 @@
 14streetframing.com
 14streety.org
 14subatsevgililergunu.com
+14summitexpedition.com
 14sunhillroad.co.nz
 14supershop.com
 14sur.com
@@ -83271,6 +83371,7 @@
 15-7brand.com
 15-7f809-wbm-secure.co.uk
 15-94.software
+15-95.bond
 15-95blueskycenter.com
 15-95networkdrive.com
 15-99.com
@@ -83603,6 +83704,7 @@
 1502shaoliyi.top
 1502y.com
 1502yqw.com
+1503-studios.com
 1503.eu
 1503.la
 1503.top
@@ -83623,6 +83725,7 @@
 150358.com
 150365.net
 150365.xyz
+150371.com
 150373.com
 15038.cc
 15039.cx
@@ -83992,7 +84095,6 @@
 150az.com
 150azino777.ru
 150b3f7d8a04.com
-150bahis.com
 150baksov.ru
 150bates.com
 150bbb.com
@@ -84837,6 +84939,7 @@
 151888888.com
 15188con.com
 15189.ca
+1518a.xyz
 1518bet.com
 1518boutique.com
 1518coin.com
@@ -84878,7 +84981,6 @@
 151az.com
 151azino777.ru
 151backpacker.com
-151bahis.com
 151bb.com
 151bbin.com
 151belglen.com
@@ -85481,7 +85583,6 @@
 152az.com
 152azino777.ru
 152b6ab50981.com
-152bahis.com
 152bbin.com
 152bet365.com
 152betturka.com
@@ -86064,7 +86165,6 @@
 153ag.com
 153amhg.com
 153azino777.ru
-153bahis.com
 153bb.com
 153bbin.com
 153bet365.com
@@ -86502,7 +86602,6 @@
 154avenida.com
 154ay.com
 154azino777.ru
-154bahis.com
 154bb.com
 154bbin.com
 154bestl0.space
@@ -86622,6 +86721,7 @@
 15501roadtohell.com
 1550321.com
 1550368.com
+15503839270.com
 15504.uk
 155049.com
 15504firerockcountryclub.com
@@ -86855,6 +86955,7 @@
 155555558122.xyz
 15555558444.xyz
 15555612222.xyz
+155558.xyz
 15555ae.com
 15555bbin.com
 155564.com
@@ -87187,6 +87288,7 @@
 15598.com
 1559835.com
 155986.com
+1559888.xyz
 15599.cm
 15599.com
 15599.one
@@ -87270,8 +87372,8 @@
 155azino777.ru
 155b11c7ca46.com
 155b9.com
-155bahis.com
 155bbin.com
+155bbn.com
 155beaver.com
 155bet365.com
 155betturka.com
@@ -87613,6 +87715,7 @@
 156329.xyz
 15633.cc
 156333.co
+1563333.xyz
 15634145.xyz
 156344.com
 156345.cz
@@ -88401,6 +88504,7 @@
 156hjdc.com
 156hoj.cn
 156hs.com
+156idc.com
 156ii.com
 156jd.us
 156jgg.cyou
@@ -88567,6 +88671,7 @@
 15714.org
 157144.com
 157144.vip
+15715.cc
 157150.com
 157155.xyz
 157157.xyz
@@ -88610,6 +88715,7 @@
 1572088.cc
 1572088.com
 1572099.com
+15721.xyz
 1572155.com
 157217.xyz
 15722.org
@@ -88740,7 +88846,6 @@
 157554.com
 157560.com
 15756241.com
-157564663.club
 157566.com
 15756755.com
 157568.com
@@ -88776,6 +88881,7 @@
 157685.org
 15768adamsridge.com
 157693.vip
+157696.com
 1576kp.vip
 1576nmsp.com
 1577-7878.com
@@ -89102,6 +89208,7 @@
 158111.vip
 158111.xyz
 15811115903.com
+15811188855.com
 158115.cn
 158116.vip
 158117.vip
@@ -89536,7 +89643,9 @@
 1588cn.cn
 1588cp1.com
 1588cp115.com
+1588cp12.com
 1588cp13.com
+1588cp2.com
 1588cp23.com
 1588cp26.com
 1588cp3.com
@@ -90941,6 +91050,7 @@
 15gp.buzz
 15gp.shop
 15gp1.top
+15gplay.buzz
 15gradidiliberta.it
 15grandbetting.com
 15gso.za.com
@@ -91443,6 +91553,7 @@
 15n.cc
 15n.ch
 15n.co
+15n.eu
 15n.mobi
 15n.site
 15n0.com
@@ -91553,6 +91664,7 @@
 15pineroadroseland.com
 15pinlane.com
 15pips.com
+15pitchera.xyz
 15pix.ru
 15pj.cc
 15player1.xyz
@@ -92355,6 +92467,7 @@
 16-samsung.cloud
 16-school.ru
 16-strings.com
+16-thangvb.sa.com
 16-tonn.com
 16-tons.ru
 16-v.in
@@ -92611,7 +92724,6 @@
 1604.org
 1604.yt
 16040.vip
-1604008033.xyz
 160405.tech
 16041.wang
 160412.com
@@ -92978,6 +93090,7 @@
 160nmsp.com
 160nn.com
 160o5bn0b.de
+160oakview.com
 160odi.com
 160oo.com
 160opbo.rest
@@ -93244,6 +93357,7 @@
 161465.com
 161466.com
 161469.com
+16148.se
 16149.cn
 1614forestviewave.com
 1614hickory.com
@@ -93633,6 +93747,7 @@
 16162.ca
 1616224a98343c40.com
 1616234.com
+161628.com
 16163366.com
 1616351.com
 1616360.com
@@ -93759,6 +93874,7 @@
 161896.com
 161896215.com
 161898.com
+1618a.xyz
 1618asianfusion.com
 1618beauty.com
 1618bookclub.com
@@ -94783,6 +94899,7 @@
 163-hyundai.ru
 163-vip.co
 163-wanbishou.com
+163-wanbishoucn.com
 163-yingbishou.com
 163.ai
 163.al
@@ -95496,6 +95613,7 @@
 163xeziying.com
 163xeziziyou.com
 163xh.com
+163xiang.com
 163xibu.com
 163xj.net
 163xq.cn
@@ -95636,6 +95754,7 @@
 1644-3668.com
 1644-8089.com
 1644.nl
+1644.us
 164404.com
 16442.cc
 16443.ac
@@ -96325,6 +96444,7 @@
 1656599.com
 1656600.com
 1656612333789.com
+16566323.xyz
 165666.com
 165666.xyz
 1656660.com
@@ -96841,6 +96961,7 @@
 16636.cc
 166362.com
 1663628400.xyz
+166364938a23.com
 166374.com
 166379.com
 16638.vip
@@ -98343,6 +98464,7 @@
 1680780.com
 16808.com
 16808.me
+168080.com
 1680837.com
 1680839.com
 1680870.com
@@ -98403,6 +98525,7 @@
 1681268.com
 1681286.com
 16813.biz
+16813.bond
 1681300.com
 1681314.cn
 168138.xyz
@@ -99076,10 +99199,12 @@
 1688033.com
 1688035.vip
 1688039.com
+1688052.vip
 1688066.com
 1688067.vip
 1688072.vip
 1688077.com
+1688096.vip
 16881.cc
 16881.net
 16881132.com
@@ -100949,6 +101074,7 @@
 168pgslot.fun
 168pgslot.info
 168pgslot.org
+168pgslot.shop
 168pgslotgaming.com
 168ph.net
 168piao.cn
@@ -101161,6 +101287,7 @@
 168totobo.com
 168tourism.com
 168town.com
+168trf.com
 168truewallet.com
 168trust.com
 168ts.bet
@@ -101798,6 +101925,7 @@
 1699.online
 1699.so
 169902.com
+169903.com
 169907.com
 1699111.com
 16991699.vip
@@ -101971,7 +102099,6 @@
 169vip.pw
 169vns.com
 169vu.com
-169w4z.cyou
 169ww.com
 169x.biz
 169x.cn
@@ -102188,7 +102315,6 @@
 16blythwoodrd.com
 16bmmakuz.xyz
 16bn.xyz
-16bo.pw
 16bo.xyz
 16bon.com
 16boss.com
@@ -102218,6 +102344,7 @@
 16c14.com
 16c15.com
 16c16.com
+16c17.com
 16c18.com
 16c19.com
 16c2.com
@@ -102266,6 +102393,10 @@
 16caokk.com
 16caopp.com
 16capp.com
+16capp11.com
+16capp22.com
+16capp44.com
+16capp55.com
 16car.ru
 16car.xyz
 16carat.com
@@ -102463,7 +102594,6 @@
 16evonaire.com
 16ew.cn
 16exkatatb.xyz
-16ey.us
 16ez.buzz
 16ezdt5kh.buzz
 16ezy2lmge.com
@@ -102606,6 +102736,7 @@
 16governorsrd.com
 16gp.buzz
 16gp.shop
+16gplay.buzz
 16gps.jp
 16graal.ru
 16grandbetting.com
@@ -102702,6 +102833,7 @@
 16i6.net
 16i67.cc
 16i7.cn
+16ib.com
 16icao.xyz
 16icecazino.com
 16icha.xyz
@@ -103659,11 +103791,14 @@
 17-403.com
 17-51.com
 17-53.com
+17-57.bond
 17-58.de
 17-7deals.store
 17-7ph.net
+17-81.bond
 17-85988-wbm-secure.co.uk
 17-88.com
+17-97.me
 17-aa39b-ll.com
 17-aaginhibitor.com
 17-care.click
@@ -104033,7 +104168,6 @@
 1707080601434.com
 17070broadwayter.com
 17071.se
-170712530.club
 170717.xyz
 170727.me
 17073.biz
@@ -104321,6 +104455,7 @@
 1711i.tv
 1711j.tv
 1711k.tv
+1711kf.vip
 1711kp.vip
 1711l.tv
 1711la.com
@@ -104781,10 +104916,8 @@
 1717.space
 1717.tube
 17170.ir
-17170.top
 17170.xyz
 171700.app
-171700.cn
 171700.tech
 171700.vip
 171700.win
@@ -104808,7 +104941,6 @@
 171709.app
 17171.bid
 17171.me
-17171.pw
 17171.tech
 17171.tel
 171710.app
@@ -104835,7 +104967,6 @@
 171719.app
 17172.in
 17172.me
-17172.pw
 17172.tech
 17172.win
 171720.com
@@ -104862,6 +104993,7 @@
 17173my.com
 17173sf.com
 17173soft.com
+17173ss.com
 17173u.xyz
 17173wan.cc
 17173wang.com
@@ -105057,6 +105189,7 @@
 1717ga.app
 1717ga.com
 1717gapp.com
+1717gd.app
 1717gd.cc
 1717gf.com
 1717gg.app
@@ -105099,7 +105232,10 @@
 1717hg.app
 1717hg.bet
 1717hg.biz
+1717hg.bz
 1717hg.ceo
+1717hg.co
+1717hg.com
 1717hg.cz
 1717hg.in
 1717hg.info
@@ -106581,7 +106717,6 @@
 173cool.xyz
 173coupon.com
 173cq.cn
-173cq.com
 173crs.com
 173d.shop
 173d3.com
@@ -106730,7 +106865,6 @@
 174006.com
 174007.org
 17401.org
-174014e0aa95aae7.xyz
 17402.org
 174021.com
 174024.com
@@ -109559,6 +109693,7 @@
 17778899liga.com
 177789.app
 177789.net
+17779.net
 1777909.com
 177799.com
 1777ae.com
@@ -109603,6 +109738,7 @@
 177864.com
 177865.xyz
 17786jdyhq.com
+17787.me
 1778778.xyz
 17787878.xyz
 17788.com
@@ -110433,6 +110569,7 @@
 17886.vip
 1788669.com
 178868.app
+17887.me
 178871.xyz
 17888.net.cn
 17888.ru
@@ -110693,7 +110830,6 @@
 178chicken.click
 178cj.com
 178cloud.com
-178clw.com
 178coder.com
 178corliss.com
 178cp.cc
@@ -110834,6 +110970,7 @@
 178kacakaca.click
 178kadang.shop
 178kakekabadi.click
+178kakekku.click
 178kakekterus.click
 178kalengaluminum.shop
 178kalengbaru.shop
@@ -111245,6 +111382,7 @@
 17901vonkarman.com
 17902.cc
 17902.org
+179022.cn
 17903.cc
 179034.space
 17904.cc
@@ -112494,6 +112632,7 @@
 17goumai.com
 17gp.buzz
 17gp.shop
+17gplay.buzz
 17grams.co.uk
 17grand-casino.com
 17grandbetting.com
@@ -112778,6 +112917,7 @@
 17kele8.com
 17kellogg.com
 17kelvin.com
+17kermanclothes.ir
 17kg.shop
 17kgroup.it
 17khb.com
@@ -113675,6 +113815,7 @@
 17thfairfieldscouts.com
 17thfg.click
 17thinfantry.com
+17thinfantry.org
 17things.com
 17thj.com
 17thlettaproductions.com
@@ -113969,6 +114110,7 @@
 17x29.cc
 17x3.cc
 17x30.cc
+17x31.cc
 17x4.cc
 17x5.cc
 17x6.cc
@@ -114015,6 +114157,7 @@
 17xn-cdnxvideo.com
 17xnwj.com
 17xnxx.com
+17xoty7.us
 17xpc.com
 17xpjvip.com
 17xpvw.shop
@@ -114182,6 +114325,7 @@
 18-81.net
 18-81.ru
 18-91.ms
+18-97.me
 18-98plus.com
 18-99.com
 18-abtintl.io
@@ -114205,6 +114349,7 @@
 18-deal.com
 18-domainsss.za.com
 18-down.com
+18-fh.win
 18-fuck.com
 18-geburtstag.com
 18-h.com
@@ -114287,7 +114432,6 @@
 18.uk
 18.yn.cn
 18.yt
-180-365.com
 180-design.com
 180-financial.com
 180-funding.com
@@ -115731,6 +115875,7 @@
 180960.com
 180968.com
 1809770.vip
+180979.com
 18099.vip
 180992.cm
 180992.com
@@ -116177,6 +116322,7 @@
 181.re
 181.sk
 1810.ca
+1810.online
 1810.tech
 181000.xyz
 181002.com
@@ -116660,6 +116806,7 @@
 181890.com
 1818929488.xyz
 181894.com
+181895.com
 181898.xyz
 181899.com
 1818a.xyz
@@ -116788,6 +116935,7 @@
 181977.com
 181979.com
 18198.cc
+181984.org
 181988.xyz
 18199.vip
 181999.vip
@@ -116821,6 +116969,7 @@
 1819v.com
 1819wbelmont.com
 1819x.com
+1819xbet.xyz
 1819y.com
 1819z.com
 181ada55.com
@@ -117568,6 +117717,7 @@
 1828180.sbs
 1828180.xyz
 1828182.com
+182821166.xyz
 18282a381.me
 18283.me
 182838.cc
@@ -118063,6 +118213,7 @@
 1835835.com
 183587.com
 18358962.com
+18359.cz
 183590.com
 18359177232.com
 1835990.com
@@ -119793,6 +119944,7 @@
 1860boxen.com
 1860boxen.de
 1860cl.com
+1860dhd.com
 1860dns.com
 1860dy.com
 1860edu.com.cn
@@ -119845,6 +119997,7 @@
 1860vip9.com
 1860wcb.com
 1860whs.com
+1860ydf.com
 1860ydl.xyz
 1860ydm.xyz
 1860ydn.xyz
@@ -121670,8 +121823,8 @@
 1887378.com
 188755.cc
 188755.com
+1887568.com
 188758.xyz
-1887586.club
 18876.net
 18876.online
 18876.xyz
@@ -122067,7 +122220,6 @@
 188b64492abd.com
 188bahis.com
 188ball.club
-188ball.co
 188ball.in
 188ball.me
 188ball.vip
@@ -122848,6 +123000,7 @@
 1890kp.vip
 1890ncov.com
 1890nebraska.com
+1890neotomas.com
 1890online.no
 1890pk.com
 1890plan.com
@@ -122961,6 +123114,7 @@
 189304.com
 18931.gs
 18931.net
+189312.com
 18931226.cn
 189319.vip
 18931976.xyz
@@ -124608,7 +124762,6 @@
 18girlporn.pro
 18girls.co
 18girls.fun
-18girls.xyz
 18girlsgypsy.com
 18girlssex.pro
 18girltv.com
@@ -124635,6 +124788,7 @@
 18gotv.com
 18gp.buzz
 18gp.shop
+18gplay.buzz
 18grains.com
 18grand-casino.com
 18grandbetting.com
@@ -124994,6 +125148,7 @@
 18kgoldchains.com
 18kgoldenlady.com
 18kgoldlayered.com
+18kgoldratetoday.com
 18khojnews.com
 18kings.com
 18kink.com
@@ -125406,8 +125561,12 @@
 18mgp4.xyz
 18mh.buzz
 18mh.cc
+18mh.cfd
 18mh.fun
+18mh.gay
+18mh.lol
 18mh.sbs
+18mh.wtf
 18mh.xyz
 18miao.xyz
 18miaomu.com
@@ -127218,6 +127377,7 @@
 18zzxc.com
 19-00.com
 19-01.com
+19-05.bond
 19-12.ms
 19-13.ms
 19-145-167-89.com
@@ -127231,8 +127391,10 @@
 19-4a.com
 19-4hotel.com
 19-6.com
+19-81.bond
 19-88.ms
 19-95.top
+19-97.me
 19-99.ms
 19-9b112-ll.com
 19-a-chattanooga.com
@@ -128566,12 +128728,12 @@
 191888.xyz
 1918881.com
 191892.com
-1918961141.xyz
 191898.space
 191898.xyz
 191899.com
 19189900656.com
 1918999.com
+1918a.xyz
 1918apparel.com
 1918apparel.dk
 1918artspace.com
@@ -128820,6 +128982,7 @@
 191rqy.shop
 191scdt.com.tw
 191seconds.com
+191slot.co
 191slot.com
 191slotxo.net
 191superbetin.com
@@ -128940,7 +129103,10 @@
 192-168-o-1ip.net
 192-168-routerlogin.com
 192-168.org
+192-2.ms
 192-3.ms
+192-4.ms
+192-9.ms
 192-hk.com
 192.cl
 192.cm
@@ -129364,16 +129530,19 @@
 1923472.org
 19235.es
 19236.biz
+19236.es
 19236.org
 192366672.club
 192369.com
 19237.cc
+19237.es
 19237.org
 192370.com
 19237802.com
 19238.at
 192384.xyz
 19239.at
+19239.es
 19239.me
 1923antiques.com
 1923autos.fr
@@ -129755,6 +129924,7 @@
 192ss.com
 192superbetin.com
 192t.cn
+192tarafbet.com
 192tk.com
 192tk.vip
 192tom.com
@@ -130003,6 +130173,7 @@
 19367.org
 193672.space
 19368.se
+193683.com
 19369.org
 1936buick.com
 1936coffee.com
@@ -132924,6 +133095,7 @@
 1970.best
 1970.kim
 1970.xn--p1ai
+197001.xyz
 19700101.com
 19700101.day
 19701.org
@@ -132963,8 +133135,6 @@
 1970smovies.com
 1970smovies.net
 1970something.ca
-1970something.co
-1970something.com
 1970sorchard.com
 1970vintage.com
 1971-reviewae.com
@@ -133296,6 +133466,7 @@
 197811.xyz
 19781223.com
 19781988.com
+197820.cn
 197838.xyz
 197844.com
 197845.xyz
@@ -134274,6 +134445,7 @@
 198836.com
 19884.vip
 1988421.xyz
+1988422.com
 1988550.com
 1988588.com
 1988599.com
@@ -134777,6 +134949,7 @@
 1990designstudio.com
 1990digital.com
 1990dm.com
+1990ec.fr
 1990etc.com
 1990flowers.com
 1990green102.com
@@ -135324,6 +135497,7 @@
 1994.live
 1994.loan
 1994.sa.com
+1994.site
 19940.me
 199401.xyz
 19940111.xyz
@@ -136489,7 +136663,6 @@
 19b14d8d.buzz
 19b2.com
 19b27.com
-19b311beefc961f1.xyz
 19b4.com
 19baby.com
 19balansfx.com
@@ -136957,6 +137130,7 @@
 19got.com
 19gp.buzz
 19gp.shop
+19gplay.buzz
 19gr.shop
 19grams.coffee
 19grand-casino.com
@@ -137532,6 +137706,7 @@
 19portal.site
 19pos.in
 19pp.net
+19ppmm.xyz
 19pppp.com
 19pq.com
 19predmetov.ru
@@ -137638,6 +137813,7 @@
 19seimen.com
 19sen.cn
 19seng.com
+19seo.cn
 19sep2022-akuma-master-1-node-1.club
 19sep2022-akuma-master-1-node-10.club
 19sep2022-akuma-master-1-node-2.club
@@ -138082,7 +138258,6 @@
 19xiee.com
 19xinbo.com
 19xing.cn
-19xj.one
 19xmi.buzz
 19xn-cdnxvideo.com
 19xnxx.beauty
@@ -138308,6 +138483,7 @@
 1a0qpu.xyz
 1a0vsipy8k.com
 1a1.click
+1a1.cx
 1a1.la
 1a1.one
 1a1.online
@@ -138609,6 +138785,7 @@
 1above100.com
 1abovetherest.com
 1abovetherestplumbing.com
+1abrautmoden.de
 1absalutewager.com
 1absolut777.com
 1absolutesecurity.space
@@ -139503,6 +139680,7 @@
 1artbeautylife.com
 1artclub.com
 1articleaday.com
+1artistmusic.com
 1artmedia.com
 1artstudio.com
 1arxwjt.net
@@ -139525,7 +139703,6 @@
 1ascri.shop
 1asd0asd4as56das.top
 1asd58.com
-1asdahjvjw1x.monster
 1asdas1.monster
 1aselfstorage.com
 1aserver.de
@@ -139556,7 +139733,6 @@
 1asiaqq.org
 1asikpkv.win
 1asiuytre.site
-1asjdbasd11.monster
 1ask.ru
 1ask1answer.com
 1askcentier.info
@@ -139738,6 +139914,7 @@
 1aw49.za.com
 1aw7gft.work
 1awa.ru
+1awayelectronics.com
 1awbzw.shop
 1awc.org
 1awe4r.com
@@ -139864,7 +140041,6 @@
 1b066.com
 1b09.com
 1b0a-uth.com
-1b0ab6f94ec55afc.xyz
 1b0cxw3.us
 1b0f.com
 1b0kvl.cn
@@ -140281,7 +140457,6 @@
 1barnet.com
 1barnz.com
 1barrier.com
-1barriga.digital
 1barsa.com
 1baru.com
 1baruk.com
@@ -140991,6 +141166,7 @@
 1bitfast1.com
 1bitfirst.com
 1bitkoin.ru
+1bitpay.io
 1bitpro.com
 1bitproone.com
 1bits.io
@@ -141914,7 +142090,6 @@
 1c4etk.tokyo
 1c4g7nv.buzz
 1c4h.com
-1c4l.org
 1c4lq1.cyou
 1c4m.com
 1c4m.mobi
@@ -142206,10 +142381,6 @@
 1case.co
 1case.store
 1cash.az
-1cash.bar
-1cash.bond
-1cash.cfd
-1cash.click
 1cash.co.uk
 1cash.us
 1cash1.com
@@ -143341,6 +143512,7 @@
 1coingame.info
 1coinmaster.com
 1coinpool.com
+1coinss.ru
 1coinvp.vip
 1coinvps.de
 1coinwp.com
@@ -144411,7 +144583,6 @@
 1depositcasino.nz
 1depositcasinocanada.com
 1depot.in
-1depth.asia
 1deputyprimeminister-ks.net
 1der.academy
 1der.app
@@ -144576,6 +144747,7 @@
 1df5c.fun
 1df5xf.cyou
 1df8fbks.cc
+1dfac0c0d3cd.com
 1dfasdf561.com
 1dfcvj.com
 1dfd3f146fc9.com
@@ -144781,6 +144953,11 @@
 1djidweb.fun
 1djjunk.com
 1djpg.com
+1djr.app
+1djr.bet
+1djr.club
+1djr.pro
+1djr.xyz
 1djwp.za.com
 1dk.com.cn
 1dk4vm.bar
@@ -145068,6 +145245,7 @@
 1dpw.com
 1dq.ru
 1dq0w.buzz
+1dq2x.xyz
 1dq45b.shop
 1dqarbvs.space
 1dqhhl.cyou
@@ -145948,6 +146126,7 @@
 1eliteautosales.com
 1elitebhd.xyz
 1elitecatering.com
+1elitesoftwash.com
 1elma.com
 1elmareklam.com
 1elmnt.com
@@ -146194,7 +146373,6 @@
 1erinforme.com
 1erjuillet.fr
 1ermai.fr
-1erosion.life
 1eroticmassageparis.com
 1erp.co.in
 1erp.in
@@ -146623,6 +146801,7 @@
 1f58r4hslf4fbr03.digital
 1f5a365f27cf.com
 1f5bb5e8554b.com
+1f5egt.com
 1f5j8.cn
 1f5k7ut.rest
 1f5pn.com
@@ -146833,6 +147012,7 @@
 1fach-wohnen.de
 1fachai.cc
 1fachai.com
+1fachalles.com
 1fachclever.de
 1fachurlaub.de
 1facialfilm.cf
@@ -147155,6 +147335,7 @@
 1fight.tw
 1figures.com
 1fil2perles.fr
+1file.top
 1filecoin.net
 1filedownload.com
 1files.top
@@ -147343,7 +147524,6 @@
 1fky4.za.com
 1fkz.shop
 1fl.sbs
-1fl62ek.buzz
 1fl8kn.shop
 1flagnation.com
 1flashlight.com
@@ -147935,6 +148115,7 @@
 1g4b84.tokyo
 1g4jd2ae.site
 1g4pf.rest
+1g4zv2.xyz
 1g5.co.uk
 1g5.uk
 1g53n0w8.top
@@ -147966,7 +148147,6 @@
 1g7r6tl.shop
 1g7u9.com
 1g7virx.buzz
-1g7yqn.cyou
 1g81k.com
 1g88.app
 1g88.live
@@ -147977,7 +148157,6 @@
 1g88.win
 1g8ggx.shop
 1g8l718k.com
-1g8qzr.tokyo
 1g8rxjreie5jbweehh50.cc
 1g8yhiz.top
 1g8zwx.shop
@@ -148035,7 +148214,6 @@
 1game.com
 1game.com.br
 1game.com.ua
-1game.cyou
 1game.hk
 1game.kz
 1game.ru
@@ -148149,7 +148327,6 @@
 1gbuy.cn
 1gbvnh.com
 1gca.com
-1gcb1x9f.shop
 1gcd.info
 1gce.com
 1gclo.com
@@ -148171,11 +148348,9 @@
 1gdeyaokk1.com
 1gdf31g3s1g3.top
 1gdkh.com
-1gdkj9zf.fit
 1gdns.com
 1gdo.com
 1gdqz2hx.cn
-1gdrfyiz.store
 1gdrive.xyz
 1gdshop.com
 1gdu3473n7.com
@@ -148218,7 +148393,6 @@
 1gelenbulur.online
 1gelenbulur.shop
 1gelialux.eu
-1gemini.shop
 1gemofa.com
 1generalniche.com
 1generat3dx.com
@@ -148254,7 +148428,6 @@
 1gfd.vip
 1gfind.xyz
 1gfkk4ut.xyz
-1gfmbe.tokyo
 1gfo.com
 1gg-mostbet.click
 1gg.online
@@ -148280,7 +148453,6 @@
 1ggcom.com
 1gge77.net
 1ggg.cc
-1ggikjf.cyou
 1gglplay.icu
 1gglplay.shop
 1ggnn.com
@@ -148572,6 +148744,7 @@
 1goldcasin-o.xyz
 1goldenapple.com
 1goldenglobalbrokers.com
+1goldenreels.com
 1goldenworld.com
 1goldfishka1.ru
 1goldfishka81.ru
@@ -148709,6 +148882,7 @@
 1gpcal.shop
 1gpcaz9.shop
 1gpcz.com
+1gplay.buzz
 1gpoker.me
 1gpoker.online
 1gpoker.org
@@ -148963,7 +149137,6 @@
 1gxhm6.cc
 1gxjzk.shop
 1gxkrd8.xyz
-1gxrpvb.buzz
 1gxs.com
 1gxzng.buzz
 1gy.ru
@@ -150571,7 +150744,7 @@
 1ihb.vip
 1ihch.io
 1ihch.link
-1ihcn.exchange
+1ihchairdrop.site
 1ihj0e.cyou
 1ihn5k.cn
 1ihud.com
@@ -151675,7 +151848,6 @@
 1joysweet.store
 1joz.com
 1jp.xyz
-1jp1y.xyz
 1jp24d3.xyz
 1jp27.za.com
 1jpav.com
@@ -153459,6 +153631,7 @@
 1leeo1.buzz
 1legacymovement.com
 1legalcounsel.com
+1legalsolution.com
 1legend.co
 1legg.us
 1leggingslane.com
@@ -154638,6 +154811,7 @@
 1manshowmusic.com
 1mansopinion.com
 1mansroad2recovery.co.uk
+1manstore.com
 1mantou.cn
 1manwolfpak.com
 1manwon.com
@@ -154741,6 +154915,7 @@
 1masq.com
 1massaaz.ee
 1massageatatime.com
+1master-ekb.ru
 1master.academy
 1master99slaves.com
 1masterdeal.com
@@ -155468,6 +155643,7 @@
 1mk8fm.cyou
 1mk8wl91l.rest
 1mke.ru
+1mkh1.online
 1mkh2bds.com
 1mkitchentools.com
 1mkj.cn
@@ -157163,6 +157339,7 @@
 1nput.net
 1npx.cn
 1npy.shop
+1npz.me
 1npz.xyz
 1npzxu.cyou
 1nq.ir
@@ -157351,6 +157528,7 @@
 1nw.cc
 1nw.co
 1nw.info
+1nw.ir
 1nw.xyz
 1nw.za.com
 1nwend0.de
@@ -157401,7 +157579,6 @@
 1nz.za.com
 1nz0n.com
 1nz14si.buzz
-1nz2.com
 1nz5mv.com
 1nz7m2.cyou
 1nza.com
@@ -159851,6 +160028,7 @@
 1prestigespin.com
 1preteen.pl
 1prettysoul.com
+1prh.com
 1prht7d.cn
 1pri.site
 1price-tagsandguns.com
@@ -160533,6 +160711,7 @@
 1qf3741sw.xyz
 1qf4b.xyz
 1qf4v.com
+1qf5v.top
 1qf6fc0.xyz
 1qf6p6fn.xyz
 1qfd0z.buzz
@@ -161601,7 +161780,6 @@
 1rozzdecor.com
 1rp.in
 1rp3377jdx.xyz
-1rp6f.xyz
 1rp7uj.cyou
 1rpc.io
 1rpds2j.buzz
@@ -161700,7 +161878,6 @@
 1rug.com
 1rug.net
 1rugged.cl
-1ruido.digital
 1rumetr.ru
 1rummyplus.com
 1run.xyz
@@ -161954,7 +162131,6 @@
 1saanfz.cn
 1saas.co
 1sabelle.dev
-1sabio.gifts
 1sacredg.com
 1sad234wdfesdf.com
 1sad3d.com
@@ -162157,6 +162333,7 @@
 1sdgi.xyz
 1sdh42.buzz
 1sdh42.shop
+1sdhajkdh2112y6assdsas.com
 1sdi.com
 1sdj.com
 1sdjfhsdf1.monster
@@ -162703,6 +162880,7 @@
 1siparisver.com
 1siparisver.net
 1sipsinc.com
+1siren.ir
 1sisekq.top
 1sitdl9.shop
 1site.co.kr
@@ -162728,7 +162906,6 @@
 1sitioweb.com
 1situs.click
 1situs.com
-1situs.site
 1situs.work
 1siva3tb60.com
 1six.com.br
@@ -162971,6 +163148,7 @@
 1smoovemove.com
 1smovers.com.sg
 1smql0.shop
+1sms.com.cn
 1sms.fr
 1smxq4v50.com
 1smzj.fun
@@ -165092,6 +165270,7 @@
 1sthydroponics.com
 1sthythescoutgroup.org
 1stian.com
+1stick.org
 1stid.org
 1stif.com
 1stiktok.com
@@ -166206,7 +166385,6 @@
 1stsolutions.net
 1stsos.com
 1stsosautos.com
-1stsouqstore.com
 1stsource-lighting.com
 1stsource-solutions.com
 1stsource.com
@@ -166540,6 +166718,7 @@
 1sugadhon.com
 1sugarslot308.com
 1sugoren.com
+1suit.com
 1suite.app
 1suite.at
 1suite.com
@@ -168739,6 +168918,7 @@
 1ufa888.info
 1ufa888.net
 1ufa888.org
+1ufa89.biz
 1ufa89.co
 1ufa89.com
 1ufa89.net
@@ -169577,6 +169757,7 @@
 1vdmq.za.com
 1vdu.com
 1vdukx.cyou
+1vdv.nl
 1ve.com.vn
 1ve.org
 1ve.vn
@@ -169899,7 +170080,6 @@
 1voip.net
 1voip.win
 1voipphoneservice.info
-1voiture-maroc.com
 1voix1histoire.com
 1vol.ru
 1volcano.com
@@ -170487,7 +170667,6 @@
 1w3ddp.cyou
 1w3i4ho.buzz
 1w3im7.org
-1w3j8.xyz
 1w3r49fj.cn
 1w3xe.xyz
 1w4.net
@@ -170803,6 +170982,7 @@
 1wcafe.com
 1wcap.site
 1wcas.me
+1wcav.xyz
 1wcbd.top
 1wccg.top
 1wcco.top
@@ -173322,6 +173502,7 @@
 1wincasinoy2.xyz
 1wincasinoy3.xyz
 1wincasinoy4.xyz
+1wincasinoy5.xyz
 1wincaswin.ru
 1wincazino.ru
 1winccx.xyz
@@ -173910,6 +174091,7 @@
 1wjkz.top
 1wjlh.top
 1wjlm.top
+1wjnq.xyz
 1wjnv.top
 1wjob.site
 1wjoj.top
@@ -174270,6 +174452,7 @@
 1wonw.top
 1wooa.top
 1wood.club
+1wooddiy.com
 1wooden.ru
 1woodenroad.com
 1woodfloors.com
@@ -174374,6 +174557,7 @@
 1wowx.top
 1woxvk.top
 1woya.top
+1wozi.xyz
 1wozn.xyz
 1wozw.top
 1wp.cloud
@@ -174409,7 +174593,6 @@
 1wpii.top
 1wpin.top
 1wpin.xyz
-1wpiu9iy.ink
 1wpj.top
 1wpkct.top
 1wpl.info
@@ -174496,14 +174679,12 @@
 1wqs.biz
 1wqs.net
 1wqs.org
-1wqs.pw
 1wqs.top
 1wqs93nr.cfd
 1wqsg.xyz
 1wqsh.xyz
 1wqtt.top
 1wqtx.top
-1wqu.pw
 1wqvu.top
 1wqwi.top
 1wqwn.xyz
@@ -174535,7 +174716,6 @@
 1wrdz.top
 1wreby.cyou
 1wrf.ooo
-1wrf9r.cyou
 1wrff.top
 1wrfi.xyz
 1wrgs.top
@@ -174636,11 +174816,9 @@
 1wsk.top
 1wska.top
 1wske.xyz
-1wslo5.cyou
 1wslq.xyz
 1wsmb.top
 1wsmd.top
-1wsmg8.cyou
 1wsmp.top
 1wsmv.top
 1wsn.me
@@ -174654,7 +174832,6 @@
 1wsq.com
 1wsqc.me
 1wsqr.top
-1wsr4g.cyou
 1wsrf.top
 1wsrk.xyz
 1wsrn.top
@@ -174671,7 +174848,6 @@
 1wstn.xyz
 1wstreese1.com
 1wstx.top
-1wsu.pw
 1wsu.top
 1wsu0ka.buzz
 1wsua.top
@@ -174693,7 +174869,6 @@
 1wszd.top
 1wszd.xyz
 1wszg.top
-1wt528.cyou
 1wt7i7.shop
 1wt84x.shop
 1wt8vw.buzz
@@ -174716,6 +174891,7 @@
 1wtee.top
 1wtfl.top
 1wtgg.top
+1wtgy.xyz
 1wtgz.top
 1wthc.xyz
 1wthe.xyz
@@ -177521,7 +177697,6 @@
 1xbet-djs.top
 1xbet-djs.xyz
 1xbet-djt.xyz
-1xbet-djz.top
 1xbet-dk.com
 1xbet-dkh.top
 1xbet-dlb.top
@@ -177647,7 +177822,6 @@
 1xbet-ee.top
 1xbet-ee1.top
 1xbet-eee.xyz
-1xbet-eeq.top
 1xbet-ef.top
 1xbet-ef1.top
 1xbet-ef2.top
@@ -178388,7 +178562,6 @@
 1xbet-ixd.xyz
 1xbet-ixh.top
 1xbet-ixn.xyz
-1xbet-ixr.top
 1xbet-iye.top
 1xbet-iyg.xyz
 1xbet-iyn.top
@@ -178837,7 +179010,6 @@
 1xbet-ma.net
 1xbet-ma.org
 1xbet-mac.top
-1xbet-mag.top
 1xbet-magyarorszag.net
 1xbet-mai.top
 1xbet-main.ru
@@ -178989,7 +179161,6 @@
 1xbet-modern.ru
 1xbet-modern5128.ru
 1xbet-moi.xyz
-1xbet-moj.top
 1xbet-mol.top
 1xbet-moldova.app
 1xbet-moldova.com
@@ -179028,7 +179199,6 @@
 1xbet-msy.xyz
 1xbet-msz.top
 1xbet-mth.top
-1xbet-mtj.top
 1xbet-mtp.top
 1xbet-mtw.top
 1xbet-mtx.xyz
@@ -179591,6 +179761,7 @@
 1xbet-performance.xyz
 1xbet-persian.com
 1xbet-persian.site
+1xbet-peru.com
 1xbet-pev.top
 1xbet-pfa.top
 1xbet-pfe.top
@@ -179730,7 +179901,6 @@
 1xbet-promo.ru
 1xbet-promo.top
 1xbet-promocod.ru
-1xbet-promocode.club
 1xbet-promocode.xyz
 1xbet-promocodes.com
 1xbet-promocodes.ru
@@ -180328,7 +180498,6 @@
 1xbet-score.xyz
 1xbet-scr.top
 1xbet-scs.top
-1xbet-sdj.xyz
 1xbet-sdk.xyz
 1xbet-sdo.top
 1xbet-se.com
@@ -180382,7 +180551,6 @@
 1xbet-sideline.xyz
 1xbet-sieg.de
 1xbet-sif.xyz
-1xbet-sih.xyz
 1xbet-silver.ru
 1xbet-silver859.ru
 1xbet-sir.top
@@ -181052,7 +181220,6 @@
 1xbet-tv1.xyz
 1xbet-tvc.top
 1xbet-tvd.top
-1xbet-tvj.top
 1xbet-tvn.top
 1xbet-tvr.xyz
 1xbet-twa.top
@@ -181525,7 +181692,6 @@
 1xbet-x-bet.top
 1xbet-x.ru
 1xbet-x1.ru
-1xbet-x123.top
 1xbet-x24.xyz
 1xbet-x453.top
 1xbet-x7838.ru
@@ -183446,6 +183612,7 @@
 1xbetpromocod.ru
 1xbetpromocod.top
 1xbetpromocode.com
+1xbetpromocode.info
 1xbetpromokod.ru
 1xbetpromokods.ru
 1xbetpromoregistrationcode.website
@@ -183768,7 +183935,6 @@
 1xbetzahod.ru
 1xbetzenit.ru
 1xbetzer.ru
-1xbetzerkal.ru
 1xbetzerkala.ru
 1xbetzerkala1.ru
 1xbetzerkalo-free.ru
@@ -183988,7 +184154,6 @@
 1xbot.cc
 1xbotslot.com
 1xbox.io
-1xbr.ru
 1xbraz.fun
 1xbraz.online
 1xbraz.site
@@ -184009,7 +184174,6 @@
 1xbt-zerkalo.ru
 1xbt.net
 1xbt.space
-1xbt.xyz
 1xbt90.xyz
 1xbtcanada.xyz
 1xbte.com
@@ -185278,7 +185442,6 @@
 1xslots-casino.pw
 1xslots-casino.ru
 1xslots-casino.su
-1xslots-casino.top
 1xslots-casino.website
 1xslots-casino1.com
 1xslots-casino1.ru
@@ -186020,7 +186183,6 @@
 1xslots-slots.biz
 1xslots-slots.co
 1xslots-slots.ru
-1xslots-slots.site
 1xslots-slots.top
 1xslots-slots.website
 1xslots-slots.xyz
@@ -187237,6 +187399,7 @@
 1yms.top
 1ymu.xyz
 1ymu5e.cn
+1yn5k5w.xyz
 1ynatj.com
 1ynn.pw
 1yno.com
@@ -188016,6 +188179,7 @@
 1zs5bx.com
 1zsczu.cc
 1zse.com
+1zse7u.xyz
 1zsfm.cz
 1zsfq.za.com
 1zsgqev.pet
@@ -188064,6 +188228,7 @@
 1zulu.com.au
 1zun26.buzz
 1zuoyi.com
+1zuzf.com
 1zv.com
 1zv.tv
 1zv7.com
