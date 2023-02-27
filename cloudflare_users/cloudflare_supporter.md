@@ -3006,6 +3006,7 @@ Do not create new issue or we will close it as duplicate.
 | [EugeneBos1@twitter](https://twitter.com/EugeneBos1/status/1505982810250952705) | advertise |
 | [eunhee24x8@twitter](https://twitter.com/eunhee24x8/status/1385261915807522816) | advertise |
 | [Euphori99287892@twitter](https://twitter.com/Euphori99287892/status/1404485406234759171) | advertise |
+| [euxn23@twitter](https://twitter.com/euxn23/status/1630094336645017600) | advertise |
 | [EuzbiettaK@twitter](https://twitter.com/EuzbiettaK/status/1601331468000952320) | advertise |
 | [Evelynn81093224@twitter](https://twitter.com/Evelynn81093224/status/1391448970866667524) | advertise |
 | [evendorton@twitter](https://twitter.com/evendorton/status/1386213571726610432) | advertise |
@@ -5400,8 +5401,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
