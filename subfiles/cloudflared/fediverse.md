@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,830 |
+| com | 5,831 |
 | social | 3,778 |
 | net | 2,969 |
 | org | 2,084 |
@@ -16967,6 +16967,7 @@ Here's a list of public Fediverse services.
 | `kannitverstan.eu` | No |
 | `kanoa.de` | No |
 | `kanonchannel.xyz` | No |
+| `kanpanipage.com` | No |
 | `kanru.info` | Yes |
 | `kansanvalta.org` | No |
 | `kansas-city.social` | No |
@@ -29580,6 +29581,7 @@ Here's a list of public Fediverse services.
 | `saastisfy.com` | No |
 | `saasycloud.social` | No |
 | `saayaa.space` | No |
+| `saba.run` | No |
 | `sabadell.site` | No |
 | `sabakan.industries` | Yes |
 | `sabatino.cloud` | No |
@@ -39094,7 +39096,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,482 |
-| Normal | 29,568 |
+| Normal | 29,570 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
