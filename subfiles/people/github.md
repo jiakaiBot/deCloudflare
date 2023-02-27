@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [MacOS error with GNU coreutils: Symbol not found: (_mkfifoat)](https://github.com/nvm-sh/nvm/issues/3043)
 - [Cache Control for 404 response](https://github.com/unjs/nitro/issues/1001)
 - [Writing to cloudflare r2 fails for mutlipart upload](https://github.com/apache/arrow/issues/34363)
 - [Capturing Hono exceptions with the Cloudflare Pages Sentry Plugin](https://github.com/honojs/hono/issues/938)
