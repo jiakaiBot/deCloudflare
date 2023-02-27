@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,832 |
+| com | 5,835 |
 | social | 3,779 |
-| net | 2,969 |
+| net | 2,970 |
 | org | 2,084 |
-| de | 1,958 |
+| de | 1,959 |
 
 
 - Mastodon, Pleroma, etc
@@ -3675,6 +3675,7 @@ Here's a list of public Fediverse services.
 | `binaryunit.com` | No |
 | `binaryworks.ca` | Yes |
 | `binatang.nl` | No |
+| `binbash.fr` | No |
 | `binbin.eu.org` | No |
 | `binblog.de` | No |
 | `binbou.xyz` | No |
@@ -6655,6 +6656,7 @@ Here's a list of public Fediverse services.
 | `crakac.com` | No |
 | `crakila.moe` | No |
 | `crandol.com` | No |
+| `craney.fyi` | No |
 | `cranil.io` | Yes |
 | `crank.report` | No |
 | `crap.today` | No |
@@ -6814,6 +6816,7 @@ Here's a list of public Fediverse services.
 | `crunkt.com` | No |
 | `crux.social` | No |
 | `crw.li` | No |
+| `crwd.one` | No |
 | `cryne.me` | Yes |
 | `crynet.one` | No |
 | `cryo.icu` | No |
@@ -11532,6 +11535,7 @@ Here's a list of public Fediverse services.
 | `freak.university` | No |
 | `freakaria.com` | No |
 | `freakenstein.nl` | No |
+| `freakinbox.com` | No |
 | `freakingfurries.ca` | No |
 | `freaklab.es` | No |
 | `freaknweekend.com` | No |
@@ -13976,6 +13980,7 @@ Here's a list of public Fediverse services.
 | `heer.xyz` | No |
 | `heewch.com` | No |
 | `heff.fyi` | No |
+| `heffalump.party` | No |
 | `heffley.social` | No |
 | `heftehaufen.de` | No |
 | `heggadrone.tk` | No |
@@ -15133,6 +15138,7 @@ Here's a list of public Fediverse services.
 | `ilbro.com` | Yes |
 | `ilchub.net` | Yes |
 | `ilex.nagoya` | No |
+| `ilgstrasse.de` | No |
 | `ili.land` | No |
 | `iliaf.net` | No |
 | `ilias.church` | No |
@@ -16834,6 +16840,7 @@ Here's a list of public Fediverse services.
 | `kaartinen.photos` | Yes |
 | `kaartinen.social` | Yes |
 | `kabadesu.ch` | No |
+| `kabedon.space` | Yes |
 | `kabelsalat.ch` | No |
 | `kabi.tk` | No |
 | `kabipix.tk` | No |
@@ -18609,6 +18616,7 @@ Here's a list of public Fediverse services.
 | `leno3s.net` | No |
 | `lenote.eu` | No |
 | `lenuxde.net` | No |
+| `lenzg.net` | No |
 | `lenzn.net` | No |
 | `leo-skull.de` | No |
 | `leo.re.kr` | Yes |
@@ -19521,6 +19529,7 @@ Here's a list of public Fediverse services.
 | `ltdk.xyz` | No |
 | `ltoi.net` | No |
 | `ltratcliff.com` | No |
+| `lttl.one` | Yes |
 | `ltu.social` | No |
 | `lty.name` | Yes |
 | `lu-rp.net` | Yes |
@@ -19529,6 +19538,7 @@ Here's a list of public Fediverse services.
 | `luap42.de` | Yes |
 | `lubakiagenda.net` | No |
 | `lubar.me` | Yes |
+| `luc.cat` | Yes |
 | `luca-cazzulo.it` | No |
 | `luca.run` | Yes |
 | `luca0n.com` | No |
@@ -24305,6 +24315,7 @@ Here's a list of public Fediverse services.
 | `nokotaro.com` | Yes |
 | `nokotaro.work` | Yes |
 | `nola.actor` | Yes |
+| `nolanfans.com` | Yes |
 | `nolanlawson.com` | No |
 | `noldal.net` | No |
 | `nolden.social` | No |
@@ -30983,6 +30994,7 @@ Here's a list of public Fediverse services.
 | `simonoener.com` | No |
 | `simonpbriggs.co.uk` | Yes |
 | `simonprior.com` | No |
+| `simonschoof.com` | No |
 | `simonwgill.com` | No |
 | `simonwillison.net` | Yes |
 | `simonwood.info` | No |
@@ -39100,8 +39112,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,485 |
-| Normal | 29,572 |
+| Cloudflare | 9,489 |
+| Normal | 29,580 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
