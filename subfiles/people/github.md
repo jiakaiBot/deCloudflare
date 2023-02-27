@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cache Control for 404 response](https://github.com/unjs/nitro/issues/1001)
 - [Writing to cloudflare r2 fails for mutlipart upload](https://github.com/apache/arrow/issues/34363)
 - [Capturing Hono exceptions with the Cloudflare Pages Sentry Plugin](https://github.com/honojs/hono/issues/938)
 - [Danbooru Cloudflare IUAM challenge](https://github.com/mikf/gallery-dl/issues/3710)
