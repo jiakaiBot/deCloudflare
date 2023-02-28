@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,835 |
 | social | 3,781 |
 | net | 2,971 |
-| org | 2,085 |
+| org | 2,086 |
 | de | 1,960 |
 
 
@@ -3046,7 +3046,7 @@ Here's a list of public Fediverse services.
 | `bankmann.name` | No |
 | `banky.club` | Yes |
 | `banned.cafe` | No |
-| `banneddata.me` | Yes |
+| `banneddata.me` | No |
 | `bannedwagon.team` | No |
 | `bannok.club` | No |
 | `banthamilk.blue` | No |
@@ -3429,6 +3429,7 @@ Here's a list of public Fediverse services.
 | `benzo.online` | No |
 | `beo.social` | No |
 | `beow.party` | Yes |
+| `bepe.org` | No |
 | `bepis.au` | Yes |
 | `bepis.social` | No |
 | `beppo.online` | No |
@@ -7950,7 +7951,7 @@ Here's a list of public Fediverse services.
 | `dentropy.xyz` | No |
 | `denull.ru` | No |
 | `denv.org` | No |
-| `denvr.social` | No |
+| `denvr.social` | Yes |
 | `deny.club` | No |
 | `deo.moe` | No |
 | `deoan.org` | No |
@@ -16230,6 +16231,7 @@ Here's a list of public Fediverse services.
 | `jeffyen.net` | No |
 | `jehanalvani.com` | Yes |
 | `jehuty11.com` | No |
+| `jekabs.dev` | Yes |
 | `jel-tech.com` | Yes |
 | `jeli.kz` | No |
 | `jelliefrontier.net` | No |
@@ -33019,6 +33021,7 @@ Here's a list of public Fediverse services.
 | `synesthesia.co.uk` | No |
 | `synfinner.blog` | No |
 | `synkosmos.org` | No |
+| `synn.one` | Yes |
 | `synnet.io` | Yes |
 | `synology.me` | No |
 | `synos.ovh` | No |
@@ -33233,6 +33236,7 @@ Here's a list of public Fediverse services.
 | `talkr.online` | No |
 | `talks.social` | No |
 | `talksmacky.com` | No |
+| `talktech.info` | Yes |
 | `talktodan.com` | Yes |
 | `tall.coffee` | Yes |
 | `tallahasseesocial.org` | No |
@@ -39121,8 +39125,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,499 |
-| Normal | 29,579 |
+| Cloudflare | 9,502 |
+| Normal | 29,580 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
