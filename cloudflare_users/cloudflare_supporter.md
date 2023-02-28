@@ -10467,6 +10467,7 @@ Do not create new issue or we will close it as duplicate.
 | [th44624024@twitter](https://twitter.com/th44624024/status/1554485621011644416) | advertise |
 | [Th62458950Th@twitter](https://twitter.com/Th62458950Th/status/1553229571717476354) | advertise |
 | [Th99629351@twitter](https://twitter.com/Th99629351/status/1378021025485479941) | advertise |
+| [thach68744414@twitter](https://twitter.com/thach68744414/status/1630632185379291136) | advertise |
 | [Thachminh89@twitter](https://twitter.com/Thachminh89/status/1555605823086559232) | advertise |
 | [Thachthao2810@twitter](https://twitter.com/Thachthao2810/status/1560689108514934784) | advertise |
 | [ThaeHoneySu1@twitter](https://twitter.com/ThaeHoneySu1/status/1393502689124782082) | advertise |
@@ -10635,8 +10636,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
@@ -11410,6 +11411,7 @@ Do not create new issue or we will close it as duplicate.
 | [UThuYa19@twitter](https://twitter.com/UThuYa19/status/1398904054097485825) | advertise |
 | [utnho071100@twitter](https://twitter.com/utnho071100/status/1601385905478340609) | advertise |
 | [Uttama97890732@twitter](https://twitter.com/Uttama97890732/status/1390025546264809476) | advertise |
+| [UT_DeGreATes@twitter](https://twitter.com/UT_DeGreATes/status/1630635893923930112) | advertise |
 | [UvinduBro@twitter](https://twitter.com/UvinduBro/status/1517900951373611009) | advertise |
 | [UwdieynCentre@twitter](https://twitter.com/UwdieynCentre/status/1398371128700063745) | advertise |
 | [uyen_ntm@twitter](https://twitter.com/uyen_ntm/status/1385006379870527489) | advertise |
