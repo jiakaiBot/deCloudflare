@@ -418,6 +418,7 @@ Do not create new issue or we will close it as duplicate.
 | [AhmedFaried00@twitter](https://twitter.com/AhmedFaried00/status/1515013817318752262) | advertise |
 | [AhmedGa90400768@twitter](https://twitter.com/AhmedGa90400768/status/1378080868938493956) | advertise |
 | [AhmedHu05262654@twitter](https://twitter.com/AhmedHu05262654/status/1478283890485653504) | advertise |
+| [Ahmedhyujjih@twitter](https://twitter.com/Ahmedhyujjih/status/1630521281060782082) | advertise |
 | [AhmedMahadi005@twitter](https://twitter.com/AhmedMahadi005/status/1552921613641056256) | advertise |
 | [Ahmedmo54164547@twitter](https://twitter.com/Ahmedmo54164547/status/1580697489463988224) | advertise |
 | [Ahmedsa96861316@twitter](https://twitter.com/Ahmedsa96861316/status/1412890312859656192) | moral (advertise) |
