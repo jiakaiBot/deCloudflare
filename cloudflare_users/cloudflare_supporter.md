@@ -6816,6 +6816,7 @@ Do not create new issue or we will close it as duplicate.
 | [minhhanchannel@twitter](https://twitter.com/minhhanchannel/status/1468750702725906434) | advertise |
 | [MinhHieuDuong6@twitter](https://twitter.com/MinhHieuDuong6/status/1396642306049024008) | advertise |
 | [MinhHiuu3@twitter](https://twitter.com/MinhHiuu3/status/1391486881343303681) | advertise |
+| [minhhoa583@twitter](https://twitter.com/minhhoa583/status/1630383610850328576) | advertise |
 | [Minhhuy04361859@twitter](https://twitter.com/Minhhuy04361859/status/1393420564950179846) | advertise |
 | [Minhhuy351@twitter](https://twitter.com/Minhhuy351/status/1524288351830183936) | advertise |
 | [MinhKim35497106@twitter](https://twitter.com/MinhKim35497106/status/1565037598233735169) | advertise |
