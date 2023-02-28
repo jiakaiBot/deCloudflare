@@ -55,7 +55,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | andrewnw.xyz | Yes |
 | anir0y.in | Yes |
 | anixlab.com | Yes |
-| anoogohost.net | No |
 | apemlegit.my.id | No |
 | apigw.online | Yes |
 | armorrush.eu.org | No |
@@ -94,7 +93,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | c-dns.com | No |
 | carson-family.com | Yes |
 | cbio.top | Yes |
-| cearhome.top | Yes |
 | cgnat.net | No |
 | chaos-system.de | No |
 | chavy.dev | No |
@@ -140,7 +138,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dgea.fr | No |
 | digitale-gesellschaft.ch | No |
 | digitalsize.net | No |
-| dionysus.beauty | Yes |
 | disconnect.app | Yes |
 | dlinkddns.com | No |
 | dns.google | No |
@@ -242,11 +239,9 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ihatemy.live | Yes |
 | iij.jp | Yes |
 | ikataruto.com | No |
-| ilker.se | Yes |
 | imaicool.com | No |
 | in-berlin.de | No |
 | indust.me | Yes |
-| infotek.net.id | No |
 | inria.fr | No |
 | instadart.net | No |
 | intertop.link | Yes |
@@ -348,7 +343,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | n0.eu | No |
 | n3120.wang | No |
 | nas-server.ru | Yes |
-| ndo.dev | Yes |
 | neubsi.at | No |
 | nexific.it | Yes |
 | nhtsky.com | Yes |
@@ -453,10 +447,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tk31z.com | Yes |
 | tls-data.de | No |
 | tlz.asia | Yes |
-| tmkis-dns.de | Yes |
 | toairs.com | No |
 | toaster.lol | No |
-| torgues.net | No |
 | totoro.pub | Yes |
 | truong.fi | Yes |
 | tu-bs.de | No |
@@ -498,8 +490,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 215 |
-| Normal | 264 |
+| Cloudflare | 210 |
+| Normal | 261 |
 
 
-### 44.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
