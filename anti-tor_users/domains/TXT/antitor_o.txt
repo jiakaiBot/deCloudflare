@@ -1283,6 +1283,7 @@ apinewbi.o2rintelligence.com
 argentina.orbia.ag
 armstrong-law.outlookdev.co.uk
 artifacts.opensearch.org
+atlon.odoo.com
 auth.test.ordoclic.fr
 autodiscover.opulenttechnology.co.ke
 avito.sber.sberbank.sber.sber.www.www.covid19.omveterinary.com
@@ -1298,6 +1299,7 @@ booking.omnitech.pro
 booking.orangeboxphotobooth.com
 booking.oyes.pl
 botcaptcha.oiti.me
+brainly.okta-emea.com
 brim.ondeck.ca
 bwg.pages.ontraport.net
 canarydse01-oicnusgovacc01-lf.0006.integration.us-langley-1.ocp.oraclegovcloud.com
@@ -1331,6 +1333,7 @@ cybermakdev-qa.onbmc.com
 databufferaa4fb07bf.hana.ondemand.com
 demo.oliverhuber.ch
 dependency-track.odin-vision.com
+dev.oeffentlichevergabe.de
 development-jask24jt.it-cpi002-rt.cfapps.ap10.hana.ondemand.com
 devstage.oekoswiss.de
 di-broker.ingress.reg.141-9549.aws.di-ci.hanacloud.ondemand.com
@@ -1338,6 +1341,7 @@ di-broker.ingress.reg.230-eff0.aws.di-ci.hanacloud.ondemand.com
 di-broker.ingress.reg.576-81.aws.di-ci.hanacloud.ondemand.com
 di-broker.ingress.reg.949-cc41.aws.di-ci.hanacloud.ondemand.com
 di-broker.ingress.reg.i308555deb.aws.di-dev.hanacloud.ondemand.com
+din-konto.appleld-pay.dk.opticservicesltd.co.uk
 discourse.onplanetearth.net
 dns.eu-frankfurt-1.oci.oraclecloud.com
 domaintohosting.organiccrap.com
@@ -1377,6 +1381,7 @@ gordini.oscc.com.br
 hcds-rdf-wts.oracleindustry.com
 hermes.ooo.hu
 home.retail.eu-frankfurt-1.ocs.oraclecloud.com
+horsprod-apigw-reverse.one4u.services
 iaas.af-johannesburg-1.oraclecloud.com
 idcs-5101d85fc62047529f2122576859ae9a.identity.oraclecloud.com
 idcs-970b429b3fb94b229e98383359ba1dd1.identity.oraclecloud.com
@@ -1388,6 +1393,7 @@ info.otto-payments.de
 infoform.orange.fr
 instfund.ocbc.com
 interface.oeticket.com
+invoice.obdltd.co.uk
 invoice.oracleaviation.co.za
 jwuq7jeq.openweb.bbva
 lb044384-phx-dbbr-ohsim-pdr.oracleindustry.com
@@ -1495,6 +1501,7 @@ onlyvaninsurance.co.uk
 onnoboerwinkel.nl
 ontarioinsulators.com
 ontarioportal.com
+onthegroundshow.org
 onto-it.nz
 op-todentaminen.info
 opendatamedia.net
@@ -1530,6 +1537,7 @@ orowinter.com
 ortacyapi.com
 orthodelivery.com.ua
 orthopayment.com
+osada49.pl
 oslobrewing.no
 osso.lv
 oto-login.com
@@ -1672,14 +1680,18 @@ www.costcontrol.otamasmm.com
 www.coupe-crdit-mutuel.onetfoot.com
 www.csroutlook.olahkarsa.com
 www.danmarkdigitalt.online-bookingsystem.dk
+www.danskefilmklubber.dk.ozz.dk
+www.de-01.varnish-01.o2monit.fr
 www.dev.secure.ok-family.com
 www.devstage.oekoswiss.de
 www.douglastriggs.outlookcreek.com
 www.drupal.oktal-pharma.hr
+www.drupal.oktal-pharma.hu
 www.ebay.one4all.pk
 www.expresslogisticsservice.online.osharestech.com
 www.facebook.octav.co.uk
 www.git.gitlab.gitlab.gitlab.www2.backup.olimp-shop.net
+www.githubdem.openfs.bo
 www.gitlab.git.gitlab.git.fe.olgatnt.ru
 www.gitlab.tv.ooo-medinkom.ru
 www.google.ocaleni.pl
@@ -1781,12 +1793,14 @@ www.oraclecardgoddess.co.uk
 www.orangaslihealth.org
 www.orb.bike
 www.orbswallet.info
+www.orcaconsultinggroup.com
 www.orcagroup.com
 www.ordineveterinaribelluno.it
 www.oregonfirearms.org
 www.organifarms.de
 www.orientswiss.com
 www.origemsbrazil.com
+www.originmarketinggroup.com
 www.orishealthsafety.com
 www.ormsprintroom.co.za
 www.orquestaathanor.org
@@ -1807,6 +1821,7 @@ www.ouiassurance.com
 www.oulunkattopalvelu.fi
 www.ourtime.dk
 www.ourtimetorv.com
+www.outlook-gardens.com
 www.outlook-iniciarsesion.com.mx
 www.outlookaero.aero
 www.outlookccreno.org
@@ -1816,7 +1831,9 @@ www.outlookhockey.com
 www.outlookrealty.com
 www.outsellplatform.com
 www.outsourcing-swiss.ch
+www.overijssel.nl
 www.oversizeservice.it
+www.overstockjewel.com
 www.overstockpapier.be
 www.overstocksbuyer.co.uk
 www.overtsoftware.com
