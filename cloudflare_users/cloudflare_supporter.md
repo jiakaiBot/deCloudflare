@@ -232,6 +232,7 @@ Do not create new issue or we will close it as duplicate.
 | [ABDIRAX06711012@twitter](https://twitter.com/ABDIRAX06711012/status/1528761245406482432) | advertise |
 | [Abdlrhmnelhyb@twitter](https://twitter.com/Abdlrhmnelhyb/status/1477260431932669954) | advertise |
 | [abdonaguib8@twitter](https://twitter.com/abdonaguib8/status/1398978244158840835) | advertise |
+| [abduckerskywalk@twitter](https://twitter.com/abduckerskywalk/status/1630560124338335744) | advertise |
 | [AbdulAlimAz@twitter](https://twitter.com/AbdulAlimAz/status/1387772389266804751) | advertise |
 | [Abdulaz29616252@twitter](https://twitter.com/Abdulaz29616252/status/1380498458965053440) | advertise |
 | [abdulla002233@twitter](https://twitter.com/abdulla002233/status/1617519168433311747) | advertise |
