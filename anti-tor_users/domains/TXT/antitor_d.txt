@@ -2358,7 +2358,6 @@ intertrust-api.dac6connect.com
 intranet.discord-acc.ru
 iqmaiulgpzlfb52.caradmin.discord-accounts.ru
 isvoc.deviantart.com
-ita.edu.daneurope.org
 itunes.apple.update.compte.id.doughudson.com
 jab.disco.to
 janus.denizbank.com
@@ -2969,11 +2968,13 @@ amazon-sdsghgh.dumb1.com
 amazon-vcbyuuy.dumb1.com
 amazon-vsduayv.dns-report.com
 amazon-vuabdsg.dsmtp.com
+americaswaterwww1.discord-accounts.ru
 ams.dona.org
 angelikastehle.deutschewebdesign.de
 anty-1.dkonto.pl
 aoip.dzhadinatech.com
 api-cdn.dfiq.net
+api-feature-tfxoti-819-iscv.dev-inforit.cloud
 api.dataabg.com
 api.de-cix.net
 api.deuna.io
@@ -2986,11 +2987,13 @@ api.staging.hermes.day1company.io
 apk.dahsampaicustomer.com
 app-builder-client-dev.docksert.ru
 app-builder-client-prod.docksert.ru
+app.daviviendacorredores.com
 app.deepesg.com
 app.dework.xyz
 appconfigs.disney-plus.net
 argocd-staging.dutamoney.dev
 asgard.deschenes.me
+assurance3.deelcomm.com
 auction.discord-acc.ru
 auth-ac.dev-vkplay.ru
 auth.doitforme.club
@@ -3041,6 +3044,7 @@ blablacar.avito.www.git.git.git.covid19.dharma-space.com
 blablacar.sberbank.www.covid19.datacomproxy.com
 blackbox-exporter.architecture.prod.da-service.io
 blockplay.fuhttwww.www2.discord-accounts.ru
+blockplay.fuhttwww2.discord-accounts.ru
 blog.wordpress.blog.magento.blog.dtivaluetrucks.com
 booking.digitalgoindonesia.com
 bookings.desaland.com.my
@@ -3056,6 +3060,7 @@ chrome-extention.dynv6.net
 click.info.dekra.com
 clicks.dhqmailer.co.uk
 client.descori.com
+client.drivetrafficmedia.com
 cloud.docfinity.com
 cloud2.didcom.mx
 compass-am.i.daimler.com
@@ -3066,6 +3071,7 @@ corpebankc4as.dccnet.com.cn
 correo.dragosolutions.com
 cpanel.darrentuckerdecorating.co.uk
 cpanel.decifersportresort.co.ao
+cpanel.diescore.com
 cpanel.digital.dokterappleid.com
 cpanel.discodonuts.com
 cpanel.discoduro.fi
@@ -3075,6 +3081,7 @@ cpanel135.dnscpanel.com
 cpcalendars.auth-system.update.paymt.secure.darasdkmascjnc.co
 cpcalendars.bmanzil.delfin-pos.org
 cpcalendars.decifersportresort.co.ao
+cpcalendars.diescore.com
 cpcalendars.digital.dokterappleid.com
 cpcalendars.discodonuts.com
 cpcalendars.dmgelektrik.com
@@ -3082,6 +3089,7 @@ cpcalendars.dotdashdot.dev
 cpcalendars.dynoboyz.com
 cpcalendars.mobilya1.demolar.pro
 cpcontacts.decifersportresort.co.ao
+cpcontacts.diescore.com
 cpcontacts.digital.dokterappleid.com
 cpcontacts.discodonuts.com
 cpcontacts.discoduro.fi
@@ -3092,6 +3100,7 @@ cpcontacts.dynotest.eu
 cpm.dspace.de
 csgorders.entitlements.dtciqa.technology
 csgorders.entitlements.dtcisb.technology
+cstp-imgsource.damo.games
 customer-management.devwtf.dev
 cyberspirit.dyndns.org
 cybersportsriga.detailed.lv
@@ -3120,6 +3129,7 @@ danielquinn.org
 danielscoachinggroup.com
 danishsecurity.dk
 danskecykelhandlere.dk
+danskefilmklubber.dk
 danskeguldfisk.dk
 danskegymnasier.dk
 danskekunstnerhjem.dk
@@ -3133,7 +3143,9 @@ darch.dk
 darena.ro
 darlenestanley.ml
 darmmc.com
+dartesnarinyapi.com
 dartsandletters.ca
+dashboard.com.ng
 dashboard.discord-accounts.ru
 data-bex.com
 data-dictionary.link
@@ -3220,6 +3232,7 @@ denizlifiatservisi.com
 denizlift.com
 denizlihuzurevi.com
 denizliiselbiseleri.com.tr
+denizlikorsantaksi.com
 denizlilastik.com
 denizlilastiktamiri.com
 denizlisimitcidunyasi.com
@@ -3229,17 +3242,20 @@ denizliyetkiliservis.com
 denizlojistik.com.tr
 denizozen.com.tr
 deniztecer.com
+deniztransport.se
 denizwebsservices.com
 denizyapigrup.com
 denovosoftware.com
 dens-vitalis.deutschewebdesign.de
 denticsteam.com
+dentistaenparla.es
 denvermenus.online
 denverpolicenews.com
 denveryapi.com
 deparisat.com
 depozitpieseagricole.ro
 deprem.fun
+derbycyclinggroup.org.uk
 deridderhofhattem.nl
 desabahagia.org
 desablockchain.com
@@ -3260,6 +3276,7 @@ deutschepinscher-regenleite.de
 deutscher-maklerverbund.de
 deutscherstil.de
 dev-blue-ocean.dolphinimaging.com
+dev-passkey.daplatform.kr
 dev.booking.dxr.cloud
 dev.cameleon.insight.dataauchan.fr
 dev.deutsche-siedlungsbau.de
@@ -3286,10 +3303,10 @@ dhub-restructuring.de
 dialuxworkshop.com
 diamidex.com
 dianawest.net
-diascorpshop.com.br
 dicasdedinheiro.net
 dickwapple.com
 dict.lk
+diescore.com
 diesparen.de
 dieworkwear.com
 difanewyearkis.space
@@ -3340,6 +3357,7 @@ discourse-analysis.de
 discproducersupply.com
 discprofile.gr
 disksupport.dk
+disneylandforward.com
 disnord.dk
 dispatcher.deloitte.pl
 distintec.cl
@@ -3347,12 +3365,15 @@ divan.care
 divineclubworldwideusa.org
 divisikawasan.com
 diy-homesecurity.com.au
+djb.no
+djbooking.co
 dk-electrics.com.au
 dloogerkioger.online
 dlpyapi.com
 dls.dodlodging.net
 dm2lct.radio
 dmclubegypt.com
+dmsyapi.com.tr
 dobot.dev
 docoadoaoespresso.com.br
 docomo-20.com
@@ -3382,6 +3403,7 @@ doriegreenspan.com
 dorotazuber.com
 dorsettbooking.com
 dotforce.co.in
+dotgovpayadmin.dotgov.uk
 doublebites.online
 doublevpn.me
 dowjonesinvestmgoal.com
@@ -3434,6 +3456,7 @@ dsdufour.com
 dshv.rs
 dsmweb.service.deutschebahn.com
 dtcperspectives.com
+dteklogistics.com
 dtlpi.uat1.dealertrack.com
 dtny-appliance-service.com
 dttest.dansketursejlere.dk
@@ -3497,6 +3520,7 @@ ftp.dommel.nl
 fullservice.debco360.com
 fy.deutsche-bilderschmiede.de
 gall.dcinside.com
+gateway.dixipay.eu
 gedatadocs.metadata.prod.da-service.io
 gisportal-preprod.daa.ie
 git.ahttsitemaps.discord-store.ru
@@ -3526,6 +3550,7 @@ git.git.gujjunews18.gujgmail.com.dglance.com
 git.git.wp.discord-store.ru
 git.gitlab.git.git.git.git.sitemaps.discord-store.ru
 git.gitlab.git.git.gitlab.gitlab.api.discord-accounts.ru
+git.gitlab.git.gitlab.git.cp.discord-acc.ru
 git.gitlab.git.sitemaps.discord-store.ru
 git.gitlab.gitlab.git.git.mx01.discord-acc.com
 git.gitlab.gitlab.gitlab.forums.discord-acc.com
@@ -3571,6 +3596,8 @@ homologa.desenvolvesp.com.br
 hs-feature-cp-1312-cp.dev-inforit.cloud
 hwasaasdev.dryicehcl.com
 i1.dcash.docomo.ne.jp
+i24.dga.jp
+i26.dga.jp
 id.meridian.sandbox.driven.ca
 image-resizing-api.deno.dev
 image.discordia.tv
@@ -3604,6 +3631,7 @@ lna-wr.masftp.discord-accounts.ru
 login.dapenks.com
 louise-miapeh.demowebsiteclient.com
 lp.creditconsig.dev-eleveads.com.br
+lp.deutschesexkontakte.de
 lq2a6ismbqktdwanbgdln7cveh3m327er4ecfu3vsvucsssu.ipfs.dweb.link
 lvjwucmh5bcmz2kimbqfhzojp7kmhu56jz476sktuvgwfrke.ipfs.dweb.link
 lync.dehosted.net
@@ -3618,6 +3646,7 @@ mail.descargaroblox.top
 mail.design-alchemy.online
 mail.designwaveonline.com
 mail.deutscherflirtbook.com
+mail.diescore.com
 mail.discord-acc.com
 mail.discordfanaticos.com
 mail.discordiastudio.hr
@@ -3665,6 +3694,7 @@ monitoring.d2-apps.net
 monitoring.datapill.tech
 monitoring.dbs-haase.de
 monitoring.demodata-agent.com
+monitoring.devados.de
 monitoring.dfp.dynamics.com
 monitoring.ditavision.com
 monitoring.donatsch.ch
@@ -3765,10 +3795,12 @@ qmnfngybew757rabbev3oftzdoxo7esfggrwyvwl3naqnocm.ipfs.dweb.link
 r.dhinsights-info.com
 rapat-asmdaic9s.dynnamn.ru
 rdamsc.dcc.ac.uk
+rdap.domainallies.com
 reinbostore.dynoboyz.com
 relaunch.die-infektastischen-sti.de
 relaunch.dotsys-online.de
 relaunch.drugcom.de
+remingtonco.demowebsiteclient.com
 remote.damage-inc.ca
 remote.dexcell.com
 reportspre.dkvdirecto.com
@@ -3805,7 +3837,10 @@ sberbank.avito.blablacar.avito.www.www.covid19.dushevnyekuhni.ru
 sberbank.avito.blablacar.blablacar.covid19.dryvantrader.com
 sberbank.avito.blablacar.blablacar.www.covid19.danseclassique.ru
 sberbank.avito.blablacar.git.covid19.dharma-space.com
+sberbank.avito.blablacar.sber.git.covid19.dharma-space.com
 sberbank.avito.c9rqld8pk7jahttnoas0.console.discord-acc.ru
+sberbank.avito.covid19.dharma-space.com
+sberbank.avito.git.git.git.git.covid19.dharma-space.com
 sberbank.avito.git.git.git.git.covid19.diybrandsite.com
 sberbank.avito.git.www.covid19.diybrandsite.com
 sberbank.avito.sber.avito.avito.covid19.danseclassique.ru
@@ -3822,6 +3857,8 @@ sberbank.git.git.git.git.www.covid19.dmitryraevsky.com
 sberbank.sber.avito.avito.blablacar.covid19.dealercoreapp.com
 sberbank.sber.avito.avito.blablacar.covid19.dushevnyekuhni.ru
 sberbank.sber.avito.avito.www.avito.covid19.dushevnyekuhni.ru
+sberbank.sber.avito.avito.www.git.covid19.dharma-space.com
+sberbank.sber.avito.covid19.dharma-space.com
 sberbank.sber.avito.sber.avito.www.covid19.danseclassique.ru
 sberbank.sber.blablacar.avito.www.covid19.danseclassique.ru
 sberbank.sber.blablacar.sberbank.www.covid19.datacomproxy.com
@@ -3864,6 +3901,9 @@ signature-skin.dirtydogsbbq.co.uk
 signinauth-accountapp1e.democratscdmx.com
 siseafiliados-qa.dev-pruebas.com
 sistema.dasa.com.br
+site20.dga.jp
+site22.dga.jp
+site25.dga.jp
 skypeweb.dtm.ca
 skyseamedia.compchetitucan.tknltlab.herokuapp.com.dieverdorp.nl
 spectrumcube.demo1.co.uk
@@ -3899,6 +3939,7 @@ sync.datacomcloud.co.nz
 system.diamondtrack.pl
 system.discord-store.ru
 t.dcash.docomo.ne.jp
+tableau.dil-ev.de
 tanienitro.pl.dm65886.domenomania.eu
 tauriello.dzvoip.it
 tc.dgvconnect.in
@@ -3925,6 +3966,7 @@ trxmapi.deutsche-bank.de
 twitch.dblc.tv
 twitch.domrose.org
 twitch.drndvs.fr
+twitch.dtbeats.com
 twitchbot.domcloud.io
 tyrell.dynoboyz.com
 uat-cashconnect.danamon.co.id
@@ -3951,6 +3993,7 @@ wayf.aai.dfn.de
 web-corporativa-privada.dns1.us
 webapp.discord-acc.ru
 webdisk.decifersportresort.co.ao
+webdisk.diescore.com
 webdisk.digitalinfo24.com
 webdisk.digitalsecuritysystem.co.in
 webdisk.discodonuts.com
@@ -3968,6 +4011,7 @@ webmail.demasaje.es
 webmail.denalicoatings.com
 webmail.depeusaterrawellness.com
 webmail.descargaroblox.top
+webmail.diescore.com
 webmail.digital.dokterappleid.com
 webmail.discarded.space
 webmail.discodonuts.com
@@ -3987,6 +4031,7 @@ wordpress.discord-acc.ru
 workshop3.destabyn.org
 workspacevirtualstorageacessos.on.drv.tw
 wphml.desenvolvesp.com.br
+wpupdate.diejugendherbergen.de
 wwetydcmrmgw.xiyosgnrombx.nwzzxonnmmkw.dentistrybliss.com
 www-admin.directe-sante.com
 www.a1steamway.dotwebdemo.link
@@ -4001,6 +4046,7 @@ www.anty-1.dkonto.pl
 www.applecondovilla.id.domainqu.com
 www.appletree.dizajn.io
 www.argentusappraisalnyc.defeatingnarcissists.com
+www.assurance3.deelcomm.com
 www.bataryadunyasi.net.dengetelekom.com.tr
 www.billing.demo.deepamalternativeclinic.com
 www.billing.denwaypharma.com
@@ -4014,10 +4060,13 @@ www.campeonato-federal-3.dryphoto.net
 www.campeonato-federal-4.dryphoto.net
 www.campeonato-federal-5.dryphoto.net
 www.campeonato-federal-6.dryphoto.net
+www.campeonato-federal-d.dryphoto.net
 www.campeonato-federal-j.dryphoto.net
 www.careinhome.demowebsiteclient.com
 www.citizencommittee.ca.deiresearch.ca
+www.client.drivetrafficmedia.com
 www.clientes.daalef.com
+www.clients.designtrends.biz
 www.clients.digitalcurrencyrecovery.com
 www.cloud.dyson-forum.de
 www.coaching-plus.demowebsiteclient.com
@@ -4025,11 +4074,13 @@ www.connect-wallet.dripfaucet.online
 www.contact.dearcharliphotography.com
 www.corporate-responsibility.dzbank.com
 www.crmnext.dealerconnection.com
+www.d2ssoftware.co.uk
 www.d3vur.com
 www.daarulhabib.com
 www.daboxbigisland.org
 www.dacalaptopservis.com
 www.daconsultantsteam.com
+www.dadvocacyconsultinggroup.com
 www.daedalusbooks.com
 www.daftar-idnsuper10.asia
 www.dahlienwirth.at
@@ -4043,6 +4094,7 @@ www.daiwahouse.co.jp
 www.dajhet.sk
 www.dalamancelikyapi.com
 www.dallachiesa.edu.it
+www.dallaslimoservice.dfwairporter.com
 www.dalsaram.com
 www.damacproperties.com
 www.damianofasso.org
@@ -4065,6 +4117,7 @@ www.danskejoederitheresienstadt.org
 www.danskekunstnerhjem.dk
 www.danskeplanchefer.dk
 www.danskerhvervslaan.dk
+www.danvoice.com
 www.danzantebay.com
 www.daresecurity.ie
 www.darnell.bio
@@ -4091,6 +4144,7 @@ www.davishuber.com
 www.dawnstaleyaward.org
 www.dawsoncommunityfoodbank.com
 www.dayin.boston.dna-accounts.com
+www.dbrnationwide.com
 www.dcerkelenz.de
 www.dcfinancialadvice.com.au
 www.dcfx.co.id
@@ -4156,6 +4210,8 @@ www.denizdaglaratalay.com
 www.denizdemirasal.com
 www.denizdetatil.com.tr
 www.denizenerji.net
+www.denizensllc.com
+www.denizevicesme.com
 www.denizfeneridiving.com
 www.denizgoktepe.com
 www.denizgrp.com
@@ -4171,11 +4227,13 @@ www.denizliensonhaber.com
 www.denizlifiatservisi.com
 www.denizlift.com
 www.denizliiselbiseleri.com.tr
+www.denizlikorsantaksi.com
 www.denizlipsikoloji.com
 www.denizlisuaritmacihazi.com
 www.denizlitesisat.com
 www.denizmasajsalonu.com
 www.denizozen.com.tr
+www.denizpansiyonurla.com
 www.denizpetshop59.com
 www.denizraf.com
 www.denizsaman.com.tr
@@ -4263,6 +4321,7 @@ www.digitalexpertservice.in
 www.digitalhosting.cl
 www.digitalpulsapayment.com
 www.digitalpulsapayment.net
+www.digiworld.dciti.lv
 www.dilusso.uy
 www.dimension7nyc.com
 www.dinerosinreferidos.ddigitalmarketing.net
@@ -4339,6 +4398,7 @@ www.donum.store
 www.door24service.net
 www.dopamineroutine.com
 www.dopayu.darsitek.com
+www.dopelook.com.bd
 www.doplim.es
 www.dorsettbooking.com
 www.dostcelikyapi.com
@@ -4482,6 +4542,7 @@ www.nexlive.divipayment.com
 www.ny.danske-campister.dk
 www.odeme.denizliseviyeokullari.com
 www.oglosztest.dkonto.pl
+www.online-banco.de-oroapp.com
 www.order.dokterappleid.com
 www.otbptest.demowebsiteclient.com
 www.package-sealer-tt.dmno.of.by
@@ -4492,12 +4553,14 @@ www.paymentvoucher.dynoboyz.com
 www.picks-group.demowebsiteclient.com
 www.porsche-911-carrera.damiendoumergue.com
 www.portal.dfexpresso.com.br
+www.preview-daveoxleywindows.daveoxleywindows.co.uk
 www.property.desongraha.com
 www.proxtastemy.dineroez.com
 www.qiqinpost.daviteo.com
 www.rahayukaretjaya.daunlab.com
 www.rainbowsightings.davidtinapple.com
 www.rd.danskemedier.dk
+www.remingtonco.demowebsiteclient.com
 www.royaltandoor.dillonconsultinggroup.com
 www.russellzaimi.demowebsiteclient.com
 www.safe.darellynspa.com
@@ -4531,6 +4594,7 @@ www.summer-moovdance-po.daovi-asso.com
 www.suncityhearingservice.dbsatemecula.org
 www.support.dendera.institute
 www.support.diekreativestudio.de
+www.support.dpslatvija.lv
 www.support.dwinnerdigital.com
 www.taa-fcum.dc-online.co.uk
 www.tcatcapacitaciontecnica.com.dreamedservice.com
@@ -4554,6 +4618,7 @@ www.vodafone.datacube.co.za
 www.volkswagen.danielachondo.cl
 www.wallet-demo.deeeplabs.com
 www.wallet-demo2.deeeplabs.com
+www.wdx-intralogistik.dkonto.pl
 www.web.dmlexpresscourservice.com
 www.wethepeopleofearthbiz.demowebsiteclient.com
 www.whatsapp.dsr.my
