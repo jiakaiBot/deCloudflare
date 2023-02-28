@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,839 |
 | social | 3,783 |
 | net | 2,973 |
-| org | 2,086 |
+| org | 2,087 |
 | de | 1,961 |
 
 
@@ -3627,6 +3627,7 @@ Here's a list of public Fediverse services.
 | `bihar.social` | Yes |
 | `bihlink.com` | No |
 | `biilmann.blog` | No |
+| `bij1.org` | No |
 | `bikabika.xyz` | No |
 | `bikegraz.at` | No |
 | `bikejam.social` | No |
@@ -27725,7 +27726,6 @@ Here's a list of public Fediverse services.
 | `pupbrained.xyz` | Yes |
 | `pupmaxx.com` | Yes |
 | `puppo.space` | No |
-| `puppy-social.xyz` | No |
 | `puppy.cafe` | No |
 | `puppy.place` | No |
 | `puppyfire.social` | No |
