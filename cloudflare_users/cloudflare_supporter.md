@@ -11340,6 +11340,7 @@ Do not create new issue or we will close it as duplicate.
 | [T_H_Aung@twitter](https://twitter.com/T_H_Aung/status/1623150092302815232) | advertise |
 | [t_q_hung21@twitter](https://twitter.com/t_q_hung21/status/1480199838113226755) | advertise |
 | [t_srgty@twitter](https://twitter.com/t_srgty/status/1387020781423525893) | advertise |
+| [t_tiatun@twitter](https://twitter.com/t_tiatun/status/1630600721241370630) | advertise |
 | [U2nEWQNpIMT8JfT@twitter](https://twitter.com/U2nEWQNpIMT8JfT/status/1407552556960600072) | advertise |
 | [U2ub1@twitter](https://twitter.com/U2ub1/status/1534519357597958145) | advertise |
 | [u3FTE3PbLVg3trL@twitter](https://twitter.com/u3FTE3PbLVg3trL/status/1377926972689551360) | advertise |
