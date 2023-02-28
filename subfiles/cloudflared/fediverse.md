@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,835 |
-| social | 3,780 |
+| social | 3,781 |
 | net | 2,971 |
 | org | 2,085 |
 | de | 1,960 |
@@ -5937,6 +5937,7 @@ Here's a list of public Fediverse services.
 | `clodostr.at` | No |
 | `clonewars.vet` | No |
 | `clonis.xyz` | No |
+| `clontarf.icu` | No |
 | `cloomii.com` | Yes |
 | `close-air.support` | No |
 | `closebang.de` | No |
@@ -12967,7 +12968,7 @@ Here's a list of public Fediverse services.
 | `goats.men` | Yes |
 | `gobbetti.name` | No |
 | `gobelet.com` | No |
-| `goblackcat.com` | No |
+| `goblackcat.com` | Yes |
 | `goblackcat.net` | Yes |
 | `goblfc.org` | Yes |
 | `goblin.camp` | No |
@@ -17674,6 +17675,7 @@ Here's a list of public Fediverse services.
 | `kochudaho.me` | Yes |
 | `kockatoo.org` | No |
 | `kocko.org` | No |
+| `kockw.social` | No |
 | `kocour.club` | No |
 | `kodachrome.club` | No |
 | `kodama-system.com` | No |
@@ -22602,6 +22604,7 @@ Here's a list of public Fediverse services.
 | `msitc.de` | No |
 | `msjl.nl` | No |
 | `msky.cafe` | Yes |
+| `msky.nl` | Yes |
 | `msky.tokyo` | Yes |
 | `msky.work` | Yes |
 | `mslink.com` | No |
@@ -27094,7 +27097,7 @@ Here's a list of public Fediverse services.
 | `politikvonunten.org` | No |
 | `politplatschquatsch.com` | No |
 | `politpunk.ch` | No |
-| `polittimeline.de` | Yes |
+| `polittimeline.de` | No |
 | `poliversity.it` | No |
 | `poliverso.org` | No |
 | `polli.social` | No |
@@ -28447,6 +28450,7 @@ Here's a list of public Fediverse services.
 | `rcwd.social` | No |
 | `rd-social.net` | No |
 | `rd-srv.de` | Yes |
+| `rddw.eu` | No |
 | `rdela.com` | No |
 | `rdg.world` | No |
 | `rdh27785.net` | No |
@@ -39117,8 +39121,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,498 |
-| Normal | 29,576 |
+| Cloudflare | 9,499 |
+| Normal | 29,579 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
