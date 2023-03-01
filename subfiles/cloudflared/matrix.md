@@ -71,9 +71,9 @@ Here's a list of public Matrix services.
 | matrix.glasgow.social | No |
 | matrix.gnulinux.club | No |
 | matrix.grin.hu | No |
+| matrix.group.lt | Yes |
 | hackerspaces.be | No |
 | matrix.hadoly.fr | No |
-| chatserver.hashi.sbs | Yes |
 | hot-chilli.im | No |
 | houtworm.im | No |
 | synapse.hyteck.de | No |
