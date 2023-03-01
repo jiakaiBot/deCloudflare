@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,843 |
+| com | 5,844 |
 | social | 3,785 |
 | net | 2,975 |
-| org | 2,087 |
-| de | 1,961 |
+| org | 2,088 |
+| de | 1,962 |
 
 
 - Mastodon, Pleroma, etc
@@ -23455,6 +23455,7 @@ Here's a list of public Fediverse services.
 | `navarro.pub` | No |
 | `naveen.ink` | No |
 | `navel7.tk` | No |
+| `navinot.com` | No |
 | `nay.moe` | Yes |
 | `nayukana.info` | No |
 | `nayya.org` | No |
@@ -30952,6 +30953,7 @@ Here's a list of public Fediverse services.
 | `signs.codes` | No |
 | `sigpipe.link` | No |
 | `sigpipe.me` | No |
+| `sigsoft.org` | No |
 | `sigterm.wtf` | No |
 | `sihailiuyun.gift` | No |
 | `siina.wtf` | No |
@@ -33424,6 +33426,7 @@ Here's a list of public Fediverse services.
 | `tbh.social` | No |
 | `tbny.space` | No |
 | `tbo.social` | No |
+| `tbqdrn.de` | No |
 | `tbrnet.de` | No |
 | `tbrnt.ch` | No |
 | `tbs.social` | Yes |
@@ -39154,7 +39157,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,514 |
-| Normal | 29,596 |
+| Normal | 29,599 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
