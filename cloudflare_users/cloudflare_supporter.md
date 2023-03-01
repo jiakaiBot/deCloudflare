@@ -5408,8 +5408,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -10161,6 +10161,7 @@ Do not create new issue or we will close it as duplicate.
 | [subhash73902708@twitter](https://twitter.com/subhash73902708/status/1597228369875435521) | advertise |
 | [SubhashGottum9@twitter](https://twitter.com/SubhashGottum9/status/1397529313537265665) | advertise |
 | [Subigwin223@twitter](https://twitter.com/Subigwin223/status/1609539892190777344) | advertise |
+| [Subin03842148@twitter](https://twitter.com/Subin03842148/status/1630787532752560130) | advertise |
 | [SuccessvisionPr@twitter](https://twitter.com/SuccessvisionPr/status/1393314160625307653) | advertise |
 | [sudanindepende1@twitter](https://twitter.com/sudanindepende1/status/1430518977386721280) | advertise |
 | [SUday49665279@twitter](https://twitter.com/SUday49665279/status/1386583498014683137) | advertise |
@@ -11082,6 +11083,7 @@ Do not create new issue or we will close it as duplicate.
 | [trandunghl@twitter](https://twitter.com/trandunghl/status/1519338460704026626) | advertise |
 | [TranHa34047160@twitter](https://twitter.com/TranHa34047160/status/1617946199889432578) | advertise |
 | [tranhaonam331@twitter](https://twitter.com/tranhaonam331/status/1482005738461757454) | advertise |
+| [trankien2115@twitter](https://twitter.com/trankien2115/status/1630782347657330689) | advertise |
 | [TranKimBinh4@twitter](https://twitter.com/TranKimBinh4/status/1563849712847192064) | advertise |
 | [TranNhan_62@twitter](https://twitter.com/TranNhan_62/status/1624469902798249984) | advertise |
 | [trantha16219627@twitter](https://twitter.com/trantha16219627/status/1480025129786564613) | advertise |
