@@ -8120,6 +8120,7 @@ Do not create new issue or we will close it as duplicate.
 | [NyuntSh23523748@twitter](https://twitter.com/NyuntSh23523748/status/1488521850930208771) | advertise |
 | [nyunt_gzb@twitter](https://twitter.com/nyunt_gzb/status/1579407778057052161) | advertise |
 | [nZinoProperties@twitter](https://twitter.com/nZinoProperties/status/1429140861959430156) | advertise |
+| [NZTNTT69@twitter](https://twitter.com/NZTNTT69/status/1630742334186065920) | advertise |
 | [n_a_b_e_t_a_s_o@twitter](https://twitter.com/n_a_b_e_t_a_s_o/status/1454036622844911619) | advertise |
 | [n_wuit@twitter](https://twitter.com/n_wuit/status/1376737743619813382) | advertise |
 | [o0Yurpa0o@twitter](https://twitter.com/o0Yurpa0o/status/1381196081145335809) | advertise |
