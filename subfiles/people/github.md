@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [create additional storage gateways in case one is down or overloaded](https://github.com/hypercerts-org/hypercerts/issues/415)
 - [Iran firewall blocks my subdomain, in vless/trojan CDN configuration.](https://github.com/net4people/bbs/issues/218)
 - [start.js & app.js = Internal Server Error in production b/c Response header content-type is "text/html; charset=UTF-8"](https://github.com/sveltejs/kit/issues/9248)
 - [MacOS error with GNU coreutils: Symbol not found: (_mkfifoat)](https://github.com/nvm-sh/nvm/issues/3043)
