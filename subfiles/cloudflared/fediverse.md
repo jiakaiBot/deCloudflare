@@ -8709,6 +8709,7 @@ Here's a list of public Fediverse services.
 | `dorfsvald.net` | No |
 | `dorheeme.de` | No |
 | `dorijan.io` | No |
+| `doriskey.xyz` | Yes |
 | `dork.dev` | No |
 | `dork.zone` | No |
 | `dorkboy.ca` | Yes |
@@ -39158,7 +39159,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,514 |
+| Cloudflare | 9,515 |
 | Normal | 29,601 |
 
 
