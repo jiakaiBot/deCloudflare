@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,844 |
 | social | 3,785 |
-| net | 2,975 |
+| net | 2,976 |
 | org | 2,088 |
 | de | 1,962 |
 
@@ -25085,6 +25085,7 @@ Here's a list of public Fediverse services.
 | `okinawa-mstdn.okinawa` | No |
 | `okinawadon.okinawa` | No |
 | `okinkin.top` | Yes |
+| `okitsu.net` | No |
 | `okkema.org` | Yes |
 | `okkikki.tokyo` | No |
 | `okko.io` | No |
@@ -32745,6 +32746,7 @@ Here's a list of public Fediverse services.
 | `sugarfuel.social` | No |
 | `sugarshack.social` | No |
 | `sugary.fashion` | No |
+| `sugattor.ga` | No |
 | `sugoma.tk` | Yes |
 | `suhbat.online` | No |
 | `sui-hei.net` | No |
@@ -39157,7 +39159,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,514 |
-| Normal | 29,599 |
+| Normal | 29,601 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
