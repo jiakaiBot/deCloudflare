@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,850 |
-| social | 3,786 |
+| social | 3,787 |
 | net | 2,981 |
 | org | 2,089 |
-| de | 1,963 |
+| de | 1,964 |
 
 
 - Mastodon, Pleroma, etc
@@ -1090,6 +1090,7 @@ Here's a list of public Fediverse services.
 | `agonisedrock.xyz` | Yes |
 | `agood.dog` | No |
 | `agoomem.xyz` | No |
+| `agora-thinktanks.social` | No |
 | `agora.lol` | No |
 | `agoraforum.website` | No |
 | `agoranet.info` | No |
@@ -2533,7 +2534,7 @@ Here's a list of public Fediverse services.
 | `atiltedtree.dev` | No |
 | `atkinson.life` | Yes |
 | `atla.digital` | No |
-| `atlantasoccer.social` | No |
+| `atlantasoccer.social` | Yes |
 | `atlanti.se` | No |
 | `atm0sp33r.space` | No |
 | `atmasto.com` | No |
@@ -15387,6 +15388,7 @@ Here's a list of public Fediverse services.
 | `informancer.eu` | No |
 | `informapirata.it` | Yes |
 | `informaticore.net` | No |
+| `information-architects.de` | Yes |
 | `information-superhighway.net` | No |
 | `information.garden` | No |
 | `informationdrift.org` | No |
@@ -23022,7 +23024,7 @@ Here's a list of public Fediverse services.
 | `mwegner.com` | Yes |
 | `mwknet.de` | No |
 | `mwl.io` | No |
-| `mws.rocks` | No |
+| `mws.rocks` | Yes |
 | `mwzhang.com` | No |
 | `mx00s.com` | No |
 | `mxcao.me` | No |
@@ -24561,6 +24563,7 @@ Here's a list of public Fediverse services.
 | `notunremarkable.me` | No |
 | `notvery.social` | No |
 | `notwebsite.com` | No |
+| `notwork.in` | No |
 | `notworking.review` | No |
 | `notyour.party` | Yes |
 | `notyour.tech` | No |
@@ -28216,6 +28219,7 @@ Here's a list of public Fediverse services.
 | `ragnate.la` | No |
 | `ragtag.moe` | Yes |
 | `rah.social` | No |
+| `rahlstedt.biz` | No |
 | `rahlstedt.de` | No |
 | `rahlstedt.social` | No |
 | `rai.dog` | No |
@@ -39178,8 +39182,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,522 |
-| Normal | 29,613 |
+| Cloudflare | 9,525 |
+| Normal | 29,614 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
