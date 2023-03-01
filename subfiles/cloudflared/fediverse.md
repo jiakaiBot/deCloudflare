@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,847 |
+| com | 5,849 |
 | social | 3,786 |
-| net | 2,980 |
+| net | 2,981 |
 | org | 2,089 |
 | de | 1,963 |
 
@@ -1984,6 +1984,7 @@ Here's a list of public Fediverse services.
 | `anzui.de` | Yes |
 | `anzui.dev` | No |
 | `aobuta.yokohama` | No |
+| `aogamers.net` | Yes |
 | `aoikaze.social` | Yes |
 | `aoirint.com` | No |
 | `aoitofu.net` | No |
@@ -12427,6 +12428,7 @@ Here's a list of public Fediverse services.
 | `gdrsocial.it` | No |
 | `gdsocial.uk` | No |
 | `gdt.bzh` | No |
+| `gdyr.co` | Yes |
 | `gealdor.space` | No |
 | `geanix.com` | No |
 | `gearheads.social` | Yes |
@@ -36304,6 +36306,7 @@ Here's a list of public Fediverse services.
 | `valleycommunity.co.za` | Yes |
 | `valleypost.us` | No |
 | `valo.chat` | No |
+| `valorantsskey.com` | Yes |
 | `valtlai.fi` | Yes |
 | `valvin.fr` | No |
 | `vampir.monster` | No |
@@ -37380,6 +37383,7 @@ Here's a list of public Fediverse services.
 | `whatsupeh.ca` | No |
 | `whatthe.horse` | Yes |
 | `whatthefuck.computer` | No |
+| `whatwasidoingagain.com` | No |
 | `whatwaslostisfound.co.uk` | No |
 | `wheelbearings.media` | No |
 | `when.computer` | No |
@@ -39173,8 +39177,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,518 |
-| Normal | 29,612 |
+| Cloudflare | 9,521 |
+| Normal | 29,613 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
