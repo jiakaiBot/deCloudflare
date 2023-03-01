@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,849 |
+| com | 5,850 |
 | social | 3,786 |
 | net | 2,981 |
 | org | 2,089 |
@@ -38359,6 +38359,7 @@ Here's a list of public Fediverse services.
 | `yaesu-eas.tokyo` | Yes |
 | `yaf.ai` | No |
 | `yaffle.xyz` | Yes |
+| `yagamin.com` | Yes |
 | `yagamin.net` | No |
 | `yagi.tc` | No |
 | `yagi2.com` | No |
@@ -39177,7 +39178,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,521 |
+| Cloudflare | 9,522 |
 | Normal | 29,613 |
 
 
