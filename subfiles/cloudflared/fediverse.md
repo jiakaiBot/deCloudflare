@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,850 |
-| social | 3,787 |
+| com | 5,853 |
+| social | 3,788 |
 | net | 2,981 |
-| org | 2,089 |
+| org | 2,090 |
 | de | 1,964 |
 
 
@@ -5632,6 +5632,7 @@ Here's a list of public Fediverse services.
 | `chn.moe` | Yes |
 | `cho.pm` | No |
 | `choco14t.net` | Yes |
+| `chocodon.com` | No |
 | `chocoflan.net` | No |
 | `chocolatines.org` | No |
 | `chocolicornes.org` | No |
@@ -9709,6 +9710,7 @@ Here's a list of public Fediverse services.
 | `emucafe.club` | No |
 | `emy.lu` | No |
 | `emy.world` | No |
+| `ena-vocalp.com` | Yes |
 | `enbi.es` | No |
 | `enbies.space` | Yes |
 | `enby-box.de` | No |
@@ -11256,6 +11258,7 @@ Here's a list of public Fediverse services.
 | `fluffs.au` | No |
 | `fluffy.family` | No |
 | `fluffy.moe` | Yes |
+| `fluffy.social` | No |
 | `fluffy.world` | No |
 | `fluffyfox.moe` | No |
 | `fluffyheart.me` | No |
@@ -21973,6 +21976,7 @@ Here's a list of public Fediverse services.
 | `misskey.xyz` | No |
 | `misskeyjp.com` | Yes |
 | `misso-pi.com` | No |
+| `misstter.com` | Yes |
 | `mist.so` | No |
 | `mistah-v.com` | No |
 | `mistelske.com` | No |
@@ -30735,6 +30739,7 @@ Here's a list of public Fediverse services.
 | `sheithens.online` | No |
 | `shela.nu` | No |
 | `shelldog.de` | No |
+| `shellgei.org` | No |
 | `shelter.moe` | No |
 | `shelter.social` | Yes |
 | `shelton.chat` | No |
@@ -34472,6 +34477,7 @@ Here's a list of public Fediverse services.
 | `tigerstyping.com` | No |
 | `tigger.ie` | No |
 | `tiggi.es` | No |
+| `tighnari.site` | No |
 | `tigr.space` | No |
 | `tigvarts.com` | No |
 | `tigwali.fr` | No |
@@ -39183,8 +39189,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,526 |
-| Normal | 29,614 |
+| Cloudflare | 9,528 |
+| Normal | 29,618 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
