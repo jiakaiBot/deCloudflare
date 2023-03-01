@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,839 |
-| social | 3,783 |
-| net | 2,973 |
+| com | 5,841 |
+| social | 3,784 |
+| net | 2,974 |
 | org | 2,087 |
 | de | 1,961 |
 
@@ -6021,6 +6021,7 @@ Here's a list of public Fediverse services.
 | `clubmer.com` | No |
 | `clubmontclair.com` | No |
 | `clubnf.us` | No |
+| `cluboftone.com` | No |
 | `clumsy.computer` | No |
 | `cluster-b.online` | No |
 | `clusterfog.com` | No |
@@ -23383,6 +23384,7 @@ Here's a list of public Fediverse services.
 | `nasface.cz` | No |
 | `nashe.be` | No |
 | `nashtodon.com` | No |
+| `nashvillecomedy.social` | No |
 | `naskya.net` | Yes |
 | `nasn.icu` | No |
 | `nasnfl.com` | No |
@@ -29672,6 +29674,7 @@ Here's a list of public Fediverse services.
 | `sagefather.tv` | Yes |
 | `sagephoenix.org` | No |
 | `sager.wang` | Yes |
+| `sageresearchmethods.com` | No |
 | `saghul.net` | Yes |
 | `sagt.xyz` | No |
 | `sahagyo.com` | No |
@@ -30759,6 +30762,7 @@ Here's a list of public Fediverse services.
 | `shinshyu.life` | No |
 | `shintarokurachi.tokyo` | No |
 | `shiny.gift` | No |
+| `shinymoose.net` | Yes |
 | `shinyuu.net` | No |
 | `shio.moe` | Yes |
 | `shiokazehs.jp` | Yes |
@@ -33018,6 +33022,7 @@ Here's a list of public Fediverse services.
 | `symphonie-of-code.fr` | No |
 | `symphora.com` | No |
 | `symposium.social` | Yes |
+| `symtrkl.gay` | No |
 | `syn.haus` | No |
 | `syn.im` | No |
 | `syn.social` | No |
@@ -39141,8 +39146,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,508 |
-| Normal | 29,590 |
+| Cloudflare | 9,509 |
+| Normal | 29,594 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
