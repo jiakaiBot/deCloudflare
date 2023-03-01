@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Fileupload through CloudFlare proxy stuck](https://github.com/BookStackApp/BookStack/issues/4079)
 - [Add an option to disable the compiled reader](https://github.com/kriszyp/cbor-x/issues/74)
 - [create additional storage gateways in case one is down or overloaded](https://github.com/hypercerts-org/hypercerts/issues/415)
 - [Iran firewall blocks my subdomain, in vless/trojan CDN configuration.](https://github.com/net4people/bbs/issues/218)
