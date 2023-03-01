@@ -6850,7 +6850,7 @@ Here's a list of public Fediverse services.
 | `crypto-libertarian.com` | No |
 | `crypto.church` | No |
 | `cryptoanarchy.rocks` | No |
-| `cryptocartel.social` | No |
+| `cryptocartel.social` | Yes |
 | `cryptodon.chat` | No |
 | `cryptodon.lol` | No |
 | `cryptodon.tokyo` | No |
@@ -34020,6 +34020,7 @@ Here's a list of public Fediverse services.
 | `thegamebreakers.net` | No |
 | `thegarage.world` | No |
 | `thegathering.social` | No |
+| `thegay.space` | No |
 | `thegear.page` | No |
 | `thegeekcast.com` | No |
 | `thegem.city` | No |
@@ -39182,7 +39183,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,525 |
+| Cloudflare | 9,526 |
 | Normal | 29,614 |
 
 
