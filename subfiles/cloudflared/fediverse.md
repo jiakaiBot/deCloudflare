@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,843 |
-| social | 3,784 |
+| social | 3,785 |
 | net | 2,975 |
 | org | 2,087 |
 | de | 1,961 |
@@ -26651,6 +26651,7 @@ Here's a list of public Fediverse services.
 | `pinc.tube` | No |
 | `pine.cab` | No |
 | `pinellas.space` | No |
+| `pinet.vn` | Yes |
 | `pinetree.ink` | No |
 | `pinewoodroad.net` | No |
 | `ping.moi` | No |
@@ -31796,6 +31797,7 @@ Here's a list of public Fediverse services.
 | `sorbonne-universite.fr` | Yes |
 | `sorcie.re` | No |
 | `soregashi.me` | No |
+| `sorgatronmedia.social` | No |
 | `soripants.com` | No |
 | `sornieth.xyz` | No |
 | `soscet.network` | No |
@@ -37143,6 +37145,7 @@ Here's a list of public Fediverse services.
 | `webdev189.tk` | No |
 | `webdevnerds.tech` | No |
 | `webdevs.social` | No |
+| `webelievein.love` | No |
 | `weber.fi.eu.org` | No |
 | `webfeed.me` | Yes |
 | `webfru.it` | No |
@@ -39150,8 +39153,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,513 |
-| Normal | 29,594 |
+| Cloudflare | 9,514 |
+| Normal | 29,596 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
