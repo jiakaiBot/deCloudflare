@@ -71,7 +71,6 @@ Here's a list of public Matrix services.
 | matrix.glasgow.social | No |
 | matrix.gnulinux.club | No |
 | matrix.grin.hu | No |
-| matrix.group.lt | Yes |
 | hackerspaces.be | No |
 | matrix.hadoly.fr | No |
 | chatserver.hashi.sbs | Yes |
@@ -80,6 +79,7 @@ Here's a list of public Matrix services.
 | synapse.hyteck.de | No |
 | matrix.jonasled.de | Yes |
 | junta.pl | Yes |
+| matrix.kiber-ogur4ik.space | Yes |
 | chat.librem.one | No |
 | matrix.libreon.fr | No |
 | matrix.llamarific.social | No |
