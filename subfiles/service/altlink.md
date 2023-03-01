@@ -57,15 +57,18 @@ Those people who [share Cloudflare links casually](../cloudflared/shared_mastodo
 
 ### How to Subscribe
 
-1. Follow the [AltLink Account](https://101010.pl/@mg). (if you [do not have Mastodon account](https://101010.pl/invite/txvFuk9h))
+1. **Follow** the [AltLink Account](https://101010.pl/@mg). (if you [do not have Mastodon account](https://101010.pl/invite/txvFuk9h))
   - Some instances such as [mastodon.social](https://github.com/mastodon/mastodon/issues/16480) are blocking Altlink.
 
-2. Send _any text_ as **direct** message to above account. (e.g. `@accountname ok`)
-  - And it will follow back you _instantly_ with intro message.
+2. Send _any text_ as **direct** ("Mentioned people only") message to above account.
+  - e.g. `@mg follow`
+  - And it will follow back you _instantly_ with introduction message.
     - If you're locking your account, please accept it's follow request otherwise it can't read your toots.
   - If you didn't got any reply make sure you are following it.
 
-3. When you share Cloudflared link, it will send `direct` message to you with information.
+3. You're all set!
+  - When you share Cloudflared link, it will send `direct` message to you with information.
+  - If you want to tune your preference, visit Settings (explained below)
 
 
 ### How to Unsubscribe
