@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Grafana 9.4 proxy issue](https://github.com/grafana/grafana/issues/63934)
 - [Fileupload through CloudFlare proxy stuck](https://github.com/BookStackApp/BookStack/issues/4079)
 - [Add an option to disable the compiled reader](https://github.com/kriszyp/cbor-x/issues/74)
 - [create additional storage gateways in case one is down or overloaded](https://github.com/hypercerts-org/hypercerts/issues/415)
