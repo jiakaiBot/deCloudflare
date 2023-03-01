@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Add an option to disable the compiled reader](https://github.com/kriszyp/cbor-x/issues/74)
 - [create additional storage gateways in case one is down or overloaded](https://github.com/hypercerts-org/hypercerts/issues/415)
 - [Iran firewall blocks my subdomain, in vless/trojan CDN configuration.](https://github.com/net4people/bbs/issues/218)
 - [start.js & app.js = Internal Server Error in production b/c Response header content-type is "text/html; charset=UTF-8"](https://github.com/sveltejs/kit/issues/9248)
