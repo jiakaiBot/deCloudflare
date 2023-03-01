@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,841 |
+| com | 5,843 |
 | social | 3,784 |
-| net | 2,974 |
+| net | 2,975 |
 | org | 2,087 |
 | de | 1,961 |
 
@@ -6163,6 +6163,7 @@ Here's a list of public Fediverse services.
 | `cofespace.com` | No |
 | `cofeti.me` | No |
 | `coffee-break.at` | No |
+| `coffee-break.cc` | Yes |
 | `coffeeandcode.com` | No |
 | `coffeechat.social` | No |
 | `coffeechords.com` | No |
@@ -17354,6 +17355,7 @@ Here's a list of public Fediverse services.
 | `khomri.com` | No |
 | `khorneflak.es` | No |
 | `khpape.blog` | No |
+| `khsmty.com` | Yes |
 | `kianting.info` | No |
 | `kiasyn.com` | Yes |
 | `kiber-ogur4ik.space` | Yes |
@@ -20308,6 +20310,7 @@ Here's a list of public Fediverse services.
 | `masatodon.click` | No |
 | `masatodon.com` | No |
 | `masatodon.jp` | No |
+| `masatodon.net` | No |
 | `masatoshi-yokota.com` | No |
 | `masawada.me` | No |
 | `maschinendeck.org` | No |
@@ -23583,7 +23586,7 @@ Here's a list of public Fediverse services.
 | `nekokawa.net` | Yes |
 | `nekomimi.jp` | No |
 | `nekomimi.yokohama` | Yes |
-| `nekomin.jp` | No |
+| `nekomin.jp` | Yes |
 | `nekomiya.net` | Yes |
 | `nekonekoserver.net` | Yes |
 | `nekonet.cyou` | Yes |
@@ -29592,6 +29595,7 @@ Here's a list of public Fediverse services.
 | `s-m.ac` | No |
 | `s-n.me` | No |
 | `s-ninja.net` | No |
+| `s-plash.com` | Yes |
 | `s-t.club` | No |
 | `s-tomo.jp` | No |
 | `s-up.net` | No |
@@ -39146,7 +39150,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,509 |
+| Cloudflare | 9,513 |
 | Normal | 29,594 |
 
 
