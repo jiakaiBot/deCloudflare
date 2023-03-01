@@ -1992,6 +1992,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChitOoLay8@twitter](https://twitter.com/ChitOoLay8/status/1393973628966899713) | advertise |
 | [ChitSei84965656@twitter](https://twitter.com/ChitSei84965656/status/1498650925619204097) | advertise |
 | [ChitTha97530715@twitter](https://twitter.com/ChitTha97530715/status/1393573791423373312) | advertise |
+| [ChitTu24321049@twitter](https://twitter.com/ChitTu24321049/status/1630951543548542977) | advertise |
 | [Chittu30046511@twitter](https://twitter.com/Chittu30046511/status/1390674946443988996) | advertise |
 | [ChitWinKo17@twitter](https://twitter.com/ChitWinKo17/status/1403612539221471233) | advertise |
 | [chiwebmgmt@twitter](https://twitter.com/chiwebmgmt/status/1427620579910299663) | advertise |
@@ -2156,8 +2157,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3086,6 +3087,7 @@ Do not create new issue or we will close it as duplicate.
 | [FarhanAacin@twitter](https://twitter.com/FarhanAacin/status/1379323075624202240) | advertise |
 | [Farhatasli@twitter](https://twitter.com/Farhatasli/status/1569995471455936512) | advertise |
 | [fariborzn1@twitter](https://twitter.com/fariborzn1/status/1391848602469814272) | advertise |
+| [farid94673029@twitter](https://twitter.com/farid94673029/status/1630856507859279874) | advertise |
 | [faridnatasya1@twitter](https://twitter.com/faridnatasya1/status/1607350341330427907) | advertise |
 | [fariel0612@twitter](https://twitter.com/fariel0612/status/1577799553520381952) | advertise |
 | [Faris42069@twitter](https://twitter.com/Faris42069/status/1599063038560448513) | advertise |
@@ -3231,6 +3233,7 @@ Do not create new issue or we will close it as duplicate.
 | [fuckhilm@twitter](https://twitter.com/fuckhilm/status/1518916598878261248) | advertise |
 | [FuckThong8@twitter](https://twitter.com/FuckThong8/status/1389450074309099521) | advertise |
 | [fuckwoahfaith@twitter](https://twitter.com/fuckwoahfaith/status/1528038970273177601) | advertise |
+| [fullheartsam@twitter](https://twitter.com/fullheartsam/status/1630951465131843586) | advertise |
 | [Fullmoo48883890@twitter](https://twitter.com/Fullmoo48883890/status/1392352133417078793) | advertise |
 | [fullOspace@twitter](https://twitter.com/fullOspace/status/1378241319634493443) | advertise |
 | [FumihikoHatta@twitter](https://twitter.com/FumihikoHatta/status/1495165291273326595) | advertise |
@@ -7390,6 +7393,7 @@ Do not create new issue or we will close it as duplicate.
 | [nadi_saint@twitter](https://twitter.com/nadi_saint/status/1396088469584105476) | advertise |
 | [nadxmilbah@twitter](https://twitter.com/nadxmilbah/status/1579652507797979136) | advertise |
 | [NafisMuzafar@twitter](https://twitter.com/NafisMuzafar/status/1531926492334022656) | advertise |
+| [nag1_yuu@twitter](https://twitter.com/nag1_yuu/status/1630945715685052416) | advertise |
 | [Nage58788383@twitter](https://twitter.com/Nage58788383/status/1378017876100096005) | advertise |
 | [Nage9940790406@twitter](https://twitter.com/Nage9940790406/status/1496502930286993410) | advertise |
 | [Nagusame_2@twitter](https://twitter.com/Nagusame_2/status/1404261140360691712) | advertise |
