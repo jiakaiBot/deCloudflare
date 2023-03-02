@@ -753,6 +753,7 @@ ns0246.secondary.cloudflare.com
 ns0249.secondary.cloudflare.com
 ns0251.secondary.cloudflare.com
 ns1.harley.ns.cloudflare.com
+ns2.cloudflare.com
 ns2.love.ns.cloudflare.com
 ns7.cloudflare.com
 nucum.ns.cloudflare.com
