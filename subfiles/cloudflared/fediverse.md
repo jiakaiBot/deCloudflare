@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,860 |
+| com | 5,861 |
 | social | 3,790 |
-| net | 2,988 |
+| net | 2,989 |
 | org | 2,091 |
 | de | 1,964 |
 
@@ -4026,6 +4026,7 @@ Here's a list of public Fediverse services.
 | `bloodmoon-network.de` | Yes |
 | `bloom.casa` | Yes |
 | `bloom.surf` | No |
+| `bloomanalytics.net` | No |
 | `bloomfield.social` | Yes |
 | `blooming-land.icu` | Yes |
 | `bloonface.com` | No |
@@ -5714,6 +5715,7 @@ Here's a list of public Fediverse services.
 | `christianburkh.art` | No |
 | `christianity.business` | Yes |
 | `christianjunk.de` | No |
+| `christiankracher.com` | No |
 | `christianwkaiser.de` | No |
 | `christmas.tattoo` | No |
 | `christmas2023.au` | No |
@@ -20074,7 +20076,7 @@ Here's a list of public Fediverse services.
 | `malmorrow.com` | No |
 | `malnacido.com` | No |
 | `malolepszy.org` | No |
-| `malone.social` | No |
+| `malone.social` | Yes |
 | `malsum.org` | No |
 | `maltech.io` | Yes |
 | `maltestock.com` | No |
@@ -31100,6 +31102,7 @@ Here's a list of public Fediverse services.
 | `simstodon.com` | No |
 | `simulacra.social` | Yes |
 | `simulacron.de` | No |
+| `simulacrum-emporium.eu` | No |
 | `sina.moe` | No |
 | `sinax.be` | No |
 | `sinblr.com` | No |
@@ -39225,8 +39228,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,537 |
-| Normal | 29,645 |
+| Cloudflare | 9,538 |
+| Normal | 29,647 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
