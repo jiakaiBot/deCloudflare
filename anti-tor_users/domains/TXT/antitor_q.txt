@@ -195,7 +195,6 @@ pune.quikr.com
 qantashols.co.uk
 qcsignscharlotte.com
 qebay.com
-qh88zalo.com
 qliktag.com
 qneservice.com
 qpython.club
@@ -276,6 +275,7 @@ areyourapturereadynow2.qcpsystems.com
 audienceview.queue-it.net
 bmms.quantori.com
 coronacheck.questio.care
+cpfc.queue-it.net
 criticaldesign.studio.qmail.com.tr
 dev.eforms.qfcra.com
 docs.qcmtech.com
@@ -294,6 +294,7 @@ qmars.com
 qp-works.com
 qpa-p1.qvidian.com
 qralert.ro
+qtreserv.q-revo-test.com
 quadram.ac.uk
 quakemedia.com
 qualitycleaningservice.in
@@ -303,6 +304,7 @@ quanticosecurity.co.za
 quantum-computing-services.com
 quartzoamazonia.com.quartzocommerce.com
 queleerhoy.com
+quelltech.shop
 questns.com
 quicksecurity.ro
 quiqmeds.com
@@ -310,6 +312,7 @@ qwords.com
 reception.q-revo.com
 sechub-no-sandbox.develop.fna.iot.qbeyond.tech
 sechub.develop.fna.iot.qbeyond.tech
+server2674.quanticdynamics.cloud
 statistique.quebec.ca
 store.quintadelsol.com
 ticketmasterfr.queue-it.net
