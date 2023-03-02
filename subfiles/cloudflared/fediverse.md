@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,859 |
+| com | 5,860 |
 | social | 3,790 |
-| net | 2,987 |
+| net | 2,988 |
 | org | 2,091 |
 | de | 1,964 |
 
@@ -22936,6 +22936,7 @@ Here's a list of public Fediverse services.
 | `munochi.moe` | Yes |
 | `munroe.ch` | Yes |
 | `munsell.io` | Yes |
+| `munskey.net` | No |
 | `munster.dev` | Yes |
 | `muon.social` | No |
 | `muppetlabs.com` | No |
@@ -35256,6 +35257,7 @@ Here's a list of public Fediverse services.
 | `triggeredtux.com` | No |
 | `triggerhub.ru` | No |
 | `triggerphra.se` | No |
+| `trigonoretrism.com` | No |
 | `trillion.city` | No |
 | `trillion.social` | No |
 | `trillium7.com` | No |
@@ -38700,6 +38702,7 @@ Here's a list of public Fediverse services.
 | `yttrx.com` | Yes |
 | `yu10g.com` | No |
 | `yuangezhizao.cn` | Yes |
+| `yuanzu.ml` | No |
 | `yubal.blog` | No |
 | `yude.jp` | Yes |
 | `yude.moe` | Yes |
@@ -39223,7 +39226,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,537 |
-| Normal | 29,642 |
+| Normal | 29,645 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
