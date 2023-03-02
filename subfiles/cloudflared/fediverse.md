@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,859 |
 | social | 3,790 |
-| net | 2,985 |
+| net | 2,986 |
 | org | 2,091 |
 | de | 1,964 |
 
@@ -13725,6 +13725,7 @@ Here's a list of public Fediverse services.
 | `hallole.eu` | No |
 | `hallsofamenti.io` | Yes |
 | `hallucigenia.ga` | No |
+| `halodub.xyz` | No |
 | `halt.cl` | Yes |
 | `halvbrax.se` | No |
 | `ham.land` | No |
@@ -17439,6 +17440,7 @@ Here's a list of public Fediverse services.
 | `kilobaser.info` | No |
 | `kilobyte.club` | No |
 | `kiloduck.com` | Yes |
+| `kimama-lab.net` | No |
 | `kimberlychase.com` | No |
 | `kimberlyhirsh.com` | No |
 | `kimharding.net` | No |
@@ -34661,6 +34663,7 @@ Here's a list of public Fediverse services.
 | `tmpim.com` | Yes |
 | `tmprs.net` | No |
 | `tmspk.net` | Yes |
+| `tmux.me` | No |
 | `tnd.lol` | No |
 | `tneal.org` | No |
 | `tnem.dev` | Yes |
@@ -39219,7 +39222,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,538 |
-| Normal | 29,637 |
+| Normal | 29,640 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
