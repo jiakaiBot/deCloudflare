@@ -74,13 +74,13 @@ Here's a list of public Matrix services.
 | matrix.group.lt | Yes |
 | hackerspaces.be | No |
 | matrix.hadoly.fr | No |
-| chatserver.hashi.sbs | Yes |
 | hot-chilli.im | No |
 | houtworm.im | No |
 | synapse.hyteck.de | No |
 | matrix.jonasled.de | Yes |
 | junta.pl | Yes |
 | matrix.kiber-ogur4ik.space | Yes |
+| kitsunes.club | Yes |
 | chat.librem.one | No |
 | matrix.libreon.fr | No |
 | matrix.llamarific.social | No |
