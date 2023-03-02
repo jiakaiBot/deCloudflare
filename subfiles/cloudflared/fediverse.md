@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,861 |
+| com | 5,862 |
 | social | 3,790 |
 | net | 2,989 |
 | org | 2,091 |
@@ -17252,6 +17252,7 @@ Here's a list of public Fediverse services.
 | `kemoner-don.tokyo` | No |
 | `kemonine.info` | Yes |
 | `kemono-friends.info` | Yes |
+| `kemono.ink` | No |
 | `kemonodon.club` | No |
 | `kemonomimifan.club` | No |
 | `kemonox.jp` | No |
@@ -25272,6 +25273,7 @@ Here's a list of public Fediverse services.
 | `onlinefriends.club` | Yes |
 | `onlinegemein.de` | No |
 | `onlinekirche.net` | No |
+| `onlinesession.app` | Yes |
 | `onlinetrainer.es` | No |
 | `onlyarts.social` | No |
 | `onlybsds.com` | Yes |
@@ -27930,6 +27932,7 @@ Here's a list of public Fediverse services.
 | `qrpth.eu` | No |
 | `qrz.today` | Yes |
 | `qseco.fr` | Yes |
+| `qsgzone.com` | No |
 | `qstars.it` | Yes |
 | `qtg.fr` | No |
 | `qth.fr` | No |
@@ -35345,6 +35348,7 @@ Here's a list of public Fediverse services.
 | `trpg-link.tk` | No |
 | `trpg-o.xyz` | No |
 | `trpg.cloud` | Yes |
+| `trpger.us` | No |
 | `trshnet.de` | No |
 | `trtl.in` | No |
 | `tru.io` | Yes |
@@ -37946,6 +37950,7 @@ Here's a list of public Fediverse services.
 | `wtk.org` | No |
 | `wtr.app` | Yes |
 | `wtsnjp.com` | No |
+| `wtwo.me` | Yes |
 | `wtyl.live` | Yes |
 | `wuast24.de` | Yes |
 | `wuatek.is` | No |
@@ -39228,8 +39233,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,538 |
-| Normal | 29,647 |
+| Cloudflare | 9,540 |
+| Normal | 29,650 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
