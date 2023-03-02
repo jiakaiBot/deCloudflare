@@ -523,6 +523,7 @@ Do not create new issue or we will close it as duplicate.
 | [Alekubanng@twitter](https://twitter.com/Alekubanng/status/1587168971165503492) | advertise |
 | [Ales19412051@twitter](https://twitter.com/Ales19412051/status/1407593618949345287) | advertise |
 | [Alex09781100@twitter](https://twitter.com/Alex09781100/status/1572045613944156160) | advertise |
+| [alex2_mitri@twitter](https://twitter.com/alex2_mitri/status/1631195796900134912) | advertise |
 | [alex14387982@twitter](https://twitter.com/alex14387982/status/1389461110391144448) | advertise |
 | [Alex18726692@twitter](https://twitter.com/Alex18726692/status/1396832751014137865) | advertise |
 | [alex39206850@twitter](https://twitter.com/alex39206850/status/1401387007008456707) | advertise |
@@ -3865,6 +3866,7 @@ Do not create new issue or we will close it as duplicate.
 | [hiro3pc@twitter](https://twitter.com/hiro3pc/status/1520371268859891712) | advertise |
 | [hisham_ali22@twitter](https://twitter.com/hisham_ali22/status/1518615042815668225) | advertise |
 | [hishertweets@twitter](https://twitter.com/hishertweets/status/1498862531997503488) | advertise |
+| [hitschieu@twitter](https://twitter.com/hitschieu/status/1631172281455067138) | advertise |
 | [Hiu34261835@twitter](https://twitter.com/Hiu34261835/status/1579893113287766017) | advertise |
 | [Hiu36827414@twitter](https://twitter.com/Hiu36827414/status/1391153248950644740) | advertise |
 | [Hiu62637495@twitter](https://twitter.com/Hiu62637495/status/1401626342945296385) | advertise |
@@ -6347,6 +6349,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mahatvavirya@twitter](https://twitter.com/Mahatvavirya/status/1548499205588602882) | advertise |
 | [mahdi0414R@twitter](https://twitter.com/mahdi0414R/status/1575619195760361473) | advertise |
 | [Mahdideaa99@twitter](https://twitter.com/Mahdideaa99/status/1550085356355305473) | advertise |
+| [MahdiMaher8@twitter](https://twitter.com/MahdiMaher8/status/1631188947362619394) | advertise |
 | [Mahdimoti3@twitter](https://twitter.com/Mahdimoti3/status/1578698770740809730) | advertise |
 | [MahdiNa71942712@twitter](https://twitter.com/MahdiNa71942712/status/1556547645392420868) | advertise |
 | [mahedi560530@twitter](https://twitter.com/mahedi560530/status/1558158032265129985) | advertise |
@@ -7800,6 +7803,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynPh41858941@twitter](https://twitter.com/NguynPh41858941/status/1383695521370415110) | advertise |
 | [nguynph58141590@twitter](https://twitter.com/nguynph58141590/status/1469118260088303618) | advertise |
 | [NguynQu04717393@twitter](https://twitter.com/NguynQu04717393/status/1387780865682407427) | advertise |
+| [NguynQu40675183@twitter](https://twitter.com/NguynQu40675183/status/1631196529326190592) | advertise |
 | [NguynQu56539077@twitter](https://twitter.com/NguynQu56539077/status/1558364116133498881) | advertise |
 | [NguynQu58009737@twitter](https://twitter.com/NguynQu58009737/status/1556882018386214912) | advertise |
 | [NguynQu80970835@twitter](https://twitter.com/NguynQu80970835/status/1407568252444676096) | advertise |
