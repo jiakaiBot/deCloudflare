@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,853 |
-| social | 3,788 |
-| net | 2,981 |
+| com | 5,854 |
+| social | 3,789 |
+| net | 2,982 |
 | org | 2,090 |
 | de | 1,964 |
 
@@ -4981,6 +4981,7 @@ Here's a list of public Fediverse services.
 | `cancn.com` | No |
 | `cancoillotte.space` | No |
 | `cancri.me` | No |
+| `candide.media` | No |
 | `candim.eu` | Yes |
 | `candycorn.club` | No |
 | `candypolis.app` | No |
@@ -6250,6 +6251,7 @@ Here's a list of public Fediverse services.
 | `colorcoded.space` | No |
 | `colorfur.com` | No |
 | `colorid.es` | Yes |
+| `colovo.com` | No |
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
@@ -14961,6 +14963,7 @@ Here's a list of public Fediverse services.
 | `iamernie.ca` | Yes |
 | `iametza.com` | No |
 | `iametza.eus` | No |
+| `iamincredibly.gay` | Yes |
 | `iamjacke.com` | Yes |
 | `iamjannik.me` | No |
 | `iamkonstantin.eu` | Yes |
@@ -15922,7 +15925,6 @@ Here's a list of public Fediverse services.
 | `iwcwatches.xyz` | No |
 | `iwentontheinternet.com` | No |
 | `iwh12.jp` | No |
-| `iwillescape.com` | No |
 | `iwolfking.xyz` | Yes |
 | `iworkinpixels.com` | No |
 | `ix.is` | Yes |
@@ -27096,6 +27098,7 @@ Here's a list of public Fediverse services.
 | `poiar.es` | Yes |
 | `poincare.one` | No |
 | `point.community` | Yes |
+| `pointflottant.social` | Yes |
 | `pointless.net` | No |
 | `pointless.one` | No |
 | `pointofviewpoint.com` | No |
@@ -29566,6 +29569,7 @@ Here's a list of public Fediverse services.
 | `rxtx.nl` | No |
 | `rxtx5.xyz` | No |
 | `ry.xxx` | No |
+| `ryan-chartier.net` | No |
 | `ryan.su` | Yes |
 | `ryan77627.xyz` | No |
 | `ryanak.xyz` | Yes |
@@ -31397,6 +31401,7 @@ Here's a list of public Fediverse services.
 | `smdr.io` | Yes |
 | `sme.li` | No |
 | `smeap.com` | No |
+| `smeets.ee` | Yes |
 | `smeets.re` | Yes |
 | `smekal.at` | No |
 | `smelly.today` | No |
@@ -31410,6 +31415,7 @@ Here's a list of public Fediverse services.
 | `smilodon.social` | No |
 | `smilton.net` | No |
 | `smisc.net` | Yes |
+| `smitenet.com` | No |
 | `smith.berlin` | No |
 | `smither.org` | No |
 | `smithfam.info` | No |
@@ -32305,7 +32311,7 @@ Here's a list of public Fediverse services.
 | `starshipcritic.space` | No |
 | `starshipjennings.com` | No |
 | `starside.social` | No |
-| `starsky.me` | Yes |
+| `starsky.me` | No |
 | `start9labs.com` | Yes |
 | `startide.jp` | No |
 | `startracks.club` | No |
@@ -34626,7 +34632,7 @@ Here's a list of public Fediverse services.
 | `tmichellemoore.com` | No |
 | `tmin.cf` | No |
 | `tmin.ml` | No |
-| `tmint.social` | No |
+| `tmint.social` | Yes |
 | `tmkis.cloud` | No |
 | `tmkis.social` | No |
 | `tmm.cx` | No |
@@ -39190,8 +39196,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,528 |
-| Normal | 29,619 |
+| Cloudflare | 9,531 |
+| Normal | 29,622 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
