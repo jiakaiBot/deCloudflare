@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,854 |
 | social | 3,789 |
-| net | 2,982 |
-| org | 2,090 |
+| net | 2,983 |
+| org | 2,091 |
 | de | 1,964 |
 
 
@@ -3090,6 +3090,7 @@ Here's a list of public Fediverse services.
 | `barelysocial.org` | No |
 | `barfnoises.com` | No |
 | `bari-ikutsu.com` | No |
+| `barine.co` | Yes |
 | `barippi.com` | No |
 | `bark.house` | No |
 | `bark.lgbt` | Yes |
@@ -21885,6 +21886,7 @@ Here's a list of public Fediverse services.
 | `miria.love` | No |
 | `mirko-schenk.de` | No |
 | `mirkwood.io` | No |
+| `miro-sv.net` | No |
 | `mironside.com` | No |
 | `mirr0r.city` | No |
 | `mirror-kt.dev` | Yes |
@@ -27194,6 +27196,7 @@ Here's a list of public Fediverse services.
 | `ponies.social` | No |
 | `ponpon.tk` | No |
 | `ponseta.ga` | No |
+| `pont-bl.eu.org` | No |
 | `pontalk.com` | No |
 | `pontapreta.net` | No |
 | `pontofixo.net.br` | No |
@@ -27323,6 +27326,7 @@ Here's a list of public Fediverse services.
 | `potaodon.audio` | No |
 | `potate.space` | No |
 | `potateo.com` | No |
+| `potato.ski` | No |
 | `potato.technology` | No |
 | `potatofrom.space` | No |
 | `potatoxel.org` | No |
@@ -30878,7 +30882,7 @@ Here's a list of public Fediverse services.
 | `shotatube.xyz` | Yes |
 | `shotgun.monster` | No |
 | `shotsfi.red` | No |
-| `shoujo.xyz` | Yes |
+| `shoujo.xyz` | No |
 | `shouldagoneoffroad.com` | No |
 | `shouldibuyahorse.com` | No |
 | `shoutbox.blog` | No |
@@ -31540,6 +31544,7 @@ Here's a list of public Fediverse services.
 | `snowdin.town` | No |
 | `snowdon.jp` | No |
 | `snowdon.social` | No |
+| `snowdrop.cloud` | No |
 | `snowfrost.garden` | No |
 | `snowgoons.ro` | Yes |
 | `snowii.moe` | Yes |
@@ -33721,7 +33726,7 @@ Here's a list of public Fediverse services.
 | `tepes.space` | No |
 | `tepewu.dev` | No |
 | `tepewu.pl` | No |
-| `tepis.me` | No |
+| `tepis.me` | Yes |
 | `tepitus.de` | No |
 | `teppelin.fr` | No |
 | `teppotastic.co.uk` | No |
@@ -35011,6 +35016,7 @@ Here's a list of public Fediverse services.
 | `tormakristof.eu` | Yes |
 | `tormentasolar.win` | No |
 | `tormentnexus.dev` | No |
+| `toromaguro.xyz` | Yes |
 | `toromino.de` | Yes |
 | `torontomusic.cloud` | No |
 | `torr.red` | No |
@@ -39196,8 +39202,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,531 |
-| Normal | 29,622 |
+| Cloudflare | 9,533 |
+| Normal | 29,626 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
