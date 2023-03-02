@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,854 |
-| social | 3,789 |
-| net | 2,983 |
+| com | 5,859 |
+| social | 3,790 |
+| net | 2,985 |
 | org | 2,091 |
 | de | 1,964 |
 
@@ -5708,6 +5708,7 @@ Here's a list of public Fediverse services.
 | `chrisradford.social` | No |
 | `chrissabato.com` | No |
 | `christenson.family` | Yes |
+| `christenson.social` | Yes |
 | `christian-vogeley.de` | No |
 | `christian-vogeley.eu` | No |
 | `christianburkh.art` | No |
@@ -7050,6 +7051,7 @@ Here's a list of public Fediverse services.
 | `cuthrell.com` | No |
 | `cutie-pies.club` | Yes |
 | `cutie.cafe` | No |
+| `cutie.city` | No |
 | `cutie.express` | No |
 | `cutie.live` | No |
 | `cutie.space` | No |
@@ -11304,6 +11306,7 @@ Here's a list of public Fediverse services.
 | `fnord.net.au` | No |
 | `fnordica.de` | No |
 | `fnordon.de` | No |
+| `fnukhosting.net` | No |
 | `fnwl.uk` | No |
 | `fnx.li` | No |
 | `fo.am` | No |
@@ -12310,7 +12313,7 @@ Here's a list of public Fediverse services.
 | `gapp-hsg.eu` | No |
 | `gar.dev` | No |
 | `garakuta.online` | No |
-| `garapagos.online` | Yes |
+| `garapagos.online` | No |
 | `garate.email` | No |
 | `garbage-juice.com` | No |
 | `garbagefire.io` | No |
@@ -13918,6 +13921,7 @@ Here's a list of public Fediverse services.
 | `haxe.social` | No |
 | `haxim.us` | No |
 | `haxnpen.com` | No |
+| `haxo.cz` | No |
 | `haxors.com` | Yes |
 | `haxx.us` | No |
 | `haxx0r.me` | No |
@@ -15341,6 +15345,7 @@ Here's a list of public Fediverse services.
 | `indiegames.online` | No |
 | `indiehackers.social` | Yes |
 | `indiepocalypse.social` | No |
+| `indiepop.band` | No |
 | `indietz.icu` | Yes |
 | `indieweb.life` | No |
 | `indieweb.me` | No |
@@ -15811,6 +15816,7 @@ Here's a list of public Fediverse services.
 | `issue.network` | No |
 | `ist-ur.org` | No |
 | `ist.social` | No |
+| `istanza.ch` | No |
 | `istheguy.com` | No |
 | `isthelaststop.com` | No |
 | `istheshit.online` | No |
@@ -23436,6 +23442,7 @@ Here's a list of public Fediverse services.
 | `nathanielknight.ca` | No |
 | `nathankunicki.com` | No |
 | `nathanmcrae.name` | No |
+| `nathannelson.co.uk` | Yes |
 | `nathansw.de` | Yes |
 | `nathrakh.de` | No |
 | `natio.ovh` | No |
@@ -24487,6 +24494,7 @@ Here's a list of public Fediverse services.
 | `norze.co` | Yes |
 | `norze.world` | No |
 | `nos.bzh` | No |
+| `nos.pub` | No |
 | `nosceon.net` | Yes |
 | `noscraft.cf` | No |
 | `nosgustalinux.es` | No |
@@ -29181,6 +29189,7 @@ Here's a list of public Fediverse services.
 | `robtarr.net` | No |
 | `robutti.me` | No |
 | `robw.me` | No |
+| `robzazueta.com` | No |
 | `roc.social` | Yes |
 | `rocaguinarda.org` | No |
 | `roccoli-b.com` | No |
@@ -30450,6 +30459,7 @@ Here's a list of public Fediverse services.
 | `seewindows.com` | No |
 | `segeln.social` | No |
 | `seglerinfo.social` | No |
+| `segment7.net` | No |
 | `segu-info.com.ar` | Yes |
 | `sehfahrten.de` | No |
 | `sehnot.net` | No |
@@ -34719,6 +34729,7 @@ Here's a list of public Fediverse services.
 | `toki.social` | No |
 | `tokimiss.club` | No |
 | `tokler.com` | No |
+| `tokless.com` | No |
 | `toktan.org` | Yes |
 | `tokudan.de` | No |
 | `tokyocameraclub.com` | No |
@@ -36818,6 +36829,7 @@ Here's a list of public Fediverse services.
 | `volzel.net` | No |
 | `von.zone` | No |
 | `vonhaller.com` | No |
+| `vonschack.com` | No |
 | `vonsee.de` | No |
 | `vonste.in` | No |
 | `voomer.co.ke` | No |
@@ -38100,6 +38112,7 @@ Here's a list of public Fediverse services.
 | `xhec.dev` | No |
 | `xhrpb.com` | No |
 | `xi.ht` | No |
+| `xiachong.ltd` | Yes |
 | `xianlandia.com` | No |
 | `xianon.net` | Yes |
 | `xiaoyuanvc.com` | No |
@@ -38136,6 +38149,7 @@ Here's a list of public Fediverse services.
 | `xleute.de` | No |
 | `xlii.social` | No |
 | `xlnx.uk` | No |
+| `xm-xm.com` | Yes |
 | `xmanifesto.club` | No |
 | `xmastd.info` | No |
 | `xmatrix.com` | No |
@@ -38745,6 +38759,7 @@ Here's a list of public Fediverse services.
 | `yurusanp.org` | Yes |
 | `yuruyuri.family` | No |
 | `yusaku.social` | No |
+| `yussuv.com` | Yes |
 | `yusuf.fyi` | No |
 | `yusufipek.me` | No |
 | `yusuke.pub` | Yes |
@@ -38829,6 +38844,7 @@ Here's a list of public Fediverse services.
 | `zaisu-club.xyz` | Yes |
 | `zaitcev.nu` | No |
 | `zak.ee` | No |
+| `zakariao.nl` | Yes |
 | `zaksoup.club` | No |
 | `zaktakespictures.com` | Yes |
 | `zakto.pw` | Yes |
@@ -39202,8 +39218,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,533 |
-| Normal | 29,626 |
+| Cloudflare | 9,538 |
+| Normal | 29,637 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
