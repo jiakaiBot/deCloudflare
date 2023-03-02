@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [1.14.2 sniffer 出错后导致网站访问失败](https://github.com/MetaCubeX/Clash.Meta/issues/420)
 - [cloudflare: could not find the start of authority for _acme-challenge](https://github.com/vancluever/terraform-provider-acme/issues/288)
 - [Grafana 9.4 proxy issue](https://github.com/grafana/grafana/issues/63934)
 - [Fileupload through CloudFlare proxy stuck](https://github.com/BookStackApp/BookStack/issues/4079)
