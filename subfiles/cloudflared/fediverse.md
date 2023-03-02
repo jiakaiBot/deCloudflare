@@ -10245,6 +10245,7 @@ Here's a list of public Fediverse services.
 | `expressional.social` | Yes |
 | `expshift.com` | No |
 | `exquisite.social` | No |
+| `exs.gay` | No |
 | `ext.network` | No |
 | `extec.uk` | No |
 | `extinctionrebellion.fr` | No |
@@ -39190,7 +39191,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,528 |
-| Normal | 29,618 |
+| Normal | 29,619 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
