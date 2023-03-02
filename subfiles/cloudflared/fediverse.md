@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,859 |
 | social | 3,790 |
-| net | 2,986 |
+| net | 2,987 |
 | org | 2,091 |
 | de | 1,964 |
 
@@ -7891,7 +7891,7 @@ Here's a list of public Fediverse services.
 | `delduca.casa` | Yes |
 | `delepine.info` | No |
 | `deleteyourfacebook.today` | No |
-| `deli.st` | Yes |
+| `deli.st` | No |
 | `delic.fi` | No |
 | `delicesbdsm.fr` | Yes |
 | `delire.party` | No |
@@ -38428,6 +38428,7 @@ Here's a list of public Fediverse services.
 | `yamachan.org` | No |
 | `yamagadon.com` | No |
 | `yamaha.lol` | Yes |
+| `yamakakedon.net` | No |
 | `yamaken.jp` | Yes |
 | `yamako-ya.com` | No |
 | `yamakusa.net` | Yes |
@@ -39221,8 +39222,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,538 |
-| Normal | 29,640 |
+| Cloudflare | 9,537 |
+| Normal | 29,642 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
