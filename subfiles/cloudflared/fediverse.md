@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,863 |
+| com | 5,865 |
 | social | 3,790 |
-| net | 2,990 |
+| net | 2,992 |
 | org | 2,091 |
 | de | 1,964 |
 
@@ -2951,6 +2951,7 @@ Here's a list of public Fediverse services.
 | `badgirls.org.uk` | No |
 | `badhills.de` | No |
 | `badly.co` | Yes |
+| `badonkahonk.com` | No |
 | `badpacman.io` | Yes |
 | `badpixels.be` | No |
 | `badposts.net` | No |
@@ -7661,6 +7662,7 @@ Here's a list of public Fediverse services.
 | `dawdling.net` | No |
 | `dawidpotocki.com` | Yes |
 | `dax.moe` | No |
+| `dayaman.work` | No |
 | `daydream.cafe` | No |
 | `daytongang.social` | No |
 | `dayvancowboy.net` | Yes |
@@ -9850,6 +9852,7 @@ Here's a list of public Fediverse services.
 | `eorzea.photos` | Yes |
 | `eorzea.social` | No |
 | `eoscn.club` | No |
+| `eostagram.com` | Yes |
 | `eotr.net` | No |
 | `eox2.com` | Yes |
 | `eozygodon.com` | No |
@@ -21759,6 +21762,7 @@ Here's a list of public Fediverse services.
 | `mikunet.xyz` | No |
 | `mikura.cloud` | No |
 | `mikuspot.net` | No |
+| `mikuta0407.net` | No |
 | `milchreislieferei.de` | No |
 | `mildcube.social` | No |
 | `mildlyfunctional.gay` | No |
@@ -26502,6 +26506,7 @@ Here's a list of public Fediverse services.
 | `pgw.jp` | No |
 | `ph.social` | Yes |
 | `ph3j.com` | No |
+| `pha.one` | Yes |
 | `phal.io` | No |
 | `phanisvara.com` | No |
 | `phantasma.cloud` | Yes |
@@ -29173,6 +29178,7 @@ Here's a list of public Fediverse services.
 | `robertparker.se` | No |
 | `robertsasuke.com` | Yes |
 | `robertwgehl.org` | No |
+| `robflop.me` | Yes |
 | `robin.software` | Yes |
 | `robincussol.com` | No |
 | `robinjanssens.com` | Yes |
@@ -33411,6 +33417,7 @@ Here's a list of public Fediverse services.
 | `tara.social` | No |
 | `tarasis.net` | Yes |
 | `tarasupadon.com` | No |
+| `tarbin.net` | No |
 | `tardar.social` | No |
 | `tardis.guide` | Yes |
 | `tardis.pw` | No |
@@ -35830,6 +35837,7 @@ Here's a list of public Fediverse services.
 | `uff.rip` | No |
 | `ufm.lol` | No |
 | `ufm.su` | No |
+| `ufoi.info` | No |
 | `ufoo9k.space` | Yes |
 | `ug-mayen.de` | No |
 | `uggs.io` | No |
@@ -38462,6 +38470,7 @@ Here's a list of public Fediverse services.
 | `yamr.cc` | No |
 | `yams.lol` | Yes |
 | `yan.io` | No |
+| `yancya.club` | No |
 | `yandere.cc` | Yes |
 | `yang.social` | No |
 | `yanick.ca` | No |
@@ -39241,8 +39250,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,547 |
-| Normal | 29,651 |
+| Cloudflare | 9,550 |
+| Normal | 29,657 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
