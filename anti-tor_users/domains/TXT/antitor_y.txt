@@ -423,6 +423,7 @@ cdn.hss.youforce.biz
 cert.backoffice.yape.com.pe
 coinbase-pro-login-account.yahoosites.com
 common-api-eu-cf.yepgarage.com
+cpcalendars.yamatotakeru.tokyo
 discourse.yatahonga.com
 dms-abof74q8xxreport.wc.yahoodns.net
 er-addon.yesbank.in
@@ -445,6 +446,7 @@ mhome.yottagames.com
 mng.yumeshin-labo.com
 mobile.yahav.co.il
 mobile.yoursrp.net
+nav-update.mf-yss.yousee.dk
 paperlesspayroll.yonkersny.gov
 payments.youtube.com
 python-github-calendar-api.yylemon.top
@@ -466,6 +468,7 @@ www.billing.yourschoice.club
 www.customers.yellowhoster.com
 www.fittin-service.ymdg.info
 www.login.ybiaumroh.com
+www.oktamia.yukundang.com
 www.post.yefi.site
 www.support.yoshope.com
 www.yachtservice-laboe.de
@@ -479,6 +482,8 @@ www.yoshitoku.co.jp
 www.yourfuturecredit.com
 y3rt.com
 yahoomailsupportphonenumber.com
+yapianaliz.com.tr
+yapiskan.tk
 yaseagrouptravel.com
 yayanadriano.web.id
 yazarlaryapi.com.tr
@@ -487,6 +492,7 @@ ybx-test.yahoo.co.jp
 yc-loyalty-ke.stage.apac.yaradigitallabs.io
 yee.com
 yefi.site
+yemektarifisepeti.com
 yennspic.com
 yensaoantruongtho.com
 yesbank.in
@@ -502,6 +508,7 @@ yourlastrites.com
 youronlinecircle.com
 yourvalenciadentist.com
 yourveganfallacyis.com
+yperiontitanium.com
 ytali.com
 yulizarpost.com
 yzphouse.com
