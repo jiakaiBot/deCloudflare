@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Patcher corrupts chromedriver binary on MacOS (M1)](https://github.com/fysh711426/UndetectedChromeDriver/issues/40)
 - [Cannot use Prisma Client on Cloud Flare Pages](https://github.com/prisma/prisma/issues/18204)
 - [A website using Cloudflare is giving me 403 when using test client code, but works with Chrome, why?](https://github.com/eduardsui/tlse/issues/80)
 - [returnBalances triggers PoloniexError: Invalid json response returned](https://github.com/Aula13/poloniex/issues/23)
