@@ -2164,8 +2164,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -8271,6 +8271,7 @@ Do not create new issue or we will close it as duplicate.
 | [OsaeStephen7@twitter](https://twitter.com/OsaeStephen7/status/1492858553492770819) | advertise |
 | [osako88@twitter](https://twitter.com/osako88/status/1564289077243002880) | advertise |
 | [osamaaly90@twitter](https://twitter.com/osamaaly90/status/1405389818499158017) | advertise |
+| [osamabaghdady1@twitter](https://twitter.com/osamabaghdady1/status/1631757127374061573) | advertise |
 | [Osamavp88@twitter](https://twitter.com/Osamavp88/status/1553648608183869441) | advertise |
 | [osaray_@twitter](https://twitter.com/osaray_/status/1577621931892809728) | advertise |
 | [oscarkm@twitter](https://twitter.com/oscarkm/status/1392306941628542978) | advertise |
