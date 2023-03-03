@@ -1267,6 +1267,7 @@ Do not create new issue or we will close it as duplicate.
 | [Azomee4@twitter](https://twitter.com/Azomee4/status/1399035804614279170) | advertise |
 | [azparrotthead@twitter](https://twitter.com/azparrotthead/status/1486244395502481410) | advertise |
 | [AzuanBk79@twitter](https://twitter.com/AzuanBk79/status/1388558394940743684) | advertise |
+| [azvezdev@twitter](https://twitter.com/azvezdev/status/1631666507200491520) | advertise |
 | [AzyOppa@twitter](https://twitter.com/AzyOppa/status/1389876605426671616) | advertise |
 | [Azzam95_@twitter](https://twitter.com/Azzam95_/status/1504244848743833604) | advertise |
 | [A_Aleem_Baig@twitter](https://twitter.com/A_Aleem_Baig/status/1531714345117294600) | advertise |
@@ -8150,6 +8151,7 @@ Do not create new issue or we will close it as duplicate.
 | [OButhum@twitter](https://twitter.com/OButhum/status/1393372232093556739) | advertise |
 | [obyanete@twitter](https://twitter.com/obyanete/status/1563153566873034753) | advertise |
 | [oceanprince1234@twitter](https://twitter.com/oceanprince1234/status/1595252984891727877) | advertise |
+| [oCngThng4@twitter](https://twitter.com/oCngThng4/status/1631669134231744513) | advertise |
 | [OdariMc@twitter](https://twitter.com/OdariMc/status/1380700664016334848) | advertise |
 | [odragaoverde@twitter](https://twitter.com/odragaoverde/status/1520195893210853377) | advertise |
 | [OdunmbakuAyomi2@twitter](https://twitter.com/OdunmbakuAyomi2/status/1406588138479292416) | advertise |
@@ -9970,6 +9972,7 @@ Do not create new issue or we will close it as duplicate.
 | [Snakyacidkiss@twitter](https://twitter.com/Snakyacidkiss/status/1389092757881249793) | advertise |
 | [Snap69015522@twitter](https://twitter.com/Snap69015522/status/1393834272092409860) | advertise |
 | [snavEkelA@twitter](https://twitter.com/snavEkelA/status/1498711363832532994) | advertise |
+| [SnHoi97111044@twitter](https://twitter.com/SnHoi97111044/status/1631393673203302400) | advertise |
 | [SnigdhaBhardw16@twitter](https://twitter.com/SnigdhaBhardw16/status/1574016312996958209) | advertise |
 | [Sniper5Szn@twitter](https://twitter.com/Sniper5Szn/status/1391481893581844482) | advertise |
 | [Snitchblaster9@twitter](https://twitter.com/Snitchblaster9/status/1396532090141777921) | advertise |
@@ -10393,6 +10396,7 @@ Do not create new issue or we will close it as duplicate.
 | [TattooNghia@twitter](https://twitter.com/TattooNghia/status/1399085631028879360) | advertise |
 | [tatuiyo@twitter](https://twitter.com/tatuiyo/status/1494144614231846912) | advertise |
 | [TatumGaming@twitter](https://twitter.com/TatumGaming/status/1448827518337888257) | advertise |
+| [TaufikPrivat@twitter](https://twitter.com/TaufikPrivat/status/1631543734725931008) | advertise |
 | [tavakkoli2@twitter](https://twitter.com/tavakkoli2/status/1578616210035703813) | advertise |
 | [TawMi5@twitter](https://twitter.com/TawMi5/status/1495964843840397312) | advertise |
 | [Tax40813778@twitter](https://twitter.com/Tax40813778/status/1388201141821796353) | advertise |
@@ -10656,8 +10660,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
