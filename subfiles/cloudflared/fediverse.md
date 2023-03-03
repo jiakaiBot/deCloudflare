@@ -34732,6 +34732,7 @@ Here's a list of public Fediverse services.
 | `toaruhetare.net` | No |
 | `toast.cafe` | No |
 | `toast.farm` | Yes |
+| `toast.ws` | Yes |
 | `toastbrot.net` | Yes |
 | `toaster.sh` | Yes |
 | `tobedefined.net` | No |
@@ -39283,7 +39284,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,568 |
+| Cloudflare | 9,569 |
 | Normal | 29,672 |
 
 
