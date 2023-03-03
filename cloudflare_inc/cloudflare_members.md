@@ -1283,6 +1283,7 @@ Or is this merely a case of simple modesty?
 | Nauzer Gotla | Vice President, Internal Audit |  |
 | Naveen Singh | Solutions Engineer |  |
 | Naya Posotidou | IT Operations Engineer |  |
+| Neal Kindschi | Employee | |
 | Neerav Kumar | Site Reliability Engineer, Singapore |  |
 | Neha Sood | Sales Operations EMEA |  |
 | Neil Levio | Customer Success |  |
