@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [returnBalances triggers PoloniexError: Invalid json response returned](https://github.com/Aula13/poloniex/issues/23)
 - [GHSA-hgwp-4vp4-qmm2 has no published or compatible non-vulnerable versions](https://github.com/github/advisory-database/issues/1742)
 - [1.14.2 sniffer 出错后导致网站访问失败](https://github.com/MetaCubeX/Clash.Meta/issues/420)
 - [cloudflare: could not find the start of authority for _acme-challenge](https://github.com/vancluever/terraform-provider-acme/issues/288)
