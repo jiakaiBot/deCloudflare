@@ -1746,6 +1746,7 @@ Do not create new issue or we will close it as duplicate.
 | [BtwSu@twitter](https://twitter.com/BtwSu/status/1398369389783576577) | advertise |
 | [Bu56726390u@twitter](https://twitter.com/Bu56726390u/status/1604165552200900608) | advertise |
 | [bubyli_uk@twitter](https://twitter.com/bubyli_uk/status/1527321559286751233) | advertise |
+| [buc69420083@twitter](https://twitter.com/buc69420083/status/1631739142231977984) | advertise |
 | [BuckHun18065742@twitter](https://twitter.com/BuckHun18065742/status/1565605332163887104) | advertise |
 | [BuckNewton6@twitter](https://twitter.com/BuckNewton6/status/1560343947616157697) | advertise |
 | [buddingdentist@twitter](https://twitter.com/buddingdentist/status/1386687039525953537) | advertise |
@@ -2163,8 +2164,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -5506,6 +5507,7 @@ Do not create new issue or we will close it as duplicate.
 | [KoHtetZawOo1@twitter](https://twitter.com/KoHtetZawOo1/status/1395015158922100737) | advertise |
 | [koHtut80471997@twitter](https://twitter.com/koHtut80471997/status/1393249583065550851) | advertise |
 | [koicanwol@twitter](https://twitter.com/koicanwol/status/1523264151749279749) | advertise |
+| [kokalary@twitter](https://twitter.com/kokalary/status/1631736436461379584) | advertise |
 | [kokayzo@twitter](https://twitter.com/kokayzo/status/1619350734700695560) | advertise |
 | [KoKhit9@twitter](https://twitter.com/KoKhit9/status/1390702857016332288) | advertise |
 | [Koko01940303@twitter](https://twitter.com/Koko01940303/status/1393036325188608000) | advertise |
