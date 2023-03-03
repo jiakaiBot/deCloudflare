@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,865 |
 | social | 3,790 |
-| net | 2,992 |
+| net | 2,993 |
 | org | 2,091 |
 | de | 1,964 |
 
@@ -140,7 +140,7 @@ Here's a list of public Fediverse services.
 | `0xfa.de` | No |
 | `0xfeedc0.de` | No |
 | `0xff.cafe` | No |
-| `0xff.social` | No |
+| `0xff.social` | Yes |
 | `0xv.eu` | No |
 | `10000x.dev` | Yes |
 | `1000dollars.info` | No |
@@ -26108,6 +26108,7 @@ Here's a list of public Fediverse services.
 | `pash.moe` | No |
 | `pashan.social` | No |
 | `paskell.social` | No |
+| `pasokey.net` | Yes |
 | `pass-vault.ru` | No |
 | `passablegardener.com` | Yes |
 | `passageenseine.fr` | No |
@@ -39250,8 +39251,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,550 |
-| Normal | 29,657 |
+| Cloudflare | 9,552 |
+| Normal | 29,656 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
