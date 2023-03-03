@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,863 |
 | social | 3,790 |
-| net | 2,989 |
+| net | 2,990 |
 | org | 2,091 |
 | de | 1,964 |
 
@@ -2330,6 +2330,7 @@ Here's a list of public Fediverse services.
 | `arukascloud.io` | No |
 | `arul.io` | Yes |
 | `arumia.moe` | No |
+| `arumino-om.net` | Yes |
 | `arumoon.ru` | Yes |
 | `arun.blog` | Yes |
 | `arun.cloud` | Yes |
@@ -11441,7 +11442,7 @@ Here's a list of public Fediverse services.
 | `fossium.space` | Yes |
 | `fosslife.org` | No |
 | `fosspri.de` | No |
-| `fosstodon.org` | No |
+| `fosstodon.org` | Yes |
 | `fosstodon.ru` | No |
 | `fossworld.hu` | No |
 | `fostodon.uk` | No |
@@ -11686,7 +11687,7 @@ Here's a list of public Fediverse services.
 | `freezepeach.online` | No |
 | `freezepeach.xyz` | No |
 | `frehi.be` | No |
-| `frei.social` | Yes |
+| `frei.social` | No |
 | `freiburg.social` | No |
 | `freie-linke.de` | No |
 | `freiewaehler.social` | No |
@@ -27945,6 +27946,7 @@ Here's a list of public Fediverse services.
 | `qu1x.one` | No |
 | `qua.name` | No |
 | `quaa.net` | No |
+| `quack.me` | Yes |
 | `quackshack.xyz` | No |
 | `quad.moe` | No |
 | `quadplay.tv` | No |
@@ -33850,6 +33852,7 @@ Here's a list of public Fediverse services.
 | `tgl.eu` | No |
 | `tgp.jp` | No |
 | `tgqvitter.tk` | No |
+| `tgr.lol` | No |
 | `tgragnato.it` | Yes |
 | `th-pape.de` | No |
 | `th23.org` | No |
@@ -35351,7 +35354,7 @@ Here's a list of public Fediverse services.
 | `trpg-link.tk` | No |
 | `trpg-o.xyz` | No |
 | `trpg.cloud` | Yes |
-| `trpger.us` | No |
+| `trpger.us` | Yes |
 | `trshnet.de` | No |
 | `trtl.in` | No |
 | `tru.io` | Yes |
@@ -36573,6 +36576,7 @@ Here's a list of public Fediverse services.
 | `vibb.ro` | No |
 | `vibbe.xyz` | No |
 | `vibber.net` | No |
+| `vibe.farm` | Yes |
 | `vibeogame.online` | No |
 | `vibeshuttle.com` | No |
 | `vibewave.space` | No |
@@ -39237,8 +39241,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,543 |
+| Cloudflare | 9,547 |
 | Normal | 29,651 |
 
 
-### 24.3% of public Fediverse services are using Cloudflare.
+### 24.4% of public Fediverse services are using Cloudflare.
