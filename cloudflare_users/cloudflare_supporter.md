@@ -52,6 +52,7 @@ Do not create new issue or we will close it as duplicate.
 | [1CristalHeart@twitter](https://twitter.com/1CristalHeart/status/1473671613144920067) | advertise |
 | [1fRaSz22dPfUrsv@twitter](https://twitter.com/1fRaSz22dPfUrsv/status/1542540824759656451) | advertise |
 | [1gNmgWczBahf9Je@twitter](https://twitter.com/1gNmgWczBahf9Je/status/1577351663244951570) | advertise |
+| [1hpBeso@twitter](https://twitter.com/1hpBeso/status/1631702503073906697) | advertise |
 | [1juxtaposition@twitter](https://twitter.com/1juxtaposition/status/1397618611083165697) | advertise |
 | [1KK4cfjGlKNknLy@twitter](https://twitter.com/1KK4cfjGlKNknLy/status/1378992221077168128) | advertise |
 | [1k_8u@twitter](https://twitter.com/1k_8u/status/1493703720193990662) | advertise |
@@ -1107,6 +1108,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungMyoThaung5@twitter](https://twitter.com/AungMyoThaung5/status/1377519613416644608) | advertise |
 | [AungNai36196957@twitter](https://twitter.com/AungNai36196957/status/1390278332902739973) | advertise |
 | [Aungnaingwin797@twitter](https://twitter.com/Aungnaingwin797/status/1394206599615373312) | advertise |
+| [aungOO68709231@twitter](https://twitter.com/aungOO68709231/status/1631688759795228674) | advertise |
 | [AungPaingLin17@twitter](https://twitter.com/AungPaingLin17/status/1389949220283576324) | advertise |
 | [Aungph3@twitter](https://twitter.com/Aungph3/status/1381966595258388489) | advertise |
 | [AungPhy15657193@twitter](https://twitter.com/AungPhy15657193/status/1390640324486189060) | advertise |
@@ -1298,6 +1300,7 @@ Do not create new issue or we will close it as duplicate.
 | [Babyblu82224449@twitter](https://twitter.com/Babyblu82224449/status/1387554058714566656) | advertise |
 | [Babysela1@twitter](https://twitter.com/Babysela1/status/1478028360877948928) | advertise |
 | [BabyWhite999@twitter](https://twitter.com/BabyWhite999/status/1406167535825920001) | advertise |
+| [BachKim12013287@twitter](https://twitter.com/BachKim12013287/status/1631697965009219584) | advertise |
 | [bachve1@twitter](https://twitter.com/bachve1/status/1489129338955984898) | advertise |
 | [Backbone666@twitter](https://twitter.com/Backbone666/status/1443331603523067905) | advertise |
 | [BAD12360259569@twitter](https://twitter.com/BAD12360259569/status/1391860164081315842) | advertise |
