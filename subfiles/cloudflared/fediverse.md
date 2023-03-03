@@ -14557,6 +14557,7 @@ Here's a list of public Fediverse services.
 | `homeset.de` | No |
 | `hometech.social` | No |
 | `hometi.me` | Yes |
+| `homies.gay` | Yes |
 | `homirun.pw` | No |
 | `homnomnom.fr` | No |
 | `homo.dev` | No |
@@ -33418,7 +33419,7 @@ Here's a list of public Fediverse services.
 | `tara.social` | No |
 | `tarasis.net` | Yes |
 | `tarasupadon.com` | No |
-| `tarbin.net` | No |
+| `tarbin.net` | Yes |
 | `tardar.social` | No |
 | `tardis.guide` | Yes |
 | `tardis.pw` | No |
@@ -39251,8 +39252,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,552 |
-| Normal | 29,656 |
+| Cloudflare | 9,554 |
+| Normal | 29,655 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
