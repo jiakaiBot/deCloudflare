@@ -1152,6 +1152,7 @@ Here's a list of public Fediverse services.
 | `airescommunes.ca` | No |
 | `airi.tv` | No |
 | `airikr.me` | No |
+| `airis.dev` | No |
 | `airis.work` | No |
 | `airpollution.science` | No |
 | `airwaves.social` | Yes |
@@ -19786,7 +19787,7 @@ Here's a list of public Fediverse services.
 | `lynxruf.us` | Yes |
 | `lyo.social` | No |
 | `lyoko.social` | No |
-| `lyokotech.com` | No |
+| `lyokotech.com` | Yes |
 | `lyokoweb.net` | No |
 | `lyon.lol` | No |
 | `lyonbros.com` | Yes |
@@ -29142,6 +29143,7 @@ Here's a list of public Fediverse services.
 | `rjm.id.au` | Yes |
 | `rjp.is` | No |
 | `rkd.pw` | Yes |
+| `rkgk.moe` | No |
 | `rklein.com.br` | No |
 | `rknight.me` | No |
 | `rknv.cc` | Yes |
@@ -39281,8 +39283,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,567 |
-| Normal | 29,671 |
+| Cloudflare | 9,568 |
+| Normal | 29,672 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
