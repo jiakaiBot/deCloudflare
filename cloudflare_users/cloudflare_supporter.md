@@ -639,6 +639,7 @@ Do not create new issue or we will close it as duplicate.
 | [ambrosed30@twitter](https://twitter.com/ambrosed30/status/1578004704402894848) | advertise |
 | [AmeenSh33976888@twitter](https://twitter.com/AmeenSh33976888/status/1381514867606089731) | advertise |
 | [ameenulhassanm1@twitter](https://twitter.com/ameenulhassanm1/status/1378228638353555457) | advertise |
+| [amee_edek@twitter](https://twitter.com/amee_edek/status/1631785969836867586) | advertise |
 | [amekiri13@twitter](https://twitter.com/amekiri13/status/1437975591152611329) | advertise |
 | [AmeliaNyeint@twitter](https://twitter.com/AmeliaNyeint/status/1398295090909499397) | advertise |
 | [Amer71692232@twitter](https://twitter.com/Amer71692232/status/1497751670188490758) | advertise |
