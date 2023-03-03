@@ -6285,6 +6285,7 @@ Do not create new issue or we will close it as duplicate.
 | [LVnQuyn47173520@twitter](https://twitter.com/LVnQuyn47173520/status/1398788381463629826) | advertise |
 | [LVnTha2@twitter](https://twitter.com/LVnTha2/status/1396523358544547841) | advertise |
 | [Lwanga41993231@twitter](https://twitter.com/Lwanga41993231/status/1504926858126766084) | advertise |
+| [Lwin4Oakar@twitter](https://twitter.com/Lwin4Oakar/status/1631712215463239680) | advertise |
 | [LwinHtet12@twitter](https://twitter.com/LwinHtet12/status/1379829022008348675) | advertise |
 | [Lwinko20006102@twitter](https://twitter.com/Lwinko20006102/status/1390308823362011149) | advertise |
 | [LwinkokoL@twitter](https://twitter.com/LwinkokoL/status/1390999113324396546) | advertise |
