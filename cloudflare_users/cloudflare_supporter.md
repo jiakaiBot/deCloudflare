@@ -10053,6 +10053,7 @@ Do not create new issue or we will close it as duplicate.
 | [sonlu14654722@twitter](https://twitter.com/sonlu14654722/status/1400477010179235842) | advertise |
 | [SonNgoc82244972@twitter](https://twitter.com/SonNgoc82244972/status/1603285673339154432) | advertise |
 | [SonPham47707692@twitter](https://twitter.com/SonPham47707692/status/1620887365484183552) | advertise |
+| [SONSOFAFRIKA@twitter](https://twitter.com/SONSOFAFRIKA/status/1631774261722374150) | advertise |
 | [sontr3000@twitter](https://twitter.com/sontr3000/status/1622975171765346305) | advertise |
 | [Sontung1081@twitter](https://twitter.com/Sontung1081/status/1564156305396285440) | advertise |
 | [SonuleSonule1@twitter](https://twitter.com/SonuleSonule1/status/1482956779067940866) | advertise |
