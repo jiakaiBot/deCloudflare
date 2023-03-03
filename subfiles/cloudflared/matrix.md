@@ -119,7 +119,6 @@ Here's a list of public Matrix services.
 | matrix.studichat.de | No |
 | synod.im | No |
 | matrix.tchncs.de | No |
-| matrix.techsaviours.org | No |
 | matrix.tedomum.net | No |
 | matrix.tomesh.net | No |
 | trygve.me | No |
@@ -139,7 +138,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 22 |
-| Normal | 89 |
+| Normal | 88 |
 
 
-### 19.8% of public Matrix services are using Cloudflare.
+### 20% of public Matrix services are using Cloudflare.
