@@ -23798,6 +23798,7 @@ Here's a list of public Fediverse services.
 | `nesakko.xyz` | No |
 | `neshura-server.net` | Yes |
 | `neshweb.net` | Yes |
+| `neso.club` | No |
 | `neso.page` | Yes |
 | `neso.tech` | No |
 | `nesohub.org` | No |
@@ -39274,7 +39275,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,561 |
-| Normal | 29,669 |
+| Normal | 29,670 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
