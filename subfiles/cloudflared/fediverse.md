@@ -4974,6 +4974,7 @@ Here's a list of public Fediverse services.
 | `campfi.rs` | Yes |
 | `campfire.website` | No |
 | `campfollow.life` | No |
+| `campus.yokohama` | Yes |
 | `campuschat.io` | No |
 | `campusgemeinde.de` | No |
 | `camsturba.com` | Yes |
@@ -31588,7 +31589,7 @@ Here's a list of public Fediverse services.
 | `snowdin.town` | No |
 | `snowdon.jp` | No |
 | `snowdon.social` | No |
-| `snowdrop.cloud` | No |
+| `snowdrop.cloud` | Yes |
 | `snowfrost.garden` | No |
 | `snowgoons.ro` | Yes |
 | `snowii.moe` | Yes |
@@ -39271,8 +39272,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,558 |
-| Normal | 29,670 |
+| Cloudflare | 9,560 |
+| Normal | 29,669 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
