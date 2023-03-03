@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,868 |
+| com | 5,869 |
 | social | 3,793 |
 | net | 2,994 |
 | org | 2,092 |
@@ -8940,6 +8940,7 @@ Here's a list of public Fediverse services.
 | `drox.zone` | No |
 | `drrsatzteil.de` | No |
 | `drskrzyk.com` | No |
+| `dru5k1.com` | Yes |
 | `druid.town` | No |
 | `drumbum42.com` | No |
 | `drumcorps.info` | No |
@@ -39272,7 +39273,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,560 |
+| Cloudflare | 9,561 |
 | Normal | 29,669 |
 
 
