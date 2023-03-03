@@ -189,7 +189,6 @@ ir.kratosdefense.com
 k-lite-codec-pack.org.ua
 k420-flappycash.k420-inc-moneymaker.com
 k68tkg.com
-k7services.com.au
 k9manhuntscotland.co.uk
 kakedashiweb.site
 kalibags.com
@@ -529,7 +528,6 @@ servicedesk.kgisl.com
 services.prod.kbfina.com.vn
 signin.kaspi.kz
 sigs.k8s.io
-siroti.street.kolakaupdate.com
 sit01.kasikornasset.com
 sjb481.keap-link003.com
 skyliner.ec.keisei.co.jp
@@ -1675,6 +1673,7 @@ zunastatic-abf.kxcdn.com
 419.pr.stater.nl.kiwicloud.nl
 496.pr.stater.nl.kiwicloud.nl
 8.kinoihooter.shop
+aakash.kuber.shop
 accept.cosmohairstyling.com.kiwicloud.nl
 accept.dsp.nl.kiwicloud.nl
 accept.keukenhof.nl.kiwicloud.nl
@@ -1746,6 +1745,7 @@ dev.kmart.co.nz
 devapi.klikbca.com
 discgnomerdapp.aed13a6f34584da687139f5f1-13715.sites.k-hosting.co.uk
 discord-bot.ky-programming.de
+docebo-dev.kennedysiq.com
 dpr.kwiktag.net
 drumsprerai.kometaservice.ro
 e.wordpress.klas.cc
@@ -1772,6 +1772,7 @@ gitlab.gitlab.git.gitlab.git.git.gmail.katerinabugakova.com
 gitlab.gitlab.gitlab.git.git.gmail.katerinabugakova.com
 gn-api-inventory-east-1b.kenna.io
 gn231.keap-link016.com
+harmony.kiaindia.net
 helpdesk.ktblack.com
 iason.kaptara.de
 ikanobostad.kravportal.se
@@ -1806,10 +1807,12 @@ katycrawfordmusic.com
 kav2.io
 kav7.io
 kav8.io
+kbcomputers.co.il
 kcci.com
 kdpinterior.com
 keprtv.com
 kesehatan.kontan.co.id
+keskisuomenvuokrauspalvelu.fi
 keycontentservice.com
 keyrealty1.com
 khairulummah.sch.id
@@ -1848,6 +1851,7 @@ komonews.com
 kompasupdate.com
 kompetenznetzwerk-deki.de
 komunikator.komunala-brezice.si
+konflinx.com
 konfortve.com
 konjovic.rs
 konto-matulji.com
@@ -1862,8 +1866,10 @@ kornelix.net
 kortrijkpostcovid.be
 koshelok.in.ua
 kovsh-ufa.ru
+kpay.az
 kpkdelivery.ro
 kpl.kaspi.kz
+krakenberger.org
 kravi.co.il
 kredittoyotadkijakarta.com
 kredytnadomuk.co.uk
@@ -1880,6 +1886,7 @@ kssingers.com
 kt.kedaitinted.com
 ktl-da.kashiyama.com
 kuadsystem.com
+kuber247exchange.com
 kubwa.dog
 kukarkab.go.id
 kvkk-preprod.kns-cdp.com
@@ -1893,11 +1900,13 @@ link.keionet.com
 live.cosmohairstyling.com.kiwicloud.nl
 live.teamkappers.nl.kiwicloud.nl
 lk373.keap-link007.com
+login-office.kaptanmidye.com
 loliedelivery.kinideas.com
 magazyn.koleo.pl
 mail.kevinsinclair.net
 mail.kimono-japan.online
 mail.klinikcovid19.com
+mail.kukenski.com
 media.kasperskycontenthub.com
 media.kohlsimg.com
 message.kgi.co.th
@@ -1907,6 +1916,7 @@ my-new-teamwork.acmecorp.dev.kosha.app
 mykulsrv48.my.kworld.kpmg.com
 navidrome.kmr.io
 nc-dev-mobile.kronsoft.ro
+nft-verify.kaga-e-residency.jp
 nixyghast.koshm.com
 one-dr.krungthai.com
 one.krungthai.com
@@ -1946,6 +1956,7 @@ s4bwebscheduler.kne-drv-bund.de
 sails.kinto-mobility.jp
 sakukunotif.klikbca.com
 sber.avito.avito.avito.blablacar.sber.covid19.kozlovaresult.com
+sber.avito.blablacar.sberbank.covid19.kpd101studio.com
 sber.www.sberbank.avito.avito.sberbank.covid19.kozlovaresult.com
 sberbank.sber.avito.blablacar.sberbank.covid19.kozlovaresult.com
 scm.kibs.com.mk
@@ -1990,8 +2001,10 @@ wol.knifequeerart.com
 work.kerimakman.com
 www.account.k-mino.com
 www.airbnb-2.kinfolk-photography.co.uk
+www.allegro.kotly-janczak.pl
 www.arteydiseno.klientoo.net
 www.bancosdemexico.katanaprojects.com
+www.banktryout.com.khaulahsayu.com
 www.beforeupdate.kinzakazmi.com
 www.beforeupdate.kirkbyskipsltd.co.uk
 www.beforeupdate.kristen-welsh.com
@@ -2018,6 +2031,7 @@ www.kadn.com
 www.kai.id
 www.kajstenvall.fi
 www.kalasso.vn
+www.kaliargent.com
 www.kall.com
 www.kamilahhendersonlaw.com
 www.kammibekasi.com
@@ -2028,8 +2042,10 @@ www.karinmajoka.com
 www.karismaprice.com
 www.karjalansivistysseura.fi
 www.karlemo.se
+www.kateholden.art
 www.kateraworth.com
 www.katherinebickford.ca
+www.kbc-build.com
 www.kbcontainerstorageinc.com
 www.kdrv.com
 www.kdsnet.co.jp
@@ -2077,6 +2093,9 @@ www.kompasupdate.com
 www.komu-bilet.ru
 www.kotitalouspalvelu.fi
 www.kpkdelivery.ro
+www.krakenberger.org
+www.krakenmediallc.com
+www.krakenshoppstore.com
 www.kratochvil.hu
 www.krbd.org
 www.krqe.com
@@ -2084,6 +2103,7 @@ www.kruidvat.nl
 www.krystallimos.co.uk
 www.ksn-international.de
 www.ksnt.com
+www.kssecurity.kssecuritysolution.com
 www.ktlo.com
 www.ktsm.com
 www.kubakunde.de
@@ -2116,6 +2136,7 @@ www.termopane-calarasi.kometaservice.ro
 www.track.kepriben.com
 www.tracking.kirimmobilmurah.net
 www.valealupilor.kometaservice.ro
+www.whatsapp.klinikkitamura.com
 www.zbor.kravarsko.eu
 www1.ksw.co.jp
 yk495.keap-link017.com
