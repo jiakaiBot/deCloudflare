@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,869 |
+| com | 5,873 |
 | social | 3,793 |
-| net | 2,994 |
+| net | 2,996 |
 | org | 2,092 |
 | de | 1,964 |
 
@@ -11051,6 +11051,7 @@ Here's a list of public Fediverse services.
 | `finalesocial.com` | No |
 | `finalgear.social` | No |
 | `finallycoffee.eu` | No |
+| `finalmisskey-xiv.com` | Yes |
 | `finch.ink` | No |
 | `findingdryland.com` | No |
 | `findmyown.space` | No |
@@ -12324,6 +12325,7 @@ Here's a list of public Fediverse services.
 | `ganzeer.today` | No |
 | `gao4.top` | No |
 | `gaojfblog.com` | No |
+| `gaooo.net` | No |
 | `gaos.org` | No |
 | `gapi.me` | Yes |
 | `gapp-hsg.eu` | No |
@@ -12469,6 +12471,7 @@ Here's a list of public Fediverse services.
 | `gecko20.de` | No |
 | `geckodesigns.social` | Yes |
 | `gedankenlie.be` | No |
+| `gedankenteiler.blog` | No |
 | `gedenkarbeit.me` | No |
 | `geek-and-poke.com` | No |
 | `geek.gay` | No |
@@ -19256,6 +19259,7 @@ Here's a list of public Fediverse services.
 | `lmaa.pm` | No |
 | `lmao.gg` | No |
 | `lmao.tf` | Yes |
+| `lmashton.com` | Yes |
 | `lmbo.party` | No |
 | `lmcly.fyi` | Yes |
 | `lmdk.co.uk` | Yes |
@@ -20031,6 +20035,7 @@ Here's a list of public Fediverse services.
 | `majestic.monster` | No |
 | `majimaconstruction.org` | No |
 | `majion.ga` | No |
+| `majorlinux.com` | Yes |
 | `majors.social` | Yes |
 | `majorshouse.com` | Yes |
 | `mak.i.ng` | No |
@@ -21365,7 +21370,7 @@ Here's a list of public Fediverse services.
 | `meltdownlabs.com` | No |
 | `melteampotes.fr` | No |
 | `melting.town` | No |
-| `melton.cc` | No |
+| `melton.cc` | Yes |
 | `melyanna.net` | No |
 | `mem000.de` | No |
 | `member.ro` | Yes |
@@ -22441,6 +22446,7 @@ Here's a list of public Fediverse services.
 | `morale.ch` | No |
 | `moralkiosk.social` | No |
 | `morash.me` | Yes |
+| `moratoriamu.net` | Yes |
 | `mordicux.xyz` | No |
 | `mordor.social` | No |
 | `moreati.org.uk` | No |
@@ -32833,6 +32839,7 @@ Here's a list of public Fediverse services.
 | `sugoma.tk` | Yes |
 | `suhbat.online` | No |
 | `sui-hei.net` | No |
+| `sui-mag.com` | Yes |
 | `suicide.group` | No |
 | `suicide.holiday` | Yes |
 | `suicidepolice.com` | No |
@@ -39274,8 +39281,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,561 |
-| Normal | 29,670 |
+| Cloudflare | 9,567 |
+| Normal | 29,671 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
