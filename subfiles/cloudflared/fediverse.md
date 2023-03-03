@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,862 |
+| com | 5,863 |
 | social | 3,790 |
 | net | 2,989 |
 | org | 2,091 |
@@ -4341,6 +4341,7 @@ Here's a list of public Fediverse services.
 | `boulder.social` | No |
 | `bouma.social` | Yes |
 | `boumas.eu` | No |
+| `boumi.me` | No |
 | `bounced.ca` | No |
 | `bounceme.net` | No |
 | `bound4the.icu` | Yes |
@@ -13896,7 +13897,7 @@ Here's a list of public Fediverse services.
 | `hauchruh.de` | No |
 | `haukola.ru` | No |
 | `haulo.fi` | No |
-| `haun.jp` | No |
+| `haun.jp` | Yes |
 | `haunted.computer` | No |
 | `hausi.social` | No |
 | `havas.jp` | No |
@@ -17276,6 +17277,7 @@ Here's a list of public Fediverse services.
 | `kensei.dev` | No |
 | `kensimon.io` | No |
 | `kent-dobias.com` | No |
+| `ker.gay` | No |
 | `kerat.net` | No |
 | `kerekes.net.au` | No |
 | `keremyaldiz.com` | No |
@@ -32476,6 +32478,7 @@ Here's a list of public Fediverse services.
 | `steveasleep.com` | No |
 | `steveblamey.co.uk` | No |
 | `steveblank.com` | No |
+| `stevecostar.com` | Yes |
 | `stevegranshaw.com` | No |
 | `steven.wiki` | No |
 | `stevenbrady.com` | No |
@@ -38196,6 +38199,7 @@ Here's a list of public Fediverse services.
 | `xn--80aa2ajy.xn--p1acf` | No |
 | `xn--80an2adaa.xn--p1ai` | Yes |
 | `xn--8r9a.com` | No |
+| `xn--90aldbalef8bvy9l.xn--p1ai` | Yes |
 | `xn--90anxanf8c5b.xn--p1ai` | Yes |
 | `xn--931a.moe` | Yes |
 | `xn--99axc.xn--y9a3aq` | Yes |
@@ -39233,8 +39237,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,540 |
-| Normal | 29,650 |
+| Cloudflare | 9,543 |
+| Normal | 29,651 |
 
 
 ### 24.3% of public Fediverse services are using Cloudflare.
