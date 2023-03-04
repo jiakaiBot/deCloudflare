@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,798 |
 | net | 3,001 |
 | org | 2,095 |
-| de | 1,965 |
+| de | 1,966 |
 
 
 - Mastodon, Pleroma, etc
@@ -4604,6 +4604,7 @@ Here's a list of public Fediverse services.
 | `brunopedro.com` | No |
 | `brunty.social` | Yes |
 | `brusilia.eu` | No |
+| `bruta.link` | Yes |
 | `brutsellog.nl` | No |
 | `bry.bar` | No |
 | `bryanmacmurray.com` | No |
@@ -9021,6 +9022,7 @@ Here's a list of public Fediverse services.
 | `duckrowing.com` | No |
 | `ducksareawesome.net` | No |
 | `ducnn.com` | Yes |
+| `ductuspress.eu` | No |
 | `dudebronation.com` | No |
 | `dudehabits.net` | No |
 | `dudenas.lt` | No |
@@ -18548,6 +18550,7 @@ Here's a list of public Fediverse services.
 | `le43.eu` | No |
 | `le5emeaxe.blog` | No |
 | `le5emeaxe.fr` | No |
+| `lea.lgbt` | No |
 | `lea.pet` | Yes |
 | `leadrdrk.eu.org` | No |
 | `leadslinger.org` | No |
@@ -22539,7 +22542,7 @@ Here's a list of public Fediverse services.
 | `moss.church` | No |
 | `moss.haus` | No |
 | `mossferatu.monster` | No |
-| `mossou.com` | No |
+| `mossou.com` | Yes |
 | `mossrc.me` | No |
 | `mossymaker.com` | No |
 | `mosteverywhere.com` | No |
@@ -23990,7 +23993,7 @@ Here's a list of public Fediverse services.
 | `newyorkfriendfinder.com` | No |
 | `nex.sh` | No |
 | `nexific.social` | Yes |
-| `nexon.su` | No |
+| `nexon.su` | Yes |
 | `nextblock.nl` | No |
 | `nextcloud-music-vault.de` | No |
 | `nextcloud.com` | No |
@@ -24579,6 +24582,7 @@ Here's a list of public Fediverse services.
 | `notactuallyacat.com` | No |
 | `notacult.social` | No |
 | `notagovernment.agency` | Yes |
+| `notandy.de` | No |
 | `notanow.net` | No |
 | `notaphish.fyi` | No |
 | `notasquirrel.dev` | No |
@@ -39322,8 +39326,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,576 |
-| Normal | 29,703 |
+| Cloudflare | 9,579 |
+| Normal | 29,704 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
