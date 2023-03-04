@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,881 |
 | social | 3,798 |
-| net | 3,000 |
+| net | 3,001 |
 | org | 2,095 |
 | de | 1,965 |
 
@@ -18544,6 +18544,7 @@ Here's a list of public Fediverse services.
 | `le-led.me` | No |
 | `le-palantir.com` | No |
 | `le-salon-des-lettres.fr` | No |
+| `le0kyun.net` | No |
 | `le43.eu` | No |
 | `le5emeaxe.blog` | No |
 | `le5emeaxe.fr` | No |
@@ -27806,7 +27807,7 @@ Here's a list of public Fediverse services.
 | `pugly.org` | Yes |
 | `pugritos.cloud` | No |
 | `pukima.site` | Yes |
-| `pulala.net` | No |
+| `pulala.net` | Yes |
 | `puliaiev.com` | No |
 | `pulledbits.org` | No |
 | `pullopen.xyz` | Yes |
@@ -39321,7 +39322,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,575 |
+| Cloudflare | 9,576 |
 | Normal | 29,703 |
 
 
