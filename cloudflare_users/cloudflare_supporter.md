@@ -2165,8 +2165,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -7136,6 +7136,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mop_64@twitter](https://twitter.com/Mop_64/status/1625727181962747904) | advertise |
 | [morahlana78@twitter](https://twitter.com/morahlana78/status/1541860463549751296) | advertise |
 | [MorbidSugar9@twitter](https://twitter.com/MorbidSugar9/status/1617664514497077248) | advertise |
+| [moreoronce@twitter](https://twitter.com/moreoronce/status/1631973352754790402) | advertise |
 | [Morgan89660901@twitter](https://twitter.com/Morgan89660901/status/1376646842503602179) | advertise |
 | [morixal@twitter](https://twitter.com/morixal/status/1488785584801959937) | advertise |
 | [mosayeb09@twitter](https://twitter.com/mosayeb09/status/1583618285383258112) | advertise |
