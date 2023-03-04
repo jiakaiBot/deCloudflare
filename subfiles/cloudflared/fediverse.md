@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,878 |
 | social | 3,796 |
-| net | 2,998 |
-| org | 2,092 |
+| net | 2,999 |
+| org | 2,094 |
 | de | 1,964 |
 
 
@@ -4716,6 +4716,7 @@ Here's a list of public Fediverse services.
 | `buntadon.jp` | No |
 | `buntcomm.com` | No |
 | `buntel.de` | No |
+| `buny.love` | No |
 | `buny.plus` | Yes |
 | `bunyip.space` | No |
 | `buoyantair.co` | No |
@@ -14273,6 +14274,7 @@ Here's a list of public Fediverse services.
 | `hhra.uk` | No |
 | `hhsocial.de` | No |
 | `hi-low.social` | No |
+| `hi-na.org` | No |
 | `hi.ls` | Yes |
 | `hiauntie.com` | No |
 | `hibi-tsumo.com` | Yes |
@@ -14846,6 +14848,7 @@ Here's a list of public Fediverse services.
 | `humbernews.online` | No |
 | `humberto.io` | No |
 | `humble.cafe` | Yes |
+| `humblemagica.org` | No |
 | `humblr.social` | No |
 | `hummertje.nl` | No |
 | `humoralpathologie.de` | No |
@@ -15521,6 +15524,7 @@ Here's a list of public Fediverse services.
 | `innovatelearning.social` | Yes |
 | `innum.net` | Yes |
 | `ino.org.uk` | No |
+| `inokashiraskey.jp` | No |
 | `inori.im` | Yes |
 | `inosoft.de` | No |
 | `inosoft.social` | No |
@@ -17459,6 +17463,7 @@ Here's a list of public Fediverse services.
 | `kikrr.social` | No |
 | `kikuzuki.org` | No |
 | `kila.rocks` | No |
+| `kilinbox.net` | No |
 | `kill.yt` | No |
 | `killbox.social` | Yes |
 | `killcops.lol` | No |
@@ -30851,6 +30856,7 @@ Here's a list of public Fediverse services.
 | `shimanchu.social` | No |
 | `shimapan.moe` | No |
 | `shimbashi.beer` | No |
+| `shimesaba.club` | No |
 | `shimmy1996.com` | No |
 | `shimokita.social` | No |
 | `shin.pp.ua` | No |
@@ -37121,6 +37127,7 @@ Here's a list of public Fediverse services.
 | `wallofconfusion.org` | No |
 | `wallonie-bruxelles.social` | No |
 | `walls.social` | Yes |
+| `walnuts.ml` | No |
 | `walrusmafia.com` | No |
 | `waltdn.com` | No |
 | `walterebert.com` | No |
@@ -39300,7 +39307,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,573 |
-| Normal | 29,683 |
+| Normal | 29,690 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
