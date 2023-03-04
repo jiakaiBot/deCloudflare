@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,873 |
-| social | 3,793 |
+| com | 5,875 |
+| social | 3,795 |
 | net | 2,996 |
 | org | 2,092 |
 | de | 1,964 |
@@ -3873,6 +3873,7 @@ Here's a list of public Fediverse services.
 | `blackfireworkz.tech` | Yes |
 | `blackflags.io` | No |
 | `blackgnu.net` | No |
+| `blackheartrebellion.com` | No |
 | `blackhole.social` | No |
 | `blackice.online` | No |
 | `blackjackandhookers.net` | No |
@@ -4799,6 +4800,7 @@ Here's a list of public Fediverse services.
 | `byabbe.se` | Yes |
 | `bycreyo.de` | No |
 | `byebye.party` | Yes |
+| `byecasts.com` | Yes |
 | `byecorps.com` | Yes |
 | `byemc.live` | No |
 | `bygg.land` | No |
@@ -4949,6 +4951,7 @@ Here's a list of public Fediverse services.
 | `caluser.social` | No |
 | `calut.fr` | No |
 | `calzone.club` | No |
+| `cambrian.social` | No |
 | `cambridgeport90.net` | Yes |
 | `cambridgeport90.org` | Yes |
 | `camden.wtf` | No |
@@ -14453,6 +14456,7 @@ Here's a list of public Fediverse services.
 | `hnaportal.net` | No |
 | `hncj.me` | No |
 | `hngh.io` | No |
+| `hnnng.space` | No |
 | `hnws.me` | Yes |
 | `hnz.io` | No |
 | `hnzz.nl` | Yes |
@@ -17294,6 +17298,7 @@ Here's a list of public Fediverse services.
 | `kennery.com` | Yes |
 | `kennyqin.com` | No |
 | `kenodriscoll.com` | Yes |
+| `kenpo.social` | No |
 | `kenscott.me` | Yes |
 | `kensei.dev` | No |
 | `kensimon.io` | No |
@@ -27682,6 +27687,7 @@ Here's a list of public Fediverse services.
 | `prsm.space` | No |
 | `prt.blue` | No |
 | `prt.si` | No |
+| `prtl.cc` | No |
 | `prude.party` | No |
 | `prudent.studio` | Yes |
 | `prvcy.eu` | No |
@@ -39174,6 +39180,7 @@ Here's a list of public Fediverse services.
 | `zoppelt.net` | Yes |
 | `zopyx.com` | No |
 | `zor.gg` | No |
+| `zorangrbic.eu` | No |
 | `zorbo.social` | No |
 | `zord.works` | No |
 | `zordhak.fr` | No |
@@ -39284,8 +39291,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,569 |
-| Normal | 29,672 |
+| Cloudflare | 9,570 |
+| Normal | 29,678 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
