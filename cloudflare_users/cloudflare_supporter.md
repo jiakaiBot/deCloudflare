@@ -2165,8 +2165,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -2323,6 +2323,7 @@ Do not create new issue or we will close it as duplicate.
 | [danny_mx@twitter](https://twitter.com/danny_mx/status/1404509805117648902) | advertise |
 | [DanOno365@twitter](https://twitter.com/DanOno365/status/1371618039108673545) | advertise |
 | [Dansang1103@twitter](https://twitter.com/Dansang1103/status/1473317056019775490) | advertise |
+| [dansstuff32@twitter](https://twitter.com/dansstuff32/status/1631862272338345985) | advertise |
 | [DANTALAKAA@twitter](https://twitter.com/DANTALAKAA/status/1575479199640723456) | advertise |
 | [DanTran09071985@twitter](https://twitter.com/DanTran09071985/status/1390363471179489282) | advertise |
 | [danvice639s@twitter](https://twitter.com/danvice639s/status/1610309573570592772) | advertise |
