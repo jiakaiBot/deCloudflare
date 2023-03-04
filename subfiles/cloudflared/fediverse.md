@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,875 |
-| social | 3,795 |
-| net | 2,996 |
+| com | 5,877 |
+| social | 3,796 |
+| net | 2,998 |
 | org | 2,092 |
 | de | 1,964 |
 
@@ -13420,6 +13420,7 @@ Here's a list of public Fediverse services.
 | `gruene.social` | No |
 | `gruenehoelle.nl` | Yes |
 | `gruenerfaecher.eu` | No |
+| `grueproof.net` | No |
 | `gruezi.net` | No |
 | `gruezishop.ch` | No |
 | `gruifor.eu` | No |
@@ -15149,6 +15150,7 @@ Here's a list of public Fediverse services.
 | `ignifi.social` | No |
 | `ignis.link` | No |
 | `igniterealtime.org` | No |
+| `ignohr.com` | No |
 | `ignorance.eu` | No |
 | `ignorelist.com` | Yes |
 | `ignuranza.net` | Yes |
@@ -18178,6 +18180,7 @@ Here's a list of public Fediverse services.
 | `kylemacquarrie.co.uk` | No |
 | `kylepiira.com` | No |
 | `kylewm.com` | Yes |
+| `kylla.xyz` | No |
 | `kymo.org` | No |
 | `kyohju.com` | No |
 | `kyosakuyo.com` | Yes |
@@ -24112,6 +24115,7 @@ Here's a list of public Fediverse services.
 | `nihao.pub` | Yes |
 | `nihar.page` | Yes |
 | `nihars.in` | Yes |
+| `nihil.ws` | No |
 | `nihilist.space` | No |
 | `nihilum.space` | No |
 | `nihongoposter.club` | No |
@@ -24216,7 +24220,7 @@ Here's a list of public Fediverse services.
 | `niu.ne.jp` | No |
 | `niwas.net` | No |
 | `niwatori.cyou` | No |
-| `niwatoriman.me` | No |
+| `niwatoriman.me` | Yes |
 | `niwiad.dev` | No |
 | `nix.ai` | No |
 | `nix.uno` | No |
@@ -25446,6 +25450,7 @@ Here's a list of public Fediverse services.
 | `openshiftapps.com` | No |
 | `opensim.fun` | No |
 | `opensim.world` | Yes |
+| `opensimulator.social` | Yes |
 | `opensocial.africa` | No |
 | `opensocial.at` | No |
 | `opensocial.network` | Yes |
@@ -29835,7 +29840,7 @@ Here's a list of public Fediverse services.
 | `salle-s.org` | No |
 | `salmonella.tk` | No |
 | `salmorejogeek.com` | No |
-| `salocha.online` | Yes |
+| `salocha.online` | No |
 | `salocin.eu` | No |
 | `salon.social` | No |
 | `salonen.dk` | No |
@@ -32376,7 +32381,7 @@ Here's a list of public Fediverse services.
 | `starship.coffee` | No |
 | `starshipchangeling.net` | No |
 | `starshipcritic.space` | No |
-| `starshipjennings.com` | No |
+| `starshipjennings.com` | Yes |
 | `starside.social` | No |
 | `starsky.me` | No |
 | `start9labs.com` | Yes |
@@ -36543,6 +36548,7 @@ Here's a list of public Fediverse services.
 | `velt.space` | No |
 | `veltens.org` | No |
 | `ven.pm` | No |
+| `vencabot.com` | No |
 | `vending-machine.xyz` | No |
 | `venera.social` | No |
 | `vengalath.com` | Yes |
@@ -39213,9 +39219,10 @@ Here's a list of public Fediverse services.
 | `zsh.li` | Yes |
 | `zsiegel.social` | Yes |
 | `zspn.me` | Yes |
+| `ztechnical.net` | No |
 | `zteo.com` | Yes |
 | `ztn.sh` | Yes |
-| `ztrehagem.dev` | No |
+| `ztrehagem.dev` | Yes |
 | `ztrl.de` | No |
 | `zu1k.com` | Yes |
 | `zu2.org` | No |
@@ -39291,8 +39298,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,570 |
-| Normal | 29,678 |
+| Cloudflare | 9,573 |
+| Normal | 29,682 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
