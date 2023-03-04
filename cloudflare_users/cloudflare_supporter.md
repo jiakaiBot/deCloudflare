@@ -948,6 +948,7 @@ Do not create new issue or we will close it as duplicate.
 | [Arunvlondhe1@twitter](https://twitter.com/Arunvlondhe1/status/1394094384560230403) | advertise |
 | [arvind_sh0108@twitter](https://twitter.com/arvind_sh0108/status/1386913767473090570) | advertise |
 | [arvinvxiii@twitter](https://twitter.com/arvinvxiii/status/1377549061314772998) | advertise |
+| [Aryan281684@twitter](https://twitter.com/Aryan281684/status/1632116552836296709) | advertise |
 | [Aryan10065293@twitter](https://twitter.com/Aryan10065293/status/1396411254533550082) | advertise |
 | [AryanGu17150373@twitter](https://twitter.com/AryanGu17150373/status/1482010948793946112) | advertise |
 | [arzzen@twitter](https://twitter.com/arzzen/status/1384955314991210496) | advertise |
