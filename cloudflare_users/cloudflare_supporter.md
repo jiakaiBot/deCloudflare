@@ -560,6 +560,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ali20484288@twitter](https://twitter.com/Ali20484288/status/1578121167734538252) | advertise |
 | [Ali31543248@twitter](https://twitter.com/Ali31543248/status/1573662744905240577) | advertise |
 | [Ali74967035@twitter](https://twitter.com/Ali74967035/status/1398191756433264646) | advertise |
+| [Ali90373753@twitter](https://twitter.com/Ali90373753/status/1632092194260525062) | advertise |
 | [aliabuhashim_@twitter](https://twitter.com/aliabuhashim_/status/1622885653821239298) | advertise |
 | [aliali57636674@twitter](https://twitter.com/aliali57636674/status/1552967267352072192) | advertise |
 | [aliasger32raj@twitter](https://twitter.com/aliasger32raj/status/1391608805218144260) | advertise |
@@ -2938,6 +2939,7 @@ Do not create new issue or we will close it as duplicate.
 | [elperiodicodigi@twitter](https://twitter.com/elperiodicodigi/status/1513992177906601995) | advertise |
 | [elsaidelazhary@twitter](https://twitter.com/elsaidelazhary/status/1577526530707709953) | advertise |
 | [elsashweyee@twitter](https://twitter.com/elsashweyee/status/1389796841860964354) | advertise |
+| [elsa_aram@twitter](https://twitter.com/elsa_aram/status/1632087729885282305) | advertise |
 | [eltonfe72717723@twitter](https://twitter.com/eltonfe72717723/status/1616344393320898561) | advertise |
 | [ElTr72218261@twitter](https://twitter.com/ElTr72218261/status/1390311899552632834) | advertise |
 | [El_Twyce@twitter](https://twitter.com/El_Twyce/status/1588237297379680258) | advertise |
