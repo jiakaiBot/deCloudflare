@@ -394,6 +394,7 @@ zuru.tech
 zwifthacks.com
 zycrypto.com
 01.ccm.qa.verso.zsservices.com
+adij.zapgoogle.co.il
 alert-manager.k3s.zunicloud.de
 api.zps-testing.net
 api.zuperbodegas.pe
@@ -411,12 +412,17 @@ dan-alarm.zapages.co.il
 dev.zack.su
 drleonid.zapgoogle.co.il
 ebh63nkucv6n3vax.kundenserver.zeitwerk.de
+eliav-tires.zapgoogle.co.il
 eu2-csgo.zebedee.studio
 feedback.zebra-group.ru
+fridman.zapgoogle.co.il
 git.git.backofthehouse.com.hmail.zulutradefx.com
 git.git.git.vmail.zalishchyker.de
 gitlab.gitlab.www.covid19.zalive-akvilon.ru
 hcaptchatext.k8services.zenno.io
+humint.zapgoogle.co.il
+inbalcaspigaon1.zapgoogle.co.il
+inbalcaspigaon2.zapgoogle.co.il
 initheadset.zetoserver.com
 japan-kotsu.zerospace.biz
 jobs.zenploy.io
@@ -427,8 +433,11 @@ mail.zyrenth.com
 men24.zazer-city.net
 nls.zolla.ru
 office-service.zapages.co.il
+ohadbennun.zapgoogle.co.il
 portal.zero.govt.nz
 qrapi.zenia.tech
+regev-hadbarot.zapgoogle.co.il
+ru.zeniq-blockchain.com
 s.zkcdn.net
 sa1-csgo.zebedee.studio
 safetyandhealth4u.zapages.co.il
@@ -484,6 +493,7 @@ zenstoneproperties.co.uk
 zephfairbank.ml
 zero-1.asia
 zerograus.pt
+zh.zeniq-blockchain.com
 zhoubrothers.com
 zhoujin.com
 zionpeace.co.za
