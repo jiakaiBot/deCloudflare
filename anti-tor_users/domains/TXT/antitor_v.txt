@@ -1051,7 +1051,6 @@ vinoitaliano.ro
 vintageproperty.vintagepremiumgift.com
 vintagetek.org
 vip-security-mykonos.gr
-vipcapitalfunding.com
 vipgrandsecurity.com
 vipguard-security.ro
 viplasti.com
@@ -1457,6 +1456,7 @@ areadocliente.verbio.com.br
 auth.vmia.vic.gov.au
 autodiscover.vinfor.cl
 autodiscover.vishwaskikirantrust.in
+autodiscover.vulcan.com.gh
 automanazer.vodafone.cz
 axafrontint.vermeg.com
 back.inflattention.vbaron.ovh
@@ -1485,9 +1485,12 @@ corona-api.viktor-braun.de
 corp-sts.vodafoneziggo.com
 covid-tracker-zeit.vercel.app
 cpanel.clinicadevacinacaocuritiba.vaccineja.com.br
+cpanel.vulcan.com.gh
 cpcalendars.clinicadevacinacaocuritiba.vaccineja.com.br
 cpcalendars.vorona.com
+cpcalendars.vulcan.com.gh
 cpcontacts.clinicadevacinacaocuritiba.vaccineja.com.br
+cpcontacts.vulcan.com.gh
 criscordovaa.vercel.app
 csaazsrun-3a.app.eu.dp.vwg-connect.com
 ddssync-lane32.qa.vivonet.com
@@ -1533,6 +1536,7 @@ git.git.gtest.zmail.vossbryggeri.com
 git.gitlab.amazon.vk-cache.co
 gitlab.git.gmailin.vossbryggeri.com
 gitlab.gitlab.amazon.vk-cache.co
+gitlab.gitlab.git.git.gitlab.hidden-field-1.versacommerce.eu
 hackcovid.vercel.app
 hcp3csaccdpreg-5a.prd.eu.vwg.vwautocloud.net
 hharnisch-twiliocom.vercel.app
@@ -1544,6 +1548,7 @@ hunterghancock.vercel.app
 hunterloftis.vercel.app
 hunterred50.vercel.app
 icepersonaltrain.v3client.com
+idp.vwgroup.ru
 imail.www.wiki.dev.vrouwenhebbenookhaar.nl
 info.vemsa.travel
 intelex.vercel.app
@@ -1613,6 +1618,7 @@ sportcenter.vicomstudio.com
 sps.vungtau.su
 steam.vrroom.nl
 steampoweredcat.vercel.app
+sun1.tele2-kz-taraz.vkuserphoto.ru
 swk-stage.valiton.com
 sync.viadata.store
 system.vshub.com
@@ -1623,6 +1629,7 @@ test.vaccines-otaru-city.jp
 testuser.vercel.app
 trusted-s.us.hsbc.com.prod.na.dynp.cloud1.vv1865.com
 update2411.votreintimite.com
+us-cst.s-connector.vfims.com
 user8.vadavo.eu
 v-academy.id
 v4dfinance.viseaconsulting.com
@@ -1644,6 +1651,7 @@ vanbodegompost.nl
 vandoornsupport.nl
 vankids.co.kr
 vapeloungedelivery.us
+vapyapi.com
 varietal-literature.ca
 vaveylamodam.com
 vaytienicloud.com
@@ -1692,6 +1700,7 @@ viewpointvancouver.ca
 vijayabank.co
 vijayacentral.com
 vikagrin.com
+vikinggroup.ee
 vikings-media.dk
 viktoriyagotseva.com
 vilaser.se
@@ -1706,9 +1715,11 @@ vinklubben-billund.dk
 vintagegroup.vintagepremiumgift.com
 vintagenewsdaily.com
 vintagepremiumgift.com
+vintertecoffshore.fi
 vipchecker.ru
 vipfashiononlineoutlook.com
 virginiafairbank.ml
+virtualqxmedic3.com
 virtualservice.net.br
 virtualticket.tv
 visacovid.com
@@ -1730,13 +1741,16 @@ vod.vcmedios.tv
 vodabrd.com
 vodafone-telekom-shop-vechta.de
 vodiscord.vercel.app
+vogueupholstery.com.au
 voices.media
 voicesinmovement.org
 voicesofvr.com
 voidacoustics.ro
 voltafa.org
+voltcoinwallet.co.uk
 voltedu.com
 vortesso.com
+vosges.vivrest.com
 voutu.be
 voxmediaevents.com
 voyage-quantique.fr
@@ -1759,9 +1773,11 @@ webdisk.clinicadevacinacaocuritiba.vaccineja.com.br
 webdisk.vaccinesandsociety.com
 webdisk.vaccinesandsociety.com.vaccinesandsociety.org
 webdisk.vorona.com
+webdisk.vulcan.com.gh
 webmail.clinicadevacinacaocuritiba.vaccineja.com.br
 webmail.vaccinesandsociety.com
 webmail.vaccinesandsociety.com.vaccinesandsociety.org
+webmail.vulcan.com.gh
 wfo.f2.verintcloudservices.com
 willbeallright2blue-gmailcom.vercel.app
 www.accounts.victoryauditors.co.tz
@@ -1770,6 +1786,7 @@ www.alarmausa.ro.s2.veziv.ro
 www.anggi--billy.viding.co
 www.areadocliente.verbio.com.br
 www.billing.vedaantgifts.com
+www.booking-ui.v-code.co.uk
 www.bookings.vivavelo.uk
 www.citi.com.voyageafrique.co.ke
 www.clientes.ventipos.com
@@ -1781,6 +1798,7 @@ www.ferrdelivery.virtualtecserver.com
 www.git.git.gitlab.gitlab.backoffice.vuoksapark.ru
 www.login.vipallservice.com
 www.merchandisingdelivery.com.velkaspa.com
+www.pharmamanufacture.vissveselibai.lv
 www.relampago-de-clientes.virio.digital
 www.surokkha-gov-bd.verify-onlinee.com
 www.titanic.visionservice.com.pe
@@ -1810,10 +1828,12 @@ www.velocityofficefurniture.com
 www.venaver.com.ar
 www.venture-west.co.uk
 www.vergingoaescorts.com
+www.verifyaccountyah.com
 www.versionformations.com
 www.verstand.ai
 www.verstegenstigter.nl
 www.versuslehti.fi
+www.vervech.com
 www.verywellfamily.com
 www.verywellfit.com
 www.vettriip.org
@@ -1828,8 +1848,10 @@ www.victorgrasso.com
 www.victoriansweatshop.com
 www.video-softwares.com
 www.videochatforum.ro
+www.vikinggroup.ee
 www.vincentdt.com
 www.vinylworld.dk
+www.vipespresso.com.br
 www.virgoconsultinggroup.com
 www.virtualservice.net.br
 www.virtuousbookkeeping.com
@@ -1843,6 +1865,7 @@ www.voievodulgelu.ro
 www.volvocarsarrowhead.com
 www.vortexshippingservice.com
 www.voyance-vosges.fr
+www.vozdomatogrosso.com.br
 www.vpn4all.site
 www.vpnsoftwares.com
 www.vrijschrift.org
