@@ -426,6 +426,7 @@ common-api-eu-cf.yepgarage.com
 cpcalendars.yamatotakeru.tokyo
 discourse.yatahonga.com
 dms-abof74q8xxreport.wc.yahoodns.net
+edwqfgfsgd.youdontcare.com
 er-addon.yesbank.in
 er-ext-api.yesbank.in
 git.git.git.git.goffice365.yalecarolinas.com
@@ -472,7 +473,9 @@ www.oktamia.yukundang.com
 www.post.yefi.site
 www.support.yoshope.com
 www.yachtservice-laboe.de
+www.yajagoff.com
 www.yankton.net
+www.yapianalizi.com.tr
 www.yazarlaryapi.com.tr
 www.yego.cool
 www.ymmarrys.org
@@ -483,6 +486,7 @@ www.yourfuturecredit.com
 y3rt.com
 yahoomailsupportphonenumber.com
 yapianaliz.com.tr
+yapianalizi.com.tr
 yapiskan.tk
 yaseagrouptravel.com
 yayanadriano.web.id
@@ -502,6 +506,7 @@ youenforcement.life
 youhaveitmaidservice.com
 youinspire.me.uk
 yourbestone.com
+yourcovidshot.com
 yourcryptohome.com
 yourfuturecredit.com
 yourlastrites.com
