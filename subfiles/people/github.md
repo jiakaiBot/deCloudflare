@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ive enabled crowdsec on my wp site](https://github.com/crowdsecurity/cs-wordpress-bouncer/issues/132)
 - [Homeserver url issue](https://github.com/matrix-org/sydent/issues/555)
 - [Patcher corrupts chromedriver binary on MacOS (M1)](https://github.com/fysh711426/UndetectedChromeDriver/issues/40)
 - [Cannot use Prisma Client on Cloud Flare Pages](https://github.com/prisma/prisma/issues/18204)
