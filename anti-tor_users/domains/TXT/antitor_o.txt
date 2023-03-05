@@ -125,7 +125,6 @@ ekyc01.oceanbank.vn
 el12.orkiestra.opole.pl
 elasticsearch.oakroots.io
 elektricnitrotineti.net.ovlasceniservis.rs
-email.oliynyk.com
 enpass.onfastspring.com
 etc-ttgfsdrfre.organiccrap.com
 events.orangebowl.org
@@ -176,7 +175,6 @@ image.mail.onedrive.com
 immocentre.omnicasaweb.com
 in.offto.click
 inet.o-tam.jp
-infomail.orange.fr
 inr-broker.omgevingsloket.nl
 integration-idcg4xftprps-ia.integration.ocp.oraclecloud.com
 ir.ocugen.com
@@ -196,7 +194,6 @@ live.or-bit.net
 lod.openwork.nz
 login-ext.identity.oraclecloud.com
 login-rqb.oif03iljncn09314djsdask.com
-m-erable-b2b2c.orange.fr
 m4-identity.ottctel.com
 mail.oct1.ru
 mail.octagono.com.do
@@ -519,7 +516,6 @@ rku-integration-test.it-cpi001-rt.cfapps.eu10.hana.ondemand.com
 rockrobo-dev-k6z3hh9j.it-cpi018-rt.cfapps.eu10-003.hana.ondemand.com
 rol.osr.wa.gov.au
 roomservicedoubletreebyhilton93.onpublicidad.co
-rp-vod.orange.fr
 rtb.openx.net
 rur.oekom.de
 s403-sun2-coinbase-exchange-recorder.server.uat.ownid.com
@@ -780,7 +776,6 @@ www.update.odaanews.net
 www.update.online-kvartira.ru
 www.wachtwoord.apps.omnius.nl
 www.whitelistpass.obzidian.net
-xbox.orange.fr
 0898ujkfff.onedumb.com
 66bmfl7r.optimalworkshop.com
 720creditscore.com.pages.ontraport.net
@@ -915,7 +910,6 @@ identity.me-abudhabi-1.oci.oraclecloud.com
 idep-wms-cloud-01.staging.oberthur.net
 igr.olma-messen.ch
 info.otto-payments.de
-infoform.orange.fr
 instfund.ocbc.com
 interface.oeticket.com
 invoice.obdltd.co.uk
@@ -1426,13 +1420,16 @@ api.updatefullpage.review.acdc.odiwi.fr
 auth.omega-caci.com
 auth.osloskoleutv.no
 autodiscover.oyagtv.site
+avito.avito.avito.avito.avito.www.covid19.oxygensystem.info
 avito.avito.www.sber.covid19.oxygensystem.info
 avito.sber.avito.sber.blablacar.git.covid19.ooo-medexpress.ru
+avito.sber.avito.sberbank.a.avito.www.covid19.omveterinary.com
 beforeupdate.ormskirkskipsltd.co.uk
 bisfass.objectway.it
 bo.updatefullpage.review.acdc.odiwi.fr
 bodynov.rdv-04.ovea.com
 bundle-lbe-mpls-onlyoffice-20221119-01-ssl.on-web.fr
+bv.d2.orangehive.de
 bvclogistics-dev.outsystemsenterprise.com
 captcha.o5api.com
 cdn.opecloud.com
@@ -1503,7 +1500,6 @@ mlshomejab.ohmybargains.com
 mmsp.onoffapp.net
 mobile-content.osce.org
 mobile.ohs-solutions.com
-mon-reseau-local-build.rec.orange.fr
 monleale.owst.jp
 mx1.oc3n.net
 mygadgetgifts.onlinepremiumgifts.com
@@ -1573,6 +1569,7 @@ onlineradio.am
 onlyfansfinder.org
 onpreneur.com
 onsiteag-services.com
+onurkaradeniz.com.tr
 opastajat.net
 openbenches.org
 openjewereld.nu
@@ -1609,6 +1606,7 @@ overclipse.de
 overline.co.il
 overtones.hu
 overzichtenorde.nl
+ovesco.co.uk
 ovrmoney.in
 owa.oso.sk
 oysterfest.ca
@@ -1632,6 +1630,7 @@ rsp-0003.oberthur.net
 sadc1.outbrain.com
 sandbox52.orbita.cloud
 sber.avito.avito.sber.covid19.oxygensystem.info
+sberbank.avito.avito.avito.avito.www.covid19.oxygensystem.info
 sberbank.avito.sber.git.covid19.ooo-medexpress.ru
 sberbank.avito.sberbank.a.avito.www.covid19.omveterinary.com
 securitychecks.outlookdev.co.uk
@@ -1691,6 +1690,7 @@ www.free-money.oursportscentral4k.com
 www.git.git.git.git.git.delivery.okarachi.net
 www.green-stone.online-it-support.dk
 www.greenfielddirttrack.osam-dev.co.uk
+www.gustinoid.onepresso.net
 www.login.oneillhosting.com
 www.marugujaratpost.ojasbharti.org
 www.meridianremoteteams.onviora.com
@@ -1714,6 +1714,7 @@ www.ohmscreativestudio.in
 www.oidom.oulunlaitepalvelu.fi
 www.ojrq.net
 www.oki.com
+www.oktavina.my.id
 www.oldironpost.com
 www.oldscottish.com
 www.oleconsignado.com.br
@@ -1725,6 +1726,8 @@ www.oliviergueant.com
 www.olympiaindivisible.org
 www.omenie.com
 www.omniconsecurity.com
+www.omswiss.online
+www.omutafanclub.com
 www.omwis.de
 www.onajkojikuca.com
 www.one-place-studies.org
@@ -1733,10 +1736,12 @@ www.oneblackapple.com
 www.onechord.net
 www.onedirect.fr
 www.onedollarwebhostings.com
+www.onedriver.fr
 www.onefinedaytherapyandsupport.com
 www.onelogininc.com
 www.oneskysafety.com
 www.onesourceaudit.com
+www.onlinecannabisshopdelivery.com.onlinelegalmedshop.com
 www.onlinetestconf.com
 www.onmanorama.com
 www.onriva.com
@@ -1751,8 +1756,11 @@ www.opensupport.com.co
 www.optavia.com
 www.opticalbythebay.com
 www.opvoedadvies.nl
+www.oralhrbc.com.br
+www.orchidea.fi
 www.ordosafe.fr
 www.oreedargent.com
+www.oregoncapitalinsider.com
 www.originalgame.xyz
 www.originsleuven.be
 www.orkuskiptaspa.is
@@ -1764,8 +1772,11 @@ www.oteuamigo.pt
 www.otmliteracy.com
 www.otokkaakatemia.fi
 www.ouacademy.co
+www.oulunsisailmapuhdistus.oulunlaitepalvelu.fi
+www.ourlandournature.org
 www.outlookag.com.au
 www.outlookapartmentliving.com
+www.outlooklandscaping.co.uk
 www.outoftheboxproductions.ca
 www.ov8espeakers.nl
 www.ove.com.sg
@@ -1777,7 +1788,9 @@ www.ozalto.com
 www.ozayyapi.com.tr
 www.ozcelikgrupyapi.com
 www.ozmall.co.jp
+www.ozmiryapi.com.tr
 www.parts.ordenservicio.com
+www.payment.oteneriferent.com
 www.support.ohmscreativestudio.in
 www.support.omniuse.com
 www.thetembusugrand.onepearlsbank.com.sg
@@ -1785,11 +1798,11 @@ www.ticket.orientacionvocacionalucb.com
 www.ticket.oyaguy.live
 www.ticketschedule.officiallevents.com
 www.top10microsoftgames.onesoavest.com
+www.whatsapp.orlant.sg
 y1111-iflmap.hcisbp.eu1.hana.ondemand.com
 0-mofstructure-active-okta-network-zh-scoinbaseeurope.server.uat.ownid.com
 8a138rds.orarijabar.or.id
 account.orqoo.co.uk
-alerte-cyberfiltre-pprod.e.orange.fr
 ankusha.onlinegoogleadscourse.com
 apcpcdcl-test-k5qoqm5y.it-cpi012-rt.cfapps.ap21.hana.ondemand.com
 api-sit.organon.com
@@ -1952,7 +1965,6 @@ os-celebici.edu.ba
 osakadou.cool
 oscilograma.com
 osciloscopiopassoapasso.com
-osi-bis.ca
 osikkosakuhin.com
 ospedale.al.it
 osrodek-nedza.pl
@@ -1995,7 +2007,6 @@ service.optimuspro.co.id
 styleguide-obermeyer-group-com.support-php-autoupdate.review.ober-sys.de
 swd-dr-ohsim.oracleindustry.com
 t.a.onstar.com
-templates.messageriepro.orange.fr
 terahertz-japan.com.olyemall.com
 terraform.services.opensight.ch
 test-apiopen.openbankingbcp.com
