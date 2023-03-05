@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,881 |
+| com | 5,882 |
 | social | 3,798 |
-| net | 3,001 |
+| net | 3,002 |
 | org | 2,095 |
 | de | 1,966 |
 
@@ -3277,6 +3277,7 @@ Here's a list of public Fediverse services.
 | `beastnet.works` | No |
 | `beatles.social` | No |
 | `beatrice.wtf` | No |
+| `beatsaber.jp` | Yes |
 | `beatty.family` | No |
 | `beaulieu.social` | No |
 | `beaumonts.me` | Yes |
@@ -5604,6 +5605,7 @@ Here's a list of public Fediverse services.
 | `chilemasto.casa` | No |
 | `chilidog.world` | No |
 | `chilira.com` | No |
+| `chilitreat.dev` | No |
 | `chillbot.space` | No |
 | `chillbros.online` | No |
 | `chilli.social` | No |
@@ -13044,6 +13046,7 @@ Here's a list of public Fediverse services.
 | `goddessphoebe.com` | Yes |
 | `godforsaken.website` | No |
 | `godfreyhendrix.com` | Yes |
+| `godot.coffee` | No |
 | `godot.dev` | No |
 | `godsandradicals.org` | No |
 | `godshome.info` | No |
@@ -15779,6 +15782,7 @@ Here's a list of public Fediverse services.
 | `irrsinn.video` | No |
 | `irrwitz.com` | No |
 | `irsoluciones.social` | No |
+| `irucabot.com` | Yes |
 | `irumina.net` | No |
 | `is-a.cat` | Yes |
 | `is-a.horse` | No |
@@ -30549,6 +30553,7 @@ Here's a list of public Fediverse services.
 | `seiichiro0185.org` | No |
 | `seijin.jp` | No |
 | `seikin.club` | No |
+| `seikora.one` | Yes |
 | `seistrup-nagel.dk` | Yes |
 | `seitaro.me` | No |
 | `seitokai.tech` | No |
@@ -32502,6 +32507,7 @@ Here's a list of public Fediverse services.
 | `steinwart.dk` | No |
 | `stelabrego.com` | No |
 | `stella.place` | Yes |
+| `stellanaut.net` | Yes |
 | `stellar-drop.info` | Yes |
 | `stellar.build` | Yes |
 | `stellaria.network` | Yes |
@@ -39326,8 +39332,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,579 |
-| Normal | 29,704 |
+| Cloudflare | 9,583 |
+| Normal | 29,706 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
