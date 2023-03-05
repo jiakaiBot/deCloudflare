@@ -1009,6 +1009,7 @@ Do not create new issue or we will close it as duplicate.
 | [ATP_Sang@twitter](https://twitter.com/ATP_Sang/status/1626915325227966465) | advertise |
 | [AttaAtt05399049@twitter](https://twitter.com/AttaAtt05399049/status/1386699730898456579) | advertise |
 | [attab0yyy@twitter](https://twitter.com/attab0yyy/status/1383128080818970624) | advertise |
+| [AuCoeurduMac@twitter](https://twitter.com/AuCoeurduMac/status/1632295278525947906) | advertise |
 | [augthu@twitter](https://twitter.com/augthu/status/1400836583994007554) | advertise |
 | [AugustHtoo7@twitter](https://twitter.com/AugustHtoo7/status/1379453764403257344) | advertise |
 | [Augustjkjk@twitter](https://twitter.com/Augustjkjk/status/1553083207574487040) | advertise |
@@ -4892,6 +4893,7 @@ Do not create new issue or we will close it as duplicate.
 | [John96828506@twitter](https://twitter.com/John96828506/status/1390129148262117378) | advertise |
 | [JohnAndrew_1@twitter](https://twitter.com/JohnAndrew_1/status/1401082932626853888) | advertise |
 | [johnat_johnson@twitter](https://twitter.com/johnat_johnson/status/1383007338508931072) | advertise |
+| [JohnHarvey237@twitter](https://twitter.com/JohnHarvey237/status/1632305201330651136) | advertise |
 | [johnjoemorgan@twitter](https://twitter.com/johnjoemorgan/status/1470604635391991811) | advertise |
 | [JohnJoh28798504@twitter](https://twitter.com/JohnJoh28798504/status/1402285463600304132) | advertise |
 | [JohnKhaing2@twitter](https://twitter.com/JohnKhaing2/status/1395711379818958851) | advertise |
@@ -10685,8 +10687,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
