@@ -1069,6 +1069,7 @@ Here's a list of public Fediverse services.
 | `afterway.pw` | Yes |
 | `afteryu.me` | Yes |
 | `afu.social` | No |
+| `afy.jp` | Yes |
 | `aga.ovh` | No |
 | `agadius.de` | No |
 | `againstthefuture.net` | No |
@@ -12875,6 +12876,7 @@ Here's a list of public Fediverse services.
 | `gldon.love` | No |
 | `gleasonator.com` | Yes |
 | `gleasonator.dev` | Yes |
+| `glee.li` | Yes |
 | `gleeson.app` | No |
 | `gleisnetze.de` | No |
 | `glemza.net` | Yes |
@@ -39359,7 +39361,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,596 |
+| Cloudflare | 9,598 |
 | Normal | 29,720 |
 
 
