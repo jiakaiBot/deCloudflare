@@ -12317,6 +12317,7 @@ Do not create new issue or we will close it as duplicate.
 | [zahedr@twitter](https://twitter.com/zahedr/status/1404344671778742275) | advertise |
 | [zahrafarouq1@twitter](https://twitter.com/zahrafarouq1/status/1401092958972166147) | advertise |
 | [ZAHRSAEED@twitter](https://twitter.com/ZAHRSAEED/status/1494523655556059137) | advertise |
+| [Zaid_Dawoud@twitter](https://twitter.com/Zaid_Dawoud/status/1632443594668662786) | advertise |
 | [zaimiesmy1@twitter](https://twitter.com/zaimiesmy1/status/1584188095356112896) | advertise |
 | [Zakarias7i@twitter](https://twitter.com/Zakarias7i/status/1403217695596847105) | advertise |
 | [ZakiAhmadi23230@twitter](https://twitter.com/ZakiAhmadi23230/status/1606978457149259778) | advertise |
