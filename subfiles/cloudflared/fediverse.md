@@ -37591,6 +37591,7 @@ Here's a list of public Fediverse services.
 | `whitesmokebbq.social` | No |
 | `whitespashe.uk` | No |
 | `whitewolfpack.com` | No |
+| `whitewomen.dog` | No |
 | `whizanth.com` | Yes |
 | `whmcr.com` | Yes |
 | `whn.social` | No |
@@ -39362,7 +39363,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,598 |
-| Normal | 29,720 |
+| Normal | 29,721 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
