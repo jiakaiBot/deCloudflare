@@ -6644,6 +6644,7 @@ Here's a list of public Fediverse services.
 | `cozytronics.com` | No |
 | `cplus8.com` | Yes |
 | `cpluspatch.com` | Yes |
+| `cpluspatch.dev` | Yes |
 | `cpn.so` | Yes |
 | `cpp.ninja` | No |
 | `cpper.xyz` | No |
@@ -18881,6 +18882,7 @@ Here's a list of public Fediverse services.
 | `liao.dev` | No |
 | `liaru.link` | No |
 | `libarti.com` | No |
+| `libbie.cloud` | No |
 | `libcore.org` | Yes |
 | `libcyb.so` | No |
 | `libella.social` | No |
@@ -30880,7 +30882,7 @@ Here's a list of public Fediverse services.
 | `shimanchu.social` | No |
 | `shimapan.moe` | No |
 | `shimbashi.beer` | No |
-| `shimesaba.club` | No |
+| `shimesaba.club` | Yes |
 | `shimmy1996.com` | No |
 | `shimokita.social` | No |
 | `shin.pp.ua` | No |
@@ -32996,7 +32998,7 @@ Here's a list of public Fediverse services.
 | `supr.gay` | No |
 | `supremegoddesses.com` | No |
 | `supremesyntax.com` | No |
-| `suprt.me` | Yes |
+| `suprt.me` | No |
 | `sur.social` | No |
 | `suranyami.com` | No |
 | `surazal.net` | No |
@@ -39335,8 +39337,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,586 |
-| Normal | 29,706 |
+| Cloudflare | 9,587 |
+| Normal | 29,707 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
