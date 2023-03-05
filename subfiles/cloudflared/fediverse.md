@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,882 |
+| com | 5,884 |
 | social | 3,801 |
 | net | 3,005 |
 | org | 2,095 |
@@ -712,6 +712,7 @@ Here's a list of public Fediverse services.
 | `abaweb.online` | No |
 | `abaweb.social` | No |
 | `abb.ink` | Yes |
+| `abbie.cc` | Yes |
 | `abbotsfurred.ca` | No |
 | `abbr.wtf` | Yes |
 | `abcang.net` | No |
@@ -5534,6 +5535,7 @@ Here's a list of public Fediverse services.
 | `chbk.co` | Yes |
 | `chbmeyer.de` | No |
 | `chc1.com` | Yes |
+| `chdorner.com` | Yes |
 | `che5hire.club` | No |
 | `cheatha.de` | No |
 | `checked.social` | No |
@@ -5761,6 +5763,7 @@ Here's a list of public Fediverse services.
 | `chriswiegman.com` | Yes |
 | `chriswilson.blog` | No |
 | `chriswood.social` | No |
+| `chriswright.photography` | No |
 | `chrom.ee` | Yes |
 | `chromabits.com` | No |
 | `chromachan.net` | No |
@@ -11247,6 +11250,7 @@ Here's a list of public Fediverse services.
 | `floating-in.space` | No |
 | `floatplane.rip` | No |
 | `flockingbird.social` | No |
+| `flockofnazguls.com` | No |
 | `floe.earth` | No |
 | `flohgro.com` | No |
 | `flokinet.is` | No |
@@ -38698,6 +38702,7 @@ Here's a list of public Fediverse services.
 | `yiny.org` | No |
 | `yinzer.city` | No |
 | `yip.computer` | No |
+| `yip.fm` | No |
 | `yip.gay` | No |
 | `yjin.dev` | Yes |
 | `yjk.im` | Yes |
@@ -39362,8 +39367,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,598 |
-| Normal | 29,721 |
+| Cloudflare | 9,600 |
+| Normal | 29,724 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
