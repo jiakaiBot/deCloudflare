@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,882 |
-| social | 3,798 |
+| social | 3,799 |
 | net | 3,002 |
 | org | 2,095 |
 | de | 1,966 |
@@ -37487,6 +37487,7 @@ Here's a list of public Fediverse services.
 | `westring.digital` | No |
 | `westsideblogger.eu` | No |
 | `weststar.name` | Yes |
+| `westvisions.social` | No |
 | `wetalkyoulisten.com` | Yes |
 | `wetdry.world` | No |
 | `wetermater.com` | No |
@@ -39333,7 +39334,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,583 |
-| Normal | 29,706 |
+| Normal | 29,707 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
