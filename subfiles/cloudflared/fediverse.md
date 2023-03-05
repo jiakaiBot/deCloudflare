@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,882 |
 | social | 3,801 |
-| net | 3,004 |
+| net | 3,005 |
 | org | 2,095 |
 | de | 1,966 |
 
@@ -14111,6 +14111,7 @@ Here's a list of public Fediverse services.
 | `hellch.at` | No |
 | `hellchat.club` | No |
 | `hellcom.live` | No |
+| `hellholesys.tk` | No |
 | `hellions.cloud` | Yes |
 | `hellmage.com` | No |
 | `hellohihi.net` | No |
@@ -36488,6 +36489,7 @@ Here's a list of public Fediverse services.
 | `vanderwarker.ml` | No |
 | `vanderwarker.photos` | Yes |
 | `vanderwarker.social` | Yes |
+| `vandevan.net` | Yes |
 | `vandevoor.de` | No |
 | `vandewaetere.be` | No |
 | `vandl.club` | No |
@@ -39357,8 +39359,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,595 |
-| Normal | 29,719 |
+| Cloudflare | 9,596 |
+| Normal | 29,720 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
