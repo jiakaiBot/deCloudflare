@@ -9295,6 +9295,7 @@ Do not create new issue or we will close it as duplicate.
 | [rone_clifton@twitter](https://twitter.com/rone_clifton/status/1450187206979588096) | advertise |
 | [RonitBose13@twitter](https://twitter.com/RonitBose13/status/1428250137445425157) | advertise |
 | [RonnachaiKammu6@twitter](https://twitter.com/RonnachaiKammu6/status/1382350935758807043) | advertise |
+| [ronniesemakula1@twitter](https://twitter.com/ronniesemakula1/status/1632467117923618817) | advertise |
 | [RonnieSstore@twitter](https://twitter.com/RonnieSstore/status/1401572362261237764) | advertise |
 | [Ronnie_chiep@twitter](https://twitter.com/Ronnie_chiep/status/1602676819441876993) | advertise |
 | [ronnyinvesting@twitter](https://twitter.com/ronnyinvesting/status/1534207065282949122) | advertise |
@@ -12166,6 +12167,7 @@ Do not create new issue or we will close it as duplicate.
 | [yellow_cute1912@twitter](https://twitter.com/yellow_cute1912/status/1385865689286676482) | advertise |
 | [yellyoshua@twitter](https://twitter.com/yellyoshua/status/1593073934274285569) | advertise |
 | [YeMarn47754587@twitter](https://twitter.com/YeMarn47754587/status/1390341861118599168) | advertise |
+| [yemedenolmazbe@twitter](https://twitter.com/yemedenolmazbe/status/1632464049127522305) | advertise |
 | [yemenpridee2@twitter](https://twitter.com/yemenpridee2/status/1479099696681570307) | advertise |
 | [yemin971@twitter](https://twitter.com/yemin971/status/1393180804126101506) | advertise |
 | [YeMinHt50832931@twitter](https://twitter.com/YeMinHt50832931/status/1405031740595310597) | advertise |
