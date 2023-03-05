@@ -1329,6 +1329,7 @@ Do not create new issue or we will close it as duplicate.
 | [Baki64515168@twitter](https://twitter.com/Baki64515168/status/1403351148342480897) | advertise |
 | [Bakr14M@twitter](https://twitter.com/Bakr14M/status/1517969694069870595) | advertise |
 | [BaksoCez@twitter](https://twitter.com/BaksoCez/status/1610617156433227778) | advertise |
+| [Baktash2000@twitter](https://twitter.com/Baktash2000/status/1632182641821712384) | advertise |
 | [Bakulmaterial@twitter](https://twitter.com/Bakulmaterial/status/1392244753429778433) | advertise |
 | [bak_bao@twitter](https://twitter.com/bak_bao/status/1381263917448454144) | advertise |
 | [balbalaarka@twitter](https://twitter.com/balbalaarka/status/1398161624834445312) | advertise |
@@ -2862,6 +2863,7 @@ Do not create new issue or we will close it as duplicate.
 | [edneymedeiros@twitter](https://twitter.com/edneymedeiros/status/1582791777853280256) | advertise |
 | [edrandall@twitter](https://twitter.com/edrandall/status/1620085641899040768) | advertise |
 | [EdreaRae@twitter](https://twitter.com/EdreaRae/status/1389978942321291267) | advertise |
+| [Edrismohammadi0@twitter](https://twitter.com/Edrismohammadi0/status/1632182528462209033) | advertise |
 | [EduartBerisha1@twitter](https://twitter.com/EduartBerisha1/status/1481998620379467783) | advertise |
 | [Edvard83454626@twitter](https://twitter.com/Edvard83454626/status/1424641511405367298) | advertise |
 | [EdwardLouie00@twitter](https://twitter.com/EdwardLouie00/status/1628736548178132993) | advertise |
