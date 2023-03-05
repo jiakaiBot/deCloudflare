@@ -1975,6 +1975,7 @@ Here's a list of public Fediverse services.
 | `any.dev` | Yes |
 | `anyfrog.net` | Yes |
 | `anyhu.gs` | No |
+| `anymanystreams.cc` | Yes |
 | `anymore.nl` | No |
 | `anyqn.com` | No |
 | `anything.moe` | Yes |
@@ -21267,6 +21268,7 @@ Here's a list of public Fediverse services.
 | `med-mammoth.com` | No |
 | `med-mastodon.com` | No |
 | `med-mstdn.com` | No |
+| `mede.family` | Yes |
 | `media-techport.de` | No |
 | `media-trust.com` | No |
 | `media21.nl` | No |
@@ -29387,6 +29389,7 @@ Here's a list of public Fediverse services.
 | `rookieo.com` | No |
 | `room19.com` | No |
 | `room1969.net` | No |
+| `room4.dev` | Yes |
 | `room409.xyz` | No |
 | `roommatefriendfinder.com` | No |
 | `roon.fr` | No |
@@ -36768,6 +36771,7 @@ Here's a list of public Fediverse services.
 | `vinylor.com` | Yes |
 | `vinzenz.social` | No |
 | `vinzv.space` | No |
+| `violaine.xyz` | No |
 | `violence.church` | No |
 | `violet.lol` | No |
 | `violoncello.ch` | No |
@@ -39339,8 +39343,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,587 |
-| Normal | 29,709 |
+| Cloudflare | 9,590 |
+| Normal | 29,710 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
