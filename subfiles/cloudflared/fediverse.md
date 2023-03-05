@@ -14860,7 +14860,7 @@ Here's a list of public Fediverse services.
 | `humbernews.online` | No |
 | `humberto.io` | No |
 | `humble.cafe` | Yes |
-| `humblemagica.org` | No |
+| `humblemagica.org` | Yes |
 | `humblr.social` | No |
 | `hummertje.nl` | No |
 | `humoralpathologie.de` | No |
@@ -25183,7 +25183,7 @@ Here's a list of public Fediverse services.
 | `okinawa-mstdn.okinawa` | No |
 | `okinawadon.okinawa` | No |
 | `okinkin.top` | Yes |
-| `okitsu.net` | No |
+| `okitsu.net` | Yes |
 | `okkema.org` | Yes |
 | `okkikki.tokyo` | No |
 | `okko.io` | No |
@@ -26140,6 +26140,7 @@ Here's a list of public Fediverse services.
 | `parlez-ici.ca` | No |
 | `parlonslinux.fr` | No |
 | `parocus.de` | No |
+| `parpok.lomza.pl` | Yes |
 | `parrot-ctfs.com` | Yes |
 | `parrygod.club` | No |
 | `pars.ee` | No |
@@ -39333,8 +39334,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,583 |
-| Normal | 29,707 |
+| Cloudflare | 9,586 |
+| Normal | 29,705 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
