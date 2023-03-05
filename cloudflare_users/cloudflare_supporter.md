@@ -11255,6 +11255,7 @@ Do not create new issue or we will close it as duplicate.
 | [Truongd26939610@twitter](https://twitter.com/Truongd26939610/status/1400501039443361796) | advertise |
 | [truongdang1368@twitter](https://twitter.com/truongdang1368/status/1592048084267438081) | advertise |
 | [TruongDungntd@twitter](https://twitter.com/TruongDungntd/status/1408038729999024133) | advertise |
+| [truonghai1805@twitter](https://twitter.com/truonghai1805/status/1632409642478497793) | advertise |
 | [truongm34456387@twitter](https://twitter.com/truongm34456387/status/1552380455420252166) | advertise |
 | [TruongN54718869@twitter](https://twitter.com/TruongN54718869/status/1386204714484715524) | advertise |
 | [TruongP91534129@twitter](https://twitter.com/TruongP91534129/status/1601107921940512768) | advertise |
