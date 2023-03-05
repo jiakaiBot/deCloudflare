@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Hard crash when DMA returns a failure code](https://github.com/Brod8362/d4m/issues/32)
+- [GoodStaking And Protfolio broken](https://github.com/GoodDollar/GoodProtocolUI/issues/367)
 - [Return 413 error on upload](https://github.com/SergiX44/XBackBone/issues/521)
 - [2023-03-04 Hot Posts](https://github.com/jiacai2050/hot-posts/issues/212)
 - [expose a returnsData method on statement](https://github.com/WiseLibs/better-sqlite3/issues/962)
