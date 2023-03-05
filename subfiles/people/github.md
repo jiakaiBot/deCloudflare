@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [2023-03-04 Hot Posts](https://github.com/jiacai2050/hot-posts/issues/212)
 - [expose a returnsData method on statement](https://github.com/WiseLibs/better-sqlite3/issues/962)
 - [ive enabled crowdsec on my wp site](https://github.com/crowdsecurity/cs-wordpress-bouncer/issues/132)
 - [Homeserver url issue](https://github.com/matrix-org/sydent/issues/555)
