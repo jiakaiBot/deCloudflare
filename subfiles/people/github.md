@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cozy & cloudflared](https://github.com/cozy/cozy-coclyco/issues/5)
 - [Hard crash when DMA returns a failure code](https://github.com/Brod8362/d4m/issues/32)
 - [GoodStaking And Protfolio broken](https://github.com/GoodDollar/GoodProtocolUI/issues/367)
 - [Return 413 error on upload](https://github.com/SergiX44/XBackBone/issues/521)
