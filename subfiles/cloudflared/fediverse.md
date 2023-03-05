@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,882 |
 | social | 3,801 |
-| net | 3,002 |
+| net | 3,004 |
 | org | 2,095 |
 | de | 1,966 |
 
@@ -38,6 +38,7 @@ Here's a list of public Fediverse services.
 | Service | Cloudflared |
 | --- | --- |
 | `0-z-0.com` | No |
+| `000090000.xyz` | No |
 | `000webhostapp.com` | No |
 | `0010100.de` | No |
 | `0011.lt` | No |
@@ -181,6 +182,7 @@ Here's a list of public Fediverse services.
 | `1234.as` | Yes |
 | `123abc.tokyo` | No |
 | `1242.com` | Yes |
+| `127b.nl` | No |
 | `128.ca` | No |
 | `128k.blog` | No |
 | `128k.site` | No |
@@ -2240,6 +2242,7 @@ Here's a list of public Fediverse services.
 | `armpc.de` | No |
 | `armpit.me` | Yes |
 | `armstube.com` | Yes |
+| `arnan.me` | No |
 | `arnaudboutry.art` | No |
 | `arnauld.org` | No |
 | `arnemancy.com` | No |
@@ -9478,6 +9481,7 @@ Here's a list of public Fediverse services.
 | `eike-guenther.de` | No |
 | `eiko-fried.com` | No |
 | `eikobear.blue` | No |
+| `eilloh.net` | No |
 | `ein-hub-von-vielen.de` | No |
 | `einbeck.social` | No |
 | `eindhoven.social` | No |
@@ -18354,6 +18358,7 @@ Here's a list of public Fediverse services.
 | `lakedistrict.social` | No |
 | `lakedrops.com` | Yes |
 | `lakelogaztetxea.net` | No |
+| `laker.tech` | Yes |
 | `lakerturner.co.uk` | Yes |
 | `lakomarka.cat` | Yes |
 | `lalafell.org` | No |
@@ -18726,6 +18731,7 @@ Here's a list of public Fediverse services.
 | `leoleoasd.me` | Yes |
 | `leon.fyi` | Yes |
 | `leonadi.de` | Yes |
+| `leonardwong.dev` | Yes |
 | `leonardwong.tech` | Yes |
 | `leopard.tube` | No |
 | `leoprox.icu` | No |
@@ -22353,6 +22359,7 @@ Here's a list of public Fediverse services.
 | `monads.online` | No |
 | `monappy.jp` | Yes |
 | `monarch-pass.net` | No |
+| `monarchists.uk` | Yes |
 | `monastery.ink` | No |
 | `monastery.social` | No |
 | `monb.work` | No |
@@ -26092,6 +26099,7 @@ Here's a list of public Fediverse services.
 | `papayankee.fr` | No |
 | `paper.wf` | Yes |
 | `paperbay.org` | No |
+| `paperjale.eus` | No |
 | `paperneko.moe` | Yes |
 | `papey.fr` | No |
 | `papill0n.org` | No |
@@ -35058,6 +35066,7 @@ Here's a list of public Fediverse services.
 | `tooting.app` | No |
 | `tooting.cc` | Yes |
 | `tooting.ch` | No |
+| `tooting.ninja` | No |
 | `tooting.social` | No |
 | `tootist.net` | No |
 | `tootl.org` | No |
@@ -38895,6 +38904,7 @@ Here's a list of public Fediverse services.
 | `yutasan.co` | No |
 | `yuto-shin.net` | No |
 | `yutu.nl` | Yes |
+| `yuu0918.net` | Yes |
 | `yuu26.com` | No |
 | `yuukosan.xyz` | No |
 | `yuustan.space` | No |
@@ -39347,8 +39357,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,591 |
-| Normal | 29,713 |
+| Cloudflare | 9,595 |
+| Normal | 29,719 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
