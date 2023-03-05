@@ -1956,7 +1956,6 @@ denizyapigrup.com
 denovosoftware.com
 dens-vitalis.deutschewebdesign.de
 denticsteam.com
-dentistaenparla.es
 denvermenus.online
 denverpolicenews.com
 denveryapi.com
@@ -3437,6 +3436,7 @@ apis-r2d2.businesshub-test.deutschebahn.com
 apiv2-citigroup-dev.customers.deepinstinctweb.com
 app1.danafinance.net
 appserver.drivemods.org
+arbitral-kiwi-6874.dataplicity.io
 archhub.orgharge.comgqlab.herokuapp.com.dieverdorp.nl
 asp.discord-acc.ru
 assets-news-bcdn.dailyhunt.in
@@ -3450,6 +3450,7 @@ autodiscover.discord-acc.com
 autodiscover.discordancia.cl
 autodiscover.dynoproject.hu
 avito.avito.avito.blablacar.avito.sber.covid19.dmitryraevsky.com
+avito.avito.sber.avito.avito.avito.www.covid19.dryvantrader.com
 avito.avito.sber.sber.avito.www.covid19.danseclassique.ru
 avito.sber.avito.blablacar.avito.sber.covid19.dushevnyekuhni.ru
 avito.sber.sber.avito.avito.www.covid19.dushevnyekuhni.ru
@@ -3475,6 +3476,7 @@ billing.discord-accounts.ru
 blog.forum.discord-accounts.ru
 blueskytd.demowebsiteclient.com
 bluewater.demowebsiteclient.com
+booking.die-fotokischde.de
 booking.dramastarsacademy.com
 bots.discode.site
 bring2tothecomedisihof.on.drv.tw
@@ -3552,6 +3554,7 @@ dailypost.co.ke
 dailyweb.pl
 daiphatnguyen.com.vn
 daisydiskapp.com
+daisyhughes.com
 dajoservice.dk
 dakgootservice.nl
 daklaktour.com
@@ -3619,6 +3622,7 @@ delivfillupsecure.org
 deltarecoveryservices.co.uk
 deluno.uy
 demano.net
+demirinsaat-yapi.com
 demiryapi.cf
 deneb.ae
 dengarden.com
@@ -3631,7 +3635,12 @@ denizhanperde.com
 denizkebab.com
 denizlialtaniskelekalip.com
 denizlicumhuriyeterkekyurdu.com
+denizlievlilikteklifi.com
+denizlikoleji.com
+denizlikoleji.com.tr
+denizotomat.com.tr
 denmanactivitycentre.ca
+deposit5579628.com
 derakpost.com
 derbyshireheritage.co.uk
 deref-web.de
@@ -3664,6 +3673,7 @@ diceboardgamelounge.com
 dicresco.vn
 didservice.ro
 die-schenks.dyndns.org
+die-wolfsburg.de
 digiprint.my.id
 digital24news.com
 digitaldivideinc.com
@@ -3755,6 +3765,7 @@ dream-team.directory
 dreamteam.directory
 drftclk-159.com
 drigservice.fi
+drimble.nl
 driver-update.pro
 drivethenetwork.com
 drjud.com
@@ -3831,6 +3842,7 @@ git.phpmyadmin.discord-accounts.ru
 git.posta.discord-acc.com
 git.rakuten.dentistrybliss.com
 git.webmail.discord-acc.com
+gitlab-restore-0axjbu.datahubnow.com
 gitlab.api.discord-accounts.ru
 gitlab.autodiscover.discord-acc.com
 gitlab.exchange.discord-acc.com
@@ -3931,6 +3943,7 @@ pingfedssa-dev.dataverify.com
 pm.discord-accounts.ru
 posta.discord-acc.com
 postoxingu.ddns.me
+preview.tracking.druckdas.eu
 previews.dropboxusercontent.com
 primesafe.dvdesign.com.au
 print-server.dicom.com
@@ -4031,6 +4044,7 @@ update.dosle.ru
 update.dynamic-billard.de
 v-work.coronamoodvis.dbvis.de
 v1.debruijnonderhoud.nl
+v2r.doecs.com
 v3.defencesg.mobi
 vd-am.dxtservice.com
 vd-ap.dxtservice.com
@@ -4088,6 +4102,7 @@ www.danskedinosaurer.dk
 www.danskesexhistorier.com
 www.danskesexnoveller.com
 www.dantesoutlook.com
+www.danyservice.eu
 www.daovi-asso.com
 www.darioxmusso.com
 www.darksidefloydshow.com
@@ -4116,6 +4131,7 @@ www.deliveryherocroatia.hr
 www.delltechnologies.com
 www.delossantosco.com
 www.deluno.uy
+www.demirinsaat-yapi.com
 www.demohotel.site
 www.denbedstebabyalarm.dk
 www.denbedstepowerbank.dk
@@ -4125,15 +4141,22 @@ www.denizayteknik.com
 www.denizciyiz.net
 www.denizdemirpence.com
 www.denizen-audio.co.uk
+www.denizgumustekin.com
 www.denizhanperde.com
 www.denizkebab.com
 www.denizlialtaniskelekalip.com
 www.denizlicumhuriyeterkekyurdu.com
+www.denizlievlilikteklifi.com
+www.denizlikoleji.com
+www.denizlikoleji.com.tr
 www.denizlimatbaa.com
 www.denizlisuaritmateknikservis.com
+www.denizotomat.com.tr
+www.denizturkmen.net
 www.denmanactivity.denmanactivitycentre.ca
 www.denmarkfarm.org.uk
 www.dentalcommunity.com.au
+www.dentistacosenzaoscar-russo.com
 www.deportestolima.com.co
 www.derakpost.com
 www.dermaexel.com
@@ -4154,6 +4177,7 @@ www.dffh.vic.gov.au
 www.diageo.com
 www.diageopromotions.com.au
 www.diagnosticare.com.au
+www.dialoguewithastha.com
 www.diamondpauber.it
 www.didservice.ro
 www.diedrichespresso.com
@@ -4161,6 +4185,7 @@ www.diefrauschauthin.de
 www.digital-doctors.co.uk
 www.digitaltalks.org
 www.digiztech.com
+www.dihuni.com
 www.dijitalsube-acikdenizv7-com.tk
 www.dilizentsystems.com
 www.dimo-tresorerie.fr
@@ -4234,6 +4259,7 @@ www.duesseldorf-hausmeisterservice.com
 www.dungeonland.co.uk
 www.dunkirkdental.com
 www.duot.demowebsiteclient.com
+www.dyacogstaad.ch
 www.dynosistemotoekspertiz.com
 www.dznews.gr
 www.el-mnet.djunardi-vpn.my.id
@@ -4248,6 +4274,7 @@ www.gingerco.demowebsiteclient.com
 www.git.git.git.gitlab.stage.deepgreenfundingmanager.com
 www.git.git.yprundgang2020.amymoris.com.djekxa.com
 www.git.wallet.deslaboratory.com.ua
+www.godaddy.dev-ngrok.app
 www.halka.pro.doonoot.com
 www.homemate.demowebsiteclient.com
 www.hute.djunardi-vpn.my.id
