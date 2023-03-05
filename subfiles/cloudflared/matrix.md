@@ -32,7 +32,7 @@ Here's a list of public Matrix services.
 | asra.gr | No |
 | matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
-| synapse.bark.lgbt | Yes |
+| bark.lgbt | Yes |
 | bolha.chat | Yes |
 | breeze.town | No |
 | buyvm.chat | No |
@@ -125,6 +125,7 @@ Here's a list of public Matrix services.
 | unita.online | No |
 | matrix.unredacted.org | Yes |
 | matrix.snt.utwente.nl | No |
+| mtrx.vern.cc | No |
 | matrix.virto.community | Yes |
 | webchat.weho.st | No |
 | xmr.se | No |
@@ -136,7 +137,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 21 |
-| Normal | 87 |
+| Normal | 88 |
 
 
-### 19.4% of public Matrix services are using Cloudflare.
+### 19.3% of public Matrix services are using Cloudflare.
