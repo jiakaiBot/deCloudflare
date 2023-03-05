@@ -34518,6 +34518,7 @@ Here's a list of public Fediverse services.
 | `thosemartins.net` | Yes |
 | `thoshiswelt.de` | No |
 | `thoster.net` | No |
+| `thote.it` | No |
 | `thotsofa304.club` | Yes |
 | `thought.blue` | No |
 | `thoughtbot.social` | Yes |
@@ -39335,7 +39336,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,586 |
-| Normal | 29,705 |
+| Normal | 29,706 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
