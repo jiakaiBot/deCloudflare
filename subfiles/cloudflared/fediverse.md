@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,882 |
-| social | 3,800 |
+| social | 3,801 |
 | net | 3,002 |
 | org | 2,095 |
 | de | 1,966 |
@@ -4450,6 +4450,7 @@ Here's a list of public Fediverse services.
 | `brave.cafe` | No |
 | `brave.to` | No |
 | `brawner.social` | No |
+| `braxo.se` | No |
 | `braydmedia.de` | No |
 | `braz.me` | No |
 | `brazencloud.com` | No |
@@ -4732,6 +4733,7 @@ Here's a list of public Fediverse services.
 | `bureau-wehrmann.eu` | Yes |
 | `burg-halle.de` | No |
 | `burg.art` | Yes |
+| `burgenland.space` | No |
 | `burger.rodeo` | Yes |
 | `burgetts.net` | No |
 | `burgstallerfoto.at` | No |
@@ -16947,6 +16949,7 @@ Here's a list of public Fediverse services.
 | `kaede.im` | Yes |
 | `kaelig.ovh` | No |
 | `kaenb.in` | Yes |
+| `kaernten.space` | No |
 | `kafasanati.com` | No |
 | `kafeneio.social` | Yes |
 | `kaffeemonster.com` | No |
@@ -21777,7 +21780,7 @@ Here's a list of public Fediverse services.
 | `mijninternet.info` | No |
 | `mik.cloud` | No |
 | `mikado-city.jp` | No |
-| `mikaela.info` | No |
+| `mikaela.info` | Yes |
 | `mikaljakubal.com` | Yes |
 | `mike.ai` | Yes |
 | `mikebourquin.de` | No |
@@ -28006,6 +28009,7 @@ Here's a list of public Fediverse services.
 | `qr.dev` | No |
 | `qrbt.ch` | No |
 | `qrewhub.com` | No |
+| `qrk.social` | No |
 | `qrpth.eu` | No |
 | `qrz.today` | Yes |
 | `qseco.fr` | Yes |
@@ -39343,8 +39347,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,590 |
-| Normal | 29,710 |
+| Cloudflare | 9,591 |
+| Normal | 29,713 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
