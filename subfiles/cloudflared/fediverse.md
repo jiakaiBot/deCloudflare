@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,882 |
-| social | 3,799 |
+| social | 3,800 |
 | net | 3,002 |
 | org | 2,095 |
 | de | 1,966 |
@@ -20269,6 +20269,7 @@ Here's a list of public Fediverse services.
 | `marchera-pas.fr` | No |
 | `marches.social` | No |
 | `marchgenso.me` | Yes |
+| `marchingband.social` | No |
 | `marci.one` | No |
 | `marcinmalecki.pl` | No |
 | `marckalmes.com` | No |
@@ -27965,6 +27966,7 @@ Here's a list of public Fediverse services.
 | `qaq.wiki` | Yes |
 | `qassim.uk` | No |
 | `qatuno.de` | No |
+| `qayamat.se` | No |
 | `qaz.red` | No |
 | `qc.to` | No |
 | `qca.net` | No |
@@ -39338,7 +39340,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,587 |
-| Normal | 29,707 |
+| Normal | 29,709 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
