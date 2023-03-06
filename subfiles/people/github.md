@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [New render pipeline prerequisites](https://github.com/datopian/datahub-next/issues/27)
 - [How to Migrate to Another Server](https://github.com/PrivateBin/PrivateBin/issues/1075)
 - [Cozy & cloudflared](https://github.com/cozy/cozy-coclyco/issues/5)
 - [Hard crash when DMA returns a failure code](https://github.com/Brod8362/d4m/issues/32)
