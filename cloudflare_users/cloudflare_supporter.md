@@ -3903,6 +3903,7 @@ Do not create new issue or we will close it as duplicate.
 | [HJalgham@twitter](https://twitter.com/HJalgham/status/1568536037831360514) | advertise |
 | [HJmSh8@twitter](https://twitter.com/HJmSh8/status/1578090587252985857) | advertise |
 | [HJSIM798@twitter](https://twitter.com/HJSIM798/status/1484356413040508929) | advertise |
+| [Hk1234Lodha@twitter](https://twitter.com/Hk1234Lodha/status/1609089396472713217) | advertise |
 | [hkgvwe@twitter](https://twitter.com/hkgvwe/status/1596648696849965056) | advertise |
 | [Hkk65603236@twitter](https://twitter.com/Hkk65603236/status/1391694154413969412) | advertise |
 | [HKlowss123@twitter](https://twitter.com/HKlowss123/status/1536946816260132864) | advertise |
@@ -5443,8 +5444,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6806,6 +6807,7 @@ Do not create new issue or we will close it as duplicate.
 | [MigabonRica@twitter](https://twitter.com/MigabonRica/status/1608663676646756352) | advertise |
 | [migratingstream@twitter](https://twitter.com/migratingstream/status/1393409904086425600) | advertise |
 | [Miguel96959725@twitter](https://twitter.com/Miguel96959725/status/1619363628637114368) | advertise |
+| [MihariOyama@twitter](https://twitter.com/MihariOyama/status/1632736342043140096) | advertise |
 | [mikailbayat1252@twitter](https://twitter.com/mikailbayat1252/status/1492272535374680065) | advertise |
 | [MikasaMino@twitter](https://twitter.com/MikasaMino/status/1387209691172728832) | advertise |
 | [Mikeang15546407@twitter](https://twitter.com/Mikeang15546407/status/1391183859216158720) | advertise |
@@ -11859,6 +11861,7 @@ Do not create new issue or we will close it as duplicate.
 | [WhyzTM@twitter](https://twitter.com/WhyzTM/status/1568948951507959808) | advertise |
 | [Why_Srk@twitter](https://twitter.com/Why_Srk/status/1582033845188464641) | advertise |
 | [wickepedia@twitter](https://twitter.com/wickepedia/status/1502834842073014272) | advertise |
+| [widoOulalid77@twitter](https://twitter.com/widoOulalid77/status/1608191952872247298) | advertise |
 | [wifecheatsdumb1@twitter](https://twitter.com/wifecheatsdumb1/status/1572431467711713280) | advertise |
 | [wife_xxxx@twitter](https://twitter.com/wife_xxxx/status/1547551663300673536) | advertise |
 | [wigan_mancs@twitter](https://twitter.com/wigan_mancs/status/1391843058933800963) | advertise |
