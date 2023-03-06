@@ -3381,6 +3381,7 @@ Do not create new issue or we will close it as duplicate.
 | [GgMg04587862@twitter](https://twitter.com/GgMg04587862/status/1392000179360788480) | advertise |
 | [GgUu18976278@twitter](https://twitter.com/GgUu18976278/status/1535274513042120705) | advertise |
 | [ghafoori1020@twitter](https://twitter.com/ghafoori1020/status/1551674539209285633) | advertise |
+| [Ghanou_Abde_19@twitter](https://twitter.com/Ghanou_Abde_19/status/1632823596941754369) | advertise |
 | [ghano_gh@twitter](https://twitter.com/ghano_gh/status/1403155628667850752) | advertise |
 | [Ghanshy81036106@twitter](https://twitter.com/Ghanshy81036106/status/1391609026148855812) | advertise |
 | [ghan_fkr@twitter](https://twitter.com/ghan_fkr/status/1375931749444677633) | advertise |
