@@ -9197,6 +9197,7 @@ Here's a list of public Fediverse services.
 | `e217.net` | No |
 | `e2ee.li` | No |
 | `e3-83-ad-e3-83-aa.eu` | No |
+| `e3t.cc` | Yes |
 | `e4.pm` | Yes |
 | `e4b4.eu` | No |
 | `e4le.me` | Yes |
@@ -31463,7 +31464,7 @@ Here's a list of public Fediverse services.
 | `slightlycyberpunk.com` | No |
 | `slikr.net` | No |
 | `slime.global` | No |
-| `slimed.org` | No |
+| `slimed.org` | Yes |
 | `slipcrewprod.fr` | Yes |
 | `slipfox.xyz` | No |
 | `slippy.xyz` | Yes |
@@ -36408,7 +36409,7 @@ Here's a list of public Fediverse services.
 | `uwah.moe` | No |
 | `uwan.net` | No |
 | `uwu.community` | Yes |
-| `uwu.engineering` | No |
+| `uwu.engineering` | Yes |
 | `uwu.is` | No |
 | `uwu.name` | Yes |
 | `uwu.pm` | Yes |
@@ -39375,8 +39376,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,604 |
-| Normal | 29,728 |
+| Cloudflare | 9,607 |
+| Normal | 29,726 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
