@@ -33287,6 +33287,7 @@ Here's a list of public Fediverse services.
 | `syslog.eu` | Yes |
 | `sysmike.net` | No |
 | `sysprotect.eu` | No |
+| `syspxl.xyz` | Yes |
 | `sysreturn.net` | No |
 | `sysrq.in` | No |
 | `system-imperator.de` | No |
@@ -39408,7 +39409,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,621 |
+| Cloudflare | 9,622 |
 | Normal | 29,744 |
 
 
