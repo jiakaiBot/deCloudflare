@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,887 |
 | social | 3,803 |
 | net | 3,011 |
-| org | 2,096 |
+| org | 2,097 |
 | de | 1,966 |
 
 
@@ -438,6 +438,7 @@ Here's a list of public Fediverse services.
 | `4com.jp` | No |
 | `4estate.media` | No |
 | `4eva.online` | No |
+| `4eva.org` | Yes |
 | `4four.org` | No |
 | `4gl.io` | Yes |
 | `4gx.de` | No |
@@ -17196,6 +17197,7 @@ Here's a list of public Fediverse services.
 | `katis.me` | No |
 | `katjaevertz.de` | No |
 | `katsquill.com` | No |
+| `katsuru.live` | No |
 | `kattenmeisje.org` | No |
 | `katty.me` | No |
 | `katuemon.com` | No |
@@ -39396,8 +39398,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,614 |
-| Normal | 29,739 |
+| Cloudflare | 9,615 |
+| Normal | 29,740 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
