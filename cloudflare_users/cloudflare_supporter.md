@@ -2172,8 +2172,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3292,6 +3292,7 @@ Do not create new issue or we will close it as duplicate.
 | [g33k4iicloud@twitter](https://twitter.com/g33k4iicloud/status/1626264654904463373) | advertise |
 | [G191433996@twitter](https://twitter.com/G191433996/status/1393383252304572419) | advertise |
 | [gabatigol@twitter](https://twitter.com/gabatigol/status/1559416630199095296) | advertise |
+| [GabdlrD@twitter](https://twitter.com/GabdlrD/status/1632535721306120192) | advertise |
 | [gabes_hub@twitter](https://twitter.com/gabes_hub/status/1448032264940630023) | advertise |
 | [Gabonftx@twitter](https://twitter.com/Gabonftx/status/1513288879935492100) | advertise |
 | [gabriel_rhee@twitter](https://twitter.com/gabriel_rhee/status/1467554077777489920) | advertise |
