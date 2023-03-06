@@ -19,10 +19,10 @@ Here's a list of breached sites.
 
 -----
 
-| Type | Count |
-| --- | --- | 
-| Cloudflare | WTF |
-| Normal | WTF |
+| Type | Count | Accounts |
+| --- | --- | --- |
+| Cloudflare | WTF | 123 |
+| Normal | WTF | 123 |
 
 
 ### W.T.F% of breached sites (pwned sites) are using Cloudflare.
