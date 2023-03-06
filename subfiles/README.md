@@ -1,10 +1,6 @@
 ![](../image/bookstack.jpg)
-
-
 - *Disclaimer*: This page contains external links to third party websites. These sites are subject to the liability of the respective website operators.
-
 ---
-
 - Add-ons
   - [Block Cloudflare MITM Attack](addon/bcma.md)
   - [Will these links block Tor user?](addon/isat.md)
@@ -78,9 +74,11 @@
       - [Asia / Middle East](cloudflared/newspaper/asia.md)
       - [Europe](cloudflared/newspaper/europe.md)
       - [Oceania](cloudflared/newspaper/oceania.md)
-  - `Government`
+  - `Government, Organization, Corporation`
     - [How many % of United States Government websites are using Cloudflare?](cloudflared/government/govusa.md)
     - [How many % of France Government websites are using Cloudflare?](cloudflared/government/govfr.md)
+    - [How many % of Privacy organizations are using Cloudflare?](cloudflared/privacy_organizations.md)
+    - [How many % of Computer security companies are using Cloudflare?](cloudflared/computer_security.md) #antivirus
   - `Places`
     - [How many % of places in each cities are using Cloudflare?](cloudflared/city_place.md)
     - [How many % of insurance companies are using Cloudflare?](cloudflared/insurance.md)
@@ -102,24 +100,23 @@
     - [How many % of F-Droid mirror sites are using Cloudflare?](cloudflared/fdroid_mirrors.md)
     - [How many % of WHOIS services are using Cloudflare?](cloudflared/whois.md)
     - [How many % of DNS-over-HTTPS (DoH) are using Cloudflare?](cloudflared/dns-over-https.md)
+  - `Domain type`
+    - [How many % of adverts and trackers are using Cloudflare?](cloudflared/adverts.md)
+    - [How many % of pornographic domains are using Cloudflare?](cloudflared/pornography.md)
+    - [How many % of gambling domains are using Cloudflare?](cloudflared/gambling.md)
+    - [How many % of phishing domains are using Cloudflare?](cloudflared/phishing.md)
+    - [How many % of malware domains are using Cloudflare?](cloudflared/malware.md)
   - [How many % of DNS Census (2013) are using Cloudflare?](cloudflared/dns_census_2013.md)
   - [How many % of Fortune 1000 companies are using Cloudflare?](cloudflared/fortune1000.md)
   - [How many % of public Git services are using Cloudflare?](cloudflared/gitservices.md)
   - [How many % of public Torrent services are using Cloudflare?](cloudflared/torrents.md)
   - [How many % of online video platforms are using Cloudflare?](cloudflared/videoplatform.md)
   - [How many % of File hosting / File sharing services are using Cloudflare?](cloudflared/filehosting.md)
-  - [How many % of adverts and trackers are using Cloudflare?](cloudflared/adverts.md)
-  - [How many % of pornographic domains are using Cloudflare?](cloudflared/pornography.md)
-  - [How many % of gambling domains are using Cloudflare?](cloudflared/gambling.md)
-  - [How many % of phishing domains are using Cloudflare?](cloudflared/phishing.md)
-  - [How many % of malware domains are using Cloudflare?](cloudflared/malware.md)
   - [How many % of URL Shortener services are using Cloudflare?](cloudflared/urlshortening.md)
   - [How many % of VPN services are using Cloudflare?](cloudflared/vpnservice.md)
   - [How many % of Domain name registrars are using Cloudflare?](cloudflared/domain_registrars.md)
   - [How many % of Hosting Providers are using Cloudflare on their site?](cloudflared/hostingprovider.md)
   - [How many % of Open Data sites are using Cloudflare?](cloudflared/opendata.md)
-  - [How many % of Privacy organizations are using Cloudflare?](cloudflared/privacy_organizations.md)
-  - [How many % of Computer security companies are using Cloudflare?](cloudflared/computer_security.md) #antivirus
   - [How many % of domains listed in Netzsperren Liwest are using Cloudflare?](subfiles/cloudflared/netzsperren_liwest.md)
   - [How many % of breached sites (pwned sites) are using Cloudflare?](cloudflared/pwned_databreach.md)
 - Name Servers on the Internet
