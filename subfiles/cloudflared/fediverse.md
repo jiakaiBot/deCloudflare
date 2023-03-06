@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,886 |
 | social | 3,801 |
-| net | 3,006 |
+| net | 3,007 |
 | org | 2,095 |
 | de | 1,966 |
 
@@ -13899,6 +13899,7 @@ Here's a list of public Fediverse services.
 | `haru3.me` | No |
 | `haruhi-mstdn.club` | No |
 | `haruk.in` | Yes |
+| `harukakanata.net` | No |
 | `harumakizaemon.net` | No |
 | `harusamex.com` | No |
 | `haruska.social` | Yes |
@@ -39382,7 +39383,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,610 |
-| Normal | 29,728 |
+| Normal | 29,729 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
