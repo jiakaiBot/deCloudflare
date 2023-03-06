@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,887 |
-| social | 3,803 |
-| net | 3,011 |
+| com | 5,891 |
+| social | 3,804 |
+| net | 3,012 |
 | org | 2,097 |
 | de | 1,966 |
 
@@ -426,6 +426,7 @@ Here's a list of public Fediverse services.
 | `44con.com` | No |
 | `45bis.cc` | Yes |
 | `465789.xyz` | No |
+| `47041.net` | Yes |
 | `481516.xyz` | Yes |
 | `48645.tk` | No |
 | `4869.homes` | Yes |
@@ -1784,6 +1785,7 @@ Here's a list of public Fediverse services.
 | `anfora.xyz` | No |
 | `ang.social` | No |
 | `angelo.land` | No |
+| `angelostavrow.blog` | No |
 | `angelou.club` | Yes |
 | `angelstrapped.com` | No |
 | `angezeckt.de` | No |
@@ -2296,6 +2298,7 @@ Here's a list of public Fediverse services.
 | `artbaron.social` | No |
 | `artblock.de` | No |
 | `artchair.net` | No |
+| `artcommastrike.com` | Yes |
 | `arteeh.com` | No |
 | `artemai.art` | No |
 | `artemisia.systems` | Yes |
@@ -6609,6 +6612,7 @@ Here's a list of public Fediverse services.
 | `cosplayer.com` | Yes |
 | `cosplaygif.com` | Yes |
 | `cosple.world` | Yes |
+| `costablanca.social` | No |
 | `costas.dev` | No |
 | `coste.video` | No |
 | `costodon.social` | No |
@@ -7647,7 +7651,7 @@ Here's a list of public Fediverse services.
 | `davbot.social` | Yes |
 | `davd.io` | No |
 | `davduf.net` | No |
-| `dave-vlab.com` | No |
+| `dave-vlab.com` | Yes |
 | `dave.moe` | No |
 | `daveblank.com` | No |
 | `davecarson.dev` | No |
@@ -16750,6 +16754,7 @@ Here's a list of public Fediverse services.
 | `jpicture.net` | No |
 | `jplocalization.social` | No |
 | `jplus7.fr` | No |
+| `jpn.xyz` | Yes |
 | `jpnews.site` | Yes |
 | `jpop.club` | No |
 | `jpop.space` | No |
@@ -17081,6 +17086,7 @@ Here's a list of public Fediverse services.
 | `kan.social` | Yes |
 | `kanachu-homes.com` | Yes |
 | `kanagu.info` | Yes |
+| `kanarikanaru.com` | Yes |
 | `kanatan.club` | Yes |
 | `kanatzidis.com` | No |
 | `kancolle-yokosuka.xyz` | No |
@@ -19090,6 +19096,7 @@ Here's a list of public Fediverse services.
 | `liminal.club` | No |
 | `liminal.lgbt` | No |
 | `liminalearth.social` | No |
+| `liminalisland.xyz` | No |
 | `liminalismo.com` | No |
 | `liminalweb.site` | Yes |
 | `limited.systems` | No |
@@ -28748,6 +28755,7 @@ Here's a list of public Fediverse services.
 | `redfern.is` | Yes |
 | `redfish.ca` | No |
 | `redflag.social` | Yes |
+| `redfuku.com` | No |
 | `redgarterclub.com` | No |
 | `redgla.re` | No |
 | `redirectme.net` | Yes |
@@ -31541,6 +31549,7 @@ Here's a list of public Fediverse services.
 | `smartcitydev.jp` | No |
 | `smartdonkey.social` | No |
 | `smartinwriter.social` | No |
+| `smartit.nu` | No |
 | `smartnotsocial.com` | No |
 | `smartpassivehouse.com` | No |
 | `smash.today` | No |
@@ -33398,6 +33407,7 @@ Here's a list of public Fediverse services.
 | `takahashi.social` | No |
 | `takahe.social` | No |
 | `takamoriai.co` | No |
+| `takanotume24.com` | Yes |
 | `take.farm` | No |
 | `takebackourtech.org` | No |
 | `takedown.sh` | No |
@@ -39398,8 +39408,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,615 |
-| Normal | 29,740 |
+| Cloudflare | 9,621 |
+| Normal | 29,744 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
