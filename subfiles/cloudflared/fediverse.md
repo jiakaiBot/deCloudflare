@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,886 |
-| social | 3,801 |
-| net | 3,008 |
-| org | 2,095 |
+| com | 5,887 |
+| social | 3,803 |
+| net | 3,011 |
+| org | 2,096 |
 | de | 1,966 |
 
 
@@ -640,6 +640,7 @@ Here's a list of public Fediverse services.
 | `a-apple.net` | No |
 | `a-chill.space` | No |
 | `a-db.fr` | Yes |
+| `a-deed.com` | No |
 | `a-ef.org` | Yes |
 | `a-kar.in` | Yes |
 | `a-lec.org` | No |
@@ -2041,6 +2042,7 @@ Here's a list of public Fediverse services.
 | `apocalypse.net` | Yes |
 | `apocfury.com` | Yes |
 | `apoil.org` | No |
+| `apokrupha.net` | No |
 | `apollolemmon.com` | No |
 | `apolut.net` | Yes |
 | `apontaeclica.com` | No |
@@ -7908,6 +7910,7 @@ Here's a list of public Fediverse services.
 | `deinfo-projects.de` | No |
 | `deiru.tokyo` | No |
 | `deiseroth.de` | No |
+| `dejalle.net` | No |
 | `dejfcold.cz` | No |
 | `dejongs.de` | No |
 | `dekameta.com` | No |
@@ -8655,6 +8658,7 @@ Here's a list of public Fediverse services.
 | `doingtheir.best` | No |
 | `doingyourmom.club` | No |
 | `doisakura.moe` | No |
+| `doithere.live` | No |
 | `dojos.social` | Yes |
 | `dojpride.org` | No |
 | `dokasen.com` | No |
@@ -12379,6 +12383,7 @@ Here's a list of public Fediverse services.
 | `garethrogers.net` | No |
 | `garexp.org` | No |
 | `gargantia.fr` | No |
+| `garlemald.org` | No |
 | `garmy.jp` | No |
 | `garo.ooo` | No |
 | `garranoileain.com` | No |
@@ -13829,6 +13834,7 @@ Here's a list of public Fediverse services.
 | `hanitoh.com` | No |
 | `hankchizljaw.io` | No |
 | `hanna.lol` | Yes |
+| `hannahblythemorrison.art` | No |
 | `hannebrook.info` | No |
 | `hanniset.fi` | No |
 | `hannover.social` | No |
@@ -16324,6 +16330,7 @@ Here's a list of public Fediverse services.
 | `jedillama.net` | No |
 | `jeena.net` | No |
 | `jeff.town` | No |
+| `jeffburg.social` | No |
 | `jeffjeff.us` | No |
 | `jeffl.es` | Yes |
 | `jefflembeck.com` | Yes |
@@ -16694,6 +16701,7 @@ Here's a list of public Fediverse services.
 | `joshdick.net` | No |
 | `josheh.net` | No |
 | `joshglenn.org` | No |
+| `joshhansen.net` | No |
 | `joshhansen.tech` | No |
 | `joshknox.rocks` | Yes |
 | `joshlevy.ca` | No |
@@ -19750,7 +19758,7 @@ Here's a list of public Fediverse services.
 | `lumpen.work` | No |
 | `lumpen.world` | No |
 | `lumpen.xyz` | Yes |
-| `luna.fyi` | Yes |
+| `luna.fyi` | No |
 | `luna.town` | No |
 | `luna.tv` | No |
 | `luna.vg` | Yes |
@@ -27003,6 +27011,7 @@ Here's a list of public Fediverse services.
 | `planna.co` | No |
 | `planner.social` | No |
 | `planningtransport.co.uk` | No |
+| `plant-based.place` | Yes |
 | `plantcm.com` | No |
 | `plantex.top` | No |
 | `plantroon.com` | No |
@@ -32339,6 +32348,7 @@ Here's a list of public Fediverse services.
 | `srcr.nl` | No |
 | `srdn.net` | No |
 | `srg.id.au` | Yes |
+| `srg.social` | No |
 | `srid.ca` | Yes |
 | `srijan.dev` | Yes |
 | `srijn.net` | Yes |
@@ -37720,6 +37730,7 @@ Here's a list of public Fediverse services.
 | `wimjaap.nl` | No |
 | `wimmer-edv.de` | No |
 | `wimpelgrim.nl` | No |
+| `win-bit.ru` | No |
 | `winaero.com` | No |
 | `winblad.io` | Yes |
 | `winchester.social` | Yes |
@@ -39386,7 +39397,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,614 |
-| Normal | 29,728 |
+| Normal | 29,739 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
