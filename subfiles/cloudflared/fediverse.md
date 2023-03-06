@@ -3328,6 +3328,7 @@ Here's a list of public Fediverse services.
 | `beepboop.ga` | No |
 | `beepboop.one` | No |
 | `beepeele.de` | No |
+| `beeping.blog` | No |
 | `beeping.town` | No |
 | `beeping.world` | No |
 | `beerandpubs.com` | Yes |
@@ -12949,7 +12950,7 @@ Here's a list of public Fediverse services.
 | `glowhost.ru` | No |
 | `glowie.cloud` | No |
 | `glowing.surf` | No |
-| `glownow.club` | No |
+| `glownow.club` | Yes |
 | `glowpen.eu` | No |
 | `gluck.cc` | No |
 | `glucose.rocks` | No |
@@ -28383,7 +28384,7 @@ Here's a list of public Fediverse services.
 | `rainyman.jp` | No |
 | `rainyme.ca` | Yes |
 | `rainynight.city` | No |
-| `raisan.co` | Yes |
+| `raisan.co` | No |
 | `raise-uav.com` | No |
 | `raisondetre.live` | No |
 | `raitamaa.net` | No |
@@ -37248,6 +37249,7 @@ Here's a list of public Fediverse services.
 | `warrows.fr` | No |
 | `warsow-online.de` | No |
 | `warubure.online` | No |
+| `warudo.art` | No |
 | `wasabi.social` | Yes |
 | `wasamon.org` | No |
 | `wasatchfront.social` | No |
@@ -39374,7 +39376,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,604 |
-| Normal | 29,726 |
+| Normal | 29,728 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
