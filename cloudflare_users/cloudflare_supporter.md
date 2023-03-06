@@ -1661,6 +1661,7 @@ Do not create new issue or we will close it as duplicate.
 | [BoNyan12573044@twitter](https://twitter.com/BoNyan12573044/status/1389649229908377601) | advertise |
 | [bookingraza@twitter](https://twitter.com/bookingraza/status/1379835928525467650) | advertise |
 | [BOOMBound@twitter](https://twitter.com/BOOMBound/status/1424169801451118594) | advertise |
+| [boomer_friendly@twitter](https://twitter.com/boomer_friendly/status/1632687184254758913) | advertise |
 | [BoonBoo54358409@twitter](https://twitter.com/BoonBoo54358409/status/1543521813594259457) | advertise |
 | [boonboonko@twitter](https://twitter.com/boonboonko/status/1405526689757626382) | advertise |
 | [boonpraserd@twitter](https://twitter.com/boonpraserd/status/1383968362137411589) | advertise |
@@ -3064,6 +3065,7 @@ Do not create new issue or we will close it as duplicate.
 | [F0urfu@twitter](https://twitter.com/F0urfu/status/1617502550281830403) | advertise |
 | [F1Insider_FB@twitter](https://twitter.com/F1Insider_FB/status/1398202288817250306) | advertise |
 | [f2_player@twitter](https://twitter.com/f2_player/status/1553256925739237376) | advertise |
+| [f3rdito@twitter](https://twitter.com/f3rdito/status/1632689575054258176) | advertise |
 | [F31398498@twitter](https://twitter.com/F31398498/status/1568907972272861184) | advertise |
 | [f93710225@twitter](https://twitter.com/f93710225/status/1575999927431593984) | advertise |
 | [FAbdifitaah@twitter](https://twitter.com/FAbdifitaah/status/1566021351948931074) | advertise |
@@ -3896,6 +3898,7 @@ Do not create new issue or we will close it as duplicate.
 | [HiuBonVP@twitter](https://twitter.com/HiuBonVP/status/1628407581684432897) | advertise |
 | [HiuHoan24222988@twitter](https://twitter.com/HiuHoan24222988/status/1560628210898939904) | advertise |
 | [Hiuhoang12@twitter](https://twitter.com/Hiuhoang12/status/1400331067396038659) | advertise |
+| [HiuL02105433@twitter](https://twitter.com/HiuL02105433/status/1632657991806726145) | advertise |
 | [HiYn93232026@twitter](https://twitter.com/HiYn93232026/status/1399208059197526023) | advertise |
 | [HJalgham@twitter](https://twitter.com/HJalgham/status/1568536037831360514) | advertise |
 | [HJmSh8@twitter](https://twitter.com/HJmSh8/status/1578090587252985857) | advertise |
@@ -5440,8 +5443,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -10463,6 +10466,7 @@ Do not create new issue or we will close it as duplicate.
 | [techaura_co_uk@twitter](https://twitter.com/techaura_co_uk/status/1602214203703824384) | advertise |
 | [TechEdUS1@twitter](https://twitter.com/TechEdUS1/status/1518902070438465536) | advertise |
 | [TechLifeApp@twitter](https://twitter.com/TechLifeApp/status/1523592317831053312) | advertise |
+| [TechMahn@twitter](https://twitter.com/TechMahn/status/1632618685671043076) | advertise |
 | [technogun1819@twitter](https://twitter.com/technogun1819/status/1530095687236390912) | advertise |
 | [technokotsos@twitter](https://twitter.com/technokotsos/status/1517209734704766976) | advertise |
 | [TechRedneck901@twitter](https://twitter.com/TechRedneck901/status/1396056226329505794) | advertise |
