@@ -19427,7 +19427,7 @@ Here's a list of public Fediverse services.
 | `lolcraft.club` | No |
 | `loli.best` | Yes |
 | `loli.estate` | No |
-| `loli.mk` | No |
+| `loli.mk` | Yes |
 | `loli.pizza` | Yes |
 | `lolic.at` | Yes |
 | `lolicon.rocks` | No |
@@ -27519,6 +27519,7 @@ Here's a list of public Fediverse services.
 | `pratikmhatre.com` | No |
 | `pratl.net` | No |
 | `prattle.org.uk` | No |
+| `pravda.me` | Yes |
 | `pravdasocial.net` | Yes |
 | `pravdastalina.info` | No |
 | `pravic.xyz` | Yes |
@@ -39382,8 +39383,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,610 |
-| Normal | 29,729 |
+| Cloudflare | 9,612 |
+| Normal | 29,728 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
