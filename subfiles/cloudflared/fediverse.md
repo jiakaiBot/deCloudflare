@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,886 |
 | social | 3,801 |
-| net | 3,007 |
+| net | 3,008 |
 | org | 2,095 |
 | de | 1,966 |
 
@@ -8757,6 +8757,7 @@ Here's a list of public Fediverse services.
 | `dorfsvald.net` | No |
 | `dorheeme.de` | No |
 | `dorijan.io` | No |
+| `doriskey.net` | Yes |
 | `doriskey.xyz` | Yes |
 | `dork.dev` | No |
 | `dork.zone` | No |
@@ -21047,7 +21048,7 @@ Here's a list of public Fediverse services.
 | `matla.at` | No |
 | `mato.social` | Yes |
 | `matoken.org` | No |
-| `matome.site` | No |
+| `matome.site` | Yes |
 | `matomocamp.org` | No |
 | `matoo.net` | No |
 | `matpix.net` | No |
@@ -29028,6 +29029,7 @@ Here's a list of public Fediverse services.
 | `revstance.network` | No |
 | `revue-farouest.fr` | No |
 | `revue.icu` | No |
+| `rewa.mobi` | No |
 | `rewrite.in.rs` | Yes |
 | `rex.gs` | No |
 | `rexmundi.social` | No |
@@ -39383,7 +39385,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,612 |
+| Cloudflare | 9,614 |
 | Normal | 29,728 |
 
 
