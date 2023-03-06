@@ -4853,6 +4853,7 @@ Do not create new issue or we will close it as duplicate.
 | [Jithin18502857@twitter](https://twitter.com/Jithin18502857/status/1379713362947285002) | advertise |
 | [JituBha60533107@twitter](https://twitter.com/JituBha60533107/status/1401418442914160641) | advertise |
 | [ji_004@twitter](https://twitter.com/ji_004/status/1402471443028320257) | advertise |
+| [JJ13329@twitter](https://twitter.com/JJ13329/status/1632759990237941767) | advertise |
 | [jjacobjamess@twitter](https://twitter.com/jjacobjamess/status/1388079841371688964) | advertise |
 | [JJCEntrepreneur@twitter](https://twitter.com/JJCEntrepreneur/status/1585340977015042049) | advertise |
 | [jjcm_89@twitter](https://twitter.com/jjcm_89/status/1385139550780116995) | advertise |
