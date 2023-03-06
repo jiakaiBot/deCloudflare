@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,885 |
+| com | 5,886 |
 | social | 3,801 |
 | net | 3,006 |
 | org | 2,095 |
@@ -4180,6 +4180,7 @@ Here's a list of public Fediverse services.
 | `bog.social` | No |
 | `bograham.xyz` | No |
 | `bogus.ee` | No |
+| `bohmgillis.ca` | No |
 | `bohnstedt.org` | No |
 | `boiledscript.com` | Yes |
 | `boiler.social` | Yes |
@@ -11066,7 +11067,7 @@ Here's a list of public Fediverse services.
 | `filipesaraiva.info` | No |
 | `filipesm.com` | Yes |
 | `filipesm.eu` | Yes |
-| `filiuspatris.net` | No |
+| `filiuspatris.net` | Yes |
 | `fillari.xyz` | No |
 | `fillmorephx.com` | Yes |
 | `filmaidykai.net` | Yes |
@@ -12378,6 +12379,7 @@ Here's a list of public Fediverse services.
 | `garexp.org` | No |
 | `gargantia.fr` | No |
 | `garmy.jp` | No |
+| `garo.ooo` | No |
 | `garranoileain.com` | No |
 | `garri.us` | No |
 | `garriguv.io` | No |
@@ -13762,6 +13764,7 @@ Here's a list of public Fediverse services.
 | `halfacree.co.uk` | Yes |
 | `halfast.com` | No |
 | `halfbyte.org` | No |
+| `halfeatenfood.com` | No |
 | `halfey.moe` | Yes |
 | `halfling13.com` | No |
 | `halfmemories.com` | Yes |
@@ -23769,6 +23772,7 @@ Here's a list of public Fediverse services.
 | `neongarden.life` | No |
 | `neongrove.social` | No |
 | `neonka.info` | No |
+| `neonsoup.casa` | Yes |
 | `neonsoup.house` | Yes |
 | `neonsoup.xyz` | Yes |
 | `neontechnica.lol` | No |
@@ -24536,6 +24540,7 @@ Here's a list of public Fediverse services.
 | `nope.social` | No |
 | `nophase.net` | No |
 | `noplasticshowers.com` | No |
+| `nopro.be` | Yes |
 | `nops.red` | Yes |
 | `nopsled.club` | No |
 | `nopulse.net` | No |
@@ -39376,8 +39381,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,607 |
-| Normal | 29,726 |
+| Cloudflare | 9,610 |
+| Normal | 29,728 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
