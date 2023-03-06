@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,884 |
+| com | 5,885 |
 | social | 3,801 |
-| net | 3,005 |
+| net | 3,006 |
 | org | 2,095 |
 | de | 1,966 |
 
@@ -3513,6 +3513,7 @@ Here's a list of public Fediverse services.
 | `beta42.dev` | No |
 | `betabuild.dev` | No |
 | `betafive.net` | No |
+| `betaful.life` | Yes |
 | `betamax.video` | Yes |
 | `betamax65.de` | No |
 | `betchesbubble.com` | No |
@@ -3924,7 +3925,7 @@ Here's a list of public Fediverse services.
 | `blaho.info` | No |
 | `blahut.tech` | Yes |
 | `blaise.ca` | No |
-| `blaisemcrowly.com` | Yes |
+| `blaisemcrowly.com` | No |
 | `blake-hofer.net` | No |
 | `blake.earth` | Yes |
 | `blan.cc` | Yes |
@@ -14382,6 +14383,7 @@ Here's a list of public Fediverse services.
 | `hinaloe.net` | No |
 | `hinanawi.net` | Yes |
 | `hinanzyo.net` | Yes |
+| `hinasense.jp` | Yes |
 | `hinata.cz` | No |
 | `hinch.social` | No |
 | `hindelaufen.com` | No |
@@ -22364,6 +22366,7 @@ Here's a list of public Fediverse services.
 | `monadnock.ca` | No |
 | `monado.ren` | Yes |
 | `monads.online` | No |
+| `monapii.net` | Yes |
 | `monappy.jp` | Yes |
 | `monarch-pass.net` | No |
 | `monarchists.uk` | Yes |
@@ -28828,6 +28831,7 @@ Here's a list of public Fediverse services.
 | `relampagofurioso.com` | Yes |
 | `relapsus.com` | No |
 | `relate.social` | No |
+| `relativesanity.com` | No |
 | `relay.soy` | No |
 | `relaychat.party` | No |
 | `relayfm.social` | No |
@@ -29075,6 +29079,7 @@ Here's a list of public Fediverse services.
 | `rhys.wtf` | No |
 | `rhythmania.net` | No |
 | `rhythmgam.es` | No |
+| `rhythmisskey.games` | Yes |
 | `rhythms-of-resistance.org` | No |
 | `riaf.xyz` | Yes |
 | `rib.gay` | Yes |
@@ -34822,6 +34827,7 @@ Here's a list of public Fediverse services.
 | `tocaj.ch` | No |
 | `toco2.fun` | No |
 | `tod.net` | Yes |
+| `todanano-fune.moe` | Yes |
 | `today4u.xyz` | Yes |
 | `todayiwilllaunchmyinfantsonintoorbit.com` | No |
 | `todays.run` | No |
@@ -39367,8 +39373,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,600 |
-| Normal | 29,724 |
+| Cloudflare | 9,604 |
+| Normal | 29,726 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
