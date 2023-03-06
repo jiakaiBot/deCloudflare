@@ -3748,6 +3748,7 @@ Do not create new issue or we will close it as duplicate.
 | [HeaddyYoung@twitter](https://twitter.com/HeaddyYoung/status/1393392239280156674) | advertise |
 | [HealthFitnesMa@twitter](https://twitter.com/HealthFitnesMa/status/1379584473650593794) | advertise |
 | [HeartKi08245989@twitter](https://twitter.com/HeartKi08245989/status/1390367647884189696) | advertise |
+| [Hech12345678@twitter](https://twitter.com/Hech12345678/status/1632738992067313664) | advertise |
 | [heck757571@twitter](https://twitter.com/heck757571/status/1482552999931269121) | advertise |
 | [hedi_hawleri@twitter](https://twitter.com/hedi_hawleri/status/1384009917279793161) | advertise |
 | [heheeboiz@twitter](https://twitter.com/heheeboiz/status/1552663048418394112) | advertise |
@@ -12269,6 +12270,7 @@ Do not create new issue or we will close it as duplicate.
 | [youngmao89@twitter](https://twitter.com/youngmao89/status/1478019085409533955) | advertise |
 | [YourDad50670613@twitter](https://twitter.com/YourDad50670613/status/1404477486487019527) | advertise |
 | [yourkshitij@twitter](https://twitter.com/yourkshitij/status/1564977033435705344) | advertise |
+| [yourmomszn@twitter](https://twitter.com/yourmomszn/status/1632759129491095555) | advertise |
 | [yourname1145@twitter](https://twitter.com/yourname1145/status/1485279023383334919) | advertise |
 | [YourNig17731853@twitter](https://twitter.com/YourNig17731853/status/1597643695331106816) | advertise |
 | [YourReindeer9@twitter](https://twitter.com/YourReindeer9/status/1612721834105139201) | advertise |
