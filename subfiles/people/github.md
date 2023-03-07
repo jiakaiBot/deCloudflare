@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [401 unauthorized downloading svg-core in the cloud w/ free version](https://github.com/FortAwesome/react-fontawesome/issues/545)
 - [CUDOS Testnet not working, but CUDOS mainnet working perfectly](https://github.com/ping-pub/explorer/issues/340)
 - [Crash when unauthorized](https://github.com/Fl4m3Ph03n1x/market_manager/issues/77)
 - [Cache and CORS middleware conflict](https://github.com/honojs/hono/issues/963)
