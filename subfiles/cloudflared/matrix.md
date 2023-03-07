@@ -112,7 +112,6 @@ Here's a list of public Matrix services.
 | matrix.sans-nuage.fr | No |
 | matrix.sibnsk.net | No |
 | socialnetwork24.com | No |
-| matrix.studichat.de | No |
 | synod.im | No |
 | matrix.tchncs.de | No |
 | matrix.techsaviours.org | No |
@@ -135,7 +134,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 21 |
-| Normal | 86 |
+| Normal | 85 |
 
 
-### 19.6% of public Matrix services are using Cloudflare.
+### 19.8% of public Matrix services are using Cloudflare.
