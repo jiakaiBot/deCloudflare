@@ -50,7 +50,6 @@ Here's a list of public Matrix services.
 | matrix.data.coop | No |
 | matrix.data.haus | No |
 | im.deuxfleurs.fr | No |
-| matrix.dieandalusier.net | No |
 | matrix.duesen.chat | No |
 | matrix.envs.net | No |
 | matrix.evulid.cc | Yes |
@@ -136,7 +135,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 21 |
-| Normal | 87 |
+| Normal | 86 |
 
 
-### 19.4% of public Matrix services are using Cloudflare.
+### 19.6% of public Matrix services are using Cloudflare.
