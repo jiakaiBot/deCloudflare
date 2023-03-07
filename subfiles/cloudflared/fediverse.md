@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,897 |
-| social | 3,806 |
+| social | 3,807 |
 | net | 3,014 |
 | org | 2,098 |
 | de | 1,966 |
@@ -15042,7 +15042,7 @@ Here's a list of public Fediverse services.
 | `i3x.cx` | No |
 | `i544c.me` | Yes |
 | `i8y.org` | No |
-| `ia.cafe` | Yes |
+| `ia.cafe` | No |
 | `iacast.net` | No |
 | `iaccessibility.net` | No |
 | `iaccessibility.social` | No |
@@ -18990,7 +18990,7 @@ Here's a list of public Fediverse services.
 | `library.love` | No |
 | `libraryland.social` | Yes |
 | `libratoi.org` | No |
-| `libre-association.party` | Yes |
+| `libre-association.party` | No |
 | `libre-chat.com` | Yes |
 | `libre-chat.net` | No |
 | `libre-communaute.fr` | No |
@@ -27242,6 +27242,7 @@ Here's a list of public Fediverse services.
 | `poedelwitz.de` | No |
 | `poetic.systems` | No |
 | `poetry.garden` | No |
+| `poettmes.social` | No |
 | `pofilo.fr` | No |
 | `pogchamp.xyz` | No |
 | `pogge.rs` | Yes |
@@ -39438,8 +39439,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,638 |
-| Normal | 29,757 |
+| Cloudflare | 9,636 |
+| Normal | 29,760 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
