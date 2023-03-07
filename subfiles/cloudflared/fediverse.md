@@ -21649,6 +21649,7 @@ Here's a list of public Fediverse services.
 | `meu.space` | No |
 | `meuschke.cloud` | No |
 | `meutel.net` | No |
+| `mevideo.host` | Yes |
 | `mevo.xyz` | No |
 | `mew.lgbt` | No |
 | `mew.pm` | Yes |
@@ -24208,7 +24209,7 @@ Here's a list of public Fediverse services.
 | `niji.fi` | Yes |
 | `nijiato.nagoya` | No |
 | `nijigra.art` | No |
-| `nijimiss.moe` | No |
+| `nijimiss.moe` | Yes |
 | `nijiura.xyz` | No |
 | `nikamo.win` | No |
 | `nikel.ovh` | No |
@@ -34769,6 +34770,7 @@ Here's a list of public Fediverse services.
 | `tirr.dev` | Yes |
 | `tisato.live` | Yes |
 | `tissink.me` | No |
+| `tissuebox.art` | No |
 | `titi.me.uk` | No |
 | `titilat.com` | Yes |
 | `titis.xyz` | No |
@@ -39423,7 +39425,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,631 |
+| Cloudflare | 9,633 |
 | Normal | 29,749 |
 
 
