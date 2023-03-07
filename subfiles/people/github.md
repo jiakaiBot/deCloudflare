@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CUDOS Testnet not working, but CUDOS mainnet working perfectly](https://github.com/ping-pub/explorer/issues/340)
 - [Crash when unauthorized](https://github.com/Fl4m3Ph03n1x/market_manager/issues/77)
 - [Cache and CORS middleware conflict](https://github.com/honojs/hono/issues/963)
 - [Elasticsearch alerting return no data at some period of the day with a daily index](https://github.com/grafana/grafana/issues/64312)
