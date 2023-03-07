@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,895 |
+| com | 5,896 |
 | social | 3,804 |
 | net | 3,014 |
 | org | 2,098 |
@@ -12585,6 +12585,7 @@ Here's a list of public Fediverse services.
 | `geisteskultur.de` | Yes |
 | `geistlib.xyz` | Yes |
 | `gekidasa.ink` | No |
+| `gekka.sexy` | Yes |
 | `geknupp.de` | No |
 | `gekritzel.at` | No |
 | `geldmacher.io` | No |
@@ -17990,6 +17991,7 @@ Here's a list of public Fediverse services.
 | `kouett.net.eu.org` | No |
 | `koumoul.com` | No |
 | `kountanis.com` | Yes |
+| `kousaka.space` | Yes |
 | `kousokujin.com` | No |
 | `koutakou.pm` | No |
 | `koutoupis.com` | No |
@@ -18107,6 +18109,7 @@ Here's a list of public Fediverse services.
 | `ktistec.com` | No |
 | `ktnfm.com` | Yes |
 | `ktrv.dev` | Yes |
+| `ktsn.dev` | Yes |
 | `kttsakaba.net` | No |
 | `ktvw.de` | No |
 | `ku.cx` | No |
@@ -23372,6 +23375,7 @@ Here's a list of public Fediverse services.
 | `n11o.com` | No |
 | `n1l.dev` | Yes |
 | `n1mtp.com` | No |
+| `n30k-zeiladn.com` | No |
 | `n3cld.de` | No |
 | `n3rd.cc` | Yes |
 | `n3tf5r.me` | Yes |
@@ -38920,7 +38924,7 @@ Here's a list of public Fediverse services.
 | `yukieyun.net` | Yes |
 | `yukiisbo.red` | No |
 | `yukimochi.io` | Yes |
-| `yukimochi.jp` | No |
+| `yukimochi.jp` | Yes |
 | `yukineko.me` | Yes |
 | `yukioke.com` | No |
 | `yukisou.xyz` | No |
@@ -39419,8 +39423,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,627 |
+| Cloudflare | 9,631 |
 | Normal | 29,749 |
 
 
-### 24.4% of public Fediverse services are using Cloudflare.
+### 24.5% of public Fediverse services are using Cloudflare.
