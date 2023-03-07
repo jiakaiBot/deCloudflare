@@ -1344,7 +1344,6 @@ www.helpdesk.kantahkrs.id
 www.helpdeskz.kontrakin.com
 www.ice-service.kiamax.org
 www.incasolfarmacia.koesso.com
-www.intl-educ.opir.kyoto-u.ac.jp
 www.invoice.khidir.id
 www.invoice.konseparsitek.com
 www.invoice.kudduiso.com
@@ -1685,7 +1684,6 @@ ao160.keap-link019.com
 ap130.keap-link014.com
 api-dev.kunskapsstod.se
 api.connect.ko.com
-api.kaufland8.com
 api.kimtandao.co.tz
 api.knowpin.com
 api.kurzurlaub.de
@@ -1698,6 +1696,7 @@ authtest.kocespay.com
 autodiscover.kinitro-exartimata.gr
 avito.avito.blablacar.sber.www.covid19.kleinformart.com
 avito.avito.blablacar.www.avito.covid19.kleinformart.com
+avito.sber.avito.blablacar.avito.avito.covid19.kleinformart.com
 avito.sber.sber.avito.sber.blablacar.covid19.kupit-banyu-38.ru
 baas.korporate.tech
 beforeupdate.kinzakazmi.com
@@ -1744,16 +1743,19 @@ cpcontacts.kinitro-exartimata.gr
 cpcontacts.kirjalankirppis.fi
 cpcontacts.kodelabs.site
 cr-shop.kagome.co.jp
+creditscoring.kalpata.co.id
 datentechnik2.81-7-13-158.blue.kundencontroller.de
 dc1-file.ksn.kaspersky-labs.com
 de-go.kelkoogroup.net
 demo.keyapsolutions.com
 demo.kisankartbill.com
+dev.invoice.koalame.fr
 dev.kiub-edition.com
 dev.kmart.co.nz
 devapi.klikbca.com
 discgnomerdapp.aed13a6f34584da687139f5f1-13715.sites.k-hosting.co.uk
 discord-bot.ky-programming.de
+dny281.keap-link016.com
 docebo-dev.kennedysiq.com
 does-no-exist33.vip.wordpress.kronos.msk.ru
 dpr.kwiktag.net
@@ -1781,6 +1783,7 @@ gitlab.git.git.git.git.gitlab.28888.tunnel.kikitori-dev.net
 gitlab.git.git.gitlab.git.gmail.katerinabugakova.com
 gitlab.gitlab.git.gitlab.git.git.gmail.katerinabugakova.com
 gitlab.gitlab.gitlab.git.git.gmail.katerinabugakova.com
+glacebay.kennyspizza.com
 gn-api-inventory-east-1b.kenna.io
 gn231.keap-link016.com
 harmony.kiaindia.net
@@ -1818,6 +1821,7 @@ karmisee.ro
 karriere-bei-toennies.de
 kashworldstores.com
 kassiesa.net
+kasturifoods.com
 katherinebickford.ca
 kathsant.com
 katpalvelu.fi
@@ -1827,8 +1831,11 @@ kav7.io
 kav8.io
 kbchelplinewinnerlist.com
 kbcomputers.co.il
+kbcqocps.ml
 kcci.com
 kdpinterior.com
+keith-baker.com
+kelataksipalvelu.fi
 kellykapsar.com
 kenectin.com
 keprtv.com
@@ -1850,9 +1857,11 @@ kimsa.ltd
 kingsong.com.ua
 kinitrobox.com
 kintamanipanoramicactivity.com
+kiranapremier.com
 kirklees.gov.uk
 kista.com
 kitchenexpress.co.za
+kiu-box.com
 kixicredito.ao
 kki.hu
 klatkinaoczach.pl
@@ -1914,6 +1923,7 @@ ksgwext1.kasikornsecurities.com
 kslawemail.com
 ksprestigehomecare.com
 kssingers.com
+kstp.com
 kt.kedaitinted.com
 ktalents.com.my
 ktl-da.kashiyama.com
@@ -1923,6 +1933,8 @@ kubwa.dog
 kudunyahoo.com
 kukarkab.go.id
 kumescim.com
+kurisyapi.com
+kuwin.net
 kvkk-preprod.kns-cdp.com
 kvo1.io
 kvo2.io
@@ -1950,6 +1962,7 @@ my-new-teamwork.acmecorp.dev.kosha.app
 mykulsrv48.my.kworld.kpmg.com
 navidrome.kmr.io
 nc-dev-mobile.kronsoft.ro
+net.konto-verifizierung.com
 nft-verify.kaga-e-residency.jp
 nixyghast.koshm.com
 one-dr.krungthai.com
@@ -1989,8 +2002,10 @@ s4bwebext.kne-drv-bund.de
 s4bwebscheduler.kne-drv-bund.de
 sails.kinto-mobility.jp
 sakukunotif.klikbca.com
+sb.kurashi-denki.jp
 sber.avito.avito.avito.blablacar.sber.covid19.kozlovaresult.com
 sber.avito.blablacar.sberbank.covid19.kpd101studio.com
+sber.sber.avito.avito.sberbank.www.covid19.kleinformart.com
 sber.www.sberbank.avito.avito.sberbank.covid19.kozlovaresult.com
 sberbank.avito.blablacar.blablacar.www.covid19.kleinformart.com
 sberbank.sber.avito.blablacar.sberbank.covid19.kozlovaresult.com
@@ -1998,6 +2013,7 @@ scm.kibs.com.mk
 sddcfe-rp.us.kpmg.com
 secure.kajws.com
 server.kas.cz
+service.kfz-srs.de
 services.kbml.ky.gov
 services.kku.ac.th
 shop-ch-integration.kwsch.kci.rocks
@@ -2007,6 +2023,7 @@ sitwallet.ktcgroup.dev
 smtp.gmail.krsvn.com
 sonarr-discord.kanazaca.com
 speicherportal.kge-gasspeichergesellschaft.de
+sslvpn.kupidoszexshop.hu
 stara.kapucini.si
 szymek.krzywaczka.pl
 ticketing.knvb.nl
@@ -2022,6 +2039,9 @@ uutiscuppu.karjalansivistysseura.fi
 valealupilor.kometaservice.ro
 vmail.krijgersetenei.com
 vpn.karlskrona.se
+vpn.kyaholding.com
+vpn.kylm.ee
+vpn2.kupidoszexshop.hu
 vpnadm.kingofkingsfood.com
 web003.kodo.io
 webdisk.hotelscotlandnews.3d40ac20331df3c07ebbde4b8-12897.sites.k-hosting.co.uk
@@ -2029,11 +2049,13 @@ webdisk.killcovid.us
 webdisk.kinitro-exartimata.gr
 webdisk.kirjalankirppis.fi
 webdisk.kiuber.com
+webmail-pt-lu.kingrampassiveincome.com
 webmail.hotelscotlandnews.3d40ac20331df3c07ebbde4b8-12897.sites.k-hosting.co.uk
 webmail.ki-gruppe.com
 webmail.kinitro-exartimata.gr
 webmail.kirjalankirppis.fi
 webmail.klinikcovid19.com
+webvpn.kupidoszexshop.hu
 whm.khekhesiboemcai.com
 wildtamine.khunkai.com
 wol.knifequeerart.com
@@ -2062,8 +2084,10 @@ www.creditos.ktegnosas.com
 www.demo.kisankartbill.com
 www.drumsprerai.kometaservice.ro
 www.dvorane.kravarsko.eu
+www.facebook.kropa.net
 www.factlines.kunder-guru-utvikling.no
 www.gest.krakenand.com
+www.glacebay.kennyspizza.com
 www.grupa-security.security.kylos.pl
 www.gun-threats-1.krav-maga-elite.de
 www.ikanobostad.kravportal.se
@@ -2074,6 +2098,7 @@ www.kadn.com
 www.kai.id
 www.kajstenvall.fi
 www.kalasso.vn
+www.kaldobsky.com
 www.kaleidoscopeconsulting.nl
 www.kaliargent.com
 www.kall.com
@@ -2102,6 +2127,7 @@ www.kbcreativeco.com
 www.kdob.be
 www.kdrv.com
 www.kdsnet.co.jp
+www.kebuna.com
 www.keeconsultinggroup.com
 www.keepbuttesafe.com
 www.keepwalkingclubvn.com
@@ -2109,9 +2135,11 @@ www.keikkakunkku.fi
 www.kentek.fi
 www.kentuckyhealthjusticenetwork.org
 www.kepco.co.jp
+www.kerblet.com
 www.kesys.fr
 www.ket.org
 www.kevinivinschiropractic.com
+www.kevinklauber.com
 www.keyence.com.ph
 www.keyence.de
 www.keymilitary.com
@@ -2133,6 +2161,7 @@ www.kineticpowersystemreview.com
 www.kinggeorgebooking.com
 www.kingsmanexpress.co.uk
 www.kingway.com.pl.shoebill.kylos.pl
+www.kinodiana.fi
 www.kinstonsmiles.com
 www.kirjapainopalvelu.fi
 www.kitchensbylograsso.com
@@ -2148,6 +2177,7 @@ www.klook.com
 www.klusservice-voorburg.nl
 www.kmaconsultinggroup.com
 www.kmalerservice.no
+www.kncproductions.com
 www.knorr.com
 www.knt.co.jp
 www.knvcapitalservices.com
@@ -2160,9 +2190,13 @@ www.kompas-postojna.si
 www.kompasupdate.com
 www.komu-bilet.ru
 www.kong-services.com
+www.konsultinggroup.com
+www.kopeckyhala.cz
 www.korinamossauthor.com
+www.kosmetikklaboratoriet.no
 www.kotitalouspalvelu.fi
 www.kpkdelivery.ro
+www.kraeuterpellets.de
 www.kraken-paulocalcrew.fr
 www.krakenberger.org
 www.krakendiving.co.uk
@@ -2187,6 +2221,7 @@ www.kuber-ai.com
 www.kulturstiftung.de
 www.kunstenfilosofiecafe.nl
 www.kunstruim.amsterdam
+www.kurisyapi.com
 www.kurtkoytelekom.com.tr
 www.kurtstanley.com
 www.kury.mobi
@@ -2218,6 +2253,7 @@ www.sberbank.avito.sberbank.sber.sber.hanxw8old81vkr6.live.kidaxi.ru
 www.sberbank.sber.avito.sberbank.sber.hanxw8old81vkr6.live.kidaxi.ru
 www.sberbank.sber.sber.sber.sber.hanxw8old81vkr6.live.kidaxi.ru
 www.service.kadinmart.or.id
+www.service.kfz-srs.de
 www.serviceac-jakarta.kontraktoracpaluminium.com
 www.sso.kalimantanforest.org
 www.suomenlainapalvelu.kaikkikaupat.fi
@@ -2227,6 +2263,7 @@ www.termopane-calarasi.kometaservice.ro
 www.track.kepriben.com
 www.tracking.kirimmobilmurah.net
 www.valealupilor.kometaservice.ro
+www.whatsapp.kebuna.com
 www.whatsapp.klinikkitamura.com
 www.whatsappfood.kamwally.com
 www.zbor.kravarsko.eu
