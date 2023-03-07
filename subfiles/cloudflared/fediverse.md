@@ -2966,6 +2966,7 @@ Here's a list of public Fediverse services.
 | `badfellas.media` | No |
 | `badgay.net` | No |
 | `badge.supply` | No |
+| `badger.dance` | Yes |
 | `badgergirl.games` | No |
 | `badgerson.com` | No |
 | `badgirls.org.uk` | No |
@@ -5853,6 +5854,7 @@ Here's a list of public Fediverse services.
 | `circle.lt` | Yes |
 | `circlebasti.at` | No |
 | `circlelinego.com` | Yes |
+| `circles.fi` | No |
 | `circletocqueville.no` | No |
 | `circuitlocution.com` | No |
 | `circumception.com` | No |
@@ -39436,8 +39438,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,637 |
-| Normal | 29,756 |
+| Cloudflare | 9,638 |
+| Normal | 29,757 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
