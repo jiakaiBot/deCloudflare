@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,894 |
+| com | 5,895 |
 | social | 3,804 |
 | net | 3,014 |
 | org | 2,098 |
@@ -26750,6 +26750,7 @@ Here's a list of public Fediverse services.
 | `piconic.co` | Yes |
 | `pics.mu` | No |
 | `pictochat.net` | No |
+| `pictureofreality.com` | No |
 | `picverse.am` | No |
 | `pid1.sh` | Yes |
 | `pidibi.com` | No |
@@ -39419,7 +39420,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,627 |
-| Normal | 29,748 |
+| Normal | 29,749 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
