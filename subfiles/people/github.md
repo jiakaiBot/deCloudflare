@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [sing-box h2 client not work with xray h2 server](https://github.com/SagerNet/sing-box/issues/412)
 - [New render pipeline prerequisites](https://github.com/datopian/datahub-next/issues/27)
 - [How to Migrate to Another Server](https://github.com/PrivateBin/PrivateBin/issues/1075)
 - [Cozy & cloudflared](https://github.com/cozy/cozy-coclyco/issues/5)
