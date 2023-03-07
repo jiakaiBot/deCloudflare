@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,892 |
+| com | 5,894 |
 | social | 3,804 |
-| net | 3,012 |
-| org | 2,097 |
+| net | 3,014 |
+| org | 2,098 |
 | de | 1,966 |
 
 
@@ -5507,6 +5507,7 @@ Here's a list of public Fediverse services.
 | `chaster.app` | Yes |
 | `chat-laden.net` | No |
 | `chat-node.uk` | Yes |
+| `chatagiriii.com` | No |
 | `chatalk.club` | No |
 | `chatamerica.us` | No |
 | `chatan.cc` | Yes |
@@ -15994,6 +15995,7 @@ Here's a list of public Fediverse services.
 | `ivanfr.com` | No |
 | `ivaniotti.com` | No |
 | `ivanmendoza.net` | No |
+| `ivasilev.net` | No |
 | `ivel.fr` | No |
 | `iversen.io` | Yes |
 | `ivi.pl` | No |
@@ -17451,6 +17453,7 @@ Here's a list of public Fediverse services.
 | `kfogel.org` | No |
 | `kg2.com` | Yes |
 | `kghorvath.com` | Yes |
+| `kglcd.ca` | No |
 | `kgtkr.net` | Yes |
 | `kh-berlin.de` | No |
 | `kh.ro` | No |
@@ -22176,6 +22179,7 @@ Here's a list of public Fediverse services.
 | `mk1.io` | Yes |
 | `mk39.xyz` | No |
 | `mkdir.uk` | Yes |
+| `mkeverse.net` | No |
 | `mkg20001.io` | Yes |
 | `mkgrcd.xyz` | No |
 | `mkihr-ojisan.com` | No |
@@ -28756,7 +28760,7 @@ Here's a list of public Fediverse services.
 | `redfern.is` | Yes |
 | `redfish.ca` | No |
 | `redflag.social` | Yes |
-| `redfuku.com` | No |
+| `redfuku.com` | Yes |
 | `redgarterclub.com` | No |
 | `redgla.re` | No |
 | `redirectme.net` | Yes |
@@ -37322,6 +37326,7 @@ Here's a list of public Fediverse services.
 | `wattsupwiththat.com` | No |
 | `wauland.de` | No |
 | `wavers.us` | No |
+| `wawas-kingdom.com` | Yes |
 | `wawik.xyz` | No |
 | `waxandleather.com` | Yes |
 | `waxwing.studio` | Yes |
@@ -37345,6 +37350,7 @@ Here's a list of public Fediverse services.
 | `wdx543.top` | No |
 | `we-cloud.de` | No |
 | `we-keys.fr` | No |
+| `we3.co` | Yes |
 | `weanimatethings.com` | No |
 | `weaponvsac.space` | No |
 | `wearechange.org` | No |
@@ -38008,6 +38014,7 @@ Here's a list of public Fediverse services.
 | `workingweb.nl` | No |
 | `workisboring.com` | No |
 | `worklifepsych.social` | No |
+| `workofart.org` | No |
 | `world-congress.org` | No |
 | `worldbankofmemes.com` | No |
 | `worldblindherald.com` | No |
@@ -39411,8 +39418,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,624 |
-| Normal | 29,744 |
+| Cloudflare | 9,627 |
+| Normal | 29,748 |
 
 
 ### 24.4% of public Fediverse services are using Cloudflare.
