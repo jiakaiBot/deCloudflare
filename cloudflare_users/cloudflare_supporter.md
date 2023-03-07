@@ -6770,6 +6770,7 @@ Do not create new issue or we will close it as duplicate.
 | [MgNaingWin13@twitter](https://twitter.com/MgNaingWin13/status/1403011221834641408) | advertise |
 | [MgNayMyoAung4@twitter](https://twitter.com/MgNayMyoAung4/status/1395735038751174657) | advertise |
 | [MgNyanWin4@twitter](https://twitter.com/MgNyanWin4/status/1392727264756846599) | advertise |
+| [mgppap@twitter](https://twitter.com/mgppap/status/1632962255594848256) | advertise |
 | [mgsoe25831968@twitter](https://twitter.com/mgsoe25831968/status/1392449124394422272) | advertise |
 | [MgSoeGyi8@twitter](https://twitter.com/MgSoeGyi8/status/1392517096186073091) | advertise |
 | [MgThawThaw2@twitter](https://twitter.com/MgThawThaw2/status/1395255724981116929) | advertise |
