@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,896 |
+| com | 5,897 |
 | social | 3,804 |
 | net | 3,014 |
 | org | 2,098 |
@@ -5840,6 +5840,7 @@ Here's a list of public Fediverse services.
 | `cinematheque.social` | Yes |
 | `cinematheque.tube` | No |
 | `cinnamond.social` | No |
+| `cintaprogramming.com` | Yes |
 | `cipay.ca` | No |
 | `cipherbliss.com` | No |
 | `cipherdogs.net` | No |
@@ -7196,6 +7197,7 @@ Here's a list of public Fediverse services.
 | `cyberpunk.gmbh` | No |
 | `cyberpunk.haus` | No |
 | `cyberpunk.net.ar` | Yes |
+| `cyberpunk.pics` | No |
 | `cyberpunks.social` | No |
 | `cyberpunks.xyz` | No |
 | `cyberpunx.com` | No |
@@ -12001,7 +12003,7 @@ Here's a list of public Fediverse services.
 | `ful.social` | No |
 | `fulano.social` | No |
 | `fulda.social` | No |
-| `fulgur.xyz` | No |
+| `fulgur.xyz` | Yes |
 | `fulin.io` | Yes |
 | `full-cyber.com` | No |
 | `full-house.de` | No |
@@ -39425,7 +39427,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,633 |
+| Cloudflare | 9,635 |
 | Normal | 29,749 |
 
 
