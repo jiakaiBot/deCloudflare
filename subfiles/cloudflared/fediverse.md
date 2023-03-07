@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,891 |
+| com | 5,892 |
 | social | 3,804 |
 | net | 3,012 |
 | org | 2,097 |
@@ -2736,6 +2736,7 @@ Here's a list of public Fediverse services.
 | `avtobiografia.com` | Yes |
 | `avtweeps.social` | No |
 | `awa.im` | Yes |
+| `awadwatt.com` | No |
 | `awakeningproject.net` | No |
 | `awaodori.tokyo` | No |
 | `awau.social` | Yes |
@@ -30430,7 +30431,7 @@ Here's a list of public Fediverse services.
 | `scribe.io` | No |
 | `scripted.social` | No |
 | `scriptfanix.fr` | No |
-| `scriptforge.org` | No |
+| `scriptforge.org` | Yes |
 | `scriptjunkie.us` | No |
 | `scritches.social` | No |
 | `scriu.cat` | No |
@@ -33775,6 +33776,7 @@ Here's a list of public Fediverse services.
 | `techotakugamerz.com` | No |
 | `techpolicy.social` | No |
 | `techporn.club` | Yes |
+| `techpriesthub.xyz` | Yes |
 | `techsocial.site` | No |
 | `techspace.social` | No |
 | `techspresso.cafe` | No |
@@ -39409,7 +39411,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,622 |
+| Cloudflare | 9,624 |
 | Normal | 29,744 |
 
 
