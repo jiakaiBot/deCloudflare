@@ -23454,6 +23454,7 @@ Here's a list of public Fediverse services.
 | `naiveapps.com` | Yes |
 | `naiw.jp` | No |
 | `nakadashi.life` | No |
+| `nakadashi.mobi` | No |
 | `nakadashi.rocks` | Yes |
 | `nakamoto.social` | Yes |
 | `nakanod.net` | No |
@@ -39440,7 +39441,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,636 |
-| Normal | 29,760 |
+| Normal | 29,761 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
