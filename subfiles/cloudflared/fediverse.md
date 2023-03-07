@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,897 |
-| social | 3,804 |
+| social | 3,806 |
 | net | 3,014 |
 | org | 2,098 |
 | de | 1,966 |
@@ -261,6 +261,7 @@ Here's a list of public Fediverse services.
 | `213.link` | No |
 | `21314.de` | No |
 | `2137.social` | No |
+| `217.icu` | No |
 | `21x9.org` | No |
 | `2207.fr` | No |
 | `221b.uk` | Yes |
@@ -5176,6 +5177,7 @@ Here's a list of public Fediverse services.
 | `casual.systems` | Yes |
 | `casually.cat` | Yes |
 | `casuallyblue.xyz` | No |
+| `casuls.social` | No |
 | `cat-from-outer.space` | No |
 | `cat.broker` | No |
 | `cat.engineer` | Yes |
@@ -8022,6 +8024,7 @@ Here's a list of public Fediverse services.
 | `deo.moe` | No |
 | `deoan.org` | No |
 | `deoke.ml` | No |
+| `deoxy.xyz` | No |
 | `depertat.net` | No |
 | `dephekt.net` | No |
 | `depht.com` | No |
@@ -8400,6 +8403,7 @@ Here's a list of public Fediverse services.
 | `dingdash.com` | No |
 | `dingo.network` | No |
 | `dingshunyu.top` | No |
+| `dingus.business` | Yes |
 | `dingus.social` | No |
 | `diniscorreia.com` | No |
 | `dinn.ca` | No |
@@ -9636,6 +9640,7 @@ Here's a list of public Fediverse services.
 | `eliseomartelli.it` | No |
 | `eliseuvideira.com` | No |
 | `elixir.run` | Yes |
+| `eliyap.social` | No |
 | `eliz.live` | Yes |
 | `elizafox.space` | No |
 | `elizur.me` | No |
@@ -16181,6 +16186,7 @@ Here's a list of public Fediverse services.
 | `jandhyala.co` | No |
 | `janeirl.dev` | Yes |
 | `janetgunter.net` | No |
+| `jangho.io` | Yes |
 | `janhamisch.de` | No |
 | `janherm.de` | No |
 | `janian.de` | No |
@@ -38131,6 +38137,7 @@ Here's a list of public Fediverse services.
 | `wsvn.com` | No |
 | `wt21.de` | No |
 | `wtal.social` | No |
+| `wtf.sh` | No |
 | `wtf.social` | Yes |
 | `wtfayla.net` | No |
 | `wtfflorida.com` | Yes |
@@ -38796,6 +38803,7 @@ Here's a list of public Fediverse services.
 | `yodan.ninja` | No |
 | `yog.wtf` | No |
 | `yoghurthair.club` | No |
+| `yogui.li` | No |
 | `yohan.es` | Yes |
 | `yohane.su` | Yes |
 | `yoichihirai.com` | No |
@@ -39322,6 +39330,7 @@ Here's a list of public Fediverse services.
 | `zork.social` | No |
 | `zornhau.de` | No |
 | `zorns.eu` | No |
+| `zoroark.cafe` | No |
 | `zoski.fr` | No |
 | `zot.social` | No |
 | `zota.la` | No |
@@ -39427,8 +39436,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,635 |
-| Normal | 29,749 |
+| Cloudflare | 9,637 |
+| Normal | 29,756 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
