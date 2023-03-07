@@ -413,6 +413,7 @@ argocd-inl.yjtech.tw
 article.yahoo.co.jp
 asr-stream-covid19.yating.tw
 auth.youtubethumbs.pics
+avito.sber.sber.avito.avito.avito.covid19.youhollywood.com
 b91.yahoo.co.jp
 b95.yahoo.co.jp
 backoffice.yape.com.pe
@@ -428,6 +429,7 @@ dev-ntpc.youbike2.com
 discourse.yatahonga.com
 dms-abof74q8xxreport.wc.yahoodns.net
 edwqfgfsgd.youdontcare.com
+email.yourinforequest.net
 er-addon.yesbank.in
 er-ext-api.yesbank.in
 git.git.git.git.goffice365.yalecarolinas.com
@@ -463,6 +465,7 @@ top15posts.youngpetals.net
 v-al5r12ca4i.wc.yahoodns.net
 v-b95agctlk7.wc.yahoodns.net
 v-cheds4nwbl.wc.yahoodns.net
+vpn.yucca.app
 weathermaps.s3.yandex.net
 webmail.ybpindo.or.id
 www.ard.yapima.sch.id
@@ -488,16 +491,19 @@ www.yesthatchase.com
 www.ymmarrys.org
 www.ymparistoahdistus.fi
 www.yogaconference.ch
+www.yogainfergus.ca
 www.yorkshiredalespestcontrol.com
 www.yoshitoku.co.jp
 www.your-body-care.nl
 www.yourfuturecredit.com
 www.yours4thetaking.com
 www.yumamobiletireservice.com
+www.yummysprout.com
 y3rt.com
 yahoomailsupportphonenumber.com
 yapianaliz.com.tr
 yapianalizi.com.tr
+yapicilaras.com
 yapidogalgaz.com.tr
 yapiskan.tk
 yaseagrouptravel.com
@@ -517,6 +523,7 @@ yesmsmeonline.yesbank.in
 yetch.store
 yinyang-verlag.de
 yodecidocomo.com
+yooflyer.com
 youenforcement.life
 youhaveitmaidservice.com
 youinspire.me.uk
