@@ -63,7 +63,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | avdkishore.dev | Yes |
 | axaxa.fun | Yes |
 | azcom.dev | Yes |
-| azsopro.net | No |
 | b-cdn.net | No |
 | b33.space | Yes |
 | b612.me | Yes |
@@ -88,7 +87,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | bosco.ovh | No |
 | brahma.world | Yes |
 | brian-hong.tech | No |
-| brightesttv.com | Yes |
 | c-dns.com | No |
 | carson-family.com | Yes |
 | cbio.top | Yes |
@@ -106,7 +104,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cloud-sekeng.com | No |
 | cloudflare-dns.com | Yes |
 | cloudnx.cloud | Yes |
-| cloudseriousshit.com | Yes |
 | cnblw.me | Yes |
 | cola16.app | Yes |
 | comeonjames.club | Yes |
@@ -145,7 +142,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dnsadguard.co.uk | No |
 | dnscrypt.ca | No |
 | dnsenc.com | No |
-| dnsfish.com | Yes |
+| dnsflex.com | Yes |
 | dnsforfamily.com | Yes |
 | dnsforge.de | No |
 | dnshome.de | No |
@@ -155,7 +152,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | doh.lv | No |
 | doh.sb | Yes |
 | dotls.org | Yes |
-| douglaster.com | No |
 | druta.me | Yes |
 | dscloud.me | No |
 | dtness.com | No |
@@ -165,7 +161,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dyn1.de | No |
 | dyndns.org | No |
 | dynv6.net | No |
-| e-utp.net | No |
 | easyhandshake.com | No |
 | edgy-dns.com | No |
 | edison42.dev | No |
@@ -223,7 +218,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hinet.net | Yes |
 | hitian.me | Yes |
 | hoerli.net | Yes |
-| hoover.eu.org | No |
 | hopto.org | Yes |
 | hostux.net | No |
 | huque.com | No |
@@ -299,7 +293,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | maolaohei.xyz | No |
 | marcrnt.de | No |
 | masters-of-cloud.de | No |
-| mcasviper.de | No |
 | meddy94.de | No |
 | meeo.win | Yes |
 | meganerd.nl | No |
@@ -477,8 +470,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 205 |
-| Normal | 253 |
+| Cloudflare | 203 |
+| Normal | 248 |
 
 
-### 44.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 45% of DNS-over-HTTPS (DoH) are using Cloudflare.
