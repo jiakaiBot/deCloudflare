@@ -689,6 +689,7 @@ ns0061.secondary.cloudflare.com
 ns0065.secondary.cloudflare.com
 ns0067.secondary.cloudflare.com
 ns0068.secondary.cloudflare.com
+ns0069.secondary.cloudflare.com
 ns0076.secondary.cloudflare.com
 ns0077.secondary.cloudflare.com
 ns0080.secondary.cloudflare.com
