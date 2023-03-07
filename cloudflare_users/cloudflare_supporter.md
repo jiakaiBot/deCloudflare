@@ -1841,6 +1841,7 @@ Do not create new issue or we will close it as duplicate.
 | [cAnh50264481@twitter](https://twitter.com/cAnh50264481/status/1392635647995772930) | advertise |
 | [CantThinkOfUsnm@twitter](https://twitter.com/CantThinkOfUsnm/status/1412673732406042624) | moral (advertise) |
 | [CanturyN@twitter](https://twitter.com/CanturyN/status/1508572957173764097) | advertise |
+| [CanvasCapitol@twitter](https://twitter.com/CanvasCapitol/status/1633042229114830848) | advertise |
 | [CaoKhChinh2@twitter](https://twitter.com/CaoKhChinh2/status/1377461966738841601) | advertise |
 | [CaokhiemN@twitter](https://twitter.com/CaokhiemN/status/1539358069398052864) | advertise |
 | [CapantSolent@twitter](https://twitter.com/CapantSolent/status/1392202368616476678) | advertise |
@@ -5448,8 +5449,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -10719,6 +10720,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thepeac18406311@twitter](https://twitter.com/Thepeac18406311/status/1391305173528682496) | advertise |
 | [theprincei@twitter](https://twitter.com/theprincei/status/1589631018654650369) | advertise |
 | [theprincessxena@twitter](https://twitter.com/theprincessxena/status/1382886673055416325) | advertise |
+| [therealfinch@twitter](https://twitter.com/therealfinch/status/1633033684113584129) | advertise |
 | [therealgeorge@twitter](https://twitter.com/therealgeorge/status/1399077136720334851) | advertise |
 | [TheRealHighElmo@twitter](https://twitter.com/TheRealHighElmo/status/1608565874092277760) | advertise |
 | [therealjokerk@twitter](https://twitter.com/therealjokerk/status/1446952055176892416) | advertise |
