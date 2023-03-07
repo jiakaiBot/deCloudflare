@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cache and CORS middleware conflict](https://github.com/honojs/hono/issues/963)
 - [Elasticsearch alerting return no data at some period of the day with a daily index](https://github.com/grafana/grafana/issues/64312)
 - [camenduru's colab still broken even add this line of code](https://github.com/adieyal/sd-dynamic-prompts/issues/293)
 - [Error With Cloudflare?](https://github.com/TheonlyIcebear/Bloxflip-Smart-Bet/issues/82)
