@@ -1774,6 +1774,7 @@ Here's a list of public Fediverse services.
 | `andsmiled.com` | Yes |
 | `andstuff.us` | No |
 | `anduin.net` | No |
+| `andx.lol` | No |
 | `andy-bell.com` | Yes |
 | `andyd.uk` | No |
 | `andyetzler.social` | No |
@@ -13488,7 +13489,7 @@ Here's a list of public Fediverse services.
 | `gruene.social` | No |
 | `gruenehoelle.nl` | Yes |
 | `gruenerfaecher.eu` | No |
-| `grueproof.net` | No |
+| `grueproof.net` | Yes |
 | `gruezi.net` | No |
 | `gruezishop.ch` | No |
 | `gruifor.eu` | No |
@@ -15815,7 +15816,7 @@ Here's a list of public Fediverse services.
 | `iriseden.eu` | No |
 | `irishstew.org` | No |
 | `irithys.com` | Yes |
-| `irkos.uk` | Yes |
+| `irkos.uk` | No |
 | `irl.dog` | Yes |
 | `irlnc.org` | No |
 | `irnok.net` | No |
@@ -17500,7 +17501,7 @@ Here's a list of public Fediverse services.
 | `khmer.love` | Yes |
 | `khoa.cool` | Yes |
 | `khomri.com` | No |
-| `khorneflak.es` | No |
+| `khorneflak.es` | Yes |
 | `khpape.blog` | No |
 | `khsmty.com` | Yes |
 | `khushrajrathod.com` | Yes |
@@ -34397,6 +34398,7 @@ Here's a list of public Fediverse services.
 | `theoks.net` | Yes |
 | `theoldergamers.social` | No |
 | `theologisches-forum.de` | No |
+| `theonetrueginger.ninja` | No |
 | `theopjones.blog` | Yes |
 | `theopjones.com` | Yes |
 | `theor.io` | Yes |
@@ -39486,8 +39488,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,655 |
-| Normal | 29,788 |
+| Cloudflare | 9,656 |
+| Normal | 29,789 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
