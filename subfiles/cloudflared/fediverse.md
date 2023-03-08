@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,897 |
-| social | 3,807 |
-| net | 3,015 |
-| org | 2,098 |
+| com | 5,900 |
+| social | 3,809 |
+| net | 3,017 |
+| org | 2,099 |
 | de | 1,966 |
 
 
@@ -4005,7 +4005,7 @@ Here's a list of public Fediverse services.
 | `blobpat.space` | No |
 | `blobs.space` | Yes |
 | `blobturtle.club` | No |
-| `blobular.com` | Yes |
+| `blobular.com` | No |
 | `bloc.black` | No |
 | `blockbastler.de` | No |
 | `blockedur.mom` | No |
@@ -8912,6 +8912,7 @@ Here's a list of public Fediverse services.
 | `draussen.social` | No |
 | `dravidam.net` | No |
 | `drawk.cab` | No |
+| `drawsdraws.com` | No |
 | `drazisil.com` | Yes |
 | `drcassone.social` | No |
 | `drcit.social` | Yes |
@@ -14859,6 +14860,7 @@ Here's a list of public Fediverse services.
 | `hubzilla.online` | No |
 | `hubzilla.pl` | No |
 | `hubzilla.ru` | No |
+| `hubzilla.social` | No |
 | `hubzion.net` | No |
 | `huck.website` | No |
 | `huckle.ch` | No |
@@ -16618,6 +16620,7 @@ Here's a list of public Fediverse services.
 | `johnwarne.com` | Yes |
 | `johnwrogers.co.uk` | No |
 | `join-fediverse.social` | No |
+| `join-lemmy.org` | No |
 | `joindiaspora.com` | No |
 | `joinfediverse.com` | No |
 | `joinfediverse.online` | No |
@@ -16915,6 +16918,7 @@ Here's a list of public Fediverse services.
 | `justpeace.social` | No |
 | `justporn.cc` | No |
 | `justpotato.net` | Yes |
+| `justsome.photos` | Yes |
 | `justtact.com` | No |
 | `justtelly.com` | No |
 | `justuskings.com` | No |
@@ -23034,6 +23038,7 @@ Here's a list of public Fediverse services.
 | `mujico.org` | No |
 | `mujo.xyz` | Yes |
 | `muknown.jp` | No |
+| `mull.net` | Yes |
 | `mullet.social` | Yes |
 | `mulligrubs.me` | No |
 | `mulliken.net` | Yes |
@@ -23046,6 +23051,7 @@ Here's a list of public Fediverse services.
 | `multijeux.fr` | Yes |
 | `multimob.be` | No |
 | `multinet.ua` | No |
+| `multiplayer-notepad.net` | Yes |
 | `multiple-creature.party` | No |
 | `multisum.info` | No |
 | `multitasked.net` | Yes |
@@ -25191,6 +25197,7 @@ Here's a list of public Fediverse services.
 | `ogrumm.club` | No |
 | `ogspy.fr` | No |
 | `ogtrekker.com` | No |
+| `oh-hi.social` | Yes |
 | `oh-w.tf` | No |
 | `oh14.de` | No |
 | `oh2cil.radio` | No |
@@ -25350,6 +25357,7 @@ Here's a list of public Fediverse services.
 | `omgbe.es` | No |
 | `omglol.fun` | Yes |
 | `omgubuntu.co.uk` | No |
+| `omgwars.com` | No |
 | `omhnc.net` | Yes |
 | `omico.me` | Yes |
 | `omimi.live` | Yes |
@@ -31981,6 +31989,7 @@ Here's a list of public Fediverse services.
 | `somnathr.com` | Yes |
 | `somsants.net` | No |
 | `sona.live` | Yes |
+| `sonar.news` | Yes |
 | `sonatagreen.com` | No |
 | `sondages.pro` | No |
 | `sondersign.social` | Yes |
@@ -35834,6 +35843,7 @@ Here's a list of public Fediverse services.
 | `twinports.us` | No |
 | `twipo.net` | No |
 | `twipped.social` | No |
+| `twirper.com` | No |
 | `twistedsifter.com` | No |
 | `twit.social` | No |
 | `twitbridge.click` | No |
@@ -35983,6 +35993,7 @@ Here's a list of public Fediverse services.
 | `ucode.space` | Yes |
 | `ucy.de` | No |
 | `uczymyjak.pl` | Yes |
+| `uda.co.il` | No |
 | `uddannelse.social` | No |
 | `uden.ai` | Yes |
 | `udk-berlin.de` | No |
@@ -38239,6 +38250,7 @@ Here's a list of public Fediverse services.
 | `x4s.io` | Yes |
 | `x59.co` | No |
 | `x59.dev` | No |
+| `x59.us` | No |
 | `x5gtrn.com` | No |
 | `x61.sh` | No |
 | `x61.uk` | Yes |
@@ -39441,8 +39453,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,637 |
-| Normal | 29,761 |
+| Cloudflare | 9,641 |
+| Normal | 29,769 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
