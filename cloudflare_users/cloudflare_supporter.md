@@ -12326,6 +12326,7 @@ Do not create new issue or we will close it as duplicate.
 | [YuYuThaw14@twitter](https://twitter.com/YuYuThaw14/status/1480196175789637634) | advertise |
 | [yuzzzss@twitter](https://twitter.com/yuzzzss/status/1549403336356818945) | advertise |
 | [YWanasan@twitter](https://twitter.com/YWanasan/status/1392054647393636360) | advertise |
+| [ywsfahm50799760@twitter](https://twitter.com/ywsfahm50799760/status/1633455235384393728) | advertise |
 | [YxngZaZa69@twitter](https://twitter.com/YxngZaZa69/status/1471604103297994757) | advertise |
 | [YYairBB@twitter](https://twitter.com/YYairBB/status/1377950035653066758) | advertise |
 | [Yyint0071@twitter](https://twitter.com/Yyint0071/status/1390727936060317696) | advertise |
