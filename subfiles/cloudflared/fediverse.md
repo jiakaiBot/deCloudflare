@@ -67,6 +67,7 @@ Here's a list of public Fediverse services.
 | `0daysto.live` | Yes |
 | `0ddfactory.com` | No |
 | `0ds.org` | No |
+| `0g0.jp` | No |
 | `0j0.jp` | No |
 | `0ko.me` | Yes |
 | `0kqnet.work` | No |
@@ -8860,6 +8861,7 @@ Here's a list of public Fediverse services.
 | `dphin.com` | Yes |
 | `dpm.social` | No |
 | `dpost.jp` | No |
+| `dpr.kim` | Yes |
 | `dprj.xyz` | No |
 | `dpw.social` | No |
 | `dq10.online` | No |
@@ -17671,6 +17673,7 @@ Here's a list of public Fediverse services.
 | `kitakamirei.ca` | No |
 | `kitamura.name` | No |
 | `kitamurakz.com` | No |
+| `kitazawa.me` | Yes |
 | `kitch.win` | No |
 | `kitchenparty.online` | No |
 | `kitetu.com` | No |
@@ -18148,6 +18151,7 @@ Here's a list of public Fediverse services.
 | `kub2091.ru` | No |
 | `kuba-orlik.name` | No |
 | `kuberegretes.com` | No |
+| `kubiwa.moe` | No |
 | `kubo.social` | No |
 | `kubwa.dog` | No |
 | `kudabiverse.com` | No |
@@ -22130,6 +22134,7 @@ Here's a list of public Fediverse services.
 | `misskey.systems` | No |
 | `misskey.tech` | Yes |
 | `misskey.to` | No |
+| `misskey.today` | No |
 | `misskey.uk` | Yes |
 | `misskey.vip` | Yes |
 | `misskey.wine` | Yes |
@@ -22390,6 +22395,7 @@ Here's a list of public Fediverse services.
 | `moien.net` | No |
 | `moin.city` | No |
 | `moirai.cc` | Yes |
+| `moirai.dev` | No |
 | `moist.live` | No |
 | `moistgarbage.info` | No |
 | `moixamental.cat` | No |
@@ -26830,6 +26836,7 @@ Here's a list of public Fediverse services.
 | `piggo.space` | Yes |
 | `piggy.lol` | Yes |
 | `pigleader.com` | Yes |
+| `pigners.club` | Yes |
 | `pigs.social` | No |
 | `pigsoul.com` | No |
 | `piipitin.fi` | No |
@@ -39488,8 +39495,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,656 |
-| Normal | 29,789 |
+| Cloudflare | 9,659 |
+| Normal | 29,793 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
