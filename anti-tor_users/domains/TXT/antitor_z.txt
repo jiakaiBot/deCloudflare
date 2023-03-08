@@ -406,6 +406,7 @@ auth.zenginehq.com
 authn1.dev.zpath.net
 avito.avito.sber.blablacar.git.covid19.zalive-akvilon.ru
 avito.sber.sber.blablacar.avito.git.covid19.zalive-akvilon.ru
+backoffice.zemanhomes.com
 backofthehouse.com.hmail.zulutradefx.com
 bgw.zitec.de
 ca.zennioptical.com
@@ -447,10 +448,12 @@ origo.sut01.zurichintermediary.co.uk
 pfix-rspb2b.zurich.co.uk
 pfix-rspp2p.zurich.co.uk
 pfix-rsprpa.zurich.co.uk
+play.zodiaccasino.net
 portal.zero.govt.nz
 pub.e.zurich.co.uk
 qrapi.zenia.tech
 regev-hadbarot.zapgoogle.co.il
+restore.zeniskin.ch
 rspp2p.zurich.co.uk
 ru.zeniq-blockchain.com
 s.zkcdn.net
@@ -474,6 +477,7 @@ test-double-ideal-java.payments-core.zalan.do
 tou.zeasn.tv
 us3-csgo.zebedee.studio
 us4-csgo.zebedee.studio
+verlag.zeit.de
 webline.etestb2b.zurich.co.uk
 www.accounts.zdlab.co.za
 www.citiblue.zoiee.com
@@ -483,6 +487,7 @@ www.invoice.zahratalsaharadeliveryservice.com
 www.login.zxcholdingsgroup.com
 www.mepcobill.zotenga.com
 www.muliaservice.zeus-nore.com
+www.restore.zeniskin.ch
 www.support.zeiss.az
 www.user.ziyocloud.live
 www.zaadbank.nl
@@ -495,6 +500,7 @@ www.zaobao.com.sg
 www.zappadoing.ch
 www.zarahome.com
 www.zauber-nuss.de
+www.zauber.my
 www.zazmic.com
 www.zazzle.co.uk
 www.zebengineering.com.au
@@ -510,6 +516,7 @@ www.zettle.com
 www.zhelcleaningservice.com
 www.zillow.com
 www.zimembassyottawa.com
+www.zimmerei-huber-re.de
 www.zinebbenchekchou.com
 www.ziparticle.com
 www.zippiblog.com
@@ -522,6 +529,7 @@ www.zrenergy.hu
 www.zsutherapy.com
 z-l.by
 zamaco.com.vn
+zauber.my
 zazzle.co.uk
 zebratest.eu
 zecchinodoro.org
@@ -529,11 +537,15 @@ zeebra.nl
 zelo.zelomeetings.com
 zenstoneproperties.co.uk
 zephfairbank.ml
+zeray.hu
 zero-1.asia
 zerograus.pt
+zetahg.co
 zh.zeniq-blockchain.com
 zhoubrothers.com
 zhoujin.com
+ziegelindustrie.ch
+ziol.pe
 zionpeace.co.za
 zm.org.pl
 znsecurity.ro
@@ -548,7 +560,7 @@ ztmrds.zenithtechnologies.com
 zuinnote.eu
 zuser1.com
 zuvaenergies.com
-zxyumsso.cf
+zvilapian.com
 absidion.ji.zh.ch
 adcs.zopian.net
 adfs.infrastructure.zopa.com
