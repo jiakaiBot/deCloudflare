@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,903 |
+| com | 5,905 |
 | social | 3,812 |
-| net | 3,019 |
-| org | 2,099 |
+| net | 3,020 |
+| org | 2,100 |
 | de | 1,966 |
 
 
@@ -17457,6 +17457,7 @@ Here's a list of public Fediverse services.
 | `kevlar.cloud` | No |
 | `kevnet.cloud` | No |
 | `kevq.uk` | No |
+| `kevquirk.com` | No |
 | `kevread.fr` | No |
 | `kevrodg.net` | No |
 | `kewlcat.fr` | No |
@@ -18196,6 +18197,7 @@ Here's a list of public Fediverse services.
 | `kurage.cc` | No |
 | `kurakake.net` | No |
 | `kurd.org` | Yes |
+| `kureshisen.com` | Yes |
 | `kuriouslapin.com` | No |
 | `kuriuzu.net` | Yes |
 | `kuriuzu.tk` | No |
@@ -19891,7 +19893,7 @@ Here's a list of public Fediverse services.
 | `lynessence.me` | No |
 | `lyng.space` | No |
 | `lynham.xyz` | No |
-| `lynix.ca` | No |
+| `lynix.ca` | Yes |
 | `lynnesbian.space` | No |
 | `lynoxus.com` | No |
 | `lynxie.net` | No |
@@ -25851,6 +25853,7 @@ Here's a list of public Fediverse services.
 | `otwartezrodlo.pl` | No |
 | `otya.me` | Yes |
 | `otyakai.xyz` | Yes |
+| `otzberg.org` | No |
 | `ouahpiti.info` | No |
 | `ouais.xyz` | No |
 | `oubliette.city` | No |
@@ -27913,6 +27916,7 @@ Here's a list of public Fediverse services.
 | `puffer.blog` | Yes |
 | `pufferzone.racing` | No |
 | `puffin.social` | Yes |
+| `puffy.work` | No |
 | `pug.family` | No |
 | `pug.ninja` | Yes |
 | `pug.photos` | No |
@@ -29345,6 +29349,7 @@ Here's a list of public Fediverse services.
 | `robermar.social` | No |
 | `robert-porten.net` | No |
 | `robertdevore.com` | Yes |
+| `roberthollingshead.net` | Yes |
 | `robertivanc.com` | Yes |
 | `robertmorrison.me` | No |
 | `robertobaca.com` | No |
@@ -39481,8 +39486,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,652 |
-| Normal | 29,786 |
+| Cloudflare | 9,655 |
+| Normal | 29,788 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
