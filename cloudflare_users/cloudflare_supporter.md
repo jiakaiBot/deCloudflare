@@ -1734,6 +1734,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bruce26504010@twitter](https://twitter.com/Bruce26504010/status/1390251989444009991) | advertise |
 | [BruceBrainerd@twitter](https://twitter.com/BruceBrainerd/status/1577829837514764288) | advertise |
 | [bruhwtfbtch@twitter](https://twitter.com/bruhwtfbtch/status/1485627174267015168) | advertise |
+| [Brunocostanav@twitter](https://twitter.com/Brunocostanav/status/1633515960295464966) | advertise |
 | [BrunoFa38272332@twitter](https://twitter.com/BrunoFa38272332/status/1600519902376361987) | advertise |
 | [BruzeWaynezz@twitter](https://twitter.com/BruzeWaynezz/status/1388147989043027968) | advertise |
 | [BryanKoome@twitter](https://twitter.com/BryanKoome/status/1385253754275082243) | advertise |
@@ -10717,8 +10718,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
