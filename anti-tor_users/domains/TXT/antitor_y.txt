@@ -403,6 +403,7 @@ yuyu-billing.dev
 1668671855938104aa9001f347.yourip.cn
 3dsecure.yesbank.in
 accounts.youtube.com
+ae.yallagift.com
 aepsrupayuat.yesbank.in
 api.tietopalvelu.ytj.fi
 api.yourgeno.me
@@ -419,6 +420,7 @@ b95.yahoo.co.jp
 backoffice.yape.com.pe
 blog.yannakas.me
 blog.yourdesignjuice.com
+booking.youthtool.kr
 camp-japan.net.yazooweb.net
 cdn.hss.youforce.biz
 cert.backoffice.yape.com.pe
@@ -429,6 +431,7 @@ dev-ntpc.youbike2.com
 discourse.yatahonga.com
 dms-abof74q8xxreport.wc.yahoodns.net
 edwqfgfsgd.youdontcare.com
+edwqfgfsgdgfqaaaa.youdontcare.com
 email.yourinforequest.net
 er-addon.yesbank.in
 er-ext-api.yesbank.in
@@ -474,6 +477,7 @@ www.billing.yourschoice.club
 www.contoh.yudita.my.id
 www.customers.yellowhoster.com
 www.fittin-service.ymdg.info
+www.googlenewsindia.youreducationportal.com
 www.login.ybiaumroh.com
 www.oktamia.yukundang.com
 www.post.yefi.site
@@ -483,6 +487,7 @@ www.yachtservice-laboe.de
 www.yajagoff.com
 www.yankton.net
 www.yapianalizi.com.tr
+www.yapipan-sip-panel-1.yapipansip.com
 www.yapisalmimarlik.com
 www.yazarlaryapi.com.tr
 www.yefyapi.com.tr
@@ -521,6 +526,7 @@ yensaoantruongtho.com
 yesbank.in
 yesmsmeonline.yesbank.in
 yetch.store
+yeudongvat.org
 yinyang-verlag.de
 yodecidocomo.com
 yooflyer.com
@@ -529,6 +535,7 @@ youhaveitmaidservice.com
 youinspire.me.uk
 yourbestone.com
 yourcovidshot.com
+yourcpaaccountant.com
 yourcryptohome.com
 yourfuturecredit.com
 yourgadgetpedia.com
