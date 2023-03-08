@@ -415,6 +415,7 @@ Do not create new issue or we will close it as duplicate.
 | [ahmdh4474@twitter](https://twitter.com/ahmdh4474/status/1390763076660736001) | advertise |
 | [Ahmed57597025@twitter](https://twitter.com/Ahmed57597025/status/1535713741622370304) | advertise |
 | [Ahmed74149503@twitter](https://twitter.com/Ahmed74149503/status/1568224901600796673) | advertise |
+| [AhmedAl05940302@twitter](https://twitter.com/AhmedAl05940302/status/1633305825140781056) | advertise |
 | [AhmedAl87534372@twitter](https://twitter.com/AhmedAl87534372/status/1382167857501503492) | advertise |
 | [AhmedDeaf93@twitter](https://twitter.com/AhmedDeaf93/status/1494968949976571907) | advertise |
 | [ahmeded64797015@twitter](https://twitter.com/ahmeded64797015/status/1578729480197398531) | advertise |
@@ -6156,6 +6157,7 @@ Do not create new issue or we will close it as duplicate.
 | [Logu60041860@twitter](https://twitter.com/Logu60041860/status/1539758751615713281) | advertise |
 | [Loi49922234@twitter](https://twitter.com/Loi49922234/status/1384799893655416833) | advertise |
 | [loinguyen2408@twitter](https://twitter.com/loinguyen2408/status/1552254118227759109) | advertise |
+| [loiwjtw@twitter](https://twitter.com/loiwjtw/status/1633209819216896000) | advertise |
 | [loke_pa@twitter](https://twitter.com/loke_pa/status/1391006736404729860) | advertise |
 | [Loki83104752@twitter](https://twitter.com/Loki83104752/status/1379175461553573897) | advertise |
 | [loku_cool@twitter](https://twitter.com/loku_cool/status/1592668195596697600) | advertise |
@@ -6433,6 +6435,7 @@ Do not create new issue or we will close it as duplicate.
 | [MalithKaveesha@twitter](https://twitter.com/MalithKaveesha/status/1398239438782623744) | advertise |
 | [mallikiss@twitter](https://twitter.com/mallikiss/status/1515454565197692928) | advertise |
 | [MalluBoii@twitter](https://twitter.com/MalluBoii/status/1386720777110622218) | advertise |
+| [MaloBaloo@twitter](https://twitter.com/MaloBaloo/status/1633327263319228416) | advertise |
 | [MalshaManuri@twitter](https://twitter.com/MalshaManuri/status/1550120147364372482) | advertise |
 | [malsulimain@twitter](https://twitter.com/malsulimain/status/1625273262665080833) | advertise |
 | [malvprass@twitter](https://twitter.com/malvprass/status/1385256169795588096) | advertise |
@@ -9160,6 +9163,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rebeccamauni990@twitter](https://twitter.com/Rebeccamauni990/status/1400455125726994442) | advertise |
 | [Rebel46022752@twitter](https://twitter.com/Rebel46022752/status/1394979060628000772) | advertise |
 | [recheal_mary@twitter](https://twitter.com/recheal_mary/status/1567280620392300544) | advertise |
+| [ReckedyouT@twitter](https://twitter.com/ReckedyouT/status/1633286787891118081) | advertise |
 | [reckitlauncher@twitter](https://twitter.com/reckitlauncher/status/1491610235210919936) | advertise |
 | [recklesspapi@twitter](https://twitter.com/recklesspapi/status/1619133319916167170) | advertise |
 | [redcode198@twitter](https://twitter.com/redcode198/status/1553765502467854338) | advertise |
@@ -10708,8 +10712,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
