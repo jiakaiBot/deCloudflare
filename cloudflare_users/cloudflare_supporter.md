@@ -6115,6 +6115,7 @@ Do not create new issue or we will close it as duplicate.
 | [Little_PoK@twitter](https://twitter.com/Little_PoK/status/1405188466346917889) | advertise |
 | [Live1xSlot@twitter](https://twitter.com/Live1xSlot/status/1419205739466280960) | advertise |
 | [livecountsnl@twitter](https://twitter.com/livecountsnl/status/1563512113221742592) | advertise |
+| [livestosimp@twitter](https://twitter.com/livestosimp/status/1633513214632923136) | advertise |
 | [live_techy@twitter](https://twitter.com/live_techy/status/1377628619380510730) | advertise |
 | [livingstaccato@twitter](https://twitter.com/livingstaccato/status/1585867639553163265) | advertise |
 | [Livvux@twitter](https://twitter.com/Livvux/status/1479984215001292801) | advertise |
@@ -8460,6 +8461,7 @@ Do not create new issue or we will close it as duplicate.
 | [pefry999@twitter](https://twitter.com/pefry999/status/1607704359718256640) | advertise |
 | [Pein1911@twitter](https://twitter.com/Pein1911/status/1405534619005374468) | advertise |
 | [Pekhun1@twitter](https://twitter.com/Pekhun1/status/1389460278643871744) | advertise |
+| [pelaharis@twitter](https://twitter.com/pelaharis/status/1633516323501408258) | advertise |
 | [pelatganteng@twitter](https://twitter.com/pelatganteng/status/1539146518162120704) | advertise |
 | [pemburu_eth@twitter](https://twitter.com/pemburu_eth/status/1389253559103856644) | advertise |
 | [pemilk93@twitter](https://twitter.com/pemilk93/status/1545366726249889792) | advertise |
