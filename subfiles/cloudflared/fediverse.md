@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,897 |
 | social | 3,807 |
-| net | 3,014 |
+| net | 3,015 |
 | org | 2,098 |
 | de | 1,966 |
 
@@ -3666,6 +3666,7 @@ Here's a list of public Fediverse services.
 | `bikers.social` | Yes |
 | `bikesare.cool` | Yes |
 | `bikeshed.party` | No |
+| `bikesskey.net` | Yes |
 | `biketravel.photos` | No |
 | `bilb.info` | Yes |
 | `bilbaodendak.social` | No |
@@ -39440,7 +39441,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,636 |
+| Cloudflare | 9,637 |
 | Normal | 29,761 |
 
 
