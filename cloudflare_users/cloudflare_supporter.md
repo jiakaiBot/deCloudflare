@@ -8726,6 +8726,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pmmv9@twitter](https://twitter.com/Pmmv9/status/1395317642685190147) | advertise |
 | [PMukarno@twitter](https://twitter.com/PMukarno/status/1596597572956835840) | advertise |
 | [PMWizards_com@twitter](https://twitter.com/PMWizards_com/status/1511750154835177479) | advertise |
+| [pnam1512205@twitter](https://twitter.com/pnam1512205/status/1633430156479201280) | advertise |
 | [Pneumot76865439@twitter](https://twitter.com/Pneumot76865439/status/1618193125163532288) | advertise |
 | [PNKPND1@twitter](https://twitter.com/PNKPND1/status/1408101550552199170) | advertise |
 | [pnsxmm@twitter](https://twitter.com/pnsxmm/status/1457586213062205449) | advertise |
