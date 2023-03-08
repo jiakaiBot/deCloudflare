@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Kroki.io site seems down (2023-03-08)](https://github.com/yuzutech/kroki/issues/1457)
 - [Mangas-Origines - The image could'nt be loaded](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/15628)
 - [401 unauthorized downloading svg-core in the cloud w/ free version](https://github.com/FortAwesome/react-fontawesome/issues/545)
 - [CUDOS Testnet not working, but CUDOS mainnet working perfectly](https://github.com/ping-pub/explorer/issues/340)
