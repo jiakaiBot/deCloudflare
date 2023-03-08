@@ -2263,7 +2263,7 @@ Here's a list of public Fediverse services.
 | `aroace.lgbt` | No |
 | `aroace.space` | No |
 | `aroaduntraveled.com` | No |
-| `aroah.website` | No |
+| `aroah.website` | Yes |
 | `aroaminggeek.com` | No |
 | `arofarn.info` | No |
 | `arousal.support` | No |
@@ -8618,6 +8618,7 @@ Here's a list of public Fediverse services.
 | `do-berghofen.de` | No |
 | `do-crimes-be.gay` | No |
 | `doan.me` | Yes |
+| `doany.io` | Yes |
 | `dobbs.town` | No |
 | `dobergroup.org.ua` | Yes |
 | `doble.ee` | No |
@@ -39457,8 +39458,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,642 |
-| Normal | 29,772 |
+| Cloudflare | 9,644 |
+| Normal | 29,771 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
