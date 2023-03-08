@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,901 |
-| social | 3,809 |
+| social | 3,810 |
 | net | 3,018 |
 | org | 2,099 |
 | de | 1,966 |
@@ -568,7 +568,7 @@ Here's a list of public Fediverse services.
 | `7ka.org` | Yes |
 | `7kry.net` | No |
 | `7l7.dk` | No |
-| `7lb.de` | No |
+| `7lb.de` | Yes |
 | `7mi.site` | Yes |
 | `7nw.eu` | Yes |
 | `7pm.org` | No |
@@ -30926,7 +30926,7 @@ Here's a list of public Fediverse services.
 | `shavingcream.online` | No |
 | `shawnhooper.ca` | Yes |
 | `shawnloo.ca` | Yes |
-| `shbbl.ru` | No |
+| `shbbl.ru` | Yes |
 | `shbgm.space` | No |
 | `shc.kanagawa.jp` | Yes |
 | `shea.social` | No |
@@ -37830,6 +37830,7 @@ Here's a list of public Fediverse services.
 | `wintermute.se` | No |
 | `winteroak.org.uk` | No |
 | `winterrific.cloud` | No |
+| `winther.social` | No |
 | `wintu520.com` | Yes |
 | `wiorca.com` | Yes |
 | `wip.la` | Yes |
@@ -39461,8 +39462,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,647 |
-| Normal | 29,771 |
+| Cloudflare | 9,649 |
+| Normal | 29,770 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
