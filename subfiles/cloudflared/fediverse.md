@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,901 |
 | social | 3,809 |
-| net | 3,017 |
+| net | 3,018 |
 | org | 2,099 |
 | de | 1,966 |
 
@@ -2534,6 +2534,7 @@ Here's a list of public Fediverse services.
 | `atdot.email` | No |
 | `atdotatdotat.at` | No |
 | `atdt.cc` | No |
+| `atelier-kanata.dev` | Yes |
 | `ateliershiori.moe` | No |
 | `atellier.space` | Yes |
 | `atergens.com` | No |
@@ -6159,7 +6160,7 @@ Here's a list of public Fediverse services.
 | `cocu.cc` | No |
 | `codatory.com` | Yes |
 | `code-alongsi.de` | No |
-| `code-in-space.dev` | No |
+| `code-in-space.dev` | Yes |
 | `code28.me` | No |
 | `code4lib.net` | No |
 | `code4lib.social` | No |
@@ -17802,6 +17803,7 @@ Here's a list of public Fediverse services.
 | `knowsima.dog` | Yes |
 | `knoxodon.com` | No |
 | `knoyism.net` | No |
+| `knsc.net` | No |
 | `kntnr.wtf` | Yes |
 | `knubbel.me` | No |
 | `knuspel.eu` | Yes |
@@ -22063,6 +22065,7 @@ Here's a list of public Fediverse services.
 | `misfittoys.social` | No |
 | `mish.co` | Yes |
 | `misha.click` | Yes |
+| `miship.space` | Yes |
 | `mishkacloud.fun` | No |
 | `misjump.net` | No |
 | `miso.monster` | No |
@@ -39458,7 +39461,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,644 |
+| Cloudflare | 9,647 |
 | Normal | 29,771 |
 
 
