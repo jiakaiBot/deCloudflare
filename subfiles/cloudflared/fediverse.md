@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,900 |
+| com | 5,901 |
 | social | 3,809 |
 | net | 3,017 |
 | org | 2,099 |
@@ -6306,7 +6306,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -6455,6 +6455,7 @@ Here's a list of public Fediverse services.
 | `connectingdotsblog.com` | No |
 | `connections.coach` | Yes |
 | `connectit.social` | No |
+| `connectop.us` | Yes |
 | `conners.social` | No |
 | `connyduck.com` | No |
 | `conoha.cf` | No |
@@ -19134,6 +19135,7 @@ Here's a list of public Fediverse services.
 | `lincubateur.net` | No |
 | `linden.social` | No |
 | `lindensiedler.de` | No |
+| `lindgren.tech` | No |
 | `lindipravity.be` | No |
 | `lindroth.xyz` | Yes |
 | `lindsaybison.com` | Yes |
@@ -20623,7 +20625,7 @@ Here's a list of public Fediverse services.
 | `mastod.no` | No |
 | `mastod.org` | Yes |
 | `mastodaix.de` | No |
-| `mastoden.com` | No |
+| `mastoden.com` | Yes |
 | `mastodev.net` | No |
 | `mastodimation.art` | Yes |
 | `mastodn.eu.org` | Yes |
@@ -24112,6 +24114,7 @@ Here's a list of public Fediverse services.
 | `nguyens.co` | Yes |
 | `nha.one` | Yes |
 | `nhaddag.com` | No |
+| `nharrisonripps.com` | No |
 | `nhcclub.net` | Yes |
 | `nhcrossing.com` | No |
 | `nhg.moe` | No |
@@ -33397,6 +33400,7 @@ Here's a list of public Fediverse services.
 | `taciturn.social` | Yes |
 | `tackett.family` | No |
 | `tackman.info` | Yes |
+| `taco.cc` | No |
 | `tacobelllabs.net` | No |
 | `tacoboutit.cloud` | No |
 | `tacocat.space` | Yes |
@@ -39453,8 +39457,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,641 |
-| Normal | 29,769 |
+| Cloudflare | 9,642 |
+| Normal | 29,772 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
