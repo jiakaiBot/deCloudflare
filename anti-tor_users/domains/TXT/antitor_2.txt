@@ -24,8 +24,6 @@ cpcalendars.seo.247secure.host
 cpcontacts.hrms.247secure.host
 discovery.api.2kcoretech.online
 etc-ffvbn.2waky.com
-gitlab.gitlab.git.billing.257cratoslot.com
-gitlab.gitlab.gitlab.billing.257cratoslot.com
 hospitalman.2819creative.com
 ipv6.my.247secure.host
 mehrweg-app-bug-paypal.dev2.28apps-software.de
@@ -52,7 +50,6 @@ www.2x6satoru.com
 www.aruba.2fapplogin-sys.net
 www.bankofamerica-login04.25u.com
 www.git.git.git.gitlab.git.git.shopify.21englishonline.com
-www.git.git.gitlab.gitlab.gitlab.git.billing.257cratoslot.com
 www.gitlab.reports.20links.com
 www.ticket.2fish.ro
 20-24.cc
@@ -105,6 +102,7 @@ atosmbank.24x7.ba
 casehomol.2rpnet.io
 contact.2iuet3k5.co
 img.20mn.fr
+ipfs.2read.net
 jenkins.2excelgeo.com
 jerusalem.24fm.ps
 msberbankbl.24x7.ba
@@ -118,10 +116,12 @@ www.24emergencytyressupport.co.uk
 www.24signing.nl
 www.24x7servicecentrecare.com.24x7starservicecentre.com
 www.25fps.hr
+www.2nyapi.com.tr
 www.clienti.2mprint.ro.2mdigital.ro
 www.git.git.git.git.git.intranet.2dream.club
 www.langdalechase.badreviews.2yu.uk
 www.seguros.2bitchain.com
+www.ubereatsgrubhub.2heartsmedia.com
 2135816316731063.ga
 24-7consultancy.com
 247ces.com
