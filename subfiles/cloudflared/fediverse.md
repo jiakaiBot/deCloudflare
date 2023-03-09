@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,905 |
 | social | 3,812 |
-| net | 3,020 |
+| net | 3,021 |
 | org | 2,100 |
 | de | 1,966 |
 
@@ -4717,6 +4717,7 @@ Here's a list of public Fediverse services.
 | `bumscode.com` | Yes |
 | `bun.social` | No |
 | `bunbers.org` | Yes |
+| `bunbu.net` | No |
 | `bunch.dev` | Yes |
 | `bund.co` | No |
 | `bund.de` | No |
@@ -11462,7 +11463,7 @@ Here's a list of public Fediverse services.
 | `fordell.me` | No |
 | `fordfairlaneonline.com` | Yes |
 | `forensicpsychiatry.social` | No |
-| `fores.top` | Yes |
+| `fores.top` | No |
 | `foresdon.jp` | No |
 | `forestroad.xyz` | Yes |
 | `forestver.se` | No |
@@ -30321,6 +30322,7 @@ Here's a list of public Fediverse services.
 | `schizo.online` | No |
 | `schizoid.social` | No |
 | `schizoid.tech` | No |
+| `schizophrenic.io` | No |
 | `schlagsnach.de` | No |
 | `schle.nz` | No |
 | `schlechter.host` | No |
@@ -39495,8 +39497,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,659 |
-| Normal | 29,793 |
+| Cloudflare | 9,658 |
+| Normal | 29,796 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
