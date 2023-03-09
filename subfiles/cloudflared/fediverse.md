@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,914 |
-| social | 3,819 |
-| net | 3,024 |
+| social | 3,821 |
+| net | 3,025 |
 | org | 2,100 |
 | de | 1,968 |
 
@@ -17008,7 +17008,7 @@ Here's a list of public Fediverse services.
 | `kaa.bz` | No |
 | `kaaa.ren` | No |
 | `kaak.online` | No |
-| `kaam.biz` | No |
+| `kaam.biz` | Yes |
 | `kaaosunlimited.fi` | No |
 | `kaartinen.photos` | Yes |
 | `kaartinen.social` | Yes |
@@ -21157,6 +21157,7 @@ Here's a list of public Fediverse services.
 | `mattchew.ninja` | No |
 | `mattchristiansenmedia.com` | No |
 | `mattcrawford.me` | Yes |
+| `mattebox.social` | No |
 | `mattedwards.org` | Yes |
 | `matteofortini.it` | No |
 | `matteozenatti.net` | No |
@@ -21936,6 +21937,7 @@ Here's a list of public Fediverse services.
 | `milette.online` | No |
 | `miljko.org` | No |
 | `milker.cafe` | Yes |
+| `milkers.online` | No |
 | `milkey.homes` | Yes |
 | `milkrun.de` | No |
 | `milksoup.net` | No |
@@ -22743,6 +22745,7 @@ Here's a list of public Fediverse services.
 | `mozgcp.net` | No |
 | `mozibuzi.in` | No |
 | `mozilla.fun` | No |
+| `mozilla.social` | No |
 | `moziz.fi` | No |
 | `moztodon.net` | No |
 | `moztodon.nl` | No |
@@ -26891,7 +26894,7 @@ Here's a list of public Fediverse services.
 | `pimani.ovh` | No |
 | `pimoore.ca` | No |
 | `pimux.de` | No |
-| `pina.space` | Yes |
+| `pina.space` | No |
 | `pinbun.com` | Yes |
 | `pinc.tube` | No |
 | `pine.cab` | No |
@@ -29237,6 +29240,7 @@ Here's a list of public Fediverse services.
 | `ricorda.social` | No |
 | `ricostrongxxx.com` | Yes |
 | `ridernet.org` | No |
+| `ridesskey.net` | Yes |
 | `ridetrans.it` | Yes |
 | `ridgebacks.social` | Yes |
 | `ridixy.com` | Yes |
@@ -39534,8 +39538,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,675 |
-| Normal | 29,816 |
+| Cloudflare | 9,676 |
+| Normal | 29,819 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
