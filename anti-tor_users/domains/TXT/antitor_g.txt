@@ -139,7 +139,6 @@ beacons4.gvt2.com
 beacons5.gvt3.com
 bee-utils.getbee.io
 bellsouthverification.godaddysites.com
-beta-globoplay.globo.com
 bicdalkwttuhfttkojbxnfyqtoe.storage.googleapis.com
 billing.getcatalyzed.in
 billing.gotinofurniture.com
@@ -204,7 +203,6 @@ clients6.google.info
 clients6.google.ml
 clients6.google.tk
 clk.messaging.go.com
-cloud-jarvis.globo.com
 cloud.geldfrei.net
 coachainisaid.getfitnowonline.com.my
 coachnisasuhaimi.getfitnowonline.com.my
@@ -1052,7 +1050,6 @@ trezoriiiwallet.godaddysites.com
 tribunatreviso.gelocal.it
 trust-wallet1.guacimo.org
 turk-airlines.gemoteests.ru
-tv-globosatplay.globo.com
 u4f78.app.goo.gl
 underwaternya.github.io
 universonic.github.io
@@ -3630,7 +3627,9 @@ zuhlke.github.io
 093e3e51f5715e9e0e76b9f0c70d0831.safeframe.googlesyndication.com
 0a9ee47b57a244.site.godaddyarabicwsbonline.com
 100646f7c45843.site.godaddyarabicwsbonline.com
+126.242.160.34.bc.googleusercontent.com
 133ab4aa71a440.site.godaddyarabicwsbonline.com
+159.100.95.34.bc.googleusercontent.com
 17967abc897340.site.godaddysite.online
 18-05-amankumarverma.github.io
 18kp0.glam-celebrity-news.com
@@ -3670,9 +3669,11 @@ zuhlke.github.io
 7c919800aa1849.site.godaddyarabicwsbonline.com
 7ce7060bfe5749.site.godaddyarabicwsbonline.com
 808e7a8f90b348.site.godaddyarabicwsbonline.com
+82e84541f20c48.site-test.godaddysite.online
 851b32cbc6f745.site.godaddyarabicwsbonline.com
 89246583c24b4d.site.godaddysite.online
 897ae8c340e74b.site.godaddyarabicwsbonline.com
+89e7954218de46.site.godaddyarabicwsbonline.com
 9173f090623143.site.godaddyarabicwsbonline.com
 976381bfa2dd49.site.godaddyarabicwsbonline.com
 98a5cbb10a9843.site.godaddyarabicwsbonline.com
@@ -3708,6 +3709,7 @@ android-review.googlesource.com
 android.googleapis.com
 aofs.g2gcloud.com
 aovpn.geigerautomotive.com
+api-gc.service.gnp.com.mx
 api.admin.gip-map.com
 api.dev.gspostbox.com
 api.geodatalookup.com
@@ -3725,6 +3727,7 @@ app.github.media
 appbtconnect.github.io
 appelauthenticate.github.io
 apps.google.com.rproxy.goskope.com
+arcadmin-fms-portal-st.googlefiber.net
 arnaldoucuassapi.github.io
 asg-facebook.github.io
 att356.godaddysites.com
@@ -3732,8 +3735,11 @@ att61.godaddysites.com
 auth.gieffe.space
 authk.gad1.de
 autodiscover.gmcenergia.com.mx
+autodiscover.gran.kommune.no
 autumn-misty-aardvark.glitch.me
 avito.git.gitlab.www.www.www.covid19.gorod-sveta-rf.ru
+avito.sber.avito.sber.covid19.googlelogist.com
+avito.sber.avito.sber.sber.www.covid19.googlelogist.com
 avito.sber.blablacar.sberbank.www.covid19.goldclub-mktg.com
 avito.www.sber.sber.avito.gitlab.covid19.goodkarmastroy.ru
 ayush8757.github.io
@@ -3748,6 +3754,7 @@ backoffice.geoliagroup.com
 balanced-full-tablecloth.glitch.me
 bankbox.grabworldtechnologies.com
 barometro-covid.goodrebels.com
+basalt-thinkable-hibiscus.glitch.me
 bauportal.gajagati.hr
 bb1a57606da94d.site.godaddyarabicwsbonline.com
 bbbttttiiinnnttreennett.godaddysites.com
@@ -3783,7 +3790,9 @@ ccad74759a3145.site.godaddyarabicwsbonline.com
 cdn.getdms.app
 cdn.godiciardstia.com
 cds.rhel.updates.googlecloud.com
+cgi.gusbox.de
 changtax2022.golden-cake.in
+cheddar-pale-pyroraptor.glitch.me
 choutatsu.gifubody.co.jp
 cisco.gartel.hu
 click-5866b9.gosquared-mail.com
@@ -3803,6 +3812,7 @@ cloudresourcemanager.googleapis.com
 cloudsurfing.gdhour.com
 commondatastorage.googleapis.com
 composer.cloud.google.com
+congressolmc.gilm.pt
 connectwithebaysnumber.github.io
 consent.google.co.il
 controller.greenknot.in
@@ -3828,6 +3838,7 @@ cust-007-v4-prod-atl2.gdsb.net
 d66896cf8e034f.site.godaddyarabicwsbonline.com
 d75ccb4e6c51c27f60611c16f2eb4a80.safeframe.googlesyndication.com
 d8fb241d328740.site.godaddyarabicwsbonline.com
+da-eu-22.groeneveld-beka.com
 daniel-t-gilbert.github.io
 darkened-bustling-lilac.glitch.me
 dashboard.garantiemax.de
@@ -3893,8 +3904,10 @@ elearning.gambiathi.com
 elite-innate-plough.glitch.me
 email.google-shopping.club
 en.gouvesshelter.com
+enchanting-sudden-fifth.glitch.me
 engary.github.io
 enterpriseenrollment.goldenhotels.com
+es.google360graus.com
 espresso.granner.dk
 ethoswallet.github.io
 evegadomska.getothersattention.com
@@ -3917,6 +3930,8 @@ firebaseinstallations.googleapis.com
 firestore.googleapis.com
 fish-workable-meadowlark.glitch.me
 fiveholes.goip.de
+flash-efficient-pixie.glitch.me
+fms-portal-st.googlefiber.net
 fortune-fork-iguanacolossus.glitch.me
 forums.getpaint.net
 fovip.gtpl.net
@@ -3938,6 +3953,7 @@ gambiaembassydc.us
 gambling-casinos-guide.com
 gamesupport.in
 garageglasgow.co.uk
+garagelorre.fr
 garageotobaoan.com
 garantiedebunaexecutie.ro
 garantilimedyumhocalarim.com
@@ -3986,6 +4002,7 @@ geniuscreations.pl
 genopets-verify-connect.in
 genplastics.com
 geologicmapsfoundation.org
+gerenciador-on-security.online
 geriatricos-argentina.com
 gertecti.com.br
 gertkracht.nl
@@ -4009,6 +4026,7 @@ giftisso.com
 gigginggear.com
 gillgoddardhair.co.uk
 ginorodinis.cl
+girlonthemattress.com
 giroscope.org.uk
 git.git.git.git.coblog.blog.com.getthefactshomeinspection.com
 git.git.git.git.git.git.preprod.googlelogist.com
@@ -4019,6 +4037,7 @@ git.hashicorp.cloudg.magento.clud.gpinfo.eu
 gitlab.git.net.utiwww.sniper.getthefactshomeinspection.com
 gitlab.gitlab.staging-api.google-shopping.club
 gitlab.tw.cdn.cstaging.google-shopping.club
+give.org
 givealilbit.com
 givealilbit.io
 gk-facility-services.de
@@ -4036,7 +4055,9 @@ globalsupport.org.br
 globalupskilling.in
 globelinkstarshippingdelivery.com
 glossolalies.net
+glow-to-go-skin.com
 glowgettersalon.com
+glyphpress.com
 gmag-accesorii-gsm.ro
 gmailma.com
 gmailpt.com
@@ -4063,6 +4084,7 @@ goldmandarin.in.ua
 golebatmazyapi.com
 golfplusonemedia.com
 gonzalezpalacios.com
+good-apps.jp
 good-market.in.ua
 goodfinddelivery.com
 goodgame.today
@@ -4113,12 +4135,15 @@ greenpete.co.uk
 greenpresso.shop
 greenworld.org.uk
 gregstolze.com
+greysforgreen.org
+gridlab.org
 grieve-smith.com
 griffithsart.ca
 gripopjouwzaken.nl
 grizzlytecpro.dz
 groenboerenplan.nl
 groenedromen.nl
+groovemedia.co.nz
 groupexpedia.com
 grouptax.pe
 grow-la.com
@@ -4158,6 +4183,7 @@ gumuskaleyapi.com
 gunesdogaltas.com
 guns-glory.com
 gupshup.globalbot.ai
+guptapinewood.in
 gutenberg.ca
 gwent-preprod-origin-lb6.gog-preprod.com
 gyakuten-kutikomi.site
@@ -4289,6 +4315,7 @@ r5---sn-4g5edndl.gvt1.com
 r5---sn-hp57kndd.googlevideo.com
 raylit1.github.io
 rds.api.us-east-2.service.guidewire.net
+real-gossamer-origami.glitch.me
 rec-xfer.groupagrica.com
 rectangular-slender-sturgeon.glitch.me
 redirect.govcms.gov.au
@@ -4317,11 +4344,15 @@ sber.avito.avito.sber.sber.www.covid19.googlelogist.com
 sber.avito.avito.sberbank.covid19.googlelogist.com
 sber.avito.sber.avito.sberbank.www.covid19.goldclub-mktg.com
 sber.sber.sber.avito.blablacar.www.covid19.goldclub-mktg.com
+sber.sber.sberbank.covid19.goodkarmastroy.ru
 sber.sberbank.sber.sber.avito.avito.covid19.gimcolibri-kzn.ru
 sber.www.sber.sber.avito.avito.covid19.gimcolibri-kzn.ru
 sber.www.sberbank.blablacar.blablacar.covid19.goldclub-mktg.com
 sberbank.avito.avito.sber.avito.avito.covid19.goldclub-mktg.com
+sberbank.avito.sber.avito.avito.www.covid19.googlelogist.com
 sberbank.avito.sber.avito.blablacar.covid19.goldclub-mktg.com
+sberbank.sber.avito.avito.avito.covid19.googlelogist.com
+sberbank.sber.avito.www.sber.covid19.goodkarmastroy.ru
 sec.govcms.gov.au
 secmail.grawe.com
 secure-update.account.com.goldlistproperty.com
@@ -4349,6 +4380,7 @@ sslny.goasked.com
 sso.technique.groupe-sma.net
 stage.gedsby.com
 staging.google-shopping.club
+standard.global-market.ch
 steam.goodblah.net
 steeven9.github.io
 stg.g123.jp
@@ -4433,6 +4465,7 @@ www.e-simpel.dispendukcapil.grobogan.go.id
 www.evegadomska.getothersattention.com
 www.exmoglobalsecurity.com.globaltrustsecuritygts.com
 www.g-shoot.com
+www.g-tlaw.com
 www.g1financial.com
 www.g20.org
 www.g2control.co
@@ -4451,12 +4484,14 @@ www.gamleys.co.uk
 www.gapartnersfund.org
 www.garantiavida.com.br
 www.garantilimedyumhocalarim.com
+www.garantisubulma.com
 www.gardenhillsgardenclub.com
 www.gardenofeatinapples.com
 www.garenewing.co.uk
 www.garmanfarm.com
 www.garycampion.com
 www.gasthaus-altepost.ro
+www.gatewayelectricllc.com
 www.gavroche-thailande.com
 www.gbexpress.com.br
 www.gbgrove.com
@@ -4499,6 +4534,7 @@ www.geraldtonguardian.com.au
 www.geriatricos-argentina.com
 www.getbooking247.com
 www.getemsoldent.com
+www.getnicklivingston.com
 www.getnrbc.com
 www.getoutmorecic.co.uk
 www.gettysburgtimes.com
@@ -4507,6 +4543,7 @@ www.getworkgear.com
 www.gfh.org.il
 www.gfjpost1700.org
 www.gfwcwyoming.org
+www.ggand.com.au
 www.gglange.org
 www.ggn.nl
 www.ghamasaana.com
@@ -4524,6 +4561,7 @@ www.gisti.org
 www.gitesdelescurou.fr
 www.githubassets.com
 www.gitlab.gitlab.gitlab.gitlab.git.portal.gandapas.com.ua
+www.giuseppeamato.com
 www.givetheiron.se
 www.gizbot.com
 www.gk-facility-services.de
@@ -4545,6 +4583,7 @@ www.globalsupport.org.br
 www.globaltrkdom.com
 www.globalvisions.fi
 www.globalweb.design
+www.glow-to-go-skin.com
 www.glucogear.com.br
 www.glutensiznokta.com
 www.glutensiznokta.com.tr
@@ -4556,6 +4595,7 @@ www.goballoons.in
 www.gobartesco.bio
 www.gochaseflow.com
 www.godirectexpress.ca
+www.gofigure.net.au
 www.goibibo.com
 www.gokcecelikyapi.com
 www.gokeryapi.com
@@ -4565,6 +4605,7 @@ www.goldensunpalace.com
 www.goldmancoevents.com
 www.goldmanfc.com
 www.goldmangroup.com.au
+www.goldmaninv.com
 www.goldmanlawfirm.net
 www.goldstarmoms.com
 www.golebatmazyapi.com
@@ -4575,6 +4616,7 @@ www.gomezkawall.com.br
 www.goodbath.ro
 www.goodreturns.in
 www.goodsservice.com.br
+www.goodstory.us
 www.goodtea.ca
 www.google-deskundige.nl
 www.google-my-business.com
@@ -4611,6 +4653,7 @@ www.greateraustinhomefinder.com
 www.greatnorthernbikepacking.com
 www.greatsuccesssummit.com
 www.green-nitrogen.com
+www.green-swiss.ch
 www.greeneking-pubs.co.uk
 www.greenergyresourcescorp.com
 www.greeninstitute.org.au
@@ -4646,6 +4689,7 @@ www.gu-global.com
 www.guardonline.com
 www.guiaturismoouropretohermes.com.br
 www.guitarworx.fi
+www.gulfcoastlatinchamber.com
 www.gulfshoremanor.com
 www.gulfsunrise.com
 www.gumtree.com
@@ -4666,6 +4710,7 @@ www.jumbowallet.goprocommerce.com
 www.landingpageservice.getway.id
 www.login.globaldps.in
 www.mairue.googledating.co.za
+www.majoud.gookyservice.com
 www.member.googlepedia.my.id
 www.movimentojovem.giwsbank.com
 www.myaccount.gamliot.com
@@ -4679,9 +4724,11 @@ www.out-of-the-darkness.grapple4life.org
 www.payment.goyangpensil.com
 www.pod.gugahnugraha.web.id
 www.postnews24h.gorkhalionlinekhabar.com
+www.qehiogaebay.g4t.site
 www.random-tiling.gmcgrp.co.uk
 www.rawrank.graphicwallet.com
 www.recoveryfit.cl.green-fit.cl
+www.rhode-island-com-1.gragonproductions.com
 www.safe-future.gnssweb.co.il
 www.safeland.gnss-lp.co.il
 www.safepointdeliveryservices.com.globaltrustsecuritygts.com
@@ -4696,6 +4743,7 @@ www.services.gemstatecleaning.com
 www.services.genovis.com
 www.sign-in.gadangkeun.com
 www.sikkerhav.gymgear.dk
+www.sipuber.disperindag.grobogan.go.id
 www.store.gilipayment.com
 www.support.globalmix.net
 www.support.growthrock.co.za
@@ -5228,7 +5276,6 @@ sinsreyphea.github.io
 sk4nk.github.io
 slack-app.getapeptalk.com
 sm-v4-009-roa-gtm.pr.go-esim.com
-smarttv.globoid.globo.com
 smegadrive.ganymede.tv
 smgolamalif.github.io
 smooth-first-apology.glitch.me
@@ -5391,7 +5438,6 @@ www.guyaweb.com
 www.gwenplano.com
 www.gwinnettdailypost.com
 www.lapor.gopost.id
-www.oidcservice.globo.com
 www.pdo-transverse.generali.fr
 www.premierglobalservice.gvlcompany.com
 www.todorepuestos.gruposervice.com.uy
