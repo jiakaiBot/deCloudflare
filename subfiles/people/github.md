@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ReferenceError: process is not defined when using with Cloudflare Wrangler](https://github.com/ben-rogerson/twin.macro/issues/789)
+- [How to use a proxy to access Matrix.org's push API from mainland China](https://github.com/matrix-org/synapse/issues/15236)
 - [SDK with Cloudflare workers and Fetch API](https://github.com/microsoft/cognitive-services-speech-sdk-js/issues/645)
 - [Cloudflare Pages deploy error: Unable to resolve action cloudflare/pages-action@1](https://github.com/web3/web3.js/issues/5908)
 - [Unable to access 1337x.to, blocked by CloudFlare Protection](https://github.com/Prowlarr/Prowlarr/issues/1518)
