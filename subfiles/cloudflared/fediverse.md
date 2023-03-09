@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,906 |
-| social | 3,813 |
+| social | 3,815 |
 | net | 3,024 |
 | org | 2,100 |
 | de | 1,966 |
@@ -6655,6 +6655,7 @@ Here's a list of public Fediverse services.
 | `courtneyr.dev` | No |
 | `cousinsd.net` | No |
 | `covalent.ml` | No |
+| `covelline.social` | No |
 | `cover.pm` | No |
 | `covert.tel` | No |
 | `cow.army` | Yes |
@@ -13370,6 +13371,7 @@ Here's a list of public Fediverse services.
 | `greentechwriter-social.org` | No |
 | `greentrawler.space` | No |
 | `greenwichmeanti.me` | No |
+| `greenwoodmedia.social` | No |
 | `greenwoodmedia.xyz` | No |
 | `greg-kennedy.com` | No |
 | `greggallardo.com` | No |
@@ -32719,6 +32721,7 @@ Here's a list of public Fediverse services.
 | `stibi.social` | Yes |
 | `stickbear.me` | Yes |
 | `stiehler.dev` | Yes |
+| `stigatle.no` | No |
 | `stilbedarf.de` | No |
 | `stiles.dev` | No |
 | `still-ai.net` | No |
@@ -33089,6 +33092,7 @@ Here's a list of public Fediverse services.
 | `suomi-kp-31.xyz` | No |
 | `suomi.social` | No |
 | `suorcd.us` | No |
+| `sup39.dev` | Yes |
 | `super-famicom.com` | No |
 | `super-gay.co` | No |
 | `super-h.xyz` | No |
@@ -35504,7 +35508,7 @@ Here's a list of public Fediverse services.
 | `triggeredtux.com` | No |
 | `triggerhub.ru` | No |
 | `triggerphra.se` | No |
-| `trigonoretrism.com` | No |
+| `trigonoretrism.com` | Yes |
 | `trillion.city` | No |
 | `trillion.social` | No |
 | `trillium7.com` | No |
@@ -39293,7 +39297,7 @@ Here's a list of public Fediverse services.
 | `zhz.moe` | Yes |
 | `zia.io` | No |
 | `ziabo.ga` | No |
-| `ziazoo.co.uk` | No |
+| `ziazoo.co.uk` | Yes |
 | `ziez.eu` | No |
 | `zig.mx` | No |
 | `zig.zone` | No |
@@ -39503,8 +39507,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,661 |
-| Normal | 29,799 |
+| Cloudflare | 9,664 |
+| Normal | 29,800 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
