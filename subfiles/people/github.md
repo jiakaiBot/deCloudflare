@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to access 1337x.to, blocked by CloudFlare Protection](https://github.com/Prowlarr/Prowlarr/issues/1518)
 - [ygka is no response](https://github.com/code-yeongyu/YGK-a/issues/11)
 - [Kroki.io site seems down (2023-03-08)](https://github.com/yuzutech/kroki/issues/1457)
 - [Mangas-Origines - The image could'nt be loaded](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/15628)
