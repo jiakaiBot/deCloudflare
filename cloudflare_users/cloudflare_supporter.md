@@ -518,6 +518,7 @@ Do not create new issue or we will close it as duplicate.
 | [albionbh@twitter](https://twitter.com/albionbh/status/1603303455136825345) | advertise |
 | [AlbMytv@twitter](https://twitter.com/AlbMytv/status/1559271310433419264) | advertise |
 | [albNo273@twitter](https://twitter.com/albNo273/status/1440877956709040136) | advertise |
+| [AlcalaChistian@twitter](https://twitter.com/AlcalaChistian/status/1633727230710018048) | advertise |
 | [Ald33107945@twitter](https://twitter.com/Ald33107945/status/1553066067693486080) | advertise |
 | [aldoscar_oscar@twitter](https://twitter.com/aldoscar_oscar/status/1377318204477964290) | advertise |
 | [alecarrington23@twitter](https://twitter.com/alecarrington23/status/1497728572265574403) | advertise |
@@ -2121,6 +2122,7 @@ Do not create new issue or we will close it as duplicate.
 | [Codingprotocols@twitter](https://twitter.com/Codingprotocols/status/1561244906060156929) | advertise |
 | [codysaylor@twitter](https://twitter.com/codysaylor/status/1392677823454879756) | advertise |
 | [CohenTrik@twitter](https://twitter.com/CohenTrik/status/1589273077829242880) | advertise |
+| [CoicHelsea@twitter](https://twitter.com/CoicHelsea/status/1633625892571455489) | advertise |
 | [CoinDescount@twitter](https://twitter.com/CoinDescount/status/1453401719711350791) | advertise |
 | [CoiPhuocHiep@twitter](https://twitter.com/CoiPhuocHiep/status/1389075825308409857) | advertise |
 | [cojurmyface@twitter](https://twitter.com/cojurmyface/status/1402883595283304450) | advertise |
@@ -8999,6 +9001,7 @@ Do not create new issue or we will close it as duplicate.
 | [quocthaii168@twitter](https://twitter.com/quocthaii168/status/1516899698329591808) | advertise |
 | [QUOTESwtm@twitter](https://twitter.com/QUOTESwtm/status/1555673804986253313) | advertise |
 | [QusaiHasan18@twitter](https://twitter.com/QusaiHasan18/status/1618372818856452097) | advertise |
+| [QutPhm1@twitter](https://twitter.com/QutPhm1/status/1633670364659322880) | advertise |
 | [quuyentrann@twitter](https://twitter.com/quuyentrann/status/1401784856070090755) | advertise |
 | [quyen77692@twitter](https://twitter.com/quyen77692/status/1516242107316404225) | advertise |
 | [quyencao657@twitter](https://twitter.com/quyencao657/status/1552977946687979523) | advertise |
