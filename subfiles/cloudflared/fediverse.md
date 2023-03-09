@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,907 |
+| com | 5,909 |
 | social | 3,815 |
 | net | 3,024 |
 | org | 2,100 |
@@ -631,6 +631,7 @@ Here's a list of public Fediverse services.
 | `9chen.org` | No |
 | `9fs.net` | No |
 | `9kb.me` | No |
+| `9lab.jp` | No |
 | `9minuti.it` | Yes |
 | `9mm.nu` | No |
 | `9mmtylenol.me` | Yes |
@@ -13808,7 +13809,7 @@ Here's a list of public Fediverse services.
 | `halfacree.co.uk` | Yes |
 | `halfast.com` | No |
 | `halfbyte.org` | No |
-| `halfeatenfood.com` | No |
+| `halfeatenfood.com` | Yes |
 | `halfey.moe` | Yes |
 | `halfling13.com` | No |
 | `halfmemories.com` | Yes |
@@ -17210,6 +17211,7 @@ Here's a list of public Fediverse services.
 | `kartonrad.de` | Yes |
 | `karukera.social` | No |
 | `kas.sh` | Yes |
+| `kasa12.dev` | No |
 | `kashayokai.com` | Yes |
 | `kashishokunin.com` | No |
 | `kashiwadon.net` | No |
@@ -31021,6 +31023,7 @@ Here's a list of public Fediverse services.
 | `shina-rimo.cafe` | No |
 | `shinaaamo.com` | Yes |
 | `shinenelson.com` | No |
+| `shinkaifan.com` | No |
 | `shinomin.me` | Yes |
 | `shinomiya.group` | Yes |
 | `shinomoroll.net` | No |
@@ -39024,6 +39027,7 @@ Here's a list of public Fediverse services.
 | `yumisskey.net` | No |
 | `yumk.xyz` | Yes |
 | `yumulab.org` | No |
+| `yunkuangao.com` | Yes |
 | `yunochi.moe` | Yes |
 | `yunohost.ga` | No |
 | `yunohost.support` | No |
@@ -39508,8 +39512,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,668 |
-| Normal | 29,797 |
+| Cloudflare | 9,670 |
+| Normal | 29,799 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
