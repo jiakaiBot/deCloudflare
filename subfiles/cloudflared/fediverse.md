@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,905 |
-| social | 3,812 |
-| net | 3,021 |
+| com | 5,906 |
+| social | 3,813 |
+| net | 3,023 |
 | org | 2,100 |
 | de | 1,966 |
 
@@ -1962,6 +1962,7 @@ Here's a list of public Fediverse services.
 | `antivaxxer.icu` | No |
 | `antiwar.com` | No |
 | `antizuckbook.com` | No |
+| `anto.ie` | No |
 | `antoineve.me` | No |
 | `antonkovalyov.com` | No |
 | `antonlehmus.me` | No |
@@ -19549,6 +19550,7 @@ Here's a list of public Fediverse services.
 | `loopsaisei.ooo` | No |
 | `loovto.net` | No |
 | `looxee.com` | No |
+| `lopez.social` | No |
 | `lopezjuan.com` | No |
 | `lopeztel.xyz` | No |
 | `lopp.social` | No |
@@ -21149,6 +21151,7 @@ Here's a list of public Fediverse services.
 | `matthewalunwilliams.com` | No |
 | `matthewauld.ca` | No |
 | `matthewbog.art` | No |
+| `matthewbogart.com` | No |
 | `matthewedavis.online` | No |
 | `matthewgall.chat` | Yes |
 | `matthewgraybosch.com` | No |
@@ -22145,6 +22148,7 @@ Here's a list of public Fediverse services.
 | `misskey.xyz` | No |
 | `misskeyjp.com` | Yes |
 | `misso-pi.com` | No |
+| `misspi.net` | Yes |
 | `misstter.com` | Yes |
 | `mist.so` | No |
 | `mistah-v.com` | No |
@@ -28868,6 +28872,7 @@ Here's a list of public Fediverse services.
 | `referent.es` | No |
 | `refi64.com` | No |
 | `refi64.social` | No |
+| `refinyaa.net` | Yes |
 | `reflectedinsight.co.uk` | No |
 | `reflog.me` | Yes |
 | `reformed.cloud` | No |
@@ -34834,7 +34839,7 @@ Here's a list of public Fediverse services.
 | `tirr.dev` | Yes |
 | `tisato.live` | Yes |
 | `tissink.me` | No |
-| `tissuebox.art` | No |
+| `tissuebox.art` | Yes |
 | `titi.me.uk` | No |
 | `titilat.com` | Yes |
 | `titis.xyz` | No |
@@ -39497,8 +39502,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,658 |
-| Normal | 29,796 |
+| Cloudflare | 9,661 |
+| Normal | 29,798 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
