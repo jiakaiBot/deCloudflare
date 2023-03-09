@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,906 |
 | social | 3,813 |
-| net | 3,023 |
+| net | 3,024 |
 | org | 2,100 |
 | de | 1,966 |
 
@@ -31122,6 +31122,7 @@ Here's a list of public Fediverse services.
 | `shr.today` | No |
 | `shrdr.de` | No |
 | `shredderfood.com` | No |
+| `shrediverse.net` | No |
 | `shrekislove.us` | Yes |
 | `shrieker.net` | No |
 | `shrik3.com` | No |
@@ -39503,7 +39504,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,661 |
-| Normal | 29,798 |
+| Normal | 29,799 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
