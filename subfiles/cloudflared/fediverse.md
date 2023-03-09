@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,914 |
 | social | 3,821 |
-| net | 3,025 |
+| net | 3,026 |
 | org | 2,100 |
 | de | 1,968 |
 
@@ -14895,6 +14895,7 @@ Here's a list of public Fediverse services.
 | `huebner.tk` | No |
 | `hueck.social` | No |
 | `hueowo.me` | Yes |
+| `huequica.xyz` | Yes |
 | `huey.xyz` | Yes |
 | `huffiy.me` | No |
 | `hug.network` | No |
@@ -19123,6 +19124,7 @@ Here's a list of public Fediverse services.
 | `lignux.com` | Yes |
 | `ligthert.net` | No |
 | `ligueduzbeul.org` | No |
+| `ligun.net` | Yes |
 | `liip.ch` | Yes |
 | `lijie.org` | Yes |
 | `likeable.space` | No |
@@ -39538,7 +39540,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,676 |
+| Cloudflare | 9,678 |
 | Normal | 29,819 |
 
 
