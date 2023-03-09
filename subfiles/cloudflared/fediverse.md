@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,906 |
+| com | 5,907 |
 | social | 3,815 |
 | net | 3,024 |
 | org | 2,100 |
@@ -3528,6 +3528,7 @@ Here's a list of public Fediverse services.
 | `betabuild.dev` | No |
 | `betafive.net` | No |
 | `betaful.life` | Yes |
+| `betagravity.com` | Yes |
 | `betamax.video` | Yes |
 | `betamax65.de` | No |
 | `betchesbubble.com` | No |
@@ -7159,7 +7160,7 @@ Here's a list of public Fediverse services.
 | `cyberbunny.club` | No |
 | `cybercat.cc` | Yes |
 | `cybercirujas.club` | No |
-| `cybercitizen.group` | No |
+| `cybercitizen.group` | Yes |
 | `cybercity.eu.org` | No |
 | `cybercrew.site` | No |
 | `cybercriminal.eu` | No |
@@ -20601,7 +20602,7 @@ Here's a list of public Fediverse services.
 | `masto.es` | No |
 | `masto.futbol` | No |
 | `masto.gives` | No |
-| `masto.haus` | No |
+| `masto.haus` | Yes |
 | `masto.host` | No |
 | `masto.id` | Yes |
 | `masto.io` | No |
@@ -37129,7 +37130,7 @@ Here's a list of public Fediverse services.
 | `vr4.me` | Yes |
 | `vran.as` | Yes |
 | `vraphim.com` | No |
-| `vrc-ins.net` | No |
+| `vrc-ins.net` | Yes |
 | `vrc-instance.xyz` | Yes |
 | `vreeman.com` | Yes |
 | `vreign.space` | No |
@@ -39507,8 +39508,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,664 |
-| Normal | 29,800 |
+| Cloudflare | 9,668 |
+| Normal | 29,797 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
