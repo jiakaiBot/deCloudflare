@@ -12257,6 +12257,7 @@ Do not create new issue or we will close it as duplicate.
 | [YinMinPhyu11@twitter](https://twitter.com/YinMinPhyu11/status/1406756700103708674) | advertise |
 | [Yishinsan@twitter](https://twitter.com/Yishinsan/status/1624042169861382144) | advertise |
 | [YiYiHtay17@twitter](https://twitter.com/YiYiHtay17/status/1392188985036787712) | advertise |
+| [ykboluo@twitter](https://twitter.com/ykboluo/status/1633682390379032578) | advertise |
 | [YKopaei@twitter](https://twitter.com/YKopaei/status/1576572826064019457) | advertise |
 | [YLay06809442@twitter](https://twitter.com/YLay06809442/status/1392878829312503808) | advertise |
 | [YmnsSatoshi@twitter](https://twitter.com/YmnsSatoshi/status/1547386705698639872) | advertise |
