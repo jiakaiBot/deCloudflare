@@ -5228,6 +5228,7 @@ Do not create new issue or we will close it as duplicate.
 | [kbLMO8w8FO6y5kf@twitter](https://twitter.com/kbLMO8w8FO6y5kf/status/1601417767688675329) | advertise |
 | [kd2qqv@twitter](https://twitter.com/kd2qqv/status/1449891246479130625) | advertise |
 | [Kdah6FO5yD5H0UH@twitter](https://twitter.com/Kdah6FO5yD5H0UH/status/1383204544495063041) | advertise |
+| [KDarbak@twitter](https://twitter.com/KDarbak/status/1634116951063535624) | advertise |
 | [kea4nu@twitter](https://twitter.com/kea4nu/status/1532442400831901698) | advertise |
 | [KeartisakP1998K@twitter](https://twitter.com/KeartisakP1998K/status/1505614174239354883) | advertise |
 | [kebritsokhte375@twitter](https://twitter.com/kebritsokhte375/status/1581885862480007168) | advertise |
@@ -7774,6 +7775,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguyenDJ@twitter](https://twitter.com/NguyenDJ/status/1385868091020648448) | advertise |
 | [nguyendoantrun1@twitter](https://twitter.com/nguyendoantrun1/status/1397256926929440769) | advertise |
 | [Nguyenduc26292@twitter](https://twitter.com/Nguyenduc26292/status/1552727171122479104) | advertise |
+| [nguyenducsy2023@twitter](https://twitter.com/nguyenducsy2023/status/1634101281173143555) | advertise |
 | [NguyenDucz@twitter](https://twitter.com/NguyenDucz/status/1586176521022345216) | advertise |
 | [NguyenG41202087@twitter](https://twitter.com/NguyenG41202087/status/1569785908148453376) | advertise |
 | [NguyenH24605081@twitter](https://twitter.com/NguyenH24605081/status/1605076669068632064) | advertise |
@@ -9470,6 +9472,7 @@ Do not create new issue or we will close it as duplicate.
 | [Saiaung2281990@twitter](https://twitter.com/Saiaung2281990/status/1394990469671686149) | advertise |
 | [SaiAung77457777@twitter](https://twitter.com/SaiAung77457777/status/1401858971951005713) | advertise |
 | [SaiBoBoAung9@twitter](https://twitter.com/SaiBoBoAung9/status/1391336321549889537) | advertise |
+| [saib_rahmani4@twitter](https://twitter.com/saib_rahmani4/status/1634121143027130369) | advertise |
 | [SaidAlHasni5@twitter](https://twitter.com/SaidAlHasni5/status/1554749394825658369) | advertise |
 | [said_alminji1@twitter](https://twitter.com/said_alminji1/status/1620157403244412929) | advertise |
 | [SaifSheikh8@twitter](https://twitter.com/SaifSheikh8/status/1391721631047852032) | advertise |
@@ -10223,6 +10226,7 @@ Do not create new issue or we will close it as duplicate.
 | [stonegray@twitter](https://twitter.com/stonegray/status/1601070273045880833) | advertise |
 | [StormArjun@twitter](https://twitter.com/StormArjun/status/1381148519306780676) | advertise |
 | [StormCampbell@twitter](https://twitter.com/StormCampbell/status/1401547310446821380) | advertise |
+| [StphamZ@twitter](https://twitter.com/StphamZ/status/1634055051017846784) | advertise |
 | [Strange75137014@twitter](https://twitter.com/Strange75137014/status/1396738534858362882) | advertise |
 | [Strawbe73005938@twitter](https://twitter.com/Strawbe73005938/status/1402151516396351488) | advertise |
 | [straxico@twitter](https://twitter.com/straxico/status/1602268381314535424) | advertise |
@@ -10730,8 +10734,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
@@ -11279,6 +11283,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrungH44154440@twitter](https://twitter.com/TrungH44154440/status/1604870495421468674) | advertise |
 | [TrungHi15300059@twitter](https://twitter.com/TrungHi15300059/status/1553822302546329600) | advertise |
 | [trunghieu9220@twitter](https://twitter.com/trunghieu9220/status/1552471193936048128) | advertise |
+| [trungho94890895@twitter](https://twitter.com/trungho94890895/status/1634111133245411331) | advertise |
 | [trunglu87@twitter](https://twitter.com/trunglu87/status/1382700817896116227) | advertise |
 | [TrungNg53294283@twitter](https://twitter.com/TrungNg53294283/status/1378292337483292675) | advertise |
 | [TrungNg82602101@twitter](https://twitter.com/TrungNg82602101/status/1546544971356209152) | advertise |
