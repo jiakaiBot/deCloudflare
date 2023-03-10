@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,917 |
-| social | 3,826 |
+| social | 3,828 |
 | net | 3,028 |
 | org | 2,100 |
-| de | 1,969 |
+| de | 1,970 |
 
 
 - Mastodon, Pleroma, etc
@@ -7149,7 +7149,7 @@ Here's a list of public Fediverse services.
 | `cwill.us` | Yes |
 | `cwilson.blog` | No |
 | `cwinfo.org` | No |
-| `cwiwie.org` | No |
+| `cwiwie.org` | Yes |
 | `cwow.ml` | Yes |
 | `cwren.net` | No |
 | `cwts.nl` | Yes |
@@ -10317,6 +10317,7 @@ Here's a list of public Fediverse services.
 | `exitmusic.world` | Yes |
 | `exitus.social` | No |
 | `exkc.moe` | Yes |
+| `exma.de` | No |
 | `exmm.top` | Yes |
 | `exmormon.social` | No |
 | `exo.icu` | No |
@@ -16922,7 +16923,7 @@ Here's a list of public Fediverse services.
 | `junkyard.quest` | No |
 | `junna.moe` | No |
 | `jupiter.tube` | No |
-| `jupiterslanding.social` | No |
+| `jupiterslanding.social` | Yes |
 | `jurablogs.com` | No |
 | `jurassic.network` | Yes |
 | `jurgenfranse.nl` | No |
@@ -29254,6 +29255,7 @@ Here's a list of public Fediverse services.
 | `rickelobe.com` | Yes |
 | `rickisen.com` | No |
 | `ricko.photos` | No |
+| `ricko.social` | No |
 | `rickornick.com` | No |
 | `rickosborne.org` | No |
 | `ricky-dev.com` | Yes |
@@ -34532,6 +34534,7 @@ Here's a list of public Fediverse services.
 | `theself.cloud` | No |
 | `thesenate.cc` | No |
 | `theshadowrealm.party` | No |
+| `theshire.social` | Yes |
 | `theshowshow.tv` | Yes |
 | `theshrub.org` | No |
 | `thesifr.com` | No |
@@ -39563,7 +39566,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,693 |
+| Cloudflare | 9,696 |
 | Normal | 29,827 |
 
 
