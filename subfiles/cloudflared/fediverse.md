@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,915 |
+| com | 5,916 |
 | social | 3,825 |
 | net | 3,028 |
 | org | 2,100 |
@@ -1624,6 +1624,7 @@ Here's a list of public Fediverse services.
 | `amii.moe` | Yes |
 | `amiok.net` | No |
 | `amirsadoughi.com` | Yes |
+| `amisuke.com` | Yes |
 | `amit.wtf` | Yes |
 | `amitgawande.com` | No |
 | `amity.zone` | No |
@@ -39560,7 +39561,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,692 |
+| Cloudflare | 9,693 |
 | Normal | 29,825 |
 
 
