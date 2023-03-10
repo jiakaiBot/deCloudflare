@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,916 |
-| social | 3,825 |
+| com | 5,917 |
+| social | 3,826 |
 | net | 3,028 |
 | org | 2,100 |
 | de | 1,969 |
@@ -4706,6 +4706,7 @@ Here's a list of public Fediverse services.
 | `bugs.social` | No |
 | `buicha.social` | Yes |
 | `builders.social` | No |
+| `building7.social` | No |
 | `builditwith.pw` | No |
 | `bukkake.social` | No |
 | `bulbasaur.garden` | No |
@@ -33624,6 +33625,7 @@ Here's a list of public Fediverse services.
 | `tamilsangam.social` | No |
 | `tamilsocial.org` | No |
 | `tamiltoot.online` | No |
+| `tammenpaa.com` | No |
 | `tams.tech` | No |
 | `tamudon.com` | No |
 | `tamx.tk` | Yes |
@@ -39562,7 +39564,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,693 |
-| Normal | 29,825 |
+| Normal | 29,827 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
