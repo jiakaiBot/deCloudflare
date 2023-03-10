@@ -3434,6 +3434,7 @@ Here's a list of public Fediverse services.
 | `benjaminhollon.com` | Yes |
 | `benjaminmayo.co.uk` | Yes |
 | `benjaminturner.me` | Yes |
+| `benjifox.gay` | Yes |
 | `benjohnson.ca` | No |
 | `benjojo.co.uk` | Yes |
 | `benkenawell.com` | No |
@@ -39550,7 +39551,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,684 |
+| Cloudflare | 9,685 |
 | Normal | 29,823 |
 
 
