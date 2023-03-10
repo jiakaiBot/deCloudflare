@@ -2452,6 +2452,7 @@ Do not create new issue or we will close it as duplicate.
 | [Deaniocom@twitter](https://twitter.com/Deaniocom/status/1489784169433550848) | advertise |
 | [DeanJackson84@twitter](https://twitter.com/DeanJackson84/status/1456325790740668423) | advertise |
 | [debadri95@twitter](https://twitter.com/debadri95/status/1392537186545790976) | advertise |
+| [DecadeIX@twitter](https://twitter.com/DecadeIX/status/1634244556760969216) | advertise |
 | [decontented@twitter](https://twitter.com/decontented/status/1499834132129628167) | advertise |
 | [dedbixth@twitter](https://twitter.com/dedbixth/status/1586528000484311040) | advertise |
 | [DeddyBigreds@twitter](https://twitter.com/DeddyBigreds/status/1400098132445130754) | advertise |
@@ -3718,6 +3719,7 @@ Do not create new issue or we will close it as duplicate.
 | [Harshit75640911@twitter](https://twitter.com/Harshit75640911/status/1380394356721455104) | advertise |
 | [HarshJamdade@twitter](https://twitter.com/HarshJamdade/status/1398918613298339844) | advertise |
 | [HarshNiranjan6@twitter](https://twitter.com/HarshNiranjan6/status/1394353667080298499) | advertise |
+| [HarukawaSayaka@twitter](https://twitter.com/HarukawaSayaka/status/1634247948887531529) | advertise |
 | [HarveyRamer@twitter](https://twitter.com/HarveyRamer/status/1628381650013851649) | advertise |
 | [haryadh66480571@twitter](https://twitter.com/haryadh66480571/status/1602709011907973123) | advertise |
 | [hasanrefaeiah@twitter](https://twitter.com/hasanrefaeiah/status/1383784698942345223) | advertise |
@@ -6387,6 +6389,7 @@ Do not create new issue or we will close it as duplicate.
 | [madriid14@twitter](https://twitter.com/madriid14/status/1383009393147473920) | advertise |
 | [MadznalA@twitter](https://twitter.com/MadznalA/status/1475493006442565633) | advertise |
 | [MaEiEiKhine1@twitter](https://twitter.com/MaEiEiKhine1/status/1396386851187924993) | advertise |
+| [maemiguiel@twitter](https://twitter.com/maemiguiel/status/1634240880319303681) | advertise |
 | [MaffandiMhafizi@twitter](https://twitter.com/MaffandiMhafizi/status/1597250541138374656) | advertise |
 | [mafiasans10@twitter](https://twitter.com/mafiasans10/status/1626511664681197574) | advertise |
 | [MagedSa03599768@twitter](https://twitter.com/MagedSa03599768/status/1555284648200208384) | advertise |
@@ -11199,6 +11202,7 @@ Do not create new issue or we will close it as duplicate.
 | [tretraupq11@twitter](https://twitter.com/tretraupq11/status/1484335040050130947) | advertise |
 | [Tri26055498@twitter](https://twitter.com/Tri26055498/status/1396165681427611653) | advertise |
 | [TribeEphraim@twitter](https://twitter.com/TribeEphraim/status/1378124350625173505) | advertise |
+| [TriCaovan1@twitter](https://twitter.com/TriCaovan1/status/1634243470897586177) | advertise |
 | [TrickyKunn@twitter](https://twitter.com/TrickyKunn/status/1379848256000122880) | advertise |
 | [tridatinh1@twitter](https://twitter.com/tridatinh1/status/1554751528744800256) | advertise |
 | [TridentDiscord@twitter](https://twitter.com/TridentDiscord/status/1613718565898813440) | advertise |
