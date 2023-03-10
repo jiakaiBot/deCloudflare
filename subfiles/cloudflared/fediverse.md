@@ -3702,6 +3702,7 @@ Here's a list of public Fediverse services.
 | `bimbiribase.xyz` | No |
 | `bimbo.social` | No |
 | `bimbo.systems` | No |
+| `bimbo.video` | No |
 | `bimmer.social` | No |
 | `binarycat.org` | No |
 | `binarydad.com` | No |
@@ -6320,7 +6321,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8551,6 +8552,7 @@ Here's a list of public Fediverse services.
 | `divita.eu` | No |
 | `divnull.com` | No |
 | `diwaniyah.social` | No |
+| `dix.asia` | No |
 | `dixies.land` | No |
 | `diya-mastodon.com` | No |
 | `diymusic.space` | No |
@@ -32072,7 +32074,7 @@ Here's a list of public Fediverse services.
 | `sondersign.social` | Yes |
 | `sone.social` | No |
 | `sonedon.com` | No |
-| `sonet.ws` | No |
+| `sonet.ws` | Yes |
 | `songbird.cloud` | Yes |
 | `songngu.xyz` | Yes |
 | `songsforno.one` | Yes |
@@ -38596,7 +38598,7 @@ Here's a list of public Fediverse services.
 | `xn--y9aaa4b6a6fqad.xn--y9a3aq` | Yes |
 | `xn--y9aai3au2bc2f.xn--y9a3aq` | Yes |
 | `xn--y9aey5fdz.xn--y9a3aq` | Yes |
-| `xn--y9ai4fj.xn--y9a3aq` | No |
+| `xn--y9ai4fj.xn--y9a3aq` | Yes |
 | `xn--y9azesw6bu.xn--y9a3aq` | No |
 | `xn--zck4ad5f2e.jp` | No |
 | `xn--zck4ad5f2e.xn--q9jyb4c` | No |
@@ -38994,6 +38996,7 @@ Here's a list of public Fediverse services.
 | `yowapeda.me` | No |
 | `yowhat.net` | Yes |
 | `yoyo.org` | No |
+| `yoyodyne.games` | No |
 | `yp.to` | No |
 | `ypolis.net` | No |
 | `ypy.ch` | No |
@@ -39547,7 +39550,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,681 |
+| Cloudflare | 9,684 |
 | Normal | 29,823 |
 
 
