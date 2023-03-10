@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Integrating Remix Router with React Transitions](https://github.com/remix-run/remix/issues/5763)
 - [Not working with edge runtime](https://github.com/rpldy/react-uploady/issues/495)
 - [Post-deploy UP issues (Unified Profiiles)](https://github.com/hicommonwealth/commonwealth/issues/3081)
 - [ReferenceError: process is not defined when using with Cloudflare Wrangler](https://github.com/ben-rogerson/twin.macro/issues/789)
