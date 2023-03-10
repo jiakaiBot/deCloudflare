@@ -562,6 +562,7 @@ Or is this merely a case of simple modesty?
 | Edward Wang | Employee |  |
 | Ee Ping | Employee |  |
 | Ekaterina Alexandrovna | Employee |  |
+| Elie Mitrani | Employee | |
 | Elijah Velasquez | Business Development |  |
 | Elina Todorov | Global Sales Strategy |  |
 | Elisa L. Durrette | Legal-Commercial Transactions |  |
@@ -1464,6 +1465,7 @@ Or is this merely a case of simple modesty?
 | Renee Farrell | Infosec Compliance Manager |  |
 | Renee Main | Account Executive |  |
 | Renee Taormina | People Systems |  |
+| Revathy Ramasundaram | Employee | |
 | Ricardo Baeta | Employee | |
 | Ricardo Catalinas Jiménez | Systems Engineer |  |
 | Ricardo Pacheco | Employee |  |
