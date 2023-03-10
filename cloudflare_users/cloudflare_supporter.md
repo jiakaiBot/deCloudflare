@@ -8049,6 +8049,7 @@ Do not create new issue or we will close it as duplicate.
 | [Noemimsad@twitter](https://twitter.com/Noemimsad/status/1542442513365356546) | advertise |
 | [NoeMoe4@twitter](https://twitter.com/NoeMoe4/status/1389529662775246848) | advertise |
 | [noicedik@twitter](https://twitter.com/noicedik/status/1553285359433560065) | advertise |
+| [nolifesupport@twitter](https://twitter.com/nolifesupport/status/1634292733526388741) | advertise |
 | [noman43919827@twitter](https://twitter.com/noman43919827/status/1595787559103336451) | advertise |
 | [NomanNoor@twitter](https://twitter.com/NomanNoor/status/1511594810297229315) | advertise |
 | [nomercy888806@twitter](https://twitter.com/nomercy888806/status/1533850898551693313) | advertise |
