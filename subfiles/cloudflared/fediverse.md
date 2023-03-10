@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,914 |
-| social | 3,821 |
+| social | 3,822 |
 | net | 3,026 |
 | org | 2,100 |
-| de | 1,968 |
+| de | 1,969 |
 
 
 - Mastodon, Pleroma, etc
@@ -6183,7 +6183,7 @@ Here's a list of public Fediverse services.
 | `codefor.de` | No |
 | `codegito.xyz` | No |
 | `codeine.world` | No |
-| `codelib.re` | No |
+| `codelib.re` | Yes |
 | `codem.xyz` | No |
 | `codeplumbers.eu` | No |
 | `coder.town` | Yes |
@@ -6233,6 +6233,7 @@ Here's a list of public Fediverse services.
 | `coffee-break.at` | No |
 | `coffee-break.cc` | Yes |
 | `coffeeandcode.com` | No |
+| `coffeebean.social` | No |
 | `coffeechat.social` | No |
 | `coffeechords.com` | No |
 | `coffeeeldritch.art` | No |
@@ -14136,6 +14137,7 @@ Here's a list of public Fediverse services.
 | `heijmans.social` | Yes |
 | `heiki-hecchara.net` | No |
 | `heiko-adams.de` | No |
+| `heikofotografiert.de` | No |
 | `heikosblog.eu` | No |
 | `heim-server.de` | No |
 | `heim.id` | Yes |
@@ -33199,7 +33201,7 @@ Here's a list of public Fediverse services.
 | `susmaninsurance.com` | Yes |
 | `suspended.club` | No |
 | `suspendedparticle.de` | No |
-| `sussyincorporated.net` | Yes |
+| `sussyincorporated.net` | No |
 | `sustainably.social` | No |
 | `sutera.fi` | No |
 | `sutra.rs` | No |
@@ -39541,7 +39543,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,678 |
-| Normal | 29,819 |
+| Normal | 29,821 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
