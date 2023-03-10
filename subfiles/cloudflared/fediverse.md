@@ -5394,6 +5394,7 @@ Here's a list of public Fediverse services.
 | `cesko.social` | Yes |
 | `cestlavie.moe` | Yes |
 | `cestoliv.com` | No |
+| `cetera.uk` | Yes |
 | `cetialphafive.com` | No |
 | `cetra.club` | No |
 | `ceyal.me` | Yes |
@@ -18369,6 +18370,7 @@ Here's a list of public Fediverse services.
 | `labrat.space` | No |
 | `labrats.life` | No |
 | `labriks.com` | Yes |
+| `labsconnect.se` | Yes |
 | `labview.social` | No |
 | `labyrinth.social` | No |
 | `labyrinthos.org` | No |
@@ -21329,6 +21331,7 @@ Here's a list of public Fediverse services.
 | `mcphail.uk` | No |
 | `mcqn.com` | No |
 | `mcr.cool` | No |
+| `mcr.is` | No |
 | `mcr.wtf` | No |
 | `mcrichton.net` | Yes |
 | `mcrn.one` | Yes |
@@ -35842,7 +35845,7 @@ Here's a list of public Fediverse services.
 | `tutafey.eu` | No |
 | `tutestutes.org` | No |
 | `tuto-craft.com` | No |
-| `tutor.social` | No |
+| `tutor.social` | Yes |
 | `tutoteket.no` | No |
 | `tuu.fi` | No |
 | `tuukkao.net` | No |
@@ -39542,7 +39545,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,678 |
+| Cloudflare | 9,681 |
 | Normal | 29,821 |
 
 
