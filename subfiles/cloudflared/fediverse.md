@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,914 |
+| com | 5,915 |
 | social | 3,822 |
-| net | 3,026 |
+| net | 3,027 |
 | org | 2,100 |
 | de | 1,969 |
 
@@ -138,7 +138,7 @@ Here's a list of public Fediverse services.
 | `0xdevelopers.online` | No |
 | `0xemmy.me` | No |
 | `0xf.fr` | No |
-| `0xf4240.bid` | Yes |
+| `0xf4240.bid` | No |
 | `0xfa.de` | No |
 | `0xfeedc0.de` | No |
 | `0xff.cafe` | No |
@@ -10777,6 +10777,7 @@ Here's a list of public Fediverse services.
 | `fedica.de` | No |
 | `fedicafe.com` | No |
 | `fedichive.tk` | No |
+| `fedicity.net` | No |
 | `fedida.com` | Yes |
 | `fedidb.org` | Yes |
 | `fedifence.social` | No |
@@ -12859,6 +12860,7 @@ Here's a list of public Fediverse services.
 | `ginatic.social` | No |
 | `gingadon.com` | Yes |
 | `ginju.de` | No |
+| `ginnannman.com` | Yes |
 | `ginny.chat` | No |
 | `ginpatu.moe` | Yes |
 | `giobu.cyou` | No |
@@ -39546,7 +39548,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,681 |
-| Normal | 29,821 |
+| Normal | 29,823 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
