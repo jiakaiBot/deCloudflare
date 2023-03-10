@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,915 |
-| social | 3,822 |
-| net | 3,027 |
+| social | 3,825 |
+| net | 3,028 |
 | org | 2,100 |
 | de | 1,969 |
 
@@ -2920,6 +2920,7 @@ Here's a list of public Fediverse services.
 | `babblebox.net` | No |
 | `babelut.be` | No |
 | `babic.dev` | No |
+| `babicz.social` | Yes |
 | `babka.social` | Yes |
 | `babuu.club` | No |
 | `babuu.jp` | No |
@@ -8065,6 +8066,7 @@ Here's a list of public Fediverse services.
 | `depth.li` | Yes |
 | `depucelage.xyz` | No |
 | `dequis.org` | Yes |
+| `der-gedankenleser.info` | No |
 | `der-postillon.com` | No |
 | `der.gs` | No |
 | `der.moe` | No |
@@ -9206,6 +9208,7 @@ Here's a list of public Fediverse services.
 | `dymersion.com` | No |
 | `dymorz.net` | No |
 | `dynabox.net` | No |
+| `dynamic.land` | No |
 | `dynamicfiles.de` | No |
 | `dyndns.org` | No |
 | `dyne.link` | No |
@@ -10399,6 +10402,7 @@ Here's a list of public Fediverse services.
 | `f1sh.de` | No |
 | `f2a.io` | No |
 | `f40c40.com` | No |
+| `f4255529.fun` | Yes |
 | `f4grx.net` | No |
 | `f4n.de` | No |
 | `f5.si` | No |
@@ -11876,6 +11880,7 @@ Here's a list of public Fediverse services.
 | `friendo.space` | Yes |
 | `friends.cafe` | Yes |
 | `friends.casa` | No |
+| `friends.link` | Yes |
 | `friends.nico` | No |
 | `friends.rodeo` | No |
 | `friends.tennis` | No |
@@ -19833,6 +19838,7 @@ Here's a list of public Fediverse services.
 | `lulz.win` | No |
 | `lumberjacks.social` | Yes |
 | `lumbung.space` | No |
+| `lumen.pink` | Yes |
 | `lumenwrites.com` | Yes |
 | `lumey.dev` | Yes |
 | `lumi.host` | No |
@@ -22051,6 +22057,7 @@ Here's a list of public Fediverse services.
 | `minnix.dev` | No |
 | `minnna.xyz` | No |
 | `minohdon.jp` | No |
+| `minorkey.social` | No |
 | `minorthoughts.com` | No |
 | `minovsky.space` | No |
 | `mint-n-er.de` | No |
@@ -22640,7 +22647,7 @@ Here's a list of public Fediverse services.
 | `moritz.sh` | No |
 | `moritzmahringer.de` | No |
 | `moritzrudert.de` | No |
-| `moriya.faith` | No |
+| `moriya.faith` | Yes |
 | `morkaste.com` | No |
 | `morland.social` | No |
 | `morn.i.ng` | No |
@@ -32077,6 +32084,7 @@ Here's a list of public Fediverse services.
 | `sonedon.com` | No |
 | `sonet.ws` | Yes |
 | `songbird.cloud` | Yes |
+| `songdogtech.net` | Yes |
 | `songngu.xyz` | Yes |
 | `songsforno.one` | Yes |
 | `songtronix.com` | No |
@@ -37679,6 +37687,7 @@ Here's a list of public Fediverse services.
 | `wesnoth.org` | No |
 | `wespol.org` | Yes |
 | `westbrit.ie` | No |
+| `westbrook.social` | Yes |
 | `westchat.de` | No |
 | `westcoastplay.fun` | No |
 | `westen.social` | No |
@@ -39551,8 +39560,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,685 |
-| Normal | 29,823 |
+| Cloudflare | 9,692 |
+| Normal | 29,825 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
