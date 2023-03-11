@@ -18330,7 +18330,7 @@ Here's a list of public Fediverse services.
 | `kyriog.eu` | No |
 | `kys.moe` | Yes |
 | `kysocial.org` | No |
-| `kyubitter.xyz` | Yes |
+| `kyubitter.xyz` | No |
 | `kyunkyun.moe` | No |
 | `kyushojitsu.ca` | Yes |
 | `kzhub.cc` | No |
@@ -34392,6 +34392,7 @@ Here's a list of public Fediverse services.
 | `theladners.com` | Yes |
 | `thelake.town` | Yes |
 | `thelandofooops.icu` | Yes |
+| `thelaserguy.online` | No |
 | `thelballwiki.gq` | No |
 | `thele.me` | Yes |
 | `thelema.social` | No |
@@ -39566,8 +39567,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,696 |
-| Normal | 29,827 |
+| Cloudflare | 9,695 |
+| Normal | 29,829 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
