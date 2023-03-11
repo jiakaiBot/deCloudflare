@@ -491,6 +491,7 @@ Here's a list of breached sites.
 | Shitexpress | 23,817 | No |
 | ShockGore | 73,944 | Yes |
 | ShopBack | 20,529,819 | Yes |
+| ShopperPlus (Shopper+) | 878,290 | No |
 | ShortEdition (Short Édition) | 505,466 | Yes |
 | Shotbow | 1,052,753 | Yes |
 | SirHurt | 90,655 | Yes |
@@ -657,9 +658,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 346 | 3,847,377,536 |
-| Normal | 289 | 4,961,894,472 |
+| Normal | 290 | 4,962,772,762 |
 
 
 
-### 54.5% of breached sites (pwned sites) are using Cloudflare.
+### 54.4% of breached sites (pwned sites) are using Cloudflare.
 ### 43.7% of leaked accounts are on Cloudflare sites.
