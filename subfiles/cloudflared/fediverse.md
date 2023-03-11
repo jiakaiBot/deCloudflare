@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,918 |
-| social | 3,831 |
-| net | 3,031 |
-| org | 2,100 |
-| de | 1,970 |
+| social | 3,835 |
+| net | 3,033 |
+| org | 2,102 |
+| de | 1,971 |
 
 
 - Mastodon, Pleroma, etc
@@ -2457,6 +2457,7 @@ Here's a list of public Fediverse services.
 | `asse.world` | No |
 | `asselma.eu` | No |
 | `assemblag.es` | No |
+| `asso-sterenn.fr` | No |
 | `associated.social` | No |
 | `assonance.org` | No |
 | `assorted.ink` | No |
@@ -5875,6 +5876,7 @@ Here's a list of public Fediverse services.
 | `circlelinego.com` | Yes |
 | `circles.fi` | No |
 | `circletocqueville.no` | No |
+| `circlez.social` | No |
 | `circuitlocution.com` | No |
 | `circumception.com` | No |
 | `circumstances.run` | No |
@@ -7833,6 +7835,7 @@ Here's a list of public Fediverse services.
 | `death.id.au` | Yes |
 | `deathbybandaid.net` | No |
 | `deathbycomputers.co.uk` | No |
+| `deathkitten.net` | No |
 | `debateclub.eu` | No |
 | `debbie-chan.space` | No |
 | `debenny.de` | No |
@@ -9055,6 +9058,7 @@ Here's a list of public Fediverse services.
 | `dskofgrn.xyz` | No |
 | `dsmouse.net` | No |
 | `dsnv.net` | No |
+| `dsoc.io` | No |
 | `dsocialize.net` | Yes |
 | `dsrev.me` | Yes |
 | `dssc.io` | Yes |
@@ -13982,6 +13986,7 @@ Here's a list of public Fediverse services.
 | `hasameli.com` | No |
 | `hase.dev` | No |
 | `hasecom.at` | No |
+| `hasenpanier.de` | No |
 | `hasestall.com` | No |
 | `hasgard.org` | No |
 | `hash.my` | No |
@@ -17655,6 +17660,7 @@ Here's a list of public Fediverse services.
 | `kino.ma` | No |
 | `kinocow.com` | No |
 | `kinowolnosc.pl` | No |
+| `kinsta.cloud` | Yes |
 | `kintsugi-lab.com` | Yes |
 | `kinu.ml` | Yes |
 | `kinugasa.me` | No |
@@ -19021,6 +19027,7 @@ Here's a list of public Fediverse services.
 | `liberated.network` | No |
 | `liberation.is` | Yes |
 | `liberatorytechnology.network` | No |
+| `liberaturadio.org` | No |
 | `liberdon.com` | Yes |
 | `libereco.social` | No |
 | `liberium.fr` | No |
@@ -21992,6 +21999,7 @@ Here's a list of public Fediverse services.
 | `milway.ca` | No |
 | `milyd.pl` | Yes |
 | `mim-libre.fr` | No |
+| `mimic.social` | No |
 | `mimigo.xyz` | No |
 | `mimikun.dev` | No |
 | `mimikun.jp` | Yes |
@@ -26193,6 +26201,7 @@ Here's a list of public Fediverse services.
 | `pamilya.social` | No |
 | `pamphlets.me` | Yes |
 | `pan.rent` | No |
+| `panacea.no` | Yes |
 | `panaitesco.com` | Yes |
 | `panarky.com` | No |
 | `panatropic.computer` | No |
@@ -28444,6 +28453,7 @@ Here's a list of public Fediverse services.
 | `radicchio.town` | No |
 | `radicle.space` | No |
 | `radig.social` | No |
+| `radikal.social` | No |
 | `radio.af` | Yes |
 | `radio.fm` | Yes |
 | `radioaconchego.org` | No |
@@ -29303,6 +29313,7 @@ Here's a list of public Fediverse services.
 | `rikunagiweb.jp` | Yes |
 | `rikvoj.tech` | Yes |
 | `rikwithnoc.com` | Yes |
+| `rimfaxe.net` | No |
 | `rimkus.it` | No |
 | `rimmer.cloud` | No |
 | `rimmer.wtf` | No |
@@ -30582,6 +30593,7 @@ Here's a list of public Fediverse services.
 | `scwhost.org` | No |
 | `scy.name` | No |
 | `scyldings.com` | No |
+| `scz.social` | No |
 | `sd.ai` | Yes |
 | `sda1.net` | Yes |
 | `sdc.su` | Yes |
@@ -31756,6 +31768,7 @@ Here's a list of public Fediverse services.
 | `snaggletooth.life` | No |
 | `snailedit.dev` | Yes |
 | `snailedit.social` | Yes |
+| `snailhuddle.org` | No |
 | `snake.club` | No |
 | `snakenode.eu` | No |
 | `snakeslayers.com` | Yes |
@@ -39579,8 +39592,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,700 |
-| Normal | 29,836 |
+| Cloudflare | 9,702 |
+| Normal | 29,847 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
