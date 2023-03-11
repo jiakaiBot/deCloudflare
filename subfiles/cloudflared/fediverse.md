@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,918 |
+| com | 5,919 |
 | social | 3,831 |
-| net | 3,029 |
+| net | 3,030 |
 | org | 2,100 |
 | de | 1,970 |
 
@@ -9814,6 +9814,7 @@ Here's a list of public Fediverse services.
 | `emucafe.club` | No |
 | `emy.lu` | No |
 | `emy.world` | No |
+| `en0taka.com` | Yes |
 | `ena-vocalp.com` | Yes |
 | `enbi.es` | No |
 | `enbies.space` | Yes |
@@ -24615,6 +24616,7 @@ Here's a list of public Fediverse services.
 | `nomofomo.social` | No |
 | `nomorecubes.net` | No |
 | `nomoresha.me` | Yes |
+| `nomya.net` | No |
 | `non-abelian.space` | No |
 | `non-designer.studio` | Yes |
 | `non-euclidean.space` | No |
@@ -28216,6 +28218,7 @@ Here's a list of public Fediverse services.
 | `qube.ovh` | No |
 | `qubit-social.xyz` | No |
 | `qubyte.codes` | No |
+| `qudange.top` | No |
 | `que-sera.io` | No |
 | `quebec.gq` | No |
 | `quecoisas.xyz` | No |
@@ -39573,8 +39576,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,696 |
-| Normal | 29,834 |
+| Cloudflare | 9,697 |
+| Normal | 29,836 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
