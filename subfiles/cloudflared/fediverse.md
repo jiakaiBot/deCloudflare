@@ -15388,6 +15388,7 @@ Here's a list of public Fediverse services.
 | `imexile.moe` | Yes |
 | `imfing.com` | Yes |
 | `imi.moe` | Yes |
+| `imibimi.xyz` | Yes |
 | `imirhil.fr` | No |
 | `imjust.one` | No |
 | `imjustsome.one` | No |
@@ -25458,6 +25459,7 @@ Here's a list of public Fediverse services.
 | `on74th.cloud` | No |
 | `onchangedevie.com` | No |
 | `oncletom.io` | No |
+| `oncloud.at` | Yes |
 | `oncrete.gr` | No |
 | `ondergrond.org` | Yes |
 | `ondioline.org` | No |
@@ -25792,6 +25794,7 @@ Here's a list of public Fediverse services.
 | `ortion.xyz` | No |
 | `orwell.fun` | No |
 | `orx.me` | Yes |
+| `oryzon.studio` | No |
 | `orz.hm` | No |
 | `orz.uno` | Yes |
 | `orzech.me` | Yes |
@@ -39576,8 +39579,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,698 |
-| Normal | 29,835 |
+| Cloudflare | 9,700 |
+| Normal | 29,836 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
