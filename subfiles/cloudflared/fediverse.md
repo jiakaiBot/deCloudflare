@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,919 |
+| com | 5,921 |
 | social | 3,835 |
 | net | 3,035 |
 | org | 2,103 |
-| de | 1,972 |
+| de | 1,973 |
 
 
 - Mastodon, Pleroma, etc
@@ -4991,7 +4991,7 @@ Here's a list of public Fediverse services.
 | `calmarius.net` | No |
 | `calmdonut.social` | Yes |
 | `calobar.club` | No |
-| `caluettefamily.com` | No |
+| `caluettefamily.com` | Yes |
 | `caluser.social` | No |
 | `calut.fr` | No |
 | `calzone.club` | No |
@@ -15131,6 +15131,7 @@ Here's a list of public Fediverse services.
 | `iamveryti.red` | Yes |
 | `ian.mn` | Yes |
 | `ian.sh` | No |
+| `ianandjayspaceout.com` | No |
 | `ianbetteridge.com` | No |
 | `ianbgibson.com` | No |
 | `ianbrown.tech` | No |
@@ -18878,6 +18879,7 @@ Here's a list of public Fediverse services.
 | `lermer.nl` | No |
 | `lerngern.net` | Yes |
 | `lernglobal.network` | No |
+| `lernhausfilm.de` | No |
 | `lernortdigital.de` | No |
 | `lernsachen.online` | No |
 | `leroygaming.gq` | No |
@@ -35434,6 +35436,7 @@ Here's a list of public Fediverse services.
 | `traction.jp` | No |
 | `tracydurnell.com` | No |
 | `trade-free.org` | Yes |
+| `tradingcardarchives.com` | Yes |
 | `tradon.jp` | No |
 | `trafficking.agency` | No |
 | `trafo.social` | No |
@@ -38041,7 +38044,7 @@ Here's a list of public Fediverse services.
 | `wivodaim.net` | No |
 | `wiwi.nrw` | No |
 | `wiwi.video` | No |
-| `wiwie.dk` | No |
+| `wiwie.dk` | Yes |
 | `wixfort.de` | No |
 | `wiz.community` | No |
 | `wizard.casa` | No |
@@ -39598,7 +39601,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,704 |
+| Cloudflare | 9,707 |
 | Normal | 29,851 |
 
 
