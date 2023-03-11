@@ -259,6 +259,7 @@ Here's a list of breached sites.
 | GunAuction (GunAuction.com) | 565,470 | Yes |
 | GunsDotCom (Guns.com) | 375,928 | Yes |
 | Guntrader | 112,031 | Yes |
+| HDBFinancialServices (HDB Financial Services) | 1,658,750 | Yes |
 | HIAPK (HiAPK) | 13,873,674 | No |
 | HLTV | 611,070 | Yes |
 | HTCMania (HTC Mania) | 1,488,089 | No |
@@ -655,10 +656,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 345 | 3,845,718,786 |
+| Cloudflare | 346 | 3,847,377,536 |
 | Normal | 289 | 4,961,894,472 |
 
 
 
-### 54.4% of breached sites (pwned sites) are using Cloudflare.
+### 54.5% of breached sites (pwned sites) are using Cloudflare.
 ### 43.7% of leaked accounts are on Cloudflare sites.
