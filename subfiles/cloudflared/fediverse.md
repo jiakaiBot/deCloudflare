@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,919 |
+| com | 5,918 |
 | social | 3,831 |
-| net | 3,030 |
+| net | 3,031 |
 | org | 2,100 |
 | de | 1,970 |
 
@@ -29608,7 +29608,6 @@ Here's a list of public Fediverse services.
 | `rosehip.moe` | Yes |
 | `rosematcha.party` | Yes |
 | `rosemont.cloud` | Yes |
-| `rosenberg-watt.com` | No |
 | `roshless.me` | No |
 | `rosiesocosy.com` | No |
 | `rosnovsky.us` | Yes |
@@ -36530,6 +36529,7 @@ Here's a list of public Fediverse services.
 | `usamin.cafe` | No |
 | `usan.us` | No |
 | `usans.in` | No |
+| `usasaki.net` | Yes |
 | `usbharu.dev` | Yes |
 | `usedbytes.com` | No |
 | `usedom.social` | No |
@@ -39576,8 +39576,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,697 |
-| Normal | 29,836 |
+| Cloudflare | 9,698 |
+| Normal | 29,835 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
