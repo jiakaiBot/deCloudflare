@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot connect to integration manager](https://github.com/vector-im/element-web/issues/24803)
 - [Very large _routes.json file, crashing deployments on Cloudflare Pages](https://github.com/withastro/astro/issues/6516)
 - [502 error with Cloudflare zero trust tunnel | Quark](https://github.com/ajxz/Comments/issues/10)
 - [iOS App cannot connect through Cloudflare - HA says "Did not receive auth message"](https://github.com/home-assistant/core/issues/89542)
