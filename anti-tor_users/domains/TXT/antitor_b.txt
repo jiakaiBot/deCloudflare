@@ -3562,6 +3562,8 @@ yo.bold-skin.com
 yourtripisshort.bandcamp.com
 youtrack.boelter.io
 za.buynespresso.com
+2023okayama.billxu.net
+a.barrague.fr
 a6.bbvanet.com.mx
 aa-bws-application.qa.dxf.bosch.tech
 aa-bws-module.qa.dxf.bosch.tech
@@ -3626,10 +3628,12 @@ api2.enschede.batchcontrol.tech
 apif.begmedia.com
 apis.bi.go.id
 apk.berantamcustomer.com
+apl.beratkalicustomer.com
 app.begservice.de
 app.e.bmia.bloomberg.com
 apple-confirm-account-update-information.blawyersvn.com
 apple14466173.brizy.site
+apps.berharapcustomer.com
 atp.bizsky.jp
 auth.advancedhome.bycopilot.com
 auth.bankdata.dk
@@ -3691,6 +3695,7 @@ bangkeodiennano.vn
 banjarmasinpost.co
 bankaceh.co.id
 bankaiterbaik.com
+bankamlakbavar.ir
 bankbangunartha.com
 bankbimj.com
 bankert.org
@@ -3733,6 +3738,7 @@ barbarafister.net
 barbarossafety.com
 barclayshelpdesk.co.uk
 barforsupplements.com
+baribags.com.ar
 barisozel.com
 bark-control-collar.com
 barnadiario.com
@@ -3764,6 +3770,7 @@ bckambalaj.com
 bdip.de
 bdsportshub.com
 bdx701-ott.cdn.bouygtel.fr
+beachcamplombok.com
 beacon4sl.com
 bearware.dk
 beauty-notes.net
@@ -3811,6 +3818,7 @@ bestshop.com.ua
 bet88plus.com
 beta.dev.mx.yandex.net.botanicashop.ru
 betacodex.org
+betel.pro
 betflix-wallet.co
 betflix168wallet.com
 betprolive.com
@@ -3932,8 +3940,10 @@ bjoernkarmann.dk
 bjoreman.com
 bk.mufg.jp.us3.bas.ms
 bkrn.de
+blackbirdshutters.com
 blackiowanews.bulletin.com
 blackisgood.ch
+blackmetaldeath.com
 blacksunjournal.com
 bladefanatic.hu
 blakesmediamanagement.com
@@ -3949,6 +3959,7 @@ blissflowersandboutique.com
 blissfullstar.com
 blitzd8gummies.com
 blixen-shop.dk
+blockchain-coin.com
 blockchain-domains.io
 blockchainapphub.com
 blockchainblueprint.com
@@ -3962,6 +3973,7 @@ blockchaindistrict.space
 blockchaineducationassociation.com
 blockchainentrepreneur.io
 blockchaineur.com
+blockchainfiles.org
 blockchaingroup.qa
 blockchainherald.com
 blockchainhosting.co
@@ -4007,6 +4019,7 @@ bnzonlinemanagernz.com
 bo2217ok3tro9.com
 boakandbailey.com
 bobsolinger.com
+boc.lk
 bodpawarriors.com
 body-safe.ro
 bodytastic.com.au
@@ -4040,6 +4053,7 @@ bootiemashup.com
 borischimp504.com
 borrowedbydesign.com
 botez.date
+botocenterbahia.com.br
 botsfordiscord.cc
 bottomfeederbooks.com
 bottracking.live
@@ -4055,6 +4069,7 @@ brambletonnews.com
 brams.org
 brandley.nl
 brandworldtechnology.com
+brandysafe.com
 brasovconta.ro
 braxtonappliancerepairservice.us
 brazilmart.com.br
@@ -4106,6 +4121,7 @@ bukiya.jp
 bulkadspost.com
 bullet-pro.com
 bundoorapoolandspa.com.au
+bureautique.ca
 burgerbash.ca
 burgerkingcrypto.tech
 burgosdijital.net
@@ -4142,6 +4158,7 @@ bywsj.com
 ca.bonbesso.com
 cal-glomo.bbva.pe
 capitaloneinfoupdate.business.blog
+capsticksexternal.b2clogin.com
 captcha.dev.botmanagement.com
 carla.borrarcuenta.online
 cbs.boschsecurity.com
@@ -4158,9 +4175,11 @@ click.bostonscientificemail.com
 click.e.brinks.com
 click.go.bluemeetings.io
 click.hi.bloomnation.com
+clicks.products.bureaumail.co.uk
 cliente0190.balearonline.es
 clientes.balearonline.com
 clientmaheshmlmwebsite.bistrobypizzawala.com
+clmprprsa.b2clogin.com
 cloud.blankpagebiz.co
 cloud.bluespray.net
 cloud.bostonscientificemail.com
@@ -4200,6 +4219,7 @@ csgoempire.besplatnye-skiny-cs-go.ru
 cwslogin.b2clogin.com
 d-cloud.bosch-garage-management.com
 d-fr.bosch-garage-management.com
+da.bamnuttall.co.uk
 da2.bulten.com
 dc-ncj-portal-s.qa.dxf.bosch.tech
 dc-ncj-portal.qa.dxf.bosch.tech
@@ -4216,6 +4236,8 @@ dev1.brumm-service.de
 dev2.brumm-service.de
 dev3.brumm-service.de
 dev4.brumm-service.de
+dharma-records.buddhasasana.net
+diagrams.stg.bluej.co
 discord.berellsoft.eu
 discord.businessmine.co
 disfruta.bbva.pe
@@ -4259,6 +4281,7 @@ forums.boxofficetheory.com
 fp.b10.fun
 fr.backontrack-yoga.com
 fr.booking-guys.com
+fr.bookingalternative.com
 fr.brillanceautoswiss.ch
 frigate.blaisingadept.com
 fs.bcnet.bcb.gov.br
@@ -4359,6 +4382,7 @@ mobile.omni.bankmandiri.co.id
 moda.borrarcuenta.online
 mon.bussolacovid19.com.br
 monitoring.bageldigital.io
+monitoring.boostcompagny.com
 monks.bone.blue
 mp-creditcard-notifier.external.b2w-cde-pci.com
 mp-vault-gateway-americanas.external.b2w-cde-pci.com
@@ -4374,13 +4398,16 @@ ndenteprdb2c.b2clogin.com
 netflix-update.bflpa.com
 newfusionmedia-repair.default.fusion-media.uk0.bigv.io
 news-dist.bloombergbna.com
+newsletter.bradesco.com.br
 newyear.blacksunapparel.com
 newyear.bolsun.ru
 nft.blockchainafrica.net
 ngav.boozallencsn.com
 ni.bcats-tokenizer.uae.uat.brighterion.io
 nokia-service-workspacew-signal.desk.bantenterkini.com
+noticiasirresistiveis.blogspot.com
 offers.bankuten.cz
+office.braymore.ca
 oficinas.brokersseguro.com
 olbank.brighteyesdesign.co.uk
 oma-chart.med.buffalo.edu
@@ -4426,6 +4453,7 @@ public.boxcloud.com
 pujcky.bankuten.cz
 pushkaram.blockchainedp.org
 q-tr.bosch-garage-management.com
+qa-ptconnector.bosch-pt.com
 qrpix-h.bradesco.com.br
 r.borrarcuenta.online
 r1---sn-3pobuxjiovavbpxn-2oik.bdn.dev
@@ -4444,6 +4472,7 @@ recodata.shared-svc.bellmedia.ca
 relay.breakblocks.social
 reloj.bancoomeva.com.co
 remesas.baccredomatic.sv
+retriever.bigrocksports.com
 rickhutzell.bulletin.com
 rope.bogura.site
 rum.browser-intake-datadoghq.com
@@ -4516,8 +4545,10 @@ sts.boqdev.com.au
 sts002-r.bag.admin.ch
 suporte.bureauveritas.com.br
 surokkha.gov.bd-y.in
+survey.bhcfcu.org
 suzukiextranet.b2clogin.com
 swedish24massageapp.blogspot.com
+tags.bkrtx.com
 tardynot.beaverdeals.ca
 tarxbvx.bitbucket.io
 tass.bdc.nsw.edu.au
@@ -4565,6 +4596,7 @@ videobmiyabi.blogspot.com
 videoid.bancosantander.es
 vpn.bnwebtools.com
 vpn.browardsschools.com
+vpn2.backstagetv.hu
 web.bankdaerahkabkediri.com
 web.basp.bafin.de
 web.bloomhearing.co.uk
@@ -4683,6 +4715,7 @@ www.barsisso.com
 www.basciyapi.com
 www.baseballprospectus.com
 www.basecampadventures.be
+www.bashancommunications.co.za
 www.basketballnetwork.net
 www.baswood.com
 www.batorbalm.com
@@ -4697,7 +4730,10 @@ www.bbplumbingservice.com
 www.bbt-transaction.net
 www.bbu-incasso.nl
 www.bbva.com.ar
+www.bbva.pt
+www.bbvabrasil.com
 www.bbvaextranet.mx
+www.bbvatcomunico.pe
 www.bcisschool.ac.th
 www.bcmfcu.com
 www.bcslots.com
@@ -4710,6 +4746,7 @@ www.beanland-wedding.com
 www.bearcattreeservice.com
 www.beatricearthur.com
 www.beatrizllamascoach.com
+www.beaupini76.com
 www.beautifulhomeorganizing.com
 www.beautybychanda907gmail.com
 www.beautyexcellence.ch
@@ -4721,9 +4758,11 @@ www.becel.com.br
 www.beckleycpa.com
 www.beckyhowiepromua.com
 www.bedfordgazette.com
+www.bedwear.pl
 www.beeingcrafty.co.uk
 www.beeistanbul.com
 www.beeretseq.com
+www.beetlejuice.events
 www.beevive.com
 www.behavior-support.com
 www.behindthepages.org
@@ -4732,6 +4771,8 @@ www.being.com.tw
 www.bekefcu.org
 www.bektaslaryapi.com.tr
 www.belavia.by
+www.belezanaweb.com.br
+www.belfastlive.co.uk
 www.belhaven.co.uk
 www.bellfireandsecurity.co.uk
 www.bellplant.net
@@ -4744,6 +4785,7 @@ www.bendpak.ae
 www.bendpak.ca
 www.benjaminruhmann.com
 www.benjerry.se
+www.bennisuitvaart.nl
 www.bensonandoak.com
 www.bensonresi.com
 www.berkahmedicalsupport.com
@@ -4845,6 +4887,7 @@ www.biskane.com
 www.bitconnect.nl
 www.bittersuitecafe.com.au
 www.bittersweetleith.co.uk
+www.biurodewelopera.com.pl
 www.bixpower.com
 www.bkdabsen.bankkaranganyar.com
 www.bknkparis.com
@@ -4882,6 +4925,7 @@ www.blockchain.id
 www.blockchain4good.ventures
 www.blockchainapphub.com
 www.blockchainblueprint.com
+www.blockchainbraintrust.org
 www.blockchainbreeders.com
 www.blockchainbusinessclub.com
 www.blockchaincolorclub.com
@@ -4894,6 +4938,8 @@ www.blockchaingarden.art
 www.blockchainhacienda.com
 www.blockchainherald.com
 www.blockchainpresence.net
+www.blockchainsolutions4.com
+www.blockheadsalon.com.au
 www.bloebsmarketingsupport.nl
 www.blog.shop.wordpress.bethaus-speyer.de
 www.blogdrive.eu
@@ -4910,6 +4956,7 @@ www.bluemountaineagle.com
 www.blueontech.com.co
 www.blueridgeassets.net
 www.blueridgeriding.com
+www.blueskyvpn.com
 www.bluewavemigration.com
 www.bluewaydelivery.com
 www.blunie.com.br
@@ -4926,8 +4973,10 @@ www.bodhisalesforce.in
 www.bodor.org
 www.bodypoint.fi
 www.bodyworksmassageva.com
+www.bodyworksosteo.com.au
 www.boehringer-ingelheim.se
 www.boernepenge-kreditten.dk
+www.bogoo.app
 www.boken-paris.fr
 www.bokurano-music.com
 www.bollywoodlife.com
@@ -4945,6 +4994,8 @@ www.booking-wagrain.com
 www.booking.beezexpk.com
 www.booking.belugabahiss.com
 www.booking.binarro.ro
+www.booking.byneergaard.dk
+www.bookingalternative.com
 www.bookingandgo.com
 www.bookingapartmentboracay.com
 www.bookingdeal.pl
@@ -4997,7 +5048,9 @@ www.bridgerbc.com
 www.brigadebay.org
 www.brightstarpilates.com
 www.brillanceautoswiss.ch
+www.brillianteers.com
 www.bringbackbritishrail.org
+www.british-made.jp
 www.brittanysbutters.com
 www.broadcastprome.com
 www.broadcastsupport.dk
@@ -5090,6 +5143,7 @@ www.feedback.balloonline.ro
 www.geburtstags-kerze.vpn1.bruhoveckaya.ru
 www.git.8o6o3szricgyfvk.www.service.blendar.io
 www.git.git.8o6o3szricgyfvk.www.service.blendar.io
+www.gitlab.git.blog.blog.drone-ci.am.beroot.org
 www.gmail.barbaratapia.cat
 www.goo-linkto-eki.co.jp.bolifangzhi.com.cn
 www.good-linkto-eki.cdo.beikedianqi.com.cn
@@ -5142,6 +5196,7 @@ www.qtudodelivery.batataflita.com.br
 www.r.borrarcuenta.online
 www.rebeccas-purchase.brandiautry.com
 www.sandbox.boletoqrcode.com.br
+www.sberbank.sber.aviaviavisber.covid19.betmoongirisi.com
 www.sberbank.sber.avito.covid19.belugabahiss.com
 www.school-children-farming-package.html.buffaloadventureriding.com
 www.secure.bitmax-invest.com
