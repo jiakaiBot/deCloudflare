@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,918 |
+| com | 5,919 |
 | social | 3,835 |
-| net | 3,033 |
-| org | 2,102 |
-| de | 1,971 |
+| net | 3,035 |
+| org | 2,103 |
+| de | 1,972 |
 
 
 - Mastodon, Pleroma, etc
@@ -14156,7 +14156,7 @@ Here's a list of public Fediverse services.
 | `height.social` | No |
 | `heigl.org` | No |
 | `heijmans.social` | Yes |
-| `heiki-hecchara.net` | No |
+| `heiki-hecchara.net` | Yes |
 | `heiko-adams.de` | No |
 | `heikofotografiert.de` | No |
 | `heikosblog.eu` | No |
@@ -14262,7 +14262,7 @@ Here's a list of public Fediverse services.
 | `hentai.baby` | No |
 | `hentai.exchange` | No |
 | `hentai.press` | Yes |
-| `hentai.social` | Yes |
+| `hentai.social` | No |
 | `henze-online.de` | No |
 | `henzi.org` | No |
 | `heonian.org` | No |
@@ -14676,6 +14676,7 @@ Here's a list of public Fediverse services.
 | `homecloud.site` | Yes |
 | `homecomputing.fr` | No |
 | `homeip.net` | No |
+| `homelab.beauty` | Yes |
 | `homelab.host` | Yes |
 | `homelab.lt` | No |
 | `homeland.network` | Yes |
@@ -15662,6 +15663,7 @@ Here's a list of public Fediverse services.
 | `inscribe.social` | No |
 | `insert.moe` | Yes |
 | `insert.tk` | Yes |
+| `insertapp.net` | Yes |
 | `insicurezzadigitale.com` | Yes |
 | `insider-it.de` | No |
 | `insidetherink.com` | Yes |
@@ -24183,6 +24185,7 @@ Here's a list of public Fediverse services.
 | `nfld.social` | No |
 | `nfld.uk` | No |
 | `nfra.club` | Yes |
+| `nfriedly.com` | No |
 | `nfshost.com` | No |
 | `nft.photo` | No |
 | `nftooters.art` | No |
@@ -26697,6 +26700,7 @@ Here's a list of public Fediverse services.
 | `petitlutinartube.fr` | No |
 | `petitmote.fr` | No |
 | `petko.me` | No |
+| `petlover.eu.org` | No |
 | `petorikoru.site` | Yes |
 | `petras.space` | No |
 | `petrichor.pt` | No |
@@ -27124,6 +27128,7 @@ Here's a list of public Fediverse services.
 | `plag.gy` | No |
 | `plagu.ee` | No |
 | `plaimi.net` | No |
+| `plainbox.net` | No |
 | `plala.jp` | No |
 | `plamo.social` | No |
 | `plan.cat` | No |
@@ -37678,6 +37683,7 @@ Here's a list of public Fediverse services.
 | `welsea.xyz` | No |
 | `weltenkreuzer.de` | No |
 | `weltraum.social` | Yes |
+| `weltverbessern.de` | No |
 | `wem.st` | No |
 | `wentam.net` | No |
 | `wentsch.me` | No |
@@ -39592,8 +39598,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,702 |
-| Normal | 29,847 |
+| Cloudflare | 9,704 |
+| Normal | 29,851 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
