@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,917 |
+| com | 5,918 |
 | social | 3,828 |
 | net | 3,028 |
 | org | 2,100 |
@@ -4706,7 +4706,7 @@ Here's a list of public Fediverse services.
 | `bugs.social` | No |
 | `buicha.social` | Yes |
 | `builders.social` | No |
-| `building7.social` | No |
+| `building7.social` | Yes |
 | `builditwith.pw` | No |
 | `bukkake.social` | No |
 | `bulbasaur.garden` | No |
@@ -24632,6 +24632,7 @@ Here's a list of public Fediverse services.
 | `nonfren.monster` | No |
 | `nonfungibleart.club` | No |
 | `nongrata.social` | No |
+| `noninjas.com` | No |
 | `nonlinear.zone` | No |
 | `nonn.io` | Yes |
 | `nonnewtoniangoblins.pw` | No |
@@ -39447,6 +39448,7 @@ Here's a list of public Fediverse services.
 | `zonurben.ch` | No |
 | `zoomer.photography` | No |
 | `zoomers.lol` | No |
+| `zoomvomit.lol` | No |
 | `zoonior.app` | No |
 | `zoosbook.com` | Yes |
 | `zoot.fun` | Yes |
@@ -39567,8 +39569,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,695 |
-| Normal | 29,829 |
+| Cloudflare | 9,696 |
+| Normal | 29,830 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
