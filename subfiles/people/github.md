@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Too few arguments to function Shlinkio\\Shlink\\Config\\parseEnvVar(), 0 passed in vendor/shlinkio/shlink-config/functions/functions.php on line 82 and exactly 1 expected invendor/shlinkio/shlink-config/functions/functions.php:46](https://github.com/shlinkio/shlink/issues/1718)
 - [Cert-Manager Error generating certificates](https://github.com/truecharts/charts/issues/7786)
 - [Server response: Unsupported version: 21.02.1](https://github.com/openwrt/asu/issues/467)
 - [Integrating Remix Router with React Transitions](https://github.com/remix-run/remix/issues/5763)
