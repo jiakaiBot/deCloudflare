@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,918 |
-| social | 3,828 |
-| net | 3,028 |
+| social | 3,831 |
+| net | 3,029 |
 | org | 2,100 |
 | de | 1,970 |
 
@@ -13373,6 +13373,7 @@ Here's a list of public Fediverse services.
 | `greenboi.me` | Yes |
 | `greenboys.club` | No |
 | `greendalecommunity.college` | No |
+| `greendolphin.social` | No |
 | `greendragon.pub` | No |
 | `greeneco.social` | No |
 | `greenfeathereddragon.com` | Yes |
@@ -28443,6 +28444,7 @@ Here's a list of public Fediverse services.
 | `radioalmaina.org` | No |
 | `radiobrony.live` | No |
 | `radiofree.cloud` | No |
+| `radiofreefedi.net` | No |
 | `radiofreerobotron.net` | No |
 | `radiola.be` | No |
 | `radiolivre.org` | No |
@@ -33784,6 +33786,7 @@ Here's a list of public Fediverse services.
 | `tcp.fm` | No |
 | `tcp53.ch` | No |
 | `tcpcat.net` | No |
+| `tcrscorner.social` | No |
 | `tcsh.online` | No |
 | `tcsmp.dev` | No |
 | `tcu-mstdn.tk` | No |
@@ -37150,6 +37153,7 @@ Here's a list of public Fediverse services.
 | `volzel.net` | No |
 | `von.zone` | No |
 | `vonhaller.com` | No |
+| `vonhaller.social` | No |
 | `vonschack.com` | No |
 | `vonsee.de` | No |
 | `vonste.in` | No |
@@ -39570,7 +39574,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,696 |
-| Normal | 29,830 |
+| Normal | 29,834 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
