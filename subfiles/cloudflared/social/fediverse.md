@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,921 |
+| com | 5,922 |
 | social | 3,835 |
 | net | 3,037 |
 | org | 2,103 |
@@ -3885,6 +3885,7 @@ Here's a list of public Fediverse services.
 | `bkp.sh` | Yes |
 | `bkrdam.social` | No |
 | `bkryer.com` | No |
+| `bktsk.com` | No |
 | `bl1nk.com` | Yes |
 | `blabber.rocks` | No |
 | `blabbergoats.com` | No |
@@ -39609,7 +39610,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,711 |
-| Normal | 29,854 |
+| Normal | 29,855 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
