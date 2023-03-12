@@ -2181,8 +2181,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -10165,6 +10165,7 @@ Do not create new issue or we will close it as duplicate.
 | [SparrowsHawk1@twitter](https://twitter.com/SparrowsHawk1/status/1395590998135242757) | advertise |
 | [Sparsh7_cr@twitter](https://twitter.com/Sparsh7_cr/status/1395302496545828874) | advertise |
 | [SPdater@twitter](https://twitter.com/SPdater/status/1481116533661528067) | advertise |
+| [SpiderShibaInu@twitter](https://twitter.com/SpiderShibaInu/status/1634947789070405634) | advertise |
 | [SpideyPlays3@twitter](https://twitter.com/SpideyPlays3/status/1541471763024023553) | advertise |
 | [Spidy92846158@twitter](https://twitter.com/Spidy92846158/status/1634902456105828352) | advertise |
 | [SpinDatReckhard@twitter](https://twitter.com/SpinDatReckhard/status/1403347991340228617) | advertise |
@@ -12126,6 +12127,7 @@ Do not create new issue or we will close it as duplicate.
 | [YaeThein@twitter](https://twitter.com/YaeThein/status/1389563696825835520) | advertise |
 | [yag75317936@twitter](https://twitter.com/yag75317936/status/1388361008704589824) | advertise |
 | [Yagami38240084@twitter](https://twitter.com/Yagami38240084/status/1387067443898568705) | advertise |
+| [yahia911@twitter](https://twitter.com/yahia911/status/1634948861973389313) | advertise |
 | [yahongie@twitter](https://twitter.com/yahongie/status/1595137576981377025) | advertise |
 | [YahyaToubali@twitter](https://twitter.com/YahyaToubali/status/1497205721779224576) | advertise |
 | [YainMyint@twitter](https://twitter.com/YainMyint/status/1523606666889277440) | advertise |
