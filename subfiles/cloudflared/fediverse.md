@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,921 |
 | social | 3,835 |
-| net | 3,035 |
+| net | 3,036 |
 | org | 2,103 |
 | de | 1,974 |
 
@@ -4466,7 +4466,7 @@ Here's a list of public Fediverse services.
 | `brandonage.xyz` | No |
 | `brandonrozek.com` | No |
 | `brandonshire.blog` | No |
-| `brandonsjournal.com` | No |
+| `brandonsjournal.com` | Yes |
 | `brandontreb.com` | No |
 | `brands.chat` | No |
 | `brands.town` | No |
@@ -16849,6 +16849,7 @@ Here's a list of public Fediverse services.
 | `jrgnsn.video` | No |
 | `jrm.cc` | Yes |
 | `jrmora.com` | Yes |
+| `jrmyr.net` | Yes |
 | `js.social` | Yes |
 | `js4.in` | No |
 | `jschwab.org` | No |
@@ -39604,8 +39605,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,707 |
-| Normal | 29,854 |
+| Cloudflare | 9,709 |
+| Normal | 29,853 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
