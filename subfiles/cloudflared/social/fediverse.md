@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,924 |
+| com | 5,926 |
 | social | 3,836 |
 | net | 3,041 |
 | org | 2,103 |
-| de | 1,974 |
+| de | 1,976 |
 
 
 - Mastodon, Pleroma, etc
@@ -340,6 +340,7 @@ Here's a list of public Fediverse services.
 | `334.ovh` | Yes |
 | `338338.xyz` | Yes |
 | `33chan.xyz` | No |
+| `343max.de` | No |
 | `346production.jp` | Yes |
 | `35o.poker` | No |
 | `360.cymru` | No |
@@ -1763,6 +1764,7 @@ Here's a list of public Fediverse services.
 | `andrews.me` | Yes |
 | `andrewstaylor.com` | Yes |
 | `andri.dk` | Yes |
+| `andrich.me` | No |
 | `andrii.is` | No |
 | `andrillon.net` | No |
 | `andrlik.org` | No |
@@ -7494,6 +7496,7 @@ Here's a list of public Fediverse services.
 | `danielnorton.com` | Yes |
 | `danielsteinborn.com` | No |
 | `danielstucke.com` | No |
+| `danielwarshaw.com` | No |
 | `danielwmorgan.town` | Yes |
 | `danirod.es` | No |
 | `danis.one` | Yes |
@@ -23520,6 +23523,7 @@ Here's a list of public Fediverse services.
 | `naber.space` | No |
 | `nabi1080.net` | No |
 | `nacchan.ca` | No |
+| `nachocheese.mom` | No |
 | `nachof.blog` | No |
 | `nachrichten.social` | No |
 | `nachtgeschichten.org` | No |
@@ -31145,6 +31149,7 @@ Here's a list of public Fediverse services.
 | `shitbird.online` | No |
 | `shitbucket.nl` | Yes |
 | `shitcoin.land` | Yes |
+| `shite.site` | No |
 | `shiteposting.com` | No |
 | `shitnexus.party` | No |
 | `shitnoise.monster` | No |
@@ -32154,6 +32159,7 @@ Here's a list of public Fediverse services.
 | `soopy.moe` | Yes |
 | `soothing.cloud` | No |
 | `sopelj.ca` | Yes |
+| `sophiaatkinson.com` | Yes |
 | `sophiade.net` | No |
 | `sophie.cafe` | No |
 | `sophieversum.net` | No |
@@ -36182,6 +36188,7 @@ Here's a list of public Fediverse services.
 | `ufm.su` | No |
 | `ufoi.info` | No |
 | `ufoo9k.space` | Yes |
+| `uforeport.de` | No |
 | `ug-mayen.de` | No |
 | `uggs.io` | No |
 | `uglymachine.social` | No |
@@ -36270,6 +36277,7 @@ Here's a list of public Fediverse services.
 | `umiu.si` | No |
 | `umiumi.net` | No |
 | `ummah.is` | No |
+| `ummah.ps` | Yes |
 | `umontreal.ca` | Yes |
 | `umrath.net` | No |
 | `umu.se` | No |
@@ -39630,8 +39638,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,720 |
-| Normal | 29,867 |
+| Cloudflare | 9,722 |
+| Normal | 29,873 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
