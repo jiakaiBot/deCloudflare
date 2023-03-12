@@ -1,6 +1,7 @@
 ![](../image/bookstack.jpg)
 
-- *Disclaimer*: This page contains external links to third party websites. These sites are subject to the liability of the respective website operators.
+
+*Disclaimer*: This page contains external links to third party websites. These sites are subject to the liability of the respective website operators.
 
 ---
 
@@ -183,3 +184,7 @@
 - [How to use Chromium with Tor](chromium_tor.md)
 - [Myth Catalog](myth_catalog.md)
 - [The trouble with Codeberg](the_trouble_with_codeberg.md)
+
+---
+
+![](../image/watcloudflare.jpg)
