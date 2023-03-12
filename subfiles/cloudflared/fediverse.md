@@ -23543,6 +23543,7 @@ Here's a list of public Fediverse services.
 | `nahe.social` | No |
 | `naheimst.info` | No |
 | `nahfe.xyz` | No |
+| `nahida.me` | Yes |
 | `nahuelwexd.com` | Yes |
 | `naia.gay` | Yes |
 | `naiad.io` | Yes |
@@ -39603,7 +39604,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,706 |
+| Cloudflare | 9,707 |
 | Normal | 29,854 |
 
 
