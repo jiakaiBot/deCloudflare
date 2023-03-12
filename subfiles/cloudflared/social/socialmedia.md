@@ -20,18 +20,18 @@ Below is a list of social networks/social media apps worldwide.
 | ASmallWorld | https://www.asmallworld.com/ | No |
 | About | https://about.me/ | Yes |
 | Academia | https://academia.edu/ | Yes |
-| Airtime | https://www.airtime.com/ | No |
+| Airtime | https://www.airtime.com/ | Yes |
 | Altervista | https://altervista.org/ | Yes |
 | Ameba | https://www.ameba.jp/ | No |
 | Amikumu | https://amikumu.com/ | Yes |
 | Amino | https://aminoapps.com/ | Yes |
-| Ancestry | https://www.ancestry.com/ | No |
+| Ancestry | https://www.ancestry.com/ | Yes |
 | Anchor | https://anchor.fm/ | Yes |
 | Angelist | https://angel.co/ | Yes |
 | Anphabe | https://www.anphabe.com/ | No |
 | Athlinks | https://www.athlinks.com/ | No |
 | Badoo | https://badoo.com/ | No |
-| Band | https://band.com/ | No |
+| Band | https://band.com/ | Yes |
 | Bandcamp | https://bandcamp.com/ | No |
 | BeMyEyes | https://www.bemyeyes.com/ | Yes |
 | BeWelcome | https://www.bewelcome.org/ | No |
@@ -61,17 +61,17 @@ Below is a list of social networks/social media apps worldwide.
 | Cellufun | https://www.cellufun.com/ | No |
 | Chess.com | https://www.chess.com/ | Yes |
 | Chictopia | https://www.chictopia.com/ | No |
-| Classmates | https://www.classmates.com/ | No |
+| Classmates | https://www.classmates.com/ | Yes |
 | Cloob | https://www.cloob.com/ | No |
 | Clubhouse | https://www.joinclubhouse.com/ | Yes |
 | Cookpad | https://cookpad.com/ | No |
 | Copains d'Avant | https://copainsdavant.linternaute.com/ | No |
-| CouchSurfing | https://www.couchsurfing.com/ | No |
+| CouchSurfing | https://www.couchsurfing.com/ | Yes |
 | CozyCot | https://www.cozycot.com/ | Yes |
 | Crunchyroll | https://www.crunchyroll.com/ | Yes |
 | Cyworld | https://cyworld.com/ | No |
 | DXY | https://www.dxy.cn/ | No |
-| DailyStrength | https://www.dailystrength.org/ | No |
+| DailyStrength | https://www.dailystrength.org/ | Yes |
 | Daniweb | https://www.daniweb.com/ | Yes |
 | Dayviews Swedish | https://www.bilddagboken.se/ | No |
 | Dead Runners Society | https://www.deadrunnerssociety.com/ | No |
@@ -98,7 +98,7 @@ Below is a list of social networks/social media apps worldwide.
 | Epistimo | https://epistimo.com/ | No |
 | Evernote | https://evernote.com/ | Yes |
 | Experts Exchange | https://experts-exchange.com/ | Yes |
-| EyeEm | https://www.eyeem.com/ | No |
+| EyeEm | https://www.eyeem.com/ | Yes |
 | Facebook | https://www.facebook.com/ | No |
 | Faces list | https://www.faces-l.net/ | No |
 | Fandalism | https://fandalism.com/ | No |
@@ -110,7 +110,7 @@ Below is a list of social networks/social media apps worldwide.
 | Fillos de Galicia | https://www.fillos.org/ | No |
 | Film Affinity | https://www.filmaffinity.com/ | No |
 | Filmow | https://filmow.com/ | Yes |
-| Fishbrain | https://fishbrain.com/ | No |
+| Fishbrain | https://fishbrain.com/ | Yes |
 | Fitocracy | https://fitocracy.com/ | No |
 | Flickchart | https://www.flickchart.com/ | Yes |
 | Flickr | https://www.flickr.com/ | No |
@@ -122,13 +122,13 @@ Below is a list of social networks/social media apps worldwide.
 | Friendica | https://friendi.ca/ | No |
 | Fyuse | https://fyu.se/ | No |
 | Gab | https://gab.com/ | Yes |
-| Gaia Online | https://www.gaiaonline.com/ | No |
+| Gaia Online | https://www.gaiaonline.com/ | Yes |
 | Galleria | https://irc-galleria.net/ | No |
 | GameFAQs | https://gamefaqs.gamespot.com/ | Yes |
 | GameTZ | https://gametz.com/ | No |
 | Gapo | https://www.gapo.vn/ | Yes |
 | Gapyear | https://www.gapyear.com/ | No |
-| Gays | https://www.gays.com/ | No |
+| Gays | https://www.gays.com/ | Yes |
 | Gaysir | https://www.gaysir.no/ | Yes |
 | Geni | https://www.geni.com/ | Yes |
 | Gentlemint | https://www.gentlemint.com/ | Yes |
@@ -139,20 +139,20 @@ Below is a list of social networks/social media apps worldwide.
 | Grindr | https://www.grindr.com/ | Yes |
 | HR | https://www.hr.com/ | Yes |
 | Habbo Brazil | https://www.habbo.com.br/ | Yes |
-| Habbo Dutch | https://www.habbo.nl/ | No |
-| Habbo Finland | https://www.habbo.fi/ | No |
+| Habbo Dutch | https://www.habbo.nl/ | Yes |
+| Habbo Finland | https://www.habbo.fi/ | Yes |
 | Habbo France | https://www.habbo.fr/ | No |
-| Habbo Germany | https://www.habbo.de/ | No |
+| Habbo Germany | https://www.habbo.de/ | Yes |
 | Habbo Italy | https://www.habbo.it/ | Yes |
-| Habbo Spain | https://www.habbo.es/ | No |
-| Habbo Turkey | https://www.habbo.com.tr/ | No |
+| Habbo Spain | https://www.habbo.es/ | Yes |
+| Habbo Turkey | https://www.habbo.com.tr/ | Yes |
 | Habbo | https://www.habbo.com/ | Yes |
 | Happn | https://www.happn.com/ | Yes |
 | Hello | https://www.hello.com/ | No |
 | Hellolingo | https://www.hellolingo.com/ | No |
 | Hospitality | https://www.hospitalityclub.org/ | No |
 | Houseparty | https://houseparty.com/ | No |
-| Houzz | https://www.houzz.com/ | No |
+| Houzz | https://www.houzz.com/ | Yes |
 | Howcast | https://www.howcast.com/ | Yes |
 | Hub Culture | https://www.hubculture.com/ | Yes |
 | Hyves | https://hyvesgames.nl/ | Yes |
@@ -168,32 +168,32 @@ Below is a list of social networks/social media apps worldwide.
 | Instagram | https://www.instagram.com/ | No |
 | Internations | https://www.internations.org/ | Yes |
 | JamiiForums | https://www.jamiiforums.com/ | Yes |
-| Jsfiddle | https://jsfiddle.net/ | No |
+| Jsfiddle | https://jsfiddle.net/ | Yes |
 | Kaixin001 | https://www.kaixin001.com/ | No |
-| KakaoStory | https://story.kakao.com/ | No |
+| KakaoStory | https://story.kakao.com/ | Yes |
 | Kickstarter | https://www.kickstarter.com/ | Yes |
 | Kik | https://www.kik.com/ | Yes |
-| Kiwibox | https://www.kiwibox.com/ | No |
+| Kiwibox | https://www.kiwibox.com/ | Yes |
 | KizlarSoruyor | https://www.kizlarsoruyor.com/ | Yes |
 | Koo | https://www.kooapp.com/ | Yes |
 | Koofers | https://www.koofers.com/ | No |
-| Kroogi | https://kroogi.com/ | No |
+| Kroogi | https://kroogi.com/ | Yes |
 | Kuaishou | https://www.kuaishou.com/ | No |
-| LINE | https://line.me/ | No |
+| LINE | https://line.me/ | Yes |
 | Labroots | https://www.labroots.com/ | No |
 | Last.fm | https://www.last.fm/ | Yes |
-| Letterboxd | https://letterboxd.com/ | No |
+| Letterboxd | https://letterboxd.com/ | Yes |
 | LibraryThing | https://www.librarything.com/ | No |
 | Likee | https://likee.video/ | No |
 | Lingualoe | https://lingualeo.com/ | Yes |
-| LinkedIn | https://www.linkedin.com/ | No |
+| LinkedIn | https://www.linkedin.com/ | Yes |
 | Live Journal | https://www.livejournal.com/ | No |
 | LiveInternet | https://www.liveinternet.ru/ | No |
 | Liveleak | https://www.liveleak.com/ | Yes |
 | Mamba | https://www.mamba.ru/ | No |
-| Marco Polo | https://www.marcopolo.me/ | No |
+| Marco Polo | https://www.marcopolo.me/ | Yes |
 | Mastodon | https://joinmastodon.org/ | Yes |
-| MeWe | https://mewe.com/ | No |
+| MeWe | https://mewe.com/ | Yes |
 | MeetMe | https://www.meetme.com/ | No |
 | MeetVibe | https://meetvibe.com/ | No |
 | Meetup | https://www.meetup.com/ | Yes |
@@ -206,7 +206,7 @@ Below is a list of social networks/social media apps worldwide.
 | Mocospace | https://www.mocospace.com/ | No |
 | Moodle | https://moodle.org/ | Yes |
 | MouthShut | https://mouthshut.com/ | No |
-| Mubi | https://mubi.com/ | No |
+| Mubi | https://mubi.com/ | Yes |
 | My Photo Diary | https://www.myphotodiary.com/ | No |
 | My world | https://my.mail.ru/ | No |
 | MyHeritage | https://www.myheritage.com/ | No |
@@ -217,24 +217,24 @@ Below is a list of social networks/social media apps worldwide.
 | Nearby | https://www.wnmlive.com/ | No |
 | Newgrounds | https://www.newgrounds.com/ | No |
 | Nexopia | https://forums.nexopia.com/ | No |
-| Nextdoor | https://nextdoor.com/ | No |
+| Nextdoor | https://nextdoor.com/ | Yes |
 | Niconico | https://www.nicovideo.jp/ | No |
 | Ning | https://www.ning.com/ | No |
 | Odnoklassniki | https://ok.ru/ | No |
 | Okuna | https://www.okuna.io/ | No |
-| OneWay | https://oneway.com/ | No |
+| OneWay | https://oneway.com/ | Yes |
 | OpenDiary | https://www.opendiary.com/ | No |
 | OpenWeb | https://openweb.com/ | Yes |
 | Opportunity | https://myopportunity.com/ | Yes |
 | OutEverywhere | https://www.outeverywhere.com/ | No |
-| PEERtrainer | https://www.peertrainer.com/ | No |
+| PEERtrainer | https://www.peertrainer.com/ | Yes |
 | Parler | https://parler.com/ | Yes |
 | Partyflock | https://partyflock.nl/ | No |
 | Path | https://path.com/ | No |
-| PatientsLikeMe | https://www.patientslikeme.com/ | No |
+| PatientsLikeMe | https://www.patientslikeme.com/ | Yes |
 | Paysbook | https://paysbook.com/ | Yes |
 | Peach | https://peach.cool/ | No |
-| Peanut | https://www.peanut-app.io/ | No |
+| Peanut | https://www.peanut-app.io/ | Yes |
 | Peloton | https://www.onepeloton.com/ | Yes |
 | Periscope | https://www.periscope.tv/ | No |
 | Pinterest | https://www.pinterest.com/ | No |
@@ -245,11 +245,11 @@ Below is a list of social networks/social media apps worldwide.
 | PlentyofFish | https://www.pof.com/ | Yes |
 | Plurk | https://www.plurk.com/ | Yes |
 | Portfolium | https://portfolium.com/ | Yes |
-| Postcrossing | https://www.postcrossing.com/ | No |
+| Postcrossing | https://www.postcrossing.com/ | Yes |
 | ProductHunt | https://www.producthunt.com/ | Yes |
 | Quora | https://www.quora.com/ | Yes |
 | Qzone | https://qzone.qq.com/ | Yes |
-| Raftr | https://www.raftr.com/ | No |
+| Raftr | https://www.raftr.com/ | Yes |
 | RallyPoint | https://www.rallypoint.com/ | No |
 | Ravelry | https://www.ravelry.com/ | Yes |
 | Readgeek | https://readgeek.com/ | Yes |
@@ -264,20 +264,20 @@ Below is a list of social networks/social media apps worldwide.
 | Second Life | https://secondlife.com/ | No |
 | Sedang | https://medium.com/ | Yes |
 | Sharesome | https://sharesome.com/ | Yes |
-| Shutterfly | https://www.shutterfly.com/ | No |
+| Shutterfly | https://www.shutterfly.com/ | Yes |
 | Signal | https://signal.org/ | Yes |
 | Skoob | https://www.skoob.com.br/ | Yes |
 | Skype | https://www.skype.com/ | No |
 | Skyrock | https://skyrock.com/ | No |
 | Slack | https://slack.com/ | No |
-| Slashdot | https://slashdot.org/ | No |
+| Slashdot | https://slashdot.org/ | Yes |
 | SlideServe | https://www.slideserve.com/ | No |
 | Sluggy Freelance | https://www.sluggy.com/ | Yes |
 | Smartican | https://smartican.com/ | No |
 | Snapchat | https://www.snapchat.com/ | Yes |
 | Snapfish | https://www.snapfish.com/ | Yes |
 | Snow | https://snow.me/ | No |
-| Solaborate | https://www.solaborate.com/ | No |
+| Solaborate | https://www.solaborate.com/ | Yes |
 | Something Awful | https://somethingawful.com/ | Yes |
 | SoundCloud | https://soundcloud.com/ | Yes |
 | Spaces | https://spaces.im/ | No |
@@ -292,8 +292,8 @@ Below is a list of social networks/social media apps worldwide.
 | StudiVZ | https://www.studivz.net/ | No |
 | Stumbleupon | https://www.stumbleupon.com/ | No |
 | Swarm | https://www.swarmapp.com/ | No |
-| TVTime | https://www.tvtime.com/ | No |
-| TalentHouse | https://www.talenthouse.com/ | No |
+| TVTime | https://www.tvtime.com/ | Yes |
+| TalentHouse | https://www.talenthouse.com/ | Yes |
 | Taringa! | https://www.taringa.net/ | Yes |
 | Telegram | https://www.telegram.org/ | No |
 | Telfie | https://telfie.com/ | Yes |
@@ -302,7 +302,7 @@ Below is a list of social networks/social media apps worldwide.
 | The Sphere | https://www.the-sphere.com/ | No |
 | Thinkspot | https://thinkspot.com/ | No |
 | Threema | https://threema.ch/ | No |
-| Tiktok | https://www.tiktok.com/ | No |
+| Tiktok | https://www.tiktok.com/ | Yes |
 | Tinder | https://www.gotinder.com/ | Yes |
 | Tingles | https://www.gettingles.com/ | Yes |
 | TotalRecut | https://www.totalrecut.com/ | No |
@@ -310,27 +310,27 @@ Below is a list of social networks/social media apps worldwide.
 | Trombi | https://www.trombi.com/ | No |
 | Tudou | https://www.tudou.com/ | No |
 | Tuenti | https://www.tuenti.com/ | No |
-| Tumblr | https://www.tumblr.com/ | No |
+| Tumblr | https://www.tumblr.com/ | Yes |
 | Twitch | https://www.twitch.tv/ | No |
 | Twitter | https://twitter.com/ | No |
 | Twoo | https://www.twoo.com/ | No |
 | Untappd | https://untappd.com/ | Yes |
-| Uplike | https://uplike.com/ | No |
+| Uplike | https://uplike.com/ | Yes |
 | VK | https://vk.com/ | No |
 | VampireFreaks | https://vampirefreaks.com/ | Yes |
 | Vero | https://vero.co/ | Yes |
 | Viadeo | https://www.viadeo.com/ | No |
 | Viber | https://www.viber.com/ | Yes |
-| Vimeo | https://vimeo.com/ | No |
+| Vimeo | https://vimeo.com/ | Yes |
 | Vine | https://vine.co/ | No |
-| Vingle | https://www.vingle.net/ | No |
+| Vingle | https://www.vingle.net/ | Yes |
 | Voat | https://voat.co/ | Yes |
 | WAYN | https://www2.wayn.com/ | Yes |
 | Wanelo | https://wanelo.com/ | Yes |
-| Warm Showers | https://www.warmshowers.org/ | No |
+| Warm Showers | https://www.warmshowers.org/ | Yes |
 | Wattpad | https://www.wattpad.com/ | Yes |
-| We Heart It | https://weheartit.com/ | No |
-| WeChat | https://www.wechat.com/ | No |
+| We Heart It | https://weheartit.com/ | Yes |
+| WeChat | https://www.wechat.com/ | Yes |
 | WeGather | https://www.wegather.online/ | No |
 | Webnode | https://www.webnode.com/ | No |
 | Weibo | https://weibo.com/ | No |
@@ -342,14 +342,14 @@ Below is a list of social networks/social media apps worldwide.
 | Wize | https://wize.life/ | No |
 | Woddal | https://www.woddal.com/ | No |
 | Woozworld | https://www.woozworld.com/ | No |
-| WriteAPrisoner | https://www.writeaprisoner.com/ | No |
+| WriteAPrisoner | https://www.writeaprisoner.com/ | Yes |
 | Wykop | https://wykop.pl/ | Yes |
 | Xanga | https://www.xanga.com/ | Yes |
 | Xing | https://www.xing.com/ | No |
 | YTMND | https://www.ytmnd.com/ | No |
 | Yammer | https://yammer.com/ | Yes |
 | Yelp | https://www.yelp.com/ | Yes |
-| Yo | https://www.justyo.co/ | No |
+| Yo | https://www.justyo.co/ | Yes |
 | Yooco | https://www.yooco.org/ | Yes |
 | YouTube | https://www.youtube.com/ | No |
 | Youku | https://www.youku.com/ | No |
@@ -359,7 +359,7 @@ Below is a list of social networks/social media apps worldwide.
 | Zoom | https://zoom.us/ | Yes |
 | Zotero | https://www.zotero.org/ | No |
 | Zynga | https://www.zynga.com/ | No |
-| aNobii | https://www.anobii.com/ | No |
+| aNobii | https://www.anobii.com/ | Yes |
 | alimero | https://alimero.ru/ | Yes |
 | beBee | https://www.bebee.com/ | No |
 | eToro | https://www.etoro.com/ | Yes |
@@ -375,8 +375,8 @@ Below is a list of social networks/social media apps worldwide.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 133 |
-| Normal | 222 |
+| Cloudflare | 182 |
+| Normal | 173 |
 
 
-### 37.5% of public social networks/social media are using Cloudflare.
+### 51.3% of public social networks/social media are using Cloudflare.
