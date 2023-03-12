@@ -92,7 +92,7 @@
     - [How many % of Pharmaceutical companies are using Cloudflare?](cloudflared/pharmaceutical.md)
     - [How many % of Energy cooperatives are using Cloudflare?](cloudflared/energy_cooperatives.md) #Power #Electricity
     - [How many % of fast food restaurants are using Cloudflare?](cloudflared/fastfood.md)
-  - `Mail, Chat, Social Media`
+  - `Mail, Chat, Social`
     - [How many % of disposable email domains are using Cloudflare?](cloudflared/disposable_email.md)
     - [How many % of email (email exchanged between Gmail) domains are using Cloudflare?](cloudflared/gmail_email_domains.md)
     - [How many % of XMPP domains are using Cloudflare?](cloudflared/xmpp_domains.md)
@@ -100,6 +100,7 @@
     - [How many % of public Fediverse services are using Cloudflare?](cloudflared/fediverse.md)
       - [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared/shared_mastodon.md)
     - [How many % of public Matrix services are using Cloudflare?](cloudflared/matrix.md)
+    - [How many % of domains listed on Webring are using Cloudflare?](cloudflared/webring.md)
   - `Software, Public API`
     - [How many % of SSL certificates are issued to Cloudflare sites?](cloudflared/ssl_certificate.md)
     - [How many % of Mozilla's Root CAs are using Cloudflare?](cloudflared/mozilla_rootca.md)
