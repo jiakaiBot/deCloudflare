@@ -273,6 +273,7 @@ apimedicina-pre.quironprevencion.com
 areyourapturereadynow.qcpsystems.com
 areyourapturereadynow2.qcpsystems.com
 audienceview.queue-it.net
+bancoplannerws.qcertifica.com.br
 bmms.quantori.com
 coronacheck.questio.care
 corporate-api.quest2travel.in
@@ -304,6 +305,7 @@ qh88.io
 qmars.com
 qp-works.com
 qpa-p1.qvidian.com
+qplanet.in
 qralert.ro
 qsteam.pl
 qtreserv.q-revo-test.com
