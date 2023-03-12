@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [failed to retrieve memory content when domain under cloudflare](https://github.com/negrutiu/nsis-nsxfer/issues/3)
 - [Cannot connect to integration manager](https://github.com/vector-im/element-integration-manager/issues/39)
 - [Cannot connect to integration manager](https://github.com/vector-im/element-web/issues/24803)
 - [Very large _routes.json file, crashing deployments on Cloudflare Pages](https://github.com/withastro/astro/issues/6516)
