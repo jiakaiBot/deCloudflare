@@ -4,12 +4,12 @@
 
 ---
 
-- Add-ons
+- **Add-ons**
   - [Block Cloudflare MITM Attack](addon/bcma.md)
   - [Will these links block Tor user?](addon/isat.md)
   - [Are links vulnerable to MITM attack?](addon/ismm.md)
   - [Which website rejected me?](addon/urjm.md)
-- Service
+- **Service**
   - [Karma API](service/karma_api.md)
   - [Ombrelo](service/ombrelo.md)
   - [IAList](https://ialist.crimeflare.eu.org)
@@ -18,10 +18,10 @@
   - [Clearnet Onion](https://clearnetonion.eu.org)
   - [Crimeflare Mail](https://mail.crimeflare.eu.org)
   - [This repository as website](https://decloudflare.crimeflare.eu.org) by @vXtreniusX
-- Cloudflare Alternatives
+- **Cloudflare Alternatives**
   - [Cloudflare Alternatives](alternative/cloudflare.md)
   - [Cloudflare DNS Alternatives](alternative/domaindns.md)
-- Cloudflared
+- **Cloudflared**
   - How many % of top most sites/domains?
     - [How many % of top 1 million most popular domains are using Cloudflare?](cloudflared/top/cloudflare.md) _Cloudflare_
     - [How many % of top 1 million most popular domains are using Cloudflare?](cloudflared/top/tranco.md) _Tranco_
@@ -108,6 +108,15 @@
     - [How many % of F-Droid mirror sites are using Cloudflare?](cloudflared/fdroid_mirrors.md)
     - [How many % of WHOIS services are using Cloudflare?](cloudflared/whois.md)
     - [How many % of DNS-over-HTTPS (DoH) are using Cloudflare?](cloudflared/dns-over-https.md)
+  - `Service`
+    - [How many % of public Git services are using Cloudflare?](cloudflared/service/gitservices.md)
+    - [How many % of public Torrent services are using Cloudflare?](cloudflared/service/torrents.md)
+    - [How many % of online video platforms are using Cloudflare?](cloudflared/service/videoplatform.md)
+    - [How many % of File hosting / File sharing services are using Cloudflare?](cloudflared/service/filehosting.md)
+    - [How many % of VPN services are using Cloudflare?](cloudflared/service/vpnservice.md)
+    - [How many % of Domain name registrars are using Cloudflare?](cloudflared/service/domain_registrars.md)
+    - [How many % of Hosting Providers are using Cloudflare on their site?](cloudflared/service/hostingprovider.md)
+    - [How many % of Search engines are using Cloudflare?](cloudflared/service/searchengines.md)
   - `Domain type`
     - [How many % of adverts and trackers are using Cloudflare?](cloudflared/adverts.md)
     - [How many % of pornographic domains are using Cloudflare?](cloudflared/pornography.md)
@@ -116,15 +125,8 @@
     - [How many % of malware domains are using Cloudflare?](cloudflared/malware.md)
     - [How many % of URL Shortener services are using Cloudflare?](cloudflared/urlshortening.md)
   - [How many % of DNS Census (2013) are using Cloudflare?](cloudflared/dns_census_2013.md)
-  - [How many % of public Git services are using Cloudflare?](cloudflared/gitservices.md)
-  - [How many % of public Torrent services are using Cloudflare?](cloudflared/torrents.md)
-  - [How many % of online video platforms are using Cloudflare?](cloudflared/videoplatform.md)
-  - [How many % of File hosting / File sharing services are using Cloudflare?](cloudflared/filehosting.md)
-  - [How many % of VPN services are using Cloudflare?](cloudflared/vpnservice.md)
-  - [How many % of Domain name registrars are using Cloudflare?](cloudflared/domain_registrars.md)
-  - [How many % of Hosting Providers are using Cloudflare on their site?](cloudflared/hostingprovider.md)
   - [How many % of domains listed in Netzsperren Liwest are using Cloudflare?](subfiles/cloudflared/netzsperren_liwest.md)
-- Name Servers on the Internet
+- **Name Servers on the Internet**
   - `2021`
     - [September](nameservers/2021-09.md)
     - [December](nameservers/2021-12.md)
@@ -144,7 +146,7 @@
     - [January](nameservers/2023-01.md)
     - [February](nameservers/2023-02.md)
     - [March](nameservers/2023-03.md)
-- Cloudflare attracts "repeat infringers"
+- **Cloudflare attracts "repeat infringers"**
   - classics: [CloudFlare attracts "repeat infringers"](classics/repeats.md)
   - `2021`
     - [June](repeat_infringers/2021-06.md)
@@ -165,17 +167,17 @@
     - [January](repeat_infringers/2023-01.md)
     - [February](repeat_infringers/2023-02.md)
     - [March](repeat_infringers/2023-03.md)
-- Shared on
+- **Shared on**
   - [Shared on Twitter](shared_on_twitter.md)
   - [Shared on Mastodon](shared_on_mastodon.md)
-- [PEOPLE.md](../PEOPLE.md)
-  - [Twitter](people/twitter.md)
-  - [Mastodon](people/mastodon.md)
-- How to Block Cloudflare
+- **How to Block Cloudflare**
   - [with DNS](block_cloudflare_with/dns.md)
   - [with Firewall](block_cloudflare_with/firewall.md)
   - [with Proxy](block_cloudflare_with/proxy.md)
   - [on Android](block_cloudflare_with/android.md)
+- [PEOPLE.md](../PEOPLE.md)
+  - [Twitter](people/twitter.md)
+  - [Mastodon](people/mastodon.md)
 - [CloudFlare Watch](classics/README.md)
 - [Change default DNS provider of Firefox](change-firefox-dns.md)
 - [How to use Chromium with Tor](chromium_tor.md)
