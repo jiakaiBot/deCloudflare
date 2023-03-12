@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,835 |
 | net | 3,035 |
 | org | 2,103 |
-| de | 1,973 |
+| de | 1,974 |
 
 
 - Mastodon, Pleroma, etc
@@ -17855,7 +17855,7 @@ Here's a list of public Fediverse services.
 | `knova.net` | No |
 | `know.me.uk` | No |
 | `knowbility.nl` | No |
-| `knowfeeldo.xyz` | Yes |
+| `knowfeeldo.xyz` | No |
 | `knowhere.cafe` | Yes |
 | `knowingart.com` | No |
 | `knowltonwx.com` | Yes |
@@ -27020,7 +27020,7 @@ Here's a list of public Fediverse services.
 | `pisskey.io` | No |
 | `pissqordia.space` | No |
 | `pistoltrainers.com` | No |
-| `pitchfork.club` | Yes |
+| `pitchfork.club` | No |
 | `pite.biz` | No |
 | `pitichampi.fr` | No |
 | `pitman.social` | No |
@@ -29188,6 +29188,7 @@ Here's a list of public Fediverse services.
 | `revstance.network` | No |
 | `revue-farouest.fr` | No |
 | `revue.icu` | No |
+| `revvy.de` | Yes |
 | `rewa.mobi` | No |
 | `rewrite.in.rs` | Yes |
 | `rex.gs` | No |
@@ -39601,8 +39602,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,707 |
-| Normal | 29,851 |
+| Cloudflare | 9,706 |
+| Normal | 29,853 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
