@@ -126,6 +126,7 @@ Here's a list of public Matrix services.
 | unita.online | No |
 | matrix.unredacted.org | Yes |
 | matrix.snt.utwente.nl | No |
+| mtrx.vern.cc | No |
 | matrix.virto.community | Yes |
 | webchat.weho.st | No |
 | xmr.se | No |
@@ -137,7 +138,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 22 |
-| Normal | 87 |
+| Normal | 88 |
 
 
-### 20.2% of public Matrix services are using Cloudflare.
+### 20% of public Matrix services are using Cloudflare.
