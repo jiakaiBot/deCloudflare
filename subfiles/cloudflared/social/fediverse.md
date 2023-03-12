@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,921 |
 | social | 3,835 |
-| net | 3,036 |
+| net | 3,037 |
 | org | 2,103 |
 | de | 1,974 |
 
@@ -6634,6 +6634,7 @@ Here's a list of public Fediverse services.
 | `cosmin.at` | No |
 | `cosmo.do` | No |
 | `cosmos.social` | Yes |
+| `cosmoschaos.net` | No |
 | `cosnomi.com` | Yes |
 | `cosocial.ca` | No |
 | `cosp.la` | No |
@@ -9614,6 +9615,7 @@ Here's a list of public Fediverse services.
 | `electricpea.ch` | No |
 | `electricrequiem.com` | No |
 | `electrifyingcloud.com` | Yes |
+| `electro.moe` | Yes |
 | `electro.social` | Yes |
 | `electron.ninja` | No |
 | `electronblueberry.xyz` | No |
@@ -38941,6 +38943,7 @@ Here's a list of public Fediverse services.
 | `yjmbo.net` | No |
 | `yjsnpi.club` | No |
 | `yjsnpi.nu` | No |
+| `yka.moe` | Yes |
 | `ykiadon.net` | No |
 | `yknk.work` | No |
 | `yko.me` | No |
@@ -39605,8 +39608,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,709 |
-| Normal | 29,853 |
+| Cloudflare | 9,711 |
+| Normal | 29,854 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
