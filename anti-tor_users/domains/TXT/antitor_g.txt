@@ -1042,7 +1042,6 @@ tour-partner-api.gmarket.com
 tpc.googlesyndication.com
 tpp.globusbank.com
 tracking.get-your-rates-right.com
-trading.globalprime.com
 translate.google.com
 trends.google.com
 trends.google.de
@@ -3966,6 +3965,7 @@ fqwujqwjh.godaddysites.com
 fr.greatcitizens.org
 frontendeveloperanass.github.io
 g-hash.com
+g4aintermediacoes.com.br
 gabrielhemery.com
 gabz.blog
 gackulithalai.ac.in
@@ -3981,6 +3981,7 @@ gambiaembassydc.us
 gambling-casinos-guide.com
 gamesupport.in
 ganandoconvideos.com
+gangburger.pl
 garageglasgow.co.uk
 garagelorre.fr
 garageotobaoan.com
@@ -4012,6 +4013,7 @@ geburtstagsideen.de
 geckofort.xyz
 geektushin.com
 gefw001.geru.de
+gegbrazil.com
 geizhals.at
 gelderbloem.com
 geldgrinden.nl
@@ -4026,6 +4028,7 @@ genealogyalacarte.ca
 genealysis.com
 generalcleaninggroup.co.uk
 generasipeneliti.id
+generative-placeholders.glitch.me
 generatorfree.net
 genevairbank.ml
 genevatradelaw.com
@@ -4034,9 +4037,12 @@ genius.com.al
 geniuscreations.pl
 genopets-verify-connect.in
 genplastics.com
+gens.com.co
+gentra.co.id
 geologicmapsfoundation.org
 gerenciador-on-security.online
 geriatricos-argentina.com
+germanlanguagecourses.in
 gertecti.com.br
 gertkracht.nl
 get-sahibinden-paramguvende.tk
@@ -4076,6 +4082,7 @@ givealilbit.com
 givealilbit.io
 gk-facility-services.de
 glam-celebrity-news.com
+glamlure.ro
 glamoryhosiery.com
 gleppy.com
 glitterbeat.com
@@ -4118,6 +4125,7 @@ goldenrod-caterwauling-aquarius.glitch.me
 goldmandarin.in.ua
 goldstandard.co.il
 golebatmazyapi.com
+golfconcept.pt
 golfgraha.com
 golfplusonemedia.com
 gonzalezpalacios.com
@@ -4173,6 +4181,7 @@ greenlit.org.nz
 greenpayindia.com
 greenpete.co.uk
 greenpresso.shop
+greenwashmovil28.es
 greenworld.org.uk
 gregstolze.com
 greysforgreen.org
@@ -4195,6 +4204,7 @@ gruene-zh.ch
 grupoaspa.com
 grupocometa.com.do
 grupodoavesso.pt
+grupoesperancasp.com.br
 grupoflorindo.com.br
 grupohelpbrasil.com.br
 grupohummer.com.pe
@@ -4220,6 +4230,7 @@ gts-security.ro
 guardianangelsecurity.co.za
 guardiancoronacidalshield.com
 guiaturismoouropretohermes.com.br
+guidancefoundation.in
 guildofscientifictroubadours.com
 guitarcraft.com
 gujo-tv.jp
@@ -4229,6 +4240,7 @@ gunesdogaltas.com
 guns-glory.com
 gupshup.globalbot.ai
 guptapinewood.in
+gurugames.com.br
 gutenberg.ca
 gwent-preprod-origin-lb6.gog-preprod.com
 gyakuten-kutikomi.site
@@ -4437,6 +4449,7 @@ steam.goodblah.net
 steeven9.github.io
 stg.g123.jp
 store.giesso.com.ar
+strange-attraction.glitch.me
 streets-london.glitch.me
 studio.glassnode.io
 subclipse.github.io
@@ -4595,6 +4608,7 @@ www.gerichtssachverstaendige.at
 www.gesayapi.com
 www.getbooking247.com
 www.getemsoldent.com
+www.getfinding.co.uk
 www.getnicklivingston.com
 www.getnrbc.com
 www.getoutmorecic.co.uk
@@ -4602,6 +4616,7 @@ www.gettysburgtimes.com
 www.getvideodyno.com
 www.getworkgear.com
 www.gfh.org.il
+www.gfix.com.br
 www.gfjpost1700.org
 www.gfwcwyoming.org
 www.ggand.com.au
@@ -4652,6 +4667,7 @@ www.glowstudiobyvelbella.com
 www.glucogear.com.br
 www.glutensiznokta.com
 www.glutensiznokta.com.tr
+www.gmeaservices.com
 www.gmipost.com
 www.gnvclean.com
 www.goameritrade.com
@@ -4662,6 +4678,7 @@ www.gochaseflow.com
 www.godirectexpress.ca
 www.gofigure.net.au
 www.gogofoundation.org.au
+www.gohar-gohar.co.il
 www.goibibo.com
 www.gokcecelikyapi.com
 www.gokeryapi.com
@@ -4669,6 +4686,7 @@ www.goldbridgetutors.co.uk
 www.goldengoosesecurity.net
 www.goldenrodfarm.com
 www.goldensunpalace.com
+www.goldin.com.uy
 www.goldmancoevents.com
 www.goldmanfc.com
 www.goldmangroup.com.au
@@ -4690,9 +4708,11 @@ www.goodstory.us
 www.goodtea.ca
 www.google-deskundige.nl
 www.google-my-business.com
+www.google.org
 www.google360graus.com
 www.googledmoviereviews.com
 www.googlejournal.in
+www.googlelittrips.org
 www.googleme.info
 www.googlemyart.com
 www.googleparaguinchos.com
@@ -4734,6 +4754,7 @@ www.greatnorthernbikepacking.com
 www.greatsuccesssummit.com
 www.green-nitrogen.com
 www.green-swiss.ch
+www.green19.de
 www.greeneking-pubs.co.uk
 www.greenergyresourcescorp.com
 www.greeninstitute.org.au
@@ -4754,11 +4775,14 @@ www.groenedromen.nl
 www.grogsantander.com
 www.gromaxonline.com
 www.groovemachine2012.com
+www.grosser-athletik.de
 www.groundworkmg.com
 www.grservice.fi
 www.grtech.gtech-controls.com.mx
 www.gruasecuador.com
 www.gruber-lueftung.com
+www.grupocibien.com.br
+www.grupoedi.com.co
 www.grupofinanville.com.br
 www.grupogec.com.co
 www.grupopesso.com
