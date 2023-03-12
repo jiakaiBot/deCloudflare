@@ -25613,6 +25613,7 @@ Here's a list of public Fediverse services.
 | `openalgeria.org` | No |
 | `openbargel.com` | Yes |
 | `openbarnum.org` | Yes |
+| `openbiblio.eu` | No |
 | `openbiblio.social` | No |
 | `openbracket.ca` | No |
 | `openchessbooks.org` | No |
@@ -39610,7 +39611,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,711 |
-| Normal | 29,855 |
+| Normal | 29,856 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
