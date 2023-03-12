@@ -9236,6 +9236,7 @@ Do not create new issue or we will close it as duplicate.
 | [REYNARDPERMEJO@twitter](https://twitter.com/REYNARDPERMEJO/status/1588537048193183744) | advertise |
 | [RezaeShahram@twitter](https://twitter.com/RezaeShahram/status/1583969859041230848) | advertise |
 | [rezagolami_98@twitter](https://twitter.com/rezagolami_98/status/1501473867461799936) | advertise |
+| [Rezam39708754@twitter](https://twitter.com/Rezam39708754/status/1634771035034640389) | advertise |
 | [RezaulK30725462@twitter](https://twitter.com/RezaulK30725462/status/1529533295041875970) | advertise |
 | [RezuKyonyu@twitter](https://twitter.com/RezuKyonyu/status/1384584149902651392) | advertise |
 | [rgeekuk@twitter](https://twitter.com/rgeekuk/status/1485614393937256463) | advertise |
