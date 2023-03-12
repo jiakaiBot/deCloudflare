@@ -1670,6 +1670,7 @@ Do not create new issue or we will close it as duplicate.
 | [boonboonko@twitter](https://twitter.com/boonboonko/status/1405526689757626382) | advertise |
 | [boonpraserd@twitter](https://twitter.com/boonpraserd/status/1383968362137411589) | advertise |
 | [BoonsomJack@twitter](https://twitter.com/BoonsomJack/status/1392867374039060485) | advertise |
+| [boonyakornBoon4@twitter](https://twitter.com/boonyakornBoon4/status/1635010135402885120) | advertise |
 | [boonza2546@twitter](https://twitter.com/boonza2546/status/1379747386071773184) | advertise |
 | [boothongminh@twitter](https://twitter.com/boothongminh/status/1585533406703599617) | advertise |
 | [BoozelLynn@twitter](https://twitter.com/BoozelLynn/status/1516227858288586757) | advertise |
@@ -10750,8 +10751,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
