@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,924 |
 | social | 3,836 |
-| net | 3,040 |
+| net | 3,041 |
 | org | 2,103 |
 | de | 1,974 |
 
@@ -8852,6 +8852,7 @@ Here's a list of public Fediverse services.
 | `dou10s.com` | No |
 | `douban.city` | Yes |
 | `doubanbazu.website` | No |
+| `double-oxygen.net` | Yes |
 | `doublefree.net` | Yes |
 | `doubleloop.net` | No |
 | `doubleshine.cc` | Yes |
@@ -39628,7 +39629,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,719 |
+| Cloudflare | 9,720 |
 | Normal | 29,866 |
 
 
