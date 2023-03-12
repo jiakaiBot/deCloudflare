@@ -1,4 +1,4 @@
-# Alternative Link (AltLink)
+# Alternative Link (AltLink; MitiGator)
 
 
 | 🖼 | 🖼 |
@@ -52,7 +52,7 @@ One of Mastodon server owner once [said](../../tool/mastodonwch#some-public-reac
 For the record "_CloudflareLink_" was moved to other Mastodon servers 3 times and banned 2 times by 2 Mastodon services until the Anonymous decided to given up for good.
 
 The main difference of AltLink is `opt-in`.
-Those people who [share Cloudflare links casually](../cloudflared/shared_mastodon.md) never receive notification until they have a good heart and follow AL.
+Those people who [share Cloudflare links casually](../cloudflared/social/shared_mastodon.md) never receive notification until they have a good heart and follow AL.
 
 
 ### How to Subscribe
@@ -157,6 +157,6 @@ The mascot wears a referee top and red sash across chest. Above the shield is 'M
 - Mastodon servers are controlled by third party.
   - Let us know if above account is censored by aggressive Cloudflare supporters.
 - ↳ ["Cloudflare, we have a problem" Mastodon](../people/mastodon.md)
-- ↳ [How many % of public Fediverse services are using Cloudflare?](../cloudflared/fediverse.md)
-- ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](../cloudflared/shared_mastodon.md)
+- ↳ [How many % of public Fediverse services are using Cloudflare?](../cloudflared/social/fediverse.md)
+- ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](../cloudflared/social/shared_mastodon.md)
 
