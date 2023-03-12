@@ -8852,7 +8852,6 @@ Here's a list of public Fediverse services.
 | `dou10s.com` | No |
 | `douban.city` | Yes |
 | `doubanbazu.website` | No |
-| `double-oxygen.net` | Yes |
 | `doublefree.net` | Yes |
 | `doubleloop.net` | No |
 | `doubleshine.cc` | Yes |
@@ -16738,6 +16737,7 @@ Here's a list of public Fediverse services.
 | `jonleibowitz.social` | Yes |
 | `jonmasters.social` | No |
 | `jonossaseuraava.eu` | Yes |
+| `jonossaseuraava.net` | No |
 | `jonpark.co.uk` | No |
 | `jonproulx.com` | No |
 | `jonquan.cf` | No |
@@ -39628,8 +39628,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,720 |
-| Normal | 29,865 |
+| Cloudflare | 9,719 |
+| Normal | 29,866 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
