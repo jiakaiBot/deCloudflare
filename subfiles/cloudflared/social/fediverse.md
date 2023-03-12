@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,926 |
+| com | 5,927 |
 | social | 3,836 |
 | net | 3,041 |
 | org | 2,103 |
@@ -15526,6 +15526,7 @@ Here's a list of public Fediverse services.
 | `indoors.trade` | No |
 | `indoorsman.ee` | No |
 | `indoverse.nl` | Yes |
+| `inductive.space` | No |
 | `indulgent.art` | No |
 | `indy.im` | No |
 | `indyjp.club` | No |
@@ -16171,6 +16172,7 @@ Here's a list of public Fediverse services.
 | `jacky.wtf` | No |
 | `jacl.tech` | Yes |
 | `jacobandersen.dev` | Yes |
+| `jacobhaddon.com` | No |
 | `jacobian.org` | Yes |
 | `jacobneplokh.com` | Yes |
 | `jacobpa.com` | Yes |
@@ -39639,7 +39641,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,722 |
-| Normal | 29,873 |
+| Normal | 29,875 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
