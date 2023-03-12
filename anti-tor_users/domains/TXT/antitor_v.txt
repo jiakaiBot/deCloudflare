@@ -1510,6 +1510,7 @@ ddssync-lane32.qa.vivonet.com
 ddssync-lane32b.qa.vivonet.com
 de.device-usagebox.production-eu.cookidoo.vorwerk-digital.com
 delta.vtac.edu.au
+desktop.vdata.cloud
 dev.vanbokhovensecurity.nl
 discord.valkirias.xyz
 discord4j.vercel.app
@@ -1652,7 +1653,10 @@ sberbank.sber.avito.avito.sber.avito.covid19.vossbryggeri.com
 sberbank.sber.avito.avito.www.sber.covid19.vr-cosmetology.ru
 sberbank.sber.avito.blablacar.avito.covid19.vossbryggeri.com
 sberbank.sber.avito.sber.avito.avito.covid19.vojvodinanet.com
+sberbank.sber.avito.www.avito.covid19.vr-cosmetology.ru
 sberbank.sber.avito.www.avito.www.covid19.vojvodinanet.com
+sberbank.sber.sber.avito.avito.git.covid19.vesta-donors.com
+sberbank.sber.sber.avito.blablacar.covid19.vesta-donors.com
 sberbank.sber.sber.blablacar.avito.sber.covid19.view-manager.com
 secure.vertiforge.com
 secure.vms4fx.com
@@ -1751,6 +1755,7 @@ vgrfokus.se
 via.vmw.com
 viabucuresti.ro
 viacbs.ru
+viagemparaochile.com.br
 vialsafe.co
 viaplay.com
 viaplay.dk
@@ -1759,6 +1764,7 @@ viasicura.hu
 viator-booking.hr
 vibenshusoejenklinik.dk
 vibrantbilling.com
+vicemagazin.ro
 victoriafcu.org
 victoriahistoricalsociety.bc.ca
 victoriamutual.com
@@ -1775,6 +1781,7 @@ viergeverclan.nl
 viesti.fi
 viewpointvancouver.ca
 vigarza.com
+vignoblejaumouille.fr
 viiri-audio.com
 vijayabank.co
 vijayacentral.com
@@ -1821,6 +1828,7 @@ vivabritannia.de
 vivatequis.com
 viveecosse.com
 vivoeusebio.com
+vivovet.be
 vj22.de
 vkc.sh
 vkninvestmentcorp.com
@@ -1847,10 +1855,12 @@ voltafa.org
 voltagemenergia.com.br
 voltcoinwallet.co.uk
 voltedu.com
+voor50plussers.nl
 vortesso.com
 vosges.vivrest.com
 voutu.be
 voxmediaevents.com
+voxtur.ae
 voyage-quantique.fr
 voyagebaltimore.com
 voyageraleigh.com
@@ -1942,6 +1952,7 @@ www.vakif87.org
 www.valdoriscom.ro
 www.valenciasolarmonitoring.com
 www.valentinaesl.com
+www.valeriaartesmosaic.com
 www.valleydjservice.com
 www.valleynetworkinggroup.com
 www.valleyviewmotors.com
@@ -1956,8 +1967,10 @@ www.vancitysports.com
 www.vancorconsultinggroup.com
 www.vandoornsupport.nl
 www.vanerusso.com
+www.vanessa-telliam-consulting.fr
 www.vanichwathana.com
 www.vanier-association.com
+www.vanleeuwenbeheer.nl
 www.vans.de
 www.vanveen-vanhemertpost89.org
 www.vaporloungesc.com
@@ -2035,6 +2048,7 @@ www.vipacesso.com
 www.vipbooking.ch
 www.vipespresso.com.br
 www.virginiahearinggroup.com
+www.virginiegratien.fr
 www.virgoconsultinggroup.com
 www.virtualservice.net.br
 www.virtuousbookkeeping.com
@@ -2062,6 +2076,7 @@ www.voievodulgelu.ro
 www.volcansage.com
 www.volksbanken-vec.de
 www.volkswagenaksesuar.com.tr
+www.voltenergy.cz
 www.volunteerfortwayne.org
 www.volvocarsarrowhead.com
 www.vortexshippingservice.com
@@ -2084,7 +2099,9 @@ www.vrmakelaardij.nl
 www.vseinc.com
 www.vspa-asso.com
 www.vtbythebay.com
+www.vtcng.com
 www.vtechda.com
+www.vuelavi.com.co
 www.vulcangrill.com
 www.vwvwv-vakif-subesiz.com
 www.vytvorim.cz
