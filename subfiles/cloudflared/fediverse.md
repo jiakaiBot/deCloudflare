@@ -18366,6 +18366,7 @@ Here's a list of public Fediverse services.
 | `la-isabella.xyz` | No |
 | `la-photo-en-faits.com` | No |
 | `la-scic.fr` | No |
+| `la-seraphine.house` | No |
 | `la-verite-vaincra.com` | No |
 | `la-web-radio.eu` | Yes |
 | `la1.jp` | No |
@@ -39603,7 +39604,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,706 |
-| Normal | 29,853 |
+| Normal | 29,854 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
