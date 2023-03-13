@@ -1420,6 +1420,7 @@ Here's a list of public Fediverse services.
 | `allen.by` | Yes |
 | `allen.gg` | No |
 | `allencompassingtrip.com` | No |
+| `allerlei.it` | No |
 | `alleycat.site` | Yes |
 | `alleysmith.family` | No |
 | `allforall.network` | No |
@@ -18220,6 +18221,7 @@ Here's a list of public Fediverse services.
 | `kubiwa.moe` | No |
 | `kubo.social` | No |
 | `kubwa.dog` | No |
+| `kucera.it` | No |
 | `kudabiverse.com` | No |
 | `kudla.social` | No |
 | `kudomaru.com` | No |
@@ -35562,6 +35564,7 @@ Here's a list of public Fediverse services.
 | `trayvonmart.in` | Yes |
 | `trblcorp.com` | Yes |
 | `trblmkr.net` | Yes |
+| `treacherous.tech` | Yes |
 | `treadl.com` | No |
 | `treasuredgem.xyz` | No |
 | `treasurestate.social` | No |
@@ -39641,8 +39644,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,721 |
-| Normal | 29,877 |
+| Cloudflare | 9,722 |
+| Normal | 29,879 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
