@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,929 |
-| social | 3,838 |
-| net | 3,042 |
+| com | 5,934 |
+| social | 3,839 |
+| net | 3,043 |
 | org | 2,103 |
 | de | 1,977 |
 
@@ -2731,6 +2731,7 @@ Here's a list of public Fediverse services.
 | `avery-weir.net` | No |
 | `avery.cafe` | No |
 | `avery.garden` | No |
+| `averyjenkinsauthor.com` | No |
 | `averymatt.com` | Yes |
 | `averythefurry.com` | No |
 | `avete.world` | No |
@@ -5829,6 +5830,7 @@ Here's a list of public Fediverse services.
 | `chswx.social` | No |
 | `chth85.ovh` | No |
 | `chtisurel.net` | No |
+| `chubbs.rip` | No |
 | `chubbybubble.life` | No |
 | `chubbypaw.net` | Yes |
 | `chuck.town` | No |
@@ -5858,6 +5860,7 @@ Here's a list of public Fediverse services.
 | `ciaranconnelly.com` | No |
 | `ciaranmc.com` | No |
 | `ciberlandia.pt` | No |
+| `ciberneticagerber.it` | No |
 | `cicadaverse.com` | No |
 | `ciccarello.me` | No |
 | `cidiso.com` | No |
@@ -8400,6 +8403,7 @@ Here's a list of public Fediverse services.
 | `digitalcourage.social` | No |
 | `digitalcourage.video` | No |
 | `digitaldarkage.cc` | No |
+| `digitaldarkness.com` | No |
 | `digitaldata.social` | No |
 | `digitaldemocracies.org` | Yes |
 | `digitalesozialearbeit.de` | No |
@@ -13026,6 +13030,7 @@ Here's a list of public Fediverse services.
 | `glod.org` | Yes |
 | `glomzubuk.fr` | No |
 | `gloomspite.net` | No |
+| `gloomypixels.space` | No |
 | `gloon.jp` | No |
 | `glor.me` | No |
 | `gloria.lol` | No |
@@ -17469,6 +17474,7 @@ Here's a list of public Fediverse services.
 | `kensei.dev` | No |
 | `kensimon.io` | No |
 | `kent-dobias.com` | No |
+| `kephale.net` | Yes |
 | `ker.gay` | No |
 | `kerat.net` | No |
 | `kerekes.net.au` | No |
@@ -19024,6 +19030,7 @@ Here's a list of public Fediverse services.
 | `lgtm.systems` | No |
 | `lgtspd.net` | Yes |
 | `lguruprasad.in` | No |
+| `lgv2.com` | Yes |
 | `lgy.fr` | No |
 | `lh01.onl` | No |
 | `lhamadopago.de` | No |
@@ -23431,6 +23438,7 @@ Here's a list of public Fediverse services.
 | `myriad.social` | Yes |
 | `myright.social` | No |
 | `myrivera.com` | Yes |
+| `myrmidon.social` | Yes |
 | `myronland.com` | No |
 | `myrvog.net` | No |
 | `mysacredaltar.com` | No |
@@ -25567,6 +25575,7 @@ Here's a list of public Fediverse services.
 | `onlyroleplayth.com` | No |
 | `onlysomestories.com` | No |
 | `onmasto.com` | No |
+| `onnojam.es` | No |
 | `onore.org` | No |
 | `onosamo.tech` | No |
 | `onosend.ai` | No |
@@ -25839,6 +25848,7 @@ Here's a list of public Fediverse services.
 | `orthoheterodox.blog` | No |
 | `orties.net` | No |
 | `ortion.xyz` | No |
+| `ortodogs.info` | Yes |
 | `orwell.fun` | No |
 | `orx.me` | Yes |
 | `oryzon.studio` | No |
@@ -30684,6 +30694,7 @@ Here's a list of public Fediverse services.
 | `seance.online` | Yes |
 | `seaneboy.xyz` | No |
 | `seanmaddison.uk` | No |
+| `seanmcadam.online` | No |
 | `seanmorr.is` | Yes |
 | `seanos.net` | Yes |
 | `seanreiser.com` | Yes |
@@ -33318,6 +33329,7 @@ Here's a list of public Fediverse services.
 | `svartalfaheimr.net` | No |
 | `svasta.net` | Yes |
 | `sveafur.se` | Yes |
+| `svelte.gay` | Yes |
 | `sven-joerns.de` | No |
 | `svenbrier.de` | No |
 | `svenbrier.eu` | No |
@@ -33951,6 +33963,7 @@ Here's a list of public Fediverse services.
 | `techies.social` | Yes |
 | `techisland.social` | No |
 | `techknowlogick.com` | Yes |
+| `techlodon.com` | No |
 | `techlover.eu` | No |
 | `techmaturgy.club` | No |
 | `techn1k.de` | No |
@@ -33989,6 +34002,7 @@ Here's a list of public Fediverse services.
 | `techstartups.space` | No |
 | `techtea.io` | No |
 | `techthoughts.io` | No |
+| `techtodon.com` | Yes |
 | `techy.social` | Yes |
 | `techzerker.com` | Yes |
 | `teci.world` | No |
@@ -36697,6 +36711,7 @@ Here's a list of public Fediverse services.
 | `v2br.social` | No |
 | `v2x.org` | Yes |
 | `v3g.de` | No |
+| `v3ritas.tech` | No |
 | `v4d0r.com` | No |
 | `v4v.dev` | No |
 | `v5ox.com` | No |
@@ -39657,8 +39672,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,732 |
-| Normal | 29,882 |
+| Cloudflare | 9,738 |
+| Normal | 29,891 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
