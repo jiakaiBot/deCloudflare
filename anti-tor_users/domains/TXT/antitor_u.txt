@@ -1153,6 +1153,7 @@ api.c1.giin.urssaf.fr
 api.und-gesund.de
 api.urca.ca
 api.urssaf.fr
+api.userede.com.br
 apitst.upmchp.com
 app.uob.com.sg
 apps.uniprime.com.br
@@ -1248,6 +1249,7 @@ monitor.cs.uni-koeln.de
 monitoring.wafbtest.unilab-software.de
 mybcabisnis-api.u-appspecto.com
 nectr.utilibill.com.au
+nederland.unofficialbird.com
 netflixi.uber.space
 nirvanamanagedservices.updatemyprofile.com
 nouvelles.ulaval.ca
@@ -1335,6 +1337,7 @@ ukr-metall.com.ua
 ukrainecharitysupport.org
 ukrpost.org
 ultimatediscordentertainment.com
+ultimateint.net
 ultracyclingswiss.ch
 ummeio.org
 umrohmurahntb.com
@@ -1411,6 +1414,8 @@ uspstrksecure.org
 usso.uk
 usuireikiho.com.br
 usvazine.net
+uswired.info
+util.unicode.org
 utilajetransilvane.ro
 uu.ink
 uviworld.in
@@ -1434,6 +1439,7 @@ ws.universign.eu
 wstoreapps.uwaterloo.ca
 www-rmshisandhers-com.usrfiles.com
 www.898.az.unikalservice.com
+www.apply.uofnlonavala.org
 www.authdove.unitedecom.com
 www.bancodeoro.user-verify.com
 www.bedbreakfast.uberweb.co.za
@@ -1509,6 +1515,7 @@ www.udaipurupdate.com
 www.udsp82.fr
 www.udt.com
 www.ufologyiscorrupt.com
+www.uglyapples.co.uk
 www.ugotujcie.pl
 www.ugt.es
 www.ugtbalears.com
@@ -1518,6 +1525,7 @@ www.ukrinform.ua
 www.ukrpost.org
 www.ullswatercountryfair.co.uk
 www.ultimatefuelsaving.com
+www.ultimateint.net
 www.ultracyclingswiss.ch
 www.umigarrett.com
 www.un.org
