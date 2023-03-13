@@ -3831,6 +3831,7 @@ cloud.google.com
 cloud.gunthermerz.de
 cloudresourcemanager.googleapis.com
 cloudsurfing.gdhour.com
+cms.galeno.com.ar
 commondatastorage.googleapis.com
 composer.cloud.google.com
 congressolmc.gilm.pt
@@ -4066,6 +4067,7 @@ gigginggear.com
 gillgoddardhair.co.uk
 ginorodinis.cl
 giovannihuber.ch
+girlboss.ch
 girlonthemattress.com
 giroscope.org.uk
 git.git.git.git.coblog.blog.com.getthefactshomeinspection.com
@@ -4136,6 +4138,7 @@ goodgame.today
 goodncheap.net
 goodorbad4u.com
 goodthyme.co.za
+goodvibeshk.com
 goodwin.org.au
 googleaccount.io
 googleadservices.com
@@ -4143,9 +4146,12 @@ googleapis.com
 googlebooth.com
 googleexperts.co.nz
 googlejournal.in
+googlekonumekleme.com
 googlemeetsapple.com
 googlereviewsitalia.it
+googletagmaneger.com
 googleupdate.us
+goracepocalunki.com
 gotelservice.xyz
 govillagetravel.com
 goviral247.com
@@ -4193,6 +4199,7 @@ grizzlytecpro.dz
 groenboerenplan.nl
 groenedromen.nl
 groovemedia.co.nz
+groupema.ca
 groupexpedia.com
 grouptax.pe
 grow-la.com
@@ -4295,6 +4302,7 @@ mandyocadebussy.github.io
 mapi.gmoneytrans.net
 marketing.g6app.net
 mata-massk-logiin.godaddysites.com
+maxuk69.github.io
 mayank812.github.io
 mdsiamulislam.github.io
 meeta-massk.godaddysites.com
@@ -4406,6 +4414,7 @@ sber.avito.avito.avito.covid19.googlelogist.com
 sber.avito.avito.avito.sber.sber.covid19.googlelogist.com
 sber.avito.avito.sber.sber.www.covid19.googlelogist.com
 sber.avito.avito.sberbank.covid19.googlelogist.com
+sber.avito.sber.avito.avito.blablacar.covid19.gorod-sveta-rf.ru
 sber.avito.sber.avito.sberbank.www.covid19.goldclub-mktg.com
 sber.sber.sber.avito.blablacar.www.covid19.goldclub-mktg.com
 sber.sber.sberbank.covid19.goodkarmastroy.ru
@@ -4463,10 +4472,12 @@ taki7980.github.io
 tangy-cat-turn.glitch.me
 tap-them.glitch.me
 tapeolivia.github.io
+ten-deployagent.sg.aws.grabsecurity.com
 tenor.googleapis.com
 tessauthsvc.gstoyota.com
 testapi.girogate.de
 tester.goatourspackage.com
+thumbs.gfycat.com
 ti-lage.prod.ccs.gematik.solutions
 tile.goodnotescloud.com
 tomaslenzi.github.io
@@ -4475,6 +4486,7 @@ toolbarqueries.google.com.gt
 toolbarqueries.google.com.sl
 toolbarqueries.google.dz
 toolbarqueries.google.gm
+toolbarqueries.google.gr
 toolbarqueries.google.pt
 torproject.github.io
 translate.googleusercontent.com
@@ -4512,6 +4524,7 @@ winauth.github.io
 www.accounting.griffgo.com
 www.adobe-slp-2021-ruvixx.gopleteo.com
 www.amiracourieranddelivery.com.globaltrustsecuritygts.com
+www.apple-storeonline.com.grupotelevisionactiva.com.ar
 www.apries.gestion-ssoma.cl
 www.birminghamlocalbizsupport.gibsondigtalhub.com
 www.booking.goliatk.no
@@ -4543,7 +4556,9 @@ www.g3ti.net
 www.gaestbook.dk
 www.galaxyclasscoinop.com
 www.galaxymobile.jp
+www.galeriepmsformatsdigitaux.com
 www.galina-arzt.de
+www.galstersmachart.de
 www.galvaing-immobilier.fr
 www.galvanoservice.de
 www.gameart2d.com
@@ -4557,6 +4572,7 @@ www.garantilimedyumhocalarim.com
 www.garantisubulma.com
 www.gardenhillsgardenclub.com
 www.gardenofeatinapples.com
+www.gardnerassociates.net
 www.garenewing.co.uk
 www.garmanfarm.com
 www.garycampion.com
@@ -4596,6 +4612,7 @@ www.geo3550.org
 www.geodata-services.fr
 www.geographic.org
 www.geologienederland.nl
+www.geonord.xyz
 www.georg-huber.at
 www.georgeobado.com
 www.georgewaltonpost371.org
@@ -4701,6 +4718,7 @@ www.gologin-tink.space
 www.gomezkawall.com.br
 www.good-morning-teacher.com
 www.goodbath.ro
+www.goodeyewildheart.com
 www.goodreturns.in
 www.goodseedfood.com
 www.goodsservice.com.br
@@ -4721,6 +4739,7 @@ www.googlewest.com
 www.googlewriting.com
 www.gopost.fun
 www.gopsrs.org
+www.goracepocalunki.com
 www.gostrong.ch
 www.gourmetmarketthailand.com
 www.gouvearefrigeracoes.com
@@ -4810,6 +4829,7 @@ www.guycarpenter.com
 www.gw99.asia
 www.gwleverage.gwtrade.hk
 www.gymnasiefaellesskabet.dk
+www.gypsea.co
 www.helpdesk.garrax.com.br
 www.helpdesk.gx06dyw.org.uk
 www.huhi.gob.mx.gobiernosenlinea.com.mx
