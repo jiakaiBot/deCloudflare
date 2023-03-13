@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,934 |
+| com | 5,935 |
 | social | 3,840 |
 | net | 3,044 |
 | org | 2,103 |
-| de | 1,978 |
+| de | 1,979 |
 
 
 - Mastodon, Pleroma, etc
@@ -359,6 +359,7 @@ Here's a list of public Fediverse services.
 | `3dcandy.live` | Yes |
 | `3dcandy.social` | Yes |
 | `3dcgdon.net` | No |
+| `3detplus.ch` | Yes |
 | `3dexp.online` | No |
 | `3dgo.net` | Yes |
 | `3dot2.one` | No |
@@ -24022,6 +24023,7 @@ Here's a list of public Fediverse services.
 | `nerdstadt.de` | No |
 | `nerdsteria.com` | No |
 | `nerdtreff.it` | No |
+| `nerdvittles.com` | No |
 | `nerdworks.casa` | Yes |
 | `nerdyfam.tech` | Yes |
 | `nerdynate.app` | No |
@@ -27181,7 +27183,7 @@ Here's a list of public Fediverse services.
 | `plag.gy` | No |
 | `plagu.ee` | No |
 | `plaimi.net` | No |
-| `plainbox.net` | No |
+| `plainbox.net` | Yes |
 | `plala.jp` | No |
 | `plamo.social` | No |
 | `plan.cat` | No |
@@ -27614,6 +27616,7 @@ Here's a list of public Fediverse services.
 | `possumgraveyard.com` | No |
 | `possumlodge.me` | No |
 | `possums.xyz` | Yes |
+| `post-fx.de` | No |
 | `post.rodeo` | No |
 | `postb.org` | No |
 | `postblue.info` | No |
@@ -32148,7 +32151,7 @@ Here's a list of public Fediverse services.
 | `somanydoors.ca` | Yes |
 | `somaton.com` | No |
 | `some.rs` | No |
-| `someassholesopinion.com` | No |
+| `someassholesopinion.com` | Yes |
 | `somebetterplaceshell.gq` | No |
 | `someden.net` | Yes |
 | `somegroup.net` | No |
@@ -39680,7 +39683,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,741 |
+| Cloudflare | 9,744 |
 | Normal | 29,896 |
 
 
