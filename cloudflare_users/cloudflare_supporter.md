@@ -6427,6 +6427,7 @@ Do not create new issue or we will close it as duplicate.
 | [MahmoudXmmx@twitter](https://twitter.com/MahmoudXmmx/status/1620200697118740481) | advertise |
 | [mahshadjanzadeh@twitter](https://twitter.com/mahshadjanzadeh/status/1607456714806423553) | advertise |
 | [Mahyar1985@twitter](https://twitter.com/Mahyar1985/status/1578914921672503296) | advertise |
+| [Mahyarbagheri65@twitter](https://twitter.com/Mahyarbagheri65/status/1635338082974314498) | advertise |
 | [Mai46408349@twitter](https://twitter.com/Mai46408349/status/1391870166074490883) | advertise |
 | [Maianhb27619314@twitter](https://twitter.com/Maianhb27619314/status/1546542411995746310) | advertise |
 | [MaiCoLong1@twitter](https://twitter.com/MaiCoLong1/status/1494931023662313472) | advertise |
@@ -11606,6 +11607,7 @@ Do not create new issue or we will close it as duplicate.
 | [veelasakbaribon@twitter](https://twitter.com/veelasakbaribon/status/1579055768543715328) | advertise |
 | [Vegans4Trump@twitter](https://twitter.com/Vegans4Trump/status/1475146808309526534) | advertise |
 | [Vemox1987@twitter](https://twitter.com/Vemox1987/status/1598415178311372800) | advertise |
+| [VendorioII@twitter](https://twitter.com/VendorioII/status/1635339511424225280) | advertise |
 | [venkats02968750@twitter](https://twitter.com/venkats02968750/status/1402898594030526468) | advertise |
 | [Venn34541103@twitter](https://twitter.com/Venn34541103/status/1397760420249804800) | advertise |
 | [Veno55209967@twitter](https://twitter.com/Veno55209967/status/1491422483966468100) | advertise |
