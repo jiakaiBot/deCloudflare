@@ -455,6 +455,7 @@ kentakikuchi-github.yt-test.work
 kyc-web.yuanta.com.tw
 kyiv.yasno.com.ua
 limited.yodobashi.com
+loginauth-v1.website.yandexcloud.net
 map.yahooapis.jp
 mc.yandex.ru
 mhome.yottagames.com
@@ -487,6 +488,7 @@ v-cheds4nwbl.wc.yahoodns.net
 vpn.yucca.app
 weathermaps.s3.yandex.net
 webmail.ybpindo.or.id
+webmail.youngacting.at
 www.ard.yapima.sch.id
 www.auth.youtubethumbs.pics
 www.billing.yourschoice.club
@@ -574,6 +576,7 @@ youhaveitmaidservice.com
 youinspire.me.uk
 youngpun.com
 yourbestone.com
+yourbox-location.fr
 yourcovidshot.com
 yourcpaaccountant.com
 yourcryptohome.com
