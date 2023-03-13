@@ -327,7 +327,9 @@ xpapple.com
 xpectives.health
 xsteampowered.com
 agent01.xeox.com
+api-oauth-us.xiaoyi.com
 beta.xsafe.app
+cash.xpresspay.bg
 cdn.x1cdn.com
 connectorprod.timetrack.xora.com
 core-rules-executor-gen1-srv.qa-chicago.xara.ai
@@ -387,8 +389,11 @@ www.xn--innerdrrar-jcb.se
 www.xn--mipequeomicos-okb.es
 www.xn--morsrengringsservice-ecce.dk
 www.xn--pl0bz1bnzpzqjrwfv3o.com
+www.xn--rdahja-wxad.se
 www.xn--trdfllningtierp-1kbc.se
 www.xn--unverblmt-w9a.info
+www.xn--vintersolstndet-rlb.se
+www.xpresso.co.il
 www.xsteam.biz
 www.xwamegroup.com
 www.xxi-banorte.com
@@ -408,7 +413,6 @@ xes450.com
 xesso.net
 xevolkswagen.vn
 xfinitysecurity.ro
-xflupdate.com
 xiurenwang.co
 xkarts.com.au
 xn--12cyuc5csbh3ecu0d5b7b8gk7k.com
@@ -420,12 +424,14 @@ xn--fxt5yz5zno9a.net
 xn--hufe-gebudeservice-stb.de
 xn--jlq54w7ypemw.org
 xn--oy2b17nw6b71c99osnfo7a.com
+xn--rdahja-wxad.se
 xn--regnskapsbyrioslo-krb.no
 xn--serviciotcnico-jkb.es
 xn--sinimentili-p8a.fi
 xn--soh.ga
 xplosivefitness.pe
 xpressfocus.com
+xpresso.co.il
 xrn-trading.com
 xrsmed.com
 xservice.ro
