@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Broken Link Detected](https://github.com/pingcap/docs/issues/12865)
 - [Detected a Cloudflare version 2 Captcha](https://github.com/nonvegan/streamlink-plugin-kick/issues/1)
 - [Failed to get model_info when using scan function](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper/issues/42)
 - [failed to retrieve memory content when domain under cloudflare](https://github.com/negrutiu/nsis-nsxfer/issues/3)
