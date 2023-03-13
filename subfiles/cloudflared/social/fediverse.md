@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,838 |
 | net | 3,042 |
 | org | 2,103 |
-| de | 1,976 |
+| de | 1,977 |
 
 
 - Mastodon, Pleroma, etc
@@ -15648,7 +15648,7 @@ Here's a list of public Fediverse services.
 | `inmmosiliketo.tk` | No |
 | `inn4tel.social` | No |
 | `inndy.tw` | Yes |
-| `innernette.social` | No |
+| `innernette.social` | Yes |
 | `innerwebs.social` | Yes |
 | `innkeep.co` | No |
 | `innkeepergames.com` | No |
@@ -16612,7 +16612,7 @@ Here's a list of public Fediverse services.
 | `jln.io` | No |
 | `jlperidot.com` | No |
 | `jltml.me` | Yes |
-| `jludwig.net` | No |
+| `jludwig.net` | Yes |
 | `jluo.io` | Yes |
 | `jmashr.xyz` | No |
 | `jmathes.de` | No |
@@ -20329,6 +20329,7 @@ Here's a list of public Fediverse services.
 | `mammut.mx` | No |
 | `mammut.red` | No |
 | `mammut.space` | No |
+| `mammuthus.de` | No |
 | `mammuthus.xyz` | Yes |
 | `mammutidae.science` | No |
 | `mammutpals.com` | No |
@@ -23286,7 +23287,7 @@ Here's a list of public Fediverse services.
 | `mvion.fr` | No |
 | `mvolfik.com` | Yes |
 | `mvoss.eu` | No |
-| `mvp-demo.com` | No |
+| `mvp-demo.com` | Yes |
 | `mvskoke.social` | No |
 | `mvu.pl` | No |
 | `mw.social` | No |
@@ -39653,8 +39654,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,729 |
-| Normal | 29,881 |
+| Cloudflare | 9,732 |
+| Normal | 29,879 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
