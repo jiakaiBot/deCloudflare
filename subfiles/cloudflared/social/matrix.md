@@ -82,7 +82,6 @@ Here's a list of public Matrix services.
 | junta.pl | Yes |
 | matrix.kiber-ogur4ik.space | Yes |
 | kitsunes.club | Yes |
-| chat.librem.one | No |
 | matrix.libreon.fr | No |
 | matrix.llamarific.social | No |
 | lugnsk.org | No |
@@ -137,7 +136,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 22 |
-| Normal | 87 |
+| Normal | 86 |
 
 
-### 20.2% of public Matrix services are using Cloudflare.
+### 20.4% of public Matrix services are using Cloudflare.
