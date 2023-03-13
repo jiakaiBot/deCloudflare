@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,927 |
-| social | 3,836 |
+| social | 3,837 |
 | net | 3,041 |
 | org | 2,103 |
 | de | 1,976 |
@@ -2860,7 +2860,7 @@ Here's a list of public Fediverse services.
 | `azunyan.jp` | No |
 | `azunyan.uk` | No |
 | `azunyu.moe` | No |
-| `azupo.xyz` | Yes |
+| `azupo.xyz` | No |
 | `azure.com` | Yes |
 | `azure.icu` | Yes |
 | `azureheads.gr` | Yes |
@@ -23640,7 +23640,7 @@ Here's a list of public Fediverse services.
 | `naomini.tel` | No |
 | `naotodon.xyz` | No |
 | `naoy.fr` | No |
-| `napolisocial.com` | Yes |
+| `napolisocial.com` | No |
 | `naraku.cc` | Yes |
 | `narang.me` | Yes |
 | `narazaka.net` | Yes |
@@ -39576,6 +39576,7 @@ Here's a list of public Fediverse services.
 | `zufki.de` | No |
 | `zug.network` | No |
 | `zugzug.social` | Yes |
+| `zuhair.social` | Yes |
 | `zuhairmahmoud.com` | Yes |
 | `zuidbook.com` | No |
 | `zuiho.moe` | Yes |
@@ -39640,8 +39641,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,722 |
-| Normal | 29,875 |
+| Cloudflare | 9,721 |
+| Normal | 29,877 |
 
 
-### 24.6% of public Fediverse services are using Cloudflare.
+### 24.5% of public Fediverse services are using Cloudflare.
