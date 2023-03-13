@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,928 |
-| social | 3,837 |
+| social | 3,838 |
 | net | 3,042 |
 | org | 2,103 |
 | de | 1,976 |
@@ -13033,7 +13033,7 @@ Here's a list of public Fediverse services.
 | `glorious-space.eu` | No |
 | `gloristar.space` | Yes |
 | `glosair.co.uk` | No |
-| `gloveraoki.net` | No |
+| `gloveraoki.net` | Yes |
 | `glow.land` | No |
 | `glowers.club` | No |
 | `glowhost.ru` | No |
@@ -15775,6 +15775,7 @@ Here's a list of public Fediverse services.
 | `intranetizen.com` | No |
 | `intrazr.com` | Yes |
 | `intriguing.website` | No |
+| `introspection.social` | No |
 | `introvert.country` | Yes |
 | `introvert.party` | Yes |
 | `introvert.social` | Yes |
@@ -18381,7 +18382,7 @@ Here's a list of public Fediverse services.
 | `l33t.city` | Yes |
 | `l33t.link` | Yes |
 | `l3ib.org` | No |
-| `l3r.me` | No |
+| `l3r.me` | Yes |
 | `l4.pm` | Yes |
 | `l4m1.de` | No |
 | `l4p1n.ch` | No |
@@ -35806,6 +35807,7 @@ Here's a list of public Fediverse services.
 | `tsukimi.club` | Yes |
 | `tsukiyo.dev` | Yes |
 | `tsukuba.io` | Yes |
+| `tsukuba.one` | Yes |
 | `tsukura.net` | No |
 | `tsukuyomi.dev` | Yes |
 | `tsun.co` | No |
@@ -39651,8 +39653,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,726 |
-| Normal | 29,882 |
+| Cloudflare | 9,729 |
+| Normal | 29,881 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
