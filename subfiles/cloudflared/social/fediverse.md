@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,928 |
+| com | 5,929 |
 | social | 3,838 |
 | net | 3,042 |
 | org | 2,103 |
@@ -12290,6 +12290,7 @@ Here's a list of public Fediverse services.
 | `g307m.com` | Yes |
 | `g33ks.coffee` | Yes |
 | `g3l.org` | No |
+| `g3ms.io` | No |
 | `g3rv4.com` | Yes |
 | `g4dpz.me.uk` | No |
 | `g4v.dev` | Yes |
@@ -20299,6 +20300,7 @@ Here's a list of public Fediverse services.
 | `mallio.se` | No |
 | `mallorn.de` | No |
 | `malmas.org` | No |
+| `malmo.chat` | No |
 | `malmo.social` | No |
 | `malmorrow.com` | No |
 | `malnacido.com` | No |
@@ -26358,6 +26360,7 @@ Here's a list of public Fediverse services.
 | `parrot-ctfs.com` | Yes |
 | `parrygod.club` | No |
 | `pars.ee` | No |
+| `parsaranjbar.com` | No |
 | `parsec.social` | No |
 | `partecipa.digital` | No |
 | `parti-science.africa` | No |
@@ -39655,7 +39658,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,732 |
-| Normal | 29,879 |
+| Normal | 29,882 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
