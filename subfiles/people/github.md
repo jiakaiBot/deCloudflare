@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [GoLang MacOS support](https://github.com/MortezaBashsiz/CFScanner/issues/284)
 - [API error: TypeError: Cannot read properties of null (reading 'map')](https://github.com/qunash/chatgpt-advanced/issues/102)
 - [Broken Link Detected](https://github.com/pingcap/docs/issues/12865)
 - [Detected a Cloudflare version 2 Captcha](https://github.com/nonvegan/streamlink-plugin-kick/issues/1)
