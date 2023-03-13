@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,927 |
+| com | 5,928 |
 | social | 3,837 |
 | net | 3,042 |
 | org | 2,103 |
@@ -929,6 +929,7 @@ Here's a list of public Fediverse services.
 | `adawesome.tech` | No |
 | `adb.sh` | No |
 | `addajones.com` | Yes |
+| `addconf.me` | No |
 | `addesp.com` | Yes |
 | `addictiv.ink` | No |
 | `addy.gg` | Yes |
@@ -3892,6 +3893,7 @@ Here's a list of public Fediverse services.
 | `bkryer.com` | No |
 | `bktsk.com` | No |
 | `bl1nk.com` | Yes |
+| `blab.gg` | No |
 | `blabber.rocks` | No |
 | `blabbergoats.com` | No |
 | `blablah.space` | No |
@@ -5405,6 +5407,7 @@ Here's a list of public Fediverse services.
 | `ceskar.xyz` | No |
 | `ceske.site` | No |
 | `cesko.social` | Yes |
+| `cesspool.city` | No |
 | `cestlavie.moe` | Yes |
 | `cestoliv.com` | No |
 | `cetera.uk` | Yes |
@@ -10804,7 +10807,7 @@ Here's a list of public Fediverse services.
 | `fedica.de` | No |
 | `fedicafe.com` | No |
 | `fedichive.tk` | No |
-| `fedicity.net` | No |
+| `fedicity.net` | Yes |
 | `fedida.com` | Yes |
 | `fedidb.org` | Yes |
 | `fedifence.social` | No |
@@ -16122,7 +16125,7 @@ Here's a list of public Fediverse services.
 | `iztasocial.site` | No |
 | `izumi.pw` | No |
 | `izumiz.me` | No |
-| `izza.party` | No |
+| `izza.party` | Yes |
 | `izzodlaw.com` | No |
 | `izzy.rodeo` | No |
 | `izzz.fr` | No |
@@ -28129,6 +28132,7 @@ Here's a list of public Fediverse services.
 | `pxlfed.de` | No |
 | `pxlmo.com` | No |
 | `pycodon.fr` | No |
+| `pym.industries` | Yes |
 | `pyngu.com` | No |
 | `pynox.de` | No |
 | `pyon.social` | Yes |
@@ -28206,7 +28210,7 @@ Here's a list of public Fediverse services.
 | `qore.no` | Yes |
 | `qorg11.net` | No |
 | `qoto.org` | No |
-| `qouop.net` | No |
+| `qouop.net` | Yes |
 | `qowala.org` | No |
 | `qownnotes.org` | Yes |
 | `qp3.uk` | Yes |
@@ -28337,6 +28341,7 @@ Here's a list of public Fediverse services.
 | `quip.tk` | No |
 | `quippini.net` | No |
 | `quiri.ovh` | No |
+| `quirijngb.com` | No |
 | `quiros.cat` | Yes |
 | `quit.im` | No |
 | `quite.exposed` | Yes |
@@ -32836,6 +32841,7 @@ Here's a list of public Fediverse services.
 | `stigatle.no` | No |
 | `stilbedarf.de` | No |
 | `stiles.dev` | No |
+| `stilic.ml` | No |
 | `still-ai.net` | No |
 | `stilobique.com` | No |
 | `stimky.one` | No |
@@ -39645,8 +39651,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,722 |
-| Normal | 29,880 |
+| Cloudflare | 9,726 |
+| Normal | 29,882 |
 
 
-### 24.5% of public Fediverse services are using Cloudflare.
+### 24.6% of public Fediverse services are using Cloudflare.
