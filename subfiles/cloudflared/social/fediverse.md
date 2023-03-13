@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,927 |
 | social | 3,837 |
-| net | 3,041 |
+| net | 3,042 |
 | org | 2,103 |
 | de | 1,976 |
 
@@ -3739,6 +3739,7 @@ Here's a list of public Fediverse services.
 | `binted.space` | No |
 | `binwang.me` | Yes |
 | `biobuf.link` | No |
+| `biocomm.net` | No |
 | `bioklaani.horse` | No |
 | `biologianaweb.com.br` | No |
 | `bionicbeer.com` | No |
@@ -39645,7 +39646,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,722 |
-| Normal | 29,879 |
+| Normal | 29,880 |
 
 
 ### 24.5% of public Fediverse services are using Cloudflare.
