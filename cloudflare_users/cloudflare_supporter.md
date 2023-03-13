@@ -558,6 +558,7 @@ Do not create new issue or we will close it as duplicate.
 | [alfoxdie@twitter](https://twitter.com/alfoxdie/status/1402541023146897410) | advertise |
 | [Alfred52321621@twitter](https://twitter.com/Alfred52321621/status/1621866869719453696) | advertise |
 | [AlgNinja@twitter](https://twitter.com/AlgNinja/status/1378849294208360451) | advertise |
+| [Alha1500@twitter](https://twitter.com/Alha1500/status/1635142418713681926) | advertise |
 | [Ali03101829Ali@twitter](https://twitter.com/Ali03101829Ali/status/1561268730075701250) | advertise |
 | [Ali12khan12@twitter](https://twitter.com/Ali12khan12/status/1497947864743432199) | advertise |
 | [Ali20484288@twitter](https://twitter.com/Ali20484288/status/1578121167734538252) | advertise |
@@ -2607,6 +2608,7 @@ Do not create new issue or we will close it as duplicate.
 | [Djongov@twitter](https://twitter.com/Djongov/status/1445299786047963138) | advertise |
 | [DJzVanNa@twitter](https://twitter.com/DJzVanNa/status/1384131916484399120) | advertise |
 | [dkaliasim85@twitter](https://twitter.com/dkaliasim85/status/1625192841390526489) | advertise |
+| [dkdkdjdiu@twitter](https://twitter.com/dkdkdjdiu/status/1635208243218878466) | advertise |
 | [DKSum4@twitter](https://twitter.com/DKSum4/status/1401594633134567426) | advertise |
 | [DL2419@twitter](https://twitter.com/DL2419/status/1389381874758291457) | advertise |
 | [dlcmh@twitter](https://twitter.com/dlcmh/status/1504010502481281024) | advertise |
@@ -3183,6 +3185,7 @@ Do not create new issue or we will close it as duplicate.
 | [finmods_com@twitter](https://twitter.com/finmods_com/status/1494976559966572549) | advertise |
 | [finn476@twitter](https://twitter.com/finn476/status/1379428259914424329) | advertise |
 | [finyre@twitter](https://twitter.com/finyre/status/1609557514617786368) | advertise |
+| [fionoso@twitter](https://twitter.com/fionoso/status/1635255899274223618) | advertise |
 | [fiqzzzi@twitter](https://twitter.com/fiqzzzi/status/1594694105845878784) | advertise |
 | [FirasFandi@twitter](https://twitter.com/FirasFandi/status/1552683420404355074) | advertise |
 | [fire11po@twitter](https://twitter.com/fire11po/status/1552902952083689472) | advertise |
@@ -7889,6 +7892,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynTh33426431@twitter](https://twitter.com/NguynTh33426431/status/1473913068606275587) | advertise |
 | [NguynTh36598771@twitter](https://twitter.com/NguynTh36598771/status/1627643352119377920) | advertise |
 | [NguynTh53936240@twitter](https://twitter.com/NguynTh53936240/status/1403065974199259141) | advertise |
+| [NguynTh56077707@twitter](https://twitter.com/NguynTh56077707/status/1635244418029752326) | advertise |
 | [NguynTh63622356@twitter](https://twitter.com/NguynTh63622356/status/1552349061218725889) | advertise |
 | [NguynTh72542449@twitter](https://twitter.com/NguynTh72542449/status/1401213945289994243) | advertise |
 | [NguynTh73059148@twitter](https://twitter.com/NguynTh73059148/status/1489526144713969664) | advertise |
@@ -8116,6 +8120,7 @@ Do not create new issue or we will close it as duplicate.
 | [nsatria993@twitter](https://twitter.com/nsatria993/status/1583356805853614081) | advertise |
 | [NsauPricilla@twitter](https://twitter.com/NsauPricilla/status/1394617886178566144) | advertise |
 | [nsktar@twitter](https://twitter.com/nsktar/status/1502997750501281799) | advertise |
+| [ntahlermalas@twitter](https://twitter.com/ntahlermalas/status/1635255980836671488) | advertise |
 | [NtalPtal@twitter](https://twitter.com/NtalPtal/status/1545399216754810880) | advertise |
 | [NTHngGm2@twitter](https://twitter.com/NTHngGm2/status/1384163405053927432) | advertise |
 | [NtkJoana@twitter](https://twitter.com/NtkJoana/status/1599689667464437760) | advertise |
@@ -10835,6 +10840,7 @@ Do not create new issue or we will close it as duplicate.
 | [thienlong022@twitter](https://twitter.com/thienlong022/status/1491797298233286670) | advertise |
 | [thienthanhacam1@twitter](https://twitter.com/thienthanhacam1/status/1595790391269150721) | advertise |
 | [thient_ei@twitter](https://twitter.com/thient_ei/status/1398644633836539907) | advertise |
+| [ThiepVu4@twitter](https://twitter.com/ThiepVu4/status/1635128311130259457) | advertise |
 | [Thierie9@twitter](https://twitter.com/Thierie9/status/1391758445947228161) | advertise |
 | [ThiHa14913251@twitter](https://twitter.com/ThiHa14913251/status/1619160601057689637) | advertise |
 | [ThiHa16740611@twitter](https://twitter.com/ThiHa16740611/status/1394156796235767809) | advertise |
