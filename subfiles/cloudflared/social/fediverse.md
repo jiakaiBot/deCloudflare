@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,934 |
 | social | 3,839 |
-| net | 3,043 |
+| net | 3,044 |
 | org | 2,103 |
 | de | 1,977 |
 
@@ -1258,6 +1258,7 @@ Here's a list of public Fediverse services.
 | `akuochi.art` | No |
 | `akxnet.de` | No |
 | `aky.sh` | Yes |
+| `akyoz.net` | Yes |
 | `al0.de` | Yes |
 | `al2.in` | Yes |
 | `al45tair.net` | No |
@@ -39672,7 +39673,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,738 |
+| Cloudflare | 9,739 |
 | Normal | 29,891 |
 
 
