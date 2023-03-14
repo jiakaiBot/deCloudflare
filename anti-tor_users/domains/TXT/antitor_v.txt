@@ -858,7 +858,6 @@ nginx.vitreo.cloud
 nitrogate.vercel.app
 nitrohorse.vercel.app
 nitromacchiato.vercel.app
-nolijlink.villanova.edu
 ogulo.volksbank-immobilien.online
 oktatas.varrosbaratno.hu
 onenet.vodafone.ie
@@ -1477,6 +1476,7 @@ biprows.vavonline.at
 blackbeardiner.vernonpromotions.com
 booking.vividbooths.co.uk
 bookings.vivavelo.uk
+ca.venderdiscosdevinilo.com
 calcium.valantic.pro
 caldav.vipcomag.eu
 captcha1.vercel.app
@@ -1487,6 +1487,7 @@ cerebro-model-management.stage.fr.vik.ai
 christian.vonschack.com
 cleanup-service-comid.core.build.vwn.cloud
 click.email.volante-tech.com
+click.naoresponda.vr.com.br
 click.viewstream-v.com
 client.vsice.ru
 coinbase-exchange.vikingdeals.be
@@ -1629,18 +1630,20 @@ pavlidou2.vpn.gr
 payments.valiantgroup.ca
 payments.vantivprelive.com
 pds.volkswagen.de
+pis-gw.vivapayments.com
 portal.venusshare.com
 portal.viking-intl.com
 portalklienta.vfsco.pl
 pos.vouchagram.com
 posportal.vav.at
+prod.adfs.federation.va.gov
 prodidsp.si.valid.com.br
 producedatahubservices.volvo.com
 ps-automation-update-preview.virtual-spaces.de
+qa.api.sfdc.vwgroup.de
 qaapi4.vivanda.com
 recording1.a58.verintcloudservices.com
 relampago-de-clientes.virio.digital
-renault.via-conex.net
 rexfordnyrk-gmailcom.vercel.app
 rogeliopc-gmailcom.vercel.app
 rt.services.visualstudio.com
@@ -1680,6 +1683,7 @@ smartapi.vesync.com
 sportcenter.vicomstudio.com
 sps.vungtau.su
 static.vbn-edi.fr
+steam.validgamekeys.com
 steam.vrroom.nl
 steampoweredcat.vercel.app
 subdomain.virtusinc.com.br
@@ -1712,6 +1716,7 @@ vagadskhadi.in
 vahptr.com
 vakiapi.com
 vakrangeedevelopers.com
+valdefernando.com
 valdemarhoiris.dk
 valealupilor.com
 valorasecurity.cl
@@ -1723,6 +1728,7 @@ vanguardofficial.eu
 vanguardtrustbank.org
 vankids.co.kr
 vapeloungedelivery.us
+vapers-center.de
 vapyapi.com
 varietal-literature.ca
 vaveylamodam.com
@@ -1755,10 +1761,12 @@ verificare-pram-iasi.ro
 verificasite.ro
 verite-covid19.com
 veriyapi.com
+verizontal.com
 vermeg.com
 vernonmuseum.ca
 vernonwebb.com
 veronicabadea.com
+vestelli.se
 vetcov19.se
 veteranfeministsofamerica.org
 vgelbval.valgenesis.net
@@ -1777,6 +1785,7 @@ viator-booking.hr
 vibenshusoejenklinik.dk
 vibrantbilling.com
 vicemagazin.ro
+vickedgood.com
 victoriafcu.org
 victoriahistoricalsociety.bc.ca
 victoriamutual.com
@@ -1787,6 +1796,7 @@ vid.us
 vidaelite.com.br
 videoapi-muybridge.vimeocdn.com
 videogameperfection.com
+videoslatam.com
 videotech.lv
 vidracariaroma.com.br
 viergeverclan.nl
@@ -1803,6 +1813,7 @@ vikings-media.dk
 viktoriyagotseva.com
 vilaser.se
 vilelemarii.ro
+vilenna.moda
 villa-aventura.com
 villamormor.dk
 villelepisto.fi
@@ -1810,6 +1821,7 @@ vinatrips.vn
 vincentgaragedoorrepairservice.us
 vincenzopresutto.it
 vindpunt.nl
+vinhairvendor.com
 viniciusmartin.com
 vinjebatforening.no
 vinklubben-billund.dk
@@ -1836,11 +1848,13 @@ vitaexpress.ru
 vital-pbx.vei.global
 vitalhealthwellness.com
 vitcontrol.gq
+vitoturizm.com.tr
 vitralii-restaurare.ro
 vivabritannia.de
 vivacecollection.com
 vivatequis.com
 viveecosse.com
+vivefi.com
 vivoeusebio.com
 vivovet.be
 vj22.de
@@ -1872,6 +1886,7 @@ voltedu.com
 voor50plussers.nl
 vortesso.com
 vosges.vivrest.com
+votefeaster.com
 voutu.be
 voxmediaevents.com
 voxtur.ae
@@ -1886,6 +1901,7 @@ vpn-china.com
 vpn-test-11.trg.vvtdev.com
 vpn-test.com
 vpn.vmo2digital.co.uk
+vpn88.site
 vpnfact.com
 vpsventa.com
 vr-risikoneigung.de
@@ -1903,6 +1919,7 @@ vulcanjetboats.com
 vulcanstl.com
 vuprom.com
 vvwwvvcajapiura.com
+vwff.co.uk
 vwhomecharger.com
 webdisk.clinicadevacinacaocuritiba.vaccineja.com.br
 webdisk.vaccinesandsociety.com
@@ -1914,8 +1931,10 @@ webdisk.vulcanracing.net
 webmail.clinicadevacinacaocuritiba.vaccineja.com.br
 webmail.vaccinesandsociety.com
 webmail.vaccinesandsociety.com.vaccinesandsociety.org
+webmail.vodadealers.co.za
 webmail.vulcan.com.gh
 webmail.vulcandrifterriders.com
+website2-git-new-blog-post-dragonfly-db.vercel.app
 wfo.f2.verintcloudservices.com
 willbeallright2blue-gmailcom.vercel.app
 ws.vavonline.at
@@ -1957,6 +1976,7 @@ www.pharmamanufacture.vissveselibai.lv
 www.relampago-de-clientes.virio.digital
 www.saisonabschlussfeste.volley-ruswil.ch
 www.securityjen.com.viralnewsx.com
+www.steam.validgamekeys.com
 www.stripe.vizzypop.com
 www.support.vipenglish.asia
 www.surokkha-gov-bd.verify-onlinee.com
@@ -1977,6 +1997,7 @@ www.valleynetworkinggroup.com
 www.valleyviewmotors.com
 www.vallfogona.net
 www.valmikiramayan.net
+www.valssoulfood.com
 www.valuation-postagestamp.com
 www.van-emmerich.de
 www.vancampco.com
@@ -2007,6 +2028,7 @@ www.vdb-online.org
 www.vecibank.com
 www.vectrabank.com
 www.vegdropbox.com
+www.vegomagasinet.se
 www.vehoniemenalamaja.fi
 www.vejer.es
 www.velasqueztreeservice.net
@@ -2038,6 +2060,8 @@ www.verwaltungsgemeinschaft-graefenberg.de
 www.verydeliciousdesserts.com
 www.verywellfamily.com
 www.verywellfit.com
+www.vestelli.se
+www.veteranpoolservice.com
 www.vettriip.org
 www.vevovo.fr
 www.vfbservicosfinanceiros.com.br
@@ -2058,6 +2082,7 @@ www.victorchevrillon.fr
 www.victorgrasso.com
 www.victoriansweatshop.com
 www.victoriaparkbc.com
+www.victory6666.com
 www.video-animation-service.com
 www.video-softwares.com
 www.videochatforum.ro
@@ -2068,11 +2093,13 @@ www.villas-meridiana.com
 www.villesetvillagesouilfaitbonvivre.com
 www.vincentdt.com
 www.vinhos3morais.com.br
+www.vintagefallcrawl.com
 www.vinylworld.dk
 www.vipacesso.com
 www.vipbooking.ch
 www.vipespresso.com.br
 www.virginiahearinggroup.com
+www.virginiamccarydesign.com
 www.virginiegratien.fr
 www.virgoconsultinggroup.com
 www.virtualservice.net.br
@@ -2096,6 +2123,7 @@ www.voavision.com
 www.vodafone-kitt.de
 www.vodafone-stiftung.de
 www.vodafone.pt
+www.voetbalprimeur.nl
 www.voice-ai.app
 www.voiceofalexandria.com
 www.voiceoverartist.at
