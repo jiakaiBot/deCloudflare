@@ -414,6 +414,7 @@ approach.yahoo.co.jp
 argocd-inl.yjtech.tw
 article.yahoo.co.jp
 asr-stream-covid19.yating.tw
+assets.youpay.one
 auth.youtubethumbs.pics
 avito.sber.sber.avito.avito.avito.covid19.youhollywood.com
 b91.yahoo.co.jp
@@ -440,7 +441,9 @@ email.yourinforequest.net
 en.yapixweb.com
 er-addon.yesbank.in
 er-ext-api.yesbank.in
+estatement.yesbank.in
 events.ydr.com
+extranet.yooteam.fr
 fetrade.yuanta.com.tw
 git.git.git.git.goffice365.yalecarolinas.com
 git.gitlab.smail.yugprom.com
@@ -471,6 +474,7 @@ rikon-shitai.yoasobi-erobloger.com
 s.yimg.jp
 s.youtube.com
 sba.yandex.net
+sberbank.sber.sber.sber.avito.covid19.youhollywood.com
 service08-stage.yalar.se
 services.yuntrack.com
 sjsu.yahoodrummers.com
@@ -492,6 +496,7 @@ webmail.youngacting.at
 www.ard.yapima.sch.id
 www.auth.youtubethumbs.pics
 www.billing.yourschoice.club
+www.city.yachimata.lg.jp
 www.contoh.yudita.my.id
 www.customers.yellowhoster.com
 www.dummyneo.yapindo.co.id
@@ -505,6 +510,7 @@ www.support.yoshope.com
 www.yabfestival.com
 www.yachtservice-laboe.de
 www.yajagoff.com
+www.yamandbean.com
 www.yankton.net
 www.yapianalizi.com.tr
 www.yapikont.com
@@ -550,6 +556,7 @@ yapindo.co.id
 yapiskan.tk
 yapitbodrum.com
 yaseagrouptravel.com
+yay-plus.com
 yayanadriano.web.id
 yazarlaryapi.com.tr
 ybaautoservice.ro
@@ -568,12 +575,14 @@ yesbank.in
 yesmsmeonline.yesbank.in
 yetch.store
 yeudongvat.org
+yilanhotel.tw
 yinyang-verlag.de
 yodecidocomo.com
 yooflyer.com
 youenforcement.life
 youhaveitmaidservice.com
 youinspire.me.uk
+younghaejo.com
 youngpun.com
 yourbestone.com
 yourbox-location.fr
