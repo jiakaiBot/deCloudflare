@@ -7876,6 +7876,7 @@ Here's a list of public Fediverse services.
 | `decarboxy.chat` | No |
 | `decatec.de` | No |
 | `decaunes.com` | No |
+| `decayable.ink` | Yes |
 | `decco.net` | No |
 | `deccs.de` | No |
 | `dece.space` | No |
@@ -14379,7 +14380,7 @@ Here's a list of public Fediverse services.
 | `hexagon.town` | No |
 | `hexagons.social` | No |
 | `hexaly.se` | No |
-| `hexandcube.tk` | Yes |
+| `hexandcube.tk` | No |
 | `hexconspillfestival.org` | No |
 | `hexdsl.co.uk` | No |
 | `hexe.net` | No |
@@ -39690,7 +39691,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,744 |
-| Normal | 29,902 |
+| Normal | 29,903 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
