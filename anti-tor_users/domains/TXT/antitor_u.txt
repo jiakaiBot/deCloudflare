@@ -1149,6 +1149,7 @@ agricole.uber.space
 aicovid.unydevelopernetwork.com
 apass-p.usj.co.jp
 api-edi.urssaf.fr
+api-sister.unej.ac.id
 api.c1.giin.urssaf.fr
 api.und-gesund.de
 api.urca.ca
@@ -1202,6 +1203,7 @@ demo3.utilibill.com.au
 dev-micropay.uplus.co.kr
 dev.api.data.unicloudgroup.com.vn
 dev.api.hrmconfig.unicloudgroup.com.vn
+dsiunitron.unitrontourism.com
 e8f26579-4ecd-4ce1-9dbd-ea456404ba5f.usrfiles.com
 einvoice.usps.com
 emergency-support.upstreamdigital.ca
@@ -1227,6 +1229,7 @@ idam.upr.si
 identity.unimas.my
 ieim.uqam.ca
 ines.zfn.uni-bremen.de
+inmotion.udc.es
 introduce-tu-usuario.ufaapex.com
 ivsapi-cat.usps.gov
 japan.dev.sumitomo-rearchitecture.undpaul.work
@@ -1339,8 +1342,10 @@ ukrpost.org
 ultimatediscordentertainment.com
 ultimateint.net
 ultracyclingswiss.ch
+ultrapower.eu
 ummeio.org
 umrohmurahntb.com
+unacem.ec
 uncatolicoperplejo.com
 uncoder.io
 uncomics.org
@@ -1381,6 +1386,8 @@ updatesjobs.com
 updateworld24.com
 uplangreo.es
 upload-magazin.de
+upplysningavancez.com
+upreus.com
 uproiect.ro
 upscale.wiki
 upswellpublishing.com
@@ -1402,6 +1409,7 @@ usa-trip.be
 usaaqi.com
 usagi-online.com
 uscyberpatriot.org
+usenaresenha.com.br
 usendit.net
 useranch.com.br
 userbox.com
@@ -1418,6 +1426,7 @@ uswired.info
 util.unicode.org
 utilajetransilvane.ro
 uu.ink
+uvith.org
 uviworld.in
 uvs.umrahbooking.pk
 uwaisteam.com
@@ -1444,6 +1453,7 @@ www.authdove.unitedecom.com
 www.bancodeoro.user-verify.com
 www.bedbreakfast.uberweb.co.za
 www.beritainvestigasi.id.uberberita.com
+www.bfmqe.unikalservice.com
 www.billing.utu.systems
 www.booking.urcc.co.ke
 www.bs-krzeszowice.cruzwwa.usermd.net
@@ -1492,6 +1502,7 @@ www.topwebmakers.org.usershare.me
 www.truenorthvisuals.unitedmarketinggroup.ca
 www.u-bio.com.ar
 www.u26shop.fi
+www.uam.com
 www.ubebeauty.com
 www.uberacc.co.za
 www.uberbasepremoldados.com.br
@@ -1587,6 +1598,7 @@ www.updateworld24.com
 www.uph.de
 www.upleafd.com
 www.uplyftt.com
+www.uprofyt.com
 www.upside-down-pineapple.com
 www.upsoldas.com.br
 www.urbana.ie
