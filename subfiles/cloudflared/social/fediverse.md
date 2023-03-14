@@ -346,6 +346,7 @@ Here's a list of public Fediverse services.
 | `360.cymru` | No |
 | `3644859.xyz` | Yes |
 | `36c.nl` | No |
+| `386898.xyz` | Yes |
 | `39.gy` | Yes |
 | `39sounds.net` | No |
 | `3bit.one` | Yes |
@@ -35512,7 +35513,7 @@ Here's a list of public Fediverse services.
 | `tr4sh.net` | No |
 | `tr4sk.me` | No |
 | `traboone.com` | Yes |
-| `trabus322.tk` | No |
+| `trabus322.tk` | Yes |
 | `trachsel.org` | No |
 | `trackball.love` | Yes |
 | `trackmania.social` | Yes |
@@ -39696,8 +39697,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,749 |
-| Normal | 29,904 |
+| Cloudflare | 9,751 |
+| Normal | 29,903 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
