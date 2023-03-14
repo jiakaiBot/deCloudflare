@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,939 |
 | social | 3,840 |
-| net | 3,044 |
+| net | 3,045 |
 | org | 2,103 |
-| de | 1,981 |
+| de | 1,982 |
 
 
 - Mastodon, Pleroma, etc
@@ -3898,7 +3898,7 @@ Here's a list of public Fediverse services.
 | `bkryer.com` | No |
 | `bktsk.com` | No |
 | `bl1nk.com` | Yes |
-| `blab.gg` | No |
+| `blab.gg` | Yes |
 | `blabber.rocks` | No |
 | `blabbergoats.com` | No |
 | `blablah.space` | No |
@@ -18610,6 +18610,7 @@ Here's a list of public Fediverse services.
 | `larrybeck.net` | No |
 | `larrysanger.org` | Yes |
 | `larsen.social` | No |
+| `larsreineke.de` | No |
 | `larvata.com` | No |
 | `las.rs` | No |
 | `lasanha.org` | No |
@@ -24254,6 +24255,7 @@ Here's a list of public Fediverse services.
 | `ngmx.com` | Yes |
 | `ngndn.jp` | No |
 | `ngonbay.com` | No |
+| `ngrok.app` | Yes |
 | `ngrok.io` | No |
 | `ngtube.fun` | No |
 | `nguyens.co` | Yes |
@@ -31275,6 +31277,7 @@ Here's a list of public Fediverse services.
 | `shredderfood.com` | No |
 | `shrediverse.net` | No |
 | `shrekislove.us` | Yes |
+| `shreyanjain.net` | No |
 | `shrieker.net` | No |
 | `shrik3.com` | No |
 | `shrike.club` | No |
@@ -39697,8 +39700,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,751 |
-| Normal | 29,903 |
+| Cloudflare | 9,753 |
+| Normal | 29,904 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
