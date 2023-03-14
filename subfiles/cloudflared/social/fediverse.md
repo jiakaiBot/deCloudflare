@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,840 |
 | net | 3,044 |
 | org | 2,103 |
-| de | 1,979 |
+| de | 1,981 |
 
 
 - Mastodon, Pleroma, etc
@@ -2186,6 +2186,7 @@ Here's a list of public Fediverse services.
 | `areiyatech.com` | No |
 | `arekkusu.net` | No |
 | `arel.net` | Yes |
+| `arenales.us` | Yes |
 | `arent.net` | No |
 | `arenzana.org` | No |
 | `aretex.ca` | No |
@@ -7736,6 +7737,7 @@ Here's a list of public Fediverse services.
 | `davidmccann.com` | No |
 | `davidmckeitch.com` | Yes |
 | `davidmckeitch.social` | Yes |
+| `davidp.de` | No |
 | `davidpea.ch` | No |
 | `davidpeach.co.uk` | Yes |
 | `davidpeach.me` | No |
@@ -14669,6 +14671,7 @@ Here's a list of public Fediverse services.
 | `holeyfox.co` | No |
 | `holger.net.cn` | Yes |
 | `holgerfrohloff.de` | No |
+| `holgerkrupp.de` | No |
 | `holi.chat` | No |
 | `holi.social` | No |
 | `holistichackers.org` | No |
@@ -35217,6 +35220,7 @@ Here's a list of public Fediverse services.
 | `tonybark.com` | No |
 | `tonydu.co` | Yes |
 | `tonyfleming.me` | No |
+| `tonytiger.club` | No |
 | `tonytins.xyz` | No |
 | `tonywebster.com` | Yes |
 | `too-much.info` | No |
@@ -39690,8 +39694,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,744 |
-| Normal | 29,903 |
+| Cloudflare | 9,745 |
+| Normal | 29,906 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
