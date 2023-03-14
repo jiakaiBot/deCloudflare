@@ -439,6 +439,7 @@ Or is this merely a case of simple modesty?
 | Dafu Wang | Employee | |
 | Dalton Cherry | Solutions Engineer |  |
 | Damian Dulanovic | Employee |  |
+| Damian Matacz | Employee | |
 | Damian Parker | Employee |  |
 | Damon Billian | Community Evangelist | http://www.crimeflare.org:82/damon.html |
 | Dana Cohen | People Team Business Partner |  |
@@ -476,6 +477,7 @@ Or is this merely a case of simple modesty?
 | Darth SriBear | Employee |  |
 | Darwin D. Wu | Employee |  |
 | Dastagiri Reddy | Data Engineer |  |
+| Dave Barnett | Employee | |
 | Dave Jewell | Employee |  |
 | Dave Koston | Employee | https://twitter.com/davekoston |
 | Dave Steer | Marketing | https://twitter.com/davesteer |
@@ -1327,6 +1329,7 @@ Or is this merely a case of simple modesty?
 | Noah Maxwell Kennedy | Employee | |
 | Noah Neuman | Enterprise Account Executive |  |
 | Noelle Gotthardt | Employee | |
+| Noelle Kagan | Employee | |
 | Norm Slaught | Customer Development |  |
 | Nuno Diegues | Employee | |
 | Nuno Pereira | Employee | |
