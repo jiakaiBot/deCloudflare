@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Adobe Analytics error in FE when running automated tests](https://github.com/DevExpress/testcafe-hammerhead/issues/2861)
 - [Unable to install](https://github.com/getyourguide/dependabutler/issues/8)
 - [GoLang MacOS support](https://github.com/MortezaBashsiz/CFScanner/issues/284)
 - [API error: TypeError: Cannot read properties of null (reading 'map')](https://github.com/qunash/chatgpt-advanced/issues/102)
