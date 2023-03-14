@@ -6813,7 +6813,7 @@ Here's a list of public Fediverse services.
 | `creerunjeuvideo.fr` | No |
 | `creetail-ps.net` | No |
 | `crem.in` | Yes |
-| `cremebrulee.xyz` | Yes |
+| `cremebrulee.xyz` | No |
 | `cremple.ovh` | No |
 | `crepe.live` | No |
 | `crepieux.eu` | Yes |
@@ -24929,6 +24929,7 @@ Here's a list of public Fediverse services.
 | `nrmn.no` | No |
 | `nro.io` | Yes |
 | `nroo.de` | No |
+| `nrps.xyz` | Yes |
 | `nrqm.ca` | No |
 | `nrsk.no` | No |
 | `nrw.social` | No |
@@ -39684,7 +39685,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,744 |
-| Normal | 29,896 |
+| Normal | 29,897 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
