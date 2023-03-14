@@ -4538,6 +4538,7 @@ Do not create new issue or we will close it as duplicate.
 | [indrarg899@twitter](https://twitter.com/indrarg899/status/1612662791051313153) | advertise |
 | [infectedmann@twitter](https://twitter.com/infectedmann/status/1388156292125143044) | advertise |
 | [infobbonline@twitter](https://twitter.com/infobbonline/status/1580912783540961280) | advertise |
+| [infobohol@twitter](https://twitter.com/infobohol/status/1635516637259657217) | advertise |
 | [InfoDigi3@twitter](https://twitter.com/InfoDigi3/status/1393209236088229896) | advertise |
 | [infodokta@twitter](https://twitter.com/infodokta/status/1442376530567516160) | advertise |
 | [InfoSpaltron@twitter](https://twitter.com/InfoSpaltron/status/1380787310346825730) | advertise |
