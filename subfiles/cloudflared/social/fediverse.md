@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,935 |
+| com | 5,938 |
 | social | 3,840 |
 | net | 3,044 |
 | org | 2,103 |
@@ -4050,6 +4050,7 @@ Here's a list of public Fediverse services.
 | `blogger.com` | No |
 | `bloggesspals.com` | No |
 | `blogging.dk` | No |
+| `bloggingintensifies.com` | Yes |
 | `blogkreatywny.pl` | No |
 | `blognot.co` | No |
 | `blogold.xyz` | No |
@@ -10390,7 +10391,7 @@ Here's a list of public Fediverse services.
 | `extremelycorporate.ca` | No |
 | `extremelylegitimate.website` | No |
 | `extremelyoffline.org` | No |
-| `extremelyonline.website` | Yes |
+| `extremelyonline.website` | No |
 | `extremelywoke.club` | No |
 | `extremeprivacy.net` | Yes |
 | `extroic.com` | No |
@@ -10857,6 +10858,7 @@ Here's a list of public Fediverse services.
 | `fedipix.de` | No |
 | `fediplants.club` | No |
 | `fediportal.eu.org` | No |
+| `fedipress.au` | No |
 | `fedipress.com` | No |
 | `fedisabled.de` | No |
 | `fedisabled.social` | No |
@@ -11638,7 +11640,7 @@ Here's a list of public Fediverse services.
 | `fpv.social` | No |
 | `fpvogel.com` | Yes |
 | `fqserv.eu` | No |
-| `fr.cr` | No |
+| `fr.cr` | Yes |
 | `fr.nf` | No |
 | `fr.to` | Yes |
 | `fr13nd5.com` | No |
@@ -13901,7 +13903,7 @@ Here's a list of public Fediverse services.
 | `hammyhavoc.com` | Yes |
 | `hamont.social` | No |
 | `hamradio.social` | No |
-| `hamradio.space` | Yes |
+| `hamradio.space` | No |
 | `hamradio.tel` | No |
 | `hamro.social` | Yes |
 | `hams.social` | No |
@@ -14838,6 +14840,7 @@ Here's a list of public Fediverse services.
 | `hoteltoday.tokyo` | No |
 | `hotfemboy.pics` | Yes |
 | `hotfreshporn.com` | No |
+| `hotgarbage.zone` | No |
 | `hotman78.com` | Yes |
 | `hoto.rocks` | Yes |
 | `hoto.us` | Yes |
@@ -18536,6 +18539,7 @@ Here's a list of public Fediverse services.
 | `lambertz.xyz` | No |
 | `lambethmedia.xyz` | No |
 | `lambton.social` | No |
+| `lameazoid.com` | Yes |
 | `lameni.tk` | No |
 | `lamer-ethos.site` | No |
 | `lamesnie.eu` | No |
@@ -23756,7 +23760,7 @@ Here's a list of public Fediverse services.
 | `naveen.ink` | No |
 | `navel7.tk` | No |
 | `navinot.com` | No |
-| `nay.moe` | Yes |
+| `nay.moe` | No |
 | `nayukana.info` | No |
 | `nayya.org` | No |
 | `naz.vc` | No |
@@ -31767,6 +31771,7 @@ Here's a list of public Fediverse services.
 | `smash.today` | No |
 | `smashingly.gay` | No |
 | `smashnet.de` | No |
+| `smashtodon.com` | No |
 | `smatodon.net` | No |
 | `smbcc.org` | Yes |
 | `smbi.community` | Yes |
@@ -39685,7 +39690,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,744 |
-| Normal | 29,897 |
+| Normal | 29,902 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
