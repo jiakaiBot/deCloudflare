@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,945 |
-| social | 3,840 |
-| net | 3,046 |
+| com | 5,947 |
+| social | 3,843 |
+| net | 3,047 |
 | org | 2,104 |
-| de | 1,985 |
+| de | 1,986 |
 
 
 - Mastodon, Pleroma, etc
@@ -2657,6 +2657,7 @@ Here's a list of public Fediverse services.
 | `aurcanius.org` | Yes |
 | `auri.ga` | No |
 | `aurifer.org` | No |
+| `aurigator.net` | Yes |
 | `auro.space` | No |
 | `auroch.be` | No |
 | `auronplay.social` | No |
@@ -6529,6 +6530,7 @@ Here's a list of public Fediverse services.
 | `containment.space` | No |
 | `content.town` | No |
 | `contentnation.net` | No |
+| `contentnotify.com` | No |
 | `contentsyndikat.de` | No |
 | `contenttechtodon.org` | No |
 | `contingency.world` | No |
@@ -9549,6 +9551,7 @@ Here's a list of public Fediverse services.
 | `ehlxr.me` | Yes |
 | `ehnit.com` | No |
 | `ehr.scot` | Yes |
+| `ehrenfeld.social` | No |
 | `ehrengruppe.de` | No |
 | `ehret.me` | No |
 | `ehvstudent.nl` | Yes |
@@ -16622,6 +16625,7 @@ Here's a list of public Fediverse services.
 | `jkakaofanatiker.tk` | No |
 | `jkelol111.me` | Yes |
 | `jkfd.de` | No |
+| `jkiviluoto.fi` | No |
 | `jkpg.rocks` | Yes |
 | `jkpolkproject.com` | No |
 | `jl-systems.se` | No |
@@ -17648,6 +17652,7 @@ Here's a list of public Fediverse services.
 | `kijy.de` | Yes |
 | `kikes.xyz` | No |
 | `kiklhorn.cz` | Yes |
+| `kiko.casa` | Yes |
 | `kikoune.fr` | No |
 | `kikrr.social` | No |
 | `kikuzuki.org` | No |
@@ -20107,6 +20112,7 @@ Here's a list of public Fediverse services.
 | `machaj.info` | Yes |
 | `machauer.dev` | No |
 | `machfest.de` | No |
+| `machi.social` | No |
 | `machida.yokohama` | No |
 | `machikadon.online` | Yes |
 | `machine-cat.space` | No |
@@ -28316,6 +28322,7 @@ Here's a list of public Fediverse services.
 | `quasivoid.net` | No |
 | `quasselfritze.de` | No |
 | `quasselkopf.de` | No |
+| `quasstodon.social` | Yes |
 | `quaylessed.icu` | No |
 | `qub.io` | No |
 | `qube.ovh` | No |
@@ -28658,6 +28665,7 @@ Here's a list of public Fediverse services.
 | `rakyll.org` | No |
 | `ralb.eu` | No |
 | `ralek.art` | Yes |
+| `ralf-simon.de` | No |
 | `ralnode.net` | No |
 | `ralphkuehnl.de` | No |
 | `ralsei.moe` | No |
@@ -28832,6 +28840,7 @@ Here's a list of public Fediverse services.
 | `rayn.bo` | Yes |
 | `raynor.haus` | Yes |
 | `rayonnant.org` | Yes |
+| `rayslava.com` | No |
 | `raysofhope.love` | Yes |
 | `raytec.co` | No |
 | `raza.social` | No |
@@ -31517,6 +31526,7 @@ Here's a list of public Fediverse services.
 | `sipassa.gq` | No |
 | `sipior.net` | No |
 | `sipsocially.com` | No |
+| `sir-photch.xyz` | No |
 | `sirano.info` | No |
 | `sirg.fr` | No |
 | `sirius.social` | No |
@@ -34516,6 +34526,7 @@ Here's a list of public Fediverse services.
 | `thejoyo.com` | No |
 | `thekambattu.rocks` | No |
 | `thekellys.co` | Yes |
+| `thekitty.zone` | Yes |
 | `thekosinski.com` | No |
 | `thekurokuma.net` | No |
 | `thelabs.online` | Yes |
@@ -39718,8 +39729,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,758 |
-| Normal | 29,917 |
+| Cloudflare | 9,762 |
+| Normal | 29,924 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
