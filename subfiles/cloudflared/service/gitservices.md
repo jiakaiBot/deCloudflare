@@ -100,6 +100,7 @@ Here's a list of public Git services.
 | `git.devuan.org` | No |
 | `git.disroot.org` | No |
 | `git.dmxcontrol-projects.org` | No |
+| `git.droidware.info` | Yes |
 | `git.ecoservice24.de` | Yes |
 | `git.eeqj.de` | No |
 | `git.eie.ucr.ac.cr` | No |
@@ -375,8 +376,8 @@ Here's a list of public Git services.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 84 |
+| Cloudflare | 85 |
 | Normal | 256 |
 
 
-### 24.7% of public Git services are using Cloudflare.
+### 24.9% of public Git services are using Cloudflare.
