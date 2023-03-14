@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [MangaFreak failing to bypass cloudflare](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/15714)
 - [BR: Error in unban statement in fail2ban/config/action.d/cloudflare-token.conf](https://github.com/fail2ban/fail2ban/issues/3479)
 - [Adobe Analytics error in FE when running automated tests](https://github.com/DevExpress/testcafe-hammerhead/issues/2861)
 - [Unable to install](https://github.com/getyourguide/dependabutler/issues/8)
