@@ -395,6 +395,7 @@ Do not create new issue or we will close it as duplicate.
 | [AgThetOo2@twitter](https://twitter.com/AgThetOo2/status/1395430356396904448) | advertise |
 | [AGThor1@twitter](https://twitter.com/AGThor1/status/1404460236702842880) | advertise |
 | [Agungpgt@twitter](https://twitter.com/Agungpgt/status/1617566579570642945) | advertise |
+| [ahamed_hri46047@twitter](https://twitter.com/ahamed_hri46047/status/1635427942154240001) | advertise |
 | [ahaynvn@twitter](https://twitter.com/ahaynvn/status/1601311854588223488) | advertise |
 | [Ahbu_Yuan@twitter](https://twitter.com/Ahbu_Yuan/status/1379249818023862275) | advertise |
 | [AhChan13951575@twitter](https://twitter.com/AhChan13951575/status/1395209269830631426) | advertise |
@@ -2821,6 +2822,7 @@ Do not create new issue or we will close it as duplicate.
 | [DVi39585350@twitter](https://twitter.com/DVi39585350/status/1596044016877211650) | advertise |
 | [dwight_wilkes7@twitter](https://twitter.com/dwight_wilkes7/status/1473360659144314880) | advertise |
 | [DwiSury295@twitter](https://twitter.com/DwiSury295/status/1402505833909424128) | advertise |
+| [dwng_phmr@twitter](https://twitter.com/dwng_phmr/status/1635439050613211136) | advertise |
 | [dwVSMRanGGhN32L@twitter](https://twitter.com/dwVSMRanGGhN32L/status/1407242205392117760) | advertise |
 | [Dx1998x@twitter](https://twitter.com/Dx1998x/status/1393091007365984258) | advertise |
 | [dxb_massage1@twitter](https://twitter.com/dxb_massage1/status/1629277439640707072) | advertise |
@@ -3749,6 +3751,7 @@ Do not create new issue or we will close it as duplicate.
 | [hawayuijky@twitter](https://twitter.com/hawayuijky/status/1394323727546867712) | advertise |
 | [hawkinswoo1@twitter](https://twitter.com/hawkinswoo1/status/1533813196162748417) | advertise |
 | [hayat22133887@twitter](https://twitter.com/hayat22133887/status/1600918587057016833) | advertise |
+| [HaydenT35616908@twitter](https://twitter.com/HaydenT35616908/status/1635446231680811008) | advertise |
 | [HayMan43336106@twitter](https://twitter.com/HayMan43336106/status/1390824643284590594) | advertise |
 | [haymann666@twitter](https://twitter.com/haymann666/status/1377275308080996365) | advertise |
 | [HaymarPwint@twitter](https://twitter.com/HaymarPwint/status/1390972934605262852) | advertise |
@@ -6453,6 +6456,7 @@ Do not create new issue or we will close it as duplicate.
 | [makeiphone@twitter](https://twitter.com/makeiphone/status/1446381205394321408) | advertise |
 | [makis@tvitero.com](https://tvitero.com/@makis) | Banning account silently; Theft of Follower |
 | [makoranx@twitter](https://twitter.com/makoranx/status/1381349393161465857) | advertise |
+| [MakrisJordan@twitter](https://twitter.com/MakrisJordan/status/1635441874377797633) | advertise |
 | [maksarong@twitter](https://twitter.com/maksarong/status/1610255723136417792) | advertise |
 | [Makuluone@twitter](https://twitter.com/Makuluone/status/1382812175564165126) | advertise |
 | [Mal2Ley@twitter](https://twitter.com/Mal2Ley/status/1379174264494911490) | advertise |
