@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,938 |
+| com | 5,939 |
 | social | 3,840 |
 | net | 3,044 |
 | org | 2,103 |
@@ -4958,7 +4958,7 @@ Here's a list of public Fediverse services.
 | `cafedeslibertes.org` | No |
 | `cafemilk.moe` | Yes |
 | `cafeobskur.de` | No |
-| `caff.tech` | No |
+| `caff.tech` | Yes |
 | `caffeinated.social` | Yes |
 | `caffeinatedfriends.club` | No |
 | `caffeinator.net` | No |
@@ -5626,6 +5626,7 @@ Here's a list of public Fediverse services.
 | `chevroulet.ch` | No |
 | `chew.monster` | Yes |
 | `chez-papy-daarky.ovh` | No |
+| `chez-risk.in` | No |
 | `chez.chat` | No |
 | `chezjln.xyz` | No |
 | `chezmoi.cloud` | No |
@@ -8724,7 +8725,7 @@ Here's a list of public Fediverse services.
 | `dogsports.social` | No |
 | `dogwhipping.day` | No |
 | `dogwonder.co.uk` | No |
-| `doherty.social` | No |
+| `doherty.social` | Yes |
 | `doingmyp.art` | No |
 | `doingtheir.best` | No |
 | `doingyourmom.club` | No |
@@ -20118,7 +20119,7 @@ Here's a list of public Fediverse services.
 | `macstories.net` | Yes |
 | `macuser.fr` | Yes |
 | `macwinlin.cloud` | Yes |
-| `macwright.com` | No |
+| `macwright.com` | Yes |
 | `mad-scientist.club` | No |
 | `madbob.org` | No |
 | `madcam.co.uk` | No |
@@ -23391,6 +23392,7 @@ Here's a list of public Fediverse services.
 | `mygaming.space` | No |
 | `mygayfans.com` | No |
 | `mygreatest.social` | No |
+| `mygreatloopadventure.com` | No |
 | `myharz.eu` | No |
 | `myhm.social` | Yes |
 | `myhobby.zone` | No |
@@ -33821,7 +33823,7 @@ Here's a list of public Fediverse services.
 | `tass.town` | No |
 | `tassaron.com` | No |
 | `tassiaart.com` | Yes |
-| `taste-of-taboo.com` | No |
+| `taste-of-taboo.com` | Yes |
 | `tastefuldinosaurerotica.com` | No |
 | `tastingtraffic.net` | No |
 | `tastybugs.club` | Yes |
@@ -36499,7 +36501,7 @@ Here's a list of public Fediverse services.
 | `unnovae.net` | No |
 | `uno.today` | Yes |
 | `unooverse.com` | No |
-| `unordentlich.space` | Yes |
+| `unordentlich.space` | No |
 | `unperson.us` | No |
 | `unpopular.cloud` | Yes |
 | `unpopular.me` | Yes |
@@ -38448,7 +38450,7 @@ Here's a list of public Fediverse services.
 | `wynning.tech` | Yes |
 | `wyomingfriendfinder.com` | No |
 | `wyrd.social` | No |
-| `wyrd.systems` | No |
+| `wyrd.systems` | Yes |
 | `wyrm.one` | Yes |
 | `wyrms.de` | No |
 | `wyrmsign.org` | No |
@@ -39694,8 +39696,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,745 |
-| Normal | 29,906 |
+| Cloudflare | 9,749 |
+| Normal | 29,904 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
