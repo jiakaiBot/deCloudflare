@@ -328,6 +328,7 @@ xpectives.health
 xsteampowered.com
 agent01.xeox.com
 api-oauth-us.xiaoyi.com
+apple-icloud-ip.xn--l9jzd2076a.biz
 beta.xsafe.app
 cash.xpresspay.bg
 cdn.x1cdn.com
@@ -357,9 +358,9 @@ sso.xm-zg.com
 support.x-filme.de
 test.xperience-group.site
 theta.xebmin.fr
-tracking.email.xlntrade.com
 vmanage.xj-storage.jp
 wayout.xibo.cloud
+www.apple-icloud-ip.xn--l9jzd2076a.biz
 www.astrofxstocks.xpressdelivery.net
 www.przytulas.com.eon46.xaa.pl
 www.sfr.xn--vrification-bbb.com
@@ -413,8 +414,12 @@ xes450.com
 xesso.net
 xevolkswagen.vn
 xfinitysecurity.ro
+xifinpaytest.com
+xinfo2031rt.xsrv.jp
 xiurenwang.co
 xkarts.com.au
+xlpalpinismo.com.br
+xn----7sba2agohtrjld.xn--p1ai
 xn--12cyuc5csbh3ecu0d5b7b8gk7k.com
 xn--atwykredyt-8zb.pl
 xn--bleerne-lxa9n.dk
@@ -429,6 +434,7 @@ xn--regnskapsbyrioslo-krb.no
 xn--serviciotcnico-jkb.es
 xn--sinimentili-p8a.fi
 xn--soh.ga
+xn--sozialpdagogin-cib.at
 xplosivefitness.pe
 xpressfocus.com
 xpresso.co.il
@@ -438,6 +444,7 @@ xservice.ro
 xsupport.cc
 xtramagazine.com
 xuanthieunguyen.com
+xvzx.website
 yapimu.xgane.com
 captcha.xcount.io
 contao.xn--brnings-o2a.de
