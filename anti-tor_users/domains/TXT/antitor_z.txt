@@ -111,7 +111,6 @@ www.zarszyn.pl
 www.zealouscreative.com
 www.zeisloftconstruction.com
 www.zenit.ru
-www.zennioptical.com
 www.zeppelin-bar.de
 www.zeroto180.org
 www.zeusconta.ro
@@ -211,7 +210,6 @@ avito.sber.blablacar.git.covid19.zalive-akvilon.ru
 bcczotrsv2.zeland.net
 cache-video-server-04.zeop.tv
 chitadelivery2023.zapweb.co.il
-click.shop.zennioptical.com
 dev.service.payroll.zenyohr.com
 docs.zerotier.com
 eas.zasa-elektro.de
@@ -404,13 +402,13 @@ archief.zaanstad.nl
 auth.zenginehq.com
 authn1.dev.zpath.net
 avito.avito.sber.blablacar.git.covid19.zalive-akvilon.ru
+avito.avito.sber.sber.git.www.covid19.zalive-akvilon.ru
 avito.sber.sber.blablacar.avito.git.covid19.zalive-akvilon.ru
 avito.sberbank.blablacar.avito.covid19.zapusk-million.ru
 avito.sberbank.sber.avito.avito.covid19.zapusk-million.ru
 backoffice.zemanhomes.com
 backofthehouse.com.hmail.zulutradefx.com
 bgw.zitec.de
-ca.zennioptical.com
 cm-result.dev.k8services.zenno.io
 com.hmail.zulutradefx.com
 crmplatform.zohocorp.com
@@ -465,13 +463,17 @@ sa1-csgo.zebedee.studio
 safetyandhealth4u.zapages.co.il
 safeway.zenobouw.nl
 sber.avito.avito.sber.avito.avito.covid19.zapusk-million.ru
+sber.avito.sber.git.www.covid19.zalive-akvilon.ru
 sber.avito.sber.gitlab.gitlab.www.covid19.zalive-akvilon.ru
+sber.avito.sber.sber.git.www.covid19.zalive-akvilon.ru
 sber.blablacar.avito.avito.sber.www.covid19.zapusk-million.ru
 sber.sber.avito.avito.blablacar.avito.covid19.zlclubmarket.com
 sber.sber.avito.sber.avito.avito.covid19.zapusk-million.ru
 sber.sber.sber.sber.blablacar.avito.covid19.zepter-catalog.ru
+sber.sber.sber.sber.gitlab.www.covid19.zalive-akvilon.ru
 sber.sber.sber.sber.sber.avito.covid19.zepter-catalog.ru
 sber.sberbank.sber.avito.avito.avito.covid19.zapusk-million.ru
+sber.sberbank.sber.blablacar.avito.git.covid19.zalive-akvilon.ru
 sberbank.avito.avito.blablacar.git.git.covid19.zlclubmarket.com
 sberbank.avito.sber.gitlab.www.covid19.zalive-akvilon.ru
 sberbank.sber.blablacar.avito.covid19.zapusk-million.ru
@@ -579,6 +581,7 @@ zebratest.eu
 zecchinodoro.org
 zeebra.nl
 zelo.zelomeetings.com
+zemekcompany.com
 zenika.com.tr
 zenstoneproperties.co.uk
 zenwire.de
@@ -598,6 +601,7 @@ zionpeace.co.za
 zm.org.pl
 znsecurity.ro
 zolenidelivery.com
+zombieproofsecurity.co.za
 zonamuonline.com
 zoonkie.com
 zorgictzorgen.nl
@@ -611,6 +615,7 @@ zuvaenergies.com
 zuydcyclingteam.nl
 zvilapian.com
 zycielidera.pl
+zynktech.com
 absidion.ji.zh.ch
 adcs.zopian.net
 adfs.infrastructure.zopa.com
