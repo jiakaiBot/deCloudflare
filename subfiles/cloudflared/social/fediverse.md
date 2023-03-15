@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,949 |
 | social | 3,844 |
-| net | 3,047 |
+| net | 3,048 |
 | org | 2,104 |
 | de | 1,988 |
 
@@ -4935,6 +4935,7 @@ Here's a list of public Fediverse services.
 | `c64.chat` | No |
 | `c64.social` | No |
 | `c7.io` | Yes |
+| `c8l.net` | Yes |
 | `c99.org` | Yes |
 | `c9users.io` | No |
 | `ca-os.com` | No |
@@ -7057,7 +7058,7 @@ Here's a list of public Fediverse services.
 | `cuddle.science` | Yes |
 | `cuddlegirls.cafe` | No |
 | `cuddlesarethebest.cf` | No |
-| `cuddleso.me` | No |
+| `cuddleso.me` | Yes |
 | `cuddlr.org` | No |
 | `cuddly.space` | No |
 | `cudy.org` | No |
@@ -39739,8 +39740,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,760 |
-| Normal | 29,936 |
+| Cloudflare | 9,762 |
+| Normal | 29,935 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
