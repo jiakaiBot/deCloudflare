@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,845 |
 | net | 3,050 |
 | org | 2,104 |
-| de | 1,988 |
+| de | 1,990 |
 
 
 - Mastodon, Pleroma, etc
@@ -8771,6 +8771,7 @@ Here's a list of public Fediverse services.
 | `domdom.tokyo` | No |
 | `dominicdewolfe.com` | No |
 | `dominikmarciniak.pl` | No |
+| `dominikschilling.de` | No |
 | `domjh.com` | Yes |
 | `domm.me` | Yes |
 | `dommunicate.com` | Yes |
@@ -14664,6 +14665,7 @@ Here's a list of public Fediverse services.
 | `hoenn.me` | No |
 | `hoergen.org` | No |
 | `hoerli.net` | Yes |
+| `hoersuppe.de` | No |
 | `hoeser.dev` | No |
 | `hoezithetnuecht.nl` | No |
 | `hoffman.studio` | No |
@@ -24575,6 +24577,7 @@ Here's a list of public Fediverse services.
 | `no-ip.info` | No |
 | `no-ip.org` | No |
 | `no-one.dev` | Yes |
+| `no-pony.farm` | No |
 | `no-thoccs.cc` | No |
 | `no-trace.de` | No |
 | `no.zone` | No |
@@ -39759,7 +39762,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,770 |
-| Normal | 29,945 |
+| Normal | 29,948 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
