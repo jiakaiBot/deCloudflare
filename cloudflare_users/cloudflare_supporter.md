@@ -3239,6 +3239,7 @@ Do not create new issue or we will close it as duplicate.
 | [foreverfIawless@twitter](https://twitter.com/foreverfIawless/status/1612795011480838146) | advertise |
 | [ForidUd69936856@twitter](https://twitter.com/ForidUd69936856/status/1402253597501362182) | advertise |
 | [Forms_Ge@twitter](https://twitter.com/Forms_Ge/status/1413774450676453384) | advertise |
+| [fouaadbarcha@twitter](https://twitter.com/fouaadbarcha/status/1636104214572335104) | advertise |
 | [fouad20092000@twitter](https://twitter.com/fouad20092000/status/1472866649971871744) | advertise |
 | [four5z@twitter](https://twitter.com/four5z/status/1503760771494391822) | advertise |
 | [FoxArchipelago@twitter](https://twitter.com/FoxArchipelago/status/1537197310685458433) | advertise |
