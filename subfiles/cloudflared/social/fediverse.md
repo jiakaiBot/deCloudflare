@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,954 |
-| social | 3,844 |
+| com | 5,955 |
+| social | 3,845 |
 | net | 3,050 |
 | org | 2,104 |
 | de | 1,988 |
@@ -4177,6 +4177,7 @@ Here's a list of public Fediverse services.
 | `boanoiteinternet.com.br` | No |
 | `boanus.net` | No |
 | `boardgames.social` | Yes |
+| `boardmad.com` | No |
 | `bob.wtf` | No |
 | `boba.best` | Yes |
 | `boba.fun` | No |
@@ -16472,6 +16473,7 @@ Here's a list of public Fediverse services.
 | `jeffl.es` | Yes |
 | `jefflembeck.com` | Yes |
 | `jeffmcbride.net` | No |
+| `jeffperry.me` | No |
 | `jeffreymiller.org` | No |
 | `jeffscloud.com` | No |
 | `jeffthompson.dev` | Yes |
@@ -29772,6 +29774,7 @@ Here's a list of public Fediverse services.
 | `routingmagic.club` | Yes |
 | `routleynet.org` | No |
 | `rouvray.info` | No |
+| `rovers.social` | No |
 | `rowanparker.social` | No |
 | `rowdy.business` | No |
 | `rows.io` | Yes |
@@ -38110,7 +38113,7 @@ Here's a list of public Fediverse services.
 | `wintermute.se` | No |
 | `winteroak.org.uk` | No |
 | `winterrific.cloud` | No |
-| `winther.social` | No |
+| `winther.social` | Yes |
 | `wintu520.com` | Yes |
 | `wiorca.com` | Yes |
 | `wip.la` | Yes |
@@ -39751,8 +39754,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,768 |
-| Normal | 29,940 |
+| Cloudflare | 9,769 |
+| Normal | 29,942 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
