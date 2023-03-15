@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,953 |
+| com | 5,952 |
 | social | 3,844 |
 | net | 3,050 |
 | org | 2,104 |
@@ -8897,7 +8897,7 @@ Here's a list of public Fediverse services.
 | `douga.ga` | No |
 | `dougaldog.uk` | No |
 | `dougbeal.com` | No |
-| `douglashill.co` | No |
+| `douglashill.co` | Yes |
 | `dounx.me` | No |
 | `douvk.co.uk` | No |
 | `doux.fun` | No |
@@ -26587,7 +26587,6 @@ Here's a list of public Fediverse services.
 | `peacht.art` | Yes |
 | `peachybat.com` | No |
 | `peaco.cc` | Yes |
-| `peacock0803sz.com` | Yes |
 | `peak.pub` | No |
 | `peakimage.net` | Yes |
 | `peakthink.org` | No |
@@ -30928,7 +30927,7 @@ Here's a list of public Fediverse services.
 | `sementerrori.st` | No |
 | `semicharmed.net` | Yes |
 | `semiosen.de` | No |
-| `semiotic.systems` | No |
+| `semiotic.systems` | Yes |
 | `semipvt.com` | No |
 | `semisol.net` | No |
 | `semnil.com` | No |
@@ -39750,8 +39749,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,765 |
-| Normal | 29,942 |
+| Cloudflare | 9,766 |
+| Normal | 29,940 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
