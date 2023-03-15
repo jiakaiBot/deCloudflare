@@ -5132,6 +5132,7 @@ Do not create new issue or we will close it as duplicate.
 | [kamikazed91@twitter](https://twitter.com/kamikazed91/status/1379950655159197699) | advertise |
 | [kamikazenaing@twitter](https://twitter.com/kamikazenaing/status/1391332070744633345) | advertise |
 | [KamilMpa@twitter](https://twitter.com/KamilMpa/status/1398203986210025475) | advertise |
+| [KamizYato@twitter](https://twitter.com/KamizYato/status/1635796915878268928) | advertise |
 | [KamojiSidrai@twitter](https://twitter.com/KamojiSidrai/status/1387253371967471617) | advertise |
 | [Kamonwa60790729@twitter](https://twitter.com/Kamonwa60790729/status/1539934773736804352) | advertise |
 | [kanaan94901823@twitter](https://twitter.com/kanaan94901823/status/1377247977803251712) | advertise |
@@ -5478,8 +5479,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -10498,6 +10499,7 @@ Do not create new issue or we will close it as duplicate.
 | [TaTa21079240@twitter](https://twitter.com/TaTa21079240/status/1392294482998022144) | advertise |
 | [TaTa92332128@twitter](https://twitter.com/TaTa92332128/status/1629148333104156673) | advertise |
 | [Tate93701388@twitter](https://twitter.com/Tate93701388/status/1380071951213850625) | advertise |
+| [TatHtunAung3@twitter](https://twitter.com/TatHtunAung3/status/1635820796647215104) | advertise |
 | [TattooNghia@twitter](https://twitter.com/TattooNghia/status/1399085631028879360) | advertise |
 | [tatuiyo@twitter](https://twitter.com/tatuiyo/status/1494144614231846912) | advertise |
 | [TatumGaming@twitter](https://twitter.com/TatumGaming/status/1448827518337888257) | advertise |
@@ -10767,8 +10769,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
