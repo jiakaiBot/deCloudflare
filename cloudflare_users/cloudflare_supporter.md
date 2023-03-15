@@ -605,6 +605,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlmakLimited@twitter](https://twitter.com/AlmakLimited/status/1400534263007678464) | advertise |
 | [almodaris@twitter](https://twitter.com/almodaris/status/1599436861390192641) | advertise |
 | [almohanad_7rb@twitter](https://twitter.com/almohanad_7rb/status/1396993015231750147) | advertise |
+| [almoodela@twitter](https://twitter.com/almoodela/status/1636060183162937352) | advertise |
 | [Almosmn8@twitter](https://twitter.com/Almosmn8/status/1398362732534112256) | advertise |
 | [alnahas2020@twitter](https://twitter.com/alnahas2020/status/1526095253475835904) | advertise |
 | [alnowafaa@twitter](https://twitter.com/alnowafaa/status/1620552141181181952) | advertise |
@@ -2188,8 +2189,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
