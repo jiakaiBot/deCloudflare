@@ -10926,6 +10926,7 @@ Here's a list of public Fediverse services.
 | `fediverse.cz` | No |
 | `fediverse.express` | No |
 | `fediverse.land` | Yes |
+| `fediverse.lgbt` | No |
 | `fediverse.link` | Yes |
 | `fediverse.lol` | Yes |
 | `fediverse.love` | No |
@@ -11716,6 +11717,7 @@ Here's a list of public Fediverse services.
 | `frawas.de` | No |
 | `frazee.social` | No |
 | `frbg.me` | No |
+| `fre.do` | No |
 | `fre4k.de` | No |
 | `freak.garden` | No |
 | `freak.university` | No |
@@ -18214,6 +18216,7 @@ Here's a list of public Fediverse services.
 | `kriom.net` | No |
 | `krishanv.xyz` | No |
 | `krisstreet.com` | No |
+| `krissy.gay` | No |
 | `kristaps.lv` | No |
 | `kristianfreeman.com` | Yes |
 | `kristoffer-strube.dk` | No |
@@ -27795,6 +27798,7 @@ Here's a list of public Fediverse services.
 | `prehl.social` | No |
 | `prehospitalcare.app` | No |
 | `preke.no` | No |
+| `premis.one` | Yes |
 | `preparandonos.es` | No |
 | `prepedia.org` | No |
 | `preppers-shelter.nl` | No |
@@ -39754,8 +39758,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,769 |
-| Normal | 29,942 |
+| Cloudflare | 9,770 |
+| Normal | 29,945 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
