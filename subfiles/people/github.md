@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Submissions tool is shut down](https://github.com/ietf-tools/datatracker/issues/5350)
 - [anidex (configuring) Anidex search returned unexpected result. Expected 200 OK but got Forbidden.](https://github.com/Jackett/Jackett/issues/14143)
 - [Issue with resolvers](https://github.com/caddyserver/certmagic/issues/219)
 - [Output format 'pdf' not enabled for erd diagrams](https://github.com/yuzutech/kroki/issues/1472)
