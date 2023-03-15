@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,952 |
+| com | 5,954 |
 | social | 3,844 |
 | net | 3,050 |
 | org | 2,104 |
@@ -26587,6 +26587,7 @@ Here's a list of public Fediverse services.
 | `peacht.art` | Yes |
 | `peachybat.com` | No |
 | `peaco.cc` | Yes |
+| `peacock0803sz.com` | Yes |
 | `peak.pub` | No |
 | `peakimage.net` | Yes |
 | `peakthink.org` | No |
@@ -36380,6 +36381,7 @@ Here's a list of public Fediverse services.
 | `umiamz.me` | Yes |
 | `umikaki.net` | Yes |
 | `umirin.me` | No |
+| `umisskey.com` | Yes |
 | `umit.social` | No |
 | `umiu.si` | No |
 | `umiumi.net` | No |
@@ -39749,7 +39751,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,766 |
+| Cloudflare | 9,768 |
 | Normal | 29,940 |
 
 
