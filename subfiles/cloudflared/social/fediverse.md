@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,948 |
+| com | 5,949 |
 | social | 3,843 |
 | net | 3,047 |
 | org | 2,104 |
@@ -8742,7 +8742,7 @@ Here's a list of public Fediverse services.
 | `dojos.social` | Yes |
 | `dojpride.org` | No |
 | `dokasen.com` | No |
-| `dokodare.net` | Yes |
+| `dokodare.net` | No |
 | `dokodare.ovh` | Yes |
 | `dokushodon.life` | No |
 | `dokushonary.com` | No |
@@ -14338,6 +14338,7 @@ Here's a list of public Fediverse services.
 | `herestomwiththeweather.com` | No |
 | `heresy.cc` | No |
 | `heretic.social` | No |
+| `heretyc.com` | No |
 | `hergorn.com` | No |
 | `herkenhoff.com` | No |
 | `herkenhoff.eu` | No |
@@ -39735,8 +39736,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,761 |
-| Normal | 29,931 |
+| Cloudflare | 9,760 |
+| Normal | 29,933 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
