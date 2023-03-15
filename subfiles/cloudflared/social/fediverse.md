@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,949 |
-| social | 3,843 |
+| social | 3,844 |
 | net | 3,047 |
 | org | 2,104 |
 | de | 1,988 |
@@ -5620,6 +5620,7 @@ Here's a list of public Fediverse services.
 | `chemtrail.airforce` | No |
 | `cheney.net` | No |
 | `cherain.be` | No |
+| `cheri.pink` | No |
 | `cheribaker.com` | Yes |
 | `chernoberl.in` | No |
 | `chernow.org` | No |
@@ -22016,6 +22017,7 @@ Here's a list of public Fediverse services.
 | `mikeshouse.live` | No |
 | `mikespla.in` | Yes |
 | `mikesplaces.blog` | No |
+| `mikestanley.me` | No |
 | `mikestone.me` | No |
 | `mikev.com` | No |
 | `mikewells.name` | No |
@@ -30060,6 +30062,7 @@ Here's a list of public Fediverse services.
 | `sabakan.industries` | Yes |
 | `sabatino.cloud` | No |
 | `sabatino.pro` | No |
+| `sabbeln.social` | No |
 | `sabertooth.social` | No |
 | `sabletopia.co.uk` | Yes |
 | `sabordage.net` | No |
@@ -39737,7 +39740,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,760 |
-| Normal | 29,933 |
+| Normal | 29,936 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
