@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,953 |
 | social | 3,844 |
-| net | 3,049 |
+| net | 3,050 |
 | org | 2,104 |
 | de | 1,988 |
 
@@ -28004,6 +28004,7 @@ Here's a list of public Fediverse services.
 | `prowrestling.space` | No |
 | `proximitysculptor.com` | Yes |
 | `proxion.de` | No |
+| `proxymana.net` | No |
 | `proyectolanuevatierra.com` | Yes |
 | `proyectosilustrados.es` | No |
 | `proyectozero.org` | Yes |
@@ -29472,7 +29473,7 @@ Here's a list of public Fediverse services.
 | `ritterswelt.eu` | No |
 | `rittmanchat.org` | No |
 | `rivage.tk` | No |
-| `rivals.live` | Yes |
+| `rivals.live` | No |
 | `rivals.space` | Yes |
 | `rivendell.cafe` | No |
 | `riverscape.info` | No |
@@ -30277,6 +30278,7 @@ Here's a list of public Fediverse services.
 | `sanguinem.space` | No |
 | `sanguok.com` | Yes |
 | `sanic.style` | No |
+| `sanifair.xyz` | No |
 | `sanin.club` | No |
 | `sanin.link` | Yes |
 | `sanjuanislands.social` | No |
@@ -39748,8 +39750,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,766 |
-| Normal | 29,939 |
+| Cloudflare | 9,765 |
+| Normal | 29,942 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
