@@ -690,6 +690,7 @@ Or is this merely a case of simple modesty?
 | Helen Tabunshchyk | Systems Engineer |  |
 | Hemel Patel | Account Executive |  |
 | Henry Andrews | Systems Engineer |  |
+| Henry Clausen | Employee | |
 | Henry de Valence | Engineer |  |
 | Henry Heinemann | Business Development | https://twitter.com/HenryHeinemann<br>https://be.linkedin.com/in/henry-heinemann-b97bb973 |
 | Henry Marble | Business Development | https://www.linkedin.com/in/henry-marble |
@@ -861,6 +862,7 @@ Or is this merely a case of simple modesty?
 | John Arndt | Customer Development |  |
 | John Bauer | Systems Engineer |  |
 | John Charles | Employee |  |
+| John Cosgrove | Employee | |
 | John Donmoyer | Employee |  |
 | John Engates | Employee | |
 | John Esterline | Technical Support Engineer |  |
@@ -1384,6 +1386,7 @@ Or is this merely a case of simple modesty?
 | Peter Belesis | Employee |  |
 | Peter Carlsten | Interconnection Strategy |  |
 | Peter Dumanian | Business Development |  |
+| Peter Foster | Employee | |
 | Peter H. Taylor | Global Infrastructure |  |
 | Peter Jensen | Employee |  |
 | Peter Reidy | Enterprise Sales |  |
