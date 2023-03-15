@@ -332,6 +332,7 @@ apple-icloud-ip.xn--l9jzd2076a.biz
 beta.xsafe.app
 cash.xpresspay.bg
 cdn.x1cdn.com
+collections.xcash.ph
 connectorprod.timetrack.xora.com
 core-rules-executor-gen1-srv.qa-chicago.xara.ai
 cpanel.xn--schlsseldienstindernhe-k5b37c.at
@@ -349,7 +350,6 @@ google.com39.xn--e1affn.xn--p1ai
 investors.xostrucks.com
 itsupport.x-filme.de
 nms.xantion.nl
-psu.xbyte.com
 qpbetinfo.xusxsf.com
 saga.xtec.cat
 sb-connect.xpollens.com
@@ -365,6 +365,7 @@ www.astrofxstocks.xpressdelivery.net
 www.przytulas.com.eon46.xaa.pl
 www.sfr.xn--vrification-bbb.com
 www.ticket.xdomainhost.com
+www.users.xieon-finance.com
 www.x-controls.nl
 www.x95radio.com
 www.xatakamovil.com
@@ -379,6 +380,7 @@ www.xhulsteam.com
 www.xlbusinessfinance.co.uk
 www.xn----uwfd8e6cn4af5c1ei.com
 www.xn--altbausanierung-grtz-kbc.de
+www.xn--amazon-2o4e9b4m8fte4dvb7ef.tokyo
 www.xn--billiglsesmed-vfb.dk
 www.xn--bnzhof-3ya.ch
 www.xn--brommatrdfllning-2nbc.se
