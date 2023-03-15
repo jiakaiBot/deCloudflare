@@ -39,7 +39,6 @@ api.kliniq.co
 api.kmart.co.nz
 api.newpoker.klasgaming.com
 apifreelancersafe.kayadev.ir
-app.kazancinnoktasi.site
 apps.kiai.co
 ar407.keap-link005.com
 assets.kpmg.com
@@ -146,7 +145,6 @@ git.git.git.gitlab.support.kaydzen.com
 git.git.gitlab.gitlab.pma.kupon-likest.ru
 git.git.gmail.comune.kc-boost.ru
 git.gitlab.git.git.git.login.kanzler-vt.de
-git.gitlab.git.git.git.maill.kazancinnoktasi.site
 git.gitlab.gitlab.git.gmail.comune.kc-boost.ru
 git.gitlab.gitlab.gitlab.a.swarm.int.ksolutions.com.ua
 gitlab.a.blog.ginger.tst.int.ksolutions.com.ua
@@ -449,7 +447,6 @@ loan.kagawabank.co.jp
 login.microsoftonline.com-oauth2-wa-authorize.kukakenya.com
 logisticsbureau.keap-link015.com
 m.kabum.com.br
-m.kazancinnoktasi.site
 mail.kabarbonekpersebaya.com
 mail.kalited.com
 mail.kitroyale.com
@@ -615,7 +612,6 @@ www.git.blog.blog.blog.mail.klas.cc
 www.git.git.git.git.git.kelharjamukti.cirebonmsecure.kareprost-24.ru
 www.git.git.git.git.gitlab.localhost.kino-teka.ru
 www.git.git.git.git.kelharjamukti.cirebonmsecure.kareprost-24.ru
-www.git.git.gitlab.git.gitlab.gitlab.app.kazancinnoktasi.site
 www.git.gitlab.git.git.kelharjamukti.cirebonmsecure.kareprost-24.ru
 www.git.gitlab.git.jtnjsll2.kmctd.com
 www.git.gitlab.gitlab.admin.kronap.com
@@ -625,7 +621,6 @@ www.git.gitlab.webdisk.derbyaffost.kirillreshetnikov.ru
 www.gitlab.git.git.git.gitlab.astore.crm.kleinformart.com
 www.gitlab.git.git.gitlab.git.1g7xch4pi9fwvqg.backoffice.km-torgi.ru
 www.gitlab.git.git.kelharjamukti.cirebonmsecure.kareprost-24.ru
-www.gitlab.git.gitlab.gitlab.app.kazancinnoktasi.site
 www.gitlab.gitlab.git.gitlab.git.astore.crm.kleinformart.com
 www.gitlab.gitlab.gitlab.gitlab.office.kalino.biz
 www.gitlab.gitlab.webdisk.derbyaffost.kirillreshetnikov.ru
@@ -1238,7 +1233,6 @@ support.kietol.es
 support.klompbv.nl
 survey.us.kpmg.com
 tg.keksik.io
-tgb.kriptoetkinlik.com
 tinasa-uat.kanootravel.com
 tinder.kurohara-erog.com
 tracklimit.katch-up.de
@@ -1391,7 +1385,6 @@ www.kaway-assurances.com
 www.kayasanyapi.com
 www.kayayapi.net
 www.kazan-futes.info
-www.kazancinnoktasi.site
 www.kb-consultinggroup.com
 www.kbc-bordtennis.dk
 www.kbcapitalllc.com
@@ -1671,6 +1664,7 @@ zunastatic-abf.kxcdn.com
 413.pr.stater.nl.kiwicloud.nl
 419.pr.stater.nl.kiwicloud.nl
 496.pr.stater.nl.kiwicloud.nl
+5v89tc9gls.kul-acdm.com
 8.kinoihooter.shop
 aakash.kuber.shop
 accept.cosmohairstyling.com.kiwicloud.nl
@@ -1692,8 +1686,10 @@ app.k6222f.com
 appleidunlock.kejibear.top
 ar407.keap-link019.com
 arteydiseno.klientoo.net
+assessments-launch.kfproducts.com
 auth.cim-au.kyocera.biz
 auth.kiju.me
+auth.vpn.kali-ewert.me
 authtest.kocespay.com
 autodiscover.kinitro-exartimata.gr
 autodiscover.krishnaparmar.ca
@@ -1810,6 +1806,7 @@ googleyandex.keenetic.link
 graphql-build.kfh.co.uk
 harmony.kiaindia.net
 harrison.klivvrservices.com
+harrison.stg.klivvrservices.com
 helpdesk.ktblack.com
 iason.kaptara.de
 ikanobostad.kravportal.se
@@ -1821,6 +1818,7 @@ jb121.keap-link002.com
 jon.kelbie.scot
 k-solar.com.pk
 k-www4.kepco.co.jp
+k1ticket.fr
 kabardenpasartv.com
 kadomaca.vn
 kaelweston.com
@@ -1832,6 +1830,7 @@ kalale.co
 kalasso.vn
 kaliahomeperu.com
 kaltiautoszerviz.hu
+kam.sg
 kamleshcraneservice.in
 kammlers-panzerladen.de
 kanasecure.com
@@ -1878,6 +1877,7 @@ keith-baker.com
 keithhodesign.com.my
 kelataksipalvelu.fi
 kellykapsar.com
+kelschwab.ca
 kemanghouseforrent.com
 kemenagsamarinda.id
 kendysempire.com.ng
@@ -1986,6 +1986,7 @@ krakendesigns.net
 krakenshop.top
 krasotaistil.bg
 kravi.co.il
+krbiak.ru
 kredittoyotadkijakarta.com
 kredytnadomuk.co.uk
 kridhadhari.com
@@ -2005,10 +2006,12 @@ ktalents.com.my
 ktempestbradford.com
 ktl-da.kashiyama.com
 kuadsystem.com
+kubanka.hu
 kuber247exchange.com
 kubwa.dog
 kudunyahoo.com
 kukarkab.go.id
+kulttuuritoimitus.fi
 kumescim.com
 kundskap.nu
 kuramastore.es
@@ -2080,6 +2083,7 @@ radarr-discord.kanazaca.com
 rasvr.kashiyama.com
 reciclare-hartie.kometaservice.ro
 relaunch.knp-forschung.de
+repsol-beta.kbc-trust.com
 repsol-yme.kairos-cra.no
 review-ci-import-2i3qc7.design.kidways.fr
 rl142.keap-link006.com
@@ -2101,6 +2105,7 @@ sb.kurashi-denki.jp
 sber.avito.avito.avito.blablacar.sber.covid19.kozlovaresult.com
 sber.avito.blablacar.sberbank.covid19.kpd101studio.com
 sber.avito.sber.sber.sber.blablacar.covid19.kupit-banyu-38.ru
+sber.avito.sber.sber.sberbank.sber.covid19.karuseldetstva.ru
 sber.sber.avito.avito.sber.www.covid19.kozlovaresult.com
 sber.sber.avito.avito.sberbank.covid19.kozlovaresult.com
 sber.sber.avito.avito.sberbank.www.covid19.kleinformart.com
@@ -2178,6 +2183,7 @@ ww17.ma.bmnet.www.usaa-com.kohlz.com
 ww17.netscapenet.www.usaa-com.kohlz.com
 ww17.yumbmnet.www.usaa-com.kohlz.com
 www.103-standish-ave-1.kaitlyncasso.com
+www.22-arch-st-anson-1.kaitlyncasso.com
 www.220-yonkers-ave.kaitlyncasso.com
 www.3-trolley-pl-5.kaitlyncasso.com
 www.3-trolley-place-23.kaitlyncasso.com
@@ -2191,6 +2197,7 @@ www.banktryout.com.khaulahsayu.com
 www.beforeupdate.kinzakazmi.com
 www.beforeupdate.kirkbyskipsltd.co.uk
 www.beforeupdate.kristen-welsh.com
+www.billing.kateeza.in
 www.billing.kindredstudio.ca
 www.blog.demo.vpn.kingofkingsfood.com
 www.catholic-citizen-1.kofclilburn.org
@@ -2258,6 +2265,7 @@ www.karjalansivistysseura.fi
 www.karleigh-merritt-henry.com
 www.karlemo.se
 www.kassirersports.com
+www.kataab.de
 www.kateholden.art
 www.kateodonnell.work
 www.kateraworth.com
@@ -2267,6 +2275,7 @@ www.katieamandasmith.com
 www.katiesmusicstudio.ca
 www.katmereacademy.com
 www.katrinhildebrandt.com
+www.kauaicomicconvention.com
 www.kavak.com
 www.kawaiiikyra.com
 www.kbc-build.com
@@ -2290,6 +2299,7 @@ www.kebabalibaba.co.id
 www.kebuna.com
 www.keeconsultinggroup.com
 www.keepbuttesafe.com
+www.keepersecurity.com
 www.keepwalkingclubvn.com
 www.keftihamarm.com
 www.keikkakunkku.fi
@@ -2321,6 +2331,7 @@ www.kfconsulting.fr
 www.kfkv-niedersachsen-bremen.de
 www.kfmbstations.com
 www.kfz-sommerpark.de
+www.kgchase.com
 www.kget.com
 www.kharistempleman.com
 www.khon2.com
@@ -2389,6 +2400,7 @@ www.kraeuterpellets.de
 www.kraken-paulocalcrew.fr
 www.krakenberger.org
 www.krakenbooks.com
+www.krakenbrangus.com
 www.krakenconsult.com
 www.krakencustommarine.com
 www.krakencustomsmarine.com
@@ -2397,6 +2409,7 @@ www.krakendtuig.nl
 www.krakengear.shop
 www.krakenlocs.com
 www.krakenmediallc.com
+www.krakenmobiledetail.com
 www.krakenmusic.com
 www.krakenshoppstore.com
 www.kratochvil.hu
@@ -2449,6 +2462,7 @@ www.oidom.kivakotipalvelu.fi
 www.olivers-christening.kaitlyncasso.com
 www.parallax.kunde-formativ.net
 www.parcelmove.ksbminfotech.in
+www.payment.kud-aris.org
 www.queue.kkdclient.site
 www.reciclare-hartie.kometaservice.ro
 www.report.karyasentosanugraha.com
@@ -2483,6 +2497,7 @@ www.whatsapp.klinikkitamura.com
 www.whatsappfood.kamwally.com
 www.zbor.kravarsko.eu
 www1.ksw.co.jp
+xm712.keap-link004.com
 xxljobapi.keppelvolt.com
 yk495.keap-link017.com
 zr200.keap-link002.com
