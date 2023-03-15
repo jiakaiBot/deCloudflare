@@ -12396,6 +12396,7 @@ Do not create new issue or we will close it as duplicate.
 | [YxngZaZa69@twitter](https://twitter.com/YxngZaZa69/status/1471604103297994757) | advertise |
 | [YYairBB@twitter](https://twitter.com/YYairBB/status/1377950035653066758) | advertise |
 | [Yyint0071@twitter](https://twitter.com/Yyint0071/status/1390727936060317696) | advertise |
+| [YYYDarian@twitter](https://twitter.com/YYYDarian/status/1636031709258072065) | advertise |
 | [Yyyoshihito1@twitter](https://twitter.com/Yyyoshihito1/status/1401931121340796928) | advertise |
 | [YZ82938234@twitter](https://twitter.com/YZ82938234/status/1478872410287869953) | advertise |
 | [yzusuke01664@twitter](https://twitter.com/yzusuke01664/status/1603427989747662855) | advertise |
