@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [anidex (configuring) Anidex search returned unexpected result. Expected 200 OK but got Forbidden.](https://github.com/Jackett/Jackett/issues/14143)
+- [Issue with resolvers](https://github.com/caddyserver/certmagic/issues/219)
+- [Output format 'pdf' not enabled for erd diagrams](https://github.com/yuzutech/kroki/issues/1472)
 - [fraidyc.at timeout / 522 CloudFlare error](https://github.com/kickscondor/fraidycat/issues/258)
 - [V2ray limitations over MCI and TCI](https://github.com/net4people/bbs/issues/227)
 - [MangaFreak failing to bypass cloudflare](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/15714)
