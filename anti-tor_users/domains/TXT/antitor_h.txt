@@ -64,7 +64,6 @@ backup.hikmahshares.com
 bank-api.hubfintech.com.br
 bankunited.hepsiian.com
 bcp.selfservice.hrms.sa.gov.au
-beheer.helpdesk-kr8tig.nl
 belgian-cleavers.herokuapp.com
 bergman.house.gov
 beta.ugla.hi.is
@@ -2304,6 +2303,7 @@ ats-api.hireserve.nl
 aurajasmani.hjnitro.com
 auth-server-demo.health-cld2020.com
 auth.taggr.holmerit.se
+autodiscover.happynewyear2023.co
 autodiscover.heinbuch.net
 autodiscover.hitechmembranes.co.nz
 autodiscover.homesquad.co.za
@@ -2327,6 +2327,7 @@ blog.hostripe.com
 bml-servicestelle.highq-projekte.de
 booking.essexwigcentre.co.uk.hairrevisited.com
 booking.hotelchailinn.com
+booking.hotshotsentertainment.co.uk
 bookings.healthshare.com.au
 bookings.hypeoccasions.com.au
 bookmark.hatenaapis.com
@@ -2352,6 +2353,7 @@ clinicalconnection.hopkinsmedicine.org
 cmaf.akm.us.hbomaxcdn.com
 cmaf.cf.us.hbomaxcdn.com
 cmb-dsp.uk.secure.hsbcnet.com
+cobra.hrcts.com
 collapsable-tiresias.herokuapp.com
 com.auhtoutlook.heavymetalmerchant.com
 com.auhtwww.outlook.heavymetalmerchant.com
@@ -2363,7 +2365,9 @@ cos-opo-api.herokuapp.com
 covid19.himchistka-dom.ru
 covid2.healthbit.com.br
 covidimpact.com.auhtwww.outlook.heavymetalmerchant.com
+cpcalendars.happynewyear2023.co
 cpcalendars.hingesautogarage.co.ke
+cpcontacts.happynewyear2023.co
 crmonlin.cloud12.hostingpalvelu.fi
 csaladfa.hornyak.hu
 curvy-architrave.herokuapp.com
@@ -2390,6 +2394,7 @@ docker.rtf.internal.srsng-int.hcvpc.io
 documenttacions-careerforlangs.herokuapp.com
 dr-3267-add-link-for-new-ticket.ddl.hathor.cc
 driver2.hktaxiapp.com
+driverservices.hubgrouptrucking.com
 dsp.hsbc.co.uk
 dvza-o.login.healthexchange.nl
 dvza-preprod.healthexchange.nl
@@ -2626,6 +2631,7 @@ hivebusinesssupport.org
 hivisiondevelopers.com
 hiwinhongkong.com
 hiwwelwoi.shop
+hizlifaturaodeme.com
 hjmag.com
 hjmergner.de
 hjv2.dk
@@ -2771,6 +2777,7 @@ mail.homeimprovementblandford.com
 mail.hovint.am
 mail2.home-connect.com
 maintenance.hkcfa.hk
+maintenance.hrab.org.hk
 marbodalkbasecure.herokuapp.com
 mars-edi-prod.hdispo.me
 mctwsupport.hkmci.com.tw
@@ -2788,6 +2795,7 @@ monitoring.metrics.herokai.com
 mu.hebi3.work
 muntolaf.cloud15.hostingpalvelu.fi
 musicscapes.herokuapp.com
+my.habinteg.org.uk
 mytax.hasil.gov.my
 new-staging.healthsharevic.org.au
 new.host4services.com
@@ -2845,6 +2853,7 @@ sber.sber.avito.blablacar.avito.gitlab.covid19.haulertrader.com
 sber.sber.sber.avito.avito.www.www.covid19.haulittrader.com
 sberbank.avito.avito.avito.www.www.covid19.haulittrader.com
 sberbank.avito.avito.blablacar.sber.covid19.himchistka-dom.ru
+sberbank.avito.sberbank.avito.blablacar.covid19.haulittrader.com
 sberbank.sber.avito.www.www.www.www.covid19.haulittrader.com
 sberbank.sber.blablacar.avito.sber.www.covid19.hydro-doctor.com
 secure-mountain-22101.herokuapp.com
@@ -2877,6 +2886,7 @@ steam.hogahk.com
 support.iforgot-id.ws.helpsupports.xyz
 suscripcionestest.handsoft.com.uy
 sync.healthcheck-medel.it
+t.t.home.saxo
 team.hcommons.org
 techmania-team.herokuapp.com
 terminator-hsv-fix-captcha.homeserve.io
@@ -2888,6 +2898,7 @@ test.hongo-japan.jp
 test.hotelbristol.no
 touched-artilleryman.herokuapp.com
 tr.heryerdeniz.com
+track.hcgmedia.com
 travaux.helloartisan.com
 treed-mendelism.herokuapp.com
 trust-site-u-client-ip-ylapepk.herokuapp.com
@@ -2896,6 +2907,7 @@ uat-smf.hlb.com.my
 ucsdata.healow.com
 ucsinternal.healow.com
 unstated-patroller.herokuapp.com
+unwashed-gum.herokuapp.com
 update.vat.hetwalhalla.nl
 users.heyyogame.com
 v2202211186319205850.happysrv.de
@@ -2911,6 +2923,7 @@ wallet-bank-dre.cloud.huawei.com.cn
 weaccess.huawei.com
 webdav-qs.hidrive.com
 webdisk.covidimpact.com.auhtwww.outlook.heavymetalmerchant.com
+webdisk.happynewyear2023.co
 webdisk.homsasesoresjuridicos.com
 webproxy.halla.com
 woolgathering-expertness.herokuapp.com
@@ -2927,14 +2940,17 @@ www.authenticfaroesehouse.hotelmoinmoin.top
 www.avito.sberbank.avito.andystonecold2009.hardstresser.com
 www.bill.hmeaworld.com
 www.billing.hostnet.id
+www.billing.hsvision.in
 www.blog.hostripe.com
 www.booking-staging.happycarwash.my
 www.booking.harmonyhisar.com
 www.booking.havnsoe.com
 www.booking.hotelbeasmanali.com
 www.bookingensuite.hotelinn.top
+www.bookings.holidayletswithkirsty.com
 www.bottracking.hardworktoday.online
 www.c19esp.habibcognitionlab.com
+www.casa-colarusso.homeinterni.it
 www.cities.houseofsticks.net
 www.client.homesweetgh.com
 www.client.hostbare.com
@@ -3008,11 +3024,13 @@ www.happybirthdayshandy.org
 www.happyhollowfarm.org
 www.haqoverseas.com
 www.haravmamo.co.il
+www.harbortothebay.org
 www.hardhills-chasers.nl
 www.hardys24recovery.co.uk
 www.harmonycentral.com
 www.haro-constructions.co.uk
 www.harpersplumbing.ca
+www.harrietstanley.com
 www.harrisonlendinggroup.com
 www.hartwellchiropractic.com
 www.harvard-kent.org
@@ -3077,6 +3095,7 @@ www.helponthespectrum.com
 www.helpservice.pro
 www.helpspectrum.com
 www.helyjah.com
+www.henricoandaconstanta.ro
 www.henriqueazulejista96gmail.com.br
 www.heraldsun.com.au
 www.hercold.com
@@ -3190,6 +3209,7 @@ www.horusseguridad.com
 www.hoshiyama-unyu.com
 www.hospitalityandcateringnews.com
 www.hostsahara.com
+www.hotchatmoments.com
 www.hotel-argenton.com
 www.hotel-lion-argent.com
 www.hotelier.lv
@@ -3247,10 +3267,13 @@ www.huntervipreghin.ro
 www.huntingleroux.com
 www.huntington-hilfe-salzburg.at
 www.huntington-hills.org
+www.huntingtonbeachvacationhome.com
+www.huntingtoncenterbarberandbeautysalon.com
 www.huntingtonfamilydentist.com
 www.huntingtonharbour.net
 www.huntingtonmilitia.com
 www.huntingtonsclub.com
+www.huntingtontomorrow.com
 www.huntingtontrails.org
 www.huntingtonvillage.bid
 www.huntraco.hu
@@ -3259,7 +3282,6 @@ www.hutovpn.xyz
 www.hvnplus.co.uk
 www.hydro-huebner.de
 www.hydrolift.com.tr
-www.hyggehem.com
 www.hygieneering.com
 www.hypersensiblesheureux.com
 www.hypnoresults.com.au
@@ -3309,6 +3331,7 @@ www.whatsapp.hwspedia.com
 www.wk452.hachebay.com
 www.www.www.www.instagram.hrnewyear.ru
 www.www.www.www.www.instagram.hrnewyear.ru
+www0.hkcfa.hk
 www2.online-banking.business.hsbc.com.hk
 wyze.herokuapp.com
 wyzeio-staging.herokuapp.com
