@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,952 |
+| com | 5,953 |
 | social | 3,844 |
 | net | 3,049 |
 | org | 2,104 |
@@ -34761,6 +34761,7 @@ Here's a list of public Fediverse services.
 | `thewatercooler.cc` | Yes |
 | `theway.social` | No |
 | `thewdhanat.com` | Yes |
+| `theweatherstationexperts.com` | Yes |
 | `thewebres.com` | Yes |
 | `thewebzone.net` | No |
 | `thewell.ml` | No |
@@ -39747,7 +39748,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,765 |
+| Cloudflare | 9,766 |
 | Normal | 29,939 |
 
 
