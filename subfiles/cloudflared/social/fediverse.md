@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,949 |
+| com | 5,952 |
 | social | 3,844 |
-| net | 3,048 |
+| net | 3,049 |
 | org | 2,104 |
 | de | 1,988 |
 
@@ -3199,6 +3199,7 @@ Here's a list of public Fediverse services.
 | `basilweb.net` | No |
 | `basjes.nl` | No |
 | `bassam.social` | Yes |
+| `basskey.net` | No |
 | `basspistol.org` | No |
 | `basstdn.jp` | Yes |
 | `bastelbude.eu` | No |
@@ -11661,6 +11662,7 @@ Here's a list of public Fediverse services.
 | `fr.cr` | Yes |
 | `fr.nf` | No |
 | `fr.to` | Yes |
+| `fr0g.tech` | No |
 | `fr13nd5.com` | No |
 | `fr13nds.cc` | No |
 | `fractalco.re` | Yes |
@@ -16465,7 +16467,7 @@ Here's a list of public Fediverse services.
 | `jedillama.net` | No |
 | `jeena.net` | No |
 | `jeff.town` | No |
-| `jeffburg.social` | No |
+| `jeffburg.social` | Yes |
 | `jeffjeff.us` | No |
 | `jeffl.es` | Yes |
 | `jefflembeck.com` | Yes |
@@ -16783,6 +16785,7 @@ Here's a list of public Fediverse services.
 | `jonkman.ca` | No |
 | `jonleibowitz.com` | Yes |
 | `jonleibowitz.social` | Yes |
+| `jonlowrey.com` | No |
 | `jonmasters.social` | No |
 | `jonossaseuraava.eu` | Yes |
 | `jonossaseuraava.net` | No |
@@ -19402,6 +19405,7 @@ Here's a list of public Fediverse services.
 | `little.place` | No |
 | `littlebird.social` | No |
 | `littlebit.social` | No |
+| `littleblue.men` | Yes |
 | `littlebonsai.co.uk` | No |
 | `littlecommunity.de` | No |
 | `littlecosmic.net` | Yes |
@@ -26583,6 +26587,7 @@ Here's a list of public Fediverse services.
 | `peacht.art` | Yes |
 | `peachybat.com` | No |
 | `peaco.cc` | Yes |
+| `peacock0803sz.com` | Yes |
 | `peak.pub` | No |
 | `peakimage.net` | Yes |
 | `peakthink.org` | No |
@@ -30049,6 +30054,7 @@ Here's a list of public Fediverse services.
 | `s4y.us` | Yes |
 | `s6jr.com` | No |
 | `s7t.de` | No |
+| `s9e.is` | No |
 | `saadatmand.pk` | No |
 | `saadnpq.com` | No |
 | `saagarjha.com` | No |
@@ -33370,6 +33376,7 @@ Here's a list of public Fediverse services.
 | `suspendedparticle.de` | No |
 | `sussyincorporated.net` | No |
 | `sustainably.social` | No |
+| `susurrando.com` | No |
 | `sutera.fi` | No |
 | `sutra.rs` | No |
 | `sutrofan.com` | No |
@@ -39740,8 +39747,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,762 |
-| Normal | 29,935 |
+| Cloudflare | 9,765 |
+| Normal | 29,939 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
