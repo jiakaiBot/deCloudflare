@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [fraidyc.at timeout / 522 CloudFlare error](https://github.com/kickscondor/fraidycat/issues/258)
 - [V2ray limitations over MCI and TCI](https://github.com/net4people/bbs/issues/227)
 - [MangaFreak failing to bypass cloudflare](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/15714)
 - [BR: Error in unban statement in fail2ban/config/action.d/cloudflare-token.conf](https://github.com/fail2ban/fail2ban/issues/3479)
