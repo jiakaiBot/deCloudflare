@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,962 |
+| com | 5,964 |
 | social | 3,846 |
-| net | 3,051 |
+| net | 3,052 |
 | org | 2,105 |
-| de | 1,994 |
+| de | 1,995 |
 
 
 - Mastodon, Pleroma, etc
@@ -1040,6 +1040,7 @@ Here's a list of public Fediverse services.
 | `aestus.club` | No |
 | `aestus.monster` | No |
 | `aether.re` | No |
+| `aether.run` | No |
 | `aether.us` | No |
 | `aethercom.de` | No |
 | `aetheri.ca` | No |
@@ -12533,7 +12534,7 @@ Here's a list of public Fediverse services.
 | `gated.space` | Yes |
 | `gatewayy.net` | Yes |
 | `gath.io` | No |
-| `gath.nz` | No |
+| `gath.nz` | Yes |
 | `gathernorust.net` | No |
 | `gatorarms.net` | Yes |
 | `gattai.net` | No |
@@ -17312,6 +17313,7 @@ Here's a list of public Fediverse services.
 | `karlsoderstrom.social` | Yes |
 | `karlsruhe-social.de` | No |
 | `karlsruhe.social` | No |
+| `karlvalentin.de` | No |
 | `karlzoller.dev` | No |
 | `karmafunk.xyz` | No |
 | `karo.ly` | No |
@@ -21305,6 +21307,7 @@ Here's a list of public Fediverse services.
 | `matthewgall.chat` | Yes |
 | `matthewgraybosch.com` | No |
 | `matthewkrohn.net` | No |
+| `matthewmcvickar.com` | No |
 | `matthewshanley.com` | No |
 | `matthewzeman.net` | No |
 | `matthias-bender.de` | No |
@@ -24169,6 +24172,7 @@ Here's a list of public Fediverse services.
 | `networkingnomad.net` | No |
 | `networkmusicfestival.org` | No |
 | `networkteam.social` | No |
+| `netwulf.com` | No |
 | `netxms.org` | Yes |
 | `netz-treff.de` | Yes |
 | `netz.me` | Yes |
@@ -25068,6 +25072,7 @@ Here's a list of public Fediverse services.
 | `nuklear.family` | No |
 | `nuklear.photos` | No |
 | `nuklearfiziks.com` | No |
+| `nukumori-gay.space` | Yes |
 | `nul.ie` | Yes |
 | `nul.tokyo` | No |
 | `null.media` | No |
@@ -29112,6 +29117,7 @@ Here's a list of public Fediverse services.
 | `reidodon.net` | No |
 | `reil.de` | No |
 | `reima.rocks` | No |
+| `reimalab.art` | No |
 | `reimu.info` | Yes |
 | `reinboar.space` | Yes |
 | `reinboar.xyz` | Yes |
@@ -31396,7 +31402,7 @@ Here's a list of public Fediverse services.
 | `sideofburritos.com` | Yes |
 | `sideofburritos.social` | Yes |
 | `sidequest.social` | No |
-| `sideras.net` | No |
+| `sideras.net` | Yes |
 | `sideslip.social` | No |
 | `sidestreetapps.net` | Yes |
 | `sidetools.net` | Yes |
@@ -33144,6 +33150,7 @@ Here's a list of public Fediverse services.
 | `studiosabatino.it` | No |
 | `studiosjb.net` | No |
 | `studyabroad.social` | Yes |
+| `studyfun.live` | Yes |
 | `studyfun999.xyz` | Yes |
 | `stuebinm.eu` | No |
 | `stuffat2106.xyz` | Yes |
@@ -37176,6 +37183,7 @@ Here's a list of public Fediverse services.
 | `vincentux.fr` | No |
 | `vincode.io` | No |
 | `vindi.ca` | Yes |
+| `vinegarinn.studio` | No |
 | `vinerivisions.com` | No |
 | `vinilox.eu` | No |
 | `vinodjam.com` | No |
@@ -37452,6 +37460,7 @@ Here's a list of public Fediverse services.
 | `vulpo.one` | Yes |
 | `vulturion.com` | No |
 | `vutazeal.com` | Yes |
+| `vvdog.net` | No |
 | `vvil.jp` | No |
 | `vvitches.live` | No |
 | `vvn.space` | No |
@@ -39785,8 +39794,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,779 |
-| Normal | 29,963 |
+| Cloudflare | 9,783 |
+| Normal | 29,968 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
