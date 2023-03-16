@@ -458,6 +458,7 @@ Do not create new issue or we will close it as duplicate.
 | [AiSai74406980@twitter](https://twitter.com/AiSai74406980/status/1395162674292432898) | advertise |
 | [Aitizaz14@twitter](https://twitter.com/Aitizaz14/status/1484956706610233350) | advertise |
 | [aizatjalil98@twitter](https://twitter.com/aizatjalil98/status/1623159720659017728) | advertise |
+| [aizuddinyusof@twitter](https://twitter.com/aizuddinyusof/status/1636392352456806400) | advertise |
 | [Aizzatpokjat@twitter](https://twitter.com/Aizzatpokjat/status/1596858394060939264) | advertise |
 | [ai_l12@twitter](https://twitter.com/ai_l12/status/1397037068493197314) | advertise |
 | [ajamiissa1@twitter](https://twitter.com/ajamiissa1/status/1474108447318851595) | advertise |
@@ -983,6 +984,7 @@ Do not create new issue or we will close it as duplicate.
 | [AsifKha44639814@twitter](https://twitter.com/AsifKha44639814/status/1402506001039851522) | advertise |
 | [ASISBusinesses@twitter](https://twitter.com/ASISBusinesses/status/1509318871173505025) | advertise |
 | [asisTmgr@twitter](https://twitter.com/asisTmgr/status/1553900307561807872) | advertise |
+| [asjkdhaskl@twitter](https://twitter.com/asjkdhaskl/status/1636366065591787522) | advertise |
 | [Ask3w1@twitter](https://twitter.com/Ask3w1/status/1377969969476956165) | advertise |
 | [ASKERONServices@twitter](https://twitter.com/ASKERONServices/status/1428021078119653379) | advertise |
 | [AskKarinSarl@twitter](https://twitter.com/AskKarinSarl/status/1377719226383892480) | advertise |
@@ -4515,6 +4517,7 @@ Do not create new issue or we will close it as duplicate.
 | [imSuriya_P@twitter](https://twitter.com/imSuriya_P/status/1629650661322153987) | advertise |
 | [Imtiyaz17794109@twitter](https://twitter.com/Imtiyaz17794109/status/1388483545459351553) | advertise |
 | [imTyleri@twitter](https://twitter.com/imTyleri/status/1470833408905519107) | advertise |
+| [imwind2311@twitter](https://twitter.com/imwind2311/status/1636390314905829377) | advertise |
 | [ImZiso@twitter](https://twitter.com/ImZiso/status/1552377179643584512) | advertise |
 | [im_anno@twitter](https://twitter.com/im_anno/status/1404447191993753602) | advertise |
 | [im_daisy95@twitter](https://twitter.com/im_daisy95/status/1399945229822615553) | advertise |
