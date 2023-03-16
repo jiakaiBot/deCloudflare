@@ -8137,6 +8137,7 @@ Here's a list of public Fediverse services.
 | `derpendler.ch` | No |
 | `derper.space` | No |
 | `derpsin.space` | No |
+| `derpstra.nl` | No |
 | `derpy.email` | Yes |
 | `derriere.maison` | No |
 | `derschreiben.de` | No |
@@ -39795,7 +39796,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,783 |
-| Normal | 29,968 |
+| Normal | 29,969 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
