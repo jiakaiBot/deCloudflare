@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failed to fetch stable Prisma version (unpkg.com)](https://github.com/prisma/prisma/issues/18340)
 - [unfortunately it doesn't work with cloudflare](https://github.com/rthalley/dnspython/issues/912)
 - [Submissions tool is shut down](https://github.com/ietf-tools/datatracker/issues/5350)
 - [anidex (configuring) Anidex search returned unexpected result. Expected 200 OK but got Forbidden.](https://github.com/Jackett/Jackett/issues/14143)
