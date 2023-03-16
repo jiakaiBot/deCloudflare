@@ -495,6 +495,7 @@ Or is this merely a case of simple modesty?
 | David Lallement | Account Executive | https://uk.linkedin.com/in/davidlallement |
 | David Layson | Customer Success |  |
 | David Li | Sales Operations and Strategy |  |
+| David McClure | Employee | |
 | David Ngo | Trust & Safety Engineer |  |
 | David Nguyen | Systems Reliability Engineer |  |
 | David Roth | Employee |  |
