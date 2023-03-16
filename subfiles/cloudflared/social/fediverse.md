@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,846 |
 | net | 3,051 |
 | org | 2,105 |
-| de | 1,993 |
+| de | 1,994 |
 
 
 - Mastodon, Pleroma, etc
@@ -35228,6 +35228,7 @@ Here's a list of public Fediverse services.
 | `tokhmi.xyz` | Yes |
 | `toki.social` | No |
 | `tokimiss.club` | No |
+| `tokknet.eu` | No |
 | `tokler.com` | No |
 | `tokless.com` | No |
 | `toktan.org` | Yes |
@@ -36562,6 +36563,7 @@ Here's a list of public Fediverse services.
 | `unixmail.fr` | No |
 | `unixnerd.de` | No |
 | `unixporn.pro` | No |
+| `unixweb.de` | No |
 | `unixwolf.com` | No |
 | `unkipamunich.fr` | No |
 | `unknowable.place` | No |
@@ -39784,7 +39786,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,779 |
-| Normal | 29,961 |
+| Normal | 29,963 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
