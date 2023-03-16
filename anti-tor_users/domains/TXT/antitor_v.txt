@@ -1459,6 +1459,7 @@ autodiscover.vishwaskikirantrust.in
 autodiscover.vulcan.com.gh
 autodiscover.vulcandrifterriders.com
 automanazer.vodafone.cz
+avito.avito.avito.sberbank.www.avito.covid19.vossbryggeri.com
 avito.sber.avito.www.git.git.covid19.vesta-donors.com
 avito.sber.blablacar.avito.git.git.covid19.vesta-donors.com
 axafrontint.vermeg.com
@@ -1487,6 +1488,7 @@ christian.vonschack.com
 cleanup-service-comid.core.build.vwn.cloud
 click.email.volante-tech.com
 click.naoresponda.vr.com.br
+click.veraassicurazioni.it
 click.viewstream-v.com
 client.vsice.ru
 coinbase-exchange.vikingdeals.be
@@ -1547,6 +1549,7 @@ frg.vermittlerportal.de
 fsm.vodafone.com.gh
 ftp.vanityspa.site
 ftp.vulcandelux-casino.win
+fusion.vsp.virginia.gov
 g11g.vercel.app
 gctracker-protonmailc.vercel.app
 genatkns-uat.veritas.com
@@ -1718,6 +1721,7 @@ vaccinesandsociety.com
 vaccinesandsociety.com.vaccinesandsociety.org
 vaccinesandsociety.org
 vaclavsmil.com
+vado-eng.com
 vagadskhadi.in
 vahptr.com
 vakiapi.com
@@ -1802,6 +1806,7 @@ victoriamutual.com
 victormgken.vercel.app
 victorpetfood.com
 victoryautomotiveservice.com
+victramesa.com
 vid.us
 vidadesucesso.digital
 vidaelite.com.br
@@ -1853,6 +1858,7 @@ visacovid.com
 visco-trademining.com
 vision20.com
 visionservice.com.pe
+visionsource-appletoneyecare.com
 visionsource-familyeyecarewest.com
 visionsource-owasso.com
 visualwebz.com
@@ -1882,6 +1888,7 @@ vod.vcmedios.tv
 vodabrd.com
 vodafone-handelspartner.de
 vodafone-telekom-shop-vechta.de
+vodafonemobile.com
 vodiscord.vercel.app
 vogue.wtf
 vogueupholstery.com.au
@@ -1934,6 +1941,7 @@ vuprom.com
 vvwwvvcajapiura.com
 vwff.co.uk
 vwhomecharger.com
+vytal.io
 webdisk.clinicadevacinacaocuritiba.vaccineja.com.br
 webdisk.vaccinesandsociety.com
 webdisk.vaccinesandsociety.com.vaccinesandsociety.org
@@ -1950,6 +1958,7 @@ webmail.vulcandrifterriders.com
 website2-git-new-blog-post-dragonfly-db.vercel.app
 wfo.f2.verintcloudservices.com
 willbeallright2blue-gmailcom.vercel.app
+wind.vscport.ru
 ws.vavonline.at
 www.accounts.victoryauditors.co.tz
 www.actividad3.venturapp.com
@@ -1975,6 +1984,7 @@ www.dashboard.learnmulticloud.vdc.cloud
 www.denizeeezequias.visionfotoevideo.com.br
 www.dh-delivery.co.il.violetwebs.co.il
 www.ewallet.vpstechno.com
+www.exam.vpncommunicationsng.com
 www.fadlan.vpnsg.my.id
 www.ferrdelivery.virtualtecserver.com
 www.git.git.gitlab.gitlab.backoffice.vuoksapark.ru
@@ -1995,6 +2005,8 @@ www.stripe.vizzypop.com
 www.support.verdin.io
 www.support.vipenglish.asia
 www.surokkha-gov-bd.verify-onlinee.com
+www.swisstraininghouse.vstm.info
+www.techcheap.vpnglobe.net
 www.titanic.visionservice.com.pe
 www.update.voyage-quantique.fr
 www.v2.cookies.viccompuser.com
@@ -2059,6 +2071,7 @@ www.venture-west.co.uk
 www.veraadel.com
 www.verbraekenbiset.com
 www.vergingoaescorts.com
+www.verificalocal.com.br
 www.verifieicloud.com
 www.verifyaccountyah.com
 www.verinnogen.com
@@ -2125,9 +2138,11 @@ www.virginiegratien.fr
 www.virgoconsultinggroup.com
 www.virtualservice.net.br
 www.virtuousbookkeeping.com
+www.visa-applicant-support-hub.com
 www.visacrew.com.au
 www.vishwarupebajaj.com
 www.visionservice.com.pe
+www.visionsource-appletoneyecare.com
 www.visionsource-owasso.com
 www.visualize.sg
 www.vitamaster.ch
@@ -2160,6 +2175,7 @@ www.vortexshippingservice.com
 www.votenarmstrong.ca
 www.voxweb.nl
 www.voyance-vosges.fr
+www.voyanceswiss.net
 www.vozdomatogrosso.com.br
 www.vpeeagles.org
 www.vpn-china.com
