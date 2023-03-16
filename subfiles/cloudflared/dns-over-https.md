@@ -18,7 +18,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 1899.com.mx | Yes |
 | 240130034.xyz | Yes |
 | 280blocker.net | Yes |
-| 2poi.com | Yes |
 | 3363.net | No |
 | 360.cn | No |
 | 52306.org | Yes |
@@ -74,7 +73,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | blahdns.com | Yes |
 | blissdns.net | Yes |
 | blokada.org | Yes |
-| bluemeda.cf | No |
 | bluemood.me | Yes |
 | bobstrecansky.com | No |
 | boje8.me | Yes |
@@ -85,7 +83,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | carson-family.com | Yes |
 | cbio.top | Yes |
 | cgnat.net | No |
-| chaos-system.de | No |
 | chenu.ch | No |
 | chromeina.top | Yes |
 | chungyu.com | Yes |
@@ -189,7 +186,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | gclouddns.com | Yes |
 | geili.me | Yes |
 | ggrbb.xyz | No |
-| ghost.pm | No |
 | gnb09.id | Yes |
 | groupy.ga | No |
 | gugainfo.com.br | Yes |
@@ -234,7 +230,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jamesxue.xyz | No |
 | jeroenhd.nl | No |
 | jfchenier.ca | Yes |
-| jiripocta.cz | No |
 | jnorton.us | No |
 | joaofidelix.com.br | Yes |
 | josephyap.me | Yes |
@@ -455,8 +450,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 195 |
-| Normal | 241 |
+| Cloudflare | 194 |
+| Normal | 237 |
 
 
-### 44.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 45% of DNS-over-HTTPS (DoH) are using Cloudflare.
