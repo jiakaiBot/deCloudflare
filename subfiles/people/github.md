@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't call WebSocket send() after close().](https://github.com/neondatabase/serverless/issues/10)
 - [Failed to fetch stable Prisma version (unpkg.com)](https://github.com/prisma/prisma/issues/18340)
 - [unfortunately it doesn't work with cloudflare](https://github.com/rthalley/dnspython/issues/912)
 - [Submissions tool is shut down](https://github.com/ietf-tools/datatracker/issues/5350)
