@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,960 |
+| com | 5,961 |
 | social | 3,846 |
 | net | 3,051 |
 | org | 2,105 |
@@ -16601,6 +16601,7 @@ Here's a list of public Fediverse services.
 | `jiji.su` | Yes |
 | `jike.pro` | Yes |
 | `jillr.social` | No |
+| `jillsreads.com` | No |
 | `jim.blue` | No |
 | `jim.bo` | Yes |
 | `jimblimey.com` | No |
@@ -24790,6 +24791,7 @@ Here's a list of public Fediverse services.
 | `nope.social` | No |
 | `nophase.net` | No |
 | `noplasticshowers.com` | No |
+| `noppy.jp` | No |
 | `nopro.be` | Yes |
 | `nops.red` | Yes |
 | `nopsled.club` | No |
@@ -39780,7 +39782,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,775 |
-| Normal | 29,961 |
+| Normal | 29,963 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
