@@ -417,6 +417,7 @@ argocd-inl.yjtech.tw
 article.yahoo.co.jp
 asr-stream-covid19.yating.tw
 assets.youpay.one
+auth.vpn.yoro.dev
 auth.youtubethumbs.pics
 avito.sber.sber.avito.avito.avito.covid19.youhollywood.com
 b91.yahoo.co.jp
@@ -470,6 +471,7 @@ mobile.yoursrp.net
 nav-update.mf-yss.yousee.dk
 paperlesspayroll.yonkersny.gov
 partner.market.yandex.ru
+payment.yummyistanbul.com
 payments.youtube.com
 python-github-calendar-api.yylemon.top
 rikon-shitai.yoasobi-erobloger.com
@@ -507,9 +509,11 @@ www.googlenewsindia.youreducationportal.com
 www.login.ybiaumroh.com
 www.mahiryapi.yusufpinarbasi.com.tr
 www.oktamia.yukundang.com
+www.payment.yummyistanbul.com
 www.post.yefi.site
 www.site.yahoosoundproofing.com
 www.support.yoshope.com
+www.symphonyofsteam.yilong.com.au
 www.y4pamtrk.com
 www.yabfestival.com
 www.yachtservice-laboe.de
@@ -541,6 +545,7 @@ www.yoshitoku.co.jp
 www.you-unlock.com
 www.youngfilmsfoundation.co.uk
 www.your-body-care.nl
+www.yourcentralvalley.com
 www.yourfuturecredit.com
 www.yourgoatdairy.com
 www.yourmomentsmedia.com
@@ -550,6 +555,7 @@ www.ypflyinggroup.com
 www.yumamobiletireservice.com
 www.yummysprout.com
 y3rt.com
+yabs.yandex.ru
 yahoomailsupportphonenumber.com
 yamaonline.co.il
 yamunalandbank.com
@@ -566,6 +572,7 @@ yay-plus.com
 yayanadriano.web.id
 yazarlaryapi.com.tr
 ybaautoservice.ro
+ybooking.com
 ybx-test.yahoo.co.jp
 yc-loyalty-ke.stage.apac.yaradigitallabs.io
 yeahyouwriteevents.com
