@@ -6562,6 +6562,7 @@ Do not create new issue or we will close it as duplicate.
 | [MarketYourBizAg@twitter](https://twitter.com/MarketYourBizAg/status/1389379097118183428) | advertise |
 | [MarkGar72931609@twitter](https://twitter.com/MarkGar72931609/status/1596324947554873345) | advertise |
 | [markquitoriano@twitter](https://twitter.com/markquitoriano/status/1623900446279749632) | advertise |
+| [MarkWylie@twitter](https://twitter.com/MarkWylie/status/1636421684050665474) | advertise |
 | [Marky37711385@twitter](https://twitter.com/Marky37711385/status/1401925640610369539) | advertise |
 | [Mark_Branson@twitter](https://twitter.com/Mark_Branson/status/1566240658511249411) | advertise |
 | [Mark_C_Upshaw@twitter](https://twitter.com/Mark_C_Upshaw/status/1592534802724716546) | advertise |
@@ -11885,6 +11886,7 @@ Do not create new issue or we will close it as duplicate.
 | [WangMi87623155@twitter](https://twitter.com/WangMi87623155/status/1392754494258040832) | advertise |
 | [wannakhaingsoe@twitter](https://twitter.com/wannakhaingsoe/status/1390612150054440963) | advertise |
 | [wanstyle2020@twitter](https://twitter.com/wanstyle2020/status/1501298115545952261) | advertise |
+| [wanswan035@twitter](https://twitter.com/wanswan035/status/1636415889452175363) | advertise |
 | [Wantt16@twitter](https://twitter.com/Wantt16/status/1487690284041633792) | advertise |
 | [Wanzaibaobing@twitter](https://twitter.com/Wanzaibaobing/status/1578069519355895809) | advertise |
 | [Wan_One_19@twitter](https://twitter.com/Wan_One_19/status/1398298274910646273) | advertise |
