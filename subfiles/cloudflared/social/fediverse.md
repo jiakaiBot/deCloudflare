@@ -320,6 +320,7 @@ Here's a list of public Fediverse services.
 | `2pp.uk` | Yes |
 | `2printers1cups.com` | Yes |
 | `2pxnl.de` | No |
+| `2snc.eu` | No |
 | `2soc.net` | No |
 | `2tails2arms.tk` | No |
 | `2to2.xyz` | No |
@@ -4138,7 +4139,7 @@ Here's a list of public Fediverse services.
 | `blueskycommunity.net` | No |
 | `bluesnow.nagoya` | No |
 | `bluestar.social` | Yes |
-| `bluetonic.org` | No |
+| `bluetonic.org` | Yes |
 | `bluewhite.pink` | Yes |
 | `blueworlds.org` | No |
 | `bluex.im` | No |
@@ -8009,7 +8010,7 @@ Here's a list of public Fediverse services.
 | `delat.net` | No |
 | `delbertbeta.cc` | No |
 | `delbrouck.ch` | No |
-| `delduca.casa` | Yes |
+| `delduca.casa` | No |
 | `delepine.info` | No |
 | `deleteyourfacebook.today` | No |
 | `deli.st` | No |
@@ -23695,7 +23696,7 @@ Here's a list of public Fediverse services.
 | `nanaaki.com` | No |
 | `nanaka.love` | No |
 | `nanamachi.net` | No |
-| `nanamono.xyz` | Yes |
+| `nanamono.xyz` | No |
 | `nanao.moe` | Yes |
 | `nanasi-apps.xyz` | Yes |
 | `nanax.fr` | No |
@@ -27490,7 +27491,7 @@ Here's a list of public Fediverse services.
 | `pohvii.cloud` | Yes |
 | `poiar.es` | Yes |
 | `poincare.one` | No |
-| `point.community` | Yes |
+| `point.community` | No |
 | `pointflottant.social` | Yes |
 | `pointless.net` | No |
 | `pointless.one` | No |
@@ -37572,6 +37573,7 @@ Here's a list of public Fediverse services.
 | `wallofconfusion.org` | No |
 | `wallonie-bruxelles.social` | No |
 | `walls.social` | Yes |
+| `walnuts.dev` | Yes |
 | `walnuts.ml` | No |
 | `walrusmafia.com` | No |
 | `waltdn.com` | No |
@@ -39777,8 +39779,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,776 |
-| Normal | 29,958 |
+| Cloudflare | 9,775 |
+| Normal | 29,961 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
