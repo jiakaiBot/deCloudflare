@@ -2504,6 +2504,7 @@ Here's a list of public Fediverse services.
 | `astrel.la` | No |
 | `astria.city` | Yes |
 | `astrian.social` | Yes |
+| `astrianzheng.cn` | Yes |
 | `astrid.tech` | Yes |
 | `astridbartels.de` | No |
 | `astro.clinic` | Yes |
@@ -8786,7 +8787,7 @@ Here's a list of public Fediverse services.
 | `don.im` | Yes |
 | `donabeneko.jp` | No |
 | `donaberger.xyz` | No |
-| `donadvr.de` | No |
+| `donadvr.de` | Yes |
 | `donar.cz` | No |
 | `donar.dev` | No |
 | `donaustroom.eu` | No |
@@ -18992,7 +18993,7 @@ Here's a list of public Fediverse services.
 | `lesch.be` | No |
 | `lescommuns.org` | No |
 | `lescorpsdereve.space` | Yes |
-| `lesharris.com` | No |
+| `lesharris.com` | Yes |
 | `lesinfos.top` | No |
 | `leskor.com` | Yes |
 | `leskowsky.net` | Yes |
@@ -25588,7 +25589,7 @@ Here's a list of public Fediverse services.
 | `oncloud.at` | Yes |
 | `oncrete.gr` | No |
 | `ondergrond.org` | Yes |
-| `ondioline.org` | No |
+| `ondioline.org` | Yes |
 | `ondrugs.org` | Yes |
 | `onecha.net` | No |
 | `oneill.stream` | No |
@@ -39781,8 +39782,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,775 |
-| Normal | 29,963 |
+| Cloudflare | 9,779 |
+| Normal | 29,960 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
