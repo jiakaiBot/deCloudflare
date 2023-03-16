@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,961 |
+| com | 5,962 |
 | social | 3,846 |
 | net | 3,051 |
 | org | 2,105 |
@@ -29418,6 +29418,7 @@ Here's a list of public Fediverse services.
 | `ricko.social` | No |
 | `rickornick.com` | No |
 | `rickosborne.org` | No |
+| `rickscully.com` | No |
 | `ricky-dev.com` | Yes |
 | `ricomputermuseum.org` | No |
 | `ricorda.social` | No |
@@ -39783,7 +39784,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,779 |
-| Normal | 29,960 |
+| Normal | 29,961 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
