@@ -7538,6 +7538,7 @@ Do not create new issue or we will close it as duplicate.
 | [NamKZ10@twitter](https://twitter.com/NamKZ10/status/1392522903040651264) | advertise |
 | [namlcasd@twitter](https://twitter.com/namlcasd/status/1618256014788427776) | advertise |
 | [namle131@twitter](https://twitter.com/namle131/status/1400518758590947331) | advertise |
+| [namLe14752115@twitter](https://twitter.com/namLe14752115/status/1636253855200706562) | advertise |
 | [nammap12@twitter](https://twitter.com/nammap12/status/1391274693244592137) | advertise |
 | [namnam18993308@twitter](https://twitter.com/namnam18993308/status/1394853064482435074) | advertise |
 | [NamNguy68529843@twitter](https://twitter.com/NamNguy68529843/status/1499027987139686401) | advertise |
