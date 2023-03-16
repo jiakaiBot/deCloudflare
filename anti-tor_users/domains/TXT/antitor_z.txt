@@ -422,6 +422,7 @@ dobschatiob6a07.zapwp.com
 drleonid.zapgoogle.co.il
 dyn.zorzi.me
 ebh63nkucv6n3vax.kundenserver.zeitwerk.de
+ectrans-service.zingala.com
 eliav-tires.zapgoogle.co.il
 eu2-csgo.zebedee.studio
 feedback.zebra-group.ru
@@ -444,6 +445,7 @@ mail.zyrenth.com
 men24.zazer-city.net
 monitoringstudio.zeta-tek.com
 nls.zolla.ru
+nsaoifyosa.zzux.com
 office-service.zapages.co.il
 ohadbennun.zapgoogle.co.il
 origo.sut01.zurichintermediary.co.uk
@@ -477,12 +479,14 @@ sber.sberbank.sber.blablacar.avito.git.covid19.zalive-akvilon.ru
 sberbank.avito.avito.blablacar.git.git.covid19.zlclubmarket.com
 sberbank.avito.sber.gitlab.www.covid19.zalive-akvilon.ru
 sberbank.sber.blablacar.avito.covid19.zapusk-million.ru
+sberbank.sber.sber.sberbank.sber.avito.covid19.zepter-catalog.ru
 sberbank.sberbank.blablacar.avito.sber.covid19.zapusk-million.ru
 secondary.opticloud.staging.zsservices.com
 secure.zollarfxc.com
 secure1.zipporah.co.uk
 sit-fpd-prints.zurich.co.uk
 sit-pe.zurich.co.uk
+sonarqube-npd.zuelligpharma.com
 sts.zollner.de
 studienwahl.zh.ch
 support.zedxsol.com
@@ -582,6 +586,7 @@ zealfashions.in
 zebratest.eu
 zecchinodoro.org
 zeebra.nl
+zellispayment.com
 zelo.zelomeetings.com
 zemekcompany.com
 zenika.com.tr
@@ -605,6 +610,8 @@ znsecurity.ro
 zolenidelivery.com
 zombieproofsecurity.co.za
 zonamuonline.com
+zoomdropbox.us
+zoomsecure.info
 zoonkie.com
 zorgictzorgen.nl
 zozovideo.com
