@@ -6605,7 +6605,7 @@ Here's a list of public Fediverse services.
 | `coop.tools` | No |
 | `coopermatt.com` | No |
 | `cooperserver.com` | No |
-| `coopey.eu` | No |
+| `coopey.eu` | Yes |
 | `coopey.me` | No |
 | `coopey.net` | No |
 | `coopgo.fr` | No |
@@ -25040,6 +25040,7 @@ Here's a list of public Fediverse services.
 | `nsivertsen.com` | No |
 | `nsk.io` | No |
 | `nsnw.ca` | No |
+| `nso.group` | Yes |
 | `nsobj.com` | No |
 | `nspeaks.xyz` | Yes |
 | `nspes.ca` | No |
@@ -26615,7 +26616,7 @@ Here's a list of public Fediverse services.
 | `pcorp.us` | No |
 | `pcservice46.fr` | No |
 | `pcsfield.com` | No |
-| `pcw.me.uk` | No |
+| `pcw.me.uk` | Yes |
 | `pcwideopen.com` | No |
 | `pcwizards.nl` | No |
 | `pcworms.ir` | No |
@@ -35560,7 +35561,7 @@ Here's a list of public Fediverse services.
 | `topspicy.social` | No |
 | `topteeth.xyz` | No |
 | `toque.town` | No |
-| `torb.no` | No |
+| `torb.no` | Yes |
 | `torbin.me` | No |
 | `torgo.com` | No |
 | `torguard.social` | No |
@@ -39826,8 +39827,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,793 |
-| Normal | 29,990 |
+| Cloudflare | 9,797 |
+| Normal | 29,987 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
