@@ -328,8 +328,10 @@ xpectives.health
 xsteampowered.com
 agent01.xeox.com
 api-oauth-us.xiaoyi.com
+api.dev.xelya.io
 apple-icloud-ip.xn--l9jzd2076a.biz
 beta.xsafe.app
+book.xunweitech.com
 cash.xpresspay.bg
 cdn.x1cdn.com
 collections.xcash.ph
