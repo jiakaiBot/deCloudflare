@@ -13883,6 +13883,7 @@ Here's a list of public Fediverse services.
 | `hairydiode.xyz` | No |
 | `hairyfupa.com` | Yes |
 | `hairylarry.rocks` | No |
+| `haisu.li` | No |
 | `haj.gf` | No |
 | `haja.nz` | No |
 | `haka.se` | Yes |
@@ -39821,7 +39822,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,792 |
-| Normal | 29,985 |
+| Normal | 29,986 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
