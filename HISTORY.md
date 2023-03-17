@@ -7,6 +7,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-03-17: [Increased HTTP 52x Errors and timeouts in the Milan (MXP) area](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jhg8m6kdl02s)
+- 2023-03-17: [Cloudflare Zero Trust: Gateway Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/w78mw7mrq1c0)
 - 2023-03-17: [Cloudflare One agent new devices registration issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8t1m7drctt1x)
 - 2023-02-17: [Pages users may be experiencing issues with their sites](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cpx9ctxd9nt2)
 - 2023-02-15: [Unexpected rate limiting errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/k3249mmr5n7h)
