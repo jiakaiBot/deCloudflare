@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,965 |
-| social | 3,846 |
+| com | 5,970 |
+| social | 3,847 |
 | net | 3,052 |
-| org | 2,105 |
-| de | 1,995 |
+| org | 2,106 |
+| de | 1,996 |
 
 
 - Mastodon, Pleroma, etc
@@ -2303,6 +2303,7 @@ Here's a list of public Fediverse services.
 | `arrrgh.online` | No |
 | `arsaga.jp` | No |
 | `arsenalfc.social` | No |
+| `arsh79.me` | Yes |
 | `arso.xyz` | No |
 | `arsrobotics.org` | Yes |
 | `arss.io` | Yes |
@@ -4286,6 +4287,7 @@ Here's a list of public Fediverse services.
 | `bonifacelabs.ca` | No |
 | `bonk.social` | No |
 | `bonn.jetzt` | No |
+| `bonn.live` | No |
 | `bonn.pics` | No |
 | `bonn.social` | No |
 | `bonnay.info` | No |
@@ -4629,6 +4631,7 @@ Here's a list of public Fediverse services.
 | `brokep.com` | No |
 | `brokep.net` | No |
 | `brokkoli.social` | No |
+| `brokyrkan.org` | No |
 | `bronevichok.ru` | No |
 | `brontoforum.us` | No |
 | `brontosin.space` | No |
@@ -4663,6 +4666,7 @@ Here's a list of public Fediverse services.
 | `bruno-tatu.com` | No |
 | `brunomassa.com` | Yes |
 | `brunopedro.com` | No |
+| `brunovellutini.com` | No |
 | `brunty.social` | Yes |
 | `brusilia.eu` | No |
 | `bruta.link` | Yes |
@@ -7501,6 +7505,7 @@ Here's a list of public Fediverse services.
 | `dancingbanana.party` | Yes |
 | `dancohen.org` | No |
 | `danconnor.com` | No |
+| `dandy.cat` | No |
 | `dandys.space` | No |
 | `daneknecht.com` | Yes |
 | `daners.info` | No |
@@ -8107,6 +8112,7 @@ Here's a list of public Fediverse services.
 | `deppenkessel.de` | No |
 | `deprecastan.com` | No |
 | `depressed.bar` | No |
+| `deprix.nl` | Yes |
 | `deptagency.com` | Yes |
 | `depth.li` | Yes |
 | `depucelage.xyz` | No |
@@ -14481,7 +14487,7 @@ Here's a list of public Fediverse services.
 | `high.lol` | No |
 | `highcaffeinecontent.social` | No |
 | `higheredweb.social` | No |
-| `higherorder.fun` | No |
+| `higherorder.fun` | Yes |
 | `highfivesquad.com` | No |
 | `highlandarrow.com` | No |
 | `highlandschurch.net` | No |
@@ -18838,6 +18844,7 @@ Here's a list of public Fediverse services.
 | `leece.im` | No |
 | `leedsunited.social` | No |
 | `leel.fr` | No |
+| `leeloutoo.com` | Yes |
 | `leemhuis.info` | No |
 | `leermakers.net` | No |
 | `leet.pub` | No |
@@ -20157,6 +20164,8 @@ Here's a list of public Fediverse services.
 | `mackenba.ch` | No |
 | `macks.uk` | Yes |
 | `macleay.ca` | Yes |
+| `maclock.social` | No |
+| `macmhicheil.scot` | No |
 | `macmynatt.com` | No |
 | `macmynatt.social` | No |
 | `macnemo.social` | No |
@@ -23831,6 +23840,7 @@ Here's a list of public Fediverse services.
 | `nazileaks.eu` | No |
 | `nazone.info` | No |
 | `nazrin.moe` | No |
+| `nazuwa.de` | No |
 | `nbaden.club` | No |
 | `nbailey.ca` | Yes |
 | `nbl.social` | No |
@@ -25777,6 +25787,7 @@ Here's a list of public Fediverse services.
 | `openshiftapps.com` | No |
 | `opensim.fun` | No |
 | `opensim.world` | Yes |
+| `opensimsocial.com` | No |
 | `opensimulator.social` | Yes |
 | `opensocial.africa` | No |
 | `opensocial.at` | No |
@@ -29596,6 +29607,7 @@ Here's a list of public Fediverse services.
 | `robinjanssens.com` | Yes |
 | `robinsloan.com` | No |
 | `robinsmediateam.dev` | Yes |
+| `robjess.co.uk` | Yes |
 | `roblen.at` | No |
 | `robloxcommunity.social` | No |
 | `robmccoll.com` | No |
@@ -30491,6 +30503,7 @@ Here's a list of public Fediverse services.
 | `scanline.dev` | No |
 | `scanlines.xyz` | No |
 | `scanovid.com` | No |
+| `scarfefamily.com` | No |
 | `scarlatti.de` | No |
 | `scarlet.house` | No |
 | `scarletsisters.xyz` | Yes |
@@ -34983,6 +34996,7 @@ Here's a list of public Fediverse services.
 | `tiddies.pro` | No |
 | `tiddy.city` | Yes |
 | `tide.tk` | No |
+| `tidusfox9.online` | No |
 | `tidy.camp` | No |
 | `tiennot.net` | No |
 | `tiepup.co.uk` | No |
@@ -35071,6 +35085,7 @@ Here's a list of public Fediverse services.
 | `tinh.at` | No |
 | `tiniest.world` | No |
 | `tinkeringwithalien.tech` | No |
+| `tinkertofu.com` | Yes |
 | `tinko.club` | No |
 | `tinnies.club` | Yes |
 | `tinokaltsas.com` | No |
@@ -37237,6 +37252,7 @@ Here's a list of public Fediverse services.
 | `vislae.town` | No |
 | `visonthe.net` | Yes |
 | `viste.pt` | No |
+| `visual-novel.info` | Yes |
 | `visualdev.fm` | Yes |
 | `visualsoul.uk` | No |
 | `visualsquirrels.net` | No |
@@ -39796,8 +39812,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,784 |
-| Normal | 29,969 |
+| Cloudflare | 9,791 |
+| Normal | 29,978 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
