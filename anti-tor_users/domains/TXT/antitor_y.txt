@@ -423,6 +423,7 @@ avito.sber.sber.avito.avito.avito.covid19.youhollywood.com
 b91.yahoo.co.jp
 b95.yahoo.co.jp
 backoffice.yape.com.pe
+bba-ca.yourdomain.com
 blog.yannakas.me
 blog.yourdesignjuice.com
 booking.youthtool.kr
@@ -434,6 +435,7 @@ cert.yuanta.com.tw
 coinbase-pro-login-account.yahoosites.com
 common-api-eu-cf.yepgarage.com
 cpcalendars.yamatotakeru.tokyo
+crm.yapialuminyum.com
 dev-ntpc.youbike2.com
 discourse.yatahonga.com
 dms-abof74q8xxreport.wc.yahoodns.net
@@ -502,6 +504,7 @@ www.auth.youtubethumbs.pics
 www.billing.yourschoice.club
 www.city.yachimata.lg.jp
 www.contoh.yudita.my.id
+www.crm.yapialuminyum.com
 www.customers.yellowhoster.com
 www.dummyneo.yapindo.co.id
 www.fittin-service.ymdg.info
@@ -521,6 +524,7 @@ www.yajagoff.com
 www.yamandbean.com
 www.yankton.net
 www.yapianalizi.com.tr
+www.yapidanismanlik.com
 www.yapikont.com
 www.yapipan-sip-panel-1.yapipansip.com
 www.yapisalmimarlik.com
@@ -562,6 +566,7 @@ yamunalandbank.com
 yapianaliz.com.tr
 yapianalizi.com.tr
 yapicilaras.com
+yapidanismanlik.com
 yapidogalgaz.com.tr
 yapikont.com
 yapindo.co.id
@@ -595,7 +600,9 @@ yhfsajfk3.top
 yhfsajfk5.top
 yilanhotel.tw
 yinyang-verlag.de
+yklemebkkyy.com.tr
 yodecidocomo.com
+yogpeethbooking.in
 yooflyer.com
 youenforcement.life
 youhaveitmaidservice.com
