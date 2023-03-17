@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,971 |
+| com | 5,972 |
 | social | 3,847 |
-| net | 3,053 |
+| net | 3,054 |
 | org | 2,106 |
 | de | 1,996 |
 
@@ -2459,6 +2459,7 @@ Here's a list of public Fediverse services.
 | `aspie.space` | Yes |
 | `aspiechattr.me` | No |
 | `aspirant.de` | No |
+| `aspiringknight.com` | No |
 | `aspisdata.com` | No |
 | `asprivacy.com` | Yes |
 | `asqbangalore.com` | No |
@@ -23470,6 +23471,7 @@ Here's a list of public Fediverse services.
 | `myhre.wtf` | Yes |
 | `myidanonymous.me` | No |
 | `myifn.de` | No |
+| `myjot.net` | No |
 | `mykal.social` | Yes |
 | `myke.social` | No |
 | `mylegendary.quest` | Yes |
@@ -28030,7 +28032,7 @@ Here's a list of public Fediverse services.
 | `protocol7.co` | No |
 | `protocoll.space` | No |
 | `protocultura.cl` | Yes |
-| `protogen.club` | Yes |
+| `protogen.club` | No |
 | `protogen.dev` | No |
 | `protohype.net` | No |
 | `protom.eu` | No |
@@ -39815,8 +39817,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,793 |
-| Normal | 29,979 |
+| Cloudflare | 9,792 |
+| Normal | 29,982 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
