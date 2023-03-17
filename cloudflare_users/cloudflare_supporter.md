@@ -7315,6 +7315,7 @@ Do not create new issue or we will close it as duplicate.
 | [MsBetsyRamirez@twitter](https://twitter.com/MsBetsyRamirez/status/1561286147002626048) | advertise |
 | [msq334@twitter](https://twitter.com/msq334/status/1497345657597800451) | advertise |
 | [msram79@twitter](https://twitter.com/msram79/status/1563841758395797504) | advertise |
+| [MsSeraBerns@twitter](https://twitter.com/MsSeraBerns/status/1636757332402028544) | advertise |
 | [MssQuietOne@twitter](https://twitter.com/MssQuietOne/status/1569132482800357376) | advertise |
 | [MstafaMilan@twitter](https://twitter.com/MstafaMilan/status/1546617486937935872) | advertise |
 | [msun_tv@twitter](https://twitter.com/msun_tv/status/1484144302037086209) | advertise |
@@ -11550,6 +11551,7 @@ Do not create new issue or we will close it as duplicate.
 | [UnicornBot3@twitter](https://twitter.com/UnicornBot3/status/1607219397617418241) | advertise |
 | [united88488681@twitter](https://twitter.com/united88488681/status/1394865054521053189) | advertise |
 | [unitedasone2001@twitter](https://twitter.com/unitedasone2001/status/1585668577038053376) | advertise |
+| [Unknown777667@twitter](https://twitter.com/Unknown777667/status/1636754259243941889) | advertise |
 | [Unknown_123127@twitter](https://twitter.com/Unknown_123127/status/1607629192665137153) | advertise |
 | [UnmineableCode@twitter](https://twitter.com/UnmineableCode/status/1510333319317176327) | advertise |
 | [UNo29958011@twitter](https://twitter.com/UNo29958011/status/1399227396000149504) | advertise |
