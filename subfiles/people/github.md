@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Problems with LUM, OpenLDAP, Docker and Traefik](https://github.com/wheelybird/ldap-user-manager/issues/192)
 - [Possible problem with nHentai Downloader.](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/issues/138)
 - [SSLV3_ALERT_HANDSHAKE_FAILURE for istio virtual service](https://github.com/istio/istio/issues/43977)
 - [Updating to v2.9.20 breaks cloudflared tunnel](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2696)
