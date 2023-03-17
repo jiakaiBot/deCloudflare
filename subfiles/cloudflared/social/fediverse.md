@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,974 |
+| com | 5,975 |
 | social | 3,847 |
 | net | 3,055 |
 | org | 2,106 |
-| de | 1,996 |
+| de | 1,997 |
 
 
 - Mastodon, Pleroma, etc
@@ -2383,6 +2383,7 @@ Here's a list of public Fediverse services.
 | `as60927.net` | No |
 | `as62430.net` | Yes |
 | `asa2.xyz` | No |
+| `asabharwal.com` | Yes |
 | `asadurian.com` | No |
 | `asafniv.me` | No |
 | `asagayagaya.com` | No |
@@ -17283,6 +17284,7 @@ Here's a list of public Fediverse services.
 | `kanzakiranko.jp` | No |
 | `kaonet-fr.net` | No |
 | `kaonikki.tokyo` | No |
+| `kaoskvlt.de` | No |
 | `kaosteam.net` | No |
 | `kaostek.com` | No |
 | `kaouenn-noz.fr` | No |
@@ -39821,8 +39823,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,792 |
-| Normal | 29,986 |
+| Cloudflare | 9,793 |
+| Normal | 29,987 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
