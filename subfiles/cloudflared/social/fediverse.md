@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,964 |
+| com | 5,965 |
 | social | 3,846 |
 | net | 3,052 |
 | org | 2,105 |
@@ -7528,6 +7528,7 @@ Here's a list of public Fediverse services.
 | `danielstucke.com` | No |
 | `danielwarshaw.com` | No |
 | `danielwmorgan.town` | Yes |
+| `daniilrose.com` | Yes |
 | `danirod.es` | No |
 | `danis.one` | Yes |
 | `danj.ca` | No |
@@ -39795,7 +39796,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,783 |
+| Cloudflare | 9,784 |
 | Normal | 29,969 |
 
 
