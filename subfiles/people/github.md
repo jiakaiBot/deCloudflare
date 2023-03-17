@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Updating to v2.9.20 breaks cloudflared tunnel](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2696)
 - [Can't call WebSocket send() after close().](https://github.com/neondatabase/serverless/issues/10)
 - [Failed to fetch stable Prisma version (unpkg.com)](https://github.com/prisma/prisma/issues/18340)
 - [unfortunately it doesn't work with cloudflare](https://github.com/rthalley/dnspython/issues/912)
