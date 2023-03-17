@@ -448,6 +448,7 @@ nls.zolla.ru
 nsaoifyosa.zzux.com
 office-service.zapages.co.il
 ohadbennun.zapgoogle.co.il
+oktat.zsigraikft.hu
 origo.sut01.zurichintermediary.co.uk
 pfix-rspb2b.zurich.co.uk
 pfix-rspp2p.zurich.co.uk
@@ -455,6 +456,7 @@ pfix-rsprpa.zurich.co.uk
 play.zodiaccasino.net
 portal.zero.govt.nz
 pub.e.zurich.co.uk
+qa-azurea.zlongame.co.jp
 qrapi.zenia.tech
 regev-hadbarot.zapgoogle.co.il
 restore.zeniskin.ch
@@ -477,10 +479,12 @@ sber.sber.sber.sber.sber.avito.covid19.zepter-catalog.ru
 sber.sberbank.sber.avito.avito.avito.covid19.zapusk-million.ru
 sber.sberbank.sber.blablacar.avito.git.covid19.zalive-akvilon.ru
 sberbank.avito.avito.blablacar.git.git.covid19.zlclubmarket.com
+sberbank.avito.avito.www.covid19.zdorovadytyna.com
 sberbank.avito.sber.gitlab.www.covid19.zalive-akvilon.ru
 sberbank.sber.blablacar.avito.covid19.zapusk-million.ru
 sberbank.sber.sber.sberbank.sber.avito.covid19.zepter-catalog.ru
 sberbank.sberbank.blablacar.avito.sber.covid19.zapusk-million.ru
+sberbank.www.covid19.zdorovadytyna.com
 secondary.opticloud.staging.zsservices.com
 secure.zollarfxc.com
 secure1.zipporah.co.uk
@@ -491,8 +495,8 @@ sts.zollner.de
 studienwahl.zh.ch
 support.zedxsol.com
 test-double-ideal-java.payments-core.zalan.do
-tou.zeasn.tv
 uat.zurichcommercial.co.uk
+uat.zytrust.com
 us3-csgo.zebedee.studio
 us4-csgo.zebedee.studio
 verlag.zeit.de
@@ -576,6 +580,7 @@ zahnarzt-hey-friedrich.de
 zahnen.cl
 zalandozwrotkurierem.eu
 zamaco.com.vn
+zambiaminesafety.com
 zararoyalaccounting.ca
 zarch.lv
 zauber.my
