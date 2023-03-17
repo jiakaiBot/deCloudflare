@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,970 |
+| com | 5,971 |
 | social | 3,847 |
-| net | 3,052 |
+| net | 3,053 |
 | org | 2,106 |
 | de | 1,996 |
 
@@ -8368,6 +8368,7 @@ Here's a list of public Fediverse services.
 | `diblasio.net` | No |
 | `dice.camp` | No |
 | `dice.quest` | No |
+| `dicekey.jp` | Yes |
 | `diceonauts.com` | No |
 | `dicerollers.net` | No |
 | `dichter.xyz` | No |
@@ -10242,6 +10243,7 @@ Here's a list of public Fediverse services.
 | `etr.ist` | No |
 | `etsocialspace.com` | No |
 | `etw.uk` | No |
+| `etwarl.net` | Yes |
 | `etwas42.de` | No |
 | `etwg.xyz` | No |
 | `etxetik.org` | Yes |
@@ -33713,6 +33715,7 @@ Here's a list of public Fediverse services.
 | `tacticaltech.org` | No |
 | `tacty.social` | Yes |
 | `tad.me` | Yes |
+| `tadanemuinda.com` | No |
 | `tadeas.net` | Yes |
 | `tadpol.org` | No |
 | `tadzik.net` | No |
@@ -39812,8 +39815,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,791 |
-| Normal | 29,978 |
+| Cloudflare | 9,793 |
+| Normal | 29,979 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
