@@ -1416,7 +1416,9 @@ api.owlmi.com
 api.prod-haas.hc-canary.shoot.live.k8s-hana.ondemand.com
 api.rte.auchan.osp.tech
 api.updatefullpage.review.acdc.odiwi.fr
+api1.etl1.open-eb.io
 apigeopagos.openpay.co
+app.ovivo.dk
 applepay.otp-alerts.com
 approuter-product-list-kelly.cfapps.eu10.hana.ondemand.com
 auth.omega-caci.com
@@ -1424,6 +1426,7 @@ auth.osloskoleutv.no
 author17.onlinedigitalprojects.com
 autodiscover.oyagtv.site
 avito.avito.avito.avito.avito.www.covid19.oxygensystem.info
+avito.avito.avito.sberbank.covid19.omveterinary.com
 avito.avito.www.sber.covid19.oxygensystem.info
 avito.sber.avito.sber.blablacar.git.covid19.ooo-medexpress.ru
 avito.sber.avito.sberbank.a.avito.www.covid19.omveterinary.com
@@ -1458,6 +1461,7 @@ cron.omni.us
 crowdin.onfastspring.com
 cybersmartbyrendtech.ontralink.com
 daera-dev.outsystemsenterprise.com
+deduplication-service-889d1b6ff1e55879.onporter.run
 delivery2.ozosoft.store
 dev-docs.okloapps.com
 dev-fargate.nationalcoronaviruwww.webvpn.oddr.info
@@ -1478,6 +1482,7 @@ fa-eyfy-test-saasfapreprod1.fa.ocs.oc-test.com
 features.opera-api2.com
 fincloud.ike.hec.ondemand.com
 fiorip.eee.hec.ondemand.com
+flex-static.online-banking-services.com
 fpi.omnichannelengagementhub.com
 fps.oepay.octopus-cards.com
 fr.oreedargent.com
@@ -1548,6 +1553,7 @@ obecpatas.sk
 oberman.nl
 oberoi-is.in
 oberstdorf-booking.de
+objectstorage.eu-marseille-1.oraclecloud.com
 objectstorage.eu-milan-1.oraclecloud.com
 objectstorage.uk-london-1.oraclecloud.com
 objectstorage.us-chicago-1.oraclecloud.com
@@ -1663,6 +1669,7 @@ opalsa.com.co
 opastajat.net
 openartsforum.com
 openbenches.org
+opencorpdata.com
 openjewereld.nu
 opensea.co.ke
 opensource.google
@@ -1699,6 +1706,7 @@ orjewishlife.com
 ornithologyexchange.org
 orointbank.net
 orongo.de
+ortopedias-argentina.net
 ortsbezogenekunst.at
 osagenews.org
 osandigital.co.za
@@ -1783,6 +1791,7 @@ secure.adviser.qa.oldmutual.co.za
 securitychecks.outlookdev.co.uk
 selfkyc-g5gw-oci-prod.orange.ci
 servicebus-t.overijssel.nl
+servicedesk.oneteam.info
 sessionscloud2.opticvideo.com
 signapdf-service-2870d16edb31e2a0.onporter.run
 sm.sandbox.datafox.us-phoenix-1.ocs.oraclecloud.com
@@ -1822,6 +1831,7 @@ uatybaepsapi.oasyspay.in
 ugoicmidev-axcsjpwmhyzr-gr.integration.ocp.oraclecloud.com
 uk.oktopay.eu
 uniarts.oncloudos.com
+user-group-management.364.crosscutting.aws.onsdigital.uk
 vendorfinancing.avw.staging.aws.op-palvelut.net
 vpn2.oxleas.nhs.uk
 webdav.oures.ru
@@ -1835,12 +1845,14 @@ wscoll.organismocf.it
 www.accounts.ordalli.com
 www.actualizar.arsbancocentral.opensoftdo.com
 www.advscustodio.com.br.oseudelivery.app.br
+www.amazonia.tn.oxahost-support.tn
 www.ap-bookings.outsourcingit.asia
 www.author17.onlinedigitalprojects.com
 www.beforeupdate.ormskirkskipsltd.co.uk
 www.best.oxahost-support.tn
 www.billing.oxmobility.com
 www.billingsandcompany.oreillyspubperth.com
+www.blockchain.onceti.com
 www.bluntsafety.ocular-witness.com
 www.booking.outnet.com.mt
 www.contabilidade.organizece.com.br
@@ -1910,6 +1922,8 @@ www.ofn.org
 www.ofsantos.com.br
 www.oftenseenrarelyspoken.com
 www.ohga.it
+www.ohi-group.com
+www.ohiengineeringgroup.com
 www.ohjaussilta.fi
 www.ohmscreativestudio.in
 www.oidom.oulunlaitepalvelu.fi
@@ -1970,6 +1984,7 @@ www.onlinetestconf.com
 www.onlllieusme.com
 www.onlusilsorriso.it
 www.onmanorama.com
+www.onoranzefunebriminesso.it
 www.onriva.com
 www.onsiteag-services.com
 www.onstageacademy.com
@@ -2013,6 +2028,7 @@ www.originsleuven.be
 www.orizzonteverde.it
 www.orkesta.net
 www.orkuskiptaspa.is
+www.ortopedias-argentina.net
 www.ortopedistavargasjasso.com
 www.osintme.com
 www.osleather.com
@@ -2027,6 +2043,7 @@ www.ouacademy.co
 www.oulunsisailmapuhdistus.oulunlaitepalvelu.fi
 www.oumarooi.com
 www.ourlandournature.org
+www.outdoorconceptsfargo.com
 www.outlookag.com.au
 www.outlookapartmentliving.com
 www.outlookaust.org.au
@@ -2045,6 +2062,7 @@ www.ove.com.sg
 www.overstock.ca
 www.overstocker.com
 www.overstockmegastore.com
+www.overstockplumbingdeals.com
 www.overstreetexpressdelivery.com
 www.overtherainbowweddings.co.uk
 www.owlsdaughter.com
@@ -2064,6 +2082,8 @@ www.payment.oteneriferent.com
 www.pmuser-sovaacademy.in.okkg24.com
 www.reddit.onstream4k.com
 www.shopify.oakhillsales.com
+www.shoponline.offersdeliver.com
+www.start.control.orlife.ch
 www.support.ohmscreativestudio.in
 www.support.omniuse.com
 www.tangerinefilms.otohdikih.my
