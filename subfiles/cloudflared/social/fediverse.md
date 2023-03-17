@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,972 |
+| com | 5,973 |
 | social | 3,847 |
-| net | 3,054 |
+| net | 3,055 |
 | org | 2,106 |
 | de | 1,996 |
 
@@ -8600,6 +8600,7 @@ Here's a list of public Fediverse services.
 | `divas.joburg` | No |
 | `divbot.com` | No |
 | `divecoaching.com.au` | No |
+| `diveright.net` | No |
 | `diversispiritus.net.br` | No |
 | `diversity.kitchen` | No |
 | `dividuate.me` | No |
@@ -10506,6 +10507,7 @@ Here's a list of public Fediverse services.
 | `faceless.company` | No |
 | `fachkraeftesicherer.de` | Yes |
 | `facil.services` | No |
+| `facorazza.com` | No |
 | `factland.social` | Yes |
 | `factorial.io` | No |
 | `factsonthegroundshow.com` | No |
@@ -39818,7 +39820,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,792 |
-| Normal | 29,982 |
+| Normal | 29,984 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
