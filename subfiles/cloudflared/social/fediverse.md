@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,975 |
-| social | 3,847 |
+| social | 3,848 |
 | net | 3,055 |
 | org | 2,106 |
 | de | 1,997 |
@@ -11011,7 +11011,7 @@ Here's a list of public Fediverse services.
 | `feeld.community` | Yes |
 | `feelingso.blue` | No |
 | `feelslike.life` | No |
-| `feelslike.xyz` | Yes |
+| `feelslike.xyz` | No |
 | `feep.org` | No |
 | `feets.tv` | No |
 | `feff.works` | No |
@@ -29560,6 +29560,7 @@ Here's a list of public Fediverse services.
 | `rkvssr.nl` | No |
 | `rl5.nl` | No |
 | `rleve.de` | Yes |
+| `rlin.eu` | Yes |
 | `rllmuk.social` | No |
 | `rlp.schule` | No |
 | `rls.social` | No |
@@ -33611,6 +33612,7 @@ Here's a list of public Fediverse services.
 | `synthwave.cc` | No |
 | `synthwave.social` | Yes |
 | `syntik.fr` | No |
+| `synyx.social` | No |
 | `syo.tokyo` | No |
 | `syobon.net` | Yes |
 | `syok.lol` | Yes |
@@ -38756,6 +38758,7 @@ Here's a list of public Fediverse services.
 | `xmsg.de` | No |
 | `xmstdn.com` | No |
 | `xmu.social` | No |
+| `xn-------53dcabaemhlokt8dikho3a0dk7a3n2ctak.xn--p1ai` | No |
 | `xn--0n8ha.ws` | No |
 | `xn--1g8h.fm` | No |
 | `xn--24-6kca3bmfgm.xn--p1ai` | No |
@@ -39824,7 +39827,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,793 |
-| Normal | 29,987 |
+| Normal | 29,990 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
