@@ -1452,6 +1452,7 @@ app.vohlundmeyer.de
 apps.vw.co.za
 apps.vwgroup.co.za
 areadocliente.verbio.com.br
+auth.pasians.jj.v6ak.com
 auth.vmia.vic.gov.au
 authnio-qa-oob.vereswallet.dev
 autodiscover.vinfor.cl
@@ -1491,6 +1492,7 @@ click.naoresponda.vr.com.br
 click.veraassicurazioni.it
 click.viewstream-v.com
 client.vsice.ru
+cloudfront.vsee.com
 coinbase-exchange.vikingdeals.be
 coinstash1.vercel.app
 conghaumaster1-gmailcom.vercel.app
@@ -1588,6 +1590,7 @@ info.vemsa.travel
 instagram-mirror.vercel.app
 intelex.vercel.app
 intteco.vercel.app
+invoice.vismark.eu
 ipsts-qual.ville-geneve.ch
 jenkins.vedha.io
 jjdocu.verifyghana.org
@@ -1633,6 +1636,7 @@ ota.oru-swms.int.eu.bp.aws.cloud.vwgroup.com
 ota.swmsn.pre.eu.bp.aws.cloud.vwgroup.com
 owa.vibac.com
 pavlidou2.vpn.gr
+payments-emails-automation-tool.per.vix.tv
 payments.valiantgroup.ca
 payments.vantivprelive.com
 pds.volkswagen.de
@@ -1657,6 +1661,7 @@ rwil-dev.volkswagenag.com
 sanrio.viverebrasil.com.br
 sber.avito.sber.avito.avito.sber.covid19.view-manager.com
 sber.avito.sber.avito.blablacar.covid19.view-manager.com
+sber.avito.sber.blablacar.avito.avito.covid19.view-manager.com
 sber.sber.avito.sberbank.sber.sberbank.covid19.vossbryggeri.com
 sber.sber.sber.avito.avito.sberbank.covid19.vojvodinanet.com
 sber.sber.www.covid19.view-manager.com
@@ -1697,11 +1702,11 @@ steam.vrroom.nl
 steampoweredcat.vercel.app
 subdomain.virtusinc.com.br
 sun1.tele2-kz-taraz.vkuserphoto.ru
-support.vitals911.com
 swk-stage.valiton.com
 sync.viadata.store
 system.vshub.com
 szdlite-gmailcom.vercel.app
+talk.vsee.com
 tejasaiyenprince-gmailcom.vercel.app
 test-vercel-1-asd.vercel.app
 test.vaccines-otaru-city.jp
@@ -1711,6 +1716,7 @@ trusted-s.us.hsbc.com.prod.na.dynp.cloud1.vv1865.com
 twitchindocomm.vercel.app
 update2411.votreintimite.com
 us-cst.s-connector.vfims.com
+user01.vicentiunae.com
 user8.vadavo.eu
 v-academy.id
 v4dfinance.viseaconsulting.com
@@ -1779,6 +1785,7 @@ vermeg.com
 vernonmuseum.ca
 vernonwebb.com
 veronicabadea.com
+vesseldock.com
 vestelli.se
 vetcov19.se
 veteranfeministsofamerica.org
@@ -1834,6 +1841,7 @@ villa-aventura.com
 villamormor.dk
 villelepisto.fi
 vinatrips.vn
+vincecreative.com.br
 vincentgaragedoorrepairservice.us
 vincenzopresutto.it
 vindpunt.nl
@@ -1879,9 +1887,11 @@ vivovet.be
 vj22.de
 vkc.sh
 vkninvestmentcorp.com
+vkontaktegjwn.tk
 vkprservice.com
 vladhuber.cl
 vljwebapp.vedantaconnect.com
+vlvdevcmg.venetianlasvegasdev.com
 vmail.vanbeersbrokx.nl
 vochtinfo.be
 vod.vcmedios.tv
@@ -1922,6 +1932,7 @@ vpn-test-11.trg.vvtdev.com
 vpn-test.com
 vpn.vmo2digital.co.uk
 vpn88.site
+vpndeals.site
 vpnfact.com
 vpsventa.com
 vr-risikoneigung.de
@@ -1983,11 +1994,15 @@ www.cookies.viccompuser.com
 www.dashboard.learnmulticloud.vdc.cloud
 www.denizeeezequias.visionfotoevideo.com.br
 www.dh-delivery.co.il.violetwebs.co.il
+www.entregas.valeconnecta.com.br
 www.ewallet.vpstechno.com
 www.exam.vpncommunicationsng.com
 www.fadlan.vpnsg.my.id
 www.ferrdelivery.virtualtecserver.com
+www.gaharreview.com.vpngahar.com
 www.git.git.gitlab.gitlab.backoffice.vuoksapark.ru
+www.invoice.vismark.eu
+www.lavajeepmountbatur.com.volcanoactivity.com
 www.law.videomemetemplate.com
 www.login.vipallservice.com
 www.merchandisingdelivery.com.velkaspa.com
@@ -2009,6 +2024,7 @@ www.swisstraininghouse.vstm.info
 www.techcheap.vpnglobe.net
 www.titanic.visionservice.com.pe
 www.update.voyage-quantique.fr
+www.user01.vicentiunae.com
 www.v2.cookies.viccompuser.com
 www.v4l-chase-frishman-c.volleycritic.com
 www.vac.com.sg
@@ -2070,6 +2086,7 @@ www.venmono.com
 www.venture-west.co.uk
 www.veraadel.com
 www.verbraekenbiset.com
+www.verbund-deutscher-autoverwerter.de
 www.vergingoaescorts.com
 www.verificalocal.com.br
 www.verifieicloud.com
@@ -2082,6 +2099,7 @@ www.versionformations.com
 www.verstand.ai
 www.verstegenstigter.nl
 www.versuslehti.fi
+www.vertuservice.ru
 www.vervech.com
 www.verveit.net
 www.verwaltungsgemeinschaft-graefenberg.de
@@ -2090,6 +2108,7 @@ www.verywellfamily.com
 www.verywellfit.com
 www.vestelli.se
 www.veteranpoolservice.com
+www.veterinariomonterosso.it
 www.vettriip.org
 www.vevovo.be
 www.vevovo.fr
@@ -2160,6 +2179,7 @@ www.voavision.com
 www.vodafone-kitt.de
 www.vodafone-stiftung.de
 www.vodafone.pt
+www.vodafoneevents.co.nz
 www.voetbalprimeur.nl
 www.voice-ai.app
 www.voiceofalexandria.com
@@ -2190,6 +2210,7 @@ www.vrbl.pt
 www.vremea-bucuresti.ro
 www.vrijschrift.org
 www.vrmakelaardij.nl
+www.vroomtuber.com
 www.vseinc.com
 www.vspa-asso.com
 www.vtbythebay.com
