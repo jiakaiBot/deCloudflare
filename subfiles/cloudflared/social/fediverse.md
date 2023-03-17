@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,975 |
-| social | 3,848 |
+| com | 5,977 |
+| social | 3,850 |
 | net | 3,055 |
 | org | 2,106 |
-| de | 1,997 |
+| de | 1,998 |
 
 
 - Mastodon, Pleroma, etc
@@ -6507,6 +6507,7 @@ Here's a list of public Fediverse services.
 | `coniunct.io` | Yes |
 | `conjectures.org` | No |
 | `conjured.space` | No |
+| `conlangery.com` | No |
 | `conley.io` | No |
 | `conman.co.za` | No |
 | `conne.cc` | Yes |
@@ -7181,7 +7182,7 @@ Here's a list of public Fediverse services.
 | `cuties.cloud` | No |
 | `cuties.social` | No |
 | `cutieverse.social` | Yes |
-| `cutievirus.com` | No |
+| `cutievirus.com` | Yes |
 | `cutls.com` | Yes |
 | `cutout.media` | No |
 | `cuttingfree.info` | No |
@@ -8366,6 +8367,7 @@ Here's a list of public Fediverse services.
 | `diasporabrazil.org` | No |
 | `diasporapod.no` | No |
 | `diasporing.ch` | No |
+| `dib.de` | No |
 | `dibiase.social` | No |
 | `diblasio.net` | No |
 | `dice.camp` | No |
@@ -22418,6 +22420,7 @@ Here's a list of public Fediverse services.
 | `mkr-tech.ch` | No |
 | `mkr.house` | No |
 | `mktoho.social` | Yes |
+| `mku.social` | No |
 | `ml45.net` | No |
 | `mlabouri.fr` | No |
 | `mlaga97.space` | No |
@@ -26349,6 +26352,7 @@ Here's a list of public Fediverse services.
 | `palom.be` | No |
 | `palon.org` | Yes |
 | `palousegeo.com` | No |
+| `pals.chat` | No |
 | `paltee.net` | Yes |
 | `palyazatnelkul.hu` | No |
 | `pamilya.social` | No |
@@ -28090,6 +28094,7 @@ Here's a list of public Fediverse services.
 | `psychomantys.xyz` | Yes |
 | `psychopopular.com` | No |
 | `psychosoft.com.br` | Yes |
+| `psychotherapy.social` | No |
 | `psyco.fr` | No |
 | `psyk.yt` | No |
 | `psylodrumean.fr` | No |
@@ -30240,6 +30245,7 @@ Here's a list of public Fediverse services.
 | `salesforce.social` | No |
 | `salesforcebreak.com` | No |
 | `salle-s.org` | No |
+| `sallyje.uk` | No |
 | `salmonella.tk` | No |
 | `salmorejogeek.com` | No |
 | `salocha.online` | No |
@@ -32733,6 +32739,7 @@ Here's a list of public Fediverse services.
 | `ssweeny.net` | No |
 | `sszk.sk` | No |
 | `st.lk` | No |
+| `stack-source.com` | No |
 | `stack.black` | Yes |
 | `stackdump.com` | No |
 | `stackinfo.com` | Yes |
@@ -39827,8 +39834,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,797 |
-| Normal | 29,987 |
+| Cloudflare | 9,798 |
+| Normal | 29,993 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
