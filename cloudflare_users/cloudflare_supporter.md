@@ -856,6 +856,7 @@ Do not create new issue or we will close it as duplicate.
 | [apollon8825@twitter](https://twitter.com/apollon8825/status/1389773014586347524) | advertise |
 | [Apple77742684@twitter](https://twitter.com/Apple77742684/status/1398675272526745603) | advertise |
 | [applejaill@twitter](https://twitter.com/applejaill/status/1581917226202202113) | advertise |
+| [Appshare2023@twitter](https://twitter.com/Appshare2023/status/1636699147892846592) | advertise |
 | [AprilCo66885952@twitter](https://twitter.com/AprilCo66885952/status/1578373289004539904) | advertise |
 | [ApriliaLac@twitter](https://twitter.com/ApriliaLac/status/1495515577099640838) | advertise |
 | [Aqeel_AT@twitter](https://twitter.com/Aqeel_AT/status/1453733826006433807) | advertise |
@@ -4971,6 +4972,7 @@ Do not create new issue or we will close it as duplicate.
 | [jokosegoro86@twitter](https://twitter.com/jokosegoro86/status/1440170771238641672) | advertise |
 | [Jomaung1@twitter](https://twitter.com/Jomaung1/status/1397903092956372992) | advertise |
 | [jompubg@twitter](https://twitter.com/jompubg/status/1607236950213423104) | advertise |
+| [JonasCa42550557@twitter](https://twitter.com/JonasCa42550557/status/1636686607536496640) | advertise |
 | [jonasclaesbe@twitter](https://twitter.com/jonasclaesbe/status/1563959778413535232) | advertise |
 | [jonatha53201761@twitter](https://twitter.com/jonatha53201761/status/1553054673716023296) | advertise |
 | [jonathanbourke@twitter](https://twitter.com/jonathanbourke/status/1473258607886143492) | advertise |
@@ -5070,6 +5072,7 @@ Do not create new issue or we will close it as duplicate.
 | [JustiNDarkVinci@twitter](https://twitter.com/JustiNDarkVinci/status/1617398001080889345) | advertise |
 | [justinkrenek2@twitter](https://twitter.com/justinkrenek2/status/1471386539934502915) | advertise |
 | [justinvawter@twitter](https://twitter.com/justinvawter/status/1530392285401124864) | advertise |
+| [justinvogt55@twitter](https://twitter.com/justinvogt55/status/1636688434617020419) | advertise |
 | [justinwjohn@twitter](https://twitter.com/justinwjohn/status/1490784558807011328) | advertise |
 | [justin_t_wesley@twitter](https://twitter.com/justin_t_wesley/status/1451976168446517259) | advertise |
 | [justonlyu01@twitter](https://twitter.com/justonlyu01/status/1551573685181763585) | advertise |
@@ -10785,8 +10788,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
