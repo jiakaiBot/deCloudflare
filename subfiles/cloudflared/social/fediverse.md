@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,973 |
+| com | 5,974 |
 | social | 3,847 |
 | net | 3,055 |
 | org | 2,106 |
@@ -27821,6 +27821,7 @@ Here's a list of public Fediverse services.
 | `pratikmhatre.com` | No |
 | `pratl.net` | No |
 | `prattle.org.uk` | No |
+| `prattohome.com` | No |
 | `pravda.me` | Yes |
 | `pravdasocial.net` | Yes |
 | `pravdastalina.info` | No |
@@ -39820,7 +39821,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,792 |
-| Normal | 29,984 |
+| Normal | 29,985 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
