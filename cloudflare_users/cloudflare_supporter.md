@@ -6484,6 +6484,7 @@ Do not create new issue or we will close it as duplicate.
 | [MalcolmMellon@twitter](https://twitter.com/MalcolmMellon/status/1480940477180481536) | advertise |
 | [MalcolmMyat@twitter](https://twitter.com/MalcolmMyat/status/1555036528480759808) | advertise |
 | [malementari@twitter](https://twitter.com/malementari/status/1389639358957854723) | advertise |
+| [mali7864266@twitter](https://twitter.com/mali7864266/status/1637140057952772096) | advertise |
 | [MaliJashwant@twitter](https://twitter.com/MaliJashwant/status/1381653419732074500) | advertise |
 | [MalithKaveesha@twitter](https://twitter.com/MalithKaveesha/status/1398239438782623744) | advertise |
 | [mallikiss@twitter](https://twitter.com/mallikiss/status/1515454565197692928) | advertise |
