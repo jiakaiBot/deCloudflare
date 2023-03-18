@@ -3088,6 +3088,7 @@ Here's a list of public Fediverse services.
 | `banananet.work` | No |
 | `bandeng.club` | No |
 | `bandersnatch.xyz` | Yes |
+| `bandshell.rocks` | No |
 | `bandweite.de` | No |
 | `bandwidth.camp` | No |
 | `banepo.st` | No |
@@ -39855,7 +39856,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,813 |
-| Normal | 29,998 |
+| Normal | 29,999 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
