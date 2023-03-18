@@ -413,10 +413,10 @@ api.yourgeno.me
 app.yuantalife.com.tw
 applycc.yesbank.in
 approach.yahoo.co.jp
-argocd-inl.yjtech.tw
 article.yahoo.co.jp
 asr-stream-covid19.yating.tw
 assets.youpay.one
+auth.dev-test123.younium.net
 auth.vpn.yoro.dev
 auth.youtubethumbs.pics
 avito.sber.sber.avito.avito.avito.covid19.youhollywood.com
@@ -497,6 +497,7 @@ v-c1sw1a0qba.wc.yahoodns.net
 v-cheds4nwbl.wc.yahoodns.net
 vpn.yucca.app
 weathermaps.s3.yandex.net
+web02.yuntech.edu.tw
 webmail.ybpindo.or.id
 webmail.youngacting.at
 www.ard.yapima.sch.id
@@ -508,6 +509,7 @@ www.crm.yapialuminyum.com
 www.customers.yellowhoster.com
 www.dummyneo.yapindo.co.id
 www.fittin-service.ymdg.info
+www.garantihavacilik.yedipencere.com
 www.googlenewsindia.youreducationportal.com
 www.login.ybiaumroh.com
 www.mahiryapi.yusufpinarbasi.com.tr
