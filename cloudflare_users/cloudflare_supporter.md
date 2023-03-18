@@ -8360,6 +8360,7 @@ Do not create new issue or we will close it as duplicate.
 | [Optimeast@twitter](https://twitter.com/Optimeast/status/1401416582413307904) | advertise |
 | [OPTONEEDSEARCH@twitter](https://twitter.com/OPTONEEDSEARCH/status/1548454333401878528) | advertise |
 | [opuakse6@twitter](https://twitter.com/opuakse6/status/1563590491828273154) | advertise |
+| [oQuc15@twitter](https://twitter.com/oQuc15/status/1637138219241443332) | advertise |
 | [Ora33654854@twitter](https://twitter.com/Ora33654854/status/1390769586522443776) | advertise |
 | [OracleByHades@twitter](https://twitter.com/OracleByHades/status/1612795630723944448) | advertise |
 | [Orange15115578@twitter](https://twitter.com/Orange15115578/status/1400454754145234952) | advertise |
