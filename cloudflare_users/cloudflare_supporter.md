@@ -11968,6 +11968,7 @@ Do not create new issue or we will close it as duplicate.
 | [Whodis09575291@twitter](https://twitter.com/Whodis09575291/status/1570060628211142659) | advertise |
 | [whonionapp@twitter](https://twitter.com/whonionapp/status/1601041883777884160) | advertise |
 | [whoomenreallyis@twitter](https://twitter.com/whoomenreallyis/status/1506157558628855813) | advertise |
+| [whostyluur@twitter](https://twitter.com/whostyluur/status/1637174966150897668) | advertise |
 | [Who_IsM@twitter](https://twitter.com/Who_IsM/status/1595174486659239940) | advertise |
 | [WhXRuMfnyHtsfdk@twitter](https://twitter.com/WhXRuMfnyHtsfdk/status/1403069036422856705) | advertise |
 | [whyb6e5@twitter](https://twitter.com/whyb6e5/status/1587998634037092353) | advertise |
