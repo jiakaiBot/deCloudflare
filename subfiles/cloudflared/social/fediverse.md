@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,977 |
 | social | 3,853 |
 | net | 3,057 |
-| org | 2,107 |
+| org | 2,108 |
 | de | 2,001 |
 
 
@@ -16141,7 +16141,7 @@ Here's a list of public Fediverse services.
 | `itsukey.net` | No |
 | `itsybitsysissy.eu` | No |
 | `itsysadm.in` | No |
-| `itsze.ro` | No |
+| `itsze.ro` | Yes |
 | `itter.xyz` | No |
 | `itu.dk` | Yes |
 | `itunix.eu` | No |
@@ -23652,6 +23652,7 @@ Here's a list of public Fediverse services.
 | `nacq.me` | No |
 | `nadajemy.com` | Yes |
 | `nadajnik.org` | Yes |
+| `nadbugiem.org` | No |
 | `nadena.dev` | Yes |
 | `nadesiko-users.info` | No |
 | `nado.social` | No |
@@ -28459,6 +28460,7 @@ Here's a list of public Fediverse services.
 | `queso.ninja` | No |
 | `quesos.io` | Yes |
 | `quet.ch` | Yes |
+| `quey.la` | No |
 | `quey.org` | Yes |
 | `quic.fr` | No |
 | `quickfix.es` | No |
@@ -32609,7 +32611,7 @@ Here's a list of public Fediverse services.
 | `spooky.click` | No |
 | `spooky.computer` | No |
 | `spooky.pizza` | Yes |
-| `spookygirl.boo` | No |
+| `spookygirl.boo` | Yes |
 | `spoon-tamago.com` | Yes |
 | `spooner.social` | Yes |
 | `spoongoons.cc` | Yes |
@@ -39847,7 +39849,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,802 |
+| Cloudflare | 9,804 |
 | Normal | 30,002 |
 
 
