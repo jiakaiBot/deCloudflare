@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,977 |
-| social | 3,850 |
-| net | 3,055 |
-| org | 2,106 |
-| de | 2,000 |
+| social | 3,853 |
+| net | 3,057 |
+| org | 2,107 |
+| de | 2,001 |
 
 
 - Mastodon, Pleroma, etc
@@ -1265,6 +1265,7 @@ Here's a list of public Fediverse services.
 | `akxnet.de` | No |
 | `aky.sh` | Yes |
 | `akyoz.net` | Yes |
+| `akyr.one` | Yes |
 | `al0.de` | Yes |
 | `al2.in` | Yes |
 | `al45tair.net` | No |
@@ -2992,6 +2993,7 @@ Here's a list of public Fediverse services.
 | `badd10de.dev` | No |
 | `baddps.com` | No |
 | `baden.social` | No |
+| `bader-zignoli.de` | No |
 | `badersfield.tk` | No |
 | `badfellas.media` | No |
 | `badgay.net` | No |
@@ -4734,6 +4736,7 @@ Here's a list of public Fediverse services.
 | `buffalomesh.net` | Yes |
 | `buffalopugs.org` | Yes |
 | `bug-fix.net` | No |
+| `bugarin.com.br` | Yes |
 | `bugbrowser.com` | No |
 | `bugplasma.de` | No |
 | `bugs.social` | No |
@@ -6961,6 +6964,7 @@ Here's a list of public Fediverse services.
 | `cryoit.com` | Yes |
 | `crypt.ee` | Yes |
 | `crypt.lol` | No |
+| `cryptic-command.net` | Yes |
 | `cryptic.io` | Yes |
 | `cryptic.observer` | Yes |
 | `crypticchameleon.com` | Yes |
@@ -7521,6 +7525,7 @@ Here's a list of public Fediverse services.
 | `danidanz.dev` | No |
 | `daniel-schmitt.eu` | Yes |
 | `daniel-siepmann.de` | No |
+| `daniel-spilker.eu` | No |
 | `daniel.priv.no` | No |
 | `danielbierstedt.de` | No |
 | `danieldk.eu` | No |
@@ -9968,6 +9973,7 @@ Here's a list of public Fediverse services.
 | `ensu.casa` | No |
 | `entalpi.net` | No |
 | `entangledothers.studio` | No |
+| `entangledstates.org` | No |
 | `entar.net` | No |
 | `ente.fun` | No |
 | `entelodont.social` | No |
@@ -17674,6 +17680,7 @@ Here's a list of public Fediverse services.
 | `kidsblock.jp` | No |
 | `kidsdon.love` | No |
 | `kiefer.social` | No |
+| `kiefersfelden.social` | No |
 | `kiel.social` | No |
 | `kielbrett.de` | No |
 | `kierenconnell.com` | Yes |
@@ -26869,6 +26876,7 @@ Here's a list of public Fediverse services.
 | `petroskowo.pl` | No |
 | `petrovs.info` | No |
 | `petrus.sk` | No |
+| `petrzprahy.cz` | No |
 | `pets-in.space` | No |
 | `pets.contact` | No |
 | `pettet.social` | No |
@@ -35943,6 +35951,7 @@ Here's a list of public Fediverse services.
 | `ts.net` | No |
 | `ts5.dev` | Yes |
 | `tsai.it` | Yes |
+| `tsanztdon.net` | No |
 | `tsarolion.com` | No |
 | `tschaba.de` | Yes |
 | `tschannen.me` | No |
@@ -38169,6 +38178,7 @@ Here's a list of public Fediverse services.
 | `windows11sucks.com` | No |
 | `windows98.dev` | No |
 | `windowsnerd.cc` | No |
+| `windscribe.social` | Yes |
 | `windwords.eu.org` | No |
 | `windy.me` | No |
 | `windycity.style` | No |
@@ -38450,6 +38460,7 @@ Here's a list of public Fediverse services.
 | `wos.la` | Yes |
 | `wotter.space` | Yes |
 | `woundclinic.space` | Yes |
+| `wouters.social` | No |
 | `woutfeys.be` | No |
 | `wovensoup.com` | No |
 | `wovs.tk` | Yes |
@@ -39836,8 +39847,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,798 |
-| Normal | 29,995 |
+| Cloudflare | 9,802 |
+| Normal | 30,002 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
