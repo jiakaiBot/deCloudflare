@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,977 |
+| com | 5,980 |
 | social | 3,854 |
-| net | 3,057 |
+| net | 3,060 |
 | org | 2,109 |
 | de | 2,000 |
 
@@ -260,6 +260,7 @@ Here's a list of public Fediverse services.
 | `2017derby.biz` | No |
 | `20320514.com` | No |
 | `204.jp` | Yes |
+| `206267.xyz` | No |
 | `2077.win` | Yes |
 | `213.link` | No |
 | `21314.de` | No |
@@ -7971,6 +7972,7 @@ Here's a list of public Fediverse services.
 | `deepzero.net` | No |
 | `deerfieldmartc.com` | No |
 | `deerofnara.net` | Yes |
+| `deeznutz.gay` | Yes |
 | `def.social` | No |
 | `defake.app` | Yes |
 | `defaultmediatransmitter.com` | Yes |
@@ -12791,6 +12793,7 @@ Here's a list of public Fediverse services.
 | `genxp.net` | No |
 | `genzedong.net` | No |
 | `genzine.xyz` | No |
+| `geobla.net` | No |
 | `geocities.institute` | No |
 | `geoff-parker.com` | No |
 | `geoffdunham.photo` | Yes |
@@ -13234,6 +13237,7 @@ Here's a list of public Fediverse services.
 | `gogel.social` | No |
 | `goggles.social` | No |
 | `gogn.in` | Yes |
+| `gogobonobo.net` | No |
 | `gogu.ma` | Yes |
 | `gohan-oisii.net` | No |
 | `goip.de` | No |
@@ -14327,6 +14331,7 @@ Here's a list of public Fediverse services.
 | `hemmer.tv` | No |
 | `hemmnet.de` | No |
 | `hemom.se` | No |
+| `hemomo.com` | Yes |
 | `hempfriendfinder.com` | No |
 | `hemsida.eu` | No |
 | `hen.ee` | Yes |
@@ -18865,6 +18870,7 @@ Here's a list of public Fediverse services.
 | `lee-perry.co.uk` | No |
 | `leece.im` | No |
 | `leedsunited.social` | No |
+| `leeholmes.com` | Yes |
 | `leel.fr` | No |
 | `leeloutoo.com` | Yes |
 | `leemhuis.info` | No |
@@ -21710,6 +21716,7 @@ Here's a list of public Fediverse services.
 | `memework.ga` | No |
 | `memework.org` | Yes |
 | `memiks.fr` | No |
+| `memit.dk` | Yes |
 | `memo-village.com` | No |
 | `memo-village.online` | Yes |
 | `memomo.me` | Yes |
@@ -22197,6 +22204,7 @@ Here's a list of public Fediverse services.
 | `minimeadow.art` | No |
 | `minimmill.com` | No |
 | `miningpro362.xyz` | Yes |
+| `miningsunshine.com` | No |
 | `minish.org` | No |
 | `ministeriumfuerinternet.de` | No |
 | `ministryofinternet.eu` | No |
@@ -26010,6 +26018,7 @@ Here's a list of public Fediverse services.
 | `osm.lat` | No |
 | `osm.social` | No |
 | `osm.town` | No |
+| `osmarks.net` | No |
 | `osmcast.social` | No |
 | `osminog.de` | No |
 | `osna.social` | No |
@@ -26247,6 +26256,7 @@ Here's a list of public Fediverse services.
 | `ozgurkon.org` | No |
 | `ozgurmaceracilar.com` | No |
 | `ozhika.me` | No |
+| `ozioso.online` | No |
 | `ozlabs.house` | No |
 | `ozoned.net` | No |
 | `ozstream.net.au` | No |
@@ -26404,6 +26414,7 @@ Here's a list of public Fediverse services.
 | `panoptikum.social` | No |
 | `panormus.blog` | No |
 | `pansebete.net` | No |
+| `panta.systems` | Yes |
 | `pantasystem.com` | Yes |
 | `pantdon.site` | No |
 | `panthereye.news` | Yes |
@@ -39856,8 +39867,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,813 |
-| Normal | 30,000 |
+| Cloudflare | 9,818 |
+| Normal | 30,006 |
 
 
-### 24.6% of public Fediverse services are using Cloudflare.
+### 24.7% of public Fediverse services are using Cloudflare.
