@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,980 |
-| social | 3,854 |
+| social | 3,855 |
 | net | 3,060 |
 | org | 2,109 |
 | de | 2,000 |
@@ -24202,7 +24202,7 @@ Here's a list of public Fediverse services.
 | `netsplit.social` | Yes |
 | `netstat.app` | No |
 | `netsyms.com` | Yes |
-| `nettbaren.com` | No |
+| `nettbaren.com` | Yes |
 | `nettek.at` | No |
 | `nettesheim.eu` | No |
 | `nettime.org` | No |
@@ -34861,6 +34861,7 @@ Here's a list of public Fediverse services.
 | `thevipvipers.space` | No |
 | `thewaifu.club` | No |
 | `thewalkingdeaf.net` | Yes |
+| `thewalkingdeaf.social` | No |
 | `thewallsofnight.com` | No |
 | `thewarrens.name` | No |
 | `thewatercooler.cc` | Yes |
@@ -39867,7 +39868,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,818 |
+| Cloudflare | 9,819 |
 | Normal | 30,006 |
 
 
