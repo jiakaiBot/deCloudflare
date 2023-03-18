@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 | com | 5,977 |
 | social | 3,853 |
 | net | 3,057 |
-| org | 2,108 |
-| de | 2,001 |
+| org | 2,109 |
+| de | 2,000 |
 
 
 - Mastodon, Pleroma, etc
@@ -140,6 +140,7 @@ Here's a list of public Fediverse services.
 | `0xf.fr` | No |
 | `0xf4240.bid` | No |
 | `0xfa.de` | No |
+| `0xfb.xyz` | No |
 | `0xfeedc0.de` | No |
 | `0xff.cafe` | No |
 | `0xff.social` | Yes |
@@ -13773,6 +13774,7 @@ Here's a list of public Fediverse services.
 | `h9k.wtf` | No |
 | `ha-prod.tk` | No |
 | `haacksnetworking.com` | No |
+| `haacksnetworking.org` | No |
 | `haas-gottmadingen.de` | Yes |
 | `haasn.xyz` | No |
 | `haavard.name` | No |
@@ -18350,7 +18352,6 @@ Here's a list of public Fediverse services.
 | `kunagisa.moe` | Yes |
 | `kunkel24.de` | No |
 | `kunkunzzz.xyz` | Yes |
-| `kunstkultundkaffee.de` | No |
 | `kunveni.net` | No |
 | `kuon.xyz` | Yes |
 | `kuoushi.com` | No |
@@ -21277,7 +21278,7 @@ Here's a list of public Fediverse services.
 | `matheson.it` | No |
 | `mathewson.social` | Yes |
 | `mathieufamily.ovh` | No |
-| `mathieunicolas.net` | Yes |
+| `mathieunicolas.net` | No |
 | `mathilde.eu.org` | No |
 | `mathstodon.xyz` | No |
 | `mathtod.online` | No |
@@ -29748,7 +29749,7 @@ Here's a list of public Fediverse services.
 | `romca.tk` | Yes |
 | `romeorose.nz` | No |
 | `romeorose.xyz` | Yes |
-| `romeov.me` | No |
+| `romeov.me` | Yes |
 | `romeros.link` | No |
 | `romerotools.net` | Yes |
 | `romlinch.ovh` | No |
@@ -31868,6 +31869,7 @@ Here's a list of public Fediverse services.
 | `slu.mx` | No |
 | `sludge.town` | Yes |
 | `sludgepool.org` | No |
+| `slug.it` | Yes |
 | `sluga.xyz` | No |
 | `slugcapital.net` | No |
 | `slum.cloud` | Yes |
@@ -39849,8 +39851,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,804 |
-| Normal | 30,002 |
+| Cloudflare | 9,805 |
+| Normal | 30,003 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
