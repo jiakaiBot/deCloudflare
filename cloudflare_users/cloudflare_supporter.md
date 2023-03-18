@@ -9858,6 +9858,7 @@ Do not create new issue or we will close it as duplicate.
 | [Shanilk40518007@twitter](https://twitter.com/Shanilk40518007/status/1401086959989268482) | advertise |
 | [ShanKoKo10@twitter](https://twitter.com/ShanKoKo10/status/1394641850879725569) | advertise |
 | [ShannonMMitche1@twitter](https://twitter.com/ShannonMMitche1/status/1405702171438555136) | advertise |
+| [ShanvanthA@twitter](https://twitter.com/ShanvanthA/status/1637060319854960641) | advertise |
 | [shapoo67@twitter](https://twitter.com/shapoo67/status/1618249394830331905) | advertise |
 | [SharabShrestha@twitter](https://twitter.com/SharabShrestha/status/1536686494672617474) | advertise |
 | [sharanuswamy9@twitter](https://twitter.com/sharanuswamy9/status/1403599807860535298) | advertise |
@@ -11225,6 +11226,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tqk06514778@twitter](https://twitter.com/Tqk06514778/status/1400852519878676486) | advertise |
 | [TquanganTa@twitter](https://twitter.com/TquanganTa/status/1553266413460402176) | advertise |
 | [tra79774787@twitter](https://twitter.com/tra79774787/status/1604896396334616579) | advertise |
+| [TractorSau@twitter](https://twitter.com/TractorSau/status/1637060034638106626) | advertise |
 | [tradeserg@twitter](https://twitter.com/tradeserg/status/1507822829789716481) | advertise |
 | [TradingGod5@twitter](https://twitter.com/TradingGod5/status/1629806799158214659) | advertise |
 | [Trai49328033@twitter](https://twitter.com/Trai49328033/status/1402999939983056899) | advertise |
