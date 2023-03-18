@@ -680,6 +680,7 @@ Do not create new issue or we will close it as duplicate.
 | [AmirullAyob@twitter](https://twitter.com/AmirullAyob/status/1474048815149682689) | advertise |
 | [AmirulOfficialy@twitter](https://twitter.com/AmirulOfficialy/status/1591303301081202688) | advertise |
 | [Amirulsyafeeq66@twitter](https://twitter.com/Amirulsyafeeq66/status/1550517767899840512) | advertise |
+| [amiryhawa1@twitter](https://twitter.com/amiryhawa1/status/1637080736988626947) | advertise |
 | [amir_809@twitter](https://twitter.com/amir_809/status/1573479973331017728) | advertise |
 | [amit19906@twitter](https://twitter.com/amit19906/status/1584241344314167297) | advertise |
 | [AmitSin32558267@twitter](https://twitter.com/AmitSin32558267/status/1483704135405142016) | advertise |
