@@ -1273,7 +1273,7 @@ Here's a list of public Fediverse services.
 | `alabasta.net` | No |
 | `alacasa.fr` | No |
 | `alacorenews.org` | No |
-| `aladavinci.com` | No |
+| `aladavinci.com` | Yes |
 | `alado.space` | No |
 | `alaeith.com` | No |
 | `alamaisondulibre.org` | No |
@@ -16792,6 +16792,7 @@ Here's a list of public Fediverse services.
 | `joinplu.me` | No |
 | `jointakahe.org` | Yes |
 | `jojess.net` | No |
+| `joji-ani.me` | Yes |
 | `jokertv.eu` | No |
 | `jokiller230.tk` | Yes |
 | `jokin.fi` | No |
@@ -18359,6 +18360,7 @@ Here's a list of public Fediverse services.
 | `kupo.space` | No |
 | `kurabloodlust.eu` | No |
 | `kurage.cc` | No |
+| `kurage.top` | No |
 | `kurakake.net` | No |
 | `kurd.org` | Yes |
 | `kureshisen.com` | Yes |
@@ -28085,7 +28087,7 @@ Here's a list of public Fediverse services.
 | `prvcy.eu` | No |
 | `prx.link` | No |
 | `przej.me` | No |
-| `pseek.fr` | No |
+| `pseek.fr` | Yes |
 | `pseudo-whiskey.bar` | No |
 | `psimon.world` | No |
 | `psion.co` | No |
@@ -29591,7 +29593,7 @@ Here's a list of public Fediverse services.
 | `rmdir.co.uk` | No |
 | `rmendes.net` | No |
 | `rmgr.dev` | No |
-| `rmi0.com` | No |
+| `rmi0.com` | Yes |
 | `rmrf.space` | No |
 | `rmrs.nl` | No |
 | `rmxr.net` | No |
@@ -39851,8 +39853,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,805 |
-| Normal | 30,003 |
+| Cloudflare | 9,809 |
+| Normal | 30,001 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
