@@ -941,6 +941,7 @@ Do not create new issue or we will close it as duplicate.
 | [arshia135563@twitter](https://twitter.com/arshia135563/status/1575086077362065409) | advertise |
 | [ArShin48050365@twitter](https://twitter.com/ArShin48050365/status/1383422252864065541) | advertise |
 | [ArshSin32893074@twitter](https://twitter.com/ArshSin32893074/status/1485148098816983044) | advertise |
+| [Arsh_dune@twitter](https://twitter.com/Arsh_dune/status/1637044578887802882) | advertise |
 | [arsh_m302@twitter](https://twitter.com/arsh_m302/status/1611778176874676224) | advertise |
 | [Arsian84722563@twitter](https://twitter.com/Arsian84722563/status/1392123750821208068) | advertise |
 | [arslansheikh381@twitter](https://twitter.com/arslansheikh381/status/1467975634391601156) | advertise |
