@@ -330,6 +330,7 @@ agent01.xeox.com
 api-oauth-us.xiaoyi.com
 api.dev.xelya.io
 apple-icloud-ip.xn--l9jzd2076a.biz
+auth.vpn.xeinan.cloud
 beta.xsafe.app
 book.xunweitech.com
 cash.xpresspay.bg
@@ -385,6 +386,7 @@ www.xn----uwfd8e6cn4af5c1ei.com
 www.xn--altbausanierung-grtz-kbc.de
 www.xn--amazon-2o4e9b4m8fte4dvb7ef.tokyo
 www.xn--billiglsesmed-vfb.dk
+www.xn--blten-zauber-elb.at
 www.xn--bnzhof-3ya.ch
 www.xn--brommatrdfllning-2nbc.se
 www.xn--fjern-baggrund-p-billede-vcc.dk
@@ -416,6 +418,7 @@ xcellentplus.com
 xclacksoverhead.org
 xclusso.com
 xena4netflix.com
+xenonsecurity.pl
 xes450.com
 xesso.net
 xevolkswagen.vn
@@ -427,6 +430,7 @@ xkarts.com.au
 xlpalpinismo.com.br
 xn----7sba2agohtrjld.xn--p1ai
 xn--12cyuc5csbh3ecu0d5b7b8gk7k.com
+xn--argentinosenespaa-uxb.eu
 xn--atwykredyt-8zb.pl
 xn--bleerne-lxa9n.dk
 xn--feuerwehr-grnkraut-x6b.de
@@ -434,6 +438,7 @@ xn--fjern-baggrund-p-billede-vcc.dk
 xn--fxt5yz5zno9a.net
 xn--hufe-gebudeservice-stb.de
 xn--jlq54w7ypemw.org
+xn--k-yi5f14dxxbvfn1at55d48d.com
 xn--oy2b17nw6b71c99osnfo7a.com
 xn--rdahja-wxad.se
 xn--regnskapsbyrioslo-krb.no
@@ -451,6 +456,7 @@ xsupport.cc
 xtramagazine.com
 xuanthieunguyen.com
 xvzx.website
+xydipc.cn
 yapimu.xgane.com
 captcha.xcount.io
 contao.xn--brnings-o2a.de
