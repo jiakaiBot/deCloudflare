@@ -25322,6 +25322,7 @@ Here's a list of public Fediverse services.
 | `oc.is` | Yes |
 | `ocallahan.org` | No |
 | `ocaml.org` | No |
+| `ocamlot.xyz` | No |
 | `occasional.contact` | No |
 | `occitania.social` | No |
 | `occitanie-decroissance.info` | No |
@@ -39856,7 +39857,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,813 |
-| Normal | 29,999 |
+| Normal | 30,000 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
