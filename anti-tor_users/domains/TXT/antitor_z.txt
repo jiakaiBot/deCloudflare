@@ -441,6 +441,8 @@ jobs.zenploy.io
 kerur-rahamim.zapages.co.il
 login.zeezil.co.uk
 logistics-ps-match.logistics-test.zalan.do
+mail.zimm.at
+mail.zimm.com
 mail.zyrenth.com
 men24.zazer-city.net
 monitoringstudio.zeta-tek.com
@@ -504,6 +506,7 @@ webline.etestb2b.zurich.co.uk
 www.accounts.zdlab.co.za
 www.citiblue.zoiee.com
 www.drleonid.zapgoogle.co.il
+www.facebook.zenidba.com
 www.gamesupport.in.zehraglobalinfotech.in
 www.invoice.zahratalsaharadeliveryservice.com
 www.login.zxcholdingsgroup.com
@@ -518,6 +521,7 @@ www.z-3.io
 www.zaadbank.nl
 www.zaaraluxuryaesthetics.de
 www.zahar-marble.co.il
+www.zahnarzt-kilchberg.ch
 www.zahrahuber.com
 www.zainneinvoice.com.zainnedistribution.com
 www.zajakowski.com
@@ -581,6 +585,7 @@ zahnen.cl
 zalandozwrotkurierem.eu
 zamaco.com.vn
 zambiaminesafety.com
+zannam.sk
 zararoyalaccounting.ca
 zarch.lv
 zauber.my
@@ -591,6 +596,7 @@ zealfashions.in
 zebratest.eu
 zecchinodoro.org
 zeebra.nl
+zeitstil-design.de
 zellispayment.com
 zelo.zelomeetings.com
 zemekcompany.com
@@ -618,11 +624,13 @@ zonamuonline.com
 zoomdropbox.us
 zoomsecure.info
 zoonkie.com
+zopdemo.com
 zorgictzorgen.nl
 zozovideo.com
 zqura.com
 zsecurity.ro
 ztmrds.zenithtechnologies.com
+zuercher-stadthonig.ch
 zuinnote.eu
 zuser1.com
 zuvaenergies.com
