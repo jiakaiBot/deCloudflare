@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Mixed Content error when logging in, in production](https://github.com/orchidsoftware/platform/issues/2562)
 - [Japscan: Unable to download](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/15749)
 - [Problems with LUM, OpenLDAP, Docker and Traefik](https://github.com/wheelybird/ldap-user-manager/issues/192)
 - [Possible problem with nHentai Downloader.](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/issues/138)
