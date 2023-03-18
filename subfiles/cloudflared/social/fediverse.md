@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,977 |
-| social | 3,853 |
+| social | 3,854 |
 | net | 3,057 |
 | org | 2,109 |
 | de | 2,000 |
@@ -10982,7 +10982,7 @@ Here's a list of public Fediverse services.
 | `fediversereport.com` | No |
 | `fediverso.club` | No |
 | `fediverso.gal` | No |
-| `fediverso.net` | No |
+| `fediverso.net` | Yes |
 | `fediversum.de` | No |
 | `fediversum.one` | No |
 | `fediversum.social` | Yes |
@@ -11453,7 +11453,7 @@ Here's a list of public Fediverse services.
 | `fluffs.au` | No |
 | `fluffy.family` | No |
 | `fluffy.moe` | Yes |
-| `fluffy.social` | No |
+| `fluffy.social` | Yes |
 | `fluffy.world` | No |
 | `fluffyfox.moe` | No |
 | `fluffyheart.me` | No |
@@ -14314,6 +14314,7 @@ Here's a list of public Fediverse services.
 | `helmi.social` | Yes |
 | `helms.social` | No |
 | `helpchangethe.world` | No |
+| `helpfulpodcasters.social` | No |
 | `helpmedog.com` | Yes |
 | `helse.rocks` | No |
 | `helvede.net` | No |
@@ -31036,7 +31037,7 @@ Here's a list of public Fediverse services.
 | `sensibleowl.social` | Yes |
 | `sensin.eu` | No |
 | `sensor.community` | No |
-| `sent.onl` | No |
+| `sent.onl` | Yes |
 | `sentient.tube` | No |
 | `sentynel.com` | No |
 | `senyuuri.info` | Yes |
@@ -33153,7 +33154,7 @@ Here's a list of public Fediverse services.
 | `striker.net.eu.org` | No |
 | `strindevall.com` | Yes |
 | `stringer.live` | Yes |
-| `stringer.nz` | No |
+| `stringer.nz` | Yes |
 | `strings.io` | No |
 | `strintels.com` | Yes |
 | `stripedsocks.dev` | No |
@@ -39853,8 +39854,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,809 |
-| Normal | 30,001 |
+| Cloudflare | 9,813 |
+| Normal | 29,998 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
