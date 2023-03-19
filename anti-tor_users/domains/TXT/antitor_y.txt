@@ -486,6 +486,7 @@ services.yuntrack.com
 sjsu.yahoodrummers.com
 squote.yuanta.com.tw
 ssl.ybmky.com
+static.212.167.109.65.clients.your-server.de
 top15posts.youngpetals.net
 v-al5r12ca4i.wc.yahoodns.net
 v-b14znqldkp.wc.yahoodns.net
@@ -524,6 +525,7 @@ www.yabfestival.com
 www.yachtservice-laboe.de
 www.yajagoff.com
 www.yamandbean.com
+www.yandex-specialist.ru
 www.yankton.net
 www.yapianalizi.com.tr
 www.yapidanismanlik.com
@@ -582,6 +584,7 @@ ybaautoservice.ro
 ybooking.com
 ybx-test.yahoo.co.jp
 yc-loyalty-ke.stage.apac.yaradigitallabs.io
+ydg.icu
 yeahyouwriteevents.com
 yee.com
 yefi.site
@@ -596,6 +599,7 @@ yesbank.in
 yesmsmeonline.yesbank.in
 yetch.store
 yeudongvat.org
+yevheniikhudolii.foundation
 yhfaadddd2.top
 yhfsajfk1.top
 yhfsajfk3.top
@@ -604,10 +608,13 @@ yilanhotel.tw
 yinyang-verlag.de
 yklemebkkyy.com.tr
 yodecidocomo.com
+yogapilateslondon.com
 yogpeethbooking.in
 yooflyer.com
+york-lab.com
 youenforcement.life
 youhaveitmaidservice.com
+youijzz.com
 youinspire.me.uk
 younghaejo.com
 youngpun.com
@@ -623,6 +630,7 @@ yourrecruiter.ca
 yourvalenciadentist.com
 yourveganfallacyis.com
 youtube-nocookies.com
+yoyoessentials.com
 yperiontitanium.com
 yperthiron.gr
 ys.style
