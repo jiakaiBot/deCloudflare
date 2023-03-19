@@ -3485,6 +3485,7 @@ Do not create new issue or we will close it as duplicate.
 | [godswillabel6@twitter](https://twitter.com/godswillabel6/status/1605990304200331264) | advertise |
 | [GODVSH1@twitter](https://twitter.com/GODVSH1/status/1400408258024665091) | advertise |
 | [GodXGaming19@twitter](https://twitter.com/GodXGaming19/status/1404097512743477248) | advertise |
+| [god_alian@twitter](https://twitter.com/god_alian/status/1637274780180303873) | advertise |
 | [GogehZailani@twitter](https://twitter.com/GogehZailani/status/1557726171130802179) | advertise |
 | [GogKhant@twitter](https://twitter.com/GogKhant/status/1393684373484961794) | advertise |
 | [GolamkibriaRony@twitter](https://twitter.com/GolamkibriaRony/status/1404201070306361345) | advertise |
@@ -4629,6 +4630,7 @@ Do not create new issue or we will close it as duplicate.
 | [itgyani@twitter](https://twitter.com/itgyani/status/1527643316267155464) | advertise |
 | [itninjas_@twitter](https://twitter.com/itninjas_/status/1400501833882386434) | advertise |
 | [itonahoribe805@twitter](https://twitter.com/itonahoribe805/status/1383768213138247689) | advertise |
+| [itscdaniel_@twitter](https://twitter.com/itscdaniel_/status/1637268554214002689) | advertise |
 | [itsdeepblogs@twitter](https://twitter.com/itsdeepblogs/status/1471841104077017089) | advertise |
 | [itshonkertown@twitter](https://twitter.com/itshonkertown/status/1509075013818896390) | advertise |
 | [ItsJotaro@twitter](https://twitter.com/ItsJotaro/status/1405093781813096450) | advertise |
@@ -7602,6 +7604,7 @@ Do not create new issue or we will close it as duplicate.
 | [naoiix@twitter](https://twitter.com/naoiix/status/1569995918551793665) | advertise |
 | [NaoremDojo@twitter](https://twitter.com/NaoremDojo/status/1382449145856851971) | advertise |
 | [nao_qua@twitter](https://twitter.com/nao_qua/status/1533404289648844802) | advertise |
+| [napat0546@twitter](https://twitter.com/napat0546/status/1637276702723440641) | advertise |
 | [nappyboy1109@twitter](https://twitter.com/nappyboy1109/status/1559171847643893761) | advertise |
 | [NaqibTasdiq@twitter](https://twitter.com/NaqibTasdiq/status/1561014306275475459) | advertise |
 | [naqmal05@twitter](https://twitter.com/naqmal05/status/1622913393064837121) | advertise |
