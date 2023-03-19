@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,980 |
-| social | 3,855 |
+| com | 5,982 |
+| social | 3,857 |
 | net | 3,060 |
 | org | 2,109 |
 | de | 2,000 |
@@ -1799,6 +1799,7 @@ Here's a list of public Fediverse services.
 | `andyetzler.social` | No |
 | `andyoakley.com` | No |
 | `andyrush.net` | No |
+| `andythompson.social` | No |
 | `andz.me` | No |
 | `anemoneya.me` | No |
 | `anfield.social` | Yes |
@@ -2109,6 +2110,7 @@ Here's a list of public Fediverse services.
 | `apreslanu.it` | No |
 | `apricot.social` | No |
 | `april.org` | No |
+| `aprl.moe` | No |
 | `aproxy-testing-stop-flooding-my-debug-log.cf` | No |
 | `aptx-4869.de` | No |
 | `apublic.space` | Yes |
@@ -2764,6 +2766,7 @@ Here's a list of public Fediverse services.
 | `avision-it.social` | No |
 | `avn.org` | No |
 | `avocado.lol` | No |
+| `avocados.ovh` | No |
 | `avoel.de` | No |
 | `avoh.club` | No |
 | `avtobiografia.com` | Yes |
@@ -6500,7 +6503,7 @@ Here's a list of public Fediverse services.
 | `conferences-gesticulees.net` | No |
 | `confidential.exposed` | No |
 | `configure.ac` | No |
-| `confinement.me` | Yes |
+| `confinement.me` | No |
 | `conflatedcultures.co.uk` | No |
 | `confluxhq.org` | No |
 | `confraria.dev` | Yes |
@@ -8749,6 +8752,7 @@ Here's a list of public Fediverse services.
 | `dogcow.us` | No |
 | `dogcraft.cn` | Yes |
 | `dogcraft.top` | Yes |
+| `dogdroid.dev` | No |
 | `dogeposting.social` | No |
 | `dogetron.com` | No |
 | `dogfood.social` | Yes |
@@ -17498,6 +17502,7 @@ Here's a list of public Fediverse services.
 | `keio.ac.jp` | No |
 | `keith-baker.com` | No |
 | `keith.net` | Yes |
+| `keithcockerham.com` | No |
 | `keithhacks.cyou` | No |
 | `keithjgrant.com` | Yes |
 | `keiths-place.com` | No |
@@ -21939,6 +21944,7 @@ Here's a list of public Fediverse services.
 | `mi-chan.work` | No |
 | `mi-wo.site` | Yes |
 | `mi2428.net` | No |
+| `miantiao.me` | Yes |
 | `miao.dev` | Yes |
 | `miao.social` | Yes |
 | `miaochann.com` | Yes |
@@ -25190,6 +25196,7 @@ Here's a list of public Fediverse services.
 | `nvitucci.social` | No |
 | `nvk.pm` | No |
 | `nvrlnd.xyz` | No |
+| `nvtn.dev` | No |
 | `nwah.social` | No |
 | `nwb.social` | No |
 | `nwex.de` | No |
@@ -30216,6 +30223,7 @@ Here's a list of public Fediverse services.
 | `sahilister.in` | No |
 | `saibo.world` | Yes |
 | `saibou.work` | No |
+| `said.social` | No |
 | `saidon.online` | No |
 | `saifulh.online` | No |
 | `saifulh.web.id` | No |
@@ -32531,6 +32539,7 @@ Here's a list of public Fediverse services.
 | `spectral.engineering` | No |
 | `spectraltheorem.be` | No |
 | `spectrazine.social` | No |
+| `spectrecollie.com` | No |
 | `spectreleague.net` | No |
 | `spectreos.de` | No |
 | `spectres.space` | No |
@@ -39869,7 +39878,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,819 |
-| Normal | 30,006 |
+| Normal | 30,015 |
 
 
-### 24.7% of public Fediverse services are using Cloudflare.
+### 24.6% of public Fediverse services are using Cloudflare.
