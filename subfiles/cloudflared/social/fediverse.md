@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,982 |
+| com | 5,983 |
 | social | 3,857 |
 | net | 3,061 |
 | org | 2,109 |
@@ -19728,6 +19728,7 @@ Here's a list of public Fediverse services.
 | `loomchild.net` | No |
 | `loomcom.com` | No |
 | `loonarmys.com` | No |
+| `looped.network` | Yes |
 | `loopfree.tech` | No |
 | `loophole.site` | No |
 | `looplab.net` | No |
@@ -26951,6 +26952,7 @@ Here's a list of public Fediverse services.
 | `phaseshift.studio` | No |
 | `phasing.cloud` | No |
 | `phasorburn.com` | No |
+| `phast.ru` | Yes |
 | `phatcat.online` | No |
 | `phatnastytour.com` | No |
 | `phaysis.com` | No |
@@ -29664,6 +29666,7 @@ Here's a list of public Fediverse services.
 | `robjess.co.uk` | Yes |
 | `roblen.at` | No |
 | `robloxcommunity.social` | No |
+| `robmcbryde.com` | No |
 | `robmccoll.com` | No |
 | `robmydobrze.pl` | No |
 | `robmyers.org` | Yes |
@@ -39879,8 +39882,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,819 |
-| Normal | 30,017 |
+| Cloudflare | 9,821 |
+| Normal | 30,018 |
 
 
-### 24.6% of public Fediverse services are using Cloudflare.
+### 24.7% of public Fediverse services are using Cloudflare.
