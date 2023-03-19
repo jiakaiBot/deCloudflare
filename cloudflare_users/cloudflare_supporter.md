@@ -11647,6 +11647,7 @@ Do not create new issue or we will close it as duplicate.
 | [vazquezjg@twitter](https://twitter.com/vazquezjg/status/1407182928275070976) | advertise |
 | [Vazquez_One@twitter](https://twitter.com/Vazquez_One/status/1571261569308270595) | advertise |
 | [VA_ACE_VN@twitter](https://twitter.com/VA_ACE_VN/status/1552549702167511040) | advertise |
+| [vBizChain@twitter](https://twitter.com/vBizChain/status/1637462308569124866) | advertise |
 | [VBo08841997@twitter](https://twitter.com/VBo08841997/status/1398090624503402497) | advertise |
 | [vcdx71@twitter](https://twitter.com/vcdx71/status/1422627671654158347) | advertise |
 | [VEDIKA940234511@twitter](https://twitter.com/VEDIKA940234511/status/1514582258476322817) | advertise |
