@@ -1427,6 +1427,7 @@ zyxzero314-gmailcom.vercel.app
 1sxv.vercel.app
 2088.vercel.app
 2cr4.vercel.app
+37fae49f.verifiedsecure.net
 410-gone.vercel.app
 a101.vicservice.ru
 ablink.mkt.voiapp.io
@@ -1521,6 +1522,7 @@ ddssync-lane32.qa.vivonet.com
 ddssync-lane32b.qa.vivonet.com
 de.device-usagebox.production-eu.cookidoo.vorwerk-digital.com
 delta.vtac.edu.au
+demo.vmuservice.com
 desktop.vdata.cloud
 dev.vanbokhovensecurity.nl
 discord.valkirias.xyz
@@ -1556,6 +1558,7 @@ fusion.vsp.virginia.gov
 g11g.vercel.app
 gctracker-protonmailc.vercel.app
 genatkns-uat.veritas.com
+get.voltamoney.com
 git.alt1.aspmx.l.google.com.versacommerce.eu
 git.git.alt1.aspmx.l.google.com.versacommerce.eu
 git.git.git.bmail.vnigni.ru
@@ -1643,6 +1646,7 @@ payments.valiantgroup.ca
 payments.vantivprelive.com
 pds.volkswagen.de
 pis-gw.vivapayments.com
+portal.comid.fma-1d0df0aa.core.build.vwn.cloud
 portal.venusshare.com
 portal.viking-intl.com
 portalklienta.vfsco.pl
@@ -1651,6 +1655,7 @@ posportal.vav.at
 prod.adfs.federation.va.gov
 prodidsp.si.valid.com.br
 producedatahubservices.volvo.com
+projects.vipconsulting.com
 ps-automation-update-preview.virtual-spaces.de
 qa.api.sfdc.vwgroup.de
 qaapi4.vivanda.com
@@ -1664,6 +1669,7 @@ sanrio.viverebrasil.com.br
 sber.avito.sber.avito.avito.sber.covid19.view-manager.com
 sber.avito.sber.avito.blablacar.covid19.view-manager.com
 sber.avito.sber.blablacar.avito.avito.covid19.view-manager.com
+sber.sber.aviavisberbank.m.covid19.vitorheinzen.com
 sber.sber.avito.sberbank.sber.sberbank.covid19.vossbryggeri.com
 sber.sber.sber.avito.avito.sberbank.covid19.vojvodinanet.com
 sber.sber.www.covid19.view-manager.com
@@ -1685,6 +1691,7 @@ sberbank.sber.avito.www.avito.covid19.vr-cosmetology.ru
 sberbank.sber.avito.www.avito.www.covid19.vojvodinanet.com
 sberbank.sber.sber.avito.avito.git.covid19.vesta-donors.com
 sberbank.sber.sber.avito.blablacar.covid19.vesta-donors.com
+sberbank.sber.sber.avito.covid19.vr-cosmetology.ru
 sberbank.sber.sber.blablacar.avito.sber.covid19.view-manager.com
 secure.vertiforge.com
 secure.vms4fx.com
@@ -1729,6 +1736,8 @@ vaccinesandsociety.com
 vaccinesandsociety.com.vaccinesandsociety.org
 vaccinesandsociety.org
 vaclavsmil.com
+vacra.fr
+vad.com.my
 vado-eng.com
 vagadskhadi.in
 vahptr.com
@@ -1739,6 +1748,7 @@ valdemarhoiris.dk
 valealupilor.com
 valenca.rj.gov.br
 valorasecurity.cl
+valuexchangewallet.com
 vamlas.fi
 vanadzorpost.com
 vanbodegompost.nl
@@ -1746,17 +1756,22 @@ vandoornsupport.nl
 vanguardofficial.eu
 vanguardtrustbank.org
 vankids.co.kr
+vanwaardhuizen.com
+vanwalaonline.com
 vapeloungedelivery.us
 vapers-center.de
 vapyapi.com
 varietal-literature.ca
 varni.de
+vauxhallemail.co.uk
 vaveylamodam.com
 vayados.com
 vaytienicloud.com
 vaytiensieutoc.vn
 ve3oat.ca
 ve6lk.com
+vedantaconnect.com
+vedavyzkum.cz
 vedixin.ro
 veessot.com
 vegan-news.com
@@ -1781,6 +1796,7 @@ verein-fema.at
 verifgood-gmao1.fr
 verificar-mbcp.com
 verificar-milbcp.com
+verificare-centrale.ro
 verificare-pram-iasi.ro
 verificasite.ro
 verite-covid19.com
@@ -1828,6 +1844,7 @@ videoapi-muybridge.vimeocdn.com
 videogameperfection.com
 videoslatam.com
 videotech.lv
+vidmate.ooo
 vidracariaroma.com.br
 viergeverclan.nl
 viesti.fi
@@ -1846,6 +1863,7 @@ vilelemarii.ro
 vilenna.moda
 villa-aventura.com
 villamormor.dk
+villarosaquincy.com
 villelepisto.fi
 vinatrips.vn
 vincecreative.com.br
@@ -1878,6 +1896,7 @@ visionsource-familyeyecarewest.com
 visionsource-owasso.com
 visualwebz.com
 visuelle.co.uk
+vitacapsulas.fun
 vitaexpress.ru
 vital-pbx.vei.global
 vitalhealthwellness.com
@@ -1886,6 +1905,7 @@ vitoturizm.com.tr
 vitralii-restaurare.ro
 vivabritannia.de
 vivacecollection.com
+vivasdesign.com
 vivatequis.com
 viveecosse.com
 vivefi.com
@@ -1894,12 +1914,14 @@ vivovet.be
 vj22.de
 vkc.sh
 vkninvestmentcorp.com
-vkontaktemxwi.tk
+vkontakteaewb.tk
 vkprservice.com
 vladhuber.cl
+vlbajio.com
 vljwebapp.vedantaconnect.com
 vlvdevcmg.venetianlasvegasdev.com
 vmail.vanbeersbrokx.nl
+vnrealestate.homes
 vochtinfo.be
 vod.vcmedios.tv
 vodabrd.com
@@ -1909,6 +1931,7 @@ vodafonemobile.com
 vodiscord.vercel.app
 vogue.wtf
 vogueupholstery.com.au
+voicelytic0.foundation
 voices.media
 voicesinmovement.org
 voicesofvr.com
@@ -1927,6 +1950,7 @@ vosges.vivrest.com
 votefeaster.com
 voutu.be
 voxmediaevents.com
+voxoludeniz.com
 voxtur.ae
 voyage-quantique.fr
 voyagebaltimore.com
@@ -1943,6 +1967,7 @@ vpn88.site
 vpndeals.site
 vpnfact.com
 vpntv.fi
+vpnufdve.tk
 vpsventa.com
 vr-risikoneigung.de
 vreedi.com
@@ -1956,6 +1981,7 @@ vtest314-hbjgvm8efxps4gaazr2u.vercel.app
 vuc.dk
 vueloshelicoptero.com
 vulcandrifterriders.com
+vulcanengineering.com.au
 vulcanjetboats.com
 vulcanstl.com
 vuprom.com
@@ -2011,6 +2037,7 @@ www.fadlan.vpnsg.my.id
 www.ferrdelivery.virtualtecserver.com
 www.gaharreview.com.vpngahar.com
 www.git.git.gitlab.gitlab.backoffice.vuoksapark.ru
+www.google90f871058e007c09.vkapital.com
 www.invoice.vismark.eu
 www.lavajeepmountbatur.com.volcanoactivity.com
 www.law.videomemetemplate.com
@@ -2063,6 +2090,7 @@ www.vanerusso.com
 www.vanessa-telliam-consulting.fr
 www.vanichwathana.com
 www.vanier-association.com
+www.vank-swiss.ch
 www.vanleeuwenbeheer.nl
 www.vans.de
 www.vanveen-vanhemertpost89.org
@@ -2073,6 +2101,7 @@ www.vasternorrlandsgarden.se
 www.vawresearch.com
 www.vaytienicloud.com
 www.vbaccelerator.com
+www.vbs2022crbc.com
 www.vbvastgoedinrichter.nl
 www.vcfsw.org
 www.vcyamerica.org
@@ -2085,6 +2114,7 @@ www.vegomagasinet.se
 www.vehoniemenalamaja.fi
 www.vejer.es
 www.velasqueztreeservice.net
+www.veliaastucci.com
 www.velisboat-customer-a.velisboat.com
 www.velobuc.velovgp.org
 www.velocityofficefurniture.com
@@ -2095,6 +2125,7 @@ www.venderdiscosdevinilo.com
 www.venmono.com
 www.venture-west.co.uk
 www.veraadel.com
+www.verbeekelektroservice.nl
 www.verbraekenbiset.com
 www.verbund-deutscher-autoverwerter.de
 www.vergingoaescorts.com
@@ -2137,6 +2168,7 @@ www.vibonacciestates.com
 www.vibrandfondene.no
 www.vibrastopbalanceamentos.com.br
 www.vichaminternationalconference2023.com
+www.viciti.co.uk
 www.vicoloespresso.com
 www.victorchevrillon.fr
 www.victorgrasso.com
@@ -2206,6 +2238,7 @@ www.volunteerfortwayne.org
 www.volvocarsarrowhead.com
 www.vortexshippingservice.com
 www.votenarmstrong.ca
+www.voxoludeniz.com
 www.voxweb.nl
 www.voyance-vosges.fr
 www.voyanceswiss.net
@@ -2230,7 +2263,9 @@ www.vtbythebay.com
 www.vtcng.com
 www.vtechda.com
 www.vuelavi.com.co
+www.vulcanengineering.com.au
 www.vulcangrill.com
+www.vwvcuentadingital.com
 www.vwvwv-vakif-subesiz.com
 www.vytvorim.cz
 www.webshop.visserhandelenservice.nl
