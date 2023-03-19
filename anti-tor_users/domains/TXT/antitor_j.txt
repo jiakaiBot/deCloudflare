@@ -302,7 +302,6 @@ webmail.japan-secret-service.com
 webmail.jasabuatin.website
 webmail.juegoroblox.com
 whm.jauhwaktuberjalan.com
-wiki.jarexibackblaze.xyz
 www.accounting.jaydfreight.co.za
 www.admin.jatoindodelivery.com.br
 www.area-cliente.jongomara.es
@@ -859,6 +858,7 @@ booking.jvburton.com
 callback.jptxcallbackac.com
 carrefour-staging.jobijoba.io
 cdn.cloud.jiosurveillance.com
+client.vm.thegreenclover.joonix.net
 common.jinjer.co.jp
 connect.jlrsso.com
 cpcalendars.backupdayo.japan-onlinestores.com
@@ -879,6 +879,7 @@ donnapizza.pedidoonline.jclan.com.br
 dr-alan-cook.secure.junoemr.com
 duso.jectoons.net
 empireswiss.justtestingit.com
+facebook.jmuzzaffartravel.com
 finance.jinggakreatif.com
 fr-test-hht.jdadelivers.com
 frwy.jamaica-doctor.net
@@ -897,6 +898,9 @@ jackofftrack.com
 jacobsonconsulting.com
 jacupdate.com
 jacuzzi-pompen.com
+jadhoche.com
+jadikanaja.click
+jakartaraya.co.id
 jakfjka3.top
 jalankesembuhan.com
 jalanniemenvesiosuuskunta.fi
@@ -904,6 +908,7 @@ jalantengahcafe.com.jalantengahcafe.com
 jalditech.com
 jamespalmeiroblog.com
 jamiebriannaslegacyfund.org
+jamosa.co.za
 jamtrading.jp
 janpoertner.de
 japan-nekozekyousei.xyz
@@ -917,6 +922,8 @@ jay-ro.online
 jaya-bintang.com
 jayaservice.com
 jayastamba.com
+jayoent.com
+jayshealthfitnessuk.com
 jazzcallpackage.pk
 jazzes.nl
 jazzfinland.fi
@@ -931,6 +938,7 @@ jcat.eu
 jcmadvisors.com
 jcmit.net
 jconnect-build.uat.jivascience.com
+jdco.tw
 jdsr.se
 jeconworld.com
 jedewette.online
@@ -952,14 +960,18 @@ jff.jpf.go.jp
 jg-tc.com
 jhmcons.com
 jhnnes.de
+jiffyshorts.com
 jihoz-vent.uz
+jimat777slot.com
 jimcorbettonlinesafaribooking.com
 jimmyacrepairservice.xyz
 jimwooley.com
 jinko-shiba.com
 jio.nz
 jioengage.com
+jiofashions.com
 jiomeetpro.jio.com
+jiribarteknahrad.ga
 jist-web-service.jp
 jkcasaeconstrucao.com.br
 jkgunsandammo.com
@@ -989,6 +1001,7 @@ jondron.ca
 josephsteam.com
 joshbelville.com
 jouniranta.com
+jp-absale.com
 jpaylogin.org
 jpfocus.gr
 jpmstanley.com
@@ -1008,6 +1021,8 @@ junkmale.info
 juristeam.md
 justice-initiative.eu
 justinindustries.in
+justkiddingplaycafe.com
+justlasar.com
 justlikea.pro
 justtherapyservicesllc.com
 justy-web.com
@@ -1024,8 +1039,10 @@ patient.staging.journl.dk
 payments.jimgaliano.com
 pihole.jeff-dom.ovh
 pro.stg.jawaz-essaha.com
+quasaralert.jskim.dev
 randomvignettes.jectoons.net
 redirect.jobsearcher.com
+rustdesk.jacksonlegge.com
 sber.avito.git.git.git.git.covid19.juliecolombe.com
 sber.avito.sber.avito.blablacar.sber.covid19.juliecolombe.com
 sber.sber.blablacar.sberbank.www.covid19.juliecolombe.com
@@ -1121,6 +1138,7 @@ www.jamesowenracing.com
 www.jamfinearts.com
 www.jamhomemadeonlineshop.com
 www.jamileferraresso.com
+www.jamosa.co.za
 www.jandgcleaningsolutions.co.uk
 www.janesfamilytrees.com
 www.janine-kitzen.com
@@ -1219,6 +1237,7 @@ www.jonmitchellinjapan.com
 www.jonsparksauthor.com
 www.jorduschell.com
 www.jorgestreeservice.com
+www.jornadadelaortodoncia.com
 www.jornalmapa.pt
 www.josephineschwab.com
 www.josereuvekamp.nl
@@ -1272,6 +1291,7 @@ www.jyskmurerservice.dk
 www.liz-stanley.jaelleweddingplanner.com
 www.loja100dinheironamao.javistemz.com
 www.mom-a-billy.joeyfinz.com
+www.netflix-selling-tamp.justuspro.llc
 www.nextservice.jipmerite.com
 www.ntfsecure.jarumiconsulting.co.ke
 www.nullblog.ordpress.outlook.jenbrial.com
@@ -1283,6 +1303,7 @@ www.posts.jetdigital.in
 www.rbc-opera-scenes-cos.justinjacobs.co.uk
 www.react-task-tracker.jdplee.com
 www.safetyresearchfoundation.jpri.in
+www.selina-dominik.joanahuber.com
 www.servicios.jessblading.com
 www.serviciosdesalud.jobforhumans.com
 www.servicioshogarclaro.jmpublicistas.com
