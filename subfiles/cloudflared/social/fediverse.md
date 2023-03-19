@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,982 |
 | social | 3,857 |
-| net | 3,060 |
+| net | 3,061 |
 | org | 2,109 |
 | de | 2,000 |
 
@@ -24744,6 +24744,7 @@ Here's a list of public Fediverse services.
 | `noho.st` | No |
 | `nohomo.gay` | No |
 | `nohost.me` | No |
+| `nohto.net` | No |
 | `noidme.com` | No |
 | `noip.me` | No |
 | `noir.pub` | Yes |
@@ -39878,7 +39879,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,819 |
-| Normal | 30,015 |
+| Normal | 30,016 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
