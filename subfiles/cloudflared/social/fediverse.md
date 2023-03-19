@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,983 |
+| com | 5,984 |
 | social | 3,857 |
 | net | 3,061 |
 | org | 2,109 |
@@ -18880,6 +18880,7 @@ Here's a list of public Fediverse services.
 | `leel.fr` | No |
 | `leeloutoo.com` | Yes |
 | `leemhuis.info` | No |
+| `leemoon.network` | No |
 | `leermakers.net` | No |
 | `leet.pub` | No |
 | `leetsocial.com` | No |
@@ -36025,6 +36026,7 @@ Here's a list of public Fediverse services.
 | `tsukiyo.dev` | Yes |
 | `tsukuba.io` | Yes |
 | `tsukuba.one` | Yes |
+| `tsukubaskey.com` | Yes |
 | `tsukura.net` | No |
 | `tsukuyomi.dev` | Yes |
 | `tsun.co` | No |
@@ -39882,8 +39884,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,821 |
-| Normal | 30,018 |
+| Cloudflare | 9,822 |
+| Normal | 30,019 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
