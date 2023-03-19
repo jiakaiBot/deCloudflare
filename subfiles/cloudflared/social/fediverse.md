@@ -11223,6 +11223,7 @@ Here's a list of public Fediverse services.
 | `filmherd.social` | No |
 | `filmmusic.social` | No |
 | `filmvirgins.com` | No |
+| `filthylucre.biz` | No |
 | `fim.social` | Yes |
 | `fimidi.com` | No |
 | `fimpern.de` | No |
@@ -21013,7 +21014,7 @@ Here's a list of public Fediverse services.
 | `mastodon.me.uk` | Yes |
 | `mastodon.mg` | No |
 | `mastodon.miami` | No |
-| `mastodon.ml` | No |
+| `mastodon.ml` | Yes |
 | `mastodon.moe` | Yes |
 | `mastodon.mx` | Yes |
 | `mastodon.my` | No |
@@ -25295,7 +25296,7 @@ Here's a list of public Fediverse services.
 | `oak.li` | Yes |
 | `oak.social` | No |
 | `oaks.rocks` | No |
-| `oakver.online` | No |
+| `oakver.online` | Yes |
 | `oalm.gub.uy` | No |
 | `oar-online.uk` | No |
 | `oark.org` | No |
@@ -39884,8 +39885,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,822 |
-| Normal | 30,019 |
+| Cloudflare | 9,824 |
+| Normal | 30,018 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
