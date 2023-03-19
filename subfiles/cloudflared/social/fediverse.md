@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,984 |
+| com | 5,988 |
 | social | 3,857 |
 | net | 3,061 |
 | org | 2,109 |
-| de | 2,000 |
+| de | 2,001 |
 
 
 - Mastodon, Pleroma, etc
@@ -2848,6 +2848,7 @@ Here's a list of public Fediverse services.
 | `ayaka.moe` | Yes |
 | `ayaka.social` | Yes |
 | `ayano.jp` | No |
+| `ayatovr.com` | No |
 | `ayco.io` | No |
 | `ayden.life` | Yes |
 | `aylett.co.uk` | Yes |
@@ -3368,7 +3369,7 @@ Here's a list of public Fediverse services.
 | `beehaw.org` | No |
 | `beehub.org` | Yes |
 | `beekeeping.ninja` | No |
-| `beeldengeluid.nl` | No |
+| `beeldengeluid.nl` | Yes |
 | `beelen.fr` | No |
 | `beelobby.de` | No |
 | `beelzebabes.com` | No |
@@ -7660,6 +7661,7 @@ Here's a list of public Fediverse services.
 | `darringaming.com` | No |
 | `dartboard.social` | No |
 | `darthsidius.net` | No |
+| `darticulate.com` | No |
 | `dartisan.dev` | No |
 | `darts.social` | No |
 | `dartsdon.jp` | No |
@@ -7862,6 +7864,7 @@ Here's a list of public Fediverse services.
 | `dea42.social` | No |
 | `deacon.social` | No |
 | `deaconpatrick.org` | No |
+| `dead.guru` | Yes |
 | `dead.kiwi` | Yes |
 | `dead10ck.com` | No |
 | `deadbatteries.work` | No |
@@ -8147,6 +8150,7 @@ Here's a list of public Fediverse services.
 | `derekjames.xyz` | No |
 | `dereksmom.com` | Yes |
 | `derentspannen.de` | No |
+| `derezz.com` | Yes |
 | `derg.land` | No |
 | `derg.nz` | Yes |
 | `derg.social` | Yes |
@@ -8383,6 +8387,7 @@ Here's a list of public Fediverse services.
 | `dib.de` | No |
 | `dibiase.social` | No |
 | `diblasio.net` | No |
+| `diblox.fr` | Yes |
 | `dice.camp` | No |
 | `dice.quest` | No |
 | `dicekey.jp` | Yes |
@@ -8870,6 +8875,7 @@ Here's a list of public Fediverse services.
 | `doompill.com` | No |
 | `dooms.com.br` | No |
 | `doon.promo` | No |
+| `doony.online` | No |
 | `doop.coop` | No |
 | `dopamine.social` | No |
 | `dopasoft.com` | No |
@@ -9775,7 +9781,7 @@ Here's a list of public Fediverse services.
 | `ellih.eu` | No |
 | `ellijaymakerspace.org` | No |
 | `elliot.wales` | No |
-| `elliotali.com` | No |
+| `elliotali.com` | Yes |
 | `elliottbernstein.com` | No |
 | `ellipsis.fi` | No |
 | `ellipsiszine.com` | No |
@@ -12398,6 +12404,7 @@ Here's a list of public Fediverse services.
 | `gaeilge.social` | No |
 | `gaelicwizard.net` | No |
 | `gafamfree.party` | No |
+| `gaffeltr.uk` | No |
 | `gaftnochec.tokyo` | No |
 | `gageure.fr` | No |
 | `gagniard.org` | No |
@@ -14182,6 +14189,7 @@ Here's a list of public Fediverse services.
 | `hdcraft.xyz` | No |
 | `hdev.im` | No |
 | `hdez.nl` | No |
+| `hdr-it.de` | No |
 | `headcannon.xyz` | Yes |
 | `headchecks.club` | No |
 | `headcrack.cf` | No |
@@ -22702,6 +22710,7 @@ Here's a list of public Fediverse services.
 | `monocode.online` | No |
 | `monocul.us` | Yes |
 | `monocursive.com` | No |
+| `monodes.com` | No |
 | `monogram.org` | Yes |
 | `monolith.social` | No |
 | `monomarchos.agency` | No |
@@ -24695,6 +24704,7 @@ Here's a list of public Fediverse services.
 | `nocial.de` | No |
 | `nocko.se` | No |
 | `noclick.se` | Yes |
+| `nocogabriel.fr` | No |
 | `nocoolnametom.com` | No |
 | `nocorp.net` | No |
 | `nocserv.de` | No |
@@ -28717,6 +28727,7 @@ Here's a list of public Fediverse services.
 | `raghavgururajan.name` | No |
 | `raghavgururajan.net` | No |
 | `ragnate.la` | No |
+| `ragol.uk` | No |
 | `ragtag.moe` | Yes |
 | `rah.social` | No |
 | `rahlstedt.biz` | No |
@@ -30816,6 +30827,7 @@ Here's a list of public Fediverse services.
 | `scumaker.org` | Yes |
 | `scurry.io` | Yes |
 | `scutarasu.com` | No |
+| `scuttle.cloud` | No |
 | `scuttle.org` | Yes |
 | `scuttlebug.space` | Yes |
 | `scw.cloud` | No |
@@ -39139,6 +39151,7 @@ Here's a list of public Fediverse services.
 | `yayforqueers.net` | No |
 | `yba.dev` | Yes |
 | `ycare.de` | No |
+| `ych.lgbt` | Yes |
 | `ycrack.net` | Yes |
 | `ycros.org` | Yes |
 | `ydkn.social` | Yes |
@@ -39885,8 +39898,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,824 |
-| Normal | 30,018 |
+| Cloudflare | 9,830 |
+| Normal | 30,025 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
