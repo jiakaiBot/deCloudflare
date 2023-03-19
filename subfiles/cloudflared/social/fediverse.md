@@ -6032,6 +6032,7 @@ Here's a list of public Fediverse services.
 | `clesports.social` | No |
 | `cleverangel.org` | No |
 | `cleverdevil.club` | No |
+| `clew.lol` | No |
 | `clic2000.net` | Yes |
 | `click.ba.it` | Yes |
 | `clickomania.ch` | No |
@@ -39879,7 +39880,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,819 |
-| Normal | 30,016 |
+| Normal | 30,017 |
 
 
 ### 24.6% of public Fediverse services are using Cloudflare.
