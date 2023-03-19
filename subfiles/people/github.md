@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Doesn't work with cloudflare](https://github.com/NyaMisty/ssl-kill-switch3/issues/3)
 - [Error on Login](https://github.com/cleitonleonel/pyquotex/issues/2)
 - [以 sing-box 两次中转流量至落地端的 DIRECT 出站，会出现错误](https://github.com/SagerNet/sing-box/issues/452)
 - [Mixed Content error when logging in, in production](https://github.com/orchidsoftware/platform/issues/2562)
