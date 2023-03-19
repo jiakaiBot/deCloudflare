@@ -557,6 +557,7 @@ Do not create new issue or we will close it as duplicate.
 | [Alexthegod0day@twitter](https://twitter.com/Alexthegod0day/status/1384346054011744258) | advertise |
 | [alfariqichannel@twitter](https://twitter.com/alfariqichannel/status/1480580828690145281) | advertise |
 | [AlfatihAbdalla@twitter](https://twitter.com/AlfatihAbdalla/status/1442078849823563780) | advertise |
+| [AlfaTjmyl@twitter](https://twitter.com/AlfaTjmyl/status/1637290603141558273) | advertise |
 | [alfielord21@twitter](https://twitter.com/alfielord21/status/1498966562505646080) | advertise |
 | [alfoxdie@twitter](https://twitter.com/alfoxdie/status/1402541023146897410) | advertise |
 | [Alfred52321621@twitter](https://twitter.com/Alfred52321621/status/1621866869719453696) | advertise |
