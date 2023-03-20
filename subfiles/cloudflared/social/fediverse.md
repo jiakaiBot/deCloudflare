@@ -14675,7 +14675,7 @@ Here's a list of public Fediverse services.
 | `hlidacstatu.social` | No |
 | `hlim.org` | No |
 | `hllr.xyz` | No |
-| `hlnt.de` | No |
+| `hlnt.de` | Yes |
 | `hlpme.de` | No |
 | `hlut.win` | Yes |
 | `hmarquez.com` | No |
@@ -15261,6 +15261,7 @@ Here's a list of public Fediverse services.
 | `ianmjones.com` | No |
 | `ianneubert.com` | No |
 | `ianstormtaylor.social` | No |
+| `iavael.name` | Yes |
 | `iazine.com` | No |
 | `ibaillanos.social` | No |
 | `ibax.org` | No |
@@ -38765,7 +38766,7 @@ Here's a list of public Fediverse services.
 | `xeebion.de` | No |
 | `xelland.social` | No |
 | `xelp.it` | No |
-| `xeltica.work` | No |
+| `xeltica.work` | Yes |
 | `xen.network` | No |
 | `xen.sh` | No |
 | `xenesth.is` | No |
@@ -39920,8 +39921,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,835 |
-| Normal | 30,042 |
+| Cloudflare | 9,838 |
+| Normal | 30,040 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
