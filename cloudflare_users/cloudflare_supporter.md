@@ -2352,6 +2352,7 @@ Do not create new issue or we will close it as duplicate.
 | [danishfaizal20@twitter](https://twitter.com/danishfaizal20/status/1567192300438302720) | advertise |
 | [DankCheeseMemes@twitter](https://twitter.com/DankCheeseMemes/status/1622991806026727424) | advertise |
 | [dannwaneri@twitter](https://twitter.com/dannwaneri/status/1627759174967873539) | advertise |
+| [DannyEs75974205@twitter](https://twitter.com/DannyEs75974205/status/1637654047749550080) | advertise |
 | [DannySiregar4@twitter](https://twitter.com/DannySiregar4/status/1386713728511479810) | advertise |
 | [danny_mx@twitter](https://twitter.com/danny_mx/status/1404509805117648902) | advertise |
 | [DanOno365@twitter](https://twitter.com/DanOno365/status/1371618039108673545) | advertise |
@@ -4262,6 +4263,7 @@ Do not create new issue or we will close it as duplicate.
 | [hu37837656@twitter](https://twitter.com/hu37837656/status/1399604713822199816) | advertise |
 | [Hu39861196@twitter](https://twitter.com/Hu39861196/status/1379384044216057857) | advertise |
 | [huaiyii@twitter](https://twitter.com/huaiyii/status/1460603270154518528) | advertise |
+| [huangmuzhou@twitter](https://twitter.com/huangmuzhou/status/1637665053175611393) | advertise |
 | [huangrongyar@twitter](https://twitter.com/huangrongyar/status/1404046641166917639) | advertise |
 | [Huanjo3@twitter](https://twitter.com/Huanjo3/status/1398972316227305483) | advertise |
 | [HuaweiY55388310@twitter](https://twitter.com/HuaweiY55388310/status/1396889296347402242) | advertise |
