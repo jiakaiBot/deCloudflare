@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,996 |
+| com | 5,999 |
 | social | 3,858 |
 | net | 3,063 |
 | org | 2,112 |
@@ -3194,6 +3194,7 @@ Here's a list of public Fediverse services.
 | `bartdorsey.com` | Yes |
 | `bartels.social` | No |
 | `bartoszmilewski.com` | No |
+| `bartraigures.com` | No |
 | `bartrip.me.uk` | Yes |
 | `bartz.team` | No |
 | `bas.tn` | No |
@@ -7693,6 +7694,7 @@ Here's a list of public Fediverse services.
 | `dashuo.org` | Yes |
 | `dasmirnov.net` | No |
 | `dasnetzundich.de` | Yes |
+| `dasnetzwerk.eu` | No |
 | `dasoran.net` | No |
 | `daspr.io` | Yes |
 | `dasuniversum.social` | No |
@@ -16635,6 +16637,7 @@ Here's a list of public Fediverse services.
 | `jforseth.tech` | No |
 | `jg1000.fr` | No |
 | `jgachelin.fr` | No |
+| `jgantts.com` | No |
 | `jgarr.net` | No |
 | `jgaskins.wtf` | No |
 | `jgc.org` | Yes |
@@ -18622,7 +18625,7 @@ Here's a list of public Fediverse services.
 | `lairds.com` | No |
 | `laisa.family` | Yes |
 | `laissez-faire.social` | No |
-| `laisvai.lt` | No |
+| `laisvai.lt` | Yes |
 | `laitues.net` | No |
 | `lajaqueria.org` | Yes |
 | `lajna.si` | No |
@@ -25852,7 +25855,7 @@ Here's a list of public Fediverse services.
 | `openmw.org` | Yes |
 | `opennerds.org` | No |
 | `opennms.com` | Yes |
-| `openpluto.com` | No |
+| `openpluto.com` | Yes |
 | `openpossibilities.org` | No |
 | `openpsychology.net` | No |
 | `openrealm.org` | No |
@@ -35152,6 +35155,7 @@ Here's a list of public Fediverse services.
 | `timbo.cc` | Yes |
 | `timbyr.com` | No |
 | `timcast.club` | No |
+| `timdoug.com` | No |
 | `timdream.org` | No |
 | `time-suck.com` | No |
 | `timeattack.zone` | No |
@@ -39926,8 +39930,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,838 |
-| Normal | 30,045 |
+| Cloudflare | 9,840 |
+| Normal | 30,047 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
