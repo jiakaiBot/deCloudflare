@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Flooded with 503 errors](https://github.com/jointakahe/takahe/issues/545)
 - [Images not loading after updating Mastodon to v4.1.1](https://github.com/mastodon/mastodon/issues/24177)
 - [Cloudflare R2 append SignatureDoesNotMatch](https://github.com/apache/incubator-opendal/issues/1689)
 - [Doesn't work with cloudflare](https://github.com/NyaMisty/ssl-kill-switch3/issues/3)
