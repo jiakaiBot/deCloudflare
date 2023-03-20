@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,995 |
+| com | 5,996 |
 | social | 3,858 |
 | net | 3,063 |
 | org | 2,111 |
@@ -25832,6 +25832,7 @@ Here's a list of public Fediverse services.
 | `openetc.ca` | No |
 | `openevents.nz` | No |
 | `openfactory42.info` | No |
+| `openflowlabs.com` | No |
 | `openforfuture.org` | No |
 | `openformation.io` | No |
 | `openhood.ru` | No |
@@ -39923,7 +39924,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,837 |
-| Normal | 30,042 |
+| Normal | 30,043 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
