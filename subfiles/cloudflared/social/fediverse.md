@@ -6899,6 +6899,7 @@ Here's a list of public Fediverse services.
 | `criticalhit.net` | Yes |
 | `criticalrolestats.com` | No |
 | `critter.camp` | No |
+| `critter.ink` | No |
 | `critter.town` | No |
 | `critter.zone` | No |
 | `crittercave.net` | No |
@@ -39925,7 +39926,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,838 |
-| Normal | 30,043 |
+| Normal | 30,044 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
