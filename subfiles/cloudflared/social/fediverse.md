@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,989 |
-| social | 3,857 |
-| net | 3,061 |
-| org | 2,109 |
+| com | 5,993 |
+| social | 3,858 |
+| net | 3,063 |
+| org | 2,110 |
 | de | 2,001 |
 
 
@@ -1178,6 +1178,7 @@ Here's a list of public Fediverse services.
 | `airis.work` | No |
 | `airpollution.science` | No |
 | `airwaves.social` | Yes |
+| `airwhale.com` | No |
 | `airyz.xyz` | No |
 | `aisler.social` | Yes |
 | `aistear.net` | No |
@@ -1399,6 +1400,7 @@ Here's a list of public Fediverse services.
 | `alienlebarge.ch` | No |
 | `alienplanet.xyz` | No |
 | `aliensoup.social` | No |
+| `alife.dev` | Yes |
 | `alifein.tech` | No |
 | `alinke.com` | No |
 | `alirezahayati.com` | No |
@@ -2110,7 +2112,7 @@ Here's a list of public Fediverse services.
 | `apreslanu.it` | No |
 | `apricot.social` | No |
 | `april.org` | No |
-| `aprl.moe` | No |
+| `aprl.moe` | Yes |
 | `aproxy-testing-stop-flooding-my-debug-log.cf` | No |
 | `aptx-4869.de` | No |
 | `apublic.space` | Yes |
@@ -2348,6 +2350,7 @@ Here's a list of public Fediverse services.
 | `artisan.chat` | No |
 | `artisanlogiciel.net` | No |
 | `artism.place` | No |
+| `artiss.blog` | No |
 | `artist.cx` | No |
 | `artistalley.space` | No |
 | `artistsinthe.cloud` | No |
@@ -5818,6 +5821,7 @@ Here's a list of public Fediverse services.
 | `chrissabato.com` | No |
 | `christenson.family` | Yes |
 | `christenson.social` | Yes |
+| `christian-hockenberger.com` | No |
 | `christian-vogeley.de` | No |
 | `christian-vogeley.eu` | No |
 | `christianburkh.art` | No |
@@ -8492,6 +8496,7 @@ Here's a list of public Fediverse services.
 | `digper.tech` | No |
 | `dijy.eu.org` | No |
 | `dilavni.com` | Yes |
+| `diligiant.com` | Yes |
 | `dilithium.fr` | No |
 | `dillingen.social` | No |
 | `dilopiaf.fr` | No |
@@ -10165,7 +10170,6 @@ Here's a list of public Fediverse services.
 | `es.social` | No |
 | `es4.co` | Yes |
 | `esadhar.net` | No |
-| `esamecar.net` | No |
 | `escaperooms.social` | No |
 | `escapism.work` | Yes |
 | `escargot.com` | No |
@@ -12204,6 +12208,7 @@ Here's a list of public Fediverse services.
 | `funnymonkey.com` | No |
 | `funposters.club` | Yes |
 | `funs.vn` | No |
+| `funsahara.net` | No |
 | `fuo.fi` | Yes |
 | `fur.city` | No |
 | `fur.cl` | Yes |
@@ -12657,6 +12662,7 @@ Here's a list of public Fediverse services.
 | `gdyr.co` | Yes |
 | `gealdor.space` | No |
 | `geanix.com` | No |
+| `gearfamily.net` | No |
 | `gearheads.social` | Yes |
 | `gearlandia.haus` | Yes |
 | `gearpixel.xyz` | No |
@@ -14174,6 +14180,7 @@ Here's a list of public Fediverse services.
 | `hazel.cafe` | No |
 | `hazelcafe.town` | No |
 | `hazelspace.tk` | No |
+| `hazy.cafe` | No |
 | `hcaz.io` | No |
 | `hccp.org` | No |
 | `hci.social` | No |
@@ -20024,6 +20031,7 @@ Here's a list of public Fediverse services.
 | `lunardream.space` | No |
 | `lunareclip.se` | No |
 | `lunarloony.co.uk` | No |
+| `lunarpunk.social` | No |
 | `lunarpunk.space` | No |
 | `lunarstar.net` | No |
 | `lunarviews.net` | No |
@@ -28437,6 +28445,7 @@ Here's a list of public Fediverse services.
 | `quantumforest.com` | No |
 | `quantumheap.net` | No |
 | `quantumindigo.org` | Yes |
+| `quantumobserver.eu` | No |
 | `quaoar.xyz` | Yes |
 | `quarterbacks.win` | Yes |
 | `quarteredcircle.net` | No |
@@ -28790,6 +28799,7 @@ Here's a list of public Fediverse services.
 | `rakyll.org` | No |
 | `ralb.eu` | No |
 | `ralek.art` | Yes |
+| `raleurs.eu.org` | No |
 | `ralf-simon.de` | No |
 | `ralnode.net` | No |
 | `ralphkuehnl.de` | No |
@@ -29152,6 +29162,7 @@ Here's a list of public Fediverse services.
 | `redwave.social` | No |
 | `redwings.social` | No |
 | `redwombat.social` | Yes |
+| `redwoods.dev` | No |
 | `redxen.eu` | No |
 | `reece.sx` | Yes |
 | `reekes.org` | Yes |
@@ -29578,7 +29589,7 @@ Here's a list of public Fediverse services.
 | `rita.moe` | Yes |
 | `ritchie.social` | No |
 | `ritimo.org` | No |
-| `ritma.net` | No |
+| `ritma.net` | Yes |
 | `ritter.lol` | Yes |
 | `ritter.vg` | No |
 | `ritters.family` | Yes |
@@ -29824,6 +29835,7 @@ Here's a list of public Fediverse services.
 | `roost.eu` | No |
 | `root-s.xyz` | No |
 | `root.casa` | No |
+| `root.se` | No |
 | `root.sx` | Yes |
 | `root4friends.net` | Yes |
 | `rootaccess.org` | No |
@@ -33119,6 +33131,7 @@ Here's a list of public Fediverse services.
 | `storkeus.xyz` | Yes |
 | `stormcloak.info` | No |
 | `stormdragon.tk` | No |
+| `stormdragons.net` | No |
 | `stormgrass.com` | No |
 | `stormlight.space` | Yes |
 | `stormux.org` | No |
@@ -33395,6 +33408,7 @@ Here's a list of public Fediverse services.
 | `suncoast.dev` | No |
 | `sundark.eu.org` | No |
 | `sundaylight.space` | Yes |
+| `sundaynightfilmclub.com` | No |
 | `sundet.io` | No |
 | `sunet.se` | No |
 | `sunflowe.rs` | No |
@@ -38729,6 +38743,7 @@ Here's a list of public Fediverse services.
 | `xbm.se` | No |
 | `xbt0r.com` | No |
 | `xcess.one` | Yes |
+| `xcetera.biz` | No |
 | `xcho.space` | No |
 | `xcloud.zone` | No |
 | `xconomy.com` | Yes |
@@ -39899,8 +39914,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,830 |
-| Normal | 30,026 |
+| Cloudflare | 9,834 |
+| Normal | 30,037 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
