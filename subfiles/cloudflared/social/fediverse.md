@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,858 |
 | net | 3,063 |
 | org | 2,112 |
-| de | 2,001 |
+| de | 2,002 |
 
 
 - Mastodon, Pleroma, etc
@@ -18421,6 +18421,7 @@ Here's a list of public Fediverse services.
 | `kurume-nct.com` | No |
 | `kurup.org` | Yes |
 | `kurusukono.cc` | No |
+| `kurz-nach-spaet.de` | No |
 | `kurz.social` | No |
 | `kurzac.de` | No |
 | `kurzschluss.group` | No |
@@ -39931,7 +39932,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,840 |
-| Normal | 30,047 |
+| Normal | 30,048 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
