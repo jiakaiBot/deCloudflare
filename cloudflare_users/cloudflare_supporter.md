@@ -12104,6 +12104,7 @@ Do not create new issue or we will close it as duplicate.
 | [wylde_artemis_@twitter](https://twitter.com/wylde_artemis_/status/1602098467312205824) | advertise |
 | [wyliehorn@twitter](https://twitter.com/wyliehorn/status/1370118398114476032) | advertise |
 | [w_alhosni96@twitter](https://twitter.com/w_alhosni96/status/1601529197012586497) | advertise |
+| [w_alnoubani@twitter](https://twitter.com/w_alnoubani/status/1637871231054536723) | advertise |
 | [X2o07595000@twitter](https://twitter.com/X2o07595000/status/1392485807940784128) | advertise |
 | [X303_@twitter](https://twitter.com/X303_/status/1375370199767998468) | advertise |
 | [x66619164331@twitter](https://twitter.com/x66619164331/status/1386276834480992256) | advertise |
