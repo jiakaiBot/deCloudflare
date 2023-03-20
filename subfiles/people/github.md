@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Trouble verifying Let's Encrypt Long Chain?](https://github.com/faye/faye-websocket-ruby/issues/137)
+- [Bad gateway 502](https://github.com/lencx/ChatGPT/issues/673)
 - [SyntaxError: Unexpected token - when using docker and reverse proxy](https://github.com/titaniumnetwork-dev/Ultraviolet-App/issues/43)
 - [Flooded with 503 errors](https://github.com/jointakahe/takahe/issues/545)
 - [Images not loading after updating Mastodon to v4.1.1](https://github.com/mastodon/mastodon/issues/24177)
