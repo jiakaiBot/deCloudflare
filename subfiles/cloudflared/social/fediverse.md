@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,996 |
 | social | 3,858 |
 | net | 3,063 |
-| org | 2,111 |
+| org | 2,112 |
 | de | 2,001 |
 
 
@@ -16590,7 +16590,7 @@ Here's a list of public Fediverse services.
 | `jeremysarber.com` | Yes |
 | `jergefelt.se` | No |
 | `jeroened.be` | Yes |
-| `jeroenpraat.nl` | No |
+| `jeroenpraat.nl` | Yes |
 | `jeroensangers.com` | No |
 | `jeroenvd.nl` | Yes |
 | `jeronimo.dev.br` | Yes |
@@ -25706,6 +25706,7 @@ Here's a list of public Fediverse services.
 | `onion.ly` | No |
 | `onion.pet` | No |
 | `onion.social` | Yes |
+| `onionfarms.org` | No |
 | `onionstorm.net` | No |
 | `oniricorpe.eu` | No |
 | `oniros.eu` | No |
@@ -39923,7 +39924,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,837 |
+| Cloudflare | 9,838 |
 | Normal | 30,043 |
 
 
