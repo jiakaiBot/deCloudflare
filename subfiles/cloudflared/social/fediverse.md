@@ -11094,6 +11094,7 @@ Here's a list of public Fediverse services.
 | `fenix.cafe` | No |
 | `fenk.org` | No |
 | `fennec.online` | No |
+| `fennec.town` | No |
 | `fennet.rentals` | No |
 | `fentanyl.ltd` | No |
 | `fenwick.pizza` | Yes |
@@ -16888,7 +16889,7 @@ Here's a list of public Fediverse services.
 | `jorijn.com` | Yes |
 | `jorisgutjahr.eu` | No |
 | `jorropo.ovh` | No |
-| `jort.space` | Yes |
+| `jort.space` | No |
 | `jorts.horse` | No |
 | `jorts.life` | Yes |
 | `jorts.online` | Yes |
@@ -39921,8 +39922,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,838 |
-| Normal | 30,040 |
+| Cloudflare | 9,837 |
+| Normal | 30,042 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
