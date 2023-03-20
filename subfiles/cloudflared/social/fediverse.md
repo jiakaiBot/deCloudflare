@@ -36496,6 +36496,7 @@ Here's a list of public Fediverse services.
 | `ulf-kaempfer.de` | No |
 | `ulik.at` | No |
 | `ulisboa.pt` | No |
+| `ulithsys.moe` | No |
 | `ull.social` | No |
 | `ullihome.de` | No |
 | `ulman.social` | Yes |
@@ -39917,7 +39918,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,835 |
-| Normal | 30,038 |
+| Normal | 30,039 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
