@@ -9618,6 +9618,7 @@ Do not create new issue or we will close it as duplicate.
 | [SamadNftart@twitter](https://twitter.com/SamadNftart/status/1611922825832529920) | advertise |
 | [saman136611@twitter](https://twitter.com/saman136611/status/1577256038935695362) | advertise |
 | [Sambhra31401620@twitter](https://twitter.com/Sambhra31401620/status/1496921994725511199) | advertise |
+| [Sambob_OK@twitter](https://twitter.com/Sambob_OK/status/1637732961817690115) | advertise |
 | [SameerDangi9@twitter](https://twitter.com/SameerDangi9/status/1377450627631095808) | advertise |
 | [sameethossain02@twitter](https://twitter.com/sameethossain02/status/1540701673328463874) | advertise |
 | [SamerTallauze@twitter](https://twitter.com/SamerTallauze/status/1478361206280835081) | advertise |
