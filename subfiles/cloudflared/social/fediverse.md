@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,993 |
+| com | 5,994 |
 | social | 3,858 |
 | net | 3,063 |
 | org | 2,110 |
@@ -1162,6 +1162,7 @@ Here's a list of public Fediverse services.
 | `aigisdon.net` | No |
 | `aike.monster` | No |
 | `aikoumasanobu.com` | No |
+| `ains-no-misskey.com` | Yes |
 | `aioo.ooo` | No |
 | `aipi.social` | No |
 | `aiqwest.com` | No |
@@ -21389,6 +21390,7 @@ Here's a list of public Fediverse services.
 | `mattloomis.com` | No |
 | `matto.nl` | No |
 | `mattone.net` | No |
+| `mattpedals.bike` | No |
 | `mattrnet.org` | No |
 | `matts.network` | No |
 | `mattstenson.com` | Yes |
@@ -39914,8 +39916,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,834 |
-| Normal | 30,037 |
+| Cloudflare | 9,835 |
+| Normal | 30,038 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
