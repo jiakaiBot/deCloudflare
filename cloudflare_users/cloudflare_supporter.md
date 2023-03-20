@@ -2669,6 +2669,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dojnaz@twitter](https://twitter.com/Dojnaz/status/1431346378647773187) | advertise |
 | [dokali_skander@twitter](https://twitter.com/dokali_skander/status/1550205833904099329) | advertise |
 | [dokiestia_8824@twitter](https://twitter.com/dokiestia_8824/status/1579381040002785280) | advertise |
+| [dolarone@twitter](https://twitter.com/dolarone/status/1637604435525505024) | advertise |
 | [Dolfa19@twitter](https://twitter.com/Dolfa19/status/1490365663797522436) | advertise |
 | [Doli18316877@twitter](https://twitter.com/Doli18316877/status/1394684058098049024) | advertise |
 | [dominic37487702@twitter](https://twitter.com/dominic37487702/status/1479207257279660034) | advertise |
@@ -5499,8 +5500,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -12717,6 +12718,7 @@ Do not create new issue or we will close it as duplicate.
 | [_TheyLuvAng@twitter](https://twitter.com/_TheyLuvAng/status/1598188075209076736) | advertise |
 | [_UmmuUmairah_@twitter](https://twitter.com/_UmmuUmairah_/status/1394222981342060544) | advertise |
 | [_VPixx@twitter](https://twitter.com/_VPixx/status/1525433377301532672) | advertise |
+| [_warwombat_@twitter](https://twitter.com/_warwombat_/status/1637596031859953664) | advertise |
 | [_YoonminIsKii_@twitter](https://twitter.com/_YoonminIsKii_/status/1395181543241523205) | advertise |
 | [_zackwu@twitter](https://twitter.com/_zackwu/status/1459165605555179520) | advertise |
 | [__2x4@twitter](https://twitter.com/__2x4/status/1552234529355595778) | advertise |
