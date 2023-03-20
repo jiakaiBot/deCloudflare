@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 5,995 |
 | social | 3,858 |
 | net | 3,063 |
-| org | 2,110 |
+| org | 2,111 |
 | de | 2,001 |
 
 
@@ -11602,6 +11602,7 @@ Here's a list of public Fediverse services.
 | `forkd.net` | No |
 | `forked.io` | Yes |
 | `forkexec.net` | No |
+| `forklevelzero.org` | No |
 | `forklift-certified.fyi` | No |
 | `forlorn.computer` | No |
 | `formansbasement.club` | Yes |
@@ -35476,6 +35477,7 @@ Here's a list of public Fediverse services.
 | `toot.earth` | No |
 | `toot.exchange` | No |
 | `toot.fan` | No |
+| `toot.fish` | No |
 | `toot.foundation` | No |
 | `toot.futbol` | No |
 | `toot.garden` | Yes |
@@ -39919,7 +39921,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,835 |
-| Normal | 30,040 |
+| Normal | 30,042 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
