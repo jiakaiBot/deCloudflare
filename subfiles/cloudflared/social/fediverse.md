@@ -6351,6 +6351,7 @@ Here's a list of public Fediverse services.
 | `collado.eu` | Yes |
 | `collantes.social` | No |
 | `collapse.cat` | Yes |
+| `collapse.pub` | No |
 | `collapsitarian.io` | No |
 | `collar.place` | Yes |
 | `collate.social` | No |
@@ -39926,7 +39927,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,838 |
-| Normal | 30,044 |
+| Normal | 30,045 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
