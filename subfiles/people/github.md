@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [SyntaxError: Unexpected token - when using docker and reverse proxy](https://github.com/titaniumnetwork-dev/Ultraviolet-App/issues/43)
 - [Flooded with 503 errors](https://github.com/jointakahe/takahe/issues/545)
 - [Images not loading after updating Mastodon to v4.1.1](https://github.com/mastodon/mastodon/issues/24177)
 - [Cloudflare R2 append SignatureDoesNotMatch](https://github.com/apache/incubator-opendal/issues/1689)
