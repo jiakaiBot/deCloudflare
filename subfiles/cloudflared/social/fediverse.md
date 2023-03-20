@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,994 |
+| com | 5,995 |
 | social | 3,858 |
 | net | 3,063 |
 | org | 2,110 |
@@ -38717,6 +38717,7 @@ Here's a list of public Fediverse services.
 | `xabirequejo.eus` | No |
 | `xaetacore.net` | No |
 | `xajh.org` | Yes |
+| `xalapacode.com` | No |
 | `xaloc.space` | No |
 | `xalthe.com` | Yes |
 | `xaltsc.dev` | No |
@@ -39918,7 +39919,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,835 |
-| Normal | 30,039 |
+| Normal | 30,040 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
