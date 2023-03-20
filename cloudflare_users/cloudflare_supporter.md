@@ -6887,6 +6887,7 @@ Do not create new issue or we will close it as duplicate.
 | [MikasaMino@twitter](https://twitter.com/MikasaMino/status/1387209691172728832) | advertise |
 | [Mikeang15546407@twitter](https://twitter.com/Mikeang15546407/status/1391183859216158720) | advertise |
 | [mikeeowino@twitter](https://twitter.com/mikeeowino/status/1375217393354612745) | advertise |
+| [MikeJohnson9266@twitter](https://twitter.com/MikeJohnson9266/status/1637911772509216769) | advertise |
 | [mikelk808@twitter](https://twitter.com/mikelk808/status/1590207477895041024) | advertise |
 | [miketooyoung@twitter](https://twitter.com/miketooyoung/status/1477071358815178757) | advertise |
 | [MikeWooter@twitter](https://twitter.com/MikeWooter/status/1584693646560882689) | advertise |
@@ -11537,6 +11538,7 @@ Do not create new issue or we will close it as duplicate.
 | [UAungKoLinn3@twitter](https://twitter.com/UAungKoLinn3/status/1390641230938214403) | advertise |
 | [UAZY_mm@twitter](https://twitter.com/UAZY_mm/status/1377727680984969217) | advertise |
 | [uccops@twitter](https://twitter.com/uccops/status/1493791302600650755) | advertise |
+| [uchiha222456@twitter](https://twitter.com/uchiha222456/status/1637917195979358208) | advertise |
 | [UChitKaung2@twitter](https://twitter.com/UChitKaung2/status/1392627087849103360) | advertise |
 | [uCtMoi60822299@twitter](https://twitter.com/uCtMoi60822299/status/1388992504750501890) | advertise |
 | [Uday26880125@twitter](https://twitter.com/Uday26880125/status/1399934947331166213) | advertise |
