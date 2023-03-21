@@ -6591,6 +6591,7 @@ Here's a list of public Fediverse services.
 | `convoglio.social` | No |
 | `conwayfamily.org` | No |
 | `conxtor.com` | No |
+| `coo-ops.space` | No |
 | `coodes-island.com` | No |
 | `cooei.org` | No |
 | `coofdylabs.social` | Yes |
@@ -15295,6 +15296,7 @@ Here's a list of public Fediverse services.
 | `ibk-cloud.eu` | No |
 | `ibrokemy.computer` | No |
 | `ibukimei.dev` | Yes |
+| `ic.ci` | Yes |
 | `ical.ist` | Yes |
 | `ican.codes` | Yes |
 | `icante.ventures` | No |
@@ -20696,6 +20698,7 @@ Here's a list of public Fediverse services.
 | `martinm.de` | No |
 | `martinrue.com` | Yes |
 | `martinspielmann.de` | No |
+| `marty.tf` | Yes |
 | `martymcgui.re` | No |
 | `martyn.berlin` | No |
 | `martz.codes` | No |
@@ -39951,8 +39954,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,847 |
-| Normal | 30,061 |
+| Cloudflare | 9,849 |
+| Normal | 30,062 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
