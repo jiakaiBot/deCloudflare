@@ -4261,6 +4261,7 @@ Here's a list of public Fediverse services.
 | `boitam.eu` | No |
 | `bokeh.social` | No |
 | `bokgruven.no` | No |
+| `boks.moe` | No |
 | `boku.net` | No |
 | `bokuha.ninja` | Yes |
 | `bol.social` | No |
@@ -39932,7 +39933,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,840 |
-| Normal | 30,048 |
+| Normal | 30,049 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
