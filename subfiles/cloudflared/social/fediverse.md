@@ -6049,6 +6049,7 @@ Here's a list of public Fediverse services.
 | `clickomania.ch` | No |
 | `cliff.social` | Yes |
 | `cliffmccarthy.net` | No |
+| `climate.dance` | No |
 | `climatejustice.events` | No |
 | `climatejustice.global` | No |
 | `climatejustice.photos` | No |
@@ -39959,7 +39960,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,851 |
-| Normal | 30,064 |
+| Normal | 30,065 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
