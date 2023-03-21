@@ -2854,6 +2854,7 @@ Here's a list of public Fediverse services.
 | `ayaka.social` | Yes |
 | `ayano.jp` | No |
 | `ayatovr.com` | No |
+| `ayatovr.dev` | No |
 | `ayco.io` | No |
 | `ayden.life` | Yes |
 | `aylett.co.uk` | Yes |
@@ -11376,6 +11377,7 @@ Here's a list of public Fediverse services.
 | `flashist.art` | No |
 | `flashtrafficlabs.com` | Yes |
 | `flastodon.social` | No |
+| `flat.place` | Yes |
 | `flatearth.group` | No |
 | `flatland.town` | No |
 | `flatlander.social` | No |
@@ -11464,6 +11466,7 @@ Here's a list of public Fediverse services.
 | `flowercast.me` | No |
 | `flowerpot.fyi` | No |
 | `flowersound.social` | No |
+| `flowertea.uk` | Yes |
 | `flowinho.com` | Yes |
 | `flowinho.de` | No |
 | `flowlab5.social` | No |
@@ -23661,6 +23664,7 @@ Here's a list of public Fediverse services.
 | `mzumquadrat.de` | No |
 | `n-cloud.ro` | No |
 | `n-i.pw` | No |
+| `n-kaiwai.work` | No |
 | `n-kru.se` | No |
 | `n-odes.social` | No |
 | `n-s.tokyo` | Yes |
@@ -29686,6 +29690,7 @@ Here's a list of public Fediverse services.
 | `roanapur.de` | No |
 | `roaries.social` | Yes |
 | `roarke.industries` | No |
+| `roastinghouse.co.uk` | No |
 | `rob-earth.com` | No |
 | `rob.in.net` | No |
 | `rob365.online` | Yes |
@@ -39943,8 +39948,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,842 |
-| Normal | 30,058 |
+| Cloudflare | 9,844 |
+| Normal | 30,061 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
