@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,000 |
-| social | 3,860 |
+| com | 6,002 |
+| social | 3,862 |
 | net | 3,066 |
 | org | 2,113 |
-| de | 2,005 |
+| de | 2,006 |
 
 
 - Mastodon, Pleroma, etc
@@ -833,6 +833,7 @@ Here's a list of public Fediverse services.
 | `acceleratenetworks.com` | No |
 | `access.ly` | No |
 | `accessibility.social` | No |
+| `accessnow.social` | Yes |
 | `accidental.yoga` | No |
 | `accioly.dev` | Yes |
 | `acclaro.digital` | Yes |
@@ -1439,6 +1440,7 @@ Here's a list of public Fediverse services.
 | `alleysmith.family` | No |
 | `allforall.network` | No |
 | `allgamers.net` | Yes |
+| `allgamerstalk.com` | Yes |
 | `allgays.xyz` | No |
 | `allison.social` | No |
 | `allistodon.xyz` | No |
@@ -11581,6 +11583,7 @@ Here's a list of public Fediverse services.
 | `foofus.com` | No |
 | `foojay.social` | No |
 | `foolbazar.eu` | No |
+| `foolish.computer` | No |
 | `foot.ee` | Yes |
 | `footballwelove.com` | No |
 | `footbrid.ge` | No |
@@ -16282,6 +16285,7 @@ Here's a list of public Fediverse services.
 | `jackal.chat` | Yes |
 | `jackbenson.xyz` | Yes |
 | `jackbot.fr` | No |
+| `jackdaddy.blog` | No |
 | `jackdaw.today` | No |
 | `jackelope.gay` | Yes |
 | `jackf.red` | No |
@@ -25851,6 +25855,7 @@ Here's a list of public Fediverse services.
 | `opencoaster.net` | No |
 | `opencocon.org` | No |
 | `opencollective.com` | Yes |
+| `opend3.de` | No |
 | `opendan.net` | No |
 | `opendatahacklab.org` | No |
 | `opendesktop.org` | No |
@@ -28531,6 +28536,7 @@ Here's a list of public Fediverse services.
 | `queernerds.social` | No |
 | `queerscience.net` | No |
 | `queersin.space` | No |
+| `queerspirituality.social` | No |
 | `queertube.org` | No |
 | `queerwoodworker.com` | No |
 | `quellet.blue` | No |
@@ -29972,6 +29978,7 @@ Here's a list of public Fediverse services.
 | `rpverse.club` | No |
 | `rpvortex.online` | No |
 | `rpz.su` | No |
+| `rrgeorge.live` | No |
 | `rrrrrichard.social` | Yes |
 | `rs-einrich.de` | No |
 | `rs64.net` | Yes |
@@ -37481,6 +37488,7 @@ Here's a list of public Fediverse services.
 | `voiceofcomputer.xyz` | Yes |
 | `voiceover.actor` | No |
 | `voiceover.bar` | No |
+| `voicesintheshade.com` | No |
 | `void-icons.de` | No |
 | `void-space.space` | No |
 | `void.ac` | Yes |
@@ -39962,8 +39970,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,853 |
-| Normal | 30,066 |
+| Cloudflare | 9,855 |
+| Normal | 30,072 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
