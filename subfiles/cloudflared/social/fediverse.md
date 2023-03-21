@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 5,999 |
+| com | 6,000 |
 | social | 3,860 |
-| net | 3,065 |
+| net | 3,066 |
 | org | 2,113 |
 | de | 2,005 |
 
@@ -18027,6 +18027,7 @@ Here's a list of public Fediverse services.
 | `knoxodon.com` | No |
 | `knoyism.net` | No |
 | `knsc.net` | No |
+| `knse.net` | No |
 | `knthost.com` | No |
 | `kntnr.wtf` | Yes |
 | `knubbel.me` | No |
@@ -32049,6 +32050,7 @@ Here's a list of public Fediverse services.
 | `smuglo.li` | Yes |
 | `smurpspaek.de` | No |
 | `smusi.ch` | No |
+| `smutgusher.com` | Yes |
 | `smutlandia.com` | No |
 | `smux.be` | No |
 | `smwa.me` | No |
@@ -32817,6 +32819,7 @@ Here's a list of public Fediverse services.
 | `srijan.dev` | Yes |
 | `srijn.net` | Yes |
 | `srikanthperinkulam.com` | Yes |
+| `srilankans.online` | No |
 | `srkn.org` | Yes |
 | `srks.social` | No |
 | `srp.life` | Yes |
@@ -39955,8 +39958,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,850 |
-| Normal | 30,062 |
+| Cloudflare | 9,851 |
+| Normal | 30,064 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
