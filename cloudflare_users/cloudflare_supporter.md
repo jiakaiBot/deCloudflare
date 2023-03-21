@@ -9519,6 +9519,7 @@ Do not create new issue or we will close it as duplicate.
 | [saani65346280@twitter](https://twitter.com/saani65346280/status/1392146734336274433) | advertise |
 | [saasglobal@twitter](https://twitter.com/saasglobal/status/1509912884091908096) | advertise |
 | [saashup@twitter](https://twitter.com/saashup/status/1495887293600649216) | advertise |
+| [Saavycld@twitter](https://twitter.com/Saavycld/status/1638271476687163397) | advertise |
 | [sabasaboo3357@twitter](https://twitter.com/sabasaboo3357/status/1601328812570001408) | advertise |
 | [sabboy99@twitter](https://twitter.com/sabboy99/status/1384536063406796800) | advertise |
 | [SachdevPawar5@twitter](https://twitter.com/SachdevPawar5/status/1401485466873090048) | advertise |
