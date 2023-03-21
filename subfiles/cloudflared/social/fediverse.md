@@ -14618,6 +14618,7 @@ Here's a list of public Fediverse services.
 | `hips.social` | Yes |
 | `hipster.social` | No |
 | `hirad.it` | No |
+| `hirasakain.ninja` | Yes |
 | `hiromi-mi.jp` | Yes |
 | `hiroshimastdn.club` | No |
 | `hiroshimastodon.red` | No |
@@ -30610,7 +30611,7 @@ Here's a list of public Fediverse services.
 | `scambi.org` | Yes |
 | `scambier.xyz` | No |
 | `scamdemic.life` | No |
-| `scamdemic.party` | No |
+| `scamdemic.party` | Yes |
 | `scammed.me` | Yes |
 | `scammerrevolts.com` | Yes |
 | `scanline.dev` | No |
@@ -34842,7 +34843,7 @@ Here's a list of public Fediverse services.
 | `therealblue.de` | No |
 | `therealium.xyz` | No |
 | `theredbees.be` | Yes |
-| `theredcaps.net` | No |
+| `theredcaps.net` | Yes |
 | `thereeferal.com` | No |
 | `theres.life` | No |
 | `theresa.network` | Yes |
@@ -39948,8 +39949,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,844 |
-| Normal | 30,061 |
+| Cloudflare | 9,847 |
+| Normal | 30,059 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
