@@ -1429,6 +1429,7 @@ avito.avito.sber.avito.avito.sberbank.covid19.oxygensystem.info
 avito.avito.www.sber.covid19.oxygensystem.info
 avito.sber.avito.sber.blablacar.git.covid19.ooo-medexpress.ru
 avito.sber.avito.sberbank.a.avito.www.covid19.omveterinary.com
+avito.sber.sber.sberbank.avito.www.covid19.oakhillsales.com
 aviva.orchestrasystem.com
 beforeupdate.ormskirkskipsltd.co.uk
 best.oxahost-support.tn
@@ -1436,6 +1437,7 @@ bisfass.objectway.it
 blog.ogl.at
 bo.updatefullpage.review.acdc.odiwi.fr
 bodynov.rdv-04.ovea.com
+booking.okeadmin.com
 bookings.omdwasterecycling.ie
 bundle-lbe-mpls-onlyoffice-20221119-01-ssl.on-web.fr
 bv.d2.orangehive.de
@@ -1455,6 +1457,7 @@ cpcalendars.cherypretoria-demo.oraclegroup.co.za
 cpcalendars.omnitron.com.hk
 cpcontacts.olympicgutter.com
 cpcontacts.omnitron.com.hk
+cpi-mercury-aws-camel.it-acfun002.internal.cfapps.eu12.hana.ondemand.com
 cpmnx-ir1.onbmc.com
 credit.onlinedigitalprojects.com
 cron.omni.us
@@ -1486,6 +1489,7 @@ features.opera-api2.com
 fincloud.ike.hec.ondemand.com
 fiorip.eee.hec.ondemand.com
 flex-static.online-banking-services.com
+flex-uat-static.online-banking-services.com
 fpi.omnichannelengagementhub.com
 fps.oepay.octopus-cards.com
 fr.oreedargent.com
@@ -1500,6 +1504,7 @@ green-stone.online-it-support.dk
 greenfielddirttrack.osam-dev.co.uk
 gtm-wmartins.onesourcelogin.com
 gtmqa-borgwarner.onesourcelogin.com
+gw.ozeye.net
 healthchecks.eu-paris-1.oraclecloud.com
 helpdesk.obvs.solutions
 helpdesk.ologie.com
@@ -1568,6 +1573,7 @@ objectstorage.eu-milan-1.oraclecloud.com
 objectstorage.uk-london-1.oraclecloud.com
 objectstorage.us-chicago-1.oraclecloud.com
 objectstorage.us-sanjose-1.oraclecloud.com
+obnova.ba
 obrtgibanica.hr
 obsplumbing.co.uk
 oc-cesson-volley.com
@@ -1580,6 +1586,7 @@ ocmoney.club
 ocp.ocuco.com
 octopus.energy
 ocupationaloutlook.com
+odakinceyapi.com
 odg.mi.it
 odontoconnection.com.br
 odorremovalandmore.com
@@ -1595,6 +1602,7 @@ ofertandodesconto.com
 offescalator.com
 offical-conta-simples.ml
 office-online.cf
+office365atwork.com
 officeconta.ro
 officelab.pro
 offitrad.ch
@@ -1615,6 +1623,7 @@ oic-ccs-shared-ax6cus1bjr3u-ia.integration.ocp.oraclecloud.com
 oicinnovationinstance2-id09o3eaz21u-zr.integration.ocp.oraclecloud.com
 oidom.site
 oikofuge.com
+oil-change.info
 oisn6s.com
 ojaspost.in
 ojestrandgc.se
@@ -1626,6 +1635,7 @@ okta-cdn-1.com
 oktaavia.fi
 oktaf.coffee
 oktagon.my.id
+oktal-pharma.hu
 oktarekanandainstrument.co.id
 oktatozone.hu
 oktavus.rs
@@ -1661,6 +1671,7 @@ onderstroom.red
 one-place-studies.org
 one4services.com
 onebridgeconsultinggroup.com
+onedrive-jswd.de
 oneexpo.ro
 onemissionbay.com
 onepatient.wiki
@@ -1714,6 +1725,7 @@ oportunloanspro.com
 oposicionesestado.com
 opremidom.si
 opticksstatic.com
+optigoapps.com
 optikids.ec
 optimafisc.ch
 optimium-group.com
@@ -1735,6 +1747,7 @@ oreliahasorchestra.com
 orenshalomlp.co.il
 orethaseniorconcierge.com
 organicplantbasedexpo.dk
+orgonebay.com
 orianna.shop
 orient1.de
 oriental.com.uy
@@ -1756,16 +1769,21 @@ osintme.com
 oslotelescopic.com
 osn-delivery.ro
 osr4rights.org
+oss.link
 osterfeldagency.com
 otcnow.com
+oticaindaiaguaianases.com.br
 otletlada.hu
 otopeni-rent-a-car.ro
+otorati.net
 otos.oto-login.com
 ottfinearts.nl
+otticoroggero.com
 ottosgaragedoors.com.au
 otzovik.com
 oubliette.nu
 ourclassified.net
+ourforestwedding.com
 ouroborosbrowsing.com
 ourologia.eu
 ourplacekitchenandbarpeabody.com
@@ -1794,6 +1812,7 @@ oxibanco.com
 oyamaasahi.jp
 oysterfest.ca
 ozelbazar.com
+ozelyeninesilanaokulu.com
 ozfreight.vn
 ozkayyapi.com
 p1497174c2prd-store.occa.ocs.oraclecloud.com
@@ -1801,6 +1820,7 @@ p16198292c1prd-store.occa.us-phoenix-1.ocs.oraclecloud.com
 paid.outbrain.com
 passport-api.open-exchange.net
 pay.odero.ro
+payment.oriental-dm.com
 pixel-us.onaudience.com
 poc2.osnow.de
 pocus.it-cpi003-rt.cfapps.us10.hana.ondemand.com
@@ -1837,6 +1857,7 @@ scpi-api-prd.prod.apimanagement.eu20.hana.ondemand.com
 secure.adviser.qa.oldmutual.co.za
 securitychecks.outlookdev.co.uk
 selfkyc-g5gw-oci-prod.orange.ci
+service.oneaccount.com
 servicebus-t.overijssel.nl
 servicedesk.oneteam.info
 sessionscloud2.opticvideo.com
@@ -1891,6 +1912,7 @@ wigg-dr-rpasee-wts.oracleindustry.com
 wmail.openquest.com.pt
 wscoll.organismocf.it
 www.accounts.ordalli.com
+www.acg-survey.outlookcms.co.uk
 www.actualizar.arsbancocentral.opensoftdo.com
 www.advscustodio.com.br.oseudelivery.app.br
 www.amazonia.tn.oxahost-support.tn
@@ -1983,7 +2005,9 @@ www.ojrq.net
 www.okanyapi.org
 www.okayama-baptist.jp
 www.oki.com
+www.okiuna.com
 www.oktagonagency.com
+www.oktal-pharma.hu
 www.oktarekanandainstrument.co.id
 www.oktatozone.hu
 www.oktavina.my.id
@@ -1998,6 +2022,7 @@ www.oleconsignado.com.br
 www.olharesdomediterraneo.org
 www.olitskifoundation.org
 www.oliver-stuber.com
+www.oliveriefuneralhome.com
 www.oliversearle.com
 www.oliviafeardesign.com
 www.oliviergueant.com
@@ -2046,6 +2071,7 @@ www.onsiteag-services.com
 www.onstageacademy.com
 www.onsyapi.com
 www.ontariotown.org
+www.onthespectrum.tv
 www.onukyapi.com
 www.onurelyapi.com
 www.onurhirdavatyapi.com
@@ -2064,6 +2090,7 @@ www.opieconsultinggroup.com
 www.opremidom.si
 www.optavia.com
 www.opticalbythebay.com
+www.opticalm.ca
 www.optimamarketinggroup.com
 www.optionsassurance.ca
 www.optionsassurances.ca
@@ -2102,6 +2129,7 @@ www.otadtv.com
 www.oteuamigo.pt
 www.otmliteracy.com
 www.otokkaakatemia.fi
+www.otticoroggero.com
 www.ouacademy.co
 www.oulunsisailmapuhdistus.oulunlaitepalvelu.fi
 www.oumarooi.com
@@ -2148,6 +2176,7 @@ www.passwordden.ourcause.net
 www.payment.oteneriferent.com
 www.pmuser-sovaacademy.in.okkg24.com
 www.reddit.onstream4k.com
+www.saf9a.oxahost-support.tn
 www.shopify.oakhillsales.com
 www.shoponline.offersdeliver.com
 www.staging.balayogini.onbooking.ca
@@ -2166,8 +2195,10 @@ www.top10microsoftgames.onesoavest.com
 www.wagen.com.vn.okmoney.com.vn
 www.wallet.origokey.com
 www.whatsapp.orlant.sg
+www.yourownhappiness.offersdeliver.com
 www.zakelijk.organiseersupport.nl
 y1111-iflmap.hcisbp.eu1.hana.ondemand.com
+yourownhappiness.offersdeliver.com
 0-mofstructure-active-okta-network-zh-scoinbaseeurope.server.uat.ownid.com
 8a138rds.orarijabar.or.id
 account.orqoo.co.uk
