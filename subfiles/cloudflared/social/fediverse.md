@@ -5923,6 +5923,7 @@ Here's a list of public Fediverse services.
 | `cinematheque.tube` | No |
 | `cinnamond.social` | No |
 | `cintaprogramming.com` | Yes |
+| `cinvestav.mx` | No |
 | `cipay.ca` | No |
 | `cipherbliss.com` | No |
 | `cipherdogs.net` | No |
@@ -22553,6 +22554,7 @@ Here's a list of public Fediverse services.
 | `mnlpn.xyz` | No |
 | `mnml.news` | No |
 | `mnordhaus.de` | No |
+| `mnt.blue` | No |
 | `mnte.ro` | No |
 | `mnwsngk.info` | No |
 | `mo-na.space` | No |
@@ -26290,7 +26292,7 @@ Here's a list of public Fediverse services.
 | `owo.ar` | Yes |
 | `owo.cafe` | No |
 | `owo.ceo` | Yes |
-| `owo.ee` | No |
+| `owo.ee` | Yes |
 | `owo.monster` | No |
 | `owo.sg` | Yes |
 | `owo.town` | No |
@@ -39933,6 +39935,7 @@ Here's a list of public Fediverse services.
 | `zx81.social` | No |
 | `zxcvnm.com` | Yes |
 | `zxq.co` | Yes |
+| `zy.gy` | Yes |
 | `zy.lc` | No |
 | `zyl.se` | Yes |
 | `zylstra.org` | No |
@@ -39959,8 +39962,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,851 |
-| Normal | 30,065 |
+| Cloudflare | 9,853 |
+| Normal | 30,066 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
