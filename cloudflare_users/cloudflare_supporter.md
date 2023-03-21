@@ -3041,6 +3041,7 @@ Do not create new issue or we will close it as duplicate.
 | [Erics87402408@twitter](https://twitter.com/Erics87402408/status/1537793280657989633) | advertise |
 | [EricWarnasch2@twitter](https://twitter.com/EricWarnasch2/status/1501394632424534018) | advertise |
 | [erigomwsn@twitter](https://twitter.com/erigomwsn/status/1393026360788938752) | advertise |
+| [erion_hashani@twitter](https://twitter.com/erion_hashani/status/1638076641485156354) | advertise |
 | [ermpy@twitter](https://twitter.com/ermpy/status/1613712080380776448) | advertise |
 | [ernielehman@twitter](https://twitter.com/ernielehman/status/1382762709394071555) | advertise |
 | [erpsoftwarebd@twitter](https://twitter.com/erpsoftwarebd/status/1464521477504466946) | advertise |
@@ -5508,8 +5509,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5571,6 +5572,7 @@ Do not create new issue or we will close it as duplicate.
 | [KoAung78616944@twitter](https://twitter.com/KoAung78616944/status/1389536325884432385) | advertise |
 | [KoAungKo10@twitter](https://twitter.com/KoAungKo10/status/1392390778966528003) | advertise |
 | [KoAyeChan15@twitter](https://twitter.com/KoAyeChan15/status/1390825323931979776) | advertise |
+| [kobako0O@twitter](https://twitter.com/kobako0O/status/1638045165221998593) | advertise |
 | [KoBaNyarr@twitter](https://twitter.com/KoBaNyarr/status/1394662319687405574) | advertise |
 | [kobbibop@twitter](https://twitter.com/kobbibop/status/1616417235811332098) | advertise |
 | [KoBhone10139223@twitter](https://twitter.com/KoBhone10139223/status/1390191201886691332) | advertise |
@@ -11305,6 +11307,7 @@ Do not create new issue or we will close it as duplicate.
 | [Triu48585495@twitter](https://twitter.com/Triu48585495/status/1397062708571242496) | advertise |
 | [TrkanLukas@twitter](https://twitter.com/TrkanLukas/status/1383167217907478531) | advertise |
 | [Trn10391150Minh@twitter](https://twitter.com/Trn10391150Minh/status/1580722871990878208) | advertise |
+| [TrN94641167@twitter](https://twitter.com/TrN94641167/status/1638074640982740992) | advertise |
 | [TrncMin97936215@twitter](https://twitter.com/TrncMin97936215/status/1519458517748359168) | advertise |
 | [trndtrader@twitter](https://twitter.com/trndtrader/status/1499022857929637890) | advertise |
 | [Trng994@twitter](https://twitter.com/Trng994/status/1494841748698599425) | advertise |
@@ -12646,6 +12649,7 @@ Do not create new issue or we will close it as duplicate.
 | [Zo57288541@twitter](https://twitter.com/Zo57288541/status/1505754258993709056) | advertise |
 | [ZoanZonoa@twitter](https://twitter.com/ZoanZonoa/status/1376874020277133313) | advertise |
 | [ZoeLogkop@twitter](https://twitter.com/ZoeLogkop/status/1538942210388811776) | advertise |
+| [zohrebayat@twitter](https://twitter.com/zohrebayat/status/1638028465440997376) | advertise |
 | [zoktog@twitter](https://twitter.com/zoktog/status/1501935529188753411) | advertise |
 | [ZomorodiEbi@twitter](https://twitter.com/ZomorodiEbi/status/1585597008437739520) | advertise |
 | [zonezone81@twitter](https://twitter.com/zonezone81/status/1389274249722925058) | advertise |
