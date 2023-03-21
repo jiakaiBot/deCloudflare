@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,002 |
-| social | 3,862 |
+| social | 3,863 |
 | net | 3,066 |
 | org | 2,113 |
-| de | 2,006 |
+| de | 2,008 |
 
 
 - Mastodon, Pleroma, etc
@@ -13564,6 +13564,7 @@ Here's a list of public Fediverse services.
 | `greys.place` | No |
 | `greyserv.net` | No |
 | `greyt.co.za` | Yes |
+| `greywolf.social` | No |
 | `grezl.eu` | No |
 | `grh.am` | Yes |
 | `grib.co` | Yes |
@@ -14162,6 +14163,7 @@ Here's a list of public Fediverse services.
 | `haun.jp` | Yes |
 | `haunted.computer` | No |
 | `hausi.social` | No |
+| `haussleiter.de` | No |
 | `havas.jp` | No |
 | `havebroken.it` | Yes |
 | `haveibeenpwned.com` | Yes |
@@ -21920,6 +21922,7 @@ Here's a list of public Fediverse services.
 | `metatwit.social` | No |
 | `metaversetrillionaires.club` | Yes |
 | `metaversum.wtf` | No |
+| `metaways.de` | No |
 | `metawurst.space` | No |
 | `metaxx.dev` | No |
 | `metaxx.social` | No |
@@ -33013,6 +33016,7 @@ Here's a list of public Fediverse services.
 | `stefanbohacek.social` | No |
 | `stefaniehippert.de` | No |
 | `stefankoopmanschap.nl` | Yes |
+| `stefano-probst.dev` | Yes |
 | `stefanomarinelli.it` | No |
 | `stefanovski.io` | Yes |
 | `stefanpfeiffer.blog` | Yes |
@@ -39970,8 +39974,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,855 |
-| Normal | 30,072 |
+| Cloudflare | 9,856 |
+| Normal | 30,075 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
