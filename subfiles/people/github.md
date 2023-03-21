@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failed to get parsed page](https://github.com/SocksPls/hltv-api/issues/40)
 - [Trouble verifying Let's Encrypt Long Chain?](https://github.com/faye/faye-websocket-ruby/issues/137)
 - [Bad gateway 502](https://github.com/lencx/ChatGPT/issues/673)
 - [SyntaxError: Unexpected token - when using docker and reverse proxy](https://github.com/titaniumnetwork-dev/Ultraviolet-App/issues/43)
