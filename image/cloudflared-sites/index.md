@@ -11,5 +11,8 @@
 | ![](perplexity.ai.jpg) | ![](jsperf.com.jpg) | ![](axo2moon.com.jpg) | ![](coinbase.com.jpg) |
 | ![](danlew.net.jpg) | ![](hostinger.com.jpg) | ![](givesendgo.com.jpg) | ![](insureon.com.jpg) |
 | ![](wexphotovideo.com.jpg) | ![](pizza.de.jpg) | ![](flighttrader24.com.jpg) | ![](bitwarden.com.jpg) |
-| ![](api.opensea.io.jpg) | ![](spoutible.com.jpg) | - | - |
+| ![](api.opensea.io.jpg) | ![](spoutible.com.jpg) | ![](scotrail.co.uk.jpg) | ![](spigotmc.org.jpg) |
+| ![](buffer.com.jpg) | ![](bupa.co.uk.jpg) | ![](cloudflare.com.jpg) | ![](discord.com.jpg) |
+| ![](elementor.com.jpg) | ![](flyr.com.jpg) | ![](gamestop.com.jpg) | ![](gitlab.com.jpg) |
+| ![](openstack.org.jpg) | ![](picsum.photos.jpg) | ![](ppy.sh.jpg) | - |
 
