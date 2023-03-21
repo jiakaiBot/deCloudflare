@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,999 |
-| social | 3,858 |
+| social | 3,859 |
 | net | 3,065 |
-| org | 2,112 |
+| org | 2,113 |
 | de | 2,005 |
 
 
@@ -33352,6 +33352,7 @@ Here's a list of public Fediverse services.
 | `subquestspod.com` | No |
 | `subsonicsoftware.com` | No |
 | `subspace.link` | No |
+| `subspace.social` | No |
 | `subspacelink.com` | Yes |
 | `substitoot.it` | No |
 | `subtleaf.social` | Yes |
@@ -34121,6 +34122,7 @@ Here's a list of public Fediverse services.
 | `tcsh.online` | No |
 | `tcsmp.dev` | No |
 | `tcu-mstdn.tk` | No |
+| `tcweb.org` | No |
 | `tda.zone` | No |
 | `tdd.social` | No |
 | `tds.xyz` | No |
@@ -39950,7 +39952,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,847 |
-| Normal | 30,059 |
+| Normal | 30,061 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
