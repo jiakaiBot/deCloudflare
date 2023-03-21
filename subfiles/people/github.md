@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CORS issue with on demand download urls](https://github.com/AzuraCast/AzuraCast/issues/6164)
 - [Failed to get parsed page](https://github.com/SocksPls/hltv-api/issues/40)
 - [Trouble verifying Let's Encrypt Long Chain?](https://github.com/faye/faye-websocket-ruby/issues/137)
 - [Bad gateway 502](https://github.com/lencx/ChatGPT/issues/673)
