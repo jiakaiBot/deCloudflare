@@ -6,5 +6,5 @@
 
 | &#128444; | &#128444; | &#128444; | &#128444; |
 | --- | --- | --- | --- |
-| ![](cloudflared-chat.openai.com.jpg) | ![](cloudflared-chat.openai.com-2.jpg) | ![](cloudflared-biorxiv.org.jpg) | ![](cloudflared-haveibeenpwned.com.jpg) |
-| ![](cloudflared-offerup.com.jpg) | ![](cloudflared-firebase.com.jpg) | - | - |
+| ![](chat.openai.com.jpg) | ![](chat.openai.com-2.jpg) | ![](biorxiv.org.jpg) | ![](haveibeenpwned.com.jpg) |
+| ![](offerup.com.jpg) | ![](firebase.com.jpg) | ![](sgpgrid.com.jpg) | - |
