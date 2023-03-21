@@ -6,5 +6,10 @@
 
 | &#128444; | &#128444; | &#128444; | &#128444; |
 | --- | --- | --- | --- |
-| ![](chat.openai.com.jpg) | ![](chat.openai.com-2.jpg) | ![](biorxiv.org.jpg) | ![](haveibeenpwned.com.jpg) |
-| ![](offerup.com.jpg) | ![](firebase.com.jpg) | ![](sgpgrid.com.jpg) | - |
+| ![](openai.com.jpg) | ![](coolermaster.com.jpg) | ![](biorxiv.org.jpg) | ![](haveibeenpwned.com.jpg) |
+| ![](offerup.com.jpg) | ![](firebase.com.jpg) | ![](sgpgrid.com.jpg) | ![](islandcrisis.net.jpg) |
+| ![](perplexity.ai.jpg) | ![](jsperf.com.jpg) | ![](axo2moon.com.jpg) | ![](coinbase.com.jpg) |
+| ![](danlew.net.jpg) | ![](hostinger.com.jpg) | ![](givesendgo.com.jpg) | ![](insureon.com.jpg) |
+| ![](wexphotovideo.com.jpg) | ![](pizza.de.jpg) | ![](flighttrader24.com.jpg) | ![](bitwarden.com.jpg) |
+| ![](api.opensea.io.jpg) | ![](spoutible.com.jpg) | - | - |
+
