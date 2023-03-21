@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 5,999 |
-| social | 3,859 |
+| social | 3,860 |
 | net | 3,065 |
 | org | 2,113 |
 | de | 2,005 |
@@ -20543,6 +20543,7 @@ Here's a list of public Fediverse services.
 | `manifesteden.com` | No |
 | `manimani.cc` | No |
 | `manitoba.one` | No |
+| `manitu.social` | No |
 | `manj.io` | Yes |
 | `manji.dev` | Yes |
 | `manley.org` | No |
@@ -24383,7 +24384,7 @@ Here's a list of public Fediverse services.
 | `nextgamers.eu` | No |
 | `nextinnonprofits.com` | Yes |
 | `nextme.tk` | No |
-| `nextpayge.social` | No |
+| `nextpayge.social` | Yes |
 | `nextstepventures.org` | No |
 | `nexum.hu` | No |
 | `nexus8.cf` | No |
@@ -39954,7 +39955,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,849 |
+| Cloudflare | 9,850 |
 | Normal | 30,062 |
 
 
