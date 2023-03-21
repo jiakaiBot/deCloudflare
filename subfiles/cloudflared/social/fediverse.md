@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 5,999 |
 | social | 3,858 |
-| net | 3,063 |
+| net | 3,065 |
 | org | 2,112 |
-| de | 2,002 |
+| de | 2,005 |
 
 
 - Mastodon, Pleroma, etc
@@ -1770,6 +1770,7 @@ Here's a list of public Fediverse services.
 | `andreubotella.com` | Yes |
 | `andrevillien.fr` | No |
 | `andrew.xyz` | No |
+| `andrewappleton.net` | No |
 | `andrewbaker.uk` | Yes |
 | `andrewbarnes.design` | No |
 | `andrewburgessphd.com` | No |
@@ -2209,7 +2210,7 @@ Here's a list of public Fediverse services.
 | `arezzo.one` | No |
 | `arf.social` | No |
 | `arg.vc` | No |
-| `argb.in` | No |
+| `argb.in` | Yes |
 | `argentodon.com` | No |
 | `argentum.social` | No |
 | `argentwolf.org` | No |
@@ -3526,6 +3527,7 @@ Here's a list of public Fediverse services.
 | `berkeleynoise.com` | No |
 | `berlin.blue` | No |
 | `berlin.social` | No |
+| `berliner-verkehr.de` | No |
 | `bermuda-delta.com` | No |
 | `bern.social` | No |
 | `bernard.host` | No |
@@ -6891,7 +6893,7 @@ Here's a list of public Fediverse services.
 | `crisisproof.it` | No |
 | `crispo.cf` | No |
 | `crispsandwi.ch` | Yes |
-| `crisq.cf` | No |
+| `crisq.cf` | Yes |
 | `crisritma.com` | No |
 | `crissdepauvre.com` | No |
 | `crissdepauvre.shop` | No |
@@ -7548,6 +7550,7 @@ Here's a list of public Fediverse services.
 | `danieldk.eu` | No |
 | `danielehniss.de` | No |
 | `danielgil.page` | No |
+| `danieljwilson.me` | No |
 | `daniellemarco.nl` | No |
 | `danielmaxson.com` | No |
 | `danielmoch.com` | No |
@@ -10505,6 +10508,7 @@ Here's a list of public Fediverse services.
 | `f2a.io` | No |
 | `f40c40.com` | No |
 | `f4255529.fun` | Yes |
+| `f4clo.fr` | No |
 | `f4grx.net` | No |
 | `f4n.de` | No |
 | `f5.si` | No |
@@ -10559,6 +10563,7 @@ Here's a list of public Fediverse services.
 | `faf.social` | Yes |
 | `faf.watch` | Yes |
 | `fag.lol` | Yes |
+| `fahrenheit.net.pl` | No |
 | `fahrin.me` | No |
 | `fai.st` | No |
 | `fai.su` | No |
@@ -12503,6 +12508,7 @@ Here's a list of public Fediverse services.
 | `gamesatwork.biz` | No |
 | `gamespirit.eu` | No |
 | `gamestop.store` | No |
+| `gameswithcode.net` | No |
 | `gametec-live.com` | Yes |
 | `gamethattune.club` | No |
 | `gamethattune.com` | No |
@@ -18171,6 +18177,7 @@ Here's a list of public Fediverse services.
 | `korako.me` | Yes |
 | `koray.al` | Yes |
 | `korber.fr` | No |
+| `korbip.de` | No |
 | `koreadon.com` | No |
 | `koreus.com` | No |
 | `koreus.social` | No |
@@ -19938,6 +19945,7 @@ Here's a list of public Fediverse services.
 | `ltu.social` | No |
 | `lty.name` | Yes |
 | `lu-rp.net` | Yes |
+| `lu.is` | No |
 | `lu.net.eu.org` | No |
 | `lua-mu.org` | No |
 | `luap42.de` | Yes |
@@ -24428,6 +24436,7 @@ Here's a list of public Fediverse services.
 | `nicholson.is` | No |
 | `nicholson.social` | Yes |
 | `nickbell.uk` | Yes |
+| `nickbohle.de` | No |
 | `nickcharlton.net` | No |
 | `nickching.com` | Yes |
 | `nickcho.social` | No |
@@ -30614,6 +30623,7 @@ Here's a list of public Fediverse services.
 | `scd31.com` | No |
 | `scdg.net` | No |
 | `scdmx.de` | Yes |
+| `scds.ca` | No |
 | `scenecore.net` | No |
 | `sceneworld.org` | No |
 | `scfzfilm.org` | No |
@@ -31566,6 +31576,7 @@ Here's a list of public Fediverse services.
 | `sikke.fi` | Yes |
 | `sikloud.com` | No |
 | `sil.sh` | No |
+| `silas.io` | No |
 | `silat.cloud` | No |
 | `silba.me` | No |
 | `silberkind.de` | No |
@@ -39932,8 +39943,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,840 |
-| Normal | 30,049 |
+| Cloudflare | 9,842 |
+| Normal | 30,058 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
