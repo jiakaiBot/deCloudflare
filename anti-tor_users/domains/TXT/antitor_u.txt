@@ -1165,6 +1165,7 @@ apps.uniprime.com.br
 auth.unisandbox.fun
 auth.userlane.com
 authenticate.uefastaging.ch
+autodiscover.ucsgov.com
 autodiscover.unitron6991.com
 autodiscover.usediphones.eu
 avanan.url-protection.com
@@ -1172,15 +1173,18 @@ b2bapi.usaa.com
 bach.umukuri.com
 baramundi.kks.uni-marburg.de
 beactive2.usask.ca
+berita.unisla.ac.id
 bestchange.uni-cash.pro
 bienestarpsicosocial.izt.uam.mx
 bigweb.unifr.ch
 blinkprod.utilibill.com.au
 blockchain-explorer.smart-transport.fujitsu.ubloquity.tech
 blog.ubavic.rs
+booking.untangled-life.com
 booking.up-tam.si
 californiadepartmentofmotorvehicles.updatemyprofile.com
 campusvirtual.urosario.edu.co
+caritau.unjani.ac.id
 cas.uditracker.biz
 cas.ug.edu.gh
 cd.unistream.io
@@ -1217,6 +1221,7 @@ discordapi.umutyanik.net
 dsfghjklm.ubpages.com
 dsiunitron.unitrontourism.com
 e8f26579-4ecd-4ce1-9dbd-ea456404ba5f.usrfiles.com
+eex-stage-v10.uo-cloud.de
 einvoice.usps.com
 emergency-support.upstreamdigital.ca
 en.unionin26.fi
@@ -1273,11 +1278,14 @@ member.uwaisteam.com
 menu-1311.payment-api.ueat.io
 microsofteam-828293.usachannel-steam.com
 mixspresso.ussl.nl
+mkoder.uber.space
 monitor.cs.uni-koeln.de
+monitoring.amanah-staging.cs.ui.ac.id
 monitoring.wafbtest.unilab-software.de
 mybcabisnis-api.u-appspecto.com
 nectr.utilibill.com.au
 nederland.unofficialbird.com
+netflix1.uber.space
 netflixi.uber.space
 nirvanamanagedservices.updatemyprofile.com
 nitro.umbrella.in.th
@@ -1293,6 +1301,7 @@ onkl.uni-koblenz.de
 openfixepr0.ukit.me
 ourmemories.udiante.com
 ovidsp.ovid.com.remotexs.unimas.my
+pakethaji.umrohkhazzanah.com
 partner.cde.uat-upswing.one
 pay.uralairlines.ru
 paypal0.uber.space
@@ -1327,6 +1336,7 @@ secure.unrwa.es
 secure1.ubiquitech.co.za
 services.usps.com
 services1.uvoset.com
+set.unimap.edu.my
 signon-oqa.ual.com
 signon.ual.com
 sihipka.unsika.ac.id
@@ -1351,6 +1361,7 @@ tkmed.uniklinik-bonn.de
 topdental.unimedodonto.com.br
 trans-proxy.uecard.ru
 troublex.uber.space
+u2b.cx
 ua-allegro.store
 ubakeryu.com
 ubaonlineghana.com
@@ -1391,6 +1402,19 @@ ukoug.org
 ukr-metall.com.ua
 ukrainecharitysupport.org
 ukrpost.org
+ul13.xyz
+ul14.xyz
+ul15.xyz
+ul16.xyz
+ul17.xyz
+ul19.xyz
+ul21.xyz
+ul22.xyz
+ul23.xyz
+ul24.xyz
+ul26.xyz
+ul31.xyz
+ulerasbama.tk
 ultimatediscordentertainment.com
 ultimateint.net
 ultracyclingswiss.ch
@@ -1400,8 +1424,8 @@ umrohmurahntb.com
 umutlukoop.com
 umutyapi.com.tr
 umutyapi.org
-unacem.ec
 uncatolicoperplejo.com
+unchainedsolutions.net
 uncoder.io
 uncomics.org
 uncommonetfs.com
@@ -1415,7 +1439,9 @@ unidlyr.com
 unikremodel.com
 unionpodiatre.ca
 unipack.co.bw
+unipay.ly
 unipro-note.net
+uniqueneeds.org
 unired.net.ni
 uniserv-federation.com
 unitedindia.info
@@ -1427,6 +1453,7 @@ uniwawa.com
 unixhq.com
 unknown.gold
 unleashspeeds.com
+unlinkedlist.org
 unlock.com.tr
 unlock.org.uk
 unlocked.dk
@@ -1440,6 +1467,7 @@ unyapi.com.tr
 uokik.gov.pl
 up-stage.info
 up.unum.pl
+upcalendar.net
 update-information-account-verify.uvxhck.click
 updatehargaemas.com
 updatei.com
@@ -1522,6 +1550,7 @@ v.uapaccount.com
 verifycertificate.ullashi.com
 vpn2.umpquahealth.com
 wabi.ulity.app
+wallet.uttey.com
 web.usdirectexpress.com
 webdisk.umail.business
 webdisk.unitron6991.com
@@ -1538,11 +1567,13 @@ www.airbnb.utaxme.com
 www.apply.uofnlonavala.org
 www.auth.uncuni.com
 www.authdove.unitedecom.com
+www.aziendedisuccesso.usurabancaria.com
 www.bancodeoro.user-verify.com
 www.bedbreakfast.uberweb.co.za
 www.beritainvestigasi.id.uberberita.com
 www.bfmqe.unikalservice.com
 www.billing.utu.systems
+www.booking.untangled-life.com
 www.booking.urcc.co.ke
 www.bs-krzeszowice.cruzwwa.usermd.net
 www.budel-wheels.com.updates360.id
@@ -1674,6 +1705,8 @@ www.unionhotels.it
 www.uniquecare-recoveryservices.com
 www.uniquecustomcabinetry.com
 www.uniquelifestyle.com.tr
+www.unit21recovery.co.uk
+www.unitecredito.com.br
 www.united.ma
 www.unitedagentgroup.com
 www.unitedframes.tv
@@ -1702,6 +1735,7 @@ www.unlockfuture.ch
 www.unlockhealthandwellness.com
 www.unlockhighered.org
 www.unlockincomes.com
+www.unlockingpotential.me
 www.unlockingthebluedoor.com
 www.unlockingtheclassics.com
 www.unlockingtheheartofhealing.com
@@ -1724,6 +1758,7 @@ www.updateworld24.com
 www.uph.de
 www.upleafd.com
 www.uplyftt.com
+www.upriserecruitment.com
 www.uprofyt.com
 www.upside-down-pineapple.com
 www.upsoldas.com.br
@@ -1780,6 +1815,7 @@ www.uvzsr.sk
 www.verifycertificate.ullashi.com
 www.vpn.unimudasorong.ac.id
 www.vpn2.upfiles.org
+www.whatsapp.unionptk.com
 www.winners.uncc-claims.com
 www.xaribulbul-taxi.unikalservice.com
 www77.uberhealth.co
