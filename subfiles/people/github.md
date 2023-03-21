@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare security check not working](https://github.com/minbrowser/min/issues/2210)
+- [OKX Demo Trading - Basic functions come back with "This feature is temporarily unavailable in demo trading"](https://github.com/ccxt/ccxt/issues/17295)
 - [Stop using Cloudflare](https://github.com/openandroidinstaller-dev/openandroidinstaller-dev.github.io/issues/11)
 - [CORS issue with on demand download urls](https://github.com/AzuraCast/AzuraCast/issues/6164)
 - [Failed to get parsed page](https://github.com/SocksPls/hltv-api/issues/40)
