@@ -51,6 +51,7 @@ Here's a list of public Matrix services.
 | matrix.crossbach.de | No |
 | matrix.data.coop | No |
 | matrix.data.haus | No |
+| im.deuxfleurs.fr | No |
 | matrix.dieandalusier.net | No |
 | matrix.duesen.chat | No |
 | matrix.envs.net | No |
@@ -136,7 +137,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 23 |
-| Normal | 85 |
+| Normal | 86 |
 
 
-### 21.3% of public Matrix services are using Cloudflare.
+### 21.1% of public Matrix services are using Cloudflare.
