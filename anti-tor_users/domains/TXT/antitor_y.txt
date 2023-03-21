@@ -402,6 +402,8 @@ yuyu-billing.dev
 1668340828052722da28d7a602.yourip.cn
 1668671855938104aa9001f347.yourip.cn
 3dsecure.yesbank.in
+account.edit.yahoo-login.co
+accounts.yahoo-login.co
 accounts.youtube.com
 addvideo.yoboho.com
 ae.yallagift.com
@@ -440,6 +442,7 @@ dev-ntpc.youbike2.com
 discourse.yatahonga.com
 dms-abof74q8xxreport.wc.yahoodns.net
 dummyneo.yapindo.co.id
+edit.wallet.yahoo-login.co
 edwqfgfsgd.youdontcare.com
 edwqfgfsgdgfqaaaa.youdontcare.com
 email.yourinforequest.net
@@ -475,6 +478,7 @@ paperlesspayroll.yonkersny.gov
 partner.market.yandex.ru
 payment.yummyistanbul.com
 payments.youtube.com
+paypay.yahoo-login.co
 python-github-calendar-api.yylemon.top
 rikon-shitai.yoasobi-erobloger.com
 s.yimg.jp
@@ -548,6 +552,7 @@ www.ymparistoahdistus.fi
 www.ynw.sg
 www.yogaconference.ch
 www.yogainfergus.ca
+www.yogaonyourtime.com
 www.yorkshiredalespestcontrol.com
 www.yoshitoku.co.jp
 www.you-unlock.com
@@ -567,6 +572,7 @@ yabs.yandex.ru
 yahoomailsupportphonenumber.com
 yamaonline.co.il
 yamunalandbank.com
+yanitesto-id.xyz
 yapianaliz.com.tr
 yapianalizi.com.tr
 yapicilaras.com
@@ -577,6 +583,7 @@ yapindo.co.id
 yapiskan.tk
 yapitbodrum.com
 yaseagrouptravel.com
+yasham-medical.com
 yay-plus.com
 yayanadriano.web.id
 yazarlaryapi.com.tr
@@ -631,12 +638,15 @@ yourrecruiter.ca
 yourvalenciadentist.com
 yourveganfallacyis.com
 youtube-nocookies.com
+yovotogo.fr
 yoyoessentials.com
 yperiontitanium.com
 yperthiron.gr
 ypsso.fr
 ys.style
 ytali.com
+yueliangzxwzfby1.cyou
+yugiwheeler.com
 yulizarpost.com
 yuushablog.info
 yuvadharaonline.com
@@ -645,6 +655,7 @@ yxapp43.xyz
 yxapp45.xyz
 yxapp46.xyz
 yxapp48.xyz
+yxpfb.com
 yzphouse.com
 ahi.yoxel.com
 am.yahoo.co.jp
