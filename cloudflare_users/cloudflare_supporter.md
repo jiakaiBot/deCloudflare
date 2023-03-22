@@ -7799,6 +7799,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nghim96809566@twitter](https://twitter.com/Nghim96809566/status/1387297402122489859) | advertise |
 | [NghNguy33097122@twitter](https://twitter.com/NghNguy33097122/status/1391728415984603138) | advertise |
 | [ngHuy58533717@twitter](https://twitter.com/ngHuy58533717/status/1400935313917153283) | advertise |
+| [Ngi1Trit@twitter](https://twitter.com/Ngi1Trit/status/1638437010292768770) | advertise |
 | [nginngenthj@twitter](https://twitter.com/nginngenthj/status/1397950807522242561) | advertise |
 | [ngin_hsai@twitter](https://twitter.com/ngin_hsai/status/1392354117868134407) | advertise |
 | [ngKhoa85349550@twitter](https://twitter.com/ngKhoa85349550/status/1381325734073933825) | advertise |
