@@ -473,4 +473,4 @@ Nincs ebben semmi futurisztikus. Már veszítettünk.
 ### Most mit csináltál ma?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
