@@ -473,4 +473,4 @@ Walang anumang futuristic tungkol dito. Talo na tayo
 ### Ngayon, ano ang ginawa mo ngayon?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
