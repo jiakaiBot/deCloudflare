@@ -473,4 +473,4 @@ Chan eil dad ri teachd mu dheidhinn seo. Tha sinn air chall mu thràth.
 ### A-nis, dè a rinn thu an-diugh?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
