@@ -473,4 +473,4 @@ Bunun fütüristik bir yanı yok. Zaten kaybettik.
 ### Şimdi, bugün ne yaptın?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
