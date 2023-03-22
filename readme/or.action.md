@@ -473,4 +473,4 @@ die();
 ### ବର୍ତ୍ତମାନ, ତୁମେ ଆଜି କ’ଣ କଲ?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
