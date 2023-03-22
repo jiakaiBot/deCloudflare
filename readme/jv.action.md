@@ -473,4 +473,4 @@ Ora ana sing futuristik babagan iki. Kita wis kalah.
 ### Saiki, apa sing sampeyan lakoni dina iki?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
