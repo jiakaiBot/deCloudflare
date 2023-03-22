@@ -473,4 +473,4 @@ Tidak ada yang futuristik tentang ini. Kami sudah kalah.
 ### Sekarang, apa yang kamu lakukan hari ini?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
