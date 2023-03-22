@@ -473,4 +473,4 @@ Enweghị ọdịnihu ọ bụla banyere nke a. Anyị efuola.
 ### Ugbu a, gịnị ka ị mere taa?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
