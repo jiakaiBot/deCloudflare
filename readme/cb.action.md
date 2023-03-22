@@ -473,4 +473,4 @@ Wala’y bisan unsa nga futuristic bahin niini. Nawala na ta.
 ### Karon, unsa ang imong gibuhat karon?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
