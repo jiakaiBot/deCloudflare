@@ -473,4 +473,4 @@ Selles pole midagi futuristlikku. Oleme juba kaotanud.
 ### Mida sa täna tegid?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
