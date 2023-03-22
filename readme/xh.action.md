@@ -473,4 +473,4 @@ Akukho nto inexesha elizayo malunga noku. Sele silahlekile.
 ### Ngoku wenze ntoni namhlanje?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
