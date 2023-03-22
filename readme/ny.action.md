@@ -473,4 +473,4 @@ Palibe chilichonse chamtsogolo pankhaniyi. Tataya kale.
 ### Tsopano, mwachita chiyani lero?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
