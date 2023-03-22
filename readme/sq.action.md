@@ -473,4 +473,4 @@ Nuk ka asgjë futuriste në lidhje me këtë. Ne tashmë kemi humbur.
 ### Tani, çfarë keni bërë sot?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
