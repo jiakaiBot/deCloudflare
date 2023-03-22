@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [TocBot Not work with Cloudflare Pages](https://github.com/cotes2020/jekyll-theme-chirpy/issues/951)
 - [Project has failed](https://github.com/streetwriters/cors/issues/1)
 - [Add error in agent init script if the binary wasn't actually downloaded](https://github.com/coder/coder/issues/6711)
 - [Cloudflare security check not working](https://github.com/minbrowser/min/issues/2210)
