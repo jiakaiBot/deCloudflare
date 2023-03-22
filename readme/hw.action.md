@@ -473,4 +473,4 @@ I kekahi lā, e ʻike ʻoe i ke kumu a mākou i kākau ai i kēia.
 ### I kēia manawa, he aha kāu i hana ai i kēia lā?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
