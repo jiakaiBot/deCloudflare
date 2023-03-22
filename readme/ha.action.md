@@ -473,4 +473,4 @@ Babu wani abu mai zuwa game da wannan. Mun riga munyi asara.
 ### Yanzu, me kuka yi a yau?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
