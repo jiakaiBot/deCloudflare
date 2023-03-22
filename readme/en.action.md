@@ -399,4 +399,4 @@ Therefore we recommend above table only. Nothing else.
 
 ### Now, what did you do today?
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
