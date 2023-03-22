@@ -473,4 +473,4 @@ E leai se mea futuristic e uiga i lenei. Ua uma ona tatou faiaʻina.
 ### O lea la, o le a lau mea na fai i le aso?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
