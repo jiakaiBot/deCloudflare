@@ -473,4 +473,4 @@ Hier is niks futuristies aan nie. Ons het reeds verloor.
 ### Nou, wat het jy vandag gedoen?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
