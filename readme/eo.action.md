@@ -481,4 +481,4 @@ Estas nenio futurisma pri ĉi tio. Ni jam perdis.
 ### Nun, kion vi faris hodiaŭ?
 
 
-![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
+![](../image/stopcf.jpg) [🖼 Afiŝo](../image/poster/README.md)
