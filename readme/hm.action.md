@@ -473,4 +473,4 @@ Tsis muaj dab tsi nyob rau yav tom ntej txog qhov no. Peb twb poob lawm.
 ### Tam sim no, koj ua dab tsi hnub no?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
