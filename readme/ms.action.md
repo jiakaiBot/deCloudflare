@@ -473,4 +473,4 @@ Tidak ada perkara futuristik mengenai perkara ini. Kita sudah kalah.
 ### Sekarang, apa yang anda buat hari ini?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
