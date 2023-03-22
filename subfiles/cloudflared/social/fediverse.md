@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,006 |
+| com | 6,008 |
 | social | 3,863 |
 | net | 3,070 |
-| org | 2,114 |
+| org | 2,115 |
 | de | 2,008 |
 
 
@@ -4223,6 +4223,7 @@ Here's a list of public Fediverse services.
 | `bobiverse.social` | Yes |
 | `bobobo80.com` | Yes |
 | `bobs.social` | No |
+| `bobschulties.com` | No |
 | `bobsica.com` | No |
 | `bobwertz.com` | No |
 | `bocc.de` | No |
@@ -5729,6 +5730,7 @@ Here's a list of public Fediverse services.
 | `chinapedia.org` | No |
 | `chinasexpat.com` | No |
 | `chinchun.net` | Yes |
+| `chinstrap.org` | No |
 | `chinwag.im` | Yes |
 | `chinwag.org` | Yes |
 | `chipmnk.dev` | No |
@@ -30510,6 +30512,7 @@ Here's a list of public Fediverse services.
 | `saratov.ch` | No |
 | `sarber.plus` | Yes |
 | `sarcasm.stream` | No |
+| `sarcasmstardust.com` | No |
 | `sardegna.social` | No |
 | `sardo.work` | Yes |
 | `sargasso.nl` | Yes |
@@ -39991,7 +39994,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,859 |
-| Normal | 30,088 |
+| Normal | 30,091 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
