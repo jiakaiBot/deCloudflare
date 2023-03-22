@@ -439,6 +439,7 @@ common-api-eu-cf.yepgarage.com
 cpcalendars.yamatotakeru.tokyo
 crm.yapialuminyum.com
 dev-ntpc.youbike2.com
+devops-dev-pfp-yas.yantriks.in
 discourse.yatahonga.com
 dms-abof74q8xxreport.wc.yahoodns.net
 dummyneo.yapindo.co.id
@@ -492,6 +493,7 @@ squote.yuanta.com.tw
 ssl.ybmky.com
 static.212.167.109.65.clients.your-server.de
 top15posts.youngpetals.net
+upload.youtube.com
 v-al5r12ca4i.wc.yahoodns.net
 v-b14znqldkp.wc.yahoodns.net
 v-b1lfd83l3r.wc.yahoodns.net
@@ -594,6 +596,7 @@ yc-loyalty-ke.stage.apac.yaradigitallabs.io
 ydg.icu
 yeahyouwriteevents.com
 yee.com
+yeebly.com
 yefi.site
 yefyapi.com.tr
 yellow-stripe.com
@@ -643,11 +646,14 @@ yoyoessentials.com
 yperiontitanium.com
 yperthiron.gr
 ypsso.fr
+yqsoft2023.top
 ys.style
+yssoft2023.top
 ytali.com
 yueliangzxwzfby1.cyou
 yugiwheeler.com
 yulizarpost.com
+yusaa.com
 yuushablog.info
 yuvadharaonline.com
 yvesmark.studio
