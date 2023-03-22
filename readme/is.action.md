@@ -473,4 +473,4 @@ Einhvern tíma munt þú skilja hvers vegna við skrifuðum þetta.
 ### Nú, hvað gerðir þú í dag?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
