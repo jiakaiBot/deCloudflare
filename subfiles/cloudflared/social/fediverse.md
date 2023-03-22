@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,008 |
-| social | 3,863 |
+| social | 3,864 |
 | net | 3,071 |
 | org | 2,115 |
 | de | 2,008 |
@@ -13384,6 +13384,7 @@ Here's a list of public Fediverse services.
 | `gosocial.au` | Yes |
 | `gosocial.click` | No |
 | `gossler.family` | No |
+| `gosuslugi.social` | Yes |
 | `got-tty.org` | No |
 | `gotdns.ch` | No |
 | `gotgoat.com` | Yes |
@@ -26732,7 +26733,7 @@ Here's a list of public Fediverse services.
 | `pch.net` | No |
 | `pchost.org` | No |
 | `pclmulqdq.dev` | No |
-| `pcora.eu` | No |
+| `pcora.eu` | Yes |
 | `pcorp.us` | No |
 | `pcservice46.fr` | No |
 | `pcsfield.com` | No |
@@ -39997,8 +39998,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,863 |
-| Normal | 30,091 |
+| Cloudflare | 9,865 |
+| Normal | 30,090 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
