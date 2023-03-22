@@ -473,4 +473,4 @@ Do ass näischt futuristesches. Mir hu scho verluer.
 ### Elo, wat hutt Dir haut gemaach?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
