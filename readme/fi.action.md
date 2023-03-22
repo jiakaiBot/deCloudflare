@@ -473,4 +473,4 @@ Tässä ei ole mitään futuristista. Olemme jo menettäneet.
 ### Mitä teit tänään?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
