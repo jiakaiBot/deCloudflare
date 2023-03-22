@@ -473,4 +473,4 @@ Iko hakuna chero chinhu chine ramangwana nezve izvi. Takatokundwa.
 ### Zvino, waitei nhasi?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
