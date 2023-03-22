@@ -473,4 +473,4 @@ Kādreiz jūs sapratīsit, kāpēc mēs to rakstījām.
 ### Ko jūs šodien darījāt?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
