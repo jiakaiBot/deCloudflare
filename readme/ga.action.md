@@ -473,4 +473,4 @@ Níl aon rud todhchaíoch faoi seo. Táimid caillte cheana féin.
 ### Anois, cad a rinne tú inniu?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
