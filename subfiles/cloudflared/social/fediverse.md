@@ -6677,6 +6677,7 @@ Here's a list of public Fediverse services.
 | `cornfedcrew.com` | No |
 | `cornichon.me` | No |
 | `cornputer.org` | No |
+| `cornspace.space` | Yes |
 | `corntoole.com` | Yes |
 | `coro3.net` | Yes |
 | `coron.tech` | No |
@@ -19938,7 +19939,7 @@ Here's a list of public Fediverse services.
 | `loyko.stream` | No |
 | `lpfm.social` | No |
 | `lpha-z.net` | No |
-| `lplab.net` | No |
+| `lplab.net` | Yes |
 | `lpmcma.com` | Yes |
 | `lpn.systems` | Yes |
 | `lpo.host` | No |
@@ -31528,7 +31529,7 @@ Here's a list of public Fediverse services.
 | `shrimp.faith` | Yes |
 | `shrimpcam.pw` | Yes |
 | `shrimpguild.social` | No |
-| `shrimpia.network` | No |
+| `shrimpia.network` | Yes |
 | `shrimply.social` | No |
 | `shrine.moe` | Yes |
 | `shrn.co` | Yes |
@@ -39996,8 +39997,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,860 |
-| Normal | 30,093 |
+| Cloudflare | 9,863 |
+| Normal | 30,091 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
