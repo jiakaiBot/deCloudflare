@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,008 |
 | social | 3,863 |
-| net | 3,070 |
+| net | 3,071 |
 | org | 2,115 |
 | de | 2,008 |
 
@@ -15129,6 +15129,7 @@ Here's a list of public Fediverse services.
 | `hunted.one` | Yes |
 | `hunterandannie.com` | Yes |
 | `hunterjozwiak.com` | No |
+| `hunterlife.net` | No |
 | `huntsvillain.com` | No |
 | `hupel.info` | No |
 | `hurgen.com` | No |
@@ -39994,7 +39995,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,859 |
-| Normal | 30,091 |
+| Normal | 30,092 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
