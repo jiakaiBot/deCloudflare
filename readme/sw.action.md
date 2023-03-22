@@ -473,4 +473,4 @@ Hakuna kitu chochote cha baadaye kuhusu hili. Tayari tumepoteza.
 ### Sasa, umefanya nini leo?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
