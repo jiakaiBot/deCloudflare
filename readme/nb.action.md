@@ -473,4 +473,4 @@ Det er ikke noe futuristisk ved dette. Vi har allerede tapt.
 ### Hva gjorde du i dag?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
