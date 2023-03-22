@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [What is the best protocol for x-ui and personal usage?](https://github.com/net4people/bbs/issues/234)
 - [Can't see Last Posts Info on cloudflare Pages](https://github.com/cotes2020/jekyll-theme-chirpy/issues/952)
 - [TocBot Not work with Cloudflare Pages](https://github.com/cotes2020/jekyll-theme-chirpy/issues/951)
 - [Project has failed](https://github.com/streetwriters/cors/issues/1)
