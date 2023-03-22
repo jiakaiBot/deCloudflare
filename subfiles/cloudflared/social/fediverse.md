@@ -7139,7 +7139,7 @@ Here's a list of public Fediverse services.
 | `cultuurpers.nl` | No |
 | `cum.camp` | No |
 | `cum.coffee` | Yes |
-| `cum.cx` | No |
+| `cum.cx` | Yes |
 | `cum.makeup` | No |
 | `cum.salon` | No |
 | `cumbia.social` | No |
@@ -17451,6 +17451,7 @@ Here's a list of public Fediverse services.
 | `katariya.us` | No |
 | `katarpilar.com` | No |
 | `kate.land` | No |
+| `katgirl.club` | No |
 | `kathryl.fr` | No |
 | `kathyreid.id.au` | No |
 | `katiechapman.ie` | Yes |
@@ -39995,7 +39996,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,859 |
+| Cloudflare | 9,860 |
 | Normal | 30,093 |
 
 
