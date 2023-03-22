@@ -473,4 +473,4 @@ Nta kintu na kimwe kizaza kuri ibi. Tumaze gutsindwa.
 ### None, uyu munsi wakoze iki?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
