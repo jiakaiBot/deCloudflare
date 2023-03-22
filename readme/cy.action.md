@@ -473,4 +473,4 @@ Nid oes unrhyw beth dyfodolol am hyn. Rydym eisoes wedi colli.
 ### Nawr, beth wnaethoch chi heddiw?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
