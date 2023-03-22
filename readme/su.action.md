@@ -473,4 +473,4 @@ Henteu aya anu futuristik ngeunaan ieu. Kami parantos éléh.
 ### Ayeuna, naon anu anjeun lakukeun dinten ayeuna?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
