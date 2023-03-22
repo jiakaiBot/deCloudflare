@@ -180,6 +180,8 @@ Nikada ne pitamo vaše društvene medije.**
 
 ![](../image/twe_eptg.jpg)
 
+![](../image/twe_crc32ae80d4d3.jpg)
+
 ![](../image/eastdakota_1273277839102656515.jpg)
 
 ![](../image/stopcf.jpg)  [🖼 Poster](../image/poster/README.md)
