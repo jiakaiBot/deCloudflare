@@ -473,4 +473,4 @@ Pa gen anyen futurist sou sa. Nou deja pèdi.
 ### Kounye a, kisa ou te fè jodi a?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
