@@ -473,4 +473,4 @@ Tsy misy zavatra futuristic momba an'io. Efa resy isika.
 ### Inona no nataonao androany?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
