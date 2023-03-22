@@ -473,4 +473,4 @@ Ma jiro wax mustaqbal ah oo ku saabsan tan. Mar hore ayaynu khasaarnay.
 ### Hadda, maxaad maanta qabatay?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
