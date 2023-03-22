@@ -473,4 +473,4 @@ D'r is neat futuristysk oan. Wy hawwe al ferlern.
 ### No, wat hawwe jo hjoed dien?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
