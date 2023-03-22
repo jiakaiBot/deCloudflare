@@ -473,4 +473,4 @@ Un ghjornu, capirete perchè avemu scrittu questu.
 ### Avà, chì hai fattu oghje?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
