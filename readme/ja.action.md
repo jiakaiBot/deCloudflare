@@ -473,4 +473,4 @@ die();
 ### さて、今日は何をしましたか？
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
