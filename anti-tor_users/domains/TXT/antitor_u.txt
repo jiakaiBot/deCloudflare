@@ -141,7 +141,6 @@ learn.updater.ge
 leisuretop.unitrontourism.com
 library.universityofgalway.ie
 live.malwine.uber.space
-login.ufc.com
 login.ujatcare.com
 login.uni-mainz.de
 maibxupgrade.usite.pro
@@ -152,7 +151,6 @@ media.unibet.fr
 mobilecore.api.uatbi.com.br
 money-recognition.apps.uraki.dev
 moskit.uwm.edu.pl
-mpo-slot-login.ufc.com
 my-api.ucom.am
 nasertours.unitrontourism.com
 navigation-backend.uptecra.com
@@ -460,7 +458,6 @@ www.uber-identity.com
 www.ubminers.ltd
 www.ubsafe.nl
 www.ucssecurity.nl
-www.ufc.com
 www.ufficio-postale.it
 www.ufg.uni-kiel.de
 www.ufosafe.com
@@ -1169,6 +1166,7 @@ autodiscover.ucsgov.com
 autodiscover.unitron6991.com
 autodiscover.usediphones.eu
 avanan.url-protection.com
+avito.sber.avito.avito.sberbank.covid19.ukrtranspark.com
 b2bapi.usaa.com
 bach.umukuri.com
 baramundi.kks.uni-marburg.de
@@ -1182,6 +1180,7 @@ blockchain-explorer.smart-transport.fujitsu.ubloquity.tech
 blog.ubavic.rs
 booking.untangled-life.com
 booking.up-tam.si
+bradescobackend.uat-globalinvest.us
 californiadepartmentofmotorvehicles.updatemyprofile.com
 campusvirtual.urosario.edu.co
 caritau.unjani.ac.id
@@ -1200,6 +1199,7 @@ collimateur.uqam.ca
 communication.uqam.ca
 consultar-online-hoje.ubpages.com
 cos-verify.uatdelivery.uk
+course.uwaisteam.com
 cp.uat-hizuno.com
 cpcalendars.ultrasonidomedicodiagnosticoencdmx.com.mx
 cpcalendars.umail.business
@@ -1213,6 +1213,7 @@ dashboardcovidbrasil.di.uern.br
 dc1.eilab.uoit.org
 demo.utilibill.com.au
 demo3.utilibill.com.au
+denizlitekden.uesis.net
 dev-micropay.uplus.co.kr
 dev.api.data.unicloudgroup.com.vn
 dev.api.hrmconfig.unicloudgroup.com.vn
@@ -1326,6 +1327,7 @@ relawan.untukcianjur.id
 reqef.uqam.ca
 research.uapaccount.com
 sberbank.sber.avito.avito.covid19.ukrtranspark.com
+sberbank.sber.avito.avito.sber.covid19.ukrtranspark.com
 scdemo-b2c.unlockcommerce.co
 scim.urimapp.com
 scuba.unrealstage.com
@@ -1369,9 +1371,11 @@ ubcpress.ca
 uberaba.curitiba.br
 uberacc.co.za
 uberbasepremoldados.com
+ubercooldesign.co.za
 uberdrones.org
 uberearts.com
 ubergreen.cl
+uberloads.com.br
 uberpages.com
 uberporn.net
 uberptyltd.com.au
@@ -1392,6 +1396,7 @@ udaipurupdate.com
 ufa-ultiproxy3.ultipro.ca
 ufaproxy3.ultipro.ca
 ufia.co.id
+uinbukittinggi.ac.id
 uituwhand.nl
 ujianmu.net
 ukbangpalace.com
@@ -1414,7 +1419,7 @@ ul23.xyz
 ul24.xyz
 ul26.xyz
 ul31.xyz
-ulerasbama.tk
+uloredics.com
 ultimatediscordentertainment.com
 ultimateint.net
 ultracyclingswiss.ch
@@ -1482,11 +1487,13 @@ updateworld24.com
 uplangreo.es
 upload-magazin.de
 upnaver3.com
+upperway.website
 upplysningavancez.com
 upreus.com
 uproiect.ro
 upscale.wiki
 upsideorganics.com
+upspsu.top
 upswellpublishing.com
 upvcdoorsrepair.com.au
 upvo.me
@@ -1519,6 +1526,7 @@ uscyberpatriot.org
 usedcarsbunnell.org
 usenaresenha.com.br
 usendit.net
+usenet-account.net
 useranch.com.br
 userbox.com
 usereluz.com
@@ -1529,6 +1537,7 @@ usethebay.com.br
 usmc-login.uptake-federal.com
 uspstrksecure.org
 usso.uk
+ussteam.net
 ustom.eu
 usuireikiho.com.br
 usvazine.net
@@ -1536,6 +1545,7 @@ uswired.info
 util.cat
 util.unicode.org
 utilajetransilvane.ro
+utilitystandard.net
 utilkit.dev
 uu.ink
 uvith.org
@@ -1585,6 +1595,8 @@ www.client1.ubijournal.com
 www.client2.ubijournal.com
 www.client3.ubijournal.com
 www.clientes.umbralhosting.com
+www.course.uwaisteam.com
+www.denizlitekden.uesis.net
 www.dinarkrgresik.com.updatehargaemas.com
 www.dinarkrtangsel.com.updatehargaemas.com
 www.direto.updatecardiovasculardotejo.pt
@@ -1643,6 +1655,7 @@ www.ubereavestrough.ca
 www.uberengenharia.com
 www.uberfordert.com
 www.uberlawyers.net
+www.uberloads.com.br
 www.ubermarketingvernon.com
 www.ubernamez.com
 www.uberology.co.uk
@@ -1748,6 +1761,7 @@ www.unlocktherapy.com
 www.unnaturaldisaster.ca
 www.unsolicitedpress.com
 www.unstablebaker.com
+www.unsuryapi.com.tr
 www.upbilancio.it
 www.update928.com
 www.updatehairdesign.co.uk
@@ -1964,7 +1978,6 @@ vls.uat-vlaanderen.be
 vpn.pu1.uktsg.ch
 webdisk.uberlab.eu
 webdisk.ura-josi.site
-webmail.umojatournamentarusha.com
 webmail.unemploymentreliefplanuinv.com
 webmail.unterweger-oils.com
 websso.um.edu.mo
