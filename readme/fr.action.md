@@ -473,4 +473,4 @@ Il n'y a rien de futuriste à ce sujet. Nous avons déjà perdu.
 ### Maintenant, qu'avez-vous fait aujourd'hui?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
