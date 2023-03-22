@@ -473,4 +473,4 @@ Nie je na tom nič futuristické. Už sme prehrali.
 ### Čo ste dnes robili?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
