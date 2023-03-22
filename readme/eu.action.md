@@ -473,4 +473,4 @@ Honek ez du ezer futuristarik. Dagoeneko galdu dugu.
 ### Orain, zer egin duzu gaur?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
