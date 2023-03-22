@@ -473,4 +473,4 @@ Kaore he mea futuristic mo tenei. Kua ngaro ke tatou.
 ### Na, i aha koe i tenei ra?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
