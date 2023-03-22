@@ -473,4 +473,4 @@ M'hemm xejn futuristiku dwar dan. Diġà tlifna.
 ### Issa, x’għamilt illum?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
