@@ -473,4 +473,4 @@ Di vê yekê de tiştek pêşeroj tune. Me berê jî wenda kir.
 ### Naha, we îro çi kir?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
