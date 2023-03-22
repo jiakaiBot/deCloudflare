@@ -5970,6 +5970,7 @@ Do not create new issue or we will close it as duplicate.
 | [LaptopsP@twitter](https://twitter.com/LaptopsP/status/1380583685615849474) | advertise |
 | [lapyae16308476@twitter](https://twitter.com/lapyae16308476/status/1391962821668184065) | advertise |
 | [laquan2411@twitter](https://twitter.com/laquan2411/status/1553299969322655744) | advertise |
+| [Laron_Barca@twitter](https://twitter.com/Laron_Barca/status/1638633774807396358) | advertise |
 | [Larry06951708@twitter](https://twitter.com/Larry06951708/status/1543723562397319170) | advertise |
 | [Lastavicaaaa@twitter](https://twitter.com/Lastavicaaaa/status/1570320326684188672) | advertise |
 | [LasteventsSpace@twitter](https://twitter.com/LasteventsSpace/status/1550721607030968320) | advertise |
@@ -9054,6 +9055,7 @@ Do not create new issue or we will close it as duplicate.
 | [QuangHu25018354@twitter](https://twitter.com/QuangHu25018354/status/1493308714065231872) | advertise |
 | [quangka09@twitter](https://twitter.com/quangka09/status/1391117991790608385) | advertise |
 | [quangl97035130@twitter](https://twitter.com/quangl97035130/status/1600874356099334147) | advertise |
+| [QuanglinhLe1@twitter](https://twitter.com/QuanglinhLe1/status/1638627610027786242) | advertise |
 | [QuangNg40882818@twitter](https://twitter.com/QuangNg40882818/status/1406561229947035654) | advertise |
 | [Quangnghiahi@twitter](https://twitter.com/Quangnghiahi/status/1549424943594479616) | advertise |
 | [quangnhat0809@twitter](https://twitter.com/quangnhat0809/status/1379958517851824129) | advertise |
