@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,002 |
+| com | 6,006 |
 | social | 3,863 |
-| net | 3,066 |
-| org | 2,113 |
+| net | 3,070 |
+| org | 2,114 |
 | de | 2,008 |
 
 
@@ -3400,6 +3400,7 @@ Here's a list of public Fediverse services.
 | `beery.beer` | Yes |
 | `beesbuzz.biz` | No |
 | `beeslink.com` | No |
+| `beetmacol.com` | No |
 | `beetoons.tv` | No |
 | `beets.social` | No |
 | `before.dog` | No |
@@ -5156,6 +5157,7 @@ Here's a list of public Fediverse services.
 | `capypara.de` | No |
 | `capystan.net` | No |
 | `car-mastodon.link` | No |
+| `carabunga.net` | No |
 | `caraldi.com` | No |
 | `carbonatic.com` | No |
 | `carboncopy.xyz` | No |
@@ -5647,6 +5649,7 @@ Here's a list of public Fediverse services.
 | `chef-li.eu` | No |
 | `chefblogger.me` | Yes |
 | `chek.social` | No |
+| `chelmi.info` | No |
 | `chelseafc.social` | No |
 | `chelsealaurel.com` | Yes |
 | `chemnitz.network` | No |
@@ -6026,6 +6029,7 @@ Here's a list of public Fediverse services.
 | `clawhammer.net` | No |
 | `claws.blue` | No |
 | `claycord.social` | No |
+| `clayt.in` | No |
 | `clayto.com` | Yes |
 | `clazy.org` | No |
 | `clb92.xyz` | No |
@@ -6092,6 +6096,7 @@ Here's a list of public Fediverse services.
 | `closeuprussia.com` | Yes |
 | `clothesp.in` | No |
 | `cloud-ace.jp` | Yes |
+| `cloud-cyber.net` | Yes |
 | `cloud-foo.de` | No |
 | `cloud-libre.eu` | No |
 | `cloud-native.social` | No |
@@ -6646,6 +6651,7 @@ Here's a list of public Fediverse services.
 | `copperhead.cloud` | No |
 | `coq.social` | No |
 | `coqui.social` | No |
+| `coraxfm.uk` | No |
 | `corbinnet.com` | Yes |
 | `cord.de` | No |
 | `cordelya.net` | Yes |
@@ -13478,6 +13484,7 @@ Here's a list of public Fediverse services.
 | `grassroot.space` | No |
 | `grasstruths.co.za` | No |
 | `gratitude.blog` | No |
+| `grautier.com` | No |
 | `grav.social` | Yes |
 | `grave.fun` | Yes |
 | `graves.cl` | No |
@@ -19595,6 +19602,7 @@ Here's a list of public Fediverse services.
 | `lkw.tf` | No |
 | `ll-hh.de` | No |
 | `ll4u.in` | No |
+| `lla.fail` | No |
 | `llama.su` | No |
 | `llamarific.social` | No |
 | `llamasweet.tech` | No |
@@ -21477,6 +21485,7 @@ Here's a list of public Fediverse services.
 | `maxmazz.com` | No |
 | `maxocull.com` | No |
 | `maxodon.com` | No |
+| `maxoid.io` | No |
 | `maxservices.wf` | No |
 | `maxsocial.me` | No |
 | `maxsons.org` | No |
@@ -30022,6 +30031,7 @@ Here's a list of public Fediverse services.
 | `rtx3070kure.net` | No |
 | `rtyn.berlin` | No |
 | `ru.social` | No |
+| `rubber.family` | No |
 | `rubber.social` | No |
 | `rubber.zone` | No |
 | `rubberchicken.social` | No |
@@ -30215,6 +30225,7 @@ Here's a list of public Fediverse services.
 | `s-up.net` | No |
 | `s-w2.de` | No |
 | `s-yurama.com` | No |
+| `s.ai` | No |
 | `s0cial.sh` | No |
 | `s10y.eu` | No |
 | `s1204.net` | No |
@@ -31356,6 +31367,7 @@ Here's a list of public Fediverse services.
 | `shelton.chat` | No |
 | `shemmes.me` | No |
 | `shenanigan.space` | No |
+| `shendrick.net` | No |
 | `shenyanshu.com` | No |
 | `shep.online` | Yes |
 | `sheppi.es` | No |
@@ -35093,6 +35105,7 @@ Here's a list of public Fediverse services.
 | `thoughtcatalog.com` | Yes |
 | `thoughtful.social` | No |
 | `thoughtify.space` | No |
+| `thoughtsfired.net` | Yes |
 | `thoughtshrapnel.com` | No |
 | `thoughtworks.com` | Yes |
 | `thousand.rocks` | No |
@@ -35918,6 +35931,7 @@ Here's a list of public Fediverse services.
 | `treyssatvincent.fr` | No |
 | `trg.social` | Yes |
 | `tri.cash` | Yes |
+| `trialbyerror.org` | No |
 | `triangle.social` | No |
 | `triangleidiot.online` | No |
 | `triangletoot.party` | No |
@@ -37567,6 +37581,7 @@ Here's a list of public Fediverse services.
 | `vpnbanzai.eu.org` | Yes |
 | `vpndns.org` | No |
 | `vps-dogado.de` | No |
+| `vpsburti.com` | Yes |
 | `vpx.moe` | Yes |
 | `vpx.one` | Yes |
 | `vr-girls.club` | No |
@@ -38418,6 +38433,7 @@ Here's a list of public Fediverse services.
 | `wizards.business` | No |
 | `wizards.town` | No |
 | `wizards.zone` | No |
+| `wizardstowerpress.com` | No |
 | `wizbos.club` | Yes |
 | `wizfox.jp` | No |
 | `wizzards.club` | No |
@@ -39974,8 +39990,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,856 |
-| Normal | 30,075 |
+| Cloudflare | 9,859 |
+| Normal | 30,088 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
