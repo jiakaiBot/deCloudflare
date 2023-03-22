@@ -473,4 +473,4 @@ Bu hakda futuristik zat ýok. Biz eýýäm ýitdik.
 ### Indi bu gün näme etdiň?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
