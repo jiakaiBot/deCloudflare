@@ -473,4 +473,4 @@ Akukho lutho lwekusasa ngalokhu. Sesivele silahlekile.
 ### Manje wenzeni namhlanje?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
