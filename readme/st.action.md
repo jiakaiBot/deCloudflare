@@ -473,4 +473,4 @@ Ha ho na bokamoso ka sena. Re se re lahlile.
 ### Joale u entseng kajeno?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
