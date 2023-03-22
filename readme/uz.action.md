@@ -473,4 +473,4 @@ Bunda hech qanday futuristik narsa yo'q. Biz allaqachon yutqazdik.
 ### Endi nima qildingiz?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
