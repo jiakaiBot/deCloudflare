@@ -473,4 +473,4 @@ die();
 ### Бүген сез нәрсә эшләдегез?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
