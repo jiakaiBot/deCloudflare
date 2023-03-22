@@ -473,4 +473,4 @@ die();
 ### نن ، تاسو نن څه وکړل؟
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
