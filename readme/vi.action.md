@@ -473,4 +473,4 @@ Không có bất cứ điều gì tương lai về điều này. Chúng ta đã 
 ### Bây giờ, bạn đã làm gì hôm nay?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
