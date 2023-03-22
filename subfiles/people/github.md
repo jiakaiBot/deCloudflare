@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Project has failed](https://github.com/streetwriters/cors/issues/1)
 - [Add error in agent init script if the binary wasn't actually downloaded](https://github.com/coder/coder/issues/6711)
 - [Cloudflare security check not working](https://github.com/minbrowser/min/issues/2210)
 - [OKX Demo Trading - Basic functions come back with "This feature is temporarily unavailable in demo trading"](https://github.com/ccxt/ccxt/issues/17295)
