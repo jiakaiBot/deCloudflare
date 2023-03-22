@@ -473,4 +473,4 @@ Nie ma w tym nic futurystycznego. Już przegraliśmy.
 ### Co dzisiaj robiłeś?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
