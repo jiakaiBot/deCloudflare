@@ -473,4 +473,4 @@ die();
 ### Та өнөөдөр юу хийв?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
