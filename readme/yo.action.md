@@ -473,4 +473,4 @@ Ko si ohunkan ti ọjọ iwaju nipa eyi. A ti padanu tẹlẹ.
 ### Bayi, kini o ṣe loni?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
