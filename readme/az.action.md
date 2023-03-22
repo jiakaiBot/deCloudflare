@@ -473,4 +473,4 @@ Bununla bağlı futuristik bir şey yoxdur. Artıq məğlub olduq.
 ### İndi bu gün nə etdin?
 
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg) [🖼 Poster](../image/poster/README.md)
