@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,008 |
 | social | 3,864 |
-| net | 3,071 |
-| org | 2,115 |
+| net | 3,072 |
+| org | 2,116 |
 | de | 2,008 |
 
 
@@ -6806,6 +6806,7 @@ Here's a list of public Fediverse services.
 | `cracker.cloud` | Yes |
 | `crackpipe.org` | No |
 | `cracrayol.org` | No |
+| `craddock.org` | No |
 | `craft-beer.space` | No |
 | `craft-berries.town` | Yes |
 | `craftam.app` | No |
@@ -10009,6 +10010,7 @@ Here's a list of public Fediverse services.
 | `enquequedo.org` | No |
 | `enqy.one` | No |
 | `enrhu.be` | No |
+| `enricpineda.cat` | No |
 | `ensapn.ovh` | No |
 | `ensilib.re` | No |
 | `enso.ist` | Yes |
@@ -16562,6 +16564,7 @@ Here's a list of public Fediverse services.
 | `jdt.dev` | No |
 | `jdt.io` | No |
 | `jdub.website` | Yes |
+| `jdzero.net` | No |
 | `jean-ribes.tk` | No |
 | `jeannie.digital` | Yes |
 | `jeannieindigital.me` | No |
@@ -30972,7 +30975,7 @@ Here's a list of public Fediverse services.
 | `seaside.cafe` | No |
 | `seaswallow.me` | Yes |
 | `seattle.cafe` | No |
-| `seattle.wa.us` | No |
+| `seattle.wa.us` | Yes |
 | `seattlebikeblog.com` | Yes |
 | `seattlebus.space` | No |
 | `seattlematrix.org` | No |
@@ -34243,6 +34246,7 @@ Here's a list of public Fediverse services.
 | `techfix.co.nz` | No |
 | `techfood.space` | No |
 | `techforgood.social` | No |
+| `techfusion.space` | No |
 | `techgeek.tokyo` | No |
 | `techgremlin.com` | Yes |
 | `techhangout.social` | Yes |
@@ -39998,8 +40002,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,865 |
-| Normal | 30,090 |
+| Cloudflare | 9,866 |
+| Normal | 30,093 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
