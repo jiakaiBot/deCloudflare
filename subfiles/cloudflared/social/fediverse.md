@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,008 |
+| com | 6,011 |
 | social | 3,864 |
-| net | 3,072 |
-| org | 2,116 |
+| net | 3,073 |
+| org | 2,118 |
 | de | 2,008 |
 
 
@@ -997,6 +997,7 @@ Here's a list of public Fediverse services.
 | `adriftonthenet.com` | No |
 | `adsaminu.com` | No |
 | `adsb.pro` | No |
+| `adsei.org` | No |
 | `adstodon.com` | No |
 | `adtech.land` | No |
 | `adtech.life` | Yes |
@@ -2249,6 +2250,7 @@ Here's a list of public Fediverse services.
 | `ariustech.com` | No |
 | `arize.social` | Yes |
 | `arjanvaartjes.net` | No |
+| `arjenroos.nl` | No |
 | `arjoranta.fi` | No |
 | `ark.jp` | No |
 | `ark.lu` | No |
@@ -6565,6 +6567,7 @@ Here's a list of public Fediverse services.
 | `consensys.social` | Yes |
 | `consequenceofsound.net` | No |
 | `conservative.capital` | No |
+| `consoledated.com` | No |
 | `consolving.de` | No |
 | `conspiracydistillery.com` | No |
 | `conspiracyfiles.net` | Yes |
@@ -10313,6 +10316,7 @@ Here's a list of public Fediverse services.
 | `eulerroom.com` | No |
 | `eunach.scot` | No |
 | `eunivers.social` | No |
+| `euonymus.xyz` | Yes |
 | `eupolicy.social` | No |
 | `eupublic.social` | No |
 | `eureka.chat` | No |
@@ -13369,6 +13373,7 @@ Here's a list of public Fediverse services.
 | `gordyf.com` | Yes |
 | `gore.cam` | Yes |
 | `goredb.com` | Yes |
+| `goresee.com` | Yes |
 | `gorf.club` | No |
 | `gorf.pub` | No |
 | `gorf.space` | No |
@@ -15275,6 +15280,7 @@ Here's a list of public Fediverse services.
 | `iamernie.ca` | Yes |
 | `iametza.com` | No |
 | `iametza.eus` | No |
+| `iamglenn.be` | Yes |
 | `iamincredibly.gay` | Yes |
 | `iamjacke.com` | Yes |
 | `iamjannik.me` | No |
@@ -15437,7 +15443,7 @@ Here's a list of public Fediverse services.
 | `igotit.io` | No |
 | `igotnothin.com` | No |
 | `igotout.de` | No |
-| `igouv.fr` | No |
+| `igouv.fr` | Yes |
 | `igreally.social` | No |
 | `igu.fi` | Yes |
 | `igualdad.cf` | No |
@@ -15668,6 +15674,7 @@ Here's a list of public Fediverse services.
 | `indigo.zone` | No |
 | `indigophoenix.net` | No |
 | `inditoot.com` | Yes |
+| `indivia.net` | No |
 | `indoario.xyz` | No |
 | `indologylive.org` | No |
 | `indoors.club` | No |
@@ -24725,6 +24732,7 @@ Here's a list of public Fediverse services.
 | `no-ip.info` | No |
 | `no-ip.org` | No |
 | `no-one.dev` | Yes |
+| `no-operation.zone` | No |
 | `no-pony.farm` | No |
 | `no-thoccs.cc` | No |
 | `no-trace.de` | No |
@@ -28628,6 +28636,7 @@ Here's a list of public Fediverse services.
 | `qunagi.net` | No |
 | `qunaud.xyz` | No |
 | `qunn.eu` | Yes |
+| `qunnen.one` | Yes |
 | `qunok.com` | Yes |
 | `quod.pl` | No |
 | `quodlibet.social` | No |
@@ -31267,6 +31276,7 @@ Here's a list of public Fediverse services.
 | `sffpc.io` | Yes |
 | `sfgreens.org` | No |
 | `sflan.uk` | Yes |
+| `sfsfc.org` | No |
 | `sfss.space` | No |
 | `sfstandard.com` | Yes |
 | `sftblw.moe` | Yes |
@@ -37041,6 +37051,7 @@ Here's a list of public Fediverse services.
 | `vacantmastodon.ca` | No |
 | `vacatureforum.nl` | Yes |
 | `vachon.club` | No |
+| `vachzar.com` | Yes |
 | `vacunt.tk` | No |
 | `vacuous.one` | No |
 | `vacuussententia.net` | No |
@@ -40002,8 +40013,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,866 |
-| Normal | 30,093 |
+| Cloudflare | 9,872 |
+| Normal | 30,098 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
