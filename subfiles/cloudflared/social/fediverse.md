@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,864 |
 | net | 3,074 |
 | org | 2,118 |
-| de | 2,008 |
+| de | 2,009 |
 
 
 - Mastodon, Pleroma, etc
@@ -33808,6 +33808,7 @@ Here's a list of public Fediverse services.
 | `sysinfra.info` | No |
 | `sysk-work.net` | Yes |
 | `syslog.eu` | Yes |
+| `syslul.de` | Yes |
 | `sysmike.net` | No |
 | `sysprotect.eu` | No |
 | `syspxl.xyz` | Yes |
@@ -40020,7 +40021,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,877 |
+| Cloudflare | 9,878 |
 | Normal | 30,100 |
 
 
