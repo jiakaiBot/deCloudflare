@@ -4640,6 +4640,7 @@ Here's a list of public Fediverse services.
 | `brockha.us` | No |
 | `brocks.social` | No |
 | `brocolis.party` | No |
+| `brocosoup.fr` | No |
 | `brodi.me` | Yes |
 | `brodi.space` | Yes |
 | `brody.zone` | No |
@@ -31644,6 +31645,7 @@ Here's a list of public Fediverse services.
 | `silat.cloud` | No |
 | `silba.me` | No |
 | `silberkind.de` | No |
+| `silbernagel.dev` | Yes |
 | `silberpixel.net` | No |
 | `sileachim.net` | No |
 | `silence-project.org` | No |
@@ -40021,8 +40023,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,878 |
-| Normal | 30,100 |
+| Cloudflare | 9,879 |
+| Normal | 30,101 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
