@@ -278,6 +278,7 @@ Do not create new issue or we will close it as duplicate.
 | [abraizahmed@twitter](https://twitter.com/abraizahmed/status/1603983615255351298) | advertise |
 | [abrar31820285@twitter](https://twitter.com/abrar31820285/status/1585631033071783944) | advertise |
 | [Abre74180404@twitter](https://twitter.com/Abre74180404/status/1396704011009413120) | advertise |
+| [abshireto33@twitter](https://twitter.com/abshireto33/status/1638831403281383424) | advertise |
 | [AbuDaudAhmad1@twitter](https://twitter.com/AbuDaudAhmad1/status/1546309538747678720) | advertise |
 | [ABUMUHAMMEDDRA1@twitter](https://twitter.com/ABUMUHAMMEDDRA1/status/1548655532004614144) | advertise |
 | [abusolegal@twitter](https://twitter.com/abusolegal/status/1516444548653854724) | advertise |
@@ -319,6 +320,7 @@ Do not create new issue or we will close it as duplicate.
 | [adel16177163@twitter](https://twitter.com/adel16177163/status/1581670066755862528) | advertise |
 | [adel81764908@twitter](https://twitter.com/adel81764908/status/1377549585057423363) | advertise |
 | [adelladellaide@twitter](https://twitter.com/adelladellaide/status/1549426552412090373) | advertise |
+| [AdelSara12@twitter](https://twitter.com/AdelSara12/status/1638829506893938690) | advertise |
 | [adelxsaidx@twitter](https://twitter.com/adelxsaidx/status/1380592782633545734) | advertise |
 | [Adel_Abdada@twitter](https://twitter.com/Adel_Abdada/status/1514528584110686212) | advertise |
 | [AdemoyejeSeun@twitter](https://twitter.com/AdemoyejeSeun/status/1571106868763951105) | advertise |
@@ -3993,6 +3995,7 @@ Do not create new issue or we will close it as duplicate.
 | [hn40147@twitter](https://twitter.com/hn40147/status/1515949214903111682) | advertise |
 | [Hn53502@twitter](https://twitter.com/Hn53502/status/1500090041405952007) | advertise |
 | [hnd_25251325@twitter](https://twitter.com/hnd_25251325/status/1628937087654436864) | advertise |
+| [Hng04829199@twitter](https://twitter.com/Hng04829199/status/1638842640069431297) | advertise |
 | [hng8_qun@twitter](https://twitter.com/hng8_qun/status/1534239549207252992) | advertise |
 | [Hng25016334@twitter](https://twitter.com/Hng25016334/status/1404028778926403584) | advertise |
 | [hng49153156@twitter](https://twitter.com/hng49153156/status/1395678619909771266) | advertise |
