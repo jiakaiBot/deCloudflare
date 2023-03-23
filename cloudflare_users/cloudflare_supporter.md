@@ -7409,6 +7409,7 @@ Do not create new issue or we will close it as duplicate.
 | [MutDean@twitter](https://twitter.com/MutDean/status/1390486451867901961) | advertise |
 | [muthan14383@twitter](https://twitter.com/muthan14383/status/1393563436575989764) | advertise |
 | [muthusblog@twitter](https://twitter.com/muthusblog/status/1387977153954807808) | advertise |
+| [mutnauQuantum@twitter](https://twitter.com/mutnauQuantum/status/1638884930896957440) | advertise |
 | [muzzadatukMuzaf@twitter](https://twitter.com/muzzadatukMuzaf/status/1536250143518777344) | advertise |
 | [muzzammilmpr@twitter](https://twitter.com/muzzammilmpr/status/1386511376730841090) | advertise |
 | [MuzzaMuzzaMuzz@twitter](https://twitter.com/MuzzaMuzzaMuzz/status/1609817033792946176) | advertise |
