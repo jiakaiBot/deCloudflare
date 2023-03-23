@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,014 |
-| social | 3,864 |
-| net | 3,074 |
+| com | 6,016 |
+| social | 3,866 |
+| net | 3,076 |
 | org | 2,118 |
-| de | 2,009 |
+| de | 2,011 |
 
 
 - Mastodon, Pleroma, etc
@@ -8021,6 +8021,7 @@ Here's a list of public Fediverse services.
 | `defcon42.net` | No |
 | `defective.work` | No |
 | `defelo.de` | Yes |
+| `defencegeeks.net` | No |
 | `defenders.town` | Yes |
 | `defenestrate.it` | Yes |
 | `deferpanic.dev` | No |
@@ -8392,6 +8393,7 @@ Here's a list of public Fediverse services.
 | `diagonalley.club` | No |
 | `dialectica.red` | No |
 | `dialog.pics` | No |
+| `dialogstadt.de` | No |
 | `dialogundsinn.com` | No |
 | `dialogundsinn.de` | No |
 | `dialup.cafe` | No |
@@ -8657,6 +8659,7 @@ Here's a list of public Fediverse services.
 | `divas.joburg` | No |
 | `divbot.com` | No |
 | `divecoaching.com.au` | No |
+| `diverge.gg` | Yes |
 | `diveright.net` | No |
 | `diversispiritus.net.br` | No |
 | `diversity.kitchen` | No |
@@ -15947,6 +15950,7 @@ Here's a list of public Fediverse services.
 | `inveos.com` | No |
 | `inverse.moe` | No |
 | `invicious.net` | No |
+| `invillage-outvillage.com` | Yes |
 | `invincible.ink` | No |
 | `invisible-republic.blog` | No |
 | `invisible.ch` | No |
@@ -17147,6 +17151,7 @@ Here's a list of public Fediverse services.
 | `justec.co.uk` | No |
 | `justfollow.me.uk` | No |
 | `justgage.blog` | No |
+| `justice.tech` | No |
 | `justicewarrior.social` | No |
 | `justin-und-florian.de` | Yes |
 | `justinbremer.com` | No |
@@ -17722,6 +17727,7 @@ Here's a list of public Fediverse services.
 | `kfet.io` | Yes |
 | `kfitz.info` | No |
 | `kfogel.org` | No |
+| `kfz-pfeiffer.com` | No |
 | `kg2.com` | Yes |
 | `kghorvath.com` | Yes |
 | `kglcd.ca` | No |
@@ -19921,6 +19927,7 @@ Here's a list of public Fediverse services.
 | `lovelive-mstdn.com` | No |
 | `lovelive-sip.org` | No |
 | `lovelive-ss.com` | Yes |
+| `lovelive.net` | No |
 | `lovelive.social` | No |
 | `lovelyfamilymm.com` | Yes |
 | `lovemoe.net` | Yes |
@@ -26824,7 +26831,7 @@ Here's a list of public Fediverse services.
 | `peertube.fr` | No |
 | `peertube.host` | No |
 | `peertube.io` | No |
-| `peertube.it` | No |
+| `peertube.it` | Yes |
 | `peertube.jp.net` | No |
 | `peertube.live` | Yes |
 | `peertube.lol` | No |
@@ -26945,7 +26952,7 @@ Here's a list of public Fediverse services.
 | `permaweb.io` | No |
 | `perorin.jp` | No |
 | `perriot.fr` | No |
-| `perron-tube.de` | No |
+| `perron-tube.de` | Yes |
 | `perron.live` | No |
 | `persadon.com` | No |
 | `persia.social` | No |
@@ -28529,6 +28536,7 @@ Here's a list of public Fediverse services.
 | `quasi.social` | No |
 | `quasireal.ca` | Yes |
 | `quasivoid.net` | No |
+| `quass.social` | Yes |
 | `quasselfritze.de` | No |
 | `quasselkopf.de` | No |
 | `quasstodon.social` | Yes |
@@ -28602,6 +28610,7 @@ Here's a list of public Fediverse services.
 | `quietude.space` | No |
 | `quietus.ca` | Yes |
 | `quigleys.org` | No |
+| `quigs.blog` | Yes |
 | `quine.codes` | No |
 | `quinlan.cloud` | Yes |
 | `quinnter.net` | No |
@@ -29453,7 +29462,7 @@ Here's a list of public Fediverse services.
 | `retrocomputing.at` | No |
 | `retrodev.social` | No |
 | `retrodigital.net` | No |
-| `retrodivergent.com` | No |
+| `retrodivergent.com` | Yes |
 | `retrodon.jp` | No |
 | `retrodon.net` | No |
 | `retroedge.tech` | No |
@@ -31114,6 +31123,7 @@ Here's a list of public Fediverse services.
 | `selbach.dev` | No |
 | `selbach.social` | No |
 | `selbsthilfe.social` | No |
+| `selbsthilfewerkstatt-lankwitz.de` | No |
 | `selden.page` | No |
 | `seldo.dev` | No |
 | `selea.se` | No |
@@ -34075,6 +34085,7 @@ Here's a list of public Fediverse services.
 | `tapferimnirgendwo.com` | No |
 | `tapi.cafe` | No |
 | `tapir.social` | No |
+| `tappenden.social` | Yes |
 | `tappret.fr` | No |
 | `taprest.fr` | No |
 | `taprix.org` | No |
@@ -40022,8 +40033,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,879 |
-| Normal | 30,100 |
+| Cloudflare | 9,887 |
+| Normal | 30,103 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
