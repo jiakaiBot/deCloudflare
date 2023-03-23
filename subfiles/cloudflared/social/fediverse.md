@@ -19836,7 +19836,6 @@ Here's a list of public Fediverse services.
 | `lore.monster` | Yes |
 | `lorem.club` | No |
 | `loren.pics` | No |
-| `lorenzana.engineer` | No |
 | `lorenzi.one` | Yes |
 | `lorenzoancora.info` | No |
 | `loria.fr` | No |
@@ -40024,7 +40023,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,879 |
-| Normal | 30,101 |
+| Normal | 30,100 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
