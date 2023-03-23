@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,011 |
+| com | 6,012 |
 | social | 3,864 |
 | net | 3,073 |
 | org | 2,118 |
@@ -23165,6 +23165,7 @@ Here's a list of public Fediverse services.
 | `mstdn-seelsorge.com` | No |
 | `mstdn-server.jp` | No |
 | `mstdn-shinshu.com` | No |
+| `mstdn-social.com` | Yes |
 | `mstdn-tech.jp` | No |
 | `mstdn-tw.com` | No |
 | `mstdn-uragi.jp` | No |
@@ -40013,7 +40014,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,872 |
+| Cloudflare | 9,873 |
 | Normal | 30,098 |
 
 
