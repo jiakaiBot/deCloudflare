@@ -29,7 +29,6 @@ Here's a list of public Matrix services.
 | anonymousland.org | No |
 | matrix.archaeo.social | No |
 | matrix.arcticfoxes.net | Yes |
-| aria.im | No |
 | asra.gr | No |
 | matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
@@ -137,7 +136,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 23 |
-| Normal | 86 |
+| Normal | 85 |
 
 
-### 21.1% of public Matrix services are using Cloudflare.
+### 21.3% of public Matrix services are using Cloudflare.
