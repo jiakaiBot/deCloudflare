@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,012 |
+| com | 6,014 |
 | social | 3,864 |
-| net | 3,073 |
+| net | 3,074 |
 | org | 2,118 |
 | de | 2,008 |
 
@@ -8246,6 +8246,7 @@ Here's a list of public Fediverse services.
 | `detektor.fm` | Yes |
 | `detmi.social` | No |
 | `detoffol.com` | No |
+| `detomu.net` | No |
 | `detrended.net` | Yes |
 | `detroitriotcity.com` | Yes |
 | `dettenheim.social` | No |
@@ -18133,6 +18134,7 @@ Here's a list of public Fediverse services.
 | `kokt.club` | Yes |
 | `kokuchidon.net` | No |
 | `kokuda.org` | No |
+| `kokuzei.cyou` | Yes |
 | `kola.ml` | No |
 | `kolektiva.media` | Yes |
 | `kolektiva.social` | Yes |
@@ -22250,6 +22252,7 @@ Here's a list of public Fediverse services.
 | `minakodon.jp` | No |
 | `minamina3710.com` | No |
 | `minarin.moe` | No |
+| `minazukey.uk` | Yes |
 | `minbash.de` | Yes |
 | `mince.network` | No |
 | `mince.place` | No |
@@ -22558,6 +22561,7 @@ Here's a list of public Fediverse services.
 | `mmk.works` | Yes |
 | `mmk2410.org` | No |
 | `mmmalia.com` | No |
+| `mmmlt.com` | No |
 | `mmn-o.se` | No |
 | `mmn.on.ca` | Yes |
 | `mmodon.online` | No |
@@ -26192,6 +26196,7 @@ Here's a list of public Fediverse services.
 | `ots.social` | No |
 | `otsoku.me` | No |
 | `otsuka.haus` | No |
+| `otsumami.bar` | Yes |
 | `otta.world` | No |
 | `ottawa.party` | Yes |
 | `ottawa.place` | No |
@@ -31449,6 +31454,7 @@ Here's a list of public Fediverse services.
 | `shiro.dog` | No |
 | `shiro.ink` | Yes |
 | `shiroganedon.net` | No |
+| `shirokurostone.com` | Yes |
 | `shironeko.pro` | No |
 | `shirtless.gay` | Yes |
 | `shiru.social` | Yes |
@@ -40014,8 +40020,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,873 |
-| Normal | 30,098 |
+| Cloudflare | 9,877 |
+| Normal | 30,100 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
