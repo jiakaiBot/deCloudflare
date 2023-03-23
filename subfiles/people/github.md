@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [nio.exceptions.LocalProtocolError: Matrix store and olm account is not loaded](https://github.com/poljar/weechat-matrix/issues/347)
 - [how to avoid error when making many calls?](https://github.com/klaviyo/klaviyo-api-python/issues/15)
 - [Cloudflare adapter crypto.subtle undefined](https://github.com/nowaythatworked/auth-astro/issues/14)
 - [What is the best protocol for x-ui and personal usage?](https://github.com/net4people/bbs/issues/234)
