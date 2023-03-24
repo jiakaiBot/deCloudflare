@@ -542,6 +542,7 @@ Here's a list of breached sites.
 | TheCandidBoard (The Candid Board) | 178,201 | No |
 | TheFappening (The Fappening) | 179,030 | Yes |
 | TheFlyOnTheWall (The Fly on the Wall) | 84,011 | Yes |
+| TheGradCafe | 310,975 | Yes |
 | TheTVDB (TheTVDB.com) | 181,871 | Yes |
 | Thingiverse | 228,102 | Yes |
 | ThisHabboForum (ThisHabbo Forum) | 612,414 | No |
@@ -657,10 +658,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 346 | 3,847,377,536 |
+| Cloudflare | 347 | 3,847,688,511 |
 | Normal | 290 | 4,962,772,762 |
 
 
 
-### 54.4% of breached sites (pwned sites) are using Cloudflare.
+### 54.5% of breached sites (pwned sites) are using Cloudflare.
 ### 43.7% of leaked accounts are on Cloudflare sites.
