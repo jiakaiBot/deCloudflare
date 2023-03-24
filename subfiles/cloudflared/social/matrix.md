@@ -22,7 +22,6 @@ Here's a list of public Matrix services.
 | Service | Cloudflared |
 | --- | --- |
 | 0wnz.at | No |
-| matrix.4d2.org | No |
 | agdersam.no | No |
 | riot.allmende.io | No |
 | alternanet.fr | No |
@@ -55,7 +54,6 @@ Here's a list of public Matrix services.
 | matrix.dieandalusier.net | No |
 | matrix.duesen.chat | No |
 | matrix.envs.net | No |
-| matrix.evulid.cc | Yes |
 | exarius.org | No |
 | matrix.fachschaften.org | No |
 | feneas.org | No |
@@ -104,7 +102,6 @@ Here's a list of public Matrix services.
 | pcriot.org | Yes |
 | matrix.perthchat.org | Yes |
 | matrix.pikaviestin.fi | No |
-| matrix.plus.st | No |
 | pragma-messenger.ch | No |
 | www.privacytools.io | Yes |
 | matrix.pub.solar | No |
@@ -115,7 +112,6 @@ Here's a list of public Matrix services.
 | matrix.sans-nuage.fr | No |
 | matrix.sibnsk.net | No |
 | socialnetwork24.com | No |
-| matrix.studichat.de | No |
 | synod.im | No |
 | matrix.tchncs.de | No |
 | matrix.techsaviours.org | No |
@@ -136,8 +132,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 23 |
-| Normal | 86 |
+| Cloudflare | 22 |
+| Normal | 83 |
 
 
-### 21.1% of public Matrix services are using Cloudflare.
+### 21% of public Matrix services are using Cloudflare.
