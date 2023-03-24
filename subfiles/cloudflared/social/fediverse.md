@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,021 |
-| social | 3,866 |
-| net | 3,077 |
+| social | 3,867 |
+| net | 3,078 |
 | org | 2,118 |
 | de | 2,011 |
 
@@ -6001,6 +6001,7 @@ Here's a list of public Fediverse services.
 | `cjlm.ca` | Yes |
 | `cjqx.xyz` | Yes |
 | `cjslep.com` | No |
+| `ck.waw.pl` | No |
 | `ckbit.ch` | No |
 | `ckcycling.com` | No |
 | `ckfb.cc` | No |
@@ -13114,6 +13115,7 @@ Here's a list of public Fediverse services.
 | `glenelg.io` | Yes |
 | `glenelg.social` | Yes |
 | `glenetive.org` | No |
+| `glenn.world` | No |
 | `glennfitzpatrick.com` | No |
 | `glennon.online` | Yes |
 | `glenparva.com` | No |
@@ -14958,6 +14960,7 @@ Here's a list of public Fediverse services.
 | `hosnet.fr` | No |
 | `hosszu.social` | No |
 | `hostc.at` | No |
+| `hostcheetah.social` | Yes |
 | `hostdon.jp` | No |
 | `hostdon.ne.jp` | Yes |
 | `hostdon.net` | No |
@@ -27673,7 +27676,7 @@ Here's a list of public Fediverse services.
 | `poggiolo.org` | No |
 | `pogmommy.gay` | No |
 | `pogo.community` | Yes |
-| `pogs.cafe` | No |
+| `pogs.cafe` | Yes |
 | `pohvii.cloud` | Yes |
 | `poiar.es` | Yes |
 | `poincare.one` | No |
@@ -28938,6 +28941,7 @@ Here's a list of public Fediverse services.
 | `random.systems` | No |
 | `random101.net` | Yes |
 | `randombits.host` | Yes |
+| `randombyte.net` | No |
 | `randomcat.org` | No |
 | `randomchatss.xyz` | No |
 | `randomcloud.io` | Yes |
@@ -40044,8 +40048,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,888 |
-| Normal | 30,113 |
+| Cloudflare | 9,890 |
+| Normal | 30,115 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
