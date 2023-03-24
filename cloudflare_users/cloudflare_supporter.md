@@ -6151,6 +6151,7 @@ Do not create new issue or we will close it as duplicate.
 | [Linh85120294@twitter](https://twitter.com/Linh85120294/status/1485994548753010690) | advertise |
 | [linhhne1011@twitter](https://twitter.com/linhhne1011/status/1387590658991349760) | advertise |
 | [LinhL17497891@twitter](https://twitter.com/LinhL17497891/status/1546120295861620736) | advertise |
+| [linhlaamx@twitter](https://twitter.com/linhlaamx/status/1639277210623197187) | advertise |
 | [LinhLe31178992@twitter](https://twitter.com/LinhLe31178992/status/1381882539661426689) | advertise |
 | [LinhNgu21248784@twitter](https://twitter.com/LinhNgu21248784/status/1402156612874248194) | advertise |
 | [Linhngu63667263@twitter](https://twitter.com/Linhngu63667263/status/1471850308200370180) | advertise |
