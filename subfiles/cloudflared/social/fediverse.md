@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,867 |
 | net | 3,078 |
 | org | 2,118 |
-| de | 2,011 |
+| de | 2,013 |
 
 
 - Mastodon, Pleroma, etc
@@ -24604,6 +24604,7 @@ Here's a list of public Fediverse services.
 | `nikisoft.one` | Yes |
 | `nikkel.xyz` | Yes |
 | `nikkisocial.com` | No |
+| `niklas-meinzer.de` | No |
 | `niklas.life` | Yes |
 | `niklas.network` | No |
 | `niklas.social` | No |
@@ -34533,6 +34534,7 @@ Here's a list of public Fediverse services.
 | `tetaneutral.net` | No |
 | `tetragir.com` | No |
 | `tetrarch.co` | Yes |
+| `tetrax.de` | No |
 | `tetrisfreak.org` | No |
 | `tetsugaku.place` | No |
 | `tetsujin.work` | No |
@@ -40052,7 +40054,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,894 |
-| Normal | 30,114 |
+| Normal | 30,116 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
