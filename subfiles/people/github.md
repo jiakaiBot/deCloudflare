@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ERR_CONNECTION_REFUSED happening again](https://github.com/linuxserver/docker-swag/issues/353)
 - [Check "*.doppiocdn.com" / "*.doppiocdn.org"](https://github.com/badmojr/1Hosts/issues/1243)
 - [v1.3.22 - continual sync errors](https://github.com/RickDB/PlexAniSync/issues/186)
 - [Language server error: Python UNABLE_TO_GET_ISSUER_CERT_LOCALLY](https://github.com/zed-industries/community/issues/1290)
