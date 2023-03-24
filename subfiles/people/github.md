@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Language server error: Python UNABLE_TO_GET_ISSUER_CERT_LOCALLY](https://github.com/zed-industries/community/issues/1290)
+- [CFWorkers / Oxygen support](https://github.com/ascorbic/get-pixels/issues/3)
 - [nio.exceptions.LocalProtocolError: Matrix store and olm account is not loaded](https://github.com/poljar/weechat-matrix/issues/347)
 - [how to avoid error when making many calls?](https://github.com/klaviyo/klaviyo-api-python/issues/15)
 - [Cloudflare adapter crypto.subtle undefined](https://github.com/nowaythatworked/auth-astro/issues/14)
