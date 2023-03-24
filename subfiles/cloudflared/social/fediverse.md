@@ -32200,6 +32200,7 @@ Here's a list of public Fediverse services.
 | `sngsk.info` | No |
 | `sniff122.tech` | Yes |
 | `snipesearch.co.uk` | Yes |
+| `snipetteville.in` | No |
 | `snircle.space` | No |
 | `snld.ca` | No |
 | `snmsoc.org` | No |
@@ -40049,7 +40050,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,890 |
-| Normal | 30,115 |
+| Normal | 30,116 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
