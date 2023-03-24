@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [v1.3.22 - continual sync errors](https://github.com/RickDB/PlexAniSync/issues/186)
 - [Language server error: Python UNABLE_TO_GET_ISSUER_CERT_LOCALLY](https://github.com/zed-industries/community/issues/1290)
 - [CFWorkers / Oxygen support](https://github.com/ascorbic/get-pixels/issues/3)
 - [nio.exceptions.LocalProtocolError: Matrix store and olm account is not loaded](https://github.com/poljar/weechat-matrix/issues/347)
