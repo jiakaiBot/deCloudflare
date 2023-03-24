@@ -769,6 +769,7 @@ Do not create new issue or we will close it as duplicate.
 | [AnhCa22@twitter](https://twitter.com/AnhCa22/status/1552339975173132289) | advertise |
 | [AnhChan82814034@twitter](https://twitter.com/AnhChan82814034/status/1391898698888585216) | advertise |
 | [AnhChinNguyn@twitter](https://twitter.com/AnhChinNguyn/status/1552377608280502273) | advertise |
+| [Anhchun81345112@twitter](https://twitter.com/Anhchun81345112/status/1639266248545509378) | advertise |
 | [AnhDen160399@twitter](https://twitter.com/AnhDen160399/status/1553966645219328000) | advertise |
 | [anhdetien99@twitter](https://twitter.com/anhdetien99/status/1397575707610402826) | advertise |
 | [Anhdh1707@twitter](https://twitter.com/Anhdh1707/status/1630116991729299457) | advertise |
@@ -5526,8 +5527,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6188,6 +6189,7 @@ Do not create new issue or we will close it as duplicate.
 | [LiquiditySwap@twitter](https://twitter.com/LiquiditySwap/status/1455310349893308420) | advertise |
 | [liquidman257@twitter](https://twitter.com/liquidman257/status/1557792965296361474) | advertise |
 | [liran7771@twitter](https://twitter.com/liran7771/status/1379709126905901061) | advertise |
+| [lishouping1@twitter](https://twitter.com/lishouping1/status/1639173214420205568) | advertise |
 | [litebias@twitter](https://twitter.com/litebias/status/1486357079057403906) | advertise |
 | [literallyksmk@twitter](https://twitter.com/literallyksmk/status/1398613079546605570) | advertise |
 | [littleb41455848@twitter](https://twitter.com/littleb41455848/status/1391813235620257792) | advertise |
