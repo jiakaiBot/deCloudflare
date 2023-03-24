@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,021 |
+| com | 6,022 |
 | social | 3,867 |
 | net | 3,078 |
 | org | 2,118 |
@@ -33465,6 +33465,7 @@ Here's a list of public Fediverse services.
 | `such.technology` | No |
 | `suchsecurity.com` | Yes |
 | `suchtbasis.de` | No |
+| `sucinum.com` | Yes |
 | `suckersforstatus.social` | No |
 | `sudacode.com` | Yes |
 | `sudduth.me` | No |
@@ -40049,7 +40050,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,890 |
+| Cloudflare | 9,891 |
 | Normal | 30,116 |
 
 
