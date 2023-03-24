@@ -31571,6 +31571,7 @@ Here's a list of public Fediverse services.
 | `shrimpguild.social` | No |
 | `shrimpia.network` | Yes |
 | `shrimply.social` | No |
+| `shrimpposter.club` | No |
 | `shrine.moe` | Yes |
 | `shrn.co` | Yes |
 | `shroom.party` | No |
@@ -40044,7 +40045,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,888 |
-| Normal | 30,112 |
+| Normal | 30,113 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
