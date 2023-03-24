@@ -89,7 +89,6 @@ sberbank.avito.git.git.git.covid19.youhollywood.com
 sberbank.www.avito.git.git.git.covid19.youhollywood.com
 scsapp01.hk.yusen-logistics.com
 servicedesk.yyproductions.net
-signln-accountapp1e.ymsdszx.com
 sportcenter.yadika.or.id
 static.0.171.107.91.clients.your-server.de
 support.annzon.co.yinlepian.com
@@ -428,6 +427,7 @@ backoffice.yape.com.pe
 bba-ca.yourdomain.com
 blog.yannakas.me
 blog.yourdesignjuice.com
+booking.yolofitness.com.my
 booking.youthtool.kr
 cactus-2.yipikay.com
 camp-japan.net.yazooweb.net
@@ -453,6 +453,7 @@ er-ext-api.yesbank.in
 estatement.yesbank.in
 events.ydr.com
 extranet.yooteam.fr
+feedback.yourlocalreview.com
 fetrade.yuanta.com.tw
 git.git.git.git.goffice365.yalecarolinas.com
 git.gitlab.smail.yugprom.com
@@ -493,6 +494,7 @@ squote.yuanta.com.tw
 ssl.ybmky.com
 static.212.167.109.65.clients.your-server.de
 top15posts.youngpetals.net
+tv.yahoo.co.jp
 upload.youtube.com
 v-al5r12ca4i.wc.yahoodns.net
 v-b14znqldkp.wc.yahoodns.net
@@ -502,6 +504,7 @@ v-bdtwvm6i54.wc.yahoodns.net
 v-bptqzun1e7.wc.yahoodns.net
 v-c1sw1a0qba.wc.yahoodns.net
 v-cheds4nwbl.wc.yahoodns.net
+verify.yesatoz.com
 vpn.yucca.app
 weathermaps.s3.yandex.net
 web02.yuntech.edu.tw
@@ -510,6 +513,7 @@ webmail.youngacting.at
 www.ard.yapima.sch.id
 www.auth.youtubethumbs.pics
 www.billing.yourschoice.club
+www.booking.yolofitness.com.my
 www.city.yachimata.lg.jp
 www.contoh.yudita.my.id
 www.crm.yapialuminyum.com
@@ -523,6 +527,7 @@ www.mahiryapi.yusufpinarbasi.com.tr
 www.oktamia.yukundang.com
 www.payment.yummyistanbul.com
 www.post.yefi.site
+www.ppdbma.yapimjaya.sch.id
 www.site.yahoosoundproofing.com
 www.support.yoshope.com
 www.symphonyofsteam.yilong.com.au
@@ -532,6 +537,9 @@ www.yachtservice-laboe.de
 www.yajagoff.com
 www.yamandbean.com
 www.yandex-specialist.ru
+www.yandex-tula.ru
+www.yandexgotaxi.com
+www.yandexprotaxi.com
 www.yankton.net
 www.yapianalizi.com.tr
 www.yapidanismanlik.com
@@ -565,15 +573,23 @@ www.yourfuturecredit.com
 www.yourgoatdairy.com
 www.yourmomentsmedia.com
 www.yours4thetaking.com
+www.yourtime.no
 www.yourturnow.com
+www.youtubebulkviews.com
 www.ypflyinggroup.com
 www.yumamobiletireservice.com
 www.yummysprout.com
+y-12fcu.org
 y3rt.com
 yabs.yandex.ru
+yahooahoohoo.com
 yahoomailsupportphonenumber.com
+yahoorural.com
+yamadaya-shop.jp
 yamaonline.co.il
 yamunalandbank.com
+yandex-go.online
+yandex-probki.online
 yanitesto-id.xyz
 yapianaliz.com.tr
 yapianalizi.com.tr
@@ -610,13 +626,16 @@ yesmsmeonline.yesbank.in
 yetch.store
 yeudongvat.org
 yevheniikhudolii.foundation
+ygithub.com
 yhfaadddd2.top
 yhfsajfk1.top
 yhfsajfk3.top
 yhfsajfk5.top
 yilanhotel.tw
+yinrh.shop
 yinyang-verlag.de
 yklemebkkyy.com.tr
+ylhidildr64uer.shop
 yodecidocomo.com
 yogapilateslondon.com
 yogpeethbooking.in
@@ -650,6 +669,7 @@ yqsoft2023.top
 ys.style
 yssoft2023.top
 ytali.com
+yucheng-skin.com
 yueliangzxwzfby1.cyou
 yugiwheeler.com
 yulizarpost.com
