@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,016 |
+| com | 6,017 |
 | social | 3,866 |
 | net | 3,076 |
 | org | 2,118 |
@@ -4926,6 +4926,7 @@ Here's a list of public Fediverse services.
 | `bytepark.social` | No |
 | `bytepirate.org` | No |
 | `byter.io` | Yes |
+| `bytesandpenguins.com` | Yes |
 | `bytesexual.net` | No |
 | `byteshift.io` | No |
 | `bytesize.social` | Yes |
@@ -6766,6 +6767,7 @@ Here's a list of public Fediverse services.
 | `cox.rocks` | Yes |
 | `coxy.co` | Yes |
 | `coy.soy` | No |
+| `coyote.name` | No |
 | `coyote.social` | No |
 | `coyotelot.us` | No |
 | `coyotesin.space` | Yes |
@@ -40033,8 +40035,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,887 |
-| Normal | 30,103 |
+| Cloudflare | 9,888 |
+| Normal | 30,104 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
