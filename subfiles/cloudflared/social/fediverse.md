@@ -1786,7 +1786,7 @@ Here's a list of public Fediverse services.
 | `andri.dk` | Yes |
 | `andrich.me` | No |
 | `andrii.is` | No |
-| `andrillon.net` | No |
+| `andrillon.net` | Yes |
 | `andrlik.org` | No |
 | `android-user.club` | No |
 | `androidauthority.com` | Yes |
@@ -7976,6 +7976,7 @@ Here's a list of public Fediverse services.
 | `deckard.pub` | Yes |
 | `deckc.hair` | No |
 | `declanbyrd.co.uk` | No |
+| `declin.eu` | No |
 | `decoding.io` | No |
 | `decompiled.dev` | No |
 | `deconstruccion.social` | No |
@@ -31013,7 +31014,7 @@ Here's a list of public Fediverse services.
 | `seaside.cafe` | No |
 | `seaswallow.me` | Yes |
 | `seattle.cafe` | No |
-| `seattle.wa.us` | Yes |
+| `seattle.wa.us` | No |
 | `seattlebikeblog.com` | Yes |
 | `seattlebus.space` | No |
 | `seattlematrix.org` | No |
@@ -40054,7 +40055,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,894 |
-| Normal | 30,116 |
+| Normal | 30,117 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
