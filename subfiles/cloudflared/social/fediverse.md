@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,017 |
+| com | 6,021 |
 | social | 3,866 |
-| net | 3,076 |
+| net | 3,077 |
 | org | 2,118 |
 | de | 2,011 |
 
@@ -779,6 +779,7 @@ Here's a list of public Fediverse services.
 | `abq.actor` | Yes |
 | `abraham.social` | No |
 | `abraham.su` | No |
+| `abrajam.com` | Yes |
 | `abraka-dabra.sk` | No |
 | `abramov.org` | No |
 | `abramson.dev` | No |
@@ -11905,6 +11906,7 @@ Here's a list of public Fediverse services.
 | `freeside.cafe` | Yes |
 | `freeside.online` | No |
 | `freeskate.fr` | No |
+| `freesky.im` | No |
 | `freesocial.co` | Yes |
 | `freesoftwareextremist.com` | No |
 | `freespeech.chat` | Yes |
@@ -13318,6 +13320,7 @@ Here's a list of public Fediverse services.
 | `goldfamily.social` | No |
 | `goldingerit.ch` | No |
 | `gole.tz` | No |
+| `golf-olszewka.pl` | No |
 | `golfdn.com` | No |
 | `golfis.fun` | No |
 | `golgy.net` | Yes |
@@ -13665,6 +13668,7 @@ Here's a list of public Fediverse services.
 | `groupthink.fun` | No |
 | `growcollective.art` | No |
 | `growers.social` | Yes |
+| `growplugins.com` | No |
 | `growthers.dev` | Yes |
 | `growyourown.services` | No |
 | `groyp.xyz` | No |
@@ -14078,6 +14082,7 @@ Here's a list of public Fediverse services.
 | `haojia-wu.com` | No |
 | `haolit.de` | No |
 | `haoyayoi.net` | No |
+| `happenon.net` | Yes |
 | `happens.horse` | No |
 | `happyjesus.online` | No |
 | `happykraken.net` | Yes |
@@ -15806,7 +15811,7 @@ Here's a list of public Fediverse services.
 | `inn4tel.social` | No |
 | `inndy.tw` | Yes |
 | `innernette.social` | Yes |
-| `innerwebs.social` | Yes |
+| `innerwebs.social` | No |
 | `innkeep.co` | No |
 | `innkeepergames.com` | No |
 | `inno3.cricket` | No |
@@ -18777,6 +18782,7 @@ Here's a list of public Fediverse services.
 | `larryrusswurm.com` | No |
 | `larrysanger.org` | Yes |
 | `larsen.social` | No |
+| `larsfosdal.blog` | No |
 | `larsreineke.de` | No |
 | `larvata.com` | No |
 | `las.rs` | No |
@@ -25450,7 +25456,7 @@ Here's a list of public Fediverse services.
 | `occitanie.social` | No |
 | `occm.cc` | Yes |
 | `occult-zuki.com` | No |
-| `occult.camp` | Yes |
+| `occult.camp` | No |
 | `occult.institute` | No |
 | `occult.systems` | No |
 | `occulti.ca` | No |
@@ -28904,6 +28910,7 @@ Here's a list of public Fediverse services.
 | `ramblingreaders.org` | No |
 | `ramblings.social` | Yes |
 | `ramda.io` | No |
+| `rameeznooruddin.com` | No |
 | `ramen-fsm.eu.org` | No |
 | `ramendon.jp` | No |
 | `ramirezzzz.org` | Yes |
@@ -32008,6 +32015,7 @@ Here's a list of public Fediverse services.
 | `sloane.sh` | No |
 | `slobbe.ch` | No |
 | `slonisko.cz` | No |
+| `sloppylinux.com` | No |
 | `sloth.network` | No |
 | `sloth.run` | No |
 | `slothcloud.com` | No |
@@ -40036,7 +40044,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,888 |
-| Normal | 30,104 |
+| Normal | 30,112 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
