@@ -11696,6 +11696,7 @@ Do not create new issue or we will close it as duplicate.
 | [vBizChain@twitter](https://twitter.com/vBizChain/status/1637462308569124866) | advertise |
 | [VBo08841997@twitter](https://twitter.com/VBo08841997/status/1398090624503402497) | advertise |
 | [vcdx71@twitter](https://twitter.com/vcdx71/status/1422627671654158347) | advertise |
+| [VE3XEN@twitter](https://twitter.com/VE3XEN/status/1639061373333172226) | advertise |
 | [VEDIKA940234511@twitter](https://twitter.com/VEDIKA940234511/status/1514582258476322817) | advertise |
 | [veelasakbaribon@twitter](https://twitter.com/veelasakbaribon/status/1579055768543715328) | advertise |
 | [Vegans4Trump@twitter](https://twitter.com/Vegans4Trump/status/1475146808309526534) | advertise |
