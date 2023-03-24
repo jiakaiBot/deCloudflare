@@ -255,7 +255,7 @@ Here's a list of public Fediverse services.
 | `1up.ninja` | No |
 | `1w1.in` | Yes |
 | `1w6.org` | No |
-| `1xx.io` | No |
+| `1xx.io` | Yes |
 | `2-blog.net` | No |
 | `2017derby.biz` | No |
 | `20320514.com` | No |
@@ -8367,7 +8367,7 @@ Here's a list of public Fediverse services.
 | `dgng.no` | Yes |
 | `dgoeke.io` | No |
 | `dgplug.org` | No |
-| `dgrammatiko.dev` | No |
+| `dgrammatiko.dev` | Yes |
 | `dgtl-service.com` | No |
 | `dh.social` | Yes |
 | `dharmadhatu.nl` | No |
@@ -14161,7 +14161,7 @@ Here's a list of public Fediverse services.
 | `hashem.social` | No |
 | `hashi.icu` | Yes |
 | `hashi.sbs` | Yes |
-| `hashtagueule.fr` | No |
+| `hashtagueule.fr` | Yes |
 | `hashy-net.de` | No |
 | `haskell.social` | Yes |
 | `haskovec.social` | No |
@@ -32136,6 +32136,7 @@ Here's a list of public Fediverse services.
 | `smwhr.net` | No |
 | `sn0n.com` | Yes |
 | `sn0w.observer` | No |
+| `sn4il.site` | No |
 | `snabel.party` | No |
 | `snabelen.no` | No |
 | `snabeltann.no` | No |
@@ -40050,8 +40051,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,891 |
-| Normal | 30,116 |
+| Cloudflare | 9,894 |
+| Normal | 30,114 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
