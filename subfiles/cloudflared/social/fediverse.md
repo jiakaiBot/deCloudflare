@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,023 |
-| social | 3,870 |
-| net | 3,079 |
+| com | 6,025 |
+| social | 3,871 |
+| net | 3,080 |
 | org | 2,118 |
 | de | 2,015 |
 
@@ -4085,6 +4085,7 @@ Here's a list of public Fediverse services.
 | `blogautismus.de` | No |
 | `blogblop.de` | No |
 | `blogda.ch` | No |
+| `blogelist.com` | No |
 | `blogfrei.de` | No |
 | `blogger-mstdn.com` | No |
 | `blogger.com` | No |
@@ -4766,6 +4767,7 @@ Here's a list of public Fediverse services.
 | `bugbrowser.com` | No |
 | `bugplasma.de` | No |
 | `bugs.social` | No |
+| `buhse.social` | No |
 | `buicha.social` | Yes |
 | `builders.social` | No |
 | `building7.social` | Yes |
@@ -7984,6 +7986,7 @@ Here's a list of public Fediverse services.
 | `deconstruccion.social` | No |
 | `deconstructed.social` | Yes |
 | `decredcommunity.org` | No |
+| `decremental.com` | No |
 | `decrypt.fail` | No |
 | `decuir.org` | Yes |
 | `decwebb.com` | Yes |
@@ -8974,7 +8977,7 @@ Here's a list of public Fediverse services.
 | `double-oxygen.net` | Yes |
 | `doublefree.net` | Yes |
 | `doubleloop.net` | No |
-| `doubleshine.cc` | Yes |
+| `doubleshine.cc` | No |
 | `doubleword.gq` | No |
 | `doublewordplay.com` | No |
 | `doublygood.co.uk` | No |
@@ -11253,6 +11256,7 @@ Here's a list of public Fediverse services.
 | `fifteen40.com` | No |
 | `fifthcity.social` | No |
 | `fifthdread.com` | No |
+| `fifthdread.tv` | No |
 | `fig.lt` | No |
 | `figendi.de` | No |
 | `fightforinfo.com` | No |
@@ -12482,6 +12486,7 @@ Here's a list of public Fediverse services.
 | `galacticcoders.com` | No |
 | `galacticstrip.com` | No |
 | `galad.it` | Yes |
+| `galanter.net` | No |
 | `galax.be` | No |
 | `galaxians.org` | No |
 | `galaxy-control.org` | No |
@@ -15664,6 +15669,7 @@ Here's a list of public Fediverse services.
 | `indec.net.in` | No |
 | `indefinitely.social` | No |
 | `independent-media.co.uk` | Yes |
+| `independent.ovh` | No |
 | `indesirable.org` | No |
 | `index.community` | No |
 | `indexof.co.uk` | No |
@@ -26052,7 +26058,7 @@ Here's a list of public Fediverse services.
 | `ordinarius-fectum.net` | No |
 | `ordinary.cafe` | Yes |
 | `ordinobsolete.fr` | No |
-| `ordoevangelistarum.com` | Yes |
+| `ordoevangelistarum.com` | No |
 | `ordu.re` | Yes |
 | `orebro.online` | No |
 | `orebrotribune.online` | No |
@@ -31727,6 +31733,7 @@ Here's a list of public Fediverse services.
 | `simeckuv.cloud` | No |
 | `simian.rodeo` | Yes |
 | `simio.us` | No |
+| `simionato.xyz` | Yes |
 | `simkey.net` | Yes |
 | `simmulation.com` | No |
 | `simon-a.at` | No |
@@ -37856,6 +37863,7 @@ Here's a list of public Fediverse services.
 | `walther.network` | Yes |
 | `walton-rivers.uk` | No |
 | `wamipets.com` | Yes |
+| `wampi.re` | No |
 | `wanakacommunityworkshop.org.nz` | No |
 | `wanda.hamburg` | No |
 | `wandel.social` | No |
@@ -40062,8 +40070,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,896 |
-| Normal | 30,123 |
+| Cloudflare | 9,895 |
+| Normal | 30,132 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
