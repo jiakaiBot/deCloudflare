@@ -417,9 +417,11 @@ approach.yahoo.co.jp
 article.yahoo.co.jp
 asr-stream-covid19.yating.tw
 assets.youpay.one
+auctions.yahoo.co.jp
 auth.dev-test123.younium.net
 auth.vpn.yoro.dev
 auth.youtubethumbs.pics
+autodiscover.yefplastik.com
 avito.sber.sber.avito.avito.avito.covid19.youhollywood.com
 b91.yahoo.co.jp
 b95.yahoo.co.jp
@@ -495,6 +497,7 @@ ssl.ybmky.com
 static.212.167.109.65.clients.your-server.de
 top15posts.youngpetals.net
 tv.yahoo.co.jp
+typhoon.yahoo.co.jp
 upload.youtube.com
 v-al5r12ca4i.wc.yahoodns.net
 v-b14znqldkp.wc.yahoodns.net
@@ -560,6 +563,7 @@ www.yfcofpolk.org
 www.ymmarrys.org
 www.ymparistoahdistus.fi
 www.ynw.sg
+www.yogacembra.de
 www.yogaconference.ch
 www.yogainfergus.ca
 www.yogaonyourtime.com
@@ -606,6 +610,7 @@ yay-plus.com
 yayanadriano.web.id
 yazarlaryapi.com.tr
 ybaautoservice.ro
+ybak-nusantara.org
 ybooking.com
 ybx-test.yahoo.co.jp
 yc-loyalty-ke.stage.apac.yaradigitallabs.io
