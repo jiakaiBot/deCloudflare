@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,026 |
 | social | 3,871 |
-| net | 3,080 |
-| org | 2,118 |
+| net | 3,081 |
+| org | 2,119 |
 | de | 2,015 |
 
 
@@ -1254,6 +1254,7 @@ Here's a list of public Fediverse services.
 | `akko.wtf` | No |
 | `akkoma.dev` | No |
 | `akkoma.net` | No |
+| `akkoma.net.eu.org` | No |
 | `akkoma.nl` | No |
 | `aklsh.me` | Yes |
 | `akme.ink` | Yes |
@@ -6706,6 +6707,7 @@ Here's a list of public Fediverse services.
 | `corteel.org` | No |
 | `corteximplant.com` | No |
 | `corticarte.com` | No |
+| `corvids.club` | Yes |
 | `corvus.social` | Yes |
 | `corzntin.fr` | No |
 | `cos.zone` | No |
@@ -22463,6 +22465,7 @@ Here's a list of public Fediverse services.
 | `misskey.tech` | Yes |
 | `misskey.to` | No |
 | `misskey.today` | No |
+| `misskey.town` | No |
 | `misskey.uk` | Yes |
 | `misskey.vip` | Yes |
 | `misskey.wine` | Yes |
@@ -27839,6 +27842,7 @@ Here's a list of public Fediverse services.
 | `popula.social` | No |
 | `popura.ch` | No |
 | `porchlogic.com` | Yes |
+| `porcodon.net` | No |
 | `poridge.club` | No |
 | `porkchop.express` | Yes |
 | `porkribs.social` | No |
@@ -33873,6 +33877,7 @@ Here's a list of public Fediverse services.
 | `systm.io` | Yes |
 | `systm32.xyz` | Yes |
 | `sytes.net` | Yes |
+| `syui.ai` | Yes |
 | `syui.cf` | Yes |
 | `syui.ml` | No |
 | `syuilo.dev` | Yes |
@@ -40072,8 +40077,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,898 |
-| Normal | 30,131 |
+| Cloudflare | 9,900 |
+| Normal | 30,134 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
