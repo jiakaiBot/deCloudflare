@@ -16166,7 +16166,7 @@ Here's a list of public Fediverse services.
 | `ispv-7.com` | No |
 | `israelmgo.es` | No |
 | `israely.xyz` | Yes |
-| `issizler.club` | No |
+| `issizler.club` | Yes |
 | `issue.network` | No |
 | `ist-ur.org` | No |
 | `ist.social` | No |
@@ -35598,6 +35598,7 @@ Here's a list of public Fediverse services.
 | `toot.baby` | No |
 | `toot.beer` | Yes |
 | `toot.berlin` | No |
+| `toot.best` | No |
 | `toot.bike` | No |
 | `toot.blue` | No |
 | `toot.boston` | No |
@@ -40071,7 +40072,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,897 |
+| Cloudflare | 9,898 |
 | Normal | 30,131 |
 
 
