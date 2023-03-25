@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,026 |
 | social | 3,871 |
 | net | 3,081 |
-| org | 2,119 |
+| org | 2,120 |
 | de | 2,015 |
 
 
@@ -625,6 +625,7 @@ Here's a list of public Fediverse services.
 | `8th.world` | No |
 | `8tracks.com` | Yes |
 | `9-5.online` | Yes |
+| `9021007.xyz` | Yes |
 | `907.life` | No |
 | `915.social` | Yes |
 | `9177xe.tokyo` | No |
@@ -12977,6 +12978,7 @@ Here's a list of public Fediverse services.
 | `ghostdub.de` | No |
 | `ghostintheshell.de` | No |
 | `ghostlevel.net` | No |
+| `ghostsinthelab.org` | No |
 | `ghostsinultraviolet.com` | Yes |
 | `ghosty.ch` | No |
 | `ghoti.au` | Yes |
@@ -40077,8 +40079,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,900 |
-| Normal | 30,134 |
+| Cloudflare | 9,901 |
+| Normal | 30,135 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
