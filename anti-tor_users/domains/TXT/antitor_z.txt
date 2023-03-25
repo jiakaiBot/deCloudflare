@@ -403,6 +403,7 @@ archief.zaanstad.nl
 arnon.zapgoogle.co.il
 auth.zenginehq.com
 authn1.dev.zpath.net
+autodiscover.zuckerbergisafraud.com
 avito.avito.sber.blablacar.git.covid19.zalive-akvilon.ru
 avito.avito.sber.sber.git.www.covid19.zalive-akvilon.ru
 avito.sber.avito.sberbank.avito.avito.covid19.zlclubmarket.com
@@ -508,6 +509,7 @@ sonarqube-npd.zuelligpharma.com
 sts.zollner.de
 studienwahl.zh.ch
 support.zedxsol.com
+terms.tech.zenka.be
 test-double-ideal-java.payments-core.zalan.do
 tivoli.zapgoogle.co.il
 tzalvanim.zapgoogle.co.il
@@ -538,7 +540,9 @@ www.paypal-login.com.zmgconsulting.co.za
 www.restore.zeniskin.ch
 www.stripe.zeeshannawaz.com
 www.support.zeiss.az
+www.terms.tech.zenka.be
 www.user.ziyocloud.live
+www.weihnachtszauber.zweifraeulein.de
 www.wetrack.zukabit.com
 www.z-3.io
 www.zaadbank.nl
@@ -614,6 +618,7 @@ z-l.by
 zacknzul.com
 zahnarzt-hey-friedrich.de
 zahnen.cl
+zalando.lt
 zalandozwrotkurierem.eu
 zamaco.com.vn
 zambiaminesafety.com
@@ -621,6 +626,7 @@ zannam.sk
 zararoyalaccounting.ca
 zarch.lv
 zauber.my
+zauberlehrling.dk
 zazzle.co.uk
 zbni.co
 zdorovyh32.ru
@@ -651,8 +657,10 @@ zh.zeniq-blockchain.com
 zhenrenshixvip.net
 zhoubrothers.com
 zhoujin.com
+zidneeailman.com
 ziegelindustrie.ch
 ziffyse.com
+ziim.org
 zilverenmeer.be
 zinsd.shop
 ziol.pe
@@ -660,6 +668,7 @@ zioncybersecurity.com
 zionpeace.co.za
 zm.org.pl
 znsecurity.ro
+zoiserry.com
 zolenidelivery.com
 zombieapp.site
 zombieproofsecurity.co.za
