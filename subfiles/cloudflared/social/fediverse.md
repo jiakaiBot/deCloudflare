@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,022 |
-| social | 3,867 |
-| net | 3,078 |
+| com | 6,023 |
+| social | 3,870 |
+| net | 3,079 |
 | org | 2,118 |
-| de | 2,013 |
+| de | 2,015 |
 
 
 - Mastodon, Pleroma, etc
@@ -1679,6 +1679,7 @@ Here's a list of public Fediverse services.
 | `amumal.party` | No |
 | `amurica.cf` | No |
 | `amxl.com` | No |
+| `amynews.social` | Yes |
 | `amyos.net` | No |
 | `an.exchange` | No |
 | `an0thr.app` | No |
@@ -3155,6 +3156,7 @@ Here's a list of public Fediverse services.
 | `barcelona.social` | No |
 | `barchet.eu` | No |
 | `barciauskas.com` | No |
+| `barclay.social` | Yes |
 | `barcollo.space` | No |
 | `bardiharborow.com` | No |
 | `bardown.space` | No |
@@ -8949,6 +8951,7 @@ Here's a list of public Fediverse services.
 | `dostoevsskey.com` | Yes |
 | `dot.or.at` | No |
 | `dotart.blog` | No |
+| `dotcomblog.de` | No |
 | `dotdon.jp` | Yes |
 | `dotdon.net` | No |
 | `dotexperiment.org` | No |
@@ -25898,6 +25901,7 @@ Here's a list of public Fediverse services.
 | `open2.ch` | Yes |
 | `open2ch.net` | Yes |
 | `open3dlab.com` | No |
+| `openaiken.net` | No |
 | `openalgeria.org` | No |
 | `openbargel.com` | Yes |
 | `openbarnum.org` | Yes |
@@ -28387,6 +28391,7 @@ Here's a list of public Fediverse services.
 | `puz.fun` | No |
 | `puzzled.cc` | No |
 | `puzzling.org` | No |
+| `pvesys.de` | No |
 | `pvl.pw` | No |
 | `pvt.is` | Yes |
 | `pwarren.id.au` | No |
@@ -34928,6 +34933,7 @@ Here's a list of public Fediverse services.
 | `thepit.space` | No |
 | `theplace.social` | Yes |
 | `theplanet.rocks` | No |
+| `thepocolips.com` | No |
 | `thepolarbear.co.uk` | No |
 | `thepostearthdestination.com` | No |
 | `thepractice.space` | No |
@@ -37977,6 +37983,7 @@ Here's a list of public Fediverse services.
 | `weaviate.community` | No |
 | `web-dev.social` | No |
 | `web-of-us.com` | No |
+| `web-optimierer.ch` | No |
 | `web0000.jp` | No |
 | `web30.top` | No |
 | `web3music.land` | No |
@@ -39299,6 +39306,7 @@ Here's a list of public Fediverse services.
 | `yaten.dev` | Yes |
 | `yathavanparamesh.ca` | No |
 | `yatil.net` | No |
+| `yatil.social` | No |
 | `yatno.web.id` | No |
 | `yavin3.de` | No |
 | `yawp.social` | No |
@@ -40054,8 +40062,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,894 |
-| Normal | 30,117 |
+| Cloudflare | 9,896 |
+| Normal | 30,123 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
