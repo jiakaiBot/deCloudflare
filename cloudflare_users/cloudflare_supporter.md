@@ -8120,6 +8120,7 @@ Do not create new issue or we will close it as duplicate.
 | [nly461636@twitter](https://twitter.com/nly461636/status/1530720462514405376) | advertise |
 | [NMirbabaee@twitter](https://twitter.com/NMirbabaee/status/1576504574709755905) | advertise |
 | [Nmt79792355@twitter](https://twitter.com/Nmt79792355/status/1392876210544287744) | advertise |
+| [nnbofficial786@twitter](https://twitter.com/nnbofficial786/status/1639504495997513728) | advertise |
 | [NngCao3@twitter](https://twitter.com/NngCao3/status/1590371932498599937) | advertise |
 | [NnguyenUy@twitter](https://twitter.com/NnguyenUy/status/1389091092331597824) | advertise |
 | [NnmhBgoMy@twitter](https://twitter.com/NnmhBgoMy/status/1398200094818668546) | advertise |
