@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,026 |
 | social | 3,871 |
-| net | 3,081 |
+| net | 3,082 |
 | org | 2,120 |
 | de | 2,015 |
 
@@ -20739,6 +20739,7 @@ Here's a list of public Fediverse services.
 | `marnanel.org` | No |
 | `maromaro.co.jp` | No |
 | `maron.blue` | No |
+| `marosuke2600.work` | No |
 | `marramgrass.org.uk` | No |
 | `marrok.top` | Yes |
 | `marrow.haus` | No |
@@ -30365,6 +30366,7 @@ Here's a list of public Fediverse services.
 | `saferweb.io` | Yes |
 | `safestreetrebel.com` | Yes |
 | `safewebbox.com` | No |
+| `sagami-yashiro.net` | No |
 | `sagard.com.np` | Yes |
 | `sagconsulting.llc` | No |
 | `sagdas.net` | No |
@@ -40080,7 +40082,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,901 |
-| Normal | 30,135 |
+| Normal | 30,137 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
