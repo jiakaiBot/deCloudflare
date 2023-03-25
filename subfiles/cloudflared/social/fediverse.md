@@ -32091,6 +32091,7 @@ Here's a list of public Fediverse services.
 | `smalltech.space` | No |
 | `smart-cactus.org` | Yes |
 | `smartcitydev.jp` | No |
+| `smartcraft.me` | Yes |
 | `smartdonkey.social` | No |
 | `smartinwriter.social` | No |
 | `smartit.nu` | No |
@@ -40081,7 +40082,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,901 |
+| Cloudflare | 9,902 |
 | Normal | 30,137 |
 
 
