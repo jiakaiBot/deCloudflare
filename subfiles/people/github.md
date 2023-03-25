@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Propagate handler argument types down using generics instead of any](https://github.com/kwhitley/itty-router/issues/154)
 - [ERR_CONNECTION_REFUSED happening again](https://github.com/linuxserver/docker-swag/issues/353)
 - [Check "*.doppiocdn.com" / "*.doppiocdn.org"](https://github.com/badmojr/1Hosts/issues/1243)
 - [v1.3.22 - continual sync errors](https://github.com/RickDB/PlexAniSync/issues/186)
