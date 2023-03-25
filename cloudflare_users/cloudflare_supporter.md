@@ -7776,6 +7776,7 @@ Do not create new issue or we will close it as duplicate.
 | [newblogmedia@twitter](https://twitter.com/newblogmedia/status/1384136725732024329) | advertise |
 | [newday20830803@twitter](https://twitter.com/newday20830803/status/1396155259886657536) | advertise |
 | [neweralad@twitter](https://twitter.com/neweralad/status/1391690716602982409) | advertise |
+| [newhorizon678@twitter](https://twitter.com/newhorizon678/status/1639484724212269063) | advertise |
 | [newmanmarvy@twitter](https://twitter.com/newmanmarvy/status/1408164963621933068) | advertise |
 | [NewmillerBill@twitter](https://twitter.com/NewmillerBill/status/1603003360487022592) | advertise |
 | [newRigger72@twitter](https://twitter.com/newRigger72/status/1397210217872494601) | advertise |
@@ -10855,8 +10856,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
