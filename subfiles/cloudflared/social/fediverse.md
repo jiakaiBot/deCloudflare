@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,025 |
+| com | 6,026 |
 | social | 3,871 |
 | net | 3,080 |
 | org | 2,118 |
@@ -5870,7 +5870,7 @@ Here's a list of public Fediverse services.
 | `chriswiegman.com` | Yes |
 | `chriswilson.blog` | No |
 | `chriswood.social` | No |
-| `chriswright.photography` | No |
+| `chriswright.photography` | Yes |
 | `chrom.ee` | Yes |
 | `chromabits.com` | No |
 | `chromachan.net` | No |
@@ -25273,6 +25273,7 @@ Here's a list of public Fediverse services.
 | `nullpointer.org` | No |
 | `nullptr.eu` | No |
 | `nullreference.io` | Yes |
+| `nullrequest.com` | Yes |
 | `nullself.pw` | No |
 | `nullsense.net` | No |
 | `nullspace.ie` | No |
@@ -40070,8 +40071,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,895 |
-| Normal | 30,132 |
+| Cloudflare | 9,897 |
+| Normal | 30,131 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
