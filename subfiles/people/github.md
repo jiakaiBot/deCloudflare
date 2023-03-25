@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [op plugin list error: treasuredata](https://github.com/1Password/shell-plugins/issues/221)
 - [Propagate handler argument types down using generics instead of any](https://github.com/kwhitley/itty-router/issues/154)
 - [ERR_CONNECTION_REFUSED happening again](https://github.com/linuxserver/docker-swag/issues/353)
 - [Check "*.doppiocdn.com" / "*.doppiocdn.org"](https://github.com/badmojr/1Hosts/issues/1243)
