@@ -5533,8 +5533,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -8474,6 +8474,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pabo11Shu@twitter](https://twitter.com/Pabo11Shu/status/1390611967920939016) | advertise |
 | [pabszito@twitter](https://twitter.com/pabszito/status/1622970532407779329) | advertise |
 | [pacoreguenga@twitter](https://twitter.com/pacoreguenga/status/1526355256719945730) | advertise |
+| [PacoTomei@twitter](https://twitter.com/PacoTomei/status/1639698515193393154) | advertise |
 | [PahadSae@twitter](https://twitter.com/PahadSae/status/1399339499348389890) | advertise |
 | [PahalGram@twitter](https://twitter.com/PahalGram/status/1558149153049710593) | advertise |
 | [pahimu_ko@twitter](https://twitter.com/pahimu_ko/status/1464961938492821506) | advertise |
