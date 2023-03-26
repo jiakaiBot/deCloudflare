@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,027 |
-| social | 3,872 |
+| com | 6,028 |
+| social | 3,873 |
 | net | 3,082 |
-| org | 2,120 |
+| org | 2,122 |
 | de | 2,017 |
 
 
@@ -2453,6 +2453,7 @@ Here's a list of public Fediverse services.
 | `asimon.org` | No |
 | `asiriyuq.xyz` | No |
 | `asjk.xyz` | Yes |
+| `asjo.org` | No |
 | `askan.cloud` | No |
 | `askan.info` | No |
 | `askapunk.net` | No |
@@ -6110,6 +6111,7 @@ Here's a list of public Fediverse services.
 | `closed.social` | Yes |
 | `closedless.xyz` | Yes |
 | `closednetwork.social` | Yes |
+| `closetoya.com` | Yes |
 | `closeuprussia.com` | Yes |
 | `clothesp.in` | No |
 | `cloud-ace.jp` | Yes |
@@ -8176,6 +8178,7 @@ Here's a list of public Fediverse services.
 | `dephekt.net` | No |
 | `depht.com` | No |
 | `depixelated.com` | Yes |
+| `deponativ.info` | No |
 | `depone.net` | No |
 | `depoze.xyz` | Yes |
 | `deppenkessel.de` | No |
@@ -9519,6 +9522,7 @@ Here's a list of public Fediverse services.
 | `econudes.org` | No |
 | `ecorp.host` | No |
 | `ecosteader.com` | No |
+| `ecotri.be` | No |
 | `ecotube.fr` | No |
 | `ecru.social` | No |
 | `ecton.dev` | Yes |
@@ -13248,6 +13252,7 @@ Here's a list of public Fediverse services.
 | `gnuhacker.org` | No |
 | `gnulinux.si` | No |
 | `gnulinux.social` | No |
+| `gnulinuxvalencia.org` | No |
 | `gnumeria.eu.org` | No |
 | `gnumeria.fr` | No |
 | `gnupublic.space` | No |
@@ -13372,6 +13377,7 @@ Here's a list of public Fediverse services.
 | `goodevilgenius.org` | Yes |
 | `goodfeeds.net` | No |
 | `goodlett.social` | No |
+| `goodluckgabe.life` | No |
 | `goodman-wilson.com` | Yes |
 | `goodmotion.de` | No |
 | `goodo.men` | No |
@@ -18124,6 +18130,7 @@ Here's a list of public Fediverse services.
 | `kocko.org` | No |
 | `kockw.social` | No |
 | `kocour.club` | No |
+| `koda.re` | No |
 | `kodachrome.club` | No |
 | `kodama-system.com` | No |
 | `kodcast.com` | No |
@@ -18357,6 +18364,7 @@ Here's a list of public Fediverse services.
 | `krebsco.de` | No |
 | `krefeld.club` | Yes |
 | `krefeld.life` | No |
+| `krei.social` | Yes |
 | `kreigd.com` | Yes |
 | `krejci.pw` | Yes |
 | `krekow.me` | No |
@@ -19177,6 +19185,7 @@ Here's a list of public Fediverse services.
 | `leuchtetgruen.de` | No |
 | `leuchtetgruen.me` | No |
 | `leuhta.dev` | No |
+| `lev.lc` | Yes |
 | `levallo.is` | No |
 | `levallois.social` | No |
 | `levant.social` | No |
@@ -24776,7 +24785,6 @@ Here's a list of public Fediverse services.
 | `no-ip.info` | No |
 | `no-ip.org` | No |
 | `no-one.dev` | Yes |
-| `no-operation.zone` | No |
 | `no-pony.farm` | No |
 | `no-thoccs.cc` | No |
 | `no-trace.de` | No |
@@ -39999,6 +40007,7 @@ Here's a list of public Fediverse services.
 | `zowie.im` | No |
 | `zoz-serv.org` | No |
 | `zozzle.xyz` | No |
+| `zpravobot.news` | No |
 | `zr.si` | Yes |
 | `zrx.one` | No |
 | `zrythm.org` | No |
@@ -40088,8 +40097,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,905 |
-| Normal | 30,140 |
+| Cloudflare | 9,908 |
+| Normal | 30,146 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
