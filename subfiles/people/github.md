@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [breakfix: id_token signed with unsupported algorithm](https://github.com/greenpau/caddy-security/issues/221)
 - [op plugin list error: treasuredata](https://github.com/1Password/shell-plugins/issues/221)
 - [Propagate handler argument types down using generics instead of any](https://github.com/kwhitley/itty-router/issues/154)
 - [ERR_CONNECTION_REFUSED happening again](https://github.com/linuxserver/docker-swag/issues/353)
