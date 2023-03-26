@@ -22465,6 +22465,7 @@ Here's a list of public Fediverse services.
 | `misskey.de` | No |
 | `misskey.design` | Yes |
 | `misskey.dev` | Yes |
+| `misskey.ee` | Yes |
 | `misskey.fr` | No |
 | `misskey.fun` | No |
 | `misskey.id` | Yes |
@@ -40108,7 +40109,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,912 |
+| Cloudflare | 9,913 |
 | Normal | 30,153 |
 
 
