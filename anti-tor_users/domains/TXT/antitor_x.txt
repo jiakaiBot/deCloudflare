@@ -340,6 +340,7 @@ cards.xenadu-services.de
 cash.xpresspay.bg
 cdn.x1cdn.com
 collections.xcash.ph
+connect.xn--1ich-c3a.app
 connectorprod.timetrack.xora.com
 core-rules-executor-gen1-srv.qa-chicago.xara.ai
 cpanel.xn--schlsseldienstindernhe-k5b37c.at
@@ -377,6 +378,7 @@ www.astrofxstocks.xpressdelivery.net
 www.gitlab.wordpress.xn--80ab4acicasfgh.xn--p1ai
 www.przytulas.com.eon46.xaa.pl
 www.sfr.xn--vrification-bbb.com
+www.swissfarbe.xilefug.com
 www.ticket.xdomainhost.com
 www.users.xieon-finance.com
 www.x-controls.nl
@@ -405,6 +407,8 @@ www.xn--brommatrdfllning-2nbc.se
 www.xn--danskemediedistributrer-4mc.dk
 www.xn--fjern-baggrund-p-billede-vcc.dk
 www.xn--geschftsfeldentwicklung-z7b.de
+www.xn--halkbanamrsta-jfb.se
+www.xn--halkbanaupplandsvsby-rzb.se
 www.xn--hufe-gebudeservice-stb.de
 www.xn--incesu-gebudeservice-kzb.com
 www.xn--innerdrrar-jcb.se
@@ -465,6 +469,8 @@ xn--feuerwehr-grnkraut-x6b.de
 xn--fjern-baggrund-p-billede-vcc.dk
 xn--fxt5yz5zno9a.net
 xn--gndemhaber-9db.com
+xn--halkbanamrsta-jfb.se
+xn--halkbanaupplandsvsby-rzb.se
 xn--hufe-gebudeservice-stb.de
 xn--jlq54w7ypemw.org
 xn--k-yi5f14dxxbvfn1at55d48d.com
@@ -486,6 +492,7 @@ xpart3.store
 xplosivefitness.pe
 xpressfocus.com
 xpresso.co.il
+xpressstore.pro
 xpressunblock.com
 xr-marketplace.com
 xrn-trading.com
