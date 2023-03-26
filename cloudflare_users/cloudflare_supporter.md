@@ -7583,6 +7583,7 @@ Do not create new issue or we will close it as duplicate.
 | [NaingWi68670384@twitter](https://twitter.com/NaingWi68670384/status/1394617939228336131) | advertise |
 | [naing_soe02093@twitter](https://twitter.com/naing_soe02093/status/1395377742481403905) | advertise |
 | [Najahh_62@twitter](https://twitter.com/Najahh_62/status/1385735535319212034) | advertise |
+| [NajmulH47873953@twitter](https://twitter.com/NajmulH47873953/status/1639916457084735493) | advertise |
 | [nalathon8@twitter](https://twitter.com/nalathon8/status/1393174233556021249) | advertise |
 | [nam08926332@twitter](https://twitter.com/nam08926332/status/1609565020203126789) | advertise |
 | [Nam42Duongtruo1@twitter](https://twitter.com/Nam42Duongtruo1/status/1553281681859104768) | advertise |
