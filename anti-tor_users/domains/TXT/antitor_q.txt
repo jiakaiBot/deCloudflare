@@ -281,6 +281,7 @@ cpfc.queue-it.net
 criticaldesign.studio.qmail.com.tr
 dev.eforms.qfcra.com
 docs.qcmtech.com
+esab.us1.qeadaptiveauth.com
 ezbob.queue-it.net
 google.qiuly.tk
 handyman.quickhalservice.com
@@ -335,6 +336,7 @@ qualitytrainingsystems.com
 qualityword.com
 quanlyvon.com
 quanticosecurity.co.za
+quantriweb.pro
 quantum-computing-services.com
 quarijn.nl
 quarijnkbc.nl
@@ -363,12 +365,12 @@ quitosklepjezdziecki.pl
 quotewizard.com
 qvcuk.com
 qwords.com
-qxpufcu.tk
 readingfc.queue-it.net
 reception.q-revo.com
 sechub-no-sandbox.develop.fna.iot.qbeyond.tech
 sechub.develop.fna.iot.qbeyond.tech
 server2674.quanticdynamics.cloud
+service.qumiai.jp
 sso.quickclick.cc
 statistique.quebec.ca
 store.quintadelsol.com
@@ -382,6 +384,8 @@ www.1-dia-do-congresso-e.quadrangularsedemacapa.com.br
 www.2-dia-do-congresso-e.quadrangularsedemacapa.com.br
 www.appletoncreek.quesie.net
 www.banca888b.info.qh88lv.info
+www.bancah5.qh6789.org
+www.bancah5mobi.qh6789.org
 www.cathychase.quickclose.net
 www.chinapost-dispatching.com.qualitygreencleanerspalmdale.com
 www.client.quickrest.org
@@ -428,6 +432,7 @@ www.queeronthespectrum.com
 www.queersiliconvalley.org
 www.queesunavpn.com
 www.quel-vpn.fr
+www.quelle-assurance.eu
 www.quenojueguencontigo-santander.com
 www.questionpro.de
 www.questnc.com
