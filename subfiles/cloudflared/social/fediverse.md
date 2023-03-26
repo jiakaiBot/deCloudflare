@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,030 |
 | social | 3,875 |
-| net | 3,083 |
+| net | 3,084 |
 | org | 2,122 |
 | de | 2,017 |
 
@@ -26864,6 +26864,7 @@ Here's a list of public Fediverse services.
 | `peerlea.eu.org` | No |
 | `peerlook.ru` | Yes |
 | `peers.community` | No |
+| `peerstudios.net` | Yes |
 | `peertube-blablalinux.be` | No |
 | `peertube-host.de` | No |
 | `peertube.art` | No |
@@ -40107,7 +40108,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,911 |
+| Cloudflare | 9,912 |
 | Normal | 30,153 |
 
 
