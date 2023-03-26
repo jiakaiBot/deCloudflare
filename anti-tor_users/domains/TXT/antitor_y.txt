@@ -465,12 +465,14 @@ gitlab.gitlab.amazon.yadgetmetaverse.ru
 gitlab.gitlab.git.amazon.yadgetmetaverse.ru
 gitlab.smail.yugprom.com
 global.yuanta.com.tw
+invoice.yotta.my.id
 jac.yahoosandbox.com
 kentakikuchi-github.yt-test.work
 kyc-web.yuanta.com.tw
 kyiv.yasno.com.ua
 limited.yodobashi.com
 loginauth-v1.website.yandexcloud.net
+m.yahoo.co.jp
 map.yahooapis.jp
 mc.yandex.ru
 mhome.yottagames.com
@@ -525,6 +527,7 @@ www.dummyneo.yapindo.co.id
 www.fittin-service.ymdg.info
 www.garantihavacilik.yedipencere.com
 www.googlenewsindia.youreducationportal.com
+www.invoice.yotta.my.id
 www.login.ybiaumroh.com
 www.mahiryapi.yusufpinarbasi.com.tr
 www.oktamia.yukundang.com
@@ -537,10 +540,12 @@ www.symphonyofsteam.yilong.com.au
 www.y4pamtrk.com
 www.yabfestival.com
 www.yachtservice-laboe.de
+www.yahoolavista.com
 www.yajagoff.com
 www.yamandbean.com
 www.yandex-specialist.ru
 www.yandex-tula.ru
+www.yandexbot.com
 www.yandexgotaxi.com
 www.yandexprotaxi.com
 www.yankton.net
@@ -604,6 +609,8 @@ yapikont.com
 yapindo.co.id
 yapiskan.tk
 yapitbodrum.com
+yapiyorsun.cf
+yarokis.co.il
 yaseagrouptravel.com
 yasham-medical.com
 yay-plus.com
@@ -629,6 +636,7 @@ yepbooking.com.au
 yesbank.in
 yesmsmeonline.yesbank.in
 yetch.store
+yetterslave.com
 yeudongvat.org
 yevheniikhudolii.foundation
 ygithub.com
@@ -662,6 +670,7 @@ yourhomeodoctor.com
 yourlastrites.com
 youronlinecircle.com
 yourrecruiter.ca
+yoursurebuy.online
 yourvalenciadentist.com
 yourveganfallacyis.com
 youtube-nocookies.com
