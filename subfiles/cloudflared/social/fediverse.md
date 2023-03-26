@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,028 |
-| social | 3,873 |
-| net | 3,082 |
+| social | 3,875 |
+| net | 3,083 |
 | org | 2,122 |
 | de | 2,017 |
 
@@ -3228,6 +3228,7 @@ Here's a list of public Fediverse services.
 | `bash-street-boys-and-girls.com` | No |
 | `bashell.com` | Yes |
 | `bashgeek.net` | No |
+| `basil.quest` | No |
 | `basilisk.dev` | Yes |
 | `basilisk.gallery` | Yes |
 | `basilisk.technology` | No |
@@ -15453,6 +15454,7 @@ Here's a list of public Fediverse services.
 | `ielts.boats` | No |
 | `ient.me` | No |
 | `iero.org` | No |
+| `ietf.social` | No |
 | `ifi.sh` | No |
 | `ifightbigrobots.com` | No |
 | `iflab.org` | No |
@@ -18342,6 +18344,7 @@ Here's a list of public Fediverse services.
 | `krake.re` | No |
 | `krakow.social` | No |
 | `krall.sh` | Yes |
+| `kramerc.social` | No |
 | `kramersson.com` | No |
 | `kramse.org` | No |
 | `kranat.com` | No |
@@ -19905,6 +19908,7 @@ Here's a list of public Fediverse services.
 | `lostfocus.de` | No |
 | `lostinok.com` | No |
 | `lostinthe.space` | No |
+| `lostlightstudio.team` | No |
 | `lostmy.pw` | Yes |
 | `lostpod.space` | No |
 | `lostsock.club` | No |
@@ -20364,6 +20368,7 @@ Here's a list of public Fediverse services.
 | `mado.moe` | Yes |
 | `madomadon.net` | No |
 | `madost.one` | Yes |
+| `madpacket.net` | No |
 | `madpainter.info` | No |
 | `madr.it` | No |
 | `madrid.how` | No |
@@ -31308,7 +31313,7 @@ Here's a list of public Fediverse services.
 | `setsuna.kr` | No |
 | `settgast.org` | Yes |
 | `seungjin.net` | No |
-| `seva.rocks` | No |
+| `seva.rocks` | Yes |
 | `seven-don.com` | No |
 | `sevenbyte.org` | No |
 | `sevenn.fr` | Yes |
@@ -40097,8 +40102,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,908 |
-| Normal | 30,146 |
+| Cloudflare | 9,909 |
+| Normal | 30,150 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
