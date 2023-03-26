@@ -26398,6 +26398,7 @@ Here's a list of public Fediverse services.
 | `owo.ceo` | Yes |
 | `owo.ee` | Yes |
 | `owo.monster` | No |
+| `owo.rs` | Yes |
 | `owo.sg` | Yes |
 | `owo.town` | No |
 | `owotel.com` | Yes |
@@ -40111,7 +40112,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,914 |
+| Cloudflare | 9,915 |
 | Normal | 30,154 |
 
 
