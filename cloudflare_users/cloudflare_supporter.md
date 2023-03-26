@@ -6222,6 +6222,7 @@ Do not create new issue or we will close it as duplicate.
 | [llama_cadu@twitter](https://twitter.com/llama_cadu/status/1480054499846856710) | advertise |
 | [llAnh_Hungll@twitter](https://twitter.com/llAnh_Hungll/status/1563110667812425733) | advertise |
 | [LlcBillionaire@twitter](https://twitter.com/LlcBillionaire/status/1498441224264552455) | advertise |
+| [LloydGalic55293@twitter](https://twitter.com/LloydGalic55293/status/1639795719782506499) | advertise |
 | [lloydkissoon3@twitter](https://twitter.com/lloydkissoon3/status/1536419970590158848) | advertise |
 | [llsc121@twitter](https://twitter.com/llsc121/status/1621940122714349574) | advertise |
 | [llteky@twitter](https://twitter.com/llteky/status/1529935561091432453) | advertise |
