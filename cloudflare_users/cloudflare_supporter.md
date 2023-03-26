@@ -2128,6 +2128,7 @@ Do not create new issue or we will close it as duplicate.
 | [Clarence2510@twitter](https://twitter.com/Clarence2510/status/1556321410225565696) | advertise |
 | [ClassicOTPlumbe@twitter](https://twitter.com/ClassicOTPlumbe/status/1401089260011372547) | advertise |
 | [CLAUDEA40679398@twitter](https://twitter.com/CLAUDEA40679398/status/1539822458756284418) | advertise |
+| [ClaudiaBorchet1@twitter](https://twitter.com/ClaudiaBorchet1/status/1640035847583006721) | advertise |
 | [ClayMuncher@twitter](https://twitter.com/ClayMuncher/status/1564492495039373313) | advertise |
 | [ClementHezsell@twitter](https://twitter.com/ClementHezsell/status/1600374120838930432) | advertise |
 | [Cleverboy6881@twitter](https://twitter.com/Cleverboy6881/status/1393652406395670528) | advertise |
@@ -5539,8 +5540,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -10815,6 +10816,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThaoNgo73840131@twitter](https://twitter.com/ThaoNgo73840131/status/1552545597861019649) | advertise |
 | [THARGYI85575175@twitter](https://twitter.com/THARGYI85575175/status/1394149481222795265) | advertise |
 | [ThargyiThargy15@twitter](https://twitter.com/ThargyiThargy15/status/1396138056453787648) | advertise |
+| [tharhtetlig@twitter](https://twitter.com/tharhtetlig/status/1640036687035375616) | advertise |
 | [TharHtooAung15@twitter](https://twitter.com/TharHtooAung15/status/1391456323187924996) | advertise |
 | [tharnge54301443@twitter](https://twitter.com/tharnge54301443/status/1390248606179880963) | advertise |
 | [TharNge62180021@twitter](https://twitter.com/TharNge62180021/status/1400835007426428930) | advertise |
