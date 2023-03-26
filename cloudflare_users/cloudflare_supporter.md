@@ -2592,6 +2592,7 @@ Do not create new issue or we will close it as duplicate.
 | [DickyAdirachman@twitter](https://twitter.com/DickyAdirachman/status/1552680441706323968) | advertise |
 | [Diego24090352@twitter](https://twitter.com/Diego24090352/status/1557196849139924993) | advertise |
 | [diellidemjaha@twitter](https://twitter.com/diellidemjaha/status/1394616412086341633) | advertise |
+| [dienthanhsg1@twitter](https://twitter.com/dienthanhsg1/status/1640042097762881540) | advertise |
 | [DieTriphel@twitter](https://twitter.com/DieTriphel/status/1517893596443074561) | advertise |
 | [digcinema@twitter](https://twitter.com/digcinema/status/1402343666174201857) | advertise |
 | [DiggajUpadhyay@twitter](https://twitter.com/DiggajUpadhyay/status/1511942797212889089) | advertise |
@@ -5540,8 +5541,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -11338,6 +11339,7 @@ Do not create new issue or we will close it as duplicate.
 | [tranvan89033780@twitter](https://twitter.com/tranvan89033780/status/1474185476256845826) | advertise |
 | [Tranvin89298643@twitter](https://twitter.com/Tranvin89298643/status/1624070850277437445) | advertise |
 | [trappygypsy@twitter](https://twitter.com/trappygypsy/status/1382015075331014664) | advertise |
+| [trashyposer_@twitter](https://twitter.com/trashyposer_/status/1640051551816552448) | advertise |
 | [TraTra15032897@twitter](https://twitter.com/TraTra15032897/status/1626027182660390912) | advertise |
 | [travelmatebd@twitter](https://twitter.com/travelmatebd/status/1420998094452256769) | advertise |
 | [TRC_slayer@twitter](https://twitter.com/TRC_slayer/status/1546377981072838656) | advertise |
