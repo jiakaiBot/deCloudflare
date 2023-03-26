@@ -8315,6 +8315,7 @@ Do not create new issue or we will close it as duplicate.
 | [obliquum@twitter](https://twitter.com/obliquum/status/1394296794994012163) | advertise |
 | [OButhum@twitter](https://twitter.com/OButhum/status/1393372232093556739) | advertise |
 | [obyanete@twitter](https://twitter.com/obyanete/status/1563153566873034753) | advertise |
+| [oceannwavezz@twitter](https://twitter.com/oceannwavezz/status/1639820085299924992) | advertise |
 | [oceanprince1234@twitter](https://twitter.com/oceanprince1234/status/1595252984891727877) | advertise |
 | [oCngThng4@twitter](https://twitter.com/oCngThng4/status/1631669134231744513) | advertise |
 | [OdariMc@twitter](https://twitter.com/OdariMc/status/1380700664016334848) | advertise |
