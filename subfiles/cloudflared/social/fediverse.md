@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,871 |
 | net | 3,082 |
 | org | 2,120 |
-| de | 2,015 |
+| de | 2,017 |
 
 
 - Mastodon, Pleroma, etc
@@ -902,6 +902,7 @@ Here's a list of public Fediverse services.
 | `activitypub.eu` | No |
 | `activitypub.tk` | No |
 | `activitypubhub.de` | No |
+| `activitypup.de` | No |
 | `actocom.com` | No |
 | `actors.social` | Yes |
 | `actrophp.de` | No |
@@ -4953,6 +4954,7 @@ Here's a list of public Fediverse services.
 | `c-don.net` | No |
 | `c-henry.fr` | No |
 | `c-ici.ch` | Yes |
+| `c-onner.de` | Yes |
 | `c-p-b.com` | No |
 | `c-pool.jp` | No |
 | `c-r-t.tk` | Yes |
@@ -24444,6 +24446,7 @@ Here's a list of public Fediverse services.
 | `newsrelay.org` | No |
 | `newsroom.pub` | No |
 | `newsroom.social` | Yes |
+| `newt.li` | No |
 | `newtown.chiba.jp` | No |
 | `newtro.club` | No |
 | `newtype.institute` | No |
@@ -40082,8 +40085,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,902 |
-| Normal | 30,137 |
+| Cloudflare | 9,903 |
+| Normal | 30,139 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
