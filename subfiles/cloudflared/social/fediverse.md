@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,875 |
 | net | 3,084 |
 | org | 2,122 |
-| de | 2,017 |
+| de | 2,018 |
 
 
 - Mastodon, Pleroma, etc
@@ -24890,6 +24890,7 @@ Here's a list of public Fediverse services.
 | `nogafam.es` | No |
 | `nogafam.zone` | No |
 | `nogamenolife.me` | Yes |
+| `noggel.de` | No |
 | `nogitsune.moe` | No |
 | `nognu.de` | No |
 | `nogods.be` | No |
@@ -40110,7 +40111,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,913 |
-| Normal | 30,153 |
+| Normal | 30,154 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
