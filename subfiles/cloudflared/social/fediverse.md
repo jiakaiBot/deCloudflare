@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,875 |
 | net | 3,084 |
 | org | 2,122 |
-| de | 2,018 |
+| de | 2,019 |
 
 
 - Mastodon, Pleroma, etc
@@ -3229,7 +3229,7 @@ Here's a list of public Fediverse services.
 | `bash-street-boys-and-girls.com` | No |
 | `bashell.com` | Yes |
 | `bashgeek.net` | No |
-| `basil.quest` | No |
+| `basil.quest` | Yes |
 | `basilisk.dev` | Yes |
 | `basilisk.gallery` | Yes |
 | `basilisk.technology` | No |
@@ -20672,6 +20672,7 @@ Here's a list of public Fediverse services.
 | `mapstodon.space` | No |
 | `mapstodon.technology` | No |
 | `mapsupport.club` | Yes |
+| `mapsupport.de` | No |
 | `maquena.org` | No |
 | `maquinaslibres.tk` | No |
 | `marache.net` | No |
@@ -40110,7 +40111,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,913 |
+| Cloudflare | 9,914 |
 | Normal | 30,154 |
 
 
