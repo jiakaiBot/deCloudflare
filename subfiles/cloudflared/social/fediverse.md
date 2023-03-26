@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,028 |
+| com | 6,030 |
 | social | 3,875 |
 | net | 3,083 |
 | org | 2,122 |
@@ -1893,6 +1893,7 @@ Here's a list of public Fediverse services.
 | `anml.io` | No |
 | `anmol.net.in` | No |
 | `annaclemens.io` | Yes |
+| `annadreambrush.com` | No |
 | `annakirche.at` | No |
 | `annathepiper.org` | No |
 | `annetteschwindt.de` | No |
@@ -8380,6 +8381,7 @@ Here's a list of public Fediverse services.
 | `dgfp.club` | No |
 | `dgm.pw` | No |
 | `dgng.no` | Yes |
+| `dgngrnder.com` | Yes |
 | `dgoeke.io` | No |
 | `dgplug.org` | No |
 | `dgrammatiko.dev` | Yes |
@@ -12686,6 +12688,7 @@ Here's a list of public Fediverse services.
 | `gaymer.social` | Yes |
 | `gaymers.me` | No |
 | `gaymers.space` | No |
+| `gayonly.ch` | No |
 | `gaypxrn.de` | No |
 | `gayrobot.club` | No |
 | `gayweeb.vip` | No |
@@ -13683,6 +13686,7 @@ Here's a list of public Fediverse services.
 | `grottenberg.me` | No |
 | `grotz.me` | No |
 | `grouchysysadmin.com` | No |
+| `groumpf-legroupe.fr` | No |
 | `groundgamela.org` | Yes |
 | `groundpolis.app` | No |
 | `group.lt` | Yes |
@@ -18382,6 +18386,7 @@ Here's a list of public Fediverse services.
 | `krigskunst.social` | No |
 | `krikkert.net` | No |
 | `krimb0.com` | Yes |
+| `krimsonlocker.xyz` | Yes |
 | `krinchan.com` | Yes |
 | `krinetzki.de` | Yes |
 | `krinite.com` | No |
@@ -40102,8 +40107,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,909 |
-| Normal | 30,150 |
+| Cloudflare | 9,911 |
+| Normal | 30,153 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
