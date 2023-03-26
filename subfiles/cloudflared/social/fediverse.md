@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,026 |
-| social | 3,871 |
+| com | 6,027 |
+| social | 3,872 |
 | net | 3,082 |
 | org | 2,120 |
 | de | 2,017 |
@@ -13719,6 +13719,7 @@ Here's a list of public Fediverse services.
 | `gry.st` | No |
 | `grynaserio.pl` | Yes |
 | `gryphon68.social` | No |
+| `gryphonic.com` | No |
 | `gsalucci.dev` | No |
 | `gsch.eu` | Yes |
 | `gsd.foundation` | No |
@@ -22199,7 +22200,7 @@ Here's a list of public Fediverse services.
 | `mikebourquin.de` | No |
 | `mikecoats.social` | Yes |
 | `mikedilger.com` | No |
-| `mikedunn.blog` | No |
+| `mikedunn.blog` | Yes |
 | `mikegerwitz.com` | No |
 | `mikehayn.es` | Yes |
 | `mikehendley.com` | Yes |
@@ -25075,6 +25076,7 @@ Here's a list of public Fediverse services.
 | `note.computer` | No |
 | `note.rodeo` | No |
 | `notebook.yokohama` | No |
+| `notetoself.co.uk` | Yes |
 | `notez4all.tech` | Yes |
 | `notfound.work` | No |
 | `notfreespee.ch` | No |
@@ -25162,7 +25164,7 @@ Here's a list of public Fediverse services.
 | `noxblr.com` | No |
 | `noxie.ch` | No |
 | `noxon.cc` | No |
-| `noyer.app` | No |
+| `noyer.app` | Yes |
 | `noyu.me` | No |
 | `noyuno.space` | No |
 | `nozbe.com` | No |
@@ -30460,6 +30462,7 @@ Here's a list of public Fediverse services.
 | `salushnes.solutions` | No |
 | `salvo.chat` | No |
 | `samadam.au` | No |
+| `samariter.social` | No |
 | `samaschke.social` | Yes |
 | `samathy.space` | No |
 | `samdavies.me` | No |
@@ -31590,7 +31593,7 @@ Here's a list of public Fediverse services.
 | `shrdr.de` | No |
 | `shredderfood.com` | No |
 | `shrediverse.net` | No |
-| `shrekislove.us` | Yes |
+| `shrekislove.us` | No |
 | `shreyanjain.net` | No |
 | `shrieker.net` | No |
 | `shrik3.com` | No |
@@ -40085,8 +40088,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,903 |
-| Normal | 30,139 |
+| Cloudflare | 9,905 |
+| Normal | 30,140 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
