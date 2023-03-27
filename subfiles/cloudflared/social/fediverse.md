@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,031 |
-| social | 3,876 |
+| social | 3,878 |
 | net | 3,085 |
-| org | 2,123 |
+| org | 2,124 |
 | de | 2,021 |
 
 
@@ -2691,6 +2691,7 @@ Here's a list of public Fediverse services.
 | `auroch.be` | No |
 | `auronplay.social` | No |
 | `aurooba.com` | Yes |
+| `aurorign.social` | No |
 | `aus.green` | No |
 | `aus.lgbt` | Yes |
 | `aus.party` | No |
@@ -9573,6 +9574,7 @@ Here's a list of public Fediverse services.
 | `edo1z.co` | No |
 | `edolas.world` | No |
 | `edserv.net` | Yes |
+| `edson.mx` | Yes |
 | `edstromsocial.com` | No |
 | `edtechme.org` | Yes |
 | `edtechstrategies.social` | No |
@@ -10019,6 +10021,7 @@ Here's a list of public Fediverse services.
 | `eniehack.net` | No |
 | `enigmastation.com` | No |
 | `enigmatic.observer` | No |
+| `enigmatick.social` | No |
 | `enigmaticnewt.social` | No |
 | `enimihil.net` | No |
 | `enitg.no` | Yes |
@@ -13816,6 +13819,7 @@ Here's a list of public Fediverse services.
 | `gunzfox.tk` | No |
 | `gup.pe` | No |
 | `guppo.nl` | No |
+| `gurney.dev` | Yes |
 | `gurubert.de` | No |
 | `gusballard.com` | No |
 | `guse.fr` | No |
@@ -27083,6 +27087,7 @@ Here's a list of public Fediverse services.
 | `pettingzoo.co` | No |
 | `pettingzoo.dev` | No |
 | `pettingzoo.gallery` | No |
+| `pettingzoo.live` | No |
 | `pettitservers.com` | Yes |
 | `peuw.net` | No |
 | `pew.im` | No |
@@ -32491,6 +32496,7 @@ Here's a list of public Fediverse services.
 | `solarpunk.dk` | No |
 | `solarpunk.moe` | No |
 | `solarpunk.social` | No |
+| `solarpunkacres.org` | No |
 | `solarpunkanarchism.org` | No |
 | `solarpunkcanuck.ca` | No |
 | `solarpunks.blog` | No |
@@ -35520,6 +35526,7 @@ Here's a list of public Fediverse services.
 | `todon.in` | No |
 | `todon.nl` | No |
 | `todon.uk` | No |
+| `todor.cc` | No |
 | `toepi.moe` | Yes |
 | `toepper.rocks` | Yes |
 | `toeushimwk.work` | No |
@@ -38233,6 +38240,7 @@ Here's a list of public Fediverse services.
 | `wesk.tech` | No |
 | `wesnoth.org` | No |
 | `wespol.org` | Yes |
+| `west.family` | Yes |
 | `westbrit.ie` | No |
 | `westbrook.social` | Yes |
 | `westchat.de` | No |
@@ -38367,6 +38375,7 @@ Here's a list of public Fediverse services.
 | `wiescher.name` | No |
 | `wieser-hv.de` | No |
 | `wieser.ml` | No |
+| `wiet.io` | Yes |
 | `wiewiu.re` | No |
 | `wife.town` | No |
 | `wig.gl` | Yes |
@@ -40123,8 +40132,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,917 |
-| Normal | 30,163 |
+| Cloudflare | 9,921 |
+| Normal | 30,168 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
