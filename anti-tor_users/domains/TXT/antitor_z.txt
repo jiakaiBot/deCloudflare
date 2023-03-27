@@ -469,6 +469,7 @@ pub.e.zurich.co.uk
 qa-azurea.zlongame.co.jp
 qrapi.zenia.tech
 regev-hadbarot.zapgoogle.co.il
+registrationservice.dev.zdata.io
 restore.zeniskin.ch
 rspp2p.zurich.co.uk
 ru.zeniq-blockchain.com
@@ -527,9 +528,11 @@ www.bsms.zanzibarhotelsbooking.com
 www.citiblue.zoiee.com
 www.drleonid.zapgoogle.co.il
 www.facebook.zenidba.com
+www.frapayment.zeytinsoftware.com
 www.gamesupport.in.zehraglobalinfotech.in
 www.gonaprogramlama.ziraatcimmarket.com
 www.graymoney.zadarguidedtours.com
+www.icloudsoporte.zw1.es
 www.indesigntuki.fi.z-factory.fi
 www.invoice.zahratalsaharadeliveryservice.com
 www.login.zxcholdingsgroup.com
@@ -538,6 +541,7 @@ www.muliaservice.zeus-nore.com
 www.mutualclinic.zmplo.com
 www.paypal-login.com.zmgconsulting.co.za
 www.restore.zeniskin.ch
+www.soporteicloud-com.zw1.es
 www.stripe.zeeshannawaz.com
 www.support.zeiss.az
 www.terms.tech.zenka.be
@@ -594,6 +598,7 @@ www.zeybekziraat.com
 www.zezinhodabanca.com
 www.zhelcleaningservice.com
 www.zillow.com
+www.zimblockchain.co.zw
 www.zimembassyottawa.com
 www.zimmerei-huber-re.de
 www.zinebbenchekchou.com
@@ -664,10 +669,12 @@ ziffyse.com
 ziim.org
 zilau.online
 zilverenmeer.be
+zimblockchain.co.zw
 zinsd.shop
 ziol.pe
 zioncybersecurity.com
 zionpeace.co.za
+zksync-era.org
 zm.org.pl
 znsecurity.ro
 zoiserry.com
@@ -691,6 +698,7 @@ ztmrds.zenithtechnologies.com
 ztmrdsdr.zenithtechnologies.com
 zuercher-stadthonig.ch
 zuinnote.eu
+zullefaxbank.com
 zuriel-health.com
 zuser1.com
 zuvaenergies.com
