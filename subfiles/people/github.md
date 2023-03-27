@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Clean install on NGINX proxy not working + "posthog_action" relation error](https://github.com/PostHog/posthog/issues/14910)
 - [Content Security Policy keeps error](https://github.com/mastodon/mastodon/issues/24278)
 - [Access internet in Iran with this tutorial using cloudflare, a domain and a vps.](https://github.com/net4people/bbs/issues/235)
 - [COINEX fetch_funding_rate_history gives exception by default - coinex safeMarket() requires a fourth argument to disambiguate](https://github.com/ccxt/ccxt/issues/17353)
