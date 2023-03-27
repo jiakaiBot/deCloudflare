@@ -3650,7 +3650,6 @@ zonaeminent.server1.trinchera.dev
 6xfggzrwzaylf7qhlsxme2234-ipfs-dweb-link.translate.goog
 72-prospect-street.toombsteam.com
 90-review-1863-users-exmfik.tetra-k8s.com
-a-bvd-prod-noam-01-skype.trafficmanager.net
 aa.luxury.astebook.thetisweb.it
 aaccvideo.teleperformance.gr
 ablink.editorial.theguardian.com
@@ -3667,7 +3666,6 @@ aem-sit-r2.tatadigital.com
 aged--recipe--e0ba-dafeiji1101-workers-dev.translate.goog
 ahc.theprogressteam.co.uk
 aione.topaz.jp
-al-traffic-loadservice-stg-central.trafficmanager.net
 alerting.dev.platform.topoeverywhere.com
 alpha.tsysapi.com
 alpha.tsysdev.com
@@ -3872,10 +3870,9 @@ cx.tti.com
 cyber-sportsbook.ton1.com
 cyklokoalicia-sk.translate.goog
 da.trendshopify.com
-dacbaovpn1.trafficmanager.net
-dacbaovpntest01.trafficmanager.net
 dani.testitili.com
 data.taipower.com.tw
+data.theworldai.io
 ddl.outlook.kl.tillmann-gruppe.de
 ddui4xgtyrjluej74tl5b3wlq2mzryv2wilhx6cda7jobetu-ipfs-dweb-link.translate.goog
 de.threebuzybees.com
@@ -3995,6 +3992,7 @@ grafana.transaktionsplattform.de
 gratis.ticketdeportivo.cl
 graylog.dev.tmx-internacional.net
 gzmail.theta42.com
+gzrggphecdcpkdatowpedlesdfjckszykximha7ib4b3kine-ipfs-dweb-link.translate.goog
 habibtekdemir.tahtteknoloji.com
 helloringappuat.three.com.hk
 herbalifeclient.thelifestylesquad.com
@@ -4061,6 +4059,7 @@ longcovid.tawarkan.com
 m-nogomania-com.translate.goog
 m.tdbank.com
 mail.tartel.pl
+mail.tc-cmm.pl
 mail.tcenter.ru
 mail.twitchlayout.stream
 manage.theportage.co.nz
@@ -4117,6 +4116,7 @@ nplus.trxhost.com
 nycmvr.marathon.tcsapps.com
 ocjfkdlaerq2jj64fpowvb2o3gv7gd5gvqzit3xbp6hazs5a-ipfs-dweb-link.translate.goog
 of5nhrzmqxqcflm3a4famxbw3ppeynnu35an4qtpmxh5u3pu-ipfs-dweb-link.translate.goog
+offer.theinvoice.net
 ohmr.themailnewspapers.com
 oidfwcssit.thephoenixgroup.com
 oneofus-eu.translate.goog
@@ -4232,6 +4232,7 @@ sber.sber.sber.sber.blablacar.sberbank.covid19.titovasvetlana.ru
 sber.sberbank.blablacar.avito.covid19.targetologist.com
 sber.sberbank.blablacar.www.blablacar.covid19.taezhnaya-perm.ru
 sber.www.sber.covid19.top-brandz.online
+sberbank.avito.avito.avito.avito.avito.covid19.taezhnaya-perm.ru
 sberbank.avito.avito.avito.sber.git.covid19.thomashinder.com
 sberbank.avito.avito.blablacar.gitlab.covid19.trapdoorgang.com
 sberbank.avito.avito.git.git.git.covid19.theragunrussia.ru
@@ -4286,7 +4287,6 @@ sigestpluscolombia.tessi.co
 sip.telecomitalia.it
 sit.apigw-np-v2.aws.hosting.transport.nsw.gov.au
 sjoerh-nieuwsjoerdkorevaarnl.site.transip.me
-skype-profile-prod.trafficmanager.net
 smtp1.tgedm.email
 smtp2.tgedm.email
 solis.tmtelcomm.com
@@ -4302,6 +4302,7 @@ sso.teleperformance.nl
 ssologin.thebhive.net
 st-servicegateway.bas.transport.nsw.gov.au
 stage.blockchain.api.thezene.com
+stage.delivery.tmail.thehp.in
 staging-1652475209.tango-argentino.dk
 staging-noema.theloyaltyco.app
 staging.tvsrenaultbooking.com
@@ -4382,6 +4383,7 @@ taphal.com
 tapntailgate.app
 tapost.id
 tappwall.co
+taqiya.online
 tarabali.com
 tararobertson.ca
 targusecuiesc.eu
@@ -4401,6 +4403,7 @@ tatuaggipiercing.it
 tauber-polska.pl
 tauber-wasilewskivinery.com
 tax-bird.nl
+taxgurusnationwide.com
 taxi-ostrovec.by
 taxirapidbcn.com
 tayarwatani.jo
@@ -4411,6 +4414,7 @@ tazanews18.in
 tbdd.be
 tbx.design
 tc.thirteengroup.co.uk
+tcauthapi.appservices.trucarebilling.com
 tcdachun.com
 tce.com.sg
 tce.tascet.io
@@ -4454,6 +4458,7 @@ technofino.in
 technokratia.com
 technomancy101.com
 technoscriptz.com
+techogtrivsel.dk
 techpolicy-press.translate.goog
 techprodrc.com
 techsavingsolution.in
@@ -4497,6 +4502,7 @@ telegrammessanger.com
 telegramminingbot.com
 telehealthinfo.us
 telekom-poleti-z-ikt.dogodki.telekom.si
+telekomgalan.se
 teletrabajoynegocios.com
 telus-ca.info
 telusite.com
@@ -4505,6 +4511,7 @@ telusurinews.net
 telverify.com.br
 temconnexion.online
 temeculawineandbeersafari.com
+teminfinityqa2.temenos-cloud.net
 temp.trackme.co.il
 tempatrepost.com
 templeporinduccion.com.mx
@@ -4563,10 +4570,12 @@ testchinese.com
 testdesign.nl
 testers.nl
 testescovid.pt
+testiranja.si
 testkz.ru
 testor.si
 testresearch5.tdwaterhouse.ca
 testrsp.net
+tests.sa
 testtreatconfirm.net
 testzentrum-graben-neudorf.de
 testzentrum-saarpfalz.de
@@ -4583,6 +4592,7 @@ texstock.eu
 texthappen.blog
 tfsloyalty.toyota-fs.es
 tgcomics.com
+tgnasjkg.top
 tgye.top
 tgyi.top
 th-unlock.com
@@ -4608,11 +4618,13 @@ the-happiness.app
 the-startup.com
 theaccessworld.com
 theactivebalance.co.uk
+theadsensefamily.com
 theafterscape.com
 theaggressivelyaverageathlete.com
 theaimn.com
 thearkrealmproject.com
 theartsquirrel.com
+theater-complex.jp
 theatergroep-troost.nl
 thebamabuzz.com
 thebarbershop.ro
@@ -4628,6 +4640,7 @@ thebillboardapp.com
 theblueroomcafe.com.au
 thebritishtvplace.com
 thebrotherhoodgames.com
+thebrowsurgeon.com
 thebullcharlbury.com
 thecalypsofestival.com
 thecandycove.co.uk
@@ -4652,6 +4665,7 @@ thedemo.in
 thedetailedguide.com
 thedevinegroup.org
 thediamondsonline.com
+thedigitalmax.com
 thedigitalperiod.com
 thedirtroad.net
 thedisplay.store
@@ -4664,7 +4678,9 @@ theedinburghreporter.co.uk
 thegalleryipswich.co.uk
 thegeopost.com
 thegioinuochoadubai.com
+thegoodandthebest.online
 thegreatforyounow.site
+thegreatforyouusa.online
 thegreenheartgrocer.com.au
 thegriggsteam.com
 thegroceryohc.com
@@ -4720,6 +4736,7 @@ thepostingking.com
 theprancingponypodcast.com
 theprivacypro.com
 theprovocateursband.com
+thequestempire.com
 therandyreport.com
 therapyreimagined.com
 thercsa.ca
@@ -4734,6 +4751,7 @@ thesandwichbugpaloalto.com
 thesatyashodhak.com
 theschlub.com
 thescienceworld.org
+thesensoryspectrum.com
 theseverancepackage.us
 thesonarnetwork.com
 thestadium.org
@@ -4743,6 +4761,7 @@ thetacostation.ca
 thetalkie.club
 thetaxguy.xyz
 theterra-bacgiang.vn
+thetestingserver.com
 thetimeofarrival.com
 thetypescript.com
 theveepee-payment.com
@@ -4856,6 +4875,7 @@ tinderwo.com
 tingkatkanwawasan.com
 tingls.shop
 tinkerlab.com.sg
+tintucxedien.com
 tinywallet.in
 tip-bridge.terrazasipanema.net
 tiplanet.org
@@ -4886,6 +4906,7 @@ toblox.com
 tocqueville21.com
 today-dinner.blog
 today-promotionday.site
+todocolombraro.com.ar
 todoenmuebles.com.ar
 todorequisitosmexico.com
 toe-in.com
@@ -4897,6 +4918,7 @@ toinformado.com.br
 tokata.info
 tokio-suzuki.net
 tokipona.org
+tokoerbe.online
 tokomediaonline.my.id
 tokura.tech
 tokutame.net
@@ -4960,6 +4982,7 @@ tothbor.hu
 totk.app
 totvsvtex.tuper.com.br
 toubatech.sn
+toursenpuertovallarta.com
 tourtime.nl
 towertheatrefolkestone.co.uk
 townoffarmersburg.com
@@ -4977,9 +5000,10 @@ tprc.to
 tq-service.ro
 tr.teknikayapi.com
 trabajoenestadosunidos.org
+trabalhosbrasil.online
 track-dhlexpress.net
 track-id.online
-track-trackingupss.com
+track-packet.de
 track.typethehype.com
 track360.net.in
 trackcouriers.site
@@ -5020,12 +5044,14 @@ traindecharlevoix.com
 trainingazt.com
 traisen.gv.at
 tramitesco.com
+tramiteseguro.info
 tramontina.lv
 trandexcontrol.com
 trangia.vn
 trangtritieccuoihoi.com
 tranquilacresguesthouse.com
 tranquilityvilla.com
+transactionalanalysiscambridge.co.uk
 transactionautomoto.com
 transactionpartner-capital.ch
 transferbooking.hu
@@ -5037,6 +5063,7 @@ translash.org
 transmel.tk
 transparcel.live
 transportactionnetwork.org.uk
+transportegrupoava.com
 transtehservice.info
 transunuion.ca
 transworld.co.il
@@ -5048,6 +5075,7 @@ travafx.com
 travauxetservices.com
 travelerbooking.com
 travelguitar.info
+travelindoterbaik.online
 travelmonviatges.com
 travelnepalnews.com
 travelsafe.pro
@@ -5089,6 +5117,7 @@ triune.tarbettech.com
 trivebank.hu
 trivia.tradeoptimize-clients.com
 trk-mkt.tason.com
+trobe.eu
 trockenbau-huber.de
 troise.ch
 trondal.com
@@ -5116,6 +5145,7 @@ trustedowl.digital
 trustfcu.com
 trustkeyrealty.com
 trustmidlandnational.com
+trustsminers.world
 trustup.me
 truthaboutpetfood.com
 trxtransportadora.com.br
@@ -5198,6 +5228,7 @@ twitchwiregroup.store
 twitter.troublebubble.de
 twitterhileler.com
 twittermap.tv
+twitterpt.com
 twitterscripts.com
 twitterspirit.com
 twitterweed.com
@@ -5263,6 +5294,7 @@ vulcanizare.tractari-nonstop.ro
 w001.tenkiapi.jp
 walletz4u.trioene.com
 wallpapering-painting-services.total-publicity.com.mx
+walmart.teknionmarketing.us
 wap.trp.com.ar
 watt-az.translate.goog
 web-archive-org.translate.goog
@@ -5385,6 +5417,7 @@ www.alert.therocketoffice.com
 www.aluno.tokunaga.com.br
 www.amazon.thnflab.xyz
 www.apple.totalonestop.com
+www.argent.totalpowernet.ca
 www.argenta.thegrowthmark.com
 www.argentos.tolorza.cl
 www.autodiscover.trustmobileproxy.ru
@@ -5551,6 +5584,7 @@ www.pph-stalmet.termstal.com.pl
 www.procarservice.teslakomerc.rs
 www.rastreamentoalerta.tracktv.online
 www.sace.tickethost.co.za
+www.sandboxuber.themagikey.com
 www.sber.avito.www.sber.sber.yegyozmku7jtid0.secure.tumbett.com
 www.sber.sber.avito.blablacar.sberbank.git.covid19.theragunrussia.ru
 www.sber.sber.sber.sberbank.b7m6imtdoiold9d.blog.tacts.tumbett.com
@@ -5624,6 +5658,7 @@ www.tangerine.ventures
 www.tangerinecomputer.com
 www.tangerinedesigns.net
 www.tangerinefoundation.org
+www.tangerinelaw.co.kr
 www.tangerinesky.org
 www.tangerinestylesuites.com
 www.tangerinesuitessunsuriacity.com
@@ -5642,6 +5677,7 @@ www.tapost.id
 www.tarableu.com
 www.targetecoturismo.com.br
 www.targetgoogle.kz
+www.tarnhabitat.fr
 www.tarotfortraders.com
 www.tasador.nl
 www.taskiranziraat.com
@@ -5673,6 +5709,7 @@ www.team-delivery.eu
 www.teamfuber.com
 www.teamgsm.ro
 www.teampokemonmerch.com
+www.teamsters213.org
 www.teamsters638.com
 www.teamsupport.fr
 www.teamworldsupporter.com
@@ -5700,6 +5737,7 @@ www.tecnioriente.com.co
 www.teedupgolfla.com
 www.teesvalleymonitor.com
 www.teiss.co.uk
+www.tejadosyfachadasantander.com
 www.tekken-consulting-agentur.com
 www.teknikayapi.com
 www.teknivalradio.com
@@ -5709,7 +5747,9 @@ www.telecosaragon.es
 www.telefonsupport.dk
 www.telegrama.co.il
 www.telegramdepao.com.telegramdepao.com
+www.telegramrecords.com
 www.telekom.com
+www.telekomgalan.se
 www.telekomoptic.pl
 www.telescopictext.org
 www.televizija5.ba
@@ -5742,7 +5782,9 @@ www.terraservice.se
 www.terrawatts.com
 www.terresawhite.com
 www.territoiresdames.com
+www.tescocharitygolf.ie
 www.tescom-japan.ca
+www.tescon.co
 www.tescoplc.com
 www.tescorproducts.com
 www.tesfcu.org
@@ -5768,9 +5810,11 @@ www.tgrmarketinghub.com
 www.thaibistro-federalway.com
 www.thaicarbooking.com
 www.thairapybythebay.com
+www.thaitriplestandard.com
 www.thaiuser.com
 www.thaluz.com.br
 www.thamescleaningservice.com
+www.thamesensupport.com
 www.tharantandle.com
 www.thats-whynheim.de
 www.thatsnappa.com
@@ -5798,6 +5842,7 @@ www.thebetterwallet.com
 www.thebigapplediner.com
 www.thebigfourblockchain.com
 www.thebigweddinggroup.co.uk
+www.theblackandtheredconsultinggroup.com
 www.theboysdiscord.com
 www.thebramstokerawards.com
 www.thebrentfordcobbler.com
@@ -5807,6 +5852,7 @@ www.thebubblesboutiqueau.com
 www.thebuzzclub.uk
 www.thebuzzybeeltd.com
 www.thecabin.net
+www.thecacmarketinggroup.com
 www.thecampussocialite.com
 www.thecanadianpressnews.ca
 www.thecandydropbox.ca
@@ -5920,6 +5966,7 @@ www.thenovelsociete.com
 www.theoriginalmarketinggroup.com
 www.theoschmitt.com
 www.thepaintsaintsalida.com
+www.thepatriotleague.org
 www.thepeak.com.hk
 www.thepeebleslawyer.com
 www.thepeopletaxservice.com
@@ -5945,6 +5992,7 @@ www.thesabahpost.com
 www.thesafeguardingtraininggroup.co.uk
 www.thesciencecitizen.com
 www.thescorpionshield.com
+www.thesensoryspectrum.com
 www.theshawband.com
 www.theshitaboutwriting.com
 www.theshorthomesteam.com
@@ -5970,6 +6018,7 @@ www.theunwritten.co.uk
 www.theuwc.org
 www.thevalleycollective.com.au
 www.thevicky.co.uk
+www.thevideogamelibrary.org
 www.thevirtualhandshake.com
 www.thevogfiles.com
 www.thevoltageeffect.com
@@ -5987,6 +6036,7 @@ www.thginvestments.com
 www.thi-wurd.com
 www.thickskintheatre.co.uk
 www.thighpaulsandra.co.uk
+www.thinkaboutcrowdsafety.nl
 www.thinkthomasconsulting.com
 www.thiry-osteopathe.be
 www.thisdx7cartdoesnotexist.com
@@ -5996,6 +6046,7 @@ www.thisisvintage.fr
 www.thisone2022.com
 www.thisshopify.com
 www.thmoney.net
+www.thomasschwarzgruber.at
 www.thomastrillion.com
 www.thorncoyle.com
 www.thothermes.thats.im
@@ -6079,6 +6130,7 @@ www.todaforadacaixa.com.br
 www.todayhispoolservice.co.za
 www.toddness.com
 www.todotaladro.top
+www.tohostage.com
 www.toitures-hermes.com
 www.tokiomarinehd.com
 www.tokyoimmo.com
@@ -6090,6 +6142,7 @@ www.tomergoldman.co.il
 www.tomgrossteam.com
 www.tomiateague.com
 www.tomicandco.com
+www.tommixmuseum.com
 www.tomorrowscities.org
 www.tomsadler.com
 www.tomwiggenhauser.com
@@ -6101,11 +6154,13 @@ www.toner-partner24.de
 www.tongdaicloud.vn
 www.tonilane.com.au
 www.tonnelierautos.com.ar
+www.tontine-asso.com
 www.tonyeddy.com
 www.toolkitwestelm.com
 www.toolstation.com
 www.top10-nachhilfe.de
 www.top10vpn.world
+www.topapple.store
 www.topclass-escort-lusso.com
 www.topdogfitnesscenter.com
 www.topibiza.es
@@ -6163,6 +6218,7 @@ www.trailer-service.nl
 www.trailrun4recovery.com
 www.trajectoryconsulting.com
 www.trajectoryconsultinggroup.com
+www.tramiteseguro.info
 www.trans-inkasso.ch
 www.transaction-s.com
 www.transactionassoc.com
@@ -6188,6 +6244,7 @@ www.transportserviceswiss.ch
 www.transworld.co.il
 www.trashpandafunzone.com
 www.trask-howell.com
+www.traslochiponterosso.com
 www.trattoriadelivery.ro
 www.trau-loevner.com
 www.travaux-agricoles-noyen.fr
@@ -6197,7 +6254,9 @@ www.travelbooking.travelranger.com
 www.travelerstoolkitplus.com
 www.travelhubgeorgia.com
 www.travelservices.co.nz
+www.travelsunbooking.com
 www.traversenarcoticsteam.com
+www.trbc.us
 www.treechalk.com
 www.treeservicebrightonmi.com
 www.treino.mx
@@ -6356,7 +6415,6 @@ academ.telco.mx
 access-control.taurus-gemilang.com
 account.taylortechservices.com
 ach-minka-stg.transferenciasinmediatas.com
-acs-canary-centraluseuap.chaosagent.trafficmanager.net
 adfs.testlotterien.at
 adfs.tokyo-cci.or.jp
 admin-api.dev.teraplatforms.com
@@ -6466,7 +6524,6 @@ discordapp.tanbrothers.com
 dysadumnsmiab4ifzfji5ivjon7hc3j44jya3ixluu-ipfs-nftstorage-link.translate.goog
 dz.tzembassy.go.tz
 e-surat.kominfo.tabalongkab.go.id
-eastus.fofe-int.azuremonitor.trafficmanager.net
 ecso.trust-it.it
 email.fttxu.tjjij.com
 eoldata.taibif.tw
@@ -6477,7 +6534,6 @@ exchange.tostedt.de
 fakty.tvn24.pl
 finewayedu-com.translate.goog
 forbes-ua.translate.goog
-freelance.partners.portal.trafficmanager.net
 gentle--dream--0bdb-ex8vc41o3078-workers-dev.translate.goog
 gimulnaut-wordpress-com.translate.goog
 gironanoticies-com.translate.goog
@@ -6885,7 +6941,6 @@ virtualstockmarket.tdbank.com
 vita2022.techart.ru
 vpn.transcelestial.dev
 vqgckzdxmgekuoikbhynkgkwuobigjagwqlfodcfodiurni-ipfs-w3s-link.translate.goog
-vscode-sync.trafficmanager.net
 wa1.tlt.co.th
 wa2.tlt.co.th
 wc-stage.thisisrevere.com
