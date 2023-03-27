@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,032 |
+| com | 6,035 |
 | social | 3,878 |
 | net | 3,085 |
 | org | 2,124 |
@@ -10796,6 +10796,7 @@ Here's a list of public Fediverse services.
 | `faux.io` | Yes |
 | `fauxmotion.soccer` | No |
 | `fauxzen.com` | Yes |
+| `favcalc.com` | Yes |
 | `favdon.com` | No |
 | `favela.world` | No |
 | `favrep.ch` | No |
@@ -22607,6 +22608,7 @@ Here's a list of public Fediverse services.
 | `mkr.house` | No |
 | `mktoho.social` | Yes |
 | `mku.social` | No |
+| `mkwgame.com` | Yes |
 | `ml45.net` | No |
 | `mlabouri.fr` | No |
 | `mlaga97.space` | No |
@@ -25268,6 +25270,7 @@ Here's a list of public Fediverse services.
 | `ntwk.tk` | No |
 | `ntwrkcdn.net` | No |
 | `nu.mba` | No |
+| `nu1.dev` | No |
 | `nuagelibre.fr` | No |
 | `nuak.social` | No |
 | `nuasa.org` | No |
@@ -31251,6 +31254,7 @@ Here's a list of public Fediverse services.
 | `sendero.social` | No |
 | `sendne.ws` | No |
 | `sengeis.priv.at` | No |
+| `sengenzakura.com` | Yes |
 | `sengotta.net` | No |
 | `senigallia.one` | Yes |
 | `seniorenakademie-digital.de` | No |
@@ -40133,8 +40137,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,925 |
-| Normal | 30,165 |
+| Cloudflare | 9,928 |
+| Normal | 30,166 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
