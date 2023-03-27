@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,030 |
-| social | 3,875 |
-| net | 3,084 |
+| com | 6,031 |
+| social | 3,876 |
+| net | 3,085 |
 | org | 2,123 |
 | de | 2,021 |
 
@@ -15369,6 +15369,7 @@ Here's a list of public Fediverse services.
 | `ibukimei.dev` | Yes |
 | `ic.ci` | Yes |
 | `ical.ist` | Yes |
+| `icalo.net` | Yes |
 | `ican.codes` | Yes |
 | `icante.ventures` | No |
 | `icanteventoot.help` | No |
@@ -18822,6 +18823,7 @@ Here's a list of public Fediverse services.
 | `larsen.social` | No |
 | `larsfosdal.blog` | No |
 | `larsreineke.de` | No |
+| `larus.se` | Yes |
 | `larvata.com` | No |
 | `las.rs` | No |
 | `lasanha.org` | No |
@@ -19646,6 +19648,7 @@ Here's a list of public Fediverse services.
 | `livewing.net` | No |
 | `livewire.io` | Yes |
 | `livid.pw` | Yes |
+| `livingblindfully.com` | No |
 | `livingdistant.com` | No |
 | `livingonlinenow.com` | No |
 | `livingunder.rocks` | No |
@@ -21384,6 +21387,7 @@ Here's a list of public Fediverse services.
 | `mastopub.com` | Yes |
 | `mastoq.com` | No |
 | `mastorol.es` | Yes |
+| `mastoscat.club` | No |
 | `mastotn.com` | No |
 | `mastoton.fi` | No |
 | `mastoturk.org` | No |
@@ -28242,6 +28246,7 @@ Here's a list of public Fediverse services.
 | `prostreamers.net` | No |
 | `prosumer.dev` | Yes |
 | `protagio.nl` | No |
+| `protagonist.gay` | No |
 | `prote.ca` | No |
 | `protecciondigital.org` | Yes |
 | `proteomics.social` | Yes |
@@ -30104,6 +30109,7 @@ Here's a list of public Fediverse services.
 | `rsnstats.com` | No |
 | `rsp-blogs.de` | No |
 | `rss.town` | No |
+| `rssto.social` | No |
 | `rstdn-p.com` | No |
 | `rsxo.de` | No |
 | `rsync420.com` | Yes |
@@ -35880,6 +35886,7 @@ Here's a list of public Fediverse services.
 | `toukae.com` | No |
 | `tourdeguet.fr` | No |
 | `tourmentine.com` | No |
+| `tourtoise.quest` | No |
 | `towards.vision` | No |
 | `towns.gay` | Yes |
 | `townsends.online` | No |
@@ -40116,8 +40123,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,915 |
-| Normal | 30,158 |
+| Cloudflare | 9,917 |
+| Normal | 30,163 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
