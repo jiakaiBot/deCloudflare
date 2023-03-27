@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,031 |
+| com | 6,032 |
 | social | 3,878 |
 | net | 3,085 |
 | org | 2,124 |
@@ -4508,7 +4508,7 @@ Here's a list of public Fediverse services.
 | `bradsease.com` | No |
 | `braemer.us` | No |
 | `brage.fr` | Yes |
-| `brainbaking.com` | No |
+| `brainbaking.com` | Yes |
 | `brainjuice.ca` | No |
 | `brainport.social` | No |
 | `brainsoap.net` | No |
@@ -13904,6 +13904,7 @@ Here's a list of public Fediverse services.
 | `hachune.net` | No |
 | `hachyderm.io` | No |
 | `hachyderm.wtf` | No |
+| `haciendacourts.com` | Yes |
 | `hack13.me` | Yes |
 | `hack2g2.fr` | Yes |
 | `hackabee.fr` | No |
@@ -31972,7 +31973,7 @@ Here's a list of public Fediverse services.
 | `skrep.eu` | No |
 | `skrep.in` | No |
 | `skress.eu.org` | No |
-| `skress.xyz` | No |
+| `skress.xyz` | Yes |
 | `skri.be` | No |
 | `skri.ga` | No |
 | `skribeworks.com` | No |
@@ -35312,7 +35313,7 @@ Here's a list of public Fediverse services.
 | `tigerstyping.com` | No |
 | `tigger.ie` | No |
 | `tiggi.es` | No |
-| `tighnari.site` | No |
+| `tighnari.site` | Yes |
 | `tigr.space` | No |
 | `tigvarts.com` | No |
 | `tigwali.fr` | No |
@@ -40132,8 +40133,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,921 |
-| Normal | 30,168 |
+| Cloudflare | 9,925 |
+| Normal | 30,165 |
 
 
-### 24.7% of public Fediverse services are using Cloudflare.
+### 24.8% of public Fediverse services are using Cloudflare.
