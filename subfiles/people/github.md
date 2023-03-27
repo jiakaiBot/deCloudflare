@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Content Security Policy keeps error](https://github.com/mastodon/mastodon/issues/24278)
 - [Access internet in Iran with this tutorial using cloudflare, a domain and a vps.](https://github.com/net4people/bbs/issues/235)
 - [COINEX fetch_funding_rate_history gives exception by default - coinex safeMarket() requires a fourth argument to disambiguate](https://github.com/ccxt/ccxt/issues/17353)
 - [breakfix: id_token signed with unsupported algorithm](https://github.com/greenpau/caddy-security/issues/221)
