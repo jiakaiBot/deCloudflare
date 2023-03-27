@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 | com | 6,030 |
 | social | 3,875 |
 | net | 3,084 |
-| org | 2,122 |
-| de | 2,019 |
+| org | 2,123 |
+| de | 2,021 |
 
 
 - Mastodon, Pleroma, etc
@@ -1323,6 +1323,7 @@ Here's a list of public Fediverse services.
 | `alduino.xyz` | Yes |
 | `ale-elements.ml` | No |
 | `ale.gd` | No |
+| `aleale.org` | No |
 | `aleana.xyz` | Yes |
 | `aleatoire.net` | No |
 | `alecmuffett.com` | No |
@@ -18195,6 +18196,7 @@ Here's a list of public Fediverse services.
 | `kolombo.xyz` | No |
 | `kom-in.de` | No |
 | `komaedak.in` | No |
+| `komaverse.de` | No |
 | `komekome09.jp` | Yes |
 | `komic.eu` | No |
 | `komintern.work` | No |
@@ -21779,6 +21781,7 @@ Here's a list of public Fediverse services.
 | `mehlmann.info` | No |
 | `mehulkar.com` | No |
 | `mei-home.net` | No |
+| `meiblogg.de` | No |
 | `meidam.fo` | No |
 | `meido-rando.net` | No |
 | `meikle.social` | No |
@@ -22052,6 +22055,7 @@ Here's a list of public Fediverse services.
 | `meyer.cz` | No |
 | `meyfam.com` | No |
 | `mezashi.info` | No |
+| `mezzart.fr` | No |
 | `mezzo.moe` | No |
 | `mf1.dev` | Yes |
 | `mfashby.net` | No |
@@ -40113,7 +40117,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,915 |
-| Normal | 30,154 |
+| Normal | 30,158 |
 
 
 ### 24.7% of public Fediverse services are using Cloudflare.
