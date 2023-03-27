@@ -456,6 +456,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aimanfi96226499@twitter](https://twitter.com/Aimanfi96226499/status/1397104510128975872) | advertise |
 | [AimanPatwary@twitter](https://twitter.com/AimanPatwary/status/1469638121310461959) | advertise |
 | [AimzBryan@twitter](https://twitter.com/AimzBryan/status/1387214969381560321) | advertise |
+| [aintcoolman@twitter](https://twitter.com/aintcoolman/status/1640371599802273792) | advertise |
 | [airand20@twitter](https://twitter.com/airand20/status/1636835507878633472) | advertise |
 | [airashi6@twitter](https://twitter.com/airashi6/status/1396718923974803457) | advertise |
 | [AirMacbook1@twitter](https://twitter.com/AirMacbook1/status/1552586764685955077) | advertise |
@@ -631,6 +632,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlvinKigen@twitter](https://twitter.com/AlvinKigen/status/1382025365930016776) | advertise |
 | [Alvinn_Garcia@twitter](https://twitter.com/Alvinn_Garcia/status/1384722685666598914) | advertise |
 | [alvin_lavin8@twitter](https://twitter.com/alvin_lavin8/status/1590236241236086784) | advertise |
+| [alwicy1@twitter](https://twitter.com/alwicy1/status/1640380272251379713) | advertise |
 | [AlwieWith@twitter](https://twitter.com/AlwieWith/status/1522266243566292993) | advertise |
 | [Aly25472835@twitter](https://twitter.com/Aly25472835/status/1551968739243048960) | advertise |
 | [AlyCheikh9@twitter](https://twitter.com/AlyCheikh9/status/1606988217798086657) | advertise |
@@ -2220,8 +2222,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -5542,8 +5544,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -11528,6 +11530,7 @@ Do not create new issue or we will close it as duplicate.
 | [tungtroy2122@twitter](https://twitter.com/tungtroy2122/status/1379372249212456963) | advertise |
 | [tungtung411@twitter](https://twitter.com/tungtung411/status/1404120132943712260) | advertise |
 | [TuNguyddjcmf@twitter](https://twitter.com/TuNguyddjcmf/status/1597145101834518529) | advertise |
+| [TunHa82478139@twitter](https://twitter.com/TunHa82478139/status/1640366095881101313) | advertise |
 | [TunHmine@twitter](https://twitter.com/TunHmine/status/1391918737368895488) | advertise |
 | [TunHtetAung15@twitter](https://twitter.com/TunHtetAung15/status/1389878074771054592) | advertise |
 | [TunHuyDng1@twitter](https://twitter.com/TunHuyDng1/status/1609663108418797568) | advertise |
