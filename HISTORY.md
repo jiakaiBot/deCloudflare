@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-03-27: [Increased HTTP 500 Errors in India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/31fss6hx0txn)
 - 2023-03-22: [Issues enabling public access for R2 buckets](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/tpfwfflgrq5x)
 - 2023-03-22: [Increase in challenges for traffic from TOR exit nodes](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ccls5k2f1jlw)
 - 2023-03-22: [Investigating Network Related Issues in San Diego.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g8kt0xwqyb5h)
