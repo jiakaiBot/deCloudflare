@@ -1,8 +1,6 @@
 000-amd-int-eu-d23ekigfgt2mcdsshbe-okta.apps.ap.vwapps.io
 143-secureserver.vivian.jp
 15-okta.apps.emea.vwapps.io
-1svr-tcloud.gauges.memory.ultilization.virtareal.asia
-1svr-tcloud.graph.memory.ultilization.virtareal.asia
 2lauafirdezf4yk.blog.blog.staging.vmail.valetparking.pl
 4g.vzwdm.com
 5th.vaccine-support.aichi.jp
@@ -1524,6 +1522,7 @@ cpanel.clinicadevacinacaocuritiba.vaccineja.com.br
 cpanel.vulcan.com.gh
 cpanel.vulcandrifterriders.com
 cpanel.vulcansoundradio.com
+cpanel.vulcantechnology.com
 cpcalendars.clinicadevacinacaocuritiba.vaccineja.com.br
 cpcalendars.vorona.com
 cpcalendars.vulcan.com.gh
@@ -1532,6 +1531,7 @@ cpcalendars.vulcano.systems
 cpcalendars.vulcanracing.net
 cpcalendars.vulcansoundradio.com
 cpcalendars.vulcantechgospel.com
+cpcalendars.vulcantechnology.com
 cpcontacts.clinicadevacinacaocuritiba.vaccineja.com.br
 cpcontacts.vulcan.com.gh
 cpcontacts.vulcandrifterriders.com
@@ -1705,6 +1705,7 @@ prodidsp.si.valid.com.br
 producedatahubservices.volvo.com
 projects.vipconsulting.com
 ps-automation-update-preview.virtual-spaces.de
+publik.verdi.de
 qa.api.sfdc.vwgroup.de
 qaapi4.vivanda.com
 recording1.a58.verintcloudservices.com
@@ -1717,6 +1718,7 @@ rwil-dev.volkswagenag.com
 sanrio.viverebrasil.com.br
 sber.avito.avito.avito.avito.avito.blog.covid19.vitorheinzen.com
 sber.avito.sber.avito.avito.sber.covid19.view-manager.com
+sber.avito.sber.avito.avito.sber.covid19.vr-cosmetology.ru
 sber.avito.sber.avito.blablacar.covid19.view-manager.com
 sber.avito.sber.blablacar.avito.avito.covid19.view-manager.com
 sber.sber.aviavisberbank.m.covid19.vitorheinzen.com
@@ -1752,6 +1754,7 @@ secure.vms4fx.com
 server2.veilig-online.com
 service-stream.private.dev.visitons.tech
 service-stream.public.dev.visitons.tech
+sgtm.vitality.co.uk
 sharepoint.vcs.org.au
 si-idp.vfltest.dk
 signin-appleid.vaneonsignsllc.com
@@ -1861,6 +1864,7 @@ velocitylistverify.com
 velocityppm-gateway-dev1.virtusa.com
 velocityutilization-dev1.virtusa.com
 velstandsecurity.ro
+velvetmind.net
 vems.veritas.com
 venaver.com.ar
 venciotcc.com.br
@@ -1892,6 +1896,7 @@ vermeg.com
 vernonmuseum.ca
 vernonwebb.com
 veronicabadea.com
+verraokta.com
 versusvpn.co.uk
 veseran.com
 vesseldock.com
@@ -1920,9 +1925,11 @@ vibenshusoejenklinik.dk
 vibrantbilling.com
 vicemagazin.ro
 vickedgood.com
+vicstussy.online
 victoriafcu.org
 victoriahistoricalsociety.bc.ca
 victoriamutual.com
+victoriastussy.online
 victormgken.vercel.app
 victorpetfood.com
 victoryautomotiveservice.com
@@ -1947,6 +1954,7 @@ vignoblejaumouille.fr
 viiri-audio.com
 vijayabank.co
 vijayacentral.com
+vijaylakshmijewellers.in
 vikagrin.com
 vikeng.space
 vikingcorporation.com
@@ -1966,6 +1974,7 @@ vincecreative.com.br
 vincentgaragedoorrepairservice.us
 vincenzopresutto.it
 vindpunt.nl
+vine222.tk
 vingy.shop
 vinhairvendor.com
 viniciusmartin.com
@@ -2139,6 +2148,7 @@ webdisk.vulcano.systems
 webdisk.vulcanracing.net
 webdisk.vulcansoundradio.com
 webdisk.vulcantechgospel.com
+webdisk.vulcantechnology.com
 webdisk.vulcanve.com
 webmail.clinicadevacinacaocuritiba.vaccineja.com.br
 webmail.vaccinesandsociety.com
@@ -2223,6 +2233,7 @@ www.sam.vinnygrosso.com
 www.securityjen.com.viralnewsx.com
 www.sentralparcel.dev.001.veccani.com
 www.service-new.vmsict.com
+www.shop-accounts.com.validexchanger.com
 www.steam.validgamekeys.com
 www.stripe.vizzypop.com
 www.support.verdin.io
@@ -2323,6 +2334,7 @@ www.verinnogen.com
 www.veriyapi.com
 www.verkkomaine.fi
 www.verkstan26.se
+www.verraokta.com
 www.versionformations.com
 www.verstand.ai
 www.verstegenstigter.nl
@@ -2377,6 +2389,7 @@ www.vikramsinghparmar.com
 www.vill.narusawa.yamanashi.jp
 www.villageofcrivitz.com
 www.villas-meridiana.com
+www.villathermes.com
 www.villesetvillagesouilfaitbonvivre.com
 www.vincentdt.com
 www.vinhos3morais.com.br
@@ -2404,6 +2417,7 @@ www.visionsource-appletoneyecare.com
 www.visionsource-owasso.com
 www.visitmiddelfartbooking.dk
 www.visitscarborough.com
+www.vistecheyewear.info
 www.visualize.sg
 www.vitamaster.ch
 www.vitauvc.com
@@ -2428,6 +2442,8 @@ www.voice-ai.app
 www.voiceofalexandria.com
 www.voiceoverartist.at
 www.voievodulgelu.ro
+www.vois.com.tr
+www.voistelekom.com
 www.volcansage.com
 www.volksbanken-vec.de
 www.volkswagenaksesuar.com.tr
@@ -2442,6 +2458,7 @@ www.volvocarsarrowhead.com
 www.volvocarsoklahomacity.com
 www.vortexshippingservice.com
 www.vostotaalservice.nl
+www.votejoeyrusso.com
 www.votenarmstrong.ca
 www.voxoludeniz.com
 www.voxweb.nl
@@ -2468,6 +2485,7 @@ www.vrijschrift.org
 www.vrmakelaardij.nl
 www.vroomtuber.com
 www.vseinc.com
+www.vsp-packages.com
 www.vspa-asso.com
 www.vstcleaningservice.com
 www.vtbythebay.com
@@ -2494,6 +2512,7 @@ www3.qua.viaverde.pt
 yemeksepeti.vegayazilim.com.tr
 yes-lb.visomdm.com
 z452k5-gmailcom.vercel.app
+zentrum.volkswagen.cl
 zeus.vdw-rw.de
 zmail.vpp-energy.hu
 3dsp.vtb.ru
@@ -2868,7 +2887,6 @@ www.service.vanvipservice.com
 www.service.vrasmedia.com
 www.services.vincentge.com
 www.servicios.voyapunta.com
-www.site.vemdedelivery.com.br
 www.ticketsell.viewsports4k.com
 www.track.verfolgung-depost.org
 www.v-service.vn
