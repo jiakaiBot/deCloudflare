@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,035 |
+| com | 6,036 |
 | social | 3,878 |
 | net | 3,085 |
 | org | 2,124 |
@@ -29333,6 +29333,7 @@ Here's a list of public Fediverse services.
 | `redwoods.dev` | No |
 | `redxen.eu` | No |
 | `reece.sx` | Yes |
+| `reedyn.com` | Yes |
 | `reekes.org` | Yes |
 | `reekynet.com` | No |
 | `reel2bits.org` | No |
@@ -40138,7 +40139,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,931 |
+| Cloudflare | 9,932 |
 | Normal | 30,164 |
 
 
