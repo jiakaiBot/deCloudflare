@@ -16553,7 +16553,7 @@ Here's a list of public Fediverse services.
 | `javier.is` | No |
 | `javierleiva.com` | No |
 | `javiersanchez.net` | No |
-| `javiljoen.net` | No |
+| `javiljoen.net` | Yes |
 | `javisantana.com` | No |
 | `javisst.space` | No |
 | `javx.de` | No |
@@ -26956,7 +26956,7 @@ Here's a list of public Fediverse services.
 | `peliculaspro.net` | Yes |
 | `pelliphant.social` | No |
 | `pelzi-online.net` | No |
-| `pena.mobi` | No |
+| `pena.mobi` | Yes |
 | `pencilchecker.space` | Yes |
 | `pencilfusion.com` | No |
 | `penclaw.press` | No |
@@ -31072,6 +31072,7 @@ Here's a list of public Fediverse services.
 | `seanmaddison.uk` | No |
 | `seanmcadam.online` | No |
 | `seanmorr.is` | Yes |
+| `seann.ca` | Yes |
 | `seanos.net` | Yes |
 | `seanreiser.com` | Yes |
 | `seanzach.com` | Yes |
@@ -40137,8 +40138,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,928 |
-| Normal | 30,166 |
+| Cloudflare | 9,931 |
+| Normal | 30,164 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
