@@ -640,6 +640,7 @@ Do not create new issue or we will close it as duplicate.
 | [amai0722@twitter](https://twitter.com/amai0722/status/1395805952704606208) | advertise |
 | [amalalmadawy@twitter](https://twitter.com/amalalmadawy/status/1398334332322844679) | advertise |
 | [amaljith16@twitter](https://twitter.com/amaljith16/status/1401844314087378950) | advertise |
+| [amalwaomar@twitter](https://twitter.com/amalwaomar/status/1640131741464526853) | advertise |
 | [Aman51457490@twitter](https://twitter.com/Aman51457490/status/1495121007362777088) | advertise |
 | [AmandaL56524716@twitter](https://twitter.com/AmandaL56524716/status/1504008897429975040) | advertise |
 | [AmandaOchsenbi1@twitter](https://twitter.com/AmandaOchsenbi1/status/1508247702328512516) | advertise |
