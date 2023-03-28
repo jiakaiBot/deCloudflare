@@ -10032,6 +10032,7 @@ Here's a list of public Fediverse services.
 | `enitor.xyz` | No |
 | `enjinm7.com` | No |
 | `enjoyable.gay` | No |
+| `enjoyer.network` | No |
 | `enkitunes.com` | No |
 | `enl.social` | Yes |
 | `enlightened.army` | Yes |
@@ -20126,6 +20127,7 @@ Here's a list of public Fediverse services.
 | `lukacern.cz` | No |
 | `lukaprincic.si` | No |
 | `lukaroose.nl` | No |
+| `lukasrinins.land` | No |
 | `lukasrosenstock.net` | No |
 | `lukaszkopczyk.com` | No |
 | `luke256.dev` | Yes |
@@ -40161,7 +40163,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,940 |
-| Normal | 30,177 |
+| Normal | 30,179 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
