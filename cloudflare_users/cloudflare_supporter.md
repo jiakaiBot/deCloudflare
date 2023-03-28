@@ -9898,6 +9898,7 @@ Do not create new issue or we will close it as duplicate.
 | [sgclabglass@twitter](https://twitter.com/sgclabglass/status/1391577319232335872) | advertise |
 | [SGhosting3@twitter](https://twitter.com/SGhosting3/status/1395637273262116866) | advertise |
 | [sgNTbTeD2Hmc2f8@twitter](https://twitter.com/sgNTbTeD2Hmc2f8/status/1549797275475623936) | advertise |
+| [SGOSA2021@twitter](https://twitter.com/SGOSA2021/status/1640619996597440512) | advertise |
 | [sh1mc@twitter](https://twitter.com/sh1mc/status/1401972658242084864) | advertise |
 | [sha3rawi33@twitter](https://twitter.com/sha3rawi33/status/1415611299602501632) | advertise |
 | [shabdonagor@twitter](https://twitter.com/shabdonagor/status/1495104498821636096) | advertise |
