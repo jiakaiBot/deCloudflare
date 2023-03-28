@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,036 |
+| com | 6,037 |
 | social | 3,879 |
 | net | 3,085 |
 | org | 2,126 |
-| de | 2,021 |
+| de | 2,022 |
 
 
 - Mastodon, Pleroma, etc
@@ -2046,6 +2046,7 @@ Here's a list of public Fediverse services.
 | `aorinngo.top` | No |
 | `aotake91.net` | No |
 | `aow.show` | No |
+| `aowolfie.com` | No |
 | `aoxiang.online` | Yes |
 | `aozaki.cc` | Yes |
 | `aozora.uk` | Yes |
@@ -3797,6 +3798,7 @@ Here's a list of public Fediverse services.
 | `bionicbeer.com` | No |
 | `biont.space` | No |
 | `bioxis-server.fr` | No |
+| `bipeds.onl` | No |
 | `biphant.social` | Yes |
 | `biplus.date` | Yes |
 | `biplus.social` | No |
@@ -16823,6 +16825,7 @@ Here's a list of public Fediverse services.
 | `jlfr.me` | No |
 | `jlg.id.au` | No |
 | `jlg.link` | Yes |
+| `jliu.xyz` | Yes |
 | `jlm.name` | No |
 | `jln.io` | No |
 | `jlperidot.com` | No |
@@ -25087,6 +25090,7 @@ Here's a list of public Fediverse services.
 | `nosink.eu` | Yes |
 | `nosocial.org` | No |
 | `nosocialnet.work` | No |
+| `nosotros.ong.br` | Yes |
 | `nospy.net` | No |
 | `nostalghia.xyz` | Yes |
 | `nostalgia-tns.net` | No |
@@ -26343,6 +26347,7 @@ Here's a list of public Fediverse services.
 | `outdoorism.net` | No |
 | `outdoors.lgbt` | No |
 | `outdoors.social` | No |
+| `outer.tf` | No |
 | `outergod.art` | No |
 | `outerheaven.cc` | No |
 | `outerheaven.club` | No |
@@ -26832,6 +26837,7 @@ Here's a list of public Fediverse services.
 | `pcf.fr` | Yes |
 | `pcgame.jp` | No |
 | `pcgamer.social` | Yes |
+| `pcgamers.win` | Yes |
 | `pcgaming.club` | No |
 | `pch.net` | No |
 | `pchost.org` | No |
@@ -35526,6 +35532,7 @@ Here's a list of public Fediverse services.
 | `toby.sh` | No |
 | `toby3d.me` | Yes |
 | `tocaj.ch` | No |
+| `tochat.one` | Yes |
 | `toco2.fun` | No |
 | `tod.net` | Yes |
 | `todanano-fune.moe` | Yes |
@@ -38762,6 +38769,7 @@ Here's a list of public Fediverse services.
 | `woyala.com` | Yes |
 | `wp-punks.social` | No |
 | `wp-social.net` | No |
+| `wp-tipps.de` | No |
 | `wpbuilds.com` | Yes |
 | `wpbuilds.social` | Yes |
 | `wpcomstaging.com` | No |
@@ -40146,8 +40154,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,933 |
-| Normal | 30,170 |
+| Cloudflare | 9,937 |
+| Normal | 30,174 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
