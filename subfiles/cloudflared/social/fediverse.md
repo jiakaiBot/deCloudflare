@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,038 |
 | social | 3,879 |
 | net | 3,086 |
-| org | 2,126 |
+| org | 2,127 |
 | de | 2,022 |
 
 
@@ -5387,6 +5387,7 @@ Here's a list of public Fediverse services.
 | `cbruegg.com` | Yes |
 | `cbrx.io` | Yes |
 | `cbslocal.com` | Yes |
+| `cbult.space` | Yes |
 | `cbz.pw` | Yes |
 | `cc.bi` | No |
 | `cc.chat` | Yes |
@@ -18049,6 +18050,7 @@ Here's a list of public Fediverse services.
 | `klein.social` | No |
 | `klein.tl` | No |
 | `kleinbottle.club` | No |
+| `kleinebackstube.org` | No |
 | `kleinheld.ch` | No |
 | `kleinhitpass.de` | No |
 | `kleinke.social` | No |
@@ -24177,6 +24179,7 @@ Here's a list of public Fediverse services.
 | `nekojimi.moe` | No |
 | `nekojita.moe` | No |
 | `nekokawa.net` | Yes |
+| `nekol.cc` | No |
 | `nekomimi.jp` | No |
 | `nekomimi.yokohama` | Yes |
 | `nekomin.jp` | Yes |
@@ -30389,6 +30392,7 @@ Here's a list of public Fediverse services.
 | `sabatino.pro` | No |
 | `sabbeln.social` | No |
 | `sabertooth.social` | No |
+| `sables.ooo` | No |
 | `sabletopia.co.uk` | Yes |
 | `sabordage.net` | No |
 | `sabre.social` | No |
@@ -40156,8 +40160,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,939 |
-| Normal | 30,174 |
+| Cloudflare | 9,940 |
+| Normal | 30,177 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
