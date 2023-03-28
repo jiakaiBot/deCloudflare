@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,037 |
+| com | 6,038 |
 | social | 3,879 |
-| net | 3,085 |
+| net | 3,086 |
 | org | 2,126 |
 | de | 2,022 |
 
@@ -14669,6 +14669,7 @@ Here's a list of public Fediverse services.
 | `hime.moe` | No |
 | `himitsudon.com` | No |
 | `himk.am` | Yes |
+| `himriu.com` | No |
 | `hina.dev` | No |
 | `hina.house` | Yes |
 | `hinabita.com` | No |
@@ -18772,6 +18773,7 @@ Here's a list of public Fediverse services.
 | `lamer-ethos.site` | No |
 | `lamesnie.eu` | No |
 | `laminar.social` | No |
+| `laminne33569.net` | Yes |
 | `lamowski.net` | No |
 | `lamp.institute` | Yes |
 | `lamp.wtf` | No |
@@ -24833,7 +24835,7 @@ Here's a list of public Fediverse services.
 | `noah.onl` | No |
 | `noahsark.social` | No |
 | `noahschmitz.me` | Yes |
-| `noahtren.com` | No |
+| `noahtren.com` | Yes |
 | `noalyss.eu` | No |
 | `noam.horse` | No |
 | `noam.social` | No |
@@ -40154,7 +40156,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,937 |
+| Cloudflare | 9,939 |
 | Normal | 30,174 |
 
 
