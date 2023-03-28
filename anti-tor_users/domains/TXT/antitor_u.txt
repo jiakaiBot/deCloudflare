@@ -1204,6 +1204,7 @@ cirt.domains.unf.edu
 click.e-marketing.unpri.org
 click.outreach.usac.org
 click.ust.unclesamtips.com
+cns.usps.com
 collimateur.uqam.ca
 communication.uqam.ca
 consultar-online-hoje.ubpages.com
@@ -1222,6 +1223,7 @@ cti.uncoder.io
 dandurand.uqam.ca
 dashboardcovidbrasil.di.uern.br
 dc1.eilab.uoit.org
+dchg-dev.uplus.co.kr
 demo.utilibill.com.au
 demo3.utilibill.com.au
 demoinvoice.ubwebs.com
@@ -1229,6 +1231,7 @@ denizlitekden.uesis.net
 dev-micropay.uplus.co.kr
 dev.api.data.unicloudgroup.com.vn
 dev.api.hrmconfig.unicloudgroup.com.vn
+dev2.uncensorednews.us
 didactica.fisica.uson.mx
 discordapi.umutyanik.net
 dsfghjklm.ubpages.com
@@ -1242,7 +1245,9 @@ en.unionin26.fi
 en.universalwealthassurance.com
 en.unlockingthebluedoor.com
 en.uptownbooking.com
+es.unisg.ch
 es.usapublicadjustinggroup.com
+ewyszukiwarka.pue.uprp.gov.pl
 experimentalgamecultures.uni-ak.ac.at
 extranet.upmuruguay.com.uy
 extranetslam.urops-prevention.fr
@@ -1315,6 +1320,7 @@ nouvelles.ulaval.ca
 ntwois.eu.uniflowonline.com
 o.upgradegroup.com
 obikn.u-appspecto.com
+officle.uber.space
 okta.unoedge.co
 old.payments.ulohas.tw
 onevideosync.uplynk.com
@@ -1359,6 +1365,7 @@ relawan.untukcianjur.id
 reqef.uqam.ca
 research.uapaccount.com
 sabalhomestay.uphotel.top
+saungbambu.uberma.id
 sberbank.sber.avito.avito.covid19.ukrtranspark.com
 sberbank.sber.avito.avito.sber.covid19.ukrtranspark.com
 scdemo-b2c.unlockcommerce.co
@@ -1373,6 +1380,7 @@ services.usps.com
 services1.uvoset.com
 serviciosaruba.com.uru159.shop
 set.unimap.edu.my
+sewakomputer.uberma.id
 signon-oqa.ual.com
 signon.ual.com
 sihipka.unsika.ac.id
@@ -1505,6 +1513,7 @@ unitedlaundry.com.sg
 unitedrewards.co.za
 unitransservice.com
 universal-studios-orlando-tickets.com
+univoxfibra.net
 uniwawa.com
 unixhq.com
 unknown.gold
@@ -1593,6 +1602,7 @@ useranch.com.br
 userbox.com
 usereluz.com
 userenova.com.br
+userhinobrasil.com.br
 usershare.me
 userumah.com.br
 usesucesso.com
@@ -1716,14 +1726,18 @@ www.pruebas.usuario6.uno
 www.pruebas.usuario8.uno
 www.pruebas.usuario9.uno
 www.safer4us.univpark.org
+www.saungbambu.uberma.id
 www.secure.ubsimt.com
 www.secure.ultraahost.com
 www.serviciosaruba.com.uru159.shop
+www.serviciosaruba.com2.uru159.shop
+www.sewakomputer.uberma.id
 www.shrifinancialservice.uniquecreationindia.com
 www.skype2013.upfiles.org
 www.smo.uhi.ac.uk
 www.ssoc.ulticr.com
 www.stats.uber1337.dk
+www.stbcinvoice.u-tech.web.id
 www.store.uwaisteam.com
 www.support.utu.systems
 www.ticket01.usatodayhs.com
@@ -1755,6 +1769,7 @@ www.uberology.co.uk
 www.uberrimon.com
 www.ubersolar.co.za
 www.ubertech.uk
+www.ubertechrepairs.ca
 www.ubertekno.com
 www.ubertektaya.com
 www.ubertomondolfi.com
@@ -1776,6 +1791,7 @@ www.udomyon.com
 www.udsp82.fr
 www.udt-alarme.fr
 www.udt.com
+www.ufcgambling.com
 www.ufologyiscorrupt.com
 www.uglyapples.co.uk
 www.ugotujcie.pl
@@ -1802,6 +1818,7 @@ www.umigarrett.com
 www.umitulum.com
 www.umutyapi.com.tr
 www.un.org
+www.unagi-koubou.jp
 www.uncharted-worlds.org
 www.unclaimedrecoveries.com
 www.uncontrived.org
@@ -1852,6 +1869,7 @@ www.unlockedmediagroup.com
 www.unlockedministries.com
 www.unlockedpr.com
 www.unlockedsurf.org
+www.unlockerking.in
 www.unlockfuture.ch
 www.unlockhealthandwellness.com
 www.unlockhighered.org
@@ -1911,11 +1929,13 @@ www.usaappliancewarehouse.com
 www.usaaqi.com
 www.usaassistanceprogam.com
 www.usaautocentertx.com
+www.usaautopartsllc.com
 www.usafe.co.il
 www.usdirectexpress.com
 www.useaglelogin.com
 www.user.udaanhub.in
 www.userbox.com
+www.usercamps.com
 www.usereluz.com
 www.userenova.com.br
 www.userprotection33413245.click
@@ -1929,6 +1949,7 @@ www.ushangu.in
 www.usher-syndrome.org
 www.usher1f.org
 www.usine-futur.com
+www.ustelus.co
 www.ustom.fr
 www.ustouring-apply.com
 www.utahinvestigative.org
