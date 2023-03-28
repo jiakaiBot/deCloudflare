@@ -8392,6 +8392,7 @@ Here's a list of public Fediverse services.
 | `dgplug.org` | No |
 | `dgrammatiko.dev` | Yes |
 | `dgtl-service.com` | No |
+| `dgunn.uk` | Yes |
 | `dh.social` | Yes |
 | `dharmadhatu.nl` | No |
 | `dharmapunx.online` | No |
@@ -25361,7 +25362,7 @@ Here's a list of public Fediverse services.
 | `nurh.org` | No |
 | `nursanamar.com` | No |
 | `nursetonyf.com` | No |
-| `nursingpoint.de` | No |
+| `nursingpoint.de` | Yes |
 | `nurumayu.jp` | No |
 | `nusdyoll.io` | No |
 | `nussnougate.net` | No |
@@ -40163,8 +40164,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,940 |
-| Normal | 30,180 |
+| Cloudflare | 9,942 |
+| Normal | 30,179 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
