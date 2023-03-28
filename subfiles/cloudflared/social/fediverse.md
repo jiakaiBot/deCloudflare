@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,036 |
-| social | 3,878 |
+| social | 3,879 |
 | net | 3,085 |
 | org | 2,124 |
 | de | 2,021 |
@@ -6680,6 +6680,7 @@ Here's a list of public Fediverse services.
 | `cord.de` | No |
 | `cordelya.net` | Yes |
 | `corduba.tech` | No |
+| `cordx.cx` | Yes |
 | `corebreach.com` | No |
 | `corecoding.dev` | No |
 | `coredump.social` | No |
@@ -12668,7 +12669,7 @@ Here's a list of public Fediverse services.
 | `gaven.social` | No |
 | `gavinbrown.xyz` | Yes |
 | `gawk.es` | Yes |
-| `gawlinski.com` | No |
+| `gawlinski.com` | Yes |
 | `gawo.ga` | No |
 | `gay-pirate-assassins.de` | No |
 | `gay-skater-caster.de` | No |
@@ -13582,6 +13583,7 @@ Here's a list of public Fediverse services.
 | `greennuclear.online` | No |
 | `greenparty.org.uk` | Yes |
 | `greenpeace.ch` | Yes |
+| `greenpeace.social` | Yes |
 | `greenpencil.social` | No |
 | `greenpete.co.uk` | No |
 | `greenplenty.social` | No |
@@ -15307,6 +15309,7 @@ Here's a list of public Fediverse services.
 | `i18n.social` | No |
 | `i226.net` | Yes |
 | `i2p.rocks` | No |
+| `i32.eu` | No |
 | `i3x.cx` | No |
 | `i544c.me` | Yes |
 | `i8y.org` | No |
@@ -23802,7 +23805,7 @@ Here's a list of public Fediverse services.
 | `n0tath1ng.club` | No |
 | `n11o.com` | No |
 | `n1l.dev` | Yes |
-| `n1mtp.com` | No |
+| `n1mtp.com` | Yes |
 | `n30k-zeiladn.com` | No |
 | `n3cld.de` | No |
 | `n3rd.cc` | Yes |
@@ -24096,6 +24099,7 @@ Here's a list of public Fediverse services.
 | `neb.host` | No |
 | `nebbia.fail` | No |
 | `nebby.de` | No |
+| `nebula.lgbt` | No |
 | `nebula.moe` | Yes |
 | `nebulon.de` | No |
 | `nebulon.io` | Yes |
@@ -40139,7 +40143,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,932 |
+| Cloudflare | 9,936 |
 | Normal | 30,164 |
 
 
