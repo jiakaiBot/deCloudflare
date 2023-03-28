@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,036 |
 | social | 3,879 |
 | net | 3,085 |
-| org | 2,124 |
+| org | 2,126 |
 | de | 2,021 |
 
 
@@ -2066,7 +2066,7 @@ Here's a list of public Fediverse services.
 | `aperture.ink` | Yes |
 | `apetersburger.com` | No |
 | `apexnode.dev` | No |
-| `apfed.club` | Yes |
+| `apfed.club` | No |
 | `apfelbeck.social` | No |
 | `apfelfunk.com` | No |
 | `aphasiagoverned.com` | No |
@@ -11082,7 +11082,7 @@ Here's a list of public Fediverse services.
 | `fedposters.club` | No |
 | `fedposting.club` | No |
 | `fedposting.org` | Yes |
-| `fedposting.site` | Yes |
+| `fedposting.site` | No |
 | `fedre.land` | No |
 | `fedspace.online` | No |
 | `fedyya.net` | Yes |
@@ -19300,6 +19300,7 @@ Here's a list of public Fediverse services.
 | `libera.blue` | Yes |
 | `libera.site` | No |
 | `libera.tokyo` | No |
+| `liberafolio.org` | No |
 | `liberakampo.org` | No |
 | `liberal.city` | No |
 | `liberal.lgbt` | No |
@@ -25443,6 +25444,7 @@ Here's a list of public Fediverse services.
 | `nyquist.rocks` | No |
 | `nyquist.space` | No |
 | `nytpu.com` | No |
+| `nyveir.fr` | No |
 | `nyxus.xyz` | No |
 | `nz.contact` | Yes |
 | `nzbr.de` | Yes |
@@ -26458,7 +26460,7 @@ Here's a list of public Fediverse services.
 | `p-pn.org` | No |
 | `p-y.ro` | Yes |
 | `p.lu` | Yes |
-| `p0.pm` | Yes |
+| `p0.pm` | No |
 | `p0d.fr` | No |
 | `p0lymer.net` | No |
 | `p0wn3d.com` | No |
@@ -29162,7 +29164,7 @@ Here's a list of public Fediverse services.
 | `razze.social` | No |
 | `rb-net.work` | No |
 | `rb99.space` | No |
-| `rbhschool.in` | Yes |
+| `rbhschool.in` | No |
 | `rblx.live` | No |
 | `rbose.org` | No |
 | `rbq.press` | Yes |
@@ -29305,6 +29307,7 @@ Here's a list of public Fediverse services.
 | `redliberal.com` | No |
 | `redmi233.tk` | No |
 | `redmine.jp` | No |
+| `redmint.org` | Yes |
 | `rednblack.net` | Yes |
 | `redneck.cloud` | Yes |
 | `rednosehacker.com` | No |
@@ -40143,8 +40146,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,936 |
-| Normal | 30,164 |
+| Cloudflare | 9,933 |
+| Normal | 30,170 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
