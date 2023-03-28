@@ -11872,6 +11872,7 @@ Do not create new issue or we will close it as duplicate.
 | [VouryaR@twitter](https://twitter.com/VouryaR/status/1605272266614657025) | advertise |
 | [vovsoft@twitter](https://twitter.com/vovsoft/status/1391116990501298178) | advertise |
 | [VoxziB@twitter](https://twitter.com/VoxziB/status/1380772820624412673) | advertise |
+| [vpnloganmorg@twitter](https://twitter.com/vpnloganmorg/status/1640555323307053056) | advertise |
 | [vpsinghbaghel@twitter](https://twitter.com/vpsinghbaghel/status/1552679945025261568) | advertise |
 | [VQucTriu6@twitter](https://twitter.com/VQucTriu6/status/1594914769257259009) | advertise |
 | [vR8gxyMLVrhDDuZ@twitter](https://twitter.com/vR8gxyMLVrhDDuZ/status/1617941805777195008) | advertise |
