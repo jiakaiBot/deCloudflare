@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [“Move disk Failed ‘DataDisk.migrate_disk’ blocked from execution, no Home Assistant OS available”](https://github.com/home-assistant/supervisor/issues/4211)
 - [Support Event Web API](https://github.com/vercel/edge-runtime/issues/293)
 - [Clean install on NGINX proxy not working + "posthog_action" relation error](https://github.com/PostHog/posthog/issues/14910)
 - [Content Security Policy keeps error](https://github.com/mastodon/mastodon/issues/24278)
