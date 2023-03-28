@@ -16021,6 +16021,7 @@ Here's a list of public Fediverse services.
 | `io18.ovh` | No |
 | `io18.top` | No |
 | `ioangogo.dev` | No |
+| `ioc.dev` | No |
 | `ioc.exchange` | No |
 | `iochen.com` | Yes |
 | `ioer.pw` | No |
@@ -40163,7 +40164,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,940 |
-| Normal | 30,179 |
+| Normal | 30,180 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
