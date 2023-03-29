@@ -10745,6 +10745,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThaiVu17420182@twitter](https://twitter.com/ThaiVu17420182/status/1589902599506960384) | advertise |
 | [thakurdhiraj83@twitter](https://twitter.com/thakurdhiraj83/status/1399987258845908994) | advertise |
 | [thamcidu1@twitter](https://twitter.com/thamcidu1/status/1486236071512141827) | advertise |
+| [thamdavies@twitter](https://twitter.com/thamdavies/status/1641053602205831169) | advertise |
 | [Thamos06611394@twitter](https://twitter.com/Thamos06611394/status/1404341000307232768) | advertise |
 | [thamudayanwe111@twitter](https://twitter.com/thamudayanwe111/status/1398566626904076291) | advertise |
 | [ThanakronKamdo2@twitter](https://twitter.com/ThanakronKamdo2/status/1553423295760207872) | advertise |
