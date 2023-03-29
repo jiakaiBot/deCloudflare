@@ -186,6 +186,7 @@ Or is this merely a case of simple modesty?
 | Angela Huang | Customer Success Manager |  |
 | Angie Kim | Product Manager |  |
 | Anika Murthy | FP&A Analyst |  |
+| Anil Erduran | Employee | |
 | Anil Karavadra | Business Development Manager EMEA |  |
 | Anil Savaliya | Employee |  |
 | Anil Somaney | Go to Market Leader |  |
