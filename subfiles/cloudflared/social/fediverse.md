@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,039 |
+| com | 6,040 |
 | social | 3,882 |
 | net | 3,086 |
 | org | 2,127 |
@@ -4861,6 +4861,7 @@ Here's a list of public Fediverse services.
 | `burnworks.com` | No |
 | `burokrat.eu` | Yes |
 | `buron.coffee` | No |
+| `burque.fun` | No |
 | `burr.is` | Yes |
 | `burrito.codes` | Yes |
 | `burro.win` | No |
@@ -8961,6 +8962,7 @@ Here's a list of public Fediverse services.
 | `dorkboy.ca` | Yes |
 | `dorkboycomics.com` | Yes |
 | `dorkfarm.com` | No |
+| `dorknet.app` | No |
 | `dorland.dk` | Yes |
 | `dorniok.xyz` | No |
 | `doronko.club` | No |
@@ -26982,6 +26984,7 @@ Here's a list of public Fediverse services.
 | `pelegri.es` | No |
 | `peliculaspro.net` | Yes |
 | `pelliphant.social` | No |
+| `pelzfeld.com` | No |
 | `pelzi-online.net` | No |
 | `pena.mobi` | Yes |
 | `pencilchecker.space` | Yes |
@@ -30148,7 +30151,7 @@ Here's a list of public Fediverse services.
 | `rsnstats.com` | No |
 | `rsp-blogs.de` | No |
 | `rss.town` | No |
-| `rssto.social` | No |
+| `rssto.social` | Yes |
 | `rstdn-p.com` | No |
 | `rsxo.de` | No |
 | `rsync420.com` | Yes |
@@ -34847,6 +34850,7 @@ Here's a list of public Fediverse services.
 | `thedoodleproject.com` | No |
 | `thedoodleproject.net` | No |
 | `thedreaming.city` | No |
+| `thedroth.rocks` | No |
 | `theduran.icu` | No |
 | `theedgeofrage.com` | Yes |
 | `theepicblock.nl` | No |
@@ -40172,8 +40176,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,943 |
-| Normal | 30,186 |
+| Cloudflare | 9,944 |
+| Normal | 30,189 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
