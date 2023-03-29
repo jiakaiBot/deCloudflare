@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare KB Article Submission](https://github.com/firefly-iii/firefly-iii/issues/7292)
 - [Changing upload-time value and getting "Upload latency too high" error](https://github.com/MortezaBashsiz/CFScanner/issues/336)
 - [IDENTITY_PROVIDERS_OIDC_ISSUER_PRIVATE_KEY - go panic](https://github.com/authelia/authelia/issues/5138)
 - [“Move disk Failed ‘DataDisk.migrate_disk’ blocked from execution, no Home Assistant OS available”](https://github.com/home-assistant/supervisor/issues/4211)
