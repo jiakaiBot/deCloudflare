@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,038 |
-| social | 3,879 |
+| com | 6,039 |
+| social | 3,882 |
 | net | 3,086 |
 | org | 2,127 |
 | de | 2,022 |
@@ -7279,6 +7279,7 @@ Here's a list of public Fediverse services.
 | `cyber-privacy.online` | No |
 | `cyber-tribal.com` | No |
 | `cyber.cafe` | No |
+| `cyber.gent` | Yes |
 | `cyber.hockey` | No |
 | `cyber.social` | No |
 | `cyberbunker.tech` | No |
@@ -12118,6 +12119,7 @@ Here's a list of public Fediverse services.
 | `frogtown.club` | No |
 | `froidmont.org` | No |
 | `from-arctic.net` | No |
+| `from.the.br` | Yes |
 | `from1972.net` | No |
 | `fromhome.ovh` | No |
 | `fromm.social` | No |
@@ -18034,6 +18036,7 @@ Here's a list of public Fediverse services.
 | `kks36.be` | No |
 | `kksg.net` | No |
 | `kl1pp3l.de` | No |
+| `klaaspier.nl` | No |
 | `klaewyss.fr` | No |
 | `klageweib.de` | No |
 | `klahowya.net` | No |
@@ -18119,6 +18122,7 @@ Here's a list of public Fediverse services.
 | `knowfeeldo.xyz` | No |
 | `knowhere.cafe` | Yes |
 | `knowingart.com` | No |
+| `knowledgehub.social` | No |
 | `knowltonwx.com` | Yes |
 | `knowscore.de` | No |
 | `knowscore.social` | No |
@@ -18768,6 +18772,7 @@ Here's a list of public Fediverse services.
 | `lambda.scot` | Yes |
 | `lambda.ski` | No |
 | `lambda.social` | Yes |
+| `lambdaschmiede.social` | No |
 | `lambdashire.com` | No |
 | `lambdon.social` | No |
 | `lambertz.xyz` | No |
@@ -19122,6 +19127,7 @@ Here's a list of public Fediverse services.
 | `lemue.org` | No |
 | `lemuspeschel.com` | Yes |
 | `lenchan139.org` | Yes |
+| `lendami.co` | No |
 | `lenke.me` | No |
 | `lenny.ninja` | Yes |
 | `lennys.quest` | No |
@@ -26095,7 +26101,7 @@ Here's a list of public Fediverse services.
 | `orangem.net` | Yes |
 | `orangenote.dev` | No |
 | `orangespatula.com` | No |
-| `orani.co` | Yes |
+| `orani.co` | No |
 | `oransns.com` | No |
 | `orapp.net` | No |
 | `orasi.io` | No |
@@ -27089,6 +27095,7 @@ Here's a list of public Fediverse services.
 | `petertodd.org` | No |
 | `peterwebster.me` | No |
 | `peterwenz.net` | No |
+| `petesh.com` | No |
 | `petitionsforfuture.de` | No |
 | `petitlutinartube.fr` | No |
 | `petitmote.fr` | No |
@@ -37875,6 +37882,7 @@ Here's a list of public Fediverse services.
 | `wacky.town` | No |
 | `wackyneighbor.com` | No |
 | `wadjnetech.industries` | Yes |
+| `wadoryu.social` | No |
 | `wadza.fr` | No |
 | `wafer.baby` | No |
 | `waferbaby.com` | No |
@@ -40164,8 +40172,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,942 |
-| Normal | 30,179 |
+| Cloudflare | 9,943 |
+| Normal | 30,186 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
