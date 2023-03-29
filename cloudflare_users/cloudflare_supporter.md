@@ -4768,6 +4768,7 @@ Do not create new issue or we will close it as duplicate.
 | [Jaiverb4645T@twitter](https://twitter.com/Jaiverb4645T/status/1466842806832361474) | advertise |
 | [jaja2126815953@twitter](https://twitter.com/jaja2126815953/status/1615735142647226368) | advertise |
 | [jajaja7274@twitter](https://twitter.com/jajaja7274/status/1386795948395929606) | advertise |
+| [jak2009jak@twitter](https://twitter.com/jak2009jak/status/1641098664604209153) | advertise |
 | [Jaka39455443@twitter](https://twitter.com/Jaka39455443/status/1392517048874373121) | advertise |
 | [JakaSem54464388@twitter](https://twitter.com/JakaSem54464388/status/1390018389465178112) | advertise |
 | [Jake66094147@twitter](https://twitter.com/Jake66094147/status/1389548088885497859) | advertise |
@@ -9492,6 +9493,7 @@ Do not create new issue or we will close it as duplicate.
 | [Roodro3@twitter](https://twitter.com/Roodro3/status/1552012207667687424) | advertise |
 | [rookies87949021@twitter](https://twitter.com/rookies87949021/status/1389072539935076352) | advertise |
 | [ropangkrimbat@twitter](https://twitter.com/ropangkrimbat/status/1539175227368030209) | advertise |
+| [ropoxdev@twitter](https://twitter.com/ropoxdev/status/1641107305054842881) | advertise |
 | [roroiraqea@twitter](https://twitter.com/roroiraqea/status/1407298625563136003) | advertise |
 | [Rory10087298@twitter](https://twitter.com/Rory10087298/status/1394270961046753285) | advertise |
 | [Rosa40736116@twitter](https://twitter.com/Rosa40736116/status/1474405381250166790) | advertise |
