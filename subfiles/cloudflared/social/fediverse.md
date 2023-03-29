@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,040 |
+| com | 6,041 |
 | social | 3,882 |
-| net | 3,086 |
-| org | 2,127 |
-| de | 2,022 |
+| net | 3,088 |
+| org | 2,128 |
+| de | 2,025 |
 
 
 - Mastodon, Pleroma, etc
@@ -4068,6 +4068,7 @@ Here's a list of public Fediverse services.
 | `bliothek.social` | No |
 | `blisscampus.com` | No |
 | `blisses.org` | No |
+| `blkspace.net` | Yes |
 | `bln41.net` | Yes |
 | `bln41.win` | Yes |
 | `bloade.social` | Yes |
@@ -6480,6 +6481,7 @@ Here's a list of public Fediverse services.
 | `communia.org` | No |
 | `communick.com` | Yes |
 | `communist.accountant` | No |
+| `communist.gay` | No |
 | `communisteslibertaires.org` | No |
 | `communistparty.org.uk` | No |
 | `communists.world` | No |
@@ -8640,6 +8642,7 @@ Here's a list of public Fediverse services.
 | `disney.host` | No |
 | `disobey.net` | No |
 | `dispark.org` | No |
+| `dispatches.fm` | No |
 | `disperfected.com` | No |
 | `dispersio.us` | No |
 | `displaced.social` | No |
@@ -12778,6 +12781,7 @@ Here's a list of public Fediverse services.
 | `geekhaven.social` | Yes |
 | `geekinati.com` | No |
 | `geekingout.online` | No |
+| `geekland.space` | No |
 | `geeklife.com` | No |
 | `geekly.social` | Yes |
 | `geekmodedad.com` | No |
@@ -13418,6 +13422,7 @@ Here's a list of public Fediverse services.
 | `goose.rodeo` | No |
 | `goover.de` | Yes |
 | `goover.social` | Yes |
+| `gopals.family` | Yes |
 | `gopinath.org` | Yes |
 | `gord.games` | No |
 | `gordons.gen.nz` | No |
@@ -17779,6 +17784,7 @@ Here's a list of public Fediverse services.
 | `keycord.me` | No |
 | `keyd.ru` | No |
 | `keyedlimepie.org` | No |
+| `keyhub.id` | No |
 | `keyoxide.org` | No |
 | `keysmash.xyz` | No |
 | `keystroke.social` | No |
@@ -18065,6 +18071,7 @@ Here's a list of public Fediverse services.
 | `kleinrensing.com` | No |
 | `kleinrot.net` | No |
 | `kleins.io` | No |
+| `kleinschwanz.de` | Yes |
 | `kleio.dev` | No |
 | `klemm.one` | No |
 | `klemorali.guru` | No |
@@ -22893,6 +22900,7 @@ Here's a list of public Fediverse services.
 | `monotropism.org` | No |
 | `monoweb.jp` | No |
 | `monoxyd.de` | No |
+| `monporte.de` | No |
 | `monroemi.us` | No |
 | `monsieur-a.fr` | No |
 | `monsieurbidouille.fr` | No |
@@ -29423,6 +29431,7 @@ Here's a list of public Fediverse services.
 | `reiphoto.net` | Yes |
 | `reipository.moe` | No |
 | `reisen-nach-spanien.com` | No |
+| `reisen-und-ankern.de` | No |
 | `reisetagebuch-podcast.de` | No |
 | `reisig.world` | No |
 | `reit-it.de` | Yes |
@@ -29970,6 +29979,7 @@ Here's a list of public Fediverse services.
 | `rogersfam.co` | No |
 | `roggenkamp.social` | No |
 | `roguecorp.space` | Yes |
+| `roguecycle.net` | No |
 | `roguelabs.tech` | No |
 | `rogueofhe.art` | No |
 | `rohangrey.net` | No |
@@ -31951,6 +31961,7 @@ Here's a list of public Fediverse services.
 | `skaiinyght.com` | No |
 | `skalnik.com` | Yes |
 | `skankhunt42.pw` | Yes |
+| `skapmedia.xyz` | Yes |
 | `skarnio.tv` | No |
 | `skastodon.com` | No |
 | `skaverat.net` | No |
@@ -33554,6 +33565,7 @@ Here's a list of public Fediverse services.
 | `subspacelink.com` | Yes |
 | `substitoot.it` | No |
 | `subtleaf.social` | Yes |
+| `subtlefuge.com` | No |
 | `subtoot.com` | No |
 | `subtype.space` | No |
 | `subtype.uk` | No |
@@ -35951,6 +35963,7 @@ Here's a list of public Fediverse services.
 | `tpaschalis.me` | No |
 | `tpaw.org` | Yes |
 | `tpaw.video` | No |
+| `tpc3.org` | Yes |
 | `tpo.world` | No |
 | `tposocial.nl` | No |
 | `tpshd.de` | No |
@@ -39806,6 +39819,7 @@ Here's a list of public Fediverse services.
 | `zanderz.com` | No |
 | `zane.town` | No |
 | `zannoni.eu` | No |
+| `zany.tech` | No |
 | `zap.dog` | No |
 | `zapashcanon.fr` | No |
 | `zapchenwellbeing.org` | No |
@@ -40176,8 +40190,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,944 |
-| Normal | 30,189 |
+| Cloudflare | 9,949 |
+| Normal | 30,198 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
