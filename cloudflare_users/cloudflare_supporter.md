@@ -8411,6 +8411,7 @@ Do not create new issue or we will close it as duplicate.
 | [Onlybar150893@twitter](https://twitter.com/Onlybar150893/status/1408063898222141446) | advertise |
 | [Onlybrand69@twitter](https://twitter.com/Onlybrand69/status/1503400371619713025) | advertise |
 | [onlyfuckk@twitter](https://twitter.com/onlyfuckk/status/1399799170823720962) | advertise |
+| [onlyonezaid@twitter](https://twitter.com/onlyonezaid/status/1641082672398364673) | advertise |
 | [Onsu141@twitter](https://twitter.com/Onsu141/status/1392981889447649280) | advertise |
 | [ontair4300@twitter](https://twitter.com/ontair4300/status/1545186149135962112) | advertise |
 | [onThNam6@twitter](https://twitter.com/onThNam6/status/1385231563273555969) | advertise |
