@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,041 |
 | social | 3,882 |
 | net | 3,088 |
-| org | 2,128 |
+| org | 2,129 |
 | de | 2,025 |
 
 
@@ -23054,7 +23054,7 @@ Here's a list of public Fediverse services.
 | `moss.haus` | No |
 | `mossferatu.monster` | No |
 | `mossou.com` | Yes |
-| `mossrc.me` | No |
+| `mossrc.me` | Yes |
 | `mossymaker.com` | No |
 | `mosteverywhere.com` | No |
 | `mostlychris.net` | Yes |
@@ -28303,7 +28303,7 @@ Here's a list of public Fediverse services.
 | `protocoll.space` | No |
 | `protocultura.cl` | Yes |
 | `protogen.club` | No |
-| `protogen.dev` | No |
+| `protogen.dev` | Yes |
 | `protohype.net` | No |
 | `protom.eu` | No |
 | `protomolecule.com` | No |
@@ -38489,6 +38489,7 @@ Here's a list of public Fediverse services.
 | `willnorris.com` | No |
 | `willow.cafe` | No |
 | `willtmonroe.com` | No |
+| `willtrade.org` | No |
 | `willy.lol` | No |
 | `wilshirehosting.com` | Yes |
 | `wilshirehosting.net` | Yes |
@@ -40190,8 +40191,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,949 |
-| Normal | 30,198 |
+| Cloudflare | 9,951 |
+| Normal | 30,197 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
