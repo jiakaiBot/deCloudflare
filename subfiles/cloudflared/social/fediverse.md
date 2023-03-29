@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,041 |
 | social | 3,882 |
 | net | 3,088 |
-| org | 2,130 |
+| org | 2,131 |
 | de | 2,025 |
 
 
@@ -6481,7 +6481,7 @@ Here's a list of public Fediverse services.
 | `communia.org` | No |
 | `communick.com` | Yes |
 | `communist.accountant` | No |
-| `communist.gay` | No |
+| `communist.gay` | Yes |
 | `communisteslibertaires.org` | No |
 | `communistparty.org.uk` | No |
 | `communists.world` | No |
@@ -17610,6 +17610,7 @@ Here's a list of public Fediverse services.
 | `kcseb.digital` | Yes |
 | `kcsocial.us` | No |
 | `kcubeterm.com` | Yes |
+| `kcunitary.pw` | Yes |
 | `kd0bpv.name` | No |
 | `kd0ioe.com` | No |
 | `kddlb.cl` | Yes |
@@ -22526,6 +22527,7 @@ Here's a list of public Fediverse services.
 | `misskey.love` | No |
 | `misskey.ml` | No |
 | `misskey.moe` | Yes |
+| `misskey.net.eu.org` | No |
 | `misskey.nl` | Yes |
 | `misskey.oita.jp` | No |
 | `misskey.online` | Yes |
@@ -32531,6 +32533,7 @@ Here's a list of public Fediverse services.
 | `sognensnekkerhaugen.xyz` | Yes |
 | `sohan-tricoire.fr` | No |
 | `sohwatt.com` | Yes |
+| `soine.site` | Yes |
 | `soir.wtf` | No |
 | `sojo-u-only-mstdn.xyz` | No |
 | `sokkah.net` | No |
@@ -40195,7 +40198,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,953 |
+| Cloudflare | 9,956 |
 | Normal | 30,199 |
 
 
