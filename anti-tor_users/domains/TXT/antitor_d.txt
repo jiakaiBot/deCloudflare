@@ -1616,8 +1616,6 @@ www.user.dhanvantary.com
 www.web.deliveryheroes.net
 www.winwin.demowebsiteclient.com
 www.yearmoney.dwus7z.tk
-wwwmeioari.daoleading.com
-wwwmeioari.daydaydao.com
 wwwmeioari.daydaypv.com
 yearmoney.dwus7z.tk
 zah-paymentgatewaystatus-tst-bde04.dbv-test.noncd.db.de
@@ -3421,6 +3419,7 @@ aedub01gw.danfoss.net
 ag.decada.gov.sg
 ai.dentalbank.com.tw
 airflow.transactions.dev.dojodata.tech
+alarm.democm.online
 alper.datav.is
 altlayer.drop-premint.com
 amazon-onlineservice.deltatiga-security.com
@@ -3464,6 +3463,7 @@ apis-r2d2.businesshub-test.deutschebahn.com
 apiv2-citigroup-dev.customers.deepinstinctweb.com
 apiv2-citigroup-uat.customers.deepinstinctweb.com
 apl.diyikidaigalcustomer.com
+app.carbcalc.dentsu.app
 app1.danafinance.net
 appbooking.divilopers.com
 apps.dlsmc.ph
@@ -3481,6 +3481,7 @@ assets.disneylachaine.ca
 assets.dropbox.com
 auth.accounts.dowjones.com
 auth.apps.data-facile.fr
+auth.digital-bracket.de
 auth.disasi.com
 auth.vp.diginaat.com
 authtst.dataextraction.nl
@@ -3580,6 +3581,7 @@ cacfged.docapost-bpo.com
 can63.dayforcehcm.com
 canadiancentre.du.ac.in
 captcha.dev-host.at
+captcha.distantaccess.com
 cardconnect.daihatsu.co.jp
 category.dynorder.com
 cb4a982ac84f45f890a47008f1050ce6.svc.dynamics.com
@@ -3744,6 +3746,7 @@ danske-apps.dk
 danskedekoratoerer.dk
 danskedinosaurer.dk
 danskehamsterejere.dk
+danskejendomseftersyn.dk
 danskemaaltidskasser.dk
 danskerevyvenner.dk
 danskeselskab.dk
@@ -3766,6 +3769,7 @@ darrigansealandstripe.net
 darts-dining-r.jp
 darwincav.com
 dashjfas.top
+dasteam-personal.de
 data-disrupted.de
 data-gateway-mgmt.dev1.kernel.dataplatform.datamole.dev
 dataethics.eu
@@ -3794,6 +3798,7 @@ dayiyegenyapi.com
 dba-oracle.com
 dbabuok.cloud
 dbair.com
+dbecs-dev.dga.jp
 dcc.ac.uk
 dcdemotss.com
 dcjenn.com
@@ -3803,6 +3808,8 @@ dcp-api-env2.daimler.com
 dcrfonline.nl
 dcsithub.com
 ddc.dk
+ddigitally.marketing
+ddkessai.daiwahousefinancial.co.jp
 ddnews.co.kr
 de-ademwerkplaats.nl
 de-munnik.nl
@@ -3847,6 +3854,7 @@ dekoyapi.net
 dekunstvanhetont-moeten.nl
 delapaz.com.ar
 delaurentisteam.com
+deleitemarino.net
 delfiin.store
 deliberynconfirmation.co
 delifictional.com
@@ -3857,6 +3865,7 @@ delivero.ie
 deliverstudy-nz.com
 delivery-aircourier.com
 delivery-code.xyz
+delivery.digaoburguer.com.br
 delivery0243.com
 delivery4great.ml
 delivery4senior.gq
@@ -3920,6 +3929,7 @@ denizliveterinerlikhizmetleri.com
 denizmanzara.cf
 denizmarine.com
 denizmedyam.com
+denizmutfak.com.tr
 denizotomat.com.tr
 denizsucu.country
 deniztaxi.ro
@@ -3936,6 +3946,7 @@ depagmotors.com
 depalisto.com
 depiesolution.com
 depilacionestado.cl
+deploy.lat
 deposit5579628.com
 derakpost.com
 derasso.com
@@ -3971,6 +3982,7 @@ deutsche-gemeinschaft.eu
 deutsche-pinscher-zucht.de
 deutsche-steinzeug.ro
 deutsche-wirtschaftsclubs.org
+deutsche.com.tr
 deutschefinanzkanzlei.de
 deutschehuren.com
 deutschepresse.org
@@ -3978,6 +3990,7 @@ deutscheproduktbewertungen.de
 deutscher-boxer.com
 deutscher-freiheitskampf.com
 deutscher-hip-hop.com
+deutscher-orden.com
 deutscherentenversicherun.de
 deutscherfamilienverein.de
 deutscherheumaliga.de
@@ -3986,6 +3999,8 @@ deutschestagebuch.de
 deutschestellplatz.de
 dev-id.d3.dyn.sport
 dev-novedat.datacredito.com.co
+dev-somi.one
+dev-tadeo.fr
 dev.dinitrol.shop
 dev.discord-1mio.com
 dev3215-clients.renewal.dalos.co
@@ -3998,6 +4013,7 @@ deverenews.co.uk
 deviceparts.co.za
 devilsprices.com
 devio.lv
+devnet.network
 devolgendehalte.online
 devontrujillo.com
 devopspro.lt
@@ -4014,10 +4030,14 @@ dfaria.eu
 dfmazhar.edu.eg
 dfwblackcarservice.net
 dg-finance.pl
+dgmcorp.net
 dgssecurity.ro
 dhabsejati.xyz
 dhillontransport.ca
+dhis.co.zm
 dhktshop.com
+dhl-packages.org
+dhlxprs.link
 dhunt.in
 dhxy.club
 diabetika.es
@@ -4066,6 +4086,7 @@ digitalpasifik.org
 digitalpayments.com.ng
 digitalretail-int.daimler.com
 digitalsamtal.se
+digitalstore.marketing
 digitalsupport.ro
 digitalsupportsolutions.ie
 digitalxbo.com
@@ -4102,6 +4123,7 @@ disco-kapper.nl
 disco.equipment
 disco.lighting
 discodancemusic.com
+discoffeer.com
 discografiacompleta.es
 discokapper.nl
 discomoda.pl
@@ -4140,8 +4162,10 @@ distribuibaratoambev.com
 distriland.com.ar
 distritoemprendedores.com
 disworld.no
+dit-usa.com
 divabet365.us
 diversey.dev-gpanel.com
+divine-recovery-salon.ru
 divinity.my.id
 dixdelivery.it
 dixiepaul.com
@@ -4150,9 +4174,11 @@ dj-hermes.com
 djbooth.net
 djdy.dance
 djmtreeservice.com
+djprietoyneta.com
 dkconsulting.com.au
 dkiyukdert6.shop
 dl-web.dropbox.com
+dlaiqa.com
 dlctravel.nl
 dlsdesign.com
 dm-fudbal.com
@@ -4161,7 +4187,6 @@ dmkp.discord-acc.ru
 dmpmarketinggroup.com
 dmpromocionales.com.co
 dmsbank.co.id
-dmtsolar.com
 dnaclinic.com.br
 dnaleci.com
 dnapple.com.br
@@ -4173,7 +4198,9 @@ dobrogealive.ro
 docdk.ca
 docevaidadeatelie.com.br
 dochat.de
+docomomopr.com.br
 docplusindia.com
+docs-to-data.co.uk
 docs.payment-processing.dojodata.tech
 docsgoggle.com
 docteurpromos.com
@@ -4225,6 +4252,7 @@ dordio.pt
 dorohomeservice.com
 dortmunder-u.de
 dosh.ly
+dotstreet.cafe
 doublebass-solo.com
 doublesix.com.br
 doug.org
@@ -4296,6 +4324,7 @@ drwagnercamacho.com
 dry-itchy-skin.com
 dryevgeniabecker.com
 dseia.com
+dsi-corp.com
 dsiunitron.com
 dskmobile.bg
 dsobabby.bond
@@ -4315,6 +4344,7 @@ dublinpeople.com
 duboisgraphicdesign.com
 dudulab.drop-premint.com
 duebersports.com
+duekbavac68.click
 duelistlightstage.com
 duffusparkbc.co.uk
 dugirat.com
@@ -4366,6 +4396,7 @@ eae77ed525fa4c668a7f17df225d05e6.svc.dynamics.com
 ebms-preprod.provincie.drenthe.nl
 ecommerce.discord-acc.ru
 ed-bank.desarrollos-iq.com
+eintegration.dagangnet.com.my
 email.danskenergi.dk
 emis-uat.dws.com
 emm.dataport.de
@@ -4383,7 +4414,9 @@ everai.drop-premint.com
 explore-api.personalization.dev.da-service.io
 explore-api.personalization.prod.da-service.io
 extapi.drivetrackplus.com
+facebook.donovan.sg
 fancybearsmetaverse.drop-premint.com
+faq-clientes.databyte.cl
 feature-iscv-538iscv.dev-inforit.cloud
 fedex.demdex.net
 feedback.dreambubble.xyz
@@ -4475,6 +4508,7 @@ gu.dyntrk.com
 guide-page.dothome.co.kr
 gujjunews18.gujgmail.com.dglance.com
 gvhkilzmmsas.fndydjvtnsxt.gantispam.dentistrybliss.com
+heather-parrot.demowebsiteclient.com
 hellobot-universe.drop-premint.com
 helpdesk.dreamorbit.com
 helpdesksupport.dreamorbit.com
@@ -4535,6 +4569,7 @@ link.dealclouddispatch.com
 links.dropbox.com
 liron.dmsupport.org
 local.discord-acc.ru
+login-customer-paypai-verification.onetime.digitalpcworks.com
 login.dignitag.com
 login.driversupport.club
 logo.direcat-smbcio-co-jp.cyou
@@ -4570,6 +4605,7 @@ monitoring-cosmos-de.docuteam.cloud
 monitoring-system.blins.dev-k8s.doximity.cloud
 monitoring.dzilla.com
 monitoring.uat-3numbers.dxform.ph
+monitoring.v888.dhosting.org.pl
 monitoring.v933.dhosting.org.pl
 monitoring.v934.dhosting.org.pl
 monitoring.v941.dhosting.org.pl
@@ -4579,6 +4615,7 @@ mu.claimmanagement.tpoc.datadrivenx.com
 mujar.dbox.pl
 multtech.devjordanoo.com
 muster-epd.deutsche-bauchemie.de
+mutualis.digitalinteractive.ro
 mx01.discord-acc.com
 my.denizhomes.com
 my.digiweb.ie
@@ -4628,6 +4665,8 @@ parteneri.distribution-services.ro
 passkey.daplatform.kr
 pay.dasgateway.com
 payment.mice.der.de
+payments.dmspark.com
+pdf.demowebsiteclient.com
 pegasus.i.daimler.com
 peopleserving.demowebsiteclient.com
 pga.demowebsiteclient.com
@@ -4687,6 +4726,7 @@ resolve.discoverdollar.org
 resources.discord-accounts.ru
 retoforense.dorvack.com
 rhinofamilynft.drop-premint.com
+rita-adiani.demowebsiteclient.com
 rn.decat.top
 roblox73.dd-dns.de
 ru.denizhairsalon.com
@@ -4715,7 +4755,9 @@ sber.sber.avito.sber.www.www.www.covid19.dtiequipment.com
 sber.sber.blablacar.avito.avito.sber.covid19.dushevnyekuhni.ru
 sber.sber.blablacar.avito.www.covid19.dushevnyekuhni.ru
 sber.sber.blablacar.sberbank.www.covid19.dmitryraevsky.com
+sber.sber.sber.avito.www.git.covid19.dharma-space.com
 sber.sber.sberbank.avito.sber.avito.covid19.danseclassique.ru
+sber.sberbank.avito.sber.avito.www.covid19.danseclassique.ru
 sber.sberbank.avito.sber.git.www.covid19.diybrandsite.com
 sber.sberbank.blablacar.avito.covid19.dushevnyekuhni.ru
 sber.sberbank.covid19.diybrandsite.com
@@ -4735,6 +4777,8 @@ sberbank.sber.avito.avito.sberbank.www.covid19.dimitryfadeev.com
 sberbank.sber.avito.avito.www.sber.covid19.doghowlgames.com
 sberbank.sber.avito.blablacar.blablacar.covid19.dryvantrader.com
 sberbank.sber.avito.blablacar.sberbank.covid19.dmitryraevsky.com
+sberbank.sber.avito.sber.avito.covid19.dharma-space.com
+sberbank.sber.blablacar.blablacar.www.covid19.dmitryraevsky.com
 sberbank.sber.sber.avito.avito.www.covid19.dushevnyekuhni.ru
 sberbank.sber.sber.avito.sber.avito.covid19.danseclassique.ru
 sberbank.sber.sber.blablacar.avito.covid19.dushevnyekuhni.ru
@@ -4865,6 +4909,7 @@ update-nlbpaysi.deepskygallery.com
 update.destinwatertaxi.com
 update.dosle.ru
 update.dynamic-billard.de
+url638.deepdyve.com
 us63.dayforcehcm.com
 v-work.coronamoodvis.dbvis.de
 v1.debruijnonderhoud.nl
@@ -4937,6 +4982,7 @@ www.agisnet.djunardi-vpn.my.id
 www.agist.djunardi-vpn.my.id
 www.akacia.disysteam.hu
 www.alifa.djunardi-vpn.my.id
+www.am-eki.co-jp.booos.drdqsb.com.cn
 www.anasnet.djunardi-vpn.my.id
 www.anghelcatalina.denticsteam.ro
 www.app.denizatidz.com
@@ -4963,6 +5009,7 @@ www.booking-archive-2022.dolphin-watching.com
 www.booking.dansknetparty.dk
 www.booking.defec.nl
 www.booking.dekkophotography.com
+www.booking.djlilleman.se
 www.booking.dramastarsacademy.com
 www.booking.dslb.co.za
 www.booking.dzamlinggar.net
@@ -4990,6 +5037,7 @@ www.client.digitalmoon.in
 www.client.dreamhostbd.com
 www.clientalifanet.djunardi-vpn.my.id
 www.clientes.dolcerie.top
+www.clients.fitnesscompound.designbreak.co.nz
 www.cmrouta.djunardi-vpn.my.id
 www.coffeebay.dogfish.co.za
 www.collaborate.dehst.de
@@ -5014,6 +5062,7 @@ www.dahon.pt
 www.daily-trade-alerts.daytradersgroup.com
 www.dailyadvance.com
 www.dailyastorian.com
+www.dailyheraldtribune.com
 www.dailynewpost.org
 www.dailyupdates.co.in
 www.dainiknewsupdate.com
@@ -5048,6 +5097,7 @@ www.danske-fragtpriser.dk
 www.danskeclubbasel.ch
 www.danskedekoratoerer.dk
 www.danskedinosaurer.dk
+www.danskejendomseftersyn.dk
 www.danskejokes.dk
 www.danskekorledere.dk
 www.danskelemansvenner.dk
@@ -5074,6 +5124,7 @@ www.dasherdelivery.org
 www.dashing-identity-payments.com
 www.dasibomeye.net
 www.dassa-structure.com
+www.dasteam-personal.de
 www.datacarbon.com.br
 www.datadoghq-browser-agent.com
 www.datagram.studio
@@ -5110,6 +5161,7 @@ www.de-front.com
 www.deadwealdaudio.com
 www.deafquip.co.nz
 www.dealbooking.com
+www.deanandbean.com
 www.deanburnett.com
 www.debbiechase.rocks
 www.debinkasso.dk
@@ -5143,6 +5195,7 @@ www.delivery-aircourier.com
 www.delivery-package.email
 www.delivery-senior.cf
 www.delivery4senior.ga
+www.deliverybusinessservicesltd.com
 www.deliveryconsultant.net
 www.deliveryfailedattempt.com
 www.deliveryherocroatia.hr
@@ -5205,6 +5258,7 @@ www.denizlicocukklinigi.com
 www.denizlicumhuriyeterkekyurdu.com
 www.denizlideinsanmekan.com
 www.denizlievlilikteklifi.com
+www.denizlikaracapastanesi.com
 www.denizlikoleji.com
 www.denizlikoleji.com.tr
 www.denizlikombibakimi.com
@@ -5227,6 +5281,7 @@ www.denizmarine.com
 www.denizmedyam.com
 www.denizmekatronik.com.tr
 www.denizmimarlik.com
+www.denizmutfak.com.tr
 www.denizokan.com
 www.denizonal.com.tr
 www.denizotomat.com.tr
@@ -5284,7 +5339,9 @@ www.deutsche-investment-beratung.de
 www.deutsche-klassic.com
 www.deutsche-partei.online
 www.deutsche-pinscher-zucht.de
+www.deutsche-pinscher.ch
 www.deutschefinanzkanzlei.de
+www.deutschehospitality.com
 www.deutschepost.de
 www.deutschepostmarathonbonn.de
 www.deutschepresse.org
@@ -5354,6 +5411,7 @@ www.digiztech.com
 www.dihuni.com
 www.dijitalsube-acikdenizv7-com.tk
 www.dijkwaardrenovatieenonderhoud.nl
+www.dikigo-seguros.com
 www.dilettaespresso.com
 www.dilizentsystems.com
 www.dillinghamhomeinspections.com
@@ -5363,6 +5421,7 @@ www.dimosdata.gr
 www.dinduenergy.com
 www.dineroparacerveza.com
 www.dinhcutoancau.vn
+www.dinheirofacil.eu
 www.dinn.com.mx
 www.dino-securityservice.co.za
 www.dinogroup.co.uk
@@ -5371,6 +5430,7 @@ www.dionysopoulos.me
 www.diplomablockchain.com
 www.directrans-swiss.com
 www.directservice.gr
+www.disabilityreadathon.com
 www.discdog.ro
 www.discomfortbydesign.net
 www.discongress.com
@@ -5379,6 +5439,7 @@ www.discoroyale.biz
 www.discountauto.us
 www.discountpdh.com
 www.discoursefordemocracy.org
+www.discov-r.com
 www.discovering-thailand.com
 www.discoverrecorddocument.com
 www.discovertoday.co
@@ -5499,6 +5560,7 @@ www.dramasoverflowers.net
 www.dramaspectrum.co.uk
 www.dramygoldman.com
 www.drapatriciaalbuquerque.com.br
+www.drathaynanalesso.com
 www.drauber.ro
 www.drbconsultinggroup.com
 www.dreamscapemena.org
@@ -5523,6 +5585,7 @@ www.drmehdideniz.com
 www.drmicaadesso.com
 www.drmystic.com
 www.dronesbythebay.com
+www.dronevpn.net
 www.dropbox.demo1.dedicatedhost247.com
 www.dropboxstore.com
 www.dropshipping.demowebsiteclient.com
@@ -5567,6 +5630,7 @@ www.dynosistemotoekspertiz.com
 www.dysonapiaries.com
 www.dysphagiaconsultinggroup.com
 www.dzbank.com
+www.dzia-asso.com
 www.dziadynoworoczne.com
 www.dznews.gr
 www.eaststanley2217.wp-sch.durham.gov.uk
@@ -5598,6 +5662,8 @@ www.google.dvgroup.online
 www.googleffffffffe31757df.dorontal.com
 www.googlesheetsymas.datastudioymas.com
 www.halka.pro.doonoot.com
+www.heather-parrot.demowebsiteclient.com
+www.helpdesk.dikbudtangsel.id
 www.homemate.demowebsiteclient.com
 www.hotel-booking.diseniummedia.es
 www.hotelbooking.devofaith.com
@@ -5646,6 +5712,7 @@ www.modernwhimzy.djbythebay.com
 www.moneyfnc.digitalshripal.com
 www.muster-epd.deutsche-bauchemie.de
 www.mutual.dextron.cl
+www.mutualis.digitalinteractive.ro
 www.mypurposeisdope.demowebsiteclient.com
 www.nationwide.dnatabs.com
 www.netflix-the-good-1.davidwarrenimages.com
@@ -5670,6 +5737,7 @@ www.payment.dowo.digital
 www.paymentcad.design4them.com
 www.payments.dlvsolutions.net
 www.pc-support.data-redning.dk
+www.pdf.demowebsiteclient.com
 www.pedido-interbank.depilzone.com.pe
 www.pegasusvisaservice.digiprosistemindonesia.com
 www.peopleserving.demowebsiteclient.com
@@ -5692,6 +5760,7 @@ www.reddit.defimafia.finance
 www.redeliver-properaddress-uspostservices.dnsrd.com
 www.resqd-booking.digitalmadman.se
 www.richiequ4ttro.digitalholdinggroup.com
+www.rita-adiani.demowebsiteclient.com
 www.routerku2.djunardi-vpn.my.id
 www.safetycheck.digital-system.it
 www.salesforce.dinein.id
