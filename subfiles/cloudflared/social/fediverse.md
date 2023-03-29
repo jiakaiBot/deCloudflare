@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,041 |
+| com | 6,043 |
 | social | 3,882 |
 | net | 3,088 |
 | org | 2,131 |
@@ -22227,6 +22227,7 @@ Here's a list of public Fediverse services.
 | `midori.social` | No |
 | `midorichan.net` | Yes |
 | `midov.pl` | No |
+| `midreality.com` | No |
 | `midskiller.org` | No |
 | `midwaytrades.com` | No |
 | `midwest.af` | No |
@@ -29434,6 +29435,7 @@ Here's a list of public Fediverse services.
 | `reingefuchst.de` | Yes |
 | `reinhart1010.id` | Yes |
 | `reinierhernandez.com` | Yes |
+| `reins-no-misskey.com` | Yes |
 | `reiphoto.net` | Yes |
 | `reipository.moe` | No |
 | `reisen-nach-spanien.com` | No |
@@ -34274,7 +34276,7 @@ Here's a list of public Fediverse services.
 | `tassiaart.com` | Yes |
 | `taste-of-taboo.com` | Yes |
 | `tastefuldinosaurerotica.com` | No |
-| `tastingtraffic.net` | No |
+| `tastingtraffic.net` | Yes |
 | `tastybugs.club` | Yes |
 | `tastypi.social` | No |
 | `tastytea.de` | No |
@@ -40198,7 +40200,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,956 |
+| Cloudflare | 9,958 |
 | Normal | 30,199 |
 
 
