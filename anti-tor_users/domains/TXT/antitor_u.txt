@@ -1142,6 +1142,7 @@ aap.univr.it
 about.usps.com
 accom.uinterbox.com
 account.ubuntu-kr.org
+acesso.uninjingambande.ed.ao
 admin.unitedsecurity.ca
 agricole.uber.space
 aicovid.unydevelopernetwork.com
@@ -1179,6 +1180,7 @@ beactive2.usask.ca
 berita.unisla.ac.id
 bestchange.uni-cash.pro
 bienestarpsicosocial.izt.uam.mx
+bigrock.uber.space
 bigweb.unifr.ch
 billing.uniquedavissolutions.com
 black.uivi.cc
@@ -1220,6 +1222,7 @@ cpcontacts.unitron6991.com
 cridaq.uqam.ca
 csgohistory.grupo02.2122aw.uchaweb2.es
 cti.uncoder.io
+da-mobility.urbanpulse.de
 dandurand.uqam.ca
 dashboardcovidbrasil.di.uern.br
 dc1.eilab.uoit.org
@@ -1266,8 +1269,10 @@ gitlab.blog.wallet.ulohas.tw
 gpu.unimedmineiros.coop.br
 guiaempresas.universia.es
 happypack.unicef.be
+hc.unitedmixmedia.tv
 helpdesk.ucci.edu.ky
 homedav.unifr.ch
+hook.up.me
 idam.upr.si
 identity.unimas.my
 ieim.uqam.ca
@@ -1305,6 +1310,7 @@ menu-1311.payment-api.ueat.io
 microsofteam-828293.usachannel-steam.com
 mixspresso.ussl.nl
 mkoder.uber.space
+mobileremedy.unicreditbulbank.bg
 monitor.cs.uni-koeln.de
 monitoring.amanah-staging.cs.ui.ac.id
 monitoring.wafbtest.unilab-software.de
@@ -1364,6 +1370,7 @@ qob.uniperapps.com
 relawan.untukcianjur.id
 reqef.uqam.ca
 research.uapaccount.com
+ru.ukraine-economic-outlook.com
 sabalhomestay.uphotel.top
 saungbambu.uberma.id
 sberbank.sber.avito.avito.covid19.ukrtranspark.com
@@ -1407,6 +1414,8 @@ tkmed.uniklinik-bonn.de
 topdental.unimedodonto.com.br
 trans-proxy.uecard.ru
 troublex.uber.space
+u-ms2-daihatsu.com
+u-wallet.net
 u2b.cx
 ua-allegro.store
 uahosting.com.ua
@@ -1414,12 +1423,14 @@ ubakeryu.com
 ubaonlineghana.com
 ubavic.rs
 ubcpress.ca
+uber-rabatkode.dk
 uberaba.curitiba.br
 uberacc.co.za
 uberbasepremoldados.com
 ubercooldesign.co.za
 uberdrones.org
 uberearts.com
+uberfansmagnet.com
 ubergreen.cl
 uberlandiaturbinas.com
 uberloads.com.br
@@ -1446,6 +1457,7 @@ uccwebpool01p.admin.ch
 ucfin.de
 udaespresso.com
 udaipurupdate.com
+uebnacional.org.br
 ufa-ultiproxy3.ultipro.ca
 ufaproxy3.ultipro.ca
 ufia.co.id
@@ -1481,6 +1493,7 @@ ultracyclingswiss.ch
 ultrapower.eu
 umkmshop.my.id
 ummeio.org
+umrahbooking.pk
 umrohmurahntb.com
 umutlukoop.com
 umutyapi.com.tr
@@ -1495,6 +1508,7 @@ undangandi.my.id
 undanganpernikahanonline.website
 undiplomaticservice.com
 unevenearth.org
+ungtrivsel.dk
 uni-it.org
 unicelarchitectural.com
 unicommevents.com
@@ -1522,6 +1536,7 @@ unlinkedlist.org
 unlock.com.tr
 unlock.org.uk
 unlock2earn.co
+unlockdown.me
 unlocked.dk
 unlockfromimei.com
 unlockgeeks.net
@@ -1529,6 +1544,7 @@ unlockincomes.com
 unlocklocksmith.co.za
 unlockpainters.co.nz
 unlockr.net
+unlockthecode.com
 unlockurcell.com
 unrealchristmastrees.com.au
 untoldconsults.com
@@ -1583,6 +1599,7 @@ usa-trip.be
 usaaccidentclaimscenter.com
 usaaccidentsclaimscenter.com
 usaamericas.com
+usaaproviderterminal.com
 usaaqi.com
 usaautoimport.es
 usafe.co.il
@@ -1629,6 +1646,7 @@ uvs.umrahbooking.pk
 uwaisteam.com
 uwironcounty.org
 uwishstudios.com
+uxps2.xyz
 uzayteknik.com
 uzmezogluyapi.com
 uzuri-shop.com
@@ -1666,6 +1684,7 @@ www.bedbreakfast.uberweb.co.za
 www.beritainvestigasi.id.uberberita.com
 www.bfmqe.unikalservice.com
 www.billing.utu.systems
+www.bits-earn.unkinstantdelivery.net
 www.booking.untangled-life.com
 www.booking.urcc.co.ke
 www.bs-krzeszowice.cruzwwa.usermd.net
@@ -1749,6 +1768,7 @@ www.u26shop.fi
 www.uam.com
 www.uat.unitregistryonline.com
 www.ubebeauty.com
+www.uber-rabatkode.dk
 www.uberaba.curitiba.br
 www.uberacc.co.za
 www.uberbasepremoldados.com.br
@@ -1758,6 +1778,7 @@ www.uberdatanetworks.com
 www.ubereats.com
 www.ubereavestrough.ca
 www.uberengenharia.com
+www.uberfansmagnet.com
 www.uberfordert.com
 www.uberinstallments.co.za
 www.uberlawyers.net
@@ -1921,15 +1942,19 @@ www.uriachfidelity.com
 www.urlc.online
 www.urologin.at
 www.urunduyapi.com
+www.uryu-service-tokyo.com
 www.urzua.mx
 www.us-renewdentalsupport.com
 www.us-telegramcoin.com
+www.usa4alarms.com
 www.usaai.com.br
 www.usaappliancewarehouse.com
 www.usaaqi.com
 www.usaassistanceprogam.com
 www.usaautocentertx.com
+www.usaautomotivegroup.com
 www.usaautopartsllc.com
+www.usadumpsterrentals.net
 www.usafe.co.il
 www.usdirectexpress.com
 www.useaglelogin.com
@@ -1969,9 +1994,11 @@ www.vpn2.upfiles.org
 www.whatsapp.unionptk.com
 www.winners.uncc-claims.com
 www.xaribulbul-taxi.unikalservice.com
+www.yapimarket.uranusajans.net
 www.zielonamanufaktura.centrumseo.usermd.net
 www77.uberhealth.co
 xpress.usremotedeposit.com
+yapimarket.uranusajans.net
 youtrack.uzair.page
 zh.universalwealthassurance.com
 zzm-kurs.uzh.ch
