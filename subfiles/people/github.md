@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [cloudflare worker 100秒超时，pages也是吗，我想知道怎么把timeout设置长一点。](https://github.com/x-dr/chatgptProxyAPI/issues/11)
 - [Cloudflare KB Article Submission](https://github.com/firefly-iii/firefly-iii/issues/7292)
 - [Changing upload-time value and getting "Upload latency too high" error](https://github.com/MortezaBashsiz/CFScanner/issues/336)
 - [IDENTITY_PROVIDERS_OIDC_ISSUER_PRIVATE_KEY - go panic](https://github.com/authelia/authelia/issues/5138)
