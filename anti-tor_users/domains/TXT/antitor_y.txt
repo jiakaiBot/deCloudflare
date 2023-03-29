@@ -438,6 +438,7 @@ cert.backoffice.yape.com.pe
 cert.yuanta.com.tw
 coinbase-pro-login-account.yahoosites.com
 common-api-eu-cf.yepgarage.com
+contents.jobcatalog.yahoo.co.jp
 cookapplianceservice.yourkickass.site
 cpcalendars.yamatotakeru.tokyo
 crm.yapialuminyum.com
@@ -493,6 +494,7 @@ rikon-shitai.yoasobi-erobloger.com
 s.yimg.jp
 s.youtube.com
 sba.yandex.net
+sberbank.sber.avito.sber.avito.sber.covid19.youhollywood.com
 sberbank.sber.sber.sber.avito.covid19.youhollywood.com
 service08-stage.yalar.se
 services.yuntrack.com
@@ -500,6 +502,7 @@ sjsu.yahoodrummers.com
 squote.yuanta.com.tw
 ssl.ybmky.com
 static.212.167.109.65.clients.your-server.de
+testmivb1.yourtel.co.uk
 top15posts.youngpetals.net
 tv.yahoo.co.jp
 typhoon.yahoo.co.jp
@@ -528,6 +531,7 @@ www.contoh.yudita.my.id
 www.cookapplianceservice.yourkickass.site
 www.crm.yapialuminyum.com
 www.customers.yellowhoster.com
+www.download.yapindo.co.id
 www.dummyneo.yapindo.co.id
 www.fittin-service.ymdg.info
 www.garantihavacilik.yedipencere.com
@@ -562,8 +566,10 @@ www.yapianalizi.com.tr
 www.yapidanismanlik.com
 www.yapikont.com
 www.yapipan-sip-panel-1.yapipansip.com
+www.yapiportinsaat.com
 www.yapisalmimarlik.com
 www.yapixweb.com
+www.yapiyom.com
 www.yasminkhudari.com
 www.yazarlaryapi.com.tr
 www.yefyapi.com.tr
@@ -606,6 +612,7 @@ yacasiestalista.net
 yahooahoohoo.com
 yahoomailsupportphonenumber.com
 yahoorural.com
+yallagift.com
 yamadaya-shop.jp
 yamaonline.co.il
 yamunalandbank.com
@@ -622,12 +629,15 @@ yapimalzemelerimerkezi.com
 yapindo.co.id
 yapiskan.tk
 yapitbodrum.com
+yapiyom.com
 yapiyorsun.cf
+yarnybookkeeper.com
 yarokis.co.il
 yaseagrouptravel.com
 yasham-medical.com
 yay-plus.com
 yayanadriano.web.id
+yaysaudi.com
 yazarlaryapi.com.tr
 ybaautoservice.ro
 ybak-nusantara.org
