@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,041 |
 | social | 3,882 |
 | net | 3,088 |
-| org | 2,129 |
+| org | 2,130 |
 | de | 2,025 |
 
 
@@ -9731,6 +9731,7 @@ Here's a list of public Fediverse services.
 | `ekcragg.co.uk` | No |
 | `ekesete.net` | No |
 | `ekimemo.info` | No |
+| `ekke.jp` | Yes |
 | `eklundhome.com` | No |
 | `ekoms.top` | No |
 | `eksb.net` | No |
@@ -20183,6 +20184,7 @@ Here's a list of public Fediverse services.
 | `lunablue.us` | No |
 | `lunadon.org` | No |
 | `lunai.re` | No |
+| `lunakit.org` | No |
 | `lunardream.space` | No |
 | `lunareclip.se` | No |
 | `lunarloony.co.uk` | No |
@@ -21066,6 +21068,7 @@ Here's a list of public Fediverse services.
 | `mastodon-space.com` | No |
 | `mastodon-srv.gq` | No |
 | `mastodon-startup.org` | No |
+| `mastodon-sw.xyz` | Yes |
 | `mastodon-swiss.org` | No |
 | `mastodon-test233.xyz` | No |
 | `mastodon-tiray.me` | No |
@@ -24157,6 +24160,7 @@ Here's a list of public Fediverse services.
 | `neesimastdn.com` | No |
 | `neet.church` | No |
 | `neet.club` | No |
+| `neet.co.jp` | No |
 | `neetodon.com` | No |
 | `nefixestrada.com` | No |
 | `nefl.social` | Yes |
@@ -40191,8 +40195,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,951 |
-| Normal | 30,197 |
+| Cloudflare | 9,953 |
+| Normal | 30,199 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
