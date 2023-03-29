@@ -4708,6 +4708,7 @@ Do not create new issue or we will close it as duplicate.
 | [Itzs__shreyansh@twitter](https://twitter.com/Itzs__shreyansh/status/1606195258567536640) | advertise |
 | [Ivam74808040@twitter](https://twitter.com/Ivam74808040/status/1395808335069286400) | advertise |
 | [Ivansai6@twitter](https://twitter.com/Ivansai6/status/1390643649617092618) | advertise |
+| [IvayloPushkov@twitter](https://twitter.com/IvayloPushkov/status/1641001450481360897) | advertise |
 | [ivexalus@twitter](https://twitter.com/ivexalus/status/1397599340592603137) | advertise |
 | [Ivynguyen98@twitter](https://twitter.com/Ivynguyen98/status/1381083176244707328) | advertise |
 | [iyan_saputraaa@twitter](https://twitter.com/iyan_saputraaa/status/1462663065241935876) | advertise |
