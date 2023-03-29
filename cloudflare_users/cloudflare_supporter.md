@@ -6405,6 +6405,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lun71377013@twitter](https://twitter.com/Lun71377013/status/1401608963292946436) | advertise |
 | [LunarDoggy@twitter](https://twitter.com/LunarDoggy/status/1568595520469311491) | advertise |
 | [LunarSky16@twitter](https://twitter.com/LunarSky16/status/1393116275644063744) | advertise |
+| [lunaticlivin666@twitter](https://twitter.com/lunaticlivin666/status/1641212045919125505) | advertise |
 | [lung_kha@twitter](https://twitter.com/lung_kha/status/1478621539020926976) | advertise |
 | [LuonglamVan1992@twitter](https://twitter.com/LuonglamVan1992/status/1563424906070466561) | advertise |
 | [luongng59787247@twitter](https://twitter.com/luongng59787247/status/1612442148447870978) | advertise |
@@ -6480,6 +6481,7 @@ Do not create new issue or we will close it as duplicate.
 | [mackendy94@twitter](https://twitter.com/mackendy94/status/1478395983893565447) | advertise |
 | [maclordzafra@twitter](https://twitter.com/maclordzafra/status/1379484426510422031) | advertise |
 | [MaCon44428252@twitter](https://twitter.com/MaCon44428252/status/1404306563985072129) | advertise |
+| [macquanao@twitter](https://twitter.com/macquanao/status/1641212747940757504) | advertise |
 | [MacSrcs@twitter](https://twitter.com/MacSrcs/status/1610316875665182720) | advertise |
 | [MadadiFarzaneh@twitter](https://twitter.com/MadadiFarzaneh/status/1578488644041515008) | advertise |
 | [MadameCusack@twitter](https://twitter.com/MadameCusack/status/1499882840846180353) | advertise |
