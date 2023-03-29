@@ -282,6 +282,7 @@ cpfc.queue-it.net
 criticaldesign.studio.qmail.com.tr
 dev.eforms.qfcra.com
 docs.qcmtech.com
+eforms.qfcra.com
 esab.us1.qeadaptiveauth.com
 ezbob.queue-it.net
 handyman.quickhalservice.com
@@ -289,6 +290,9 @@ hermes.quantum-host.com
 hnkplus.or.ip.qurtuous.link
 icms.quetelcloud.com
 intensive-blissful-road.solana-mainnet.quiknode.pro
+invoice-scanner-beta.quickclick.cc
+invoice-scanner-rc.quickclick.cc
+it.quietrack.com
 logging.queue-it.net
 login.qib.app
 mail.qaap.io
@@ -402,6 +406,7 @@ www.congresso-de-misse-3.quadrangularsedemacapa.com.br
 www.dapursistem.qubabooking.com
 www.deneigementdesjardins.quebecpagesweb.ca
 www.hermes.quantum-host.com
+www.in-eki.co-linkto.q656.com.cn
 www.invoices.quickit.co.in
 www.mg.qualimind.com
 www.micuenta.qualive.net
@@ -412,6 +417,7 @@ www.postureocantabro.queverencantabria.es
 www.postureoracinguista.queverencantabria.es
 www.qatarcitizen.co
 www.qcclubhouse.org
+www.qchron.com
 www.qoo-cookierunvtuber.com
 www.qrcodescan.com.br
 www.qsteam.pl
