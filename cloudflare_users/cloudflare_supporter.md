@@ -10860,6 +10860,7 @@ Do not create new issue or we will close it as duplicate.
 | [TheAnh23257867@twitter](https://twitter.com/TheAnh23257867/status/1553976137063141378) | advertise |
 | [theankansaha@twitter](https://twitter.com/theankansaha/status/1616039812410245123) | advertise |
 | [TheBhramjaal@twitter](https://twitter.com/TheBhramjaal/status/1567563388884250625) | advertise |
+| [TheBigGermanGuy@twitter](https://twitter.com/TheBigGermanGuy/status/1640927171005775875) | advertise |
 | [TheChadDevET@twitter](https://twitter.com/TheChadDevET/status/1613799586489073664) | advertise |
 | [TheCrowdFundLaw@twitter](https://twitter.com/TheCrowdFundLaw/status/1394434955032285186) | advertise |
 | [TheDuc92513619@twitter](https://twitter.com/TheDuc92513619/status/1621922650053558272) | advertise |
