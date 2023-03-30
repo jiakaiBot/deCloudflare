@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,044 |
-| social | 3,882 |
-| net | 3,089 |
+| com | 6,052 |
+| social | 3,883 |
+| net | 3,090 |
 | org | 2,131 |
 | de | 2,026 |
 
@@ -3587,6 +3587,7 @@ Here's a list of public Fediverse services.
 | `bestodon.com` | Yes |
 | `bestregard.co` | No |
 | `bestself.social` | No |
+| `beststreamingclub.com` | No |
 | `beta.town` | Yes |
 | `beta42.dev` | No |
 | `betabuild.dev` | No |
@@ -9617,6 +9618,7 @@ Here's a list of public Fediverse services.
 | `edythemighty.com` | No |
 | `edzilla.info` | Yes |
 | `eebrn.de` | No |
+| `eeee.no` | No |
 | `eeeeeeee.ee` | Yes |
 | `eeeeeeeee.eu` | No |
 | `eeeeeeeeeeeeeee.ee` | Yes |
@@ -15013,6 +15015,7 @@ Here's a list of public Fediverse services.
 | `hoshisaki-h.com` | Yes |
 | `hosnet.fr` | No |
 | `hosszu.social` | No |
+| `hostboi.social` | Yes |
 | `hostc.at` | No |
 | `hostcheetah.social` | Yes |
 | `hostdon.jp` | No |
@@ -15169,6 +15172,7 @@ Here's a list of public Fediverse services.
 | `hugsandtoots.club` | No |
 | `huideyeren.info` | No |
 | `huijiren.com` | No |
+| `hulb.club` | Yes |
 | `hulla.hu` | Yes |
 | `hullabaloo.xyz` | No |
 | `hullblasters.club` | No |
@@ -16059,6 +16063,7 @@ Here's a list of public Fediverse services.
 | `iopush.net` | No |
 | `iosa.it` | Yes |
 | `iosdev.space` | No |
+| `iosdevhappyhour.com` | No |
 | `ioserv.space` | No |
 | `iosoc.ru` | No |
 | `iospace.de` | No |
@@ -17353,6 +17358,7 @@ Here's a list of public Fediverse services.
 | `kaiba.one` | Yes |
 | `kaientai-jp.net` | No |
 | `kaifa.ch` | Yes |
+| `kaij.tech` | Yes |
 | `kaijauch.de` | No |
 | `kaiju.city` | No |
 | `kaiju.social` | Yes |
@@ -18091,6 +18097,7 @@ Here's a list of public Fediverse services.
 | `klockenga.social` | No |
 | `kloen-cafe.de` | No |
 | `kloenk.dev` | No |
+| `kloenk.eu` | No |
 | `kloetensecurity.com` | Yes |
 | `klog.tw` | Yes |
 | `klosowicz.net` | No |
@@ -20511,6 +20518,7 @@ Here's a list of public Fediverse services.
 | `maildog.ru` | No |
 | `maildoggo.net` | No |
 | `maillard.im` | No |
+| `mailpace.com` | Yes |
 | `mailpile.is` | No |
 | `mailstation.de` | No |
 | `mailtrix.app` | No |
@@ -23668,6 +23676,7 @@ Here's a list of public Fediverse services.
 | `mycelium.garden` | No |
 | `mycloud.site` | Yes |
 | `myco.social` | No |
+| `myco.systems` | No |
 | `myconan.net` | Yes |
 | `mycorrhizal.earth` | No |
 | `mycozy.space` | No |
@@ -27107,6 +27116,7 @@ Here's a list of public Fediverse services.
 | `peter0x48.social` | Yes |
 | `peterbabic.dev` | No |
 | `peterdebelak.com` | No |
+| `peterdutoit.com` | No |
 | `petergoes.nl` | No |
 | `peterjanes.ca` | No |
 | `peterlehmann.xyz` | No |
@@ -30219,6 +30229,7 @@ Here's a list of public Fediverse services.
 | `rubiez.eu` | No |
 | `rubincloud.com` | No |
 | `ruby.social` | No |
+| `ruby2sday.net` | Yes |
 | `rubywhite.com` | Yes |
 | `rucknium.me` | No |
 | `rucksfuchs.de` | No |
@@ -30290,6 +30301,7 @@ Here's a list of public Fediverse services.
 | `russ.industries` | No |
 | `russ.network` | Yes |
 | `russell.social` | Yes |
+| `russellmcc.com` | No |
 | `russiandiaspora.org` | No |
 | `russiaukraine.world` | No |
 | `russnelson.com` | No |
@@ -32981,6 +32993,7 @@ Here's a list of public Fediverse services.
 | `spurlock.social` | No |
 | `spv.sh` | Yes |
 | `spydar007.com` | No |
+| `sqapy.com` | No |
 | `sqdsh.top` | Yes |
 | `sqkyote.me` | Yes |
 | `sqlblog.com` | No |
@@ -33435,6 +33448,7 @@ Here's a list of public Fediverse services.
 | `strass.blog` | No |
 | `strasser.wien` | No |
 | `strasza.net` | No |
+| `stratinator.com` | Yes |
 | `stratonauts.co` | Yes |
 | `strausmann.net` | Yes |
 | `straw.social` | Yes |
@@ -39837,6 +39851,7 @@ Here's a list of public Fediverse services.
 | `zane.town` | No |
 | `zannoni.eu` | No |
 | `zany.tech` | No |
+| `zanycadence.com` | No |
 | `zap.dog` | No |
 | `zapashcanon.fr` | No |
 | `zapchenwellbeing.org` | No |
@@ -40207,8 +40222,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,959 |
-| Normal | 30,205 |
+| Cloudflare | 9,965 |
+| Normal | 30,214 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
