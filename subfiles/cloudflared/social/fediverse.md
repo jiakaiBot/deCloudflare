@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,043 |
+| com | 6,044 |
 | social | 3,882 |
 | net | 3,089 |
 | org | 2,131 |
@@ -20286,6 +20286,7 @@ Here's a list of public Fediverse services.
 | `lyrae.us` | Yes |
 | `lyralair.com` | No |
 | `lyrenhex.com` | Yes |
+| `lyricaltokarev.fun` | No |
 | `lyros.net` | No |
 | `lys.systems` | No |
 | `lyte.dev` | No |
@@ -30583,6 +30584,7 @@ Here's a list of public Fediverse services.
 | `sammiesweetie.com` | No |
 | `sammorrowdrums.com` | No |
 | `sammydee.net` | No |
+| `sammydepresso.com` | No |
 | `samnoble.org` | No |
 | `samojlenko.com` | No |
 | `samosada.ga` | No |
@@ -40205,7 +40207,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,959 |
-| Normal | 30,202 |
+| Normal | 30,204 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
