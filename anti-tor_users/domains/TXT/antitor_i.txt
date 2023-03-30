@@ -2091,7 +2091,6 @@ www.itimariecurie.edu.it
 www.itmattei.edu.it
 www.itp-serviceglobal.ro
 www.itrapeveryday.com
-www.itravelaffordable.com
 www.itsgalvani.edu.it
 www.itter.at
 www.ittvt.edu.it
@@ -2261,6 +2260,7 @@ auth.ishenim.kg
 auth.iupp.com.br
 auto.economictimes.indiatimes.com
 autodiscover.iadrinvestment.com.ng
+autodiscover.indeediafilms.com
 autodiscover.indiadiscourse.com
 avito.avito.sber.blablacar.sber.www.covid19.intertrade-msk.ru
 avito.avito.sberbank.www.covid19.inonotus-lab.com
@@ -2293,7 +2293,9 @@ booking.istradoma.nl
 bookingtest.ideamestudi.es
 botapps.inboost.ai
 br.indiawalmart.vip
+bucketsalarios-dev.cloud.itau.com.br
 c0783cd3c36928d51479c214cebd42df-httpcache0-03837-cacheod0.dna.ip-only.net
+canaispagamentossalariospj-dev.cloud.itau.com.br
 cards.ibagroup.eu
 cartroverapi.insprint76.inflowdevelop.com
 cc-qa.ineosautomotive.com
@@ -2315,6 +2317,7 @@ cmlibrary.iniser.com.ni
 cms.devnzready.immigration.govt.nz
 coa-prod.uk.iso.com
 commande.install-bois.dev
+comprardiscoduroexterno.irrigadordental365.com
 conibase.ifoodcorp.com.br
 contacto.iboxes.com.ar
 container-2011242.jpt.irangpu.com
@@ -2362,6 +2365,7 @@ crittercontrol.ittaus.com.au
 curie.iwl.com
 cvws.icloud-content.com
 dbs.ihz.me
+dd-fgfg-ww-eew-dff.infura-ipfs.io
 de.italianoconlaura.net
 de.ivaniminihuber.com
 demo-sso.invue-am.com
@@ -2375,6 +2379,7 @@ dev-tovdas01.to.ideep.com
 dev.cbt.ijuken.com
 dev.i-tracked.com
 dev.ijuken.com
+dev.jamesb.ishowcasedc11.com
 dev.rdm.insim.biz
 devwpay.inicis.com
 discord.ijwtb.net
@@ -2419,6 +2424,7 @@ fr.ica-assurance.com
 fr.ikiteknikyapi.com
 funcappshared.subcomp.cdflowdev.ionanalytics.com
 g14825.ideagenqpulse.com
+gate.i-penkert.de
 gateway-prod.ideonow.com
 gateway.inventiv.services
 gaurav.invoiced.in
@@ -2447,6 +2453,7 @@ hotmailiniciarsesion.net.ingresosenlanube.com
 i-ecu.com
 i-particuliers.fr
 i21k.de
+i2cmayorista.com
 i4c-customer.nl
 i96.com.br
 iaaspace.org
@@ -2490,6 +2497,7 @@ ichooseherinc.com
 ichuck.rocks
 icicibankchina.biz
 icicibankholdings.com
+icicicarees.com
 iciciholding.com
 icloud-alert-lnc.us
 icloud-br.support
@@ -2498,6 +2506,7 @@ icloud-logim.com
 icloud-login.us
 icloud-lsupported.us
 icloud-secure.us
+icloud-support-id.com
 icloud2.intrexxperience.com
 icloudhelp.info
 icloudhomesmail.com
@@ -2551,6 +2560,7 @@ igg.me
 igh-crc.org
 iglnetwork.com
 igmail.store
+ignminsk.gov.by
 igpowerhost3.net
 igranadoverie.bg
 ihcgastroservice.com
@@ -2559,6 +2569,7 @@ ihhcrm.com
 ihpublishing.com
 iicom-iicp.jp
 iit-dev.com
+iixer.com
 ijabasecurity.co.za
 ijesty.org
 ikanbanggai.shop
@@ -2592,12 +2603,14 @@ ilinuxos.com
 ilk.io
 ilock.eg
 ilossso.com.ar
+ilotulitusturvallisuus.fi
 iloveyou2023.com
 ilpicasadasrosas.com.br
 iluminamivida.org
 imagedevice.com
 images.incomm.com
 images.informz.net
+imeiunlock.id
 imeiunlock.ro
 imeri.ch
 imeta.com
@@ -2627,9 +2640,11 @@ impots-locaux.org
 impotsdenisrioux.ca
 imprenta3d.com
 impresia.com.ar
+impresorastotal.com
 impression.link
 impressionusa.com
 impresso.cl
+imprintedapparelstore.com
 impsteam.com
 imptoseguro.online
 impulseiot.com
@@ -2694,6 +2709,7 @@ infoanpost.com
 infoaxarquia.es
 infobolsawtst.ingdirect.es
 infochangement.fr
+infocus.com.au
 infojabodetabek.com
 infomalangraya.com
 infomaniakstatus.com
@@ -2706,9 +2722,11 @@ infopeluquerias.cl
 informationssystem.it-planungsrat.de
 informativowebsur.com
 informbank.com.br
+informotion4u.com
 infosiak.com
 infostandard.ro
 infotanews.com
+infoterminal.info
 infoupdate08-xfinlty.com
 infraction-gouv.com
 infrastructureconnect.id
@@ -2759,6 +2777,7 @@ insme.gr
 insolenzadir2d2.it
 instagram.idealhome.pl
 instagramdemedicos.com.br
+instagramers.net
 instagramfoljare.nu
 instagramgirls.pl
 instagramhuk.com
@@ -2802,6 +2821,7 @@ intenzefitness.com
 inter-mountainbancorp.com
 inter-security.ro
 interactivservice.ro
+interelectricos.com
 interer-mebel.ru
 interfax.com.ua
 interflon-service.de
@@ -2884,6 +2904,7 @@ ir.iac.com
 ir4-test2-sso.invue-am.com
 ira-slastena.com.ua
 irakuten.nu
+ireartsfinicane.com
 irenecara.com
 irgormash.ru
 iribnet.com.br
@@ -2943,6 +2964,7 @@ italianetservice.it
 italianolviv.com
 italianos.pt
 italoinviaggio.italotreno.it
+itasupport.com
 itau.com.br
 itauktion.itastore.se
 itautodijelovi.hr
@@ -3028,6 +3050,7 @@ meiopagtoedestaodoctos-dev.cloud.itau.com.br
 members.indiana.bank
 meridian.infoplexstaging.co.uk
 meridianspshop.infoplexstaging.co.uk
+mfsorautomatica-hom.cloud.itau.com.br
 minio.invoices.intercom.it
 mkpb.inter.mx
 mobileangel.intellitronika.com
@@ -3036,6 +3059,7 @@ mobilityservice.iternumstaging.dk
 mon-espace.izly.fr
 money2indianewweb.icicibank.co.in
 money6pack.itfitfit.com
+monitoring-oauth.saas-dev.aws.intension.dev
 monitoring.api.insideweddings.com
 monitoring.ig-larp.de
 monitoring.impulso.space
@@ -3059,6 +3083,7 @@ nft.nitronetwork.imints.xyz
 njoit-sso.invue-am.com
 notary.kube.intuitive-ai.de
 ns372865.ip-178-33-237.eu
+number10.in-no-v8.net
 o.itesys.org
 odt.idsyncmxedge.com
 oficinas-centro-ayuda-bbva-cuenta-online.ionlivescienceltd.com
@@ -3075,6 +3100,7 @@ ovh.qa.interswitchng.com
 owa.izks-mainz.de
 p-640019589b118d7cd560a57e-mongoclient-api.isaachybrid.com
 p34-acsegateway.icloud.com
+p52-acsegateway.icloud.com
 packages.ixmedia.com
 painel.interblox.com.br
 pascasarjana.iainfmpapua.ac.id
@@ -3096,11 +3122,14 @@ post-graduated.iasgo-th.org
 postino.itelligence.pl
 practitioner.ipsso.org
 preauth.interbanking.com.ar
+preprodansm.integra.fr
 preview-signin.immowelt.de
+prl.imsdiscord.com
 prod.iroomit.com
 proracun.istra-istria.hr
 psso.wp2.idium.no
 pt.intellect24.pro
+pubws.idealo.de
 qml.identityagencysites.co.uk
 qtsvpn.intradeco.com
 quot.it-services.my.id
@@ -3158,6 +3187,7 @@ sberbank.sber.git.git.covid19.inonotus-lab.com
 sberbank.sber.sber.avito.avito.sber.covid19.irinastarovid.com
 sberbank.sber.sber.avito.covid19.intertrade-msk.ru
 sberbank.sberbank.git.gitlab.covid19.irinastarovid.com
+sberbank.sberbank.sber.covid19.integraosteo.com
 scaleit.isachsenas.no
 scholarship.kentlaw.iit.edu
 schweiger-mailstore.itm-sourcing.net
@@ -3170,6 +3200,7 @@ sede.ine.gob.es
 semic.ilabt.imec.be
 server.indigowebservices.com
 service-ruj.icmaa.eu
+service.immodry-hamburg.de
 services.digital.digital.ilmci.com
 services.integratedsolusindo.com
 services.itransport.com.br
@@ -3198,6 +3229,7 @@ ssse.ivo.ir
 staging.insurance.gov.ph
 staging.ishinfosys.com
 staging.webinar.ivpi.sk
+starbucks.idolike.coffee
 stgwpay.inicis.com
 sts.ad.inventaliber.nl
 sts.inneo.cloud
@@ -3229,6 +3261,7 @@ tw-play.ishowlife.com
 twitch.it-vanek.at
 u.irvingconsults.com
 uat.idadevops.dk
+uatmidas.irisbyyes.in
 uniqa.inforsys.pl
 unpkg-com.service.itsmind.com
 update.202101211056.inowork.de
@@ -3238,6 +3271,7 @@ usw1-apim.dmr-us.informaticacloud.com
 v3apiauth.inumber.co.kr
 vaccine-muntinlupacity-gov-ph.i-s-d-s.com
 videollamada.inbursa.com
+vinculobeneficioinss-hom.cloud.itau.com.br
 viopeent-2.ingbank.com.tr
 voicecall-auth-login-aspx-hyttgygh.infura-ipfs.io
 vpn.ihc.co.uk
@@ -3279,6 +3313,7 @@ www.aiutoonlus-aps.investinggroup.org
 www.anasempower.invoicemudah.com
 www.apple.icloud-br.com
 www.apple.inc-br.support
+www.apple.ios-findmy.cc
 www.au.gmailaccount.islacristinaparallevar.es
 www.au.gmailsignup.islacristinaparallevar.es
 www.au.gmailtosignin.islacristinaparallevar.es
@@ -3296,6 +3331,7 @@ www.billy-hoosen.ianneillphotography.com
 www.blog.italianoassistencia.com.br
 www.bloodbank.innovate.com.pk
 www.bocadopovo.infor.dev.br
+www.boletos.incared.com
 www.boletos.infortech.inf.br
 www.booking.a.ipe.tw
 www.booking.igirisujobaclub.co.uk
@@ -3303,9 +3339,11 @@ www.booking.ilverdevafuori.net
 www.booking.infinitytransfer.hu
 www.booking.ireplace.com
 www.booking.iresys.com
+www.booking.isabellebeernaert.com
 www.bookingflixdashboard.itfhrm.com
 www.bookingtest.ideamestudi.es
 www.brissago.services.indivisuale.net
+www.btswiss.iso9001.digital
 www.career.identitynewsroom.com
 www.chase.isabellaportophotography.com
 www.citi.icoviconltda.com.co
@@ -3326,6 +3364,7 @@ www.darna.inaikas-client.xyz
 www.delivery-aircourier.iseeyounow.xyz
 www.delivery.infostorekw.com
 www.delivery.irishbar.ro
+www.deltaservice.iwebchile.cl
 www.demo.intelibooking.ro
 www.devis.infos-gouvernementales.fr
 www.distribusjon-av-va-5.innsamlingsteamet.com
@@ -3450,9 +3489,11 @@ www.illuriasec.com
 www.illustrationvtuber.com
 www.illuzon.com.br
 www.ilossso.com.ar
+www.ilotulitusturvallisuus.fi
 www.ilpasso.org
 www.ilpettirosso.shop
 www.iluminarfotografia.com.br
+www.imeiunlock.id
 www.imeiunlock.ro
 www.imglevents.org
 www.imjeremyhuber.com
@@ -3518,11 +3559,14 @@ www.indynoathelabel.nl
 www.infanciasemexcesso.com.br
 www.infertilitysupport.co.uk
 www.infinytowingservice.com
+www.infirmieres-gouvieux.fr
 www.infirmiers.com
 www.influenciecomsucesso.com.br
+www.infocus.com.au
 www.infonodes.org
 www.informatitu.it
 www.infos-gouvernementales.fr
+www.infos-societes.org
 www.infostandard.ro
 www.infra2038.org
 www.infrontcarservice.com
@@ -3569,6 +3613,7 @@ www.inst-all.info
 www.instacikkek.hu
 www.instaciti.com
 www.instagram-font.com
+www.instagram-neukunden.de
 www.instagram.com
 www.instagramhuk.com
 www.instagrammetodoasas.com
@@ -3582,6 +3627,7 @@ www.institutohermes.com.mx
 www.institutoisso.com
 www.insuranceadvisorygroup.com.au
 www.intcarservice.com
+www.inteco.us
 www.integra.si
 www.integralnet.cl
 www.integramedik.com
@@ -3646,6 +3692,7 @@ www.invoices.igsgroup.co.id
 www.invoicesoft.gr
 www.invoicesoftware4free.invoiceit.com
 www.inwole.de
+www.ioassurance.com
 www.iodelaurentian.com
 www.iogaterapeutic.cat
 www.iosolutions.com.my
@@ -3708,12 +3755,14 @@ www.italianoperaconcerts.com
 www.italrosa.nl
 www.itauktion.itastore.se
 www.itaunainn.com.br
+www.itautomation.com
 www.itaux.com.br
 www.itconsultants.cl
 www.iteservicio.com
 www.itmteam.us
 www.itop-vpn.ru
 www.itqaan.sa
+www.itrustunlock.com
 www.itseasyas123accounts.com
 www.itsokuk.com
 www.itsvicasso.com
@@ -3746,6 +3795,7 @@ www.login.isuzu.website
 www.logingarudagacor.idnplayapk.website
 www.maroso.icloudpedia.com
 www.mavideniz.net.idealink.com.tr
+www.mavisoptometry.clientdemo.itprojecthouse.com
 www.mayumi.invoicezivana.com
 www.meridian.infoplexstaging.co.uk
 www.meridianspshop.infoplexstaging.co.uk
