@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,053 |
+| com | 6,054 |
 | social | 3,883 |
 | net | 3,090 |
 | org | 2,132 |
@@ -3124,6 +3124,7 @@ Here's a list of public Fediverse services.
 | `bangdream.space` | Yes |
 | `bangdream.tokyo` | No |
 | `bangosbabel.social` | Yes |
+| `bangsparks.com` | No |
 | `bangtan.army` | No |
 | `banii.cafe` | Yes |
 | `banjo.camp` | Yes |
@@ -40227,7 +40228,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,968 |
-| Normal | 30,215 |
+| Normal | 30,216 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
