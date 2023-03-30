@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,043 |
 | social | 3,882 |
-| net | 3,088 |
+| net | 3,089 |
 | org | 2,131 |
-| de | 2,025 |
+| de | 2,026 |
 
 
 - Mastodon, Pleroma, etc
@@ -4019,6 +4019,7 @@ Here's a list of public Fediverse services.
 | `blank.org` | No |
 | `blankbaby.com` | Yes |
 | `blanketfort.blog` | No |
+| `blankpad.net` | No |
 | `blankshrimp.com` | No |
 | `blanu.net` | No |
 | `blarg.world` | No |
@@ -15699,6 +15700,7 @@ Here's a list of public Fediverse services.
 | `incidentally.social` | Yes |
 | `incipientjoy.com` | Yes |
 | `incitter.online` | No |
+| `incitter.vip` | Yes |
 | `inclunet.com.br` | No |
 | `inclusion.cc` | No |
 | `incmplt.net` | Yes |
@@ -25915,6 +25917,7 @@ Here's a list of public Fediverse services.
 | `onlybsds.com` | Yes |
 | `onlycasino.legal` | Yes |
 | `onlycosplays.social` | No |
+| `onlydergs.de` | No |
 | `onlyfans.tokyo` | No |
 | `onlyfans.zone` | No |
 | `onlyfarms.co` | Yes |
@@ -40201,8 +40204,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,958 |
-| Normal | 30,200 |
+| Cloudflare | 9,959 |
+| Normal | 30,202 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
