@@ -3731,6 +3731,7 @@ zsnyuzdz.page.link
 144-net.pjb2.com
 169-net.pjb2.com
 198-net.pjb2.com
+1m2uluze.page.link
 208-net.pjb2.com
 209-net.pjb2.com
 22j4dw0r.page.link
@@ -3848,12 +3849,15 @@ autodiscover.proantioquiaserver2.com
 autodiscover.psmpa.com
 avito.avito.avito.sber.avito.22df108e.covid19.prostrideaps.com
 avito.avito.avito.sber.avito.sber.covid19.prokuratura-nn.ru
+avito.avito.avito.sber.avito.sberbank.covid19.perspektivakam.ru
 avito.avito.avito.sber.avito.sberbank.covid19.pvasmellsbad.com
 avito.avito.sber.avito.avito.blog.covid19.polybeardmcc.com
 avito.avito.sber.avito.avito.sber.covid19.poweryourlife.com
 avito.avito.sber.avito.avito.sberbank.covid19.perspektivakam.ru
 avito.avito.sber.avito.avito.sberbank.covid19.pianobridges.com
 avito.avito.sber.avito.sberbank.covid19.prokuratura-nn.ru
+avito.avito.sber.blablacar.sber.www.covid19.perspektivakam.ru
+avito.avito.sber.blablacar.sberbank.covid19.perspektivakam.ru
 avito.avito.sberbank.blablacar.covid19.petrobaltgroup.ru
 avito.avito.www.sberbank.www.covid19.paradigma-soft.ru
 avito.sber.avito.avito.sber.www.covid19.perspektivakam.ru
@@ -3863,11 +3867,13 @@ avito.sber.avito.sberbank.www.covid19.prokuratura-nn.ru
 avito.sber.avito.www.sber.www.covid19.paradigma-soft.ru
 avito.sber.avito.www.sberbank.www.covid19.pianobridges.com
 avito.sber.sber.avito.avito.www.covid19.perspektivakam.ru
+avito.sber.sberbank.sber.avito.avito.covid19.pastryshop-dmd.ru
 avito.sberbank.avito.sber.avito.avito.covid19.pastryshop-dmd.ru
 avito.sberbank.sber.avito.avito.covid19.petrobaltgroup.ru
 avito.sberbank.sber.blablacar.sber.covid19.pastryshop-dmd.ru
 avito.sberbank.sberbank.blablacar.www.covid19.petrobaltgroup.ru
 avito.www.avito.sber.localhost.git.covid19.petrobaltgroup.ru
+avito.www.sber.sberbank.blablacar.sber.covid19.pastryshop-dmd.ru
 awards.premiers.qld.gov.au
 awtn.pist.com.tw
 ayuda-lifemiles.paymentez.com
@@ -3935,6 +3941,7 @@ coinbaselist.page.link
 communications.pbsdealers.com
 confident-fermat.62-244-233-116.plesk.page
 connect.ml.pr.sec01.proregia.io
+cont-1.p-cdn.us
 conta.pingraf.com
 contact.pinkpolishseattle.com
 contact4.photoscobacobak.xyz
@@ -3977,6 +3984,7 @@ cuenote.point-tactix.jp
 cuentastreaming.pillina.com
 cv.premium-traveler.de
 cxiq9zqwjigfen65.prev.site
+cyberscoreforums.com.pbncapung1.xyz
 d8ukji85.page.link
 d9s2vgcve6.page.link
 danirang.prom.md
@@ -3991,6 +3999,7 @@ deepfake.problog.lv
 deezer.page.link
 demo-checkout.int.pci.paymenttools.net
 demo.paganprideofeasttn.org
+demo.printsolv.com.au
 demobilling.prismitservices.in
 derendot.page.link
 deutchneler72311.page.link
@@ -4004,10 +4013,12 @@ dev-appmobil.pantheonsite.io
 dev-b-generall.pantheonsite.io
 dev-ban0.pantheonsite.io
 dev-banca-web-pichincha-login-ec.pantheonsite.io
+dev-banca3general.pantheonsite.io
 dev-bancaltaupy.pantheonsite.io
 dev-bancamobilbi.pantheonsite.io
 dev-bancataui.pantheonsite.io
 dev-banco-general-desactivation.pantheonsite.io
+dev-bancoprovinciabancainternec.pantheonsite.io
 dev-bcuscahgdst.pantheonsite.io
 dev-bi-line-up-secu-rity.pantheonsite.io
 dev-bi-sec-uri-ty-ho-me-r.pantheonsite.io
@@ -4040,6 +4051,7 @@ dev-homesttinfo23333.pantheonsite.io
 dev-hottrendtees.pantheonsite.io
 dev-industrilgtw.pantheonsite.io
 dev-ingresooccidentelineahn.pantheonsite.io
+dev-iniciarsesionitau.pantheonsite.io
 dev-internet24horas-seguridaditau.pantheonsite.io
 dev-itauconfirmarbanca.pantheonsite.io
 dev-itauconfirmarbancapy.pantheonsite.io
@@ -4075,13 +4087,16 @@ dev-pet-bienlinea.pantheonsite.io
 dev-portal-exitotuya.pantheonsite.io
 dev-qontomacx.pantheonsite.io
 dev-qontomapp.pantheonsite.io
+dev-ranseracostadeleal5273627.pantheonsite.io
 dev-redirigir123.pantheonsite.io
+dev-reportebhddeleon.pantheonsite.io
 dev-reservasensitevalidartion1.pantheonsite.io
 dev-retryvalidationweb.pantheonsite.io
 dev-secu-credit-union.pantheonsite.io
 dev-secureficohsa23.pantheonsite.io
 dev-securelogin-itau4.pantheonsite.io
 dev-segurositau-bancaelectronica.pantheonsite.io
+dev-springstep.pantheonsite.io
 dev-sunhabibi.pantheonsite.io
 dev-systpichncd.pantheonsite.io
 dev-teccc54346.pantheonsite.io
@@ -4112,9 +4127,11 @@ doh.powerdns.org
 domiaddict.portail-gay.net
 downloads.pentravel.co.za
 downloads.polycom.com
+downloads.prosysopc.com
 dq905d9s4d9s1s85041fsfssd.page.link
 drupal.master-7rqtwti-u3hdib5beef5m.de-2.platformsh.site
 dso.paybooc.co.kr
+dss.printsolv.com.au
 dsvsfgv84v4f8g54sdcdsvsf.page.link
 dubai.postcardtrip.in
 e-ptsp.pn-nunukan.go.id
@@ -4203,6 +4220,7 @@ go.plusgrade.com
 google.piano-reisinger.at
 grafana.petasafe.com
 greyapp.page.link
+grove.pxf.io
 grpss-prc25-dt3.pega.net
 gt42.page.link
 guiasenior.tr.pemsv17.net
@@ -4222,6 +4240,7 @@ hfdjfdgjsfjsfjrtuyr.page.link
 hfhfdghfsgjsfgjsfgj.page.link
 hg42.page.link
 hhf3xbzl.page.link
+hirbxefo3zddv85.food.promopoisk.ru
 hirect.page.link
 hl7v5ica.page.link
 hnkplus.or.ip.payntize.link
@@ -4263,6 +4282,7 @@ id67ch473.page.link
 id69au63.page.link
 id983ch67.page.link
 iiezji8z.page.link
+ilomli.page.link
 imanagepe.ppulegal.com
 img.ppzy.com
 imptest.pharmacykeeper.com
@@ -4313,6 +4333,7 @@ links.paleohacks-mailing.com
 live.phindor.com
 live.planetlakonias.gr
 live.podentrar-dev.com
+livecloud-smp-entry.pstatic.net
 ljpsrtev.page.link
 lkatlxxt.page.link
 lmsportal.prudential.com.vn
@@ -4327,6 +4348,7 @@ loginb.ps3419.org
 logion.papypapy-banki-co-jp.rest
 logos.penso.com.br
 loigin.payipaiy-bank-co-jp.cyou
+love2me.page.link
 lqk7culn.page.link
 lrtazcdh.page.link
 lyon.pagatodo360.net
@@ -4340,6 +4362,7 @@ mail.physicos.com.br
 mail.plc.lk
 mail.premiumgift.ma
 mail.pudp.ru
+mailchimp.pierreragheb.ca
 mailchimp.playshifu.com
 mailer.pfletscher.net
 managedaccounts.pacificpower.net
@@ -4360,10 +4383,12 @@ monitoring-mark.pak-dyn.planzergroup.com
 monitoring.gce-elmar-prod.peakwork.io
 monitoring.holyfashion.pricing.air.prudsys.com
 monitoring.pd-addisplay.com
+monitoring.polrestacirebon.id
 monitoring.presensiku.id
 monitoring.purematic.de
 moodle.paara.am
 mq.pointnclick.com
+msv3.phoenixgroup.eu
 musing-euler.159-100-29-67.plesk.page
 musomtanfoaom.page.link
 my-account-admin.prominencebank.com
@@ -4422,6 +4447,7 @@ pabellonmetepec.com.mx
 pabucketlist.com
 pacademy.vn
 pacc-ccap.ca
+packageflyexpress.com
 packagesinsider.com
 packlabsolutions.com
 paclease.com.my
@@ -4473,6 +4499,7 @@ palmerandassociates.org
 palmglory.com
 palmisland.in
 paloverdevalleybus.com
+palvelukotirauhala.fi
 pamfl.com
 pamperedpets.org.uk
 pamuhacha.org
@@ -4484,6 +4511,7 @@ panchjanyainc.com
 pandabet365.com.tn
 pandabet365.tn
 pandacrabgw.com
+pandawanda.pl
 pandemiebasvuru.com
 pandittrimbakeshwarkaalsarppuja.com
 pandorahotels.in
@@ -4503,6 +4531,7 @@ papelariamundofofo.com.br
 papelle.com.br
 paperihattu.com
 papuaterbit.com
+paqueteria.company
 paquetesdentales.com
 parabel.se
 paradigmchange.me
@@ -4521,7 +4550,6 @@ parcel-boxes.co.uk
 parcel-place.com
 parcel100.com
 parceladongallo.cl
-parceladvantage.com
 parcelaeventos.cl
 parcelari.ro
 parcelasbosquemar.cl
@@ -4606,6 +4634,7 @@ paymentgate.co.ke
 paymentkhn.my.id
 paymentmanager.co.nz
 payments.cash
+payments.paydeck.net
 payments.payius.com
 paymentsitehealth.com
 paymoney.tech
@@ -4616,6 +4645,8 @@ paypal.pallan.mg
 paypaysajff.top
 paysampah.online
 payul.com
+payunbaru.site
+payungberliannusantara.com
 payungiklan.com
 payunglogo.co.id
 payungmalam.com
@@ -4645,7 +4676,6 @@ pcsolottoresults.today
 pctuning.cz
 pcwater-service.com
 pdamerica.org
-pdfposter.com
 pdp-services.co.uk
 pdp.fi
 pdxsam.realtor
@@ -4681,6 +4711,7 @@ pelicancbdgummies.net
 pelicanosport.net
 pelinsutekstil.com
 pelisgratis.live
+peltolaracingservice.fi
 pen-paper-dice.de
 pen.gg
 penguin.co.in
@@ -4696,6 +4727,7 @@ pentagoncollege.co.za
 pentechsupport.com
 pentlyconger.com
 peoplactive.com
+peopleheartplanet.com
 peopleofwalmart1.com
 peoplesmbc.org
 pepeizqdeals.com
@@ -4730,8 +4762,10 @@ pertiwi.pgn.co.id
 peruvipservice.org
 pesajeycontrol.cl
 pesansate.store
+pescaderias.com.mx
 pesko.com.br
 pest--control.info
+pest-control.info
 pest-controlfl.com
 pestcontrol-kuwait.com
 pestcontrolservice.com.vn
@@ -4771,6 +4805,7 @@ pgslot-truewallet.net
 pgslot.place
 pgslot45.com
 pgslotwallet100.net
+pgwallet99.com
 phabc.org
 phanmemquocte.com
 phantaxservice.com
@@ -4950,6 +4985,7 @@ podloud.fr
 podnosnikikaja.pl
 podologiaestado.cl
 podvaly.sk
+poisedprotected.com
 poitoupopulaire.fr
 pokermoney.online
 pokobooks.com
@@ -4977,6 +5013,7 @@ pominspections.ca
 pomoc-elektryka.pl
 pongidsrunback.com
 ponsoftware.net
+pontajangajati.ro
 ponteyapi.com.tr
 pontosparavoce.xyz
 pookpika.com
@@ -4992,6 +5029,7 @@ populationinstitutecanada.ca
 populerleather.com
 porchettaitaliana.com
 porfidocastelliromani.it
+porkfilled.com
 porngrouplink.com
 pornsites.me
 pornvalleymedia.net
@@ -5150,6 +5188,7 @@ pressa.rv.ua
 presscore.ca
 pressmetal.com
 pressofatlanticcity.com
+prestigioustrader.com
 pretaparty.com
 pretorlex.com
 prettyhouseterms.com
@@ -5264,6 +5303,7 @@ promotiondemo.com
 promotionsofthedaythebest.online
 promovers-packers.com
 promovideo.pl
+prontoitaliano.co.uk
 propatientco.com
 propertybank.com.sg
 proseccofestival.com.au
@@ -5344,6 +5384,7 @@ publpush.com
 puchibukuro.site
 pudfcu.org
 pugdogpassion.com
+puhdistuspalvelu.fi
 puiuservice2000.ro
 pulitecnicas.com
 pullo.xyz
@@ -5424,9 +5465,12 @@ sber.sber.avito.avito.sber.www.covid19.perspektivakam.ru
 sber.sber.avito.avito.sberbank.avito.covid19.poweryourlife.com
 sber.sber.avito.avito.sberbank.www.covid19.paradigma-soft.ru
 sber.sber.avito.sber.avito.sber.avito.covid19.polybeardmcc.com
+sber.sber.avito.sber.avito.sberbank.covid19.perspektivakam.ru
 sber.sber.avito.sberbank.blablacar.covid19.petrobaltgroup.ru
 sber.sber.avito.sberbank.sber.sber.covid19.prostridevet.com
 sber.sber.avito.www.sber.www.covid19.paradigma-soft.ru
+sber.sber.sber.avito.sber.sberbank.covid19.prostrideaps.com
+sber.sber.sber.avito.sber.www.covid19.perspektivakam.ru
 sber.sber.sberbank.sber.avito.avito.covid19.pastryshop-dmd.ru
 sber.sber.sberbank.sber.avito.avito.covid19.petrobaltgroup.ru
 sber.www.sberbank.covid19.paradigma-soft.ru
@@ -5463,6 +5507,7 @@ sberbank.sber.sber.blablacar.sber.covid19.pastryshop-dmd.ru
 sberbank.sber.sber.sberbank.blablacar.covid19.prostridevet.com
 sberbank.sberbank.avito.sber.avito.covid19.prostrideaps.com
 sberbank.sberbank.blablacar.avito.sber.covid19.pastryshop-dmd.ru
+sberbank.www.sber.www.git.covid19.petrobaltgroup.ru
 scholarlycommons.pacific.edu
 sdfsdg.page.link
 search.perfect.com
@@ -5481,6 +5526,7 @@ sfb.port.one
 sharepoint.office.outlook.com.puertasautomaticasmonterrey.com.mx
 shortideas.page.link
 sipoprovision.protectanet.com
+sklepzalkoholami.presta-devel.pl
 slipupload.prjsafe.com
 slotdemopragmaticgratis.page.link
 smartsafe-integration-api.paycorp.co.za
@@ -5524,6 +5570,7 @@ t3dqrflkq.page.link
 tabere.postulcuapa.ro
 talktl-cdh-stg1.pegacloud.net
 teams.covidbot-prod.probayes.net
+telegram.per100.ir
 tempcms.therecord.media.develop-sr3snxi-r6uchqjqwmfqi.us-4.platformsh.site
 test-coop-its.plan-net.swiss
 test-merchant.dev.paymenttools.net
@@ -5556,6 +5603,7 @@ twitch.phyo.re
 twtubelink.page.link
 uat.pizzahut.vn
 uat.polarpay.com
+uatpayment.pizzahut.com.hk
 uberbrazil.publicfirst.co
 uf83pg9c.page.link
 ufrc.policia.pr.gov
@@ -5573,6 +5621,7 @@ uumonitoringg01-eu-w-1.plus4u.net
 v10saferpay.peppershoptest.ch
 v4ary0h7.page.link
 valhalla.promilci.com
+vbrhrg.page.link
 vdssvds.page.link
 vdsvdshtgrfe.page.link
 ventas.parhikuni.com.mx
@@ -5600,6 +5649,7 @@ walgreensprimer.profitect.com
 wallet.pylons.tech
 wangomang.project-development.xyz
 wealth-app-uat.prudentialcorporation-asia.com
+web-cd.pocketliving.com
 web.prodados.net.br
 web01.psh-cloud.de
 web2.parcelges.com
@@ -5656,10 +5706,12 @@ www.aperturayseguridad2010.politicadigital.com.mx
 www.api.parcelbox.pt
 www.apple-venezuela-5.plfdesignremodeling.com
 www.apple-venezuela.plfdesignremodeling.com
+www.apple.pointer.pk
 www.apps-customer-epc.pasoka.id
 www.askgoogle.practice-project-ostad.com
 www.atelier-saison.patisserieprivee.com
 www.avisospeople.pcefactrest.com
+www.avito.sber.avito.sber.sberbank.5bnyyid1qjjmhov.root.privods.com
 www.avito.sber.avito.sberbank.rtqn9told9gc2pu.www.app.perevodclub.ru
 www.avito.sber.blablacar.sber.zpdswrwzzttid6t.login.pro-rage.ru
 www.avito.sber.blablacar.www.avito.zpdswrwzzttid6t.login.pro-rage.ru
@@ -5758,6 +5810,7 @@ www.feedback.piffers.net
 www.financial-qa.com.mx.prestamos-soe.com.mx
 www.findmy-appleid.ptrkit.xyz
 www.flight.prishtinaticket.net
+www.foodporn.instagram.phipi.ch
 www.frontend.panapayment.com
 www.funcionamento.pagarcompix.com.br
 www.gitlab.gitlab.gitlab.login.peedeetoday.net
@@ -5838,6 +5891,7 @@ www.packnparcel.com
 www.paddocktrailstallstraehhuber.com
 www.padeltampere.fi
 www.paducahbarge.com
+www.paga-fattura-aruba-it.com
 www.pagaprimatestesso.com
 www.pagarawan.desa.id
 www.pagarbesivenus.com
@@ -5860,10 +5914,12 @@ www.palminvestmentllc.com
 www.palombotraininggroup.com
 www.palomitaspasteleria.cl
 www.palsbuilders.co.uk
+www.palvelukotirauhala.fi
 www.palvelutaloisannointi.com
 www.pammarchantartist.com
 www.panaconvert.panapayment.com
 www.panadol.paketkonusan.site
+www.pancakeprize.com
 www.pancakerewards.com
 www.panelbetonprecast.com.pengerjaanbangunan.com
 www.panelesswindowclean.com
@@ -5876,6 +5932,7 @@ www.panjabi-mc.com
 www.pankow-gegen-rassismus.de
 www.pano-sign-service-lpa.fr
 www.panoramaitaliano.ca
+www.pantazesteam.com
 www.paolinoebisso.com
 www.papelariaforadacaixa.com
 www.papertrophy.com
@@ -5883,6 +5940,7 @@ www.papilayapi.com
 www.papost960.org
 www.papypapette.com
 www.paqcap.co
+www.paqueteria.company
 www.paquetesdentales.com
 www.paquetespremium.puertaescenica.com
 www.paradicecasting.com
@@ -5913,6 +5971,7 @@ www.parcellcpa.com
 www.parcelmovers.com.au
 www.parcelpush.com.au
 www.parcelrecovery.com
+www.parcelsdesign.com
 www.parcelupbox.com
 www.pardemyapi.com
 www.parenthesecoquine.com
@@ -5927,6 +5986,7 @@ www.parkhotelhamburgarena.de
 www.parkingreformatlas.org
 www.parkjourney.com
 www.parkstylemall.com.br
+www.parlareitaliano.ch
 www.parlourdiner.com.au
 www.parrucchebelluno.it
 www.parshasteam.com
@@ -6008,9 +6068,11 @@ www.peachpitbrookhaven.com
 www.peachyoutlook.com
 www.peakinternet.co.uk
 www.peartreecs.com
+www.pecasapple.com.br
 www.pedrasprogresso.com.br
 www.pedrobusko.com
 www.pelobuddy.com
+www.peltolaracingservice.fi
 www.pengepost.dk
 www.pengovsky.com
 www.penseinisso.com.br
@@ -6057,6 +6119,7 @@ www.petbeast.net
 www.petdoorwiki.com.primecheapflights.com
 www.pete-walker.com
 www.petebrown.net
+www.petercarservice.com
 www.peterdelbusso.com
 www.peterlorusso.co.uk
 www.petio.com
@@ -6080,6 +6143,7 @@ www.pflegeservice-rita-osterloh.de
 www.pfm-hermes.fr
 www.pgiseguridad.com
 www.pgsfcu.org
+www.pgwallet99.com
 www.phantasos-studio.de
 www.pharcoswiss.com
 www.pharmapace.com
@@ -6182,6 +6246,7 @@ www.plantas-artificiales.com.es
 www.plantasyfollajesintetico.com
 www.planthumboldt.com
 www.plantopia.at
+www.plantsuccess.org
 www.plasticasso.com
 www.plataforma9p9.com
 www.platelineframers.net
@@ -6287,6 +6352,7 @@ www.postlongcovid.de
 www.postnewsgroup.com
 www.postnlvacature.nl
 www.postosantamarta.com.br
+www.postpartumlyparents.com
 www.postregister.com
 www.postres-enjoy.com
 www.postresingluten.es
@@ -6354,6 +6420,7 @@ www.primemeridian.fr
 www.primeridesinc.com
 www.primewellnessfit.com
 www.primodecoracoes.com.br
+www.primoservice-bv.com
 www.princegeorgepost.com
 www.princeholdinggroup.com
 www.prindleinstitute.org
@@ -6410,6 +6477,7 @@ www.promontoria.nl
 www.promos-thalasso.com
 www.promoteukraine.org
 www.prontodelivery.com.ar
+www.prontoitaliano.co.uk
 www.proofy.org
 www.propasso.com.br
 www.propersausages.com
@@ -6457,6 +6525,7 @@ www.ptsecurity.com
 www.ptsospectrum.com
 www.pttcpingpong.com
 www.pugliain.net
+www.puhdistuspalvelu.fi
 www.pulexart.com
 www.puliziamaterasso.com
 www.pulsapaypal.co.id
@@ -6478,6 +6547,7 @@ www.purepilateskl.com
 www.pureref.com
 www.purevisionbooking.com
 www.purplepayment.in
+www.purplepineapple.co.za
 www.purplespace.org
 www.pusatservice-ariston.co.id
 www.pushmatcha.com.br
@@ -6521,7 +6591,9 @@ www.sber.avito.sberbank.sber.avito.zpdswrwzzttid6t.login.pro-rage.ru
 www.sber.avito.sberbank.sber.rtqn9told9gc2pu.www.app.perevodclub.ru
 www.sber.avito.www.avito.sberbank.lanznwyziyid4yw.app.perevodclub.ru
 www.sber.avito.www.sber.sberbank.lanznwyziyid4yw.app.perevodclub.ru
+www.sber.avito.www.sberbank.avito.rtqn9told9gc2pu.app.perevodclub.ru
 www.sber.sber.avito.blablacar.sber.zpdswrwzzttid6t.login.pro-rage.ru
+www.sber.sber.avito.sber.sberbank.5bnyyid1qjjmhov.root.privods.com
 www.sber.sber.avito.sberbank.rtqn9told9gc2pu.www.app.perevodclub.ru
 www.sber.sber.blablacar.www.avito.zpdswrwzzttid6t.login.pro-rage.ru
 www.sber.sber.sber.blablacar.avito.zpdswrwzzttid6t.login.pro-rage.ru
@@ -6591,6 +6663,7 @@ www.shwidget.postnbid.com
 www.sicuber.pn-gianyar.go.id
 www.simplestudioindonesia.com.posterbelajaronline.com
 www.singaporehotelbooking.pangkorislandhotel.net
+www.sklepzalkoholami.presta-devel.pl
 www.skullsapparel.primecheapflights.com
 www.skylightswiftglobals.parcelexglobals.com
 www.sparkasse.pmfilms.net
@@ -6603,6 +6676,7 @@ www.suratkabargenta.pwiriau.com
 www.swissairtechnologynoaccess82342652828.petshopgrosir.online
 www.swissinthesoul.pedroli.ch
 www.tabere.postulcuapa.ro
+www.telegram.per100.ir
 www.telekom-app.hardcore-haibt.139-144-12-68.plesk.page
 www.telekom-app.musing-vaughan.139-144-12-68.plesk.page
 www.temporary1.postelkamed.ru
@@ -6640,6 +6714,7 @@ www.vistriaam.peakexpresspost.com
 www.vivawallet.pconsite.pt
 www.vodafone.promozionefibra.com
 www.wallet.payrue.com
+www.warteg.puluno.moe
 www.webdev.premiercredit.co.zm
 www.webgl.parcelari.ro
 www.whatsapp.partnetprojets.com
@@ -6652,6 +6727,7 @@ www.work.presidentshippingservice.com
 www.workingmail.promogifts.lt
 www.worldentrepreneursbank.org.pella.care
 www.zeliha-deniz.pfalzbus.de
+www77.phipayment.com
 xeedminingapp.page.link
 xmod2155test.psqr.clients.psqr.cloud
 yaaarbilamatsahal.page.link
