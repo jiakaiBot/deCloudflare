@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Connection not stable after latest update.](https://github.com/w35l3y/hassio-addons/issues/22)
 - [502 errors are not handled correctly](https://github.com/nutshell-lab/meilisearch-ex/issues/1)
 - [help wanted 求助: server traffic outgoing problem](https://github.com/fscarmen/warp/issues/315)
 - [cloudflare worker 100秒超时，pages也是吗，我想知道怎么把timeout设置长一点。](https://github.com/x-dr/chatgptProxyAPI/issues/11)
