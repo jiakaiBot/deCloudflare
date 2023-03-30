@@ -10482,6 +10482,7 @@ Here's a list of public Fediverse services.
 | `exile.social` | No |
 | `existentialcrisis.link` | No |
 | `existentialis.me` | No |
+| `existiert.ch` | Yes |
 | `exited.eu` | No |
 | `exitmusic.world` | Yes |
 | `exitus.social` | No |
@@ -17319,7 +17320,7 @@ Here's a list of public Fediverse services.
 | `kae.lt` | Yes |
 | `kaeablog.pl` | No |
 | `kaede.ch` | Yes |
-| `kaede.im` | Yes |
+| `kaede.im` | No |
 | `kaelig.ovh` | No |
 | `kaenb.in` | Yes |
 | `kaernten.space` | No |
@@ -40201,7 +40202,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,958 |
-| Normal | 30,199 |
+| Normal | 30,200 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
