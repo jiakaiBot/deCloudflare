@@ -48,7 +48,6 @@ app.solutions.lexisnexis.com
 aria2.labhome.site
 asml-dev.logicnets.net
 au.loyaltygateway.com
-auth-validation.lofino.de
 auth.lahaverivercreditunion.ca
 auth.laptopcu.com.vn
 auth.linkhub.co.kr
@@ -1262,7 +1261,6 @@ lmkg.com
 loadcum.com
 loadwallet.com
 loanofficerhub.com
-loans.lfcu.org
 local12.com
 localguideprogram.com
 localsextingsluts.com
@@ -1981,6 +1979,7 @@ yutyrterwewrertyiouiuyt.us-east-1.linodeobjects.com
 8lements.live-airdrop.com
 90trygfhgghf.us-southeast-1.linodeobjects.com
 a1.landersite.com
+abacus.lonstroff.com
 acer.laptoprepairshops.com
 adfs.litef.de
 adventurers2023.live-airdrop.com
@@ -2022,16 +2021,21 @@ autodiscover.ladynoirtravel.com
 autodiscover.lancebrolin.com
 autodiscover.leonelcastroblog.com
 avito.avito.avito.avito.sberbank.covid19.logopedonline.com
+avito.avito.avito.www.sberbank.www.covid19.logopedonline.com
 avito.avito.sber.avito.avito.sberbank.covid19.logopedonline.com
 avito.sber.avito.avito.avito.sber.covid19.lanahomeshop.com
 avito.sber.avito.avito.avito.sberbank.covid19.logopedonline.com
+avito.sber.avito.avito.www.sber.covid19.lanahomeshop.com
 avito.sber.avito.avito.www.sber.covid19.logopedonline.com
+avito.sber.avito.www.avito.www.covid19.lanahomeshop.com
 avito.sber.avito.www.sber.www.covid19.lanahomeshop.com
 avito.sber.avito.www.sberbank.www.covid19.lanahomeshop.com
 avito.sber.sber.avito.avito.covid19.logopedonline.com
 avito.sberbank.sber.avito.avito.avito.covid19.lextrainings.com
+avito.www.avito.sber.avito.covid19.logopedonline.com
 aws-tst.localiza.dev
 ayan477845.lofter.com
+bajacatcanada.livejournal.com
 be833d4fc9b299.lhr.life
 bill.lintasmedianet.com
 billngupdte-accontinformationsdiahfgsdyffdh.loandes798.com
@@ -2045,6 +2049,7 @@ blur.live-airdrop.com
 bong-bears.live-airdrop.com
 bonus.libroteamdisuccesso.it
 bookings-staging.leithcommunitycentre.org.uk
+bookings.lantaw-marbel.com
 bookings.leithcommunitycentre.org.uk
 bookings.littlehumby.com
 bookingtool.levisssd.com
@@ -2067,11 +2072,13 @@ click.email.lift-and-shift.com
 click.lakeroteam.com
 click1.email.lee.net
 client-old.lemur.company
+clients.leads4u.uk
 cloud.crm.livibank.com
 cloudloader.lt-user-create.test.livelink.dice.livelinklabs.com
 cluster-dashboards-stack21.apps.okd.iot-poc.leadec-services.com
 cna.ltcpolicyhub.com
 coach-transform.livejournal.com
+coinbase.login-account-recovery.com
 community.linuxmint.com
 completecarenj.livejournal.com
 copiifericiti.lionesseevents.ro
@@ -2107,6 +2114,7 @@ discord.lukeairtool.net
 discourse.dev.local-it.cloud
 discourse.lefil.org
 diva-cdn-dev.livique.ch
+dr-ahmedadel.lbp-support.com
 drahmedadel.lbp-support.com
 dreamsneverdie.live-airdrop.com
 edomin.live-airdrop.com
@@ -2127,6 +2135,7 @@ endpoint.longformx.com
 enterprise.legion.work
 epost.landtech-inc.com
 erp.lanaperuana.com
+es.leroidetinder.com
 esda.lamwoo.edu.hk
 facebook.lifespringmedia.com
 feeds.lengow.io
@@ -2134,11 +2143,14 @@ feinesahnefischfilet.lnk.to
 festival-spotify.luxurygirlscrew.ca
 festivelivving.livvhousinggroup.com
 filemanager.lexportal.co.uk
+filt.us-southeast-1.linodeobjects.com
 financebasicsforphysicians.lpages.co
 flappymoonbird.live-airdrop.com
+flaxencat.lofter.com
 fms.lowcarboncontracts.uk
 forgottenrunes.live-airdrop.com
 forum.lis.eu
+forumasso.labo-rectoverso.re
 forums.linuxmint.com
 fr.lsso.ca
 fr.lux-assurances.lu
@@ -2238,6 +2250,7 @@ ladanglima.com
 ladespensadegrosso.com
 ladevesa.info
 ladinahuber.ch
+lady-k-loves.com
 laexclusiva.com.py
 lafabrique.de
 lafritech.co.ke
@@ -2277,6 +2290,7 @@ laoyapi.com
 lap.lladro.co.jp
 lapattenoire.be
 lapdax.xyz
+lapizarrablanca.com
 lapresentaciondetuvida.com
 laptopdep.vn
 laressourcerieverte.com
@@ -2304,6 +2318,8 @@ laune.id
 laurabotique.com.br
 laurentianchamber.org
 laurestore.vn
+lausinacreativa.com.ar
+lautarorosas.info
 lav2.xyz
 laversleopold.guru
 lavoladorasantander.com
@@ -2316,6 +2332,7 @@ lawriesitsupport.com
 lawwithanapple.com
 layanan-bank.web.id
 layanan-tarif-bank.my.id
+lazaridis-carservice.gr
 lazaromedeiros.com.br
 lazeo.nl
 lazy-lions.live-airdrop.com
@@ -2342,6 +2359,7 @@ learningpotential.com.au
 learnkosmos.org
 learnwithgoogle.pl
 leasorcrass.com
+leatherhaven.info
 leba.eu
 lebara.sa
 lecenergy.co.uk
@@ -2404,6 +2422,7 @@ letzzzgo.co
 leuromobile.it
 leveller.ca
 levelling.io
+levelskip.com
 levelupbizz.life
 leventakdeniz.com.tr
 leveringsbetingelser.no
@@ -2466,7 +2485,6 @@ lilwarriorscharity.org
 limafloat.pe
 liminacarnis.com
 limnica.if.ua
-limosandcarssecure.com
 limousinen-service-bayern.com
 limousinethailand.com
 linadeniz.com
@@ -2604,6 +2622,7 @@ lokapalvelu.fi
 loketu.com
 loliknight-jr.com
 lolreddit.com
+loma.ml
 londonbrokerexchange.co.uk
 londoncomicconwinter.com
 londonmoths.org.uk
@@ -2641,6 +2660,7 @@ loveofallwisdom.com
 lovethelane.ca
 lowongannusantara.com
 lowwwcarbon.com
+loyaltygateway.com
 loyaltypharma.com
 lpf.com.ua
 lpglaw.com
@@ -2658,10 +2678,12 @@ luagris.net
 luanamansoartesanatos.com.br
 lubetkin.net
 lucaheesomphotography.com
+lucasalvesteam.com.br
 lucasfleetservice.com
 luceroclothing.com
 luchitastudio.net
 luckjp1.com
+luckknowschool.com
 luckygarments.com
 lucyhounsom.co.uk
 lucywritersplatform.com
@@ -2680,10 +2702,12 @@ lumearrr.ro
 luminarium.com.br
 lunadigital.com
 lunargenta.com
+lunarosajewelry.com
 lundybancroft.com
 lunocloud.com
 lunos.gr
 lunosity.com
+lunova.fi
 lunoxconstruct.ro
 luotto.net
 lupoperu.com
@@ -2701,6 +2725,7 @@ luxwheels.com.ua
 lvlup.social
 lvzhihome.com
 lwlx.xyz
+lyhytterapiapalvelu.fi
 lyko.se
 lyndynorman.com
 lynnenamka.com
@@ -2823,6 +2848,7 @@ saltwire.us16.list-manage.com
 sanyuewww.lofter.com
 sber.avito.avito.avito.avito.sber.covid19.logopedonline.com
 sber.avito.avito.sber.avito.avito.covid19.lanahomeshop.com
+sber.avito.avito.sber.gitlab.gitlab.covid19.lextrainings.com
 sber.avito.avito.www.sberbank.www.covid19.letmewatchthis.ru
 sber.avito.sber.avito.avito.avito.covid19.logopedonline.com
 sber.avito.sber.avito.avito.www.covid19.lanahomeshop.com
@@ -2834,7 +2860,10 @@ sber.sber.avito.sberbank.covid19.logopedonline.com
 sber.sber.sber.avito.avito.sber.covid19.logopedonline.com
 sber.sber.sberbank.sber.blablacar.covid19.lastebilsider.com
 sber.sberbank.avito.sber.blablacar.git.covid19.lastebilsider.com
+sber.www.sber.sber.avito.www.covid19.logopedonline.com
+sber.www.sber.sberbank.sber.blablacar.covid19.lastebilsider.com
 sber.www.sberbank.sber.avito.avito.covid19.lextrainings.com
+sber.www.sberbank.sber.avito.sberbank.covid19.logopedonline.com
 sberbank.avito.avito.avito.sberbank.covid19.lanahomeshop.com
 sberbank.avito.avito.avito.www.sber.covid19.lanahomeshop.com
 sberbank.avito.avito.www.avito.covid19.logopedonline.com
@@ -2852,6 +2881,7 @@ sberbank.sber.avito.www.covid19.logopedonline.com
 sberbank.sber.blablacar.blablacar.covid19.lextrainings.com
 sberbank.sber.sber.avito.avito.www.covid19.logopedonline.com
 sberbank.sberbank.avito.sber.avito.git.covid19.lastebilsider.com
+sberbank.www.sberbank.avito.covid19.lastebilsider.com
 scej8vqjdwn1tnpb.blog.query.yahoo.com.lonewolf.net
 schizoposters.live-airdrop.com
 secure.lantaksitucustomer.com
@@ -2885,6 +2915,7 @@ ssx.redmine.luvina.net
 starplus.lgcare.co.kr
 start.lesechos.fr
 steam-headless.labuhn.name
+steamer.llorz.online
 stellafantasy.live-airdrop.com
 stg.linebank.co.jp
 stradall.live-airdrop.com
@@ -2926,6 +2957,7 @@ twitchbot.light4everyone.xyz
 twitter.laporanpenipuan.info
 u17zssa0p5e8ploy.antispam.lucero.com
 ugzamosc.bip.lubelskie.pl
+ui1.larutech.net
 ui2.larutech.net
 uk.london2012alerts.com
 ultranurd.livejournal.com
@@ -2959,6 +2991,7 @@ wetterwarnung-staging.lgmdev.de
 whm.legourmandgourmet.pt
 wiseworksheetss.livejournal.com
 ws.lusitaniavida.pt
+wsc.lvcsgo.com
 www-micros0fteam.livewireremote.com
 www.19znegeulfluxsisilafamille.test.login.langmarket.com
 www.aadglq8xqbpeqpdu.wordpress.mailserver.lucero.com
@@ -2995,6 +3028,7 @@ www.booking.lanexangaviation.com
 www.booking.leetwolf.org
 www.bookingcms.leetwolf.org
 www.bookingplug.leetwolf.org
+www.bookings.lantaw-marbel.com
 www.bookingtool.levisssd.com
 www.cairmahjong.com.loginaman.com
 www.caixaroxo.luckloja.com
@@ -3005,6 +3039,7 @@ www.client-old.lemur.company
 www.client.laxmi.biz
 www.client.lightonsolutions.com
 www.clientes.luxus-fachadas.pt
+www.clients.leads4u.uk
 www.consulta.ligaciclismosantander.com
 www.contacto.lesamadi.cyou
 www.contactos.lqsoftwares.com
@@ -3019,12 +3054,14 @@ www.desjardins.lacabinephoto.com
 www.dev.layerstripe.com
 www.dev.lmbmarketinggroup.com
 www.dinomiteservice.livesiteus.click
+www.dr-ahmedadel.lbp-support.com
 www.drahmedadel.lbp-support.com
 www.eden-coffee-house.lloydsmithphotography.com
 www.epicarenewdesign.logindesigns.com
 www.espwhatsapp.lesportablez.com
 www.festival-spotify.luxurygirlscrew.ca
 www.floww.leannemcfadyen.com
+www.forumasso.labo-rectoverso.re
 www.garrasbox.com.leadsya.com
 www.genealogypublishinggroup.lindaroghaar.com
 www.goodweightcontrol.letsgrowtoglow.com
@@ -3153,6 +3190,7 @@ www.lawhinds.com
 www.laxman.academy
 www.layanan-bank.web.id
 www.layladesjardins.com
+www.lazaridis-carservice.gr
 www.lazyhorses.com
 www.lazzaromeats.com
 www.lbcwisecounsel.com
@@ -3225,8 +3263,10 @@ www.lepetithavre.com
 www.lepingupank.ee
 www.leptidigital.fr
 www.leptigenmeridian36.ru
+www.lerapportreengineeringgroup.com
 www.leressecurity.com
 www.leroundhaus.com
+www.leroymerlin.pl
 www.leroymerlin.pt
 www.les-degourdis.com
 www.les-zambules.com
@@ -3248,6 +3288,7 @@ www.letterteller.com
 www.leuswiss.ch
 www.levefotos.com.br
 www.leventakdeniz.com.tr
+www.leveringsarbejde.dk
 www.lewisvitla.si
 www.lexpharmasupport.com
 www.lezioni-italiano.com
@@ -3318,6 +3359,7 @@ www.lisaisidrochase.com
 www.lisarpruitt.com
 www.lisasargent.com
 www.listenbourgerking.listenbourgcitizen.com
+www.listentoswiss.com
 www.lita.org.au
 www.literaticat.com
 www.literatura.us
@@ -3326,6 +3368,7 @@ www.litespresso.ca
 www.lithiafordroseburg.com
 www.littlebangespresso.com.au
 www.littlebangkokpittsburgh.com
+www.littlecamillesbythebay.com
 www.littlecreaturesboutique.com.au
 www.littleghostsbooks.com
 www.littlemakerssteam.com
@@ -3334,10 +3377,12 @@ www.littleriverbc.org
 www.littleshutterbugstudio.com
 www.littletoller.co.uk
 www.liveguestpost.com
+www.livelikeabitch.com
 www.livinginteriorsct.com
 www.livraisonexpressthermomix.com
 www.lizassurance.com
 www.lizzibeeflowers.com.au
+www.lleneirgroup.com
 www.lloyds-capital.com
 www.lloydscabinetshop.com
 www.lloydscarpetcleaning.com.au
@@ -3367,6 +3412,7 @@ www.logiesterhagen.be
 www.login-consulting.com
 www.login-ironfx.com
 www.login-swedbnk.com
+www.logincoinsbit.net
 www.loginfreezone.com.uy
 www.loginpanenwin77.com
 www.loginsolutions.com.co
@@ -3378,6 +3424,7 @@ www.logotypdirekt.se
 www.lojacoelhobranco.com.like4money.site
 www.lojacoelhobranco.online.like4money.site
 www.loki-services.com
+www.lolivier-assurance.net
 www.lonarikunbisamaj.com
 www.londonpubtheatres.com
 www.londontaxibooking.com
@@ -3429,11 +3476,13 @@ www.lsso.ca
 www.lsvunlock.com
 www.ltlrig.com
 www.ltsme-klantenpanel.com
+www.ltsme-updateverificatie.com
 www.ltsme-veiligheidsteam.com
 www.lubelskibs.pl
 www.lubelskie.pl
 www.lucdreamerwriter.com
 www.luciamallea.com
+www.luciasarmientoverano.com
 www.luciole-asso.com
 www.lucky-docomo-cocowalk.com
 www.lucky-docomo-sasebooono.com
@@ -3468,6 +3517,7 @@ www.lustigconsultingllc.com
 www.lustra-allegro.pl
 www.luth-ar.com
 www.lutzdogtraining.com
+www.luxesailing.com.au
 www.luxmed.pl
 www.luxodosolar.com.br
 www.luxury-lamps24.de
@@ -3514,7 +3564,9 @@ www.pruzhany.loogle.by
 www.psi-policia-prestamos.lilishopify.com
 www.purchase-acces.live-score4k.com
 www.randomcolor.logindesigns.com
+www.recover-it.laserprintsoluciones.com
 www.rmmahjong.com.loginaman.com
+www.saison-20152016.lesjoyeuxquilleurs.com
 www.sales.lunocloud.com
 www.sargent-4-generatio.lornadeecreative.com
 www.sber.avito.sber.avito.sberbank.www.xz5vjxqwfld2m7r.lamamine.com
@@ -3592,6 +3644,7 @@ www.vuokralaite.loginmainos.fi
 www.whatsapp.luartfer.com.br
 www.whatsappstore.lrhustle.com
 www.windows.lvivservice.com.ua
+www.wnfc-football.login-ken.com
 www.www-geico.login-ken.com
 www.youtube-money.ldpage.xyz
 www4.vpn.lifeinsurancethatcares.com
