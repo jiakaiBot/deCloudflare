@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,052 |
+| com | 6,053 |
 | social | 3,883 |
 | net | 3,090 |
-| org | 2,131 |
+| org | 2,132 |
 | de | 2,026 |
 
 
@@ -10455,6 +10455,7 @@ Here's a list of public Fediverse services.
 | `evu-group.de` | Yes |
 | `evvk.fi` | No |
 | `ewaf.club` | No |
+| `ewatchers.org` | No |
 | `ewb.io` | Yes |
 | `ewcmi.org` | No |
 | `eweg.be` | No |
@@ -15583,6 +15584,7 @@ Here's a list of public Fediverse services.
 | `illum.dev` | Yes |
 | `illuminada.io` | No |
 | `illuminati.org` | No |
+| `illuneko.com` | Yes |
 | `illusionfxnet.com` | Yes |
 | `illusory.ink` | No |
 | `illuster.org` | No |
@@ -24219,7 +24221,7 @@ Here's a list of public Fediverse services.
 | `nekojimi.moe` | No |
 | `nekojita.moe` | No |
 | `nekokawa.net` | Yes |
-| `nekol.cc` | No |
+| `nekol.cc` | Yes |
 | `nekomimi.jp` | No |
 | `nekomimi.yokohama` | Yes |
 | `nekomin.jp` | Yes |
@@ -34923,6 +34925,7 @@ Here's a list of public Fediverse services.
 | `thefreaks.online` | No |
 | `thefreecollective.net` | No |
 | `thefreestate.xyz` | No |
+| `thefrickinfrogs.gay` | No |
 | `thefrugalgamer.net` | No |
 | `thefurrytiger.net` | Yes |
 | `thefutureoftext.org` | No |
@@ -40222,8 +40225,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,965 |
-| Normal | 30,214 |
+| Cloudflare | 9,967 |
+| Normal | 30,215 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
