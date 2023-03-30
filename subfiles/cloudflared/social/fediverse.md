@@ -32553,6 +32553,7 @@ Here's a list of public Fediverse services.
 | `softwaremill.social` | No |
 | `softwerk2.de` | No |
 | `softwhere.ca` | No |
+| `sogga.top` | No |
 | `sogipe.fr` | No |
 | `sognensnekkerhaugen.xyz` | Yes |
 | `sohan-tricoire.fr` | No |
@@ -40228,7 +40229,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,968 |
-| Normal | 30,216 |
+| Normal | 30,217 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
