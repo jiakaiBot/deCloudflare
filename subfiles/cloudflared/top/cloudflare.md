@@ -20,7 +20,7 @@ Here's the result.
 | Normal | 592,268 |
 
 
-# 40.80%
+# 40.78%
 ### of top most popular domains are using Cloudflare.
 
 ----
