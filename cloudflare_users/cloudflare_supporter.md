@@ -6351,6 +6351,7 @@ Do not create new issue or we will close it as duplicate.
 | [LRSNLP@twitter](https://twitter.com/LRSNLP/status/1447211176006459399) | advertise |
 | [LShaba98@twitter](https://twitter.com/LShaba98/status/1483212185480445954) | advertise |
 | [LSn15256186@twitter](https://twitter.com/LSn15256186/status/1553368082319839238) | advertise |
+| [LThiBnh48926430@twitter](https://twitter.com/LThiBnh48926430/status/1641564819500453890) | advertise |
 | [LThinn1212@twitter](https://twitter.com/LThinn1212/status/1386337771938222084) | advertise |
 | [lthphngtrm5@twitter](https://twitter.com/lthphngtrm5/status/1394172756917293058) | advertise |
 | [ltinhu4@twitter](https://twitter.com/ltinhu4/status/1563803476294938624) | advertise |
