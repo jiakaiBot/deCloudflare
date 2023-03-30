@@ -1409,6 +1409,8 @@ analisakebohongan.oktastika.com
 apbacuq.ozwvd.com
 api-dev.odpx.nl
 api-feed-update-retrieval-service-8a5b7ea9032d464e.onporter.run
+api-threatintel.eu-frankfurt-1.oci.oraclecloud.com
+api-threatintel.us-ashburn-1.oci.oraclecloud.com
 api.auchan.osp.tech
 api.cf.eu12.hana.ondemand.com
 api.gca.amazon.stg.aws.ofx.com
@@ -1422,12 +1424,14 @@ apigeopagos.openpay.co
 app.ovivo.dk
 applepay.otp-alerts.com
 approuter-product-list-kelly.cfapps.eu10.hana.ondemand.com
+atos-dev1.outsystemsenterprise.com
 auth-ticketdemat.prod.cloud.onoslo.fr
 auth.omega-caci.com
 auth.osloskoleutv.no
 author17.onlinedigitalprojects.com
 autodiscover.oyagtv.site
 avito.avito.avito.avito.avito.www.covid19.oxygensystem.info
+avito.avito.avito.sber.sberbank.covid19.oakhillsales.com
 avito.avito.avito.sberbank.covid19.omveterinary.com
 avito.avito.sber.avito.avito.sberbank.covid19.oxygensystem.info
 avito.avito.sber.avito.www.covid19.oxygensystem.info
@@ -1436,6 +1440,7 @@ avito.sber.avito.sber.avito.covid19.oxygensystem.info
 avito.sber.avito.sber.blablacar.git.covid19.ooo-medexpress.ru
 avito.sber.avito.sberbank.a.avito.www.covid19.omveterinary.com
 avito.sber.avito.www.sberbank.www.covid19.oxygensystem.info
+avito.sber.sber.sber.git.git.covid19.ooo-medexpress.ru
 avito.sber.sber.sberbank.avito.www.covid19.oakhillsales.com
 aviva.orchestrasystem.com
 aws-wft.otapimpress.nl
@@ -1465,11 +1470,13 @@ client.oclicko.fr
 clients.office-ia.fr
 cod-oic-axwodgdluk1g-ia.integration.ocp.oraclecloud.com
 community.openlinksw.com
+console.mx-queretaro-1.oraclecloud.com
 coti-testnet.obiobi.at
 covid19-vaccine-driv.onegoodturn.org
 covid19.ortec-group.com
 covid19globalsummit.pages.ontraport.net
 coyote-jump.overtwitch.com
+cpanel-login.orychard.com
 cpcalendars.cherypretoria-demo.oraclegroup.co.za
 cpcalendars.omnitron.com.hk
 cpcontacts.olympicgutter.com
@@ -1482,6 +1489,7 @@ crowdin.onfastspring.com
 crypto.orglinkedin.com
 cybersmartbyrendtech.ontralink.com
 daera-dev.outsystemsenterprise.com
+de.oktave-karlsruhe.com
 deduplication-service-889d1b6ff1e55879.onporter.run
 delivery2.ozosoft.store
 demo.oktatas.eu
@@ -1510,6 +1518,7 @@ en.oktasim.com
 en.oliversdelivery.com
 en.oltadeniz.com
 epmslive.opat.ie
+eventregdemo.outlookdev.co.uk
 fa-erbt-saasfaprod1.fa.ocs.oraclecloud.com
 fa-eyfy-test-saasfapreprod1.fa.ocs.oc-test.com
 features.opera-api2.com
@@ -1534,6 +1543,7 @@ greenfielddirttrack.osam-dev.co.uk
 gtm-wmartins.onesourcelogin.com
 gtmqa-borgwarner.onesourcelogin.com
 gw.ozeye.net
+harbour.openseamap.org
 healthchecks.eu-paris-1.oraclecloud.com
 helpdesk.obvs.solutions
 helpdesk.ologie.com
@@ -1546,11 +1556,13 @@ iaas.us-phoenix-1.oraclecloud.com
 icsupus.ugbu.oraclepdemos.com
 idp.e-access.oidc-elogin.tools
 idp.otago.ac.nz
+ihsgetreadyv1.outlookdev.co.uk
 ihsgetreadyv2.outlookdev.co.uk
 imagenet.outlookcms.co.uk
 info.one-publishing.co.jp
 inside.onepeterson.com
 integration-dev-06tmlg12.it-cpi009-rt.cfapps.us20.hana.ondemand.com
+intranet.outlookdev.co.uk
 invoice.onartech.gr
 iotdemo00131.cna.phx.demoservices005.iot.oraclepdemos.com
 it-cpi008.cfapps.br10.hana.ondemand.com
@@ -1609,6 +1621,7 @@ o-c.com.au
 o-cj.website
 o.optalio.de
 oablages.org.br
+oae-skin.com
 oakhillbrands.us
 oasisofhope.church
 oauthxfinity.com
@@ -1660,6 +1673,7 @@ ofao.org
 ofertandodesconto.com
 oferyapi.com.tr
 offerdayforyou.online
+offerwinner.net
 offescalator.com
 offical-conta-simples.ml
 office-online.cf
@@ -1684,6 +1698,7 @@ oguri7.com
 oh-fifth-third.info
 ohare-taxiservice.com
 ohi-survey.com
+ohio-creditrepair.com
 ohjaussilta.fi
 ohtctjiuow.com
 ohthreebrothers.com
@@ -1734,6 +1749,7 @@ oliverfurniture-professionals.com
 olligesso.com.br
 olmezleryapi.com
 olrb.in
+olsmanlaw.com
 omaincontrol.com
 omakase-japan.co.jp
 oman-services.com
@@ -1767,6 +1783,7 @@ onepatient.wiki
 onepay.onemotoring.com.sg
 onepearlbank.info
 oneseo.in
+oneseventhree.com
 onesitepro.com
 onesixtytwocapital.com
 onesource.com
@@ -1864,6 +1881,7 @@ orgasmsoundlibrary.com
 orgonebay.com
 orgues-paroisse-castres.org
 orianna.shop
+oriencoop.info
 orient1.de
 oriental.com.uy
 origina.com.my
@@ -1913,6 +1931,7 @@ ourplacekitchenandbarpeabody.com
 ourteespoint.shop
 ouspan.com
 outgrinuntold.com
+outhedoors.com
 outlook.outlookcms.co.uk
 outlookag.com.au
 outlookexpeditions.com
@@ -1966,6 +1985,7 @@ precisionvolumealerts.pages.ontraport.net
 preprod.www.filtres-spa.com.esu-01.ovea.com
 prodapi.ordr.exchange
 pros-gn.orange-money.com
+proxy-prod1.oncare.net
 purehealth.ontralink.com
 qa.api.online-medicare-plans.com
 qa.optifleet-evol.net
@@ -2011,6 +2031,7 @@ servicebus-t.overijssel.nl
 servicedesk.oneteam.info
 sessionscloud2.opticvideo.com
 shopify.outdrly.com
+shrikantm.onlinegoogleadscourse.com
 signapdf-service-2870d16edb31e2a0.onporter.run
 signin.openid-pape-amazon.openid-sec.me
 sm.sandbox.datafox.us-phoenix-1.ocs.oraclecloud.com
@@ -2035,8 +2056,10 @@ studentverification.oivetindia.com
 suivitp.open-s.fr
 support-tool-iamtoozer-11076.rm.gcp.onsdigital.uk
 support.othermo.de
+tabarakamarat.oktaiotech.com
 tanirosso.one-plate.net
 tantodomani.owst.jp
+tds.outlookdev.co.uk
 telemetry.ottobo.app
 test-oic-sdnbnwjpl57m-sy.integration.ocp.oraclecloud.com
 test-theme-upload-posts.omivas.com
@@ -2046,6 +2069,7 @@ teszt.ipwest.officecontrol.hu
 thales1-livelab.prod.ondemandconnectivity.com
 tickets.oldtimerfestivaluithuizen.nl
 tickets.oztix.com.au
+tir.oktatohazszki.hu
 titustap.optrust.com
 top10microsoftgames.onesoavest.com
 toptrumps.outlookdev.co.uk
@@ -2057,6 +2081,7 @@ uatybaepsapi.oasyspay.in
 ugoicmidev-axcsjpwmhyzr-gr.integration.ocp.oraclecloud.com
 uk.oktopay.eu
 uniarts.oncloudos.com
+usageapi.ap-tokyo-1.oci.oraclecloud.com
 user-group-management.364.crosscutting.aws.onsdigital.uk
 vendorfinancing.avw.staging.aws.op-palvelut.net
 vpn.oldsanteecanalpark.com
@@ -2080,6 +2105,7 @@ www.amazonia.tn.oxahost-support.tn
 www.analisakebohongan.oktastika.com
 www.ap-bookings.outsourcingit.asia
 www.author17.onlinedigitalprojects.com
+www.banntag-schlos-53.oktavaesumpfer.com
 www.beforeupdate.ormskirkskipsltd.co.uk
 www.best.oxahost-support.tn
 www.billing.oxmobility.com
@@ -2088,10 +2114,13 @@ www.blockchain.onceti.com
 www.bluntsafety.ocular-witness.com
 www.booking.outnet.com.mt
 www.chase-aug2016.onefacephotography.com
+www.cherusgelti-99.oktavaesumpfer.com
+www.chrischtchindl-3.oktavaesumpfer.com
 www.citi.ozart.com.tr
 www.commercialbank.onlinebii.com
 www.contabilidade.organizece.com.br
 www.covid19-vaccine-driv.onegoodturn.org
+www.cpanel-login.orychard.com
 www.credit.onlinedigitalprojects.com
 www.crypto.orglinkedin.com
 www.customer.omnipos.co
@@ -2109,6 +2138,7 @@ www.feedback.oxilonburners.com
 www.fernbertemes.org.mab-dap.on-rev.com
 www.framework7.outlookdev.co.uk
 www.free-money.oursportscentral4k.com
+www.generalversamm-34.oktavaesumpfer.com
 www.git.git.git.git.git.delivery.okarachi.net
 www.globaltrustcannabisdelivery.com.onlinelegalmedshop.com
 www.gmailcorreoelectronico.origamipasoapaso.net
@@ -2118,11 +2148,13 @@ www.greenfielddirttrack.osam-dev.co.uk
 www.gustinoid.onepresso.net
 www.homesteadcarpetsinc.olivermarketinggroup.net
 www.imagenet.outlookcms.co.uk
+www.invoice.optimized.mk
 www.iroomservice.oneclick.id
 www.ispad.outlookcms.co.uk
 www.it-nova.okgoogle.co
 www.ivo.oktagonn.com
 www.iwp.outlookcms.co.uk
+www.jubilum-19-12j-74.oktavaesumpfer.com
 www.landing.orbitoutlook.com
 www.linkedin.osabuena.com
 www.local.onbooking.ca
@@ -2185,6 +2217,8 @@ www.office365ofbuffalo.com
 www.office365schoolcampaign.com
 www.officeconta.ro
 www.officefurniturestore.co.za
+www.official-payment.com
+www.offmarketottawa.com
 www.offregister.press
 www.ofgoodgrapes-apples.com
 www.oficinadeagrimensura.pr.gov
@@ -2214,6 +2248,7 @@ www.oktarekanandainstrument.co.id
 www.oktasim.com
 www.oktatasi-kozpont.hu
 www.oktatozone.hu
+www.oktave-karlsruhe.com
 www.oktaveforyou.com
 www.oktavina.my.id
 www.oktayiyisarac.com
@@ -2267,9 +2302,11 @@ www.oneiroxora.com
 www.onelifeonetreeusa.com
 www.onelogininc.com
 www.onemarketinggroup.ca
+www.onenaturecommonwealth.org
 www.onepercentnft.com
 www.oneskysafety.com
 www.onesourceaudit.com
+www.onestandard.dk
 www.onetrustfinance.com
 www.oneveterandesigns.com
 www.online-english-by-skype.com
@@ -2388,6 +2425,7 @@ www.outoftheboxproductions.ca
 www.outrightbizsolutions.com.ph
 www.ov8espeakers.nl
 www.ove.com.sg
+www.overstandard.dk
 www.overstock.ca
 www.overstockdesigners.com
 www.overstocker.com
@@ -2418,6 +2456,7 @@ www.phoenixsurfacing.outlookcms.co.uk
 www.pmuser-sovaacademy.in.okkg24.com
 www.reddit.onstream4k.com
 www.saf9a.oxahost-support.tn
+www.shooting-2-15.oktavaesumpfer.com
 www.shopify.oakhillsales.com
 www.shoponline.offersdeliver.com
 www.si-tangguh.oktan.id
@@ -2437,7 +2476,9 @@ www.thetembusugrand.onepearlsbank.com.sg
 www.ticket.orientacionvocacionalucb.com
 www.ticket.oyaguy.live
 www.ticketschedule.officiallevents.com
+www.tir.oktatohazszki.hu
 www.top10microsoftgames.onesoavest.com
+www.umzugbreitenbach-1.oktavaesumpfer.com
 www.wagen.com.vn.okmoney.com.vn
 www.wallet.oneaccessfin.co.za
 www.wallet.origokey.com
@@ -2445,6 +2486,7 @@ www.whatsapp.orlant.sg
 www.whatsapp.ovallfiber.online
 www.yourownhappiness.offersdeliver.com
 www.zakelijk.organiseersupport.nl
+www.ziched-endingen.oktavaesumpfer.com
 y1111-iflmap.hcisbp.eu1.hana.ondemand.com
 yourownhappiness.offersdeliver.com
 yyoy4hzciqponrwtoscogdezfe0wevwa.lambda-url.eu-west-1.on.aws
