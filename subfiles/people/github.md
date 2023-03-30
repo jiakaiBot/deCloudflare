@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Validation and compression failed if added to the browser using a script tag](https://github.com/evrythng/digital-link.js/issues/25)
+- [Cloudflare seems to be blocking .ts files](https://github.com/rsms/scripter/issues/20)
 - [Grafana failed to load its application files with Apache reverse proxy](https://github.com/grafana/grafana/issues/65642)
 - [Toonily.com chapter no longer loading](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/15889)
 - [Connection not stable after latest update.](https://github.com/w35l3y/hassio-addons/issues/22)
