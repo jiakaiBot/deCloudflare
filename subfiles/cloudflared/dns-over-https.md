@@ -359,7 +359,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sbdns.co.in | No |
 | seby.io | Yes |
 | sellan.fr | No |
-| shalenkov.dev | No |
+| shalenkov.dev | Yes |
 | shecan.ir | No |
 | shimul.me | Yes |
 | shuting.idv.tw | Yes |
@@ -436,8 +436,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 191 |
-| Normal | 226 |
+| Cloudflare | 192 |
+| Normal | 225 |
 
 
-### 45.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46% of DNS-over-HTTPS (DoH) are using Cloudflare.
