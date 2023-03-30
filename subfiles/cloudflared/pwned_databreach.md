@@ -225,7 +225,7 @@ Here's a list of breached sites.
 | FlexBooker | 3,756,794 | No |
 | Fling | 40,767,652 | No |
 | Foodora | 582,578 | Yes |
-| Forbes | 1,057,819 | Yes |
+| Forbes | 1,057,819 | No |
 | ForumCommunity | 776,648 | No |
 | Fotolog | 16,717,854 | Yes |
 | FoxyBingo (Foxy Bingo) | 252,216 | Yes |
@@ -658,10 +658,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 347 | 3,847,688,511 |
-| Normal | 290 | 4,962,772,762 |
+| Cloudflare | 346 | 3,846,630,692 |
+| Normal | 291 | 4,963,830,581 |
 
 
 
-### 54.5% of breached sites (pwned sites) are using Cloudflare.
+### 54.3% of breached sites (pwned sites) are using Cloudflare.
 ### 43.7% of leaked accounts are on Cloudflare sites.
