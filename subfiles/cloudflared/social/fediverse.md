@@ -27098,6 +27098,7 @@ Here's a list of public Fediverse services.
 | `pescada.pt` | No |
 | `peshane.net` | No |
 | `pesso.al` | No |
+| `pet.tax` | No |
 | `pet123.club` | No |
 | `petapixel.com` | Yes |
 | `petch.rocks` | No |
@@ -40207,7 +40208,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,959 |
-| Normal | 30,204 |
+| Normal | 30,205 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
