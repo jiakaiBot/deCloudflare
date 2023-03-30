@@ -422,10 +422,12 @@ auth.dev-test123.younium.net
 auth.vpn.yoro.dev
 auth.youtubethumbs.pics
 autodiscover.yefplastik.com
+avito.sber.avito.sber.sber.git.covid19.youhollywood.com
 avito.sber.sber.avito.avito.avito.covid19.youhollywood.com
 b91.yahoo.co.jp
 b95.yahoo.co.jp
 backoffice.yape.com.pe
+bancobaieuropa.yourcode-staging.com
 bba-ca.yourdomain.com
 blog.yannakas.me
 blog.yourdesignjuice.com
@@ -494,8 +496,12 @@ rikon-shitai.yoasobi-erobloger.com
 s.yimg.jp
 s.youtube.com
 sba.yandex.net
+sber.sberbank.avito.avito.blablacar.covid19.youhollywood.com
+sberbank.sber.avito.avito.git.git.covid19.youhollywood.com
 sberbank.sber.avito.sber.avito.sber.covid19.youhollywood.com
 sberbank.sber.sber.sber.avito.covid19.youhollywood.com
+sberbank.sberbank.git.git.covid19.youhollywood.com
+sberbank.www.sber.avito.sber.blablacar.covid19.youhollywood.com
 service08-stage.yalar.se
 services.yuntrack.com
 sjsu.yahoodrummers.com
@@ -550,6 +556,7 @@ www.receitasrapidas.youtuber.pt
 www.site.yahoosoundproofing.com
 www.support.yoshope.com
 www.symphonyofsteam.yilong.com.au
+www.wuber.yourwuber.com
 www.y4pamtrk.com
 www.yabfestival.com
 www.yachtservice-laboe.de
@@ -570,6 +577,7 @@ www.yapiportinsaat.com
 www.yapisalmimarlik.com
 www.yapixweb.com
 www.yapiyom.com
+www.yardieflexdelivery.com
 www.yasminkhudari.com
 www.yazarlaryapi.com.tr
 www.yefyapi.com.tr
@@ -686,6 +694,7 @@ youijzz.com
 youinspire.me.uk
 younghaejo.com
 youngpun.com
+youngrape.com
 yourbestone.com
 yourbox-location.fr
 yourcovidshot.com
