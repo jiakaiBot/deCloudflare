@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,054 |
+| com | 6,055 |
 | social | 3,883 |
-| net | 3,090 |
+| net | 3,091 |
 | org | 2,132 |
 | de | 2,026 |
 
@@ -4981,6 +4981,7 @@ Here's a list of public Fediverse services.
 | `c18l.com` | Yes |
 | `c1t0d0.ch` | No |
 | `c2bdon.net` | No |
+| `c30.life` | No |
 | `c3d2.de` | No |
 | `c3d2.social` | No |
 | `c3l.ai` | No |
@@ -9085,6 +9086,7 @@ Here's a list of public Fediverse services.
 | `drak.al` | Yes |
 | `drakakorp.eu` | No |
 | `drake.network` | No |
+| `drakfrid.com` | No |
 | `drakkar.social` | No |
 | `draky.net` | No |
 | `dram.group` | No |
@@ -11163,6 +11165,7 @@ Here's a list of public Fediverse services.
 | `femboy.rent` | Yes |
 | `femboy.world` | Yes |
 | `femboyfor.sale` | No |
+| `femboyfurry.net` | Yes |
 | `femby.club` | No |
 | `feminine.social` | Yes |
 | `feminism.lgbt` | No |
@@ -24265,6 +24268,7 @@ Here's a list of public Fediverse services.
 | `nemotodon.tk` | No |
 | `nemsia.org` | No |
 | `nemu.us` | Yes |
+| `nemudaru.uk` | Yes |
 | `nemuneko.me` | No |
 | `nemushee.net` | Yes |
 | `nenmyx.dev` | No |
@@ -40228,8 +40232,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,968 |
-| Normal | 30,217 |
+| Cloudflare | 9,970 |
+| Normal | 30,219 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
