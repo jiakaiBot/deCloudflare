@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,055 |
 | social | 3,883 |
 | net | 3,091 |
-| org | 2,132 |
+| org | 2,133 |
 | de | 2,026 |
 
 
@@ -14513,6 +14513,7 @@ Here's a list of public Fediverse services.
 | `herbstschild.de` | No |
 | `herd.works` | Yes |
 | `herds.eu` | No |
+| `herdwise.io` | No |
 | `here.blue` | No |
 | `here.dk` | Yes |
 | `here.in.ua` | No |
@@ -34329,6 +34330,7 @@ Here's a list of public Fediverse services.
 | `tauri.earth` | Yes |
 | `taurix.net` | No |
 | `taurus-web.de` | No |
+| `tausibs.org` | No |
 | `tausys.de` | No |
 | `tautolog.org` | No |
 | `tavda.info` | Yes |
@@ -35662,6 +35664,7 @@ Here's a list of public Fediverse services.
 | `tomasek.mobi` | Yes |
 | `tomasfarias.dev` | Yes |
 | `tomasino.org` | No |
+| `tomaszd.eu` | No |
 | `tomaszdunia.pl` | Yes |
 | `tomat0.me` | No |
 | `tomatoa.club` | No |
@@ -40233,7 +40236,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,970 |
-| Normal | 30,219 |
+| Normal | 30,222 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
