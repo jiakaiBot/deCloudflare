@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Grafana failed to load its application files with Apache reverse proxy](https://github.com/grafana/grafana/issues/65642)
 - [Toonily.com chapter no longer loading](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/15889)
 - [Connection not stable after latest update.](https://github.com/w35l3y/hassio-addons/issues/22)
 - [502 errors are not handled correctly](https://github.com/nutshell-lab/meilisearch-ex/issues/1)
