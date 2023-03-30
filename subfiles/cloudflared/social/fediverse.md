@@ -35865,7 +35865,7 @@ Here's a list of public Fediverse services.
 | `tooting.social` | No |
 | `tootist.net` | No |
 | `tootl.org` | No |
-| `tootles.space` | No |
+| `tootles.space` | Yes |
 | `tootmate.com` | No |
 | `tootme.de` | No |
 | `tootme.ru` | No |
@@ -36642,6 +36642,7 @@ Here's a list of public Fediverse services.
 | `tylinux.com` | Yes |
 | `tylko.fans` | Yes |
 | `tylxr.com` | Yes |
+| `tymch.uk` | No |
 | `tymoon.eu` | Yes |
 | `tymscar.com` | Yes |
 | `tyngsboroughma.net` | Yes |
@@ -40225,7 +40226,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,967 |
+| Cloudflare | 9,968 |
 | Normal | 30,215 |
 
 
