@@ -405,6 +405,7 @@ arnon.zapgoogle.co.il
 auth.zenginehq.com
 authn1.dev.zpath.net
 autodiscover.zuckerbergisafraud.com
+avito.avito.avito.avito.avito.sberbank.covid19.zdorovadytyna.com
 avito.avito.avito.sberbank.git.www.covid19.zalive-akvilon.ru
 avito.avito.sber.blablacar.git.covid19.zalive-akvilon.ru
 avito.avito.sber.sber.avito.blablacar.covid19.zlclubmarket.com
@@ -414,10 +415,12 @@ avito.avito.sberbank.avito.avito.gitlab.covid19.zlclubmarket.com
 avito.sber.avito.sber.gitlab.git.covid19.zlclubmarket.com
 avito.sber.avito.sberbank.avito.avito.covid19.zlclubmarket.com
 avito.sber.sber.blablacar.avito.git.covid19.zalive-akvilon.ru
+avito.sber.sberbank.sber.gitlab.www.covid19.zalive-akvilon.ru
 avito.sberbank.blablacar.avito.covid19.zapusk-million.ru
 avito.sberbank.sber.avito.avito.covid19.zapusk-million.ru
 avito.sberbank.sber.avito.git.covid19.zalive-akvilon.ru
 avito.www.sberbank.sber.blablacar.covid19.zlclubmarket.com
+azb.zbkb.nl
 backoffice.zemanhomes.com
 backofthehouse.com.hmail.zulutradefx.com
 bgw.zitec.de
@@ -448,6 +451,7 @@ gearomatic.zapgoogle.co.il
 git.git.backofthehouse.com.hmail.zulutradefx.com
 git.git.git.vmail.zalishchyker.de
 gitlab.gitlab.www.covid19.zalive-akvilon.ru
+gps.zig-app.com
 hcaptchatext.k8services.zenno.io
 humint.zapgoogle.co.il
 inbalcaspigaon1.zapgoogle.co.il
@@ -459,6 +463,7 @@ javelin.zsservices.com
 jobs.zenploy.io
 keepass.zwabber.nl
 kerur-rahamim.zapages.co.il
+login.midco.zinier.net
 login.zeezil.co.uk
 logistics-ps-match.logistics-test.zalan.do
 mail.zimm.at
@@ -492,6 +497,7 @@ s.zkcdn.net
 sa1-csgo.zebedee.studio
 safetyandhealth4u.zapages.co.il
 safeway.zenobouw.nl
+sber.avito.avito.avito.avito.sberbank.covid19.zdorovadytyna.com
 sber.avito.avito.sber.avito.avito.covid19.zapusk-million.ru
 sber.avito.avito.sber.gitlab.git.covid19.zlclubmarket.com
 sber.avito.avito.sberbank.git.www.covid19.zalive-akvilon.ru
@@ -502,7 +508,9 @@ sber.avito.sber.www.sberbank.www.covid19.zepter-catalog.ru
 sber.avito.sberbank.avito.sber.www.covid19.zepter-catalog.ru
 sber.avito.sberbank.blablacar.avito.covid19.zapusk-million.ru
 sber.blablacar.avito.avito.sber.www.covid19.zapusk-million.ru
+sber.sber.avito.avito.avito.www.covid19.zdorovadytyna.com
 sber.sber.avito.avito.blablacar.avito.covid19.zlclubmarket.com
+sber.sber.avito.avito.sberbank.www.covid19.zdorovadytyna.com
 sber.sber.avito.sber.avito.avito.covid19.zapusk-million.ru
 sber.sber.avito.sber.sber.www.covid19.zepter-catalog.ru
 sber.sber.avito.sberbank.avito.avito.covid19.zlclubmarket.com
@@ -525,6 +533,7 @@ sberbank.avito.sber.gitlab.www.covid19.zalive-akvilon.ru
 sberbank.avito.sber.sber.blablacar.git.covid19.zalive-akvilon.ru
 sberbank.avito.sber.sber.git.www.covid19.zalive-akvilon.ru
 sberbank.avito.sberbank.www.covid19.zepter-catalog.ru
+sberbank.sber.avito.covid19.zdorovadytyna.com
 sberbank.sber.avito.sber.blablacar.covid19.zlclubmarket.com
 sberbank.sber.blablacar.avito.covid19.zapusk-million.ru
 sberbank.sber.gitlab.git.covid19.zalive-akvilon.ru
@@ -544,6 +553,7 @@ secure1.zipporah.co.uk
 sit-fpd-prints.zurich.co.uk
 sit-pe.zurich.co.uk
 sonarqube-npd.zuelligpharma.com
+stage-v2.zoetis.co.za
 sts.zollner.de
 studienwahl.zh.ch
 support.zedxsol.com
@@ -555,6 +565,7 @@ uat.zurichcommercial.co.uk
 uat.zytrust.com
 us3-csgo.zebedee.studio
 us4-csgo.zebedee.studio
+v2.zafariqbal.dk
 veterinarian.zapgoogle.co.il
 vpn.zachkline.us
 webline.etestb2b.zurich.co.uk
@@ -582,6 +593,7 @@ www.muliaservice.zeus-nore.com
 www.mutualclinic.zmplo.com
 www.newaminos.zahratalsaharadeliveryservice.com
 www.paypal-login.com.zmgconsulting.co.za
+www.pso2accounts.zomgboost.com
 www.recover-it.zhouyi.com.sg
 www.restore.zeniskin.ch
 www.soporteicloud-com.zw1.es
@@ -664,6 +676,7 @@ www.zorgtoeslag-geregeld.nl
 www.zrenergy.hu
 www.zsutherapy.com
 www.zvcleuvencentral.be
+www.zwischenzweiundvier.de
 www.zyncgroup.io
 z-l.by
 zacknzul.com
@@ -674,6 +687,7 @@ zalando.lt
 zalandozwrotkurierem.eu
 zamaco.com.vn
 zambiaminesafety.com
+zamzamwater-fakealert.com
 zannam.sk
 zapatillasparaskate.online
 zararoyalaccounting.ca
@@ -741,6 +755,7 @@ zoosextv.com
 zopdemo.com
 zorgictzorgen.nl
 zorioninfotech.online
+zoya.com.pl
 zozovideo.com
 zqura.com
 zsecurity.ro
