@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failed to import when given exports (in combination with alias and deps and target)](https://github.com/esm-dev/esm.sh/issues/575)
 - [APKMonk: 403 Forbidden](https://github.com/j-hc/revanced-magisk-module/issues/207)
 - [NGINX Reverse Proxy: disallowed MIME type & blocked due to MIME type](https://github.com/louislam/uptime-kuma/issues/3005)
 - [The links generated give a error in cloudflare](https://github.com/KasRoudra/MaxPhisher/issues/52)
