@@ -865,6 +865,7 @@ cpcontacts.jalanningproductions.com
 credit.j-payment.co.jp
 cuisine.journaldesfemmes.fr
 dc.jpdata.net
+de.jerkmate.com
 de.jesussky.gq
 demo.jbbros.com
 dev.outlook.jenbrial.com
@@ -936,6 +937,7 @@ jamrockpost.com
 jamtrading.jp
 janbosch.com
 jandjautoville.com
+janneseppanen.site
 janpoertner.de
 jap-xvideos.com
 japan-nekozekyousei.xyz
@@ -1001,6 +1003,7 @@ jenschristian.se
 jensendean.com
 jeparamebelindonesia.com
 jepes.app
+jeremymoser.dev
 jerkmate.com
 jesp.org
 jeta.co.id
@@ -1028,6 +1031,7 @@ jimmyacrepairservice.xyz
 jimwooley.com
 jinko-shiba.com
 jio.nz
+jiobharatmedia.com
 jioengage.com
 jiofashions.com
 jioffer.com
@@ -1037,6 +1041,7 @@ jiotv.xyz
 jist-web-service.jp
 jiwamudasekali.site
 jjp.li
+jk-konttoripalvelu.fi
 jk-net.ru
 jkcasaeconstrucao.com.br
 jkgunsandammo.com
@@ -1096,6 +1101,7 @@ jotadesigner.com
 joulebug.com
 jouniranta.com
 journalnow.com
+joyclub.fun
 jp-absale.com
 jpaylogin.org
 jpfocus.gr
@@ -1120,6 +1126,7 @@ jubileeauditorium.com
 jubileosuramericas.net
 judomingos.online
 juicy-kfc.top
+juistelektroservice.nl
 julianahealinghouse.net
 juliehogbin.com
 jullichglas.hu
@@ -1134,11 +1141,13 @@ juristeam.md
 just-services.co.za
 justapetra.com
 justccs.com
+justchoice.org
 justice-initiative.eu
 justinindustries.in
 justkiddingplaycafe.com
 justlasar.com
 justlikea.pro
+justsportlive.com
 justtherapyservicesllc.com
 justy-web.com
 juventudepopularacores.pt
@@ -1148,6 +1157,7 @@ jwspaceid.com
 kacho.jfm360kunder.dk
 kertemindecity.jfm360kunder.dk
 kitafv.janbergner.de
+kiyani-github-metrics-ci-b.tycho.joonix.net
 kiyani-github-metrics-ci.tycho.joonix.net
 library.johnsonelectric.com
 lyncaccess.areaone.jtekt.co.jp
@@ -1160,6 +1170,7 @@ p.www.outlook.jenbrial.com
 patient.staging.journl.dk
 payments.jimgaliano.com
 personnuodlibet.justdied.com
+pfsense.joed.rocks
 pihole.jeff-dom.ovh
 pro.stg.jawaz-essaha.com
 promo.jcrm.tw
@@ -1191,6 +1202,7 @@ smtp.japan-gabon.com
 smykker.jfm360kunder.dk
 ssk.jalandharlive.com
 sso-auth.gke.internal.svc.k8s.staging.juspay.net
+staggw.tnm.jatelindo.co.id
 static-asset.joindeleteme.com
 steam.jrtechs.net
 store.booking.jenbrial.com
@@ -1204,6 +1216,7 @@ test-ohkuraya.japan-property.jp
 test.javan.work
 testlernen.johanniter.de
 thinks.jamesbradbury.co.uk
+timetable.jr-odekake.net
 trofastpleje.jfm360kunder.dk
 us.managedaccess.jci.com
 user.132-new-autodelete-logic.cnt-testcenter.r.jost-devops.de
@@ -1217,9 +1230,11 @@ webdisk.backupdayo.japan-onlinestores.com
 webdisk.jawadalnaeem.ly
 webdisk.jukir.site
 webmail.admin.jobbank.mv
+webmail.jhconstructionservices.com
 whatsapp-staging.jala.tech
 whatsapp.jala.tech
 wiki.aspmx.l.google.com.japonica.ru
+ww16.jmchase.com
 www.airbnb-gb.julianmitchellphotography.co.uk
 www.android.jamestradinggroup.com
 www.animal-accounting-system.jw-prospect.com.tw
@@ -1324,6 +1339,7 @@ www.jazzcallpackage.pk
 www.jazzedmagazine.com
 www.jb-contadores.com
 www.jbctreeservice.com
+www.jbsupport.jbialaszewski.pl
 www.jbwfireandsecurity.co.uk
 www.jcgconsultinggroup.com
 www.jcrabhouse.com
@@ -1368,6 +1384,7 @@ www.jimdollinsteam.com
 www.jimfersecurity.co
 www.jimmeruk.com
 www.jiocinema.com
+www.jiofirstinsurance.com
 www.jiomart.com
 www.jizztlv.com
 www.jjgrapple.com
@@ -1454,6 +1471,7 @@ www.joylynnstanley.com
 www.joynerconsultinggroup.net
 www.joyrideshows.com
 www.jpaylogin.org
+www.jped-steam.com
 www.jpfieldservice.com
 www.jphmining.com
 www.jplandscapes.co.uk
@@ -1476,6 +1494,7 @@ www.jubasecurity.com
 www.jubileehallpdx.org
 www.juergenhuber.com
 www.jug-zueri.ch
+www.juistelektroservice.nl
 www.juliagab.com
 www.julianalemgruber.com
 www.juliensf.com
