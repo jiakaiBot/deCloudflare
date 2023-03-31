@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,062 |
+| com | 6,063 |
 | social | 3,885 |
 | net | 3,092 |
 | org | 2,133 |
@@ -7036,6 +7036,7 @@ Here's a list of public Fediverse services.
 | `cryobyte.net` | Yes |
 | `cryoem.social` | No |
 | `cryoit.com` | Yes |
+| `cryolog.in` | No |
 | `crypt.ee` | Yes |
 | `crypt.lol` | No |
 | `cryptic-command.net` | Yes |
@@ -16770,6 +16771,7 @@ Here's a list of public Fediverse services.
 | `jezra.net` | No |
 | `jferg.blog` | No |
 | `jfischer.org` | No |
+| `jfmadrid.com` | Yes |
 | `jfmb.fr` | No |
 | `jfmblinux.fr` | No |
 | `jfootball.co` | No |
@@ -40253,8 +40255,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,976 |
-| Normal | 30,234 |
+| Cloudflare | 9,977 |
+| Normal | 30,235 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
