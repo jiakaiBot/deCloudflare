@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,055 |
+| com | 6,056 |
 | social | 3,883 |
 | net | 3,091 |
 | org | 2,133 |
@@ -1475,6 +1475,7 @@ Here's a list of public Fediverse services.
 | `allthe.buzz` | Yes |
 | `allthefallen.ninja` | No |
 | `allthepages.org` | Yes |
+| `allthetacos.com` | No |
 | `allthings.club` | No |
 | `allthingscheltenham.social` | No |
 | `allthingstech.social` | Yes |
@@ -13090,7 +13091,7 @@ Here's a list of public Fediverse services.
 | `gionathandiani.name` | No |
 | `giorgiocomai.eu` | Yes |
 | `giot.es` | No |
-| `giov.dev` | No |
+| `giov.dev` | Yes |
 | `girak.moe` | Yes |
 | `girak.net` | No |
 | `giratina.net` | Yes |
@@ -14063,7 +14064,7 @@ Here's a list of public Fediverse services.
 | `halfeatenfood.com` | Yes |
 | `halfey.moe` | Yes |
 | `halfling13.com` | No |
-| `halfmemories.com` | Yes |
+| `halfmemories.com` | No |
 | `halfpastfour.club` | No |
 | `halfstreet.social` | No |
 | `halibut.com` | No |
@@ -18400,6 +18401,7 @@ Here's a list of public Fediverse services.
 | `krakatoa.bar` | No |
 | `krake.re` | No |
 | `krakow.social` | No |
+| `kraksocial.xyz` | Yes |
 | `krall.sh` | Yes |
 | `kramerc.social` | No |
 | `kramersson.com` | No |
@@ -38728,6 +38730,7 @@ Here's a list of public Fediverse services.
 | `wokyleeks.com` | No |
 | `wolf-359.org` | No |
 | `wolfballs.com` | No |
+| `wolfbunny.lgbt` | No |
 | `wolfcave.me` | No |
 | `wolfe.casa` | No |
 | `wolfe.cloud` | No |
@@ -40235,8 +40238,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,970 |
-| Normal | 30,222 |
+| Cloudflare | 9,971 |
+| Normal | 30,224 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
