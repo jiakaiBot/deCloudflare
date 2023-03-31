@@ -354,10 +354,12 @@ git.git.outlook.xn--80aaihbbsdp8ckgcbadc7gqhf.xn--p1ai
 github-migration.xero-support.com
 gitlab.git.git.alphabank0.xn----7sbahmgm3djr5j.xn--p1ai
 google.com39.xn--e1affn.xn--p1ai
+googleoptimointi.demo3.xetnet.com
 gpt-service.xai.co.jp
 investors.xostrucks.com
 itsupport.x-filme.de
 moneymentor.xaa.pl
+monitoring.mach.aws.x-tention.cloud
 n7invlink.xtime.com
 nms.xantion.nl
 oficynasztuki.xaa.pl
@@ -416,6 +418,7 @@ www.xn--halkbanaupplandsvsby-rzb.se
 www.xn--hufe-gebudeservice-stb.de
 www.xn--incesu-gebudeservice-kzb.com
 www.xn--innerdrrar-jcb.se
+www.xn--jmfrvpn-5wa8n.se
 www.xn--luottonetist-rcb.fi
 www.xn--mipequeomicos-okb.es
 www.xn--morsrengringsservice-ecce.dk
@@ -484,6 +487,7 @@ xn--halkbanamrsta-jfb.se
 xn--halkbanaupplandsvsby-rzb.se
 xn--hufe-gebudeservice-stb.de
 xn--jlq54w7ypemw.org
+xn--jmfrvpn-5wa8n.se
 xn--k-yi5f14dxxbvfn1at55d48d.com
 xn--khchsn379-11a3984f.vn
 xn--luottonetist-rcb.fi
@@ -500,6 +504,7 @@ xn--sinimentili-p8a.fi
 xn--soh.ga
 xn--sozialpdagogin-cib.at
 xoma.app
+xonghoiviet.com
 xox9226.com
 xpart3.store
 xplosivefitness.pe
