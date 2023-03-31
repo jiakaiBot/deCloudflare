@@ -1126,7 +1126,6 @@ vpntags.com
 vpnveil.com
 vpnvip.club
 vpnworks.org
-vpnxshadow.online
 vpopharco.com.vn
 vpos-api.versitechgh.com
 vr-game.pw
@@ -1452,6 +1451,7 @@ api.vessel.land
 api.vestochka.org
 api.vife.app
 api.virtusize.jp
+api.vtexcrm.com.br
 apigateway.volkswagenbank.es
 apitls.vexpenses.com
 app.vohlundmeyer.de
@@ -1472,9 +1472,11 @@ autodiscover.vulcano.systems
 autodiscover.vulcanwine.com
 automanazer.vodafone.cz
 avito.avito.avito.sberbank.www.avito.covid19.vossbryggeri.com
+avito.blablacar.covid19.view-manager.com
 avito.sber.avito.www.git.git.covid19.vesta-donors.com
 avito.sber.blablacar.avito.git.git.covid19.vesta-donors.com
 avito.sber.sber.sber.avito.avito.covid19.view-manager.com
+avito.sberbank.covid19.view-manager.com
 avito.www.sberbank.avito.sber.blablacar.covid19.vossbryggeri.com
 avito.www.sberbank.blablacar.blablacar.covid19.vossbryggeri.com
 axafrontint.vermeg.com
@@ -1740,8 +1742,10 @@ sber.avito.sber.avito.avito.sber.covid19.view-manager.com
 sber.avito.sber.avito.avito.sber.covid19.vr-cosmetology.ru
 sber.avito.sber.avito.blablacar.covid19.view-manager.com
 sber.avito.sber.blablacar.avito.avito.covid19.view-manager.com
+sber.avito.sberbank.covid19.view-manager.com
 sber.sber.aviavisberbank.m.covid19.vitorheinzen.com
 sber.sber.avito.sberbank.sber.sberbank.covid19.vossbryggeri.com
+sber.sber.covid19.view-manager.com
 sber.sber.sber.avito.avito.sberbank.covid19.vojvodinanet.com
 sber.sber.www.covid19.view-manager.com
 sber.sberbank.avito.avito.git.git.www.covid19.vermeeralaska.com
@@ -1758,6 +1762,7 @@ sberbank.avito.sber.avito.avito.m.covid19.vitorheinzen.com
 sberbank.avito.sber.avito.avito.www.covid19.vojvodinanet.com
 sberbank.avito.sber.avito.sber.covid19.vojvodinanet.com
 sberbank.avito.sber.blablacar.www.covid19.vossbryggeri.com
+sberbank.avito.sber.covid19.view-manager.com
 sberbank.sber.avito.avito.avito.avito.m.covid19.vitorheinzen.com
 sberbank.sber.avito.avito.sber.avito.covid19.vossbryggeri.com
 sberbank.sber.avito.avito.www.sber.covid19.vr-cosmetology.ru
@@ -1817,6 +1822,7 @@ us-cst.s-connector.vfims.com
 user01.vicentiunae.com
 user8.vadavo.eu
 v-academy.id
+v-acs.net
 v-appz.nl
 v-n-a.link
 v4dfinance.viseaconsulting.com
@@ -1869,6 +1875,7 @@ varietal-literature.ca
 varni.de
 vatrayapi.com
 vauxhallemail.co.uk
+vavada.com
 vaveylamodam.com
 vayados.com
 vaytienicloud.com
@@ -1888,6 +1895,7 @@ veganonboard.com
 veganunity.me
 vehg.net
 vehoniemenalamaja.fi
+vejatudo.fun
 velcroblog.com
 velehanden.nl
 velocidadenosangue.com
@@ -1948,6 +1956,7 @@ via.vmw.com
 viabucuresti.ro
 viacbs.ru
 viagemparaochile.com.br
+viajanteeconomic.fun
 vialsafe.co
 viaplay.com
 viaplay.dk
@@ -1983,6 +1992,7 @@ viergeverclan.nl
 viesti.fi
 viewfaslkf.top
 viewfnajf.top
+viewhub.show
 viewpointvancouver.ca
 viewsonicpartners.in
 vigarza.com
@@ -2041,6 +2051,7 @@ virgoshaka.online
 virtualassistantcafe.com
 virtualchaos.co.uk
 virtualconsultingplc.com
+virtualinsurance.in
 virtualmoveis.com.br
 virtualqxmedic3.com
 virtualservice.net.br
@@ -2081,6 +2092,7 @@ vittime-del-dovere.it
 vivabritannia.de
 vivacecollection.com
 vivasdesign.com
+vivasensacoes.fun
 vivatequis.com
 viveecosse.com
 vivefi.com
@@ -2099,6 +2111,7 @@ vlvdevcmg.venetianlasvegasdev.com
 vmail.vanbeersbrokx.nl
 vmc.adv.br
 vnrealestate.homes
+vocfm.org
 vochtinfo.be
 vod.vcmedios.tv
 vodabrd.com
@@ -2121,6 +2134,7 @@ volkswagen-strasbourg-nord.fr
 volkswagen-strasbourg-sud.fr
 volkswagenaksesuar.com.tr
 volkswagenanahtar.com
+volkswagenkl.com
 volkswagenmannucci.pe
 volkswagenusa.com
 voltafa.org
@@ -2153,6 +2167,7 @@ vpn-china.com
 vpn-forbindelse.dk
 vpn-test-11.trg.vvtdev.com
 vpn-test.com
+vpn-yhteydet.fi
 vpn.vcsc.com.vn
 vpn.vmo2digital.co.uk
 vpn88.site
@@ -2164,6 +2179,7 @@ vpnlat.ru
 vpnmzansi.co.za
 vpnparadiseusa.net
 vpnservicios.com
+vpntest.no
 vpntv.fi
 vpsventa.com
 vr-risikoneigung.de
@@ -2245,6 +2261,7 @@ www.billing.vedaantgifts.com
 www.billnetsecurity.co.uk.vinceleestudio.com
 www.booking-ui.v-code.co.uk
 www.booking.villafeliciana.com
+www.booking.vip-limo.lu
 www.bookings.venturetracker.net
 www.bookings.vivavelo.uk
 www.bsip.vpnsg.my.id
@@ -2276,6 +2293,7 @@ www.ferrdelivery.virtualtecserver.com
 www.flashnet.vpnsg.my.id
 www.gaharreview.com.vpngahar.com
 www.git.git.gitlab.gitlab.backoffice.vuoksapark.ru
+www.gmail.veecos.org
 www.google90f871058e007c09.vkapital.com
 www.helpdesk.voodoo-ray.co.uk
 www.hrm.vjconsultinggroup.com
@@ -2298,6 +2316,7 @@ www.palatonet.vpnsg.my.id
 www.pavlidou2.vpn.gr
 www.pharmamanufacture.vissveselibai.lv
 www.pranzo.vervegustoitaliano.it
+www.prototype.verasso.fr
 www.relampago-de-clientes.virio.digital
 www.saadsalsa.vpnsg.my.id
 www.saisonabschlussfeste.volley-ruswil.ch
@@ -2311,6 +2330,7 @@ www.stripe.vizzypop.com
 www.support.verdin.io
 www.support.vipenglish.asia
 www.surokkha-gov-bd.verify-onlinee.com
+www.surokkha.gov.bd.verify-oniline.com
 www.swisstraininghouse.vstm.info
 www.techcheap.vpnglobe.net
 www.tiara.vpnsg.my.id
@@ -2478,6 +2498,7 @@ www.vintagebrandsofswitzerland.com
 www.vintagefallcrawl.com
 www.vintekonto.com
 www.vinylworld.dk
+www.vip-credit.es
 www.vipacesso.com
 www.vipbooking.ch
 www.vipespresso.com.br
@@ -2543,6 +2564,7 @@ www.volumesblowout.com
 www.volunteerfortwayne.org
 www.volvocarsarrowhead.com
 www.volvocarsoklahomacity.com
+www.vorort-swiss.com
 www.vortexshippingservice.com
 www.vostotaalservice.nl
 www.votejoeyrusso.com
@@ -2557,6 +2579,7 @@ www.vpeeagles.org
 www.vpn-china.com
 www.vpn-forbindelse.dk
 www.vpn-test.com
+www.vpn-yhteydet.fi
 www.vpn4all.site
 www.vpnboon.com
 www.vpncandy.com
