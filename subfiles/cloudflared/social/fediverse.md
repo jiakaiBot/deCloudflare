@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,057 |
-| social | 3,883 |
-| net | 3,091 |
+| com | 6,060 |
+| social | 3,884 |
+| net | 3,092 |
 | org | 2,133 |
 | de | 2,026 |
 
@@ -723,6 +723,7 @@ Here's a list of public Fediverse services.
 | `abaft.co` | No |
 | `abakas.com` | No |
 | `abakdash.com` | No |
+| `abando.social` | No |
 | `abandonedsocialnetwork.com` | No |
 | `abaweb.online` | No |
 | `abaweb.social` | No |
@@ -12778,6 +12779,7 @@ Here's a list of public Fediverse services.
 | `gedankenteiler.blog` | No |
 | `gedenkarbeit.me` | No |
 | `geek-and-poke.com` | No |
+| `geek.co.il` | No |
 | `geek.gay` | No |
 | `geek.ms` | No |
 | `geekael.fr` | No |
@@ -13076,6 +13078,7 @@ Here's a list of public Fediverse services.
 | `gillich.me` | Yes |
 | `gillyb.net` | Yes |
 | `gimme-sympathy.org` | No |
+| `gimme5.club` | Yes |
 | `gimon.zone` | No |
 | `gimp.chat` | No |
 | `ginatic.social` | No |
@@ -17975,6 +17978,7 @@ Here's a list of public Fediverse services.
 | `kirche.social` | No |
 | `kirchner.social` | No |
 | `kirei.moe` | No |
+| `kireinayuri.com` | No |
 | `kirgroup.com` | No |
 | `kirgroup.net` | No |
 | `kirgus.net` | No |
@@ -18343,6 +18347,7 @@ Here's a list of public Fediverse services.
 | `kosen.land` | Yes |
 | `kosendon.tech` | No |
 | `koshka.io` | Yes |
+| `koskokompound.com` | No |
 | `kosmos.social` | No |
 | `kosmospora.de` | No |
 | `kosonya.social` | No |
@@ -18404,6 +18409,7 @@ Here's a list of public Fediverse services.
 | `krake.re` | No |
 | `krakow.social` | No |
 | `kraksocial.xyz` | Yes |
+| `kraktoos.com` | Yes |
 | `krall.sh` | Yes |
 | `kramerc.social` | No |
 | `kramersson.com` | No |
@@ -39289,6 +39295,7 @@ Here's a list of public Fediverse services.
 | `xnor.work` | No |
 | `xnu.kr` | No |
 | `xoddark.com` | No |
+| `xoddiel.net` | No |
 | `xol.app` | Yes |
 | `xoldie.com` | No |
 | `xoldie.xyz` | No |
@@ -40240,8 +40247,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,972 |
-| Normal | 30,225 |
+| Cloudflare | 9,974 |
+| Normal | 30,230 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
