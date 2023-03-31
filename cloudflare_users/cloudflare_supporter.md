@@ -2505,6 +2505,7 @@ Do not create new issue or we will close it as duplicate.
 | [Deden_Cot@twitter](https://twitter.com/Deden_Cot/status/1386114365657477120) | advertise |
 | [DediR92@twitter](https://twitter.com/DediR92/status/1603212787739607040) | advertise |
 | [DeeDee01433732@twitter](https://twitter.com/DeeDee01433732/status/1400972148387192833) | advertise |
+| [deedyirawan@twitter](https://twitter.com/deedyirawan/status/1641601603135496192) | advertise |
 | [DeeInte@twitter](https://twitter.com/DeeInte/status/1623341751028133888) | advertise |
 | [Deen15641467@twitter](https://twitter.com/Deen15641467/status/1552474002635255809) | advertise |
 | [DeenangL@twitter](https://twitter.com/DeenangL/status/1395737200336146436) | advertise |
@@ -3314,6 +3315,7 @@ Do not create new issue or we will close it as duplicate.
 | [friesdan@twitter](https://twitter.com/friesdan/status/1411038385263714304) | moral (advertise) |
 | [frisaq1@twitter](https://twitter.com/frisaq1/status/1488983176630390786) | advertise |
 | [frizzky@twitter](https://twitter.com/frizzky/status/1543612698075996160) | advertise |
+| [FrontRoyalCPU@twitter](https://twitter.com/FrontRoyalCPU/status/1641596337593491457) | advertise |
 | [frontware@twitter](https://twitter.com/frontware/status/1438345369256038400) | advertise |
 | [FrosTy916_@twitter](https://twitter.com/FrosTy916_/status/1552711703431118848) | advertise |
 | [frshzrnmln@twitter](https://twitter.com/frshzrnmln/status/1432737386945933319) | advertise |
@@ -6577,6 +6579,7 @@ Do not create new issue or we will close it as duplicate.
 | [Manauwa43390416@twitter](https://twitter.com/Manauwa43390416/status/1407583135592632321) | advertise |
 | [Manccity2020@twitter](https://twitter.com/Manccity2020/status/1595794881125179392) | advertise |
 | [MandalayThar10@twitter](https://twitter.com/MandalayThar10/status/1391637199444070402) | advertise |
+| [MandaLeigh555@twitter](https://twitter.com/MandaLeigh555/status/1641602411054911489) | advertise |
 | [mandiptimsina1@twitter](https://twitter.com/mandiptimsina1/status/1392722380678598656) | advertise |
 | [Maneesh40605685@twitter](https://twitter.com/Maneesh40605685/status/1497225757105397763) | advertise |
 | [mangtaweng@twitter](https://twitter.com/mangtaweng/status/1558889071854112768) | advertise |
@@ -10777,6 +10780,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thanh1452000@twitter](https://twitter.com/Thanh1452000/status/1594505048041877504) | advertise |
 | [Thanh13871310@twitter](https://twitter.com/Thanh13871310/status/1552938610940608512) | advertise |
 | [thanh39809562@twitter](https://twitter.com/thanh39809562/status/1468202163919003654) | advertise |
+| [thanh58319585@twitter](https://twitter.com/thanh58319585/status/1641605938321973248) | advertise |
 | [Thanh64229758@twitter](https://twitter.com/Thanh64229758/status/1602862030389907456) | advertise |
 | [thanh68833332@twitter](https://twitter.com/thanh68833332/status/1402884885887393795) | advertise |
 | [Thanh95833956@twitter](https://twitter.com/Thanh95833956/status/1403223547883900934) | advertise |
@@ -10906,8 +10910,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
