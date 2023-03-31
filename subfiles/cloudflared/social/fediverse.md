@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,063 |
 | social | 3,885 |
-| net | 3,093 |
+| net | 3,095 |
 | org | 2,133 |
 | de | 2,026 |
 
@@ -6721,6 +6721,7 @@ Here's a list of public Fediverse services.
 | `corp.social` | Yes |
 | `corporaterunaways.social` | No |
 | `corporatetravel.social` | No |
+| `correcthorse.net` | Yes |
 | `correctiv.social` | No |
 | `correlation.zone` | No |
 | `corrigan.moe` | No |
@@ -37226,6 +37227,7 @@ Here's a list of public Fediverse services.
 | `uuh.li` | No |
 | `uuu.moe` | No |
 | `uuuchu.com` | No |
+| `uuxo.net` | No |
 | `uvcat.com` | No |
 | `uvensys.social` | No |
 | `uviclinux.ca` | No |
@@ -40257,8 +40259,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,981 |
-| Normal | 30,233 |
+| Cloudflare | 9,982 |
+| Normal | 30,234 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
