@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [docs Docs for handleError Sentry usage is invalid](https://github.com/sveltejs/kit/issues/9577)
 - [Failed to import when given exports (in combination with alias and deps and target)](https://github.com/esm-dev/esm.sh/issues/575)
 - [APKMonk: 403 Forbidden](https://github.com/j-hc/revanced-magisk-module/issues/207)
 - [NGINX Reverse Proxy: disallowed MIME type & blocked due to MIME type](https://github.com/louislam/uptime-kuma/issues/3005)
