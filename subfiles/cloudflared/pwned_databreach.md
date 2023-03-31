@@ -526,6 +526,7 @@ Here's a list of breached sites.
 | StrongholdKingdoms (Stronghold Kingdoms) | 5,187,305 | No |
 | SubaGames | 6,137,666 | No |
 | SumoTorrent (Sumo Torrent) | 285,191 | Yes |
+| SundryFiles (Sundry Files) | 274,461 | Yes |
 | SvenskaMagic | 30,327 | No |
 | SweClockers (SweClockers.com) | 254,867 | No |
 | Swvl | 4,195,918 | Yes |
@@ -659,10 +660,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 347 | 3,846,745,599 |
+| Cloudflare | 348 | 3,847,020,060 |
 | Normal | 291 | 4,963,830,581 |
 
 
 
-### 54.4% of breached sites (pwned sites) are using Cloudflare.
+### 54.5% of breached sites (pwned sites) are using Cloudflare.
 ### 43.7% of leaked accounts are on Cloudflare sites.
