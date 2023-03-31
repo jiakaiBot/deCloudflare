@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Nginx Proxy Manager 2.10.1 crashes on upgrade with your script](https://github.com/tteck/Proxmox/issues/1284)
 - [docs Docs for handleError Sentry usage is invalid](https://github.com/sveltejs/kit/issues/9577)
 - [Failed to import when given exports (in combination with alias and deps and target)](https://github.com/esm-dev/esm.sh/issues/575)
 - [APKMonk: 403 Forbidden](https://github.com/j-hc/revanced-magisk-module/issues/207)
