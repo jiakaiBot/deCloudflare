@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,063 |
 | social | 3,885 |
-| net | 3,095 |
+| net | 3,096 |
 | org | 2,133 |
 | de | 2,026 |
 
@@ -5443,6 +5443,7 @@ Here's a list of public Fediverse services.
 | `celestek.xyz` | Yes |
 | `celestialscribe.online` | No |
 | `celestialspheres.xyz` | No |
+| `celestialvoice.net` | No |
 | `celineguichard.name` | No |
 | `cellardoor.network` | Yes |
 | `celle.social` | No |
@@ -40260,7 +40261,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,982 |
-| Normal | 30,234 |
+| Normal | 30,235 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
