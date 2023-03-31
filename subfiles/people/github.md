@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [APKMonk: 403 Forbidden](https://github.com/j-hc/revanced-magisk-module/issues/207)
 - [NGINX Reverse Proxy: disallowed MIME type & blocked due to MIME type](https://github.com/louislam/uptime-kuma/issues/3005)
 - [The links generated give a error in cloudflare](https://github.com/KasRoudra/MaxPhisher/issues/52)
 - [Validation and compression failed if added to the browser using a script tag](https://github.com/evrythng/digital-link.js/issues/25)
