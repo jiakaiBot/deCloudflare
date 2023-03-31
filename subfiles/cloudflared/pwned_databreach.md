@@ -315,6 +315,7 @@ Here's a list of breached sites.
 | Lastfm (Last.fm) | 37,217,682 | Yes |
 | Lazada (Lazada RedMart) | 1,107,789 | No |
 | LeagueOfLegends (League of Legends) | 339,487 | Yes |
+| LeakedReality (Leaked Reality) | 114,907 | Yes |
 | Ledger | 1,075,241 | Yes |
 | Leet | 5,081,689 | No |
 | Lifebear | 3,670,561 | Yes |
@@ -658,10 +659,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 346 | 3,846,630,692 |
+| Cloudflare | 347 | 3,846,745,599 |
 | Normal | 291 | 4,963,830,581 |
 
 
 
-### 54.3% of breached sites (pwned sites) are using Cloudflare.
+### 54.4% of breached sites (pwned sites) are using Cloudflare.
 ### 43.7% of leaked accounts are on Cloudflare sites.
