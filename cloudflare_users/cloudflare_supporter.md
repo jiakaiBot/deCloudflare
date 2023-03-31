@@ -2160,6 +2160,7 @@ Do not create new issue or we will close it as duplicate.
 | [coccocxi@twitter](https://twitter.com/coccocxi/status/1543106929311879169) | advertise |
 | [cocombatsports@twitter](https://twitter.com/cocombatsports/status/1588279260292079616) | advertise |
 | [codeberg.org](https://www.codeberg.org/) | [HISTORY.md](../HISTORY.md) |
+| [codemorningsir@twitter](https://twitter.com/codemorningsir/status/1641690651057352704) | advertise |
 | [codewithfortune@twitter](https://twitter.com/codewithfortune/status/1477733630982213634) | advertise |
 | [codfish246@twitter](https://twitter.com/codfish246/status/1555424438602047488) | advertise |
 | [Codingprotocols@twitter](https://twitter.com/Codingprotocols/status/1561244906060156929) | advertise |
@@ -2223,8 +2224,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
