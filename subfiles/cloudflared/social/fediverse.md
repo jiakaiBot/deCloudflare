@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,063 |
 | social | 3,885 |
-| net | 3,092 |
+| net | 3,093 |
 | org | 2,133 |
 | de | 2,026 |
 
@@ -17374,6 +17374,7 @@ Here's a list of public Fediverse services.
 | `kaiba.one` | Yes |
 | `kaientai-jp.net` | No |
 | `kaifa.ch` | Yes |
+| `kaifei.net` | Yes |
 | `kaij.tech` | Yes |
 | `kaijauch.de` | No |
 | `kaiju.city` | No |
@@ -40255,7 +40256,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,977 |
+| Cloudflare | 9,978 |
 | Normal | 30,235 |
 
 
