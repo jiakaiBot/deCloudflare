@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,060 |
-| social | 3,884 |
+| com | 6,062 |
+| social | 3,885 |
 | net | 3,092 |
 | org | 2,133 |
 | de | 2,026 |
@@ -6505,6 +6505,7 @@ Here's a list of public Fediverse services.
 | `compas.news` | No |
 | `compassion.exchange` | No |
 | `compassion.online` | Yes |
+| `compcube.info` | No |
 | `compensis.de` | No |
 | `complacent.io` | No |
 | `complete.fail` | No |
@@ -13726,6 +13727,7 @@ Here's a list of public Fediverse services.
 | `groundgamela.org` | Yes |
 | `groundpolis.app` | No |
 | `group.lt` | Yes |
+| `groupe-tazor.com` | No |
 | `groupement-interet-citoyen.org` | No |
 | `grouphub.de` | Yes |
 | `groupsebelah.com` | Yes |
@@ -25712,6 +25714,7 @@ Here's a list of public Fediverse services.
 | `ogre.red` | No |
 | `ogrelair.net` | No |
 | `ogrumm.club` | No |
+| `ogs.social` | Yes |
 | `ogspy.fr` | No |
 | `ogtrekker.com` | No |
 | `oh-hi.social` | Yes |
@@ -31088,6 +31091,7 @@ Here's a list of public Fediverse services.
 | `scripted.social` | No |
 | `scriptfanix.fr` | No |
 | `scriptforge.org` | Yes |
+| `scriptingosx.com` | No |
 | `scriptjunkie.us` | No |
 | `scritches.social` | No |
 | `scriu.cat` | No |
@@ -37520,6 +37524,7 @@ Here's a list of public Fediverse services.
 | `vibbe.xyz` | No |
 | `vibber.net` | No |
 | `vibe.farm` | Yes |
+| `vibe.pm` | No |
 | `vibeogame.online` | No |
 | `vibeshuttle.com` | No |
 | `vibewave.space` | No |
@@ -39389,6 +39394,7 @@ Here's a list of public Fediverse services.
 | `xzqt.xyz` | Yes |
 | `y-bbs.de` | No |
 | `y-gallery.net` | Yes |
+| `y-k.us` | Yes |
 | `y-y.li` | No |
 | `y-zu.org` | Yes |
 | `y.la` | No |
@@ -40247,8 +40253,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,974 |
-| Normal | 30,230 |
+| Cloudflare | 9,976 |
+| Normal | 30,234 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
