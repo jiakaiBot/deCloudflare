@@ -4983,7 +4983,7 @@ Here's a list of public Fediverse services.
 | `c18l.com` | Yes |
 | `c1t0d0.ch` | No |
 | `c2bdon.net` | No |
-| `c30.life` | No |
+| `c30.life` | Yes |
 | `c3d2.de` | No |
 | `c3d2.social` | No |
 | `c3l.ai` | No |
@@ -6874,6 +6874,7 @@ Here's a list of public Fediverse services.
 | `crashed.org` | No |
 | `crashloop.social` | No |
 | `crashmail.de` | No |
+| `crashrt.work` | Yes |
 | `crashspace.org` | No |
 | `crashtodon.net` | No |
 | `crates.im` | No |
@@ -19637,7 +19638,7 @@ Here's a list of public Fediverse services.
 | `liquidthink.net` | Yes |
 | `lire.im` | No |
 | `lisathomasius.de` | No |
-| `lisboa.social` | No |
+| `lisboa.social` | Yes |
 | `lisp.buzz` | No |
 | `listen.gallery` | No |
 | `listen.moe` | Yes |
@@ -40256,8 +40257,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,978 |
-| Normal | 30,235 |
+| Cloudflare | 9,981 |
+| Normal | 30,233 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
