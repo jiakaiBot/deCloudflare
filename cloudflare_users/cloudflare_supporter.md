@@ -2856,6 +2856,7 @@ Do not create new issue or we will close it as duplicate.
 | [duymanh2kk@twitter](https://twitter.com/duymanh2kk/status/1587814651449921536) | advertise |
 | [DuyNguy87645607@twitter](https://twitter.com/DuyNguy87645607/status/1399734268423639050) | advertise |
 | [duynguyen911@twitter](https://twitter.com/duynguyen911/status/1601222774642855936) | advertise |
+| [duynguyen2255@twitter](https://twitter.com/duynguyen2255/status/1641804725783003136) | advertise |
 | [Duynh79557905@twitter](https://twitter.com/Duynh79557905/status/1566221591662342144) | advertise |
 | [Duynkim8@twitter](https://twitter.com/Duynkim8/status/1408479143067459584) | advertise |
 | [DuyThnh23103428@twitter](https://twitter.com/DuyThnh23103428/status/1515883211372769280) | advertise |
@@ -5482,6 +5483,7 @@ Do not create new issue or we will close it as duplicate.
 | [KhnhDu09670942@twitter](https://twitter.com/KhnhDu09670942/status/1402132265216270339) | advertise |
 | [KhnhHo22444711@twitter](https://twitter.com/KhnhHo22444711/status/1521465910371840001) | advertise |
 | [khnhiyuu@twitter](https://twitter.com/khnhiyuu/status/1391964324885762048) | advertise |
+| [KhnhNgu11944242@twitter](https://twitter.com/KhnhNgu11944242/status/1641683385755250688) | advertise |
 | [KhnhTQuc1@twitter](https://twitter.com/KhnhTQuc1/status/1596393354501447680) | advertise |
 | [Khoa56267707@twitter](https://twitter.com/Khoa56267707/status/1483829033565827072) | advertise |
 | [Khoa60508776@twitter](https://twitter.com/Khoa60508776/status/1619022701238304768) | advertise |
@@ -7958,6 +7960,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguyncA92385972@twitter](https://twitter.com/NguyncA92385972/status/1552695881786609664) | advertise |
 | [NguyncH56437222@twitter](https://twitter.com/NguyncH56437222/status/1625586679468953600) | advertise |
 | [NguynChao1@twitter](https://twitter.com/NguynChao1/status/1479473552743022602) | advertise |
+| [NguyncTrDng1@twitter](https://twitter.com/NguyncTrDng1/status/1641801254224691201) | advertise |
 | [nguynd1_dy@twitter](https://twitter.com/nguynd1_dy/status/1603785209232920577) | advertise |
 | [NguynDu46905909@twitter](https://twitter.com/NguynDu46905909/status/1383606541618581513) | advertise |
 | [NguynDuyAn95@twitter](https://twitter.com/NguynDuyAn95/status/1506093092214091777) | advertise |
