@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,063 |
+| com | 6,064 |
 | social | 3,885 |
 | net | 3,096 |
 | org | 2,133 |
@@ -1377,6 +1377,7 @@ Here's a list of public Fediverse services.
 | `alexx.ml` | Yes |
 | `alexyang.me` | Yes |
 | `alfazema.club` | No |
+| `alfebelow.com` | No |
 | `alfheim.ca` | No |
 | `alfter.us` | No |
 | `algarve-pur.de` | No |
@@ -22331,6 +22332,7 @@ Here's a list of public Fediverse services.
 | `mikotochopin.jp` | No |
 | `mikroblog.at` | No |
 | `mikroblog.dk` | No |
+| `miksz.cc` | Yes |
 | `miku-enthusiast.club` | No |
 | `miku.cash` | No |
 | `miku.gay` | Yes |
@@ -26342,6 +26344,7 @@ Here's a list of public Fediverse services.
 | `otlab.dev` | Yes |
 | `otmns.net` | Yes |
 | `otociti.land` | Yes |
+| `otofu.uk` | Yes |
 | `otofu.xyz` | Yes |
 | `otofune.net` | Yes |
 | `otogamer.me` | No |
@@ -40260,8 +40263,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,982 |
-| Normal | 30,235 |
+| Cloudflare | 9,984 |
+| Normal | 30,236 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
