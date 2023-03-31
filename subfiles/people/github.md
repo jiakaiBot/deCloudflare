@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [NGINX Reverse Proxy: disallowed MIME type & blocked due to MIME type](https://github.com/louislam/uptime-kuma/issues/3005)
+- [The links generated give a error in cloudflare](https://github.com/KasRoudra/MaxPhisher/issues/52)
 - [Validation and compression failed if added to the browser using a script tag](https://github.com/evrythng/digital-link.js/issues/25)
 - [Cloudflare seems to be blocking .ts files](https://github.com/rsms/scripter/issues/20)
 - [Grafana failed to load its application files with Apache reverse proxy](https://github.com/grafana/grafana/issues/65642)
