@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,056 |
+| com | 6,057 |
 | social | 3,883 |
 | net | 3,091 |
 | org | 2,133 |
@@ -5979,6 +5979,7 @@ Here's a list of public Fediverse services.
 | `circus.monster` | No |
 | `circus.town` | No |
 | `cirkau.art` | No |
+| `cirm-math.fr` | No |
 | `cirno.digital` | No |
 | `cirnoisthe.best` | No |
 | `cirnoq.org` | No |
@@ -17524,6 +17525,7 @@ Here's a list of public Fediverse services.
 | `karp.lol` | No |
 | `karrmedia.com` | Yes |
 | `karsten-voigt.de` | No |
+| `karthikbalakrishnan.com` | Yes |
 | `kartoffel.cafe` | No |
 | `kartoffelcheetah.eu` | No |
 | `kartoffelwolke.de` | No |
@@ -40238,8 +40240,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,971 |
-| Normal | 30,224 |
+| Cloudflare | 9,972 |
+| Normal | 30,225 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
