@@ -7389,6 +7389,7 @@ Do not create new issue or we will close it as duplicate.
 | [MrYeMinTun1@twitter](https://twitter.com/MrYeMinTun1/status/1394660706490806274) | advertise |
 | [Mrzawmyooo1@twitter](https://twitter.com/Mrzawmyooo1/status/1393509214518005764) | advertise |
 | [MrZero51744009@twitter](https://twitter.com/MrZero51744009/status/1394291132293521421) | advertise |
+| [mrzhashemi@twitter](https://twitter.com/mrzhashemi/status/1641967970539692032) | advertise |
 | [mr_dominguez_89@twitter](https://twitter.com/mr_dominguez_89/status/1437832776573759492) | advertise |
 | [Mr_HedgeH0g@twitter](https://twitter.com/Mr_HedgeH0g/status/1472736787432755202) | advertise |
 | [mr_lover574@twitter](https://twitter.com/mr_lover574/status/1394097023486410752) | advertise |
@@ -7926,6 +7927,7 @@ Do not create new issue or we will close it as duplicate.
 | [nguyenk15697@twitter](https://twitter.com/nguyenk15697/status/1556293365196500992) | advertise |
 | [nguyenkhacanhh@twitter](https://twitter.com/nguyenkhacanhh/status/1478749565364813825) | advertise |
 | [nguyenlong2122@twitter](https://twitter.com/nguyenlong2122/status/1552206834160660480) | advertise |
+| [nguyenlxx60@twitter](https://twitter.com/nguyenlxx60/status/1642001651195318273) | advertise |
 | [Nguyenm15647657@twitter](https://twitter.com/Nguyenm15647657/status/1629695455343833095) | advertise |
 | [NguyennLuong@twitter](https://twitter.com/NguyennLuong/status/1629023245801508864) | advertise |
 | [NguyenP04335211@twitter](https://twitter.com/NguyenP04335211/status/1471757635879780356) | advertise |
@@ -9893,6 +9895,7 @@ Do not create new issue or we will close it as duplicate.
 | [SeksanKanchumn1@twitter](https://twitter.com/SeksanKanchumn1/status/1505766121525325824) | advertise |
 | [SelfAda1@twitter](https://twitter.com/SelfAda1/status/1428381024908718083) | advertise |
 | [selfhelp_ok@twitter](https://twitter.com/selfhelp_ok/status/1562212658555850752) | advertise |
+| [sell696060761@twitter](https://twitter.com/sell696060761/status/1641969661351952385) | advertise |
 | [selyuna2@twitter](https://twitter.com/selyuna2/status/1441124684884430862) | advertise |
 | [SEMOSH13@twitter](https://twitter.com/SEMOSH13/status/1380131889999187968) | advertise |
 | [Senat_News@twitter](https://twitter.com/Senat_News/status/1400900293261410304) | advertise |
