@@ -13070,6 +13070,7 @@ Here's a list of public Fediverse services.
 | `gielen.dk` | No |
 | `giema.net` | No |
 | `giersig.net` | Yes |
+| `giesing.space` | No |
 | `gifclip.info` | No |
 | `gifu.lol` | No |
 | `giga.is` | No |
@@ -25518,7 +25519,7 @@ Here's a list of public Fediverse services.
 | `nyanide.com` | No |
 | `nyanlout.re` | No |
 | `nyanshell.com` | Yes |
-| `nyantech.com` | No |
+| `nyantech.com` | Yes |
 | `nyanya.net` | No |
 | `nyaotan.fun` | No |
 | `nyarr.dev` | No |
@@ -40301,7 +40302,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,995 |
+| Cloudflare | 9,996 |
 | Normal | 30,263 |
 
 
