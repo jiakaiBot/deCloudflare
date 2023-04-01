@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,074 |
+| com | 6,075 |
 | social | 3,888 |
 | net | 3,097 |
 | org | 2,137 |
@@ -12157,6 +12157,7 @@ Here's a list of public Fediverse services.
 | `frogtown.club` | No |
 | `froidmont.org` | No |
 | `from-arctic.net` | No |
+| `from-de.com` | No |
 | `from.the.br` | Yes |
 | `from1972.net` | No |
 | `fromhome.ovh` | No |
@@ -40303,7 +40304,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,996 |
-| Normal | 30,263 |
+| Normal | 30,264 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
