@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,070 |
+| com | 6,073 |
 | social | 3,888 |
 | net | 3,097 |
 | org | 2,136 |
@@ -626,6 +626,7 @@ Here's a list of public Fediverse services.
 | `8tracks.com` | Yes |
 | `9-5.online` | Yes |
 | `9021007.xyz` | Yes |
+| `906070809.com` | No |
 | `907.life` | No |
 | `915.social` | Yes |
 | `9177xe.tokyo` | No |
@@ -1379,7 +1380,6 @@ Here's a list of public Fediverse services.
 | `alexx.ml` | Yes |
 | `alexyang.me` | Yes |
 | `alfazema.club` | No |
-| `alfebelow.com` | No |
 | `alfheim.ca` | No |
 | `alfter.us` | No |
 | `algarve-pur.de` | No |
@@ -17732,6 +17732,7 @@ Here's a list of public Fediverse services.
 | `kemono-friends.info` | Yes |
 | `kemono.ink` | No |
 | `kemonodon.club` | No |
+| `kemonololi.com` | No |
 | `kemonomimifan.club` | No |
 | `kemonox.jp` | No |
 | `kemoshi.co` | No |
@@ -28092,6 +28093,7 @@ Here's a list of public Fediverse services.
 | `potatofrom.space` | No |
 | `potatoxel.org` | No |
 | `potchan.org` | Yes |
+| `potetotown.com` | No |
 | `potionlab.net` | Yes |
 | `potkukelkka.bond` | No |
 | `potla.ch` | Yes |
@@ -30476,6 +30478,7 @@ Here's a list of public Fediverse services.
 | `s2s.video` | No |
 | `s3lph.me` | No |
 | `s3th.me` | No |
+| `s3xvn.com` | Yes |
 | `s4die.co` | Yes |
 | `s4m0r1.net` | No |
 | `s4y.us` | Yes |
@@ -40294,8 +40297,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,993 |
-| Normal | 30,258 |
+| Cloudflare | 9,994 |
+| Normal | 30,260 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
