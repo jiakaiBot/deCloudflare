@@ -8485,6 +8485,7 @@ Do not create new issue or we will close it as duplicate.
 | [oscie57@twitter](https://twitter.com/oscie57/status/1482813140224069634) | advertise |
 | [oshb65@twitter](https://twitter.com/oshb65/status/1385789068424847360) | advertise |
 | [oshinehtet@twitter](https://twitter.com/oshinehtet/status/1390850798490292225) | advertise |
+| [osman911@twitter](https://twitter.com/osman911/status/1642140691106070530) | advertise |
 | [OSsupporter@twitter](https://twitter.com/OSsupporter/status/1531334268722503680) | advertise |
 | [ot7since2017@twitter](https://twitter.com/ot7since2017/status/1379383185210028034) | advertise |
 | [otakuchipmunk@twitter](https://twitter.com/otakuchipmunk/status/1618826937321033732) | advertise |
