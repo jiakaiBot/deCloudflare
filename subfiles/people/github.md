@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Syncing issue on shared hosting](https://github.com/SamKirkland/FTP-Deploy-Action/issues/392)
+- [rocket-worker-thread' panicked, Unable to log into vault.](https://github.com/dani-garcia/vaultwarden/issues/3407)
 - [i18next busts up defer in Remix](https://github.com/sergiodxa/remix-i18next/issues/125)
 - [Nginx Proxy Manager 2.10.1 crashes on upgrade with your script](https://github.com/tteck/Proxmox/issues/1284)
 - [docs Docs for handleError Sentry usage is invalid](https://github.com/sveltejs/kit/issues/9577)
