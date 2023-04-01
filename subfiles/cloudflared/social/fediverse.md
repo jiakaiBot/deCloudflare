@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,066 |
-| social | 3,887 |
+| com | 6,068 |
+| social | 3,888 |
 | net | 3,097 |
 | org | 2,134 |
-| de | 2,026 |
+| de | 2,027 |
 
 
 - Mastodon, Pleroma, etc
@@ -7588,6 +7588,7 @@ Here's a list of public Fediverse services.
 | `dan.cloud` | No |
 | `dan.glass` | No |
 | `dan0mic.one` | Yes |
+| `danaamundsen.com` | No |
 | `danampersanderic.social` | No |
 | `dananglin.me.uk` | No |
 | `danbruno.net` | No |
@@ -11233,6 +11234,7 @@ Here's a list of public Fediverse services.
 | `fet.bar` | Yes |
 | `fetabruschetta.club` | No |
 | `fetbuk.ru` | Yes |
+| `fetedelamusique.de` | Yes |
 | `fetish.church` | No |
 | `fetishdon.tk` | No |
 | `fetishsocial.club` | No |
@@ -35641,6 +35643,7 @@ Here's a list of public Fediverse services.
 | `toby3d.me` | Yes |
 | `tocaj.ch` | No |
 | `tochat.one` | Yes |
+| `tocnawan.com` | No |
 | `toco2.fun` | No |
 | `tod.net` | Yes |
 | `todanano-fune.moe` | Yes |
@@ -36306,6 +36309,7 @@ Here's a list of public Fediverse services.
 | `trshnet.de` | No |
 | `trtl.in` | No |
 | `tru.io` | Yes |
+| `truckers.social` | Yes |
 | `truckersmstdn.com` | No |
 | `true.family` | No |
 | `truecolors.space` | Yes |
@@ -40275,8 +40279,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,988 |
-| Normal | 30,244 |
+| Cloudflare | 9,990 |
+| Normal | 30,246 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
