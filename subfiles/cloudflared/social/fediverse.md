@@ -24982,6 +24982,7 @@ Here's a list of public Fediverse services.
 | `nodered.org` | Yes |
 | `nodevops.com` | No |
 | `nodja.com` | Yes |
+| `nodoame.me` | Yes |
 | `nodocomun.org` | No |
 | `nodoka.de` | Yes |
 | `nodomain.cc` | No |
@@ -40303,7 +40304,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,996 |
+| Cloudflare | 9,997 |
 | Normal | 30,264 |
 
 
