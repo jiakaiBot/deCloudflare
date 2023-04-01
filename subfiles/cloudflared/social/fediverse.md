@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,073 |
+| com | 6,074 |
 | social | 3,888 |
 | net | 3,097 |
 | org | 2,136 |
@@ -1380,6 +1380,7 @@ Here's a list of public Fediverse services.
 | `alexx.ml` | Yes |
 | `alexyang.me` | Yes |
 | `alfazema.club` | No |
+| `alfebelow.com` | No |
 | `alfheim.ca` | No |
 | `alfter.us` | No |
 | `algarve-pur.de` | No |
@@ -40298,7 +40299,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,994 |
-| Normal | 30,260 |
+| Normal | 30,261 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
