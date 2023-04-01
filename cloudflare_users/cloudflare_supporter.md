@@ -604,6 +604,7 @@ Do not create new issue or we will close it as duplicate.
 | [alishanca@twitter](https://twitter.com/alishanca/status/1533557059018440705) | advertise |
 | [AlishernavoiI@twitter](https://twitter.com/AlishernavoiI/status/1614713358120263681) | advertise |
 | [AliTekayResmi@twitter](https://twitter.com/AliTekayResmi/status/1420368710490013700) | advertise |
+| [ali_dehdati@twitter](https://twitter.com/ali_dehdati/status/1642283108090142723) | advertise |
 | [ali__haidaricr7@twitter](https://twitter.com/ali__haidaricr7/status/1390791981010460673) | advertise |
 | [AllanMartin@twitter](https://twitter.com/AllanMartin/status/1399519289372295168) | advertise |
 | [allawi_m9@twitter](https://twitter.com/allawi_m9/status/1596033460002783232) | advertise |
@@ -9219,6 +9220,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rachel3304@twitter](https://twitter.com/Rachel3304/status/1559547803692666888) | advertise |
 | [racycars@twitter](https://twitter.com/racycars/status/1394606713827778561) | advertise |
 | [radio7toronto@twitter](https://twitter.com/radio7toronto/status/1512422850833133572) | advertise |
+| [radithyaputra@twitter](https://twitter.com/radithyaputra/status/1642274476514758664) | advertise |
 | [radityoarifn@twitter](https://twitter.com/radityoarifn/status/1600883998162812928) | advertise |
 | [radpaluszak@twitter](https://twitter.com/radpaluszak/status/1398323773435265028) | advertise |
 | [radrohamymailc1@twitter](https://twitter.com/radrohamymailc1/status/1494955192973942785) | advertise |
@@ -10299,6 +10301,7 @@ Do not create new issue or we will close it as duplicate.
 | [sonlu14654722@twitter](https://twitter.com/sonlu14654722/status/1400477010179235842) | advertise |
 | [SonNgoc82244972@twitter](https://twitter.com/SonNgoc82244972/status/1603285673339154432) | advertise |
 | [SonPham47707692@twitter](https://twitter.com/SonPham47707692/status/1620887365484183552) | advertise |
+| [SonPhung888@twitter](https://twitter.com/SonPhung888/status/1642280037893406721) | advertise |
 | [SONSOFAFRIKA@twitter](https://twitter.com/SONSOFAFRIKA/status/1631774261722374150) | advertise |
 | [sontr3000@twitter](https://twitter.com/sontr3000/status/1622975171765346305) | advertise |
 | [Sontung1081@twitter](https://twitter.com/Sontung1081/status/1564156305396285440) | advertise |
