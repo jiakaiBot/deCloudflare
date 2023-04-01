@@ -44,7 +44,6 @@ img-proxy.xiaoman.cn
 jenkins.xsolis.ninja
 kxdursmf64sd.xendesktop.net
 login.xensei.app
-mail.xoomfurniture.com
 media.xiq.io
 mobile.xoom.com
 o3gmail3aojyusp.account.xn----stbbukh.xn--p1ai
@@ -356,6 +355,7 @@ gitlab.git.git.alphabank0.xn----7sbahmgm3djr5j.xn--p1ai
 google.com39.xn--e1affn.xn--p1ai
 googleoptimointi.demo3.xetnet.com
 gpt-service.xai.co.jp
+hurtowniasupport.xaa.pl
 investors.xostrucks.com
 itsupport.x-filme.de
 moneymentor.xaa.pl
@@ -419,6 +419,7 @@ www.xn--hufe-gebudeservice-stb.de
 www.xn--incesu-gebudeservice-kzb.com
 www.xn--innerdrrar-jcb.se
 www.xn--jmfrvpn-5wa8n.se
+www.xn--kulturschafftbrcken-kbc.de
 www.xn--luottonetist-rcb.fi
 www.xn--mipequeomicos-okb.es
 www.xn--morsrengringsservice-ecce.dk
@@ -490,6 +491,7 @@ xn--jlq54w7ypemw.org
 xn--jmfrvpn-5wa8n.se
 xn--k-yi5f14dxxbvfn1at55d48d.com
 xn--khchsn379-11a3984f.vn
+xn--kulturschafftbrcken-kbc.de
 xn--luottonetist-rcb.fi
 xn--oy2b17nw6b71c99osnfo7a.com
 xn--piatablue-m6a.com
@@ -535,6 +537,7 @@ cpcontacts.xperttechnology.pk
 csgolist.bydaniello.xaa.pl
 da.xboxservices.com
 darmowyroblox.u-434-krybsh.xaa.pl
+dxetmp.xvweb.com
 frontier-docs.xvservice.net
 gedichte.xbib.de
 git.gitlab.gitlab.gitlab.accounts.xn--90agd6c8b.xn--p1ai
@@ -543,6 +546,7 @@ hk.xanforce.xyz
 kenneth1.home.xs4all.nl
 media.xiqabm.com
 moneyfactory.xaa.pl
+monitoring.xoxouhqui.cyou
 roblox.v1.xpluem.com
 roblox.v2.xpluem.com
 static.xciracdn.com
@@ -558,6 +562,7 @@ www.hasupport.xn--ogbza6bb.com
 www.restauservice.xtechsoftwarelib.com
 www.xcubelabs.com
 www.xeroxmoney.com
+www.xn--billigste-bredbnd-nrb.dk
 www.xn--glasgonbgar-48a0t.se
 www.xn--mainzer-gebudereinigungsservice-0vc.de
 x-controls.no
@@ -571,11 +576,14 @@ xemiennam.vn
 xiaoshuo.io
 xiegu.eu
 xiicomic.com
+xn--billigste-bredbnd-nrb.dk
 xn--hndverkerservice-dob.no
 xn--mainzer-gebudereinigungsservice-0vc.de
 xn--regnskapsfrerpris-90b.no
 xn--t8j6c6de7a4051bxgdpu2o.net
 xn--webducation-dbb.com
 xn--www-ofus-touch-j1b.com
+xo-service.fi
 xokki.com
 xpresswideservicedelivery.com
+xtn-soundworks.art
