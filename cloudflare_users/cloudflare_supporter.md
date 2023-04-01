@@ -10723,6 +10723,7 @@ Do not create new issue or we will close it as duplicate.
 | [TensingNightco@twitter](https://twitter.com/TensingNightco/status/1378194588838424582) | advertise |
 | [tenzyumasuda@twitter](https://twitter.com/tenzyumasuda/status/1468236764355641346) | advertise |
 | [TeoEuroo@twitter](https://twitter.com/TeoEuroo/status/1615904082086219776) | advertise |
+| [tequiero1012@twitter](https://twitter.com/tequiero1012/status/1642108373884862464) | advertise |
 | [TeresePoling611@twitter](https://twitter.com/TeresePoling611/status/1473044204804886530) | advertise |
 | [TERPAK7@twitter](https://twitter.com/TERPAK7/status/1578013119615569920) | advertise |
 | [TerrickLoren@twitter](https://twitter.com/TerrickLoren/status/1569206845163839489) | advertise |
