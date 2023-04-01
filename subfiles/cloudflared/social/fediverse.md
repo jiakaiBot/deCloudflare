@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 | com | 6,070 |
 | social | 3,888 |
 | net | 3,097 |
-| org | 2,135 |
-| de | 2,028 |
+| org | 2,136 |
+| de | 2,029 |
 
 
 - Mastodon, Pleroma, etc
@@ -1488,6 +1488,7 @@ Here's a list of public Fediverse services.
 | `allulla.space` | No |
 | `allwurst.com` | No |
 | `allymukai.com` | No |
+| `almacenero.uk` | Yes |
 | `almajlis.me` | No |
 | `almere.social` | No |
 | `almeroth.com` | No |
@@ -10076,6 +10077,7 @@ Here's a list of public Fediverse services.
 | `ennui.industries` | No |
 | `ennui.page` | Yes |
 | `ennui.ws` | No |
+| `enoent.one` | No |
 | `enoughisenough14.org` | No |
 | `enovale.com` | No |
 | `enquequedo.org` | No |
@@ -11031,6 +11033,7 @@ Here's a list of public Fediverse services.
 | `fediportal.eu.org` | No |
 | `fedipress.au` | No |
 | `fedipress.com` | No |
+| `fedir.de` | No |
 | `fedisabled.de` | No |
 | `fedisabled.social` | No |
 | `fedisaur.us` | No |
@@ -18777,6 +18780,7 @@ Here's a list of public Fediverse services.
 | `lagob.fr` | No |
 | `lagoonisfun.com` | No |
 | `lagrottedelours.ovh` | No |
+| `laguna.cafe` | No |
 | `lagy.org` | No |
 | `lahevirta.fi` | No |
 | `lahfa.fr` | No |
@@ -26121,6 +26125,7 @@ Here's a list of public Fediverse services.
 | `opensourcegardens.info` | No |
 | `opensourcemusings.com` | No |
 | `opensourcesecuritypodcast.com` | Yes |
+| `opensourcestories.org` | No |
 | `openspace.cf` | No |
 | `openstreetmap.fr` | No |
 | `opentechnologies.co.za` | Yes |
@@ -29980,6 +29985,7 @@ Here's a list of public Fediverse services.
 | `robmydobrze.pl` | No |
 | `robmyers.org` | Yes |
 | `roboces.dev` | Yes |
+| `roboco.dev` | Yes |
 | `robocollective.org` | No |
 | `robodon.social` | No |
 | `robonomics.network` | Yes |
@@ -40288,8 +40294,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,991 |
-| Normal | 30,254 |
+| Cloudflare | 9,993 |
+| Normal | 30,258 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
