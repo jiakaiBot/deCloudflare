@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,064 |
-| social | 3,885 |
+| social | 3,886 |
 | net | 3,096 |
 | org | 2,133 |
 | de | 2,026 |
@@ -38796,6 +38796,7 @@ Here's a list of public Fediverse services.
 | `woodenelephants.xyz` | No |
 | `woodland.cafe` | No |
 | `woodpecker.blue` | Yes |
+| `woodpecker.social` | No |
 | `woodphant.fr` | No |
 | `woodplate.club` | No |
 | `woodside.nz` | No |
@@ -40264,7 +40265,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,984 |
-| Normal | 30,236 |
+| Normal | 30,237 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
