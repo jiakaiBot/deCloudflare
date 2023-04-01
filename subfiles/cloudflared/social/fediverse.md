@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 | com | 6,074 |
 | social | 3,888 |
 | net | 3,097 |
-| org | 2,136 |
-| de | 2,029 |
+| org | 2,137 |
+| de | 2,030 |
 
 
 - Mastodon, Pleroma, etc
@@ -46,6 +46,7 @@ Here's a list of public Fediverse services.
 | `00x.club` | No |
 | `01001010.net` | Yes |
 | `01001010.social` | Yes |
+| `01010011.xyz` | Yes |
 | `01bit.xyz` | Yes |
 | `01start.net` | No |
 | `02a.life` | No |
@@ -22989,6 +22990,7 @@ Here's a list of public Fediverse services.
 | `montera34.org` | No |
 | `montereybay.social` | No |
 | `monterrokyo.town` | No |
+| `montessori-verein-kaltenweide.de` | No |
 | `montgomery.fr` | No |
 | `montmast.com` | No |
 | `montpellier.buzz` | No |
@@ -28961,6 +28963,7 @@ Here's a list of public Fediverse services.
 | `radicalevents.eu` | No |
 | `radicalityincident.com` | No |
 | `radicalnetworks.org` | No |
+| `radicalpolitics.org` | No |
 | `radicalsocial.work` | Yes |
 | `radicalthoughts.xyz` | No |
 | `radicalzz.blog` | No |
@@ -40298,8 +40301,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,994 |
-| Normal | 30,261 |
+| Cloudflare | 9,995 |
+| Normal | 30,263 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
