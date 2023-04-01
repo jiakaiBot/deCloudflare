@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,068 |
+| com | 6,070 |
 | social | 3,888 |
 | net | 3,097 |
-| org | 2,134 |
-| de | 2,027 |
+| org | 2,135 |
+| de | 2,028 |
 
 
 - Mastodon, Pleroma, etc
@@ -5019,6 +5019,7 @@ Here's a list of public Fediverse services.
 | `cabbage.lol` | Yes |
 | `cable.cafe` | No |
 | `cable54.tv` | No |
+| `cabotcove.us` | No |
 | `cachapa.moe` | No |
 | `cachapa.xyz` | No |
 | `cacheblasters.com` | No |
@@ -8919,6 +8920,7 @@ Here's a list of public Fediverse services.
 | `donbarry.org` | No |
 | `donbongo.com` | No |
 | `donburnside.com` | Yes |
+| `dondahlmann.de` | No |
 | `dondondon.ga` | No |
 | `doneydenouden.com` | Yes |
 | `dong.army` | No |
@@ -15286,6 +15288,7 @@ Here's a list of public Fediverse services.
 | `hxr.social` | No |
 | `hyan.ink` | Yes |
 | `hybridenterprise.net` | No |
+| `hydracurios.space` | No |
 | `hydrantosaurus.com` | Yes |
 | `hydrate.space` | Yes |
 | `hydratrash.party` | Yes |
@@ -15546,6 +15549,7 @@ Here's a list of public Fediverse services.
 | `igotnothin.com` | No |
 | `igotout.de` | No |
 | `igouv.fr` | Yes |
+| `igox.org` | No |
 | `igreally.social` | No |
 | `igu.fi` | Yes |
 | `igualdad.cf` | No |
@@ -22802,6 +22806,7 @@ Here's a list of public Fediverse services.
 | `modalnode.club` | No |
 | `modding.games` | Yes |
 | `mode15.com` | No |
+| `modelrailroadballast.com` | Yes |
 | `modelrailway.social` | No |
 | `modem.network` | Yes |
 | `modem.show` | Yes |
@@ -26235,6 +26240,7 @@ Here's a list of public Fediverse services.
 | `orito-itsuki.net` | No |
 | `oriwebdon.com` | No |
 | `ork.institute` | No |
+| `orkboyz.cloud` | No |
 | `orkinsel.de` | No |
 | `orko.it` | No |
 | `orkpiraten.de` | No |
@@ -29591,6 +29597,7 @@ Here's a list of public Fediverse services.
 | `resampling.net` | No |
 | `researchanddestroy.technology` | No |
 | `researchinstitute.at` | No |
+| `reseau-canope.fr` | No |
 | `reseau.education` | No |
 | `reseaujaune.com` | No |
 | `reseaumarseillais.com` | No |
@@ -31928,6 +31935,7 @@ Here's a list of public Fediverse services.
 | `simonwood.info` | No |
 | `simounet.net` | No |
 | `simple-gear.com` | Yes |
+| `simpledoesit.com` | No |
 | `simplefinances.net` | No |
 | `simplefinances.us` | No |
 | `simpleguy.net` | No |
@@ -40279,8 +40287,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,990 |
-| Normal | 30,246 |
+| Cloudflare | 9,991 |
+| Normal | 30,253 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
