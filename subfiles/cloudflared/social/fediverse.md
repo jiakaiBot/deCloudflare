@@ -29503,6 +29503,7 @@ Here's a list of public Fediverse services.
 | `reipository.moe` | No |
 | `reisen-nach-spanien.com` | No |
 | `reisen-und-ankern.de` | No |
+| `reisen.church` | No |
 | `reisetagebuch-podcast.de` | No |
 | `reisig.world` | No |
 | `reit-it.de` | Yes |
@@ -40288,7 +40289,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,991 |
-| Normal | 30,253 |
+| Normal | 30,254 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
