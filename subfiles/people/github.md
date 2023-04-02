@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [error : You didn't provide an API key](https://github.com/aallam/openai-kotlin/issues/152)
 - [Error: (0x51b998,0x59acf8) When trying to use Cloudflare R2?](https://github.com/eeshugerman/postgres-backup-s3/issues/29)
 - [Intermittent 'Bad Gateway' Error using Cloudflare Tunnels](https://github.com/autobrr/autobrr/issues/806)
 - [cannot run the program now](https://github.com/vasuvachhani15/Campus-Recruitment-Management-System/issues/1)
