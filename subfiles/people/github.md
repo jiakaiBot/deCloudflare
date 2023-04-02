@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: (0x51b998,0x59acf8) When trying to use Cloudflare R2?](https://github.com/eeshugerman/postgres-backup-s3/issues/29)
 - [Intermittent 'Bad Gateway' Error using Cloudflare Tunnels](https://github.com/autobrr/autobrr/issues/806)
 - [cannot run the program now](https://github.com/vasuvachhani15/Campus-Recruitment-Management-System/issues/1)
 - [Syncing issue on shared hosting](https://github.com/SamKirkland/FTP-Deploy-Action/issues/392)
