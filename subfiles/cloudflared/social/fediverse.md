@@ -4508,6 +4508,7 @@ Here's a list of public Fediverse services.
 | `bozgor.org` | Yes |
 | `bozohub.com` | No |
 | `bozolord.ml` | Yes |
+| `bpc.wtf` | No |
 | `bpconsulting.my` | No |
 | `bpd.monster` | Yes |
 | `bpxiszentpetery8.hu` | No |
@@ -15206,6 +15207,7 @@ Here's a list of public Fediverse services.
 | `hugh.buzz` | No |
 | `hugh.run` | No |
 | `huginn.dev` | No |
+| `huginn.uk` | No |
 | `hugolaloge.fr` | No |
 | `hugolecourt.fr` | No |
 | `hugoleroux.ovh` | No |
@@ -40067,6 +40069,7 @@ Here's a list of public Fediverse services.
 | `zerotier.com` | No |
 | `zerovolt.org` | No |
 | `zerowastefvg.it` | No |
+| `zeroyuki.cn` | Yes |
 | `zerozaski.tech` | Yes |
 | `zerw.xyz` | No |
 | `zesh.club` | No |
@@ -40320,8 +40323,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,003 |
-| Normal | 30,274 |
+| Cloudflare | 10,004 |
+| Normal | 30,276 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
