@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,078 |
+| com | 6,079 |
 | social | 3,890 |
 | net | 3,099 |
 | org | 2,138 |
@@ -27204,7 +27204,7 @@ Here's a list of public Fediverse services.
 | `petitlutinartube.fr` | No |
 | `petitmote.fr` | No |
 | `petko.me` | No |
-| `petlover.eu.org` | No |
+| `petlover.eu.org` | Yes |
 | `petorikoru.site` | Yes |
 | `petras.space` | No |
 | `petrichor.pt` | No |
@@ -36960,6 +36960,7 @@ Here's a list of public Fediverse services.
 | `undead.link` | No |
 | `undeadnetwork.de` | No |
 | `undef.me` | No |
+| `undefined-dev.com` | No |
 | `undefined.moe` | Yes |
 | `undefined.social` | No |
 | `under-bank.blue` | No |
@@ -40323,7 +40324,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,004 |
+| Cloudflare | 10,005 |
 | Normal | 30,276 |
 
 
