@@ -5295,6 +5295,7 @@ Here's a list of public Fediverse services.
 | `casually.cat` | Yes |
 | `casuallyblue.xyz` | No |
 | `casuls.social` | No |
+| `cat-enby.club` | No |
 | `cat-from-outer.space` | No |
 | `cat.broker` | No |
 | `cat.engineer` | Yes |
@@ -6152,6 +6153,7 @@ Here's a list of public Fediverse services.
 | `cloud-foo.de` | No |
 | `cloud-libre.eu` | No |
 | `cloud-native.social` | No |
+| `cloud18.xyz` | No |
 | `cloud68.co` | No |
 | `cloudapps.ninja` | No |
 | `cloudboard.fr` | No |
@@ -37521,7 +37523,7 @@ Here's a list of public Fediverse services.
 | `vengalath.com` | Yes |
 | `vengeful.eu` | No |
 | `venib.at` | No |
-| `venomous.video` | No |
+| `venomous.video` | Yes |
 | `ventel.app` | No |
 | `ventresmous.fr` | No |
 | `venturahimself.pro` | Yes |
@@ -40330,8 +40332,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,008 |
-| Normal | 30,279 |
+| Cloudflare | 10,009 |
+| Normal | 30,280 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
