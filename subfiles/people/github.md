@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [cannot run the program now](https://github.com/vasuvachhani15/Campus-Recruitment-Management-System/issues/1)
 - [Syncing issue on shared hosting](https://github.com/SamKirkland/FTP-Deploy-Action/issues/392)
 - [rocket-worker-thread' panicked, Unable to log into vault.](https://github.com/dani-garcia/vaultwarden/issues/3407)
 - [i18next busts up defer in Remix](https://github.com/sergiodxa/remix-i18next/issues/125)
