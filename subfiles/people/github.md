@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Exceeded current quota error but only used 0.02c out of 18](https://github.com/gragland/chatgpt-chrome-extension/issues/46)
 - [error : You didn't provide an API key](https://github.com/aallam/openai-kotlin/issues/152)
 - [Error: (0x51b998,0x59acf8) When trying to use Cloudflare R2?](https://github.com/eeshugerman/postgres-backup-s3/issues/29)
 - [Intermittent 'Bad Gateway' Error using Cloudflare Tunnels](https://github.com/autobrr/autobrr/issues/806)
