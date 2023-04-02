@@ -26119,6 +26119,7 @@ Here's a list of public Fediverse services.
 | `openshare.me` | No |
 | `openshell.no` | No |
 | `openshiftapps.com` | No |
+| `openshores.co.uk` | No |
 | `opensim.fun` | No |
 | `opensim.world` | Yes |
 | `opensimsocial.com` | No |
@@ -40308,7 +40309,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,997 |
-| Normal | 30,267 |
+| Normal | 30,268 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
