@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,079 |
 | social | 3,890 |
-| net | 3,099 |
+| net | 3,100 |
 | org | 2,139 |
 | de | 2,030 |
 
@@ -18245,6 +18245,7 @@ Here's a list of public Fediverse services.
 | `kodein.be` | No |
 | `koder-marin.at` | No |
 | `kodlomrazi.ru` | No |
+| `kodow.net` | Yes |
 | `koeb.be` | No |
 | `koehler-klm.de` | No |
 | `koehler.ca` | Yes |
@@ -40327,7 +40328,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,006 |
+| Cloudflare | 10,007 |
 | Normal | 30,278 |
 
 
