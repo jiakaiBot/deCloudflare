@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Intermittent 'Bad Gateway' Error using Cloudflare Tunnels](https://github.com/autobrr/autobrr/issues/806)
 - [cannot run the program now](https://github.com/vasuvachhani15/Campus-Recruitment-Management-System/issues/1)
 - [Syncing issue on shared hosting](https://github.com/SamKirkland/FTP-Deploy-Action/issues/392)
 - [rocket-worker-thread' panicked, Unable to log into vault.](https://github.com/dani-garcia/vaultwarden/issues/3407)
