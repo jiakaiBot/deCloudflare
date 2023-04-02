@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,075 |
+| com | 6,076 |
 | social | 3,888 |
 | net | 3,097 |
 | org | 2,137 |
@@ -5115,6 +5115,7 @@ Here's a list of public Fediverse services.
 | `campfi.rs` | Yes |
 | `campfire.website` | No |
 | `campfollow.life` | No |
+| `campus-it.eu` | No |
 | `campus.yokohama` | Yes |
 | `campuschat.io` | No |
 | `campusgemeinde.de` | No |
@@ -26939,6 +26940,7 @@ Here's a list of public Fediverse services.
 | `pccl.me` | No |
 | `pceninja.com` | No |
 | `pcf.fr` | Yes |
+| `pcgaldo.com` | No |
 | `pcgame.jp` | No |
 | `pcgamer.social` | Yes |
 | `pcgamers.win` | Yes |
@@ -29877,6 +29879,7 @@ Here's a list of public Fediverse services.
 | `risaton.net` | No |
 | `risc.social` | Yes |
 | `riseuptimes.org` | No |
+| `rishikumar.dev` | No |
 | `risingsun.red` | No |
 | `risk.social` | No |
 | `riskmanage.jp` | No |
@@ -40305,7 +40308,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 9,997 |
-| Normal | 30,264 |
+| Normal | 30,267 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
