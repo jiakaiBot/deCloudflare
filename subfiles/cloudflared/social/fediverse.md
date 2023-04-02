@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,079 |
+| com | 6,080 |
 | social | 3,890 |
 | net | 3,100 |
 | org | 2,139 |
@@ -5361,6 +5361,7 @@ Here's a list of public Fediverse services.
 | `catona.cloud` | No |
 | `catonmat.net` | No |
 | `catoptric.com` | No |
+| `catposting.agency` | No |
 | `catpowered.net` | Yes |
 | `catpp.eu` | No |
 | `catrow.net` | No |
@@ -39223,6 +39224,7 @@ Here's a list of public Fediverse services.
 | `xiu.io` | No |
 | `xiupos.net` | Yes |
 | `xiv.social` | No |
+| `xivdata.com` | Yes |
 | `xiweb.de` | No |
 | `xj-ix.luxe` | No |
 | `xjmaoyaoyao.monster` | Yes |
@@ -40328,8 +40330,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,007 |
-| Normal | 30,278 |
+| Cloudflare | 10,008 |
+| Normal | 30,279 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
