@@ -28291,6 +28291,7 @@ Here's a list of public Fediverse services.
 | `privagram.com` | No |
 | `privatedns.org` | No |
 | `privatsocial.de` | No |
+| `privatter.info` | Yes |
 | `privex.social` | No |
 | `privey.xyz` | Yes |
 | `prlic.social` | Yes |
@@ -32758,7 +32759,6 @@ Here's a list of public Fediverse services.
 | `sophy.life` | Yes |
 | `sopuli.xyz` | No |
 | `sora.pub` | No |
-| `sorairo.space` | No |
 | `soranews24.com` | No |
 | `sorasaki-ct.uk` | Yes |
 | `sorbit.no` | No |
@@ -33750,6 +33750,7 @@ Here's a list of public Fediverse services.
 | `sukany.cz` | No |
 | `sukara.dev` | Yes |
 | `sukazyo.cc` | Yes |
+| `sukeban.moe` | No |
 | `sukebeneko.com` | No |
 | `sulairris.com` | No |
 | `sulegna.de` | Yes |
@@ -34336,6 +34337,7 @@ Here's a list of public Fediverse services.
 | `tanukitsu.net` | No |
 | `tanukitunes.com` | No |
 | `tanztee.social` | No |
+| `taobox.pub` | No |
 | `taoetc.org` | No |
 | `taoka.de` | No |
 | `taonaw.com` | No |
@@ -40332,8 +40334,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,009 |
-| Normal | 30,280 |
+| Cloudflare | 10,010 |
+| Normal | 30,281 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
