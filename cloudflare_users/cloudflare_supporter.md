@@ -5846,6 +5846,7 @@ Do not create new issue or we will close it as duplicate.
 | [KwikMugs@twitter](https://twitter.com/KwikMugs/status/1518513448597995524) | advertise |
 | [KXbXQwleCqIGldM@twitter](https://twitter.com/KXbXQwleCqIGldM/status/1491062243563556873) | advertise |
 | [kxngmarkybrown@twitter](https://twitter.com/kxngmarkybrown/status/1548889630019289090) | advertise |
+| [kxngvalid21@twitter](https://twitter.com/kxngvalid21/status/1642403490952609792) | advertise |
 | [KxngXnusis@twitter](https://twitter.com/KxngXnusis/status/1548052006237257728) | advertise |
 | [kxt75626038@twitter](https://twitter.com/kxt75626038/status/1569036357804396546) | advertise |
 | [ky1ro@twitter](https://twitter.com/ky1ro/status/1543894833563041792) | advertise |
@@ -6606,6 +6607,7 @@ Do not create new issue or we will close it as duplicate.
 | [ManishS14486946@twitter](https://twitter.com/ManishS14486946/status/1376922638216531974) | advertise |
 | [Manman83837209@twitter](https://twitter.com/Manman83837209/status/1601969110677880833) | advertise |
 | [mannhi_1997@twitter](https://twitter.com/mannhi_1997/status/1504187126702768129) | advertise |
+| [Manoj29630Manoj@twitter](https://twitter.com/Manoj29630Manoj/status/1642349301971193857) | advertise |
 | [ManSem_95@twitter](https://twitter.com/ManSem_95/status/1391726222770458627) | advertise |
 | [Mansoor81118164@twitter](https://twitter.com/Mansoor81118164/status/1400092367953154053) | advertise |
 | [mansor_malleki4@twitter](https://twitter.com/mansor_malleki4/status/1530961700962373632) | advertise |
@@ -9009,6 +9011,7 @@ Do not create new issue or we will close it as duplicate.
 | [PrinceLue_sa@twitter](https://twitter.com/PrinceLue_sa/status/1379702164390621185) | advertise |
 | [PrinceO58314621@twitter](https://twitter.com/PrinceO58314621/status/1389548044304195585) | advertise |
 | [PRINCES14446848@twitter](https://twitter.com/PRINCES14446848/status/1377862676450213888) | advertise |
+| [PrinceS42220524@twitter](https://twitter.com/PrinceS42220524/status/1642398645143175168) | advertise |
 | [PrinceS49644369@twitter](https://twitter.com/PrinceS49644369/status/1386440942069026818) | advertise |
 | [Princexnxxx@twitter](https://twitter.com/Princexnxxx/status/1566399587056726016) | advertise |
 | [Prince_Simoney@twitter](https://twitter.com/Prince_Simoney/status/1602629814032244738) | advertise |
@@ -10931,8 +10934,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
