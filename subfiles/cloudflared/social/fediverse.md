@@ -37513,6 +37513,7 @@ Here's a list of public Fediverse services.
 | `vengalath.com` | Yes |
 | `vengeful.eu` | No |
 | `venib.at` | No |
+| `venomous.video` | No |
 | `ventel.app` | No |
 | `ventresmous.fr` | No |
 | `venturahimself.pro` | Yes |
@@ -40320,7 +40321,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,003 |
-| Normal | 30,273 |
+| Normal | 30,274 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
