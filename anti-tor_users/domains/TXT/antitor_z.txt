@@ -634,12 +634,14 @@ link.zomato.com
 logs.ze-energy.tech
 nh-sauce-discord-bot.zeferinix.com
 p.zpa-auth.net
+phorminx-egad-v3g78m4d.zsrc.ml
 rd.zero-trust-security.de
 register.zscalertwo.net
 sberbank.sber.avito.sber.www.covid19.zdorovadytyna.com
 static.ctw.zusapi.com
 tipengine.zoho.com
 travelassist.zurich.ca
+tsafety2023.zapweb.co.il
 valeofglamorgan.zipporah.co.uk
 whm.zelateck.online
 www.accounting.zedwa.za.net
@@ -649,6 +651,7 @@ www.post.zogla.com
 www.restorent.zeestore.co
 www.rooscontrol.zon18.click
 www.sahabafoodbank.zyotee.com
+www.steam.zser-art.hu
 www.webclient.zaidexceldesign.com
 www.whatsapp.zida.my
 www.zahnarzt-muenchen-neuperlach.de
@@ -670,6 +673,9 @@ www.ztzhelpdesk.info
 zacrknt.si
 zagreb-apt.com
 zapach-papieru.pl
+zargarian.ca
+zastava-arms.rs
+zawagg.com
 zdsecurity.help
 zealdev.com.au
 zebrayouth.org
@@ -678,8 +684,11 @@ zerocomix.com
 zeydil.uz
 zglostrolla.pl
 zgz.nu
+zieracomp.xyz
 ziffopposer.com
 zigmaglobal.in
+zipapi.us
+zksync-mainnet.us
 zmdownload-accl.zoho.com
 znitro.com
 zoomingjapan.com
@@ -687,6 +696,7 @@ zotecpartners.com
 zozo.jp
 zpost.no
 zurcherarquitectos.com
+zuriserve.africa
 acceptatie-client.zorgplatform.online
 adfs.zu.de
 api-dev.zt-ft.com
