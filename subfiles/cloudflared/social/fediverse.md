@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,076 |
-| social | 3,888 |
-| net | 3,097 |
-| org | 2,137 |
+| com | 6,078 |
+| social | 3,890 |
+| net | 3,099 |
+| org | 2,138 |
 | de | 2,030 |
 
 
@@ -2292,6 +2292,7 @@ Here's a list of public Fediverse services.
 | `arles.red` | No |
 | `arles.us` | No |
 | `arlington.social` | No |
+| `arlol.net` | No |
 | `arlost.com` | Yes |
 | `armadillo.social` | No |
 | `armandmgt.fr` | Yes |
@@ -2694,6 +2695,7 @@ Here's a list of public Fediverse services.
 | `aurakan.org` | No |
 | `auralis.space` | No |
 | `aurcanius.org` | Yes |
+| `aurelienpierre.com` | No |
 | `auri.ga` | No |
 | `aurifer.org` | No |
 | `aurigator.net` | Yes |
@@ -10712,6 +10714,7 @@ Here's a list of public Fediverse services.
 | `falkensweb.com` | No |
 | `falktx.com` | No |
 | `falkvinge.net` | Yes |
+| `fallendemon.xyz` | Yes |
 | `falles.online` | No |
 | `falschgold.net` | No |
 | `falsehood.social` | Yes |
@@ -10875,6 +10878,7 @@ Here's a list of public Fediverse services.
 | `feaneron.com` | No |
 | `fearisfreedom.com` | No |
 | `fearness.org` | No |
+| `feastcoast.com` | No |
 | `feather.city` | Yes |
 | `feather.onl` | No |
 | `feather.wiki` | No |
@@ -10962,6 +10966,7 @@ Here's a list of public Fediverse services.
 | `fedi.monster` | No |
 | `fedi.network` | Yes |
 | `fedi.one` | Yes |
+| `fedi.paris` | No |
 | `fedi.photos` | No |
 | `fedi.pictures` | No |
 | `fedi.place` | Yes |
@@ -16838,6 +16843,7 @@ Here's a list of public Fediverse services.
 | `jimicorp.com` | No |
 | `jimkapsalis.com` | No |
 | `jimlunsford.com` | No |
+| `jimmitchell.org` | Yes |
 | `jimmitchellmedia.net` | Yes |
 | `jimmygulp.co.uk` | No |
 | `jimmyhoke.net` | Yes |
@@ -21788,6 +21794,7 @@ Here's a list of public Fediverse services.
 | `mdx.ac.uk` | Yes |
 | `me.dm` | Yes |
 | `meadow.social` | No |
+| `meadowlark.cc` | Yes |
 | `mean.engineer` | No |
 | `measure.chat` | Yes |
 | `meatbag.app` | Yes |
@@ -23671,7 +23678,7 @@ Here's a list of public Fediverse services.
 | `muyfinanciero.com` | No |
 | `muylinux.com` | No |
 | `muyun.cloud` | Yes |
-| `muyun.social` | No |
+| `muyun.social` | Yes |
 | `muzzlespace.com` | No |
 | `mv-software.de` | No |
 | `mvalente.eu` | No |
@@ -30299,6 +30306,7 @@ Here's a list of public Fediverse services.
 | `rubincloud.com` | No |
 | `ruby.social` | No |
 | `ruby2sday.net` | Yes |
+| `rubyonmac.dev` | No |
 | `rubywhite.com` | Yes |
 | `rucknium.me` | No |
 | `rucksfuchs.de` | No |
@@ -32072,6 +32080,7 @@ Here's a list of public Fediverse services.
 | `skeleton.cool` | No |
 | `skeleton.town` | No |
 | `skeletons.gay` | No |
+| `skelly.social` | No |
 | `skepteis.social` | No |
 | `skeptics.social` | No |
 | `skeptikon.fr` | No |
@@ -32263,6 +32272,7 @@ Here's a list of public Fediverse services.
 | `slugcapital.net` | No |
 | `slum.cloud` | Yes |
 | `slumpedoverkeyboarddead.com` | Yes |
+| `slurf.net` | Yes |
 | `slurfdier.nl` | No |
 | `slut.systems` | No |
 | `slut.town` | No |
@@ -34687,6 +34697,7 @@ Here's a list of public Fediverse services.
 | `teo.io` | No |
 | `teo.pt` | Yes |
 | `teotech.xyz` | No |
+| `tep.social` | No |
 | `tepes.space` | No |
 | `tepewu.dev` | No |
 | `tepewu.pl` | No |
@@ -39172,7 +39183,7 @@ Here's a list of public Fediverse services.
 | `xgix.net` | Yes |
 | `xgold.xyz` | No |
 | `xhais.love` | Yes |
-| `xhec.dev` | No |
+| `xhec.dev` | Yes |
 | `xhrpb.com` | No |
 | `xi.ht` | No |
 | `xiachong.ltd` | Yes |
@@ -40308,8 +40319,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 9,997 |
-| Normal | 30,268 |
+| Cloudflare | 10,003 |
+| Normal | 30,273 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
