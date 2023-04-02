@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,079 |
 | social | 3,890 |
 | net | 3,099 |
-| org | 2,138 |
+| org | 2,139 |
 | de | 2,030 |
 
 
@@ -5315,6 +5315,7 @@ Here's a list of public Fediverse services.
 | `catdon.app` | Yes |
 | `catdon.jp` | No |
 | `catdon.life` | No |
+| `categoryurls.eu.org` | No |
 | `categoryurls.life` | Yes |
 | `categoryurls.top` | Yes |
 | `caterpillarcheesecake.xyz` | Yes |
@@ -7204,6 +7205,7 @@ Here's a list of public Fediverse services.
 | `cumblr.club` | No |
 | `cumbria.social` | No |
 | `cumulonimbus-cloud.com` | No |
+| `cune.moe` | Yes |
 | `cunnin.me` | No |
 | `cunny.finance` | No |
 | `cunny.moe` | Yes |
@@ -18106,6 +18108,7 @@ Here's a list of public Fediverse services.
 | `kkoyung.dev` | Yes |
 | `kks36.be` | No |
 | `kksg.net` | No |
+| `kksk.one` | No |
 | `kl1pp3l.de` | No |
 | `klaaspier.nl` | No |
 | `klaewyss.fr` | No |
@@ -40324,8 +40327,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,005 |
-| Normal | 30,276 |
+| Cloudflare | 10,006 |
+| Normal | 30,278 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
