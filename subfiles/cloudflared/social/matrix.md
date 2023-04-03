@@ -103,6 +103,7 @@ Here's a list of public Matrix services.
 | pragma-messenger.ch | No |
 | www.privacytools.io | Yes |
 | matrix.pub.solar | No |
+| radiowarnerd.org | No |
 | matrix.rimfaxe.net | No |
 | riotchat.de | Yes |
 | ru-matrix.org | No |
@@ -131,7 +132,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 21 |
-| Normal | 82 |
+| Normal | 83 |
 
 
-### 20.4% of public Matrix services are using Cloudflare.
+### 20.2% of public Matrix services are using Cloudflare.
