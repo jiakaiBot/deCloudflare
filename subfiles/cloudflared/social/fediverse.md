@@ -29689,6 +29689,7 @@ Here's a list of public Fediverse services.
 | `retard.tech` | Yes |
 | `retardcenter.xyz` | Yes |
 | `retardeddystopia.com` | No |
+| `retardedniggers.forsale` | No |
 | `rethinkplaces.social` | No |
 | `reticu.li` | No |
 | `retidurc.fr` | No |
@@ -40355,7 +40356,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,020 |
-| Normal | 30,291 |
+| Normal | 30,292 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
