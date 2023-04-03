@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,080 |
+| com | 6,081 |
 | social | 3,893 |
 | net | 3,103 |
 | org | 2,139 |
@@ -1365,6 +1365,7 @@ Here's a list of public Fediverse services.
 | `alexkeating.me` | No |
 | `alexmasters.com` | No |
 | `alexme.ru` | No |
+| `alexmshepherd.com` | No |
 | `alexmurphy.codes` | No |
 | `alexn.org` | Yes |
 | `alexnackenoff.com` | No |
@@ -23961,6 +23962,7 @@ Here's a list of public Fediverse services.
 | `nabi1080.net` | No |
 | `nacchan.ca` | No |
 | `nachocheese.mom` | No |
+| `nachocheese.uk` | No |
 | `nachof.blog` | No |
 | `nachrichten.social` | No |
 | `nachtgeschichten.org` | No |
@@ -40357,7 +40359,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,020 |
-| Normal | 30,293 |
+| Normal | 30,295 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
