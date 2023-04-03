@@ -2049,6 +2049,7 @@ Here's a list of public Fediverse services.
 | `aoir.social` | No |
 | `aoirint.com` | No |
 | `aoitofu.net` | No |
+| `aokaga.work` | No |
 | `aonyx-cinerea.fun` | No |
 | `aoq.me` | Yes |
 | `aorinngo.ga` | No |
@@ -40356,7 +40357,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,020 |
-| Normal | 30,292 |
+| Normal | 30,293 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
