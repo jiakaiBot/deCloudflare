@@ -2543,6 +2543,7 @@ Do not create new issue or we will close it as duplicate.
 | [Denyjunial@twitter](https://twitter.com/Denyjunial/status/1571524540706226176) | advertise |
 | [Deon24535935@twitter](https://twitter.com/Deon24535935/status/1399325913121177601) | advertise |
 | [deowc10@twitter](https://twitter.com/deowc10/status/1556584196075712513) | advertise |
+| [Depanordi@twitter](https://twitter.com/Depanordi/status/1642988006356430849) | advertise |
 | [DepRed7@twitter](https://twitter.com/DepRed7/status/1395675931356766212) | advertise |
 | [derar60@twitter](https://twitter.com/derar60/status/1492629407839752201) | advertise |
 | [Deril93219597@twitter](https://twitter.com/Deril93219597/status/1385613158123900931) | advertise |
