@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,081 |
+| com | 6,083 |
 | social | 3,893 |
 | net | 3,103 |
 | org | 2,139 |
@@ -20940,7 +20940,7 @@ Here's a list of public Fediverse services.
 | `marxists.world` | No |
 | `marxlaml.de` | No |
 | `marze.social` | No |
-| `marzillier.net` | No |
+| `marzillier.net` | Yes |
 | `marzodon.social` | No |
 | `mas-to-don.be` | No |
 | `mas.ink` | No |
@@ -21486,6 +21486,7 @@ Here's a list of public Fediverse services.
 | `mastodosukoi.net` | No |
 | `mastodutchservers.com` | Yes |
 | `mastofant.de` | No |
+| `mastofeeder.com` | Yes |
 | `mastoflute.social` | Yes |
 | `mastoforce.social` | No |
 | `mastog.com` | No |
@@ -25335,6 +25336,7 @@ Here's a list of public Fediverse services.
 | `nowa.re` | No |
 | `nowheycreamery.com` | No |
 | `nowicki.io` | Yes |
+| `nowods.com` | No |
 | `nowossjolka.com` | Yes |
 | `nox-rhea.org` | No |
 | `noxblr.com` | No |
@@ -38174,7 +38176,7 @@ Here's a list of public Fediverse services.
 | `warehouse8.social` | No |
 | `wargamers.social` | No |
 | `warhammer.social` | No |
-| `wario.party` | No |
+| `wario.party` | Yes |
 | `warkr.me` | No |
 | `warlocks.wang` | No |
 | `warm.rocks` | No |
@@ -40359,8 +40361,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,025 |
-| Normal | 30,291 |
+| Cloudflare | 10,028 |
+| Normal | 30,290 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
