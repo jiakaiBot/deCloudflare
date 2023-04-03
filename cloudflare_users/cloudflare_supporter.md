@@ -2158,6 +2158,7 @@ Do not create new issue or we will close it as duplicate.
 | [Cng65233009@twitter](https://twitter.com/Cng65233009/status/1377781270332071942) | advertise |
 | [cng70573512@twitter](https://twitter.com/cng70573512/status/1392705995466448898) | advertise |
 | [Cngc28668493@twitter](https://twitter.com/Cngc28668493/status/1383781247432855562) | advertise |
+| [CngMinh69938240@twitter](https://twitter.com/CngMinh69938240/status/1642927025890680833) | advertise |
 | [CngNguy78789456@twitter](https://twitter.com/CngNguy78789456/status/1398669757096726528) | advertise |
 | [CnSakuya@twitter](https://twitter.com/CnSakuya/status/1592425946870861824) | advertise |
 | [coccocxi@twitter](https://twitter.com/coccocxi/status/1543106929311879169) | advertise |
@@ -6751,6 +6752,7 @@ Do not create new issue or we will close it as duplicate.
 | [MaxDilan10@twitter](https://twitter.com/MaxDilan10/status/1506011770242334720) | advertise |
 | [maxime_lpbgg@twitter](https://twitter.com/maxime_lpbgg/status/1592299581450207234) | advertise |
 | [maximum_speed1@twitter](https://twitter.com/maximum_speed1/status/1400619592158953478) | advertise |
+| [MaxSuwarna@twitter](https://twitter.com/MaxSuwarna/status/1642923878635950080) | advertise |
 | [MAXx256568816@twitter](https://twitter.com/MAXx256568816/status/1588570798264287232) | advertise |
 | [Maxz081@twitter](https://twitter.com/Maxz081/status/1384668008048513026) | advertise |
 | [May14396821@twitter](https://twitter.com/May14396821/status/1390941074898620416) | advertise |
