@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [After last update Cloudflare reverse proxy not working ...](https://github.com/hotio/caddy/issues/4)
+- [Problem with login via Cloudflare tunel](https://github.com/Pectojin/duplicati-client/issues/36)
 - [Unhandled exception on API errors](https://github.com/adamyodinsky/TerminalGPT/issues/22)
 - [CloudFlare issues with Cloudflare APIs in LUX data centre](https://github.com/MatBenfield/news/issues/12558)
 - [Can't add Cloudflare SSL into Nginx Proxy Manager](https://github.com/tteck/Proxmox/issues/1290)
