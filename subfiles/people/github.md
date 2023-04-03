@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Support: Camera Page snapshots not updating when accessing through Reverse Proxy (NPM)](https://github.com/blakeblackshear/frigate/issues/5902)
 - [After last update Cloudflare reverse proxy not working ...](https://github.com/hotio/caddy/issues/4)
 - [Problem with login via Cloudflare tunel](https://github.com/Pectojin/duplicati-client/issues/36)
 - [Unhandled exception on API errors](https://github.com/adamyodinsky/TerminalGPT/issues/22)
