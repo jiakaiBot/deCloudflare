@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare issues with Cloudflare APIs in LUX data centre](https://github.com/MatBenfield/news/issues/12558)
 - [Can't add Cloudflare SSL into Nginx Proxy Manager](https://github.com/tteck/Proxmox/issues/1290)
 - [403 Client Error: Forbidden for url](https://github.com/vfarid/cf-ip-scanner-py/issues/11)
 - [Exceeded current quota error but only used 0.02c out of 18](https://github.com/gragland/chatgpt-chrome-extension/issues/46)
