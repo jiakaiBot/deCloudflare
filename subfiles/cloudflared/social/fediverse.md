@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,080 |
-| social | 3,891 |
-| net | 3,101 |
+| social | 3,893 |
+| net | 3,102 |
 | org | 2,139 |
 | de | 2,030 |
 
@@ -4911,6 +4911,7 @@ Here's a list of public Fediverse services.
 | `buttersc.one` | Yes |
 | `buttonhost.net` | No |
 | `buttplug.zone` | No |
+| `butts.moe` | Yes |
 | `butts.team` | No |
 | `buttsex.restaurant` | No |
 | `butwithgod.cn` | No |
@@ -7301,6 +7302,7 @@ Here's a list of public Fediverse services.
 | `cwts.nl` | Yes |
 | `cx.cx` | Yes |
 | `cyan-blue.me` | No |
+| `cyan.wtf` | No |
 | `cyaniccerulean.com` | No |
 | `cyannyan.com` | Yes |
 | `cyano.at` | No |
@@ -8753,6 +8755,7 @@ Here's a list of public Fediverse services.
 | `djiko.net` | No |
 | `djitter.com` | No |
 | `djnrrd.com` | No |
+| `djryan.co.uk` | No |
 | `djs.social` | No |
 | `djs.to` | Yes |
 | `djsumdog.com` | No |
@@ -9927,6 +9930,7 @@ Here's a list of public Fediverse services.
 | `elses.computer` | No |
 | `elsmussols.net` | No |
 | `elsmussols.org` | No |
+| `eltakana.net` | No |
 | `elte.hu` | No |
 | `elven.pw` | No |
 | `elves.forsale` | No |
@@ -16359,6 +16363,7 @@ Here's a list of public Fediverse services.
 | `itter.xyz` | No |
 | `itu.dk` | Yes |
 | `itunix.eu` | No |
+| `itvend.eu` | No |
 | `itx.chat` | Yes |
 | `ity.org` | No |
 | `itzzen.net` | No |
@@ -19762,6 +19767,7 @@ Here's a list of public Fediverse services.
 | `livewire.io` | Yes |
 | `livid.pw` | Yes |
 | `livingblindfully.com` | No |
+| `livingblindfully.social` | No |
 | `livingdistant.com` | No |
 | `livingonlinenow.com` | No |
 | `livingunder.rocks` | No |
@@ -27841,6 +27847,7 @@ Here's a list of public Fediverse services.
 | `poboy.social` | No |
 | `pochi46.com` | No |
 | `pocka.info` | Yes |
+| `pocketbible.community` | Yes |
 | `pocketnet.app` | Yes |
 | `pocketpixels.club` | No |
 | `pocmo.social` | No |
@@ -36282,6 +36289,7 @@ Here's a list of public Fediverse services.
 | `trillion.social` | No |
 | `trillium7.com` | No |
 | `trilobite.space` | No |
+| `trinidad.social` | No |
 | `trinitium.ovh` | No |
 | `trinitron.town` | No |
 | `trinitybristol.social` | No |
@@ -38122,6 +38130,7 @@ Here's a list of public Fediverse services.
 | `walton-rivers.uk` | No |
 | `wamipets.com` | Yes |
 | `wampi.re` | No |
+| `wanadoo.fr` | No |
 | `wanakacommunityworkshop.org.nz` | No |
 | `wanda.hamburg` | No |
 | `wandel.social` | No |
@@ -38532,6 +38541,7 @@ Here's a list of public Fediverse services.
 | `whitespashe.uk` | No |
 | `whitewolfpack.com` | No |
 | `whitewomen.dog` | No |
+| `whiting.life` | Yes |
 | `whizanth.com` | Yes |
 | `whmcr.com` | Yes |
 | `whn.social` | No |
@@ -40341,8 +40351,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,013 |
-| Normal | 30,285 |
+| Cloudflare | 10,016 |
+| Normal | 30,292 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
