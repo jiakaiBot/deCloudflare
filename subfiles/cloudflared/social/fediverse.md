@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,080 |
-| social | 3,890 |
-| net | 3,100 |
+| social | 3,891 |
+| net | 3,101 |
 | org | 2,139 |
 | de | 2,030 |
 
@@ -10179,6 +10179,7 @@ Here's a list of public Fediverse services.
 | `episcodon.net` | No |
 | `epistles.xyz` | No |
 | `epistolary.org` | No |
+| `epit.no` | No |
 | `epix.icu` | Yes |
 | `epm.br` | No |
 | `epmills.com` | No |
@@ -22723,6 +22724,7 @@ Here's a list of public Fediverse services.
 | `mkr.house` | No |
 | `mktoho.social` | Yes |
 | `mku.social` | No |
+| `mkultra.me` | Yes |
 | `mkwgame.com` | Yes |
 | `ml45.net` | No |
 | `mlabouri.fr` | No |
@@ -26631,6 +26633,7 @@ Here's a list of public Fediverse services.
 | `pachyderm.party` | No |
 | `pachyderme.net` | No |
 | `pachydermsocial.org` | No |
+| `pacificnorthwest.social` | No |
 | `pacificvi.be` | No |
 | `packden.us` | No |
 | `packers.social` | No |
@@ -37548,6 +37551,7 @@ Here's a list of public Fediverse services.
 | `vergil-reality.com.au` | No |
 | `veri.dev` | Yes |
 | `verified-mastodon.org` | No |
+| `verified-staging.net` | No |
 | `verified.af` | Yes |
 | `verified.coop` | No |
 | `veriny.tf` | Yes |
@@ -40337,8 +40341,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,012 |
-| Normal | 30,282 |
+| Cloudflare | 10,013 |
+| Normal | 30,285 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
