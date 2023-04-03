@@ -2651,6 +2651,7 @@ Do not create new issue or we will close it as duplicate.
 | [DiyokeCelestine@twitter](https://twitter.com/DiyokeCelestine/status/1602692664956227584) | advertise |
 | [DJArun12@twitter](https://twitter.com/DJArun12/status/1387112679576272897) | advertise |
 | [DJasver@twitter](https://twitter.com/DJasver/status/1546441129612410882) | advertise |
+| [djdev23@twitter](https://twitter.com/djdev23/status/1642966571445354497) | advertise |
 | [djdoge69@twitter](https://twitter.com/djdoge69/status/1503225881514311680) | advertise |
 | [djfrankobarreto@twitter](https://twitter.com/djfrankobarreto/status/1619236613116293120) | advertise |
 | [DjHiggsWorld@twitter](https://twitter.com/DjHiggsWorld/status/1477789104389640192) | advertise |
