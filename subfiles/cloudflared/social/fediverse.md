@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,080 |
 | social | 3,893 |
-| net | 3,102 |
+| net | 3,103 |
 | org | 2,139 |
 | de | 2,030 |
 
@@ -5121,6 +5121,7 @@ Here's a list of public Fediverse services.
 | `campfi.rs` | Yes |
 | `campfire.website` | No |
 | `campfollow.life` | No |
+| `camph.net` | Yes |
 | `campus-it.eu` | No |
 | `campus.yokohama` | Yes |
 | `campuschat.io` | No |
@@ -40353,7 +40354,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,019 |
+| Cloudflare | 10,020 |
 | Normal | 30,291 |
 
 
