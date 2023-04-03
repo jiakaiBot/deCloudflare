@@ -4884,6 +4884,7 @@ Do not create new issue or we will close it as duplicate.
 | [jdiazfar@twitter](https://twitter.com/jdiazfar/status/1526666559053348866) | advertise |
 | [jdjs35017027@twitter](https://twitter.com/jdjs35017027/status/1489619422482337792) | advertise |
 | [jdmadeitoak@twitter](https://twitter.com/jdmadeitoak/status/1517686348785668097) | advertise |
+| [Jdndnd02230778@twitter](https://twitter.com/Jdndnd02230778/status/1642917136849944577) | advertise |
 | [jdoshdbz@twitter](https://twitter.com/jdoshdbz/status/1493785041561812995) | advertise |
 | [jdr_drich@twitter](https://twitter.com/jdr_drich/status/1380677922877448194) | advertise |
 | [JDShadowline@twitter](https://twitter.com/JDShadowline/status/1534268616476176388) | advertise |
