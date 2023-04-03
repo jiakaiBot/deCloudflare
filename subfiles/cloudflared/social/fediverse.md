@@ -1618,6 +1618,7 @@ Here's a list of public Fediverse services.
 | `amberhearts.art` | No |
 | `ambient.fm` | No |
 | `ambition.rip` | No |
+| `amble.blog` | Yes |
 | `amble.quest` | No |
 | `amblin.io` | No |
 | `ambrosia.cafe` | Yes |
@@ -19071,7 +19072,7 @@ Here's a list of public Fediverse services.
 | `leahy.dev` | Yes |
 | `lealternative.net` | No |
 | `leandr.in` | Yes |
-| `leaningleft.social` | No |
+| `leaningleft.social` | Yes |
 | `leaninto.it` | No |
 | `learn-ai-ui.jp` | No |
 | `learn-english.site` | No |
@@ -23018,6 +23019,7 @@ Here's a list of public Fediverse services.
 | `monwebsite.ch` | Yes |
 | `monz.photos` | No |
 | `moo.moe` | No |
+| `moo.nz` | No |
 | `moo.pub` | No |
 | `moobarb.club` | No |
 | `moobi.monster` | No |
@@ -28598,6 +28600,7 @@ Here's a list of public Fediverse services.
 | `pvt.is` | Yes |
 | `pwarren.id.au` | No |
 | `pwbsoft.gay` | Yes |
+| `pwei.at` | No |
 | `pwestbro.social` | No |
 | `pwet.me` | Yes |
 | `pwi.social` | No |
@@ -40334,8 +40337,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,010 |
-| Normal | 30,281 |
+| Cloudflare | 10,012 |
+| Normal | 30,282 |
 
 
 ### 24.8% of public Fediverse services are using Cloudflare.
