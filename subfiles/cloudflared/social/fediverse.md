@@ -2270,6 +2270,7 @@ Here's a list of public Fediverse services.
 | `arjanvaartjes.net` | No |
 | `arjenroos.nl` | No |
 | `arjoranta.fi` | No |
+| `arjose.org` | Yes |
 | `ark.jp` | No |
 | `ark.lu` | No |
 | `arkadi.one` | No |
@@ -12188,7 +12189,6 @@ Here's a list of public Fediverse services.
 | `frontend.social` | No |
 | `frontierfoundry.co` | No |
 | `frontrange.co` | Yes |
-| `froonix.org` | No |
 | `froop.com` | No |
 | `frootmig.net` | No |
 | `frosch03.de` | No |
@@ -15105,6 +15105,7 @@ Here's a list of public Fediverse services.
 | `hotpot.social` | No |
 | `hotspiderdemonsinyourarea.com` | No |
 | `hottake.city` | No |
+| `hottea.us` | No |
 | `hotwaru.com` | No |
 | `hotwife.social` | No |
 | `houbahouba.de` | No |
@@ -21604,6 +21605,7 @@ Here's a list of public Fediverse services.
 | `mattcannon.uk` | Yes |
 | `mattchew.ninja` | No |
 | `mattchristiansenmedia.com` | No |
+| `mattcompton.dev` | Yes |
 | `mattcrawford.me` | Yes |
 | `mattebox.social` | No |
 | `mattedwards.org` | Yes |
@@ -29948,7 +29950,7 @@ Here's a list of public Fediverse services.
 | `rjbastyr.com` | No |
 | `rjl.li` | No |
 | `rjm.id.au` | Yes |
-| `rjp.is` | No |
+| `rjp.is` | Yes |
 | `rkd.pw` | Yes |
 | `rkgk.moe` | No |
 | `rklein.com.br` | No |
@@ -40351,8 +40353,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,016 |
-| Normal | 30,292 |
+| Cloudflare | 10,019 |
+| Normal | 30,291 |
 
 
-### 24.8% of public Fediverse services are using Cloudflare.
+### 24.9% of public Fediverse services are using Cloudflare.
