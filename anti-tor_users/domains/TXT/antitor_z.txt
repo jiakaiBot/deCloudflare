@@ -634,7 +634,6 @@ link.zomato.com
 logs.ze-energy.tech
 nh-sauce-discord-bot.zeferinix.com
 p.zpa-auth.net
-phorminx-egad-v3g78m4d.zsrc.ml
 rd.zero-trust-security.de
 register.zscalertwo.net
 sberbank.sber.avito.sber.www.covid19.zdorovadytyna.com
@@ -643,6 +642,7 @@ tipengine.zoho.com
 travelassist.zurich.ca
 tsafety2023.zapweb.co.il
 valeofglamorgan.zipporah.co.uk
+vcbdfgfdg.zzux.com
 whm.zelateck.online
 www.accounting.zedwa.za.net
 www.backup.zempirestore.com
@@ -652,12 +652,15 @@ www.restorent.zeestore.co
 www.rooscontrol.zon18.click
 www.sahabafoodbank.zyotee.com
 www.steam.zser-art.hu
+www.test.dcc.zeiss.services
 www.webclient.zaidexceldesign.com
 www.whatsapp.zida.my
 www.zahnarzt-muenchen-neuperlach.de
 www.zahnarztpraxis-neukoelln.de
 www.zahnarztpraxis-talesnik.net
+www.zarfyapi.com
 www.zazzle.ca
+www.zazzle.com.au
 www.zazzle.de
 www.zeelandbusiness.nl
 www.zeistermagazine.nl
@@ -665,6 +668,7 @@ www.zengin-net-bcp1.jp
 www.zierzolab.com
 www.zillowstatic.com
 www.zimlab.com
+www.ziraatilaclama.com
 www.zomato.com
 www.zonguldakbarosu.org.tr
 www.zoogdiervereniging.nl
@@ -673,9 +677,11 @@ www.ztzhelpdesk.info
 zacrknt.si
 zagreb-apt.com
 zapach-papieru.pl
+zarfyapi.com
 zargarian.ca
 zastava-arms.rs
 zawagg.com
+zbscar.md
 zdsecurity.help
 zealdev.com.au
 zebrayouth.org
@@ -686,8 +692,13 @@ zglostrolla.pl
 zgz.nu
 zieracomp.xyz
 ziffopposer.com
+ziglar.xyz
 zigmaglobal.in
+zinamarservice.ro
 zipapi.us
+zipgenius.com
+zipgenius.it
+ziraatilaclama.com
 zksync-mainnet.us
 zmdownload-accl.zoho.com
 znitro.com
@@ -695,6 +706,7 @@ zoomingjapan.com
 zotecpartners.com
 zozo.jp
 zpost.no
+zuber-gloor.ch
 zurcherarquitectos.com
 zuriserve.africa
 acceptatie-client.zorgplatform.online
