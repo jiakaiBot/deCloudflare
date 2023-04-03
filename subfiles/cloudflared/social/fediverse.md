@@ -2640,7 +2640,7 @@ Here's a list of public Fediverse services.
 | `atravesdelcuento.es` | No |
 | `atri.ml` | No |
 | `atridad.cloud` | No |
-| `atridad.dev` | No |
+| `atridad.dev` | Yes |
 | `atrilahiji.dev` | No |
 | `atrophy.dev` | No |
 | `atroxen.com` | No |
@@ -5368,7 +5368,7 @@ Here's a list of public Fediverse services.
 | `catona.cloud` | No |
 | `catonmat.net` | No |
 | `catoptric.com` | No |
-| `catposting.agency` | No |
+| `catposting.agency` | Yes |
 | `catpowered.net` | Yes |
 | `catpp.eu` | No |
 | `catrow.net` | No |
@@ -5433,7 +5433,7 @@ Here's a list of public Fediverse services.
 | `ccqjv.com` | No |
 | `ccrvb.com` | No |
 | `ccsakura.jp` | No |
-| `cct-cpc.org` | No |
+| `cct-cpc.org` | Yes |
 | `cctracker.tk` | No |
 | `ccw.icu` | Yes |
 | `cd0.nl` | No |
@@ -18122,7 +18122,7 @@ Here's a list of public Fediverse services.
 | `kkoyung.dev` | Yes |
 | `kks36.be` | No |
 | `kksg.net` | No |
-| `kksk.one` | No |
+| `kksk.one` | Yes |
 | `kl1pp3l.de` | No |
 | `klaaspier.nl` | No |
 | `klaewyss.fr` | No |
@@ -22901,7 +22901,7 @@ Here's a list of public Fediverse services.
 | `moien.net` | No |
 | `moin.city` | No |
 | `moirai.cc` | Yes |
-| `moirai.dev` | No |
+| `moirai.dev` | Yes |
 | `moist.live` | No |
 | `moistgarbage.info` | No |
 | `moixamental.cat` | No |
@@ -36093,6 +36093,7 @@ Here's a list of public Fediverse services.
 | `touhou.cz` | No |
 | `touhou.jp` | No |
 | `touhou.party` | No |
+| `touhou.vodka` | No |
 | `touitteur.net` | Yes |
 | `toukae.com` | No |
 | `tourdeguet.fr` | No |
@@ -40358,8 +40359,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,020 |
-| Normal | 30,295 |
+| Cloudflare | 10,025 |
+| Normal | 30,291 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
