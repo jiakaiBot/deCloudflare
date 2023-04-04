@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,897 |
 | net | 3,103 |
 | org | 2,141 |
-| de | 2,030 |
+| de | 2,029 |
 
 
 - Mastodon, Pleroma, etc
@@ -4061,6 +4061,7 @@ Here's a list of public Fediverse services.
 | `bldrweb.org` | Yes |
 | `bleatbox.net` | Yes |
 | `bleauweb.net` | Yes |
+| `bleeds.info` | No |
 | `bleep.town` | Yes |
 | `bleep.zone` | No |
 | `bleepbloop.club` | No |
@@ -31083,7 +31084,6 @@ Here's a list of public Fediverse services.
 | `schreiblehrling.de` | No |
 | `schrock.social` | No |
 | `schub.social` | No |
-| `schuelerzeitung-elsensee.de` | Yes |
 | `schuerenbo.de` | No |
 | `schuerz.at` | No |
 | `schuessler.vip` | No |
@@ -40390,8 +40390,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,044 |
-| Normal | 30,303 |
+| Cloudflare | 10,043 |
+| Normal | 30,304 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
