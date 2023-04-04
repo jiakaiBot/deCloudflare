@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Mac mini M2 点击start未出现二次授权弹窗，系统托盘未出现，终端运行自动关闭](https://github.com/XX-net/XX-Net/issues/13902)
 - [Support: Camera Page snapshots not updating when accessing through Reverse Proxy (NPM)](https://github.com/blakeblackshear/frigate/issues/5902)
 - [After last update Cloudflare reverse proxy not working ...](https://github.com/hotio/caddy/issues/4)
 - [Problem with login via Cloudflare tunel](https://github.com/Pectojin/duplicati-client/issues/36)
