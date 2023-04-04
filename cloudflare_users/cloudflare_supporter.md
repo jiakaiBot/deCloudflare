@@ -821,6 +821,7 @@ Do not create new issue or we will close it as duplicate.
 | [annamy25058602@twitter](https://twitter.com/annamy25058602/status/1388149916875198468) | advertise |
 | [annein5@twitter](https://twitter.com/annein5/status/1392743216085049346) | advertise |
 | [AnnSali18@twitter](https://twitter.com/AnnSali18/status/1404425553235517443) | advertise |
+| [Anom77_@twitter](https://twitter.com/Anom77_/status/1643182758146211841) | advertise |
 | [anonymamir@twitter](https://twitter.com/anonymamir/status/1630243468021989376) | advertise |
 | [Anonymo86349012@twitter](https://twitter.com/Anonymo86349012/status/1576995192187813888) | advertise |
 | [AnonymousVideo@twitter](https://twitter.com/AnonymousVideo/status/1552591858248843264) | advertise |
@@ -5366,6 +5367,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ken08753139@twitter](https://twitter.com/Ken08753139/status/1394319640889753600) | advertise |
 | [Ken74226330@twitter](https://twitter.com/Ken74226330/status/1401414699581800455) | advertise |
 | [kenbloc08430028@twitter](https://twitter.com/kenbloc08430028/status/1401742984433917955) | advertise |
+| [kengjii@twitter](https://twitter.com/kengjii/status/1643179950290403329) | advertise |
 | [kenguimond1@twitter](https://twitter.com/kenguimond1/status/1483616511553990656) | advertise |
 | [kenhnhacsan@twitter](https://twitter.com/kenhnhacsan/status/1375658471224320000) | advertise |
 | [KenKawai0@twitter](https://twitter.com/KenKawai0/status/1377570971159126020) | advertise |
@@ -6240,6 +6242,7 @@ Do not create new issue or we will close it as duplicate.
 | [linthetpaingltp@twitter](https://twitter.com/linthetpaingltp/status/1390244063987830784) | advertise |
 | [linthitmyowin@twitter](https://twitter.com/linthitmyowin/status/1395258884621668354) | advertise |
 | [LinThu30135420@twitter](https://twitter.com/LinThu30135420/status/1552655372779155456) | advertise |
+| [Linya60353656@twitter](https://twitter.com/Linya60353656/status/1643185104918036480) | advertise |
 | [LinzeeFaith@twitter](https://twitter.com/LinzeeFaith/status/1581749163620200449) | advertise |
 | [Lin_Jaiant@twitter](https://twitter.com/Lin_Jaiant/status/1377974149759475712) | advertise |
 | [lionel_lwin@twitter](https://twitter.com/lionel_lwin/status/1475844957214625793) | advertise |
@@ -6293,6 +6296,7 @@ Do not create new issue or we will close it as duplicate.
 | [LNhnHong1@twitter](https://twitter.com/LNhnHong1/status/1400851165248585730) | advertise |
 | [LNinh19111999@twitter](https://twitter.com/LNinh19111999/status/1552011202741489664) | advertise |
 | [lnspectorRex@twitter](https://twitter.com/lnspectorRex/status/1545829075016732672) | advertise |
+| [LoanHun91363699@twitter](https://twitter.com/LoanHun91363699/status/1643160466737475584) | advertise |
 | [locomoco_28@twitter](https://twitter.com/locomoco_28/status/1630791856131907584) | advertise |
 | [Loctran78766971@twitter](https://twitter.com/Loctran78766971/status/1378360177724776450) | advertise |
 | [loftwah@twitter](https://twitter.com/loftwah/status/1426153321882996737) | advertise |
@@ -10946,8 +10950,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
