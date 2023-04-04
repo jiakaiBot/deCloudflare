@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,083 |
-| social | 3,893 |
+| com | 6,084 |
+| social | 3,894 |
 | net | 3,103 |
 | org | 2,139 |
 | de | 2,030 |
@@ -10036,7 +10036,7 @@ Here's a list of public Fediverse services.
 | `encircle.cc` | No |
 | `encode42.dev` | Yes |
 | `encom.social` | No |
-| `encrypted-data.xyz` | Yes |
+| `encrypted-data.xyz` | No |
 | `encryptionin.space` | No |
 | `encryptomatic.com` | No |
 | `encryptr.net` | No |
@@ -13900,6 +13900,7 @@ Here's a list of public Fediverse services.
 | `gusballard.com` | No |
 | `guse.fr` | No |
 | `gusl.org` | Yes |
+| `gustavlindqvist.se` | Yes |
 | `gustavosousa.eu` | No |
 | `gutewebsites.social` | No |
 | `gutsux.com` | No |
@@ -16780,6 +16781,7 @@ Here's a list of public Fediverse services.
 | `jeremyrenner.club` | No |
 | `jeremysarber.com` | Yes |
 | `jergefelt.se` | No |
+| `jerl.zone` | Yes |
 | `jeroened.be` | Yes |
 | `jeroenpraat.nl` | Yes |
 | `jeroensangers.com` | No |
@@ -17369,6 +17371,7 @@ Here's a list of public Fediverse services.
 | `kaa.bz` | No |
 | `kaaa.ren` | No |
 | `kaak.online` | No |
+| `kaak.social` | No |
 | `kaam.biz` | Yes |
 | `kaaosunlimited.fi` | No |
 | `kaartinen.photos` | Yes |
@@ -17799,6 +17802,7 @@ Here's a list of public Fediverse services.
 | `kern.pm` | No |
 | `kern.social` | No |
 | `kernel-lithium.xyz` | No |
+| `kernel-panic.lol` | No |
 | `kernel.org` | Yes |
 | `kernel.social` | No |
 | `kernel32.de` | No |
@@ -25923,6 +25927,7 @@ Here's a list of public Fediverse services.
 | `olympus.blog` | Yes |
 | `om.gay` | No |
 | `om.nom.pl` | No |
+| `omada.cafe` | Yes |
 | `omaelse.de` | No |
 | `omaera.org` | No |
 | `omani.social` | No |
@@ -35560,7 +35565,7 @@ Here's a list of public Fediverse services.
 | `timmorgner.de` | No |
 | `timmot.com` | No |
 | `timmymcb.social` | Yes |
-| `timnolte.com` | No |
+| `timnolte.com` | Yes |
 | `timodo.de` | Yes |
 | `timoheider.de` | No |
 | `timotheejulien.fr` | No |
@@ -39149,6 +39154,7 @@ Here's a list of public Fediverse services.
 | `xa0.uk` | Yes |
 | `xabid.com` | No |
 | `xabirequejo.eus` | No |
+| `xadacka.com` | Yes |
 | `xaetacore.net` | No |
 | `xajh.org` | Yes |
 | `xalapacode.com` | No |
@@ -40361,8 +40367,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,028 |
-| Normal | 30,290 |
+| Cloudflare | 10,032 |
+| Normal | 30,292 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
