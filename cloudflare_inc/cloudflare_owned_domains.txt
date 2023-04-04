@@ -36,6 +36,7 @@ mycloudflare.com
 one.one
 pacloudflare.com
 pages.dev
+r2.dev
 trycloudflare.com
 warp.plus
 workers.dev
