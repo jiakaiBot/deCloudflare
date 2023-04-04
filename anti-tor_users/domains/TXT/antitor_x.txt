@@ -328,6 +328,7 @@ xvzx.website
 xydipc.cn
 xynythcorp.com
 yapimu.xgane.com
+bidagent.xad.com
 captcha.xcount.io
 contao.xn--brnings-o2a.de
 cpanel.xn--gogl-8oa1d.com
@@ -344,6 +345,7 @@ gedichte.xbib.de
 git.gitlab.gitlab.gitlab.accounts.xn--90agd6c8b.xn--p1ai
 gitlab.gitlab.git.gitlab.amazon.xn----7sbaaqljcz0b6au4k.xn--p1ai
 hk.xanforce.xyz
+hotline.xfab.com
 kenneth1.home.xs4all.nl
 media.xiqabm.com
 moneyfactory.xaa.pl
@@ -363,13 +365,17 @@ webmail.xn--gogl-8oa1d.com
 www.hasupport.xn--ogbza6bb.com
 www.restauservice.xtechsoftwarelib.com
 www.support-findmylocation.com.xhinekit-pro.com
+www.whatsapp.xn--quinceaos-r6a.es
 www.xcubelabs.com
 www.xeroxmoney.com
 www.xn--airbnbvrter-g9a.dk
 www.xn--billigste-bredbnd-nrb.dk
+www.xn--courtier-crdits-assurances-clisson-l9c.fr
 www.xn--denizgneykurt-1ob.com.tr
 www.xn--glasgonbgar-48a0t.se
 www.xn--mainzer-gebudereinigungsservice-0vc.de
+www.yaniresources.xpresslinkservice.com
+www.zamzamvpn.xtomastech.com
 x-controls.no
 x8club.asia
 xabid.com
@@ -383,8 +389,10 @@ xiegu.eu
 xiicomic.com
 xn--airbnbvrter-g9a.dk
 xn--billigste-bredbnd-nrb.dk
+xn--courtier-crdits-assurances-clisson-l9c.fr
 xn--hndverkerservice-dob.no
 xn--mainzer-gebudereinigungsservice-0vc.de
+xn--mtawin-w4a.com
 xn--regnskapsfrerpris-90b.no
 xn--t8j6c6de7a4051bxgdpu2o.net
 xn--webducation-dbb.com
