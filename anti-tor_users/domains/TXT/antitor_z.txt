@@ -612,15 +612,20 @@ api.zoolife.live
 api.zs-clinical-study-feasibility.dev.zsservices.com
 aws-staging.zeroq.cl
 aws-traefik.zeroq.cl
+beacon.ztgame.com
+blablacar.git.gitlab.gitlab.gitlab.git.covid19.zalive-akvilon.ru
 cardiff.zipporah.co.uk
 click.mail.zillow.com
 collaborateuat.zyter.net
 comoganardinero.z4k.org
 control.zonehost.es
 controlcenter.zenimpact.io
+corsoitaliano.zedlemon.com
 dev.zivileingeneure.eu
 discord.notifications.prod.k8services.zenno.io
+edi-api.zerionlabs.com
 es-logs.prod-cluster.zedge.io
+fxdhbfghfy.zzux.com
 gateway.zscalergov.net
 gog-ws.zt-archiv.at
 happless-api-prod.zeitfracht.digital
@@ -632,10 +637,12 @@ keycloak.zzieut.com
 koala.zetadns.net
 link.zomato.com
 logs.ze-energy.tech
+monitoring.goldberry.zehka.net
 nh-sauce-discord-bot.zeferinix.com
 p.zpa-auth.net
 rd.zero-trust-security.de
 register.zscalertwo.net
+sberbank.avito.blablacar.blablacar.covid19.zepter-catalog.ru
 sberbank.sber.avito.sber.www.covid19.zdorovadytyna.com
 static.ctw.zusapi.com
 tipengine.zoho.com
@@ -646,6 +653,7 @@ vcbdfgfdg.zzux.com
 whm.zelateck.online
 www.accounting.zedwa.za.net
 www.backup.zempirestore.com
+www.corsoitaliano.zedlemon.com
 www.papinkapost.zonabangsa.com
 www.post.zogla.com
 www.restorent.zeestore.co
@@ -655,6 +663,7 @@ www.steam.zser-art.hu
 www.test.dcc.zeiss.services
 www.webclient.zaidexceldesign.com
 www.whatsapp.zida.my
+www.zahnarzt-kuepper-hermes.de
 www.zahnarzt-muenchen-neuperlach.de
 www.zahnarztpraxis-neukoelln.de
 www.zahnarztpraxis-talesnik.net
@@ -662,6 +671,7 @@ www.zarfyapi.com
 www.zazzle.ca
 www.zazzle.com.au
 www.zazzle.de
+www.zee5.com
 www.zeelandbusiness.nl
 www.zeistermagazine.nl
 www.zengin-net-bcp1.jp
@@ -674,6 +684,7 @@ www.zonguldakbarosu.org.tr
 www.zoogdiervereniging.nl
 www.zoya.in
 www.ztzhelpdesk.info
+www.zwillgen.com
 zacrknt.si
 zagreb-apt.com
 zapach-papieru.pl
@@ -685,11 +696,13 @@ zbscar.md
 zdsecurity.help
 zealdev.com.au
 zebrayouth.org
+zeldacw.com
 zenflo.org
 zerocomix.com
 zeydil.uz
 zglostrolla.pl
 zgz.nu
+ziaristi.ro
 zieracomp.xyz
 ziffopposer.com
 ziglar.xyz
@@ -704,6 +717,7 @@ zmdownload-accl.zoho.com
 znitro.com
 zoomingjapan.com
 zotecpartners.com
+zoubicuties.site
 zozo.jp
 zpost.no
 zuber-gloor.ch
