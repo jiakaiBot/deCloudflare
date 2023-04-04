@@ -9447,6 +9447,7 @@ Do not create new issue or we will close it as duplicate.
 | [RidhiyaAulia@twitter](https://twitter.com/RidhiyaAulia/status/1637857799442165761) | advertise |
 | [rifat_wp@twitter](https://twitter.com/rifat_wp/status/1512383768124071938) | advertise |
 | [Right71407038@twitter](https://twitter.com/Right71407038/status/1377305531769974790) | advertise |
+| [RihanMalik70304@twitter](https://twitter.com/RihanMalik70304/status/1643201086763991040) | advertise |
 | [RimonIs52049086@twitter](https://twitter.com/RimonIs52049086/status/1480451386680639488) | advertise |
 | [Rin98111380@twitter](https://twitter.com/Rin98111380/status/1395429981451284485) | advertise |
 | [rinluv0@twitter](https://twitter.com/rinluv0/status/1391460195566559233) | advertise |
