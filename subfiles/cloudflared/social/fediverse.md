@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,084 |
+| com | 6,085 |
 | social | 3,895 |
 | net | 3,103 |
 | org | 2,140 |
@@ -9806,7 +9806,7 @@ Here's a list of public Fediverse services.
 | `eldritch.cafe` | No |
 | `eldritch.gift` | No |
 | `eldritchworld.nom.es` | No |
-| `electrafish.tech` | No |
+| `electrafish.tech` | Yes |
 | `electrek.co` | No |
 | `electric-goat.net` | No |
 | `electriceye.info` | No |
@@ -34286,6 +34286,7 @@ Here's a list of public Fediverse services.
 | `talesofmy.life` | No |
 | `talesofterror.eu` | No |
 | `talilah.de` | No |
+| `talk-here.com` | No |
 | `talk.coffee` | No |
 | `talk2machines.tech` | Yes |
 | `talkabout.cf` | No |
@@ -40377,7 +40378,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,033 |
+| Cloudflare | 10,034 |
 | Normal | 30,301 |
 
 
