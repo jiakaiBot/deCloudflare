@@ -3054,6 +3054,7 @@ Do not create new issue or we will close it as duplicate.
 | [enesphp@twitter](https://twitter.com/enesphp/status/1402188376867065863) | advertise |
 | [EngAlexMusic1@twitter](https://twitter.com/EngAlexMusic1/status/1526159260509515776) | advertise |
 | [Engineer_7oda@twitter](https://twitter.com/Engineer_7oda/status/1540451421069484033) | advertise |
+| [engineer_dawood@twitter](https://twitter.com/engineer_dawood/status/1643058625458614280) | advertise |
 | [Engku_Badrul@twitter](https://twitter.com/Engku_Badrul/status/1626609935210659840) | advertise |
 | [EnglishExam4@twitter](https://twitter.com/EnglishExam4/status/1609895978449895425) | advertise |
 | [engmawia_23@twitter](https://twitter.com/engmawia_23/status/1383721139730481156) | advertise |
