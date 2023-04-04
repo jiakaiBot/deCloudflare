@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,085 |
+| com | 6,087 |
 | social | 3,895 |
 | net | 3,103 |
 | org | 2,140 |
@@ -2051,7 +2051,7 @@ Here's a list of public Fediverse services.
 | `aoir.social` | No |
 | `aoirint.com` | No |
 | `aoitofu.net` | No |
-| `aokaga.work` | No |
+| `aokaga.work` | Yes |
 | `aonyx-cinerea.fun` | No |
 | `aoq.me` | Yes |
 | `aorinngo.ga` | No |
@@ -17397,6 +17397,7 @@ Here's a list of public Fediverse services.
 | `kadono.moe` | No |
 | `kae.lt` | Yes |
 | `kaeablog.pl` | No |
+| `kaede-yumeno.com` | Yes |
 | `kaede.ch` | Yes |
 | `kaede.im` | No |
 | `kaelig.ovh` | No |
@@ -22554,6 +22555,7 @@ Here's a list of public Fediverse services.
 | `miri.site` | No |
 | `miri64.xyz` | No |
 | `miria.love` | No |
+| `mirial.jp` | No |
 | `mirko-schenk.de` | No |
 | `mirkwood.io` | No |
 | `miro-sv.net` | No |
@@ -23677,6 +23679,7 @@ Here's a list of public Fediverse services.
 | `musikkapellebuxheim.de` | No |
 | `musing.studio` | No |
 | `musingsofanaspie.com` | No |
+| `musingsofaswitch.com` | No |
 | `musiq.fan` | Yes |
 | `muskless.social` | No |
 | `muskodon.ml` | No |
@@ -31987,7 +31990,7 @@ Here's a list of public Fediverse services.
 | `simcu.com` | No |
 | `simeckuv.cloud` | No |
 | `simian.rodeo` | Yes |
-| `simio.us` | No |
+| `simio.us` | Yes |
 | `simionato.xyz` | Yes |
 | `simkey.net` | Yes |
 | `simmulation.com` | No |
@@ -40378,7 +40381,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,034 |
+| Cloudflare | 10,037 |
 | Normal | 30,301 |
 
 
