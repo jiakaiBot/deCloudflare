@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Connection issues while Hosting](https://github.com/TUMFARSynchrony/experimental-hub/issues/49)
 - [Secure Renegotiation IS NOT supported](https://github.com/getdnsapi/stubby/issues/338)
 - [how to set backblaze+cf for File upload backends](https://github.com/zulip/zulip/issues/24981)
 - [Mac mini M2 点击start未出现二次授权弹窗，系统托盘未出现，终端运行自动关闭](https://github.com/XX-net/XX-Net/issues/13902)
