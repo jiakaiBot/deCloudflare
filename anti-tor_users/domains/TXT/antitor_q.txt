@@ -336,6 +336,7 @@ device.app.qbee.io
 discourse.q2r.net
 dpvverify.saas.devshared.ondemand.qas.com
 enyl.us1.qeadaptiveauth.com
+gsf7rfh.qhigh.com
 guide.standardclub.questmarine.app
 idp.desktopdev.quicktools.cloud
 jspassport.ssl.qhimg.com
@@ -348,6 +349,7 @@ qalmoco.quicksoft.com.br
 qamahcenter.com
 qcom.co.uk
 qhsealert.com
+qoloran.store
 qqsafety.com
 qqslot77.asia
 qsafe.com.qa
@@ -358,6 +360,7 @@ quantumdelta.nl
 quantumdyno.com
 quarzo-cloud-e05.quarzo.com
 qudi.ni
+questssn.com
 quick2credit.com
 quicklearnvirtual.com
 quoli.bet
@@ -365,6 +368,7 @@ quoteinvestigator.com
 s.ssl.qhres2.com
 services.qtc.co.th
 shopkonzept.quikfox-lab.com
+soytest.quarissoluciones.com
 starsona-dev.qburst.build
 webhook.github.dev.qualia.io
 webhooks.github-source.service.eu-west-1.quokka.codes
@@ -374,6 +378,8 @@ www.davrbank.qr-api.net
 www.docs.qr-invoice.ch
 www.employee.q-works.id
 www.qantasnewsroom.com.au
+www.qcsso.com
+www.qcsso.org
 www.qehconnect.com
 www.qnap.com
 www.quakeroats.com
