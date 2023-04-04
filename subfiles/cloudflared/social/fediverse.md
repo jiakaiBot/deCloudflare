@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,087 |
-| social | 3,895 |
+| social | 3,896 |
 | net | 3,103 |
 | org | 2,140 |
 | de | 2,030 |
@@ -34185,6 +34185,7 @@ Here's a list of public Fediverse services.
 | `tab-e.de` | No |
 | `tabakai.com` | No |
 | `tabathawood.com` | No |
+| `tabi-yume.jp` | No |
 | `tabinezumi.net` | No |
 | `tabletcorry.com` | Yes |
 | `tabletop.garden` | No |
@@ -34292,6 +34293,7 @@ Here's a list of public Fediverse services.
 | `talk-here.com` | No |
 | `talk.coffee` | No |
 | `talk2machines.tech` | Yes |
+| `talka.social` | Yes |
 | `talkabout.cf` | No |
 | `talkative.fish` | No |
 | `talkbet.org` | Yes |
@@ -37708,7 +37710,7 @@ Here's a list of public Fediverse services.
 | `vigilante.tv` | No |
 | `vigilian-consulting.nl` | No |
 | `vignat.org` | No |
-| `viid.ga` | Yes |
+| `viid.ga` | No |
 | `viidalepp.me` | No |
 | `viisphere.me` | Yes |
 | `vikavo.lt` | No |
@@ -40382,7 +40384,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,037 |
-| Normal | 30,301 |
+| Normal | 30,303 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
