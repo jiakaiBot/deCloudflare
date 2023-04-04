@@ -13175,7 +13175,7 @@ Here's a list of public Fediverse services.
 | `givel.fr` | No |
 | `givelotus.life` | No |
 | `giveupalready.com` | No |
-| `gizm0.dev` | No |
+| `gizm0.dev` | Yes |
 | `gizz.family` | No |
 | `gjallarhorn.dev` | No |
 | `gjcloak.top` | No |
@@ -37034,6 +37034,7 @@ Here's a list of public Fediverse services.
 | `underworld.fr` | No |
 | `underworld.social` | Yes |
 | `underza.net` | No |
+| `undfnd.dev` | Yes |
 | `undisruptable.technology` | No |
 | `undo.it` | Yes |
 | `undrground.org` | Yes |
@@ -40383,8 +40384,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,037 |
-| Normal | 30,303 |
+| Cloudflare | 10,039 |
+| Normal | 30,302 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
