@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,087 |
-| social | 3,896 |
+| com | 6,089 |
+| social | 3,897 |
 | net | 3,103 |
-| org | 2,140 |
+| org | 2,141 |
 | de | 2,030 |
 
 
@@ -7563,6 +7563,7 @@ Here's a list of public Fediverse services.
 | `dailywebthing.com` | No |
 | `dain.moe` | Yes |
 | `dair-community.social` | No |
+| `dair-institute.org` | Yes |
 | `daishouri.moe` | No |
 | `daize.xin` | No |
 | `daizhige.org` | No |
@@ -12078,6 +12079,7 @@ Here's a list of public Fediverse services.
 | `freyhult.net` | No |
 | `freyrlepage.com` | Yes |
 | `freyssi.net` | No |
+| `fribbledom.com` | No |
 | `fribygda.no` | No |
 | `fricci.dev` | No |
 | `frichetten.com` | No |
@@ -13128,6 +13130,7 @@ Here's a list of public Fediverse services.
 | `gimp.chat` | No |
 | `ginatic.social` | No |
 | `gingadon.com` | Yes |
+| `gingerbook.com` | No |
 | `ginju.de` | No |
 | `ginnannman.com` | Yes |
 | `ginny.chat` | No |
@@ -22639,6 +22642,7 @@ Here's a list of public Fediverse services.
 | `misskey.oita.jp` | No |
 | `misskey.online` | Yes |
 | `misskey.pm` | No |
+| `misskey.pro` | Yes |
 | `misskey.rip` | No |
 | `misskey.site` | No |
 | `misskey.social` | No |
@@ -29906,6 +29910,7 @@ Here's a list of public Fediverse services.
 | `rikka-zine.jp` | No |
 | `rikmeijer.nl` | No |
 | `rikozone.net` | No |
+| `riku1227.social` | Yes |
 | `rikunagiweb.jp` | Yes |
 | `rikvoj.tech` | Yes |
 | `rikwithnoc.com` | Yes |
@@ -40385,8 +40390,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,041 |
-| Normal | 30,301 |
+| Cloudflare | 10,044 |
+| Normal | 30,303 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
