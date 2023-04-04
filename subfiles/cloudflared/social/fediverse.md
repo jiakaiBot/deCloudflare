@@ -18459,7 +18459,7 @@ Here's a list of public Fediverse services.
 | `kozlovsky.institute` | Yes |
 | `kozterulethasznalatienge.day` | No |
 | `kpc.bz` | Yes |
-| `kpherox.dev` | No |
+| `kpherox.dev` | Yes |
 | `kpodon.jp` | No |
 | `kpop.social` | Yes |
 | `kpopjp.net` | No |
@@ -38046,6 +38046,7 @@ Here's a list of public Fediverse services.
 | `w-2.io` | No |
 | `w00f.org` | No |
 | `w0lfr.net` | Yes |
+| `w0rkupa.me` | Yes |
 | `w0rmh0le.net` | No |
 | `w1cdn.net` | No |
 | `w1ke.cz` | No |
@@ -40384,8 +40385,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,039 |
-| Normal | 30,302 |
+| Cloudflare | 10,041 |
+| Normal | 30,301 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
