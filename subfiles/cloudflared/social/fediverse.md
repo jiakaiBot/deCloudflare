@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,084 |
 | social | 3,894 |
 | net | 3,103 |
-| org | 2,139 |
+| org | 2,140 |
 | de | 2,030 |
 
 
@@ -14317,6 +14317,7 @@ Here's a list of public Fediverse services.
 | `havlow.com` | Yes |
 | `hawaga.org.uk` | No |
 | `hawaii247.social` | No |
+| `hawaiiboy.me` | No |
 | `hawaiidiff.com` | No |
 | `hawk.life` | Yes |
 | `hawkes.cc` | Yes |
@@ -16467,6 +16468,7 @@ Here's a list of public Fediverse services.
 | `jackscott.id.au` | Yes |
 | `jacksgloryhole.com` | No |
 | `jacksonchen666.com` | No |
+| `jacksonhomestead.me` | No |
 | `jackspangler.xyz` | No |
 | `jacksplace.dk` | No |
 | `jackvcurtis.com` | No |
@@ -18791,6 +18793,7 @@ Here's a list of public Fediverse services.
 | `lacking.fun` | No |
 | `lacko.network` | Yes |
 | `lackthereof.info` | No |
+| `laclameur.org` | No |
 | `lacolaco.net` | No |
 | `lacoloc.cafe` | No |
 | `lacommune.social` | Yes |
@@ -20405,6 +20408,7 @@ Here's a list of public Fediverse services.
 | `m213.xyz` | Yes |
 | `m2hq.net` | No |
 | `m3o.org` | Yes |
+| `m3press.jp` | No |
 | `m400cloud.com` | No |
 | `m4570.xyz` | No |
 | `m4rc3l.de` | Yes |
@@ -37070,6 +37074,7 @@ Here's a list of public Fediverse services.
 | `uninform.at` | No |
 | `uninsane.org` | No |
 | `union.place` | No |
+| `union.sh` | No |
 | `unipar.online` | No |
 | `unipd.it` | Yes |
 | `unir.se` | No |
@@ -40368,7 +40373,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,032 |
-| Normal | 30,292 |
+| Normal | 30,297 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
