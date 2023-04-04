@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,084 |
-| social | 3,894 |
+| social | 3,895 |
 | net | 3,103 |
 | org | 2,140 |
 | de | 2,030 |
@@ -744,6 +744,7 @@ Here's a list of public Fediverse services.
 | `abeardedqueer.com` | No |
 | `abend.social` | No |
 | `aber-ehub.org.uk` | No |
+| `aberrantwinds.bond` | No |
 | `abf.li` | Yes |
 | `abfalleimer.org` | No |
 | `abga.be` | No |
@@ -9237,6 +9238,7 @@ Here's a list of public Fediverse services.
 | `dryusdan.fr` | No |
 | `ds106.us` | Yes |
 | `dsanj.org` | No |
+| `dsausa.social` | No |
 | `dsbeans.com` | Yes |
 | `dsc.sh` | Yes |
 | `dschns.com` | No |
@@ -20223,6 +20225,7 @@ Here's a list of public Fediverse services.
 | `ludikovsky.name` | No |
 | `ludim.us` | No |
 | `ludosphere.fr` | No |
+| `luemy.eu` | No |
 | `luetzerath.rip` | No |
 | `lufimianet.jp` | No |
 | `lug.sh` | Yes |
@@ -20874,6 +20877,7 @@ Here's a list of public Fediverse services.
 | `mariustimmer.de` | No |
 | `marivron.com` | No |
 | `mark-metz.com` | No |
+| `markbrown.au` | Yes |
 | `markcp.com` | No |
 | `markdixon.name` | No |
 | `markdon.ml` | No |
@@ -36374,6 +36378,7 @@ Here's a list of public Fediverse services.
 | `tromsocial.com` | No |
 | `tromsocial.tk` | No |
 | `tron.buzz` | No |
+| `trondheim.town` | No |
 | `tronic-studio.com` | No |
 | `troo.tube` | No |
 | `troopers.agency` | No |
@@ -40372,8 +40377,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,032 |
-| Normal | 30,297 |
+| Cloudflare | 10,033 |
+| Normal | 30,301 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
