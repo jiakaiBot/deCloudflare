@@ -3611,6 +3611,7 @@ Do not create new issue or we will close it as duplicate.
 | [grock_in@twitter](https://twitter.com/grock_in/status/1494612874135805970) | advertise |
 | [ground4me@twitter](https://twitter.com/ground4me/status/1642172020883603456) | advertise |
 | [grublabapp@twitter](https://twitter.com/grublabapp/status/1405904308852375553) | advertise |
+| [GrupaPiotrus@twitter](https://twitter.com/GrupaPiotrus/status/1643137979999715328) | advertise |
 | [gsdryfruits@twitter](https://twitter.com/gsdryfruits/status/1428265726851301377) | advertise |
 | [GTR24h@twitter](https://twitter.com/GTR24h/status/1503758901002526723) | advertise |
 | [Gtway2Morocco@twitter](https://twitter.com/Gtway2Morocco/status/1492266825681448960) | advertise |
