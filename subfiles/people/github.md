@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Call to a member function getChat() on null](https://github.com/LiveHelperChat/telegram/issues/43)
+- [multipart upload issues with Cloudflare R2](https://github.com/distribution/distribution/issues/3873)
+- [CloudFlare pages support (severless)?](https://github.com/louislam/uptime-kuma/issues/3026)
 - [question: How to issue SSL certificate with Docker version](https://github.com/apitable/apitable/issues/679)
 - [Connection issues while Hosting](https://github.com/TUMFARSynchrony/experimental-hub/issues/49)
 - [Secure Renegotiation IS NOT supported](https://github.com/getdnsapi/stubby/issues/338)
