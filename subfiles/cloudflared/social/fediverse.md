@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,897 |
 | net | 3,103 |
 | org | 2,141 |
-| de | 2,029 |
+| de | 2,030 |
 
 
 - Mastodon, Pleroma, etc
@@ -2687,6 +2687,7 @@ Here's a list of public Fediverse services.
 | `audreywatters.com` | Yes |
 | `auf1.eu` | No |
 | `aufdeine.art` | Yes |
+| `aufeinohr.de` | No |
 | `auge.cat` | No |
 | `augendre.info` | No |
 | `augsburg.social` | No |
@@ -23291,7 +23292,7 @@ Here's a list of public Fediverse services.
 | `mrkal.fi` | Yes |
 | `mrkapowski.com` | Yes |
 | `mrkiddle.co.uk` | No |
-| `mrkod.com` | No |
+| `mrkod.com` | Yes |
 | `mrks.network` | Yes |
 | `mrls.xyz` | Yes |
 | `mrlungshot.com` | Yes |
@@ -32853,6 +32854,7 @@ Here's a list of public Fediverse services.
 | `southtyrol.dev` | No |
 | `southtyrol.social` | Yes |
 | `southware.ir` | Yes |
+| `southwesterly.co` | No |
 | `souverainete-numerique.info` | No |
 | `sov.run` | No |
 | `sovereign.lgbt` | Yes |
@@ -40390,8 +40392,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,043 |
-| Normal | 30,304 |
+| Cloudflare | 10,044 |
+| Normal | 30,305 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
