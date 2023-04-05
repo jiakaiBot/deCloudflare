@@ -478,6 +478,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ajimarshal147@twitter](https://twitter.com/Ajimarshal147/status/1546320827251048448) | advertise |
 | [AjiPamu85328045@twitter](https://twitter.com/AjiPamu85328045/status/1553241874751959040) | advertise |
 | [Ajithku52523413@twitter](https://twitter.com/Ajithku52523413/status/1397545056177836034) | advertise |
+| [Ajmal57300251@twitter](https://twitter.com/Ajmal57300251/status/1643647534999404546) | advertise |
 | [AKAAD99@twitter](https://twitter.com/AKAAD99/status/1564399506875195392) | advertise |
 | [Akane81517314@twitter](https://twitter.com/Akane81517314/status/1385157407320395776) | advertise |
 | [Akar67545006@twitter](https://twitter.com/Akar67545006/status/1390752582860107778) | advertise |
@@ -2231,8 +2232,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -2556,6 +2557,7 @@ Do not create new issue or we will close it as duplicate.
 | [desertdog99@twitter](https://twitter.com/desertdog99/status/1405382173734014983) | advertise |
 | [designjazzltd@twitter](https://twitter.com/designjazzltd/status/1518899539452866561) | advertise |
 | [DesignsShujaa@twitter](https://twitter.com/DesignsShujaa/status/1501718865868300289) | advertise |
+| [desmondphyo@twitter](https://twitter.com/desmondphyo/status/1643661177459703810) | advertise |
 | [detikepri@twitter](https://twitter.com/detikepri/status/1448139774171103239) | advertise |
 | [detviler8u8@twitter](https://twitter.com/detviler8u8/status/1529887094285340676) | advertise |
 | [DeukGu2@twitter](https://twitter.com/DeukGu2/status/1394341921418620935) | advertise |
@@ -10368,6 +10370,7 @@ Do not create new issue or we will close it as duplicate.
 | [SparrowsHawk1@twitter](https://twitter.com/SparrowsHawk1/status/1395590998135242757) | advertise |
 | [Sparsh7_cr@twitter](https://twitter.com/Sparsh7_cr/status/1395302496545828874) | advertise |
 | [SPdater@twitter](https://twitter.com/SPdater/status/1481116533661528067) | advertise |
+| [SpeedReflexes@twitter](https://twitter.com/SpeedReflexes/status/1643654738313986049) | advertise |
 | [SpiderShibaInu@twitter](https://twitter.com/SpiderShibaInu/status/1634947789070405634) | advertise |
 | [SpideyPlays3@twitter](https://twitter.com/SpideyPlays3/status/1541471763024023553) | advertise |
 | [Spidy92846158@twitter](https://twitter.com/Spidy92846158/status/1634902456105828352) | advertise |
