@@ -15798,7 +15798,7 @@ Here's a list of public Fediverse services.
 | `indec.net.in` | No |
 | `indefinitely.social` | No |
 | `independent-media.co.uk` | Yes |
-| `independent.ovh` | No |
+| `independent.ovh` | Yes |
 | `indesirable.org` | No |
 | `index.community` | No |
 | `indexof.co.uk` | No |
@@ -34100,6 +34100,7 @@ Here's a list of public Fediverse services.
 | `syncloud.it` | No |
 | `syncpundit.io` | Yes |
 | `syndae.de` | No |
+| `syndicat.chat` | No |
 | `syndicatdinitiatives.org` | No |
 | `synerate.com` | Yes |
 | `synergetic-design.com` | No |
@@ -40411,7 +40412,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,049 |
+| Cloudflare | 10,050 |
 | Normal | 30,319 |
 
 
