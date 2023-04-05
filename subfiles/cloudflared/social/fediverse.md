@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,090 |
-| social | 3,900 |
+| social | 3,901 |
 | net | 3,103 |
 | org | 2,141 |
 | de | 2,031 |
@@ -6735,6 +6735,7 @@ Here's a list of public Fediverse services.
 | `corgi.farm` | No |
 | `corgi.social` | No |
 | `corgis.social` | Yes |
+| `corkboard.social` | No |
 | `corklabdon.com` | No |
 | `corn.social` | No |
 | `corneill.es` | No |
@@ -40407,7 +40408,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,047 |
-| Normal | 30,316 |
+| Normal | 30,317 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
