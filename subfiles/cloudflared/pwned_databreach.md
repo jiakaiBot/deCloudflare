@@ -74,7 +74,7 @@ Here's a list of breached sites.
 | BTCE (BTC-E) | 568,340 | No |
 | BTSec (Bitcoin Security Forum Gmail Dump) | 4,789,599 | No |
 | BabyNames (Baby Names) | 846,742 | No |
-| Badoo | 112,005,531 | No |
+| Badoo | 112,005,531 | Yes |
 | BannerBit | 213,415 | Yes |
 | Banorte | 2,107,000 | Yes |
 | BattlefieldHeroes (Battlefield Heroes) | 530,270 | No |
@@ -248,6 +248,7 @@ Here's a list of breached sites.
 | Gawker | 1,247,574 | No |
 | GeekedIn | 1,073,164 | No |
 | Gemini | 5,274,214 | Yes |
+| GenesisMarket (Genesis Market) | 8,000,000 | No |
 | GeniusU | 1,301,460 | Yes |
 | GetRevengeOnYourEx (Get Revenge On Your Ex) | 79,195 | No |
 | Gett (Ge.tt) | 2,481,121 | No |
@@ -660,10 +661,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 348 | 3,847,020,060 |
-| Normal | 291 | 4,963,830,581 |
+| Cloudflare | 349 | 3,959,025,591 |
+| Normal | 291 | 4,859,825,050 |
 
 
 
 ### 54.5% of breached sites (pwned sites) are using Cloudflare.
-### 43.7% of leaked accounts are on Cloudflare sites.
+### 44.9% of leaked accounts are on Cloudflare sites.
