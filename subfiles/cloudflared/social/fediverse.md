@@ -10908,7 +10908,7 @@ Here's a list of public Fediverse services.
 | `feather.onl` | No |
 | `feather.wiki` | No |
 | `feathered.space` | Yes |
-| `featherless.design` | No |
+| `featherless.design` | Yes |
 | `feathers.link` | No |
 | `featyre.xyz` | Yes |
 | `february.social` | No |
@@ -35609,6 +35609,7 @@ Here's a list of public Fediverse services.
 | `timprobst.com` | No |
 | `timsherratt.org` | No |
 | `timshomepage.net` | No |
+| `timstallard.me.uk` | No |
 | `timtin.digital` | No |
 | `timttmy.co.uk` | No |
 | `tin.fyi` | No |
@@ -40407,7 +40408,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,047 |
+| Cloudflare | 10,048 |
 | Normal | 30,317 |
 
 
