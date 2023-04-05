@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,090 |
 | social | 3,901 |
-| net | 3,103 |
+| net | 3,104 |
 | org | 2,141 |
 | de | 2,031 |
 
@@ -263,6 +263,7 @@ Here's a list of public Fediverse services.
 | `204.jp` | Yes |
 | `206267.xyz` | No |
 | `2077.win` | Yes |
+| `209.jp` | No |
 | `213.link` | No |
 | `21314.de` | No |
 | `2137.social` | No |
@@ -22305,6 +22306,7 @@ Here's a list of public Fediverse services.
 | `mickaelgillot.xyz` | No |
 | `mickaelremond.com` | Yes |
 | `mickekring.se` | No |
+| `miclear.casa` | Yes |
 | `micmun.de` | No |
 | `micra.uk` | Yes |
 | `micro.blog` | No |
@@ -22756,6 +22758,7 @@ Here's a list of public Fediverse services.
 | `mkgrcd.xyz` | No |
 | `mkihr-ojisan.com` | No |
 | `mkir.ch` | No |
+| `mkkey.net` | No |
 | `mkljczk.pl` | Yes |
 | `mkm.scot` | Yes |
 | `mkmcg.net` | No |
@@ -40408,8 +40411,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,048 |
-| Normal | 30,317 |
+| Cloudflare | 10,049 |
+| Normal | 30,319 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
