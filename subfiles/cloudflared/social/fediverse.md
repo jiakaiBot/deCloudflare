@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,089 |
-| social | 3,897 |
+| com | 6,090 |
+| social | 3,900 |
 | net | 3,103 |
 | org | 2,141 |
-| de | 2,030 |
+| de | 2,031 |
 
 
 - Mastodon, Pleroma, etc
@@ -1385,6 +1385,7 @@ Here's a list of public Fediverse services.
 | `alfazema.club` | No |
 | `alfebelow.com` | No |
 | `alfheim.ca` | No |
+| `alfoeldi.social` | No |
 | `alfter.us` | No |
 | `algarve-pur.de` | No |
 | `algebra.chat` | No |
@@ -4494,6 +4495,7 @@ Here's a list of public Fediverse services.
 | `bovarys.me` | No |
 | `boverie.eu` | Yes |
 | `bovid.space` | No |
+| `bowden.social` | No |
 | `bowefrankema.nl` | Yes |
 | `bowles.social` | No |
 | `bowlofpetunias.net` | No |
@@ -8293,6 +8295,7 @@ Here's a list of public Fediverse services.
 | `design.vu` | No |
 | `designbykr.com` | No |
 | `designersethiques.org` | No |
+| `designguide.site` | No |
 | `designlounge.social` | No |
 | `designor.de` | No |
 | `desir.social` | No |
@@ -14766,6 +14769,7 @@ Here's a list of public Fediverse services.
 | `hinduexistence.org` | No |
 | `hingst.net` | No |
 | `hingst.org` | No |
+| `hinnerk-weiler.com` | No |
 | `hinomarudon.com` | No |
 | `hinter.bayern` | No |
 | `hintersphere.com` | No |
@@ -18914,6 +18918,7 @@ Here's a list of public Fediverse services.
 | `lanebuleuse.fr` | No |
 | `lang-mfr.de` | No |
 | `langet.one` | Yes |
+| `langfahrtsegeln.de` | No |
 | `langfamilie.de` | No |
 | `langford.fm` | No |
 | `langleveeuropa.nl` | No |
@@ -20316,6 +20321,7 @@ Here's a list of public Fediverse services.
 | `lupino.uk` | No |
 | `lur.no` | No |
 | `lurchchamber.de` | No |
+| `luri.ca` | No |
 | `lurid.pink` | No |
 | `lurk.land` | No |
 | `lurk.online` | No |
@@ -22318,6 +22324,7 @@ Here's a list of public Fediverse services.
 | `microkod.xyz` | Yes |
 | `micromaquina.com` | Yes |
 | `micromegas.social` | No |
+| `micromensen.tech` | No |
 | `micromookie.com` | No |
 | `micronet.at` | No |
 | `microprojects.de` | No |
@@ -23069,6 +23076,7 @@ Here's a list of public Fediverse services.
 | `moonbeam.dance` | No |
 | `moonbeam.town` | No |
 | `moonbootlabs.net` | No |
+| `moonbow.garden` | No |
 | `moonbutt.science` | Yes |
 | `mooncell.uk` | No |
 | `moondeer.blog` | Yes |
@@ -24249,6 +24257,7 @@ Here's a list of public Fediverse services.
 | `neat.computer` | Yes |
 | `neat.pub` | Yes |
 | `neatidea.net` | No |
+| `neb.cx` | Yes |
 | `neb.host` | No |
 | `nebbia.fail` | No |
 | `nebby.de` | No |
@@ -28174,6 +28183,7 @@ Here's a list of public Fediverse services.
 | `potswift.org` | No |
 | `pottbayer.de` | No |
 | `potwatcher.ca` | No |
+| `potzdorf.cc` | Yes |
 | `pouet.ca` | No |
 | `pouet.it` | No |
 | `pouet.me` | No |
@@ -28550,6 +28560,7 @@ Here's a list of public Fediverse services.
 | `pubnex.us` | No |
 | `puck.moe` | No |
 | `puckett.contact` | Yes |
+| `puckett.social` | Yes |
 | `puckipedia.com` | No |
 | `puczat.pl` | No |
 | `pud.im` | No |
@@ -30706,6 +30717,7 @@ Here's a list of public Fediverse services.
 | `salundo.com` | Yes |
 | `salushnes.solutions` | No |
 | `salvo.chat` | No |
+| `salzman.uk` | No |
 | `samadam.au` | No |
 | `samariter.social` | No |
 | `samaschke.social` | Yes |
@@ -32393,6 +32405,7 @@ Here's a list of public Fediverse services.
 | `smnz.de` | No |
 | `smokecircle.co` | Yes |
 | `smokymountain.top` | No |
+| `smol.boo` | No |
 | `smol.club` | No |
 | `smolkitty.me` | Yes |
 | `smolnet.org` | No |
@@ -37270,6 +37283,7 @@ Here's a list of public Fediverse services.
 | `urizen.net` | No |
 | `urls.fyi` | No |
 | `urlxl.com` | No |
+| `urly.fun` | No |
 | `urmom69.com` | No |
 | `urmum.gq` | No |
 | `ursa.cafe` | No |
@@ -40392,8 +40406,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,044 |
-| Normal | 30,305 |
+| Cloudflare | 10,047 |
+| Normal | 30,316 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
