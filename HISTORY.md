@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-04-05: [Network Performance Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/b3rh86sp2f2x)
 - 2023-04-03: [Possible Network Congestion in DME](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/l9qshhv7fjpw)
 - 2023-03-27: [Increased HTTP 500 Errors in India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/31fss6hx0txn)
 - 2023-03-22: [Issues enabling public access for R2 buckets](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/tpfwfflgrq5x)
