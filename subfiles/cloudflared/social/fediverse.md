@@ -2051,7 +2051,7 @@ Here's a list of public Fediverse services.
 | `aogamers.net` | Yes |
 | `aoikaze.social` | Yes |
 | `aoir.social` | No |
-| `aoirint.com` | No |
+| `aoirint.com` | Yes |
 | `aoitofu.net` | No |
 | `aokaga.work` | Yes |
 | `aonyx-cinerea.fun` | No |
@@ -15763,6 +15763,7 @@ Here's a list of public Fediverse services.
 | `in-ulm.de` | No |
 | `in-visible.eu` | No |
 | `in0rdr.ch` | No |
+| `inaba.dev` | Yes |
 | `inaccessible.ac` | No |
 | `inadon.jp` | No |
 | `inadvertently.online` | Yes |
@@ -34563,7 +34564,7 @@ Here's a list of public Fediverse services.
 | `teamhuman.club` | No |
 | `teamkitten.tk` | No |
 | `teamlichen.de` | No |
-| `teamlifezone.ru` | No |
+| `teamlifezone.ru` | Yes |
 | `teamlight.stream` | Yes |
 | `teamnerds.cool` | No |
 | `teamrocket.nz` | No |
@@ -40412,8 +40413,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,050 |
-| Normal | 30,319 |
+| Cloudflare | 10,053 |
+| Normal | 30,317 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
