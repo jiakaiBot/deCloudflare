@@ -263,7 +263,9 @@ y402cg.db.files.1drv.com
 1000loanbadcredit.com
 105528598557255.ga
 1060radiolitoral.com
+10stripe.com
 11moneyapp.com
+123kids.us
 13holdingsltd.co.uk
 16066bf4a6.1c7154dd67.com
 18moneyapp.com
@@ -277,6 +279,7 @@ a-1.1fichier.com
 a-8.1fichier.com
 am.1060radiolitoral.com
 billing.12px.co.uk
+catalog-api.1c.ru
 click.em.1800baskets.com
 cpcontacts.1exitofirstbank.com
 cpcontacts.1newyorkcity.net
