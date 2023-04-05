@@ -8588,6 +8588,7 @@ Do not create new issue or we will close it as duplicate.
 | [PANKAJOP5@twitter](https://twitter.com/PANKAJOP5/status/1400395931443286019) | advertise |
 | [PannEiThandar1@twitter](https://twitter.com/PannEiThandar1/status/1407572218314477570) | advertise |
 | [PannKal92750160@twitter](https://twitter.com/PannKal92750160/status/1386689577373536258) | advertise |
+| [PanoramicaCo@twitter](https://twitter.com/PanoramicaCo/status/1643476104026509313) | advertise |
 | [panportugal@twitter](https://twitter.com/panportugal/status/1551915856699047937) | advertise |
 | [pan_lett@twitter](https://twitter.com/pan_lett/status/1391278301365288961) | advertise |
 | [Pap0501_gin@twitter](https://twitter.com/Pap0501_gin/status/1637356633411158017) | advertise |
