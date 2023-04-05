@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cert-manager Controller Not Recognizing Delegated Domain Record](https://github.com/cert-manager/cert-manager/issues/5920)
 - [cdktf typescript cloudflare rate limit headers is not map](https://github.com/hashicorp/terraform-cdk/issues/2774)
 - [Call to a member function getChat() on null](https://github.com/LiveHelperChat/telegram/issues/43)
 - [multipart upload issues with Cloudflare R2](https://github.com/distribution/distribution/issues/3873)
