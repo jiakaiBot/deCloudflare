@@ -5207,6 +5207,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kaito685719351@twitter](https://twitter.com/Kaito685719351/status/1553905651524460544) | advertise |
 | [KAITOKU39855874@twitter](https://twitter.com/KAITOKU39855874/status/1382939010385907714) | advertise |
 | [kaitozent@twitter](https://twitter.com/kaitozent/status/1538926813682204672) | advertise |
+| [kaitran_94@twitter](https://twitter.com/kaitran_94/status/1643702411230588928) | advertise |
 | [Kaiy47997228@twitter](https://twitter.com/Kaiy47997228/status/1382748637629845510) | advertise |
 | [KaiZarK1@twitter](https://twitter.com/KaiZarK1/status/1392407912182599684) | advertise |
 | [kaizawa97@twitter](https://twitter.com/kaizawa97/status/1593885124176752640) | advertise |
