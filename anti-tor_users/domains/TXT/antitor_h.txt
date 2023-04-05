@@ -3155,6 +3155,7 @@ zads.herokuapp.com
 5b0f6cb9-0485-4fc7-9775-eb74bb45bbf6.htmlcomponentservice.com
 6.hostingpalvelu.fi
 8c.hostingpalvelu.fi
+a.hw.cab
 aac004.hostedautoaudit.com
 abcd.hasoffers.com
 ac-hotels-by-marriott-guatemala-city-1qb09.hotels-guatemala.info
@@ -3168,11 +3169,13 @@ adfs.hampeloil.com
 adfs.hedrich.com
 adfs.hisi.fr
 adv.herocraft.com
+affpaying.hasoffers.com
 agreylin.homelinuxserver.org
 ahlstromcapital.cloud20.hostingpalvelu.fi
 ajatustalo.cloud20.hostingpalvelu.fi
 akumunoyami.hatenadiary.jp
 aldebet.herokuapp.com
+algo-affiliates.hasoffers.com
 anthophilous-markaz.herokuapp.com
 aovpn.haringey.gov.uk
 apartamento-avenida-reforma-ciudad-de-guatemala-apartments.hotels-guatemala.info
@@ -3215,10 +3218,12 @@ camdenpo.cloud31.hostingpalvelu.fi
 cantare.cloud15.hostingpalvelu.fi
 casa-carmel-bed-breakfast.hotels-guatemala.info
 ccontrol.free2.host25.com
+cdsso.howashoji.net
 chaseverify00.herokuapp.com
 clerk.house.gov
 click.bnlx.hellofresh.link
 click.e.hevishot.com
+click.holidayinnclubemail.com
 click.howdoesin.net
 click.messaging.hsbc.com.hk
 click.nordics.hellofresh.link
@@ -3280,6 +3285,7 @@ garantia.holacare.com.pe
 gdemo.vmail.hammartunskolekorps.com
 genera.cloud14.hostingpalvelu.fi
 geohepi.hepidev.com
+geostrategic-staleness.herokuapp.com
 ghamandi.hcommons.org
 gitlab.gitlab.git.gitlab.b2b.hot-live-owa.com
 good-hotel-guatemala-city-5fb7v.hotels-guatemala.info
@@ -3287,9 +3293,12 @@ goodreader.hcommons.org
 grand-tikal-futura-hotel.hotels-guatemala.info
 graphql.hisnek.io
 h-wv.com
+h10s.eu
+h2o-testing.com
 habershamwinery.com
 habib.com.ng
 habibbsonsmicrobank.com
+habibieacademy.com
 habibmetro.com
 habibshopdumai.com
 habitacaocredito.pt
@@ -3302,6 +3311,7 @@ hactoendplasticpollution.org
 haddenapple.ml
 hadfnews.ps
 hadleyvillage.org
+hagatnamed.com
 hagelsberga.se
 haide.online
 hakrakyat.com
@@ -3311,6 +3321,7 @@ halkahnphotography.com
 halkokone.fi
 halkotek.fi
 hameenautopalvelu.fi
+hamkpatayani.shop
 hancomtyping.com
 handsintexasholdem.com
 handverk-service.no
@@ -3322,11 +3333,14 @@ happyeconews.com
 haqcheck.org
 harcos.nl
 harianborneopost.com
+hariansib.id
 harleyoffshore.com
 harmoney.id
 harpoonsecurity.com
 harpscorp.com
 harringtoncompany.com
+hasamudiansiara.shop
+hassel-gbr.de
 hatemcenter.com
 hatiencorp.vn
 hatratest.ir
@@ -3337,6 +3351,7 @@ hawksecurity.gr
 haya.nu
 hayhoc.live
 hazinasacco.or.ke
+hbi-ingest.net
 hcai.ca
 hcfbu.org.tw
 hcsgoal.com
@@ -3345,6 +3360,8 @@ headwise.ie
 healingquiz.com
 healthandwellnessforyourlives.com
 healthbazar.xyz
+healthspeech.com
+healthstack.africa
 healthupdate.gr
 healthyfoodsource.net
 healthywallet.com
@@ -3353,8 +3370,10 @@ healthzonic.com
 heclamining-investment.com
 heikograbolle.com.br
 helaediciones.com
+helgelandmobilservice.no
 helie.org
 hello-webservice.com
+hellospy.com
 hellowebservice.com
 helmier.com
 helpbinance.com
@@ -3365,6 +3384,7 @@ helpdorien.nl
 helpinghand.community
 helsinkishipyard.fi
 henoi.org.py
+hereisthebest.site
 heritagecreditbank.com
 herlesi.eu
 hermes-hoffmann.de
@@ -3562,6 +3582,7 @@ hilaryweeks.com
 hilton-garden-inn-guatemala-city.hotels-guatemala.info
 hindadsoftpvtltd.com
 hireplace.it
+hisensebackend.site
 histingplacted.com
 historic.ro
 hitahealthcare.com
@@ -3571,6 +3592,7 @@ hktshop.com
 hlcm.biz.my
 hms-eloued.net
 hmsalarm.no
+hnyajilatajataumukwn.shop
 hofa-contest.com
 hol10agrarservice.ro
 holdings.panasonic
@@ -3585,6 +3607,7 @@ homemap.cloud6.hostingpalvelu.fi
 homesolutionservice.vn
 homesquad.art
 homesteadlady.com
+homestuck.com
 homicidal-centrifuge.herokuapp.com
 honglab.co.kr
 horacek.com.au
@@ -3610,6 +3633,7 @@ how-makemoney.com
 howareyanowpod.com
 howtojustice.org
 howtowatchnfr.com
+hpmanual.net
 hqfurniturestore.co.uk
 hqmnqwk6czjw.huevoscopa.cl
 hrayacucho.gob.pe
@@ -3617,6 +3641,8 @@ hs-service.dk
 hsbf.u7939.hemsida.eu
 hsc-global.my
 hscllc.com
+hsiemxx.shop
+hsrtechonline.com.br
 huaniuapples.com
 hubb.link
 huber-huber.ch
@@ -3667,6 +3693,7 @@ keracomp.cloud18.hostingpalvelu.fi
 kimwist.cloud15.hostingpalvelu.fi
 klaukka2.cloud15.hostingpalvelu.fi
 korona-jaroslaw.hootway.net
+krn-da.hvl.no
 kuntovir.cloud11.hostingpalvelu.fi
 kxcawhplrdfq.huevoscopa.cl
 laryngeal-intellect.herokuapp.com
@@ -3678,6 +3705,7 @@ luvs.hi.is
 maijaastikainen.cloud20.hostingpalvelu.fi
 mail.helsematch.app
 mail.hosgeldi.com
+manage.hrnewyear.ru
 management-servicesochestryred.herokuapp.com
 mantylaee.cloud20.hostingpalvelu.fi
 mbsgfx.heliohost.org
@@ -3748,6 +3776,7 @@ sometime-mooring.herokuapp.com
 sporting.hatenablog.com
 srv01.homecredit.ru
 stage.hrflip.app
+starajezicaapartmentswith.houbins.top
 store.howdysendai.com
 submit.hr-communication.com
 support.hcommons.org
@@ -3797,6 +3826,7 @@ webmail.humanitieshomeworkhelp.com
 weraiseyourcreditscorela.hibuwebsites.com
 whm.helsematch.app
 wsi.hotelzon.com
+www.billigisolering.intprissajt.hemsida.eu
 www.billing.hacor.us
 www.billing.hazelindo.net
 www.bmw.highdesertgateway.com
@@ -3814,6 +3844,8 @@ www.file.online-banking.hsbc.com.ar
 www.forssantuulilasi.hameenautopalvelu.fi
 www.gamingvideos.halkidiki-carwash.gr
 www.garantia.holacare.com.pe
+www.habibaorganicfarm.net
+www.habibieacademy.com
 www.habibinternationalbd.com
 www.habiblab.org
 www.habibmetro.com
@@ -3846,11 +3878,14 @@ www.hautegironde.fr
 www.hautnah-fellbach.de
 www.hawaizaadefilms.com
 www.hcltechsw.com
+www.hd-overstock.com
 www.hdcleaners.ro
 www.hdsb.com.my
+www.healowpay.com
 www.healsafe.io
 www.healthsupport-nieuwveen.nl
 www.healthupdate.gr
+www.heaven-hell.si
 www.hediyepaketleri.com
 www.heh-bueroservice.com
 www.hejitsupport.dk
@@ -3863,6 +3898,7 @@ www.heraldandnews.com
 www.heraldbanner.com
 www.herebank.kr
 www.hermes-finanzcoaching.de
+www.hermesimport.com.pe
 www.hermesiplus.ge
 www.hermesventures.it
 www.hernebay-motorcycles.co.uk
@@ -3885,6 +3921,7 @@ www.hitsujikai-radio.com
 www.hkaimac.org
 www.hkinfoway.com
 www.hmsalarm.no
+www.hngnews.com
 www.hoasted.com
 www.hobbybroadcaster.net
 www.hobostradingpost.com
@@ -3939,6 +3976,7 @@ www.huntertaylor.co.uk
 www.hunterthegatherer.com
 www.huntingtonfloorsanding.net
 www.huntingtonmenschorus.org
+www.huntingtonsymphony.org
 www.huntmillerco.com
 www.huntmyride.com
 www.hurricaneimpactwindow.com
@@ -3974,6 +4012,7 @@ www.treaterc.hermesai.io
 www.ukgib-fts.hsbcnet.com
 www.us.hiltexdelivery.com
 www.user1.healthmedika.id
+www.www.www.gitlab.git.gitlab.instagram.hrnewyear.ru
 www.y-musk.hermesai.io
 www.yyzsafety.ca.hammersmithmusic.com
 www.zdsecurity.help.hskgaming.com
