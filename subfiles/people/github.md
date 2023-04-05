@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [cdktf typescript cloudflare rate limit headers is not map](https://github.com/hashicorp/terraform-cdk/issues/2774)
 - [Call to a member function getChat() on null](https://github.com/LiveHelperChat/telegram/issues/43)
 - [multipart upload issues with Cloudflare R2](https://github.com/distribution/distribution/issues/3873)
 - [CloudFlare pages support (severless)?](https://github.com/louislam/uptime-kuma/issues/3026)
