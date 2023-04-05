@@ -7452,6 +7452,7 @@ Do not create new issue or we will close it as duplicate.
 | [MueTaw1@twitter](https://twitter.com/MueTaw1/status/1550494801677537280) | advertise |
 | [mufajar_@twitter](https://twitter.com/mufajar_/status/1505740681964552192) | advertise |
 | [mufuyt@twitter](https://twitter.com/mufuyt/status/1638791723668373506) | advertise |
+| [muhamadhaziqna1@twitter](https://twitter.com/muhamadhaziqna1/status/1643533873463304194) | advertise |
 | [Muhamma04355643@twitter](https://twitter.com/Muhamma04355643/status/1392484542380875779) | advertise |
 | [Muhamma27131542@twitter](https://twitter.com/Muhamma27131542/status/1400406829562167307) | advertise |
 | [Muhamma69332822@twitter](https://twitter.com/Muhamma69332822/status/1481640385692639239) | advertise |
