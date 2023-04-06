@@ -248,7 +248,7 @@ Here's a list of breached sites.
 | Gawker | 1,247,574 | No |
 | GeekedIn | 1,073,164 | No |
 | Gemini | 5,274,214 | Yes |
-| GenesisMarket (Genesis Market) | 8,000,000 | No |
+| GenesisMarket (Genesis Market) | 8,000,000 | Yes |
 | GeniusU | 1,301,460 | Yes |
 | GetRevengeOnYourEx (Get Revenge On Your Ex) | 79,195 | No |
 | Gett (Ge.tt) | 2,481,121 | No |
@@ -661,10 +661,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 349 | 3,959,025,591 |
-| Normal | 291 | 4,859,825,050 |
+| Cloudflare | 350 | 3,967,025,591 |
+| Normal | 290 | 4,851,825,050 |
 
 
 
-### 54.5% of breached sites (pwned sites) are using Cloudflare.
-### 44.9% of leaked accounts are on Cloudflare sites.
+### 54.7% of breached sites (pwned sites) are using Cloudflare.
+### 45% of leaked accounts are on Cloudflare sites.
