@@ -13069,6 +13069,7 @@ Here's a list of public Fediverse services.
 | `ghetti.monster` | No |
 | `ghibah.space` | No |
 | `ghidragoons.com` | Yes |
+| `ghis94.ovh` | No |
 | `ghosh.pro` | Yes |
 | `ghost.cafe` | No |
 | `ghost.supplies` | No |
@@ -21666,6 +21667,7 @@ Here's a list of public Fediverse services.
 | `matthewkrohn.net` | No |
 | `matthewmcvickar.com` | No |
 | `matthewshanley.com` | No |
+| `matthewthom.as` | Yes |
 | `matthewzeman.net` | No |
 | `matthias-bender.de` | No |
 | `matthias.org` | No |
@@ -40434,8 +40436,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,062 |
-| Normal | 30,329 |
+| Cloudflare | 10,063 |
+| Normal | 30,330 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
