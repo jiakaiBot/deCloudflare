@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,090 |
 | social | 3,901 |
-| net | 3,105 |
+| net | 3,104 |
 | org | 2,141 |
 | de | 2,031 |
 
@@ -10242,7 +10242,7 @@ Here's a list of public Fediverse services.
 | `ericalba.com` | Yes |
 | `ericandamanda.net` | No |
 | `ericbardi.com` | No |
-| `ericbeckers.nl` | No |
+| `ericbeckers.nl` | Yes |
 | `ericblade.us` | No |
 | `ericcredeur.com` | No |
 | `ericdube.com` | No |
@@ -14841,7 +14841,6 @@ Here's a list of public Fediverse services.
 | `hiveway.net` | Yes |
 | `hiwaga.tech` | No |
 | `hixe.fr` | No |
-| `hiya.moe` | Yes |
 | `hiyuki.xyz` | No |
 | `hiyuki2578.net` | Yes |
 | `hjalmer.com` | No |
@@ -18333,7 +18332,6 @@ Here's a list of public Fediverse services.
 | `kom-in.de` | No |
 | `komaedak.in` | No |
 | `komaverse.de` | No |
-| `kome-lab.net` | Yes |
 | `komekome09.jp` | Yes |
 | `komic.eu` | No |
 | `komintern.work` | No |
@@ -23189,6 +23187,7 @@ Here's a list of public Fediverse services.
 | `mosqueeto.net` | No |
 | `moss.church` | No |
 | `moss.haus` | No |
+| `moss.vegas` | No |
 | `mossferatu.monster` | No |
 | `mossou.com` | Yes |
 | `mossrc.me` | Yes |
@@ -40415,7 +40414,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,055 |
+| Cloudflare | 10,054 |
 | Normal | 30,317 |
 
 
