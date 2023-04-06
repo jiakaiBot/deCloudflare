@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,095 |
 | social | 3,903 |
-| net | 3,106 |
+| net | 3,107 |
 | org | 2,144 |
-| de | 2,031 |
+| de | 2,032 |
 
 
 - Mastodon, Pleroma, etc
@@ -2895,6 +2895,7 @@ Here's a list of public Fediverse services.
 | `ayntk.net` | No |
 | `ayom.media` | No |
 | `ayotocorp.com` | No |
+| `ayu.land` | No |
 | `ayushio.com` | Yes |
 | `ayutsuki.net` | Yes |
 | `az-men.com` | No |
@@ -20573,6 +20574,7 @@ Here's a list of public Fediverse services.
 | `magi.sh` | No |
 | `magi.systems` | Yes |
 | `magic.win` | No |
+| `magical-ribbon.net` | No |
 | `magicalgirl.party` | No |
 | `magically.cc` | No |
 | `magicalmirro.red` | Yes |
@@ -31372,6 +31374,7 @@ Here's a list of public Fediverse services.
 | `sect.social` | No |
 | `section.app` | No |
 | `sectiontwo.org` | Yes |
+| `sector25.de` | No |
 | `sectorinf.com` | No |
 | `secular-humanism.eu` | No |
 | `securadmin.net` | No |
@@ -40439,7 +40442,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,064 |
-| Normal | 30,331 |
+| Normal | 30,334 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
