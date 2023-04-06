@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,094 |
+| com | 6,095 |
 | social | 3,903 |
 | net | 3,106 |
 | org | 2,144 |
@@ -9612,7 +9612,7 @@ Here's a list of public Fediverse services.
 | `eddyn.net` | Yes |
 | `eddyssofa.com` | No |
 | `edegem.social` | No |
-| `edel-ornstein.pro` | No |
+| `edel-ornstein.pro` | Yes |
 | `edelmann.bond` | Yes |
 | `eden.one` | No |
 | `edgarogh.fr` | No |
@@ -12588,6 +12588,7 @@ Here's a list of public Fediverse services.
 | `galad.it` | Yes |
 | `galanter.net` | No |
 | `galax.be` | No |
+| `galaxians.garden` | No |
 | `galaxians.org` | No |
 | `galaxy-control.org` | No |
 | `galaxy.cat` | No |
@@ -38590,6 +38591,7 @@ Here's a list of public Fediverse services.
 | `whereaboat.rocks` | No |
 | `whereismysupersuit.com` | No |
 | `whereismytribe.net` | No |
+| `whereizben.com` | No |
 | `wherelinux.xyz` | No |
 | `wheresalice.info` | No |
 | `wheresmar.co` | Yes |
@@ -40436,8 +40438,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,063 |
-| Normal | 30,330 |
+| Cloudflare | 10,064 |
+| Normal | 30,331 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
