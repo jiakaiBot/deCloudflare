@@ -319,7 +319,6 @@ payu.okta-emea.com
 provisioning.tt.staging.xion.oxcs.net
 qwasad.organiccrap.com
 r1.res.office365.com
-rdgdev.ohsu.edu
 reactiv8-b.outlookdev.co.uk
 reactiv8b.outlookdev.co.uk
 rec-gestion-pe.osmos.tech
@@ -745,7 +744,6 @@ donorportal.oneblood.org
 dp-f948fblox0c8u.gw106.oneitfarm.com
 e1112-iflmap.hcisbt.ap1.hana.ondemand.com
 ebill.onefiserv.com
-ecris.ohsu.edu
 email2.opower.com
 en.ofi-asso.org
 en.oktasim.com
@@ -1775,9 +1773,11 @@ account.orqoo.co.uk
 adcanopus.offerstrack.net
 ademosrv0003c1dev-store.demoservices011.commerce.oraclepdemos.com
 ads-tag-spr.ortb.net
+amazon-prime-opui.openplatform.co
 ankusha.onlinegoogleadscourse.com
 apcpcdcl-test-k5qoqm5y.it-cpi012-rt.cfapps.ap21.hana.ondemand.com
 api-sit.organon.com
+api-standard.opentok.com
 api.cp.onemonitar.com
 api.dev.cobalt-dev.internal.canary.k8s.ondemand.com
 api.dev.cobalt-dev.shoot.canary.k8s-hana.ondemand.com
@@ -1800,12 +1800,15 @@ avito.sberbank.avito.avito.sber.git.covid19.ooo-medexpress.ru
 avito.sberbank.avito.sber.avito.covid19.omveterinary.com
 avito.sberbank.avito.sber.avito.covid19.ooo-medexpress.ru
 avito.sberbank.avito.sber.git.covid19.ooo-medexpress.ru
+avito.sberbank.sber.sberbank.avito.covid19.oakhillsales.com
 backgroundprocessing.c1m0wu3z2z-arcelikas1-p1-public.model-t.cc.commerce.ondemand.com
 backoffice.cq6bn590y3-fabindiao1-p1-public.model-t.cc.commerce.ondemand.com
 bag-files.opendata.swiss
 bankid.ochnu.com
 barclays-international.eu.onfido.app
 basf-cpi-cf-qa.it-cpi005-rt.cfapps.eu20.hana.ondemand.com
+bngjhhhhhyhj.onedumb.com
+booking.opinium.eu
 canal.ouvidordigital.com.br
 casdemo.officertrak.com
 cengagelearninginc-dev1.outsystemsenterprise.com
@@ -1844,11 +1847,13 @@ edr.prod.organmatch.org.au
 eh.onewelcome.nl
 email.opensourceintegratorsteam.com
 erfm-test-odcsvbcs-12032104-729-caccthermajesty.builder.ocp.oraclecloud.com
+es.okseguro.es
 eservices.oaed.gr
 extsfbpool.oc365s.com
 fioritest.edf.hec.ondemand.com
 fs.one4u.services
 fsdelkf.ourhobby.com
+gitlab.blog.blog.blog.wordpress.outlook.onehealth.com.hk
 gitlab.blog.blog.old.mobi.oakhillsales.com
 gitlab.instagram.ortho-dent.ru
 grdf-hawai.orange-servicespace.com
@@ -1864,6 +1869,7 @@ interactive.oliverwyman.com
 interviewsuccessformula.ontraport.net
 investors.otonomy.com
 isatdatapro.orbcomm.com
+japan-systems.offticket.space
 jhgfkj.onedumb.com
 jiro.owst.jp
 jobstack.on-demandexchange.com
@@ -1910,6 +1916,7 @@ oclven.xyz
 ocsafety.com
 oculus-visionmeridian.ru
 odessa-service.od.ua
+oeezee.com
 offbeatoregon.com
 office-service-oberberg.de
 officesumoff.com
@@ -1923,11 +1930,14 @@ ogunquittradingpost.com
 ohb.org
 ohlininstitutet.se
 oidiosound.co.uk
+okazudouga.tokyo
 oktafstudiophotography.com
 oktatas.orszagosallatvedorseg.hu
 oktayfood.com
 okunkhapsawadikhap.shop
 okvoterportal.okelections.us
+oldhavanafoods.com
+oliexpres.com
 omalahio.fi
 omkantafi.com
 omniairnitrogen.net
@@ -1971,6 +1981,7 @@ opg-charamanga.hr
 opg.optica.org
 ophylias.com
 opoeduca.com
+oppsolut.de
 optical.co.tz
 optixsecurity.com
 optoelectronix.com
@@ -1987,6 +1998,7 @@ originsecurityservice.com
 originsecurityservice.net
 orinococoffeeandtea.com
 oromiabank.com
+ortho-motion.com
 orthogrid.com
 os-celebici.edu.ba
 osakadou.cool
@@ -2008,6 +2020,7 @@ otsgovt.com
 oululainen.fi
 ourarcticrefuge.org
 ourholiday.website
+outdooradvertisingservice.fun
 outformsupport.com
 outlookcreek.com
 outlooktaxservices.com
@@ -2049,6 +2062,7 @@ safraumrah.ourcitrus.xyz
 sai.omnisource.com.mx
 sandbox.oktatas.eu
 sap-asset-manager-cf-sap-asset-manager-cf-sam2205-qm7910.cfapps.us10.hana.ondemand.com
+sber.avito.avito.avito.sberbank.avito.covid19.omveterinary.com
 sber.sber.sber.avito.avito.sber.covid19.oxygensystem.info
 sber.sber.sber.avito.avito.www.covid19.oxygensystem.info
 sber.sber.sber.avito.covid19.oxygensystem.info
@@ -2058,8 +2072,10 @@ sberbank.avito.avito.avito.sber.covid19.oakhillsales.com
 sberbank.avito.sber.avito.www.sber.covid19.oxygensystem.info
 sberbank.avito.sber.sber.sber.avito.covid19.ooo-medexpress.ru
 sberbank.sber.sberbank.avito.avito.covid19.ooo-medexpress.ru
+service.olsker.com
 service.optimuspro.co.id
 siftth.orange.cd
+smtp.ontrack.band
 styleguide-obermeyer-group-com.support-php-autoupdate.review.ober-sys.de
 swd-dr-ohsim.oracleindustry.com
 t.a.onstar.com
@@ -2089,6 +2105,7 @@ webmail.online-craft-show.com
 webmail.onlinepremiumgifts.com
 webmail.onvacationreservasonline.com
 www.bankid.ochnu.com
+www.booking.opinium.eu
 www.client1.onlenkan.com
 www.client2.onlenkan.com
 www.confsunion.oktaykarimi.com
@@ -2096,6 +2113,7 @@ www.contact.offiel.com
 www.corretora.oficinadoseguro.com.br
 www.eticket.one67.in
 www.foebbva.omegasolucionesweb.com
+www.gpgesso.onflip.com.br
 www.itsupport.osella.com
 www.j2c.onthetrack.one
 www.kimnovaktreasures.ottawacomputersupport.com
@@ -2115,7 +2133,6 @@ www.oeticket.com
 www.oferbaniimprumutcudobanda.info
 www.offertefibra.org
 www.officialdigableplanets.com
-www.officiel-des-vacances.com
 www.ohbmbrainmappingblog.com
 www.ohdservice.com.br
 www.ohm.ci
@@ -2146,6 +2163,8 @@ www.onestopvisaservice.com
 www.onitros.it
 www.onlinebutcher.co.uk
 www.onlineservicetech.website
+www.onsbilling.onnetsolution.com
+www.ontrack.band
 www.ontrack.blog
 www.oostwestgeneeskunde.nl
 www.openandcandid.com
@@ -2376,7 +2395,6 @@ mysav-dotnet-app.orbility.com
 navigate-import.qa.sit.sys.odj.cloud
 nayans.onlinegoogleadscourse.com
 netflix.openplayapp.com
-news.ohsu.edu
 nextgen-feature-enmng-1461-cz.oxytest.cz
 nitro9.octal40.de
 o-service.fi
