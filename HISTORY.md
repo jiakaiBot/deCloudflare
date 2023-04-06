@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-04-06: [Cloudflare One Client issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/86lfr4f5jxjl)
 - 2023-04-05: [Advanced Certificate Manager orders having TLS termination failures with ECDSA ciphers](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/p0m9zswhrh17)
 - 2023-04-05: [Network Performance Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/b3rh86sp2f2x)
 - 2023-04-03: [Possible Network Congestion in DME](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/l9qshhv7fjpw)
