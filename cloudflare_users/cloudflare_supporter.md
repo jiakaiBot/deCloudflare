@@ -8192,6 +8192,7 @@ Do not create new issue or we will close it as duplicate.
 | [NirobHo19696129@twitter](https://twitter.com/NirobHo19696129/status/1561906833505546240) | advertise |
 | [NischalSkanda@twitter](https://twitter.com/NischalSkanda/status/1399634499730763778) | advertise |
 | [nishadhossein@twitter](https://twitter.com/nishadhossein/status/1385312938945257473) | advertise |
+| [NishanBista10@twitter](https://twitter.com/NishanBista10/status/1644010615533600769) | advertise |
 | [nishanthguntu@twitter](https://twitter.com/nishanthguntu/status/1378004004580458496) | advertise |
 | [nisitsuragolf@twitter](https://twitter.com/nisitsuragolf/status/1591949328599289856) | advertise |
 | [Nitesh11781311@twitter](https://twitter.com/Nitesh11781311/status/1380459219317481474) | advertise |
