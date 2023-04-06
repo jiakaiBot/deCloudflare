@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Run KoboldAI without Cloudflare](https://github.com/henk717/KoboldAI/issues/326)
 - [{'message': 'cloudflare error', 'time': '18', 'status_code': 503}](https://github.com/You-OpenSource/You-Python/issues/136)
 - [Certificate issue on scripter.rsms.me](https://github.com/rsms/scripter/issues/21)
 - [Meta Tachidesk-Server 1.x](https://github.com/Suwayomi/Tachidesk-Server/issues/534)
