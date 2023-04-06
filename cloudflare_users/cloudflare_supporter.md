@@ -4873,6 +4873,7 @@ Do not create new issue or we will close it as duplicate.
 | [JAY787233@twitter](https://twitter.com/JAY787233/status/1542207673046683648) | advertise |
 | [Jay27070490@twitter](https://twitter.com/Jay27070490/status/1389147711681622017) | advertise |
 | [Jay30127613@twitter](https://twitter.com/Jay30127613/status/1395037131072958468) | advertise |
+| [Jay80419030@twitter](https://twitter.com/Jay80419030/status/1643833084343730179) | advertise |
 | [Jay705023959@twitter](https://twitter.com/Jay705023959/status/1553276401326837760) | advertise |
 | [jayakabajay@twitter](https://twitter.com/jayakabajay/status/1383184413496733699) | advertise |
 | [jayanthchatrat3@twitter](https://twitter.com/jayanthchatrat3/status/1387800496887406592) | advertise |
@@ -11942,6 +11943,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vnhi73891454@twitter](https://twitter.com/Vnhi73891454/status/1553821417107767297) | advertise |
 | [VNhLinh5@twitter](https://twitter.com/VNhLinh5/status/1477522077796438016) | advertise |
 | [VnHuy00413630@twitter](https://twitter.com/VnHuy00413630/status/1625412392468484096) | advertise |
+| [vnineutama1@twitter](https://twitter.com/vnineutama1/status/1643937189049565185) | advertise |
 | [VnLc48599484@twitter](https://twitter.com/VnLc48599484/status/1400390004984016899) | advertise |
 | [VnManucian@twitter](https://twitter.com/VnManucian/status/1519366337750921216) | advertise |
 | [VnPhi94354953@twitter](https://twitter.com/VnPhi94354953/status/1501922833395445762) | advertise |
