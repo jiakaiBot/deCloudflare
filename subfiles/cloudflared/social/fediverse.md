@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,095 |
-| social | 3,903 |
+| social | 3,904 |
 | net | 3,107 |
 | org | 2,144 |
-| de | 2,032 |
+| de | 2,033 |
 
 
 - Mastodon, Pleroma, etc
@@ -22397,6 +22397,7 @@ Here's a list of public Fediverse services.
 | `miisu.net` | No |
 | `mijninternet.info` | No |
 | `mik.cloud` | No |
+| `mika.xyz` | No |
 | `mikado-city.jp` | No |
 | `mikaela.info` | Yes |
 | `mikaljakubal.com` | Yes |
@@ -29953,7 +29954,7 @@ Here's a list of public Fediverse services.
 | `rimkus.it` | No |
 | `rimmer.cloud` | No |
 | `rimmer.wtf` | No |
-| `rimonce.one` | No |
+| `rimonce.one` | Yes |
 | `rin.fo` | Yes |
 | `rin.pink` | Yes |
 | `rince.de` | No |
@@ -37638,6 +37639,7 @@ Here's a list of public Fediverse services.
 | `verbrennung.org` | No |
 | `vercel.app` | No |
 | `verdantsquare.net` | No |
+| `verdi-bsh.de` | No |
 | `verdigado.net` | No |
 | `vereine.social` | No |
 | `vergenz.info` | No |
@@ -39881,6 +39883,7 @@ Here's a list of public Fediverse services.
 | `yp.to` | No |
 | `ypolis.net` | No |
 | `ypy.ch` | No |
+| `yql.social` | Yes |
 | `yqmmm.site` | No |
 | `yrf.me` | Yes |
 | `yrr0r.net` | Yes |
@@ -40441,8 +40444,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,064 |
-| Normal | 30,334 |
+| Cloudflare | 10,066 |
+| Normal | 30,335 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
