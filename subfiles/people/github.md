@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [allow converting tile types](https://github.com/protomaps/go-pmtiles/issues/48)
+- [上报错误ChatGPT error 400，怎么解决，在线等！](https://github.com/Chanzhaoyu/chatgpt-web/issues/1287)
 - [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/420)
 - [Some issues - can't figure out why it's not working](https://github.com/phauer/comment-sidecar/issues/6)
 - [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/414)
