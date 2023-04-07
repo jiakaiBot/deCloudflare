@@ -2921,6 +2921,7 @@ api.infinpay.co.id
 api.irisnow.com
 api.nsso.interm-id.be
 apicof.invoicegua.com
+apidev.iscmtower.com
 apigw.ioh.co.id
 apim.api.interbank.pe
 app.idcaseaccsibangcustomer.com
@@ -2954,6 +2955,7 @@ booking.intershare.no
 booking.itbro.id
 booth.imap.com.tw
 cadprodutocorretora-dev.cloud.itau.com.br
+cadprodutocorretora-hom.cloud.itau.com.br
 caffedautore.interdigital.biz
 cancelamento-bkl-pj-hom.cloud.itau.com.br
 captchasolvers.apps.ms2.inova4.space
@@ -2962,6 +2964,8 @@ cartoesdados-heimdall-dev.cloud.itau.com.br
 cb2.recs.igodigital.com
 cdn.inpwrd.net
 cdn.inskinad.com
+cei-descanso-dev.cloud.itau.com.br
+cei-descanso-hom.cloud.itau.com.br
 centralchat.imscareportal.com
 cfderivativosstreamer-hom.cloud.itau.com.br
 cintas.infoport.net
@@ -2969,6 +2973,7 @@ click.mail.ifm.com
 click.mail.infobase.com
 click.your.imperiuminvestings.com
 client-preprod.iotor.io
+client.imenu.ma
 client.itccinternational.org
 clientresourcecenter-uat.informationlogix.com
 clients.inesbelem.pt
@@ -2990,6 +2995,9 @@ container-62076381.jpt.irangpu.com
 container-62171521.jpt.irangpu.com
 container-62172211.jpt.irangpu.com
 content.inhousedsp.com
+contratacao-dev.cloud.itau.com.br
+contratacao-hom.cloud.itau.com.br
+contratacao.cloud.itau.com.br
 copernicus-int.cptec.inpe.br
 cordoceu.inventivedns.com
 corona-ethnomed.armenisch.info-data.info
@@ -3022,14 +3030,18 @@ dd-poi-ytt-ffg.infura-ipfs.io
 dedicon-magento-dev.isaac.nl
 demo-contentapi.indegene.com
 demo-storageapi.indegene.com
+dependency-track.testing.coresec.i8e.io
 dev-contentapi.indegene.com
 dev-moduleapi.indegene.com
 dev-storageapi.indegene.com
 dev.helleb.ishowcasedc11.com
 dev.invoiceitonline.co.za
+devportal-portalapiassets-hom.cloud.itau.com.br
 dex.devkuber.idet.kz
 discord.ionixxz.com
 dm.isnssdk.com
+docs.install-update.com
+documentosfiscais-portal-dev.cloud.itau.com.br
 download.kdrive.infomaniak.com
 downside.ishatching.com
 e-service.iainbatanghari.ac.id
@@ -3056,6 +3068,7 @@ fspprd.itesm.mx
 ftp.indivisys.vn
 gasbx.indegene.com
 gestao-tributos-dev.cloud.itau.com.br
+gestaotarifa.cloud.itau.com.br
 ghfdsa.isasecret.com
 git.git.git.gitlab.git.wwe.isratv.ru
 git.gitlab.git.gitlab.wwe.isratv.ru
@@ -3084,6 +3097,7 @@ ibk.pe
 ibmusicllc.net
 icar.si
 icar2023.org
+icargelato.org
 icb-ml-gateway.indegene.com
 iccinet.org
 ichoetech.com
@@ -3094,6 +3108,7 @@ icq.im
 icrickethighlights.com
 icsfilm.org
 id.itau.com.br
+ideamebel.dn.ua
 ideance.net
 ideapaint.com
 ideawork.sg
@@ -3113,6 +3128,7 @@ ie6eks-dev.cloud.itau.com.br
 iecruzrojasantander.edu.co
 ieeducacion.com
 iereexpress.com
+ifa-bff-dev.cloud.itau.com.br
 ifish.com
 iforexru.com
 ifsmagazine.com
@@ -3129,12 +3145,14 @@ ilgiornaledellarchitettura.com
 ilkaservice.fi
 ill-do-it.com
 illusionofmore.com
+illyaking.com
 ilto.run
 imagenesparawhatsapp.com
 imagg.xyz
 imaginatepacific.com
 imaginative-scratchings.com
 imagineiftheatre.co.uk
+imatic.pro
 imersaosuaidentidade.com.br
 imfwm.com
 imi.edu.in
@@ -3182,10 +3200,12 @@ infotrack.com.uy
 infotrack.uy
 inginbertahandisini.shop
 inginkukatakanslalu.shop
+inglenookmarketplace.com
 ingrid23518.realtor
 ingrid757.realtor
 ingvar.xyz
 inhisjoyfulservice.com
+inkwells.press
 inkxs.tattoo
 inletkeeper.org
 inmed.org.br
@@ -3208,6 +3228,7 @@ insumolab.cl
 intapptime.com
 intechventures.com
 inteco.se
+integraltsi.com
 integraodontosjc.com.br
 intelcbr-api.com
 intellent.nl
@@ -3224,6 +3245,7 @@ intensyweb.com
 intenthub.uz
 intentlondon.co
 inter-mettler.de
+inter-soft.com
 international-cash-management-dev.cloud.itau.com.br
 internationalpetsandexoticsgolballogistics.com
 internetowekontobankowe.pl
@@ -3274,6 +3296,7 @@ irankargar.com
 iranpoliticsclub.net
 ireservas.pt
 iris-server2.net
+irish-safetytraining.com
 irishmusiccafe.com
 irlandasemduvidas.com.br
 iroidtechnologies.in
@@ -3285,6 +3308,7 @@ iskconnews.org
 iskocorvdj1npo9mst.com
 islamicbank.au
 islandtropicaman.com
+isoryapi.com
 istcarloscisneros.edu.ec
 istoseo.com
 istrazivac.hr
@@ -3300,6 +3324,7 @@ italianovero.ro
 italthaigroup-erp.com
 itau-international-cash-management-hom.cloud.itau.com.br
 itauconsorcionline.com.br
+itcsummons.net
 itformula.com.ua
 iti.cloud.itau.com.br
 itimesbiz.com
@@ -3320,6 +3345,8 @@ iznajmiprikolicu.rs
 izumoyui.jp
 kentucky.immediate-edge.one
 la.www4.irs.gov
+ld.iobit.com
+likuhgfl.ij69i4fgh.tk
 logezvous.icfhabitat.fr
 long.interestmoments.com
 m2m1.inner-active.mobi
@@ -3340,6 +3367,7 @@ mfeposvendaveiculosimpostorenda-hom.cloud.itau.com.br
 mimamori.isuzu.net.au
 mingle-sso.eu1.inforcloudsuite.com
 minister.infrastructure.gov.au
+mktbaseprescrito-hom.cloud.itau.com.br
 mobilepush.iderinote.com
 modules.infineon.com
 movaconsultapropostas-dev.cloud.itau.com.br
@@ -3352,8 +3380,10 @@ myebankasia.icbc.com.cn
 mylogin.indegene.com
 myw-ds-e.ionos.info
 myw1-ds-e.ionos.info
+myw1.ionos.info
 myw2.ionos.info
 myw4-ds-e.ionos.info
+naildesignerdesucesso.internacional.fun
 nitrogen.iceservers.com
 numlookup.interpayafrica.com
 ocr.ativos-captacao-repasse-dev.cloud.itau.com.br
@@ -3375,6 +3405,7 @@ portalinterno.ibermaticaindustria.com
 r1mybaltimorespirit.go.ione.nyc
 r1wolbbaltimore.go.ione.nyc
 registr.issa.cz
+research.izumigo.co.jp
 rest.webapi.intercars.eu
 restapi.ivolatility.com
 ricette.iltartufoitaliano.com
@@ -3443,7 +3474,9 @@ staging-api.iag.com.au
 staging-ws3.instasolution.ch
 standard.ihan.fi
 static.intercomassets.com
+static.itsx.kz
 stg-www.ingresso.com
+surescripts.isequelmed.com
 sync6.im-apps.net
 teamcenter.ineosautomotive.com
 termoidraulica.inoltresecurity.eu
@@ -3457,6 +3490,7 @@ transact.nzta.govt.nz.intoblue.com.au
 treinamento.imprensaoficial.com.br
 trn29df9.isrg-simulation.com
 tts.iflyos.cn
+tygybgyh.itsaol.com
 uat.irembopay.com
 uicomponent.interbank.pe
 update.ipage.shop
@@ -3507,7 +3541,9 @@ www.billybrenda.invitationtoyou.com
 www.billzhub.infopearlz.com
 www.booking.itbro.id
 www.chirobox.com.au.innate.com.au
+www.citizenroastery.com.iainkruger.co.za
 www.city.ibaraki-koga.lg.jp
+www.client.imenu.ma
 www.college-paymentsystem.irwansyafani.com
 www.customerportal.insbrok.com
 www.customers.insbrok.com
@@ -3523,6 +3559,7 @@ www.git.gitlab.git.gitlab.wwe.isratv.ru
 www.gitlab.git.gitlab.wwe.isratv.ru
 www.gitlab.git.wwe.isratv.ru
 www.gitlab.gitlab.wwe.isratv.ru
+www.gmail.iccceast.org
 www.i-married-a-monster-on-a-hill.com
 www.i-sedai.com
 www.iamartist.ch
@@ -3534,6 +3571,7 @@ www.ibanezrules.com
 www.iberocredito.site
 www.ibm-bank.com
 www.icbsupport.com
+www.iccl.ie
 www.icosvad.de
 www.icsalvobasso.it
 www.idahostatejournal.com
@@ -3566,6 +3604,7 @@ www.impec-service-routiers.fr
 www.impotsexpert.ca
 www.impresacloud.com
 www.imprintbookstore.com
+www.improve-services.com
 www.improvedcreditscore.com
 www.inay-asso.org
 www.inclusivehires.com
@@ -3640,6 +3679,8 @@ www.ivanhoe.com
 www.izanaminotuki.com
 www.login.indonesiatanpariba.or.id
 www.magazin.itpcservice.ro
+www.naildesignerdesucesso.internacional.fun
+www.navidad-luiza.imagen28.com
 www.pagocontraentrega.impacstore.com
 www.pankajbill.in.iiops.in
 www.payment.indokaisa.com
