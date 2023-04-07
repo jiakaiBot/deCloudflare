@@ -327,6 +327,7 @@ youtrack.quicksearch.se
 academia.qam.pt
 api.quicksign.fr
 api.quinteft.com
+api.qujam.com
 betas.quantalucia.com
 ccagents.qswerve.com
 checkconnector.qualipso.be
@@ -353,8 +354,11 @@ q-furniture.com
 q2developer.com
 qalmoco.quicksoft.com.br
 qamahcenter.com
+qamy-id.com
 qapaq.pe
+qatarembassy.es
 qcom.co.uk
+qettafalkher.com
 qhsealert.com
 qoloran.store
 qomccs.shop
@@ -379,10 +383,12 @@ quicklearnvirtual.com
 quinieladehoy.org
 quodvide.de
 quoli.bet
+quoratoday.com
 quoteinvestigator.com
 s.ssl.qhres2.com
 services.qtc.co.th
 shopkonzept.quikfox-lab.com
+sl2-api-staging.qrioinc.com
 soytest.quarissoluciones.com
 starsona-dev.qburst.build
 webhook.github.dev.qualia.io
