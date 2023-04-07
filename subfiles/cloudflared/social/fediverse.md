@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,100 |
+| com | 6,102 |
 | social | 3,909 |
-| net | 3,108 |
+| net | 3,109 |
 | org | 2,144 |
 | de | 2,034 |
 
@@ -5906,6 +5906,7 @@ Here's a list of public Fediverse services.
 | `christian-hockenberger.com` | No |
 | `christian-vogeley.de` | No |
 | `christian-vogeley.eu` | No |
+| `christianbuehlmann.com` | No |
 | `christianburkh.art` | No |
 | `christianity.business` | Yes |
 | `christianjunk.de` | No |
@@ -10036,7 +10037,7 @@ Here's a list of public Fediverse services.
 | `emre.xyz` | No |
 | `emse.fr` | No |
 | `emsenn.net` | No |
-| `emtee.xyz` | No |
+| `emtee.xyz` | Yes |
 | `emu.social` | Yes |
 | `emucafe.club` | No |
 | `emy.lu` | No |
@@ -30279,7 +30280,7 @@ Here's a list of public Fediverse services.
 | `ropedrop.social` | No |
 | `ropo.jp` | No |
 | `rorea.moe` | Yes |
-| `rororo.xyz` | No |
+| `rororo.xyz` | Yes |
 | `rorshok.social` | No |
 | `roryprice.me` | No |
 | `roryprice.net` | No |
@@ -32791,6 +32792,7 @@ Here's a list of public Fediverse services.
 | `soldyn.net` | Yes |
 | `soleus.nu` | No |
 | `solhack.com` | Yes |
+| `soli0222.com` | No |
 | `solibre.de` | No |
 | `solidaires.org` | No |
 | `solidarite-precaires.net` | No |
@@ -34014,6 +34016,7 @@ Here's a list of public Fediverse services.
 | `suya.place` | No |
 | `suzi.moe` | Yes |
 | `suzu.eu.org` | No |
+| `suzuka.page` | Yes |
 | `suzume.life` | No |
 | `suzumiya.moe` | No |
 | `suzuoki.social` | No |
@@ -35476,6 +35479,7 @@ Here's a list of public Fediverse services.
 | `thinkof.name` | Yes |
 | `thinktanki.social` | No |
 | `thinkydoers.social` | No |
+| `third-branches.net` | Yes |
 | `thirdlaw.net` | No |
 | `thirdworld.finance` | No |
 | `thirring.org` | No |
@@ -37569,6 +37573,7 @@ Here's a list of public Fediverse services.
 | `varmint.town` | No |
 | `varnelis.net` | Yes |
 | `varney.fr` | No |
+| `vartist.fans` | Yes |
 | `vartkw.xyz` | No |
 | `varwest.fr` | No |
 | `vascowhite.co.uk` | No |
@@ -40476,7 +40481,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,079 |
+| Cloudflare | 10,084 |
 | Normal | 30,354 |
 
 
