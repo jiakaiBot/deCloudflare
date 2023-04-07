@@ -4,6 +4,13 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/432)
+- [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/431)
+- [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/430)
+- [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/429)
+- [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/428)
+- [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/427)
+- [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/426)
 - [OpenAPI 502 Bad gateway error and stop](https://github.com/yoheinakajima/babyagi/issues/64)
 - [Gateway Error shutsdown the whole application](https://github.com/Torantulino/Auto-GPT/issues/381)
 - [ERR Detected hanging goroutine (count=41/41) = nuclei-stacktrace-cgnrmu4rsqjs73ct13kg.dump](https://github.com/projectdiscovery/nuclei/issues/3514)
