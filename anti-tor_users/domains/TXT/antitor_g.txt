@@ -4933,10 +4933,13 @@ zmail.grasssuggestionangle.online
 3f1345b969226cef76dfd1a8ab56b4ea.safeframe.googlesyndication.com
 423f87c1216639652c41868b2c7e9ae5.safeframe.googlesyndication.com
 43d87f80fad84f.site.godaddyarabicwsbonline.com
+44148c572c4944.site.godaddyarabicwsbonline.com
 442c978590af4b.site.godaddyarabicwsbonline.com
+44fa89cf54d143.site.godaddyarabicwsbonline.com
 46b3528332fa44.site.godaddyarabicwsbonline.com
 47797605aa3e123933473f97e899df9d.safeframe.googlesyndication.com
 4ba1e2573ce149.site.godaddyarabicwsbonline.com
+4ca38c7e141548.site.godaddyarabicwsbonline.com
 4f2177d4eec37a36c80f2a0254d44b64.safeframe.googlesyndication.com
 4ff1fa202e484b.site.godaddyarabicwsbonline.com
 513153f18dab4d.site.godaddysite.online
@@ -4958,6 +4961,8 @@ zmail.grasssuggestionangle.online
 7813815a238a43.site.godaddyarabicwsbonline.com
 7a29caa55afb4c.site.godaddyarabicwsbonline.com
 7a8bf9673b1c40.site.godaddyarabicwsbonline.com
+7af5c2520b8f48.site.godaddyarabicwsbonline.com
+7ce33ab248504d.site.godaddywsb.online
 7d9f1ee1dad0a6cbff3eae8f9fabba2c.safeframe.googlesyndication.com
 7fbb7dcc3e0a43.site.godaddyarabicwsbonline.com
 80fbdab063e2855c11cc9c3a88c9fc48.safeframe.googlesyndication.com
@@ -4979,6 +4984,7 @@ zmail.grasssuggestionangle.online
 91799d9d5fc24f.site.godaddyarabicwsbonline.com
 9693633a867849.site.godaddyarabicwsbonline.com
 99571ab590484b.site.godaddyarabicwsbonline.com
+9cd9625653ca48.site.godaddyarabicwsbonline.com
 9d792dc77ffa43.site.godaddyarabicwsbonline.com
 9e6e2ab7dd504b.site.godaddyarabicwsbonline.com
 a1d0d5a11568f11cb1326942b42befd7.safeframe.googlesyndication.com
@@ -5015,6 +5021,7 @@ ai.grimtech.co.uk
 ajmalameen.github.io
 akanksha3012.github.io
 akashpmani.github.io
+akohlymlsxhmpmfosysadetfxub.storage.googleapis.com
 akshata2696.github.io
 akshay2723.github.io
 aloneuh.github.io
@@ -5046,8 +5053,11 @@ atqe21.godaddysites.com
 att50.godaddysites.com
 attlogs9.godaddysites.com
 atttmsgs.godaddysites.com
+auth.grc-dev.cloud
+avito.avito.sber.sberbank.covid19.goldclub-mktg.com
 avito.sber.avito.avito.sber.www.covid19.gamesjobsfair.com
 avito.sber.avito.www.avito.www.covid19.gamesjobsfair.com
+avito.sber.sber.sber.avito.sber.covid19.googlelogist.com
 avito.sberbank.sber.avito.sber.covid19.gorod-sveta-rf.ru
 b-e.godaddysites.com
 b422d91862b54d.site.godaddyarabicwsbonline.com
@@ -5055,11 +5065,14 @@ b4cf0ae34b9646.site.godaddyarabicwsbonline.com
 b6fa5b825c194e.site.godaddyarabicwsbonline.com
 b94c869ad0a649.site.godaddyarabicwsbonline.com
 ba-ws.geonames.net
+ba063a5ab3454d.site.godaddyarabicwsbonline.com
+ba1b3cbf622945.site.godaddyarabicwsbonline.com
 bananarepublic.gapcanada.ca
 bb05a0dc03434d.site.godaddyarabicwsbonline.com
 bbd0a1b6a9e143.site.godaddyarabicwsbonline.com
 bbrrrroooooaaaaaadddddbbnnd000.godaddysites.com
 bcmc.gazprombank.ru
+belelros.github.io
 billing.goincomy.com
 billpaynotification.googleapis.com
 blnance.com.grupposcuola.org
@@ -5087,6 +5100,7 @@ canadapost.gov-express.link
 canadapost.gov-priority.link
 carlos3025.github.io
 cases.greekcovid.com
+cauanicolas777.github.io
 cdd3223b72ecf6f13c2c1b069f91bdda.safeframe.googlesyndication.com
 cdss.govqa.us
 ce7bf67bf2ff4f.site.godaddyarabicwsbonline.com
@@ -5099,6 +5113,7 @@ chiomasarah-ui.github.io
 chiragrajoria.github.io
 chromium-review.googlesource.com
 clientesfyc.gruposantander.es
+cmhf.gnst.jp
 coenbasecomlo.godaddysites.com
 coenbaselvcx.godaddysites.com
 compobg.github.io
@@ -5141,6 +5156,7 @@ darshansalunke53.github.io
 dashboard.guarantyaffluentsbnk.com
 dazzling-shimmering-beanie.glitch.me
 db088fd4ed9f43.site.godaddywsb.online
+db1c737917b741.site.godaddyarabicwsbonline.com
 db3ccc8f6c8e4e.site.godaddyarabicwsbonline.com
 db76f5a4d09736f79c832d36b4148b2a.safeframe.googlesyndication.com
 dd356f88563343.site.godaddywsb.online
@@ -5157,6 +5173,7 @@ disco.gizunk.co.uk
 discord-node.georgebaggaley.co.uk
 discord.godhelper.org
 discordia.gemforge.de
+discourse.dev.getopt.io
 discovreducation.greatuntold.com
 discworld.gamingtools.com
 dnyaneshwari77.github.io
@@ -5175,6 +5192,7 @@ doc-0g-98-docs.googleusercontent.com
 doc-0k-54-docs.googleusercontent.com
 doc-0k-9c-docs.googleusercontent.com
 doc-0k-b0-docs.googleusercontent.com
+doc-0k-bs-docs.googleusercontent.com
 doc-0o-4g-docs.googleusercontent.com
 doc-0o-98-docs.googleusercontent.com
 doc-0s-4o-docs.googleusercontent.com
@@ -5221,7 +5239,9 @@ expitau-dev.github.io
 expugn.github.io
 f05b6735264a4f.site.godaddyarabicwsbonline.com
 f10d78d9f7a2319498ea5460e69e960a.safeframe.googlesyndication.com
+f1e52316f3344c.site.godaddyarabicwsbonline.com
 f36968d812d848.site.godaddyarabicwsbonline.com
+f3d2c0730a9d47.site.godaddyarabicwsbonline.com
 f62e6c90f33d4d.site.godaddyarabicwsbonline.com
 f63025f0b98843.site.godaddyarabicwsbonline.com
 f661193a4f2e44.site.godaddyarabicwsbonline.com
@@ -5261,6 +5281,7 @@ galloneroservice.ro
 gamationline.com.ar
 gameboku.com
 gamec.tw
+gamedile.pl
 gamehub.fi
 gamepub.sk
 gamer4you.net
@@ -5312,6 +5333,7 @@ gearanimez.xyz
 geekbrains.ru
 geekdad.com
 geekgirls.fi
+geislasantosmbc.com.br
 gekkoit.co.uk
 gelaros.shop
 geldartrenovations.co.uk
@@ -5343,6 +5365,7 @@ gestiondelaformacion.es
 get-sahibndenparamguvende.tk
 getbillingsupport.com
 getprinterhelps.tech
+getprofitlens.com
 getrawlivewell.com
 getyourdreambodynow.com
 getyourkeywithchelsea.realtor
@@ -5379,6 +5402,7 @@ gitlab.services
 gitlab.www.www.www.covid19.gorod-sveta-rf.ru
 giveawayearn.com
 givemehope.shop
+givikala.com
 gjks.jp
 gjsfashion.com
 gjsupplies.co.za
@@ -5393,11 +5417,13 @@ globalexpresspetcourier.net
 globalkonnexon.com
 globallandscapecenter.com
 globalmagazin.com
+globalmaillogisticservice.com
 globalmaritimedelivery.us
 globalmoney2u.com
 globalshiftingservice.com
 globalsocialtheory.org
 globaltrack.com.uy
+glorius.property
 glotzclevertv.de
 glucotrust-officiel.shop
 glucotrust-review.today
@@ -5488,12 +5514,15 @@ grimray.com
 groenleven.nl
 groovejetmedia.com
 grosnitro.click
+grossmaninc.com
 groundcontrol-la.com
 growthefuckup.baby
+grtdeda2.grunenthal.com
 grulink.grupociadetalentos.com.br
 grupapgz.pl
 grupescudero.com
 grupoics.cl
+grupoqz.com
 grupounoseguridad.com.uy
 gruppo-credito.com
 gs-akashop.com
@@ -5512,6 +5541,7 @@ guiltless-profuse-cornet.glitch.me
 guiltyfeminist.com
 guitar-ijiri.com
 gulenyuzyapi.com
+gummylabmy.net
 gungemadstore.com
 gurmeetsahni.com
 guruccna.com
@@ -5528,12 +5558,14 @@ hfduk.godaddysites.com
 himaanshuagrawal.github.io
 hkvcexpe2.gibsondunn.com
 home6212.godaddysites.com
+homefront.globalcashaccess.us
 hsk7100.github.io
 hurco.gtprototype.com
 iammonsur.github.io
 id.google.co.jp
 idp3.it.gu.se
 imasdk.googleapis.com
+impartial-nonstop-tornado.glitch.me
 incandescent-caramel-pound.glitch.me
 inco.generali.hr
 india-south-singapor.gpoon25g25yj.gw.gpcloudservice.com
@@ -5561,15 +5593,18 @@ k9ngq4yzun4gglijyh3d8ifbsbvavde.storage.googleapis.com
 kagla.gnuok.com
 kapilrathod1.github.io
 kasiepatricia.github.io
+kauteetech.github.io
 kill3r14.github.io
 kimth0111.github.io
 kjhusbmr.github.io
 leo-m-oraes.github.io
 link.getayla.com
 lk.gorlab.ru
+local-handsomely-eyebrow.glitch.me
 logosfirma.gmsseguridad.com
 londarp.github.io
 loud-perfect-sidecar.glitch.me
+lp.googlemap.jp
 ma0301.groupnet.at
 magento.vmail.gardnerinsinc.com
 magento.vmail.gnomus.systems
@@ -5591,12 +5626,15 @@ melodious-snow-monday.glitch.me
 metamasklogijf.godaddysites.com
 meteor-tungsten-thorn.glitch.me
 metmask-lggona.godaddysites.com
+mi-italiano.gr8-consulting.com
 mjryeruvqrdbyu3fcq4iefwhaqvaelyjud7777yaaaaaat3x4sdq-c2r.metric.gstatic.com
 mledoze.github.io
 mobiinowav.gskvaccines.com
+mobileapi.uat.goodie.pl
 mobilemw.gratis.com.tr
 mohamed-aitabdelmalik.github.io
 mohammadarifcoding.github.io
+monitoring.gradus.app
 motijoshi.github.io
 mprimi.github.io
 mrsumanbiswas.github.io
@@ -5635,7 +5673,9 @@ pai.googlezip.net
 parimaltank.github.io
 parsnip.gocarrot.com
 pas.genesiscasino.es
+pay.gravitylabs.ro
 payments.gefyraepass.gr
+perfect-lush-twine.glitch.me
 personal.garrettfuller.org
 pkg-containers.githubusercontent.com
 planet-strengthened-bactrosaurus.glitch.me
@@ -5659,6 +5699,7 @@ ratana10.github.io
 ravi140891.github.io
 razamiya.github.io
 recaptcha-checker.guidance.studio
+recovery.garlandtx.gov
 redirect.globaliris.com
 rishavcoder.github.io
 rounded-forest-reindeer.glitch.me
@@ -5693,8 +5734,11 @@ saurabh-028.github.io
 saurabhkushwaha0.github.io
 sbcglobalemailverificationadmi9.godaddysites.com
 sber.avito.sber.sber.sber.blablacar.covid19.gorod-sveta-rf.ru
+sber.avito.sberbank.sberbank.covid19.goldclub-mktg.com
+sber.sber.sber.avito.avito.sber.covid19.goodkarmastroy.ru
 sber.sberbank.avito.sber.git.www.covid19.gorod-sveta-rf.ru
 sber.sberbank.www.gitlab.covid19.goodkarmastroy.ru
+sberbank.avito.avito.sber.sber.avito.covid19.googlelogist.com
 sberbank.blablacar.gitlab.covid19.goodkarmastroy.ru
 sberbank.git.gitlab.www.www.www.covid19.gorod-sveta-rf.ru
 sberbank.sber.avito.avito.sber.www.covid19.gamesjobsfair.com
@@ -5705,6 +5749,8 @@ sberbank.sber.sber.sber.git.www.covid19.gorod-sveta-rf.ru
 sbo.go333888.com
 sebene27.github.io
 secretive-keen-snow.glitch.me
+secure-amazonlogin-http.ground-deliveryaddress.com
+secure-amazonlogin-http.ground-fedex.com
 secure.geonames.net
 secure.gpo.ca
 securemail.globalpay.com
@@ -5716,6 +5762,7 @@ shifin424.github.io
 shinantc.github.io
 shop.google-shopping.club
 shop.vmail.gnomus.systems
+shy-vast-question.glitch.me
 silveiraguilherme.github.io
 sinsreyphea.github.io
 sk4nk.github.io
@@ -5733,7 +5780,9 @@ starkville.goolsby.info
 steamy.geiger.clothing
 stefangabos.github.io
 stg.covid19grant.gopayapi.com
+stg.gmo-app.jp
 stgsuperappapi.goindigo.in
+store.genetech.co
 store.vmail.gnomus.systems
 store.zmail.gon.cl
 stufendiscord.genanntnoelke.de
@@ -5742,6 +5791,7 @@ sukarayamjanjua.github.io
 sundarasekar01.github.io
 support.gateway-prime.systems
 support.gintell.com
+support.gms-ec.com
 svc.g.globo
 swift-sheer-random.glitch.me
 sync.gonet-ads.com
@@ -5788,6 +5838,7 @@ verarbeitung.gkv-kommunikationsserver.de
 verify.globaldatacompany.com
 verify.goldseal.me
 vickylamiel.github.io
+vinaya5317.github.io
 vinhtruong2001.github.io
 visibility-tools-gateway-uat.extranet.geodis.org
 vs2.go-e.site
@@ -5804,6 +5855,7 @@ webmail-signin-signon-ca.github.io
 webmail-update.github.io
 webmail.generalcontractornewyorkcity.com
 webmail.gorkhaforcesecurity.com
+webservices.giant-bicycles.com
 whm.gmhijau.com.my
 whm.gojekliburan.com
 wkazisan.github.io
@@ -5845,6 +5897,7 @@ www.gamalkamel.com
 www.gamarraservice.com.br
 www.gamatpp.com
 www.gameserver1-mt.com
+www.gamesjobsdirect.com
 www.gamriebay.co.uk
 www.gandrpestcontrol.com
 www.ganedinero.online
@@ -5871,6 +5924,7 @@ www.gear4music.fr
 www.gebaeudeservice-ad.de
 www.geconsultinggroup.com
 www.gehe-auftragsservicetest.de
+www.gelato-italiano.ru
 www.geldartrenovations.co.uk
 www.geldsolution.nl
 www.gemeentebeeldbank.nl
@@ -5926,9 +5980,11 @@ www.gokanberlin.de
 www.gold-services.ir
 www.goldencoaststandard.com
 www.goldenwolfen.com
+www.goldmangroup.com.br
 www.goldmanlawny.com
 www.goodservice-asahikawa.com
 www.goodthingsguy.com
+www.googlefe04859b5b90c33agoogle.com
 www.googlepartners.vn
 www.googlerne.dk
 www.googlesheetexperts.com
@@ -5951,6 +6007,7 @@ www.greenspices.in
 www.greenwoodswarrington.co.uk
 www.grettongardeninggroup.com
 www.griefyork.com
+www.group1cars.co.za
 www.groupon.de
 www.gruasmagruber.com.mx
 www.gruene-hamburg.de
@@ -5964,6 +6021,7 @@ www.gs-sales.de
 www.gskdirect.com
 www.gucci.com
 www.guideservice.com.pl
+www.gunninggroup.ca
 www.gustoitaliano.goldengates.md
 www.gutenberg.net.au
 www.guyaweb.com
@@ -5975,6 +6033,7 @@ www.invoice.greathost.ro
 www.invoice.gstkaro.com
 www.invoice.guptamobiles.com
 www.lapor.gopost.id
+www.mi-italiano.gr8-consulting.com
 www.newsletter.groupemutuel.ch
 www.payment.gbkpklasismenara.or.id
 www.pdo-transverse.generali.fr
