@@ -2044,6 +2044,7 @@ asset-out-cdn.video-cdn.net
 autodiscover.venafitjuice.com
 autodiscover.vgacmedia.com
 avito.avito.avito.avito.avito.www.covid19.view-manager.com
+avito.avito.blablacar.sber.covid19.view-manager.com
 avito.sberbank.avito.sber.avito.www.covid19.vr-cosmetology.ru
 avito.sberbank.sber.sber.www.covid19.view-manager.com
 avito.sberbank.sberbank.avito.avito.www.covid19.view-manager.com
@@ -2113,6 +2114,7 @@ discosdevictoria.vercel.app
 discovrbookings.vercel.app
 discrird.vercel.app
 dlf-aspire-api-ca-central-1.dni.velocityfabric.com
+docker.valenet.com.br
 dogforlife.v3client.com
 domaincfg.vivo.com
 dprushchak.vercel.app
@@ -2126,6 +2128,7 @@ engage.vzw.com
 env-9187341.users.scale.virtualcloud.com.br
 epac.verisurepagos.cl
 erandagan1-gmailcom.vercel.app
+es.vpn-direkt.de
 europe.connect.valeo.com
 event-demo-1-dev.vbuzzclient.com
 ezzulianiblog-gmailcom.vercel.app
@@ -2138,6 +2141,7 @@ foxtram.vercel.app
 galerie.vodafone.cz
 git.git.git.git.git.l.google.com.versacommerce.eu
 gitlab.gmail4.vossbryggeri.com
+giz-update.validserver.de
 gmailgate.view-manager.com
 gmails.vossbryggeri.com
 h0i6d2e1-gmailcom.vercel.app
@@ -2154,6 +2158,7 @@ image.northeast.vitalant.org
 img.vrupup.com
 inc-paypal-update.vivahomes.my
 info.vulcanosolutions.com
+int-api.virtustec.com
 ipostal.vnpost.vn
 itrust-api.vetiva.com
 ivan-discord.vercel.app
@@ -2230,6 +2235,7 @@ pra.velco.com
 prahalathank-gmailcom.vercel.app
 prasanthprabha81-gmailcom.vercel.app
 procede.vvgweb.com
+prod.saas.qualtrics.va.gov
 prodr4x.vivaaerobus.app
 programmes.vivreenconnexion.fr
 ptp-payment.dev.vive.co.th
@@ -2250,6 +2256,7 @@ ronitronitronit1.vercel.app
 s1cdn.vnecdn.net
 sber.avito.avito.avito.avito.www.covid19.view-manager.com
 sber.avito.avito.avito.sber.avito.avim.covid19.vitorheinzen.com
+sber.avito.blablacar.avito.sber.www.covid19.vossbryggeri.com
 sber.sber.avito.avito.avito.sber.www.covid19.view-manager.com
 sber.sber.sber.sber.avito.sberbank.covid19.vr-cosmetology.ru
 sber.sber.sber.sber.avito.www.covid19.vojvodinanet.com
@@ -2299,6 +2306,7 @@ track.visage-mail.com
 tracking.volito.software
 transact.vantivpostlive.com
 transact.vantivprelive.com
+tvtgyhju.vizvaz.com
 uberhome.venomfw.com
 uchendubozz-gmailcom.vercel.app
 unfox.vercel.app
@@ -2307,11 +2315,13 @@ update-manager.vidim.it
 update2112c.votreintimite.com
 update2312.votreintimite.com
 v5security.co.za
+va-api-mgt.vrmco.com
 vaahinielectricals.co.in
 vacadascordas.com
 vacbp.org
 vaccine-proof.xyz
 vaja.ir
+valampurihotel.com
 valencia.vulcanosolutions.com
 valhoffman-gmailcom.vercel.app
 valigrama.ro
@@ -2395,11 +2405,14 @@ vertuco.nl
 very-match.com
 verygood.com.my
 vfwh.com
+vgrblogg.se
 vhznh123-gmailcom.vercel.app
+viago-tr.com
 viajescusco.travel
 viaplay.fi
 viaplay.no
 vibe.poker
+vickiandfriends.com
 vicos.vn
 vicsbricks.net
 victoriawriters.ca
@@ -2418,17 +2431,20 @@ villabukithambalang.id
 villameridian.com
 villededonnacona.com
 vin.gl
+vincaacademy.com
 vingrancloud.com
 vinlock.com.vn
 vinnter.se
 vintagebymoniek.nl
 violainechapallaz.com
+vip-cycles.com
 vipayapi.com
 vipexpresso.com
 virgonet.co.il
 virl.bc.ca
 virtualcall.com.br
 vishalpai.com
+visionsmatters.org
 visitlokka.no
 visitpuumala.fi
 visitstranda.com
@@ -2466,12 +2482,15 @@ vrindavantourpackage.com
 vrocescoca-gmailcom.vercel.app
 vs10service.com
 vsminternational.in
+vsoundtrack.com
 vss-security-services.com
 vtest314-qrbxh5xuzdakbm058unn.vercel.app
 vtrnews.in
 vuaphanthuoc.com
+vulcanm.com
 vulcanosolutions.com
 vutaelectrical.com
+vvm.co.za
 vwvwvwvw.com
 wafparis.prod.aws.vsct.fr
 wagmi-git-feat-moonpay-jpgstore.vercel.app
@@ -2482,6 +2501,7 @@ webdisk.voices.nyc
 webmail.vaccine-proof.xyz
 webmail.vattuphutroapple.vn
 webmail.violinear.com
+webservice.vrisonline.nl
 webservices01.vfuc.nl
 wegfox.vercel.app
 worten-dev.vistex.cloud
@@ -2518,6 +2538,7 @@ www.matchmakersupport.com.vldjo.com
 www.meganhamiltonmusic.com.vodafoneesmusica.com
 www.movies.verifying.email
 www.nutrilibrex.com.mx.vivancomedicalcare.com
+www.panel.vpnvivo.com
 www.payment.villagiardinobol.com
 www.rahatpintaan.vesi.fi
 www.reddit.videodownload.online
@@ -2573,6 +2594,7 @@ www.venomous-oman.com
 www.vercliente.store
 www.verfotos.org
 www.verificatucertificado.com
+www.verifyit.pl
 www.verkoop-mijn-auto-veilig.be
 www.vesi.fi
 www.vetenskaphalsa.se
@@ -2580,9 +2602,11 @@ www.vgperu.pe
 www.vhec.org
 www.vianatel.com.br
 www.victoriaadvocate.com
+www.vidalconsulting.co
 www.videostory.com
 www.vieetargent.fr
 www.vietsuncorp.com.vn
+www.vill.chosei.chiba.jp
 www.vill.ogata.akita.jp
 www.villaggiosanpaolo.com
 www.villameridian.com
@@ -2602,7 +2626,9 @@ www.vivatravelonline.com
 www.vivel.in
 www.viviology.com.au
 www.viz.com
+www.vlastakopylova.com
 www.vline.com.au
+www.vmsteam.info
 www.vodafone.ie
 www.vodafonemail.de
 www.vogtenhuber.com
@@ -2620,6 +2646,7 @@ www.vpn.vipconnectssh.com
 www.vpnconsult.nl
 www.vpntelecom.com.br
 www.vpntoppen.se
+www.vsoundtrack.com
 www.vtc-gwened-services.fr
 www.vught.nu
 www.vyomoverseas.com
