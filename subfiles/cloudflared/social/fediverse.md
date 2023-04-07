@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,095 |
+| com | 6,096 |
 | social | 3,904 |
 | net | 3,107 |
 | org | 2,144 |
@@ -12270,6 +12270,7 @@ Here's a list of public Fediverse services.
 | `ftsi.ru` | No |
 | `ftt.gmbh` | No |
 | `fu-jp.net` | No |
+| `fuba.dev` | Yes |
 | `fuc3.com` | No |
 | `fuchicolove.com` | No |
 | `fuchs.social` | No |
@@ -16897,6 +16898,7 @@ Here's a list of public Fediverse services.
 | `jimotodon.com` | No |
 | `jimtay.uk` | Yes |
 | `jimweb.dev` | No |
+| `jinc.io` | Yes |
 | `jing8956.com` | Yes |
 | `jingo.social` | No |
 | `jinja.eu` | No |
@@ -22841,7 +22843,6 @@ Here's a list of public Fediverse services.
 | `mnlpn.xyz` | No |
 | `mnml.news` | No |
 | `mnordhaus.de` | No |
-| `mnt.blue` | No |
 | `mnte.ro` | No |
 | `mnwsngk.info` | No |
 | `mo-na.space` | No |
@@ -24735,7 +24736,7 @@ Here's a list of public Fediverse services.
 | `nibiru.nz` | No |
 | `nibis.de` | Yes |
 | `niboe.info` | No |
-| `nice.community` | No |
+| `nice.community` | Yes |
 | `nice.kiwi` | Yes |
 | `nice.photo` | No |
 | `niceartprints.de` | No |
@@ -25083,6 +25084,7 @@ Here's a list of public Fediverse services.
 | `noelle.codes` | No |
 | `noelware.cloud` | Yes |
 | `noemis.me` | No |
+| `noescapevg.com` | Yes |
 | `noexce.pt` | Yes |
 | `noexpectations.show` | No |
 | `noexpectations.social` | No |
@@ -26636,6 +26638,7 @@ Here's a list of public Fediverse services.
 | `oyam.ca` | Yes |
 | `oyashirosama.cf` | No |
 | `oyashirosama.tk` | No |
+| `oyasumi.space` | No |
 | `oyd.social` | No |
 | `oye.social` | No |
 | `oyl.ink` | Yes |
@@ -40444,8 +40447,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,066 |
-| Normal | 30,335 |
+| Cloudflare | 10,070 |
+| Normal | 30,334 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
