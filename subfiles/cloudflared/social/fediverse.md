@@ -18242,6 +18242,7 @@ Here's a list of public Fediverse services.
 | `kneitzel.de` | No |
 | `knh.uno` | No |
 | `knickerghost.com` | No |
+| `knife.coffee` | No |
 | `knight.fyi` | Yes |
 | `knightleow.com` | No |
 | `knittingpirate.com` | No |
@@ -40484,7 +40485,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,085 |
-| Normal | 30,355 |
+| Normal | 30,356 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
