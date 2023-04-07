@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Gateway Error shutsdown the whole application](https://github.com/Torantulino/Auto-GPT/issues/381)
 - [ERR Detected hanging goroutine (count=41/41) = nuclei-stacktrace-cgnrmu4rsqjs73ct13kg.dump](https://github.com/projectdiscovery/nuclei/issues/3514)
 - [is it possible to make hot reloading work with cloudflare tunnel?](https://github.com/thgh/rollup-plugin-livereload/issues/75)
 - [GitHub Actions job notification-gitter fails to succeed because webhooks.gitter.im does not resolve](https://github.com/gin-gonic/gin/issues/3560)
