@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [OpenAPI 502 Bad gateway error and stop](https://github.com/yoheinakajima/babyagi/issues/64)
 - [Gateway Error shutsdown the whole application](https://github.com/Torantulino/Auto-GPT/issues/381)
 - [ERR Detected hanging goroutine (count=41/41) = nuclei-stacktrace-cgnrmu4rsqjs73ct13kg.dump](https://github.com/projectdiscovery/nuclei/issues/3514)
 - [is it possible to make hot reloading work with cloudflare tunnel?](https://github.com/thgh/rollup-plugin-livereload/issues/75)
