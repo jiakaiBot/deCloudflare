@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,096 |
-| social | 3,904 |
+| social | 3,905 |
 | net | 3,107 |
 | org | 2,144 |
 | de | 2,033 |
@@ -1034,6 +1034,7 @@ Here's a list of public Fediverse services.
 | `aedius.fr` | No |
 | `aegibson.me` | No |
 | `aegiszero.is` | Yes |
+| `aegrel.ee` | Yes |
 | `aekrylov.me` | No |
 | `aeld.net` | No |
 | `aelf.ee` | Yes |
@@ -15193,6 +15194,7 @@ Here's a list of public Fediverse services.
 | `hse.social` | No |
 | `hsilop.net` | No |
 | `hsjz.garden` | Yes |
+| `hsn.dev` | Yes |
 | `hsnl.social` | No |
 | `hsoww.social` | No |
 | `hsp.sh` | Yes |
@@ -16373,6 +16375,7 @@ Here's a list of public Fediverse services.
 | `itsg.host` | Yes |
 | `itsgarrett.com` | Yes |
 | `itsgonna.com` | No |
+| `itskevin.social` | Yes |
 | `itskil.com` | No |
 | `itslaura.eu` | No |
 | `itsme.lgbt` | No |
@@ -40447,7 +40450,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,070 |
+| Cloudflare | 10,073 |
 | Normal | 30,334 |
 
 
