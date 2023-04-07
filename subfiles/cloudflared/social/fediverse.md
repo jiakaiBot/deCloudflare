@@ -4748,6 +4748,7 @@ Here's a list of public Fediverse services.
 | `brutsellog.nl` | No |
 | `bry.bar` | No |
 | `bryanmacmurray.com` | No |
+| `brydge.dev` | Yes |
 | `bryla.tk` | Yes |
 | `brz9.dev` | No |
 | `brzozow.xyz` | No |
@@ -40474,7 +40475,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,078 |
+| Cloudflare | 10,079 |
 | Normal | 30,353 |
 
 
