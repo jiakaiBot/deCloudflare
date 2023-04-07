@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [WordPress <ERROR ESTABLISHING DATABASE CONNECTION>](https://github.com/bitnami/vms/issues/837)
 - [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/446)
 - [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/432)
 - [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/431)
