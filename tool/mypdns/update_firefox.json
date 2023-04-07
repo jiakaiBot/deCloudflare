@@ -8,9 +8,9 @@
               "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.2.6",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/reporter/addon/firefox/addon.xpi?3bf80426a0526b87efe75f1ffc3033b825f5ea99cf9fcae89bfbe006287c094f",
-          "update_hash": "sha256:3bf80426a0526b87efe75f1ffc3033b825f5ea99cf9fcae89bfbe006287c094f"
+          "version": "1.0.2.7",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/reporter/addon/firefox/addon.xpi?802c3489ed9e8a21946fbc4c1c1153da0d658a41bcc0c463e620763f169482d8",
+          "update_hash": "sha256:802c3489ed9e8a21946fbc4c1c1153da0d658a41bcc0c463e620763f169482d8"
         }
       ]
     },
