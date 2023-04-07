@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [GitHub Actions job notification-gitter fails to succeed because webhooks.gitter.im does not resolve](https://github.com/gin-gonic/gin/issues/3560)
 - [allow converting tile types](https://github.com/protomaps/go-pmtiles/issues/48)
 - [上报错误ChatGPT error 400，怎么解决，在线等！](https://github.com/Chanzhaoyu/chatgpt-web/issues/1287)
 - [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/420)
