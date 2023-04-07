@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,102 |
-| social | 3,909 |
+| com | 6,103 |
+| social | 3,910 |
 | net | 3,109 |
 | org | 2,144 |
 | de | 2,034 |
@@ -949,6 +949,7 @@ Here's a list of public Fediverse services.
 | `addajones.com` | Yes |
 | `addconf.me` | No |
 | `addesp.com` | Yes |
+| `addicted.social` | No |
 | `addictiv.ink` | No |
 | `addy.gg` | Yes |
 | `addyadds.us` | No |
@@ -4583,6 +4584,7 @@ Here's a list of public Fediverse services.
 | `braunschweig.social` | No |
 | `brave.cafe` | No |
 | `brave.to` | No |
+| `brave2049.com` | No |
 | `brawner.social` | No |
 | `braxo.se` | No |
 | `braydmedia.de` | No |
@@ -10917,7 +10919,7 @@ Here's a list of public Fediverse services.
 | `feaneron.com` | No |
 | `fearisfreedom.com` | No |
 | `fearness.org` | No |
-| `feastcoast.com` | No |
+| `feastcoast.com` | Yes |
 | `feather.city` | Yes |
 | `feather.onl` | No |
 | `feather.wiki` | No |
@@ -10926,6 +10928,7 @@ Here's a list of public Fediverse services.
 | `feathers.link` | No |
 | `featyre.xyz` | Yes |
 | `february.social` | No |
+| `fed-it.nu` | No |
 | `fed.contact` | No |
 | `fed.fan` | Yes |
 | `fed.im` | No |
@@ -31386,6 +31389,7 @@ Here's a list of public Fediverse services.
 | `secbig.com` | Yes |
 | `secclo.community` | Yes |
 | `secdiary.com` | No |
+| `sechi.tech` | Yes |
 | `secline.de` | No |
 | `secluded.ch` | No |
 | `secluded.site` | No |
@@ -40484,8 +40488,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,085 |
-| Normal | 30,356 |
+| Cloudflare | 10,087 |
+| Normal | 30,358 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
