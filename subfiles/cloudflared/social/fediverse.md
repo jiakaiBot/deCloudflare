@@ -32843,6 +32843,7 @@ Here's a list of public Fediverse services.
 | `sona.live` | Yes |
 | `sonar.news` | Yes |
 | `sonatagreen.com` | No |
+| `sonck.nl` | Yes |
 | `sondages.pro` | No |
 | `sondersign.social` | Yes |
 | `sone.social` | No |
@@ -40481,7 +40482,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,084 |
+| Cloudflare | 10,085 |
 | Normal | 30,354 |
 
 
