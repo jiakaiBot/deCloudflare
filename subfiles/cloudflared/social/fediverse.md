@@ -29107,6 +29107,7 @@ Here's a list of public Fediverse services.
 | `radiofreerobotron.net` | No |
 | `radiola.be` | No |
 | `radiolivre.org` | No |
+| `radiolunetta.casa` | No |
 | `radiomind.com` | No |
 | `radionlya.casa` | No |
 | `radiopatio.social` | No |
@@ -40476,7 +40477,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,079 |
-| Normal | 30,353 |
+| Normal | 30,354 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
