@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-04-07: [Increased R2 error rate in Dublin](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/w7pct40l2210)
 - 2023-04-07: [Issues with Google Crawlers](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jw09ckwbg2tn)
 - 2023-04-06: [Cloudflare One Client issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/86lfr4f5jxjl)
 - 2023-04-05: [Advanced Certificate Manager orders having TLS termination failures with ECDSA ciphers](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/p0m9zswhrh17)
