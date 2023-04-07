@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Sound is not playing.](https://github.com/frondeus/fvtt-syrin-control/issues/94)
 - [WordPress <ERROR ESTABLISHING DATABASE CONNECTION>](https://github.com/bitnami/vms/issues/837)
 - [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/446)
 - [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/432)
