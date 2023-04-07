@@ -28295,6 +28295,7 @@ Here's a list of public Fediverse services.
 | `pravdasocial.net` | Yes |
 | `pravdastalina.info` | No |
 | `pravic.xyz` | Yes |
+| `praxis-viola-freitag.at` | No |
 | `praxis.red` | Yes |
 | `praxis.su` | Yes |
 | `prayerforwords.com` | No |
@@ -40483,7 +40484,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,085 |
-| Normal | 30,354 |
+| Normal | 30,355 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
