@@ -60,6 +60,7 @@ Or is this merely a case of simple modesty?
 | Adam Chalmers‏ | Employee | https://twitter.com/adam_chal |
 | Adam Martinetti | Support Engineer |  |
 | Adam Morse | Employee |  |
+| Adam Murray | Employee | |
 | Adam Schwartz | Composer Designer | adam.flynn.schwartz@gmail.com<br>https://twitter.com/adamfschwartz<br>https://adamschwartz.co/<br>https://github.com/adamschwartz<br>https://dribbble.com/adamschwartz |
 | Adam Shea | Expansion Account Manager |  |
 | Adam Wager | Employee |  |
@@ -1092,6 +1093,7 @@ Or is this merely a case of simple modesty?
 | Luke Valenta | Cryptography Engineer |  |
 | Lyn Hines | Technical Support Engineer |  |
 | Maciej Bilas | Software Engineer, Poland |  |
+| Maciej Lechowski | Employee | |
 | Maddie Roster | Business Development |  |
 | Madeleine Stinson | Employee |  |
 | Madeline Gregory | Information Security |  |
@@ -1519,6 +1521,7 @@ Or is this merely a case of simple modesty?
 | Roy Lo | Customer Development |  |
 | Rui Silva | Technical Support Engineer |  |
 | Rupesh Ganeshe | Solutions Engineer |  |
+| Rushil Mehra | Employee | |
 | Rushil Shah | Product Security Engineer |  |
 | Rustam Iuldashev | SRE |  |
 | Rustam Lalkaka | Employee |  |
