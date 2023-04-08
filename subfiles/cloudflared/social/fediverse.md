@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,108 |
+| com | 6,109 |
 | social | 3,912 |
 | net | 3,111 |
 | org | 2,147 |
@@ -12899,7 +12899,7 @@ Here's a list of public Fediverse services.
 | `geekstop.se` | No |
 | `geekstream.org` | No |
 | `geektox.fun` | No |
-| `geekvc.jp` | Yes |
+| `geekvc.jp` | No |
 | `geekwisdom.org` | No |
 | `geeky-gadgets.com` | Yes |
 | `geeky.af` | Yes |
@@ -21626,6 +21626,7 @@ Here's a list of public Fediverse services.
 | `masutadon.com` | No |
 | `masutodon.net` | No |
 | `mat.tl` | Yes |
+| `mataoma.com` | No |
 | `matapacos.dog` | No |
 | `matarillo.com` | No |
 | `matbox.net` | No |
@@ -40519,8 +40520,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,095 |
-| Normal | 30,381 |
+| Cloudflare | 10,094 |
+| Normal | 30,383 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
