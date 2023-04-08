@@ -343,6 +343,7 @@ Do not create new issue or we will close it as duplicate.
 | [adock12345@twitter](https://twitter.com/adock12345/status/1382531067207421953) | advertise |
 | [adora3021@twitter](https://twitter.com/adora3021/status/1390581418401484801) | advertise |
 | [AdrianiDame@twitter](https://twitter.com/AdrianiDame/status/1600716809543782406) | advertise |
+| [AdrianImach5@twitter](https://twitter.com/AdrianImach5/status/1644638254489108481) | advertise |
 | [adroitclipping@twitter](https://twitter.com/adroitclipping/status/1561189411072917504) | advertise |
 | [AdsbtcClick@twitter](https://twitter.com/AdsbtcClick/status/1412393199323299843) | advertise |
 | [adspedia@twitter](https://twitter.com/adspedia/status/1394396121141743623) | advertise |
