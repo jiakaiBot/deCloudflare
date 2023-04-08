@@ -327,6 +327,7 @@ xvzx.website
 xydipc.cn
 xynythcorp.com
 yapimu.xgane.com
+appid.co.jp.xdtv5glq.xyz
 bidagent.xad.com
 captcha.xcount.io
 client.xdigital.fun
@@ -385,6 +386,7 @@ www.xn--denizgneykurt-1ob.com.tr
 www.xn--ferienwohnung-trkei-kbc.com
 www.xn--glasgonbgar-48a0t.se
 www.xn--mainzer-gebudereinigungsservice-0vc.de
+www.xn--payments-90a.com
 www.yaniresources.xpresslinkservice.com
 www.zamzamvpn.xtomastech.com
 x-controls.no
@@ -397,7 +399,6 @@ xechuyendungvulinh.com
 xeersoft.com
 xeloibabanh.com
 xemiennam.vn
-xiaomiotplogin.com
 xiaoshuo.io
 xiaoyu.net
 xiegu.eu
@@ -413,6 +414,7 @@ xn--hndverkerservice-dob.no
 xn--mainzer-gebudereinigungsservice-0vc.de
 xn--mtawin-w4a.com
 xn--mtebooking365-bnb.no
+xn--payments-90a.com
 xn--regnskapsfrerpris-90b.no
 xn--t8j6c6de7a4051bxgdpu2o.net
 xn--webducation-dbb.com
@@ -421,9 +423,11 @@ xo-service.fi
 xokki.com
 xoompaypal.com
 xoticstudios.pro
+xplodenutrition.nl
 xpresswideservicedelivery.com
 xspaceradio.com
 xtn-soundworks.art
+xtrasupport.au
 xucnka.shop
 xuecn360.com
 xyft.xyz
