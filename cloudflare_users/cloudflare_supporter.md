@@ -4749,6 +4749,7 @@ Do not create new issue or we will close it as duplicate.
 | [itzSenPaiii@twitter](https://twitter.com/itzSenPaiii/status/1382434870757109763) | advertise |
 | [Itzs__shreyansh@twitter](https://twitter.com/Itzs__shreyansh/status/1606195258567536640) | advertise |
 | [Ivam74808040@twitter](https://twitter.com/Ivam74808040/status/1395808335069286400) | advertise |
+| [IvanAmbakisye@twitter](https://twitter.com/IvanAmbakisye/status/1644787131448020993) | advertise |
 | [Ivansai6@twitter](https://twitter.com/Ivansai6/status/1390643649617092618) | advertise |
 | [IvayloPushkov@twitter](https://twitter.com/IvayloPushkov/status/1641001450481360897) | advertise |
 | [ivexalus@twitter](https://twitter.com/ivexalus/status/1397599340592603137) | advertise |
