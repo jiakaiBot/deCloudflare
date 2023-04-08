@@ -105,7 +105,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | datamatter.co.za | No |
 | daw.dev | No |
 | decloudus.com | No |
-| deekshith.in | No |
 | dekonix.ru | Yes |
 | depieri.net | No |
 | despagne.net | No |
@@ -149,7 +148,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | elshad-adgh-dns.ru | No |
 | emiliyan.com | Yes |
 | ender.fr | No |
-| esegece.com | No |
 | extrawdw.net | Yes |
 | eyecay.xyz | Yes |
 | familiamv.ml | No |
@@ -159,7 +157,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ffmuc.net | Yes |
 | filipccz.eu | Yes |
 | findmethedns.info | No |
-| firestrike-services.de | No |
 | flm9.net | No |
 | flodns.net | No |
 | flymc.cc | Yes |
@@ -252,7 +249,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mipauns.com | Yes |
 | mobik.com | No |
 | modr.club | Yes |
-| mokocup.cf | Yes |
 | molinero.dev | Yes |
 | moog.sh | Yes |
 | moonssif.com | Yes |
@@ -323,7 +319,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rethinkdns.com | Yes |
 | rezhajul.io | No |
 | rferee.dev | Yes |
-| richardapplegate.io | Yes |
 | rin.sh | Yes |
 | ronc.ru | No |
 | rouga.ch | Yes |
@@ -359,7 +354,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sys-adm.in | Yes |
 | syshero.org | No |
 | t53.de | No |
-| tardishost.ru | No |
 | telekom.de | Yes |
 | teradns.org | Yes |
 | terumi.club | No |
@@ -409,8 +403,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 178 |
-| Normal | 212 |
+| Cloudflare | 176 |
+| Normal | 208 |
 
 
-### 45.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 45.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
