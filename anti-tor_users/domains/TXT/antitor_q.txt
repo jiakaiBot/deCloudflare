@@ -343,6 +343,7 @@ guide.standardclub.questmarine.app
 iadctest.qwapi.com
 idp.desktopdev.quicktools.cloud
 jspassport.ssl.qhimg.com
+jycv.qaxuacl.cn
 khedma.qfcra.com
 lp.quiz4thewin.com
 monitoring.quanos-solutions.com
@@ -368,6 +369,7 @@ qsafe.com.qa
 qsep.com
 quality-containers.com
 qualityelectricallines.net
+qualitysafety.org
 quangtanhoa.com
 quantumdelta.nl
 quantumdyno.com
