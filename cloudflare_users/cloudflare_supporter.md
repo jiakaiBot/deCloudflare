@@ -1392,6 +1392,7 @@ Do not create new issue or we will close it as duplicate.
 | [BankSilasap@twitter](https://twitter.com/BankSilasap/status/1552668171693625344) | advertise |
 | [banyaraung528@twitter](https://twitter.com/banyaraung528/status/1392892540995588096) | advertise |
 | [ban_tampal@twitter](https://twitter.com/ban_tampal/status/1552003433971888128) | advertise |
+| [bao2khong5@twitter](https://twitter.com/bao2khong5/status/1644571933521092609) | advertise |
 | [bao85639159@twitter](https://twitter.com/bao85639159/status/1379009039988748289) | advertise |
 | [baobei0201@twitter](https://twitter.com/baobei0201/status/1552929205947469825) | advertise |
 | [baogaooo@twitter](https://twitter.com/baogaooo/status/1481173397111738370) | advertise |
@@ -5603,8 +5604,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6603,6 +6604,7 @@ Do not create new issue or we will close it as duplicate.
 | [makeiphone@twitter](https://twitter.com/makeiphone/status/1446381205394321408) | advertise |
 | [makis@tvitero.com](https://tvitero.com/@makis) | Banning account silently; Theft of Follower |
 | [makoranx@twitter](https://twitter.com/makoranx/status/1381349393161465857) | advertise |
+| [Makram3M@twitter](https://twitter.com/Makram3M/status/1644606764661219328) | advertise |
 | [MakrisJordan@twitter](https://twitter.com/MakrisJordan/status/1635441874377797633) | advertise |
 | [maksarong@twitter](https://twitter.com/maksarong/status/1610255723136417792) | advertise |
 | [Makuluone@twitter](https://twitter.com/Makuluone/status/1382812175564165126) | advertise |
