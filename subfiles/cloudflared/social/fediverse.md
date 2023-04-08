@@ -5650,7 +5650,7 @@ Here's a list of public Fediverse services.
 | `chartstoffarm.de` | No |
 | `chasalin.nl` | No |
 | `chaselau.me` | No |
-| `chasem.dev` | No |
+| `chasem.dev` | Yes |
 | `chasingdings.com` | No |
 | `chasingrabbbits.xyz` | No |
 | `chasmcity.net` | No |
@@ -28199,6 +28199,7 @@ Here's a list of public Fediverse services.
 | `postmarketos.org` | No |
 | `postmastodon.com` | No |
 | `postmoderns.info` | No |
+| `postnstuffds.lol` | No |
 | `postpandemicparty.org` | No |
 | `postrad.social` | No |
 | `postrausch.tech` | Yes |
@@ -40488,7 +40489,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,087 |
+| Cloudflare | 10,088 |
 | Normal | 30,358 |
 
 
