@@ -12388,7 +12388,7 @@ Here's a list of public Fediverse services.
 | `funnylookinhat.com` | Yes |
 | `funnymonkey.com` | No |
 | `funposters.club` | Yes |
-| `funs.vn` | No |
+| `funs.vn` | Yes |
 | `funsahara.net` | No |
 | `fuo.fi` | Yes |
 | `fur.city` | No |
@@ -23106,6 +23106,7 @@ Here's a list of public Fediverse services.
 | `monstro1.com` | No |
 | `monstrous.church` | No |
 | `monsuta.ml` | No |
+| `montagne.uk` | No |
 | `montalto.me` | No |
 | `montceleste.fr` | No |
 | `monte-bleibt.de` | No |
@@ -40520,7 +40521,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,094 |
+| Cloudflare | 10,095 |
 | Normal | 30,383 |
 
 
