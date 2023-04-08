@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,109 |
 | social | 3,912 |
-| net | 3,111 |
+| net | 3,112 |
 | org | 2,147 |
 | de | 2,035 |
 
@@ -24768,6 +24768,7 @@ Here's a list of public Fediverse services.
 | `ngrok.io` | No |
 | `ngtube.fun` | No |
 | `nguyens.co` | Yes |
+| `nh1.network` | No |
 | `nha.one` | Yes |
 | `nhaddag.com` | No |
 | `nharrisonripps.com` | No |
@@ -32311,6 +32312,7 @@ Here's a list of public Fediverse services.
 | `skunk.agency` | No |
 | `skunkhollow.tech` | No |
 | `skunksocial.com` | Yes |
+| `skwal.net` | Yes |
 | `skweb.io` | No |
 | `skweekychair.games` | No |
 | `skweez.net` | No |
@@ -40522,8 +40524,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,097 |
-| Normal | 30,382 |
+| Cloudflare | 10,098 |
+| Normal | 30,383 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
