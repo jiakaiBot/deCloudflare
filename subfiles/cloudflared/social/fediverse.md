@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,911 |
 | net | 3,111 |
 | org | 2,147 |
-| de | 2,034 |
+| de | 2,035 |
 
 
 - Mastodon, Pleroma, etc
@@ -24247,6 +24247,7 @@ Here's a list of public Fediverse services.
 | `naturar.social` | No |
 | `naturemag.org` | Yes |
 | `naturesmeatcandy.org` | Yes |
+| `naturfuehrer-sh.de` | No |
 | `naturism.social` | No |
 | `naudin.cc` | No |
 | `naughtystallion.com` | No |
@@ -40512,7 +40513,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,094 |
-| Normal | 30,374 |
+| Normal | 30,375 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
