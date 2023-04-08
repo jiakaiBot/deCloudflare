@@ -2677,6 +2677,7 @@ Do not create new issue or we will close it as duplicate.
 | [dlcmh@twitter](https://twitter.com/dlcmh/status/1504010502481281024) | advertise |
 | [DLu15867552@twitter](https://twitter.com/DLu15867552/status/1377679501576957955) | advertise |
 | [dlwyer@twitter](https://twitter.com/dlwyer/status/1599852749935366145) | advertise |
+| [DMerckel@twitter](https://twitter.com/DMerckel/status/1644819601354641409) | advertise |
 | [dmfurlan@twitter](https://twitter.com/dmfurlan/status/1633874199365419009) | advertise |
 | [Dmin87105684@twitter](https://twitter.com/Dmin87105684/status/1395234752056025090) | advertise |
 | [dminhquangg@twitter](https://twitter.com/dminhquangg/status/1580403286070304769) | advertise |
