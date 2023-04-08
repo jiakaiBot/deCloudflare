@@ -27262,7 +27262,7 @@ Here's a list of public Fediverse services.
 | `pepepper.net` | Yes |
 | `peppers.social` | No |
 | `pepple.us` | No |
-| `peppyfish.com` | No |
+| `peppyfish.com` | Yes |
 | `pepsi.zone` | No |
 | `perceptiontravel.tv` | Yes |
 | `perceptiveconstructs.com` | No |
@@ -35617,6 +35617,7 @@ Here's a list of public Fediverse services.
 | `thxdaddy.xyz` | Yes |
 | `thyme.se` | No |
 | `thymrios.com` | Yes |
+| `thyra-inflatables.eu` | Yes |
 | `ti-fr.com` | No |
 | `ti22.pro` | No |
 | `tiagos.cz` | No |
@@ -40521,8 +40522,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,095 |
-| Normal | 30,383 |
+| Cloudflare | 10,097 |
+| Normal | 30,382 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
