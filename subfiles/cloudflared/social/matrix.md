@@ -50,6 +50,7 @@ Here's a list of public Matrix services.
 | matrix.crossbach.de | No |
 | matrix.data.coop | No |
 | matrix.data.haus | No |
+| im.deuxfleurs.fr | No |
 | matrix.dieandalusier.net | No |
 | matrix.duesen.chat | No |
 | matrix.envs.net | No |
@@ -104,7 +105,6 @@ Here's a list of public Matrix services.
 | matrix.rimfaxe.net | No |
 | riotchat.de | Yes |
 | ru-matrix.org | No |
-| matrix.sans-nuage.fr | No |
 | matrix.sibnsk.net | No |
 | socialnetwork24.com | No |
 | matrix.studichat.de | No |
