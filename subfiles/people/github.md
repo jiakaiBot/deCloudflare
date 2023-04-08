@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [I get wrong-type-argument lisp error when querying ChatGTP](https://github.com/karthink/gptel/issues/37)
 - [Chunked uploads fail when coming from IPv6 addresses](https://github.com/BobbyWibowo/lolisafe/issues/647)
 - [Managed certificates do not include intermediate certs](https://github.com/microsoft/azure-container-apps/issues/709)
 - [Sound is not playing.](https://github.com/frondeus/fvtt-syrin-control/issues/94)
