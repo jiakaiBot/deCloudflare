@@ -2033,6 +2033,7 @@ api.odlc.eu.dp15.vwg-connect.com
 api.tsc.eu.dp15.vwg-connect.com
 api.tsc.na.dp15.vwg-connect.com
 api.voltmoney.in
+api2.vcp.vet
 api3.vnexpress.net
 apim.vexi.mx
 apim.vib.com.vn
@@ -2045,6 +2046,8 @@ autodiscover.venafitjuice.com
 autodiscover.vgacmedia.com
 avito.avito.avito.avito.avito.www.covid19.view-manager.com
 avito.avito.blablacar.sber.covid19.view-manager.com
+avito.avito.sber.avito.aviavisberbank.m.covid19.vitorheinzen.com
+avito.avito.sberbank.avito.sberbank.covid19.view-manager.com
 avito.sberbank.avito.sber.avito.www.covid19.vr-cosmetology.ru
 avito.sberbank.sber.sber.www.covid19.view-manager.com
 avito.sberbank.sberbank.avito.avito.www.covid19.view-manager.com
@@ -2092,6 +2095,7 @@ cpcontacts.vita-sibenik.hr
 cpcontacts.voices.nyc
 cphost6.vpslocal.co.za
 cristianorlandop724-gmailcom.vercel.app
+crm.viapass-networks.com
 crosspromo.voodoo.io
 davinci42.vercel.app
 delivery.vallnordpalarinsal.com
@@ -2101,6 +2105,7 @@ dev2.test-gsc.vfims.com
 dfox15.vercel.app
 dictionary.vitec-mv.com
 digiassessdigival-gmailcom.vercel.app
+digital.voban.rs
 discodude1234.vercel.app
 discord-binance.vercel.app
 discord-bot1.vercel.app
@@ -2155,7 +2160,9 @@ hunterrwaters.vercel.app
 hunterwatrin.vercel.app
 imadozaim-gmailcom.vercel.app
 image.northeast.vitalant.org
+image.validsolutions.net
 img.vrupup.com
+impacttool.toepassingen.vmm.vlaanderen.be
 inc-paypal-update.vivahomes.my
 info.vulcanosolutions.com
 int-api.virtustec.com
@@ -2218,6 +2225,7 @@ officialbooktranspo-gmailcom.vercel.app
 omnitro.vercel.app
 onitrog0d.vercel.app
 pakket46.vandale.nl
+passiveliveness.id.verifywajah.com
 pathmatch.vercel.app
 pauliusvigelis-gmailcom.vercel.app
 paypal-consumer-hack-2019.vercel.app
@@ -2244,6 +2252,7 @@ rainydaydiscord.vercel.app
 rakuten-games1.vercel.app
 rakutenready.vercel.app
 reddit.videodownload.online
+regvc.vqkxqmw.cn
 ricom.veramorozova.com
 robfox805.vercel.app
 robloxbunny1234.vercel.app
@@ -2253,6 +2262,7 @@ robloxnameallowed.vercel.app
 robloxyt1team.vercel.app
 romanvytak-gmailcom.vercel.app
 ronitronitronit1.vercel.app
+rustychain.vercel.app
 s1cdn.vnecdn.net
 sber.avito.avito.avito.avito.www.covid19.view-manager.com
 sber.avito.avito.avito.sber.avito.avim.covid19.vitorheinzen.com
@@ -2283,6 +2293,7 @@ secure.ventureinfotek.com
 server.vmsweight.com
 service.paypal.com-id.form-52181895.vandaclean.com.au
 services-ch.veritas.com
+services.vidal.dev.br
 services.vincentge.com
 servicios.voyapunta.com
 sharepoint.vppenergy.com
@@ -2314,6 +2325,12 @@ unixfox.vercel.app
 update-manager.vidim.it
 update2112c.votreintimite.com
 update2312.votreintimite.com
+user17.vadavo.eu
+user45.vadavo.eu
+user56.vadavo.eu
+user57.vadavo.eu
+user58.vadavo.eu
+v-safe.vn
 v5security.co.za
 va-api-mgt.vrmco.com
 vaahinielectricals.co.in
@@ -2327,6 +2344,7 @@ valhoffman-gmailcom.vercel.app
 valigrama.ro
 valleypartnership.org
 valosto.com
+valuedrugs.net
 vam.veritas.com
 vamsiundavalli.in
 vanadzor.am
@@ -2353,9 +2371,10 @@ vecaptreocatba.com
 vedabyte.com
 vegintuitiveeating.com
 velgbank.no
+vemdaterra.online
 vendaexpresso.com.br
 vendisso.pt
-vendservice.fun
+venomdevelopment.co.za
 venopex.com
 ventservice.no
 ver88official.com.vn
@@ -2404,8 +2423,10 @@ vertikallimits.com
 vertuco.nl
 very-match.com
 verygood.com.my
+vesinhcongnghiepsauber.com
 vfwh.com
 vgrblogg.se
+vgtradelinks.online
 vhznh123-gmailcom.vercel.app
 viago-tr.com
 viajescusco.travel
@@ -2421,10 +2442,12 @@ victorypaintinggroup.co.uk
 videochatsibiu.ro
 videomappingfestival.com
 videosmart.shop
+videotrnoverchrge.net
 vidyabhavan.org
 vietnamairportservice.com
 vietnamembassy-japan.org
 vietnamonline.org
+vietnamvisaorg.com
 viettel-invoice.vn
 vijaycooperativebank.com
 villabukithambalang.id
@@ -2444,13 +2467,16 @@ virgonet.co.il
 virl.bc.ca
 virtualcall.com.br
 vishalpai.com
+visietest.online
 visionsmatters.org
 visitlokka.no
 visitpuumala.fi
+visitrotorua.co.nz
 visitstranda.com
 vispl.net.in
 visualsquirrels.net
 vitacorecbdgummies.net
+vivadicasegura.online
 vividbilling.net
 vmaxcluj.ro
 vmfunds.com
@@ -2464,16 +2490,19 @@ voicesforchange.world
 voiv-interior.com
 volkswagen-warszawa.waw.pl
 volkswagenjobb.se
+volkswagenlongbien.com
 volkswagenwyprzedazrocznika.pl
 volton.gr
 voprosnik.com
 vorschau.app
+voryapi.com
 vpn-connection-security.net
 vpn2.valora.net
 vpn2.volvox.hu
 vpnadm.volvox.hu
 vpndon.com
 vpnmienphi.xyz
+vpnorange.com
 vpntax.com
 vpntelecom.com.br
 vpntrends.com
@@ -2507,6 +2536,7 @@ wegfox.vercel.app
 worten-dev.vistex.cloud
 wschkb.vodafone.pt
 wsj-88488111.vercel.app
+www.a2booking.vinfastmoto.com
 www.abidzar.vpnsg.my.id
 www.account.vierrania.id
 www.account.vincentwillemsen.nl
@@ -2539,6 +2569,7 @@ www.meganhamiltonmusic.com.vodafoneesmusica.com
 www.movies.verifying.email
 www.nutrilibrex.com.mx.vivancomedicalcare.com
 www.panel.vpnvivo.com
+www.passiveliveness.id.verifywajah.com
 www.payment.villagiardinobol.com
 www.rahatpintaan.vesi.fi
 www.reddit.videodownload.online
@@ -2552,6 +2583,7 @@ www.service.vrasmedia.com
 www.services.vincentge.com
 www.servicios.voyapunta.com
 www.soulsacrificemusic.com.vodafoneesmusica.com
+www.soutien.viacommunication.com
 www.steamcodes.vbuckscentral.net
 www.ticketsell.viewsports4k.com
 www.track.verfolgung-depost.org
@@ -2597,6 +2629,7 @@ www.verificatucertificado.com
 www.verifyit.pl
 www.verkoop-mijn-auto-veilig.be
 www.vesi.fi
+www.vesinhcongnghiepsauber.com
 www.vetenskaphalsa.se
 www.vgperu.pe
 www.vhec.org
@@ -2613,6 +2646,7 @@ www.villameridian.com
 www.villaochindustriservice.com
 www.villerestasso.fr
 www.vintagesecurity.com
+www.vipbuildinggroup.com
 www.virtualonlineacademy.net
 www.virungaparkcongo.com
 www.visionhumana.mx
@@ -2635,10 +2669,12 @@ www.vogtenhuber.com
 www.voicetv.co.th
 www.volgagermansportland.info
 www.volkswagenjobb.se
+www.volkswagenlongbien.com
 www.volkswagenwyprzedazrocznika.pl
 www.vollmar-akademie.de
 www.volusionpentest1.com
 www.vons0dergren.no
+www.voryapi.com
 www.vpap.org
 www.vpn-point.com
 www.vpn-streaming.com
