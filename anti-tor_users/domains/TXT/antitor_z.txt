@@ -611,6 +611,7 @@ alert.zoostore.pro
 all-service.zapages.co.il
 api.zoolife.live
 api.zs-clinical-study-feasibility.dev.zsservices.com
+avito.avito.avito.sber.avito.sberbank.covid19.zdorovadytyna.com
 avito.avito.sber.avito.sberbank.www.covid19.zdorovadytyna.com
 avito.sber.avito.gitlab.git.covid19.zalive-akvilon.ru
 aws-staging.zeroq.cl
@@ -656,6 +657,7 @@ register.zscalertwo.net
 sber.avito.sber.blablacar.blablacar.covid19.zalive-akvilon.ru
 sber.avito.sber.covid19.zalive-akvilon.ru
 sber.avito.sberbank.gitlab.git.covid19.zalive-akvilon.ru
+sber.blablacar.sberbank.covid19.zapusk-million.ru
 sber.sber.avito.blablacar.covid19.zalive-akvilon.ru
 sber.sber.avito.sberbank.sber.www.covid19.zepter-catalog.ru
 sber.sber.blablacar.covid19.zalive-akvilon.ru
@@ -663,6 +665,7 @@ sber.sber.sber.avito.sber.blablacar.covid19.zlclubmarket.com
 sberbank.avito.blablacar.blablacar.covid19.zepter-catalog.ru
 sberbank.avito.sber.avito.avito.avito.covid19.zdorovadytyna.com
 sberbank.avito.sber.avito.avito.covid19.zdorovadytyna.com
+sberbank.sber.avito.sber.avito.covid19.zdorovadytyna.com
 sberbank.sber.avito.sber.www.covid19.zdorovadytyna.com
 static.ctw.zusapi.com
 tipengine.zoho.com
@@ -683,6 +686,7 @@ www.puffpiedelivery.z92954-xa3qn.s02.zwphosting.com
 www.restorent.zeestore.co
 www.rooscontrol.zon18.click
 www.sahabafoodbank.zyotee.com
+www.shecansteam.hu.zsida.hu
 www.steam.zser-art.hu
 www.test.dcc.zeiss.services
 www.webclient.zaidexceldesign.com
@@ -727,6 +731,7 @@ zebrayouth.org
 zeistermagazine.nl
 zeldacw.com
 zenflo.org
+zenithlogisticlimitedparcel.com
 zenxa.io
 zerahwilson.realestate
 zerahwilson.realtor
@@ -749,10 +754,13 @@ zipapi.us
 zipgenius.com
 zipgenius.it
 ziraatilaclama.com
+zizannsspecialoftheday.online
 zksync-mainnet.us
+zlvv.net
 zmdownload-accl.zoho.com
 znitro.com
 zoomingjapan.com
+zoooma.online
 zotecpartners.com
 zoubicuties.site
 zozo.jp
@@ -760,6 +768,7 @@ zpost.no
 zuber-gloor.ch
 zurcherarquitectos.com
 zuriserve.africa
+zuuonline.com
 acceptatie-client.zorgplatform.online
 adfs.zu.de
 api-dev.zt-ft.com
