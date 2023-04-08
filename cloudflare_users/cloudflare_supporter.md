@@ -841,6 +841,7 @@ Do not create new issue or we will close it as duplicate.
 | [antohnysasine@twitter](https://twitter.com/antohnysasine/status/1519745453952311297) | advertise |
 | [AntonioMA_dev@twitter](https://twitter.com/AntonioMA_dev/status/1473047937999683594) | advertise |
 | [antonyalston@twitter](https://twitter.com/antonyalston/status/1500675516189134856) | advertise |
+| [AntonySimwanza@twitter](https://twitter.com/AntonySimwanza/status/1644838015322271751) | advertise |
 | [antphyo@twitter](https://twitter.com/antphyo/status/1390723036710457346) | advertise |
 | [AntsyBoi@twitter](https://twitter.com/AntsyBoi/status/1456418455498989569) | advertise |
 | [AntTheHien@twitter](https://twitter.com/AntTheHien/status/1552976865744547840) | advertise |
@@ -10685,6 +10686,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tammy524Hunter@twitter](https://twitter.com/Tammy524Hunter/status/1378944389217681408) | advertise |
 | [TamNguy02203080@twitter](https://twitter.com/TamNguy02203080/status/1389605980724359172) | advertise |
 | [Tan45474667@twitter](https://twitter.com/Tan45474667/status/1388679876987654149) | advertise |
+| [tanajimasal001@twitter](https://twitter.com/tanajimasal001/status/1644838039062212608) | advertise |
 | [tanaruk20@twitter](https://twitter.com/tanaruk20/status/1552451708206600194) | advertise |
 | [tanbir1023@twitter](https://twitter.com/tanbir1023/status/1573021271671308288) | advertise |
 | [TanEndru@twitter](https://twitter.com/TanEndru/status/1580563635981627392) | advertise |
