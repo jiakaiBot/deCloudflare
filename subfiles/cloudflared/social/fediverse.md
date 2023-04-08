@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,103 |
 | social | 3,910 |
-| net | 3,109 |
+| net | 3,110 |
 | org | 2,144 |
 | de | 2,034 |
 
@@ -11024,7 +11024,7 @@ Here's a list of public Fediverse services.
 | `fedi.uk` | Yes |
 | `fedi.video` | No |
 | `fedi.wien` | No |
-| `fedi.wtf` | No |
+| `fedi.wtf` | Yes |
 | `fedi.xyz` | No |
 | `fedibb.ml` | No |
 | `fedibeest.social` | Yes |
@@ -23452,6 +23452,7 @@ Here's a list of public Fediverse services.
 | `mstdn-seelsorge.com` | No |
 | `mstdn-server.jp` | No |
 | `mstdn-shinshu.com` | No |
+| `mstdn-skyblue.net` | No |
 | `mstdn-social.com` | Yes |
 | `mstdn-tech.jp` | No |
 | `mstdn-tw.com` | No |
@@ -40491,7 +40492,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,088 |
+| Cloudflare | 10,089 |
 | Normal | 30,360 |
 
 
