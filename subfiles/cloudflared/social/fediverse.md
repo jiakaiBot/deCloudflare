@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,105 |
+| com | 6,106 |
 | social | 3,911 |
 | net | 3,111 |
 | org | 2,147 |
@@ -25673,6 +25673,7 @@ Here's a list of public Fediverse services.
 | `nypost.com` | Yes |
 | `nyquist.rocks` | No |
 | `nyquist.space` | No |
+| `nyro2.com` | Yes |
 | `nytpu.com` | No |
 | `nyveir.fr` | No |
 | `nyxus.xyz` | No |
@@ -25893,7 +25894,7 @@ Here's a list of public Fediverse services.
 | `ohdesi.re` | No |
 | `ohelig.me` | Yes |
 | `ohess.org` | Yes |
-| `ohgro.net` | No |
+| `ohgro.net` | Yes |
 | `ohheybrian.com` | No |
 | `ohhh.no` | No |
 | `ohhi.icu` | No |
@@ -40510,8 +40511,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,092 |
-| Normal | 30,375 |
+| Cloudflare | 10,094 |
+| Normal | 30,374 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
