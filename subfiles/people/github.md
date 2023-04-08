@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Chunked uploads fail when coming from IPv6 addresses](https://github.com/BobbyWibowo/lolisafe/issues/647)
 - [Managed certificates do not include intermediate certs](https://github.com/microsoft/azure-container-apps/issues/709)
 - [Sound is not playing.](https://github.com/frondeus/fvtt-syrin-control/issues/94)
 - [WordPress <ERROR ESTABLISHING DATABASE CONNECTION>](https://github.com/bitnami/vms/issues/837)
