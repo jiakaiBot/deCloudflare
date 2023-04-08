@@ -4177,6 +4177,7 @@ Here's a list of public Fediverse services.
 | `blrsc.me` | No |
 | `blu.social` | No |
 | `blub.social` | No |
+| `blubb.fish` | No |
 | `blubrry.chat` | No |
 | `bludood.com` | Yes |
 | `blue-mastodon.club` | No |
@@ -29061,6 +29062,7 @@ Here's a list of public Fediverse services.
 | `rabbit.zone` | No |
 | `rabbithou.se` | Yes |
 | `rabbitodon.work` | No |
+| `rabbits-at.work` | No |
 | `rabbits.supplies` | No |
 | `rabble.network` | No |
 | `rabe.social` | No |
@@ -40490,7 +40492,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,088 |
-| Normal | 30,358 |
+| Normal | 30,360 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
