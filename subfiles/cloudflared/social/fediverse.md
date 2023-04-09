@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,121 |
-| social | 3,915 |
+| social | 3,917 |
 | net | 3,121 |
 | org | 2,151 |
 | de | 2,035 |
@@ -2410,6 +2410,7 @@ Here's a list of public Fediverse services.
 | `artverse.place` | Yes |
 | `artwells.com` | No |
 | `artworld.social` | No |
+| `arty.place` | Yes |
 | `arugula.social` | No |
 | `aruk.as` | No |
 | `arukas.me` | No |
@@ -5488,6 +5489,7 @@ Here's a list of public Fediverse services.
 | `ceilingroomba.com` | No |
 | `celabs.com` | Yes |
 | `cele.st` | Yes |
+| `celebrity.social` | Yes |
 | `celehner.com` | No |
 | `celestecaprine.com` | No |
 | `celesteh.com` | No |
@@ -36028,6 +36030,7 @@ Here's a list of public Fediverse services.
 | `too-much.info` | No |
 | `too.tl` | Yes |
 | `toobnix.org` | No |
+| `toodee.social` | No |
 | `toolbox.wtf` | No |
 | `toolboxtalk.tech` | No |
 | `toolsforthought.rocks` | No |
@@ -40577,8 +40580,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,122 |
-| Normal | 30,412 |
+| Cloudflare | 10,124 |
+| Normal | 30,413 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
