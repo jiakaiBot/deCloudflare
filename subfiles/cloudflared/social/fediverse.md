@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,109 |
+| com | 6,110 |
 | social | 3,912 |
 | net | 3,112 |
 | org | 2,147 |
@@ -14415,6 +14415,7 @@ Here's a list of public Fediverse services.
 | `hdev.im` | No |
 | `hdez.nl` | No |
 | `hdr-it.de` | No |
+| `hdty.in` | No |
 | `headcannon.xyz` | Yes |
 | `headchecks.club` | No |
 | `headcrack.cf` | No |
@@ -20600,6 +20601,7 @@ Here's a list of public Fediverse services.
 | `maerou.com` | Yes |
 | `maescool.be` | Yes |
 | `maestodon.com` | No |
+| `maestoso.online` | Yes |
 | `maex.photos` | No |
 | `maff.scot` | No |
 | `mafoo.org.uk` | No |
@@ -38934,7 +38936,7 @@ Here's a list of public Fediverse services.
 | `wittenbrink.net` | No |
 | `witter.cz` | No |
 | `wittezaele.fr` | No |
-| `witzki.me` | No |
+| `witzki.me` | Yes |
 | `wiuse.work` | No |
 | `wiuwiu.de` | No |
 | `wivodaim.com` | Yes |
@@ -38965,6 +38967,7 @@ Here's a list of public Fediverse services.
 | `wkfa.org` | No |
 | `wkfg.me` | Yes |
 | `wkly.ws` | No |
+| `wkspcloud.com` | Yes |
 | `wkwk.land` | Yes |
 | `wkwkwk.fun` | Yes |
 | `wlabs.de` | No |
@@ -40525,7 +40528,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,098 |
+| Cloudflare | 10,101 |
 | Normal | 30,384 |
 
 
