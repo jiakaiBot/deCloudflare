@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,122 |
 | social | 3,917 |
 | net | 3,122 |
-| org | 2,151 |
+| org | 2,152 |
 | de | 2,037 |
 
 
@@ -22094,6 +22094,7 @@ Here's a list of public Fediverse services.
 | `melteampotes.fr` | No |
 | `melting.town` | No |
 | `melton.cc` | Yes |
+| `meltywind.org` | No |
 | `melyanna.net` | No |
 | `mem000.de` | No |
 | `member.ro` | Yes |
@@ -40588,7 +40589,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,125 |
-| Normal | 30,419 |
+| Normal | 30,420 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
