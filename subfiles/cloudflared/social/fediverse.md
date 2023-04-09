@@ -8777,6 +8777,7 @@ Here's a list of public Fediverse services.
 | `dix.asia` | No |
 | `dixies.land` | No |
 | `diya-mastodon.com` | No |
+| `diyarciftci.xyz` | No |
 | `diymusic.space` | No |
 | `diytelevision.com` | No |
 | `dizl.de` | No |
@@ -40525,7 +40526,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,098 |
-| Normal | 30,383 |
+| Normal | 30,384 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
