@@ -351,6 +351,7 @@ plugin.github-source.service.ap-northeast-1.quokka.codes
 plugin.github-source.service.eu-west-1.quokka.codes
 poczta.qdp.com.pl
 preprod.qovoltis.com
+pt-memberonline.qsuper.qld.gov.au
 q-furniture.com
 q2developer.com
 qalmoco.quicksoft.com.br
@@ -359,6 +360,7 @@ qamy-id.com
 qapaq.pe
 qatarembassy.es
 qcom.co.uk
+qcplworld.com
 qettafalkher.com
 qhsealert.com
 qoloran.store
