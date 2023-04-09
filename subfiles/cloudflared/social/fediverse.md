@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,122 |
+| com | 6,121 |
 | social | 3,915 |
-| net | 3,119 |
-| org | 2,152 |
+| net | 3,121 |
+| org | 2,151 |
 | de | 2,035 |
 
 
@@ -1747,7 +1747,6 @@ Here's a list of public Fediverse services.
 | `anartist.org` | No |
 | `anartist.world` | No |
 | `anartri.net` | No |
-| `anasodon.com` | No |
 | `anca.tv` | No |
 | `ancap.su` | No |
 | `ancapchan.info` | No |
@@ -22087,7 +22086,6 @@ Here's a list of public Fediverse services.
 | `melteampotes.fr` | No |
 | `melting.town` | No |
 | `melton.cc` | Yes |
-| `meltywind.org` | No |
 | `melyanna.net` | No |
 | `mem000.de` | No |
 | `member.ro` | Yes |
@@ -22747,7 +22745,7 @@ Here's a list of public Fediverse services.
 | `misskey.social` | No |
 | `misskey.space` | Yes |
 | `misskey.studio` | Yes |
-| `misskey.systems` | No |
+| `misskey.systems` | Yes |
 | `misskey.tech` | Yes |
 | `misskey.to` | No |
 | `misskey.today` | No |
@@ -32073,6 +32071,7 @@ Here's a list of public Fediverse services.
 | `sigpipe.me` | No |
 | `sigsoft.org` | No |
 | `sigterm.wtf` | No |
+| `sigure.net` | Yes |
 | `sihailiuyun.gift` | No |
 | `siina.wtf` | No |
 | `sikademo.com` | Yes |
@@ -39022,6 +39021,7 @@ Here's a list of public Fediverse services.
 | `wlabs.de` | No |
 | `wltr.pw` | Yes |
 | `wlw.pw` | Yes |
+| `wm-paradise.net` | No |
 | `wmbn.net` | No |
 | `wmcf.de` | No |
 | `wmd.social` | No |
@@ -40577,8 +40577,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,120 |
-| Normal | 30,414 |
+| Cloudflare | 10,122 |
+| Normal | 30,412 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
