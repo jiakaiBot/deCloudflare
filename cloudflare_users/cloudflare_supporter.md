@@ -1625,6 +1625,7 @@ Do not create new issue or we will close it as duplicate.
 | [BlazinHosting@twitter](https://twitter.com/BlazinHosting/status/1441631102351859713) | advertise |
 | [Blckk15@twitter](https://twitter.com/Blckk15/status/1398931957610733570) | advertise |
 | [blDzaWlaMzOsZTk@twitter](https://twitter.com/blDzaWlaMzOsZTk/status/1394644787274215426) | advertise |
+| [bless62064@twitter](https://twitter.com/bless62064/status/1644954117423390720) | advertise |
 | [BLESSED14221@twitter](https://twitter.com/BLESSED14221/status/1620424203802648578) | advertise |
 | [Blessed23330796@twitter](https://twitter.com/Blessed23330796/status/1470639783642910720) | advertise |
 | [BlessingsKango@twitter](https://twitter.com/BlessingsKango/status/1396632406770262025) | advertise |
@@ -3500,6 +3501,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ghost_dragon_VN@twitter](https://twitter.com/Ghost_dragon_VN/status/1497163614540603394) | advertise |
 | [GhulamJaved@twitter](https://twitter.com/GhulamJaved/status/1380050148135378944) | advertise |
 | [Gh_Kaychez@twitter](https://twitter.com/Gh_Kaychez/status/1575893615527616513) | advertise |
+| [gia12_bo@twitter](https://twitter.com/gia12_bo/status/1644990077372874752) | advertise |
 | [GiaDat7@twitter](https://twitter.com/GiaDat7/status/1499011433946030084) | advertise |
 | [GiaHieuGiaCao@twitter](https://twitter.com/GiaHieuGiaCao/status/1584935550561431553) | advertise |
 | [GiaHuy990@twitter](https://twitter.com/GiaHuy990/status/1619991894347640832) | advertise |
@@ -5610,8 +5612,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -10805,6 +10807,7 @@ Do not create new issue or we will close it as duplicate.
 | [tertawalepas_@twitter](https://twitter.com/tertawalepas_/status/1552319664797421568) | advertise |
 | [TetTunLin1@twitter](https://twitter.com/TetTunLin1/status/1389947825602002945) | advertise |
 | [teukuumar8@twitter](https://twitter.com/teukuumar8/status/1567861215686463489) | advertise |
+| [tex113399@twitter](https://twitter.com/tex113399/status/1644988928305532929) | advertise |
 | [TexCoats@twitter](https://twitter.com/TexCoats/status/1501340223095164931) | advertise |
 | [TextBookly@twitter](https://twitter.com/TextBookly/status/1390763198148714500) | advertise |
 | [tex_book@twitter](https://twitter.com/tex_book/status/1635001444167294976) | advertise |
@@ -10997,8 +11000,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
