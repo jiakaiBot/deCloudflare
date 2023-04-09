@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,121 |
+| com | 6,120 |
 | social | 3,915 |
-| net | 3,119 |
-| org | 2,152 |
+| net | 3,118 |
+| org | 2,151 |
 | de | 2,035 |
 
 
@@ -1747,7 +1747,6 @@ Here's a list of public Fediverse services.
 | `anartist.org` | No |
 | `anartist.world` | No |
 | `anartri.net` | No |
-| `anasodon.com` | No |
 | `anca.tv` | No |
 | `ancap.su` | No |
 | `ancapchan.info` | No |
@@ -10728,7 +10727,6 @@ Here's a list of public Fediverse services.
 | `fahrin.me` | No |
 | `fai.st` | No |
 | `fai.su` | No |
-| `faidra.net` | No |
 | `fair-verhandeln.de` | No |
 | `fair.tube` | No |
 | `fairbairn.cloud` | No |
@@ -13484,7 +13482,7 @@ Here's a list of public Fediverse services.
 | `goldenplastic.blog` | No |
 | `goldfamily.social` | No |
 | `goldingerit.ch` | No |
-| `gole.tz` | No |
+| `gole.tz` | Yes |
 | `golf-olszewka.pl` | No |
 | `golfdn.com` | No |
 | `golfis.fun` | No |
@@ -22087,7 +22085,6 @@ Here's a list of public Fediverse services.
 | `melteampotes.fr` | No |
 | `melting.town` | No |
 | `melton.cc` | Yes |
-| `meltywind.org` | No |
 | `melyanna.net` | No |
 | `mem000.de` | No |
 | `member.ro` | Yes |
@@ -40576,8 +40573,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,117 |
-| Normal | 30,416 |
+| Cloudflare | 10,118 |
+| Normal | 30,412 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
