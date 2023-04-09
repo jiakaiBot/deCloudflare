@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,110 |
 | social | 3,912 |
-| net | 3,112 |
+| net | 3,113 |
 | org | 2,147 |
 | de | 2,035 |
 
@@ -2653,6 +2653,7 @@ Here's a list of public Fediverse services.
 | `atridad.dev` | Yes |
 | `atrilahiji.dev` | No |
 | `atrophy.dev` | No |
+| `atropos.network` | No |
 | `atroxen.com` | No |
 | `atsuchan.page` | No |
 | `attainable.xyz` | No |
@@ -19181,6 +19182,7 @@ Here's a list of public Fediverse services.
 | `lebalkon.de` | No |
 | `lebe.gg` | No |
 | `lebeaunuage.net` | No |
+| `lebka.at` | No |
 | `leblanc.io` | No |
 | `leboulaire.ovh` | No |
 | `lebrady.net` | No |
@@ -35871,6 +35873,7 @@ Here's a list of public Fediverse services.
 | `todayiwilllaunchmyinfantsonintoorbit.com` | No |
 | `todays.run` | No |
 | `todesstern.eu` | No |
+| `todfox.net` | No |
 | `todo.town` | No |
 | `todon.de` | No |
 | `todon.eu` | No |
@@ -37604,6 +37607,7 @@ Here's a list of public Fediverse services.
 | `vaporpolis.net` | No |
 | `vapronva.pw` | No |
 | `var.one` | Yes |
+| `var1able.network` | Yes |
 | `vara.lol` | Yes |
 | `varia.zone` | No |
 | `variety.com` | Yes |
@@ -40528,8 +40532,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,101 |
-| Normal | 30,384 |
+| Cloudflare | 10,102 |
+| Normal | 30,387 |
 
 
 ### 24.9% of public Fediverse services are using Cloudflare.
