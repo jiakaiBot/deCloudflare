@@ -2516,6 +2516,7 @@ Do not create new issue or we will close it as duplicate.
 | [Deaniocom@twitter](https://twitter.com/Deaniocom/status/1489784169433550848) | advertise |
 | [DeanJackson84@twitter](https://twitter.com/DeanJackson84/status/1456325790740668423) | advertise |
 | [debadri95@twitter](https://twitter.com/debadri95/status/1392537186545790976) | advertise |
+| [debil37959584@twitter](https://twitter.com/debil37959584/status/1645171376490258433) | advertise |
 | [DecadeIX@twitter](https://twitter.com/DecadeIX/status/1634244556760969216) | advertise |
 | [decontented@twitter](https://twitter.com/decontented/status/1499834132129628167) | advertise |
 | [dedbixth@twitter](https://twitter.com/dedbixth/status/1586528000484311040) | advertise |
@@ -2713,6 +2714,7 @@ Do not create new issue or we will close it as duplicate.
 | [doatmang3000@twitter](https://twitter.com/doatmang3000/status/1404433092757000194) | advertise |
 | [DoctorMcCoy2022@twitter](https://twitter.com/DoctorMcCoy2022/status/1627589537819156483) | advertise |
 | [DoctorVadarWho@twitter](https://twitter.com/DoctorVadarWho/status/1504056932218568704) | advertise |
+| [docuwerx@twitter](https://twitter.com/docuwerx/status/1645164837335441411) | advertise |
 | [doggiesflix@twitter](https://twitter.com/doggiesflix/status/1398852820250497030) | advertise |
 | [doggo_cowboy@twitter](https://twitter.com/doggo_cowboy/status/1593107308296695808) | advertise |
 | [DogKill76275871@twitter](https://twitter.com/DogKill76275871/status/1532563663608942593) | advertise |
@@ -11899,6 +11901,7 @@ Do not create new issue or we will close it as duplicate.
 | [victoraldir@twitter](https://twitter.com/victoraldir/status/1468678725684404231) | advertise |
 | [VictorC67776723@twitter](https://twitter.com/VictorC67776723/status/1429202585097998336) | advertise |
 | [Victorsanguine5@twitter](https://twitter.com/Victorsanguine5/status/1569801607839088641) | advertise |
+| [victrays@twitter](https://twitter.com/victrays/status/1645169071825244162) | advertise |
 | [viem_tru@twitter](https://twitter.com/viem_tru/status/1395102795670327296) | advertise |
 | [VienTranthai75@twitter](https://twitter.com/VienTranthai75/status/1562738581428666368) | advertise |
 | [Viet2008@twitter](https://twitter.com/Viet2008/status/1385497309346033664) | advertise |
