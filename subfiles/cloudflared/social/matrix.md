@@ -105,6 +105,7 @@ Here's a list of public Matrix services.
 | matrix.rimfaxe.net | No |
 | riotchat.de | Yes |
 | ru-matrix.org | No |
+| matrix.sans-nuage.fr | No |
 | matrix.sibnsk.net | No |
 | socialnetwork24.com | No |
 | matrix.studichat.de | No |
@@ -116,7 +117,6 @@ Here's a list of public Matrix services.
 | trygve.me | No |
 | ungleich.matrix.ungleich.cloud | No |
 | unita.online | No |
-| matrix.unredacted.org | Yes |
 | matrix.snt.utwente.nl | No |
 | matrix.virto.community | Yes |
 | webchat.weho.st | No |
@@ -128,8 +128,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 21 |
-| Normal | 80 |
+| Cloudflare | 20 |
+| Normal | 81 |
 
 
-### 20.8% of public Matrix services are using Cloudflare.
+### 19.8% of public Matrix services are using Cloudflare.
