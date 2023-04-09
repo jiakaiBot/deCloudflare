@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,122 |
+| com | 6,123 |
 | social | 3,917 |
 | net | 3,122 |
 | org | 2,152 |
@@ -4311,6 +4311,7 @@ Here's a list of public Fediverse services.
 | `bog.social` | No |
 | `bograham.xyz` | No |
 | `bogus.ee` | No |
+| `bohlenlabs.com` | No |
 | `bohmgillis.ca` | No |
 | `bohnstedt.org` | No |
 | `boiledscript.com` | Yes |
@@ -37542,6 +37543,7 @@ Here's a list of public Fediverse services.
 | `uwu.name` | Yes |
 | `uwu.pm` | Yes |
 | `uwu.social` | Yes |
+| `uwu.solutions` | Yes |
 | `uwu.st` | No |
 | `uwu.town` | Yes |
 | `uwucocoa.moe` | Yes |
@@ -40588,8 +40590,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,125 |
-| Normal | 30,420 |
+| Cloudflare | 10,126 |
+| Normal | 30,421 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
