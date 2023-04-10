@@ -6295,6 +6295,7 @@ Do not create new issue or we will close it as duplicate.
 | [LittleHead17@twitter](https://twitter.com/LittleHead17/status/1395214097625411593) | advertise |
 | [Little_PoK@twitter](https://twitter.com/Little_PoK/status/1405188466346917889) | advertise |
 | [Live1xSlot@twitter](https://twitter.com/Live1xSlot/status/1419205739466280960) | advertise |
+| [Livecountslol@twitter](https://twitter.com/Livecountslol/status/1641158605498884096) | advertise |
 | [livecountsnl@twitter](https://twitter.com/livecountsnl/status/1563512113221742592) | advertise |
 | [livestosimp@twitter](https://twitter.com/livestosimp/status/1633513214632923136) | advertise |
 | [live_techy@twitter](https://twitter.com/live_techy/status/1377628619380510730) | advertise |
