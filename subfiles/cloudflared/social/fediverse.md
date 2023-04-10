@@ -5643,6 +5643,7 @@ Here's a list of public Fediverse services.
 | `chaotic.social` | No |
 | `chaoticaredux.com` | No |
 | `chaoticride.com` | No |
+| `chaotics.gay` | No |
 | `chaotikum.org` | No |
 | `chaouane.xyz` | Yes |
 | `chaox.ro` | Yes |
@@ -40617,7 +40618,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,137 |
-| Normal | 30,436 |
+| Normal | 30,437 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
