@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,123 |
-| social | 3,917 |
+| com | 6,124 |
+| social | 3,918 |
 | net | 3,122 |
 | org | 2,152 |
 | de | 2,037 |
@@ -5204,6 +5204,7 @@ Here's a list of public Fediverse services.
 | `canopeeurbaine.ca` | No |
 | `canor.kr` | Yes |
 | `canox.net` | No |
+| `canpavon.cat` | Yes |
 | `cansoccer.social` | No |
 | `cant-breathe.cf` | No |
 | `cant.at` | No |
@@ -10768,6 +10769,7 @@ Here's a list of public Fediverse services.
 | `faked.org` | No |
 | `fakedevhotel.com` | Yes |
 | `fakematts.space` | No |
+| `fakenewsdaddy.com` | No |
 | `fakeologist.social` | No |
 | `fakesteve.net` | No |
 | `fakru.ch` | No |
@@ -25604,6 +25606,7 @@ Here's a list of public Fediverse services.
 | `nulloctet.com` | Yes |
 | `nullpoint.jp` | No |
 | `nullpointer.org` | No |
+| `nullpointer.social` | No |
 | `nullptr.eu` | No |
 | `nullreference.io` | Yes |
 | `nullrequest.com` | Yes |
@@ -40595,8 +40598,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,128 |
-| Normal | 30,424 |
+| Cloudflare | 10,129 |
+| Normal | 30,426 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
