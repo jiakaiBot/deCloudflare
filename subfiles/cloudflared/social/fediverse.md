@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,124 |
-| social | 3,918 |
-| net | 3,122 |
-| org | 2,152 |
+| com | 6,126 |
+| social | 3,920 |
+| net | 3,123 |
+| org | 2,155 |
 | de | 2,037 |
 
 
@@ -1026,6 +1026,7 @@ Here's a list of public Fediverse services.
 | `advent.social` | No |
 | `adventurehound.io` | No |
 | `adventuremalmusic.com` | No |
+| `adventurer-guild.org` | No |
 | `adventurer-guilld.org` | No |
 | `adventures.social` | No |
 | `adventurewithautism.org` | No |
@@ -1195,6 +1196,7 @@ Here's a list of public Fediverse services.
 | `airis.dev` | No |
 | `airis.work` | No |
 | `airpollution.science` | No |
+| `airstrip1.uk` | No |
 | `airwaves.social` | Yes |
 | `airwhale.com` | No |
 | `airyz.xyz` | No |
@@ -1386,6 +1388,7 @@ Here's a list of public Fediverse services.
 | `alexswensen.io` | Yes |
 | `alextraterrestrial.com` | Yes |
 | `alextraterrestrial.net` | Yes |
+| `alexvan.in` | Yes |
 | `alexwacker.com` | Yes |
 | `alexwennerberg.com` | No |
 | `alexx.ml` | Yes |
@@ -1593,6 +1596,7 @@ Here's a list of public Fediverse services.
 | `alvarop.gl` | No |
 | `alvogue.com` | Yes |
 | `alwayssleeping.com` | No |
+| `alwyzon.social` | Yes |
 | `alyve.be` | No |
 | `alyxia.dev` | Yes |
 | `am-institute.swiss` | No |
@@ -16319,6 +16323,7 @@ Here's a list of public Fediverse services.
 | `iserv4.me` | No |
 | `isesh.com` | No |
 | `isfeeling.social` | No |
+| `ish.app` | Yes |
 | `isharacomix.org` | No |
 | `ishare4free.com` | No |
 | `ishikaridon.jp` | No |
@@ -19263,6 +19268,7 @@ Here's a list of public Fediverse services.
 | `legacycode.rocks` | No |
 | `legadolibre.com.ar` | Yes |
 | `legal.social` | No |
+| `legalizenuclearbombs.com` | No |
 | `legalloli.net` | No |
 | `legaltech.social` | No |
 | `legbeard.xyz` | No |
@@ -21745,6 +21751,7 @@ Here's a list of public Fediverse services.
 | `matthewedavis.online` | No |
 | `matthewgall.chat` | Yes |
 | `matthewgraybosch.com` | No |
+| `matthewguy.com` | No |
 | `matthewkrohn.net` | No |
 | `matthewmcvickar.com` | No |
 | `matthewreynolds.net` | Yes |
@@ -27544,6 +27551,7 @@ Here's a list of public Fediverse services.
 | `physis.jp` | No |
 | `phz.jp` | Yes |
 | `pi2.dev` | No |
+| `pi4li.social` | Yes |
 | `piaf.eu` | No |
 | `piaille.fr` | No |
 | `pianyu.cyou` | Yes |
@@ -29259,6 +29267,7 @@ Here's a list of public Fediverse services.
 | `rainbowsound.me` | No |
 | `rainbowtoot.net` | No |
 | `rainbowunicorn.cloud` | No |
+| `raincityjacks.org` | No |
 | `raindev.org` | Yes |
 | `raindrop.works` | Yes |
 | `raindrops.cyou` | No |
@@ -37723,6 +37732,7 @@ Here's a list of public Fediverse services.
 | `vedetta.com` | No |
 | `vedimak.ru` | No |
 | `vedostuu.fi` | No |
+| `veedeo.org` | No |
 | `veen.world` | No |
 | `veenk.org` | Yes |
 | `veenus.art` | No |
@@ -39276,6 +39286,7 @@ Here's a list of public Fediverse services.
 | `wtfayla.net` | No |
 | `wtfflorida.com` | Yes |
 | `wtfomfg.org` | No |
+| `wtjelly.net` | Yes |
 | `wtk.org` | No |
 | `wtr.app` | Yes |
 | `wtsnjp.com` | No |
@@ -40393,6 +40404,7 @@ Here's a list of public Fediverse services.
 | `zihigh.club` | No |
 | `zik.ooo` | Yes |
 | `zikin.us` | Yes |
+| `zilaa.online` | No |
 | `zilla.tech` | No |
 | `zimbo.uk` | No |
 | `zimiao.moe` | Yes |
@@ -40598,8 +40610,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,129 |
-| Normal | 30,426 |
+| Cloudflare | 10,134 |
+| Normal | 30,433 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
