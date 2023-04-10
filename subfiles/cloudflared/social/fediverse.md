@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,126 |
+| com | 6,127 |
 | social | 3,921 |
-| net | 3,123 |
+| net | 3,124 |
 | org | 2,155 |
 | de | 2,037 |
 
@@ -17708,6 +17708,7 @@ Here's a list of public Fediverse services.
 | `kastelo.dev` | No |
 | `kastube.com` | No |
 | `kasu.me` | No |
+| `kasukabe-leon.me` | Yes |
 | `kasun.tech` | No |
 | `katabaticat.net` | No |
 | `katafpv.ch` | No |
@@ -33495,7 +33496,7 @@ Here's a list of public Fediverse services.
 | `stat.ink` | Yes |
 | `statamic.social` | Yes |
 | `statelessfirewall.com` | No |
-| `stately.ai` | No |
+| `stately.ai` | Yes |
 | `statesnewsroom.social` | No |
 | `stati.me` | No |
 | `station.gallery` | No |
@@ -38208,6 +38209,7 @@ Here's a list of public Fediverse services.
 | `vsta.org` | No |
 | `vt.social` | No |
 | `vtanu.live` | No |
+| `vtbai.com` | Yes |
 | `vtdon.com` | No |
 | `vtgcomp.com` | Yes |
 | `vtip.me` | Yes |
@@ -40113,6 +40115,7 @@ Here's a list of public Fediverse services.
 | `yume.social` | No |
 | `yumehaki.club` | No |
 | `yumeka.xyz` | Yes |
+| `yumenosora.net` | No |
 | `yumetomo.land` | No |
 | `yumisskey.net` | No |
 | `yumk.xyz` | Yes |
@@ -40613,7 +40616,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,134 |
+| Cloudflare | 10,137 |
 | Normal | 30,436 |
 
 
