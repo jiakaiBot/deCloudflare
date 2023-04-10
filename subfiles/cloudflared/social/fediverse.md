@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,127 |
-| social | 3,921 |
+| com | 6,128 |
+| social | 3,923 |
 | net | 3,124 |
 | org | 2,155 |
 | de | 2,037 |
@@ -11878,6 +11878,7 @@ Here's a list of public Fediverse services.
 | `foxarmy.ml` | No |
 | `foxarmy.org` | No |
 | `foxden.party` | No |
+| `foxden.social` | No |
 | `foxderg.de` | No |
 | `foxdn.net` | No |
 | `foxes.life` | No |
@@ -26207,6 +26208,7 @@ Here's a list of public Fediverse services.
 | `ontheroad.social` | No |
 | `onthesecond.com` | No |
 | `onthetable.social` | No |
+| `onthewifi.com` | Yes |
 | `ontological.city` | No |
 | `onurb.net` | No |
 | `onuu.uno` | Yes |
@@ -31566,6 +31568,7 @@ Here's a list of public Fediverse services.
 | `seiyudon.net` | No |
 | `seizeheures.fr` | No |
 | `seizemeans.com` | No |
+| `seizethemeansof.community` | No |
 | `sekai-writer.my.id` | No |
 | `sekao.net` | No |
 | `sekhen.com` | Yes |
@@ -38728,6 +38731,7 @@ Here's a list of public Fediverse services.
 | `wetsnow.social` | No |
 | `wetube.moe` | No |
 | `wetworks.org` | No |
+| `wev.social` | No |
 | `wewheek.com` | No |
 | `wexlercommunications.com` | No |
 | `weyr.social` | No |
@@ -40617,8 +40621,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,137 |
-| Normal | 30,437 |
+| Cloudflare | 10,138 |
+| Normal | 30,440 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
