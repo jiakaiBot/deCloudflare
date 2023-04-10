@@ -636,6 +636,7 @@ enq-form.zojirushi.co.jp
 es-logs.prod-cluster.zedge.io
 fxdhbfghfy.zzux.com
 gateway.zscalergov.net
+git.git.gitlab.gitlab.git.www.covid19.zalive-akvilon.ru
 gog-ws.zt-archiv.at
 happless-api-prod.zeitfracht.digital
 home.zander.su
@@ -672,6 +673,7 @@ sberbank.sber.avito.sber.www.covid19.zdorovadytyna.com
 sberbank.sber.www.avito.avito.covid19.zapusk-million.ru
 sberbank.sber.www.covid19.zapusk-million.ru
 services.zubahost.com
+sign.zytrust.com
 static.ctw.zusapi.com
 tipengine.zoho.com
 travelassist.zurich.ca
@@ -679,6 +681,7 @@ tsafety2023.zapweb.co.il
 valeofglamorgan.zipporah.co.uk
 vcbdfgfdg.zzux.com
 whm.zelateck.online
+www.account.zafaresources.com
 www.accounting.zedwa.za.net
 www.adesso.com.hr.zaklada-nora-situm.com
 www.backup.zempirestore.com
@@ -739,6 +742,7 @@ zeistermagazine.nl
 zeldacw.com
 zenflo.org
 zenithlogisticlimitedparcel.com
+zensushibucuresti.ro
 zenxa.io
 zerahwilson.realestate
 zerahwilson.realtor
