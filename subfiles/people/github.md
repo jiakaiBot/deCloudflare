@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [R2 storage copy failed with return code 255.](https://github.com/skypilot-org/skypilot/issues/1844)
 - [CloudFlare TLS/SSL 设置是否前后不一致？](https://github.com/haoel/haoel.github.io/issues/113)
 - [I get wrong-type-argument lisp error when querying ChatGTP](https://github.com/karthink/gptel/issues/37)
 - [Chunked uploads fail when coming from IPv6 addresses](https://github.com/BobbyWibowo/lolisafe/issues/647)
