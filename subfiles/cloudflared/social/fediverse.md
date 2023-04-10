@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,126 |
-| social | 3,920 |
+| social | 3,921 |
 | net | 3,123 |
 | org | 2,155 |
 | de | 2,037 |
@@ -11424,6 +11424,7 @@ Here's a list of public Fediverse services.
 | `filiuspatris.net` | Yes |
 | `fillari.xyz` | No |
 | `fillmorephx.com` | Yes |
+| `filly.social` | Yes |
 | `filmaidykai.net` | Yes |
 | `filmfreedom.net` | No |
 | `filmherd.social` | No |
@@ -36317,6 +36318,7 @@ Here's a list of public Fediverse services.
 | `tourdeguet.fr` | No |
 | `tourmentine.com` | No |
 | `tourtoise.quest` | No |
+| `towade.me` | No |
 | `towards.vision` | No |
 | `towns.gay` | Yes |
 | `townsends.online` | No |
@@ -40220,7 +40222,7 @@ Here's a list of public Fediverse services.
 | `zahnpasta.tube` | No |
 | `zahr.koeln` | No |
 | `zaibon.be` | No |
-| `zaisu-club.xyz` | Yes |
+| `zaisu-club.xyz` | No |
 | `zaitcev.nu` | No |
 | `zak.ee` | No |
 | `zakariao.nl` | Yes |
@@ -40611,7 +40613,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,134 |
-| Normal | 30,433 |
+| Normal | 30,435 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
