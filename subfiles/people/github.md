@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/453)
+- [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/452)
 - [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/449)
 - [NPM Resolution error for React](https://github.com/Shopify/ui-extensions/issues/853)
 - [521 Error Code](https://github.com/docmeta/rubydoc.info/issues/183)
