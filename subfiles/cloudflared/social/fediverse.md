@@ -9102,7 +9102,7 @@ Here's a list of public Fediverse services.
 | `dougaldog.uk` | No |
 | `dougbeal.com` | No |
 | `douglashill.co` | Yes |
-| `dounx.me` | No |
+| `dounx.me` | Yes |
 | `douvk.co.uk` | No |
 | `doux.fun` | No |
 | `douzepoints.social` | Yes |
@@ -16647,6 +16647,7 @@ Here's a list of public Fediverse services.
 | `jancborchardt.net` | No |
 | `jandhyala.co` | No |
 | `janeirl.dev` | Yes |
+| `janerationx.me` | No |
 | `janetgunter.net` | No |
 | `janeway.co.uk` | Yes |
 | `jangho.io` | Yes |
@@ -40594,7 +40595,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,127 |
+| Cloudflare | 10,128 |
 | Normal | 30,424 |
 
 
