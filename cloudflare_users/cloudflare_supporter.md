@@ -9366,6 +9366,7 @@ Do not create new issue or we will close it as duplicate.
 | [RapYan100@twitter](https://twitter.com/RapYan100/status/1404834104072454147) | advertise |
 | [raqebpress@twitter](https://twitter.com/raqebpress/status/1475851899844845570) | advertise |
 | [rare_sauce1@twitter](https://twitter.com/rare_sauce1/status/1574476001689866240) | advertise |
+| [rashed_pq@twitter](https://twitter.com/rashed_pq/status/1645280949477810176) | advertise |
 | [RashidJrn@twitter](https://twitter.com/RashidJrn/status/1393139111981113351) | advertise |
 | [RashSt@twitter](https://twitter.com/RashSt/status/1499024489602031618) | advertise |
 | [Rasikalink@twitter](https://twitter.com/Rasikalink/status/1430962085832413187) | advertise |
@@ -10204,6 +10205,7 @@ Do not create new issue or we will close it as duplicate.
 | [sircrushalot26@twitter](https://twitter.com/sircrushalot26/status/1628561755826790400) | advertise |
 | [sirius3615@twitter](https://twitter.com/sirius3615/status/1457002043852443656) | advertise |
 | [SiroNhan@twitter](https://twitter.com/SiroNhan/status/1386972641706184713) | advertise |
+| [sirvictor54321@twitter](https://twitter.com/sirvictor54321/status/1645338450109800448) | advertise |
 | [Sir_Roteh@twitter](https://twitter.com/Sir_Roteh/status/1534275304679690240) | advertise |
 | [SiSi66647106@twitter](https://twitter.com/SiSi66647106/status/1395267199011463170) | advertise |
 | [Sisifat099@twitter](https://twitter.com/Sisifat099/status/1560568762235232256) | advertise |
