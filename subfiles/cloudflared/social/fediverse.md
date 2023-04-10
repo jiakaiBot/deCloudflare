@@ -1637,6 +1637,7 @@ Here's a list of public Fediverse services.
 | `amble.quest` | No |
 | `amblin.io` | No |
 | `ambrosia.cafe` | Yes |
+| `amd.im` | Yes |
 | `amdjml.com` | Yes |
 | `amdor.social` | No |
 | `amdyes.fun` | Yes |
@@ -34825,7 +34826,7 @@ Here's a list of public Fediverse services.
 | `techspresso.cafe` | No |
 | `techstartups.space` | No |
 | `techtea.io` | No |
-| `techthoughts.io` | No |
+| `techthoughts.io` | Yes |
 | `techtodon.com` | Yes |
 | `techy.social` | Yes |
 | `techzerker.com` | Yes |
@@ -40621,8 +40622,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,138 |
-| Normal | 30,440 |
+| Cloudflare | 10,140 |
+| Normal | 30,439 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
