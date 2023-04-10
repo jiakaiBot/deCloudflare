@@ -944,6 +944,7 @@ Here's a list of public Fediverse services.
 | `adamw.social` | No |
 | `adamwolf.org` | No |
 | `adapulawska.org` | Yes |
+| `adast.xyz` | Yes |
 | `adawesome.tech` | No |
 | `adb.sh` | No |
 | `addajones.com` | Yes |
@@ -25553,6 +25554,7 @@ Here's a list of public Fediverse services.
 | `ntwrkcdn.net` | No |
 | `nu.mba` | No |
 | `nu1.dev` | No |
+| `nuage-libre.fr` | No |
 | `nuagelibre.fr` | No |
 | `nuak.social` | No |
 | `nuasa.org` | No |
@@ -37504,6 +37506,7 @@ Here's a list of public Fediverse services.
 | `usuzakuraya.us` | No |
 | `usvs.xyz` | No |
 | `ut0pia.org` | No |
+| `utasansh.in` | No |
 | `utbs.info` | No |
 | `utdoasn.com` | No |
 | `utechme.com` | No |
@@ -39486,6 +39489,7 @@ Here's a list of public Fediverse services.
 | `xjmaoyaoyao.monster` | Yes |
 | `xkcd.network` | No |
 | `xkjd.us` | Yes |
+| `xl200.space` | No |
 | `xleute.de` | No |
 | `xlii.social` | No |
 | `xlnx.uk` | No |
@@ -40590,8 +40594,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,126 |
-| Normal | 30,421 |
+| Cloudflare | 10,127 |
+| Normal | 30,424 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
