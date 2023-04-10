@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [NPM Resolution error for React](https://github.com/Shopify/ui-extensions/issues/853)
+- [521 Error Code](https://github.com/docmeta/rubydoc.info/issues/183)
 - [It seems that Iran's GFW has updated!](https://github.com/net4people/bbs/issues/241)
 - [Not working again!!!](https://github.com/xcscxr/gplinks-bypass/issues/11)
 - [R2 storage copy failed with return code 255.](https://github.com/skypilot-org/skypilot/issues/1844)
