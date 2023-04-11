@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,130 |
+| com | 6,131 |
 | social | 3,924 |
 | net | 3,124 |
 | org | 2,155 |
@@ -187,7 +187,7 @@ Here's a list of public Fediverse services.
 | `123abc.tokyo` | No |
 | `1242.com` | Yes |
 | `127b.nl` | No |
-| `128.ca` | No |
+| `128.ca` | Yes |
 | `128k.blog` | No |
 | `128k.site` | No |
 | `12vpx.com` | Yes |
@@ -20839,6 +20839,7 @@ Here's a list of public Fediverse services.
 | `mammout.bzh` | Yes |
 | `mammouth.cafe` | No |
 | `mammouth.quebec` | No |
+| `mammut.cyou` | No |
 | `mammut.id` | Yes |
 | `mammut.moe` | No |
 | `mammut.mx` | No |
@@ -26887,6 +26888,7 @@ Here's a list of public Fediverse services.
 | `palon.org` | Yes |
 | `palousegeo.com` | No |
 | `pals.chat` | No |
+| `palsha.jp` | No |
 | `paltee.net` | Yes |
 | `palyazatnelkul.hu` | No |
 | `pamilya.social` | No |
@@ -39192,7 +39194,7 @@ Here's a list of public Fediverse services.
 | `workofart.org` | No |
 | `world-congress.org` | No |
 | `worldbankofmemes.com` | No |
-| `worldblindherald.com` | No |
+| `worldblindherald.com` | Yes |
 | `worldbuildersforge.com` | No |
 | `worldbuilding.zone` | No |
 | `worlddominationplan.com` | No |
@@ -40286,6 +40288,7 @@ Here's a list of public Fediverse services.
 | `zbucaao2-liquidwebsites.com` | No |
 | `zbuffer.com` | No |
 | `zcmi.social` | No |
+| `zct-mrl.com` | Yes |
 | `zcx.cc` | No |
 | `zcyph.cc` | Yes |
 | `zd.do` | No |
@@ -40629,7 +40632,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,145 |
+| Cloudflare | 10,148 |
 | Normal | 30,441 |
 
 
