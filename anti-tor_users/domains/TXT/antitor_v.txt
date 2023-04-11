@@ -2043,6 +2043,7 @@ app.viskase.com
 apple-icloud.vercel.app
 apps.vrsg.ch
 asset-out-cdn.video-cdn.net
+assets.villume.com
 autodiscover.venafitjuice.com
 autodiscover.vgacmedia.com
 autodiscover.vivablox.com
@@ -2290,6 +2291,8 @@ sber.sber.avito.avito.avito.sber.www.covid19.view-manager.com
 sber.sber.sber.sber.avito.sberbank.covid19.vr-cosmetology.ru
 sber.sber.sber.sber.avito.www.covid19.vojvodinanet.com
 sber.sberbank.avito.avito.aviavisber.covid19.vojvodinanet.com
+sber.sberbank.avito.avito.blablacar.www.covid19.vossbryggeri.com
+sber.sberbank.avito.avito.sber.www.covid19.vossbryggeri.com
 sber.sberbank.avito.blablacar.covid19.view-manager.com
 sber.sberbank.avito.sber.avito.sber.covid19.vr-cosmetology.ru
 sber.sberbank.avito.sber.git.covid19.vesta-donors.com
@@ -2299,6 +2302,7 @@ sber.sberbank.sber.avito.sberbank.www.covid19.vr-cosmetology.ru
 sber.sberbank.sberbank.avito.www.covid19.view-manager.com
 sber.sberbank.www.m.www.covid19.vitorheinzen.com
 sber.www.sberbank.sber.www.sberbank.covid19.vossbryggeri.com
+sberbank.avito.avito.blablacar.avito.covid19.vossbryggeri.com
 sberbank.avito.avito.sber.covid19.view-manager.com
 sberbank.blablacar.avito.blablacar.www.covid19.vossbryggeri.com
 sberbank.sber.avito.avito.sber.avito.covid19.vr-cosmetology.ru
@@ -2350,8 +2354,12 @@ unixfox.vercel.app
 update-manager.vidim.it
 update2112c.votreintimite.com
 update2312.votreintimite.com
+user.vintageinv.com
+user10.vadavo.eu
 user17.vadavo.eu
 user26.vadavo.eu
+user39.vadavo.eu
+user4.vadavo.eu
 user45.vadavo.eu
 user56.vadavo.eu
 user57.vadavo.eu
@@ -2367,6 +2375,7 @@ vaccine-proof.xyz
 vaja.ir
 vakansieakkommodasie.co.za
 valampurihotel.com
+valedoitajainews.com.br
 valencia.vulcanosolutions.com
 valhoffman-gmailcom.vercel.app
 valigrama.ro
@@ -2400,6 +2409,7 @@ vatikaelegance.in
 vaultx.money
 vax-trust.eu
 vcelda.cz
+vcrypt.net
 vds.az
 vecaptreocatba.com
 vedabyte.com
@@ -2458,11 +2468,13 @@ verkoop-mijn-auto-veilig.be
 verkstadsjobb.se
 versado.hr
 vertexpacking.au
+vertical-p.com
 vertikallimits.com
 vertuco.nl
 very-match.com
 verygood.com.my
 vesinhcongnghiepsauber.com
+veterinarias-argentina.info
 vf555.asia
 vfwh.com
 vgrblogg.se
@@ -2515,6 +2527,7 @@ virustotl.com
 virustptal.com
 visbank.co.uk
 vishalpai.com
+visi.news
 visietest.online
 visionsmatters.org
 visitlokka.no
@@ -2524,6 +2537,7 @@ visitstranda.com
 vispl.net.in
 visualsquirrels.net
 vitacorecbdgummies.net
+vitapaola.com
 vivadicasegura.online
 vividbilling.net
 vmaxcluj.ro
@@ -2550,6 +2564,7 @@ vpn2.valora.net
 vpn2.volvox.hu
 vpnadm.volvox.hu
 vpndon.com
+vpnhostguide.co.nz
 vpnmienphi.xyz
 vpnorange.com
 vpntax.com
@@ -2566,6 +2581,7 @@ vss-security-services.com
 vtest314-qrbxh5xuzdakbm058unn.vercel.app
 vtrnews.in
 vuaphanthuoc.com
+vudao.dev
 vulcanizacionchile.cl
 vulcanm.com
 vulcanosolutions.com
@@ -2588,6 +2604,7 @@ webservice.vrisonline.nl
 webservices01.vfuc.nl
 wegfox.vercel.app
 worten-dev.vistex.cloud
+ws-upselling.vinccihoteles.com
 wschkb.vodafone.pt
 wsj-88488111.vercel.app
 www.a2booking.vinfastmoto.com
@@ -2633,6 +2650,7 @@ www.payment.villagiardinobol.com
 www.rahatpintaan.vesi.fi
 www.reddit.videodownload.online
 www.rilevazioniperdite.verificastrutturalegru.it
+www.savingwhen.vestorsrealty.com
 www.secure.villapetra-bol.com
 www.securequalityhosting.com.vvxshop.com
 www.seguro.de.viagens.tur.br
@@ -2649,6 +2667,7 @@ www.ticketsell.viewsports4k.com
 www.track.verfolgung-depost.org
 www.update.visitwli.com.gh
 www.usblogbank.vfixedit.com
+www.user.vintageinv.com
 www.v-service.vn
 www.vadim.ovh
 www.vakoilumuseo.fi
@@ -2693,6 +2712,7 @@ www.verkoop-mijn-auto-veilig.be
 www.vesi.fi
 www.vesinhcongnghiepsauber.com
 www.vetenskaphalsa.se
+www.veterinarias-argentina.info
 www.vf.se
 www.vgperu.pe
 www.vhec.org
