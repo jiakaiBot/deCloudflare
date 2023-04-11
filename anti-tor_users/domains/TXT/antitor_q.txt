@@ -8,8 +8,6 @@ blog.quest.com
 cdn.quarry.com
 cdn03.qrcodechimp.com
 dav.hugo.qplex.de
-eki-net.com.qohz.cn
-eki-net.com.qoig.cn
 en.quoreitaliano.it
 etc-ethnfds.qhigh.com
 etc-mvdsa.qpoe.com
@@ -348,6 +346,7 @@ jspassport.ssl.qhimg.com
 jycv.qaxuacl.cn
 khedma.qfcra.com
 lp.quiz4thewin.com
+mapp.qsquare.com.tw
 monitoring.quanos-solutions.com
 monitoring.qucodes.com
 nl.qleaningservice.com
@@ -364,6 +363,7 @@ qamahcenter.com
 qamy-id.com
 qapaq.pe
 qatarembassy.es
+qb365.biz
 qcom.co.uk
 qcplworld.com
 qemertech.com
@@ -421,6 +421,7 @@ www.quantable.com
 www.quantakinetic.com
 www.quantumimprovements.net
 www.quatuor-transactions.com
+www.questionwell.org
 www.quick-data-recovery.com
 www.quikr.com
 www.ticketmaster.quality4k.com
