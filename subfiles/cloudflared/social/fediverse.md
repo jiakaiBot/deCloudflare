@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,128 |
+| com | 6,129 |
 | social | 3,923 |
 | net | 3,124 |
 | org | 2,155 |
-| de | 2,037 |
+| de | 2,038 |
 
 
 - Mastodon, Pleroma, etc
@@ -4193,7 +4193,7 @@ Here's a list of public Fediverse services.
 | `blrsc.me` | No |
 | `blu.social` | No |
 | `blub.social` | No |
-| `blubb.fish` | No |
+| `blubb.fish` | Yes |
 | `blubrry.chat` | No |
 | `bludood.com` | Yes |
 | `blue-mastodon.club` | No |
@@ -24622,7 +24622,7 @@ Here's a list of public Fediverse services.
 | `neshweb.net` | Yes |
 | `neso.club` | No |
 | `neso.page` | Yes |
-| `neso.tech` | No |
+| `neso.tech` | Yes |
 | `nesohub.org` | No |
 | `ness.ml` | No |
 | `nessel.cloud` | Yes |
@@ -25633,6 +25633,7 @@ Here's a list of public Fediverse services.
 | `nulvoid.net` | Yes |
 | `numaverse.com` | No |
 | `number5.dev` | Yes |
+| `number926.com` | No |
 | `numerama.com` | Yes |
 | `numericoop.fr` | No |
 | `numerique.gouv.fr` | No |
@@ -32163,7 +32164,7 @@ Here's a list of public Fediverse services.
 | `simbafs.cc` | Yes |
 | `simbasocial.com` | No |
 | `simbly.me` | No |
-| `simcha.lgbt` | No |
+| `simcha.lgbt` | Yes |
 | `simcop2387.info` | Yes |
 | `simcu.com` | No |
 | `simeckuv.cloud` | No |
@@ -38143,6 +38144,7 @@ Here's a list of public Fediverse services.
 | `volya.xyz` | No |
 | `volzel.net` | No |
 | `von.zone` | No |
+| `vonbergcompany.de` | No |
 | `vonhaller.com` | No |
 | `vonhaller.social` | No |
 | `vonschack.com` | No |
@@ -39022,6 +39024,7 @@ Here's a list of public Fediverse services.
 | `wittberger.net` | Yes |
 | `wittemeier.de` | No |
 | `witten.social` | No |
+| `wittenberg.onl` | No |
 | `wittenbrink.net` | No |
 | `witter.cz` | No |
 | `wittezaele.fr` | No |
@@ -40622,7 +40625,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,140 |
+| Cloudflare | 10,143 |
 | Normal | 30,439 |
 
 
