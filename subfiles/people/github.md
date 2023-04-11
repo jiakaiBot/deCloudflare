@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Hydration completed but contains mismatches.](https://github.com/zeabur/zeabur/issues/73)
 - [help wanted 求助: 非全局模式下，打开warp-go o之后，为什么v2ray和clash的测速会变慢？？](https://github.com/fscarmen/warp/issues/341)
 - [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/455)
 - [Excessive Data Exposure](https://github.com/WuTangLan/example-actions/issues/453)
