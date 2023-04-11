@@ -96,7 +96,7 @@ Here's a list of public Matrix services.
 | matrix.norge.chat | Yes |
 | matrix.ombreport.info | No |
 | pcriot.org | Yes |
-| matrix.perthchat.org | Yes |
+| perthchat.org | Yes |
 | matrix.pikaviestin.fi | No |
 | matrix.plus.st | No |
 | pragma-messenger.ch | No |
