@@ -3636,6 +3636,7 @@ Do not create new issue or we will close it as duplicate.
 | [GrigoriyIgnati1@twitter](https://twitter.com/GrigoriyIgnati1/status/1505872579822862336) | advertise |
 | [Grimsley_16@twitter](https://twitter.com/Grimsley_16/status/1528654567038078977) | advertise |
 | [GrimyTalibandz@twitter](https://twitter.com/GrimyTalibandz/status/1381042857931386888) | advertise |
+| [GRITTOTHOMAS@twitter](https://twitter.com/GRITTOTHOMAS/status/1645830431026319363) | advertise |
 | [grizta1@twitter](https://twitter.com/grizta1/status/1404102426567659525) | advertise |
 | [grock_in@twitter](https://twitter.com/grock_in/status/1494612874135805970) | advertise |
 | [ground4me@twitter](https://twitter.com/ground4me/status/1642172020883603456) | advertise |
@@ -5624,8 +5625,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
