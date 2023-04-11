@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,131 |
+| com | 6,132 |
 | social | 3,925 |
 | net | 3,124 |
 | org | 2,155 |
@@ -6451,6 +6451,7 @@ Here's a list of public Fediverse services.
 | `coko.de` | No |
 | `coko.foundation` | No |
 | `col.social` | Yes |
+| `cola-gang.industries` | Yes |
 | `cold.solar` | No |
 | `coldness.co` | No |
 | `coldrick.me.uk` | Yes |
@@ -6507,7 +6508,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7034,6 +7035,7 @@ Here's a list of public Fediverse services.
 | `cristiano.cloud` | No |
 | `cristini.social` | No |
 | `critcare.social` | No |
+| `critica.li` | No |
 | `critica.social` | No |
 | `criticalhit.net` | Yes |
 | `criticalrolestats.com` | No |
@@ -18355,6 +18357,7 @@ Here's a list of public Fediverse services.
 | `kobalt.dev` | No |
 | `koboksdon.net` | Yes |
 | `kobokskobok.com` | No |
+| `kobold.house` | No |
 | `kobold.space` | No |
 | `kobolds.space` | No |
 | `kobschaetzki.net` | No |
@@ -19753,7 +19756,7 @@ Here's a list of public Fediverse services.
 | `linkse.media` | No |
 | `linksehobbys.nl` | No |
 | `linksfraktion.de` | No |
-| `linksgruenversifft.com` | No |
+| `linksgruenversifft.com` | Yes |
 | `linksgruenversifft.social` | No |
 | `linkybook.com` | No |
 | `linode.com` | Yes |
@@ -30343,6 +30346,7 @@ Here's a list of public Fediverse services.
 | `romca.tk` | Yes |
 | `romeorose.nz` | No |
 | `romeorose.xyz` | Yes |
+| `romeosquared.eu` | No |
 | `romeov.me` | Yes |
 | `romeros.link` | No |
 | `romerotools.net` | Yes |
@@ -32014,6 +32018,7 @@ Here's a list of public Fediverse services.
 | `shotsfi.red` | No |
 | `shoujo.xyz` | No |
 | `shouldagoneoffroad.com` | No |
+| `shouldhavebeenanastronaut.com` | No |
 | `shouldibuyahorse.com` | No |
 | `shoutbox.blog` | No |
 | `shoutbox.net` | Yes |
@@ -40640,8 +40645,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,152 |
-| Normal | 30,445 |
+| Cloudflare | 10,153 |
+| Normal | 30,449 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
