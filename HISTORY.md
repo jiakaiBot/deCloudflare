@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-04-11: [Increased network error rate in Paris near to CDG region](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5tfv6rlvdzx6)
 - 2023-04-07: [Browser Isolation may have been unavailable for a short amount of time for users near Salt Lake City](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/tfy7vr0qs98h)
 - 2023-04-07: [Gateway Dedicated IP customers and Aegis customers may see increase in latency.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gfp648g9c966)
 - 2023-04-07: [Increased R2 error rate in Dublin](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/w7pct40l2210)
