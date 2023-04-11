@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,131 |
-| social | 3,924 |
+| social | 3,925 |
 | net | 3,124 |
 | org | 2,155 |
-| de | 2,038 |
+| de | 2,039 |
 
 
 - Mastodon, Pleroma, etc
@@ -5274,6 +5274,7 @@ Here's a list of public Fediverse services.
 | `carl.fish` | No |
 | `carlesbellver.net` | No |
 | `carlnimbus.com` | No |
+| `carlosjackson.me` | Yes |
 | `carma.red` | No |
 | `carman.social` | No |
 | `carmantini.com` | No |
@@ -5415,6 +5416,7 @@ Here's a list of public Fediverse services.
 | `catpp.eu` | No |
 | `catrow.net` | No |
 | `cats-home.net` | No |
+| `cats.city` | No |
 | `cats.ovh` | Yes |
 | `cats.social` | No |
 | `catsandcoffee.de` | Yes |
@@ -11288,7 +11290,7 @@ Here's a list of public Fediverse services.
 | `fenetre.dev` | No |
 | `fengan.ga` | No |
 | `fenix-cantina.com` | No |
-| `fenix.cafe` | No |
+| `fenix.cafe` | Yes |
 | `fenk.org` | No |
 | `fennec.online` | No |
 | `fennec.town` | No |
@@ -13156,6 +13158,7 @@ Here's a list of public Fediverse services.
 | `gianarb.it` | No |
 | `giant.horse` | No |
 | `giant.systems` | No |
+| `giantheart.social` | Yes |
 | `giants-club.net` | No |
 | `gib.social` | Yes |
 | `gibald.com` | No |
@@ -15372,6 +15375,7 @@ Here's a list of public Fediverse services.
 | `hush.is` | Yes |
 | `husimo.fr` | No |
 | `husk.site` | No |
+| `huskies.online` | No |
 | `husku.net` | No |
 | `husky.xyz` | Yes |
 | `huskyapp.dev` | Yes |
@@ -18341,6 +18345,7 @@ Here's a list of public Fediverse services.
 | `knusper-land.de` | Yes |
 | `knusperfisch.de` | No |
 | `knuspermagier.de` | No |
+| `knut-hildebrandt.de` | No |
 | `knzk.me` | Yes |
 | `knzkoniisan.club` | No |
 | `ko-dai.work` | No |
@@ -25725,6 +25730,7 @@ Here's a list of public Fediverse services.
 | `nyanya.net` | No |
 | `nyaotan.fun` | No |
 | `nyarr.dev` | No |
+| `nyation.fr` | No |
 | `nyawan.club` | No |
 | `nycity.social` | No |
 | `nycmesh.net` | No |
@@ -27761,6 +27767,7 @@ Here's a list of public Fediverse services.
 | `pixelfed.icu` | No |
 | `pixelfed.ink` | No |
 | `pixelfed.life` | Yes |
+| `pixelfed.lk` | Yes |
 | `pixelfed.love` | No |
 | `pixelfed.me` | No |
 | `pixelfed.monster` | No |
@@ -28464,6 +28471,7 @@ Here's a list of public Fediverse services.
 | `princesa.company` | No |
 | `princess.cat` | No |
 | `princess.industries` | No |
+| `princess.pet` | No |
 | `principlesqed.com` | No |
 | `prinsesse.co` | No |
 | `print3d.social` | No |
@@ -40632,8 +40640,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,148 |
-| Normal | 30,441 |
+| Cloudflare | 10,152 |
+| Normal | 30,445 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
