@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,129 |
-| social | 3,923 |
+| com | 6,130 |
+| social | 3,924 |
 | net | 3,124 |
 | org | 2,155 |
 | de | 2,038 |
@@ -1181,6 +1181,7 @@ Here's a list of public Fediverse services.
 | `aike.monster` | No |
 | `aikoumasanobu.com` | No |
 | `ains-no-misskey.com` | Yes |
+| `ainsophaur.it` | No |
 | `aioo.ooo` | No |
 | `aipi.social` | No |
 | `aiqwest.com` | No |
@@ -1367,6 +1368,7 @@ Here's a list of public Fediverse services.
 | `alexbelgraver.nl` | No |
 | `alexdobin.com` | Yes |
 | `alexeyubozhenko.ru` | Yes |
+| `alexezell.com` | No |
 | `alexforsale.site` | No |
 | `alexhatala.com` | No |
 | `alexisart.me` | Yes |
@@ -2074,6 +2076,7 @@ Here's a list of public Fediverse services.
 | `aorinngo.tk` | No |
 | `aorinngo.top` | No |
 | `aotake91.net` | No |
+| `aouh.fr` | No |
 | `aow.show` | No |
 | `aowolfie.com` | No |
 | `aoxiang.online` | Yes |
@@ -19640,6 +19643,7 @@ Here's a list of public Fediverse services.
 | `lieurance.social` | No |
 | `life-hub.eu` | No |
 | `lifebystills.co.uk` | No |
+| `lifehack.social` | No |
 | `lifeisabug.com` | No |
 | `lifeisforhacking.community` | No |
 | `lifeofpablo.com` | Yes |
@@ -32902,7 +32906,7 @@ Here's a list of public Fediverse services.
 | `soldyn.net` | Yes |
 | `soleus.nu` | No |
 | `solhack.com` | Yes |
-| `soli0222.com` | No |
+| `soli0222.com` | Yes |
 | `solibre.de` | No |
 | `solidaires.org` | No |
 | `solidarite-precaires.net` | No |
@@ -39433,7 +39437,7 @@ Here's a list of public Fediverse services.
 | `xavin.net` | No |
 | `xavs.ca` | No |
 | `xayah.net` | No |
-| `xbb.one` | No |
+| `xbb.one` | Yes |
 | `xbdm.fun` | Yes |
 | `xbm.se` | No |
 | `xbt0r.com` | No |
@@ -40625,8 +40629,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,143 |
-| Normal | 30,439 |
+| Cloudflare | 10,145 |
+| Normal | 30,441 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
