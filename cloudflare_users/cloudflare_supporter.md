@@ -475,6 +475,7 @@ Do not create new issue or we will close it as duplicate.
 | [ajarmah123@twitter](https://twitter.com/ajarmah123/status/1569669764272001025) | advertise |
 | [Ajay25545679@twitter](https://twitter.com/Ajay25545679/status/1389473937520832515) | advertise |
 | [ajayajayid@twitter](https://twitter.com/ajayajayid/status/1374250782011256837) | advertise |
+| [AjayAna36194967@twitter](https://twitter.com/AjayAna36194967/status/1645671234582253575) | advertise |
 | [AjayRaj37136446@twitter](https://twitter.com/AjayRaj37136446/status/1377920985144299524) | advertise |
 | [ajcpominoz@twitter](https://twitter.com/ajcpominoz/status/1445597215141941258) | advertise |
 | [AJian999999@twitter](https://twitter.com/AJian999999/status/1608730761942929408) | advertise |
@@ -7513,6 +7514,7 @@ Do not create new issue or we will close it as duplicate.
 | [MuhdNaz45586594@twitter](https://twitter.com/MuhdNaz45586594/status/1490141664031408128) | advertise |
 | [muhdzamri@twitter](https://twitter.com/muhdzamri/status/1633387300834123777) | advertise |
 | [MuhdzamriZ@twitter](https://twitter.com/MuhdzamriZ/status/1500260354504663040) | advertise |
+| [Muhibul26550503@twitter](https://twitter.com/Muhibul26550503/status/1645675824945741824) | advertise |
 | [mujeeb66760396@twitter](https://twitter.com/mujeeb66760396/status/1608920812450631680) | advertise |
 | [Mujeebk99995403@twitter](https://twitter.com/Mujeebk99995403/status/1402529388168724485) | advertise |
 | [Mujtaba288289@twitter](https://twitter.com/Mujtaba288289/status/1546276421009637379) | advertise |
