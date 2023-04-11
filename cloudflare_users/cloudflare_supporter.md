@@ -6511,6 +6511,7 @@ Do not create new issue or we will close it as duplicate.
 | [LVnHn19145029@twitter](https://twitter.com/LVnHn19145029/status/1385903591274123268) | advertise |
 | [LVnMinh19740694@twitter](https://twitter.com/LVnMinh19740694/status/1492380049349120000) | advertise |
 | [LVnn18518924@twitter](https://twitter.com/LVnn18518924/status/1553437669149253632) | advertise |
+| [LVnNhanh1@twitter](https://twitter.com/LVnNhanh1/status/1645851375958626304) | advertise |
 | [LVnQuyn47173520@twitter](https://twitter.com/LVnQuyn47173520/status/1398788381463629826) | advertise |
 | [LVnTha2@twitter](https://twitter.com/LVnTha2/status/1396523358544547841) | advertise |
 | [Lwanga41993231@twitter](https://twitter.com/Lwanga41993231/status/1504926858126766084) | advertise |
@@ -9482,6 +9483,7 @@ Do not create new issue or we will close it as duplicate.
 | [rex_clemente@twitter](https://twitter.com/rex_clemente/status/1376875545955209224) | advertise |
 | [rex_divakar@twitter](https://twitter.com/rex_divakar/status/1506067340165009409) | advertise |
 | [REYNARDPERMEJO@twitter](https://twitter.com/REYNARDPERMEJO/status/1588537048193183744) | advertise |
+| [rezaam23599399@twitter](https://twitter.com/rezaam23599399/status/1645862494509092864) | advertise |
 | [RezaeShahram@twitter](https://twitter.com/RezaeShahram/status/1583969859041230848) | advertise |
 | [rezagolami_98@twitter](https://twitter.com/rezagolami_98/status/1501473867461799936) | advertise |
 | [Rezam39708754@twitter](https://twitter.com/Rezam39708754/status/1634771035034640389) | advertise |
@@ -10462,6 +10464,7 @@ Do not create new issue or we will close it as duplicate.
 | [STA54946378@twitter](https://twitter.com/STA54946378/status/1394890464516399107) | advertise |
 | [staff_nowa@twitter](https://twitter.com/staff_nowa/status/1587800884800638976) | advertise |
 | [stamp_app@twitter](https://twitter.com/stamp_app/status/1417450714490605568) | advertise |
+| [StanleyEwingBTC@twitter](https://twitter.com/StanleyEwingBTC/status/1645852214009778192) | advertise |
 | [starpratama@twitter](https://twitter.com/starpratama/status/1409534516167806978) | moral (advertise) |
 | [starwalker89@twitter](https://twitter.com/starwalker89/status/1391244115917033478) | advertise |
 | [Staywitme10@twitter](https://twitter.com/Staywitme10/status/1490936001363021831) | advertise |
@@ -11020,8 +11023,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
@@ -12518,6 +12521,7 @@ Do not create new issue or we will close it as duplicate.
 | [Yee_Yee_99@twitter](https://twitter.com/Yee_Yee_99/status/1394494024170369031) | advertise |
 | [YeganehSepideh@twitter](https://twitter.com/YeganehSepideh/status/1583186633477984256) | advertise |
 | [YeGrey1@twitter](https://twitter.com/YeGrey1/status/1643415393162387456) | advertise |
+| [YeGyi00289436@twitter](https://twitter.com/YeGyi00289436/status/1645850980247019522) | advertise |
 | [YeGyi71242850@twitter](https://twitter.com/YeGyi71242850/status/1380804076988862469) | advertise |
 | [yehia1Ali@twitter](https://twitter.com/yehia1Ali/status/1468995135224651779) | advertise |
 | [yehteta15677077@twitter](https://twitter.com/yehteta15677077/status/1390553372898467845) | advertise |
