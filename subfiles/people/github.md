@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [cloudflare jwt token "key is of invalid type"](https://github.com/iegomez/mosquitto-go-auth/issues/270)
 - [json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)](https://github.com/Torantulino/Auto-GPT/issues/944)
 - [Language file for FormBuilder is loaded from CDN](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/217)
 - [you.com is protected by Cloudflare firewall](https://github.com/xtekky/openai-gpt4/issues/15)
