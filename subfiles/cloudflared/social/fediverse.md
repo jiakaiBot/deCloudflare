@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,133 |
+| com | 6,132 |
 | social | 3,930 |
 | net | 3,126 |
 | org | 2,158 |
@@ -2070,7 +2070,6 @@ Here's a list of public Fediverse services.
 | `aoirint.com` | Yes |
 | `aoitofu.net` | No |
 | `aokaga.work` | Yes |
-| `aona.work` | No |
 | `aonyx-cinerea.fun` | No |
 | `aoq.me` | Yes |
 | `aorinngo.ga` | No |
@@ -2624,7 +2623,7 @@ Here's a list of public Fediverse services.
 | `atelier-kanata.dev` | Yes |
 | `ateliershiori.moe` | No |
 | `atellier.space` | Yes |
-| `atergens.com` | No |
+| `atergens.com` | Yes |
 | `aterm.jp` | No |
 | `aterra.info` | No |
 | `atextual.com` | No |
@@ -12255,7 +12254,7 @@ Here's a list of public Fediverse services.
 | `frogkun.com` | No |
 | `frogmob.life` | No |
 | `frogs.lgbt` | No |
-| `frogsock.xyz` | No |
+| `frogsock.xyz` | Yes |
 | `frogtown.club` | No |
 | `froidmont.org` | No |
 | `from-arctic.net` | No |
@@ -17910,7 +17909,6 @@ Here's a list of public Fediverse services.
 | `kensei.dev` | No |
 | `kensimon.io` | No |
 | `kent-dobias.com` | No |
-| `kentaro1043.com` | Yes |
 | `kephale.net` | Yes |
 | `ker.gay` | No |
 | `kerat.net` | No |
@@ -21564,7 +21562,7 @@ Here's a list of public Fediverse services.
 | `mastodonie.online` | No |
 | `mastodonien.de` | No |
 | `mastodonindonesia.com` | No |
-| `mastodonkey.online` | No |
+| `mastodonkey.online` | Yes |
 | `mastodonkilledtwitter.tk` | No |
 | `mastodonlibre.ml` | No |
 | `mastodonlist.com` | Yes |
@@ -24054,7 +24052,7 @@ Here's a list of public Fediverse services.
 | `mysticalartai.com` | No |
 | `mysticcabin.xyz` | No |
 | `mystickynotes.com` | No |
-| `mysticmode.org` | No |
+| `mysticmode.org` | Yes |
 | `mysticpsychedelic.space` | No |
 | `mystikos.org` | Yes |
 | `mystodon.social` | No |
@@ -32613,7 +32611,7 @@ Here's a list of public Fediverse services.
 | `smooth.guru` | No |
 | `smoothbrain.top` | No |
 | `smoothdream.me` | No |
-| `smoothdream.online` | No |
+| `smoothdream.online` | Yes |
 | `smop.org` | No |
 | `smores.town` | No |
 | `smseden.com` | Yes |
@@ -33213,7 +33211,7 @@ Here's a list of public Fediverse services.
 | `speyhard.club` | Yes |
 | `spezi.social` | No |
 | `spezl.bayern` | No |
-| `spfd.online` | No |
+| `spfd.online` | Yes |
 | `sphere.com.ai` | No |
 | `sphericalcow.space` | No |
 | `sphericalk.at` | Yes |
@@ -37951,7 +37949,6 @@ Here's a list of public Fediverse services.
 | `videotoblin.me` | No |
 | `videotry.de` | Yes |
 | `vidicon.org` | Yes |
-| `viditube.site` | No |
 | `vidja.social` | No |
 | `vidm.co` | No |
 | `vidro.club` | No |
@@ -40669,8 +40666,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,161 |
-| Normal | 30,465 |
+| Cloudflare | 10,166 |
+| Normal | 30,457 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
