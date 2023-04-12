@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [you.com is protected by Cloudflare firewall](https://github.com/xtekky/openai-gpt4/issues/15)
 - [Many modules timing out as of v114](https://github.com/esm-dev/esm.sh/issues/587)
 - [Hydration completed but contains mismatches.](https://github.com/zeabur/zeabur/issues/73)
 - [help wanted 求助: 非全局模式下，打开warp-go o之后，为什么v2ray和clash的测速会变慢？？](https://github.com/fscarmen/warp/issues/341)
