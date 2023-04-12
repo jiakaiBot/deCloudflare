@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,132 |
+| com | 6,133 |
 | social | 3,930 |
 | net | 3,126 |
 | org | 2,158 |
@@ -2070,6 +2070,7 @@ Here's a list of public Fediverse services.
 | `aoirint.com` | Yes |
 | `aoitofu.net` | No |
 | `aokaga.work` | Yes |
+| `aona.work` | No |
 | `aonyx-cinerea.fun` | No |
 | `aoq.me` | Yes |
 | `aorinngo.ga` | No |
@@ -17909,6 +17910,7 @@ Here's a list of public Fediverse services.
 | `kensei.dev` | No |
 | `kensimon.io` | No |
 | `kent-dobias.com` | No |
+| `kentaro1043.com` | Yes |
 | `kephale.net` | Yes |
 | `ker.gay` | No |
 | `kerat.net` | No |
@@ -37948,6 +37950,7 @@ Here's a list of public Fediverse services.
 | `videotoblin.me` | No |
 | `videotry.de` | Yes |
 | `vidicon.org` | Yes |
+| `viditube.site` | No |
 | `vidja.social` | No |
 | `vidm.co` | No |
 | `vidro.club` | No |
@@ -40154,7 +40157,7 @@ Here's a list of public Fediverse services.
 | `yukimochi.jp` | Yes |
 | `yukineko.me` | Yes |
 | `yukioke.com` | No |
-| `yukisou.xyz` | No |
+| `yukisou.xyz` | Yes |
 | `yukitsukuura.jp` | No |
 | `yukiya.me` | No |
 | `yukkukomei.com` | Yes |
@@ -40665,8 +40668,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,157 |
-| Normal | 30,465 |
+| Cloudflare | 10,159 |
+| Normal | 30,466 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
