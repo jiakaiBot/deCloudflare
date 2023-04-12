@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [nHentai Cloudflare bypass not working](https://github.com/TheNetsky/extensions-sources/issues/49)
+- [Error when deploying on Cloudflare Pages with unjs/storage Cloudflare KV Binding](https://github.com/unjs/nitro/issues/1132)
 - [cloudflare jwt token "key is of invalid type"](https://github.com/iegomez/mosquitto-go-auth/issues/270)
 - [json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)](https://github.com/Torantulino/Auto-GPT/issues/944)
 - [Language file for FormBuilder is loaded from CDN](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/217)
