@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,134 |
 | social | 3,930 |
-| net | 3,126 |
+| net | 3,127 |
 | org | 2,158 |
 | de | 2,041 |
 
@@ -20009,6 +20009,7 @@ Here's a list of public Fediverse services.
 | `locahlost.net` | No |
 | `local-it.cloud` | No |
 | `local-rouze.org` | No |
+| `local.vn.ua` | No |
 | `local704.co` | No |
 | `localecho.net` | Yes |
 | `localghost.ooo` | Yes |
@@ -23500,6 +23501,7 @@ Here's a list of public Fediverse services.
 | `msky.nl` | Yes |
 | `msky.tokyo` | Yes |
 | `msky.work` | Yes |
+| `mskybox.net` | Yes |
 | `mslink.com` | No |
 | `msm.moe` | Yes |
 | `msmprojects.com` | No |
@@ -26369,7 +26371,7 @@ Here's a list of public Fediverse services.
 | `opensourcestories.org` | No |
 | `openspace.cf` | No |
 | `openstreetmap.fr` | No |
-| `opentechnologies.co.za` | Yes |
+| `opentechnologies.co.za` | No |
 | `opentoken.de` | No |
 | `opentunisia.org` | No |
 | `openvalencia.site` | No |
@@ -40677,7 +40679,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,179 |
-| Normal | 30,454 |
+| Normal | 30,456 |
 
 
-### 25.1% of public Fediverse services are using Cloudflare.
+### 25% of public Fediverse services are using Cloudflare.
