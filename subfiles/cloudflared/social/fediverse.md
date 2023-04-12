@@ -4350,6 +4350,7 @@ Here's a list of public Fediverse services.
 | `boles.social` | Yes |
 | `boles.xyz` | No |
 | `bolesblogs.com` | No |
+| `bolha.blog` | Yes |
 | `bolha.one` | Yes |
 | `bolha.photos` | Yes |
 | `bolha.social` | Yes |
@@ -24814,6 +24815,7 @@ Here's a list of public Fediverse services.
 | `nex.sh` | No |
 | `nexific.social` | Yes |
 | `nexon.su` | Yes |
+| `nexryai.online` | Yes |
 | `nextblock.nl` | No |
 | `nextcloud-music-vault.de` | No |
 | `nextcloud.com` | No |
@@ -32100,7 +32102,7 @@ Here's a list of public Fediverse services.
 | `sideofburritos.social` | Yes |
 | `sidequest.social` | No |
 | `sideras.net` | Yes |
-| `sideslip.social` | No |
+| `sideslip.social` | Yes |
 | `sidestreetapps.net` | Yes |
 | `sidetools.net` | Yes |
 | `sidewalken.com` | No |
@@ -36643,7 +36645,7 @@ Here's a list of public Fediverse services.
 | `trotlot.online` | No |
 | `trougnouf.com` | No |
 | `trouth.eu` | No |
-| `troxelhome.page` | No |
+| `troxelhome.page` | Yes |
 | `troykitch.com` | No |
 | `trpg-link.tk` | No |
 | `trpg-o.xyz` | No |
@@ -40671,8 +40673,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,173 |
-| Normal | 30,455 |
+| Cloudflare | 10,177 |
+| Normal | 30,453 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
