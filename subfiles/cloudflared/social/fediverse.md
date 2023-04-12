@@ -19768,6 +19768,7 @@ Here's a list of public Fediverse services.
 | `linksgruenversifft.com` | Yes |
 | `linksgruenversifft.social` | No |
 | `linkybook.com` | No |
+| `lino.cooking` | Yes |
 | `linode.com` | Yes |
 | `linss.com` | Yes |
 | `lintmx.com` | Yes |
@@ -25659,7 +25660,7 @@ Here's a list of public Fediverse services.
 | `nulvoid.net` | Yes |
 | `numaverse.com` | No |
 | `number5.dev` | Yes |
-| `number926.com` | No |
+| `number926.com` | Yes |
 | `numerama.com` | Yes |
 | `numericoop.fr` | No |
 | `numerique.gouv.fr` | No |
@@ -40668,8 +40669,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,159 |
-| Normal | 30,466 |
+| Cloudflare | 10,161 |
+| Normal | 30,465 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
