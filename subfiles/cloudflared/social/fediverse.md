@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,134 |
+| com | 6,135 |
 | social | 3,930 |
-| net | 3,127 |
+| net | 3,128 |
 | org | 2,158 |
 | de | 2,041 |
 
@@ -6514,7 +6514,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -11091,6 +11091,7 @@ Here's a list of public Fediverse services.
 | `fedicity.net` | Yes |
 | `fedida.com` | Yes |
 | `fedidb.org` | Yes |
+| `fedidex.net` | Yes |
 | `fedifence.social` | No |
 | `fedified.com` | Yes |
 | `fedifilm.art` | No |
@@ -13727,6 +13728,7 @@ Here's a list of public Fediverse services.
 | `greatview.video` | No |
 | `gred.al` | Yes |
 | `greed.monster` | No |
+| `greedygretchen.com` | No |
 | `greek-true-social.ga` | No |
 | `greekgodbod.com` | No |
 | `green-owl-technology.com` | No |
@@ -29373,7 +29375,7 @@ Here's a list of public Fediverse services.
 | `ramo.today` | No |
 | `ramona.chat` | Yes |
 | `ramonperalta.nl` | No |
-| `ramoonus.nl` | No |
+| `ramoonus.nl` | Yes |
 | `rampantmonkey.social` | No |
 | `rampin.org` | No |
 | `ramsdr.ru` | Yes |
@@ -40678,8 +40680,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,179 |
-| Normal | 30,456 |
+| Cloudflare | 10,182 |
+| Normal | 30,455 |
 
 
-### 25% of public Fediverse services are using Cloudflare.
+### 25.1% of public Fediverse services are using Cloudflare.
