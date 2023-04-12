@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,132 |
+| com | 6,133 |
 | social | 3,930 |
 | net | 3,126 |
 | org | 2,158 |
@@ -2070,6 +2070,7 @@ Here's a list of public Fediverse services.
 | `aoirint.com` | Yes |
 | `aoitofu.net` | No |
 | `aokaga.work` | Yes |
+| `aona.work` | No |
 | `aonyx-cinerea.fun` | No |
 | `aoq.me` | Yes |
 | `aorinngo.ga` | No |
@@ -3338,7 +3339,7 @@ Here's a list of public Fediverse services.
 | `bazbaze.com` | No |
 | `bazurk.com` | No |
 | `bazza.blog` | No |
-| `bbad.com` | No |
+| `bbad.com` | Yes |
 | `bbalm.me` | No |
 | `bbbdn.jp` | No |
 | `bbboost.com` | No |
@@ -4820,6 +4821,7 @@ Here's a list of public Fediverse services.
 | `bubuit.net` | No |
 | `bucchere.com` | Yes |
 | `buceoluegoexisto.com` | No |
+| `buchstoa-tv.at` | No |
 | `buchwurm.social` | No |
 | `bucketofcrabs.club` | No |
 | `buckeye.social` | No |
@@ -9065,7 +9067,7 @@ Here's a list of public Fediverse services.
 | `dorijan.io` | No |
 | `doriskey.net` | Yes |
 | `doriskey.xyz` | Yes |
-| `dork.dev` | No |
+| `dork.dev` | Yes |
 | `dork.zone` | No |
 | `dorkboy.ca` | Yes |
 | `dorkboycomics.com` | Yes |
@@ -14559,7 +14561,7 @@ Here's a list of public Fediverse services.
 | `helene.moe` | Yes |
 | `helene.tk` | No |
 | `helenprejean.org` | No |
-| `helicos.net` | No |
+| `helicos.net` | Yes |
 | `heliohost.us` | No |
 | `helios.red` | Yes |
 | `helios42.de` | No |
@@ -17796,6 +17798,7 @@ Here's a list of public Fediverse services.
 | `kazvam.com` | Yes |
 | `kb3lyb.com` | Yes |
 | `kbec.dev` | No |
+| `kbin.pub` | Yes |
 | `kbrice.blog` | No |
 | `kc4kqe.org` | Yes |
 | `kc8jc.com` | No |
@@ -17909,6 +17912,7 @@ Here's a list of public Fediverse services.
 | `kensei.dev` | No |
 | `kensimon.io` | No |
 | `kent-dobias.com` | No |
+| `kentaro1043.com` | Yes |
 | `kephale.net` | Yes |
 | `ker.gay` | No |
 | `kerat.net` | No |
@@ -26262,7 +26266,7 @@ Here's a list of public Fediverse services.
 | `oortcloud.online` | No |
 | `oour.org` | No |
 | `ooxxcc.com` | Yes |
-| `oozry.com` | No |
+| `oozry.com` | Yes |
 | `oozuze.social` | No |
 | `opa.re` | Yes |
 | `opafritz.de` | No |
@@ -27482,7 +27486,7 @@ Here's a list of public Fediverse services.
 | `phasegate.icu` | No |
 | `phaseshift.studio` | No |
 | `phasing.cloud` | No |
-| `phasorburn.com` | No |
+| `phasorburn.com` | Yes |
 | `phast.ru` | Yes |
 | `phatcat.online` | No |
 | `phatnastytour.com` | No |
@@ -37949,6 +37953,7 @@ Here's a list of public Fediverse services.
 | `videotoblin.me` | No |
 | `videotry.de` | Yes |
 | `vidicon.org` | Yes |
+| `viditube.site` | No |
 | `vidja.social` | No |
 | `vidm.co` | No |
 | `vidro.club` | No |
@@ -40666,8 +40671,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,166 |
-| Normal | 30,457 |
+| Cloudflare | 10,173 |
+| Normal | 30,455 |
 
 
 ### 25% of public Fediverse services are using Cloudflare.
