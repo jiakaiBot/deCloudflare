@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,135 |
+| com | 6,136 |
 | social | 3,930 |
 | net | 3,128 |
-| org | 2,158 |
+| org | 2,159 |
 | de | 2,041 |
 
 
@@ -14734,6 +14734,7 @@ Here's a list of public Fediverse services.
 | `hexagon.town` | No |
 | `hexagons.social` | No |
 | `hexaly.se` | No |
+| `hexandcube.eu.org` | Yes |
 | `hexandcube.tk` | No |
 | `hexconspillfestival.org` | No |
 | `hexdsl.co.uk` | No |
@@ -30769,7 +30770,7 @@ Here's a list of public Fediverse services.
 | `saadnpq.com` | No |
 | `saagarjha.com` | No |
 | `saarmupfel.de` | No |
-| `saartweet.de` | No |
+| `saartweet.de` | Yes |
 | `saas.yachts` | Yes |
 | `saastisfy.com` | No |
 | `saasycloud.social` | No |
@@ -34134,6 +34135,7 @@ Here's a list of public Fediverse services.
 | `surazal.net` | No |
 | `surfin.dog` | No |
 | `surfnet.space` | No |
+| `surfscape.cloud` | Yes |
 | `surfshark.com` | Yes |
 | `surftao.life` | Yes |
 | `surfzone.nz` | Yes |
@@ -37649,6 +37651,7 @@ Here's a list of public Fediverse services.
 | `v3g.de` | No |
 | `v3ritas.tech` | No |
 | `v4d0r.com` | No |
+| `v4jp.com` | Yes |
 | `v4v.dev` | No |
 | `v5ox.com` | No |
 | `v6.rocks` | Yes |
@@ -40680,8 +40683,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,182 |
-| Normal | 30,455 |
+| Cloudflare | 10,186 |
+| Normal | 30,454 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
