@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,133 |
+| com | 6,134 |
 | social | 3,930 |
 | net | 3,126 |
 | org | 2,158 |
@@ -13550,6 +13550,7 @@ Here's a list of public Fediverse services.
 | `goodchristian.website` | No |
 | `goodevilgenius.org` | Yes |
 | `goodfeeds.net` | No |
+| `goodhouse.fun` | No |
 | `goodlett.social` | No |
 | `goodluckgabe.life` | No |
 | `goodman-wilson.com` | Yes |
@@ -16656,6 +16657,7 @@ Here's a list of public Fediverse services.
 | `jamesoff.net` | No |
 | `jamesp.org` | No |
 | `jamestechnotes.com` | No |
+| `jamestrey.com` | Yes |
 | `jamesvasile.com` | No |
 | `jameswynn.com` | No |
 | `jameuwu.com` | Yes |
@@ -33984,6 +33986,7 @@ Here's a list of public Fediverse services.
 | `sudduth.me` | No |
 | `sudo.ca` | No |
 | `sudo.cat` | Yes |
+| `sudo.cx` | Yes |
 | `sudojudo.com` | Yes |
 | `sudoshell.xyz` | No |
 | `sudothei.io` | No |
@@ -40673,8 +40676,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,177 |
-| Normal | 30,453 |
+| Cloudflare | 10,179 |
+| Normal | 30,454 |
 
 
-### 25% of public Fediverse services are using Cloudflare.
+### 25.1% of public Fediverse services are using Cloudflare.
