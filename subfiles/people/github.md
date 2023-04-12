@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)](https://github.com/Torantulino/Auto-GPT/issues/944)
 - [Language file for FormBuilder is loaded from CDN](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/217)
 - [you.com is protected by Cloudflare firewall](https://github.com/xtekky/openai-gpt4/issues/15)
 - [Many modules timing out as of v114](https://github.com/esm-dev/esm.sh/issues/587)
