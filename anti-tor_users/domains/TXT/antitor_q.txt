@@ -327,6 +327,8 @@ adroitdi.dev.sdfe.quantori.com
 api.quicksign.fr
 api.quinteft.com
 api.qujam.com
+bank-online.qyako.online
+bankonline.qyako.online
 betas.quantalucia.com
 ccagents.qswerve.com
 ccxt-server-staging.quantalpha.xyz
@@ -346,6 +348,7 @@ jspassport.ssl.qhimg.com
 jycv.qaxuacl.cn
 khedma.qfcra.com
 lp.quiz4thewin.com
+main.qcloudimg.com
 mapp.qsquare.com.tw
 monitoring.quanos-solutions.com
 monitoring.qucodes.com
@@ -362,6 +365,7 @@ qalmoco.quicksoft.com.br
 qamahcenter.com
 qamy-id.com
 qapaq.pe
+qarenta724.name.tr
 qatarembassy.es
 qb365.biz
 qcom.co.uk
@@ -402,6 +406,8 @@ shopkonzept.quikfox-lab.com
 sl2-api-staging.qrioinc.com
 soytest.quarissoluciones.com
 starsona-dev.qburst.build
+test.qaftk.kr
+vpn.qehkl.nhs.uk
 webhook.github.dev.qualia.io
 webhooks.github-source.service.eu-west-1.quokka.codes
 www.client.qascs.com
@@ -424,6 +430,7 @@ www.quatuor-transactions.com
 www.questionwell.org
 www.quick-data-recovery.com
 www.quikr.com
+www.quinnandassociates.ca
 www.ticketmaster.quality4k.com
 admin.qualup.app
 alianzas.qapaq.pe
