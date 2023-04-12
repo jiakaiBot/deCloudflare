@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Language file for FormBuilder is loaded from CDN](https://github.com/decidim-ice/decidim-module-decidim_awesome/issues/217)
 - [you.com is protected by Cloudflare firewall](https://github.com/xtekky/openai-gpt4/issues/15)
 - [Many modules timing out as of v114](https://github.com/esm-dev/esm.sh/issues/587)
 - [Hydration completed but contains mismatches.](https://github.com/zeabur/zeabur/issues/73)
