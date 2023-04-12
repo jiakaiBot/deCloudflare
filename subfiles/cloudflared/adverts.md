@@ -15,12 +15,12 @@ Here's the result.
 
 | Adblock list | Domains Count | Cloudflare | % |
 | --- | --- | --- | --- |
-| [EasyList](https://easylist.to/easylist/easylist.txt) | 32,563 | 9,358 | 28.7% |
-| [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) | 17,708 | 6,044 | 34.1% |
-| [Annoyance](https://secure.fanboy.co.nz/fanboy-annoyance.txt) | 19,772 | 7,266 | 36.7% |
-| [AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | 46,525 | 9,074 | 19.5% |
-| [AdAway](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt) | 2,114 | 786 | 37.2% |
-| Total | 82,914 | 23,489 | 28.3% |
+| [EasyList](https://easylist.to/easylist/easylist.txt) | 32,563 | 9,359 | 28.7% |
+| [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) | 17,708 | 6,045 | 34.1% |
+| [Annoyance](https://secure.fanboy.co.nz/fanboy-annoyance.txt) | 19,774 | 7,267 | 36.8% |
+| [AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | 46,528 | 9,076 | 19.5% |
+| [AdAway](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt) | 2,114 | 787 | 37.2% |
+| Total | 82,919 | 23,492 | 28.3% |
 
 
 ### 28.3% of adverts and trackers are using Cloudflare.
