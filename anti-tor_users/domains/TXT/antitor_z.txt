@@ -609,6 +609,7 @@ afspraken.zeewolde.nl
 alaan-test.zulayka.com
 alert.zoostore.pro
 all-service.zapages.co.il
+api-manager.itau-cartoes.zup.com.br
 api.zoolife.live
 api.zs-clinical-study-feasibility.dev.zsservices.com
 avito.avito.avito.sber.avito.sberbank.covid19.zdorovadytyna.com
@@ -686,6 +687,7 @@ whm.zelateck.online
 www.account.zafaresources.com
 www.accounting.zedwa.za.net
 www.adesso.com.hr.zaklada-nora-situm.com
+www.asso-cipitc.z179214-x51cc.s01.zwphosting.com
 www.backup.zempirestore.com
 www.bossmoney.zedafrica.com
 www.corsoitaliano.zedlemon.com
@@ -721,15 +723,19 @@ www.zierzolab.com
 www.zillowstatic.com
 www.zimlab.com
 www.ziraatilaclama.com
+www.zmhhorvat.hr
 www.zomato.com
 www.zonguldakbarosu.org.tr
 www.zoogdiervereniging.nl
+www.zorik.co.il
 www.zoya.in
 www.ztzhelpdesk.info
 www.zuber-uebersetzungen.de
 www.zwillgen.com
+www.zxue.me
 zacrknt.si
 zagreb-apt.com
+zainmotors2008.com
 zapach-papieru.pl
 zarfyapi.com
 zargarian.ca
@@ -768,6 +774,7 @@ zinapzis.com
 zipapi.us
 zipgenius.com
 zipgenius.it
+ziptechdirect.com
 ziraatilaclama.com
 zizannsspecialoftheday.online
 zksync-mainnet.us
@@ -775,6 +782,7 @@ zksync.at
 zlvv.net
 zmdownload-accl.zoho.com
 znitro.com
+zoig.com
 zoomingjapan.com
 zoooma.online
 zoredalabs.cyou
@@ -786,7 +794,6 @@ zuber-gloor.ch
 zurcherarquitectos.com
 zuriserve.africa
 zuuonline.com
-zwrotzalot.pl
 zzotrack.com
 acceptatie-client.zorgplatform.online
 adfs.zu.de
