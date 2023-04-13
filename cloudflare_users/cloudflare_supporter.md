@@ -11035,8 +11035,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
@@ -12827,6 +12827,7 @@ Do not create new issue or we will close it as duplicate.
 | [zGed001@twitter](https://twitter.com/zGed001/status/1438183713917988865) | advertise |
 | [zhan2958@twitter](https://twitter.com/zhan2958/status/1394117965734420482) | advertise |
 | [ZhangJueJue1@twitter](https://twitter.com/ZhangJueJue1/status/1383633631164260360) | advertise |
+| [ZhechenWei@twitter](https://twitter.com/ZhechenWei/status/1646531788871970819) | advertise |
 | [Zhu_Apiral@twitter](https://twitter.com/Zhu_Apiral/status/1380403857822474240) | advertise |
 | [zibu1110@twitter](https://twitter.com/zibu1110/status/1596201006899302401) | advertise |
 | [zidanalgifari7@twitter](https://twitter.com/zidanalgifari7/status/1592878227655360513) | advertise |
