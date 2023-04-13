@@ -11027,8 +11027,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
@@ -12389,6 +12389,7 @@ Do not create new issue or we will close it as duplicate.
 | [xmanhbun@twitter](https://twitter.com/xmanhbun/status/1397539419356221441) | advertise |
 | [XmzFc@twitter](https://twitter.com/XmzFc/status/1390881317877735427) | advertise |
 | [xol_au@twitter](https://twitter.com/xol_au/status/1552234529355595778) | advertise |
+| [xomtrosv@twitter](https://twitter.com/xomtrosv/status/1646382409485807618) | advertise |
 | [XoPhuong@twitter](https://twitter.com/XoPhuong/status/1468953478114394113) | advertise |
 | [xpl4yax@twitter](https://twitter.com/xpl4yax/status/1613366333747478528) | advertise |
 | [xpyc_tum@twitter](https://twitter.com/xpyc_tum/status/1450210490920095747) | advertise |
