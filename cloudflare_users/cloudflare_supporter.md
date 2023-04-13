@@ -2045,6 +2045,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChieInu@twitter](https://twitter.com/ChieInu/status/1553071855187406848) | advertise |
 | [chien82898604@twitter](https://twitter.com/chien82898604/status/1552679429570437125) | advertise |
 | [Chieu20561677@twitter](https://twitter.com/Chieu20561677/status/1551999138287722496) | advertise |
+| [ChiHngNguyn2@twitter](https://twitter.com/ChiHngNguyn2/status/1646506108905984002) | advertise |
 | [childnoir209@twitter](https://twitter.com/childnoir209/status/1401223493463670791) | advertise |
 | [Chinh04270265@twitter](https://twitter.com/Chinh04270265/status/1553783240468856832) | advertise |
 | [ChinH87225758@twitter](https://twitter.com/ChinH87225758/status/1600851677585997824) | advertise |
@@ -5207,6 +5208,7 @@ Do not create new issue or we will close it as duplicate.
 | [justonlyu01@twitter](https://twitter.com/justonlyu01/status/1551573685181763585) | advertise |
 | [Justwrightdecor@twitter](https://twitter.com/Justwrightdecor/status/1564945882562396165) | advertise |
 | [just_twtuser@twitter](https://twitter.com/just_twtuser/status/1396088764192092160) | advertise |
+| [juuuuuuly@twitter](https://twitter.com/juuuuuuly/status/1646514775378231297) | advertise |
 | [Juxk94@twitter](https://twitter.com/Juxk94/status/1392580129600286730) | advertise |
 | [juyelsk90758483@twitter](https://twitter.com/juyelsk90758483/status/1381798078714236931) | advertise |
 | [jwidovich@twitter](https://twitter.com/jwidovich/status/1439914824306241538) | advertise |
