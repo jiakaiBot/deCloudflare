@@ -328,6 +328,7 @@ yapimu.xgane.com
 appid.co.jp.xdtv5glq.xyz
 bidagent.xad.com
 captcha.xcount.io
+checkout.xpay.by
 client.xdigital.fun
 contao.xn--brnings-o2a.de
 cpanel.xn--gogl-8oa1d.com
@@ -411,6 +412,7 @@ xiaoyu.net
 xiegu.eu
 xiicomic.com
 xingdal.cn
+xinyuezhang.academy
 xiuwen.buzz
 xmesesport.org
 xn--airbnbvrter-g9a.dk
