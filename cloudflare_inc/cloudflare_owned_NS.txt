@@ -662,6 +662,7 @@ ns.cloudflare.com
 ns0004.secondary.cloudflare.com
 ns0005.secondary.cloudflare.com
 ns0006.secondary.cloudflare.com
+ns0007.secondary.cloudflare.com
 ns0008.secondary.cloudflare.com
 ns0009.secondary.cloudflare.com
 ns0010.secondary.cloudflare.com
@@ -696,6 +697,7 @@ ns0077.secondary.cloudflare.com
 ns0080.secondary.cloudflare.com
 ns0082.secondary.cloudflare.com
 ns0084.secondary.cloudflare.com
+ns0085.secondary.cloudflare.com
 ns0086.secondary.cloudflare.com
 ns0087.secondary.cloudflare.com
 ns0088.secondary.cloudflare.com
@@ -734,10 +736,12 @@ ns0172.secondary.cloudflare.com
 ns0175.secondary.cloudflare.com
 ns0176.secondary.cloudflare.com
 ns0182.secondary.cloudflare.com
+ns0189.secondary.cloudflare.com
 ns0196.secondary.cloudflare.com
 ns0197.secondary.cloudflare.com
 ns0200.secondary.cloudflare.com
 ns0202.secondary.cloudflare.com
+ns0208.secondary.cloudflare.com
 ns0209.secondary.cloudflare.com
 ns0210.secondary.cloudflare.com
 ns0212.secondary.cloudflare.com
