@@ -31990,6 +31990,7 @@ Here's a list of public Fediverse services.
 | `shitpost.school` | Yes |
 | `shitpost.site` | No |
 | `shitpostbot.com` | No |
+| `shitposte.rs` | No |
 | `shitposted.today` | No |
 | `shitposter.club` | No |
 | `shitposting.army` | Yes |
@@ -40684,7 +40685,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,186 |
-| Normal | 30,454 |
+| Normal | 30,455 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
