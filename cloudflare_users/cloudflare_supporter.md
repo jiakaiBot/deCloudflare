@@ -5625,8 +5625,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -9822,6 +9822,7 @@ Do not create new issue or we will close it as duplicate.
 | [SamerTallauze@twitter](https://twitter.com/SamerTallauze/status/1478361206280835081) | advertise |
 | [Samim54823362@twitter](https://twitter.com/Samim54823362/status/1485258949540683778) | advertise |
 | [SamioWol@twitter](https://twitter.com/SamioWol/status/1395796936045649924) | advertise |
+| [samir99797628@twitter](https://twitter.com/samir99797628/status/1646347410996703233) | advertise |
 | [samiram71908706@twitter](https://twitter.com/samiram71908706/status/1628660090223075329) | advertise |
 | [SAMIRHAMIEH@twitter](https://twitter.com/SAMIRHAMIEH/status/1644365248160309249) | advertise |
 | [SamirSi28964752@twitter](https://twitter.com/SamirSi28964752/status/1388133397294469122) | advertise |
