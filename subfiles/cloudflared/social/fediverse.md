@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,141 |
+| com | 6,142 |
 | social | 3,933 |
 | net | 3,130 |
 | org | 2,159 |
@@ -15464,7 +15464,7 @@ Here's a list of public Fediverse services.
 | `hyper.equipment` | Yes |
 | `hyperborea.org` | No |
 | `hyperboreal.zone` | No |
-| `hypercube.social` | No |
+| `hypercube.social` | Yes |
 | `hypercute.eu` | No |
 | `hyperfreedom.org` | No |
 | `hyperfurs.page` | Yes |
@@ -22320,7 +22320,7 @@ Here's a list of public Fediverse services.
 | `metalmatze.de` | No |
 | `metalsha.re` | No |
 | `metalverse.social` | No |
-| `metamodernism.social` | No |
+| `metamodernism.social` | Yes |
 | `metamuffin.org` | No |
 | `metapan.online` | No |
 | `metaphil.de` | No |
@@ -36335,6 +36335,7 @@ Here's a list of public Fediverse services.
 | `toottoot.nl` | Yes |
 | `tootux.tk` | No |
 | `tootville.com` | No |
+| `tootwithfriends.com` | No |
 | `tooty.org` | No |
 | `tootz.org` | No |
 | `tooweb.se` | No |
@@ -40715,8 +40716,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,197 |
-| Normal | 30,475 |
+| Cloudflare | 10,199 |
+| Normal | 30,474 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
