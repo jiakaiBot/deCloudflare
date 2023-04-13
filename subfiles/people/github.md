@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [breakfix: id_token used before issued](https://github.com/greenpau/caddy-security/issues/225)
 - [nHentai Cloudflare bypass not working](https://github.com/TheNetsky/extensions-sources/issues/49)
 - [Error when deploying on Cloudflare Pages with unjs/storage Cloudflare KV Binding](https://github.com/unjs/nitro/issues/1132)
 - [cloudflare jwt token "key is of invalid type"](https://github.com/iegomez/mosquitto-go-auth/issues/270)
