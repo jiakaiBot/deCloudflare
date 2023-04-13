@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,142 |
-| social | 3,933 |
+| social | 3,934 |
 | net | 3,130 |
 | org | 2,160 |
 | de | 2,044 |
@@ -2086,6 +2086,7 @@ Here's a list of public Fediverse services.
 | `aoxiang.online` | Yes |
 | `aozaki.cc` | Yes |
 | `aozora.uk` | Yes |
+| `apaphoto.social` | No |
 | `apartmenttherapy.com` | Yes |
 | `apathy.top` | No |
 | `apathy.tv` | No |
@@ -10008,6 +10009,7 @@ Here's a list of public Fediverse services.
 | `elrubius.fans` | No |
 | `elsacodelcoco.net` | No |
 | `elsdon.me` | Yes |
+| `elsec.one` | No |
 | `elseifnull.xyz` | No |
 | `elses.computer` | No |
 | `elsmussols.net` | No |
@@ -21278,6 +21280,7 @@ Here's a list of public Fediverse services.
 | `masto.ws` | No |
 | `mastobate.com` | Yes |
 | `mastobate.social` | No |
+| `mastoben.rocks` | No |
 | `mastobotti.eu` | No |
 | `mastoburn.com` | No |
 | `mastoc.fr` | Yes |
@@ -23536,6 +23539,7 @@ Here's a list of public Fediverse services.
 | `mst-dn.me` | No |
 | `mst.blue` | No |
 | `mst.social` | No |
+| `mstankiewi.cz` | Yes |
 | `mstbot-inst.xyz` | No |
 | `mstcloud.work` | No |
 | `mstd.gg` | No |
@@ -40717,8 +40721,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,200 |
-| Normal | 30,474 |
+| Cloudflare | 10,201 |
+| Normal | 30,477 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
