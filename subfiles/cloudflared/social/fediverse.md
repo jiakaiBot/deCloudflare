@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,139 |
+| com | 6,141 |
 | social | 3,932 |
 | net | 3,129 |
 | org | 2,159 |
@@ -8228,6 +8228,7 @@ Here's a list of public Fediverse services.
 | `delroth.net` | No |
 | `delta-t.work` | Yes |
 | `delta1.dev` | Yes |
+| `deltaho.us` | No |
 | `deltanauten.de` | No |
 | `delurk.com` | No |
 | `demanderjustice.social` | No |
@@ -12485,6 +12486,7 @@ Here's a list of public Fediverse services.
 | `furry.site` | No |
 | `furry.wtf` | Yes |
 | `furrybase.social` | No |
+| `furryblue.com` | No |
 | `furrycom.com` | No |
 | `furrycon.social` | Yes |
 | `furryfandom.me` | Yes |
@@ -29136,6 +29138,7 @@ Here's a list of public Fediverse services.
 | `quokka.run` | No |
 | `quoli.bet` | No |
 | `quornichon.org` | No |
+| `quotidianthings.com` | No |
 | `quotient.space` | No |
 | `qupzilla.com` | No |
 | `qute.dog` | No |
@@ -35293,6 +35296,7 @@ Here's a list of public Fediverse services.
 | `thedimpau.se` | No |
 | `thedisco.social` | No |
 | `thedixons.net` | Yes |
+| `thedomain.ovh` | Yes |
 | `thedoodleproject.com` | No |
 | `thedoodleproject.net` | No |
 | `thedreaming.city` | No |
@@ -40705,8 +40709,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,194 |
-| Normal | 30,468 |
+| Cloudflare | 10,195 |
+| Normal | 30,471 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
