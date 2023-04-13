@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,142 |
 | social | 3,933 |
 | net | 3,130 |
-| org | 2,159 |
+| org | 2,160 |
 | de | 2,044 |
 
 
@@ -7839,7 +7839,7 @@ Here's a list of public Fediverse services.
 | `dasaweb.de` | No |
 | `dasbiersec.com` | Yes |
 | `dasblog.io` | No |
-| `dasbrennen.org` | No |
+| `dasbrennen.org` | Yes |
 | `dasdeck.com` | No |
 | `dasforum.org` | No |
 | `dasgeekcommunity.net` | No |
@@ -28313,6 +28313,7 @@ Here's a list of public Fediverse services.
 | `porto.digital` | No |
 | `portpals.ie` | No |
 | `portra400.film` | No |
+| `portside.org` | No |
 | `portside.social` | No |
 | `portswigger.net` | No |
 | `porubu.com` | Yes |
@@ -40716,7 +40717,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,199 |
+| Cloudflare | 10,200 |
 | Normal | 30,474 |
 
 
