@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Handle proxy errors](https://github.com/cardpay/python-sdk-v3/issues/6)
 - [Cloudflare Adapter auto generated _routes.json can easily exclude Functions invocation routes limits](https://github.com/withastro/docs/issues/3039)
 - [breakfix: id_token used before issued](https://github.com/greenpau/caddy-security/issues/225)
 - [nHentai Cloudflare bypass not working](https://github.com/TheNetsky/extensions-sources/issues/49)
