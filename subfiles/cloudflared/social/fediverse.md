@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,139 |
 | social | 3,932 |
-| net | 3,128 |
+| net | 3,129 |
 | org | 2,159 |
 | de | 2,043 |
 
@@ -5671,6 +5671,7 @@ Here's a list of public Fediverse services.
 | `char.my.id` | Yes |
 | `charade.social` | No |
 | `charcha.cc` | No |
+| `charcolle.art` | No |
 | `chargen.one` | No |
 | `chariri.moe` | Yes |
 | `chariz.com` | Yes |
@@ -16731,6 +16732,7 @@ Here's a list of public Fediverse services.
 | `jaseroque.com` | Yes |
 | `jasforce.com` | No |
 | `jasmine.lgbt` | No |
+| `jasminetea.uk` | Yes |
 | `jasnell.me` | Yes |
 | `jason.re` | Yes |
 | `jasonbaker.info` | No |
@@ -18529,6 +18531,7 @@ Here's a list of public Fediverse services.
 | `korber.fr` | No |
 | `korbip.de` | No |
 | `koreadon.com` | No |
+| `koretan.net` | No |
 | `koreus.com` | No |
 | `koreus.social` | No |
 | `korfmann.net` | No |
@@ -20092,6 +20095,7 @@ Here's a list of public Fediverse services.
 | `lolcraft.club` | No |
 | `loli.best` | Yes |
 | `loli.estate` | No |
+| `loli.exposed` | No |
 | `loli.mk` | Yes |
 | `loli.pizza` | Yes |
 | `lolic.at` | Yes |
@@ -40701,8 +40705,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,193 |
-| Normal | 30,465 |
+| Cloudflare | 10,194 |
+| Normal | 30,468 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
