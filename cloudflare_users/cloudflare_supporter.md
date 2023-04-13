@@ -161,6 +161,7 @@ Do not create new issue or we will close it as duplicate.
 | [599Chinu@twitter](https://twitter.com/599Chinu/status/1393211483190972417) | advertise |
 | [678_ng@twitter](https://twitter.com/678_ng/status/1395341643667042306) | advertise |
 | [813Tomles@twitter](https://twitter.com/813Tomles/status/1475852118879727619) | advertise |
+| [906_alshamsi@twitter](https://twitter.com/906_alshamsi/status/1646548122418442241) | advertise |
 | [1234pht@twitter](https://twitter.com/1234pht/status/1553677352927825920) | advertise |
 | [1352j@twitter](https://twitter.com/1352j/status/1384419545243344896) | advertise |
 | [1431Yousef@twitter](https://twitter.com/1431Yousef/status/1608995870388944905) | advertise |
@@ -781,6 +782,7 @@ Do not create new issue or we will close it as duplicate.
 | [AnhAnh97865792@twitter](https://twitter.com/AnhAnh97865792/status/1398684926451404802) | advertise |
 | [Anhc63559524@twitter](https://twitter.com/Anhc63559524/status/1525971256771678208) | advertise |
 | [AnhCa22@twitter](https://twitter.com/AnhCa22/status/1552339975173132289) | advertise |
+| [AnhcBui1@twitter](https://twitter.com/AnhcBui1/status/1646550107230466049) | advertise |
 | [AnhChan82814034@twitter](https://twitter.com/AnhChan82814034/status/1391898698888585216) | advertise |
 | [AnhChinNguyn@twitter](https://twitter.com/AnhChinNguyn/status/1552377608280502273) | advertise |
 | [Anhchun81345112@twitter](https://twitter.com/Anhchun81345112/status/1639266248545509378) | advertise |
@@ -9748,6 +9750,7 @@ Do not create new issue or we will close it as duplicate.
 | [SaidAlHasni5@twitter](https://twitter.com/SaidAlHasni5/status/1554749394825658369) | advertise |
 | [said_alminji1@twitter](https://twitter.com/said_alminji1/status/1620157403244412929) | advertise |
 | [SaifSheikh8@twitter](https://twitter.com/SaifSheikh8/status/1391721631047852032) | advertise |
+| [Saifull31956381@twitter](https://twitter.com/Saifull31956381/status/1646574279855869952) | advertise |
 | [SaifUrR13833709@twitter](https://twitter.com/SaifUrR13833709/status/1512025901847887876) | advertise |
 | [Saifwayy@twitter](https://twitter.com/Saifwayy/status/1382873575758172160) | advertise |
 | [SaiGodfather@twitter](https://twitter.com/SaiGodfather/status/1579514945007296512) | advertise |
