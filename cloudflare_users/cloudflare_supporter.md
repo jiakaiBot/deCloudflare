@@ -2251,8 +2251,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -10295,6 +10295,7 @@ Do not create new issue or we will close it as duplicate.
 | [slianp@twitter](https://twitter.com/slianp/status/1390484980342480897) | advertise |
 | [Slick12302@twitter](https://twitter.com/Slick12302/status/1394545875582558211) | advertise |
 | [Slick_Willy_27@twitter](https://twitter.com/Slick_Willy_27/status/1397233774832803846) | advertise |
+| [Slick_Wine05@twitter](https://twitter.com/Slick_Wine05/status/1646595744705413120) | advertise |
 | [slimpotatoboy@twitter](https://twitter.com/slimpotatoboy/status/1500358622161031170) | advertise |
 | [slipperypussyc1@twitter](https://twitter.com/slipperypussyc1/status/1407232739762270211) | advertise |
 | [slowhanddario@twitter](https://twitter.com/slowhanddario/status/1474627053307768832) | advertise |
