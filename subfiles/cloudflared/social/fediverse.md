@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,141 |
-| social | 3,932 |
-| net | 3,129 |
+| social | 3,933 |
+| net | 3,130 |
 | org | 2,159 |
-| de | 2,043 |
+| de | 2,044 |
 
 
 - Mastodon, Pleroma, etc
@@ -773,6 +773,7 @@ Here's a list of public Fediverse services.
 | `abnd.space` | No |
 | `abnormalfreq.com` | No |
 | `abnv.me` | Yes |
+| `abode.fyi` | Yes |
 | `aboivin.com` | No |
 | `abolish.social` | No |
 | `abolition.online` | No |
@@ -10134,6 +10135,7 @@ Here's a list of public Fediverse services.
 | `endtimebelievers.com` | No |
 | `endur4.com` | No |
 | `energyarxiv.com` | No |
+| `energydon.fi` | No |
 | `energyfintech.io` | No |
 | `energyflow.rodeo` | No |
 | `enes.lv` | No |
@@ -18536,7 +18538,7 @@ Here's a list of public Fediverse services.
 | `koretan.net` | No |
 | `koreus.com` | No |
 | `koreus.social` | No |
-| `korfmann.net` | No |
+| `korfmann.net` | Yes |
 | `korhonen.cc` | Yes |
 | `korio.me` | No |
 | `kormi.hu` | No |
@@ -18771,6 +18773,7 @@ Here's a list of public Fediverse services.
 | `kurage.top` | No |
 | `kurakake.net` | No |
 | `kurd.org` | Yes |
+| `kurenai.life` | No |
 | `kureshisen.com` | Yes |
 | `kurif.net` | No |
 | `kuriouslapin.com` | No |
@@ -28582,6 +28585,7 @@ Here's a list of public Fediverse services.
 | `profesionalreview.com` | No |
 | `profiklickser.com` | No |
 | `profitwallet.team` | No |
+| `progaccess.net` | No |
 | `prognesubis.net` | No |
 | `programist.ro` | Yes |
 | `programm.community` | No |
@@ -29963,6 +29967,7 @@ Here's a list of public Fediverse services.
 | `retroedgetech.com` | No |
 | `retrogame.fan` | Yes |
 | `retrogaming.social` | No |
+| `retrogarde.de` | No |
 | `retrogralnia.pl` | Yes |
 | `retrogrou.ch` | No |
 | `retrohangout.club` | No |
@@ -35840,6 +35845,7 @@ Here's a list of public Fediverse services.
 | `timapple.com` | Yes |
 | `timapple.me` | No |
 | `timbo.cc` | Yes |
+| `timbo.social` | No |
 | `timbyr.com` | No |
 | `timcast.club` | No |
 | `timdoug.com` | No |
@@ -40709,8 +40715,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,195 |
-| Normal | 30,471 |
+| Cloudflare | 10,197 |
+| Normal | 30,475 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
