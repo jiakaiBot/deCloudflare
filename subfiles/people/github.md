@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issue with rewrite in immich ingress](https://github.com/onedr0p/home-ops/issues/5157)
 - [Handle proxy errors](https://github.com/cardpay/python-sdk-v3/issues/6)
 - [Cloudflare Adapter auto generated _routes.json can easily exclude Functions invocation routes limits](https://github.com/withastro/docs/issues/3039)
 - [breakfix: id_token used before issued](https://github.com/greenpau/caddy-security/issues/225)
