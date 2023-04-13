@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,138 |
+| com | 6,139 |
 | social | 3,932 |
 | net | 3,128 |
 | org | 2,159 |
@@ -2739,7 +2739,7 @@ Here's a list of public Fediverse services.
 | `auronplay.social` | No |
 | `aurooba.com` | Yes |
 | `aurorign.social` | No |
-| `aus.green` | No |
+| `aus.green` | Yes |
 | `aus.lgbt` | Yes |
 | `aus.party` | No |
 | `aus.social` | Yes |
@@ -22678,6 +22678,7 @@ Here's a list of public Fediverse services.
 | `minimmill.com` | No |
 | `miningpro362.xyz` | Yes |
 | `miningsunshine.com` | No |
+| `mininull.com` | Yes |
 | `minish.org` | No |
 | `ministeriumfuerinternet.de` | No |
 | `ministryofinternet.eu` | No |
@@ -35636,6 +35637,7 @@ Here's a list of public Fediverse services.
 | `thierry-pelle.eu` | No |
 | `thierrypizza.cf` | No |
 | `thierrytalbert.fr` | No |
+| `thies.xyz` | Yes |
 | `thiesen.berlin` | No |
 | `thijstops.com` | Yes |
 | `thilobuchholz.de` | No |
@@ -40699,8 +40701,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,190 |
-| Normal | 30,466 |
+| Cloudflare | 10,193 |
+| Normal | 30,465 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
