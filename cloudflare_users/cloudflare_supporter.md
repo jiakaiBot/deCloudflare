@@ -2039,6 +2039,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChestrTuan@twitter](https://twitter.com/ChestrTuan/status/1384504491978858503) | advertise |
 | [Chethiyaf0520@twitter](https://twitter.com/Chethiyaf0520/status/1398684445691969537) | advertise |
 | [chetth@twitter](https://twitter.com/chetth/status/1635468875054870528) | advertise |
+| [chevosqi@twitter](https://twitter.com/chevosqi/status/1646803212069138432) | advertise |
 | [ChhinTran139374@twitter](https://twitter.com/ChhinTran139374/status/1640011761561780224) | advertise |
 | [ChiaseMxh@twitter](https://twitter.com/ChiaseMxh/status/1404487226386354179) | advertise |
 | [ChibHarshu@twitter](https://twitter.com/ChibHarshu/status/1381475450476634114) | advertise |
@@ -2251,8 +2252,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -5674,6 +5675,7 @@ Do not create new issue or we will close it as duplicate.
 | [KittinatRueang1@twitter](https://twitter.com/KittinatRueang1/status/1605029090079019008) | advertise |
 | [kiund789@twitter](https://twitter.com/kiund789/status/1619592107551002624) | advertise |
 | [kiwanismusic@twitter](https://twitter.com/kiwanismusic/status/1412505917870858240) | moral (advertise) |
+| [KIWI98480167@twitter](https://twitter.com/KIWI98480167/status/1646872012160368640) | advertise |
 | [Kiyan99307753@twitter](https://twitter.com/Kiyan99307753/status/1382401632080601088) | advertise |
 | [kjmzyxbjh@twitter](https://twitter.com/kjmzyxbjh/status/1393136098226757636) | advertise |
 | [KKanK4@twitter](https://twitter.com/KKanK4/status/1395696774984077317) | advertise |
@@ -11744,6 +11746,7 @@ Do not create new issue or we will close it as duplicate.
 | [twiteza@twitter](https://twitter.com/twiteza/status/1397203308251594758) | advertise |
 | [twitte_mzaj@twitter](https://twitter.com/twitte_mzaj/status/1611580713458962433) | advertise |
 | [Twyla54100915@twitter](https://twitter.com/Twyla54100915/status/1377527323654725636) | advertise |
+| [txwybd@twitter](https://twitter.com/txwybd/status/1646776087840698370) | advertise |
 | [tybchris5823@twitter](https://twitter.com/tybchris5823/status/1566692358552334336) | advertise |
 | [TyGLpDCrMAHsKkR@twitter](https://twitter.com/TyGLpDCrMAHsKkR/status/1557362946652508160) | advertise |
 | [tygod1993@twitter](https://twitter.com/tygod1993/status/1608625576360955906) | advertise |
@@ -11814,6 +11817,7 @@ Do not create new issue or we will close it as duplicate.
 | [UnicornBot3@twitter](https://twitter.com/UnicornBot3/status/1607219397617418241) | advertise |
 | [united88488681@twitter](https://twitter.com/united88488681/status/1394865054521053189) | advertise |
 | [unitedasone2001@twitter](https://twitter.com/unitedasone2001/status/1585668577038053376) | advertise |
+| [unknown09952106@twitter](https://twitter.com/unknown09952106/status/1646776705149804544) | advertise |
 | [Unknown777667@twitter](https://twitter.com/Unknown777667/status/1636754259243941889) | advertise |
 | [Unknown_123127@twitter](https://twitter.com/Unknown_123127/status/1607629192665137153) | advertise |
 | [UnmineableCode@twitter](https://twitter.com/UnmineableCode/status/1510333319317176327) | advertise |
