@@ -17650,6 +17650,7 @@ Here's a list of public Fediverse services.
 | `kamunagara.org` | Yes |
 | `kan.social` | Yes |
 | `kanachu-homes.com` | Yes |
+| `kanade.app` | Yes |
 | `kanagu.info` | Yes |
 | `kanarikanaru.com` | Yes |
 | `kanatan.club` | Yes |
@@ -40742,7 +40743,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,211 |
+| Cloudflare | 10,212 |
 | Normal | 30,488 |
 
 
