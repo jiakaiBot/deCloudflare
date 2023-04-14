@@ -2184,6 +2184,7 @@ Do not create new issue or we will close it as duplicate.
 | [CngMinh69938240@twitter](https://twitter.com/CngMinh69938240/status/1642927025890680833) | advertise |
 | [CngNguy78789456@twitter](https://twitter.com/CngNguy78789456/status/1398669757096726528) | advertise |
 | [CnSakuya@twitter](https://twitter.com/CnSakuya/status/1592425946870861824) | advertise |
+| [CocainCua@twitter](https://twitter.com/CocainCua/status/1646953325060059136) | advertise |
 | [coccocxi@twitter](https://twitter.com/coccocxi/status/1543106929311879169) | advertise |
 | [cocombatsports@twitter](https://twitter.com/cocombatsports/status/1588279260292079616) | advertise |
 | [codeberg.org](https://www.codeberg.org/) | [HISTORY.md](../HISTORY.md) |
@@ -11533,6 +11534,7 @@ Do not create new issue or we will close it as duplicate.
 | [Trinhhu07579275@twitter](https://twitter.com/Trinhhu07579275/status/1563072480104763392) | advertise |
 | [trinhlo40326150@twitter](https://twitter.com/trinhlo40326150/status/1560091852044247040) | advertise |
 | [Trinhti04009131@twitter](https://twitter.com/Trinhti04009131/status/1389575782020763658) | advertise |
+| [trinityknott6@twitter](https://twitter.com/trinityknott6/status/1646942588904022038) | advertise |
 | [TriPmt199x@twitter](https://twitter.com/TriPmt199x/status/1382502746528522244) | advertise |
 | [TrissieTheHusky@twitter](https://twitter.com/TrissieTheHusky/status/1447053384914247682) | advertise |
 | [Tristan11917357@twitter](https://twitter.com/Tristan11917357/status/1386201834537340929) | advertise |
