@@ -19743,6 +19743,7 @@ Here's a list of public Fediverse services.
 | `limey.land` | No |
 | `limilo.com` | Yes |
 | `liminal.club` | No |
+| `liminal.degree` | No |
 | `liminal.lgbt` | No |
 | `liminalearth.social` | No |
 | `liminalisland.xyz` | No |
@@ -26453,7 +26454,7 @@ Here's a list of public Fediverse services.
 | `orangespatula.com` | No |
 | `orani.co` | No |
 | `oransns.com` | No |
-| `orapp.net` | No |
+| `orapp.net` | Yes |
 | `orasi.io` | No |
 | `oratorium-leipzig.de` | No |
 | `orbanos.org` | No |
@@ -40721,7 +40722,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,201 |
+| Cloudflare | 10,202 |
 | Normal | 30,477 |
 
 
