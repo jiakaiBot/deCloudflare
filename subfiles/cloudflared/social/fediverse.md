@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,144 |
-| social | 3,935 |
+| com | 6,145 |
+| social | 3,937 |
 | net | 3,131 |
 | org | 2,161 |
 | de | 2,045 |
@@ -1148,6 +1148,7 @@ Here's a list of public Fediverse services.
 | `agwa.name` | No |
 | `ahabitual.dev` | No |
 | `ahaldorsen.no` | No |
+| `ahamiam.us` | No |
 | `ahem.ca` | No |
 | `ahermitforhire.net` | No |
 | `ahhhhhh.social` | No |
@@ -5169,6 +5170,7 @@ Here's a list of public Fediverse services.
 | `camnet.site` | No |
 | `campaignhub.org` | No |
 | `campbell.social` | No |
+| `campbells.social` | No |
 | `campbellwireless.net` | No |
 | `campdarling.com` | No |
 | `campdon.jp` | No |
@@ -7616,6 +7618,7 @@ Here's a list of public Fediverse services.
 | `daffodil-11.org` | No |
 | `daft.host` | Yes |
 | `dafzthomas.com` | Yes |
+| `dagashiya.social` | Yes |
 | `dagegenbewegen.social` | No |
 | `daggercat.gay` | No |
 | `daggerpath.com` | No |
@@ -18881,6 +18884,7 @@ Here's a list of public Fediverse services.
 | `kyubitter.xyz` | No |
 | `kyunkyun.moe` | No |
 | `kyushojitsu.ca` | Yes |
+| `kyzune.com` | Yes |
 | `kzhub.cc` | No |
 | `kzoo.to` | Yes |
 | `kzstan.com` | No |
@@ -24006,6 +24010,7 @@ Here's a list of public Fediverse services.
 | `mygaming.news` | Yes |
 | `mygaming.space` | No |
 | `mygayfans.com` | No |
+| `myglobal.site` | No |
 | `mygreatest.social` | No |
 | `mygreatloopadventure.com` | No |
 | `myharz.eu` | No |
@@ -29318,6 +29323,7 @@ Here's a list of public Fediverse services.
 | `rafting.io` | No |
 | `rag.dog` | Yes |
 | `rag.pub` | No |
+| `ragas.nl` | No |
 | `ragdishn.art` | Yes |
 | `rage.lol` | Yes |
 | `rage.love` | No |
@@ -40733,8 +40739,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,204 |
-| Normal | 30,486 |
+| Cloudflare | 10,206 |
+| Normal | 30,490 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
