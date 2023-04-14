@@ -2563,6 +2563,7 @@ Here's a list of public Fediverse services.
 | `astifter.com` | No |
 | `astodon.app` | No |
 | `astodon.com` | No |
+| `astolfo.cool` | No |
 | `astolfo.gay` | Yes |
 | `astolfo.social` | No |
 | `astoundingteam.com` | No |
@@ -4851,6 +4852,7 @@ Here's a list of public Fediverse services.
 | `bugarin.com.br` | Yes |
 | `bugbrowser.com` | No |
 | `bugplasma.de` | No |
+| `bugs.casa` | No |
 | `bugs.social` | No |
 | `buhse.social` | No |
 | `buicha.social` | Yes |
@@ -8193,6 +8195,7 @@ Here's a list of public Fediverse services.
 | `dehawara.de` | No |
 | `dehopre.dev` | Yes |
 | `deima.sh` | No |
+| `deimidis.me` | No |
 | `deinfo-projects.de` | No |
 | `deiru.tokyo` | No |
 | `deiseroth.de` | No |
@@ -32030,7 +32033,7 @@ Here's a list of public Fediverse services.
 | `shitbucket.nl` | Yes |
 | `shitcoin.land` | Yes |
 | `shite.site` | No |
-| `shiteposting.com` | No |
+| `shiteposting.com` | Yes |
 | `shitnexus.party` | No |
 | `shitnoise.monster` | No |
 | `shitpo.st` | Yes |
@@ -38679,6 +38682,7 @@ Here's a list of public Fediverse services.
 | `webperf.social` | No |
 | `webplay.rocks` | No |
 | `webrocker.de` | No |
+| `webrush.pl` | Yes |
 | `webscan.tech` | No |
 | `webschale.de` | No |
 | `webschneider.org` | No |
@@ -40743,8 +40747,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,212 |
-| Normal | 30,488 |
+| Cloudflare | 10,214 |
+| Normal | 30,490 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
