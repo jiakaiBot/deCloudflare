@@ -27280,6 +27280,7 @@ Here's a list of public Fediverse services.
 | `pedo.school` | No |
 | `pedrocx486.club` | Yes |
 | `peek1e.eu` | Yes |
+| `peeledoffmy.skin` | No |
 | `peen.dev` | Yes |
 | `peeps.press` | No |
 | `peepums.com` | Yes |
@@ -40748,7 +40749,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,214 |
-| Normal | 30,490 |
+| Normal | 30,491 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
