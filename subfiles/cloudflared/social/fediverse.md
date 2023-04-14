@@ -15310,6 +15310,7 @@ Here's a list of public Fediverse services.
 | `htotw.com` | Yes |
 | `htp.live` | No |
 | `htt.social` | No |
+| `hu-e.uk` | Yes |
 | `huaren.social` | No |
 | `hubbr.org` | No |
 | `hubbz.de` | No |
@@ -22985,6 +22986,7 @@ Here's a list of public Fediverse services.
 | `mn.social` | No |
 | `mn9.de` | No |
 | `mnas.info` | No |
+| `mnau.xyz` | Yes |
 | `mnck.dev` | No |
 | `mndet.net` | No |
 | `mne.social` | No |
@@ -40739,7 +40741,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,206 |
+| Cloudflare | 10,208 |
 | Normal | 30,490 |
 
 
