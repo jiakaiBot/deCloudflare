@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,937 |
 | net | 3,131 |
 | org | 2,161 |
-| de | 2,045 |
+| de | 2,046 |
 
 
 - Mastodon, Pleroma, etc
@@ -8897,6 +8897,7 @@ Here's a list of public Fediverse services.
 | `dnitza.com` | Yes |
 | `dnix.de` | No |
 | `dnk.video` | No |
+| `dnlm.de` | No |
 | `dnlr.org` | No |
 | `dnlsd.nom.es` | No |
 | `dnomis.net` | No |
@@ -10822,7 +10823,7 @@ Here's a list of public Fediverse services.
 | `falktx.com` | No |
 | `falkvinge.net` | Yes |
 | `fallendemon.xyz` | Yes |
-| `falles.online` | No |
+| `falles.online` | Yes |
 | `falschgold.net` | No |
 | `falsehood.social` | Yes |
 | `falsy.cat` | Yes |
@@ -22981,7 +22982,7 @@ Here's a list of public Fediverse services.
 | `mmpr.ca` | No |
 | `mmrw.de` | No |
 | `mmunin.com` | Yes |
-| `mmwelch.net` | No |
+| `mmwelch.net` | Yes |
 | `mn.ms` | No |
 | `mn.social` | No |
 | `mn9.de` | No |
@@ -39191,7 +39192,7 @@ Here's a list of public Fediverse services.
 | `wngs.uk` | Yes |
 | `wnymathguy.com` | No |
 | `woafre.tk` | No |
-| `wobbl.xyz` | No |
+| `wobbl.xyz` | Yes |
 | `wobbly.ninja` | Yes |
 | `woblfedi.de` | No |
 | `woblweb.de` | Yes |
@@ -40741,8 +40742,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,208 |
-| Normal | 30,490 |
+| Cloudflare | 10,211 |
+| Normal | 30,488 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
