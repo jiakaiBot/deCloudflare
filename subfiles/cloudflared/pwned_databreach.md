@@ -402,11 +402,12 @@ Here's a list of breached sites.
 | Nival | 1,535,473 | No |
 | NonNudeGirls (Non Nude Girls) | 75,383 | No |
 | Nulled (Nulled.cr) | 599,080 | No |
-| NulledCH (Nulled.ch) | 43,491 | Yes |
+| NulledCH (Nulled.ch) | 43,491 | No |
 | NurseryCam | 10,585 | Yes |
 | OGUsers (OGUsers (2019 breach)) | 161,143 | Yes |
 | OGUsers2020 (OGUsers (2020 breach)) | 263,189 | Yes |
 | OGUsers2021 (OGUsers (2021 breach)) | 348,302 | Yes |
+| OGUsers2022 (OGUsers (2022 breach)) | 529,020 | Yes |
 | OVH | 452,899 | Yes |
 | Onverse | 800,157 | Yes |
 | OpenCSGO (Open CS:GO) | 512,311 | No |
@@ -662,10 +663,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 352 | 3,968,484,045 |
-| Normal | 289 | 4,850,767,231 |
+| Cloudflare | 352 | 3,968,969,574 |
+| Normal | 290 | 4,850,810,722 |
 
 
 
-### 54.9% of breached sites (pwned sites) are using Cloudflare.
+### 54.8% of breached sites (pwned sites) are using Cloudflare.
 ### 45% of leaked accounts are on Cloudflare sites.
