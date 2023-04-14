@@ -642,7 +642,9 @@ es-logs.prod-cluster.zedge.io
 fxdhbfghfy.zzux.com
 gateway.zscalergov.net
 git.git.gitlab.gitlab.git.www.covid19.zalive-akvilon.ru
+github.zihaolou.top
 gog-ws.zt-archiv.at
+googlegm.zblt.xyz
 happless-api-prod.zeitfracht.digital
 home.zander.su
 ibook-stg.zerrodigital.com
@@ -685,6 +687,7 @@ sberbank.sber.www.avito.avito.covid19.zapusk-million.ru
 sberbank.sber.www.covid19.zapusk-million.ru
 services.zubahost.com
 sign.zytrust.com
+smocca-staging.zigexn.vn
 static.ctw.zusapi.com
 tipengine.zoho.com
 travelassist.zurich.ca
@@ -700,6 +703,7 @@ www.asso-cipitc.z179214-x51cc.s01.zwphosting.com
 www.backup.zempirestore.com
 www.bossmoney.zedafrica.com
 www.corsoitaliano.zedlemon.com
+www.customerpontar.zahradev.com
 www.nordicsafety.zaru.ro
 www.papinkapost.zonabangsa.com
 www.post.zogla.com
@@ -707,10 +711,13 @@ www.puffpiedelivery.z92954-xa3qn.s02.zwphosting.com
 www.restorent.zeestore.co
 www.rooscontrol.zon18.click
 www.sahabafoodbank.zyotee.com
+www.secured.zulu-invest.com
 www.services.zubahost.com
 www.shecansteam.hu.zsida.hu
 www.steam.zser-art.hu
 www.test.dcc.zeiss.services
+www.trust-wallet.zionmoving.com
+www.trustwallet-verify.zionmoving.com
 www.webclient.zaidexceldesign.com
 www.whatsapp.zida.my
 www.zahnarzt-carolyn-huber.de
@@ -753,6 +760,7 @@ zainmotors2008.com
 zapach-papieru.pl
 zarfyapi.com
 zargarian.ca
+zarinkav.ir
 zastava-arms.rs
 zawagg.com
 zbscar.md
@@ -790,6 +798,7 @@ zipgenius.com
 zipgenius.it
 ziptechdirect.com
 ziraatilaclama.com
+ziritugo.com
 zizannsspecialoftheday.online
 zksync-mainnet.us
 zksync.at
@@ -797,12 +806,15 @@ zlvv.net
 zmdownload-accl.zoho.com
 znitro.com
 zoig.com
+zombiegamer.co.za
 zoomingjapan.com
 zoooma.online
 zoredalabs.cyou
 zotecpartners.com
 zoubicuties.site
 zozo.jp
+zplay14.cf
+zpmooneuti.uno
 zpost.no
 zuber-gloor.ch
 zurcherarquitectos.com
