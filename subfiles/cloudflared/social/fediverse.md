@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,142 |
-| social | 3,934 |
-| net | 3,130 |
-| org | 2,160 |
-| de | 2,044 |
+| com | 6,143 |
+| social | 3,935 |
+| net | 3,131 |
+| org | 2,161 |
+| de | 2,045 |
 
 
 - Mastodon, Pleroma, etc
@@ -3773,6 +3773,7 @@ Here's a list of public Fediverse services.
 | `bigtastybacon.tk` | No |
 | `bigthinking.social` | No |
 | `bigtoecult.org` | No |
+| `bigtopmidway.com` | No |
 | `bigtopmidway.fun` | No |
 | `bigzu.cc` | Yes |
 | `bihar.social` | Yes |
@@ -5661,7 +5662,7 @@ Here's a list of public Fediverse services.
 | `chaotic.social` | No |
 | `chaoticaredux.com` | No |
 | `chaoticride.com` | No |
-| `chaotics.gay` | No |
+| `chaotics.gay` | Yes |
 | `chaotikum.org` | No |
 | `chaouane.xyz` | Yes |
 | `chaox.ro` | Yes |
@@ -7655,6 +7656,7 @@ Here's a list of public Fediverse services.
 | `dalmatino.net` | Yes |
 | `dalme.net` | No |
 | `daltonhome.net` | Yes |
+| `dalvors.wtf` | No |
 | `damarada.net` | No |
 | `damaron.net` | No |
 | `dame.life` | No |
@@ -7771,6 +7773,7 @@ Here's a list of public Fediverse services.
 | `dariabloodworth.ca` | No |
 | `dario.cloud` | No |
 | `dariox.club` | Yes |
+| `dark-admin.net` | No |
 | `dark-alexandr.net` | No |
 | `dark-elves.social` | No |
 | `darkandstormynight.club` | No |
@@ -13380,6 +13383,7 @@ Here's a list of public Fediverse services.
 | `glowers.club` | No |
 | `glowhost.ru` | No |
 | `glowie.cloud` | No |
+| `glowing.garden` | No |
 | `glowing.surf` | No |
 | `glownow.club` | Yes |
 | `glowpen.eu` | No |
@@ -13774,6 +13778,7 @@ Here's a list of public Fediverse services.
 | `greenwoodmedia.xyz` | No |
 | `greg-kennedy.com` | No |
 | `greggallardo.com` | No |
+| `gregmakes.xyz` | No |
 | `gregmoore.me` | No |
 | `gregnewman.io` | Yes |
 | `gregor.link` | No |
@@ -18724,6 +18729,7 @@ Here's a list of public Fediverse services.
 | `kuba-orlik.name` | No |
 | `kuberegretes.com` | No |
 | `kubiwa.moe` | No |
+| `kubiwahn.de` | No |
 | `kubo.social` | No |
 | `kubwa.dog` | No |
 | `kucera.it` | No |
@@ -29011,6 +29017,7 @@ Here's a list of public Fediverse services.
 | `qualityassurance.dev` | No |
 | `quangthang.men` | Yes |
 | `quanta.wiki` | No |
+| `quantenzitrone.eu` | No |
 | `quantizr.com` | No |
 | `quantube.win` | Yes |
 | `quantum-business.social` | No |
@@ -30945,6 +30952,7 @@ Here's a list of public Fediverse services.
 | `salundo.com` | Yes |
 | `salushnes.solutions` | No |
 | `salvo.chat` | No |
+| `salye.me` | Yes |
 | `salzman.uk` | No |
 | `samadam.au` | No |
 | `samariter.social` | No |
@@ -31562,7 +31570,6 @@ Here's a list of public Fediverse services.
 | `secbig.com` | Yes |
 | `secclo.community` | Yes |
 | `secdiary.com` | No |
-| `sechi.tech` | Yes |
 | `secline.de` | No |
 | `secluded.ch` | No |
 | `secluded.site` | No |
@@ -34953,6 +34960,7 @@ Here's a list of public Fediverse services.
 | `teilzeitphilosoph.de` | No |
 | `teitoku.to` | No |
 | `tejas.wtf` | No |
+| `tek.social` | No |
 | `tekati.cloud` | Yes |
 | `tekdmn.me` | Yes |
 | `tekhify.de` | No |
@@ -37388,6 +37396,7 @@ Here's a list of public Fediverse services.
 | `uninsane.org` | No |
 | `union.place` | No |
 | `union.sh` | No |
+| `unionforum.org` | No |
 | `unipar.online` | No |
 | `unipd.it` | Yes |
 | `unir.se` | No |
@@ -37761,6 +37770,7 @@ Here's a list of public Fediverse services.
 | `vandl.club` | No |
 | `vandoeuvre.net` | No |
 | `vandrare.page` | No |
+| `vanilli.co.uk` | Yes |
 | `vanilli.uk` | No |
 | `vanlife.is` | No |
 | `vanoix.com` | No |
@@ -40722,8 +40732,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,202 |
-| Normal | 30,477 |
+| Cloudflare | 10,204 |
+| Normal | 30,485 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
