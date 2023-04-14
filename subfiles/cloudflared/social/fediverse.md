@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,143 |
+| com | 6,144 |
 | social | 3,935 |
 | net | 3,131 |
 | org | 2,161 |
@@ -25429,6 +25429,7 @@ Here's a list of public Fediverse services.
 | `norrebro.space` | No |
 | `norrland.xyz` | No |
 | `northeast.one` | No |
+| `northern-fox.com` | No |
 | `northernvoice.app` | No |
 | `northofthewall.social` | No |
 | `northpole.host` | No |
@@ -40733,7 +40734,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,204 |
-| Normal | 30,485 |
+| Normal | 30,486 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
