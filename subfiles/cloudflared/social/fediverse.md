@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,148 |
-| social | 3,939 |
+| com | 6,149 |
+| social | 3,941 |
 | net | 3,132 |
 | org | 2,163 |
-| de | 2,046 |
+| de | 2,048 |
 
 
 - Mastodon, Pleroma, etc
@@ -8857,6 +8857,7 @@ Here's a list of public Fediverse services.
 | `djuber.name` | Yes |
 | `djuber.tk` | No |
 | `djuchuu.co.uk` | No |
+| `djw.li` | Yes |
 | `dk1mi.radio` | No |
 | `dkii.best` | No |
 | `dkl.jp` | Yes |
@@ -8918,6 +8919,7 @@ Here's a list of public Fediverse services.
 | `dnsmastery.net` | Yes |
 | `dnsninja.net` | No |
 | `dnsup.net` | No |
+| `dnsuser.de` | No |
 | `dntsk.dev` | Yes |
 | `dnurg.net` | No |
 | `dny.social` | No |
@@ -13149,6 +13151,7 @@ Here's a list of public Fediverse services.
 | `gfedi.uk` | No |
 | `gfk.social` | No |
 | `gfsc.studio` | Yes |
+| `gfuzz.de` | No |
 | `gg2don.com` | No |
 | `ggc-project.de` | Yes |
 | `ggg.social` | No |
@@ -32356,6 +32359,7 @@ Here's a list of public Fediverse services.
 | `singleuser.club` | No |
 | `singpolyma.net` | Yes |
 | `singularity-node.net` | No |
+| `singularity.sh` | No |
 | `sinigr.space` | No |
 | `sining.io` | No |
 | `sink.love` | Yes |
@@ -32849,6 +32853,7 @@ Here's a list of public Fediverse services.
 | `soap.coffee` | No |
 | `soapbox.network` | No |
 | `sobac.com` | No |
+| `sobe.world` | No |
 | `sobes.co.uk` | No |
 | `sobieck.social` | No |
 | `sobieski.social` | No |
@@ -33275,6 +33280,7 @@ Here's a list of public Fediverse services.
 | `speakreason.com` | No |
 | `speaksthegeek.co.uk` | Yes |
 | `spearman.xyz` | Yes |
+| `spears.social` | Yes |
 | `specis.me` | No |
 | `speck.blue` | No |
 | `speckledmonkey.com` | No |
@@ -33543,6 +33549,7 @@ Here's a list of public Fediverse services.
 | `staging.rip` | Yes |
 | `stahlstadt.cloud` | No |
 | `staipa.it` | Yes |
+| `stakswipe.com` | No |
 | `stalbertdixon.ca` | No |
 | `stale.link` | No |
 | `stalin.rocks` | Yes |
@@ -38785,6 +38792,7 @@ Here's a list of public Fediverse services.
 | `weirdos.social` | No |
 | `weirdwords.org` | No |
 | `weisensee.me` | No |
+| `weiser.social` | No |
 | `weisnix.social` | No |
 | `weisser-zwerg.dev` | No |
 | `weldin.social` | No |
@@ -40773,8 +40781,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,221 |
-| Normal | 30,509 |
+| Cloudflare | 10,223 |
+| Normal | 30,515 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
