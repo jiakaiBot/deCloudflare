@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error creating TUN device when using Gluetun Addon](https://github.com/truecharts/charts/issues/8047)
 - [Cannot bypass cloudflare](https://github.com/ultrafunkamsterdam/undetected-chromedriver/issues/1198)
 - [source e621.net not working?](https://github.com/Bionus/imgbrd-grabber/issues/2947)
 - [rpc url for mainnet and testnet not working](https://github.com/hashgraph/hedera-json-rpc-relay/issues/1080)
