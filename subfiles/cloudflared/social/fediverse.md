@@ -10212,6 +10212,7 @@ Here's a list of public Fediverse services.
 | `entar.net` | No |
 | `ente.fun` | No |
 | `entelodont.social` | No |
+| `entenbru.st` | No |
 | `enter-key.net` | Yes |
 | `enterenchanted.com` | No |
 | `entertheempty.space` | No |
@@ -40763,7 +40764,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,215 |
-| Normal | 30,504 |
+| Normal | 30,505 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
