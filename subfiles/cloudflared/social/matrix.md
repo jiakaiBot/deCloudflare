@@ -28,7 +28,6 @@ Here's a list of public Matrix services.
 | alternanet.fr | No |
 | matrix.archaeo.social | No |
 | matrix.arcticfoxes.net | Yes |
-| aria.im | No |
 | asra.gr | No |
 | matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
@@ -78,7 +77,7 @@ Here's a list of public Matrix services.
 | synapse.hyteck.de | No |
 | matrix.jonasled.de | Yes |
 | junta.pl | Yes |
-| kitsunes.club | Yes |
+| kitsunes.chat | Yes |
 | matrix.libreon.fr | No |
 | matrix.llamarific.social | No |
 | lugnsk.org | No |
@@ -99,6 +98,7 @@ Here's a list of public Matrix services.
 | matrix.perthchat.org | Yes |
 | matrix.pikaviestin.fi | No |
 | matrix.plus.st | No |
+| pragma-messenger.ch | No |
 | www.privacytools.io | Yes |
 | matrix.pub.solar | No |
 | radiowarnerd.org | No |
