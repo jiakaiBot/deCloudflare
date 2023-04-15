@@ -24035,6 +24035,7 @@ Here's a list of public Fediverse services.
 | `myhre.wtf` | Yes |
 | `myidanonymous.me` | No |
 | `myifn.de` | No |
+| `myit.cologne` | No |
 | `myjot.net` | No |
 | `mykal.social` | Yes |
 | `myke.social` | No |
@@ -40758,7 +40759,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,215 |
-| Normal | 30,499 |
+| Normal | 30,500 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
