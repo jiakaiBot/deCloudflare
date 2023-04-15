@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,145 |
-| social | 3,938 |
+| social | 3,937 |
 | net | 3,131 |
 | org | 2,161 |
 | de | 2,046 |
@@ -5676,7 +5676,6 @@ Here's a list of public Fediverse services.
 | `chapril.org` | No |
 | `chapsterhood.com` | No |
 | `char.my.id` | Yes |
-| `characters.cafe` | No |
 | `charade.social` | No |
 | `charcha.cc` | No |
 | `charcolle.art` | No |
@@ -31484,7 +31483,6 @@ Here's a list of public Fediverse services.
 | `scuba323.com` | Yes |
 | `scubadon.jp` | No |
 | `scuderiasouthwest.com` | No |
-| `scull.social` | No |
 | `sculpin.social` | No |
 | `scumaker.org` | Yes |
 | `scurry.io` | Yes |
@@ -40751,7 +40749,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,214 |
-| Normal | 30,493 |
+| Normal | 30,491 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
