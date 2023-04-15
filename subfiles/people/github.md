@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [rpc url for mainnet and testnet not working](https://github.com/hashgraph/hedera-json-rpc-relay/issues/1080)
 - [error code 500](https://github.com/ShiftHackZ/Stable-Diffusion-Android/issues/34)
 - [Error message generated in the middle of a task the AutoGPT was doing goal tasks](https://github.com/Torantulino/Auto-GPT/issues/1356)
 - [Slack webhooks are not working properly.](https://github.com/beefproject/beef/issues/2819)
