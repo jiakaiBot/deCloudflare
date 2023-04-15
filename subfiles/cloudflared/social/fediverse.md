@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,146 |
-| social | 3,938 |
+| social | 3,939 |
 | net | 3,132 |
 | org | 2,162 |
 | de | 2,046 |
@@ -6530,7 +6530,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -21122,6 +21122,7 @@ Here's a list of public Fediverse services.
 | `martinezperspective.org` | No |
 | `martinfernandez.info` | No |
 | `martinh.net` | No |
+| `martinhaynes.me` | No |
 | `martinm.de` | No |
 | `martinrue.com` | Yes |
 | `martinspielmann.de` | No |
@@ -22770,6 +22771,7 @@ Here's a list of public Fediverse services.
 | `mirrored.rocks` | No |
 | `mirrored.social` | No |
 | `mirroruniverse.eu` | No |
+| `miru.online` | No |
 | `miruku.cafe` | Yes |
 | `mirumu.net` | No |
 | `mirwarso.de` | Yes |
@@ -25924,6 +25926,7 @@ Here's a list of public Fediverse services.
 | `oceansocial.us` | No |
 | `ocellaris.dev` | Yes |
 | `ocert.at` | No |
+| `ochagavia.nl` | No |
 | `ochakai.moe` | Yes |
 | `ochobitshacenunbyte.com` | Yes |
 | `ochronus.online` | Yes |
@@ -30080,6 +30083,7 @@ Here's a list of public Fediverse services.
 | `rhea.art` | Yes |
 | `rheall.me` | No |
 | `rheinhessen.social` | No |
+| `rheinland.international` | No |
 | `rheinland.social` | No |
 | `rheinmain.social` | No |
 | `rheinneckar.events` | No |
@@ -31492,6 +31496,7 @@ Here's a list of public Fediverse services.
 | `scuba323.com` | Yes |
 | `scubadon.jp` | No |
 | `scuderiasouthwest.com` | No |
+| `scull.social` | No |
 | `sculpin.social` | No |
 | `scumaker.org` | Yes |
 | `scurry.io` | Yes |
@@ -40757,8 +40762,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,216 |
-| Normal | 30,498 |
+| Cloudflare | 10,215 |
+| Normal | 30,504 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
