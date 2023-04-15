@@ -861,6 +861,7 @@ Here's a list of public Fediverse services.
 | `acewebservices.co.uk` | No |
 | `acfus.co` | No |
 | `acg.mn` | Yes |
+| `acg.ngo` | Yes |
 | `acg.social` | No |
 | `acgdoge.net` | No |
 | `ache.one` | No |
@@ -9538,6 +9539,7 @@ Here's a list of public Fediverse services.
 | `e.com.pk` | Yes |
 | `e.fo` | No |
 | `e1337.cloud` | No |
+| `e17.dev` | Yes |
 | `e2.lc` | No |
 | `e217.net` | No |
 | `e2ee.li` | No |
@@ -16945,6 +16947,7 @@ Here's a list of public Fediverse services.
 | `jess.coffee` | No |
 | `jesse-saenz.com` | Yes |
 | `jessecrouch.com` | No |
+| `jesser.dev` | No |
 | `jesserizzo.com` | Yes |
 | `jessicascott.net` | No |
 | `jessicawallace.de` | No |
@@ -22693,6 +22696,7 @@ Here's a list of public Fediverse services.
 | `mineown.de` | No |
 | `minesco.ch` | No |
 | `mineskey.ml` | Yes |
+| `mineskey.xyz` | Yes |
 | `minet.net` | No |
 | `minetaro12.com` | Yes |
 | `mingel.nl` | No |
@@ -22929,6 +22933,7 @@ Here's a list of public Fediverse services.
 | `mizky.jp` | Yes |
 | `mizo.one` | No |
 | `mizucoffee.net` | No |
+| `mizunashi.work` | Yes |
 | `mj12.online` | No |
 | `mjanssen.nl` | No |
 | `mjb.im` | No |
@@ -40764,8 +40769,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,215 |
-| Normal | 30,506 |
+| Cloudflare | 10,219 |
+| Normal | 30,507 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
