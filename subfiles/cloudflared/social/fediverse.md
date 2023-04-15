@@ -3141,6 +3141,7 @@ Here's a list of public Fediverse services.
 | `balliauw.net` | No |
 | `ballioljcr.org` | No |
 | `ballmerlabs.net` | No |
+| `balloon.cm` | Yes |
 | `balloon.net.eu.org` | Yes |
 | `balloon.social` | No |
 | `balloon.uk` | No |
@@ -5848,6 +5849,7 @@ Here's a list of public Fediverse services.
 | `chinapedia.org` | No |
 | `chinasexpat.com` | No |
 | `chinchun.net` | Yes |
+| `chino.tw` | No |
 | `chinstrap.org` | No |
 | `chinwag.im` | Yes |
 | `chinwag.org` | Yes |
@@ -40748,8 +40750,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,214 |
-| Normal | 30,491 |
+| Cloudflare | 10,215 |
+| Normal | 30,492 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
