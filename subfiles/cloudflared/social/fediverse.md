@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,147 |
+| com | 6,148 |
 | social | 3,939 |
 | net | 3,132 |
-| org | 2,162 |
+| org | 2,163 |
 | de | 2,046 |
 
 
@@ -3008,6 +3008,7 @@ Here's a list of public Fediverse services.
 | `b7e.dev` | No |
 | `b86.org` | Yes |
 | `b999.me` | No |
+| `ba.id.au` | Yes |
 | `baa.social` | No |
 | `baab.de` | No |
 | `baacke.net` | No |
@@ -14655,6 +14656,7 @@ Here's a list of public Fediverse services.
 | `hempfriendfinder.com` | No |
 | `hemsida.eu` | No |
 | `hen.ee` | Yes |
+| `henabytes.com` | Yes |
 | `henchmonkey.org` | No |
 | `hendikins.id.au` | No |
 | `hendrikdc.com` | No |
@@ -17358,6 +17360,7 @@ Here's a list of public Fediverse services.
 | `jtl.vision` | Yes |
 | `jtn.us` | No |
 | `jtown.xyz` | No |
+| `jtrem.me` | No |
 | `jtut.io` | No |
 | `jtworld.net` | No |
 | `jtworld.xyz` | No |
@@ -23755,6 +23758,7 @@ Here's a list of public Fediverse services.
 | `mtd.social` | No |
 | `mtdn.jp` | No |
 | `mtf.party` | Yes |
+| `mtg-france.org` | No |
 | `mtgdon.jp` | No |
 | `mtgjudge.social` | No |
 | `mtgtalk.online` | No |
@@ -40769,8 +40773,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,219 |
-| Normal | 30,507 |
+| Cloudflare | 10,221 |
+| Normal | 30,509 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
