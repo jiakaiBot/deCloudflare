@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot bypass cloudflare](https://github.com/ultrafunkamsterdam/undetected-chromedriver/issues/1198)
+- [source e621.net not working?](https://github.com/Bionus/imgbrd-grabber/issues/2947)
 - [rpc url for mainnet and testnet not working](https://github.com/hashgraph/hedera-json-rpc-relay/issues/1080)
 - [error code 500](https://github.com/ShiftHackZ/Stable-Diffusion-Android/issues/34)
 - [Error message generated in the middle of a task the AutoGPT was doing goal tasks](https://github.com/Torantulino/Auto-GPT/issues/1356)
