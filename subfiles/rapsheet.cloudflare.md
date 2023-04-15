@@ -78,6 +78,9 @@
 [emailisprivate]: http://web.archive.org/web/20220802214251/developers.cloudflare.com/email-routing/
 [CFAidsBooters]: https://rasbora.dev/blog/I-ran-the-worlds-largest-ddos-for-hire-empire-and-cloudflare-helped
 [jsInsecure]: https://unixsheikh.com/articles/stop-pushing-Javascript.html
+[privacyClaim]: http://web.archive.org/web/20221223200609/torrentfreak.com/lawsuit-cloudflare-namesilo-profit-from-repeat-infringer-pirate-sites-221222/
+[cfWins]: http://web.archive.org/web/20221223200617/torrentfreak.com/cloudflare-defeats-repeat-infringer-copyright-lawsuit-in-us-court-211007/
+[criminalProtection]: https://mastodon.social/@KatM/110203175529009174
 
 # CloudFlare
 
@@ -200,6 +203,7 @@ CloudFlare is a vigilante extremist organization that takes the decentralized we
     1. CF forces transmission of copious bandwidth-wasting images in order to supply CAPTCHAs.  When a grid of images is presented for Cloudflare's hCAPTCHA, every grid cell is a separate image that requires a separate individual HTTP request, which culminates into the most costly of CAPTCHAs.
     1. hCAPTCHA uses 4 levels of nested Javascript.  So users with Javascript disabled are often forced to reload the CAPTCHA page 4 times just to see the puzzle.
     1. Even with all JavaScript loaded and executed to the extent needed to support the CAPTCHA, the CAPTCHA server itself often refuses to serve a puzzle due to a blown traffic threshold for an IP address.  When the CAPTCHA fails to render or when a human user fails to solve the CAPTCHA, all the energy spent reaching the point of denial is to a total loss.  Whether the user continues to reattempt or they give up, the energy waste is a loss for all parties and a detriment to the environment ultimately for no benefit.
+    1. CF conceals the hosting provider of the source website which blocks climate activists from assessing environmental factors of the website being visited.
 1. CloudFlare **stifles innovation** and culture.  Robots are a crucial component to innovation.  CF's attack on robots means people can't even use wget to download files.  As a consequence, mp3 files (for example) can only be downloaded one at a time by manually clicking on each file.  An immeasurably broad range of innovations depend on robots to provide capabilities that are not economically viable with manual labor.  Many robotic innovations are created for the sole purpose of improving the usability of user interfaces that are either poorly designed for all users or the design overlooks the needs of some users.
 1. **False statements, deceptive practices, and poor character of CloudFlare**
     1. No transparency: as Cloudflare performs a DoS attack on Tor users they obviously do not inform web owners. Web owners are usually unaware that legitimate patrons are being blocked from accessing their site. These businesses are all damaged so that one business can profit.
@@ -214,10 +218,13 @@ CloudFlare is a vigilante extremist organization that takes the decentralized we
     1. Ironically, CloudFlare spams people (despite their spam-mitigation purpose).  Customers (former and current) as well as people who never used CF are receiving spam from CloudFlare.  Customers [receive spam][38] from CF without express consent and possibly contrary to privacy policies. This is deceptive because spam mitigation is one of CloudFlare's selling points.
     1. CloudFlare outsourced video surviellance to a supplier of poorly secured cameras, which were [compromized][39]
     1. When a large profit-driven tech giant uses a non-profit fund raising platform to [solicit donations][40] to feed their own staff at events, it's clear that professionalism is in short supply at CloudFlare Inc.
-    1. CloudFlare asks those who anonymously report illegal conduct on their websites to reveal their true identity.  Yet CF has a history of doxxing whistle blowers and making them into victims.  Instead of apologizing in the child porn case, the CEO (Matthew Prince) said the whistle blowers [should have used fake names][41].  (see "CloudFlare shelters criminals" below)
+    1. CloudFlare asks those who anonymously report illegal conduct on their websites to reveal their true identity.  Yet CF has a history of doxxing whistle blowers and making them into victims.  Instead of apologizing in the child porn case, the CEO (Matthew Prince) said the whistle blowers [should have used fake names][41] despite Cloudflare’s contradictory [claim][privacyClaim] to have a privacy pledge: “[A]ny personal information you provide to us is just that: personal and private.” (see "CloudFlare shelters criminals" below)
 1. CloudFlare **shelters criminals**
     1. CF [protects booters][CFAidsBooters], who drum up business for Cloudflare by DoS attacking non-Cloudflared websites.
     1. CF [protects][42] pro-ISIS websites from attack.
+    1. CF [protects][privacyClaim] copyright infringers.
+    1. CF [protects][criminalProtection] fraudsters running a fake store.
+    1. When CF fights their liability for sheltering criminals in court, [they win][cfWins]!
     1. CF protected a website that distributed child pornography.  When a whistle blower reported the illegal content to CF, CF actually [doxxed][43] the people who reported it.  CloudFlare revealed the whistle blowers' identities directly to the dubious website owner, who then [published][brennan] their names and email addresses to provoke retaliatory attacks on the whistle blowers!  Instead of apologizing, the CEO (Matthew Prince) said the whistle blowers [should have used fake names][41].
 
 [//]: # (if any US k-12 schools use Proquest, then it should also me mentioned that this is a [FERPA]https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html violation b/c 3rd party vendors legally cannot further expose a student's PII to yet another 3rd party; scriborder should perhaps be spotlighted)
