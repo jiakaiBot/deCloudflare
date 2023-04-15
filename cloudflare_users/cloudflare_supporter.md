@@ -11723,6 +11723,7 @@ Do not create new issue or we will close it as duplicate.
 | [TunTrng81150441@twitter](https://twitter.com/TunTrng81150441/status/1558214279093923840) | advertise |
 | [TunTunN21907832@twitter](https://twitter.com/TunTunN21907832/status/1392151024073207808) | advertise |
 | [TunTunN70495506@twitter](https://twitter.com/TunTunN70495506/status/1391124153818697728) | advertise |
+| [TunVTrung2@twitter](https://twitter.com/TunVTrung2/status/1647232680243888128) | advertise |
 | [TunYinmin@twitter](https://twitter.com/TunYinmin/status/1394984491354148864) | advertise |
 | [TuongNg04097548@twitter](https://twitter.com/TuongNg04097548/status/1482973722265145347) | advertise |
 | [turboroom@twitter](https://twitter.com/turboroom/status/1538608149413998594) | advertise |
