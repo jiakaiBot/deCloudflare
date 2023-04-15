@@ -88,7 +88,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | clearviewtechnology.net | No |
 | cloudflare-dns.com | Yes |
 | cloudnx.cloud | Yes |
-| cnblw.me | Yes |
 | cola16.app | Yes |
 | comeonjames.club | Yes |
 | comss.one | No |
@@ -203,7 +202,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | itdept.pro | Yes |
 | jackyes.ovh | No |
 | jamesxue.xyz | No |
-| jeroenhd.nl | No |
 | jfchenier.ca | Yes |
 | jnorton.us | No |
 | joaofidelix.com.br | Yes |
@@ -218,7 +216,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ketan.dev | Yes |
 | keweon.center | No |
 | killtw.im | Yes |
-| korks.tk | Yes |
 | korzhov.dev | No |
 | kpsn.org | Yes |
 | krnl.eu | Yes |
@@ -291,14 +288,12 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ofdoom.net | Yes |
 | onedns.cc | Yes |
 | onedns.net | No |
-| ooroot.com | No |
 | opendns.com | Yes |
 | opnsource.com.au | Yes |
 | ozer.im | No |
 | paesa.es | Yes |
 | panszelescik.pl | Yes |
 | pathofgrace.com | No |
-| pentament.de | No |
 | piekacz.pl | No |
 | pleumkungz.com | Yes |
 | porteii.com | Yes |
@@ -325,7 +320,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rsaikat.com | No |
 | safeservedns.com | No |
 | safesurfer.io | Yes |
-| sagutxustech.com | Yes |
 | sbdns.co.in | No |
 | seby.io | Yes |
 | sellan.fr | No |
@@ -374,7 +368,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tylerwahl.com | No |
 | typaza.com | No |
 | unerror.network | Yes |
-| uni-bremen.de | No |
 | unipd.it | Yes |
 | unstoppable.io | Yes |
 | vasi.li | No |
@@ -386,7 +379,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wakgood.net | Yes |
 | wantaquddin.com | No |
 | waringer-atg.de | No |
-| woozeno.eu | No |
 | xcom.pro | No |
 | xenergy.cc | Yes |
 | xfinity.com | Yes |
@@ -403,8 +395,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 176 |
-| Normal | 208 |
+| Cloudflare | 173 |
+| Normal | 203 |
 
 
-### 45.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46% of DNS-over-HTTPS (DoH) are using Cloudflare.
