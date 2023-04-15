@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,146 |
-| social | 3,939 |
+| social | 3,938 |
 | net | 3,132 |
 | org | 2,162 |
 | de | 2,046 |
@@ -8766,7 +8766,7 @@ Here's a list of public Fediverse services.
 | `dislive.me` | Yes |
 | `disney.host` | No |
 | `disobey.net` | No |
-| `dispark.org` | No |
+| `dispark.org` | Yes |
 | `dispatches.fm` | No |
 | `disperfected.com` | No |
 | `dispersio.us` | No |
@@ -31492,7 +31492,6 @@ Here's a list of public Fediverse services.
 | `scuba323.com` | Yes |
 | `scubadon.jp` | No |
 | `scuderiasouthwest.com` | No |
-| `scull.social` | No |
 | `sculpin.social` | No |
 | `scumaker.org` | Yes |
 | `scurry.io` | Yes |
@@ -40758,8 +40757,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,215 |
-| Normal | 30,500 |
+| Cloudflare | 10,216 |
+| Normal | 30,498 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
