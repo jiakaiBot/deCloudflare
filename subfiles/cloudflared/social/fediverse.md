@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,145 |
-| social | 3,937 |
-| net | 3,131 |
-| org | 2,161 |
+| com | 6,146 |
+| social | 3,939 |
+| net | 3,132 |
+| org | 2,162 |
 | de | 2,046 |
 
 
@@ -4769,6 +4769,7 @@ Here's a list of public Fediverse services.
 | `brsjrn.fr` | No |
 | `brso.social` | No |
 | `bru.su` | Yes |
+| `bruceblog.net` | No |
 | `brucknerite.net` | No |
 | `bruder.space` | No |
 | `bruff.me` | No |
@@ -5677,6 +5678,7 @@ Here's a list of public Fediverse services.
 | `chapril.org` | No |
 | `chapsterhood.com` | No |
 | `char.my.id` | Yes |
+| `characters.cafe` | No |
 | `charade.social` | No |
 | `charcha.cc` | No |
 | `charcolle.art` | No |
@@ -19134,6 +19136,7 @@ Here's a list of public Fediverse services.
 | `lasersare.fun` | No |
 | `lasershark.army` | No |
 | `lasersword.club` | No |
+| `lasitua.org` | No |
 | `laski.app` | Yes |
 | `lastauth.com` | No |
 | `lastbreach.tv` | No |
@@ -24732,6 +24735,7 @@ Here's a list of public Fediverse services.
 | `netmonkey.site` | No |
 | `netmonkey.xyz` | No |
 | `netmynd.org` | Yes |
+| `neto1.com` | No |
 | `netooze.com` | Yes |
 | `netou.info` | No |
 | `netplusw.com` | No |
@@ -29385,6 +29389,7 @@ Here's a list of public Fediverse services.
 | `rainynight.city` | No |
 | `raisan.co` | No |
 | `raise-uav.com` | No |
+| `raisonanz.nl` | No |
 | `raisondetre.live` | No |
 | `raitamaa.net` | No |
 | `raite.social` | No |
@@ -30454,6 +30459,7 @@ Here's a list of public Fediverse services.
 | `room4.dev` | Yes |
 | `room409.xyz` | No |
 | `roommatefriendfinder.com` | No |
+| `roomtone.social` | No |
 | `roon.fr` | No |
 | `roos.co` | Yes |
 | `roosenmaallen.com` | No |
@@ -31485,6 +31491,7 @@ Here's a list of public Fediverse services.
 | `scuba323.com` | Yes |
 | `scubadon.jp` | No |
 | `scuderiasouthwest.com` | No |
+| `scull.social` | No |
 | `sculpin.social` | No |
 | `scumaker.org` | Yes |
 | `scurry.io` | Yes |
@@ -40751,7 +40758,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,215 |
-| Normal | 30,492 |
+| Normal | 30,499 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
