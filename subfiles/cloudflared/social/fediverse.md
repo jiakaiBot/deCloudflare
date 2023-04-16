@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,149 |
+| com | 6,150 |
 | social | 3,941 |
 | net | 3,132 |
 | org | 2,163 |
@@ -5821,6 +5821,7 @@ Here's a list of public Fediverse services.
 | `chieldouwes.nl` | No |
 | `chiffon-sepxipl.com` | Yes |
 | `chiguito.com` | No |
+| `chihayainfotech.com` | No |
 | `chiheisen.moe` | No |
 | `chiji.space` | No |
 | `chik.social` | Yes |
@@ -31085,6 +31086,7 @@ Here's a list of public Fediverse services.
 | `sankaku.io` | No |
 | `sankara.me` | Yes |
 | `sanlive.com` | No |
+| `sanma.men` | Yes |
 | `sanmin.jp.net` | No |
 | `sanpo-an.site` | No |
 | `sanrizuka-struggle.com` | Yes |
@@ -40781,8 +40783,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,223 |
-| Normal | 30,515 |
+| Cloudflare | 10,224 |
+| Normal | 30,516 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
