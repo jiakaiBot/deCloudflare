@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [500 error when downloading files from ipv6 addresses](https://github.com/projectsend/projectsend/issues/1250)
+- [DW Broken Pipe im Suchlauf](https://github.com/rix1337/FeedCrawler/issues/738)
 - [Invalid value for parameter "mode"](https://github.com/Le0Developer/react-turnstile/issues/12)
 - [Cloudflare and reverse proxy support](https://github.com/gofiber/fiber/issues/2419)
 - [Error creating TUN device when using Gluetun Addon](https://github.com/truecharts/charts/issues/8047)
