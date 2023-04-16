@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,150 |
-| social | 3,942 |
+| com | 6,152 |
+| social | 3,943 |
 | net | 3,135 |
-| org | 2,166 |
+| org | 2,168 |
 | de | 2,048 |
 
 
@@ -1657,6 +1657,7 @@ Here's a list of public Fediverse services.
 | `amencarini.com` | No |
 | `amenti.eu.org` | No |
 | `ameo.dev` | No |
+| `amererican.com` | Yes |
 | `america.social` | No |
 | `american-football.social` | No |
 | `americanthinker.com` | No |
@@ -9157,6 +9158,7 @@ Here's a list of public Fediverse services.
 | `douvk.co.uk` | No |
 | `doux.fun` | No |
 | `douzepoints.social` | Yes |
+| `dov.moe` | Yes |
 | `dovac.org` | Yes |
 | `dowata.xyz` | No |
 | `downey.family` | No |
@@ -13378,6 +13380,7 @@ Here's a list of public Fediverse services.
 | `glittersluts.xyz` | No |
 | `glitterwillowforest.xyz` | No |
 | `gllmr.fr` | No |
+| `globaleas.org` | Yes |
 | `globaleducation.social` | No |
 | `globalfrens.com` | Yes |
 | `globally.social` | No |
@@ -20765,11 +20768,13 @@ Here's a list of public Fediverse services.
 | `magically.cc` | No |
 | `magicalmirro.red` | Yes |
 | `magicannon.com` | No |
+| `magicfedi.su` | No |
 | `magicflashystring.net` | Yes |
 | `magick.tech` | No |
 | `magickal.club` | No |
 | `magicstone.dev` | No |
 | `magicvampirepirates.com` | Yes |
+| `magicvoidpointers.com` | No |
 | `magicwoodland.net` | No |
 | `magik.me` | No |
 | `magikarp.fun` | No |
@@ -21330,6 +21335,7 @@ Here's a list of public Fediverse services.
 | `mastobate.com` | Yes |
 | `mastobate.social` | No |
 | `mastoben.rocks` | No |
+| `mastobots.one` | No |
 | `mastobotti.eu` | No |
 | `mastoburn.com` | No |
 | `mastoc.fr` | Yes |
@@ -24752,6 +24758,7 @@ Here's a list of public Fediverse services.
 | `net.scot` | Yes |
 | `net4sw.com` | No |
 | `netaka.net` | No |
+| `netauthority.org` | No |
 | `netcorsoft.de` | No |
 | `netdc.ca` | No |
 | `netdrones.ai` | No |
@@ -33744,6 +33751,7 @@ Here's a list of public Fediverse services.
 | `stellaria.network` | Yes |
 | `stellartwin-186f.ovh` | No |
 | `stellas.cf` | Yes |
+| `stellbr.ink` | Yes |
 | `stellify.net` | Yes |
 | `stellj.es` | No |
 | `stembod.net` | No |
@@ -35393,6 +35401,7 @@ Here's a list of public Fediverse services.
 | `thedroth.rocks` | No |
 | `theduran.icu` | No |
 | `theedgeofrage.com` | Yes |
+| `theendpaper.social` | No |
 | `theepicblock.nl` | No |
 | `theepistle.net` | No |
 | `theeum.org` | No |
@@ -40808,8 +40817,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,231 |
-| Normal | 30,534 |
+| Cloudflare | 10,235 |
+| Normal | 30,539 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
