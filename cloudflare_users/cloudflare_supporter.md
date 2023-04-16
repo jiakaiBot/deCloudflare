@@ -3347,6 +3347,7 @@ Do not create new issue or we will close it as duplicate.
 | [FrameToFrameBJ@twitter](https://twitter.com/FrameToFrameBJ/status/1574535320133160971) | advertise |
 | [frankchen0130@twitter](https://twitter.com/frankchen0130/status/1558029495793160193) | advertise |
 | [Frankie15083281@twitter](https://twitter.com/Frankie15083281/status/1552191447042256896) | advertise |
+| [FrankYanWang@twitter](https://twitter.com/FrankYanWang/status/1647660998353113088) | advertise |
 | [frankygu@twitter](https://twitter.com/frankygu/status/1533974817438941185) | advertise |
 | [freaklinkrd@twitter](https://twitter.com/freaklinkrd/status/1622968715120902144) | advertise |
 | [FreakXff@twitter](https://twitter.com/FreakXff/status/1626766134883106818) | advertise |
@@ -11483,6 +11484,7 @@ Do not create new issue or we will close it as duplicate.
 | [TosinTimothy5@twitter](https://twitter.com/TosinTimothy5/status/1586519693048745984) | advertise |
 | [TotasShepot@twitter](https://twitter.com/TotasShepot/status/1501117750806466565) | advertise |
 | [Toubz_8844@twitter](https://twitter.com/Toubz_8844/status/1603000139144101889) | advertise |
+| [touche98@twitter](https://twitter.com/touche98/status/1647665419879325697) | advertise |
 | [touchybaot73@twitter](https://twitter.com/touchybaot73/status/1388281470821625861) | advertise |
 | [touko_oto@twitter](https://twitter.com/touko_oto/status/1625083493637324801) | advertise |
 | [TourehYounis@twitter](https://twitter.com/TourehYounis/status/1584174637751361536) | advertise |
