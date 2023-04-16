@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare and reverse proxy support](https://github.com/gofiber/fiber/issues/2419)
 - [Error creating TUN device when using Gluetun Addon](https://github.com/truecharts/charts/issues/8047)
 - [Cannot bypass cloudflare](https://github.com/ultrafunkamsterdam/undetected-chromedriver/issues/1198)
 - [source e621.net not working?](https://github.com/Bionus/imgbrd-grabber/issues/2947)
