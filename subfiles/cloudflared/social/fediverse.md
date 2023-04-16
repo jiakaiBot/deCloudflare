@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,151 |
+| com | 6,150 |
 | social | 3,941 |
 | net | 3,133 |
-| org | 2,164 |
+| org | 2,165 |
 | de | 2,048 |
 
 
@@ -2986,6 +2986,7 @@ Here's a list of public Fediverse services.
 | `b123400.net` | No |
 | `b12e.be` | No |
 | `b1ju.in` | No |
+| `b1n.win` | Yes |
 | `b1y.de` | No |
 | `b252.gq` | Yes |
 | `b2b-marketing.pl` | No |
@@ -11212,6 +11213,7 @@ Here's a list of public Fediverse services.
 | `fediverse.co.za` | Yes |
 | `fediverse.cyou` | Yes |
 | `fediverse.cz` | No |
+| `fediverse.date` | No |
 | `fediverse.express` | No |
 | `fediverse.land` | Yes |
 | `fediverse.lgbt` | No |
@@ -16457,6 +16459,7 @@ Here's a list of public Fediverse services.
 | `it-dengler.de` | No |
 | `it-freelancer.hamburg` | No |
 | `it-hempel.de` | No |
+| `it-hilfe-leipzig.org` | No |
 | `it-infra.jp` | No |
 | `it-lin.de` | No |
 | `itacfl.link` | No |
@@ -18482,6 +18485,7 @@ Here's a list of public Fediverse services.
 | `kokuda.org` | No |
 | `kokuzei.cyou` | Yes |
 | `kola.ml` | No |
+| `koldfront.dk` | No |
 | `kolektiva.media` | Yes |
 | `kolektiva.social` | Yes |
 | `koles.tech` | No |
@@ -24756,7 +24760,6 @@ Here's a list of public Fediverse services.
 | `netmonkey.site` | No |
 | `netmonkey.xyz` | No |
 | `netmynd.org` | Yes |
-| `neto1.com` | Yes |
 | `netooze.com` | Yes |
 | `netou.info` | No |
 | `netplusw.com` | No |
@@ -27933,6 +27936,7 @@ Here's a list of public Fediverse services.
 | `pkkm.me` | No |
 | `pkm.social` | No |
 | `pks.ai` | Yes |
+| `pkss.cz` | No |
 | `pkteerium.xyz` | No |
 | `pkutalk.com` | No |
 | `pl-sonic.net` | No |
@@ -31274,6 +31278,7 @@ Here's a list of public Fediverse services.
 | `scarly.pink` | No |
 | `scarrott.uk` | No |
 | `scarycarries.com` | Yes |
+| `scattered-lenity.space` | No |
 | `scc.wtf` | Yes |
 | `sccn.club` | Yes |
 | `scd31.com` | No |
@@ -38242,6 +38247,7 @@ Here's a list of public Fediverse services.
 | `vocalounge.cafe` | No |
 | `vocals.gg` | No |
 | `vocalsynthes.is` | Yes |
+| `vocata.one` | No |
 | `voccs.com` | No |
 | `vocivia.tk` | No |
 | `vodka.gg` | No |
@@ -40790,7 +40796,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,228 |
-| Normal | 30,518 |
+| Normal | 30,524 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
