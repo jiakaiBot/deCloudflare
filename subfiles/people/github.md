@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare waf block countries issue with Django qr_code in html](https://github.com/incuna/django-wkhtmltopdf/issues/202)
 - [website wont load](https://github.com/corrosionwm/corrosionwm.github.io/issues/5)
 - [500 error when downloading files from ipv6 addresses](https://github.com/projectsend/projectsend/issues/1250)
 - [DW Broken Pipe im Suchlauf](https://github.com/rix1337/FeedCrawler/issues/738)
