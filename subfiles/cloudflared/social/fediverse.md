@@ -19778,6 +19778,7 @@ Here's a list of public Fediverse services.
 | `lilymagic.com` | Yes |
 | `lilypad.works` | Yes |
 | `lilysthings.org` | Yes |
+| `limelee.xyz` | No |
 | `limely.social` | No |
 | `limey.land` | No |
 | `limilo.com` | Yes |
@@ -40797,7 +40798,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,228 |
-| Normal | 30,525 |
+| Normal | 30,526 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
