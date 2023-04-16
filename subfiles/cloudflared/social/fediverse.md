@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,150 |
 | social | 3,941 |
-| net | 3,133 |
+| net | 3,135 |
 | org | 2,165 |
 | de | 2,048 |
 
@@ -3692,6 +3692,7 @@ Here's a list of public Fediverse services.
 | `bgcarlisle.com` | No |
 | `bgdream.org` | No |
 | `bgemi.net` | No |
+| `bgempire.net` | No |
 | `bgeneric.net` | Yes |
 | `bghost.xyz` | No |
 | `bgmastodon.com` | No |
@@ -11479,6 +11480,7 @@ Here's a list of public Fediverse services.
 | `filmaidykai.net` | Yes |
 | `filmfreedom.net` | No |
 | `filmherd.social` | No |
+| `filmisnotdead.net` | Yes |
 | `filmmusic.social` | No |
 | `filmvirgins.com` | No |
 | `filthylucre.biz` | No |
@@ -40797,8 +40799,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,228 |
-| Normal | 30,526 |
+| Cloudflare | 10,229 |
+| Normal | 30,527 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
