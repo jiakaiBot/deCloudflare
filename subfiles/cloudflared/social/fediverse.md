@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,150 |
+| com | 6,151 |
 | social | 3,941 |
 | net | 3,132 |
 | org | 2,163 |
@@ -16465,6 +16465,7 @@ Here's a list of public Fediverse services.
 | `italysec.social` | No |
 | `itcave.de` | No |
 | `itchyway.com` | No |
+| `itcountrythai.com` | No |
 | `itcrowd.space` | No |
 | `itdev.social` | Yes |
 | `iteasy.club` | No |
@@ -24753,7 +24754,7 @@ Here's a list of public Fediverse services.
 | `netmonkey.site` | No |
 | `netmonkey.xyz` | No |
 | `netmynd.org` | Yes |
-| `neto1.com` | No |
+| `neto1.com` | Yes |
 | `netooze.com` | Yes |
 | `netou.info` | No |
 | `netplusw.com` | No |
@@ -27085,7 +27086,7 @@ Here's a list of public Fediverse services.
 | `paratxt.org` | No |
 | `parawatch.org` | No |
 | `parcel5.social` | No |
-| `parcility.co` | No |
+| `parcility.co` | Yes |
 | `pardoners.church` | No |
 | `parens.social` | No |
 | `parentaladvisory.social` | No |
@@ -27305,7 +27306,7 @@ Here's a list of public Fediverse services.
 | `pedo.school` | No |
 | `pedrocx486.club` | Yes |
 | `peek1e.eu` | Yes |
-| `peeledoffmy.skin` | No |
+| `peeledoffmy.skin` | Yes |
 | `peen.dev` | Yes |
 | `peeps.press` | No |
 | `peepums.com` | Yes |
@@ -40783,8 +40784,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,224 |
-| Normal | 30,516 |
+| Cloudflare | 10,227 |
+| Normal | 30,514 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
