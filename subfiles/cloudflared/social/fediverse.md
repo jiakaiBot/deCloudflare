@@ -36579,6 +36579,7 @@ Here's a list of public Fediverse services.
 | `transitieweb.nl` | No |
 | `transition-waedenswil.ch` | No |
 | `transliminal.space` | No |
+| `translunar.academy` | No |
 | `transmas.cyou` | No |
 | `transmit.social` | No |
 | `transmom.love` | No |
@@ -40808,7 +40809,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,231 |
-| Normal | 30,533 |
+| Normal | 30,534 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
