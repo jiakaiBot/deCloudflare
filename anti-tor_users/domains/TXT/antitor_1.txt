@@ -297,8 +297,10 @@ y402cg.db.files.1drv.com
 a-1.1fichier.com
 a-8.1fichier.com
 am.1060radiolitoral.com
+api.events.104.com.tw
 autodiscover.1and1.info
 billing.12px.co.uk
+bookings.168zswj.com
 catalog-api.1c.ru
 click.em.1800baskets.com
 cpcontacts.1exitofirstbank.com
@@ -311,6 +313,7 @@ show.1688.com
 v22.backoffice.pacotes.123milhas.io
 www.1000mal1euro.de
 www.100billionrealestate.com
+www.100dayspaleo.com
 www.100womensouthwestflorida.com
 www.101autossac.com
 www.11alive.com
@@ -322,6 +325,7 @@ www.13wmaz.com
 www.16minerstreet.com
 www.1callsupport.com
 www.1cfcu.co
+www.1jourproduit.com
 www.1ticket1mangrove.com
 www.1tngs.com
 www.1vpn.io
