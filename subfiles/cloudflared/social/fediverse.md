@@ -23111,6 +23111,7 @@ Here's a list of public Fediverse services.
 | `moe-max.jp` | Yes |
 | `moe-overload.com` | No |
 | `moe.cat` | No |
+| `moe.ceo` | No |
 | `moe.gy` | Yes |
 | `moe.hm` | No |
 | `moe.lol` | Yes |
@@ -25309,6 +25310,7 @@ Here's a list of public Fediverse services.
 | `noferini.org` | No |
 | `noff.co` | Yes |
 | `nofftopia.com` | Yes |
+| `noflm.cc` | Yes |
 | `nofun.social` | No |
 | `nog.community` | No |
 | `nog20.social` | No |
@@ -40799,8 +40801,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,229 |
-| Normal | 30,527 |
+| Cloudflare | 10,230 |
+| Normal | 30,528 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
