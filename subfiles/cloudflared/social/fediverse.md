@@ -24745,6 +24745,7 @@ Here's a list of public Fediverse services.
 | `netaka.net` | No |
 | `netcorsoft.de` | No |
 | `netdc.ca` | No |
+| `netdrones.ai` | No |
 | `netfg.net` | No |
 | `netflux.io` | No |
 | `nether.net` | No |
@@ -40796,7 +40797,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,228 |
-| Normal | 30,524 |
+| Normal | 30,525 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
