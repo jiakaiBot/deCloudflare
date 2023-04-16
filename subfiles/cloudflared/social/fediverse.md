@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,151 |
 | social | 3,941 |
-| net | 3,132 |
-| org | 2,163 |
+| net | 3,133 |
+| org | 2,164 |
 | de | 2,048 |
 
 
@@ -18267,6 +18267,7 @@ Here's a list of public Fediverse services.
 | `kitsunes.gay` | Yes |
 | `kitsunes.world` | Yes |
 | `kitsunet.net` | No |
+| `kitsunet.org` | No |
 | `kitteh.pw` | No |
 | `kittenapproved.com` | No |
 | `kittenme.ws` | No |
@@ -19051,6 +19052,7 @@ Here's a list of public Fediverse services.
 | `laker.tech` | Yes |
 | `lakerturner.co.uk` | Yes |
 | `lakomarka.cat` | Yes |
+| `lakosmaavangardo.community` | No |
 | `lalafell.org` | No |
 | `laliguepaysdelaloire.org` | No |
 | `lamacchinadesiderante.org` | No |
@@ -25833,6 +25835,7 @@ Here's a list of public Fediverse services.
 | `nycmesh.net` | No |
 | `nycnyne.social` | Yes |
 | `nycr.social` | Yes |
+| `nycu.moe` | Yes |
 | `nye.lol` | No |
 | `nyerm.com` | No |
 | `nygaardboysen.dk` | Yes |
@@ -30615,6 +30618,7 @@ Here's a list of public Fediverse services.
 | `rt9a.com` | No |
 | `rta.run` | No |
 | `rta.vn` | No |
+| `rtcgaming.net` | No |
 | `rtclub.net` | No |
 | `rtctzn.com` | Yes |
 | `rter.io` | No |
@@ -32536,6 +32540,7 @@ Here's a list of public Fediverse services.
 | `skyjake.fi` | No |
 | `skylair.info` | Yes |
 | `skylantern.social` | No |
+| `skylarcloud.xyz` | No |
 | `skylarkservers.net` | Yes |
 | `skyline.monster` | Yes |
 | `skyliu.me` | Yes |
@@ -40784,8 +40789,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,227 |
-| Normal | 30,514 |
+| Cloudflare | 10,228 |
+| Normal | 30,518 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
