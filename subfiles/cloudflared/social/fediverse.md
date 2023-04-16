@@ -17251,7 +17251,7 @@ Here's a list of public Fediverse services.
 | `jorbo.dev` | Yes |
 | `jordanh.net` | Yes |
 | `jordanhall.co.uk` | No |
-| `jordanmerrick.com` | No |
+| `jordanmerrick.com` | Yes |
 | `jordanwages.com` | No |
 | `jorel.org` | No |
 | `jorgas.eu` | No |
@@ -17563,6 +17563,7 @@ Here's a list of public Fediverse services.
 | `kacco-e.org` | No |
 | `kachel.social` | No |
 | `kachelmannwetter.com` | Yes |
+| `kaczynski.life` | No |
 | `kaczynski.scot` | No |
 | `kadokawadon.jp` | No |
 | `kadono.moe` | No |
@@ -40806,7 +40807,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,230 |
+| Cloudflare | 10,231 |
 | Normal | 30,533 |
 
 
