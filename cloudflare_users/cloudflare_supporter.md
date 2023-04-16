@@ -2254,8 +2254,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -9733,6 +9733,7 @@ Do not create new issue or we will close it as duplicate.
 | [SacreOrg@twitter](https://twitter.com/SacreOrg/status/1620189090133209088) | advertise |
 | [sacryptofund@twitter](https://twitter.com/sacryptofund/status/1511439696324435978) | advertise |
 | [SaddimN@twitter](https://twitter.com/SaddimN/status/1394441598142922752) | advertise |
+| [SadikiJamali@twitter](https://twitter.com/SadikiJamali/status/1647580516693028864) | advertise |
 | [sadiqful_@twitter](https://twitter.com/sadiqful_/status/1404839930405195781) | advertise |
 | [SADneSS2_@twitter](https://twitter.com/SADneSS2_/status/1478139432112996356) | advertise |
 | [SAdonain@twitter](https://twitter.com/SAdonain/status/1381530629565648902) | advertise |
