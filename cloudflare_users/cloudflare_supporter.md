@@ -6712,6 +6712,7 @@ Do not create new issue or we will close it as duplicate.
 | [maplepie23@twitter](https://twitter.com/maplepie23/status/1578057602801336320) | advertise |
 | [marblerosee@twitter](https://twitter.com/marblerosee/status/1394172478780411906) | advertise |
 | [MarcelCerveny@twitter](https://twitter.com/MarcelCerveny/status/1606805828123693059) | advertise |
+| [march07059527@twitter](https://twitter.com/march07059527/status/1647619102356434945) | advertise |
 | [March27697098@twitter](https://twitter.com/March27697098/status/1391789798432546821) | advertise |
 | [MarchellWillan@twitter](https://twitter.com/MarchellWillan/status/1397553026970259460) | advertise |
 | [marchputt@twitter](https://twitter.com/marchputt/status/1486598280989478912) | advertise |
@@ -7723,6 +7724,7 @@ Do not create new issue or we will close it as duplicate.
 | [naing_soe02093@twitter](https://twitter.com/naing_soe02093/status/1395377742481403905) | advertise |
 | [Najahh_62@twitter](https://twitter.com/Najahh_62/status/1385735535319212034) | advertise |
 | [NajmulH47873953@twitter](https://twitter.com/NajmulH47873953/status/1639916457084735493) | advertise |
+| [nakadaole@twitter](https://twitter.com/nakadaole/status/1647627065792024577) | advertise |
 | [nalathon8@twitter](https://twitter.com/nalathon8/status/1393174233556021249) | advertise |
 | [nam08926332@twitter](https://twitter.com/nam08926332/status/1609565020203126789) | advertise |
 | [Nam42Duongtruo1@twitter](https://twitter.com/Nam42Duongtruo1/status/1553281681859104768) | advertise |
@@ -11059,12 +11061,13 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
 | [TheMarvSolo@twitter](https://twitter.com/TheMarvSolo/status/1572056650089132038) | advertise |
+| [TheMaster@twitter](https://twitter.com/TheMaster/status/1647621104121389058) | advertise |
 | [themichaellamb@twitter](https://twitter.com/themichaellamb/status/1504870147839905794) | advertise |
 | [TheMukeshPatel@twitter](https://twitter.com/TheMukeshPatel/status/1565563880704602112) | advertise |
 | [Thenoob4ever67@twitter](https://twitter.com/Thenoob4ever67/status/1597686642017701888) | advertise |
