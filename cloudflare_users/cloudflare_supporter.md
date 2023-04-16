@@ -5643,8 +5643,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -12735,6 +12735,7 @@ Do not create new issue or we will close it as duplicate.
 | [Zac4Peter@twitter](https://twitter.com/Zac4Peter/status/1638762895818489856) | advertise |
 | [ZacharyAbdullah@twitter](https://twitter.com/ZacharyAbdullah/status/1521073654955577344) | advertise |
 | [ZachrielStephen@twitter](https://twitter.com/ZachrielStephen/status/1568706820562391041) | advertise |
+| [zachzhao1984@twitter](https://twitter.com/zachzhao1984/status/1647609754980872194) | advertise |
 | [Zack09842097@twitter](https://twitter.com/Zack09842097/status/1391663997229752320) | advertise |
 | [Zack60392907@twitter](https://twitter.com/Zack60392907/status/1539145273850867712) | advertise |
 | [Zack_gaming7@twitter](https://twitter.com/Zack_gaming7/status/1377466204097441792) | advertise |
