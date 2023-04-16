@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,150 |
-| social | 3,941 |
+| social | 3,942 |
 | net | 3,135 |
-| org | 2,165 |
+| org | 2,166 |
 | de | 2,048 |
 
 
@@ -11710,6 +11710,7 @@ Here's a list of public Fediverse services.
 | `flowlab5.social` | No |
 | `flownative.social` | No |
 | `flownet.fr` | No |
+| `floyd.dk` | No |
 | `floyds.io` | Yes |
 | `flr.social` | No |
 | `fltd.io` | No |
@@ -14133,6 +14134,7 @@ Here's a list of public Fediverse services.
 | `hacked.af` | No |
 | `hacked.im` | No |
 | `hacker.rehab` | No |
+| `hackerbruecke.org` | No |
 | `hackerbun.social` | No |
 | `hackerdecabecera.com` | No |
 | `hackerdrinks.social` | Yes |
@@ -18522,6 +18524,7 @@ Here's a list of public Fediverse services.
 | `komuna.digital` | No |
 | `kona.moe` | No |
 | `konata.co` | Yes |
+| `konbini.social` | No |
 | `konc.wtf` | Yes |
 | `koncoguru.top` | No |
 | `kondakor.net` | Yes |
@@ -37172,6 +37175,7 @@ Here's a list of public Fediverse services.
 | `typing.ink` | No |
 | `typing.sexy` | No |
 | `typlus.net` | No |
+| `typo.cx` | No |
 | `typo.science` | Yes |
 | `typo.social` | No |
 | `typo3.social` | No |
@@ -40802,7 +40806,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,230 |
-| Normal | 30,528 |
+| Normal | 30,532 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
