@@ -7363,6 +7363,7 @@ Here's a list of public Fediverse services.
 | `cutie.express` | No |
 | `cutie.live` | No |
 | `cutie.space` | No |
+| `cutiebox.xyz` | No |
 | `cutiehaven.club` | No |
 | `cutiemiku.tk` | No |
 | `cutienaut.club` | No |
@@ -40806,7 +40807,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,230 |
-| Normal | 30,532 |
+| Normal | 30,533 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
