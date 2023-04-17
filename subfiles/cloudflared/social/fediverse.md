@@ -25295,6 +25295,7 @@ Here's a list of public Fediverse services.
 | `noctrl.tk` | No |
 | `noctua.social` | Yes |
 | `nocturlab.fr` | No |
+| `nocturne.cx` | No |
 | `node.pk` | Yes |
 | `node001.net` | No |
 | `node9.org` | No |
@@ -40830,7 +40831,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,245 |
-| Normal | 30,541 |
+| Normal | 30,542 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
