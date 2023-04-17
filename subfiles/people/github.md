@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Some Cloudflare Access Applications returning 500 Error](https://github.com/MatBenfield/news/issues/12972)
 - [Cloudflare blocked in Irancell (AS 44244) 2023-04-16](https://github.com/net4people/bbs/issues/245)
 - [cant connect torrentleech anymore](https://github.com/pymedusa/medusa.github.io/issues/449)
 - [CANT CONNECT TO TORRENTLEECH ANYMORE](https://github.com/pymedusa/Medusa/issues/11211)
