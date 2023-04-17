@@ -8741,6 +8741,7 @@ Do not create new issue or we will close it as duplicate.
 | [PDoxX7@twitter](https://twitter.com/PDoxX7/status/1539952156333248512) | advertise |
 | [PDurua@twitter](https://twitter.com/PDurua/status/1590598546017128448) | advertise |
 | [PDXStolenCar@twitter](https://twitter.com/PDXStolenCar/status/1557609975949668353) | advertise |
+| [Peach_CH1@twitter](https://twitter.com/Peach_CH1/status/1647984368290496522) | advertise |
 | [peageruk@twitter](https://twitter.com/peageruk/status/1383275946296299520) | advertise |
 | [peaksilver1@twitter](https://twitter.com/peaksilver1/status/1552288607682981888) | advertise |
 | [peareza@twitter](https://twitter.com/peareza/status/1577504046822281218) | advertise |
@@ -9055,6 +9056,7 @@ Do not create new issue or we will close it as duplicate.
 | [PONKUNGS2@twitter](https://twitter.com/PONKUNGS2/status/1608478951802044416) | advertise |
 | [pontakorn322@twitter](https://twitter.com/pontakorn322/status/1559225662363144193) | advertise |
 | [pony66204919@twitter](https://twitter.com/pony66204919/status/1627213726658232320) | advertise |
+| [PoofOfExistence@twitter](https://twitter.com/PoofOfExistence/status/1647990702754897920) | advertise |
 | [Poofu1@twitter](https://twitter.com/Poofu1/status/1552379860022358016) | advertise |
 | [Pooh77732056@twitter](https://twitter.com/Pooh77732056/status/1378258475097055234) | advertise |
 | [Pookie5552@twitter](https://twitter.com/Pookie5552/status/1396760560037863424) | advertise |
