@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,152 |
 | social | 3,943 |
 | net | 3,135 |
-| org | 2,168 |
+| org | 2,169 |
 | de | 2,048 |
 
 
@@ -281,7 +281,7 @@ Here's a list of public Fediverse services.
 | `247420.xyz` | No |
 | `24bit48khz.de` | No |
 | `24daysindecember.net` | No |
-| `25.wf` | No |
+| `25.wf` | Yes |
 | `2502.net` | No |
 | `251.sh` | Yes |
 | `256.lt` | No |
@@ -2834,6 +2834,7 @@ Here's a list of public Fediverse services.
 | `aviating.com` | No |
 | `aviators.network` | No |
 | `avidol.jp` | No |
+| `avigny.fr` | Yes |
 | `avinash.com.np` | Yes |
 | `avision-it.social` | No |
 | `avn.org` | No |
@@ -9364,6 +9365,7 @@ Here's a list of public Fediverse services.
 | `dtluna.net` | No |
 | `dtp-mstdn.jp` | Yes |
 | `dtrautwein.eu` | No |
+| `dtris.moe` | No |
 | `dttyde.de` | No |
 | `dtwylr.net` | No |
 | `dtzbts.xyz` | No |
@@ -9761,6 +9763,7 @@ Here's a list of public Fediverse services.
 | `edwinavalos.com` | No |
 | `edythemighty.com` | No |
 | `edzilla.info` | Yes |
+| `ee.cx` | Yes |
 | `eebrn.de` | No |
 | `eeee.no` | No |
 | `eeeeeeee.ee` | Yes |
@@ -11971,7 +11974,7 @@ Here's a list of public Fediverse services.
 | `fpvogel.com` | Yes |
 | `fqserv.eu` | No |
 | `fr.cr` | Yes |
-| `fr.nf` | No |
+| `fr.nf` | Yes |
 | `fr.to` | Yes |
 | `fr0g.tech` | No |
 | `fr13nd5.com` | No |
@@ -24333,6 +24336,7 @@ Here's a list of public Fediverse services.
 | `nand.tk` | No |
 | `nandon.cc` | No |
 | `naninani.uk` | No |
+| `nanitebased.club` | No |
 | `nannerpuss.club` | Yes |
 | `nanoapp.io` | No |
 | `nanobyte.cafe` | No |
@@ -36394,6 +36398,7 @@ Here's a list of public Fediverse services.
 | `tootmusic.com` | Yes |
 | `tootn.social` | No |
 | `tootnet.nl` | No |
+| `tootnet.org` | Yes |
 | `tootodon.xyz` | Yes |
 | `tootology.com` | No |
 | `tootplanet.space` | No |
@@ -40817,7 +40822,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,235 |
+| Cloudflare | 10,240 |
 | Normal | 30,539 |
 
 
