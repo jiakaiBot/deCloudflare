@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare blocked in Irancell (AS 44244) 2023-04-16](https://github.com/net4people/bbs/issues/245)
+- [cant connect torrentleech anymore](https://github.com/pymedusa/medusa.github.io/issues/449)
+- [CANT CONNECT TO TORRENTLEECH ANYMORE](https://github.com/pymedusa/Medusa/issues/11211)
 - [Cloudflare waf block countries issue with Django qr_code in html](https://github.com/incuna/django-wkhtmltopdf/issues/202)
 - [website wont load](https://github.com/corrosionwm/corrosionwm.github.io/issues/5)
 - [500 error when downloading files from ipv6 addresses](https://github.com/projectsend/projectsend/issues/1250)
