@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,152 |
+| com | 6,153 |
 | social | 3,944 |
 | net | 3,135 |
 | org | 2,170 |
@@ -13438,6 +13438,7 @@ Here's a list of public Fediverse services.
 | `gmajewski.xyz` | No |
 | `gmartin.net` | Yes |
 | `gmastod.online` | No |
+| `gmb.cz` | No |
 | `gme.one` | Yes |
 | `gmem.ca` | Yes |
 | `gmr.news` | No |
@@ -14305,6 +14306,7 @@ Here's a list of public Fediverse services.
 | `hams.social` | No |
 | `hamster.science` | No |
 | `hamtter.net` | No |
+| `hamusutaa.com` | No |
 | `hamzahkhan.com` | Yes |
 | `han.do` | No |
 | `hanashi.dev` | Yes |
@@ -26942,6 +26944,7 @@ Here's a list of public Fediverse services.
 | `pablo.xyz` | No |
 | `pablofernandez.tech` | Yes |
 | `pablom.org` | No |
+| `pablos.cloud` | No |
 | `pablosystems.fr` | No |
 | `pabs.xyz` | No |
 | `pacapime.ovh` | No |
@@ -39702,7 +39705,7 @@ Here's a list of public Fediverse services.
 | `xindejiayuan.com` | No |
 | `xinghaizhandui.com` | No |
 | `xingxing.digital` | No |
-| `xinsto.xyz` | No |
+| `xinsto.xyz` | Yes |
 | `xinu.me` | No |
 | `xion.social` | Yes |
 | `xip.es` | No |
@@ -40830,8 +40833,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,245 |
-| Normal | 30,542 |
+| Cloudflare | 10,246 |
+| Normal | 30,544 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
