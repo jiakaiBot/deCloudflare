@@ -26630,6 +26630,7 @@ Here's a list of public Fediverse services.
 | `osa-p.net` | Yes |
 | `osada.app` | No |
 | `osadl.social` | No |
+| `osage.moe` | Yes |
 | `osakana.cloud` | No |
 | `osakanacreate.com` | No |
 | `osananajimi.love` | No |
@@ -34434,7 +34435,7 @@ Here's a list of public Fediverse services.
 | `symposium.social` | Yes |
 | `symtrkl.gay` | No |
 | `syn.haus` | No |
-| `syn.im` | No |
+| `syn.im` | Yes |
 | `syn.social` | No |
 | `synace.com` | No |
 | `synaps.space` | Yes |
@@ -40826,8 +40827,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,240 |
-| Normal | 30,543 |
+| Cloudflare | 10,242 |
+| Normal | 30,542 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
