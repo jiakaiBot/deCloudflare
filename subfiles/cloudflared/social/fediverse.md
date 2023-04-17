@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,152 |
 | social | 3,944 |
 | net | 3,135 |
-| org | 2,169 |
+| org | 2,170 |
 | de | 2,049 |
 
 
@@ -4420,7 +4420,7 @@ Here's a list of public Fediverse services.
 | `bookface.social` | No |
 | `bookish.community` | No |
 | `bookishbook.club` | No |
-| `bookmark.org` | No |
+| `bookmark.org` | Yes |
 | `bookn.me` | No |
 | `booknerds.social` | No |
 | `booknetwork.ca` | No |
@@ -13160,7 +13160,7 @@ Here's a list of public Fediverse services.
 | `gextreme.com` | No |
 | `geyaeb.dev` | No |
 | `geyikatlasi.com` | No |
-| `gezondemedia.nl` | No |
+| `gezondemedia.nl` | Yes |
 | `gfault.ca` | No |
 | `gfedi.uk` | No |
 | `gfk.social` | No |
@@ -29426,6 +29426,7 @@ Here's a list of public Fediverse services.
 | `rainbowcapitalism.com` | Yes |
 | `rainbowcolor.online` | No |
 | `rainbowdash.net` | Yes |
+| `rainbowedpill.org` | No |
 | `rainbownerds.de` | No |
 | `rainbowsound.me` | No |
 | `rainbowtoot.net` | No |
@@ -36136,7 +36137,7 @@ Here's a list of public Fediverse services.
 | `todon.de` | No |
 | `todon.eu` | No |
 | `todon.fr` | No |
-| `todon.in` | No |
+| `todon.in` | Yes |
 | `todon.nl` | No |
 | `todon.uk` | No |
 | `todor.cc` | No |
@@ -40828,8 +40829,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,242 |
-| Normal | 30,543 |
+| Cloudflare | 10,245 |
+| Normal | 30,541 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
