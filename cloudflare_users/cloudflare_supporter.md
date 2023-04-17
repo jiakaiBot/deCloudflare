@@ -467,6 +467,7 @@ Do not create new issue or we will close it as duplicate.
 | [AirsoftAHU@twitter](https://twitter.com/AirsoftAHU/status/1465924954780848128) | advertise |
 | [AiSai74406980@twitter](https://twitter.com/AiSai74406980/status/1395162674292432898) | advertise |
 | [Aitizaz14@twitter](https://twitter.com/Aitizaz14/status/1484956706610233350) | advertise |
+| [aiyanbo@twitter](https://twitter.com/aiyanbo/status/1647915530303705088) | advertise |
 | [aizatjalil98@twitter](https://twitter.com/aizatjalil98/status/1623159720659017728) | advertise |
 | [aizuddinyusof@twitter](https://twitter.com/aizuddinyusof/status/1636392352456806400) | advertise |
 | [Aizzatpokjat@twitter](https://twitter.com/Aizzatpokjat/status/1596858394060939264) | advertise |
