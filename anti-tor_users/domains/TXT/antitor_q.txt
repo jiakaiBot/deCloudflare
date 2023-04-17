@@ -342,6 +342,7 @@ device.app.qbee.io
 discourse.q2r.net
 dpvverify.saas.devshared.ondemand.qas.com
 enyl.us1.qeadaptiveauth.com
+fbfb.quysovo-mayman.online
 gsf7rfh.qhigh.com
 guide.standardclub.questmarine.app
 iadctest.qwapi.com
@@ -362,12 +363,14 @@ nl.qleaningservice.com
 plugin.github-source.service.ap-northeast-1.quokka.codes
 plugin.github-source.service.eu-west-1.quokka.codes
 poczta.qdp.com.pl
+portal.qwords.com
 ppl-authandbudget.qulix.com
 preprod.qovoltis.com
 psveindhoven.queue-it.net
 pt-memberonline.qsuper.qld.gov.au
 pv2.q-cells.jp
 q-furniture.com
+q0rtz.org
 q2developer.com
 q4rw8zjrjk.top
 qalmoco.quicksoft.com.br
@@ -438,6 +441,7 @@ www.davrbank.qr-api.net
 www.docs.qr-invoice.ch
 www.employee.q-works.id
 www.invoice.qrapparels.com
+www.nationwide.uk.query-unit.info
 www.opera.bookings.qualtrix.co.za
 www.qantasnewsroom.com.au
 www.qcsso.com
