@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,152 |
-| social | 3,943 |
+| social | 3,944 |
 | net | 3,135 |
 | org | 2,169 |
 | de | 2,048 |
@@ -2918,6 +2918,7 @@ Here's a list of public Fediverse services.
 | `axtch.net` | No |
 | `axvigs.com` | No |
 | `axwax.eu` | No |
+| `axyvii.me` | No |
 | `ayaka.moe` | Yes |
 | `ayaka.social` | Yes |
 | `ayano.jp` | No |
@@ -5431,6 +5432,7 @@ Here's a list of public Fediverse services.
 | `catholichalos.org` | No |
 | `catholicism.rocks` | No |
 | `cathrow.social` | Yes |
+| `catin.space` | Yes |
 | `cativa.net` | No |
 | `catmargue.org` | No |
 | `catona.cloud` | No |
@@ -14205,6 +14207,7 @@ Here's a list of public Fediverse services.
 | `haecksen.social` | No |
 | `haeder.net` | No |
 | `haeder.netfeatured` | No |
+| `haetsal.me` | No |
 | `hafen.io` | No |
 | `hafkehafke.org` | No |
 | `hafs.in` | No |
@@ -29328,6 +29331,7 @@ Here's a list of public Fediverse services.
 | `radfoote.net` | No |
 | `radgames.space` | No |
 | `radiant.garden` | No |
+| `radiant.social` | No |
 | `radiate038.com` | Yes |
 | `radical.town` | No |
 | `radicalevents.eu` | No |
@@ -29635,7 +29639,7 @@ Here's a list of public Fediverse services.
 | `raygoon.tk` | Yes |
 | `raygungothic.xyz` | No |
 | `raymondtec.com` | No |
-| `rayn.bo` | Yes |
+| `rayn.bo` | No |
 | `raynor.haus` | Yes |
 | `rayonnant.org` | Yes |
 | `rayslava.com` | No |
@@ -40823,7 +40827,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,240 |
-| Normal | 30,539 |
+| Normal | 30,543 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
