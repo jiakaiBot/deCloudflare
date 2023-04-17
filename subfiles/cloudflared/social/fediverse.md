@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,944 |
 | net | 3,135 |
 | org | 2,169 |
-| de | 2,048 |
+| de | 2,049 |
 
 
 - Mastodon, Pleroma, etc
@@ -36762,6 +36762,7 @@ Here's a list of public Fediverse services.
 | `troetco.de` | No |
 | `troeterei.de` | No |
 | `troetet.de` | No |
+| `troetmund.de` | No |
 | `troettroet.de` | No |
 | `troidy.social` | Yes |
 | `troll-zeit.de` | No |
@@ -40828,7 +40829,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,242 |
-| Normal | 30,542 |
+| Normal | 30,543 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
