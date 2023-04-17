@@ -3322,6 +3322,7 @@ Do not create new issue or we will close it as duplicate.
 | [flushdgrollings@twitter](https://twitter.com/flushdgrollings/status/1380788675882049537) | advertise |
 | [flux_wiz@twitter](https://twitter.com/flux_wiz/status/1460077906772693002) | advertise |
 | [flyerfocus@twitter](https://twitter.com/flyerfocus/status/1382377771473670144) | advertise |
+| [flysquare0@twitter](https://twitter.com/flysquare0/status/1647821936871735296) | advertise |
 | [flythatdude001@twitter](https://twitter.com/flythatdude001/status/1520067790543065089) | advertise |
 | [fof15797974@twitter](https://twitter.com/fof15797974/status/1487706959914565632) | advertise |
 | [Foguzz_narak@twitter](https://twitter.com/Foguzz_narak/status/1405488230351347722) | advertise |
