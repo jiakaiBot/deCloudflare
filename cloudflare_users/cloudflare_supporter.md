@@ -2121,6 +2121,7 @@ Do not create new issue or we will close it as duplicate.
 | [christinahoffe2@twitter](https://twitter.com/christinahoffe2/status/1628544226924564485) | advertise |
 | [christng06@twitter](https://twitter.com/christng06/status/1558881333799030784) | advertise |
 | [Christo131204@twitter](https://twitter.com/Christo131204/status/1589055448598003712) | advertise |
+| [Christo55932411@twitter](https://twitter.com/Christo55932411/status/1648088410773688328) | advertise |
 | [christoc@twitter](https://twitter.com/christoc/status/1522446623518900225) | advertise |
 | [Christ_moe@twitter](https://twitter.com/Christ_moe/status/1390388000887017475) | advertise |
 | [ChrisUXD@twitter](https://twitter.com/ChrisUXD/status/1517824318658514945) | advertise |
@@ -5655,8 +5656,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
