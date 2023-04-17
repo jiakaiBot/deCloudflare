@@ -3071,6 +3071,7 @@ Do not create new issue or we will close it as duplicate.
 | [embedded_iot@twitter](https://twitter.com/embedded_iot/status/1480167905132228613) | advertise |
 | [EMChat_cloud@twitter](https://twitter.com/EMChat_cloud/status/1530900726561521666) | advertise |
 | [emdi_3@twitter](https://twitter.com/emdi_3/status/1571153701213184001) | advertise |
+| [emile_elliye@twitter](https://twitter.com/emile_elliye/status/1647860272143429634) | advertise |
 | [Emilian95935552@twitter](https://twitter.com/Emilian95935552/status/1625479540230201344) | advertise |
 | [Emily326696461@twitter](https://twitter.com/Emily326696461/status/1389534601618460673) | advertise |
 | [emlo40Official@twitter](https://twitter.com/emlo40Official/status/1423392503223439376) | advertise |
