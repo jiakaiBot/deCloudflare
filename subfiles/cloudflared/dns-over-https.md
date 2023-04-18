@@ -22,6 +22,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 52306.org | Yes |
 | 5ososea.com | Yes |
 | 68360612.xyz | Yes |
+| 7sec.com.br | Yes |
 | 7vpn.com | Yes |
 | 886886886.xyz | Yes |
 | 8888.google | No |
@@ -43,6 +44,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | alidns.com | No |
 | alloxr.info | No |
 | almir1904.eu | Yes |
+| alvosec.com | Yes |
 | ambiya.net | Yes |
 | amigo-mgn.ru | No |
 | amlegion.org | No |
@@ -395,8 +397,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 173 |
+| Cloudflare | 175 |
 | Normal | 203 |
 
 
-### 46% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
