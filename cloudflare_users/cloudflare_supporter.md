@@ -2261,8 +2261,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3155,6 +3155,7 @@ Do not create new issue or we will close it as duplicate.
 | [EugeneBos1@twitter](https://twitter.com/EugeneBos1/status/1505982810250952705) | advertise |
 | [eunhee24x8@twitter](https://twitter.com/eunhee24x8/status/1385261915807522816) | advertise |
 | [Euphori99287892@twitter](https://twitter.com/Euphori99287892/status/1404485406234759171) | advertise |
+| [EusXJgfmWOS4dgq@twitter](https://twitter.com/EusXJgfmWOS4dgq/status/1648164702424539138) | advertise |
 | [euxn23@twitter](https://twitter.com/euxn23/status/1630094336645017600) | advertise |
 | [EuzbiettaK@twitter](https://twitter.com/EuzbiettaK/status/1601331468000952320) | advertise |
 | [Evelynn81093224@twitter](https://twitter.com/Evelynn81093224/status/1391448970866667524) | advertise |
@@ -6117,6 +6118,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lastavicaaaa@twitter](https://twitter.com/Lastavicaaaa/status/1570320326684188672) | advertise |
 | [LasteventsSpace@twitter](https://twitter.com/LasteventsSpace/status/1550721607030968320) | advertise |
 | [LASXD2@twitter](https://twitter.com/LASXD2/status/1396425725666762752) | advertise |
+| [Lathiphuong999@twitter](https://twitter.com/Lathiphuong999/status/1648189972544110592) | advertise |
 | [latifckrgl@twitter](https://twitter.com/latifckrgl/status/1623329433703575553) | advertise |
 | [Latina65648589@twitter](https://twitter.com/Latina65648589/status/1379128051192107014) | advertise |
 | [latta1891@twitter](https://twitter.com/latta1891/status/1564662935049236482) | advertise |
@@ -10060,6 +10062,7 @@ Do not create new issue or we will close it as duplicate.
 | [septicloneduap1@twitter](https://twitter.com/septicloneduap1/status/1587472034212515840) | advertise |
 | [SERAJPUBG7@twitter](https://twitter.com/SERAJPUBG7/status/1606858784835502080) | advertise |
 | [Seraphino2021@twitter](https://twitter.com/Seraphino2021/status/1391001738505637893) | advertise |
+| [Serendpiti0_0@twitter](https://twitter.com/Serendpiti0_0/status/1648245907916480513) | advertise |
 | [SergioBruja@twitter](https://twitter.com/SergioBruja/status/1383807911781015563) | advertise |
 | [Seth12888249@twitter](https://twitter.com/Seth12888249/status/1391277120844873728) | advertise |
 | [SetPaimg@twitter](https://twitter.com/SetPaimg/status/1397474221425512450) | advertise |
@@ -10161,6 +10164,7 @@ Do not create new issue or we will close it as duplicate.
 | [SherifMKhattab1@twitter](https://twitter.com/SherifMKhattab1/status/1403105134972837893) | advertise |
 | [shhrwin@twitter](https://twitter.com/shhrwin/status/1380867620811857922) | advertise |
 | [Shimi061203@twitter](https://twitter.com/Shimi061203/status/1539426706880012288) | advertise |
+| [shimolak6163@twitter](https://twitter.com/shimolak6163/status/1648234319977017345) | advertise |
 | [Shin59257259@twitter](https://twitter.com/Shin59257259/status/1402899703218409476) | advertise |
 | [Shine06080277@twitter](https://twitter.com/Shine06080277/status/1394963875414659082) | advertise |
 | [Shine10367188@twitter](https://twitter.com/Shine10367188/status/1384378796732682241) | advertise |
@@ -10485,6 +10489,7 @@ Do not create new issue or we will close it as duplicate.
 | [SpeedReflexes@twitter](https://twitter.com/SpeedReflexes/status/1643654738313986049) | advertise |
 | [SpiderShibaInu@twitter](https://twitter.com/SpiderShibaInu/status/1634947789070405634) | advertise |
 | [SpideyPlays3@twitter](https://twitter.com/SpideyPlays3/status/1541471763024023553) | advertise |
+| [spidy3210@twitter](https://twitter.com/spidy3210/status/1648243785615429634) | advertise |
 | [Spidy92846158@twitter](https://twitter.com/Spidy92846158/status/1634902456105828352) | advertise |
 | [SpinDatReckhard@twitter](https://twitter.com/SpinDatReckhard/status/1403347991340228617) | advertise |
 | [SpiritoElMuerte@twitter](https://twitter.com/SpiritoElMuerte/status/1527695286545489920) | advertise |
