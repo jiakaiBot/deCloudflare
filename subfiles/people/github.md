@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [We need Reality to stay connected to the internet .](https://github.com/xcode75/XManagerPlus/issues/167)
 - [This integration do not seem to work with IDN domain names](https://github.com/home-assistant/core/issues/91632)
 - [Cloudflare typing for fetch inside worker](https://github.com/skymethod/denoflare/issues/50)
 - [Be able to browse_website protected by cloudflare](https://github.com/Significant-Gravitas/Auto-GPT/issues/2419)
