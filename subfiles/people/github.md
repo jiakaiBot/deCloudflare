@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Be able to browse_website protected by cloudflare](https://github.com/Significant-Gravitas/Auto-GPT/issues/2419)
+- [CloudFlare Elevated 5xx errors for API, impacting Firewall Rules](https://github.com/MatBenfield/news/issues/13018)
 - [This repo is no longer available](https://github.com/mzbac/chatgpt-plus-api-client/issues/42)
 - [聊天返回这个OpenAI 错误的网关 | Bad Gateway是什么原因？](https://github.com/Chanzhaoyu/chatgpt-web/issues/1517)
 - [I can send and receive email by webmail but can't send email by SMTP use python or any other programming code](https://github.com/Mailu/Mailu/issues/2779)
