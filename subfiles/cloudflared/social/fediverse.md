@@ -16580,6 +16580,7 @@ Here's a list of public Fediverse services.
 | `iwh12.jp` | No |
 | `iwolfking.xyz` | Yes |
 | `iworkinpixels.com` | No |
+| `ix.ai` | Yes |
 | `ix.is` | Yes |
 | `ix.md` | Yes |
 | `ixcat.fr` | No |
@@ -40838,7 +40839,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,251 |
+| Cloudflare | 10,252 |
 | Normal | 30,544 |
 
 
