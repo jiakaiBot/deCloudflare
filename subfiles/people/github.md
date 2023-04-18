@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [This integration do not seem to work with IDN domain names](https://github.com/home-assistant/core/issues/91632)
 - [Cloudflare typing for fetch inside worker](https://github.com/skymethod/denoflare/issues/50)
 - [Be able to browse_website protected by cloudflare](https://github.com/Significant-Gravitas/Auto-GPT/issues/2419)
 - [CloudFlare Elevated 5xx errors for API, impacting Firewall Rules](https://github.com/MatBenfield/news/issues/13018)
