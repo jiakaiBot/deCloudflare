@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,155 |
 | social | 3,944 |
-| net | 3,136 |
-| org | 2,170 |
+| net | 3,137 |
+| org | 2,171 |
 | de | 2,049 |
 
 
@@ -4717,6 +4717,7 @@ Here's a list of public Fediverse services.
 | `brimstor.me` | Yes |
 | `brined.fish` | Yes |
 | `bring.tw` | Yes |
+| `brinjal.org` | No |
 | `brioco.art` | No |
 | `brioco.net` | No |
 | `brioco.social` | No |
@@ -22806,6 +22807,7 @@ Here's a list of public Fediverse services.
 | `miri64.xyz` | No |
 | `miria.love` | No |
 | `mirial.jp` | No |
+| `mirial.jp.net` | Yes |
 | `mirko-schenk.de` | No |
 | `mirkwood.io` | No |
 | `miro-sv.net` | No |
@@ -40843,8 +40845,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,256 |
-| Normal | 30,544 |
+| Cloudflare | 10,257 |
+| Normal | 30,545 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
