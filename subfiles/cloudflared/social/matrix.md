@@ -57,7 +57,7 @@ Here's a list of public Matrix services.
 | exarius.org | No |
 | matrix.fachschaften.org | No |
 | feneas.org | No |
-| matrix.flieger.chat | No |
+| flieger.chat | No |
 | matrix.frei.chat | No |
 | matrix.freiburg.social | No |
 | freitrix.de | No |
