@@ -8335,6 +8335,7 @@ Do not create new issue or we will close it as duplicate.
 | [noor51489534@twitter](https://twitter.com/noor51489534/status/1405490093603893249) | advertise |
 | [NOPEACE07@twitter](https://twitter.com/NOPEACE07/status/1526259330458300417) | advertise |
 | [Nora05282397@twitter](https://twitter.com/Nora05282397/status/1390740645157900291) | advertise |
+| [norarini5@twitter](https://twitter.com/norarini5/status/1648338966079324163) | advertise |
 | [norhidayuzinon@twitter](https://twitter.com/norhidayuzinon/status/1385720279872253954) | advertise |
 | [normalisa2244@twitter](https://twitter.com/normalisa2244/status/1508101082907832322) | advertise |
 | [NoruzzamanNahid@twitter](https://twitter.com/NoruzzamanNahid/status/1588197771278192640) | advertise |
@@ -11831,6 +11832,7 @@ Do not create new issue or we will close it as duplicate.
 | [udng83676589@twitter](https://twitter.com/udng83676589/status/1388778273388195844) | advertise |
 | [UescaGroup@twitter](https://twitter.com/UescaGroup/status/1629521125095923713) | advertise |
 | [ufirz825732@twitter](https://twitter.com/ufirz825732/status/1396484531826221057) | advertise |
+| [ufosfootage@twitter](https://twitter.com/ufosfootage/status/1648340903004700677) | advertise |
 | [UHanHtet1@twitter](https://twitter.com/UHanHtet1/status/1396313963051298818) | advertise |
 | [UhteinCe@twitter](https://twitter.com/UhteinCe/status/1618254816119250945) | advertise |
 | [UHtike_@twitter](https://twitter.com/UHtike_/status/1390057336333426691) | advertise |
