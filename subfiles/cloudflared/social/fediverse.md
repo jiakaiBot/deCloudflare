@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,154 |
+| com | 6,155 |
 | social | 3,944 |
 | net | 3,136 |
 | org | 2,170 |
@@ -36468,6 +36468,7 @@ Here's a list of public Fediverse services.
 | `topping.services` | No |
 | `topslakr.com` | No |
 | `topspicy.social` | No |
+| `toptechtidbits.com` | No |
 | `topteeth.xyz` | No |
 | `toque.town` | No |
 | `torb.no` | Yes |
@@ -40836,7 +40837,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,250 |
-| Normal | 30,542 |
+| Normal | 30,543 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
