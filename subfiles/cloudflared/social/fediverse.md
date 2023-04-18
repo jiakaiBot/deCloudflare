@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,155 |
-| social | 3,944 |
+| com | 6,156 |
+| social | 3,945 |
 | net | 3,137 |
 | org | 2,171 |
 | de | 2,049 |
@@ -1212,6 +1212,7 @@ Here's a list of public Fediverse services.
 | `aitor-sama.es` | Yes |
 | `aitorpazos.es` | No |
 | `aix-en-provence.social` | No |
+| `aj.immo` | Yes |
 | `aj.ms` | Yes |
 | `ajacks.net` | Yes |
 | `ajaphotos.net` | No |
@@ -11136,6 +11137,7 @@ Here's a list of public Fediverse services.
 | `fedida.com` | Yes |
 | `fedidb.org` | Yes |
 | `fedidex.net` | Yes |
+| `fedieuropa.eu` | No |
 | `fedifence.social` | No |
 | `fedified.com` | Yes |
 | `fedifilm.art` | No |
@@ -12715,6 +12717,7 @@ Here's a list of public Fediverse services.
 | `galaxybrain.co` | No |
 | `galaxycrow.de` | Yes |
 | `galbo.io` | Yes |
+| `galegale.online` | No |
 | `galenabell.com` | No |
 | `galenzoski.com` | Yes |
 | `galileo.news` | No |
@@ -18322,6 +18325,7 @@ Here's a list of public Fediverse services.
 | `kjwon15.net` | Yes |
 | `kk4lpi.com` | No |
 | `kkdev.org` | Yes |
+| `kkms.ga` | No |
 | `kkoyung.dev` | Yes |
 | `kks36.be` | No |
 | `kksg.net` | No |
@@ -23472,6 +23476,7 @@ Here's a list of public Fediverse services.
 | `mountainash.id.au` | Yes |
 | `mountainbock.social` | No |
 | `mountaincloud.app` | No |
+| `mountaincloud.social` | No |
 | `mountaincommunity.co` | No |
 | `mountains.social` | No |
 | `mountaintop.social` | No |
@@ -31567,7 +31572,7 @@ Here's a list of public Fediverse services.
 | `scumaker.org` | Yes |
 | `scurry.io` | Yes |
 | `scutarasu.com` | No |
-| `scuttle.cloud` | No |
+| `scuttle.cloud` | Yes |
 | `scuttle.org` | Yes |
 | `scuttlebug.space` | Yes |
 | `scw.cloud` | No |
@@ -36417,6 +36422,7 @@ Here's a list of public Fediverse services.
 | `tootmin.network` | No |
 | `tootmusic.com` | Yes |
 | `tootn.social` | No |
+| `tootnet.com` | Yes |
 | `tootnet.nl` | No |
 | `tootnet.org` | Yes |
 | `tootodon.xyz` | Yes |
@@ -40845,8 +40851,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,257 |
-| Normal | 30,545 |
+| Cloudflare | 10,260 |
+| Normal | 30,548 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
