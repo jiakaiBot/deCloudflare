@@ -33413,6 +33413,7 @@ Here's a list of public Fediverse services.
 | `splain.club` | No |
 | `splat.social` | No |
 | `splat.soy` | No |
+| `splat00n.ink` | Yes |
 | `splatoon3.ink` | Yes |
 | `splats.club` | No |
 | `spliffito.com` | No |
@@ -34684,7 +34685,7 @@ Here's a list of public Fediverse services.
 | `talkedabout.social` | No |
 | `talker.to` | No |
 | `talking-hope.social` | No |
-| `talking.dev` | No |
+| `talking.dev` | Yes |
 | `talkingdrupal.social` | No |
 | `talkinghuman.com` | No |
 | `talkopol.is` | No |
@@ -40842,8 +40843,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,255 |
-| Normal | 30,544 |
+| Cloudflare | 10,257 |
+| Normal | 30,543 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
