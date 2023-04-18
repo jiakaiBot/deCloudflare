@@ -7691,7 +7691,7 @@ Here's a list of public Fediverse services.
 | `damnserver.com` | No |
 | `damnx.net` | Yes |
 | `damoclash.nl` | No |
-| `damogran.space` | Yes |
+| `damogran.space` | No |
 | `dampfdruck-presse.hu` | No |
 | `dampfkraft.com` | No |
 | `damron.social` | No |
@@ -19116,6 +19116,7 @@ Here's a list of public Fediverse services.
 | `landshut.social` | No |
 | `lanebuleuse.fr` | No |
 | `lang-mfr.de` | No |
+| `langberi.chat` | Yes |
 | `langet.one` | Yes |
 | `langfahrtsegeln.de` | No |
 | `langfamilie.de` | No |
@@ -33556,6 +33557,7 @@ Here's a list of public Fediverse services.
 | `srsly.lol` | No |
 | `srv.space` | No |
 | `srvr.dev` | Yes |
+| `srvr.run` | Yes |
 | `srweaver.com` | Yes |
 | `srxavi.me` | No |
 | `ss23.geek.nz` | No |
@@ -40836,8 +40838,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,250 |
-| Normal | 30,543 |
+| Cloudflare | 10,251 |
+| Normal | 30,544 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
