@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,155 |
 | social | 3,944 |
-| net | 3,137 |
+| net | 3,136 |
 | org | 2,170 |
 | de | 2,049 |
 
@@ -22806,7 +22806,6 @@ Here's a list of public Fediverse services.
 | `miri64.xyz` | No |
 | `miria.love` | No |
 | `mirial.jp` | No |
-| `mirial.jp.net` | Yes |
 | `mirko-schenk.de` | No |
 | `mirkwood.io` | No |
 | `miro-sv.net` | No |
@@ -23470,6 +23469,7 @@ Here's a list of public Fediverse services.
 | `mountain.exchange` | No |
 | `mountainash.id.au` | Yes |
 | `mountainbock.social` | No |
+| `mountaincloud.app` | No |
 | `mountaincommunity.co` | No |
 | `mountains.social` | No |
 | `mountaintop.social` | No |
@@ -40843,8 +40843,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,257 |
-| Normal | 30,543 |
+| Cloudflare | 10,256 |
+| Normal | 30,544 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
