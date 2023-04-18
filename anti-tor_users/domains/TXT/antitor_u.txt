@@ -1583,6 +1583,7 @@ click.mail.umr.com
 click.mail.usaexpose.com
 click.news.uhccommunityplan.com
 clients.urbantutorial.com
+cms-mgt.uat-culturalconcierge.sg
 cmumdm.unige.ch
 coinbase-com.amazon.upturnit.org
 coinbase.update-information-services.com
@@ -1606,6 +1607,7 @@ engage.ubersoho.com
 epstest.upmuruguay.com.uy
 fineassit.test.uni.ca
 fonts.ub-assets.com
+freaky.uber.space
 ftp.ufe.cz
 gateway11.unisecurepayment.com
 git.git.gitlab.gitlab.sitemaps.ukraine-battleforeurope.online
@@ -1613,6 +1615,7 @@ git.www.blog.www.wordpress.wallet.ulohas.tw
 gitlab.git.gitlab.gitlab.gitlab.git.b2b.uauopen.com
 gitlab.wp.wallet.ulohas.tw
 hao.uber.space
+hill.psych.uw.edu.pl
 hmueff.uber.space
 ibgate.mb.ukrgasbank.com
 idp.unibo.it
@@ -1683,6 +1686,7 @@ taxturbo-account.us-leadsets.com
 tdb.unedic.org
 temp303.unifilabs.com
 test-tool.utz.org
+testmef.onem2m.uplus.co.kr
 thrillist.updatemyprofile.com
 tms.uwayapply.com
 tpvvirtual-test.universalpay.es
@@ -1794,6 +1798,7 @@ unlocked-minds.org
 unlocker.ro
 unlockfrp.net
 unlockgood.com
+unlocking.uaprom.net
 unlockiphonefree.us
 unlockprivates.com
 unlockyoursim.com
@@ -1827,6 +1832,8 @@ upoil.com.sg
 uptlabjbg.com
 urbanautoservice.ro
 urbanbike.com
+urbanchase.nl
+urbancorner.ro
 urbanhippiegranola.com
 urbanlifestylesa.co.za
 urbanque.co.in
@@ -1912,6 +1919,7 @@ www.docomomoquebec.uqam.ca
 www.dropcraft.unlockteam.net
 www.esecure.utimatic.com
 www.euroautoservice.uitdeitp.ro
+www.flawlessautocare.unitedmarketinggroup.ca
 www.flt.userpsychology.com
 www.fns.usda.gov
 www.framengine.unikalservice.com
@@ -1984,10 +1992,12 @@ www.udgornal.es
 www.udot.utah.gov
 www.uenobeer.com
 www.uf-setubal.pt
+www.uhcougarmedics.org
 www.uitvaarthakder-login.nl
 www.uitzendportaal.nl
 www.uiv.co.nz
 www.uk-standard.com
+www.ukcredit.co.uk
 www.ukrailtours.com
 www.ukrainecompassion.com
 www.ukrainiandaycenter.com
