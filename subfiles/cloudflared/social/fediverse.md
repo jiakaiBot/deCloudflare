@@ -39479,6 +39479,7 @@ Here's a list of public Fediverse services.
 | `writefreely.dev` | No |
 | `writefreely.host` | No |
 | `writefreely.org` | No |
+| `writefreely.pl` | Yes |
 | `writefreely.social` | No |
 | `writehere.is` | No |
 | `writeout.ink` | No |
@@ -40841,7 +40842,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,254 |
+| Cloudflare | 10,255 |
 | Normal | 30,544 |
 
 
