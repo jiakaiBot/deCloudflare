@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,153 |
 | social | 3,944 |
-| net | 3,135 |
+| net | 3,136 |
 | org | 2,170 |
 | de | 2,049 |
 
@@ -1824,6 +1824,7 @@ Here's a list of public Fediverse services.
 | `andrewmichaud.com` | No |
 | `andrews.me` | Yes |
 | `andrewstaylor.com` | Yes |
+| `andrewwelch.net` | Yes |
 | `andri.dk` | Yes |
 | `andrich.me` | No |
 | `andrii.is` | No |
@@ -40833,7 +40834,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,246 |
+| Cloudflare | 10,247 |
 | Normal | 30,544 |
 
 
