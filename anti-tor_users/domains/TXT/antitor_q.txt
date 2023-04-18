@@ -325,6 +325,7 @@ youtrack.quicksearch.se
 academia.qam.pt
 adrentbot.quantick.ru
 adroitdi.dev.sdfe.quantori.com
+api.quantumtec.eu
 api.quicksign.fr
 api.quinteft.com
 api.qujam.com
@@ -397,6 +398,7 @@ qsafe.com.qa
 qsep.com
 quality-containers.com
 qualityelectricallines.net
+qualityproductsforyou.online
 qualitysafety.org
 quangtanhoa.com
 quantumai.google
@@ -426,6 +428,7 @@ services.qtc.co.th
 shopkonzept.quikfox-lab.com
 sl2-api-staging.qrioinc.com
 soytest.quarissoluciones.com
+sso.quarks.pro
 starsona-dev.qburst.build
 test.qaftk.kr
 vpn.qehkl.nhs.uk
