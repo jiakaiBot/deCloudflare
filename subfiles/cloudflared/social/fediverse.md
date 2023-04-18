@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,153 |
+| com | 6,154 |
 | social | 3,944 |
 | net | 3,136 |
 | org | 2,170 |
@@ -24787,6 +24787,7 @@ Here's a list of public Fediverse services.
 | `netmonkey.site` | No |
 | `netmonkey.xyz` | No |
 | `netmynd.org` | Yes |
+| `neto1.com` | Yes |
 | `netooze.com` | Yes |
 | `netou.info` | No |
 | `netplusw.com` | No |
@@ -32118,7 +32119,7 @@ Here's a list of public Fediverse services.
 | `shitpost.school` | Yes |
 | `shitpost.site` | No |
 | `shitpostbot.com` | No |
-| `shitposte.rs` | No |
+| `shitposte.rs` | Yes |
 | `shitposted.today` | No |
 | `shitposter.club` | No |
 | `shitposting.army` | Yes |
@@ -36370,7 +36371,7 @@ Here's a list of public Fediverse services.
 | `tootbook.com` | No |
 | `tootbot.org` | No |
 | `tootbot.social` | No |
-| `tootchute.com` | No |
+| `tootchute.com` | Yes |
 | `tootcn.com` | No |
 | `toote.rs` | No |
 | `tooted.ca` | No |
@@ -40834,8 +40835,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,247 |
-| Normal | 30,544 |
+| Cloudflare | 10,250 |
+| Normal | 30,542 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
