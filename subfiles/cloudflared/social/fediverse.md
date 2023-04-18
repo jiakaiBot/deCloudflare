@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,155 |
 | social | 3,944 |
-| net | 3,136 |
+| net | 3,137 |
 | org | 2,170 |
 | de | 2,049 |
 
@@ -22806,6 +22806,7 @@ Here's a list of public Fediverse services.
 | `miri64.xyz` | No |
 | `miria.love` | No |
 | `mirial.jp` | No |
+| `mirial.jp.net` | Yes |
 | `mirko-schenk.de` | No |
 | `mirkwood.io` | No |
 | `miro-sv.net` | No |
@@ -29735,6 +29736,7 @@ Here's a list of public Fediverse services.
 | `reapers.de` | No |
 | `reasonable.world` | No |
 | `reaves.dev` | No |
+| `reax.work` | Yes |
 | `rebased.io` | Yes |
 | `rebased.network` | Yes |
 | `rebased.social` | Yes |
@@ -40839,7 +40841,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,252 |
+| Cloudflare | 10,254 |
 | Normal | 30,544 |
 
 
