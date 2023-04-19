@@ -13501,7 +13501,7 @@ Here's a list of public Fediverse services.
 | `gnusocial.club` | No |
 | `gnusocial.de` | No |
 | `gnusocial.in` | No |
-| `gnusocial.jp` | No |
+| `gnusocial.jp` | Yes |
 | `gnusocial.li` | No |
 | `gnusocial.me` | No |
 | `gnusocial.ml` | No |
@@ -34715,6 +34715,7 @@ Here's a list of public Fediverse services.
 | `talkingdrupal.social` | No |
 | `talkinghuman.com` | No |
 | `talkopol.is` | No |
+| `talkoverflow.dev` | No |
 | `talkparanormal.social` | No |
 | `talkplus.org` | No |
 | `talkr.online` | No |
@@ -40876,7 +40877,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,267 |
+| Cloudflare | 10,268 |
 | Normal | 30,566 |
 
 
