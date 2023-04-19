@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Decentraland RPC does not work with WalletConnectV2](https://github.com/decentraland/decentraland-connect/issues/51)
 - [Error: Cloudflare Turnstile Nothing to reset found for provided container.](https://github.com/we-race-here/wrh-organization/issues/361)
 - [Error: Cloudflare Turnstile Nothing to reset found for provided container.](https://github.com/we-race-here/wrh-organization/issues/360)
 - [File "<frozen runpy>", line 198, in _run_module_as_main](https://github.com/Significant-Gravitas/Auto-GPT/issues/2551)
