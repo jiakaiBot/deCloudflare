@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Remote WebRTC not working with Ngrok](https://github.com/AlexxIT/go2rtc/issues/367)
+- [CI: ci-datapath client-egress-to-cidr-deny/pod-to-cidr/cloudflare-1111-1 failed](https://github.com/cilium/cilium/issues/24965)
 - [We need Reality to stay connected to the internet .](https://github.com/xcode75/XManagerPlus/issues/167)
 - [This integration do not seem to work with IDN domain names](https://github.com/home-assistant/core/issues/91632)
 - [Cloudflare typing for fetch inside worker](https://github.com/skymethod/denoflare/issues/50)
