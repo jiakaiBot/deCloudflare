@@ -3055,7 +3055,6 @@ Here's a list of public Fediverse services.
 | `backpacklife.social` | No |
 | `backpawn.com` | No |
 | `backroad.city` | No |
-| `backspace.fm` | No |
 | `backtick.town` | No |
 | `backtoroot.xyz` | No |
 | `backyard.cloud` | No |
@@ -40873,7 +40872,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,265 |
-| Normal | 30,564 |
+| Normal | 30,563 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
