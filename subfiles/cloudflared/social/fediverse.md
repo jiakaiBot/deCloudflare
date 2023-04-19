@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,159 |
-| social | 3,945 |
+| social | 3,946 |
 | net | 3,139 |
 | org | 2,171 |
 | de | 2,051 |
@@ -6917,6 +6917,7 @@ Here's a list of public Fediverse services.
 | `coy.soy` | No |
 | `coyote.name` | No |
 | `coyote.social` | No |
+| `coyotecrimes.dog` | Yes |
 | `coyotelot.us` | No |
 | `coyotesin.space` | Yes |
 | `coyotetracks.org` | No |
@@ -17882,6 +17883,7 @@ Here's a list of public Fediverse services.
 | `kb3lyb.com` | Yes |
 | `kbec.dev` | No |
 | `kbin.pub` | Yes |
+| `kbin.social` | Yes |
 | `kbrice.blog` | No |
 | `kc4kqe.org` | Yes |
 | `kc8jc.com` | No |
@@ -20522,7 +20524,7 @@ Here's a list of public Fediverse services.
 | `lunareclip.se` | No |
 | `lunarloony.co.uk` | No |
 | `lunarpunk.social` | No |
-| `lunarpunk.space` | No |
+| `lunarpunk.space` | Yes |
 | `lunarstar.net` | No |
 | `lunarviews.net` | No |
 | `lunaryorn.com` | No |
@@ -40866,8 +40868,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,260 |
-| Normal | 30,563 |
+| Cloudflare | 10,263 |
+| Normal | 30,562 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
