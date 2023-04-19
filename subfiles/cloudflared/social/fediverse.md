@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,159 |
-| social | 3,946 |
+| social | 3,948 |
 | net | 3,140 |
-| org | 2,171 |
+| org | 2,172 |
 | de | 2,051 |
 
 
@@ -3782,6 +3782,7 @@ Here's a list of public Fediverse services.
 | `bigpenis.life` | No |
 | `bigpod.eu` | No |
 | `bigpod.si` | Yes |
+| `bigrelay.social` | Yes |
 | `bigshoulders.city` | No |
 | `bigskymastodon.com` | Yes |
 | `bigtastybacon.tk` | No |
@@ -10745,6 +10746,7 @@ Here's a list of public Fediverse services.
 | `f2a.io` | No |
 | `f40c40.com` | No |
 | `f4255529.fun` | Yes |
+| `f4255529.shop` | Yes |
 | `f4clo.fr` | No |
 | `f4grx.net` | No |
 | `f4n.de` | No |
@@ -27971,6 +27973,7 @@ Here's a list of public Fediverse services.
 | `pixodes.com` | No |
 | `pixopat.social` | No |
 | `pixp.cc` | No |
+| `pixquest.org` | No |
 | `pixtagram.social` | No |
 | `pixxaddict.social` | No |
 | `pizzadog.moe` | No |
@@ -40053,6 +40056,7 @@ Here's a list of public Fediverse services.
 | `yamakusa.net` | Yes |
 | `yamanote.tokyo.jp` | No |
 | `yamaoka-takeshi.xyz` | No |
+| `yamashita.social` | No |
 | `yamast.com` | No |
 | `yamastodon.com` | No |
 | `yamastodon.jp` | No |
@@ -40872,8 +40876,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,265 |
-| Normal | 30,564 |
+| Cloudflare | 10,267 |
+| Normal | 30,566 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
