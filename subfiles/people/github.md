@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: Cloudflare Turnstile Nothing to reset found for provided container.](https://github.com/we-race-here/wrh-organization/issues/361)
+- [Error: Cloudflare Turnstile Nothing to reset found for provided container.](https://github.com/we-race-here/wrh-organization/issues/360)
 - [File "<frozen runpy>", line 198, in _run_module_as_main](https://github.com/Significant-Gravitas/Auto-GPT/issues/2551)
 - [2-way audio link not present in webui](https://github.com/AlexxIT/go2rtc/issues/370)
 - [Cloudflare not working with gRPC](https://github.com/purton-tech/skytrace/issues/12)
