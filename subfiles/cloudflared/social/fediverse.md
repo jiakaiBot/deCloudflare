@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,156 |
+| com | 6,157 |
 | social | 3,945 |
 | net | 3,137 |
 | org | 2,171 |
@@ -19096,6 +19096,7 @@ Here's a list of public Fediverse services.
 | `lambdon.social` | No |
 | `lambertz.xyz` | No |
 | `lambethmedia.xyz` | No |
+| `lambright.com` | No |
 | `lambton.social` | No |
 | `lameazoid.com` | Yes |
 | `lameni.tk` | No |
@@ -30972,7 +30973,7 @@ Here's a list of public Fediverse services.
 | `sagt.xyz` | No |
 | `sahagyo.com` | No |
 | `sahilister.in` | No |
-| `saibo.world` | Yes |
+| `saibo.world` | No |
 | `saibou.work` | No |
 | `said.social` | No |
 | `saidon.online` | No |
@@ -40851,8 +40852,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,260 |
-| Normal | 30,548 |
+| Cloudflare | 10,259 |
+| Normal | 30,550 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
