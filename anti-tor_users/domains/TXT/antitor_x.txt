@@ -331,6 +331,7 @@ bidagent.xad.com
 captcha.xcount.io
 checkout.xpay.by
 client.xdigital.fun
+cmwssbindust.xenovex.com
 contao.xn--brnings-o2a.de
 cpanel.xn--gogl-8oa1d.com
 cpcalendars.xperttechnology.pk
@@ -468,6 +469,7 @@ xoslotzgame.com
 xoticstudios.pro
 xpandit.co.za
 xplodenutrition.nl
+xpnfest.org
 xpresswideservicedelivery.com
 xprezzkool.com
 xspaceradio.com
