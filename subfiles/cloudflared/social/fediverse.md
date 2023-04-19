@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,157 |
+| com | 6,159 |
 | social | 3,945 |
-| net | 3,137 |
+| net | 3,138 |
 | org | 2,171 |
-| de | 2,049 |
+| de | 2,050 |
 
 
 - Mastodon, Pleroma, etc
@@ -2777,6 +2777,7 @@ Here's a list of public Fediverse services.
 | `autistic.blog` | No |
 | `autisticgoblin.ca` | No |
 | `autistics.life` | No |
+| `autisticwriter.com` | No |
 | `autizmo.xyz` | No |
 | `auto.coffee` | No |
 | `autogestion.org` | No |
@@ -4627,6 +4628,7 @@ Here's a list of public Fediverse services.
 | `brapbarn.farm` | Yes |
 | `brash.social` | No |
 | `brasileiros.social` | Yes |
+| `brass.host` | Yes |
 | `bratpfannenberg.com` | No |
 | `braunschweig.social` | No |
 | `brave.cafe` | No |
@@ -5005,6 +5007,7 @@ Here's a list of public Fediverse services.
 | `bx23.net` | Yes |
 | `bxl.social` | No |
 | `by.tc` | No |
+| `by8.space` | Yes |
 | `byabbe.se` | Yes |
 | `bycreyo.de` | No |
 | `bye.social` | Yes |
@@ -12214,6 +12217,8 @@ Here's a list of public Fediverse services.
 | `fricklers.org` | No |
 | `frictionless.contact` | No |
 | `friday.computer` | No |
+| `fridayeveningstories.com` | No |
+| `fridayeveningstories.de` | No |
 | `fridaysforfuturefvg.it` | No |
 | `friedbumblebees.com` | No |
 | `friede.cc` | No |
@@ -12482,7 +12487,6 @@ Here's a list of public Fediverse services.
 | `funnymonkey.com` | No |
 | `funposters.club` | Yes |
 | `funs.vn` | Yes |
-| `funsahara.net` | No |
 | `fuo.fi` | Yes |
 | `fur.city` | No |
 | `fur.cl` | Yes |
@@ -28930,6 +28934,7 @@ Here's a list of public Fediverse services.
 | `pupu.moe` | Yes |
 | `pupy.cafe` | No |
 | `pure-isp.eu` | Yes |
+| `pureharvest.net` | No |
 | `purelove.icu` | No |
 | `purengom.kr` | Yes |
 | `purexo.mom` | No |
@@ -30798,6 +30803,7 @@ Here's a list of public Fediverse services.
 | `ruz.social` | No |
 | `ruzik.xyz` | No |
 | `rv.social` | No |
+| `rva.fyi` | No |
 | `rva.party` | No |
 | `rvagc.social` | No |
 | `rvalgbt.xyz` | Yes |
@@ -38318,7 +38324,7 @@ Here's a list of public Fediverse services.
 | `voiceandexit.me` | No |
 | `voicenet.ch` | No |
 | `voicenews.icu` | No |
-| `voiceofcomputer.xyz` | Yes |
+| `voiceofcomputer.xyz` | No |
 | `voiceover.actor` | No |
 | `voiceover.bar` | No |
 | `voicesintheshade.com` | No |
@@ -40586,6 +40592,7 @@ Here's a list of public Fediverse services.
 | `zerocial.com` | No |
 | `zerodayfri.day` | Yes |
 | `zeroes.ca` | Yes |
+| `zeroflag.net` | No |
 | `zerohack.xyz` | No |
 | `zerojanvier.fr` | No |
 | `zerojay.com` | No |
@@ -40852,8 +40859,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,259 |
-| Normal | 30,550 |
+| Cloudflare | 10,260 |
+| Normal | 30,556 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
