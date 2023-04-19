@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [2-way audio link not present in webui](https://github.com/AlexxIT/go2rtc/issues/370)
 - [Cloudflare not working with gRPC](https://github.com/purton-tech/skytrace/issues/12)
 - [Remote WebRTC not working with Ngrok](https://github.com/AlexxIT/go2rtc/issues/367)
 - [CI: ci-datapath client-egress-to-cidr-deny/pod-to-cidr/cloudflare-1111-1 failed](https://github.com/cilium/cilium/issues/24965)
