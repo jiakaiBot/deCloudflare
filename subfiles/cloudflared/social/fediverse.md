@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,945 |
 | net | 3,138 |
 | org | 2,171 |
-| de | 2,050 |
+| de | 2,051 |
 
 
 - Mastodon, Pleroma, etc
@@ -12985,6 +12985,7 @@ Here's a list of public Fediverse services.
 | `geekmodedad.com` | No |
 | `geekmynerdup.com` | No |
 | `geeknews.chat` | No |
+| `geeknews.de` | No |
 | `geekodon.org` | Yes |
 | `geekonweb.fr` | No |
 | `geekprojects.com` | No |
@@ -40860,7 +40861,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,260 |
-| Normal | 30,556 |
+| Normal | 30,557 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
