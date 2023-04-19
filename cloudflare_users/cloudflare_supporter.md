@@ -9728,6 +9728,7 @@ Do not create new issue or we will close it as duplicate.
 | [ryder8155cw@twitter](https://twitter.com/ryder8155cw/status/1397635504556937218) | advertise |
 | [RyderCragie@twitter](https://twitter.com/RyderCragie/status/1633235146055770114) | advertise |
 | [RyduTempesta@twitter](https://twitter.com/RyduTempesta/status/1498907656458686470) | advertise |
+| [rymtechTCO@twitter](https://twitter.com/rymtechTCO/status/1648817405261488128) | advertise |
 | [RyunosukeHaruki@twitter](https://twitter.com/RyunosukeHaruki/status/1390218243734835206) | advertise |
 | [ryuuji_58@twitter](https://twitter.com/ryuuji_58/status/1379328982147997699) | advertise |
 | [RyzhkovIlia@twitter](https://twitter.com/RyzhkovIlia/status/1465766519963631619) | advertise |
@@ -11089,8 +11090,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
