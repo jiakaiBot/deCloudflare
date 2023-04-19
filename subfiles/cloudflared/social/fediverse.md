@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,159 |
 | social | 3,946 |
-| net | 3,139 |
+| net | 3,140 |
 | org | 2,171 |
 | de | 2,051 |
 
@@ -3055,6 +3055,7 @@ Here's a list of public Fediverse services.
 | `backpacklife.social` | No |
 | `backpawn.com` | No |
 | `backroad.city` | No |
+| `backspace.fm` | No |
 | `backtick.town` | No |
 | `backtoroot.xyz` | No |
 | `backyard.cloud` | No |
@@ -6545,7 +6546,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -20192,6 +20193,7 @@ Here's a list of public Fediverse services.
 | `lolisandstuff.moe` | No |
 | `lolison.network` | No |
 | `lolison.top` | No |
+| `lolitube.moe` | Yes |
 | `loliverse.xyz` | No |
 | `loliwife.xyz` | No |
 | `lollipopcloud.solutions` | Yes |
@@ -21749,6 +21751,7 @@ Here's a list of public Fediverse services.
 | `mastodos.com` | No |
 | `mastodosukoi.net` | No |
 | `mastodutchservers.com` | Yes |
+| `mastoeuropa.eu` | No |
 | `mastofant.de` | No |
 | `mastofeeder.com` | Yes |
 | `mastoflute.social` | Yes |
@@ -40256,6 +40259,7 @@ Here's a list of public Fediverse services.
 | `yoshimov.info` | No |
 | `yostme.com` | Yes |
 | `yotie.blue` | No |
+| `yotimu.net` | No |
 | `yotsuba.work` | No |
 | `yottabits.com` | No |
 | `youarewrong.org` | No |
@@ -40868,8 +40872,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,263 |
-| Normal | 30,562 |
+| Cloudflare | 10,265 |
+| Normal | 30,564 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
