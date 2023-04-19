@@ -604,6 +604,7 @@ zzzsmz.xyz
 absidion.ji.zh.ch
 adcs.zopian.net
 adfs.infrastructure.zopa.com
+adpusalogin.zyns.com
 afspraken.zeewolde.nl
 alaan-test.zulayka.com
 alert.zoostore.pro
@@ -639,6 +640,7 @@ controlcenter.zenimpact.io
 corsoitaliano.zedlemon.com
 cs.zakupki.gov.kg
 dev.zivileingeneure.eu
+devsupport.zmichael.net
 discord.notifications.prod.k8services.zenno.io
 dziennik-vulcan.zsms.zgora.pl
 edi-api.zerionlabs.com
@@ -718,10 +720,12 @@ www.account.zafaresources.com
 www.accounting.zedwa.za.net
 www.adesso.com.hr.zaklada-nora-situm.com
 www.asso-cipitc.z179214-x51cc.s01.zwphosting.com
+www.autoservicio.zeusgymec.com
 www.backup.zempirestore.com
 www.bossmoney.zedafrica.com
 www.corsoitaliano.zedlemon.com
 www.customerpontar.zahradev.com
+www.devsupport.zmichael.net
 www.foldingupdate.zzux.com
 www.nordicsafety.zaru.ro
 www.papinkapost.zonabangsa.com
@@ -842,6 +846,7 @@ zksync-mainnet.us
 zksync.at
 zlvv.net
 zmdownload-accl.zoho.com
+zmzzfdslkjkc111.com
 znitro.com
 zodiac-nft.xyz
 zoig.com
@@ -855,6 +860,7 @@ zozo.jp
 zpgroup.co.nz
 zpmooneuti.uno
 zpost.no
+zrx.app
 zschultz.com
 zuber-gloor.ch
 zurcherarquitectos.com
