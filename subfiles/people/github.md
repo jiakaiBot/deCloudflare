@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ECS task fails to start due to SSM error](https://github.com/terraform-aws-modules/terraform-aws-atlantis/issues/341)
+- [site access; SSL certificate error](https://github.com/matplotlib/matplotlib/issues/25731)
 - [Add cloudflare Let's Encrypt Certificate](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2842)
 - [🐞 Error when following the getting started guide](https://github.com/BuilderIO/qwik/issues/3842)
 - [Decentraland RPC does not work with WalletConnectV2](https://github.com/decentraland/decentraland-connect/issues/51)
