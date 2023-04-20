@@ -7058,7 +7058,7 @@ Here's a list of public Fediverse services.
 | `criminallycute.stream` | No |
 | `crimp.social` | No |
 | `crimsonfae.net` | No |
-| `crimsson.com` | Yes |
+| `crimsson.com` | No |
 | `cringe.cafe` | No |
 | `crinklefur.club` | No |
 | `cripplepunk.club` | No |
@@ -11146,7 +11146,7 @@ Here's a list of public Fediverse services.
 | `fedidb.org` | Yes |
 | `fedidex.net` | Yes |
 | `fedieuropa.eu` | No |
-| `fedifeed.net` | No |
+| `fedifeed.net` | Yes |
 | `fedifence.social` | No |
 | `fedified.com` | Yes |
 | `fedifilm.art` | No |
@@ -18117,6 +18117,7 @@ Here's a list of public Fediverse services.
 | `khsmty.com` | Yes |
 | `khushrajrathod.com` | Yes |
 | `kianting.info` | No |
+| `kiarc.win` | Yes |
 | `kiasyn.com` | Yes |
 | `kiber-ogur4ik.space` | Yes |
 | `kibertonija.in` | No |
@@ -40881,7 +40882,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,268 |
+| Cloudflare | 10,269 |
 | Normal | 30,570 |
 
 
