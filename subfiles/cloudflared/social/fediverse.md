@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,162 |
 | social | 3,951 |
-| net | 3,141 |
+| net | 3,142 |
 | org | 2,174 |
 | de | 2,052 |
 
@@ -8411,6 +8411,7 @@ Here's a list of public Fediverse services.
 | `dessert.coffee` | No |
 | `destituent.social` | Yes |
 | `destrocodpiece.wtf` | No |
+| `destroyallmachines.net` | No |
 | `destructatron.net` | No |
 | `destruktive.one` | No |
 | `desttinghim.name` | No |
@@ -28542,7 +28543,7 @@ Here's a list of public Fediverse services.
 | `powerlot.net` | No |
 | `powersrv.de` | No |
 | `powerweb.io` | No |
-| `poya.icu` | Yes |
+| `poya.icu` | No |
 | `poyo.me` | No |
 | `poyusbuddy.com` | Yes |
 | `pp.lu` | No |
@@ -40899,8 +40900,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,273 |
-| Normal | 30,583 |
+| Cloudflare | 10,272 |
+| Normal | 30,585 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
