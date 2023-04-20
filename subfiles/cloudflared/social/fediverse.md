@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,161 |
+| com | 6,162 |
 | social | 3,951 |
 | net | 3,141 |
 | org | 2,174 |
@@ -26826,6 +26826,7 @@ Here's a list of public Fediverse services.
 | `ourvillage.news` | Yes |
 | `ourvillage.social` | Yes |
 | `ourwebgrove.com` | No |
+| `ous-unofficial-social.com` | No |
 | `outadoc.fr` | No |
 | `outaouais.club` | No |
 | `outdoorenthusiasts.space` | No |
@@ -40895,7 +40896,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,271 |
-| Normal | 30,580 |
+| Normal | 30,581 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
