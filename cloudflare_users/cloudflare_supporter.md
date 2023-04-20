@@ -2263,8 +2263,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -8024,6 +8024,7 @@ Do not create new issue or we will close it as duplicate.
 | [ngquyn54528746@twitter](https://twitter.com/ngquyn54528746/status/1401564893061423107) | advertise |
 | [NgThL12256552@twitter](https://twitter.com/NgThL12256552/status/1401781008962256900) | advertise |
 | [ngThng40292776@twitter](https://twitter.com/ngThng40292776/status/1403367249797292041) | advertise |
+| [ngTriu03346680@twitter](https://twitter.com/ngTriu03346680/status/1648979643515678720) | advertise |
 | [ngu08847288@twitter](https://twitter.com/ngu08847288/status/1491035728742318083) | advertise |
 | [ngu60217140@twitter](https://twitter.com/ngu60217140/status/1548887446649466880) | advertise |
 | [ngu70789035@twitter](https://twitter.com/ngu70789035/status/1603091179309912064) | advertise |
@@ -8319,6 +8320,7 @@ Do not create new issue or we will close it as duplicate.
 | [nobitacute1234@twitter](https://twitter.com/nobitacute1234/status/1401232376559067144) | advertise |
 | [NoblexOffical@twitter](https://twitter.com/NoblexOffical/status/1537476973332729858) | advertise |
 | [nobodywhoknowme@twitter](https://twitter.com/nobodywhoknowme/status/1602666704118480897) | advertise |
+| [NOCHANCECUNT@twitter](https://twitter.com/NOCHANCECUNT/status/1648976984280637440) | advertise |
 | [NodeXite@twitter](https://twitter.com/NodeXite/status/1560295516268679172) | advertise |
 | [noe28956578@twitter](https://twitter.com/noe28956578/status/1391961386540945410) | advertise |
 | [Noe67713062@twitter](https://twitter.com/Noe67713062/status/1391467359727067137) | advertise |
