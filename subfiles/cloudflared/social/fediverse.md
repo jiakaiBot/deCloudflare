@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,159 |
-| social | 3,948 |
+| social | 3,950 |
 | net | 3,141 |
 | org | 2,173 |
 | de | 2,051 |
@@ -2845,6 +2845,7 @@ Here's a list of public Fediverse services.
 | `avocados.ovh` | No |
 | `avoel.de` | No |
 | `avoh.club` | No |
+| `avpd.social` | No |
 | `avtobiografia.com` | Yes |
 | `avtweeps.social` | No |
 | `awa.im` | Yes |
@@ -3681,7 +3682,6 @@ Here's a list of public Fediverse services.
 | `beyblader.top` | No |
 | `beyermatthias.de` | No |
 | `beyleyisnot.moe` | Yes |
-| `beyond-here.com` | No |
 | `beyond.codes` | No |
 | `beyondgender.social` | No |
 | `beyondhorizons.eu` | No |
@@ -33196,6 +33196,7 @@ Here's a list of public Fediverse services.
 | `sophy.life` | Yes |
 | `sopuli.xyz` | No |
 | `sora.pub` | No |
+| `soraneto.com` | No |
 | `soranews24.com` | No |
 | `sorasaki-ct.uk` | Yes |
 | `sorbit.no` | No |
@@ -35418,6 +35419,7 @@ Here's a list of public Fediverse services.
 | `thecolouroutof.space` | No |
 | `thecommandline.social` | No |
 | `thecommotion.social` | No |
+| `thecomplex.social` | Yes |
 | `theconley.club` | No |
 | `theconsciousness.club` | Yes |
 | `theconservativetreehouse.com` | Yes |
@@ -40882,8 +40884,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,269 |
-| Normal | 30,570 |
+| Cloudflare | 10,270 |
+| Normal | 30,571 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
