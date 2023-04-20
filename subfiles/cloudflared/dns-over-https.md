@@ -15,7 +15,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | --- | --- |
 | 00dani.me | No |
 | 0ooo.icu | Yes |
-| 1899.com.mx | Yes |
 | 240130034.xyz | Yes |
 | 280blocker.net | Yes |
 | 360.cn | No |
@@ -76,7 +75,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | boje8.me | Yes |
 | bosco.ovh | No |
 | brahma.world | Yes |
-| brian-hong.tech | No |
 | c-dns.com | No |
 | carson-family.com | Yes |
 | cbio.top | Yes |
@@ -196,7 +194,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | in-berlin.de | No |
 | indust.me | Yes |
 | inria.fr | No |
-| intertop.link | Yes |
 | invisv.com | No |
 | ipv6dns.com | No |
 | irre.li | No |
@@ -308,7 +305,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | qwer.pw | Yes |
 | r0cket.net | No |
 | r1bnc.com | Yes |
-| rabmoor.cz | No |
 | rafn.is | No |
 | rayneau.fr | No |
 | reckoningslug.name | Yes |
@@ -397,8 +393,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 175 |
-| Normal | 203 |
+| Cloudflare | 173 |
+| Normal | 201 |
 
 
 ### 46.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
