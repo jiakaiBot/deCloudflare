@@ -80,6 +80,7 @@ Here's a list of public Matrix services.
 | matrix.libreon.fr | No |
 | matrix.llamarific.social | No |
 | lugnsk.org | No |
+| mailstation.de | No |
 | matrix.im | No |
 | matrix.org | Yes |
 | synapse.miruku.cafe | Yes |
@@ -127,7 +128,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 21 |
-| Normal | 78 |
+| Normal | 79 |
 
 
-### 21.2% of public Matrix services are using Cloudflare.
+### 21% of public Matrix services are using Cloudflare.
