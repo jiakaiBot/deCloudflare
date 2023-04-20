@@ -2743,7 +2743,6 @@ www.ishop-swiss.com
 www.isikpenyapi.com
 www.islandia24.com
 www.islandpacket.com
-www.ismywiferight.com
 www.iso20022.org
 www.iss-apple-star.ch
 www.issacharfund.com
@@ -2880,6 +2879,7 @@ zh.initialcredit2u.com
 zoom.italt.co.th
 zxc-oiu-jh-gfd.infura-ipfs.io
 100017292.recs.igodigital.com
+1362444.recs.igodigital.com
 2021.indonesiaindustryoutlook.com
 2023.isecoeco.org
 780ne119stbiscaynepark.intreasso.org
@@ -2898,6 +2898,7 @@ adfs.ihs.gov
 adfs.ipfdigital.net
 admin.ingpricetool.nl
 admin.intellectseeccloud.com
+admin.ivista.ch
 adminapi.insprint77.inflowdevelop.com
 ads.icloseli.com
 ads.iosappsworld.com
@@ -2908,6 +2909,7 @@ agro-mfevalidacaoautomatica-dev.cloud.itau.com.br
 alecfourieattorneys.invoicedynamics.co.za
 aliquotas-dev.cloud.itau.com.br
 amrum.insel-leben.de
+antispam.immediate-edge.one
 api-parceiros.intersector.com.br
 api-test.interhyp.de
 api.ifphk.org
@@ -2968,6 +2970,7 @@ avito.sberbank.avito.avito.avito.www.covid19.instamolodec.site
 avito.sberbank.avito.sber.avito.sber.covid19.integraosteo.com
 avito.sberbank.sber.avito.www.avito.covid19.intertrade-msk.ru
 avito.sberbank.sber.sber.sber.www.covid19.illumistudio.com
+avito.www.avito.sberbank.sber.covid19.integraosteo.com
 awx.it-fivetran.com
 backup.idavinci.digital
 banque.isadd-ong.org
@@ -3019,6 +3022,7 @@ cintas.infoport.net
 click.info-gereso.fr
 click.mail.ifm.com
 click.mail.infobase.com
+click.news.innovattoreport.com
 click.your.imperiuminvestings.com
 client-preprod.iotor.io
 client.iebetanialaargentina.edu.co
@@ -3031,11 +3035,13 @@ clients.interten.gr
 cloud.index-lab.jp
 cloudfrontorchestrator-hom.cloud.itau.com.br
 cloudfrontportal-dev.cloud.itau.com.br
+cloudkiosk.clientdemo.itprojecthouse.com
 cloudprintapi.insprint77.inflowdevelop.com
 club.informatix.co.jp
 config-backup.inducio-services.net
 congreso.gegcolonia.itu.edu.uy
 connectonline.indusind.com
+consoledevoz-bff-dev.cloud.itau.com.br
 consultar-margem-consignado-dev.cloud.itau.com.br
 consultar-margem-consignado-hom.cloud.itau.com.br
 container-57105452.jpt.irangpu.com
@@ -3144,6 +3150,7 @@ fieldworker.idahoeser.com
 fmipalservice.icloud.com
 fof-alternativos-dev.cloud.itau.com.br
 fof-alternativos-hom.cloud.itau.com.br
+fofonshorealternativos-dev.cloud.itau.com.br
 fofonshoreportal-dev.cloud.itau.com.br
 fofweb-alternativos-dev.cloud.itau.com.br
 fr.igraal.com
@@ -3173,6 +3180,7 @@ helpdesk.ipworks.net.au
 hmsvault.hms.eu1.inforcloudsuite.com
 hotjarwebserverid90436971.icebergbuilder.com
 hubspotapi.insprint77.inflowdevelop.com
+i-teracare-device.com
 i2am.org
 i55bookfairs.com
 i80auto.com
@@ -3186,11 +3194,11 @@ iammad.co
 iamss.ir
 iap-jp.org
 iason-eug.com
-iatanbulqwwea.net
 ibantoni.com
 ibbtown.com
 iberocredito.site
 ibesteliveoutlook.com
+ibestseopackage.com
 ibizznews.com
 ibk.pe
 ibmusicllc.net
@@ -3221,6 +3229,7 @@ icsfilm.org
 icsolutions.llc
 id.itau.com.br
 id.opin.itau.com.br
+idad.biz
 ideabel.com
 idealweb.pt
 ideamebel.dn.ua
@@ -3269,6 +3278,8 @@ ihotel-traffic-accounting-01.intello.work
 iixshop.com
 iizi.link
 ijohss.com
+ijomart.com
+ijp.co.id
 ijust.store
 ikasmadala.org
 ikea.cl
@@ -3363,6 +3374,7 @@ ine.gob.cl
 infantandtoddlersafety.ca
 infinitediaries.net
 infinitrade.in
+infinityblue.net
 infinixenterprises.online
 infintynews.com
 influencerecords.online
@@ -3448,6 +3460,7 @@ intechventures.com
 inteco.se
 integraltsi.com
 integraodontosjc.com.br
+integritydentalservice.com
 integroseguridad.com.ar
 intelcbr-api.com
 intellent.nl
@@ -3467,6 +3480,7 @@ intenthub.uz
 intentlondon.co
 inter-mettler.de
 inter-soft.com
+inter.app
 interasia.co.th
 interclinica.cl
 interijeri-namjestaj.com
@@ -3486,6 +3500,7 @@ intranet.demo.itcontrol.nl
 intrapetcapital.store
 intrasenze.com
 intrastockcapital.store
+intro-layer.com
 inttec.cat
 intuitiveeatingforvegans.com
 inufashion.store
@@ -3550,6 +3565,7 @@ iranip.net
 irankargar.com
 iranpoliticsclub.net
 iraresource.com
+irbcontas.org.br
 irdrugstore.com
 ireservas.pt
 iris-server2.net
@@ -3584,6 +3600,7 @@ istoe.com.br
 istoseo.com
 istrazivac.hr
 istta.edu.pe
+isupports.es
 isuzulampung.site
 isystel.es
 it-architects.it
@@ -3601,12 +3618,14 @@ italianovero.ro
 italthaigroup-erp.com
 italyvacationspecialists.com
 itau-international-cash-management-hom.cloud.itau.com.br
+itau-international-cash-management.cloud.itau.com.br
 itauconsorcionline.com.br
 itay-idan.com
 itcsummons.net
 ite.co.th
 iteabreak.com
 iteachkinder.com
+itech12.com
 itemolgaer.com
 itformula.com.ua
 itgiblean.com
@@ -3629,6 +3648,7 @@ iuifiyfiuoiu.shop
 iumessengerapi-dev.cloud.itau.com.br
 iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com
 ivdol.com
+iwgyuygvtk.pl
 iwinprize.com
 iwxuittm.info
 ixcrm.tech
@@ -3645,6 +3665,7 @@ links.inboxrecipes.com
 linksg.investingnews.com
 lire.izibook.com
 logezvous.icfhabitat.fr
+login.imadeit.io
 long.interestmoments.com
 m2m1.inner-active.mobi
 mail.icloud-isupportids.com
@@ -3728,6 +3749,7 @@ pop1e1.cdn.intigral-ott.net
 portal.infura-ipfs.io
 portalfof-dev.cloud.itau.com.br
 portalinterno.ibermaticaindustria.com
+portalparametroscartoes-dev.cloud.itau.com.br
 portals.vel.iontrading.com
 priv-policy.imrworldwide.com
 proj-2dimioni.beta.icloud247.com
@@ -3746,6 +3768,7 @@ restapi.ivolatility.com
 rfspricertaac-dev.cloud.itau.com.br
 ricette.iltartufoitaliano.com
 rmc.it-fivetran.com
+robloxmetaverse.indobisa.com
 rone927block.go.ione.nyc
 roneespnrichmond.go.ione.nyc
 ronehot1079philly.go.ione.nyc
@@ -3778,6 +3801,7 @@ s3-antecipacao-recebiveis-hom.cloud.itau.com.br
 santander.integration-takeaway.com
 saudicrypto.itcryptochain.live
 saving.if8x.com
+sber.avito.sberbank.avito.avito.sber.covid19.integraosteo.com
 sber.avito.sberbank.sberbank.avito.sber.covid19.illumistudio.com
 sber.sber.avito.sber.avito.www.covid19.instamolodec.site
 sber.sber.sber.avito.sber.www.covid19.inonotus-lab.com
@@ -3794,10 +3818,14 @@ sber.sberbank.avito.avito.sber.covid19.instamolodec.site
 sber.sberbank.sber.avito.www.sber.covid19.instamolodec.site
 sber.sberbank.sber.blablacar.sber.covid19.intertrade-msk.ru
 sber.sberbank.sber.sber.avito.sber.covid19.instamolodec.site
+sber.sberbank.sberbank.sber.avito.avito.covid19.integraosteo.com
 sber.www.sber.avito.git.gitlab.covid19.irinastarovid.com
 sber.www.sberbank.avito.covid19.irinastarovid.com
+sber.www.sberbank.sber.avito.avito.covid19.integraosteo.com
+sberbank.avito.avito.avito.avito.www.covid19.illumistudio.com
 sberbank.avito.avito.avito.www.covid19.illumistudio.com
 sberbank.avito.avito.sber.sber.avito.covid19.inonotus-lab.com
+sberbank.avito.avito.sber.sberbank.sber.covid19.integraosteo.com
 sberbank.avito.avito.www.sber.covid19.irinastarovid.com
 sberbank.avito.sber.avito.sberbank.covid19.inonotus-lab.com
 sberbank.avito.sber.git.covid19.inonotus-lab.com
@@ -3814,6 +3842,7 @@ sberbank.sber.www.www.www.www.covid19.illumistudio.com
 sberbank.sberbank.avicovid19.intertrade-msk.ru
 sberbank.sberbank.sber.avito.sber.www.covid19.intertrade-msk.ru
 sberbank.sberbank.sber.blablacar.sber.covid19.intertrade-msk.ru
+sberbank.www.sberbank.sber.sber.sber.covid19.integraosteo.com
 sberbank.www.www.www.covid19.illumistudio.com
 sberbank.www.www.www.www.covid19.illumistudio.com
 sdk.inbenta.io
@@ -3855,6 +3884,7 @@ static.itsx.kz
 stda-dev-parse-server.kube.intuitive-ai.de
 stg-www.ingresso.com
 support.inno.energy
+support.ise.co.jp
 surescripts.isequelmed.com
 sync6.im-apps.net
 teamcenter.ineosautomotive.com
@@ -3869,6 +3899,7 @@ timescaptcha.indiatimes.com
 tls.invoxcontact.com
 topup.irpointcenter.com
 tosp-azr.ictsirio.com
+tpv.icnea.net
 tracking-maquininha-hom.cloud.itau.com.br
 tracking.ianarsenault.io
 transact.nzta.govt.nz.intoblue.com.au
@@ -3878,6 +3909,7 @@ tts.iflyos.cn
 tygybgyh.itsaol.com
 uat-jns.instantmseloans.in
 uat.irembopay.com
+uclahealth-erm.i-sightuat.com
 uicomponent.interbank.pe
 update.ipage.shop
 upload.kdrive.infomaniak.com
@@ -3904,9 +3936,11 @@ webdisk.institutodavinci.com
 webdisk.iriscoordinamento.org
 webdisk.isfihanonline.com.tr
 webdisk.nitrogen.iceservers.com
+webmail.i-teracare-device.com
 webmail.internationalstatecollegeph.site
 wellnessproducer.harmony.infosight.cloud
 whm.iglobalisepodcast.com
+whsstest.integrumsystems.com
 widget.iketraveldelay.com
 widgetapi.iscloudy.com
 woluwe1201.inforius.be
@@ -3916,6 +3950,7 @@ ws.inexchange.is
 wscl.ikksgroup.com
 www.2021.indonesiaindustryoutlook.com
 www.247deliveryservices.invotide.com
+www.5sikre.infoplakat.no
 www.780ne119stbiscaynepark.intreasso.org
 www.abcwidgets.invoiceamigo.com
 www.abyss.money.iznosvolt.com
@@ -3955,6 +3990,9 @@ www.city.ibaraki-koga.lg.jp
 www.client.iebetanialaargentina.edu.co
 www.client.imenu.ma
 www.cliente.internetgrouphosting.com.br
+www.cloudkiosk.clientdemo.itprojecthouse.com
+www.cloversbank.i-cranegroup.com
+www.codii.it-service.net.pl
 www.coinbase-com.istasyarealestate.com
 www.college-paymentsystem.irwansyafani.com
 www.creditconsilier.ro.iacadou.ro
@@ -4007,6 +4045,7 @@ www.icozy.co
 www.icsalvobasso.it
 www.icscardsnl.com
 www.ictusbank.com.br
+www.idahofarmbureauinsurance.com
 www.idahostatejournal.com
 www.idaliarusso.com
 www.iddportugal.pt
@@ -4130,6 +4169,7 @@ www.invoice.intuoitre.com
 www.invoicefaturamentomedico.com
 www.io-maga.com
 www.ios.academy
+www.iosmultiservice.com
 www.ipg-journal.de
 www.iphone-applerepair.com
 www.ippb.org.br
@@ -4144,6 +4184,7 @@ www.isabelnochelatina.com
 www.isametd.com
 www.isbirziraat.com
 www.isblik.is
+www.isd622.org
 www.isec.ba
 www.iseecars.com
 www.isidrascleaningservice.com
@@ -4224,6 +4265,7 @@ www.support.inteldata.org
 www.support.itdmcare.com
 www.supportbrigades.com.imagina.gb.net
 www.synergyfiresafety.imjd.asia
+www.ticket.itpcservice.ro
 www.trustwallet.iclm-int.org
 www.uberfee.ipptak.com
 www.vaipormim.cloud.itau.com.br
@@ -4234,6 +4276,7 @@ www.wallet.ina.studio
 www.whatsapp.indvasi.com
 www.whatsapp.iwesy.fr
 www.www.icloud.com.id-open.me
+www2.jouy.inra.fr
 www3.jitec.ipa.go.jp
 wwwupdate.integration-takeaway.com
 x-blockchain.igd.vn
