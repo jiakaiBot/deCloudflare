@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,160 |
-| social | 3,950 |
+| com | 6,161 |
+| social | 3,951 |
 | net | 3,141 |
 | org | 2,174 |
 | de | 2,052 |
@@ -4110,6 +4110,7 @@ Here's a list of public Fediverse services.
 | `blazelight.dev` | Yes |
 | `blazinggophers.com` | No |
 | `blazingopen.space` | No |
+| `bldg.pw` | No |
 | `bldg7.social` | No |
 | `bldon.net` | No |
 | `bldrweb.org` | Yes |
@@ -18435,6 +18436,7 @@ Here's a list of public Fediverse services.
 | `know.me.uk` | No |
 | `knowbility.nl` | No |
 | `knowfeeldo.xyz` | No |
+| `knowfore.ca` | No |
 | `knowhere.cafe` | Yes |
 | `knowingart.com` | No |
 | `knowledgehub.social` | No |
@@ -23847,6 +23849,7 @@ Here's a list of public Fediverse services.
 | `mtwerk.com` | No |
 | `mtxyz.me` | No |
 | `mtzlr.io` | No |
+| `mu7ou.com` | No |
 | `muage.org` | No |
 | `mublog.nl` | No |
 | `muchametow.de` | No |
@@ -38052,6 +38055,7 @@ Here's a list of public Fediverse services.
 | `veraciousnetwork.com` | No |
 | `veracity.social` | No |
 | `verbeeld.be` | No |
+| `verbraucherzentrale.social` | No |
 | `verbrennung.org` | No |
 | `vercel.app` | No |
 | `verdantsquare.net` | No |
@@ -40890,7 +40894,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,271 |
-| Normal | 30,575 |
+| Normal | 30,579 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
