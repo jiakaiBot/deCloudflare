@@ -34973,6 +34973,7 @@ Here's a list of public Fediverse services.
 | `teamspeak.com` | Yes |
 | `teamtilu.fr` | No |
 | `teamtk.eu` | No |
+| `teamtuck.xyz` | Yes |
 | `teamvagabond.com` | No |
 | `teamx.cc` | No |
 | `teamxbox.org` | No |
@@ -40898,7 +40899,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,272 |
+| Cloudflare | 10,273 |
 | Normal | 30,583 |
 
 
