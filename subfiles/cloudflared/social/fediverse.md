@@ -2940,6 +2940,7 @@ Here's a list of public Fediverse services.
 | `ayutsuki.net` | Yes |
 | `az-men.com` | No |
 | `az.social` | No |
+| `aza.moe` | Yes |
 | `azabani.com` | No |
 | `azadehafzar.ir` | No |
 | `azae.net` | No |
@@ -20648,6 +20649,7 @@ Here's a list of public Fediverse services.
 | `m.to` | No |
 | `m0.lc` | Yes |
 | `m0e.space` | Yes |
+| `m0hda.fr` | No |
 | `m0n5t3r.info` | No |
 | `m0nikasingh.xyz` | Yes |
 | `m0r016.net` | Yes |
@@ -38520,6 +38522,7 @@ Here's a list of public Fediverse services.
 | `vy-let.software` | No |
 | `vy9.ca` | Yes |
 | `vyboh.net` | No |
+| `vyizis.tech` | No |
 | `vymazal.com` | No |
 | `vymazal.social` | No |
 | `vypni.net` | No |
@@ -40895,8 +40898,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,271 |
-| Normal | 30,581 |
+| Cloudflare | 10,272 |
+| Normal | 30,583 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
