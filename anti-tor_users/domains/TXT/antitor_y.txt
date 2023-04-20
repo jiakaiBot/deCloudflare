@@ -562,8 +562,13 @@ app-491-disable-2fa-when-adding-to-sso.dev.yesh.id
 app14.yellow-page.us
 aso-web.yuanta.com.tw
 asset.yes.my
+auth.7101-aiia-aritma-import.younium.net
 auth.resource-migration-v2.younium.net
 avatars.mds.yandex.net
+avito.sber.sberbank.avito.sber.sber.covid19.youhollywood.com
+avito.sber.sberbank.sber.sber.git.covid19.youhollywood.com
+avito.www.sber.sber.git.git.covid19.youhollywood.com
+avito.www.sber.sber.sber.blablacar.covid19.youhollywood.com
 b90.yahoo.co.jp
 bank.yvonnetake.nl
 beta.api-metrica.yandex.kz
@@ -634,17 +639,22 @@ rest.yafacture.com
 rnd.ym.edu.tw
 safe.yukine.app
 safeway.yahia.fr
+sber.avito.sberbank.sber.sber.sber.covid19.youhollywood.com
 sber.sber.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.78z68.sberbank.sber.avito.kwid9.87ab5.yogavastu.xyz
 sber.sber.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.3ugcn.tpxa3.kwid9.yogavastu.xyz
 sber.sber.sber.avito.avito.blablacar.covid19.youhollywood.com
 sber.sber.www.sber.avito.blablacar.covid19.youhollywood.com
+sberbank.avito.sber.sber.sber.sber.covid19.youhollywood.com
+sberbank.avito.sberbank.avito.sber.sber.covid19.youhollywood.com
 sberbank.sber.avito.avito.sber.sber.covid19.youhollywood.com
+sberbank.www.avito.sber.blablacar.covid19.youhollywood.com
 scmuat01.hk.yusen-logistics.com
 services.yindeeclinic.com
 spectrummetrocommercial.yourlandingpage.in
 sso.ya.ru
 sta.api.youatcollege.com
 sts.yesbank.in
+suburban-trains.s3.yandex.net
 support.yellowdays.com
 taskchat.yannix.com
 tips.yandex.ru
@@ -692,6 +702,7 @@ www.simba.yapisbiak.or.id
 www.staiattaqwabekasi.yapi.sch.id
 www.steamproject.yski.info
 www.stg.salesforce.yukevajkt.com
+www.yabisso.store
 www.yachtclubtc.com
 www.yahoodrivingschool.com.au
 www.yaktrinews.com
@@ -734,6 +745,7 @@ www.yourintuitivecounselor.com
 www.yout-ube.com
 www.yozzis.com.br
 www.ysaira.realtor
+www.yucedagyapi.com.tr
 www.yugioh-card.com
 www.yukease.com
 www.yukisecurity24.com.vn
@@ -767,6 +779,7 @@ yari3.xyz
 yari6.xyz
 yari9.xyz
 yaricir-nippori.net
+yarncharm.com
 yarpaket.ru
 yasamin.nl
 yasitsupport.com
@@ -816,6 +829,7 @@ youknowbest.co.uk
 youngrentongku.shop
 youngscientist.academy
 youngusaa.com
+yourbestshop.life
 yourfutureplatform.com
 yourgiftz.xyz
 yourmagichost.com
@@ -826,6 +840,7 @@ youthmediaaction.com
 youtubebulkviews.com
 youtvmedia.shop
 yoyogi-animation.net
+ypinteriordesign.com
 ypsilenna.art
 yscentum.com
 yspotify.com
