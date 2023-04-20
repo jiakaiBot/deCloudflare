@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [digitalocean_record data source issue](https://github.com/digitalocean/terraform-provider-digitalocean/issues/978)
 - [ECS task fails to start due to SSM error](https://github.com/terraform-aws-modules/terraform-aws-atlantis/issues/341)
 - [site access; SSL certificate error](https://github.com/matplotlib/matplotlib/issues/25731)
 - [Add cloudflare Let's Encrypt Certificate](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2842)
