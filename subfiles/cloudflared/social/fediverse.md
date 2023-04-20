@@ -3026,6 +3026,7 @@ Here's a list of public Fediverse services.
 | `babar24.com` | No |
 | `babay.icu` | No |
 | `babb.be` | No |
+| `babb.no` | No |
 | `babbel.social` | No |
 | `babbelte.de` | No |
 | `babble.world` | No |
@@ -40889,7 +40890,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,271 |
-| Normal | 30,574 |
+| Normal | 30,575 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
