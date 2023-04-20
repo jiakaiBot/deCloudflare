@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,159 |
 | social | 3,948 |
-| net | 3,140 |
-| org | 2,172 |
+| net | 3,141 |
+| org | 2,173 |
 | de | 2,051 |
 
 
@@ -3055,6 +3055,7 @@ Here's a list of public Fediverse services.
 | `backpacklife.social` | No |
 | `backpawn.com` | No |
 | `backroad.city` | No |
+| `backspace.fm` | No |
 | `backtick.town` | No |
 | `backtoroot.xyz` | No |
 | `backyard.cloud` | No |
@@ -8285,6 +8286,7 @@ Here's a list of public Fediverse services.
 | `demokratischer-sommer.de` | No |
 | `demon.army` | No |
 | `demon.care` | No |
+| `demon.haus` | No |
 | `demon.party` | No |
 | `demon.social` | No |
 | `demon.tech` | No |
@@ -11144,6 +11146,7 @@ Here's a list of public Fediverse services.
 | `fedidb.org` | Yes |
 | `fedidex.net` | Yes |
 | `fedieuropa.eu` | No |
+| `fedifeed.net` | No |
 | `fedifence.social` | No |
 | `fedified.com` | Yes |
 | `fedifilm.art` | No |
@@ -29853,6 +29856,7 @@ Here's a list of public Fediverse services.
 | `redrosa.social` | No |
 | `redrosewriter.com` | Yes |
 | `redrover.social` | Yes |
+| `redsnake.io` | No |
 | `redsnow.io` | No |
 | `redspinning.top` | No |
 | `redsqua.re` | No |
@@ -31607,6 +31611,7 @@ Here's a list of public Fediverse services.
 | `sdf.land` | Yes |
 | `sdf.org` | No |
 | `sdfeu.org` | No |
+| `sdfjp.org` | No |
 | `sdj.au` | No |
 | `sdk.co` | No |
 | `sdm-it.com` | Yes |
@@ -40877,7 +40882,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,268 |
-| Normal | 30,565 |
+| Normal | 30,570 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
