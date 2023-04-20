@@ -3263,6 +3263,7 @@ Do not create new issue or we will close it as duplicate.
 | [Fawuioo@twitter](https://twitter.com/Fawuioo/status/1485262753858269188) | advertise |
 | [FAYARZ2@twitter](https://twitter.com/FAYARZ2/status/1628787522884218882) | advertise |
 | [fayas1699gcsd@twitter](https://twitter.com/fayas1699gcsd/status/1605239027439140864) | advertise |
+| [fazalrahim3362@twitter](https://twitter.com/fazalrahim3362/status/1648889429958750209) | advertise |
 | [Fazian47524484@twitter](https://twitter.com/Fazian47524484/status/1400881570408394753) | advertise |
 | [FbworlNews@twitter](https://twitter.com/FbworlNews/status/1401094204743372800) | advertise |
 | [fdc_tuna2134@twitter](https://twitter.com/fdc_tuna2134/status/1612577796903272450) | advertise |
@@ -3960,6 +3961,7 @@ Do not create new issue or we will close it as duplicate.
 | [helu_sky@twitter](https://twitter.com/helu_sky/status/1461265952608194566) | advertise |
 | [HEMANTH74907800@twitter](https://twitter.com/HEMANTH74907800/status/1393162174189604870) | advertise |
 | [HEMANTN09968572@twitter](https://twitter.com/HEMANTN09968572/status/1396999578172284928) | advertise |
+| [hencefreebands@twitter](https://twitter.com/hencefreebands/status/1648925589170995202) | advertise |
 | [hendrixx_h@twitter](https://twitter.com/hendrixx_h/status/1615951213102505987) | advertise |
 | [hendrouu_@twitter](https://twitter.com/hendrouu_/status/1398767068497862657) | advertise |
 | [HENILPRAJAPATI6@twitter](https://twitter.com/HENILPRAJAPATI6/status/1389614253393408000) | advertise |
@@ -5520,6 +5522,7 @@ Do not create new issue or we will close it as duplicate.
 | [KhangG32840110@twitter](https://twitter.com/KhangG32840110/status/1378324788557479942) | advertise |
 | [Khangkh05039993@twitter](https://twitter.com/Khangkh05039993/status/1384783388305813506) | advertise |
 | [Khangkh40066889@twitter](https://twitter.com/Khangkh40066889/status/1396425002048577547) | advertise |
+| [Khangkkun@twitter](https://twitter.com/Khangkkun/status/1648914199215771649) | advertise |
 | [KhangNg78869895@twitter](https://twitter.com/KhangNg78869895/status/1561645320148496384) | advertise |
 | [Khanh42393250@twitter](https://twitter.com/Khanh42393250/status/1397981656825294855) | advertise |
 | [Khanh48925509@twitter](https://twitter.com/Khanh48925509/status/1401239099223072774) | advertise |
@@ -11559,6 +11562,7 @@ Do not create new issue or we will close it as duplicate.
 | [trantinh98@twitter](https://twitter.com/trantinh98/status/1551127415405297664) | advertise |
 | [TranTua00316518@twitter](https://twitter.com/TranTua00316518/status/1503265835145904128) | advertise |
 | [TranTuanTico@twitter](https://twitter.com/TranTuanTico/status/1530249051777961985) | advertise |
+| [TranTuu48269@twitter](https://twitter.com/TranTuu48269/status/1648909533186752515) | advertise |
 | [tranvan89033780@twitter](https://twitter.com/tranvan89033780/status/1474185476256845826) | advertise |
 | [Tranvin89298643@twitter](https://twitter.com/Tranvin89298643/status/1624070850277437445) | advertise |
 | [trappygypsy@twitter](https://twitter.com/trappygypsy/status/1382015075331014664) | advertise |
