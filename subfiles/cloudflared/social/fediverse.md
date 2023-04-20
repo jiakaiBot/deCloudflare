@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,159 |
+| com | 6,160 |
 | social | 3,950 |
 | net | 3,141 |
 | org | 2,173 |
-| de | 2,051 |
+| de | 2,052 |
 
 
 - Mastodon, Pleroma, etc
@@ -8791,6 +8791,7 @@ Here's a list of public Fediverse services.
 | `disperfected.com` | No |
 | `dispersio.us` | No |
 | `displaced.social` | No |
+| `disputemag.com` | No |
 | `disqordia.space` | No |
 | `disquette.top` | No |
 | `disquiet.blog` | No |
@@ -37300,6 +37301,7 @@ Here's a list of public Fediverse services.
 | `ubuntu.buzz` | No |
 | `ubuntu.social` | No |
 | `ubuntuireland.com` | No |
+| `ubuntusucks.de` | Yes |
 | `uc-netcorsoft.de` | No |
 | `ucb.social` | Yes |
 | `ucc.asn.au` | Yes |
@@ -40884,8 +40886,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,270 |
-| Normal | 30,571 |
+| Cloudflare | 10,271 |
+| Normal | 30,572 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
