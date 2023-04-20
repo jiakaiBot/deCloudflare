@@ -2243,6 +2243,7 @@ Do not create new issue or we will close it as duplicate.
 | [corporatethief@twitter](https://twitter.com/corporatethief/status/1534847600037355522) | advertise |
 | [corpsewify@twitter](https://twitter.com/corpsewify/status/1485684820600844288) | advertise |
 | [CorvKaldwin@twitter](https://twitter.com/CorvKaldwin/status/1534162985375395840) | advertise |
+| [cosmeaf@twitter](https://twitter.com/cosmeaf/status/1649042252709216256) | advertise |
 | [Cosmonotfound@twitter](https://twitter.com/Cosmonotfound/status/1647881709780717568) | advertise |
 | [cotcot92196017@twitter](https://twitter.com/cotcot92196017/status/1552788252289286144) | advertise |
 | [cowboylikeMike@twitter](https://twitter.com/cowboylikeMike/status/1531104867036434432) | advertise |
