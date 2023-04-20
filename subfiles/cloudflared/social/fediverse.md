@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,160 |
 | social | 3,950 |
 | net | 3,141 |
-| org | 2,173 |
+| org | 2,174 |
 | de | 2,052 |
 
 
@@ -18462,6 +18462,7 @@ Here's a list of public Fediverse services.
 | `kobalt.dev` | No |
 | `koboksdon.net` | Yes |
 | `kobokskobok.com` | No |
+| `kobold.cafe` | No |
 | `kobold.house` | No |
 | `kobold.space` | No |
 | `kobolds.space` | No |
@@ -35636,6 +35637,7 @@ Here's a list of public Fediverse services.
 | `theosis.church` | No |
 | `theother.social` | No |
 | `theotherdell.com` | No |
+| `theova.org` | No |
 | `thepacket.exchange` | No |
 | `thepathbegins.social` | No |
 | `thepeanut.farm` | No |
@@ -40887,7 +40889,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,271 |
-| Normal | 30,572 |
+| Normal | 30,574 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
