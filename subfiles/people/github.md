@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Add cloudflare Let's Encrypt Certificate](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2842)
 - [🐞 Error when following the getting started guide](https://github.com/BuilderIO/qwik/issues/3842)
 - [Decentraland RPC does not work with WalletConnectV2](https://github.com/decentraland/decentraland-connect/issues/51)
 - [Error: Cloudflare Turnstile Nothing to reset found for provided container.](https://github.com/we-race-here/wrh-organization/issues/361)
