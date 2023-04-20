@@ -6549,7 +6549,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -10602,7 +10602,7 @@ Here's a list of public Fediverse services.
 | `evil.ist` | No |
 | `evil.red` | No |
 | `evil.social` | Yes |
-| `evilalive.ru` | No |
+| `evilalive.ru` | Yes |
 | `evilchi.li` | No |
 | `evilcyberhacker.net` | Yes |
 | `evilfactorylabs.social` | No |
@@ -22465,6 +22465,7 @@ Here's a list of public Fediverse services.
 | `mew.pm` | Yes |
 | `mewitoot.de` | No |
 | `mewl.me` | Yes |
+| `mewmew.moe` | No |
 | `mewmews.gay` | Yes |
 | `mewo2.com` | Yes |
 | `meww.xyz` | No |
@@ -40894,7 +40895,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,271 |
-| Normal | 30,579 |
+| Normal | 30,580 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
