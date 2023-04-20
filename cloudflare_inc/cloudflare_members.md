@@ -1036,6 +1036,7 @@ Or is this merely a case of simple modesty?
 | Kristin Tarr | Communications Specialist |  |
 | Kristján Oddsson | Front-end Engineer |  |
 | Kruthi Narayana | Technical Expert |  |
+| Kuba Orlik | Employee | |
 | Kyle Boutette | Systems Engineer |  |
 | Kyle Bowman | Employee | |
 | Kyle Breuleux | Employee |  |
@@ -1859,6 +1860,7 @@ Or is this merely a case of simple modesty?
 | Xavier Xuhui Cai | Sales Head (China) |  |
 | Xiaojin Liu | Solution Engineer |  |
 | Xiaolin Gong | Special Projects |  |
+| Xiaomin Shen | Employee | |
 | Xingang Wang | Systems Engineer |  |
 | Xin Meng | Solutions Engineer, Singapore |  |
 | Xu Haitao | Account Executive |  |
