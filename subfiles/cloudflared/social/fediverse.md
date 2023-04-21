@@ -24806,7 +24806,7 @@ Here's a list of public Fediverse services.
 | `ness.ml` | No |
 | `nessel.cloud` | Yes |
 | `nestegg.net` | No |
-| `nesu.me` | No |
+| `nesu.me` | Yes |
 | `nesven.eu` | No |
 | `net-p.org` | No |
 | `net-pbx.com` | No |
@@ -29978,6 +29978,7 @@ Here's a list of public Fediverse services.
 | `rem7.space` | No |
 | `remark.as` | No |
 | `remarkably.social` | No |
+| `remarker.co` | Yes |
 | `remben.ch` | No |
 | `remco.social` | No |
 | `remcorp.fr` | No |
@@ -40918,8 +40919,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,277 |
-| Normal | 30,598 |
+| Cloudflare | 10,279 |
+| Normal | 30,597 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
