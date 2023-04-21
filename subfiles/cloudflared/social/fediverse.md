@@ -13665,6 +13665,7 @@ Here's a list of public Fediverse services.
 | `gore.cam` | Yes |
 | `goredb.com` | Yes |
 | `goresee.com` | Yes |
+| `goreslut.xyz` | No |
 | `gorf.club` | No |
 | `gorf.pub` | No |
 | `gorf.space` | No |
@@ -40932,7 +40933,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,284 |
-| Normal | 30,604 |
+| Normal | 30,605 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
