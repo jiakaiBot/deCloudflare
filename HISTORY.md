@@ -7,6 +7,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-04-21: [Unexpected IP validation](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9wszwmyy2wyb)
+- 2023-04-21: [Unexpected challenges for some visitors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vl5ns88xbq7l)
 - 2023-04-18: [Retro - Issues affecting some customers using minification and email obfuscation](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4v0qrqftttkd)
 - 2023-04-14: [Issues with Bring Your Own IP (BYOIP) / Bring Your Own IP On-Demand feature](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xn9hv26p6d00)
 - 2023-04-12: [Increased HTTP timeouts in Berlin and Milan area](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/dmfkwxmssvb8)
