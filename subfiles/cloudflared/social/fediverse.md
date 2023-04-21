@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,162 |
-| social | 3,951 |
+| com | 6,163 |
+| social | 3,952 |
 | net | 3,142 |
 | org | 2,174 |
 | de | 2,052 |
@@ -11664,6 +11664,7 @@ Here's a list of public Fediverse services.
 | `fle.st` | Yes |
 | `fle.studio` | Yes |
 | `flecken.monster` | No |
+| `flee.social` | Yes |
 | `fleshmeat.com` | No |
 | `fleur.social` | No |
 | `fleur7.com` | No |
@@ -25442,7 +25443,7 @@ Here's a list of public Fediverse services.
 | `nominom.de` | Yes |
 | `nomofomo.social` | No |
 | `nomorecubes.net` | No |
-| `nomoresha.me` | Yes |
+| `nomoresha.me` | No |
 | `nomya.net` | No |
 | `non-abelian.space` | No |
 | `non-designer.studio` | Yes |
@@ -33009,6 +33010,7 @@ Here's a list of public Fediverse services.
 | `socialgoblins.club` | Yes |
 | `socialhome.network` | No |
 | `socialism.social` | No |
+| `socialism.tools` | No |
 | `socialist.city` | No |
 | `socialist.place` | No |
 | `socialistra.org` | Yes |
@@ -35066,6 +35068,7 @@ Here's a list of public Fediverse services.
 | `techtea.io` | No |
 | `techthoughts.io` | Yes |
 | `techtodon.com` | Yes |
+| `techtoots.com` | No |
 | `techy.social` | Yes |
 | `techzerker.com` | Yes |
 | `teci.world` | No |
@@ -40901,7 +40904,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,272 |
-| Normal | 30,585 |
+| Normal | 30,588 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
