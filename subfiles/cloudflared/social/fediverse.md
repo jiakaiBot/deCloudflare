@@ -4150,6 +4150,7 @@ Here's a list of public Fediverse services.
 | `bloade.social` | Yes |
 | `bloatcat.tk` | No |
 | `bloatfree.ovh` | No |
+| `blob.boo` | Yes |
 | `blob.cat` | No |
 | `blob.coffee` | No |
 | `blobfox.coffee` | No |
@@ -4181,7 +4182,7 @@ Here's a list of public Fediverse services.
 | `bloggingintensifies.com` | Yes |
 | `blogkreatywny.pl` | No |
 | `blognot.co` | No |
-| `blogold.xyz` | No |
+| `blogold.xyz` | Yes |
 | `blogoma.de` | No |
 | `blogpocket.com` | No |
 | `blogroll.club` | Yes |
@@ -16334,6 +16335,7 @@ Here's a list of public Fediverse services.
 | `ip1.info` | No |
 | `ipfire.org` | No |
 | `ipfixe.info` | No |
+| `ipghod.tech` | Yes |
 | `iphodase.fr` | No |
 | `iphoneincanada.ca` | No |
 | `ipmorris.com` | No |
@@ -19410,6 +19412,7 @@ Here's a list of public Fediverse services.
 | `legacycode.rocks` | No |
 | `legadolibre.com.ar` | Yes |
 | `legal.social` | No |
+| `legalcontent.live` | No |
 | `legalizenuclearbombs.com` | No |
 | `legalloli.net` | No |
 | `legaltech.social` | No |
@@ -24963,6 +24966,7 @@ Here's a list of public Fediverse services.
 | `newyorkfriendfinder.com` | No |
 | `nex.sh` | No |
 | `nexific.social` | Yes |
+| `nexitally.buzz` | Yes |
 | `nexon.su` | Yes |
 | `nexryai.online` | Yes |
 | `nextblock.nl` | No |
@@ -36957,6 +36961,7 @@ Here's a list of public Fediverse services.
 | `tsuki.network` | Yes |
 | `tsukihi.me` | No |
 | `tsukihi.moe` | Yes |
+| `tsukim.io` | No |
 | `tsukimi.club` | Yes |
 | `tsukiyo.dev` | Yes |
 | `tsukuba.io` | Yes |
@@ -37795,6 +37800,7 @@ Here's a list of public Fediverse services.
 | `ussygussies.wtf` | Yes |
 | `ustim.ru` | No |
 | `usual.biz` | No |
+| `usuwolabo.page` | No |
 | `usuwotech.page` | Yes |
 | `usuyuki.net` | Yes |
 | `usuzakuraya.us` | No |
@@ -40912,8 +40918,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,273 |
-| Normal | 30,596 |
+| Cloudflare | 10,277 |
+| Normal | 30,598 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
