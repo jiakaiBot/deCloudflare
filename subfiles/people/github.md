@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to post using custom headers passed to GH action](https://github.com/SonarSource/sonarqube-scan-action/issues/66)
 - [tunnel is unable to connect](https://github.com/heiher/hev-socks5-tunnel/issues/36)
 - [React 18 的新特性有哪些【热度: 3,189】](https://github.com/pro-collection/interview-question/issues/299)
 - [digitalocean_record data source issue](https://github.com/digitalocean/terraform-provider-digitalocean/issues/978)
