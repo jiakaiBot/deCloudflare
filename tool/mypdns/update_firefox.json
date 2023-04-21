@@ -9,7 +9,7 @@
             }
           },
           "version": "1.0.2.8",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/reporter/addon/firefox/addon.xpi?e09636d00f3678aed82b4c05883d7faf7d97697de0c96ff88a82a0d78e0c6466",
+          "update_link": "https://mypdns.eu.org/dl/addon/reporter.xpi?e09636d00f3678aed82b4c05883d7faf7d97697de0c96ff88a82a0d78e0c6466",
           "update_hash": "sha256:e09636d00f3678aed82b4c05883d7faf7d97697de0c96ff88a82a0d78e0c6466"
         }
       ]
@@ -23,7 +23,7 @@
             }
           },
           "version": "1.0.0.6",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/defender/addon/firefox/addon.xpi?176daebfc21d820aebe7cf5008b3eaa5bf40bb0c845519a51b5ea9ec5abeaf0a",
+          "update_link": "https://mypdns.eu.org/dl/addon/defender.xpi?176daebfc21d820aebe7cf5008b3eaa5bf40bb0c845519a51b5ea9ec5abeaf0a",
           "update_hash": "sha256:176daebfc21d820aebe7cf5008b3eaa5bf40bb0c845519a51b5ea9ec5abeaf0a"
         }
       ]
@@ -37,7 +37,7 @@
             }
           },
           "version": "1.0.0.2",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/sa/addon/firefox/addon.xpi?24898ef0b846d034004e6c10a50452d47105a271c8a0deaf14e62286d1be31d0",
+          "update_link": "https://mypdns.eu.org/dl/addon/screenshot.xpi?24898ef0b846d034004e6c10a50452d47105a271c8a0deaf14e62286d1be31d0",
           "update_hash": "sha256:24898ef0b846d034004e6c10a50452d47105a271c8a0deaf14e62286d1be31d0"
         }
       ]
@@ -51,7 +51,7 @@
             }
           },
           "version": "1.0.0.4",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/ld/addon/firefox/addon.xpi?a3b297f376138926aee8efdbd342934968a9b5b9c388eb8803aae953edd0bb6b",
+          "update_link": "https://mypdns.eu.org/dl/addon/linkdetails.xpi?a3b297f376138926aee8efdbd342934968a9b5b9c388eb8803aae953edd0bb6b",
           "update_hash": "sha256:a3b297f376138926aee8efdbd342934968a9b5b9c388eb8803aae953edd0bb6b"
         }
       ]
