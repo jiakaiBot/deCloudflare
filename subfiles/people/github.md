@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Missing addons repositories](https://github.com/home-assistant/operating-system/issues/2497)
 - [Unable to post using custom headers passed to GH action](https://github.com/SonarSource/sonarqube-scan-action/issues/66)
 - [tunnel is unable to connect](https://github.com/heiher/hev-socks5-tunnel/issues/36)
 - [React 18 的新特性有哪些【热度: 3,189】](https://github.com/pro-collection/interview-question/issues/299)
