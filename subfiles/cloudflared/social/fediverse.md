@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,953 |
 | net | 3,143 |
 | org | 2,176 |
-| de | 2,052 |
+| de | 2,053 |
 
 
 - Mastodon, Pleroma, etc
@@ -23861,7 +23861,6 @@ Here's a list of public Fediverse services.
 | `mtwerk.com` | No |
 | `mtxyz.me` | No |
 | `mtzlr.io` | No |
-| `mu7ou.com` | No |
 | `muage.org` | No |
 | `mublog.nl` | No |
 | `muchametow.de` | No |
@@ -27544,6 +27543,7 @@ Here's a list of public Fediverse services.
 | `permaweb.io` | No |
 | `perorin.jp` | No |
 | `perriot.fr` | No |
+| `perron-service.de` | No |
 | `perron-tube.de` | Yes |
 | `perron.live` | No |
 | `persadon.com` | No |
@@ -30845,6 +30845,7 @@ Here's a list of public Fediverse services.
 | `rvagc.social` | No |
 | `rvalgbt.xyz` | Yes |
 | `rverse.club` | Yes |
+| `rvf6.com` | Yes |
 | `rvmathy.net` | No |
 | `rvnomadphotos.com` | Yes |
 | `rw-net.de` | No |
@@ -40919,7 +40920,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,279 |
+| Cloudflare | 10,280 |
 | Normal | 30,597 |
 
 
