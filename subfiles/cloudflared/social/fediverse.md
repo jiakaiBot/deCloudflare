@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,167 |
-| social | 3,953 |
+| social | 3,954 |
 | net | 3,143 |
 | org | 2,176 |
 | de | 2,053 |
@@ -10183,6 +10183,7 @@ Here's a list of public Fediverse services.
 | `endthis.world` | No |
 | `endtimebelievers.com` | No |
 | `endur4.com` | No |
+| `energiewende.social` | No |
 | `energyarxiv.com` | No |
 | `energydon.fi` | No |
 | `energyfintech.io` | No |
@@ -40924,7 +40925,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,282 |
-| Normal | 30,598 |
+| Normal | 30,599 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
