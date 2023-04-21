@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,163 |
-| social | 3,952 |
-| net | 3,142 |
-| org | 2,175 |
+| com | 6,167 |
+| social | 3,953 |
+| net | 3,143 |
+| org | 2,176 |
 | de | 2,052 |
 
 
@@ -6550,7 +6550,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -12074,6 +12074,7 @@ Here's a list of public Fediverse services.
 | `fredls.net` | No |
 | `fredprod.com` | No |
 | `fredrikohlin.com` | No |
+| `fredrocha.net` | No |
 | `fredspieler.com` | No |
 | `free-friends.org` | No |
 | `free-le.info` | No |
@@ -12810,6 +12811,7 @@ Here's a list of public Fediverse services.
 | `gamt.tech` | No |
 | `ganba.re` | No |
 | `gancio.org` | No |
+| `gandhithedergrawr.com` | No |
 | `gandi.net` | Yes |
 | `gandi.social` | No |
 | `ganesha.org.br` | No |
@@ -17247,6 +17249,7 @@ Here's a list of public Fediverse services.
 | `jonaskoeritz.de` | No |
 | `jonasled.de` | Yes |
 | `jonasx.de` | No |
+| `jonathanbardo.com` | No |
 | `jonathancamp.co.uk` | No |
 | `jonathancandler.com` | No |
 | `jonathandupre.fr` | No |
@@ -20590,6 +20593,7 @@ Here's a list of public Fediverse services.
 | `luxray.club` | No |
 | `luxtube.lu` | No |
 | `luxurygay.space` | No |
+| `luzeed.org` | No |
 | `luzifer.io` | No |
 | `lv8.at` | Yes |
 | `lvb.io` | No |
@@ -30415,6 +30419,7 @@ Here's a list of public Fediverse services.
 | `robertparker.se` | No |
 | `robertsasuke.com` | Yes |
 | `robertwgehl.org` | No |
+| `robertwhite.social` | Yes |
 | `robflop.me` | Yes |
 | `robin.software` | Yes |
 | `robincussol.com` | No |
@@ -34139,7 +34144,7 @@ Here's a list of public Fediverse services.
 | `sublingual.xyz` | No |
 | `subluminal.industries` | No |
 | `submarin.online` | Yes |
-| `submarine.works` | No |
+| `submarine.works` | Yes |
 | `submit.as` | No |
 | `subnivean.zone` | No |
 | `subquestspod.com` | No |
@@ -35398,6 +35403,7 @@ Here's a list of public Fediverse services.
 | `thebitpros.com` | No |
 | `theblackgates.com` | No |
 | `theblandshire.social` | No |
+| `theblinkcorporation.com` | Yes |
 | `theblower.au` | No |
 | `thebmw.club` | No |
 | `thebonduniverse.net` | No |
@@ -35600,6 +35606,7 @@ Here's a list of public Fediverse services.
 | `themillerslive.com` | Yes |
 | `themimitoof.fr` | Yes |
 | `themintfarm.ml` | Yes |
+| `theminxshow.com` | No |
 | `themisir.com` | Yes |
 | `themondragons.com` | Yes |
 | `themonkeycant.com` | Yes |
@@ -38602,7 +38609,7 @@ Here's a list of public Fediverse services.
 | `wahrscheinlichkeitundmethode.de` | No |
 | `waifu.one` | No |
 | `waifu.social` | Yes |
-| `waifu.space` | Yes |
+| `waifu.space` | No |
 | `waifuappreciation.club` | No |
 | `waifuism.life` | No |
 | `waifuism.rocks` | No |
@@ -40359,6 +40366,7 @@ Here's a list of public Fediverse services.
 | `ytpmv.info` | Yes |
 | `ytringsrett.net` | No |
 | `yttrx.com` | Yes |
+| `yu-orz.info` | No |
 | `yu10g.com` | No |
 | `yuangezhizao.cn` | Yes |
 | `yuanzu.ml` | No |
@@ -40904,8 +40912,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,270 |
-| Normal | 30,591 |
+| Cloudflare | 10,273 |
+| Normal | 30,596 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
