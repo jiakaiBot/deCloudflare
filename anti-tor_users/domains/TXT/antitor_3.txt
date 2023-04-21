@@ -142,6 +142,7 @@ clicks.360-well-being.com
 dev-fdp-schema-registry-primary.api.3stripes.io
 fwc.3rdcc.org
 match.360yield.com
+matrikkel-adapter.360online.com
 service.306deal.ca
 ses.ims.mnc110.mcc310.pub.3gppnetwork.org
 smartsecuresafe.360dbstagingserver.com
