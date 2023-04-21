@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,167 |
+| com | 6,171 |
 | social | 3,954 |
-| net | 3,143 |
+| net | 3,144 |
 | org | 2,176 |
 | de | 2,053 |
 
@@ -1802,6 +1802,7 @@ Here's a list of public Fediverse services.
 | `andreabont.it` | No |
 | `andreafranceschini.org` | No |
 | `andreas-edler.de` | No |
+| `andreasjr.com` | Yes |
 | `andreaskilgus.de` | No |
 | `andreasrohner.at` | No |
 | `andreasvongunten.com` | Yes |
@@ -4310,6 +4311,7 @@ Here's a list of public Fediverse services.
 | `bobadon.rocks` | No |
 | `bobbel.social` | No |
 | `bobbes.de` | No |
+| `bobbinsrobots.com` | No |
 | `bobbyd100.com` | No |
 | `bobcall.me` | No |
 | `bobek.cz` | No |
@@ -4317,6 +4319,7 @@ Here's a list of public Fediverse services.
 | `bobiko.blog` | Yes |
 | `bobiko.dev` | Yes |
 | `bobiverse.social` | Yes |
+| `bobmuellerwriter.com` | No |
 | `bobobo80.com` | Yes |
 | `bobs.social` | No |
 | `bobschulties.com` | No |
@@ -13756,6 +13759,7 @@ Here's a list of public Fediverse services.
 | `graha.ms` | Yes |
 | `grahamc.com` | No |
 | `grahamedgecombe.com` | No |
+| `grahamharper.net` | No |
 | `grahams.wtf` | No |
 | `grahamstewartphoto.com` | Yes |
 | `grainedutopie.eu` | No |
@@ -19094,6 +19098,7 @@ Here's a list of public Fediverse services.
 | `lainon.life` | No |
 | `lainternet.online` | No |
 | `laipower.xyz` | No |
+| `lair.be` | No |
 | `lairds.com` | No |
 | `laisa.family` | Yes |
 | `laissez-faire.social` | No |
@@ -26963,6 +26968,7 @@ Here's a list of public Fediverse services.
 | `p-arte.org` | No |
 | `p-dev.net` | No |
 | `p-epsilon.com` | Yes |
+| `p-nintendo.com` | No |
 | `p-pn.org` | No |
 | `p-y.ro` | Yes |
 | `p.lu` | Yes |
@@ -40924,8 +40930,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,282 |
-| Normal | 30,599 |
+| Cloudflare | 10,283 |
+| Normal | 30,604 |
 
 
-### 25.2% of public Fediverse services are using Cloudflare.
+### 25.1% of public Fediverse services are using Cloudflare.
