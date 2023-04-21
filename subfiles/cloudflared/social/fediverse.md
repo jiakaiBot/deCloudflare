@@ -2560,6 +2560,7 @@ Here's a list of public Fediverse services.
 | `astatu.berlin` | No |
 | `astdn.tokyo` | No |
 | `asteinhaus.de` | No |
+| `astelpenkan.ml` | No |
 | `asteringtech.com` | No |
 | `asterism.xyz` | Yes |
 | `astest.org` | No |
@@ -26620,6 +26621,7 @@ Here's a list of public Fediverse services.
 | `oreka.online` | No |
 | `orels.sh` | Yes |
 | `orenoshiro.site` | No |
+| `orestes.pp.ua` | Yes |
 | `oresys.nagoya` | No |
 | `oretilore.dk` | No |
 | `organicchemistry.eu` | No |
@@ -27724,6 +27726,7 @@ Here's a list of public Fediverse services.
 | `photoholics.online` | No |
 | `photois.art` | No |
 | `photojournalist.social` | Yes |
+| `photoku.info` | Yes |
 | `photonflux.club` | No |
 | `photophrenic.online` | No |
 | `phoxden.net` | No |
@@ -40920,8 +40923,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,280 |
-| Normal | 30,597 |
+| Cloudflare | 10,282 |
+| Normal | 30,598 |
 
 
-### 25.1% of public Fediverse services are using Cloudflare.
+### 25.2% of public Fediverse services are using Cloudflare.
