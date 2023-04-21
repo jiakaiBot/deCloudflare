@@ -1522,6 +1522,7 @@ Here's a list of public Fediverse services.
 | `alohaloa.com` | No |
 | `alolise.org` | No |
 | `alonecomplex.xyz` | Yes |
+| `aloneroid.one` | No |
 | `alongtheray.social` | Yes |
 | `alpa.social` | Yes |
 | `alpaca.gold` | No |
@@ -9066,7 +9067,7 @@ Here's a list of public Fediverse services.
 | `dondondon.ga` | No |
 | `doneydenouden.com` | Yes |
 | `dong.army` | No |
-| `dong.engineer` | No |
+| `dong.engineer` | Yes |
 | `dongs.social` | Yes |
 | `dongxi.ca` | Yes |
 | `donjuans.page` | No |
@@ -40930,8 +40931,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,283 |
+| Cloudflare | 10,284 |
 | Normal | 30,604 |
 
 
-### 25.1% of public Fediverse services are using Cloudflare.
+### 25.2% of public Fediverse services are using Cloudflare.
