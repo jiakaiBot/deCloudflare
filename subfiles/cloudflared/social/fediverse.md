@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,163 |
 | social | 3,952 |
 | net | 3,142 |
-| org | 2,174 |
+| org | 2,175 |
 | de | 2,052 |
 
 
@@ -22286,7 +22286,7 @@ Here's a list of public Fediverse services.
 | `memes.nz` | Yes |
 | `memesouls.top` | No |
 | `memesrus.org` | No |
-| `memesskey.com` | Yes |
+| `memesskey.com` | No |
 | `memetastic.space` | Yes |
 | `memetica.cloud` | No |
 | `memework.ga` | No |
@@ -30550,7 +30550,7 @@ Here's a list of public Fediverse services.
 | `ronaldoussoren.net` | No |
 | `ronbronson.com` | No |
 | `rondheim.haus` | No |
-| `rondoalive.xyz` | Yes |
+| `rondoalive.xyz` | No |
 | `ronet.de` | No |
 | `ronetcloud.com` | No |
 | `ronguest.net` | No |
@@ -39592,6 +39592,7 @@ Here's a list of public Fediverse services.
 | `wuewuewue.de` | No |
 | `wuff-miau.club` | No |
 | `wuff.space` | Yes |
+| `wuffs.org` | No |
 | `wufo.watch` | No |
 | `wufwuf.org` | No |
 | `wug.fun` | Yes |
@@ -40903,8 +40904,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,272 |
-| Normal | 30,588 |
+| Cloudflare | 10,270 |
+| Normal | 30,591 |
 
 
 ### 25.1% of public Fediverse services are using Cloudflare.
