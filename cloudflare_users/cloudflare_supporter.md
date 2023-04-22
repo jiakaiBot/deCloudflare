@@ -2264,8 +2264,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -9762,6 +9762,7 @@ Do not create new issue or we will close it as duplicate.
 | [saasglobal@twitter](https://twitter.com/saasglobal/status/1509912884091908096) | advertise |
 | [saashup@twitter](https://twitter.com/saashup/status/1495887293600649216) | advertise |
 | [Saavycld@twitter](https://twitter.com/Saavycld/status/1638271476687163397) | advertise |
+| [saavycloud@twitter](https://twitter.com/saavycloud/status/1638271476687163397) | advertise |
 | [sabasaboo3357@twitter](https://twitter.com/sabasaboo3357/status/1601328812570001408) | advertise |
 | [sabboy99@twitter](https://twitter.com/sabboy99/status/1384536063406796800) | advertise |
 | [SachdevPawar5@twitter](https://twitter.com/SachdevPawar5/status/1401485466873090048) | advertise |
