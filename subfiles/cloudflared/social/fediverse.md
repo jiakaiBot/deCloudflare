@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,181 |
+| com | 6,182 |
 | social | 3,960 |
-| net | 3,146 |
+| net | 3,147 |
 | org | 2,176 |
 | de | 2,057 |
 
@@ -1592,6 +1592,7 @@ Here's a list of public Fediverse services.
 | `altertek.org` | No |
 | `altervista.org` | Yes |
 | `alterw.fr` | No |
+| `altetanke.com` | No |
 | `altformeget.online` | No |
 | `altfurry.xyz` | No |
 | `altillimity.com` | No |
@@ -3398,6 +3399,7 @@ Here's a list of public Fediverse services.
 | `bdn.one` | No |
 | `bdsmspace.club` | No |
 | `bdx.town` | No |
+| `be-kind-rewind.online` | No |
 | `beach.city` | No |
 | `beachcom.org` | No |
 | `beagle.casa` | Yes |
@@ -12121,6 +12123,7 @@ Here's a list of public Fediverse services.
 | `freeddns.org` | No |
 | `freediverse.com` | No |
 | `freedom.horse` | No |
+| `freedom.hr` | Yes |
 | `freedombone.net` | No |
 | `freedombox.rocks` | No |
 | `freedomclub.fans` | Yes |
@@ -24352,6 +24355,7 @@ Here's a list of public Fediverse services.
 | `nagoyadon.jp` | Yes |
 | `nagy.haus` | No |
 | `nah.re` | No |
+| `naharia.net` | No |
 | `nahcnuj.work` | No |
 | `nahe.social` | No |
 | `naheimst.info` | No |
@@ -40974,8 +40978,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,303 |
-| Normal | 30,628 |
+| Cloudflare | 10,304 |
+| Normal | 30,631 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
