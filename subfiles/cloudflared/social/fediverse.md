@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,180 |
 | social | 3,960 |
-| net | 3,145 |
+| net | 3,146 |
 | org | 2,176 |
 | de | 2,056 |
 
@@ -25653,6 +25653,7 @@ Here's a list of public Fediverse services.
 | `notmastodon.xyz` | No |
 | `notmet.net` | No |
 | `notmyidea.org` | No |
+| `notnamed.net` | Yes |
 | `notnow.dev` | No |
 | `notnull.click` | No |
 | `notnull.space` | No |
@@ -31587,6 +31588,7 @@ Here's a list of public Fediverse services.
 | `scoat.es` | No |
 | `scobleizer.blog` | No |
 | `scoffoni.net` | No |
+| `scollectif.fr` | No |
 | `scolterius.net` | No |
 | `sconnesso.link` | No |
 | `scoob.wtf` | No |
@@ -40969,8 +40971,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,302 |
-| Normal | 30,624 |
+| Cloudflare | 10,303 |
+| Normal | 30,625 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
