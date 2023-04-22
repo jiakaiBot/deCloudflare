@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,183 |
 | social | 3,960 |
-| net | 3,147 |
+| net | 3,148 |
 | org | 2,176 |
 | de | 2,057 |
 
@@ -24242,6 +24242,7 @@ Here's a list of public Fediverse services.
 | `mysticmode.org` | Yes |
 | `mysticpsychedelic.space` | No |
 | `mystikos.org` | Yes |
+| `mystodon.net` | No |
 | `mystodon.social` | No |
 | `mystrade.xyz` | No |
 | `mysw.moe` | Yes |
@@ -40981,7 +40982,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,304 |
-| Normal | 30,633 |
+| Normal | 30,634 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
