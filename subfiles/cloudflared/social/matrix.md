@@ -83,7 +83,6 @@ Here's a list of public Matrix services.
 | mailstation.de | No |
 | matrix.im | No |
 | matrix.org | Yes |
-| synapse.miruku.cafe | Yes |
 | matrix.monero.social | No |
 | mtrx.nz | No |
 | nitro.chat | No |
@@ -95,6 +94,7 @@ Here's a list of public Matrix services.
 | pcriot.org | Yes |
 | matrix.perthchat.org | Yes |
 | matrix.pikaviestin.fi | No |
+| matrix.plus.st | No |
 | possum.city | Yes |
 | pragma-messenger.ch | No |
 | www.privacytools.io | Yes |
@@ -126,8 +126,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 21 |
-| Normal | 78 |
+| Cloudflare | 20 |
+| Normal | 79 |
 
 
-### 21.2% of public Matrix services are using Cloudflare.
+### 20.2% of public Matrix services are using Cloudflare.
