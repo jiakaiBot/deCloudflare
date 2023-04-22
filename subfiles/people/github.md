@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: Cloudflare Turnstile Nothing to reset found for provided container.](https://github.com/we-race-here/wrh-organization/issues/363)
+- [Can't install Node 20](https://github.com/nvm-sh/nvm/issues/3097)
+- [Cloudflare Image Resizing loader toFixed(2) syntax error](https://github.com/Josh-McFarlin/remix-image/issues/69)
 - [schema-tools compare -n HEAD -p {PKG} is wrong](https://github.com/pulumi/schema-tools/issues/30)
 - [Website unreachable on linux based mobile devices due to cloudflare](https://github.com/Trustroots/trustroots/issues/2639)
 - [Missing addons repositories](https://github.com/home-assistant/operating-system/issues/2497)
