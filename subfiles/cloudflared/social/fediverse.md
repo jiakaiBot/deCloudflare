@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,180 |
+| com | 6,181 |
 | social | 3,960 |
 | net | 3,146 |
 | org | 2,176 |
-| de | 2,056 |
+| de | 2,057 |
 
 
 - Mastodon, Pleroma, etc
@@ -5055,6 +5055,7 @@ Here's a list of public Fediverse services.
 | `bytesexual.net` | No |
 | `byteshift.io` | No |
 | `bytesize.social` | Yes |
+| `bytesize.xyz` | No |
 | `bytestemplar.com` | No |
 | `bytetower.social` | No |
 | `byteunion.com` | Yes |
@@ -8789,6 +8790,7 @@ Here's a list of public Fediverse services.
 | `discover.earth` | Yes |
 | `discovermagazine.com` | No |
 | `discoveryone.sh` | No |
+| `discoverypanel.de` | No |
 | `discretos.fr` | No |
 | `discuss.scot` | Yes |
 | `discuss.systems` | No |
@@ -31953,6 +31955,7 @@ Here's a list of public Fediverse services.
 | `seriousbusiness.international` | No |
 | `seriousposter.club` | No |
 | `seriphap.com` | No |
+| `seritude.com` | Yes |
 | `serotonin.party` | No |
 | `serotoninpower.club` | No |
 | `serpentines.social` | No |
@@ -38844,7 +38847,7 @@ Here's a list of public Fediverse services.
 | `wearefloatinginspace.com` | No |
 | `wearehillsboro.com` | No |
 | `wearejust.men` | No |
-| `weareluck.org` | Yes |
+| `weareluck.org` | No |
 | `wearemastodon.com` | No |
 | `weaselshit.com` | No |
 | `weatherby2378.social` | No |
@@ -40972,7 +40975,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,303 |
-| Normal | 30,625 |
+| Normal | 30,628 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
