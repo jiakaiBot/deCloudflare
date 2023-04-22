@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,171 |
-| social | 3,954 |
+| com | 6,174 |
+| social | 3,958 |
 | net | 3,144 |
 | org | 2,176 |
 | de | 2,053 |
@@ -3123,6 +3123,7 @@ Here's a list of public Fediverse services.
 | `bah.io` | Yes |
 | `bahn.social` | No |
 | `bahnhof.cz` | No |
+| `bahuma.io` | No |
 | `baiqinglyu.com` | No |
 | `baird.club` | Yes |
 | `baird.social` | Yes |
@@ -4946,6 +4947,7 @@ Here's a list of public Fediverse services.
 | `burgenland.space` | No |
 | `burger.rodeo` | Yes |
 | `burgetts.net` | No |
+| `burgh.social` | No |
 | `burgstallerfoto.at` | No |
 | `burk.io` | No |
 | `burma.social` | Yes |
@@ -7411,6 +7413,7 @@ Here's a list of public Fediverse services.
 | `cx.cx` | Yes |
 | `cyan-blue.me` | No |
 | `cyan.wtf` | No |
+| `cyanbane.com` | Yes |
 | `cyaniccerulean.com` | No |
 | `cyannyan.com` | Yes |
 | `cyano.at` | No |
@@ -12301,7 +12304,7 @@ Here's a list of public Fediverse services.
 | `fringe.com` | No |
 | `frinkel.moe` | No |
 | `frinkel.tech` | Yes |
-| `frinsocial.uk` | Yes |
+| `frinsocial.uk` | No |
 | `frinx.online` | No |
 | `frischesicht.de` | No |
 | `friskypaws.social` | Yes |
@@ -18726,6 +18729,7 @@ Here's a list of public Fediverse services.
 | `krapace.fr` | No |
 | `krashboyz.org` | No |
 | `krasovs.ky` | Yes |
+| `krassestegang.social` | Yes |
 | `kratochvil.eu` | Yes |
 | `kraud.social` | No |
 | `krauser.org` | No |
@@ -23870,6 +23874,7 @@ Here's a list of public Fediverse services.
 | `mtwerk.com` | No |
 | `mtxyz.me` | No |
 | `mtzlr.io` | No |
+| `mu7ou.com` | No |
 | `muage.org` | No |
 | `mublog.nl` | No |
 | `muchametow.de` | No |
@@ -25010,6 +25015,7 @@ Here's a list of public Fediverse services.
 | `ngmx.com` | Yes |
 | `ngndn.jp` | No |
 | `ngonbay.com` | No |
+| `ngrok-free.app` | No |
 | `ngrok.app` | Yes |
 | `ngrok.io` | No |
 | `ngtube.fun` | No |
@@ -25977,6 +25983,7 @@ Here's a list of public Fediverse services.
 | `oasys.earth` | No |
 | `oat.sh` | No |
 | `ob-wahl-freiburg.de` | No |
+| `obak-key.com` | Yes |
 | `obapom.work` | No |
 | `obbs.one` | No |
 | `obdev.at` | No |
@@ -29347,6 +29354,7 @@ Here's a list of public Fediverse services.
 | `r3s.nrw` | No |
 | `r3valkyrie.com` | Yes |
 | `r45.jp` | No |
+| `r4d.blue` | Yes |
 | `r4o.jp` | No |
 | `r505.de` | Yes |
 | `r53.me` | No |
@@ -33364,6 +33372,7 @@ Here's a list of public Fediverse services.
 | `spanner.works` | No |
 | `spanningforest.com` | No |
 | `spanreed.com` | No |
+| `spanring.social` | Yes |
 | `sparced.org` | No |
 | `sparkcommunities.net` | Yes |
 | `sparkforge.pro` | Yes |
@@ -34037,6 +34046,7 @@ Here's a list of public Fediverse services.
 | `streamer.cafe` | No |
 | `streamer.place` | Yes |
 | `streamercentral.com` | No |
+| `streamerchat.social` | No |
 | `streamers.social` | Yes |
 | `streamery.club` | No |
 | `streamz.ca` | No |
@@ -36339,6 +36349,7 @@ Here's a list of public Fediverse services.
 | `too.tl` | Yes |
 | `toobnix.org` | No |
 | `toodee.social` | No |
+| `tooky.uk` | Yes |
 | `toolbox.wtf` | No |
 | `toolboxtalk.tech` | No |
 | `toolsforthought.rocks` | No |
@@ -40932,8 +40943,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,284 |
-| Normal | 30,605 |
+| Cloudflare | 10,289 |
+| Normal | 30,611 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
