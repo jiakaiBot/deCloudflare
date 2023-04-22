@@ -1531,6 +1531,7 @@ actualites.uqam.ca
 adams-pdpgw.ual.com
 adb.zuv.uni-heidelberg.de
 adecco.uber.space
+advances.umw.edu.pl
 agentsrv.uniteller.ru
 ahmadfaizal.unimap.edu.my
 akchahal.uwmsois.com
@@ -1544,6 +1545,7 @@ anycast.uncensoreddns.org
 api-gisoperaciones.ufd.es
 api-www2.ukhillwalking.com
 api.companion.tsuba.undercoverlab.com
+api.prod.tyl.usetyl.com
 api.udtrucks.com
 api.unionbankph.com
 api.unnati.gov.in
@@ -1564,6 +1566,7 @@ auth.usilech.plus
 auth.vpn.uxperience.eu
 autodiscover.uberreviews.net
 autodiscover.unapausaagradable.es
+autodiscover.upinfor.com.br
 autodiscover.utvnitrous.net
 automatedirstrffusgv.blob.core.usgovcloudapi.net
 avito.avito.sberbank.avito.avito.avito.covid19.ukrtranspark.com
@@ -1597,6 +1600,7 @@ cmumdm.unige.ch
 coinbase-com.amazon.upturnit.org
 coinbase.update-information-services.com
 coinbasevalue.unleashed.be
+commons.und.edu
 consulta-ipva-debitos.ubpages.com
 contohlms.unimus-blended-learning-stem.com
 cpanel.unitronsea.com
@@ -1610,6 +1614,7 @@ demoportal.unlocked-minds.org
 dev.api.myapp.unicloudgroup.com.vn
 devpod-us-va.uberinternal.com
 discourse.fdn.iwi.unibe.ch
+dokuwiki.ifb.uni-stuttgart.de
 dvr.ukrgasbank.com
 eide.uber.space
 emm-gw.uk-gm.de
@@ -1728,6 +1733,7 @@ tms.uwayapply.com
 tpvvirtual-test.universalpay.es
 track.uscsgo.com
 transforminglives.web.ucu.org.uk
+trial.bpm.unair.ac.id
 trkv3.unikandco.com
 ts-test.ukrgasbank.com
 u-infinity.uobchina.com.cn
@@ -1764,6 +1770,7 @@ udxvem.shop
 uec-pal.com
 uesteam.com
 ueweeq.pw
+ufa696wins.com
 ufabetflix.store
 ufbbva.pt
 ufp-2.com
@@ -1775,7 +1782,6 @@ uhostmk2.com
 uitisolatie.nl
 uitvaartverzorgingdenbesten.nl
 uixx.site
-uk-deliver.co.uk
 uk-standard.com
 uk.usedapple.com.ua
 ukagakadreamteam.com
@@ -1799,6 +1805,8 @@ umbrellaclaim.com
 umbrellarequirements.co.uk
 umkmshafaluna.site
 umrohkebumen.net
+un-accountable.ch
+unalanapay.com
 unavitaverde.net
 unbswiss.com
 uncutmedia.live
@@ -1881,7 +1889,6 @@ updateentertainment.com
 updateghana.net
 updateinfo.space
 updater.ge
-updatethedeathpenalty.com
 updatetimes.gr
 upgradedental.ro
 upliftupdate.site
@@ -1895,9 +1902,11 @@ urbancorner.ro
 urbanhippiegranola.com
 urbanlifestylesa.co.za
 urbanque.co.in
+urbans.city
 urbanstreetculture.co.za
 urbservice.com
 urbservice.no
+urfahaliyikama.com.tr
 urgentservice.pro
 urimnugocfr.com
 urjalankuntopiste.fi
@@ -1912,6 +1921,8 @@ usaroofinggroup.com
 usbankreliantcard.com
 usbankreliascard.com
 usbankrelieacard.com
+usbankrewardscards.com
+usbankruptcy.info
 usbanksreliacard.com
 uscoltd.com
 usd365.live
@@ -2000,6 +2011,7 @@ www.google.ubicatech.ec
 www.gorodrekangliyskayaembank.ushotel.top
 www.helpdesk.unggul.site
 www.hsbclb.com.unsulliedarmy.org
+www.iesalc.unesco.org
 www.invoice.umhlangaohlaza.co.za
 www.invoice.upvoltage.ca
 www.jualan.uberma.id
@@ -2013,6 +2025,7 @@ www.muchlis.uberma.id
 www.mybdo.updatenowph.com
 www.nrcs.usda.gov
 www.office365.uqam.ca
+www.olimpijadasportservice.com.udahnisrbiju.rs
 www.opulous.org.user-claim.com
 www.payment.upiconnect.in
 www.poster-session.corfu2022.uest.gr
@@ -2130,7 +2143,6 @@ www.updateghana.net
 www.updateinformation05-xfinlty.com
 www.updatepayu.in
 www.updatepoftalks.com
-www.updatethedeathpenalty.com
 www.updatetimes.gr
 www.updatetimes.updateentertainment.com
 www.upperleftmobilenotary.com
@@ -2171,6 +2183,7 @@ www.ussa01-amazznupdated-verify.com
 www.utdailybeacon.com
 www.utgchoa.com
 www.utilities-me.com
+www.utilize.co.uk
 www.uykusuz.net
 www.uzitauber.com
 www.vpn.ulohas.tw
@@ -2180,6 +2193,7 @@ www.warehouse.user-tv12.com
 www.whatsapp.unicentromaracay.com
 www.whatsappbutton.upgradeopencart.com
 www.wordpress.wallet.ulohas.tw
+www.youssefhouri.unitedmarketinggroup.ca
 www.zotvsports.ubercpa.net
 www8.uis.no
 wwweqos.uqrejt.cn
