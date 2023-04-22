@@ -8,9 +8,9 @@
               "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.2.8",
-          "update_link": "https://mypdns.eu.org/dl/addon/reporter.xpi?e09636d00f3678aed82b4c05883d7faf7d97697de0c96ff88a82a0d78e0c6466",
-          "update_hash": "sha256:e09636d00f3678aed82b4c05883d7faf7d97697de0c96ff88a82a0d78e0c6466"
+          "version": "1.0.2.9",
+          "update_link": "https://mypdns.eu.org/dl/addon/reporter.xpi",
+          "update_hash": "sha256:599247db3a10832661b1b868705da4ab51ea58ce4e1096f9a5eccd988bd9e2ad"
         }
       ]
     },
@@ -22,9 +22,9 @@
               "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.0.6",
-          "update_link": "https://mypdns.eu.org/dl/addon/defender.xpi?176daebfc21d820aebe7cf5008b3eaa5bf40bb0c845519a51b5ea9ec5abeaf0a",
-          "update_hash": "sha256:176daebfc21d820aebe7cf5008b3eaa5bf40bb0c845519a51b5ea9ec5abeaf0a"
+          "version": "1.0.0.7",
+          "update_link": "https://mypdns.eu.org/dl/addon/defender.xpi",
+          "update_hash": "sha256:469953d461b897d7af51ad8d3defc023e16a302c173584f8e04ca175796caee7"
         }
       ]
     },
@@ -36,9 +36,9 @@
               "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.0.2",
-          "update_link": "https://mypdns.eu.org/dl/addon/screenshot.xpi?24898ef0b846d034004e6c10a50452d47105a271c8a0deaf14e62286d1be31d0",
-          "update_hash": "sha256:24898ef0b846d034004e6c10a50452d47105a271c8a0deaf14e62286d1be31d0"
+          "version": "1.0.0.3",
+          "update_link": "https://mypdns.eu.org/dl/addon/screenshot.xpi",
+          "update_hash": "sha256:355f32db9bf118054df439ccf41e4f86a652110728076768a4c8db19282a9378"
         }
       ]
     },
@@ -50,9 +50,9 @@
               "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.0.4",
-          "update_link": "https://mypdns.eu.org/dl/addon/linkdetails.xpi?a3b297f376138926aee8efdbd342934968a9b5b9c388eb8803aae953edd0bb6b",
-          "update_hash": "sha256:a3b297f376138926aee8efdbd342934968a9b5b9c388eb8803aae953edd0bb6b"
+          "version": "1.0.0.5",
+          "update_link": "https://mypdns.eu.org/dl/addon/linkdetails.xpi",
+          "update_hash": "sha256:466dc667488c006bd2742216d0ade5e72d1fbcdb4f0237eb263d290637f9096f"
         }
       ]
     }
