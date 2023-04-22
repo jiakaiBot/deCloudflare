@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,180 |
-| social | 3,959 |
+| social | 3,960 |
 | net | 3,145 |
 | org | 2,176 |
-| de | 2,055 |
+| de | 2,056 |
 
 
 - Mastodon, Pleroma, etc
@@ -17793,6 +17793,7 @@ Here's a list of public Fediverse services.
 | `karagory.com` | No |
 | `karamatsu.blue` | No |
 | `kararyli.net` | No |
+| `karas.social` | Yes |
 | `karasulu.org` | No |
 | `karatek.net` | Yes |
 | `karateka.social` | No |
@@ -18609,6 +18610,7 @@ Here's a list of public Fediverse services.
 | `konklone.com` | No |
 | `konkon.click` | No |
 | `konmalehth.org` | No |
+| `konnor.host` | No |
 | `kono.pub` | Yes |
 | `kono.sh` | Yes |
 | `konosuke.jp` | No |
@@ -22942,6 +22944,7 @@ Here's a list of public Fediverse services.
 | `misskey.id` | Yes |
 | `misskey.im` | Yes |
 | `misskey.in` | Yes |
+| `misskey.in.th` | Yes |
 | `misskey.io` | Yes |
 | `misskey.jp` | Yes |
 | `misskey.life` | Yes |
@@ -27980,6 +27983,7 @@ Here's a list of public Fediverse services.
 | `pixelfed.fi` | No |
 | `pixelfed.fo` | No |
 | `pixelfed.fr` | No |
+| `pixelfed.hu` | Yes |
 | `pixelfed.icu` | No |
 | `pixelfed.ink` | No |
 | `pixelfed.life` | Yes |
@@ -33532,6 +33536,7 @@ Here's a list of public Fediverse services.
 | `spooky.click` | No |
 | `spooky.computer` | No |
 | `spooky.pizza` | Yes |
+| `spookyg.host` | Yes |
 | `spookygirl.boo` | Yes |
 | `spoon-tamago.com` | Yes |
 | `spooner.social` | Yes |
@@ -39523,6 +39528,7 @@ Here's a list of public Fediverse services.
 | `worldbuilding.zone` | No |
 | `worlddominationplan.com` | No |
 | `worlddrive.club` | No |
+| `worldexec.de` | No |
 | `worldisafuck.com` | No |
 | `worldkey.io` | Yes |
 | `worldofhauru.xyz` | No |
@@ -40962,8 +40968,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,298 |
-| Normal | 30,621 |
+| Cloudflare | 10,302 |
+| Normal | 30,623 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
