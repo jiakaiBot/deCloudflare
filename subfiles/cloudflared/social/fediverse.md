@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,178 |
+| com | 6,180 |
 | social | 3,959 |
 | net | 3,145 |
 | org | 2,176 |
-| de | 2,054 |
+| de | 2,055 |
 
 
 - Mastodon, Pleroma, etc
@@ -6545,6 +6545,7 @@ Here's a list of public Fediverse services.
 | `colloquium.social` | No |
 | `colloquy.social` | No |
 | `colmena.me` | No |
+| `colobox.com` | No |
 | `coloc-family.com` | No |
 | `colonelinux.org` | No |
 | `colonels.world` | No |
@@ -7838,6 +7839,7 @@ Here's a list of public Fediverse services.
 | `darkmoon.social` | No |
 | `darkmyre.cloud` | Yes |
 | `darknedgy.net` | No |
+| `darknight-coffee-cannabis.club` | No |
 | `darknight-coffee.de` | No |
 | `darknight-coffee.eu` | No |
 | `darknight-coffee.org` | No |
@@ -17024,6 +17026,7 @@ Here's a list of public Fediverse services.
 | `jessidhia.dev` | Yes |
 | `jestemgraczem.pl` | Yes |
 | `jesuislibre.net` | No |
+| `jesuscova.com` | No |
 | `jesusinthe.club` | No |
 | `jetfm.fr` | No |
 | `jethro.be` | No |
@@ -18997,6 +19000,7 @@ Here's a list of public Fediverse services.
 | `l4.pm` | Yes |
 | `l4m1.de` | No |
 | `l4p1n.ch` | No |
+| `l5n.de` | No |
 | `la-demeuree.fr` | No |
 | `la-dina.net` | No |
 | `la-isabella.xyz` | No |
@@ -30708,7 +30712,7 @@ Here's a list of public Fediverse services.
 | `rpi-virtuell.de` | No |
 | `rpicloud.de` | No |
 | `rpix.dk` | No |
-| `rplatonov.com` | No |
+| `rplatonov.com` | Yes |
 | `rplatonov.ru` | No |
 | `rpnation.com` | Yes |
 | `rps.social` | Yes |
@@ -40958,8 +40962,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,297 |
-| Normal | 30,618 |
+| Cloudflare | 10,298 |
+| Normal | 30,621 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
