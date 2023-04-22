@@ -10529,6 +10529,7 @@ Here's a list of public Fediverse services.
 | `etiennemoureton.fr` | No |
 | `etiketi.de` | No |
 | `etimon.app` | No |
+| `etke.cc` | No |
 | `etkmusic.dance` | No |
 | `etnedal.net` | No |
 | `etnedal.social` | No |
@@ -40969,7 +40970,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,302 |
-| Normal | 30,623 |
+| Normal | 30,624 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
