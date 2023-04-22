@@ -328,6 +328,7 @@ yapimu.xgane.com
 appid.co.jp.xdtv5glq.xyz
 archive.xusenet.com
 auth.appgw.xtob.net
+auth.xello.world
 bidagent.xad.com
 captcha.xcount.io
 checkout.xpay.by
@@ -365,6 +366,7 @@ packagespc.xboxlive.com
 prep.xn--tauchsportgruppe-klingenmnster-tfd.de
 roblox.v1.xpluem.com
 roblox.v2.xpluem.com
+rta.xboxlive.com
 safetycity.xcitingmedia.net
 sfdufy.xxuz.com
 stag.ticket.xgaers.de
@@ -436,6 +438,7 @@ xeersoft.com
 xeloibabanh.com
 xemiennam.vn
 xenanghyundai.vn
+xfinitystreaming.com
 xhvid5.com
 xiaoshuo.io
 xiaoyu.net
