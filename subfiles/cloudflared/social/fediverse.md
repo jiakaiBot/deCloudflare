@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,174 |
-| social | 3,958 |
-| net | 3,144 |
+| com | 6,178 |
+| social | 3,959 |
+| net | 3,145 |
 | org | 2,176 |
-| de | 2,053 |
+| de | 2,054 |
 
 
 - Mastodon, Pleroma, etc
@@ -843,6 +843,7 @@ Here's a list of public Fediverse services.
 | `acceleratenetworks.com` | No |
 | `access.ly` | No |
 | `accessibility.social` | No |
+| `accessinformationnews.com` | No |
 | `accessnow.social` | Yes |
 | `accidental.yoga` | No |
 | `accioly.dev` | Yes |
@@ -1315,6 +1316,7 @@ Here's a list of public Fediverse services.
 | `alancfrancis.com` | No |
 | `alangraham.de` | No |
 | `alanjames.org` | No |
+| `alanmoon.net` | Yes |
 | `alarsyo.net` | No |
 | `alaska.community` | No |
 | `alaskafriendfinder.com` | No |
@@ -10369,6 +10371,7 @@ Here's a list of public Fediverse services.
 | `ericaftereric.top` | No |
 | `ericalba.com` | Yes |
 | `ericandamanda.net` | No |
+| `ericashman.com` | Yes |
 | `ericbardi.com` | No |
 | `ericbeckers.nl` | Yes |
 | `ericblade.us` | No |
@@ -14252,6 +14255,7 @@ Here's a list of public Fediverse services.
 | `hagan.social` | No |
 | `hagelb.org` | No |
 | `hagen.coffee` | No |
+| `hagerman.social` | Yes |
 | `hagew.blog` | No |
 | `haghiri75.com` | No |
 | `hagion.org` | No |
@@ -15700,6 +15704,7 @@ Here's a list of public Fediverse services.
 | `icosahedron.website` | No |
 | `icosaverse.social` | No |
 | `icreate.social` | Yes |
+| `ict4d.at` | No |
 | `icu.social` | No |
 | `iculture.social` | Yes |
 | `icum.to` | No |
@@ -19987,6 +19992,7 @@ Here's a list of public Fediverse services.
 | `liti.ca` | Yes |
 | `litmind.club` | Yes |
 | `litodon.de` | No |
+| `litopia.me` | No |
 | `litrat.online` | No |
 | `litrat.xyz` | No |
 | `litrpg.online` | No |
@@ -24091,6 +24097,7 @@ Here's a list of public Fediverse services.
 | `myangel.social` | No |
 | `myapple.social` | No |
 | `myasstodon.xyz` | No |
+| `mybluehost.me` | Yes |
 | `mycard.moe` | Yes |
 | `mycat.cn` | No |
 | `mycelium.garden` | No |
@@ -27035,6 +27042,7 @@ Here's a list of public Fediverse services.
 | `packetranger.com` | No |
 | `packetwarriors.net` | No |
 | `packmates.org` | Yes |
+| `packopus.com` | Yes |
 | `pacmanfan.co.nz` | No |
 | `pacna.org` | No |
 | `paco.to` | No |
@@ -28817,6 +28825,7 @@ Here's a list of public Fediverse services.
 | `protagonist.gay` | No |
 | `prote.ca` | No |
 | `protecciondigital.org` | Yes |
+| `protectors.moe` | Yes |
 | `proteomics.social` | Yes |
 | `proto7.io` | No |
 | `protocol7.co` | No |
@@ -29996,6 +30005,7 @@ Here's a list of public Fediverse services.
 | `relm.us` | No |
 | `relms.dev` | Yes |
 | `reluctantly.social` | No |
+| `relyma.club` | Yes |
 | `rem7.space` | No |
 | `remark.as` | No |
 | `remarkably.social` | No |
@@ -30329,6 +30339,7 @@ Here's a list of public Fediverse services.
 | `ringed.space` | No |
 | `ringtail.chat` | No |
 | `ringtailsoftware.co.uk` | No |
+| `rinma.stream` | No |
 | `rinsuki.net` | Yes |
 | `rintik.xyz` | No |
 | `rio.social` | No |
@@ -35062,6 +35073,7 @@ Here's a list of public Fediverse services.
 | `techies.social` | Yes |
 | `techisland.social` | No |
 | `techknowlogick.com` | Yes |
+| `techlifeweb.com` | No |
 | `techlodon.com` | No |
 | `techlover.eu` | No |
 | `techmaturgy.club` | No |
@@ -36567,6 +36579,7 @@ Here's a list of public Fediverse services.
 | `toptechtidbits.com` | No |
 | `topteeth.xyz` | No |
 | `toque.town` | No |
+| `tor.lat` | Yes |
 | `torb.no` | Yes |
 | `torbin.me` | No |
 | `torgo.com` | No |
@@ -37653,6 +37666,7 @@ Here's a list of public Fediverse services.
 | `unmappd.site` | No |
 | `unmensch.xyz` | No |
 | `unmondemeilleur.eu` | No |
+| `unmus.de` | No |
 | `unmusked.social` | No |
 | `unnecessary.tech` | Yes |
 | `unnerv.jp` | No |
@@ -40944,8 +40958,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,289 |
-| Normal | 30,612 |
+| Cloudflare | 10,297 |
+| Normal | 30,618 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
