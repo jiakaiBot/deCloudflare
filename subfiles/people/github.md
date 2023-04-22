@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Fix this source](https://github.com/dipu-bd/lightnovel-crawler/issues/1944)
 - [Error: Cloudflare Turnstile Nothing to reset found for provided container.](https://github.com/we-race-here/wrh-organization/issues/364)
 - [Error: Cloudflare Turnstile Nothing to reset found for provided container.](https://github.com/we-race-here/wrh-organization/issues/363)
 - [Can't install Node 20](https://github.com/nvm-sh/nvm/issues/3097)
