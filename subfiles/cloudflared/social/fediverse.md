@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,182 |
+| com | 6,183 |
 | social | 3,960 |
 | net | 3,147 |
 | org | 2,176 |
@@ -10548,6 +10548,7 @@ Here's a list of public Fediverse services.
 | `etxetik.org` | Yes |
 | `eu5.org` | No |
 | `eug.social` | No |
+| `eugasser.com` | No |
 | `eugen.town` | No |
 | `eugenemakerspace.com` | No |
 | `eula.dev` | No |
@@ -31966,6 +31967,7 @@ Here's a list of public Fediverse services.
 | `serrebiradio.com` | No |
 | `serv-ops.com` | No |
 | `serval.club` | No |
+| `servantweb.fr` | No |
 | `servebeer.com` | Yes |
 | `serveblog.net` | Yes |
 | `serven.social` | No |
@@ -40979,7 +40981,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,304 |
-| Normal | 30,631 |
+| Normal | 30,633 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
