@@ -29544,6 +29544,7 @@ Here's a list of public Fediverse services.
 | `ralek.art` | Yes |
 | `raleurs.eu.org` | No |
 | `ralf-simon.de` | No |
+| `rally.guide` | No |
 | `ralnode.net` | No |
 | `ralphkuehnl.de` | No |
 | `ralsei.moe` | No |
@@ -40944,7 +40945,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,289 |
-| Normal | 30,611 |
+| Normal | 30,612 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
