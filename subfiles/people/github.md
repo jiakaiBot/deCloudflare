@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [schema-tools compare -n HEAD -p {PKG} is wrong](https://github.com/pulumi/schema-tools/issues/30)
 - [Website unreachable on linux based mobile devices due to cloudflare](https://github.com/Trustroots/trustroots/issues/2639)
 - [Missing addons repositories](https://github.com/home-assistant/operating-system/issues/2497)
 - [Unable to post using custom headers passed to GH action](https://github.com/SonarSource/sonarqube-scan-action/issues/66)
