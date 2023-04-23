@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,188 |
+| com | 6,189 |
 | social | 3,960 |
 | net | 3,149 |
 | org | 2,179 |
-| de | 2,059 |
+| de | 2,060 |
 
 
 - Mastodon, Pleroma, etc
@@ -2041,6 +2041,7 @@ Here's a list of public Fediverse services.
 | `antizuckbook.com` | No |
 | `anto.ie` | No |
 | `antoineve.me` | No |
+| `anton-tartz.de` | No |
 | `antonkovalyov.com` | No |
 | `antonlehmus.me` | No |
 | `antonywalton.com` | No |
@@ -25573,6 +25574,7 @@ Here's a list of public Fediverse services.
 | `nordgedanken.de` | No |
 | `nordgedanken.dev` | No |
 | `nordherz.blog` | No |
+| `nordicshutter.com` | No |
 | `nordicvisions.net` | No |
 | `nordisk.cloud` | No |
 | `nordpol.social` | No |
@@ -30657,6 +30659,7 @@ Here's a list of public Fediverse services.
 | `roothell.org` | Yes |
 | `rooting.garden` | No |
 | `rootintootin.org` | No |
+| `roots.works` | No |
 | `rootsignals.ai` | No |
 | `rooty.fr` | No |
 | `ropable.com` | Yes |
@@ -41000,7 +41003,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,309 |
-| Normal | 30,647 |
+| Normal | 30,650 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
