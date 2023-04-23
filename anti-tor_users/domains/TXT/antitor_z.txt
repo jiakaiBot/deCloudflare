@@ -623,6 +623,7 @@ avito.avito.blablacar.avito.avito.www.covid19.zepter-catalog.ru
 avito.avito.sber.avito.sber.sber.covid19.zepter-catalog.ru
 avito.avito.sber.avito.sberbank.www.covid19.zdorovadytyna.com
 avito.blablacar.avito.covid19.zalive-akvilon.ru
+avito.git.gitlab.gitlab.gitlab.git.covid19.zalive-akvilon.ru
 avito.sber.avito.gitlab.git.covid19.zalive-akvilon.ru
 avito.sber.avito.sber.avito.blablacar.covid19.zalive-akvilon.ru
 avito.sber.avito.sber.sberbank.www.covid19.zapusk-million.ru
@@ -670,7 +671,6 @@ happless-api-prod.zeitfracht.digital
 home.zander.su
 hzycsl.zjzwfw.gov.cn
 ibook-stg.zerrodigital.com
-investors.zevra.com
 itau.gateway.zup.me
 javelin.staging.zsservices.com
 juegocoronadearagon.zierzolab.com
@@ -702,6 +702,7 @@ sber.avito.sberbank.gitlab.git.covid19.zalive-akvilon.ru
 sber.avito.sberbank.www.covid19.zapusk-million.ru
 sber.blablacar.avito.avito.avito.covid19.zalive-akvilon.ru
 sber.blablacar.sberbank.covid19.zapusk-million.ru
+sber.git.gitlab.www.covid19.zalive-akvilon.ru
 sber.sber.avito.avito.avito.sber.covid19.zalive-akvilon.ru
 sber.sber.avito.avito.avito.sber.covid19.zepter-catalog.ru
 sber.sber.avito.blablacar.covid19.zalive-akvilon.ru
@@ -724,6 +725,9 @@ sberbank.avito.git.git.git.covid19.zlclubmarket.com
 sberbank.avito.sber.avito.avito.avito.covid19.zdorovadytyna.com
 sberbank.avito.sber.avito.avito.covid19.zdorovadytyna.com
 sberbank.avito.sber.git.git.covid19.zlclubmarket.com
+sberbank.git.covid19.zalive-akvilon.ru
+sberbank.gitlab.git.git.gitlab.www.covid19.zalive-akvilon.ru
+sberbank.gitlab.gitlab.git.covid19.zalive-akvilon.ru
 sberbank.sber.avito.covid19.zapusk-million.ru
 sberbank.sber.avito.covid19.zlclubmarket.com
 sberbank.sber.avito.git.git.git.covid19.zlclubmarket.com
@@ -746,6 +750,7 @@ services.zubahost.com
 sign.zytrust.com
 smocca-staging.zigexn.vn
 static.ctw.zusapi.com
+test-api.zmartagroup.se
 tipengine.zoho.com
 travelassist.zurich.ca
 tsafety2023.zapweb.co.il
@@ -884,6 +889,7 @@ zipgenius.it
 ziptechdirect.com
 ziraatilaclama.com
 ziritugo.com
+zitesinc.com
 zizannsspecialoftheday.online
 zksync-mainnet.us
 zksync.at
