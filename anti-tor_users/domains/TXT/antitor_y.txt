@@ -558,6 +558,7 @@ an.yandex.ru
 analytics-chi-nfl.yinzcam.com
 app-389-autofill-login.dev.yesh.id
 app-491-disable-2fa-when-adding-to-sso.dev.yesh.id
+app.yuebuy.cn
 app14.yellow-page.us
 aso-web.yuanta.com.tw
 asset.yes.my
@@ -572,6 +573,7 @@ b90.yahoo.co.jp
 bank.yvonnetake.nl
 beta.api-metrica.yandex.kz
 beta.api-metrika.yandex.kz
+blog.blog.antispam.yominus.com
 booking.yusupwork.com
 checkout.market.yandex.ru
 checkout.yape.com.pe
@@ -600,6 +602,7 @@ files.yezdo.com
 git.git.gitlab.gitlab.gitlab.git.gmail.yugprom.com
 git.gstore.alibaba-office.yatakeaway.com
 global.ymtracking.com
+hairfortin.yourpurchase.shop
 hgfdyj.youdontcare.com
 hris.ykbut.co.id
 insurance.yesbank.in
@@ -658,6 +661,7 @@ support.yellowdays.com
 taskchat.yannix.com
 testxml.yourdatadelivery.com
 tips.yandex.ru
+tr-page.yandex.ru
 u.yath.de
 uat2.yalamanchili.in
 update-sentry-56.mf-yss.yousee.dk
@@ -674,6 +678,7 @@ webmail.yogamylife.site
 webmail.yutaroblog.org
 winras.yasou-lab.net
 wrfiswf.yourtrap.com
+www.account.yellowtox.com
 www.activate-textact.yoursuppfix.link
 www.bill.yarkindia.com
 www.booking.yusupwork.com
@@ -683,6 +688,7 @@ www.client4.yourswp.com
 www.cliente.yesitweb.com
 www.contoh-keuangan.ypmas.com
 www.elearning.yapiba.sch.id
+www.hairfortin.yourpurchase.shop
 www.it-support-web.yayasanpawyatandahakediri.or.id
 www.login-help.yoursuppfix.link
 www.m.tv.yandex.kz
@@ -804,11 +810,15 @@ yello.com.ua
 yeniinsanyayinevi.com
 yerbateria.com
 yesaswi.tech
+yesconnect.yesbank.in
 yesmoney.yesbank.in
 yesrapido.yesbank.in
 yesterbits.com
 yesvkyc.yesbank.in
 yhbcii.com
+yhqt11.xyz
+yhqt22.xyz
+yhqt33.xyz
 yicunshan.com
 yiff.party
 yifyifliflifii.shop
@@ -836,6 +846,7 @@ yosida-mh.jp
 yosilevi-clinic.co.il
 yotube.com
 youknowbest.co.uk
+youngblackcanucks.com
 youngrentongku.shop
 youngscientist.academy
 youngusaa.com
