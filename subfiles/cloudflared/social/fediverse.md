@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,191 |
 | social | 3,961 |
-| net | 3,149 |
+| net | 3,150 |
 | org | 2,179 |
 | de | 2,060 |
 
@@ -3187,6 +3187,7 @@ Here's a list of public Fediverse services.
 | `bambuswald.social` | No |
 | `banana.dog` | Yes |
 | `bananachips.club` | No |
+| `bananahackers.net` | No |
 | `banananet.work` | No |
 | `bandeng.club` | No |
 | `bandersnatch.xyz` | Yes |
@@ -18077,7 +18078,7 @@ Here's a list of public Fediverse services.
 | `kernvillecowork.social` | No |
 | `kerr.social` | No |
 | `kersny.com` | No |
-| `kertho.me` | No |
+| `kertho.me` | Yes |
 | `keryja.tv` | No |
 | `keskonfai.fr` | No |
 | `kessai-otaku.club` | Yes |
@@ -26322,6 +26323,7 @@ Here's a list of public Fediverse services.
 | `olly.xyz` | No |
 | `olma.me` | No |
 | `olomorn.net` | No |
+| `olpre.me` | No |
 | `olry.co` | No |
 | `olry.me` | No |
 | `ols.wtf` | Yes |
@@ -41010,8 +41012,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,311 |
-| Normal | 30,656 |
+| Cloudflare | 10,312 |
+| Normal | 30,657 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
