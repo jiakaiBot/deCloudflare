@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,190 |
 | social | 3,961 |
-| net | 3,149 |
+| net | 3,150 |
 | org | 2,179 |
 | de | 2,060 |
 
@@ -3187,6 +3187,7 @@ Here's a list of public Fediverse services.
 | `bambuswald.social` | No |
 | `banana.dog` | Yes |
 | `bananachips.club` | No |
+| `bananahackers.net` | No |
 | `banananet.work` | No |
 | `bandeng.club` | No |
 | `bandersnatch.xyz` | Yes |
@@ -10973,6 +10974,7 @@ Here's a list of public Fediverse services.
 | `farkascity.org` | No |
 | `farktronix.com` | No |
 | `farkwar.social` | Yes |
+| `farland.world` | No |
 | `farm.lol` | No |
 | `farman.tokyo` | No |
 | `farmerdev.de` | No |
@@ -26320,6 +26322,7 @@ Here's a list of public Fediverse services.
 | `olly.xyz` | No |
 | `olma.me` | No |
 | `olomorn.net` | No |
+| `olpre.me` | No |
 | `olry.co` | No |
 | `olry.me` | No |
 | `ols.wtf` | Yes |
@@ -36640,6 +36643,7 @@ Here's a list of public Fediverse services.
 | `toromaguro.xyz` | Yes |
 | `toromino.de` | Yes |
 | `torontomusic.cloud` | No |
+| `torpedo-submarine.online` | No |
 | `torr.red` | No |
 | `torrca.com` | Yes |
 | `torrenezzi10.xyz` | No |
@@ -41007,7 +41011,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,311 |
-| Normal | 30,652 |
+| Normal | 30,656 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
