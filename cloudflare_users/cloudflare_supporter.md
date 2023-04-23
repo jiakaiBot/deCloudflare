@@ -2265,8 +2265,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -2664,6 +2664,7 @@ Do not create new issue or we will close it as duplicate.
 | [DimAtmodihardjo@twitter](https://twitter.com/DimAtmodihardjo/status/1404448329673576452) | advertise |
 | [DimensionallyC@twitter](https://twitter.com/DimensionallyC/status/1646979134051196929) | advertise |
 | [DimensionWeb@twitter](https://twitter.com/DimensionWeb/status/1517072901673041920) | advertise |
+| [dimitri_twt@twitter](https://twitter.com/dimitri_twt/status/1650200767167438855) | advertise |
 | [Dimple83590037@twitter](https://twitter.com/Dimple83590037/status/1391730872240463878) | advertise |
 | [Dina98163760@twitter](https://twitter.com/Dina98163760/status/1401385319220580358) | advertise |
 | [DinDin42991569@twitter](https://twitter.com/DinDin42991569/status/1396071757589532676) | advertise |
