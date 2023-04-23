@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,189 |
-| social | 3,960 |
+| com | 6,190 |
+| social | 3,961 |
 | net | 3,149 |
 | org | 2,179 |
 | de | 2,060 |
@@ -463,6 +463,7 @@ Here's a list of public Fediverse services.
 | `4liberty.one` | Yes |
 | `4lima.de` | Yes |
 | `4metal.info` | No |
+| `4netguides.com` | No |
 | `4netguides.org` | No |
 | `4orce.online` | No |
 | `4qq.org` | No |
@@ -21291,6 +21292,7 @@ Here's a list of public Fediverse services.
 | `mashed.cloud` | Yes |
 | `mashek.net` | No |
 | `mashi.ro` | Yes |
+| `mashiro.cyou` | Yes |
 | `mashiro.life` | No |
 | `mashiro.site` | Yes |
 | `mashiro.top` | Yes |
@@ -33204,6 +33206,7 @@ Here's a list of public Fediverse services.
 | `solarpunks.blog` | No |
 | `solarpunks.social` | No |
 | `solarpunkstation.com` | No |
+| `solarsystem.social` | No |
 | `solawi.social` | No |
 | `solchefreu.de` | No |
 | `soldyn.net` | Yes |
@@ -41002,8 +41005,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,309 |
-| Normal | 30,650 |
+| Cloudflare | 10,310 |
+| Normal | 30,652 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
