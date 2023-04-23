@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,191 |
 | social | 3,961 |
-| net | 3,150 |
+| net | 3,151 |
 | org | 2,179 |
 | de | 2,060 |
 
@@ -27326,6 +27326,7 @@ Here's a list of public Fediverse services.
 | `path.pictures` | No |
 | `pathconnect.de` | No |
 | `pati.to` | No |
+| `patogh.co` | Yes |
 | `patologia.online` | No |
 | `patr.fr` | No |
 | `patramsey.net` | No |
@@ -29787,6 +29788,7 @@ Here's a list of public Fediverse services.
 | `rb-net.work` | No |
 | `rb99.space` | No |
 | `rbhschool.in` | No |
+| `rbkt.net` | No |
 | `rblx.live` | No |
 | `rbose.org` | No |
 | `rbq.press` | Yes |
@@ -41012,8 +41014,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,312 |
-| Normal | 30,657 |
+| Cloudflare | 10,313 |
+| Normal | 30,658 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
