@@ -22541,6 +22541,7 @@ Here's a list of public Fediverse services.
 | `mfbfreaks.nl` | No |
 | `mfg.fyi` | No |
 | `mfjt.jp` | Yes |
+| `mfmf.club` | Yes |
 | `mfmfuyu.net` | Yes |
 | `mfojtik.io` | Yes |
 | `mfr.social` | No |
@@ -41005,7 +41006,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,310 |
+| Cloudflare | 10,311 |
 | Normal | 30,652 |
 
 
