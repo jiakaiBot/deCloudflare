@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,190 |
+| com | 6,191 |
 | social | 3,961 |
-| net | 3,150 |
+| net | 3,149 |
 | org | 2,179 |
 | de | 2,060 |
 
@@ -3187,7 +3187,6 @@ Here's a list of public Fediverse services.
 | `bambuswald.social` | No |
 | `banana.dog` | Yes |
 | `bananachips.club` | No |
-| `bananahackers.net` | No |
 | `banananet.work` | No |
 | `bandeng.club` | No |
 | `bandersnatch.xyz` | Yes |
@@ -13332,6 +13331,7 @@ Here's a list of public Fediverse services.
 | `giorgiocomai.eu` | Yes |
 | `giot.es` | No |
 | `giov.dev` | Yes |
+| `giraffeviola.com` | No |
 | `girak.moe` | Yes |
 | `girak.net` | No |
 | `giratina.net` | Yes |
@@ -26322,7 +26322,6 @@ Here's a list of public Fediverse services.
 | `olly.xyz` | No |
 | `olma.me` | No |
 | `olomorn.net` | No |
-| `olpre.me` | No |
 | `olry.co` | No |
 | `olry.me` | No |
 | `ols.wtf` | Yes |
@@ -41012,7 +41011,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,311 |
-| Normal | 30,657 |
+| Normal | 30,656 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
