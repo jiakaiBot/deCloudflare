@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Access denied to ChatGPT](https://github.com/chatgp/chatgpt-go/issues/9)
 - [Blocked by CORS (reverse proxy)](https://github.com/Zibbp/ganymede/issues/180)
 - [Fix this source](https://github.com/dipu-bd/lightnovel-crawler/issues/1944)
 - [Error: Cloudflare Turnstile Nothing to reset found for provided container.](https://github.com/we-race-here/wrh-organization/issues/364)
