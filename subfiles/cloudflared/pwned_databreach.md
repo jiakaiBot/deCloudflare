@@ -57,7 +57,7 @@ Here's a list of breached sites.
 | Appen | 5,888,405 | Yes |
 | Aptoide | 20,012,235 | Yes |
 | ArmorGames (Armor Games) | 10,604,307 | Yes |
-| ArmyForceOnline (Army Force Online) | 1,531,235 | Yes |
+| ArmyForceOnline (Army Force Online) | 1,531,235 | No |
 | Artsy | 1,079,970 | Yes |
 | Artvalue | 157,692 | No |
 | AshleyMadison (Ashley Madison) | 30,811,934 | Yes |
@@ -111,7 +111,7 @@ Here's a list of breached sites.
 | BulgarianNationalRevenueAgency (Bulgarian National Revenue Agency) | 471,167 | Yes |
 | BusinessAcumen (Business Acumen Magazine) | 26,596 | No |
 | CDEK | 19,218,203 | No |
-| CDProjektRed (CD Projekt RED) | 1,871,373 | No |
+| CDProjektRed (CD Projekt RED) | 1,871,373 | Yes |
 | COMELEC (COMELEC (Philippines Voters)) | 228,605 | Yes |
 | CTARS | 12,314 | No |
 | CafeMom | 2,628,148 | No |
@@ -543,6 +543,7 @@ Here's a list of breached sites.
 | Technic | 265,410 | Yes |
 | Teespring | 8,234,193 | Yes |
 | Teracod | 97,151 | No |
+| Terravision | 2,075,625 | No |
 | Tesco | 2,239 | Yes |
 | TheCandidBoard (The Candid Board) | 178,201 | No |
 | TheFappening (The Fappening) | 179,030 | Yes |
@@ -663,10 +664,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 352 | 3,968,969,574 |
-| Normal | 290 | 4,850,810,722 |
+| Cloudflare | 352 | 3,969,309,712 |
+| Normal | 291 | 4,852,546,209 |
 
 
 
-### 54.8% of breached sites (pwned sites) are using Cloudflare.
+### 54.7% of breached sites (pwned sites) are using Cloudflare.
 ### 45% of leaked accounts are on Cloudflare sites.
