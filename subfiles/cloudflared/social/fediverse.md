@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,183 |
+| com | 6,185 |
 | social | 3,960 |
 | net | 3,148 |
 | org | 2,176 |
@@ -1314,6 +1314,7 @@ Here's a list of public Fediverse services.
 | `alanae.net` | No |
 | `alanapost.net` | No |
 | `alancfrancis.com` | No |
+| `alanfwilliams.com` | No |
 | `alangraham.de` | No |
 | `alanjames.org` | No |
 | `alanmoon.net` | Yes |
@@ -3532,6 +3533,7 @@ Here's a list of public Fediverse services.
 | `belllab.ca` | Yes |
 | `bellmyer.me` | Yes |
 | `belltower.it` | No |
+| `beloved-universe.com` | No |
 | `belovely.xyz` | No |
 | `belpheg.org` | No |
 | `belug.de` | No |
@@ -10541,6 +10543,7 @@ Here's a list of public Fediverse services.
 | `etovai.eu` | No |
 | `etr.ist` | No |
 | `etsocialspace.com` | No |
+| `etts.uk` | Yes |
 | `etw.uk` | No |
 | `etwarl.net` | Yes |
 | `etwas42.de` | No |
@@ -16499,6 +16502,7 @@ Here's a list of public Fediverse services.
 | `isometry.group` | No |
 | `isonomia.net` | No |
 | `isopod.cool` | No |
+| `isopod.zone` | No |
 | `isosceles.love` | No |
 | `ispark.social` | No |
 | `ispv-7.com` | No |
@@ -19252,6 +19256,7 @@ Here's a list of public Fediverse services.
 | `latavernedejohnjohn.fr` | No |
 | `latech.space` | No |
 | `lateforlunch.life` | No |
+| `latel88.space` | No |
 | `latenightblog.com` | No |
 | `lateral8.com` | No |
 | `laterracita.online` | No |
@@ -20408,7 +20413,7 @@ Here's a list of public Fediverse services.
 | `loveof.world` | No |
 | `lovers.town` | No |
 | `loves.family` | No |
-| `loves.pizza` | No |
+| `loves.pizza` | Yes |
 | `loves.reisen` | Yes |
 | `lovesick.social` | No |
 | `lovethe.wang` | No |
@@ -34885,6 +34890,7 @@ Here's a list of public Fediverse services.
 | `tapbots.social` | Yes |
 | `tape-41.de` | No |
 | `tape.cx` | No |
+| `tapenoise.cafe` | No |
 | `tapesoftware.net` | Yes |
 | `tapferimnirgendwo.com` | No |
 | `tapi.cafe` | No |
@@ -40981,8 +40987,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,304 |
-| Normal | 30,634 |
+| Cloudflare | 10,306 |
+| Normal | 30,638 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
