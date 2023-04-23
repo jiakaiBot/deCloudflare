@@ -29561,6 +29561,7 @@ Here's a list of public Fediverse services.
 | `raindrops.cyou` | No |
 | `rainer-zufall.tk` | Yes |
 | `rainevixen.com` | Yes |
+| `raintreasure.top` | No |
 | `rainy.garden` | No |
 | `rainy.pizza` | No |
 | `rainyman.jp` | No |
@@ -41011,7 +41012,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,311 |
-| Normal | 30,656 |
+| Normal | 30,657 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
