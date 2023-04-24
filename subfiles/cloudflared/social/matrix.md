@@ -69,7 +69,6 @@ Here's a list of public Matrix services.
 | matrix.grin.hu | No |
 | matrix.group.lt | Yes |
 | hackerspaces.be | No |
-| hackliberty.org | No |
 | matrix.hadoly.fr | No |
 | chatserver.hashi.sbs | Yes |
 | hot-chilli.im | No |
@@ -102,6 +101,7 @@ Here's a list of public Matrix services.
 | matrix.rimfaxe.net | No |
 | riotchat.de | Yes |
 | ru-matrix.org | No |
+| sans-nuage.fr | No |
 | matrix.sibnsk.net | No |
 | socialnetwork24.com | No |
 | matrix.studichat.de | No |
