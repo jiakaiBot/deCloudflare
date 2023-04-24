@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,196 |
+| com | 6,198 |
 | social | 3,964 |
 | net | 3,153 |
 | org | 2,179 |
@@ -13994,6 +13994,7 @@ Here's a list of public Fediverse services.
 | `grozav.dev` | Yes |
 | `grozog.tech` | No |
 | `grrtt.net` | No |
+| `grtsk.com` | No |
 | `gru.guru` | No |
 | `gru.social` | No |
 | `grudge.space` | No |
@@ -32969,6 +32970,7 @@ Here's a list of public Fediverse services.
 | `sndw.ch` | Yes |
 | `sneak.berlin` | Yes |
 | `sneak.ovh` | No |
+| `sneaka.lol` | No |
 | `sneakerwave.net` | Yes |
 | `sneaky.computer` | Yes |
 | `sneakycrow.io` | No |
@@ -36391,6 +36393,7 @@ Here's a list of public Fediverse services.
 | `tomg.de` | No |
 | `tomg.xyz` | No |
 | `tomgreig.tk` | No |
+| `tomhaus.com` | Yes |
 | `tomheinan.com` | Yes |
 | `tomica.me` | No |
 | `tomica.social` | No |
@@ -41037,8 +41040,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,320 |
-| Normal | 30,674 |
+| Cloudflare | 10,321 |
+| Normal | 30,676 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
