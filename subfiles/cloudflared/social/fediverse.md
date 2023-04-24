@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,195 |
-| social | 3,963 |
+| social | 3,964 |
 | net | 3,153 |
 | org | 2,179 |
 | de | 2,060 |
@@ -24916,6 +24916,7 @@ Here's a list of public Fediverse services.
 | `nettek.at` | No |
 | `nettesheim.eu` | No |
 | `nettime.org` | No |
+| `nettles.social` | No |
 | `nettohikari.com` | No |
 | `netvolante.jp` | No |
 | `netw0rk.io` | Yes |
@@ -25713,6 +25714,7 @@ Here's a list of public Fediverse services.
 | `notsorandom.com` | No |
 | `notspam.tk` | No |
 | `nott.cc` | No |
+| `nottamun.town` | No |
 | `nottechnicallyalien.com` | No |
 | `nottingham.city` | Yes |
 | `nottjott.online` | No |
@@ -38344,6 +38346,7 @@ Here's a list of public Fediverse services.
 | `villenave.net` | No |
 | `villisek.fr` | Yes |
 | `vilni.space` | No |
+| `vim.town` | Yes |
 | `vimeo.com` | Yes |
 | `vin.pet` | Yes |
 | `vincanote.net` | No |
@@ -41031,8 +41034,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,319 |
-| Normal | 30,669 |
+| Cloudflare | 10,320 |
+| Normal | 30,671 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
