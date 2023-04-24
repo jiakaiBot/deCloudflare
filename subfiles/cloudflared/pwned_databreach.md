@@ -341,6 +341,7 @@ Here's a list of breached sites.
 | LyricsMania (Lyrics Mania) | 109,202 | No |
 | MCBans | 119,948 | Yes |
 | MDPI | 845,012 | Yes |
+| MEO | 8,227 | Yes |
 | MGM (MGM Resorts) | 3,081,321 | Yes |
 | MGM2022Update (MGM Resorts (2022 Update)) | 24,842,001 | Yes |
 | MMGFusion (MMG Fusion) | 2,660,295 | Yes |
@@ -664,10 +665,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 352 | 3,969,309,712 |
+| Cloudflare | 353 | 3,969,317,939 |
 | Normal | 291 | 4,852,546,209 |
 
 
 
-### 54.7% of breached sites (pwned sites) are using Cloudflare.
+### 54.8% of breached sites (pwned sites) are using Cloudflare.
 ### 45% of leaked accounts are on Cloudflare sites.
