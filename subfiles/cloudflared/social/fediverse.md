@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,191 |
-| social | 3,961 |
+| com | 6,194 |
+| social | 3,962 |
 | net | 3,151 |
 | org | 2,179 |
 | de | 2,060 |
@@ -2187,6 +2187,7 @@ Here's a list of public Fediverse services.
 | `aqraf.tokyo` | No |
 | `aqring.com` | Yes |
 | `aqua-graphic.blue` | No |
+| `aqua22.hu` | Yes |
 | `aqualang.net` | No |
 | `aqualitore-lily.com` | Yes |
 | `aquaplus.jp` | No |
@@ -8323,6 +8324,7 @@ Here's a list of public Fediverse services.
 | `demorz.de` | No |
 | `demos.chat` | No |
 | `demosfera.com` | No |
+| `demotheque.com` | No |
 | `demouliere.eu` | No |
 | `demozumpa.cz` | Yes |
 | `dems.social` | No |
@@ -17441,6 +17443,7 @@ Here's a list of public Fediverse services.
 | `jseggers.com` | Yes |
 | `jsfamily.in` | No |
 | `jshwlkr.info` | No |
+| `jsirish.social` | No |
 | `jsna.dev` | Yes |
 | `json.blog` | No |
 | `jsonly.club` | No |
@@ -22721,6 +22724,7 @@ Here's a list of public Fediverse services.
 | `mikehendley.com` | Yes |
 | `mikei.sh` | No |
 | `mikeinspace.nl` | No |
+| `mikelsigler.com` | No |
 | `mikemcquaid.com` | Yes |
 | `mikep.ro` | Yes |
 | `mikes.tech` | No |
@@ -23036,7 +23040,7 @@ Here's a list of public Fediverse services.
 | `mitente.club` | No |
 | `mithril.re` | No |
 | `mithriltower.com` | No |
-| `mithuru.online` | No |
+| `mithuru.online` | Yes |
 | `mitra.pm` | No |
 | `mitra.social` | No |
 | `mitrailleuse.net` | Yes |
@@ -24969,6 +24973,7 @@ Here's a list of public Fediverse services.
 | `neuroscience.day` | Yes |
 | `neurosciencenews.com` | Yes |
 | `neurospicy.club` | No |
+| `neurospicynerds.com` | No |
 | `neustrelitz.nz` | No |
 | `neuwirth.priv.at` | No |
 | `neuzerling.com` | No |
@@ -25220,6 +25225,7 @@ Here's a list of public Fediverse services.
 | `nilswloka.com` | No |
 | `nimag.net` | No |
 | `nimantu.de` | No |
+| `nimber.online` | Yes |
 | `nimbus.social` | Yes |
 | `nime.space` | No |
 | `nimmerland.space` | No |
@@ -31110,7 +31116,7 @@ Here's a list of public Fediverse services.
 | `saii.cc` | No |
 | `saik0.com` | Yes |
 | `sail216.com` | Yes |
-| `sail42.fr` | No |
+| `sail42.fr` | Yes |
 | `saillune.online` | No |
 | `sailor.cat` | No |
 | `sailstrails.cafe` | No |
@@ -41020,8 +41026,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,315 |
-| Normal | 30,662 |
+| Cloudflare | 10,319 |
+| Normal | 30,664 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
