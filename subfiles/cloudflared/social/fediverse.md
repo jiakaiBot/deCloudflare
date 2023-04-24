@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,195 |
+| com | 6,196 |
 | social | 3,964 |
 | net | 3,153 |
 | org | 2,179 |
@@ -4244,6 +4244,7 @@ Here's a list of public Fediverse services.
 | `bludood.com` | Yes |
 | `blue-mastodon.club` | No |
 | `blueadair.net` | Yes |
+| `blueand.red` | No |
 | `bluebell.social` | No |
 | `bluebirdmigrate.com` | No |
 | `blueblueblue.blue` | No |
@@ -19656,6 +19657,7 @@ Here's a list of public Fediverse services.
 | `lewd.today` | No |
 | `lewd.town` | No |
 | `lewd.website` | No |
+| `lewdieheaven.com` | No |
 | `lewisdale.dev` | No |
 | `lewishamcyclists.org.uk` | No |
 | `lex-blog.eu` | No |
@@ -39826,6 +39828,7 @@ Here's a list of public Fediverse services.
 | `xaos.space` | No |
 | `xaq.cz` | Yes |
 | `xarondigital.com` | No |
+| `xarx.eu` | No |
 | `xarx.io` | No |
 | `xarxa.cloud` | No |
 | `xataka.com` | No |
@@ -41035,7 +41038,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,320 |
-| Normal | 30,671 |
+| Normal | 30,674 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
