@@ -7033,7 +7033,7 @@ Here's a list of public Fediverse services.
 | `cre8thoughts.com` | No |
 | `creacher.club` | No |
 | `creaddotson.com` | No |
-| `creatediv.net` | Yes |
+| `creatediv.net` | No |
 | `creation.md` | No |
 | `creative.ai` | No |
 | `creative.link` | Yes |
@@ -19483,6 +19483,7 @@ Here's a list of public Fediverse services.
 | `leiden.digital` | No |
 | `leif.pl` | No |
 | `leigh.social` | No |
+| `lein.us` | No |
 | `leinde.de` | No |
 | `leingod.space` | No |
 | `leipzig.town` | No |
@@ -41015,8 +41016,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,314 |
-| Normal | 30,658 |
+| Cloudflare | 10,313 |
+| Normal | 30,660 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
