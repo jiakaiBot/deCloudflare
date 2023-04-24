@@ -3002,7 +3002,7 @@ Here's a list of public Fediverse services.
 | `b101.me` | No |
 | `b10m.net` | No |
 | `b123400.net` | No |
-| `b12e.be` | No |
+| `b12e.be` | Yes |
 | `b1ju.in` | No |
 | `b1n.win` | Yes |
 | `b1y.de` | No |
@@ -19845,6 +19845,7 @@ Here's a list of public Fediverse services.
 | `lightnovel-dungeon.de` | No |
 | `lights.tokyo` | Yes |
 | `lightsout.games` | Yes |
+| `lighttheunicorn.horse` | No |
 | `lightx.org` | No |
 | `ligma.pro` | Yes |
 | `lignux.com` | Yes |
@@ -41014,7 +41015,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,313 |
+| Cloudflare | 10,314 |
 | Normal | 30,658 |
 
 
