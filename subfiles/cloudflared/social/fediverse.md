@@ -4933,6 +4933,7 @@ Here's a list of public Fediverse services.
 | `bunne.garden` | No |
 | `bunnegirl.solutions` | No |
 | `bunni.eu` | No |
+| `bunnies.gay` | No |
 | `bunny.blue` | No |
 | `bunny.cafe` | No |
 | `bunny.cloud` | Yes |
@@ -16650,6 +16651,7 @@ Here's a list of public Fediverse services.
 | `ixcat.fr` | No |
 | `ixda.org` | Yes |
 | `ixiaochuan.cn` | No |
+| `ixor.tech` | Yes |
 | `iyasaretai.pw` | No |
 | `iyher.club` | No |
 | `iys.io` | Yes |
@@ -27360,6 +27362,7 @@ Here's a list of public Fediverse services.
 | `paulwilde.uk` | No |
 | `paupers.xyz` | No |
 | `pavel.online` | No |
+| `pavilion.tech` | No |
 | `pavlik.top` | No |
 | `pavluk.org` | Yes |
 | `pavot.ca` | No |
@@ -37963,6 +37966,7 @@ Here's a list of public Fediverse services.
 | `v.nu` | Yes |
 | `v.st` | No |
 | `v01d.app` | No |
+| `v01d.nl` | Yes |
 | `v0idkr4ft.com` | Yes |
 | `v112.space` | No |
 | `v1x3n.net` | No |
@@ -41016,8 +41020,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,313 |
-| Normal | 30,660 |
+| Cloudflare | 10,315 |
+| Normal | 30,662 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
