@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,194 |
-| social | 3,962 |
-| net | 3,151 |
+| com | 6,195 |
+| social | 3,963 |
+| net | 3,153 |
 | org | 2,179 |
 | de | 2,060 |
 
@@ -3386,7 +3386,7 @@ Here's a list of public Fediverse services.
 | `bbrks.me` | Yes |
 | `bbs.casa` | No |
 | `bbs3k.com` | No |
-| `bbsn.ca` | Yes |
+| `bbsn.ca` | No |
 | `bbw.network` | No |
 | `bc5.ca` | No |
 | `bcan.org` | Yes |
@@ -7283,6 +7283,7 @@ Here's a list of public Fediverse services.
 | `cubalibre.social` | No |
 | `cuban.social` | No |
 | `cubar.co` | Yes |
+| `cubatech.social` | No |
 | `cube4fun.net` | No |
 | `cuberry.one` | Yes |
 | `cubes.link` | No |
@@ -16722,6 +16723,7 @@ Here's a list of public Fediverse services.
 | `jacobian.org` | Yes |
 | `jacobneplokh.com` | Yes |
 | `jacobpa.com` | Yes |
+| `jacobramsdell.com` | No |
 | `jacobwhite.us` | No |
 | `jacokoster.com` | No |
 | `jacquesetmichel.fr` | No |
@@ -20726,6 +20728,7 @@ Here's a list of public Fediverse services.
 | `m1x.app` | Yes |
 | `m2.nz` | No |
 | `m213.xyz` | Yes |
+| `m29.us` | No |
 | `m2hq.net` | No |
 | `m3o.org` | Yes |
 | `m3press.jp` | No |
@@ -34689,6 +34692,7 @@ Here's a list of public Fediverse services.
 | `syutin.com` | No |
 | `syuuta.net` | Yes |
 | `syuwa.fun` | No |
+| `syvi.net` | No |
 | `syvita.club` | No |
 | `szeged.social` | No |
 | `szkdon.com` | No |
@@ -40787,6 +40791,7 @@ Here's a list of public Fediverse services.
 | `zettas.space` | No |
 | `zettelkasten.social` | No |
 | `zeus.gent` | No |
+| `zeuslink.net` | Yes |
 | `zevs.me` | No |
 | `zeweb.de` | No |
 | `zfadd.is` | No |
@@ -41027,7 +41032,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,319 |
-| Normal | 30,664 |
+| Normal | 30,669 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
