@@ -37000,6 +37000,7 @@ Here's a list of public Fediverse services.
 | `troot.social` | No |
 | `tropical-is.land` | No |
 | `tropicalbeachclub.com` | No |
+| `tropicalhome.rentals` | No |
 | `troplo.com` | Yes |
 | `trotlot.online` | No |
 | `trougnouf.com` | No |
@@ -41062,7 +41063,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,330 |
-| Normal | 30,688 |
+| Normal | 30,689 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
