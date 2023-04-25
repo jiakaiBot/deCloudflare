@@ -28223,7 +28223,7 @@ Here's a list of public Fediverse services.
 | `pleroma.es` | No |
 | `pleroma.fr` | No |
 | `pleroma.fun` | No |
-| `pleroma.ga` | No |
+| `pleroma.ga` | Yes |
 | `pleroma.id` | No |
 | `pleroma.in.th` | No |
 | `pleroma.io` | No |
@@ -38480,6 +38480,7 @@ Here's a list of public Fediverse services.
 | `vlekken.net` | No |
 | `vlen.org` | No |
 | `vlenture.org` | No |
+| `vlhl.dev` | No |
 | `vlkpack.com` | Yes |
 | `vllm.net` | No |
 | `vlntn.pw` | No |
@@ -41072,7 +41073,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,335 |
+| Cloudflare | 10,336 |
 | Normal | 30,694 |
 
 
