@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [nginx-proxy-manager - logs show client IP as host itself](https://github.com/ej52/proxmox-scripts/issues/114)
 - [code=502 ，Gateway timeout or bad getaway](https://github.com/zhayujie/chatgpt-on-wechat/issues/955)
 - [cml comment issue](https://github.com/iterative/cml/issues/1377)
 - [Ursa-proxy, tokio-runtime-worker: internal error: entered unreachable code: the default fallback added in Router::new](https://github.com/fleek-network/ursa/issues/522)
