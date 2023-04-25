@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,204 |
-| social | 3,965 |
+| com | 6,205 |
+| social | 3,966 |
 | net | 3,156 |
-| org | 2,181 |
+| org | 2,182 |
 | de | 2,060 |
 
 
@@ -16196,6 +16196,7 @@ Here's a list of public Fediverse services.
 | `innonate.com` | No |
 | `innooo.fr` | No |
 | `innoq.social` | No |
+| `innotel.social` | No |
 | `innovatelearning.social` | Yes |
 | `innum.net` | Yes |
 | `ino.org.uk` | No |
@@ -16457,7 +16458,7 @@ Here's a list of public Fediverse services.
 | `is-a.cat` | Yes |
 | `is-a.horse` | No |
 | `is-he.re` | Yes |
-| `is-heckin.gay` | Yes |
+| `is-heckin.gay` | No |
 | `is-here.com` | No |
 | `is-pretty.gay` | Yes |
 | `is-super.moe` | No |
@@ -37308,6 +37309,7 @@ Here's a list of public Fediverse services.
 | `twib.me` | No |
 | `twibox.fr` | Yes |
 | `twictee.fr` | No |
+| `twictee.org` | No |
 | `twiddlebang.org` | No |
 | `twiddon.com` | No |
 | `twidon.com` | No |
@@ -38905,6 +38907,7 @@ Here's a list of public Fediverse services.
 | `watt.ws` | No |
 | `wattenscheid.me` | No |
 | `wattsupwiththat.com` | No |
+| `watzonmanor.com` | Yes |
 | `wauland.de` | No |
 | `wavers.us` | No |
 | `wawas-kingdom.com` | Yes |
@@ -41074,7 +41077,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,336 |
-| Normal | 30,694 |
+| Normal | 30,697 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
