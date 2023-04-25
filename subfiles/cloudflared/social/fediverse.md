@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,201 |
+| com | 6,202 |
 | social | 3,965 |
-| net | 3,154 |
+| net | 3,155 |
 | org | 2,181 |
 | de | 2,060 |
 
@@ -617,6 +617,7 @@ Here's a list of public Fediverse services.
 | `8bit.chat` | Yes |
 | `8bit.red` | No |
 | `8bit.social` | No |
+| `8bitar.io` | No |
 | `8bits1byte.co.uk` | No |
 | `8bittheologian.com` | Yes |
 | `8bitwizard.net` | No |
@@ -30403,6 +30404,7 @@ Here's a list of public Fediverse services.
 | `rikunagiweb.jp` | Yes |
 | `rikvoj.tech` | Yes |
 | `rikwithnoc.com` | Yes |
+| `riley-tech.net` | Yes |
 | `rimfaxe.net` | No |
 | `rimkus.it` | No |
 | `rimmer.cloud` | No |
@@ -30986,6 +30988,7 @@ Here's a list of public Fediverse services.
 | `ryanak.xyz` | Yes |
 | `ryanbooker.com` | No |
 | `ryancarroll.online` | Yes |
+| `ryaneby.com` | No |
 | `ryankes.eu` | Yes |
 | `ryanleesipes.me` | No |
 | `ryanschultz.com` | No |
@@ -31005,6 +31008,7 @@ Here's a list of public Fediverse services.
 | `rylander.cc` | Yes |
 | `rylees.net` | Yes |
 | `rym.social` | No |
+| `rymate.co.uk` | Yes |
 | `rymer.social` | Yes |
 | `rymnd.net` | Yes |
 | `ryne.moe` | No |
@@ -41062,8 +41066,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,330 |
-| Normal | 30,689 |
+| Cloudflare | 10,332 |
+| Normal | 30,691 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
