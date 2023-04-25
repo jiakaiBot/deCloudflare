@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Traefik routes and SSL broken since 2.9.9_17.0.28](https://github.com/truecharts/charts/issues/8157)
 - [CF deep search!](https://github.com/scaredos/cfresearch/issues/10)
 - [HEREDOC Format appears to not function on some older Routers/Firmware](https://github.com/ulygit/asus_rt_ac68u/issues/23)
 - [CloudFlare Cloudflare API service issues](https://github.com/MatBenfield/news/issues/13299)
