@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [HEREDOC Format appears to not function on some older Routers/Firmware](https://github.com/ulygit/asus_rt_ac68u/issues/23)
 - [CloudFlare Cloudflare API service issues](https://github.com/MatBenfield/news/issues/13299)
 - [nginx-proxy-manager - logs show client IP as host itself](https://github.com/ej52/proxmox-scripts/issues/114)
 - [code=502 ，Gateway timeout or bad getaway](https://github.com/zhayujie/chatgpt-on-wechat/issues/955)
