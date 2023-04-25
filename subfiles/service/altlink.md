@@ -8,9 +8,7 @@
 
 This is `opt-in` service.
 
-[//]: # (please do not edit 'Currently MitiGator is'.)
-
-Currently MitiGator is helping _4_ users from preventing sharing inaccessible links.
+MitiGator can help you preventing sharing inaccessible links.
 
 
 - Contents
@@ -111,9 +109,6 @@ Put Cloudflared URL like this...
 
 
 ### Report a problem / Create an Issue
-
-- By default any direct message WILL NOT forwarded to issues for spam protection.
-  - You can enable this option by going to `Settings website` and turn on `Talk` option.
 
 You can create an Issue without git account. Just send a **direct** message.
 And don't worry
