@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CF deep search!](https://github.com/scaredos/cfresearch/issues/10)
 - [HEREDOC Format appears to not function on some older Routers/Firmware](https://github.com/ulygit/asus_rt_ac68u/issues/23)
 - [CloudFlare Cloudflare API service issues](https://github.com/MatBenfield/news/issues/13299)
 - [nginx-proxy-manager - logs show client IP as host itself](https://github.com/ej52/proxmox-scripts/issues/114)
