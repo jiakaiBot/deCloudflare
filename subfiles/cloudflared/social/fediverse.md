@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,200 |
+| com | 6,201 |
 | social | 3,965 |
 | net | 3,153 |
 | org | 2,180 |
@@ -4535,6 +4535,7 @@ Here's a list of public Fediverse services.
 | `bot.nu` | Yes |
 | `botany.social` | No |
 | `botdon.net` | No |
+| `boteden.com` | No |
 | `botequim.social` | No |
 | `boterbast.nl` | No |
 | `botnet.club` | Yes |
@@ -41049,7 +41050,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,325 |
-| Normal | 30,680 |
+| Normal | 30,681 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
