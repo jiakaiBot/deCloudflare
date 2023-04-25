@@ -6534,6 +6534,7 @@ Do not create new issue or we will close it as duplicate.
 | [luongng59787247@twitter](https://twitter.com/luongng59787247/status/1612442148447870978) | advertise |
 | [Luph96507624@twitter](https://twitter.com/Luph96507624/status/1392188259661320193) | advertise |
 | [LuralMay@twitter](https://twitter.com/LuralMay/status/1384873233158115328) | advertise |
+| [luscalopez@twitter](https://twitter.com/luscalopez/status/1650653434750590979) | advertise |
 | [LusicTu@twitter](https://twitter.com/LusicTu/status/1604635440618799104) | advertise |
 | [lusiferin_@twitter](https://twitter.com/lusiferin_/status/1621820783692595201) | advertise |
 | [lusoela04067897@twitter](https://twitter.com/lusoela04067897/status/1390825507457945601) | advertise |
