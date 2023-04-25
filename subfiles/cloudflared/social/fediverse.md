@@ -651,7 +651,7 @@ Here's a list of public Fediverse services.
 | `9net.org` | Yes |
 | `9tail.net` | Yes |
 | `9til.de` | No |
-| `9to5mac.com` | No |
+| `9to5mac.com` | Yes |
 | `9uelle.jp` | No |
 | `9wd.eu` | Yes |
 | `9zn.net` | No |
@@ -8301,6 +8301,7 @@ Here's a list of public Fediverse services.
 | `demelo.fr` | No |
 | `demelt.net` | No |
 | `dementedandsadbut.social` | No |
+| `dementia.fun` | No |
 | `dementophobia.net` | No |
 | `demi-sec.org` | No |
 | `demigod.bar` | No |
@@ -9957,7 +9958,7 @@ Here's a list of public Fediverse services.
 | `eldritch.gift` | No |
 | `eldritchworld.nom.es` | No |
 | `electrafish.tech` | Yes |
-| `electrek.co` | No |
+| `electrek.co` | Yes |
 | `electric-goat.net` | No |
 | `electriceye.info` | No |
 | `electricglen.com` | No |
@@ -41040,8 +41041,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,321 |
-| Normal | 30,676 |
+| Cloudflare | 10,323 |
+| Normal | 30,675 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
