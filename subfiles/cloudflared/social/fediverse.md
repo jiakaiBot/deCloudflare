@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,198 |
-| social | 3,964 |
+| com | 6,200 |
+| social | 3,965 |
 | net | 3,153 |
-| org | 2,179 |
+| org | 2,180 |
 | de | 2,060 |
 
 
@@ -1900,6 +1900,7 @@ Here's a list of public Fediverse services.
 | `animaltoyforum.com` | Yes |
 | `animaux.social` | No |
 | `animax.moe` | Yes |
+| `anime-avatar.moe` | No |
 | `anime-titties.com` | Yes |
 | `anime.country` | No |
 | `anime.gdn` | Yes |
@@ -8599,6 +8600,7 @@ Here's a list of public Fediverse services.
 | `di2.io` | Yes |
 | `di20.de` | No |
 | `diableco.com` | No |
+| `diablocanyon2.com` | No |
 | `diagonalley.club` | No |
 | `dialectica.red` | No |
 | `dialog.pics` | No |
@@ -11174,6 +11176,7 @@ Here's a list of public Fediverse services.
 | `fedibikes.de` | No |
 | `fedibikes.social` | No |
 | `fedibird.com` | Yes |
+| `fedible.social` | Yes |
 | `fedibook.com` | No |
 | `fedibook.net` | No |
 | `fedibot.dev` | No |
@@ -18833,7 +18836,7 @@ Here's a list of public Fediverse services.
 | `krump.li` | Yes |
 | `kruniak.cc` | No |
 | `krupickovi.eu` | No |
-| `kruythoff.net` | No |
+| `kruythoff.net` | Yes |
 | `krylc.cloud` | Yes |
 | `kryptozoology.xyz` | No |
 | `kryptykphysh.xyz` | No |
@@ -22526,6 +22529,7 @@ Here's a list of public Fediverse services.
 | `metropolan.com` | Yes |
 | `metsubo-jinrai.net` | No |
 | `metsuke.com` | No |
+| `metta.pub` | Yes |
 | `metu.life` | No |
 | `metube.ch` | No |
 | `metznet.ca` | Yes |
@@ -22769,6 +22773,7 @@ Here's a list of public Fediverse services.
 | `milehigh.community` | No |
 | `mileskanda.com` | No |
 | `milette.online` | No |
+| `milhousfamily.com` | No |
 | `miljko.org` | No |
 | `milker.cafe` | Yes |
 | `milkers.online` | No |
@@ -25867,6 +25872,7 @@ Here's a list of public Fediverse services.
 | `nukumori-gay.space` | Yes |
 | `nul.ie` | Yes |
 | `nul.tokyo` | No |
+| `null.codes` | No |
 | `null.media` | No |
 | `null.town` | No |
 | `nullable.space` | Yes |
@@ -37338,6 +37344,7 @@ Here's a list of public Fediverse services.
 | `twoot.me` | No |
 | `twoot.space` | No |
 | `twooter.me` | Yes |
+| `twooter.org` | No |
 | `twos.dev` | Yes |
 | `twoshortplanks.com` | No |
 | `twoslashes.com` | No |
@@ -40092,7 +40099,7 @@ Here's a list of public Fediverse services.
 | `xoxarle.com` | No |
 | `xoxo.zone` | Yes |
 | `xoxofest.com` | Yes |
-| `xoyon.net` | Yes |
+| `xoyon.net` | No |
 | `xpaw.me` | Yes |
 | `xpcoin.jp` | No |
 | `xpertians.com` | No |
@@ -41041,8 +41048,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,323 |
-| Normal | 30,675 |
+| Cloudflare | 10,325 |
+| Normal | 30,680 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
