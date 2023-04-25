@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare API service issues](https://github.com/MatBenfield/news/issues/13299)
 - [nginx-proxy-manager - logs show client IP as host itself](https://github.com/ej52/proxmox-scripts/issues/114)
 - [code=502 ，Gateway timeout or bad getaway](https://github.com/zhayujie/chatgpt-on-wechat/issues/955)
 - [cml comment issue](https://github.com/iterative/cml/issues/1377)
