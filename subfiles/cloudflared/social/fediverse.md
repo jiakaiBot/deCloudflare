@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,201 |
 | social | 3,965 |
-| net | 3,153 |
-| org | 2,180 |
+| net | 3,154 |
+| org | 2,181 |
 | de | 2,060 |
 
 
@@ -2216,6 +2216,7 @@ Here's a list of public Fediverse services.
 | `arbitrarymusings.com` | No |
 | `arbleizez.bzh` | No |
 | `arbo.dev` | No |
+| `arbolitoloco.xyz` | Yes |
 | `arc.sh` | Yes |
 | `arcade.ooo` | Yes |
 | `arcades.agency` | Yes |
@@ -5634,6 +5635,7 @@ Here's a list of public Fediverse services.
 | `ch-le.fr` | No |
 | `ch.to` | No |
 | `ch.uy` | No |
+| `ch1p.net` | No |
 | `ch3n2k.com` | Yes |
 | `ch405.xyz` | No |
 | `ch94.de` | No |
@@ -15406,6 +15408,7 @@ Here's a list of public Fediverse services.
 | `hsoww.social` | No |
 | `hsp.sh` | Yes |
 | `hsslj.de` | No |
+| `hstaudt.eu` | No |
 | `ht164.jp` | No |
 | `htb.social` | Yes |
 | `htbaa.com` | No |
@@ -17035,6 +17038,7 @@ Here's a list of public Fediverse services.
 | `jeremy.hu` | Yes |
 | `jeremy.org` | No |
 | `jeremybaker.nz` | No |
+| `jeremybelcher.co` | Yes |
 | `jeremydormitzer.com` | No |
 | `jeremyrenner.app` | No |
 | `jeremyrenner.club` | No |
@@ -18057,7 +18061,7 @@ Here's a list of public Fediverse services.
 | `kenhbit.com` | Yes |
 | `kenhou.info` | No |
 | `kenhutton.uk` | Yes |
-| `kenlai.me` | Yes |
+| `kenlai.me` | No |
 | `kenmo.fm` | Yes |
 | `kennery.com` | Yes |
 | `kennyqin.com` | No |
@@ -19031,6 +19035,7 @@ Here's a list of public Fediverse services.
 | `l0v.es` | Yes |
 | `l1f.de` | No |
 | `l33t.city` | Yes |
+| `l33t.codes` | No |
 | `l33t.link` | Yes |
 | `l3ib.org` | No |
 | `l3r.me` | Yes |
@@ -19164,6 +19169,7 @@ Here's a list of public Fediverse services.
 | `lakedistrict.social` | No |
 | `lakedrops.com` | Yes |
 | `lakelogaztetxea.net` | No |
+| `laker.gay` | Yes |
 | `laker.tech` | Yes |
 | `lakerturner.co.uk` | Yes |
 | `lakomarka.cat` | Yes |
@@ -26466,6 +26472,7 @@ Here's a list of public Fediverse services.
 | `onlyfoxes.biz` | No |
 | `onlyfriends.cloud` | No |
 | `onlygans.social` | No |
+| `onlylikes.io` | Yes |
 | `onlypixel.nl` | No |
 | `onlyroleplayth.com` | No |
 | `onlysomestories.com` | No |
@@ -26719,6 +26726,7 @@ Here's a list of public Fediverse services.
 | `organizing.social` | No |
 | `orgdup.media` | No |
 | `orgless.org` | No |
+| `orientalnews.top` | Yes |
 | `origamion.net` | No |
 | `originalpatchou.li` | No |
 | `orikumi.com` | No |
@@ -31060,7 +31068,7 @@ Here's a list of public Fediverse services.
 | `saastisfy.com` | No |
 | `saasycloud.social` | No |
 | `saayaa.space` | No |
-| `saba.run` | No |
+| `saba.run` | Yes |
 | `sabadell.site` | No |
 | `sabakan.industries` | Yes |
 | `sabatino.cloud` | No |
@@ -36123,6 +36131,7 @@ Here's a list of public Fediverse services.
 | `tii.space` | No |
 | `tikeesy.com` | No |
 | `tikirobot.net` | No |
+| `tikke.art` | No |
 | `tikki.cloud` | No |
 | `tiksi.net` | No |
 | `tilde.green` | Yes |
@@ -38944,6 +38953,7 @@ Here's a list of public Fediverse services.
 | `webcommunity.club` | No |
 | `webcoven.com` | No |
 | `webdancers.com` | No |
+| `webdesignhighlands.co.uk` | No |
 | `webdev.community` | Yes |
 | `webdev.network` | No |
 | `webdev.so` | Yes |
@@ -39157,6 +39167,7 @@ Here's a list of public Fediverse services.
 | `wfh.pub` | Yes |
 | `wfmail.de` | No |
 | `wgjahn.de` | No |
+| `wgom.org` | No |
 | `wgws.dev` | No |
 | `wh6b.org` | No |
 | `wha.dev` | No |
@@ -39960,6 +39971,7 @@ Here's a list of public Fediverse services.
 | `xmsg.de` | No |
 | `xmstdn.com` | No |
 | `xmu.social` | No |
+| `xmz.io` | No |
 | `xn-------53dcabaemhlokt8dikho3a0dk7a3n2ctak.xn--p1ai` | No |
 | `xn--0n8ha.ws` | No |
 | `xn--1g8h.fm` | No |
@@ -41049,8 +41061,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,325 |
-| Normal | 30,681 |
+| Cloudflare | 10,330 |
+| Normal | 30,688 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
