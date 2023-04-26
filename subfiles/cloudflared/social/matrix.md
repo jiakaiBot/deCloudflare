@@ -29,13 +29,13 @@ Here's a list of public Matrix services.
 | matrix.arcticfoxes.net | Yes |
 | aria.im | No |
 | asra.gr | No |
+| matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
 | synapse.bark.lgbt | Yes |
 | bolha.chat | Yes |
 | breeze.town | No |
 | buyvm.chat | No |
 | matrix.bytes4u.de | No |
-| matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
@@ -71,6 +71,7 @@ Here's a list of public Matrix services.
 | hackliberty.org | No |
 | matrix.hadoly.fr | No |
 | chatserver.hashi.sbs | Yes |
+| hot-chilli.im | No |
 | synapse.hyteck.de | No |
 | matrix.jonasled.de | Yes |
 | junta.pl | Yes |
@@ -83,7 +84,6 @@ Here's a list of public Matrix services.
 | matrix.org | Yes |
 | matrix.monero.social | No |
 | mtrx.nz | No |
-| nibbana.jp | No |
 | nitro.chat | No |
 | matrix.noevil.pl | No |
 | nopasaran.red | No |
