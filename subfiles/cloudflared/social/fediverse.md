@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,209 |
 | social | 3,967 |
 | net | 3,158 |
-| org | 2,183 |
+| org | 2,184 |
 | de | 2,062 |
 
 
@@ -11969,6 +11969,7 @@ Here's a list of public Fediverse services.
 | `forwriter.homes` | Yes |
 | `forza7.jp` | No |
 | `foss.al` | No |
+| `foss.gay` | Yes |
 | `foss.guru` | No |
 | `foss.social` | No |
 | `foss.technology` | Yes |
@@ -18958,7 +18959,7 @@ Here's a list of public Fediverse services.
 | `kurry.social` | Yes |
 | `kursors.social` | No |
 | `kurumah.dev` | Yes |
-| `kurume-nct.com` | No |
+| `kurume-nct.com` | Yes |
 | `kurup.org` | Yes |
 | `kurusukono.cc` | No |
 | `kurz-nach-spaet.de` | No |
@@ -19849,6 +19850,7 @@ Here's a list of public Fediverse services.
 | `librosphere.fr` | No |
 | `libtar.de` | No |
 | `libutzki.de` | No |
+| `lice.jp` | No |
 | `lichfieldlive.co.uk` | Yes |
 | `lick.blue` | No |
 | `liebefeld.social` | No |
@@ -23475,6 +23477,7 @@ Here's a list of public Fediverse services.
 | `mooo.info` | No |
 | `moooon.network` | No |
 | `mooooo.ooo` | Yes |
+| `mooose.org` | No |
 | `moop.uk` | No |
 | `moorepixel.com` | No |
 | `moores.org` | No |
@@ -36893,6 +36896,7 @@ Here's a list of public Fediverse services.
 | `trebaxis.net` | Yes |
 | `trebills.com` | Yes |
 | `trebo.chat` | Yes |
+| `tree.dance` | Yes |
 | `treebaglia.xyz` | Yes |
 | `treecast.com` | No |
 | `treefish.me` | No |
@@ -41098,8 +41102,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,341 |
-| Normal | 30,714 |
+| Cloudflare | 10,344 |
+| Normal | 30,715 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
