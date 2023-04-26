@@ -29,7 +29,6 @@ Here's a list of public Matrix services.
 | matrix.arcticfoxes.net | Yes |
 | aria.im | No |
 | asra.gr | No |
-| matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
 | synapse.bark.lgbt | Yes |
 | bolha.chat | Yes |
@@ -63,6 +62,7 @@ Here's a list of public Matrix services.
 | matrix.fsfe.org | No |
 | g24.at | No |
 | matrix.gemeinsam.jetzt | No |
+| ggc-project.de | Yes |
 | matrix.glasgow.social | No |
 | matrix.gnulinux.club | No |
 | matrix.grin.hu | No |
@@ -71,7 +71,6 @@ Here's a list of public Matrix services.
 | hackliberty.org | No |
 | matrix.hadoly.fr | No |
 | chatserver.hashi.sbs | Yes |
-| hot-chilli.im | No |
 | synapse.hyteck.de | No |
 | matrix.jonasled.de | Yes |
 | junta.pl | Yes |
@@ -84,11 +83,13 @@ Here's a list of public Matrix services.
 | matrix.org | Yes |
 | matrix.monero.social | No |
 | mtrx.nz | No |
+| nibbana.jp | No |
 | nitro.chat | No |
 | matrix.noevil.pl | No |
 | nopasaran.red | No |
 | nope.chat | No |
 | matrix.norge.chat | Yes |
+| hs.obco.pro | Yes |
 | matrix.ombreport.info | No |
 | pcriot.org | Yes |
 | matrix.perthchat.org | Yes |
@@ -103,6 +104,7 @@ Here's a list of public Matrix services.
 | riotchat.de | Yes |
 | ru-matrix.org | No |
 | sans-nuage.fr | No |
+| matrix.sibnsk.net | No |
 | socialnetwork24.com | No |
 | matrix.studichat.de | No |
 | synod.im | No |
@@ -124,8 +126,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 19 |
+| Cloudflare | 21 |
 | Normal | 78 |
 
 
-### 19.6% of public Matrix services are using Cloudflare.
+### 21.2% of public Matrix services are using Cloudflare.
