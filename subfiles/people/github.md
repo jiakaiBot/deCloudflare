@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Connection failure on Fedora Silverblue 38](https://github.com/Windscribe/Desktop-App/issues/88)
 - [Query hangs forever on Cloudflare Worker local dev](https://github.com/libsql/libsql-client-ts/issues/29)
 - [Traefik routes and SSL broken since 2.9.9_17.0.28](https://github.com/truecharts/charts/issues/8157)
 - [CF deep search!](https://github.com/scaredos/cfresearch/issues/10)
