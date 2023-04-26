@@ -29973,6 +29973,7 @@ Here's a list of public Fediverse services.
 | `redd.live` | Yes |
 | `redeagle.me` | No |
 | `redeemed.social` | No |
+| `redegeld-e.nl` | No |
 | `redelephant.us` | No |
 | `redere.org` | No |
 | `redeyes.club` | No |
@@ -41096,7 +41097,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,341 |
-| Normal | 30,711 |
+| Normal | 30,712 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
