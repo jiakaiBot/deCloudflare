@@ -22,9 +22,9 @@
               "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.10",
+          "version": "1.0.10.1",
           "update_link": "https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/tool/ombrelo/design.xpi",
-          "update_hash": "sha256:8666f6b356ee78140fc5c5400a7e02e6c73668ca109aa4d6fe9b694d761d04fc"
+          "update_hash": "sha256:a1aea2214deb1165e7c5e467cdea0ee7e3fe1d0d4511d68103cc6e47c337dc25"
         }
       ]
     },
