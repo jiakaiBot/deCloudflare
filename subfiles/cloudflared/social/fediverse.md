@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,209 |
+| com | 6,210 |
 | social | 3,967 |
 | net | 3,158 |
 | org | 2,184 |
@@ -11970,6 +11970,7 @@ Here's a list of public Fediverse services.
 | `forwriter.homes` | Yes |
 | `forza7.jp` | No |
 | `foss.al` | No |
+| `foss.gay` | Yes |
 | `foss.guru` | No |
 | `foss.social` | No |
 | `foss.technology` | Yes |
@@ -19850,6 +19851,7 @@ Here's a list of public Fediverse services.
 | `librosphere.fr` | No |
 | `libtar.de` | No |
 | `libutzki.de` | No |
+| `lice.jp` | No |
 | `lichfieldlive.co.uk` | Yes |
 | `lick.blue` | No |
 | `liebefeld.social` | No |
@@ -20595,6 +20597,7 @@ Here's a list of public Fediverse services.
 | `lukec.me` | Yes |
 | `lukehasa.bike` | No |
 | `lukehebb.com` | No |
+| `lukelambert.com` | Yes |
 | `lukeleppan.com` | No |
 | `lukem.net` | Yes |
 | `lukemperez.com` | No |
@@ -23451,6 +23454,7 @@ Here's a list of public Fediverse services.
 | `moodoo.org` | Yes |
 | `moody.name` | No |
 | `moog.social` | No |
+| `moogle.place` | No |
 | `moogle.social` | No |
 | `mooh.fr` | No |
 | `mookie.xyz` | Yes |
@@ -41102,8 +41106,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,343 |
-| Normal | 30,716 |
+| Cloudflare | 10,345 |
+| Normal | 30,718 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
