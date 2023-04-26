@@ -11970,7 +11970,6 @@ Here's a list of public Fediverse services.
 | `forwriter.homes` | Yes |
 | `forza7.jp` | No |
 | `foss.al` | No |
-| `foss.gay` | Yes |
 | `foss.guru` | No |
 | `foss.social` | No |
 | `foss.technology` | Yes |
@@ -19851,7 +19850,6 @@ Here's a list of public Fediverse services.
 | `librosphere.fr` | No |
 | `libtar.de` | No |
 | `libutzki.de` | No |
-| `lice.jp` | No |
 | `lichfieldlive.co.uk` | Yes |
 | `lick.blue` | No |
 | `liebefeld.social` | No |
@@ -41104,8 +41102,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,344 |
-| Normal | 30,717 |
+| Cloudflare | 10,343 |
+| Normal | 30,716 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
