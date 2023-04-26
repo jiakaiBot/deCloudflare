@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,208 |
+| com | 6,209 |
 | social | 3,967 |
 | net | 3,158 |
 | org | 2,183 |
@@ -35395,6 +35395,7 @@ Here's a list of public Fediverse services.
 | `terribly.social` | No |
 | `territoridigitali.org` | No |
 | `terror.black` | No |
+| `terrorbit.co.uk` | No |
 | `terryiscool160.xyz` | Yes |
 | `terryx.com` | Yes |
 | `tertech.de` | No |
@@ -35421,6 +35422,7 @@ Here's a list of public Fediverse services.
 | `testimonia.org` | No |
 | `testingtesting123.xyz` | No |
 | `testitfor.me` | No |
+| `testmobo.com` | No |
 | `testsrv.de` | Yes |
 | `tetaneutral.net` | No |
 | `tetragir.com` | No |
@@ -41097,7 +41099,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,341 |
-| Normal | 30,712 |
+| Normal | 30,714 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
