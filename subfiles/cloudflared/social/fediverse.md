@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,206 |
+| com | 6,208 |
 | social | 3,967 |
 | net | 3,158 |
-| org | 2,182 |
+| org | 2,183 |
 | de | 2,062 |
 
 
@@ -3587,6 +3587,7 @@ Here's a list of public Fediverse services.
 | `benmccormick.org` | Yes |
 | `benning.space` | Yes |
 | `benno-dielmann.de` | No |
+| `bennusekabel.com` | No |
 | `benny.de` | No |
 | `bennyp.org` | No |
 | `bennypowers.dev` | No |
@@ -9290,6 +9291,7 @@ Here's a list of public Fediverse services.
 | `dramatica.online` | Yes |
 | `dranoel.net` | Yes |
 | `draper.social` | No |
+| `drapergiggs.com` | No |
 | `drapor.me` | No |
 | `drasticactions.site` | No |
 | `drastical.tech` | Yes |
@@ -9640,6 +9642,7 @@ Here's a list of public Fediverse services.
 | `earthboundvalkyrie.com` | No |
 | `earthclub.one` | No |
 | `earthlings.social` | No |
+| `earthseed.live` | No |
 | `earthstream.social` | No |
 | `earthsucks.com` | No |
 | `east17.org` | No |
@@ -16304,6 +16307,7 @@ Here's a list of public Fediverse services.
 | `intersects.art` | No |
 | `interskri.be` | No |
 | `intersocial.io` | Yes |
+| `interstate411.us` | Yes |
 | `interzone.tw` | Yes |
 | `inthebeliefofbetter.social` | No |
 | `inthecatsdreams.xyz` | No |
@@ -21021,6 +21025,7 @@ Here's a list of public Fediverse services.
 | `makrgroup.com` | No |
 | `makrobytes.eu` | No |
 | `maksales.su` | Yes |
+| `makzan.blog` | No |
 | `mal.systems` | No |
 | `malachi.cc` | No |
 | `malacology.net` | Yes |
@@ -30847,6 +30852,7 @@ Here's a list of public Fediverse services.
 | `rthome.me` | No |
 | `rthompson.us` | No |
 | `rthur.me` | No |
+| `rtio.dev` | No |
 | `rtk.social` | No |
 | `rtnkv.cloud` | No |
 | `rtorr.com` | Yes |
@@ -40312,6 +40318,7 @@ Here's a list of public Fediverse services.
 | `yasi2.com` | Yes |
 | `yaskey.tokyo` | No |
 | `yastodon.xyz` | Yes |
+| `yasty.org` | No |
 | `yasu.mu` | No |
 | `yasudon.jp` | No |
 | `yaten.dev` | Yes |
@@ -41088,8 +41095,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,340 |
-| Normal | 30,705 |
+| Cloudflare | 10,341 |
+| Normal | 30,711 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
