@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,205 |
-| social | 3,966 |
-| net | 3,156 |
+| social | 3,967 |
+| net | 3,158 |
 | org | 2,182 |
 | de | 2,060 |
 
@@ -246,7 +246,7 @@ Here's a list of public Fediverse services.
 | `1in9.net` | Yes |
 | `1nd33d.com` | No |
 | `1nd33d.social` | No |
-| `1necat.com` | Yes |
+| `1necat.com` | No |
 | `1o1.io` | No |
 | `1oku.net` | No |
 | `1password.social` | No |
@@ -5301,6 +5301,7 @@ Here's a list of public Fediverse services.
 | `capricom.info` | No |
 | `capslock.dev` | Yes |
 | `captainark.net` | No |
+| `captaincalliope.net` | Yes |
 | `captainslog.aero` | No |
 | `captnstark.com` | Yes |
 | `capybara.garden` | No |
@@ -5325,6 +5326,7 @@ Here's a list of public Fediverse services.
 | `cardinalmedia.co` | No |
 | `care-tags.org` | No |
 | `carecom.social` | No |
+| `careerminder.io` | Yes |
 | `carelesswhisper.nl` | No |
 | `carey.sh` | No |
 | `careyscloud.ie` | No |
@@ -10791,6 +10793,7 @@ Here's a list of public Fediverse services.
 | `f12n.de` | No |
 | `f1sh.de` | No |
 | `f2a.io` | No |
+| `f2p.me` | Yes |
 | `f40c40.com` | No |
 | `f4255529.fun` | Yes |
 | `f4255529.shop` | Yes |
@@ -11226,6 +11229,7 @@ Here's a list of public Fediverse services.
 | `fedimon.uk` | No |
 | `fedimoon.com` | No |
 | `fedimovie.com` | Yes |
+| `fedimovies.rocks` | No |
 | `fedinauten.social` | No |
 | `fedinerds.net` | Yes |
 | `fedinet.de` | No |
@@ -14978,6 +14982,7 @@ Here's a list of public Fediverse services.
 | `hina.dev` | No |
 | `hina.house` | Yes |
 | `hinabita.com` | No |
+| `hinachima.net` | No |
 | `hinaloe.net` | No |
 | `hinanawi.net` | Yes |
 | `hinanzyo.net` | Yes |
@@ -22253,6 +22258,7 @@ Here's a list of public Fediverse services.
 | `meekchopp.es` | No |
 | `meemu.org` | No |
 | `meenzen.net` | Yes |
+| `meeple.social` | No |
 | `meeps.dk` | No |
 | `meerjungfrauengrotte.de` | No |
 | `meetiko.org` | Yes |
@@ -29684,6 +29690,7 @@ Here's a list of public Fediverse services.
 | `randomdrift.es` | No |
 | `randome.camp` | No |
 | `randomfoo.net` | No |
+| `randomfox.tk` | No |
 | `randomisland.ca` | No |
 | `randommumble.org` | No |
 | `randommusings.online` | No |
@@ -35437,6 +35444,7 @@ Here's a list of public Fediverse services.
 | `tftsr.com` | No |
 | `tfwnogf.nl` | No |
 | `tfx.tw` | Yes |
+| `tgj.services` | No |
 | `tgl.eu` | No |
 | `tgp.jp` | No |
 | `tgqvitter.tk` | No |
@@ -41076,8 +41084,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,336 |
-| Normal | 30,697 |
+| Cloudflare | 10,338 |
+| Normal | 30,703 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
