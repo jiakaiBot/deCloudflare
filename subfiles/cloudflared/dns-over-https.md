@@ -96,7 +96,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | crypto.sx | Yes |
 | cwlys.com | Yes |
 | d365.in | Yes |
-| d94.xyz | No |
+| d94.xyz | Yes |
 | d96.info | No |
 | data.haus | No |
 | datacore.ch | No |
@@ -394,8 +394,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 173 |
-| Normal | 202 |
+| Cloudflare | 174 |
+| Normal | 201 |
 
 
-### 46.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
