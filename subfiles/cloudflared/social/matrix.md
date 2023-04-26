@@ -70,6 +70,7 @@ Here's a list of public Matrix services.
 | hackerspaces.be | No |
 | hackliberty.org | No |
 | matrix.hadoly.fr | No |
+| chatserver.hashi.sbs | Yes |
 | hot-chilli.im | No |
 | synapse.hyteck.de | No |
 | matrix.jonasled.de | Yes |
@@ -93,7 +94,6 @@ Here's a list of public Matrix services.
 | matrix.perthchat.org | Yes |
 | matrix.pikaviestin.fi | No |
 | matrix.plus.st | No |
-| possum.city | Yes |
 | pragma-messenger.ch | No |
 | www.privacytools.io | Yes |
 | matrix.pub.solar | No |
