@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-04-26: [Cloudflare Logpush Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/r237vk030djx)
 - 2023-04-26: [Network Performance Issues in Singapore](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6prb0t1mpjn8)
 - 2023-04-21: [Unexpected IP validation](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9wszwmyy2wyb)
 - 2023-04-21: [Unexpected challenges for some visitors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vl5ns88xbq7l)
