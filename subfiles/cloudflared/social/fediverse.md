@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,967 |
 | net | 3,158 |
 | org | 2,184 |
-| de | 2,062 |
+| de | 2,063 |
 
 
 - Mastodon, Pleroma, etc
@@ -137,6 +137,7 @@ Here's a list of public Fediverse services.
 | `0xd.jp` | No |
 | `0xdd.org.ru` | Yes |
 | `0xdevelopers.online` | No |
+| `0xdj.dev` | No |
 | `0xemmy.me` | No |
 | `0xf.fr` | No |
 | `0xf4240.bid` | No |
@@ -22698,6 +22699,7 @@ Here's a list of public Fediverse services.
 | `micronet.at` | No |
 | `microprojects.de` | No |
 | `microscopic.network` | No |
+| `microscopium.de` | No |
 | `microswit.ch` | Yes |
 | `midchilda.com` | No |
 | `middangeard.ch` | No |
@@ -41103,7 +41105,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,344 |
-| Normal | 30,715 |
+| Normal | 30,717 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
