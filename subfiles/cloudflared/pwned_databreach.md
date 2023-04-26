@@ -640,7 +640,7 @@ Here's a list of breached sites.
 | Zoosk2020 (Zoosk (2020)) | 23,927,853 | Yes |
 | Zooville | 71,407 | Yes |
 | Zurich | 756,737 | No |
-| Zynga | 172,869,660 | No |
+| Zynga | 172,869,660 | Yes |
 | bigbasket | 24,500,011 | Yes |
 | db8151dd (Covve) | 22,802,117 | Yes |
 | devkitPro | 1,508 | Yes |
@@ -665,10 +665,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 353 | 3,969,317,939 |
-| Normal | 291 | 4,852,546,209 |
+| Cloudflare | 354 | 4,142,187,599 |
+| Normal | 290 | 4,679,676,549 |
 
 
 
-### 54.8% of breached sites (pwned sites) are using Cloudflare.
-### 45% of leaked accounts are on Cloudflare sites.
+### 55% of breached sites (pwned sites) are using Cloudflare.
+### 47% of leaked accounts are on Cloudflare sites.
