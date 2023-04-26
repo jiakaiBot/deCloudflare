@@ -9,7 +9,7 @@
             }
           },
           "version": "1.0.5",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/ombrelo/stats/addon.xpi?b70a2a6c26920359c25c6353569ea8a94bfb316a1fb92407c33f7a61d4090f82",
+          "update_link": "https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/tool/ombrelo/stats.xpi",
           "update_hash": "sha256:b70a2a6c26920359c25c6353569ea8a94bfb316a1fb92407c33f7a61d4090f82"
         }
       ]
@@ -23,7 +23,7 @@
             }
           },
           "version": "1.0.10",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/ombrelo/design/addon.xpi?8666f6b356ee78140fc5c5400a7e02e6c73668ca109aa4d6fe9b694d761d04fc",
+          "update_link": "https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/tool/ombrelo/design.xpi",
           "update_hash": "sha256:8666f6b356ee78140fc5c5400a7e02e6c73668ca109aa4d6fe9b694d761d04fc"
         }
       ]
@@ -37,7 +37,7 @@
             }
           },
           "version": "1.0.8",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/ombrelo/search/addon.xpi?053847a0a408fc2d174a44632c56cc038e682b9f22bb1363c1e2df172f1dd067",
+          "update_link": "https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/tool/ombrelo/search.xpi",
           "update_hash": "sha256:053847a0a408fc2d174a44632c56cc038e682b9f22bb1363c1e2df172f1dd067"
         }
       ]
@@ -51,7 +51,7 @@
             }
           },
           "version": "1.0.14",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/ombrelo/bl/addon.xpi?06a8712ed028717eea041c778483d07ee1b664ff6d683b50d6e5489b1355e126",
+          "update_link": "https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/tool/ombrelo/bl.xpi",
           "update_hash": "sha256:06a8712ed028717eea041c778483d07ee1b664ff6d683b50d6e5489b1355e126"
         }
       ]
