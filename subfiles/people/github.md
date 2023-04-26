@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Release CI upload failure](https://github.com/nodejs/build/issues/3324)
 - [Connection failure on Fedora Silverblue 38](https://github.com/Windscribe/Desktop-App/issues/88)
 - [Query hangs forever on Cloudflare Worker local dev](https://github.com/libsql/libsql-client-ts/issues/29)
 - [Traefik routes and SSL broken since 2.9.9_17.0.28](https://github.com/truecharts/charts/issues/8157)
