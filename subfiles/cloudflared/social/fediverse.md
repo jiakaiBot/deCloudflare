@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,205 |
+| com | 6,206 |
 | social | 3,967 |
 | net | 3,158 |
 | org | 2,182 |
-| de | 2,060 |
+| de | 2,062 |
 
 
 - Mastodon, Pleroma, etc
@@ -6670,6 +6670,7 @@ Here's a list of public Fediverse services.
 | `comptoir.net` | No |
 | `compumun.do` | No |
 | `computational.agency` | No |
+| `computational.beauty` | No |
 | `computer-club.online` | Yes |
 | `computeralltag.blog` | No |
 | `computerclub.online` | Yes |
@@ -8880,6 +8881,7 @@ Here's a list of public Fediverse services.
 | `divbot.com` | No |
 | `divecoaching.com.au` | No |
 | `diverge.gg` | Yes |
+| `divergent.de` | No |
 | `diveright.net` | No |
 | `diversispiritus.net.br` | No |
 | `diversity.kitchen` | No |
@@ -14465,6 +14467,7 @@ Here's a list of public Fediverse services.
 | `harpsica.net` | No |
 | `harpy.life` | No |
 | `harrier.io` | No |
+| `harrisroxashealth.com` | Yes |
 | `harrisville.net.nz` | No |
 | `harry.cat` | No |
 | `harryet.social` | Yes |
@@ -22850,6 +22853,7 @@ Here's a list of public Fediverse services.
 | `mindsforge.com` | No |
 | `mindyourheadcoop.org` | No |
 | `minecloud.ro` | No |
+| `minecodes.de` | Yes |
 | `minecraft-pe.lol` | No |
 | `minecraft.gg` | Yes |
 | `minecraftanarquia.xyz` | Yes |
@@ -41084,8 +41088,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,338 |
-| Normal | 30,703 |
+| Cloudflare | 10,340 |
+| Normal | 30,705 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
