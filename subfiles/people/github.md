@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [btdigg (testing) Test search in BTDigg => Found no results while trying to browse this tracker](https://github.com/Jackett/Jackett/issues/14275)
 - [Error return in WhatsApp](https://github.com/harshitethic/whatsapp-turbo-gpt/issues/1)
 - [Core not automatically restarted after hanging](https://github.com/home-assistant/operating-system/issues/2514)
 - [some ideas to make this project better](https://github.com/GFW-knocker/gfw_resist_tls_proxy/issues/46)
