@@ -1154,6 +1154,7 @@ app.joinchorus.com
 as.admin.openvpn.scnr.jayblock.dev
 as.dev.openvpn.scnr.jayblock.dev
 as.openvpn.scnr.jayblock.dev
+audio.jumpleads.zone
 auth.janpascalmaas.de
 auth.jfly.dev
 auth.jh-research.de
@@ -1162,6 +1163,7 @@ autodiscover.johaina.site
 autodiscover.judythomascornett.com
 avito.avito.sber.sber.blablacar.sber.covid19.juliecolombe.com
 avito.avito.sber.sberbank.covid19.juliecolombe.com
+avito.sber.blablacar.avito.avito.www.covid19.juliecolombe.com
 avito.sber.sber.blablacar.www.blablacar.covid19.juliecolombe.com
 avito.sberbank.avito.avito.avito.www.covid19.juliecolombe.com
 backstageactivity.jhsycm.cn
@@ -1173,6 +1175,7 @@ blog.gitlab.gitlab.wp.joomla-agentur-pforzheim.de
 blog.jmfd.me
 blog.johanpersson.nu
 blogs.justforbooking.com
+booking.jalogistics.org
 booking.jomventures.com
 booking.jordanhemo.com
 bookings.jxpm.ca
@@ -1196,6 +1199,7 @@ cryptobanco.jsmb.lat
 cryptocoin.jigsy.com
 csgomm.joshua-behrens.de
 data.bookasecuremove.service.justice.gov.uk
+de.julogin.ch
 deco.journaldesfemmes.fr
 dev.surgical.jnjvision.kr
 devmob.hcmp.jio.com
@@ -1214,6 +1218,7 @@ external-assistant-server.jacadademos.com
 fair.jobdomein.com
 financial.jiji.com
 flant-update-api-versions.review.jetskills.ru
+fr.julogin.ch
 frederiksvvs.jfm360kunder.dk
 frontend.afd1.jiohs.net
 fsaflk.justdied.com
@@ -1234,13 +1239,16 @@ granen.jfm360kunder.dk
 gtest.booking.jenbrial.com
 guiana1.jaboatao.pe.gov.br
 hedensted.jfm360kunder.dk
+helpdesk.sof.jetfinanceintl.com
 hermes.jbowmanlaw.com
 hjgfsdfi.jungleheart.com
 htyrds.justdied.com
+ib.jibanbvnk-co-jp.cyou
 ib.jiibunibank-co-jp.top
 idp.auth.james-at-fry.com
 instagram-praktika.justcode.am
 instagram.jazzlad.com
+it.julogin.ch
 itactivity.jtbnn.com
 j-taxfree.com
 j0107.net
@@ -1289,7 +1297,9 @@ janacrm.janabank.com
 jandjhomeinspections.com
 jandssalesandservice.com
 janeanson.com
+janihfranco.online
 janileinonen.com
+jankrycinski.com
 jannapalvelu.fi
 janshriyamicrocredit.in
 japanese-iceberg.com
@@ -1301,6 +1311,7 @@ jasminphotography.co.uk
 jaspe.com
 jaswantmodern.net
 jatimakmuragung.com
+jatimkini.com
 jatimupdate.id
 jatindermittal.com
 jauhwaktuberjalan.com
@@ -1326,6 +1337,7 @@ jcfrog.com
 jcleanwas.com
 jclux.biz
 jcm.org.uk
+jcmint.org
 jcpenneyey.com
 jcraveiro.com
 jcsumarketinggroup.com
@@ -1354,6 +1366,7 @@ jergocast.com
 jerha.nl
 jeroenmulder.net
 jeromelanloze.de
+jerryeye.com
 jerryfloyd.realtor
 jerrysmeats.com
 jessicapfaffl.realtor
@@ -1397,6 +1410,7 @@ jiosaerogel.com
 jiotv.shop
 jirehlogistics.net
 jitfleet-timocom.jitpay.eu
+jjat.vip
 jjbricks.com
 jjpestcontrolservice.in
 jjtechcontrol.com
@@ -1420,6 +1434,7 @@ joannabunten.com
 joaobidu.com
 joaocarlosklein.com.br
 jobalert.click
+jobisclub.org
 jobproc.online
 jobs.utah.gov
 jobs9.pk
@@ -1485,12 +1500,15 @@ jrdrealtorss.com
 jrnrvu.org
 jrobinsonoutdoors.com
 jsbalu.com
+jsdieselshop.com
 jslinux.online
 jspecialjapan.com
+jstationx.com
 jsw-deep.com
 jszhuowan.com
 jtb.scot
 jtcars.com
+jtreeservice.com
 jualairmancur.com
 jualanpagarbrc.net
 juanoservice.xyz
@@ -1507,6 +1525,7 @@ jugokomercija.com
 jugoscurativosaludables.com
 juha2023.fi
 juicypixels.de
+jujitsuromania.eu
 jukujoichiba.com
 jukujyo.net
 jukuntv.org
@@ -1517,9 +1536,11 @@ juliefournier.com
 julietamontesco.com
 juliogarciamont.com
 jumdim.xyz
+jumpmasterlifecoaches.org
 jumpstar.com
 junewinters.fun
 juniorsalloquy.guru
+junkhard.online
 junkyardangel.ca
 jupiterislandtrading.com
 jupitertron.com
@@ -1545,6 +1566,7 @@ juzzbunker.com
 jvconsorcio.online
 jverizon.com
 jvs-productions.fr
+jvs.com.au
 jw-landscaping.org
 jwiki.nl
 jwlee.shop
@@ -1559,10 +1581,13 @@ krcommunity.jcetglobal.com
 kyc.joyn-app.com
 larasindo.joesam0208.com
 law.justia.com
+linear-chuo-shinkansen.jr-central.co.jp
 lms.jlrexcellence.com
 login.jobticket.com.au
+lunardo.jackgharris.com
 mail.javaninformatics.com
 mail.jurisicordinacija.co.rs
+mail.lunardo.jackgharris.com
 mail1.jvgas.com
 mailtrack.judgeme.email
 matasehat.jompurchase.com
@@ -1598,6 +1623,7 @@ sber.avito.sber.sberbank.covid19.juliecolombe.com
 sber.sber.sber.avito.avito.sberbank.covid19.juliecolombe.com
 sber.sber.sber.blablacar.www.avito.covid19.juliecolombe.com
 sber.sber.sber.www.avito.www.covid19.juliecolombe.com
+sber.sberbank.avito.blablacar.avito.www.covid19.juliecolombe.com
 sberbank.avito.blablacar.avito.www.covid19.juliecolombe.com
 sberbank.avito.sber.sber.avito.git.covid19.juliecolombe.com
 sberbank.avito.sber.sberbank.covid19.juliecolombe.com
@@ -1652,6 +1678,7 @@ www.badkamers-en-toilets.jvinkonderhoud.nl
 www.banktryout.com.jamandigital.com
 www.bar-27-puente-21-de.jesusespinosa.com
 www.basmas.jcloud.my
+www.bengawanpost.info.jagatpos.com
 www.betoncire.jvinkonderhoud.nl
 www.billiontravel.net.crm2.jordanwebmaster.net
 www.billy-and-kaylee.jtiptonphotography.com
@@ -1759,6 +1786,7 @@ www.jilliandavid.net
 www.jimassurance.fr
 www.jimcorbettsafaribooking.in
 www.jimmalcolm.com
+www.jimmyspestcontrol.com
 www.jingisu.com
 www.jirehconsultinggroup.com
 www.jirehpublishinggroup.com
@@ -1790,6 +1818,7 @@ www.jogoseguro.site
 www.johannisches-sozialwerk.de
 www.johnfilms.com
 www.johnmcdonald.net.au
+www.johnnys-web.com
 www.johnpowellavs.co.uk
 www.johnsonnosek.com
 www.johntaro.art
@@ -1817,6 +1846,7 @@ www.journalistik-dortmund.de
 www.journaltrib.com
 www.joustavalaina.fi
 www.joveliina.fi
+www.joyfullcasketandfuneralservice.com
 www.joyposso.com
 www.jozirediscovered.co.za
 www.jpautocenter.net
@@ -1838,6 +1868,7 @@ www.jsvetsci.jp
 www.jszhuowan.com
 www.jthorborg.com
 www.jti.co.jp
+www.jtreeservice.com
 www.juanjolopezart.es
 www.jubi.plus
 www.jugendleistungszentrum-emsland.de
