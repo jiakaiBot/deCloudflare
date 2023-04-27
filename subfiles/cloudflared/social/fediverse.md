@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,213 |
+| com | 6,217 |
 | social | 3,968 |
 | net | 3,158 |
-| org | 2,186 |
+| org | 2,187 |
 | de | 2,063 |
 
 
@@ -192,6 +192,7 @@ Here's a list of public Fediverse services.
 | `128.ca` | Yes |
 | `128k.blog` | No |
 | `128k.site` | No |
+| `1296000.xyz` | No |
 | `12vpx.com` | Yes |
 | `1312.media` | No |
 | `1315.me` | No |
@@ -5194,6 +5195,7 @@ Here's a list of public Fediverse services.
 | `calico.social` | No |
 | `calidris.lv` | No |
 | `californialocal.com` | No |
+| `calligraphicspace.com` | No |
 | `callingallpapers.com` | Yes |
 | `calmarius.net` | No |
 | `calmdonut.social` | Yes |
@@ -5536,6 +5538,7 @@ Here's a list of public Fediverse services.
 | `cc.chat` | Yes |
 | `cc2.at` | No |
 | `cc38.cc` | Yes |
+| `ccaa.info` | Yes |
 | `ccc-ffm.space` | No |
 | `cccccmake.de` | No |
 | `ccccoding.club` | No |
@@ -13089,6 +13092,7 @@ Here's a list of public Fediverse services.
 | `geese.lol` | Yes |
 | `geese.party` | Yes |
 | `geese.social` | No |
+| `geesl.in` | No |
 | `geewiz.dev` | No |
 | `gef.ink` | No |
 | `gefahrengebiet.org` | No |
@@ -19142,7 +19146,9 @@ Here's a list of public Fediverse services.
 | `laevateinn.tk` | No |
 | `lafermenumerique.com` | Yes |
 | `lafhq.nl` | No |
+| `lafountain.blog` | Yes |
 | `lafriks.id.lv` | No |
+| `lafroscia.com` | No |
 | `lagacetasalta.com.ar` | Yes |
 | `lagdecolors.cat` | Yes |
 | `lagob.fr` | No |
@@ -22107,6 +22113,7 @@ Here's a list of public Fediverse services.
 | `mayfirst.org` | No |
 | `mayhap.org` | No |
 | `mayheminc.win` | Yes |
+| `maymeow.com` | Yes |
 | `maymeow.red` | No |
 | `maymeow.social` | No |
 | `mayobus.me` | No |
@@ -25010,6 +25017,7 @@ Here's a list of public Fediverse services.
 | `neuland.social` | Yes |
 | `neulandschmie.de` | No |
 | `neuman.fi` | No |
+| `neumeier.org` | Yes |
 | `neunetz.com` | Yes |
 | `neural.nz` | No |
 | `neurario.com` | No |
@@ -29100,6 +29108,7 @@ Here's a list of public Fediverse services.
 | `puppy.cafe` | No |
 | `puppy.place` | No |
 | `puppybear.social` | No |
+| `puppycalendar.eu` | No |
 | `puppyfire.social` | No |
 | `pups.social` | Yes |
 | `pupsaturn.dog` | No |
@@ -38397,6 +38406,7 @@ Here's a list of public Fediverse services.
 | `vigilante.tv` | No |
 | `vigilian-consulting.nl` | No |
 | `vignat.org` | No |
+| `vignette.cloud` | No |
 | `viid.ga` | No |
 | `viidalepp.me` | No |
 | `viisphere.me` | Yes |
@@ -39641,6 +39651,7 @@ Here's a list of public Fediverse services.
 | `woonopstandamsterdam.nl` | No |
 | `woop.cf` | No |
 | `wootton.dev` | No |
+| `woowoowoo.com` | No |
 | `woox.cc` | Yes |
 | `word.builders` | No |
 | `wordcraft.social` | No |
@@ -41117,8 +41128,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,347 |
-| Normal | 30,727 |
+| Cloudflare | 10,351 |
+| Normal | 30,734 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
