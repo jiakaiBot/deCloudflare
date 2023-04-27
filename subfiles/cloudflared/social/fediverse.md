@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,210 |
-| social | 3,967 |
+| com | 6,213 |
+| social | 3,968 |
 | net | 3,158 |
-| org | 2,184 |
+| org | 2,185 |
 | de | 2,063 |
 
 
@@ -68,6 +68,7 @@ Here's a list of public Fediverse services.
 | `0daysto.live` | Yes |
 | `0ddfactory.com` | No |
 | `0ds.org` | No |
+| `0ff-topic.org` | No |
 | `0g0.jp` | No |
 | `0j0.jp` | No |
 | `0ko.me` | Yes |
@@ -6917,6 +6918,7 @@ Here's a list of public Fediverse services.
 | `coste.video` | No |
 | `costodon.social` | No |
 | `costpap.me` | Yes |
+| `cosylab.at` | No |
 | `cote.io` | Yes |
 | `cotellese.net` | No |
 | `cotman.info` | No |
@@ -11217,6 +11219,7 @@ Here's a list of public Fediverse services.
 | `fedifur.social` | No |
 | `fediglobal.com` | No |
 | `fedigram.com` | No |
+| `fedigram.me` | No |
 | `fedigram.net` | No |
 | `fedigram.social` | Yes |
 | `fedihams.net` | No |
@@ -11892,6 +11895,7 @@ Here's a list of public Fediverse services.
 | `foo.no` | No |
 | `foo.sx` | Yes |
 | `foobar.social` | No |
+| `foodhub-muenchen.social` | No |
 | `foodienetwork.online` | No |
 | `foodin.ga` | No |
 | `foodon.jp` | No |
@@ -12062,6 +12066,7 @@ Here's a list of public Fediverse services.
 | `fractum.gq` | No |
 | `fracturedhosting.social` | Yes |
 | `fragdev.com` | No |
+| `fragleonie.xyz` | No |
 | `fragmental.art` | No |
 | `fraize.com` | No |
 | `fraktalworks.de` | No |
@@ -12751,6 +12756,7 @@ Here's a list of public Fediverse services.
 | `gabwith.me` | No |
 | `gabytron.me` | No |
 | `gac.edu` | No |
+| `gadeservesbetter.com` | No |
 | `gadgetboy.org` | Yes |
 | `gadgeteer.co.za` | Yes |
 | `gadgetoid.com` | Yes |
@@ -20537,6 +20543,7 @@ Here's a list of public Fediverse services.
 | `lucahammer.com` | Yes |
 | `lucaire.ovh` | No |
 | `lucas.monster` | No |
+| `lucasjanin.com` | No |
 | `lucaspolo.dev` | No |
 | `lucasvl.nl` | No |
 | `lucatnt.com` | Yes |
@@ -32957,6 +32964,7 @@ Here's a list of public Fediverse services.
 | `smol.club` | No |
 | `smolkitty.me` | Yes |
 | `smolnet.org` | No |
+| `smoltech.us` | Yes |
 | `smoltux.space` | No |
 | `smolwofl.com` | Yes |
 | `smooth.guru` | No |
@@ -33412,6 +33420,7 @@ Here's a list of public Fediverse services.
 | `sour.is` | No |
 | `source.news` | No |
 | `sousoupe.fr` | No |
+| `sousunepluie.com` | No |
 | `souterra.com` | Yes |
 | `southcape.social` | No |
 | `southcoastgeek.uk` | Yes |
@@ -41106,8 +41115,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,344 |
-| Normal | 30,719 |
+| Cloudflare | 10,345 |
+| Normal | 30,727 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
