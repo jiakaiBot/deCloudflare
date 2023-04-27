@@ -29,7 +29,7 @@ Here's a list of public Matrix services.
 | matrix.arcticfoxes.net | Yes |
 | aria.im | No |
 | asra.gr | No |
-| matrix.bachgau.social | No |
+| bachgau.social | No |
 | matrix.badstuebner.biz | No |
 | synapse.bark.lgbt | Yes |
 | bolha.chat | Yes |
