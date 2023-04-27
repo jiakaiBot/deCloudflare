@@ -129,6 +129,7 @@ Here's a list of breached sites.
 | Chowbus | 444,224 | Yes |
 | Cit0day | 226,883,414 | No |
 | CityBee | 110,156 | Yes |
+| CityJerks | 177,554 | No |
 | CivilOnline (Civil Online) | 7,830,195 | No |
 | ClashOfKings (Clash of Kings) | 1,604,957 | No |
 | ClearVoiceSurveys (ClearVoice Surveys) | 15,074,786 | No |
@@ -163,7 +164,7 @@ Here's a list of breached sites.
 | DataCamp | 760,561 | Yes |
 | Dave | 2,964,182 | Yes |
 | DecoratingTheHouse (집꾸미기) | 1,298,651 | No |
-| Deezer | 229,037,936 | Yes |
+| Deezer | 229,037,936 | No |
 | DemonForums (Demon Forums) | 52,623 | Yes |
 | Descomplica | 4,845,378 | Yes |
 | DevilTorrents (Devil-Torrents.pl) | 63,451 | Yes |
@@ -665,10 +666,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 354 | 4,142,187,599 |
-| Normal | 290 | 4,679,676,549 |
+| Cloudflare | 353 | 3,913,149,663 |
+| Normal | 292 | 4,908,892,039 |
 
 
 
-### 55% of breached sites (pwned sites) are using Cloudflare.
-### 47% of leaked accounts are on Cloudflare sites.
+### 54.7% of breached sites (pwned sites) are using Cloudflare.
+### 44.4% of leaked accounts are on Cloudflare sites.
