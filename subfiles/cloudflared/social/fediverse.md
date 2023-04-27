@@ -37691,6 +37691,7 @@ Here's a list of public Fediverse services.
 | `uncorking.me` | Yes |
 | `uncreated.net` | No |
 | `uncrtn.com` | No |
+| `und.ooo` | No |
 | `undarkpixel.com` | No |
 | `undbeidirso.de` | No |
 | `undead.fr` | No |
@@ -41135,7 +41136,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,354 |
-| Normal | 30,737 |
+| Normal | 30,738 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
