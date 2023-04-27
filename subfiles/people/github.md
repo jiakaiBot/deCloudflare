@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ZHA broke after 10.1 upgrade](https://github.com/home-assistant/operating-system/issues/2519)
+- [Getting this error - ModuleNotFoundError: No module named 'pyngrok' - Please Help !](https://github.com/TheLastBen/fast-stable-diffusion/issues/2053)
 - [java.io.IOException prefix in browse source error screen](https://github.com/tachiyomiorg/tachiyomi/issues/9409)
 - [JST-23 Validator getTableById does not map chainId nor tableId](https://github.com/tablelandnetwork/js-tableland/issues/470)
 - [btdigg (testing) Test search in BTDigg => Found no results while trying to browse this tracker](https://github.com/Jackett/Jackett/issues/14275)
