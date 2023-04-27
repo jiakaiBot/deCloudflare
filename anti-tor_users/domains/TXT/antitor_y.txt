@@ -556,6 +556,7 @@ am.yahoo.co.jp
 amazon-co-jp-dsauyt.youdontcare.com
 an.yandex.ru
 analytics-chi-nfl.yinzcam.com
+api-ca.mariner.yembo.ai
 app-389-autofill-login.dev.yesh.id
 app-491-disable-2fa-when-adding-to-sso.dev.yesh.id
 app.yahoo001.com
@@ -565,8 +566,10 @@ aso-web.yuanta.com.tw
 asset.yes.my
 auth.7101-aiia-aritma-import.younium.net
 auth.resource-migration-v2.younium.net
+auth.terraform-apply-fix.younium.net
 avatars.mds.yandex.net
 avito.sber.sberbank.avito.sber.sber.covid19.youhollywood.com
+avito.sber.sberbank.sber.sber.blablacar.covid19.youhollywood.com
 avito.sber.sberbank.sber.sber.git.covid19.youhollywood.com
 avito.www.sber.sber.git.git.covid19.youhollywood.com
 avito.www.sber.sber.sber.blablacar.covid19.youhollywood.com
@@ -650,10 +653,12 @@ redirect.appmetrica.yandex.com
 remedfikes.yapiba.sch.id
 rest.yafacture.com
 rnd.ym.edu.tw
+roaractive-creche.yepbooking.com.au
 safe.yukine.app
 safeway.yahia.fr
 sber.avito.sberbank.sber.sber.sber.covid19.youhollywood.com
 sber.avito.sberbank.yhue2.kwid9.yogavastu.xyz
+sber.avito.www.sberbank.sber.blablacar.covid19.youhollywood.com
 sber.sber.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.78z68.sberbank.sber.avito.kwid9.87ab5.yogavastu.xyz
 sber.sber.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.3ugcn.tpxa3.kwid9.yogavastu.xyz
 sber.sber.sber.avito.avito.blablacar.covid19.youhollywood.com
@@ -661,7 +666,11 @@ sber.sber.www.sber.avito.blablacar.covid19.youhollywood.com
 sberbank.avito.sber.sber.sber.sber.covid19.youhollywood.com
 sberbank.avito.sberbank.avito.sber.sber.covid19.youhollywood.com
 sberbank.sber.avito.avito.sber.sber.covid19.youhollywood.com
+sberbank.sber.sber.sber.sber.blablacar.covid19.youhollywood.com
+sberbank.sberbank.git.git.git.git.covid19.youhollywood.com
+sberbank.sberbank.sber.blablacar.covid19.youhollywood.com
 sberbank.www.avito.sber.blablacar.covid19.youhollywood.com
+sberbank.www.git.covid19.youhollywood.com
 scmuat01.hk.yusen-logistics.com
 services.yindeeclinic.com
 spectrummetrocommercial.yourlandingpage.in
@@ -835,6 +844,7 @@ yegnamicrofinance.com
 yektavpn.xyz
 yello.com.ua
 yelp.co.jp
+yeneruzkrn.online
 yeniinsanyayinevi.com
 yerbateria.com
 yesaswi.tech
@@ -877,6 +887,7 @@ yosilevi-clinic.co.il
 yotube.com
 youknowbest.co.uk
 youngblackcanucks.com
+youngjsc.com
 youngrentongku.shop
 youngscientist.academy
 youngusaa.com
@@ -888,6 +899,7 @@ yourgiftz.xyz
 yourmagichost.com
 yournamewebsite.com
 yournewhome.store
+yournextbigtrip.com
 yourrugdepot.com
 yoursafestinvestment.com
 yourservice.top
