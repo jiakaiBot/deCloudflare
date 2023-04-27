@@ -38,14 +38,12 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | afixer.app | Yes |
 | ahadns.net | Yes |
 | aihe.app | Yes |
-| airmaxcloud.ml | No |
 | alekberg.net | No |
 | alidns.com | No |
 | alloxr.info | No |
 | almir1904.eu | Yes |
 | alvosec.com | Yes |
 | ambiya.net | Yes |
-| amigo-mgn.ru | No |
 | amlegion.org | No |
 | andrewnw.xyz | Yes |
 | apemlegit.my.id | No |
@@ -146,7 +144,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ellichua.com | No |
 | elshad-adgh-dns.ru | No |
 | emiliyan.com | Yes |
-| ender.fr | No |
 | extrawdw.net | Yes |
 | eyecay.xyz | Yes |
 | familiamv.ml | No |
@@ -155,7 +152,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ff0x.ca | Yes |
 | ffmuc.net | Yes |
 | filipccz.eu | Yes |
-| findmethedns.info | No |
 | flm9.net | No |
 | flodns.net | No |
 | flymc.cc | Yes |
@@ -166,7 +162,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | gac.edu | No |
 | gbrossi.com.br | No |
 | gclouddns.com | Yes |
-| geili.me | Yes |
 | gnb09.id | Yes |
 | groupy.ga | No |
 | gztech.me | Yes |
@@ -204,7 +199,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jfchenier.ca | Yes |
 | jnorton.us | No |
 | joaofidelix.com.br | Yes |
-| jpr.space | No |
 | jsanagustin.net | Yes |
 | jucker.engineering | No |
 | kamilszczepanski.com | No |
@@ -219,13 +213,11 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | korzhov.dev | No |
 | kpsn.org | Yes |
 | krnl.eu | Yes |
-| kswro.web.id | Yes |
 | lacontrevoie.fr | No |
 | lars-lehmann.net | Yes |
 | lastentarvike.fi | No |
 | lavate.ch | Yes |
 | leadmon.net | No |
-| leecurrylawfirm.com | Yes |
 | lefolgoc.net | No |
 | lekdijk.online | No |
 | limotelu.org | Yes |
@@ -300,7 +292,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | privilab.net | No |
 | project-evoex.de | No |
 | puredns.org | Yes |
-| pyry.me | Yes |
 | qquack.org | Yes |
 | quad9.net | Yes |
 | qwer.pw | Yes |
@@ -359,7 +350,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tls-data.de | No |
 | tlz.asia | Yes |
 | toairs.com | No |
-| toaster.lol | No |
 | totoro.pub | Yes |
 | truong.fi | Yes |
 | tu-bs.de | No |
@@ -394,8 +384,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 174 |
-| Normal | 201 |
+| Cloudflare | 170 |
+| Normal | 195 |
 
 
-### 46.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
