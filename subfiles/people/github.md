@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Core not automatically restarted after hanging](https://github.com/home-assistant/operating-system/issues/2514)
 - [some ideas to make this project better](https://github.com/GFW-knocker/gfw_resist_tls_proxy/issues/46)
 - [Release CI upload failure](https://github.com/nodejs/build/issues/3324)
 - [Connection failure on Fedora Silverblue 38](https://github.com/Windscribe/Desktop-App/issues/88)
