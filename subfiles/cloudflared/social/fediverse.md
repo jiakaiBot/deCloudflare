@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,218 |
-| social | 3,968 |
-| net | 3,158 |
+| com | 6,219 |
+| social | 3,969 |
+| net | 3,159 |
 | org | 2,188 |
 | de | 2,063 |
 
@@ -6126,6 +6126,7 @@ Here's a list of public Fediverse services.
 | `circletocqueville.no` | No |
 | `circlez.social` | No |
 | `circuitlocution.com` | No |
+| `circuitpythonshow.com` | No |
 | `circumception.com` | No |
 | `circumstances.run` | No |
 | `circus.monster` | No |
@@ -7052,6 +7053,7 @@ Here's a list of public Fediverse services.
 | `cre8thoughts.com` | No |
 | `creacher.club` | No |
 | `creaddotson.com` | No |
+| `create-key.net` | No |
 | `creatediv.net` | No |
 | `creation.md` | No |
 | `creative.ai` | No |
@@ -9227,6 +9229,7 @@ Here's a list of public Fediverse services.
 | `dov.moe` | Yes |
 | `dovac.org` | Yes |
 | `dowata.xyz` | No |
+| `dowling.social` | No |
 | `downey.family` | No |
 | `downey.net` | No |
 | `downtime.club` | No |
@@ -34554,6 +34557,7 @@ Here's a list of public Fediverse services.
 | `suwerenni.org` | No |
 | `suya.place` | No |
 | `suzi.moe` | Yes |
+| `suzu-ya.info` | No |
 | `suzu.eu.org` | No |
 | `suzuka.page` | Yes |
 | `suzume.life` | No |
@@ -41136,7 +41140,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,354 |
-| Normal | 30,738 |
+| Normal | 30,742 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
