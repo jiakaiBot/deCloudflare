@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,217 |
+| com | 6,218 |
 | social | 3,968 |
 | net | 3,158 |
-| org | 2,187 |
+| org | 2,188 |
 | de | 2,063 |
 
 
@@ -1374,6 +1374,7 @@ Here's a list of public Fediverse services.
 | `alexander-schnapper.de` | No |
 | `alexander-vollmer.de` | No |
 | `alexander.social` | Yes |
+| `alexanderdunkel.com` | Yes |
 | `alexanderkeane.com` | No |
 | `alexanderweb.de` | No |
 | `alexandra.is` | No |
@@ -8908,6 +8909,7 @@ Here's a list of public Fediverse services.
 | `diymusic.space` | No |
 | `diytelevision.com` | No |
 | `dizl.de` | No |
+| `dizmal.red` | No |
 | `dizman.org` | No |
 | `dj.je` | Yes |
 | `djan-gicquel.fr` | No |
@@ -17390,6 +17392,7 @@ Here's a list of public Fediverse services.
 | `josa.social` | Yes |
 | `joschu.ch` | No |
 | `joscomputing.space` | No |
+| `josefsson.org` | No |
 | `joseli.to` | Yes |
 | `josephburnett.social` | No |
 | `josephgruber.space` | No |
@@ -20761,6 +20764,7 @@ Here's a list of public Fediverse services.
 | `m.to` | No |
 | `m0.lc` | Yes |
 | `m0e.space` | Yes |
+| `m0h.fr` | No |
 | `m0hda.fr` | No |
 | `m0n5t3r.info` | No |
 | `m0nikasingh.xyz` | Yes |
@@ -26208,6 +26212,7 @@ Here's a list of public Fediverse services.
 | `odon.space` | No |
 | `odorite.tokyo` | No |
 | `odosys.net` | No |
+| `odous.app` | Yes |
 | `ody.si` | No |
 | `odysseus.social` | No |
 | `odyssey346.dev` | Yes |
@@ -41128,8 +41133,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,351 |
-| Normal | 30,734 |
+| Cloudflare | 10,353 |
+| Normal | 30,737 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
