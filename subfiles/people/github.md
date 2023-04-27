@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error return in WhatsApp](https://github.com/harshitethic/whatsapp-turbo-gpt/issues/1)
 - [Core not automatically restarted after hanging](https://github.com/home-assistant/operating-system/issues/2514)
 - [some ideas to make this project better](https://github.com/GFW-knocker/gfw_resist_tls_proxy/issues/46)
 - [Release CI upload failure](https://github.com/nodejs/build/issues/3324)
