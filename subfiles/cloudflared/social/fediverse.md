@@ -36152,6 +36152,7 @@ Here's a list of public Fediverse services.
 | `ti-fr.com` | No |
 | `ti22.pro` | No |
 | `tiagos.cz` | No |
+| `tian-shen.pro` | Yes |
 | `tianshengli.me` | No |
 | `tiaozao.ga` | No |
 | `tiarasnteakettles.com` | No |
@@ -41133,7 +41134,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,353 |
+| Cloudflare | 10,354 |
 | Normal | 30,737 |
 
 
