@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,219 |
-| social | 3,969 |
+| social | 3,970 |
 | net | 3,159 |
 | org | 2,188 |
-| de | 2,063 |
+| de | 2,064 |
 
 
 - Mastodon, Pleroma, etc
@@ -17029,7 +17029,7 @@ Here's a list of public Fediverse services.
 | `jeffl.es` | Yes |
 | `jefflembeck.com` | Yes |
 | `jeffmcbride.net` | No |
-| `jeffperry.me` | No |
+| `jeffperry.me` | Yes |
 | `jeffreymiller.org` | No |
 | `jeffscloud.com` | No |
 | `jeffthompson.dev` | Yes |
@@ -34578,6 +34578,7 @@ Here's a list of public Fediverse services.
 | `svenkubiak.de` | No |
 | `svenmasuhr.de` | No |
 | `svenwal.de` | No |
+| `sverit.de` | No |
 | `svij.org` | No |
 | `svita.cz` | No |
 | `svkt.eu` | No |
@@ -40823,6 +40824,7 @@ Here's a list of public Fediverse services.
 | `zeitlinie.wien` | No |
 | `zeitrechnen.de` | Yes |
 | `zeitreisender.org` | No |
+| `zeitung.social` | No |
 | `zeitverschreib.de` | No |
 | `zeka.cloud` | Yes |
 | `zekjur.net` | Yes |
@@ -41139,8 +41141,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,354 |
-| Normal | 30,742 |
+| Cloudflare | 10,355 |
+| Normal | 30,743 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
