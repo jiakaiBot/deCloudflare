@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,219 |
-| social | 3,970 |
+| social | 3,971 |
 | net | 3,159 |
 | org | 2,188 |
 | de | 2,064 |
@@ -1034,6 +1034,7 @@ Here's a list of public Fediverse services.
 | `adultsonly.social` | No |
 | `advancedsoftware.engineering` | No |
 | `advent.social` | No |
+| `adventureclub.social` | No |
 | `adventurehound.io` | No |
 | `adventuremalmusic.com` | No |
 | `adventurer-guild.org` | No |
@@ -4251,6 +4252,7 @@ Here's a list of public Fediverse services.
 | `blubrry.chat` | No |
 | `bludood.com` | Yes |
 | `blue-mastodon.club` | No |
+| `blue-sky.world` | No |
 | `blueadair.net` | Yes |
 | `blueand.red` | No |
 | `bluebell.social` | No |
@@ -15386,6 +15388,7 @@ Here's a list of public Fediverse services.
 | `houseofillrepute.social` | No |
 | `houseofloy.net` | Yes |
 | `houseofthevoid.com` | No |
+| `housesmith.dev` | No |
 | `houston.chat` | No |
 | `houtx.social` | No |
 | `hovercat.social` | Yes |
@@ -22798,6 +22801,7 @@ Here's a list of public Fediverse services.
 | `mikewells.name` | No |
 | `mikhra.com` | Yes |
 | `mikka.md` | No |
+| `mikkas.world` | No |
 | `miklb.com` | No |
 | `mikmak.cc` | No |
 | `mikmak.fr` | No |
@@ -25367,6 +25371,7 @@ Here's a list of public Fediverse services.
 | `nixdev.com` | No |
 | `nixeneko.info` | No |
 | `nixer.dev` | No |
+| `nixer.info` | Yes |
 | `nixgeek.com` | Yes |
 | `nixgoat.me` | No |
 | `nixi.icu` | No |
@@ -27399,6 +27404,7 @@ Here's a list of public Fediverse services.
 | `patallan.com.au` | No |
 | `patapon.lol` | No |
 | `patapouf.xyz` | No |
+| `patatas.ca` | No |
 | `patate-douce.me` | No |
 | `patault.ovh` | No |
 | `patavium.social` | No |
@@ -29810,6 +29816,7 @@ Here's a list of public Fediverse services.
 | `ratfish.net` | No |
 | `rathe.social` | Yes |
 | `rather.social` | Yes |
+| `ratherbemaking.games` | No |
 | `rathersafe.space` | No |
 | `ratingen.social` | No |
 | `ratliff.space` | No |
@@ -33153,6 +33160,7 @@ Here's a list of public Fediverse services.
 | `social-potsdam.space` | No |
 | `social-strike.net` | Yes |
 | `social-u.tokyo` | No |
+| `social-video.tk` | No |
 | `social-wahn.de` | No |
 | `social.aero` | Yes |
 | `social.archi` | No |
@@ -41141,8 +41149,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,355 |
-| Normal | 30,743 |
+| Cloudflare | 10,356 |
+| Normal | 30,750 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
