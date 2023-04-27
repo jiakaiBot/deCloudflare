@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,213 |
 | social | 3,968 |
 | net | 3,158 |
-| org | 2,185 |
+| org | 2,186 |
 | de | 2,063 |
 
 
@@ -11211,7 +11211,7 @@ Here's a list of public Fediverse services.
 | `fedifilm.art` | No |
 | `fedifilth.com` | No |
 | `fedifilth.tk` | No |
-| `fedifilth.xyz` | No |
+| `fedifilth.xyz` | Yes |
 | `fedifit.site` | No |
 | `fediflix.de` | No |
 | `fediflix.social` | No |
@@ -12110,6 +12110,7 @@ Here's a list of public Fediverse services.
 | `frawas.de` | No |
 | `frazee.social` | No |
 | `frbg.me` | No |
+| `frcsocial.me` | Yes |
 | `fre.do` | No |
 | `fre4k.de` | No |
 | `freak.garden` | No |
@@ -31191,6 +31192,7 @@ Here's a list of public Fediverse services.
 | `saint-jambe.ca` | No |
 | `saint-petersburg.space` | No |
 | `saintnet.tech` | No |
+| `saintsofvirtue.org` | No |
 | `sais.town` | No |
 | `saita-mastodon.online` | No |
 | `saitama-stdn.com` | No |
@@ -41115,7 +41117,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,345 |
+| Cloudflare | 10,347 |
 | Normal | 30,727 |
 
 
