@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,224 |
+| com | 6,225 |
 | social | 3,974 |
 | net | 3,160 |
 | org | 2,189 |
@@ -36426,6 +36426,7 @@ Here's a list of public Fediverse services.
 | `tobolaski.com` | No |
 | `toboldlybrew.com` | Yes |
 | `tobru.ch` | No |
+| `tobskep.com` | No |
 | `toby.ink` | No |
 | `toby.sh` | No |
 | `toby3d.me` | Yes |
@@ -41180,7 +41181,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,365 |
-| Normal | 30,771 |
+| Normal | 30,772 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
