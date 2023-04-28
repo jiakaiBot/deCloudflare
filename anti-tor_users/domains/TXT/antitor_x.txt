@@ -336,6 +336,7 @@ checkout.xpay.by
 client.xdigital.fun
 cmwssbindust.xenovex.com
 contao.xn--brnings-o2a.de
+core-dev.xentrapay.com
 cpanel.xn--gogl-8oa1d.com
 cpcalendars.xperttechnology.pk
 cpcontacts.xfinityservice.us
@@ -357,11 +358,13 @@ gedichte.xbib.de
 giroextraplus.xhymtouaqvkwsve-sicherheit.de
 git.gitlab.gitlab.gitlab.accounts.xn--90agd6c8b.xn--p1ai
 github.xiaobeing.cn
+gitlab.gitlab.git.dev.xn----7sbahcs2ad7afbd1ao7i.xn--p1ai
 gitlab.gitlab.git.gitlab.amazon.xn----7sbaaqljcz0b6au4k.xn--p1ai
 hk.xanforce.xyz
 hotline.xfab.com
 inquirynotification.x24hr.com
 kenneth1.home.xs4all.nl
+logs-de.xbplatform.com
 manageauth-accountapp1e.xueyaochen.com
 media.xiqabm.com
 mjp-analytics.ximad.com
@@ -519,6 +522,7 @@ xucnka.shop
 xuecn360.com
 xuvang777.info
 xw7pokerdom.com
+xy76sj58.net
 xyft.xyz
 3servicios.xy.pe
 accounts.google.com.xecurify.com
