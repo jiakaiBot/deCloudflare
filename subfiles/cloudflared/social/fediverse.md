@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,219 |
-| social | 3,971 |
-| net | 3,159 |
-| org | 2,188 |
-| de | 2,064 |
+| social | 3,973 |
+| net | 3,160 |
+| org | 2,189 |
+| de | 2,066 |
 
 
 - Mastodon, Pleroma, etc
@@ -102,6 +102,7 @@ Here's a list of public Fediverse services.
 | `0x0.icu` | No |
 | `0x0.sk` | Yes |
 | `0x0.st` | No |
+| `0x0a.de` | No |
 | `0x0a.network` | No |
 | `0x0a.pro` | No |
 | `0x0x.dev` | No |
@@ -4011,6 +4012,7 @@ Here's a list of public Fediverse services.
 | `bitzenbytes.com` | No |
 | `bitzeny.link` | Yes |
 | `bitzone.us` | No |
+| `biu.im` | Yes |
 | `biud.li` | No |
 | `biw.social` | No |
 | `biwakodon.com` | No |
@@ -5095,6 +5097,7 @@ Here's a list of public Fediverse services.
 | `c-henry.fr` | No |
 | `c-ici.ch` | Yes |
 | `c-onner.de` | Yes |
+| `c-onr.de` | Yes |
 | `c-p-b.com` | No |
 | `c-pool.jp` | No |
 | `c-r-t.tk` | Yes |
@@ -8467,7 +8470,7 @@ Here's a list of public Fediverse services.
 | `desu.social` | No |
 | `desu.watch` | No |
 | `desupost.soy` | No |
-| `desuposter.club` | No |
+| `desuposter.club` | Yes |
 | `desvox.es` | No |
 | `desync.net` | Yes |
 | `det.social` | No |
@@ -9010,6 +9013,7 @@ Here's a list of public Fediverse services.
 | `dobschat.io` | No |
 | `doby.io` | No |
 | `docampo.net` | No |
+| `dociq.io` | No |
 | `docker25.ch` | No |
 | `dockerr.me` | No |
 | `docmeth02.host` | Yes |
@@ -17250,6 +17254,7 @@ Here's a list of public Fediverse services.
 | `jo3qma.com` | Yes |
 | `joanmastodon.blog` | No |
 | `joaocosta.eu` | No |
+| `joat.me` | No |
 | `jochen-tetzlaff.online` | No |
 | `jockstrap.futbol` | No |
 | `jodh.us` | No |
@@ -19236,7 +19241,7 @@ Here's a list of public Fediverse services.
 | `laminar.social` | No |
 | `laminne33569.net` | Yes |
 | `lamowski.net` | No |
-| `lamp.institute` | Yes |
+| `lamp.institute` | No |
 | `lamp.wtf` | No |
 | `lanandmedia.org` | No |
 | `lancaster.ac.uk` | No |
@@ -19372,6 +19377,7 @@ Here's a list of public Fediverse services.
 | `lawfam.cloud` | No |
 | `lawfedi.blue` | Yes |
 | `lawndale.space` | No |
+| `lawnerd.org` | No |
 | `lawngno.me` | No |
 | `lawprofs.org` | No |
 | `lawrence.sh` | Yes |
@@ -21463,6 +21469,7 @@ Here's a list of public Fediverse services.
 | `masto.dog` | No |
 | `masto.es` | No |
 | `masto.futbol` | No |
+| `masto.gg` | No |
 | `masto.gives` | No |
 | `masto.haus` | Yes |
 | `masto.host` | No |
@@ -23301,7 +23308,7 @@ Here's a list of public Fediverse services.
 | `moe-max.jp` | Yes |
 | `moe-overload.com` | No |
 | `moe.cat` | No |
-| `moe.ceo` | No |
+| `moe.ceo` | Yes |
 | `moe.gy` | Yes |
 | `moe.hm` | No |
 | `moe.lol` | Yes |
@@ -25971,6 +25978,7 @@ Here's a list of public Fediverse services.
 | `numericoop.fr` | No |
 | `numerique.gouv.fr` | No |
 | `numinauts.club` | No |
+| `numis.social` | No |
 | `nunes.uk` | Yes |
 | `nupes.social` | No |
 | `nurbs.ca` | Yes |
@@ -29809,6 +29817,7 @@ Here's a list of public Fediverse services.
 | `rat-und-tat.ruhr` | No |
 | `rat.academy` | No |
 | `rat.cafe` | No |
+| `rat.farm` | No |
 | `rat.party` | No |
 | `rat.pictures` | No |
 | `rat.pub` | Yes |
@@ -34377,6 +34386,7 @@ Here's a list of public Fediverse services.
 | `sucinum.com` | Yes |
 | `suckersforstatus.social` | No |
 | `sudacode.com` | Yes |
+| `sudarkoff.social` | No |
 | `sudduth.me` | No |
 | `sudo.ca` | No |
 | `sudo.cat` | Yes |
@@ -35330,6 +35340,7 @@ Here's a list of public Fediverse services.
 | `teklynk.com` | Yes |
 | `tekmav.space` | No |
 | `teknikveckan.se` | Yes |
+| `teknoids.net` | No |
 | `teknologiumum.com` | Yes |
 | `teknorota.com` | Yes |
 | `tekton.network` | No |
@@ -39143,6 +39154,7 @@ Here's a list of public Fediverse services.
 | `weirdgone.pro` | No |
 | `weirdo.network` | No |
 | `weirdos.social` | No |
+| `weirdstar.stream` | No |
 | `weirdwords.org` | No |
 | `weisensee.me` | No |
 | `weiser.social` | No |
@@ -41149,8 +41161,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,356 |
-| Normal | 30,750 |
+| Cloudflare | 10,359 |
+| Normal | 30,759 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
