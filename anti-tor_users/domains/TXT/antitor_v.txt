@@ -2033,6 +2033,7 @@ api-master.vpnmobileapp.com
 api-virtualtour.veolia.asia
 api.ati.eu.dp15.vwg-connect.com
 api.odlc.eu.dp15.vwg-connect.com
+api.security.dimensicloud.var-x.id
 api.tsc.eu.dp15.vwg-connect.com
 api.tsc.na.dp15.vwg-connect.com
 api.vesseltracker.com
@@ -2040,6 +2041,7 @@ api.vk.com
 api.vocode.dev
 api.vpn-galaxy.net
 api.vspglobal.com
+api.vuitton.biz
 api2.vcp.vet
 api3.vnexpress.net
 apim.vexi.mx
@@ -2060,6 +2062,7 @@ avito.avito.avito.avito.avito.www.covid19.view-manager.com
 avito.avito.avito.avito.sberbank.sber.covid19.view-manager.com
 avito.avito.avito.avito.sberbank.www.covid19.view-manager.com
 avito.avito.avito.blablacar.avito.sber.covid19.view-manager.com
+avito.avito.avito.sber.avito.covid19.view-manager.com
 avito.avito.avito.sberbank.avito.www.covid19.view-manager.com
 avito.avito.avito.sberbank.sber.avito.covid19.vr-cosmetology.ru
 avito.avito.avito.sberbank.sber.www.covid19.view-manager.com
@@ -2078,10 +2081,12 @@ avito.sber.sber.blablacar.sber.www.covid19.vossbryggeri.com
 avito.sber.sber.sberbank.avito.sber.covid19.vesta-donors.com
 avito.sber.sber.sberbank.sber.avito.covid19.vr-cosmetology.ru
 avito.sber.sberbank.avito.blablacar.www.covid19.vossbryggeri.com
+avito.sberbank.avito.avito.www.avito.covid19.vossbryggeri.com
 avito.sberbank.avito.sber.avito.www.covid19.vr-cosmetology.ru
 avito.sberbank.sber.avito.sber.sber.covid19.vesta-donors.com
 avito.sberbank.sber.avito.sberbank.www.covid19.vr-cosmetology.ru
 avito.sberbank.sber.avito.www.sberbank.covid19.vr-cosmetology.ru
+avito.sberbank.sber.sber.covid19.vossbryggeri.com
 avito.sberbank.sber.sber.www.covid19.view-manager.com
 avito.sberbank.sberbank.avito.avito.www.covid19.view-manager.com
 avito.sberbank.sberbank.sber.aviavisber.covid19.vojvodinanet.com
@@ -2178,6 +2183,7 @@ discord-binance.vercel.app
 discord-bot1.vercel.app
 discord.vrpx.de
 discord1.vercel.app
+discordbot1.vercel.app
 discordcfjv1.vercel.app
 discordjs-japan.vercel.app
 discordlosmonsters.vercel.app
@@ -2214,6 +2220,7 @@ events.virtusize.jp
 expedialive.vulcanplatform.net
 ezzulianiblog-gmailcom.vercel.app
 fabiocmtwitch.vercel.app
+faucet-service-leapfi.vercel.app
 ff-motif.cardapp.vipera.com
 ficohsaweb.vercel.app
 file.vqaap.com
@@ -2234,7 +2241,9 @@ grafana-ew1.verifyid.security
 h0i6d2e1-gmailcom.vercel.app
 hb-a.services.vnc.com
 hero-galaxy.vercel.app
+hickorylanedoodlesanddanes.vulcanwebdesign.com
 hidroservicio.vidavirtual.cl
+homi.vpn64.de
 honda-us.telematics.verisk.io
 hunt3751.vercel.app
 huntercranes.vercel.app
@@ -2252,6 +2261,7 @@ info.vulcanosolutions.com
 int-api.virtustec.com
 intlvyairecom--mktweb-2--mh.web-develop.vyaire.com
 ipostal.vnpost.vn
+itau.vpn.co
 itrust-api.vetiva.com
 ivan-discord.vercel.app
 jango-blockchained.vercel.app
@@ -2297,6 +2307,7 @@ modus-update.validserver.de
 moneyzold.vercel.app
 monitoring-service.ace-17a92433.core.build.vwn.cloud
 monitoring-service.ace-2884aef4.core.build.vwn.cloud
+monitoring-service.ace-3ae85d63.core.build.vwn.cloud
 monitoring-service.ace-3f0f4a18.core.build.vwn.cloud
 monitoring-service.ace-53840618.core.build.vwn.cloud
 monitoring-service.ace-a5cf9a5.core.build.vwn.cloud
@@ -2309,6 +2320,7 @@ mopidy.goldencottage.vicondoa.com
 mpv.videocc.net
 muhammed671-gmailcom.vercel.app
 mx1.vnukovo.ru
+my.vodafone.pt
 mygovid.vercel.app
 myusernameisthisroblox.vercel.app
 myvrs.xenv1.varetire.org
@@ -2332,6 +2344,7 @@ nuvem.velezpinto.com
 nycom13.vercel.app
 oaodiscord.vercel.app
 oemil.volkswagen.de
+offert.vwgroup.se
 officialbooktranspo-gmailcom.vercel.app
 omnitro.vercel.app
 onitrog0d.vercel.app
@@ -2387,10 +2400,12 @@ sakuralaminatemy.vulcan30.com
 sber.avito.avito.avito.avito.www.covid19.view-manager.com
 sber.avito.avito.avito.sber.avito.avim.covid19.vitorheinzen.com
 sber.avito.avito.sber.avito.avito.www.covid19.view-manager.com
+sber.avito.avito.sber.avito.sber.covid19.view-manager.com
 sber.avito.blablacar.avito.sber.www.covid19.vossbryggeri.com
 sber.avito.sberbank.avito.sber.sber.covid19.vesta-donors.com
 sber.sber.avito.avito.avito.sber.www.covid19.view-manager.com
 sber.sber.avito.avito.blablacar.covid19.view-manager.com
+sber.sber.avito.sber.sberbank.covid19.vossbryggeri.com
 sber.sber.avito.sberbank.avito.sber.www.covid19.view-manager.com
 sber.sber.sber.sber.avito.sberbank.covid19.vr-cosmetology.ru
 sber.sber.sber.sber.avito.www.covid19.vojvodinanet.com
@@ -2427,6 +2442,7 @@ sberbank.avito.sber.avito.sber.covid19.view-manager.com
 sberbank.avito.sber.avito.sberbank.sber.covid19.view-manager.com
 sberbank.avito.sberbank.avito.sber.sber.covid19.vesta-donors.com
 sberbank.avito.sberbank.sber.avito.www.covid19.vr-cosmetology.ru
+sberbank.avito.sberbank.sber.sber.covid19.vossbryggeri.com
 sberbank.avito.www.sber.sber.aviavisber.covid19.vojvodinanet.com
 sberbank.blablacar.avito.avito.blog.covid19.vitorheinzen.com
 sberbank.blablacar.avito.blablacar.www.covid19.vossbryggeri.com
@@ -2481,6 +2497,7 @@ stara.frajla.virtual360studio.hr
 starmap.dev.alpha.versify.app
 statues.vanderkrogt.net
 stevenarrol-gmailcom.vercel.app
+stg01-community.vendev.info
 stg1community.vendev.info
 stickpage-community.vercel.app
 svr3alt.vsecureprocessing.com
@@ -2541,6 +2558,7 @@ vaccine-proof.xyz
 vadodarabignews.site
 vadtrack2.vadcom.eu
 vagonka-price.site
+vagyottgyermekekert.hu
 vaishnaviincense.com
 vaja.ir
 vakansieakkommodasie.co.za
@@ -2640,10 +2658,10 @@ ver88official.com.vn
 veratan.com
 verdanskstore.shop
 verheijden-gt.nl
-verificacaonu.online
 verificare-pram-bucuresti.ro
 verificari-contabile.ro
 verificastrutturalegru.it
+verification-in.xyz
 verification.uz
 verificationservice.com.ng
 verify-enterusername.info
@@ -2708,6 +2726,7 @@ veterinarias-argentina.info
 vetrafurniture.com
 veyisbicaksizcrj.online
 vf555.asia
+vfdc.fr
 vfmvanhire.co.uk
 vfwh.com
 vgrblogg.se
@@ -2820,6 +2839,7 @@ vitacorecbd.org
 vitacorecbdgummies.net
 vitagerd.net
 vitalearnersfx.com
+vitamilkshop.com
 vitaminshop.am
 vitapaola.com
 vithayathilhomes.com
@@ -2867,6 +2887,7 @@ voprosnik.com
 vorschau.app
 vorschau.work
 voryapi.com
+voucherwallet.digital
 voxodyssey.com
 voxturrlabs.info
 vozloquendo.com
@@ -2911,7 +2932,6 @@ vulcanizacionchile.cl
 vulcanizadossanz.es
 vulcanizaremobila-auri.ro
 vulcankilns.com
-vulcanm.com
 vulcano-assistencia.pt
 vulcanomobile.es
 vulcanonestudio.com
@@ -2946,6 +2966,7 @@ webservice.vrisonline.nl
 webservices01.vfuc.nl
 wegfox.vercel.app
 wenghong.vulcan30.com
+whatsapp.visage.com.br
 wicks-candle-labs.vert.host
 wiki.vsd.app
 worten-dev.vistex.cloud
@@ -2988,6 +3009,7 @@ www.dknordpost.org.verfolgung-dpost.com
 www.e-services.vanlumedia.com
 www.esterinocafasso.vetrinaregali.it
 www.fresso.vendingmaster.ro
+www.googlehirdeteskezeles.valigu.hu
 www.halkkrning-24-feb.vasterasms.se
 www.hidroservicio.vidavirtual.cl
 www.hiptock.vossavosso.com
@@ -3033,8 +3055,15 @@ www.sikkerhedsvagten.vagtnetdanmark.dk
 www.soulsacrificemusic.com.vodafoneesmusica.com
 www.soutien.viacommunication.com
 www.steamcodes.vbuckscentral.net
+www.supplify.vpnhostguide.co.nz
 www.support.vdginfotec.com
 www.ticket.vlog1sports.com
+www.ticket1.vlog1sports.com
+www.ticket2.vlog1sports.com
+www.ticket3.vlog1sports.com
+www.ticket4.vlog1sports.com
+www.ticket5.vlog1sports.com
+www.ticket6.vlog1sports.com
 www.ticketsell.viewsports4k.com
 www.tinderprofesor.si.vitalivisuals.com
 www.track.verfolgung-depost.org
@@ -3055,6 +3084,7 @@ www.valedistributingservice.com
 www.valentino.com.ar
 www.valeo.com
 www.valeriecoteauteure.com
+www.valerierey.com
 www.valeskanyc.com
 www.valhallaediciones.com
 www.validatemyinsurance.com
@@ -3081,6 +3111,7 @@ www.vantailion.com
 www.vanvipservice.com
 www.vapld.info
 www.vareladumpsterservices.com
+www.varshaapp.com
 www.vatco.co
 www.vaughancapital.com
 www.vaughanstanger.com
@@ -3128,6 +3159,7 @@ www.vgpsecure.com
 www.vhec.org
 www.viagogo.co.uk
 www.vianatel.com.br
+www.vicduarte.com
 www.vicommci.com
 www.victoria-advisory.com
 www.victoriaadvocate.com
@@ -3159,8 +3191,10 @@ www.vinivalledicembra.it
 www.vintagebeauty.es
 www.vintagesecurity.com
 www.vintagestory.at
+www.vinylnightradio.co.uk
 www.vipbuildinggroup.com
 www.vipcarestore.com.br
+www.vipticket.biz
 www.vireotherapy.com
 www.virginiabeach-marina.com
 www.virteract.com
@@ -3204,11 +3238,13 @@ www.volkswagenlongbien.com
 www.volkswagenparts.net.au
 www.volkswagenwyprzedazrocznika.pl
 www.vollmar-akademie.de
+www.voltimum.co.uk
 www.volusionpentest1.com
 www.vons0dergren.no
 www.vornado.com
 www.voryapi.com
 www.vostsurgery.co.uk
+www.voucherwallet.digital
 www.vpap.org
 www.vpn-point.com
 www.vpn-streaming.com
