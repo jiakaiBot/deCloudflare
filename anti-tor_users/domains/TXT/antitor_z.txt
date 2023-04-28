@@ -645,8 +645,10 @@ avito.sberbank.avito.gitlab.git.covid19.zlclubmarket.com
 aws-staging.zeroq.cl
 aws-traefik.zeroq.cl
 beacon.ztgame.com
+blablacar.avito.avito.blablacar.git.covid19.zalive-akvilon.ru
 blablacar.avito.blablacar.git.covid19.zalive-akvilon.ru
 blablacar.git.gitlab.gitlab.gitlab.git.covid19.zalive-akvilon.ru
+blablacar.gitlab.git.git.gitlab.www.covid19.zalive-akvilon.ru
 blog.ztleespace.com
 bookingdoc.zixcore.tech
 bossmoney.zedafrica.com
@@ -667,6 +669,7 @@ dziennik-vulcan.zsms.zgora.pl
 edi-api.zerionlabs.com
 enq-form.zojirushi.co.jp
 es-logs.prod-cluster.zedge.io
+faucet.zetachain.link
 fdnp.unionbank.zootweb.com
 forms.zohopublic.com.au
 fxdhbfghfy.zzux.com
@@ -781,6 +784,7 @@ sberbank.sberbank.sber.blablacar.covid19.zepter-catalog.ru
 services.zubahost.com
 sign.zytrust.com
 smocca-staging.zigexn.vn
+sso.prd.zoominsoftware.app
 static.ctw.zusapi.com
 support.zyberwise.com
 test-api.zmartagroup.se
@@ -952,6 +956,7 @@ zodiac-nft.xyz
 zoig.com
 zollabfertigungdhl.com
 zombiegamer.co.za
+zonadigital-loginunicobpc.bio
 zonecollege.nl
 zonta.dk
 zooflora.net
@@ -970,6 +975,7 @@ zschultz.com
 zsiraiclaudia.name
 zstart.nl
 zuber-gloor.ch
+zulubetpredictions.com
 zurcherarquitectos.com
 zuriserve.africa
 zuudteen.com
