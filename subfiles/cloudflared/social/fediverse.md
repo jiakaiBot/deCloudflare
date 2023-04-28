@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,227 |
+| com | 6,228 |
 | social | 3,974 |
 | net | 3,160 |
 | org | 2,189 |
-| de | 2,068 |
+| de | 2,069 |
 
 
 - Mastodon, Pleroma, etc
@@ -5508,6 +5508,7 @@ Here's a list of public Fediverse services.
 | `catspace.xyz` | No |
 | `catswords.net` | Yes |
 | `catswords.social` | Yes |
+| `catswords.watch` | Yes |
 | `catt.wtf` | No |
 | `cattell.mba` | No |
 | `cattesandbuttes.com` | No |
@@ -17609,6 +17610,7 @@ Here's a list of public Fediverse services.
 | `justanother.party` | No |
 | `justbartek.ca` | No |
 | `justbennet.com` | No |
+| `justbirds.photo` | No |
 | `justbros.xyz` | No |
 | `justcoding.tech` | Yes |
 | `justda.tips` | No |
@@ -27033,6 +27035,7 @@ Here's a list of public Fediverse services.
 | `outils-conviviaux.fr` | No |
 | `outlier.directory` | No |
 | `outlow.xyz` | No |
+| `outmo.de` | No |
 | `outofreality.org` | No |
 | `outoftou.ch` | Yes |
 | `outout.xyz` | No |
@@ -30077,6 +30080,7 @@ Here's a list of public Fediverse services.
 | `redrosa.social` | No |
 | `redrosewriter.com` | Yes |
 | `redrover.social` | Yes |
+| `redsky.monster` | No |
 | `redsnake.io` | No |
 | `redsnow.io` | No |
 | `redspinning.top` | No |
@@ -38873,7 +38877,7 @@ Here's a list of public Fediverse services.
 | `wahrscheinlichkeitundmethode.de` | No |
 | `waifu.one` | No |
 | `waifu.social` | Yes |
-| `waifu.space` | No |
+| `waifu.space` | Yes |
 | `waifuappreciation.club` | No |
 | `waifuism.life` | No |
 | `waifuism.rocks` | No |
@@ -40461,6 +40465,7 @@ Here's a list of public Fediverse services.
 | `yerp.io` | Yes |
 | `yesand.community` | No |
 | `yeschenko.com` | No |
+| `yeshuafreedom.com` | No |
 | `yesil.club` | No |
 | `yesnt.ga` | No |
 | `yestadon.site` | No |
@@ -41190,8 +41195,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,367 |
-| Normal | 30,780 |
+| Cloudflare | 10,369 |
+| Normal | 30,783 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
