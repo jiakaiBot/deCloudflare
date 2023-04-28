@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,228 |
+| com | 6,227 |
 | social | 3,974 |
 | net | 3,160 |
 | org | 2,189 |
@@ -5508,7 +5508,6 @@ Here's a list of public Fediverse services.
 | `catspace.xyz` | No |
 | `catswords.net` | Yes |
 | `catswords.social` | Yes |
-| `catswords.watch` | Yes |
 | `catt.wtf` | No |
 | `cattell.mba` | No |
 | `cattesandbuttes.com` | No |
@@ -30078,7 +30077,6 @@ Here's a list of public Fediverse services.
 | `redrosa.social` | No |
 | `redrosewriter.com` | Yes |
 | `redrover.social` | Yes |
-| `redsky.monster` | No |
 | `redsnake.io` | No |
 | `redsnow.io` | No |
 | `redspinning.top` | No |
@@ -40463,7 +40461,6 @@ Here's a list of public Fediverse services.
 | `yerp.io` | Yes |
 | `yesand.community` | No |
 | `yeschenko.com` | No |
-| `yeshuafreedom.com` | No |
 | `yesil.club` | No |
 | `yesnt.ga` | No |
 | `yestadon.site` | No |
@@ -41193,8 +41190,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,368 |
-| Normal | 30,782 |
+| Cloudflare | 10,367 |
+| Normal | 30,780 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
