@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,219 |
-| social | 3,973 |
+| com | 6,222 |
+| social | 3,974 |
 | net | 3,160 |
 | org | 2,189 |
-| de | 2,067 |
+| de | 2,068 |
 
 
 - Mastodon, Pleroma, etc
@@ -1219,6 +1219,7 @@ Here's a list of public Fediverse services.
 | `ait.place` | Yes |
 | `aitor-sama.es` | Yes |
 | `aitorpazos.es` | No |
+| `aiursoft.cn` | No |
 | `aix-en-provence.social` | No |
 | `aj.immo` | Yes |
 | `aj.ms` | Yes |
@@ -2616,6 +2617,7 @@ Here's a list of public Fediverse services.
 | `astronomy.social` | No |
 | `astropirados.space` | No |
 | `astroport.com` | No |
+| `astroposting.de` | No |
 | `astrosocial.space` | Yes |
 | `astrox.xyz` | No |
 | `astrr.ru` | Yes |
@@ -3935,6 +3937,7 @@ Here's a list of public Fediverse services.
 | `birdtu.be` | No |
 | `biribiri.de` | No |
 | `biribiri.dev` | No |
+| `birming.se` | No |
 | `birth-online.de` | No |
 | `birthday.cat` | No |
 | `bisby.xyz` | No |
@@ -5203,6 +5206,7 @@ Here's a list of public Fediverse services.
 | `californialocal.com` | No |
 | `calligraphicspace.com` | No |
 | `callingallpapers.com` | Yes |
+| `callistoapp.com` | No |
 | `calmarius.net` | No |
 | `calmdonut.social` | Yes |
 | `calobar.club` | No |
@@ -15829,6 +15833,7 @@ Here's a list of public Fediverse services.
 | `iee.engineer` | Yes |
 | `ieee.org` | Yes |
 | `ieji.de` | No |
+| `ieleja.lv` | No |
 | `ielts.boats` | No |
 | `ient.me` | No |
 | `iero.org` | No |
@@ -26449,6 +26454,7 @@ Here's a list of public Fediverse services.
 | `omeganote.fr` | No |
 | `omeowgle.com` | Yes |
 | `omer.land` | Yes |
+| `omeryilmaz.com.tr` | Yes |
 | `omfg.blog` | No |
 | `omfg.town` | No |
 | `omfg.tv` | No |
@@ -28375,6 +28381,7 @@ Here's a list of public Fediverse services.
 | `pmth.us` | No |
 | `pmueller.de` | No |
 | `pnd.mn` | No |
+| `pneumasolutions.com` | No |
 | `pneumastodon.com` | No |
 | `pngcs.de` | No |
 | `pnk.solar` | No |
@@ -30002,6 +30009,7 @@ Here's a list of public Fediverse services.
 | `reconnectcolorado.com` | Yes |
 | `reconstructionzone.us` | No |
 | `recordplug.club` | No |
+| `recovering.social` | No |
 | `recoveryposse.social` | No |
 | `recruiter.social` | No |
 | `recsys.social` | No |
@@ -31117,6 +31125,7 @@ Here's a list of public Fediverse services.
 | `s-w2.de` | No |
 | `s-yurama.com` | No |
 | `s.ai` | No |
+| `s.place` | Yes |
 | `s0cial.sh` | No |
 | `s10y.eu` | No |
 | `s1204.net` | No |
@@ -37464,6 +37473,7 @@ Here's a list of public Fediverse services.
 | `twunk.uk` | No |
 | `tx.social` | No |
 | `txcolliers.net` | No |
+| `txia.io` | No |
 | `txia.net` | No |
 | `txio.eus` | No |
 | `txmn.tk` | No |
@@ -40513,6 +40523,7 @@ Here's a list of public Fediverse services.
 | `yoichihirai.com` | No |
 | `yoink.org.uk` | Yes |
 | `yoitsu.moe` | Yes |
+| `yoix.com` | Yes |
 | `yojik.net` | No |
 | `yokai.cafe` | No |
 | `yolo.ventures` | No |
@@ -41163,8 +41174,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,359 |
-| Normal | 30,761 |
+| Cloudflare | 10,362 |
+| Normal | 30,769 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
