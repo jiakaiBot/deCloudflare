@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,225 |
+| com | 6,228 |
 | social | 3,974 |
 | net | 3,160 |
 | org | 2,189 |
@@ -3779,6 +3779,7 @@ Here's a list of public Fediverse services.
 | `bierochs.org` | No |
 | `bierschutzpartei.de` | No |
 | `bierzilla.fr` | No |
+| `biesdorfer.com` | No |
 | `big.mt` | Yes |
 | `bigbadapple.com` | No |
 | `bigballchunkyverse.online` | No |
@@ -5507,6 +5508,7 @@ Here's a list of public Fediverse services.
 | `catspace.xyz` | No |
 | `catswords.net` | Yes |
 | `catswords.social` | Yes |
+| `catswords.watch` | Yes |
 | `catt.wtf` | No |
 | `cattell.mba` | No |
 | `cattesandbuttes.com` | No |
@@ -10604,6 +10606,7 @@ Here's a list of public Fediverse services.
 | `eula.dev` | No |
 | `eule.wtf` | No |
 | `eulerroom.com` | No |
+| `eulious.com` | No |
 | `eunach.scot` | No |
 | `eunivers.social` | No |
 | `euonymus.xyz` | Yes |
@@ -14722,6 +14725,7 @@ Here's a list of public Fediverse services.
 | `heise.de` | No |
 | `heising.at` | No |
 | `heislandmine.work` | No |
+| `heizag.ch` | No |
 | `hejfolks.social` | No |
 | `heka.social` | Yes |
 | `hekeki.com` | No |
@@ -17918,6 +17922,7 @@ Here's a list of public Fediverse services.
 | `karukera.social` | No |
 | `kas.sh` | Yes |
 | `kasa12.dev` | No |
+| `kasakoso.lol` | Yes |
 | `kashayokai.com` | Yes |
 | `kashishokunin.com` | No |
 | `kashiwadon.net` | No |
@@ -18516,6 +18521,7 @@ Here's a list of public Fediverse services.
 | `km-connect.org` | No |
 | `km6g.us` | No |
 | `kmdkuk.com` | No |
+| `kmkz.moe` | No |
 | `kmlg.jp` | Yes |
 | `kmmtn.com` | No |
 | `kmr.me` | Yes |
@@ -21216,6 +21222,7 @@ Here's a list of public Fediverse services.
 | `mapsupport.club` | Yes |
 | `mapsupport.de` | No |
 | `maquena.org` | No |
+| `maquenoserver.me` | No |
 | `maquinaslibres.tk` | No |
 | `marache.net` | No |
 | `maradia.ga` | No |
@@ -30071,6 +30078,7 @@ Here's a list of public Fediverse services.
 | `redrosa.social` | No |
 | `redrosewriter.com` | Yes |
 | `redrover.social` | Yes |
+| `redsky.monster` | No |
 | `redsnake.io` | No |
 | `redsnow.io` | No |
 | `redspinning.top` | No |
@@ -31018,6 +31026,7 @@ Here's a list of public Fediverse services.
 | `russ.network` | Yes |
 | `russell.social` | Yes |
 | `russellmcc.com` | No |
+| `russellphillips.uk` | No |
 | `russiandiaspora.org` | No |
 | `russiaukraine.world` | No |
 | `russnelson.com` | No |
@@ -35460,6 +35469,7 @@ Here's a list of public Fediverse services.
 | `terrancebrown.me` | No |
 | `terrenly.com` | No |
 | `terrible.city` | Yes |
+| `terrible.computer` | Yes |
 | `terrible.fail` | Yes |
 | `terrible.gay` | No |
 | `terrible.graphics` | No |
@@ -35748,6 +35758,7 @@ Here's a list of public Fediverse services.
 | `thefrugalgamer.net` | No |
 | `thefurrytiger.net` | Yes |
 | `thefutureoftext.org` | No |
+| `thefuturist.network` | No |
 | `thefword.club` | No |
 | `thegamebreakers.net` | No |
 | `thegarage.world` | No |
@@ -40452,6 +40463,7 @@ Here's a list of public Fediverse services.
 | `yerp.io` | Yes |
 | `yesand.community` | No |
 | `yeschenko.com` | No |
+| `yeshuafreedom.com` | No |
 | `yesil.club` | No |
 | `yesnt.ga` | No |
 | `yestadon.site` | No |
@@ -41181,8 +41193,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,365 |
-| Normal | 30,773 |
+| Cloudflare | 10,368 |
+| Normal | 30,782 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
