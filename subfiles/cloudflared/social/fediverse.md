@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,973 |
 | net | 3,160 |
 | org | 2,189 |
-| de | 2,066 |
+| de | 2,067 |
 
 
 - Mastodon, Pleroma, etc
@@ -8676,6 +8676,7 @@ Here's a list of public Fediverse services.
 | `didiermary.fr` | No |
 | `didit.site` | No |
 | `didriksen.fo` | No |
+| `die-bingerin.de` | No |
 | `die-familie.link` | No |
 | `die-partei-reutlingen.de` | No |
 | `die-partei.social` | No |
@@ -20075,6 +20076,7 @@ Here's a list of public Fediverse services.
 | `listenbourg.eu` | Yes |
 | `listennotes.com` | Yes |
 | `listerdale.it` | No |
+| `listner.cloud` | No |
 | `lit.monster` | Yes |
 | `litchan.com` | No |
 | `litelot.us` | Yes |
@@ -41162,7 +41164,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,359 |
-| Normal | 30,759 |
+| Normal | 30,761 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
