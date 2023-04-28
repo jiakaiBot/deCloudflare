@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [MapRoulette is down](https://github.com/maproulette/maproulette3/issues/2012)
 - [sometimes getting prompt failed.](https://github.com/SkyaTura/gpt-subb/issues/3)
 - [ZHA broke after 10.1 upgrade](https://github.com/home-assistant/operating-system/issues/2519)
 - [Getting this error - ModuleNotFoundError: No module named 'pyngrok' - Please Help !](https://github.com/TheLastBen/fast-stable-diffusion/issues/2053)
