@@ -19057,6 +19057,7 @@ Here's a list of public Fediverse services.
 | `kylehengst.com` | Yes |
 | `kylemacquarrie.co.uk` | No |
 | `kylepiira.com` | No |
+| `kylerank.in` | No |
 | `kylewm.com` | Yes |
 | `kylla.xyz` | No |
 | `kymo.org` | No |
@@ -41181,7 +41182,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,365 |
-| Normal | 30,772 |
+| Normal | 30,773 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
