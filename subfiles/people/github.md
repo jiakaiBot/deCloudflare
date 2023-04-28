@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [How does Chicago95 change the Firefox theme?](https://github.com/grassmunk/Chicago95/issues/287)
 - [MapRoulette is down](https://github.com/maproulette/maproulette3/issues/2012)
 - [sometimes getting prompt failed.](https://github.com/SkyaTura/gpt-subb/issues/3)
 - [ZHA broke after 10.1 upgrade](https://github.com/home-assistant/operating-system/issues/2519)
