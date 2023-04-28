@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,222 |
+| com | 6,224 |
 | social | 3,974 |
 | net | 3,160 |
 | org | 2,189 |
@@ -6507,6 +6507,7 @@ Here's a list of public Fediverse services.
 | `cofeti.me` | No |
 | `coffee-break.at` | No |
 | `coffee-break.cc` | Yes |
+| `coffee.link` | Yes |
 | `coffeeandcode.com` | No |
 | `coffeebean.social` | No |
 | `coffeechat.social` | No |
@@ -21990,7 +21991,7 @@ Here's a list of public Fediverse services.
 | `mathieunicolas.net` | No |
 | `mathilde.eu.org` | No |
 | `mathstodon.xyz` | No |
-| `mathtod.online` | No |
+| `mathtod.online` | Yes |
 | `mathtodon.com` | No |
 | `mathtodon.social` | Yes |
 | `mathys.io` | Yes |
@@ -24537,6 +24538,7 @@ Here's a list of public Fediverse services.
 | `nandythm.com` | No |
 | `naninani.uk` | No |
 | `nanitebased.club` | No |
+| `nannal.com` | Yes |
 | `nannerpuss.club` | Yes |
 | `nanoapp.io` | No |
 | `nanobyte.cafe` | No |
@@ -24891,6 +24893,7 @@ Here's a list of public Fediverse services.
 | `nerddrive.net` | Yes |
 | `nerderium.com` | No |
 | `nerderypublic.com` | Yes |
+| `nerdfest.nl` | No |
 | `nerdfight.online` | No |
 | `nerdfoo.dev` | No |
 | `nerdgineer.com` | No |
@@ -26312,6 +26315,7 @@ Here's a list of public Fediverse services.
 | `ohbear.wtf` | No |
 | `ohbutt.com` | Yes |
 | `ohdesi.re` | No |
+| `ohebimochimochi.com` | No |
 | `ohelig.me` | Yes |
 | `ohess.org` | Yes |
 | `ohgro.net` | Yes |
@@ -39684,6 +39688,7 @@ Here's a list of public Fediverse services.
 | `woodplate.club` | No |
 | `woodside.nz` | No |
 | `woodwideweb.social` | No |
+| `woodworking.group` | No |
 | `woof.group` | No |
 | `woof.tech` | No |
 | `woofed.me` | No |
@@ -41174,8 +41179,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,362 |
-| Normal | 30,769 |
+| Cloudflare | 10,365 |
+| Normal | 30,771 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
