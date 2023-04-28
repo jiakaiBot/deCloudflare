@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,228 |
 | social | 3,974 |
-| net | 3,160 |
+| net | 3,161 |
 | org | 2,189 |
 | de | 2,069 |
 
@@ -955,6 +955,7 @@ Here's a list of public Fediverse services.
 | `adamw.social` | No |
 | `adamwolf.org` | No |
 | `adapulawska.org` | Yes |
+| `adast.dk` | No |
 | `adast.xyz` | Yes |
 | `adawesome.tech` | No |
 | `adb.sh` | No |
@@ -23758,6 +23759,7 @@ Here's a list of public Fediverse services.
 | `mrpjevans.com` | No |
 | `mrporky.moe` | No |
 | `mrprud.me` | Yes |
+| `mrrl.me` | No |
 | `mrrlll.net` | No |
 | `mrroman.pl` | Yes |
 | `mrsmckhaos.me` | No |
@@ -28720,6 +28722,7 @@ Here's a list of public Fediverse services.
 | `pouet.it` | No |
 | `pouet.me` | No |
 | `pouet.pt` | No |
+| `pouet.quebec` | Yes |
 | `pouet.social` | No |
 | `pouet.space` | Yes |
 | `pouetd.fr` | No |
@@ -35290,6 +35293,7 @@ Here's a list of public Fediverse services.
 | `technodro.me` | No |
 | `technodruide.ca` | No |
 | `technoetic.com` | Yes |
+| `technogothic.net` | No |
 | `technohazard.io` | No |
 | `technologeek.me` | No |
 | `technologists.cloud` | No |
@@ -41195,8 +41199,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,369 |
-| Normal | 30,783 |
+| Cloudflare | 10,370 |
+| Normal | 30,786 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
