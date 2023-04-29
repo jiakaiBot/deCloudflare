@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [An error occurred: 'dict' object has no attribute 'text'.](https://github.com/xtekky/gpt4free/issues/271)
 - [How does Chicago95 change the Firefox theme?](https://github.com/grassmunk/Chicago95/issues/287)
 - [MapRoulette is down](https://github.com/maproulette/maproulette3/issues/2012)
 - [sometimes getting prompt failed.](https://github.com/SkyaTura/gpt-subb/issues/3)
