@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,228 |
-| social | 3,974 |
+| social | 3,975 |
 | net | 3,161 |
-| org | 2,189 |
-| de | 2,069 |
+| org | 2,190 |
+| de | 2,070 |
 
 
 - Mastodon, Pleroma, etc
@@ -3160,6 +3160,7 @@ Here's a list of public Fediverse services.
 | `bakitodon.com` | No |
 | `bakunet.me` | Yes |
 | `bakusocial.com` | No |
+| `bal.ovh` | Yes |
 | `balad.in` | No |
 | `balaena.eus` | No |
 | `balafon.cloud` | No |
@@ -23709,6 +23710,7 @@ Here's a list of public Fediverse services.
 | `mp-tube.de` | No |
 | `mp0.jp` | No |
 | `mp3reelhub.com` | No |
+| `mpaq.org` | No |
 | `mpda.ru` | No |
 | `mpg.de` | No |
 | `mpgaming.social` | Yes |
@@ -25385,7 +25387,7 @@ Here's a list of public Fediverse services.
 | `nitiasa.com` | Yes |
 | `nitro.horse` | No |
 | `nitroet.me` | No |
-| `nitrokey.com` | No |
+| `nitrokey.com` | Yes |
 | `nittc.tokyo` | No |
 | `niu.moe` | No |
 | `niu.ne.jp` | No |
@@ -25723,6 +25725,7 @@ Here's a list of public Fediverse services.
 | `northpole.host` | No |
 | `northside.tokyo` | Yes |
 | `northstar.engineering` | No |
+| `northstar.social` | No |
 | `northtexas.social` | No |
 | `norwescon.org` | No |
 | `norze.co` | Yes |
@@ -27042,6 +27045,7 @@ Here's a list of public Fediverse services.
 | `outoftou.ch` | Yes |
 | `outout.xyz` | No |
 | `outpoa.st` | No |
+| `outpostbrons.nl` | No |
 | `outrider.xyz` | No |
 | `outsideisfree.xyz` | No |
 | `outsidermanga.com` | No |
@@ -29616,7 +29620,7 @@ Here's a list of public Fediverse services.
 | `radiopatio.social` | No |
 | `radiosdigitales.es` | No |
 | `radiosocial.de` | No |
-| `radiosocial.org` | Yes |
+| `radiosocial.org` | No |
 | `radiosonline.cloud` | No |
 | `radiostatler.social` | No |
 | `radiotogether.uk` | No |
@@ -36809,6 +36813,7 @@ Here's a list of public Fediverse services.
 | `toromino.de` | Yes |
 | `torontomusic.cloud` | No |
 | `torpedo-submarine.online` | No |
+| `torpedo.contact` | Yes |
 | `torr.red` | No |
 | `torrca.com` | Yes |
 | `torrenezzi10.xyz` | No |
@@ -37937,6 +37942,7 @@ Here's a list of public Fediverse services.
 | `untitledcyberpunkproject.com` | No |
 | `untone.uk` | Yes |
 | `untraceable.ch` | No |
+| `untrigkeit.de` | No |
 | `untrusted.website` | No |
 | `unturf.com` | No |
 | `untwitter.cf` | No |
@@ -38055,7 +38061,7 @@ Here's a list of public Fediverse services.
 | `usne.social` | No |
 | `uso108.site` | No |
 | `usocial.fr` | No |
-| `usokkey.club` | Yes |
+| `usokkey.club` | No |
 | `usr.cloud` | Yes |
 | `usrlocal.net` | No |
 | `ussr.win` | No |
@@ -41199,8 +41205,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,370 |
-| Normal | 30,786 |
+| Cloudflare | 10,371 |
+| Normal | 30,791 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
