@@ -559,6 +559,7 @@ Or is this merely a case of simple modesty?
 | Dylan Saffer | Business Development |  |
 | Dylan Welter | Creative Ops Manager |  |
 | Ed Burns | Technical Recruiter |  |
+| Ed Conolly | Employee | |
 | Eden Wee | Customer Support, Singapore |  |
 | Edith Germer | Business Development |  |
 | Ed Oledan | Customer Development |  |
@@ -664,6 +665,7 @@ Or is this merely a case of simple modesty?
 | Gloria Marcu | Support Engineer |  |
 | Goutam Tamvada | Employee | |
 | Grace Lin | Special Projects |  |
+| Grant Bourzikas | Employee | |
 | Grant Humphreys | Business Development |  |
 | Greg Brimble | Employee | |
 | Greg Cohn | Customer Success Engineer |  |
@@ -1434,6 +1436,7 @@ Or is this merely a case of simple modesty?
 | Prudhvi Ratna | Employee |  |
 | Pudcharapon Laokokham (Peter) | Solutions Engineer |  |
 | Putri Emas | Employee |  |
+| Quang Luong | Employee | |
 | Quinn Cassidy | Business Development |  |
 | Rachel Chen | Employee |  |
 | Rachel Dowson | People Team Partner |  |
