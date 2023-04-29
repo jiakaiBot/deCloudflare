@@ -330,6 +330,7 @@ auth.appgw.xtob.net
 auth.int.x-avenue.de
 auth.xello.world
 bidagent.xad.com
+cadastro.xpi.com.br
 captcha.xcount.io
 ccc-api.xiujiadian.com
 checkout.xpay.by
@@ -371,6 +372,7 @@ mjp-analytics.ximad.com
 moneyfactory.xaa.pl
 monitoring.xoxouhqui.cyou
 packagespc.xboxlive.com
+poc.xavail.net
 prep.xn--tauchsportgruppe-klingenmnster-tfd.de
 roblox.v1.xpluem.com
 roblox.v2.xpluem.com
@@ -410,8 +412,10 @@ www.user.xochtech.com.es
 www.whatsapp.xn--quinceaos-r6a.es
 www.x-cities.net
 www.xcubelabs.com
+www.xeek.tech
 www.xeroxmoney.com
 www.xfinitydesigns.com
+www.xfinitymoving.com
 www.xiuwushidai.com
 www.xlconsultinggroup.com
 www.xmtrading.com
@@ -421,6 +425,7 @@ www.xn--airbnbvrter-g9a.dk
 www.xn--aliexpressespaa-crb.es
 www.xn--assurancehypothcaire-p2b.com
 www.xn--bcklein-90a.de
+www.xn--billig-ln-d3a.nu
 www.xn--billigste-bredbnd-nrb.dk
 www.xn--courtier-crdits-assurances-clisson-l9c.fr
 www.xn--denizgneykurt-1ob.com.tr
@@ -481,6 +486,7 @@ xn--80aaaecllvchibc9bf4cqk.xn--p1ai
 xn--80aagsn1an.xn--p1ai
 xn--airbnbvrter-g9a.dk
 xn--aliexpressespaa-crb.es
+xn--billig-ln-d3a.nu
 xn--billigste-bredbnd-nrb.dk
 xn--borjhs-syab.hu
 xn--courtier-crdits-assurances-clisson-l9c.fr
@@ -497,6 +503,7 @@ xn--t8j6c6de7a4051bxgdpu2o.net
 xn--veterinrhsselby-6kbc.com
 xn--webducation-dbb.com
 xn--www-ofus-touch-j1b.com
+xn--y9azesw6bu.xn--y9a3aq
 xnews.id
 xo-service.fi
 xokki.com
@@ -513,6 +520,7 @@ xprezzkool.com
 xsdyupbp.top
 xseriesjpn.xyz
 xspaceradio.com
+xsts.auth.xboxlive.com
 xtn-soundworks.art
 xtradelivery.asia
 xtrasupport.au
