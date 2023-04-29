@@ -22153,6 +22153,7 @@ Here's a list of public Fediverse services.
 | `maxweiss.io` | No |
 | `maxwellvolume.com` | No |
 | `maxxblow.de` | Yes |
+| `maya.coffee` | No |
 | `mayan-edms.xyz` | No |
 | `maybe.pizza` | No |
 | `maydayroleplay.com` | No |
@@ -41237,7 +41238,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,385 |
-| Normal | 30,808 |
+| Normal | 30,809 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
