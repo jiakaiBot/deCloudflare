@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,975 |
 | net | 3,161 |
 | org | 2,190 |
-| de | 2,070 |
+| de | 2,071 |
 
 
 - Mastodon, Pleroma, etc
@@ -2250,6 +2250,7 @@ Here's a list of public Fediverse services.
 | `archive.org` | Yes |
 | `archived.software` | No |
 | `archivefedifor.fun` | No |
+| `archlinux.fyi` | No |
 | `archous.net` | No |
 | `archraspberrypi.tk` | No |
 | `archybold.com` | No |
@@ -8275,7 +8276,7 @@ Here's a list of public Fediverse services.
 | `degrowth.club` | No |
 | `degruchy.org` | No |
 | `deguuuuu.xyz` | No |
-| `dehaeck.eu` | No |
+| `dehaeck.eu` | Yes |
 | `dehawara.de` | No |
 | `dehopre.dev` | Yes |
 | `deima.sh` | No |
@@ -18234,6 +18235,7 @@ Here's a list of public Fediverse services.
 | `khesp.com` | No |
 | `khiar.net` | Yes |
 | `khimaros.com` | No |
+| `khinah.xyz` | No |
 | `khisanth.com` | No |
 | `khmer.love` | Yes |
 | `khoa.cool` | Yes |
@@ -38702,6 +38704,7 @@ Here's a list of public Fediverse services.
 | `vonbergcompany.de` | No |
 | `vonhaller.com` | No |
 | `vonhaller.social` | No |
+| `vonnordmann.de` | No |
 | `vonschack.com` | No |
 | `vonsee.de` | No |
 | `vonste.in` | No |
@@ -41206,8 +41209,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,373 |
-| Normal | 30,790 |
+| Cloudflare | 10,374 |
+| Normal | 30,792 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
