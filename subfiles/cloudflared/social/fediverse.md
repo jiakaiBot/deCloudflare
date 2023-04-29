@@ -12827,7 +12827,7 @@ Here's a list of public Fediverse services.
 | `galenzoski.com` | Yes |
 | `galileo.news` | No |
 | `gall.family` | Yes |
-| `gallegoiv.com` | No |
+| `gallegoiv.com` | Yes |
 | `gallifrey.es` | No |
 | `gallifrey.social` | No |
 | `gallinula.com` | No |
@@ -27109,6 +27109,7 @@ Here's a list of public Fediverse services.
 | `owo.cafe` | No |
 | `owo.ceo` | Yes |
 | `owo.ee` | Yes |
+| `owo.is` | Yes |
 | `owo.monster` | No |
 | `owo.rs` | Yes |
 | `owo.sg` | Yes |
@@ -41205,8 +41206,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,371 |
-| Normal | 30,791 |
+| Cloudflare | 10,373 |
+| Normal | 30,790 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
