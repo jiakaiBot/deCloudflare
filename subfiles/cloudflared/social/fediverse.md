@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,231 |
 | social | 3,976 |
 | net | 3,161 |
-| org | 2,190 |
+| org | 2,191 |
 | de | 2,071 |
 
 
@@ -7804,6 +7804,7 @@ Here's a list of public Fediverse services.
 | `danielmoretz.com` | No |
 | `danielmrose.com` | Yes |
 | `danielnorton.com` | Yes |
+| `danielsantos.org` | No |
 | `danielsteinborn.com` | No |
 | `danielstucke.com` | No |
 | `danielwarshaw.com` | No |
@@ -10886,6 +10887,7 @@ Here's a list of public Fediverse services.
 | `faf.photos` | Yes |
 | `faf.social` | Yes |
 | `faf.watch` | Yes |
+| `faf.wtf` | Yes |
 | `fag.lol` | Yes |
 | `fahrenheit.net.pl` | No |
 | `fahrin.me` | No |
@@ -10975,6 +10977,7 @@ Here's a list of public Fediverse services.
 | `family-m.art` | No |
 | `familyds.org` | No |
 | `familyhistory.page` | No |
+| `familyoasis.eu` | No |
 | `familyofme.com` | No |
 | `familysolidarity.org` | No |
 | `famjam.social` | Yes |
@@ -32715,6 +32718,7 @@ Here's a list of public Fediverse services.
 | `sink.love` | Yes |
 | `sinkie.online` | No |
 | `sinkuu.xyz` | No |
+| `sinnesro.se` | No |
 | `sinofool.net` | Yes |
 | `sinon.gg` | Yes |
 | `sinon.rocks` | No |
@@ -34164,6 +34168,7 @@ Here's a list of public Fediverse services.
 | `stiniog.social` | No |
 | `stinkt.online` | Yes |
 | `stinkytoot.social` | Yes |
+| `stix.top` | No |
 | `stkr.dev` | Yes |
 | `stkrdn.xyz` | No |
 | `stl.fyi` | No |
@@ -38484,7 +38489,7 @@ Here's a list of public Fediverse services.
 | `videotoblin.me` | No |
 | `videotry.de` | Yes |
 | `vidicon.org` | Yes |
-| `viditube.site` | No |
+| `viditube.site` | Yes |
 | `vidja.social` | No |
 | `vidm.co` | No |
 | `vidro.club` | No |
@@ -41231,8 +41236,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,383 |
-| Normal | 30,805 |
+| Cloudflare | 10,385 |
+| Normal | 30,808 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
