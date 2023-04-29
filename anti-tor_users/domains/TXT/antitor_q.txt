@@ -332,6 +332,7 @@ api.quicksign.fr
 api.quinteft.com
 api.qujam.com
 api.quotiapp.com
+autodiscover.qualitydieselandauto.com
 bank-online.qyako.online
 bankonline.qyako.online
 betas.quantalucia.com
@@ -420,6 +421,7 @@ quality-containers.com
 qualityelectricallines.net
 qualityproductsforyou.online
 qualitysafety.org
+qualuesdisasion.com
 quangtanhoa.com
 quantforcecapital.com
 quantraai.com
@@ -467,6 +469,7 @@ shopkonzept.quikfox-lab.com
 sl2-api-staging.qrioinc.com
 soytest.quarissoluciones.com
 sso.quarks.pro
+ssogateway-stg.qbena.com
 starsona-dev.qburst.build
 test.qaftk.kr
 user.qs-rhenus-digital.de
@@ -511,6 +514,7 @@ www.quary.ro
 www.quataalimentos.com.br
 www.quatuor-transactions.com
 www.queendrie.com
+www.quercy-primeurs.fr
 www.questionwell.org
 www.quick-data-recovery.com
 www.quicktechnics.com
@@ -630,7 +634,6 @@ webmail.q8nitro.com
 ws.qcertifica.com.br
 www.auth.qualitymentoring.ca
 www.billlreadvisitorg.com.quizgota.com
-www.enxuguei.com.br.queroumnamorado.com
 www.hubvantage.qontrack.in
 www.qabnpparibasfortis.com
 www.qlife.jp
