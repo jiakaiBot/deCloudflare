@@ -5847,6 +5847,7 @@ Here's a list of public Fediverse services.
 | `chemoner.tokyo` | No |
 | `chemtrail.airforce` | No |
 | `cheney.net` | No |
+| `cheonson.top` | Yes |
 | `cherain.be` | No |
 | `cheri.pink` | No |
 | `cheribaker.com` | Yes |
@@ -17417,6 +17418,7 @@ Here's a list of public Fediverse services.
 | `jorts.horse` | No |
 | `jorts.life` | Yes |
 | `jorts.online` | Yes |
+| `jorun.dev` | Yes |
 | `josa.social` | Yes |
 | `joschu.ch` | No |
 | `joscomputing.space` | No |
@@ -19461,6 +19463,7 @@ Here's a list of public Fediverse services.
 | `lea.pet` | Yes |
 | `leadrdrk.eu.org` | No |
 | `leadslinger.org` | No |
+| `leaf.dance` | Yes |
 | `leaf.style` | No |
 | `leafeon.online` | No |
 | `leafposter.club` | No |
@@ -22760,6 +22763,7 @@ Here's a list of public Fediverse services.
 | `microswit.ch` | Yes |
 | `midchilda.com` | No |
 | `middangeard.ch` | No |
+| `midday.top` | Yes |
 | `middleearth.fr` | No |
 | `middleearth.social` | No |
 | `midline.pl` | No |
@@ -23164,6 +23168,7 @@ Here's a list of public Fediverse services.
 | `mixin.love` | No |
 | `mixremix.cc` | No |
 | `mixtape.house` | No |
+| `miyaco.moe` | Yes |
 | `miyacorata.net` | Yes |
 | `miyon.org` | Yes |
 | `miyon.pw` | No |
@@ -25615,6 +25620,7 @@ Here's a list of public Fediverse services.
 | `nolifecomique.co.uk` | No |
 | `nolim1t.co` | No |
 | `nolineage.com` | No |
+| `nolog.media` | No |
 | `nologo.social` | No |
 | `nologs.me` | No |
 | `nomadic.homes` | No |
@@ -41225,8 +41231,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,378 |
-| Normal | 30,804 |
+| Cloudflare | 10,383 |
+| Normal | 30,805 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
