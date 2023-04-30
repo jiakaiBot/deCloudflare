@@ -26,6 +26,7 @@ Here's a list of public Matrix services.
 | riot.allmende.io | No |
 | alternanet.fr | No |
 | matrix.archaeo.social | No |
+| matrix.arcticfoxes.net | Yes |
 | aria.im | No |
 | asra.gr | No |
 | matrix.bachgau.social | No |
@@ -58,8 +59,8 @@ Here's a list of public Matrix services.
 | matrix.flieger.chat | No |
 | matrix.frei.chat | No |
 | matrix.freiburg.social | No |
-| freitrix.de | No |
 | matrix.fsfe.org | No |
+| matrix.fulda.social | No |
 | g24.at | No |
 | matrix.gemeinsam.jetzt | No |
 | ggc-project.de | Yes |
@@ -85,7 +86,6 @@ Here's a list of public Matrix services.
 | matrix.monero.social | No |
 | mtrx.nz | No |
 | nitro.chat | No |
-| matrix.noevil.pl | No |
 | nopasaran.red | No |
 | nope.chat | No |
 | matrix.norge.chat | Yes |
@@ -126,8 +126,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 20 |
-| Normal | 79 |
+| Cloudflare | 21 |
+| Normal | 78 |
 
 
-### 20.2% of public Matrix services are using Cloudflare.
+### 21.2% of public Matrix services are using Cloudflare.
