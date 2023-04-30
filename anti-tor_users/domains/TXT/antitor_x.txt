@@ -361,6 +361,7 @@ git.gitlab.gitlab.gitlab.accounts.xn--90agd6c8b.xn--p1ai
 github.xiaobeing.cn
 gitlab.gitlab.git.dev.xn----7sbahcs2ad7afbd1ao7i.xn--p1ai
 gitlab.gitlab.git.gitlab.amazon.xn----7sbaaqljcz0b6au4k.xn--p1ai
+hammer.x0.to
 hk.xanforce.xyz
 hotline.xfab.com
 inquirynotification.x24hr.com
@@ -482,6 +483,7 @@ xlconsultinggroup.com
 xmesesport.org
 xmlabs.net
 xmzjxx.com
+xn--12ca3dpcaaj2djgg2ax7ga4btz0df8urbxd0l.com
 xn--80aaaecllvchibc9bf4cqk.xn--p1ai
 xn--80aagsn1an.xn--p1ai
 xn--airbnbvrter-g9a.dk
@@ -523,6 +525,7 @@ xspaceradio.com
 xsts.auth.xboxlive.com
 xtn-soundworks.art
 xtradelivery.asia
+xtrader.eu.org
 xtrasupport.au
 xtreak.club
 xtrfr.com
