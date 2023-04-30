@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,235 |
-| social | 3,982 |
+| com | 6,236 |
+| social | 3,983 |
 | net | 3,167 |
 | org | 2,191 |
 | de | 2,072 |
@@ -1512,6 +1512,7 @@ Here's a list of public Fediverse services.
 | `allrite.at` | No |
 | `allrite.au` | No |
 | `allrite.social` | No |
+| `allround.digital` | No |
 | `allships.run` | Yes |
 | `alltatalla.se` | Yes |
 | `allthe.buzz` | Yes |
@@ -6207,6 +6208,7 @@ Here's a list of public Fediverse services.
 | `cktec.net` | No |
 | `ckyln.com` | No |
 | `clac.link` | No |
+| `clacks.eu` | No |
 | `clacks.link` | No |
 | `clacks.social` | Yes |
 | `claes.se` | Yes |
@@ -13685,6 +13687,7 @@ Here's a list of public Fediverse services.
 | `goggles.social` | No |
 | `gogn.in` | Yes |
 | `gogobonobo.net` | No |
+| `gogolscircus.com` | No |
 | `gogu.ma` | Yes |
 | `gohan-oisii.net` | No |
 | `goip.de` | No |
@@ -15555,6 +15558,7 @@ Here's a list of public Fediverse services.
 | `humanack.com` | No |
 | `humancaption.social` | No |
 | `humangenetics.social` | No |
+| `humanist.social` | Yes |
 | `humanistische-union.de` | No |
 | `humanists.uk` | No |
 | `humanities.one` | No |
@@ -24034,6 +24038,7 @@ Here's a list of public Fediverse services.
 | `mtdn.jp` | No |
 | `mtf.party` | Yes |
 | `mtg-france.org` | No |
+| `mtg.garden` | No |
 | `mtgdon.jp` | No |
 | `mtgjudge.social` | No |
 | `mtgtalk.online` | No |
@@ -38556,6 +38561,7 @@ Here's a list of public Fediverse services.
 | `vil.lv` | No |
 | `vila.cloud` | No |
 | `vilarejo.pro.br` | No |
+| `vilette.gay` | Yes |
 | `villacraft.fr` | Yes |
 | `village.icu` | No |
 | `village.one` | Yes |
@@ -39380,6 +39386,7 @@ Here's a list of public Fediverse services.
 | `whalen.org` | No |
 | `whalesandgames.com` | Yes |
 | `whanau.org` | No |
+| `what.if.ua` | No |
 | `what.re` | No |
 | `what.tf` | No |
 | `whatever.cat` | No |
@@ -41274,8 +41281,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,406 |
-| Normal | 30,825 |
+| Cloudflare | 10,408 |
+| Normal | 30,830 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
