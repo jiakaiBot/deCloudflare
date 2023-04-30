@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,235 |
 | social | 3,982 |
-| net | 3,166 |
+| net | 3,167 |
 | org | 2,191 |
 | de | 2,072 |
 
@@ -12930,6 +12930,7 @@ Here's a list of public Fediverse services.
 | `gao4.top` | No |
 | `gaojfblog.com` | No |
 | `gaooo.net` | No |
+| `gaooo.world` | Yes |
 | `gaos.org` | No |
 | `gapi.me` | Yes |
 | `gapp-hsg.eu` | No |
@@ -40728,6 +40729,7 @@ Here's a list of public Fediverse services.
 | `yuangezhizao.cn` | Yes |
 | `yuanzu.ml` | No |
 | `yubal.blog` | No |
+| `yubarira.net` | Yes |
 | `yude.jp` | Yes |
 | `yude.moe` | Yes |
 | `yudetarou.club` | No |
@@ -41272,7 +41274,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,404 |
+| Cloudflare | 10,406 |
 | Normal | 30,825 |
 
 
