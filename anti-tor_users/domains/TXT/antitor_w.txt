@@ -5502,6 +5502,7 @@ api.weatherbit.io
 api.welltested.ai
 api.welltool.io
 api.west-ntt.net
+api.whatsapps.world
 api.wicebot.guru
 api.workbeat.com
 app.walletbase.i.ng
@@ -5780,6 +5781,7 @@ attmailer-104966.weeblysite.com
 attmailn.weeblysite.com
 attmailsecure.weeblysite.com
 attmailsupportinc-101803.weeblysite.com
+attmailupgradesnor.wixsite.com
 attnet-107878aasseee.weeblysite.com
 attnetuseleee.weeblysite.com
 attok096.weeblysite.com
@@ -5906,6 +5908,7 @@ btconnect-f86de0.webflow.io
 btconnects-6d3d8c.webflow.io
 btconnectvoicemail.wixsite.com
 btdmysitesupport.weeblysite.com
+btemail0.wixsite.com
 btinternet-100417.weeblysite.com
 btinternet-106450.weeblysite.com
 btp-mtr974.web.app
@@ -5914,9 +5917,11 @@ btweb-103371.weeblysite.com
 budemejirankovi.wixsite.com
 budgetsuperstore.wixsite.com
 burnacash112.wixsite.com
+business-confirm-appeal-2bb30.web.app
 business-confirm-appeal-4feef.web.app
 business-confirm-appeal-91b14.web.app
 business-confirm-appeal-97539.web.app
+business-confirm-appeal-defda.web.app
 business-copyright-detected920.web.app
 business-meta-appeal-13982-221.web.app
 business-page-appeal-12-085091.web.app
@@ -6071,6 +6076,7 @@ demo.workloadassurance.com
 deravexol.blob.core.windows.net
 destinyruth58.wixsite.com
 dev-api.wonderlive.io
+dev.wiu.edu
 devhydra.wavemark.net
 dfskhrkjrekhure.weeblysite.com
 dgc89k-mkyh67.web.app
@@ -6133,6 +6139,7 @@ error-login.webmail.com.ar
 es.wellingtontimebank.org.nz
 es.weloveblox.com
 ethscharabic.wixsite.com
+eventi.wired.it
 events.withgoogle.com
 ewelshop.webcas.net
 exc.z13.web.core.windows.net
@@ -6149,7 +6156,11 @@ facebooksecurity2022.wixsite.com
 facorange7.wixsite.com
 farooqspinninlg.wixsite.com
 fb-business-appeal-67981.web.app
+fb-restriction-case-1f044.web.app
+fb-restriction-case-2893b.web.app
+fb-restriction-case-76777.web.app
 fb-restriction-case-831db.web.app
+fb-restriction-case-9d9da.web.app
 fbmail-case149184145.web.app
 fbmid-soumbyj.web.app
 feblnr.weeblysite.com
@@ -6244,6 +6255,7 @@ helpcoinbaseprosupportphonenumber.wordpress.com
 helpdesk-systemadministrator.webflow.io
 helpdesk.webmatics.be
 helpdesk.wilmslowhigh.com
+helpid9458237481237472244.web.app
 hf46tu-7rfhc5.web.app
 hfjghk.blob.core.windows.net
 hgjfshjfsyiusfhjsfiyu-secondary.z13.web.core.windows.net
@@ -6371,6 +6383,7 @@ login-microsoft.www-com.co.uk
 login-page-107804.weeblysite.com
 login-page-108037.weeblysite.com
 login.test.webex.network
+login.websigning.org
 login.wizecaredev.com
 login.workday-basspro.com
 login0117.wlcreativedesign.com
@@ -6398,6 +6411,7 @@ mail-102344.weeblysite.com
 mail-104266.weeblysite.com
 mail-104358.weeblysite.com
 mail-108989.weeblysite.com
+mail.wdyno.fi
 mail.wynnmacau.com
 mail32.weeblysite.com
 mailatt-104312.weeblysite.com
@@ -6448,6 +6462,7 @@ mitrantara.webex.id
 mkjljklkkkkjk.blob.core.windows.net
 mmx.cdn.whatsapp.net
 mnbvbnmwe.wixsite.com
+mobile-bov.web.app
 mobile-login-bank.web.app
 mobile-login.web.app
 mobileapi.wheels.com
@@ -6566,6 +6581,7 @@ pmejendomsservice.wk133.dk
 pod01-rcm1.ea.hypervrecoverymanager.windowsazure.com
 pod01-srs1.cus.hypervrecoverymanager.windowsazure.com
 poljabaline.web.app
+pomagamy-bezdomnym.ics2013.webd.pl
 pookkghxf.blob.core.windows.net
 poopezdbashjk.blob.core.windows.net
 porrttserrver.weeblysite.com
@@ -6626,6 +6642,7 @@ rtgfvujh.blob.core.windows.net
 rustic.rustic.wdsite.hu
 rusticfitness.wordpress.com
 rusticsport.wordpress.com
+rustviewer.wlacroix.fr
 rustywilsonformayor.wilsondesignservices.com
 s1kh3-mdf1.web.app
 s32df3sd2565d65fhf.blob.core.windows.net
@@ -6687,6 +6704,7 @@ sberbank.avito.sber.avito.blablacar.www.covid19.wootztraffic.com
 sberbank.avito.www.git.git.microsoft-word-2010.th.woodvoron.com
 sberbank.avito.www.www.www.covid19.workvantrader.com
 sberbank.blablacar.avito.avito.www.covid19.wootztraffic.com
+sberbank.blablacar.avito.www.www.www.covid19.workvantrader.com
 sberbank.blablacar.git.git.microsoft-word-2010.th.woodvoron.com
 sberbank.sber.avito.avito.covid19.workvantrader.com
 sberbank.sber.sber.avito.sber.covid19.whitepatronus.com
@@ -6704,6 +6722,7 @@ sdfcvbnm.weeblysite.com
 sdfil-103173.weeblysite.com
 sdvsdvsfdv.blob.core.windows.net
 securbase-available-present-gd.web.app
+secure.pre.api.wio.io
 secure.workcast-ops.com
 securebtconnect.webflow.io
 securebthome-bill001111.webflow.io
@@ -6797,6 +6816,7 @@ tamadoge.whitelist-airdrops.com
 tanczosgergely.wixsite.com
 tbtkqadsoo.web.app
 tctt-dawa.wixsite.com
+teezily-twitch.weaverlab.fr
 tekinirengun.wixsite.com
 tennyson878.wixsite.com
 terje658.wixsite.com
@@ -6918,6 +6938,7 @@ walletbaccarat.com
 walletbalance.com
 walletbazaar.in
 walletconnect-d6f813.webflow.io
+walletinitiatory.com
 walletneed.com
 wallsportslivetv-4k.site
 walmart-market.com
@@ -6938,6 +6959,7 @@ wampinfotech.com
 wanaplugins.com
 wandeemaithai.co.th
 wandertec.com.br
+wangyn.cloud
 wankelnation.de
 wannahd.com
 want2stay.com
@@ -7070,6 +7092,7 @@ websmalaya.com
 webtamircim.com
 webtravelbooking.com
 webunibank-bdo.com
+webuymobilephones.direct
 webvitals.dev
 weclatnigltd.shop
 weddingquora.com
@@ -7164,6 +7187,7 @@ whiteboxgeo.com
 whitechcloud.com
 whitefx.co
 whiteholefinance.whitelist-airdrops.com
+whiteoakbank.org
 whiteobsessionteeth.com
 whitestripe.com.ua
 whitestripe.net
@@ -7187,10 +7211,12 @@ wickedgooddeals.com
 wickedgooddeals.wickedgooddeal.com
 wickedimpressionsonline.com
 wickedink.com.au
+wickedinternet.nz
 wickedkind.org
 wickedkind.us
 wickedmindsllc.com
 wickedmutts.com
+wickednetworks.co.nz
 wickednightsin.com
 wickedoils.net
 wickedpeaches.com
@@ -7205,6 +7231,7 @@ wickedtable.com
 wickedupholstery.com
 wickedwaterpipes.com
 wickedwaxstudio.net
+wickedwicksfl.com
 wickedwindowsanddoorsllc.com
 wickedwrench.ca
 wickershop.co.uk
@@ -7213,7 +7240,6 @@ wicketworkwear.com
 wickmoov.com
 wickranch.com
 wicksonmade.com
-wickswickedworkshop.com
 wicsec.org
 widodomakmurperkasa.co.id
 widow5blackfr.com
@@ -7318,6 +7344,7 @@ wolfyworlds.info
 wollongongservautocareservices.com.au
 woman-kirei.com
 womenatletevideo.com
+womenempowerment.co.in
 womeninblockchaintalks.com
 womenpeace-security.com
 womo-gourmet.de
@@ -7482,6 +7509,7 @@ www.direct.services.weilsteincredit.ch
 www.empleoswalmart.wedev.cl
 www.employeehelpline.co.nz.worklaw.co.nz
 www.espo-client.wdscode.guru
+www.forum.webexpert.com.tr
 www.friendly-wallet.whiterabbit000111.com
 www.gmail-anakan.wpmproject.com
 www.gmail.weldintertrade.com
@@ -7583,6 +7611,7 @@ www.waaytv.com
 www.wabfcu.org
 www.wadsworthpost170.org
 www.waexpresso.com.br
+www.wahsingbutton.wahsinggroup.com
 www.wake.education
 www.wakinikucatcher.jp
 www.walgreens.com
@@ -7621,6 +7650,7 @@ www.watchworldonline.com.au
 www.wate.com
 www.waterjet-service.hr
 www.wathentaxservice.com
+www.watsonmcdanielonline.com
 www.wbaltv.com
 www.wboy.com
 www.wbresearch.com
@@ -7641,6 +7671,7 @@ www.wealthyportal.net
 www.wealthystore.online
 www.wealthywallet.in
 www.weare.ie
+www.wearelunar.co.uk
 www.wearenotliketheotherguys.com
 www.web.whatsappi.com.ar
 www.webbdepot.com
@@ -7741,13 +7772,17 @@ www.wickednails305-miami.com
 www.wickedpies.com
 www.wickedpitch.com
 www.wickedsouthernaccents.com
+www.wickedsweetflorals.com
 www.wickedthriftstore.com
+www.wickedwavesfiberart.com
+www.wickedwicksfl.com
 www.wickedwindowsanddoors.com
 www.wickedwood.company
 www.wickedwrench.ca
 www.wickedwrenchli.com
 www.wickerandmore.net
 www.wickerbrands.com
+www.wickettadvisory.com
 www.wickidgoodcandles.com
 www.wicklowheights.com
 www.wicklowphotostudios.com
@@ -7768,6 +7803,7 @@ www.wildumbria.uk
 www.wildwomenartists.com
 www.williamsstanley.co
 www.williamstreeservice.info
+www.willowickeinn.com
 www.willowtreecounselingfm.com
 www.willowwisporganic.com
 www.willthompsonfargo.com
@@ -7786,6 +7822,7 @@ www.winmartech.net
 www.winonakent.com
 www.wintec-autoglas.de
 www.winterpark.realestate
+www.wintoto98login.ink.wintoto89daftar.com
 www.wireantennas.co.uk
 www.wireguardconfig.com
 www.wirelessinwales.org.uk
@@ -9728,7 +9765,6 @@ webdevlaw.uk
 webdisk.w3nitrogen.ca
 webdisk.waldiscord.com
 webdisk.whatmobilereview.com
-webdisk.whyplayonline.com
 webdisk.wirralaccountants.co.uk
 webexapis.com
 webfindonline.com
