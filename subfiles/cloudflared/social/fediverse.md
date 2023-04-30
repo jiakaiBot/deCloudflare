@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,235 |
 | social | 3,979 |
-| net | 3,164 |
+| net | 3,166 |
 | org | 2,191 |
 | de | 2,071 |
 
@@ -8631,6 +8631,7 @@ Here's a list of public Fediverse services.
 | `dhunplugged.com` | No |
 | `dhusch.de` | No |
 | `dhuyvetter.eu` | No |
+| `di-do.net` | No |
 | `di.dev` | No |
 | `di2.io` | Yes |
 | `di20.de` | No |
@@ -17841,6 +17842,7 @@ Here's a list of public Fediverse services.
 | `kamel.social` | No |
 | `kamens.us` | Yes |
 | `kamikaze.moe` | No |
+| `kamima.online` | No |
 | `kamima.site` | No |
 | `kamisato.xyz` | Yes |
 | `kamiyacho.net` | No |
@@ -25468,6 +25470,7 @@ Here's a list of public Fediverse services.
 | `nkwebservices.de` | No |
 | `nlhiphop.nl` | No |
 | `nlogic.systems` | No |
+| `nlpagan.net` | No |
 | `nlpaige.me` | No |
 | `nlr.app` | Yes |
 | `nluug.social` | No |
@@ -41264,7 +41267,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,402 |
-| Normal | 30,818 |
+| Normal | 30,821 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
