@@ -4,7 +4,6 @@ api.node1.qnix.pl
 api.os.qiku.com
 api.qlcb.vn
 api.qv-veeva.com
-blog.quest.com
 cdn.quarry.com
 cdn03.qrcodechimp.com
 dav.hugo.qplex.de
@@ -532,7 +531,6 @@ yktcheckticket.qhdjlx.cn
 admin.qualup.app
 alianzas.qapaq.pe
 api-validation.qv-dev-veeva.com
-api.ondemand.quest.com
 api.qlinkportal.com
 auth.feature-1.review.qpard.dev
 autodiscover.olga.q-alia.com
