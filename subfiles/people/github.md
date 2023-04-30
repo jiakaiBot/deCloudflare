@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- ["mf:err GET /: InvalidCharacterError: Invalid character" - npx superflare@latest new](https://github.com/jplhomer/superflare/issues/47)
 - [Error on the gui while trying to get a response](https://github.com/xtekky/gpt4free/issues/277)
 - [An error occurred: 'dict' object has no attribute 'text'.](https://github.com/xtekky/gpt4free/issues/271)
 - [How does Chicago95 change the Firefox theme?](https://github.com/grassmunk/Chicago95/issues/287)
