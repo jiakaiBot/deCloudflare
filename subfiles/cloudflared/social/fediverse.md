@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,235 |
-| social | 3,979 |
+| social | 3,982 |
 | net | 3,166 |
 | org | 2,191 |
-| de | 2,071 |
+| de | 2,072 |
 
 
 - Mastodon, Pleroma, etc
@@ -3872,6 +3872,7 @@ Here's a list of public Fediverse services.
 | `binarycat.org` | No |
 | `binarydad.com` | No |
 | `binarydigit.cafe` | No |
+| `binarydigit.social` | No |
 | `binaryfeline.com` | Yes |
 | `binaryfour.de` | No |
 | `binarylife.ru` | Yes |
@@ -4337,6 +4338,7 @@ Here's a list of public Fediverse services.
 | `boanus.net` | No |
 | `boardgames.social` | Yes |
 | `boardmad.com` | No |
+| `boating.social` | Yes |
 | `bob.wtf` | No |
 | `boba.best` | Yes |
 | `boba.fun` | No |
@@ -9461,6 +9463,7 @@ Here's a list of public Fediverse services.
 | `dtwylr.net` | No |
 | `dtzbts.xyz` | No |
 | `du-de-au-clavier.net` | No |
+| `dualpower.supply` | No |
 | `duan.ca` | Yes |
 | `duanrra.cf` | No |
 | `duanshu.xyz` | Yes |
@@ -13906,6 +13909,7 @@ Here's a list of public Fediverse services.
 | `greatjustice.net` | No |
 | `greatlakes.club` | No |
 | `greatlakes.community` | No |
+| `greatloop.social` | Yes |
 | `greatview.video` | No |
 | `gred.al` | Yes |
 | `greed.monster` | No |
@@ -35991,6 +35995,7 @@ Here's a list of public Fediverse services.
 | `thequantumblockchainproject.com` | No |
 | `thequietplace.social` | No |
 | `theradio.au` | Yes |
+| `theradio.cc` | No |
 | `theragnarbay.org` | No |
 | `therealadam.com` | No |
 | `therealblue.de` | No |
@@ -39866,6 +39871,7 @@ Here's a list of public Fediverse services.
 | `wpwatercooler.com` | Yes |
 | `wq64.net` | No |
 | `wr.ci` | Yes |
+| `wrannek.de` | No |
 | `wrannek.me` | No |
 | `wrasstodon.pro` | No |
 | `wreck.rocks` | No |
@@ -41266,8 +41272,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,402 |
-| Normal | 30,821 |
+| Cloudflare | 10,404 |
+| Normal | 30,825 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
