@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [API returning 524 on some inscriptions](https://github.com/OrdinalNews/client/issues/30)
+- [createSessionCookie failing on importPKCS8 on Cloudflare Pages](https://github.com/Marplex/flarebase-auth/issues/2)
 - [How to know it's running on Fastly or not](https://github.com/fastly/js-compute-runtime/issues/517)
 - ["mf:err GET /: InvalidCharacterError: Invalid character" - npx superflare@latest new](https://github.com/jplhomer/superflare/issues/47)
 - [Error on the gui while trying to get a response](https://github.com/xtekky/gpt4free/issues/277)
