@@ -38,8 +38,6 @@ arorbs2.ncsbn.org
 auth-uksouth3.crt.nuance.co.uk
 auth.niigata-kouseiren.net
 auth.nxi.no
-authgdpr.auth.dev.nyt.net
-authgdpr.auth.prd.nyt.net
 autodiscover.applewordpress.netsons.org
 autodiscover.napavalleyveteransfoundation.com
 autodiscover.nasa.am
@@ -119,7 +117,6 @@ crm.nas-accounting.com
 crm1.neighborsplus.co
 csinfo.ngabakerascstmrservice.com
 cssdev.npower.com
-dataalert-gae-default.nyt.net
 dedietrich.newpost.co.il
 delivery.nordesti.pt
 demo-nms-in-f5xc.nginx-ioclawop.dev.nginxlab.net
@@ -1005,7 +1002,6 @@ ad.new-programmatic.com
 adfs.newmarket.com
 adidas.nft-premints.xyz
 admin.nationalbankinsurance.com
-adtech-alerting-system-service.nyt.net
 agri-kajikawa.nsasp-akebia6.work
 airbus-learning.niit-learningservices.com
 alemdediscordia.naelesouza.com
@@ -2058,8 +2054,6 @@ stripe.navagis.com
 support.nextchapter-ecommerce.com
 support.no-code.au
 tcnanqtw2nrpgwc.blog.blog.api.amazon.com.nwr.com.na
-telegram.dev.nyt.net
-telegram.nyt.net
 templates.nicepageapp.com
 test-ticketing.nxlink.com
 testsub.nemsis-aws.org
@@ -2713,6 +2707,7 @@ aicc.nhsworkforce.org
 albury.nswminitrots.org.au
 alertmanager.stage-eu1.agones.le.nitrado.systems
 alphasharks.nft-premint.com
+andreluz.nitrogenium.pt
 android.clients.google.com.nwr.com.na
 anotherblock.nft-premint.com
 aphdyno.nazeron.com
@@ -2728,6 +2723,7 @@ api.nimbbl.tech
 api.nitrobeanusa.com
 api.nobleremc.com
 api.nwbeta.com.au
+api.wallet.nalik.by
 api.www.alt4-mtalk.google.com.nwr.com.na
 apibusinessloyalty.nationalsoft.com.mx
 apigw.dev.n8s.jp
@@ -2782,6 +2778,7 @@ avito.sberbank.covid19.newhouse-tomsk.ru
 avito.sberbank.sber.avito.avito.www.covid19.novotel-events.ru
 avito.sberbank.sberbank.sber.avito.www.covid19.novotel-events.ru
 avito.www.sberbank.sber.sber.sber.covid19.novotel-events.ru
+avito.www.sberbank.sberbank.sber.avito.covid19.novotel-events.ru
 avito.www.sberbank.sberbank.sber.sber.covid19.novotel-events.ru
 aws-eu-c-rdvz.g.nssvc.net
 aws-eu-c.g.nssvc.net
@@ -2828,6 +2825,8 @@ booking.nosignal.hu
 booking.nrgyogaandpilates.com.au
 bookings.noisilyfestival.com
 bots.163.discord-bot-api.quality.nodis.com.br
+bottron.nitro-cpanel.xyz
+bpm.nanshanlife.com.tw
 brain-xt-2e.neighblox.com
 broker.c.nssvc.net
 broker.wg.nexxt.cc
@@ -3025,6 +3024,7 @@ helpdesk.neutradc.id
 helpdesk.newmilfordps.org
 helpdesk.nitrosolutions.co.uk
 holoooxbuyx.nitro-cpanel.xyz
+hosting123424.a2fca.netcup.net
 hosting182152.ae8b8.netcup.net
 hs.nullcat.de
 humanityisland.nccu.edu.tw
@@ -3059,7 +3059,6 @@ kingsmiddelfart.nembooking.nu
 kita-ebers.nbhs.de
 kitaroworld.nft-premint.com
 kongu.nft-premint.com
-kraken-event-processor.auth.prd.nyt.net
 kwaj34m47xih5yq.test.outlook.nsmk.no
 landing.newyorkjets.com
 lareenesupplies.co.ke.nitrocityproperties.com
@@ -3083,6 +3082,7 @@ mahaputra.nazwagraha.com
 mahyarshaliyan.nitro-cpanel.xyz
 mail.nigeriaemblisbon.org
 mail.nitro.net.au
+mail.nitrorayane.ir
 mail.nniiem.ru
 mail.noesotrobloggay.com
 mail.noga-nitrogen.co.il
@@ -3108,6 +3108,7 @@ movex.nft-premint.com
 mrsservices.navaicloud.com
 mt.nboyemen.com
 my-edge.ngrok.io
+my-tscubic-accont.nellyandjames.com
 n-kishou.co.jp
 n-trend.com
 n1ventures.co
@@ -3209,6 +3210,7 @@ naturalremediesguide.online
 naturalresources.wales
 naturaviva.si
 naturenetsciencefellows.org
+naturfreunde-bad-emstal.de
 naturoblog.com
 nauciti.online
 nautilus-submarine.com
@@ -3237,6 +3239,7 @@ navitzenergy.co.zw
 navix.com.tr
 navix2.com
 nawaemoriental.com
+nayanepaldaily.com
 nayarasentrasarana.com
 nayarasintesa.com
 naytivpn.ru
@@ -3253,6 +3256,7 @@ ncrenegade.com
 ncs.com.pk
 nct-service.fi
 ncunlock.com
+nderfuloi.cyou
 near-life.tech
 neat.world
 nebosh.icu
@@ -3323,6 +3327,7 @@ neurosmart.org
 neuschwanstein-castle-tickets.com
 neutreservice.com
 nev1dparser.online
+nevisandeinja.ru.com
 nevonexpress.in
 new-account.gq
 new.nissankovacs.cl
@@ -3348,6 +3353,7 @@ newit.hu
 newjerseyempire.com
 newkind.kr
 newlifeindavie.com
+newportluxuryautos.com
 newpunepublicschool.com
 news-back.org
 news-cartrend.com
@@ -3445,6 +3451,7 @@ niegel.nl
 nieru.net
 niestatystyczny.pl
 nigelpoulton.com
+night-life-man.club
 niji.com.vn
 nijiclamp.com
 nikanespresso.com
@@ -3494,6 +3501,7 @@ nitrontechinfo.in.net
 nitrooil.com
 nitrophoenix.com
 nitropumps.co.za
+nitrorayane.ir
 nitroslegacy.com
 nitrosolutionsafrica.com
 nitrospeedshopresins.com
@@ -3524,6 +3532,7 @@ nmtwccu.org
 nmv.lv
 nmwebservice.dk
 nn-forum.net
+nnnova.com
 nnnsyr.info
 nnswiss.ch
 no1cricketid.com
@@ -3603,6 +3612,7 @@ noti.news
 noticiascuba.org
 noticiasinanestesia.com.ar
 noticiasinteligenciaartificial.com
+noticiaspb.com.br
 noticiaurgentebr.online
 notidia.co
 notifications.nitrotext.com
@@ -3764,6 +3774,7 @@ rev-bridge-feat-naf-542-login-p.app.dev.nativeflow.dev
 rev-bridge-fix-naf-481-identity.app.dev.nativeflow.dev
 roblox-birthday.novelpartyplanning.com
 rust-ui.ngc4594.eu
+rustnovia.noverateam.eu
 ry.nitroserver.link
 sa.nko-rr.ru
 sacramento.newsreview.com
@@ -3796,6 +3807,7 @@ sber.sberbank.sberbank.sber.sber.avito.covid19.novotel-events.ru
 sber.sberbank.sberbank.sber.sber.sber.covid19.novotel-events.ru
 sber.sberbank.www.gitlab.hylm0cftmwshid4.palm.newstula.ru
 sber.www.avito.sberbank.sber.avito.covid19.novotel-events.ru
+sber.www.sberbank.sberbank.sber.sber.covid19.novotel-events.ru
 sberbank.avito.avito.avito.sber.avito.covid19.newhouse-tomsk.ru
 sberbank.avito.avito.avito.sberbank.covid19.nijatmanafov.com
 sberbank.avito.avito.blablacar.avito.covid19.nijatmanafov.com
@@ -3822,6 +3834,7 @@ sberbank.sberbank.sberbank.sber.avito.covid19.novotel-events.ru
 sberbank.www.covid19.newhouse-tomsk.ru
 sberbank.www.sber.avito.sber.sber.covid19.novotel-events.ru
 sberbank.www.sber.sber.sber.sber.covid19.novotel-events.ru
+sberbank.www.sberbank.sber.sber.sber.covid19.novotel-events.ru
 sdataprod.ncaa.com
 secretgarden.newpost.co.il
 secure.nutraoptimized.com
@@ -4003,6 +4016,7 @@ www.clientes.ncardochk.cl
 www.clientes.net82.com.mx
 www.clientes.nixtagency.com
 www.clients.niranjanenterprises.com
+www.clients.nomade-mali.ml
 www.crcconsultingservice.com.northernvisionsmedia.com
 www.cstl.nist.gov
 www.dbsloans.com.navaicloud.com
@@ -4013,6 +4027,7 @@ www.dev.napishem.site
 www.dev.natesargent.com
 www.dinero.nicherotomatico.com
 www.diningsupport.ncat-ce.us
+www.dld.nihon-u.ac.jp
 www.doingbusinessinsingapore.nexiats.com.sg
 www.ebank.northerncitytrustbnk.online
 www.emagrecercomsucesso.nutrologiabh.com.br
@@ -4123,6 +4138,7 @@ www.natwest-investment.org
 www.nauciti.online
 www.nauticapopesso.it
 www.navegandolibres.org
+www.navi-8.com
 www.navi-concept.com
 www.navi-line.net
 www.navidghalambormd.com
@@ -4154,6 +4170,7 @@ www.nerd-o-mania.de
 www.nerorosso.se
 www.nesalk.lt
 www.nestdanismanlik.org
+www.neste.com
 www.net-a-porter.com
 www.net10.es
 www.netflix-delays.com
@@ -4243,6 +4260,7 @@ www.nikolaou.ca
 www.nikon-image.com
 www.niksamahes.de
 www.nilsmielke.me
+www.ninjamarketingman.com
 www.nintendo-europe-sales.com
 www.nishikobepcr.com
 www.nite-walker.com
@@ -4417,6 +4435,7 @@ www.testpayment.nakdesignkedai.com
 www.thompsonlocksandsecurity.com.northamptondigitalaerials.co.uk
 www.ticket.netaqsoft.net
 www.tickets.nomisfs.com
+www.track.networkandinternetmarketing.com
 www.travelbooking.naevaprofile.my.id
 www.update-gamedays.new-events720.com
 www.verify-trustwallet.noramelk.com
