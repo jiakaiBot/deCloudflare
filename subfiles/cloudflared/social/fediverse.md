@@ -17867,6 +17867,7 @@ Here's a list of public Fediverse services.
 | `kangoulya.org` | No |
 | `kani.social` | Yes |
 | `kanina.be` | No |
+| `kanna.fun` | Yes |
 | `kanni.de` | No |
 | `kannitverstan.eu` | No |
 | `kanoa.de` | No |
@@ -41262,7 +41263,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,401 |
+| Cloudflare | 10,402 |
 | Normal | 30,818 |
 
 
