@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Detection on ChatGPT](https://github.com/ultrafunkamsterdam/undetected-chromedriver/issues/1223)
 - [API returning 524 on some inscriptions](https://github.com/OrdinalNews/client/issues/30)
 - [createSessionCookie failing on importPKCS8 on Cloudflare Pages](https://github.com/Marplex/flarebase-auth/issues/2)
 - [How to know it's running on Fastly or not](https://github.com/fastly/js-compute-runtime/issues/517)
