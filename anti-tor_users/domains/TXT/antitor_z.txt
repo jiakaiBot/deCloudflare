@@ -616,6 +616,7 @@ api.zoolife.live
 api.zp8088.net
 api.zs-clinical-study-feasibility.dev.zsservices.com
 authorisation.core.stage.zoatech.net
+avito.avito.avito.avito.blablacar.git.covid19.zalive-akvilon.ru
 avito.avito.avito.avito.blablacar.sber.covid19.zapusk-million.ru
 avito.avito.avito.avito.sber.covid19.zalive-akvilon.ru
 avito.avito.avito.avito.sber.www.covid19.zapusk-million.ru
@@ -804,6 +805,7 @@ sberbank.sberbank.sber.blablacar.covid19.zepter-catalog.ru
 services.zubahost.com
 sign.zytrust.com
 smocca-staging.zigexn.vn
+smtp-auth.zaroni.biz
 sso.prd.zoominsoftware.app
 static.ctw.zusapi.com
 support.zyberwise.com
@@ -811,6 +813,7 @@ test-api.zmartagroup.se
 tipengine.zoho.com
 travelassist.zurich.ca
 tsafety2023.zapweb.co.il
+update49.zahnzusatzversicherung-experten.de
 valeofglamorgan.zipporah.co.uk
 vcbdfgfdg.zzux.com
 whm.zelateck.online
@@ -901,6 +904,8 @@ zagreb-apt.com
 zahrabeheshti.com
 zainmotors2008.com
 zaira.ro
+zalando.co.uk
+zalando.se
 zapach-papieru.pl
 zarfyapi.com
 zargarian.ca
@@ -934,6 +939,7 @@ zeronicotina.org
 zeroplayers.com
 zerovarizeszero.online
 zethes.shop
+zetsuabuabu.click
 zeydil.uz
 zeynartekstil.com.tr
 zfoentertainment.com
@@ -963,6 +969,7 @@ zipapi.us
 zipgenius.com
 zipgenius.it
 ziptechdirect.com
+ziraatb.com
 ziraatilaclama.com
 ziritugo.com
 zitesinc.com
@@ -1008,6 +1015,7 @@ zuuonline.com
 zvq6.net
 zwembadfoto.nl
 zwnoeqzsuz.com
+zypeliculashd.net
 zzfsex.lol
 zzotrack.com
 acceptatie-client.zorgplatform.online
