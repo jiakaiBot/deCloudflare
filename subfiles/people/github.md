@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [How to know it's running on Fastly or not](https://github.com/fastly/js-compute-runtime/issues/517)
 - ["mf:err GET /: InvalidCharacterError: Invalid character" - npx superflare@latest new](https://github.com/jplhomer/superflare/issues/47)
 - [Error on the gui while trying to get a response](https://github.com/xtekky/gpt4free/issues/277)
 - [An error occurred: 'dict' object has no attribute 'text'.](https://github.com/xtekky/gpt4free/issues/271)
