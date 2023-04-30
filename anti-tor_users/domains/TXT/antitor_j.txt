@@ -1151,6 +1151,7 @@ api.jevebara.com
 api.jiayouxueba.cn
 api.justice.nsw.gov.au
 app.joinchorus.com
+app.justcall.io
 as.admin.openvpn.scnr.jayblock.dev
 as.dev.openvpn.scnr.jayblock.dev
 as.openvpn.scnr.jayblock.dev
@@ -1202,6 +1203,7 @@ daservices.jetplan.com
 data.bookasecuremove.service.justice.gov.uk
 de.julogin.ch
 deco.journaldesfemmes.fr
+dev.jack1tracker.com
 dev.surgical.jnjvision.kr
 devmob.hcmp.jio.com
 discord.jarrad.gg
@@ -1335,6 +1337,7 @@ jazzafterhours.net
 jazzclubmuenchen.de
 jazzrecordcenter.com
 jbarlowfuneralservice.co.uk
+jbisci.com
 jbrdibins.com.np
 jbsupport.com.au
 jcdecopainting.net
@@ -1343,6 +1346,7 @@ jcleanwas.com
 jclux.biz
 jcm.org.uk
 jcmint.org
+jcn.edu.co
 jcpenneyey.com
 jcppennymastercard.com
 jcraveiro.com
@@ -1352,12 +1356,14 @@ jcweddinggroup.com
 jd.cm
 jdanielauthor.com
 jdenresidences-capitaland.com
+jdongktx.com
 jdtechspace.com
 jdyjis.ga
 jean-gaborit.com
 jeanetteshealthyliving.com
 jeanne-dark.net
 jeannesutton.realtor
+jedlimousine.com
 jedsetter.com
 jedynowicz.pl
 jeevandharabloodbank.in
@@ -1506,6 +1512,7 @@ joulukuusipalvelu.com
 joulukuusipalvelu.fi
 journal-bpa.org
 journeyofhopecounselingfargo.com
+jouwmasseur.nl
 jovonteharris.store
 joycasino42.com
 joycemassagemh.online
@@ -1616,6 +1623,7 @@ mail1.jvgas.com
 mailtrack.judgeme.email
 matasehat.jompurchase.com
 matomo.job-shop.com
+mc.minecraft.jontg.eu
 media.jitblox.com
 meditation.jdinfotech.net
 member.stg-dev-aws.jahis.jp
@@ -1669,6 +1677,7 @@ support.jenniecardenas.com
 survis.jmees-inc.com
 svn.jeeves.se
 swaasstage.jnsbl.com
+swara.jocatagrid.in
 swjttodfapi000.jaltest.com
 symitarprosvcs.jhahosted.com
 synaptic-snippet.cloudrun.jeremychase.io
@@ -1682,6 +1691,7 @@ tmsprod1.pos.jio.com
 treisdg.jungleheart.com
 uat.janadigi.com
 unlock-music.jerry.ink
+users.justeprix.com
 vancitystudentguide.jovaniopiniano.com
 verified2x.jungleheart.com
 vpn.jwnutt.com
@@ -1737,6 +1747,7 @@ www.controleeapostilas.com.br.jornaisvirtuais.com.br
 www.coordination.jmdp.or.jp
 www.covpn.jojobet.info
 www.daes.juina.mt.gov.br
+www.dev.jack1tracker.com
 www.dr.jhunjhunuupdate.in
 www.dubbele-toog.jvinkonderhoud.nl
 www.dune.jaydenbecker.com
@@ -1874,6 +1885,7 @@ www.jornadasdeseguridad.com
 www.jornalwhatsapp.com
 www.josephconradsparrow-author.com
 www.joseramos.com
+www.joslin.org
 www.jostock-hermes.de
 www.joswiltrader.com
 www.joueclub.fr
