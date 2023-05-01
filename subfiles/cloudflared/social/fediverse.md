@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,237 |
+| com | 6,238 |
 | social | 3,983 |
 | net | 3,167 |
 | org | 2,191 |
@@ -16557,6 +16557,7 @@ Here's a list of public Fediverse services.
 | `isafurry.baby` | No |
 | `isagood.dog` | No |
 | `isalman.dev` | Yes |
+| `isarzwo.com` | No |
 | `ischool.social` | No |
 | `iscurrently.live` | Yes |
 | `iscute.moe` | No |
@@ -33734,6 +33735,7 @@ Here's a list of public Fediverse services.
 | `spideynn.net` | Yes |
 | `spiegelslust.xyz` | Yes |
 | `spiele.jp` | No |
+| `spielenswert.eu` | No |
 | `spielleiten.de` | No |
 | `spielschrank.com` | No |
 | `spiezmaestro.ch` | No |
@@ -41288,7 +41290,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,410 |
-| Normal | 30,834 |
+| Normal | 30,836 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
