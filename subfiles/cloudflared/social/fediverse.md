@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,240 |
+| com | 6,241 |
 | social | 3,984 |
 | net | 3,167 |
 | org | 2,191 |
@@ -2526,6 +2526,7 @@ Here's a list of public Fediverse services.
 | `ashwalker.net` | No |
 | `ashwin.run` | No |
 | `ashworth.io` | No |
+| `asiacompete-international.com` | No |
 | `asie.pl` | No |
 | `asimon.org` | No |
 | `asiriyuq.xyz` | No |
@@ -41298,7 +41299,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,412 |
-| Normal | 30,842 |
+| Normal | 30,843 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
