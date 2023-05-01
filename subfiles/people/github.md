@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [cloudflare is blocking some script](https://github.com/filebrowser/filebrowser/issues/2445)
 - [Decompression failed when trying to use a har that was generated using 'preserve cache'.](https://github.com/Kong/mockbin/issues/128)
 - [Cloudflare Workers Compatibility](https://github.com/standard-crypto/farcaster-js/issues/592)
 - [Detection on ChatGPT](https://github.com/ultrafunkamsterdam/undetected-chromedriver/issues/1223)
