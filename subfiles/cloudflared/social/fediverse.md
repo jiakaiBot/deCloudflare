@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,236 |
+| com | 6,237 |
 | social | 3,983 |
 | net | 3,167 |
 | org | 2,191 |
-| de | 2,072 |
+| de | 2,073 |
 
 
 - Mastodon, Pleroma, etc
@@ -5196,6 +5196,7 @@ Here's a list of public Fediverse services.
 | `calckey.art` | No |
 | `calckey.cloud` | No |
 | `calckey.jp` | No |
+| `calckey.nz` | No |
 | `calckey.social` | No |
 | `calculate-linux.org` | No |
 | `calculate.social` | No |
@@ -8239,6 +8240,7 @@ Here's a list of public Fediverse services.
 | `deeperwisdom.org` | No |
 | `deepmindstate.net` | No |
 | `deepnexus.link` | No |
+| `deepplum.com` | No |
 | `deeproot.in` | No |
 | `deepskies.com` | No |
 | `deepspace.gay` | Yes |
@@ -12289,6 +12291,7 @@ Here's a list of public Fediverse services.
 | `frei.social` | No |
 | `freiburg.social` | No |
 | `freie-linke.de` | No |
+| `freie-re.de` | No |
 | `freie.app` | No |
 | `freiewaehler.social` | No |
 | `freifalt.org` | No |
@@ -26093,6 +26096,7 @@ Here's a list of public Fediverse services.
 | `nwf.earth` | No |
 | `nwl.ms` | No |
 | `nwo.nu` | No |
+| `nwsl.club` | No |
 | `nx-pod.de` | No |
 | `nx12.net` | No |
 | `nx15.me` | No |
@@ -29683,6 +29687,7 @@ Here's a list of public Fediverse services.
 | `radiotube.org` | No |
 | `radlc.com` | No |
 | `radnovich.com` | No |
+| `radon.rocks` | No |
 | `radon.social` | No |
 | `radres.xyz` | No |
 | `radsportsalat.de` | No |
@@ -41283,7 +41288,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,410 |
-| Normal | 30,829 |
+| Normal | 30,834 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
