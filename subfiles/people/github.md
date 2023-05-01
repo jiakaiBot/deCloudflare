@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cert manager does not support release v1.27.1 of Kubernetes](https://github.com/onedr0p/flux-cluster-template/issues/714)
 - [cloudflare is blocking some script](https://github.com/filebrowser/filebrowser/issues/2445)
 - [Decompression failed when trying to use a har that was generated using 'preserve cache'.](https://github.com/Kong/mockbin/issues/128)
 - [Cloudflare Workers Compatibility](https://github.com/standard-crypto/farcaster-js/issues/592)
