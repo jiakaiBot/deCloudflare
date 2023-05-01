@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,238 |
-| social | 3,983 |
+| com | 6,240 |
+| social | 3,984 |
 | net | 3,167 |
 | org | 2,191 |
 | de | 2,073 |
@@ -2496,6 +2496,7 @@ Here's a list of public Fediverse services.
 | `ascll.net` | No |
 | `ascraeus.org` | No |
 | `ascyltos.social` | No |
+| `asdf.cafe` | Yes |
 | `asdf.wf` | Yes |
 | `asdgsadga.social` | Yes |
 | `asdn.dev` | No |
@@ -6929,6 +6930,7 @@ Here's a list of public Fediverse services.
 | `cosmicnation.co` | No |
 | `cosmin.at` | No |
 | `cosmo.do` | No |
+| `cosmopoliteben.com` | No |
 | `cosmos.social` | Yes |
 | `cosmoschaos.net` | No |
 | `cosnomi.com` | Yes |
@@ -7380,6 +7382,7 @@ Here's a list of public Fediverse services.
 | `cunny.finance` | No |
 | `cunny.moe` | Yes |
 | `cuonda.social` | No |
+| `cupcakerob.nl` | No |
 | `cupka.name` | No |
 | `cupoftea.social` | Yes |
 | `curbal.social` | No |
@@ -9458,6 +9461,7 @@ Here's a list of public Fediverse services.
 | `dstet.me` | No |
 | `dsvt.site` | No |
 | `dt-info.com` | No |
+| `dt.gl` | No |
 | `dtalens.com` | No |
 | `dtluna.net` | No |
 | `dtp-mstdn.jp` | Yes |
@@ -27763,6 +27767,7 @@ Here's a list of public Fediverse services.
 | `peopleofcyber.com` | No |
 | `peoplesleaders.net` | No |
 | `peoplesrevolution.xyz` | No |
+| `peoplever.se` | No |
 | `pepecyb.hu` | No |
 | `pepega.club` | Yes |
 | `pepega.media` | No |
@@ -31481,6 +31486,7 @@ Here's a list of public Fediverse services.
 | `sanskritm.xyz` | Yes |
 | `sansschatten.com` | No |
 | `sanssouci.club` | No |
+| `santadog.social` | No |
 | `santic-zombie.ru` | No |
 | `santolin.eu` | No |
 | `santos.social` | Yes |
@@ -37561,6 +37567,7 @@ Here's a list of public Fediverse services.
 | `twoot.space` | No |
 | `twooter.me` | Yes |
 | `twooter.org` | No |
+| `tworooms.online` | No |
 | `twos.dev` | Yes |
 | `twoshortplanks.com` | No |
 | `twoslashes.com` | No |
@@ -38014,6 +38021,7 @@ Here's a list of public Fediverse services.
 | `unteraffen.de` | Yes |
 | `unterwaditzer.net` | Yes |
 | `until.cloud` | No |
+| `untildicedouspart.com` | Yes |
 | `untitld.space` | No |
 | `untitledcyberpunkproject.com` | No |
 | `untone.uk` | Yes |
@@ -41289,8 +41297,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,410 |
-| Normal | 30,836 |
+| Cloudflare | 10,412 |
+| Normal | 30,842 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
