@@ -13567,6 +13567,7 @@ Here's a list of public Fediverse services.
 | `glyphpress.com` | No |
 | `glyphy.com` | Yes |
 | `glz.ca` | Yes |
+| `gm-cloud.org.uk` | Yes |
 | `gm7.nl` | No |
 | `gm7.social` | No |
 | `gmai1.de` | No |
@@ -33943,7 +33944,7 @@ Here's a list of public Fediverse services.
 | `stackpointer.ws` | No |
 | `stacktrace.sh` | No |
 | `stackunderflow.com` | Yes |
-| `staddle.net` | No |
+| `staddle.net` | Yes |
 | `stade.social` | No |
 | `stadel.win` | No |
 | `stader.at` | No |
@@ -41281,8 +41282,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,408 |
-| Normal | 30,830 |
+| Cloudflare | 10,410 |
+| Normal | 30,829 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
