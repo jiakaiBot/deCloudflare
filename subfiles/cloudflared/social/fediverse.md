@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,241 |
-| social | 3,984 |
-| net | 3,167 |
-| org | 2,191 |
-| de | 2,073 |
+| com | 6,242 |
+| social | 3,986 |
+| net | 3,168 |
+| org | 2,192 |
+| de | 2,074 |
 
 
 - Mastodon, Pleroma, etc
@@ -12483,6 +12483,7 @@ Here's a list of public Fediverse services.
 | `fsam.one` | No |
 | `fsc.rocks` | No |
 | `fsch.dev` | Yes |
+| `fschaar.de` | No |
 | `fschl-co.de` | No |
 | `fsci.in` | No |
 | `fsci.org.in` | No |
@@ -12573,6 +12574,7 @@ Here's a list of public Fediverse services.
 | `fullyautomatedluxurygayspacecommunism.party` | No |
 | `fultz.xyz` | No |
 | `fumi2kick.com` | No |
+| `fumichan.love` | No |
 | `fumisskey.com` | No |
 | `fumufu.xyz` | Yes |
 | `fun7.de` | No |
@@ -14553,6 +14555,7 @@ Here's a list of public Fediverse services.
 | `haru2036.com` | No |
 | `haru3.me` | No |
 | `haruhi-mstdn.club` | No |
+| `haruho.net` | No |
 | `haruk.in` | Yes |
 | `harukakanata.net` | No |
 | `harumakizaemon.net` | No |
@@ -18564,6 +18567,7 @@ Here's a list of public Fediverse services.
 | `klosowicz.net` | No |
 | `kloud.social` | Yes |
 | `kloudboy.xyz` | No |
+| `klunscher.social` | No |
 | `klzb.top` | No |
 | `km-connect.org` | No |
 | `km6g.us` | No |
@@ -21196,6 +21200,7 @@ Here's a list of public Fediverse services.
 | `managingengineers.net` | Yes |
 | `manakeep.social` | No |
 | `manalejandro.com` | No |
+| `manasas.dev` | No |
 | `manateeth.club` | No |
 | `mancave.de` | No |
 | `mancavgeek.co.uk` | No |
@@ -24273,6 +24278,7 @@ Here's a list of public Fediverse services.
 | `my-freedom.space` | No |
 | `my-gnusocial.de` | No |
 | `my-mm.org` | Yes |
+| `my-sky.blue` | Yes |
 | `my-social.nl` | No |
 | `my-spaces.social` | No |
 | `my-status.tk` | No |
@@ -26832,6 +26838,7 @@ Here's a list of public Fediverse services.
 | `orbanos.org` | No |
 | `orbb.fr` | No |
 | `orbfellows.us` | No |
+| `orbific.com` | No |
 | `orbiscognito.com` | No |
 | `orbit.town` | No |
 | `orbital.cafe` | No |
@@ -29057,6 +29064,7 @@ Here's a list of public Fediverse services.
 | `prosou.nu` | No |
 | `prospeech.space` | No |
 | `prosports.space` | No |
+| `prostasia.org` | Yes |
 | `prostreamers.net` | No |
 | `prosumer.dev` | Yes |
 | `protagio.nl` | No |
@@ -31352,6 +31360,7 @@ Here's a list of public Fediverse services.
 | `sakuradon.jp` | No |
 | `sakuragawa.moe` | Yes |
 | `sakurajima.moe` | No |
+| `sakurajima.social` | No |
 | `sakurakazune.org` | No |
 | `sakurapuare.tech` | No |
 | `sakurauchi.moe` | No |
@@ -41298,8 +41307,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,412 |
-| Normal | 30,843 |
+| Cloudflare | 10,414 |
+| Normal | 30,850 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
