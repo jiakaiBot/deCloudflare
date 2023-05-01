@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,242 |
-| social | 3,986 |
+| social | 3,988 |
 | net | 3,168 |
 | org | 2,192 |
 | de | 2,074 |
@@ -5827,6 +5827,7 @@ Here's a list of public Fediverse services.
 | `chdorner.com` | Yes |
 | `che5hire.club` | No |
 | `cheatha.de` | No |
+| `chebucto.club` | No |
 | `checked.social` | No |
 | `checksum.fail` | Yes |
 | `cheddarcrackers.club` | No |
@@ -7044,6 +7045,7 @@ Here's a list of public Fediverse services.
 | `craftplacer.moe` | No |
 | `craftsman.dev` | No |
 | `craftweg.com` | Yes |
+| `crag.social` | Yes |
 | `craig0990.net` | No |
 | `craigearley.com` | No |
 | `craigmcclellan.com` | No |
@@ -29234,6 +29236,7 @@ Here's a list of public Fediverse services.
 | `puppo.space` | No |
 | `puppy.cafe` | No |
 | `puppy.place` | No |
+| `puppy.quest` | No |
 | `puppybear.social` | No |
 | `puppycalendar.eu` | No |
 | `puppyfire.social` | No |
@@ -31775,6 +31778,7 @@ Here's a list of public Fediverse services.
 | `schoolidol.club` | No |
 | `schoolidol.pro` | No |
 | `schoollibraries.net` | No |
+| `schoonens.nl` | No |
 | `schooner.social` | No |
 | `schorelweb.nl` | No |
 | `schosta.com` | No |
@@ -38026,6 +38030,7 @@ Here's a list of public Fediverse services.
 | `unsuido.net` | No |
 | `unsupervised.ca` | Yes |
 | `unsupervised.online` | No |
+| `unsupervised.social` | No |
 | `unsuspicious.website` | Yes |
 | `untan.xyz` | Yes |
 | `unteraffen.de` | Yes |
@@ -41307,8 +41312,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,414 |
-| Normal | 30,850 |
+| Cloudflare | 10,415 |
+| Normal | 30,854 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
