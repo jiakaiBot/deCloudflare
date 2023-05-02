@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-05-02: [Investigating Performance Issues in Seoul, Korea](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1xbmk58yxn1l)
 - 2023-04-28: [Cache Reserve may return stale data or incomplete responses](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1z125rykf9zd)
 - 2023-04-28: [Turnstile Challenge Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/sx3v81fjk3kz)
 - 2023-04-26: [Cloudflare Logpush Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/r237vk030djx)
