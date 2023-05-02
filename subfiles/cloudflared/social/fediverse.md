@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,988 |
 | net | 3,168 |
 | org | 2,192 |
-| de | 2,074 |
+| de | 2,075 |
 
 
 - Mastodon, Pleroma, etc
@@ -3199,6 +3199,7 @@ Here's a list of public Fediverse services.
 | `baltic.social` | No |
 | `baltowashsports.social` | No |
 | `baluna.org` | No |
+| `balyuzi.uk` | No |
 | `bam.io` | Yes |
 | `bam.yt` | Yes |
 | `bamader.co.in` | Yes |
@@ -18440,7 +18441,7 @@ Here's a list of public Fediverse services.
 | `kirinolen.fr` | No |
 | `kirinsan.org` | Yes |
 | `kirishima.cloud` | No |
-| `kirishima.xyz` | Yes |
+| `kirishima.xyz` | No |
 | `kirishimalab21.xyz` | No |
 | `kiritan.work` | Yes |
 | `kirja.casa` | No |
@@ -35532,6 +35533,7 @@ Here's a list of public Fediverse services.
 | `tentacleric.com` | No |
 | `tentacul.es` | No |
 | `tentere.net` | Yes |
+| `tentonic.de` | No |
 | `teo.io` | No |
 | `teo.pt` | Yes |
 | `teotech.xyz` | No |
@@ -35755,7 +35757,7 @@ Here's a list of public Fediverse services.
 | `theblower.au` | No |
 | `thebmw.club` | No |
 | `thebonduniverse.net` | No |
-| `theboss.tech` | Yes |
+| `theboss.tech` | No |
 | `thebrave1.com` | No |
 | `thebristol.social` | Yes |
 | `thebrookes.com` | No |
@@ -41312,8 +41314,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,414 |
-| Normal | 30,855 |
+| Cloudflare | 10,412 |
+| Normal | 30,859 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
