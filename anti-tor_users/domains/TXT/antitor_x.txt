@@ -1,8 +1,3 @@
-xn--trdfllningrebro-1kbc44a.se
-xn--vad-r-vpn-y2a.se
-xpapple.com
-xpectives.health
-xsteampowered.com
 agent01.xeox.com
 api-oauth-us.xiaoyi.com
 api.dev.xelya.io
@@ -429,6 +424,7 @@ autodiscover.cpanel.webdisk.webmail.mail.www.xflirt.fr
 blue-canary.xboxservices.com
 bod.xchanging.it
 botdiscord.xantxo-coquillard.fr
+cdn.xiaolincoding.com
 chatbot.staging.xclapi.in
 click.messages.xoom.com
 click.xpnews.com.br
@@ -436,6 +432,7 @@ consumer.xtime.com
 contact.xynythcorp.com
 cpanel.xpressone.com.ph
 gameclipscontent-d2003.xboxlive.com
+gameclipscontent-d2004.media.xboxlive.com
 getcreditscore.xmagicmedia.com
 git.git.git.gitlab.git.faxij64962.temp.xn--vs-zi72aga.ga
 git.git.outlook.xn--80aamnof2bfhn9f.xn--p1acf
@@ -457,6 +454,7 @@ mobile.xoom.com
 o3gmail3aojyusp.account.xn----stbbukh.xn--p1ai
 old.xetel.in
 platinademo.x-docs.com
+staging-1682961063.xn--trservice-h3a.nu
 sts.xiduamdev.ca
 t-eu.xink.io
 t.xink.io
@@ -472,9 +470,11 @@ www.gitlab.i.xn----7sbahmgm3djr5j.xn--p1ai
 www.helenacastrosiqueira.online.xn--vocmaisbonita-rhb.online
 www.mangalibnation.com.xryptoverse.store
 www.roddingisoleringsservice.xn--rddingisoleringsservice-lmc.dk
+www.staging-1682961063.xn--trservice-h3a.nu
 www.support.xetel.in
 www.xablu.com
 www.xem.com.au
+www.xn--altdeutsche-schferhunde-vom-seeruberdorf-umdr.de
 www.xn--b3cvcoa9c2fb3dwd9dch.com
 www.xn--billigbadevgt-egb.dk
 www.xn--billigbilfrskring-1qb35a.se
@@ -520,6 +520,7 @@ xizo.jp
 xmodalert.com
 xmsflzmygw.com
 xn--12cgq8beu0efp2c2e4d2dsfua.com
+xn--altdeutsche-schferhunde-vom-seeruberdorf-umdr.de
 xn--billigerestrm-mnb.no
 xn--dck1byb9ii0b6cec.net
 xn--ferienwohnung-dmmer-kbc.de
@@ -534,15 +535,18 @@ xn--salonlmppalvelu-5kb22a.fi
 xn--service-reparaii-bzf.ro
 xn--serviceconstana-knf.ro
 xn--sikkerhetsmned-vib.no
+xn--tudiant-9xa.es
 xn--velsesbank-zcb.no
 xolevaservice.gr
 xsthk.net
+xsts.auth.dnet.xboxlive.com
 xvisionsecurity.com.pk
 xwlketvkzf.com
 xwqdcq.com
 xwqvytuiko.com
 xxxrevpushclcdu.com
 xyosecurity.ro
+xztbtmvip.com
 amrob.xyz-sites.com
 api-sg.xunyou.mobi
 api-uae.xpence.uk
@@ -627,3 +631,8 @@ xn--sandebtservice-qib.com
 xn--sandebtservice-qib.no
 xn--schttgut-liefern-lzb.de
 xn--ssom-poa.se
+xn--trdfllningrebro-1kbc44a.se
+xn--vad-r-vpn-y2a.se
+xpapple.com
+xpectives.health
+xsteampowered.com
