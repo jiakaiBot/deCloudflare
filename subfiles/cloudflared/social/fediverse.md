@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,242 |
+| com | 6,243 |
 | social | 3,988 |
 | net | 3,168 |
 | org | 2,192 |
@@ -9711,7 +9711,7 @@ Here's a list of public Fediverse services.
 | `eax.li` | No |
 | `eay.social` | No |
 | `eb8.org` | No |
-| `ebano.social` | Yes |
+| `ebano.social` | No |
 | `ebardelli.com` | Yes |
 | `ebc.li` | No |
 | `ebcdic.space` | No |
@@ -19183,6 +19183,7 @@ Here's a list of public Fediverse services.
 | `laborluzern.ch` | No |
 | `labotadon.net` | No |
 | `labottegadelbarbieri.org` | No |
+| `labotter.com` | Yes |
 | `laboursocial.co` | No |
 | `laboutinerie.ovh` | No |
 | `labr.online` | No |
@@ -26968,7 +26969,7 @@ Here's a list of public Fediverse services.
 | `osm.town` | No |
 | `osmarks.net` | No |
 | `osmcast.social` | No |
-| `osminog.de` | No |
+| `osminog.de` | Yes |
 | `osna.social` | No |
 | `osr.community` | No |
 | `osrc.pw` | No |
@@ -41314,7 +41315,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,412 |
+| Cloudflare | 10,413 |
 | Normal | 30,859 |
 
 
