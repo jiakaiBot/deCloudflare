@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,242 |
+| com | 6,241 |
 | social | 3,988 |
-| net | 3,168 |
-| org | 2,192 |
+| net | 3,167 |
+| org | 2,191 |
 | de | 2,074 |
 
 
@@ -14557,7 +14557,6 @@ Here's a list of public Fediverse services.
 | `haru2036.com` | No |
 | `haru3.me` | No |
 | `haruhi-mstdn.club` | No |
-| `haruho.net` | No |
 | `haruk.in` | Yes |
 | `harukakanata.net` | No |
 | `harumakizaemon.net` | No |
@@ -21202,7 +21201,6 @@ Here's a list of public Fediverse services.
 | `managingengineers.net` | Yes |
 | `manakeep.social` | No |
 | `manalejandro.com` | No |
-| `manasas.dev` | No |
 | `manateeth.club` | No |
 | `mancave.de` | No |
 | `mancavgeek.co.uk` | No |
@@ -26840,7 +26838,6 @@ Here's a list of public Fediverse services.
 | `orbanos.org` | No |
 | `orbb.fr` | No |
 | `orbfellows.us` | No |
-| `orbific.com` | No |
 | `orbiscognito.com` | No |
 | `orbit.town` | No |
 | `orbital.cafe` | No |
@@ -29066,7 +29063,6 @@ Here's a list of public Fediverse services.
 | `prosou.nu` | No |
 | `prospeech.space` | No |
 | `prosports.space` | No |
-| `prostasia.org` | Yes |
 | `prostreamers.net` | No |
 | `prosumer.dev` | Yes |
 | `protagio.nl` | No |
@@ -41312,8 +41308,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,415 |
-| Normal | 30,854 |
+| Cloudflare | 10,414 |
+| Normal | 30,851 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
