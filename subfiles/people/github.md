@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Typia supports Cloudflare page functions (v8)?](https://github.com/samchon/typia/issues/619)
 - [Failed to deserialize response: expected value at line 1 column 1](https://github.com/foundry-rs/foundry/issues/4865)
 - [Websocket connection failed](https://github.com/neondatabase/serverless/issues/17)
 - [Add pusher alternatives](https://github.com/pixelfed/pixelfed/issues/4338)
