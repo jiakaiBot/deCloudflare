@@ -7619,7 +7619,7 @@ Here's a list of public Fediverse services.
 | `cypher.social` | No |
 | `cypherpunk.observer` | No |
 | `cypherpunks.it` | No |
-| `cypherpunks.social` | No |
+| `cypherpunks.social` | Yes |
 | `cyphrags.com` | No |
 | `cyphrags.social` | No |
 | `cypou.net` | No |
@@ -9474,6 +9474,7 @@ Here's a list of public Fediverse services.
 | `dtp-mstdn.jp` | Yes |
 | `dtrautwein.eu` | No |
 | `dtris.moe` | No |
+| `dtth.ch` | Yes |
 | `dttyde.de` | No |
 | `dtwylr.net` | No |
 | `dtzbts.xyz` | No |
@@ -18458,7 +18459,7 @@ Here's a list of public Fediverse services.
 | `kirstenmalzwei.de` | No |
 | `kiru.fun` | No |
 | `kirv.in` | Yes |
-| `kiryuanzu.dev` | No |
+| `kiryuanzu.dev` | Yes |
 | `kisaan.social` | Yes |
 | `kish.social` | No |
 | `kishkush.net` | No |
@@ -29658,7 +29659,7 @@ Here's a list of public Fediverse services.
 | `rac.me.uk` | No |
 | `raccoon.college` | Yes |
 | `raccoon.community` | Yes |
-| `raccoon.id` | No |
+| `raccoon.id` | Yes |
 | `raccoon.life` | No |
 | `raccoon.network` | No |
 | `raccoon.place` | No |
@@ -40754,6 +40755,7 @@ Here's a list of public Fediverse services.
 | `yowapeda.me` | No |
 | `yowhat.net` | Yes |
 | `yoyo.org` | No |
+| `yoyodyne-it.eu` | No |
 | `yoyodyne.games` | No |
 | `yp.to` | No |
 | `ypolis.net` | No |
@@ -41329,8 +41331,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,418 |
-| Normal | 30,868 |
+| Cloudflare | 10,422 |
+| Normal | 30,866 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
