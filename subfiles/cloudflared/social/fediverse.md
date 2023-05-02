@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,988 |
 | net | 3,168 |
 | org | 2,192 |
-| de | 2,075 |
+| de | 2,076 |
 
 
 - Mastodon, Pleroma, etc
@@ -6634,6 +6634,7 @@ Here's a list of public Fediverse services.
 | `comfy.blue` | No |
 | `comfy.business` | No |
 | `comfy.center` | Yes |
+| `comfy.city` | No |
 | `comfy.moe` | Yes |
 | `comfy.social` | Yes |
 | `comfyboy.club` | Yes |
@@ -31696,6 +31697,7 @@ Here's a list of public Fediverse services.
 | `schaffenburg.org` | No |
 | `schafweide.org` | No |
 | `schalke.social` | No |
+| `schallundstille.de` | No |
 | `schaltwerk.io` | No |
 | `scharner.me` | No |
 | `scharom.de` | No |
@@ -39927,6 +39929,7 @@ Here's a list of public Fediverse services.
 | `write.as` | No |
 | `write.bz` | Yes |
 | `write.house` | No |
+| `write.nz` | No |
 | `write.wtf` | No |
 | `writeas.com` | No |
 | `writeas.guide` | No |
@@ -41316,7 +41319,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,413 |
-| Normal | 30,859 |
+| Normal | 30,862 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
