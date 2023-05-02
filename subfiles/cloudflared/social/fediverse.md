@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,244 |
+| com | 6,245 |
 | social | 3,990 |
 | net | 3,168 |
-| org | 2,193 |
+| org | 2,194 |
 | de | 2,078 |
 
 
@@ -25512,6 +25512,7 @@ Here's a list of public Fediverse services.
 | `nksm.in.net` | No |
 | `nku.ovh` | No |
 | `nkwebservices.de` | No |
+| `nlgcuba.org` | No |
 | `nlhiphop.nl` | No |
 | `nlogic.systems` | No |
 | `nlpagan.net` | No |
@@ -26163,6 +26164,7 @@ Here's a list of public Fediverse services.
 | `nyanide.com` | No |
 | `nyanlout.re` | No |
 | `nyanshell.com` | Yes |
+| `nyanskey.com` | Yes |
 | `nyantech.com` | Yes |
 | `nyanya.net` | No |
 | `nyaotan.fun` | No |
@@ -34972,6 +34974,7 @@ Here's a list of public Fediverse services.
 | `t9.no` | No |
 | `t93.us` | Yes |
 | `ta1k.ga` | No |
+| `ta2.tokyo` | No |
 | `tab-e.de` | No |
 | `tabakai.com` | No |
 | `tabathawood.com` | No |
@@ -41334,8 +41337,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,424 |
-| Normal | 30,867 |
+| Cloudflare | 10,425 |
+| Normal | 30,869 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
