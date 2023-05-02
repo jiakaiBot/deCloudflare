@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 3,990 |
 | net | 3,168 |
 | org | 2,193 |
-| de | 2,077 |
+| de | 2,078 |
 
 
 - Mastodon, Pleroma, etc
@@ -8867,6 +8867,7 @@ Here's a list of public Fediverse services.
 | `discworld.social` | Yes |
 | `disequilibrium.org` | Yes |
 | `disinfo.zone` | Yes |
+| `disinfosocial.club` | Yes |
 | `disism.com` | Yes |
 | `diskette.online` | No |
 | `diskofgrain.xyz` | No |
@@ -14511,6 +14512,7 @@ Here's a list of public Fediverse services.
 | `haoyayoi.net` | No |
 | `happenon.net` | Yes |
 | `happens.horse` | No |
+| `happy-scooter.de` | Yes |
 | `happyjesus.online` | No |
 | `happykraken.net` | Yes |
 | `happyorange.xyz` | Yes |
@@ -19103,6 +19105,7 @@ Here's a list of public Fediverse services.
 | `kwat.chat` | No |
 | `kwatra.me` | Yes |
 | `kwhtech.net` | No |
+| `kwick.rip` | No |
 | `kwiecien.us` | No |
 | `kwinkunks.org` | No |
 | `kwitter.club` | No |
@@ -41331,8 +41334,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,422 |
-| Normal | 30,866 |
+| Cloudflare | 10,424 |
+| Normal | 30,867 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
