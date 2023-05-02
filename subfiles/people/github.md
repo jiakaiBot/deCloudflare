@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failed to deserialize response: expected value at line 1 column 1](https://github.com/foundry-rs/foundry/issues/4865)
+- [Websocket connection failed](https://github.com/neondatabase/serverless/issues/17)
 - [Add pusher alternatives](https://github.com/pixelfed/pixelfed/issues/4338)
 - [Cert manager does not support release v1.27.1 of Kubernetes](https://github.com/onedr0p/flux-cluster-template/issues/714)
 - [cloudflare is blocking some script](https://github.com/filebrowser/filebrowser/issues/2445)
