@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,255 |
-| social | 3,992 |
+| social | 3,993 |
 | net | 3,169 |
 | org | 2,195 |
 | de | 2,078 |
@@ -8483,7 +8483,7 @@ Here's a list of public Fediverse services.
 | `design.vu` | No |
 | `designbykr.com` | No |
 | `designersethiques.org` | No |
-| `designguide.site` | No |
+| `designguide.site` | Yes |
 | `designlounge.social` | No |
 | `designor.de` | No |
 | `desir.social` | No |
@@ -9650,6 +9650,7 @@ Here's a list of public Fediverse services.
 | `dystroy.org` | No |
 | `dytrych.cloud` | No |
 | `dytube.com` | No |
+| `dz.social` | No |
 | `dz4k.com` | Yes |
 | `dzacarias.net` | No |
 | `dzek.ru` | No |
@@ -28568,6 +28569,7 @@ Here's a list of public Fediverse services.
 | `podvibes.co` | Yes |
 | `podycust.co.uk` | Yes |
 | `poedelwitz.de` | No |
+| `poesty.tk` | No |
 | `poetic.systems` | No |
 | `poetry.garden` | No |
 | `poettmes.social` | No |
@@ -41368,8 +41370,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,431 |
-| Normal | 30,894 |
+| Cloudflare | 10,432 |
+| Normal | 30,895 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
