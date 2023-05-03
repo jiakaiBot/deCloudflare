@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CORS cache error after switch avatar storage to Cloudflare R2](https://github.com/0xffff-one/flarum-0x/issues/45)
 - [An SecureClientIP with a priority fallback system](https://github.com/imbolc/axum-client-ip/issues/12)
 - [Remix 1.16 unstable_dev race condition](https://github.com/remix-run/remix/issues/6286)
 - [Tried modifying the proxy, But still An error occurred](https://github.com/xtekky/gpt4free/issues/387)
