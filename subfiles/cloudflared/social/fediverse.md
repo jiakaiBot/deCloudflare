@@ -21232,7 +21232,7 @@ Here's a list of public Fediverse services.
 | `managingengineers.net` | Yes |
 | `manakeep.social` | No |
 | `manalejandro.com` | No |
-| `manasas.dev` | No |
+| `manasas.dev` | Yes |
 | `manateeth.club` | No |
 | `mancave.de` | No |
 | `mancavgeek.co.uk` | No |
@@ -41243,6 +41243,7 @@ Here's a list of public Fediverse services.
 | `zone.io` | No |
 | `zone42.org` | No |
 | `zonepl.net` | No |
+| `zoner.gay` | No |
 | `zonurben.ch` | No |
 | `zoomer.photography` | No |
 | `zoomers.lol` | No |
@@ -41370,7 +41371,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,432 |
+| Cloudflare | 10,433 |
 | Normal | 30,895 |
 
 
