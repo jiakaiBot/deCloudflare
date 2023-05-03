@@ -6621,7 +6621,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -10579,7 +10579,7 @@ Here's a list of public Fediverse services.
 | `essmann.com` | No |
 | `essmann.online` | No |
 | `est.social` | No |
-| `estadoo.com` | No |
+| `estadoo.com` | Yes |
 | `estarik.com` | No |
 | `estel-freesia.moe` | No |
 | `esthetic.win` | Yes |
@@ -15830,7 +15830,7 @@ Here's a list of public Fediverse services.
 | `ichbinbaff.de` | No |
 | `ichbinkeinreh.de` | No |
 | `ichidan.io` | Yes |
-| `ichigo-hoshimiya.com` | No |
+| `ichigo-hoshimiya.com` | Yes |
 | `ichii.moe` | No |
 | `ichiji.social` | No |
 | `ichinyo.site` | No |
@@ -28807,7 +28807,7 @@ Here's a list of public Fediverse services.
 | `poststoffarm.de` | No |
 | `postthread.xyz` | No |
 | `postworlds.com` | No |
-| `postxiami.space` | Yes |
+| `postxiami.space` | No |
 | `postygram.com` | No |
 | `posvib.es` | No |
 | `posvic.cz` | No |
@@ -31621,6 +31621,7 @@ Here's a list of public Fediverse services.
 | `satori.cafe` | No |
 | `satoshifi.org` | No |
 | `satoshishop.de` | No |
+| `satoshiswap.exchange` | Yes |
 | `sattvalife.ru` | No |
 | `saturation.social` | No |
 | `saturno.black` | No |
@@ -41365,8 +41366,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,427 |
-| Normal | 30,895 |
+| Cloudflare | 10,430 |
+| Normal | 30,893 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
