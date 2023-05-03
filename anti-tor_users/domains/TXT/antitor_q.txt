@@ -462,6 +462,7 @@ evt.quicklizard.com
 exchange.qualysoft.com
 exchange.quantumintegrators.com
 faas1.q37.info
+feeds-prod.qrsolutions.com.au
 gg.quietrack.com
 idctvmws.qcertifica.com.br
 identityverify-wellsfargo.quantumtraveltowers.com.au
@@ -473,6 +474,7 @@ links.quickhelp.com
 lp.quizz2win.com
 mail.q8nitro.com
 mail.quantum-gruppe.de
+monitoring.staging.app.qflow.eu
 my-safe.qtechnetworks.co
 myprofile.qasgx.com
 ncpfinance.qfund.net
@@ -547,10 +549,13 @@ ws.qcertifica.com.br
 www.auth.qualitymentoring.ca
 www.billlreadvisitorg.com.quizgota.com
 www.contact.qalamndesign.id
+www.entregamosatiempo.com.querubinstudio.com
 www.hubvantage.qontrack.in
 www.qabnpparibasfortis.com
+www.qksaqetar.com
 www.qlife.jp
 www.qracian.co.jp
+www.qrca.org
 www.qsotodayhamexpo.com
 www.quadifyrc.com
 www.qualita-travel.com
