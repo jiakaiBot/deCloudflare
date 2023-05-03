@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,255 |
+| com | 6,257 |
 | social | 3,993 |
 | net | 3,169 |
 | org | 2,195 |
@@ -14149,7 +14149,7 @@ Here's a list of public Fediverse services.
 | `gt-mod.site` | No |
 | `gtaconnect.net` | No |
 | `gtfo.social` | Yes |
-| `gtfoh.lol` | No |
+| `gtfoh.lol` | Yes |
 | `gthmg.com` | No |
 | `gtio.io` | No |
 | `gtk.pw` | Yes |
@@ -15480,6 +15480,7 @@ Here's a list of public Fediverse services.
 | `howflatisthe.earth` | No |
 | `howl.moe` | Yes |
 | `howlr.me` | No |
+| `howlround.com` | Yes |
 | `howlsoverelpaso.xyz` | No |
 | `hows.id.au` | No |
 | `howse.social` | Yes |
@@ -16281,6 +16282,7 @@ Here's a list of public Fediverse services.
 | `initiativegegendieverwendungvonvielzulangendomainnameniminter.net` | No |
 | `initlab.org` | No |
 | `initmd.xyz` | Yes |
+| `injabie3.moe` | Yes |
 | `injection.love` | Yes |
 | `inkdrop.space` | No |
 | `inked.social` | Yes |
@@ -35881,6 +35883,7 @@ Here's a list of public Fediverse services.
 | `theendpaper.social` | No |
 | `theepicblock.nl` | No |
 | `theepistle.net` | No |
+| `theergold.com` | Yes |
 | `theeum.org` | No |
 | `thefaith.social` | No |
 | `thefamily.rocks` | No |
@@ -41372,8 +41375,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,435 |
-| Normal | 30,894 |
+| Cloudflare | 10,439 |
+| Normal | 30,893 |
 
 
-### 25.2% of public Fediverse services are using Cloudflare.
+### 25.3% of public Fediverse services are using Cloudflare.
