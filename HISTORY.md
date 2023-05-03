@@ -7,6 +7,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-05-03: [Cloudflare Geo-Key Manager Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wzzkr1hrp9bv)
+- 2023-05-03: [Zone-Level Custom Nameservers Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jjgpryq5gcyb)
 - 2023-05-02: [Network Connectivity Issues in Mexico region](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2bsljstdb6sz)
 - 2023-05-02: [Investigating Performance Issues in Seoul, Korea](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1xbmk58yxn1l)
 - 2023-04-28: [Cache Reserve may return stale data or incomplete responses](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1z125rykf9zd)
