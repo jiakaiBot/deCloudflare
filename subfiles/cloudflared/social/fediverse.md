@@ -16230,6 +16230,7 @@ Here's a list of public Fediverse services.
 | `informaton.blog` | No |
 | `informethique.org` | No |
 | `infosec.exchange` | No |
+| `infosec.land` | No |
 | `infosec.place` | No |
 | `infosec.press` | No |
 | `infosecnerd.cc` | No |
@@ -26118,6 +26119,7 @@ Here's a list of public Fediverse services.
 | `nutt.church` | No |
 | `nutter.io` | No |
 | `nuu.cat` | No |
+| `nuvem.lgbt` | Yes |
 | `nuvem.tk` | No |
 | `nuvenzinha.me` | No |
 | `nuwa.co` | No |
@@ -41366,8 +41368,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,430 |
-| Normal | 30,893 |
+| Cloudflare | 10,431 |
+| Normal | 30,894 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
