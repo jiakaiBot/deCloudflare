@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,258 |
-| social | 3,993 |
+| com | 6,259 |
+| social | 3,994 |
 | net | 3,169 |
 | org | 2,195 |
-| de | 2,078 |
+| de | 2,080 |
 
 
 - Mastodon, Pleroma, etc
@@ -132,6 +132,7 @@ Here's a list of public Fediverse services.
 | `0x7f.one` | No |
 | `0x80.org` | No |
 | `0x89.de` | No |
+| `0x90.space` | No |
 | `0xa.pw` | Yes |
 | `0xa1.red` | Yes |
 | `0xa1.social` | No |
@@ -4315,6 +4316,7 @@ Here's a list of public Fediverse services.
 | `blunck.social` | No |
 | `blunet.fr` | No |
 | `bluntbangs.com` | No |
+| `bluppen.blog` | No |
 | `blurb.town` | No |
 | `blurts.net` | No |
 | `blyler.cc` | Yes |
@@ -16172,6 +16174,7 @@ Here's a list of public Fediverse services.
 | `indieweb.me` | No |
 | `indieweb.social` | No |
 | `indigedon.com` | No |
+| `indigenouscreatives.social` | No |
 | `indigenousgulf.online` | No |
 | `indigo.zone` | No |
 | `indigophoenix.net` | No |
@@ -17534,6 +17537,7 @@ Here's a list of public Fediverse services.
 | `josoko.net` | No |
 | `josta.me` | Yes |
 | `josz.space` | No |
+| `jotoma.de` | No |
 | `journa.host` | No |
 | `journalism.social` | No |
 | `journalist.social` | Yes |
@@ -24282,6 +24286,7 @@ Here's a list of public Fediverse services.
 | `muyun.social` | Yes |
 | `muzzlespace.com` | No |
 | `mv-software.de` | No |
+| `mv2k.com` | No |
 | `mvalente.eu` | No |
 | `mvh.dev` | Yes |
 | `mvion.fr` | No |
@@ -29520,6 +29525,7 @@ Here's a list of public Fediverse services.
 | `queerdon.social` | Yes |
 | `queerdorks.club` | No |
 | `queerenough.com` | No |
+| `queereszentrumtuebingen.de` | No |
 | `queerfeels.com` | Yes |
 | `queerfem.space` | No |
 | `queerfreiburg.de` | No |
@@ -41377,7 +41383,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,439 |
-| Normal | 30,894 |
+| Normal | 30,900 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
