@@ -627,7 +627,6 @@ yahoo.you.com.tw
 yahool.tech
 yahootv.site
 yahstube.org
-yaidans.com
 yakora.cl
 yakusitarimate.shop
 yamahamusicbangladesh.com
@@ -782,10 +781,12 @@ api-sg.mariner.yembo.ai
 api-us.mariner.yembo.ai
 api.yaanimail.com
 app-rename-identities-to-users.dev.yesh.id
+app-user-photos.dev.yesh.id
 avito.sberbank.git.git.git.covid19.youhollywood.com
 b92.yahoo.co.jp
 b97.yahoo.co.jp
 bananatrust-dev.yode.pro
+beyazlar1.yapimasamasi.site
 blablacar.sber.avito.git.git.git.covid19.youhollywood.com
 blablacar.sberbank.git.git.git.covid19.youhollywood.com
 capi.yaanimail.com
@@ -799,6 +800,7 @@ coinbase.yona.tech
 coinbasepro-nlogin.yahoosites.com
 consent.youtube.com
 contactme.yusufhamitkaya.com
+covidvaccine.youthclinic.com
 cpcontacts.yourmobilefriendly.website
 cs-stage.yieldoptimizer.com
 cv.youbuy.com
@@ -821,6 +823,7 @@ goproblog.yourcareersearchadvisor.com
 i.youbuy.com
 i.ytimg.com
 ies2.yonden.co.jp
+image.email.ysl.com
 images.ywcontent.com
 img.youtube.com
 insuranceuat.yesbank.in
@@ -873,6 +876,8 @@ v-ctp59a3myk.wc.yahoodns.net
 vzpn.ydns.eu
 webclickbank2.youtokmarketing.com
 webmail.bureauveritas.yoomultimedia.com
+www.amima-yapilan-agdayla.yeahh.com
+www.beyazlar1.yapimasamasi.site
 www.contactme.yusufhamitkaya.com
 www.contodepositomigliore.yesweweb.com
 www.db.yugioh-card.com
@@ -889,6 +894,7 @@ www.yakari-show.de
 www.yakunet.com
 www.yaloencontre.mx
 www.yamauchi-f.com
+www.yapiportal.com
 www.yelonft.com
 www.yesbank.in
 www.yilbim.com.tr
@@ -896,6 +902,7 @@ www.yl-griffin.com
 www.ymparistotiedonfoorumi.fi
 www.yorn.net
 www.yory.nl
+www.yosoytheboss.com
 www.your-server.de
 www.yourquote.in
 www.yourstartupservice.com
@@ -909,15 +916,18 @@ yads.yjtag.yahoo.co.jp
 yamamotocli.com
 yarfinbot.ru
 yariika.com
+yasirlyhijab.com
 yasno.com.ua
 ydwjez8.com
 yetistrafikdanismanlik.com
 yhdservice.com
 yieldminingnft.com
 yimpolis.com
+yirok.shop
 ylavjbljpt.com
 yoga-blox.com
 yogeesridle.com
+yogurttoni.com
 yolandachapman.ml
 yonnelautre.fr
 yorkdefibtraining.co.uk
@@ -939,6 +949,7 @@ yourwebproject.net
 youthincmag.com
 youthinvest.global
 youtubetransfer.com
+yplistingasso.ypbizhub.com.hk
 ysajielectronica.com.py
 yuira.jp
 yukonnuggets.com
