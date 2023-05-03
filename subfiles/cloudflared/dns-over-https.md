@@ -149,6 +149,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | familiamv.ml | No |
 | fancyorg.at | No |
 | faze.dev | No |
+| fdn.fr | No |
 | ff0x.ca | Yes |
 | ffmuc.net | Yes |
 | filipccz.eu | Yes |
@@ -385,7 +386,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 170 |
-| Normal | 195 |
+| Normal | 196 |
 
 
-### 46.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
