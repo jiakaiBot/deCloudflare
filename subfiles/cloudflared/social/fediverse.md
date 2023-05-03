@@ -10710,6 +10710,7 @@ Here's a list of public Fediverse services.
 | `everynothing.org` | No |
 | `everynothing.social` | No |
 | `everysick.com` | No |
+| `everythingbagel.me` | Yes |
 | `everythingbut.fish` | No |
 | `everythingistacos.net` | No |
 | `everythingsysadmin.com` | Yes |
@@ -16357,7 +16358,7 @@ Here's a list of public Fediverse services.
 | `instance.community` | Yes |
 | `instance.digital` | No |
 | `instanzfreun.de` | No |
-| `instaporn.org` | No |
+| `instaporn.org` | Yes |
 | `instawp.xyz` | Yes |
 | `instigation.fr` | No |
 | `instinctd.com` | No |
@@ -41371,8 +41372,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,433 |
-| Normal | 30,895 |
+| Cloudflare | 10,435 |
+| Normal | 30,894 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
