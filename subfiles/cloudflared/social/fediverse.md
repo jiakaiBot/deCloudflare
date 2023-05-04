@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,263 |
 | social | 3,999 |
-| net | 3,174 |
+| net | 3,173 |
 | org | 2,197 |
 | de | 2,081 |
 
@@ -29449,7 +29449,6 @@ Here's a list of public Fediverse services.
 | `qianmianyao.cn` | No |
 | `qiitadon.com` | No |
 | `qip.wang` | No |
-| `qiring.net` | No |
 | `qixto.com` | No |
 | `qkjr.xyz` | No |
 | `qlink.social` | No |
@@ -41419,7 +41418,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,449 |
-| Normal | 30,926 |
+| Normal | 30,925 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
