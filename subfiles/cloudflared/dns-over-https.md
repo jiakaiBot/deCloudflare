@@ -83,6 +83,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | clearviewtechnology.net | No |
 | cloudflare-dns.com | Yes |
 | cloudnx.cloud | Yes |
+| clroot.io | Yes |
 | cola16.app | Yes |
 | comeonjames.club | Yes |
 | comss.one | No |
@@ -98,6 +99,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | datahata.by | No |
 | datamatter.co.za | No |
 | daw.dev | No |
+| ddns.network | Yes |
 | decloudus.com | No |
 | dekonix.ru | Yes |
 | depieri.net | No |
@@ -135,6 +137,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | edgy-dns.com | No |
 | edison42.dev | No |
 | ef67daisuki.club | No |
+| elashri.xyz | Yes |
 | elbschloss.xyz | Yes |
 | elemental.software | Yes |
 | ellichua.com | No |
@@ -152,6 +155,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | flodns.net | No |
 | flymc.cc | Yes |
 | fomichev.cloud | Yes |
+| fresh-waffles.online | Yes |
 | froth.zone | No |
 | ftp.sh | No |
 | futa.gg | Yes |
@@ -207,6 +211,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | korzhov.dev | No |
 | kpsn.org | Yes |
 | krnl.eu | Yes |
+| kss.ovh | Yes |
 | lacontrevoie.fr | No |
 | lars-lehmann.net | Yes |
 | lastentarvike.fi | No |
@@ -374,8 +379,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 165 |
+| Cloudflare | 170 |
 | Normal | 190 |
 
 
-### 46.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
