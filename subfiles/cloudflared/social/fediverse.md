@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,263 |
-| social | 3,998 |
+| social | 3,999 |
 | net | 3,173 |
 | org | 2,197 |
 | de | 2,081 |
@@ -34409,6 +34409,7 @@ Here's a list of public Fediverse services.
 | `stranger.social` | No |
 | `stranger.town` | No |
 | `strangerproduction.com` | No |
+| `strangers.social` | No |
 | `strangestack.com` | No |
 | `strangevistas.com` | No |
 | `strangeweb.page` | No |
@@ -35830,7 +35831,7 @@ Here's a list of public Fediverse services.
 | `thebig.cc` | No |
 | `thebigeasy.life` | No |
 | `thebigeasy.space` | No |
-| `thebigowo.xyz` | No |
+| `thebigowo.xyz` | Yes |
 | `thebird.website` | No |
 | `thebitpros.com` | No |
 | `theblackgates.com` | No |
@@ -41410,8 +41411,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,445 |
+| Cloudflare | 10,446 |
 | Normal | 30,922 |
 
 
-### 25.2% of public Fediverse services are using Cloudflare.
+### 25.3% of public Fediverse services are using Cloudflare.
