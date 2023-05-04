@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,264 |
 | social | 3,999 |
-| net | 3,173 |
-| org | 2,198 |
+| net | 3,174 |
+| org | 2,199 |
 | de | 2,081 |
 
 
@@ -23181,6 +23181,7 @@ Here's a list of public Fediverse services.
 | `misskey.design` | Yes |
 | `misskey.dev` | Yes |
 | `misskey.ee` | Yes |
+| `misskey.eu.org` | No |
 | `misskey.fr` | No |
 | `misskey.fun` | No |
 | `misskey.id` | Yes |
@@ -29450,6 +29451,7 @@ Here's a list of public Fediverse services.
 | `qianmianyao.cn` | No |
 | `qiitadon.com` | No |
 | `qip.wang` | No |
+| `qiring.net` | No |
 | `qixto.com` | No |
 | `qkjr.xyz` | No |
 | `qlink.social` | No |
@@ -41420,7 +41422,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,449 |
-| Normal | 30,927 |
+| Normal | 30,929 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
