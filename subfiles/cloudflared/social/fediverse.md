@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,262 |
+| com | 6,263 |
 | social | 3,998 |
-| net | 3,170 |
+| net | 3,173 |
 | org | 2,197 |
 | de | 2,081 |
 
@@ -176,6 +176,7 @@ Here's a list of public Fediverse services.
 | `10minutepleroma.com` | No |
 | `10one.net` | No |
 | `10qt.net` | No |
+| `10rino.net` | No |
 | `10vorne.eu` | No |
 | `10x.sh` | Yes |
 | `1132don.com` | No |
@@ -6626,7 +6627,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -6978,6 +6979,7 @@ Here's a list of public Fediverse services.
 | `counselingmasto.info` | No |
 | `counter.social` | Yes |
 | `counterprose.com` | No |
+| `countrycharmnews.com` | No |
 | `coupou.fr` | No |
 | `courat.fr` | No |
 | `courbet.social` | No |
@@ -29442,6 +29444,7 @@ Here's a list of public Fediverse services.
 | `qianmianyao.cn` | No |
 | `qiitadon.com` | No |
 | `qip.wang` | No |
+| `qiring.net` | No |
 | `qixto.com` | No |
 | `qkjr.xyz` | No |
 | `qlink.social` | No |
@@ -30127,7 +30130,7 @@ Here's a list of public Fediverse services.
 | `realkane.dev` | No |
 | `reallocats.org` | No |
 | `reallygay.party` | No |
-| `realm.best` | Yes |
+| `realm.best` | No |
 | `realmat.de` | Yes |
 | `realmofespionage.xyz` | No |
 | `realmonsters.rodeo` | No |
@@ -37887,6 +37890,7 @@ Here's a list of public Fediverse services.
 | `umastodon.jp` | No |
 | `umastodon.net` | No |
 | `umb.re` | No |
+| `umbraluvine.xyz` | No |
 | `umbrella.cafe` | Yes |
 | `umbrellacorporation.work` | No |
 | `umbrellix.org` | No |
@@ -38015,6 +38019,7 @@ Here's a list of public Fediverse services.
 | `unim8trix.social` | No |
 | `unimatrix0.is` | No |
 | `unimeow.space` | No |
+| `unimportant.business` | Yes |
 | `uninform.at` | No |
 | `uninsane.org` | No |
 | `union.place` | No |
@@ -38460,6 +38465,7 @@ Here's a list of public Fediverse services.
 | `vcity.network` | No |
 | `vda-group.de` | No |
 | `vdavez.com` | No |
+| `vdh.za.net` | Yes |
 | `vdheide.net` | No |
 | `vdna.be` | No |
 | `vdoor.ch` | No |
@@ -41405,7 +41411,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,445 |
-| Normal | 30,916 |
+| Normal | 30,922 |
 
 
-### 25.3% of public Fediverse services are using Cloudflare.
+### 25.2% of public Fediverse services are using Cloudflare.
