@@ -889,6 +889,7 @@ Do not create new issue or we will close it as duplicate.
 | [ApkaNowa@twitter](https://twitter.com/ApkaNowa/status/1622264658143977474) | advertise |
 | [apollon8825@twitter](https://twitter.com/apollon8825/status/1389773014586347524) | advertise |
 | [Apple77742684@twitter](https://twitter.com/Apple77742684/status/1398675272526745603) | advertise |
+| [applebee1558@twitter](https://twitter.com/applebee1558/status/1654008430863224834) | advertise |
 | [applejaill@twitter](https://twitter.com/applejaill/status/1581917226202202113) | advertise |
 | [Appshare2023@twitter](https://twitter.com/Appshare2023/status/1636699147892846592) | advertise |
 | [AprilCo66885952@twitter](https://twitter.com/AprilCo66885952/status/1578373289004539904) | advertise |
