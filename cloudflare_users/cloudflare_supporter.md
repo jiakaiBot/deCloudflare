@@ -2803,6 +2803,7 @@ Do not create new issue or we will close it as duplicate.
 | [dotbitcoin@twitter](https://twitter.com/dotbitcoin/status/1581772196359589889) | advertise |
 | [dotcomhunters@twitter](https://twitter.com/dotcomhunters/status/1396422947313569793) | advertise |
 | [dotcompals@twitter](https://twitter.com/dotcompals/status/1516304654434734080) | advertise |
+| [dotZipp_@twitter](https://twitter.com/dotZipp_/status/1654220506000764930) | advertise |
 | [Double50501616@twitter](https://twitter.com/Double50501616/status/1393319618433802242) | advertise |
 | [DoubleK82510812@twitter](https://twitter.com/DoubleK82510812/status/1552622173038473216) | advertise |
 | [DoubleM36121250@twitter](https://twitter.com/DoubleM36121250/status/1379873214952693760) | advertise |
