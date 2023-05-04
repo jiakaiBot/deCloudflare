@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [About the error fix.Solution](https://github.com/xtekky/gpt4free/issues/437)
+- [Can´t register webauthn device](https://github.com/YunoHost-Apps/2FAuth_ynh/issues/34)
 - [my ip is banned by cloudflare](https://github.com/Paperspace/gradient-cli/issues/394)
 - [CloudFlare Issues with R2 Custom Domain Creation](https://github.com/MatBenfield/news/issues/13633)
 - [Not Pulling source correctly](https://github.com/TheNetsky/extensions-sources/issues/53)
