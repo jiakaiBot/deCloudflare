@@ -16946,7 +16946,7 @@ Here's a list of public Fediverse services.
 | `jamieasefa.social` | No |
 | `jamiekerr.net` | Yes |
 | `jamiemchale.com` | No |
-| `jamiesnotes.com` | Yes |
+| `jamiesnotes.com` | No |
 | `jamiethegeek.com` | Yes |
 | `jaminit.co.uk` | Yes |
 | `jamit.social` | Yes |
@@ -28015,6 +28015,7 @@ Here's a list of public Fediverse services.
 | `philho.de` | No |
 | `philia.work` | Yes |
 | `philipcristiano.com` | Yes |
+| `philipjohn.blog` | No |
 | `philipjohn.social` | No |
 | `philipp-rosch.de` | Yes |
 | `philipp.info` | No |
@@ -41411,8 +41412,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,446 |
-| Normal | 30,922 |
+| Cloudflare | 10,445 |
+| Normal | 30,924 |
 
 
-### 25.3% of public Fediverse services are using Cloudflare.
+### 25.2% of public Fediverse services are using Cloudflare.
