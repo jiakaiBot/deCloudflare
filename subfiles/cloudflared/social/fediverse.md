@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,263 |
 | social | 3,999 |
-| net | 3,173 |
+| net | 3,174 |
 | org | 2,197 |
 | de | 2,081 |
 
@@ -3580,7 +3580,7 @@ Here's a list of public Fediverse services.
 | `ben.land` | No |
 | `ben.wtf` | Yes |
 | `benatar.ovh` | No |
-| `benbailey.me` | No |
+| `benbailey.me` | Yes |
 | `benboeckel.net` | No |
 | `benborges.xyz` | Yes |
 | `benboyd.us` | No |
@@ -8864,6 +8864,7 @@ Here's a list of public Fediverse services.
 | `disappointment.co` | Yes |
 | `disappointment.fail` | No |
 | `disaster.bi` | No |
+| `disbursement.center` | No |
 | `discant.net` | Yes |
 | `discloud.one` | No |
 | `disco.camp` | No |
@@ -11752,6 +11753,7 @@ Here's a list of public Fediverse services.
 | `fjara.re` | No |
 | `fjerland.no` | No |
 | `fjmil.com` | No |
+| `fjordur.net` | Yes |
 | `fk.ms` | Yes |
 | `fkeinsten.de` | No |
 | `fkfd.me` | No |
@@ -36304,6 +36306,7 @@ Here's a list of public Fediverse services.
 | `thisdayinaviation.com` | Yes |
 | `thisdevfucks.com` | No |
 | `thisgay.earth` | No |
+| `thisguy.wtf` | No |
 | `thisiscowboy.io` | No |
 | `thisisgoodcontent.com` | Yes |
 | `thisisgvrt.me` | Yes |
@@ -40337,6 +40340,7 @@ Here's a list of public Fediverse services.
 | `xn--99axc.xn--y9a3aq` | Yes |
 | `xn--9h5bn01a.net` | Yes |
 | `xn--alatoire-c1a.net` | No |
+| `xn--b4h400bgey186p.st` | Yes |
 | `xn--baw-joa.social` | No |
 | `xn--blu-bma.ga` | No |
 | `xn--brd-zma.app` | No |
@@ -41414,8 +41418,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,446 |
-| Normal | 30,925 |
+| Cloudflare | 10,449 |
+| Normal | 30,926 |
 
 
-### 25.2% of public Fediverse services are using Cloudflare.
+### 25.3% of public Fediverse services are using Cloudflare.
