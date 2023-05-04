@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,263 |
+| com | 6,264 |
 | social | 3,999 |
 | net | 3,173 |
-| org | 2,197 |
+| org | 2,198 |
 | de | 2,081 |
 
 
@@ -17162,6 +17162,7 @@ Here's a list of public Fediverse services.
 | `jennisspace.com` | Yes |
 | `jenot.info` | No |
 | `jenovarain.com` | No |
+| `jenrweb.com` | No |
 | `jens-bertrams.de` | No |
 | `jensdiemer.de` | No |
 | `jensencloud.net` | No |
@@ -39522,6 +39523,7 @@ Here's a list of public Fediverse services.
 | `whatever.cat` | No |
 | `whatever.cz` | Yes |
 | `whatif.org.uk` | Yes |
+| `whatiwanttoknow.org` | No |
 | `whatley.social` | Yes |
 | `whatshallwedowithout.us` | No |
 | `whatsupeh.ca` | No |
@@ -41418,7 +41420,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,449 |
-| Normal | 30,925 |
+| Normal | 30,927 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
