@@ -3308,6 +3308,7 @@ Here's a list of public Fediverse services.
 | `barriohacker.net` | No |
 | `barrir.ca` | No |
 | `barrow.social` | No |
+| `barrowof.gay` | No |
 | `barrucadu.co.uk` | No |
 | `barry-moore-ii.com` | No |
 | `barrygrahamauthor.site` | No |
@@ -22719,6 +22720,7 @@ Here's a list of public Fediverse services.
 | `metta.pub` | Yes |
 | `metu.life` | No |
 | `metube.ch` | No |
+| `metus.ca` | Yes |
 | `metznet.ca` | Yes |
 | `meu.space` | No |
 | `meuschke.cloud` | No |
@@ -41412,8 +41414,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,445 |
-| Normal | 30,924 |
+| Cloudflare | 10,446 |
+| Normal | 30,925 |
 
 
 ### 25.2% of public Fediverse services are using Cloudflare.
