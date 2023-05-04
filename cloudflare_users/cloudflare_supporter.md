@@ -7649,6 +7649,7 @@ Do not create new issue or we will close it as duplicate.
 | [myat_libra@twitter](https://twitter.com/myat_libra/status/1390613364162842624) | advertise |
 | [myayaesin@twitter](https://twitter.com/myayaesin/status/1390430263465832450) | advertise |
 | [myazin7@twitter](https://twitter.com/myazin7/status/1378303362303688705) | advertise |
+| [mybabep@twitter](https://twitter.com/mybabep/status/1654095823209222144) | advertise |
 | [MyEcoria@twitter](https://twitter.com/MyEcoria/status/1625258862201774081) | advertise |
 | [MyeikPyae@twitter](https://twitter.com/MyeikPyae/status/1390309179072516098) | advertise |
 | [myfutur70735977@twitter](https://twitter.com/myfutur70735977/status/1390130425838723074) | advertise |
@@ -9709,6 +9710,7 @@ Do not create new issue or we will close it as duplicate.
 | [royalcommando1@twitter](https://twitter.com/royalcommando1/status/1399602265934028801) | advertise |
 | [royalja40697482@twitter](https://twitter.com/royalja40697482/status/1403734511729315840) | advertise |
 | [royal_blood1506@twitter](https://twitter.com/royal_blood1506/status/1392355606825115655) | advertise |
+| [RoyUderrizal@twitter](https://twitter.com/RoyUderrizal/status/1654103641668849666) | advertise |
 | [RoyysHD1195@twitter](https://twitter.com/RoyysHD1195/status/1552070037196144640) | advertise |
 | [roy_souryaraj@twitter](https://twitter.com/roy_souryaraj/status/1399422906002640904) | advertise |
 | [RozeBlade@twitter](https://twitter.com/RozeBlade/status/1541892699673985025) | advertise |
