@@ -2380,18 +2380,23 @@ api.owxd.xyz
 apigw.ontidwit.com
 app.response.oracle-mail.com
 app1.okekomp.com
+apple-uat.internal.onnephroflow.com
 assert.on365.mobi
 auth.ookamikun.tv
 auth.oppacu.com
 auth.optum.com.br
 auth.ourmember.vip
+auth.webrdp.opc-asp.de
 autodiscover.onemorebasvuru.com
 autodiscover.onitroofing.com.au
 avdistribuidora.omeudelivery.gq
+avito.avito.avito.sber.sberbank.covid19.omveterinary.com
 avito.blablacar.avito.www.git.git.covid19.ooo-medexpress.ru
 avito.blablacar.blablacar.www.git.git.covid19.ooo-medexpress.ru
+avito.sber.avito.avito.sber.sberbank.covid19.omveterinary.com
 az.osgbilling.com
 bankmandiri.omnimoz.com
+bc0789.odoo.com
 bci1.or-bit.net
 beforeupdate.ormskirkskips.co.uk
 benevento.ordingegneri.it
@@ -2503,6 +2508,7 @@ jenkins.cloud.oekopol.de
 jizakeyaryousuke.owst.jp
 jpnationn.onepage.website
 ketakio.onlinegoogleadscourse.com
+kqutvogc.opebanwo.club
 labelcloudapidev.onnicelabel.com
 leclerc-ticketing.onefirst.dev
 lighthouse.odt.net
@@ -2531,6 +2537,7 @@ mexicoerpdev.it-cpi013-rt.cfapps.us21.hana.ondemand.com
 microsoft-microsoft.oxigenoargentino.com.ar
 mili-to.owst.jp
 mini-app-ev-charge-server-service.twallet-jp.opn.dev
+monitoring.dev.omnifederal.net
 mtestrf2.ok.ru
 mymillenniumbcp3-imwrapper.cc.oneit.pt
 mysav-dotnet-app.orbility.com
@@ -2560,6 +2567,7 @@ objectstorage.sa-santiago-1.oraclecloud.com
 objectstorage.sa-saopaulo-1.oraclecloud.com
 objectstorage.us-ashburn-1.oraclecloud.com
 objectstorage.us-phoenix-1.oraclecloud.com
+observatoriodablogosfera.org
 observer-reporter.com
 observethisservice.net
 obsteslieburvey.com
@@ -2569,6 +2577,7 @@ ochaugly.net
 ochokko.co.uk
 ochost.in
 ochringtensor.com
+ocodigodablaze.online
 ocrepusculo.com
 octanmystes.com
 oddanduntold.com
@@ -2593,6 +2602,7 @@ ofhappinyer.com
 ofhypnoer.com
 oga.ogatrack.com
 ogame-tools.com
+ogrencibank.com
 ohart.wiki
 ohfoi.com
 ohfork.it
@@ -2601,6 +2611,7 @@ ohlson.se
 oic-test-hcpublicutilities.integration.ocp.oraclecloud.com
 oigduusrva.com
 oilandgasroyalties.com
+oixir.com
 okediil.com
 oki-raku.net
 okmultiservice.dk
@@ -2608,6 +2619,7 @@ okolotepla.com.ua
 oksenate.gov
 okservice.id
 oktafproduction.com
+oktan24.pl
 oktave-chratzer.de
 oktayhanmetal.com
 oktpage.com
@@ -2615,6 +2627,7 @@ olanesti-cazare.ro
 olderpeople.wales
 oldrup.dk
 oldsite.es
+oldvidz.xyz
 olisure.vn
 olivian.ro
 olsensjoservice.no
@@ -2639,6 +2652,7 @@ onboardingofficers.co.uk
 onderhoudsbedrijfbalk.nl
 one-hbs.com
 oneas1a.com
+onelearning.com.ng
 onelesbianfilms.com
 onepearlbank-official-developers.com
 onespine.my
@@ -2660,6 +2674,7 @@ ontariobiketrails.com
 ontarionature.org
 ontaxservice.com
 onthisdayinworld.com
+oo-ijzerwaren.nl
 oogneenu.net
 ooops.com.br
 ootchoft.com
@@ -2669,6 +2684,7 @@ opcinaklakar.hr
 opd.utilities-cloud.oracleindustry.com
 opdaq.com
 openhardware.science
+opensafe-transaction.com
 opensea-claim.buzz
 openticket.opensaaslive.com
 openvpn.id
@@ -2679,6 +2695,7 @@ optimalmultiservice.de
 optimalog.ru
 orangeriverwines.com
 orangesafepackerss.com
+orangmalu.org
 orangmalu.store
 orbitform.com
 orbittrustbank.com
@@ -2690,6 +2707,7 @@ orderedtabs247.com
 ordineavvocatidifermo.it
 ordineingegneri.mb.it
 ordingal.it
+ordnanceunity.nhs.uk
 orecticconchae.com
 oregonnewsstation.com
 orenda-studio.com
@@ -2703,10 +2721,13 @@ oriental-hobbies.com
 origunix.com
 orion-search.biz
 orionscoldfire.com
+orionx-acesso.site
 orthodontistinlucknow.com
 orthronsmatter.com
+orv.space
 os-middleware.onlia.ca
 osaji.net
+oscaroets.com
 oskiwood.com
 osterreicherflirtbook.com
 ostlandssamarbeidet.no
@@ -2719,7 +2740,6 @@ othello-escort.com
 oto-arackiralama.com
 otomamire.com
 otrack.co.zw
-otroblogdemarketing.com
 otrorestaurante.com
 ottohealth.com
 otwartezrodlo.pl
@@ -2748,7 +2768,9 @@ ovenbifaces.cam
 ovendao.fi
 oversight.gov
 oversightboard.com
+overstockrvparts.com
 ovitral.com
+owl-1.olypsys.com
 owlerydominos.cam
 ownsattrib.life
 oxydaserucked.com
@@ -2794,11 +2816,13 @@ server.origofazenda.com.br
 services.osakagas.co.jp
 sharepoint.t-nation.desk.onlyeguide.com
 shibuyabarukatuhanare.owst.jp
+sicher.wiregate.oh24serv.de
 smc-content.s4hana.ondemand.com
 smc-link.s4hana.ondemand.com
 smc-seb.s4hana.ondemand.com
 soapapi-ontw.onderhoudsketen.nl
 spb.optimalog.ru
+spring-api-lunar.oufdhuofv.xyz
 sr.okjob.tk
 sso.sec.test.tsi-dev.otc-service.com
 staging-api.onehouse.ai
@@ -2830,6 +2854,7 @@ vpn.oxleas.nhs.uk
 vpn.ozaukeegolf.com
 w2.outlook.com
 wccoicdev-sdrexqxi8vva-sy.integration.ocp.oraclecloud.com
+webdisk.cpadmin.s3-cp-nazwa.o12.pl
 webdisk.onitroofing.com.au
 webdisk.online-cbe.com
 webdisk.onlinemoneygorilla.com
@@ -2842,6 +2867,7 @@ werknemers.ozflexbv.nl
 whatsapp.over9k.com.br
 wowweightloss.ontraport.net
 wu-tst3.outsystemsenterprise.com
+wu5.outsystemsenterprise.com
 www-obermeyer-group-com.support-php-autoupdate.review.ober-sys.de
 www-q.okeihan.net
 www.account.orunmilafoundation.org
@@ -2860,12 +2886,14 @@ www.delivery.ocardapio.app
 www.digicontrol.ozonetech.hu
 www.e-payments.oney.com
 www.flashbackpestcontrol.osam-dev.co.uk
+www.fox.official-stream.com
 www.git.gitlab.cms.onlinesaprevodom.co
 www.git.gitlab.git.git.git.git.b2b.olympiadwrestling.com
 www.git.gitlab.git.git.nlzmx5fjimr2eq6.dev-app.olimp-shop.net
 www.gitlab.git.gitlab.gitlab.min.ooo-medexpress.ru
 www.gitlab.min.ooo-medexpress.ru
 www.hama-chi.ordiservice.ca
+www.helpdesk.officium.hu
 www.hoobank.officialluckyone.com
 www.manabi.city.osaka.lg.jp
 www.masterpost.ofertino.ro
@@ -2901,6 +2929,7 @@ www.okmultiservice.dk
 www.okservice.id
 www.oktafproduction.com
 www.oktakala.ir
+www.oktan24.pl
 www.oktave-chratzer.de
 www.oktayhanmetal.com
 www.olanesti-cazare.ro
@@ -2939,6 +2968,7 @@ www.ops.org
 www.optimalmultiservice.de
 www.optimalworkshop.com
 www.opusanglicanumembroidery.com
+www.orangebank.fr
 www.orbe.ch
 www.orderdiscourse.coffee
 www.orders.wpsupport.ollyo.net
@@ -2972,6 +3002,7 @@ www.owncontrol.nl
 www.oxfamindia.org
 www.oxfordescorts.co.uk
 www.ozie.co.jp
+www.praiavirgemhostel.com.br.oseudelivery.app.br
 www.rahayu-sport.onstream4k.com
 www.safeandsoundpenzance.osam-dev.co.uk
 www.secure.onemedplace.com
@@ -3090,7 +3121,6 @@ lisacorduff.ontralink.net
 m.ocbcwhmac.com
 manannan.outlookdev.co.uk
 matls-sso.openbanking.org.uk
-monitoring-aws.omnicasa.com
 monitoring.cios-iris.optim-test.com
 monitoring.kilkenny.oimesh.cloud
 monitoring.lss.oimesh.cloud
