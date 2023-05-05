@@ -39,7 +39,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | alidns.com | No |
 | alloxr.info | No |
 | almir1904.eu | Yes |
-| alvosec.com | Yes |
 | ambiya.net | Yes |
 | amlegion.org | No |
 | andrewnw.xyz | Yes |
@@ -183,7 +182,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | iamninja.ru | No |
 | ihatemy.live | Yes |
 | iij.jp | Yes |
-| ikataruto.com | No |
 | imaicool.com | No |
 | in-berlin.de | No |
 | indust.me | Yes |
@@ -191,7 +189,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | invisv.com | No |
 | ipv6dns.com | No |
 | irre.li | No |
-| irumatech.com | Yes |
 | itdept.pro | Yes |
 | jackyes.ovh | No |
 | jamesxue.xyz | No |
@@ -246,7 +243,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | murgi.de | No |
 | muxinghe.cn | Yes |
 | muxyuji.ru | No |
-| mydns.network | Yes |
 | myds.me | No |
 | myfritz.net | No |
 | myon.lu | No |
@@ -345,7 +341,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tk31z.com | Yes |
 | tls-data.de | No |
 | toairs.com | No |
-| totoro.pub | Yes |
 | truong.fi | Yes |
 | tu-bs.de | No |
 | twnic.tw | No |
@@ -379,8 +374,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 170 |
-| Normal | 190 |
+| Cloudflare | 166 |
+| Normal | 189 |
 
 
-### 47.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
