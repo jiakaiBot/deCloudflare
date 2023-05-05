@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [mod-init Attempting to run Docker Modification Logic](https://github.com/linuxserver/docker-swag/issues/367)
 - [Obsolete CN Tile model and ngrok tunnel start error](https://github.com/Linaqruf/vladmandic-webui-colab/issues/1)
 - [Turbo Drive issue with Cloudflare](https://github.com/hotwired/turbo-rails/issues/461)
 - [No available user found](https://github.com/calcom/docker/issues/240)
