@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,267 |
-| social | 4,001 |
-| net | 3,175 |
+| com | 6,270 |
+| social | 4,002 |
+| net | 3,176 |
 | org | 2,201 |
 | de | 2,081 |
 
@@ -681,6 +681,7 @@ Here's a list of public Fediverse services.
 | `a.nom.pl` | No |
 | `a.sc` | No |
 | `a0s.de` | No |
+| `a10talk.com` | Yes |
 | `a11k.net` | No |
 | `a11y.fr` | No |
 | `a11y.info` | No |
@@ -10643,6 +10644,7 @@ Here's a list of public Fediverse services.
 | `etimon.app` | No |
 | `etke.cc` | No |
 | `etkmusic.dance` | No |
+| `etn.icu` | Yes |
 | `etnedal.net` | No |
 | `etnedal.social` | No |
 | `etotot.xyz` | No |
@@ -12604,6 +12606,7 @@ Here's a list of public Fediverse services.
 | `full-cyber.com` | No |
 | `full-house.de` | No |
 | `fullhosting.eu` | No |
+| `fullmoonrva.com` | Yes |
 | `fullstackgeek.tech` | No |
 | `fullstuck.net` | No |
 | `fulltermprivacy.com` | No |
@@ -14206,6 +14209,7 @@ Here's a list of public Fediverse services.
 | `guia.nom.br` | Yes |
 | `guictx.com` | No |
 | `guiling.me` | No |
+| `guillemette.social` | No |
 | `guimik.fr` | No |
 | `guin.ovh` | No |
 | `guineapig.party` | No |
@@ -15285,6 +15289,7 @@ Here's a list of public Fediverse services.
 | `hokuto.social` | No |
 | `hokutodon.co` | No |
 | `hokutodon.com` | No |
+| `hola-soy-milk.online` | No |
 | `holdman.co` | No |
 | `holdmybeer.solutions` | Yes |
 | `holdtai.tw` | No |
@@ -16380,6 +16385,7 @@ Here's a list of public Fediverse services.
 | `inspiredlife.fun` | Yes |
 | `instaart.org` | No |
 | `instadon.ru` | No |
+| `instafops.net` | No |
 | `instance.business` | No |
 | `instance.community` | Yes |
 | `instance.digital` | No |
@@ -18258,6 +18264,7 @@ Here's a list of public Fediverse services.
 | `kerneltrick.org` | No |
 | `kernkraft.social` | No |
 | `kernvillecowork.social` | No |
+| `kerosyn.link` | No |
 | `kerr.social` | No |
 | `kersny.com` | No |
 | `kertho.me` | Yes |
@@ -22200,6 +22207,7 @@ Here's a list of public Fediverse services.
 | `mattone.net` | No |
 | `mattpedals.bike` | No |
 | `mattrnet.org` | No |
+| `mattrva.com` | Yes |
 | `matts.network` | No |
 | `mattstenson.com` | Yes |
 | `mattstodon.xyz` | Yes |
@@ -24378,6 +24386,7 @@ Here's a list of public Fediverse services.
 | `mycloud.site` | Yes |
 | `myco.social` | No |
 | `myco.systems` | No |
+| `mycology.party` | No |
 | `myconan.net` | Yes |
 | `mycorrhizal.earth` | No |
 | `mycozy.space` | No |
@@ -32306,6 +32315,7 @@ Here's a list of public Fediverse services.
 | `serenitytoo.com` | No |
 | `sergal.org` | Yes |
 | `sergeant.net` | Yes |
+| `serginho.dev` | Yes |
 | `sergio101.com` | No |
 | `sergiomoraesj.com` | No |
 | `sergiosgc.com` | Yes |
@@ -41438,8 +41448,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,452 |
-| Normal | 30,943 |
+| Cloudflare | 10,457 |
+| Normal | 30,948 |
 
 
-### 25.2% of public Fediverse services are using Cloudflare.
+### 25.3% of public Fediverse services are using Cloudflare.
