@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,270 |
+| com | 6,271 |
 | social | 4,002 |
 | net | 3,176 |
 | org | 2,202 |
@@ -5032,6 +5032,7 @@ Here's a list of public Fediverse services.
 | `burzum.ch` | No |
 | `bus-hit.me` | No |
 | `busaiku.com` | No |
+| `busene.dk` | No |
 | `bushi.moe` | No |
 | `bushidodreams.com` | No |
 | `bushiroad.space` | Yes |
@@ -27182,6 +27183,7 @@ Here's a list of public Fediverse services.
 | `ourlittle.space` | No |
 | `ourmemory.sbs` | Yes |
 | `ouroboros.monster` | No |
+| `ourpublicassembly.com` | No |
 | `ours-inculte.fr` | No |
 | `ourselves.space` | Yes |
 | `oursky.social` | No |
@@ -41457,7 +41459,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,458 |
-| Normal | 30,955 |
+| Normal | 30,957 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
