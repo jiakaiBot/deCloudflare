@@ -8534,6 +8534,7 @@ Here's a list of public Fediverse services.
 | `detoffol.com` | No |
 | `detomu.net` | No |
 | `detrended.net` | Yes |
+| `detroit.lol` | No |
 | `detroitriotcity.com` | Yes |
 | `dettenheim.social` | No |
 | `dettoxx.com` | No |
@@ -16427,6 +16428,7 @@ Here's a list of public Fediverse services.
 | `intergalactic.social` | No |
 | `interhacker.space` | No |
 | `interhop.org` | No |
+| `interior.edu.uy` | No |
 | `interlace.space` | No |
 | `interlinked.me` | No |
 | `intermittent.network` | No |
@@ -41462,7 +41464,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,459 |
-| Normal | 30,959 |
+| Normal | 30,961 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
