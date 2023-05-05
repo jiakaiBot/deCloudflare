@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Obsolete CN Tile model and ngrok tunnel start error](https://github.com/Linaqruf/vladmandic-webui-colab/issues/1)
+- [Turbo Drive issue with Cloudflare](https://github.com/hotwired/turbo-rails/issues/461)
 - [No available user found](https://github.com/calcom/docker/issues/240)
 - [Cloudflare Workers: I/O error when using global Apollo Client](https://github.com/apollographql/apollo-client/issues/10838)
 - [Crash with ChatAgent and BufferMemory](https://github.com/hwchase17/langchainjs/issues/1126)
