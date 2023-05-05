@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [No available user found](https://github.com/calcom/docker/issues/240)
 - [Cloudflare Workers: I/O error when using global Apollo Client](https://github.com/apollographql/apollo-client/issues/10838)
 - [Crash with ChatAgent and BufferMemory](https://github.com/hwchase17/langchainjs/issues/1126)
 - [Resolve plugin-traefik-real-ip issues.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/57872)
