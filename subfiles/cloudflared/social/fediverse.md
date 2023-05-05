@@ -9210,6 +9210,7 @@ Here's a list of public Fediverse services.
 | `donttrust.me` | No |
 | `donut.quest` | No |
 | `donut0711.ga` | No |
+| `doo.gay` | Yes |
 | `doobie.cafe` | No |
 | `dood.net` | No |
 | `doodlehub.de` | No |
@@ -41463,7 +41464,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,459 |
+| Cloudflare | 10,460 |
 | Normal | 30,961 |
 
 
