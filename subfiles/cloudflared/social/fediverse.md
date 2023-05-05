@@ -25418,7 +25418,7 @@ Here's a list of public Fediverse services.
 | `night.coffee` | No |
 | `nightcord.de` | Yes |
 | `nightcore.monster` | No |
-| `nightis.land` | Yes |
+| `nightis.land` | No |
 | `nightmare.digital` | No |
 | `nightmare.haus` | No |
 | `nightmare.zone` | No |
@@ -40112,6 +40112,7 @@ Here's a list of public Fediverse services.
 | `wuast24.de` | Yes |
 | `wuatek.is` | No |
 | `wub.site` | No |
+| `wubba.boo` | Yes |
 | `wubbel.social` | Yes |
 | `wubrg.social` | No |
 | `wue.social` | No |
@@ -41449,7 +41450,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,457 |
-| Normal | 30,948 |
+| Normal | 30,949 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
