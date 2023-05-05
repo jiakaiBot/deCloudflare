@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,271 |
+| com | 6,272 |
 | social | 4,002 |
 | net | 3,176 |
 | org | 2,202 |
-| de | 2,082 |
+| de | 2,083 |
 
 
 - Mastodon, Pleroma, etc
@@ -8157,6 +8157,7 @@ Here's a list of public Fediverse services.
 | `ddnss.eu` | No |
 | `ddnss.org` | No |
 | `ddo.jp` | Yes |
+| `ddoskey.com` | No |
 | `ddsc.life` | No |
 | `ddsec.de` | No |
 | `ddtcc.vip` | No |
@@ -9298,6 +9299,7 @@ Here's a list of public Fediverse services.
 | `downey.family` | No |
 | `downey.net` | No |
 | `downtime.club` | No |
+| `dox.land` | Yes |
 | `dox.tf` | Yes |
 | `doxa.jp` | No |
 | `doxa.team` | Yes |
@@ -13637,6 +13639,7 @@ Here's a list of public Fediverse services.
 | `gmem.ca` | Yes |
 | `gmr.news` | No |
 | `gn-tronics.dev` | No |
+| `gnampftoast.de` | No |
 | `gnarfhead.social` | No |
 | `gnarlen.us` | Yes |
 | `gndec.ac.in` | No |
@@ -41458,8 +41461,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,458 |
-| Normal | 30,957 |
+| Cloudflare | 10,459 |
+| Normal | 30,959 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
