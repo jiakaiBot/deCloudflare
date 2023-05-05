@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,270 |
 | social | 4,002 |
 | net | 3,176 |
-| org | 2,201 |
+| org | 2,202 |
 | de | 2,082 |
 
 
@@ -1723,6 +1723,7 @@ Here's a list of public Fediverse services.
 | `amnesiak.org` | No |
 | `amnz.jp` | No |
 | `amodernist.com` | No |
+| `amok.today` | No |
 | `amongtech.cc` | No |
 | `amongtheveil.com` | No |
 | `amoonrabbit.reisen` | No |
@@ -4499,6 +4500,7 @@ Here's a list of public Fediverse services.
 | `bookstodon.net` | No |
 | `booktoot.club` | No |
 | `booktoot.social` | No |
+| `bookwar.info` | No |
 | `bookwitty.social` | Yes |
 | `bookwor.ms` | No |
 | `bookwyrm.de` | No |
@@ -5785,6 +5787,7 @@ Here's a list of public Fediverse services.
 | `charlesbeadle.tech` | No |
 | `charlestown.social` | No |
 | `charli.info` | No |
+| `charli.io` | No |
 | `charlie.software` | No |
 | `charliedeets.photo` | No |
 | `charmed.social` | No |
@@ -26071,6 +26074,7 @@ Here's a list of public Fediverse services.
 | `nthia.dev` | No |
 | `nthomas20.net` | No |
 | `nti.social` | No |
+| `ntiago.space` | Yes |
 | `ntic.fr` | No |
 | `ntk.so` | No |
 | `ntnu.no` | Yes |
@@ -29529,6 +29533,7 @@ Here's a list of public Fediverse services.
 | `quantizr.com` | No |
 | `quantube.win` | Yes |
 | `quantum-business.social` | No |
+| `quantum-integration.org` | No |
 | `quantumforest.com` | No |
 | `quantumheap.net` | No |
 | `quantumindigo.org` | Yes |
@@ -41451,8 +41456,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,457 |
-| Normal | 30,951 |
+| Cloudflare | 10,458 |
+| Normal | 30,955 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
