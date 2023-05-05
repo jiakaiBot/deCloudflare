@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,002 |
 | net | 3,176 |
 | org | 2,201 |
-| de | 2,081 |
+| de | 2,082 |
 
 
 - Mastodon, Pleroma, etc
@@ -32017,6 +32017,7 @@ Here's a list of public Fediverse services.
 | `scriptjunkie.us` | No |
 | `scritches.social` | No |
 | `scriu.cat` | No |
+| `scrivimi.ch` | No |
 | `scronch.com` | No |
 | `scronkfinkle.net` | Yes |
 | `scrubjay.social` | Yes |
@@ -37861,6 +37862,7 @@ Here's a list of public Fediverse services.
 | `ugrash.org` | No |
 | `uguu.io` | No |
 | `uguu.ltd` | No |
+| `uhc-elster.de` | No |
 | `uhh.monster` | No |
 | `uhlig.it` | No |
 | `uhlig.social` | No |
@@ -41450,7 +41452,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,457 |
-| Normal | 30,949 |
+| Normal | 30,951 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
