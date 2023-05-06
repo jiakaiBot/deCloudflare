@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,276 |
-| social | 4,004 |
+| com | 6,277 |
+| social | 4,005 |
 | net | 3,181 |
 | org | 2,203 |
 | de | 2,084 |
@@ -13310,6 +13310,7 @@ Here's a list of public Fediverse services.
 | `georgepestell.com` | No |
 | `georgewashy.com` | Yes |
 | `georgi.family` | No |
+| `geppaku.com` | No |
 | `ger.social` | No |
 | `geraffel.net` | No |
 | `geraffel.social` | No |
@@ -13962,6 +13963,7 @@ Here's a list of public Fediverse services.
 | `graphsec.space` | No |
 | `grappler.social` | No |
 | `grappling.ca` | No |
+| `gras.social` | No |
 | `grasserisen.de` | No |
 | `grassroot.space` | No |
 | `grasstruths.co.za` | No |
@@ -41488,7 +41490,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,471 |
-| Normal | 30,973 |
+| Normal | 30,975 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
