@@ -3134,6 +3134,7 @@ auth.kludt.info
 auth.krauss-stefan.de
 auth.vpn.krzysztofozog.com
 authelia.krassimir.dev
+autodiscover.b2b.kinitro-exartimata.gr
 autodiscover.kabarbonekpersebaya.com
 autodiscover.kangs1600.site
 autodiscover.khimel.in
@@ -3260,6 +3261,7 @@ goole.kring.store
 gryaab.kravportal.se
 guide1.kaspi.kz
 haikko-staging-vm01.karhuhosting.fi
+haus.kohlhoff.org
 hclhealthcare.karexpert.com
 ib.kagin.co.jp
 iccm.kebhana.com
@@ -3276,7 +3278,9 @@ k2reme.com
 k68tkg.com
 kabarbaru.co
 kabarsdgs.com
+kadokado.io
 kagetnews.com
+kajacouture.net
 kakedashiweb.site
 kakkotsuke.shop
 kalibags.com
@@ -3339,10 +3343,12 @@ kemas.in
 kemasanpaket.com
 kemetium.com
 kentsgeneratorservice.com
+kentvansecurity.co.uk
 kepple.gift
 ketcau-stc.com
 ketoblastgummybears.net
 ketodis.com
+ketolasso.fun
 ketv.com
 key-services.ro
 keyaccount.web.id
@@ -3380,6 +3386,7 @@ kinaowhanganuiatara.nz
 kindjalvitalic.com
 kindynos.org
 kineckekyu.com
+king388.asia
 kingbet86.top
 kingchuen.com
 kingdyno.net
@@ -3396,6 +3403,7 @@ kirimpaket.my.id
 kisankartbill.com
 kitabghr.com
 kitadelivery.cl
+kitchensbykenryan.com
 kitoki-inn.com
 kitokit.com
 kitrigthy.com
@@ -3409,12 +3417,14 @@ kl-tili-ja-toimisto.fi
 klanordshore.com
 klantactie.be
 klantwebsite.nl
+klcallgirl.net
 kledingbankamstelland.nl
 kleinstekamertje.nl
 klenhosnc.com
 klient-freshwww.eu
 klikbank.net
 klikblox.com
+klikoke.net
 klikuhr.shop
 klimaservisairsolution.rs
 klimastiftelsen.no
@@ -3469,6 +3479,8 @@ kopiindividu.shop
 kopisehari.shop
 kopisetiaphari.shop
 kopisuperenak.shop
+koran-metro.com
+koranmanado.co.id
 korusigorta.com.tr
 korusigortaportal.com
 kosmetologg-spb.online
@@ -3485,7 +3497,6 @@ krishnatourtaxiservice.com
 kristosh.eu
 kristyscookery.com
 krizireg.shop
-krjaplus.com
 krokor.shop
 krunamphung.com
 kryptonsecurity.co.za
@@ -3532,6 +3543,7 @@ mobile.kaspi.kz
 moderplatform.kozelo.com
 money-changer.app.kaymedia.net
 museum.kirinholdings.com
+my.kitrgpd.fr
 new.kinitro.org
 nflshop.k77v.net
 nimfapi.kfintech.com
@@ -3591,6 +3603,7 @@ sber.sber.sber.avito.avito.sber.aviavicovid19.kleinformart.com
 sber.sber.sber.sber.aviavicovid19.kleinformart.com
 sberbank.avito.avito.avito.sber.covid19.kozlovaresult.com
 sberbank.avito.avito.blablacar.www.covid19.kpd101studio.com
+sberbank.avito.avito.sber.avito.sber.covid19.kpd101studio.com
 sberbank.avito.avito.sber.avito.www.covid19.karuseldetstva.ru
 sberbank.avito.sber.avito.sber.sber.covid19.karuseldetstva.ru
 sberbank.avito.sber.sber.avito.www.covid19.karuseldetstva.ru
@@ -3624,9 +3637,11 @@ staging-stripe.kinjo.com
 staging.api-server.kyuncall.com
 stardesign11.komit.link
 subdomain.kontorexdata.se
+tabs-dev.krc.mn
 tesla.kino-teka.ru
 test.khimich.dev
 testikano.kravportal.se
+thebigfatwitch.kpl128.co.uk
 totalenergiespauwf.k-welcome.com
 track.knltrck.com
 tracking.karri.com.mx
@@ -3646,6 +3661,7 @@ v2.widget.kion.ru
 vbl647.keap-link008.com
 vbl647.keap-link011.com
 vnitro.keenetic.link
+vpn-test.keenetic.pro
 vulcan.kinex11.info
 web.dev.kr.karrotpay.com
 web.djpk.kemenkeu.go.id
@@ -3682,6 +3698,7 @@ www.bank.kadalitech.com
 www.bank.kardashianfinance.com
 www.banking.kojotechs.com
 www.billie-and-steve-1.kellyhazlettphotography.co.uk
+www.breakingbreadfoodbank.killerfootball.co.uk
 www.bsnserver.kunstgebitservice.info
 www.chelsea-chase.kellyrowephotography.com
 www.city.kashiwa.lg.jp
@@ -3746,6 +3763,7 @@ www.key.aero
 www.keyence-foundation.or.jp
 www.keyframeschoolpayment.it
 www.keynotemn.com
+www.keysupport.com.au
 www.kgdev.pl
 www.ki-tech.global
 www.kielipankki.fi
@@ -3754,6 +3772,7 @@ www.kijiji.ca
 www.kimonomachi.co.jp
 www.kindredspirtpoolservice.com
 www.kingtechnicalapparel.com
+www.kinseytreeservice.com
 www.kipbradley.com
 www.kiralikforkliftkiralama.net
 www.kiribermack.com
@@ -3839,6 +3858,7 @@ www.sv-tora.kundenprojekte-ab-2020.de
 www.testikano.kravportal.se
 www.vaalhawksandsecurity.kjoonline.co.za
 www.violetbirthdayservice.konyvtipp.hu
+xl187.keap-link008.com
 yahoo-pro-verificationmaildomainservicenb.weebly.com.koji.sh
 abrechnung.kbstn.io
 alert.kramerundcrew.de
