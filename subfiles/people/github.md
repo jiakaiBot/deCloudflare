@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Self-host port appearing behind](https://github.com/PluginBugs/Issues-ItemsAdder/issues/2607)
 - [To solve "Unable to fetch the response, Please try again."](https://github.com/xtekky/gpt4free/issues/479)
 - [Install error : ssh : Generate an SSH key pair >> got an unexpected keyword argument "Need bcrypt module"](https://github.com/notthebee/ansible-easy-vpn/issues/183)
 - [mod-init Attempting to run Docker Modification Logic](https://github.com/linuxserver/docker-swag/issues/367)
