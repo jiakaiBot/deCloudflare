@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,279 |
+| com | 6,281 |
 | social | 4,006 |
-| net | 3,181 |
+| net | 3,184 |
 | org | 2,203 |
 | de | 2,084 |
 
@@ -118,6 +118,7 @@ Here's a list of public Fediverse services.
 | `0x40.au` | Yes |
 | `0x41.team` | No |
 | `0x42.ch` | No |
+| `0x42.net` | No |
 | `0x4711.org` | No |
 | `0x50.ch` | No |
 | `0x520.dev` | No |
@@ -4012,6 +4013,7 @@ Here's a list of public Fediverse services.
 | `bitmycode.com` | No |
 | `bitpage.de` | No |
 | `bitplumber.de` | No |
+| `bitraten.net` | Yes |
 | `bits-und-baeume.org` | No |
 | `bits.social` | No |
 | `bitsammelwanne.de` | No |
@@ -8862,6 +8864,7 @@ Here's a list of public Fediverse services.
 | `directdon.jp` | No |
 | `directe.cat` | No |
 | `dirigibly.ltd` | No |
+| `dirigitive.com` | No |
 | `dirk.show` | Yes |
 | `dirkkelly.com` | Yes |
 | `dirkomatik.de` | No |
@@ -12712,6 +12715,7 @@ Here's a list of public Fediverse services.
 | `furry.engineering` | No |
 | `furry.fail` | Yes |
 | `furry.horse` | No |
+| `furry.lawyer` | Yes |
 | `furry.lgbt` | Yes |
 | `furry.nz` | No |
 | `furry.pet` | Yes |
@@ -15122,6 +15126,7 @@ Here's a list of public Fediverse services.
 | `hillion.co.uk` | Yes |
 | `hilltown.studio` | No |
 | `hima-jin.info` | No |
+| `himagine.club` | No |
 | `himanshuanand.com` | Yes |
 | `himasaku.net` | No |
 | `himastdon.club` | No |
@@ -19840,6 +19845,7 @@ Here's a list of public Fediverse services.
 | `letallmortalfleshfindtheirvoice.social` | No |
 | `lethani.ch` | No |
 | `lethar.gy` | No |
+| `letmetellyousomething.net` | No |
 | `letmiko.eu` | Yes |
 | `letna.dev` | No |
 | `letoine.fr` | No |
@@ -20730,6 +20736,7 @@ Here's a list of public Fediverse services.
 | `lucagasperini.net` | No |
 | `lucahammer.com` | Yes |
 | `lucaire.ovh` | No |
+| `lucamatei.com` | Yes |
 | `lucas.monster` | No |
 | `lucasjanin.com` | No |
 | `lucaspolo.dev` | No |
@@ -41494,8 +41501,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,473 |
-| Normal | 30,978 |
+| Cloudflare | 10,476 |
+| Normal | 30,982 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
