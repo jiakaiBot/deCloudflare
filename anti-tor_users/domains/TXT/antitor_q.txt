@@ -366,7 +366,6 @@ quoratoday.com
 quoteinvestigator.com
 qwik.cards
 s.ssl.qhres2.com
-services.qtc.co.th
 shopkonzept.quikfox-lab.com
 sl2-api-staging.qrioinc.com
 soytest.quarissoluciones.com
@@ -540,8 +539,10 @@ quoti.es
 quriousfly.com
 qwa3ldhn9u0t.com
 qyy.nu
+reporting.qualif.io
 revelion.qservice.md
 secure.afc.quiktrak.com
+secure.quickwebsitefix.com
 seeticketsus.queue-it.net
 server.quality-it.eu
 sms.qcertifica.com.br
@@ -581,8 +582,11 @@ www.quierouncredito.mx
 www.quintadasvendas.com
 www.quintocircolomarsala.edu.it
 www.quintocomprensivonocerainferiore.edu.it
+www.quiz-lapostemobile.fr
 www.revelion.qservice.md
+www.secure.quickwebsitefix.com
 www.spectrumfurnishing.com.quiktech.co.in
+www.theoxenhamarms.qwebsites.co.uk
 yourbooking.qantas.com.au
 accountmanager.queue-it.net
 api.node1.qnix.pl
