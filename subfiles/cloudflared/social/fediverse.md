@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,279 |
-| social | 4,005 |
+| social | 4,006 |
 | net | 3,181 |
 | org | 2,203 |
 | de | 2,084 |
@@ -30832,6 +30832,7 @@ Here's a list of public Fediverse services.
 | `ro.lt` | No |
 | `roachnotes.com` | No |
 | `road42.social` | No |
+| `roadlife.social` | Yes |
 | `roadtoad.social` | No |
 | `roamancing.com` | No |
 | `roamingstone.ch` | Yes |
@@ -41493,7 +41494,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,472 |
+| Cloudflare | 10,473 |
 | Normal | 30,978 |
 
 
