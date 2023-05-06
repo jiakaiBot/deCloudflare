@@ -12387,6 +12387,7 @@ Here's a list of public Fediverse services.
 | `freundica.de` | No |
 | `freundliches.de` | Yes |
 | `freundtech.com` | No |
+| `freyachat.eu` | No |
 | `freyhult.net` | No |
 | `freyrlepage.com` | Yes |
 | `freyssi.net` | No |
@@ -41490,7 +41491,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,471 |
-| Normal | 30,975 |
+| Normal | 30,976 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
