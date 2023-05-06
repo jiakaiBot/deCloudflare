@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,278 |
+| com | 6,279 |
 | social | 4,005 |
 | net | 3,181 |
 | org | 2,203 |
@@ -14349,6 +14349,7 @@ Here's a list of public Fediverse services.
 | `hachyderm.wtf` | No |
 | `haciendacourts.com` | Yes |
 | `hack13.me` | Yes |
+| `hack13.one` | No |
 | `hack2g2.fr` | Yes |
 | `hackabee.fr` | No |
 | `hackaday.com` | No |
@@ -19216,6 +19217,7 @@ Here's a list of public Fediverse services.
 | `kyoto-citygrid.org` | No |
 | `kyou.social` | No |
 | `kyouzai.com` | No |
+| `kypeli.com` | No |
 | `kyre.moe` | Yes |
 | `kyriog.eu` | No |
 | `kys.moe` | Yes |
@@ -41492,7 +41494,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,472 |
-| Normal | 30,976 |
+| Normal | 30,978 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
