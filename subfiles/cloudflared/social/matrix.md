@@ -75,7 +75,6 @@ Here's a list of public Matrix services.
 | synapse.hyteck.de | No |
 | matrix.jonasled.de | Yes |
 | junta.pl | Yes |
-| kitsunes.chat | Yes |
 | matrix.libreon.fr | No |
 | matrix.llamarific.social | No |
 | lugnsk.org | No |
@@ -130,8 +129,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 22 |
+| Cloudflare | 21 |
 | Normal | 81 |
 
 
-### 21.4% of public Matrix services are using Cloudflare.
+### 20.6% of public Matrix services are using Cloudflare.
