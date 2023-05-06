@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,273 |
+| com | 6,274 |
 | social | 4,004 |
-| net | 3,178 |
+| net | 3,180 |
 | org | 2,203 |
 | de | 2,084 |
 
@@ -1648,7 +1648,7 @@ Here's a list of public Fediverse services.
 | `amanogawa.work` | No |
 | `amanzi.nz` | Yes |
 | `amapin.love` | Yes |
-| `amaranth.network` | Yes |
+| `amaranth.network` | No |
 | `amaris.blue` | No |
 | `amas.dev` | No |
 | `amaseto.com` | Yes |
@@ -6127,6 +6127,7 @@ Here's a list of public Fediverse services.
 | `chungus.cc` | No |
 | `chungus.online` | Yes |
 | `chunkyguys.app` | No |
+| `chupacabrasmon.net` | No |
 | `chups.me` | No |
 | `churanova.eu` | No |
 | `churrosoft.ar` | Yes |
@@ -6335,7 +6336,7 @@ Here's a list of public Fediverse services.
 | `cloud-foo.de` | No |
 | `cloud-libre.eu` | No |
 | `cloud-native.social` | No |
-| `cloud18.xyz` | No |
+| `cloud18.xyz` | Yes |
 | `cloud68.co` | No |
 | `cloudapps.ninja` | No |
 | `cloudboard.fr` | No |
@@ -6637,7 +6638,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -22126,6 +22127,7 @@ Here's a list of public Fediverse services.
 | `matchu.dev` | No |
 | `matchy.jp` | No |
 | `matdoes.dev` | Yes |
+| `matechan.com` | Yes |
 | `matej-lach.me` | No |
 | `matemann.de` | No |
 | `matereal.eu` | No |
@@ -28830,7 +28832,7 @@ Here's a list of public Fediverse services.
 | `porpoise.social` | Yes |
 | `porsche.earth` | No |
 | `port.mk` | Yes |
-| `port0.org` | No |
+| `port0.org` | Yes |
 | `port0.xyz` | No |
 | `port443.eu` | Yes |
 | `port53.me` | Yes |
@@ -38971,6 +38973,7 @@ Here's a list of public Fediverse services.
 | `vorlon.social` | No |
 | `vorlon.space` | No |
 | `vorlonhome.world` | No |
+| `vornik.net` | Yes |
 | `vorona.ca` | No |
 | `vorpal-blade.com` | No |
 | `vost.pt` | Yes |
@@ -40225,7 +40228,7 @@ Here's a list of public Fediverse services.
 | `x41.rocks` | No |
 | `x41.social` | No |
 | `x4h.de` | No |
-| `x4s.io` | Yes |
+| `x4s.io` | No |
 | `x59.co` | No |
 | `x59.dev` | No |
 | `x59.us` | No |
@@ -41478,7 +41481,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,466 |
+| Cloudflare | 10,469 |
 | Normal | 30,969 |
 
 
