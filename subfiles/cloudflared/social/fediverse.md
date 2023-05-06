@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,275 |
+| com | 6,276 |
 | social | 4,004 |
 | net | 3,181 |
 | org | 2,203 |
@@ -2108,6 +2108,7 @@ Here's a list of public Fediverse services.
 | `aoirint.com` | Yes |
 | `aoitofu.net` | No |
 | `aokaga.work` | Yes |
+| `aomushionline.com` | No |
 | `aona.work` | No |
 | `aonyx-cinerea.fun` | No |
 | `aoq.me` | Yes |
@@ -38949,6 +38950,7 @@ Here's a list of public Fediverse services.
 | `volt.cafe` | No |
 | `volt.social` | Yes |
 | `voltage.nz` | No |
+| `voltage.vn` | No |
 | `voltagecontrol.com` | Yes |
 | `voltaicforge.com` | Yes |
 | `voluminum.net` | No |
@@ -41486,7 +41488,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,471 |
-| Normal | 30,971 |
+| Normal | 30,973 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
