@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,274 |
+| com | 6,275 |
 | social | 4,004 |
-| net | 3,180 |
+| net | 3,181 |
 | org | 2,203 |
 | de | 2,084 |
 
@@ -12513,6 +12513,7 @@ Here's a list of public Fediverse services.
 | `frootmig.net` | No |
 | `frosch03.de` | No |
 | `frost.net` | No |
+| `frostbacks.win` | No |
 | `frostedechoes.com` | Yes |
 | `frostillic.us` | No |
 | `frostis.se` | No |
@@ -23001,6 +23002,7 @@ Here's a list of public Fediverse services.
 | `mikura.cloud` | No |
 | `mikuspot.net` | No |
 | `mikuta0407.net` | No |
+| `milaine.net` | Yes |
 | `milchreislieferei.de` | No |
 | `mildcube.social` | No |
 | `mildlyfunctional.gay` | No |
@@ -29754,6 +29756,7 @@ Here's a list of public Fediverse services.
 | `ra.no` | No |
 | `ra1nb0wsec.net` | No |
 | `raa0121.info` | No |
+| `raamdev.com` | Yes |
 | `raatiniemi.me` | No |
 | `rabalyn.de` | No |
 | `rabbinicorn.com` | No |
@@ -40178,6 +40181,7 @@ Here's a list of public Fediverse services.
 | `wvac.club` | No |
 | `wwtube.net` | No |
 | `wx.social` | No |
+| `wx.watch` | No |
 | `wx4.me` | No |
 | `wxcafe.net` | No |
 | `wxcloud.social` | Yes |
@@ -41481,8 +41485,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,469 |
-| Normal | 30,969 |
+| Cloudflare | 10,471 |
+| Normal | 30,971 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
