@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,277 |
+| com | 6,278 |
 | social | 4,005 |
 | net | 3,181 |
 | org | 2,203 |
@@ -17234,6 +17234,7 @@ Here's a list of public Fediverse services.
 | `jessecrouch.com` | No |
 | `jesser.dev` | No |
 | `jesserizzo.com` | Yes |
+| `jessicajournals.com` | Yes |
 | `jessicascott.net` | No |
 | `jessicawallace.de` | No |
 | `jessidhia.dev` | Yes |
@@ -41490,7 +41491,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,471 |
+| Cloudflare | 10,472 |
 | Normal | 30,976 |
 
 
