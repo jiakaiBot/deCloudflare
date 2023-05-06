@@ -35173,6 +35173,7 @@ Here's a list of public Fediverse services.
 | `takeoverthe.world` | Yes |
 | `taker.fr` | No |
 | `takesama.com` | Yes |
+| `takesato.io` | Yes |
 | `taketodon.com` | No |
 | `takeyourmeds.xyz` | Yes |
 | `takeyu.club` | No |
@@ -41477,7 +41478,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,465 |
+| Cloudflare | 10,466 |
 | Normal | 30,969 |
 
 
