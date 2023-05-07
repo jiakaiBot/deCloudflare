@@ -6641,7 +6641,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -22671,6 +22671,7 @@ Here's a list of public Fediverse services.
 | `merab.xyz` | No |
 | `mercerist.space` | No |
 | `merci-la-police.fr` | No |
+| `mercurial.blog` | No |
 | `mercurial.solar` | No |
 | `mercury.social` | No |
 | `mercurywork.shop` | Yes |
@@ -25821,7 +25822,7 @@ Here's a list of public Fediverse services.
 | `nonbiri.social` | No |
 | `noncorporate.network` | No |
 | `nondeterministic.computer` | No |
-| `none.com` | No |
+| `none.com` | Yes |
 | `none.net` | No |
 | `nonewfriends.club` | Yes |
 | `nonexiste.net` | No |
@@ -41504,8 +41505,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,476 |
-| Normal | 30,985 |
+| Cloudflare | 10,478 |
+| Normal | 30,984 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
