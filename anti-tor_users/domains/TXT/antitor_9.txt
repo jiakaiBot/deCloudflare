@@ -146,7 +146,13 @@ clients.9rooftops.com
 git.gitlab.gitlab.blog.gitlab.demo.old.958888.ga
 gitlab.git.gitlab.store.staging.958888.ga
 ppappleads.91m2.fr
+sber.sber.sberbank.sber.avito.covid19.911templates.com
+sber.sber.sberbank.sber.sber.avito.covid19.911templates.com
+sber.sber.sberbank.sber.sber.sberbank.covid19.911templates.com
+sber.sberbank.sberbank.sber.avito.www.covid19.911templates.com
+sberbank.avito.avito.avito.www.aviavicovid19.9jadailyfeeds.com
 sberbank.avito.git.git.covid19.9jadailyfeeds.com
+sberbank.avito.sber.avito.sber.sberbank.covid19.911templates.com
 sberbank.avito.www.git.git.git.covid19.9jadailyfeeds.com
 sberbank.www.git.git.git.git.covid19.9jadailyfeeds.com
 tickets.97team.co.uk
