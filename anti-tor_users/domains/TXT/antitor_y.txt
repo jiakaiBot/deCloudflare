@@ -792,6 +792,7 @@ b92.yahoo.co.jp
 b97.yahoo.co.jp
 bananatrust-dev.yode.pro
 beyazlar1.yapimasamasi.site
+birtekbranda.yapimasamasi.site
 blablacar.sber.avito.git.git.git.covid19.youhollywood.com
 blablacar.sberbank.git.git.git.covid19.youhollywood.com
 capi.yaanimail.com
@@ -820,8 +821,10 @@ dms-bqfm7arb8breport.wc.yahoodns.net
 dms-bw9xbupzajreport.wc.yahoodns.net
 dms-c8v6jblkloreport.wc.yahoodns.net
 dms-cskgv3wgwereport.wc.yahoodns.net
+edabranda.yapimasamasi.site
 express.yesbank.in
 facture.youbidou.be
+filemanager.yurinalesso.com
 fix-wifi-settings-alert.mf-yss.yousee.dk
 gitlab.www.demo.m.yatakeaway.com
 gkkuipxdeclin0t.www.shop.ruchitakeaway-office.yatakeaway.com
@@ -893,9 +896,12 @@ webclickbank2.youtokmarketing.com
 webmail.bureauveritas.yoomultimedia.com
 www.amima-yapilan-agdayla.yeahh.com
 www.beyazlar1.yapimasamasi.site
+www.birtekbranda.yapimasamasi.site
 www.contactme.yusufhamitkaya.com
 www.contodepositomigliore.yesweweb.com
 www.db.yugioh-card.com
+www.edabranda.yapimasamasi.site
+www.gaffarhabib.ymtsindia.com
 www.gitlab.gitlab.git.11eb-af87-10c3abf9bee2.your-proxy.com
 www.helpdesk.youngbox.id
 www.home.yummydelivery.et
@@ -924,6 +930,7 @@ www.yosoytheboss.com
 www.your-server.de
 www.yourhealthcare-services.com
 www.yourquote.in
+www.yourservice.com.br
 www.yourstartupservice.com
 www.youtube-nocookie.com
 www.ysbootlegs.eu
@@ -936,6 +943,7 @@ yacadeuro.org
 yachtbot.us
 yads.yjtag.yahoo.co.jp
 yamamotocli.com
+yandex-commerce.com
 yarfinbot.ru
 yariika.com
 yasirlyhijab.com
@@ -949,7 +957,9 @@ yieldminingnft.com
 yimpolis.com
 yip.realtor
 yirok.shop
+yisafe.co
 ylavjbljpt.com
+ympclient.com
 yneew.org
 yoga-blox.com
 yogeesridle.com
@@ -959,6 +969,7 @@ yonnelautre.fr
 yorkchauffeurservice.co.uk
 yorkdefibtraining.co.uk
 yoseopawnshop.com
+yosscastillo.com
 yottlyscript.com
 youhue.com
 youmorestore.com.br
@@ -974,6 +985,7 @@ yourchangelab.com
 yourdaye.com
 yourhealthcare-services.com
 yourpaservice.com
+yourservice.com.br
 yourstartupservice.com
 yourtrax.com
 yourwebproject.net
