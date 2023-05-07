@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,283 |
+| com | 6,284 |
 | social | 4,008 |
 | net | 3,185 |
 | org | 2,203 |
@@ -1020,6 +1020,7 @@ Here's a list of public Fediverse services.
 | `adorable.space` | No |
 | `adorableweirdo.com` | No |
 | `adorsaz.ch` | No |
+| `adrelien.com` | Yes |
 | `adriaan.se` | No |
 | `adrianpaul-carrieres.fr` | No |
 | `adrianperales.com` | No |
@@ -10854,7 +10855,6 @@ Here's a list of public Fediverse services.
 | `exs.gay` | No |
 | `ext.network` | No |
 | `extec.uk` | No |
-| `extinctionrebellion.es` | No |
 | `extinctionrebellion.fr` | No |
 | `extradienst.net` | No |
 | `extraordinarygeeks.social` | No |
@@ -30583,7 +30583,6 @@ Here's a list of public Fediverse services.
 | `retroviator.com` | No |
 | `retrozone.online` | No |
 | `rettiwtkcuf.social` | No |
-| `rettuce.page` | Yes |
 | `rettungsdienst.social` | No |
 | `return12.net` | Yes |
 | `returntosander.net` | Yes |
@@ -30828,6 +30827,7 @@ Here's a list of public Fediverse services.
 | `rly.at` | No |
 | `rly.cx` | No |
 | `rly.wtf` | Yes |
+| `rm-rf.club` | No |
 | `rmac.me` | Yes |
 | `rmasoni.com` | No |
 | `rmbl.co` | No |
