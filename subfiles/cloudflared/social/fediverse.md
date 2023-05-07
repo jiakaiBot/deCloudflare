@@ -1775,6 +1775,7 @@ Here's a list of public Fediverse services.
 | `anarchmusicall.net` | No |
 | `anarchy-nomad.de` | No |
 | `anarchy.center` | Yes |
+| `anarchy.land` | Yes |
 | `anarchy.moe` | No |
 | `anarchy.radio` | No |
 | `anarchy.rocks` | No |
@@ -27387,6 +27388,7 @@ Here's a list of public Fediverse services.
 | `p2ptv.ru` | No |
 | `p2px.me` | No |
 | `p2w.social` | Yes |
+| `p3n.cc` | No |
 | `p3n.pw` | Yes |
 | `p3x.de` | No |
 | `p45.nl` | No |
@@ -34742,7 +34744,7 @@ Here's a list of public Fediverse services.
 | `sumanko.ml` | Yes |
 | `sumeru.top` | Yes |
 | `sumi.space` | Yes |
-| `sumikko.club` | No |
+| `sumikko.club` | Yes |
 | `summerlin.social` | No |
 | `summerwind.blue` | No |
 | `summoners-riftodon.jp` | No |
@@ -41526,7 +41528,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,483 |
+| Cloudflare | 10,485 |
 | Normal | 31,000 |
 
 
