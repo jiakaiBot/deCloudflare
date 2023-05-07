@@ -4580,6 +4580,7 @@ Here's a list of public Fediverse services.
 | `bostoncaucus.club` | No |
 | `bostonglobe.social` | Yes |
 | `bostonmusic.online` | No |
+| `bostonsocial.online` | Yes |
 | `bot.country` | No |
 | `bot.nu` | Yes |
 | `botany.social` | No |
@@ -31054,6 +31055,7 @@ Here's a list of public Fediverse services.
 | `ropo.jp` | No |
 | `rorea.moe` | Yes |
 | `rororo.xyz` | Yes |
+| `rorosrecipes.blog` | No |
 | `rorshok.social` | No |
 | `roryprice.me` | No |
 | `roryprice.net` | No |
@@ -39941,7 +39943,7 @@ Here's a list of public Fediverse services.
 | `wobbl.xyz` | Yes |
 | `wobbly.ninja` | Yes |
 | `woblfedi.de` | No |
-| `woblweb.de` | Yes |
+| `woblweb.de` | No |
 | `wobscale.social` | No |
 | `woefdram.nl` | No |
 | `woefdram.social` | No |
@@ -41517,7 +41519,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,480 |
-| Normal | 30,993 |
+| Normal | 30,995 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
