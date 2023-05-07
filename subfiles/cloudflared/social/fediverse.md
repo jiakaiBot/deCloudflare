@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,281 |
-| social | 4,006 |
-| net | 3,184 |
+| social | 4,007 |
+| net | 3,185 |
 | org | 2,203 |
 | de | 2,084 |
 
@@ -6641,7 +6641,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -26751,7 +26751,7 @@ Here's a list of public Fediverse services.
 | `onlydergs.de` | No |
 | `onlyfans.tokyo` | No |
 | `onlyfans.zone` | No |
-| `onlyfarms.co` | Yes |
+| `onlyfarms.co` | No |
 | `onlyfeds.cc` | Yes |
 | `onlyferas.dev` | No |
 | `onlyfounders.org` | No |
@@ -29182,6 +29182,7 @@ Here's a list of public Fediverse services.
 | `prologic.blog` | No |
 | `prometheus.quest` | No |
 | `prometheus.systems` | No |
+| `promethix.net` | Yes |
 | `promptfission.com` | No |
 | `pronovo.st` | No |
 | `proofgeist.com` | No |
@@ -35562,6 +35563,7 @@ Here's a list of public Fediverse services.
 | `technomystics.com` | Yes |
 | `technopagans.de` | No |
 | `technophobian.xyz` | No |
+| `technopolitic.social` | No |
 | `technosemiotics.net` | No |
 | `technosorcery.net` | No |
 | `techonify.uk` | No |
@@ -41501,8 +41503,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,476 |
-| Normal | 30,982 |
+| Cloudflare | 10,475 |
+| Normal | 30,985 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
