@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,283 |
-| social | 4,007 |
+| social | 4,008 |
 | net | 3,185 |
 | org | 2,203 |
-| de | 2,084 |
+| de | 2,085 |
 
 
 - Mastodon, Pleroma, etc
@@ -4136,6 +4136,7 @@ Here's a list of public Fediverse services.
 | `blahaj.solutions` | No |
 | `blahaj.world` | Yes |
 | `blahaj.zone` | No |
+| `blahajspin.lol` | Yes |
 | `blahblahblah.wtf` | No |
 | `blaho.info` | No |
 | `blahut.tech` | Yes |
@@ -5580,6 +5581,7 @@ Here's a list of public Fediverse services.
 | `cbruegg.com` | Yes |
 | `cbrx.io` | Yes |
 | `cbslocal.com` | Yes |
+| `cbulock.social` | No |
 | `cbult.space` | Yes |
 | `cbz.pw` | Yes |
 | `cc.bi` | No |
@@ -9972,6 +9974,7 @@ Here's a list of public Fediverse services.
 | `eh5.me` | Yes |
 | `ehe.ovh` | No |
 | `ehendershott.com` | No |
+| `eher.com.br` | No |
 | `ehjovan.com` | Yes |
 | `ehlo.world` | No |
 | `ehlxr.me` | Yes |
@@ -10851,6 +10854,7 @@ Here's a list of public Fediverse services.
 | `exs.gay` | No |
 | `ext.network` | No |
 | `extec.uk` | No |
+| `extinctionrebellion.es` | No |
 | `extinctionrebellion.fr` | No |
 | `extradienst.net` | No |
 | `extraordinarygeeks.social` | No |
@@ -30579,6 +30583,7 @@ Here's a list of public Fediverse services.
 | `retroviator.com` | No |
 | `retrozone.online` | No |
 | `rettiwtkcuf.social` | No |
+| `rettuce.page` | Yes |
 | `rettungsdienst.social` | No |
 | `return12.net` | Yes |
 | `returntosander.net` | Yes |
@@ -39760,6 +39765,7 @@ Here's a list of public Fediverse services.
 | `willow.cafe` | No |
 | `willtmonroe.com` | No |
 | `willtrade.org` | No |
+| `willwa.de` | No |
 | `willy.lol` | No |
 | `wilshirehosting.com` | Yes |
 | `wilshirehosting.net` | Yes |
@@ -41510,8 +41516,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,478 |
-| Normal | 30,989 |
+| Cloudflare | 10,480 |
+| Normal | 30,993 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
