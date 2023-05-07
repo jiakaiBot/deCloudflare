@@ -32177,6 +32177,7 @@ Here's a list of public Fediverse services.
 | `sebi.org` | No |
 | `sebitech.social` | No |
 | `seblog.nl` | No |
+| `sebsite.pw` | No |
 | `sebtobie.de` | No |
 | `sebwarnke.com` | No |
 | `sec.rip` | Yes |
@@ -41510,7 +41511,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,478 |
-| Normal | 30,988 |
+| Normal | 30,989 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
