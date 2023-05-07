@@ -2863,6 +2863,7 @@ Do not create new issue or we will close it as duplicate.
 | [duc990@twitter](https://twitter.com/duc990/status/1509610476057284608) | advertise |
 | [duc22697256@twitter](https://twitter.com/duc22697256/status/1401883188796952579) | advertise |
 | [duc73674673@twitter](https://twitter.com/duc73674673/status/1530602391858335744) | advertise |
+| [Ducanhloveeeee@twitter](https://twitter.com/Ducanhloveeeee/status/1655177715119706112) | advertise |
 | [ducanhtran3101@twitter](https://twitter.com/ducanhtran3101/status/1552207189040803840) | advertise |
 | [DucchungNguyen9@twitter](https://twitter.com/DucchungNguyen9/status/1552625344544247808) | advertise |
 | [Duccop4@twitter](https://twitter.com/Duccop4/status/1552912129560154112) | advertise |
@@ -5317,6 +5318,7 @@ Do not create new issue or we will close it as duplicate.
 | [KakMaruf@twitter](https://twitter.com/KakMaruf/status/1604826285242343425) | advertise |
 | [Kakuzu231@twitter](https://twitter.com/Kakuzu231/status/1392289987828146184) | advertise |
 | [kakyikoko1735@twitter](https://twitter.com/kakyikoko1735/status/1393078993641906177) | advertise |
+| [kalakzadeh@twitter](https://twitter.com/kalakzadeh/status/1655065978026225665) | advertise |
 | [Kalebpubg@twitter](https://twitter.com/Kalebpubg/status/1603774705093181440) | advertise |
 | [kalepaache2@twitter](https://twitter.com/kalepaache2/status/1538952242178539520) | advertise |
 | [kaliim9@twitter](https://twitter.com/kaliim9/status/1574867177223720960) | advertise |
@@ -6419,6 +6421,7 @@ Do not create new issue or we will close it as duplicate.
 | [LogicSpoke@twitter](https://twitter.com/LogicSpoke/status/1587832367905144833) | advertise |
 | [Logu60041860@twitter](https://twitter.com/Logu60041860/status/1539758751615713281) | advertise |
 | [Loi49922234@twitter](https://twitter.com/Loi49922234/status/1384799893655416833) | advertise |
+| [Loii03612071@twitter](https://twitter.com/Loii03612071/status/1655171746432180224) | advertise |
 | [loinguyen2408@twitter](https://twitter.com/loinguyen2408/status/1552254118227759109) | advertise |
 | [loiwjtw@twitter](https://twitter.com/loiwjtw/status/1633209819216896000) | advertise |
 | [loke_pa@twitter](https://twitter.com/loke_pa/status/1391006736404729860) | advertise |
@@ -7999,6 +8002,7 @@ Do not create new issue or we will close it as duplicate.
 | [news_scraper@twitter](https://twitter.com/news_scraper/status/1370141469613391875) | advertise |
 | [new_techo@twitter](https://twitter.com/new_techo/status/1588558475851755520) | advertise |
 | [NextAds1@twitter](https://twitter.com/NextAds1/status/1555508312602722304) | advertise |
+| [ne_____34r@twitter](https://twitter.com/ne_____34r/status/1655191577684242433) | advertise |
 | [NftfunmadeX@twitter](https://twitter.com/NftfunmadeX/status/1611882239977000960) | advertise |
 | [NFTsMintMarket@twitter](https://twitter.com/NFTsMintMarket/status/1508599297839104003) | advertise |
 | [nftsrt@twitter](https://twitter.com/nftsrt/status/1472866208814964740) | advertise |
@@ -10994,6 +10998,7 @@ Do not create new issue or we will close it as duplicate.
 | [thamdavies@twitter](https://twitter.com/thamdavies/status/1641053602205831169) | advertise |
 | [Thamos06611394@twitter](https://twitter.com/Thamos06611394/status/1404341000307232768) | advertise |
 | [thamudayanwe111@twitter](https://twitter.com/thamudayanwe111/status/1398566626904076291) | advertise |
+| [ThanakritMantim@twitter](https://twitter.com/ThanakritMantim/status/1655175972378021888) | advertise |
 | [ThanakronKamdo2@twitter](https://twitter.com/ThanakronKamdo2/status/1553423295760207872) | advertise |
 | [thanalorphanage@twitter](https://twitter.com/thanalorphanage/status/1453937649006174208) | advertise |
 | [thanathon333@twitter](https://twitter.com/thanathon333/status/1389632089910222848) | advertise |
