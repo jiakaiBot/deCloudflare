@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Simply Static's output is illegible](https://github.com/Simply-Static/simply-static/issues/148)
 - [how can i bypass spotify 403 error?](https://github.com/jinwyp/one_click_script/issues/236)
 - [Self-host port appearing behind](https://github.com/PluginBugs/Issues-ItemsAdder/issues/2607)
 - [To solve "Unable to fetch the response, Please try again."](https://github.com/xtekky/gpt4free/issues/479)
