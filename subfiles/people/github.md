@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [R2 will raise InternalError for Batch Delete Operations](https://github.com/apache/incubator-opendal/issues/2227)
 - [Feature Guide/Script for Cloudflare Pages Deployment](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/1321)
 - [Scribblehub seems completely broke](https://github.com/LNReader/lnreader-sources/issues/491)
 - [Empty Response, Captcha or Cloudflare blocking](https://github.com/ShenoudaGergis/indeed-job-scraper/issues/4)
