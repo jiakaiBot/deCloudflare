@@ -11204,6 +11204,7 @@ Do not create new issue or we will close it as duplicate.
 | [TheUnitedZone1@twitter](https://twitter.com/TheUnitedZone1/status/1644709795750879237) | advertise |
 | [thevaliyevvv@twitter](https://twitter.com/thevaliyevvv/status/1537515977809793025) | advertise |
 | [TheVaporNinja@twitter](https://twitter.com/TheVaporNinja/status/1501243621626068995) | advertise |
+| [TheVendyMachine@twitter](https://twitter.com/TheVendyMachine/status/1654989943075110912) | advertise |
 | [Thewors92308064@twitter](https://twitter.com/Thewors92308064/status/1608502705328369665) | advertise |
 | [thewyfly@twitter](https://twitter.com/thewyfly/status/1471579386520371200) | advertise |
 | [TheXiteGroup@twitter](https://twitter.com/TheXiteGroup/status/1620409460631162880) | advertise |
