@@ -1205,6 +1205,7 @@ Here's a list of public Fediverse services.
 | `aigisdon.net` | No |
 | `aike.monster` | No |
 | `aikoumasanobu.com` | No |
+| `aillust.fun` | Yes |
 | `ains-no-misskey.com` | Yes |
 | `ainsophaur.it` | No |
 | `aioo.ooo` | No |
@@ -10856,6 +10857,7 @@ Here's a list of public Fediverse services.
 | `exs.gay` | No |
 | `ext.network` | No |
 | `extec.uk` | No |
+| `extinctionrebellion.es` | No |
 | `extinctionrebellion.fr` | No |
 | `extradienst.net` | No |
 | `extraordinarygeeks.social` | No |
@@ -24736,6 +24738,7 @@ Here's a list of public Fediverse services.
 | `nanbon.eu` | No |
 | `nancengka.com` | Yes |
 | `nancy.social` | No |
+| `nand.moe` | No |
 | `nand.tk` | No |
 | `nandon.cc` | No |
 | `nandythm.com` | No |
@@ -30584,6 +30587,7 @@ Here's a list of public Fediverse services.
 | `retroviator.com` | No |
 | `retrozone.online` | No |
 | `rettiwtkcuf.social` | No |
+| `rettuce.page` | Yes |
 | `rettungsdienst.social` | No |
 | `return12.net` | Yes |
 | `returntosander.net` | Yes |
@@ -32805,6 +32809,7 @@ Here's a list of public Fediverse services.
 | `sigin.fo` | No |
 | `sigint.life` | No |
 | `sigint.sx` | No |
+| `sigma-star.io` | No |
 | `sigmaris.info` | Yes |
 | `sigmoid.social` | No |
 | `sigmundvoid.net` | Yes |
@@ -36624,6 +36629,7 @@ Here's a list of public Fediverse services.
 | `tipnacu.ch` | No |
 | `tippetarius.ru` | No |
 | `tipsyvixen.com` | No |
+| `tiri.ninja` | Yes |
 | `tirr.dev` | Yes |
 | `tisato.live` | Yes |
 | `tissink.me` | No |
@@ -41518,8 +41524,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,480 |
-| Normal | 30,995 |
+| Cloudflare | 10,483 |
+| Normal | 30,998 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
