@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,284 |
-| social | 4,008 |
+| com | 6,285 |
+| social | 4,010 |
 | net | 3,185 |
-| org | 2,203 |
+| org | 2,204 |
 | de | 2,085 |
 
 
@@ -6175,6 +6175,7 @@ Here's a list of public Fediverse services.
 | `cipherbliss.com` | No |
 | `cipherdogs.net` | No |
 | `cipioshouse.xyz` | Yes |
+| `ciprianisbsmnt.space` | No |
 | `ciprit.com` | Yes |
 | `circl.lu` | No |
 | `circl.social` | No |
@@ -9670,6 +9671,7 @@ Here's a list of public Fediverse services.
 | `dynabox.net` | No |
 | `dynamic.land` | No |
 | `dynamicfiles.de` | No |
+| `dynastie.org` | No |
 | `dyndns.org` | No |
 | `dyne.link` | No |
 | `dynip.online` | No |
@@ -13072,6 +13074,7 @@ Here's a list of public Fediverse services.
 | `gath.nz` | Yes |
 | `gathernorust.net` | No |
 | `gatorarms.net` | Yes |
+| `gatorcountry.club` | No |
 | `gattai.net` | No |
 | `gatti.ninja` | No |
 | `gattini.ninja` | No |
@@ -13425,6 +13428,7 @@ Here's a list of public Fediverse services.
 | `ghoti.com.au` | Yes |
 | `ghoti.me` | No |
 | `ghoul.one` | No |
+| `ghp.social` | No |
 | `ghsq.ga` | No |
 | `ghuntley.com` | Yes |
 | `ghz00.net` | Yes |
@@ -16486,6 +16490,7 @@ Here's a list of public Fediverse services.
 | `interzone.tw` | Yes |
 | `inthebeliefofbetter.social` | No |
 | `inthecatsdreams.xyz` | No |
+| `inthedeltawaves.blog` | No |
 | `inthedeltawaves.social` | No |
 | `intheirprime.moe` | No |
 | `intherain.club` | No |
@@ -18605,6 +18610,7 @@ Here's a list of public Fediverse services.
 | `kitunetya-ya-mastdom.com` | No |
 | `kity.wtf` | Yes |
 | `kitzmiller.social` | No |
+| `kivi.com.tr` | Yes |
 | `kivinsae.com` | Yes |
 | `kiwa.space` | No |
 | `kiwe.ch` | No |
@@ -39290,6 +39296,7 @@ Here's a list of public Fediverse services.
 | `warlocks.wang` | No |
 | `warm.rocks` | No |
 | `warmonger.de` | No |
+| `warnaars.com` | No |
 | `warnick.me` | Yes |
 | `warofart.xyz` | No |
 | `warpday.net` | Yes |
@@ -41235,6 +41242,7 @@ Here's a list of public Fediverse services.
 | `zentroverse.xyz` | Yes |
 | `zentrumderarbeit.net` | No |
 | `zenwillow.website` | No |
+| `zenzone.social` | Yes |
 | `zeonet.xyz` | No |
 | `zepa.org` | No |
 | `zepfanman.com` | No |
@@ -41528,8 +41536,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,485 |
-| Normal | 31,000 |
+| Cloudflare | 10,487 |
+| Normal | 31,006 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
