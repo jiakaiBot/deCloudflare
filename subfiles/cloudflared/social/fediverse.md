@@ -12305,6 +12305,7 @@ Here's a list of public Fediverse services.
 | `freehub.space` | No |
 | `freeipad.info` | Yes |
 | `freeiran.group` | No |
+| `freeit247.eu` | No |
 | `freelancers.online` | Yes |
 | `freeland-test-services.ml` | No |
 | `freelearner.social` | No |
@@ -16299,6 +16300,7 @@ Here's a list of public Fediverse services.
 | `infosec.land` | No |
 | `infosec.place` | No |
 | `infosec.press` | No |
+| `infosec.town` | No |
 | `infosecnerd.cc` | No |
 | `infosex.exchange` | No |
 | `infosexy.fun` | No |
@@ -41525,7 +41527,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,483 |
-| Normal | 30,998 |
+| Normal | 31,000 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
