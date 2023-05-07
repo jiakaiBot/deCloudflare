@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,282 |
+| com | 6,283 |
 | social | 4,007 |
 | net | 3,185 |
 | org | 2,203 |
@@ -297,6 +297,7 @@ Here's a list of public Fediverse services.
 | `27b6.com` | Yes |
 | `27origin.com` | Yes |
 | `283.cloud` | Yes |
+| `283.li` | No |
 | `285252.xyz` | No |
 | `28left.dev` | No |
 | `290618.xyz` | Yes |
@@ -4318,6 +4319,7 @@ Here's a list of public Fediverse services.
 | `blueskycommunity.net` | No |
 | `bluesnow.nagoya` | No |
 | `bluestar.social` | Yes |
+| `bluestreakradio.com` | No |
 | `bluetonic.org` | Yes |
 | `bluewhite.pink` | Yes |
 | `blueworlds.org` | No |
@@ -38645,6 +38647,7 @@ Here's a list of public Fediverse services.
 | `verkehrswende.social` | Yes |
 | `verkerk.social` | No |
 | `verl.xyz` | Yes |
+| `vermelho.xyz` | No |
 | `vermeulen.id.au` | No |
 | `vermona.com` | No |
 | `vermonters.club` | No |
@@ -40593,6 +40596,7 @@ Here's a list of public Fediverse services.
 | `xuv.be` | No |
 | `xvlt.net` | No |
 | `xwiki.com` | Yes |
+| `xwx.moe` | No |
 | `xx0r.eu` | No |
 | `xxhe.de` | No |
 | `xxi.bz` | No |
@@ -41506,7 +41510,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,478 |
-| Normal | 30,984 |
+| Normal | 30,988 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
