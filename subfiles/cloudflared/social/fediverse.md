@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,281 |
+| com | 6,282 |
 | social | 4,007 |
 | net | 3,185 |
 | org | 2,203 |
@@ -22791,7 +22791,7 @@ Here's a list of public Fediverse services.
 | `mewo2.com` | Yes |
 | `meww.xyz` | No |
 | `mexibang.com` | No |
-| `mexicanbold.com` | No |
+| `mexicanbold.com` | Yes |
 | `mexico-pensante.blog` | No |
 | `mexicosocial.mx` | No |
 | `mexo.pro` | No |
@@ -22836,6 +22836,7 @@ Here's a list of public Fediverse services.
 | `mi-chan.work` | No |
 | `mi-wo.site` | Yes |
 | `mi2428.net` | No |
+| `miaetam4rok.com` | No |
 | `miantiao.me` | Yes |
 | `miao.dev` | Yes |
 | `miao.social` | Yes |
@@ -41503,7 +41504,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,475 |
+| Cloudflare | 10,476 |
 | Normal | 30,985 |
 
 
