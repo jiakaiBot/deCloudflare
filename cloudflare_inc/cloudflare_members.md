@@ -663,6 +663,7 @@ Or is this merely a case of simple modesty?
 | Giuliana DeAngelis | Customer Success Manager |  |
 | Glen Maddern | Employee |  |
 | Gloria Marcu | Support Engineer |  |
+| Gonzalo Chavarri | Employee | |
 | Goutam Tamvada | Employee | |
 | Grace Lin | Special Projects |  |
 | Grant Bourzikas | Employee | |
