@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [TiptapTransformer shows error on img tag](https://github.com/ueberdosis/hocuspocus/issues/600)
+- [Nothing to reset found for provided container.](https://github.com/Le0Developer/react-turnstile/issues/14)
 - [R2 will raise InternalError for Batch Delete Operations](https://github.com/apache/incubator-opendal/issues/2227)
 - [Feature Guide/Script for Cloudflare Pages Deployment](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/1321)
 - [Scribblehub seems completely broke](https://github.com/LNReader/lnreader-sources/issues/491)
