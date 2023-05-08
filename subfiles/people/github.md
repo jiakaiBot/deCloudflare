@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [This web property is not accessible via this address (Cloudflare)](https://github.com/Metallic-Web/Metallic/issues/10)
+- [/// <reference lib="dom" /> in api-call package is globally overriding types](https://github.com/twurple/twurple/issues/507)
 - [TiptapTransformer shows error on img tag](https://github.com/ueberdosis/hocuspocus/issues/600)
 - [Nothing to reset found for provided container.](https://github.com/Le0Developer/react-turnstile/issues/14)
 - [R2 will raise InternalError for Batch Delete Operations](https://github.com/apache/incubator-opendal/issues/2227)
