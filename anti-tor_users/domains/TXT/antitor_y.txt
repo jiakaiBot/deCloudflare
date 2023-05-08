@@ -846,6 +846,7 @@ mariam.yoors.date
 mc.yandex.com
 media.yenimedya.com.tr
 monitoring.yukawa.de
+mymoodle.youcube.co.il
 mypartner-uat.yuanta.com.tw
 nitrobusinesssystems.yvecoleconsulting.com
 olyuatconsole.yesbank.in
@@ -905,6 +906,7 @@ www.gaffarhabib.ymtsindia.com
 www.gitlab.gitlab.git.11eb-af87-10c3abf9bee2.your-proxy.com
 www.helpdesk.youngbox.id
 www.home.yummydelivery.et
+www.invoice.ypamdr.com
 www.kauppa.ykkospalvelu.fi
 www.on-ekii-co-jp-adminia.linkin.yhcb.com.cn
 www.reeddiffuser.yukha.com.my
@@ -932,10 +934,12 @@ www.yourhealthcare-services.com
 www.yourquote.in
 www.yourservice.com.br
 www.yourstartupservice.com
+www.youthline.co.nz
 www.youtube-nocookie.com
 www.ysbootlegs.eu
 www.yummymummykitchen.com
 www.yurtasyardim.xyz
+www.yurttasyardim.site
 www.yzpst.net
 y6link.net
 ya62.ru
@@ -943,6 +947,7 @@ yacadeuro.org
 yachtbot.us
 yads.yjtag.yahoo.co.jp
 yamamotocli.com
+yammiia.com
 yandex-commerce.com
 yarfinbot.ru
 yariika.com
@@ -988,6 +993,7 @@ yourpaservice.com
 yourservice.com.br
 yourstartupservice.com
 yourtrax.com
+yourweb.ie
 yourwebproject.net
 youthincmag.com
 youthinvest.global
