@@ -140,7 +140,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | elbschloss.xyz | Yes |
 | elemental.software | Yes |
 | ellichua.com | No |
-| elshad-adgh-dns.ru | No |
 | emiliyan.com | Yes |
 | extrawdw.net | Yes |
 | familiamv.ml | No |
@@ -243,7 +242,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | muxinghe.cn | Yes |
 | muxyuji.ru | No |
 | myds.me | No |
-| myfritz.net | No |
 | myon.lu | No |
 | mytm.cc | No |
 | mywire.org | Yes |
@@ -374,7 +372,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 166 |
-| Normal | 188 |
+| Normal | 186 |
 
 
-### 46.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
