@@ -2127,6 +2127,7 @@ Here's a list of public Fediverse services.
 | `aoxiang.online` | Yes |
 | `aozaki.cc` | Yes |
 | `aozora.uk` | Yes |
+| `apa50.online` | No |
 | `apaphoto.social` | No |
 | `apartmenttherapy.com` | Yes |
 | `apathy.top` | No |
@@ -6650,7 +6651,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9342,7 +9343,7 @@ Here's a list of public Fediverse services.
 | `drachenhabenfluegel.de` | No |
 | `draconis.me` | No |
 | `draconix.org` | Yes |
-| `dracos.co.uk` | No |
+| `dracos.co.uk` | Yes |
 | `dracula.social` | No |
 | `draculo.net` | No |
 | `drag.li` | Yes |
@@ -41539,8 +41540,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,487 |
-| Normal | 31,009 |
+| Cloudflare | 10,489 |
+| Normal | 31,008 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
