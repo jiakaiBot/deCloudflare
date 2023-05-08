@@ -17397,6 +17397,7 @@ Here's a list of public Fediverse services.
 | `jluo.io` | Yes |
 | `jmashr.xyz` | No |
 | `jmathes.de` | No |
+| `jmb.mx` | No |
 | `jmbwell.me` | No |
 | `jmenning.com` | Yes |
 | `jmessage.org` | No |
@@ -22773,6 +22774,7 @@ Here's a list of public Fediverse services.
 | `metaphysischobdachlos.de` | No |
 | `metapixl.com` | No |
 | `metaplane.xyz` | No |
+| `metash.art` | No |
 | `metaskey.net` | Yes |
 | `metasocial.com` | No |
 | `metasyntactical.com` | No |
@@ -41553,7 +41555,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,494 |
-| Normal | 31,015 |
+| Normal | 31,017 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
