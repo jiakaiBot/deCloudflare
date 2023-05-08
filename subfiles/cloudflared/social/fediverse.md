@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,286 |
 | social | 4,010 |
-| net | 3,185 |
+| net | 3,186 |
 | org | 2,204 |
 | de | 2,085 |
 
@@ -20215,6 +20215,7 @@ Here's a list of public Fediverse services.
 | `linuxbox.ninja` | No |
 | `linuxburken.se` | Yes |
 | `linuxfabrik.io` | No |
+| `linuxfiend.net` | No |
 | `linuxflood.xyz` | No |
 | `linuxgamecast.com` | Yes |
 | `linuxgaming.fans` | No |
@@ -35779,6 +35780,7 @@ Here's a list of public Fediverse services.
 | `tertech.de` | No |
 | `terusid.com` | No |
 | `terz.at` | No |
+| `terziu.xyz` | Yes |
 | `tesaguri.club` | No |
 | `tese.la` | Yes |
 | `tesgo.fr` | No |
@@ -41537,8 +41539,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,486 |
-| Normal | 31,008 |
+| Cloudflare | 10,487 |
+| Normal | 31,009 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
