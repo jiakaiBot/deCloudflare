@@ -23,6 +23,7 @@ celonet
 cyberghost
 expressvpn
 firefox vpn
+freeopenvpn
 hideme
 hidemyass
 ibvpn
