@@ -18931,6 +18931,7 @@ Here's a list of public Fediverse services.
 | `kosen.land` | Yes |
 | `kosendon.tech` | No |
 | `koshka.io` | Yes |
+| `kosko.pw` | No |
 | `koskokompound.com` | No |
 | `kosmos.social` | No |
 | `kosmospora.de` | No |
@@ -41552,7 +41553,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,494 |
-| Normal | 31,014 |
+| Normal | 31,015 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
