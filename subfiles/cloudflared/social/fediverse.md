@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,286 |
+| com | 6,288 |
 | social | 4,010 |
 | net | 3,186 |
 | org | 2,204 |
@@ -11386,6 +11386,7 @@ Here's a list of public Fediverse services.
 | `feditalk.com` | No |
 | `fedithese.fr` | No |
 | `fedithese.net` | No |
+| `feditime.com` | No |
 | `feditoxos.eu` | No |
 | `feditrends.live` | Yes |
 | `feditube.com` | No |
@@ -15742,6 +15743,7 @@ Here's a list of public Fediverse services.
 | `hxl.io` | Yes |
 | `hxr.social` | No |
 | `hyan.ink` | Yes |
+| `hyatalk.com` | No |
 | `hybridby.design` | No |
 | `hybridenterprise.net` | No |
 | `hydracurios.space` | No |
@@ -41541,7 +41543,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,489 |
-| Normal | 31,008 |
+| Normal | 31,010 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
