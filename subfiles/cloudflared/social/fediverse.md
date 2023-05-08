@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,289 |
+| com | 6,290 |
 | social | 4,010 |
 | net | 3,186 |
 | org | 2,204 |
@@ -32068,6 +32068,7 @@ Here's a list of public Fediverse services.
 | `scramble.city` | No |
 | `scrapist.xyz` | No |
 | `scrapp.app` | No |
+| `scrappydog.com` | No |
 | `scratchingpost.xyz` | No |
 | `scream.cloud` | No |
 | `scream.supply` | No |
@@ -39717,6 +39718,7 @@ Here's a list of public Fediverse services.
 | `wickenberg.nu` | No |
 | `wicker.nz` | No |
 | `wickflix.online` | Yes |
+| `wicom.co.za` | No |
 | `wideboys.org` | Yes |
 | `widegamut.club` | No |
 | `widemus.de` | No |
@@ -41548,7 +41550,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,493 |
-| Normal | 31,011 |
+| Normal | 31,013 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
