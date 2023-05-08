@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,290 |
-| social | 4,010 |
+| social | 4,011 |
 | net | 3,186 |
 | org | 2,204 |
 | de | 2,085 |
@@ -5393,6 +5393,7 @@ Here's a list of public Fediverse services.
 | `carfulhony.com` | No |
 | `carhenge.club` | No |
 | `cariad.social` | Yes |
+| `caribe.social` | Yes |
 | `caric.io` | No |
 | `caricio.com` | No |
 | `carl.fish` | No |
@@ -26492,6 +26493,7 @@ Here's a list of public Fediverse services.
 | `oeru.org` | No |
 | `oesterreich.social` | No |
 | `oevents.co.za` | No |
+| `ofa.dog` | No |
 | `ofadam.com` | No |
 | `ofans.site` | Yes |
 | `ofbajor.com` | Yes |
@@ -41549,8 +41551,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,493 |
-| Normal | 31,013 |
+| Cloudflare | 10,494 |
+| Normal | 31,014 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
