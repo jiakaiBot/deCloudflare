@@ -10021,6 +10021,7 @@ Here's a list of public Fediverse services.
 | `eilloh.net` | No |
 | `ein-hub-von-vielen.de` | No |
 | `einbeck.social` | No |
+| `eindex.me` | Yes |
 | `eindhoven.social` | No |
 | `einemeru.com` | No |
 | `eineseite.at` | No |
@@ -40641,6 +40642,7 @@ Here's a list of public Fediverse services.
 | `xxxtumblr.org` | No |
 | `xxxxxxxxxx.xxx` | No |
 | `xxyyzzy.club` | No |
+| `xxz.li` | No |
 | `xy-space.de` | No |
 | `xy.ag` | No |
 | `xy2.wiki` | No |
@@ -41542,8 +41544,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,489 |
-| Normal | 31,010 |
+| Cloudflare | 10,490 |
+| Normal | 31,011 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
