@@ -819,6 +819,7 @@ zzfsex.lol
 zzotrack.com
 24hservice.zapweb.co.il
 acceptatie-client.zorgplatform.online
+adfs.unicreditgroup.zaba.hr
 adfs.zu.de
 api-dev.zt-ft.com
 api-shipp.zipi.app
@@ -828,6 +829,7 @@ api.zt-ft.com
 api.zurich.de
 ares.zixcentral.com
 assessments.zfco.com
+autodiscover.zandunews.in
 autodiscover.zentuber.com
 avito.avito.avito.avito.sber.git.covid19.zlclubmarket.com
 avito.avito.sber.avito.sberbank.covid19.zapusk-million.ru
@@ -845,6 +847,7 @@ baramundi.zugspitze.de
 betadrive.zoho.eu
 cache4.zapitv.com
 captcha.zerozendesign.com
+cefdasds.zyns.com
 client.zorgplatform.online
 clientes.zetaarquitetura.com.br
 contact-app.zlip2x.com
@@ -885,6 +888,7 @@ paketbersihcepat.zonawanita.com
 pay.zivameshapewear.com
 paypal.com.zd-league.com
 perr.zspeed-cdn.com
+quotemicrosoftsupport.zohosites.com
 raad.staging.zutphen.nl
 realwavecore-public-saas.gateway.zup.me
 recaptcha.zibid.io
@@ -948,6 +952,7 @@ webmail.zesebarranca.com.co
 webmail.zesebarrancabermeja.co
 webmail.zesebarrancabermeja.com
 webmail.zesebarrancabermeja.com.co
+withinoutlooktechsupport.zohosites.com
 www.24hservice.zapweb.co.il
 www.accountabuddy.zeromedia.com.au
 www.alternativnamedicina.com.mk.zemi.net.mk
@@ -965,6 +970,7 @@ www.paketbersihcepat.zonawanita.com
 www.payment.z24tv.com
 www.recovery-on-the-squa.zerohourlifecenter.org
 www.shanahotelnewyear.zinaoster.com
+www.uber.zinovylebed.com
 www.whatsapp.zenax.info
 www.z-father.co.jp
 www.za-ejendomsservice.dk
@@ -975,6 +981,7 @@ www.zeantechservice.com
 www.zeantecservices.com
 www.zeroto180.org
 www.zestfoodservice.co.uk
+www.zeta-alpha.com
 www.zeusconta.ro
 www.zionsbank.com
 www.zipcruisetours.com
@@ -985,6 +992,7 @@ www.zoomtventertainment.com
 www.zovni.ovh
 www.zwai.ie
 www.zwilnik.com
+www.zythyshria.fr
 y.l-security.zgpage.co.il
 z-sport-support.hr
 z5h64q92x9.net
@@ -1001,6 +1009,7 @@ zaiflyer.com
 zakarashop.com
 zakka-kurawanka.com
 zalando-wap.com
+zalara.fr
 zalmorestore.my.id
 zanomics.com
 zantimes.com
@@ -1018,13 +1027,16 @@ zenbalance.shop
 zenitnow376.top
 zernyatko.in.ua
 zestfoodservice.co.uk
+zeus99.asia
 zeusconta.ro
 zeuth.dk
 zhej78i1an8w6ceu.com
 zinichi.net
 zippydelivery.co.za
 zirag.shop
+zisso.co.il
 zit.academy
+zitmeubelsopmaat.nl
 ziwurag.shop
 zjazdordynatorow.pl
 zmaildirect.com
@@ -1032,9 +1044,13 @@ zmaili.me
 znsrc.com
 zoagremo.net
 zodiacappzu.mpm.zodiac-cloud.com
+zodiacsecurity.ro
 zoelashspa.com
 zokhrofaloud.com
+zominumizmatika.hu
+zona-fantasi.top
 zoohaven.no
+zoomgym.xyz
 zoroastrianonline.com
 zouloafi.net
 zp1gcfq0etmb.com
@@ -1048,6 +1064,7 @@ zwetschgenmann.de
 zws-zenkoku.jp
 zxr9gpxf7j.com
 zycienakreske.com
+zythyshria.fr
 api.zmsa-tech.com
 app.zapoj.com
 avito.avito.avito.avito.sberbank.covid19.zapusk-million.ru
