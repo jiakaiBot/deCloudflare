@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,285 |
+| com | 6,286 |
 | social | 4,010 |
 | net | 3,185 |
 | org | 2,204 |
@@ -6650,7 +6650,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -6790,6 +6790,7 @@ Here's a list of public Fediverse services.
 | `confusedyeti.com` | No |
 | `confusi.one` | No |
 | `conglomer.net` | Yes |
+| `congressionaldishsocial.com` | No |
 | `conguista.net` | No |
 | `conii.co` | Yes |
 | `coniunct.io` | Yes |
@@ -41536,8 +41537,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,487 |
-| Normal | 31,006 |
+| Cloudflare | 10,486 |
+| Normal | 31,008 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
