@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,288 |
+| com | 6,289 |
 | social | 4,010 |
 | net | 3,186 |
 | org | 2,204 |
@@ -89,6 +89,7 @@ Here's a list of public Fediverse services.
 | `0sn.net` | Yes |
 | `0svc.com` | No |
 | `0t0.xyz` | No |
+| `0taku.win` | Yes |
 | `0twitter.com` | No |
 | `0u0.fun` | No |
 | `0upti.me` | Yes |
@@ -20113,6 +20114,7 @@ Here's a list of public Fediverse services.
 | `ligthert.net` | No |
 | `ligueduzbeul.org` | No |
 | `ligun.net` | Yes |
+| `liilliil.ru` | Yes |
 | `liip.ch` | Yes |
 | `lijie.org` | Yes |
 | `likeable.space` | No |
@@ -40053,6 +40055,7 @@ Here's a list of public Fediverse services.
 | `wootton.dev` | No |
 | `woowoowoo.com` | No |
 | `woox.cc` | Yes |
+| `worctube.com` | Yes |
 | `word.builders` | No |
 | `wordcraft.social` | No |
 | `worddump.com` | Yes |
@@ -41544,7 +41547,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,490 |
+| Cloudflare | 10,493 |
 | Normal | 31,011 |
 
 
