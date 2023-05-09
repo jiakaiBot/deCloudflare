@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,295 |
+| com | 6,296 |
 | social | 4,011 |
-| net | 3,187 |
+| net | 3,188 |
 | org | 2,205 |
 | de | 2,086 |
 
@@ -16542,6 +16542,7 @@ Here's a list of public Fediverse services.
 | `inux39.me` | Yes |
 | `invalidentry.engineer` | Yes |
 | `invariant.social` | Yes |
+| `invasionx.cc` | No |
 | `inventaire.io` | No |
 | `inveos.com` | No |
 | `inverse.moe` | No |
@@ -20120,6 +20121,7 @@ Here's a list of public Fediverse services.
 | `lightlyseared.online` | No |
 | `lightning.vodka` | No |
 | `lightningcloud.io` | No |
+| `lightningv1p3r.net` | Yes |
 | `lightnoom.xyz` | No |
 | `lightnovel-dungeon.de` | No |
 | `lightnovel.jp` | No |
@@ -30906,6 +30908,7 @@ Here's a list of public Fediverse services.
 | `rob-earth.com` | No |
 | `rob.in.net` | No |
 | `rob365.online` | Yes |
+| `robandbrad.com` | No |
 | `robattrell.com` | Yes |
 | `robbevanherck.be` | No |
 | `robboss.art` | No |
@@ -31845,6 +31848,7 @@ Here's a list of public Fediverse services.
 | `sbnet.uk` | No |
 | `sbnode.com` | Yes |
 | `sboots.ca` | No |
+| `sboulema.nl` | No |
 | `sbpk.fr` | Yes |
 | `sbrk.org` | No |
 | `sbruder.xyz` | No |
@@ -34734,6 +34738,7 @@ Here's a list of public Fediverse services.
 | `sudacode.com` | Yes |
 | `sudarkoff.social` | No |
 | `sudduth.me` | No |
+| `sudo.by` | Yes |
 | `sudo.ca` | No |
 | `sudo.cat` | Yes |
 | `sudo.cx` | Yes |
@@ -36153,6 +36158,7 @@ Here's a list of public Fediverse services.
 | `thelink.family` | No |
 | `thelinuxexp.com` | No |
 | `theliturgists.com` | Yes |
+| `thelivery.racing` | No |
 | `thelmgn.com` | Yes |
 | `theloading.bar` | Yes |
 | `thelocalpub.social` | No |
@@ -36497,6 +36503,7 @@ Here's a list of public Fediverse services.
 | `thoughtcatalog.com` | Yes |
 | `thoughtful.social` | No |
 | `thoughtify.space` | No |
+| `thoughts.tf` | No |
 | `thoughtsfired.net` | Yes |
 | `thoughtshrapnel.com` | No |
 | `thoughtworks.com` | Yes |
@@ -41575,8 +41582,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,500 |
-| Normal | 31,032 |
+| Cloudflare | 10,502 |
+| Normal | 31,037 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
