@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,296 |
-| social | 4,011 |
+| social | 4,012 |
 | net | 3,188 |
 | org | 2,205 |
 | de | 2,086 |
@@ -6658,7 +6658,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9173,7 +9173,7 @@ Here's a list of public Fediverse services.
 | `dom.social` | No |
 | `dom64.xyz` | Yes |
 | `doma.dev` | No |
-| `domain-name.xyz` | No |
+| `domain-name.xyz` | Yes |
 | `domain919.net` | No |
 | `domainepublic.net` | No |
 | `domainname.social` | No |
@@ -21560,6 +21560,7 @@ Here's a list of public Fediverse services.
 | `marupost.jp` | No |
 | `marussy.com` | No |
 | `marutani.xyz` | No |
+| `marvin.saarland` | No |
 | `marvins.site` | No |
 | `marx.pm` | No |
 | `marxism.cc` | Yes |
@@ -30761,6 +30762,7 @@ Here's a list of public Fediverse services.
 | `ridgebacks.social` | Yes |
 | `ridixy.com` | Yes |
 | `riedl.net` | No |
+| `riedstadt.social` | No |
 | `riekenberg.org` | No |
 | `ries-web.de` | No |
 | `riesen.fail` | No |
@@ -41582,7 +41584,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,502 |
+| Cloudflare | 10,504 |
 | Normal | 31,037 |
 
 
