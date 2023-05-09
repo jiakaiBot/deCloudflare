@@ -37,7 +37,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | aihe.app | Yes |
 | alekberg.net | No |
 | alidns.com | No |
-| alloxr.info | No |
 | almir1904.eu | Yes |
 | ambiya.net | Yes |
 | amlegion.org | No |
@@ -368,7 +367,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 164 |
-| Normal | 184 |
+| Normal | 183 |
 
 
-### 47.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
