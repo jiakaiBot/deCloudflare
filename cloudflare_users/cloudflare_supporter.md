@@ -170,6 +170,7 @@ Do not create new issue or we will close it as duplicate.
 | [2002Pls@twitter](https://twitter.com/2002Pls/status/1388923120765919237) | advertise |
 | [2004Pubgkrish@twitter](https://twitter.com/2004Pubgkrish/status/1551869505172672512) | advertise |
 | [2005Kameha@twitter](https://twitter.com/2005Kameha/status/1601223663298424833) | advertise |
+| [2021Erfan@twitter](https://twitter.com/2021Erfan/status/1656025224477917184) | advertise |
 | [2022hoky@twitter](https://twitter.com/2022hoky/status/1559692337382469632) | advertise |
 | [4353_37@twitter](https://twitter.com/4353_37/status/1613146692542496769) | advertise |
 | [5050Tbc@twitter](https://twitter.com/5050Tbc/status/1532708767481090052) | advertise |
@@ -9779,6 +9780,7 @@ Do not create new issue or we will close it as duplicate.
 | [RushGam79575096@twitter](https://twitter.com/RushGam79575096/status/1562070681008865280) | advertise |
 | [Rushike85904039@twitter](https://twitter.com/Rushike85904039/status/1381637780657168384) | advertise |
 | [rushimovaliya@twitter](https://twitter.com/rushimovaliya/status/1400114095857094659) | advertise |
+| [Ruslan90544622@twitter](https://twitter.com/Ruslan90544622/status/1656024205819879480) | advertise |
 | [ruslan_ferrales@twitter](https://twitter.com/ruslan_ferrales/status/1450044589293834242) | advertise |
 | [ruteesh2@twitter](https://twitter.com/ruteesh2/status/1387396067554205699) | advertise |
 | [Rxchannel123@twitter](https://twitter.com/Rxchannel123/status/1597292640524902400) | advertise |
@@ -10824,6 +10826,7 @@ Do not create new issue or we will close it as duplicate.
 | [taetaewonderla1@twitter](https://twitter.com/taetaewonderla1/status/1401205775628832776) | advertise |
 | [Taeyeon47077149@twitter](https://twitter.com/Taeyeon47077149/status/1624347311735447552) | advertise |
 | [TaezZa02@twitter](https://twitter.com/TaezZa02/status/1628426642921246722) | advertise |
+| [taha_kabashi@twitter](https://twitter.com/taha_kabashi/status/1656017202020069377) | advertise |
 | [tahung12345678@twitter](https://twitter.com/tahung12345678/status/1391180261518282752) | advertise |
 | [tai25381999@twitter](https://twitter.com/tai25381999/status/1400114995506008066) | advertise |
 | [tai58342704@twitter](https://twitter.com/tai58342704/status/1557035585038012416) | advertise |
