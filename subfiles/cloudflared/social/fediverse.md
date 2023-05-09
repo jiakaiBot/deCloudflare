@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,296 |
 | social | 4,013 |
-| net | 3,189 |
-| org | 2,205 |
-| de | 2,086 |
+| net | 3,190 |
+| org | 2,206 |
+| de | 2,087 |
 
 
 - Mastodon, Pleroma, etc
@@ -6843,6 +6843,7 @@ Here's a list of public Fediverse services.
 | `constructinganarchisms.org` | No |
 | `consudon.club` | No |
 | `consumium.org` | No |
+| `consummatetinkerer.net` | No |
 | `contacthi.org` | No |
 | `containment.space` | No |
 | `content.town` | No |
@@ -20968,6 +20969,7 @@ Here's a list of public Fediverse services.
 | `lynix.ca` | Yes |
 | `lynnesbian.space` | No |
 | `lynoxus.com` | No |
+| `lynxcore.org` | No |
 | `lynxie.net` | No |
 | `lynxpebbles.me` | No |
 | `lynxruf.us` | Yes |
@@ -21563,7 +21565,6 @@ Here's a list of public Fediverse services.
 | `marupost.jp` | No |
 | `marussy.com` | No |
 | `marutani.xyz` | No |
-| `marvin.saarland` | No |
 | `marvins.site` | No |
 | `marx.pm` | No |
 | `marxism.cc` | Yes |
@@ -23774,6 +23775,7 @@ Here's a list of public Fediverse services.
 | `moosetodon.com` | No |
 | `mooseybytes.com` | No |
 | `mooshoe.me` | Yes |
+| `mooskirsch.xyz` | Yes |
 | `moot.pub` | Yes |
 | `mootech.eu` | No |
 | `mootje.be` | Yes |
@@ -26218,6 +26220,7 @@ Here's a list of public Fediverse services.
 | `nullable.space` | Yes |
 | `nullc.at` | Yes |
 | `nullcat.moe` | Yes |
+| `nulled.llc` | Yes |
 | `nulled.network` | Yes |
 | `nulled.pink` | Yes |
 | `nulled.red` | Yes |
@@ -28125,6 +28128,7 @@ Here's a list of public Fediverse services.
 | `phicode.de` | No |
 | `phie.fi` | No |
 | `phie.ovh` | No |
+| `phigro.de` | No |
 | `phijkchu.com` | No |
 | `phikai.com` | Yes |
 | `phil-ia.net` | No |
@@ -41590,8 +41594,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,506 |
-| Normal | 31,041 |
+| Cloudflare | 10,508 |
+| Normal | 31,043 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
