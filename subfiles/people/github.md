@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Gateway WebSocket API sending a 401 rather than upgrading to a WebSocket when opening a connection from a Cloudflare Worker](https://github.com/discord/discord-api-docs/issues/6145)
 - [502: fading fails to show](https://github.com/pastelsky/bundlephobia/issues/783)
 - [Permission errors upon first launch](https://github.com/autobrr/autobrr/issues/923)
 - [This web property is not accessible via this address (Cloudflare)](https://github.com/Metallic-Web/Metallic/issues/10)
