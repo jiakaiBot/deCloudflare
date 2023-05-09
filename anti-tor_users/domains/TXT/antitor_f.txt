@@ -3385,7 +3385,6 @@ fr-orangewbmail.firebaseapp.com
 fr.academy
 fr.footpopulaire-fsgt.org
 fr.frsauthappuser.com
-fractionality.com
 fraft.cn
 fragus.se
 fraigslist.com
@@ -5014,6 +5013,7 @@ zurikisi.fanbox.cc
 zv54hbo8g5.fisioactiva.co.cr
 1bbtx.secure.fundsxpress.com
 300000010974.fbo.foreverliving.com
+9a6c-sharedata-auth-0ffice.firebaseapp.com
 a34ea.fanbox.cc
 aapp.forum.cl
 abo-eakte.portal.fidelis-hr.de
@@ -5069,6 +5069,7 @@ api.facetec.com
 api.fbox.fpt.vn
 api.fidypay.com
 api.fwd.co.th
+api.loc-cse.fst.network
 apideclaration.fedex.com.cn
 apideclarationuat.fedex.com.cn
 apim-device.fetiot3s1.fetnet.net
@@ -5076,7 +5077,9 @@ app.faircheck.at
 app.faltcom.se
 app.firstcapitalonebnk.com
 app.franceconnect.gouv.fr
+app.fynkus.com
 app.learn.flexerasoftware.com
+app.stage-test.facewallet.xyz
 apparatus.fanbox.cc
 appeal-status-100642879461.firebaseapp.com
 apps.global.fortinet.com
@@ -5123,6 +5126,7 @@ autodiscover.futuroazul.org
 autodiscover.futurodeslumbrante.com
 autumnsnow.fanbox.cc
 avito.avito.avito.avito.sberbank.avito.covid19.freedomsailing.ru
+avito.avito.gitlab.covid19.flatbedtrader.com
 avito.avito.sberbank.blablacar.avito.covid19.freedomsailing.ru
 avito.avito.sberbank.sber.sber.avito.covid19.fittechsummit.com
 avito.avito.sberbank.sber.www.covid19.flatbedtrader.com
@@ -5168,6 +5172,7 @@ bremegremese.firebaseapp.com
 bridgestone-explore.feedbackferret.com
 brouklou-har-ahj-derna.firebaseapp.com
 bumper-aki.fanbox.cc
+business-confirm-appeal-bf731.firebaseapp.com
 business-confirm-appeal-e0bd1.firebaseapp.com
 business-fb-appeal-12986921.firebaseapp.com
 business-fb-appeal-12986990422.firebaseapp.com
@@ -5176,6 +5181,7 @@ business-page-appeal-1236-1289.firebaseapp.com
 business-page-appeal-16789002.firebaseapp.com
 business-page-appeal-dd6ec.firebaseapp.com
 business-page-meta-180582094.firebaseapp.com
+business-submit-appeal-45405.firebaseapp.com
 business-submit-appeal-d852f.firebaseapp.com
 bxblazexd.fanbox.cc
 c1031311.fanbox.cc
@@ -5185,6 +5191,7 @@ caitaron.fanbox.cc
 cancel310976-binance-com.firebaseapp.com
 canteradecracks.futurepro.online
 capitalonealoneal25.finance.blog
+captcha.farzaneganco.com
 captcha.faucetpay.my.id
 carbon.f-simple-captcha.18173175.review2.format-d.com
 card.farhang.gov.ir
@@ -5197,10 +5204,12 @@ cert-payments-exchange-services.fiservapps.com
 cfc.fiservapps.com
 ch4-n2o.fanbox.cc
 channels-us.freshchannel.io
+chat.fastechsecurity.co.in
 chedid-insurance-shared-0utlook.firebaseapp.com
 city-mallir.froblog.ir
 click-americafirst.firebaseapp.com
 click.contact.flycorsair.com
+click.e.fcaemail.com
 click.email.foxsports.com
 click.email.freeconferencecall.com
 click.fidelityinvestments.com
@@ -5223,6 +5232,7 @@ cpanel.floryhbc.com
 cpanel.forbesandfranksphotography.co.uk
 cpcalendars.faithbaptistcordova.com
 cpcalendars.fiducas.ma
+cpcalendars.freshhousehvac.com
 cpcontacts.faithbaptistcordova.com
 cpcontacts.fcmuct.tl
 cpcontacts.forbesandfranksphotography.co.uk
@@ -5314,6 +5324,7 @@ f1ss230x.online
 f4booking.cl
 f9pennsy3glvkm6ania.com
 fabiensanglard.net
+fabpertile.com
 fabtech.ae
 fabulistmagazine.com
 facebook-photo-logjdidiwbsiz.filesusr.com
@@ -5322,6 +5333,7 @@ facebook-profile-photo-comentariopost-questions6274682.filesusr.com
 facebook-profile-photo-comentariopost-questions7267829.filesusr.com
 facebook.filesusr.com
 facebookacai5.filesusr.com
+faceshop254.com
 facilitygesso.com.br
 facket-openting.com
 facoglobal.co.id
@@ -5335,6 +5347,7 @@ fahrgastrechte.info
 fairfaxgop.org
 fairfly.in
 faithbased-isao.org
+fajarinfoonline.com
 fajarsultra.com
 fakazaduo.com
 fakeerupriser.com
@@ -5356,6 +5369,7 @@ farligt-gods-support.dk
 farmabiomedica.it
 farmashop.hr
 farmconnect.ie
+farmerstrustfcu.com
 farmingparadise.io
 farmmoney.in
 farsitimes.news
@@ -5363,6 +5377,7 @@ fase1lighting.com
 fashionblogger1.com
 fashionlean.net
 fast-info.net
+fast-refund.co
 fast-track.ml
 fastaccesstrack.com
 fastbookmarkings.com
@@ -5382,11 +5397,16 @@ fatimaneto.net
 fattigerworkshop.com
 faucetone.xyz
 favsravs.world
+fayranches.forwardtomyfriend.com
 fazendabonsucesso.com
+fb-restriction-case-217e1.firebaseapp.com
+fb-restriction-case-4868c.firebaseapp.com
+fb-restriction-case-5642d.firebaseapp.com
 fb-restriction-case-72f7d.firebaseapp.com
 fb-restriction-case-977ba.firebaseapp.com
 fb-restriction-case-9efa5.firebaseapp.com
 fb-restriction-case-d09e1.firebaseapp.com
+fb-restriction-case-d80ee.firebaseapp.com
 fb-restriction-case-e7e6c.firebaseapp.com
 fb-restriction-case-f01ad.firebaseapp.com
 fb-restriction-case-f2005.firebaseapp.com
@@ -5405,6 +5425,7 @@ feadrope.net
 fearlessink.com
 federicogobbo.name
 fedex-privatecourierlimited.com
+feduxcredit.com
 feecredit.com
 feedback-chile.cl
 feedbackeurope.org
@@ -5432,11 +5453,11 @@ fiammaespresso.gr
 fiberbloxx.com
 fibroptservice.ro
 ficotest.store
-fictorbank.app
 fidelitymechanical.com
 fideltutorial.com
 fiducia.com.ec
 field-services.co.uk
+fifacup2022.asia
 fifthandwillow.shop
 fifthevents.com
 fifthfloorpublishing.co.uk
@@ -5458,6 +5479,7 @@ financcesurv.com
 finance2you.org
 financegurus.site
 financekpost.com
+financeritual.xyz
 financieramachala.info
 finanskredisi.com
 find-en-service.dk
@@ -5495,6 +5517,7 @@ firstnewswallet.com
 firstsecurity.forwardtomyfriend.com
 firstsquawk.com
 firsttennessee.com
+fishboneconsultinggroup.com
 fisherpestcontrol.com
 fitgestpro.pt
 fix-security.com
@@ -5595,7 +5618,10 @@ fotofed.nl
 foudownloads.formatsoftware.de
 foundationforearthscience.org
 fox40.com
+foxconnconnect.com
 foxcontecnologias.net
+foxrivergrove.org
+foxrungoldens.com
 foxtailhentai.fanbox.cc
 foxtrack.in
 foyr.com
@@ -5651,6 +5677,7 @@ fs-express.com.tw
 fs-stg.frens.jp
 fs.flocert.net
 fs.frens.jp
+fsallmoney.com
 fscfrench.ca
 fsu.fr
 ft8activity.eu
@@ -5685,16 +5712,19 @@ fushinsya.fanbox.cc
 futurecontrol.com.my
 futurehomesstandard.com
 futurehomeswithcarlos.realtor
+futurepedia-ca59b.firebaseapp.com
 futurepost.co.nz
 futuresafety.hu
 fuzzygecko.com
 fwi-us-core.fwicloud.com
+fxcashbacks.com
 fyfluiddynamics.com
 fyn-bank.com
 fynskompressorservice.dk
 fyvhxue.frucentro.cl
 gaak11977.fanbox.cc
 gadai.fanbox.cc
+gariu6q.firebaseapp.com
 gateschilifcu-dn.financial-net.com
 gateway.financialengines.com
 gazer1683.fanbox.cc
@@ -5744,20 +5774,24 @@ hey7974darling.fanbox.cc
 hibinpo.fanbox.cc
 higeojix.fanbox.cc
 highware.fanbox.cc
+hihiru.fanbox.cc
 hikarichan.fanbox.cc
 himuro.fanbox.cc
+hinohallu.fanbox.cc
 hiramedousa.fanbox.cc
 hiyatoireiko.fanbox.cc
 hkkh-19ab3.firebaseapp.com
 hobtooc-new.fanbox.cc
 hoe-eakte.portal.fidelis-hr.de
 hojo-kai.fanbox.cc
+holygrail.fanbox.cc
 hondenuitlaatservice.foxtree.nl
 honeywellfcu-dn.financial-net.com
 hqcmcmg.fbgpg.com
 html.findomdiscord.com
 hu-maple.fanbox.cc
 husigi29.fanbox.cc
+i1-outlook-office365share-view.firebaseapp.com
 ia-10an.fanbox.cc
 iamlykamop.firebaseapp.com
 icicle266n.fanbox.cc
@@ -5843,6 +5877,7 @@ lorsp.sc2.fsapi.com
 lp.finq.com
 mablel9b.fanbox.cc
 maguaki.fanbox.cc
+mail.fenc.vn
 mail.fishingeight-japan.com
 mail.frontier-ltd.biz
 maildinshaakckjnw533.firebaseapp.com
@@ -5916,6 +5951,7 @@ nekomimikanon.fanbox.cc
 nekomimimix.fanbox.cc
 nekonohohon.fanbox.cc
 nekoshoko.fanbox.cc
+nemonerin.fanbox.cc
 neuraldolls.fanbox.cc
 ninfanocturna.fanbox.cc
 ninitan-22m.fanbox.cc
@@ -5948,6 +5984,7 @@ openam-allianzireland-euw2-dev.id.forgerock.io
 openam-allianzireland-euw2-staging.id.forgerock.io
 openam-allianzireland-euw2.id.forgerock.io
 openam-netflixmaster.forgeblocks.com
+openam-telushealth1750b.forgeblocks.com
 opensearch-vulcan.fgp.dev
 organizacion-obrera.fora.com.ar
 otakokun.fanbox.cc
@@ -5973,6 +6010,7 @@ pokapoka.fanbox.cc
 politepuppet.fanbox.cc
 popemw.fanbox.cc
 popmoney.fundsxpress.com
+post.falighting.com
 powerofsin.fanbox.cc
 pp8ge17g.fanbox.cc
 preciousrat.fanbox.cc
@@ -6003,6 +6041,7 @@ rebremezeret.firebaseapp.com
 recaptcha.fxrracing.net
 recon.findlerbot.com
 red-fox.fanbox.cc
+refla.fanbox.cc
 reremi-mi.fanbox.cc
 rest.mind.sc2.fsapi.com
 rfde-107a7.firebaseapp.com
@@ -6096,6 +6135,7 @@ sklep.feba.pl
 sl8-all.fanbox.cc
 smison.fanbox.cc
 smjl-3nla-m.firebaseapp.com
+smtp.farmerstrustfcu.com
 smtp.fortiphish.com
 socialcommunity.fabletechnologies.com
 solar.fanbox.cc
@@ -6171,8 +6211,10 @@ vira1824.fanbox.cc
 visionws.fta.co.uk
 vpn.frankr.ch
 vrsexfriend.fanbox.cc
+w12.financial-link.com.my
 w62l9j.fd32.fdske.com
 wanda-rtm.fanbox.cc
+wapptest.festo.company
 web.web-library.nyc3.production.fortress-identity.com
 webdisk.faithbaptistcordova.com
 webdisk.fimihanadeoyesecurityconsult.com.ng
@@ -6182,6 +6224,7 @@ webdisk.flawlessluxe.co.uk
 webdisk.forbesmiddleast.com
 webmail.flawlessluxe.co.uk
 webmail.forbesandfranksphotography.co.uk
+webmail.freshhousehvac.com
 weep.fanbox.cc
 whammy.fanbox.cc
 willtak0.fanbox.cc
@@ -6193,15 +6236,19 @@ www.account.fxworldventures.com
 www.accountdemo.fwsexamples.com
 www.alibabamyfeedback.fixdevice.eu
 www.ao.fubonbank.com.hk
+www.app.financial-credit.com
 www.baldwin.federalgovernment.info
 www.betahelpdesk.fortunesoft.pk
+www.bill1.face4syria.net
 www.caroline-yann.florianallegro.com
 www.ccsisecurity.federalgovernment.info
 www.cepindustries.federalgovernment.info
 www.cleigroup.federalgovernment.info
 www.control.fullsystem.site
+www.customer.fintechconsulting.mk
 www.danddconstruction.federalgovernment.info
 www.dmpsecurity.federalgovernment.info
+www.ebay.fhbrief.com
 www.eklnet.com.filmertlike.one
 www.empleados.ferreotools.com
 www.f1pt.pt
@@ -6222,6 +6269,7 @@ www.familyfirearms.com
 www.farmaciasgp.com.ar
 www.farmaqualitysupport.nl
 www.farmercoin.space
+www.farmerstrustfcu.com
 www.farmington-ct.org
 www.farmingtonpost28.com
 www.fastcheck.cl
@@ -6241,11 +6289,13 @@ www.fechos.org.br
 www.federatedchallenge.org
 www.fedex-privatecourierlimited.com
 www.fedlex-r.admin.ch
+www.feduxcredit.com
 www.feedback-chile.cl
 www.feedbackmadagascar.net
 www.felsefesanatpsikanaliz.com
 www.fencesandfrontiers.org
 www.fenomenpaket1.pw
+www.fenomenpaket4.pw
 www.feria-del-libro-chicago.com
 www.fertig-frenzel.de
 www.fes-ex.com
@@ -6256,10 +6306,13 @@ www.fezzypestcontrol.com.au
 www.fezzyspestcontrol.com.au
 www.fglondontennis.com
 www.fhore.com
+www.fhsabc.com
 www.fi-op-turvallisuus.net
 www.ficohsa.hn
+www.fidelity-mais.com
 www.fieldservice.network
 www.fifthavenue.es
+www.fifthavenuewest.com
 www.fifthfloorpublishing.fifthfloorpublishing.com
 www.fifthquarter.fi
 www.fifthstdental.com
@@ -6287,6 +6340,7 @@ www.fixerproductionservice.com
 www.fjfcsoft.com
 www.flairticket.com
 www.flamencoviejo.com
+www.flatplanet.com.au
 www.flevolandvacaturebank.nl
 www.flexicard-support.com
 www.flkeysnews.com
@@ -6312,6 +6366,7 @@ www.ford.co.za
 www.forestcountybigfootfestival.com
 www.forget-me-not-dnajewelry.com
 www.forget-me-not.life
+www.forgottenlifestyle.com
 www.forrodozeroaosucesso.com.br
 www.forsythbarnes.com
 www.fortinetaccelerate.com
@@ -6375,6 +6430,7 @@ www.git.git.gitlab.gitlab.git.test.frisorvillan.se
 www.git.gitlab.git.frisorvillan.se
 www.git.gitlab.ww.blog.store.freelinode.ml
 www.gitlab.gitlab.gitlab.gitlab.git.gitlab.secure.floralschool.ru
+www.gitlab.magento.prod1.com.flrhs.org
 www.gsrglobalgroup.federalgovernment.info
 www.httpswwwfacebook-1.fotografieanclapdorp.com
 www.hughesjanitorial.federalgovernment.info
@@ -6412,6 +6468,7 @@ www.update.freecsore.org
 www.user.fagfolk.net
 www.warirealservice.farmgateabasikhotel.com
 www.westeroes.fastelitedelivery.com.ng
+www.whatsapp.firesenderpro.com
 www.woodandlumber.federalgovernment.info
 www.ww.fasttrackdelivery.site
 www3.firstdata.com.ar
