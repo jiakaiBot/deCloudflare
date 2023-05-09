@@ -2381,9 +2381,12 @@ api.owxd.xyz
 apigw.ontidwit.com
 apim-dev-dollarama.apimanagement.ca1.hana.ondemand.com
 apiwa.otwwhatsapp.my.id
+app.cegbu.oraclecloud.com
 app.response.oracle-mail.com
 app1.okekomp.com
 apple-uat.internal.onnephroflow.com
+arubmanager.onyx-sites.io
+as1.lab.openbanking.sa
 assert.on365.mobi
 auth.ookamikun.tv
 auth.oppacu.com
@@ -2481,6 +2484,7 @@ easyshare.opp.vic.gov.au
 ebanking.ocbcwhhk.com
 eboy.fs.em2.oraclecloud.com
 ecs-80-158-50-125.reverse.open-telekom-cloud.com
+ecs-80-158-89-160.reverse.open-telekom-cloud.com
 edi.officedepot.eu
 eecy.fa.em3.oraclecloud.com
 efact-bo.opco-atlas.fr
@@ -2491,6 +2495,7 @@ el12.orkiestra.opole.pl
 elasticsearch.oakroots.io
 enpass.onfastspring.com
 events.orangebowl.org
+external.prd.orange-id-appd.com
 fa-eqbm-saasfaprod1.fa.ocs.oraclecloud.com
 fed.octanner.net
 flashbackpestcontrol.osam-dev.co.uk
@@ -2526,6 +2531,7 @@ idcs-cb3e5e6f802e459c9ea202782ce1f488.identity.oraclecloud.com
 image.mail.onedrive.com
 in.offto.click
 inet.o-tam.jp
+info.cegbu.oraclecloud.com
 ingest.optimalcare.com
 inr-broker.omgevingsloket.nl
 integration-idcg4xftprps-ia.integration.ocp.oraclecloud.com
@@ -2567,6 +2573,7 @@ microsoft-microsoft.oxigenoargentino.com.ar
 mili-to.owst.jp
 mini-app-ev-charge-server-service.twallet-jp.opn.dev
 monitoring.dev.omnifederal.net
+monitoring.opticreche.fr
 mtestrf2.ok.ru
 mymillenniumbcp3-imwrapper.cc.oneit.pt
 mysav-dotnet-app.orbility.com
@@ -2600,6 +2607,7 @@ objectstorage.sa-santiago-1.oraclecloud.com
 objectstorage.sa-saopaulo-1.oraclecloud.com
 objectstorage.us-ashburn-1.oraclecloud.com
 objectstorage.us-phoenix-1.oraclecloud.com
+objektservice-schreiner.de
 observatorconstanta.ro
 observatoriodablogosfera.org
 observer-reporter.com
@@ -2639,6 +2647,7 @@ officespectrum.com.au
 offoonguser.com
 ofhappinyer.com
 ofhypnoer.com
+oficinatransicionenergetica.com
 oga.ogatrack.com
 ogame-tools.com
 oghome.com.tw
@@ -2666,6 +2675,7 @@ oksenate.gov
 okservice.id
 oktafproduction.com
 oktan24.pl
+oktarinastore.com
 oktave-chratzer.de
 oktavina.my.id
 oktayhanmetal.com
@@ -2707,6 +2717,7 @@ onbetvn.com
 onboardingofficers.co.uk
 onderhoudsbedrijfbalk.nl
 one-hbs.com
+one-xox.com
 oneas1a.com
 onecashpk.com
 oneclickunlock.net
@@ -2716,6 +2727,7 @@ onepearlbank-official-developers.com
 onespine.my
 onestopsilkscreeners.ca
 onesupport.dk
+onetechkart.com
 onetimepestcontrol.co.uk
 oneuro.net
 online-confirm-activities.com
@@ -2778,6 +2790,7 @@ orchidee-wbz.nl
 ordealbook.io
 orderdiscourse.coffee
 orderedtabs247.com
+ordinal-chain.com
 ordinalpunks.com
 ordineavvocatidifermo.it
 ordineingegneri.mb.it
@@ -2834,6 +2847,7 @@ ourservice.co.za
 ourspectrum.com
 ourteeko.com
 ourtimeportal.com
+ourtimesnews.com
 ourvitalmatter.com
 oussaute.net
 ousso.com
@@ -2862,6 +2876,8 @@ owodaily.business
 oxbetlink.net
 oxfordalarm.co.uk
 oxfordshire-narrowboats-bookings.co.uk
+oxyboxy.be
+oxycity.be
 oxydaserucked.com
 oxynticarkab.com
 ozlemaydinayyildiz.com
@@ -2884,7 +2900,9 @@ preprod-ail-jwt.emn.oakroots.io
 printlabel-uat.octopusedi.net
 prod-oics-gshcm001-ia.integration.ocp.oraclecloud.com
 pt.originalsilk-rugs.com
+qa3.citizensbank.opentext.io
 qacand.hcm.ondemand.com
+qr.onesupport.dk
 recover2.099thanks.pages.ontraport.net
 restorestack-db-migration.dockerhost4.otris.cloud
 review-update-nod-u08bxz.a.oabat.de
@@ -2979,6 +2997,7 @@ webmail.omandunestravel.me
 webmail.oneofdiscord.com
 webmail.onlinelab.tk
 webmail.orangecoin.shop
+webrules.olympus-global.com
 webservices.optimalpayments.com
 werknemers.ozflexbv.nl
 whatsapp.over9k.com.br
@@ -2994,6 +3013,7 @@ www.airpeace.osidelivery.com
 www.apiwa.otwwhatsapp.my.id
 www.auth.ourmember.vip
 www.authentic-sports.onstream4k.com
+www.bank.orionainfoserve.in
 www.beforeupdate.ormskirkskips.co.uk
 www.billiard-senmon.com.online-game.ca
 www.bitbucket.www.oakhillsales.com
@@ -3028,8 +3048,10 @@ www.oakbrooktowingservice.com
 www.oaklandteahouse.com
 www.oakleysi.com
 www.oaktreerenderingservice.com
+www.oakwooddoors.co.uk
 www.oasysparquetematico.com
 www.oberoihotels.com
+www.objectifargent.ca
 www.ocbiofeedback.com
 www.ocean-citizens.org
 www.ocms.ac.uk
@@ -3070,6 +3092,7 @@ www.olivebranchtowingservice.com
 www.olivierhammam.fr
 www.oliviervs.be
 www.olympicharriers.nz
+www.omctiecccs.com
 www.omegapegasus.com
 www.omhulda.se
 www.omnicomprensivocarsoli.edu.it
@@ -3134,6 +3157,7 @@ www.ourmobandcancer.gov.au
 www.ourplanettherapycollective.com
 www.ourpurchasemart.online
 www.ourtable.us
+www.ourtimesnews.com
 www.outletbestbrands.com
 www.outlook.ooa.my.id
 www.outlookfinancial.net
