@@ -94,8 +94,7 @@ Here's a list of public Matrix services.
 | oikei.net | No |
 | matrix.ombreport.info | No |
 | pcriot.org | Yes |
-| perthchat.org | Yes |
-| matrix.pikaviestin.fi | No |
+| matrix.perthchat.org | Yes |
 | matrix.plus.st | No |
 | possum.city | Yes |
 | pragma-messenger.ch | No |
@@ -114,7 +113,6 @@ Here's a list of public Matrix services.
 | matrix.tchncs.de | No |
 | matrix.techsaviours.org | No |
 | matrix.tedomum.net | No |
-| matrix.testmobo.com | No |
 | matrix.tomesh.net | No |
 | trygve.me | No |
 | ungleich.matrix.ungleich.cloud | No |
@@ -131,7 +129,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 22 |
-| Normal | 81 |
+| Normal | 79 |
 
 
-### 21.4% of public Matrix services are using Cloudflare.
+### 21.8% of public Matrix services are using Cloudflare.
