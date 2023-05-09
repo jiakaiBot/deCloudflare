@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,293 |
+| com | 6,295 |
 | social | 4,011 |
 | net | 3,187 |
 | org | 2,205 |
@@ -6496,6 +6496,7 @@ Here's a list of public Fediverse services.
 | `cocoasamurai.social` | No |
 | `cocoaswitch.com` | No |
 | `cocoate.com` | No |
+| `cocoatype.com` | No |
 | `coconatsu.co` | Yes |
 | `cocoron.vip` | No |
 | `cocoronavi.com` | Yes |
@@ -6548,6 +6549,7 @@ Here's a list of public Fediverse services.
 | `codingquark.com` | Yes |
 | `codingstream.org` | Yes |
 | `codl.fr` | Yes |
+| `codyevanscomputer.com` | No |
 | `coe-gamecult.org` | No |
 | `coelacanth-dream.com` | No |
 | `coenjacobs.me` | No |
@@ -35566,7 +35568,7 @@ Here's a list of public Fediverse services.
 | `techbeat.news` | No |
 | `techbio.eu` | No |
 | `techcovenant.com` | No |
-| `techcrunch.com` | No |
+| `techcrunch.com` | Yes |
 | `techdon.dev` | No |
 | `techdon.info` | No |
 | `techdonuts.uk` | Yes |
@@ -41570,8 +41572,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,496 |
-| Normal | 31,031 |
+| Cloudflare | 10,497 |
+| Normal | 31,032 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
