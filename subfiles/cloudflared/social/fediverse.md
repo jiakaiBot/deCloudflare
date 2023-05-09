@@ -38855,6 +38855,7 @@ Here's a list of public Fediverse services.
 | `vinegarinn.studio` | No |
 | `vinerivisions.com` | No |
 | `vinilox.eu` | No |
+| `vino.blue` | Yes |
 | `vinodjam.com` | No |
 | `vintagemac1984.com` | No |
 | `vintageracing.social` | No |
@@ -41572,7 +41573,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,497 |
+| Cloudflare | 10,498 |
 | Normal | 31,032 |
 
 
