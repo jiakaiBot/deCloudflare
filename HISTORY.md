@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-05-09: [Cache Reserve Enabling issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xp7xp90rrmqt)
 - 2023-05-05: [Increased errors served from Kyiv, UA](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/z6mqwrhj181q)
 - 2023-05-05: [DNS over TLS does not resolve on cloudflare-dns.com](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jhcb4v5bmx2v)
 - 2023-05-03: [Cloudflare Geo-Key Manager Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wzzkr1hrp9bv)
