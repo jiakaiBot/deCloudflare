@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,292 |
+| com | 6,293 |
 | social | 4,011 |
 | net | 3,187 |
 | org | 2,205 |
@@ -6655,7 +6655,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -12270,6 +12270,7 @@ Here's a list of public Fediverse services.
 | `free-friends.org` | No |
 | `free-le.info` | No |
 | `free-pic.org` | No |
+| `free-ro.com` | No |
 | `free-social.net` | No |
 | `free-solutions.org` | No |
 | `free-streams.com` | No |
@@ -19429,7 +19430,7 @@ Here's a list of public Fediverse services.
 | `lambda.fun` | No |
 | `lambda.scot` | Yes |
 | `lambda.ski` | No |
-| `lambda.social` | Yes |
+| `lambda.social` | No |
 | `lambdaschmiede.social` | No |
 | `lambdashire.com` | No |
 | `lambdon.social` | No |
@@ -41569,8 +41570,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,498 |
-| Normal | 31,028 |
+| Cloudflare | 10,496 |
+| Normal | 31,031 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
