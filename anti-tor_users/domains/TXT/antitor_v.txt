@@ -2643,6 +2643,7 @@ autodiscover.vanguardcapital.group
 autodiscover.vanguardseguridadindustrial.com
 autodiscover.versaofitness.site
 autodiscover.vitalityboosting.com
+autodiscover.vlbplasma.com
 autodiscover.vortexmediaworkshops.com
 autodiscover.vulcanlabs.durban
 autodiscover.vulcanoexpediciones.com
@@ -2679,6 +2680,7 @@ blog.vr.com.br
 blox-link.vercel.app
 bloxapps.vercel.app
 bloxcord.vercel.app
+bloxi1.vercel.app
 bloxtest.vercel.app
 bluewaters.v3client.com
 bo.indoor.vodafone.pt
@@ -2686,6 +2688,7 @@ booking-staging.valleyhotelph.com
 booking.valleyhotelph.com
 botdiscord.vicagent.com
 c.vialoops.com
+cccvsvpn.vs.ch
 ccservices.vertexsmb.com
 cdn.vsassets.io
 cdn3.vzwdm.com
@@ -2746,6 +2749,7 @@ cpcontacts.vulcanoexpediciones.com
 cpcontacts.vulcanoperu.com
 ctf0.vsec.university
 cyberh.viavarejo.com.br
+cyberstory.vercel.app
 cyrela.virtual360.io
 da.vrhm.nl
 deployment-dev.varonis-preprod.com
@@ -2763,6 +2767,7 @@ discoloredeyes.vercel.app
 discord-h.vercel.app
 discord-modding-archive.vercel.app
 discord-ui-toolkit.vercel.app
+discordbotscrims.vercel.app
 discordbotse.vercel.app
 discordhelper1.vercel.app
 discordservers-me.vercel.app
@@ -2806,6 +2811,7 @@ hcp3csaccdpreg-5a.app.eu.vwg.vwautocloud.net
 hcp3csaccdpregdev-5a.app.eu.vwg.vwautocloud.net
 hcp5csaccdpreg-5a.app.eu.vwg.vwautocloud.net
 hcp5csambbrun-3a.app.eu.dp.vwg-connect.com
+helpdesk.vivana.support
 hlrdiscord.vercel.app
 hospital.vallhebron.com
 hunter.vercel.app
@@ -2937,6 +2943,8 @@ rustleup.vercel.app
 rustomjeebuilderproject-co-in.vtpmagnumopuspune.co.in
 rustx.vercel.app
 s1.vnecdn.net
+sales-review-update-to-jfilhf.guay.vooban.dev
+saml.verivox.com
 santiagorodriguezmastoros-gmailcom.vercel.app
 sarageld-gmailcom.vercel.app
 sber.avito.avito.avito.avito.m.www.covid19.vitorheinzen.com
@@ -3003,6 +3011,7 @@ tqms.vocalinkon.com
 tracking3.vnncdn.net
 trinitrotoluene.vercel.app
 twitchstonks.vercel.app
+twitchturbo11.vercel.app
 tymczasowy.vh.pl
 um2gtulat1ohds9.blog.blog.staging.vmail.valetparking.pl
 unify.vaxserve.com
@@ -3021,7 +3030,6 @@ vaastu-numerology.com
 vacant.no
 vaccination-info.eu
 vaccinerights.com
-vache-espagnole.fr
 vainillaweddings.com
 vakur.shop
 valcomsecure.org
@@ -3031,6 +3039,7 @@ valentineflorist.net
 valeoplumaslimpiaparabrisas.mx
 valeowipers.us
 valerianworkshops.com
+valetfinance.com.au
 valiantsupport.com.au
 validaciondedomicilios.com.mx
 valkyrie-mmo.asia
@@ -3063,6 +3072,7 @@ vbec.nl
 vc-accounting.co.za
 vcdl.org
 vcme387834ieiohlk8628709i89429e290.ewr1.vultrobjects.com
+vcorgi.staging2.vcamera.net
 vdl-as.nl
 vdszsz.hu
 vectordiscordjs.vercel.app
@@ -3071,7 +3081,6 @@ veganmeetup-mainz.de
 veggiebank.in
 vegidish.com
 velocitywls.virtusa.com
-velocitywork.fr
 venepalvelu.com
 venfioletadas.com
 venticare.nl
@@ -3092,6 +3101,7 @@ verifyphoto.id
 veritonic.com
 vermittlerws.vhv.de
 vernegallery.com
+veros-cmr.com
 versatylegroup.com
 verseguide.com
 verseverify.com.ng
@@ -3108,8 +3118,6 @@ vga256.com
 vgrlife.com
 vgt.com.pl
 vgval2.valgenesis.in
-vhidbanking-ua.com
-viagrabelgique.com
 vialidadesaopa.com.mx
 vianoivernom.com
 viavino.hr
@@ -3150,6 +3158,7 @@ vipveiculosguararapes.com.br
 viralhash.co
 viralspaceshare.com
 virtualtechfrontier.com
+visaguy.ae
 vision21.com
 visioneduindia.com
 visit-romania.eu
@@ -3176,6 +3185,7 @@ vnlotolink.net
 vnprintusa.com
 vocco-escort.com
 vodafone-service.com
+vodafoneservices.in
 voedselbank-lisse.nl
 voenews.com.br
 voessing.net
@@ -3195,6 +3205,7 @@ vpnbuddy.co
 vps4.me
 vrcvlyreadingservice.org
 vrhermit.com
+vrhnika.si
 vrijetijdamsterdam.nl
 vroblog.com
 vroomcars.online
@@ -3233,6 +3244,8 @@ vwtransporterberles.hu
 vx88link.net
 vyatb43.online
 vz99link.net
+wallet.veelg.com
+watsontwitchbot1.vercel.app
 webdisk.vanguardchurch.info
 webdisk.venomkimya.com.tr
 webdisk.verification-idsupport-coinbase.com
@@ -3275,6 +3288,7 @@ www.git.git.gitlab.git.sslvpn.vpkver.ru
 www.git.gitlab.gitlab.gitlab.git.git.secure.viva-vika.ru
 www.git.gitlab.i.vashsad37.ru
 www.gitlab.g.sitemap.vkgo.info
+www.goldeplaca12.site.vivendoosucesso.online
 www.gps.vestasecurity.mg
 www.helpdeskticket.virtusway.co.id
 www.idnpoker95.com.viajarfacil.info
@@ -3350,9 +3364,11 @@ www.vietteldangkymang.com
 www.viewlabs.com
 www.villa-authentica.com
 www.vinduesps.vinduespudserservice.dk
+www.vip-grinders.ru
 www.vipeqlogin.com
 www.virtualverse.one
 www.visiblecollege.education
+www.vision-whatsapp.com
 www.visionfarma.es
 www.visitsingapore.com.cn
 www.visordown.com
@@ -3361,6 +3377,7 @@ www.vitpost.gq
 www.vittrack.gq
 www.vivasemprecomdinheiro.vendasoficial.online
 www.viviquinto.it
+www.vizuamatix.com
 www.vmaxbatteries.com.au
 www.vmf.com
 www.vmwarestories.com
@@ -3384,8 +3401,10 @@ www.vulcanocalidad.com
 www.vulcanoexpediciones.com
 www.vulcanopropiedades.cl
 www.vulcanspacetechnology.com
+www.wallet.veelg.com
 www.whatsapp.vaidelivery.com
 www.whatsapp.verification-reset.info
+yornshakeit.vodafone.pt
 zuhedflix-originals-89ofr0a14-zuhedshaikh95.vercel.app
 a38.virtuaal.com
 access.vseegypt.com
