@@ -10634,6 +10634,7 @@ Do not create new issue or we will close it as duplicate.
 | [StormCampbell@twitter](https://twitter.com/StormCampbell/status/1401547310446821380) | advertise |
 | [StphamZ@twitter](https://twitter.com/StphamZ/status/1634055051017846784) | advertise |
 | [Strange75137014@twitter](https://twitter.com/Strange75137014/status/1396738534858362882) | advertise |
+| [Stratford_ITS@twitter](https://twitter.com/Stratford_ITS/status/1655961617002012674) | advertise |
 | [Strawbe73005938@twitter](https://twitter.com/Strawbe73005938/status/1402151516396351488) | advertise |
 | [straxico@twitter](https://twitter.com/straxico/status/1602268381314535424) | advertise |
 | [StreamingDad@twitter](https://twitter.com/StreamingDad/status/1572356539163484166) | advertise |
