@@ -5490,6 +5490,7 @@ Here's a list of public Fediverse services.
 | `catboy.cafe` | No |
 | `catboyindustries.co` | Yes |
 | `catcatnya.com` | No |
+| `catcore.life` | No |
 | `catdog.me` | No |
 | `catdon.app` | Yes |
 | `catdon.jp` | No |
@@ -14448,6 +14449,7 @@ Here's a list of public Fediverse services.
 | `hacks.fi` | Yes |
 | `hacks.wiki` | No |
 | `hacksaw.space` | No |
+| `hackspace.tech` | Yes |
 | `hacksrus.com` | No |
 | `hacksrus.xyz` | Yes |
 | `hacktastic.org` | No |
@@ -23353,6 +23355,7 @@ Here's a list of public Fediverse services.
 | `mitchcohen.com` | No |
 | `mitchellpkt.com` | No |
 | `mitchelltribe.social` | No |
+| `mitchi.moe` | No |
 | `mitchw.blog` | No |
 | `miteff.co` | No |
 | `mitente.club` | No |
@@ -40645,6 +40648,7 @@ Here's a list of public Fediverse services.
 | `xsden.info` | Yes |
 | `xserver.work` | No |
 | `xsoftware.it` | No |
+| `xst.cl` | No |
 | `xsteadfastx.org` | No |
 | `xtaldave.net` | No |
 | `xtendxbox.com` | Yes |
@@ -41586,8 +41590,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,505 |
-| Normal | 31,038 |
+| Cloudflare | 10,506 |
+| Normal | 31,041 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
