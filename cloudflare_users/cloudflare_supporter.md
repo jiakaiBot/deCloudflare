@@ -2232,6 +2232,7 @@ Do not create new issue or we will close it as duplicate.
 | [Cole64758061@twitter](https://twitter.com/Cole64758061/status/1392292609922527233) | advertise |
 | [coleman89990@twitter](https://twitter.com/coleman89990/status/1494073177273733125) | advertise |
 | [Collinsmarkpros@twitter](https://twitter.com/Collinsmarkpros/status/1568918743635623937) | advertise |
+| [CommandtechnoYT@twitter](https://twitter.com/CommandtechnoYT/status/1656041570519400470) | advertise |
 | [ComputerMedic2@twitter](https://twitter.com/ComputerMedic2/status/1498349891097137162) | advertise |
 | [coms4socialcha1@twitter](https://twitter.com/coms4socialcha1/status/1379781588263661581) | advertise |
 | [ConanMcleod@twitter](https://twitter.com/ConanMcleod/status/1637936054387834880) | advertise |
@@ -2756,6 +2757,7 @@ Do not create new issue or we will close it as duplicate.
 | [DNguttyen@twitter](https://twitter.com/DNguttyen/status/1560532734334107653) | advertise |
 | [DNguyentandung@twitter](https://twitter.com/DNguyentandung/status/1610281509797367809) | advertise |
 | [dninecrab@twitter](https://twitter.com/dninecrab/status/1397625512223068163) | advertise |
+| [dnskse@twitter](https://twitter.com/dnskse/status/1656031738479427586) | advertise |
 | [dnst7890@twitter](https://twitter.com/dnst7890/status/1573704011295109122) | advertise |
 | [dntsearchforme@twitter](https://twitter.com/dntsearchforme/status/1644998493503737856) | advertise |
 | [doanh67151149@twitter](https://twitter.com/doanh67151149/status/1480783806739070976) | advertise |
