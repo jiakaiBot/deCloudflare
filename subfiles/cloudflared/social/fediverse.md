@@ -2814,6 +2814,7 @@ Here's a list of public Fediverse services.
 | `austintexas.social` | No |
 | `austodon.com` | No |
 | `austria-toots.social` | No |
+| `aut.red` | Yes |
 | `aut.social` | No |
 | `authn.cc` | No |
 | `author.chat` | Yes |
@@ -17737,6 +17738,7 @@ Here's a list of public Fediverse services.
 | `juleserver.no` | Yes |
 | `julialang.social` | No |
 | `julianjulian.moe` | No |
+| `juliannthestagelady.co.uk` | Yes |
 | `julien.ovh` | No |
 | `juliensambre.fr` | No |
 | `juliewebgirl.com` | No |
@@ -41573,7 +41575,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,498 |
+| Cloudflare | 10,500 |
 | Normal | 31,032 |
 
 
