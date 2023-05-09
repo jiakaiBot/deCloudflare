@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [502: fading fails to show](https://github.com/pastelsky/bundlephobia/issues/783)
 - [Permission errors upon first launch](https://github.com/autobrr/autobrr/issues/923)
 - [This web property is not accessible via this address (Cloudflare)](https://github.com/Metallic-Web/Metallic/issues/10)
 - [/// <reference lib="dom" /> in api-call package is globally overriding types](https://github.com/twurple/twurple/issues/507)
