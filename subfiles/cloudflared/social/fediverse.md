@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,296 |
-| social | 4,012 |
-| net | 3,188 |
+| social | 4,013 |
+| net | 3,189 |
 | org | 2,205 |
 | de | 2,086 |
 
@@ -4199,6 +4199,7 @@ Here's a list of public Fediverse services.
 | `blessedgeeks.org` | No |
 | `blessedgeeks.social` | No |
 | `blessedguy.net` | Yes |
+| `blewsky.social` | Yes |
 | `bli.me` | No |
 | `blieb.net` | No |
 | `blijf-nieuwsgierig.nl` | No |
@@ -21560,7 +21561,6 @@ Here's a list of public Fediverse services.
 | `marupost.jp` | No |
 | `marussy.com` | No |
 | `marutani.xyz` | No |
-| `marvin.saarland` | No |
 | `marvins.site` | No |
 | `marx.pm` | No |
 | `marxism.cc` | Yes |
@@ -28386,6 +28386,7 @@ Here's a list of public Fediverse services.
 | `piverse.ch` | No |
 | `pivox.net` | No |
 | `pivx.org` | Yes |
+| `piwalker.net` | No |
 | `piweb.be` | No |
 | `pixcture.com` | Yes |
 | `pixel-fed.co.uk` | No |
@@ -41584,7 +41585,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,504 |
+| Cloudflare | 10,505 |
 | Normal | 31,037 |
 
 
