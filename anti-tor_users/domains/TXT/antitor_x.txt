@@ -416,8 +416,10 @@ xyft.xyz
 accounts.google.com.xecurify.com
 api-dev.iam.xom.cloud
 api.staging.xceed-project.com
+api.xpi.com.br
 apps.xrisp.com
 ard.xxxblackbook.com
+atendimento.xpi.com.br
 autoconfig.xn--reifenservice-rbel-r3b.de
 autodiscover.cpanel.webdisk.webmail.mail.www.xflirt.fr
 blue-canary.xboxservices.com
@@ -465,6 +467,7 @@ o3gmail3aojyusp.account.xn----stbbukh.xn--p1ai
 old.xetel.in
 owa.huntingtonfi.xd.email
 platinademo.x-docs.com
+portal.xpi.com.br
 prod-v1-outpost.xinverse.xyz
 staging-1682961063.xn--trservice-h3a.nu
 sts.xiduamdev.ca
@@ -472,10 +475,12 @@ t-eu.xink.io
 t.xink.io
 tracking.xiq.io
 wl-notification.dev-toronto.xara.ai
+www.alanyaorjinalescort.com.xn--avclarescort-34b.com
 www.amerlcafirst.x24hr.com
 www.bezpieczneschody.pl.studiolaperla.xaa.pl
 www.clienteadv.xpcode.cloud
 www.comforthotelsydneyairport.com.au.xpcconline.com
+www.fortisglobalinvestmentbank.com.xsdegsoftwares.com
 www.git.gitlab.git.site.xn-----7kcbkhgzapdgqdsljb7aoah92a.xn--p1ai
 www.git.gitlab.gitlab.git.gitlab.faxij64962.temp.xn--vs-zi72aga.ga
 www.gitlab.git.git.onpdlvk8wxqche6.backoffice.xn--80ay4ac.xn--p1ai
@@ -491,6 +496,8 @@ www.support.xetel.in
 www.tracking.xenxor.id
 www.xablu.com
 www.xem.com.au
+www.xfinitybillingz.com
+www.xiaomeixionge.com
 www.xinyoungfoodbank.com
 www.xn--altdeutsche-schferhunde-vom-seeruberdorf-umdr.de
 www.xn--b3cvcoa9c2fb3dwd9dch.com
@@ -515,9 +522,11 @@ www.xn--billigekleskabe-dub.dk
 www.xn--billigtregntj-mnb.dk
 www.xn--cdu-fraktion-altwarmbchen-zwc.de
 www.xn--deutsche-schdlingsbekmpfung-mkcj.de
+www.xn--e-u-rengringsservice-icc.dk
 www.xn--espaaconfidencial-ixb.com
 www.xn--ferienwohnung-dmmer-kbc.de
 www.xn--ifs-brc-haccp-iso-standards-schdlingsmonitoring-b7d.de
+www.xn--kontorlyddmpning-3ob.dk
 www.xoom.com
 www.xoxoteiros.blog.br
 www.xpasset.com.br
@@ -531,6 +540,7 @@ www.xxvicongresso.com.br
 x-educate.com
 x-forcetactical.com.au
 x2pepe.info
+x2tsa.com
 x7r3mk6ldr.com
 x9987.com
 xanawet.com
@@ -547,6 +557,7 @@ xcoinx.com
 xdelivery.online
 xegiare.vn
 xetaichuyennhabinhduong.com
+xfinitybillingz.com
 xgirl.top
 xhandu.net
 xiantiancollege.com
@@ -559,10 +570,12 @@ xn--80aafbgrk0ao1a4e.xn--p1ai
 xn--altdeutsche-schferhunde-vom-seeruberdorf-umdr.de
 xn--billigerestrm-mnb.no
 xn--dck1byb9ii0b6cec.net
+xn--e-u-rengringsservice-icc.dk
 xn--ferienwohnung-dmmer-kbc.de
 xn--gmq92kmxes03f.com
 xn--ickzfpdx17ly33an54b.com
 xn--ifs-brc-haccp-iso-standards-schdlingsmonitoring-b7d.de
+xn--kontorlyddmpning-3ob.dk
 xn--kravmagalillestrm-g1b.com
 xn--mcrosoftoffice-0lb.email
 xn--mreportservice-qqb.no
@@ -580,6 +593,7 @@ xnergic.org
 xo-nl.com
 xo88.asia
 xobr219pa.com
+xoibpwysiy.tech
 xolevaservice.gr
 xpatrol.xmobots.com
 xpressworldwideservice.online
