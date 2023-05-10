@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [How to defeat CloudFlare challenges?](https://github.com/linkchecker/linkchecker/issues/738)
 - [Impossible to connect from iOS mobile app to domain based Ombi - Cloudflare tunneled](https://github.com/Ombi-app/Ombi/issues/4924)
 - [Gateway WebSocket API sending a 401 rather than upgrading to a WebSocket when opening a connection from a Cloudflare Worker](https://github.com/discord/discord-api-docs/issues/6145)
 - [502: fading fails to show](https://github.com/pastelsky/bundlephobia/issues/783)
