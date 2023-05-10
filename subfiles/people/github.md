@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [stop problem fast_stable_diffusion_AUTOMATIC1111](https://github.com/TheLastBen/fast-stable-diffusion/issues/2143)
 - [No available user found](https://github.com/calcom/cal.com/issues/8826)
 - [x/vulndb: potential Go vuln in github.com/cloudflare/circl: CVE-2023-1732](https://github.com/golang/vulndb/issues/1765)
 - [telegram bot created suddenly error](https://github.com/acheong08/EdgeGPT/issues/395)
