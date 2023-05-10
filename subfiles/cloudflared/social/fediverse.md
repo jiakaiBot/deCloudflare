@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,015 |
 | net | 3,192 |
 | org | 2,207 |
-| de | 2,087 |
+| de | 2,088 |
 
 
 - Mastodon, Pleroma, etc
@@ -4678,6 +4678,7 @@ Here's a list of public Fediverse services.
 | `brad.ee` | Yes |
 | `bradmcgarr.me` | No |
 | `bradsease.com` | No |
+| `bradycat.de` | Yes |
 | `braemer.us` | No |
 | `brage.fr` | Yes |
 | `brainbaking.com` | Yes |
@@ -6667,7 +6668,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -12073,6 +12074,7 @@ Here's a list of public Fediverse services.
 | `forensicpsychiatry.social` | No |
 | `fores.top` | No |
 | `foresdon.jp` | No |
+| `forestriver.rocks` | No |
 | `forestroad.xyz` | Yes |
 | `forestver.se` | No |
 | `forextrading.one` | No |
@@ -27519,6 +27521,7 @@ Here's a list of public Fediverse services.
 | `painted.jp` | Yes |
 | `paintergoblin.art` | No |
 | `pair2jeux.tube` | No |
+| `paizi.dev` | Yes |
 | `pajcevina.net` | Yes |
 | `pajd.cloud` | No |
 | `pajd.fr` | No |
@@ -28766,6 +28769,7 @@ Here's a list of public Fediverse services.
 | `poincare.one` | No |
 | `point.community` | No |
 | `pointflottant.social` | Yes |
+| `pointless.chat` | Yes |
 | `pointless.net` | No |
 | `pointless.one` | No |
 | `pointofviewpoint.com` | No |
@@ -41615,7 +41619,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,519 |
+| Cloudflare | 10,523 |
 | Normal | 31,053 |
 
 
