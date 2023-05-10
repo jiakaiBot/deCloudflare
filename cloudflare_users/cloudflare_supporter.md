@@ -1934,6 +1934,7 @@ Do not create new issue or we will close it as duplicate.
 | [caothuong123@twitter](https://twitter.com/caothuong123/status/1636648444025786368) | advertise |
 | [CapantSolent@twitter](https://twitter.com/CapantSolent/status/1392202368616476678) | advertise |
 | [Capernicus_GT@twitter](https://twitter.com/Capernicus_GT/status/1594770744965271576) | advertise |
+| [capthndsme@twitter](https://twitter.com/capthndsme/status/1656206692298948610) | advertise |
 | [CaptMeliodas1@twitter](https://twitter.com/CaptMeliodas1/status/1494257224893763585) | advertise |
 | [carlhandy_@twitter](https://twitter.com/carlhandy_/status/1592481370051575808) | advertise |
 | [Carlisle_Bean@twitter](https://twitter.com/Carlisle_Bean/status/1478565050663284743) | advertise |
