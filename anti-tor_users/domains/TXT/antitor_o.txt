@@ -2365,6 +2365,7 @@ actspotwifi.onthespot.com
 adfsw.fix.orange.ro
 administration-wp.obseques-en-france.pro
 agile-tools.owlabs.io
+aiir-bnb-home.online-signinn.com
 ajv9yn3827s0.s3.de.cloud.ovh.net
 alertdirect.omgeo.net
 api-cat-1.orientsys.com.au
@@ -2378,6 +2379,7 @@ api.oscar0421.com
 api.ouedkniss.com
 api.overdrive.com
 api.owxd.xyz
+api2.3ituu9.ohpen.cloud
 apigw.ontidwit.com
 apim-dev-dollarama.apimanagement.ca1.hana.ondemand.com
 apiwa.otwwhatsapp.my.id
@@ -2385,6 +2387,7 @@ app.cegbu.oraclecloud.com
 app.response.oracle-mail.com
 app1.okekomp.com
 apple-uat.internal.onnephroflow.com
+appleai.oops.wtf
 arubmanager.onyx-sites.io
 as1.lab.openbanking.sa
 assert.on365.mobi
@@ -2396,6 +2399,7 @@ auth.webrdp.opc-asp.de
 authentication-dse.opmaxx.com
 authentik.webrdp.opc-asp.de
 authn.hana.ondemand.com
+autodiscover.oktayy.net
 autodiscover.onemorebasvuru.com
 autodiscover.onitroofing.com.au
 autodiscover.unix.ofitelonline.com
@@ -2432,6 +2436,7 @@ captive.o2wifi.co.uk
 captivemgr.o2wifi.net.uk
 catomp-sci-prod-yr8w479i.it-cpi019-rt.cfapps.us10-002.hana.ondemand.com
 cdcbeacon.epm.us2.oraclecloud.com
+cdn-exponea.o2.sk
 cdn.otstatic.com
 chfnnp.oneclickstar.com
 citizen.omr.gov.ua
@@ -2566,6 +2571,7 @@ mailgenerator.outspot.be
 manga.okiba.jp
 map.ohsho.co.jp
 masnuruliman.ourmadrasahacut.my.id
+mconnect-005.oberthur.net
 media.ohmyflorstore.com
 mexicoerpdev.it-cpi013-rt.cfapps.us21.hana.ondemand.com
 mhwprod.ohmexchange.com
@@ -2631,6 +2637,7 @@ odinix.eu
 odols0vg1s.oscartielle.cloud
 odsherred-ejendomsservice.dk
 odynokovteam.kiev.ua
+odysseusfestival.fi
 odysseygear.onsmicrosoft.com
 odyxyhat.com
 oesterreichwein.at
@@ -2657,6 +2664,7 @@ ohfoi.com
 ohfork.it
 ohjauspalvelut.fi
 ohlson.se
+ohmycard.com
 ohraet.com
 oic-test-hcpublicutilities.integration.ocp.oraclecloud.com
 oigduusrva.com
@@ -2667,6 +2675,7 @@ okanefuyaso.info
 okazusagashi.com
 okbc.uk
 okcredit.com
+oke8899.asia
 okediil.com
 oki-raku.net
 okmultiservice.dk
@@ -2703,6 +2712,7 @@ omegaphotoworkshop.com
 omerdeniz.com.tr
 ometz.live
 omg3333.online
+omi88.asia
 ominiclinic.ro
 omisehakku.com
 omnatigray.org
@@ -2744,6 +2754,7 @@ onlineseotools.info
 onlineservice-bog.com
 onlybest.com.ua
 onlyescortsbirmingham.uk
+onlyskinnyrecipes.com
 onlytest.online
 onnet.ro
 onservice.ro
@@ -2776,6 +2787,7 @@ opt-nesti.com.ua
 optimalmultiservice.de
 optimalog.ru
 optimum-safety.co.uk
+optomhoztovary.kz
 orangdalam.click
 orangeriverwines.com
 orangesafepackerss.com
@@ -2811,6 +2823,7 @@ orion-search.biz
 orionscoldfire.com
 orionx-acesso.site
 oriten.net
+orteu.ink
 orthodontistinlucknow.com
 orthoticsbypost.com
 orthronsmatter.com
@@ -2830,9 +2843,11 @@ othbhe2.com
 othello-escort.com
 oto-arackiralama.com
 otomamire.com
+otomotif.media
 otr-service.com
 otrack.co.zw
 otrorestaurante.com
+otsudani.jp
 ottohealth.com
 otwartezrodlo.pl
 oudseroa.com
@@ -2847,13 +2862,14 @@ ourservice.co.za
 ourspectrum.com
 ourteeko.com
 ourtimeportal.com
-ourtimesnews.com
 ourvitalmatter.com
 oussaute.net
 ousso.com
+outcyders.net
 outdooremporium.com.au
 outelectrodean.com
 outhulem.net
+outlookdental.ca
 outoctillerytor.com
 outsliggooa.com
 outspost24.com
@@ -2921,6 +2937,7 @@ sber.blablacar.avito.www.git.git.covid19.ooo-medexpress.ru
 sber.sber.sberbank.git.covid19.ooo-medexpress.ru
 sber.sberbank.avito.avito.git.git.covid19.ooo-medexpress.ru
 sberbank.avito.sber.www.git.git.covid19.ooo-medexpress.ru
+sberbank.avito.sberbank.duckdns.ocovid19.oldcartraders.com
 sberbank.avito.sberbank.git.covid19.ooo-medexpress.ru
 sberbank.avito.sberbank.git.git.covid19.ooo-medexpress.ru
 sberbank.blablacar.git.covid19.ooo-medexpress.ru
@@ -2968,6 +2985,7 @@ test.api.ordopay.com
 test2api.orioneclipse.com
 test6.oncloudos.com
 testing.opus-online.com
+tienda.osso-skate.com
 tig-cap-handson.it-cpi018-rt.cfapps.eu10-003.hana.ondemand.com
 tigerknight.owst.jp
 tim2-cdc.omniengage.net
@@ -3024,6 +3042,7 @@ www.contact.ola.ch
 www.contact.oliepups.com
 www.control.owl-pms.com
 www.credit-rapid.net.online-credit.ro
+www.daintrees-residence.onepearlbank.sg
 www.delivery.ocardapio.app
 www.dhl-exprese.opoworldfinnance.international
 www.digicontrol.ozonetech.hu
@@ -3153,11 +3172,11 @@ www.oto-uk.org
 www.otokokimonokato.com
 www.ottawaalpost33.com
 www.ottumwacourier.com
+www.ouest-multisolutions-services.com
 www.ourmobandcancer.gov.au
 www.ourplanettherapycollective.com
 www.ourpurchasemart.online
 www.ourtable.us
-www.ourtimesnews.com
 www.outletbestbrands.com
 www.outlook.ooa.my.id
 www.outlookfinancial.net
@@ -3178,10 +3197,13 @@ www.praiavirgemhostel.com.br.oseudelivery.app.br
 www.rahayu-sport.onstream4k.com
 www.safeandsoundpenzance.osam-dev.co.uk
 www.sams2for1pizza.onbooking.ca
+www.secure.okefxpro.co
 www.secure.onemedplace.com
 www.seguridad.o-h1.com
 www.support.ovaltech.ca
+www.tienda.osso-skate.com
 www.toolsfortutors.opetusohjaus.fi
+www.twitter.ooa.my.id
 www.update-score.onecliker.com
 www.update.odaanews.net
 www.update.online-kvartira.ru
@@ -3189,6 +3211,7 @@ www.verificacaokitprodutos.oruc.com.br
 www.wachtwoord.apps.omnius.nl
 www.whatsapp.ogipix.com
 www.whitelistpass.obzidian.net
+www.yahoo.ooa.my.id
 youtrack.oceris.com
 66bmfl7r.optimalworkshop.com
 720creditscore.com.pages.ontraport.net
