@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Caddy reverse proxy, results in text of index.php](https://github.com/BookStackApp/BookStack/issues/4236)
+- [Investigate OpenID foundation's RP conformance testing process](https://github.com/opengovsg/sgid-client/issues/44)
 - [Bitnami Wordpress in Lightsail](https://github.com/bitnami/vms/issues/901)
 - [How to defeat CloudFlare challenges?](https://github.com/linkchecker/linkchecker/issues/738)
 - [Impossible to connect from iOS mobile app to domain based Ombi - Cloudflare tunneled](https://github.com/Ombi-app/Ombi/issues/4924)
