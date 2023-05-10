@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,298 |
+| com | 6,299 |
 | social | 4,015 |
 | net | 3,192 |
 | org | 2,207 |
@@ -26253,6 +26253,7 @@ Here's a list of public Fediverse services.
 | `nullrequest.com` | Yes |
 | `nullself.pw` | No |
 | `nullsense.net` | No |
+| `nullskey.com` | Yes |
 | `nullspace.ie` | No |
 | `nulltea.cc` | Yes |
 | `nulltrading.com` | No |
@@ -41613,7 +41614,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,516 |
+| Cloudflare | 10,517 |
 | Normal | 31,054 |
 
 
