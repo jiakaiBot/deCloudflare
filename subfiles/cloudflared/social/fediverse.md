@@ -26978,6 +26978,7 @@ Here's a list of public Fediverse services.
 | `opensocial.network` | Yes |
 | `opensocial.online` | No |
 | `opensocial.space` | No |
+| `opensource-school.nl` | Yes |
 | `opensource.network` | No |
 | `opensource.org` | Yes |
 | `opensourcegardens.info` | No |
@@ -41619,7 +41620,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,523 |
+| Cloudflare | 10,524 |
 | Normal | 31,053 |
 
 
