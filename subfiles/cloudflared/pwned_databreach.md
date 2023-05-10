@@ -474,6 +474,7 @@ Here's a list of breached sites.
 | RealEstateMogul (Real Estate Mogul) | 307,768 | Yes |
 | RedDoorz | 5,890,277 | Yes |
 | Reincubate | 616,146 | Yes |
+| RentoMojo | 2,185,697 | Yes |
 | RepublicanPartyOfTexas (Republican Party of Texas) | 72,596 | Yes |
 | RetinaX (Retina-X) | 71,153 | No |
 | Reverb-Nation (ReverbNation) | 7,040,725 | Yes |
@@ -666,10 +667,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 353 | 3,913,149,663 |
+| Cloudflare | 354 | 3,915,335,360 |
 | Normal | 292 | 4,908,892,039 |
 
 
 
-### 54.7% of breached sites (pwned sites) are using Cloudflare.
+### 54.8% of breached sites (pwned sites) are using Cloudflare.
 ### 44.4% of leaked accounts are on Cloudflare sites.
