@@ -21573,6 +21573,7 @@ Here's a list of public Fediverse services.
 | `marupost.jp` | No |
 | `marussy.com` | No |
 | `marutani.xyz` | No |
+| `marvin.saarland` | No |
 | `marvins.site` | No |
 | `marx.pm` | No |
 | `marxism.cc` | Yes |
@@ -41605,7 +41606,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,513 |
-| Normal | 31,048 |
+| Normal | 31,049 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
