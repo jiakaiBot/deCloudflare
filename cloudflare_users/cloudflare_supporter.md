@@ -4870,6 +4870,7 @@ Do not create new issue or we will close it as duplicate.
 | [JackChung1021@twitter](https://twitter.com/JackChung1021/status/1485991171436736512) | advertise |
 | [jackck76316576@twitter](https://twitter.com/jackck76316576/status/1381264209636327426) | advertise |
 | [jackdan8@twitter](https://twitter.com/jackdan8/status/1497731130438606858) | advertise |
+| [Jackjac22577839@twitter](https://twitter.com/Jackjac22577839/status/1656127241498292225) | advertise |
 | [Jackjun53391478@twitter](https://twitter.com/Jackjun53391478/status/1399663365056655361) | advertise |
 | [jackk53102780@twitter](https://twitter.com/jackk53102780/status/1565194405090574338) | advertise |
 | [jackm19951@twitter](https://twitter.com/jackm19951/status/1636880936368308228) | advertise |
@@ -5973,6 +5974,7 @@ Do not create new issue or we will close it as duplicate.
 | [kurniawanisme@twitter](https://twitter.com/kurniawanisme/status/1386629050039345152) | advertise |
 | [kurohaise@twitter](https://twitter.com/kurohaise/status/1577348142919745536) | advertise |
 | [KurokoT24943351@twitter](https://twitter.com/KurokoT24943351/status/1576613224383803394) | advertise |
+| [kusanag83788895@twitter](https://twitter.com/kusanag83788895/status/1656245581298401280) | advertise |
 | [Kushagr17800138@twitter](https://twitter.com/Kushagr17800138/status/1380192960269197324) | advertise |
 | [KutunMonarch@twitter](https://twitter.com/KutunMonarch/status/1507018408713670663) | advertise |
 | [Kuu87353487@twitter](https://twitter.com/Kuu87353487/status/1392737682652942344) | advertise |
@@ -8348,6 +8350,7 @@ Do not create new issue or we will close it as duplicate.
 | [NitiSinghTomar1@twitter](https://twitter.com/NitiSinghTomar1/status/1376880690516660226) | advertise |
 | [nitrojrd@twitter](https://twitter.com/nitrojrd/status/1641175551909019658) | advertise |
 | [Niv_mor@twitter](https://twitter.com/Niv_mor/status/1399756042590904325) | advertise |
+| [Nizi113@twitter](https://twitter.com/Nizi113/status/1656242016618188800) | advertise |
 | [njang_zau_mun@twitter](https://twitter.com/njang_zau_mun/status/1380180638804832256) | advertise |
 | [njoolenesia@twitter](https://twitter.com/njoolenesia/status/1503838855765856256) | advertise |
 | [NkKee1@twitter](https://twitter.com/NkKee1/status/1379528528073433088) | advertise |
@@ -11922,6 +11925,7 @@ Do not create new issue or we will close it as duplicate.
 | [Uditkhan1920@twitter](https://twitter.com/Uditkhan1920/status/1539274059267158017) | advertise |
 | [uditmehra631@twitter](https://twitter.com/uditmehra631/status/1395606145041981443) | advertise |
 | [udng83676589@twitter](https://twitter.com/udng83676589/status/1388778273388195844) | advertise |
+| [UehSlS3AXu97L71@twitter](https://twitter.com/UehSlS3AXu97L71/status/1656229368971268096) | advertise |
 | [UescaGroup@twitter](https://twitter.com/UescaGroup/status/1629521125095923713) | advertise |
 | [ufirz825732@twitter](https://twitter.com/ufirz825732/status/1396484531826221057) | advertise |
 | [ufosfootage@twitter](https://twitter.com/ufosfootage/status/1648340903004700677) | advertise |
@@ -12196,6 +12200,7 @@ Do not create new issue or we will close it as duplicate.
 | [vR8gxyMLVrhDDuZ@twitter](https://twitter.com/vR8gxyMLVrhDDuZ/status/1617941805777195008) | advertise |
 | [Vrak_khmer@twitter](https://twitter.com/Vrak_khmer/status/1620583392646684673) | advertise |
 | [vrankyrule@twitter](https://twitter.com/vrankyrule/status/1386668245902512138) | advertise |
+| [VrGrup@twitter](https://twitter.com/VrGrup/status/1656224867044429824) | advertise |
 | [VSkarleas@twitter](https://twitter.com/VSkarleas/status/1456937424660094982) | advertise |
 | [VtbKo@twitter](https://twitter.com/VtbKo/status/1395561904467185664) | advertise |
 | [Vtcialis2022@twitter](https://twitter.com/Vtcialis2022/status/1609693415024857089) | advertise |
