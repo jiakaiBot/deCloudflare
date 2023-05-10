@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,015 |
 | net | 3,192 |
 | org | 2,207 |
-| de | 2,088 |
+| de | 2,090 |
 
 
 - Mastodon, Pleroma, etc
@@ -4571,7 +4571,7 @@ Here's a list of public Fediverse services.
 | `borj.org` | No |
 | `bork.systems` | No |
 | `borked.host` | No |
-| `borked.sh` | Yes |
+| `borked.sh` | No |
 | `borken.social` | No |
 | `borneensis.com` | No |
 | `bornholz.com` | No |
@@ -15615,6 +15615,7 @@ Here's a list of public Fediverse services.
 | `hrusecky.net` | No |
 | `hrwlthr.com` | No |
 | `hrzn.ee` | Yes |
+| `hs-duesseldorf.de` | No |
 | `hs1.nl` | No |
 | `hsablonniere.com` | No |
 | `hsal.es` | Yes |
@@ -32011,6 +32012,7 @@ Here's a list of public Fediverse services.
 | `schnitzler.one` | No |
 | `schnitzler.pro` | No |
 | `schnuffle.de` | No |
+| `schnurbus.de` | No |
 | `schoebel-online.net` | Yes |
 | `schoentoon.com` | No |
 | `schoepski.de` | No |
@@ -41620,8 +41622,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,524 |
-| Normal | 31,053 |
+| Cloudflare | 10,523 |
+| Normal | 31,056 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
