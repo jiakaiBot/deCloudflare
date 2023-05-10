@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [telegram bot created suddenly error](https://github.com/acheong08/EdgeGPT/issues/395)
+- [@prisma/client/edge + Cloudflare Worker / wrangler = Could not resolve "os"](https://github.com/prisma/prisma/issues/19174)
 - [Caddy reverse proxy, results in text of index.php](https://github.com/BookStackApp/BookStack/issues/4236)
 - [Investigate OpenID foundation's RP conformance testing process](https://github.com/opengovsg/sgid-client/issues/44)
 - [Bitnami Wordpress in Lightsail](https://github.com/bitnami/vms/issues/901)
