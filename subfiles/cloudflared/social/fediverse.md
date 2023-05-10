@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,299 |
 | social | 4,015 |
 | net | 3,192 |
-| org | 2,207 |
+| org | 2,208 |
 | de | 2,090 |
 
 
@@ -29970,6 +29970,7 @@ Here's a list of public Fediverse services.
 | `raghavgururajan.name` | No |
 | `raghavgururajan.net` | No |
 | `ragnate.la` | No |
+| `ragol.org` | No |
 | `ragol.uk` | No |
 | `ragtag.moe` | Yes |
 | `rah.social` | No |
@@ -41623,7 +41624,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,523 |
-| Normal | 31,056 |
+| Normal | 31,057 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
