@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,297 |
-| social | 4,015 |
+| social | 4,016 |
 | net | 3,192 |
 | org | 2,207 |
 | de | 2,087 |
@@ -10643,6 +10643,7 @@ Here's a list of public Fediverse services.
 | `esquer.dev` | No |
 | `esquinafeliz.com` | No |
 | `esrever.cc` | No |
+| `essex.social` | No |
 | `essmann.com` | No |
 | `essmann.online` | No |
 | `est.social` | No |
@@ -41609,7 +41610,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,515 |
-| Normal | 31,050 |
+| Normal | 31,051 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
