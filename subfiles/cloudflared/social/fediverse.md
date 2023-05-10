@@ -5261,6 +5261,7 @@ Here's a list of public Fediverse services.
 | `callistoapp.com` | No |
 | `calmarius.net` | No |
 | `calmdonut.social` | Yes |
+| `calmo.blue` | Yes |
 | `calobar.club` | No |
 | `caluettefamily.com` | Yes |
 | `caluser.social` | No |
@@ -6665,7 +6666,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7633,7 +7634,7 @@ Here's a list of public Fediverse services.
 | `cybervcr.com` | Yes |
 | `cyberveins.eu` | No |
 | `cyberverse.bar` | No |
-| `cybervillains.com` | No |
+| `cybervillains.com` | Yes |
 | `cyberwald.com` | No |
 | `cyberwitches.club` | No |
 | `cyberwiz.xyz` | No |
@@ -23320,6 +23321,7 @@ Here's a list of public Fediverse services.
 | `misskey.online` | Yes |
 | `misskey.pm` | No |
 | `misskey.pro` | Yes |
+| `misskey.productions` | Yes |
 | `misskey.rip` | No |
 | `misskey.site` | No |
 | `misskey.social` | No |
@@ -38817,7 +38819,7 @@ Here's a list of public Fediverse services.
 | `videohaven.com` | No |
 | `videonaute.fr` | No |
 | `videoneat.com` | Yes |
-| `videopen.net` | Yes |
+| `videopen.net` | No |
 | `videorelay.co` | No |
 | `videos-libr.es` | No |
 | `videosafehaven.com` | No |
@@ -41605,8 +41607,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,513 |
-| Normal | 31,049 |
+| Cloudflare | 10,514 |
+| Normal | 31,050 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
