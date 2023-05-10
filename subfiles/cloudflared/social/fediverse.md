@@ -19849,7 +19849,7 @@ Here's a list of public Fediverse services.
 | `lepissier.org` | No |
 | `leporid.net` | No |
 | `lepouete.fr` | No |
-| `lepoulsdumonde.com` | No |
+| `lepoulsdumonde.com` | Yes |
 | `lepton.work` | No |
 | `leptonics.com` | No |
 | `lequerrec.eu` | No |
@@ -34891,6 +34891,7 @@ Here's a list of public Fediverse services.
 | `supersandro.de` | Yes |
 | `superseriousbusiness.org` | No |
 | `supershotgun.club` | No |
+| `supersocial.space` | Yes |
 | `superspeed-fall.com` | No |
 | `superstork.org` | No |
 | `supertails.social` | No |
@@ -41614,8 +41615,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,517 |
-| Normal | 31,054 |
+| Cloudflare | 10,519 |
+| Normal | 31,053 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
