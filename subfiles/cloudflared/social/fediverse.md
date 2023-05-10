@@ -16525,6 +16525,7 @@ Here's a list of public Fediverse services.
 | `interzone.tw` | Yes |
 | `inthebeliefofbetter.social` | No |
 | `inthecatsdreams.xyz` | No |
+| `inthedeltawaves.blog` | No |
 | `inthedeltawaves.social` | No |
 | `intheirprime.moe` | No |
 | `intherain.club` | No |
@@ -36233,7 +36234,7 @@ Here's a list of public Fediverse services.
 | `thenextbillion.com` | No |
 | `thenextweb.com` | Yes |
 | `thenice.cafe` | No |
-| `thenintendo.shop` | No |
+| `thenintendo.shop` | Yes |
 | `thenks.social` | No |
 | `thenobody.club` | No |
 | `thenomads.social` | Yes |
@@ -41607,7 +41608,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,514 |
+| Cloudflare | 10,515 |
 | Normal | 31,050 |
 
 
