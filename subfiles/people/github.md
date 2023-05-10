@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [No available user found](https://github.com/calcom/cal.com/issues/8826)
 - [x/vulndb: potential Go vuln in github.com/cloudflare/circl: CVE-2023-1732](https://github.com/golang/vulndb/issues/1765)
 - [telegram bot created suddenly error](https://github.com/acheong08/EdgeGPT/issues/395)
 - [@prisma/client/edge + Cloudflare Worker / wrangler = Could not resolve "os"](https://github.com/prisma/prisma/issues/19174)
