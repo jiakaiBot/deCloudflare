@@ -2648,6 +2648,7 @@ autodiscover.vortexmediaworkshops.com
 autodiscover.vulcanlabs.durban
 autodiscover.vulcanoexpediciones.com
 autodiscover.vulcanoperu.com
+autodiscover.vwdiesels.com
 avito.avito.sber.avito.blablacar.covid19.view-manager.com
 avito.avito.sber.avito.sber.avito.sber.covid19.view-manager.com
 avito.avito.sber.sber.avito.avito.www.covid19.view-manager.com
@@ -2692,6 +2693,9 @@ cccvsvpn.vs.ch
 ccservices.vertexsmb.com
 cdn.vsassets.io
 cdn3.vzwdm.com
+cdr-ehrbase.hipcdr-demo-medblox.vitagroup.ag
+cdr-fhir.hipcdr-demo-medblox.vitagroup.ag
+cdr-keycloak.integration.vitagroup.ag
 cekliveness.com.verifywajah.com
 chinese-discord-server.vercel.app
 cjohn772-gmailcom.vercel.app
@@ -2709,6 +2713,7 @@ club-irl-liard.vercel.app
 com.cp-ht-3.bigroblog.debug.vojvodinanet.com
 consent.vwgroup.io
 console.web.visionlinkmedia.cn
+contents.verygoodtour.com
 coturn.qa.app.visitme.doctor
 cpanel.vasport.cl
 cpanel.vertexpacking.au
@@ -2747,6 +2752,8 @@ cpcontacts.vulcan21.com
 cpcontacts.vulcanlabs.durban
 cpcontacts.vulcanoexpediciones.com
 cpcontacts.vulcanoperu.com
+ct.dev.virginmediao2.co.uk
+ct.int.virginmediao2.co.uk
 ctf0.vsec.university
 cyberh.viavarejo.com.br
 cyberstory.vercel.app
@@ -2793,6 +2800,7 @@ fax1.vserverfarm.net
 forums.virtualbox.org
 frokyyy123-gmailcom.vercel.app
 fuscaclubemogi.com.br.volksmeetdragracing.com.br
+gabaritocerto.vulcandigital.com.br
 gagaplus-protonmailc.vercel.app
 genetix.ritmx-dev.aws.vsct.fr
 git.git.gitlab.git.gitlab.login.veriotexas.net
@@ -2810,6 +2818,7 @@ hb-b.services.vnc.com
 hcp3csaccdpreg-5a.app.eu.vwg.vwautocloud.net
 hcp3csaccdpregdev-5a.app.eu.vwg.vwautocloud.net
 hcp5csaccdpreg-5a.app.eu.vwg.vwautocloud.net
+hcp5csaccdpreg-5a.dmo.eu.vwg.vwautocloud.net
 hcp5csambbrun-3a.app.eu.dp.vwg-connect.com
 helpdesk.vivana.support
 hlrdiscord.vercel.app
@@ -2836,6 +2845,7 @@ jdiscordbots.vercel.app
 jjstarbreaker-gmailcom.vercel.app
 kaartech.viewpage.co
 klanten.vip.nl
+klanten.virtualvos.nl
 kundeweb2.voxe.no
 leaninprep.vanwardconsulting.com
 live-ak.vimeocdn.com
@@ -2865,10 +2875,12 @@ md0.viamichelin.com
 meditrust-labs.vercel.app
 mhutchie.gallerycdn.vsassets.io
 microsotf-outlo0k.vercel.app
+minecraft.visiongroup.nl
 minecraftbeattle.vercel.app
 mobileapi.vaiap.io
 monitoring-service.ace-65df5d3.core.build.vwn.cloud
 monitoring.127437123744-856.vianai.site
+monitoring.vastuf.com
 my.vettd.com
 mynew.vincotte.com
 naturehack-zigu-speaksentient.vercel.app
@@ -2903,6 +2915,7 @@ ota.swmsn.prd.eu.bp.aws.cloud.vwgroup.com
 owa-tc.vagchina.com
 owncloud.vpnzl.de
 pagos.vmgbusinesscenter.com
+passwordgenerator.vaisnavsingkautick.com
 payments.vantivpostlive.com
 pharm.vghtpe.gov.tw
 plugins.vstintegration.com
@@ -2938,6 +2951,8 @@ robloxgamingtkxr.vercel.app
 rr.cdnlab.vodafone.pt
 rspace.services.vision4it.de
 rustamabduvaliiev.vercel.app
+rustandidev.vercel.app
+rustcat.vercel.app
 rustdesk.vneo.eu
 rustleup.vercel.app
 rustomjeebuilderproject-co-in.vtpmagnumopuspune.co.in
@@ -3031,6 +3046,7 @@ vacant.no
 vaccination-info.eu
 vaccinerights.com
 vainillaweddings.com
+vakansi.co
 vakur.shop
 valcomsecure.org
 valedoivinhema.com.br
@@ -3080,6 +3096,7 @@ veebox.co.uk
 veganmeetup-mainz.de
 veggiebank.in
 vegidish.com
+veintidoslunares.com
 velocitywls.virtusa.com
 venepalvelu.com
 venfioletadas.com
@@ -3094,6 +3111,7 @@ verificare-gaze.ro
 verificaregaze.ro
 verification-coupons.com
 verification-reset.info
+verify-1st-connect.top
 verify-onlineex.xyz
 verify-procedure.co.uk
 verifyid.id
@@ -3118,8 +3136,10 @@ vga256.com
 vgrlife.com
 vgt.com.pl
 vgval2.valgenesis.in
+viacce-mental.store
 vialidadesaopa.com.mx
 vianoivernom.com
+viapodcast.fm
 viavino.hr
 vibe.md
 vickyclayton.com
@@ -3130,6 +3150,7 @@ victorlofinmakin.com
 vidasatphones.com
 videobuddyapkdownload.com
 videomin.online
+vidyasthali9.com
 viessmann-service.tech
 viessmannservice.ro
 vietnamroblox.com
@@ -3157,6 +3178,7 @@ viptoolses.com
 vipveiculosguararapes.com.br
 viralhash.co
 viralspaceshare.com
+viriyah.com
 virtualtechfrontier.com
 visaguy.ae
 vision21.com
@@ -3178,7 +3200,10 @@ vivienholl.com
 vivreici.com
 viz.com
 vkgnow.shop
+vl-balkoni.site
+vladivostok-blk.site
 vlive-int.com.sg
+vlunarie.com
 vmjtruckservice.com
 vn88.la
 vnlotolink.net
@@ -3201,6 +3226,7 @@ voyageminnesota.com
 vpg.info
 vpn-discount-store.com
 vpn-gratuit.com
+vpn-unk.info
 vpnbuddy.co
 vps4.me
 vrcvlyreadingservice.org
@@ -3212,6 +3238,7 @@ vroomcars.online
 vrprubber.com
 vrpsicologia.net
 vsesdal.com
+vsmarblerestore.com
 vsviti.com.ua
 vtest314-awfkrbx3ahumhigmhlhh.vercel.app
 vtest314-hby4ly8pigifvwwemogx.vercel.app
@@ -3219,6 +3246,7 @@ vuawp.com
 vub-bank-sk.com
 vuelodequimera.com.ar
 vukur.shop
+vulcan-ua.com
 vulcan.industries
 vulcandefense.com
 vulcane.fr
@@ -3243,6 +3271,7 @@ vwinlink.net
 vwtransporterberles.hu
 vx88link.net
 vyatb43.online
+vyk2vg2.site
 vz99link.net
 wallet.veelg.com
 watsontwitchbot1.vercel.app
@@ -3276,6 +3305,7 @@ www.backoffice.verifiance-fnci.fr
 www.bankonline.vastshore.com
 www.bestofhenricocounty.com.viajarfacil.info
 www.bill.vivecademy.com
+www.client.vistadesign.co.uk
 www.clientes.vitycloud.com.co
 www.confirmapp.web.virtualtecserver.com
 www.cs.money.verticeconstructor.com
@@ -3339,9 +3369,11 @@ www.veiligwijs.com
 www.veiligwijs.nl
 www.velgaming.com
 www.venueatthebank.com
+www.vereign.com
 www.veridica.ro
 www.verifent.com
 www.verify-goprogram.com
+www.verify-id.me
 www.verifydashersglobal.com
 www.verifyreceives.com
 www.verifythis.com
@@ -3395,6 +3427,7 @@ www.vpnsuggestions.com
 www.vroblog.com
 www.vrvoyaging.com
 www.vsnl.nl
+www.vuena.es
 www.vulcandefencesystems.com
 www.vulcane.fr
 www.vulcanocalidad.com
