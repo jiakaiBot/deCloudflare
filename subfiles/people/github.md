@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [livewire-wireui.com has expired](https://github.com/wireui/wireui/issues/660)
 - [Jest tests not working with serveStatic](https://github.com/honojs/hono/issues/1093)
 - [PGRST102: Error in : not enough input when inserting data using supabase-py](https://github.com/supabase-community/supabase-py/issues/437)
 - [Error Code :429](https://github.com/transitive-bullshit/yt-semantic-search/issues/7)
