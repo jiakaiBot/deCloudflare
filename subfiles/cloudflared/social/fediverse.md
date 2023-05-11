@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,300 |
+| com | 6,301 |
 | social | 4,018 |
 | net | 3,192 |
 | org | 2,208 |
@@ -6577,6 +6577,7 @@ Here's a list of public Fediverse services.
 | `cofecollective.club` | No |
 | `cofespace.com` | No |
 | `cofeti.me` | No |
+| `coffee-beanz.com` | Yes |
 | `coffee-break.at` | No |
 | `coffee-break.cc` | Yes |
 | `coffee.link` | Yes |
@@ -6670,7 +6671,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -29718,7 +29719,7 @@ Here's a list of public Fediverse services.
 | `queerfem.space` | No |
 | `queerfreiburg.de` | No |
 | `queerhackers.social` | No |
-| `queermotion.org` | Yes |
+| `queermotion.org` | No |
 | `queernerds.social` | No |
 | `queerscience.net` | No |
 | `queersin.space` | No |
@@ -41637,8 +41638,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,525 |
-| Normal | 31,069 |
+| Cloudflare | 10,524 |
+| Normal | 31,071 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
