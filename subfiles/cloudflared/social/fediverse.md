@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,301 |
+| com | 6,302 |
 | social | 4,018 |
 | net | 3,192 |
 | org | 2,208 |
@@ -5197,6 +5197,7 @@ Here's a list of public Fediverse services.
 | `cabaal.net` | No |
 | `cabane-libre.org` | No |
 | `cabbage.lol` | Yes |
+| `cabellochino.com` | No |
 | `cable.cafe` | No |
 | `cable54.tv` | No |
 | `cabotcove.us` | No |
@@ -14510,6 +14511,7 @@ Here's a list of public Fediverse services.
 | `haijo.eu` | No |
 | `haikara.party` | No |
 | `hails.org` | No |
+| `hairbow.lol` | No |
 | `hairlessape.org` | No |
 | `hairydiode.xyz` | No |
 | `hairyfupa.com` | Yes |
@@ -41639,7 +41641,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,524 |
-| Normal | 31,071 |
+| Normal | 31,073 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
