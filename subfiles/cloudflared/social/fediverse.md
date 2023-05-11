@@ -5978,7 +5978,7 @@ Here's a list of public Fediverse services.
 | `chimera.website` | Yes |
 | `chimerae.org` | No |
 | `chin-co-ne.co` | No |
-| `china.al` | Yes |
+| `china.al` | No |
 | `china996.tk` | No |
 | `chinamstdn.com` | No |
 | `chinanews.social` | No |
@@ -6675,7 +6675,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -28049,6 +28049,7 @@ Here's a list of public Fediverse services.
 | `perron-service.de` | No |
 | `perron-tube.de` | Yes |
 | `perron.live` | No |
+| `perry.cool` | No |
 | `persadon.com` | No |
 | `persia.social` | No |
 | `persians.life` | Yes |
@@ -41651,7 +41652,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,528 |
-| Normal | 31,079 |
+| Normal | 31,080 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
