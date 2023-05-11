@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Jest tests not working with serveStatic](https://github.com/honojs/hono/issues/1093)
+- [PGRST102: Error in : not enough input when inserting data using supabase-py](https://github.com/supabase-community/supabase-py/issues/437)
 - [Error Code :429](https://github.com/transitive-bullshit/yt-semantic-search/issues/7)
 - [wlan0 disabled or not detected on Khadas VIM3](https://github.com/home-assistant/operating-system/issues/2543)
 - [stop problem fast_stable_diffusion_AUTOMATIC1111](https://github.com/TheLastBen/fast-stable-diffusion/issues/2143)
