@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,304 |
-| social | 4,018 |
+| social | 4,019 |
 | net | 3,192 |
 | org | 2,208 |
 | de | 2,091 |
@@ -17907,6 +17907,7 @@ Here's a list of public Fediverse services.
 | `kabadesu.ch` | No |
 | `kabadesu.tv` | No |
 | `kabedon.space` | Yes |
+| `kabelkollektiv.social` | Yes |
 | `kabelsalat.ch` | No |
 | `kabi.tk` | No |
 | `kabipix.tk` | No |
@@ -41645,7 +41646,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,526 |
+| Cloudflare | 10,527 |
 | Normal | 31,076 |
 
 
