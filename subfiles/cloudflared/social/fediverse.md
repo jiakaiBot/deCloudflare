@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,302 |
+| com | 6,304 |
 | social | 4,018 |
 | net | 3,192 |
 | org | 2,208 |
@@ -3208,6 +3208,7 @@ Here's a list of public Fediverse services.
 | `balena-devices.com` | Yes |
 | `ballantine.family` | No |
 | `ballhaus.community` | No |
+| `ballhaus.media` | No |
 | `balliauw.dev` | No |
 | `balliauw.net` | No |
 | `ballioljcr.org` | No |
@@ -22685,6 +22686,7 @@ Here's a list of public Fediverse services.
 | `memit.dk` | Yes |
 | `memo-village.com` | No |
 | `memo-village.online` | Yes |
+| `memo.systems` | Yes |
 | `memomo.me` | Yes |
 | `memories.am` | Yes |
 | `memoryandthought.me` | No |
@@ -23043,6 +23045,7 @@ Here's a list of public Fediverse services.
 | `mihalis.net` | No |
 | `mii.codes` | Yes |
 | `miicat.eu` | Yes |
+| `miichelle.moe` | Yes |
 | `miipub.com` | Yes |
 | `miisu.net` | No |
 | `mijninternet.info` | No |
@@ -23997,6 +24000,7 @@ Here's a list of public Fediverse services.
 | `mrh.io` | No |
 | `mrhands.horse` | No |
 | `mrhenry.be` | No |
+| `mrhonner.com` | No |
 | `mrjeda.de` | No |
 | `mrkal.fi` | Yes |
 | `mrkapowski.com` | Yes |
@@ -38839,6 +38843,7 @@ Here's a list of public Fediverse services.
 | `vide.social` | No |
 | `video-cave-v2.de` | No |
 | `video-cave.de` | No |
+| `video-liberty.com` | No |
 | `videobit.cc` | No |
 | `videochina.net` | No |
 | `videod.fr` | No |
@@ -41640,8 +41645,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,524 |
-| Normal | 31,073 |
+| Cloudflare | 10,526 |
+| Normal | 31,076 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
