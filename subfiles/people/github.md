@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error Code :429](https://github.com/transitive-bullshit/yt-semantic-search/issues/7)
 - [wlan0 disabled or not detected on Khadas VIM3](https://github.com/home-assistant/operating-system/issues/2543)
 - [stop problem fast_stable_diffusion_AUTOMATIC1111](https://github.com/TheLastBen/fast-stable-diffusion/issues/2143)
 - [No available user found](https://github.com/calcom/cal.com/issues/8826)
