@@ -5248,6 +5248,7 @@ Here's a list of public Fediverse services.
 | `calckey.nz` | No |
 | `calckey.pl` | Yes |
 | `calckey.social` | No |
+| `calckey.world` | No |
 | `calculate-linux.org` | No |
 | `calculate.social` | No |
 | `calculator29.com` | No |
@@ -41650,7 +41651,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,528 |
-| Normal | 31,078 |
+| Normal | 31,079 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
