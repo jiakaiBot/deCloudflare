@@ -1236,6 +1236,7 @@ Here's a list of public Fediverse services.
 | `aitorpazos.es` | No |
 | `aiursoft.cn` | No |
 | `aix-en-provence.social` | No |
+| `aiyoku.xyz` | Yes |
 | `aj.immo` | Yes |
 | `aj.ms` | Yes |
 | `ajacks.net` | Yes |
@@ -18446,6 +18447,7 @@ Here's a list of public Fediverse services.
 | `khinah.xyz` | No |
 | `khisanth.com` | No |
 | `khmer.love` | Yes |
+| `kho.dev` | No |
 | `khoa.cool` | Yes |
 | `khomri.com` | No |
 | `khorneflak.es` | Yes |
@@ -24056,6 +24058,7 @@ Here's a list of public Fediverse services.
 | `msinschek.de` | No |
 | `msitc.de` | No |
 | `msjl.nl` | No |
+| `msjp.pro` | No |
 | `msky.cafe` | Yes |
 | `msky.nl` | Yes |
 | `msky.tokyo` | Yes |
@@ -41646,8 +41649,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,527 |
-| Normal | 31,076 |
+| Cloudflare | 10,528 |
+| Normal | 31,078 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
