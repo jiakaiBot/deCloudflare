@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,304 |
-| social | 4,019 |
+| social | 4,020 |
 | net | 3,192 |
 | org | 2,208 |
 | de | 2,091 |
@@ -176,6 +176,7 @@ Here's a list of public Fediverse services.
 | `10hoch-6.de` | No |
 | `10hz.org` | No |
 | `10mb.at` | Yes |
+| `10mb.social` | No |
 | `10minutepleroma.com` | No |
 | `10one.net` | No |
 | `10qt.net` | No |
@@ -41652,7 +41653,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,528 |
-| Normal | 31,080 |
+| Normal | 31,081 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
