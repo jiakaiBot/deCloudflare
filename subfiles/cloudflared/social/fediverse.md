@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,304 |
-| social | 4,020 |
+| social | 4,023 |
 | net | 3,192 |
 | org | 2,208 |
-| de | 2,091 |
+| de | 2,092 |
 
 
 - Mastodon, Pleroma, etc
@@ -2226,6 +2226,7 @@ Here's a list of public Fediverse services.
 | `aqua22.hu` | Yes |
 | `aqualang.net` | No |
 | `aqualitore-lily.com` | Yes |
+| `aquametals.social` | No |
 | `aquaplus.jp` | No |
 | `aquarla.net` | No |
 | `aquatan.net` | No |
@@ -2701,7 +2702,7 @@ Here's a list of public Fediverse services.
 | `athemeus.com` | No |
 | `atho.me` | No |
 | `athousandwords.site` | No |
-| `atico.ga` | Yes |
+| `atico.ga` | No |
 | `atikoro.net` | No |
 | `atilla.im` | No |
 | `atiltedtree.dev` | No |
@@ -10794,6 +10795,7 @@ Here's a list of public Fediverse services.
 | `everythingsysadmin.com` | Yes |
 | `everywhereforever.net` | No |
 | `evgenykuznetsov.org` | No |
+| `evgn.dev` | Yes |
 | `evidence.town` | No |
 | `eviealways.com` | No |
 | `evil.ist` | No |
@@ -14106,6 +14108,7 @@ Here's a list of public Fediverse services.
 | `grelli.org` | No |
 | `gremlin.space` | No |
 | `gremlins.eu` | No |
+| `gremlins.social` | Yes |
 | `grenat.art` | No |
 | `grenat.ovh` | No |
 | `grenland.social` | No |
@@ -18732,6 +18735,7 @@ Here's a list of public Fediverse services.
 | `kloenk.eu` | No |
 | `kloetensecurity.com` | Yes |
 | `klog.tw` | Yes |
+| `klomp.de` | No |
 | `klosowicz.net` | No |
 | `kloud.social` | Yes |
 | `kloudboy.xyz` | No |
@@ -25397,6 +25401,7 @@ Here's a list of public Fediverse services.
 | `newsmastodon.com` | No |
 | `newsmovies.online` | No |
 | `newsocial.tech` | Yes |
+| `newspaceeconomy.ca` | No |
 | `newspeak.house` | Yes |
 | `newsrelay.org` | No |
 | `newsroom.pub` | No |
@@ -28581,6 +28586,7 @@ Here's a list of public Fediverse services.
 | `plataformess.org` | No |
 | `platanito.org` | No |
 | `plateia.org` | Yes |
+| `platformsh.site` | No |
 | `platica.io` | No |
 | `platt.social` | No |
 | `platta.at` | No |
@@ -32167,6 +32173,7 @@ Here's a list of public Fediverse services.
 | `screebo.net` | Yes |
 | `screech.social` | No |
 | `screencastsonline.social` | No |
+| `screengeeks.club` | No |
 | `screenshake.io` | No |
 | `screentimes.net` | Yes |
 | `screenwriting.space` | No |
@@ -32176,6 +32183,7 @@ Here's a list of public Fediverse services.
 | `scribbler.social` | No |
 | `scribblers.club` | No |
 | `scribe.io` | No |
+| `scribing.social` | No |
 | `scripted.social` | No |
 | `scriptfanix.fr` | No |
 | `scriptforge.org` | Yes |
@@ -41652,8 +41660,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,528 |
-| Normal | 31,081 |
+| Cloudflare | 10,529 |
+| Normal | 31,088 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
