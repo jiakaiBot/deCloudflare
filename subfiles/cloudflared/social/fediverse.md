@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,304 |
-| social | 4,024 |
+| social | 4,025 |
 | net | 3,192 |
 | org | 2,209 |
-| de | 2,093 |
+| de | 2,094 |
 
 
 - Mastodon, Pleroma, etc
@@ -12363,6 +12363,7 @@ Here's a list of public Fediverse services.
 | `freemine.de` | No |
 | `freemovies1080p.com` | No |
 | `freemyip.com` | Yes |
+| `freendom.click` | No |
 | `freeneckbeardextremist.xyz` | No |
 | `freenet.ru` | No |
 | `freeradical.zone` | No |
@@ -26747,7 +26748,7 @@ Here's a list of public Fediverse services.
 | `olivianet.work` | No |
 | `olivr.me` | No |
 | `oljo.xyz` | No |
-| `olliespeople.place` | Yes |
+| `olliespeople.place` | No |
 | `olllllllo.fun` | No |
 | `olly.xyz` | No |
 | `olma.me` | No |
@@ -28114,6 +28115,7 @@ Here's a list of public Fediverse services.
 | `petras.space` | No |
 | `petrichor.pt` | No |
 | `petrikajander.com` | Yes |
+| `petripulkkinen.social` | No |
 | `petris.net` | No |
 | `petrolkorps.cc` | No |
 | `petronel.info` | No |
@@ -31677,6 +31679,7 @@ Here's a list of public Fediverse services.
 | `salvo.chat` | No |
 | `salye.me` | Yes |
 | `salzman.uk` | No |
+| `sam-isa.de` | No |
 | `samadam.au` | No |
 | `samariter.social` | No |
 | `samaschke.social` | Yes |
@@ -41666,8 +41669,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,533 |
-| Normal | 31,090 |
+| Cloudflare | 10,532 |
+| Normal | 31,094 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
