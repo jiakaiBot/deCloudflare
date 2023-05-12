@@ -2360,6 +2360,7 @@ Do not create new issue or we will close it as duplicate.
 | [cuuvihoo3004@twitter](https://twitter.com/cuuvihoo3004/status/1552483021525512192) | advertise |
 | [Cvd882@twitter](https://twitter.com/Cvd882/status/1383582186859753481) | advertise |
 | [cvdat2399@twitter](https://twitter.com/cvdat2399/status/1566906216231473153) | advertise |
+| [cwejohnson@twitter](https://twitter.com/cwejohnson/status/1657060914745442317) | advertise |
 | [cwizhar@twitter](https://twitter.com/cwizhar/status/1388022395164774401) | advertise |
 | [CXCubeHD@twitter](https://twitter.com/CXCubeHD/status/1534248559654100995) | advertise |
 | [Cya64370982@twitter](https://twitter.com/Cya64370982/status/1639861283125092352) | advertise |
