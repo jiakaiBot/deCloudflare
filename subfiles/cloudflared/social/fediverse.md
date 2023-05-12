@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,304 |
-| social | 4,023 |
+| social | 4,024 |
 | net | 3,192 |
-| org | 2,208 |
-| de | 2,092 |
+| org | 2,209 |
+| de | 2,093 |
 
 
 - Mastodon, Pleroma, etc
@@ -6677,7 +6677,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -6875,6 +6875,7 @@ Here's a list of public Fediverse services.
 | `contra-bit.com` | No |
 | `contrapointsfan.club` | No |
 | `contratv.xyz` | No |
+| `contrib.social` | No |
 | `controlfreak.live` | No |
 | `controverse.tube` | No |
 | `convade.com` | No |
@@ -23641,6 +23642,7 @@ Here's a list of public Fediverse services.
 | `moixamental.cat` | No |
 | `mojn.fi` | No |
 | `mojo.fyi` | Yes |
+| `mojobus.org` | Yes |
 | `mojobuslife.com` | No |
 | `mojotube.net` | No |
 | `mojowriter.com` | Yes |
@@ -24731,6 +24733,7 @@ Here's a list of public Fediverse services.
 | `nachof.blog` | No |
 | `nachrichten.social` | No |
 | `nachtgeschichten.org` | No |
+| `nachtsonnen.de` | No |
 | `nachttaenzer.de` | No |
 | `nacika.com` | No |
 | `nacq.me` | No |
@@ -34060,7 +34063,7 @@ Here's a list of public Fediverse services.
 | `spinics.net` | No |
 | `spinkynetworks.com` | No |
 | `spinne.systems` | No |
-| `spinning-fantasies.org` | No |
+| `spinning-fantasies.org` | Yes |
 | `spinster.dev` | Yes |
 | `spinster.xyz` | Yes |
 | `spinweb.de` | No |
@@ -41662,7 +41665,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,529 |
+| Cloudflare | 10,532 |
 | Normal | 31,090 |
 
 
