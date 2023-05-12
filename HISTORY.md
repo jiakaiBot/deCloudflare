@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-05-12: [Network Performance Issues in China](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7gd0nkh3tqd7)
 - 2023-05-10: [Network performance issues in Miami datacenter](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/dg8n3wmjs0n6)
 - 2023-05-10: [Increased network latency in some locations](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hd72z8jrywvs)
 - 2023-05-10: [Network performance Issues in South America locations](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7fh5n2137flg)
