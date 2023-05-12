@@ -2357,10 +2357,12 @@ www5.okayasu-shoji.co.jp
 wwweqos.ogxjvb.cn
 ytrtefds.onedumb.com
 zxbhgf.onedumb.com
+1ffqmd7s4pwgd-1s.it-cpi005-rt.cfapps.eu20.hana.ondemand.com
 2023.osintomatico.com
 26b7338b-b10f-4a26.onlineservice-gate.net
 404.onet.pl
 a.x.x.62-108-32-109.org-dns.com
+a2a-ir1-dev.onbmc.com
 actspotwifi.onthespot.com
 adfsw.fix.orange.ro
 administration-wp.obseques-en-france.pro
@@ -2388,6 +2390,7 @@ app.response.oracle-mail.com
 app1.okekomp.com
 apple-uat.internal.onnephroflow.com
 appleai.oops.wtf
+arango.ocb.by
 arubmanager.onyx-sites.io
 as1.lab.openbanking.sa
 assert.on365.mobi
@@ -2538,6 +2541,7 @@ idcs-a23f5f48c6694ce5af325fb5ad791020.identity.oraclecloud.com
 idcs-b4b65e6dcfeb4eba9b7e241801a0c52c.identity.oraclecloud.com
 idcs-b550c93f17c14ccda66dfd3bdfb1bda7.identity.oraclecloud.com
 idcs-cb3e5e6f802e459c9ea202782ce1f488.identity.oraclecloud.com
+idcs-df980486fe044f09a5428c7862e7b2b0.idcs.identity.us-langley-1.oci.oraclegovcloud.com
 image.mail.onedrive.com
 in.offto.click
 inet.o-tam.jp
@@ -2551,7 +2555,9 @@ jenkins.cloud.oekopol.de
 jizakeyaryousuke.owst.jp
 jpnationn.onepage.website
 ketakio.onlinegoogleadscourse.com
+keycloak.prod.omnifederal.net
 kqutvogc.opebanwo.club
+l400315-iflmap.hcisbp.br1.hana.ondemand.com
 labelcloudapidev.onnicelabel.com
 leclerc-ticketing.onefirst.dev
 lighthouse.odt.net
@@ -2591,6 +2597,8 @@ mymillenniumbcp3-imwrapper.cc.oneit.pt
 mysav-dotnet-app.orbility.com
 navigate-import.qa.sit.sys.odj.cloud
 nayans.onlinegoogleadscourse.com
+ndia-dev.outsystemsenterprise.com
+ndia.outsystemsenterprise.com
 netflix.openplayapp.com
 nexgenauth.ocpl.tech
 nextgen-feature-enmng-1461-cz.oxytest.cz
@@ -2681,6 +2689,7 @@ oic-test-hcpublicutilities.integration.ocp.oraclecloud.com
 oigduusrva.com
 oilandgasroyalties.com
 oingclubo.com
+oire.me
 oixir.com
 okanefuyaso.info
 okazusagashi.com
@@ -2693,6 +2702,7 @@ okolotepla.com.ua
 oksenate.gov
 okservice.id
 oktafproduction.com
+oktagonen.nu
 oktan24.pl
 oktarinastore.com
 oktave-chratzer.de
@@ -2736,6 +2746,7 @@ on100static.oktacdn.com
 onbet.codes
 onbetvn.com
 onboardingofficers.co.uk
+ondaz.de
 onderhoudsbedrijfbalk.nl
 one-hbs.com
 one-xox.com
@@ -2766,6 +2777,7 @@ onlineseotools.info
 onlineservice-bog.com
 onlybest.com.ua
 onlyescortsbirmingham.uk
+onlyone-angola.com
 onlyskinnyrecipes.com
 onlytest.online
 onnet.ro
@@ -2784,6 +2796,7 @@ opc1contabil.com.br
 opcinaklakar.hr
 opd.utilities-cloud.oracleindustry.com
 opdaq.com
+opel-dresden.de
 opengovca.com
 openhardware.science
 opensafe-transaction.com
@@ -2793,6 +2806,7 @@ openvpn.id
 openworlds.info
 operagin.com
 operationhattrick.org
+oppimistili.fi
 oppnaforetag.se
 opshuckleor.com
 opsiss.com
@@ -2830,6 +2844,7 @@ oresundsvand.dk
 organicwealth.net
 organizandocomaolga.com
 organsthud.com
+orguhjihs.shop
 orgxts.com
 oridistro.com
 oriental-hobbies.com
@@ -2936,6 +2951,7 @@ pt.originalsilk-rugs.com
 qa3.citizensbank.opentext.io
 qacand.hcm.ondemand.com
 qr.onesupport.dk
+r4.res.office365.com
 recover2.099thanks.pages.ontraport.net
 restorestack-db-migration.dockerhost4.otris.cloud
 review-update-nod-u08bxz.a.oabat.de
@@ -2948,6 +2964,7 @@ s403-sun2-coinbase-exchange-recorder.server.uat.ownid.com
 safeandsoundpenzance.osam-dev.co.uk
 sams2for1pizza.onbooking.ca
 sber.avito.blablacar.git.git.git.covid19.ooo-medexpress.ru
+sber.avito.sber.avito.sber.sberbank.www.covid19.omveterinary.com
 sber.avito.sberbank.git.git.covid19.ooo-medexpress.ru
 sber.blablacar.avito.git.git.git.covid19.ooo-medexpress.ru
 sber.blablacar.avito.www.git.git.covid19.ooo-medexpress.ru
@@ -2980,10 +2997,12 @@ smc-link.s4hana.ondemand.com
 smc-seb.s4hana.ondemand.com
 soapapi-ontw.onderhoudsketen.nl
 sovereign.opg.uk
+spamimagedetection-dev.onpassive.ac
 spb.optimalog.ru
 spring-api-lunar.oufdhuofv.xyz
 sr.okjob.tk
 sso.sec.test.tsi-dev.otc-service.com
+sso.tsi-dev.otc-service.com
 sta.osfc.ac.uk
 staging-api.onehouse.ai
 stat.oborudunion.ru
@@ -3015,6 +3034,7 @@ txp.oschadbank.ua
 u4opodlwvf.oscartielle.cloud
 u666uy04.optimalworkshop.com
 uraniwa-takadanobaba.owst.jp
+verify.onlinecourseplatform.net
 vhabjfrplb.abj.hec.ondemand.com
 vpc1.owners.cf
 vpn.oxleas.nhs.uk
@@ -3091,6 +3111,7 @@ www.oakwooddoors.co.uk
 www.oasiahotels.com
 www.oasysparquetematico.com
 www.oberoihotels.com
+www.objectif-services.net
 www.objectifargent.ca
 www.ocbiofeedback.com
 www.ocean-citizens.org
@@ -3111,6 +3132,7 @@ www.offroulders.de
 www.ofi-asso.org
 www.oftalmollano.co
 www.oga.ogatrack.com
+www.ogyapi.com
 www.oic-cert.org
 www.okactivity.com
 www.okaidi.be
@@ -3125,7 +3147,9 @@ www.oklegionpost129.org
 www.okmultiservice.dk
 www.okservice.id
 www.oktafproduction.com
+www.oktagonen.nu
 www.oktakala.ir
+www.oktal-pharma.rs
 www.oktan24.pl
 www.oktave-chratzer.de
 www.oktayhanmetal.com
@@ -3207,6 +3231,7 @@ www.ostrava24.com
 www.oto-uk.org
 www.otokokimonokato.com
 www.ottawaalpost33.com
+www.ottawapublicfoods.org
 www.ottotrattoria.com
 www.ottumwacourier.com
 www.ouest-multisolutions-services.com
@@ -3222,6 +3247,7 @@ www.outlooksigns.com
 www.outsourcestrategies.com
 www.overbyte.com.au
 www.overheadsafe.com
+www.overloadtreeservice.com
 www.overlopen.info
 www.oversight.gov
 www.overstock.com
