@@ -5453,6 +5453,7 @@ Here's a list of public Fediverse services.
 | `carya.software` | No |
 | `cas.social` | No |
 | `casablog.com` | No |
+| `casacamelia.xyz` | Yes |
 | `casavant.org` | No |
 | `cascadia.chat` | No |
 | `cascadia.games` | No |
@@ -41665,7 +41666,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,532 |
+| Cloudflare | 10,533 |
 | Normal | 31,090 |
 
 
