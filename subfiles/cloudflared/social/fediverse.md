@@ -9155,6 +9155,7 @@ Here's a list of public Fediverse services.
 | `dogetron.com` | No |
 | `dogfood.social` | Yes |
 | `dogg.zone` | Yes |
+| `doggirl.me` | No |
 | `doghouse.social` | No |
 | `doghub.eu` | No |
 | `dogiakos.com` | No |
@@ -14407,7 +14408,7 @@ Here's a list of public Fediverse services.
 | `habets.house` | Yes |
 | `habitattt.it` | No |
 | `hablo.cc` | Yes |
-| `hacc.media` | Yes |
+| `hacc.media` | No |
 | `hacdias.com` | Yes |
 | `hach.re` | Yes |
 | `hachiue.net` | No |
@@ -41669,8 +41670,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,532 |
-| Normal | 31,094 |
+| Cloudflare | 10,531 |
+| Normal | 31,096 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
