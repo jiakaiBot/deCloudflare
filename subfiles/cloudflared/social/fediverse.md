@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,306 |
-| social | 4,025 |
+| com | 6,307 |
+| social | 4,027 |
 | net | 3,192 |
-| org | 2,209 |
-| de | 2,095 |
+| org | 2,211 |
+| de | 2,096 |
 
 
 - Mastodon, Pleroma, etc
@@ -7006,6 +7006,7 @@ Here's a list of public Fediverse services.
 | `cosmoschaos.net` | No |
 | `cosnomi.com` | Yes |
 | `cosocial.ca` | No |
+| `cosocial.engineering` | No |
 | `cosp.la` | No |
 | `cosp.me` | Yes |
 | `cosplay.earth` | No |
@@ -12018,6 +12019,7 @@ Here's a list of public Fediverse services.
 | `fo0bar.org` | No |
 | `foad.me.uk` | No |
 | `focal.social` | No |
+| `foci.fi` | No |
 | `focused.systems` | Yes |
 | `fodor.app` | Yes |
 | `foederati.dk` | No |
@@ -14675,6 +14677,7 @@ Here's a list of public Fediverse services.
 | `harfang.social` | Yes |
 | `harijs.id.lv` | No |
 | `harmoniescreatives.com` | No |
+| `harmonynet.org` | No |
 | `harmonytheory.net` | No |
 | `harnosoft.com` | Yes |
 | `haroo.ca` | No |
@@ -15427,6 +15430,7 @@ Here's a list of public Fediverse services.
 | `homebrewserver.club` | No |
 | `homecloud.site` | Yes |
 | `homecomputing.fr` | No |
+| `homehosted.ru` | No |
 | `homeip.net` | No |
 | `homelab.beauty` | Yes |
 | `homelab.gay` | Yes |
@@ -28699,6 +28703,7 @@ Here's a list of public Fediverse services.
 | `plspet.cf` | No |
 | `plswork.tk` | No |
 | `plttn.xyz` | Yes |
+| `plueschmoors.de` | No |
 | `plugsuit.club` | Yes |
 | `plumbob.social` | No |
 | `plume.ink` | No |
@@ -30769,6 +30774,7 @@ Here's a list of public Fediverse services.
 | `rheinneckar.social` | Yes |
 | `rhetoricked.com` | No |
 | `rhetro.de` | No |
+| `rheydskey.org` | No |
 | `rheydt.social` | No |
 | `rhg135.com` | No |
 | `rhino-inquisitor.com` | Yes |
@@ -30783,6 +30789,7 @@ Here's a list of public Fediverse services.
 | `rhrdbc.link` | No |
 | `rhrish.com` | No |
 | `rhubarb.land` | Yes |
+| `rhubarbe.social` | No |
 | `rhue.eu` | No |
 | `rhumbs.fr` | No |
 | `rhyme.ml` | Yes |
@@ -32284,6 +32291,7 @@ Here's a list of public Fediverse services.
 | `seaoco.com` | No |
 | `seaofog.com` | Yes |
 | `seaofpeers.com` | Yes |
+| `seaquillcatstone.com` | No |
 | `searx.li` | No |
 | `seaside.cafe` | No |
 | `seaswallow.me` | Yes |
@@ -36613,6 +36621,7 @@ Here's a list of public Fediverse services.
 | `thuglife.moe` | Yes |
 | `thul.io` | No |
 | `thumped.com` | Yes |
+| `thumpr.social` | No |
 | `thunderirc.net` | No |
 | `thunderkeys.net` | No |
 | `thurk.org` | No |
@@ -37779,6 +37788,7 @@ Here's a list of public Fediverse services.
 | `tusks.co` | No |
 | `tusks.lol` | Yes |
 | `tuskular.com` | No |
+| `tusky.pink` | No |
 | `tusooa.xyz` | No |
 | `tut.ac.jp` | No |
 | `tutafey.eu` | No |
@@ -41674,7 +41684,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,531 |
-| Normal | 31,099 |
+| Normal | 31,109 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
