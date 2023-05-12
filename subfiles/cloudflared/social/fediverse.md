@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,304 |
+| com | 6,306 |
 | social | 4,025 |
 | net | 3,192 |
 | org | 2,209 |
-| de | 2,094 |
+| de | 2,095 |
 
 
 - Mastodon, Pleroma, etc
@@ -12566,6 +12566,7 @@ Here's a list of public Fediverse services.
 | `fromhome.ovh` | No |
 | `fromm.social` | No |
 | `fromouter.space` | Yes |
+| `fromseabed.com` | No |
 | `fromthedeskofkilgoretrout.org` | No |
 | `front-end.social` | No |
 | `frontend.country` | No |
@@ -18012,6 +18013,7 @@ Here's a list of public Fediverse services.
 | `kalamazoo.social` | Yes |
 | `kalapa.social` | No |
 | `kalasarn.se` | No |
+| `kalckey.com` | No |
 | `kalebporter.club` | No |
 | `kalecream.com` | Yes |
 | `kaleido.moe` | Yes |
@@ -23793,6 +23795,7 @@ Here's a list of public Fediverse services.
 | `moonbutt.science` | Yes |
 | `mooncell.uk` | No |
 | `moondeer.blog` | Yes |
+| `mooneyed.de` | No |
 | `moongirl.io` | No |
 | `moongirl.net` | No |
 | `moonglade.net` | No |
@@ -41671,7 +41674,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,531 |
-| Normal | 31,096 |
+| Normal | 31,099 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
