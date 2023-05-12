@@ -1830,6 +1830,7 @@ api-tor-staging.naas.ultipro.ca
 api-uaz-prod.ukh.de
 api.garage.uniqys.net
 api.unitynxt.com
+api.uscis.gov
 app.barak-twilio-messaging-svc.uptimedev.dev
 apple5.grg.uclan-uk.com
 apps-nonprod.uhcprovider.com
@@ -1862,6 +1863,7 @@ bti.unimar.ac.id
 bvt.unitrontourism.com
 calypso.ue.katowice.pl
 camaidopk7jeuoqifnvg.www.blog.test.naloxone.updatemy.website
+cardwizvtm-web.uatfisprepaid.com
 cascmg.usgovcloudapp.net
 cdn.unistream.io
 celltraveller.uke.de
@@ -1965,11 +1967,13 @@ marjan.unitrontourism.com
 matricula.unievangelica.edu.br
 media.unibet.fr
 menu-1654.payment-api.ueat.io
+minecraft.univ-exp.com
 minecraft.untalan.me
 missingmail.usps.com
 money-recognition.apps.uraki.dev
 monitoring.unydevelopernetwork.com
 moskit.uwm.edu.pl
+msd-bot-server.ubisendaws.com
 my-api.ucom.am
 nasertours.unitrontourism.com
 navigation-backend.uptecra.com
@@ -1984,6 +1988,7 @@ oblivion.usbx.me
 office365leads.usaverifieddatas.com
 ofx-cat.usps.com
 ojs.uho.ac.id
+oldgemo.uplifted-cities.com
 opendcim.ic.unicamp.br
 order.upngopay.com
 otsuyon.urahiroblog.com
@@ -2013,6 +2018,7 @@ sber.sber.sber.sber.www.sberbank.covid19.ukrtranspark.com
 sberbank.avito.sber.sberbank.sber.sber.covid19.ukrtranspark.com
 sberbank.sber.sber.avito.sberbank.www.covid19.ukrtranspark.com
 sberbank.sberbank.sber.avito.sber.sber.covid19.ukrtranspark.com
+secure.uatcitizensaccess.com
 secure.urbanhaze.com
 secure.usverify.com
 seg.unmz.cz
@@ -2041,6 +2047,7 @@ testclwd.uber.space
 thefarmatsanbenito.updatemyprofile.com
 thenews.updatemyprofile.com
 ticket1.drknw.uber.space
+tim.unlinsurance.com
 token.uicpayment.com.tw
 totalturvallisuus.ukkonenkotisivut.fi
 toutdeballer.uqam.ca
@@ -2060,6 +2067,7 @@ uapi.uniware.com.br
 uarun-mobile.api.ua.com
 uber-trust-partners.com
 ubercpa.net
+uberliability.com.au
 uberrito.com
 ubersteelshop.hu
 uberstyle.me
@@ -2070,6 +2078,7 @@ ucca.ro
 ucfsmakma.site
 uchkzmzehr.com
 ucs-web-google-auth-redirect.uc-school.com
+udefal.org
 udik.shop
 udmeldelse.dk
 udonexpo.net
@@ -2117,9 +2126,11 @@ uncnso.red
 uncover-romania.com
 undeenardoo.com
 underconsoletation.com
+underfloorparts.co.uk
 unearthed.com
 unexpectedlygeeky.com
 unfurlcuisine.com
+uniareadocliente.online
 unibet.me
 unico.com.pk
 unicom24.ru
@@ -2128,6 +2139,7 @@ uniconta-holstebro.dk
 uniconta-lemvig.dk
 uniconta-struer.dk
 unidadeclass.com.br
+unifiedvapt.unilab.com.ph
 unionfederal.com
 uniqueleaders.com.au
 unisgame.space
@@ -2149,18 +2161,16 @@ unlockedsoft.com
 unlocksamsungfree.com
 unnumelom.com
 unoprimeservice.com
-unreaalcoorporatioon.online
-unreaalcoorporatioon.shop
-unreaalcoorporatioon.site
-unreaalgllobaal.online
 unreaalinnforrm.shop
 unrelenting.show
 unrwa.es
+unsuitablevisitorstickconfuse.sbs
 unthinking.photography
 unwrappedspotify.com
 up-app.unpluggedsystems.app
 upbargains.com
 update.md
+updateadobeflash.website
 updateadvanceduberinfo-product.info
 updategametoday.com
 updatehargamaterial.com
@@ -2176,6 +2186,7 @@ updateuberprogressiveinfo-product.info
 updateuberrefinedinfo-product.info
 updateuberrenewedinfo-product.info
 updatewp.my.id
+upf-osaka.org
 uplibra.io
 upliftmtsecure.com
 upmoney.co.uk
@@ -2216,6 +2227,7 @@ urquia.org
 urricanevern.com
 uruguayseguro.com
 uruswan.com
+usaajbev.cf
 usaaoll.site
 usaarealcoportal.com
 usabilitygeek.com
@@ -2238,7 +2250,6 @@ usetogether.com
 ush-joho-support.u-sacred-heart.ac.jp
 ushigyu.net
 uslightingtrends.com
-usretentioncredit.com
 uss.gov.ua
 usscandidates.org
 ussd.org.ua
@@ -2251,6 +2262,7 @@ utme.uniqlo.com
 utok.ph
 utoumine.net
 utssydney.com
+utusankini.com
 uudelleenaktivointi-op-fi.info
 uudzfbzthj.com
 uuhvungdag.com
@@ -2315,15 +2327,18 @@ www.bootnet.vn.unlock-bios.com
 www.clasifiventas.upitrack.com
 www.flrealtyservice.usashoecompany.com
 www.fooddelivery.uyanow.co.zw
+www.gitlab.git.accounts.ulohas.tw
 www.hardreset24.unlock-help.com
 www.heartland-mutual-insurance.unidad22.com
 www.herningboligservice.usboligudlejning.dk
+www.hf.uio.no
 www.hope.uzh.ch
 www.ibank.ut-bk.com
 www.laravelapi.unikalservice.com
 www.login.unnet.com.br
 www.maybelline.usaaremotejobs.com
 www.mo.ascdp.updatemy.website
+www.oldgemo.uplifted-cities.com
 www.orders.zubek.usermd.net
 www.pakaianseragamjahitansj.unitedalarm.com.my
 www.paymatrixx.unkinstantdelivery.net
@@ -2347,6 +2362,7 @@ www.uberabacountryclub.com.br
 www.uberhaus.org
 www.uberrito.com
 www.ubsafe.nl
+www.ucp-inc.com
 www.ucssecurity.nl
 www.uda-uclouvain.be
 www.udderlicious.co.uk
@@ -2356,6 +2372,7 @@ www.ugc.fr
 www.ugelhuancabamba.gob.pe
 www.ugurhanyapi.com
 www.ujitimedessert.com
+www.ukhomeimprovement.co.uk
 www.ukiahcannabisdelivery.com
 www.ukpublicspending.co.uk
 www.ukrainianbrides4you.com
@@ -2371,6 +2388,7 @@ www.umlingo.com
 www.un-carriers-services.online
 www.uncommon.com
 www.undisclosedenergycommission.co.uk
+www.uniareadocliente.online
 www.unicampania.it
 www.uniconta-holstebro.dk
 www.uniconta-lemvig.dk
@@ -2422,6 +2440,7 @@ www.usa-contactsources.com
 www.usaaircraft.com
 www.usaairduct.com
 www.usacashgold.com
+www.usadosembomestado.com
 www.usaroofcoatings.com
 www.usbby.org
 www.usda.gov
