@@ -82,7 +82,10 @@ akeebarestore3to4.7thheaven.cloud
 amazon.79-9.com
 api.7-eleven.com
 api.7semyan.ru
+login.74437.com
+login.75782.com
 loyalty-qa-api.7eleven.com.my
+monitoring.70.ru
 paket-usaha.7permata.com
 staging.7rivers.kz
 tr.7wdata.net
