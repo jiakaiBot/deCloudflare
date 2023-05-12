@@ -6677,7 +6677,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -15293,6 +15293,7 @@ Here's a list of public Fediverse services.
 | `hkc.social` | No |
 | `hkdon.com` | Yes |
 | `hklbgd.org` | No |
+| `hkpr.me` | Yes |
 | `hks.zone` | Yes |
 | `hku.hk` | Yes |
 | `hlad.org` | No |
@@ -19921,6 +19922,7 @@ Here's a list of public Fediverse services.
 | `lestutosdeprocessus.fr` | Yes |
 | `let-it-sli.de` | No |
 | `letallmortalfleshfindtheirvoice.social` | No |
+| `lethallava.land` | No |
 | `lethani.ch` | No |
 | `lethar.gy` | No |
 | `letmetellyousomething.net` | No |
@@ -41661,7 +41663,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,529 |
-| Normal | 31,088 |
+| Normal | 31,090 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
