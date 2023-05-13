@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,308 |
+| com | 6,309 |
 | social | 4,027 |
 | net | 3,192 |
 | org | 2,211 |
@@ -18978,7 +18978,7 @@ Here's a list of public Fediverse services.
 | `koreus.social` | No |
 | `korfmann.net` | Yes |
 | `korhonen.cc` | Yes |
-| `korio.me` | No |
+| `korio.me` | Yes |
 | `kormi.hu` | No |
 | `korosuke.xyz` | Yes |
 | `korot.ru` | No |
@@ -34046,6 +34046,7 @@ Here's a list of public Fediverse services.
 | `spelt.io` | No |
 | `sperg.city` | Yes |
 | `sperg.world` | No |
+| `spesh.com` | No |
 | `speyhard.club` | Yes |
 | `spezi.social` | No |
 | `spezl.bayern` | No |
@@ -41684,7 +41685,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,531 |
+| Cloudflare | 10,532 |
 | Normal | 31,110 |
 
 
