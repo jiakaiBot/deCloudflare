@@ -7278,6 +7278,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinTun69880451@twitter](https://twitter.com/MinTun69880451/status/1389979636822466563) | advertise |
 | [MINVEST18@twitter](https://twitter.com/MINVEST18/status/1443423830459011078) | advertise |
 | [MinZinAung1@twitter](https://twitter.com/MinZinAung1/status/1391329935558471686) | advertise |
+| [min_hao6@twitter](https://twitter.com/min_hao6/status/1657400886052921346) | advertise |
 | [Mio93515060@twitter](https://twitter.com/Mio93515060/status/1395794442238316550) | advertise |
 | [mio_shogun@twitter](https://twitter.com/mio_shogun/status/1573249270001582082) | advertise |
 | [mirabror77@twitter](https://twitter.com/mirabror77/status/1634981359893749760) | advertise |
@@ -7762,6 +7763,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mzfrn3@twitter](https://twitter.com/Mzfrn3/status/1601677126482407424) | advertise |
 | [MzwzSrh@twitter](https://twitter.com/MzwzSrh/status/1581275350599749633) | advertise |
 | [MZykky@twitter](https://twitter.com/MZykky/status/1552553256861470722) | advertise |
+| [m_abdelmaboud@twitter](https://twitter.com/m_abdelmaboud/status/1657391869473562626) | advertise |
 | [M_alamin95@twitter](https://twitter.com/M_alamin95/status/1376986669270847497) | advertise |
 | [m_isaac@twitter](https://twitter.com/m_isaac/status/1608218349036777472) | advertise |
 | [m_mazeed2011@twitter](https://twitter.com/m_mazeed2011/status/1488809662917091330) | advertise |
@@ -11449,6 +11451,7 @@ Do not create new issue or we will close it as duplicate.
 | [tiger_brow@twitter](https://twitter.com/tiger_brow/status/1389978013996097536) | advertise |
 | [tiggy8x@twitter](https://twitter.com/tiggy8x/status/1485163858755207173) | advertise |
 | [tightslvr1@twitter](https://twitter.com/tightslvr1/status/1576256442293968897) | advertise |
+| [tihuynh120586@twitter](https://twitter.com/tihuynh120586/status/1657387545586708482) | advertise |
 | [Tiii60222842@twitter](https://twitter.com/Tiii60222842/status/1381243276804513796) | advertise |
 | [TiinTung@twitter](https://twitter.com/TiinTung/status/1618284022014308355) | advertise |
 | [TikkhaVen@twitter](https://twitter.com/TikkhaVen/status/1390583202595672069) | advertise |
