@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,309 |
+| com | 6,310 |
 | social | 4,028 |
 | net | 3,192 |
 | org | 2,212 |
@@ -25679,6 +25679,7 @@ Here's a list of public Fediverse services.
 | `nishimin.net` | Yes |
 | `nishinomiya.in.net` | No |
 | `nishiwaseda.net` | No |
+| `nishtahir.com` | No |
 | `nislam.wiki` | Yes |
 | `niso.org` | No |
 | `niso.plus` | No |
@@ -36248,6 +36249,7 @@ Here's a list of public Fediverse services.
 | `thelake.town` | Yes |
 | `thelandofooops.icu` | Yes |
 | `thelaserguy.online` | No |
+| `thelastelemental.art` | No |
 | `thelballwiki.gq` | No |
 | `thele.me` | Yes |
 | `thelema.social` | No |
@@ -41692,7 +41694,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,533 |
-| Normal | 31,115 |
+| Normal | 31,117 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
