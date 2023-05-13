@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,027 |
 | net | 3,192 |
 | org | 2,211 |
-| de | 2,096 |
+| de | 2,097 |
 
 
 - Mastodon, Pleroma, etc
@@ -2536,6 +2536,7 @@ Here's a list of public Fediverse services.
 | `asgardius.company` | Yes |
 | `asgartech.com` | No |
 | `ash.bzh` | No |
+| `ash.ms` | Yes |
 | `ashaibani.com` | Yes |
 | `asharpminor.com` | No |
 | `ashdavies.dev` | Yes |
@@ -19807,6 +19808,7 @@ Here's a list of public Fediverse services.
 | `lein.us` | No |
 | `leinde.de` | No |
 | `leingod.space` | No |
+| `leipziele.de` | No |
 | `leipzig.town` | No |
 | `leipzigesports.de` | Yes |
 | `leipzigtown.blog` | No |
@@ -41686,8 +41688,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,532 |
-| Normal | 31,111 |
+| Cloudflare | 10,533 |
+| Normal | 31,112 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
