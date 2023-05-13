@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,310 |
-| social | 4,028 |
+| social | 4,029 |
 | net | 3,192 |
 | org | 2,212 |
 | de | 2,097 |
@@ -4309,6 +4309,7 @@ Here's a list of public Fediverse services.
 | `bludood.com` | Yes |
 | `blue-mastodon.club` | No |
 | `blue-sky.world` | No |
+| `blue0a6m5c.yokohama` | No |
 | `blueadair.net` | Yes |
 | `blueand.red` | No |
 | `bluebell.social` | No |
@@ -23254,6 +23255,7 @@ Here's a list of public Fediverse services.
 | `minuit.xyz` | No |
 | `minuscule.space` | Yes |
 | `minuskel.de` | No |
+| `minx.space` | No |
 | `minzord.ca` | No |
 | `minzord.eu.org` | No |
 | `minzord.fr` | No |
@@ -25692,6 +25694,7 @@ Here's a list of public Fediverse services.
 | `nitech.online` | No |
 | `nitecrew.biz` | No |
 | `nitecrew.rip` | No |
+| `nithinkrishna.in` | Yes |
 | `nitiasa.com` | Yes |
 | `nitro.horse` | No |
 | `nitroet.me` | No |
@@ -33389,6 +33392,7 @@ Here's a list of public Fediverse services.
 | `smalltech.solutions` | No |
 | `smalltech.space` | No |
 | `smart-cactus.org` | Yes |
+| `smartcity.social` | No |
 | `smartcitydev.jp` | No |
 | `smartcraft.me` | Yes |
 | `smartdonkey.social` | No |
@@ -34276,6 +34280,7 @@ Here's a list of public Fediverse services.
 | `ssp-gt.de` | No |
 | `sspaeth.de` | No |
 | `sss-fc.com` | Yes |
+| `sssc.cc` | No |
 | `ssstudio.org` | No |
 | `ssvane.dk` | Yes |
 | `ssvo.de` | No |
@@ -41694,8 +41699,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,535 |
-| Normal | 31,116 |
+| Cloudflare | 10,536 |
+| Normal | 31,120 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
