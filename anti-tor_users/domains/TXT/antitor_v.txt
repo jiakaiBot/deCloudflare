@@ -2662,6 +2662,7 @@ avito.sber.sber.avito.avito.sber.www.covid19.view-manager.com
 avito.sber.sber.avito.sber.sberbank.covid19.vossbryggeri.com
 avito.sber.sber.avito.sberbank.sberbank.covid19.view-manager.com
 avito.sber.sber.avito.sberbank.www.covid19.view-manager.com
+avito.sber.sber.blablacar.covid19.view-manager.com
 avito.sberbank.www.sber.covid19.vojvodinanet.com
 ba4b3ndin4m1c4.vercel.app
 bacanaplay.com.br.blog.wpsites.validbox.com
@@ -2779,6 +2780,7 @@ discoloredeyes.vercel.app
 discord-forward-bot.vercel.app
 discord-h.vercel.app
 discord-modding-archive.vercel.app
+discord-slave.vercel.app
 discord-ui-toolkit.vercel.app
 discordbotscrims.vercel.app
 discordbotse.vercel.app
@@ -2831,6 +2833,7 @@ hcp3csaccdpreg-5a.app.eu.vwg.vwautocloud.net
 hcp3csaccdpregdev-5a.app.eu.vwg.vwautocloud.net
 hcp5csaccdpreg-5a.app.eu.vwg.vwautocloud.net
 hcp5csaccdpreg-5a.dmo.eu.vwg.vwautocloud.net
+hcp5csaccdpreg-5a.prd.eu.vwg.vwautocloud.net
 hcp5csaccdpregdev-5a.dmo.eu.vwg.vwautocloud.net
 hcp5csambbrun-3a.app.eu.dp.vwg-connect.com
 helpdesk.vivana.support
@@ -2849,6 +2852,7 @@ iclaim.vnusoftware.com
 imgs.via.com.br
 inbox.app.eu.ids.vwg-connect.com
 int-hm-rec-proj-kx.viamedis.fr
+int-roc-dev.viamedis.fr
 int.vaicore.xyz
 int.viageo.ch
 iservice2.vanillamedia.hr
@@ -2872,6 +2876,7 @@ login.volvoconnect.com
 loginfms-test.vodafone.ro
 loginfms.vodafone.ro
 logout.vakifbank.at
+lunarised.vercel.app
 macarulla-static.visitandorra.com
 mail.vietnamroblox.com
 mail.viscotec.de
@@ -2893,10 +2898,13 @@ merchant.vernostpay.com
 mhutchie.gallerycdn.vsassets.io
 microsotf-outlo0k.vercel.app
 minecraft.visiongroup.nl
+minecraft.vranish.io
 minecraftbeattle.vercel.app
+minecraftgaming823.vercel.app
 minehutbackup.vercel.app
 mobileapi.vaiap.io
 monitoring-service.ace-65df5d3.core.build.vwn.cloud
+monitoring-service.live.labelstreet.vwn.cloud
 monitoring.127437123744-856.vianai.site
 monitoring.vastuf.com
 my.vettd.com
@@ -2928,6 +2936,7 @@ ondemand-radio.vrtcdn.be
 onedrive-vercel-index-cgkmgg004-wodailicom.vercel.app
 onenet-ws-sit.vodafone.pt
 onetrust-hl.vercel.app
+opcon-pprod.viamedis.fr
 ossmobile.vodafone.pt
 ota.swmsn.prd.eu.bp.aws.cloud.vwgroup.com
 owa-tc.vagchina.com
@@ -2976,6 +2985,7 @@ rustdesk.vneo.eu
 rustleup.vercel.app
 rustomjeebuilderproject-co-in.vtpmagnumopuspune.co.in
 rustx.vercel.app
+rusty1052.vercel.app
 s1.vnecdn.net
 sales-review-update-to-jfilhf.guay.vooban.dev
 saml.verivox.com
@@ -2996,6 +3006,7 @@ sberbank.avito.avim.covid19.vitorheinzen.com
 sberbank.avito.avito.avito.avito.m.covid19.vitorheinzen.com
 sberbank.avito.avito.avito.avito.m.www.covid19.vitorheinzen.com
 sberbank.avito.avito.avito.blablacar.m.covid19.vitorheinzen.com
+sberbank.avito.avito.avito.sber.sber.covid19.vojvodinanet.com
 sberbank.avito.avito.blablacar.avito.m.covid19.vitorheinzen.com
 sberbank.avito.avito.sberbank.avito.covid19.vojvodinanet.com
 sberbank.avito.sber.avito.sber.avito.covid19.view-manager.com
@@ -3006,14 +3017,17 @@ sberbank.git.pop3.covid19.vitorheinzen.com
 sberbank.sber.avito.avito.covid19.vitorheinzen.com
 sberbank.sber.avito.blablacar.sberbank.covid19.view-manager.com
 sberbank.sber.sber.avito.sber.avito.covid19.view-manager.com
+sberbank.sber.sber.blablacar.sber.covid19.view-manager.com
 sberbank.sber.www.sberbank.blablacar.covid19.vossbryggeri.com
 sberbank.sberbank.blablacar.covid19.vesta-donors.com
+sberbank.sberbank.www.sber.sberbank.covid19.vr-cosmetology.ru
 sberbank.www.sber.covid19.vojvodinanet.com
 secure.vinerji.com
 securenet.vodafone.ie
 security.vida.software
 sentry.kube.viralgains.com
 server.valtapi.com
+service.vulcanlabs.co
 shakeitright-ws.pre.vodafone.pt
 shakeitright.pre.vodafone.pt
 sharepoint.vets-inc.com
@@ -3039,6 +3053,7 @@ sumitkumararora-gmailcom.vercel.app
 support.visometry.com
 test-jb6ep5rrs1o.vercel.app
 test.vau.auction
+testcs2me62uldg-zeitpub.vercel.app
 testeres.vercel.app
 testerexacasdfsd.vercel.app
 testqe11cs2ple8-zeitpub.vercel.app
@@ -3165,11 +3180,15 @@ vessoupy.com
 vestnikarche.com
 veteranscancersupport.net
 vffcu.biz
+vfwpost1433.org
 vga256.com
 vgrlife.com
 vgt.com.pl
 vgval2.valgenesis.in
+vhs-bmo.de
+vi-grade.com
 viacce-mental.store
+viaggiatreno.it
 vialidadesaopa.com.mx
 vianoivernom.com
 viapodcast.fm
@@ -3180,6 +3199,8 @@ vicsword.com
 victoria-accountants.co.uk
 victoriavolkswagen.co.uk
 victorlofinmakin.com
+victorylighting.co.uk
+vida10argentina.com
 vidalhernandez.realtor
 vidasatphones.com
 videobuddyapkdownload.com
@@ -3187,6 +3208,7 @@ videomin.online
 vidyasthali9.com
 viessmann-service.tech
 viessmannservice.ro
+vietnamdaily.ca
 vietnamroblox.com
 vieu.cc
 viewablemedia.net
@@ -3201,6 +3223,7 @@ villamonterosso.it
 villasilvakorcula.com
 villegas.cl
 vinaio.com
+vinazgarment.com
 vineremoval.com
 vinesanctuary.org
 vingt55.ca
@@ -3231,8 +3254,10 @@ viteka.ru
 vitesco.com.ec
 vitesco.ec
 vitpost.gq
+vittiai.com
 vittrack.gq
 vivabonita.com.br
+vivendoavidaquequero.online
 vivibanca.it
 viviendochile.cl
 vivienholl.com
@@ -3266,18 +3291,22 @@ volcanoactivity.com
 volkerhartzsch.com
 volkswagenpreview.nl
 volstrom.com.br
+voltashop.online
 vommerenexclusive.nl
 vooculok.com
 vostroblock.io
 vostroblock.se
+vote-gilt-six.vercel.app
 voyageminnesota.com
 vpg.info
 vpn-discount-store.com
 vpn-gratuit.com
 vpn-unk.info
+vpn4life.com
 vpnbuddy.co
 vpnmaster.vmkmedia.com
 vps4.me
+vrchat.mom
 vrcvlyreadingservice.org
 vrhermit.com
 vrhnika.si
@@ -3286,6 +3315,8 @@ vroblog.com
 vroomcars.online
 vrprubber.com
 vrpsicologia.net
+vrunitedsecurity.com
+vsearkhitektory.online
 vsesdal.com
 vsviti.com.ua
 vtest314-awfkrbx3ahumhigmhlhh.vercel.app
@@ -3415,6 +3446,7 @@ www.valleycentral.com
 www.valleycjdr.com
 www.vandriversafety.info
 www.vanhornansweringservice.com
+www.vaniaribeirodeputadafederal.com
 www.varegame.com
 www.vasculardiseasemanagement.com
 www.vbscrbc.church
@@ -3440,6 +3472,7 @@ www.verifyreceives.com
 www.verifythis.com
 www.vermouth-deportivo.com.ar
 www.vernoncounty.org
+www.vernontexas.info
 www.versandkosten-deutschepost.info
 www.vestinglopen.nl
 www.veteransecurityinc.com
@@ -3450,6 +3483,7 @@ www.vi.nl
 www.vickerstreeservice.com
 www.victoria-accountants.co.uk
 www.victoriafilmfestival.com
+www.vida10argentina.vida10brasil.com.br
 www.vidasatphones.com
 www.videomarket.jp
 www.viessmann-service.tech
@@ -3460,6 +3494,7 @@ www.villamonterosso.it
 www.vinduesps.vinduespudserservice.dk
 www.vip-grinders.ru
 www.vipeqlogin.com
+www.virtual.se
 www.virtualverse.one
 www.visiblecollege.education
 www.vision-whatsapp.com
@@ -3491,6 +3526,7 @@ www.vous.academy
 www.vpnmaster.vmkmedia.com
 www.vpnsuggestions.com
 www.vroblog.com
+www.vrunitedsecurity.com
 www.vrvoyaging.com
 www.vsnl.nl
 www.vuena.es
