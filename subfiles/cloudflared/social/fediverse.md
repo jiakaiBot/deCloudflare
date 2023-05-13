@@ -9429,6 +9429,7 @@ Here's a list of public Fediverse services.
 | `drapor.me` | No |
 | `drasticactions.site` | No |
 | `drastical.tech` | Yes |
+| `draugr.io` | Yes |
 | `draussen.social` | No |
 | `dravidam.net` | No |
 | `drawk.cab` | No |
@@ -41699,7 +41700,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,536 |
+| Cloudflare | 10,537 |
 | Normal | 31,120 |
 
 
