@@ -82,6 +82,7 @@ akeebarestore3to4.7thheaven.cloud
 amazon.79-9.com
 api.7-eleven.com
 api.7semyan.ru
+en.7-star-pro-services.com
 login.74437.com
 login.75782.com
 loyalty-qa-api.7eleven.com.my
@@ -90,6 +91,7 @@ paket-usaha.7permata.com
 staging.7rivers.kz
 tr.7wdata.net
 track3.cdn.717273.xyz
+www.7-star-pro-services.com
 www.79moneyloan.com
 www.paket-usaha.7permata.com
 www.sun-com.71-0.com
