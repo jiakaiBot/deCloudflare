@@ -821,6 +821,7 @@ zzotrack.com
 acceptatie-client.zorgplatform.online
 adfs.unicreditgroup.zaba.hr
 adfs.zu.de
+all-movil.zapgoogle.co.il
 api-dev.zt-ft.com
 api-shipp.zipi.app
 api-sprint.zlip2x.com
@@ -844,7 +845,9 @@ avito.sber.sber.sber.sber.www.covid19.zjgartmuseum.com
 avito.sberbank.avito.sber.gitlab.git.covid19.zlclubmarket.com
 avito.sberbank.sber.sber.e68119e9f4.covid19.zjgartmuseum.com
 baramundi.zugspitze.de
+beni-s.zapgoogle.co.il
 betadrive.zoho.eu
+burger-saloon.zapgoogle.co.il
 cache4.zapitv.com
 captcha.zerozendesign.com
 cefdasds.zyns.com
@@ -866,10 +869,12 @@ datacenter.zolbermedia.com
 diakszeft-api.uat.zeelabs.online
 discord.zfmbsb.com
 diybbq.zohosites.com
+email.m.zashasmith.com
 email.ziosuite.com
 en.zargofoodservice.com
 energy-calculation-service.core.stage.zoatech.net
 familyapi.zilihuaxia.com
+fire.zapgoogle.co.il
 fsbc.unicreditgroup.zaba.hr
 gateway.zscalerthree.net
 gateway.zscalertwo.net
@@ -894,6 +899,8 @@ node0.zsu.hu
 optionpit.zoholandingpage.com
 otpportal.zao-agrokomplex.ru
 ott.zapitv.com
+oz.zapgoogle.co.il
+pakale.zapgoogle.co.il
 paketbersihcepat.zonawanita.com
 pay.zivameshapewear.com
 paypal.com.zd-league.com
@@ -951,9 +958,12 @@ star-motor.zapads.co.il
 t1.zoommailnews.co.uk
 test.zatpermit.com
 testapi.zkkynrbx.com
+twitch.zuccarello.eu
 update.zestydigital.co.uk
 user.zgem.org
 userguide.zpecloud.com
+vewex23.zyns.com
+vrwde23d.zzux.com
 web.zensys.app.br
 webdisk.zesebarranca.co
 webdisk.zesebarranca.com.co
@@ -967,11 +977,13 @@ webmail.zesebarrancabermeja.com
 webmail.zesebarrancabermeja.com.co
 withinoutlooktechsupport.zohosites.com
 www.24hservice.zapweb.co.il
+www.account.zirconiadent.hu
 www.accountabuddy.zeromedia.com.au
 www.alternativnamedicina.com.mk.zemi.net.mk
 www.apply.zarnab.pk
 www.atomobeta.zenservice.com.br
 www.atomoplay.zenservice.com.br
+www.authoralexamit.zivamit.co.il
 www.backend.zumaridiafrica.com
 www.billing.z32580-tw40f.ls01.zwhhosting.com
 www.clientes.zetaarquitetura.com.br
@@ -980,6 +992,7 @@ www.creditrepairstlouis.com.zim4.com
 www.customer.ztotowing.online
 www.fall-banquet-2017.zetapsihfx.com
 www.fokuser.zalozba-chiara.si
+www.gemeinschaft-der-deutschen.eu.zajednica-nijemaca.hr
 www.habib.zetechbd.com
 www.hariridevelopment.zmverify.zoho.co
 www.moneychannel.zeba.ro
@@ -1010,6 +1023,7 @@ www.zero-impots.info
 www.zeroto180.org
 www.zestfoodservice.co.uk
 www.zeta-alpha.com
+www.zeusaiofficial.com
 www.zeusconta.ro
 www.zhouxiaohuir.com
 www.ziateresa.co.uk
@@ -1023,6 +1037,7 @@ www.zone-service.com
 www.zoomtventertainment.com
 www.zovni.ovh
 www.zwai.ie
+www.zwei-und-zwanzig.de
 www.zwilnik.com
 www.zythyshria.fr
 y.l-security.zgpage.co.il
@@ -1047,6 +1062,7 @@ zamworg.com.co
 zanomics.com
 zantimes.com
 zanzibar.ca
+zapashoda.online
 zaphyrpro.com
 zarate-asociados.com
 zb14356739.zmverify.zoho.co
@@ -1079,7 +1095,9 @@ zijinbor.com
 zinichi.net
 zionschools.org
 zippydelivery.co.za
+ziraatcomfin.com
 zirag.shop
+zirbenholz-welt.de
 zisso.co.il
 zit.academy
 zitmeubelsopmaat.nl
@@ -1117,6 +1135,7 @@ zwetschgenmann.de
 zws-zenkoku.jp
 zxr9gpxf7j.com
 zycienakreske.com
+zymasescassius.com
 zythyshria.fr
 api.zmsa-tech.com
 app.zapoj.com
