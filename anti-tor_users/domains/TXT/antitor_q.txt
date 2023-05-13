@@ -436,6 +436,7 @@ alianzas.qapaq.pe
 api-validation.qv-dev-veeva.com
 api.openbanking.qantasmoney.com
 api.qlinkportal.com
+applet.qiruikj.top
 auth.feature-1.review.qpard.dev
 authsmtp.quantumintegrators.com
 autodiscover.olga.q-alia.com
@@ -496,6 +497,7 @@ qe0ckm024b.com
 qef57ph3x.cn
 qenergydeutschland.de
 qetar-helpsa.com
+qgorn.online
 qh2engenharia.com.br
 qh88.today
 qh888.shop
@@ -546,6 +548,7 @@ quebrandomitos.com.br
 quedarensegovia.net
 queenswaydentalpractice.com
 querecomiendaspara.com
+queromeuspontos.xyz
 querystorm.com
 questeam.co.il
 questionmark.eu
@@ -573,6 +576,7 @@ services.qriqet.com
 sms.qcertifica.com.br
 start.quicksupport.nl
 t.corp.e.queensland.com
+the-arcs-21st-an-1.qvarc.net
 tls.qfund.net
 tutor.qualitecksupportservice.com
 uat1a.us1.qeadaptiveauthbo.com
@@ -595,6 +599,7 @@ www.parcely.com.br.qpubliq.com.br
 www.phpwallet.queenpays.com
 www.post.quroot.com
 www.qabnpparibasfortis.com
+www.qetaralx.com
 www.qjc.co.nz
 www.qksaqetar.com
 www.qlife.jp
@@ -628,8 +633,11 @@ www.safety.quadricom.ma
 www.secure.qfssys.com
 www.secure.qualificandonegocios.com
 www.secure.quickwebsitefix.com
+www.spectrum-of-spor-1.qvarc.net
+www.spectrum-of-sports.qvarc.net
 www.spectrumfurnishing.com.quiktech.co.in
 www.start.quicksupport.nl
+www.the-arcs-21st-an-1.qvarc.net
 www.theoxenhamarms.qwebsites.co.uk
 www.tutor.qualitecksupportservice.com
 yourbooking.qantas.com.au
