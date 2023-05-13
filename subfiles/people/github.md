@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Weird API behaviour - Problems and weird responses!](https://github.com/kevoreilly/CAPEv2/issues/1518)
+- [how to set NEXTAUTH_URL environment variable in Cloudflare deploy.](https://github.com/nextauthjs/next-auth/issues/7542)
+- [Tooks very long to solve cf chl](https://github.com/FlareSolverr/FlareSolverr/issues/776)
 - [Largest Contentful Paint element — Error!](https://github.com/GoogleChrome/lighthouse/issues/15075)
 - [CloudFlare Network Performance Issues in China](https://github.com/MatBenfield/news/issues/14020)
 - [Qbitorrent finding torrent but now doesn't download - started doing this last week](https://github.com/qdm12/gluetun/issues/1564)
