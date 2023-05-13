@@ -12311,7 +12311,6 @@ Here's a list of public Fediverse services.
 | `free-solutions.org` | No |
 | `free-streams.com` | No |
 | `free.fr` | No |
-| `freeanduneasy.blog` | No |
 | `freeassociation.world` | No |
 | `freeatlantis.com` | No |
 | `freeball.in` | No |
@@ -41694,7 +41693,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,533 |
-| Normal | 31,117 |
+| Normal | 31,116 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
