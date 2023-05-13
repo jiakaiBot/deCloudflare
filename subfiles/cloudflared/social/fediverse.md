@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,310 |
-| social | 4,029 |
+| com | 6,313 |
+| social | 4,030 |
 | net | 3,192 |
 | org | 2,212 |
 | de | 2,097 |
@@ -258,6 +258,7 @@ Here's a list of public Fediverse services.
 | `1nd33d.social` | No |
 | `1necat.com` | No |
 | `1o1.io` | No |
+| `1of444.top` | No |
 | `1oku.net` | No |
 | `1password.social` | No |
 | `1person.me` | No |
@@ -7071,6 +7072,7 @@ Here's a list of public Fediverse services.
 | `coza.cloud` | No |
 | `cozy.chat` | Yes |
 | `cozymech.com` | No |
+| `cozynest.online` | No |
 | `cozysumo.space` | Yes |
 | `cozytronics.com` | No |
 | `cplus8.com` | Yes |
@@ -7903,6 +7905,7 @@ Here's a list of public Fediverse services.
 | `danirod.es` | No |
 | `danis.one` | Yes |
 | `danj.ca` | No |
+| `danjiadi.com` | Yes |
 | `dank-me.me` | Yes |
 | `dank.software` | No |
 | `dankmemes.gg` | Yes |
@@ -14682,7 +14685,7 @@ Here's a list of public Fediverse services.
 | `harfang.social` | Yes |
 | `harijs.id.lv` | No |
 | `harmoniescreatives.com` | No |
-| `harmonynet.org` | No |
+| `harmonynet.org` | Yes |
 | `harmonytheory.net` | No |
 | `harnosoft.com` | Yes |
 | `haroo.ca` | No |
@@ -24326,6 +24329,7 @@ Here's a list of public Fediverse services.
 | `mudhut.xyz` | Yes |
 | `mudkips.net` | Yes |
 | `mudl.us` | No |
+| `muede.monster` | No |
 | `muehlenmeier.net` | No |
 | `muehml.eu` | No |
 | `mueller-post.de` | No |
@@ -26817,6 +26821,7 @@ Here's a list of public Fediverse services.
 | `omisosiru.net` | No |
 | `omniatv.com` | Yes |
 | `omnific.one` | No |
+| `omnify.social` | No |
 | `omnigroup.com` | No |
 | `omnitest.social` | No |
 | `omochi.xyz` | No |
@@ -33280,6 +33285,7 @@ Here's a list of public Fediverse services.
 | `skyn3t.in` | No |
 | `skynate.net` | Yes |
 | `skynet.social` | No |
+| `skynetcloud.site` | Yes |
 | `skyshanty.xyz` | No |
 | `skyshaper.org` | No |
 | `skyue.com` | No |
@@ -37267,6 +37273,7 @@ Here's a list of public Fediverse services.
 | `tortoiseexpress.com` | No |
 | `torusserver.org` | No |
 | `torvafirmus.com` | No |
+| `torxprojects.com` | No |
 | `toscer.me` | No |
 | `toshipapi.tokyo` | No |
 | `tosk.in` | No |
@@ -37346,6 +37353,7 @@ Here's a list of public Fediverse services.
 | `trailrunning.social` | No |
 | `trailsroc.org` | No |
 | `train.cz` | No |
+| `trainasone.com` | Yes |
 | `trainhobo.com` | No |
 | `training-fitness.fun` | No |
 | `trains.coffee` | No |
@@ -41612,6 +41620,7 @@ Here's a list of public Fediverse services.
 | `zozzle.xyz` | No |
 | `zpravobot.news` | No |
 | `zr.si` | Yes |
+| `zr40.nl` | Yes |
 | `zrx.one` | No |
 | `zrythm.org` | No |
 | `zsemberi.de` | No |
@@ -41700,8 +41709,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,537 |
-| Normal | 31,120 |
+| Cloudflare | 10,542 |
+| Normal | 31,124 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
