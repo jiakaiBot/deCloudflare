@@ -9060,6 +9060,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhyuHninKhain17@twitter](https://twitter.com/PhyuHninKhain17/status/1400317417549533184) | advertise |
 | [PhyuLattMyint1@twitter](https://twitter.com/PhyuLattMyint1/status/1404753465872629760) | advertise |
 | [phyusinmyothant@twitter](https://twitter.com/phyusinmyothant/status/1390419304739315712) | advertise |
+| [picturepalette8@twitter](https://twitter.com/picturepalette8/status/1657223776067817472) | advertise |
 | [Piejang06@twitter](https://twitter.com/Piejang06/status/1514667154599075844) | advertise |
 | [piemadd@twitter](https://twitter.com/piemadd/status/1515694696999366660) | advertise |
 | [PIGGYn00b1@twitter](https://twitter.com/PIGGYn00b1/status/1545955054112448513) | advertise |
