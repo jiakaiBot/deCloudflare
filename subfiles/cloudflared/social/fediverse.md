@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,307 |
+| com | 6,308 |
 | social | 4,027 |
 | net | 3,192 |
 | org | 2,211 |
@@ -17263,7 +17263,7 @@ Here's a list of public Fediverse services.
 | `jeffscloud.com` | No |
 | `jeffthompson.dev` | Yes |
 | `jeffvautin.com` | No |
-| `jeffyen.net` | No |
+| `jeffyen.net` | Yes |
 | `jehanalvani.com` | Yes |
 | `jehuty11.com` | No |
 | `jekabs.dev` | Yes |
@@ -20261,7 +20261,7 @@ Here's a list of public Fediverse services.
 | `linkedlist.social` | No |
 | `linkerror.com` | No |
 | `linkmauve.fr` | No |
-| `linkomanija.online` | Yes |
+| `linkomanija.online` | No |
 | `linkse.media` | No |
 | `linksehobbys.nl` | No |
 | `linksfraktion.de` | No |
@@ -38340,6 +38340,7 @@ Here's a list of public Fediverse services.
 | `unooverse.com` | No |
 | `unordentlich.space` | No |
 | `unperson.us` | No |
+| `unpluggedrva.com` | No |
 | `unpopular.cloud` | Yes |
 | `unpopular.me` | Yes |
 | `unraidcloud.de` | Yes |
@@ -41684,7 +41685,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,531 |
-| Normal | 31,109 |
+| Normal | 31,110 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
