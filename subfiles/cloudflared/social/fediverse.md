@@ -23026,6 +23026,7 @@ Here's a list of public Fediverse services.
 | `midday.top` | Yes |
 | `middleearth.fr` | No |
 | `middleearth.social` | No |
+| `midgard.pm` | No |
 | `midline.pl` | No |
 | `midnight-cms.com` | No |
 | `midnight.dance` | No |
@@ -41686,7 +41687,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,532 |
-| Normal | 31,110 |
+| Normal | 31,111 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
