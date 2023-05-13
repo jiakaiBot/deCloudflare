@@ -12311,6 +12311,7 @@ Here's a list of public Fediverse services.
 | `free-solutions.org` | No |
 | `free-streams.com` | No |
 | `free.fr` | No |
+| `freeanduneasy.blog` | No |
 | `freeassociation.world` | No |
 | `freeatlantis.com` | No |
 | `freeball.in` | No |
@@ -16014,6 +16015,7 @@ Here's a list of public Fediverse services.
 | `idiocy.xyz` | Yes |
 | `idiomdrottning.org` | No |
 | `idiot-garbage.tk` | No |
+| `idiot.sh` | Yes |
 | `idiots.chat` | No |
 | `idk.party` | No |
 | `idlesignal.com` | No |
@@ -17916,7 +17918,7 @@ Here's a list of public Fediverse services.
 | `ka0.co` | No |
 | `kaa.bz` | No |
 | `kaaa.ren` | No |
-| `kaak.online` | No |
+| `kaak.online` | Yes |
 | `kaak.social` | No |
 | `kaam.biz` | Yes |
 | `kaaosunlimited.fi` | No |
@@ -41692,7 +41694,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,533 |
+| Cloudflare | 10,535 |
 | Normal | 31,116 |
 
 
