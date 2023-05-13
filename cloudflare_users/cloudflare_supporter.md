@@ -2514,6 +2514,7 @@ Do not create new issue or we will close it as duplicate.
 | [dauconlacuachi@twitter](https://twitter.com/dauconlacuachi/status/1553359546059718656) | advertise |
 | [daussbakri@twitter](https://twitter.com/daussbakri/status/1551307946943864833) | advertise |
 | [dautay19941995@twitter](https://twitter.com/dautay19941995/status/1383798640020312068) | advertise |
+| [Davaine76326539@twitter](https://twitter.com/Davaine76326539/status/1657430968561549314) | advertise |
 | [Dave05659171@twitter](https://twitter.com/Dave05659171/status/1393287373610528771) | advertise |
 | [Dave06613046@twitter](https://twitter.com/Dave06613046/status/1380672914630959104) | advertise |
 | [DaveFelix19@twitter](https://twitter.com/DaveFelix19/status/1397903875248734216) | advertise |
@@ -9154,6 +9155,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pooh77732056@twitter](https://twitter.com/Pooh77732056/status/1378258475097055234) | advertise |
 | [Pookie5552@twitter](https://twitter.com/Pookie5552/status/1396760560037863424) | advertise |
 | [poopers6399@twitter](https://twitter.com/poopers6399/status/1392869085457776644) | advertise |
+| [pooyanasiri80@twitter](https://twitter.com/pooyanasiri80/status/1657449573390901248) | advertise |
 | [popo16236983@twitter](https://twitter.com/popo16236983/status/1603857294416285696) | advertise |
 | [PopperThanh@twitter](https://twitter.com/PopperThanh/status/1388014796772102147) | advertise |
 | [PopPoppp12@twitter](https://twitter.com/PopPoppp12/status/1561759380588343296) | advertise |
@@ -12252,6 +12254,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vv2072000@twitter](https://twitter.com/Vv2072000/status/1485861824717230083) | advertise |
 | [vvhieu34@twitter](https://twitter.com/vvhieu34/status/1567982342584803328) | advertise |
 | [Vvv37293205@twitter](https://twitter.com/Vvv37293205/status/1600375772740349954) | advertise |
+| [VvVimal006@twitter](https://twitter.com/VvVimal006/status/1657458679065776128) | advertise |
 | [vxunc9@twitter](https://twitter.com/vxunc9/status/1384036046799736832) | advertise |
 | [Vy20542147@twitter](https://twitter.com/Vy20542147/status/1628992858005831680) | advertise |
 | [vysecurity@twitter](https://twitter.com/vysecurity/status/1525362451516370944) | advertise |
