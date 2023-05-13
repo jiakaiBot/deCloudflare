@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,309 |
-| social | 4,027 |
+| social | 4,028 |
 | net | 3,192 |
-| org | 2,211 |
+| org | 2,212 |
 | de | 2,097 |
 
 
@@ -5239,6 +5239,7 @@ Here's a list of public Fediverse services.
 | `cairobraga.com` | Yes |
 | `cakes.rocks` | Yes |
 | `calacademy.org` | Yes |
+| `caladona.org` | No |
 | `calamity.world` | Yes |
 | `calamityconductor.com` | No |
 | `calavere.me` | No |
@@ -18255,6 +18256,7 @@ Here's a list of public Fediverse services.
 | `kd0bpv.name` | No |
 | `kd0ioe.com` | No |
 | `kddlb.cl` | Yes |
+| `kde.social` | No |
 | `kdecherf.com` | No |
 | `kdhq.dev` | No |
 | `kdlvklv.xyz` | No |
@@ -41690,7 +41692,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,533 |
-| Normal | 31,113 |
+| Normal | 31,115 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
