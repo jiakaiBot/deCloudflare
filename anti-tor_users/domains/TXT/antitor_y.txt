@@ -781,6 +781,7 @@ api.yaanimail.com
 app-rename-identities-to-users.dev.yesh.id
 app-user-photos.dev.yesh.id
 app-user-updated-event.dev.yesh.id
+app.tanker.yandex.net
 avito.avito.sber.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.8joac.tpxa3.kwid9.yogavastu.xyz
 avito.sber.www.avito.sber.blablacar.covid19.youhollywood.com
 avito.sber.www.avito.sber.sber.covid19.youhollywood.com
@@ -793,6 +794,7 @@ beyazlar1.yapimasamasi.site
 birtekbranda.yapimasamasi.site
 blablacar.sber.avito.git.git.git.covid19.youhollywood.com
 blablacar.sberbank.git.git.git.covid19.youhollywood.com
+bs.yandex.ru
 capi.yaanimail.com
 card-stories.ylestatic.fi
 cas.yvp.yusen-logistics.com
@@ -883,6 +885,7 @@ secure.ymhospital.com
 skyway.yesbank.in
 sportcenter.yadika.or.id
 tappay-cms.yapikredi.com.tr
+test-notice-games.yahooapis.jp
 tigadge.yoasobi-erobloger.com
 travel.yahoo.co.jp
 u184128-sub10.your-storagebox.de
@@ -905,6 +908,7 @@ www.amima-yapilan-agdayla.yeahh.com
 www.beyazlar1.yapimasamasi.site
 www.birtekbranda.yapimasamasi.site
 www.bismj.yapimjaya.sch.id
+www.booking.yaalmozhipainting.in
 www.city.yonago.lg.jp
 www.contactme.yusufhamitkaya.com
 www.contodepositomigliore.yesweweb.com
@@ -917,10 +921,12 @@ www.helpdesk.youngbox.id
 www.home.yummydelivery.et
 www.invoice.ypamdr.com
 www.kauppa.ykkospalvelu.fi
+www.mts.yapima.sch.id
 www.occhiolism.yaelpesso.com
 www.on-ekii-co-jp-adminia.linkin.yhcb.com.cn
 www.reeddiffuser.yukha.com.my
 www.riotaon.com.br.yuripinzetta.me
+www.spp.yapiru.or.id
 www.webclickbank2.youtokmarketing.com
 www.y-koseiren.jp
 www.y248.net
@@ -933,6 +939,7 @@ www.yapiprojemuhendislik.com
 www.yapisalesitlik.com
 www.yapisalguclendirme.com
 www.yapisankolon.com
+www.yapitex.com.tr
 www.yapitexinsaat.com
 www.yeapasso.com
 www.yellowmedicinereviewstore.com
@@ -941,6 +948,7 @@ www.yerburyfarmersmarket.com
 www.yesbank.in
 www.yilbim.com.tr
 www.yl-griffin.com
+www.ymgtech.com
 www.ymparistotiedonfoorumi.fi
 www.yohcli.com
 www.yokoso-uk.co.uk
@@ -956,6 +964,7 @@ www.yourservice.com.br
 www.yourstartupservice.com
 www.youthline.co.nz
 www.youtube-nocookie.com
+www.youtubeluxfer.com
 www.ysbootlegs.eu
 www.yummymummykitchen.com
 www.yurtasyardim.xyz
@@ -963,6 +972,7 @@ www.yurttasyardim.site
 www.yzpst.net
 y6link.net
 ya62.ru
+yabook.de
 yacadeuro.org
 yachtbot.us
 yads.yjtag.yahoo.co.jp
@@ -971,6 +981,7 @@ yammiia.com
 yandex-commerce.com
 yangsong.shop
 yanzi8.top
+yapima.sch.id
 yapix.co
 yarfinbot.ru
 yariika.com
@@ -991,7 +1002,9 @@ yip.realtor
 yirok.shop
 yisafe.co
 yishengyuyou.top
+yk8d.com
 ylavjbljpt.com
+ylcp-applb.com
 yldulihguyk.shop
 ymall.jp
 ympclient.com
@@ -1046,6 +1059,7 @@ yukonnuggets.com
 yuldash.com
 yulpronos.ca
 yuming.co.jp
+yunusalmeida.online
 abeletskiy-ppr-ru-20230220.website.yandexcloud.net
 api.youatcollege.com
 appleaday.yourwebdev.com.au
