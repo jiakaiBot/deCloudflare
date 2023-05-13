@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Diagnostic sensor for ip port causes all entities in invalid](https://github.com/killer0071234/ha-hiq/issues/53)
 - [Weird API behaviour - Problems and weird responses!](https://github.com/kevoreilly/CAPEv2/issues/1518)
 - [how to set NEXTAUTH_URL environment variable in Cloudflare deploy.](https://github.com/nextauthjs/next-auth/issues/7542)
 - [Tooks very long to solve cf chl](https://github.com/FlareSolverr/FlareSolverr/issues/776)
