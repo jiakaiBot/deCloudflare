@@ -6360,6 +6360,7 @@ Here's a list of public Fediverse services.
 | `cloa.app` | No |
 | `clocktower.click` | No |
 | `clocktower.social` | No |
+| `clockwork.monster` | Yes |
 | `clockworkshield.com` | No |
 | `clodo.it` | No |
 | `clodostr.at` | No |
@@ -19792,6 +19793,7 @@ Here's a list of public Fediverse services.
 | `leftist.network` | No |
 | `leftlibertarian.club` | Yes |
 | `leftodon.social` | No |
+| `leftoverpizza.rocks` | No |
 | `leftreality.com` | No |
 | `leftuseless.net` | No |
 | `leftwesht.ie` | No |
@@ -41724,8 +41726,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,544 |
-| Normal | 31,137 |
+| Cloudflare | 10,545 |
+| Normal | 31,138 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
