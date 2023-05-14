@@ -3120,12 +3120,14 @@ api.kekw.website
 api.kline-portal.com
 api.kliniq.co
 api.kmart.co.nz
+api.kra-system.com
 api.newpoker.klasgaming.com
 apifreelancersafe.kayadev.ir
 apisip-dev.kibolt.info
 app.staging.kanarys.com
 appleidunlock.kejibear.org
 apps.kiai.co
+ar.krakenfinancials.com
 ar407.keap-link005.com
 asia-p2preport-homepluspre.kalayservice.com
 asset.kurio.network
@@ -3134,6 +3136,7 @@ auth.kludt.info
 auth.krauss-stefan.de
 auth.login.stg.kojima.net
 auth.vpn.krzysztofozog.com
+authelia.home.krebs6.de
 authelia.krassimir.dev
 autodiscover.b2b.kinitro-exartimata.gr
 autodiscover.kabarbonekpersebaya.com
@@ -3208,6 +3211,7 @@ dahassan.kar.nic.in
 data.klientportal.se
 dc.med.kyushu-u.ac.jp
 dc1.ksn.kaspersky-labs.com
+demo.paypal.khlabbd.xyz
 dev2.kensetsu-cloud.jp
 devbank.ketto.org
 dhl-login-customization.demo.keenmate.com
@@ -3229,6 +3233,7 @@ en.krakenbar.fr
 en.kzdyapi.com
 enrl.kibstrust.com
 ers.kbv.de
+es.krakenfinancials.com
 et128.keap-link010.com
 europm2025.com.e18dca092597d21a68cf17757-11476.sites.k-hosting.co.uk
 facturation.kadigit.com
@@ -3248,6 +3253,7 @@ git.git.gmail.comune.kc-boost.ru
 git.gitlab.git.git.git.login.kanzler-vt.de
 git.gitlab.gitlab.git.gmail.comune.kc-boost.ru
 git.gitlab.gitlab.gitlab.a.swarm.int.ksolutions.com.ua
+git.gitlab.gitlab.gitlab.mail.newyear.kukarta.ru
 gitlab.a.blog.ginger.tst.int.ksolutions.com.ua
 gitlab.a.swarm.int.ksolutions.com.ua
 gitlab.control-panel.kingofkingsfood.com
@@ -3282,9 +3288,11 @@ ib.kagin.co.jp
 iccm.kebhana.com
 idp.kvn.de
 ikfz.kreis-slk.de
+info.krayorthodontics.com
 insights.katten.com
 integratedtherapy.co.umagento.secure.kleinformart.com
 investasi.kontan.co.id
+invoice-app.kevinpuscan.com
 io535.keap-link012.com
 ir.kratosdefense.com
 iw127.keap-link014.com
@@ -3305,10 +3313,12 @@ kaibilsecurity.com
 kaibilseguridad.com
 kainatchaudhary.site
 kajacouture.net
+kajianberita.com
 kakedashiweb.site
 kakkotsuke.shop
 kakoleciti.com
 kalbizimle.net
+kalesang.id
 kalibags.com
 kalingasalesandservice.in
 kalpamart.online
@@ -3323,6 +3333,7 @@ kandidatnews.com
 kangs1580.site
 kangs1600.site
 kangs1610.site
+kanopibsd.net
 kanpid.com
 kansanvalistusseura.fi
 kapa7.com
@@ -3332,6 +3343,7 @@ kapperweesp.nl
 karaa.africa
 karadagenki-kumamoto.com
 karebanusa.com
+karircirebon.net
 karoserimobilpendingin.com
 karoseritrukmixer.com
 kartepetvtamircisi.com
@@ -3362,11 +3374,13 @@ kbbet3.vip
 kbc4u.org
 kbn48.com
 kbpureessentials.com
+kbraw.eu
 kcdesignhouse.com
 kcsxpress.com
 kdmpalvelu.fi
 kdservice.at
 kdshop.co.kr
+kdvik-rijeka.hr
 keatonwest.realtor
 kec-lemong.my.id
 kedaimesinmakanan.com
@@ -3384,6 +3398,7 @@ kelopronto.com
 kemas.in
 kemasanpaket.com
 kemetium.com
+kenssewingcenter.com
 kentclimaxcourierservice.com
 kentsgeneratorservice.com
 kentvansecurity.co.uk
@@ -3392,6 +3407,7 @@ keonhacai88.online
 kepple.gift
 kermitthecoin.xyz
 kerry-ann.realtor
+kesheromania.ro
 ketcau-stc.com
 ketoblastgummybears.net
 ketodis.com
@@ -3407,6 +3423,7 @@ kgdev.pl
 kgwlogistics.com
 khabatabas.com
 khanenterprises.com.pk
+khanghuyapple.com
 khanjeeyapness.website
 khannun.shop
 khaugullish.shop
@@ -3558,6 +3575,7 @@ kontonamedal.pl
 kontosmart.se
 koolahwelder.com
 koostricycles.co.za
+koostyle.net
 kootenaycolumbiacollege.com
 kopigetaran.shop
 kopiindividu.shop
@@ -3567,6 +3585,7 @@ kopisetiaphari.shop
 kopisuperenak.shop
 koran-metro.com
 koranmanado.co.id
+korbofx.com
 kordon.space
 koreanhanja.app
 korusigorta.com.tr
@@ -3580,6 +3599,7 @@ kotabrondong.org
 kotatrenggalek.org
 kotatulungagung.org
 kotokot.com
+kowshop.fr
 kprwawasansgara.com
 krakendefensegroup.com
 kranparts.ru
@@ -3656,6 +3676,7 @@ mail.kitroyale.com
 mail.vulcan.kinex11.info
 mdmapdev.kyoboezmore.co.kr
 mediadnaco.kantaribopemedia.com
+member.kurlypay.co.kr
 microsoft-staging.kpcorp.com
 minecraft.keswick.network
 minecraft.korayami.de
@@ -3692,6 +3713,8 @@ pay.keepruralkidslearning.com
 payments1.kaspi.kz
 pcm1.kaspi.kz
 pcmshop.kaspi.kz
+pcs-20-05-002.keeneyetechnologies.com
+pcs-21-04-004.keeneyetechnologies.com
 plan1.kunder2-guru-utvikling.no
 platform.kindaics.jp
 pod-q521.kbdev.net
@@ -3729,6 +3752,7 @@ rusty-blackbird.knaturfoto.com
 s.kinkytaboo.de
 sankalpanalytica.kisankartbill.com
 sara-transport.kometaservice.ro
+sber.avito.avito.avito.sber.covid19.kleinformart.com
 sber.avito.sber.avito.sber.www.covid19.kpd101studio.com
 sber.avito.sberbank.blablacar.covid19.kupit-banyu-38.ru
 sber.avito.www.sberbank.sber.blablacar.covid19.karuseldetstva.ru
@@ -3794,10 +3818,13 @@ tesla.kino-teka.ru
 test.khimich.dev
 testikano.kravportal.se
 thebigfatwitch.kpl128.co.uk
+thermo.kunder2-guru-utvikling.no
 totalenergiespauwf.k-welcome.com
+tr.keytrack.xyz
 track.knltrck.com
 tracker.kavisofts.in
 tracking.karri.com.mx
+traefik.kurosch.net
 traefik.worker-1.kobl.app
 trca2.keri.re.kr
 trk.klclick.com
@@ -3850,6 +3877,7 @@ www.a1-toyota-new-haven.kaitlyncasso.com
 www.a1servicecenter.kvwebtech.in
 www.adesso.kevincassar.com
 www.ambonpost.kompasjscgroupmedia.com
+www.apple-picking.khccc.org
 www.apple.kristapscinis.com
 www.appleseedlabs.com.kmvin.com
 www.atherton.kirkkeyservice.com
@@ -3871,6 +3899,7 @@ www.client.kingsenglish.edu.lk
 www.client.knightstechnology.co.uk
 www.clientes.kleversoft.net
 www.clients.kingsenglish.edu.lk
+www.clients.kpengineeringindia.com
 www.clinicalservice.kassp.pl
 www.conditoriet.kunder2-guru-utvikling.no
 www.confirmyouraccount-fbstaticxaspx-cdn.kabarita.co
@@ -3902,6 +3931,7 @@ www.hancsupport.fa2df7a78cbb8d3ec4ac8ba4a-16152.sites.k-hosting.co.uk
 www.hardman-signs.kaitlyncasso.com
 www.hawaiiyogaclass.kaitlyncasso.com
 www.hayfest-org.4ae69afe0a9dd4abc973e2c8f-14419.sites.k-hosting.co.uk
+www.k12schoolsafety.com
 www.k9academy.sg
 www.kafka-online.info
 www.kaggle.com
@@ -3949,6 +3979,7 @@ www.ker-mineraux.com
 www.keremgencebay.com
 www.kermitthefrog-eth.com
 www.kernews.com
+www.kerstinwiggins.com
 www.kesikyapi.com.tr
 www.keskustaopiskelijat.fi
 www.ketchikanarts.org
@@ -3961,6 +3992,7 @@ www.keyence-foundation.or.jp
 www.keyframeschoolpayment.it
 www.keynotemn.com
 www.keysupport.com.au
+www.kfupm-room-service.com
 www.kgdev.pl
 www.ki-tech.global
 www.kidsfashion2202gmail.com.br
@@ -3996,6 +4028,7 @@ www.kmrc.in
 www.knightfallsecurity.com
 www.knightmultiservice.com
 www.knightssupport.dk
+www.knivesforksandspoonspress.co.uk
 www.knoxvillerestorationservice.com
 www.knqs0115.com
 www.kny1033.club
@@ -4005,6 +4038,7 @@ www.kochlust-hengstmann.de
 www.kodami.it
 www.koffiegeld.online
 www.koizumi-onlineshop.jp
+www.kojima-ya.com
 www.kolegaliterat.pl
 www.komaitis.org
 www.komplett.no
@@ -4018,6 +4052,7 @@ www.koronafinanse.com
 www.kosmosrauschen.de
 www.kovapatisserie.com
 www.koveksecurity.com.au
+www.kpengineeringindia.com
 www.kraken-up.com
 www.krakenbar.fr
 www.krakenmoto.co.uk
@@ -4057,6 +4092,7 @@ www.ladynowe2.karriedawaycreations.com
 www.lizzie--kenans-e-1.kaitlyncasso.com
 www.mobilhondaupdate.kedaiwebsite.net
 www.money-survey.ee2afd28421a7a495aefb01b8-12046.sites.k-hosting.co.uk
+www.mrowisko.e-user.kylos.pl
 www.muktinathtourpackage.in.kvwebtech.in
 www.my-avg-login.kersaproject.com
 www.ny.kbc-bordtennis.dk
@@ -4071,6 +4107,7 @@ www.password-manager.krisidev.com
 www.pkdytazjakr.kredittoyotajakarta.com
 www.plan1.kunder2-guru-utvikling.no
 www.post.kring.store
+www.postandcouriers.online.kudaeu.online
 www.postech.com.tr.konyadogaltasevi.com
 www.rebecca-deniz.kapia.de
 www.reeglaw.kunde-formativ.net
@@ -4103,6 +4140,7 @@ www.support.kurirkita.id
 www.sv-tora.kundenprojekte-ab-2020.de
 www.tab.kbcreativos.com
 www.testikano.kravportal.se
+www.thermo.kunder2-guru-utvikling.no
 www.track.kodingter.us
 www.tracker.kavisofts.in
 www.tucker-apple-minis.karibendig.com
