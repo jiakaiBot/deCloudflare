@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,313 |
-| social | 4,031 |
+| social | 4,032 |
 | net | 3,194 |
 | org | 2,212 |
 | de | 2,098 |
@@ -17378,6 +17378,7 @@ Here's a list of public Fediverse services.
 | `jhewitt.net` | Yes |
 | `jhilgert.de` | No |
 | `jhnc.me.uk` | No |
+| `jhr.social` | Yes |
 | `jianghupl.com` | No |
 | `jianliwo.com` | No |
 | `jiaworkspace.com` | No |
@@ -41716,7 +41717,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,544 |
+| Cloudflare | 10,545 |
 | Normal | 31,129 |
 
 
