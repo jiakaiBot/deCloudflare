@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Please support the automatic completion of the code of hono/html in TypeScript JSX.](https://github.com/microsoft/vscode/issues/182411)
 - [Matter WebSocket Failed Connection](https://github.com/home-assistant/addons/issues/3050)
 - [Diagnostic sensor for ip port causes all entities in invalid](https://github.com/killer0071234/ha-hiq/issues/53)
 - [Weird API behaviour - Problems and weird responses!](https://github.com/kevoreilly/CAPEv2/issues/1518)
