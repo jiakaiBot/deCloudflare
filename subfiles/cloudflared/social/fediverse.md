@@ -8030,6 +8030,7 @@ Here's a list of public Fediverse services.
 | `dasblog.io` | No |
 | `dasbrennen.org` | Yes |
 | `dasdeck.com` | No |
+| `dasein.icu` | No |
 | `dasforum.org` | No |
 | `dasgeekcommunity.net` | No |
 | `dasgelobteland.art` | Yes |
@@ -18773,6 +18774,7 @@ Here's a list of public Fediverse services.
 | `kmr.me` | Yes |
 | `kmrs.org` | No |
 | `kmruddy.com` | No |
+| `kmu-angebote.ch` | No |
 | `kmy.blue` | Yes |
 | `kmyd.moe` | No |
 | `kn-cloud.de` | No |
@@ -41712,7 +41714,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,542 |
-| Normal | 31,126 |
+| Normal | 31,128 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
