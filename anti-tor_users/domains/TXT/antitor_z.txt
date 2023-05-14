@@ -821,6 +821,7 @@ zzotrack.com
 acceptatie-client.zorgplatform.online
 adfs.unicreditgroup.zaba.hr
 adfs.zu.de
+adpsecer.zyns.com
 all-movil.zapgoogle.co.il
 api-dev.zt-ft.com
 api-shipp.zipi.app
@@ -896,6 +897,7 @@ monitoring.zeitraum.io
 monitoring.zozo.gg
 mta-sts.www.hariridevelopment.zmverify.zoho.co
 node0.zsu.hu
+open.zvuk.com
 optionpit.zoholandingpage.com
 otpportal.zao-agrokomplex.ru
 ott.zapitv.com
@@ -1003,6 +1005,7 @@ www.shanahotelnewyear.zinaoster.com
 www.uber.zinovylebed.com
 www.whatsapp.zenax.info
 www.wwwbbva-netcash-empresas-servicios-digitales.zonaseguridadenlineaspe.site
+www.z-event-swiss.ch
 www.z-father.co.jp
 www.z4contabilidade.com.br
 www.za-ejendomsservice.dk
@@ -1053,6 +1056,7 @@ zadroweb.com
 zag-t-music.com
 zahid-agromiks.com.ua
 zaiflyer.com
+zaisei.jp
 zakarashop.com
 zakka-kurawanka.com
 zaksound.com
@@ -1095,6 +1099,7 @@ zijinbor.com
 zinichi.net
 zionschools.org
 zippydelivery.co.za
+zippyelectricalsuppliers.com.au
 ziraatcomfin.com
 zirag.shop
 zirbenholz-welt.de
