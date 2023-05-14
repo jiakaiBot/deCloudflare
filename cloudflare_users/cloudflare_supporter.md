@@ -1362,6 +1362,7 @@ Do not create new issue or we will close it as duplicate.
 | [babaei2@twitter](https://twitter.com/babaei2/status/1578798780086091776) | advertise |
 | [babak08329399@twitter](https://twitter.com/babak08329399/status/1635000952829927424) | advertise |
 | [babak_89@twitter](https://twitter.com/babak_89/status/1581073332220272640) | advertise |
+| [BabarAkhbar@twitter](https://twitter.com/BabarAkhbar/status/1657686355231801350) | advertise |
 | [babayagaofIndia@twitter](https://twitter.com/babayagaofIndia/status/1394759766845444101) | advertise |
 | [babitea239@twitter](https://twitter.com/babitea239/status/1552152085956661249) | advertise |
 | [BABU32660605@twitter](https://twitter.com/BABU32660605/status/1446809782824751110) | advertise |
@@ -2289,8 +2290,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -5947,6 +5948,7 @@ Do not create new issue or we will close it as duplicate.
 | [krtanev@twitter](https://twitter.com/krtanev/status/1581957025537589248) | advertise |
 | [KrulViper@twitter](https://twitter.com/KrulViper/status/1582399013563027457) | advertise |
 | [krunalp30106666@twitter](https://twitter.com/krunalp30106666/status/1402387067271667713) | advertise |
+| [KrystalPaula@twitter](https://twitter.com/KrystalPaula/status/1657607925609660416) | advertise |
 | [Krzysie34656627@twitter](https://twitter.com/Krzysie34656627/status/1550498278126526464) | advertise |
 | [KSalout@twitter](https://twitter.com/KSalout/status/1498335781013831686) | advertise |
 | [ksate0@twitter](https://twitter.com/ksate0/status/1379112018817376258) | advertise |
@@ -6652,6 +6654,7 @@ Do not create new issue or we will close it as duplicate.
 | [m42383619@twitter](https://twitter.com/m42383619/status/1389585140200861700) | advertise |
 | [M2773299429@twitter](https://twitter.com/M2773299429/status/1392920911179878404) | advertise |
 | [Ma7moud3arf@twitter](https://twitter.com/Ma7moud3arf/status/1552086942870904833) | advertise |
+| [ma44hu@twitter](https://twitter.com/ma44hu/status/1657645688413405184) | advertise |
 | [Ma91Myoaung@twitter](https://twitter.com/Ma91Myoaung/status/1392153948098744323) | advertise |
 | [MAAX30_04@twitter](https://twitter.com/MAAX30_04/status/1621577555487723520) | advertise |
 | [mabyestar@twitter](https://twitter.com/mabyestar/status/1553105701328654336) | advertise |
@@ -7043,6 +7046,7 @@ Do not create new issue or we will close it as duplicate.
 | [MellowzNguyen@twitter](https://twitter.com/MellowzNguyen/status/1391458316803444741) | advertise |
 | [melodyy0102@twitter](https://twitter.com/melodyy0102/status/1408007120407220226) | advertise |
 | [Melon060701@twitter](https://twitter.com/Melon060701/status/1627550952965414912) | advertise |
+| [memeheadroom@twitter](https://twitter.com/memeheadroom/status/1657550474394980353) | advertise |
 | [Memo04905668@twitter](https://twitter.com/Memo04905668/status/1389065111659294720) | advertise |
 | [MennaTSMTM@twitter](https://twitter.com/MennaTSMTM/status/1384571665946800130) | advertise |
 | [menwhobuiltug@twitter](https://twitter.com/menwhobuiltug/status/1570324989429297152) | advertise |
@@ -9762,6 +9766,7 @@ Do not create new issue or we will close it as duplicate.
 | [roukaf25@twitter](https://twitter.com/roukaf25/status/1421110855517736964) | advertise |
 | [roxannexmars@twitter](https://twitter.com/roxannexmars/status/1380404984211152896) | advertise |
 | [Roy29428239@twitter](https://twitter.com/Roy29428239/status/1475497369147949066) | advertise |
+| [RoyalBoy112255@twitter](https://twitter.com/RoyalBoy112255/status/1657579972129615872) | advertise |
 | [royalcommando1@twitter](https://twitter.com/royalcommando1/status/1399602265934028801) | advertise |
 | [royalja40697482@twitter](https://twitter.com/royalja40697482/status/1403734511729315840) | advertise |
 | [royal_blood1506@twitter](https://twitter.com/royal_blood1506/status/1392355606825115655) | advertise |
