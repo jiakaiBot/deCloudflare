@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,313 |
+| com | 6,315 |
 | social | 4,032 |
-| net | 3,194 |
+| net | 3,195 |
 | org | 2,212 |
 | de | 2,098 |
 
@@ -2001,7 +2001,7 @@ Here's a list of public Fediverse services.
 | `anonyme-atheisten.ga` | No |
 | `anonymous-cat.site` | No |
 | `anonymous.blue` | No |
-| `anonymous.wtf` | Yes |
+| `anonymous.wtf` | No |
 | `anormallostpod.ovh` | No |
 | `anosdesiertos.love` | Yes |
 | `another-guild.com` | No |
@@ -5252,6 +5252,7 @@ Here's a list of public Fediverse services.
 | `calckey.art` | No |
 | `calckey.cloud` | No |
 | `calckey.jp` | No |
+| `calckey.lgbt` | No |
 | `calckey.nz` | No |
 | `calckey.pl` | Yes |
 | `calckey.social` | No |
@@ -6149,6 +6150,7 @@ Here's a list of public Fediverse services.
 | `chrotonic.com` | No |
 | `chrxs.net` | No |
 | `chrysanthem.org` | No |
+| `chswx.com` | No |
 | `chswx.social` | No |
 | `chth85.ovh` | No |
 | `chtisurel.net` | No |
@@ -9643,6 +9645,7 @@ Here's a list of public Fediverse services.
 | `duncancmt.com` | No |
 | `duncanhart.com` | No |
 | `duncte123.me` | Yes |
+| `dunevent.net` | No |
 | `dungeoncrawler.world` | No |
 | `dungeonmanager.guide` | No |
 | `dungeons.social` | No |
@@ -19542,7 +19545,7 @@ Here's a list of public Fediverse services.
 | `lanham.id.au` | No |
 | `lanhq.be` | No |
 | `lank.es` | No |
-| `lanners.uk` | Yes |
+| `lanners.uk` | No |
 | `lanodan.eu` | No |
 | `lanservice.de` | No |
 | `lansky.name` | No |
@@ -23342,6 +23345,7 @@ Here's a list of public Fediverse services.
 | `mispurchase.com` | No |
 | `miss-myhouse-key.net` | Yes |
 | `missbanal.net` | No |
+| `missing-deadlines.com` | Yes |
 | `mission1701.com` | Yes |
 | `missionbendtx.net` | Yes |
 | `missioncontrol.social` | No |
@@ -41717,8 +41721,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,545 |
-| Normal | 31,129 |
+| Cloudflare | 10,544 |
+| Normal | 31,134 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
