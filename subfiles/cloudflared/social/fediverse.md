@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,032 |
 | net | 3,195 |
 | org | 2,212 |
-| de | 2,098 |
+| de | 2,099 |
 
 
 - Mastodon, Pleroma, etc
@@ -12434,6 +12434,7 @@ Here's a list of public Fediverse services.
 | `freifalt.org` | No |
 | `freifunk-ansbach.de` | No |
 | `freifunk-fediverse.de` | No |
+| `freifunk-kreisgt.de` | No |
 | `freifunk-minden.de` | No |
 | `freifunk-muensterland.de` | No |
 | `freifunk.net` | No |
@@ -17071,6 +17072,7 @@ Here's a list of public Fediverse services.
 | `jamescousins.com` | No |
 | `jamesekstrom.com` | No |
 | `jamesg.blog` | Yes |
+| `jamesgallagher.photos` | No |
 | `jamesgallagher.social` | No |
 | `jamesharrington.org` | Yes |
 | `jameskitt616.one` | No |
@@ -41722,7 +41724,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,544 |
-| Normal | 31,134 |
+| Normal | 31,136 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
