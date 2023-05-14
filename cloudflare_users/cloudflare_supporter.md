@@ -3632,6 +3632,7 @@ Do not create new issue or we will close it as duplicate.
 | [GODVSH1@twitter](https://twitter.com/GODVSH1/status/1400408258024665091) | advertise |
 | [GodXGaming19@twitter](https://twitter.com/GodXGaming19/status/1404097512743477248) | advertise |
 | [god_alian@twitter](https://twitter.com/god_alian/status/1637274780180303873) | advertise |
+| [goet36@twitter](https://twitter.com/goet36/status/1657733431785140225) | advertise |
 | [GogehZailani@twitter](https://twitter.com/GogehZailani/status/1557726171130802179) | advertise |
 | [GogKhant@twitter](https://twitter.com/GogKhant/status/1393684373484961794) | advertise |
 | [GolamkibriaRony@twitter](https://twitter.com/GolamkibriaRony/status/1404201070306361345) | advertise |
@@ -4686,6 +4687,7 @@ Do not create new issue or we will close it as duplicate.
 | [ImAmDumbBoiiiii@twitter](https://twitter.com/ImAmDumbBoiiiii/status/1567143093169958912) | advertise |
 | [ImanBabazadeh@twitter](https://twitter.com/ImanBabazadeh/status/1388441784775286784) | advertise |
 | [Imanmirakhorli@twitter](https://twitter.com/Imanmirakhorli/status/1409632904510984201) | moral (advertise) |
+| [imanus07@twitter](https://twitter.com/imanus07/status/1657733188565848064) | advertise |
 | [imduyhoang@twitter](https://twitter.com/imduyhoang/status/1503398392902582275) | advertise |
 | [imeplus_tv@twitter](https://twitter.com/imeplus_tv/status/1508088325726429195) | advertise |
 | [imhopeluv@twitter](https://twitter.com/imhopeluv/status/1388275070544535553) | advertise |
@@ -5309,6 +5311,7 @@ Do not create new issue or we will close it as duplicate.
 | [ka50822655@twitter](https://twitter.com/ka50822655/status/1399136806856060928) | advertise |
 | [KabeersNetwork@twitter](https://twitter.com/KabeersNetwork/status/1415380733221392388) | advertise |
 | [kabirdayma@twitter](https://twitter.com/kabirdayma/status/1511013357842796546) | advertise |
+| [KabyaRayahana@twitter](https://twitter.com/KabyaRayahana/status/1657726234929790977) | advertise |
 | [kacdarcy1@twitter](https://twitter.com/kacdarcy1/status/1528007167265185792) | advertise |
 | [KACHA35541338@twitter](https://twitter.com/KACHA35541338/status/1402959497266556928) | advertise |
 | [KackleyThomas@twitter](https://twitter.com/KackleyThomas/status/1507557295122792450) | advertise |
@@ -5993,6 +5996,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kuu87353487@twitter](https://twitter.com/Kuu87353487/status/1392737682652942344) | advertise |
 | [Kuyah83627828@twitter](https://twitter.com/Kuyah83627828/status/1503268631882338304) | advertise |
 | [Kuyhesad@twitter](https://twitter.com/Kuyhesad/status/1400479004306464772) | advertise |
+| [kvncleantown@twitter](https://twitter.com/kvncleantown/status/1657725038152540160) | advertise |
 | [KwangTo1@twitter](https://twitter.com/KwangTo1/status/1388373678233047041) | advertise |
 | [KwikMugs@twitter](https://twitter.com/KwikMugs/status/1518513448597995524) | advertise |
 | [KXbXQwleCqIGldM@twitter](https://twitter.com/KXbXQwleCqIGldM/status/1491062243563556873) | advertise |
