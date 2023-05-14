@@ -5083,6 +5083,7 @@ Do not create new issue or we will close it as duplicate.
 | [jimmy90319098@twitter](https://twitter.com/jimmy90319098/status/1394347856098566146) | advertise |
 | [JimPOWR@twitter](https://twitter.com/JimPOWR/status/1582359527026233345) | advertise |
 | [Jim_Hawkins_1@twitter](https://twitter.com/Jim_Hawkins_1/status/1404288453064359936) | advertise |
+| [jim_patt2000@twitter](https://twitter.com/jim_patt2000/status/1657753001506004992) | advertise |
 | [jincai53@twitter](https://twitter.com/jincai53/status/1391608086779949057) | advertise |
 | [jinchi50593324@twitter](https://twitter.com/jinchi50593324/status/1499036465673633799) | advertise |
 | [Jinh73205251@twitter](https://twitter.com/Jinh73205251/status/1407576885748326402) | advertise |
@@ -5723,8 +5724,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -13025,6 +13026,7 @@ Do not create new issue or we will close it as duplicate.
 | [Zeven31589075@twitter](https://twitter.com/Zeven31589075/status/1391820184063647747) | advertise |
 | [ze_nier@twitter](https://twitter.com/ze_nier/status/1389247984110510083) | advertise |
 | [zGed001@twitter](https://twitter.com/zGed001/status/1438183713917988865) | advertise |
+| [ZHAILUGEBRE@twitter](https://twitter.com/ZHAILUGEBRE/status/1657756410250141698) | advertise |
 | [zhan2958@twitter](https://twitter.com/zhan2958/status/1394117965734420482) | advertise |
 | [ZhangJueJue1@twitter](https://twitter.com/ZhangJueJue1/status/1383633631164260360) | advertise |
 | [ZhechenWei@twitter](https://twitter.com/ZhechenWei/status/1646531788871970819) | advertise |
