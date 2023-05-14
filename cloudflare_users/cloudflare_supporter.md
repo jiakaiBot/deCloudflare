@@ -2826,6 +2826,7 @@ Do not create new issue or we will close it as duplicate.
 | [Double50501616@twitter](https://twitter.com/Double50501616/status/1393319618433802242) | advertise |
 | [DoubleK82510812@twitter](https://twitter.com/DoubleK82510812/status/1552622173038473216) | advertise |
 | [DoubleM36121250@twitter](https://twitter.com/DoubleM36121250/status/1379873214952693760) | advertise |
+| [douglas_wiebe@twitter](https://twitter.com/douglas_wiebe/status/1657745589180956672) | advertise |
 | [doug_coyle@twitter](https://twitter.com/doug_coyle/status/1534279443727917056) | advertise |
 | [DoujinSak@twitter](https://twitter.com/DoujinSak/status/1392447418352865285) | advertise |
 | [DovahkiW@twitter](https://twitter.com/DovahkiW/status/1424625036007297024) | advertise |
@@ -5722,8 +5723,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
