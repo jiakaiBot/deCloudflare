@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,313 |
 | social | 4,031 |
-| net | 3,193 |
+| net | 3,192 |
 | org | 2,212 |
 | de | 2,097 |
 
@@ -20403,7 +20403,6 @@ Here's a list of public Fediverse services.
 | `liuli.lol` | Yes |
 | `liuwm.work` | Yes |
 | `live-on.net` | No |
-| `live-theater.net` | Yes |
 | `live-website.com` | No |
 | `live4you.one` | Yes |
 | `liveaodh.com` | No |
@@ -41714,7 +41713,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,543 |
+| Cloudflare | 10,542 |
 | Normal | 31,128 |
 
 
