@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,313 |
 | social | 4,031 |
-| net | 3,192 |
+| net | 3,194 |
 | org | 2,212 |
-| de | 2,097 |
+| de | 2,098 |
 
 
 - Mastodon, Pleroma, etc
@@ -7022,6 +7022,7 @@ Here's a list of public Fediverse services.
 | `costablanca.social` | No |
 | `costas.dev` | No |
 | `coste.video` | No |
+| `costmiku.net` | No |
 | `costodon.social` | No |
 | `costpap.me` | Yes |
 | `cosylab.at` | No |
@@ -20403,6 +20404,7 @@ Here's a list of public Fediverse services.
 | `liuli.lol` | Yes |
 | `liuwm.work` | Yes |
 | `live-on.net` | No |
+| `live-theater.net` | Yes |
 | `live-website.com` | No |
 | `live4you.one` | Yes |
 | `liveaodh.com` | No |
@@ -21500,6 +21502,7 @@ Here's a list of public Fediverse services.
 | `maratang.life` | Yes |
 | `maravitti.fr` | No |
 | `marbleck.eu` | Yes |
+| `marc1307.de` | Yes |
 | `marcel.io` | No |
 | `marcelweiss.de` | No |
 | `marcg.pizza` | No |
@@ -41713,8 +41716,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,542 |
-| Normal | 31,128 |
+| Cloudflare | 10,544 |
+| Normal | 31,129 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
