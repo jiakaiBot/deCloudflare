@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Matter WebSocket Failed Connection](https://github.com/home-assistant/addons/issues/3050)
 - [Diagnostic sensor for ip port causes all entities in invalid](https://github.com/killer0071234/ha-hiq/issues/53)
 - [Weird API behaviour - Problems and weird responses!](https://github.com/kevoreilly/CAPEv2/issues/1518)
 - [how to set NEXTAUTH_URL environment variable in Cloudflare deploy.](https://github.com/nextauthjs/next-auth/issues/7542)
