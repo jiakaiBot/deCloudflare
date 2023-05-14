@@ -8,6 +8,9 @@
 [//]: # (do not edit me; end)
 
 
+![](count.svg)
+
+
 - **Cloudflare-domajnoj estas ekskluditaj de ĉi tiu esplorado ĉar tiuj estas sufiĉe malamikaj.**
 - Ne ĉiuj uzantoj de Tor estas malbonaj. Ne punu ĉiujn.
   - Kiel vi sentas, se iu blokas vin sen kialo?
