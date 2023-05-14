@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,313 |
-| social | 4,030 |
+| social | 4,031 |
 | net | 3,192 |
 | org | 2,212 |
 | de | 2,097 |
@@ -5174,6 +5174,7 @@ Here's a list of public Fediverse services.
 | `c1710.de` | No |
 | `c18l.com` | Yes |
 | `c1t0d0.ch` | No |
+| `c2.social` | No |
 | `c2bdon.net` | No |
 | `c30.life` | Yes |
 | `c3d2.de` | No |
@@ -10737,6 +10738,7 @@ Here's a list of public Fediverse services.
 | `eugenemakerspace.com` | No |
 | `eula.dev` | No |
 | `eule.wtf` | No |
+| `eulendore.xyz` | No |
 | `eulerroom.com` | No |
 | `eulious.com` | No |
 | `eunach.scot` | No |
@@ -41710,7 +41712,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,542 |
-| Normal | 31,124 |
+| Normal | 31,126 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
