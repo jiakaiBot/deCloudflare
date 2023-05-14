@@ -8,6 +8,9 @@
 [//]: # (do not edit me; end)
 
 
+![](count.svg)
+
+
 ![](../../image/eggsinbasket.jpg)
 
 - Bonvolu vidi [INSTRUCTION.md](../../INSTRUCTION.md) por dosiera celo kaj formato specifoj.
