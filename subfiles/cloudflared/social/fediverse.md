@@ -23062,6 +23062,7 @@ Here's a list of public Fediverse services.
 | `midov.pl` | No |
 | `midreality.com` | No |
 | `midskiller.org` | No |
+| `midsummer.garden` | No |
 | `midwaytrades.com` | No |
 | `midwest.af` | No |
 | `midwest.social` | No |
@@ -41724,7 +41725,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,544 |
-| Normal | 31,136 |
+| Normal | 31,137 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
