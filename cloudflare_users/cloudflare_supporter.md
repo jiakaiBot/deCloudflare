@@ -5323,6 +5323,7 @@ Do not create new issue or we will close it as duplicate.
 | [kaikophyo@twitter](https://twitter.com/kaikophyo/status/1399295110282571776) | advertise |
 | [KaiNgo8@twitter](https://twitter.com/KaiNgo8/status/1506138093937561607) | advertise |
 | [kainusaga@twitter](https://twitter.com/kainusaga/status/1380078279546167299) | advertise |
+| [Kaipa51@twitter](https://twitter.com/Kaipa51/status/1657678533060349954) | advertise |
 | [kaitimo2911@twitter](https://twitter.com/kaitimo2911/status/1552079274395697152) | advertise |
 | [Kaito685719351@twitter](https://twitter.com/Kaito685719351/status/1553905651524460544) | advertise |
 | [KAITOKU39855874@twitter](https://twitter.com/KAITOKU39855874/status/1382939010385907714) | advertise |
@@ -5718,8 +5719,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -9573,6 +9574,7 @@ Do not create new issue or we will close it as duplicate.
 | [RealPxLib@twitter](https://twitter.com/RealPxLib/status/1513253437722578948) | advertise |
 | [Realscenephoto1@twitter](https://twitter.com/Realscenephoto1/status/1379524143440396288) | advertise |
 | [realshabbir422@twitter](https://twitter.com/realshabbir422/status/1523552177356419072) | advertise |
+| [realshaheen4197@twitter](https://twitter.com/realshaheen4197/status/1657714324335661059) | advertise |
 | [realshherr@twitter](https://twitter.com/realshherr/status/1467100098819731457) | advertise |
 | [realtanitsuki@twitter](https://twitter.com/realtanitsuki/status/1587785728053780481) | advertise |
 | [RealTechSwift@twitter](https://twitter.com/RealTechSwift/status/1584963102486822912) | advertise |
@@ -10177,6 +10179,7 @@ Do not create new issue or we will close it as duplicate.
 | [sexlovehomo@twitter](https://twitter.com/sexlovehomo/status/1388767522049064962) | advertise |
 | [Sexman1611@twitter](https://twitter.com/Sexman1611/status/1501954885713297414) | advertise |
 | [SexyBoy15260836@twitter](https://twitter.com/SexyBoy15260836/status/1552365884320419841) | advertise |
+| [sexywilbur346@twitter](https://twitter.com/sexywilbur346/status/1657719098883600389) | advertise |
 | [Seypul3@twitter](https://twitter.com/Seypul3/status/1400350243426770944) | advertise |
 | [Sfa7ko1@twitter](https://twitter.com/Sfa7ko1/status/1544992856439398400) | advertise |
 | [sfa99688270@twitter](https://twitter.com/sfa99688270/status/1542988291116613639) | advertise |
@@ -11912,6 +11915,7 @@ Do not create new issue or we will close it as duplicate.
 | [twitchagouwa@twitter](https://twitter.com/twitchagouwa/status/1499465119918661638) | advertise |
 | [twiteza@twitter](https://twitter.com/twiteza/status/1397203308251594758) | advertise |
 | [twitte_mzaj@twitter](https://twitter.com/twitte_mzaj/status/1611580713458962433) | advertise |
+| [Twt98057665@twitter](https://twitter.com/Twt98057665/status/1657707467420372993) | advertise |
 | [Twyla54100915@twitter](https://twitter.com/Twyla54100915/status/1377527323654725636) | advertise |
 | [txwybd@twitter](https://twitter.com/txwybd/status/1646776087840698370) | advertise |
 | [tybchris5823@twitter](https://twitter.com/tybchris5823/status/1566692358552334336) | advertise |
