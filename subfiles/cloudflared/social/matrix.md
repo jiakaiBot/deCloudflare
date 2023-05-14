@@ -41,7 +41,6 @@ Here's a list of public Matrix services.
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
 | matrix.chatwave.org | No |
-| chrrreeeeesss.com | No |
 | club1.fr | No |
 | matrix-client.comm.cx | Yes |
 | matrix.community.rs | Yes |
@@ -51,6 +50,7 @@ Here's a list of public Matrix services.
 | matrix.data.haus | No |
 | im.deuxfleurs.fr | No |
 | matrix.dieandalusier.net | No |
+| matrix.duesen.chat | No |
 | matrix.envs.net | No |
 | exarius.org | No |
 | matrix.fachschaften.org | No |
