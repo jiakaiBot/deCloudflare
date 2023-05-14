@@ -859,6 +859,7 @@ payment.sys.yulon-group.com
 pcidss.yandex.net
 pcmax.ywrhuqa.vip
 pos.yesgrp.com
+preview.surveys.yandex.ru
 qa.yalamanchili.in
 qa1-cdnfs1.yieldoptimizer.com
 qa3-ag.yieldoptimizer.com
@@ -887,6 +888,7 @@ sportcenter.yadika.or.id
 tappay-cms.yapikredi.com.tr
 test-notice-games.yahooapis.jp
 tigadge.yoasobi-erobloger.com
+topblog.yahoo.co.jp
 travel.yahoo.co.jp
 u184128-sub10.your-storagebox.de
 uat.yl-griffin.com
@@ -952,6 +954,7 @@ www.ymgtech.com
 www.ymparistotiedonfoorumi.fi
 www.yohcli.com
 www.yokoso-uk.co.uk
+www.yomitv.jp
 www.yonkerstvmountingservice.com
 www.yorkchauffeurservice.co.uk
 www.yorn.net
@@ -969,6 +972,7 @@ www.ysbootlegs.eu
 www.yummymummykitchen.com
 www.yurtasyardim.xyz
 www.yurttasyardim.site
+www.yvesrocher.jp
 www.yzpst.net
 y6link.net
 ya62.ru
@@ -989,6 +993,7 @@ yashrajbharatisamman.org
 yashveepay.com
 yasirlyhijab.com
 yasno.com.ua
+yayasan-azzainuddin.org
 yazdsystem.com
 ydwjez8.com
 yeosindonesia.co.id
@@ -1060,6 +1065,7 @@ yuldash.com
 yulpronos.ca
 yuming.co.jp
 yunusalmeida.online
+yywater.tw
 abeletskiy-ppr-ru-20230220.website.yandexcloud.net
 api.youatcollege.com
 appleaday.yourwebdev.com.au
