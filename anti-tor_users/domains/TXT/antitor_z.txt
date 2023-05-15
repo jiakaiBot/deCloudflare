@@ -865,6 +865,7 @@ cpcalendars.zonaroblox.com
 cpcontacts.zenit-vamaveche.ro
 cpcontacts.zonaroblox.com
 creditoz.zaddystudio.com.ng
+csgo.zabgame.ru
 culevit.zerovic.com
 datacenter.zolbermedia.com
 diakszeft-api.uat.zeelabs.online
@@ -882,6 +883,7 @@ gateway.zscalertwo.net
 git.gitlab.git.gitlab.git.accounting.zenicolor.com
 gitlab.git.blog.demo.staging.zurvitavirtual.com
 hermes.zoomgate.com
+idhlr.ziu-online.org
 idp.saas.zeb-it.de
 images.zmaildirect.com
 img01.ztat.net
@@ -897,6 +899,7 @@ monitoring.zeitraum.io
 monitoring.zozo.gg
 mta-sts.www.hariridevelopment.zmverify.zoho.co
 node0.zsu.hu
+oktatas.zolixplorer.com
 open.zvuk.com
 optionpit.zoholandingpage.com
 otpportal.zao-agrokomplex.ru
