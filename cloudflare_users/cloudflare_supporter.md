@@ -2651,6 +2651,7 @@ Do not create new issue or we will close it as duplicate.
 | [DewminiSenarath@twitter](https://twitter.com/DewminiSenarath/status/1514969565360693248) | advertise |
 | [DexterIRAN@twitter](https://twitter.com/DexterIRAN/status/1511339883062824967) | advertise |
 | [DexterStress@twitter](https://twitter.com/DexterStress/status/1584967663100792832) | advertise |
+| [dey71_r@twitter](https://twitter.com/dey71_r/status/1657992992458960902) | advertise |
 | [DeYeJa2@twitter](https://twitter.com/DeYeJa2/status/1392927369686523905) | advertise |
 | [deywall@twitter](https://twitter.com/deywall/status/1391105437471232003) | advertise |
 | [dfm_radio@twitter](https://twitter.com/dfm_radio/status/1528603132866924545) | advertise |
