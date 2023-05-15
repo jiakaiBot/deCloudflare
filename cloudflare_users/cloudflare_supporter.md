@@ -793,6 +793,7 @@ Do not create new issue or we will close it as duplicate.
 | [Anh96575816@twitter](https://twitter.com/Anh96575816/status/1388928207580110852) | advertise |
 | [AnhAnh53117458@twitter](https://twitter.com/AnhAnh53117458/status/1404414762851528707) | advertise |
 | [AnhAnh97865792@twitter](https://twitter.com/AnhAnh97865792/status/1398684926451404802) | advertise |
+| [anhav77@twitter](https://twitter.com/anhav77/status/1657976451541635072) | advertise |
 | [Anhc63559524@twitter](https://twitter.com/Anhc63559524/status/1525971256771678208) | advertise |
 | [AnhCa22@twitter](https://twitter.com/AnhCa22/status/1552339975173132289) | advertise |
 | [AnhcBui1@twitter](https://twitter.com/AnhcBui1/status/1646550107230466049) | advertise |
@@ -5226,6 +5227,7 @@ Do not create new issue or we will close it as duplicate.
 | [JpMatuto@twitter](https://twitter.com/JpMatuto/status/1388240079810973699) | advertise |
 | [JpmH0r@twitter](https://twitter.com/JpmH0r/status/1553629135322329093) | advertise |
 | [jprasanth2006@twitter](https://twitter.com/jprasanth2006/status/1481836188277567488) | advertise |
+| [jprbarry@twitter](https://twitter.com/jprbarry/status/1657972644019597313) | advertise |
 | [Jr7wPt56@twitter](https://twitter.com/Jr7wPt56/status/1523618442917871618) | advertise |
 | [jrbatis97484193@twitter](https://twitter.com/jrbatis97484193/status/1557911331075895297) | advertise |
 | [JRobertsonFRSA@twitter](https://twitter.com/JRobertsonFRSA/status/1500545084479180808) | advertise |
@@ -5726,8 +5728,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -9890,6 +9892,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sagar40471368@twitter](https://twitter.com/Sagar40471368/status/1394306315283959815) | advertise |
 | [SagrJony@twitter](https://twitter.com/SagrJony/status/1378421082592575491) | advertise |
 | [sahand90818531@twitter](https://twitter.com/sahand90818531/status/1584475574302826496) | advertise |
+| [sahandkerad@twitter](https://twitter.com/sahandkerad/status/1657968285407760384) | advertise |
 | [sahand_kherad@twitter](https://twitter.com/sahand_kherad/status/1587038095207268358) | advertise |
 | [sahar_vakiliy@twitter](https://twitter.com/sahar_vakiliy/status/1589903438640386048) | advertise |
 | [sahilbagde20@twitter](https://twitter.com/sahilbagde20/status/1391423702001012740) | advertise |
