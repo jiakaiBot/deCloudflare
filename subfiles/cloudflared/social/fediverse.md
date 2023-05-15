@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,319 |
+| com | 6,320 |
 | social | 4,036 |
 | net | 3,200 |
 | org | 2,214 |
@@ -330,6 +330,7 @@ Here's a list of public Fediverse services.
 | `2metz.fr` | No |
 | `2muchin4mation.com` | No |
 | `2n3904.net` | No |
+| `2na9.com` | No |
 | `2ndamendment.social` | No |
 | `2orb.de` | Yes |
 | `2ot.fun` | No |
@@ -26867,7 +26868,7 @@ Here's a list of public Fediverse services.
 | `omx.nl` | No |
 | `on-o.com` | No |
 | `on.vu` | No |
-| `on2it.net` | No |
+| `on2it.net` | Yes |
 | `on74th.cloud` | No |
 | `onchangedevie.com` | No |
 | `oncletom.io` | No |
@@ -41754,7 +41755,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,554 |
+| Cloudflare | 10,555 |
 | Normal | 31,157 |
 
 
