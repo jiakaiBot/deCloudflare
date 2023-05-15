@@ -789,11 +789,14 @@ avito.sber.www.sberbank.sber.blablacar.covid19.youhollywood.com
 avito.sberbank.git.git.git.covid19.youhollywood.com
 b92.yahoo.co.jp
 b97.yahoo.co.jp
+backend-api-uat.yoopay.co.id
+backend-api.yoopay.co.id
 bananatrust-dev.yode.pro
 beyazlar1.yapimasamasi.site
 birtekbranda.yapimasamasi.site
 blablacar.sber.avito.git.git.git.covid19.youhollywood.com
 blablacar.sberbank.git.git.git.covid19.youhollywood.com
+blog.git.gitlab.git.gitlab.yabai.si
 bs.yandex.ru
 capi.yaanimail.com
 card-stories.ylestatic.fi
@@ -822,6 +825,7 @@ dms-bw9xbupzajreport.wc.yahoodns.net
 dms-c8v6jblkloreport.wc.yahoodns.net
 dms-cskgv3wgwereport.wc.yahoodns.net
 edabranda.yapimasamasi.site
+eu.yourcircuit.com
 express.yesbank.in
 facture.youbidou.be
 filemanager.yurinalesso.com
@@ -856,6 +860,7 @@ one2021-production.prod.emea.yaradigitallabs.io
 outwardremit.mto.yesbank.in
 ov.youbuy.com
 payment.sys.yulon-group.com
+paypayfleamarket.yahoo.co.jp
 pcidss.yandex.net
 pcmax.ywrhuqa.vip
 pos.yesgrp.com
@@ -905,6 +910,7 @@ v-ctp59a3myk.wc.yahoodns.net
 vzpn.ydns.eu
 webclickbank2.youtokmarketing.com
 webmail.bureauveritas.yoomultimedia.com
+wiki.yacy.net
 www.akm.mts.yapimjaya.sch.id
 www.amima-yapilan-agdayla.yeahh.com
 www.beyazlar1.yapimasamasi.site
@@ -919,6 +925,7 @@ www.edabranda.yapimasamasi.site
 www.enrolements.yelemoney.com
 www.gaffarhabib.ymtsindia.com
 www.gitlab.gitlab.git.11eb-af87-10c3abf9bee2.your-proxy.com
+www.habibihoney.yukyesya.com
 www.helpdesk.youngbox.id
 www.home.yummydelivery.et
 www.invoice.ypamdr.com
@@ -934,8 +941,10 @@ www.y-koseiren.jp
 www.y248.net
 www.yakari-show.de
 www.yakunet.com
+www.yalerussianbusinessretreat.com
 www.yaloencontre.mx
 www.yamauchi-f.com
+www.yapikurelektrik.com
 www.yapiportal.com
 www.yapiprojemuhendislik.com
 www.yapisalesitlik.com
@@ -969,6 +978,7 @@ www.youthline.co.nz
 www.youtube-nocookie.com
 www.youtubeluxfer.com
 www.ysbootlegs.eu
+www.yuiko.fr
 www.yummymummykitchen.com
 www.yurtasyardim.xyz
 www.yurttasyardim.site
@@ -980,6 +990,7 @@ yabook.de
 yacadeuro.org
 yachtbot.us
 yads.yjtag.yahoo.co.jp
+yalseh.info
 yamamotocli.com
 yammiia.com
 yandex-commerce.com
@@ -1065,6 +1076,7 @@ yuldash.com
 yulpronos.ca
 yuming.co.jp
 yunusalmeida.online
+yurumez.net
 yywater.tw
 abeletskiy-ppr-ru-20230220.website.yandexcloud.net
 api.youatcollege.com
