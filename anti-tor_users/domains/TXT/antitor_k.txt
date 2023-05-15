@@ -3129,6 +3129,7 @@ appleidunlock.kejibear.org
 apps.kiai.co
 ar.krakenfinancials.com
 ar407.keap-link005.com
+as1.kaspi.kz
 asia-p2preport-homepluspre.kalayservice.com
 asset.kurio.network
 assets.kpmg.com
@@ -3136,6 +3137,7 @@ auth.kludt.info
 auth.krauss-stefan.de
 auth.login.stg.kojima.net
 auth.vpn.krzysztofozog.com
+auth2.kaspi.kz
 authelia.home.krebs6.de
 authelia.krassimir.dev
 autodiscover.b2b.kinitro-exartimata.gr
@@ -3153,6 +3155,7 @@ avito.avito.avito.sberbank.covid19.kozlovaresult.com
 avito.avito.avito.sberbank.covid19.kpd101studio.com
 avito.avito.sber.avito.avito.sber.aviavicovid19.kleinformart.com
 avito.avito.sber.avito.sberbank.covid19.kpd101studio.com
+avito.blablacar.blablacar.www.covid19.kleinformart.com
 avito.sber.avito.avito.avito.sber.covid19.kupit-banyu-38.ru
 avito.sber.avito.sber.sber.avito.covid19.kupit-banyu-38.ru
 avito.sber.avito.sberbank.www.covid19.kozlovaresult.com
@@ -3167,6 +3170,11 @@ bestb.kunde-formativ.net
 beta.2019.support.kaydzen.com
 blablacar.avito.avito.covid19.kleinformart.com
 blablacar.www.covid19.kleinformart.com
+blog.git.git.gitlab.git.git.krzton.pl
+blog.git.git.gitlab.git.mw.klondayk.net
+blog.git.gitlab.git.git.git.gitlab.git.krzton.pl
+blog.gitlab.git.git.git.gitlab.git.krzton.pl
+blog.gitlab.gitlab.forum.krzton.pl
 bq932.keap-link010.com
 bravo.kelas.site
 butlergroep.klantwebsite.nl
@@ -3308,9 +3316,11 @@ kabarpost.id
 kabarsdgs.com
 kadokado.io
 kagetnews.com
+kagie.pl
 kahaila.com
 kaibilsecurity.com
 kaibilseguridad.com
+kaiden.kz
 kainatchaudhary.site
 kajacouture.net
 kajianberita.com
@@ -3395,6 +3405,7 @@ kegesit77.shop
 keithgigger2.realtor
 kelemobil.hu
 kelopronto.com
+kelvin-service.com
 kemas.in
 kemasanpaket.com
 kemetium.com
@@ -3408,9 +3419,11 @@ kepple.gift
 kermitthecoin.xyz
 kerry-ann.realtor
 kesheromania.ro
+ket789.net
 ketcau-stc.com
 ketoblastgummybears.net
 ketodis.com
+ketodulon266.cloud
 ketolasso.fun
 ketoxplode.shop
 ketv.com
@@ -3431,6 +3444,7 @@ kheirwabaraka.org
 khironclinics.com
 khogiaodienwp.com
 khoroblox.vn
+khrmk.ru
 khust-miskrada.gov.ua
 khuzrez.shop
 khuzula.co.mz
@@ -3438,8 +3452,10 @@ ki128.keap-link006.com
 kibir.shop
 kibugruk.shop
 kibur.net
+kidbike.de
 kidneydiseaseupdate.com
 kids.kahoku.co.jp
+kidscharm.org
 kidsykids.com
 kientrucanhung.com
 kifornecedor.com.br
@@ -3463,6 +3479,7 @@ king388.asia
 kingbet86.top
 kingchuen.com
 kingdyno.net
+kingkong999.asia
 kingsenglish.info
 kingtechcare.vn
 kingtrack-crawler.com
@@ -3476,6 +3493,7 @@ kiproductions.org
 kipuperu.com
 kiranyousuf.site
 kirimpaket.my.id
+kirolprobak.com
 kisakimama.com
 kisankartbill.com
 kishpersianrestaurant.com
@@ -3494,8 +3512,10 @@ kitzhair.co.za
 kiyalivraison.com
 kjldgsdfgjk3453fsdamlfn23bjksddsaiof.xyz
 kk-money.com
+kkcredit2u.com
 kkm906.com
 kkskalisz.com
+kkygeek.com
 kl-tili-ja-toimisto.fi
 klanordshore.com
 klantactie.be
@@ -3532,6 +3552,7 @@ kliment-voroshilov-zik20.xyz
 klingonshop.com
 klinika-semejnogo-zdorovya.ru
 klinikhanglekiu.com
+klinikreypurna.com
 kloruk.shop
 kloupagestion.com
 klv3.io
@@ -3599,7 +3620,7 @@ kotabrondong.org
 kotatrenggalek.org
 kotatulungagung.org
 kotokot.com
-kowshop.fr
+kozmaps.com
 kprwawasansgara.com
 krakendefensegroup.com
 kranparts.ru
@@ -3651,6 +3672,7 @@ kwtnhdrmbx.com
 kximxxzsva.com
 kxnggkh2nj.com
 kyderbyadventure.com
+kyenterprises.net
 kyh.se
 kyokushin-karate.ro
 kyudkgydukyuk.shop
@@ -3659,6 +3681,7 @@ l.kuranosuke.jp
 ladynowe2.karriedawaycreations.com
 ld978.keap-link015.com
 ledynoi.keenetic.name
+lettres.servicesplus.ktmc.ch
 live.rebuild.medicalpetshirts.com.kiwicloud.nl
 live.rebuild.suitical.com.kiwicloud.nl
 lmp-gcp-dev-extapi.keybank.com
@@ -3699,6 +3722,8 @@ nitrogen.kuschku.de
 nitrousclan.keytrades.net
 nl-go.kelkoogroup.net
 notes.kreasigue.com
+oauth1.kaspi.kz
+oauth2.kaspi.kz
 old.kontorexdata.se
 oneid-lpki.kibs.com.mk
 onza5050post.keenetic.link
@@ -3767,6 +3792,7 @@ sberbank.avito.avito.sber.avito.covid19.karuseldetstva.ru
 sberbank.avito.avito.sber.avito.sber.covid19.kpd101studio.com
 sberbank.avito.avito.sber.avito.www.covid19.karuseldetstva.ru
 sberbank.avito.avito.sber.covid19.kleinformart.com
+sberbank.avito.avito.sberbank.www.covid19.kleinformart.com
 sberbank.avito.sber.avito.sber.sber.covid19.karuseldetstva.ru
 sberbank.avito.sber.sber.avito.www.covid19.karuseldetstva.ru
 sberbank.avito.sber.sber.sber.sber.covid19.karuseldetstva.ru
@@ -3784,6 +3810,7 @@ sberbank.sberbank.covid19.kleinformart.com
 sberbank.sberbank.www.covid19.kleinformart.com
 sde.kaspersky-labs.com
 sdx.kfintech.com
+secure.kesdee.com
 servicedesk.kingsmead-school.com
 services.keeex.me
 services.prod.kbfina.com.vn
@@ -3888,6 +3915,7 @@ www.bank.kadalitech.com
 www.bank.kardashianfinance.com
 www.banking.kojotechs.com
 www.billie-and-steve-1.kellyhazlettphotography.co.uk
+www.blog.2022-11-29znegeulfluxsisilafamille.gitlab.october.kinod.ru
 www.brandon-chase.karibendig.com
 www.breakingbreadfoodbank.killerfootball.co.uk
 www.bsnserver.kunstgebitservice.info
@@ -3942,12 +3970,14 @@ www.kaidankaistories.com
 www.kajuen.co.jp
 www.kakoleciti.com
 www.kalkanyapi.com.tr
+www.kallaierno.eu
 www.kamagraoraljelly.store
 www.kamarikuoro.com
 www.kamawanu.shop
 www.kamayansaearlscourt.co.uk
 www.kamo-uniforma.ru
 www.kang-coin.com
+www.kanikeenkortebroekaan.nl
 www.kanishkasafety.com
 www.kanpid.com
 www.kapa7.com
@@ -3972,6 +4002,7 @@ www.kebumenupdate.com
 www.kedistan.net
 www.keilawakao.com
 www.kekwcoinlol.com
+www.kemiralunar.com.br
 www.kempacollection.com
 www.kemper-alt.salzmann.kundencms.de
 www.kenyans.co.ke
@@ -3982,6 +4013,7 @@ www.kernews.com
 www.kerstinwiggins.com
 www.kesikyapi.com.tr
 www.keskustaopiskelijat.fi
+www.ket789.net
 www.ketchikanarts.org
 www.ketk.com
 www.ketto.org
@@ -3999,6 +4031,7 @@ www.kidsfashion2202gmail.com.br
 www.kielipankki.fi
 www.kierstenstanley.com
 www.kierstentwitchell.com
+www.kiffkafe.com
 www.kihon.com
 www.kijiji.ca
 www.kimberlymstanley.com
@@ -4016,6 +4049,7 @@ www.kirincity.co.jp
 www.kirinholdings.com
 www.kissmyseoul.com
 www.kitarel2030.xyz
+www.kitcom.kitcom-service.com
 www.kiuc.coop
 www.kk-money.com
 www.klantwebsite.nl
@@ -4033,6 +4067,7 @@ www.knoxvillerestorationservice.com
 www.knqs0115.com
 www.kny1033.club
 www.koamnewsnow.com
+www.kobietywedrowne.org
 www.koblenzkultur.de
 www.kochlust-hengstmann.de
 www.kodami.it
@@ -4058,6 +4093,7 @@ www.krakenbar.fr
 www.krakenmoto.co.uk
 www.krakenshirtco.com
 www.krauser-transporte.de
+www.kravag-deutschland.de
 www.kravemi.com
 www.kravmaga-chatel.ch
 www.kravmagataastrup.dk
@@ -4104,6 +4140,7 @@ www.pakalljobs.karachijobsupdate.com
 www.paketlancarkan.kasihmedika.com
 www.pakettuntascepat.kasihmedika.com
 www.password-manager.krisidev.com
+www.payungnabawi.com.kanopiatapmembrane.com
 www.pkdytazjakr.kredittoyotajakarta.com
 www.plan1.kunder2-guru-utvikling.no
 www.post.kring.store
