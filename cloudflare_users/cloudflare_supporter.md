@@ -2591,6 +2591,7 @@ Do not create new issue or we will close it as duplicate.
 | [deepkolan@twitter](https://twitter.com/deepkolan/status/1402145948864638978) | advertise |
 | [DeerwindNlh@twitter](https://twitter.com/DeerwindNlh/status/1378232168657326080) | advertise |
 | [DefAbandonware@twitter](https://twitter.com/DefAbandonware/status/1418440485081784320) | advertise |
+| [defeter1810@twitter](https://twitter.com/defeter1810/status/1658011010639482880) | advertise |
 | [DefPratik@twitter](https://twitter.com/DefPratik/status/1532445074973663232) | advertise |
 | [DegenPilled@twitter](https://twitter.com/DegenPilled/status/1442737756753514497) | advertise |
 | [deivan76@twitter](https://twitter.com/deivan76/status/1534215791637409792) | advertise |
