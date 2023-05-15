@@ -690,6 +690,7 @@ Or is this merely a case of simple modesty?
 | Harnish Kanani | Chief Customer Officer |  |
 | Harris Hancock | Systems Engineer |  |
 | Harry Hirschman | Customer Strategy |  |
+| Harshal Brahmbhatt | Employee | |
 | Hasan Sanli | Trust and Safety Engineer |  |
 | Hassie Ergin | Employee |  |
 | Heather Orsi | Strategic Finance Manager |  |
@@ -1410,6 +1411,7 @@ Or is this merely a case of simple modesty?
 | Petre Gabriel | Employee |  |
 | Philip Bjorkman | Business Development |  |
 | Philip Johnson | Employee |  |
+| Phillip Jones | Employee | |
 | Phil Syme | Employee | |
 | Phi Nguyen | Account Executive |  |
 | Pierce Buxton | Customer Development |  |
@@ -1495,6 +1497,7 @@ Or is this merely a case of simple modesty?
 | Rick Magarro | IT Operations Engineer, Singapore |  |
 | Rick Wootten | Marketing and Advertising | https://twitter.com/wootten<br>https://rickwootten.com/<br>https://www.linkedin.com/in/rickwootten |
 | Ricky Lee | Regional Sales |  |
+| Ricky Robinett | Employee | |
 | Riddhi Milind | Employee |  |
 | Rika Niekzad | Customer Development |  |
 | Rina Yates | Employee |  |
