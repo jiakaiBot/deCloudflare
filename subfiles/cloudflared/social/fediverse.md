@@ -3519,6 +3519,7 @@ Here's a list of public Fediverse services.
 | `beckorg.com` | No |
 | `beckum.cloud` | No |
 | `becomesovran.com` | No |
+| `becutewith.me` | No |
 | `bee-tube.fr` | No |
 | `beebear.party` | No |
 | `beech.org.uk` | No |
@@ -20029,7 +20030,7 @@ Here's a list of public Fediverse services.
 | `lgbt.im` | No |
 | `lgbt.io` | No |
 | `lgbt.place` | No |
-| `lgbt.pm` | Yes |
+| `lgbt.pm` | No |
 | `lgbt6.club` | No |
 | `lgbtcz.social` | No |
 | `lgbtfree.zone` | No |
@@ -41748,8 +41749,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,553 |
-| Normal | 31,152 |
+| Cloudflare | 10,552 |
+| Normal | 31,154 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
