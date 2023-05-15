@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Some sources are not working](https://github.com/TheNetsky/extensions-generic-0.8/issues/18)
 - [_cloudflare plugin will not work](https://github.com/Novik/ruTorrent/issues/2510)
 - [Incorrect validation certificate for tls-alpn-01 challenge](https://github.com/dehydrated-io/dehydrated/issues/911)
 - [ingress object does not use right cert](https://github.com/b4mad/op1st-emea-b4mad/issues/7)
