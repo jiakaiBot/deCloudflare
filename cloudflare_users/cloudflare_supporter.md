@@ -9615,6 +9615,7 @@ Do not create new issue or we will close it as duplicate.
 | [Red_r_e_@twitter](https://twitter.com/Red_r_e_/status/1543613663717871618) | advertise |
 | [reedracer@twitter](https://twitter.com/reedracer/status/1492234588948774922) | advertise |
 | [Reeman_W@twitter](https://twitter.com/Reeman_W/status/1629841592067448836) | advertise |
+| [reembeem97@twitter](https://twitter.com/reembeem97/status/1658054007825534976) | advertise |
 | [refateusha@twitter](https://twitter.com/refateusha/status/1473025498104041473) | advertise |
 | [regchan@twitter](https://twitter.com/regchan/status/1524281569376182273) | advertise |
 | [rehdogg@twitter](https://twitter.com/rehdogg/status/1645508851045728272) | advertise |
@@ -12545,6 +12546,7 @@ Do not create new issue or we will close it as duplicate.
 | [Wrld999Zachs@twitter](https://twitter.com/Wrld999Zachs/status/1603229456558161920) | advertise |
 | [wrongxbleed@twitter](https://twitter.com/wrongxbleed/status/1380588171436597249) | advertise |
 | [Wrp79316944@twitter](https://twitter.com/Wrp79316944/status/1405499749663268865) | advertise |
+| [Wtfosamay@twitter](https://twitter.com/Wtfosamay/status/1658058011154468866) | advertise |
 | [Wuan21335402@twitter](https://twitter.com/Wuan21335402/status/1387462878307835905) | advertise |
 | [Wunna17774353@twitter](https://twitter.com/Wunna17774353/status/1390187233764732932) | advertise |
 | [WuttYeeKyaw5@twitter](https://twitter.com/WuttYeeKyaw5/status/1395568627630309376) | advertise |
