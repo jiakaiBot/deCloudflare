@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,318 |
-| social | 4,034 |
-| net | 3,199 |
+| social | 4,035 |
+| net | 3,200 |
 | org | 2,213 |
 | de | 2,100 |
 
@@ -6688,7 +6688,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -12608,6 +12608,7 @@ Here's a list of public Fediverse services.
 | `frostillic.us` | No |
 | `frostis.se` | No |
 | `frostmn.social` | Yes |
+| `frostyfrog.net` | Yes |
 | `froth.zone` | No |
 | `frozen.social` | No |
 | `frozentruth.com` | No |
@@ -25998,6 +25999,7 @@ Here's a list of public Fediverse services.
 | `nononymous.fr` | No |
 | `nonsense.direct` | No |
 | `nonsensoleum.net` | No |
+| `nonsequiturs.social` | No |
 | `nonserious.in` | No |
 | `nonsocialand.space` | No |
 | `nontongp.live` | No |
@@ -36375,6 +36377,7 @@ Here's a list of public Fediverse services.
 | `theoks.net` | Yes |
 | `theoldergamers.social` | No |
 | `theologisches-forum.de` | No |
+| `theomega.zone` | Yes |
 | `theonetrueginger.ninja` | No |
 | `theopjones.blog` | Yes |
 | `theopjones.com` | Yes |
@@ -41745,8 +41748,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,552 |
-| Normal | 31,150 |
+| Cloudflare | 10,553 |
+| Normal | 31,152 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
