@@ -1224,6 +1224,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungYeYintKyaw7@twitter](https://twitter.com/AungYeYintKyaw7/status/1404108228993044481) | advertise |
 | [AungZaw08554849@twitter](https://twitter.com/AungZaw08554849/status/1537369196233117696) | advertise |
 | [AungZaw11643048@twitter](https://twitter.com/AungZaw11643048/status/1478028534568214529) | advertise |
+| [AungZaw11937542@twitter](https://twitter.com/AungZaw11937542/status/1658123778201726976) | advertise |
 | [Aungzaw26392868@twitter](https://twitter.com/Aungzaw26392868/status/1391635364394135553) | advertise |
 | [AungZaw39810644@twitter](https://twitter.com/AungZaw39810644/status/1384019489994338304) | advertise |
 | [Aungzaw45804460@twitter](https://twitter.com/Aungzaw45804460/status/1610696886171889665) | advertise |
