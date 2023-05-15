@@ -27998,6 +27998,7 @@ Here's a list of public Fediverse services.
 | `peertube.eus` | No |
 | `peertube.fr` | No |
 | `peertube.host` | No |
+| `peertube.in.ua` | No |
 | `peertube.io` | No |
 | `peertube.it` | Yes |
 | `peertube.jp.net` | No |
@@ -41757,7 +41758,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,556 |
-| Normal | 31,157 |
+| Normal | 31,158 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
