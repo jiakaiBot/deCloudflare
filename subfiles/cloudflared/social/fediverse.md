@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,320 |
+| com | 6,321 |
 | social | 4,036 |
 | net | 3,200 |
 | org | 2,214 |
@@ -11741,6 +11741,7 @@ Here's a list of public Fediverse services.
 | `filipesm.eu` | Yes |
 | `filiuspatris.net` | Yes |
 | `fillari.xyz` | No |
+| `fillian.com` | No |
 | `fillmorephx.com` | Yes |
 | `filly.social` | Yes |
 | `filmaidykai.net` | Yes |
@@ -41758,7 +41759,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,556 |
-| Normal | 31,158 |
+| Normal | 31,159 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
