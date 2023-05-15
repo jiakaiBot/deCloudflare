@@ -26098,6 +26098,7 @@ Here's a list of public Fediverse services.
 | `nosocial.org` | No |
 | `nosocialnet.work` | No |
 | `nosotros.ong.br` | Yes |
+| `nospoon.red` | Yes |
 | `nospy.net` | No |
 | `nostalghia.xyz` | Yes |
 | `nostalgia-tns.net` | No |
@@ -41755,7 +41756,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,555 |
+| Cloudflare | 10,556 |
 | Normal | 31,157 |
 
 
