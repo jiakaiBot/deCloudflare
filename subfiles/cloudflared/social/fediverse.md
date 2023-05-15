@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,318 |
+| com | 6,319 |
 | social | 4,035 |
 | net | 3,200 |
-| org | 2,213 |
+| org | 2,214 |
 | de | 2,100 |
 
 
@@ -3155,6 +3155,7 @@ Here's a list of public Fediverse services.
 | `badgerson.com` | No |
 | `badgirls.org.uk` | No |
 | `badhills.de` | No |
+| `badjack.org` | No |
 | `badly.co` | Yes |
 | `badonkahonk.com` | No |
 | `badpacman.io` | Yes |
@@ -9507,6 +9508,7 @@ Here's a list of public Fediverse services.
 | `drn1.com` | No |
 | `drnk.ca` | Yes |
 | `drobune.nl` | Yes |
+| `drohm.eu` | No |
 | `droidbuilders.uk` | No |
 | `droitdebout.fr` | No |
 | `dromaeosaur.cloud` | No |
@@ -12229,6 +12231,7 @@ Here's a list of public Fediverse services.
 | `foxxo.gay` | Yes |
 | `foxyhole.io` | Yes |
 | `foxylo.xyz` | No |
+| `foygl.com` | Yes |
 | `foytik.tk` | No |
 | `fozztexx.com` | Yes |
 | `fpfle.de` | No |
@@ -41749,8 +41752,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,552 |
-| Normal | 31,154 |
+| Cloudflare | 10,553 |
+| Normal | 31,156 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
