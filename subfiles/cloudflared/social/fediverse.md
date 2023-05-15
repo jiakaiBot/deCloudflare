@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,319 |
-| social | 4,035 |
+| social | 4,036 |
 | net | 3,200 |
 | org | 2,214 |
 | de | 2,100 |
@@ -18061,6 +18061,7 @@ Here's a list of public Fediverse services.
 | `kalli.st` | No |
 | `kalmar.social` | No |
 | `kalterwinter.info` | No |
+| `kaltes.beer` | Yes |
 | `kalua.im` | Yes |
 | `kalum.ca` | No |
 | `kame.land` | No |
@@ -31236,6 +31237,7 @@ Here's a list of public Fediverse services.
 | `rooty.fr` | No |
 | `ropable.com` | Yes |
 | `rope-access-work.com` | No |
+| `ropeburn.social` | No |
 | `ropedrop.social` | No |
 | `ropo.jp` | No |
 | `rorea.moe` | Yes |
@@ -41752,8 +41754,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,553 |
-| Normal | 31,156 |
+| Cloudflare | 10,554 |
+| Normal | 31,157 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
