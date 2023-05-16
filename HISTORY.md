@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-05-16: [Cloudflare Page Shield Issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wpy906mhzxkx)
 - 2023-05-16: [Cloudflare Notifications issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7w0qqp5tf16y)
 - 2023-05-16: [Performance Issues in multiple locations.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bmd4c601slrr)
 - 2023-05-15: [Email Deobfuscation Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/97j326sgmx8h)
