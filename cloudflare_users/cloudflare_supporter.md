@@ -8928,6 +8928,7 @@ Do not create new issue or we will close it as duplicate.
 | [phanvandai98@twitter](https://twitter.com/phanvandai98/status/1440374987508965377) | advertise |
 | [phanvanduc9x@twitter](https://twitter.com/phanvanduc9x/status/1396340709095985152) | advertise |
 | [phanvanlai9@twitter](https://twitter.com/phanvanlai9/status/1491682557628280833) | advertise |
+| [PhanVn663732@twitter](https://twitter.com/PhanVn663732/status/1658502513585459200) | advertise |
 | [PhanVnN6@twitter](https://twitter.com/PhanVnN6/status/1476930196150226951) | advertise |
 | [Pharm_chocolate@twitter](https://twitter.com/Pharm_chocolate/status/1401267624013668352) | advertise |
 | [Phat5312@twitter](https://twitter.com/Phat5312/status/1514940394651684870) | advertise |
