@@ -13049,7 +13049,7 @@ Here's a list of public Fediverse services.
 | `gamelore.fun` | Yes |
 | `gamemaking.social` | No |
 | `gamepad.club` | No |
-| `gameplay.wtf` | Yes |
+| `gameplay.wtf` | No |
 | `gamer007.com` | Yes |
 | `gamercast.net` | No |
 | `gamerfort.social` | No |
@@ -14614,6 +14614,7 @@ Here's a list of public Fediverse services.
 | `hallsofamenti.io` | Yes |
 | `hallucigenia.ga` | No |
 | `halodub.xyz` | No |
+| `halstead.email` | No |
 | `halt.cl` | Yes |
 | `halvbrax.se` | No |
 | `ham.land` | No |
@@ -18758,7 +18759,7 @@ Here's a list of public Fediverse services.
 | `klausgesprochen.de` | No |
 | `klausurenphase.de` | No |
 | `klazema.net` | No |
-| `klee-wife.moe` | Yes |
+| `klee-wife.moe` | No |
 | `klein.is` | No |
 | `klein.social` | No |
 | `klein.tl` | No |
@@ -26000,7 +26001,7 @@ Here's a list of public Fediverse services.
 | `noncorporate.network` | No |
 | `nondeterministic.computer` | No |
 | `none.com` | Yes |
-| `none.net` | No |
+| `none.net` | Yes |
 | `nonewfriends.club` | Yes |
 | `nonexiste.net` | No |
 | `nonfren.monster` | No |
@@ -35119,6 +35120,7 @@ Here's a list of public Fediverse services.
 | `svrgn.sh` | No |
 | `svt.se` | No |
 | `svtw.online` | No |
+| `svx.im` | Yes |
 | `sw-development-is.social` | No |
 | `swab.dev` | Yes |
 | `swagg.net` | No |
@@ -41767,7 +41769,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,558 |
-| Normal | 31,165 |
+| Normal | 31,167 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
