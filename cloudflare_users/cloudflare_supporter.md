@@ -7233,6 +7233,7 @@ Do not create new issue or we will close it as duplicate.
 | [minhruoi000@twitter](https://twitter.com/minhruoi000/status/1402955958708445191) | advertise |
 | [minhtam110902@twitter](https://twitter.com/minhtam110902/status/1640700030825930758) | advertise |
 | [MinhTha51596170@twitter](https://twitter.com/MinhTha51596170/status/1401317096131153923) | advertise |
+| [minhtha68347740@twitter](https://twitter.com/minhtha68347740/status/1658389742155870208) | advertise |
 | [Minhthe0402@twitter](https://twitter.com/Minhthe0402/status/1480456488204533770) | advertise |
 | [MinhThn05816015@twitter](https://twitter.com/MinhThn05816015/status/1498665773409378315) | advertise |
 | [MinhThn31469819@twitter](https://twitter.com/MinhThn31469819/status/1402977418592231424) | advertise |
