@@ -84,7 +84,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cola16.app | Yes |
 | comeonjames.club | Yes |
 | comss.one | No |
-| cossxiu.ga | No |
+| cossxiu.ga | Yes |
 | crypto.sx | Yes |
 | cwlys.com | Yes |
 | d365.in | Yes |
@@ -364,8 +364,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 162 |
-| Normal | 183 |
+| Cloudflare | 163 |
+| Normal | 182 |
 
 
-### 47% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
