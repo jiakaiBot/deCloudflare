@@ -870,6 +870,7 @@ culevit.zerovic.com
 datacenter.zolbermedia.com
 diakszeft-api.uat.zeelabs.online
 discord.zfmbsb.com
+discord.zumcoin.org
 diybbq.zohosites.com
 email.m.zashasmith.com
 email.ziosuite.com
@@ -891,6 +892,7 @@ itau-ips-backoffice-frontend.itau-cartoes.zup.com.br
 jp.zaloapp.com
 lf26-thundercdn-tos.zjfcdn.com
 live-streaming.zegna.cn
+login.zephyrwave.website
 login.ziraatbankanturkey.com
 mail.zasgroup.com
 mail.zeusassociate.com
@@ -931,6 +933,7 @@ sber.blablacar.avito.avito.www.covid19.zapusk-million.ru
 sber.sber.avito.blablacar.sber.www.covid19.zapusk-million.ru
 sber.sber.avito.sber.sberbank.avito.covid19.zjgartmuseum.com
 sber.sber.sberbank.sberbank.sber.covid19.zepter-catalog.ru
+sberbank.avito.avito.avito.avito.avito.covid19.zlclubmarket.com
 sberbank.avito.avito.avito.covid19.zlclubmarket.com
 sberbank.avito.avito.avito.git.gitlab.covid19.zlclubmarket.com
 sberbank.avito.avito.avito.sber.covid19.zlclubmarket.com
@@ -980,6 +983,7 @@ webmail.zesebarranca.com.co
 webmail.zesebarrancabermeja.co
 webmail.zesebarrancabermeja.com
 webmail.zesebarrancabermeja.com.co
+winyle.zielona-herbata.pl
 withinoutlooktechsupport.zohosites.com
 www.24hservice.zapweb.co.il
 www.account.zirconiadent.hu
@@ -1033,6 +1037,7 @@ www.zeusaiofficial.com
 www.zeusconta.ro
 www.zhouxiaohuir.com
 www.ziateresa.co.uk
+www.zielonawyspa.info
 www.zionsbank.com
 www.zionsvillepercussion.com
 www.zipcruisetours.com
@@ -1077,6 +1082,7 @@ zb14734370.zmverify.zoho.co
 zb15166256.zmverify.zoho.co
 zb15201962.zmverify.zoho.co
 zb15226233.zmverify.zoho.co
+zbattle-series.com
 zbnfhsk.com
 zbusinessonline.co.nz
 zebrainks.com
@@ -1084,11 +1090,13 @@ zedify.co.uk
 zedssecurity.co.uk
 zeebiharjharkhnd.com
 zeestmart.online
+zei.digital
 zeitzunder.xyz
 zen-escort.com
 zenbalance.shop
 zencob2b.zencopayments.com
 zenitnow376.top
+zenland-app.com
 zernyatko.in.ua
 zestfoodservice.co.uk
 zeus99.asia
@@ -1099,6 +1107,7 @@ zhozzaegaj.shop
 zhptrust.org
 zielianasupport.co.uk
 zijinbor.com
+zimcc.com
 zinichi.net
 zionschools.org
 zippydelivery.co.za
@@ -1121,6 +1130,7 @@ zoagremo.net
 zodiacappzu.mpm.zodiac-cloud.com
 zodiacsecurity.ro
 zoelashspa.com
+zogecoin.xyz
 zokhrofaloud.com
 zominumizmatika.hu
 zona-fantasi.top
@@ -1141,6 +1151,7 @@ zvetokr2hr8pcng09.com
 zwerte.be
 zwetschgenmann.de
 zws-zenkoku.jp
+zxcvabsgqh.site
 zxr9gpxf7j.com
 zycienakreske.com
 zymasescassius.com
