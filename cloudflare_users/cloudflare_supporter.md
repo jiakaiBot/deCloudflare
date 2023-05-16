@@ -3618,6 +3618,7 @@ Do not create new issue or we will close it as duplicate.
 | [GLACIER98271181@twitter](https://twitter.com/GLACIER98271181/status/1391728548960870401) | advertise |
 | [GLIZZY49306620@twitter](https://twitter.com/GLIZZY49306620/status/1393570520843493382) | advertise |
 | [global354921@twitter](https://twitter.com/global354921/status/1393984954078400513) | advertise |
+| [globalgamerguy@twitter](https://twitter.com/globalgamerguy/status/1658526706687148049) | advertise |
 | [GLsaisai@twitter](https://twitter.com/GLsaisai/status/1394137969024401410) | advertise |
 | [GMinzolt@twitter](https://twitter.com/GMinzolt/status/1516134801056575491) | advertise |
 | [gm_dalour@twitter](https://twitter.com/gm_dalour/status/1492016772924702720) | advertise |
