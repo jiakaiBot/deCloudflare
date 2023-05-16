@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-05-16: [Performance Issues in multiple locations.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bmd4c601slrr)
 - 2023-05-15: [Email Deobfuscation Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/97j326sgmx8h)
 - 2023-05-12: [Network Performance Issues in China](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7gd0nkh3tqd7)
 - 2023-05-10: [Network performance issues in Miami datacenter](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/dg8n3wmjs0n6)
