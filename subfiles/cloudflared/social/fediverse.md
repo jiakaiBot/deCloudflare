@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,324 |
-| social | 4,038 |
+| social | 4,039 |
 | net | 3,202 |
 | org | 2,214 |
 | de | 2,100 |
@@ -4878,6 +4878,7 @@ Here's a list of public Fediverse services.
 | `brotka.st` | No |
 | `browarski.de` | No |
 | `brown-family.org.uk` | No |
+| `brown-silva.social` | No |
 | `brownfield.dev` | No |
 | `browser.org` | No |
 | `browsingpachyderm.net` | No |
@@ -15439,7 +15440,7 @@ Here's a list of public Fediverse services.
 | `holistichackers.org` | No |
 | `hollablog.at` | No |
 | `hollandsepod.nl` | No |
-| `hollings.io` | No |
+| `hollings.io` | Yes |
 | `holllo.org` | Yes |
 | `hollow.capital` | No |
 | `hollow.city` | No |
@@ -39349,7 +39350,7 @@ Here's a list of public Fediverse services.
 | `vy-let.software` | No |
 | `vy9.ca` | Yes |
 | `vyboh.net` | No |
-| `vyizis.tech` | No |
+| `vyizis.tech` | Yes |
 | `vymazal.com` | No |
 | `vymazal.social` | No |
 | `vypni.net` | No |
@@ -41773,8 +41774,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,561 |
-| Normal | 31,169 |
+| Cloudflare | 10,563 |
+| Normal | 31,168 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
