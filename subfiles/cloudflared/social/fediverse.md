@@ -18768,6 +18768,7 @@ Here's a list of public Fediverse services.
 | `klein.tl` | No |
 | `kleinbottle.club` | No |
 | `kleinebackstube.org` | No |
+| `kleiner-server.eu` | No |
 | `kleinheld.ch` | No |
 | `kleinhitpass.de` | No |
 | `kleinke.social` | No |
@@ -41775,7 +41776,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,563 |
-| Normal | 31,168 |
+| Normal | 31,169 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
