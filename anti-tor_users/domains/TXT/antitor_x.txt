@@ -241,7 +241,6 @@ hk.xanforce.xyz
 hotline.xfab.com
 inquirynotification.x24hr.com
 kenneth1.home.xs4all.nl
-logs-de.xbplatform.com
 manageauth-accountapp1e.xueyaochen.com
 media.xiqabm.com
 mjp-analytics.ximad.com
@@ -435,9 +434,11 @@ clientes.xn--rosquillasora-rkb.es
 consumer.xtime.com
 contact.xynythcorp.com
 cpanel.xpressone.com.ph
+dev.xpertonline.net
 gameclipscontent-d2003.xboxlive.com
 gameclipscontent-d2004.media.xboxlive.com
 getcreditscore.xmagicmedia.com
+git.cdn.beta.2020.xn----7sbahcs2ad7afbd1ao7i.xn--p1ai
 git.git.git.gitlab.git.faxij64962.temp.xn--vs-zi72aga.ga
 git.git.gitlab.gitlab.git.matrimony.x5retail.tech
 git.git.gitlab.wp1.xn----7sbahcs2ad7afbd1ao7i.xn--p1ai
@@ -464,13 +465,12 @@ login.xfinitymyaccount.net
 lq2.xiaoweicloud.cn
 luckywheel.xfinitysoft.app
 media.xiq.io
-metrics-ca.xbplatform.com
-metrics-de.xbplatform.com
 mobile.xoom.com
 nfcu.xpressdeposit.com
 o3gmail3aojyusp.account.xn----stbbukh.xn--p1ai
 old.xetel.in
 owa.huntingtonfi.xd.email
+pcmax-account.xuzihenhao2.vip
 platinademo.x-docs.com
 portal.xpi.com.br
 pricepointservice-stg.xsb.com
@@ -568,6 +568,9 @@ xaydungdailocphat.com
 xaydungvina.com
 xayire-f.com
 xbet24h.net
+xbiz1668a2.xbiz.jp
+xbiz1669a2.xbiz.jp
+xbiz1671a2.xbiz.jp
 xboxromania.ro
 xboxtavern.com
 xcellent1lawncare.net
