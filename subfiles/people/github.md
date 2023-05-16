@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Status code 403](https://github.com/louislam/uptime-kuma/issues/3165)
 - [Rate limit exceeded](https://github.com/P3TERX/warp.sh/issues/100)
 - [Bitnami-AWS-Lightsail-Wordpress <Facing 521 error web server down>](https://github.com/bitnami/vms/issues/912)
 - [Some sources are not working](https://github.com/TheNetsky/extensions-generic-0.8/issues/18)
