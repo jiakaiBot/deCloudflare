@@ -1276,7 +1276,6 @@ mimosas-agave.com
 mimyapi.net
 mindfulnessparalavida.com
 mindsgreengroup.com
-minduka.edu.np
 minecraft.mijofa.au
 mineralcorp.co
 mineralien-huber-shop.de
@@ -7459,6 +7458,7 @@ zzm-api.moneycallflash.com
 3c-lxa.mail.com
 624-yxp-128.mktorest.com
 7wryyukh5wvocj3hjm4wpzn8wcs2-19f182543b2096181f80465f5b8f2c2c.eu6.myvolumio.org
+a-static.mlcdn.com.br
 a1-cube.myhaustech.com
 a4-images.myspacecdn.com
 aadcdn.microsoftonline-p.com.bakioglu.bakioglu.baknet.myshn.net
@@ -7562,6 +7562,7 @@ arsipsiswa.matsamuda.sch.id
 articulo.mercadolibre.com.mx
 articulo.mercadolibre.com.ve
 aruba.moncompte-id.fr
+asdasdasdasd.minecraft.casa
 asiakasprojekti.millanendesign.fi
 asm.skype.com.office.aep-test.aep.myshn.net
 asm.skype.com.office.caretowerlabs.caretowerlabs.myshn.net
@@ -7589,6 +7590,7 @@ auth.mvp-n.site
 auth.my-scoupons.com
 auth.mydigitalfix.com
 auth.mylifemyway.co.uk
+auth.mzpcap.com
 auth.temp.medipredict.com
 authaus.makecontact.space
 authsignlogin-amazon.misecure.com
@@ -7634,6 +7636,7 @@ avito.sberbank.avito.avito.www.covid19.mydiysupport.com
 avito.sberbank.avito.blablacar.www.www.covid19.mydiysupport.com
 avito.sberbank.avito.sber.avito.sber.covid19.mychoiceua.online
 avito.sberbank.avito.sber.avito.sber.covid19.mydiysupport.com
+avito.sberbank.covid19.moneysolutions.ru
 avito.sberbank.covid19.munish-gupta.com
 avito.sberbank.sber.avito.avito.covid19.munish-gupta.com
 avito.sberbank.sber.avito.covid19.munish-gupta.com
@@ -7721,6 +7724,7 @@ cdn.cloudflare.netwww.dev.mysnoiportal.ru
 cdn.m-pathy.com
 cdn.monta.nl
 cdn.montaportal.nl
+cdn.mujink.cz
 cdn.myacxiom.com
 cdn.myasnb.com.my
 cdn.mylo.id
@@ -7737,6 +7741,7 @@ ciam.myorbit.id
 ciscoredash.mcra.fr
 cknu.myschoollogin.in
 ckss.myschoollogin.in
+classzip.mkttech.in
 click.cloud.mailingsenders.com
 click.e.medguidemagazine.com
 click.e.myplanportal.com
@@ -7756,6 +7761,7 @@ click.musterateam.com
 click.mymarkettraders.com
 clicks.mail-randduk.com
 clicks.mktg-promo.com
+client.masekomedia.com
 clientportal.miseenplace.nl
 clients.mantra.network
 clients.messagelabs.com
@@ -7854,6 +7860,7 @@ discografia.madelasca.com.br
 discografias.mp3mx.ws
 discord-socket.media-artists.nl
 discord.metaathletesnft.com
+discord.myyst.fr
 discordbot.misove.net
 discordbot.myunidays.world
 discordbots2.micro.blog
@@ -7899,6 +7906,7 @@ ekafw8cvfjycvn31juwwe9pyxd52-5ff6c2634f89e05c172d48433d85e8a6.eu6.myvolumio.org
 ekl.net.com.meerction.one
 eli-sit.myequity.id
 email.midwayusa.com
+emails.microminder-cybersecurity.com
 emma.msrb.org
 en.mjp-services.fr
 enterprise.mio.com
@@ -7984,6 +7992,7 @@ gtransport.mobiledatacollection.it
 guineecall.mokatourconsulting.com
 gworkforce.mobiledatacollection.it
 handiscore.medichabrol.fr
+hands.trial-api.myvyoo.ai
 hd50lfj6wddcs2qwiiczyofqsfk2-c61dfbad2ae9546505171a6ec1e58353.eu2.myvolumio.org
 hds.mpsv.cz
 hecesb.magairports.com
@@ -8015,6 +8024,7 @@ infra-validation-service.devng.myomnicell.com
 infra-validation-service.testng.myomnicell.com
 inspections-ui.midasint.io
 instapay-mtf-connectivity.marcopaygroup.com
+int-widgets.moneydesktop.com
 integracionsiom.movistar.com.ec
 integration-e.mondial-assistance.fr
 integration-puyfou-e.mondial-assistance.fr
@@ -8029,6 +8039,7 @@ ippolicyservice.infra.gov.teams.microsoft.us
 is1-ssl.mzstatic.com
 isois.ois.muni.cz
 it.mg-es.com
+itauccv.mol.vc
 jeep-alfa-romeo-fiat-umhlanga.colin-smith.mymex.cards
 jeevakarunyam.moneytrendzeh.in
 jmdoorsecurity.mandarinaservices.com
@@ -8107,14 +8118,17 @@ madeirasrls.it
 madhatterginteaparty.com
 madhvijunejafoundation.org
 madoguchi-yoyaku.com
+madridsindical.es
 madroneartbar.com
 maebtjn.com
 maestrodecasosimposibles.com
 maestroengineering.net
 magasinetkonkret.se
 magbus.de
+magdi-termeszetgyogyasz.hu
 magellanmed.com
 magfog.org
+maggiecarreirahairsalon.co.za
 maghoutwell.com
 magic-escort.com
 magic-shell.shop
@@ -8130,6 +8144,7 @@ magyartaxi.info
 mahadibnulanshori.org
 mahindra.co.ke
 mahkota88.asia
+mahmoodonline.com
 maigi.sch.id
 maiglair.net
 mail.intern.ms-burgebrach.de
@@ -8138,6 +8153,7 @@ mail.merrychristmasandahappynewyear.com
 mail.tradingwell.meitav.co.il
 mail.trust-writer.mixh.jp
 mail2.mll.com
+mailcaptcha.mitservices.com.au
 mailservices-auth-webmail.mooo.com
 mainstreamleisure.co.uk
 maisonsurface.com
@@ -8162,9 +8178,11 @@ malerei-schoenhuber.de
 malinesmanses.com
 mall91.site
 mallow-escort.com
+malls555.info
 malowanesercem.pl
 malthouse-security.co.uk
 malthousesecurity.co.uk
+malwaresample.zip
 mamaia-booking.ro
 mamaonline.online
 mamashy.com
@@ -8241,6 +8259,7 @@ marksking.com
 marktwainhouse.org
 marleenschonewille.nl
 maro-run-coffee.mashumaroblog.mixh.jp
+maroc-drone.com
 marsdenjazzfestival.com
 marshalllawwriter.com
 martinbrosltd.com
@@ -8253,12 +8272,14 @@ marysdoggies.org
 marysdreamstore.online
 mascwifihotspotlogin.com
 maseguro.cl
+mash.zip
 mashalealborz.com
 masinicorecte.ro
 maslenitsa.shop
 masonplastics.com
 masred.mx
 massimogentili.it
+massnmedia.com
 massucatti.com
 masteracteamservice.com
 masterapp.masterlease.pl
@@ -8275,9 +8296,11 @@ matarbooking.com
 matchaslimplus.life
 mathieubrassardservice.com
 mathstodon.xyz
+matinalcoffe.com
 matjarilife.shop
 matomehub.jp
 matrixcredit.co.uk
+matrixfinishingschool.com
 matrycs.eu
 matsafe.ro
 mattilsynet.no
@@ -8287,11 +8310,13 @@ maulanacreative.net
 mavq.net
 mawlaybob.com
 mawmishtrior.com
+mawsso3a.com
 max-mall.shop
 maxco.pe
 maxfony-hitech.com
 maxigadget.com
 maximussportsnutrition.com
+maxjohnavalon.com
 maxmarqua.shop
 maxterinfo-co.top
 maxterinfo.top
@@ -8310,6 +8335,7 @@ mazdamanuals.com.au
 mazdoori.online
 mazerani.shop
 mbc-condition.com
+mbenthameur.dev
 mbexc.de
 mbnamjestaj.hr
 mbokgacor.info
@@ -8362,11 +8388,13 @@ mediastrg.com
 mediawarta.com
 medicaid.gov
 medical-negligence-support.co.uk
+medicalsaude.fun
 medicardapi02-app.medicardphils.com
 medichigroup.com
 medicine4.asia
 medicolegalbriefupdate.com
 medigapinsurancetraining.com
+mediklaud.com
 medilek.me
 medinaconsultinggroup.com
 medinaec.org
@@ -8414,6 +8442,7 @@ melodyepiphany.com
 melodywong.space
 meltio.support
 member-services.com.mx
+meme-drop.org
 memehost.tech
 memora.site
 memoriablockchain.com.uy
@@ -8428,6 +8457,7 @@ menv.io
 merahmuda.org
 merazitfirm.com
 mercadillodeminerales.com
+mercadolibre.com.co
 merchant-center-analytics.goog
 mercury-agency.pro
 mercynursing.college
@@ -8478,6 +8508,7 @@ metroycincuenta.cl
 mets24.ee
 metsienpuolesta.fi
 meumilhao.online
+meunegocioamway.com.br
 mex-shtukaturka.online
 meyasyapi.com.tr
 mezan.org
@@ -8493,6 +8524,7 @@ mgcredit.my
 mggroupsafety.it
 mgram.me
 mgw4.myvideo.net.tw
+mh3005.com
 mhbplrpr124.life
 mhbplrpr129.life
 mhc-eu.myhomescreen.tv
@@ -8523,6 +8555,7 @@ middleeastcongress.org
 middlegeorgiarc.org
 middlegraphics.com
 midlandcreditcontrol.com
+midwaretech.com
 migmail2010.morrisdomain.morrisinsurancegroup.com
 migs-mtf.mastercard.com.au
 mihainitoiu.ro
@@ -8578,6 +8611,7 @@ mineworld.io
 ming-mong.com
 mingyue.life
 minhkhangmedical.com
+minigameparadise.com
 minipi.com
 minitruth.co.uk
 minshallsecurity.com
@@ -8608,6 +8642,7 @@ mitrateknikservice.com
 mitsubishi-motors.co.id
 mitsubishi-type10-mbt.xyz
 mitsubishi-type74-mbt.xyz
+mitsubishicommonwealth.com
 mixedmediaarts.net
 mixtlounge.com
 mixvarejo.online
@@ -8630,6 +8665,7 @@ mmemyspace.com
 mmibut2.org
 mmliveapp.top
 mmobomb.com
+mmos.fr
 mmprints.shop
 mms-shopping.store
 mngcredit.my
@@ -8642,6 +8678,7 @@ mobileexpert.ro
 mobilemobileorlando.com
 mobileoffice-container.com
 mobilepacs.montifiore.org
+mobileslutions.fun
 mobileslutions.space
 mobilsafe.ca
 moblogs.com.au
@@ -8682,6 +8719,7 @@ monastrabiscotti.it
 monbesoinassurance.ca
 moncorpscompte.com
 money-campus.net
+money-making-moves.nl
 money.lv
 money.mahacet.com
 money1.jp
@@ -8704,6 +8742,7 @@ moneylecture.co.th
 moneyliterateacademy.com
 moneyloveonline.com
 moneymakingletter.com
+moneymakingmoves.nl
 moneymasteryx.com
 moneymattersmost.com.au
 moneymatterss.life
@@ -8789,6 +8828,7 @@ motorcyclepartswholesaler.co.za
 motortrader.com
 mototransporteyservicios.com
 motoxtremeadv.com
+mouais.org
 moulin-chantemerle.fr
 mousanajafi.ir
 mouzermade.xyz
@@ -8796,6 +8836,7 @@ mova-ombudsman.gov.ua
 movienightsin.co.uk
 moviepost.xyz
 moviesjet.org
+moviestarmoney.com
 moviestm.com
 movingkaki.com
 movistar.mitec.com.mx
@@ -8821,11 +8862,13 @@ mrirauj.shop
 mrk-agency.store
 mrnobody.se
 mrozunnih.shop
+mrshetzer.de
 mrtbbnrdip.com
 mrvuokrauspalvelu.fi
 ms2eep.com
 ms2rclk.com
 ms973.mymanaged.host
+msepjobs.militaryonesource.mil
 mservice.pt
 msg.teams.microsoft.com.bakioglu.bakioglu.baknet.myshn.net
 msg.teams.microsoft.com.office.ms-365.davidshield.myshn.eu
@@ -8856,6 +8899,7 @@ multicomercio.net
 multiekart.store
 multiservice.dk
 multiversebridge-connect.com
+multiverseofmoney.com
 mulyatechnicalservice.com
 mummyvsmoney.co.uk
 mundigak.com
@@ -8879,10 +8923,12 @@ mutual-learning-employment.net
 mutual-media.com
 mutualcapital.sbs
 mutualidade.com
+mutualindependencia.com.ar
 mutualser.com
 mutuelle-mutuelles.fr
 mutuellepourtous.info
 muziekpps.net
+muzmo.ru
 mvdb-accountancy.nl
 mvmeventsupport.com
 mvtek.co.za
@@ -8986,6 +9032,7 @@ payments.mypcsportal.com
 perined-login-test-upgrade.mediquest.tech
 persistence.vulcan.mpi-internal.com
 petretailbrands.wd5.myworkdayjobs.com
+pgadmin.internal.mittelstand.ai
 phab.miraheze.wiki
 phpdev1.mvnet.de
 platform.medcourt.co.il
@@ -8995,6 +9042,7 @@ portal.messefrankfurt-logistik.com
 portal.mim-medizintechnik.at
 portal.mudaexpresso.pt
 portaluat.mitsubishi-motors.eu
+portfoliodeagencias.meioemensagem.com.br
 posta.msds.it
 postfixadmin.mashuplab.me
 postmaster.modelimed.com
@@ -9026,6 +9074,7 @@ quickorderadmin.mbs5.de
 quis-nihil-sapiente-liberoblog.music.blog
 qvc.com.c9068cacc9d6b7dffggs345b258676.mytop18.com
 raspiwagorrd.x5yga1rc9zp0plqq.myfritz.net
+rcmwv.mainegoldsilver.com
 rcttest7.msbexpress.net
 rec.mgefi.fr
 registry.plato.mps.mpg.de
@@ -9109,6 +9158,8 @@ sberbank.sberbank.avito.avito.sber.www.covid19.mydiysupport.com
 sberbank.sberbank.avito.avito.www.covid19.mydiysupport.com
 sberbank.www.sber.sberbank.sber.avito.covid19.metallist-krym.ru
 sds.mysunpower.com
+secim-vboto.mongodbstitch.com
+secure.maccabicanada.com
 secure.mirkingordon.com
 secure.montrealnewyearseve.com
 secure.mycoionline.com
@@ -9138,6 +9189,7 @@ smartphone.drc.mat.m-pesa.com
 smbc3-o.ministrydesigns-sitebuilder.com
 smg.mey.com
 sopgdsfs.mrface.com
+spain.martinez-services.com
 sreperflib.maersk.io
 ss.musthird.com
 sso.medlyves.org
@@ -9152,6 +9204,7 @@ static.bbs.miui.com
 stg-webecmotus.maerskwnd.com
 stg.manutd.com
 stg.mpursewallet.com
+stopcov.moh.gov.ge
 storage.mcp.co.jp
 storystudio.mysanantonio.com
 streaknow.mbilalmirza.com
@@ -9161,11 +9214,13 @@ support.manja.my
 support.mimema.nl
 support.mnds.one
 support.mrincognity.space
+support.mxguardian.net
 swx.cdn.skype.com.office.aep-test.aep.myshn.net
 swx.cdn.skype.com.office.ms-365.davidshield.myshn.eu
 swx.cdn.skype.com.office.o365-reverse-proxy.mcafeeebc.myshn.net
 swx.cdn.skype.com.office.pirelli.pirelli.myshn.net
 sync.mettl.pro
+systems.mainspringfs.com
 t.mailing.mymiglia.com
 tc-log.mattel163.com
 team-blue.access.mcas.ms
@@ -9221,6 +9276,7 @@ voluptates-rerum-porroblog.music.blog
 vpn.madisonk7.com
 vpn.masterpiece972.com
 vpn.testbox.nas.malinpc.fr
+vpnssl2.movistar.com.ec
 w2o.a35.myftpupload.com
 wb.corona2.medvc.eu
 wd1.myworkdaysite.com
@@ -9263,6 +9319,7 @@ wss-dev.mystiebel.com
 wss-us.mystiebel.com
 www.3085odwyer.moneymindhatch.com
 www.96bet.moneyethices.com
+www.acc.mycredential.com.my
 www.acceso.malagaflat.com
 www.agm-2019-appledu-1.mcciow.com
 www.ahaliafm.com.mposbill.com
@@ -9295,6 +9352,7 @@ www.braya-strack.midwestmoments.com
 www.canberra.mfa.af
 www.city.minamisoma.lg.jp
 www.client-portal.markjrichards.com
+www.client.masekomedia.com
 www.client.mplcloud.com
 www.clientsname.myanimatedlife.co.uk
 www.cloud.kimnegos.mediacontrole.ma
@@ -9310,6 +9368,8 @@ www.containers.moldcim.md
 www.control.maxking195.com
 www.corfe-security.marktomblin.co.uk
 www.creditcard-tukaitakunai.test111.mixh.jp
+www.credits-admin.macincode.com
+www.credits-frontend.macincode.com
 www.criador.minasalerta.com
 www.cronut.com.mycrotrack.com
 www.customer-chatpub.marcofrancaviglia.it
@@ -9349,11 +9409,13 @@ www.help.support.mediafalcon.com
 www.helpdesk.mira3d.xyz
 www.how-to-make-money-online-mlm.com.mtcdana.ro
 www.hyipro.minasalerta.com
+www.ibilling.mritsolutionbd.com
 www.in-eki-co-jp.lainoopopas.minzifs.com.cn
 www.info.mycredential.com.my
 www.inovarparamelhorar.mutualismo.pt
 www.instagram.melkgamez.cl
 www.instagram.monetizationeasy.com
+www.internal2.mmi.co.id
 www.invoice.majaha.co.za
 www.invoice.masterji.vip
 www.invoice.metadia.online
@@ -9380,6 +9442,7 @@ www.m82-project.com
 www.ma-nouvelle-assurance.fr
 www.maacasso.com
 www.macarservice.nl
+www.macbencaresupport.com.au
 www.macmetalsales.com
 www.macmillanwaysurgery.nhs.uk
 www.macon.com
@@ -9392,6 +9455,7 @@ www.madisonlegionpost229.org
 www.madisonoakley.co.uk
 www.madmusicradio.com
 www.mafiapepecoin.xyz
+www.maggiecarreirahairsalon.co.za
 www.magickeylocksmithinc.com
 www.magpienest.org
 www.maharaja50.co.uk
@@ -9455,6 +9519,7 @@ www.market-19.ru
 www.market-pay.com
 www.marketingenlinkedin.com
 www.marketplace.com.ua
+www.marketplaceconsultinggroup.com
 www.markets.com
 www.marketshopnew.com
 www.marshall.net
@@ -9475,6 +9540,7 @@ www.maskfest.com
 www.masonrymagazine.com
 www.massimogentili.it
 www.masteracteamservice.com
+www.masterbet365.net
 www.mastercard.es
 www.mastercredit.com.br
 www.mastersecurity.services
@@ -9485,6 +9551,7 @@ www.matsukiyo.co.jp
 www.matthewtaylormedia.com
 www.mattmalonetv.com
 www.maturaball-service.at
+www.maverickpackagingservice.com
 www.mavie-mag.de
 www.max-restore.com
 www.maxclassics.net
@@ -9498,6 +9565,7 @@ www.mayader.ae
 www.mayansupplies.co.uk
 www.maybank.business
 www.mayergoldman.co.uk
+www.mayobooks.ie
 www.mayukofujino.com
 www.mb-adviseur-services.nl
 www.mbnamjestaj.hr
@@ -9513,6 +9581,7 @@ www.mdmrc.org
 www.meadowbrookbc.org
 www.mealsmilesmoney.com
 www.meanwhilegardenmedicalcentre.co.uk
+www.med-internal.com
 www.media-service.jambu.masuk.web.id
 www.mediaanddemocracyproject.org
 www.mediashackfargo.com
@@ -9601,6 +9670,7 @@ www.miharu-monitoring-post.com
 www.mijnlaurenstuinservice.nl
 www.mijnleerlijnkennisbank.nl
 www.mijnvissertuinservice.nl
+www.mikeluxmedia.com
 www.mikeysquickcoupler.com
 www.milehighlightingevents.com
 www.milkchocolate-client-bc329.com
@@ -9615,6 +9685,7 @@ www.miltonsecurity.eu
 www.mind-recovery.co.uk
 www.mindef.gov.sg
 www.mindfulnecessity.com
+www.mindhub.com
 www.minduh.com
 www.minecraftforgesupport.website
 www.minecrafthelpersite.com
@@ -9629,6 +9700,7 @@ www.mirai-money.jp
 www.mirandaswarning.com
 www.mirgunyapi.com
 www.mirzagrubu.com.tr
+www.mississauga.com
 www.mississippivalleypublishing.com
 www.missouridemocrats.org
 www.mitasolanky.org
@@ -9638,6 +9710,7 @@ www.mitratechnicservice.com
 www.mitrateknikservice.com
 www.mitsubishi-motors.co.jp
 www.mitsubishi-motors.com
+www.mitsubishicommonwealth.com
 www.mitsui-kanri.co.jp
 www.mitsusatohairclient.com
 www.mivigilante.pro
@@ -9672,17 +9745,20 @@ www.moeautoservice.com
 www.mog-l.com
 www.moldremovalappleton.com
 www.mollyzpetservice.com
+www.momlitics.com
 www.momobooking.com
 www.momsmessage.nl
 www.monexgroup.jp
 www.money-help-uk.net
 www.money-sphere.com
 www.money.mahacet.com
+www.moneyb0x.com
 www.moneyblue.com.mx.meta-soft.online
 www.moneycult.info
 www.moneyed.com.au
 www.moneyfastcreditifn.info
 www.moneyglobals.com
+www.moneygrampayid.com
 www.moneyguruu.com
 www.moneyhappy.com.br
 www.moneyisathing.com
@@ -9707,6 +9783,8 @@ www.monsantanderconsumerfinance.be
 www.monsieurtoupet.com
 www.montesco.com.gt
 www.montgomeryindependent.com
+www.monvoisin.xyz
+www.moo.foo
 www.moodcontrol.nl
 www.moodyonthemarket.com
 www.moomaidscleaningservice.com
@@ -9758,6 +9836,7 @@ www.multimedia-package.com
 www.multimedia.ge
 www.multiservice-lpa.fr
 www.multiversebridge-connect.com
+www.multiverseofmoney.com
 www.mulyatechnicalservice.com
 www.mundohelado.com
 www.munichbikestars.de
@@ -9775,6 +9854,7 @@ www.mutesound.org
 www.mutualart.com
 www.mutualcapital.sbs.mutualcapitalunion.sbs
 www.mutualidadecom.mutualidade.pt
+www.mutualindependencia.com.ar
 www.mutuelle-mutuelles.fr
 www.mutuelle-pas-chere.net
 www.mutuelledulacydon-lpa.fr
@@ -9785,6 +9865,7 @@ www.mvhistory.org
 www.mvlaw.com.au
 www.mvmeventsupport.com
 www.mvptowingservice.com
+www.mvspsychology.com.au
 www.mwspec.com
 www.my-accountants.co.za
 www.my-delivery-dhl.com
@@ -9810,6 +9891,7 @@ www.mykindavoice.com
 www.mykonoschef.com
 www.mylocalbiz.net
 www.mymetlife.net
+www.myminiature.fr
 www.mynbc5.com
 www.myneworleans.com
 www.myojo-supporters.com
@@ -9833,6 +9915,7 @@ www.mythogeography.com
 www.myticket.dk
 www.mytotaltrack.com
 www.myvasco.com
+www.myworkday.com
 www.mzk.ro
 www.navidad-2020-eliana.muchikphotostudio.com
 www.navidad-2020-marib-2.muchikphotostudio.com
@@ -9913,6 +9996,7 @@ www.upwork.moneyethices.com
 www.usa.myglobaldeliveryservice.com
 www.verizon.mastertalentagency.com
 www.vifl.org.mposbill.com
+www.wch.multipay.com.ar
 www.wpxidoc.mutualaid.uk
 www.xpotent.com.br.mineraisessenciais.com.br
 www.yo.mdotservice.com
