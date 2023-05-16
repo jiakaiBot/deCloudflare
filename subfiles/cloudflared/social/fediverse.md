@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,323 |
 | social | 4,038 |
-| net | 3,201 |
+| net | 3,202 |
 | org | 2,214 |
 | de | 2,100 |
 
@@ -38671,6 +38671,7 @@ Here's a list of public Fediverse services.
 | `v4v.dev` | No |
 | `v5ox.com` | No |
 | `v6.rocks` | Yes |
+| `v64.net` | No |
 | `v6sskey.com` | No |
 | `va-11-hall-a.cafe` | No |
 | `va-11.club` | No |
@@ -41772,7 +41773,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,560 |
-| Normal | 31,168 |
+| Normal | 31,169 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
