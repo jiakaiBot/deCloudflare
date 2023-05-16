@@ -10136,6 +10136,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sc0oBzDo0@twitter](https://twitter.com/Sc0oBzDo0/status/1404025754149588998) | advertise |
 | [scammers01@twitter](https://twitter.com/scammers01/status/1407249306667544576) | advertise |
 | [ScarLat99299837@twitter](https://twitter.com/ScarLat99299837/status/1394957887026434051) | advertise |
+| [Scaryhappiness_@twitter](https://twitter.com/Scaryhappiness_/status/1658444805783842816) | advertise |
 | [scbsun@twitter](https://twitter.com/scbsun/status/1499614417335447554) | advertise |
 | [schoolcheatsapp@twitter](https://twitter.com/schoolcheatsapp/status/1459307051969138688) | advertise |
 | [scifijunk@twitter](https://twitter.com/scifijunk/status/1533669443766734848) | advertise |
