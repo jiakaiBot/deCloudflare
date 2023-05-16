@@ -5260,6 +5260,7 @@ Here's a list of public Fediverse services.
 | `calckey.jp` | No |
 | `calckey.lgbt` | No |
 | `calckey.nz` | No |
+| `calckey.online` | No |
 | `calckey.pl` | Yes |
 | `calckey.social` | No |
 | `calckey.world` | No |
@@ -32745,6 +32746,7 @@ Here's a list of public Fediverse services.
 | `sharivegas.com` | No |
 | `shark.community` | No |
 | `shark.moe` | No |
+| `sharktale.xyz` | Yes |
 | `sharlayan.in` | No |
 | `sharlayan.me` | No |
 | `sharma.io` | No |
@@ -36068,6 +36070,7 @@ Here's a list of public Fediverse services.
 | `thatsaspork.tk` | No |
 | `thatsocial.site` | No |
 | `thatspretty.cool` | Yes |
+| `thattakashi.me` | Yes |
 | `thatwebsite.xyz` | No |
 | `thayer.social` | No |
 | `thbps.com` | Yes |
@@ -41768,8 +41771,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,558 |
-| Normal | 31,167 |
+| Cloudflare | 10,560 |
+| Normal | 31,168 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
