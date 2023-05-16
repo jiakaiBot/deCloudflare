@@ -1343,7 +1343,6 @@ www.allegrobrillante.jonathanbatistaofficial.com
 www.apieclaim.jtbnn.com
 www.appleworldtravel.ja-travel.com
 www.badkamers-en-toilets.jvinkonderhoud.nl
-www.banktryout.com.jamandigital.com
 www.bar-27-puente-21-de.jesusespinosa.com
 www.basmas.jcloud.my
 www.bengawanpost.info.jagatpos.com
@@ -1638,7 +1637,10 @@ zmail.jbfaktor.hu
 access-bomcripto-com.jcloud.kz
 acrossthestars.jcink.net
 adfs.jmcbiz.com
+adselfservice.jandbexcavating.com
+agriinputlicense.jharkhand.gov.in
 alleysave43.jigsy.com
+andersensvvs.jfm360kunder.dk
 anmeldung.jubiko.com
 anthroblogs.johnnorvell.net
 api-dev.jellywith.com
@@ -1654,6 +1656,7 @@ apps.jucees.es.gov.br
 area-cliente.jongomara.es
 auth.jista.org
 authserver.jvinicius.com.br
+autodiscover.jaxnewyears.com
 autodiscover.jornadacontradepressao.site
 autodiscover.jualmobil-toyota.com
 avengersinitiative.jcink.net
@@ -1675,15 +1678,18 @@ corporate.benesse-mcm.jp.japan-art-origin.jp
 cpanel.iroiroblog.jetboy.jp
 cpanel.janumet-xr.gq
 cpanel.jaseatonphotography.com
+cpanel.jaxnewyears.com
 cpanel.juegoroblox.com
 cpcalendars.iroiroblog.jetboy.jp
 cpcalendars.jalanpintasemak.com
+cpcalendars.jaxnewyears.com
 cpcalendars.jioffer.com
 cpcalendars.jorgecastroblog.com
 cpcalendars.juegoroblox.com
 cpcontacts.iroiroblog.jetboy.jp
 cpcontacts.jalanpintasemak.com
 cpcontacts.jaringmitramandiri.com
+cpcontacts.jaxnewyears.com
 cpcontacts.jijione.net
 cpcontacts.juegoroblox.com
 d.joinhoney.com
@@ -1716,6 +1722,7 @@ gl.google.com.japonica.ru
 goto.jata-net.or.jp
 government.juddhaschool.edu.np
 graphqlv23.jmmtest.xyz
+helpdesk.jsatmobile.com
 hosted.jacksonriverdev.com
 hugolescargot.journaldesfemmes.fr
 hybrismechanicacalibre184.jaeger-lecoultre.com
@@ -1742,14 +1749,18 @@ jagadeliveryservice.live
 jaguarservice.ro
 jaguartracking.com
 jaipurangels.in
+jajanansosmed.com
 jakartasewalaptop.com
 jalanpintasemak.com
+james.gop
 jamesevansbooks.co.uk
 jamhooriwatanparty.pk
 jamilla-hairathome.nl
 jammin.co.jp
 jamsconnect.com
 jandminternationalministry.org
+jandpro.com
+janerationx.com
 janethcamacho.site
 jankoogrodnik.pl
 jansen.com.ua
@@ -1778,6 +1789,7 @@ jayasehat.site
 jazminthai.com
 jbforum.net
 jbolink.net
+jbradfordphoto.com
 jbravo2uk.com
 jbsconsultinggroup.com
 jbsister.com
@@ -1834,6 +1846,7 @@ jheysonroberto.com.br
 jhinomu.shop
 jhpsandkasse.jfm360kunder.dk
 jhsahkopalvelu.fi
+jhwp.org.au
 jikitourai.net
 jimlunsford.com
 jimmeruk.com
@@ -1842,6 +1855,7 @@ jimparedes.com
 jims.jtm.gov.my
 jinqijiant.com
 jinshuju.net
+jio-mart.xyz
 jiocity.com
 jis.gov.jm
 jitsimeet.eu
@@ -1852,6 +1866,7 @@ jjltrees.uk
 jjrelectronics.com
 jkbrewards.com
 jkduykdyuk.shop
+jktruckingandconstruction.com
 jlilojhlihlohl.shop
 jlr.academy
 jm-unlocks.com
@@ -1877,6 +1892,7 @@ joergrupp.de
 joerogancoin.com
 jogjaparcel.com
 johnapple.fr
+join1.site
 joindiaspora.com
 jointrestore-gummies.org
 joinxo.app
@@ -1925,6 +1941,7 @@ jrleachauthor.com
 jrsbrands.org
 jrssales.business
 js-skin.com
+jsaimoveis.net
 jsbpestcontrol.co.uk
 jualhoist.com
 jualht.com
@@ -1935,6 +1952,7 @@ judi303.asia
 juego-solitario.com
 juegosexpertos.com
 juicycash.net
+jukira.fi
 juletraeslevering.dk
 juliamolina.realtor
 juliaray.space
@@ -1988,6 +2006,7 @@ merchant.jiomart.com
 mgfdss.jkub.com
 midias.jbaimoveis.com.br
 minecraft.jonathangodley.com
+mob.jejubank.co.kr
 monitoring.jamshack.dev
 monitoring.jdsnow.net
 monitoring.jesinger.net
@@ -2003,6 +2022,7 @@ npalbum.josw.net
 onstrg.jakanagawa.gr.jp
 onvpn.jafa.fi
 oos.jo.se
+opengrok.internal.jhc.uk
 passwords.jansargsyan.co.uk
 payment.jcx.se
 paymentvoucher.j2media.com.sg
@@ -2026,6 +2046,7 @@ sberbank.avito.avito.avito.blablacar.covid19.juliecolombe.com
 sberbank.avito.avito.sber.sberbank.covid19.juliecolombe.com
 sberbank.avito.sber.avito.avito.avito.covid19.juliecolombe.com
 sberbank.blablacar.avito.avito.sber.www.covid19.juliecolombe.com
+secure.jandbexcavating.com
 secure.jskypro.com
 seller.jiomart.com
 servicos.jslnext.com.br
@@ -2052,6 +2073,7 @@ tmsp-webhook.jablotron.cloud
 trademarks.justia.com
 traininfo.jr-central.co.jp
 traininfo.jreast.co.jp
+trjsmn4.jkub.com
 uatmicroatm.janabank.com
 umberdev.jkcement.com
 ungit.service.joa.finance
@@ -2062,6 +2084,7 @@ webdisk.dl.jamshididiesel.com
 webdisk.iroiroblog.jetboy.jp
 webdisk.jalanpintasemak.com
 webdisk.janumet-xr.gq
+webdisk.jaxnewyears.com
 webdisk.jiomartbeta.shop
 webdisk.juegoroblox.com
 webmail.iroiroblog.jetboy.jp
@@ -2069,11 +2092,13 @@ webmail.jalanpintasemak.com
 webmail.janumet-xr.gq
 webmail.janumetxr.cf
 webmail.januysboerdery.co.za
+webmail.jaxnewyears.com
 webmail.juegoroblox.com
 websh.jiro4989.com
 www.33enidstanley.jshinewed.com
 www.admin.secure.jenbrial.com
 www.alucoservice.jc-vending.com
+www.andersensvvs.jfm360kunder.dk
 www.area-cliente.jongomara.es
 www.canadaciimc.com.jpciti.com
 www.cardboard-citizens.jampondphotography.com
@@ -2128,6 +2153,7 @@ www.jatam.org
 www.javanegragourmet.com
 www.jawssupport.co.uk
 www.jayom.net
+www.jbmartin.net
 www.jddtreeservice.com
 www.jdilogistics.com
 www.jdsports.pt
@@ -2189,6 +2215,7 @@ www.jonmechan.com
 www.jop-portfolio.com
 www.joplinglobe.com
 www.jordanwinds.com
+www.jordimarce.com
 www.jornaya.com
 www.joschaburkhalter.ch
 www.journaldesfemmes.fr
@@ -2220,6 +2247,7 @@ www.justdial.com
 www.justeam.org
 www.justia.com
 www.justicesupport.co.uk
+www.justinmcbrayer.com
 www.justinstanley.co.uk
 www.justlistedbythebay.com
 www.jut.com.tw
