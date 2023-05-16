@@ -6450,6 +6450,7 @@ Do not create new issue or we will close it as duplicate.
 | [lmtxxx2@twitter](https://twitter.com/lmtxxx2/status/1470622176097501185) | advertise |
 | [lmvntruong@twitter](https://twitter.com/lmvntruong/status/1380895642462023682) | advertise |
 | [LNam0711@twitter](https://twitter.com/LNam0711/status/1633886085024497673) | advertise |
+| [LngDinCh172387@twitter](https://twitter.com/LngDinCh172387/status/1658546281177042944) | advertise |
 | [LngNguy83416712@twitter](https://twitter.com/LngNguy83416712/status/1597081348812189696) | advertise |
 | [LngTi23877728@twitter](https://twitter.com/LngTi23877728/status/1549980900284600320) | advertise |
 | [lnguyenduc997@twitter](https://twitter.com/lnguyenduc997/status/1536404693668073472) | advertise |
