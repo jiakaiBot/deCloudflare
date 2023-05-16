@@ -5774,6 +5774,7 @@ Do not create new issue or we will close it as duplicate.
 | [kitl37720388@twitter](https://twitter.com/kitl37720388/status/1558464851650850824) | advertise |
 | [KittinatRueang1@twitter](https://twitter.com/KittinatRueang1/status/1605029090079019008) | advertise |
 | [kiund789@twitter](https://twitter.com/kiund789/status/1619592107551002624) | advertise |
+| [Kiuzhe@twitter](https://twitter.com/Kiuzhe/status/1658327240613011457) | advertise |
 | [kiwanismusic@twitter](https://twitter.com/kiwanismusic/status/1412505917870858240) | moral (advertise) |
 | [KIWI98480167@twitter](https://twitter.com/KIWI98480167/status/1646872012160368640) | advertise |
 | [Kiyan99307753@twitter](https://twitter.com/Kiyan99307753/status/1382401632080601088) | advertise |
@@ -7125,6 +7126,7 @@ Do not create new issue or we will close it as duplicate.
 | [mhandearsaini@twitter](https://twitter.com/mhandearsaini/status/1391731657158250496) | advertise |
 | [MhanZaw2@twitter](https://twitter.com/MhanZaw2/status/1391188415077515264) | advertise |
 | [mhd020306263@twitter](https://twitter.com/mhd020306263/status/1461392488489488387) | advertise |
+| [MHidarzade@twitter](https://twitter.com/MHidarzade/status/1658337305168605184) | advertise |
 | [MhizRalz@twitter](https://twitter.com/MhizRalz/status/1401142653413171201) | advertise |
 | [mhmdagha6@twitter](https://twitter.com/mhmdagha6/status/1391303370112110593) | advertise |
 | [mhmdqay1@twitter](https://twitter.com/mhmdqay1/status/1492953909517856781) | advertise |
