@@ -765,6 +765,7 @@ Do not create new issue or we will close it as duplicate.
 | [andrewcruzantoo@twitter](https://twitter.com/andrewcruzantoo/status/1385876533122801665) | advertise |
 | [AndrewNguyn7@twitter](https://twitter.com/AndrewNguyn7/status/1398873098959560708) | advertise |
 | [AndrewYagami51@twitter](https://twitter.com/AndrewYagami51/status/1390187834758156293) | advertise |
+| [AndrexDevCom@twitter](https://twitter.com/AndrexDevCom/status/1658890789668233223) | advertise |
 | [andriannp@twitter](https://twitter.com/andriannp/status/1401023261085814787) | advertise |
 | [AndrianoVu@twitter](https://twitter.com/AndrianoVu/status/1519982700438114304) | advertise |
 | [andriansywa@twitter](https://twitter.com/andriansywa/status/1507741794179891205) | advertise |
@@ -2296,8 +2297,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
