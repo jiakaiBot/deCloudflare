@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,324 |
 | social | 4,040 |
-| net | 3,203 |
+| net | 3,204 |
 | org | 2,214 |
 | de | 2,100 |
 
@@ -11364,6 +11364,7 @@ Here's a list of public Fediverse services.
 | `fedi.quebec` | No |
 | `fedi.rocks` | No |
 | `fedi.site` | Yes |
+| `fedi.software` | No |
 | `fedi.space` | No |
 | `fedi.surf` | Yes |
 | `fedi.tax` | No |
@@ -35056,6 +35057,7 @@ Here's a list of public Fediverse services.
 | `sur.social` | No |
 | `suranyami.com` | No |
 | `surazal.net` | No |
+| `surfhosted.net` | No |
 | `surfin.dog` | No |
 | `surfnet.space` | No |
 | `surfscape.cloud` | Yes |
@@ -41781,7 +41783,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,566 |
-| Normal | 31,171 |
+| Normal | 31,173 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
