@@ -108,6 +108,7 @@ Do not create new issue or we will close it as duplicate.
 | [9jjkoo@twitter](https://twitter.com/9jjkoo/status/1400903251952873478) | advertise |
 | [9kopb@twitter](https://twitter.com/9kopb/status/1585327243127291908) | advertise |
 | [9L4I2vwevY6bAL5@twitter](https://twitter.com/9L4I2vwevY6bAL5/status/1389859334419410951) | advertise |
+| [9m165krat@twitter](https://twitter.com/9m165krat/status/1658789132846649344) | advertise |
 | [9_lose@twitter](https://twitter.com/9_lose/status/1383537124788510722) | advertise |
 | [11BoizChungTinh@twitter](https://twitter.com/11BoizChungTinh/status/1401051583647911936) | advertise |
 | [11Thanh12@twitter](https://twitter.com/11Thanh12/status/1399774221035655168) | advertise |
@@ -6893,6 +6894,7 @@ Do not create new issue or we will close it as duplicate.
 | [Masonsteven111@twitter](https://twitter.com/Masonsteven111/status/1608870893496971264) | advertise |
 | [masoudT48958265@twitter](https://twitter.com/masoudT48958265/status/1588573955413397505) | advertise |
 | [masOUmy49@twitter](https://twitter.com/masOUmy49/status/1378421995021471752) | advertise |
+| [Masssambaa@twitter](https://twitter.com/Masssambaa/status/1658788562043564032) | advertise |
 | [Master14352302@twitter](https://twitter.com/Master14352302/status/1392063606175510528) | advertise |
 | [MasterBo20@twitter](https://twitter.com/MasterBo20/status/1392353718700367872) | advertise |
 | [MasterEtherium@twitter](https://twitter.com/MasterEtherium/status/1419236169095778308) | advertise |
@@ -7030,6 +7032,7 @@ Do not create new issue or we will close it as duplicate.
 | [Measillife@twitter](https://twitter.com/Measillife/status/1578481781246144512) | advertise |
 | [med61883332@twitter](https://twitter.com/med61883332/status/1439010726480420871) | advertise |
 | [MedagliaEugenio@twitter](https://twitter.com/MedagliaEugenio/status/1585087836952596480) | advertise |
+| [medician001@twitter](https://twitter.com/medician001/status/1658785266247643136) | advertise |
 | [MedioFernando1@twitter](https://twitter.com/MedioFernando1/status/1583166691798036482) | advertise |
 | [Medk1231@twitter](https://twitter.com/Medk1231/status/1554983422879219712) | advertise |
 | [MeeMee71555616@twitter](https://twitter.com/MeeMee71555616/status/1395746751051558919) | advertise |
