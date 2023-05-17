@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [_next/data/* URLs throwing 404, for multiple Next.js apps running on the same domain](https://github.com/vercel/next.js/issues/49926)
 - [Cannot use external-secret in extraArgs, parsing error](https://github.com/kubernetes-sigs/external-dns/issues/3610)
 - [Headerfields are to long when using cloudflare tunnel](https://github.com/jomjol/AI-on-the-edge-device/issues/2413)
 - [Status code 403](https://github.com/louislam/uptime-kuma/issues/3165)
