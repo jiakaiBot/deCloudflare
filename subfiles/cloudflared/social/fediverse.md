@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,324 |
-| social | 4,039 |
-| net | 3,202 |
+| social | 4,040 |
+| net | 3,203 |
 | org | 2,214 |
 | de | 2,100 |
 
@@ -2168,6 +2168,7 @@ Here's a list of public Fediverse services.
 | `apkallu.us` | No |
 | `apkfission.net` | Yes |
 | `apobangpo.space` | No |
+| `apocalypse.crimea.ua` | Yes |
 | `apocalypse.net` | Yes |
 | `apocfury.com` | Yes |
 | `apoil.org` | No |
@@ -26651,6 +26652,7 @@ Here's a list of public Fediverse services.
 | `oeru.org` | No |
 | `oesterreich.social` | No |
 | `oevents.co.za` | No |
+| `oewnjoyb.uk` | No |
 | `ofa.dog` | No |
 | `ofadam.com` | No |
 | `ofans.site` | Yes |
@@ -32789,6 +32791,7 @@ Here's a list of public Fediverse services.
 | `shemmes.me` | No |
 | `shenanigan.space` | No |
 | `shendrick.net` | No |
+| `shengjian.net` | No |
 | `shenyanshu.com` | No |
 | `shep.online` | Yes |
 | `sheppi.es` | No |
@@ -33796,6 +33799,7 @@ Here's a list of public Fediverse services.
 | `sofie.dev` | No |
 | `sofla.cafe` | No |
 | `softcat.org` | No |
+| `softer.social` | No |
 | `softgirl.online` | No |
 | `softi.city` | No |
 | `softinio.com` | Yes |
@@ -41775,8 +41779,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,563 |
-| Normal | 31,169 |
+| Cloudflare | 10,564 |
+| Normal | 31,172 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
