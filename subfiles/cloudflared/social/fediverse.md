@@ -10812,6 +10812,7 @@ Here's a list of public Fediverse services.
 | `eventphotographie.com` | Yes |
 | `eventprofs.social` | No |
 | `everafter.digital` | No |
+| `evergood.me` | No |
 | `everlong.org` | No |
 | `eversole.co` | No |
 | `eversole.dev` | Yes |
@@ -23001,6 +23002,7 @@ Here's a list of public Fediverse services.
 | `mi-chan.work` | No |
 | `mi-wo.site` | Yes |
 | `mi2428.net` | No |
+| `mia.jetzt` | Yes |
 | `miaetam4rok.com` | No |
 | `miantiao.me` | Yes |
 | `miao.dev` | Yes |
@@ -31476,6 +31478,7 @@ Here's a list of public Fediverse services.
 | `runty.com` | Yes |
 | `runty.social` | Yes |
 | `runyu.tokyo` | No |
+| `ruoiu.app` | No |
 | `ruomu.in` | No |
 | `rural-it.org` | No |
 | `rurinya.com` | Yes |
@@ -31508,7 +31511,7 @@ Here's a list of public Fediverse services.
 | `ruud.social` | No |
 | `ruxnor.net` | Yes |
 | `ruz.social` | No |
-| `ruzik.xyz` | No |
+| `ruzik.xyz` | Yes |
 | `rv.social` | No |
 | `rva.fyi` | No |
 | `rva.party` | No |
@@ -38118,6 +38121,7 @@ Here's a list of public Fediverse services.
 | `ubermorgen.info` | No |
 | `uberspace.de` | No |
 | `uberspace.social` | No |
+| `ubh.sh` | No |
 | `ubiqueros.com` | No |
 | `ublog.tech` | No |
 | `ubnt-intrepid.nagoya` | No |
@@ -41787,8 +41791,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,568 |
-| Normal | 31,176 |
+| Cloudflare | 10,570 |
+| Normal | 31,178 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
