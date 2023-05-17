@@ -5094,6 +5094,7 @@ Here's a list of public Fediverse services.
 | `butterknifeestates.com` | No |
 | `buttersc.one` | Yes |
 | `buttonhost.net` | No |
+| `buttplug.engineer` | No |
 | `buttplug.zone` | No |
 | `butts.moe` | Yes |
 | `butts.team` | No |
@@ -41793,7 +41794,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,571 |
-| Normal | 31,178 |
+| Normal | 31,179 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
