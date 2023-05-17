@@ -18569,7 +18569,6 @@ Here's a list of public Fediverse services.
 | `kikrr.social` | No |
 | `kikuzuki.org` | No |
 | `kila.rocks` | No |
-| `kilinbox.cc` | No |
 | `kilinbox.net` | No |
 | `kill.yt` | No |
 | `killbox.social` | Yes |
@@ -41784,7 +41783,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,566 |
-| Normal | 31,174 |
+| Normal | 31,173 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
