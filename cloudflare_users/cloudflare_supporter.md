@@ -6854,6 +6854,7 @@ Do not create new issue or we will close it as duplicate.
 | [MarkAnt93061065@twitter](https://twitter.com/MarkAnt93061065/status/1599283416079351809) | advertise |
 | [MarkarMark@twitter](https://twitter.com/MarkarMark/status/1401620432868941824) | advertise |
 | [markaseddon@twitter](https://twitter.com/markaseddon/status/1459934492236333063) | advertise |
+| [markcuoi@twitter](https://twitter.com/markcuoi/status/1658800528028241927) | advertise |
 | [markdbailey01@twitter](https://twitter.com/markdbailey01/status/1507714987732738048) | advertise |
 | [MarketingKba@twitter](https://twitter.com/MarketingKba/status/1558157865927544832) | advertise |
 | [MarketingNmu@twitter](https://twitter.com/MarketingNmu/status/1422534916932132876) | advertise |
