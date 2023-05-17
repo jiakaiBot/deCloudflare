@@ -18063,7 +18063,7 @@ Here's a list of public Fediverse services.
 | `kalamazoo.social` | Yes |
 | `kalapa.social` | No |
 | `kalasarn.se` | No |
-| `kalckey.com` | No |
+| `kalckey.com` | Yes |
 | `kalebporter.club` | No |
 | `kalecream.com` | Yes |
 | `kaleido.moe` | Yes |
@@ -19579,6 +19579,7 @@ Here's a list of public Fediverse services.
 | `lank.es` | No |
 | `lanners.uk` | No |
 | `lanodan.eu` | No |
+| `lanofthedead.xyz` | Yes |
 | `lanservice.de` | No |
 | `lansky.name` | No |
 | `lansley.com` | Yes |
@@ -41779,8 +41780,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,564 |
-| Normal | 31,172 |
+| Cloudflare | 10,566 |
+| Normal | 31,171 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
