@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,324 |
-| social | 4,040 |
+| com | 6,325 |
+| social | 4,041 |
 | net | 3,204 |
 | org | 2,214 |
-| de | 2,100 |
+| de | 2,102 |
 
 
 - Mastodon, Pleroma, etc
@@ -5399,7 +5399,7 @@ Here's a list of public Fediverse services.
 | `captnstark.com` | Yes |
 | `capybara.garden` | No |
 | `capybara.social` | No |
-| `capybara.zone` | No |
+| `capybara.zone` | Yes |
 | `capydes.net` | No |
 | `capypara.de` | No |
 | `capystan.net` | No |
@@ -6030,6 +6030,7 @@ Here's a list of public Fediverse services.
 | `chiya.moe` | No |
 | `chizai.cafe` | No |
 | `chizu.love` | No |
+| `chladny.de` | Yes |
 | `chmanie.com` | No |
 | `chmod777.org` | No |
 | `chn.moe` | Yes |
@@ -8281,6 +8282,7 @@ Here's a list of public Fediverse services.
 | `deberon.com` | No |
 | `debian.net` | No |
 | `debian.social` | No |
+| `debianlinux.de` | No |
 | `debiantippse.de` | No |
 | `debilosempire.org` | Yes |
 | `debiru.xyz` | Yes |
@@ -13981,6 +13983,7 @@ Here's a list of public Fediverse services.
 | `gothamefarda.com` | No |
 | `gothbarbie.world` | No |
 | `gothic.net.au` | No |
+| `gothicdispatch.com` | No |
 | `gothloli.club` | No |
 | `gothpanda.me` | No |
 | `gotlymph.com` | No |
@@ -18569,6 +18572,7 @@ Here's a list of public Fediverse services.
 | `kikrr.social` | No |
 | `kikuzuki.org` | No |
 | `kila.rocks` | No |
+| `kilinbox.cc` | No |
 | `kilinbox.net` | No |
 | `kill.yt` | No |
 | `killbox.social` | Yes |
@@ -23168,6 +23172,7 @@ Here's a list of public Fediverse services.
 | `mikotochopin.jp` | No |
 | `mikroblog.at` | No |
 | `mikroblog.dk` | No |
+| `mikrotik.social` | No |
 | `miksz.cc` | Yes |
 | `miku-enthusiast.club` | No |
 | `miku.cash` | No |
@@ -41782,8 +41787,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,566 |
-| Normal | 31,173 |
+| Cloudflare | 10,568 |
+| Normal | 31,176 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
