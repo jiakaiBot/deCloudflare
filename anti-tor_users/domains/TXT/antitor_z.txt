@@ -823,6 +823,7 @@ adfs.unicreditgroup.zaba.hr
 adfs.zu.de
 adpsecer.zyns.com
 all-movil.zapgoogle.co.il
+amiram.zedtec.ro
 api-dev.zt-ft.com
 api-shipp.zipi.app
 api-sprint.zlip2x.com
@@ -892,11 +893,11 @@ itau-ips-backoffice-frontend.itau-cartoes.zup.com.br
 jp.zaloapp.com
 lf26-thundercdn-tos.zjfcdn.com
 live-streaming.zegna.cn
-login.zephyrwave.website
 login.ziraatbankanturkey.com
 mail.zasgroup.com
 mail.zeusassociate.com
 media-user-automix-mainland-multi-bj-base.zego.im
+meet.zoose.us
 monitoring.zeitraum.io
 monitoring.zozo.gg
 mta-sts.www.hariridevelopment.zmverify.zoho.co
@@ -1082,7 +1083,6 @@ zb14734370.zmverify.zoho.co
 zb15166256.zmverify.zoho.co
 zb15201962.zmverify.zoho.co
 zb15226233.zmverify.zoho.co
-zbattle-series.com
 zbnfhsk.com
 zbusinessonline.co.nz
 zebrainks.com
@@ -1096,7 +1096,6 @@ zen-escort.com
 zenbalance.shop
 zencob2b.zencopayments.com
 zenitnow376.top
-zenland-app.com
 zernyatko.in.ua
 zestfoodservice.co.uk
 zeus99.asia
@@ -1130,7 +1129,6 @@ zoagremo.net
 zodiacappzu.mpm.zodiac-cloud.com
 zodiacsecurity.ro
 zoelashspa.com
-zogecoin.xyz
 zokhrofaloud.com
 zominumizmatika.hu
 zona-fantasi.top
@@ -1145,6 +1143,7 @@ zpu.kr.ua
 zrogargihz.shop
 zruakezes.shop
 zsbwoqpcxj.com
+zulfiyya.com
 zumbidospalmares.edu.br
 zupan.hr
 zvetokr2hr8pcng09.com
