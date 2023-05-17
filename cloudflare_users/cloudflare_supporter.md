@@ -9573,6 +9573,7 @@ Do not create new issue or we will close it as duplicate.
 | [RBIN25079279@twitter](https://twitter.com/RBIN25079279/status/1392757432779034624) | advertise |
 | [rccoders@twitter](https://twitter.com/rccoders/status/1525855907405389824) | advertise |
 | [RChechenov@twitter](https://twitter.com/RChechenov/status/1633240001881186304) | advertise |
+| [Rckilka@twitter](https://twitter.com/Rckilka/status/1658756202514509824) | advertise |
 | [RcPias@twitter](https://twitter.com/RcPias/status/1562039171677847552) | advertise |
 | [RCT21896@twitter](https://twitter.com/RCT21896/status/1610630825846112257) | advertise |
 | [rc_aung@twitter](https://twitter.com/rc_aung/status/1400450996766052360) | advertise |
