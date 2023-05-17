@@ -85,6 +85,7 @@ amazon.79-9.com
 api.7-eleven.com
 api.7semyan.ru
 en.7-star-pro-services.com
+fr.7-star-pro-services.com
 login.74437.com
 login.75782.com
 loyalty-qa-api.7eleven.com.my
