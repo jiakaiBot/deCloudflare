@@ -2450,6 +2450,7 @@ Here's a list of public Fediverse services.
 | `artermyss.com` | Yes |
 | `artfusion.social` | No |
 | `arthack.nz` | No |
+| `arthacker.su` | Yes |
 | `arthaus.social` | No |
 | `arthropod.social` | No |
 | `arthropod.tech` | No |
@@ -41791,7 +41792,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,570 |
+| Cloudflare | 10,571 |
 | Normal | 31,178 |
 
 
