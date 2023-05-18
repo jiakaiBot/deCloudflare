@@ -12613,7 +12613,6 @@ Here's a list of public Fediverse services.
 | `froidmont.org` | No |
 | `from-arctic.net` | No |
 | `from-de.com` | No |
-| `from-tw.shop` | No |
 | `from.the.br` | Yes |
 | `from1972.net` | No |
 | `fromhome.ovh` | No |
@@ -41811,7 +41810,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,575 |
-| Normal | 31,192 |
+| Normal | 31,191 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
