@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Subdomains do not function](https://github.com/arcadiadevs/playerservers-everything/issues/52)
 - [You have been blocked to use cookies api because your IP is detected by Cloudflare WAF.](https://github.com/linweiyuan/go-chatgpt-api/issues/134)
 - [TUI crashes when hitting token limit while creating a bot through chat with Marvin's default chat bot](https://github.com/PrefectHQ/marvin/issues/309)
 - [_next/data/* URLs throwing 404, for multiple Next.js apps running on the same domain](https://github.com/vercel/next.js/issues/49926)
