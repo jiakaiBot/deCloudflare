@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,325 |
+| com | 6,328 |
 | social | 4,041 |
-| net | 3,204 |
-| org | 2,214 |
+| net | 3,206 |
+| org | 2,215 |
 | de | 2,102 |
 
 
@@ -1024,6 +1024,7 @@ Here's a list of public Fediverse services.
 | `adoptodon.party` | No |
 | `adorable.space` | No |
 | `adorableweirdo.com` | No |
+| `adorawilliams.com` | No |
 | `adorsaz.ch` | No |
 | `adrelien.com` | Yes |
 | `adriaan.se` | No |
@@ -6005,6 +6006,7 @@ Here's a list of public Fediverse services.
 | `chinapedia.org` | No |
 | `chinasexpat.com` | No |
 | `chinchun.net` | Yes |
+| `chinese.org` | Yes |
 | `chino.tw` | No |
 | `chinstrap.org` | No |
 | `chinwag.im` | Yes |
@@ -7101,6 +7103,7 @@ Here's a list of public Fediverse services.
 | `cpress.org` | Yes |
 | `cproell.net` | No |
 | `cptpudding.de` | No |
+| `cpunks.xyz` | No |
 | `cpushack.com` | No |
 | `cpy.re` | No |
 | `cr-net.be` | No |
@@ -10850,6 +10853,7 @@ Here's a list of public Fediverse services.
 | `evilmeow.com` | Yes |
 | `evilolive.dev` | Yes |
 | `evilscientress.de` | No |
+| `evl.fi` | No |
 | `evl.im` | No |
 | `evln.xyz` | No |
 | `evn.sh` | No |
@@ -12600,6 +12604,7 @@ Here's a list of public Fediverse services.
 | `froghat.de` | No |
 | `frogkun.com` | No |
 | `frogmob.life` | No |
+| `frogplate.net` | No |
 | `frogs.lgbt` | No |
 | `frogsock.xyz` | Yes |
 | `frogtown.club` | No |
@@ -17354,6 +17359,7 @@ Here's a list of public Fediverse services.
 | `jeremybaker.nz` | No |
 | `jeremybelcher.co` | Yes |
 | `jeremydormitzer.com` | No |
+| `jeremykun.com` | No |
 | `jeremyrenner.app` | No |
 | `jeremyrenner.club` | No |
 | `jeremysarber.com` | Yes |
@@ -33810,6 +33816,7 @@ Here's a list of public Fediverse services.
 | `sofi.codes` | No |
 | `sofie.dev` | No |
 | `sofla.cafe` | No |
+| `sofritoandsons.com` | No |
 | `softcat.org` | No |
 | `softer.social` | No |
 | `softgirl.online` | No |
@@ -38019,7 +38026,7 @@ Here's a list of public Fediverse services.
 | `twols.cc` | No |
 | `twoot.me` | No |
 | `twoot.space` | No |
-| `twooter.me` | Yes |
+| `twooter.me` | No |
 | `twooter.org` | No |
 | `tworooms.online` | No |
 | `twos.dev` | Yes |
@@ -38737,6 +38744,7 @@ Here's a list of public Fediverse services.
 | `vampir.monster` | No |
 | `vampire.estate` | No |
 | `vampirebbs.org` | No |
+| `vampyrebytes.net` | Yes |
 | `vamuki.club` | No |
 | `van-der-boom.nl` | No |
 | `van-hemmen.com` | Yes |
@@ -41592,6 +41600,7 @@ Here's a list of public Fediverse services.
 | `zine.dev` | Yes |
 | `zine.party` | No |
 | `zinzolin.fr` | No |
+| `zio.sh` | Yes |
 | `zion-techs.com` | No |
 | `zip2.social` | No |
 | `zipbangwow.com` | No |
@@ -41793,8 +41802,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,571 |
-| Normal | 31,179 |
+| Cloudflare | 10,573 |
+| Normal | 31,186 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
