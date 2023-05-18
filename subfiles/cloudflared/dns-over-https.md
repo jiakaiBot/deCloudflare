@@ -32,7 +32,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | adguard-dns.com | Yes |
 | adguard.com | Yes |
 | adrianlam.com | Yes |
-| afixer.app | Yes |
 | ahadns.net | Yes |
 | alekberg.net | No |
 | alidns.com | No |
@@ -46,9 +45,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | artikel10.org | No |
 | avastdns.com | No |
 | avdkishore.dev | Yes |
-| axaxa.fun | Yes |
 | b-cdn.net | No |
-| b33.space | Yes |
 | b612.me | Yes |
 | bancuh.com | No |
 | bcandrade.ml | No |
@@ -165,7 +162,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | haoxuan.xyz | Yes |
 | he.net | No |
 | heliumcloud.cc | Yes |
-| heronet.nl | No |
 | hinet.net | Yes |
 | hitian.me | Yes |
 | hoerli.net | Yes |
@@ -244,7 +240,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mzrme.cn | Yes |
 | n0.eu | No |
 | nas-server.ru | Yes |
-| neubsi.at | No |
 | nexific.it | Yes |
 | nhtsky.com | Yes |
 | nic.cz | No |
@@ -257,7 +252,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nomu.pw | No |
 | norvig.dk | Yes |
 | novali.date | Yes |
-| novg.net | No |
 | ns3.com | No |
 | ns3.cx | No |
 | ns3.link | No |
@@ -364,8 +358,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 163 |
-| Normal | 182 |
+| Cloudflare | 160 |
+| Normal | 179 |
 
 
 ### 47.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
