@@ -12722,6 +12722,7 @@ Do not create new issue or we will close it as duplicate.
 | [YanYan16789666@twitter](https://twitter.com/YanYan16789666/status/1400852123902906369) | advertise |
 | [yan_kyaw0h@twitter](https://twitter.com/yan_kyaw0h/status/1393088808602722305) | advertise |
 | [yan_tint@twitter](https://twitter.com/yan_tint/status/1395264822820974595) | advertise |
+| [yaomilakbar@twitter](https://twitter.com/yaomilakbar/status/1659054468204478470) | advertise |
 | [yaomspace@twitter](https://twitter.com/yaomspace/status/1389098290981990401) | advertise |
 | [yardabes@twitter](https://twitter.com/yardabes/status/1579820322697904130) | advertise |
 | [YarisVu@twitter](https://twitter.com/YarisVu/status/1407379018479898625) | advertise |
