@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,328 |
-| social | 4,041 |
+| social | 4,042 |
 | net | 3,206 |
 | org | 2,215 |
 | de | 2,102 |
@@ -27990,6 +27990,7 @@ Here's a list of public Fediverse services.
 | `peakthink.org` | No |
 | `peaky.tech` | Yes |
 | `peanbuff.de` | No |
+| `peanuthamper.io` | No |
 | `peanutlasko.com` | Yes |
 | `peasej.me` | No |
 | `peatral.xyz` | Yes |
@@ -30517,6 +30518,7 @@ Here's a list of public Fediverse services.
 | `redflag.social` | Yes |
 | `redfuku.com` | Yes |
 | `redgarterclub.com` | No |
+| `redgate.social` | No |
 | `redgla.re` | No |
 | `redirectme.net` | Yes |
 | `redlatina.online` | Yes |
@@ -34750,7 +34752,7 @@ Here's a list of public Fediverse services.
 | `strangevistas.com` | No |
 | `strangeweb.page` | No |
 | `strangeworld.jp` | Yes |
-| `strangled.net` | No |
+| `strangled.net` | Yes |
 | `strapp.co.uk` | Yes |
 | `strass.blog` | No |
 | `strasser.wien` | No |
@@ -41806,8 +41808,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,573 |
-| Normal | 31,190 |
+| Cloudflare | 10,574 |
+| Normal | 31,191 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
