@@ -2295,6 +2295,7 @@ Here's a list of public Fediverse services.
 | `arcww.network` | No |
 | `ard.social` | No |
 | `arda.pw` | Yes |
+| `arda.sh` | No |
 | `ardchey.com` | No |
 | `ardechois.ovh` | No |
 | `ardeer.cfd` | No |
@@ -41814,7 +41815,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,577 |
-| Normal | 31,193 |
+| Normal | 31,194 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
