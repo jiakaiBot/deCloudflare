@@ -1813,6 +1813,7 @@ Here's a list of public Fediverse services.
 | `anci.win` | No |
 | `ancientfaith.com` | No |
 | `ancientoch.info` | No |
+| `ancientumamisuki.link` | No |
 | `ancilla.ca` | No |
 | `ancobloggt.de` | No |
 | `ancow.name` | No |
@@ -12437,6 +12438,7 @@ Here's a list of public Fediverse services.
 | `freetalk.club` | Yes |
 | `freetalk.ml` | Yes |
 | `freetalklive.com` | No |
+| `freetards.xyz` | No |
 | `freethemagic.org` | Yes |
 | `freethinkers.lgbt` | No |
 | `freethought.online` | Yes |
@@ -12611,6 +12613,7 @@ Here's a list of public Fediverse services.
 | `froidmont.org` | No |
 | `from-arctic.net` | No |
 | `from-de.com` | No |
+| `from-tw.shop` | No |
 | `from.the.br` | Yes |
 | `from1972.net` | No |
 | `fromhome.ovh` | No |
@@ -41804,7 +41807,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,573 |
-| Normal | 31,187 |
+| Normal | 31,190 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
