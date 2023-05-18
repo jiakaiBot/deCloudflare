@@ -844,6 +844,7 @@ image.email.ysl.com
 images.ywcontent.com
 img.youtube.com
 insuranceuat.yesbank.in
+integration-new.yandeh.com.br
 item-shopping.c.yimg.jp
 jdata.yuanta.com.tw
 kids.yahoo.co.jp
@@ -892,6 +893,7 @@ sberbank.sber.www.avito.git.git.covid19.youhollywood.com
 sberbank.www.avito.git.git.git.covid19.youhollywood.com
 scsapp01.hk.yusen-logistics.com
 secure.ymhospital.com
+servicedesk.yahsat.ae
 skyway.yesbank.in
 sportcenter.yadika.or.id
 tappay-cms.yapikredi.com.tr
@@ -913,6 +915,7 @@ v-ctmwbpxsdc.wc.yahoodns.net
 v-ctp59a3myk.wc.yahoodns.net
 vzpn.ydns.eu
 webclickbank2.youtokmarketing.com
+webdisk.yourremotehelper.com
 webmail.bureauveritas.yoomultimedia.com
 wiki.yacy.net
 www.akm.mts.yapimjaya.sch.id
@@ -958,6 +961,7 @@ www.yapisalguclendirme.com
 www.yapisankolon.com
 www.yapitex.com.tr
 www.yapitexinsaat.com
+www.yashar-magazine.co.il
 www.yeapasso.com
 www.yellowmedicinereviewstore.com
 www.yelonft.com
