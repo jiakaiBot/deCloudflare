@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,042 |
 | net | 3,206 |
 | org | 2,215 |
-| de | 2,103 |
+| de | 2,102 |
 
 
 - Mastodon, Pleroma, etc
@@ -2842,7 +2842,6 @@ Here's a list of public Fediverse services.
 | `autisten.club` | No |
 | `autistic.blog` | No |
 | `autisticgoblin.ca` | No |
-| `autisticpri.de` | No |
 | `autistics.life` | No |
 | `autisticwriter.com` | No |
 | `autizmo.xyz` | No |
@@ -26467,7 +26466,6 @@ Here's a list of public Fediverse services.
 | `nyaa.io` | No |
 | `nyaa.social` | No |
 | `nyaa.tech` | Yes |
-| `nyac.at` | Yes |
 | `nyadobe.online` | No |
 | `nyago.cyou` | Yes |
 | `nyahyun.com` | Yes |
@@ -30629,7 +30627,6 @@ Here's a list of public Fediverse services.
 | `reisig.world` | No |
 | `reit-it.de` | Yes |
 | `reitrace.ga` | No |
-| `reiuji.chat` | Yes |
 | `rejoiner.eu` | No |
 | `rekt.app` | No |
 | `rel.re` | No |
@@ -41813,8 +41810,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,577 |
-| Normal | 31,193 |
+| Cloudflare | 10,575 |
+| Normal | 31,192 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
