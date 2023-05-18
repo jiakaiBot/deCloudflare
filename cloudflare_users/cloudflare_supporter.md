@@ -1861,6 +1861,7 @@ Do not create new issue or we will close it as duplicate.
 | [BuilderHallLTD@twitter](https://twitter.com/BuilderHallLTD/status/1540042895843274753) | advertise |
 | [Buingocthang8@twitter](https://twitter.com/Buingocthang8/status/1562062181176610816) | advertise |
 | [BuiVanNam6365@twitter](https://twitter.com/BuiVanNam6365/status/1513903241309798403) | advertise |
+| [Bui_Duc_@twitter](https://twitter.com/Bui_Duc_/status/1659227057702977537) | advertise |
 | [bui_loat@twitter](https://twitter.com/bui_loat/status/1395180660642381826) | advertise |
 | [bulguuu@twitter](https://twitter.com/bulguuu/status/1501150275868020743) | advertise |
 | [bulon9090@twitter](https://twitter.com/bulon9090/status/1578839085795639296) | advertise |
@@ -10213,6 +10214,7 @@ Do not create new issue or we will close it as duplicate.
 | [Seraphino2021@twitter](https://twitter.com/Seraphino2021/status/1391001738505637893) | advertise |
 | [Serendpiti0_0@twitter](https://twitter.com/Serendpiti0_0/status/1648245907916480513) | advertise |
 | [SergioBruja@twitter](https://twitter.com/SergioBruja/status/1383807911781015563) | advertise |
+| [serndev@twitter](https://twitter.com/serndev/status/1659221246905573376) | advertise |
 | [Seth12888249@twitter](https://twitter.com/Seth12888249/status/1391277120844873728) | advertise |
 | [SetPaimg@twitter](https://twitter.com/SetPaimg/status/1397474221425512450) | advertise |
 | [Sev56332308@twitter](https://twitter.com/Sev56332308/status/1408078023425986560) | advertise |
