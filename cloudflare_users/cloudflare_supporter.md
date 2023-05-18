@@ -36,6 +36,7 @@ Do not create new issue or we will close it as duplicate.
 | Evidence URL | Comment |
 | ----- | ----- |
 | [0b00d7ff853f434@twitter](https://twitter.com/0b00d7ff853f434/status/1389609817413611520) | advertise |
+| [0Block0_o@twitter](https://twitter.com/0Block0_o/status/1659148323151036416) | advertise |
 | [0mgRod@twitter](https://twitter.com/0mgRod/status/1612107346204827648) | advertise |
 | [0xCompton90@twitter](https://twitter.com/0xCompton90/status/1564576517283258369) | advertise |
 | [0xF00DBABE@twitter](https://twitter.com/0xF00DBABE/status/1389288756025376768) | advertise |
@@ -2297,8 +2298,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
