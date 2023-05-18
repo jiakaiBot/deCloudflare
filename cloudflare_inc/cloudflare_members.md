@@ -582,6 +582,7 @@ Or is this merely a case of simple modesty?
 | Els Shek | Field Marketing (APAC) |  |
 | Elvin Tan | Reliability Engineer, Singapore |  |
 | Emilia Faz | Payroll Manager |  |
+| Emily Chen | Employee | |
 | Emily Elliott | Sales Operations |  |
 | Emily Flannery | Employee | |
 | Emily Hancock | Data Protection Officer |  |
@@ -602,6 +603,7 @@ Or is this merely a case of simple modesty?
 | Erwin van der Koogh | Melbourne | https://au.linkedin.com/in/evanderkoogh |
 | Ethan Park | Product Counsel |  |
 | Etienne Labaume | Support Engineer, London | (Étienne)<br>https://twitter.com/etlabaume |
+| Eugene Kim | Employee | |
 | Eva Hoyer | Head of Supply Chain |  |
 | Evan J Johnson | Security Engineer | "Evan J. Johnson"<br>evan@cloudflare.com<br>e@ejj.io<br>https://twitter.com/ejcx_<br>https://ejj.io/<br>https://github.com/ejcx |
 | Evan Johnson | Employee |  |
@@ -1216,6 +1218,7 @@ Or is this merely a case of simple modesty?
 | Michael Geng | Employee |  |
 | Michael Giron | Business Development |  |
 | Michael Girouard | Web Engineer |  |
+| Michael Hart | Employee | |
 | Michael Keane | Employee | |
 | Michael King | Employee |  |
 | Michael Lee | Support Engineer |  |
@@ -1568,6 +1571,7 @@ Or is this merely a case of simple modesty?
 | Sam Murray | Employee |  |
 | Sam Rhea | Employee | https://twitter.com/LakeAustinBlvd<br>srhea@cloudflare.com |
 | Samuel Coates | Attorney |  |
+| Samuel Macleod | Employee | |
 | Samuel Noble | Customer Development |  |
 | Samuel Sathyajith | India and SAARC Region |  |
 | Sam Whited | Systems Engineer |  |
@@ -1593,6 +1597,7 @@ Or is this merely a case of simple modesty?
 | Selam Negatu | Employee | |
 | Selina Cho | Employee |  |
 | Serena Satyasai | Marketing Lead |  |
+| Serena Shah-Simpson | Employee | |
 | Sergey Nuzhdin | Data Engineer |  |
 | Sergi Isasi | Product Manager | sergi@cloudflare.com<br>https://twitter.com/sgisasi<br>https://linkedin.com/in/sisasi/ |
 | Sergio Maeso | Security Solutions Engineer |  |
@@ -1610,6 +1615,7 @@ Or is this merely a case of simple modesty?
 | Shannon Leong | Legal Counsel |  |
 | Sharan Birak | Analyst Relations Manager |  |
 | Shashi Mishra | Employee |  |
+| Shaun Persad | Employee | |
 | Shawn Bohrer | Employee | |
 | Shawn Nelson | Infrastructure Supply Chain |  |
 | Shawn Robinson | Employee |  |
