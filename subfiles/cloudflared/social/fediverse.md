@@ -28043,6 +28043,7 @@ Here's a list of public Fediverse services.
 | `peertube.moe` | No |
 | `peertube.network` | Yes |
 | `peertube.nz` | No |
+| `peertube.party` | Yes |
 | `peertube.pl` | No |
 | `peertube.red` | Yes |
 | `peertube.ro` | No |
@@ -38894,7 +38895,7 @@ Here's a list of public Fediverse services.
 | `venomous.video` | Yes |
 | `ventel.app` | No |
 | `ventresmous.fr` | No |
-| `venturahimself.pro` | Yes |
+| `venturahimself.pro` | No |
 | `venturebeat.com` | Yes |
 | `venturecommunity.tech` | No |
 | `venzano.fr` | No |
@@ -41803,7 +41804,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,573 |
-| Normal | 31,186 |
+| Normal | 31,187 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
