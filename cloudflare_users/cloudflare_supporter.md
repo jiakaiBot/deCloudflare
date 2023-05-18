@@ -346,6 +346,7 @@ Do not create new issue or we will close it as duplicate.
 | [AdityaGoel014@twitter](https://twitter.com/AdityaGoel014/status/1400512018667380739) | advertise |
 | [AdityaP64856529@twitter](https://twitter.com/AdityaP64856529/status/1397106574636711940) | advertise |
 | [adityasawarka16@twitter](https://twitter.com/adityasawarka16/status/1380382240727777286) | advertise |
+| [aditya_c84@twitter](https://twitter.com/aditya_c84/status/1659071453223067650) | advertise |
 | [adlerlopex@twitter](https://twitter.com/adlerlopex/status/1618239923269828609) | advertise |
 | [Adlinek@twitter](https://twitter.com/Adlinek/status/1386212969223122947) | advertise |
 | [admir_saracevic@twitter](https://twitter.com/admir_saracevic/status/1517979667013292032) | advertise |
@@ -8801,6 +8802,7 @@ Do not create new issue or we will close it as duplicate.
 | [palon37@twitter](https://twitter.com/palon37/status/1389877275751968776) | advertise |
 | [Pamkom1@twitter](https://twitter.com/Pamkom1/status/1401328734238478337) | advertise |
 | [Pamuktulum@twitter](https://twitter.com/Pamuktulum/status/1583829147562160129) | advertise |
+| [PanahZabiullah@twitter](https://twitter.com/PanahZabiullah/status/1659014077409030146) | advertise |
 | [Panda40839281@twitter](https://twitter.com/Panda40839281/status/1395319635742969858) | advertise |
 | [pandarmyetwon@twitter](https://twitter.com/pandarmyetwon/status/1390219250040594432) | advertise |
 | [Pandora95283713@twitter](https://twitter.com/Pandora95283713/status/1391357563250176005) | advertise |
@@ -8925,6 +8927,7 @@ Do not create new issue or we will close it as duplicate.
 | [phamtru09678672@twitter](https://twitter.com/phamtru09678672/status/1498288526366248971) | advertise |
 | [phamvietbac1346@twitter](https://twitter.com/phamvietbac1346/status/1576464418035990528) | advertise |
 | [phamviethungcn1@twitter](https://twitter.com/phamviethungcn1/status/1552072842841587712) | advertise |
+| [phan04073519@twitter](https://twitter.com/phan04073519/status/1659195256993357824) | advertise |
 | [PhanAnh62498647@twitter](https://twitter.com/PhanAnh62498647/status/1538649153961660427) | advertise |
 | [PhanAnh91681190@twitter](https://twitter.com/PhanAnh91681190/status/1396132565359104000) | advertise |
 | [phanmin46588578@twitter](https://twitter.com/phanmin46588578/status/1405075582065410050) | advertise |
