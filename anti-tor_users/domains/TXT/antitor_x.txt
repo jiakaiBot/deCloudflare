@@ -424,6 +424,7 @@ atendimento.xpi.com.br
 autoconfig.xn--reifenservice-rbel-r3b.de
 autodiscover.cpanel.webdisk.webmail.mail.www.xflirt.fr
 b2b.xn----7sbahcs2ad7afbd1ao7i.xn--p1ai
+beta-xsts.auth.xboxlive.com
 blue-canary.xboxservices.com
 bod.xchanging.it
 botdiscord.xantxo-coquillard.fr
@@ -479,16 +480,19 @@ pricepointservice-stg.xsb.com
 prod-v1-outpost.xinverse.xyz
 ps.xsolla.com
 service-catalog.int.xplorcs.com
+service.xny8.vip
 staging-1682961063.xn--trservice-h3a.nu
 sts.xiduamdev.ca
 t-eu.xink.io
 t.xink.io
 tr.xn--denizliiletmeleri-6jd.com
 tracking.xiq.io
+updates.xploratribe.com
 wella.xibis.com
 wl-notification.dev-toronto.xara.ai
 www.alanyaorjinalescort.com.xn--avclarescort-34b.com
 www.amerlcafirst.x24hr.com
+www.authordb.xox-media.com
 www.bezpieczneschody.pl.studiolaperla.xaa.pl
 www.clienteadv.xpcode.cloud
 www.comforthotelsydneyairport.com.au.xpcconline.com
@@ -509,6 +513,7 @@ www.stripe.xerrox.pw
 www.support.xetel.in
 www.support.xonarous.tech
 www.tracking.xenxor.id
+www.updates.xploratribe.com
 www.xablu.com
 www.xem.com.au
 www.xfinitybillingz.com
@@ -552,6 +557,7 @@ www.xoxoteiros.blog.br
 www.xpasset.com.br
 www.xperiti.com
 www.xpi.com.br
+www.xpoolscuu.com
 www.xpressworldwideservice.online.xpressglobalcourrier.online
 www.xtremesecurity.co.uk
 www.xvisionsecurity.com.pk
