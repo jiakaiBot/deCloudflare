@@ -9329,6 +9329,7 @@ Do not create new issue or we will close it as duplicate.
 | [purbojatie@twitter](https://twitter.com/purbojatie/status/1626104712172027904) | advertise |
 | [Purusho73711864@twitter](https://twitter.com/Purusho73711864/status/1379331169649500160) | advertise |
 | [PushpadAnshika@twitter](https://twitter.com/PushpadAnshika/status/1395636260044099586) | advertise |
+| [pushparaj1381@twitter](https://twitter.com/pushparaj1381/status/1658742202409922560) | advertise |
 | [PuSiNan1@twitter](https://twitter.com/PuSiNan1/status/1395189807467298818) | advertise |
 | [pusi_sywm@twitter](https://twitter.com/pusi_sywm/status/1391396929540591616) | advertise |
 | [PustiuXP@twitter](https://twitter.com/PustiuXP/status/1384074566591401986) | advertise |
@@ -11486,6 +11487,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ti35576671@twitter](https://twitter.com/Ti35576671/status/1588180667635941376) | advertise |
 | [Ti78007536@twitter](https://twitter.com/Ti78007536/status/1388142390859354115) | advertise |
 | [tiagorangel2011@twitter](https://twitter.com/tiagorangel2011/status/1594769339944734724) | advertise |
+| [TianekoLy@twitter](https://twitter.com/TianekoLy/status/1659265952372989974) | advertise |
 | [TianXiaDiYi8888@twitter](https://twitter.com/TianXiaDiYi8888/status/1532010863649263616) | advertise |
 | [TiBi_Tzuyu@twitter](https://twitter.com/TiBi_Tzuyu/status/1401756577011408900) | advertise |
 | [tidatidaeiei@twitter](https://twitter.com/tidatidaeiei/status/1552580057591214080) | advertise |
