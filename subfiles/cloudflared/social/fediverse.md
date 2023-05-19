@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,332 |
-| social | 4,046 |
+| com | 6,333 |
+| social | 4,047 |
 | net | 3,206 |
 | org | 2,218 |
 | de | 2,103 |
@@ -719,6 +719,7 @@ Here's a list of public Fediverse services.
 | `aa.net.uk` | No |
 | `aaart.social` | No |
 | `aachen.social` | No |
+| `aadils.computer` | No |
 | `aadtp.be` | No |
 | `aaio.eu` | Yes |
 | `aamjanata.com` | No |
@@ -10154,6 +10155,7 @@ Here's a list of public Fediverse services.
 | `elbespace.de` | No |
 | `elbfotos.de` | No |
 | `elbmatsch.de` | No |
+| `elbullazul.com` | Yes |
 | `elchtransformer.de` | No |
 | `elcuadernodigital.com` | No |
 | `eldoom.me` | No |
@@ -11237,6 +11239,7 @@ Here's a list of public Fediverse services.
 | `fast-email.link` | Yes |
 | `fastdon.com` | No |
 | `fasterwhen.red` | No |
+| `fastly.social` | No |
 | `fastre.me` | No |
 | `fat.cab` | Yes |
 | `fataxl.online` | No |
@@ -29059,7 +29062,7 @@ Here's a list of public Fediverse services.
 | `popindustry.org` | No |
 | `popkulturreferenz.de` | No |
 | `poplava.net` | No |
-| `popnet.xyz` | Yes |
+| `popnet.xyz` | No |
 | `popnja.com` | Yes |
 | `popolon.org` | No |
 | `popomoc.org` | No |
@@ -41829,7 +41832,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,581 |
-| Normal | 31,204 |
+| Normal | 31,207 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
