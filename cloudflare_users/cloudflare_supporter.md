@@ -12024,6 +12024,7 @@ Do not create new issue or we will close it as duplicate.
 | [UItaphyo@twitter](https://twitter.com/UItaphyo/status/1641008500976537602) | advertise |
 | [uitlaber@twitter](https://twitter.com/uitlaber/status/1531845335915679744) | advertise |
 | [UKDanJones@twitter](https://twitter.com/UKDanJones/status/1574421912658362370) | advertise |
+| [uknip247@twitter](https://twitter.com/uknip247/status/1659611586657501194) | advertise |
 | [ulaknews@twitter](https://twitter.com/ulaknews/status/1491377544330809346) | advertise |
 | [ulaxx0@twitter](https://twitter.com/ulaxx0/status/1504320449018224640) | advertise |
 | [ULay99705792@twitter](https://twitter.com/ULay99705792/status/1394445652147404802) | advertise |
