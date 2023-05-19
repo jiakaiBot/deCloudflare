@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,333 |
-| social | 4,047 |
+| com | 6,334 |
+| social | 4,048 |
 | net | 3,206 |
-| org | 2,219 |
+| org | 2,218 |
 | de | 2,103 |
 
 
@@ -17179,7 +17179,6 @@ Here's a list of public Fediverse services.
 | `jansens-pott.de` | No |
 | `janstenpickle.io` | Yes |
 | `jantzen.no` | No |
-| `janusweb.org` | No |
 | `janusworx.com` | No |
 | `janwillemswane.nl` | No |
 | `janxy.me` | No |
@@ -26824,6 +26823,7 @@ Here's a list of public Fediverse services.
 | `oktadev.dev` | No |
 | `okteto.net` | Yes |
 | `okumin.com` | No |
+| `ol2ol.com` | No |
 | `olching.social` | No |
 | `olchis.net` | No |
 | `olcy.fr` | No |
@@ -34225,7 +34225,6 @@ Here's a list of public Fediverse services.
 | `spiwit.net` | No |
 | `spjainplacements.org` | No |
 | `spkt.studio` | No |
-| `spla.tech` | No |
 | `spla2n.ink` | No |
 | `splain.club` | No |
 | `splat.social` | No |
@@ -39296,6 +39295,7 @@ Here's a list of public Fediverse services.
 | `vonschack.com` | No |
 | `vonsee.de` | No |
 | `vonste.in` | No |
+| `voom.social` | Yes |
 | `voomer.co.ke` | No |
 | `voppe.it` | No |
 | `voragine.net` | No |
@@ -41834,8 +41834,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,582 |
-| Normal | 31,209 |
+| Cloudflare | 10,583 |
+| Normal | 31,208 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
