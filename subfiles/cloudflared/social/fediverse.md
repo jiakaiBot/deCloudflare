@@ -1814,7 +1814,7 @@ Here's a list of public Fediverse services.
 | `anci.win` | No |
 | `ancientfaith.com` | No |
 | `ancientoch.info` | No |
-| `ancientumamisuki.link` | No |
+| `ancientumamisuki.link` | Yes |
 | `ancilla.ca` | No |
 | `ancobloggt.de` | No |
 | `ancow.name` | No |
@@ -7884,6 +7884,7 @@ Here's a list of public Fediverse services.
 | `dampfkraft.com` | No |
 | `damron.social` | No |
 | `damu.page` | Yes |
+| `damutten.ch` | No |
 | `dan.cloud` | No |
 | `dan.glass` | No |
 | `dan0mic.one` | Yes |
@@ -27736,7 +27737,7 @@ Here's a list of public Fediverse services.
 | `pansebete.net` | No |
 | `panta.systems` | Yes |
 | `pantasystem.com` | Yes |
-| `pantdon.site` | No |
+| `pantdon.site` | Yes |
 | `panthereye.news` | Yes |
 | `panthermodern.net` | No |
 | `panthermoderns.org` | No |
@@ -41822,8 +41823,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,578 |
-| Normal | 31,201 |
+| Cloudflare | 10,580 |
+| Normal | 31,200 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
