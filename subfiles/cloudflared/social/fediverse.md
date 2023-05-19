@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,333 |
 | social | 4,047 |
 | net | 3,206 |
-| org | 2,218 |
+| org | 2,219 |
 | de | 2,103 |
 
 
@@ -17179,6 +17179,7 @@ Here's a list of public Fediverse services.
 | `jansens-pott.de` | No |
 | `janstenpickle.io` | Yes |
 | `jantzen.no` | No |
+| `janusweb.org` | No |
 | `janusworx.com` | No |
 | `janwillemswane.nl` | No |
 | `janxy.me` | No |
@@ -29689,6 +29690,7 @@ Here's a list of public Fediverse services.
 | `pxl.pictures` | No |
 | `pxlfd.me` | Yes |
 | `pxlfd.photo` | Yes |
+| `pxlfd.plus` | Yes |
 | `pxlfed.de` | No |
 | `pxlmo.com` | No |
 | `pycodon.fr` | No |
@@ -34223,6 +34225,7 @@ Here's a list of public Fediverse services.
 | `spiwit.net` | No |
 | `spjainplacements.org` | No |
 | `spkt.studio` | No |
+| `spla.tech` | No |
 | `spla2n.ink` | No |
 | `splain.club` | No |
 | `splat.social` | No |
@@ -41831,8 +41834,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,581 |
-| Normal | 31,207 |
+| Cloudflare | 10,582 |
+| Normal | 31,209 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
