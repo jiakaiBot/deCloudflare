@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-05-19: [User deletion results in 500 response code](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7fzmklxlbkjb)
 - 2023-05-18: [Investigating blocked requests from recently released crawling services](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vfpk4fvc97g3)
 - 2023-05-17: [CDN degraded performance in Salt Lake City datacenter](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4ngwzjzz3xhh)
 - 2023-05-16: [Cloudflare Page Shield Issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wpy906mhzxkx)
