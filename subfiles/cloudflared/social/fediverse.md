@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,329 |
-| social | 4,042 |
+| com | 6,332 |
+| social | 4,045 |
 | net | 3,206 |
-| org | 2,215 |
+| org | 2,216 |
 | de | 2,103 |
 
 
@@ -511,6 +511,7 @@ Here's a list of public Fediverse services.
 | `5505.industries` | Yes |
 | `551.social` | No |
 | `56k.es` | No |
+| `56k.social` | No |
 | `56k.space` | No |
 | `56ksocial.com` | No |
 | `575don.club` | No |
@@ -5098,6 +5099,7 @@ Here's a list of public Fediverse services.
 | `butterknifeestates.com` | No |
 | `buttersc.one` | Yes |
 | `buttonhost.net` | No |
+| `buttonmaste.rs` | No |
 | `buttplug.engineer` | No |
 | `buttplug.zone` | No |
 | `butts.moe` | Yes |
@@ -5526,6 +5528,7 @@ Here's a list of public Fediverse services.
 | `catboomer.net` | No |
 | `catboy.cafe` | No |
 | `catboyindustries.co` | Yes |
+| `catboys.org` | No |
 | `catcatnya.com` | No |
 | `catcore.life` | No |
 | `catdog.me` | No |
@@ -9469,6 +9472,7 @@ Here's a list of public Fediverse services.
 | `drcassone.social` | No |
 | `drcit.social` | Yes |
 | `drdeimann.de` | No |
+| `drdiddlybadger.com` | No |
 | `drdr.club` | Yes |
 | `drdr.work` | Yes |
 | `dre.casa` | Yes |
@@ -10280,6 +10284,7 @@ Here's a list of public Fediverse services.
 | `elrubius.fans` | No |
 | `elsacodelcoco.net` | No |
 | `elsdon.me` | Yes |
+| `else.social` | No |
 | `elsec.one` | No |
 | `elseifnull.xyz` | No |
 | `elses.computer` | No |
@@ -17766,6 +17771,7 @@ Here's a list of public Fediverse services.
 | `jplocalization.social` | No |
 | `jplus7.fr` | No |
 | `jpn.xyz` | Yes |
+| `jpnearl.com` | No |
 | `jpnews.site` | No |
 | `jpop.club` | No |
 | `jpop.space` | No |
@@ -35521,6 +35527,7 @@ Here's a list of public Fediverse services.
 | `talldude.net` | No |
 | `tallman.social` | No |
 | `tallulah.fi` | No |
+| `tallwebguy.com` | No |
 | `tallwireless.com` | No |
 | `talokan.social` | Yes |
 | `talos.link` | No |
@@ -40186,6 +40193,7 @@ Here's a list of public Fediverse services.
 | `wiwie.dk` | Yes |
 | `wixfort.de` | No |
 | `wiz.community` | No |
+| `wiz.social` | Yes |
 | `wizard.casa` | No |
 | `wizard.estate` | Yes |
 | `wizardfrag.co.uk` | Yes |
@@ -41814,8 +41822,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,577 |
-| Normal | 31,194 |
+| Cloudflare | 10,578 |
+| Normal | 31,201 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
