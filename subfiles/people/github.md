@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error when attempting to get response from character](https://github.com/kramcat/CharacterAI/issues/11)
+- [This operating system is not supported. CentOS7](https://github.com/P3TERX/warp.sh/issues/101)
 - [rma shim download page not working](https://github.com/MercuryWorkshop/sh1mmer/issues/62)
 - [How to restart tunnel?](https://github.com/danielewood/plexargod/issues/13)
 - [‼️Webhook Processing Problem ‼️](https://github.com/Shopify/shopify-api-js/issues/884)
