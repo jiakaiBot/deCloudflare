@@ -814,6 +814,7 @@ consent.youtube.com
 contactme.yusufhamitkaya.com
 covidvaccine.youthclinic.com
 cpcontacts.yourmobilefriendly.website
+crescent-rest.ytwofund.pro
 cs-stage.yieldoptimizer.com
 cv.youbuy.com
 dhrishti.yottaasys.com
@@ -845,6 +846,7 @@ images.ywcontent.com
 img.youtube.com
 insuranceuat.yesbank.in
 integration-new.yandeh.com.br
+irancellsupport.yiff.fi
 item-shopping.c.yimg.jp
 jdata.yuanta.com.tw
 kids.yahoo.co.jp
@@ -870,6 +872,7 @@ pcidss.yandex.net
 pcmax.ywrhuqa.vip
 pos.yesgrp.com
 preview.surveys.yandex.ru
+products.yanagiya-cosme.co.jp
 qa.yalamanchili.in
 qa1-cdnfs1.yieldoptimizer.com
 qa3-ag.yieldoptimizer.com
@@ -965,6 +968,7 @@ www.yashar-magazine.co.il
 www.yeapasso.com
 www.yellowmedicinereviewstore.com
 www.yelonft.com
+www.yelp.fr
 www.yerburyfarmersmarket.com
 www.yesbank.in
 www.yilbim.com.tr
@@ -985,6 +989,7 @@ www.yourhealthcare-services.com
 www.yourquote.in
 www.yourservice.com.br
 www.yourstartupservice.com
+www.yourstrulycardco.ca
 www.youthline.co.nz
 www.youtube-nocookie.com
 www.youtubeluxfer.com
@@ -1019,7 +1024,9 @@ yasno.com.ua
 yayasan-azzainuddin.org
 yazdsystem.com
 ydwjez8.com
+yeoldelondonwindow.co.uk
 yeosindonesia.co.id
+yesab.ca
 yesfx.yesbank.in
 yeson26.net
 yetistrafikdanismanlik.com
@@ -1080,6 +1087,7 @@ youuup.net
 youxxxvideo.net
 youyizz.com
 yplistingasso.ypbizhub.com.hk
+ypredict-beta.com
 ysajielectronica.com.py
 ytboost.info
 yuira.jp
@@ -1090,6 +1098,8 @@ yulpronos.ca
 yuming.co.jp
 yunusalmeida.online
 yurumez.net
+yusei.tech
+yushi-now.work
 yywater.tw
 abeletskiy-ppr-ru-20230220.website.yandexcloud.net
 api.youatcollege.com
