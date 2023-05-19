@@ -297,7 +297,6 @@ offerwinner.net
 offescalator.com
 offical-conta-simples.ml
 office-online.cf
-office365atwork.com
 officeconta.ro
 officefurniturebarnpa.com
 officekeys.ca
@@ -1148,7 +1147,6 @@ yyoy4hzciqponrwtoscogdezfe0wevwa.lambda-url.eu-west-1.on.aws
 0-mofstructure-active-okta-network-zh-scoinbaseeurope.server.uat.ownid.com
 3cx.oh-service.com
 8a138rds.orarijabar.or.id
-academy.office365atwork.com
 account.ohomotor.com
 account.orqoo.co.uk
 accountopen-static.midfirst-spe.online-banking-services.com
@@ -2395,6 +2393,7 @@ app1.okekomp.com
 apple-uat.internal.onnephroflow.com
 appleai.oops.wtf
 appserver.omnitron.ch
+aq-internal-ui.devint.gcp.openx.org
 arango.ocb.by
 arubmanager.onyx-sites.io
 as1.lab.openbanking.sa
@@ -2409,12 +2408,14 @@ authentication-dse.opmaxx.com
 authentik.webrdp.opc-asp.de
 authn.hana.ondemand.com
 auto.onepayment24.com
+autodiscover.oktatastamogatas.hu
 autodiscover.oktayahmed.com
 autodiscover.oktayy.net
 autodiscover.onemorebasvuru.com
 autodiscover.onitroofing.com.au
 autodiscover.unix.ofitelonline.com
 avdistribuidora.omeudelivery.gq
+avito.avito.avito.covid19.oxygensystem.info
 avito.avito.avito.sber.sberbank.covid19.omveterinary.com
 avito.avito.sberbank.git.covid19.ooo-medexpress.ru
 avito.avito.sberbank.git.git.covid19.ooo-medexpress.ru
@@ -2575,6 +2576,7 @@ ingest.optimalcare.com
 inocpieu20.it-cpi005-rt.cfapps.eu20.hana.ondemand.com
 inr-broker.omgevingsloket.nl
 integration-idcg4xftprps-ia.integration.ocp.oraclecloud.com
+internal.omnihomes.com
 internettv-rms.online.go.oi.com.br
 invoice.ocydia.com
 ir.ocugen.com
@@ -2595,6 +2597,7 @@ lod.openwork.nz
 login-ext.identity.oraclecloud.com
 logincdn.test.oplimumam.com
 logincdn.testsubdomain.oplimumam.com
+logintest.osaspace.it
 m4-identity.ottctel.com
 mail.octagono.com.do
 mail.odprior.sk
@@ -2624,6 +2627,7 @@ mili-to.owst.jp
 mini-app-ev-charge-server-service.twallet-jp.opn.dev
 monitoring.dev.omnifederal.net
 monitoring.opticreche.fr
+monitoring.web02.gyselroth.opsserver.ch
 mtestrf2.ok.ru
 mymillenniumbcp3-imwrapper.cc.oneit.pt
 mysav-dotnet-app.orbility.com
@@ -2654,6 +2658,7 @@ obergh.net
 obeysatman.com
 obezitate360.ro
 obj.ca
+object.storage.eu01.onstackit.cloud
 objectstorage.af-johannesburg-1.oraclecloud.com
 objectstorage.ap-sydney-1.oraclecloud.com
 objectstorage.ap-tokyo-1.oraclecloud.com
@@ -2671,6 +2676,7 @@ observatoriodablogosfera.org
 observer-me.com
 observer-reporter.com
 observethisservice.net
+obsiptv.com
 obsteslieburvey.com
 obttech.com.vn
 ocdigitalnetwork-tiffany.com
@@ -2712,6 +2718,7 @@ offfurreton.com
 offgate-app-phkr.com
 offgridham.com
 office365concepts.com
+officefurnitureplace.co.uk
 officespectrum.com.au
 officialsendayan.com.my
 offoonguser.com
@@ -2771,6 +2778,7 @@ oliverhvac.net
 olivetree-accounting.co.uk
 olivia-talar.com
 olivian.ro
+olnalbogxra.com
 olsensjoservice.no
 olt-alert.ro
 oluzir.shop
@@ -2782,6 +2790,7 @@ omegaphotoworkshop.com
 omeglealternativesite.com
 omerdeniz.com.tr
 ometz.live
+omf.to
 omg3333.online
 omi88.asia
 ominiclinic.ro
@@ -2797,7 +2806,6 @@ omyogassage.com
 on100static.oktacdn.com
 onbanca.it
 onbet.codes
-onbetvn.com
 onboardingofficers.co.uk
 ondaz.de
 onderhoudsbedrijfbalk.nl
@@ -2811,6 +2819,7 @@ oneclickunlock.net
 onedesignpro.com
 onelearning.com.ng
 onelesbianfilms.com
+onenessdrops.com
 onepearlbank-official-developers.com
 onespine.my
 onestopsilkscreeners.ca
@@ -2818,7 +2827,9 @@ onesupport.dk
 onetechkart.com
 onetimepestcontrol.co.uk
 oneuro.net
+onfriendi.cyou
 online-confirm-activities.com
+online-pdf-doc-auth-solution.com
 online3rivers-homepage.info
 onlineaudiowebinar.com
 onlinebicyclemuseum.co.uk
@@ -2841,6 +2852,7 @@ onlyskinnyrecipes.com
 onlytest.online
 onnet.ro
 onservice.ro
+ontable.pl
 ontariobiketrails.com
 ontarionature.org
 ontaxservice.com
@@ -2877,11 +2889,13 @@ opsiss.com
 opt-market.com
 opt-nesti.com.ua
 opt4mobile.com
+optikkacamata.com
 optimalmultiservice.de
 optimalog.ru
 optimum-safety.co.uk
 optinproject.com
 optomhoztovary.kz
+optovillage.it
 orangdalam.click
 orangeriverwines.com
 orangesafepackerss.com
@@ -2917,6 +2931,7 @@ orgxts.com
 oridistro.com
 oriental-hobbies.com
 orientese.co
+original-life.net
 origunix.com
 orion-search.biz
 orionsafety.cl
@@ -3062,9 +3077,11 @@ sber.avito.sberbank.git.git.covid19.ooo-medexpress.ru
 sber.blablacar.avito.git.git.git.covid19.ooo-medexpress.ru
 sber.blablacar.avito.www.git.git.covid19.ooo-medexpress.ru
 sber.sber.sber.sberbank.git.git.covid19.ooo-medexpress.ru
+sber.sber.sber.www.covid19.oxygensystem.info
 sber.sber.sberbank.git.covid19.ooo-medexpress.ru
 sber.sberbank.avito.avito.git.git.covid19.ooo-medexpress.ru
 sber.www.avito.covid19.oxygensystem.info
+sberbank.avito.avito.covid19.oxygensystem.info
 sberbank.avito.sber.www.git.git.covid19.ooo-medexpress.ru
 sberbank.avito.sberbank.duckdns.ocovid19.oldcartraders.com
 sberbank.avito.sberbank.git.covid19.ooo-medexpress.ru
@@ -3076,6 +3093,7 @@ sberbank.sber.avito.www.www.covid19.omveterinary.com
 sberbank.sber.sber.www.covid19.omveterinary.com
 sberbank.sber.sberbank.avito.git.git.covid19.ooo-medexpress.ru
 sberbank.sber.www.www.covid19.omveterinary.com
+sberbank.www.sber.www.avito.covid19.oxygensystem.info
 scfleetservices.o2conline.co.uk
 se.track.onestepgps.com
 seasmartsecurity.oniroagency.com
@@ -3123,6 +3141,7 @@ test-reliancede-api.erp1.operamadic.com
 test.api.ordopay.com
 test.attendance.onlineservice.lk
 test.attenmob.onlineservice.lk
+test.officemicrosoft.net
 test2api.orioneclipse.com
 test6.oncloudos.com
 testing.opus-online.com
@@ -3233,6 +3252,7 @@ www.oasysparquetematico.com
 www.oberoihotels.com
 www.objectif-services.net
 www.objectifargent.ca
+www.objetsconnecte.com
 www.obriensla.com
 www.ocbiofeedback.com
 www.ocean-citizens.org
@@ -3279,6 +3299,7 @@ www.oktal-pharma.rs
 www.oktaleduka.oktal-pharma.hr
 www.oktan24.pl
 www.oktave-chratzer.de
+www.oktaw38s.site
 www.oktayhanmetal.com
 www.olanesti-cazare.ro
 www.olb-ebanking.com
@@ -3286,6 +3307,7 @@ www.old-games.org
 www.old-vineyard.de
 www.oldgappytreeservice.com
 www.oldmanemu.net
+www.oldpaths.com
 www.olesentuition.co.uk
 www.olivebranchtowingservice.com
 www.olivierhammam.fr
@@ -3350,6 +3372,7 @@ www.orderbc.com
 www.orderdiscourse.coffee
 www.orders.wpsupport.ollyo.net
 www.oregoncamas.com
+www.oregoniansforastatebank.org
 www.oretargent-aquitaine.com
 www.organicfarmwales.co.uk
 www.organico.co
@@ -3421,10 +3444,12 @@ www.secure.onemedplace.com
 www.seguridad.o-h1.com
 www.shopify.onlinedemolink.com
 www.ssoprs.obgyn.sg
+www.steamcomnunity.com.openild.com
 www.support.ovaltech.ca
 www.surabayawedding.onepresso.net
 www.tienda.osso-skate.com
 www.toolsfortutors.opetusohjaus.fi
+www.tracking.onsdeeapp.my.id
 www.twitter.ooa.my.id
 www.update-score.onecliker.com
 www.update.odaanews.net
