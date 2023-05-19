@@ -1646,6 +1646,7 @@ api-sapps.jaklingkoindonesia.co.id
 api-st.jio.com
 api.jaxvpn.com
 api.jeonnamtour.kr
+api.jobdiva.co.uk
 api.jyro.io
 api.possible-drake.jetrist.com
 app.jet.vet
@@ -1654,6 +1655,7 @@ apps.jucees.es.gov.br
 area-cliente.jongomara.es
 auth.jhjhh.de
 auth.jista.org
+auth.jmccloud.co.uk
 authserver.jvinicius.com.br
 autodiscover.jaxnewyears.com
 autodiscover.jornadacontradepressao.site
@@ -1674,6 +1676,7 @@ cloud.jdpower.ai
 cocoro-power.jp.sharp
 company.jr-central.co.jp
 content-origin-feeds-staging.jwplatform.com
+core.jiox0.de
 corporate.benesse-mcm.jp.japan-art-origin.jp
 cpanel.iroiroblog.jetboy.jp
 cpanel.janumet-xr.gq
@@ -1704,9 +1707,12 @@ downloads.jonesweb.club
 em.juroku.co.jp
 email.alimail.jinxindevelops.com
 email.justthenews.com
+en.jnetracking.com
 enlos.jfm360kunder.dk
+es.jerkmate.com
 event.jma.or.jp
 events.jaarbeurs.nl
+extension.jiox0.de
 files.jinshuju.net
 fz02.jibunban.com
 fz04.jibunban.com
@@ -1725,9 +1731,11 @@ government.juddhaschool.edu.np
 graphqlv23.jmmtest.xyz
 helpdesk.jsatmobile.com
 hosted.jacksonriverdev.com
+hosting.jiox0.de
 hugolescargot.journaldesfemmes.fr
 hybrismechanicacalibre184.jaeger-lecoultre.com
 iamt.justice.sk
+identity.seller.jiomart.com
 internaltrikaya.juastudio.my.id
 iroiroblog.jetboy.jp
 j1studios.com
@@ -1742,6 +1750,7 @@ jackadamsauthor.com
 jackdeighton.co.uk
 jackicohenglassartdesigns.com
 jackpot188.asia
+jackpot777.asia
 jacobsmeatmarket.com
 jadi-credit.com
 jadoorestaurant.ro
@@ -1793,6 +1802,7 @@ jazminthai.com
 jazztokyo.org
 jbforum.net
 jbloperating.com
+jbmglassandglazing.co.uk
 jbolink.net
 jbradfordphoto.com
 jbravo2uk.com
@@ -1857,6 +1867,7 @@ jhsahkopalvelu.fi
 jhwp.org.au
 jiar.in
 jikitourai.net
+jilislot98.online
 jimlunsford.com
 jimmeruk.com
 jimoharu.net
@@ -1878,6 +1889,7 @@ jkduykdyuk.shop
 jktruckingandconstruction.com
 jkuberuat.jharkhand.gov.in
 jlilojhlihlohl.shop
+jlomaart.jio-mart.xyz
 jlr.academy
 jlsafety.com
 jm-unlocks.com
@@ -1947,6 +1959,7 @@ jpcbank.com
 jpciti.com
 jpcursos.net
 jpdcareandsupport.co.uk
+jpfundraising.com
 jpgesit77.shop
 jplivestream.live
 jr-central.co.jp
@@ -1974,6 +1987,7 @@ juletraeslevering.dk
 juliamolina.realtor
 juliaray.space
 juliencfernandez.art
+juliomarvim.com.br
 julmi.xyz
 julolecalve.website
 jumanji.shop
@@ -1992,6 +2006,7 @@ jurnalpos.com
 jurnaltrans.com
 justaddwaterdevelopment.com
 justapassword.com
+justbelievefit.com.au
 justeam.org
 justhornychicks.com
 justicesupport.co.uk
@@ -2003,6 +2018,7 @@ justmegareth.com
 justporntown.com
 justritediesel.com
 juwelier-stoeveken.de
+jv-bcp.com
 jwsprestige.co.uk
 jyj.com.do
 jyotirlinggroup.in
@@ -2014,6 +2030,7 @@ latexgirdle9.jigsy.com
 listings.jillbourget.com
 login.jaysreegoldfin.com
 lowcode-stg.justice.nsw.gov.au
+lunarctics.jdambach.com
 lunchfrench1.jigsy.com
 mail.iroiroblog.jetboy.jp
 mail.jaimeillanes.cl
@@ -2069,6 +2086,7 @@ sberbank.avito.avito.avito.blablacar.covid19.juliecolombe.com
 sberbank.avito.avito.sber.sberbank.covid19.juliecolombe.com
 sberbank.avito.sber.avito.avito.avito.covid19.juliecolombe.com
 sberbank.blablacar.avito.avito.sber.www.covid19.juliecolombe.com
+secure-gifting.johnniewalker.com
 secure.jandbexcavating.com
 secure.jskypro.com
 seller.jiomart.com
@@ -2133,9 +2151,11 @@ www.client-response-cre.jmsacquisitions.com
 www.coinnoli.com.jpciti.com
 www.contao4install.jupas.de
 www.corporate-events.jb360booth.com
+www.corporate-photograph.jjsmilemediapro.com
 www.dannys-confirmation.juliemccoy.photography
 www.dev.www.w.staging.booking.jenbrial.com
 www.email.tracking.joee.app
+www.en.jnetracking.com
 www.esme-and-billy.jeivisuals.com
 www.garutupdate.jajapgarut.site
 www.gbwhatsapp.januapk.xyz
@@ -2146,6 +2166,7 @@ www.googlesuria.jarijari.com
 www.grndungsversammlung.jugendforum-aemmitau.ch
 www.head-of-steam-newcas.jarpsy.com
 www.houser.jillybeanphoto.net
+www.hr.jbcorporate.in
 www.instagram.jbrucifer.com
 www.j2media.com.sg
 www.jaara.eu
@@ -2185,6 +2206,7 @@ www.jatam.org
 www.javanegragourmet.com
 www.jawssupport.co.uk
 www.jayom.net
+www.jayrope.com
 www.jazzdanslebocage.com
 www.jbmartin.net
 www.jbscotch.com
@@ -2215,6 +2237,7 @@ www.jgcnews.com
 www.jgramenterprise.com
 www.jindalhc.com
 www.jinimaken.com
+www.jirehtreeservice.com
 www.jjdrivewaysnuneaton.co.uk
 www.jjjmoney.com
 www.jk-it-services.com.au
@@ -2222,6 +2245,7 @@ www.jl-luxe.com
 www.jleebooking.com
 www.jll.co.uk
 www.jll.de
+www.jlomaart.jio-mart.xyz
 www.jmfireandsecurity.com
 www.jmgf28.fr
 www.jmisinternationalservice.com
@@ -2266,6 +2290,7 @@ www.jppn.ne.jp
 www.jrbeetle.com
 www.jrcsisters.com
 www.jrff.co.jp
+www.jrkbus.co.jp
 www.jrkyushu-kippu.jp
 www.jsbpestcontrol.co.uk
 www.jsdolls.com
@@ -2285,6 +2310,7 @@ www.justdial.com
 www.justeam.org
 www.justia.com
 www.justicesupport.co.uk
+www.justincorporate.com.sg
 www.justinmcbrayer.com
 www.justinstanley.co.uk
 www.justlistedbythebay.com
@@ -2321,6 +2347,7 @@ www.ticket.jajapgarut.site
 www.urban.jonathanciscon.com
 www.v-fifty.com.jpciti.com
 www.vpnqlife.justcode.am
+www.wallet.jhonatec.dev
 www.wilmington.jefferykeyservice.com
 zh.japansportsticket.com
 account.jogiton.com
