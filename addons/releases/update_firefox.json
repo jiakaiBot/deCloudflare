@@ -8,9 +8,9 @@
               "strict_min_version": "91.0"
             }
           },
-          "version": "1.0.7.2",
+          "version": "1.0.7.3",
           "update_link": "https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/addons/releases/isat.xpi",
-          "update_hash": "sha256:340bc79e685d4cc8b0cdfc7adc68a77c5cfa5cf59a3738c837f58b94eb4f2985"
+          "update_hash": "sha256:438a16f298dda40499c944ad6abad4fedd9b171dcd49341912716695fde0b37d"
         }
       ]
     },
@@ -22,9 +22,9 @@
               "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.27.1",
+          "version": "1.0.27.2",
           "update_link": "https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/addons/releases/ismm.xpi",
-          "update_hash": "sha256:bc21bfecedad83e53a846033c3e28a9ddd2fd797c115eb232d3f65185cbd13a5"
+          "update_hash": "sha256:c5b37fdbc8ba84a66e8c15d3715818db977c7e32ce421c51e8f2351f99c4f93c"
         }
       ]
     },
