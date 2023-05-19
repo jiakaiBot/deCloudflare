@@ -12442,6 +12442,7 @@ Here's a list of public Fediverse services.
 | `freesoftwareextremist.com` | No |
 | `freespeech.chat` | Yes |
 | `freespeech.club` | Yes |
+| `freespeech.fans` | No |
 | `freespeech.group` | No |
 | `freespeech.host` | No |
 | `freespeech.institute` | No |
@@ -41837,7 +41838,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,583 |
-| Normal | 31,210 |
+| Normal | 31,211 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
