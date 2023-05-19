@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,332 |
-| social | 4,045 |
+| social | 4,046 |
 | net | 3,206 |
-| org | 2,216 |
+| org | 2,217 |
 | de | 2,103 |
 
 
@@ -8875,6 +8875,7 @@ Here's a list of public Fediverse services.
 | `digitaldemocracies.org` | Yes |
 | `digitalesozialearbeit.de` | No |
 | `digitalesparadies.de` | No |
+| `digitalispeople.org` | No |
 | `digitalkr.am` | No |
 | `digitally.cool` | No |
 | `digitalmarketer.social` | No |
@@ -10669,6 +10670,7 @@ Here's a list of public Fediverse services.
 | `esdin.me` | No |
 | `esel.social` | No |
 | `esgeroth.org` | No |
+| `esglife.social` | No |
 | `eshopview.com` | No |
 | `esiliati.org` | No |
 | `esjewett.com` | No |
@@ -41824,7 +41826,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,579 |
-| Normal | 31,201 |
+| Normal | 31,203 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
