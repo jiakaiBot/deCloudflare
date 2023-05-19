@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,332 |
 | social | 4,046 |
 | net | 3,206 |
-| org | 2,217 |
+| org | 2,218 |
 | de | 2,103 |
 
 
@@ -5266,6 +5266,7 @@ Here's a list of public Fediverse services.
 | `calc.news` | Yes |
 | `calciumsigma.com` | No |
 | `calckey.art` | No |
+| `calckey.berlin` | No |
 | `calckey.cloud` | No |
 | `calckey.jp` | No |
 | `calckey.lgbt` | No |
@@ -8970,6 +8971,7 @@ Here's a list of public Fediverse services.
 | `discordian.social` | No |
 | `discorporea.com` | No |
 | `discourse-research.net` | No |
+| `discourse.org` | Yes |
 | `discourse.social` | Yes |
 | `discover.earth` | Yes |
 | `discovermagazine.com` | No |
@@ -33787,6 +33789,7 @@ Here's a list of public Fediverse services.
 | `socialpixels.xyz` | No |
 | `socialpod.me` | Yes |
 | `socialprivacy.network` | No |
+| `socialrep.info` | Yes |
 | `socialrum.com` | Yes |
 | `socialscud.com` | Yes |
 | `socialserver.science` | Yes |
@@ -41825,8 +41828,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,579 |
-| Normal | 31,203 |
+| Cloudflare | 10,581 |
+| Normal | 31,204 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
