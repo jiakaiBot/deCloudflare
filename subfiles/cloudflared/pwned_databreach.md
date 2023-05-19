@@ -123,7 +123,7 @@ Here's a list of breached sites.
 | CardingMafiaDec2021 (Carding Mafia (December 2021)) | 303,877 | Yes |
 | CashCrate | 6,844,490 | Yes |
 | Catho | 1,173,012 | No |
-| Chatbooks | 2,520,441 | No |
+| Chatbooks | 2,520,441 | Yes |
 | CheapAssGamer (CheapAssGamer.com) | 444,767 | Yes |
 | Chegg | 39,721,127 | Yes |
 | Chowbus | 444,224 | Yes |
@@ -339,6 +339,7 @@ Here's a list of breached sites.
 | Lookbook | 1,074,948 | Yes |
 | LoungeBoard (Lounge Board) | 45,018 | No |
 | LuminPDF (Lumin PDF) | 15,453,048 | Yes |
+| Luxottica | 77,093,812 | No |
 | LyricsMania (Lyrics Mania) | 109,202 | No |
 | MCBans | 119,948 | Yes |
 | MDPI | 845,012 | Yes |
@@ -667,10 +668,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 354 | 3,915,335,360 |
-| Normal | 292 | 4,908,892,039 |
+| Cloudflare | 355 | 3,917,855,801 |
+| Normal | 292 | 4,983,465,410 |
 
 
 
-### 54.8% of breached sites (pwned sites) are using Cloudflare.
-### 44.4% of leaked accounts are on Cloudflare sites.
+### 54.9% of breached sites (pwned sites) are using Cloudflare.
+### 44% of leaked accounts are on Cloudflare sites.
