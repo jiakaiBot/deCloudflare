@@ -1814,6 +1814,7 @@ a01.ugwdevice.net
 a978bc47-2e90-454c-8e51-b9931c679832.usrfiles.com
 academy.uber.space
 account.sljo-j-slja.ubiquityjournal.website
+ackdnz.denzbank.umhl.com
 adfs.unitedlearning.org.uk
 adfs.uplet.cloud
 adfs1.dba01upc.upc.sk
@@ -1850,6 +1851,7 @@ autodiscover.utvnitrous.com
 avito.avito.sber.avito.sber.sberbank.covid19.ukrtranspark.com
 avito.sber.avito.avito.sber.sberbank.covid19.ukrtranspark.com
 avito.sber.sber.avito.sberbank.www.covid19.ukrtranspark.com
+avito.www.avito.sber.www.sberbank.covid19.ukrtranspark.com
 b01.ugwdevice.net
 b8eac3dc-4909-4bb8-bb19-edc2ff927491.usrfiles.com
 barc.updatestaging.um-server.de
@@ -1885,6 +1887,7 @@ click.ubsarena-email.com
 click.udr-email.com
 click.uswsalvationarmy.org
 clicks.uk-safety.com
+clients.unliwebhosting.com.ph
 cloud.benefits.unitedhealthcare.com
 cloud.endurance.usatventures.com
 cloud.upaj.org
@@ -1906,6 +1909,7 @@ crystalpaths.unlockedachievementgaming.com
 cs2.unomax.com
 dahae.ussoft.kr
 dashboard.ubuntu.et
+datagrab.uber.space
 dev-customer.usebaxter.com
 dev-logistics.usps.com
 dev-solr.unwomen.org
@@ -1928,6 +1932,7 @@ eee.updatemyprofile.com
 ef7ed799-7df5-4ff8-920c-3a70ed657e9c.usrfiles.com
 effinghamscbethsaida.umcchurches.org
 email.urbanriver.co.uk
+en.upcashbank.online
 erms.uplus.co.kr
 evalue.iic.uam.es
 extern.unicat-gmbh.com
@@ -1983,6 +1988,7 @@ leisuretop.unitrontourism.com
 library.universityofgalway.ie
 live.malwine.uber.space
 login.ujatcare.com
+login.uka-gruppe.de
 login.uni-mainz.de
 logov.uber.space
 lpm.unihaz.ac.id
@@ -2003,6 +2009,7 @@ minecraft.untalan.me
 missingmail.usps.com
 money-recognition.apps.uraki.dev
 monitoring.duna.unica.credit
+monitoring.nhr.uni-erlangen.de
 monitoring.unydevelopernetwork.com
 moskit.uwm.edu.pl
 msd-bot-server.ubisendaws.com
@@ -2040,6 +2047,7 @@ prep.u-perf.fr
 profed.utk.education
 providentma-web.uatfisprepaid.com
 pt.unclejimworkshop.com
+pt.upcashbank.online
 pull.h2fly.uber.space
 q.uapaccount.com
 qa.myudfleet.udtrucks.com
@@ -2148,6 +2156,7 @@ ugurhanyapi.com
 uhcreative.online
 uhcreative.shop
 uhgincentivema-web.uatfisprepaid.com
+ujicguitarservice.com
 ujyaloupdate.com
 ukiasunnot.fi
 ukids.uplus.co.kr
@@ -2156,6 +2165,7 @@ ukr-garage-auto.com.ua
 ukrainianhistorywiki.org
 ukrainianservice.com
 ukreximbank.net
+ukrgasbank.com
 ukrinform.de
 ukrnet.co.uk
 uktaxpolicymap.com
@@ -2276,6 +2286,7 @@ uptrend.my
 upvcwindowsessex.co.uk
 upvcwindowsfelixstowe.co.uk
 upvcwindowssuffolk.co.uk
+ur-ban.id
 uranaino.net
 uraskill.com
 urban974.com
@@ -2300,6 +2311,7 @@ urquia.org
 urricanevern.com
 uruguayseguro.com
 uruswan.com
+usa-swiss.com
 usaaoll.site
 usaarealcoportal.com
 usaaremotejobs.com
@@ -2400,6 +2412,7 @@ www-titankayaks-com.usrfiles.com
 www-vagosmcworld-com.usrfiles.com
 www-wunderlustlondon-co-uk.usrfiles.com
 www.6pmtampabaytour.unitedbythebay.org
+www.acesso.ultrachatbot.com.br
 www.adtcreative.uplifted-cities.com
 www.api.userportal.uamishub.com
 www.banki.uwssg.com
@@ -2412,6 +2425,7 @@ www.booking.urgenthelicopterservice.com
 www.bootnet.vn.unlock-bios.com
 www.checkad.ultra-money.com
 www.clasifiventas.upitrack.com
+www.clients.unliwebhosting.com.ph
 www.corporate.uzwebprofi.uz
 www.devsite.uspa.gov.ua
 www.flrealtyservice.usashoecompany.com
@@ -2513,6 +2527,7 @@ www.unitysecurity02.com
 www.univers.no
 www.universalcontrol.co.zw
 www.universallogservices.com
+www.universalwallet.app
 www.unleashedperfumes.com
 www.unlimitedinkclient.com
 www.unlockeddesigns.com
@@ -2527,9 +2542,11 @@ www.unsdsn.org
 www.unwetter24.net
 www.uob.edu.bh
 www.up-metalltechnik.ch
+www.upcashbank.online
 www.updateautohouston.com
 www.updatenusantara.id
 www.updateplay.unlimitedstreamingsports.com
+www.upliftingnonprofits.com
 www.upmoney.co.uk
 www.upn.to
 www.uppercervicalhealthcentersboise.com
@@ -2785,7 +2802,6 @@ updatedblog.cf
 updatedblog.tk
 updatelearning.com
 updatemijnsite.nl
-updatemyself.com
 updateshub.com.ng
 updatesultra.com
 updatetest.ulf.dk
