@@ -5325,6 +5325,7 @@ Do not create new issue or we will close it as duplicate.
 | [J_Gat@twitter](https://twitter.com/J_Gat/status/1516156671235694598) | advertise |
 | [K04975245@twitter](https://twitter.com/K04975245/status/1395085262732943361) | advertise |
 | [K2DR7HtBoIKC1g1@twitter](https://twitter.com/K2DR7HtBoIKC1g1/status/1378253350177677312) | advertise |
+| [k2n2344@twitter](https://twitter.com/k2n2344/status/1659564855538466816) | advertise |
 | [k4slam@twitter](https://twitter.com/k4slam/status/1463970945727664128) | advertise |
 | [k4thekiller@twitter](https://twitter.com/k4thekiller/status/1394625998658830340) | advertise |
 | [k68nn7jzft@twitter](https://twitter.com/k68nn7jzft/status/1620808185119674368) | advertise |
