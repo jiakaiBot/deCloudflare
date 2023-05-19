@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [@prisma/client/edge does not support other databases protocols](https://github.com/prisma/prisma/issues/19344)
 - [Use get api error 403](https://github.com/DefiLlama/defillama-app/issues/1512)
 - [Subdomains do not function](https://github.com/arcadiadevs/playerservers-everything/issues/52)
 - [You have been blocked to use cookies api because your IP is detected by Cloudflare WAF.](https://github.com/linweiyuan/go-chatgpt-api/issues/134)
