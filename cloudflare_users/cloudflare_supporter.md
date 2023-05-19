@@ -2572,6 +2572,7 @@ Do not create new issue or we will close it as duplicate.
 | [dcrimyz@twitter](https://twitter.com/dcrimyz/status/1399029992374239233) | advertise |
 | [DdeeaannK@twitter](https://twitter.com/DdeeaannK/status/1601652495729983488) | advertise |
 | [ddkatsios@twitter](https://twitter.com/ddkatsios/status/1398632489028104192) | advertise |
+| [DDL2K22@twitter](https://twitter.com/DDL2K22/status/1659638112501243913) | advertise |
 | [De6Bi@twitter](https://twitter.com/De6Bi/status/1401432705661693956) | advertise |
 | [DeadCrazy007@twitter](https://twitter.com/DeadCrazy007/status/1609933132110921728) | advertise |
 | [deadlyembrace6@twitter](https://twitter.com/deadlyembrace6/status/1565304061779394561) | advertise |
