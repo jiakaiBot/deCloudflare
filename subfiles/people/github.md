@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [rma shim download page not working](https://github.com/MercuryWorkshop/sh1mmer/issues/62)
 - [How to restart tunnel?](https://github.com/danielewood/plexargod/issues/13)
 - [‼️Webhook Processing Problem ‼️](https://github.com/Shopify/shopify-api-js/issues/884)
 - [CVE-2023-1732 (High) detected in github.com/cloudflare/circl-v1.2.0](https://github.com/xmidt-org/release-builder-action/issues/27)
