@@ -3495,6 +3495,7 @@ Do not create new issue or we will close it as duplicate.
 | [GalAviel97@twitter](https://twitter.com/GalAviel97/status/1401309736314810368) | advertise |
 | [Galaxyindiagam2@twitter](https://twitter.com/Galaxyindiagam2/status/1401178297300668420) | advertise |
 | [galleonxv@twitter](https://twitter.com/galleonxv/status/1552994969937657856) | advertise |
+| [GamblingBrownie@twitter](https://twitter.com/GamblingBrownie/status/1659353600735191042) | advertise |
 | [Game080941@twitter](https://twitter.com/Game080941/status/1396440640028692489) | advertise |
 | [gameonwe@twitter](https://twitter.com/gameonwe/status/1606358816584515584) | advertise |
 | [GamerBoy1789@twitter](https://twitter.com/GamerBoy1789/status/1549586329901535234) | advertise |
@@ -9844,6 +9845,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ruka09486933@twitter](https://twitter.com/Ruka09486933/status/1406308606983606275) | advertise |
 | [rukawa_qn@twitter](https://twitter.com/rukawa_qn/status/1530896257710886912) | advertise |
 | [rulz_reborn@twitter](https://twitter.com/rulz_reborn/status/1657306798385430531) | advertise |
+| [rundnghung2044@twitter](https://twitter.com/rundnghung2044/status/1659403999760744449) | advertise |
 | [rune063@twitter](https://twitter.com/rune063/status/1552349917640699904) | advertise |
 | [Rungaro05789682@twitter](https://twitter.com/Rungaro05789682/status/1546921362534862848) | advertise |
 | [rungjeawsing@twitter](https://twitter.com/rungjeawsing/status/1553075148877549569) | advertise |
@@ -10306,6 +10308,7 @@ Do not create new issue or we will close it as duplicate.
 | [ShayDeeMan@twitter](https://twitter.com/ShayDeeMan/status/1427705148231532549) | advertise |
 | [Shayden87162676@twitter](https://twitter.com/Shayden87162676/status/1388560807433211905) | advertise |
 | [shaziakn@twitter](https://twitter.com/shaziakn/status/1385603154377527297) | advertise |
+| [shehab73896728@twitter](https://twitter.com/shehab73896728/status/1659401901715394560) | advertise |
 | [SheinAung16@twitter](https://twitter.com/SheinAung16/status/1391360533278777348) | advertise |
 | [SheinGyi4@twitter](https://twitter.com/SheinGyi4/status/1393011899382472706) | advertise |
 | [SheinThuAung7@twitter](https://twitter.com/SheinThuAung7/status/1390427892497063936) | advertise |
