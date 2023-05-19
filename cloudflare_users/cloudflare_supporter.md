@@ -7560,6 +7560,7 @@ Do not create new issue or we will close it as duplicate.
 | [MPaivandy@twitter](https://twitter.com/MPaivandy/status/1470874647461777411) | advertise |
 | [Mphay9139Ok@twitter](https://twitter.com/Mphay9139Ok/status/1614544032428101634) | advertise |
 | [Mphetamine2@twitter](https://twitter.com/Mphetamine2/status/1389550479969980417) | advertise |
+| [MPolischuk95368@twitter](https://twitter.com/MPolischuk95368/status/1659660613620989952) | advertise |
 | [Mpzo55@twitter](https://twitter.com/Mpzo55/status/1554556620050673664) | advertise |
 | [MR360_CRICKETER@twitter](https://twitter.com/MR360_CRICKETER/status/1552192413535719424) | advertise |
 | [mr3455@twitter](https://twitter.com/mr3455/status/1578272184174141443) | advertise |
