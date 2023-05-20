@@ -2663,6 +2663,7 @@ avito.avito.sber.avito.sber.avito.sber.covid19.view-manager.com
 avito.avito.sber.sber.avito.avito.www.covid19.view-manager.com
 avito.avito.sber.sberbank.covid19.vesta-donors.com
 avito.avito.sber.www.git.git.covid19.vesta-donors.com
+avito.avito.www.avito.sber.sberbank.covid19.vr-cosmetology.ru
 avito.sber.avito.avito.avito.m.www.covid19.vitorheinzen.com
 avito.sber.avito.avito.sberbank.avito.covid19.vojvodinanet.com
 avito.sber.blablacar.avito.avito.covid19.view-manager.com
@@ -2674,12 +2675,14 @@ avito.sber.sber.avito.sber.sberbank.covid19.vossbryggeri.com
 avito.sber.sber.avito.sberbank.sberbank.covid19.view-manager.com
 avito.sber.sber.avito.sberbank.www.covid19.view-manager.com
 avito.sber.sber.blablacar.covid19.view-manager.com
+avito.sber.sber.sber.avito.www.covid19.view-manager.com
 avito.sber.sberbank.sber.sber.covid19.vossbryggeri.com
 avito.sberbank.www.sber.covid19.vojvodinanet.com
 avito.www.sberbank.avito.sber.avito.covid19.vossbryggeri.com
 ba4b3ndin4m1c4.vercel.app
 bacanaplay.com.br.blog.wpsites.validbox.com
 back.web.visionlinkmedia.cn
+backup.vistasoundtrack.com.br
 baoviphero2641996-gmailcom.vercel.app
 besiktas.website.vertexxhosting.nl
 beta-dashboard.vivira.com
@@ -2735,6 +2738,9 @@ consent.vwgroup.io
 console.web.visionlinkmedia.cn
 contents.verygoodtour.com
 cookiedevrbxl.vercel.app
+corporate-dev.venonhospitality.com
+corporate.venonhospitality.com
+corporate.vitalsay.com
 coturn.qa.app.visitme.doctor
 cpanel.vasport.cl
 cpanel.vertexpacking.au
@@ -2789,6 +2795,7 @@ cyberh.viavarejo.com.br
 cyberstory.vercel.app
 cyrela.virtual360.io
 da.vrhm.nl
+david-portfolio-eight.vercel.app
 demo.verifyqa.mx
 demomb.vnpaytest.vn
 deployment-dev.varonis-preprod.com
@@ -2816,6 +2823,7 @@ discordgithubbrazil.vercel.app
 discordhelper1.vercel.app
 discordlabs.vercel.app
 discordservers-me.vercel.app
+discourse.colivefreecampaign.villagecms.com
 discover.vixio.com
 docs.client.vl-logistic.com
 docs.client.vl-logistic.ru
@@ -2837,6 +2845,7 @@ enigmadiscord1.vercel.app
 ernestowusu80-gmailcom.vercel.app
 erver.vizvaz.com
 etrading.vdp.com
+events-internal.valued.app
 fanzine.versanteripido.it
 fax1.vserverfarm.net
 forum.vizslancs.hu
@@ -2895,6 +2904,7 @@ int.vaicore.xyz
 int.viageo.ch
 internal.valued.app
 intra.voxter.com.br
+ir.vaccinex.com
 iservice2.vanillamedia.hr
 it.pp.vente-unique.ch
 jacobsubin2-gmailcom.vercel.app
@@ -2904,6 +2914,7 @@ kaartech.viewpage.co
 klanten.vip.nl
 klanten.virtualvos.nl
 kundeweb2.voxe.no
+lb-prod-eu-rt.anypointdns.net.vw-group.pl
 leaninprep.vanwardconsulting.com
 live-ak.vimeocdn.com
 live2onsport.vtvcab.vn
@@ -2925,6 +2936,7 @@ mail.voiceteamcall.com
 mail.vostroblock.com
 mail.vostroblock.io
 mail.vostroblock.se
+mail.voxblox.com
 mail.vroblog.com
 mail.vulcandelux-casino.win
 mail.vulcanengineers.co.za
@@ -3057,6 +3069,7 @@ rustytanaka.vercel.app
 s1.vnecdn.net
 sales-review-update-to-jfilhf.guay.vooban.dev
 saml.verivox.com
+sandyj.vercel.app
 santiagorodriguezmastoros-gmailcom.vercel.app
 sarageld-gmailcom.vercel.app
 sber.avito.avito.avito.avito.m.www.covid19.vitorheinzen.com
@@ -3064,6 +3077,7 @@ sber.avito.avito.avito.m.www.covid19.vitorheinzen.com
 sber.avito.avito.avito.sber.avito.sber.covid19.view-manager.com
 sber.avito.avito.sber.www.sberbank.covid19.vossbryggeri.com
 sber.avito.avito.sberbank.sber.sber.covid19.vossbryggeri.com
+sber.avito.avito.www.avito.www.covid19.vr-cosmetology.ru
 sber.avito.sber.www.sberbank.covid19.vossbryggeri.com
 sber.avito.sberbank.blablacar.covid19.vesta-donors.com
 sber.avito.sberbank.git.git.covid19.vesta-donors.com
@@ -3088,12 +3102,14 @@ sberbank.avito.sber.www.git.git.covid19.vesta-donors.com
 sberbank.avito.sber.www.sberbank.covid19.vossbryggeri.com
 sberbank.avito.sberbank.blablacar.covid19.vesta-donors.com
 sberbank.avito.sberbank.www.covid19.vojvodinanet.com
+sberbank.avito.www.avito.www.sber.covid19.vr-cosmetology.ru
 sberbank.git.pop3.covid19.vitorheinzen.com
 sberbank.sber.aviavisberbank.m.covid19.vitorheinzen.com
 sberbank.sber.avito.avito.covid19.vitorheinzen.com
 sberbank.sber.avito.blablacar.sberbank.covid19.view-manager.com
 sberbank.sber.sber.avito.sber.avito.covid19.view-manager.com
 sberbank.sber.sber.blablacar.sber.covid19.view-manager.com
+sberbank.sber.sber.sber.blablacar.sber.covid19.view-manager.com
 sberbank.sber.www.sberbank.blablacar.covid19.vossbryggeri.com
 sberbank.sberbank.blablacar.covid19.vesta-donors.com
 sberbank.sberbank.sberbank.www.covid19.vossbryggeri.com
@@ -3102,6 +3118,7 @@ sberbank.www.sber.covid19.vojvodinanet.com
 secure.vinerji.com
 securenet.vodafone.ie
 security.vida.software
+selfservice.vax.co
 sentry.kube.viralgains.com
 server.valtapi.com
 service.vulcanlabs.co
@@ -3188,6 +3205,7 @@ valetfinance.com.au
 valetimperial.ca
 valiantsupport.com.au
 validaciondedomicilios.com.mx
+validaendereco.com.br
 valkintrading.com
 valkyrie-mmo.asia
 vallettaferryservices.com
@@ -3247,9 +3265,11 @@ venfioletadas.com
 vengaruz.pp.ua
 venisellemas.life
 veniselleplus.life
+venmo-alert.support
 venmo-usa.com
 venstroj.ru
 venticare.nl
+ventureworld.tech
 venunetwork.com
 venus-intl.net
 venuschats.com
@@ -3282,6 +3302,7 @@ vertigo-escort.com
 veruvis.com
 veryl.com
 verywed.com
+vesnade3ign.com
 vessoupy.com
 vestnikarche.com
 veteranscancersupport.net
@@ -3313,6 +3334,7 @@ vida10argentina.com
 vidafyglobal.com
 vidalhernandez.realtor
 vidanje-agricole.ro
+vidasaludable360.today
 vidasatphones.com
 vidasaudavelonline.club
 videobuddyapkdownload.com
@@ -3329,6 +3351,7 @@ vietnamroblox.com
 vieu.cc
 viewablemedia.net
 vigar.mx
+vigilant-health.com
 vigol.online
 vigorousism.com
 vijou.com.co
@@ -3349,7 +3372,6 @@ viniciustoledo1.shop
 vintagedrumrestoration.co.uk
 vinyl.ninja
 violetbirthdayservice.hu
-vioxxa.com
 vipbarcelonaescorts.com
 vipheliservices.com
 vipi.live
@@ -3374,6 +3396,7 @@ visioni2c.com
 visit-romania.eu
 visitbali.org
 visitorinvictoria.ca
+visitworcester.co.uk
 vista1travel.com
 vistasoundtrack.com.br
 vistobuenoproteccionciviledomex.top
@@ -3401,6 +3424,7 @@ viz.com
 vizedanisma.net
 vjfireandsafety.com
 vkgnow.shop
+vkhdfhf.ink
 vkstraining.net
 vkusno77.shop
 vkusno777.shop
@@ -3416,7 +3440,6 @@ vn88link.org
 vnlotolink.net
 vnprintusa.com
 vnpts.com.vn
-vo-23-vetrag.in
 vocco-escort.com
 vodafone-service.com
 vodafoneservices.in
@@ -3441,7 +3464,9 @@ vooculok.com
 vorercoxsbazar.com
 vostroblock.io
 vostroblock.se
+votapdg.cl
 vote-gilt-six.vercel.app
+voxblox.com
 voxy.digital
 voyageminnesota.com
 vpg.info
@@ -3470,6 +3495,7 @@ vscendols.top
 vsearkhitektory.online
 vsesdal.com
 vsviti.com.ua
+vtcservice.ch
 vtest314-awfkrbx3ahumhigmhlhh.vercel.app
 vtest314-hby4ly8pigifvwwemogx.vercel.app
 vtmeajp.se.com
@@ -3500,6 +3526,7 @@ vulcansmudgepot.com
 vulgamag.ca
 vulgartaivert.website
 vulturehound.co.uk
+vuonthuantunhien.store
 vurot.shop
 vutta.xyz
 vuzur.shop
@@ -3552,9 +3579,9 @@ www.admin.vaidelivery.com
 www.adzcast.com.veresecure.com
 www.anang.vpnjoss.my.id
 www.backoffice.verifiance-fnci.fr
+www.backup.vistasoundtrack.com.br
 www.bankonline.vastshore.com
 www.bestofhenricocounty.com.viajarfacil.info
-www.bill.vivecademy.com
 www.billeder-fra-havnen.vive-havn.dk
 www.billing.vimzaa.us
 www.booking2.vistoso.ca
@@ -3562,6 +3589,9 @@ www.client.vistadesign.co.uk
 www.clientes.vitycloud.com.co
 www.coinbase-connect.victoryprofitsmining.com
 www.confirmapp.web.virtualtecserver.com
+www.corporate-dev.venonhospitality.com
+www.corporate.venonhospitality.com
+www.corporate.vitalsay.com
 www.creditcard.vflyorions.in
 www.crsorgi.gov.in.web.index.php.auth.viewcert.site
 www.cs.money.verticeconstructor.com
@@ -3594,11 +3624,13 @@ www.moneyline.vztrader.com
 www.portal.metodotelecom.com.br.voicemanagerwebex.com.br
 www.postsul.vendamilionaria.com
 www.reading--signing-1.valeriegravesbook.com
+www.sdl.vsdev.co.uk
 www.securedataware.in.vydhya.in
 www.serviceonline.in.vindhyacitynews.in
 www.services.vriddhi-lanka.org
 www.signalsecurity.vividbeginnings.co.uk
 www.southdakotasbest.com.viajarfacil.info
+www.staging.vendeeelogin.com
 www.standardsusers.com.viewdealbuy.com
 www.stfc.metodotelecom.com.br.voicemanagerwebex.com.br
 www.superdryonsale.com.viajarfacil.info
@@ -3679,6 +3711,7 @@ www.viessmann-service.tech
 www.vietnameseautismsupport.org
 www.vietteldangkymang.com
 www.viewlabs.com
+www.viforpharma.com
 www.vigourdiscord.com
 www.vikingdublindogs.ie
 www.vill.otama.fukushima.jp
@@ -3698,6 +3731,7 @@ www.visiblecollege.education
 www.vision-whatsapp.com
 www.visiondeldinero.online
 www.visionfarma.es
+www.visionsofjesuschrist.com
 www.visitsingapore.com.cn
 www.visordown.com
 www.vista1travel.com
@@ -3708,6 +3742,7 @@ www.vivalavandal.biz
 www.vivapayments.com
 www.vivasemprecomdinheiro.vendasoficial.online
 www.vivastreetsdenver.com
+www.vivipescara.info
 www.viviquinto.it
 www.vizuamatix.com
 www.vmaxbatteries.com.au
