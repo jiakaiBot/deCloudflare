@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can this technique open the sites on Cloudflare? It looks like they were all blocked!](https://github.com/zizifn/edgetunnel/issues/127)
 - [When deployed I am detected](https://github.com/ugorsahin/ChatGPT_Automation/issues/14)
 - [Types not found - robodux](https://github.com/esm-dev/esm.sh/issues/639)
 - [WiFi card not detected - Intel 9461](https://github.com/home-assistant/operating-system/issues/2554)
