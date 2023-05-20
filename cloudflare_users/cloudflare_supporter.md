@@ -174,6 +174,7 @@ Do not create new issue or we will close it as duplicate.
 | [2005Kameha@twitter](https://twitter.com/2005Kameha/status/1601223663298424833) | advertise |
 | [2021Erfan@twitter](https://twitter.com/2021Erfan/status/1656025224477917184) | advertise |
 | [2022hoky@twitter](https://twitter.com/2022hoky/status/1559692337382469632) | advertise |
+| [2244Hama22448@twitter](https://twitter.com/2244Hama22448/status/1659726075050569729) | advertise |
 | [4353_37@twitter](https://twitter.com/4353_37/status/1613146692542496769) | advertise |
 | [5050Tbc@twitter](https://twitter.com/5050Tbc/status/1532708767481090052) | advertise |
 | [8953Ntt@twitter](https://twitter.com/8953Ntt/status/1600774448172630024) | advertise |
@@ -2300,8 +2301,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3168,6 +3169,7 @@ Do not create new issue or we will close it as duplicate.
 | [eosvn@twitter](https://twitter.com/eosvn/status/1420285303550402795) | advertise |
 | [ephraimjohn@twitter](https://twitter.com/ephraimjohn/status/1405409670395797512) | advertise |
 | [EpiccIm@twitter](https://twitter.com/EpiccIm/status/1577936441060966401) | advertise |
+| [ErAdityaMehra@twitter](https://twitter.com/ErAdityaMehra/status/1659725834557464579) | advertise |
 | [erbuc@twitter](https://twitter.com/erbuc/status/1615971030996226048) | advertise |
 | [Eren41747723@twitter](https://twitter.com/Eren41747723/status/1389218655712448512) | advertise |
 | [ErenAkkus_@twitter](https://twitter.com/ErenAkkus_/status/1592623222113067008) | advertise |
