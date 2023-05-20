@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,334 |
+| com | 6,335 |
 | social | 4,048 |
 | net | 3,206 |
 | org | 2,219 |
@@ -3998,6 +3998,7 @@ Here's a list of public Fediverse services.
 | `birdtu.be` | No |
 | `biribiri.de` | No |
 | `biribiri.dev` | No |
+| `birming.se` | No |
 | `birth-online.de` | No |
 | `birthday.cat` | No |
 | `bisby.xyz` | No |
@@ -13899,6 +13900,7 @@ Here's a list of public Fediverse services.
 | `goggles.social` | No |
 | `gogn.in` | Yes |
 | `gogobonobo.net` | No |
+| `gogols.monster` | No |
 | `gogolscircus.com` | No |
 | `gogu.ma` | Yes |
 | `gohan-oisii.net` | No |
@@ -24849,6 +24851,7 @@ Here's a list of public Fediverse services.
 | `nachtsonnen.de` | No |
 | `nachttaenzer.de` | No |
 | `nacika.com` | No |
+| `nacorid.com` | No |
 | `nacq.me` | No |
 | `nadajemy.com` | Yes |
 | `nadajnik.org` | Yes |
@@ -26895,6 +26898,7 @@ Here's a list of public Fediverse services.
 | `omba.nl` | Yes |
 | `ombidombi.de` | No |
 | `ombreport.info` | No |
+| `omedia.cloud` | Yes |
 | `omega-bytes.com` | No |
 | `omeganote.fr` | No |
 | `omeowgle.com` | Yes |
@@ -28169,6 +28173,7 @@ Here's a list of public Fediverse services.
 | `performing-arts.ch` | No |
 | `performingart.online` | No |
 | `perfumefan.jp` | No |
+| `pericia.fr` | Yes |
 | `pericles.hu` | No |
 | `pericles.world` | No |
 | `pericoloso.ovh` | No |
@@ -30659,6 +30664,7 @@ Here's a list of public Fediverse services.
 | `relay.soy` | No |
 | `relaychat.party` | No |
 | `relayfm.social` | No |
+| `relib.re` | No |
 | `relict.one` | Yes |
 | `relict.space` | No |
 | `religious.social` | No |
@@ -38975,6 +38981,7 @@ Here's a list of public Fediverse services.
 | `very.photos` | Yes |
 | `verya.pe` | No |
 | `veryamt.com` | Yes |
+| `veryboring.art` | No |
 | `veryinteresting.cool` | No |
 | `verylofi.com` | No |
 | `verysleepy.dog` | No |
@@ -41837,8 +41844,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,583 |
-| Normal | 31,211 |
+| Cloudflare | 10,585 |
+| Normal | 31,216 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
