@@ -166,6 +166,7 @@ sberbank.avito.avito.sber.avisber.avicovid19.9jadailyfeeds.com
 sberbank.avito.git.git.covid19.9jadailyfeeds.com
 sberbank.avito.sber.avito.sber.sberbank.covid19.911templates.com
 sberbank.avito.www.git.git.git.covid19.9jadailyfeeds.com
+sberbank.sber.avito.avito.git.git.covid19.9jadailyfeeds.com
 sberbank.www.git.git.git.git.covid19.9jadailyfeeds.com
 tickets.97team.co.uk
 viewsnet-update.99light.cn
