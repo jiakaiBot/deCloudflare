@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [When deployed I am detected](https://github.com/ugorsahin/ChatGPT_Automation/issues/14)
+- [Types not found - robodux](https://github.com/esm-dev/esm.sh/issues/639)
 - [WiFi card not detected - Intel 9461](https://github.com/home-assistant/operating-system/issues/2554)
 - [Is there proxy support?](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT/issues/119)
 - [bootgrid currentP>1000 ERROR](https://github.com/WWBN/AVideo/issues/8043)
