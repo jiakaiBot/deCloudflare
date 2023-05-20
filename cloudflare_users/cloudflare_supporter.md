@@ -10397,6 +10397,7 @@ Do not create new issue or we will close it as duplicate.
 | [ShyZ97166261@twitter](https://twitter.com/ShyZ97166261/status/1377466338998853634) | advertise |
 | [siamak1989@twitter](https://twitter.com/siamak1989/status/1576508766203564032) | advertise |
 | [SiatIslam@twitter](https://twitter.com/SiatIslam/status/1491031974945116160) | advertise |
+| [SiatuaSolomona@twitter](https://twitter.com/SiatuaSolomona/status/1660030029361987584) | advertise |
 | [siavash76842516@twitter](https://twitter.com/siavash76842516/status/1585011335670419457) | advertise |
 | [Siawash38631169@twitter](https://twitter.com/Siawash38631169/status/1398424893822222337) | advertise |
 | [Sid88528306@twitter](https://twitter.com/Sid88528306/status/1398217281381961734) | advertise |
