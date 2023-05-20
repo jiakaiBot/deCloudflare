@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,336 |
+| com | 6,337 |
 | social | 4,048 |
 | net | 3,206 |
 | org | 2,219 |
@@ -6948,6 +6948,7 @@ Here's a list of public Fediverse services.
 | `coolpenguins.nl` | Yes |
 | `coolshit.social` | Yes |
 | `coolsite.win` | No |
+| `coolsma.com` | No |
 | `coolsocial.club` | No |
 | `coolstarship.blog` | No |
 | `cooltux.net` | No |
@@ -41850,7 +41851,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,584 |
-| Normal | 31,222 |
+| Normal | 31,223 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
