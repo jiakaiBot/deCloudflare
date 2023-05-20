@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,335 |
+| com | 6,336 |
 | social | 4,048 |
 | net | 3,206 |
 | org | 2,219 |
@@ -6771,6 +6771,7 @@ Here's a list of public Fediverse services.
 | `communistparty.org.uk` | No |
 | `communists.world` | No |
 | `community-patriots.social` | Yes |
+| `communitynetwork.us` | No |
 | `comnetcomdotnet.org` | No |
 | `comofas.org` | No |
 | `comomo.biz` | No |
@@ -14731,6 +14732,7 @@ Here's a list of public Fediverse services.
 | `haqueers.com` | No |
 | `harahar.com` | No |
 | `haram.kim` | No |
+| `harbick.com` | No |
 | `harbour.cafe` | No |
 | `hardboiled.app` | No |
 | `hardcoredevs.com` | No |
@@ -27322,7 +27324,7 @@ Here's a list of public Fediverse services.
 | `osechin.co` | No |
 | `oseka.xyz` | No |
 | `osfree.org` | No |
-| `osgeo.org` | No |
+| `osgeo.org` | Yes |
 | `oshiete-programming.net` | No |
 | `oshiteku.app` | No |
 | `oshotestnet.co.uk` | No |
@@ -39401,6 +39403,7 @@ Here's a list of public Fediverse services.
 | `vulpes.one` | No |
 | `vulpes.work` | No |
 | `vulpine.club` | Yes |
+| `vulpine.engineer` | No |
 | `vulpini.zone` | Yes |
 | `vulpo.one` | Yes |
 | `vulturion.com` | No |
@@ -41846,8 +41849,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,583 |
-| Normal | 31,220 |
+| Cloudflare | 10,584 |
+| Normal | 31,222 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
