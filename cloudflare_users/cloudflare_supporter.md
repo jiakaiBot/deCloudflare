@@ -7113,6 +7113,7 @@ Do not create new issue or we will close it as duplicate.
 | [metimeister@twitter](https://twitter.com/metimeister/status/1577456031071977473) | advertise |
 | [metoporizo@twitter](https://twitter.com/metoporizo/status/1461211384482611201) | advertise |
 | [metro3_@twitter](https://twitter.com/metro3_/status/1619105918066761729) | advertise |
+| [metroplus_@twitter](https://twitter.com/metroplus_/status/1659920077855281153) | advertise |
 | [MetrotechsInc@twitter](https://twitter.com/MetrotechsInc/status/1570253772013592576) | advertise |
 | [meu2p@twitter](https://twitter.com/meu2p/status/1486055370800111618) | advertise |
 | [MeVlezz@twitter](https://twitter.com/MeVlezz/status/1396832967700271116) | advertise |
