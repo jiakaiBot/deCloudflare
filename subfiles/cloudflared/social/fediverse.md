@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,048 |
 | net | 3,206 |
 | org | 2,219 |
-| de | 2,103 |
+| de | 2,104 |
 
 
 - Mastodon, Pleroma, etc
@@ -11228,7 +11228,7 @@ Here's a list of public Fediverse services.
 | `farted.net` | No |
 | `farthinghalearms.com` | No |
 | `fartmail.me` | No |
-| `farts.club` | Yes |
+| `farts.club` | No |
 | `farts.social` | No |
 | `farty.org` | No |
 | `farwalker.ca` | No |
@@ -18673,6 +18673,7 @@ Here's a list of public Fediverse services.
 | `kinu.ml` | Yes |
 | `kinugasa.me` | No |
 | `kinuseka.us` | Yes |
+| `kinyu.cyou` | Yes |
 | `kinyutaka.com` | No |
 | `kio.moe` | Yes |
 | `kiobu.dev` | No |
@@ -23643,6 +23644,7 @@ Here's a list of public Fediverse services.
 | `mo.social` | No |
 | `mo.tt` | No |
 | `moa.st` | Yes |
+| `moahr.de` | No |
 | `moar.wine` | No |
 | `moarrensis.org` | Yes |
 | `mob-con.com` | No |
@@ -27760,7 +27762,7 @@ Here's a list of public Fediverse services.
 | `pantsfree.cc` | No |
 | `pantsmanuk.org` | No |
 | `pantsu.biz` | Yes |
-| `pantsu.life` | Yes |
+| `pantsu.life` | No |
 | `panxatony.net` | No |
 | `panxl.net` | No |
 | `panzner.net` | No |
@@ -34678,7 +34680,7 @@ Here's a list of public Fediverse services.
 | `stilobique.com` | No |
 | `stimky.one` | No |
 | `stiniog.social` | No |
-| `stinkt.online` | Yes |
+| `stinkt.online` | No |
 | `stinkytoot.social` | Yes |
 | `stix.top` | No |
 | `stkr.dev` | Yes |
@@ -41844,8 +41846,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,585 |
-| Normal | 31,216 |
+| Cloudflare | 10,583 |
+| Normal | 31,220 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
