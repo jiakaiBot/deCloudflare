@@ -778,6 +778,7 @@ zmail.yogaplace.by
 3ds-gate.yoomoney.ru
 altaraskin-sample.website.yandexcloud.net
 api.yaanimail.com
+api.yxlaba.com
 app-805-user-drawer-apps.dev.yesh.id
 app-rename-identities-to-users.dev.yesh.id
 app-update-user-org-group.dev.yesh.id
@@ -798,6 +799,7 @@ beyazlar1.yapimasamasi.site
 birtekbranda.yapimasamasi.site
 blablacar.sber.avito.git.git.git.covid19.youhollywood.com
 blablacar.sberbank.git.git.git.covid19.youhollywood.com
+blog.antispam.yominus.com
 blog.git.gitlab.git.gitlab.yabai.si
 bs.yandex.ru
 capi.yaanimail.com
@@ -819,6 +821,7 @@ cs-stage.yieldoptimizer.com
 cv.youbuy.com
 dhrishti.yottaasys.com
 diehard.yandex.ru
+discourse.yomis.blog
 dms-afzkamzv7breport.wc.yahoodns.net
 dms-ao30i6s2u7report.wc.yahoodns.net
 dms-b4dv9g4fhvreport.wc.yahoodns.net
@@ -850,6 +853,7 @@ irancellsupport.yiff.fi
 item-shopping.c.yimg.jp
 jdata.yuanta.com.tw
 kids.yahoo.co.jp
+l6eyeznhydwhmuvo.zuoevos0zjyxuub.antispam.yominus.com
 lululemon-perf-pfpc.yantriks.com
 lync.jp.yazaki.com
 m.youtopia.com
@@ -857,6 +861,7 @@ mar.your-meds.co.uk
 mariam.yoors.date
 mc.yandex.com
 media.yenimedya.com.tr
+monitoring.yesss.at
 monitoring.yukawa.de
 mymoodle.youcube.co.il
 mypartner-uat.yuanta.com.tw
@@ -927,6 +932,8 @@ www.beyazlar1.yapimasamasi.site
 www.birtekbranda.yapimasamasi.site
 www.bismj.yapimjaya.sch.id
 www.booking.yaalmozhipainting.in
+www.boulogne-billancourt.yabstudio.fr
+www.busbooking.yaykar.com
 www.city.yonago.lg.jp
 www.client-ing.yackon.com
 www.contactme.yusufhamitkaya.com
@@ -993,6 +1000,7 @@ www.yourstrulycardco.ca
 www.youthline.co.nz
 www.youtube-nocookie.com
 www.youtubeluxfer.com
+www.yratom.cymru
 www.ysbootlegs.eu
 www.yuiko.fr
 www.yummymummykitchen.com
@@ -1058,6 +1066,7 @@ yorkshiredance.com
 yoseopawnshop.com
 yosscastillo.com
 yottlyscript.com
+you-tubemoney.xyz
 youhue.com
 youmesushi.com
 youmorestore.com.br
@@ -1083,11 +1092,11 @@ yourwebproject.net
 youthincmag.com
 youthinvest.global
 youtubetransfer.com
+youutbe.com
 youuup.net
 youxxxvideo.net
 youyizz.com
 yplistingasso.ypbizhub.com.hk
-ypredict-beta.com
 ysajielectronica.com.py
 ytboost.info
 yuira.jp
