@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [WiFi card not detected - Intel 9461](https://github.com/home-assistant/operating-system/issues/2554)
 - [Is there proxy support?](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT/issues/119)
 - [bootgrid currentP>1000 ERROR](https://github.com/WWBN/AVideo/issues/8043)
 - [Error when attempting to get response from character](https://github.com/kramcat/CharacterAI/issues/11)
