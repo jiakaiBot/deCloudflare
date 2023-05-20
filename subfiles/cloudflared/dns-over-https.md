@@ -160,6 +160,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | gztech.me | Yes |
 | hafidzradhival.my.id | Yes |
 | hahnjo.de | No |
+| hanahira.dev | Yes |
 | haneulo.com | Yes |
 | haoxuan.xyz | Yes |
 | he.net | No |
@@ -361,8 +362,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 161 |
+| Cloudflare | 162 |
 | Normal | 181 |
 
 
-### 47.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
