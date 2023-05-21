@@ -6709,7 +6709,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -35622,6 +35622,7 @@ Here's a list of public Fediverse services.
 | `tantor.online` | No |
 | `tantrum.org` | No |
 | `tanudon.com` | No |
+| `tanukey.chat` | Yes |
 | `tanukey.work` | Yes |
 | `tanukitsu.net` | No |
 | `tanukitunes.com` | No |
@@ -37065,7 +37066,7 @@ Here's a list of public Fediverse services.
 | `toeushimwk.work` | No |
 | `toftmadsen.org` | No |
 | `tofu.city` | Yes |
-| `tofu.kim` | Yes |
+| `tofu.kim` | No |
 | `tofu.pt` | No |
 | `tofulab.jp` | No |
 | `tog.scot` | No |
@@ -41863,7 +41864,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,588 |
+| Cloudflare | 10,589 |
 | Normal | 31,232 |
 
 
