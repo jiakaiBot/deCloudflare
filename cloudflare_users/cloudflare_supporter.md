@@ -6200,6 +6200,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lamm05365016@twitter](https://twitter.com/Lamm05365016/status/1391000000960679942) | advertise |
 | [Lamnguy05855970@twitter](https://twitter.com/Lamnguy05855970/status/1404209186574016513) | advertise |
 | [Lan66639716@twitter](https://twitter.com/Lan66639716/status/1473305527526379524) | advertise |
+| [LanaLailana@twitter](https://twitter.com/LanaLailana/status/1660406381923692547) | advertise |
 | [LanceDdot@twitter](https://twitter.com/LanceDdot/status/1407342921842663426) | advertise |
 | [LandonDenton2@twitter](https://twitter.com/LandonDenton2/status/1603850034436575248) | advertise |
 | [landonhalley123@twitter](https://twitter.com/landonhalley123/status/1390408352660955140) | advertise |
