@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,339 |
-| social | 4,050 |
-| net | 3,209 |
+| com | 6,340 |
+| social | 4,052 |
+| net | 3,210 |
 | org | 2,220 |
 | de | 2,104 |
 
@@ -4546,6 +4546,7 @@ Here's a list of public Fediverse services.
 | `bookwar.info` | No |
 | `bookwitty.social` | Yes |
 | `bookwor.ms` | No |
+| `bookworm.nz` | No |
 | `bookwyrm.de` | No |
 | `bookwyrm.social` | No |
 | `bookwyrm.tech` | No |
@@ -6645,6 +6646,7 @@ Here's a list of public Fediverse services.
 | `coinchan.com` | No |
 | `coindesk.com` | Yes |
 | `coinfundit.com` | Yes |
+| `coinop.social` | No |
 | `coisas.dev.br` | No |
 | `coisland.xyz` | No |
 | `cojo.uno` | No |
@@ -7225,6 +7227,7 @@ Here's a list of public Fediverse services.
 | `cri.dev` | Yes |
 | `criadoperez.com` | No |
 | `crid.land` | No |
+| `crikey.social` | No |
 | `crime.cafe` | No |
 | `crime.group` | No |
 | `crime.st` | No |
@@ -14847,6 +14850,7 @@ Here's a list of public Fediverse services.
 | `haven.family` | No |
 | `havent.org` | No |
 | `havlow.com` | Yes |
+| `havn.blog` | No |
 | `hawaga.org.uk` | No |
 | `hawaii247.social` | No |
 | `hawaiiboy.me` | No |
@@ -19504,6 +19508,7 @@ Here's a list of public Fediverse services.
 | `ladisquette.fr` | No |
 | `ladn.org` | No |
 | `ladon-dragon.net` | Yes |
+| `ladragonera.com` | No |
 | `laenredadera.org` | No |
 | `laeran.pl` | Yes |
 | `laernorsk.no` | No |
@@ -20078,6 +20083,7 @@ Here's a list of public Fediverse services.
 | `lex-blog.eu` | No |
 | `lexa.red` | No |
 | `lexcom.cloud` | Yes |
+| `lexevo.net` | Yes |
 | `lexi-hexi.eu` | No |
 | `lexicomancia.com` | No |
 | `lexie.space` | No |
@@ -30097,7 +30103,7 @@ Here's a list of public Fediverse services.
 | `radig.social` | No |
 | `radikal.social` | No |
 | `radio.af` | Yes |
-| `radio.fm` | Yes |
+| `radio.fm` | No |
 | `radioaconchego.org` | No |
 | `radioalmaina.org` | No |
 | `radiobrony.live` | No |
@@ -41866,7 +41872,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,590 |
-| Normal | 31,232 |
+| Normal | 31,238 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
