@@ -511,7 +511,7 @@ Here's a list of public Fediverse services.
 | `5505.industries` | Yes |
 | `551.social` | No |
 | `56k.es` | No |
-| `56k.social` | No |
+| `56k.social` | Yes |
 | `56k.space` | No |
 | `56ksocial.com` | No |
 | `575don.club` | No |
@@ -8031,6 +8031,7 @@ Here's a list of public Fediverse services.
 | `darkstar.social` | No |
 | `darktable.org.es` | No |
 | `darktech.org` | No |
+| `darktundra.xyz` | Yes |
 | `darkwitch.net` | Yes |
 | `darkyonmasto.ch` | No |
 | `darlow.co.uk` | No |
@@ -20583,7 +20584,7 @@ Here's a list of public Fediverse services.
 | `lndvll.se` | Yes |
 | `lnk.co.ua` | No |
 | `lnkk.app` | No |
-| `lnkr.dev` | Yes |
+| `lnkr.dev` | No |
 | `lnm.jp` | No |
 | `lnsystems.de` | Yes |
 | `lnxt.cloud` | No |
@@ -24549,7 +24550,7 @@ Here's a list of public Fediverse services.
 | `musiq.fan` | Yes |
 | `muskless.social` | No |
 | `muskodon.ml` | No |
-| `muskodon.social` | Yes |
+| `muskodon.social` | No |
 | `musksocial.com` | No |
 | `musktodon.de` | Yes |
 | `muslims.net.in` | No |
@@ -41863,7 +41864,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,588 |
-| Normal | 31,231 |
+| Normal | 31,232 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
