@@ -9875,6 +9875,7 @@ Do not create new issue or we will close it as duplicate.
 | [rushimovaliya@twitter](https://twitter.com/rushimovaliya/status/1400114095857094659) | advertise |
 | [Ruslan90544622@twitter](https://twitter.com/Ruslan90544622/status/1656024205819879480) | advertise |
 | [ruslan_ferrales@twitter](https://twitter.com/ruslan_ferrales/status/1450044589293834242) | advertise |
+| [RussDionne@twitter](https://twitter.com/RussDionne/status/1660107935513731072) | advertise |
 | [ruteesh2@twitter](https://twitter.com/ruteesh2/status/1387396067554205699) | advertise |
 | [Rxchannel123@twitter](https://twitter.com/Rxchannel123/status/1597292640524902400) | advertise |
 | [ryan171197@twitter](https://twitter.com/ryan171197/status/1396728837900099589) | advertise |
