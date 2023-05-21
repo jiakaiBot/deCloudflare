@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,339 |
 | social | 4,050 |
-| net | 3,208 |
+| net | 3,209 |
 | org | 2,220 |
 | de | 2,104 |
 
@@ -22691,6 +22691,7 @@ Here's a list of public Fediverse services.
 | `meeps.dk` | No |
 | `meerjungfrauengrotte.de` | No |
 | `meetiko.org` | Yes |
+| `meetplay.net` | Yes |
 | `meetwoof.com` | Yes |
 | `meety.me` | No |
 | `mef.gg` | Yes |
@@ -41864,7 +41865,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,589 |
+| Cloudflare | 10,590 |
 | Normal | 31,232 |
 
 
