@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,342 |
+| com | 6,343 |
 | social | 4,052 |
 | net | 3,210 |
 | org | 2,220 |
@@ -16999,6 +16999,7 @@ Here's a list of public Fediverse services.
 | `iwamidon.tech` | No |
 | `iwanthorror.social` | No |
 | `iwascoding.com` | No |
+| `iwasea.blue` | Yes |
 | `iwata.love` | No |
 | `iwatedon.net` | No |
 | `iway.social` | No |
@@ -30055,6 +30056,7 @@ Here's a list of public Fediverse services.
 | `rabbinicorn.com` | No |
 | `rabbit-house.jp` | No |
 | `rabbit-house.me` | No |
+| `rabbit-paradise.com` | Yes |
 | `rabbit.country` | No |
 | `rabbit.tel` | No |
 | `rabbit.zone` | No |
@@ -41876,7 +41878,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,594 |
+| Cloudflare | 10,596 |
 | Normal | 31,239 |
 
 
