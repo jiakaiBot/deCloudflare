@@ -10497,7 +10497,7 @@ Here's a list of public Fediverse services.
 | `entertheempty.space` | No |
 | `entheoconnect.social` | No |
 | `entire.social` | Yes |
-| `entire.vc` | No |
+| `entire.vc` | Yes |
 | `entire.website` | Yes |
 | `entomophagy.world` | No |
 | `entouragemag.net` | No |
@@ -14965,6 +14965,7 @@ Here's a list of public Fediverse services.
 | `heer.xyz` | No |
 | `heewch.com` | No |
 | `heff.fyi` | No |
+| `heffalump.club` | No |
 | `heffalump.party` | No |
 | `heffley.social` | No |
 | `heftehaufen.de` | No |
@@ -38510,6 +38511,7 @@ Here's a list of public Fediverse services.
 | `unmondemeilleur.eu` | No |
 | `unmus.de` | No |
 | `unmusked.social` | No |
+| `unmute.community` | No |
 | `unnecessary.tech` | Yes |
 | `unnerv.jp` | No |
 | `unnovae.net` | No |
@@ -41874,8 +41876,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,593 |
-| Normal | 31,238 |
+| Cloudflare | 10,594 |
+| Normal | 31,239 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
