@@ -6350,6 +6350,7 @@ Do not create new issue or we will close it as duplicate.
 | [libyeehor@twitter](https://twitter.com/libyeehor/status/1376858783650086914) | advertise |
 | [LiciakhuzwayoS@twitter](https://twitter.com/LiciakhuzwayoS/status/1403715246741729284) | advertise |
 | [lickyfail@twitter](https://twitter.com/lickyfail/status/1552306981024964608) | advertise |
+| [lida102046@twitter](https://twitter.com/lida102046/status/1660292055296544768) | advertise |
 | [LiddleBRM@twitter](https://twitter.com/LiddleBRM/status/1405115490016456707) | advertise |
 | [Liem36155@twitter](https://twitter.com/Liem36155/status/1479395801767899137) | advertise |
 | [liem65303490@twitter](https://twitter.com/liem65303490/status/1486855188426080258) | advertise |
@@ -9691,6 +9692,7 @@ Do not create new issue or we will close it as duplicate.
 | [REYNARDPERMEJO@twitter](https://twitter.com/REYNARDPERMEJO/status/1588537048193183744) | advertise |
 | [rezaam23599399@twitter](https://twitter.com/rezaam23599399/status/1645862494509092864) | advertise |
 | [RezaeShahram@twitter](https://twitter.com/RezaeShahram/status/1583969859041230848) | advertise |
+| [rezafahlv@twitter](https://twitter.com/rezafahlv/status/1660182400939462658) | advertise |
 | [rezagolami_98@twitter](https://twitter.com/rezagolami_98/status/1501473867461799936) | advertise |
 | [Rezam39708754@twitter](https://twitter.com/Rezam39708754/status/1634771035034640389) | advertise |
 | [RezaulK30725462@twitter](https://twitter.com/RezaulK30725462/status/1529533295041875970) | advertise |
@@ -9877,6 +9879,7 @@ Do not create new issue or we will close it as duplicate.
 | [ruslan_ferrales@twitter](https://twitter.com/ruslan_ferrales/status/1450044589293834242) | advertise |
 | [RussDionne@twitter](https://twitter.com/RussDionne/status/1660107935513731072) | advertise |
 | [ruteesh2@twitter](https://twitter.com/ruteesh2/status/1387396067554205699) | advertise |
+| [RuthAbrham2@twitter](https://twitter.com/RuthAbrham2/status/1660299561930293248) | advertise |
 | [Rxchannel123@twitter](https://twitter.com/Rxchannel123/status/1597292640524902400) | advertise |
 | [ryan171197@twitter](https://twitter.com/ryan171197/status/1396728837900099589) | advertise |
 | [RyanDahlberg@twitter](https://twitter.com/RyanDahlberg/status/1504805050249588740) | advertise |
