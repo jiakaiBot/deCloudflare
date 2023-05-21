@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,340 |
+| com | 6,341 |
 | social | 4,052 |
 | net | 3,210 |
 | org | 2,220 |
@@ -2412,6 +2412,7 @@ Here's a list of public Fediverse services.
 | `aroah.website` | Yes |
 | `aroaminggeek.com` | No |
 | `arofarn.info` | No |
+| `aronwarren.com` | No |
 | `arousal.support` | No |
 | `arpadblog.hu` | No |
 | `arpakuut.io` | Yes |
@@ -24868,7 +24869,7 @@ Here's a list of public Fediverse services.
 | `nachtsonnen.de` | No |
 | `nachttaenzer.de` | No |
 | `nacika.com` | No |
-| `nacorid.com` | No |
+| `nacorid.com` | Yes |
 | `nacq.me` | No |
 | `nadajemy.com` | Yes |
 | `nadajnik.org` | Yes |
@@ -31534,6 +31535,7 @@ Here's a list of public Fediverse services.
 | `runninginthenight.com` | No |
 | `runningwithbulls.com` | No |
 | `runorsmile.de` | No |
+| `runs-on.beer` | No |
 | `runserver.co` | No |
 | `runstop.org` | Yes |
 | `runtube.re` | No |
@@ -41871,8 +41873,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,590 |
-| Normal | 31,238 |
+| Cloudflare | 10,591 |
+| Normal | 31,239 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
