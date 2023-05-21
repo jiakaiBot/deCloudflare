@@ -8538,6 +8538,7 @@ Do not create new issue or we will close it as duplicate.
 | [nungcac1102@twitter](https://twitter.com/nungcac1102/status/1526476969516290049) | advertise |
 | [nunglon69@twitter](https://twitter.com/nunglon69/status/1394141657029771267) | advertise |
 | [nunu07478979@twitter](https://twitter.com/nunu07478979/status/1403025110508789761) | advertise |
+| [Nuri7hussainy@twitter](https://twitter.com/Nuri7hussainy/status/1660419418944425986) | advertise |
 | [NurseSmit@twitter](https://twitter.com/NurseSmit/status/1549786161442332673) | advertise |
 | [nurunnabi56@twitter](https://twitter.com/nurunnabi56/status/1560217013288861696) | advertise |
 | [nuttawoot33150@twitter](https://twitter.com/nuttawoot33150/status/1557336093254569984) | advertise |
