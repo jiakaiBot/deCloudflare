@@ -12076,6 +12076,7 @@ Do not create new issue or we will close it as duplicate.
 | [uprise_s@twitter](https://twitter.com/uprise_s/status/1407659965129629696) | advertise |
 | [Upwader@twitter](https://twitter.com/Upwader/status/1612132167278284800) | advertise |
 | [URabiullah@twitter](https://twitter.com/URabiullah/status/1490471474808897538) | advertise |
+| [urbanmagazine@twitter](https://twitter.com/urbanmagazine/status/1660352600259141633) | advertise |
 | [uriodav81@twitter](https://twitter.com/uriodav81/status/1647503643757649920) | advertise |
 | [URkar3@twitter](https://twitter.com/URkar3/status/1395564448207704066) | advertise |
 | [us5bowling@twitter](https://twitter.com/us5bowling/status/1598492947045031938) | advertise |
