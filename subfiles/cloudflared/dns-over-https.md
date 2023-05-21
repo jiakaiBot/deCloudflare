@@ -50,7 +50,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | bancuh.com | No |
 | bcandrade.ml | No |
 | bebasid.com | Yes |
-| beliefanx.cn | No |
 | belnet.be | No |
 | benpro.fr | Yes |
 | bit-trail.nl | No |
@@ -77,8 +76,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | clearviewtechnology.net | No |
 | cloudflare-dns.com | Yes |
 | cloudnx.cloud | Yes |
-| clroot.io | Yes |
-| codepays.net | No |
 | cola16.app | Yes |
 | comeonjames.club | Yes |
 | comss.one | No |
@@ -122,7 +119,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | doh.buzz | No |
 | doh.lv | No |
 | doh.sb | Yes |
-| dotls.org | Yes |
 | dscloud.me | No |
 | duckdns.org | Yes |
 | dukun.de | No |
@@ -147,7 +143,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | filipccz.eu | Yes |
 | flm9.net | No |
 | flodns.net | No |
-| flymc.cc | Yes |
 | fomichev.cloud | Yes |
 | fresh-waffles.online | Yes |
 | froth.zone | No |
@@ -211,7 +206,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | leadmon.net | No |
 | lefolgoc.net | No |
 | lekdijk.online | No |
-| limotelu.org | Yes |
 | lindung.pp.ua | Yes |
 | linkr.ninja | No |
 | lsasss.com | No |
@@ -254,7 +248,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | node15.com | Yes |
 | nolo.ltd | Yes |
 | nomu.pw | No |
-| norvig.dk | Yes |
 | novali.date | Yes |
 | ns3.com | No |
 | ns3.cx | No |
@@ -362,8 +355,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 162 |
-| Normal | 181 |
+| Cloudflare | 157 |
+| Normal | 179 |
 
 
-### 47.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
