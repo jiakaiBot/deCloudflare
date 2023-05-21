@@ -824,6 +824,7 @@ adfs.zu.de
 adpsecer.zyns.com
 all-movil.zapgoogle.co.il
 amiram.zedtec.ro
+api-app.zumrails.com
 api-dev.zt-ft.com
 api-shipp.zipi.app
 api-sprint.zlip2x.com
@@ -832,6 +833,7 @@ api.zt-ft.com
 api.zurich.de
 ares.zixcentral.com
 assessments.zfco.com
+author.zerocodesite.com
 autodiscover.zandunews.in
 autodiscover.zentuber.com
 avito.avito.avito.avito.sber.git.covid19.zlclubmarket.com
@@ -850,6 +852,7 @@ baramundi.zugspitze.de
 beni-s.zapgoogle.co.il
 betadrive.zoho.eu
 burger-saloon.zapgoogle.co.il
+cache-video-server-03.zeop.tv
 cache4.zapitv.com
 captcha.zerozendesign.com
 cefdasds.zyns.com
@@ -894,10 +897,12 @@ jp.zaloapp.com
 lf26-thundercdn-tos.zjfcdn.com
 live-streaming.zegna.cn
 login.ziraatbankanturkey.com
+lyncdiscoverinternal.zaremba.net
 mail.zasgroup.com
 mail.zeusassociate.com
 media-user-automix-mainland-multi-bj-base.zego.im
 meet.zoose.us
+member.zeonmedical.co.jp
 monitoring.zeitraum.io
 monitoring.zozo.gg
 mta-sts.www.hariridevelopment.zmverify.zoho.co
@@ -999,15 +1004,18 @@ www.alternativnamedicina.com.mk.zemi.net.mk
 www.apply.zarnab.pk
 www.atomobeta.zenservice.com.br
 www.atomoplay.zenservice.com.br
+www.author.zerocodesite.com
 www.authoralexamit.zivamit.co.il
 www.backend.zumaridiafrica.com
 www.billing.z32580-tw40f.ls01.zwhhosting.com
 www.clientes.zetaarquitetura.com.br
+www.corporate-1.zachaphotography.net
 www.creditoz.zaddystudio.com.ng
 www.creditrepairstlouis.com.zim4.com
 www.customer.ztotowing.online
 www.fall-banquet-2017.zetapsihfx.com
 www.fokuser.zalozba-chiara.si
+www.fooddelivery.zezobusiness.com
 www.gemeinschaft-der-deutschen.eu.zajednica-nijemaca.hr
 www.habib.zetechbd.com
 www.hariridevelopment.zmverify.zoho.co
@@ -1045,7 +1053,9 @@ www.zeusaiofficial.com
 www.zeusconta.ro
 www.zhouxiaohuir.com
 www.ziateresa.co.uk
+www.ziegel-kalkmuseum.de
 www.zielonawyspa.info
+www.zigwheels.com.au
 www.zionsbank.com
 www.zionsvillepercussion.com
 www.zipcruisetours.com
@@ -1085,6 +1095,7 @@ zamworg.com.co
 zanomics.com
 zantimes.com
 zanzibar.ca
+zaochno.site
 zapad.tv
 zapashoda.online
 zaphyrpro.com
