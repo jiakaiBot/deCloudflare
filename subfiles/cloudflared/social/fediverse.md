@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,341 |
+| com | 6,342 |
 | social | 4,052 |
 | net | 3,210 |
 | org | 2,220 |
@@ -18668,6 +18668,7 @@ Here's a list of public Fediverse services.
 | `kinkster.dk` | No |
 | `kinktroet.social` | No |
 | `kinkuroshideout.com` | Yes |
+| `kinkworks.com` | Yes |
 | `kinky.business` | Yes |
 | `kinkyelephant.com` | No |
 | `kinkytaboo.online` | No |
@@ -37957,7 +37958,7 @@ Here's a list of public Fediverse services.
 | `tusk.chat` | Yes |
 | `tusk.fyi` | No |
 | `tusk.social` | No |
-| `tusk.wtf` | No |
+| `tusk.wtf` | Yes |
 | `tusker.social` | Yes |
 | `tuskodon.com` | No |
 | `tusks.co` | No |
@@ -41873,8 +41874,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,591 |
-| Normal | 31,239 |
+| Cloudflare | 10,593 |
+| Normal | 31,238 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
