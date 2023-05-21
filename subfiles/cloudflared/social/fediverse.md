@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,337 |
-| social | 4,048 |
-| net | 3,206 |
-| org | 2,219 |
+| com | 6,339 |
+| social | 4,050 |
+| net | 3,208 |
+| org | 2,220 |
 | de | 2,104 |
 
 
@@ -4818,7 +4818,7 @@ Here's a list of public Fediverse services.
 | `brickshop.io` | No |
 | `brickwedde.social` | No |
 | `brid.gy` | No |
-| `bridgend.online` | Yes |
+| `bridgend.online` | No |
 | `bridgepattern.com` | No |
 | `bridport.pics` | No |
 | `bridport.social` | No |
@@ -7087,6 +7087,7 @@ Here's a list of public Fediverse services.
 | `cowdrey.net` | No |
 | `cowfee.moe` | No |
 | `cowfee.org` | No |
+| `cowingtonpost.com` | Yes |
 | `cowokr.de` | No |
 | `cox.rocks` | Yes |
 | `coxy.co` | Yes |
@@ -13906,6 +13907,7 @@ Here's a list of public Fediverse services.
 | `gogolscircus.com` | No |
 | `gogu.ma` | Yes |
 | `gohan-oisii.net` | No |
+| `goinghome.earth` | No |
 | `goip.de` | No |
 | `goisgod.com` | Yes |
 | `goji84.xyz` | No |
@@ -18722,6 +18724,7 @@ Here's a list of public Fediverse services.
 | `kisaan.social` | Yes |
 | `kish.social` | No |
 | `kishkush.net` | No |
+| `kisombrella.top` | No |
 | `kisskori.eu` | No |
 | `kisslolis.moe` | Yes |
 | `kissyourhomies.com` | No |
@@ -20100,6 +20103,7 @@ Here's a list of public Fediverse services.
 | `lgbtppl.com` | Yes |
 | `lgbtpzn.org` | No |
 | `lgbtq.cool` | No |
+| `lgbtqfaces.co.uk` | Yes |
 | `lgbtqia.is` | No |
 | `lgbtqia.space` | Yes |
 | `lgbtqiaplus.eu` | Yes |
@@ -25431,6 +25435,7 @@ Here's a list of public Fediverse services.
 | `network47.net` | No |
 | `networkaholic.net` | No |
 | `networked.community` | Yes |
+| `networked.family` | No |
 | `networked.space` | No |
 | `networker.social` | No |
 | `networkingnomad.net` | No |
@@ -26920,6 +26925,7 @@ Here's a list of public Fediverse services.
 | `omgwars.com` | No |
 | `omhnc.net` | Yes |
 | `omico.me` | Yes |
+| `omikron-alpha.net` | No |
 | `omimi.live` | Yes |
 | `omisosiru.net` | No |
 | `omniatv.com` | Yes |
@@ -28189,6 +28195,7 @@ Here's a list of public Fediverse services.
 | `perktold.xyz` | No |
 | `perl.social` | Yes |
 | `permaweb.io` | No |
+| `permi.in` | Yes |
 | `perorin.jp` | No |
 | `perriot.fr` | No |
 | `perron-service.de` | No |
@@ -32099,6 +32106,7 @@ Here's a list of public Fediverse services.
 | `scarfefamily.com` | No |
 | `scarlatti.de` | No |
 | `scarlet.house` | No |
+| `scarletheights.com` | No |
 | `scarletsisters.xyz` | Yes |
 | `scarly.pink` | No |
 | `scarrott.uk` | No |
@@ -32955,6 +32963,7 @@ Here's a list of public Fediverse services.
 | `shodan.io` | Yes |
 | `shodan.social` | No |
 | `shoddy.site` | No |
+| `shog.social` | No |
 | `shoghi.rocks` | Yes |
 | `shokanradio.com` | Yes |
 | `shoko.one` | No |
@@ -34021,6 +34030,7 @@ Here's a list of public Fediverse services.
 | `soundcheck.fr` | No |
 | `soundforsound.co.uk` | Yes |
 | `soundfury.net` | No |
+| `soundmod.social` | Yes |
 | `soundship.de` | No |
 | `soup6020.dev` | No |
 | `soupco.net` | Yes |
@@ -35720,6 +35730,7 @@ Here's a list of public Fediverse services.
 | `tbny.space` | No |
 | `tbo.social` | No |
 | `tbqdrn.de` | No |
+| `tbrn.org` | Yes |
 | `tbrnet.de` | No |
 | `tbrnt.ch` | No |
 | `tbs.social` | Yes |
@@ -36414,6 +36425,7 @@ Here's a list of public Fediverse services.
 | `themaymeow.com` | Yes |
 | `themays.me` | Yes |
 | `themazuma.net` | No |
+| `themazzarella.net` | No |
 | `themcbros.com` | Yes |
 | `themcphails.uk` | No |
 | `themelancholaholic.com` | No |
@@ -41850,8 +41862,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,584 |
-| Normal | 31,223 |
+| Cloudflare | 10,588 |
+| Normal | 31,231 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
