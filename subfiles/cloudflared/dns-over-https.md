@@ -116,6 +116,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dnshome.de | No |
 | dnslow.me | No |
 | doh.beauty | No |
+| doh.best | No |
 | doh.buzz | No |
 | doh.lv | No |
 | doh.sb | Yes |
@@ -208,6 +209,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lekdijk.online | No |
 | lindung.pp.ua | Yes |
 | linkr.ninja | No |
+| lonet.org | Yes |
 | lsasss.com | No |
 | lsho.top | Yes |
 | lz0724.com | No |
@@ -306,6 +308,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ssrahul96.xyz | Yes |
 | startupstack.tech | Yes |
 | stvsk.ml | No |
+| sungai.stream | Yes |
 | surfshark.com | Yes |
 | surt.ml | No |
 | switch.ch | No |
@@ -336,6 +339,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | vinnyp.xyz | Yes |
 | virga.pp.ua | Yes |
 | vmath.my.id | No |
+| vond.net | No |
 | waifu.cz | Yes |
 | wakgood.net | Yes |
 | wantaquddin.com | No |
@@ -355,8 +359,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 157 |
-| Normal | 179 |
+| Cloudflare | 159 |
+| Normal | 181 |
 
 
-### 46.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
