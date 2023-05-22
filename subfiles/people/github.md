@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Suddenly Dash. struggles through domain, works fine through local IP](https://github.com/ajnart/homarr/issues/971)
 - [context deadline exceeded (Client.Timeout exceeded while awaiting headers)](https://github.com/pterodactyl/panel/issues/4784)
 - [Typescript with Cloudflare](https://github.com/kwhitley/itty-router/issues/162)
 - [Cloudflare provider seems to be unable to re-create records](https://github.com/kubernetes-sigs/external-dns/issues/3621)
