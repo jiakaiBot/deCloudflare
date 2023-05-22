@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,344 |
-| social | 4,054 |
-| net | 3,210 |
+| com | 6,345 |
+| social | 4,055 |
+| net | 3,211 |
 | org | 2,220 |
 | de | 2,104 |
 
@@ -83,6 +83,7 @@ Here's a list of public Fediverse services.
 | `0px.io` | Yes |
 | `0q0.xyz` | No |
 | `0raptor.earth` | No |
+| `0rb.it` | Yes |
 | `0sakana.xyz` | Yes |
 | `0sand1s.net` | Yes |
 | `0sint.social` | No |
@@ -10593,6 +10594,7 @@ Here's a list of public Fediverse services.
 | `eragon.re` | No |
 | `eramne.com` | No |
 | `erase.nz` | Yes |
+| `erb.pw` | No |
 | `erch.co` | Yes |
 | `erch.social` | No |
 | `erdbeerbaerlp.de` | Yes |
@@ -25048,6 +25050,7 @@ Here's a list of public Fediverse services.
 | `nathanmcrae.name` | No |
 | `nathannelson.co.uk` | Yes |
 | `nathansw.de` | Yes |
+| `nathanwrigley.com` | Yes |
 | `nathrakh.de` | No |
 | `natio.ovh` | No |
 | `national-defence.network` | Yes |
@@ -25136,6 +25139,7 @@ Here's a list of public Fediverse services.
 | `ne-moni.work` | No |
 | `ne.codes` | Yes |
 | `ne0ndrag0n.com` | No |
+| `neachi.net` | No |
 | `nealgroothuis.name` | No |
 | `nealta.fr` | No |
 | `neamonitak.is` | No |
@@ -28233,6 +28237,7 @@ Here's a list of public Fediverse services.
 | `perspektivbrocken.org` | No |
 | `perthchat.org` | Yes |
 | `pertinent-ops.com` | No |
+| `pertsch.social` | No |
 | `pertur.be` | No |
 | `peruano.social` | No |
 | `pescada.pt` | No |
@@ -41884,8 +41889,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,599 |
-| Normal | 31,242 |
+| Cloudflare | 10,601 |
+| Normal | 31,245 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
