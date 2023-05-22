@@ -894,6 +894,7 @@ images.zmaildirect.com
 img01.ztat.net
 itau-ips-backoffice-frontend.itau-cartoes.zup.com.br
 jp.zaloapp.com
+lc.zoocdn.com
 lf26-thundercdn-tos.zjfcdn.com
 live-streaming.zegna.cn
 login.ziraatbankanturkey.com
@@ -903,6 +904,7 @@ mail.zeusassociate.com
 media-user-automix-mainland-multi-bj-base.zego.im
 meet.zoose.us
 member.zeonmedical.co.jp
+mmminio1.test01.zunicloud.de
 monitoring.zeitraum.io
 monitoring.zozo.gg
 mta-sts.www.hariridevelopment.zmverify.zoho.co
@@ -948,6 +950,7 @@ sberbank.avito.avito.avito.covid19.zlclubmarket.com
 sberbank.avito.avito.avito.git.gitlab.covid19.zlclubmarket.com
 sberbank.avito.avito.avito.sber.covid19.zlclubmarket.com
 sberbank.avito.avito.sber.avito.covid19.zapusk-million.ru
+sberbank.avito.blablacar.blablacar.covid19.zalive-akvilon.ru
 sberbank.avito.sber.avito.avito.avito.covid19.zepter-catalog.ru
 sberbank.avito.sber.avito.sber.covid19.zapusk-million.ru
 sberbank.avito.sber.avito.www.covid19.zapusk-million.ru
@@ -1000,6 +1003,7 @@ withinoutlooktechsupport.zohosites.com
 www.24hservice.zapweb.co.il
 www.account.zirconiadent.hu
 www.accountabuddy.zeromedia.com.au
+www.accounting.zhabes.com
 www.alternativnamedicina.com.mk.zemi.net.mk
 www.apply.zarnab.pk
 www.atomobeta.zenservice.com.br
@@ -1024,6 +1028,7 @@ www.paketbersihcepat.zonawanita.com
 www.payment.z24tv.com
 www.recovery-on-the-squa.zerohourlifecenter.org
 www.shanahotelnewyear.zinaoster.com
+www.twilighthomesecurity.com.zockpit.com
 www.uber.zinovylebed.com
 www.whatsapp.zenax.info
 www.wwwbbva-netcash-empresas-servicios-digitales.zonaseguridadenlineaspe.site
@@ -1042,6 +1047,7 @@ www.zappos.com
 www.zauber-feelica.de
 www.zauber-feelicia.de
 www.zazzle.co.jp
+www.zeaira.com
 www.zeantechservice.com
 www.zeantecservices.com
 www.zeitfuerdieschule.de
@@ -1064,6 +1070,7 @@ www.zjsfgkw.cn
 www.zkinu.xyz
 www.zlspotxmbet.vip
 www.zone-service.com
+www.zoomsaccount.com
 www.zoomtventertainment.com
 www.zovni.ovh
 www.zurtechinc.com
@@ -1127,6 +1134,7 @@ zeus99.asia
 zeusconta.ro
 zeuth.dk
 zhej78i1an8w6ceu.com
+zhonguowx.com
 zhozzaegaj.shop
 zhptrust.org
 zielianasupport.co.uk
@@ -1173,6 +1181,7 @@ zruakezes.shop
 zsbwoqpcxj.com
 zulfiyya.com
 zumbidospalmares.edu.br
+zummothailand.com
 zupan.hr
 zuqora.store
 zvetokr2hr8pcng09.com
