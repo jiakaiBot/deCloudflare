@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,343 |
+| com | 6,344 |
 | social | 4,053 |
 | net | 3,210 |
 | org | 2,220 |
@@ -15856,6 +15856,7 @@ Here's a list of public Fediverse services.
 | `huskyapp.dev` | Yes |
 | `huslage.com` | No |
 | `husq.tk` | No |
+| `husseinrashid.com` | Yes |
 | `hustlersquad.net` | Yes |
 | `hutaffe.blog` | No |
 | `hutch.chat` | Yes |
@@ -21637,7 +21638,7 @@ Here's a list of public Fediverse services.
 | `marginalea.online` | No |
 | `marginalie.eu` | No |
 | `margio.de` | Yes |
-| `margio.in` | Yes |
+| `margio.in` | No |
 | `margiovanni.com` | Yes |
 | `marijuanacomputer.com` | No |
 | `marimo-net.com` | Yes |
@@ -22059,7 +22060,7 @@ Here's a list of public Fediverse services.
 | `mastodon.in.th` | No |
 | `mastodon.in.ua` | No |
 | `mastodon.info` | No |
-| `mastodon.international` | Yes |
+| `mastodon.international` | No |
 | `mastodon.irish` | No |
 | `mastodon.is` | No |
 | `mastodon.ist` | No |
@@ -41879,8 +41880,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,597 |
-| Normal | 31,239 |
+| Cloudflare | 10,596 |
+| Normal | 31,241 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
