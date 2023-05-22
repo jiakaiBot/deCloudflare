@@ -106,13 +106,13 @@ Here's a list of public Matrix services.
 | sans-nuage.fr | No |
 | matrix.sibnsk.net | No |
 | socialnetwork24.com | No |
+| matrix.studichat.de | No |
 | matrix.supreme.sh | Yes |
 | synod.im | No |
 | matrix.tchncs.de | No |
 | matrix.techsaviours.org | No |
 | matrix.tedomum.net | No |
 | matrix.tomesh.net | No |
-| trygve.me | No |
 | ungleich.matrix.ungleich.cloud | No |
 | unita.online | No |
 | matrix.snt.utwente.nl | No |
