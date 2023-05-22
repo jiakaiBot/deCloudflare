@@ -6828,6 +6828,7 @@ Do not create new issue or we will close it as duplicate.
 | [Manuel567912971@twitter](https://twitter.com/Manuel567912971/status/1496387468731506690) | advertise |
 | [manuelangelotem@twitter](https://twitter.com/manuelangelotem/status/1535479570513600512) | advertise |
 | [manueltcl@twitter](https://twitter.com/manueltcl/status/1446279919022092292) | advertise |
+| [manutheblacker@twitter](https://twitter.com/manutheblacker/status/1660492209097932800) | advertise |
 | [manveerkhubber2@twitter](https://twitter.com/manveerkhubber2/status/1396747736863559680) | advertise |
 | [ManwithCulture1@twitter](https://twitter.com/ManwithCulture1/status/1603553852308930560) | advertise |
 | [manwiththelens@twitter](https://twitter.com/manwiththelens/status/1452280682613444608) | advertise |
