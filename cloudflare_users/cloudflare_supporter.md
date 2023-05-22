@@ -10055,6 +10055,7 @@ Do not create new issue or we will close it as duplicate.
 | [samliew@twitter](https://twitter.com/samliew/status/1566940977784188928) | advertise |
 | [Sammu0108@twitter](https://twitter.com/Sammu0108/status/1379878407597477890) | advertise |
 | [Sammy54083401@twitter](https://twitter.com/Sammy54083401/status/1391998609537867777) | advertise |
+| [SammyTrinity2@twitter](https://twitter.com/SammyTrinity2/status/1660696532004290569) | advertise |
 | [sampath_binura@twitter](https://twitter.com/sampath_binura/status/1402497203533385728) | advertise |
 | [samsam36495863@twitter](https://twitter.com/samsam36495863/status/1380863072726876163) | advertise |
 | [Samsher12808325@twitter](https://twitter.com/Samsher12808325/status/1516307889388163076) | advertise |
