@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [supabase's error is not retried](https://github.com/apache/incubator-opendal/issues/2287)
 - [Provide custom 404 static pages](https://github.com/analogjs/analog/issues/412)
 - [Suddenly Dash. struggles through domain, works fine through local IP](https://github.com/ajnart/homarr/issues/971)
 - [context deadline exceeded (Client.Timeout exceeded while awaiting headers)](https://github.com/pterodactyl/panel/issues/4784)
