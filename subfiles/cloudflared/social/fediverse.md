@@ -15261,7 +15261,7 @@ Here's a list of public Fediverse services.
 | `higumadon.club` | No |
 | `higurashi.xyz` | Yes |
 | `hiimmilan.dev` | No |
-| `hijacked.download` | No |
+| `hijacked.download` | Yes |
 | `hijsselinckx.com` | No |
 | `hikali.work` | Yes |
 | `hikaruaikawa.com` | No |
@@ -24937,7 +24937,7 @@ Here's a list of public Fediverse services.
 | `nalocal519.social` | No |
 | `nalum.me` | No |
 | `nalzus.com` | Yes |
-| `namachan10777.dev` | No |
+| `namachan10777.dev` | Yes |
 | `namakajiri.net` | No |
 | `namapie.info` | No |
 | `namaraii.com` | Yes |
@@ -32820,6 +32820,7 @@ Here's a list of public Fediverse services.
 | `shanti.cafe` | No |
 | `shantih19.xyz` | No |
 | `shaped-like.rocks` | No |
+| `shapovalov.tech` | No |
 | `share.tube` | No |
 | `shareable.net` | Yes |
 | `sharebright.net` | No |
@@ -36922,6 +36923,7 @@ Here's a list of public Fediverse services.
 | `ting.systems` | No |
 | `tinh.at` | No |
 | `tiniest.world` | No |
+| `tinker.nz` | No |
 | `tinkeringwithalien.tech` | No |
 | `tinkertofu.com` | Yes |
 | `tinko.club` | No |
@@ -41880,7 +41882,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,596 |
+| Cloudflare | 10,598 |
 | Normal | 31,241 |
 
 
