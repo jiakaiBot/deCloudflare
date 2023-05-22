@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,344 |
-| social | 4,053 |
+| social | 4,054 |
 | net | 3,210 |
 | org | 2,220 |
 | de | 2,104 |
@@ -20798,6 +20798,7 @@ Here's a list of public Fediverse services.
 | `lost.social` | No |
 | `lostall.faith` | No |
 | `lostallofmy.faith` | No |
+| `lostandfound.social` | Yes |
 | `lostblog.me` | No |
 | `lostcause.house` | Yes |
 | `lostcheese.com` | No |
@@ -21771,6 +21772,7 @@ Here's a list of public Fediverse services.
 | `maskneko.com` | No |
 | `maslipmat.com` | No |
 | `masochi.st` | No |
+| `mason.org.pl` | No |
 | `masonbee.nz` | No |
 | `masonx.ca` | Yes |
 | `masq.world` | No |
@@ -41882,8 +41884,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,598 |
-| Normal | 31,241 |
+| Cloudflare | 10,599 |
+| Normal | 31,242 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
