@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Provide custom 404 static pages](https://github.com/analogjs/analog/issues/412)
 - [Suddenly Dash. struggles through domain, works fine through local IP](https://github.com/ajnart/homarr/issues/971)
 - [context deadline exceeded (Client.Timeout exceeded while awaiting headers)](https://github.com/pterodactyl/panel/issues/4784)
 - [Typescript with Cloudflare](https://github.com/kwhitley/itty-router/issues/162)
