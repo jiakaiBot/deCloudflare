@@ -426,6 +426,7 @@ b2b.xn----7sbahcs2ad7afbd1ao7i.xn--p1ai
 beta-xsts.auth.xboxlive.com
 blue-canary.xboxservices.com
 bod.xchanging.it
+bookapp.xueersibook.com
 botdiscord.xantxo-coquillard.fr
 cdn.xiaolincoding.com
 chatbot.staging.xclapi.in
@@ -434,9 +435,11 @@ click.xpnews.com.br
 clientes.xn--rosquillasora-rkb.es
 consumer.xtime.com
 contact.xynythcorp.com
+counterstrikehack.xpressfilters.com
 cpanel.xpressone.com.ph
 demo.internal.xomad.com
 dev.xpertonline.net
+facebook.xn--bckl-5qa.org
 gameclipscontent-d2003.xboxlive.com
 gameclipscontent-d2004.media.xboxlive.com
 getcreditscore.xmagicmedia.com
@@ -449,6 +452,7 @@ git.git.secure.xn----7sbahcs2ad7afbd1ao7i.xn--p1ai
 git.gitlab.agmahalopizza.www.payment.xn--80aakfzr9e8a.pp.ua
 git.gitlab.gitlab.git.secure.xn----7sbahcs2ad7afbd1ao7i.xn--p1ai
 git.wp1.xn----7sbahcs2ad7afbd1ao7i.xn--p1ai
+gitlab.git.dev.xn----7sbahcs2ad7afbd1ao7i.xn--p1ai
 gitlab.git.git.gitlab.git.pruebas.xleborez.ru
 gitlab.git.gitlab.dev.ipv6.xflirt.fr
 gitlab.git.gitlab.erp.xn-----7kcbkhgzapdgqdsljb7aoah92a.xn--p1ai
@@ -459,6 +463,7 @@ gitlab.gitlab.gitlab.wallet.xn--80aidjnfkwkcit5k.xn--p1ai
 gitlab.hangout.comnew.xleborez.ru
 gitlab.sitemap.xn----7sbahcs2ad7afbd1ao7i.xn--p1ai
 gitlab.test.demo.xn--hrkalender-ecb.de
+gkurdt4.x24hr.com
 h.xinhuaxmt.com
 image.xpnews.com.br
 insuranceportal.xchanging.com
@@ -485,14 +490,17 @@ service-img-kreator.xaa.pl
 service-img-kreator2.xaa.pl
 service-img-proserwer.xaa.pl
 service-kreator.xaa.pl
+service-sklep-kreator.xaa.pl
 service.xny8.vip
 sitemaps.xn----7sbahcs2ad7afbd1ao7i.xn--p1ai
 staging-1682961063.xn--trservice-h3a.nu
 sts.xiduamdev.ca
 t-eu.xink.io
 t.xink.io
+t.xxooo.com.cn
 tr.xn--denizliiletmeleri-6jd.com
 tracking.xiq.io
+twitchbot.x-file.de
 updates.xploratribe.com
 wella.xibis.com
 wl-notification.dev-toronto.xara.ai
@@ -503,6 +511,7 @@ www.authordb.xox-media.com
 www.bezpieczneschody.pl.studiolaperla.xaa.pl
 www.clienteadv.xpcode.cloud
 www.comforthotelsydneyairport.com.au.xpcconline.com
+www.firstpedia.xpress-shipping-service.com
 www.fortisglobalinvestmentbank.com.xsdegsoftwares.com
 www.git.git.git.gitlab.site.xowu.de
 www.git.gitlab.git.site.xn-----7kcbkhgzapdgqdsljb7aoah92a.xn--p1ai
@@ -560,6 +569,7 @@ www.xn--kontorlyddmpning-3ob.dk
 www.xn--osakevlittjt-lcbeb.org
 www.xn--segurosdelstado-knb.com
 www.xn--solnatrdfllning-6kbc.se
+www.xn--ststeam-80a.at
 www.xoom.com
 www.xoxoespresso.com
 www.xoxoteiros.blog.br
@@ -606,6 +616,7 @@ xfinitybillingz.com
 xgirl.top
 xhandu.net
 xiantiancollege.com
+xiaoxiangchem.co.th
 xizo.jp
 xmodalert.com
 xmsflzmygw.com
@@ -633,6 +644,7 @@ xn--salonlmppalvelu-5kb22a.fi
 xn--service-reparaii-bzf.ro
 xn--serviceconstana-knf.ro
 xn--sikkerhetsmned-vib.no
+xn--ststeam-80a.at
 xn--tudiant-9xa.es
 xn--velsesbank-zcb.no
 xn--wfr71ay6ebtroncu2cjv0bnttivw83n.icu
