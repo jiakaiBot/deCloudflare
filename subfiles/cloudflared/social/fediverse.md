@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,343 |
-| social | 4,052 |
+| social | 4,053 |
 | net | 3,210 |
 | org | 2,220 |
 | de | 2,104 |
@@ -6441,6 +6441,7 @@ Here's a list of public Fediverse services.
 | `cloudsec.social` | No |
 | `cloudsecurityalliance.org` | Yes |
 | `cloudsforcatsin.space` | Yes |
+| `cloudshore.social` | Yes |
 | `cloudsumu.com` | No |
 | `cloudtrics.de` | No |
 | `cloudwaysapps.com` | No |
@@ -41878,7 +41879,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,596 |
+| Cloudflare | 10,597 |
 | Normal | 31,239 |
 
 
