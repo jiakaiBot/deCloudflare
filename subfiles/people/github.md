@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [I get a 500 Internal Server Error when I try to set up a service compatible with S3.](https://github.com/mail-in-a-box/mailinabox/issues/2266)
 - [Save image URL locally](https://github.com/chrome-php/chrome/issues/522)
 - [Issues with Cloudflare Captchas](https://github.com/Awful/Awful.apk/issues/776)
 - [Loading URLs behind some HTML cdn front](https://github.com/SDWebImage/SDWebImage/issues/3542)
