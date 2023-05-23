@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,347 |
 | social | 4,059 |
-| net | 3,212 |
-| org | 2,220 |
+| net | 3,213 |
+| org | 2,221 |
 | de | 2,106 |
 
 
@@ -11383,6 +11383,7 @@ Here's a list of public Fediverse services.
 | `fedi.co.za` | Yes |
 | `fedi.community` | No |
 | `fedi.dev` | No |
+| `fedi.exposed` | Yes |
 | `fedi.farm` | No |
 | `fedi.fit` | No |
 | `fedi.fun` | No |
@@ -13699,6 +13700,7 @@ Here's a list of public Fediverse services.
 | `glarolykoi.net` | No |
 | `glaros.xyz` | No |
 | `glasgow.social` | No |
+| `glaspest.nu` | No |
 | `glasserholdings.eu` | No |
 | `glasses.moe` | Yes |
 | `glassportals.social` | No |
@@ -17655,6 +17657,7 @@ Here's a list of public Fediverse services.
 | `joingardens.com` | No |
 | `joingeeksocial.com` | Yes |
 | `joinhaven.us` | No |
+| `joinkitsune.org` | No |
 | `joinmastodon.com` | Yes |
 | `joinmastodon.org` | Yes |
 | `joinpeertubecrypto.org` | No |
@@ -25704,6 +25707,7 @@ Here's a list of public Fediverse services.
 | `niel.me` | No |
 | `nielk1.com` | No |
 | `nielniel.net` | No |
+| `nielsegberts.nl` | No |
 | `nielsemmer.com` | Yes |
 | `niemanlab.org` | No |
 | `nieuwspaal.nl` | Yes |
@@ -34711,6 +34715,7 @@ Here's a list of public Fediverse services.
 | `stevencapellan.de` | No |
 | `stevenjaycohen.com` | No |
 | `stevenprins.com` | Yes |
+| `stevenrosenberg.net` | No |
 | `stevenson.scot` | No |
 | `stevensonav.ca` | Yes |
 | `stevenstern.me` | No |
@@ -41910,8 +41915,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,604 |
-| Normal | 31,263 |
+| Cloudflare | 10,605 |
+| Normal | 31,267 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
