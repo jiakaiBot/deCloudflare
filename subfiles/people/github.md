@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Save image URL locally](https://github.com/chrome-php/chrome/issues/522)
 - [Issues with Cloudflare Captchas](https://github.com/Awful/Awful.apk/issues/776)
 - [Loading URLs behind some HTML cdn front](https://github.com/SDWebImage/SDWebImage/issues/3542)
 - [The server had an error while processing](https://github.com/Significant-Gravitas/Auto-GPT/issues/4361)
