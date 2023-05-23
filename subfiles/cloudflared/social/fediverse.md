@@ -6092,7 +6092,7 @@ Here's a list of public Fediverse services.
 | `chozodia.com` | No |
 | `chr0nix.xyz` | No |
 | `chregu.tv` | Yes |
-| `chrg.nl` | No |
+| `chrg.nl` | Yes |
 | `chri5.art` | No |
 | `chris-evelyn.de` | No |
 | `chris-latza.de` | No |
@@ -17078,6 +17078,7 @@ Here's a list of public Fediverse services.
 | `jacksampson.info` | No |
 | `jackscott.id.au` | Yes |
 | `jacksgloryhole.com` | No |
+| `jacksonbarker.ca` | Yes |
 | `jacksonchen666.com` | No |
 | `jacksonhomestead.me` | No |
 | `jackspangler.xyz` | No |
@@ -26895,7 +26896,7 @@ Here's a list of public Fediverse services.
 | `olimaia.net` | No |
 | `olio.lol` | Yes |
 | `olipassey.me.uk` | No |
-| `oliphant.social` | No |
+| `oliphant.social` | Yes |
 | `oliphaunt.social` | No |
 | `olisti.co` | No |
 | `olive.beer` | No |
@@ -41899,8 +41900,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,599 |
-| Normal | 31,257 |
+| Cloudflare | 10,602 |
+| Normal | 31,255 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
