@@ -142,7 +142,6 @@ dc1-file.ksn.kaspersky-labs.com
 de-go.kelkoogroup.net
 de.kinder-zauber.show
 de.kunden-ingde.sbs
-de101.keyfactorpki.com
 deliverybackbone.kpmg.com
 delpost.keenetic.pro
 demo.keyapsolutions.com
@@ -1737,8 +1736,6 @@ fad.klesnc.edu.in
 fg250.keap-link011.com
 file.kelleybluebookimages.com
 fis-en-us-stage-portal.kitsys.net
-fis.keyfactorpki.com
-fissts.keyfactorpki.com
 flights.kyle20.us
 fqm-receiver-xovis-fqm.iott.kapschcloud.net
 fr.kaiwschwab.com
@@ -3211,6 +3208,7 @@ cm.onlineservices.komplettbank.no
 conditoriet.kunder2-guru-utvikling.no
 confirmyouraccount-fbstaticxaspx-cdn.kabarita.co
 consumer.krxd.net
+contact.kapstar.in
 container.kemet.ch
 content.knovuslab.com
 contoh.klinik-khitanan-paramedika.com
@@ -3238,6 +3236,7 @@ data.klientportal.se
 dc.med.kyushu-u.ac.jp
 dc1.ksn.kaspersky-labs.com
 demo.paypal.khlabbd.xyz
+demopayment.korporaconsulting.com
 dev2.kensetsu-cloud.jp
 devbank.ketto.org
 dhl-login-customization.demo.keenmate.com
@@ -3313,6 +3312,7 @@ gryaab.kravportal.se
 guide1.kaspi.kz
 gw.kijeon.ac.kr
 haikko-staging-vm01.karhuhosting.fi
+hanshin-dps.kuc-sys.com
 haus.kohlhoff.org
 hclhealthcare.karexpert.com
 hw159.keap-link019.com
@@ -3371,6 +3371,7 @@ kalyani.lk
 kalymnos-news.gr
 kama-capital.com
 kamaltraining.info
+kameracctv.online
 kamidatanguntukmu.shop
 kamilah.realtor
 kampanja.net
@@ -3380,6 +3381,7 @@ kanadapost.com
 kanchiuniv.ac.in
 kandaka.work
 kandidatnews.com
+kandlliquidations.com
 kangojinzaidb.com
 kangs1580.site
 kangs1600.site
@@ -3410,6 +3412,7 @@ kasheesfashion.com
 kashmirawareness.org
 kashmircrown.com
 kashmirhistory.com
+kasiweb.com
 kasso.co.in
 kastellet.com
 katalogwh.info
@@ -3440,6 +3443,7 @@ kbraw.eu
 kcdesignhouse.com
 kcshs.org
 kcsxpress.com
+kddieurope.net
 kddishop.online
 kdmpalvelu.fi
 kdservice.at
@@ -3644,6 +3648,7 @@ klipr.club
 kloruk.shop
 kloupagestion.com
 klv3.io
+km-secure.com
 kma-kridaya.site
 kmu.id
 kneeansweras.com
@@ -3767,6 +3772,7 @@ kudabalap.shop
 kuerz.lu
 kuessmichjetzt.com
 kuix.de
+kulifeeva-nedvizhka.online
 kulturstall-userin.de
 kumaqm.com
 kumparso.com
@@ -3781,6 +3787,7 @@ kurniaagung.net
 kurniaservice.com
 kushemu.shop
 kuzahygiene.com
+kvgs.org
 kvo3.io
 kvo8.io
 kw3y5otoeuniv7e9rsi.com
@@ -3849,6 +3856,7 @@ nitrogen.kuschku.de
 nitrousclan.keytrades.net
 nl-go.kelkoogroup.net
 notes.kreasigue.com
+notify.klartax.de
 oauth1.kaspi.kz
 oauth2.kaspi.kz
 old.kontorexdata.se
@@ -3889,6 +3897,7 @@ push.services.keepersecurity.com
 qa-nursery.dev.kidsly.jp
 qc-qmob.gps.kantarworldpanel.com
 rbx14.kinetikdc.com
+reaya-com-sa.kjgroup.com
 recovery.key-metamask.com
 registry.k8s.io
 relaunch.kindergesundheit-info.de
@@ -3993,6 +4002,7 @@ tesla.kino-teka.ru
 test.khimich.dev
 testikano.kravportal.se
 testing-client-ws.kaboodle.co.uk
+testisivusto.korttitilaus-feedback.fi
 thebigfatwitch.kpl128.co.uk
 thermo.kunder2-guru-utvikling.no
 totalenergiespauwf.k-welcome.com
@@ -4011,6 +4021,7 @@ trk.klclick3.com
 ttkservice.keenetic.pro
 u2.kaspi.kz
 uatprepaid.ktcgroup.dev
+uniqatest2.internal.kwsoft.cloud
 update.kateigen.nl
 update.kenben.net
 us-nbl-gateway-01d40.kalayservice.com
@@ -4019,6 +4030,7 @@ users.dev.kit-d.ru
 v2.widget.kion.ru
 vbl647.keap-link008.com
 vbl647.keap-link011.com
+videos.klinikum-oldenburg.de
 vnitro.keenetic.link
 vpn-test.keenetic.pro
 vulcan.kinex11.info
@@ -4074,6 +4086,7 @@ www.billie-and-steve-1.kellyhazlettphotography.co.uk
 www.blog.2022-11-29znegeulfluxsisilafamille.gitlab.october.kinod.ru
 www.brandon-chase.karibendig.com
 www.breakingbreadfoodbank.killerfootball.co.uk
+www.brightlife-customers.kajubi-invest.com
 www.bsnserver.kunstgebitservice.info
 www.chelsea-chase.kellyrowephotography.com
 www.city.kashiwa.lg.jp
@@ -4089,9 +4102,11 @@ www.conditoriet.kunder2-guru-utvikling.no
 www.confirmyouraccount-fbstaticxaspx-cdn.kabarita.co
 www.contact.ksenbr.com
 www.contoh.keifproject.com
+www.contoh.kkm6.com
 www.contoh.klinik-khitanan-paramedika.com
 www.corporate-head-shots.keysphotostudio.com
 www.dashboard.kachelan.com
+www.demopayment.korporaconsulting.com
 www.eksposekaltara.kaltaracybersecurity.com
 www.emilykl.club.kikiservice.com
 www.facturation.kadigit.com
@@ -4170,6 +4185,7 @@ www.kbcocala.org
 www.kbconstructionandfabrication.com
 www.kcbathremodel.com
 www.kcentv.com
+www.kea-mobilier.com
 www.kebumenupdate.com
 www.kedistan.net
 www.keha-keskus.fi
@@ -4178,6 +4194,7 @@ www.kekwcoinlol.com
 www.kemiralunar.com.br
 www.kempacollection.com
 www.kemper-alt.salzmann.kundencms.de
+www.kencoulsonstanley.co.uk
 www.kenganleybedfordimports.com
 www.kensho.global
 www.kenyans.co.ke
@@ -4309,7 +4326,9 @@ www.kto-cuisine.com
 www.ktsservice.pe.kr
 www.ktvb.com
 www.kubios.com
+www.kubix.co
 www.kuechengoetter.de
+www.kulturcircus.net
 www.kundeheltene.dk
 www.kundemonique.nl
 www.kundenservicesltd.com.ng
@@ -4347,6 +4366,7 @@ www.plan1.kunder2-guru-utvikling.no
 www.post.kring.store
 www.postandcouriers.online.kudaeu.online
 www.postech.com.tr.konyadogaltasevi.com
+www.reaya-com-sa.kjgroup.com
 www.rebecca-deniz.kapia.de
 www.reeglaw.kunde-formativ.net
 www.relax.anet.knauth.ch
