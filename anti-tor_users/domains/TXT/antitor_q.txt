@@ -5,7 +5,6 @@ api.quieroboon.com
 api.quizflight.com
 apimedicina-pre.quironprevencion.com
 app.qservice.kz
-apple.qzsyhb.com
 areyourapturereadynow.qcpsystems.com
 areyourapturereadynow2.qcpsystems.com
 audienceview.queue-it.net
@@ -478,6 +477,7 @@ feeds-prod.qrsolutions.com.au
 foxconncz.stage.qcsafety.xyz
 gg.quietrack.com
 googlegm.qilimazhaolu.xyz
+gsdtgrewtrtqe.qhigh.com
 idctvmws.qcertifica.com.br
 identityverify-wellsfargo.quantumtraveltowers.com.au
 iqweb.quick.co.jp
@@ -486,6 +486,7 @@ itg1a.us1.qeadaptiveauthbo.com
 laas.cloud.qacitizensbank.com
 links.quickhelp.com
 lp.quizz2win.com
+luciana.qw1.shop
 mail.q8nitro.com
 mail.quantum-gruppe.de
 monitoring-protect.qa-egnytegov.com
@@ -545,6 +546,7 @@ qqslot99.asia
 qrcalgary.com
 qrdyno.site
 qrentall.com
+qrvpn2023.xyz
 qsafe.biz
 qsafe.ro
 qservice.md
@@ -591,6 +593,7 @@ quickpasss.com
 quickpayment.co.in
 quinlanbennett.site
 quinndunki.com
+quintet24.com
 quokkacheeks.com
 quotesarchive.org
 quoti.es
@@ -610,6 +613,7 @@ services.qriqet.com
 sms.qcertifica.com.br
 staging1.scanning.questionmark.eu
 start.quicksupport.nl
+still-damp-hill.dot-mainnet.quiknode.pro
 t.corp.e.queensland.com
 the-arcs-21st-an-1.qvarc.net
 tls.qfund.net
