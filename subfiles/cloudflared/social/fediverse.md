@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,346 |
+| com | 6,347 |
 | social | 4,059 |
 | net | 3,212 |
 | org | 2,220 |
@@ -10283,6 +10283,7 @@ Here's a list of public Fediverse services.
 | `ellipsiszine.com` | No |
 | `ellis.social` | No |
 | `ellisnoa.cc` | No |
+| `ellitestdev.com` | No |
 | `ello.tech` | No |
 | `ellugar.co` | No |
 | `elm.re` | No |
@@ -41908,7 +41909,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,604 |
-| Normal | 31,260 |
+| Normal | 31,261 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
