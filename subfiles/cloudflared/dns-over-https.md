@@ -48,7 +48,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | b-cdn.net | No |
 | b612.me | Yes |
 | bancuh.com | No |
-| bcandrade.ml | No |
 | bebasid.com | Yes |
 | belnet.be | No |
 | benpro.fr | Yes |
@@ -359,7 +358,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 158 |
-| Normal | 181 |
+| Normal | 180 |
 
 
-### 46.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
