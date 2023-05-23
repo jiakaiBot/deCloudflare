@@ -20693,6 +20693,7 @@ Here's a list of public Fediverse services.
 | `lokal.social` | No |
 | `lokalteil.in` | No |
 | `lokean.org` | No |
+| `lokinet.io` | No |
 | `lokinet.org` | No |
 | `lokinet.uk` | No |
 | `lokizone.net` | No |
@@ -41909,7 +41910,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,604 |
-| Normal | 31,261 |
+| Normal | 31,262 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
