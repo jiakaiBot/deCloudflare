@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issues with Cloudflare Captchas](https://github.com/Awful/Awful.apk/issues/776)
+- [Loading URLs behind some HTML cdn front](https://github.com/SDWebImage/SDWebImage/issues/3542)
+- [The server had an error while processing](https://github.com/Significant-Gravitas/Auto-GPT/issues/4361)
 - [IntegrityError: duplicate key value violates unique constraint "api_oauth2registration_name_key"](https://github.com/WordPress/openverse/issues/2168)
 - [Response API 502 Bad Gateway with use:enhance](https://github.com/sveltejs/kit/issues/10014)
 - [Cookie processing does not work (with proposed fix)](https://github.com/FlareSolverr/FlareSolverr/issues/781)
