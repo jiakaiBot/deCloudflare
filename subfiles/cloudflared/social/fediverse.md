@@ -4632,6 +4632,7 @@ Here's a list of public Fediverse services.
 | `botnet.club` | Yes |
 | `botnet.social` | No |
 | `bots-in.space` | No |
+| `bots.uy` | Yes |
 | `botsandbees.space` | No |
 | `botsin.space` | No |
 | `botsonthego.xyz` | No |
@@ -41905,7 +41906,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,603 |
+| Cloudflare | 10,604 |
 | Normal | 31,259 |
 
 
