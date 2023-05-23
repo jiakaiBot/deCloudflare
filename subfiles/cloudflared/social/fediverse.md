@@ -28517,6 +28517,7 @@ Here's a list of public Fediverse services.
 | `pilch.me` | No |
 | `pilgerweg-21.de` | No |
 | `pilipala.asia` | No |
+| `pilk.space` | No |
 | `pillarsoffranchising.com` | No |
 | `pillowfort.cafe` | No |
 | `pillowprincess.pink` | No |
@@ -41907,7 +41908,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,604 |
-| Normal | 31,259 |
+| Normal | 31,260 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
