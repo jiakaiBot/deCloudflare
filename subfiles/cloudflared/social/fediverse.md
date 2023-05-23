@@ -1506,7 +1506,7 @@ Here's a list of public Fediverse services.
 | `allen.gg` | No |
 | `allencompassingtrip.com` | No |
 | `allerlei.it` | No |
-| `alleycat.site` | Yes |
+| `alleycat.site` | No |
 | `alleysmith.family` | No |
 | `allforall.network` | No |
 | `allgamers.net` | Yes |
@@ -6716,7 +6716,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -6894,7 +6894,7 @@ Here's a list of public Fediverse services.
 | `constant.social` | Yes |
 | `constantine.name` | No |
 | `constantinluegering.de` | No |
-| `constellati.one` | No |
+| `constellati.one` | Yes |
 | `constellation-mu.se` | Yes |
 | `constructed.space` | No |
 | `constructinganarchisms.org` | No |
@@ -21494,7 +21494,7 @@ Here's a list of public Fediverse services.
 | `mammonte.us` | Yes |
 | `mammoth.lol` | Yes |
 | `mammoth.place` | No |
-| `mammoth.social` | Yes |
+| `mammoth.social` | No |
 | `mammothcirc.us` | No |
 | `mammothcircus.com` | No |
 | `mammout.bzh` | Yes |
@@ -24367,7 +24367,7 @@ Here's a list of public Fediverse services.
 | `mstdn.plus` | Yes |
 | `mstdn.pt` | Yes |
 | `mstdn.pw` | No |
-| `mstdn.quest` | Yes |
+| `mstdn.quest` | No |
 | `mstdn.ro` | No |
 | `mstdn.rocks` | No |
 | `mstdn.sc` | No |
@@ -31571,7 +31571,7 @@ Here's a list of public Fediverse services.
 | `rusingh.com` | No |
 | `rusk.app` | No |
 | `rusoc.xyz` | No |
-| `russ.green` | Yes |
+| `russ.green` | No |
 | `russ.industries` | No |
 | `russ.network` | Yes |
 | `russell.social` | Yes |
@@ -32175,6 +32175,7 @@ Here's a list of public Fediverse services.
 | `scheepers.one` | Yes |
 | `scheid.tech` | No |
 | `scheissekonfiguriert.de` | No |
+| `scheisseposting.xyz` | No |
 | `schelling.pt` | No |
 | `schelmholtz.de` | Yes |
 | `schemacs.com` | No |
@@ -41898,8 +41899,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,603 |
-| Normal | 31,252 |
+| Cloudflare | 10,599 |
+| Normal | 31,257 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
