@@ -10071,6 +10071,7 @@ Do not create new issue or we will close it as duplicate.
 | [samuelibk@twitter](https://twitter.com/samuelibk/status/1404790587375730688) | advertise |
 | [samueljackrtx@twitter](https://twitter.com/samueljackrtx/status/1509751188312391683) | advertise |
 | [samuelll_llll@twitter](https://twitter.com/samuelll_llll/status/1587850198822289408) | advertise |
+| [samuels1v@twitter](https://twitter.com/samuels1v/status/1660731057480581120) | advertise |
 | [Samurai_Slug@twitter](https://twitter.com/Samurai_Slug/status/1642682467030106113) | advertise |
 | [SamyoFox@twitter](https://twitter.com/SamyoFox/status/1445761137534930952) | advertise |
 | [Sam_Arun_94@twitter](https://twitter.com/Sam_Arun_94/status/1388760215282065413) | advertise |
