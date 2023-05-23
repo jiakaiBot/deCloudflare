@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,347 |
 | social | 4,059 |
-| net | 3,213 |
+| net | 3,214 |
 | org | 2,221 |
 | de | 2,106 |
 
@@ -889,6 +889,7 @@ Here's a list of public Fediverse services.
 | `acg.ngo` | Yes |
 | `acg.social` | No |
 | `acgdoge.net` | No |
+| `acgn.ca` | Yes |
 | `ache.one` | No |
 | `achrilock.social` | No |
 | `achterstrasse.net` | No |
@@ -30480,6 +30481,7 @@ Here's a list of public Fediverse services.
 | `rcwd.social` | No |
 | `rd-social.net` | No |
 | `rd-srv.de` | Yes |
+| `rda69.net` | No |
 | `rddw.eu` | No |
 | `rdela.com` | No |
 | `rdg.world` | No |
@@ -41915,8 +41917,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,605 |
-| Normal | 31,267 |
+| Cloudflare | 10,606 |
+| Normal | 31,268 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
