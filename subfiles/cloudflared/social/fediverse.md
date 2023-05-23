@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,346 |
-| social | 4,058 |
+| social | 4,059 |
 | net | 3,212 |
 | org | 2,220 |
-| de | 2,105 |
+| de | 2,106 |
 
 
 - Mastodon, Pleroma, etc
@@ -15597,6 +15597,7 @@ Here's a list of public Fediverse services.
 | `hoppinggalaxies.social` | No |
 | `hoppinglife.com` | No |
 | `hoppysensei.com` | No |
+| `hopstudio.fr` | No |
 | `hopto.org` | Yes |
 | `hora.win` | Yes |
 | `horak.hu` | No |
@@ -23807,6 +23808,7 @@ Here's a list of public Fediverse services.
 | `moltchanova.de` | No |
 | `molten.cloud` | No |
 | `moltenaether.com` | No |
+| `molthagen.de` | No |
 | `moltonlava.online` | No |
 | `molyboha.me` | No |
 | `momcha.me` | No |
@@ -33036,6 +33038,7 @@ Here's a list of public Fediverse services.
 | `showoffto.us` | No |
 | `showyou41.win` | Yes |
 | `shpakovsky.ru` | No |
+| `shpil.social` | No |
 | `shpposter.club` | No |
 | `shr.today` | No |
 | `shrdr.de` | No |
@@ -33550,6 +33553,7 @@ Here's a list of public Fediverse services.
 | `small-home.group` | Yes |
 | `small-pieces.au` | No |
 | `small-web.org` | No |
+| `small-works.gr` | No |
 | `small.cloud` | No |
 | `smallbooks.com.tw` | No |
 | `smallcamp.art` | No |
@@ -39687,6 +39691,7 @@ Here's a list of public Fediverse services.
 | `watercoolertrivia.com` | Yes |
 | `waterford.international` | No |
 | `waterfowl.social` | No |
+| `watmoetjeanders.nl` | Yes |
 | `watsonlabs.net` | No |
 | `watt.ws` | No |
 | `wattenscheid.me` | No |
@@ -41900,8 +41905,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,602 |
-| Normal | 31,255 |
+| Cloudflare | 10,603 |
+| Normal | 31,259 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
