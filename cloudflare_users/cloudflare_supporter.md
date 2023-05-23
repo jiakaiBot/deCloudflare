@@ -44,6 +44,7 @@ Do not create new issue or we will close it as duplicate.
 | [0xSonaMaka@twitter](https://twitter.com/0xSonaMaka/status/1491992920148578304) | advertise |
 | [0xym0r022@twitter](https://twitter.com/0xym0r022/status/1379045277588279301) | advertise |
 | [0x__0@twitter](https://twitter.com/0x__0/status/1582075153676005376) | advertise |
+| [01Soivn@twitter](https://twitter.com/01Soivn/status/1660816985557712898) | advertise |
 | [0111_wwanz@twitter](https://twitter.com/0111_wwanz/status/1622585998235553792) | advertise |
 | [01227770316min2@twitter](https://twitter.com/01227770316min2/status/1385909202766508032) | advertise |
 | [021Brayoo@twitter](https://twitter.com/021Brayoo/status/1602594924091920386) | advertise |
@@ -8512,6 +8513,7 @@ Do not create new issue or we will close it as duplicate.
 | [NPatanakun@twitter](https://twitter.com/NPatanakun/status/1401121003959316483) | advertise |
 | [NPhongHuynh@twitter](https://twitter.com/NPhongHuynh/status/1392328838009430018) | advertise |
 | [nppn2611@twitter](https://twitter.com/nppn2611/status/1480784759835873282) | advertise |
+| [nps1501@twitter](https://twitter.com/nps1501/status/1661003410320261131) | advertise |
 | [NPTReyes@twitter](https://twitter.com/NPTReyes/status/1437249106703904768) | advertise |
 | [np_narissa@twitter](https://twitter.com/np_narissa/status/1592530845914791939) | advertise |
 | [nrlyanaramli@twitter](https://twitter.com/nrlyanaramli/status/1533087091126845443) | advertise |
