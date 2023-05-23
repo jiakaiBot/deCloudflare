@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [IntegrityError: duplicate key value violates unique constraint "api_oauth2registration_name_key"](https://github.com/WordPress/openverse/issues/2168)
 - [Response API 502 Bad Gateway with use:enhance](https://github.com/sveltejs/kit/issues/10014)
 - [Cookie processing does not work (with proposed fix)](https://github.com/FlareSolverr/FlareSolverr/issues/781)
 - [supabase's error is not retried](https://github.com/apache/incubator-opendal/issues/2287)
