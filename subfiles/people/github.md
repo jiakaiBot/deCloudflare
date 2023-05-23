@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cookie processing does not work (with proposed fix)](https://github.com/FlareSolverr/FlareSolverr/issues/781)
 - [supabase's error is not retried](https://github.com/apache/incubator-opendal/issues/2287)
 - [Provide custom 404 static pages](https://github.com/analogjs/analog/issues/412)
 - [Suddenly Dash. struggles through domain, works fine through local IP](https://github.com/ajnart/homarr/issues/971)
