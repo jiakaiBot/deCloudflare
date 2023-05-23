@@ -3214,6 +3214,7 @@ Do not create new issue or we will close it as duplicate.
 | [EugeneBos1@twitter](https://twitter.com/EugeneBos1/status/1505982810250952705) | advertise |
 | [eunhee24x8@twitter](https://twitter.com/eunhee24x8/status/1385261915807522816) | advertise |
 | [Euphori99287892@twitter](https://twitter.com/Euphori99287892/status/1404485406234759171) | advertise |
+| [euro_police@twitter](https://twitter.com/euro_police/status/1661082643440517128) | advertise |
 | [EusXJgfmWOS4dgq@twitter](https://twitter.com/EusXJgfmWOS4dgq/status/1648164702424539138) | advertise |
 | [euxn23@twitter](https://twitter.com/euxn23/status/1630094336645017600) | advertise |
 | [EuzbiettaK@twitter](https://twitter.com/EuzbiettaK/status/1601331468000952320) | advertise |
@@ -11290,8 +11291,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
