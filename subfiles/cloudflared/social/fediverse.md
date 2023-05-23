@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,345 |
-| social | 4,055 |
-| net | 3,211 |
+| com | 6,346 |
+| social | 4,058 |
+| net | 3,212 |
 | org | 2,220 |
-| de | 2,104 |
+| de | 2,105 |
 
 
 - Mastodon, Pleroma, etc
@@ -781,6 +781,7 @@ Here's a list of public Fediverse services.
 | `abhrajit.com` | Yes |
 | `abid.cc` | No |
 | `abigo.de` | No |
+| `abikewithnowheels.com` | No |
 | `abiscuola.org` | No |
 | `abitawake.com` | No |
 | `abitmu.ch` | Yes |
@@ -3772,6 +3773,7 @@ Here's a list of public Fediverse services.
 | `beyermatthias.de` | No |
 | `beyleyisnot.moe` | Yes |
 | `beyond.codes` | No |
+| `beyondbinary.ovh` | No |
 | `beyondgender.social` | No |
 | `beyondhorizons.eu` | No |
 | `beyondthe7thchamber.com` | No |
@@ -7948,6 +7950,7 @@ Here's a list of public Fediverse services.
 | `danjiadi.com` | Yes |
 | `dank-me.me` | Yes |
 | `dank.software` | No |
+| `dankchicken.social` | No |
 | `dankmemes.gg` | Yes |
 | `danksquad.org` | Yes |
 | `danksquad.xyz` | No |
@@ -9044,6 +9047,7 @@ Here's a list of public Fediverse services.
 | `disunitedstates.com` | No |
 | `disunitedstates.org` | No |
 | `dit.li` | Yes |
+| `dit11a.de` | Yes |
 | `ditatompel.com` | Yes |
 | `ditchthebird.eu` | No |
 | `dithernet.org` | No |
@@ -17522,6 +17526,7 @@ Here's a list of public Fediverse services.
 | `jizi.ml` | No |
 | `jjba.pro` | No |
 | `jjchat.io` | No |
+| `jjfm.social` | No |
 | `jjgadgets.tech` | Yes |
 | `jjis.gay` | No |
 | `jjohnson.org` | Yes |
@@ -23831,6 +23836,7 @@ Here's a list of public Fediverse services.
 | `moncloudprive.eu` | No |
 | `moncur.me.uk` | Yes |
 | `mond-basis.eu` | No |
+| `mondoweiss.net` | Yes |
 | `mone.dev` | No |
 | `monedalliure.org` | No |
 | `monero.house` | No |
@@ -27986,6 +27992,7 @@ Here's a list of public Fediverse services.
 | `paws.town` | No |
 | `pawsitiv.space` | Yes |
 | `paxanimi.club` | No |
+| `paxasteriae.co.uk` | No |
 | `paxation.info` | No |
 | `paxriel.art` | No |
 | `payfrit.com` | No |
@@ -30255,6 +30262,7 @@ Here's a list of public Fediverse services.
 | `ramblingreaders.org` | No |
 | `ramblings.social` | Yes |
 | `ramda.io` | No |
+| `rameez.social` | No |
 | `rameeznooruddin.com` | No |
 | `ramen-fsm.eu.org` | No |
 | `ramendon.jp` | No |
@@ -41700,6 +41708,7 @@ Here's a list of public Fediverse services.
 | `zitter.ca` | No |
 | `ziuri.me` | Yes |
 | `zivitas.info` | No |
+| `ziyun.rocks` | No |
 | `zj.ms` | Yes |
 | `zjuul.net` | No |
 | `zkarzzz.com` | No |
@@ -41889,8 +41898,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,601 |
-| Normal | 31,245 |
+| Cloudflare | 10,603 |
+| Normal | 31,252 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
