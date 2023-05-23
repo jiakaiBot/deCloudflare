@@ -2641,6 +2641,7 @@ applicationsqas.venture.com.sg
 apps-dev.vr.com.br
 aptekacnm.vsupport.club
 apurav2007-gmailcom.vercel.app
+arbeidsgiverguiden.virkedigital.no
 aries3slapis.vulcanresearchlab.com
 asdefsa.vizvaz.com
 ask-staging.va.gov
@@ -2831,6 +2832,7 @@ discordgithubbrazil.vercel.app
 discordhelper1.vercel.app
 discordlabs.vercel.app
 discordservers-me.vercel.app
+discourse.apps.velo-technologies.com
 discourse.colivefreecampaign.villagecms.com
 discover.vixio.com
 docs.client.vl-logistic.com
@@ -2934,6 +2936,7 @@ login.test.vakintern.de
 login.vakil4tax.com
 login.vanwagenen.com
 login.veevanetwork.com
+login.videoplaza.com
 login.volvoconnect.com
 loginfms-test.vodafone.ro
 loginfms.vodafone.ro
@@ -3034,6 +3037,7 @@ owncloud.vpnzl.de
 pagos.vmgbusinesscenter.com
 passwordgenerator.vaisnavsingkautick.com
 pay.sandbox.verisavegateway.com
+pay.sandbox.versagateway.com
 payment.vteam-cloud.com
 payments.vantivpostlive.com
 pharm.vghtpe.gov.tw
@@ -3062,6 +3066,7 @@ quisuisje-vercel.vercel.app
 rajiv.vercel.app
 ramonponsmiralles-gmailcom.vercel.app
 raymondliang2015-gmailcom.vercel.app
+rbxumsonst.vbuckscentral.net
 rcv.rec.vigik.com
 realdiscordmatters.vercel.app
 redcap.vhir.org
@@ -3150,6 +3155,7 @@ server.valtapi.com
 service.vbg.de
 service.vulcanlabs.co
 services.eauth.va.gov
+services.vsglobal.com
 shakeitright-ws.pre.vodafone.pt
 shakeitright.pre.vodafone.pt
 sharepoint.vets-inc.com
@@ -3224,6 +3230,7 @@ vakansi.co
 vakansiinfo.com
 vakur.shop
 valcomsecure.org
+valconect.com
 valedoivinhema.com.br
 valejornal.com.br
 valentineflorist.net
@@ -3306,6 +3313,7 @@ ventureworld.tech
 venunetwork.com
 venus-intl.net
 venuschats.com
+venuscomputers.org
 venusprotocol.info
 verdinofoods.com
 verestroxet.website
@@ -3407,6 +3415,7 @@ vingt55.ca
 viniciustoledo1.shop
 vintagedrumrestoration.co.uk
 vinyl.ninja
+vinylfrontier.com
 violetbirthdayservice.hu
 vipbarcelonaescorts.com
 vipheliservices.com
@@ -3449,6 +3458,7 @@ vitesco.ec
 vitpost.gq
 vittiai.com
 vittrack.gq
+viva-api.vivaenergy.com.au
 vivabonita.com.br
 vivanderparts.com
 vivendoavidaquequero.online
@@ -3504,6 +3514,7 @@ vommerenexclusive.nl
 voncappadocia.online
 vooculok.com
 vorercoxsbazar.com
+vossasaude.online
 vostroblock.io
 vostroblock.se
 votapdg.cl
@@ -3555,6 +3566,7 @@ vulcandelux-casino.win
 vulcandziennik.pl
 vulcane.fr
 vulcanengineers.co.za
+vulcanestiportal.com
 vulcanfpllc.com
 vulcanfree.com
 vulcanhoistalberta.ca
@@ -3625,6 +3637,7 @@ www.accounting.verification.onl
 www.admin.vaidelivery.com
 www.adzcast.com.veresecure.com
 www.anang.vpnjoss.my.id
+www.appletreeknowledge.vandeventer.net
 www.backoffice.verifiance-fnci.fr
 www.backup.vistasoundtrack.com.br
 www.bankonline.vastshore.com
@@ -3660,6 +3673,7 @@ www.gps.vestasecurity.mg
 www.helpdeskticket.virtusway.co.id
 www.idnpoker95.com.viajarfacil.info
 www.internaladvisory.visaminetsolutions.com
+www.invoice.vegamediapro.biz.id
 www.invoiceplane.vacerts.com
 www.iservice2.vanillamedia.hr
 www.ishaantourtravel.vaibhavambulanceservice.com
@@ -3672,6 +3686,7 @@ www.milanda.vpnsg.my.id
 www.moneyline.vztrader.com
 www.portal.metodotelecom.com.br.voicemanagerwebex.com.br
 www.postsul.vendamilionaria.com
+www.qr.verificaciongob.site
 www.reading--signing-1.valeriegravesbook.com
 www.sdl.vsdev.co.uk
 www.securedataware.in.vydhya.in
@@ -3772,6 +3787,7 @@ www.vigourdiscord.com
 www.vikingdublindogs.ie
 www.vill.otama.fukushima.jp
 www.villa-authentica.com
+www.villaavantgarde.com
 www.villamonterosso.it
 www.vindiesel.vip
 www.vinduesps.vinduespudserservice.dk
@@ -3780,6 +3796,7 @@ www.vinvinvin.fr
 www.viomultiservice.com
 www.vip-grinders.ru
 www.vipeqlogin.com
+www.virginmoney-mobile.net
 www.virtual.se
 www.virtualcommercialsouthwest.com
 www.virtualverse.one
