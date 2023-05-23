@@ -440,6 +440,7 @@ cpanel.xpressone.com.ph
 demo.internal.xomad.com
 dev.xpertonline.net
 facebook.xn--bckl-5qa.org
+flipblox.xlr8dev.com
 gameclipscontent-d2003.xboxlive.com
 gameclipscontent-d2004.media.xboxlive.com
 getcreditscore.xmagicmedia.com
@@ -473,8 +474,10 @@ login.xfinitymyaccount.net
 lp.xpi.com.br
 lq2.xiaoweicloud.cn
 luckywheel.xfinitysoft.app
+m.xi.co.kr
 media.xiq.io
 mobile.xoom.com
+myapt.xi.co.kr
 nfcu.xpressdeposit.com
 o3gmail3aojyusp.account.xn----stbbukh.xn--p1ai
 old.xetel.in
@@ -535,6 +538,7 @@ www.updates.xploratribe.com
 www.xablu.com
 www.xem.com.au
 www.xfinitybillingz.com
+www.xhermes.com.ar
 www.xiaomeixionge.com
 www.xinyoungfoodbank.com
 www.xjazz.net
@@ -566,6 +570,7 @@ www.xn--espaaconfidencial-ixb.com
 www.xn--ferienwohnung-dmmer-kbc.de
 www.xn--ifs-brc-haccp-iso-standards-schdlingsmonitoring-b7d.de
 www.xn--kontorlyddmpning-3ob.dk
+www.xn--ma-gebudeservice-0nb.com
 www.xn--osakevlittjt-lcbeb.org
 www.xn--segurosdelstado-knb.com
 www.xn--solnatrdfllning-6kbc.se
@@ -614,7 +619,9 @@ xenia.tech
 xetaichuyennhabinhduong.com
 xfinitybillingz.com
 xgirl.top
+xgodygpsupdate.store
 xhandu.net
+xhermes.com.ar
 xiantiancollege.com
 xiaoxiangchem.co.th
 xizo.jp
@@ -626,6 +633,7 @@ xn--42cg2cfc5apoh1ewdh9a7wpc.com
 xn--80aafbgrk0ao1a4e.xn--p1ai
 xn--altdeutsche-schferhunde-vom-seeruberdorf-umdr.de
 xn--billigerestrm-mnb.no
+xn--bst-i-test-q5a.org
 xn--dck1byb9ii0b6cec.net
 xn--e-u-rengringsservice-icc.dk
 xn--ferienwohnung-dmmer-kbc.de
