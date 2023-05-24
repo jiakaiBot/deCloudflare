@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [SSL certificate for api.cloudflare.com verification failed](https://github.com/ddclient/ddclient/issues/539)
 - [Reverse proxy (i think) setup issue](https://github.com/NathanVaughn/webtrees-docker/issues/122)
 - [Cloudflare Error Code 524: Causes, Effects and Solutions](https://github.com/jennie-lee-gh/data-analysis/issues/29)
 - [forefront : An error occurred: Completion.create() missing 1 required positional argument: 'account_data'. Please make sure you are using a valid cloudflare clearance token and user agent.](https://github.com/xtekky/gpt4free/issues/600)
