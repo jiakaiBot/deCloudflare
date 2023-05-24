@@ -4670,6 +4670,7 @@ Here's a list of public Fediverse services.
 | `bovarys.me` | No |
 | `boverie.eu` | Yes |
 | `bovid.space` | No |
+| `bow.st` | No |
 | `bowden.social` | No |
 | `bowefrankema.nl` | Yes |
 | `bowles.social` | No |
@@ -21315,6 +21316,7 @@ Here's a list of public Fediverse services.
 | `madworld.social` | No |
 | `madyanne.fr` | No |
 | `madzel.de` | No |
+| `mae.wtf` | Yes |
 | `maehl.eu` | No |
 | `maelstrom.space` | No |
 | `maennerplenum.eu` | No |
@@ -23523,6 +23525,7 @@ Here's a list of public Fediverse services.
 | `misskey.wtf` | No |
 | `misskey.xyz` | No |
 | `misskeyjp.com` | Yes |
+| `misskoula.space` | No |
 | `misso-pi.com` | No |
 | `misspi.net` | Yes |
 | `misstter.com` | Yes |
@@ -31002,6 +31005,7 @@ Here's a list of public Fediverse services.
 | `ricekot.com` | Yes |
 | `rich.gop` | Yes |
 | `richard-dern.fr` | No |
+| `richard.directory` | No |
 | `richardandbethany.xyz` | No |
 | `richardhall.online` | No |
 | `richardhickson.com` | Yes |
@@ -41927,8 +41931,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,603 |
-| Normal | 31,281 |
+| Cloudflare | 10,604 |
+| Normal | 31,284 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
