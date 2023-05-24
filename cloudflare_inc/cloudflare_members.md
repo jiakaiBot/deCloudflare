@@ -284,6 +284,7 @@ Or is this merely a case of simple modesty?
 | Bharat Nallan Chakravarthy | Employee |  |
 | Bhavik Gandhi | Sales Operations, Americas |  |
 | Bhavin Tailor | Technical Support Engineer |  |
+| Bill Jin | Employee | |
 | Bill Phillips | Customer Development |  |
 | Billy Kander | Technical Recruiter |  |
 | Blake Mattos | Product Designer |  |
@@ -362,6 +363,7 @@ Or is this merely a case of simple modesty?
 | Chad Skinner | Corporate Counsel |  |
 | Chad Toerien | Account Executive | https://twitter.com/ChadToerien<br>https://www.instagram.com/chadtoerien/<br> |
 | Chandra Mohan Raju | Data Engineering |  |
+| Charles Burnett | Employee | |
 | Charles Ng | Production Engineering |  |
 | Charlie Andrews | Systems Engineer |  |
 | Chase Robinson | Security Compliance Analyst |  |
@@ -914,6 +916,7 @@ Or is this merely a case of simple modesty?
 | Joseph So | Employee | |
 | Joseph Younis | Solutions Engineer |  |
 | Josh Dankbaar | Systems Reliability Engineer |  |
+| Joshua Claeys | Employee | |
 | Joshua Johnson | Software Engineering Intern, Austin |  |
 | Joshua Kroll | Systems Engineer |  |
 | Joshua Liebow-Feeser | Information Security Engineer |  |
@@ -1531,6 +1534,7 @@ Or is this merely a case of simple modesty?
 | Ross Guarino | Systems Engineer | https://twitter.com/0xRLG<br>https://rlg.io/<br>ross@rlg.io<br>https://linkedin.com/in/rlguarino<br>https://github.com/rlguarino |
 | Roy Chan | Channel Manager |  |
 | Roy Lo | Customer Development |  |
+| Roy Zhai | Employee | |
 | Rui Silva | Technical Support Engineer |  |
 | Rupesh Ganeshe | Solutions Engineer |  |
 | Rushil Mehra | Employee | |
@@ -1823,6 +1827,7 @@ Or is this merely a case of simple modesty?
 | Venkat Chaithanya | Employee |  |
 | Venkat Viswanathan | Employee |  |
 | Vera Tsai | Taiwan Sales Manager |  |
+| Veronica Marin | Employee | |
 | Vicky Shrestha | Systems Engineer |  |
 | Victoria Bernard | Customer Support, Austin | https://twitter.com/exvuma<br>https://victoriabernard.com/<br>https://www.linkedin.com/in/msvee22<br> |
 | Victoria Simons | Growth Marketing Manager |  |
