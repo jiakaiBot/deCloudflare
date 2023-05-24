@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [forefront : An error occurred: Completion.create() missing 1 required positional argument: 'account_data'. Please make sure you are using a valid cloudflare clearance token and user agent.](https://github.com/xtekky/gpt4free/issues/600)
 - [I get a 500 Internal Server Error when I try to set up a service compatible with S3.](https://github.com/mail-in-a-box/mailinabox/issues/2266)
 - [Save image URL locally](https://github.com/chrome-php/chrome/issues/522)
 - [Issues with Cloudflare Captchas](https://github.com/Awful/Awful.apk/issues/776)
