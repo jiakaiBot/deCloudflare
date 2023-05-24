@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,348 |
 | social | 4,062 |
-| net | 3,215 |
+| net | 3,216 |
 | org | 2,223 |
 | de | 2,106 |
 
@@ -5353,6 +5353,7 @@ Here's a list of public Fediverse services.
 | `canalsidecoach.app` | Yes |
 | `canard.club` | No |
 | `canard.tube` | No |
+| `canary.city` | Yes |
 | `canarygateway.com` | No |
 | `canberrasocial.net` | No |
 | `cancelcultu.re` | No |
@@ -28862,6 +28863,7 @@ Here's a list of public Fediverse services.
 | `pleroma.us` | No |
 | `pleroma.world` | No |
 | `pleroma.xyz` | Yes |
+| `pleromashit.nexus` | No |
 | `pleromazela.world` | No |
 | `plesiosaur.net` | No |
 | `plesiosauria.com` | Yes |
@@ -33398,6 +33400,7 @@ Here's a list of public Fediverse services.
 | `skinnyver.se` | No |
 | `skinofstars.com` | Yes |
 | `skins.gay` | No |
+| `skip2.net` | No |
 | `skippers-bin.com` | Yes |
 | `skippy.org.uk` | Yes |
 | `skiqqy.xyz` | No |
@@ -33535,6 +33538,7 @@ Here's a list of public Fediverse services.
 | `slime.global` | No |
 | `slime.land` | No |
 | `slimed.org` | Yes |
+| `sling.monster` | No |
 | `slipcrewprod.fr` | Yes |
 | `slipfox.xyz` | No |
 | `slippy.xyz` | Yes |
@@ -37252,6 +37256,7 @@ Here's a list of public Fediverse services.
 | `toomuchnotenough.site` | No |
 | `toon.in` | No |
 | `toon.social` | No |
+| `toon.town` | Yes |
 | `toonbook-rewritten.me` | No |
 | `toontoet.nl` | No |
 | `toonvandeputte.be` | No |
@@ -41938,8 +41943,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,609 |
-| Normal | 31,286 |
+| Cloudflare | 10,611 |
+| Normal | 31,289 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
