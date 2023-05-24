@@ -16630,6 +16630,7 @@ Here's a list of public Fediverse services.
 | `interhop.org` | No |
 | `interior.edu.uy` | No |
 | `interlace.space` | No |
+| `interlan.ec` | No |
 | `interlinked.me` | No |
 | `intermittent.network` | No |
 | `intern.at` | No |
@@ -30142,7 +30143,7 @@ Here's a list of public Fediverse services.
 | `radig.social` | No |
 | `radikal.social` | No |
 | `radio.af` | Yes |
-| `radio.fm` | No |
+| `radio.fm` | Yes |
 | `radioaconchego.org` | No |
 | `radioalmaina.org` | No |
 | `radiobrony.live` | No |
@@ -36931,6 +36932,7 @@ Here's a list of public Fediverse services.
 | `timeattack.zone` | No |
 | `timecube.club` | No |
 | `timeglass.de` | No |
+| `timeriver.xyz` | No |
 | `timespiral.co.jp` | No |
 | `timetheft.social` | No |
 | `timg.fr` | No |
@@ -41925,8 +41927,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,602 |
-| Normal | 31,280 |
+| Cloudflare | 10,603 |
+| Normal | 31,281 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
