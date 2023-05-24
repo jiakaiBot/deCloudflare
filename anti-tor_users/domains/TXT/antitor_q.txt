@@ -439,6 +439,7 @@ api.openbanking.qantasmoney.com
 api.qlinkportal.com
 api.quickpac.ch
 applet.qiruikj.top
+auth-testpay.qantasgrouptravel.com
 auth.feature-1.review.qpard.dev
 auth.qasimnouh.com
 authsmtp.quantumintegrators.com
@@ -474,6 +475,7 @@ exchange.qualysoft.com
 exchange.quantumintegrators.com
 faas1.q37.info
 feeds-prod.qrsolutions.com.au
+fls-na.amz.account.com.quanzhen.tech
 foxconncz.stage.qcsafety.xyz
 gg.quietrack.com
 googlegm.qilimazhaolu.xyz
@@ -486,7 +488,6 @@ itg1a.us1.qeadaptiveauthbo.com
 laas.cloud.qacitizensbank.com
 links.quickhelp.com
 lp.quizz2win.com
-luciana.qw1.shop
 mail.q8nitro.com
 mail.quantum-gruppe.de
 monitoring-protect.qa-egnytegov.com
@@ -533,6 +534,7 @@ qitrbfm.online
 qkayo.com
 qmasker.q-api.cloud
 qmisharp.com
+qmix.fr
 qnask.xyz
 qnbnl.cn
 qoaaa.com
@@ -546,7 +548,6 @@ qqslot99.asia
 qrcalgary.com
 qrdyno.site
 qrentall.com
-qrvpn2023.xyz
 qsafe.biz
 qsafe.ro
 qservice.md
