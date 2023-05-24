@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,347 |
-| social | 4,059 |
-| net | 3,214 |
+| com | 6,348 |
+| social | 4,060 |
+| net | 3,215 |
 | org | 2,221 |
 | de | 2,106 |
 
@@ -3961,6 +3961,7 @@ Here's a list of public Fediverse services.
 | `biologianaweb.com.br` | No |
 | `bionicbeer.com` | No |
 | `biont.space` | No |
+| `biophilicresearch.net` | No |
 | `bioxis-server.fr` | No |
 | `bipeds.onl` | No |
 | `biphant.social` | Yes |
@@ -16005,6 +16006,7 @@ Here's a list of public Fediverse services.
 | `iamkonstantin.eu` | Yes |
 | `iammer.net` | No |
 | `iamnate.net` | Yes |
+| `iamor.me` | Yes |
 | `iamover18.org` | No |
 | `iamschulz.com` | Yes |
 | `iamtakagi.net` | Yes |
@@ -24854,6 +24856,7 @@ Here's a list of public Fediverse services.
 | `n0budget.com` | No |
 | `n0g.de` | No |
 | `n0id.space` | No |
+| `n0mql.com` | No |
 | `n0n1337h41.com` | Yes |
 | `n0r1sk.com` | No |
 | `n0t.net` | No |
@@ -25438,6 +25441,7 @@ Here's a list of public Fediverse services.
 | `netlify.app` | Yes |
 | `netlify.com` | Yes |
 | `netlord.de` | No |
+| `netmonkey.gay` | No |
 | `netmonkey.net` | No |
 | `netmonkey.pictures` | No |
 | `netmonkey.site` | No |
@@ -32783,6 +32787,7 @@ Here's a list of public Fediverse services.
 | `sfba.social` | No |
 | `sfbubble.net` | No |
 | `sfcc.social` | No |
+| `sfcoder.social` | No |
 | `sfconservancy.org` | No |
 | `sffpc.io` | Yes |
 | `sfgreens.org` | No |
@@ -34087,6 +34092,7 @@ Here's a list of public Fediverse services.
 | `soupwhale.com` | Yes |
 | `sour.is` | No |
 | `source.news` | No |
+| `sourdin.ovh` | No |
 | `sousoupe.fr` | No |
 | `sousunepluie.com` | No |
 | `souterra.com` | Yes |
@@ -41491,7 +41497,7 @@ Here's a list of public Fediverse services.
 | `z80.tech` | No |
 | `z8s.de` | Yes |
 | `zaaltek.net` | No |
-| `zaatar.org` | No |
+| `zaatar.org` | Yes |
 | `zabaglione.net` | No |
 | `zabutone.com` | No |
 | `zac.dev` | Yes |
@@ -41899,6 +41905,7 @@ Here's a list of public Fediverse services.
 | `zyphon.com` | No |
 | `zyphyr.de` | No |
 | `zytixon.com` | Yes |
+| `zyun.jp` | No |
 | `zyxl.xyz` | No |
 | `zyz.link` | No |
 | `zyzz.me` | Yes |
@@ -41917,8 +41924,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,606 |
-| Normal | 31,268 |
+| Cloudflare | 10,608 |
+| Normal | 31,273 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
