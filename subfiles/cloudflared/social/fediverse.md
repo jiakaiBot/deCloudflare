@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,348 |
-| social | 4,060 |
+| social | 4,061 |
 | net | 3,215 |
-| org | 2,221 |
+| org | 2,222 |
 | de | 2,106 |
 
 
@@ -6720,7 +6720,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -10384,6 +10384,7 @@ Here's a list of public Fediverse services.
 | `empathiebullshit.de` | No |
 | `empathyintech.com` | No |
 | `empathytech.net` | No |
+| `empathytree.org` | No |
 | `empoer.li` | No |
 | `emprendedon.network` | Yes |
 | `empresszyra.com` | No |
@@ -18558,6 +18559,7 @@ Here's a list of public Fediverse services.
 | `kezal.fr` | No |
 | `kf0are.net` | No |
 | `kf7k.com` | Yes |
+| `kfalumni.social` | No |
 | `kfem.cat` | No |
 | `kfet.io` | Yes |
 | `kfitz.info` | No |
@@ -33127,7 +33129,7 @@ Here's a list of public Fediverse services.
 | `sidlibrary.org` | Yes |
 | `sidlicious.net` | No |
 | `sidraco.in` | No |
-| `siebent.net` | No |
+| `siebent.net` | Yes |
 | `siedler.ro` | No |
 | `sieg-dragon.blue` | No |
 | `siegenthaler.mx` | No |
@@ -41931,7 +41933,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,604 |
+| Cloudflare | 10,606 |
 | Normal | 31,284 |
 
 
