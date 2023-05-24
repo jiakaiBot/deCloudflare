@@ -775,6 +775,7 @@ yytjkdf.youdontcare.com
 yzur.app
 zmail.yogaplace.by
 3ds-gate.yoomoney.ru
+adselfservice.yakimafruit.net
 altaraskin-sample.website.yandexcloud.net
 api.yaanimail.com
 api.yxlaba.com
@@ -782,8 +783,10 @@ app-805-user-drawer-apps.dev.yesh.id
 app-rename-identities-to-users.dev.yesh.id
 app-update-user-org-group.dev.yesh.id
 app-user-photos.dev.yesh.id
+app-user-type.dev.yesh.id
 app-user-updated-event.dev.yesh.id
 app.tanker.yandex.net
+auth.vpn.yernende.ru
 autodiscover.yourassistantinthecloud.com
 avito.avito.sber.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.avito.8joac.tpxa3.kwid9.yogavastu.xyz
 avito.sber.www.avito.sber.blablacar.covid19.youhollywood.com
@@ -801,6 +804,7 @@ blablacar.sber.avito.git.git.git.covid19.youhollywood.com
 blablacar.sberbank.git.git.git.covid19.youhollywood.com
 blog.antispam.yominus.com
 blog.git.gitlab.git.gitlab.yabai.si
+booking.yourgreatself.co.uk
 bs.yandex.ru
 capi.yaanimail.com
 card-stories.ylestatic.fi
@@ -842,7 +846,9 @@ gitlab.www.demo.m.yatakeaway.com
 gkkuipxdeclin0t.www.shop.ruchitakeaway-office.yatakeaway.com
 goproblog.yourcareersearchadvisor.com
 grp02.id.rakuton.co.jp.yugysad.com
+grupocajamar.yutopia.es
 gtdfuhrtg.yourtrap.com
+helpdesk.yakimafruit.net
 i.youbuy.com
 i.ytimg.com
 ies2.yonden.co.jp
@@ -856,6 +862,7 @@ item-shopping.c.yimg.jp
 jdata.yuanta.com.tw
 kids.yahoo.co.jp
 l6eyeznhydwhmuvo.zuoevos0zjyxuub.antispam.yominus.com
+login.yxqnjk.top
 lululemon-perf-pfpc.yantriks.com
 lync.jp.yazaki.com
 m.youtopia.com
@@ -864,6 +871,7 @@ mariam.yoors.date
 mc.yandex.com
 media.yenimedya.com.tr
 monitoring.yesss.at
+monitoring.yortago.com
 monitoring.yukawa.de
 mymoodle.youcube.co.il
 mypartner-uat.yuanta.com.tw
@@ -913,6 +921,7 @@ tappay-cms.yapikredi.com.tr
 test-notice-games.yahooapis.jp
 tigadge.yoasobi-erobloger.com
 topblog.yahoo.co.jp
+tracking.newsletter.yvesrocher.com.mx
 travel.yahoo.co.jp
 truyti756rgdfs.yourtrap.com
 u184128-sub10.your-storagebox.de
@@ -938,6 +947,7 @@ www.beyazlar1.yapimasamasi.site
 www.birtekbranda.yapimasamasi.site
 www.bismj.yapimjaya.sch.id
 www.booking.yaalmozhipainting.in
+www.booking.yourgreatself.co.uk
 www.boulogne-billancourt.yabstudio.fr
 www.busbooking.yaykar.com
 www.city.yonago.lg.jp
@@ -1121,6 +1131,7 @@ youuup.net
 youxxxvideo.net
 youyizz.com
 yplistingasso.ypbizhub.com.hk
+yrityslainaraha.fi
 ysajielectronica.com.py
 ytboost.info
 ytsyify.io
