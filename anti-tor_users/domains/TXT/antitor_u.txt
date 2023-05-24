@@ -1816,6 +1816,7 @@ ackdnz.denzbank.umhl.com
 adfs.unitedlearning.org.uk
 adfs.uplet.cloud
 adfs1.dba01upc.upc.sk
+admh.status.updown.io
 admin.s3.unige.ch
 adtcreative.uplifted-cities.com
 af7dd5a2-9f6e-414a-996f-49edd73e636c.usrfiles.com
@@ -1845,6 +1846,7 @@ auth-soft-tooltips.usln.rocks
 auth.apps.urlaubsverwaltung.cloud
 auth.userpreferences.org
 autodiscover.umgnet.com
+autodiscover.universitydiscourse.org
 autodiscover.urdunews.website
 autodiscover.utvnitrous.com
 avito.avito.sber.avito.sber.sberbank.covid19.ukrtranspark.com
@@ -1876,6 +1878,7 @@ cardwizvtm-web.uatfisprepaid.com
 cascmg.usgovcloudapp.net
 cdn.unistream.io
 celltraveller.uke.de
+cffcu.us.unblu.app
 chatbot.uber.space
 checkad.ultra-money.com
 citrix.unicreditbank.ba
@@ -1905,8 +1908,10 @@ courses.updater.ge
 cpanel.ucsgov.com
 cpanel.uroblog.it
 cpcalendars.ucsgov.com
+cpcalendars.universitydiscourse.org
 cpcalendars.uroblog.it
 cpcontacts.ucsgov.com
+cpcontacts.universitydiscourse.org
 cpcontacts.utvnitrous.com
 credit.apis-dev.ulend.com.br
 credit.apps.ulend.com.br
@@ -1989,14 +1994,17 @@ jindb.unimat-rc.co.jp
 keydev.u-appspecto.com
 kivi.avvatar.usermd.net
 labourzo.ubapar.bzh
+lafarge.usitab.com
 leisuretop.unitrontourism.com
 library.universityofgalway.ie
 lidl.ubicloud.net
+lifestyle.uob.com.my
 live.malwine.uber.space
 login.ujatcare.com
 login.uka-gruppe.de
 login.uni-mainz.de
 logov.uber.space
+lp.uzumaki-nft.com
 lpm.unihaz.ac.id
 lpse.ugm.ac.id
 mail-in.uapaccount.com
@@ -2010,6 +2018,7 @@ media.unibet.fr
 meet.rdi.zimt.uni-siegen.de
 menu-1654.payment-api.ueat.io
 menu-1960.payment-api.ueat.io
+mgv-mr-internal-472.dev.gi.ut.ee
 minecraft.univ-exp.com
 minecraft.untalan.me
 missingmail.usps.com
@@ -2064,6 +2073,7 @@ qwv1989-ur66.demo.uralcms.ru
 raven-ext.sdpgw.ual.com
 realizesolucoesfinanceiraas.ubpages.com
 ribut2-wixsite-com.usrfiles.com
+rustdesk.uplinkti.com
 s2.udshkcloud.com
 sahetize-wixsite-com.usrfiles.com
 sber.avito.sber.sber.sber.avito.covid19.ukrtranspark.com
@@ -2084,6 +2094,7 @@ servicedesktest.uni-oldenburg.de
 servicio0dec0orre0o.es-actualizar.ualizacion.net
 sheroesingames-dev.unq.edu.ar
 shopify-import-test.uruzoukun.net
+siimop.uness.fr
 sip.unilever.ir
 snaped.fns.usda.gov
 somiso-ent.ubpages.com
@@ -2117,6 +2128,13 @@ tim.unlinsurance.com
 token.uicpayment.com.tw
 totalturvallisuus.ukkonenkotisivut.fi
 toutdeballer.uqam.ca
+tracking.correo.usbbog.edu.co
+tracking.en.uptooks.com
+tracking.hn.uptooks.com
+tracking.nn.uptooks.com
+tracking.rn.uptooks.com
+tracking.tn.uptooks.com
+tracking.unlockresults.com
 tradeintelligence.updatemyprofile.com
 traefik.lidl.ubicloud.net
 tuki.userix.fi
@@ -2153,6 +2171,7 @@ uchkzmzehr.com
 ucs-web-google-auth-redirect.uc-school.com
 ucu.edu.uy
 ucvcse1uc22.uhhospitals.org
+uddoktajournal.com
 udefal.org
 udho.info
 udik.shop
@@ -2180,6 +2199,7 @@ uicci.org
 uikv.org
 ujicguitarservice.com
 ujyaloupdate.com
+ukapmp.co.uk
 ukiasunnot.fi
 ukids.uplus.co.kr
 ukmarketplace.com
@@ -2210,6 +2230,7 @@ umjetnicki-paviljon.hr
 umrli.info
 un-carriers-services.online
 unarbokor.com
+unareceta.com
 unatec.es
 unavailable.jp
 unaweb.pro
@@ -2217,6 +2238,7 @@ unbc-lb.com
 unbeatableevents.org
 uncnso.red
 uncover-romania.com
+uncutwala.com
 undeadgenesis.com
 undeenardoo.com
 underconsoletation.com
@@ -2259,7 +2281,6 @@ unitrontourism.com
 universal-cloud.net
 universityofgalway.ie
 unjointbobbed.com
-unlimited.gallery
 unlock1.online
 unlockbasecodes.com
 unlockcd.com
@@ -2390,6 +2411,7 @@ ussusd1centralff5.blob.core.usgovcloudapi.net
 ustravelbooking.com
 usts.fr
 utazaskatalogus.hu
+utenosrpmc.lt
 utime.tech
 utme.uniqlo.com
 utok.ph
@@ -2418,9 +2440,11 @@ visso.fsociety.ucdev.app
 vogel.uber.space
 vsapps.aphis.usda.gov
 wa-gateway.ummulqurobogor.org
+wagamama-bot-server.ubisendaws.com
 web.ipc.uni-stuttgart.de
 webdisk.ucsgov.com
 webdisk.uctc.xyz
+webdisk.universitydiscourse.org
 webdisk.utkalinfraandpower.com
 webdocs.um.edu.mo
 webgis-test.upc.ch
@@ -2475,6 +2499,7 @@ www.bootnet.vn.unlock-bios.com
 www.checkad.ultra-money.com
 www.clasifiventas.upitrack.com
 www.clients.unliwebhosting.com.ph
+www.corporate.udchalo.com
 www.corporate.uzwebprofi.uz
 www.devsite.uspa.gov.ua
 www.ferienwohnungmwenzauber.ushotel.top
@@ -2593,6 +2618,7 @@ www.universallogservices.com
 www.universalwallet.app
 www.unleashedperfumes.com
 www.unlimitedinkclient.com
+www.unlock-ro.com
 www.unlockeddesigns.com
 www.unlockedsoft.com
 www.unlockingthejoy.com
