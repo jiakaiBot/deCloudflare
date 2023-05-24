@@ -10613,6 +10613,7 @@ Here's a list of public Fediverse services.
 | `erdyyn.net` | No |
 | `erenlevi.club` | No |
 | `erenoa.com` | No |
+| `eri.city` | Yes |
 | `eri.cx` | No |
 | `eric.blog` | No |
 | `eric.ovh` | No |
@@ -41937,7 +41938,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,608 |
+| Cloudflare | 10,609 |
 | Normal | 31,286 |
 
 
