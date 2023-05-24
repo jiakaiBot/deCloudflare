@@ -882,6 +882,7 @@ en.zargofoodservice.com
 energy-calculation-service.core.stage.zoatech.net
 familyapi.zilihuaxia.com
 fire.zapgoogle.co.il
+forms.zenya.work
 fsbc.unicreditgroup.zaba.hr
 gateway.zscalerthree.net
 gateway.zscalertwo.net
@@ -898,6 +899,7 @@ lc.zoocdn.com
 lf26-thundercdn-tos.zjfcdn.com
 live-streaming.zegna.cn
 login.ziraatbankanturkey.com
+lyncdiscoverinternal.zambiaedge.org
 lyncdiscoverinternal.zaremba.net
 mail.zasgroup.com
 mail.zeusassociate.com
@@ -921,6 +923,7 @@ paketbersihcepat.zonawanita.com
 pay.zivameshapewear.com
 paypal.com.zd-league.com
 perr.zspeed-cdn.com
+proxy.tracking.cookiemanager.zwei14.app
 quotemicrosoftsupport.zohosites.com
 qwedafdsea.zyns.com
 raad.staging.zutphen.nl
@@ -982,7 +985,6 @@ star-motor.zapads.co.il
 t1.zoommailnews.co.uk
 test.zatpermit.com
 testapi.zkkynrbx.com
-tracking.zembro.com
 twitch.zuccarello.eu
 update.zestydigital.co.uk
 user.zgem.org
@@ -1009,6 +1011,7 @@ www.accountabuddy.zeromedia.com.au
 www.accounting.zhabes.com
 www.alternativnamedicina.com.mk.zemi.net.mk
 www.apply.zarnab.pk
+www.ar-fire.zapweb.co.il
 www.atomobeta.zenservice.com.br
 www.atomoplay.zenservice.com.br
 www.author.zerocodesite.com
@@ -1143,6 +1146,7 @@ zhej78i1an8w6ceu.com
 zhonguowx.com
 zhozzaegaj.shop
 zhptrust.org
+zidang.cl
 zielianasupport.co.uk
 zijinbor.com
 zimcc.com
