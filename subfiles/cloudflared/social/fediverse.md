@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,348 |
-| social | 4,061 |
+| social | 4,062 |
 | net | 3,215 |
-| org | 2,222 |
+| org | 2,223 |
 | de | 2,106 |
 
 
@@ -5283,6 +5283,7 @@ Here's a list of public Fediverse services.
 | `calckey.lgbt` | No |
 | `calckey.nz` | No |
 | `calckey.online` | No |
+| `calckey.org` | No |
 | `calckey.pl` | Yes |
 | `calckey.social` | No |
 | `calckey.world` | No |
@@ -11328,6 +11329,7 @@ Here's a list of public Fediverse services.
 | `fed.fan` | Yes |
 | `fed.im` | No |
 | `fed.sh` | Yes |
+| `fed.social` | Yes |
 | `fedaya.net` | No |
 | `fedblog.ch` | No |
 | `fedcast.ch` | No |
@@ -15415,6 +15417,7 @@ Here's a list of public Fediverse services.
 | `hlpme.de` | No |
 | `hlut.win` | Yes |
 | `hmarquez.com` | No |
+| `hmbl.blog` | No |
 | `hmf.digital` | No |
 | `hmm.st` | No |
 | `hmn.ist` | No |
@@ -24863,7 +24866,7 @@ Here's a list of public Fediverse services.
 | `n0budget.com` | No |
 | `n0g.de` | No |
 | `n0id.space` | No |
-| `n0mql.com` | No |
+| `n0mql.com` | Yes |
 | `n0n1337h41.com` | Yes |
 | `n0r1sk.com` | No |
 | `n0t.net` | No |
@@ -33906,6 +33909,7 @@ Here's a list of public Fediverse services.
 | `socks.town` | No |
 | `sockspls.social` | No |
 | `socl.bz` | No |
+| `socl.cloud` | No |
 | `socl.sbs` | Yes |
 | `socl.win` | No |
 | `socnet.eu` | No |
@@ -41933,8 +41937,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,606 |
-| Normal | 31,284 |
+| Cloudflare | 10,608 |
+| Normal | 31,286 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
