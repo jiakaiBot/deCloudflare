@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,353 |
-| social | 4,062 |
+| social | 4,063 |
 | net | 3,216 |
 | org | 2,223 |
 | de | 2,107 |
@@ -3524,7 +3524,7 @@ Here's a list of public Fediverse services.
 | `bebraver.cloud` | Yes |
 | `becabeca.eu` | No |
 | `becauseofprog.fr` | No |
-| `becausetrigger.ga` | Yes |
+| `becausetrigger.ga` | No |
 | `beck.technology` | No |
 | `beckend.tk` | No |
 | `becker-mayer.com` | No |
@@ -27094,7 +27094,7 @@ Here's a list of public Fediverse services.
 | `onthedon.uk` | No |
 | `ontheroad.social` | No |
 | `onthesecond.com` | No |
-| `onthetable.social` | No |
+| `onthetable.social` | Yes |
 | `onthewifi.com` | Yes |
 | `ontological.city` | No |
 | `onurb.net` | No |
@@ -28185,6 +28185,7 @@ Here's a list of public Fediverse services.
 | `pehnet.org` | No |
 | `peixe.co` | Yes |
 | `pejookaloo.com` | No |
+| `pejookaloo.social` | No |
 | `pekepeke.work` | No |
 | `pekkasipila.com` | No |
 | `pekoyama.com` | No |
@@ -41962,7 +41963,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,617 |
-| Normal | 31,301 |
+| Normal | 31,302 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
