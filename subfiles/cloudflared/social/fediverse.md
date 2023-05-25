@@ -38574,6 +38574,7 @@ Here's a list of public Fediverse services.
 | `unixwolf.com` | No |
 | `unkipamunich.fr` | No |
 | `unknowable.place` | No |
+| `unknowing.dance` | Yes |
 | `unknowngenius.com` | No |
 | `unknownrealm.org` | No |
 | `unkomaker.info` | No |
@@ -41960,7 +41961,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,616 |
+| Cloudflare | 10,617 |
 | Normal | 31,301 |
 
 
