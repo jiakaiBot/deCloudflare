@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [JuiceFS sharded s3 buckets >10 error?](https://github.com/juicedata/juicefs/issues/3684)
 - [Coverage doesn't load on Firefox](https://github.com/codecov/codecov-browser-extension/issues/21)
 - [RPC returning code -32014 (Non Existing Account Address) when querying contract using go-ethereum (geth ethclient)](https://github.com/hashgraph/hedera-json-rpc-relay/issues/1295)
 - [SSL certificate for api.cloudflare.com verification failed](https://github.com/ddclient/ddclient/issues/539)
