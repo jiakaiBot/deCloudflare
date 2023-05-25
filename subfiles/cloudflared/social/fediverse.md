@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,352 |
+| com | 6,353 |
 | social | 4,062 |
 | net | 3,216 |
 | org | 2,223 |
@@ -7698,6 +7698,7 @@ Here's a list of public Fediverse services.
 | `cybert-media.net` | No |
 | `cybertect.net` | Yes |
 | `cyberthings.net` | No |
+| `cybertopia.xyz` | No |
 | `cybertron.ninja` | No |
 | `cybervalley.org` | No |
 | `cybervcr.com` | Yes |
@@ -10416,7 +10417,7 @@ Here's a list of public Fediverse services.
 | `enbi.es` | No |
 | `enbies.space` | Yes |
 | `enby-box.de` | No |
-| `enby.club` | Yes |
+| `enby.club` | No |
 | `enby.site` | Yes |
 | `enby.space` | No |
 | `enby.town` | No |
@@ -13714,6 +13715,7 @@ Here's a list of public Fediverse services.
 | `glarolykoi.net` | No |
 | `glaros.xyz` | No |
 | `glasgow.social` | No |
+| `glasgownet.com` | No |
 | `glaspest.nu` | No |
 | `glasserholdings.eu` | No |
 | `glasses.moe` | Yes |
@@ -20048,6 +20050,7 @@ Here's a list of public Fediverse services.
 | `les-requin.net` | No |
 | `lesalphas.be` | No |
 | `lesamarien.fr` | No |
+| `lesantipods.studio` | No |
 | `lesaoras.xyz` | Yes |
 | `lesateliersphv.net` | No |
 | `lesbean.cloud` | No |
@@ -24011,6 +24014,7 @@ Here's a list of public Fediverse services.
 | `moreati.org.uk` | No |
 | `morebeautifully.com` | No |
 | `morehammer.uk` | No |
+| `moreofacomment.my` | No |
 | `moreofthesa.me.uk` | No |
 | `morepablo.com` | No |
 | `moresci.sale` | Yes |
@@ -41956,8 +41960,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,617 |
-| Normal | 31,296 |
+| Cloudflare | 10,616 |
+| Normal | 31,301 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
