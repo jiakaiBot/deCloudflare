@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [RPC returning code -32014 (Non Existing Account Address) when querying contract using go-ethereum (geth ethclient)](https://github.com/hashgraph/hedera-json-rpc-relay/issues/1295)
 - [SSL certificate for api.cloudflare.com verification failed](https://github.com/ddclient/ddclient/issues/539)
 - [Reverse proxy (i think) setup issue](https://github.com/NathanVaughn/webtrees-docker/issues/122)
 - [Cloudflare Error Code 524: Causes, Effects and Solutions](https://github.com/jennie-lee-gh/data-analysis/issues/29)
