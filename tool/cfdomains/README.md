@@ -17,7 +17,7 @@ There is no security risk to your computer because it just do DNS lookup test.
 The warrior will only use your DNS server, so no CPU nor memory will be used.
 It will get tasks from Karma and report the result back to Karma.
 
-The Warrior runs on Linux, Windows and macOS. You can run it on anything like virtual machiene as 
+The Warrior runs on Windows, macOS and Linux. You can run it on anything like virtual machiene as 
 long as it can use _clean_ DNS.
 
 
@@ -25,7 +25,7 @@ long as it can use _clean_ DNS.
 
 - Linux: Installing
 ```
-wget https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.linux \
+wget https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.linux \
   -O /usr/local/bin/cfdomains
 chmod +x /usr/local/bin/cfdomains
 cfdomains
@@ -43,20 +43,20 @@ rm -r .cfdomains_conf
 
 
 ### Download
-Current Version: **1.0.4.1**
+Current Version: **1.0.4.4**
 
-- [Linux](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.linux?inline=false)
-- [Windows](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.exe?inline=false)
-- [Mac OS](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.app?inline=false)
+- [Windows](https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.exe?inline=false)
+- [Mac OS](https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.app?inline=false)
+- [Linux](https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.linux?inline=false)
 - Source
   - [source.js](source.js)
-  - e.g. `# apt install npm nodejs; npm i node-libcurl --save; nodejs source.js`
+    - e.g. `# apt install npm nodejs; npm i node-libcurl --save; nodejs source.js`
 
 ----
 
 
 ```
-        CfDomains  v1.0.4.1
+        CfDomains
 
 Usage:
         cfdomains [| --online ]www.example.com
