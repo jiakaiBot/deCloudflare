@@ -8,9 +8,7 @@ Researchers in web security or Internet measurements often use rankings of popul
 As the research community still benefits from regularly updated lists of popular domains, we provide Tranco, a new ranking that improves upon the shortcomings of current lists. We also emphasize the reproducibility of these rankings and the studies using them by providing permanent citable references.
 ```
 
-![](../../../cloudflare_users/domains/variant/top_most_popular/count.svg)
-
-- Download [top most popular Cloudflare domains](../../../cloudflare_users/domains/variant/top_most_popular/)
+- Download [top most popular Cloudflare domains](../../../cloudflare_users/domains/)
 
 Here's the result.
 
