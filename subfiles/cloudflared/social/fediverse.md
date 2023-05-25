@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,353 |
 | social | 4,063 |
-| net | 3,216 |
+| net | 3,217 |
 | org | 2,223 |
 | de | 2,107 |
 
@@ -9738,6 +9738,7 @@ Here's a list of public Fediverse services.
 | `dustbuster.club` | No |
 | `dustinkirkland.com` | No |
 | `dustinrue.com` | Yes |
+| `dustinthe.net` | No |
 | `dustinwilson.com` | No |
 | `dutchcaribbean.social` | No |
 | `dutchipoo.com` | No |
@@ -41963,7 +41964,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,617 |
-| Normal | 31,302 |
+| Normal | 31,303 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
