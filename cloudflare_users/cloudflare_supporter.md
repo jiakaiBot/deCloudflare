@@ -7776,6 +7776,7 @@ Do not create new issue or we will close it as duplicate.
 | [MyintZuKhaing6@twitter](https://twitter.com/MyintZuKhaing6/status/1389796020192641025) | advertise |
 | [myint_hanzaw@twitter](https://twitter.com/myint_hanzaw/status/1398980054059683849) | advertise |
 | [Mykchapaa@twitter](https://twitter.com/Mykchapaa/status/1391696765842231298) | advertise |
+| [mymollydoll_@twitter](https://twitter.com/mymollydoll_/status/1661561877292515328) | advertise |
 | [MynerStuff@twitter](https://twitter.com/MynerStuff/status/1396101122654314505) | advertise |
 | [mynkashyap@twitter](https://twitter.com/mynkashyap/status/1470009689245167627) | advertise |
 | [myo776350@twitter](https://twitter.com/myo776350/status/1393628339080810500) | advertise |
