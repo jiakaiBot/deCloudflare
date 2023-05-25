@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Provide Examples for Interacting with Raw Local Image Files](https://github.com/withastro/docs/issues/3339)
 - [JuiceFS sharded s3 buckets >10 error?](https://github.com/juicedata/juicefs/issues/3684)
 - [Coverage doesn't load on Firefox](https://github.com/codecov/codecov-browser-extension/issues/21)
 - [RPC returning code -32014 (Non Existing Account Address) when querying contract using go-ethereum (geth ethclient)](https://github.com/hashgraph/hedera-json-rpc-relay/issues/1295)
