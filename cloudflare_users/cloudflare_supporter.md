@@ -8937,6 +8937,7 @@ Do not create new issue or we will close it as duplicate.
 | [peterkc@twitter](https://twitter.com/peterkc/status/1529824761953456128) | advertise |
 | [peteroudenes@twitter](https://twitter.com/peteroudenes/status/1589933292585127938) | advertise |
 | [PetocoShop@twitter](https://twitter.com/PetocoShop/status/1638646091498266624) | advertise |
+| [PetRehomingNet@twitter](https://twitter.com/PetRehomingNet/status/1661552655922020353) | advertise |
 | [pettiestEddie@twitter](https://twitter.com/pettiestEddie/status/1558420639651926017) | advertise |
 | [peyman1992n@twitter](https://twitter.com/peyman1992n/status/1547965189613531137) | advertise |
 | [peyman51349787@twitter](https://twitter.com/peyman51349787/status/1602754872998334465) | advertise |
