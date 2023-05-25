@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Coverage doesn't load on Firefox](https://github.com/codecov/codecov-browser-extension/issues/21)
 - [RPC returning code -32014 (Non Existing Account Address) when querying contract using go-ethereum (geth ethclient)](https://github.com/hashgraph/hedera-json-rpc-relay/issues/1295)
 - [SSL certificate for api.cloudflare.com verification failed](https://github.com/ddclient/ddclient/issues/539)
 - [Reverse proxy (i think) setup issue](https://github.com/NathanVaughn/webtrees-docker/issues/122)
