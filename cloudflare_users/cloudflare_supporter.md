@@ -10882,6 +10882,7 @@ Do not create new issue or we will close it as duplicate.
 | [SuyajareP@twitter](https://twitter.com/SuyajareP/status/1661414264429502464) | advertise |
 | [SuYatiAung3@twitter](https://twitter.com/SuYatiAung3/status/1400420448962105350) | advertise |
 | [suzakar@twitter](https://twitter.com/suzakar/status/1397847710045196291) | advertise |
+| [SuzanneLiat@twitter](https://twitter.com/SuzanneLiat/status/1661713380699258884) | advertise |
 | [suzume_janai@twitter](https://twitter.com/suzume_janai/status/1402257716974919688) | advertise |
 | [SuzuTomo2001@twitter](https://twitter.com/SuzuTomo2001/status/1577679736121458688) | advertise |
 | [su_ndrhlaing@twitter](https://twitter.com/su_ndrhlaing/status/1399618984626905088) | advertise |
