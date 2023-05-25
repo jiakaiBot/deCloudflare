@@ -2878,6 +2878,7 @@ Do not create new issue or we will close it as duplicate.
 | [DRMRAWAL2@twitter](https://twitter.com/DRMRAWAL2/status/1403661034573885441) | advertise |
 | [drn1m4@twitter](https://twitter.com/drn1m4/status/1404462803528949762) | advertise |
 | [DrocksAlex@twitter](https://twitter.com/DrocksAlex/status/1529150217253269515) | advertise |
+| [Droid_Africa@twitter](https://twitter.com/Droid_Africa/status/1661665791287148544) | advertise |
 | [Drop20Rain@twitter](https://twitter.com/Drop20Rain/status/1396304228126183429) | advertise |
 | [Drppc1@twitter](https://twitter.com/Drppc1/status/1594998582905802752) | advertise |
 | [drugs1195@twitter](https://twitter.com/drugs1195/status/1399717280108318720) | advertise |
