@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,350 |
+| com | 6,352 |
 | social | 4,062 |
 | net | 3,216 |
 | org | 2,223 |
@@ -1221,6 +1221,7 @@ Here's a list of public Fediverse services.
 | `ainsophaur.it` | No |
 | `aioo.ooo` | No |
 | `aipi.social` | No |
+| `aiquiral.me` | Yes |
 | `aiqwest.com` | No |
 | `air11.org` | No |
 | `air11.social` | No |
@@ -2714,7 +2715,7 @@ Here's a list of public Fediverse services.
 | `atheatileros.com` | No |
 | `atheistmedianetwork.com` | No |
 | `athemeus.com` | No |
-| `atho.me` | No |
+| `atho.me` | Yes |
 | `athousandwords.site` | No |
 | `atico.ga` | No |
 | `atikoro.net` | No |
@@ -3665,6 +3666,7 @@ Here's a list of public Fediverse services.
 | `benpettis.ninja` | No |
 | `benpro.fr` | Yes |
 | `bens.photos` | No |
+| `bensahlmueller.com` | No |
 | `bensch-server.de` | No |
 | `benschcloud.de` | No |
 | `bensie.social` | No |
@@ -18710,6 +18712,7 @@ Here's a list of public Fediverse services.
 | `kinl.gq` | No |
 | `kinlan.me` | No |
 | `kinlane.com` | Yes |
+| `kinlproject.rocks` | No |
 | `kinney.social` | No |
 | `kinney.tax` | No |
 | `kino.ma` | No |
@@ -28177,6 +28180,7 @@ Here's a list of public Fediverse services.
 | `pegg.net` | Yes |
 | `pehnet.org` | No |
 | `peixe.co` | Yes |
+| `pejookaloo.com` | No |
 | `pekepeke.work` | No |
 | `pekkasipila.com` | No |
 | `pekoyama.com` | No |
@@ -39566,7 +39570,7 @@ Here's a list of public Fediverse services.
 | `wack.industries` | Yes |
 | `wack.win` | Yes |
 | `wackwack.net` | No |
-| `wacky.town` | No |
+| `wacky.town` | Yes |
 | `wackyneighbor.com` | No |
 | `wadjnetech.industries` | Yes |
 | `wadoryu.social` | No |
@@ -41952,8 +41956,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,614 |
-| Normal | 31,295 |
+| Cloudflare | 10,617 |
+| Normal | 31,296 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
