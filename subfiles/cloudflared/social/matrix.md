@@ -82,6 +82,7 @@ Here's a list of public Matrix services.
 | mailstation.de | No |
 | matrix.im | No |
 | matrix.org | Yes |
+| matrix.monero.social | No |
 | mtrx.nz | No |
 | matrix.noevil.pl | No |
 | nopasaran.red | No |
@@ -93,7 +94,6 @@ Here's a list of public Matrix services.
 | pcriot.org | Yes |
 | matrix.perthchat.org | Yes |
 | matrix.pikaviestin.fi | No |
-| matrix.plus.st | No |
 | possum.city | Yes |
 | pragma-messenger.ch | No |
 | www.privacytools.io | Yes |
