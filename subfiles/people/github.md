@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Website is broken](https://github.com/decacent/PyNanoLab/issues/2)
 - [Provide Examples for Interacting with Raw Local Image Files](https://github.com/withastro/docs/issues/3339)
 - [JuiceFS sharded s3 buckets >10 error?](https://github.com/juicedata/juicefs/issues/3684)
 - [Coverage doesn't load on Firefox](https://github.com/codecov/codecov-browser-extension/issues/21)
