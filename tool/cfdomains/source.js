@@ -1,4 +1,4 @@
-const sVERSION = '1.0.4.3',
+const sVERSION = '1.0.4.4',
    sCFGFV = '1.0.4.1',
    args = process.argv,
    fs = require('fs'),
@@ -14,7 +14,7 @@ const cur1 = new Curl();
 cur1.setOpt('SSL_VERIFYPEER', false);
 cur1.setOpt('HTTP_VERSION', CurlHttpVersion.V2PriorKnowledge);
 cur1.setOpt('FOLLOWLOCATION', true);
-cur1.setOpt('CONNECTTIMEOUT', 8);
+cur1.setOpt('CONNECTTIMEOUT', 9);
 cur1.setOpt('TIMEOUT', 660);
 let junk, myConfig = {};
 function saveConf(k = 'cf', v = sCFGFV) {
@@ -1931,8 +1931,8 @@ function chgPROXY() {
 function dlCFJson(i) {
    return new Promise((okay, nope) => {
       const curl = cur1.dupHandle(false);
-      curl.setOpt('URL', 'https://framagit.org/dCF/deCloudflare/-/raw/master/cloudflare_users/domains/JSON/cloudflare_' + i + '.json');
-      curl.setOpt('USERAGENT', 'CfDomains v' + sVERSION);
+      curl.setOpt('URL', 'https://0xacab.org/my-privacy-dns/cloudflare_domains/-/raw/master/JSON/cloudflare_' + i + '.json');
+      curl.setOpt('USERAGENT', 'Mozilla/5.0 (Windows NT 10.0; rv:102.0) Gecko/20100101 Firefox/102.0');
       if (myConfig['proxy'] != '') {
          curl.setOpt('HTTPPROXYTUNNEL', 1);
          curl.setOpt('PROXY', 'socks5h://' + myConfig['proxy'] + '/');
@@ -2011,7 +2011,9 @@ async function do_dlFiles() {
       } catch (e) {
          forceExit('Bad data found');
       }
+      console.log('	OK');
    }
+   console.log('All done!');
    process.exit();
 }
 function asking(qs) {
