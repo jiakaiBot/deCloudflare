@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,349 |
+| com | 6,350 |
 | social | 4,062 |
 | net | 3,216 |
 | org | 2,223 |
@@ -9631,6 +9631,7 @@ Here's a list of public Fediverse services.
 | `dtwylr.net` | No |
 | `dtzbts.xyz` | No |
 | `du-de-au-clavier.net` | No |
+| `dual-space.solutions` | No |
 | `dualpower.supply` | No |
 | `duan.ca` | Yes |
 | `duanrra.cf` | No |
@@ -9763,6 +9764,7 @@ Here's a list of public Fediverse services.
 | `dwscdv3.com` | Yes |
 | `dwx.social` | Yes |
 | `dxcibel.cyou` | No |
+| `dxcomplex.com` | No |
 | `dxlb.nl` | No |
 | `dxts.dev` | Yes |
 | `dxz.ch` | No |
@@ -30536,7 +30538,7 @@ Here's a list of public Fediverse services.
 | `realkane.dev` | No |
 | `reallocats.org` | No |
 | `reallygay.party` | No |
-| `realm.best` | No |
+| `realm.best` | Yes |
 | `realmat.de` | Yes |
 | `realmofespionage.xyz` | No |
 | `realmonsters.rodeo` | No |
@@ -41950,8 +41952,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,613 |
-| Normal | 31,294 |
+| Cloudflare | 10,614 |
+| Normal | 31,295 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
