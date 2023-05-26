@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,353 |
-| social | 4,063 |
-| net | 3,217 |
-| org | 2,223 |
+| com | 6,354 |
+| social | 4,067 |
+| net | 3,218 |
+| org | 2,224 |
 | de | 2,107 |
 
 
@@ -8442,6 +8442,7 @@ Here's a list of public Fediverse services.
 | `dejalle.net` | No |
 | `dejfcold.cz` | No |
 | `dejongs.de` | No |
+| `dek-net.com` | No |
 | `dekameta.com` | No |
 | `dekay.se` | Yes |
 | `dekeyser.au` | Yes |
@@ -11320,6 +11321,7 @@ Here's a list of public Fediverse services.
 | `fdlibre.eu` | No |
 | `fdn.fr` | No |
 | `fdom.social` | No |
+| `fdp.social` | Yes |
 | `fdv.rs` | No |
 | `fe-mastodon.tk` | No |
 | `feaneron.com` | No |
@@ -12253,6 +12255,7 @@ Here's a list of public Fediverse services.
 | `fotoclub.ml` | No |
 | `fotofed.nl` | No |
 | `fotolog.club` | Yes |
+| `fotosleben.art` | No |
 | `fotoverse.net` | No |
 | `fotz.cc` | No |
 | `fouchard.org` | No |
@@ -22245,6 +22248,7 @@ Here's a list of public Fediverse services.
 | `mastodonhost.net` | No |
 | `mastodonhub.com` | No |
 | `mastodonhub.xyz` | No |
+| `mastodonia.org` | No |
 | `mastodonian.city` | No |
 | `mastodonian.online` | No |
 | `mastodonians.social` | No |
@@ -24497,6 +24501,7 @@ Here's a list of public Fediverse services.
 | `muenster.im` | No |
 | `muenster.social` | No |
 | `muensterland.social` | Yes |
+| `muensterman.social` | No |
 | `muesli.org.uk` | No |
 | `muffin-uwu.com` | Yes |
 | `muffin.pm` | No |
@@ -30865,6 +30870,7 @@ Here's a list of public Fediverse services.
 | `resource.pub` | No |
 | `resplendentwebservices.com` | No |
 | `respublicae.eu` | No |
+| `ressonix.social` | No |
 | `restall.io` | Yes |
 | `restart.moe` | No |
 | `restis.de` | No |
@@ -34369,6 +34375,7 @@ Here's a list of public Fediverse services.
 | `spooky.click` | No |
 | `spooky.computer` | No |
 | `spooky.pizza` | Yes |
+| `spooky.social` | No |
 | `spookyg.host` | Yes |
 | `spookygirl.boo` | Yes |
 | `spoon-tamago.com` | Yes |
@@ -35456,6 +35463,7 @@ Here's a list of public Fediverse services.
 | `sysreturn.net` | No |
 | `sysrq.in` | No |
 | `system-imperator.de` | No |
+| `system-of-rampage.online` | No |
 | `systematic.love` | No |
 | `systemd.lol` | No |
 | `systemdfree.org` | No |
@@ -39336,6 +39344,7 @@ Here's a list of public Fediverse services.
 | `vnchich.net` | Yes |
 | `vnecke.social` | No |
 | `vnil.de` | No |
+| `vnshow.net` | Yes |
 | `vntoot.social` | No |
 | `vntx.net` | Yes |
 | `vnxs.de` | No |
@@ -41963,8 +41972,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,617 |
-| Normal | 31,303 |
+| Cloudflare | 10,619 |
+| Normal | 31,310 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
