@@ -6724,7 +6724,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -20239,7 +20239,7 @@ Here's a list of public Fediverse services.
 | `libraryland.social` | Yes |
 | `libratoi.org` | No |
 | `libre-association.party` | No |
-| `libre-chat.com` | Yes |
+| `libre-chat.com` | No |
 | `libre-chat.net` | No |
 | `libre-communaute.fr` | No |
 | `libre-entreprise.com` | No |
@@ -27573,6 +27573,7 @@ Here's a list of public Fediverse services.
 | `outpoa.st` | No |
 | `outpostbrons.nl` | No |
 | `outrider.xyz` | No |
+| `outrnat.nl` | No |
 | `outsideisfree.xyz` | No |
 | `outsidermanga.com` | No |
 | `outsiders.network` | No |
@@ -31703,7 +31704,7 @@ Here's a list of public Fediverse services.
 | `ryey.icu` | No |
 | `ryg.one` | No |
 | `ryick.net` | No |
-| `ryjelsum.xyz` | Yes |
+| `ryjelsum.xyz` | No |
 | `rylander.cc` | Yes |
 | `rylees.net` | Yes |
 | `rym.social` | No |
@@ -41972,8 +41973,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,619 |
-| Normal | 31,310 |
+| Cloudflare | 10,616 |
+| Normal | 31,314 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
