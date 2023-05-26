@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't use this module with Terraform AWS provider version 5](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/issues/384)
 - [Website is broken](https://github.com/decacent/PyNanoLab/issues/2)
 - [Provide Examples for Interacting with Raw Local Image Files](https://github.com/withastro/docs/issues/3339)
 - [JuiceFS sharded s3 buckets >10 error?](https://github.com/juicedata/juicefs/issues/3684)
