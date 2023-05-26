@@ -21169,6 +21169,7 @@ Here's a list of public Fediverse services.
 | `lyctor.space` | No |
 | `lydi.as` | Yes |
 | `lyingvoid.social` | No |
+| `lyk.pw` | Yes |
 | `lyker.jp` | Yes |
 | `lynessence.me` | No |
 | `lyng.space` | No |
@@ -41983,7 +41984,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,622 |
+| Cloudflare | 10,623 |
 | Normal | 31,318 |
 
 
