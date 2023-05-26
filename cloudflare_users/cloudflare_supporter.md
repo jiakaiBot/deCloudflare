@@ -5767,8 +5767,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -11907,6 +11907,7 @@ Do not create new issue or we will close it as duplicate.
 | [TruongSaShin@twitter](https://twitter.com/TruongSaShin/status/1507719438694752265) | advertise |
 | [truongsonhai@twitter](https://twitter.com/truongsonhai/status/1392223378480660483) | advertise |
 | [TrustedhostingI@twitter](https://twitter.com/TrustedhostingI/status/1424252791506145280) | advertise |
+| [TrustTheFBI@twitter](https://twitter.com/TrustTheFBI/status/1657719098883600389) | advertise |
 | [truthseek3r777@twitter](https://twitter.com/truthseek3r777/status/1621878728937586690) | advertise |
 | [tru_zillah@twitter](https://twitter.com/tru_zillah/status/1621142218714263553) | advertise |
 | [TrVNguyn7@twitter](https://twitter.com/TrVNguyn7/status/1554575659833659393) | advertise |
@@ -12657,6 +12658,7 @@ Do not create new issue or we will close it as duplicate.
 | [X2o07595000@twitter](https://twitter.com/X2o07595000/status/1392485807940784128) | advertise |
 | [X303_@twitter](https://twitter.com/X303_/status/1375370199767998468) | advertise |
 | [x66619164331@twitter](https://twitter.com/x66619164331/status/1386276834480992256) | advertise |
+| [xabclink@twitter](https://twitter.com/xabclink/status/1662111293535567872) | advertise |
 | [xanadu000000@twitter](https://twitter.com/xanadu000000/status/1405386980943273984) | advertise |
 | [XanhNai@twitter](https://twitter.com/XanhNai/status/1395198843956862977) | advertise |
 | [Xathurpro@twitter](https://twitter.com/Xathurpro/status/1601616801816711168) | advertise |
