@@ -10461,6 +10461,7 @@ Here's a list of public Fediverse services.
 | `energyfintech.io` | No |
 | `energyflow.rodeo` | No |
 | `enes.lv` | No |
+| `enesgenc.dev` | Yes |
 | `eng.chat` | Yes |
 | `engadgets.news` | No |
 | `engagemedia.org` | Yes |
@@ -25299,6 +25300,7 @@ Here's a list of public Fediverse services.
 | `nekos.one` | Yes |
 | `nekos.us` | Yes |
 | `nekoscience.space` | No |
+| `nekosnowy.moe` | No |
 | `nekotodon.com` | No |
 | `nekover.se` | Yes |
 | `nekoweb.my.id` | No |
@@ -41986,8 +41988,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,623 |
-| Normal | 31,320 |
+| Cloudflare | 10,624 |
+| Normal | 31,321 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
