@@ -5807,6 +5807,7 @@ Here's a list of public Fediverse services.
 | `changeme.fr.eu.org` | No |
 | `changmaoxiang.one` | Yes |
 | `channelinfosec.com` | Yes |
+| `channels.im` | No |
 | `chanoa.de` | No |
 | `chantierlibre.org` | No |
 | `chanyukming.com` | Yes |
@@ -13257,7 +13258,7 @@ Here's a list of public Fediverse services.
 | `gaycity.lgbt` | No |
 | `gaycookie.dev` | Yes |
 | `gaydadon.jp` | No |
-| `gayest.cloud` | No |
+| `gayest.cloud` | Yes |
 | `gayfr.social` | No |
 | `gayfurry.space` | No |
 | `gaygay.me` | Yes |
@@ -14356,6 +14357,7 @@ Here's a list of public Fediverse services.
 | `grwd.com` | No |
 | `gry.st` | No |
 | `grynaserio.pl` | Yes |
+| `gryphon.is` | No |
 | `gryphon68.social` | No |
 | `gryphonic.com` | No |
 | `gsalucci.dev` | No |
@@ -23440,7 +23442,7 @@ Here's a list of public Fediverse services.
 | `miri.site` | No |
 | `miri64.xyz` | No |
 | `miria.love` | No |
-| `mirial.jp` | No |
+| `mirial.jp` | Yes |
 | `mirial.jp.net` | Yes |
 | `mirko-schenk.de` | No |
 | `mirkwood.io` | No |
@@ -26643,6 +26645,7 @@ Here's a list of public Fediverse services.
 | `o5r.ca` | No |
 | `o6o.dev` | No |
 | `oa-dev.com` | No |
+| `oaf.org.au` | Yes |
 | `oak.li` | Yes |
 | `oak.social` | No |
 | `oaks.rocks` | No |
@@ -34112,6 +34115,7 @@ Here's a list of public Fediverse services.
 | `sosh.space` | No |
 | `soshl.one` | No |
 | `sosialist.party` | No |
+| `sotatek.works` | Yes |
 | `soteria.tel` | Yes |
 | `sotl.social` | No |
 | `soton.eco` | No |
@@ -41976,7 +41980,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,618 |
+| Cloudflare | 10,622 |
 | Normal | 31,315 |
 
 
