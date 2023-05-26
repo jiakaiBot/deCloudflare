@@ -65,7 +65,6 @@ Here's a list of public Matrix services.
 | ggc-project.de | Yes |
 | matrix.glasgow.social | No |
 | matrix.gnulinux.club | No |
-| matrix.grin.hu | No |
 | matrix.group.lt | Yes |
 | hackerspaces.be | No |
 | hackliberty.org | No |
@@ -83,7 +82,6 @@ Here's a list of public Matrix services.
 | matrix.im | No |
 | matrix.org | Yes |
 | matrix.monero.social | No |
-| mtrx.nz | No |
 | matrix.noevil.pl | No |
 | nopasaran.red | No |
 | nope.chat | No |
@@ -128,7 +126,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 22 |
-| Normal | 78 |
+| Normal | 76 |
 
 
-### 22% of public Matrix services are using Cloudflare.
+### 22.4% of public Matrix services are using Cloudflare.
