@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,354 |
+| com | 6,355 |
 | social | 4,067 |
 | net | 3,218 |
 | org | 2,224 |
@@ -9249,6 +9249,7 @@ Here's a list of public Fediverse services.
 | `dojos.social` | Yes |
 | `dojpride.org` | No |
 | `dokasen.com` | No |
+| `dokmz.com` | Yes |
 | `dokodare.net` | No |
 | `dokodare.ovh` | Yes |
 | `dokushodon.life` | No |
@@ -33043,6 +33044,7 @@ Here's a list of public Fediverse services.
 | `shittyurl.org` | Yes |
 | `shivering-isles.com` | Yes |
 | `shizentai.jp` | No |
+| `shkolopendre.fr` | No |
 | `shkval.net` | No |
 | `shlomo.in` | No |
 | `shmalls.pw` | No |
@@ -41974,8 +41976,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,617 |
-| Normal | 31,314 |
+| Cloudflare | 10,618 |
+| Normal | 31,315 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
