@@ -112,6 +112,7 @@ Do not create new issue or we will close it as duplicate.
 | [9L4I2vwevY6bAL5@twitter](https://twitter.com/9L4I2vwevY6bAL5/status/1389859334419410951) | advertise |
 | [9m165krat@twitter](https://twitter.com/9m165krat/status/1658789132846649344) | advertise |
 | [9_lose@twitter](https://twitter.com/9_lose/status/1383537124788510722) | advertise |
+| [10kwon_@twitter](https://twitter.com/10kwon_/status/1659920077855281153) | advertise |
 | [11BoizChungTinh@twitter](https://twitter.com/11BoizChungTinh/status/1401051583647911936) | advertise |
 | [11Thanh12@twitter](https://twitter.com/11Thanh12/status/1399774221035655168) | advertise |
 | [11Title@twitter](https://twitter.com/11Title/status/1609502512603881472) | advertise |
@@ -2308,8 +2309,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
