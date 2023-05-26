@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,067 |
 | net | 3,218 |
 | org | 2,224 |
-| de | 2,107 |
+| de | 2,108 |
 
 
 - Mastodon, Pleroma, etc
@@ -8654,6 +8654,7 @@ Here's a list of public Fediverse services.
 | `deuill.org` | Yes |
 | `deus-exmachina.net` | No |
 | `deutrino.net` | No |
+| `deutsche-gamer-gemeinschaft.eu` | No |
 | `deuxchevaux.org` | No |
 | `deuxfleurs.fr` | No |
 | `deuxmillesoixantedix.art` | No |
@@ -20958,6 +20959,7 @@ Here's a list of public Fediverse services.
 | `lrhodes.net` | No |
 | `lri.ovh` | No |
 | `lrk.sh` | Yes |
+| `lrose.de` | No |
 | `lrtg.cf` | No |
 | `lrtg.me` | No |
 | `lrtg.tk` | No |
@@ -31512,6 +31514,7 @@ Here's a list of public Fediverse services.
 | `rsn.io` | No |
 | `rsngrtn.fyi` | No |
 | `rsnstats.com` | No |
+| `rsocial.eu` | No |
 | `rsp-blogs.de` | No |
 | `rss.town` | No |
 | `rssto.social` | Yes |
@@ -41981,7 +41984,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,622 |
-| Normal | 31,315 |
+| Normal | 31,318 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
