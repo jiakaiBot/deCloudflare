@@ -8441,7 +8441,7 @@ Here's a list of public Fediverse services.
 | `deiseroth.de` | No |
 | `dejalle.net` | No |
 | `dejfcold.cz` | No |
-| `dejongs.de` | No |
+| `dejongs.de` | Yes |
 | `dek-net.com` | No |
 | `dekameta.com` | No |
 | `dekay.se` | Yes |
@@ -24796,6 +24796,7 @@ Here's a list of public Fediverse services.
 | `myonlinepi.uk` | Yes |
 | `myopic.one` | No |
 | `myops.de` | No |
+| `myother.life` | No |
 | `myown.social` | No |
 | `myownhost.de` | No |
 | `mypeertube.fr` | No |
@@ -41973,7 +41974,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,616 |
+| Cloudflare | 10,617 |
 | Normal | 31,314 |
 
 
