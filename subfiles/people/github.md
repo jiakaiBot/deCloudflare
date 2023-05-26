@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to set up dependencies of assist_pipeline. Setup failed for dependencies: conversation](https://github.com/home-assistant/core/issues/93622)
 - [Generate takes very long time to finish](https://github.com/OpenBioLink/ThoughtSource/issues/129)
 - [Can't use this module with Terraform AWS provider version 5](https://github.com/terraform-aws-modules/terraform-aws-rds-aurora/issues/384)
 - [Website is broken](https://github.com/decacent/PyNanoLab/issues/2)
