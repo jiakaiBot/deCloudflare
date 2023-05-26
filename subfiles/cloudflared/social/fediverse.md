@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,355 |
 | social | 4,067 |
-| net | 3,218 |
+| net | 3,219 |
 | org | 2,224 |
 | de | 2,108 |
 
@@ -6018,6 +6018,7 @@ Here's a list of public Fediverse services.
 | `chillpeep.zone` | Yes |
 | `chilly.cloud` | No |
 | `chilos.jp` | No |
+| `chimaira.net` | No |
 | `chimera.social` | No |
 | `chimera.website` | Yes |
 | `chimerae.org` | No |
@@ -11451,6 +11452,7 @@ Here's a list of public Fediverse services.
 | `fedibook.net` | No |
 | `fedibot.dev` | No |
 | `fedibox.com` | No |
+| `fedica.ch` | No |
 | `fedica.de` | No |
 | `fedicafe.com` | No |
 | `fedichive.tk` | No |
@@ -41985,7 +41987,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,623 |
-| Normal | 31,318 |
+| Normal | 31,320 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
