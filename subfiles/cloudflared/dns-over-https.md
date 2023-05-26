@@ -69,7 +69,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cgnat.net | No |
 | chenu.ch | No |
 | chromeina.top | Yes |
-| chungyu.com | Yes |
 | cira.ca | Yes |
 | circl.lu | No |
 | clanless.ovh | Yes |
@@ -129,7 +128,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | edgy-dns.com | No |
 | edison42.dev | No |
 | ef67daisuki.club | No |
-| elashri.xyz | Yes |
 | elbschloss.xyz | Yes |
 | elemental.software | Yes |
 | ellichua.com | No |
@@ -167,7 +165,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hopto.org | Yes |
 | hostux.net | No |
 | huque.com | No |
-| i2pd.xyz | No |
 | i81.ru | No |
 | iamninja.ru | No |
 | ihatemy.live | Yes |
@@ -267,9 +264,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | pathofgrace.com | No |
 | piekacz.pl | No |
 | pleumkungz.com | Yes |
-| porteii.com | Yes |
 | privilab.net | No |
-| project-evoex.de | No |
 | puredns.org | Yes |
 | qquack.org | Yes |
 | qwer.pw | Yes |
@@ -338,7 +333,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | vinnyp.xyz | Yes |
 | virga.pp.ua | Yes |
 | vmath.my.id | No |
-| vond.net | No |
 | waifu.cz | Yes |
 | wakgood.net | Yes |
 | wantaquddin.com | No |
@@ -358,8 +352,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 159 |
-| Normal | 180 |
+| Cloudflare | 156 |
+| Normal | 177 |
 
 
-### 46.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
