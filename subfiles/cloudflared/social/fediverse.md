@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,359 |
+| com | 6,360 |
 | social | 4,068 |
-| net | 3,220 |
+| net | 3,221 |
 | org | 2,224 |
-| de | 2,110 |
+| de | 2,111 |
 
 
 - Mastodon, Pleroma, etc
@@ -4796,6 +4796,7 @@ Here's a list of public Fediverse services.
 | `bremen.team` | No |
 | `bremencity.life` | No |
 | `bremensaki.com` | Yes |
+| `brendans-bits.com` | Yes |
 | `brendansbits.com` | Yes |
 | `brendo.org` | Yes |
 | `brennanbenkert.com` | No |
@@ -18622,6 +18623,7 @@ Here's a list of public Fediverse services.
 | `khorneflak.es` | Yes |
 | `khpape.blog` | No |
 | `khsmty.com` | Yes |
+| `khuluma.de` | Yes |
 | `khushrajrathod.com` | Yes |
 | `kianting.info` | No |
 | `kiarc.win` | Yes |
@@ -25595,6 +25597,7 @@ Here's a list of public Fediverse services.
 | `nevira.net` | No |
 | `nevkontakte.com` | No |
 | `new-game.pw` | No |
+| `newan.net` | No |
 | `newathens.net` | No |
 | `newatlantis.xyz` | No |
 | `newbase.cloud` | Yes |
@@ -42004,8 +42007,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,624 |
-| Normal | 31,337 |
+| Cloudflare | 10,626 |
+| Normal | 31,338 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
