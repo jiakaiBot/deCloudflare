@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,358 |
+| com | 6,359 |
 | social | 4,068 |
 | net | 3,220 |
 | org | 2,224 |
-| de | 2,109 |
+| de | 2,110 |
 
 
 - Mastodon, Pleroma, etc
@@ -2681,6 +2681,7 @@ Here's a list of public Fediverse services.
 | `asutodon.tokyo` | No |
 | `asweet.space` | No |
 | `aswmast.life` | No |
+| `asylum.nz` | No |
 | `asymptote.club` | No |
 | `asyn.ca` | Yes |
 | `async.social` | No |
@@ -4420,6 +4421,7 @@ Here's a list of public Fediverse services.
 | `bobbes.de` | No |
 | `bobbinsrobots.com` | No |
 | `bobbyd100.com` | No |
+| `bobbyl140.com` | No |
 | `bobcall.me` | No |
 | `bobek.cz` | No |
 | `boberts.me` | No |
@@ -11055,6 +11057,7 @@ Here's a list of public Fediverse services.
 | `f4255529.fun` | Yes |
 | `f4255529.shop` | Yes |
 | `f4clo.fr` | No |
+| `f4d3z.space` | No |
 | `f4grx.net` | No |
 | `f4n.de` | No |
 | `f5.si` | No |
@@ -16748,7 +16751,7 @@ Here's a list of public Fediverse services.
 | `iofoundry.eu` | Yes |
 | `ioi-xd.net` | Yes |
 | `ioioioio.io` | Yes |
-| `iokibe.net` | No |
+| `iokibe.net` | Yes |
 | `ioloro.com` | No |
 | `iomm.net` | No |
 | `iomm.social` | No |
@@ -19629,7 +19632,7 @@ Here's a list of public Fediverse services.
 | `lakelogaztetxea.net` | No |
 | `laker.gay` | Yes |
 | `laker.tech` | Yes |
-| `lakerturner.co.uk` | Yes |
+| `lakerturner.co.uk` | No |
 | `lakomarka.cat` | Yes |
 | `lakora.us` | No |
 | `lakosmaavangardo.community` | No |
@@ -20536,7 +20539,7 @@ Here's a list of public Fediverse services.
 | `littlebonsai.co.uk` | No |
 | `littlecommunity.de` | No |
 | `littlecosmic.net` | Yes |
-| `littlecritter.space` | Yes |
+| `littlecritter.space` | No |
 | `littlefluffycloud.net` | No |
 | `littlejoy.xyz` | No |
 | `littleletter.de` | No |
@@ -27450,7 +27453,7 @@ Here's a list of public Fediverse services.
 | `osrsga.me` | No |
 | `osrx.chat` | No |
 | `osrx.social` | No |
-| `oss.lgbt` | Yes |
+| `oss.lgbt` | No |
 | `oss.nagoya` | No |
 | `ossum.net` | No |
 | `ost.it` | No |
@@ -31710,6 +31713,7 @@ Here's a list of public Fediverse services.
 | `ryanak.xyz` | Yes |
 | `ryanbooker.com` | No |
 | `ryancarroll.online` | Yes |
+| `ryanccn.dev` | Yes |
 | `ryaneby.com` | No |
 | `ryankes.eu` | Yes |
 | `ryanleesipes.me` | No |
@@ -35036,7 +35040,7 @@ Here's a list of public Fediverse services.
 | `stux.tv` | Yes |
 | `stuxmedia.com` | No |
 | `stuxnet.ai` | Yes |
-| `stuxstore.com` | Yes |
+| `stuxstore.com` | No |
 | `stvmln.com` | No |
 | `stw2.xyz` | Yes |
 | `sty.nu` | No |
@@ -39752,6 +39756,7 @@ Here's a list of public Fediverse services.
 | `warsow-online.de` | No |
 | `warubure.online` | No |
 | `warudo.art` | No |
+| `was-solls.de` | No |
 | `wasabi.social` | Yes |
 | `wasamon.org` | No |
 | `wasatchfront.social` | No |
@@ -41999,8 +42004,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,626 |
-| Normal | 31,330 |
+| Cloudflare | 10,624 |
+| Normal | 31,337 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
