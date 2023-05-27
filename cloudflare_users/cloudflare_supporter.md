@@ -13293,6 +13293,7 @@ Do not create new issue or we will close it as duplicate.
 | [_Nirmal_S@twitter](https://twitter.com/_Nirmal_S/status/1436247489699401728) | advertise |
 | [_omnaidu_@twitter](https://twitter.com/_omnaidu_/status/1443110765746003968) | advertise |
 | [_otkzk_@twitter](https://twitter.com/_otkzk_/status/1488376670256267265) | advertise |
+| [_owen99@twitter](https://twitter.com/_owen99/status/1662423339607142400) | advertise |
 | [_pyromantic@twitter](https://twitter.com/_pyromantic/status/1479104111106674697) | advertise |
 | [_rikisan@twitter](https://twitter.com/_rikisan/status/1389050815122481155) | advertise |
 | [_rurq@twitter](https://twitter.com/_rurq/status/1521161926012719109) | advertise |
