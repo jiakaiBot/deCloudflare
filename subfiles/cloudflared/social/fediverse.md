@@ -6923,6 +6923,7 @@ Here's a list of public Fediverse services.
 | `contentnotify.com` | No |
 | `contentsyndikat.de` | No |
 | `contenttechtodon.org` | No |
+| `contexto.space` | No |
 | `contingency.world` | No |
 | `continja.com` | Yes |
 | `continuousdelivery.social` | No |
@@ -42008,7 +42009,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,626 |
-| Normal | 31,338 |
+| Normal | 31,339 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
