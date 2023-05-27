@@ -2969,6 +2969,7 @@ Here's a list of public Fediverse services.
 | `awoo.world` | Yes |
 | `awoonet.org` | No |
 | `awooo.club` | Yes |
+| `awootism.club` | Yes |
 | `awp.news` | No |
 | `awruff.xyz` | No |
 | `awscommunity.social` | No |
@@ -42010,7 +42011,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,627 |
+| Cloudflare | 10,628 |
 | Normal | 31,340 |
 
 
