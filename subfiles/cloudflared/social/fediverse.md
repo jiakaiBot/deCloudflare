@@ -7860,6 +7860,7 @@ Here's a list of public Fediverse services.
 | `daggercat.gay` | No |
 | `daggerpath.com` | No |
 | `daghe.xyz` | No |
+| `dagn.ru` | No |
 | `dagorlad.cc` | Yes |
 | `dags.dk` | No |
 | `daheim.social` | No |
@@ -42010,7 +42011,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,627 |
-| Normal | 31,339 |
+| Normal | 31,340 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
