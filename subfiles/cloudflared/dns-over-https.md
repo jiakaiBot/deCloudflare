@@ -16,7 +16,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 00dani.me | No |
 | 0ms.run | Yes |
 | 0ooo.icu | Yes |
-| 240130034.xyz | Yes |
 | 280blocker.net | Yes |
 | 360.cn | No |
 | 52306.org | Yes |
@@ -352,8 +351,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 156 |
+| Cloudflare | 155 |
 | Normal | 177 |
 
 
-### 46.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
