@@ -2393,6 +2393,7 @@ Do not create new issue or we will close it as duplicate.
 | [CyberwealthP@twitter](https://twitter.com/CyberwealthP/status/1440298836857999362) | advertise |
 | [CyenFinch@twitter](https://twitter.com/CyenFinch/status/1394179759978934272) | advertise |
 | [CynthiaWeirr_MK@twitter](https://twitter.com/CynthiaWeirr_MK/status/1431973396359811076) | advertise |
+| [cypnightlife@twitter](https://twitter.com/cypnightlife/status/1662461760496861185) | advertise |
 | [CyrixDev@twitter](https://twitter.com/CyrixDev/status/1587457304412114944) | advertise |
 | [cyy_nancy@twitter](https://twitter.com/cyy_nancy/status/1393253162547482626) | advertise |
 | [CyZGaUQMPNlTV1p@twitter](https://twitter.com/CyZGaUQMPNlTV1p/status/1396484819941347336) | advertise |
