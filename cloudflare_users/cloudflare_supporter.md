@@ -5768,8 +5768,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -10135,6 +10135,7 @@ Do not create new issue or we will close it as duplicate.
 | [sarahshoonlai03@twitter](https://twitter.com/sarahshoonlai03/status/1386665164439793665) | advertise |
 | [saraikinewss@twitter](https://twitter.com/saraikinewss/status/1419637755487965190) | advertise |
 | [sarangrasalsR@twitter](https://twitter.com/sarangrasalsR/status/1393452921992318977) | advertise |
+| [saravanarao@twitter](https://twitter.com/saravanarao/status/1662240983311073280) | advertise |
 | [sara_suc@twitter](https://twitter.com/sara_suc/status/1407674919186403332) | advertise |
 | [sarbalgyi12@twitter](https://twitter.com/sarbalgyi12/status/1389785687021457408) | advertise |
 | [sarbaz_vatan_ir@twitter](https://twitter.com/sarbaz_vatan_ir/status/1601340311888093184) | advertise |
