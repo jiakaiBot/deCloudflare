@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,355 |
-| social | 4,067 |
-| net | 3,219 |
+| com | 6,358 |
+| social | 4,068 |
+| net | 3,220 |
 | org | 2,224 |
-| de | 2,108 |
+| de | 2,109 |
 
 
 - Mastodon, Pleroma, etc
@@ -4767,6 +4767,7 @@ Here's a list of public Fediverse services.
 | `brazier.dev` | Yes |
 | `brbb.club` | No |
 | `brcal.cz` | No |
+| `brchoa.com` | No |
 | `brdr.jp` | No |
 | `brdskggs.online` | No |
 | `brdsnest.net` | No |
@@ -9505,6 +9506,7 @@ Here's a list of public Fediverse services.
 | `drawk.cab` | No |
 | `drawsdraws.com` | No |
 | `drazisil.com` | Yes |
+| `drcarlscamp.com` | No |
 | `drcassone.social` | No |
 | `drcit.social` | Yes |
 | `drdeimann.de` | No |
@@ -11313,6 +11315,7 @@ Here's a list of public Fediverse services.
 | `fbi.pm` | Yes |
 | `fbievan.live` | No |
 | `fbk.moe` | Yes |
+| `fboehm.de` | No |
 | `fbsweb.de` | Yes |
 | `fbxl.net` | No |
 | `fc2.page` | No |
@@ -14666,6 +14669,7 @@ Here's a list of public Fediverse services.
 | `hakorena.net` | No |
 | `haku-kazamaru.club` | Yes |
 | `haku.site` | Yes |
+| `hakua.app` | Yes |
 | `hakuhodon.com` | No |
 | `hakui.club` | No |
 | `hakurei.ga` | Yes |
@@ -15859,6 +15863,7 @@ Here's a list of public Fediverse services.
 | `humanrights.social` | Yes |
 | `humantri.be` | No |
 | `humanumest.social` | No |
+| `humber.news` | No |
 | `humbernews.ca` | No |
 | `humbernews.online` | No |
 | `humberto.io` | No |
@@ -19562,6 +19567,7 @@ Here's a list of public Fediverse services.
 | `ladn.org` | No |
 | `ladon-dragon.net` | Yes |
 | `ladragonera.com` | No |
+| `laecuaciondigital.social` | No |
 | `laenredadera.org` | No |
 | `laeran.pl` | Yes |
 | `laernorsk.no` | No |
@@ -25697,6 +25703,7 @@ Here's a list of public Fediverse services.
 | `nicepeople.social` | No |
 | `nicfab.it` | No |
 | `nicheosala.xyz` | No |
+| `nichi.co` | No |
 | `nichijou.dev` | No |
 | `nicholson.is` | No |
 | `nicholson.social` | Yes |
@@ -26556,6 +26563,7 @@ Here's a list of public Fediverse services.
 | `nvtn.dev` | No |
 | `nwah.social` | No |
 | `nwb.social` | No |
+| `nwego.com` | No |
 | `nwex.de` | No |
 | `nwf.earth` | No |
 | `nwl.ms` | No |
@@ -30844,6 +30852,7 @@ Here's a list of public Fediverse services.
 | `reptile.love` | No |
 | `reptilehouse.info` | Yes |
 | `reptileowners.tk` | No |
+| `republa.net` | No |
 | `republic.red` | Yes |
 | `republicofmayhem.xyz` | Yes |
 | `republicofthieves.org` | No |
@@ -34387,6 +34396,7 @@ Here's a list of public Fediverse services.
 | `spooks.boo` | Yes |
 | `spooks.cyou` | No |
 | `spookum.com` | Yes |
+| `spooky.academy` | No |
 | `spooky.camp` | No |
 | `spooky.click` | No |
 | `spooky.computer` | No |
@@ -39356,6 +39366,7 @@ Here's a list of public Fediverse services.
 | `vmtik.com` | No |
 | `vmug.social` | No |
 | `vnaganami.com` | No |
+| `vnchich.cc` | Yes |
 | `vnchich.com` | Yes |
 | `vnchich.net` | Yes |
 | `vnecke.social` | No |
@@ -41988,8 +41999,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,624 |
-| Normal | 31,321 |
+| Cloudflare | 10,626 |
+| Normal | 31,330 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
