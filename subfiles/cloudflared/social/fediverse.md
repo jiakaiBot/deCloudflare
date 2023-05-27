@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,360 |
+| com | 6,361 |
 | social | 4,068 |
 | net | 3,221 |
 | org | 2,224 |
@@ -4007,6 +4007,7 @@ Here's a list of public Fediverse services.
 | `birdtu.be` | No |
 | `biribiri.de` | No |
 | `biribiri.dev` | No |
+| `birming.com` | No |
 | `birming.se` | No |
 | `birth-online.de` | No |
 | `birthday.cat` | No |
@@ -6730,7 +6731,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -42008,7 +42009,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,626 |
+| Cloudflare | 10,627 |
 | Normal | 31,339 |
 
 
