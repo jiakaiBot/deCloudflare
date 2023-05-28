@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,367 |
+| com | 6,368 |
 | social | 4,069 |
 | net | 3,224 |
 | org | 2,226 |
@@ -11953,6 +11953,7 @@ Here's a list of public Fediverse services.
 | `fjara.re` | No |
 | `fjerland.no` | No |
 | `fjmil.com` | No |
+| `fjordstack.com` | No |
 | `fjordur.net` | Yes |
 | `fk.ms` | Yes |
 | `fkeinsten.de` | No |
@@ -31876,7 +31877,7 @@ Here's a list of public Fediverse services.
 | `saferspace.social` | No |
 | `saferweb.io` | Yes |
 | `safestreetrebel.com` | Yes |
-| `safewebbox.com` | No |
+| `safewebbox.com` | Yes |
 | `sagami-yashiro.net` | No |
 | `sagard.com.np` | Yes |
 | `sagconsulting.llc` | No |
@@ -42038,7 +42039,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,642 |
+| Cloudflare | 10,643 |
 | Normal | 31,353 |
 
 
