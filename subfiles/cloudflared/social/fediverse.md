@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,361 |
-| social | 4,068 |
-| net | 3,221 |
-| org | 2,224 |
+| com | 6,363 |
+| social | 4,069 |
+| net | 3,223 |
+| org | 2,225 |
 | de | 2,111 |
 
 
@@ -1190,7 +1190,7 @@ Here's a list of public Fediverse services.
 | `ahlo.club` | No |
 | `ahlroos.me` | No |
 | `ahmadhaghighi.com` | Yes |
-| `ahmedsaad.xyz` | No |
+| `ahmedsaad.xyz` | Yes |
 | `ahmetasabanci.com` | Yes |
 | `ahnlak.com` | Yes |
 | `ahokusa.club` | No |
@@ -1581,6 +1581,7 @@ Here's a list of public Fediverse services.
 | `alphaville.club` | No |
 | `alphawaveradio.co.uk` | No |
 | `alphawuff.com` | No |
+| `alphonso.fr` | No |
 | `alpinehut.xyz` | No |
 | `alpines.club` | No |
 | `alps.family` | Yes |
@@ -2272,6 +2273,7 @@ Here's a list of public Fediverse services.
 | `arcane.blue` | No |
 | `arcane.town` | Yes |
 | `arcaneassociation.network` | Yes |
+| `arcatar.com` | No |
 | `arcepi.net` | No |
 | `arch-linux.cz` | Yes |
 | `archae.me` | No |
@@ -4186,6 +4188,7 @@ Here's a list of public Fediverse services.
 | `blahblahblah.wtf` | No |
 | `blaho.info` | No |
 | `blahut.tech` | Yes |
+| `blairhq.com` | Yes |
 | `blaise.ca` | No |
 | `blaisemcrowly.com` | No |
 | `blake-hofer.net` | No |
@@ -4744,7 +4747,7 @@ Here's a list of public Fediverse services.
 | `brandonage.xyz` | No |
 | `brandonrozek.com` | No |
 | `brandonshire.blog` | No |
-| `brandonsjournal.com` | Yes |
+| `brandonsjournal.com` | No |
 | `brandontreb.com` | No |
 | `brands.chat` | No |
 | `brands.town` | No |
@@ -8864,6 +8867,7 @@ Here's a list of public Fediverse services.
 | `die-stammrunde.de` | No |
 | `die.one` | Yes |
 | `die3um2.de` | No |
+| `dieandalusier.net` | No |
 | `diede.app` | No |
 | `diedyoung.com` | No |
 | `diefreien.club` | No |
@@ -10873,6 +10877,7 @@ Here's a list of public Fediverse services.
 | `evanv.nl` | No |
 | `eveland.dev` | No |
 | `eveley.net` | No |
+| `evelyn.fitness` | Yes |
 | `evelyndesu.com` | No |
 | `evelynyap.com` | No |
 | `eveningzoo.club` | No |
@@ -11542,6 +11547,7 @@ Here's a list of public Fediverse services.
 | `feditoxos.eu` | No |
 | `feditrends.live` | Yes |
 | `feditube.com` | No |
+| `feditubo.yt` | No |
 | `fediunam.site` | No |
 | `fediuni.xyz` | No |
 | `fediv.de` | No |
@@ -14481,6 +14487,7 @@ Here's a list of public Fediverse services.
 | `gwcoffey.com` | No |
 | `gweep.cat` | No |
 | `gwei.cz` | Yes |
+| `gwenillia.dev` | No |
 | `gwitter.li` | No |
 | `gwomp.com` | No |
 | `gww.app` | No |
@@ -15686,6 +15693,7 @@ Here's a list of public Fediverse services.
 | `hostdon.jp` | No |
 | `hostdon.ne.jp` | Yes |
 | `hostdon.net` | No |
+| `hosted.eu.org` | No |
 | `hosterra.social` | No |
 | `hostg.ovh` | No |
 | `hostifi.com` | Yes |
@@ -18474,6 +18482,7 @@ Here's a list of public Fediverse services.
 | `keltruc.one` | No |
 | `kelu.one` | Yes |
 | `kelvsyc.com` | No |
+| `kember.net` | Yes |
 | `kemitix.net` | No |
 | `kemo.city` | No |
 | `kemo.no` | No |
@@ -21324,6 +21333,7 @@ Here's a list of public Fediverse services.
 | `macwinlin.cloud` | Yes |
 | `macwright.com` | Yes |
 | `mad-scientist.club` | No |
+| `madameplay.com.br` | No |
 | `madbob.org` | No |
 | `madcam.co.uk` | No |
 | `madder-mad.net` | No |
@@ -24939,6 +24949,7 @@ Here's a list of public Fediverse services.
 | `na2na.dev` | Yes |
 | `na2na.website` | No |
 | `naapurinpoika.com` | No |
+| `naarm.social` | No |
 | `naasat.in` | No |
 | `nabago.net` | No |
 | `naber.space` | No |
@@ -42011,8 +42022,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,628 |
-| Normal | 31,340 |
+| Cloudflare | 10,631 |
+| Normal | 31,348 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
