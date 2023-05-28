@@ -33042,6 +33042,7 @@ Here's a list of public Fediverse services.
 | `shina-rimo.cafe` | No |
 | `shinaaamo.com` | Yes |
 | `shinenelson.com` | No |
+| `shinkai.party` | Yes |
 | `shinkaifan.com` | No |
 | `shinomin.me` | Yes |
 | `shinomiya.group` | Yes |
@@ -42037,7 +42038,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,641 |
+| Cloudflare | 10,642 |
 | Normal | 31,353 |
 
 
