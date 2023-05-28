@@ -647,6 +647,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlnueaymiSudad@twitter](https://twitter.com/AlnueaymiSudad/status/1618195569314516993) | advertise |
 | [AloneBo61596924@twitter](https://twitter.com/AloneBo61596924/status/1491312904473550848) | advertise |
 | [alonehp6789@twitter](https://twitter.com/alonehp6789/status/1621523604965064705) | advertise |
+| [AlphaAntiLeak@twitter](https://twitter.com/AlphaAntiLeak/status/1657719098883600389) | advertise |
 | [Alsadar13@twitter](https://twitter.com/Alsadar13/status/1552128101655924736) | advertise |
 | [AlsamiDr@twitter](https://twitter.com/AlsamiDr/status/1390431366794432516) | advertise |
 | [AltafBh79770188@twitter](https://twitter.com/AltafBh79770188/status/1400425714541756416) | advertise |
@@ -2310,8 +2311,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -8815,6 +8816,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pacakmedan@twitter](https://twitter.com/Pacakmedan/status/1647803627619368960) | advertise |
 | [pacoreguenga@twitter](https://twitter.com/pacoreguenga/status/1526355256719945730) | advertise |
 | [PacoTomei@twitter](https://twitter.com/PacoTomei/status/1639698515193393154) | advertise |
+| [padmapradeep@twitter](https://twitter.com/padmapradeep/status/1662852177218654208) | advertise |
 | [PahadSae@twitter](https://twitter.com/PahadSae/status/1399339499348389890) | advertise |
 | [PahalGram@twitter](https://twitter.com/PahalGram/status/1558149153049710593) | advertise |
 | [pahimu_ko@twitter](https://twitter.com/pahimu_ko/status/1464961938492821506) | advertise |
