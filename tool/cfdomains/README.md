@@ -43,7 +43,7 @@ rm -r .cfdomains_conf
 
 
 ### Download
-Current Version: **1.0.4.4**
+Current Version: **1.0.4.5**
 
 - [Windows](https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.exe?inline=false)
 - [Mac OS](https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.app?inline=false)
