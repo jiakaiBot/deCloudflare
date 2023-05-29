@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CRON not working for Python and Node SDK, but working for cURL](https://github.com/getsentry/sentry/issues/49901)
 - [Failed to connect, are you sure your server works via FTP or FTPS? Users sometimes get this error when the server only supports SFTP.](https://github.com/SamKirkland/FTP-Deploy-Action/issues/402)
 - [Cloudflare Workers environment don't have FileReader defiend](https://github.com/aws/aws-sdk-js-v3/issues/4765)
 - [Unable to set up dependencies of assist_pipeline. Setup failed for dependencies: conversation](https://github.com/home-assistant/core/issues/93622)
