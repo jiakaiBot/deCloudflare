@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Paypal Popup loading stuck and then closing](https://github.com/pretix/pretix/issues/3365)
 - [CRON not working for Python and Node SDK, but working for cURL](https://github.com/getsentry/sentry/issues/49901)
 - [Failed to connect, are you sure your server works via FTP or FTPS? Users sometimes get this error when the server only supports SFTP.](https://github.com/SamKirkland/FTP-Deploy-Action/issues/402)
 - [Cloudflare Workers environment don't have FileReader defiend](https://github.com/aws/aws-sdk-js-v3/issues/4765)
