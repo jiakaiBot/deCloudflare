@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,368 |
 | social | 4,069 |
-| net | 3,224 |
+| net | 3,225 |
 | org | 2,226 |
 | de | 2,111 |
 
@@ -11144,6 +11144,7 @@ Here's a list of public Fediverse services.
 | `fairy.id` | Yes |
 | `fairy.life` | No |
 | `fairy.zone` | No |
+| `fairydust.ch` | No |
 | `fairyland.cyou` | No |
 | `fairymeadow.org` | No |
 | `fairytail.party` | No |
@@ -11527,6 +11528,7 @@ Here's a list of public Fediverse services.
 | `fedipress.au` | No |
 | `fedipress.com` | No |
 | `fedir.de` | No |
+| `fedirelay.xyz` | Yes |
 | `fedisabled.de` | No |
 | `fedisabled.social` | No |
 | `fedisaur.us` | No |
@@ -11594,7 +11596,7 @@ Here's a list of public Fediverse services.
 | `fediverse.rocks` | No |
 | `fediverse.ru` | No |
 | `fediverse.science` | No |
-| `fediverse.services` | Yes |
+| `fediverse.services` | No |
 | `fediverse.town` | No |
 | `fediverse.tv` | No |
 | `fediverse.us` | No |
@@ -13592,6 +13594,7 @@ Here's a list of public Fediverse services.
 | `gharbeia.net` | No |
 | `ghastr.com` | No |
 | `ghetti.monster` | No |
+| `ghetto-fabulo.us` | No |
 | `ghibah.space` | No |
 | `ghidragoons.com` | Yes |
 | `ghis94.ovh` | No |
@@ -16812,6 +16815,7 @@ Here's a list of public Fediverse services.
 | `ipoac.nl` | No |
 | `ipol.social` | No |
 | `ipolska.pl` | No |
+| `iproprietor.net` | No |
 | `ipsw.uk` | Yes |
 | `ipsyn.net` | No |
 | `ipv4.is` | No |
@@ -39700,6 +39704,7 @@ Here's a list of public Fediverse services.
 | `wakkeren.nl` | No |
 | `wakkerewereld.nu` | No |
 | `wakkerisme.nl` | No |
+| `wakuwaku.boo` | Yes |
 | `wakuwakup.net` | Yes |
 | `wala2x.de` | Yes |
 | `walamana.de` | Yes |
@@ -40897,6 +40902,7 @@ Here's a list of public Fediverse services.
 | `xitus.club` | No |
 | `xiu.io` | No |
 | `xiupos.net` | Yes |
+| `xiv.gay` | No |
 | `xiv.social` | No |
 | `xivdata.com` | Yes |
 | `xiweb.de` | No |
@@ -41065,6 +41071,7 @@ Here's a list of public Fediverse services.
 | `xor.social` | No |
 | `xorbit.me` | No |
 | `xorkle.com` | No |
+| `xorp.hu` | No |
 | `xoru.nl` | No |
 | `xorwell.de` | No |
 | `xoxarle.com` | No |
@@ -42039,8 +42046,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,643 |
-| Normal | 31,353 |
+| Cloudflare | 10,644 |
+| Normal | 31,359 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
