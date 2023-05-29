@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,369 |
+| com | 6,370 |
 | social | 4,070 |
 | net | 3,225 |
 | org | 2,226 |
@@ -25362,6 +25362,7 @@ Here's a list of public Fediverse services.
 | `nelson.fun` | Yes |
 | `nelson.social` | Yes |
 | `nelson.zone` | Yes |
+| `nelsonbeans.com` | No |
 | `nem.one` | Yes |
 | `nemargut.com` | No |
 | `nemertes.nl` | No |
@@ -42058,7 +42059,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,646 |
-| Normal | 31,368 |
+| Normal | 31,369 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
