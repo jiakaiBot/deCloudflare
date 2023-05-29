@@ -2248,6 +2248,7 @@ Here's a list of public Fediverse services.
 | `aquova.net` | Yes |
 | `ar.al` | No |
 | `ar76.eu` | No |
+| `arabi.gay` | No |
 | `arachnid.town` | Yes |
 | `arachnitech.com` | Yes |
 | `aragon.sh` | Yes |
@@ -16675,6 +16676,7 @@ Here's a list of public Fediverse services.
 | `intercal.top` | No |
 | `interconnected.systems` | No |
 | `interestingtimes.club` | No |
+| `interestingzinc.xyz` | Yes |
 | `interfel.de` | No |
 | `interferencias.tech` | No |
 | `interfesse.net` | No |
@@ -36163,6 +36165,7 @@ Here's a list of public Fediverse services.
 | `tennisfriends.co.uk` | No |
 | `tenno.social` | Yes |
 | `tennt.in` | No |
+| `tenochtitlan.city` | No |
 | `tenoru.xyz` | No |
 | `tenpenny.network` | No |
 | `tenpest-moon.uk` | Yes |
@@ -42047,8 +42050,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,642 |
-| Normal | 31,362 |
+| Cloudflare | 10,643 |
+| Normal | 31,364 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
