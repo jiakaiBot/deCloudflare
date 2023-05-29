@@ -12270,6 +12270,7 @@ Here's a list of public Fediverse services.
 | `foss.technology` | Yes |
 | `foss.tube` | No |
 | `fossdle.org` | No |
+| `fossfarmers.company` | Yes |
 | `fossforward.com` | Yes |
 | `fossgalaxy.com` | No |
 | `fossgang.org` | No |
@@ -14566,7 +14567,7 @@ Here's a list of public Fediverse services.
 | `hachyderm.wtf` | No |
 | `haciendacourts.com` | Yes |
 | `hack13.me` | Yes |
-| `hack13.one` | No |
+| `hack13.one` | Yes |
 | `hack2g2.fr` | Yes |
 | `hackabee.fr` | No |
 | `hackaday.com` | No |
@@ -15142,6 +15143,7 @@ Here's a list of public Fediverse services.
 | `hengsha.host` | No |
 | `henkkalaukka.fi` | No |
 | `henny.mobi` | No |
+| `henrick.co` | No |
 | `henrick.me` | No |
 | `henriksen.is` | Yes |
 | `henrybrink.de` | No |
@@ -38853,7 +38855,7 @@ Here's a list of public Fediverse services.
 | `ustim.ru` | No |
 | `usual.biz` | No |
 | `usuwolabo.page` | No |
-| `usuwotech.page` | Yes |
+| `usuwotech.page` | No |
 | `usuyuki.net` | Yes |
 | `usuzakuraya.us` | No |
 | `usvs.xyz` | No |
@@ -42050,8 +42052,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,643 |
-| Normal | 31,364 |
+| Cloudflare | 10,644 |
+| Normal | 31,365 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
