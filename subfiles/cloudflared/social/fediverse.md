@@ -1959,7 +1959,7 @@ Here's a list of public Fediverse services.
 | `animeisgay.com` | No |
 | `animepres.org` | No |
 | `animeprincess.net` | No |
-| `animesexual.community` | Yes |
+| `animesexual.community` | No |
 | `animexx.de` | No |
 | `animint.fr` | No |
 | `animuses.fr` | No |
@@ -7454,7 +7454,7 @@ Here's a list of public Fediverse services.
 | `cthulhu.social` | No |
 | `ctmiller.net` | No |
 | `ctrl-shift.net` | No |
-| `ctrlaltdog.xyz` | Yes |
+| `ctrlaltdog.xyz` | No |
 | `ctrlobsolete.com` | Yes |
 | `ctrlz.es` | Yes |
 | `ctseuro.com` | No |
@@ -17795,7 +17795,7 @@ Here's a list of public Fediverse services.
 | `jorropo.ovh` | No |
 | `jort.space` | No |
 | `jorts.horse` | No |
-| `jorts.life` | Yes |
+| `jorts.life` | No |
 | `jorts.online` | Yes |
 | `jorun.dev` | Yes |
 | `josa.social` | Yes |
@@ -34530,6 +34530,7 @@ Here's a list of public Fediverse services.
 | `squeaky.social` | Yes |
 | `squeaky.tech` | No |
 | `squeakycarrot.com` | No |
+| `squeeble.lol` | Yes |
 | `squeegee.ink` | No |
 | `squeegee.one` | Yes |
 | `squeep.com` | No |
@@ -42046,8 +42047,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,644 |
-| Normal | 31,359 |
+| Cloudflare | 10,642 |
+| Normal | 31,362 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
