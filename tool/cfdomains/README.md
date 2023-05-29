@@ -56,12 +56,13 @@ Current Version: **1.0.4.4**
 
 
 ```
-        CfDomains
+        CfDomains  
 
 Usage:
         cfdomains [| --online ]www.example.com
         cfdomains --dir
         cfdomains --proxy
+        cfdomains --dnsip
         cfdomains --dl[| 0,1,...,a,b,...z]
         cfdomains [--report|--delist] www.example.com
         cfdomains [--categorise[|online]|--categorize[|online]] input.txt export.csv
@@ -87,7 +88,11 @@ Details:
 
         cfdomains --proxy
                 Set or Unset SOCKS proxy
-                Current SOCKS proxy:
+                Current SOCKS proxy: 
+
+        cfdomains --dnsip
+                Set or Unset DNS Server
+                Current DNS Server: 
 
         cfdomains --dl
         cfdomains --dl a,b,c
