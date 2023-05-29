@@ -71,7 +71,6 @@ Here's a list of public Matrix services.
 | chatserver.hashi.sbs | Yes |
 | hot-chilli.im | No |
 | synapse.hyteck.de | No |
-| matrix.jonasled.de | Yes |
 | junta.pl | Yes |
 | kitsunes.chat | Yes |
 | matrix.libreon.fr | No |
@@ -86,6 +85,7 @@ Here's a list of public Matrix services.
 | nopasaran.red | No |
 | nope.chat | No |
 | matrix.norge.chat | Yes |
+| hs.obco.pro | Yes |
 | oikei.net | No |
 | matrix.ombreport.info | No |
 | pcriot.org | Yes |
