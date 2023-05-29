@@ -3713,6 +3713,7 @@ Do not create new issue or we will close it as duplicate.
 | [Gracema90004826@twitter](https://twitter.com/Gracema90004826/status/1390090100466274306) | advertise |
 | [GraceParree@twitter](https://twitter.com/GraceParree/status/1383247260255801348) | advertise |
 | [GrahameSmith8@twitter](https://twitter.com/GrahameSmith8/status/1480915785505820677) | advertise |
+| [granarytree@twitter](https://twitter.com/granarytree/status/1661041282758631426) | advertise |
 | [GrantCentury@twitter](https://twitter.com/GrantCentury/status/1601220343368404992) | advertise |
 | [GraphicalDot@twitter](https://twitter.com/GraphicalDot/status/1551193287364849665) | advertise |
 | [graphilme@twitter](https://twitter.com/graphilme/status/1526665076924723200) | advertise |
@@ -4767,6 +4768,7 @@ Do not create new issue or we will close it as duplicate.
 | [inayamahum1@twitter](https://twitter.com/inayamahum1/status/1391876058496917504) | advertise |
 | [inayatsadat3@twitter](https://twitter.com/inayatsadat3/status/1403027629691842575) | advertise |
 | [InceBoy01@twitter](https://twitter.com/InceBoy01/status/1603088787118104583) | advertise |
+| [IncestRockz@twitter](https://twitter.com/IncestRockz/status/1661622902264041472) | advertise |
 | [inchenaim@twitter](https://twitter.com/inchenaim/status/1456202184735920129) | advertise |
 | [Incline_Studio@twitter](https://twitter.com/Incline_Studio/status/1391449192116023297) | advertise |
 | [ind6969@twitter](https://twitter.com/ind6969/status/1382419332383309829) | advertise |
@@ -6837,6 +6839,7 @@ Do not create new issue or we will close it as duplicate.
 | [Manman83837209@twitter](https://twitter.com/Manman83837209/status/1601969110677880833) | advertise |
 | [mannhi_1997@twitter](https://twitter.com/mannhi_1997/status/1504187126702768129) | advertise |
 | [Manoj29630Manoj@twitter](https://twitter.com/Manoj29630Manoj/status/1642349301971193857) | advertise |
+| [ManouHosting@twitter](https://twitter.com/ManouHosting/status/1660827055582216193) | advertise |
 | [ManSem_95@twitter](https://twitter.com/ManSem_95/status/1391726222770458627) | advertise |
 | [Mansoor81118164@twitter](https://twitter.com/Mansoor81118164/status/1400092367953154053) | advertise |
 | [mansor_malleki4@twitter](https://twitter.com/mansor_malleki4/status/1530961700962373632) | advertise |
@@ -9749,6 +9752,7 @@ Do not create new issue or we will close it as duplicate.
 | [RidhiyaAulia@twitter](https://twitter.com/RidhiyaAulia/status/1637857799442165761) | advertise |
 | [rifat_wp@twitter](https://twitter.com/rifat_wp/status/1512383768124071938) | advertise |
 | [Right71407038@twitter](https://twitter.com/Right71407038/status/1377305531769974790) | advertise |
+| [RightTron@twitter](https://twitter.com/RightTron/status/1659663226768850946) | advertise |
 | [RihanMalik70304@twitter](https://twitter.com/RihanMalik70304/status/1643201086763991040) | advertise |
 | [RimonIs52049086@twitter](https://twitter.com/RimonIs52049086/status/1480451386680639488) | advertise |
 | [Rin98111380@twitter](https://twitter.com/Rin98111380/status/1395429981451284485) | advertise |
@@ -10060,6 +10064,7 @@ Do not create new issue or we will close it as duplicate.
 | [salmank46948405@twitter](https://twitter.com/salmank46948405/status/1382572667207888898) | advertise |
 | [Salman_8778@twitter](https://twitter.com/Salman_8778/status/1447987374500171777) | advertise |
 | [Salva_vakili@twitter](https://twitter.com/Salva_vakili/status/1587052286827581440) | advertise |
+| [salviaofficina@twitter](https://twitter.com/salviaofficina/status/1661741581509197825) | advertise |
 | [Sam13116820@twitter](https://twitter.com/Sam13116820/status/1389851288922333188) | advertise |
 | [sam18606211@twitter](https://twitter.com/sam18606211/status/1387734057543294976) | advertise |
 | [SAM18905293@twitter](https://twitter.com/SAM18905293/status/1549526126602633218) | advertise |
@@ -10410,6 +10415,7 @@ Do not create new issue or we will close it as duplicate.
 | [Shivani46522218@twitter](https://twitter.com/Shivani46522218/status/1401096442291261443) | advertise |
 | [shiva_vsnl@twitter](https://twitter.com/shiva_vsnl/status/1646979901742804993) | advertise |
 | [ShivSivakumaran@twitter](https://twitter.com/ShivSivakumaran/status/1649640569860427776) | advertise |
+| [Shiwamverma1998@twitter](https://twitter.com/Shiwamverma1998/status/1659874646798499841) | advertise |
 | [Shjrooo@twitter](https://twitter.com/Shjrooo/status/1565040548141969408) | advertise |
 | [shoguniphicus@twitter](https://twitter.com/shoguniphicus/status/1387414142043058177) | advertise |
 | [shoonLaPyae4@twitter](https://twitter.com/shoonLaPyae4/status/1389818843208589315) | advertise |
