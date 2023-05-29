@@ -624,6 +624,7 @@ Or is this merely a case of simple modesty?
 | Fernando Serto | Employee | |
 | Filipp Nisenzoun | Employee |  |
 | Filippo Valsorda | Employee | https://twitter.com/filosottile<br>https://github.com/FiloSottile<br>filippo@cloudflare.com |
+| Fisher Darling | Employee | |
 | Flaviu Lang | Account Executive |  |
 | Flora Lee | Employee |  |
 | Florence Chan | Legal Operations Manager |  |
@@ -1863,6 +1864,7 @@ Or is this merely a case of simple modesty?
 | Wesley Evans | Employee | |
 | Wesley Shi | Systems Engineer |  |
 | Wesley Soeters | Account Executive | https://twitter.com/WesleySoeters |
+| Will Bartlett | Employee | |
 | Will Buckner | Systems Engineer |  |
 | Will Clithero | Customer Development |  |
 | Will Greenberg | Account Executive |  |
