@@ -4813,6 +4813,7 @@ Do not create new issue or we will close it as duplicate.
 | [iOSDeveloperGuy@twitter](https://twitter.com/iOSDeveloperGuy/status/1604287316184469505) | advertise |
 | [iOS_Privacy@twitter](https://twitter.com/iOS_Privacy/status/1474026863324504064) | advertise |
 | [ipfwinter_@twitter](https://twitter.com/ipfwinter_/status/1491059498303516672) | advertise |
+| [iPhone6s_mini@twitter](https://twitter.com/iPhone6s_mini/status/1663240634856087553) | advertise |
 | [iqbalbirrul@twitter](https://twitter.com/iqbalbirrul/status/1401703605950828548) | advertise |
 | [iqbwlx@twitter](https://twitter.com/iqbwlx/status/1625399251491598341) | advertise |
 | [irafaj_ila@twitter](https://twitter.com/irafaj_ila/status/1402692024067936260) | advertise |
@@ -11321,8 +11322,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
