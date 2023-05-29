@@ -1684,6 +1684,7 @@ Here's a list of public Fediverse services.
 | `amazonfrown.tk` | No |
 | `ambag.es` | No |
 | `amberhearts.art` | No |
+| `ambience.sk` | No |
 | `ambient.fm` | No |
 | `ambition.rip` | No |
 | `amble.blog` | Yes |
@@ -18688,6 +18689,7 @@ Here's a list of public Fediverse services.
 | `kif.rocks` | No |
 | `kig.life` | No |
 | `kigdon.xyz` | No |
+| `kiggy.land` | No |
 | `kigurumi.fans` | No |
 | `kigurumi.fun` | No |
 | `kiichan.space` | No |
@@ -38680,6 +38682,7 @@ Here's a list of public Fediverse services.
 | `unmus.de` | No |
 | `unmusked.social` | No |
 | `unmute.community` | No |
+| `unnamed.group` | Yes |
 | `unnecessary.tech` | Yes |
 | `unnerv.jp` | No |
 | `unnovae.net` | No |
@@ -42054,8 +42057,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,644 |
-| Normal | 31,367 |
+| Cloudflare | 10,645 |
+| Normal | 31,369 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
