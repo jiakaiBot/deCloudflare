@@ -8214,6 +8214,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguyennLuong@twitter](https://twitter.com/NguyennLuong/status/1629023245801508864) | advertise |
 | [NguyenP04335211@twitter](https://twitter.com/NguyenP04335211/status/1471757635879780356) | advertise |
 | [NguyenP80191706@twitter](https://twitter.com/NguyenP80191706/status/1567330421897310208) | advertise |
+| [nguyenquocanhdz@twitter](https://twitter.com/nguyenquocanhdz/status/1663060107155083264) | advertise |
 | [Nguyent24495937@twitter](https://twitter.com/Nguyent24495937/status/1497216805932126215) | advertise |
 | [NguyenT53568981@twitter](https://twitter.com/NguyenT53568981/status/1541434099692617728) | advertise |
 | [NguyenT56005155@twitter](https://twitter.com/NguyenT56005155/status/1505492939254157312) | advertise |
