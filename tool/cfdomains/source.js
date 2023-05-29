@@ -1,5 +1,5 @@
-const sVERSION = '1.0.4.4',
-   sCFGFV = '1.0.4.1',
+const sVERSION = '1.0.4.5',
+   sCFGFV = '1.0.4.5',
    args = process.argv,
    fs = require('fs'),
    rle = require('readline'),
@@ -28,6 +28,7 @@ if (fs.existsSync(confFile)) {
       myConfig['cf'] = junk['cf'];
       myConfig['save'] = junk['save'] || './cfdomains_Data/';
       myConfig['proxy'] = junk['proxy'] || '';
+      myConfig['dnsip'] = junk['dnsip'] || '';
       myConfig['helper'] = junk['helper'] || '';
    } else {
       try {
@@ -1928,6 +1929,20 @@ function chgPROXY() {
       process.exit();
    });
 }
+function chgDNSIP() {
+   let rl = rle.createInterface(process.stdin, process.stdout);
+   console.log('Current DNS Server: ' + myConfig['dnsip']);
+   console.log('Set none to use system default DNS server.');
+   rl.question('Input DNS Server [IP or IP:Port]: ', (l) => {
+      rl.close();
+      if (/^([0-9]{1,3})\.([0-9]{1,3})\.([0-9]{1,3})\.([0-9]{1,3})(|\:([0-9]{1,5}))$/.test(l)) {
+         saveConf('dnsip', l);
+      } else {
+         saveConf('dnsip', '');
+      }
+      process.exit();
+   });
+}
 function dlCFJson(i) {
    return new Promise((okay, nope) => {
       const curl = cur1.dupHandle(false);
@@ -2020,7 +2035,7 @@ function asking(qs) {
    return new Promise((okay, nope) => {
       const curl = cur1.dupHandle(false);
       curl.setOpt('URL', 'https://karma.crimeflare.eu.org:1984/api/cfdomains/');
-      curl.setOpt('USERAGENT', 'CfDomains v' + sVERSION);
+      curl.setOpt('USERAGENT', 'CfDomains');
       if (myConfig['proxy'] != '') {
          curl.setOpt('HTTPPROXYTUNNEL', 1);
          curl.setOpt('PROXY', 'socks5h://' + myConfig['proxy'] + '/');
@@ -2118,7 +2133,7 @@ async function do_warrior() {
       let rl = rle.createInterface(process.stdin, process.stdout);
       console.log("\n	/// #Karma Privacy Policy ///\n");
       console.log('	1. We do not log your IP address.');
-      console.log('	2. We only receive domain name you analyzed.');
+      console.log('	2. We receive only domain name you analyzed.');
       console.log('	3. Your WarriorID is random. We use it only to prevent abuse.');
       console.log('	4. Your WarriorID will be deleted from our server after 7 days of inactivity.');
       console.log();
@@ -2137,13 +2152,16 @@ async function do_warrior() {
       console.log('======================');
       console.log('Press CTRL+C to stop.');
       console.log("======================\n");
-      echot('Starting Warrior');
       echot('Your ID is ' + myConfig['helper']);
-      junk = await dnsquery('NS', 'debian.org');
+      echot('Starting Warrior');
+      if (myConfig['dnsip'] != '') {
+         dns.setServers([myConfig['dnsip']]);
+      }
+      junk = await dnsquery('NS', 'google.com');
       if (junk[1] != 'OK') {
          forceExit(junk[1]);
       }
-      junk = await dnsquery('A', 'deb.debian.org');
+      junk = await dnsquery('A', 'www.google.com');
       if (junk[1] != 'OK') {
          forceExit(junk[1]);
       }
@@ -2160,7 +2178,7 @@ async function do_warrior() {
       let doubt = 0;
       while (true) {
          await sleep(500);
-         echot('Getting');
+         echot(':: Getting');
          junk = await asking('do=get&hv=' + myConfig['helper']);
          if (junk.indexOf('[') !== 0) {
             echot('Unable to connect. Will try again...');
@@ -2178,7 +2196,8 @@ async function do_warrior() {
             }
             continue;
          }
-         echot('Analysing');
+         echot('received ' + junk[1].length);
+         echot(':: Analysing');
          let mbd = [],
             j1all = 0;
          for (let bdomain of junk[1]) {
@@ -2214,7 +2233,8 @@ async function do_warrior() {
                forceExit('This is not clean connection!');
             }
          }
-         echot('Reporting');
+         echot('suspected ' + mbd.length);
+         echot(':: Reporting');
          junk = await asking('do=rb&hv=' + myConfig['helper'] + '&ds=' + mbd.join(','));
          if (junk.indexOf('[') !== 0) {
             echot('Unable to connect. Will try again...');
@@ -2475,6 +2495,7 @@ if (myConfig['cf'] != sCFGFV) {
    console.log('	cfdomains [| --online ]\x1b[43mwww.example.com\x1b[0m');
    console.log('	cfdomains --dir');
    console.log('	cfdomains --proxy');
+   console.log('	cfdomains --dnsip');
    console.log('	cfdomains --dl[| 0,1,...,a,b,...z]');
    console.log('	cfdomains [--report|--delist] \x1b[43mwww.example.com\x1b[0m');
    console.log('	cfdomains [--categorise[|online]|--categorize[|online]] \x1b[43minput.txt\x1b[0m \x1b[43mexport.csv\x1b[0m');
@@ -2498,6 +2519,9 @@ if (myConfig['cf'] != sCFGFV) {
    console.log('	cfdomains --proxy');
    console.log('		Set or Unset SOCKS proxy');
    console.log('		\x1b[4mCurrent SOCKS proxy\x1b[0m: ' + myConfig['proxy'] + "\n");
+   console.log('	cfdomains --dnsip');
+   console.log('		Set or Unset DNS Server');
+   console.log('		\x1b[4mCurrent DNS Server\x1b[0m: ' + (myConfig['dnsip'] == '' ? 'System Defined' : myConfig['dnsip']) + "\n");
    console.log('	cfdomains --dl');
    console.log('	cfdomains --dl \x1b[43ma,b,c\x1b[0m');
    console.log('		\x1b[32mdl\x1b[0m: Download list files from deCloudflare git');
@@ -2524,6 +2548,8 @@ if (myConfig['cf'] != sCFGFV) {
    chgLDR();
 } else if (args[2] === '--proxy') {
    chgPROXY();
+} else if (args[2] === '--dnsip') {
+   chgDNSIP();
 } else if (args[2] === '--dl') {
    do_dlFiles();
 } else if (args[2] === '--report') {
