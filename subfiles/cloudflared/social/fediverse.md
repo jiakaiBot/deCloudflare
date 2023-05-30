@@ -21876,6 +21876,7 @@ Here's a list of public Fediverse services.
 | `mason.org.pl` | No |
 | `masonbee.nz` | No |
 | `masonx.ca` | Yes |
+| `masost.one` | No |
 | `masq.world` | No |
 | `masr.social` | No |
 | `mass-trespass.uk` | Yes |
@@ -42074,7 +42075,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,648 |
-| Normal | 31,382 |
+| Normal | 31,383 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
