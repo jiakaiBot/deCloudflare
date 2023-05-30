@@ -22845,7 +22845,6 @@ Here's a list of public Fediverse services.
 | `meido-rando.net` | No |
 | `meikle.social` | No |
 | `mein-schlauchboot.de` | No |
-| `meinbergglobal.com` | No |
 | `meinderink.org` | No |
 | `meinmuenster.land` | No |
 | `meinrheinma.in` | No |
@@ -26479,7 +26478,6 @@ Here's a list of public Fediverse services.
 | `nspeaks.xyz` | Yes |
 | `nspes.ca` | No |
 | `nssvc.top` | Yes |
-| `nstr.no` | Yes |
 | `nstr.se` | Yes |
 | `nsupdate.info` | Yes |
 | `nsw.social` | No |
@@ -36218,6 +36216,7 @@ Here's a list of public Fediverse services.
 | `teqqnet.de` | Yes |
 | `teqqy.de` | Yes |
 | `terabyte-computing.com` | No |
+| `terakoya-backstage.com` | No |
 | `terapeldigitaal.nl` | Yes |
 | `terbea.com` | No |
 | `terbeest.net` | No |
@@ -42076,7 +42075,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,649 |
+| Cloudflare | 10,648 |
 | Normal | 31,384 |
 
 
