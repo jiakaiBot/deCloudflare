@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,372 |
+| com | 6,373 |
 | social | 4,070 |
 | net | 3,225 |
 | org | 2,226 |
@@ -22844,6 +22844,7 @@ Here's a list of public Fediverse services.
 | `meido-rando.net` | No |
 | `meikle.social` | No |
 | `mein-schlauchboot.de` | No |
+| `meinbergglobal.com` | No |
 | `meinderink.org` | No |
 | `meinmuenster.land` | No |
 | `meinrheinma.in` | No |
@@ -26477,6 +26478,7 @@ Here's a list of public Fediverse services.
 | `nspeaks.xyz` | Yes |
 | `nspes.ca` | No |
 | `nssvc.top` | Yes |
+| `nstr.no` | Yes |
 | `nstr.se` | Yes |
 | `nsupdate.info` | Yes |
 | `nsw.social` | No |
@@ -42071,8 +42073,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,647 |
-| Normal | 31,381 |
+| Cloudflare | 10,648 |
+| Normal | 31,382 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
