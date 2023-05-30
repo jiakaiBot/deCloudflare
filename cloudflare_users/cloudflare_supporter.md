@@ -2259,6 +2259,7 @@ Do not create new issue or we will close it as duplicate.
 | [Collinsmarkpros@twitter](https://twitter.com/Collinsmarkpros/status/1568918743635623937) | advertise |
 | [CommandtechnoYT@twitter](https://twitter.com/CommandtechnoYT/status/1656041570519400470) | advertise |
 | [ComputerMedic2@twitter](https://twitter.com/ComputerMedic2/status/1498349891097137162) | advertise |
+| [ComputerSciX@twitter](https://twitter.com/ComputerSciX/status/1663617701288214528) | advertise |
 | [coms4socialcha1@twitter](https://twitter.com/coms4socialcha1/status/1379781588263661581) | advertise |
 | [ConanMcleod@twitter](https://twitter.com/ConanMcleod/status/1637936054387834880) | advertise |
 | [Concho117@twitter](https://twitter.com/Concho117/status/1403355446610587648) | advertise |
