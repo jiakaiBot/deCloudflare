@@ -6741,7 +6741,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -13490,6 +13490,7 @@ Here's a list of public Fediverse services.
 | `genserver.social` | Yes |
 | `genshin.social` | No |
 | `gensokyo.cloud` | No |
+| `gensokyo.club` | No |
 | `gensokyo.io` | Yes |
 | `gensokyo.social` | No |
 | `gensokyo.town` | Yes |
@@ -39788,7 +39789,7 @@ Here's a list of public Fediverse services.
 | `wappie.land` | No |
 | `wappler.systems` | No |
 | `waq.dk` | Yes |
-| `waraiotoko.net` | Yes |
+| `waraiotoko.net` | No |
 | `warbler.network` | No |
 | `warc.space` | No |
 | `warcraft.one` | No |
@@ -42067,8 +42068,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,647 |
-| Normal | 31,377 |
+| Cloudflare | 10,645 |
+| Normal | 31,380 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
