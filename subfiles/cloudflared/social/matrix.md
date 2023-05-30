@@ -74,7 +74,7 @@ Here's a list of public Matrix services.
 | junta.pl | Yes |
 | kitsunes.chat | Yes |
 | matrix.libreon.fr | No |
-| matrix.llamarific.social | No |
+| llamarific.social | No |
 | lugnsk.org | No |
 | mailstation.de | No |
 | matrix.im | No |
