@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,370 |
+| com | 6,372 |
 | social | 4,070 |
 | net | 3,225 |
 | org | 2,226 |
-| de | 2,111 |
+| de | 2,112 |
 
 
 - Mastodon, Pleroma, etc
@@ -56,6 +56,7 @@ Here's a list of public Fediverse services.
 | `0702.org` | Yes |
 | `076.moe` | No |
 | `076.ne.jp` | No |
+| `07738135.xyz` | No |
 | `09f0138edbb42a379ab78da30f14818f.xyz` | No |
 | `0ab.uk` | Yes |
 | `0am.jp` | No |
@@ -4848,6 +4849,7 @@ Here's a list of public Fediverse services.
 | `briefly.social` | No |
 | `brieseland.de` | No |
 | `brig.gs` | Yes |
+| `brigadadigital.tec.br` | No |
 | `brigato.fr` | No |
 | `brighteon.social` | Yes |
 | `brightfur.net` | No |
@@ -11515,6 +11517,7 @@ Here's a list of public Fediverse services.
 | `fedimas.com` | Yes |
 | `fedimast.com` | No |
 | `fedimix.dev` | No |
+| `fedimmend.com` | No |
 | `fedimon.uk` | No |
 | `fedimoon.com` | No |
 | `fedimovie.com` | Yes |
@@ -25857,6 +25860,7 @@ Here's a list of public Fediverse services.
 | `niklas.social` | No |
 | `niklasbarning.de` | No |
 | `niklasrosenstein.com` | No |
+| `nikolaiathome.com` | Yes |
 | `nikolak.com` | Yes |
 | `nikomo.fi` | Yes |
 | `nikos410.de` | No |
@@ -28723,6 +28727,7 @@ Here's a list of public Fediverse services.
 | `pissboys.net` | No |
 | `pisskey.io` | No |
 | `pissqordia.space` | No |
+| `pistache.land` | No |
 | `pistoltrainers.com` | No |
 | `pitchfork.club` | No |
 | `pite.biz` | No |
@@ -33089,6 +33094,7 @@ Here's a list of public Fediverse services.
 | `shitcoin.land` | Yes |
 | `shite.site` | No |
 | `shiteposting.com` | Yes |
+| `shitforce.one` | No |
 | `shitnexus.party` | No |
 | `shitnoise.monster` | No |
 | `shitpo.st` | Yes |
@@ -39170,6 +39176,7 @@ Here's a list of public Fediverse services.
 | `vern.cc` | No |
 | `vernburton.com` | Yes |
 | `vernetzt.org` | No |
+| `vernissage.photos` | No |
 | `vernunftzentrum.de` | No |
 | `veroone.fr` | No |
 | `verr.cc` | No |
@@ -40495,6 +40502,7 @@ Here's a list of public Fediverse services.
 | `wolfdo.gg` | No |
 | `wolfe.casa` | No |
 | `wolfe.cloud` | No |
+| `wolfe.garden` | No |
 | `wolfgang.space` | Yes |
 | `wolfgirl.bar` | No |
 | `wolfgirl.engineering` | No |
@@ -41125,6 +41133,7 @@ Here's a list of public Fediverse services.
 | `xttech.top` | Yes |
 | `xtux.org` | No |
 | `xu.rs` | Yes |
+| `xuedi.de` | No |
 | `xueq.in` | Yes |
 | `xuha.net` | No |
 | `xundeenergie.at` | No |
@@ -42058,8 +42067,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,646 |
-| Normal | 31,369 |
+| Cloudflare | 10,647 |
+| Normal | 31,377 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
