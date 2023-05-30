@@ -71,10 +71,11 @@ Here's a list of public Matrix services.
 | chatserver.hashi.sbs | Yes |
 | hot-chilli.im | No |
 | synapse.hyteck.de | No |
+| matrix.jonasled.de | Yes |
 | junta.pl | Yes |
 | kitsunes.chat | Yes |
 | matrix.libreon.fr | No |
-| llamarific.social | No |
+| matrix.llamarific.social | No |
 | lugnsk.org | No |
 | mailstation.de | No |
 | matrix.im | No |
@@ -104,7 +105,6 @@ Here's a list of public Matrix services.
 | matrix.sibnsk.net | No |
 | socialnetwork24.com | No |
 | matrix.studichat.de | No |
-| matrix.supreme.sh | Yes |
 | synod.im | No |
 | matrix.tchncs.de | No |
 | matrix.techsaviours.org | No |
