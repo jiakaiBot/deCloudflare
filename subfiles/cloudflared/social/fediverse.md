@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,373 |
-| social | 4,070 |
+| social | 4,072 |
 | net | 3,225 |
 | org | 2,226 |
 | de | 2,112 |
@@ -30811,6 +30811,7 @@ Here's a list of public Fediverse services.
 | `reimu.info` | Yes |
 | `reinboar.space` | Yes |
 | `reinboar.xyz` | Yes |
+| `reincubate.social` | Yes |
 | `reindeer.photos` | No |
 | `reinemuth.rocks` | No |
 | `reingefuchst.de` | Yes |
@@ -31520,6 +31521,7 @@ Here's a list of public Fediverse services.
 | `rotmok.nl` | Yes |
 | `rotten.city` | No |
 | `rotten.network` | No |
+| `rottmann.social` | No |
 | `rouge.eu.org` | No |
 | `rougevertbleu.tv` | No |
 | `roughdraft.party` | Yes |
@@ -42074,8 +42076,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,648 |
-| Normal | 31,383 |
+| Cloudflare | 10,649 |
+| Normal | 31,384 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
