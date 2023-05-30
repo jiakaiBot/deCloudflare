@@ -12135,6 +12135,7 @@ Do not create new issue or we will close it as duplicate.
 | [us5bowling@twitter](https://twitter.com/us5bowling/status/1598492947045031938) | advertise |
 | [USai01177352@twitter](https://twitter.com/USai01177352/status/1395520546037592064) | advertise |
 | [USANews_online@twitter](https://twitter.com/USANews_online/status/1582324325083885570) | advertise |
+| [usebasekart@twitter](https://twitter.com/usebasekart/status/1663351705977667586) | advertise |
 | [usercrt@twitter](https://twitter.com/usercrt/status/1481015598435942401) | advertise |
 | [usernamemone@twitter](https://twitter.com/usernamemone/status/1552668357132165121) | advertise |
 | [usoemyi21049252@twitter](https://twitter.com/usoemyi21049252/status/1396746369256222723) | advertise |
