@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [New composite non-Linux UDP transport](https://github.com/chrysn/aiocoap/issues/309)
 - [Page is down (Bad gateway)](https://github.com/pastelsky/bundlephobia/issues/796)
 - [The new web updater is unreachable](https://github.com/ClaraCrazy/Flipper-Xtreme/issues/274)
 - [CHATGPT_API_PREFIX with CORS Error](https://github.com/pengzhile/pandora/issues/642)
