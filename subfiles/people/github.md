@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare purge_cache returns "403 Forbidden"](https://github.com/putyourlightson/craft-blitz/issues/510)
 - [Help modsecurity plugin + csr + traefik](https://github.com/acouvreur/traefik-modsecurity-plugin/issues/19)
 - [New composite non-Linux UDP transport](https://github.com/chrysn/aiocoap/issues/309)
 - [Page is down (Bad gateway)](https://github.com/pastelsky/bundlephobia/issues/796)
