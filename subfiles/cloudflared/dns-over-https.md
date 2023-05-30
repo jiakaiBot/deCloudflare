@@ -15,7 +15,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | --- | --- |
 | 00dani.me | No |
 | 0ms.run | Yes |
-| 0ooo.icu | Yes |
 | 209.wf | Yes |
 | 23-4.cn | No |
 | 280blocker.net | Yes |
@@ -169,7 +168,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | futa.gg | Yes |
 | gac.edu | No |
 | gbrossi.com.br | No |
-| gclouddns.com | Yes |
 | giize.com | Yes |
 | glorydns.com | Yes |
 | gms.net.id | No |
@@ -212,7 +210,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jamesxue.xyz | No |
 | jfchenier.ca | Yes |
 | jinwoo.dev | No |
-| jnorton.us | No |
 | joaofidelix.com.br | Yes |
 | jogjacloud.com | Yes |
 | jsanagustin.net | Yes |
@@ -305,7 +302,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | panszelescik.pl | Yes |
 | pathofgrace.com | No |
 | persiannit.net | Yes |
-| piekacz.pl | No |
 | pleumkungz.com | Yes |
 | plumedns.com | Yes |
 | privado.ovh | Yes |
@@ -386,7 +382,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | twnic.tw | No |
 | tylerwahl.com | No |
 | typaza.com | No |
-| unerror.network | Yes |
 | unima.ac.id | No |
 | unstoppable.io | Yes |
 | uplenk.com | Yes |
@@ -417,7 +412,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ychen.cf | No |
 | ychen.ga | No |
 | yingroad.top | Yes |
-| yoannchappaz.best | No |
 | youni.win | Yes |
 | yovbak.com | No |
 | yunmoc.top | Yes |
@@ -430,8 +424,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 208 |
-| Normal | 203 |
+| Cloudflare | 205 |
+| Normal | 200 |
 
 
 ### 50.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
