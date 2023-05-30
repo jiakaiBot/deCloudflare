@@ -5328,6 +5328,7 @@ Here's a list of public Fediverse services.
 | `caluettefamily.com` | Yes |
 | `caluser.social` | No |
 | `calut.fr` | No |
+| `calx.in` | No |
 | `calzone.club` | No |
 | `cambrian.social` | No |
 | `cambridgeport90.net` | Yes |
@@ -6741,7 +6742,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -23576,6 +23577,7 @@ Here's a list of public Fediverse services.
 | `misskey.in.th` | Yes |
 | `misskey.io` | Yes |
 | `misskey.jp` | Yes |
+| `misskey.kr` | Yes |
 | `misskey.life` | Yes |
 | `misskey.lol` | No |
 | `misskey.love` | No |
@@ -36876,6 +36878,7 @@ Here's a list of public Fediverse services.
 | `thinktanki.social` | No |
 | `thinkydoers.social` | No |
 | `third-branches.net` | Yes |
+| `thirdeyedesign.shop` | No |
 | `thirdlaw.net` | No |
 | `thirdworld.finance` | No |
 | `thirring.org` | No |
@@ -42068,8 +42071,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,645 |
-| Normal | 31,380 |
+| Cloudflare | 10,647 |
+| Normal | 31,381 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
