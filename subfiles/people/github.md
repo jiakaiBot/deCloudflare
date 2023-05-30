@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Kit bundle forwarding to cloudflare waiting room, causing a CORB block](https://github.com/FortAwesome/Font-Awesome/issues/19743)
 - [Cloudflare 2 error](https://github.com/setnicka/ulozto-downloader/issues/168)
 - [CloudFlare purge_cache returns "403 Forbidden"](https://github.com/putyourlightson/craft-blitz/issues/510)
 - [Help modsecurity plugin + csr + traefik](https://github.com/acouvreur/traefik-modsecurity-plugin/issues/19)
