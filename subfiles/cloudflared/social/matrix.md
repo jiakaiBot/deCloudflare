@@ -41,6 +41,7 @@ Here's a list of public Matrix services.
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
 | matrix.chatwave.org | No |
+| chrrreeeeesss.com | No |
 | club1.fr | No |
 | matrix-client.comm.cx | Yes |
 | converser.eu | No |
@@ -85,7 +86,6 @@ Here's a list of public Matrix services.
 | nopasaran.red | No |
 | nope.chat | No |
 | matrix.norge.chat | Yes |
-| hs.obco.pro | Yes |
 | oikei.net | No |
 | matrix.ombreport.info | No |
 | pcriot.org | Yes |
@@ -123,8 +123,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 20 |
-| Normal | 76 |
+| Cloudflare | 19 |
+| Normal | 77 |
 
 
-### 20.8% of public Matrix services are using Cloudflare.
+### 19.8% of public Matrix services are using Cloudflare.
