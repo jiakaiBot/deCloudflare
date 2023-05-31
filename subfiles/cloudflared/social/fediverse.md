@@ -6743,7 +6743,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -24761,6 +24761,7 @@ Here's a list of public Fediverse services.
 | `my-social.nl` | No |
 | `my-spaces.social` | No |
 | `my-status.tk` | No |
+| `my-sunshine.video` | Yes |
 | `my-thoughts.xyz` | Yes |
 | `my-vo.co` | No |
 | `my-wan.de` | No |
@@ -42086,7 +42087,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,650 |
-| Normal | 31,392 |
+| Normal | 31,393 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
