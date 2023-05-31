@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,073 |
 | net | 3,227 |
 | org | 2,227 |
-| de | 2,113 |
+| de | 2,115 |
 
 
 - Mastodon, Pleroma, etc
@@ -11688,6 +11688,7 @@ Here's a list of public Fediverse services.
 | `felmey.org` | No |
 | `felmo.app` | No |
 | `felvidek.online` | No |
+| `fem.ninja` | No |
 | `fem.social` | No |
 | `femboy.capital` | No |
 | `femboy.city` | No |
@@ -15290,6 +15291,7 @@ Here's a list of public Fediverse services.
 | `hh82.de` | No |
 | `hha.app` | No |
 | `hhhammer.de` | No |
+| `hhmx.de` | No |
 | `hhome.me` | Yes |
 | `hhra.uk` | No |
 | `hhsocial.de` | No |
@@ -18669,6 +18671,7 @@ Here's a list of public Fediverse services.
 | `khsmty.com` | Yes |
 | `khuluma.de` | Yes |
 | `khushrajrathod.com` | Yes |
+| `kianga.eu` | Yes |
 | `kianting.info` | No |
 | `kiarc.win` | Yes |
 | `kiasyn.com` | Yes |
@@ -26523,6 +26526,7 @@ Here's a list of public Fediverse services.
 | `nubi.social` | No |
 | `nuc.social` | No |
 | `nuclearlimes.co.uk` | No |
+| `nucleosi.de` | No |
 | `nudemy.com` | Yes |
 | `nudie.social` | No |
 | `nuemedia.se` | No |
@@ -42093,8 +42097,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,652 |
-| Normal | 31,398 |
+| Cloudflare | 10,653 |
+| Normal | 31,401 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
