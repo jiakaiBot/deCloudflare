@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [couldNotUploadFile Error with status code 409: Upload-Offset conflict](https://github.com/tus/TUSKit/issues/162)
+- [Some issues on platformio (which do no occur on Arduino)](https://github.com/schreibfaul1/ESP32-audioI2S/issues/541)
 - [Occasionally assets fail to load (404)](https://github.com/matrix-org/matrix-public-archive/issues/254)
 - [Kit bundle forwarding to cloudflare waiting room, causing a CORB block](https://github.com/FortAwesome/Font-Awesome/issues/19743)
 - [Cloudflare 2 error](https://github.com/setnicka/ulozto-downloader/issues/168)
