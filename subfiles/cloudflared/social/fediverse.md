@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,375 |
-| social | 4,072 |
+| social | 4,073 |
 | net | 3,226 |
 | org | 2,227 |
 | de | 2,113 |
@@ -2291,6 +2291,7 @@ Here's a list of public Fediverse services.
 | `archigny.net` | No |
 | `archipell.xyz` | No |
 | `archipielago.uno` | No |
+| `architektur.social` | No |
 | `archive.org` | Yes |
 | `archived.software` | No |
 | `archivefedifor.fun` | No |
@@ -15710,6 +15711,7 @@ Here's a list of public Fediverse services.
 | `hoshisaki-h.com` | Yes |
 | `hosnet.fr` | No |
 | `hosszu.social` | No |
+| `host116.ru` | No |
 | `hostboi.social` | Yes |
 | `hostc.at` | No |
 | `hostcheetah.social` | Yes |
@@ -42089,7 +42091,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,650 |
-| Normal | 31,395 |
+| Normal | 31,397 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
