@@ -5776,8 +5776,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6582,6 +6582,7 @@ Do not create new issue or we will close it as duplicate.
 | [lovey2kz@twitter](https://twitter.com/lovey2kz/status/1638512686156873728) | advertise |
 | [Loveyou57911593@twitter](https://twitter.com/Loveyou57911593/status/1382721327207907341) | advertise |
 | [Lovie07096051@twitter](https://twitter.com/Lovie07096051/status/1629003877117837312) | advertise |
+| [lowbyte@twitter](https://twitter.com/lowbyte/status/1663704889502093312) | advertise |
 | [Lowkey6663@twitter](https://twitter.com/Lowkey6663/status/1508020581207527430) | advertise |
 | [lowkey_jimenez@twitter](https://twitter.com/lowkey_jimenez/status/1399129185591779328) | advertise |
 | [lox14370@twitter](https://twitter.com/lox14370/status/1609109721956368384) | advertise |
