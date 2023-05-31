@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,375 |
+| com | 6,376 |
 | social | 4,073 |
-| net | 3,227 |
+| net | 3,228 |
 | org | 2,227 |
 | de | 2,115 |
 
@@ -14497,6 +14497,7 @@ Here's a list of public Fediverse services.
 | `gusl.org` | Yes |
 | `gustavlindqvist.se` | Yes |
 | `gustavosousa.eu` | No |
+| `gustingwind.com` | No |
 | `gutewebsites.social` | No |
 | `gutsux.com` | No |
 | `guya.ml` | No |
@@ -18896,6 +18897,7 @@ Here's a list of public Fediverse services.
 | `kiwec.net` | Yes |
 | `kiwifarms.cc` | Yes |
 | `kiwifarms.net` | Yes |
+| `kiwipie.net` | No |
 | `kiyi.ca` | No |
 | `kizaing.ca` | No |
 | `kjas.no` | No |
@@ -42100,7 +42102,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,653 |
-| Normal | 31,403 |
+| Normal | 31,405 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
