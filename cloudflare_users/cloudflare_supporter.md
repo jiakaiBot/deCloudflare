@@ -5776,8 +5776,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -11125,6 +11125,7 @@ Do not create new issue or we will close it as duplicate.
 | [TeoEuroo@twitter](https://twitter.com/TeoEuroo/status/1615904082086219776) | advertise |
 | [tequiero1012@twitter](https://twitter.com/tequiero1012/status/1642108373884862464) | advertise |
 | [TeresePoling611@twitter](https://twitter.com/TeresePoling611/status/1473044204804886530) | advertise |
+| [terminologiesco@twitter](https://twitter.com/terminologiesco/status/1663118444890578944) | advertise |
 | [TERPAK7@twitter](https://twitter.com/TERPAK7/status/1578013119615569920) | advertise |
 | [TerrickLoren@twitter](https://twitter.com/TerrickLoren/status/1569206845163839489) | advertise |
 | [TersakitiNep@twitter](https://twitter.com/TersakitiNep/status/1493721965885988867) | advertise |
