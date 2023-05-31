@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,375 |
 | social | 4,073 |
-| net | 3,226 |
+| net | 3,227 |
 | org | 2,227 |
 | de | 2,113 |
 
@@ -6744,7 +6744,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -16204,6 +16204,7 @@ Here's a list of public Fediverse services.
 | `idtech.space` | No |
 | `idw-online.social` | No |
 | `idw.zone` | No |
+| `idylls.net` | No |
 | `ie9.org` | No |
 | `iedred7584.com` | No |
 | `iee.engineer` | Yes |
@@ -27479,6 +27480,7 @@ Here's a list of public Fediverse services.
 | `osakana.cloud` | No |
 | `osakanacreate.com` | No |
 | `osananajimi.love` | No |
+| `osantana.me` | Yes |
 | `osbar.space` | No |
 | `osbornefamily.rocks` | No |
 | `osc.kyoto` | No |
@@ -33470,6 +33472,7 @@ Here's a list of public Fediverse services.
 | `sizedon.com` | No |
 | `sizuma.website` | No |
 | `sjbodzo.com` | Yes |
+| `sjelef.red` | No |
 | `sjitter.com` | No |
 | `sjm.codes` | No |
 | `sjolin.io` | No |
@@ -42090,8 +42093,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,650 |
-| Normal | 31,397 |
+| Cloudflare | 10,652 |
+| Normal | 31,398 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
