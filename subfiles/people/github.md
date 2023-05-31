@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Occasionally assets fail to load (404)](https://github.com/matrix-org/matrix-public-archive/issues/254)
 - [Kit bundle forwarding to cloudflare waiting room, causing a CORB block](https://github.com/FortAwesome/Font-Awesome/issues/19743)
 - [Cloudflare 2 error](https://github.com/setnicka/ulozto-downloader/issues/168)
 - [CloudFlare purge_cache returns "403 Forbidden"](https://github.com/putyourlightson/craft-blitz/issues/510)
