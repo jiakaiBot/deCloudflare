@@ -4698,6 +4698,7 @@ Here's a list of public Fediverse services.
 | `boxp.tk` | No |
 | `boxpleats.com` | No |
 | `boyfails.me` | No |
+| `boymoder.biz` | No |
 | `boyos.org` | No |
 | `boys.computer` | No |
 | `boyslove.jp` | No |
@@ -30825,7 +30826,7 @@ Here's a list of public Fediverse services.
 | `reima.rocks` | No |
 | `reimalab.art` | No |
 | `reimu.info` | Yes |
-| `reinboar.space` | Yes |
+| `reinboar.space` | No |
 | `reinboar.xyz` | Yes |
 | `reincubate.social` | Yes |
 | `reindeer.photos` | No |
@@ -42097,8 +42098,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,653 |
-| Normal | 31,401 |
+| Cloudflare | 10,652 |
+| Normal | 31,403 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
