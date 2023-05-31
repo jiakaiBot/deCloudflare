@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,375 |
 | social | 4,072 |
-| net | 3,225 |
+| net | 3,226 |
 | org | 2,227 |
 | de | 2,113 |
 
@@ -17061,6 +17061,7 @@ Here's a list of public Fediverse services.
 | `itvend.eu` | No |
 | `itx.chat` | Yes |
 | `ity.org` | No |
+| `itzti.li` | No |
 | `itzzen.net` | No |
 | `iu.social` | Yes |
 | `iu0.win` | Yes |
@@ -22790,6 +22791,7 @@ Here's a list of public Fediverse services.
 | `medieval.jp` | No |
 | `medievalarchives.com` | No |
 | `medievalarchives.social` | No |
+| `mediki.net` | No |
 | `medinnna.com` | Yes |
 | `mediocre.photos` | No |
 | `medium-sandbox.social` | Yes |
@@ -42087,7 +42089,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,650 |
-| Normal | 31,393 |
+| Normal | 31,395 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
