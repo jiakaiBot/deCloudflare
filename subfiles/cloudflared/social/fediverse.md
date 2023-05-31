@@ -23537,6 +23537,7 @@ Here's a list of public Fediverse services.
 | `misaka.chat` | Yes |
 | `misaka.ru` | No |
 | `misaka.social` | Yes |
+| `misaki-chan.world` | Yes |
 | `misamigos.online` | No |
 | `misandry.city` | No |
 | `misanthrope.me` | Yes |
@@ -42098,7 +42099,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,652 |
+| Cloudflare | 10,653 |
 | Normal | 31,403 |
 
 
