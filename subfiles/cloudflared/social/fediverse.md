@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,373 |
+| com | 6,375 |
 | social | 4,072 |
 | net | 3,225 |
-| org | 2,226 |
-| de | 2,112 |
+| org | 2,227 |
+| de | 2,113 |
 
 
 - Mastodon, Pleroma, etc
@@ -5089,6 +5089,7 @@ Here's a list of public Fediverse services.
 | `burningnebula.net` | No |
 | `burningpixel.net` | No |
 | `burningtimber.com` | Yes |
+| `burntcomma.com` | No |
 | `burnthis.town` | No |
 | `burntout.org` | No |
 | `burnworks.com` | No |
@@ -8984,6 +8985,7 @@ Here's a list of public Fediverse services.
 | `dinosaur.farm` | No |
 | `dinotoyblog.com` | Yes |
 | `dinven.de` | No |
+| `diod.es` | No |
 | `diode.zone` | No |
 | `diogo.site` | Yes |
 | `dioxinet.com` | No |
@@ -9249,6 +9251,7 @@ Here's a list of public Fediverse services.
 | `dogfood.social` | Yes |
 | `dogg.zone` | Yes |
 | `doggirl.me` | No |
+| `doggoat.de` | No |
 | `doghouse.social` | No |
 | `doghub.eu` | No |
 | `dogiakos.com` | No |
@@ -14739,6 +14742,7 @@ Here's a list of public Fediverse services.
 | `ham.land` | No |
 | `hama3.net` | Yes |
 | `hamachpil.net` | No |
+| `hamakor.org.il` | Yes |
 | `hamamyu.jp` | No |
 | `hamastodon.jp` | No |
 | `hambon.es` | No |
@@ -15262,6 +15266,7 @@ Here's a list of public Fediverse services.
 | `hexix.de` | No |
 | `hexolve.com` | No |
 | `hexsix.me` | Yes |
+| `hextcraft.dev` | No |
 | `hexthedragon.net` | No |
 | `heyben.ch` | Yes |
 | `heychrismackintosh.com` | No |
@@ -22845,6 +22850,7 @@ Here's a list of public Fediverse services.
 | `meido-rando.net` | No |
 | `meikle.social` | No |
 | `mein-schlauchboot.de` | No |
+| `meinbergglobal.com` | No |
 | `meinderink.org` | No |
 | `meinmuenster.land` | No |
 | `meinrheinma.in` | No |
@@ -26478,6 +26484,7 @@ Here's a list of public Fediverse services.
 | `nspeaks.xyz` | Yes |
 | `nspes.ca` | No |
 | `nssvc.top` | Yes |
+| `nstr.no` | Yes |
 | `nstr.se` | Yes |
 | `nsupdate.info` | Yes |
 | `nsw.social` | No |
@@ -35500,6 +35507,7 @@ Here's a list of public Fediverse services.
 | `syncloud.it` | No |
 | `syncpundit.io` | Yes |
 | `syndae.de` | No |
+| `syndicalism.org` | No |
 | `syndicat.chat` | No |
 | `syndicatdinitiatives.org` | No |
 | `synerate.com` | Yes |
@@ -38277,6 +38285,7 @@ Here's a list of public Fediverse services.
 | `twols.cc` | No |
 | `twoot.me` | No |
 | `twoot.space` | No |
+| `twooter.co.uk` | No |
 | `twooter.me` | No |
 | `twooter.org` | No |
 | `tworooms.online` | No |
@@ -41440,6 +41449,7 @@ Here's a list of public Fediverse services.
 | `yoroshiku.net` | Yes |
 | `yorozu-sys.net` | No |
 | `yorrike.com` | No |
+| `yoru.cafe` | No |
 | `yorugatanokuni.com` | No |
 | `yosh.is` | No |
 | `yoshida2015.net` | No |
@@ -42075,8 +42085,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,648 |
-| Normal | 31,384 |
+| Cloudflare | 10,650 |
+| Normal | 31,392 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
