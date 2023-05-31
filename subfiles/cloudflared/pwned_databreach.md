@@ -466,6 +466,7 @@ Here's a list of breached sites.
 | QuinStreet | 4,907,802 | No |
 | R2-2017 (R2 (2017 forum breach)) | 1,023,466 | No |
 | R2Games | 22,281,337 | No |
+| RaidForums | 478,604 | No |
 | Rambler | 91,436,280 | No |
 | Rankwatch (RankWatch) | 7,445,067 | Yes |
 | Raychat | 938,981 | No |
@@ -669,9 +670,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 355 | 3,917,855,801 |
-| Normal | 292 | 4,983,465,410 |
+| Normal | 293 | 4,983,944,014 |
 
 
 
-### 54.9% of breached sites (pwned sites) are using Cloudflare.
+### 54.8% of breached sites (pwned sites) are using Cloudflare.
 ### 44% of leaked accounts are on Cloudflare sites.
