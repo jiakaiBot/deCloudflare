@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error while reconciling Recording Rules](https://github.com/coralogix/coralogix-operator-poc/issues/45)
 - [idk what to do](https://github.com/ShareX/ShareX/issues/6916)
 - [install_requirements error libmamba](https://github.com/0cc4m/KoboldAI/issues/42)
 - [403: Authorization Failed](https://github.com/LibraryOfCongress/api.congress.gov/issues/96)
