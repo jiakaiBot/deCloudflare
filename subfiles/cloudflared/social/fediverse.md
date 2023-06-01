@@ -20061,6 +20061,7 @@ Here's a list of public Fediverse services.
 | `lemmy.cat` | No |
 | `lemmy.eus` | No |
 | `lemmy.ml` | No |
+| `lemmy.one` | Yes |
 | `lemmygrad.com` | No |
 | `lemmygrad.ml` | No |
 | `lemniskett.dev` | Yes |
@@ -42113,7 +42114,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,655 |
+| Cloudflare | 10,656 |
 | Normal | 31,415 |
 
 
