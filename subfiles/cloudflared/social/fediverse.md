@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,379 |
-| social | 4,076 |
+| com | 6,380 |
+| social | 4,078 |
 | net | 3,230 |
 | org | 2,227 |
 | de | 2,117 |
@@ -6454,6 +6454,7 @@ Here's a list of public Fediverse services.
 | `cloudflare.social` | Yes |
 | `cloudfrancois.fr` | No |
 | `cloudhesselhoj.dk` | No |
+| `cloudhub.social` | Yes |
 | `cloudisland.nz` | No |
 | `cloudisland.online` | No |
 | `cloudist.cc` | No |
@@ -12757,6 +12758,7 @@ Here's a list of public Fediverse services.
 | `fruef.social` | No |
 | `fruits.social` | No |
 | `fruitscale.com` | No |
+| `fruitstand.social` | No |
 | `frunc.de` | No |
 | `frustrat.es` | No |
 | `fryntiz.cloud` | No |
@@ -18280,6 +18282,7 @@ Here's a list of public Fediverse services.
 | `kani.social` | Yes |
 | `kanina.be` | No |
 | `kanna.fun` | Yes |
+| `kannadev.com` | Yes |
 | `kanni.de` | No |
 | `kannitverstan.eu` | No |
 | `kanoa.de` | No |
@@ -42133,8 +42136,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,668 |
-| Normal | 31,422 |
+| Cloudflare | 10,670 |
+| Normal | 31,423 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
