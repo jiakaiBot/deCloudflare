@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,377 |
+| com | 6,378 |
 | social | 4,076 |
 | net | 3,230 |
 | org | 2,227 |
@@ -30866,6 +30866,7 @@ Here's a list of public Fediverse services.
 | `reitrace.ga` | No |
 | `reiuji.chat` | Yes |
 | `rejoiner.eu` | No |
+| `rekonstructors.com` | Yes |
 | `rekt.app` | No |
 | `rel.re` | No |
 | `relampagofurioso.com` | Yes |
@@ -30987,7 +30988,7 @@ Here's a list of public Fediverse services.
 | `resource.pub` | No |
 | `resplendentwebservices.com` | No |
 | `respublicae.eu` | No |
-| `ressonix.social` | No |
+| `ressonix.social` | Yes |
 | `restall.io` | Yes |
 | `restart.moe` | No |
 | `restis.de` | No |
@@ -32037,6 +32038,7 @@ Here's a list of public Fediverse services.
 | `salye.me` | Yes |
 | `salzman.uk` | No |
 | `sam-isa.de` | No |
+| `sam.wf` | No |
 | `samadam.au` | No |
 | `samariter.social` | No |
 | `samaschke.social` | Yes |
@@ -42125,7 +42127,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,664 |
+| Cloudflare | 10,666 |
 | Normal | 31,418 |
 
 
