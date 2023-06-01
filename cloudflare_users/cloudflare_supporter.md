@@ -4104,6 +4104,7 @@ Do not create new issue or we will close it as duplicate.
 | [hieuchaya@twitter](https://twitter.com/hieuchaya/status/1393732166723334144) | advertise |
 | [hieudongbao159@twitter](https://twitter.com/hieudongbao159/status/1400828578749583366) | advertise |
 | [HieuKoi3@twitter](https://twitter.com/HieuKoi3/status/1660639971815100417) | advertise |
+| [Hieule0_0@twitter](https://twitter.com/Hieule0_0/status/1664300609129021443) | advertise |
 | [Hieulovethuy1@twitter](https://twitter.com/Hieulovethuy1/status/1624902673311866880) | advertise |
 | [hifosearch@twitter](https://twitter.com/hifosearch/status/1646785130512384001) | advertise |
 | [higenku_project@twitter](https://twitter.com/higenku_project/status/1542310759736156160) | advertise |
@@ -6014,6 +6015,7 @@ Do not create new issue or we will close it as duplicate.
 | [Krzysie34656627@twitter](https://twitter.com/Krzysie34656627/status/1550498278126526464) | advertise |
 | [KSalout@twitter](https://twitter.com/KSalout/status/1498335781013831686) | advertise |
 | [ksate0@twitter](https://twitter.com/ksate0/status/1379112018817376258) | advertise |
+| [ksatou34276097@twitter](https://twitter.com/ksatou34276097/status/1664294586293035009) | advertise |
 | [kshs63527911@twitter](https://twitter.com/kshs63527911/status/1405392559107629059) | advertise |
 | [kslattpapi@twitter](https://twitter.com/kslattpapi/status/1554027160603615232) | advertise |
 | [kt94150@twitter](https://twitter.com/kt94150/status/1534798928591302656) | advertise |
