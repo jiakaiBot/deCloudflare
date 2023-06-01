@@ -3682,6 +3682,7 @@ Here's a list of public Fediverse services.
 | `bensie.social` | No |
 | `bensmith.uk` | Yes |
 | `bentasker.co.uk` | No |
+| `benten.ch` | No |
 | `bentimento.com` | Yes |
 | `bentobin.com` | No |
 | `benudenotcrude.com` | No |
@@ -6747,7 +6748,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -12332,6 +12333,7 @@ Here's a list of public Fediverse services.
 | `foxesare.sexy` | Yes |
 | `foxfam.club` | No |
 | `foxfamily.online` | No |
+| `foxgirl.eu` | Yes |
 | `foxgirlsat.work` | No |
 | `foxgl.ovh` | No |
 | `foxhillyer.org` | No |
@@ -17663,7 +17665,7 @@ Here's a list of public Fediverse services.
 | `jmjordan.io` | Yes |
 | `jmm.kr` | Yes |
 | `jmreekes.com` | Yes |
-| `jmrp.io` | No |
+| `jmrp.io` | Yes |
 | `jmrtmt.com` | Yes |
 | `jmshyns.com` | Yes |
 | `jmsn.net` | No |
@@ -19542,6 +19544,7 @@ Here's a list of public Fediverse services.
 | `kyushojitsu.ca` | Yes |
 | `kyzune.com` | Yes |
 | `kzhub.cc` | No |
+| `kzkr.xyz` | Yes |
 | `kzoo.to` | Yes |
 | `kzstan.com` | No |
 | `l-internet.fr` | No |
@@ -28814,6 +28817,7 @@ Here's a list of public Fediverse services.
 | `pixelfed.photos` | No |
 | `pixelfed.pl` | Yes |
 | `pixelfed.pt` | No |
+| `pixelfed.ru` | Yes |
 | `pixelfed.se` | No |
 | `pixelfed.sg` | Yes |
 | `pixelfed.social` | Yes |
@@ -29425,7 +29429,7 @@ Here's a list of public Fediverse services.
 | `ppn.pw` | No |
 | `ppplot.top` | Yes |
 | `ppsfleet.navy` | No |
-| `pptdn.jp` | No |
+| `pptdn.jp` | Yes |
 | `pqc.io` | No |
 | `pquirk.com` | No |
 | `pr0mised.life` | Yes |
@@ -42115,8 +42119,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,656 |
-| Normal | 31,416 |
+| Cloudflare | 10,662 |
+| Normal | 31,414 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
