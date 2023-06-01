@@ -8477,6 +8477,7 @@ Do not create new issue or we will close it as duplicate.
 | [no72541887@twitter](https://twitter.com/no72541887/status/1610785285045977091) | advertise |
 | [noahhuntersmith@twitter](https://twitter.com/noahhuntersmith/status/1515008532571111424) | advertise |
 | [NoahLiptrap@twitter](https://twitter.com/NoahLiptrap/status/1508131762177654784) | advertise |
+| [noahwang__@twitter](https://twitter.com/noahwang__/status/1664274794077106180) | advertise |
 | [noah_pluto@twitter](https://twitter.com/noah_pluto/status/1541186919258025984) | advertise |
 | [NoBanId2@twitter](https://twitter.com/NoBanId2/status/1395574170683985928) | advertise |
 | [Nobel_Chow@twitter](https://twitter.com/Nobel_Chow/status/1439072225466847241) | advertise |
@@ -10617,6 +10618,7 @@ Do not create new issue or we will close it as duplicate.
 | [snowy182017@twitter](https://twitter.com/snowy182017/status/1392724631753150467) | advertise |
 | [SnowYati@twitter](https://twitter.com/SnowYati/status/1575097077277003777) | advertise |
 | [SnXn39618151@twitter](https://twitter.com/SnXn39618151/status/1500447892665823233) | advertise |
+| [sn_bsb@twitter](https://twitter.com/sn_bsb/status/1664284881843806211) | advertise |
 | [soangtwt@twitter](https://twitter.com/soangtwt/status/1519443593572020224) | advertise |
 | [SobireenK@twitter](https://twitter.com/SobireenK/status/1394443082637070340) | advertise |
 | [soeaungnaing23@twitter](https://twitter.com/soeaungnaing23/status/1379767879344656384) | advertise |
