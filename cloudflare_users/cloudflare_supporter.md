@@ -6827,6 +6827,7 @@ Do not create new issue or we will close it as duplicate.
 | [MalwarePeter@twitter](https://twitter.com/MalwarePeter/status/1604834102556893185) | advertise |
 | [malwifati@twitter](https://twitter.com/malwifati/status/1381271570304401408) | advertise |
 | [mamadukino@twitter](https://twitter.com/mamadukino/status/1589769719049244673) | advertise |
+| [Mamamiaee1@twitter](https://twitter.com/Mamamiaee1/status/1664313508593549313) | advertise |
 | [mamee12145@twitter](https://twitter.com/mamee12145/status/1624070485557510144) | advertise |
 | [MamMad08079795@twitter](https://twitter.com/MamMad08079795/status/1491453521266638848) | advertise |
 | [MamMam02043349@twitter](https://twitter.com/MamMam02043349/status/1538613925004333057) | advertise |
