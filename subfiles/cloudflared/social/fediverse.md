@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,376 |
-| social | 4,073 |
-| net | 3,228 |
+| com | 6,377 |
+| social | 4,074 |
+| net | 3,230 |
 | org | 2,227 |
-| de | 2,115 |
+| de | 2,116 |
 
 
 - Mastodon, Pleroma, etc
@@ -1222,6 +1222,7 @@ Here's a list of public Fediverse services.
 | `ains-no-misskey.com` | Yes |
 | `ainsophaur.it` | No |
 | `aioo.ooo` | No |
+| `aiparadise.moe` | No |
 | `aipi.social` | No |
 | `aiquiral.me` | Yes |
 | `aiqwest.com` | No |
@@ -4185,6 +4186,7 @@ Here's a list of public Fediverse services.
 | `blahaj.fun` | No |
 | `blahaj.gg` | Yes |
 | `blahaj.photo` | Yes |
+| `blahaj.pw` | Yes |
 | `blahaj.social` | Yes |
 | `blahaj.solutions` | No |
 | `blahaj.world` | Yes |
@@ -8571,6 +8573,7 @@ Here's a list of public Fediverse services.
 | `deny.club` | No |
 | `deo.moe` | No |
 | `deoan.org` | No |
+| `deobbed.com` | No |
 | `deoke.ml` | No |
 | `deoxy.xyz` | No |
 | `depertat.net` | No |
@@ -14177,6 +14180,7 @@ Here's a list of public Fediverse services.
 | `granatapet.io` | Yes |
 | `grand-duchy.net` | No |
 | `grand.im` | No |
+| `grande-cache.ca` | No |
 | `grandma.space` | No |
 | `granford.uk` | No |
 | `granit.social` | No |
@@ -14811,6 +14815,7 @@ Here's a list of public Fediverse services.
 | `happenon.net` | Yes |
 | `happens.horse` | No |
 | `happy-scooter.de` | Yes |
+| `happybucket.social` | No |
 | `happyjesus.online` | No |
 | `happykraken.net` | Yes |
 | `happyorange.xyz` | Yes |
@@ -16686,6 +16691,7 @@ Here's a list of public Fediverse services.
 | `int21h.eu` | No |
 | `int5.net` | No |
 | `intahnet.co.uk` | Yes |
+| `integrata-stiftung.de` | No |
 | `integritymo.de` | No |
 | `intellectuallusts.ovh` | No |
 | `intelme.com` | Yes |
@@ -28559,6 +28565,7 @@ Here's a list of public Fediverse services.
 | `photoku.info` | Yes |
 | `photonflux.club` | No |
 | `photophrenic.online` | No |
+| `photosharing.work` | No |
 | `phoxden.net` | No |
 | `phoxy.space` | Yes |
 | `php.org.es` | Yes |
@@ -33774,6 +33781,7 @@ Here's a list of public Fediverse services.
 | `smokecircle.co` | Yes |
 | `smokeout.cloud` | No |
 | `smokymountain.top` | No |
+| `smol.blog` | Yes |
 | `smol.boo` | No |
 | `smol.club` | No |
 | `smolkitty.me` | Yes |
@@ -36085,6 +36093,7 @@ Here's a list of public Fediverse services.
 | `technologeek.me` | No |
 | `technologists.cloud` | No |
 | `technologyinmontreal.com` | No |
+| `technomage.net` | No |
 | `technomancy.space` | No |
 | `technomancy.us` | No |
 | `technomystics.com` | Yes |
@@ -37411,6 +37420,7 @@ Here's a list of public Fediverse services.
 | `toortu.ga` | No |
 | `toot-bionaut.de` | No |
 | `toot.agency` | No |
+| `toot.as` | Yes |
 | `toot.baby` | No |
 | `toot.beer` | Yes |
 | `toot.berlin` | No |
@@ -40780,6 +40790,7 @@ Here's a list of public Fediverse services.
 | `wuu.bi` | No |
 | `wuwox.com` | Yes |
 | `wvac.club` | No |
+| `wwbaker.net` | No |
 | `wwtube.net` | No |
 | `wx.social` | No |
 | `wx.watch` | No |
@@ -42101,8 +42112,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,653 |
-| Normal | 31,405 |
+| Cloudflare | 10,656 |
+| Normal | 31,413 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
