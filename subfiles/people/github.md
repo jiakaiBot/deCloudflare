@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [install_requirements error libmamba](https://github.com/0cc4m/KoboldAI/issues/42)
 - [403: Authorization Failed](https://github.com/LibraryOfCongress/api.congress.gov/issues/96)
 - [couldNotUploadFile Error with status code 409: Upload-Offset conflict](https://github.com/tus/TUSKit/issues/162)
 - [Some issues on platformio (which do no occur on Arduino)](https://github.com/schreibfaul1/ESP32-audioI2S/issues/541)
