@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [supabase start fails on first run with Logflare enabled, succeeds on second run](https://github.com/supabase/cli/issues/1177)
 - [staging bitswap peer undialable due to cert error](https://github.com/elastic-ipfs/elastic-ipfs/issues/30)
 - ["(0 , util_1.promisify) is not a function" in Cloudflare Worker](https://github.com/axiomhq/axiom-node/issues/105)
 - [Error while reconciling Recording Rules](https://github.com/coralogix/coralogix-operator-poc/issues/45)
