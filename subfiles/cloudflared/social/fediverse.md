@@ -3495,6 +3495,7 @@ Here's a list of public Fediverse services.
 | `beals.rocks` | No |
 | `beamweb.de` | No |
 | `beamy-lake.social` | No |
+| `bean.place` | Yes |
 | `beanlog.xyz` | No |
 | `beanofficial.co` | No |
 | `beans.do` | Yes |
@@ -19431,7 +19432,7 @@ Here's a list of public Fediverse services.
 | `kumolabo.com` | No |
 | `kunagisa.moe` | Yes |
 | `kunkel24.de` | No |
-| `kunkunzzz.xyz` | Yes |
+| `kunkunzzz.xyz` | No |
 | `kunveni.net` | No |
 | `kuon.xyz` | Yes |
 | `kuoushi.com` | No |
@@ -40182,6 +40183,7 @@ Here's a list of public Fediverse services.
 | `wevans.social` | No |
 | `wewheek.com` | No |
 | `wexlercommunications.com` | No |
+| `weyr.org.uk` | No |
 | `weyr.social` | No |
 | `wezerl.com` | Yes |
 | `wezm.net` | No |
@@ -42128,7 +42130,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,666 |
-| Normal | 31,418 |
+| Normal | 31,420 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
