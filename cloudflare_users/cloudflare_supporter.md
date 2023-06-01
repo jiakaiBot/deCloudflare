@@ -3023,6 +3023,7 @@ Do not create new issue or we will close it as duplicate.
 | [EarthX43@twitter](https://twitter.com/EarthX43/status/1552745720192864257) | advertise |
 | [Eashwar72375722@twitter](https://twitter.com/Eashwar72375722/status/1645097684901175303) | advertise |
 | [east_aj@twitter](https://twitter.com/east_aj/status/1402728569550163970) | advertise |
+| [easyidea@twitter](https://twitter.com/easyidea/status/1664131055086075904) | advertise |
 | [EbadeMohmade@twitter](https://twitter.com/EbadeMohmade/status/1450824249988501504) | advertise |
 | [ebequn@twitter](https://twitter.com/ebequn/status/1555867021195497472) | advertise |
 | [ebisaadavi1@twitter](https://twitter.com/ebisaadavi1/status/1575755427140325377) | advertise |
