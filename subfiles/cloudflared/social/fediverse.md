@@ -30453,6 +30453,7 @@ Here's a list of public Fediverse services.
 | `randomcat.org` | No |
 | `randomchatss.xyz` | No |
 | `randomcloud.io` | Yes |
+| `randomcorner.space` | No |
 | `randomdrift.es` | No |
 | `randome.camp` | No |
 | `randomfoo.net` | No |
@@ -42115,7 +42116,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,656 |
-| Normal | 31,415 |
+| Normal | 31,416 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
