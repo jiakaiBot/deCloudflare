@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,377 |
-| social | 4,074 |
+| social | 4,076 |
 | net | 3,230 |
 | org | 2,227 |
 | de | 2,116 |
@@ -7914,6 +7914,7 @@ Here's a list of public Fediverse services.
 | `dallincrump.com` | No |
 | `dalmatino.net` | Yes |
 | `dalme.net` | No |
+| `daltonbrady.us` | Yes |
 | `daltonhome.net` | Yes |
 | `dalvors.wtf` | No |
 | `damarada.net` | No |
@@ -8410,6 +8411,7 @@ Here's a list of public Fediverse services.
 | `deepak.science` | No |
 | `deepblue.dev` | No |
 | `deeperwisdom.org` | No |
+| `deepmay.social` | No |
 | `deepmindstate.net` | No |
 | `deepnexus.link` | No |
 | `deepplum.com` | No |
@@ -12557,6 +12559,7 @@ Here's a list of public Fediverse services.
 | `freewall.fr` | Yes |
 | `freeway.network` | No |
 | `freewheel.social` | No |
+| `freewill-mstdn.jp` | No |
 | `freezepeach.online` | No |
 | `freezepeach.xyz` | No |
 | `frehi.be` | No |
@@ -13775,6 +13778,7 @@ Here's a list of public Fediverse services.
 | `glasserholdings.eu` | No |
 | `glasses.moe` | Yes |
 | `glassportals.social` | No |
+| `glassrivermedia.me` | No |
 | `glaubens.zone` | No |
 | `glauca.space` | No |
 | `glaux.io` | Yes |
@@ -35554,6 +35558,7 @@ Here's a list of public Fediverse services.
 | `synostrij.nl` | No |
 | `syntaxerror.space` | No |
 | `synth.buzz` | No |
+| `synth.zip` | Yes |
 | `synthbear.xyz` | No |
 | `synthesizers.social` | No |
 | `syntheti.cyou` | Yes |
@@ -39252,6 +39257,7 @@ Here's a list of public Fediverse services.
 | `vettipechu.xyz` | No |
 | `vexingworkshop.com` | No |
 | `vffsm.de` | No |
+| `vforge.social` | No |
 | `vfpmedia.com` | No |
 | `vfx.social` | No |
 | `vgai.de` | No |
@@ -42119,8 +42125,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,662 |
-| Normal | 31,414 |
+| Cloudflare | 10,664 |
+| Normal | 31,418 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
