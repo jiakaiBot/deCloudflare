@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,378 |
+| com | 6,379 |
 | social | 4,076 |
 | net | 3,230 |
 | org | 2,227 |
-| de | 2,116 |
+| de | 2,117 |
 
 
 - Mastodon, Pleroma, etc
@@ -492,6 +492,7 @@ Here's a list of public Fediverse services.
 | `4t2.uk` | No |
 | `4tobi.de` | No |
 | `4toot.org` | No |
+| `4ushiyu.jp` | Yes |
 | `4wtf.com` | No |
 | `4xl.co` | No |
 | `4zido.de` | No |
@@ -2415,6 +2416,7 @@ Here's a list of public Fediverse services.
 | `arnesocial.de` | No |
 | `arnip.org` | No |
 | `arnold-schiller.de` | No |
+| `arnoldasu.lt` | No |
 | `arnoldhoogerwerf.nl` | No |
 | `arnos-vale.net` | No |
 | `arns.lt` | No |
@@ -6793,6 +6795,7 @@ Here's a list of public Fediverse services.
 | `commandercog.com` | Yes |
 | `commfurnity.com` | Yes |
 | `commodorian.org` | No |
+| `commojun.com` | No |
 | `common.se` | No |
 | `common.social` | No |
 | `commonhouse.social` | No |
@@ -28504,6 +28507,7 @@ Here's a list of public Fediverse services.
 | `phdstudents.space` | No |
 | `pheme.au` | No |
 | `phene.gay` | No |
+| `phenjara.de` | No |
 | `phenomenon.cloud` | No |
 | `phenomenon.space` | No |
 | `phereph.one` | No |
@@ -35861,7 +35865,7 @@ Here's a list of public Fediverse services.
 | `tanukitsu.net` | No |
 | `tanukitunes.com` | No |
 | `tanztee.social` | No |
-| `taobox.pub` | No |
+| `taobox.pub` | Yes |
 | `taoetc.org` | No |
 | `taoka.de` | No |
 | `taonaw.com` | No |
@@ -42129,8 +42133,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,666 |
-| Normal | 31,420 |
+| Cloudflare | 10,668 |
+| Normal | 31,422 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
