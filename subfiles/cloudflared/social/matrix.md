@@ -100,7 +100,6 @@ Here's a list of public Matrix services.
 | www.privacytools.io | Yes |
 | matrix.pub.solar | No |
 | radiowarnerd.org | No |
-| matrix.rimfaxe.net | No |
 | riotchat.de | Yes |
 | ru-matrix.org | No |
 | sans-nuage.fr | No |
@@ -127,7 +126,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 21 |
-| Normal | 78 |
+| Normal | 77 |
 
 
-### 21.2% of public Matrix services are using Cloudflare.
+### 21.4% of public Matrix services are using Cloudflare.
