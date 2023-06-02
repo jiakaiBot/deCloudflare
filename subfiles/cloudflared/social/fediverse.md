@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,428 |
+| com | 6,429 |
 | social | 4,082 |
-| net | 3,245 |
+| net | 3,246 |
 | org | 2,238 |
-| de | 2,129 |
+| de | 2,130 |
 
 
 - Mastodon, Pleroma, etc
@@ -1434,6 +1434,7 @@ Here's a list of public Fediverse services.
 | `alexjyong.dev` | No |
 | `alexkeating.me` | No |
 | `alexmasters.com` | No |
+| `alexme.online` | No |
 | `alexme.ru` | No |
 | `alexmshepherd.com` | No |
 | `alexmurphy.codes` | No |
@@ -8029,6 +8030,7 @@ Here's a list of public Fediverse services.
 | `danielsantos.org` | No |
 | `danielsteinborn.com` | No |
 | `danielstucke.com` | No |
+| `danieltietze.de` | No |
 | `danielwarshaw.com` | No |
 | `danielwmorgan.town` | Yes |
 | `daniilrose.com` | Yes |
@@ -9129,6 +9131,7 @@ Here's a list of public Fediverse services.
 | `dissociatedpress.net` | No |
 | `dissonanz.xyz` | Yes |
 | `distant.homes` | No |
+| `distantends.net` | No |
 | `distilled.pm` | Yes |
 | `distilled.pub` | No |
 | `distnode.com` | No |
@@ -14757,7 +14760,7 @@ Here's a list of public Fediverse services.
 | `haetsal.me` | No |
 | `hafen.io` | No |
 | `hafkehafke.org` | No |
-| `hafs.in` | No |
+| `hafs.in` | Yes |
 | `hagale.net` | No |
 | `hagan.social` | No |
 | `hagelb.org` | No |
@@ -25516,6 +25519,7 @@ Here's a list of public Fediverse services.
 | `nekol.cc` | Yes |
 | `nekomimi.jp` | No |
 | `nekomimi.yokohama` | Yes |
+| `nekomimisskey.com` | Yes |
 | `nekomin.jp` | Yes |
 | `nekomiya.net` | Yes |
 | `nekonekoserver.net` | Yes |
@@ -38068,7 +38072,7 @@ Here's a list of public Fediverse services.
 | `treyground.dev` | Yes |
 | `treyssatvincent.fr` | No |
 | `trg.social` | Yes |
-| `tri.cash` | Yes |
+| `tri.cash` | No |
 | `trialbyerror.org` | No |
 | `triangle.social` | No |
 | `triangleidiot.online` | No |
@@ -41884,7 +41888,7 @@ Here's a list of public Fediverse services.
 | `yuzuhi.me` | No |
 | `yuzulia.com` | Yes |
 | `yuzulia.work` | Yes |
-| `yuzulia.xyz` | No |
+| `yuzulia.xyz` | Yes |
 | `yvees.ovh` | No |
 | `yvr.social` | No |
 | `yvt.jp` | Yes |
@@ -42349,8 +42353,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,713 |
-| Normal | 31,593 |
+| Cloudflare | 10,715 |
+| Normal | 31,595 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
