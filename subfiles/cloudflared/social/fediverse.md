@@ -6797,7 +6797,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -20200,6 +20200,7 @@ Here's a list of public Fediverse services.
 | `lemmy.eus` | No |
 | `lemmy.ml` | No |
 | `lemmy.one` | Yes |
+| `lemmy.world` | No |
 | `lemmygrad.com` | No |
 | `lemmygrad.ml` | No |
 | `lemniskett.dev` | Yes |
@@ -42363,7 +42364,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,718 |
+| Cloudflare | 10,719 |
 | Normal | 31,602 |
 
 
