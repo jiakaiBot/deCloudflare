@@ -6545,6 +6545,7 @@ Here's a list of public Fediverse services.
 | `clq.im` | No |
 | `clrk.space` | No |
 | `clttr.info` | No |
+| `clttr.it` | No |
 | `club-house.work` | No |
 | `clubalpindouai.fr` | Yes |
 | `clubb.cymru` | No |
@@ -9182,6 +9183,7 @@ Here's a list of public Fediverse services.
 | `diwaniyah.social` | No |
 | `dix.asia` | No |
 | `dixies.land` | No |
+| `diy.net.pl` | Yes |
 | `diya-mastodon.com` | No |
 | `diyarciftci.xyz` | No |
 | `diymusic.space` | No |
@@ -42360,8 +42362,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,717 |
-| Normal | 31,600 |
+| Cloudflare | 10,718 |
+| Normal | 31,601 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
