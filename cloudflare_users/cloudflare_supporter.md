@@ -536,6 +536,7 @@ Do not create new issue or we will close it as duplicate.
 | [Akzaw3@twitter](https://twitter.com/Akzaw3/status/1528363896393805829) | advertise |
 | [akzaw2636@twitter](https://twitter.com/akzaw2636/status/1547956424596041730) | advertise |
 | [ak_shrinivas@twitter](https://twitter.com/ak_shrinivas/status/1404762077311295491) | advertise |
+| [aladjid_@twitter](https://twitter.com/aladjid_/status/1664699302898290689) | advertise |
 | [AlaevY@twitter](https://twitter.com/AlaevY/status/1445829052728705029) | advertise |
 | [alailsonribeiro@twitter](https://twitter.com/alailsonribeiro/status/1430539576511172609) | advertise |
 | [AlanJade1@twitter](https://twitter.com/AlanJade1/status/1570041811829424129) | advertise |
@@ -2559,6 +2560,7 @@ Do not create new issue or we will close it as duplicate.
 | [DavidMa4000@twitter](https://twitter.com/DavidMa4000/status/1387060314919800837) | advertise |
 | [DavidMartin0091@twitter](https://twitter.com/DavidMartin0091/status/1395217999108341762) | advertise |
 | [DavidMo18800778@twitter](https://twitter.com/DavidMo18800778/status/1588202144963837953) | advertise |
+| [DavidNd34437712@twitter](https://twitter.com/DavidNd34437712/status/1664719938685218822) | advertise |
 | [Davidng70616958@twitter](https://twitter.com/Davidng70616958/status/1381311850239827968) | advertise |
 | [DavidOpasik@twitter](https://twitter.com/DavidOpasik/status/1421296723926814723) | advertise |
 | [DavidRo07585009@twitter](https://twitter.com/DavidRo07585009/status/1596371805752938496) | advertise |
@@ -6064,6 +6066,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kuyah83627828@twitter](https://twitter.com/Kuyah83627828/status/1503268631882338304) | advertise |
 | [Kuyhesad@twitter](https://twitter.com/Kuyhesad/status/1400479004306464772) | advertise |
 | [kvncleantown@twitter](https://twitter.com/kvncleantown/status/1657725038152540160) | advertise |
+| [kw0rdl@twitter](https://twitter.com/kw0rdl/status/1664702346247524371) | advertise |
 | [KwangTo1@twitter](https://twitter.com/KwangTo1/status/1388373678233047041) | advertise |
 | [KwikMugs@twitter](https://twitter.com/KwikMugs/status/1518513448597995524) | advertise |
 | [KXbXQwleCqIGldM@twitter](https://twitter.com/KXbXQwleCqIGldM/status/1491062243563556873) | advertise |
@@ -7117,6 +7120,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mehrabjan123@twitter](https://twitter.com/Mehrabjan123/status/1394097749604409344) | advertise |
 | [mehran060@twitter](https://twitter.com/mehran060/status/1543887005062414337) | advertise |
 | [mehran85324434@twitter](https://twitter.com/mehran85324434/status/1613447642289258498) | advertise |
+| [mehranfcoder@twitter](https://twitter.com/mehranfcoder/status/1664718959520645121) | advertise |
 | [mehrdad137100@twitter](https://twitter.com/mehrdad137100/status/1508746993497260037) | advertise |
 | [mehrdad138387@twitter](https://twitter.com/mehrdad138387/status/1578662486307647488) | advertise |
 | [Mehrdad83222579@twitter](https://twitter.com/Mehrdad83222579/status/1584484492395175936) | advertise |
@@ -7919,6 +7923,7 @@ Do not create new issue or we will close it as duplicate.
 | [nam08926332@twitter](https://twitter.com/nam08926332/status/1609565020203126789) | advertise |
 | [Nam42Duongtruo1@twitter](https://twitter.com/Nam42Duongtruo1/status/1553281681859104768) | advertise |
 | [nam291296@twitter](https://twitter.com/nam291296/status/1603282501543174145) | advertise |
+| [nam13102006@twitter](https://twitter.com/nam13102006/status/1664699215803723776) | advertise |
 | [nam14316033@twitter](https://twitter.com/nam14316033/status/1584798469851865088) | advertise |
 | [nam54142435@twitter](https://twitter.com/nam54142435/status/1377917089734750211) | advertise |
 | [Nam2140220405@twitter](https://twitter.com/Nam2140220405/status/1575487045262114820) | advertise |
@@ -11351,8 +11356,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
@@ -11361,6 +11366,7 @@ Do not create new issue or we will close it as duplicate.
 | [themichaellamb@twitter](https://twitter.com/themichaellamb/status/1504870147839905794) | advertise |
 | [TheMukeshPatel@twitter](https://twitter.com/TheMukeshPatel/status/1565563880704602112) | advertise |
 | [Thenoob4ever67@twitter](https://twitter.com/Thenoob4ever67/status/1597686642017701888) | advertise |
+| [TheNorthTX@twitter](https://twitter.com/TheNorthTX/status/1664719010057838596) | advertise |
 | [theogb6@twitter](https://twitter.com/theogb6/status/1661434674114166791) | advertise |
 | [Theone78028212@twitter](https://twitter.com/Theone78028212/status/1565905872605396992) | advertise |
 | [Theophiluskala2@twitter](https://twitter.com/Theophiluskala2/status/1556089433170083851) | advertise |
