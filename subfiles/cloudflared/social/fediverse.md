@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,429 |
+| com | 6,430 |
 | social | 4,082 |
-| net | 3,246 |
+| net | 3,247 |
 | org | 2,238 |
 | de | 2,130 |
 
@@ -4968,6 +4968,7 @@ Here's a list of public Fediverse services.
 | `bruitbruit.com` | No |
 | `bruixoles.cat` | No |
 | `bruk.earth` | Yes |
+| `brunch.zone` | No |
 | `bruniau.net` | No |
 | `brunisholz.fr` | No |
 | `brunk.io` | No |
@@ -8329,6 +8330,7 @@ Here's a list of public Fediverse services.
 | `dcomm.net.ua` | No |
 | `dcr.pw` | Yes |
 | `dcreager.net` | No |
+| `dcrich.net` | Yes |
 | `dcrz.eu` | No |
 | `dcsl.dk` | No |
 | `dctr.uk` | No |
@@ -11926,6 +11928,7 @@ Here's a list of public Fediverse services.
 | `filipesm.com` | Yes |
 | `filipesm.eu` | Yes |
 | `filiuspatris.net` | Yes |
+| `filklore.com` | No |
 | `fillari.xyz` | No |
 | `fillian.com` | No |
 | `fillmorephx.com` | Yes |
@@ -36771,6 +36774,7 @@ Here's a list of public Fediverse services.
 | `thefolklore.cafe` | No |
 | `thefooty.club` | Yes |
 | `thefourthdev.work` | No |
+| `thefoxandalien.club` | No |
 | `thefoxon.ru` | Yes |
 | `thefrakinship.xyz` | Yes |
 | `thefranks.club` | No |
@@ -42355,8 +42359,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,716 |
-| Normal | 31,596 |
+| Cloudflare | 10,717 |
+| Normal | 31,599 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
