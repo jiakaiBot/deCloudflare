@@ -26045,6 +26045,7 @@ Here's a list of public Fediverse services.
 | `niklas.social` | No |
 | `niklasbarning.de` | No |
 | `niklasrosenstein.com` | No |
+| `nikola.love` | No |
 | `nikolaiathome.com` | Yes |
 | `nikolak.com` | Yes |
 | `nikomo.fi` | Yes |
@@ -42354,7 +42355,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,715 |
-| Normal | 31,595 |
+| Normal | 31,596 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
