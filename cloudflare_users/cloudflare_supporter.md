@@ -1607,6 +1607,7 @@ Do not create new issue or we will close it as duplicate.
 | [BikramLaishram7@twitter](https://twitter.com/BikramLaishram7/status/1571436529754738690) | advertise |
 | [Bilalnaserddine@twitter](https://twitter.com/Bilalnaserddine/status/1486095674538135556) | advertise |
 | [bilell_mz@twitter](https://twitter.com/bilell_mz/status/1539562989120020485) | advertise |
+| [Bilgram4@twitter](https://twitter.com/Bilgram4/status/1664605025530781703) | advertise |
 | [BIlli42767896@twitter](https://twitter.com/BIlli42767896/status/1394538237880782853) | advertise |
 | [Billionairehei1@twitter](https://twitter.com/Billionairehei1/status/1390817006937542658) | advertise |
 | [billionthOW@twitter](https://twitter.com/billionthOW/status/1608987483454476288) | advertise |
@@ -3317,6 +3318,7 @@ Do not create new issue or we will close it as duplicate.
 | [farooq_furkhan@twitter](https://twitter.com/farooq_furkhan/status/1406526860792455169) | advertise |
 | [farpa23926673@twitter](https://twitter.com/farpa23926673/status/1573059951970377733) | advertise |
 | [farrukh768acca@twitter](https://twitter.com/farrukh768acca/status/1617188352150896640) | advertise |
+| [FarshidArmir@twitter](https://twitter.com/FarshidArmir/status/1664596763896868864) | advertise |
 | [Farzad33475400@twitter](https://twitter.com/Farzad33475400/status/1578132827421507592) | advertise |
 | [farzanf@twitter](https://twitter.com/farzanf/status/1526583866181529609) | advertise |
 | [Farzin19576702@twitter](https://twitter.com/Farzin19576702/status/1391834415785861120) | advertise |
@@ -12909,6 +12911,7 @@ Do not create new issue or we will close it as duplicate.
 | [yellowapple64@twitter](https://twitter.com/yellowapple64/status/1381870684750499840) | advertise |
 | [yellow_cute1912@twitter](https://twitter.com/yellow_cute1912/status/1385865689286676482) | advertise |
 | [yellyoshua@twitter](https://twitter.com/yellyoshua/status/1593073934274285569) | advertise |
+| [Yelulkal1@twitter](https://twitter.com/Yelulkal1/status/1664598918871814144) | advertise |
 | [YeMarn47754587@twitter](https://twitter.com/YeMarn47754587/status/1390341861118599168) | advertise |
 | [yemedenolmazbe@twitter](https://twitter.com/yemedenolmazbe/status/1632464049127522305) | advertise |
 | [yemenpridee2@twitter](https://twitter.com/yemenpridee2/status/1479099696681570307) | advertise |
