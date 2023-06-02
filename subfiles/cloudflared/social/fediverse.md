@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,428 |
-| social | 4,083 |
+| social | 4,082 |
 | net | 3,245 |
 | org | 2,238 |
 | de | 2,129 |
@@ -21140,6 +21140,7 @@ Here's a list of public Fediverse services.
 | `lowol.org` | No |
 | `lowpassfilter.link` | No |
 | `lowsamplingrate.eu` | No |
+| `lowsec.club` | No |
 | `lowsnr.net` | No |
 | `loxodon.social` | No |
 | `loxodonta.world` | No |
@@ -35970,7 +35971,6 @@ Here's a list of public Fediverse services.
 | `talkbottle.com` | No |
 | `talkedabout.social` | No |
 | `talker.to` | No |
-| `talking-hope.social` | No |
 | `talking.dev` | Yes |
 | `talkingdrupal.social` | No |
 | `talkinghuman.com` | No |
