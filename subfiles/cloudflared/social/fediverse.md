@@ -9508,6 +9508,7 @@ Here's a list of public Fediverse services.
 | `douglashill.co` | Yes |
 | `dounx.me` | Yes |
 | `douvk.co.uk` | No |
+| `douwes.co.uk` | No |
 | `doux.fun` | No |
 | `douzepoints.social` | Yes |
 | `dov.moe` | Yes |
@@ -42360,7 +42361,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,717 |
-| Normal | 31,599 |
+| Normal | 31,600 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
