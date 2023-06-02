@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,380 |
+| com | 6,382 |
 | social | 4,078 |
-| net | 3,230 |
-| org | 2,227 |
+| net | 3,231 |
+| org | 2,228 |
 | de | 2,117 |
 
 
@@ -828,6 +828,7 @@ Here's a list of public Fediverse services.
 | `abshoff.social` | No |
 | `abski.pl` | No |
 | `abskoop.com` | Yes |
+| `absol.garden` | No |
 | `absolem.cc` | No |
 | `absolutely-zero.monster` | No |
 | `absolutelyhar.am` | No |
@@ -939,6 +940,7 @@ Here's a list of public Fediverse services.
 | `activitypub.be` | No |
 | `activitypub.ca` | No |
 | `activitypub.eu` | No |
+| `activitypub.rocks` | No |
 | `activitypub.tk` | No |
 | `activitypubhub.de` | No |
 | `activitypup.de` | No |
@@ -2625,6 +2627,7 @@ Here's a list of public Fediverse services.
 | `asse.world` | No |
 | `asselma.eu` | No |
 | `assemblag.es` | No |
+| `assemblylabx.com` | No |
 | `asso-sterenn.fr` | No |
 | `associated.social` | No |
 | `assonance.org` | No |
@@ -6752,7 +6755,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8407,7 +8410,7 @@ Here's a list of public Fediverse services.
 | `dedyn.io` | No |
 | `deeds.digital` | Yes |
 | `deef.tech` | Yes |
-| `deeloves.me` | Yes |
+| `deeloves.me` | No |
 | `deemos.club` | Yes |
 | `deep-learning.site` | No |
 | `deep-weeb.com` | No |
@@ -11203,7 +11206,7 @@ Here's a list of public Fediverse services.
 | `falkensweb.com` | No |
 | `falktx.com` | No |
 | `falkvinge.net` | Yes |
-| `fallendemon.xyz` | Yes |
+| `fallendemon.xyz` | No |
 | `falles.online` | Yes |
 | `falschgold.net` | No |
 | `falsehood.social` | Yes |
@@ -14893,6 +14896,7 @@ Here's a list of public Fediverse services.
 | `harvestasya.org` | Yes |
 | `harz.social` | No |
 | `harzpromoter.de` | No |
+| `hasa.blog` | No |
 | `hasacow.com` | No |
 | `hasameli.com` | No |
 | `hase.dev` | No |
@@ -22838,6 +22842,7 @@ Here's a list of public Fediverse services.
 | `medusmedia.com` | No |
 | `meecolabs.eu` | No |
 | `meedan.social` | Yes |
+| `meegt.org` | No |
 | `meekchopp.es` | No |
 | `meemu.org` | No |
 | `meenzen.net` | Yes |
@@ -23228,6 +23233,7 @@ Here's a list of public Fediverse services.
 | `michael-webber.com` | No |
 | `michaelbishop.me` | No |
 | `michaelbrooks.co.uk` | Yes |
+| `michaelcmcgreevy.com` | No |
 | `michaelfbrown.net` | No |
 | `michaelgeist.ca` | No |
 | `michaelhans.com` | No |
@@ -29363,6 +29369,7 @@ Here's a list of public Fediverse services.
 | `postmarketos.org` | No |
 | `postmastodon.com` | No |
 | `postmoderns.info` | No |
+| `postninja.net` | No |
 | `postnstuffds.lol` | No |
 | `postpandemicparty.org` | No |
 | `postrad.social` | No |
@@ -29603,6 +29610,7 @@ Here's a list of public Fediverse services.
 | `profa.co` | No |
 | `profesionalreview.com` | No |
 | `profiklickser.com` | No |
+| `profiles.lol` | Yes |
 | `profitwallet.team` | No |
 | `progaccess.net` | No |
 | `prognesubis.net` | No |
@@ -34145,7 +34153,7 @@ Here's a list of public Fediverse services.
 | `solchefreu.de` | No |
 | `soldyn.net` | Yes |
 | `soleus.nu` | No |
-| `solhack.com` | Yes |
+| `solhack.com` | No |
 | `soli0222.com` | Yes |
 | `solibre.de` | No |
 | `solidaires.org` | No |
@@ -42136,8 +42144,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,670 |
-| Normal | 31,423 |
+| Cloudflare | 10,667 |
+| Normal | 31,434 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
