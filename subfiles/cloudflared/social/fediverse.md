@@ -34436,6 +34436,7 @@ Here's a list of public Fediverse services.
 | `sotong.cloud` | No |
 | `soucy.cc` | No |
 | `souder.ca` | No |
+| `soukun.xyz` | Yes |
 | `soul.ua` | Yes |
 | `soulcrash.net` | No |
 | `soulice.moe` | No |
@@ -42354,7 +42355,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,715 |
+| Cloudflare | 10,716 |
 | Normal | 31,596 |
 
 
