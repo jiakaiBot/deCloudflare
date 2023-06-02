@@ -5946,6 +5946,7 @@ Do not create new issue or we will close it as duplicate.
 | [KookKing11@twitter](https://twitter.com/KookKing11/status/1391425999661723649) | advertise |
 | [KoOo62025587@twitter](https://twitter.com/KoOo62025587/status/1401169538259902466) | advertise |
 | [KoOo98154419@twitter](https://twitter.com/KoOo98154419/status/1390611634570207237) | advertise |
+| [KoOo71502668337@twitter](https://twitter.com/KoOo71502668337/status/1664570058788724737) | advertise |
 | [KoPaing23039132@twitter](https://twitter.com/KoPaing23039132/status/1398199471352078337) | advertise |
 | [Kophyo03771295@twitter](https://twitter.com/Kophyo03771295/status/1380875259474108421) | advertise |
 | [KoPhyo40402506@twitter](https://twitter.com/KoPhyo40402506/status/1385427314054291459) | advertise |
@@ -8754,6 +8755,7 @@ Do not create new issue or we will close it as duplicate.
 | [oomaung_chit@twitter](https://twitter.com/oomaung_chit/status/1570386021640196099) | advertise |
 | [OommenRejoice@twitter](https://twitter.com/OommenRejoice/status/1386236913519009793) | advertise |
 | [OoneOone2@twitter](https://twitter.com/OoneOone2/status/1392550303317250050) | advertise |
+| [OoNyi85126110@twitter](https://twitter.com/OoNyi85126110/status/1664532344731217921) | advertise |
 | [OoShinePyae3@twitter](https://twitter.com/OoShinePyae3/status/1406080647244914695) | advertise |
 | [OoThawLay2@twitter](https://twitter.com/OoThawLay2/status/1391107844292825089) | advertise |
 | [OowEik@twitter](https://twitter.com/OowEik/status/1389821108027727879) | advertise |
@@ -9553,6 +9555,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rachan51471422@twitter](https://twitter.com/Rachan51471422/status/1555757912835776513) | advertise |
 | [Rachel3304@twitter](https://twitter.com/Rachel3304/status/1559547803692666888) | advertise |
 | [racycars@twitter](https://twitter.com/racycars/status/1394606713827778561) | advertise |
+| [RadenPino@twitter](https://twitter.com/RadenPino/status/1664433169398104067) | advertise |
 | [radio7toronto@twitter](https://twitter.com/radio7toronto/status/1512422850833133572) | advertise |
 | [radithyaputra@twitter](https://twitter.com/radithyaputra/status/1642274476514758664) | advertise |
 | [radityoarifn@twitter](https://twitter.com/radityoarifn/status/1600883998162812928) | advertise |
