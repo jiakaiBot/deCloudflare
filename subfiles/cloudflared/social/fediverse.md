@@ -6347,6 +6347,7 @@ Here's a list of public Fediverse services.
 | `citrus.farm` | No |
 | `citrussocial.uk` | No |
 | `citsc.de` | No |
+| `citw.lgbt` | No |
 | `city-of-glass.net` | No |
 | `city17.online` | No |
 | `citydweller.social` | No |
@@ -42363,7 +42364,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,718 |
-| Normal | 31,601 |
+| Normal | 31,602 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
