@@ -2570,6 +2570,7 @@ Do not create new issue or we will close it as duplicate.
 | [dawenego@twitter](https://twitter.com/dawenego/status/1475482184072843269) | advertise |
 | [dawjuujuu@twitter](https://twitter.com/dawjuujuu/status/1390089642116927489) | advertise |
 | [DawMaThaung@twitter](https://twitter.com/DawMaThaung/status/1395988817983639557) | advertise |
+| [dawnzig@twitter](https://twitter.com/dawnzig/status/1664384761270267904) | advertise |
 | [Dax009YT@twitter](https://twitter.com/Dax009YT/status/1456765975043379210) | advertise |
 | [Daxi84938888@twitter](https://twitter.com/Daxi84938888/status/1382196765445660673) | advertise |
 | [daylatenminhh@twitter](https://twitter.com/daylatenminhh/status/1377812028593643521) | advertise |
