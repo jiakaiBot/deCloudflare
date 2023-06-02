@@ -7,6 +7,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-05-31: [Network Performance Issues in Newark, NJ, United States](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/62vll3wz4fs7)
+- 2023-05-31: [Network Performance Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/28lv1y81cvh9)
 - 2023-05-22: [Network Performance Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5462l61bvlr6)
 - 2023-05-22: [MXP (Milan) currently experiencing performance issues and errors.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/l1cywsq6wg6q)
 - 2023-05-19: [User deletion results in 500 response code](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7fzmklxlbkjb)
