@@ -2662,6 +2662,7 @@ Here's a list of public Fediverse services.
 | `astelpenkan.ml` | No |
 | `asteringtech.com` | No |
 | `asterism.xyz` | Yes |
+| `asteroidm.space` | No |
 | `astest.org` | No |
 | `astheriver.art` | No |
 | `astifter.com` | No |
@@ -25897,6 +25898,7 @@ Here's a list of public Fediverse services.
 | `nexxt.social` | No |
 | `nexxtsocial.de` | No |
 | `nezorg.ninja` | No |
+| `nf0.ru` | No |
 | `nfa.cz` | No |
 | `nfb.social` | No |
 | `nfdi.social` | No |
@@ -42372,7 +42374,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,722 |
-| Normal | 31,606 |
+| Normal | 31,608 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
