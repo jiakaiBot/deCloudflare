@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,430 |
+| com | 6,432 |
 | social | 4,082 |
-| net | 3,247 |
+| net | 3,249 |
 | org | 2,238 |
 | de | 2,130 |
 
@@ -2197,6 +2197,7 @@ Here's a list of public Fediverse services.
 | `apkallu.us` | No |
 | `apkfission.net` | Yes |
 | `apobangpo.space` | No |
+| `apobangpo.website` | No |
 | `apocalypse.crimea.ua` | Yes |
 | `apocalypse.net` | Yes |
 | `apocfury.com` | Yes |
@@ -4162,6 +4163,7 @@ Here's a list of public Fediverse services.
 | `bkryer.com` | No |
 | `bktsk.com` | Yes |
 | `bl1nk.com` | Yes |
+| `blaahaj.com` | Yes |
 | `blab.gg` | Yes |
 | `blabber.rocks` | No |
 | `blabbergoats.com` | No |
@@ -8499,6 +8501,7 @@ Here's a list of public Fediverse services.
 | `deferpanic.dev` | No |
 | `deff.no` | Yes |
 | `deffo.com.au` | Yes |
+| `defialliance.finance` | Yes |
 | `defiant-tomato.social` | No |
 | `defigogallery.com` | No |
 | `definitely-for.me` | Yes |
@@ -13110,6 +13113,7 @@ Here's a list of public Fediverse services.
 | `fx-don.net` | No |
 | `fx.cafe` | No |
 | `fx4.net` | No |
+| `fxcfdlabo.com` | No |
 | `fxmech.com` | Yes |
 | `fxxking.life` | Yes |
 | `fy.to` | Yes |
@@ -16071,6 +16075,7 @@ Here's a list of public Fediverse services.
 | `huut.is` | Yes |
 | `huxley.cloud` | No |
 | `huynguyen.org` | No |
+| `hvac-tf.net` | Yes |
 | `hvalhus.ca` | Yes |
 | `hvddl.com` | Yes |
 | `hvhost.de` | No |
@@ -16710,6 +16715,7 @@ Here's a list of public Fediverse services.
 | `initiativegegendieverwendungvonvielzulangendomainnameniminter.net` | No |
 | `initlab.org` | No |
 | `initmd.xyz` | Yes |
+| `initq.net` | No |
 | `injabie3.moe` | Yes |
 | `injection.love` | Yes |
 | `inkdrop.space` | No |
@@ -28702,6 +28708,7 @@ Here's a list of public Fediverse services.
 | `phillipjordan.com` | Yes |
 | `phillips.fun` | No |
 | `phillipsuk.org` | No |
+| `philly.page` | No |
 | `philoxweb.be` | No |
 | `philpin.com` | Yes |
 | `philpot.org` | No |
@@ -42364,8 +42371,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,719 |
-| Normal | 31,602 |
+| Cloudflare | 10,722 |
+| Normal | 31,606 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
