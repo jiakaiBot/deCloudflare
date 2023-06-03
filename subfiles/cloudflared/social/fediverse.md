@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,435 |
+| com | 6,436 |
 | social | 4,084 |
-| net | 3,249 |
+| net | 3,250 |
 | org | 2,238 |
 | de | 2,130 |
 
@@ -2197,6 +2197,7 @@ Here's a list of public Fediverse services.
 | `apkallu.us` | No |
 | `apkfission.net` | Yes |
 | `apobangpo.space` | No |
+| `apobangpo.website` | No |
 | `apocalypse.crimea.ua` | Yes |
 | `apocalypse.net` | Yes |
 | `apocfury.com` | Yes |
@@ -13119,6 +13120,7 @@ Here's a list of public Fediverse services.
 | `fx-don.net` | No |
 | `fx.cafe` | No |
 | `fx4.net` | No |
+| `fxcfdlabo.com` | No |
 | `fxmech.com` | Yes |
 | `fxxking.life` | Yes |
 | `fy.to` | Yes |
@@ -16080,6 +16082,7 @@ Here's a list of public Fediverse services.
 | `huut.is` | Yes |
 | `huxley.cloud` | No |
 | `huynguyen.org` | No |
+| `hvac-tf.net` | Yes |
 | `hvalhus.ca` | Yes |
 | `hvddl.com` | Yes |
 | `hvhost.de` | No |
@@ -42389,8 +42392,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,726 |
-| Normal | 31,620 |
+| Cloudflare | 10,727 |
+| Normal | 31,622 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
