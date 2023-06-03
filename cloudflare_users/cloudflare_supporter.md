@@ -5758,6 +5758,7 @@ Do not create new issue or we will close it as duplicate.
 | [kieungocninhvn@twitter](https://twitter.com/kieungocninhvn/status/1552314629191135232) | advertise |
 | [kigressofsitez1@twitter](https://twitter.com/kigressofsitez1/status/1402196254411558925) | advertise |
 | [Kii777777@twitter](https://twitter.com/Kii777777/status/1391724934095802370) | advertise |
+| [KIINGPUSH@twitter](https://twitter.com/KIINGPUSH/status/1664931339987025920) | advertise |
 | [kii_8m@twitter](https://twitter.com/kii_8m/status/1491801916677845005) | advertise |
 | [kikidrilla@twitter](https://twitter.com/kikidrilla/status/1372335070158204930) | advertise |
 | [KiKu68720339@twitter](https://twitter.com/KiKu68720339/status/1390944987152404484) | advertise |
@@ -12116,6 +12117,7 @@ Do not create new issue or we will close it as duplicate.
 | [uccops@twitter](https://twitter.com/uccops/status/1493791302600650755) | advertise |
 | [uchiha222456@twitter](https://twitter.com/uchiha222456/status/1637917195979358208) | advertise |
 | [UChitKaung2@twitter](https://twitter.com/UChitKaung2/status/1392627087849103360) | advertise |
+| [uclll@twitter](https://twitter.com/uclll/status/1664919821807673344) | advertise |
 | [uCtMoi60822299@twitter](https://twitter.com/uCtMoi60822299/status/1388992504750501890) | advertise |
 | [Uday26880125@twitter](https://twitter.com/Uday26880125/status/1399934947331166213) | advertise |
 | [udaydasss@twitter](https://twitter.com/udaydasss/status/1530172460360175616) | advertise |
