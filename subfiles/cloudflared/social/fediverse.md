@@ -4364,6 +4364,7 @@ Here's a list of public Fediverse services.
 | `bloguslibrus.fr` | No |
 | `blombus.com` | No |
 | `bloodmoon-network.de` | Yes |
+| `bloodshed.party` | No |
 | `bloom.casa` | Yes |
 | `bloom.surf` | No |
 | `bloomanalytics.net` | No |
@@ -42403,7 +42404,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,738 |
-| Normal | 31,621 |
+| Normal | 31,622 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
