@@ -630,6 +630,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlishernavoiI@twitter](https://twitter.com/AlishernavoiI/status/1614713358120263681) | advertise |
 | [AliTekayResmi@twitter](https://twitter.com/AliTekayResmi/status/1420368710490013700) | advertise |
 | [ali_dehdati@twitter](https://twitter.com/ali_dehdati/status/1642283108090142723) | advertise |
+| [Ali_Francee@twitter](https://twitter.com/Ali_Francee/status/1665022814879903746) | advertise |
 | [ali__haidaricr7@twitter](https://twitter.com/ali__haidaricr7/status/1390791981010460673) | advertise |
 | [AllanMartin@twitter](https://twitter.com/AllanMartin/status/1399519289372295168) | advertise |
 | [allawi_m9@twitter](https://twitter.com/allawi_m9/status/1596033460002783232) | advertise |
@@ -5498,6 +5499,7 @@ Do not create new issue or we will close it as duplicate.
 | [KaungKhantWai7@twitter](https://twitter.com/KaungKhantWai7/status/1390703318280794116) | advertise |
 | [KaungMi09613853@twitter](https://twitter.com/KaungMi09613853/status/1394538296080965634) | advertise |
 | [Kaungmy04721590@twitter](https://twitter.com/Kaungmy04721590/status/1390613674184871936) | advertise |
+| [KaungMy20747771@twitter](https://twitter.com/KaungMy20747771/status/1665017961743282176) | advertise |
 | [KaungMy48349465@twitter](https://twitter.com/KaungMy48349465/status/1393105150693167104) | advertise |
 | [KaungMy53030460@twitter](https://twitter.com/KaungMy53030460/status/1390940800364597250) | advertise |
 | [KaungMy58226574@twitter](https://twitter.com/KaungMy58226574/status/1390100515023822850) | advertise |
@@ -5791,8 +5793,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
