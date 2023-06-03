@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,436 |
-| social | 4,084 |
+| com | 6,437 |
+| social | 4,085 |
 | net | 3,250 |
 | org | 2,238 |
 | de | 2,130 |
@@ -2842,6 +2842,7 @@ Here's a list of public Fediverse services.
 | `aumetra.xyz` | No |
 | `aunaturel.club` | No |
 | `aunisien.ovh` | No |
+| `aunti.social` | No |
 | `auntiefasupply.co` | No |
 | `aurakan.org` | No |
 | `auralis.space` | No |
@@ -7263,7 +7264,7 @@ Here's a list of public Fediverse services.
 | `craney.fyi` | No |
 | `cranil.io` | Yes |
 | `crank.report` | No |
-| `crap.today` | No |
+| `crap.today` | Yes |
 | `crapaud-fou.org` | Yes |
 | `crappyhost.de` | No |
 | `crashed.org` | No |
@@ -20211,6 +20212,7 @@ Here's a list of public Fediverse services.
 | `lemmings.me` | No |
 | `lemmy.ca` | No |
 | `lemmy.cat` | No |
+| `lemmy.click` | No |
 | `lemmy.eus` | No |
 | `lemmy.ml` | No |
 | `lemmy.one` | Yes |
@@ -21525,6 +21527,7 @@ Here's a list of public Fediverse services.
 | `macmhicheil.scot` | No |
 | `macmynatt.com` | No |
 | `macmynatt.social` | No |
+| `macneilmediagroup.com` | Yes |
 | `macnemo.social` | No |
 | `macondo.info` | No |
 | `macro.tokyo` | No |
@@ -29901,6 +29904,7 @@ Here's a list of public Fediverse services.
 | `prtl.cc` | No |
 | `prude.party` | No |
 | `prudent.studio` | Yes |
+| `prutser.lol` | Yes |
 | `prvcy.eu` | No |
 | `prx.link` | No |
 | `przej.me` | No |
@@ -42392,8 +42396,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,727 |
-| Normal | 31,622 |
+| Cloudflare | 10,730 |
+| Normal | 31,623 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
