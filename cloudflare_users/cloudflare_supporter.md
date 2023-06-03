@@ -7725,6 +7725,7 @@ Do not create new issue or we will close it as duplicate.
 | [mufuyt@twitter](https://twitter.com/mufuyt/status/1638791723668373506) | advertise |
 | [muhamadhaziqna1@twitter](https://twitter.com/muhamadhaziqna1/status/1643533873463304194) | advertise |
 | [Muhamma04355643@twitter](https://twitter.com/Muhamma04355643/status/1392484542380875779) | advertise |
+| [Muhamma25190548@twitter](https://twitter.com/Muhamma25190548/status/1665060915908333568) | advertise |
 | [Muhamma27131542@twitter](https://twitter.com/Muhamma27131542/status/1400406829562167307) | advertise |
 | [Muhamma69332822@twitter](https://twitter.com/Muhamma69332822/status/1481640385692639239) | advertise |
 | [muhamma84025448@twitter](https://twitter.com/muhamma84025448/status/1617500729148862465) | advertise |
