@@ -1404,6 +1404,7 @@ Do not create new issue or we will close it as duplicate.
 | [badluckbillyxo@twitter](https://twitter.com/badluckbillyxo/status/1371850435015884807) | advertise |
 | [BadSkey_UwU@twitter](https://twitter.com/BadSkey_UwU/status/1534625539410886656) | advertise |
 | [baebaesaja666@twitter](https://twitter.com/baebaesaja666/status/1398980440476708868) | advertise |
+| [BaexTower@twitter](https://twitter.com/BaexTower/status/1664832196425793536) | advertise |
 | [BaggyB7@twitter](https://twitter.com/BaggyB7/status/1389914222096576513) | advertise |
 | [BaGyiYe1@twitter](https://twitter.com/BaGyiYe1/status/1395180902947381253) | advertise |
 | [baha13860327@twitter](https://twitter.com/baha13860327/status/1581254886418620419) | advertise |
@@ -1643,6 +1644,7 @@ Do not create new issue or we will close it as duplicate.
 | [birt_isaac@twitter](https://twitter.com/birt_isaac/status/1377936339212062725) | advertise |
 | [BishalK59489606@twitter](https://twitter.com/BishalK59489606/status/1536094886596079616) | advertise |
 | [BisterHope@twitter](https://twitter.com/BisterHope/status/1597713288959524864) | advertise |
+| [BiT92126616@twitter](https://twitter.com/BiT92126616/status/1664816473137876992) | advertise |
 | [bitclaw@twitter](https://twitter.com/bitclaw/status/1650887501479829505) | advertise |
 | [BitconTai@twitter](https://twitter.com/BitconTai/status/1619687927411523586) | advertise |
 | [bitdotcoin@twitter](https://twitter.com/bitdotcoin/status/1378723169066967042) | advertise |
@@ -2315,8 +2317,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -6750,6 +6752,7 @@ Do not create new issue or we will close it as duplicate.
 | [MadaraU28579160@twitter](https://twitter.com/MadaraU28579160/status/1573299155803439105) | advertise |
 | [Madebasampayo1@twitter](https://twitter.com/Madebasampayo1/status/1403273706982592513) | advertise |
 | [Madeiin90s@twitter](https://twitter.com/Madeiin90s/status/1389643259891228672) | advertise |
+| [MadembaKane1@twitter](https://twitter.com/MadembaKane1/status/1664789532439355393) | advertise |
 | [Madesh3070@twitter](https://twitter.com/Madesh3070/status/1634999387687649280) | advertise |
 | [Madhanblacky2@twitter](https://twitter.com/Madhanblacky2/status/1397140339538857985) | advertise |
 | [MADHUKAR1303@twitter](https://twitter.com/MADHUKAR1303/status/1563923918007799812) | advertise |
@@ -7003,6 +7006,7 @@ Do not create new issue or we will close it as duplicate.
 | [mavesCSGO@twitter](https://twitter.com/mavesCSGO/status/1563093541223428096) | advertise |
 | [mawmet@twitter](https://twitter.com/mawmet/status/1457094348479291394) | advertise |
 | [maw_ta@twitter](https://twitter.com/maw_ta/status/1580951178325942272) | advertise |
+| [Max3_689@twitter](https://twitter.com/Max3_689/status/1664789032381939712) | advertise |
 | [Max80893001@twitter](https://twitter.com/Max80893001/status/1387188885130813450) | advertise |
 | [MaxDilan10@twitter](https://twitter.com/MaxDilan10/status/1506011770242334720) | advertise |
 | [maxime_lpbgg@twitter](https://twitter.com/maxime_lpbgg/status/1592299581450207234) | advertise |
@@ -11581,6 +11585,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thuyein48859212@twitter](https://twitter.com/Thuyein48859212/status/1390310267112759296) | advertise |
 | [Thuyen87713172@twitter](https://twitter.com/Thuyen87713172/status/1497078331539288064) | advertise |
 | [thuyhoa87216582@twitter](https://twitter.com/thuyhoa87216582/status/1538531213446483970) | advertise |
+| [ThuynAn8@twitter](https://twitter.com/ThuynAn8/status/1664833842933297153) | advertise |
 | [thuyvan_783@twitter](https://twitter.com/thuyvan_783/status/1576109484484988929) | advertise |
 | [ThuzarT00985996@twitter](https://twitter.com/ThuzarT00985996/status/1394809068502491137) | advertise |
 | [ThuZarW61704898@twitter](https://twitter.com/ThuZarW61704898/status/1390733792663412738) | advertise |
