@@ -6803,7 +6803,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -18375,6 +18375,7 @@ Here's a list of public Fediverse services.
 | `kaltes.beer` | Yes |
 | `kalua.im` | Yes |
 | `kalum.ca` | No |
+| `kamartaj.xyz` | Yes |
 | `kame.land` | No |
 | `kame.moe` | No |
 | `kameari.tokyo` | No |
@@ -42397,8 +42398,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,732 |
-| Normal | 31,622 |
+| Cloudflare | 10,734 |
+| Normal | 31,621 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
