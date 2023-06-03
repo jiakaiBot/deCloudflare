@@ -22,19 +22,16 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 360.cn | No |
 | 4-the.win | Yes |
 | 52306.org | Yes |
-| 5ive.net | Yes |
 | 5ososea.com | Yes |
 | 68360612.xyz | Yes |
 | 7sec.com.br | Yes |
 | 7vpn.com | Yes |
 | 8888.google | No |
-| 91557.cn | No |
 | aa.net.uk | No |
 | aaflalo.me | Yes |
 | aaronplayzgaming.com | Yes |
 | absolight.net | No |
 | abstergo.it | No |
-| acrobyte.org | No |
 | adfilter.net | Yes |
 | adguard-dns.com | Yes |
 | adrianlam.com | Yes |
@@ -87,10 +84,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | clearviewtechnology.net | No |
 | cloudflare-dns.com | Yes |
 | cloudnx.cloud | Yes |
-| cola16.app | Yes |
 | comeonjames.club | Yes |
 | comss.one | No |
-| cooluc.com | Yes |
 | cossxiu.ga | Yes |
 | cretu.xyz | Yes |
 | crownor.com | No |
@@ -140,7 +135,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dukun.de | No |
 | dutchwhite.nl | No |
 | dyndns.org | No |
-| dynv6.net | No |
 | ebner.tech | Yes |
 | edgy-dns.com | No |
 | edison42.dev | No |
@@ -199,7 +193,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | imbuffering.com | Yes |
 | in-berlin.de | No |
 | indust.me | Yes |
-| inforlogia.com | Yes |
 | inria.fr | No |
 | invisv.com | No |
 | ipv6dns.com | No |
@@ -211,7 +204,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jfchenier.ca | Yes |
 | jinwoo.dev | No |
 | joaofidelix.com.br | Yes |
-| jogjacloud.com | Yes |
 | jsanagustin.net | Yes |
 | jstockley.com | Yes |
 | jucker.engineering | No |
@@ -277,7 +269,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nic.lv | No |
 | nielsdb.be | No |
 | nilanjan.rocks | No |
-| niub.one | Yes |
 | niyawe.de | No |
 | njal.la | No |
 | noaddns.com | No |
@@ -424,8 +415,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 205 |
-| Normal | 200 |
+| Cloudflare | 199 |
+| Normal | 197 |
 
 
-### 50.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
