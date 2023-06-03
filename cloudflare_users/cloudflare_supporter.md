@@ -5811,6 +5811,7 @@ Do not create new issue or we will close it as duplicate.
 | [KINGSAM87263995@twitter](https://twitter.com/KINGSAM87263995/status/1400419727210532864) | advertise |
 | [kingsilent6@twitter](https://twitter.com/kingsilent6/status/1556418317107302401) | advertise |
 | [KingStephy2@twitter](https://twitter.com/KingStephy2/status/1398432701095596034) | advertise |
+| [Kingxnote@twitter](https://twitter.com/Kingxnote/status/1664976349134733312) | advertise |
 | [kingxx8199@twitter](https://twitter.com/kingxx8199/status/1638232965900541953) | advertise |
 | [king_defeat@twitter](https://twitter.com/king_defeat/status/1391700999752929282) | advertise |
 | [KinPhm95290033@twitter](https://twitter.com/KinPhm95290033/status/1552483794254323713) | advertise |
@@ -11361,8 +11362,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
@@ -12710,6 +12711,7 @@ Do not create new issue or we will close it as duplicate.
 | [Wtfosamay@twitter](https://twitter.com/Wtfosamay/status/1658058011154468866) | advertise |
 | [Wuan21335402@twitter](https://twitter.com/Wuan21335402/status/1387462878307835905) | advertise |
 | [Wunna17774353@twitter](https://twitter.com/Wunna17774353/status/1390187233764732932) | advertise |
+| [wutingsi2903@twitter](https://twitter.com/wutingsi2903/status/1664981555922583554) | advertise |
 | [WuttYeeKyaw5@twitter](https://twitter.com/WuttYeeKyaw5/status/1395568627630309376) | advertise |
 | [wwwsai12345@twitter](https://twitter.com/wwwsai12345/status/1386903798124212232) | advertise |
 | [wwww77410139@twitter](https://twitter.com/wwww77410139/status/1389250450302537735) | advertise |
