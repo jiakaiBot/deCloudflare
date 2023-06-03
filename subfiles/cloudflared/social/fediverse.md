@@ -6099,7 +6099,7 @@ Here's a list of public Fediverse services.
 | `chinasexpat.com` | No |
 | `chinchun.net` | Yes |
 | `chinese.org` | Yes |
-| `chino.tw` | No |
+| `chino.tw` | Yes |
 | `chinstrap.org` | No |
 | `chinwag.im` | Yes |
 | `chinwag.org` | Yes |
@@ -33104,6 +33104,7 @@ Here's a list of public Fediverse services.
 | `serv-ops.com` | No |
 | `serval.club` | No |
 | `servantweb.fr` | No |
+| `serve.moe` | Yes |
 | `servebeer.com` | Yes |
 | `serveblog.net` | Yes |
 | `serven.social` | No |
@@ -42396,8 +42397,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,730 |
-| Normal | 31,623 |
+| Cloudflare | 10,732 |
+| Normal | 31,622 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
