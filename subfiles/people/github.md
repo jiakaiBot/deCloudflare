@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [torrentleech (updating) The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/794)
 - [Getting this issue:](https://github.com/GreyDGL/PentestGPT/issues/111)
 - [Support Caddy as a Reverse Proxy Provider for Client Certificate Authentication](https://github.com/keycloak/keycloak/issues/20761)
 - [supabase start fails on first run with Logflare enabled, succeeds on second run](https://github.com/supabase/cli/issues/1177)
