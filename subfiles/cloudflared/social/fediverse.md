@@ -8610,6 +8610,7 @@ Here's a list of public Fediverse services.
 | `demoncore.info` | No |
 | `demonic.moe` | No |
 | `demonix.fr` | No |
+| `demonoftheday.eu` | No |
 | `demortes.com` | Yes |
 | `demorz.de` | No |
 | `demos.chat` | No |
@@ -24137,6 +24138,7 @@ Here's a list of public Fediverse services.
 | `mone.dev` | No |
 | `monedalliure.org` | No |
 | `monero.house` | No |
+| `monero.space` | Yes |
 | `monero.wf` | No |
 | `monerokon.com` | Yes |
 | `mong.chat` | No |
@@ -37620,6 +37622,7 @@ Here's a list of public Fediverse services.
 | `tomica.me` | No |
 | `tomica.social` | No |
 | `tomistesting.info` | No |
+| `tomkoid.xyz` | Yes |
 | `tomkrizan.com` | No |
 | `tomlawson.io` | Yes |
 | `tomlisankie.com` | No |
@@ -42398,8 +42401,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,734 |
-| Normal | 31,621 |
+| Cloudflare | 10,736 |
+| Normal | 31,622 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
