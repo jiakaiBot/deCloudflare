@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,432 |
+| com | 6,436 |
 | social | 4,082 |
 | net | 3,249 |
 | org | 2,238 |
@@ -2595,6 +2595,7 @@ Here's a list of public Fediverse services.
 | `ashlande.rs` | No |
 | `ashleystone.me.uk` | Yes |
 | `ashtewari.com` | No |
+| `ashtonmackenzie.com` | No |
 | `ashwalker.net` | No |
 | `ashwin.run` | No |
 | `ashworth.io` | No |
@@ -3171,6 +3172,7 @@ Here's a list of public Fediverse services.
 | `backpacklife.social` | No |
 | `backpawn.com` | No |
 | `backroad.city` | No |
+| `backs.day` | Yes |
 | `backspace.fm` | No |
 | `backtick.town` | No |
 | `backtoroot.xyz` | No |
@@ -7908,6 +7910,7 @@ Here's a list of public Fediverse services.
 | `dachary.org` | No |
 | `daco.dev` | Yes |
 | `dadalo.pl` | No |
+| `dadasophin.de` | No |
 | `dadchat.online` | No |
 | `dadd.ie` | No |
 | `dade.miami` | No |
@@ -8240,6 +8243,7 @@ Here's a list of public Fediverse services.
 | `datsmore.com` | No |
 | `datsteves.me` | Yes |
 | `datyedyeguy.net` | No |
+| `dauden.me` | No |
 | `dauen.name` | No |
 | `daumiller.eu` | No |
 | `dav.li` | No |
@@ -8552,6 +8556,7 @@ Here's a list of public Fediverse services.
 | `delat.net` | No |
 | `delbertbeta.cc` | No |
 | `delbrouck.ch` | No |
+| `delcake.com` | Yes |
 | `delduca.casa` | No |
 | `delepine.info` | No |
 | `deleteyourfacebook.today` | No |
@@ -11464,6 +11469,7 @@ Here's a list of public Fediverse services.
 | `fedblog.ch` | No |
 | `fedcast.ch` | No |
 | `feddit.de` | No |
+| `feddit.dk` | Yes |
 | `feddit.it` | No |
 | `feddychat.de` | No |
 | `fede.re` | No |
@@ -29856,6 +29862,7 @@ Here's a list of public Fediverse services.
 | `protagonist.gay` | No |
 | `prote.ca` | No |
 | `protecciondigital.org` | Yes |
+| `protect.earth` | Yes |
 | `protectors.moe` | Yes |
 | `proteomics.social` | Yes |
 | `proto7.io` | No |
@@ -30949,6 +30956,7 @@ Here's a list of public Fediverse services.
 | `redgate.social` | No |
 | `redgla.re` | No |
 | `redirectme.net` | Yes |
+| `redkrieg.com` | No |
 | `redlatina.online` | Yes |
 | `redlettuce.social` | No |
 | `redliberal.com` | No |
@@ -32766,6 +32774,7 @@ Here's a list of public Fediverse services.
 | `scrivimi.ch` | No |
 | `scronch.com` | No |
 | `scronkfinkle.net` | Yes |
+| `scrubbles.tech` | No |
 | `scrubjay.social` | Yes |
 | `scrum.town` | No |
 | `scrumcar.me` | No |
@@ -33096,6 +33105,7 @@ Here's a list of public Fediverse services.
 | `server.pink` | Yes |
 | `server17.net` | No |
 | `server321.de` | No |
+| `serverfail.party` | No |
 | `serverhosting.social` | No |
 | `serverlesscult.com` | No |
 | `servernerds.net` | Yes |
@@ -34044,6 +34054,7 @@ Here's a list of public Fediverse services.
 | `snailedit.social` | Yes |
 | `snailhuddle.org` | No |
 | `snake.club` | No |
+| `snakebox.xyz` | No |
 | `snakenode.eu` | No |
 | `snakeslayers.com` | Yes |
 | `snamellit.com` | No |
@@ -36756,6 +36767,7 @@ Here's a list of public Fediverse services.
 | `thedevil.online` | No |
 | `thedimpau.se` | No |
 | `thedisco.social` | No |
+| `thediscussion.site` | No |
 | `thedixons.net` | Yes |
 | `thedomain.ovh` | Yes |
 | `thedoodleproject.com` | No |
@@ -37515,6 +37527,7 @@ Here's a list of public Fediverse services.
 | `todayiwilllaunchmyinfantsonintoorbit.com` | No |
 | `todays.run` | No |
 | `toddcast.website` | Yes |
+| `toddpresta.com` | No |
 | `todesstern.eu` | No |
 | `todfox.net` | No |
 | `todo.town` | No |
@@ -37596,6 +37609,7 @@ Here's a list of public Fediverse services.
 | `tomheinan.com` | Yes |
 | `tomica.me` | No |
 | `tomica.social` | No |
+| `tomistesting.info` | No |
 | `tomkrizan.com` | No |
 | `tomlawson.io` | Yes |
 | `tomlisankie.com` | No |
@@ -38566,7 +38580,6 @@ Here's a list of public Fediverse services.
 | `twt.rs` | Yes |
 | `twt.wtf` | No |
 | `twtr.plus` | No |
-| `twtrbridge.de` | No |
 | `twtxt.net` | Yes |
 | `twunk.io` | No |
 | `twunk.uk` | No |
@@ -38954,6 +38967,7 @@ Here's a list of public Fediverse services.
 | `unixporn.pro` | No |
 | `unixweb.de` | No |
 | `unixwolf.com` | No |
+| `unkai.blog` | No |
 | `unkipamunich.fr` | No |
 | `unknowable.place` | No |
 | `unknowing.dance` | Yes |
@@ -42373,8 +42387,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,722 |
-| Normal | 31,608 |
+| Cloudflare | 10,726 |
+| Normal | 31,618 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
