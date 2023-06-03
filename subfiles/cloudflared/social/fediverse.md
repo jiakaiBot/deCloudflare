@@ -10042,7 +10042,7 @@ Here's a list of public Fediverse services.
 | `echelon4.xyz` | No |
 | `echinoi.deals` | No |
 | `echirolles.fr` | No |
-| `echodek.com` | No |
+| `echodek.com` | Yes |
 | `echoflove.com` | No |
 | `echoingfrog.ca` | No |
 | `echoless.space` | No |
@@ -20220,6 +20220,7 @@ Here's a list of public Fediverse services.
 | `lemmy.eus` | No |
 | `lemmy.ml` | No |
 | `lemmy.one` | Yes |
+| `lemmy.pt` | Yes |
 | `lemmy.world` | No |
 | `lemmygrad.com` | No |
 | `lemmygrad.ml` | No |
@@ -26975,6 +26976,7 @@ Here's a list of public Fediverse services.
 | `observer.com` | No |
 | `obsidian-group.co` | Yes |
 | `obsidianmoon.com` | No |
+| `obsidianrealm.club` | No |
 | `obsolete.digital` | No |
 | `obsolete29.com` | No |
 | `obspm.fr` | No |
@@ -42403,8 +42405,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,738 |
+| Cloudflare | 10,740 |
 | Normal | 31,622 |
 
 
-### 25.3% of public Fediverse services are using Cloudflare.
+### 25.4% of public Fediverse services are using Cloudflare.
