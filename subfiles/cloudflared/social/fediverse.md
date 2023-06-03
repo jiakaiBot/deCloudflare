@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,437 |
 | social | 4,085 |
 | net | 3,250 |
-| org | 2,238 |
+| org | 2,239 |
 | de | 2,130 |
 
 
@@ -18880,6 +18880,7 @@ Here's a list of public Fediverse services.
 | `kila.rocks` | No |
 | `kilinbox.cc` | No |
 | `kilinbox.net` | No |
+| `kilioa.org` | No |
 | `kill.yt` | No |
 | `killallcops.today` | No |
 | `killbox.social` | Yes |
@@ -42406,7 +42407,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,740 |
-| Normal | 31,622 |
+| Normal | 31,623 |
 
 
 ### 25.4% of public Fediverse services are using Cloudflare.
