@@ -7888,7 +7888,7 @@ Here's a list of public Fediverse services.
 | `d2evs.net` | No |
 | `d33pw3b.de` | No |
 | `d381.xyz` | No |
-| `d3add3d.net` | Yes |
+| `d3add3d.net` | No |
 | `d3ds3c.net` | Yes |
 | `d3f4ult.space` | No |
 | `d3fc0n.one` | No |
@@ -14710,6 +14710,7 @@ Here's a list of public Fediverse services.
 | `hackea.org` | No |
 | `hacked.af` | No |
 | `hacked.im` | No |
+| `hacker.photos` | Yes |
 | `hacker.rehab` | No |
 | `hackerbruecke.org` | No |
 | `hackerbun.social` | No |
@@ -20214,7 +20215,7 @@ Here's a list of public Fediverse services.
 | `lemmings.me` | No |
 | `lemmy.ca` | No |
 | `lemmy.cat` | No |
-| `lemmy.click` | No |
+| `lemmy.click` | Yes |
 | `lemmy.eus` | No |
 | `lemmy.ml` | No |
 | `lemmy.one` | Yes |
@@ -20244,7 +20245,7 @@ Here's a list of public Fediverse services.
 | `lenuxde.net` | No |
 | `lenzg.net` | No |
 | `lenzn.net` | No |
-| `leo-skull.de` | No |
+| `leo-skull.de` | Yes |
 | `leo.re.kr` | Yes |
 | `leo.social` | No |
 | `leobrown.net` | No |
@@ -42401,8 +42402,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,736 |
-| Normal | 31,622 |
+| Cloudflare | 10,738 |
+| Normal | 31,621 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
