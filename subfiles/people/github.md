@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Broken links detected 🔗](https://github.com/aumer-amr/lab/issues/85)
 - [An error occurred: Completion.create() got an unexpected keyword argument 'token'. Please make sure you are using a valid cloudflare clearance token and user agent.](https://github.com/xtekky/gpt4free/issues/640)
 - [torrentleech (updating) The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/794)
 - [Getting this issue:](https://github.com/GreyDGL/PentestGPT/issues/111)
