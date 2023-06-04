@@ -26560,7 +26560,7 @@ Here's a list of public Fediverse services.
 | `notbook.club` | Yes |
 | `notbren.xyz` | No |
 | `notclickable.social` | No |
-| `notcraig.com` | No |
+| `notcraig.com` | Yes |
 | `notdeadluna.com` | No |
 | `note.computer` | No |
 | `note.rodeo` | No |
@@ -32216,6 +32216,7 @@ Here's a list of public Fediverse services.
 | `sais.town` | No |
 | `saita-mastodon.online` | No |
 | `saitama-stdn.com` | No |
+| `saiyajin.space` | No |
 | `sakaba.space` | No |
 | `sakaki333.com` | No |
 | `sakamichi.fun` | Yes |
@@ -42429,7 +42430,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,748 |
+| Cloudflare | 10,749 |
 | Normal | 31,638 |
 
 
