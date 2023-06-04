@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,087 |
 | net | 3,251 |
 | org | 2,240 |
-| de | 2,131 |
+| de | 2,132 |
 
 
 - Mastodon, Pleroma, etc
@@ -30530,7 +30530,7 @@ Here's a list of public Fediverse services.
 | `radiopatio.social` | No |
 | `radiosdigitales.es` | No |
 | `radiosocial.de` | No |
-| `radiosocial.org` | No |
+| `radiosocial.org` | Yes |
 | `radiosonline.cloud` | No |
 | `radiostatler.social` | No |
 | `radiotogether.uk` | No |
@@ -35094,6 +35094,7 @@ Here's a list of public Fediverse services.
 | `stehlik.live` | No |
 | `steinernebruecke.de` | No |
 | `steinert-ese.de` | No |
+| `steineschwall.de` | No |
 | `steingaesser.net` | No |
 | `steinmetz.fr` | No |
 | `steinwart.dk` | No |
@@ -42428,7 +42429,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,747 |
+| Cloudflare | 10,748 |
 | Normal | 31,638 |
 
 
