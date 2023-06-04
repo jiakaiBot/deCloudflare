@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [persistent tls with xray-core?](https://github.com/XTLS/Xray-core/issues/2175)
 - [Abnormal Exit On GeoIP API Rate Exceeded](https://github.com/Archeb/opentrace/issues/5)
 - [no response a while then error 500](https://github.com/acheong08/ChatGPT-to-API/issues/43)
 - [Broken links detected 🔗](https://github.com/aumer-amr/lab/issues/85)
