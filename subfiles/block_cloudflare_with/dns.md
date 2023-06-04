@@ -54,7 +54,7 @@ alias=104.24.0.0-104.27.255.255,127.0.0.0,255.255.255.0
 
 </details>
 
-### With PowerDNS
+### With PowerDNS, dnsdist
 
 <details><summary> _click me_ </summary>
 
