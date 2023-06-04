@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,441 |
-| social | 4,087 |
-| net | 3,251 |
+| social | 4,088 |
+| net | 3,253 |
 | org | 2,240 |
-| de | 2,132 |
+| de | 2,133 |
 
 
 - Mastodon, Pleroma, etc
@@ -458,6 +458,7 @@ Here's a list of public Fediverse services.
 | `44944.eu` | No |
 | `44con.com` | No |
 | `45bis.cc` | Yes |
+| `45sukey.net` | Yes |
 | `465789.xyz` | No |
 | `47041.net` | Yes |
 | `481516.xyz` | Yes |
@@ -1847,6 +1848,7 @@ Here's a list of public Fediverse services.
 | `ancreport.com` | No |
 | `and-mate.me` | No |
 | `andalucia.social` | No |
+| `andalys.fi` | No |
 | `andbutso.net` | No |
 | `anders.dev` | No |
 | `andersb.org` | No |
@@ -5346,6 +5348,7 @@ Here's a list of public Fediverse services.
 | `calckey.art` | No |
 | `calckey.berlin` | No |
 | `calckey.cloud` | No |
+| `calckey.de` | No |
 | `calckey.jp` | No |
 | `calckey.lgbt` | No |
 | `calckey.nz` | No |
@@ -15701,7 +15704,7 @@ Here's a list of public Fediverse services.
 | `holgerkrupp.de` | No |
 | `holi.chat` | No |
 | `holi.social` | No |
-| `holistichackers.org` | No |
+| `holistichackers.org` | Yes |
 | `hollablog.at` | No |
 | `hollandsepod.nl` | No |
 | `hollings.io` | Yes |
@@ -18392,6 +18395,7 @@ Here's a list of public Fediverse services.
 | `kamel.social` | No |
 | `kamens.us` | Yes |
 | `kamikaze.moe` | No |
+| `kamima.fun` | No |
 | `kamima.online` | No |
 | `kamima.site` | No |
 | `kamisato.xyz` | Yes |
@@ -23830,6 +23834,7 @@ Here's a list of public Fediverse services.
 | `misterbanal.net` | No |
 | `misterfpga.social` | No |
 | `mistermi.me` | No |
+| `mistic.net` | No |
 | `mistli.net` | No |
 | `mistodon.cloud` | No |
 | `mistpark.net` | No |
@@ -28294,6 +28299,7 @@ Here's a list of public Fediverse services.
 | `pateti.co` | No |
 | `path.pictures` | No |
 | `pathconnect.de` | No |
+| `pathfinder.social` | Yes |
 | `pati.to` | No |
 | `patogh.co` | Yes |
 | `patologia.online` | No |
@@ -42430,8 +42436,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,749 |
-| Normal | 31,638 |
+| Cloudflare | 10,752 |
+| Normal | 31,641 |
 
 
 ### 25.4% of public Fediverse services are using Cloudflare.
