@@ -32387,6 +32387,7 @@ Here's a list of public Fediverse services.
 | `sapphic.city` | No |
 | `sapphic.gay` | No |
 | `sapphic.life` | No |
+| `sapphic.pink` | No |
 | `sapphic.site` | Yes |
 | `sapphicommune.info` | No |
 | `sapphos.be` | No |
@@ -42422,7 +42423,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,745 |
-| Normal | 31,633 |
+| Normal | 31,634 |
 
 
 ### 25.4% of public Fediverse services are using Cloudflare.
