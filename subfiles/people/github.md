@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Not working anymore - stuck](https://github.com/Erol444/gpt4-openai-api/issues/13)
 - [persistent tls with xray-core?](https://github.com/XTLS/Xray-core/issues/2175)
 - [Abnormal Exit On GeoIP API Rate Exceeded](https://github.com/Archeb/opentrace/issues/5)
 - [no response a while then error 500](https://github.com/acheong08/ChatGPT-to-API/issues/43)
