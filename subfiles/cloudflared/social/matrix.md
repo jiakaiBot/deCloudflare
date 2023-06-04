@@ -44,7 +44,6 @@ Here's a list of public Matrix services.
 | chrrreeeeesss.com | No |
 | club1.fr | No |
 | matrix-client.comm.cx | Yes |
-| matrix.community.rs | Yes |
 | converser.eu | No |
 | matrix.crossbach.de | No |
 | matrix.data.coop | No |
@@ -127,8 +126,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 21 |
+| Cloudflare | 20 |
 | Normal | 79 |
 
 
-### 21% of public Matrix services are using Cloudflare.
+### 20.2% of public Matrix services are using Cloudflare.
