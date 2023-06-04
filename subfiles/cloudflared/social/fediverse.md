@@ -34411,6 +34411,7 @@ Here's a list of public Fediverse services.
 | `someassholesopinion.com` | Yes |
 | `somebetterplaceshell.gq` | No |
 | `someden.net` | Yes |
+| `somedevfox.ru` | No |
 | `somegroup.net` | No |
 | `someone.bar` | Yes |
 | `someonewho.codes` | No |
@@ -42416,7 +42417,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,739 |
-| Normal | 31,633 |
+| Normal | 31,634 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
