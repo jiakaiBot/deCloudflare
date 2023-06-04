@@ -11857,6 +11857,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tri26055498@twitter](https://twitter.com/Tri26055498/status/1396165681427611653) | advertise |
 | [TribeEphraim@twitter](https://twitter.com/TribeEphraim/status/1378124350625173505) | advertise |
 | [TriCaovan1@twitter](https://twitter.com/TriCaovan1/status/1634243470897586177) | advertise |
+| [TrickedDev@twitter](https://twitter.com/TrickedDev/status/1665385587858190337) | advertise |
 | [TrickyKunn@twitter](https://twitter.com/TrickyKunn/status/1379848256000122880) | advertise |
 | [tridatinh1@twitter](https://twitter.com/tridatinh1/status/1554751528744800256) | advertise |
 | [TridentDiscord@twitter](https://twitter.com/TridentDiscord/status/1613718565898813440) | advertise |
