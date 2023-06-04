@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,437 |
 | social | 4,086 |
 | net | 3,250 |
-| org | 2,239 |
+| org | 2,240 |
 | de | 2,130 |
 
 
@@ -39850,6 +39850,7 @@ Here's a list of public Fediverse services.
 | `vonste.in` | No |
 | `voom.social` | Yes |
 | `voomer.co.ke` | No |
+| `voots.org` | Yes |
 | `voppe.it` | No |
 | `voragine.net` | No |
 | `vorarlberg.io` | No |
@@ -42414,7 +42415,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,738 |
+| Cloudflare | 10,739 |
 | Normal | 31,633 |
 
 
