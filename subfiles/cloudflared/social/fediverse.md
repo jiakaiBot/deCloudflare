@@ -6805,7 +6805,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -19694,6 +19694,7 @@ Here's a list of public Fediverse services.
 | `kys.moe` | Yes |
 | `kysocial.org` | No |
 | `kyubitter.xyz` | No |
+| `kyun.host` | Yes |
 | `kyunkyun.moe` | No |
 | `kyushojitsu.ca` | Yes |
 | `kyzune.com` | Yes |
@@ -25279,7 +25280,7 @@ Here's a list of public Fediverse services.
 | `nametaketakewo.net` | Yes |
 | `namknat.win` | No |
 | `namok.be` | No |
-| `namt.uk` | Yes |
+| `namt.uk` | No |
 | `namtari.com` | Yes |
 | `namtsui.com` | No |
 | `namwen.me` | No |
@@ -42413,8 +42414,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,739 |
-| Normal | 31,631 |
+| Cloudflare | 10,738 |
+| Normal | 31,633 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
