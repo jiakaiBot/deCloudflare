@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,437 |
-| social | 4,085 |
+| social | 4,086 |
 | net | 3,250 |
 | org | 2,239 |
 | de | 2,130 |
@@ -2601,6 +2601,7 @@ Here's a list of public Fediverse services.
 | `ashworth.io` | No |
 | `asiacompete-international.com` | No |
 | `asie.pl` | No |
+| `asignz.dev` | No |
 | `asimon.org` | No |
 | `asiriyuq.xyz` | No |
 | `asjk.xyz` | Yes |
@@ -7274,6 +7275,7 @@ Here's a list of public Fediverse services.
 | `crashrt.work` | Yes |
 | `crashspace.org` | No |
 | `crashtodon.net` | No |
+| `cratersedge.ca` | No |
 | `crates.im` | No |
 | `cratonsed.ge` | No |
 | `craveiro.pt` | No |
@@ -11286,7 +11288,7 @@ Here's a list of public Fediverse services.
 | `fallendemon.xyz` | No |
 | `falles.online` | Yes |
 | `falschgold.net` | No |
-| `falsehood.social` | Yes |
+| `falsehood.social` | No |
 | `falsy.cat` | Yes |
 | `falto.net` | Yes |
 | `falx.tech` | No |
@@ -22018,6 +22020,7 @@ Here's a list of public Fediverse services.
 | `marvin.saarland` | No |
 | `marvins.site` | No |
 | `marx.pm` | No |
+| `marx21.social` | No |
 | `marxism.cc` | Yes |
 | `marxism.party` | No |
 | `marxists.world` | No |
@@ -31164,6 +31167,7 @@ Here's a list of public Fediverse services.
 | `reptile.love` | No |
 | `reptilehouse.info` | Yes |
 | `reptileowners.tk` | No |
+| `republa.lv` | No |
 | `republa.net` | No |
 | `republic.red` | Yes |
 | `republicofmayhem.xyz` | Yes |
@@ -37034,6 +37038,7 @@ Here's a list of public Fediverse services.
 | `thesandbox.net` | No |
 | `thesatelliteoflove.com` | No |
 | `thesayres.org` | No |
+| `theschussel.eu` | No |
 | `thesea.men` | Yes |
 | `thesecretlair.org` | No |
 | `theself.cloud` | No |
@@ -37947,6 +37952,7 @@ Here's a list of public Fediverse services.
 | `towa.li` | No |
 | `towade.me` | No |
 | `towards.vision` | No |
+| `towerofsong.ca` | No |
 | `towns.gay` | Yes |
 | `townsends.online` | No |
 | `townsquareapp.com` | No |
@@ -39905,6 +39911,7 @@ Here's a list of public Fediverse services.
 | `vseinstrukcii.date` | No |
 | `vsfx.org` | No |
 | `vshn.social` | No |
+| `vsieti.sk` | No |
 | `vspace.me` | No |
 | `vss365mast.org` | No |
 | `vsta.org` | No |
@@ -42406,8 +42413,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,740 |
-| Normal | 31,623 |
+| Cloudflare | 10,739 |
+| Normal | 31,631 |
 
 
-### 25.4% of public Fediverse services are using Cloudflare.
+### 25.3% of public Fediverse services are using Cloudflare.
