@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,437 |
-| social | 4,086 |
+| com | 6,438 |
+| social | 4,087 |
 | net | 3,250 |
 | org | 2,240 |
 | de | 2,130 |
@@ -15404,6 +15404,7 @@ Here's a list of public Fediverse services.
 | `heycitizen.com` | Yes |
 | `heyimmark.com` | No |
 | `heylisten.social` | No |
+| `heylookadomain.com` | Yes |
 | `heyloura.com` | No |
 | `heymeow.net` | Yes |
 | `heypumpk.in` | Yes |
@@ -23637,6 +23638,7 @@ Here's a list of public Fediverse services.
 | `minhtrang.me` | No |
 | `mini4wd-engineer.com` | No |
 | `miniature.photography` | No |
+| `miniatures.social` | No |
 | `minichoco.love` | No |
 | `minicube.net` | No |
 | `minidi.sc` | No |
@@ -42416,8 +42418,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,739 |
-| Normal | 31,634 |
+| Cloudflare | 10,740 |
+| Normal | 31,635 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
