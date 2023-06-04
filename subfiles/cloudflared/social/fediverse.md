@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,438 |
+| com | 6,439 |
 | social | 4,087 |
 | net | 3,250 |
 | org | 2,240 |
@@ -24437,6 +24437,7 @@ Here's a list of public Fediverse services.
 | `moziz.fi` | No |
 | `moztodon.net` | No |
 | `moztodon.nl` | No |
+| `mozumi0w0.com` | Yes |
 | `mp-tube.de` | No |
 | `mp0.jp` | No |
 | `mp3reelhub.com` | No |
@@ -38760,6 +38761,7 @@ Here's a list of public Fediverse services.
 | `uhlmann.social` | No |
 | `uhnon.com` | No |
 | `uhoreg.ca` | Yes |
+| `uhouho.life` | Yes |
 | `uhouho.xyz` | Yes |
 | `uiae.at` | No |
 | `uile.nl` | No |
@@ -42418,7 +42420,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,740 |
+| Cloudflare | 10,742 |
 | Normal | 31,635 |
 
 
