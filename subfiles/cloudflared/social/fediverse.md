@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,087 |
 | net | 3,250 |
 | org | 2,240 |
-| de | 2,130 |
+| de | 2,131 |
 
 
 - Mastodon, Pleroma, etc
@@ -6805,7 +6805,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -24615,7 +24615,7 @@ Here's a list of public Fediverse services.
 | `mstdn.co.uk` | No |
 | `mstdn.com.au` | Yes |
 | `mstdn.cyou` | Yes |
-| `mstdn.design` | No |
+| `mstdn.design` | Yes |
 | `mstdn.digital` | Yes |
 | `mstdn.dk` | No |
 | `mstdn.es` | Yes |
@@ -30751,6 +30751,7 @@ Here's a list of public Fediverse services.
 | `rasly.cf` | No |
 | `raspberryip.com` | No |
 | `raspberrypi.social` | No |
+| `raspinerd.de` | Yes |
 | `rassbach.tech` | Yes |
 | `rastapuls.com` | No |
 | `rasterdon.com` | No |
@@ -42420,8 +42421,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,742 |
-| Normal | 31,635 |
+| Cloudflare | 10,745 |
+| Normal | 31,633 |
 
 
-### 25.3% of public Fediverse services are using Cloudflare.
+### 25.4% of public Fediverse services are using Cloudflare.
