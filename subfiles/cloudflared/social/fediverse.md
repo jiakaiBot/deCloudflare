@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,441 |
-| social | 4,088 |
-| net | 3,253 |
+| com | 6,442 |
+| social | 4,089 |
+| net | 3,255 |
 | org | 2,240 |
 | de | 2,133 |
 
@@ -5611,6 +5611,7 @@ Here's a list of public Fediverse services.
 | `catala.digital` | No |
 | `catalunya.social` | No |
 | `catatec.ch` | No |
+| `catbl.ink` | Yes |
 | `catboi.party` | No |
 | `catboomer.net` | No |
 | `catboy.cafe` | No |
@@ -10126,6 +10127,7 @@ Here's a list of public Fediverse services.
 | `edition.social` | No |
 | `editors.place` | No |
 | `ediverse.vip` | Yes |
+| `edkbarber.com` | No |
 | `edlings.social` | No |
 | `edm.haus` | Yes |
 | `edm.social` | No |
@@ -19027,6 +19029,7 @@ Here's a list of public Fediverse services.
 | `kitsui.life` | Yes |
 | `kitsuna.net` | Yes |
 | `kitsune.cafe` | No |
+| `kitsune.construction` | No |
 | `kitsune.land` | No |
 | `kitsune.moe` | Yes |
 | `kitsune.social` | No |
@@ -20922,6 +20925,7 @@ Here's a list of public Fediverse services.
 | `localist.org` | No |
 | `localization.cafe` | No |
 | `localization.social` | Yes |
+| `localized.earth` | No |
 | `localtalk.chat` | No |
 | `localtunnel.me` | No |
 | `locher.at` | No |
@@ -25622,6 +25626,7 @@ Here's a list of public Fediverse services.
 | `neobluepanther.com` | No |
 | `neocloradas.com` | Yes |
 | `neocoretext.net` | No |
+| `neodrain.net` | No |
 | `neofae.net` | No |
 | `neofrakture.club` | No |
 | `neogility.social` | No |
@@ -27604,6 +27609,7 @@ Here's a list of public Fediverse services.
 | `orapp.net` | Yes |
 | `orasi.io` | No |
 | `oratorium-leipzig.de` | No |
+| `orava.dev` | No |
 | `orbanos.org` | No |
 | `orbb.fr` | No |
 | `orbfellows.us` | No |
@@ -32465,6 +32471,7 @@ Here's a list of public Fediverse services.
 | `sathyasays.com` | Yes |
 | `satisfactory.social` | No |
 | `satki.net` | Yes |
+| `satl.ink` | Yes |
 | `satocc.biz` | No |
 | `satori.cafe` | No |
 | `satoshifi.org` | No |
@@ -36125,6 +36132,7 @@ Here's a list of public Fediverse services.
 | `tanudon.com` | No |
 | `tanukey.chat` | Yes |
 | `tanukey.work` | Yes |
+| `tanuki.social` | No |
 | `tanukitsu.net` | No |
 | `tanukitunes.com` | No |
 | `tanztee.social` | No |
@@ -36539,6 +36547,7 @@ Here's a list of public Fediverse services.
 | `terbea.com` | No |
 | `terbeest.net` | No |
 | `tere.be` | No |
+| `terefere.eu` | No |
 | `terence.page` | No |
 | `terence.social` | No |
 | `terencius.com` | No |
@@ -42141,6 +42150,7 @@ Here's a list of public Fediverse services.
 | `zepfanman.com` | No |
 | `zepher.dev` | Yes |
 | `zephyr.place` | Yes |
+| `zephyranthes.net` | Yes |
 | `zepi.social` | No |
 | `zeppelin.flights` | No |
 | `zeptar.org` | No |
@@ -42436,8 +42446,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,752 |
-| Normal | 31,641 |
+| Cloudflare | 10,755 |
+| Normal | 31,648 |
 
 
 ### 25.4% of public Fediverse services are using Cloudflare.
