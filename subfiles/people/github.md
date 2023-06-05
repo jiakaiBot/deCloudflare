@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Content-Length is removed by Cloudflare and results in an error.](https://github.com/renpy/renpy-build/issues/75)
 - [Download failed - certificate verify failed: certificate is not yet valid](https://github.com/KasRoudra/PyPhisher/issues/246)
 - [CloudFlare Cloudflare API service issues](https://github.com/MatBenfield/news/issues/14934)
 - [Which Cloudflare product(s) does this pertain to?](https://github.com/arthenica/ffmpeg-kit/issues/746)
