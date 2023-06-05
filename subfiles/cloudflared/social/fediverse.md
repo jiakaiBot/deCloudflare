@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,445 |
 | social | 4,089 |
-| net | 3,259 |
+| net | 3,258 |
 | org | 2,243 |
 | de | 2,133 |
 
@@ -6529,7 +6529,6 @@ Here's a list of public Fediverse services.
 | `cloudpirat.es` | No |
 | `cloudplane.app` | Yes |
 | `cloudpractice.cf` | No |
-| `cloudpunk.net` | Yes |
 | `cloudron.club` | No |
 | `cloudron.io` | No |
 | `cloudron.ml` | No |
@@ -13999,6 +13998,7 @@ Here's a list of public Fediverse services.
 | `gme.one` | Yes |
 | `gmem.ca` | Yes |
 | `gmr.news` | No |
+| `gmtz.me` | No |
 | `gn-tronics.dev` | No |
 | `gnampftoast.de` | No |
 | `gnarfhead.social` | No |
@@ -40352,6 +40352,7 @@ Here's a list of public Fediverse services.
 | `webworker.social` | No |
 | `webxb.com` | Yes |
 | `webzone69.com` | No |
+| `weckhorst.no` | Yes |
 | `wecraft.beer` | No |
 | `weddingweiser.de` | Yes |
 | `wedgi.us` | No |
@@ -42473,7 +42474,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,766 |
-| Normal | 31,663 |
+| Normal | 31,664 |
 
 
 ### 25.4% of public Fediverse services are using Cloudflare.
