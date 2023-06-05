@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [SRV Records of Moonlight Domains](https://github.com/Moonlight-Panel/Moonlight/issues/141)
 - [CloudFlare Cloudflare API service intermittent issues](https://github.com/MatBenfield/news/issues/14959)
 - [Content-Length is removed by Cloudflare and results in an error.](https://github.com/renpy/renpy-build/issues/75)
 - [Download failed - certificate verify failed: certificate is not yet valid](https://github.com/KasRoudra/PyPhisher/issues/246)
