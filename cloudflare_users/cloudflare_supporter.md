@@ -9811,6 +9811,7 @@ Do not create new issue or we will close it as duplicate.
 | [RinSharz@twitter](https://twitter.com/RinSharz/status/1553295596680724480) | advertise |
 | [Rio93855459@twitter](https://twitter.com/Rio93855459/status/1592543442709909504) | advertise |
 | [RIPdeclan999@twitter](https://twitter.com/RIPdeclan999/status/1574187422660763648) | advertise |
+| [Rip_nonameeee@twitter](https://twitter.com/Rip_nonameeee/status/1665705629120438280) | advertise |
 | [RishiKu66@twitter](https://twitter.com/RishiKu66/status/1392000250408144899) | advertise |
 | [RisingHighPrie1@twitter](https://twitter.com/RisingHighPrie1/status/1478009018245390338) | advertise |
 | [Ritasako@twitter](https://twitter.com/Ritasako/status/1553334921107611648) | advertise |
