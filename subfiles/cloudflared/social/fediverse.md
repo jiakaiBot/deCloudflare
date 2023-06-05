@@ -6809,7 +6809,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7951,7 +7951,7 @@ Here's a list of public Fediverse services.
 | `dags.dk` | No |
 | `daheim.social` | No |
 | `dahlstrand.net` | Yes |
-| `daichan.club` | Yes |
+| `daichan.club` | No |
 | `daiko.fr` | No |
 | `daily.surf` | Yes |
 | `dailysouthafrican.co.za` | No |
@@ -14112,7 +14112,7 @@ Here's a list of public Fediverse services.
 | `gohan-oisii.net` | No |
 | `goinghome.earth` | No |
 | `goip.de` | No |
-| `goisgod.com` | Yes |
+| `goisgod.com` | No |
 | `goji84.xyz` | No |
 | `goku.zone` | No |
 | `golangengine.de` | Yes |
@@ -23935,7 +23935,7 @@ Here's a list of public Fediverse services.
 | `mlan.im` | No |
 | `mlborder.com` | No |
 | `mldn.jp` | No |
-| `mle.party` | Yes |
+| `mle.party` | No |
 | `mleduc.xyz` | No |
 | `mlejnas.com` | No |
 | `mlhangout.social` | No |
@@ -28875,7 +28875,7 @@ Here's a list of public Fediverse services.
 | `pigeons.club` | No |
 | `piggo.space` | Yes |
 | `piggy.lol` | Yes |
-| `pigleader.com` | Yes |
+| `pigleader.com` | No |
 | `pigners.club` | Yes |
 | `pigs.social` | No |
 | `pigsoul.com` | No |
@@ -35839,7 +35839,7 @@ Here's a list of public Fediverse services.
 | `synth.zip` | Yes |
 | `synthbear.xyz` | No |
 | `synthesizers.social` | No |
-| `syntheti.cyou` | Yes |
+| `syntheti.cyou` | No |
 | `syntheticmemory.net` | No |
 | `synthwave.cafe` | No |
 | `synthwave.cc` | No |
@@ -36016,7 +36016,7 @@ Here's a list of public Fediverse services.
 | `takesama.com` | Yes |
 | `takesato.io` | Yes |
 | `taketodon.com` | No |
-| `takeyourmeds.xyz` | Yes |
+| `takeyourmeds.xyz` | No |
 | `takeyu.club` | No |
 | `takezin.page` | No |
 | `takibi.today` | No |
@@ -37216,6 +37216,7 @@ Here's a list of public Fediverse services.
 | `third-branches.net` | Yes |
 | `thirdeyedesign.shop` | No |
 | `thirdlaw.net` | No |
+| `thirdstage.ca` | No |
 | `thirdworld.finance` | No |
 | `thirring.org` | No |
 | `thirstyhorses.org` | No |
@@ -40567,6 +40568,7 @@ Here's a list of public Fediverse services.
 | `whoaimin.space` | No |
 | `whoisnick.com` | No |
 | `wholemars.com` | Yes |
+| `wholesalehosting.co.uk` | No |
 | `wholesome.computer` | No |
 | `wholesome.haus` | No |
 | `whomartthou.com` | Yes |
@@ -42446,8 +42448,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,755 |
-| Normal | 31,648 |
+| Cloudflare | 10,748 |
+| Normal | 31,657 |
 
 
-### 25.4% of public Fediverse services are using Cloudflare.
+### 25.3% of public Fediverse services are using Cloudflare.
