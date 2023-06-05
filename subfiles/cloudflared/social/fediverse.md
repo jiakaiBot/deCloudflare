@@ -40623,6 +40623,7 @@ Here's a list of public Fediverse services.
 | `wiewiu.re` | No |
 | `wife.town` | No |
 | `wig.gl` | Yes |
+| `wigger.one` | Yes |
 | `wiggle.pw` | No |
 | `wiggle.website` | No |
 | `wihel.de` | Yes |
@@ -41149,7 +41150,7 @@ Here's a list of public Fediverse services.
 | `wycey.dev` | Yes |
 | `wychwit.ch` | Yes |
 | `wyld.me` | No |
-| `wyld.media` | No |
+| `wyld.media` | Yes |
 | `wyndix.dev` | No |
 | `wyngraphs.com` | No |
 | `wynning.tech` | Yes |
@@ -42463,8 +42464,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,757 |
-| Normal | 31,663 |
+| Cloudflare | 10,759 |
+| Normal | 31,662 |
 
 
 ### 25.4% of public Fediverse services are using Cloudflare.
