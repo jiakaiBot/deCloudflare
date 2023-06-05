@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,442 |
 | social | 4,089 |
-| net | 3,255 |
+| net | 3,256 |
 | org | 2,240 |
 | de | 2,133 |
 
@@ -41077,6 +41077,7 @@ Here's a list of public Fediverse services.
 | `wtf.social` | Yes |
 | `wtfayla.net` | No |
 | `wtfflorida.com` | Yes |
+| `wtfigo.net` | Yes |
 | `wtfomfg.org` | No |
 | `wtjelly.net` | Yes |
 | `wtk.org` | No |
@@ -42448,7 +42449,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,748 |
+| Cloudflare | 10,749 |
 | Normal | 31,657 |
 
 
