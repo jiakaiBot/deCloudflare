@@ -13114,6 +13114,7 @@ Do not create new issue or we will close it as duplicate.
 | [zaid3413@twitter](https://twitter.com/zaid3413/status/1643359354106818560) | advertise |
 | [Zaid_Dawoud@twitter](https://twitter.com/Zaid_Dawoud/status/1632443594668662786) | advertise |
 | [zaimiesmy1@twitter](https://twitter.com/zaimiesmy1/status/1584188095356112896) | advertise |
+| [zak08_@twitter](https://twitter.com/zak08_/status/1665738977603915776) | advertise |
 | [Zakarias7i@twitter](https://twitter.com/Zakarias7i/status/1403217695596847105) | advertise |
 | [ZakiAhmadi23230@twitter](https://twitter.com/ZakiAhmadi23230/status/1606978457149259778) | advertise |
 | [zalaankapoy@twitter](https://twitter.com/zalaankapoy/status/1567544093475241984) | advertise |
