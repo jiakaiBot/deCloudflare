@@ -2319,8 +2319,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -2445,6 +2445,7 @@ Do not create new issue or we will close it as duplicate.
 | [damik_raw@twitter](https://twitter.com/damik_raw/status/1398632489028104192) | advertise |
 | [Damnimnotyourfr@twitter](https://twitter.com/Damnimnotyourfr/status/1387481683096596481) | advertise |
 | [DamnJayAries@twitter](https://twitter.com/DamnJayAries/status/1496728021616705536) | advertise |
+| [damnstolar@twitter](https://twitter.com/damnstolar/status/1661828244260134916) | advertise |
 | [damvinh41708778@twitter](https://twitter.com/damvinh41708778/status/1603223229631721473) | advertise |
 | [DamzyStevy@twitter](https://twitter.com/DamzyStevy/status/1577722614012940313) | advertise |
 | [dan12redcom@twitter](https://twitter.com/dan12redcom/status/1516463414440247306) | advertise |
