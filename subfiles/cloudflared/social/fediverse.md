@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,442 |
+| com | 6,444 |
 | social | 4,089 |
-| net | 3,257 |
+| net | 3,258 |
 | org | 2,241 |
 | de | 2,133 |
 
@@ -3443,6 +3443,7 @@ Here's a list of public Fediverse services.
 | `bastelgarage.ch` | No |
 | `bastet.moe` | No |
 | `basti.dev` | No |
+| `bastianoliver.nl` | Yes |
 | `bastiat.social` | Yes |
 | `bastien.social` | No |
 | `bastique.com` | No |
@@ -12229,6 +12230,7 @@ Here's a list of public Fediverse services.
 | `fluttercommunity.social` | No |
 | `flutue.in` | Yes |
 | `flux.eus` | No |
+| `fluxfox.dev` | No |
 | `flxi.uk` | Yes |
 | `fly.dev` | No |
 | `flyand.chat` | Yes |
@@ -16881,7 +16883,6 @@ Here's a list of public Fediverse services.
 | `interzone.tw` | Yes |
 | `inthebeliefofbetter.social` | No |
 | `inthecatsdreams.xyz` | No |
-| `inthedeltawaves.blog` | No |
 | `inthedeltawaves.social` | No |
 | `intheirprime.moe` | No |
 | `intherain.club` | No |
@@ -17167,6 +17168,7 @@ Here's a list of public Fediverse services.
 | `itgrity.social` | No |
 | `ithe.dev` | Yes |
 | `ithome.dk` | Yes |
+| `itjust.works` | No |
 | `itland.no` | No |
 | `itm.osaka` | No |
 | `itm402.com` | No |
@@ -19008,6 +19010,7 @@ Here's a list of public Fediverse services.
 | `kirv.in` | Yes |
 | `kiryuanzu.dev` | Yes |
 | `kisaan.social` | Yes |
+| `kisame.jp` | No |
 | `kish.social` | No |
 | `kishkush.net` | No |
 | `kisombrella.top` | No |
@@ -28627,6 +28630,7 @@ Here's a list of public Fediverse services.
 | `peruano.social` | No |
 | `pescada.pt` | No |
 | `peshane.net` | No |
+| `peshka.net` | Yes |
 | `pesso.al` | No |
 | `pet.tax` | No |
 | `pet123.club` | No |
@@ -28915,6 +28919,7 @@ Here's a list of public Fediverse services.
 | `pinbun.com` | Yes |
 | `pinc.tube` | No |
 | `pine.cab` | No |
+| `pineapplemachine.com` | No |
 | `pinellas.space` | No |
 | `pinet.vn` | Yes |
 | `pinetree.ink` | No |
@@ -31682,6 +31687,7 @@ Here's a list of public Fediverse services.
 | `roflblog.net` | Yes |
 | `roflcopter.fr` | No |
 | `roger.family` | Yes |
+| `rogers-net.com` | Yes |
 | `rogers.plus` | No |
 | `rogersfam.co` | Yes |
 | `roggenkamp.social` | No |
@@ -35859,6 +35865,7 @@ Here's a list of public Fediverse services.
 | `syoshida.org` | No |
 | `syria.social` | No |
 | `syringa.social` | Yes |
+| `syrma.cc` | Yes |
 | `syrup.zone` | No |
 | `sysad.ninja` | No |
 | `sysadmin.run` | Yes |
@@ -38087,6 +38094,7 @@ Here's a list of public Fediverse services.
 | `transponderings.blog` | No |
 | `transportation.social` | Yes |
 | `transportevolved.com` | Yes |
+| `transqueer.club` | Yes |
 | `transrights.art` | No |
 | `transrights.ovh` | No |
 | `transsafety.network` | Yes |
@@ -41866,6 +41874,7 @@ Here's a list of public Fediverse services.
 | `yovm.com` | No |
 | `yowapeda.me` | No |
 | `yowhat.net` | Yes |
+| `yoyang.one` | Yes |
 | `yoyo.org` | No |
 | `yoyodyne-it.eu` | No |
 | `yoyodyne.games` | No |
@@ -42454,8 +42463,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,751 |
-| Normal | 31,660 |
+| Cloudflare | 10,757 |
+| Normal | 31,663 |
 
 
-### 25.3% of public Fediverse services are using Cloudflare.
+### 25.4% of public Fediverse services are using Cloudflare.
