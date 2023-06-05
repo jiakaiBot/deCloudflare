@@ -9401,6 +9401,7 @@ Do not create new issue or we will close it as duplicate.
 | [ptngthang0126@twitter](https://twitter.com/ptngthang0126/status/1378390696432787457) | advertise |
 | [ptp1322@twitter](https://twitter.com/ptp1322/status/1564488530939678720) | advertise |
 | [ptrdim@twitter](https://twitter.com/ptrdim/status/1382447390641291273) | advertise |
+| [ptss_online@twitter](https://twitter.com/ptss_online/status/1665610906980749312) | advertise |
 | [ptuan3733@twitter](https://twitter.com/ptuan3733/status/1542899307644194816) | advertise |
 | [ptuananh11@twitter](https://twitter.com/ptuananh11/status/1491584877266751493) | advertise |
 | [Pubg02020@twitter](https://twitter.com/Pubg02020/status/1381904001101299712) | advertise |
@@ -11070,6 +11071,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tantogrape@twitter](https://twitter.com/Tantogrape/status/1549988819981971456) | advertise |
 | [TanyaBones@twitter](https://twitter.com/TanyaBones/status/1438527093273473036) | advertise |
 | [tapomoyadhikari@twitter](https://twitter.com/tapomoyadhikari/status/1654048590942068740) | advertise |
+| [taptrader247@twitter](https://twitter.com/taptrader247/status/1665614205322678272) | advertise |
 | [tarabobby@twitter](https://twitter.com/tarabobby/status/1582455508128395264) | advertise |
 | [taraktungdung@twitter](https://twitter.com/taraktungdung/status/1397948304810418179) | advertise |
 | [tardcircus@twitter](https://twitter.com/tardcircus/status/1577460404682297344) | advertise |
