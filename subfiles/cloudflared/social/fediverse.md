@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,444 |
 | social | 4,089 |
 | net | 3,258 |
-| org | 2,241 |
+| org | 2,242 |
 | de | 2,133 |
 
 
@@ -3729,7 +3729,7 @@ Here's a list of public Fediverse services.
 | `benward.social` | No |
 | `benwinslow.news` | No |
 | `benz.social` | Yes |
-| `benzas.lt` | No |
+| `benzas.lt` | Yes |
 | `benzo.fans` | No |
 | `benzo.online` | No |
 | `beo.social` | No |
@@ -12219,6 +12219,7 @@ Here's a list of public Fediverse services.
 | `fluffyheart.me` | No |
 | `fluffyhu.gs` | No |
 | `fluffyshelter.day` | No |
+| `fluffytail.org` | No |
 | `fluora.net` | Yes |
 | `fluoride.dev` | No |
 | `fluqzy.eu` | Yes |
@@ -17421,7 +17422,7 @@ Here's a list of public Fediverse services.
 | `janbruns.de` | No |
 | `janbudke.de` | No |
 | `jancborchardt.net` | No |
-| `jandhyala.co` | No |
+| `jandhyala.co` | Yes |
 | `janeirl.dev` | Yes |
 | `janerationx.me` | No |
 | `janetgunter.net` | No |
@@ -42464,8 +42465,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,759 |
-| Normal | 31,662 |
+| Cloudflare | 10,761 |
+| Normal | 31,661 |
 
 
 ### 25.4% of public Fediverse services are using Cloudflare.
