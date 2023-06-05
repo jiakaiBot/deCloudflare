@@ -294,6 +294,7 @@ Here's a list of breached sites.
 | InstantCheckmate (Instant Checkmate) | 11,943,887 | Yes |
 | Intelimost | 3,073,409 | No |
 | Interpals (InterPals) | 3,439,414 | Yes |
+| JDGroup (JD Group) | 521,878 | No |
 | JD | 77,449,341 | Yes |
 | James | 1,541,284 | Yes |
 | Jefit | 9,052,457 | Yes |
@@ -670,7 +671,7 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 356 | 3,918,334,405 |
-| Normal | 292 | 4,983,465,410 |
+| Normal | 293 | 4,983,987,288 |
 
 
 
