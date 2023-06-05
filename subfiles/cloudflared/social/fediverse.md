@@ -6810,7 +6810,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -31794,6 +31794,7 @@ Here's a list of public Fediverse services.
 | `rosehip.moe` | Yes |
 | `rosematcha.party` | Yes |
 | `rosemont.cloud` | Yes |
+| `rosenha.in` | No |
 | `roshless.me` | No |
 | `rosiesocosy.com` | No |
 | `rosnovsky.us` | Yes |
@@ -42453,7 +42454,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,750 |
+| Cloudflare | 10,751 |
 | Normal | 31,660 |
 
 
