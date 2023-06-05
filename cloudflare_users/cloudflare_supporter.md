@@ -6741,6 +6741,7 @@ Do not create new issue or we will close it as duplicate.
 | [M2M07044707@twitter](https://twitter.com/M2M07044707/status/1397223341346394112) | advertise |
 | [M7Dgc@twitter](https://twitter.com/M7Dgc/status/1580870778941472768) | advertise |
 | [m9mG0VxgkzrPWIf@twitter](https://twitter.com/m9mG0VxgkzrPWIf/status/1392509254993469442) | advertise |
+| [m76eef@twitter](https://twitter.com/m76eef/status/1665725048303370240) | advertise |
 | [m414gold12@twitter](https://twitter.com/m414gold12/status/1379624576355688448) | advertise |
 | [M773776@twitter](https://twitter.com/M773776/status/1556245643483484161) | advertise |
 | [m42383619@twitter](https://twitter.com/m42383619/status/1389585140200861700) | advertise |
@@ -11550,6 +11551,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThornTiw@twitter](https://twitter.com/ThornTiw/status/1403023816163352576) | advertise |
 | [thoward222@twitter](https://twitter.com/thoward222/status/1534255279503601664) | advertise |
 | [thrv34725009@twitter](https://twitter.com/thrv34725009/status/1383448654841667588) | advertise |
+| [Thu21385346@twitter](https://twitter.com/Thu21385346/status/1665733217914347523) | advertise |
 | [thuan1771@twitter](https://twitter.com/thuan1771/status/1552342099403497474) | advertise |
 | [Thuan123567@twitter](https://twitter.com/Thuan123567/status/1514877002481737731) | advertise |
 | [ThuanDinhDao@twitter](https://twitter.com/ThuanDinhDao/status/1602896308347412480) | advertise |
