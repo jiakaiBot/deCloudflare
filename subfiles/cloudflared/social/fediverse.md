@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,444 |
+| com | 6,445 |
 | social | 4,089 |
-| net | 3,258 |
-| org | 2,242 |
+| net | 3,259 |
+| org | 2,243 |
 | de | 2,133 |
 
 
@@ -9143,7 +9143,7 @@ Here's a list of public Fediverse services.
 | `disquette.top` | No |
 | `disquiet.blog` | No |
 | `disroot.org` | No |
-| `disruption-protestante.fr` | No |
+| `disruption-protestante.fr` | Yes |
 | `disruption.engineer` | No |
 | `disruptive-software.xyz` | No |
 | `dissem.ch` | No |
@@ -12315,6 +12315,7 @@ Here's a list of public Fediverse services.
 | `foot.ee` | Yes |
 | `footballwelove.com` | No |
 | `footbrid.ge` | No |
+| `footkaput.com` | No |
 | `footle.org` | No |
 | `footprints.community` | No |
 | `footy.social` | No |
@@ -20240,6 +20241,7 @@ Here's a list of public Fediverse services.
 | `lemmy.eus` | No |
 | `lemmy.ml` | No |
 | `lemmy.nexus` | Yes |
+| `lemmy.nz` | Yes |
 | `lemmy.one` | Yes |
 | `lemmy.pt` | Yes |
 | `lemmy.world` | No |
@@ -23788,6 +23790,7 @@ Here's a list of public Fediverse services.
 | `misskey.at` | No |
 | `misskey.beer` | No |
 | `misskey.cf` | Yes |
+| `misskey.city` | Yes |
 | `misskey.cloud` | Yes |
 | `misskey.club` | Yes |
 | `misskey.de` | No |
@@ -25554,7 +25557,7 @@ Here's a list of public Fediverse services.
 | `nekko.online` | No |
 | `neko-relay.com` | Yes |
 | `neko.academy` | No |
-| `neko.airforce` | No |
+| `neko.airforce` | Yes |
 | `neko.bar` | No |
 | `neko.cat` | No |
 | `neko.chat` | No |
@@ -26876,6 +26879,7 @@ Here's a list of public Fediverse services.
 | `nx15.rocks` | No |
 | `nxc.one` | Yes |
 | `nxs3.com` | No |
+| `nxsux.xyz` | Yes |
 | `nxt.social` | No |
 | `nxte.org` | No |
 | `nxtgen.social` | Yes |
@@ -28956,6 +28960,7 @@ Here's a list of public Fediverse services.
 | `pintofsimilar.com` | No |
 | `piouland.net` | No |
 | `pioupiou.social` | No |
+| `pipe01.net` | No |
 | `piperrak.cc` | No |
 | `piperswe.me` | Yes |
 | `pipes.social` | No |
@@ -31790,6 +31795,7 @@ Here's a list of public Fediverse services.
 | `roryprice.me` | No |
 | `roryprice.net` | No |
 | `rosaceae.net` | No |
+| `rosaelefanten.org` | No |
 | `rosafamily.social` | Yes |
 | `rosafluffmoln.nu` | No |
 | `rosania.org` | No |
@@ -39181,6 +39187,7 @@ Here's a list of public Fediverse services.
 | `uriahjaylee.com` | No |
 | `uribe.cafe` | No |
 | `urishari.com` | No |
+| `urizen.eu` | No |
 | `urizen.net` | No |
 | `urls.fyi` | No |
 | `urlxl.com` | No |
@@ -42465,8 +42472,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,761 |
-| Normal | 31,661 |
+| Cloudflare | 10,766 |
+| Normal | 31,663 |
 
 
 ### 25.4% of public Fediverse services are using Cloudflare.
