@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,442 |
 | social | 4,089 |
-| net | 3,256 |
-| org | 2,240 |
+| net | 3,257 |
+| org | 2,241 |
 | de | 2,133 |
 
 
@@ -2221,7 +2221,7 @@ Here's a list of public Fediverse services.
 | `appdot.net` | No |
 | `appellate.ninja` | No |
 | `appellate.social` | No |
-| `appetizer.club` | No |
+| `appetizer.club` | Yes |
 | `apple-user.club` | No |
 | `apple2.org.za` | No |
 | `appleontech.com` | No |
@@ -6389,6 +6389,7 @@ Here's a list of public Fediverse services.
 | `ckbit.ch` | No |
 | `ckcycling.com` | No |
 | `ckfb.cc` | No |
+| `ckir.net` | No |
 | `ckitbara.info` | No |
 | `cknweb.it` | Yes |
 | `ckpg.space` | No |
@@ -11609,6 +11610,7 @@ Here's a list of public Fediverse services.
 | `fedigram.me` | No |
 | `fedigram.net` | No |
 | `fedigram.social` | Yes |
+| `fedigroup.party` | No |
 | `fedihams.net` | No |
 | `fedihost.io` | No |
 | `fedihub.com` | No |
@@ -21104,6 +21106,7 @@ Here's a list of public Fediverse services.
 | `lostfocus.de` | No |
 | `lostinok.com` | No |
 | `lostinthe.space` | No |
+| `lostinthelife.stream` | No |
 | `lostlightstudio.team` | No |
 | `lostmy.pw` | Yes |
 | `lostpod.space` | No |
@@ -29795,6 +29798,7 @@ Here's a list of public Fediverse services.
 | `probe.social` | No |
 | `probesys.com` | Yes |
 | `probierkiste.de` | No |
+| `problemes.eu.org` | No |
 | `probmkr.com` | Yes |
 | `probono.media` | No |
 | `proboscis.social` | No |
@@ -42449,8 +42453,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,749 |
-| Normal | 31,657 |
+| Cloudflare | 10,750 |
+| Normal | 31,660 |
 
 
 ### 25.3% of public Fediverse services are using Cloudflare.
