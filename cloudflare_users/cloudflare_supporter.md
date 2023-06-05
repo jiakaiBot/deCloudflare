@@ -2319,8 +2319,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -9706,6 +9706,7 @@ Do not create new issue or we will close it as duplicate.
 | [REALDJPHAZE@twitter](https://twitter.com/REALDJPHAZE/status/1553140298657718272) | advertise |
 | [realdl_@twitter](https://twitter.com/realdl_/status/1523506857532289024) | advertise |
 | [RealDNewsMag@twitter](https://twitter.com/RealDNewsMag/status/1441466401781211137) | advertise |
+| [realdonalfred@twitter](https://twitter.com/realdonalfred/status/1665778692721614850) | advertise |
 | [RealFaizAhmed1@twitter](https://twitter.com/RealFaizAhmed1/status/1402941244456775687) | advertise |
 | [realfaizalkha1@twitter](https://twitter.com/realfaizalkha1/status/1559374629264826368) | advertise |
 | [Realfileing@twitter](https://twitter.com/Realfileing/status/1607037458541154305) | advertise |
