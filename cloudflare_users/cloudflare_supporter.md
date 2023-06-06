@@ -10041,6 +10041,7 @@ Do not create new issue or we will close it as duplicate.
 | [RonaldT20068209@twitter](https://twitter.com/RonaldT20068209/status/1501376414481895424) | advertise |
 | [roney_wak@twitter](https://twitter.com/roney_wak/status/1601267324853440512) | advertise |
 | [rone_clifton@twitter](https://twitter.com/rone_clifton/status/1450187206979588096) | advertise |
+| [RongChau132662@twitter](https://twitter.com/RongChau132662/status/1666047352220848128) | advertise |
 | [RonitBose13@twitter](https://twitter.com/RonitBose13/status/1428250137445425157) | advertise |
 | [RonnachaiKammu6@twitter](https://twitter.com/RonnachaiKammu6/status/1382350935758807043) | advertise |
 | [ronniesemakula1@twitter](https://twitter.com/ronniesemakula1/status/1632467117923618817) | advertise |
