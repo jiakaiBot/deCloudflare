@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,447 |
-| social | 4,089 |
+| com | 6,448 |
+| social | 4,090 |
 | net | 3,259 |
 | org | 2,243 |
 | de | 2,135 |
@@ -5045,6 +5045,7 @@ Here's a list of public Fediverse services.
 | `buckket.org` | No |
 | `bud.camp` | No |
 | `buddhist.tv` | Yes |
+| `budini.me` | Yes |
 | `budmo.info` | No |
 | `budsbots.com` | No |
 | `buergerdienste-dortmund.de` | No |
@@ -11484,6 +11485,7 @@ Here's a list of public Fediverse services.
 | `feddit.de` | No |
 | `feddit.dk` | Yes |
 | `feddit.it` | No |
+| `feddit.nl` | No |
 | `feddychat.de` | No |
 | `fede.re` | No |
 | `feder8.me` | No |
@@ -20248,6 +20250,7 @@ Here's a list of public Fediverse services.
 | `lemmy.nexus` | Yes |
 | `lemmy.nz` | Yes |
 | `lemmy.one` | Yes |
+| `lemmy.org.uk` | No |
 | `lemmy.pt` | Yes |
 | `lemmy.studio` | No |
 | `lemmy.world` | No |
@@ -24878,6 +24881,7 @@ Here's a list of public Fediverse services.
 | `muretlabarba.de` | No |
 | `murf.org` | Yes |
 | `muri.network` | No |
+| `muri.zip` | No |
 | `murkworks.net` | No |
 | `murky.club` | No |
 | `murm.gay` | Yes |
@@ -29590,6 +29594,7 @@ Here's a list of public Fediverse services.
 | `possum.land` | Yes |
 | `possumgraveyard.com` | No |
 | `possumlodge.me` | No |
+| `possumpat.io` | No |
 | `possums.xyz` | Yes |
 | `post-fx.de` | No |
 | `post.rodeo` | No |
@@ -33774,6 +33779,7 @@ Here's a list of public Fediverse services.
 | `sissom.net` | No |
 | `sisters.pink` | No |
 | `sisu.social` | Yes |
+| `sisulink.com` | Yes |
 | `site.nz` | No |
 | `sitedethib.com` | No |
 | `siteop.biz` | No |
@@ -35655,6 +35661,7 @@ Here's a list of public Fediverse services.
 | `supes.com` | No |
 | `suplica.de` | No |
 | `suppenhase.de` | No |
+| `suppo.fi` | No |
 | `supportdifferent.com` | No |
 | `supportforce.ca` | No |
 | `supr.gay` | No |
@@ -40787,6 +40794,7 @@ Here's a list of public Fediverse services.
 | `wirwarenesnet.de` | No |
 | `wisc.social` | No |
 | `wisdomhole.com` | No |
+| `wisehex.social` | Yes |
 | `wisellama.rocks` | No |
 | `wisemantribe.co.uk` | No |
 | `wisepapajohn.com` | Yes |
@@ -42465,6 +42473,7 @@ Here's a list of public Fediverse services.
 | `zy.lc` | No |
 | `zyl.se` | Yes |
 | `zylstra.org` | No |
+| `zym.lol` | Yes |
 | `zymocosm.com` | No |
 | `zyno.us` | Yes |
 | `zyoh.net` | No |
@@ -42490,8 +42499,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,772 |
-| Normal | 31,675 |
+| Cloudflare | 10,776 |
+| Normal | 31,680 |
 
 
 ### 25.4% of public Fediverse services are using Cloudflare.
