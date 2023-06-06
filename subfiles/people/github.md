@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [How To Handle 'Invalid Script Name' Error from Cloudflare](https://github.com/jcsalterego/Contrails/issues/5)
 - [SRV Records of Moonlight Domains](https://github.com/Moonlight-Panel/Moonlight/issues/141)
 - [CloudFlare Cloudflare API service intermittent issues](https://github.com/MatBenfield/news/issues/14959)
 - [Content-Length is removed by Cloudflare and results in an error.](https://github.com/renpy/renpy-build/issues/75)
