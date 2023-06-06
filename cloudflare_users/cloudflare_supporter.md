@@ -5266,6 +5266,7 @@ Do not create new issue or we will close it as duplicate.
 | [JJoe40040378@twitter](https://twitter.com/JJoe40040378/status/1391669669115752455) | advertise |
 | [jkaras0@twitter](https://twitter.com/jkaras0/status/1519652208270213120) | advertise |
 | [JKAY507914252@twitter](https://twitter.com/JKAY507914252/status/1524934724413579264) | advertise |
+| [JKeawpila@twitter](https://twitter.com/JKeawpila/status/1665961413041610752) | advertise |
 | [jkra_luv@twitter](https://twitter.com/jkra_luv/status/1394644998688178181) | advertise |
 | [JkRider11@twitter](https://twitter.com/JkRider11/status/1391918165085462530) | advertise |
 | [JKrystal68@twitter](https://twitter.com/JKrystal68/status/1391640481583353858) | advertise |
@@ -5953,6 +5954,7 @@ Do not create new issue or we will close it as duplicate.
 | [kld_sjd@twitter](https://twitter.com/kld_sjd/status/1609701245647724549) | advertise |
 | [KLiesty@twitter](https://twitter.com/KLiesty/status/1552540429236961280) | advertise |
 | [klopmp@twitter](https://twitter.com/klopmp/status/1422969764905816068) | advertise |
+| [KMammd@twitter](https://twitter.com/KMammd/status/1665957310944931840) | advertise |
 | [kmantecM@twitter](https://twitter.com/kmantecM/status/1422478263440396292) | advertise |
 | [KMHt67762096@twitter](https://twitter.com/KMHt67762096/status/1627645025395048449) | advertise |
 | [KMobydic@twitter](https://twitter.com/KMobydic/status/1398362611859673090) | advertise |
