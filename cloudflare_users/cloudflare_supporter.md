@@ -9951,6 +9951,7 @@ Do not create new issue or we will close it as duplicate.
 | [Riddh19@twitter](https://twitter.com/Riddh19/status/1383476535806423054) | advertise |
 | [riddle_raye@twitter](https://twitter.com/riddle_raye/status/1485703504194908162) | advertise |
 | [Rider70600097@twitter](https://twitter.com/Rider70600097/status/1381439239447924736) | advertise |
+| [rideykhan926073@twitter](https://twitter.com/rideykhan926073/status/1666074857627582464) | advertise |
 | [ridhaalyaseen19@twitter](https://twitter.com/ridhaalyaseen19/status/1404525427012640777) | advertise |
 | [RidhiyaAulia@twitter](https://twitter.com/RidhiyaAulia/status/1637857799442165761) | advertise |
 | [rifat_wp@twitter](https://twitter.com/rifat_wp/status/1512383768124071938) | advertise |
