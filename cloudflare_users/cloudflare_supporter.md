@@ -7434,6 +7434,7 @@ Do not create new issue or we will close it as duplicate.
 | [minhhoa583@twitter](https://twitter.com/minhhoa583/status/1630383610850328576) | advertise |
 | [Minhhuy04361859@twitter](https://twitter.com/Minhhuy04361859/status/1393420564950179846) | advertise |
 | [Minhhuy351@twitter](https://twitter.com/Minhhuy351/status/1524288351830183936) | advertise |
+| [minhkhiem14@twitter](https://twitter.com/minhkhiem14/status/1665946696210337793) | advertise |
 | [MinhKim35497106@twitter](https://twitter.com/MinhKim35497106/status/1565037598233735169) | advertise |
 | [MinhLm27252678@twitter](https://twitter.com/MinhLm27252678/status/1643964438935117827) | advertise |
 | [MinhLQuang1@twitter](https://twitter.com/MinhLQuang1/status/1505475803576147969) | advertise |
