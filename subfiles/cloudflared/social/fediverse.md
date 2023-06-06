@@ -5377,6 +5377,7 @@ Here's a list of public Fediverse services.
 | `calligraphicspace.com` | No |
 | `callingallpapers.com` | Yes |
 | `callistoapp.com` | No |
+| `callwall.xyz` | Yes |
 | `calmarius.net` | No |
 | `calmdonut.social` | Yes |
 | `calmo.blue` | Yes |
@@ -42499,7 +42500,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,776 |
+| Cloudflare | 10,777 |
 | Normal | 31,680 |
 
 
