@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,450 |
-| social | 4,090 |
+| social | 4,091 |
 | net | 3,259 |
 | org | 2,243 |
 | de | 2,135 |
@@ -11987,6 +11987,7 @@ Here's a list of public Fediverse services.
 | `findyouralpha.com` | No |
 | `fine-net.site` | No |
 | `fine.moe` | Yes |
+| `finecity.social` | No |
 | `finestructure.co` | Yes |
 | `finfur.net` | Yes |
 | `fingerprintsoftware.ca` | No |
@@ -13661,7 +13662,6 @@ Here's a list of public Fediverse services.
 | `geraffel.social` | No |
 | `gerardbentley.com` | No |
 | `geraspora.de` | No |
-| `gerben.dev` | Yes |
 | `gerbet.me` | No |
 | `gerbracht.social` | No |
 | `gerdemann.me` | No |
@@ -28475,6 +28475,7 @@ Here's a list of public Fediverse services.
 | `pedo.school` | No |
 | `pedrocx486.club` | Yes |
 | `peek1e.eu` | Yes |
+| `peekachello.art` | No |
 | `peeledoffmy.skin` | Yes |
 | `peen.dev` | Yes |
 | `peeps.press` | No |
@@ -42507,8 +42508,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,779 |
-| Normal | 31,685 |
+| Cloudflare | 10,778 |
+| Normal | 31,687 |
 
 
 ### 25.4% of public Fediverse services are using Cloudflare.
