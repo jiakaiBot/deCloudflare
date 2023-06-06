@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,446 |
+| com | 6,447 |
 | social | 4,089 |
 | net | 3,259 |
 | org | 2,243 |
@@ -6811,7 +6811,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9867,7 +9867,7 @@ Here's a list of public Fediverse services.
 | `dutchcaribbean.social` | No |
 | `dutchipoo.com` | No |
 | `dutchxs.com` | No |
-| `duti.tech` | Yes |
+| `duti.tech` | No |
 | `dutka-is.de` | No |
 | `duwa.ng` | No |
 | `duxez.dev` | No |
@@ -22442,7 +22442,7 @@ Here's a list of public Fediverse services.
 | `mastodon.pizza` | No |
 | `mastodon.pl` | Yes |
 | `mastodon.poker` | No |
-| `mastodon.press` | Yes |
+| `mastodon.press` | No |
 | `mastodon.pro` | Yes |
 | `mastodon.pub` | No |
 | `mastodon.quebec` | Yes |
@@ -40851,6 +40851,7 @@ Here's a list of public Fediverse services.
 | `wizardstowerpress.com` | No |
 | `wizbos.club` | Yes |
 | `wizfox.jp` | No |
+| `wizjenkins.com` | Yes |
 | `wizzards.club` | No |
 | `wizzzard.online` | No |
 | `wjbolles.com` | No |
@@ -42487,8 +42488,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,770 |
-| Normal | 31,674 |
+| Cloudflare | 10,768 |
+| Normal | 31,677 |
 
 
 ### 25.4% of public Fediverse services are using Cloudflare.
