@@ -32,6 +32,7 @@ Here's a list of public Matrix services.
 | matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
 | synapse.bark.lgbt | Yes |
+| bolha.chat | Yes |
 | breeze.town | No |
 | buyvm.chat | No |
 | matrix.bytes4u.de | No |
@@ -104,7 +105,6 @@ Here's a list of public Matrix services.
 | matrix.sibnsk.net | No |
 | socialnetwork24.com | No |
 | matrix.studichat.de | No |
-| matrix.supreme.sh | Yes |
 | synod.im | No |
 | matrix.tchncs.de | No |
 | matrix.techsaviours.org | No |
