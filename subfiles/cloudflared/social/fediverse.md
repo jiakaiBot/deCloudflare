@@ -26488,6 +26488,7 @@ Here's a list of public Fediverse services.
 | `noostache.fr` | No |
 | `noot.cloud` | No |
 | `noovi.org` | No |
+| `nop.chat` | Yes |
 | `nop.codes` | Yes |
 | `nop.moe` | No |
 | `noparticular.place` | No |
@@ -42489,7 +42490,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,771 |
+| Cloudflare | 10,772 |
 | Normal | 31,675 |
 
 
