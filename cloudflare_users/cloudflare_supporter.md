@@ -1312,6 +1312,7 @@ Do not create new issue or we will close it as duplicate.
 | [axs9529@twitter](https://twitter.com/axs9529/status/1637852769892851712) | advertise |
 | [Axxhhhh@twitter](https://twitter.com/Axxhhhh/status/1626929633152143363) | advertise |
 | [AyadGhezzi@twitter](https://twitter.com/AyadGhezzi/status/1575585105690533888) | advertise |
+| [aYakamywIFe@twitter](https://twitter.com/aYakamywIFe/status/1666056362319822848) | advertise |
 | [ayaz76681172@twitter](https://twitter.com/ayaz76681172/status/1574500158607441955) | advertise |
 | [Aye92548468@twitter](https://twitter.com/Aye92548468/status/1392788493001134085) | advertise |
 | [AyeChan93267483@twitter](https://twitter.com/AyeChan93267483/status/1389667900483678208) | advertise |
@@ -5897,8 +5898,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
