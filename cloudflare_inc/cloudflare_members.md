@@ -1096,6 +1096,7 @@ Or is this merely a case of simple modesty?
 | Louis Grace | Business Development |  |
 | Louis Poinsignon | Network Engineer | https://twitter.com/lpoinsig |
 | Lucas Ferreira | Employee | |
+| Lucas Kostka | Employee | |
 | Lucas Pardue | HTTP/2 and QUIC | https://twitter.com/simmervigor<br>admin@lucaspardue.com<br>lucas@cloudflare.com |
 | Luisa Gobbo | Marketing and Events |  |
 | Luis Vasallo | Business Development |  |
@@ -1783,6 +1784,7 @@ Or is this merely a case of simple modesty?
 | Tom Arnfeld | Systems Engineer | https://twitter.com/tarnfeld<br>http://tarnfeld.com/<br>http://uk.linkedin.com/in/tarnfeld/<br>https://github.com/tarnfeld |
 | Tomas Susanka | Intern |  |
 | Tom Brightbill | Customer Success |  |
+| Tom Klein | Employee | |
 | Tom Lam | Employee |  |
 | Tom Lianza | Engineering Manager | https://twitter.com/tlianza<br>https://www.linkedin.com/in/tlianza<br>btc:1BcB611ZvQ5Qkyeupc87ZFuw9crJ9ZbtcN |
 | Tom Mann | Employee |  |
