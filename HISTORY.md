@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-06-06: [Network Performance Issues (Lisbon region)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gzjd356d2w26)
 - 2023-05-31: [Network Performance Issues in Newark, NJ, United States](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/62vll3wz4fs7)
 - 2023-05-31: [Network Performance Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/28lv1y81cvh9)
 - 2023-05-22: [Network Performance Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5462l61bvlr6)
