@@ -16034,6 +16034,7 @@ Here's a list of public Fediverse services.
 | `hugolecourt.fr` | No |
 | `hugoleroux.ovh` | No |
 | `hugopoi.net` | No |
+| `hugot.nl` | No |
 | `hugsandtoots.club` | No |
 | `huideyeren.info` | No |
 | `huijiren.com` | No |
@@ -16284,6 +16285,7 @@ Here's a list of public Fediverse services.
 | `iccd.io` | No |
 | `icd-creators.com` | No |
 | `ice-lolly.social` | No |
+| `ice.camp` | No |
 | `icedlatte.chat` | No |
 | `icedtux.no` | No |
 | `iceorchid.net` | No |
@@ -42504,7 +42506,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,779 |
-| Normal | 31,681 |
+| Normal | 31,683 |
 
 
 ### 25.4% of public Fediverse services are using Cloudflare.
