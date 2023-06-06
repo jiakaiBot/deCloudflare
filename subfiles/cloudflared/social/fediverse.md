@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,445 |
+| com | 6,446 |
 | social | 4,089 |
-| net | 3,258 |
+| net | 3,259 |
 | org | 2,243 |
-| de | 2,133 |
+| de | 2,135 |
 
 
 - Mastodon, Pleroma, etc
@@ -5602,6 +5602,7 @@ Here's a list of public Fediverse services.
 | `casuls.social` | No |
 | `cat-enby.club` | No |
 | `cat-from-outer.space` | No |
+| `cat-wo.men` | Yes |
 | `cat.broker` | No |
 | `cat.engineer` | Yes |
 | `cat.family` | No |
@@ -14876,6 +14877,7 @@ Here's a list of public Fediverse services.
 | `halstead.email` | No |
 | `halt.cl` | Yes |
 | `halvbrax.se` | No |
+| `halzi.one` | No |
 | `ham.land` | No |
 | `hama3.net` | Yes |
 | `hamachpil.net` | No |
@@ -15692,6 +15694,7 @@ Here's a list of public Fediverse services.
 | `hogh.tk` | No |
 | `hogpot.org` | No |
 | `hogwarts.college` | No |
+| `hohbukuro.work` | No |
 | `hohn.cloud` | No |
 | `hoi-polloi.org` | No |
 | `hoijyun.com` | Yes |
@@ -16885,6 +16888,7 @@ Here's a list of public Fediverse services.
 | `interzone.tw` | Yes |
 | `inthebeliefofbetter.social` | No |
 | `inthecatsdreams.xyz` | No |
+| `inthedeltawaves.blog` | No |
 | `inthedeltawaves.social` | No |
 | `intheirprime.moe` | No |
 | `intherain.club` | No |
@@ -20244,6 +20248,7 @@ Here's a list of public Fediverse services.
 | `lemmy.nz` | Yes |
 | `lemmy.one` | Yes |
 | `lemmy.pt` | Yes |
+| `lemmy.studio` | No |
 | `lemmy.world` | No |
 | `lemmygrad.com` | No |
 | `lemmygrad.ml` | No |
@@ -20912,6 +20917,7 @@ Here's a list of public Fediverse services.
 | `loadaverage.org` | No |
 | `loadedguntheory.com` | No |
 | `loadgenie.club` | No |
+| `lob-online.de` | No |
 | `lobi.to` | No |
 | `lobisomem.xyz` | No |
 | `lobrai.co` | Yes |
@@ -22042,6 +22048,7 @@ Here's a list of public Fediverse services.
 | `marutani.xyz` | No |
 | `marvin.saarland` | No |
 | `marvins.site` | No |
+| `marx.gay` | Yes |
 | `marx.pm` | No |
 | `marx21.social` | No |
 | `marxism.cc` | Yes |
@@ -22182,6 +22189,7 @@ Here's a list of public Fediverse services.
 | `masto.gives` | No |
 | `masto.haus` | Yes |
 | `masto.host` | No |
+| `masto.hr` | No |
 | `masto.id` | Yes |
 | `masto.io` | No |
 | `masto.la` | No |
@@ -22637,6 +22645,7 @@ Here's a list of public Fediverse services.
 | `mastopr.xyz` | No |
 | `mastopub.com` | Yes |
 | `mastoq.com` | No |
+| `mastorock.com` | Yes |
 | `mastorol.es` | Yes |
 | `mastoscat.club` | No |
 | `mastotn.com` | No |
@@ -26691,6 +26700,7 @@ Here's a list of public Fediverse services.
 | `npo.city` | No |
 | `nposns.com` | No |
 | `nps.exchange` | No |
+| `nptcomputing.net` | No |
 | `nptcomputing.xyz` | Yes |
 | `nrd.li` | Yes |
 | `nrev.org` | No |
@@ -27123,6 +27133,7 @@ Here's a list of public Fediverse services.
 | `officials.social` | Yes |
 | `officiating.rocks` | No |
 | `officiell.info` | No |
+| `officinarebelde.it` | No |
 | `offilth.stream` | No |
 | `offisiell.info` | No |
 | `offkey.social` | No |
@@ -30099,6 +30110,7 @@ Here's a list of public Fediverse services.
 | `purexo.mom` | No |
 | `purgatos.online` | No |
 | `puri.sm` | No |
+| `puritan.pub` | Yes |
 | `purple.flowers` | No |
 | `purpleforest.social` | No |
 | `purplepa.ws` | No |
@@ -32659,6 +32671,7 @@ Here's a list of public Fediverse services.
 | `schleicloud.de` | No |
 | `schlenz.ruhr` | No |
 | `schlesser.net` | No |
+| `schleswig-holstein.de` | No |
 | `schleswig-holstein.social` | No |
 | `schleuss.online` | No |
 | `schlot.at` | No |
@@ -40197,6 +40210,7 @@ Here's a list of public Fediverse services.
 | `warpzone.es` | No |
 | `warriorsofthelord.com` | No |
 | `warrows.fr` | No |
+| `warroza.pl` | No |
 | `warsow-online.de` | No |
 | `warubure.online` | No |
 | `warudo.art` | No |
@@ -42473,8 +42487,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,766 |
-| Normal | 31,664 |
+| Cloudflare | 10,770 |
+| Normal | 31,674 |
 
 
 ### 25.4% of public Fediverse services are using Cloudflare.
