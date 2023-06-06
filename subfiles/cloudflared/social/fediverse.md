@@ -14457,6 +14457,7 @@ Here's a list of public Fediverse services.
 | `grin.hu` | No |
 | `grinch.social` | No |
 | `grindcore.ch` | No |
+| `grinoy.xyz` | Yes |
 | `grischa.de` | No |
 | `grischabock.ch` | No |
 | `grishka.me` | No |
@@ -42500,7 +42501,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,777 |
+| Cloudflare | 10,778 |
 | Normal | 31,680 |
 
 
