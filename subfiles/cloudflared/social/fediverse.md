@@ -42350,6 +42350,7 @@ Here's a list of public Fediverse services.
 | `zohup.ml` | Yes |
 | `zohup.net` | Yes |
 | `zoinks.one` | No |
+| `zokni.xyz` | Yes |
 | `zoktalk.com` | Yes |
 | `zolfite.net` | No |
 | `zoltasila.pl` | No |
@@ -42501,7 +42502,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,778 |
+| Cloudflare | 10,779 |
 | Normal | 31,680 |
 
 
