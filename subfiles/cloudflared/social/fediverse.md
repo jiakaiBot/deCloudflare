@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,449 |
+| com | 6,450 |
 | social | 4,090 |
 | net | 3,259 |
 | org | 2,243 |
@@ -9271,6 +9271,7 @@ Here's a list of public Fediverse services.
 | `dnagt.de` | No |
 | `dnalyze.me` | No |
 | `dnb-lan.com` | No |
+| `dnb.red` | No |
 | `dnd.social` | No |
 | `dnddeutsch.de` | Yes |
 | `dndsocial.com` | No |
@@ -37043,6 +37044,7 @@ Here's a list of public Fediverse services.
 | `theo546.fr` | No |
 | `theoccasionoctopus.net` | No |
 | `theocevaer.fr` | No |
+| `theocourt.com` | No |
 | `theoerzetic.fr` | No |
 | `theokadas.com` | No |
 | `theoks.net` | Yes |
@@ -42506,7 +42508,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,779 |
-| Normal | 31,683 |
+| Normal | 31,685 |
 
 
 ### 25.4% of public Fediverse services are using Cloudflare.
