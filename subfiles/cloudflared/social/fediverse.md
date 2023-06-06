@@ -6666,7 +6666,7 @@ Here's a list of public Fediverse services.
 | `codeflow.club` | Yes |
 | `codefor.de` | No |
 | `codegito.xyz` | No |
-| `codeine.world` | No |
+| `codeine.world` | Yes |
 | `codelib.re` | Yes |
 | `codem.xyz` | No |
 | `codeplumbers.eu` | No |
@@ -6811,7 +6811,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -10180,6 +10180,7 @@ Here's a list of public Fediverse services.
 | `eertu.be` | No |
 | `eeruwang.me` | Yes |
 | `eesti.zone` | No |
+| `eet.nu` | No |
 | `eevee.ca` | Yes |
 | `ef.gg` | No |
 | `ef67daisuki.club` | No |
@@ -18364,7 +18365,7 @@ Here's a list of public Fediverse services.
 | `kajko.se` | No |
 | `kajo76.de` | No |
 | `kaka.social` | No |
-| `kakafe.ga` | Yes |
+| `kakafe.ga` | No |
 | `kakampinks.com` | Yes |
 | `kakaotalk.app` | No |
 | `kakeraverse.xyz` | No |
@@ -29868,7 +29869,7 @@ Here's a list of public Fediverse services.
 | `project-cts.com` | No |
 | `project-disco.org` | Yes |
 | `project-imas.cn` | No |
-| `project-nex.net` | No |
+| `project-nex.net` | Yes |
 | `project-taco.org` | Yes |
 | `project.social` | No |
 | `project2.at` | No |
@@ -37208,7 +37209,7 @@ Here's a list of public Fediverse services.
 | `thias.xyz` | No |
 | `thibau.lt` | No |
 | `thibautcharles.net` | No |
-| `thibug.net` | No |
+| `thibug.net` | Yes |
 | `thicc.horse` | No |
 | `thicc.site` | No |
 | `thick.rocks` | No |
@@ -42488,8 +42489,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,768 |
-| Normal | 31,677 |
+| Cloudflare | 10,771 |
+| Normal | 31,675 |
 
 
 ### 25.4% of public Fediverse services are using Cloudflare.
