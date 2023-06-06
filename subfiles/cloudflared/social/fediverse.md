@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,448 |
+| com | 6,449 |
 | social | 4,090 |
 | net | 3,259 |
 | org | 2,243 |
@@ -2167,6 +2167,7 @@ Here's a list of public Fediverse services.
 | `aoxiang.online` | Yes |
 | `aozaki.cc` | Yes |
 | `aozora.uk` | Yes |
+| `ap-msk.com` | No |
 | `apa50.online` | No |
 | `apaphoto.social` | No |
 | `apartmenttherapy.com` | Yes |
@@ -42503,7 +42504,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,779 |
-| Normal | 31,680 |
+| Normal | 31,681 |
 
 
 ### 25.4% of public Fediverse services are using Cloudflare.
