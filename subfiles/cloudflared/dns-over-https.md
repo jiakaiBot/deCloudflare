@@ -35,6 +35,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | adguard-dns.com | Yes |
 | adrianlam.com | Yes |
 | agadez.net | Yes |
+| aganin.org | No |
 | agh-dns.net | Yes |
 | ahadns.net | Yes |
 | aidentec.top | Yes |
@@ -150,6 +151,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | fomichev.cloud | Yes |
 | foximao.cn | No |
 | fresh-waffles.online | Yes |
+| freyja.pw | Yes |
 | froth.zone | No |
 | ftp.sh | No |
 | futa.gg | Yes |
@@ -170,6 +172,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | he.net | No |
 | heliumcloud.cc | Yes |
 | hinet.net | Yes |
+| hinytz.com | Yes |
 | hitian.me | Yes |
 | hoerli.net | Yes |
 | hoofoo.icu | Yes |
@@ -195,6 +198,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jfchenier.ca | Yes |
 | jinwoo.dev | No |
 | joaofidelix.com.br | Yes |
+| joey01245.nl | No |
 | jsanagustin.net | Yes |
 | jstockley.com | Yes |
 | jucker.engineering | No |
@@ -258,10 +262,12 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nic.cz | No |
 | nic.lv | No |
 | nielsdb.be | No |
+| nikolagjorgjijoski.com | Yes |
 | nilanjan.rocks | No |
 | niyawe.de | No |
 | njal.la | No |
 | noaddns.com | No |
+| nocnik.org | Yes |
 | node15.com | Yes |
 | nolo.ltd | Yes |
 | nomu.pw | No |
@@ -287,6 +293,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | plumedns.com | Yes |
 | privado.ovh | Yes |
 | privilab.net | No |
+| pumpkinvrar.com | No |
 | purbalinggakab.go.id | Yes |
 | puredns.org | Yes |
 | qquack.org | Yes |
@@ -301,6 +308,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rferee.dev | Yes |
 | rin.sh | Yes |
 | rkjha.com.np | Yes |
+| rohanjain.in | Yes |
 | rokh.biz | Yes |
 | ronc.ru | No |
 | rouga.ch | Yes |
@@ -343,6 +351,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | syshero.org | No |
 | t53.de | No |
 | techeasy.org | Yes |
+| technochat.in | Yes |
 | telekom.de | Yes |
 | teradns.org | Yes |
 | tezoi.com | No |
@@ -400,8 +409,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 194 |
-| Normal | 187 |
+| Cloudflare | 200 |
+| Normal | 190 |
 
 
-### 50.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
