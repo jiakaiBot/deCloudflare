@@ -371,7 +371,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | unstoppable.io | Yes |
 | uplenk.com | Yes |
 | vasi.li | No |
-| vendorvista.xyz | No |
+| vendorvista.xyz | Yes |
 | vinnyp.xyz | Yes |
 | virga.pp.ua | Yes |
 | vishalk.com | No |
@@ -407,8 +407,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 195 |
-| Normal | 193 |
+| Cloudflare | 196 |
+| Normal | 192 |
 
 
-### 50.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
