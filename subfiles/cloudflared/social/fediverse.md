@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,456 |
+| com | 6,457 |
 | social | 4,092 |
 | net | 3,260 |
 | org | 2,245 |
@@ -3678,6 +3678,7 @@ Here's a list of public Fediverse services.
 | `ben.land` | No |
 | `ben.wtf` | Yes |
 | `benatar.ovh` | No |
+| `benaudalla.casa` | No |
 | `benbailey.me` | Yes |
 | `benboeckel.net` | No |
 | `benborges.xyz` | Yes |
@@ -4670,6 +4671,7 @@ Here's a list of public Fediverse services.
 | `borked.host` | No |
 | `borked.sh` | No |
 | `borken.social` | No |
+| `borlax.com` | No |
 | `borneensis.com` | No |
 | `bornholz.com` | No |
 | `bornsleepy.com` | No |
@@ -20276,6 +20278,7 @@ Here's a list of public Fediverse services.
 | `lemmy.org.uk` | No |
 | `lemmy.pt` | Yes |
 | `lemmy.studio` | No |
+| `lemmy.today` | No |
 | `lemmy.world` | No |
 | `lemmygrad.com` | No |
 | `lemmygrad.ml` | No |
@@ -25495,7 +25498,7 @@ Here's a list of public Fediverse services.
 | `naz.vc` | No |
 | `naza.space` | No |
 | `nazi.social` | No |
-| `nazileaks.eu` | No |
+| `nazileaks.eu` | Yes |
 | `nazone.info` | No |
 | `nazrin.moe` | No |
 | `nazuwa.de` | No |
@@ -31012,6 +31015,7 @@ Here's a list of public Fediverse services.
 | `rebootcyber.xyz` | No |
 | `rebooted.cc` | No |
 | `rebtoor.com` | Yes |
+| `recast.fyi` | No |
 | `recentic.com` | Yes |
 | `recentic.net` | Yes |
 | `recetasbellas.com` | No |
@@ -42544,8 +42548,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,826 |
-| Normal | 31,675 |
+| Cloudflare | 10,827 |
+| Normal | 31,678 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
