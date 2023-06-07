@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,453 |
+| com | 6,455 |
 | social | 4,092 |
 | net | 3,260 |
 | org | 2,245 |
@@ -1306,6 +1306,7 @@ Here's a list of public Fediverse services.
 | `akebonozo.com` | No |
 | `akerbaek.no` | No |
 | `akhepcat.com` | No |
+| `akhil.io` | Yes |
 | `aki-null.net` | Yes |
 | `akiba-fan.com` | No |
 | `akiba.ninja` | No |
@@ -2928,6 +2929,7 @@ Here's a list of public Fediverse services.
 | `avalos.me` | No |
 | `avancee.agency` | No |
 | `avantwhatever.org` | No |
+| `avantwhatever.xyz` | No |
 | `avapxia.tk` | No |
 | `avare.com.tr` | Yes |
 | `avareborn.de` | Yes |
@@ -6604,6 +6606,7 @@ Here's a list of public Fediverse services.
 | `cmx.ee` | Yes |
 | `cmx.im` | Yes |
 | `cmx.rocks` | No |
+| `cmzi.uk` | Yes |
 | `cncn.ch` | No |
 | `cncs.io` | No |
 | `cnet.site` | Yes |
@@ -15574,6 +15577,7 @@ Here's a list of public Fediverse services.
 | `hirtz.pm` | No |
 | `hirtzfr.eu` | No |
 | `hiruandon.life` | No |
+| `hirunohi.com` | No |
 | `his-hoes.uk` | No |
 | `hisaac.net` | No |
 | `hispagatos.org` | Yes |
@@ -19778,6 +19782,7 @@ Here's a list of public Fediverse services.
 | `lab.nrw` | No |
 | `lab61.org` | No |
 | `labalagan.fr` | No |
+| `labdegato.com` | Yes |
 | `labki.net` | No |
 | `lablus.com` | No |
 | `labmonkeys.space` | No |
@@ -29892,6 +29897,7 @@ Here's a list of public Fediverse services.
 | `programmer.technology` | No |
 | `programmer.town` | No |
 | `programmer1.com` | No |
+| `programming.dev` | No |
 | `programmingsocks.com` | No |
 | `progressiv.dev` | No |
 | `progressivecafe.social` | No |
@@ -42535,8 +42541,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,822 |
-| Normal | 31,670 |
+| Cloudflare | 10,825 |
+| Normal | 31,673 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
