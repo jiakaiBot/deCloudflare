@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,453 |
 | social | 4,092 |
 | net | 3,260 |
-| org | 2,244 |
+| org | 2,245 |
 | de | 2,136 |
 
 
@@ -19906,7 +19906,7 @@ Here's a list of public Fediverse services.
 | `lambda.social` | No |
 | `lambdaschmiede.social` | No |
 | `lambdashire.com` | No |
-| `lambdon.social` | No |
+| `lambdon.social` | Yes |
 | `lambertz.xyz` | No |
 | `lambethmedia.xyz` | No |
 | `lambright.com` | Yes |
@@ -22886,6 +22886,7 @@ Here's a list of public Fediverse services.
 | `maymeow.social` | No |
 | `mayobus.me` | No |
 | `mayodon.club` | No |
+| `mayoi.org` | Yes |
 | `mayson.us` | No |
 | `mayvaneday.art` | No |
 | `maywood.me` | Yes |
@@ -37812,7 +37813,7 @@ Here's a list of public Fediverse services.
 | `toot.cat` | No |
 | `toot.center` | Yes |
 | `toot.cf` | No |
-| `toot.chat` | No |
+| `toot.chat` | Yes |
 | `toot.click` | No |
 | `toot.cloud` | Yes |
 | `toot.com.es` | No |
@@ -42534,8 +42535,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,819 |
-| Normal | 31,672 |
+| Cloudflare | 10,822 |
+| Normal | 31,670 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
