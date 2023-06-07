@@ -69,7 +69,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | boje8.me | Yes |
 | bosco.ovh | No |
 | brahma.world | Yes |
-| bsh4.com | Yes |
 | c-dns.com | No |
 | carson-family.com | Yes |
 | cbio.top | Yes |
@@ -130,7 +129,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | duckdns.org | Yes |
 | dukun.de | No |
 | dutchwhite.nl | No |
-| dyndns.org | No |
 | ebner.tech | Yes |
 | edgy-dns.com | No |
 | edison42.dev | No |
@@ -188,7 +186,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | in-berlin.de | No |
 | indust.me | Yes |
 | inria.fr | No |
-| invisv.com | No |
 | ipv6dns.com | No |
 | irre.li | No |
 | itdept.pro | Yes |
@@ -207,7 +204,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | kescher.at | No |
 | ketan.dev | Yes |
 | keweon.center | No |
-| kilabit.info | No |
 | killtw.im | Yes |
 | kinergetica.com | Yes |
 | konikoni428.com | Yes |
@@ -330,7 +326,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | slinkyman.net | Yes |
 | sntrk.ru | Yes |
 | softcom.net | No |
-| spaceindex.net | No |
 | spectrum.com | Yes |
 | spil.co.id | Yes |
 | spyrisk.fr | Yes |
@@ -350,7 +345,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | techeasy.org | Yes |
 | telekom.de | Yes |
 | teradns.org | Yes |
-| terumi.club | No |
 | tezoi.com | No |
 | therifleman.name | No |
 | tiar.app | No |
@@ -398,7 +392,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | youni.win | Yes |
 | yovbak.com | No |
 | yunmoc.top | Yes |
-| zhhz.cc | Yes |
 | zxcvb.pp.ua | Yes |
 | zxi7.cn | No |
 
@@ -407,8 +400,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 196 |
-| Normal | 192 |
+| Cloudflare | 194 |
+| Normal | 187 |
 
 
-### 50.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
