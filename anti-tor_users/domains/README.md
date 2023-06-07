@@ -1,1 +1,2 @@
-# This object was moved to https://0xacab.org/my-privacy-dns/antitor_domains
+# This object was moved to
+# https://0xacab.org/my-privacy-dns/antitor_domains
