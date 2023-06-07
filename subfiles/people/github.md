@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Node error Importing a react-pdf component into page using new nextjs app directory](https://github.com/diegomura/react-pdf/issues/2327)
+- [Cloudflare blocks RSS reader from accessing RSS/Atom feeds](https://github.com/PCSX2/pcsx2-net-www/issues/233)
 - [How To Handle 'Invalid Script Name' Error from Cloudflare](https://github.com/jcsalterego/Contrails/issues/5)
 - [SRV Records of Moonlight Domains](https://github.com/Moonlight-Panel/Moonlight/issues/141)
 - [CloudFlare Cloudflare API service intermittent issues](https://github.com/MatBenfield/news/issues/14959)
