@@ -21076,6 +21076,7 @@ Here's a list of public Fediverse services.
 | `longden.me` | No |
 | `longlandclan.id.au` | No |
 | `longlines.org` | No |
+| `longmontsocial.club` | No |
 | `longmusic.com` | No |
 | `longreads.com` | No |
 | `longtom.party` | No |
@@ -42543,7 +42544,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,826 |
-| Normal | 31,673 |
+| Normal | 31,674 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
