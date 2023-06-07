@@ -18996,6 +18996,7 @@ Here's a list of public Fediverse services.
 | `kira-sei.com` | Yes |
 | `kira.zone` | Yes |
 | `kiraako.work` | No |
+| `kiracollie.dog` | No |
 | `kirakiratter.com` | Yes |
 | `kiran.dog` | No |
 | `kiranshila.com` | No |
@@ -42526,7 +42527,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,783 |
-| Normal | 31,699 |
+| Normal | 31,700 |
 
 
 ### 25.4% of public Fediverse services are using Cloudflare.
