@@ -24529,6 +24529,7 @@ Here's a list of public Fediverse services.
 | `mrn.bz` | No |
 | `mrnd.xyz` | No |
 | `mrnet.pt` | Yes |
+| `mrnf.me` | No |
 | `mro.name` | No |
 | `mrotek.xyz` | No |
 | `mrow.space` | Yes |
@@ -42509,7 +42510,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,778 |
-| Normal | 31,687 |
+| Normal | 31,688 |
 
 
 ### 25.4% of public Fediverse services are using Cloudflare.
