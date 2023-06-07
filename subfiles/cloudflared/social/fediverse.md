@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,092 |
 | net | 3,260 |
 | org | 2,245 |
-| de | 2,136 |
+| de | 2,137 |
 
 
 - Mastodon, Pleroma, etc
@@ -13225,7 +13225,7 @@ Here's a list of public Fediverse services.
 | `gadgeteer.co.za` | Yes |
 | `gadgetgedanken.de` | No |
 | `gadgetoid.com` | Yes |
-| `gadsen.net` | No |
+| `gadsen.net` | Yes |
 | `gaeilge.social` | No |
 | `gaelicwizard.net` | No |
 | `gafamfree.party` | No |
@@ -22076,6 +22076,7 @@ Here's a list of public Fediverse services.
 | `marupost.jp` | No |
 | `marussy.com` | No |
 | `marutani.xyz` | No |
+| `marv1n.de` | No |
 | `marvin.saarland` | No |
 | `marvins.site` | No |
 | `marx.gay` | Yes |
@@ -42541,7 +42542,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,825 |
+| Cloudflare | 10,826 |
 | Normal | 31,673 |
 
 
