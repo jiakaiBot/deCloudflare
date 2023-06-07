@@ -148,6 +148,7 @@
     - [February](nameservers/2023-02.md)
     - [March](nameservers/2023-03.md)
     - [April](nameservers/2023-04.md)
+    - [June](nameservers/2023-06.md)
 - **Cloudflare attracts "repeat infringers"**
   - classics: [CloudFlare attracts "repeat infringers"](classics/repeats.md)
   - `2021`
@@ -170,6 +171,7 @@
     - [February](repeat_infringers/2023-02.md)
     - [March](repeat_infringers/2023-03.md)
     - [April](repeat_infringers/2023-04.md)
+    - [June](repeat_infringers/2023-06.md)
 - **Shared on**
   - [Shared on Twitter](shared_on_twitter.md)
   - [Shared on Mastodon](shared_on_mastodon.md)
