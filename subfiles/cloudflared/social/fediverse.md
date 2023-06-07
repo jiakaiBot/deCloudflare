@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,453 |
-| social | 4,091 |
+| social | 4,092 |
 | net | 3,260 |
 | org | 2,244 |
 | de | 2,136 |
@@ -12051,7 +12051,7 @@ Here's a list of public Fediverse services.
 | `firobe.fr` | No |
 | `firr.cam` | No |
 | `firstforest.jp` | No |
-| `firstmountainenterprises.com` | No |
+| `firstmountainenterprises.com` | Yes |
 | `firstpost.de` | No |
 | `firudverse.social` | No |
 | `fish-404.club` | No |
@@ -16662,6 +16662,7 @@ Here's a list of public Fediverse services.
 | `indoverse.nl` | Yes |
 | `inductive.space` | No |
 | `indulgent.art` | No |
+| `indw.blog` | No |
 | `indy.im` | No |
 | `indyjp.club` | No |
 | `indymotion.fr` | No |
@@ -34058,6 +34059,7 @@ Here's a list of public Fediverse services.
 | `slut.systems` | No |
 | `slut.town` | No |
 | `slv-valbonne.fr` | No |
+| `slvn.social` | No |
 | `slvtv.fr` | No |
 | `sly.dev` | No |
 | `slyversoft.fr` | No |
@@ -35064,6 +35066,7 @@ Here's a list of public Fediverse services.
 | `starkov.site` | No |
 | `starlifter.tv` | Yes |
 | `starlight.camp` | Yes |
+| `starlightkel.xyz` | No |
 | `starlilyth.net` | No |
 | `starlink.cz` | No |
 | `starlit.city` | No |
@@ -40756,6 +40759,7 @@ Here's a list of public Fediverse services.
 | `winblad.io` | Yes |
 | `winchester.social` | Yes |
 | `windbag.org` | No |
+| `windevsystems.us` | Yes |
 | `windfluechter.org` | No |
 | `windhamcountyvt.gov` | No |
 | `windhearth.com` | No |
@@ -42530,8 +42534,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,817 |
-| Normal | 31,670 |
+| Cloudflare | 10,819 |
+| Normal | 31,672 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
