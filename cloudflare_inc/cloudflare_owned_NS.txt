@@ -659,6 +659,7 @@ norman.ns.cloudflare.com
 nova.ns.cloudflare.com
 novalee.ns.cloudflare.com
 ns.cloudflare.com
+ns0001.secondary.cloudflare.com
 ns0004.secondary.cloudflare.com
 ns0005.secondary.cloudflare.com
 ns0006.secondary.cloudflare.com
@@ -673,6 +674,7 @@ ns0016.secondary.cloudflare.com
 ns0022.secondary.cloudflare.com
 ns0023.secondary.cloudflare.com
 ns0027.secondary.cloudflare.com
+ns0029.secondary.cloudflare.com
 ns0030.secondary.cloudflare.com
 ns0031.secondary.cloudflare.com
 ns0034.secondary.cloudflare.com
@@ -693,6 +695,7 @@ ns0067.secondary.cloudflare.com
 ns0068.secondary.cloudflare.com
 ns0069.secondary.cloudflare.com
 ns0070.secondary.cloudflare.com
+ns0072.secondary.cloudflare.com
 ns0076.secondary.cloudflare.com
 ns0077.secondary.cloudflare.com
 ns0080.secondary.cloudflare.com
@@ -764,6 +767,7 @@ ns0244.secondary.cloudflare.com
 ns0245.secondary.cloudflare.com
 ns0246.secondary.cloudflare.com
 ns0249.secondary.cloudflare.com
+ns0250.secondary.cloudflare.com
 ns0251.secondary.cloudflare.com
 ns1.cloudflare.com
 ns1.harley.ns.cloudflare.com
