@@ -9232,6 +9232,7 @@ Do not create new issue or we will close it as duplicate.
 | [PHMTRNGHN7@twitter](https://twitter.com/PHMTRNGHN7/status/1385132551627444226) | advertise |
 | [Phmvith80312835@twitter](https://twitter.com/Phmvith80312835/status/1486365589744807938) | advertise |
 | [PhmViTiu2@twitter](https://twitter.com/PhmViTiu2/status/1399360797583634436) | advertise |
+| [phmvnqu23757650@twitter](https://twitter.com/phmvnqu23757650/status/1666352181858156546) | advertise |
 | [PhmVnTr08226514@twitter](https://twitter.com/PhmVnTr08226514/status/1571051899339821062) | advertise |
 | [Phng63117354@twitter](https://twitter.com/Phng63117354/status/1545230140229439489) | advertise |
 | [PhngHun67283879@twitter](https://twitter.com/PhngHun67283879/status/1384391072411906048) | advertise |
