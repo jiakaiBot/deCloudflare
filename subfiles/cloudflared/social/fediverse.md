@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,463 |
 | social | 4,094 |
 | net | 3,263 |
-| org | 2,246 |
+| org | 2,248 |
 | de | 2,138 |
 
 
@@ -995,6 +995,7 @@ Here's a list of public Fediverse services.
 | `addesp.com` | Yes |
 | `addicted.social` | No |
 | `addictiv.ink` | No |
+| `addictmud.org` | No |
 | `addy.gg` | Yes |
 | `addyadds.us` | No |
 | `adef.xyz` | No |
@@ -2876,6 +2877,7 @@ Here's a list of public Fediverse services.
 | `ausretrogamer.com` | No |
 | `ausrineblackthorn.com` | No |
 | `aussie-bbq.com` | No |
+| `aussie.zone` | Yes |
 | `aussiebondage.au` | Yes |
 | `austdns.com` | No |
 | `austin.community` | No |
@@ -7746,7 +7748,7 @@ Here's a list of public Fediverse services.
 | `cyberdeck.cf` | No |
 | `cyberdeck.social` | No |
 | `cyberdelia.com.ar` | No |
-| `cyberdelia.space` | No |
+| `cyberdelia.space` | Yes |
 | `cyberdolphin.space` | No |
 | `cyberdruids.club` | No |
 | `cyberdungeon.de` | No |
@@ -10045,7 +10047,7 @@ Here's a list of public Fediverse services.
 | `ebiryu.tech` | No |
 | `ebisu.me` | No |
 | `eble.name` | No |
-| `ebnar.xyz` | No |
+| `ebnar.xyz` | Yes |
 | `eboboserver.ru` | Yes |
 | `eboks.social` | No |
 | `ebola.moe` | No |
@@ -10803,6 +10805,7 @@ Here's a list of public Fediverse services.
 | `eridi.us` | No |
 | `erikkemp.eu` | No |
 | `erikxxon.se` | No |
+| `eriqcobra.com.br` | Yes |
 | `erirun.net` | No |
 | `eris.moe` | No |
 | `eris.social` | Yes |
@@ -15937,6 +15940,7 @@ Here's a list of public Fediverse services.
 | `houchouas.name` | No |
 | `houghton.media` | Yes |
 | `houngbo.net` | No |
+| `houps.eu` | Yes |
 | `house-of.xyz` | No |
 | `housecat.dog` | No |
 | `housegoater.co.uk` | No |
@@ -17140,6 +17144,7 @@ Here's a list of public Fediverse services.
 | `isma.to` | No |
 | `isman.fr` | No |
 | `ismus.net` | No |
+| `isnot.coffee` | No |
 | `isnot.online` | No |
 | `isnotvery.social` | No |
 | `isnowglobal.com` | Yes |
@@ -20289,6 +20294,7 @@ Here's a list of public Fediverse services.
 | `lemmy.studio` | No |
 | `lemmy.today` | No |
 | `lemmy.world` | No |
+| `lemmyfly.org` | No |
 | `lemmygrad.com` | No |
 | `lemmygrad.ml` | No |
 | `lemmyrs.org` | No |
@@ -20658,6 +20664,7 @@ Here's a list of public Fediverse services.
 | `liliputech.com` | No |
 | `liliputing.com` | Yes |
 | `liliso.com` | Yes |
+| `lilith.codes` | Yes |
 | `lilith.im` | No |
 | `lilithsaintcrow.com` | Yes |
 | `lilledame.nl` | No |
@@ -23567,6 +23574,7 @@ Here's a list of public Fediverse services.
 | `migennes.net` | No |
 | `miggle.net` | No |
 | `mightly.space` | Yes |
+| `mightywolf.ch` | No |
 | `miguelcr.me` | No |
 | `migueloteroiglesias.eu` | Yes |
 | `mihalis.net` | No |
@@ -23849,6 +23857,7 @@ Here's a list of public Fediverse services.
 | `misskey.city` | Yes |
 | `misskey.cloud` | Yes |
 | `misskey.club` | Yes |
+| `misskey.day` | No |
 | `misskey.de` | No |
 | `misskey.design` | Yes |
 | `misskey.dev` | Yes |
@@ -26793,6 +26802,7 @@ Here's a list of public Fediverse services.
 | `nstr.se` | Yes |
 | `nsupdate.info` | Yes |
 | `nsw.social` | No |
+| `nsw2.xyz` | Yes |
 | `ntauthority.me` | Yes |
 | `nth.io` | Yes |
 | `nthia.dev` | No |
@@ -38844,6 +38854,7 @@ Here's a list of public Fediverse services.
 | `uc-netcorsoft.de` | No |
 | `ucb.social` | Yes |
 | `ucc.asn.au` | Yes |
+| `uchinoko.club` | Yes |
 | `uchujin.co.uk` | No |
 | `uckermark-blog.de` | No |
 | `uckermark.social` | No |
@@ -42569,8 +42580,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,834 |
-| Normal | 31,692 |
+| Cloudflare | 10,842 |
+| Normal | 31,695 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
