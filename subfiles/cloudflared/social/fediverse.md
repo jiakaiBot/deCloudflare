@@ -39810,6 +39810,7 @@ Here's a list of public Fediverse services.
 | `vintageracing.social` | No |
 | `vinyl-41.de` | No |
 | `vinylor.com` | Yes |
+| `vinzant.me` | No |
 | `vinzenz.social` | No |
 | `vinzv.space` | No |
 | `violaine.xyz` | No |
@@ -42583,7 +42584,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,843 |
-| Normal | 31,696 |
+| Normal | 31,697 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
