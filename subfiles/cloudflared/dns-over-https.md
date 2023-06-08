@@ -177,6 +177,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hoerli.net | Yes |
 | hoofoo.icu | Yes |
 | hopto.org | Yes |
+| hostingim.com | Yes |
 | hostux.net | No |
 | huque.com | No |
 | i81.ru | No |
@@ -409,8 +410,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 200 |
+| Cloudflare | 201 |
 | Normal | 190 |
 
 
-### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
