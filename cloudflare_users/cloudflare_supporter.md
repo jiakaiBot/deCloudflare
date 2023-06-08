@@ -3662,6 +3662,7 @@ Do not create new issue or we will close it as duplicate.
 | [GeorgeMichaelH7@twitter](https://twitter.com/GeorgeMichaelH7/status/1551655020944318469) | advertise |
 | [georgeyotov@twitter](https://twitter.com/georgeyotov/status/1564823393417187328) | advertise |
 | [Geoxis_co@twitter](https://twitter.com/Geoxis_co/status/1442723657147506693) | advertise |
+| [GermanMaretto@twitter](https://twitter.com/GermanMaretto/status/1666795438668750848) | advertise |
 | [Germanyme150598@twitter](https://twitter.com/Germanyme150598/status/1533276349946662912) | advertise |
 | [gerrypedraz@twitter](https://twitter.com/gerrypedraz/status/1662095541327503361) | advertise |
 | [Getamped2N@twitter](https://twitter.com/Getamped2N/status/1628678928956268545) | advertise |
@@ -5902,8 +5903,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
