@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,457 |
+| com | 6,458 |
 | social | 4,092 |
 | net | 3,260 |
 | org | 2,245 |
@@ -10560,6 +10560,7 @@ Here's a list of public Fediverse services.
 | `enbies.space` | Yes |
 | `enby-box.de` | No |
 | `enby.club` | No |
+| `enby.life` | No |
 | `enby.site` | Yes |
 | `enby.space` | No |
 | `enby.town` | No |
@@ -20402,6 +20403,7 @@ Here's a list of public Fediverse services.
 | `levant.social` | No |
 | `level8tech.com` | Yes |
 | `level99.club` | No |
+| `levelxstudios.live` | No |
 | `levelxstudios.org` | No |
 | `leverburns.blue` | No |
 | `leverger.ovh` | No |
@@ -23828,6 +23830,7 @@ Here's a list of public Fediverse services.
 | `mission1701.com` | Yes |
 | `missionbendtx.net` | Yes |
 | `missioncontrol.social` | No |
+| `misskey-dabansky.com` | No |
 | `misskey-experiment.tokyo` | No |
 | `misskey-forkbomb.cf` | Yes |
 | `misskey.ai` | No |
@@ -42549,7 +42552,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,827 |
-| Normal | 31,678 |
+| Normal | 31,681 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
