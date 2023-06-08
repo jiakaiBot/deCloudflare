@@ -8310,6 +8310,7 @@ Do not create new issue or we will close it as duplicate.
 | [NgcThng76202493@twitter](https://twitter.com/NgcThng76202493/status/1393416142945878017) | advertise |
 | [NgcThnh94267200@twitter](https://twitter.com/NgcThnh94267200/status/1405698642988572677) | advertise |
 | [NgDUManh16@twitter](https://twitter.com/NgDUManh16/status/1631677706680299523) | advertise |
+| [ngeelyne@twitter](https://twitter.com/ngeelyne/status/1666622836461699072) | advertise |
 | [ngelay883452@twitter](https://twitter.com/ngelay883452/status/1555588594697248768) | advertise |
 | [ngelsanmar@twitter](https://twitter.com/ngelsanmar/status/1594442537032450048) | advertise |
 | [NGenderless@twitter](https://twitter.com/NGenderless/status/1404418420993499142) | advertise |
@@ -10315,6 +10316,7 @@ Do not create new issue or we will close it as duplicate.
 | [Samurai_Slug@twitter](https://twitter.com/Samurai_Slug/status/1642682467030106113) | advertise |
 | [SamyoFox@twitter](https://twitter.com/SamyoFox/status/1445761137534930952) | advertise |
 | [Sam_Arun_94@twitter](https://twitter.com/Sam_Arun_94/status/1388760215282065413) | advertise |
+| [sam_Br_Ba@twitter](https://twitter.com/sam_Br_Ba/status/1666579606340550656) | advertise |
 | [San28038087@twitter](https://twitter.com/San28038087/status/1477529662368612354) | advertise |
 | [SanAung14327110@twitter](https://twitter.com/SanAung14327110/status/1552366701349462016) | advertise |
 | [sanba06c@twitter](https://twitter.com/sanba06c/status/1541455979132334081) | advertise |
