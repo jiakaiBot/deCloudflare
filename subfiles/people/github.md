@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [When downloading dotnet-install.ps1 is blocked by Cloudflare the raw html of the url is downloaded instead](https://github.com/dotnet/vscode-dotnet-runtime/issues/917)
 - [Shopify CLI 2.x is deprecated, and there is no equivalent of shopify2 app serve in CLI 3.x ?](https://github.com/Shopify/shopify-marketplaces-admin-app/issues/55)
 - [Change Exposed Port](https://github.com/modem7/docker-rickroll/issues/49)
 - [ps account 6.2.3 caused timeouts when logging into back end admin](https://github.com/PrestaShop/PrestaShop/issues/32857)
