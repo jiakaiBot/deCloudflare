@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [No way to avoid the Cloudflare Captcha challenge now](https://github.com/nonvegan/streamlink-plugin-kick/issues/7)
 - [The queue button doesnt work](https://github.com/Krutyi-4el/DandelionMusic/issues/45)
 - [check link is exist](https://github.com/juev/getpocket-collector/issues/9)
 - [Fix this source es.mtlnovel.com](https://github.com/dipu-bd/lightnovel-crawler/issues/1974)
