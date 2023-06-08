@@ -10460,6 +10460,7 @@ Here's a list of public Fediverse services.
 | `elonsucks.org` | Yes |
 | `eloquer.de` | No |
 | `elouworld.org` | No |
+| `eloyou.online` | Yes |
 | `elqhost.net` | No |
 | `elreino.online` | Yes |
 | `elrod.me` | Yes |
@@ -42568,7 +42569,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,833 |
+| Cloudflare | 10,834 |
 | Normal | 31,692 |
 
 
