@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,463 |
-| social | 4,094 |
+| social | 4,095 |
 | net | 3,264 |
 | org | 2,248 |
 | de | 2,138 |
@@ -26138,6 +26138,7 @@ Here's a list of public Fediverse services.
 | `nigger.tax` | No |
 | `niggers.auction` | No |
 | `night.coffee` | No |
+| `nightcity.bar` | No |
 | `nightcord.de` | Yes |
 | `nightcore.monster` | No |
 | `nightis.land` | No |
@@ -27076,6 +27077,7 @@ Here's a list of public Fediverse services.
 | `obousanmstdn.com` | No |
 | `obrien.ws` | No |
 | `obrowne.eu` | No |
+| `obscura-px.social` | No |
 | `obscuritus.ca` | No |
 | `observatory.blog` | No |
 | `observatory.social` | No |
@@ -42584,7 +42586,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,843 |
-| Normal | 31,697 |
+| Normal | 31,699 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
