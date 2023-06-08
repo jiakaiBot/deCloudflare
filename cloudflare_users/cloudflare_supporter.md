@@ -13599,6 +13599,7 @@ Do not create new issue or we will close it as duplicate.
 | [__romanenko@twitter](https://twitter.com/__romanenko/status/1445082921421918210) | advertise |
 | [__sultan2011@twitter](https://twitter.com/__sultan2011/status/1507724323527790596) | advertise |
 | [__Th3J0k3r__@twitter](https://twitter.com/__Th3J0k3r__/status/1389701604677390343) | advertise |
+| [__vivaldo_@twitter](https://twitter.com/__vivaldo_/status/1666561857031741440) | advertise |
 | [___ktg@twitter](https://twitter.com/___ktg/status/1523053450958807041) | advertise |
 | [_____CHIDI@twitter](https://twitter.com/_____CHIDI/status/1483975163754561541) | advertise |
 
