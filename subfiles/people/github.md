@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Kolibri public APIs aren't properly ignoring language settings](https://github.com/learningequality/studio/issues/4118)
 - [RFC - Automating Updates of User Status in our Backend](https://github.com/Real-Dev-Squad/website-backend/issues/1148)
 - [Disk logging seems broken in 2.2.5.1538](https://github.com/win-acme/win-acme/issues/2395)
 - [No way to avoid the Cloudflare Captcha challenge now](https://github.com/nonvegan/streamlink-plugin-kick/issues/7)
