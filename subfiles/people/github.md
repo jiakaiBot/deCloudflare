@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Site is down.](https://github.com/Not-Quite-RARBG/main/issues/50)
 - [Kolibri public APIs aren't properly ignoring language settings](https://github.com/learningequality/studio/issues/4118)
 - [RFC - Automating Updates of User Status in our Backend](https://github.com/Real-Dev-Squad/website-backend/issues/1148)
 - [Disk logging seems broken in 2.2.5.1538](https://github.com/win-acme/win-acme/issues/2395)
