@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,462 |
+| com | 6,463 |
 | social | 4,094 |
 | net | 3,263 |
 | org | 2,246 |
@@ -16918,7 +16918,6 @@ Here's a list of public Fediverse services.
 | `interzone.tw` | Yes |
 | `inthebeliefofbetter.social` | No |
 | `inthecatsdreams.xyz` | No |
-| `inthedeltawaves.blog` | No |
 | `inthedeltawaves.social` | No |
 | `intheirprime.moe` | No |
 | `intherain.club` | No |
@@ -30116,6 +30115,7 @@ Here's a list of public Fediverse services.
 | `pug.social` | No |
 | `pugly.org` | Yes |
 | `pugritos.cloud` | No |
+| `puhtahtoe.com` | Yes |
 | `pukima.site` | Yes |
 | `pulala.net` | Yes |
 | `puliaiev.com` | No |
@@ -42566,8 +42566,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,831 |
-| Normal | 31,692 |
+| Cloudflare | 10,832 |
+| Normal | 31,691 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
