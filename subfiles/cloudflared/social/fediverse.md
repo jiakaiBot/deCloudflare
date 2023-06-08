@@ -1826,6 +1826,7 @@ Here's a list of public Fediverse services.
 | `anarchyplanet.org` | No |
 | `anarela.cyou` | No |
 | `anarkis.net` | No |
+| `anarres.family` | No |
 | `anarshy.social` | No |
 | `anartist.org` | No |
 | `anartist.world` | No |
@@ -9498,6 +9499,7 @@ Here's a list of public Fediverse services.
 | `dorkfarm.com` | No |
 | `dorknet.app` | No |
 | `dorland.dk` | Yes |
+| `dormi.zone` | No |
 | `dorniok.xyz` | No |
 | `doronko.club` | No |
 | `dorothy.day` | No |
@@ -34498,7 +34500,7 @@ Here's a list of public Fediverse services.
 | `solchefreu.de` | No |
 | `soldyn.net` | Yes |
 | `soleus.nu` | No |
-| `solhack.com` | No |
+| `solhack.com` | Yes |
 | `soli0222.com` | Yes |
 | `solibre.de` | No |
 | `solidaires.org` | No |
@@ -42566,8 +42568,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,832 |
-| Normal | 31,691 |
+| Cloudflare | 10,833 |
+| Normal | 31,692 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
