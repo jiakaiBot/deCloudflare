@@ -41193,6 +41193,7 @@ Here's a list of public Fediverse services.
 | `wsmedia.org` | Yes |
 | `wsoft.ws` | Yes |
 | `wsoom.social` | No |
+| `wspanialy.eu` | Yes |
 | `wsring.net` | No |
 | `wssmagazine.com` | Yes |
 | `wsup.social` | No |
@@ -42581,7 +42582,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,842 |
+| Cloudflare | 10,843 |
 | Normal | 31,696 |
 
 
