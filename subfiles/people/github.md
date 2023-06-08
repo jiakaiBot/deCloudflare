@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Shopify CLI 2.x is deprecated, and there is no equivalent of shopify2 app serve in CLI 3.x ?](https://github.com/Shopify/shopify-marketplaces-admin-app/issues/55)
 - [Change Exposed Port](https://github.com/modem7/docker-rickroll/issues/49)
 - [ps account 6.2.3 caused timeouts when logging into back end admin](https://github.com/PrestaShop/PrestaShop/issues/32857)
 - [Node error Importing a react-pdf component into page using new nextjs app directory](https://github.com/diegomura/react-pdf/issues/2327)
