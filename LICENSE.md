@@ -8,7 +8,7 @@ http://crimeflare.eu.org
 # [Crimeflare #deCloudflare](http://crimeflare.eu.org)
 
 - Beware of **modified** mirror sites.
-  - Please try to link to above URL instead of git. ([Here is why](HISTORY.md#other))
+  - Please try to link to above URL instead of git directly. ([Here is why](HISTORY.md#other))
 
 
 -----
