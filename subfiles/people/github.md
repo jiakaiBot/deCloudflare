@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Disk logging seems broken in 2.2.5.1538](https://github.com/win-acme/win-acme/issues/2395)
 - [No way to avoid the Cloudflare Captcha challenge now](https://github.com/nonvegan/streamlink-plugin-kick/issues/7)
 - [The queue button doesnt work](https://github.com/Krutyi-4el/DandelionMusic/issues/45)
 - [check link is exist](https://github.com/juev/getpocket-collector/issues/9)
