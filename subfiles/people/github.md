@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [The queue button doesnt work](https://github.com/Krutyi-4el/DandelionMusic/issues/45)
+- [check link is exist](https://github.com/juev/getpocket-collector/issues/9)
+- [Fix this source es.mtlnovel.com](https://github.com/dipu-bd/lightnovel-crawler/issues/1974)
 - [Repository does not have a release file](https://github.com/pterodactyl-installer/pterodactyl-installer/issues/412)
 - [When downloading dotnet-install.ps1 is blocked by Cloudflare the raw html of the url is downloaded instead](https://github.com/dotnet/vscode-dotnet-runtime/issues/917)
 - [Shopify CLI 2.x is deprecated, and there is no equivalent of shopify2 app serve in CLI 3.x ?](https://github.com/Shopify/shopify-marketplaces-admin-app/issues/55)
