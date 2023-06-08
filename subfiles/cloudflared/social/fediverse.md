@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,463 |
 | social | 4,094 |
-| net | 3,263 |
+| net | 3,264 |
 | org | 2,248 |
 | de | 2,138 |
 
@@ -41514,6 +41514,7 @@ Here's a list of public Fediverse services.
 | `xn--krsgw--n73t.com` | Yes |
 | `xn--kst.jp` | Yes |
 | `xn--kstenlouis-9db.de` | No |
+| `xn--ldt-qla.net` | No |
 | `xn--lkka-gra.com` | No |
 | `xn--lofll-1sat.is` | No |
 | `xn--m1a0b.net` | No |
@@ -42581,7 +42582,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,842 |
-| Normal | 31,695 |
+| Normal | 31,696 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
