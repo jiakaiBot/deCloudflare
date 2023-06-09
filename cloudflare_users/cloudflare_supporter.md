@@ -13325,6 +13325,7 @@ Do not create new issue or we will close it as duplicate.
 | [Zakarias7i@twitter](https://twitter.com/Zakarias7i/status/1403217695596847105) | advertise |
 | [ZakiAhmadi23230@twitter](https://twitter.com/ZakiAhmadi23230/status/1606978457149259778) | advertise |
 | [zalaankapoy@twitter](https://twitter.com/zalaankapoy/status/1567544093475241984) | advertise |
+| [zamanwritey1@twitter](https://twitter.com/zamanwritey1/status/1666607048388382720) | advertise |
 | [ZanYar4hmad1@twitter](https://twitter.com/ZanYar4hmad1/status/1594739806545874947) | advertise |
 | [zan_wine@twitter](https://twitter.com/zan_wine/status/1389881186852372481) | advertise |
 | [Zarchi44269885@twitter](https://twitter.com/Zarchi44269885/status/1392878000153186305) | advertise |
