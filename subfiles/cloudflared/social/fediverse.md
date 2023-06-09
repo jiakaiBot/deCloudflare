@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,468 |
-| social | 4,100 |
+| social | 4,101 |
 | net | 3,264 |
 | org | 2,248 |
 | de | 2,140 |
@@ -17609,6 +17609,7 @@ Here's a list of public Fediverse services.
 | `jboi.nl` | Yes |
 | `jbonomi.dev` | Yes |
 | `jbox.com.br` | Yes |
+| `jbradaric.me` | No |
 | `jbstans.social` | No |
 | `jbstockimages.com` | No |
 | `jbx.com` | No |
@@ -20337,7 +20338,7 @@ Here's a list of public Fediverse services.
 | `lenny.ninja` | Yes |
 | `lennys.quest` | No |
 | `lennysh.com` | No |
-| `leno3s.net` | No |
+| `leno3s.net` | Yes |
 | `lenote.eu` | No |
 | `lenuxde.net` | No |
 | `lenzg.net` | No |
@@ -33507,6 +33508,7 @@ Here's a list of public Fediverse services.
 | `shinenelson.com` | No |
 | `shinkai.party` | Yes |
 | `shinkaifan.com` | No |
+| `shinobu.space` | Yes |
 | `shinomin.me` | Yes |
 | `shinomiya.group` | Yes |
 | `shinomoroll.net` | No |
@@ -36391,6 +36393,7 @@ Here's a list of public Fediverse services.
 | `tbrnet.de` | No |
 | `tbrnt.ch` | No |
 | `tbs.social` | Yes |
+| `tbt.social` | Yes |
 | `tbt.wtf` | Yes |
 | `tc.nz` | No |
 | `tcbailey.com` | No |
@@ -42620,7 +42623,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,857 |
+| Cloudflare | 10,860 |
 | Normal | 31,720 |
 
 
