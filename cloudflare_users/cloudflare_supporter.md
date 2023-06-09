@@ -7644,6 +7644,7 @@ Do not create new issue or we will close it as duplicate.
 | [moe_swan@twitter](https://twitter.com/moe_swan/status/1390073956657516551) | advertise |
 | [MogokSanlin@twitter](https://twitter.com/MogokSanlin/status/1387361013016760320) | advertise |
 | [Moh96mm@twitter](https://twitter.com/Moh96mm/status/1385397544260362243) | advertise |
+| [moh61570566@twitter](https://twitter.com/moh61570566/status/1667267607035097089) | advertise |
 | [Mohamad47369@twitter](https://twitter.com/Mohamad47369/status/1575236073651073024) | advertise |
 | [Mohamad15820266@twitter](https://twitter.com/Mohamad15820266/status/1607721986863812608) | advertise |
 | [Mohamad65364700@twitter](https://twitter.com/Mohamad65364700/status/1501280223660331008) | advertise |
@@ -11979,6 +11980,7 @@ Do not create new issue or we will close it as duplicate.
 | [tony10954027@twitter](https://twitter.com/tony10954027/status/1387007617394905093) | advertise |
 | [TONY18321536@twitter](https://twitter.com/TONY18321536/status/1376917756486946817) | advertise |
 | [Tony50592393@twitter](https://twitter.com/Tony50592393/status/1395089034045579266) | advertise |
+| [Tony86078188@twitter](https://twitter.com/Tony86078188/status/1667261207609499649) | advertise |
 | [tonyan1102@twitter](https://twitter.com/tonyan1102/status/1384444690481573889) | advertise |
 | [TonyFerrer11@twitter](https://twitter.com/TonyFerrer11/status/1550658516788002816) | advertise |
 | [tonyspa27781908@twitter](https://twitter.com/tonyspa27781908/status/1604150603198140416) | advertise |
@@ -12105,6 +12107,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrngPhm89696771@twitter](https://twitter.com/TrngPhm89696771/status/1387145888053690373) | advertise |
 | [TrngPho36370888@twitter](https://twitter.com/TrngPho36370888/status/1398188611867004930) | advertise |
 | [TrngThn14284578@twitter](https://twitter.com/TrngThn14284578/status/1561963557524123648) | advertise |
+| [Trnh55136540Quc@twitter](https://twitter.com/Trnh55136540Quc/status/1667253768491249665) | advertise |
 | [Trnh97735635@twitter](https://twitter.com/Trnh97735635/status/1552751472118726657) | advertise |
 | [Trnhmin93832782@twitter](https://twitter.com/Trnhmin93832782/status/1541427659837943808) | advertise |
 | [TrnHngLy18@twitter](https://twitter.com/TrnHngLy18/status/1385581701514940417) | advertise |
@@ -12924,6 +12927,7 @@ Do not create new issue or we will close it as duplicate.
 | [woseokproperty@twitter](https://twitter.com/woseokproperty/status/1390282007041626116) | advertise |
 | [wproadmaps@twitter](https://twitter.com/wproadmaps/status/1541825957178245120) | advertise |
 | [Wp_Xube@twitter](https://twitter.com/Wp_Xube/status/1457203444847038465) | advertise |
+| [wrgCdaCuoqfoFF3@twitter](https://twitter.com/wrgCdaCuoqfoFF3/status/1667260437690486789) | advertise |
 | [wrigli76@twitter](https://twitter.com/wrigli76/status/1592647398827794432) | advertise |
 | [WriteLonger@twitter](https://twitter.com/WriteLonger/status/1379361846314950658) | advertise |
 | [Wrld999Zachs@twitter](https://twitter.com/Wrld999Zachs/status/1603229456558161920) | advertise |
