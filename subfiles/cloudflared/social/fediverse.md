@@ -6829,7 +6829,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9141,6 +9141,7 @@ Here's a list of public Fediverse services.
 | `discoveryone.sh` | No |
 | `discoverypanel.de` | No |
 | `discretos.fr` | No |
+| `discuss.online` | No |
 | `discuss.scot` | Yes |
 | `discuss.systems` | No |
 | `discussion.studio` | No |
@@ -9951,6 +9952,7 @@ Here's a list of public Fediverse services.
 | `dystopian.fun` | No |
 | `dystopian.space` | No |
 | `dystopianfuture.org` | No |
+| `dystopianpresent.club` | Yes |
 | `dystroy.org` | No |
 | `dytrych.cloud` | No |
 | `dytube.com` | No |
@@ -20289,6 +20291,7 @@ Here's a list of public Fediverse services.
 | `lemee.co` | No |
 | `lemel.cc` | No |
 | `lemider.me` | No |
+| `lemm.ee` | Yes |
 | `lemma.tk` | No |
 | `lemmings.me` | No |
 | `lemmy.ca` | No |
@@ -23715,6 +23718,7 @@ Here's a list of public Fediverse services.
 | `mindofjoe.xyz` | No |
 | `mindpalace.io` | Yes |
 | `mindsforge.com` | No |
+| `mindshare.space` | No |
 | `mindyourheadcoop.org` | No |
 | `minecloud.ro` | No |
 | `minecodes.de` | Yes |
@@ -31109,7 +31113,7 @@ Here's a list of public Fediverse services.
 | `redeyes.site` | No |
 | `redfern.is` | Yes |
 | `redfish.ca` | No |
-| `redflag.social` | Yes |
+| `redflag.social` | No |
 | `redfuku.com` | Yes |
 | `redgarterclub.com` | No |
 | `redgate.social` | No |
@@ -42608,8 +42612,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,852 |
-| Normal | 31,713 |
+| Cloudflare | 10,854 |
+| Normal | 31,715 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
