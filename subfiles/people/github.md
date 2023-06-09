@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Custom Nginx Configuration listening port issue](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2993)
 - [Trying to scrape webnovel sites, many are now actively blocking undetected](https://github.com/ultrafunkamsterdam/undetected-chromedriver/issues/1328)
 - [Site is down.](https://github.com/Not-Quite-RARBG/main/issues/50)
 - [Kolibri public APIs aren't properly ignoring language settings](https://github.com/learningequality/studio/issues/4118)
