@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,468 |
 | social | 4,101 |
-| net | 3,264 |
-| org | 2,248 |
+| net | 3,265 |
+| org | 2,250 |
 | de | 2,140 |
 
 
@@ -3460,6 +3460,7 @@ Here's a list of public Fediverse services.
 | `batato.be` | No |
 | `batchats.net` | No |
 | `bath.social` | No |
+| `batlord.org` | Yes |
 | `batsense.net` | Yes |
 | `battleangels.net` | No |
 | `battlefield.social` | No |
@@ -36797,6 +36798,7 @@ Here's a list of public Fediverse services.
 | `tgqvitter.tk` | No |
 | `tgr.lol` | No |
 | `tgragnato.it` | Yes |
+| `tgxn.net` | Yes |
 | `th-pape.de` | No |
 | `th23.org` | No |
 | `th4music.net` | No |
@@ -37231,6 +37233,7 @@ Here's a list of public Fediverse services.
 | `theshrub.org` | No |
 | `thesifr.com` | No |
 | `thesimons.us` | No |
+| `thesimplecorner.org` | No |
 | `thesinalab.de` | No |
 | `thesix.life` | No |
 | `thesix.social` | No |
@@ -42625,8 +42628,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,864 |
-| Normal | 31,718 |
+| Cloudflare | 10,866 |
+| Normal | 31,719 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
