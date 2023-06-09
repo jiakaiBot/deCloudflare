@@ -13494,6 +13494,7 @@ Here's a list of public Fediverse services.
 | `gchq.online` | No |
 | `gclv.es` | No |
 | `gcmastodon.win` | Yes |
+| `gcn.sh` | Yes |
 | `gcreate.jp` | No |
 | `gctxl.com` | No |
 | `gd.social` | No |
@@ -16960,6 +16961,7 @@ Here's a list of public Fediverse services.
 | `inumimi.net` | No |
 | `inux39.me` | Yes |
 | `invalidentry.engineer` | Yes |
+| `invariant-marxism.red` | No |
 | `invariant.social` | Yes |
 | `invasionx.cc` | No |
 | `inventaire.io` | No |
@@ -28338,6 +28340,7 @@ Here's a list of public Fediverse services.
 | `parlez-ici.ca` | No |
 | `parlonslinux.fr` | No |
 | `parocus.de` | No |
+| `parody.town` | No |
 | `parpok.lomza.pl` | Yes |
 | `parrot-ctfs.com` | Yes |
 | `parrygod.club` | No |
@@ -33808,6 +33811,7 @@ Here's a list of public Fediverse services.
 | `simulacra.social` | Yes |
 | `simulacron.de` | No |
 | `simulacrum-emporium.eu` | No |
+| `simulated.town` | Yes |
 | `sina.moe` | No |
 | `sinax.be` | No |
 | `sinblr.com` | No |
@@ -41889,7 +41893,7 @@ Here's a list of public Fediverse services.
 | `yiny.org` | No |
 | `yinzer.city` | No |
 | `yip.computer` | No |
-| `yip.fm` | No |
+| `yip.fm` | Yes |
 | `yip.gay` | No |
 | `yjin.dev` | Yes |
 | `yjk.im` | Yes |
@@ -42600,8 +42604,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,847 |
-| Normal | 31,710 |
+| Cloudflare | 10,850 |
+| Normal | 31,711 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
