@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,464 |
-| social | 4,095 |
+| com | 6,466 |
+| social | 4,096 |
 | net | 3,264 |
 | org | 2,248 |
-| de | 2,139 |
+| de | 2,140 |
 
 
 - Mastodon, Pleroma, etc
@@ -945,6 +945,7 @@ Here's a list of public Fediverse services.
 | `activitypub.actor` | Yes |
 | `activitypub.be` | No |
 | `activitypub.ca` | No |
+| `activitypub.click` | No |
 | `activitypub.eu` | No |
 | `activitypub.rocks` | No |
 | `activitypub.tk` | No |
@@ -6827,7 +6828,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -6924,6 +6925,7 @@ Here's a list of public Fediverse services.
 | `computational.agency` | No |
 | `computational.beauty` | No |
 | `computer-club.online` | Yes |
+| `computer.surgery` | No |
 | `computeralltag.blog` | No |
 | `computerclub.online` | Yes |
 | `computerfairi.es` | Yes |
@@ -6936,6 +6938,7 @@ Here's a list of public Fediverse services.
 | `computerphile.social` | No |
 | `computersocial.club` | No |
 | `computerwerk.org` | No |
+| `compuverse.uk` | Yes |
 | `comradekitty.net` | No |
 | `comradesinarms.social` | No |
 | `comradical.net` | Yes |
@@ -9301,6 +9304,7 @@ Here's a list of public Fediverse services.
 | `dnlm.de` | No |
 | `dnlr.org` | No |
 | `dnlsd.nom.es` | No |
+| `dnns.icu` | No |
 | `dnomis.net` | No |
 | `dns-cloud.net` | Yes |
 | `dns.army` | Yes |
@@ -13316,6 +13320,7 @@ Here's a list of public Fediverse services.
 | `gamerfort.social` | No |
 | `gameropolis.com` | No |
 | `gamerr.cyou` | No |
+| `gamers-pub.de` | No |
 | `gamers.exposed` | No |
 | `gamers.rip` | Yes |
 | `gamers.social` | No |
@@ -16833,6 +16838,7 @@ Here's a list of public Fediverse services.
 | `inreach.net` | Yes |
 | `inred.ink` | No |
 | `inretio.dev` | No |
+| `inrollio.com` | Yes |
 | `inrupt.net` | No |
 | `insanidadpublica.com` | No |
 | `inscope.social` | No |
@@ -20284,6 +20290,7 @@ Here's a list of public Fediverse services.
 | `lemmy.ca` | No |
 | `lemmy.cat` | No |
 | `lemmy.click` | Yes |
+| `lemmy.directory` | Yes |
 | `lemmy.eus` | No |
 | `lemmy.film` | Yes |
 | `lemmy.ml` | No |
@@ -31410,6 +31417,7 @@ Here's a list of public Fediverse services.
 | `revelin.fr` | No |
 | `reverie.club` | Yes |
 | `reversedns.pp.ua` | Yes |
+| `revertron.com` | No |
 | `revilla.pe` | No |
 | `revillas.es` | Yes |
 | `revscottwells.com` | No |
@@ -35873,6 +35881,7 @@ Here's a list of public Fediverse services.
 | `switter.co` | No |
 | `switter.io` | No |
 | `switter.nl` | No |
+| `switter.su` | No |
 | `swj.io` | Yes |
 | `swlr.net` | No |
 | `swmastodon.com` | Yes |
@@ -39460,6 +39469,7 @@ Here's a list of public Fediverse services.
 | `validpostage.com` | Yes |
 | `valinor.fr` | No |
 | `valinor.pw` | No |
+| `valinor.social` | No |
 | `valko.dev` | No |
 | `valkyrie.world` | No |
 | `vallcarca.net` | No |
@@ -40045,6 +40055,7 @@ Here's a list of public Fediverse services.
 | `vraphim.com` | No |
 | `vrc-ins.net` | Yes |
 | `vrc-instance.xyz` | Yes |
+| `vrchat-dev.tech` | No |
 | `vreeman.com` | Yes |
 | `vreign.space` | No |
 | `vries.dev` | Yes |
@@ -42589,8 +42600,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,845 |
-| Normal | 31,701 |
+| Cloudflare | 10,847 |
+| Normal | 31,710 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
