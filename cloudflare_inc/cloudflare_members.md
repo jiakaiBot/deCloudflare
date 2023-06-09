@@ -70,6 +70,7 @@ Or is this merely a case of simple modesty?
 | Addis Sendaba | Customer Success |  |
 | Adena Kirkbride | Customer Development |  |
 | Adi Mukadam | Employee | |
+| Aditi Paul | Employee | |
 | Adrian Phillips | Customer Development |  |
 | Aerene Aphiwatudomkun | Customer Development |  |
 | Ahamed Nafeez | Security |  |
@@ -1391,6 +1392,7 @@ Or is this merely a case of simple modesty?
 | Patryk Szczyglowski | Systems Engineer | Szczygłowski<br>patryk@patryk.net<br>https://twitter.com/epatryk<br>https://blog.patryk.net/<br>https://gitlab.com/epatryk<br>https://www.linkedin.com/in/patryk-szczyglowski/<br>https://github.com/patryk |
 | Paul Bauer | Platform Engineer |  |
 | Paul Cesar | Marketing |  |
+| Paul East | Employee | |
 | Paulo Costa | Employee | |
 | Paul Southwell | Enterprise Sales |  |
 | Paul Taulborg | Employee |  |
@@ -1580,6 +1582,7 @@ Or is this merely a case of simple modesty?
 | Samuel Macleod | Employee | |
 | Samuel Noble | Customer Development |  |
 | Samuel Sathyajith | India and SAARC Region |  |
+| Samuel Vieira | Employee | |
 | Sam Whited | Systems Engineer |  |
 | Sana Jafar | Employee |  |
 | Sandra Sansano | IT Billing Project Manager |  |
