@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,466 |
-| social | 4,096 |
+| com | 6,467 |
+| social | 4,098 |
 | net | 3,264 |
 | org | 2,248 |
 | de | 2,140 |
@@ -6271,6 +6271,7 @@ Here's a list of public Fediverse services.
 | `chromebook.space` | No |
 | `chromic.org` | No |
 | `chromium.social` | No |
+| `chromozone.dev` | Yes |
 | `chronal.net` | No |
 | `chronos-tachyon.net` | No |
 | `chronostase.net` | No |
@@ -18428,6 +18429,7 @@ Here's a list of public Fediverse services.
 | `kalapa.social` | No |
 | `kalasarn.se` | No |
 | `kalckey.com` | Yes |
+| `kale.social` | Yes |
 | `kalebporter.club` | No |
 | `kalecream.com` | Yes |
 | `kaleido.moe` | Yes |
@@ -22154,6 +22156,7 @@ Here's a list of public Fediverse services.
 | `masip.cat` | No |
 | `masked.cloud` | No |
 | `maskneko.com` | No |
+| `masktodon.social` | No |
 | `maslipmat.com` | No |
 | `masochi.st` | No |
 | `mason.org.pl` | No |
@@ -32413,6 +32416,7 @@ Here's a list of public Fediverse services.
 | `samariter.social` | No |
 | `samaschke.social` | Yes |
 | `samathy.space` | No |
+| `sambaspy.com` | No |
 | `samcday.com` | Yes |
 | `samcday.social` | Yes |
 | `samdavies.me` | No |
@@ -42604,8 +42608,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,850 |
-| Normal | 31,711 |
+| Cloudflare | 10,852 |
+| Normal | 31,713 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
