@@ -2907,9 +2907,9 @@ Here's a list of public Fediverse services.
 | `automa.sh` | Yes |
 | `automagiska.se` | Yes |
 | `automario.eu` | No |
-| `automat.click` | No |
+| `automat.click` | Yes |
 | `automat.one` | No |
-| `automat.run` | No |
+| `automat.run` | Yes |
 | `automatica.dev` | Yes |
 | `autonomic.zone` | No |
 | `autonomous-zone.earth` | Yes |
@@ -6207,7 +6207,7 @@ Here's a list of public Fediverse services.
 | `chrisbol.nl` | No |
 | `chrisbues.com` | No |
 | `chrisburnell.com` | Yes |
-| `chrischro.me` | No |
+| `chrischro.me` | Yes |
 | `chrisco.me` | No |
 | `chrisduffley.com` | No |
 | `chrisedwards.tech` | No |
@@ -16927,6 +16927,7 @@ Here's a list of public Fediverse services.
 | `internetofthings.social` | No |
 | `internetplumbing.net` | No |
 | `internetsladd.se` | Yes |
+| `internetstuff.co.uk` | No |
 | `internetstuff.xyz` | Yes |
 | `internot.no` | No |
 | `interocitor.parts` | No |
@@ -23565,6 +23566,7 @@ Here's a list of public Fediverse services.
 | `midnight-cms.com` | No |
 | `midnight.dance` | No |
 | `midnight.delivery` | No |
+| `midnight.miami` | No |
 | `midnightride.rs` | No |
 | `midofnowhere.link` | No |
 | `midori.social` | No |
@@ -28806,7 +28808,7 @@ Here's a list of public Fediverse services.
 | `pfeifling.de` | No |
 | `pffs.net` | No |
 | `pfft.lol` | No |
-| `pfiffer.org` | No |
+| `pfiffer.org` | Yes |
 | `pfiffimus.de` | No |
 | `pflenz.com` | No |
 | `pfoeh.li` | No |
@@ -42623,8 +42625,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,860 |
-| Normal | 31,720 |
+| Cloudflare | 10,864 |
+| Normal | 31,718 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
