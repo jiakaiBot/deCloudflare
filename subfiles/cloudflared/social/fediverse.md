@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,463 |
+| com | 6,464 |
 | social | 4,095 |
 | net | 3,264 |
 | org | 2,248 |
-| de | 2,138 |
+| de | 2,139 |
 
 
 - Mastodon, Pleroma, etc
@@ -19311,6 +19311,7 @@ Here's a list of public Fediverse services.
 | `kokomo.cloud` | Yes |
 | `kokomo.space` | No |
 | `kokonect.link` | No |
+| `kokopi.me` | Yes |
 | `kokoro.garden` | No |
 | `kokoti.org` | No |
 | `kokt.club` | Yes |
@@ -28278,6 +28279,7 @@ Here's a list of public Fediverse services.
 | `papill0n.org` | No |
 | `papotage.club` | Yes |
 | `papote.eu` | Yes |
+| `pappenklatsch.de` | No |
 | `papylhomme.site` | No |
 | `para.watch` | No |
 | `paradigmnetworks.one` | Yes |
@@ -38486,6 +38488,7 @@ Here's a list of public Fediverse services.
 | `tsukubaskey.com` | Yes |
 | `tsukura.net` | No |
 | `tsukuyomi.dev` | Yes |
+| `tsumikey.party` | Yes |
 | `tsun.co` | No |
 | `tsunanmstdn.jp` | No |
 | `tsunde.ru` | No |
@@ -39350,6 +39353,7 @@ Here's a list of public Fediverse services.
 | `usuzakuraya.us` | No |
 | `usvs.xyz` | No |
 | `ut0pia.org` | No |
+| `utanohi.com` | No |
 | `utasansh.in` | No |
 | `utbs.info` | No |
 | `utdoasn.com` | No |
@@ -42585,8 +42589,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,843 |
-| Normal | 31,699 |
+| Cloudflare | 10,845 |
+| Normal | 31,701 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
