@@ -26,5 +26,6 @@ And hey, if you are network administrator do [block Cloudflare](../block_cloudfl
 
 | Type | Value | Note |
 | --- | --- | --- |
-| DNS (UDP) | `65.21.252.201` | - |
-| DNS (TCP) | `65.21.252.201` | TCP is rate-limited softly. |
+| DNS (UDP) | `65.21.252.201` `53/udp` | - |
+| DNS (TCP) | `65.21.252.201` `53/tcp` | TCP is rate-limited softly. |
+| DNS-over-TLS | `karma.crimeflare.eu.org` `853/tcp` | ![](../image/dnsset-dot.jpg) |
