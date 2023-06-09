@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,467 |
+| com | 6,468 |
 | social | 4,098 |
 | net | 3,264 |
 | org | 2,248 |
@@ -27026,6 +27026,7 @@ Here's a list of public Fediverse services.
 | `nyoroooon.xyz` | Yes |
 | `nyoxfox.com` | Yes |
 | `nypost.com` | Yes |
+| `nyquil-babies.com` | Yes |
 | `nyquist.rocks` | No |
 | `nyquist.space` | No |
 | `nyro2.com` | Yes |
@@ -42612,7 +42613,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,854 |
+| Cloudflare | 10,855 |
 | Normal | 31,715 |
 
 
