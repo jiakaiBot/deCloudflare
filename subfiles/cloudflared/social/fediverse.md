@@ -12951,6 +12951,7 @@ Here's a list of public Fediverse services.
 | `fuchs.social` | No |
 | `fuck-man-i-just-want-like-one-friend.xyz` | No |
 | `fuck.ru` | Yes |
+| `fuckc.cf` | No |
 | `fuckedtodeath.net` | No |
 | `fuckfuckfuckfuckfuckfuckfuckfuckfuckfuckfuck.club` | No |
 | `fuckgov.org` | Yes |
@@ -23869,6 +23870,7 @@ Here's a list of public Fediverse services.
 | `mispurchase.com` | No |
 | `miss-myhouse-key.net` | Yes |
 | `missbanal.net` | No |
+| `misscraft.jp` | No |
 | `missing-deadlines.com` | Yes |
 | `mission1701.com` | Yes |
 | `missionbendtx.net` | Yes |
@@ -24583,6 +24585,7 @@ Here's a list of public Fediverse services.
 | `mrclon.net` | No |
 | `mrcol.es` | No |
 | `mrdaft.fr` | No |
+| `mreair.jp` | Yes |
 | `mrelay.link` | No |
 | `mrfunkedude.com` | No |
 | `mrh.io` | No |
@@ -42628,8 +42631,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,866 |
-| Normal | 31,719 |
+| Cloudflare | 10,867 |
+| Normal | 31,721 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
