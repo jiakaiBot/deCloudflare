@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,471 |
-| social | 4,105 |
+| social | 4,106 |
 | net | 3,267 |
 | org | 2,251 |
 | de | 2,144 |
@@ -13261,6 +13261,7 @@ Here's a list of public Fediverse services.
 | `gac.edu` | No |
 | `gadeservesbetter.com` | No |
 | `gadgetboy.org` | Yes |
+| `gadgetboy.social` | Yes |
 | `gadgeteer.co.za` | Yes |
 | `gadgetgedanken.de` | No |
 | `gadgetoid.com` | Yes |
@@ -42666,7 +42667,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,882 |
+| Cloudflare | 10,883 |
 | Normal | 31,741 |
 
 
