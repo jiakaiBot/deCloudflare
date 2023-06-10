@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,469 |
+| com | 6,470 |
 | social | 4,104 |
 | net | 3,266 |
 | org | 2,250 |
@@ -11144,6 +11144,7 @@ Here's a list of public Fediverse services.
 | `expectnomore.net` | No |
 | `expeditionbuster.com` | No |
 | `experienceadvisors.io` | No |
+| `experimentalcraft.com` | No |
 | `experimentaria.com` | No |
 | `expi.studio` | No |
 | `explain-it.org` | No |
@@ -29036,6 +29037,7 @@ Here's a list of public Fediverse services.
 | `pilk.space` | No |
 | `pillarsoffranchising.com` | No |
 | `pillowfort.cafe` | No |
+| `pillowfort.moe` | Yes |
 | `pillowprincess.pink` | No |
 | `pilo.to` | No |
 | `pilot.io` | Yes |
@@ -33154,6 +33156,7 @@ Here's a list of public Fediverse services.
 | `seeingthatwhichis.org` | No |
 | `seejy.ninja` | Yes |
 | `seekahead.eu` | No |
+| `seemel.ink` | No |
 | `seepocke.at` | No |
 | `seerofsouls.xyz` | No |
 | `seerr.dev` | Yes |
@@ -42654,8 +42657,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,877 |
-| Normal | 31,734 |
+| Cloudflare | 10,878 |
+| Normal | 31,736 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
