@@ -11757,6 +11757,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThuanTh58337931@twitter](https://twitter.com/ThuanTh58337931/status/1599055563979386883) | advertise |
 | [Thudanupk1@twitter](https://twitter.com/Thudanupk1/status/1396143299140804609) | advertise |
 | [thugboyzsex@twitter](https://twitter.com/thugboyzsex/status/1474144170021306404) | advertise |
+| [thug_streams@twitter](https://twitter.com/thug_streams/status/1667620271828738048) | advertise |
 | [ThuH06082143@twitter](https://twitter.com/ThuH06082143/status/1403594898092138503) | advertise |
 | [thuhansoe78@twitter](https://twitter.com/thuhansoe78/status/1396387648705417216) | advertise |
 | [ThukaWinThu@twitter](https://twitter.com/ThukaWinThu/status/1391814449846099971) | advertise |
