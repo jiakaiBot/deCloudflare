@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-06-10: [Issue with Bot management traffic categorization for verified bots](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0ytdwbshvpby)
 - 2023-06-09: [Issue with Bot management traffic categorization for verified bots](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/60lmytnc0cbs)
 - 2023-06-06: [Network Performance Issues (Lisbon region)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gzjd356d2w26)
 - 2023-05-31: [Network Performance Issues in Newark, NJ, United States](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/62vll3wz4fs7)
