@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,468 |
+| com | 6,469 |
 | social | 4,101 |
 | net | 3,265 |
 | org | 2,250 |
@@ -20413,6 +20413,7 @@ Here's a list of public Fediverse services.
 | `leskowsky.net` | Yes |
 | `lespocky.de` | No |
 | `lespoesiesdheloise.fr` | No |
+| `less-log.com` | Yes |
 | `less.dk` | No |
 | `less.re` | No |
 | `lessersociety.com` | No |
@@ -42631,7 +42632,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,867 |
+| Cloudflare | 10,868 |
 | Normal | 31,721 |
 
 
