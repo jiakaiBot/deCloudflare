@@ -12888,6 +12888,7 @@ Here's a list of public Fediverse services.
 | `frontrange.co` | Yes |
 | `froop.com` | No |
 | `frootmig.net` | No |
+| `frorayz.tech` | Yes |
 | `frosch03.de` | No |
 | `frost.net` | No |
 | `frostbacks.win` | No |
@@ -42653,7 +42654,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,876 |
+| Cloudflare | 10,877 |
 | Normal | 31,734 |
 
 
