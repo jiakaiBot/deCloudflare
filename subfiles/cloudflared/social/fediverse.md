@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,472 |
 | social | 4,111 |
-| net | 3,268 |
+| net | 3,269 |
 | org | 2,251 |
 | de | 2,145 |
 
@@ -5228,7 +5228,7 @@ Here's a list of public Fediverse services.
 | `byabbe.se` | Yes |
 | `bycreyo.de` | No |
 | `bye.social` | Yes |
-| `byebye.party` | Yes |
+| `byebye.party` | No |
 | `byecasts.com` | Yes |
 | `byecorps.com` | Yes |
 | `byemc.live` | No |
@@ -34812,6 +34812,7 @@ Here's a list of public Fediverse services.
 | `spad.uk` | Yes |
 | `spaetzle.info` | No |
 | `spaghettimonster.church` | No |
+| `spaill.net` | Yes |
 | `spainco.net` | No |
 | `spam.social` | No |
 | `spamalot.one` | Yes |
@@ -42686,7 +42687,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,886 |
-| Normal | 31,756 |
+| Normal | 31,757 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
