@@ -82,7 +82,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | clearviewtechnology.net | No |
 | cloudflare-dns.com | Yes |
 | cloudnx.cloud | Yes |
-| comeonjames.club | Yes |
 | comss.one | No |
 | cretu.xyz | Yes |
 | crypto.sx | Yes |
@@ -158,7 +157,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | gac.edu | No |
 | giize.com | Yes |
 | glorydns.com | Yes |
-| gms.net.id | No |
 | gnb09.id | Yes |
 | goldplate.org | Yes |
 | gosami.xyz | No |
@@ -169,13 +167,10 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hanahira.dev | Yes |
 | haneulo.com | Yes |
 | haoxuan.xyz | Yes |
-| he.net | No |
 | heliumcloud.cc | Yes |
 | hinet.net | Yes |
-| hinytz.com | Yes |
 | hitian.me | Yes |
 | hoerli.net | Yes |
-| hoofoo.icu | Yes |
 | hopto.org | Yes |
 | hostingim.com | Yes |
 | hostux.net | No |
@@ -410,8 +405,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 201 |
-| Normal | 190 |
+| Cloudflare | 198 |
+| Normal | 188 |
 
 
-### 51.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
