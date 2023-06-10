@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,472 |
-| social | 4,110 |
+| social | 4,111 |
 | net | 3,268 |
 | org | 2,251 |
-| de | 2,144 |
+| de | 2,145 |
 
 
 - Mastodon, Pleroma, etc
@@ -1685,6 +1685,7 @@ Here's a list of public Fediverse services.
 | `amanda.systems` | Yes |
 | `amandaquraishi.com` | No |
 | `amane.moe` | Yes |
+| `amanita.zone` | No |
 | `amanite.be` | No |
 | `amanogawa.info` | No |
 | `amanogawa.work` | No |
@@ -17811,6 +17812,7 @@ Here's a list of public Fediverse services.
 | `jifish.co.uk` | No |
 | `jigawatt.io` | No |
 | `jigensha.info` | Yes |
+| `jiggle.club` | No |
 | `jigglypuff.club` | No |
 | `jigmedatse.com` | No |
 | `jihad.icu` | No |
@@ -20442,6 +20444,7 @@ Here's a list of public Fediverse services.
 | `less.dk` | No |
 | `less.re` | No |
 | `lessersociety.com` | No |
+| `lessing.social` | No |
 | `lesswrong.io` | No |
 | `lesterpig.com` | Yes |
 | `lestutosdeprocessus.fr` | Yes |
@@ -25188,6 +25191,7 @@ Here's a list of public Fediverse services.
 | `myifn.de` | No |
 | `myit.cologne` | No |
 | `myjot.net` | No |
+| `myk3s.de` | No |
 | `mykal.social` | Yes |
 | `myke.social` | No |
 | `mylegendary.quest` | Yes |
@@ -42682,7 +42686,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,886 |
-| Normal | 31,752 |
+| Normal | 31,756 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
