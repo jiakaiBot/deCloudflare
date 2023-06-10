@@ -4654,6 +4654,7 @@ Here's a list of public Fediverse services.
 | `bootlicker.world` | No |
 | `bootloader.io` | No |
 | `bootsie.org.uk` | No |
+| `booty.world` | No |
 | `bootybaesquad.uk` | No |
 | `booya.cool` | No |
 | `booyah.dev` | No |
@@ -25681,6 +25682,7 @@ Here's a list of public Fediverse services.
 | `neighborli.xyz` | Yes |
 | `neilcastelino.com` | Yes |
 | `neilzone.co.uk` | No |
+| `nein.club` | No |
 | `neither-nor.net` | No |
 | `neix.at` | No |
 | `nejati.net` | Yes |
@@ -42687,7 +42689,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,886 |
-| Normal | 31,757 |
+| Normal | 31,759 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
