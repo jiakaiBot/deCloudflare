@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,470 |
-| social | 4,104 |
-| net | 3,266 |
+| social | 4,105 |
+| net | 3,267 |
 | org | 2,250 |
 | de | 2,143 |
 
@@ -36684,6 +36684,7 @@ Here's a list of public Fediverse services.
 | `tenjuu.net` | No |
 | `tenka.love` | No |
 | `tenko.ai` | No |
+| `tenkuu.social` | No |
 | `tenna.site` | No |
 | `tennis-friends.com` | No |
 | `tennisfriends.co.uk` | No |
@@ -40260,6 +40261,7 @@ Here's a list of public Fediverse services.
 | `wahorota.life` | No |
 | `wahrheitsministerium.xyz` | No |
 | `wahrscheinlichkeitundmethode.de` | No |
+| `waifoo.net` | No |
 | `waifu.one` | No |
 | `waifu.social` | Yes |
 | `waifu.space` | Yes |
@@ -42658,7 +42660,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,878 |
-| Normal | 31,736 |
+| Normal | 31,738 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
