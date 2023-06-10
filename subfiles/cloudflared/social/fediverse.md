@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,469 |
-| social | 4,103 |
+| social | 4,104 |
 | net | 3,266 |
 | org | 2,250 |
 | de | 2,143 |
@@ -12748,6 +12748,7 @@ Here's a list of public Fediverse services.
 | `frentalk.com` | No |
 | `frentanyl.farm` | No |
 | `frentube.com` | No |
+| `frenversity.social` | Yes |
 | `frequency.app` | Yes |
 | `frequency.network` | No |
 | `frereit.de` | No |
@@ -30484,6 +30485,7 @@ Here's a list of public Fediverse services.
 | `queso.ninja` | No |
 | `quesos.io` | Yes |
 | `quet.ch` | Yes |
+| `quex.cc` | No |
 | `quey.la` | No |
 | `quey.org` | Yes |
 | `quic.fr` | No |
@@ -42651,8 +42653,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,875 |
-| Normal | 31,733 |
+| Cloudflare | 10,876 |
+| Normal | 31,734 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
