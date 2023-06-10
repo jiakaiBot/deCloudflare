@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,471 |
-| social | 4,106 |
-| net | 3,267 |
+| com | 6,472 |
+| social | 4,109 |
+| net | 3,268 |
 | org | 2,251 |
 | de | 2,144 |
 
@@ -3666,6 +3666,7 @@ Here's a list of public Fediverse services.
 | `believeland.social` | Yes |
 | `belkadan.com` | No |
 | `bell.bz` | Yes |
+| `bellamazz.com` | No |
 | `bellefonte.today` | No |
 | `belligerence.club` | No |
 | `belliottsmith.com` | No |
@@ -4054,6 +4055,7 @@ Here's a list of public Fediverse services.
 | `birdcar.dev` | Yes |
 | `birddon.com` | No |
 | `birdiesongauthor.com` | No |
+| `birding.blog` | No |
 | `birdinter.net` | No |
 | `birdity.club` | No |
 | `birdkey.ml` | No |
@@ -9342,6 +9344,7 @@ Here's a list of public Fediverse services.
 | `dobergroup.org.ua` | Yes |
 | `doble.ee` | No |
 | `dobschat.io` | No |
+| `dobu.page` | No |
 | `doby.io` | No |
 | `docampo.net` | No |
 | `dociq.io` | No |
@@ -9565,6 +9568,7 @@ Here's a list of public Fediverse services.
 | `douga.ga` | No |
 | `dougaldog.uk` | No |
 | `dougbeal.com` | No |
+| `dougiverse.io` | Yes |
 | `douglashill.co` | Yes |
 | `dounx.me` | Yes |
 | `douvk.co.uk` | No |
@@ -12431,6 +12435,7 @@ Here's a list of public Fediverse services.
 | `fortunaexmachina.com` | No |
 | `forty-two.nl` | No |
 | `fortyoz.org` | Yes |
+| `fortytwo.site` | No |
 | `forum-lucifer.com` | No |
 | `forumanalogue.fr` | No |
 | `forwriter.homes` | Yes |
@@ -17298,6 +17303,7 @@ Here's a list of public Fediverse services.
 | `itzzen.net` | No |
 | `iu.social` | Yes |
 | `iu0.win` | Yes |
+| `iusearchlinux.fyi` | No |
 | `iut-larochelle.fr` | No |
 | `ivampiresp.com` | Yes |
 | `ivan.computer` | Yes |
@@ -19314,6 +19320,7 @@ Here's a list of public Fediverse services.
 | `kode.cat` | No |
 | `kode54.net` | Yes |
 | `kodein.be` | No |
+| `kodeklang.social` | No |
 | `koder-marin.at` | No |
 | `kodlomrazi.ru` | No |
 | `kodow.net` | Yes |
@@ -20335,9 +20342,11 @@ Here's a list of public Fediverse services.
 | `lemmy.studio` | No |
 | `lemmy.today` | No |
 | `lemmy.world` | No |
+| `lemmy.zip` | No |
 | `lemmyfly.org` | No |
 | `lemmygrad.com` | No |
 | `lemmygrad.ml` | No |
+| `lemmyngs.social` | No |
 | `lemmyrs.org` | No |
 | `lemniskett.dev` | Yes |
 | `lemnoslife.com` | No |
@@ -20985,6 +20994,7 @@ Here's a list of public Fediverse services.
 | `lmdk.co.uk` | Yes |
 | `lmika.org` | No |
 | `lml0608.tech` | No |
+| `lmmy.net` | Yes |
 | `lmnop.social` | No |
 | `lmorchard.com` | No |
 | `lmteams.com` | No |
@@ -39611,6 +39621,7 @@ Here's a list of public Fediverse services.
 | `vasi.li` | No |
 | `vasilakisfil.social` | No |
 | `vasilis.nl` | No |
+| `vastactive.social` | No |
 | `vastodon.com` | No |
 | `vates.tech` | No |
 | `vattenkylaren.se` | No |
@@ -42667,8 +42678,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,883 |
-| Normal | 31,741 |
+| Cloudflare | 10,885 |
+| Normal | 31,750 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
