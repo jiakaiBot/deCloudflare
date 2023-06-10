@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,472 |
-| social | 4,109 |
+| social | 4,110 |
 | net | 3,268 |
 | org | 2,251 |
 | de | 2,144 |
@@ -22117,6 +22117,7 @@ Here's a list of public Fediverse services.
 | `marsam.graphics` | No |
 | `marschik.me` | No |
 | `marsey.club` | No |
+| `marsey.moe` | No |
 | `marshall.house` | No |
 | `marstodon.com` | No |
 | `marsupialgurgle.com` | Yes |
@@ -27791,6 +27792,7 @@ Here's a list of public Fediverse services.
 | `orebrotribune.online` | No |
 | `orebrotribune.org` | No |
 | `oregon33.org` | No |
+| `oregonian.social` | Yes |
 | `oregonlive.com` | Yes |
 | `oreka.online` | No |
 | `orels.sh` | Yes |
@@ -36683,6 +36685,7 @@ Here's a list of public Fediverse services.
 | `telvanni.biz` | No |
 | `telynz.uk` | No |
 | `temet-nosce.fr` | No |
+| `temp.id.au` | No |
 | `tempest.dev` | No |
 | `tempestas-prima.com` | No |
 | `tempkdw.com` | No |
@@ -42678,8 +42681,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,885 |
-| Normal | 31,750 |
+| Cloudflare | 10,886 |
+| Normal | 31,752 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
