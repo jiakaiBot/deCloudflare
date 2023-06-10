@@ -10629,6 +10629,7 @@ Do not create new issue or we will close it as duplicate.
 | [shinthantkyaw2@twitter](https://twitter.com/shinthantkyaw2/status/1385186521293025281) | advertise |
 | [shinyarceuspro@twitter](https://twitter.com/shinyarceuspro/status/1446970189086478337) | advertise |
 | [Shin_jihyun17@twitter](https://twitter.com/Shin_jihyun17/status/1391958578169212934) | advertise |
+| [Shion_BFV@twitter](https://twitter.com/Shion_BFV/status/1667408934041423874) | advertise |
 | [shipman_craig@twitter](https://twitter.com/shipman_craig/status/1386674129693196291) | advertise |
 | [ShipStoreco@twitter](https://twitter.com/ShipStoreco/status/1371295374246285313) | advertise |
 | [Shireen21778793@twitter](https://twitter.com/Shireen21778793/status/1404067613232099332) | advertise |
