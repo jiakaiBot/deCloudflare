@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,472 |
-| social | 4,111 |
+| social | 4,112 |
 | net | 3,269 |
 | org | 2,251 |
 | de | 2,145 |
@@ -1373,6 +1373,7 @@ Here's a list of public Fediverse services.
 | `alarsyo.net` | No |
 | `alaska.community` | No |
 | `alaskafriendfinder.com` | No |
+| `alaskan.social` | Yes |
 | `alaskanative.social` | No |
 | `albanian.social` | No |
 | `albany.ist` | No |
@@ -5148,6 +5149,7 @@ Here's a list of public Fediverse services.
 | `burgenland.space` | No |
 | `burger.rodeo` | Yes |
 | `burgetts.net` | No |
+| `burggit.moe` | No |
 | `burgh.social` | No |
 | `burgstallerfoto.at` | No |
 | `burk.io` | No |
@@ -42688,8 +42690,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,886 |
-| Normal | 31,759 |
+| Cloudflare | 10,887 |
+| Normal | 31,760 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
