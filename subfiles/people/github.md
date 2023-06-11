@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [cannot decodeValue to JsonObject with reproducer](https://github.com/eclipse-vertx/vert.x/issues/4730)
 - [Should we remove cross-fetch?](https://github.com/anthropics/anthropic-sdk-typescript/issues/23)
 - [Guacamole protocol violation](https://github.com/alexbelgium/hassio-addons/issues/864)
 - [Unable to post CAR file.](https://github.com/web3-storage/web3.storage/issues/2275)
