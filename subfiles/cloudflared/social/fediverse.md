@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,475 |
-| social | 4,112 |
+| social | 4,113 |
 | net | 3,270 |
-| org | 2,254 |
+| org | 2,255 |
 | de | 2,145 |
 
 
@@ -2032,6 +2032,7 @@ Here's a list of public Fediverse services.
 | `anon-kenkai.com` | No |
 | `anonboard.xyz` | No |
 | `anongoth.pl` | No |
+| `anonion.social` | Yes |
 | `anonlabs.org` | No |
 | `anonq.com` | No |
 | `anonsys.net` | No |
@@ -14069,6 +14070,7 @@ Here's a list of public Fediverse services.
 | `gmb.cz` | No |
 | `gme.one` | Yes |
 | `gmem.ca` | Yes |
+| `gmk.org` | No |
 | `gmr.news` | No |
 | `gmtz.me` | No |
 | `gn-tronics.dev` | No |
@@ -15928,6 +15930,7 @@ Here's a list of public Fediverse services.
 | `horserock.xyz` | No |
 | `horslimites.org` | No |
 | `hort.chat` | No |
+| `horvath.au` | Yes |
 | `horvath.com` | No |
 | `hoschwald.de` | No |
 | `hoshi.garden` | Yes |
@@ -35544,6 +35547,7 @@ Here's a list of public Fediverse services.
 | `streamery.club` | No |
 | `streamz.ca` | No |
 | `strectuna.me` | No |
+| `streetbikes.club` | No |
 | `streetsblog.melbourne` | No |
 | `streetslacker.com` | No |
 | `streim.me` | No |
@@ -42714,8 +42718,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,899 |
-| Normal | 31,772 |
+| Cloudflare | 10,901 |
+| Normal | 31,774 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
