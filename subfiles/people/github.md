@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Should we remove cross-fetch?](https://github.com/anthropics/anthropic-sdk-typescript/issues/23)
 - [Guacamole protocol violation](https://github.com/alexbelgium/hassio-addons/issues/864)
 - [Unable to post CAR file.](https://github.com/web3-storage/web3.storage/issues/2275)
 - [Custom Nginx Configuration listening port issue](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2993)
