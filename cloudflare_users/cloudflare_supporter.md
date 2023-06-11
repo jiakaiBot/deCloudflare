@@ -10663,6 +10663,7 @@ Do not create new issue or we will close it as duplicate.
 | [shotlike142@twitter](https://twitter.com/shotlike142/status/1404801868325392385) | advertise |
 | [ShowkatMat4356@twitter](https://twitter.com/ShowkatMat4356/status/1665858544200040452) | advertise |
 | [shrawanx@twitter](https://twitter.com/shrawanx/status/1534524378234228736) | advertise |
+| [shrestha_sharab@twitter](https://twitter.com/shrestha_sharab/status/1665738273359302656) | advertise |
 | [ShreyaPatra20@twitter](https://twitter.com/ShreyaPatra20/status/1395317321221120003) | advertise |
 | [Shrinikethan5@twitter](https://twitter.com/Shrinikethan5/status/1386901853493858304) | advertise |
 | [SHtunlin@twitter](https://twitter.com/SHtunlin/status/1396520953408999425) | advertise |
@@ -11233,6 +11234,7 @@ Do not create new issue or we will close it as duplicate.
 | [tai25381999@twitter](https://twitter.com/tai25381999/status/1400114995506008066) | advertise |
 | [tai58342704@twitter](https://twitter.com/tai58342704/status/1557035585038012416) | advertise |
 | [Tai58496438@twitter](https://twitter.com/Tai58496438/status/1384020224547069952) | advertise |
+| [TaiDo987@twitter](https://twitter.com/TaiDo987/status/1667727110822313987) | advertise |
 | [Tailu123@twitter](https://twitter.com/Tailu123/status/1552009946790629381) | advertise |
 | [Taimoor15565194@twitter](https://twitter.com/Taimoor15565194/status/1620874697683660800) | advertise |
 | [Tainguyen260697@twitter](https://twitter.com/Tainguyen260697/status/1629049941778915329) | advertise |
