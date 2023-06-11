@@ -11630,6 +11630,7 @@ Here's a list of public Fediverse services.
 | `fedi.wien` | No |
 | `fedi.wtf` | Yes |
 | `fedi.xyz` | No |
+| `fedia.io` | No |
 | `fedibb.ml` | No |
 | `fedibeest.social` | Yes |
 | `fedibik.es` | No |
@@ -42710,7 +42711,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,897 |
-| Normal | 31,769 |
+| Normal | 31,770 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
