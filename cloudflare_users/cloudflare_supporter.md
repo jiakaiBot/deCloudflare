@@ -6868,6 +6868,7 @@ Do not create new issue or we will close it as duplicate.
 | [m1lo20@twitter](https://twitter.com/m1lo20/status/1391605926424109056) | advertise |
 | [M2M07044707@twitter](https://twitter.com/M2M07044707/status/1397223341346394112) | advertise |
 | [M7Dgc@twitter](https://twitter.com/M7Dgc/status/1580870778941472768) | advertise |
+| [m7madsh3ban@twitter](https://twitter.com/m7madsh3ban/status/1667818237281665025) | advertise |
 | [m9mG0VxgkzrPWIf@twitter](https://twitter.com/m9mG0VxgkzrPWIf/status/1392509254993469442) | advertise |
 | [m76eef@twitter](https://twitter.com/m76eef/status/1665725048303370240) | advertise |
 | [m414gold12@twitter](https://twitter.com/m414gold12/status/1379624576355688448) | advertise |
