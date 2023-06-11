@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,474 |
+| com | 6,475 |
 | social | 4,112 |
 | net | 3,270 |
 | org | 2,253 |
@@ -36967,6 +36967,7 @@ Here's a list of public Fediverse services.
 | `thebeeches.house` | No |
 | `thebene.fit` | No |
 | `thebergstrands.net` | No |
+| `thebestinstance.com` | No |
 | `thebias.com` | No |
 | `thebias.nl` | No |
 | `thebig.cc` | No |
@@ -42711,7 +42712,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,897 |
-| Normal | 31,770 |
+| Normal | 31,771 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
