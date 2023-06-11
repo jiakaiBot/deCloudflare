@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,475 |
 | social | 4,112 |
 | net | 3,270 |
-| org | 2,253 |
+| org | 2,254 |
 | de | 2,145 |
 
 
@@ -471,6 +471,7 @@ Here's a list of public Fediverse services.
 | `4af.eu` | No |
 | `4bear.com` | No |
 | `4com.jp` | No |
+| `4d2.org` | No |
 | `4estate.media` | No |
 | `4eva.online` | No |
 | `4eva.org` | Yes |
@@ -5220,7 +5221,7 @@ Here's a list of public Fediverse services.
 | `bw-toot.de` | No |
 | `bw3.dev` | No |
 | `bwa.social` | No |
-| `bwfinch.com` | No |
+| `bwfinch.com` | Yes |
 | `bwnet.it` | No |
 | `bwoodford.xyz` | No |
 | `bwpost.online` | No |
@@ -16918,6 +16919,7 @@ Here's a list of public Fediverse services.
 | `int21h.eu` | No |
 | `int5.net` | No |
 | `intahnet.co.uk` | Yes |
+| `intai.tech` | Yes |
 | `integrata-stiftung.de` | No |
 | `integritymo.de` | No |
 | `intellectuallusts.ovh` | No |
@@ -36702,6 +36704,7 @@ Here's a list of public Fediverse services.
 | `telepath.ee` | No |
 | `telepati.ch` | No |
 | `telescope.garden` | No |
+| `teletoot.nl` | No |
 | `teleurstellend.nl` | No |
 | `television.social` | No |
 | `teleyal.blog` | No |
@@ -42711,8 +42714,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,897 |
-| Normal | 31,771 |
+| Cloudflare | 10,899 |
+| Normal | 31,772 |
 
 
 ### 25.5% of public Fediverse services are using Cloudflare.
