@@ -2363,8 +2363,8 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [creazse@twitter](https://twitter.com/creazse/status/1626196242807296003) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3540,6 +3540,7 @@ Do not create new issue or we will close it as duplicate.
 | [ftoukhi@twitter](https://twitter.com/ftoukhi/status/1552612050836373506) | advertise |
 | [fuchiy0902@twitter](https://twitter.com/fuchiy0902/status/1606384363389980672) | advertise |
 | [fuckemcops@twitter](https://twitter.com/fuckemcops/status/1546636756153503745) | advertise |
+| [fuckhenan@twitter](https://twitter.com/fuckhenan/status/1667707337929523205) | advertise |
 | [fuckhilm@twitter](https://twitter.com/fuckhilm/status/1518916598878261248) | advertise |
 | [FuckThong8@twitter](https://twitter.com/FuckThong8/status/1389450074309099521) | advertise |
 | [fuckwoahfaith@twitter](https://twitter.com/fuckwoahfaith/status/1528038970273177601) | advertise |
