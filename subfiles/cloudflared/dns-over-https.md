@@ -34,7 +34,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | adfilter.net | Yes |
 | adguard-dns.com | Yes |
 | adrianlam.com | Yes |
-| agadez.net | Yes |
 | aganin.org | No |
 | agh-dns.net | Yes |
 | ahadns.net | Yes |
@@ -193,7 +192,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jamesxue.xyz | No |
 | jfchenier.ca | Yes |
 | jinwoo.dev | No |
-| joaofidelix.com.br | Yes |
 | joey01245.nl | No |
 | jsanagustin.net | Yes |
 | jstockley.com | Yes |
@@ -223,7 +221,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lsasss.com | No |
 | lsho.top | Yes |
 | lz0724.com | No |
-| maolaohei.xyz | No |
 | masters-of-cloud.de | No |
 | meddy94.de | No |
 | meeo.win | Yes |
@@ -247,7 +244,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | muxyuji.ru | No |
 | myds.me | No |
 | myon.lu | No |
-| mywire.org | Yes |
 | mzrme.cn | Yes |
 | n0.eu | No |
 | nas-server.ru | Yes |
@@ -332,7 +328,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | softcom.net | No |
 | spectrum.com | Yes |
 | spil.co.id | Yes |
-| spyrisk.fr | Yes |
 | sslip.io | Yes |
 | ssrahul96.xyz | Yes |
 | startupstack.tech | Yes |
@@ -405,8 +400,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 198 |
-| Normal | 188 |
+| Cloudflare | 194 |
+| Normal | 187 |
 
 
-### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
