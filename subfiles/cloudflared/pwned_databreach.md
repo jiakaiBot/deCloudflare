@@ -638,6 +638,7 @@ Here's a list of breached sites.
 | YouPorn | 1,327,567 | Yes |
 | Youku | 91,890,110 | No |
 | ZAPHosting (ZAP-Hosting) | 746,682 | Yes |
+| Zacks | 8,929,503 | Yes |
 | Zhenai (Zhenai.com) | 5,024,908 | No |
 | Zomato | 16,472,873 | No |
 | Zoomcar | 3,589,795 | Yes |
@@ -670,10 +671,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 356 | 3,918,334,405 |
+| Cloudflare | 357 | 3,927,263,908 |
 | Normal | 293 | 4,983,987,288 |
 
 
 
 ### 54.9% of breached sites (pwned sites) are using Cloudflare.
-### 44% of leaked accounts are on Cloudflare sites.
+### 44.1% of leaked accounts are on Cloudflare sites.
