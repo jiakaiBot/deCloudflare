@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,490 |
-| social | 4,124 |
+| social | 4,125 |
 | net | 3,279 |
 | org | 2,261 |
 | de | 2,148 |
@@ -8709,6 +8709,7 @@ Here's a list of public Fediverse services.
 | `denter-online.de` | No |
 | `denton.social` | No |
 | `dentora.ca` | No |
+| `dentora.social` | No |
 | `dentrassi.de` | No |
 | `dentropy.xyz` | No |
 | `denull.ru` | No |
@@ -28094,6 +28095,7 @@ Here's a list of public Fediverse services.
 | `ourlatex.life` | No |
 | `ourlittle.space` | No |
 | `ourmemory.sbs` | Yes |
+| `ouroboros.gay` | No |
 | `ouroboros.monster` | No |
 | `ourpublicassembly.com` | No |
 | `ours-inculte.fr` | No |
@@ -42812,7 +42814,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,937 |
-| Normal | 31,831 |
+| Normal | 31,833 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
