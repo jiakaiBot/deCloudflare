@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,124 |
 | net | 3,279 |
 | org | 2,261 |
-| de | 2,146 |
+| de | 2,147 |
 
 
 - Mastodon, Pleroma, etc
@@ -11562,6 +11562,7 @@ Here's a list of public Fediverse services.
 | `fedaya.net` | No |
 | `fedblog.ch` | No |
 | `fedcast.ch` | No |
+| `feddit.ch` | No |
 | `feddit.cl` | No |
 | `feddit.de` | No |
 | `feddit.dk` | Yes |
@@ -19861,6 +19862,7 @@ Here's a list of public Fediverse services.
 | `kyriog.eu` | No |
 | `kys.moe` | Yes |
 | `kysocial.org` | No |
+| `kyu.de` | No |
 | `kyubitter.xyz` | No |
 | `kyun.host` | Yes |
 | `kyunkyun.moe` | No |
@@ -42808,7 +42810,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,936 |
-| Normal | 31,828 |
+| Normal | 31,830 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
