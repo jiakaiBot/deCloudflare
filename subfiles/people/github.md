@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare R2 Availability Issues](https://github.com/MatBenfield/news/issues/15230)
+- [R2 is flaky in behavior test: list_test_list_rich_dir](https://github.com/apache/incubator-opendal/issues/2452)
 - [KiwiIRC website down](https://github.com/kiwiirc/kiwiirc/issues/1760)
 - [Broken Link Detected](https://github.com/pingcap/docs/issues/13834)
 - [Traefik ForwardAuth with subpath](https://github.com/goauthentik/authentik/issues/5924)
