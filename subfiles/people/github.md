@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Question about installer update system.](https://github.com/headwindsim/installer/issues/2)
+- [CloudFlare Cloudflare R2, Waiting Room, Durable Objects, Queues and Stream Live Availability Issues](https://github.com/MatBenfield/news/issues/15239)
+- [Node error Importing a react-pdf component into page using new nextjs app directory](https://github.com/wojtekmaj/react-pdf/issues/1532)
 - [CloudFlare Cloudflare R2 Availability Issues](https://github.com/MatBenfield/news/issues/15230)
 - [R2 is flaky in behavior test: list_test_list_rich_dir](https://github.com/apache/incubator-opendal/issues/2452)
 - [KiwiIRC website down](https://github.com/kiwiirc/kiwiirc/issues/1760)
