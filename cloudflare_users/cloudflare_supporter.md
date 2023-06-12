@@ -2112,6 +2112,7 @@ Do not create new issue or we will close it as duplicate.
 | [cheddarskitchen@twitter](https://twitter.com/cheddarskitchen/status/1665888752177127425) | advertise |
 | [cheeryluvly2@twitter](https://twitter.com/cheeryluvly2/status/1401203225659912192) | advertise |
 | [chegekjames@twitter](https://twitter.com/chegekjames/status/1607231687313735680) | advertise |
+| [chekh_tam@twitter](https://twitter.com/chekh_tam/status/1668375416258584577) | advertise |
 | [CHEKUTH66047936@twitter](https://twitter.com/CHEKUTH66047936/status/1401783579168763907) | advertise |
 | [ChelleV60@twitter](https://twitter.com/ChelleV60/status/1553220253760602112) | advertise |
 | [Chelle_n_Lulu@twitter](https://twitter.com/Chelle_n_Lulu/status/1596628650853797888) | advertise |
@@ -6943,6 +6944,7 @@ Do not create new issue or we will close it as duplicate.
 | [mailregistrator@twitter](https://twitter.com/mailregistrator/status/1628128956640624640) | advertise |
 | [MailServerPwnr@twitter](https://twitter.com/MailServerPwnr/status/1384346054011744258) | advertise |
 | [MainaAwudu@twitter](https://twitter.com/MainaAwudu/status/1606611116662063107) | advertise |
+| [mainsova2601@twitter](https://twitter.com/mainsova2601/status/1668322268941025280) | advertise |
 | [MaiPham06160922@twitter](https://twitter.com/MaiPham06160922/status/1392396112179306500) | advertise |
 | [Mait82181284@twitter](https://twitter.com/Mait82181284/status/1600479237907308544) | advertise |
 | [maithanh_tai@twitter](https://twitter.com/maithanh_tai/status/1401900355470839810) | advertise |
@@ -8427,6 +8429,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nguyenthaonhi22@twitter](https://twitter.com/Nguyenthaonhi22/status/1392620098096037890) | advertise |
 | [NguyenThat17@twitter](https://twitter.com/NguyenThat17/status/1523878007328419845) | advertise |
 | [nguyentheonam@twitter](https://twitter.com/nguyentheonam/status/1380965409818472450) | advertise |
+| [nguyenthuynhu18@twitter](https://twitter.com/nguyenthuynhu18/status/1668215124711325697) | advertise |
 | [nguyentngocthao@twitter](https://twitter.com/nguyentngocthao/status/1475137481569812480) | advertise |
 | [NguyenTrieuAn4@twitter](https://twitter.com/NguyenTrieuAn4/status/1400460844043948043) | advertise |
 | [NguyenV1815512@twitter](https://twitter.com/NguyenV1815512/status/1401810564691611649) | advertise |
