@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare R2, Waiting Room, Durable Objects, Queues, Stream Live, Cache Reserve and single file CDN Cache Purge Availability Issues](https://github.com/MatBenfield/news/issues/15245)
 - [CloudFlare Cloudflare R2, Waiting Room, Durable Objects, Queues, Stream Live and single file CDN Cache Purge Availability Issues](https://github.com/MatBenfield/news/issues/15241)
 - [Question about installer update system.](https://github.com/headwindsim/installer/issues/2)
 - [CloudFlare Cloudflare R2, Waiting Room, Durable Objects, Queues and Stream Live Availability Issues](https://github.com/MatBenfield/news/issues/15239)
