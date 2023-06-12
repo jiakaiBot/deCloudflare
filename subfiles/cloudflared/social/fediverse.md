@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,489 |
+| com | 6,490 |
 | social | 4,124 |
 | net | 3,279 |
 | org | 2,261 |
@@ -18616,6 +18616,7 @@ Here's a list of public Fediverse services.
 | `karagedon.com` | Yes |
 | `karagory.com` | No |
 | `karamatsu.blue` | No |
+| `karaolidis.com` | Yes |
 | `kararyli.net` | No |
 | `karas.social` | Yes |
 | `karasoulis.com` | Yes |
@@ -42809,7 +42810,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,936 |
+| Cloudflare | 10,937 |
 | Normal | 31,830 |
 
 
