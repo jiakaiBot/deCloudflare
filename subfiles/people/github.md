@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [TypeError: node.component is not a function](https://github.com/sveltejs/kit/issues/10149)
 - [Secure.sh more secure options](https://github.com/ChrisTitusTech/secure-linux/issues/5)
 - [pulumi-cloudflare 5.4.0a1686595494 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/2860)
 - [CloudFlare Cloudflare R2, Waiting Room, Durable Objects, Queues, Stream Live, Cache Reserve and single file CDN Cache Purge Availability Issues](https://github.com/MatBenfield/news/issues/15245)
