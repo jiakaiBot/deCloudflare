@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,487 |
+| com | 6,489 |
 | social | 4,124 |
 | net | 3,279 |
-| org | 2,260 |
+| org | 2,261 |
 | de | 2,146 |
 
 
@@ -4533,6 +4533,7 @@ Here's a list of public Fediverse services.
 | `bodil.horse` | No |
 | `bodul.fr` | No |
 | `body.social` | No |
+| `bodybag.zip` | No |
 | `bodybuilding.im` | No |
 | `boeck.social` | No |
 | `boehmke.net` | No |
@@ -15248,6 +15249,7 @@ Here's a list of public Fediverse services.
 | `headpat.cafe` | Yes |
 | `headpat.moe` | No |
 | `headpats.cafe` | Yes |
+| `headpats.org` | No |
 | `headphone.actor` | No |
 | `heads.social` | No |
 | `headsoft.net` | No |
@@ -20376,6 +20378,7 @@ Here's a list of public Fediverse services.
 | `lelehier.de` | No |
 | `lelesius.eu` | Yes |
 | `lelux.fi` | No |
+| `lem.monster` | No |
 | `lem.social` | No |
 | `lem0n.cc` | Yes |
 | `lema.org` | No |
@@ -29187,6 +29190,7 @@ Here's a list of public Fediverse services.
 | `pinter.family` | No |
 | `pintobyte.com` | No |
 | `pintofsimilar.com` | No |
+| `pionaiki.com` | Yes |
 | `piouland.net` | No |
 | `pioupiou.social` | No |
 | `pipe01.net` | No |
@@ -33979,6 +33983,7 @@ Here's a list of public Fediverse services.
 | `sineware.ca` | No |
 | `singaporebuses.app` | No |
 | `singee.site` | Yes |
+| `singehellhound.com` | No |
 | `singersongwritodon.com` | No |
 | `singing.dog` | No |
 | `singleuser.club` | No |
@@ -42802,8 +42807,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,935 |
-| Normal | 31,824 |
+| Cloudflare | 10,936 |
+| Normal | 31,828 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
