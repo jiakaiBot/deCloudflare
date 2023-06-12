@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [KiwiIRC website down](https://github.com/kiwiirc/kiwiirc/issues/1760)
 - [Broken Link Detected](https://github.com/pingcap/docs/issues/13834)
 - [Traefik ForwardAuth with subpath](https://github.com/goauthentik/authentik/issues/5924)
 - [cannot decodeValue to JsonObject with reproducer](https://github.com/eclipse-vertx/vert.x/issues/4730)
