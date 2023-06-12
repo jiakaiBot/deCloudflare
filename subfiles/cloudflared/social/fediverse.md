@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,487 |
-| social | 4,121 |
+| social | 4,122 |
 | net | 3,278 |
 | org | 2,260 |
 | de | 2,145 |
@@ -28764,6 +28764,7 @@ Here's a list of public Fediverse services.
 | `pencricket.com` | No |
 | `pendorwright.com` | No |
 | `pendragon.rocks` | No |
+| `penfount.social` | No |
 | `pengi-san.moe` | Yes |
 | `pengin.club` | Yes |
 | `pengins.dev` | No |
@@ -42791,7 +42792,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,931 |
-| Normal | 31,816 |
+| Normal | 31,817 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
