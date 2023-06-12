@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,486 |
+| com | 6,487 |
 | social | 4,121 |
-| net | 3,277 |
+| net | 3,278 |
 | org | 2,260 |
 | de | 2,145 |
 
@@ -11359,6 +11359,7 @@ Here's a list of public Fediverse services.
 | `falafel.win` | No |
 | `falconia.club` | No |
 | `falconk.rocks` | No |
+| `falk.cafe` | Yes |
 | `falk.us` | No |
 | `falkenhagen.de` | No |
 | `falkensee.social` | No |
@@ -11435,6 +11436,7 @@ Here's a list of public Fediverse services.
 | `fantastici.de` | No |
 | `fantorovevo.com` | No |
 | `fantranslation.org` | No |
+| `fanty.xyz` | No |
 | `fanuffel.de` | No |
 | `fanyx.xyz` | No |
 | `fap.team` | No |
@@ -13359,6 +13361,7 @@ Here's a list of public Fediverse services.
 | `gamasutra.com` | Yes |
 | `gamba.osaka.jp` | No |
 | `game-create-mastodon.com` | No |
+| `game-files.net` | No |
 | `game-tecx.de` | No |
 | `gamebubble.eu` | No |
 | `gamechat.social` | No |
@@ -25258,6 +25261,7 @@ Here's a list of public Fediverse services.
 | `mykal.social` | Yes |
 | `myke.social` | No |
 | `mylegendary.quest` | Yes |
+| `mylemmy.us` | Yes |
 | `myles.life` | No |
 | `myles.social` | No |
 | `mylesbraithwaite.com` | No |
@@ -32703,10 +32707,12 @@ Here's a list of public Fediverse services.
 | `sasakimasato.net` | No |
 | `sasakulab.com` | Yes |
 | `sasbaen.be` | No |
+| `sascamooch.com` | Yes |
 | `saschafoerster.de` | No |
 | `sascharupp.de` | No |
 | `saschaschroeder.eu` | No |
 | `sasf.org.cn` | Yes |
+| `sashich.ru` | No |
 | `sasix.it` | No |
 | `saskodon.ca` | No |
 | `sassy.pics` | No |
@@ -40540,6 +40546,7 @@ Here's a list of public Fediverse services.
 | `waxandleather.com` | Yes |
 | `waxwing.studio` | Yes |
 | `wayde.tech` | Yes |
+| `wayfarershaven.eu` | No |
 | `waymeet.net` | Yes |
 | `wayne.social` | No |
 | `waytoo.online` | No |
@@ -42783,8 +42790,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,928 |
-| Normal | 31,812 |
+| Cloudflare | 10,931 |
+| Normal | 31,816 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
