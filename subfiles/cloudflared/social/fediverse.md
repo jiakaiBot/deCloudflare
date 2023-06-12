@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,487 |
-| social | 4,122 |
-| net | 3,278 |
+| social | 4,124 |
+| net | 3,279 |
 | org | 2,260 |
-| de | 2,145 |
+| de | 2,146 |
 
 
 - Mastodon, Pleroma, etc
@@ -1894,6 +1894,7 @@ Here's a list of public Fediverse services.
 | `andresbilevich.com` | No |
 | `andresen.mx` | No |
 | `andreubotella.com` | Yes |
+| `andreva.cc` | Yes |
 | `andrevillien.fr` | No |
 | `andrew.mn` | No |
 | `andrew.xyz` | No |
@@ -4332,6 +4333,7 @@ Here's a list of public Fediverse services.
 | `bliothek.social` | No |
 | `blisscampus.com` | No |
 | `blisses.org` | No |
+| `blizzard.systems` | No |
 | `blkspace.net` | Yes |
 | `bln41.net` | Yes |
 | `bln41.win` | Yes |
@@ -5669,6 +5671,7 @@ Here's a list of public Fediverse services.
 | `catgirl.army` | Yes |
 | `catgirl.biz` | Yes |
 | `catgirl.cafe` | No |
+| `catgirl.cloud` | Yes |
 | `catgirl.download` | No |
 | `catgirl.engineering` | Yes |
 | `catgirl.fr` | No |
@@ -8712,7 +8715,6 @@ Here's a list of public Fediverse services.
 | `deny.club` | No |
 | `deo.moe` | No |
 | `deoan.org` | No |
-| `deobbed.com` | No |
 | `deoke.ml` | No |
 | `deoxy.xyz` | No |
 | `depertat.net` | No |
@@ -9037,6 +9039,7 @@ Here's a list of public Fediverse services.
 | `digeridu.de` | No |
 | `digforfire.org` | No |
 | `diggingthedigital.com` | Yes |
+| `diggit.xyz` | No |
 | `digibyte.social` | No |
 | `digic.cloud` | No |
 | `digida.li` | No |
@@ -12848,6 +12851,7 @@ Here's a list of public Fediverse services.
 | `friendica.org` | No |
 | `friendica.ru` | No |
 | `friendica.xyz` | No |
+| `friendicagaarden.de` | No |
 | `friendie.eu` | No |
 | `friendika.tk` | No |
 | `friendlies.social` | Yes |
@@ -18230,6 +18234,7 @@ Here's a list of public Fediverse services.
 | `jswc.de` | Yes |
 | `jtbutcher.co.uk` | Yes |
 | `jtl.vision` | Yes |
+| `jtmn.dev` | Yes |
 | `jtn.us` | No |
 | `jtown.xyz` | No |
 | `jtrem.me` | No |
@@ -21692,6 +21697,7 @@ Here's a list of public Fediverse services.
 | `mablr.org` | No |
 | `mabulledu.net` | No |
 | `mac-vicar.eu` | No |
+| `macaddict89.me` | No |
 | `macalba.net` | Yes |
 | `macalinao.org` | Yes |
 | `macato.net` | Yes |
@@ -28533,6 +28539,7 @@ Here's a list of public Fediverse services.
 | `path.pictures` | No |
 | `pathconnect.de` | No |
 | `pathfinder.social` | Yes |
+| `pathofexile-discuss.com` | No |
 | `pati.to` | No |
 | `patogh.co` | Yes |
 | `patologia.online` | No |
@@ -35792,6 +35799,7 @@ Here's a list of public Fediverse services.
 | `sugary.fashion` | No |
 | `sugattor.ga` | No |
 | `sugoma.tk` | Yes |
+| `suguha.net` | No |
 | `suhbat.online` | No |
 | `sui-hei.net` | No |
 | `sui-mag.com` | Yes |
@@ -39984,6 +39992,7 @@ Here's a list of public Fediverse services.
 | `villanos.net` | No |
 | `villavasco.ovh` | Yes |
 | `villejuif.fr` | No |
+| `villelepisto.fi` | No |
 | `villemin.work` | No |
 | `villenave.net` | No |
 | `villisek.fr` | Yes |
@@ -40541,6 +40550,7 @@ Here's a list of public Fediverse services.
 | `wattsupwiththat.com` | No |
 | `watzonmanor.com` | Yes |
 | `wauland.de` | No |
+| `waveform.social` | Yes |
 | `wavers.us` | No |
 | `wawas-kingdom.com` | Yes |
 | `wawik.xyz` | No |
@@ -42112,6 +42122,7 @@ Here's a list of public Fediverse services.
 | `yodan.ninja` | No |
 | `yog.wtf` | No |
 | `yoghurthair.club` | No |
+| `yogibytes.social` | No |
 | `yogui.li` | No |
 | `yohan.es` | Yes |
 | `yohane.su` | Yes |
@@ -42791,8 +42802,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,931 |
-| Normal | 31,817 |
+| Cloudflare | 10,935 |
+| Normal | 31,824 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
