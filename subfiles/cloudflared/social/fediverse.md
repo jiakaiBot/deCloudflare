@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,485 |
-| social | 4,120 |
-| net | 3,276 |
+| com | 6,486 |
+| social | 4,121 |
+| net | 3,277 |
 | org | 2,260 |
 | de | 2,145 |
 
@@ -5418,6 +5418,7 @@ Here's a list of public Fediverse services.
 | `caluettefamily.com` | Yes |
 | `caluser.social` | No |
 | `calut.fr` | No |
+| `calvss.com` | Yes |
 | `calx.in` | No |
 | `calzone.club` | No |
 | `cambrian.social` | No |
@@ -6858,7 +6859,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7637,6 +7638,7 @@ Here's a list of public Fediverse services.
 | `cultur.social` | No |
 | `cultura.gov.br` | Yes |
 | `culturaeinnovacion.social` | No |
+| `culture0.cc` | No |
 | `culturedigitally.org` | No |
 | `culturewar.radio` | No |
 | `culturewar.site` | No |
@@ -21391,6 +21393,7 @@ Here's a list of public Fediverse services.
 | `lsa.social` | Yes |
 | `lsbt.me` | No |
 | `lsf-group.de` | No |
+| `lsferreira.net` | Yes |
 | `lsnet.eu` | No |
 | `lsngl.us` | No |
 | `lsof.uk` | Yes |
@@ -24087,6 +24090,7 @@ Here's a list of public Fediverse services.
 | `mizucoffee.net` | No |
 | `mizunashi.work` | Yes |
 | `mj12.online` | No |
+| `mj2p.co.uk` | No |
 | `mjanssen.nl` | No |
 | `mjb.im` | No |
 | `mjcspa.be` | No |
@@ -26926,6 +26930,7 @@ Here's a list of public Fediverse services.
 | `nsw.social` | No |
 | `nsw2.xyz` | Yes |
 | `ntauthority.me` | Yes |
+| `ntfy.sh` | No |
 | `nth.io` | Yes |
 | `nthia.dev` | No |
 | `nthomas20.net` | No |
@@ -36946,6 +36951,7 @@ Here's a list of public Fediverse services.
 | `thatalex.dev` | Yes |
 | `thatother.site` | No |
 | `thatsaspork.tk` | No |
+| `thatsit.social` | No |
 | `thatsocial.site` | No |
 | `thatspretty.cool` | Yes |
 | `thattakashi.me` | Yes |
@@ -41736,7 +41742,7 @@ Here's a list of public Fediverse services.
 | `xn--sjpmeg-juab.space` | No |
 | `xn--stefan-hhn-lcb.de` | No |
 | `xn--sthle-nra.dk` | No |
-| `xn--t8j1bd0a4k.xn--q9jyb4c` | No |
+| `xn--t8j1bd0a4k.xn--q9jyb4c` | Yes |
 | `xn--t8jzbl7g.jp` | No |
 | `xn--thelnd-eua.land` | No |
 | `xn--thringen-75a.social` | No |
@@ -41764,7 +41770,7 @@ Here's a list of public Fediverse services.
 | `xn--zck4azd638n.com` | No |
 | `xn--zckuao5dze.jp` | No |
 | `xnet.chat` | Yes |
-| `xno.social` | No |
+| `xno.social` | Yes |
 | `xnop.yt` | No |
 | `xnor.in` | No |
 | `xnor.work` | No |
@@ -42773,8 +42779,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,923 |
-| Normal | 31,807 |
+| Cloudflare | 10,928 |
+| Normal | 31,808 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
