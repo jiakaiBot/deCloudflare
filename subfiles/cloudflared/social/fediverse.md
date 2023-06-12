@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,490 |
+| com | 6,492 |
 | social | 4,125 |
 | net | 3,279 |
 | org | 2,261 |
-| de | 2,148 |
+| de | 2,149 |
 
 
 - Mastodon, Pleroma, etc
@@ -7806,6 +7806,7 @@ Here's a list of public Fediverse services.
 | `cybergladius.social` | Yes |
 | `cyberglot.lol` | No |
 | `cybergov.de` | No |
+| `cyberhase.de` | Yes |
 | `cyberhideaway.online` | No |
 | `cyberhub.sbs` | No |
 | `cyberia.club` | No |
@@ -31502,6 +31503,7 @@ Here's a list of public Fediverse services.
 | `resource.pub` | No |
 | `resplendentwebservices.com` | No |
 | `respublicae.eu` | No |
+| `resrm.com` | Yes |
 | `ressonix.social` | Yes |
 | `restall.io` | Yes |
 | `restart.moe` | No |
@@ -32016,6 +32018,7 @@ Here's a list of public Fediverse services.
 | `ronnilix.eu` | No |
 | `roobre.es` | No |
 | `roocita.com` | Yes |
+| `roofur.com` | No |
 | `rookieo.com` | No |
 | `room19.com` | No |
 | `room1969.net` | No |
@@ -42813,8 +42816,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,937 |
-| Normal | 31,833 |
+| Cloudflare | 10,939 |
+| Normal | 31,834 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
