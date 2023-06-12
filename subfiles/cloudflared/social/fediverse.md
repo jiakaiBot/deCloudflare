@@ -10055,6 +10055,7 @@ Here's a list of public Fediverse services.
 | `earthseed.live` | No |
 | `earthstream.social` | No |
 | `earthsucks.com` | No |
+| `easfrq.live` | No |
 | `east17.org` | No |
 | `eastback.co.jp` | No |
 | `eastman.tech` | No |
@@ -14250,6 +14251,7 @@ Here's a list of public Fediverse services.
 | `goncharov.ai` | Yes |
 | `goneaway.blog` | No |
 | `goneaway.social` | No |
+| `gonelemmy.xyz` | No |
 | `gonerd.me` | Yes |
 | `gonext.gg` | Yes |
 | `gonit.org` | Yes |
@@ -20120,6 +20122,7 @@ Here's a list of public Fediverse services.
 | `lasthearth.net` | No |
 | `lastlight.cafe` | No |
 | `lastminute.one` | No |
+| `lastname.nz` | No |
 | `lastorder.xyz` | Yes |
 | `latavernedejohnjohn.fr` | No |
 | `latech.space` | No |
@@ -40015,6 +40018,7 @@ Here's a list of public Fediverse services.
 | `viridiome.ga` | No |
 | `virintox.com` | No |
 | `virtecam.net` | Yes |
+| `virtim.dev` | No |
 | `virton13.ovh` | No |
 | `virtual-assembly.org` | No |
 | `virtual-kaf.fun` | Yes |
@@ -42780,7 +42784,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,928 |
-| Normal | 31,808 |
+| Normal | 31,812 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
