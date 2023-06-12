@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,485 |
 | social | 4,120 |
-| net | 3,275 |
+| net | 3,276 |
 | org | 2,260 |
 | de | 2,145 |
 
@@ -3665,6 +3665,7 @@ Here's a list of public Fediverse services.
 | `bekesi.org` | No |
 | `bel.social` | Yes |
 | `belajkorpoj.art` | No |
+| `belclayfer.net` | No |
 | `beleco.art` | No |
 | `belegost.net` | No |
 | `belette.club` | No |
@@ -15805,7 +15806,7 @@ Here's a list of public Fediverse services.
 | `hokutodon.co` | No |
 | `hokutodon.com` | No |
 | `hola-soy-milk.online` | No |
-| `holdman.co` | No |
+| `holdman.co` | Yes |
 | `holdmybeer.solutions` | Yes |
 | `holdtai.tw` | No |
 | `holeliquors.com` | No |
@@ -19521,6 +19522,7 @@ Here's a list of public Fediverse services.
 | `kosen.land` | Yes |
 | `kosendon.tech` | No |
 | `koshka.io` | Yes |
+| `koski.co` | Yes |
 | `kosko.pw` | No |
 | `koskokompound.com` | No |
 | `kosmos.social` | No |
@@ -42771,7 +42773,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,921 |
+| Cloudflare | 10,923 |
 | Normal | 31,807 |
 
 
