@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,484 |
+| com | 6,485 |
 | social | 4,120 |
 | net | 3,275 |
 | org | 2,260 |
@@ -1205,6 +1205,7 @@ Here's a list of public Fediverse services.
 | `ahlers.space` | No |
 | `ahlers.xyz` | No |
 | `ahlo.club` | No |
+| `ahlosclub.com` | No |
 | `ahlroos.me` | No |
 | `ahmadhaghighi.com` | Yes |
 | `ahmedsaad.xyz` | Yes |
@@ -9901,7 +9902,7 @@ Here's a list of public Fediverse services.
 | `dunkelmann.eu` | Yes |
 | `dunkelschunkel.de` | No |
 | `dunnette.us` | No |
-| `dunsmore.me` | No |
+| `dunsmore.me` | Yes |
 | `duong.social` | No |
 | `dup.space` | Yes |
 | `dupeuple.fr` | No |
@@ -42770,7 +42771,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,920 |
+| Cloudflare | 10,921 |
 | Normal | 31,807 |
 
 
