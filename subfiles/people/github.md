@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Broken Link Detected](https://github.com/pingcap/docs/issues/13834)
+- [Traefik ForwardAuth with subpath](https://github.com/goauthentik/authentik/issues/5924)
 - [cannot decodeValue to JsonObject with reproducer](https://github.com/eclipse-vertx/vert.x/issues/4730)
 - [Should we remove cross-fetch?](https://github.com/anthropics/anthropic-sdk-typescript/issues/23)
 - [Guacamole protocol violation](https://github.com/alexbelgium/hassio-addons/issues/864)
