@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,124 |
 | net | 3,279 |
 | org | 2,261 |
-| de | 2,147 |
+| de | 2,148 |
 
 
 - Mastodon, Pleroma, etc
@@ -1909,6 +1909,7 @@ Here's a list of public Fediverse services.
 | `andrewscom.net` | No |
 | `andrewstaylor.com` | Yes |
 | `andrewwelch.net` | Yes |
+| `andrezieux.de` | No |
 | `andri.dk` | Yes |
 | `andrich.me` | No |
 | `andrii.is` | No |
@@ -42811,7 +42812,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 10,937 |
-| Normal | 31,830 |
+| Normal | 31,831 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
