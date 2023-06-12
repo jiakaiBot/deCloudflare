@@ -7746,6 +7746,7 @@ Do not create new issue or we will close it as duplicate.
 | [monsoon_47@twitter](https://twitter.com/monsoon_47/status/1396553299390763008) | advertise |
 | [Monsterheart15@twitter](https://twitter.com/Monsterheart15/status/1394673115049852932) | advertise |
 | [monsterjeep@twitter](https://twitter.com/monsterjeep/status/1503887952228896769) | advertise |
+| [MonsterResou@twitter](https://twitter.com/MonsterResou/status/1668282746995630080) | advertise |
 | [monteamadison@twitter](https://twitter.com/monteamadison/status/1379055330949275654) | advertise |
 | [montnk00@twitter](https://twitter.com/montnk00/status/1635958932567891982) | advertise |
 | [MonXtun@twitter](https://twitter.com/MonXtun/status/1390310425531621377) | advertise |
