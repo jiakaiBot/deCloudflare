@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,492 |
+| com | 6,493 |
 | social | 4,125 |
 | net | 3,279 |
 | org | 2,261 |
@@ -18431,6 +18431,7 @@ Here's a list of public Fediverse services.
 | `kabelsalat.ch` | No |
 | `kabi.tk` | No |
 | `kabipix.tk` | No |
+| `kabo.cab` | Yes |
 | `kabudon.jp` | No |
 | `kabuki.club` | No |
 | `kabukimono.top` | No |
@@ -18550,6 +18551,7 @@ Here's a list of public Fediverse services.
 | `kamens.us` | Yes |
 | `kamikaze.moe` | No |
 | `kamima.fun` | No |
+| `kamima.info` | No |
 | `kamima.online` | No |
 | `kamima.site` | No |
 | `kamisato.xyz` | Yes |
@@ -29403,6 +29405,7 @@ Here's a list of public Fediverse services.
 | `plataformess.org` | No |
 | `platanito.org` | No |
 | `plateia.org` | Yes |
+| `platformonomics.com` | Yes |
 | `platformsh.site` | No |
 | `platica.io` | No |
 | `platt.social` | No |
@@ -33523,6 +33526,7 @@ Here's a list of public Fediverse services.
 | `sh1n-ken.life` | No |
 | `sh4re.net` | Yes |
 | `sha.pe.kr` | No |
+| `sha1.nl` | No |
 | `shabegom.com` | No |
 | `shabsters.com` | No |
 | `shabsters.social` | No |
@@ -42816,8 +42820,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 10,939 |
-| Normal | 31,834 |
+| Cloudflare | 10,941 |
+| Normal | 31,836 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
