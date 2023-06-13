@@ -1,6 +1,6 @@
 # _One More Step_
-# _Your connection sucks and we need to review your connection_
-# _Access denied_
+## _Your connection sucks and we need to review your connection_
+### _Access denied_
 
 ![](../watcloudflare.jpg)
 
