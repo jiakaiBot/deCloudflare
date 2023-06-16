@@ -101,6 +101,7 @@ Do not create new issue or we will close it as duplicate.
 | [6PpXPysVDb3lCRH@twitter](https://twitter.com/6PpXPysVDb3lCRH/status/1467321870181494785) | advertise |
 | [6thewhiteraven@twitter](https://twitter.com/6thewhiteraven/status/1603045702749151233) | advertise |
 | [6thfloorgrind@twitter](https://twitter.com/6thfloorgrind/status/1538147028831805440) | advertise |
+| [6_cpat@twitter](https://twitter.com/6_cpat/status/1669610903640363008) | advertise |
 | [7amahanti@twitter](https://twitter.com/7amahanti/status/1470204452657242114) | advertise |
 | [7aQuynh@twitter](https://twitter.com/7aQuynh/status/1532060485352583168) | advertise |
 | [7BsevenV7@twitter](https://twitter.com/7BsevenV7/status/1396360385784160256) | advertise |
@@ -625,6 +626,7 @@ Do not create new issue or we will close it as duplicate.
 | [alinematii77@twitter](https://twitter.com/alinematii77/status/1607345333872246790) | advertise |
 | [Aliov456@twitter](https://twitter.com/Aliov456/status/1596472440963604482) | advertise |
 | [Aliphent1@twitter](https://twitter.com/Aliphent1/status/1390970393012445188) | advertise |
+| [aliraza786s@twitter](https://twitter.com/aliraza786s/status/1669577469735870465) | advertise |
 | [Alireza06559988@twitter](https://twitter.com/Alireza06559988/status/1611630338618593281) | advertise |
 | [Alireza38854410@twitter](https://twitter.com/Alireza38854410/status/1590028048241659904) | advertise |
 | [Alireza47491461@twitter](https://twitter.com/Alireza47491461/status/1384770721897984000) | advertise |
@@ -1727,6 +1729,7 @@ Do not create new issue or we will close it as duplicate.
 | [BlowJob10305560@twitter](https://twitter.com/BlowJob10305560/status/1507861498575556610) | advertise |
 | [Blue10665653@twitter](https://twitter.com/Blue10665653/status/1395706450995990530) | advertise |
 | [bluebee7878@twitter](https://twitter.com/bluebee7878/status/1623276700795801602) | advertise |
+| [blueberryfayg0@twitter](https://twitter.com/blueberryfayg0/status/1669524359600558080) | advertise |
 | [bluechip_india@twitter](https://twitter.com/bluechip_india/status/1468831895370625024) | advertise |
 | [BlueLinqPC@twitter](https://twitter.com/BlueLinqPC/status/1558938491106594822) | advertise |
 | [bluenote_18@twitter](https://twitter.com/bluenote_18/status/1380066714130386945) | advertise |
@@ -7826,6 +7829,7 @@ Do not create new issue or we will close it as duplicate.
 | [MrKirbeh@twitter](https://twitter.com/MrKirbeh/status/1611569155408556032) | advertise |
 | [MrKyawMin10@twitter](https://twitter.com/MrKyawMin10/status/1391304762868473858) | advertise |
 | [MrKyawSwarWin3@twitter](https://twitter.com/MrKyawSwarWin3/status/1395899041045573634) | advertise |
+| [mrlittle100@twitter](https://twitter.com/mrlittle100/status/1669451447342178307) | advertise |
 | [mrlonel93743405@twitter](https://twitter.com/mrlonel93743405/status/1479116791360081925) | advertise |
 | [mrmaan25@twitter](https://twitter.com/mrmaan25/status/1602689325287743489) | advertise |
 | [MRMAFIA38588728@twitter](https://twitter.com/MRMAFIA38588728/status/1399325254091042817) | advertise |
@@ -9722,6 +9726,7 @@ Do not create new issue or we will close it as duplicate.
 | [QunhNh33492587@twitter](https://twitter.com/QunhNh33492587/status/1407263425604980758) | advertise |
 | [QunhQun392246@twitter](https://twitter.com/QunhQun392246/status/1596858209678938113) | advertise |
 | [QunhTM11@twitter](https://twitter.com/QunhTM11/status/1468241517387173889) | advertise |
+| [QunMinh56960884@twitter](https://twitter.com/QunMinh56960884/status/1669645969795977219) | advertise |
 | [Quo35259089@twitter](https://twitter.com/Quo35259089/status/1386228152406401024) | advertise |
 | [Quocbao10601948@twitter](https://twitter.com/Quocbao10601948/status/1386125895648219141) | advertise |
 | [Quochung160695@twitter](https://twitter.com/Quochung160695/status/1624551631747686400) | advertise |
