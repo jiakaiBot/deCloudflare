@@ -5722,6 +5722,7 @@ Do not create new issue or we will close it as duplicate.
 | [KeraReva@twitter](https://twitter.com/KeraReva/status/1398880464497111042) | advertise |
 | [kerri_raissian@twitter](https://twitter.com/kerri_raissian/status/1665858498297470977) | advertise |
 | [kertmen4_merve@twitter](https://twitter.com/kertmen4_merve/status/1657103868545712129) | advertise |
+| [kertof@twitter](https://twitter.com/kertof/status/1669795090942795804) | advertise |
 | [kesean78266591@twitter](https://twitter.com/kesean78266591/status/1398800986555125760) | advertise |
 | [KeshavBP1@twitter](https://twitter.com/KeshavBP1/status/1380784361436368896) | advertise |
 | [keshavrai@twitter](https://twitter.com/keshavrai/status/1399420764885962763) | advertise |
@@ -10521,6 +10522,7 @@ Do not create new issue or we will close it as duplicate.
 | [SeksanKanchumn1@twitter](https://twitter.com/SeksanKanchumn1/status/1505766121525325824) | advertise |
 | [SelfAda1@twitter](https://twitter.com/SelfAda1/status/1428381024908718083) | advertise |
 | [selfhelp_ok@twitter](https://twitter.com/selfhelp_ok/status/1562212658555850752) | advertise |
+| [SElhuossin23665@twitter](https://twitter.com/SElhuossin23665/status/1669792407360077824) | advertise |
 | [sell696060761@twitter](https://twitter.com/sell696060761/status/1641969661351952385) | advertise |
 | [selyuna2@twitter](https://twitter.com/selyuna2/status/1441124684884430862) | advertise |
 | [SEMOSH13@twitter](https://twitter.com/SEMOSH13/status/1380131889999187968) | advertise |
