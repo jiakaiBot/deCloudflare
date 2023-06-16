@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Exception: Authentication failed问题，换了挺多节点的，还是一样的问题，在newbing官网上能正常使用。](https://github.com/juzeon/SydneyQt/issues/28)
+- [CSR verification fails with SHA3-384 and ECDSA](https://github.com/openssl/openssl/issues/21224)
 - [Huobi not able to place derivates order: ExchangeError (linear contract)](https://github.com/ccxt/ccxt/issues/18252)
 - [Huobi not able to place derivates order: insufficient funds (inverse contract)](https://github.com/ccxt/ccxt/issues/18251)
 - [Axios is not supported on Edge Runtime](https://github.com/typesense/typesense-js/issues/161)
