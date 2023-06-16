@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,534 |
-| social | 4,150 |
+| com | 6,538 |
+| social | 4,151 |
 | net | 3,292 |
 | org | 2,284 |
-| de | 2,156 |
+| de | 2,158 |
 
 
 - Mastodon, Pleroma, etc
@@ -3821,6 +3821,7 @@ Here's a list of public Fediverse services.
 | `bertha.social` | No |
 | `berton.me` | No |
 | `bertshouse.social` | No |
+| `beru.co` | No |
 | `berzerk.pl` | No |
 | `berzs.xyz` | No |
 | `besaid.de` | No |
@@ -5439,6 +5440,7 @@ Here's a list of public Fediverse services.
 | `calders.us` | No |
 | `caldron.de` | No |
 | `calebhearth.com` | Yes |
+| `calebmharper.com` | No |
 | `caleida.com` | No |
 | `calendario-lunar.com` | No |
 | `calgaryherald.com` | Yes |
@@ -10056,6 +10058,7 @@ Here's a list of public Fediverse services.
 | `dyselon.com` | No |
 | `dysfunction.social` | No |
 | `dysfunctional.social` | No |
+| `dyslexicjedi.com` | No |
 | `dysphoric.space` | No |
 | `dystopian-orbis.de` | No |
 | `dystopian.fun` | No |
@@ -13145,6 +13148,7 @@ Here's a list of public Fediverse services.
 | `full-house.de` | No |
 | `fullhosting.eu` | No |
 | `fullmoonrva.com` | Yes |
+| `fullof.buzz` | No |
 | `fullstackgeek.tech` | No |
 | `fullstuck.net` | No |
 | `fulltermprivacy.com` | No |
@@ -15536,6 +15540,7 @@ Here's a list of public Fediverse services.
 | `hepper.net` | No |
 | `heppycat.com` | No |
 | `heptagon.social` | Yes |
+| `her-mann.de` | No |
 | `herag.xyz` | No |
 | `herald-petrel.com` | No |
 | `heraut.eu` | No |
@@ -18904,6 +18909,7 @@ Here's a list of public Fediverse services.
 | `kechpaja.com` | No |
 | `keda.re` | Yes |
 | `kedrosky.org` | No |
+| `keeb.lol` | No |
 | `keegee40.xyz` | No |
 | `keegsands.org` | No |
 | `keekerdc.com` | No |
@@ -26853,7 +26859,7 @@ Here's a list of public Fediverse services.
 | `nonsocialand.space` | No |
 | `nontongp.live` | No |
 | `nontongp.lol` | No |
-| `nontongp.tv` | No |
+| `nontongp.tv` | Yes |
 | `nonzero.social` | No |
 | `noob.party` | No |
 | `nooble.cloud` | Yes |
@@ -28111,6 +28117,7 @@ Here's a list of public Fediverse services.
 | `ortg.de` | No |
 | `orthis.social` | No |
 | `orthoheterodox.blog` | No |
+| `orthy.de` | No |
 | `orties.net` | No |
 | `ortion.xyz` | No |
 | `ortodogs.info` | Yes |
@@ -28962,6 +28969,7 @@ Here's a list of public Fediverse services.
 | `pencricket.com` | No |
 | `pendorwright.com` | No |
 | `pendragon.rocks` | No |
+| `penfount.ink` | No |
 | `penfount.social` | No |
 | `pengi-san.moe` | Yes |
 | `pengin.club` | Yes |
@@ -29184,6 +29192,7 @@ Here's a list of public Fediverse services.
 | `phillipjordan.com` | Yes |
 | `phillips.fun` | No |
 | `phillipsuk.org` | No |
+| `phillprice.com` | Yes |
 | `philly.chat` | No |
 | `philly.page` | No |
 | `philoxweb.be` | No |
@@ -30725,6 +30734,7 @@ Here's a list of public Fediverse services.
 | `quangthang.men` | Yes |
 | `quanta.wiki` | No |
 | `quantenzitrone.eu` | No |
+| `quantie.social` | No |
 | `quantizr.com` | No |
 | `quantube.win` | Yes |
 | `quantum-business.social` | No |
@@ -37595,6 +37605,7 @@ Here's a list of public Fediverse services.
 | `thepirate.party` | No |
 | `thepit.social` | No |
 | `thepit.space` | No |
+| `thepixelproject.com` | Yes |
 | `theplace.social` | Yes |
 | `theplanet.rocks` | No |
 | `theplatypus.ca` | Yes |
@@ -39879,6 +39890,7 @@ Here's a list of public Fediverse services.
 | `uxg.ch` | No |
 | `uxint.ro` | No |
 | `uxp.de` | No |
+| `uxroux.xyz` | No |
 | `uyghur.life` | No |
 | `uysocial.live` | No |
 | `uzomuzo.work` | No |
@@ -43097,8 +43109,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,012 |
-| Normal | 32,042 |
+| Cloudflare | 11,015 |
+| Normal | 32,051 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
