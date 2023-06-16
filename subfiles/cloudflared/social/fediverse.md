@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,533 |
+| com | 6,534 |
 | social | 4,150 |
 | net | 3,292 |
 | org | 2,284 |
-| de | 2,155 |
+| de | 2,156 |
 
 
 - Mastodon, Pleroma, etc
@@ -736,7 +736,7 @@ Here's a list of public Fediverse services.
 | `a9z.dev` | Yes |
 | `aa.net.uk` | No |
 | `aaart.social` | No |
-| `aachen.social` | No |
+| `aachen.social` | Yes |
 | `aadils.computer` | No |
 | `aadtp.be` | No |
 | `aaio.eu` | Yes |
@@ -4337,6 +4337,7 @@ Here's a list of public Fediverse services.
 | `bleep.zone` | No |
 | `bleepbloop.club` | No |
 | `bleepboop.club` | No |
+| `bleh.au` | No |
 | `blendbyte.com` | No |
 | `blender.org` | No |
 | `blender3darchitect.com` | No |
@@ -5834,7 +5835,7 @@ Here's a list of public Fediverse services.
 | `cdmx.rocks` | No |
 | `cdownie.co.uk` | Yes |
 | `cdrom.tokyo` | No |
-| `cdrum.social` | No |
+| `cdrum.social` | Yes |
 | `cdstm.ch` | No |
 | `cdy.social` | Yes |
 | `ceb8.de` | No |
@@ -20570,6 +20571,7 @@ Here's a list of public Fediverse services.
 | `lemonparty.social` | Yes |
 | `lemontree.ml` | No |
 | `lemouvementassociatif-pdl.org` | No |
+| `lemthony.com` | No |
 | `lemue.org` | No |
 | `lemuspeschel.com` | Yes |
 | `lenakotonski.de` | No |
@@ -30196,6 +30198,7 @@ Here's a list of public Fediverse services.
 | `prieb.social` | No |
 | `primarycare.app` | Yes |
 | `primatemind.info` | No |
+| `primboard.de` | No |
 | `prime8s.xyz` | Yes |
 | `primeharbor.com` | No |
 | `primehq.co` | Yes |
@@ -30283,7 +30286,7 @@ Here's a list of public Fediverse services.
 | `programmer.technology` | No |
 | `programmer.town` | No |
 | `programmer1.com` | No |
-| `programming.dev` | No |
+| `programming.dev` | Yes |
 | `programmingsocks.com` | No |
 | `progressiv.dev` | No |
 | `progressivecafe.social` | No |
@@ -43094,7 +43097,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,009 |
+| Cloudflare | 11,012 |
 | Normal | 32,042 |
 
 
