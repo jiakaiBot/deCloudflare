@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-06-16: [Network performance issues in Dallas (TX, US) region.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/04wx9ws3g3t7)
 - 2023-06-14: [Forgot Email Portal Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qbn74zwl3qyq)
 - 2023-06-10: [Issue with Bot management traffic categorization for verified bots](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0ytdwbshvpby)
 - 2023-06-09: [Issue with Bot management traffic categorization for verified bots](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/60lmytnc0cbs)
