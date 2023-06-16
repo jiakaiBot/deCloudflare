@@ -35,7 +35,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | adguard-dns.com | Yes |
 | adrianlam.com | Yes |
 | aganin.org | No |
-| agh-dns.net | Yes |
 | ahadns.net | Yes |
 | aidentec.top | Yes |
 | alekberg.net | No |
@@ -149,7 +148,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | flwagners.com | No |
 | fomichev.cloud | Yes |
 | foximao.cn | No |
-| fresh-waffles.online | Yes |
 | freyja.pw | Yes |
 | froth.zone | No |
 | ftp.sh | No |
@@ -284,8 +282,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | persiannit.net | Yes |
 | pleumkungz.com | Yes |
 | plumedns.com | Yes |
+| printk.info | Yes |
 | privado.ovh | Yes |
-| privilab.net | No |
 | pumpkinvrar.com | No |
 | purbalinggakab.go.id | Yes |
 | puredns.org | Yes |
@@ -401,8 +399,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 194 |
-| Normal | 188 |
+| Cloudflare | 193 |
+| Normal | 187 |
 
 
 ### 50.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
