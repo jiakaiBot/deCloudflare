@@ -6958,6 +6958,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mait82181284@twitter](https://twitter.com/Mait82181284/status/1600479237907308544) | advertise |
 | [maithanh_tai@twitter](https://twitter.com/maithanh_tai/status/1401900355470839810) | advertise |
 | [MaitNguyn1@twitter](https://twitter.com/MaitNguyn1/status/1553259164927168513) | advertise |
+| [maitubame@twitter](https://twitter.com/maitubame/status/1669676888883888130) | advertise |
 | [MaiVnTi54764591@twitter](https://twitter.com/MaiVnTi54764591/status/1396340065610059776) | advertise |
 | [MaiXunTin7@twitter](https://twitter.com/MaiXunTin7/status/1622963456914882561) | advertise |
 | [maiykael@twitter](https://twitter.com/maiykael/status/1402267022659104779) | advertise |
