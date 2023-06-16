@@ -5005,6 +5005,7 @@ Do not create new issue or we will close it as duplicate.
 | [its_bimbima@twitter](https://twitter.com/its_bimbima/status/1404597353076596737) | advertise |
 | [Its_nonsoo@twitter](https://twitter.com/Its_nonsoo/status/1615742511091179520) | advertise |
 | [ittatwer@twitter](https://twitter.com/ittatwer/status/1499144227867041802) | advertise |
+| [ittekikun@twitter](https://twitter.com/ittekikun/status/1669658417718501376) | advertise |
 | [iturle_lilery@twitter](https://twitter.com/iturle_lilery/status/1384847338875801608) | advertise |
 | [itx3010@twitter](https://twitter.com/itx3010/status/1382043714714021893) | advertise |
 | [itzmadusanka@twitter](https://twitter.com/itzmadusanka/status/1541971199173197828) | advertise |
