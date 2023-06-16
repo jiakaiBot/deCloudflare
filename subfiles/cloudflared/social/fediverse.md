@@ -23833,6 +23833,7 @@ Here's a list of public Fediverse services.
 | `microprojects.de` | No |
 | `microscopic.network` | No |
 | `microscopium.de` | No |
+| `microsocial.club` | Yes |
 | `microswit.ch` | Yes |
 | `midala.net` | No |
 | `midchilda.com` | No |
@@ -30485,6 +30486,7 @@ Here's a list of public Fediverse services.
 | `publicvm.com` | Yes |
 | `publishing.social` | No |
 | `pubnex.us` | No |
+| `pubsub.fun` | No |
 | `puck.moe` | No |
 | `puckett.contact` | Yes |
 | `puckett.social` | Yes |
@@ -32978,7 +32980,7 @@ Here's a list of public Fediverse services.
 | `satanodon.com` | Yes |
 | `sate.li` | Yes |
 | `satealliasdomain.net` | No |
-| `sateh.com` | No |
+| `sateh.com` | Yes |
 | `satellite.earth` | Yes |
 | `saten.info` | No |
 | `sathyasai.guru` | No |
@@ -34037,6 +34039,7 @@ Here's a list of public Fediverse services.
 | `shuttleapp.rs` | No |
 | `shuuji3.xyz` | Yes |
 | `shuuten.org` | No |
+| `shwizard.chat` | No |
 | `shyly.social` | Yes |
 | `shytrr.com` | Yes |
 | `si4-mstdn.xyz` | No |
@@ -43115,8 +43118,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,017 |
-| Normal | 32,055 |
+| Cloudflare | 11,019 |
+| Normal | 32,056 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
