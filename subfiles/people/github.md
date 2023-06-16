@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Huobi not able to place derivates order: ExchangeError (linear contract)](https://github.com/ccxt/ccxt/issues/18252)
+- [Huobi not able to place derivates order: insufficient funds (inverse contract)](https://github.com/ccxt/ccxt/issues/18251)
+- [Axios is not supported on Edge Runtime](https://github.com/typesense/typesense-js/issues/161)
 - [github Deploy to Cloudflare Pages erro](https://github.com/microfeed/microfeed/issues/82)
 - [A solution to network error 403 cloudflare](https://github.com/dteviot/WebToEpub/issues/991)
 - [Cloudflare R2 storage with multipart](https://github.com/transloadit/uppy/issues/4505)
