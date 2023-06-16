@@ -7892,6 +7892,7 @@ Do not create new issue or we will close it as duplicate.
 | [MueTaw1@twitter](https://twitter.com/MueTaw1/status/1550494801677537280) | advertise |
 | [mufajar_@twitter](https://twitter.com/mufajar_/status/1505740681964552192) | advertise |
 | [mufuyt@twitter](https://twitter.com/mufuyt/status/1638791723668373506) | advertise |
+| [MUHAGUN28964797@twitter](https://twitter.com/MUHAGUN28964797/status/1669634478313181184) | advertise |
 | [muhamadhaziqna1@twitter](https://twitter.com/muhamadhaziqna1/status/1643533873463304194) | advertise |
 | [Muhamma04355643@twitter](https://twitter.com/Muhamma04355643/status/1392484542380875779) | advertise |
 | [Muhamma25190548@twitter](https://twitter.com/Muhamma25190548/status/1665060915908333568) | advertise |
