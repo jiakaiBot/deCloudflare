@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,532 |
+| com | 6,533 |
 | social | 4,150 |
 | net | 3,292 |
-| org | 2,283 |
+| org | 2,284 |
 | de | 2,155 |
 
 
@@ -3711,6 +3711,7 @@ Here's a list of public Fediverse services.
 | `belltower.it` | No |
 | `beloved-universe.com` | No |
 | `belovely.xyz` | No |
+| `belowland.com` | No |
 | `belpheg.org` | No |
 | `beltaine.day` | No |
 | `belug.de` | No |
@@ -17526,6 +17527,7 @@ Here's a list of public Fediverse services.
 | `j15r.com` | No |
 | `j3b.in` | No |
 | `j4nk.dev` | No |
+| `j51b5.me` | Yes |
 | `j621.net` | Yes |
 | `ja-jp.org` | No |
 | `ja.social` | No |
@@ -30152,6 +30154,7 @@ Here's a list of public Fediverse services.
 | `preppers-shelter.nl` | No |
 | `prepsandplanners.com` | No |
 | `presentdaypresenttime.com` | No |
+| `preserve.games` | No |
 | `preserve.media` | Yes |
 | `presidentielle.tech` | No |
 | `presidentissimo.com` | No |
@@ -37310,6 +37313,7 @@ Here's a list of public Fediverse services.
 | `thebmw.club` | No |
 | `thebonduniverse.net` | No |
 | `theboss.tech` | No |
+| `thebrainbin.org` | No |
 | `thebrave1.com` | No |
 | `thebristol.social` | Yes |
 | `thebrookes.com` | No |
@@ -42297,6 +42301,7 @@ Here's a list of public Fediverse services.
 | `ych.lgbt` | Yes |
 | `ycrack.net` | Yes |
 | `ycros.org` | Yes |
+| `ydenfrankl.in` | Yes |
 | `ydkn.social` | Yes |
 | `yeahnahcunt.club` | No |
 | `yeahnet.dev` | Yes |
@@ -43089,8 +43094,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,007 |
-| Normal | 32,039 |
+| Cloudflare | 11,009 |
+| Normal | 32,042 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
