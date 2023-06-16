@@ -11064,6 +11064,7 @@ Here's a list of public Fediverse services.
 | `etheirys.org` | No |
 | `etheirys.ovh` | No |
 | `ethereal.pw` | No |
+| `etherealhearth.io` | No |
 | `etherealmind.com` | Yes |
 | `ethernal.me` | Yes |
 | `ethernia.net` | No |
@@ -23763,7 +23764,7 @@ Here's a list of public Fediverse services.
 | `miau.pub` | Yes |
 | `miauuu.de` | No |
 | `miawinter.de` | No |
-| `mib.contact` | No |
+| `mib.contact` | Yes |
 | `miblog.life` | No |
 | `mibo.live` | Yes |
 | `micah.social` | No |
@@ -43114,7 +43115,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,016 |
+| Cloudflare | 11,017 |
 | Normal | 32,055 |
 
 
