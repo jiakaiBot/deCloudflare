@@ -4,6 +4,13 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare R2 storage with multipart](https://github.com/transloadit/uppy/issues/4505)
+- [Challenge not detected! - (There is no challenge but the cookies wont work)](https://github.com/FlareSolverr/FlareSolverr/issues/802)
+- [Cloudflare Workers template should default to port 8787 on startup](https://github.com/stackblitz/webcontainer-core/issues/1101)
+- [SSL Certificate invalid](https://github.com/open-domains/register/issues/351)
+- [The styling of the HTML page is changed.](https://github.com/CERTCC/SSVC/issues/245)
+- [Memory Leak traefik 2.10.1](https://github.com/traefik/traefik/issues/9959)
+- [Upgrade from 4.0.9 to 4.0.10 then wrangler dev remote fails](https://github.com/kwhitley/itty-router/issues/173)
 - [TypeError: node.component is not a function](https://github.com/sveltejs/kit/issues/10149)
 - [Secure.sh more secure options](https://github.com/ChrisTitusTech/secure-linux/issues/5)
 - [pulumi-cloudflare 5.4.0a1686595494 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/2860)
