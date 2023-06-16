@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,530 |
-| social | 4,149 |
-| net | 3,291 |
+| com | 6,532 |
+| social | 4,150 |
+| net | 3,292 |
 | org | 2,283 |
 | de | 2,155 |
 
@@ -5874,6 +5874,7 @@ Here's a list of public Fediverse services.
 | `censorship.icu` | No |
 | `censurion.tk` | No |
 | `centaurus-a.xyz` | Yes |
+| `centennialstate.social` | No |
 | `center.st` | No |
 | `centerforeveryday.technology` | No |
 | `centertown.fun` | No |
@@ -9300,6 +9301,7 @@ Here's a list of public Fediverse services.
 | `dithernet.org` | No |
 | `ditoforge.com` | No |
 | `ditrani.net` | Yes |
+| `ditrus.net` | No |
 | `dittolounge.gay` | No |
 | `ditundat.social` | No |
 | `div88.org` | No |
@@ -9635,7 +9637,7 @@ Here's a list of public Fediverse services.
 | `dotorg.org` | No |
 | `dotproto.com` | No |
 | `dotrio.net` | No |
-| `dotsod.com` | Yes |
+| `dotsod.com` | No |
 | `dotstar.plus` | No |
 | `dotyonline.net` | Yes |
 | `dou.bet` | Yes |
@@ -11994,6 +11996,7 @@ Here's a list of public Fediverse services.
 | `feral.technology` | No |
 | `feralkin.com` | No |
 | `feralmimesis.xyz` | Yes |
+| `feralsec.tv` | No |
 | `feraltomatoes.com` | No |
 | `ferd.at` | No |
 | `ferelith.blue` | No |
@@ -14597,6 +14600,7 @@ Here's a list of public Fediverse services.
 | `gregstoltz.com` | Yes |
 | `gregtaole.fr` | No |
 | `gregvogt.net` | Yes |
+| `gregw.us` | Yes |
 | `greiner.social` | No |
 | `greinr.com` | No |
 | `grella.rocks` | No |
@@ -17296,6 +17300,7 @@ Here's a list of public Fediverse services.
 | `isafurry.baby` | No |
 | `isagood.dog` | No |
 | `isalman.dev` | Yes |
+| `isamp.com` | Yes |
 | `isarzwo.com` | No |
 | `ischool.social` | No |
 | `iscurrently.live` | Yes |
@@ -17644,6 +17649,7 @@ Here's a list of public Fediverse services.
 | `jamesvasile.com` | No |
 | `jameswynn.com` | No |
 | `jameuwu.com` | Yes |
+| `jamie.moe` | No |
 | `jamieasefa.social` | No |
 | `jamiekerr.net` | Yes |
 | `jamiemchale.com` | No |
@@ -21243,6 +21249,7 @@ Here's a list of public Fediverse services.
 | `local-it.cloud` | No |
 | `local-rouze.org` | No |
 | `local.vn.ua` | No |
+| `local106.com` | No |
 | `local704.co` | No |
 | `localecho.net` | Yes |
 | `localghost.ooo` | Yes |
@@ -30045,7 +30052,7 @@ Here's a list of public Fediverse services.
 | `potatofrom.space` | Yes |
 | `potatoxel.org` | No |
 | `potchan.org` | Yes |
-| `potetotown.com` | No |
+| `potetotown.com` | Yes |
 | `potionlab.net` | Yes |
 | `potkukelkka.bond` | No |
 | `potla.ch` | Yes |
@@ -35066,6 +35073,7 @@ Here's a list of public Fediverse services.
 | `sow.social` | Yes |
 | `sowelijanpona.xyz` | No |
 | `sowhappy.us` | Yes |
+| `sowhois.gay` | No |
 | `sowi.space` | No |
 | `sowry.nz` | No |
 | `soykaf.club` | No |
@@ -37380,6 +37388,7 @@ Here's a list of public Fediverse services.
 | `theepistle.net` | No |
 | `theergold.com` | Yes |
 | `theeum.org` | No |
+| `theexpan.se` | No |
 | `thefaith.social` | No |
 | `thefamily.rocks` | No |
 | `thefamilycloud.org` | No |
@@ -43080,8 +43089,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,005 |
-| Normal | 32,032 |
+| Cloudflare | 11,007 |
+| Normal | 32,039 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
