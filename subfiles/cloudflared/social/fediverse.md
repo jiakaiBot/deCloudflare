@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,538 |
+| com | 6,539 |
 | social | 4,151 |
-| net | 3,292 |
+| net | 3,293 |
 | org | 2,284 |
 | de | 2,158 |
 
@@ -2773,6 +2773,7 @@ Here's a list of public Fediverse services.
 | `atdot.email` | No |
 | `atdotatdotat.at` | No |
 | `atdt.cc` | No |
+| `atechadventurer.dev` | No |
 | `ated.io` | Yes |
 | `atelier-kanata.dev` | Yes |
 | `ateliershiori.moe` | No |
@@ -6763,6 +6764,7 @@ Here's a list of public Fediverse services.
 | `codeday.social` | Yes |
 | `codeflow.club` | Yes |
 | `codefor.de` | No |
+| `codefossa.net` | No |
 | `codegito.xyz` | No |
 | `codeine.world` | Yes |
 | `codelib.re` | Yes |
@@ -9278,6 +9280,7 @@ Here's a list of public Fediverse services.
 | `dissimilitu.de` | Yes |
 | `dissociatedpress.net` | No |
 | `dissonanz.xyz` | Yes |
+| `distance.blue` | No |
 | `distant.homes` | No |
 | `distantends.net` | No |
 | `distilled.pm` | Yes |
@@ -24389,6 +24392,7 @@ Here's a list of public Fediverse services.
 | `mobiledevs.social` | No |
 | `mobilehackerz.jp` | No |
 | `mobileme.social` | No |
+| `mobilemmohub.com` | No |
 | `mobileography.info` | No |
 | `mobilisons.ch` | No |
 | `mobilite-mobiliteit.brussels` | No |
@@ -25697,6 +25701,7 @@ Here's a list of public Fediverse services.
 | `nana.sh` | No |
 | `nanaaki.com` | No |
 | `nanaka.love` | No |
+| `nanakumo.xyz` | Yes |
 | `nanamachi.net` | No |
 | `nanamono.xyz` | No |
 | `nanao.moe` | Yes |
@@ -43109,8 +43114,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,015 |
-| Normal | 32,051 |
+| Cloudflare | 11,016 |
+| Normal | 32,055 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
