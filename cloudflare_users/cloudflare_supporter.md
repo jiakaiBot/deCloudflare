@@ -916,6 +916,7 @@ Do not create new issue or we will close it as duplicate.
 | [AoJo42113946@twitter](https://twitter.com/AoJo42113946/status/1388823215775092742) | advertise |
 | [aokarkyaw007@twitter](https://twitter.com/aokarkyaw007/status/1404758206526615560) | advertise |
 | [Aoke31450522@twitter](https://twitter.com/Aoke31450522/status/1394282762413113345) | advertise |
+| [aomaru@twitter](https://twitter.com/aomaru/status/1669828608662343680) | advertise |
 | [Aon97493554@twitter](https://twitter.com/Aon97493554/status/1390939593080442884) | advertise |
 | [AOneKoKo1@twitter](https://twitter.com/AOneKoKo1/status/1396348320163930112) | advertise |
 | [Aorelianu@twitter](https://twitter.com/Aorelianu/status/1575798494673403904) | advertise |
@@ -6745,6 +6746,7 @@ Do not create new issue or we will close it as duplicate.
 | [LoveHun27992161@twitter](https://twitter.com/LoveHun27992161/status/1390758715708608513) | advertise |
 | [Loveisneverlos1@twitter](https://twitter.com/Loveisneverlos1/status/1397583492762927105) | advertise |
 | [Loveles63732045@twitter](https://twitter.com/Loveles63732045/status/1394978901445726212) | advertise |
+| [LoveLove1399@twitter](https://twitter.com/LoveLove1399/status/1669817590179307520) | advertise |
 | [lovelyjubbly_py@twitter](https://twitter.com/lovelyjubbly_py/status/1489966837932892162) | advertise |
 | [lovemesofly@twitter](https://twitter.com/lovemesofly/status/1382384844391391234) | advertise |
 | [LoveMoe5298@twitter](https://twitter.com/LoveMoe5298/status/1548585579453231104) | advertise |
