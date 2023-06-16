@@ -8289,6 +8289,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nduck222lul@twitter](https://twitter.com/Nduck222lul/status/1617152019722305537) | advertise |
 | [nducluongio36@twitter](https://twitter.com/nducluongio36/status/1401614551120900100) | advertise |
 | [ndymcvey@twitter](https://twitter.com/ndymcvey/status/1510713292095959043) | advertise |
+| [near0_@twitter](https://twitter.com/near0_/status/1669843297890869250) | advertise |
 | [nearby_Thailand@twitter](https://twitter.com/nearby_Thailand/status/1375630256543985666) | advertise |
 | [NearlyWithme@twitter](https://twitter.com/NearlyWithme/status/1390914049760661510) | advertise |
 | [necromungrel@twitter](https://twitter.com/necromungrel/status/1382410058735054850) | advertise |
@@ -12377,6 +12378,7 @@ Do not create new issue or we will close it as duplicate.
 | [U2nEWQNpIMT8JfT@twitter](https://twitter.com/U2nEWQNpIMT8JfT/status/1407552556960600072) | advertise |
 | [U2ub1@twitter](https://twitter.com/U2ub1/status/1534519357597958145) | advertise |
 | [u3FTE3PbLVg3trL@twitter](https://twitter.com/u3FTE3PbLVg3trL/status/1377926972689551360) | advertise |
+| [uadd_me@twitter](https://twitter.com/uadd_me/status/1669840758960955392) | advertise |
 | [UAS_mustbe@twitter](https://twitter.com/UAS_mustbe/status/1563593798793703425) | advertise |
 | [UAungKoLinn3@twitter](https://twitter.com/UAungKoLinn3/status/1390641230938214403) | advertise |
 | [UAZY_mm@twitter](https://twitter.com/UAZY_mm/status/1377727680984969217) | advertise |
