@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [github Deploy to Cloudflare Pages erro](https://github.com/microfeed/microfeed/issues/82)
+- [A solution to network error 403 cloudflare](https://github.com/dteviot/WebToEpub/issues/991)
 - [Cloudflare R2 storage with multipart](https://github.com/transloadit/uppy/issues/4505)
 - [Challenge not detected! - (There is no challenge but the cookies wont work)](https://github.com/FlareSolverr/FlareSolverr/issues/802)
 - [Cloudflare Workers template should default to port 8787 on startup](https://github.com/stackblitz/webcontainer-core/issues/1101)
