@@ -2816,6 +2816,7 @@ Do not create new issue or we will close it as duplicate.
 | [DiscordedLynx@twitter](https://twitter.com/DiscordedLynx/status/1418624822771437575) | advertise |
 | [discree17928848@twitter](https://twitter.com/discree17928848/status/1610265362272256005) | advertise |
 | [DishaDidi3@twitter](https://twitter.com/DishaDidi3/status/1387742143855222790) | advertise |
+| [disinfeqt@twitter](https://twitter.com/disinfeqt/status/1669928164737560577) | advertise |
 | [Divinity113@twitter](https://twitter.com/Divinity113/status/1665874511810420737) | advertise |
 | [divy83381142@twitter](https://twitter.com/divy83381142/status/1405595079176196100) | advertise |
 | [DiyokeCelestine@twitter](https://twitter.com/DiyokeCelestine/status/1602692664956227584) | advertise |
@@ -8956,6 +8957,7 @@ Do not create new issue or we will close it as duplicate.
 | [OnHamza1828@twitter](https://twitter.com/OnHamza1828/status/1627851108675616768) | advertise |
 | [OniiTien@twitter](https://twitter.com/OniiTien/status/1387349185091960832) | advertise |
 | [Onim16321345@twitter](https://twitter.com/Onim16321345/status/1385246334161092619) | advertise |
+| [OnJgames@twitter](https://twitter.com/OnJgames/status/1669926440882802689) | advertise |
 | [OnlineKolshi@twitter](https://twitter.com/OnlineKolshi/status/1625885503764430849) | advertise |
 | [onlinesafety001@twitter](https://twitter.com/onlinesafety001/status/1516478432791732230) | advertise |
 | [Onlybar150893@twitter](https://twitter.com/Onlybar150893/status/1408063898222141446) | advertise |
