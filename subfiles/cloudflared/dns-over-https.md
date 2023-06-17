@@ -78,7 +78,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cira.ca | Yes |
 | circl.lu | No |
 | clanless.ovh | Yes |
-| clearviewtechnology.net | No |
+| clearviewtechnology.net | Yes |
 | cloudflare-dns.com | Yes |
 | cloudnx.cloud | Yes |
 | comss.one | No |
@@ -399,8 +399,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 194 |
-| Normal | 186 |
+| Cloudflare | 195 |
+| Normal | 185 |
 
 
-### 51.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
