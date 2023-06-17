@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,546 |
+| com | 6,547 |
 | social | 4,156 |
 | net | 3,295 |
 | org | 2,285 |
@@ -5818,7 +5818,7 @@ Here's a list of public Fediverse services.
 | `cc.bi` | No |
 | `cc.chat` | Yes |
 | `cc2.at` | No |
-| `cc38.cc` | Yes |
+| `cc38.cc` | No |
 | `ccaa.info` | Yes |
 | `ccc-ffm.space` | No |
 | `cccccmake.de` | No |
@@ -6916,7 +6916,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8258,7 +8258,7 @@ Here's a list of public Fediverse services.
 | `darkplanetego.de` | No |
 | `darkposh.com` | No |
 | `darks.fr` | No |
-| `darksair.org` | No |
+| `darksair.org` | Yes |
 | `darkshade.social` | No |
 | `darksheep.social` | No |
 | `darksiders.me` | Yes |
@@ -14085,6 +14085,7 @@ Here's a list of public Fediverse services.
 | `gizm0.dev` | Yes |
 | `gizmo-harmonia.social` | No |
 | `gizmo4487.dev` | Yes |
+| `gizode.com` | Yes |
 | `gizz.family` | No |
 | `gjallarhorn.dev` | No |
 | `gjcloak.top` | No |
@@ -17422,7 +17423,7 @@ Here's a list of public Fediverse services.
 | `itcountrythai.com` | No |
 | `itcrowd.space` | No |
 | `itdev.social` | Yes |
-| `iteasy.club` | No |
+| `iteasy.club` | Yes |
 | `itemis.social` | No |
 | `itengineer.club` | No |
 | `iterate.no` | No |
@@ -43151,8 +43152,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,025 |
-| Normal | 32,083 |
+| Cloudflare | 11,028 |
+| Normal | 32,081 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
