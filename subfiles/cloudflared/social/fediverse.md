@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,548 |
+| com | 6,549 |
 | social | 4,156 |
-| net | 3,296 |
+| net | 3,297 |
 | org | 2,285 |
 | de | 2,159 |
 
@@ -15882,7 +15882,7 @@ Here's a list of public Fediverse services.
 | `hnws.me` | Yes |
 | `hnz.io` | No |
 | `hnzz.nl` | Yes |
-| `ho-chi-minh.info` | No |
+| `ho-chi-minh.info` | Yes |
 | `ho-me.zone` | Yes |
 | `hoagie.fun` | Yes |
 | `hoam.earth` | No |
@@ -21368,6 +21368,7 @@ Here's a list of public Fediverse services.
 | `lolicon.win` | Yes |
 | `loliheaven.net` | No |
 | `loliloli.moe` | Yes |
+| `lolimbeer.com` | No |
 | `loliotaku.club` | No |
 | `loliravioli.club` | No |
 | `lolis.world` | No |
@@ -30358,6 +30359,7 @@ Here's a list of public Fediverse services.
 | `projectmushroom.social` | No |
 | `projectsegfau.lt` | Yes |
 | `projectspoint.uk` | No |
+| `projecttyco.net` | No |
 | `projectx.fun` | No |
 | `projektchaos.network` | No |
 | `projekthafen.net` | No |
@@ -43158,8 +43160,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,029 |
-| Normal | 32,086 |
+| Cloudflare | 11,030 |
+| Normal | 32,087 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
