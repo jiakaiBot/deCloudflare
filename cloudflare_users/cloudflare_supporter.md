@@ -10364,6 +10364,7 @@ Do not create new issue or we will close it as duplicate.
 | [samsam36495863@twitter](https://twitter.com/samsam36495863/status/1380863072726876163) | advertise |
 | [Samsher12808325@twitter](https://twitter.com/Samsher12808325/status/1516307889388163076) | advertise |
 | [samtommy@twitter](https://twitter.com/samtommy/status/1595661444368015360) | advertise |
+| [samuelglaspel@twitter](https://twitter.com/samuelglaspel/status/1670042019073499137) | advertise |
 | [samuelibk@twitter](https://twitter.com/samuelibk/status/1404790587375730688) | advertise |
 | [samueljackrtx@twitter](https://twitter.com/samueljackrtx/status/1509751188312391683) | advertise |
 | [samuelll_llll@twitter](https://twitter.com/samuelll_llll/status/1587850198822289408) | advertise |
