@@ -3318,6 +3318,7 @@ Do not create new issue or we will close it as duplicate.
 | [EusXJgfmWOS4dgq@twitter](https://twitter.com/EusXJgfmWOS4dgq/status/1648164702424539138) | advertise |
 | [euxn23@twitter](https://twitter.com/euxn23/status/1630094336645017600) | advertise |
 | [EuzbiettaK@twitter](https://twitter.com/EuzbiettaK/status/1601331468000952320) | advertise |
+| [EvanTrow@twitter](https://twitter.com/EvanTrow/status/1670069349527191553) | advertise |
 | [Evelynn81093224@twitter](https://twitter.com/Evelynn81093224/status/1391448970866667524) | advertise |
 | [evendorton@twitter](https://twitter.com/evendorton/status/1386213571726610432) | advertise |
 | [everwant1@twitter](https://twitter.com/everwant1/status/1391332046211981312) | advertise |
@@ -9680,6 +9681,7 @@ Do not create new issue or we will close it as duplicate.
 | [QingSon42331119@twitter](https://twitter.com/QingSon42331119/status/1545130837057863682) | advertise |
 | [qkhai323@twitter](https://twitter.com/qkhai323/status/1478540022487814144) | advertise |
 | [qlufi2@twitter](https://twitter.com/qlufi2/status/1437630069388705796) | advertise |
+| [qmet297@twitter](https://twitter.com/qmet297/status/1670085708751704064) | advertise |
 | [qmutz@twitter](https://twitter.com/qmutz/status/1383237532054261762) | advertise |
 | [qniInC1x2OFEAgN@twitter](https://twitter.com/qniInC1x2OFEAgN/status/1377557102453956612) | advertise |
 | [qn_duong@twitter](https://twitter.com/qn_duong/status/1391105546585927680) | advertise |
