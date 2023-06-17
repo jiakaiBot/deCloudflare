@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- ['watchySettings' {aka 'struct watchySettings'} has no member named 'lat'](https://github.com/Sudrien/WatchyOrbital/issues/1)
 - [pynocaptcha 1.5.6 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/6133)
 - [Exception: Authentication failed问题，换了挺多节点的，还是一样的问题，在newbing官网上能正常使用。](https://github.com/juzeon/SydneyQt/issues/28)
 - [CSR verification fails with SHA3-384 and ECDSA](https://github.com/openssl/openssl/issues/21224)
