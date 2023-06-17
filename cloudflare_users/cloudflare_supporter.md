@@ -13171,6 +13171,7 @@ Do not create new issue or we will close it as duplicate.
 | [Yate315142663@twitter](https://twitter.com/Yate315142663/status/1385109096999706629) | advertise |
 | [Yatendr59558289@twitter](https://twitter.com/Yatendr59558289/status/1398716969054998528) | advertise |
 | [YatiLinn10@twitter](https://twitter.com/YatiLinn10/status/1384424833329602560) | advertise |
+| [yatsuha4@twitter](https://twitter.com/yatsuha4/status/1669888902382125056) | advertise |
 | [YaTu78700206@twitter](https://twitter.com/YaTu78700206/status/1385128233742438400) | advertise |
 | [YaungKoe@twitter](https://twitter.com/YaungKoe/status/1390402620833951745) | advertise |
 | [YaungZi60186603@twitter](https://twitter.com/YaungZi60186603/status/1526594565691834370) | advertise |
