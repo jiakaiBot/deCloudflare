@@ -628,6 +628,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aliov456@twitter](https://twitter.com/Aliov456/status/1596472440963604482) | advertise |
 | [Aliphent1@twitter](https://twitter.com/Aliphent1/status/1390970393012445188) | advertise |
 | [aliraza786s@twitter](https://twitter.com/aliraza786s/status/1669577469735870465) | advertise |
+| [alireza02228306@twitter](https://twitter.com/alireza02228306/status/1670185181590831105) | advertise |
 | [Alireza06559988@twitter](https://twitter.com/Alireza06559988/status/1611630338618593281) | advertise |
 | [Alireza38854410@twitter](https://twitter.com/Alireza38854410/status/1590028048241659904) | advertise |
 | [Alireza47491461@twitter](https://twitter.com/Alireza47491461/status/1384770721897984000) | advertise |
@@ -10078,6 +10079,7 @@ Do not create new issue or we will close it as duplicate.
 | [RobJPyne@twitter](https://twitter.com/RobJPyne/status/1381766563749982212) | advertise |
 | [RoboCanvas@twitter](https://twitter.com/RoboCanvas/status/1612796426123378689) | advertise |
 | [Robson1Lee@twitter](https://twitter.com/Robson1Lee/status/1608219726672711680) | advertise |
+| [RobWilb@twitter](https://twitter.com/RobWilb/status/1670166522902315012) | advertise |
 | [Roccorockz2@twitter](https://twitter.com/Roccorockz2/status/1399533964579151876) | advertise |
 | [ROCC_OUT_SHORTY@twitter](https://twitter.com/ROCC_OUT_SHORTY/status/1380923792822788101) | advertise |
 | [rockcockberry@twitter](https://twitter.com/rockcockberry/status/1556199648766746624) | advertise |
@@ -12643,6 +12645,7 @@ Do not create new issue or we will close it as duplicate.
 | [VitAnh43103569@twitter](https://twitter.com/VitAnh43103569/status/1402170872165658628) | advertise |
 | [VitDung12@twitter](https://twitter.com/VitDung12/status/1491647678593536002) | advertise |
 | [VitHong8386@twitter](https://twitter.com/VitHong8386/status/1552460011489853440) | advertise |
+| [VitNguy02423141@twitter](https://twitter.com/VitNguy02423141/status/1670181505744908288) | advertise |
 | [Vitnh15062481@twitter](https://twitter.com/Vitnh15062481/status/1402894739284783104) | advertise |
 | [VitPhmQuang1@twitter](https://twitter.com/VitPhmQuang1/status/1393441308887244804) | advertise |
 | [vivian_eyes9@twitter](https://twitter.com/vivian_eyes9/status/1400989452944637952) | advertise |
