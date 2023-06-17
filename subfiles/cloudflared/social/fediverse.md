@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,547 |
+| com | 6,548 |
 | social | 4,156 |
-| net | 3,295 |
+| net | 3,296 |
 | org | 2,285 |
 | de | 2,159 |
 
@@ -5425,6 +5425,7 @@ Here's a list of public Fediverse services.
 | `calavere.me` | No |
 | `calbasi.net` | No |
 | `calc.news` | Yes |
+| `calciumlabs.com` | Yes |
 | `calciumsigma.com` | No |
 | `calckey.art` | No |
 | `calckey.berlin` | No |
@@ -9242,6 +9243,7 @@ Here's a list of public Fediverse services.
 | `discorded.io` | No |
 | `discordian.social` | No |
 | `discorporea.com` | No |
+| `discothe.quest` | No |
 | `discourse-research.net` | No |
 | `discourse.org` | Yes |
 | `discourse.social` | Yes |
@@ -22319,6 +22321,7 @@ Here's a list of public Fediverse services.
 | `marf.space` | No |
 | `margemsulnomundo.com` | No |
 | `marginaa.li` | No |
+| `marginalcuriosity.net` | No |
 | `marginalea.online` | No |
 | `marginalie.eu` | No |
 | `margio.de` | Yes |
@@ -25419,6 +25422,7 @@ Here's a list of public Fediverse services.
 | `myco.systems` | No |
 | `mycology.party` | No |
 | `myconan.net` | Yes |
+| `mycool.place` | No |
 | `mycorrhizal.earth` | No |
 | `mycozy.space` | No |
 | `mycroft.website` | No |
@@ -34223,6 +34227,7 @@ Here's a list of public Fediverse services.
 | `simonwillison.net` | Yes |
 | `simonwood.info` | No |
 | `simounet.net` | No |
+| `simpl.website` | No |
 | `simple-gear.com` | Yes |
 | `simpledoesit.com` | No |
 | `simplefinances.net` | No |
@@ -39086,6 +39091,7 @@ Here's a list of public Fediverse services.
 | `tumfatig.net` | No |
 | `tummyacid.net` | No |
 | `tumocs.eu` | No |
+| `tuna.cat` | No |
 | `tuna.today` | No |
 | `tunahan.me` | Yes |
 | `tunahan.social` | Yes |
@@ -43152,8 +43158,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,028 |
-| Normal | 32,081 |
+| Cloudflare | 11,029 |
+| Normal | 32,086 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
