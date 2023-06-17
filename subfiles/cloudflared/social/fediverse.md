@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,156 |
 | net | 3,297 |
 | org | 2,285 |
-| de | 2,159 |
+| de | 2,160 |
 
 
 - Mastodon, Pleroma, etc
@@ -5884,7 +5884,7 @@ Here's a list of public Fediverse services.
 | `censorship.icu` | No |
 | `censurion.tk` | No |
 | `centaurus-a.xyz` | Yes |
-| `centennialstate.social` | No |
+| `centennialstate.social` | Yes |
 | `center.st` | No |
 | `centerforeveryday.technology` | No |
 | `centertown.fun` | No |
@@ -14270,7 +14270,7 @@ Here's a list of public Fediverse services.
 | `gnusocial.cc` | No |
 | `gnusocial.ch` | No |
 | `gnusocial.cl` | No |
-| `gnusocial.club` | No |
+| `gnusocial.club` | Yes |
 | `gnusocial.de` | No |
 | `gnusocial.in` | No |
 | `gnusocial.jp` | Yes |
@@ -16371,6 +16371,7 @@ Here's a list of public Fediverse services.
 | `hyatalk.com` | No |
 | `hybridby.design` | No |
 | `hybridenterprise.net` | No |
+| `hybridlehrer.de` | No |
 | `hydracurios.space` | No |
 | `hydrantosaurus.com` | Yes |
 | `hydrate.space` | Yes |
@@ -18353,6 +18354,7 @@ Here's a list of public Fediverse services.
 | `jrmyr.net` | Yes |
 | `js.social` | Yes |
 | `js4.in` | No |
+| `jsantos.eu` | No |
 | `jschwab.org` | No |
 | `jseggers.com` | Yes |
 | `jsfamily.in` | No |
@@ -43160,7 +43162,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,030 |
+| Cloudflare | 11,032 |
 | Normal | 32,087 |
 
 
