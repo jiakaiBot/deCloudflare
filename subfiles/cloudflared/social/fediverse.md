@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,549 |
-| social | 4,156 |
-| net | 3,297 |
-| org | 2,285 |
+| com | 6,551 |
+| social | 4,157 |
+| net | 3,298 |
+| org | 2,286 |
 | de | 2,160 |
 
 
@@ -47,6 +47,7 @@ Here's a list of public Fediverse services.
 | `01001010.net` | Yes |
 | `01001010.social` | Yes |
 | `01010011.xyz` | Yes |
+| `014450.xyz` | Yes |
 | `01bit.xyz` | Yes |
 | `01start.net` | No |
 | `02a.life` | No |
@@ -3099,6 +3100,7 @@ Here's a list of public Fediverse services.
 | `ayu.land` | No |
 | `ayushio.com` | Yes |
 | `ayutsuki.net` | Yes |
+| `ayyildiz.social` | No |
 | `az-men.com` | No |
 | `az.social` | No |
 | `aza.moe` | Yes |
@@ -4343,7 +4345,7 @@ Here's a list of public Fediverse services.
 | `bleep.zone` | No |
 | `bleepbloop.club` | No |
 | `bleepboop.club` | No |
-| `bleh.au` | No |
+| `bleh.au` | Yes |
 | `blendbyte.com` | No |
 | `blender.org` | No |
 | `blender3darchitect.com` | No |
@@ -8272,6 +8274,7 @@ Here's a list of public Fediverse services.
 | `darkyonmasto.ch` | No |
 | `darlow.co.uk` | No |
 | `darmeth.com` | No |
+| `darmok.xyz` | No |
 | `darmstadt.social` | Yes |
 | `darn.fish` | Yes |
 | `darn.social` | Yes |
@@ -11587,6 +11590,7 @@ Here's a list of public Fediverse services.
 | `fathermaurer.com` | Yes |
 | `fatkin.me` | No |
 | `fatpig.club` | No |
+| `fatpikachu.com` | No |
 | `fatsofa.eu` | No |
 | `fatty-j.com` | No |
 | `faucher.social` | No |
@@ -15455,6 +15459,7 @@ Here's a list of public Fediverse services.
 | `heising.at` | No |
 | `heislandmine.work` | No |
 | `heizag.ch` | No |
+| `hejdu.lol` | No |
 | `hejfolks.social` | No |
 | `heka.social` | Yes |
 | `hekeki.com` | No |
@@ -16043,6 +16048,7 @@ Here's a list of public Fediverse services.
 | `honq.me` | No |
 | `hoob.io` | No |
 | `hoodojo.com` | No |
+| `hoodratshit.org` | No |
 | `hoops.chat` | No |
 | `hooray.computer` | No |
 | `hoosier.social` | No |
@@ -20109,7 +20115,7 @@ Here's a list of public Fediverse services.
 | `lacteum.xyz` | No |
 | `lactomeda.tk` | No |
 | `ladd.network` | Yes |
-| `ladicle.com` | No |
+| `ladicle.com` | Yes |
 | `ladies-log.de` | No |
 | `ladies.community` | No |
 | `ladisquette.fr` | No |
@@ -20544,6 +20550,7 @@ Here's a list of public Fediverse services.
 | `lem0n.cc` | Yes |
 | `lema.org` | No |
 | `lemarchand.io` | No |
+| `lemdit.com` | No |
 | `lemediatv.fr` | No |
 | `lemee.co` | No |
 | `lemel.cc` | No |
@@ -27665,6 +27672,7 @@ Here's a list of public Fediverse services.
 | `okdtsk.info` | No |
 | `okenite.nagoya` | No |
 | `okhin.fr` | No |
+| `oki-don.net` | No |
 | `okin-jp.net` | Yes |
 | `okin.cloud` | No |
 | `okinawa-mstdn.okinawa` | No |
@@ -32190,7 +32198,7 @@ Here's a list of public Fediverse services.
 | `rockyroad.social` | Yes |
 | `rocu.de` | Yes |
 | `rodab.party` | No |
-| `rodacy.tv` | No |
+| `rodacy.tv` | Yes |
 | `rodent.city` | No |
 | `rodent.cloud` | No |
 | `rodent.io` | No |
@@ -33610,7 +33618,7 @@ Here's a list of public Fediverse services.
 | `selfhost.services` | Yes |
 | `selfhosted.cafe` | Yes |
 | `selfhosted.social` | Yes |
-| `selfhosting.info` | No |
+| `selfhosting.info` | Yes |
 | `selfhosting.rocks` | No |
 | `selfie.town` | No |
 | `selfiverse.com` | No |
@@ -37104,6 +37112,7 @@ Here's a list of public Fediverse services.
 | `templar.digital` | No |
 | `templar.one` | Yes |
 | `temporario.xyz` | Yes |
+| `temporus.me` | No |
 | `tempus.tk` | No |
 | `temsa.me` | No |
 | `tenak.net` | No |
@@ -40212,7 +40221,7 @@ Here's a list of public Fediverse services.
 | `verteiltegedanken.de` | No |
 | `vertexspew.social` | No |
 | `verumsocial.com` | Yes |
-| `vervology.social` | No |
+| `vervology.social` | Yes |
 | `verweg.com` | No |
 | `verweij.network` | No |
 | `verwirrung.institute` | No |
@@ -43162,8 +43171,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,032 |
-| Normal | 32,087 |
+| Cloudflare | 11,038 |
+| Normal | 32,090 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
