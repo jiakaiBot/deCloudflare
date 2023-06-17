@@ -8680,6 +8680,7 @@ Do not create new issue or we will close it as duplicate.
 | [NitishK83635660@twitter](https://twitter.com/NitishK83635660/status/1447557117599105028) | advertise |
 | [NitiSinghTomar1@twitter](https://twitter.com/NitiSinghTomar1/status/1376880690516660226) | advertise |
 | [nitrojrd@twitter](https://twitter.com/nitrojrd/status/1641175551909019658) | advertise |
+| [nittaione@twitter](https://twitter.com/nittaione/status/1670000343319736320) | advertise |
 | [Niv_mor@twitter](https://twitter.com/Niv_mor/status/1399756042590904325) | advertise |
 | [Nizi113@twitter](https://twitter.com/Nizi113/status/1656242016618188800) | advertise |
 | [njang_zau_mun@twitter](https://twitter.com/njang_zau_mun/status/1380180638804832256) | advertise |
