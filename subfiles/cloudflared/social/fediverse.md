@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,551 |
+| com | 6,552 |
 | social | 4,157 |
-| net | 3,298 |
+| net | 3,299 |
 | org | 2,286 |
 | de | 2,160 |
 
@@ -11062,6 +11062,7 @@ Here's a list of public Fediverse services.
 | `etalab.gouv.fr` | Yes |
 | `etalian.me` | Yes |
 | `etaverse.com` | No |
+| `etbr.top` | Yes |
 | `etbus.ch` | No |
 | `etc-services.de` | No |
 | `eter9.com` | Yes |
@@ -18626,6 +18627,7 @@ Here's a list of public Fediverse services.
 | `kaiju.city` | No |
 | `kaiju.social` | Yes |
 | `kaikretschmann.de` | No |
+| `kaikyosha.net` | No |
 | `kaimi.cc` | No |
 | `kainehm.com` | No |
 | `kainehm.de` | No |
@@ -21989,6 +21991,7 @@ Here's a list of public Fediverse services.
 | `mae.wtf` | Yes |
 | `maehl.eu` | No |
 | `maelstrom.space` | No |
+| `maengkkongi.site` | No |
 | `maennerplenum.eu` | No |
 | `maerou.com` | Yes |
 | `maescool.be` | Yes |
@@ -23795,6 +23798,7 @@ Here's a list of public Fediverse services.
 | `miasma.space` | No |
 | `miau.chat` | No |
 | `miau.pub` | Yes |
+| `miau.vg` | Yes |
 | `miauuu.de` | No |
 | `miawinter.de` | No |
 | `mib.contact` | Yes |
@@ -28689,6 +28693,7 @@ Here's a list of public Fediverse services.
 | `parasocial.network` | Yes |
 | `parastor.net` | Yes |
 | `paratxt.org` | No |
+| `paravielfalt.zone` | No |
 | `parawatch.org` | No |
 | `parcel5.social` | No |
 | `parcility.co` | Yes |
@@ -30839,6 +30844,7 @@ Here's a list of public Fediverse services.
 | `queerdorks.club` | No |
 | `queerenough.com` | No |
 | `queereszentrumtuebingen.de` | No |
+| `queerfedi.com` | Yes |
 | `queerfeels.com` | Yes |
 | `queerfem.space` | No |
 | `queerfreiburg.de` | No |
@@ -34131,6 +34137,7 @@ Here's a list of public Fediverse services.
 | `sigcrap.org` | No |
 | `sigdrifa.eu` | Yes |
 | `sigfried.be` | No |
+| `sigh.io` | No |
 | `sighash.info` | Yes |
 | `sigil.ink` | Yes |
 | `sigil.li` | No |
@@ -42378,7 +42385,6 @@ Here's a list of public Fediverse services.
 | `ych.lgbt` | Yes |
 | `ycrack.net` | Yes |
 | `ycros.org` | Yes |
-| `ydenfrankl.in` | Yes |
 | `ydkn.social` | Yes |
 | `yeahnahcunt.club` | No |
 | `yeahnet.dev` | Yes |
@@ -43171,8 +43177,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,038 |
-| Normal | 32,090 |
+| Cloudflare | 11,040 |
+| Normal | 32,094 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
