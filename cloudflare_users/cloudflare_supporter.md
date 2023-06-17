@@ -7761,6 +7761,7 @@ Do not create new issue or we will close it as duplicate.
 | [MoneyCarlo7@twitter](https://twitter.com/MoneyCarlo7/status/1602277134722015232) | advertise |
 | [Moneysdm1@twitter](https://twitter.com/Moneysdm1/status/1384978130008514560) | advertise |
 | [monicabwar11@twitter](https://twitter.com/monicabwar11/status/1393435235015086082) | advertise |
+| [moniquelive@twitter](https://twitter.com/moniquelive/status/1670039887964168193) | advertise |
 | [Monish45746353@twitter](https://twitter.com/Monish45746353/status/1386654173832220681) | advertise |
 | [MonisRajput9@twitter](https://twitter.com/MonisRajput9/status/1386293306460499972) | advertise |
 | [monjure99gmailc@twitter](https://twitter.com/monjure99gmailc/status/1392445521730572296) | advertise |
