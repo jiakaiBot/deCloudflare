@@ -8958,6 +8958,7 @@ Do not create new issue or we will close it as duplicate.
 | [onepro202@twitter](https://twitter.com/onepro202/status/1396891095674535937) | advertise |
 | [OneSix@twitter](https://twitter.com/OneSix/status/1487221418337181697) | advertise |
 | [onethreenineon2@twitter](https://twitter.com/onethreenineon2/status/1377541859241644042) | advertise |
+| [one_seiko@twitter](https://twitter.com/one_seiko/status/1670140106009874432) | advertise |
 | [OnHamza1828@twitter](https://twitter.com/OnHamza1828/status/1627851108675616768) | advertise |
 | [OniiTien@twitter](https://twitter.com/OniiTien/status/1387349185091960832) | advertise |
 | [Onim16321345@twitter](https://twitter.com/Onim16321345/status/1385246334161092619) | advertise |
