@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,552 |
+| com | 6,553 |
 | social | 4,157 |
 | net | 3,299 |
 | org | 2,286 |
@@ -7151,6 +7151,7 @@ Here's a list of public Fediverse services.
 | `coolbowties.xyz` | No |
 | `coolboys.jp` | No |
 | `cooler.mom` | No |
+| `coolest.zone` | Yes |
 | `cooleysekula.net` | No |
 | `coolguys.observer` | No |
 | `coolhost.fr` | No |
@@ -8829,6 +8830,7 @@ Here's a list of public Fediverse services.
 | `derhof.eu` | No |
 | `derlemue.com` | No |
 | `dermarcus.de` | No |
+| `derp.foo` | No |
 | `derpendler.ch` | No |
 | `derper.space` | No |
 | `derpsin.space` | No |
@@ -12302,6 +12304,7 @@ Here's a list of public Fediverse services.
 | `flashfic.stream` | No |
 | `flashist.art` | No |
 | `flashtrafficlabs.com` | Yes |
+| `flashz.directory` | No |
 | `flastodon.social` | No |
 | `flat.place` | Yes |
 | `flatearth.group` | No |
@@ -16048,6 +16051,7 @@ Here's a list of public Fediverse services.
 | `honokanomori.com` | No |
 | `honq.me` | No |
 | `hoob.io` | No |
+| `hoodlem.me` | No |
 | `hoodojo.com` | No |
 | `hoodratshit.org` | No |
 | `hoops.chat` | No |
@@ -36899,6 +36903,7 @@ Here's a list of public Fediverse services.
 | `teaguestockwell.com` | Yes |
 | `teaguild.dev` | No |
 | `teahouse.social` | No |
+| `teaisatfour.com` | Yes |
 | `teakettle.social` | No |
 | `teal.social` | No |
 | `tealich.com` | No |
@@ -43177,8 +43182,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,040 |
-| Normal | 32,094 |
+| Cloudflare | 11,042 |
+| Normal | 32,097 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
