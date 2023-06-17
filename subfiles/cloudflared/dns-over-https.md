@@ -358,7 +358,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | truong.fi | Yes |
 | tu-bs.de | No |
 | twnic.tw | No |
-| tylerwahl.com | No |
+| tylerwahl.com | Yes |
 | typaza.com | No |
 | unima.ac.id | No |
 | unstoppable.io | Yes |
@@ -399,8 +399,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 193 |
-| Normal | 187 |
+| Cloudflare | 194 |
+| Normal | 186 |
 
 
-### 50.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
