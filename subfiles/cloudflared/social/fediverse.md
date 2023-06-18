@@ -12550,6 +12550,7 @@ Here's a list of public Fediverse services.
 | `foowar.de` | No |
 | `foowp.org` | No |
 | `fopnu.pw` | No |
+| `fops.cloud` | No |
 | `fora.social` | No |
 | `fora.win` | No |
 | `forall.social` | No |
@@ -43231,7 +43232,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,060 |
-| Normal | 32,127 |
+| Normal | 32,128 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
