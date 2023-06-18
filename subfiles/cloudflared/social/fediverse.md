@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,558 |
 | social | 4,162 |
-| net | 3,303 |
+| net | 3,304 |
 | org | 2,289 |
 | de | 2,161 |
 
@@ -1940,6 +1940,7 @@ Here's a list of public Fediverse services.
 | `androidmanife.st` | No |
 | `androidn.tokyo` | No |
 | `androidpolice.com` | Yes |
+| `androkai.net` | No |
 | `andrus.io` | Yes |
 | `andrzejl.eu` | No |
 | `andsmiled.com` | Yes |
@@ -11908,6 +11909,7 @@ Here's a list of public Fediverse services.
 | `fediverse.cz` | No |
 | `fediverse.date` | No |
 | `fediverse.express` | No |
+| `fediverse.info` | Yes |
 | `fediverse.land` | Yes |
 | `fediverse.lgbt` | No |
 | `fediverse.link` | Yes |
@@ -20168,6 +20170,7 @@ Here's a list of public Fediverse services.
 | `lagob.fr` | No |
 | `lagoonisfun.com` | No |
 | `lagovouni.com` | No |
+| `lagraff.me` | No |
 | `lagrottedelours.ovh` | No |
 | `laguna.cafe` | No |
 | `lagy.org` | No |
@@ -30362,6 +30365,7 @@ Here's a list of public Fediverse services.
 | `procella.tech` | No |
 | `process-one.net` | No |
 | `procgen.ai` | No |
+| `prochnow.xyz` | No |
 | `procolix.social` | No |
 | `procrastinate.work` | No |
 | `procrastination.party` | No |
@@ -43231,8 +43235,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,060 |
-| Normal | 32,128 |
+| Cloudflare | 11,061 |
+| Normal | 32,131 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
