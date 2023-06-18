@@ -1544,6 +1544,7 @@ Do not create new issue or we will close it as duplicate.
 | [behraya@twitter](https://twitter.com/behraya/status/1477938099699208198) | advertise |
 | [behzad59870464@twitter](https://twitter.com/behzad59870464/status/1387742506230632453) | advertise |
 | [BeingAshfaque@twitter](https://twitter.com/BeingAshfaque/status/1404517154683121664) | advertise |
+| [BeingImranh@twitter](https://twitter.com/BeingImranh/status/1670269773392011264) | advertise |
 | [BeingTareq@twitter](https://twitter.com/BeingTareq/status/1553113875372855296) | advertise |
 | [Beingvickey1@twitter](https://twitter.com/Beingvickey1/status/1395697777737408512) | advertise |
 | [bejiitas_wrath@twitter](https://twitter.com/bejiitas_wrath/status/1432068322820980736) | advertise |
@@ -3191,6 +3192,7 @@ Do not create new issue or we will close it as duplicate.
 | [elclaustro@twitter](https://twitter.com/elclaustro/status/1617738072128651266) | advertise |
 | [EldanizGuluzade@twitter](https://twitter.com/EldanizGuluzade/status/1620027126094381056) | advertise |
 | [eldrdgdayao@twitter](https://twitter.com/eldrdgdayao/status/1547573579453059073) | advertise |
+| [elec2rak@twitter](https://twitter.com/elec2rak/status/1670307571167817731) | advertise |
 | [Elena160921@twitter](https://twitter.com/Elena160921/status/1506156363692478464) | advertise |
 | [ELEVEN86464120@twitter](https://twitter.com/ELEVEN86464120/status/1398547337459367936) | advertise |
 | [EliasDallas1@twitter](https://twitter.com/EliasDallas1/status/1395655946844532745) | advertise |
@@ -3229,6 +3231,7 @@ Do not create new issue or we will close it as duplicate.
 | [emadkarnail@twitter](https://twitter.com/emadkarnail/status/1669760280694345728) | advertise |
 | [email2khkoh@twitter](https://twitter.com/email2khkoh/status/1597065598206640129) | advertise |
 | [Email69400101@twitter](https://twitter.com/Email69400101/status/1405570403200684046) | advertise |
+| [EmanFararh@twitter](https://twitter.com/EmanFararh/status/1670322899364769792) | advertise |
 | [EmanRuoy123@twitter](https://twitter.com/EmanRuoy123/status/1554761591870357504) | advertise |
 | [EMATiON@twitter](https://twitter.com/EMATiON/status/1538236295150981120) | advertise |
 | [embedded_iot@twitter](https://twitter.com/embedded_iot/status/1480167905132228613) | advertise |
