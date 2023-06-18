@@ -3456,6 +3456,7 @@ Here's a list of public Fediverse services.
 | `bartchampagne.be` | No |
 | `bartdorsey.com` | Yes |
 | `bartels.social` | No |
+| `bartkk.xyz` | No |
 | `bartoszmilewski.com` | No |
 | `bartraigures.com` | No |
 | `bartrip.me.uk` | Yes |
@@ -43203,7 +43204,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,048 |
-| Normal | 32,111 |
+| Normal | 32,112 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
