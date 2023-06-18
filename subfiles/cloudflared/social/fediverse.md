@@ -26866,6 +26866,7 @@ Here's a list of public Fediverse services.
 | `nokotaro.work` | Yes |
 | `nola.actor` | Yes |
 | `nolanfans.com` | Yes |
+| `nolani.academy` | Yes |
 | `nolanlawson.com` | No |
 | `noldal.net` | No |
 | `nolden.social` | No |
@@ -43200,7 +43201,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,045 |
+| Cloudflare | 11,046 |
 | Normal | 32,112 |
 
 
