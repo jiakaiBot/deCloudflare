@@ -1489,6 +1489,7 @@ Do not create new issue or we will close it as duplicate.
 | [barbooviolet@twitter](https://twitter.com/barbooviolet/status/1495203666000683010) | advertise |
 | [bardsama@twitter](https://twitter.com/bardsama/status/1628423591850291201) | advertise |
 | [BarentoOl@twitter](https://twitter.com/BarentoOl/status/1563561876738682883) | advertise |
+| [barkleesanders@twitter](https://twitter.com/barkleesanders/status/1670332072253353985) | advertise |
 | [Barnsdale1987@twitter](https://twitter.com/Barnsdale1987/status/1665858534083362818) | advertise |
 | [Barryalpha191@twitter](https://twitter.com/Barryalpha191/status/1501295856049217538) | advertise |
 | [BartMan__X@twitter](https://twitter.com/BartMan__X/status/1610793004133924866) | advertise |
