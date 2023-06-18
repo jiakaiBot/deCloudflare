@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,555 |
-| social | 4,158 |
+| com | 6,556 |
+| social | 4,159 |
 | net | 3,302 |
 | org | 2,289 |
 | de | 2,160 |
@@ -3777,6 +3777,7 @@ Here's a list of public Fediverse services.
 | `benoit-alessandroni.fr` | No |
 | `benpettis.ninja` | No |
 | `benpro.fr` | Yes |
+| `benrasich.com` | No |
 | `bens.photos` | No |
 | `bensahlmueller.com` | No |
 | `bensch-server.de` | No |
@@ -5580,6 +5581,7 @@ Here's a list of public Fediverse services.
 | `capitalistlepton.com` | No |
 | `capricom.info` | No |
 | `capslock.dev` | Yes |
+| `captainapathetic.cfd` | No |
 | `captainark.net` | No |
 | `captaincalliope.net` | Yes |
 | `captainslog.aero` | No |
@@ -13182,7 +13184,7 @@ Here's a list of public Fediverse services.
 | `full-house.de` | No |
 | `fullhosting.eu` | No |
 | `fullmoonrva.com` | Yes |
-| `fullof.buzz` | No |
+| `fullof.buzz` | Yes |
 | `fullstackgeek.tech` | No |
 | `fullstuck.net` | No |
 | `fulltermprivacy.com` | No |
@@ -29382,6 +29384,7 @@ Here's a list of public Fediverse services.
 | `pifferi.info` | Yes |
 | `pifke.social` | No |
 | `pigelet.org` | No |
+| `pigeon.place` | No |
 | `pigeon.town` | No |
 | `pigeonburger.xyz` | Yes |
 | `pigeons.cloud` | No |
@@ -32920,6 +32923,7 @@ Here's a list of public Fediverse services.
 | `samuelgharvey.com` | Yes |
 | `samulczyk.pl` | No |
 | `samurai-gamers.com` | No |
+| `samw.dev` | Yes |
 | `san-antonio.social` | Yes |
 | `san-tama.tokyo` | No |
 | `san.moe` | No |
@@ -38576,6 +38580,7 @@ Here's a list of public Fediverse services.
 | `tootux.tk` | No |
 | `tootville.com` | No |
 | `tootwithfriends.com` | No |
+| `tootworld.social` | No |
 | `tooty.org` | No |
 | `tootz.org` | No |
 | `tooweb.se` | No |
@@ -43203,8 +43208,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,048 |
-| Normal | 32,112 |
+| Cloudflare | 11,050 |
+| Normal | 32,115 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
