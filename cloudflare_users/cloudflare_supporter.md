@@ -5704,6 +5704,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kektulahpokokny@twitter](https://twitter.com/Kektulahpokokny/status/1644698081366097927) | advertise |
 | [kelenrojas@twitter](https://twitter.com/kelenrojas/status/1425974196270768138) | advertise |
 | [kelliejones2023@twitter](https://twitter.com/kelliejones2023/status/1666533699654148096) | advertise |
+| [kelvin27315@twitter](https://twitter.com/kelvin27315/status/1670350069500088320) | advertise |
 | [KelvinHein07@twitter](https://twitter.com/KelvinHein07/status/1390492994160136194) | advertise |
 | [KelvinK48901926@twitter](https://twitter.com/KelvinK48901926/status/1392420332728852484) | advertise |
 | [Kem23065441@twitter](https://twitter.com/Kem23065441/status/1401916905816870914) | advertise |
