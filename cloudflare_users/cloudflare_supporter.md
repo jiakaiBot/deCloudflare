@@ -10605,6 +10605,7 @@ Do not create new issue or we will close it as duplicate.
 | [shadowdud@twitter](https://twitter.com/shadowdud/status/1377597937576984581) | advertise |
 | [ShadowGamerz12@twitter](https://twitter.com/ShadowGamerz12/status/1386981568581824515) | advertise |
 | [shadrachoderaa@twitter](https://twitter.com/shadrachoderaa/status/1570966653336449025) | advertise |
+| [shafooo4u@twitter](https://twitter.com/shafooo4u/status/1670475438689488896) | advertise |
 | [ShagunDagar2@twitter](https://twitter.com/ShagunDagar2/status/1395023596439826435) | advertise |
 | [shahab_e@twitter](https://twitter.com/shahab_e/status/1582046946331459594) | advertise |
 | [Shahbaz74136829@twitter](https://twitter.com/Shahbaz74136829/status/1405061089155596288) | advertise |
