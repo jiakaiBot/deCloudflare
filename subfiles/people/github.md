@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [pulumi-cloudflare 5.5.0a1687050407 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/6432)
+- [pulumi-cloudflare 5.5.0a1687050407 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/6412)
 - ['watchySettings' {aka 'struct watchySettings'} has no member named 'lat'](https://github.com/Sudrien/WatchyOrbital/issues/1)
 - [pynocaptcha 1.5.6 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/6133)
 - [Exception: Authentication failed问题，换了挺多节点的，还是一样的问题，在newbing官网上能正常使用。](https://github.com/juzeon/SydneyQt/issues/28)
