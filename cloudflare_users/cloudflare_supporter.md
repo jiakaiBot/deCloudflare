@@ -3585,6 +3585,7 @@ Do not create new issue or we will close it as duplicate.
 | [FXhkv@twitter](https://twitter.com/FXhkv/status/1395869051964985347) | advertise |
 | [fxk@twitter](https://twitter.com/fxk/status/1576773129568890880) | advertise |
 | [fyhao@twitter](https://twitter.com/fyhao/status/1427551252964016135) | advertise |
+| [Fykowo@twitter](https://twitter.com/Fykowo/status/1670260324564623360) | advertise |
 | [FykzKallu@twitter](https://twitter.com/FykzKallu/status/1593252649859620865) | advertise |
 | [fyrman24@twitter](https://twitter.com/fyrman24/status/1541156750748942347) | advertise |
 | [fysgwyt134@twitter](https://twitter.com/fysgwyt134/status/1613789747092291584) | advertise |
