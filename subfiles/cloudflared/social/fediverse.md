@@ -26581,6 +26581,7 @@ Here's a list of public Fediverse services.
 | `nikotile.xyz` | Yes |
 | `nikvalls.pet` | No |
 | `nil.nu` | Yes |
+| `nil.services` | Yes |
 | `nil.social` | Yes |
 | `nildon.com` | No |
 | `nile.plus` | No |
@@ -43212,7 +43213,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,054 |
+| Cloudflare | 11,055 |
 | Normal | 32,115 |
 
 
