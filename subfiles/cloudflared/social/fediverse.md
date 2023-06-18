@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,557 |
-| social | 4,159 |
+| social | 4,160 |
 | net | 3,302 |
 | org | 2,289 |
-| de | 2,160 |
+| de | 2,161 |
 
 
 - Mastodon, Pleroma, etc
@@ -13731,6 +13731,7 @@ Here's a list of public Fediverse services.
 | `geckodesigns.social` | Yes |
 | `gedankenlie.be` | No |
 | `gedankenteiler.blog` | No |
+| `geddit.social` | Yes |
 | `gedenkarbeit.me` | No |
 | `geek-and-poke.com` | No |
 | `geek.co.il` | No |
@@ -26220,6 +26221,7 @@ Here's a list of public Fediverse services.
 | `net-pbx.com` | No |
 | `net.engineering` | No |
 | `net.scot` | Yes |
+| `net2o.de` | No |
 | `net4sw.com` | No |
 | `netaka.net` | No |
 | `netauthority.org` | No |
@@ -43213,8 +43215,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,055 |
-| Normal | 32,115 |
+| Cloudflare | 11,056 |
+| Normal | 32,116 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
