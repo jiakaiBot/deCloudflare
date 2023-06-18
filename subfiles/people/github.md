@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [pulumi-cloudflare 5.4.1 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/6475)
 - [pulumi-cloudflare 5.5.0a1687050407 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/6432)
 - [pulumi-cloudflare 5.5.0a1687050407 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/6412)
 - ['watchySettings' {aka 'struct watchySettings'} has no member named 'lat'](https://github.com/Sudrien/WatchyOrbital/issues/1)
