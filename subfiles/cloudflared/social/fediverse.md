@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,556 |
+| com | 6,557 |
 | social | 4,159 |
 | net | 3,302 |
 | org | 2,289 |
@@ -2102,6 +2102,7 @@ Here's a list of public Fediverse services.
 | `anti-degeneracy.club` | No |
 | `anti-globalism.org` | No |
 | `anti-imperialist.net` | Yes |
+| `anti-logic.com` | Yes |
 | `anti-social.online` | Yes |
 | `anti.energy` | No |
 | `anticapitalist.party` | Yes |
@@ -2146,7 +2147,7 @@ Here's a list of public Fediverse services.
 | `antopie.org` | No |
 | `antovolk.co.uk` | No |
 | `antranigv.am` | No |
-| `antrejeuxstudio.fr` | No |
+| `antrejeuxstudio.fr` | Yes |
 | `antria.io` | No |
 | `antricks.dev` | No |
 | `anttirt.net` | No |
@@ -21597,6 +21598,7 @@ Here's a list of public Fediverse services.
 | `loxol.space` | No |
 | `loyko.social` | No |
 | `loyko.stream` | No |
+| `lpda.se` | Yes |
 | `lpfm.social` | No |
 | `lpha-z.net` | No |
 | `lplab.net` | Yes |
@@ -43210,8 +43212,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,051 |
-| Normal | 32,116 |
+| Cloudflare | 11,054 |
+| Normal | 32,115 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
