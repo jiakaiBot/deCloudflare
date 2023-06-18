@@ -3954,6 +3954,7 @@ Do not create new issue or we will close it as duplicate.
 | [haiquandeptry@twitter](https://twitter.com/haiquandeptry/status/1521697593000046592) | advertise |
 | [HairKarinak@twitter](https://twitter.com/HairKarinak/status/1593940778790756352) | advertise |
 | [hairsalonandy@twitter](https://twitter.com/hairsalonandy/status/1622611444520079361) | advertise |
+| [HaiTan70152722@twitter](https://twitter.com/HaiTan70152722/status/1670422332509401090) | advertise |
 | [haitensama@twitter](https://twitter.com/haitensama/status/1388050755433603075) | advertise |
 | [Hai_Vu2008@twitter](https://twitter.com/Hai_Vu2008/status/1622981499539828736) | advertise |
 | [HajiDawood200@twitter](https://twitter.com/HajiDawood200/status/1597334326638653440) | advertise |
