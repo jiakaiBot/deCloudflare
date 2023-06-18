@@ -7214,6 +7214,7 @@ Here's a list of public Fediverse services.
 | `corebreach.com` | No |
 | `corecoding.dev` | No |
 | `coredump.social` | No |
+| `corentinfiloche.xyz` | No |
 | `corepaper.org` | No |
 | `coreshock.de` | No |
 | `coreycarvalho.com` | Yes |
@@ -28907,6 +28908,7 @@ Here's a list of public Fediverse services.
 | `pccl.me` | No |
 | `pceninja.com` | No |
 | `pcf.fr` | Yes |
+| `pcft.eu` | Yes |
 | `pcgaldo.com` | No |
 | `pcgame.jp` | No |
 | `pcgamer.social` | Yes |
@@ -43228,8 +43230,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,059 |
-| Normal | 32,126 |
+| Cloudflare | 11,060 |
+| Normal | 32,127 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
