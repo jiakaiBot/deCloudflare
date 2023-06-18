@@ -31281,7 +31281,7 @@ Here's a list of public Fediverse services.
 | `ranran.tw` | No |
 | `ranranhome.info` | Yes |
 | `ranranhome.site` | No |
-| `ransom.buzz` | Yes |
+| `ransom.buzz` | No |
 | `rant.li` | Yes |
 | `rants.au` | Yes |
 | `rants.org` | No |
@@ -38170,6 +38170,7 @@ Here's a list of public Fediverse services.
 | `tkschland.social` | No |
 | `tkte.ch` | No |
 | `tkw.fm` | Yes |
+| `tkz.es` | Yes |
 | `tkz.one` | Yes |
 | `tl-dr.net` | No |
 | `tlbflush.org` | No |
@@ -39443,7 +39444,7 @@ Here's a list of public Fediverse services.
 | `udon.icu` | Yes |
 | `udon.moe` | No |
 | `udon.pink` | No |
-| `udon.red` | No |
+| `udon.red` | Yes |
 | `udona.fr` | No |
 | `udongein.reisen` | No |
 | `udongein.xyz` | No |
@@ -43201,7 +43202,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,046 |
+| Cloudflare | 11,047 |
 | Normal | 32,112 |
 
 
