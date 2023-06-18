@@ -38170,7 +38170,6 @@ Here's a list of public Fediverse services.
 | `tkschland.social` | No |
 | `tkte.ch` | No |
 | `tkw.fm` | Yes |
-| `tkz.es` | Yes |
 | `tkz.one` | Yes |
 | `tl-dr.net` | No |
 | `tlbflush.org` | No |
@@ -43202,7 +43201,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,047 |
+| Cloudflare | 11,046 |
 | Normal | 32,112 |
 
 
