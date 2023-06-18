@@ -5518,6 +5518,7 @@ Do not create new issue or we will close it as duplicate.
 | [KACHA35541338@twitter](https://twitter.com/KACHA35541338/status/1402959497266556928) | advertise |
 | [KackleyThomas@twitter](https://twitter.com/KackleyThomas/status/1507557295122792450) | advertise |
 | [KadenDax@twitter](https://twitter.com/KadenDax/status/1580425797445120000) | advertise |
+| [kael2901@twitter](https://twitter.com/kael2901/status/1670208421793234950) | advertise |
 | [KAFGIRhastam@twitter](https://twitter.com/KAFGIRhastam/status/1629588876430827521) | advertise |
 | [kaganergovan@twitter](https://twitter.com/kaganergovan/status/1653064089470377992) | advertise |
 | [kahatake88@twitter](https://twitter.com/kahatake88/status/1581301801823141888) | advertise |
