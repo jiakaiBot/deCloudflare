@@ -20056,6 +20056,7 @@ Here's a list of public Fediverse services.
 | `l-internet.fr` | No |
 | `l-p-d.org` | No |
 | `l-w-i-don.net` | No |
+| `l0g.is` | No |
 | `l0nax.org` | Yes |
 | `l0v.es` | Yes |
 | `l1f.de` | No |
@@ -20573,6 +20574,7 @@ Here's a list of public Fediverse services.
 | `lemee.co` | No |
 | `lemel.cc` | No |
 | `lemider.me` | No |
+| `lemiverse.xyz` | Yes |
 | `lemm.ee` | Yes |
 | `lemma.tk` | No |
 | `lemmerz.org` | No |
@@ -43208,8 +43210,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,050 |
-| Normal | 32,115 |
+| Cloudflare | 11,051 |
+| Normal | 32,116 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
