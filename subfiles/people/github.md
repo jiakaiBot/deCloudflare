@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [use gradio authentication with cloudflared](https://github.com/Bing-su/sd-webui-tunnels/issues/7)
 - [can't access GPT-4](https://github.com/karthink/gptel/issues/79)
 - [pulumi-cloudflare 5.4.1 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/6475)
 - [pulumi-cloudflare 5.5.0a1687050407 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/6432)
