@@ -9110,6 +9110,7 @@ Do not create new issue or we will close it as duplicate.
 | [pajarrahmansyah@twitter](https://twitter.com/pajarrahmansyah/status/1626736157622165505) | advertise |
 | [pajeraspart@twitter](https://twitter.com/pajeraspart/status/1552017882372276225) | advertise |
 | [pakalupapitol@twitter](https://twitter.com/pakalupapitol/status/1399651143311974404) | advertise |
+| [PakkaNimbu@twitter](https://twitter.com/PakkaNimbu/status/1670711366309609472) | advertise |
 | [PakoMotsumi4@twitter](https://twitter.com/PakoMotsumi4/status/1551305611824041985) | advertise |
 | [palazathanhnam@twitter](https://twitter.com/palazathanhnam/status/1622223740418543617) | advertise |
 | [PallinksWeb@twitter](https://twitter.com/PallinksWeb/status/1664210114289577988) | advertise |
@@ -12578,6 +12579,7 @@ Do not create new issue or we will close it as duplicate.
 | [Verheijke@twitter](https://twitter.com/Verheijke/status/1537395365208539137) | advertise |
 | [VeRseS23221477@twitter](https://twitter.com/VeRseS23221477/status/1538116332331278336) | advertise |
 | [VersoeGee@twitter](https://twitter.com/VersoeGee/status/1385038002490019844) | advertise |
+| [vetchanna@twitter](https://twitter.com/vetchanna/status/1670710637759184896) | advertise |
 | [VeteranOwned@twitter](https://twitter.com/VeteranOwned/status/1390703239042117632) | advertise |
 | [vettijoe@twitter](https://twitter.com/vettijoe/status/1390939641025466371) | advertise |
 | [VeVe69904456@twitter](https://twitter.com/VeVe69904456/status/1390967162878283780) | advertise |
