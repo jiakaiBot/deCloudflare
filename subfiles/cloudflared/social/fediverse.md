@@ -16662,6 +16662,7 @@ Here's a list of public Fediverse services.
 | `ient.me` | No |
 | `iero.org` | No |
 | `ietf.social` | No |
+| `ifarded.lol` | No |
 | `ifi.sh` | No |
 | `ifightbigrobots.com` | No |
 | `iflab.org` | Yes |
@@ -43258,7 +43259,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,064 |
-| Normal | 32,150 |
+| Normal | 32,151 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
