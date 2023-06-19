@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,566 |
 | social | 4,169 |
-| net | 3,308 |
+| net | 3,309 |
 | org | 2,293 |
 | de | 2,162 |
 
@@ -7315,6 +7315,7 @@ Here's a list of public Fediverse services.
 | `courat.fr` | No |
 | `courbet.social` | No |
 | `courier.no` | No |
+| `courlet.net` | No |
 | `courtenay.io` | Yes |
 | `courtneyr.dev` | No |
 | `cousinsd.net` | No |
@@ -17723,6 +17724,7 @@ Here's a list of public Fediverse services.
 | `jamesgallagher.photos` | No |
 | `jamesgallagher.social` | No |
 | `jamesharrington.org` | Yes |
+| `jamesj999.co.uk` | No |
 | `jameskitt616.one` | No |
 | `jameslandrum.com` | No |
 | `jameslynch.dev` | No |
@@ -20012,6 +20014,7 @@ Here's a list of public Fediverse services.
 | `kusozako.com` | Yes |
 | `kusso-yotta.com` | Yes |
 | `kusu.icu` | Yes |
+| `kusu.moe` | Yes |
 | `kuu.moe` | Yes |
 | `kuude.re` | No |
 | `kuukkanen.net` | Yes |
@@ -33966,7 +33969,7 @@ Here's a list of public Fediverse services.
 | `shashindo.de` | No |
 | `shatteredpalisa.de` | No |
 | `shatteredsky.net` | Yes |
-| `shaughnessy.xyz` | No |
+| `shaughnessy.xyz` | Yes |
 | `shaun.net` | No |
 | `shauny.me` | Yes |
 | `shavedmammoth.social` | No |
@@ -43290,8 +43293,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,082 |
-| Normal | 32,165 |
+| Cloudflare | 11,084 |
+| Normal | 32,166 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
