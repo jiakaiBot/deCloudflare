@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,565 |
-| social | 4,167 |
-| net | 3,306 |
-| org | 2,291 |
+| com | 6,566 |
+| social | 4,169 |
+| net | 3,308 |
+| org | 2,293 |
 | de | 2,162 |
 
 
@@ -1487,6 +1487,7 @@ Here's a list of public Fediverse services.
 | `alfter.us` | No |
 | `algarve-pur.de` | No |
 | `algebra.chat` | No |
+| `algebro.xyz` | No |
 | `algenhonig.de` | No |
 | `algerietelecom.org` | No |
 | `alglab.net` | No |
@@ -6186,6 +6187,7 @@ Here's a list of public Fediverse services.
 | `chiguito.com` | No |
 | `chihayainfotech.com` | No |
 | `chiheisen.moe` | No |
+| `chiisana.net` | Yes |
 | `chiji.space` | No |
 | `chik.social` | Yes |
 | `chikai.network` | No |
@@ -6902,7 +6904,7 @@ Here's a list of public Fediverse services.
 | `colivre.net` | No |
 | `collabora.digital` | No |
 | `collado.eu` | Yes |
-| `collantes.social` | No |
+| `collantes.social` | Yes |
 | `collapse.cat` | Yes |
 | `collapse.pub` | No |
 | `collapsitarian.io` | No |
@@ -6939,7 +6941,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8062,6 +8064,7 @@ Here's a list of public Fediverse services.
 | `dabr.ca` | No |
 | `dabxcanada.ca` | No |
 | `dachary.org` | No |
+| `dacharycarey.social` | No |
 | `daco.dev` | Yes |
 | `dadalo.pl` | No |
 | `dadasophin.de` | No |
@@ -10054,6 +10057,7 @@ Here's a list of public Fediverse services.
 | `dutka-is.de` | No |
 | `duwa.ng` | No |
 | `duxez.dev` | No |
+| `duxie.xyz` | No |
 | `dv.buzz` | No |
 | `dvdlws.xyz` | No |
 | `dvdt.dev` | No |
@@ -11884,6 +11888,7 @@ Here's a list of public Fediverse services.
 | `fedisphere.net` | No |
 | `fedispot.com` | No |
 | `fedistat.com` | No |
+| `fedit.io` | No |
 | `feditalk.com` | No |
 | `fedithese.fr` | No |
 | `fedithese.net` | No |
@@ -20089,6 +20094,7 @@ Here's a list of public Fediverse services.
 | `l-internet.fr` | No |
 | `l-p-d.org` | No |
 | `l-w-i-don.net` | No |
+| `l00p.org` | No |
 | `l0g.is` | No |
 | `l0nax.org` | Yes |
 | `l0v.es` | Yes |
@@ -20372,6 +20378,7 @@ Here's a list of public Fediverse services.
 | `lauderdale.social` | No |
 | `lauercloud.de` | No |
 | `laughingsquid.com` | Yes |
+| `lauka.eu.org` | No |
 | `lauka.net` | No |
 | `lauka.space` | No |
 | `launay.org` | No |
@@ -24141,6 +24148,7 @@ Here's a list of public Fediverse services.
 | `minimalstate.dev` | No |
 | `minimeadow.art` | No |
 | `minimmill.com` | No |
+| `minin0la.xyz` | Yes |
 | `miningpro362.xyz` | Yes |
 | `miningsunshine.com` | No |
 | `mininull.com` | Yes |
@@ -25860,6 +25868,7 @@ Here's a list of public Fediverse services.
 | `nashe.be` | No |
 | `nashtodon.com` | No |
 | `nashvillecomedy.social` | No |
+| `naskali.fi` | No |
 | `naskya.net` | Yes |
 | `nasn.icu` | No |
 | `nasnfl.com` | No |
@@ -27407,7 +27416,7 @@ Here's a list of public Fediverse services.
 | `nya.show` | Yes |
 | `nya.social` | No |
 | `nyaa.app` | Yes |
-| `nyaa.io` | No |
+| `nyaa.io` | Yes |
 | `nyaa.social` | No |
 | `nyaa.tech` | Yes |
 | `nyaafire.com` | No |
@@ -29678,7 +29687,7 @@ Here's a list of public Fediverse services.
 | `pkteerium.xyz` | No |
 | `pkutalk.com` | No |
 | `pl-sonic.net` | Yes |
-| `pla.social` | No |
+| `pla.social` | Yes |
 | `pla1.net` | No |
 | `place-of-refuge.com` | No |
 | `placedelhorloge.fr` | No |
@@ -31287,6 +31296,7 @@ Here's a list of public Fediverse services.
 | `ramoonus.nl` | Yes |
 | `rampantmonkey.social` | No |
 | `rampin.org` | No |
+| `ramram.ink` | Yes |
 | `ramsdr.ru` | Yes |
 | `ramshackle.town` | No |
 | `ramuuns.com` | No |
@@ -32105,6 +32115,7 @@ Here's a list of public Fediverse services.
 | `rio20.net` | No |
 | `riotcat.org` | No |
 | `rioto.us` | Yes |
+| `ripo.st` | No |
 | `riquer.fr` | No |
 | `ris.paris` | No |
 | `risaton.net` | No |
@@ -32610,6 +32621,7 @@ Here's a list of public Fediverse services.
 | `runfox.tk` | No |
 | `rungirls.run` | No |
 | `runlinux.net` | No |
+| `runnerd.net` | No |
 | `runninginthenight.com` | No |
 | `runningwithbulls.com` | No |
 | `runorsmile.de` | No |
@@ -35422,6 +35434,7 @@ Here's a list of public Fediverse services.
 | `spkt.studio` | No |
 | `spla2n.ink` | No |
 | `splain.club` | No |
+| `splashcat.social` | Yes |
 | `splat.social` | No |
 | `splat.soy` | No |
 | `splat00n.ink` | Yes |
@@ -37118,6 +37131,7 @@ Here's a list of public Fediverse services.
 | `techthoughts.io` | Yes |
 | `techtodon.com` | Yes |
 | `techtoots.com` | No |
+| `techviator.com` | Yes |
 | `techy.jp` | No |
 | `techy.social` | Yes |
 | `techzerker.com` | Yes |
@@ -37173,6 +37187,7 @@ Here's a list of public Fediverse services.
 | `teknoids.net` | No |
 | `teknologiumum.com` | Yes |
 | `teknorota.com` | Yes |
+| `tekolote.co` | Yes |
 | `tekton.network` | No |
 | `tela.moe` | Yes |
 | `teldarpaper.com` | No |
@@ -43275,8 +43290,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,072 |
-| Normal | 32,160 |
+| Cloudflare | 11,082 |
+| Normal | 32,165 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
