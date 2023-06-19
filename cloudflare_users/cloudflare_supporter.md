@@ -3324,6 +3324,7 @@ Do not create new issue or we will close it as duplicate.
 | [euxn23@twitter](https://twitter.com/euxn23/status/1630094336645017600) | advertise |
 | [EuzbiettaK@twitter](https://twitter.com/EuzbiettaK/status/1601331468000952320) | advertise |
 | [EvanTrow@twitter](https://twitter.com/EvanTrow/status/1670069349527191553) | advertise |
+| [Evan_Inc@twitter](https://twitter.com/Evan_Inc/status/1670672082097803265) | advertise |
 | [Evelynn81093224@twitter](https://twitter.com/Evelynn81093224/status/1391448970866667524) | advertise |
 | [evendorton@twitter](https://twitter.com/evendorton/status/1386213571726610432) | advertise |
 | [everwant1@twitter](https://twitter.com/everwant1/status/1391332046211981312) | advertise |
@@ -8301,6 +8302,7 @@ Do not create new issue or we will close it as duplicate.
 | [nazri143828@twitter](https://twitter.com/nazri143828/status/1663918494298124293) | advertise |
 | [Na_AlFayeez@twitter](https://twitter.com/Na_AlFayeez/status/1388195478844674055) | advertise |
 | [nbranche@twitter](https://twitter.com/nbranche/status/1670499966219874304) | advertise |
+| [NCRCET@twitter](https://twitter.com/NCRCET/status/1670669145057402886) | advertise |
 | [Ndahe8@twitter](https://twitter.com/Ndahe8/status/1387121668582117377) | advertise |
 | [NdIosdg@twitter](https://twitter.com/NdIosdg/status/1502104011155324932) | advertise |
 | [ndt1901@twitter](https://twitter.com/ndt1901/status/1547278303161352192) | advertise |
