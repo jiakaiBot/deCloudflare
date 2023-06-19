@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Premium player can't join the server getting prompt to rejoin the server as if he had written /premium command](https://github.com/Elytrium/LimboAuth/issues/104)
 - [pynocaptcha 1.5.8 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/7830)
 - [pynocaptcha 1.5.8 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/7815)
 - [NuxtTurnstile component not loading Turnstile script as expected](https://github.com/nuxt-modules/turnstile/issues/250)
