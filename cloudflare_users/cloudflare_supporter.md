@@ -12692,6 +12692,7 @@ Do not create new issue or we will close it as duplicate.
 | [vnsntrn15@twitter](https://twitter.com/vnsntrn15/status/1562074302203428864) | advertise |
 | [VNSPnet@twitter](https://twitter.com/VNSPnet/status/1388806930890592258) | advertise |
 | [VnTnh53728960@twitter](https://twitter.com/VnTnh53728960/status/1378052859594383363) | advertise |
+| [VnTunPhm8@twitter](https://twitter.com/VnTunPhm8/status/1670694497653788672) | advertise |
 | [VN_Ricefield@twitter](https://twitter.com/VN_Ricefield/status/1387816206636240897) | advertise |
 | [voanhkhoi2003@twitter](https://twitter.com/voanhkhoi2003/status/1608843184284766208) | advertise |
 | [vocalblissprods@twitter](https://twitter.com/vocalblissprods/status/1644808813990785024) | advertise |
