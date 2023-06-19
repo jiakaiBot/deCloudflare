@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,566 |
-| social | 4,169 |
+| com | 6,567 |
+| social | 4,170 |
 | net | 3,309 |
 | org | 2,293 |
 | de | 2,162 |
@@ -5471,6 +5471,7 @@ Here's a list of public Fediverse services.
 | `calico.social` | No |
 | `calidris.lv` | No |
 | `californialocal.com` | No |
+| `calkeo.dev` | Yes |
 | `calligraphicspace.com` | No |
 | `callingallpapers.com` | Yes |
 | `callistoapp.com` | No |
@@ -7753,6 +7754,7 @@ Here's a list of public Fediverse services.
 | `cupcakerob.nl` | No |
 | `cupka.name` | No |
 | `cupoftea.social` | Yes |
+| `curateos.social` | No |
 | `curbal.social` | No |
 | `curcudel.com` | No |
 | `curenoize.org` | Yes |
@@ -8759,6 +8761,7 @@ Here's a list of public Fediverse services.
 | `demi-sec.org` | No |
 | `demigod.bar` | No |
 | `demkontinuum.de` | No |
+| `demmy.co.uk` | Yes |
 | `demo-nodeswarm.fr` | No |
 | `demoarts.social` | No |
 | `democ.horse` | Yes |
@@ -10175,7 +10178,7 @@ Here's a list of public Fediverse services.
 | `earthbound.io` | No |
 | `earthboundvalkyrie.com` | No |
 | `earthclub.one` | No |
-| `earthlings.social` | No |
+| `earthlings.social` | Yes |
 | `earthseed.live` | No |
 | `earthstream.social` | No |
 | `earthsucks.com` | No |
@@ -14585,6 +14588,7 @@ Here's a list of public Fediverse services.
 | `grandma.space` | No |
 | `granford.uk` | No |
 | `granit.social` | No |
+| `graniterock.ca` | No |
 | `granitestate.social` | No |
 | `grantipak.ru` | No |
 | `granto.cloud` | Yes |
@@ -18362,6 +18366,7 @@ Here's a list of public Fediverse services.
 | `joshwithers.blog` | Yes |
 | `josias.dev` | No |
 | `josoko.net` | No |
+| `josschuurmans.com` | No |
 | `josta.me` | Yes |
 | `josz.space` | No |
 | `jotoma.de` | No |
@@ -31113,6 +31118,7 @@ Here's a list of public Fediverse services.
 | `raccoon.life` | No |
 | `raccoon.network` | No |
 | `raccoon.place` | No |
+| `raccoon.quest` | No |
 | `racem.us` | Yes |
 | `racer159.com` | No |
 | `racf.guru` | Yes |
@@ -38121,6 +38127,7 @@ Here's a list of public Fediverse services.
 | `tigr.space` | No |
 | `tigvarts.com` | No |
 | `tigwali.fr` | No |
+| `tihatan.me` | Yes |
 | `tii.space` | No |
 | `tikeesy.com` | No |
 | `tikirobot.net` | No |
@@ -43293,8 +43300,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,084 |
-| Normal | 32,166 |
+| Cloudflare | 11,088 |
+| Normal | 32,169 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
