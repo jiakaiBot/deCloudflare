@@ -991,6 +991,7 @@ Do not create new issue or we will close it as duplicate.
 | [arlind_rexh@twitter](https://twitter.com/arlind_rexh/status/1383005007486783491) | advertise |
 | [ARM42605072@twitter](https://twitter.com/ARM42605072/status/1402876982652592131) | advertise |
 | [ArmaanIrrfan@twitter](https://twitter.com/ArmaanIrrfan/status/1394254754113495042) | advertise |
+| [ArmanAn89187130@twitter](https://twitter.com/ArmanAn89187130/status/1670757390713761793) | advertise |
 | [armandbdy@twitter](https://twitter.com/armandbdy/status/1483764777642237954) | advertise |
 | [Armanimore_01@twitter](https://twitter.com/Armanimore_01/status/1532912661448605697) | advertise |
 | [armanjb1@twitter](https://twitter.com/armanjb1/status/1405385667811561475) | advertise |
@@ -2881,6 +2882,7 @@ Do not create new issue or we will close it as duplicate.
 | [DoctorVadarWho@twitter](https://twitter.com/DoctorVadarWho/status/1504056932218568704) | advertise |
 | [doctorzlai@twitter](https://twitter.com/doctorzlai/status/1666906236170665984) | advertise |
 | [docuwerx@twitter](https://twitter.com/docuwerx/status/1645164837335441411) | advertise |
+| [dogeminercoin@twitter](https://twitter.com/dogeminercoin/status/1670757160131731458) | advertise |
 | [doggiesflix@twitter](https://twitter.com/doggiesflix/status/1398852820250497030) | advertise |
 | [doggo_cowboy@twitter](https://twitter.com/doggo_cowboy/status/1593107308296695808) | advertise |
 | [DogKill76275871@twitter](https://twitter.com/DogKill76275871/status/1532563663608942593) | advertise |
@@ -10229,6 +10231,7 @@ Do not create new issue or we will close it as duplicate.
 | [rzrobbi17@twitter](https://twitter.com/rzrobbi17/status/1604436870414209024) | advertise |
 | [R_107571624@twitter](https://twitter.com/R_107571624/status/1503908534076932097) | advertise |
 | [r_diamondd@twitter](https://twitter.com/r_diamondd/status/1578466623220248576) | advertise |
+| [r_musawir@twitter](https://twitter.com/r_musawir/status/1670765041170239488) | advertise |
 | [R_Tolksdorf@twitter](https://twitter.com/R_Tolksdorf/status/1646209300128317453) | advertise |
 | [r_wajiha@twitter](https://twitter.com/r_wajiha/status/1618313780244680704) | advertise |
 | [s04365076@twitter](https://twitter.com/s04365076/status/1612814202929922050) | advertise |
