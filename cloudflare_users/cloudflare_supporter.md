@@ -7939,6 +7939,7 @@ Do not create new issue or we will close it as duplicate.
 | [muhammadsyfq5@twitter](https://twitter.com/muhammadsyfq5/status/1629103053856178178) | advertise |
 | [Muhdhad16793572@twitter](https://twitter.com/Muhdhad16793572/status/1491678828917583873) | advertise |
 | [Muhdhakimm1@twitter](https://twitter.com/Muhdhakimm1/status/1398528217070247942) | advertise |
+| [MuhdIzhamFitri2@twitter](https://twitter.com/MuhdIzhamFitri2/status/1670682402778382336) | advertise |
 | [MuhdNaz45586594@twitter](https://twitter.com/MuhdNaz45586594/status/1490141664031408128) | advertise |
 | [muhdzamri@twitter](https://twitter.com/muhdzamri/status/1633387300834123777) | advertise |
 | [MuhdzamriZ@twitter](https://twitter.com/MuhdzamriZ/status/1500260354504663040) | advertise |
@@ -8606,6 +8607,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nha_vy_94@twitter](https://twitter.com/Nha_vy_94/status/1629261407517810689) | advertise |
 | [Nhi04112002@twitter](https://twitter.com/Nhi04112002/status/1600060453945647105) | advertise |
 | [Nhi80570476@twitter](https://twitter.com/Nhi80570476/status/1406305550334271493) | advertise |
+| [nhile111000@twitter](https://twitter.com/nhile111000/status/1670687882858856448) | advertise |
 | [NHINNgu31639849@twitter](https://twitter.com/NHINNgu31639849/status/1517937600920973314) | advertise |
 | [Nhitran78912780@twitter](https://twitter.com/Nhitran78912780/status/1378490634315567105) | advertise |
 | [Nhn19729019@twitter](https://twitter.com/Nhn19729019/status/1553981120915845121) | advertise |
