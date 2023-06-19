@@ -13060,6 +13060,7 @@ Here's a list of public Fediverse services.
 | `frogcat.club` | No |
 | `frogdrool.net` | No |
 | `frogeye.fr` | No |
+| `froggirl.club` | No |
 | `froggo.garden` | Yes |
 | `froghat.ca` | No |
 | `froghat.de` | No |
@@ -43275,7 +43276,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,072 |
-| Normal | 32,159 |
+| Normal | 32,160 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
