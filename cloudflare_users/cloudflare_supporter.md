@@ -3111,6 +3111,7 @@ Do not create new issue or we will close it as duplicate.
 | [Earth57933455@twitter](https://twitter.com/Earth57933455/status/1392991054819856384) | advertise |
 | [EarthX43@twitter](https://twitter.com/EarthX43/status/1552745720192864257) | advertise |
 | [Eashwar72375722@twitter](https://twitter.com/Eashwar72375722/status/1645097684901175303) | advertise |
+| [eastdakota@twitter](https://twitter.com/eastdakota/status/1670793029555310593) | advertise |
 | [east_aj@twitter](https://twitter.com/east_aj/status/1402728569550163970) | advertise |
 | [easyidea@twitter](https://twitter.com/easyidea/status/1664131055086075904) | advertise |
 | [EbadeMohmade@twitter](https://twitter.com/EbadeMohmade/status/1450824249988501504) | advertise |
