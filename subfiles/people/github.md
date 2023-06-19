@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [pynocaptcha 1.5.8 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/7830)
+- [pynocaptcha 1.5.8 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/7815)
+- [NuxtTurnstile component not loading Turnstile script as expected](https://github.com/nuxt-modules/turnstile/issues/250)
 - [use gradio authentication with cloudflared](https://github.com/Bing-su/sd-webui-tunnels/issues/7)
 - [can't access GPT-4](https://github.com/karthink/gptel/issues/79)
 - [pulumi-cloudflare 5.4.1 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/6475)
