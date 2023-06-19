@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,565 |
 | social | 4,167 |
 | net | 3,306 |
-| org | 2,290 |
+| org | 2,291 |
 | de | 2,162 |
 
 
@@ -1176,6 +1176,7 @@ Here's a list of public Fediverse services.
 | `agates.io` | No |
 | `agb-web.de` | No |
 | `agdersam.no` | No |
+| `aggregation.cafe` | No |
 | `aggronaut.com` | No |
 | `agilealliance.social` | No |
 | `agilemind.blog` | No |
@@ -17204,6 +17205,7 @@ Here's a list of public Fediverse services.
 | `intotheriff.com` | No |
 | `intothewire.org` | No |
 | `intoxvs.info` | Yes |
+| `intragon.org` | Yes |
 | `intranetgreta-bn.fr` | No |
 | `intranetizen.com` | No |
 | `intrazr.com` | Yes |
@@ -17282,7 +17284,7 @@ Here's a list of public Fediverse services.
 | `iowadon.org` | No |
 | `iowntheinter.net` | No |
 | `ioxt.tk` | No |
-| `ip1.info` | No |
+| `ip1.info` | Yes |
 | `ipfire.org` | No |
 | `ipfixe.info` | No |
 | `ipghod.tech` | Yes |
@@ -18649,6 +18651,7 @@ Here's a list of public Fediverse services.
 | `kagouille.fr` | No |
 | `kagu-tsuchi.com` | No |
 | `kagucho.net` | Yes |
+| `kagura.eu` | No |
 | `kagura1050.tk` | No |
 | `kaguratech.tk` | No |
 | `kahachepe.org` | No |
@@ -31723,6 +31726,7 @@ Here's a list of public Fediverse services.
 | `reit-it.de` | Yes |
 | `reitrace.ga` | No |
 | `reiuji.chat` | Yes |
+| `rejas.se` | No |
 | `rejoiner.eu` | No |
 | `rekonstructors.com` | Yes |
 | `rekt.app` | No |
@@ -32705,6 +32709,7 @@ Here's a list of public Fediverse services.
 | `ryjelsum.xyz` | No |
 | `rylander.cc` | Yes |
 | `rylees.net` | Yes |
+| `rylo.dev` | Yes |
 | `rym.social` | No |
 | `rymate.co.uk` | Yes |
 | `rymer.social` | Yes |
@@ -40031,6 +40036,7 @@ Here's a list of public Fediverse services.
 | `uwu.social` | Yes |
 | `uwu.solutions` | Yes |
 | `uwu.st` | No |
+| `uwu.today` | Yes |
 | `uwu.town` | Yes |
 | `uwucocoa.moe` | Yes |
 | `uwuwatch.club` | Yes |
@@ -43268,8 +43274,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,068 |
-| Normal | 32,157 |
+| Cloudflare | 11,072 |
+| Normal | 32,159 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
