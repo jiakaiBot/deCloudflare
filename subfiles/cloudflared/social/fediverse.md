@@ -17696,6 +17696,7 @@ Here's a list of public Fediverse services.
 | `jakobssystems.de` | No |
 | `jakubkorab.net` | Yes |
 | `jalgi.eus` | No |
+| `jalim.xyz` | Yes |
 | `jallandale.co.uk` | No |
 | `jam.family` | Yes |
 | `jam.zone` | No |
@@ -26166,7 +26167,7 @@ Here's a list of public Fediverse services.
 | `nerd.town` | No |
 | `nerdarena.de` | No |
 | `nerdbutler.com` | Yes |
-| `nerdcave.eu` | No |
+| `nerdcave.eu` | Yes |
 | `nerdcave.site` | No |
 | `nerdcave.us` | No |
 | `nerdco.ws` | No |
@@ -43260,8 +43261,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,065 |
-| Normal | 32,152 |
+| Cloudflare | 11,067 |
+| Normal | 32,151 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
