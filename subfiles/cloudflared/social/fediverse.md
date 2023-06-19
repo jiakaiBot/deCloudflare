@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,567 |
 | social | 4,170 |
 | net | 3,309 |
-| org | 2,293 |
+| org | 2,294 |
 | de | 2,162 |
 
 
@@ -14833,7 +14833,7 @@ Here's a list of public Fediverse services.
 | `gstaff.org` | No |
 | `gsugambit.com` | No |
 | `gsw.social` | No |
-| `gt-mod.site` | No |
+| `gt-mod.site` | Yes |
 | `gtaconnect.net` | No |
 | `gtfo.social` | Yes |
 | `gtfoh.lol` | Yes |
@@ -22324,6 +22324,7 @@ Here's a list of public Fediverse services.
 | `manitoba.one` | No |
 | `manitu.social` | No |
 | `manj.io` | Yes |
+| `manjaruntu.net.eu.org` | No |
 | `manji.dev` | Yes |
 | `manley.org` | No |
 | `mannennet.eu` | No |
@@ -43300,7 +43301,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,088 |
+| Cloudflare | 11,089 |
 | Normal | 32,169 |
 
 
