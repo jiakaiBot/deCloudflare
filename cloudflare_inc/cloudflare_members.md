@@ -98,6 +98,7 @@ Or is this merely a case of simple modesty?
 | Alexandra Logan | Customer Development |  |
 | Alexandra Modiana | Employee |  |
 | Alexandra Moraru | Delivery Manager |  |
+| Alex Bocharov | Employee | |
 | Alex Chan | Employee |  |
 | Alex Chen | Employee | |
 | Alex Cruz Farmer | Product Manager for Security | https://twitter.com/alexcf |
@@ -246,6 +247,7 @@ Or is this merely a case of simple modesty?
 | Aubrey Evans-Trawick | Employee |  |
 | Aurora Lian Zhang | Supply Chain Operations Analyst |  |
 | Austin Cherry | Employee |  |
+| Austin Hartzheim | Employee | |
 | Austin McKinley | Systems Engineer | https://www.zoominfo.com/p/Austin-Mckinley/-2055432569 |
 | Austin Stanford | Employee |  |
 | Austin Urraca | Business Development |  |
@@ -1744,6 +1746,7 @@ Or is this merely a case of simple modesty?
 | Taylor Galusha | Legal Intern |  |
 | Taylor Lemmon | Account Executive |  |
 | Taylor Murray | Employee |  |
+| Taylor Smith | Employee | |
 | Teddy Solano | Employee | |
 | Ted Patsos | Business Development |  |
 | Teffen Ellis | Employee |  |
