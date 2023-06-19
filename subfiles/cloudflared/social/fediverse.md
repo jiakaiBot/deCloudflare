@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,563 |
-| social | 4,166 |
+| social | 4,167 |
 | net | 3,306 |
 | org | 2,290 |
 | de | 2,162 |
@@ -9089,6 +9089,7 @@ Here's a list of public Fediverse services.
 | `diasporabrazil.org` | No |
 | `diasporapod.no` | No |
 | `diasporing.ch` | No |
+| `diatom.social` | No |
 | `dib.de` | No |
 | `dibiase.social` | No |
 | `diblasio.net` | Yes |
@@ -41387,6 +41388,7 @@ Here's a list of public Fediverse services.
 | `wiet.io` | Yes |
 | `wiewiu.re` | No |
 | `wife.town` | No |
+| `wifey.dev` | Yes |
 | `wig.gl` | Yes |
 | `wigger.one` | Yes |
 | `wiggle.pw` | No |
@@ -43258,8 +43260,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,064 |
-| Normal | 32,151 |
+| Cloudflare | 11,065 |
+| Normal | 32,152 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
