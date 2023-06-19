@@ -5622,6 +5622,7 @@ Do not create new issue or we will close it as duplicate.
 | [kataroudy@twitter](https://twitter.com/kataroudy/status/1512105904472215559) | advertise |
 | [KateNguyn20@twitter](https://twitter.com/KateNguyn20/status/1380191904990588929) | advertise |
 | [KatiePieterse4@twitter](https://twitter.com/KatiePieterse4/status/1400893992628375557) | advertise |
+| [KatotaNitech@twitter](https://twitter.com/KatotaNitech/status/1670641289543716864) | advertise |
 | [kaumnen@twitter](https://twitter.com/kaumnen/status/1460612796106911749) | advertise |
 | [Kaung72075076@twitter](https://twitter.com/Kaung72075076/status/1390673137629638656) | advertise |
 | [KaungChin@twitter](https://twitter.com/KaungChin/status/1393205646988767234) | advertise |
@@ -7574,6 +7575,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinThuR23558567@twitter](https://twitter.com/MinThuR23558567/status/1390021934943924224) | advertise |
 | [MinTun38677756@twitter](https://twitter.com/MinTun38677756/status/1398261715318439937) | advertise |
 | [MinTun69880451@twitter](https://twitter.com/MinTun69880451/status/1389979636822466563) | advertise |
+| [mintymintkii@twitter](https://twitter.com/mintymintkii/status/1670633823481262082) | advertise |
 | [MINVEST18@twitter](https://twitter.com/MINVEST18/status/1443423830459011078) | advertise |
 | [MinZinAung1@twitter](https://twitter.com/MinZinAung1/status/1391329935558471686) | advertise |
 | [min_hao6@twitter](https://twitter.com/min_hao6/status/1657400886052921346) | advertise |
