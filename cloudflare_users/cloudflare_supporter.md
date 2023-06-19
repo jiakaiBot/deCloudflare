@@ -7202,6 +7202,7 @@ Do not create new issue or we will close it as duplicate.
 | [maw_ta@twitter](https://twitter.com/maw_ta/status/1580951178325942272) | advertise |
 | [Max3_689@twitter](https://twitter.com/Max3_689/status/1664789032381939712) | advertise |
 | [Max80893001@twitter](https://twitter.com/Max80893001/status/1387188885130813450) | advertise |
+| [maxclark@twitter](https://twitter.com/maxclark/status/1670898025391169540) | advertise |
 | [MaxDilan10@twitter](https://twitter.com/MaxDilan10/status/1506011770242334720) | advertise |
 | [maxime_lpbgg@twitter](https://twitter.com/maxime_lpbgg/status/1592299581450207234) | advertise |
 | [maximum_speed1@twitter](https://twitter.com/maximum_speed1/status/1400619592158953478) | advertise |
