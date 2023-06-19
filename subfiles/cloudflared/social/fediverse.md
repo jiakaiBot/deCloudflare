@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,563 |
+| com | 6,565 |
 | social | 4,167 |
 | net | 3,306 |
 | org | 2,290 |
@@ -6620,6 +6620,7 @@ Here's a list of public Fediverse services.
 | `cloud-libre.eu` | No |
 | `cloud-native.social` | No |
 | `cloud18.xyz` | Yes |
+| `cloud56.me` | No |
 | `cloud68.co` | No |
 | `cloudapps.ninja` | No |
 | `cloudboard.fr` | No |
@@ -14650,6 +14651,7 @@ Here's a list of public Fediverse services.
 | `greenwoodmedia.social` | No |
 | `greenwoodmedia.xyz` | No |
 | `greg-kennedy.com` | No |
+| `greg.city` | No |
 | `greggallardo.com` | No |
 | `gregmakes.xyz` | No |
 | `gregmoore.me` | No |
@@ -20610,6 +20612,7 @@ Here's a list of public Fediverse services.
 | `lemmings.online` | No |
 | `lemmit.xyz` | Yes |
 | `lemmy.blue` | No |
+| `lemmy.buzz` | No |
 | `lemmy.ca` | No |
 | `lemmy.cafe` | No |
 | `lemmy.cat` | No |
@@ -24711,6 +24714,7 @@ Here's a list of public Fediverse services.
 | `montpeyroux.social` | No |
 | `montreuillois.com` | No |
 | `monwebsite.ch` | Yes |
+| `monyet.cc` | No |
 | `monz.photos` | No |
 | `moo.moe` | No |
 | `moo.nz` | No |
@@ -28489,6 +28493,7 @@ Here's a list of public Fediverse services.
 | `ownlibtards.online` | No |
 | `owns.com` | No |
 | `ownsu.com` | No |
+| `ownyourdata.site` | No |
 | `owo.ar` | Yes |
 | `owo.cafe` | No |
 | `owo.ceo` | Yes |
@@ -31480,6 +31485,7 @@ Here's a list of public Fediverse services.
 | `rd-social.net` | No |
 | `rd-srv.de` | Yes |
 | `rda69.net` | No |
+| `rdbt.no` | No |
 | `rddw.eu` | No |
 | `rdela.com` | No |
 | `rdg.world` | No |
@@ -35408,7 +35414,6 @@ Here's a list of public Fediverse services.
 | `spiwit.net` | No |
 | `spjainplacements.org` | No |
 | `spkt.studio` | No |
-| `spla.tech` | No |
 | `spla2n.ink` | No |
 | `splain.club` | No |
 | `splat.social` | No |
@@ -35792,6 +35797,7 @@ Here's a list of public Fediverse services.
 | `stellar.build` | Yes |
 | `stellaria.network` | Yes |
 | `stellartwin-186f.ovh` | No |
+| `stellarvortex.com` | No |
 | `stellas.cf` | Yes |
 | `stellbr.ink` | Yes |
 | `stellify.net` | Yes |
@@ -40102,6 +40108,7 @@ Here's a list of public Fediverse services.
 | `valorantsskey.com` | Yes |
 | `valtlai.fi` | Yes |
 | `valvin.fr` | No |
+| `vampdev.com` | Yes |
 | `vampir.monster` | No |
 | `vampire.estate` | No |
 | `vampirebbs.org` | No |
@@ -43261,8 +43268,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,067 |
-| Normal | 32,151 |
+| Cloudflare | 11,068 |
+| Normal | 32,157 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
