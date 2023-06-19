@@ -2599,6 +2599,7 @@ Do not create new issue or we will close it as duplicate.
 | [DateBoy5@twitter](https://twitter.com/DateBoy5/status/1393474499572535296) | advertise |
 | [DatFriiscoFella@twitter](https://twitter.com/DatFriiscoFella/status/1498121876345790465) | advertise |
 | [Datfro102@twitter](https://twitter.com/Datfro102/status/1494686737360384001) | advertise |
+| [datlanhviet@twitter](https://twitter.com/datlanhviet/status/1670772052465442819) | advertise |
 | [DatLevan11@twitter](https://twitter.com/DatLevan11/status/1551518810795958272) | advertise |
 | [Datngooo@twitter](https://twitter.com/Datngooo/status/1623336818853965824) | advertise |
 | [datnguy99682140@twitter](https://twitter.com/datnguy99682140/status/1387181211366268929) | advertise |
@@ -4239,6 +4240,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hihi35128963@twitter](https://twitter.com/Hihi35128963/status/1381297345791287296) | advertise |
 | [hihihi37161109@twitter](https://twitter.com/hihihi37161109/status/1603398615078436864) | advertise |
 | [hihihuy1999@twitter](https://twitter.com/hihihuy1999/status/1407318195929710602) | advertise |
+| [HIKIMENA@twitter](https://twitter.com/HIKIMENA/status/1670754876069134337) | advertise |
 | [HiKoLay02842035@twitter](https://twitter.com/HiKoLay02842035/status/1390312387903852552) | advertise |
 | [hillarykharkhar@twitter](https://twitter.com/hillarykharkhar/status/1467483099995025412) | advertise |
 | [himangshu_dass@twitter](https://twitter.com/himangshu_dass/status/1504904544308064256) | advertise |
@@ -5093,6 +5095,7 @@ Do not create new issue or we will close it as duplicate.
 | [JacobDupuy3@twitter](https://twitter.com/JacobDupuy3/status/1624795625509339138) | advertise |
 | [jacobgottaken@twitter](https://twitter.com/jacobgottaken/status/1658771469072228353) | advertise |
 | [Jade12683299@twitter](https://twitter.com/Jade12683299/status/1397944572437692422) | advertise |
+| [jadlaus@twitter](https://twitter.com/jadlaus/status/1670774408888086530) | advertise |
 | [jaehong_lim@twitter](https://twitter.com/jaehong_lim/status/1456276906999828481) | advertise |
 | [jaemin1508@twitter](https://twitter.com/jaemin1508/status/1614678909798461441) | advertise |
 | [JaeRinKim7@twitter](https://twitter.com/JaeRinKim7/status/1396481821047607300) | advertise |
