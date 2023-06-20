@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare API service issues in China](https://github.com/MatBenfield/news/issues/15559)
+- [CloudFlare Cloudflare API service issues in China](https://github.com/hinoshiba/news/issues/318)
 - [Error adding several URLs](https://github.com/wallabag/wallabag/issues/6643)
 - [Cannot play any file when MaxStreamingBitrate > 2100000000](https://github.com/jellyfin/jellyfin-web/issues/4695)
 - [Premium player can't join the server getting prompt to rejoin the server as if he had written /premium command](https://github.com/Elytrium/LimboAuth/issues/104)
