@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,170 |
 | net | 3,309 |
 | org | 2,294 |
-| de | 2,162 |
+| de | 2,163 |
 
 
 - Mastodon, Pleroma, etc
@@ -702,6 +702,7 @@ Here's a list of public Fediverse services.
 | `a-li.re` | No |
 | `a-mastodon.it` | No |
 | `a-room-ones-own.me` | No |
+| `a-smol-cat.fr` | No |
 | `a-tak.com` | No |
 | `a-trappes-terre.fr` | No |
 | `a-zwenkau.de` | No |
@@ -18225,6 +18226,7 @@ Here's a list of public Fediverse services.
 | `johnnywebber.com` | No |
 | `johnruth.me` | No |
 | `johns-blog.de` | Yes |
+| `johns-casa.de` | No |
 | `johnson.gg` | No |
 | `johntrain.org` | Yes |
 | `johnwarne.com` | Yes |
@@ -41104,7 +41106,7 @@ Here's a list of public Fediverse services.
 | `weber.fi.eu.org` | No |
 | `webfeed.me` | Yes |
 | `webfru.it` | No |
-| `webgirand.eu` | No |
+| `webgirand.eu` | Yes |
 | `webhookfrom.space` | No |
 | `webhop.me` | No |
 | `webhop.net` | No |
@@ -43301,8 +43303,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,089 |
-| Normal | 32,169 |
+| Cloudflare | 11,090 |
+| Normal | 32,170 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
