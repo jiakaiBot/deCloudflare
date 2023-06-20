@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,571 |
+| com | 6,572 |
 | social | 4,172 |
 | net | 3,309 |
-| org | 2,297 |
+| org | 2,299 |
 | de | 2,164 |
 
 
@@ -13045,6 +13045,7 @@ Here's a list of public Fediverse services.
 | `friendsyu.me` | No |
 | `friendxone.com` | No |
 | `friendzone.social` | No |
+| `friheter.com` | No |
 | `friki.lol` | No |
 | `frikiverse.zone` | No |
 | `friloux.me` | No |
@@ -21379,6 +21380,7 @@ Here's a list of public Fediverse services.
 | `local704.co` | No |
 | `localecho.net` | Yes |
 | `localghost.ooo` | Yes |
+| `localghost.org` | No |
 | `localhost.fyi` | No |
 | `localhost.run` | No |
 | `localhost5000.net` | Yes |
@@ -29788,6 +29790,7 @@ Here's a list of public Fediverse services.
 | `ple-architecture.eu` | No |
 | `plead.help` | No |
 | `pleasant.land` | No |
+| `pleasant.rest` | Yes |
 | `please-yiff.me` | No |
 | `pleasecuminside.me` | No |
 | `pleasedontpoke.me` | No |
@@ -29837,7 +29840,7 @@ Here's a list of public Fediverse services.
 | `plesiosaur.net` | No |
 | `plesiosauria.com` | Yes |
 | `plethodon.nl` | No |
-| `plextube.nl` | No |
+| `plextube.nl` | Yes |
 | `plfgr.eu.org` | No |
 | `pliocene.org` | No |
 | `plishker.com` | No |
@@ -31407,6 +31410,7 @@ Here's a list of public Fediverse services.
 | `raraearth.online` | Yes |
 | `raramagi.ga` | No |
 | `rareome.ga` | No |
+| `rares.cc` | Yes |
 | `raretrack.uk` | No |
 | `rarf.zone` | No |
 | `rarified.online` | No |
@@ -32213,6 +32217,7 @@ Here's a list of public Fediverse services.
 | `rly.cx` | No |
 | `rly.wtf` | Yes |
 | `rm-rf.club` | No |
+| `rm4.me` | No |
 | `rmac.me` | Yes |
 | `rmasoni.com` | No |
 | `rmbl.co` | No |
@@ -41583,6 +41588,7 @@ Here's a list of public Fediverse services.
 | `wipiano.net` | No |
 | `wirdbaldfertig.de` | No |
 | `wire.garden` | No |
+| `wirebase.org` | No |
 | `wirebird.com` | No |
 | `wirebug.ch` | No |
 | `wired.icu` | Yes |
@@ -42627,6 +42633,7 @@ Here's a list of public Fediverse services.
 | `ykzts.technology` | No |
 | `yl.ms` | No |
 | `ylan.page` | No |
+| `ylwsgn.cc` | Yes |
 | `ymkml.online` | No |
 | `ymmel.nl` | No |
 | `ymn.info` | No |
@@ -43333,8 +43340,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,106 |
-| Normal | 32,184 |
+| Cloudflare | 11,110 |
+| Normal | 32,187 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
