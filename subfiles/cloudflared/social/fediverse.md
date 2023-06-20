@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,572 |
 | social | 4,172 |
-| net | 3,309 |
+| net | 3,314 |
 | org | 2,299 |
 | de | 2,164 |
 
@@ -5180,6 +5180,7 @@ Here's a list of public Fediverse services.
 | `bumscode.com` | Yes |
 | `bun.social` | No |
 | `bunbers.org` | Yes |
+| `bunbi.net` | No |
 | `bunbu.net` | No |
 | `bunch.dev` | Yes |
 | `bund.co` | No |
@@ -6947,7 +6948,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9222,7 +9223,7 @@ Here's a list of public Fediverse services.
 | `digor.sh` | No |
 | `digper.tech` | No |
 | `digressive.me` | No |
-| `dijy.eu.org` | No |
+| `dijy.eu.org` | Yes |
 | `dilavni.com` | Yes |
 | `diligiant.com` | Yes |
 | `dilithium.fr` | No |
@@ -9345,7 +9346,7 @@ Here's a list of public Fediverse services.
 | `distos.org` | No |
 | `distraction.engineer` | Yes |
 | `distraction.party` | No |
-| `distress.digital` | No |
+| `distress.digital` | Yes |
 | `distributary.network` | No |
 | `distributed.social` | No |
 | `distribuware.com` | No |
@@ -9643,7 +9644,7 @@ Here's a list of public Fediverse services.
 | `doodlehub.de` | No |
 | `doof.net` | No |
 | `dook.business` | No |
-| `dookie.eu.org` | No |
+| `dookie.eu.org` | Yes |
 | `dooky.top` | No |
 | `doom.fm` | No |
 | `doomicile.de` | No |
@@ -20653,6 +20654,7 @@ Here's a list of public Fediverse services.
 | `lemmy.film` | Yes |
 | `lemmy.fyi` | Yes |
 | `lemmy.ml` | No |
+| `lemmy.my.id` | No |
 | `lemmy.name` | No |
 | `lemmy.nexus` | Yes |
 | `lemmy.ninja` | No |
@@ -24796,6 +24798,7 @@ Here's a list of public Fediverse services.
 | `moorepixel.com` | No |
 | `moores.org` | No |
 | `moortaube.de` | No |
+| `moose.best` | Yes |
 | `moose.land` | No |
 | `moosecow.net` | Yes |
 | `moosetadon.social` | No |
@@ -25636,6 +25639,7 @@ Here's a list of public Fediverse services.
 | `myrvog.net` | No |
 | `mysacredaltar.com` | No |
 | `myselfdot.work` | No |
+| `myselfhosted.net` | Yes |
 | `mysignal.world` | No |
 | `mysim.online` | No |
 | `mysitemikoh.pl` | Yes |
@@ -29431,6 +29435,7 @@ Here's a list of public Fediverse services.
 | `piaty.ovh` | No |
 | `piazza.today` | No |
 | `pibvt.net` | Yes |
+| `picandocodigo.net` | No |
 | `picasoft.net` | No |
 | `pichowsky.de` | No |
 | `pickle.zone` | Yes |
@@ -32842,6 +32847,7 @@ Here's a list of public Fediverse services.
 | `sabross.xyz` | No |
 | `sac.moe` | Yes |
 | `sac.se` | No |
+| `sacamano.net` | No |
 | `sacasa.casa` | Yes |
 | `sachertorte.xyz` | No |
 | `sachsen-social.de` | Yes |
@@ -33345,6 +33351,7 @@ Here's a list of public Fediverse services.
 | `schmaller.de` | No |
 | `schmarrn.dev` | No |
 | `schmarty.net` | No |
+| `schmeisserweb.at` | No |
 | `schmic.eu` | Yes |
 | `schmid.tv` | Yes |
 | `schmidl.dev` | No |
@@ -35728,6 +35735,7 @@ Here's a list of public Fediverse services.
 | `stargazer.at` | No |
 | `starholder.us` | No |
 | `staria.club` | No |
+| `stark-enterprise.net` | Yes |
 | `starkey.family` | No |
 | `starkov.site` | No |
 | `starlifter.tv` | Yes |
@@ -37708,7 +37716,7 @@ Here's a list of public Fediverse services.
 | `thelballwiki.gq` | No |
 | `thele.me` | Yes |
 | `thelema.social` | No |
-| `thelemmy.club` | No |
+| `thelemmy.club` | Yes |
 | `thelibrary.social` | No |
 | `thelife.boats` | Yes |
 | `thelink.family` | No |
@@ -40020,7 +40028,7 @@ Here's a list of public Fediverse services.
 | `usagi-gumi.jp` | No |
 | `usagi.top` | No |
 | `usagicore.moe` | Yes |
-| `usagicore.org` | No |
+| `usagicore.org` | Yes |
 | `usamin.cafe` | No |
 | `usan.us` | No |
 | `usans.in` | No |
@@ -41553,7 +41561,7 @@ Here's a list of public Fediverse services.
 | `windows98.dev` | No |
 | `windowsnerd.cc` | No |
 | `windscribe.social` | Yes |
-| `windwords.eu.org` | No |
+| `windwords.eu.org` | Yes |
 | `windy.me` | No |
 | `windycity.style` | No |
 | `winecountry.social` | No |
@@ -41871,6 +41879,7 @@ Here's a list of public Fediverse services.
 | `wpdevenv.com` | Yes |
 | `wpengine.com` | Yes |
 | `wpj.name` | No |
+| `wplr.rocks` | No |
 | `wpmastodon.es` | No |
 | `wpmeetup-frankfurt.de` | No |
 | `wprzemianie.pl` | No |
@@ -43340,8 +43349,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,110 |
-| Normal | 32,187 |
+| Cloudflare | 11,120 |
+| Normal | 32,186 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
