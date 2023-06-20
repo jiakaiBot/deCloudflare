@@ -61,7 +61,6 @@ Here's a list of public Matrix services.
 | g24.at | No |
 | matrix.gemeinsam.jetzt | No |
 | ggc-project.de | Yes |
-| matrix.glasgow.social | No |
 | matrix.gnulinux.club | No |
 | matrix.grin.hu | No |
 | hackerspaces.be | No |
@@ -122,7 +121,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 21 |
-| Normal | 73 |
+| Normal | 72 |
 
 
-### 22.3% of public Matrix services are using Cloudflare.
+### 22.6% of public Matrix services are using Cloudflare.
