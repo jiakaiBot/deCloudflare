@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,572 |
-| social | 4,173 |
+| com | 6,573 |
+| social | 4,175 |
 | net | 3,315 |
 | org | 2,300 |
 | de | 2,164 |
@@ -592,6 +592,7 @@ Here's a list of public Fediverse services.
 | `6bq.de` | No |
 | `6i6.club` | No |
 | `6paperplanes.net` | No |
+| `6px.eu` | Yes |
 | `6q0.net` | No |
 | `6t.vc` | No |
 | `6te.net` | No |
@@ -3087,6 +3088,7 @@ Here's a list of public Fediverse services.
 | `aximov.net` | Yes |
 | `axiomeval.social` | No |
 | `axjmc.xyz` | Yes |
+| `axle.social` | No |
 | `axomy.com` | No |
 | `axonterminal.net` | No |
 | `axross.io` | No |
@@ -7326,6 +7328,7 @@ Here's a list of public Fediverse services.
 | `courtenay.io` | Yes |
 | `courtneyr.dev` | No |
 | `cousinsd.net` | No |
+| `cousteaudivers.social` | No |
 | `covalent.ml` | No |
 | `covelline.social` | No |
 | `cover.pm` | No |
@@ -10200,6 +10203,7 @@ Here's a list of public Fediverse services.
 | `easymode.im` | Yes |
 | `easytron24.net` | No |
 | `eatinpizza.com` | No |
+| `eatsleepcode.ca` | Yes |
 | `eatswap.fun` | Yes |
 | `eatthebugs.social` | Yes |
 | `eatthebugs.xyz` | Yes |
@@ -12014,6 +12018,7 @@ Here's a list of public Fediverse services.
 | `felagslegt.is` | No |
 | `felaktig.info` | No |
 | `feld.me` | No |
+| `feldfoto.com` | No |
 | `feldlabor.eu` | No |
 | `feldnotes.com` | No |
 | `feldspaten.org` | No |
@@ -15978,6 +15983,7 @@ Here's a list of public Fediverse services.
 | `hodla.nu` | Yes |
 | `hodlr.one` | No |
 | `hodltech.com` | Yes |
+| `hodos.ro` | No |
 | `hoe.zone` | Yes |
 | `hoec3.de` | No |
 | `hoefer.club` | No |
@@ -27129,6 +27135,7 @@ Here's a list of public Fediverse services.
 | `notanow.net` | No |
 | `notaphish.fyi` | No |
 | `notasquirrel.dev` | No |
+| `notawebsite.fr` | No |
 | `notbird.app` | No |
 | `notbird.site` | Yes |
 | `notbook.club` | Yes |
@@ -27603,6 +27610,7 @@ Here's a list of public Fediverse services.
 | `ocert.at` | No |
 | `ochagavia.nl` | No |
 | `ochakai.moe` | Yes |
+| `ocho.zone` | No |
 | `ochobitshacenunbyte.com` | Yes |
 | `ochronus.online` | Yes |
 | `ocillacubes.com` | No |
@@ -28287,6 +28295,7 @@ Here's a list of public Fediverse services.
 | `orz.hm` | No |
 | `orz.uno` | Yes |
 | `orzech.me` | Yes |
+| `orzen.games` | No |
 | `orzhov.net` | No |
 | `orzs.tech` | Yes |
 | `os-service.eu` | Yes |
@@ -39821,6 +39830,7 @@ Here's a list of public Fediverse services.
 | `unimportant.business` | Yes |
 | `uninform.at` | No |
 | `uninsane.org` | No |
+| `uninspired.dev` | Yes |
 | `union.place` | No |
 | `union.sh` | No |
 | `unionforum.org` | No |
@@ -40806,6 +40816,7 @@ Here's a list of public Fediverse services.
 | `vsfx.org` | No |
 | `vshn.social` | No |
 | `vsieti.sk` | No |
+| `vsp.ink` | No |
 | `vspace.me` | No |
 | `vss365mast.org` | No |
 | `vsta.org` | No |
@@ -43357,8 +43368,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,128 |
-| Normal | 32,186 |
+| Cloudflare | 11,131 |
+| Normal | 32,194 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
