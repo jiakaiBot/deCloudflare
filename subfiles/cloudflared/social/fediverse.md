@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,572 |
-| social | 4,172 |
+| social | 4,173 |
 | net | 3,315 |
 | org | 2,300 |
 | de | 2,164 |
@@ -14846,7 +14846,7 @@ Here's a list of public Fediverse services.
 | `gspot.social` | Yes |
 | `gstaff.org` | No |
 | `gsugambit.com` | No |
-| `gsw.social` | No |
+| `gsw.social` | Yes |
 | `gt-mod.site` | Yes |
 | `gtaconnect.net` | No |
 | `gtfo.social` | Yes |
@@ -21545,7 +21545,7 @@ Here's a list of public Fediverse services.
 | `lordofthedummies.com` | No |
 | `lordoftheplex.com` | Yes |
 | `lore.monster` | Yes |
-| `lorem.club` | No |
+| `lorem.club` | Yes |
 | `loren.pics` | No |
 | `lorenzi.one` | Yes |
 | `lorenzoancora.info` | No |
@@ -37326,6 +37326,7 @@ Here's a list of public Fediverse services.
 | `tepsne.ovh` | No |
 | `teqqnet.de` | Yes |
 | `teqqy.de` | Yes |
+| `teqqy.social` | Yes |
 | `terabyte-computing.com` | No |
 | `terakoya-backstage.com` | No |
 | `terapeldigitaal.nl` | Yes |
@@ -43356,8 +43357,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,125 |
-| Normal | 32,188 |
+| Cloudflare | 11,128 |
+| Normal | 32,186 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
