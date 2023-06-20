@@ -3395,6 +3395,7 @@ Do not create new issue or we will close it as duplicate.
 | [Falcon_0098@twitter](https://twitter.com/Falcon_0098/status/1408452830613147649) | advertise |
 | [FallinloveYGz@twitter](https://twitter.com/FallinloveYGz/status/1594928548397035520) | advertise |
 | [FamyCC@twitter](https://twitter.com/FamyCC/status/1572681675913711616) | advertise |
+| [fanbidder@twitter](https://twitter.com/fanbidder/status/1670975030342156288) | advertise |
 | [fandoghiiiiiii@twitter](https://twitter.com/fandoghiiiiiii/status/1580463193373433856) | advertise |
 | [Fantasy484@twitter](https://twitter.com/Fantasy484/status/1386774424028803075) | advertise |
 | [FarahAsyiqinAb1@twitter](https://twitter.com/FarahAsyiqinAb1/status/1404207551818862593) | advertise |
