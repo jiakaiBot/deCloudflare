@@ -11659,6 +11659,7 @@ Do not create new issue or we will close it as duplicate.
 | [theinttharthar2@twitter](https://twitter.com/theinttharthar2/status/1389919968737828865) | advertise |
 | [theintthin_z@twitter](https://twitter.com/theintthin_z/status/1380829219115184132) | advertise |
 | [TheinZa60115942@twitter](https://twitter.com/TheinZa60115942/status/1390812885488742400) | advertise |
+| [theisci1@twitter](https://twitter.com/theisci1/status/1671119281457704962) | advertise |
 | [thejakubzelazny@twitter](https://twitter.com/thejakubzelazny/status/1623034341587619857) | advertise |
 | [thejobspower@twitter](https://twitter.com/thejobspower/status/1553773529761730561) | advertise |
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
@@ -12880,6 +12881,7 @@ Do not create new issue or we will close it as duplicate.
 | [WathonePaing@twitter](https://twitter.com/WathonePaing/status/1526022316765122560) | advertise |
 | [wawasheera1@twitter](https://twitter.com/wawasheera1/status/1531105400228941824) | advertise |
 | [waw_mart@twitter](https://twitter.com/waw_mart/status/1605816108291948544) | advertise |
+| [wayamoti2015@twitter](https://twitter.com/wayamoti2015/status/1671126217167360005) | advertise |
 | [WBimson999@twitter](https://twitter.com/WBimson999/status/1495052912288018432) | advertise |
 | [WChyuan@twitter](https://twitter.com/WChyuan/status/1620433756577501184) | advertise |
 | [WDragon203@twitter](https://twitter.com/WDragon203/status/1416258687266476033) | advertise |
