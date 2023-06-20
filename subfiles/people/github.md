@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't run the development server](https://github.com/lensterxyz/lenster/issues/3150)
 - [CloudFlare Cloudflare API service issues in China](https://github.com/MatBenfield/news/issues/15559)
 - [CloudFlare Cloudflare API service issues in China](https://github.com/hinoshiba/news/issues/318)
 - [Error adding several URLs](https://github.com/wallabag/wallabag/issues/6643)
