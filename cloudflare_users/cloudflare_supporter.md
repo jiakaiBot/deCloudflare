@@ -7250,6 +7250,7 @@ Do not create new issue or we will close it as duplicate.
 | [mazylol@twitter](https://twitter.com/mazylol/status/1512928326385606664) | advertise |
 | [Ma_nu961@twitter](https://twitter.com/Ma_nu961/status/1602562030145527808) | advertise |
 | [MB72374335@twitter](https://twitter.com/MB72374335/status/1496020675609645056) | advertise |
+| [mbacarella@twitter](https://twitter.com/mbacarella/status/1671183463054209025) | advertise |
 | [MBangbwx@twitter](https://twitter.com/MBangbwx/status/1493618913594253314) | advertise |
 | [MbaRobinhood@twitter](https://twitter.com/MbaRobinhood/status/1602195705002692608) | advertise |
 | [mBoiz19@twitter](https://twitter.com/mBoiz19/status/1552910460738883584) | advertise |
@@ -9512,6 +9513,7 @@ Do not create new issue or we will close it as duplicate.
 | [po0_0chen@twitter](https://twitter.com/po0_0chen/status/1455057369247858688) | advertise |
 | [poae538748@twitter](https://twitter.com/poae538748/status/1658776925253541890) | advertise |
 | [PoarkM@twitter](https://twitter.com/PoarkM/status/1562708928625946624) | advertise |
+| [PockRokit83@twitter](https://twitter.com/PockRokit83/status/1671177404260270081) | advertise |
 | [PoeChitEi2@twitter](https://twitter.com/PoeChitEi2/status/1405041271559753729) | advertise |
 | [PoePoe76729284@twitter](https://twitter.com/PoePoe76729284/status/1393026229096222724) | advertise |
 | [poetrasingkep@twitter](https://twitter.com/poetrasingkep/status/1378024363211988993) | advertise |
