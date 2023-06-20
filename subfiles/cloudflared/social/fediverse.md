@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,572 |
 | social | 4,172 |
-| net | 3,314 |
-| org | 2,299 |
+| net | 3,315 |
+| org | 2,300 |
 | de | 2,164 |
 
 
@@ -10951,6 +10951,7 @@ Here's a list of public Fediverse services.
 | `eragon.re` | No |
 | `eramne.com` | No |
 | `erase.nz` | Yes |
+| `erasethis.net` | Yes |
 | `erb.pw` | No |
 | `erch.co` | Yes |
 | `erch.social` | No |
@@ -13509,6 +13510,7 @@ Here's a list of public Fediverse services.
 | `gaku-tab-love.com` | Yes |
 | `gakugeidon.pw` | No |
 | `gakusei.space` | No |
+| `galacticaactu.al` | No |
 | `galacticcoders.com` | No |
 | `galacticstrip.com` | No |
 | `galad.it` | Yes |
@@ -14623,6 +14625,7 @@ Here's a list of public Fediverse services.
 | `graves.cl` | No |
 | `gravitas.cafe` | No |
 | `gravitasfree.zone` | No |
+| `gravitons.org` | No |
 | `gravitystorm.co.uk` | Yes |
 | `gravure.club` | No |
 | `gray.cafe` | No |
@@ -15865,7 +15868,7 @@ Here's a list of public Fediverse services.
 | `hirtz.pm` | No |
 | `hirtzfr.eu` | No |
 | `hiruandon.life` | No |
-| `hirunohi.com` | No |
+| `hirunohi.com` | Yes |
 | `his-hoes.uk` | No |
 | `hisaac.net` | No |
 | `hispagatos.org` | Yes |
@@ -20030,6 +20033,7 @@ Here's a list of public Fediverse services.
 | `kusoda.net` | Yes |
 | `kusoneko.moe` | No |
 | `kusozako.com` | Yes |
+| `kussi.me` | Yes |
 | `kusso-yotta.com` | Yes |
 | `kusu.icu` | Yes |
 | `kusu.moe` | Yes |
@@ -31307,6 +31311,7 @@ Here's a list of public Fediverse services.
 | `ralek.art` | Yes |
 | `raleurs.eu.org` | No |
 | `ralf-simon.de` | No |
+| `ralismark.xyz` | Yes |
 | `rally.guide` | No |
 | `ralnode.net` | No |
 | `ralphkuehnl.de` | No |
@@ -32699,6 +32704,7 @@ Here's a list of public Fediverse services.
 | `rustlang.social` | Yes |
 | `rusty.cat` | No |
 | `rustynail.su` | No |
+| `rustyshackleford.cfd` | No |
 | `rustysoft.de` | No |
 | `rustywinks.net` | Yes |
 | `rutan.info` | No |
@@ -33690,6 +33696,7 @@ Here's a list of public Fediverse services.
 | `secvoip.com` | Yes |
 | `secwarz.com` | No |
 | `seda.social` | Yes |
+| `sedd.it` | Yes |
 | `sedders123.me` | Yes |
 | `seditio.fr` | No |
 | `sedryk.info` | No |
@@ -43349,8 +43356,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,120 |
-| Normal | 32,186 |
+| Cloudflare | 11,125 |
+| Normal | 32,188 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
