@@ -474,6 +474,7 @@ Do not create new issue or we will close it as duplicate.
 | [AIbietgidau00@twitter](https://twitter.com/AIbietgidau00/status/1618328664357351424) | advertise |
 | [aibos_Hodl@twitter](https://twitter.com/aibos_Hodl/status/1388969919740514306) | advertise |
 | [AicKhiem@twitter](https://twitter.com/AicKhiem/status/1584565736097226752) | advertise |
+| [aidlpyAlbert@twitter](https://twitter.com/aidlpyAlbert/status/1671038188704391168) | advertise |
 | [aido36449809@twitter](https://twitter.com/aido36449809/status/1470779906057547786) | advertise |
 | [aihps@twitter](https://twitter.com/aihps/status/1379747437770801153) | advertise |
 | [aimadrix@twitter](https://twitter.com/aimadrix/status/1639714685539737602) | advertise |
@@ -1760,6 +1761,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bo24354593@twitter](https://twitter.com/Bo24354593/status/1404093711986827266) | advertise |
 | [Bo50994020@twitter](https://twitter.com/Bo50994020/status/1586130148004622337) | advertise |
 | [Bo90364251@twitter](https://twitter.com/Bo90364251/status/1392359546568417281) | advertise |
+| [BoaBoa82221439@twitter](https://twitter.com/BoaBoa82221439/status/1670955992601989120) | advertise |
 | [BoAnhTr03352901@twitter](https://twitter.com/BoAnhTr03352901/status/1552956517108051968) | advertise |
 | [BoAungDin888@twitter](https://twitter.com/BoAungDin888/status/1406574801402093572) | advertise |
 | [bobarol22@twitter](https://twitter.com/bobarol22/status/1478151965985046529) | advertise |
@@ -4371,6 +4373,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hoailam1989@twitter](https://twitter.com/Hoailam1989/status/1589511470718783489) | advertise |
 | [HoaiRin@twitter](https://twitter.com/HoaiRin/status/1577293334053543937) | advertise |
 | [hoaldvn@twitter](https://twitter.com/hoaldvn/status/1552228786044710917) | advertise |
+| [hoan261095@twitter](https://twitter.com/hoan261095/status/1670981539193303041) | advertise |
 | [Hoang06436295@twitter](https://twitter.com/Hoang06436295/status/1565371348699848704) | advertise |
 | [Hoang20057403@twitter](https://twitter.com/Hoang20057403/status/1401122093089976328) | advertise |
 | [Hoang49488616@twitter](https://twitter.com/Hoang49488616/status/1564519430385590272) | advertise |
@@ -4880,6 +4883,7 @@ Do not create new issue or we will close it as duplicate.
 | [imhopeluv@twitter](https://twitter.com/imhopeluv/status/1388275070544535553) | advertise |
 | [imhuzeifa@twitter](https://twitter.com/imhuzeifa/status/1540657866222313472) | advertise |
 | [Imiss2302@twitter](https://twitter.com/Imiss2302/status/1404120201159798790) | advertise |
+| [Imluke044389182@twitter](https://twitter.com/Imluke044389182/status/1671034104421421056) | advertise |
 | [ImMattDavison@twitter](https://twitter.com/ImMattDavison/status/1625152052954275841) | advertise |
 | [Immortalgod13@twitter](https://twitter.com/Immortalgod13/status/1391123421203820546) | advertise |
 | [Immortalslaye12@twitter](https://twitter.com/Immortalslaye12/status/1570359657763602433) | advertise |
