@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error adding several URLs](https://github.com/wallabag/wallabag/issues/6643)
 - [Cannot play any file when MaxStreamingBitrate > 2100000000](https://github.com/jellyfin/jellyfin-web/issues/4695)
 - [Premium player can't join the server getting prompt to rejoin the server as if he had written /premium command](https://github.com/Elytrium/LimboAuth/issues/104)
 - [pynocaptcha 1.5.8 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/7830)
