@@ -4073,7 +4073,7 @@ Here's a list of public Fediverse services.
 | `binaryworks.ca` | Yes |
 | `binatang.nl` | No |
 | `binbash.fr` | No |
-| `binbin.eu.org` | No |
+| `binbin.eu.org` | Yes |
 | `binblog.de` | No |
 | `binbou.xyz` | No |
 | `binch.top` | No |
@@ -11312,7 +11312,7 @@ Here's a list of public Fediverse services.
 | `exohunt.space` | No |
 | `exok.com` | No |
 | `exon.name` | Yes |
-| `exopla.net.eu.org` | No |
+| `exopla.net.eu.org` | Yes |
 | `exotic.money` | No |
 | `exotic.sh` | No |
 | `exozy.me` | No |
@@ -13278,7 +13278,7 @@ Here's a list of public Fediverse services.
 | `funposters.club` | Yes |
 | `funs.vn` | Yes |
 | `fuo.fi` | Yes |
-| `fur.city` | No |
+| `fur.city` | Yes |
 | `fur.cl` | Yes |
 | `fur.cloud` | No |
 | `fur.gg` | Yes |
@@ -14324,7 +14324,7 @@ Here's a list of public Fediverse services.
 | `gnulinux.si` | No |
 | `gnulinux.social` | No |
 | `gnulinuxvalencia.org` | No |
-| `gnumeria.eu.org` | No |
+| `gnumeria.eu.org` | Yes |
 | `gnumeria.fr` | No |
 | `gnupublic.space` | No |
 | `gnusocial.cc` | No |
@@ -17439,7 +17439,7 @@ Here's a list of public Fediverse services.
 | `isma.to` | No |
 | `isman.fr` | No |
 | `ismus.net` | No |
-| `isnot.coffee` | No |
+| `isnot.coffee` | Yes |
 | `isnot.online` | No |
 | `isnotvery.social` | No |
 | `isnowglobal.com` | Yes |
@@ -24200,7 +24200,7 @@ Here's a list of public Fediverse services.
 | `minuskel.de` | No |
 | `minx.space` | No |
 | `minzord.ca` | No |
-| `minzord.eu.org` | No |
+| `minzord.eu.org` | Yes |
 | `minzord.fr` | No |
 | `miok.space` | No |
 | `miolo.org` | No |
@@ -42034,6 +42034,7 @@ Here's a list of public Fediverse services.
 | `x2io.com` | No |
 | `x32.no` | No |
 | `x39.dev` | No |
+| `x3i.tech` | No |
 | `x41.rocks` | No |
 | `x41.social` | No |
 | `x4h.de` | No |
@@ -43332,8 +43333,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,100 |
-| Normal | 32,189 |
+| Cloudflare | 11,106 |
+| Normal | 32,184 |
 
 
-### 25.6% of public Fediverse services are using Cloudflare.
+### 25.7% of public Fediverse services are using Cloudflare.
