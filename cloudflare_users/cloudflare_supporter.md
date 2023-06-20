@@ -631,6 +631,7 @@ Do not create new issue or we will close it as duplicate.
 | [aliraza786s@twitter](https://twitter.com/aliraza786s/status/1669577469735870465) | advertise |
 | [alireza02228306@twitter](https://twitter.com/alireza02228306/status/1670185181590831105) | advertise |
 | [Alireza06559988@twitter](https://twitter.com/Alireza06559988/status/1611630338618593281) | advertise |
+| [alireza20xtic@twitter](https://twitter.com/alireza20xtic/status/1671256103034966016) | advertise |
 | [Alireza38854410@twitter](https://twitter.com/Alireza38854410/status/1590028048241659904) | advertise |
 | [Alireza47491461@twitter](https://twitter.com/Alireza47491461/status/1384770721897984000) | advertise |
 | [Alireza73451812@twitter](https://twitter.com/Alireza73451812/status/1619299096967237633) | advertise |
