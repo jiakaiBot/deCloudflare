@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,571 |
-| social | 4,171 |
+| social | 4,172 |
 | net | 3,309 |
 | org | 2,297 |
 | de | 2,164 |
@@ -26205,6 +26205,7 @@ Here's a list of public Fediverse services.
 | `nerd.net` | No |
 | `nerd.town` | No |
 | `nerdarena.de` | No |
+| `nerdbin.social` | No |
 | `nerdbutler.com` | Yes |
 | `nerdcave.eu` | Yes |
 | `nerdcave.site` | No |
@@ -28889,7 +28890,7 @@ Here's a list of public Fediverse services.
 | `path.pictures` | No |
 | `pathconnect.de` | No |
 | `pathfinder.social` | Yes |
-| `pathofexile-discuss.com` | No |
+| `pathofexile-discuss.com` | Yes |
 | `pati.to` | No |
 | `patogh.co` | Yes |
 | `patologia.online` | No |
@@ -37456,7 +37457,7 @@ Here's a list of public Fediverse services.
 | `the-expanse.net` | Yes |
 | `the-gathering.space` | No |
 | `the-goblin.net` | Yes |
-| `the-hub.zone` | No |
+| `the-hub.zone` | Yes |
 | `the-idw.com` | No |
 | `the-j.ml` | No |
 | `the-liberator.news` | Yes |
@@ -43331,8 +43332,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,098 |
-| Normal | 32,190 |
+| Cloudflare | 11,100 |
+| Normal | 32,189 |
 
 
 ### 25.6% of public Fediverse services are using Cloudflare.
