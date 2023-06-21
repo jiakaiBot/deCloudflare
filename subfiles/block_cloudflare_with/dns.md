@@ -128,7 +128,10 @@ deny-answer-aliases { "localhost.invalid"; };
 
 <details><summary> _click me_ </summary>
 
-- blocked-ips.txt
+Add them to your `blocked-ips.txt`.
+
+- Or download [full pieces.txt](../../cloudflare_inc/cloudflare_CIDR_v4_pieces.txt) for absolute protection.
+
 ```
 103.21.244.*
 103.21.245.*
