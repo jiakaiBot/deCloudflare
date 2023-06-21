@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failed to save add-on configuration - additional_hosts](https://github.com/brenner-tobias/ha-addons/issues/13)
 - [Missing User-Agent causes remote URL retrieval to fail](https://github.com/sissaschool/xmlschema/issues/351)
 - [Failed to import - @mdx-js/mdx@2.3.0](https://github.com/esm-dev/esm.sh/issues/665)
 - [Can't run the development server](https://github.com/lensterxyz/lenster/issues/3150)
