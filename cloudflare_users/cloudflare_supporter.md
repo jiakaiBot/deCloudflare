@@ -8227,6 +8227,7 @@ Do not create new issue or we will close it as duplicate.
 | [nao_qua@twitter](https://twitter.com/nao_qua/status/1533404289648844802) | advertise |
 | [napat0546@twitter](https://twitter.com/napat0546/status/1637276702723440641) | advertise |
 | [nappyboy1109@twitter](https://twitter.com/nappyboy1109/status/1559171847643893761) | advertise |
+| [naptechgames@twitter](https://twitter.com/naptechgames/status/1671413424058945536) | advertise |
 | [NaqibTasdiq@twitter](https://twitter.com/NaqibTasdiq/status/1561014306275475459) | advertise |
 | [naqmal05@twitter](https://twitter.com/naqmal05/status/1622913393064837121) | advertise |
 | [Naqmeqarib@twitter](https://twitter.com/Naqmeqarib/status/1579390107022680064) | advertise |
