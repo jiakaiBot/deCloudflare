@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,581 |
-| social | 4,178 |
+| com | 6,583 |
+| social | 4,179 |
 | net | 3,320 |
 | org | 2,301 |
-| de | 2,165 |
+| de | 2,166 |
 
 
 - Mastodon, Pleroma, etc
@@ -1421,6 +1421,7 @@ Here's a list of public Fediverse services.
 | `alden.page` | No |
 | `aldiserver.de` | Yes |
 | `aldr.garden` | No |
+| `aldr.social` | No |
 | `aldude999.net` | No |
 | `alduino.xyz` | Yes |
 | `ale-elements.ml` | No |
@@ -2591,6 +2592,7 @@ Here's a list of public Fediverse services.
 | `arvr.social` | No |
 | `arxiv.social` | No |
 | `aryasenna.net` | Yes |
+| `as200950.com` | No |
 | `as211696.net` | No |
 | `as59715.net` | No |
 | `as60927.net` | No |
@@ -8531,6 +8533,7 @@ Here's a list of public Fediverse services.
 | `dd-dns.de` | No |
 | `dd0s.lol` | Yes |
 | `ddcloud.info` | No |
+| `ddddd.red` | No |
 | `dddug.in` | No |
 | `ddn.social` | No |
 | `ddna.co` | No |
@@ -13868,6 +13871,7 @@ Here's a list of public Fediverse services.
 | `gegeweb.eu` | No |
 | `gegeweb.org` | No |
 | `gehenna.moe` | No |
+| `gehirneimer.de` | No |
 | `gehtnet.org` | No |
 | `gei.st` | No |
 | `geiger.ee` | Yes |
@@ -17689,6 +17693,7 @@ Here's a list of public Fediverse services.
 | `jackal.chat` | Yes |
 | `jackbenson.xyz` | Yes |
 | `jackbot.fr` | No |
+| `jackbot.uk` | No |
 | `jackdaddy.blog` | No |
 | `jackdaw.today` | No |
 | `jackelope.gay` | Yes |
@@ -18064,6 +18069,7 @@ Here's a list of public Fediverse services.
 | `jessidhia.dev` | Yes |
 | `jestemgraczem.pl` | Yes |
 | `jesuislibre.net` | No |
+| `jesus.fish` | Yes |
 | `jesuscova.com` | No |
 | `jesusinthe.club` | No |
 | `jetfm.fr` | No |
@@ -20694,6 +20700,7 @@ Here's a list of public Fediverse services.
 | `lemmy.cat` | No |
 | `lemmy.click` | Yes |
 | `lemmy.directory` | Yes |
+| `lemmy.eco.br` | Yes |
 | `lemmy.eus` | No |
 | `lemmy.film` | Yes |
 | `lemmy.fyi` | Yes |
@@ -36191,6 +36198,7 @@ Here's a list of public Fediverse services.
 | `stuartpb.com` | Yes |
 | `student-factory.de` | No |
 | `studentchristianmovement.social` | No |
+| `studentmain.com` | No |
 | `studio10b.nyc` | Yes |
 | `studio92.nl` | No |
 | `studiofreesia.com` | No |
@@ -40152,6 +40160,7 @@ Here's a list of public Fediverse services.
 | `utopify.org` | No |
 | `utopioca.com` | No |
 | `utronium.xyz` | No |
+| `utter.online` | No |
 | `utter.studio` | No |
 | `utveckla.re` | No |
 | `utwente.nl` | No |
@@ -41272,6 +41281,7 @@ Here's a list of public Fediverse services.
 | `wedgi.us` | No |
 | `wedin.us` | Yes |
 | `wedistribute.org` | No |
+| `wee.press` | No |
 | `wee.st` | No |
 | `wee.tf` | No |
 | `weeaboo.space` | No |
@@ -42175,6 +42185,7 @@ Here's a list of public Fediverse services.
 | `xbdm.fun` | Yes |
 | `xbm.se` | No |
 | `xbt0r.com` | No |
+| `xce.pt` | No |
 | `xcess.one` | Yes |
 | `xcetera.biz` | No |
 | `xcho.space` | No |
@@ -43426,8 +43437,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,164 |
-| Normal | 32,219 |
+| Cloudflare | 11,166 |
+| Normal | 32,228 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
