@@ -2917,6 +2917,7 @@ Do not create new issue or we will close it as duplicate.
 | [DonGamblee@twitter](https://twitter.com/DonGamblee/status/1493600512746340361) | advertise |
 | [DONGame51021087@twitter](https://twitter.com/DONGame51021087/status/1388107888640487424) | advertise |
 | [dongdon16656059@twitter](https://twitter.com/dongdon16656059/status/1386890742702895106) | advertise |
+| [dongngu04219803@twitter](https://twitter.com/dongngu04219803/status/1671540192518496257) | advertise |
 | [Dongquan29G@twitter](https://twitter.com/Dongquan29G/status/1553641029043388417) | advertise |
 | [dongquan97@twitter](https://twitter.com/dongquan97/status/1552909115533688833) | advertise |
 | [dongta1983bk@twitter](https://twitter.com/dongta1983bk/status/1438900220939550725) | advertise |
