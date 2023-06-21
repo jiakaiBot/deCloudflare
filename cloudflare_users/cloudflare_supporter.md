@@ -2306,6 +2306,7 @@ Do not create new issue or we will close it as duplicate.
 | [coccocxi@twitter](https://twitter.com/coccocxi/status/1543106929311879169) | advertise |
 | [cocombatsports@twitter](https://twitter.com/cocombatsports/status/1588279260292079616) | advertise |
 | [codeberg.org](https://www.codeberg.org/) | [HISTORY.md](../HISTORY.md) |
+| [codehex@twitter](https://twitter.com/codehex/status/1671513194177650691) | advertise |
 | [codemorningsir@twitter](https://twitter.com/codemorningsir/status/1641690651057352704) | advertise |
 | [codewithfortune@twitter](https://twitter.com/codewithfortune/status/1477733630982213634) | advertise |
 | [codfish246@twitter](https://twitter.com/codfish246/status/1555424438602047488) | advertise |
@@ -3040,6 +3041,7 @@ Do not create new issue or we will close it as duplicate.
 | [DuongHu42534251@twitter](https://twitter.com/DuongHu42534251/status/1391001402059628548) | advertise |
 | [DuongKh71182303@twitter](https://twitter.com/DuongKh71182303/status/1389253317528743939) | advertise |
 | [duongkiller@twitter](https://twitter.com/duongkiller/status/1389751370715074561) | advertise |
+| [duonglapone@twitter](https://twitter.com/duonglapone/status/1671517915881807872) | advertise |
 | [DuongLe19620373@twitter](https://twitter.com/DuongLe19620373/status/1549700966848806912) | advertise |
 | [duongng87181752@twitter](https://twitter.com/duongng87181752/status/1612137152648974337) | advertise |
 | [Duongngochai11@twitter](https://twitter.com/Duongngochai11/status/1471384062879096832) | advertise |
