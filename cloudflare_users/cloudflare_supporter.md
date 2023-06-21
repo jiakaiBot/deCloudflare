@@ -10184,6 +10184,7 @@ Do not create new issue or we will close it as duplicate.
 | [royalcommando1@twitter](https://twitter.com/royalcommando1/status/1399602265934028801) | advertise |
 | [royalja40697482@twitter](https://twitter.com/royalja40697482/status/1403734511729315840) | advertise |
 | [royal_blood1506@twitter](https://twitter.com/royal_blood1506/status/1392355606825115655) | advertise |
+| [royal_dig@twitter](https://twitter.com/royal_dig/status/1671342221797494785) | advertise |
 | [RoyUderrizal@twitter](https://twitter.com/RoyUderrizal/status/1654103641668849666) | advertise |
 | [RoyysHD1195@twitter](https://twitter.com/RoyysHD1195/status/1552070037196144640) | advertise |
 | [roy_souryaraj@twitter](https://twitter.com/roy_souryaraj/status/1399422906002640904) | advertise |
