@@ -927,6 +927,7 @@ Do not create new issue or we will close it as duplicate.
 | [ap1998106822@twitter](https://twitter.com/ap1998106822/status/1389791514016948225) | advertise |
 | [apa4h@twitter](https://twitter.com/apa4h/status/1379030071202185217) | advertise |
 | [ApAp33062813@twitter](https://twitter.com/ApAp33062813/status/1490578123163054088) | advertise |
+| [apdirahman01@twitter](https://twitter.com/apdirahman01/status/1671565798668632065) | advertise |
 | [AphirakRaenrot@twitter](https://twitter.com/AphirakRaenrot/status/1612475927061213185) | advertise |
 | [APhyuYaung10@twitter](https://twitter.com/APhyuYaung10/status/1381663498736963589) | advertise |
 | [ApihCandurry@twitter](https://twitter.com/ApihCandurry/status/1527834662923804673) | advertise |
@@ -977,6 +978,7 @@ Do not create new issue or we will close it as duplicate.
 | [AriesGreenApple@twitter](https://twitter.com/AriesGreenApple/status/1487078687598014470) | advertise |
 | [Arieshtut213@twitter](https://twitter.com/Arieshtut213/status/1402336618921578504) | advertise |
 | [ariess1265@twitter](https://twitter.com/ariess1265/status/1549318704646979584) | advertise |
+| [Aries_Type_B@twitter](https://twitter.com/Aries_Type_B/status/1671555816288305152) | advertise |
 | [Arif6417@twitter](https://twitter.com/Arif6417/status/1566662954195435520) | advertise |
 | [Ariff36174425@twitter](https://twitter.com/Ariff36174425/status/1501938338902986762) | advertise |
 | [ArifinSunny19@twitter](https://twitter.com/ArifinSunny19/status/1389227451742523399) | advertise |
