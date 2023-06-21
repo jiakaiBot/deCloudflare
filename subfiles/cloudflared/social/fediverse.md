@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,579 |
 | social | 4,176 |
-| net | 3,316 |
+| net | 3,318 |
 | org | 2,301 |
 | de | 2,164 |
 
@@ -13179,6 +13179,7 @@ Here's a list of public Fediverse services.
 | `fsociety.social` | Yes |
 | `fsphub.org` | No |
 | `fstop.social` | No |
+| `fstube.net` | No |
 | `fsub.de` | No |
 | `ftb.moe` | No |
 | `ftdrd.xyz` | No |
@@ -22063,6 +22064,7 @@ Here's a list of public Fediverse services.
 | `macwright.com` | Yes |
 | `mad-scientist.club` | No |
 | `madameplay.com.br` | No |
+| `madamisskey.net` | No |
 | `madbob.org` | No |
 | `madcam.co.uk` | No |
 | `madder-mad.net` | No |
@@ -43391,7 +43393,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,144 |
-| Normal | 32,203 |
+| Normal | 32,205 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
