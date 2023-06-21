@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,580 |
-| social | 4,177 |
-| net | 3,319 |
+| com | 6,581 |
+| social | 4,178 |
+| net | 3,320 |
 | org | 2,301 |
 | de | 2,165 |
 
@@ -4095,6 +4095,7 @@ Here's a list of public Fediverse services.
 | `biocomm.net` | No |
 | `bioklaani.horse` | No |
 | `biologianaweb.com.br` | No |
+| `biologists.social` | No |
 | `bionicbeer.com` | No |
 | `biont.space` | No |
 | `biophilicresearch.net` | No |
@@ -10360,6 +10361,7 @@ Here's a list of public Fediverse services.
 | `edtechme.org` | Yes |
 | `edtechstrategies.social` | No |
 | `edtechyogi.com` | No |
+| `edtrots.co.uk` | No |
 | `edu.nl` | No |
 | `eduardocloud.com` | Yes |
 | `eduardocollado.com` | No |
@@ -10793,6 +10795,7 @@ Here's a list of public Fediverse services.
 | `endhill.club` | No |
 | `endipito.us` | No |
 | `endofinternet.net` | No |
+| `endofti.me` | No |
 | `endonend.org` | No |
 | `endpoint.ml` | Yes |
 | `endrealm.net` | Yes |
@@ -11757,6 +11760,7 @@ Here's a list of public Fediverse services.
 | `federated.fun` | No |
 | `federated.id` | Yes |
 | `federated.media` | No |
+| `federated.ninja` | No |
 | `federated.nz` | No |
 | `federated.photos` | No |
 | `federated.place` | No |
@@ -12347,6 +12351,7 @@ Here's a list of public Fediverse services.
 | `fixionauta.net` | No |
 | `fixitbear.com` | No |
 | `fjara.re` | No |
+| `fjdk.uk` | Yes |
 | `fjerland.no` | No |
 | `fjmil.com` | No |
 | `fjordstack.com` | No |
@@ -14377,6 +14382,7 @@ Here's a list of public Fediverse services.
 | `gnutan.xyz` | No |
 | `gnuu.org` | Yes |
 | `gnyo.org` | No |
+| `gnzl.cl` | No |
 | `go-newbie.club` | No |
 | `go-rs.tk` | No |
 | `go0d.icu` | No |
@@ -17528,6 +17534,7 @@ Here's a list of public Fediverse services.
 | `italysec.com` | No |
 | `italysec.social` | No |
 | `itcave.de` | No |
+| `itch.fyi` | Yes |
 | `itchyway.com` | No |
 | `itcountrythai.com` | No |
 | `itcrowd.space` | No |
@@ -30787,6 +30794,7 @@ Here's a list of public Fediverse services.
 | `pushingrubberdownhill.com` | Yes |
 | `pussyhat.party` | No |
 | `pustule.org` | No |
+| `put.tf` | Yes |
 | `puter.games` | No |
 | `putin.agency` | No |
 | `putputlaw.de` | No |
@@ -31048,6 +31056,7 @@ Here's a list of public Fediverse services.
 | `quietplace.xyz` | No |
 | `quietude.space` | No |
 | `quietus.ca` | Yes |
+| `quietzero.net` | Yes |
 | `quigleys.org` | No |
 | `quigs.blog` | Yes |
 | `quine.codes` | No |
@@ -36032,6 +36041,7 @@ Here's a list of public Fediverse services.
 | `stonerivermountain.com` | No |
 | `stonerkitty.monster` | No |
 | `stoners.social` | No |
+| `stoners.space` | No |
 | `stonestagsa.ga` | No |
 | `stonewall.social` | No |
 | `stoney.monster` | No |
@@ -37142,6 +37152,7 @@ Here's a list of public Fediverse services.
 | `tearmoon.com` | No |
 | `teasmith.com.au` | Yes |
 | `teatime.gr.jp` | No |
+| `tebro.fi` | No |
 | `tebukuro.pw` | No |
 | `tebukuro.xyz` | Yes |
 | `tec.social` | No |
@@ -38433,6 +38444,7 @@ Here's a list of public Fediverse services.
 | `toby.ink` | No |
 | `toby.sh` | No |
 | `toby3d.me` | Yes |
+| `tobyvin.dev` | Yes |
 | `tocaj.ch` | No |
 | `tochat.one` | Yes |
 | `tocnawan.com` | No |
@@ -42168,6 +42180,7 @@ Here's a list of public Fediverse services.
 | `xcho.space` | No |
 | `xcloud.zone` | No |
 | `xconomy.com` | Yes |
+| `xcoolgroup.com` | No |
 | `xcsdm.com` | Yes |
 | `xcsv.tv` | No |
 | `xd0.de` | No |
@@ -42203,6 +42216,7 @@ Here's a list of public Fediverse services.
 | `xexoxial.org` | No |
 | `xey.me` | No |
 | `xfcab.com` | No |
+| `xffxe4.lol` | Yes |
 | `xfile.click` | No |
 | `xfrog.top` | No |
 | `xgix.net` | Yes |
@@ -43412,8 +43426,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,158 |
-| Normal | 32,211 |
+| Cloudflare | 11,164 |
+| Normal | 32,219 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
