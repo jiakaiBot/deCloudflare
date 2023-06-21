@@ -873,6 +873,7 @@ Here's a list of public Fediverse services.
 | `acab.io` | No |
 | `acab.land` | No |
 | `acab.ovh` | No |
+| `acab.pro` | No |
 | `acab.systems` | No |
 | `academe.social` | No |
 | `academe.world` | No |
@@ -4154,6 +4155,7 @@ Here's a list of public Fediverse services.
 | `bit-friends.de` | No |
 | `bit-link.de` | No |
 | `bitacadie.com` | No |
+| `bitals.xyz` | No |
 | `bitbang.social` | Yes |
 | `bitbank.cc` | Yes |
 | `bitbattles.com` | No |
@@ -7319,6 +7321,7 @@ Here's a list of public Fediverse services.
 | `couchet.org` | No |
 | `couchpotato.sexy` | Yes |
 | `cougar.cat` | Yes |
+| `coukaratcha.fr` | No |
 | `could.cloud` | No |
 | `couldbe.art` | No |
 | `counselingmasto.info` | No |
@@ -11083,6 +11086,7 @@ Here's a list of public Fediverse services.
 | `esp.nl` | No |
 | `espace.si` | No |
 | `esparrec.ml` | No |
+| `espectro.observer` | Yes |
 | `espeech.org` | Yes |
 | `espeon.social` | No |
 | `esperant.io` | No |
@@ -42309,6 +42313,7 @@ Here's a list of public Fediverse services.
 | `xn--federao-2wa9a.social` | No |
 | `xn--fiqwix98h.jp` | No |
 | `xn--geldwsche24-p8a.eu` | No |
+| `xn--gew.site` | Yes |
 | `xn--groovebro-w9a.de` | No |
 | `xn--gu1a.moe` | Yes |
 | `xn--h1ahnbk7d.xn--p1ai` | No |
@@ -43407,8 +43412,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,156 |
-| Normal | 32,208 |
+| Cloudflare | 11,158 |
+| Normal | 32,211 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
