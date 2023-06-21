@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,579 |
-| social | 4,176 |
+| com | 6,580 |
+| social | 4,177 |
 | net | 3,319 |
 | org | 2,301 |
-| de | 2,164 |
+| de | 2,165 |
 
 
 - Mastodon, Pleroma, etc
@@ -7536,6 +7536,7 @@ Here's a list of public Fediverse services.
 | `crlf.ninja` | No |
 | `crmbl.uk` | No |
 | `cro-maat.com` | Yes |
+| `cro.pics` | No |
 | `cro.social` | No |
 | `croall.ca` | No |
 | `crobin.photos` | No |
@@ -9622,6 +9623,7 @@ Here's a list of public Fediverse services.
 | `donkeymedia.eu` | No |
 | `donky.social` | No |
 | `donmasto.xyz` | No |
+| `donmcgin.com` | No |
 | `donnacavalier.com` | No |
 | `donnadieu.fr` | No |
 | `donncha.is` | Yes |
@@ -12061,6 +12063,7 @@ Here's a list of public Fediverse services.
 | `femboy.world` | Yes |
 | `femboyfor.sale` | No |
 | `femboyfurry.net` | Yes |
+| `femboys.bar` | Yes |
 | `femby.club` | No |
 | `feminine.social` | Yes |
 | `feminism.lgbt` | No |
@@ -12882,6 +12885,7 @@ Here's a list of public Fediverse services.
 | `freefedifollowers.ga` | No |
 | `freeforge.eu` | No |
 | `freeform.social` | No |
+| `freefortnitegift.cards` | Yes |
 | `freegaff.club` | No |
 | `freegamedev.net` | No |
 | `freego.network` | No |
@@ -14276,7 +14280,7 @@ Here's a list of public Fediverse services.
 | `gloveraoki.net` | Yes |
 | `glow.land` | No |
 | `glowers.club` | No |
-| `glowhost.ru` | No |
+| `glowhost.ru` | Yes |
 | `glowie.cloud` | No |
 | `glowing.garden` | No |
 | `glowing.surf` | No |
@@ -16992,6 +16996,7 @@ Here's a list of public Fediverse services.
 | `inductive.space` | No |
 | `indulgent.art` | No |
 | `indw.blog` | No |
+| `indw.social` | No |
 | `indy.im` | No |
 | `indyjp.club` | No |
 | `indymotion.fr` | No |
@@ -19248,6 +19253,7 @@ Here's a list of public Fediverse services.
 | `kiarc.win` | Yes |
 | `kiasyn.com` | Yes |
 | `kiber-ogur4ik.space` | Yes |
+| `kiberness.xyz` | No |
 | `kibertonija.in` | No |
 | `kibi.family` | No |
 | `kibitz.cloud` | Yes |
@@ -22622,6 +22628,7 @@ Here's a list of public Fediverse services.
 | `mast.one` | No |
 | `mast.quebec` | No |
 | `mast.tokyo` | Yes |
+| `mast.zone` | No |
 | `mast0d0n.fr` | No |
 | `mastadano.com` | No |
 | `mastadon.jp` | No |
@@ -36476,6 +36483,7 @@ Here's a list of public Fediverse services.
 | `suzumiya.moe` | No |
 | `suzuoki.social` | No |
 | `suzy.is` | No |
+| `sv-antares.de` | No |
 | `sv7.cc` | No |
 | `sva.social` | No |
 | `svallee.fr` | No |
@@ -40377,6 +40385,7 @@ Here's a list of public Fediverse services.
 | `velstandsfanden.no` | No |
 | `velt.space` | No |
 | `veltens.org` | No |
+| `velveteen.one` | No |
 | `ven.pm` | No |
 | `vencabot.com` | No |
 | `vending-machine.xyz` | No |
@@ -43371,7 +43380,7 @@ Here's a list of public Fediverse services.
 | `zym.lol` | Yes |
 | `zymocosm.com` | No |
 | `zyno.us` | No |
-| `zyoh.net` | No |
+| `zyoh.net` | Yes |
 | `zyphon.com` | No |
 | `zyphyr.de` | No |
 | `zytixon.com` | No |
@@ -43394,8 +43403,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,144 |
-| Normal | 32,207 |
+| Cloudflare | 11,148 |
+| Normal | 32,212 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
