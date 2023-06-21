@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,583 |
 | social | 4,179 |
-| net | 3,320 |
+| net | 3,321 |
 | org | 2,301 |
 | de | 2,166 |
 
@@ -17648,6 +17648,7 @@ Here's a list of public Fediverse services.
 | `ixda.org` | Yes |
 | `ixiaochuan.cn` | No |
 | `ixor.tech` | Yes |
+| `ixyn.net` | Yes |
 | `iyasaretai.pw` | No |
 | `iyher.club` | No |
 | `iys.io` | Yes |
@@ -23881,7 +23882,7 @@ Here's a list of public Fediverse services.
 | `mewmews.gay` | Yes |
 | `mewo2.com` | Yes |
 | `meww.xyz` | No |
-| `mexibang.com` | No |
+| `mexibang.com` | Yes |
 | `mexicanbold.com` | Yes |
 | `mexico-pensante.blog` | No |
 | `mexicosocial.mx` | No |
@@ -26449,7 +26450,7 @@ Here's a list of public Fediverse services.
 | `neurodifferent.me` | No |
 | `neurodiver.ge` | No |
 | `neurodiversity-in.au` | Yes |
-| `neurohack.net` | No |
+| `neurohack.net` | Yes |
 | `neurology.social` | Yes |
 | `neuromante.net` | No |
 | `neuromatch.social` | No |
@@ -43437,8 +43438,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,165 |
-| Normal | 32,229 |
+| Cloudflare | 11,168 |
+| Normal | 32,227 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
