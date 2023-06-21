@@ -14655,6 +14655,7 @@ Here's a list of public Fediverse services.
 | `graypar.se` | No |
 | `grayrecord.com` | Yes |
 | `graz.social` | No |
+| `grdnsys.no` | No |
 | `great-lakes-maritime-republic.net` | No |
 | `great-tusk.com` | No |
 | `greatestgen.social` | No |
@@ -43407,7 +43408,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,156 |
-| Normal | 32,207 |
+| Normal | 32,208 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
