@@ -13401,6 +13401,7 @@ Here's a list of public Fediverse services.
 | `futureunknown.cafe` | No |
 | `futurevista.social` | No |
 | `futurist.info` | Yes |
+| `futurist.pub` | No |
 | `futurnumerique.com` | No |
 | `futvretown.com` | No |
 | `fuwa.pink` | No |
@@ -43394,7 +43395,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,144 |
-| Normal | 32,206 |
+| Normal | 32,207 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
