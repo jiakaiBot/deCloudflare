@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,579 |
 | social | 4,176 |
-| net | 3,318 |
+| net | 3,319 |
 | org | 2,301 |
 | de | 2,164 |
 
@@ -29339,6 +29339,7 @@ Here's a list of public Fediverse services.
 | `phal.io` | No |
 | `phanisvara.com` | No |
 | `phantasma.cloud` | Yes |
+| `phantomthieves.net` | No |
 | `pharus.pt` | No |
 | `phase.org` | No |
 | `phasegate.icu` | No |
@@ -43393,7 +43394,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,144 |
-| Normal | 32,205 |
+| Normal | 32,206 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
