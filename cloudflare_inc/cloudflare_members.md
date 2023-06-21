@@ -1851,6 +1851,7 @@ Or is this merely a case of simple modesty?
 | Vinent Mugabo | Employee |  |
 | Vinita Pitoomal | Business Development |  |
 | Visith Bou | Customer Development |  |
+| Vitali Lovich | Employee | |
 | Vivek Ganti | Product Marketing |  |
 | Vivian Hua | Security |  |
 | Vladimir Paladi | Employee |  |
@@ -1879,6 +1880,7 @@ Or is this merely a case of simple modesty?
 | William da Cunha | Head of Sales (Americas) |  |
 | William Fisher | Systems Engineer |  |
 | William Robledo | Datacenter Deployments |  |
+| William Woodhead | Employee | |
 | Will Valle | Employee | |
 | Wilson Jackson | Employee |  |
 | Windy Faith | Employee |  |
