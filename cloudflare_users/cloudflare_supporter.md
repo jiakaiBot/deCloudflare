@@ -8779,6 +8779,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nora05282397@twitter](https://twitter.com/Nora05282397/status/1390740645157900291) | advertise |
 | [norarini5@twitter](https://twitter.com/norarini5/status/1648338966079324163) | advertise |
 | [norhidayuzinon@twitter](https://twitter.com/norhidayuzinon/status/1385720279872253954) | advertise |
+| [Noriboy_j@twitter](https://twitter.com/Noriboy_j/status/1671471085081055238) | advertise |
 | [normalisa2244@twitter](https://twitter.com/normalisa2244/status/1508101082907832322) | advertise |
 | [NoruzzamanNahid@twitter](https://twitter.com/NoruzzamanNahid/status/1588197771278192640) | advertise |
 | [NOsheeennn@twitter](https://twitter.com/NOsheeennn/status/1394946949963415555) | advertise |
@@ -12738,6 +12739,7 @@ Do not create new issue or we will close it as duplicate.
 | [VoThanh9xx@twitter](https://twitter.com/VoThanh9xx/status/1552358007102513152) | advertise |
 | [VouryaR@twitter](https://twitter.com/VouryaR/status/1605272266614657025) | advertise |
 | [vovsoft@twitter](https://twitter.com/vovsoft/status/1391116990501298178) | advertise |
+| [Voxelli@twitter](https://twitter.com/Voxelli/status/1671467512188289024) | advertise |
 | [VoxziB@twitter](https://twitter.com/VoxziB/status/1380772820624412673) | advertise |
 | [vpnloganmorg@twitter](https://twitter.com/vpnloganmorg/status/1640555323307053056) | advertise |
 | [vpsinghbaghel@twitter](https://twitter.com/vpsinghbaghel/status/1552679945025261568) | advertise |
