@@ -25,16 +25,13 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 5ososea.com | Yes |
 | 68360612.xyz | Yes |
 | 7sec.com.br | Yes |
-| 7vpn.com | Yes |
 | 8888.google | No |
 | aa.net.uk | No |
-| aaflalo.me | Yes |
 | absolight.net | No |
 | abstergo.it | No |
 | adfilter.net | Yes |
 | adguard-dns.com | Yes |
 | adrianlam.com | Yes |
-| aganin.org | No |
 | ahadns.net | Yes |
 | aidentec.top | Yes |
 | alekberg.net | No |
@@ -48,7 +45,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | apemlegit.my.id | No |
 | apigw.online | Yes |
 | arashi.eu.org | No |
-| armorrush.eu.org | Yes |
 | artikel10.org | No |
 | avastdns.com | No |
 | avdkishore.dev | Yes |
@@ -78,9 +74,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cira.ca | Yes |
 | circl.lu | No |
 | clanless.ovh | Yes |
-| clearviewtechnology.net | Yes |
 | cloudflare-dns.com | Yes |
-| cloudnx.cloud | Yes |
 | comss.one | No |
 | cretu.xyz | Yes |
 | crypto.sx | Yes |
@@ -94,11 +88,9 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | datahata.by | No |
 | datamatter.co.za | No |
 | daw.dev | No |
-| ddns.network | Yes |
 | decisivedevops.com | Yes |
 | decloudus.com | No |
 | dekonix.ru | Yes |
-| depieri.net | No |
 | despagne.net | No |
 | dessoi.cloud | Yes |
 | detoxifypornblocker.com | No |
@@ -217,7 +209,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lindung.pp.ua | Yes |
 | linkr.ninja | No |
 | lonet.org | Yes |
-| lsasss.com | No |
 | lsho.top | Yes |
 | lz0724.com | No |
 | masters-of-cloud.de | No |
@@ -253,7 +244,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nic.cz | No |
 | nic.lv | No |
 | nielsdb.be | No |
-| nikolagjorgjijoski.com | Yes |
 | nilanjan.rocks | No |
 | niyawe.de | No |
 | njal.la | No |
@@ -298,7 +288,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rezhajul.io | No |
 | rferee.dev | Yes |
 | rin.sh | Yes |
-| rkjha.com.np | Yes |
 | rohanjain.in | Yes |
 | rokh.biz | Yes |
 | ronc.ru | No |
@@ -399,8 +388,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 196 |
-| Normal | 184 |
+| Cloudflare | 188 |
+| Normal | 181 |
 
 
-### 51.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
