@@ -25694,7 +25694,7 @@ Here's a list of public Fediverse services.
 | `mysticaccess.online` | No |
 | `mystical.garden` | No |
 | `mysticalartai.com` | No |
-| `mysticcabin.xyz` | No |
+| `mysticcabin.xyz` | Yes |
 | `mystickynotes.com` | No |
 | `mysticmode.org` | Yes |
 | `mysticpsychedelic.space` | No |
@@ -31206,7 +31206,7 @@ Here's a list of public Fediverse services.
 | `radfoote.net` | No |
 | `radgames.space` | No |
 | `radiant.garden` | No |
-| `radiant.social` | No |
+| `radiant.social` | Yes |
 | `radiate038.com` | No |
 | `radiation.party` | Yes |
 | `radical.town` | No |
@@ -31851,6 +31851,7 @@ Here's a list of public Fediverse services.
 | `remembertheend.com` | Yes |
 | `remerge.net` | No |
 | `remicck.club` | No |
+| `remilia.ch` | Yes |
 | `remilia.me` | No |
 | `remnant.social` | No |
 | `remnantrisingnow.com` | No |
@@ -34729,7 +34730,7 @@ Here's a list of public Fediverse services.
 | `slippy.xyz` | Yes |
 | `slkr.space` | Yes |
 | `sllimnod.com` | No |
-| `sloane.sh` | No |
+| `sloane.sh` | Yes |
 | `slobbe.ch` | No |
 | `slonisko.cz` | No |
 | `sloppylinux.com` | No |
@@ -37045,7 +37046,7 @@ Here's a list of public Fediverse services.
 | `taxodon.com` | No |
 | `taxtech.social` | No |
 | `tayfun.cloud` | Yes |
-| `taylanpince.com` | No |
+| `taylanpince.com` | Yes |
 | `tayledras.social` | No |
 | `tayori.org` | No |
 | `tazy.xyz` | Yes |
@@ -37230,6 +37231,7 @@ Here's a list of public Fediverse services.
 | `techtoots.com` | No |
 | `techviator.com` | Yes |
 | `techy.jp` | No |
+| `techy.news` | Yes |
 | `techy.social` | Yes |
 | `techzerker.com` | Yes |
 | `teci.world` | No |
@@ -40602,6 +40604,7 @@ Here's a list of public Fediverse services.
 | `vipgirlfriend.xxx` | No |
 | `vipper.party` | No |
 | `vira-lata.org` | Yes |
+| `viral.ar` | Yes |
 | `viraladdiction.com` | Yes |
 | `virctuary.com` | No |
 | `virgulilla.com` | No |
@@ -41922,7 +41925,7 @@ Here's a list of public Fediverse services.
 | `wovensoup.com` | No |
 | `wovs.tk` | Yes |
 | `wowana.me` | No |
-| `wowsdon.xyz` | No |
+| `wowsdon.xyz` | Yes |
 | `woyala.com` | Yes |
 | `wp-punks.social` | No |
 | `wp-social.net` | No |
@@ -43403,8 +43406,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,148 |
-| Normal | 32,212 |
+| Cloudflare | 11,156 |
+| Normal | 32,207 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
