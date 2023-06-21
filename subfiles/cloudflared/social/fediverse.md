@@ -8533,7 +8533,6 @@ Here's a list of public Fediverse services.
 | `dd-dns.de` | No |
 | `dd0s.lol` | Yes |
 | `ddcloud.info` | No |
-| `ddddd.red` | No |
 | `dddug.in` | No |
 | `ddn.social` | No |
 | `ddna.co` | No |
@@ -38744,7 +38743,7 @@ Here's a list of public Fediverse services.
 | `tootme.ru` | No |
 | `tootme.social` | No |
 | `tootmin.network` | No |
-| `tootmusic.com` | Yes |
+| `tootmusic.com` | No |
 | `tootn.social` | No |
 | `tootnet.com` | Yes |
 | `tootnet.nl` | No |
@@ -43437,7 +43436,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,166 |
+| Cloudflare | 11,165 |
 | Normal | 32,228 |
 
 
