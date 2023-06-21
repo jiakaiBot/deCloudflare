@@ -8533,6 +8533,7 @@ Here's a list of public Fediverse services.
 | `dd-dns.de` | No |
 | `dd0s.lol` | Yes |
 | `ddcloud.info` | No |
+| `ddddd.red` | No |
 | `dddug.in` | No |
 | `ddn.social` | No |
 | `ddna.co` | No |
@@ -43437,7 +43438,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,165 |
-| Normal | 32,228 |
+| Normal | 32,229 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
