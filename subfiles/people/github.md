@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failed to import - @mdx-js/mdx@2.3.0](https://github.com/esm-dev/esm.sh/issues/665)
 - [Can't run the development server](https://github.com/lensterxyz/lenster/issues/3150)
 - [CloudFlare Cloudflare API service issues in China](https://github.com/MatBenfield/news/issues/15559)
 - [CloudFlare Cloudflare API service issues in China](https://github.com/hinoshiba/news/issues/318)
