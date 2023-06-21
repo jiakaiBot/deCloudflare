@@ -5166,6 +5166,7 @@ Do not create new issue or we will close it as duplicate.
 | [JaneBiotic@twitter](https://twitter.com/JaneBiotic/status/1399991547362529280) | advertise |
 | [JaneM64995631@twitter](https://twitter.com/JaneM64995631/status/1398681834393944070) | advertise |
 | [jangg_lee@twitter](https://twitter.com/jangg_lee/status/1554558248769859586) | advertise |
+| [janhau67805@twitter](https://twitter.com/janhau67805/status/1671531670552424453) | advertise |
 | [janholl39ffs@twitter](https://twitter.com/janholl39ffs/status/1515426068467011593) | advertise |
 | [japanh18@twitter](https://twitter.com/japanh18/status/1503593115609088001) | advertise |
 | [Japopi2@twitter](https://twitter.com/Japopi2/status/1399343770743848964) | advertise |
@@ -6813,6 +6814,7 @@ Do not create new issue or we will close it as duplicate.
 | [lu25rs@twitter](https://twitter.com/lu25rs/status/1377601911893811209) | advertise |
 | [luanla7799@twitter](https://twitter.com/luanla7799/status/1624058840491917314) | advertise |
 | [LuanLe24453405@twitter](https://twitter.com/LuanLe24453405/status/1384482319273054216) | advertise |
+| [LuanNew89@twitter](https://twitter.com/LuanNew89/status/1671532399446970368) | advertise |
 | [luannguyenbkit@twitter](https://twitter.com/luannguyenbkit/status/1552615307612770305) | advertise |
 | [luantran97kgvn@twitter](https://twitter.com/luantran97kgvn/status/1581927173849772034) | advertise |
 | [LuB21468442@twitter](https://twitter.com/LuB21468442/status/1625199628567330816) | advertise |
