@@ -2789,6 +2789,7 @@ Do not create new issue or we will close it as duplicate.
 | [digital_khabar@twitter](https://twitter.com/digital_khabar/status/1443868273901146114) | advertise |
 | [digital_pig@twitter](https://twitter.com/digital_pig/status/1384777161383432192) | advertise |
 | [dikalaode@twitter](https://twitter.com/dikalaode/status/1614277470936784897) | advertise |
+| [Dikshan85958870@twitter](https://twitter.com/Dikshan85958870/status/1671495095122632707) | advertise |
 | [dilba52785508@twitter](https://twitter.com/dilba52785508/status/1564590268371836930) | advertise |
 | [DileepaMV@twitter](https://twitter.com/DileepaMV/status/1372732617934606344) | advertise |
 | [DileepD87691922@twitter](https://twitter.com/DileepD87691922/status/1395573825618661380) | advertise |
@@ -4089,6 +4090,7 @@ Do not create new issue or we will close it as duplicate.
 | [HaTranNguyen4@twitter](https://twitter.com/HaTranNguyen4/status/1474278844894834689) | advertise |
 | [hatthocnho83@twitter](https://twitter.com/hatthocnho83/status/1553035064098770945) | advertise |
 | [Hau29Trung@twitter](https://twitter.com/Hau29Trung/status/1381840387942191108) | advertise |
+| [haulieu4@twitter](https://twitter.com/haulieu4/status/1671376134267875330) | advertise |
 | [HauPhamMinh@twitter](https://twitter.com/HauPhamMinh/status/1496820816436416512) | advertise |
 | [hau_piang@twitter](https://twitter.com/hau_piang/status/1391274895040991234) | advertise |
 | [haval_jumha@twitter](https://twitter.com/haval_jumha/status/1560283134733983744) | advertise |
