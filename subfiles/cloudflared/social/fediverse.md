@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,583 |
+| com | 6,584 |
 | social | 4,179 |
 | net | 3,321 |
 | org | 2,301 |
@@ -5407,6 +5407,7 @@ Here's a list of public Fediverse services.
 | `caa.rip` | No |
 | `caad.one` | No |
 | `caasn.de` | No |
+| `caat.dev` | No |
 | `cabaal.net` | No |
 | `cabane-libre.org` | No |
 | `cabbage.lol` | Yes |
@@ -39678,6 +39679,7 @@ Here's a list of public Fediverse services.
 | `uff.rip` | No |
 | `ufm.lol` | No |
 | `ufm.su` | No |
+| `ufoarmy.com` | No |
 | `ufoi.info` | No |
 | `ufoo9k.space` | Yes |
 | `uforeport.de` | No |
@@ -43439,7 +43441,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,168 |
-| Normal | 32,227 |
+| Normal | 32,229 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
