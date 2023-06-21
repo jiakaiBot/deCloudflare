@@ -10419,6 +10419,7 @@ Do not create new issue or we will close it as duplicate.
 | [samuelll_llll@twitter](https://twitter.com/samuelll_llll/status/1587850198822289408) | advertise |
 | [samuels1v@twitter](https://twitter.com/samuels1v/status/1660731057480581120) | advertise |
 | [Samurai_Slug@twitter](https://twitter.com/Samurai_Slug/status/1642682467030106113) | advertise |
+| [SaMuSar_org@twitter](https://twitter.com/SaMuSar_org/status/1671382175470718977) | advertise |
 | [SamyoFox@twitter](https://twitter.com/SamyoFox/status/1445761137534930952) | advertise |
 | [Sam_Arun_94@twitter](https://twitter.com/Sam_Arun_94/status/1388760215282065413) | advertise |
 | [sam_Br_Ba@twitter](https://twitter.com/sam_Br_Ba/status/1666579606340550656) | advertise |
