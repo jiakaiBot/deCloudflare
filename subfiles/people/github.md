@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Pages broken after 1.17.1 upgrade](https://github.com/remix-run/remix/issues/6665)
 - [error pulling image configuration in windows](https://github.com/qdrant/qdrant/issues/2130)
 - [disable public access to pikapods when cloudFlare reverse tunnel is active](https://github.com/louislam/uptime-kuma/issues/3302)
 - [problem with clouadflare](https://github.com/Akshay-Arjun/69phisher/issues/9)
