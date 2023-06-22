@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,588 |
-| social | 4,181 |
-| net | 3,324 |
+| social | 4,182 |
+| net | 3,325 |
 | org | 2,305 |
 | de | 2,167 |
 
@@ -6967,7 +6967,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -11811,6 +11811,7 @@ Here's a list of public Fediverse services.
 | `fedi.club` | No |
 | `fedi.co.za` | Yes |
 | `fedi.community` | No |
+| `fedi.cr` | No |
 | `fedi.dev` | No |
 | `fedi.exposed` | Yes |
 | `fedi.farm` | No |
@@ -20722,6 +20723,7 @@ Here's a list of public Fediverse services.
 | `lemmy.directory` | Yes |
 | `lemmy.eco.br` | Yes |
 | `lemmy.eus` | No |
+| `lemmy.fail` | Yes |
 | `lemmy.film` | Yes |
 | `lemmy.fyi` | Yes |
 | `lemmy.ml` | No |
@@ -28561,6 +28563,7 @@ Here's a list of public Fediverse services.
 | `outout.xyz` | No |
 | `outpoa.st` | No |
 | `outpostbrons.nl` | No |
+| `outremer.social` | No |
 | `outrider.xyz` | No |
 | `outrnat.nl` | No |
 | `outsideisfree.xyz` | No |
@@ -29226,6 +29229,7 @@ Here's a list of public Fediverse services.
 | `penguinpete.com` | No |
 | `penguinproducer.com` | Yes |
 | `penguins.win` | Yes |
+| `pengwing.city` | No |
 | `peninsula.industries` | No |
 | `penishiroma.xyz` | No |
 | `penisrakete.space` | No |
@@ -31272,7 +31276,7 @@ Here's a list of public Fediverse services.
 | `radig.social` | No |
 | `radikal.social` | No |
 | `radio.af` | Yes |
-| `radio.fm` | Yes |
+| `radio.fm` | No |
 | `radioaconchego.org` | No |
 | `radioalmaina.org` | No |
 | `radiobrony.live` | No |
@@ -35074,7 +35078,7 @@ Here's a list of public Fediverse services.
 | `social.coop` | Yes |
 | `social.edu.ci` | Yes |
 | `social.gent` | No |
-| `social.gs` | Yes |
+| `social.gs` | No |
 | `social.im` | No |
 | `social.lc` | Yes |
 | `social.lol` | No |
@@ -35793,6 +35797,7 @@ Here's a list of public Fediverse services.
 | `stalker.ee` | Yes |
 | `stallman.au` | Yes |
 | `staltsoft.com` | Yes |
+| `stambell.net` | No |
 | `staminaonline.com` | Yes |
 | `stammy.app` | No |
 | `stammy.design` | No |
@@ -43477,7 +43482,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,183 |
-| Normal | 32,250 |
+| Normal | 32,255 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
