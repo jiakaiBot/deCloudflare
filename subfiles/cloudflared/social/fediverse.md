@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,591 |
-| social | 4,182 |
+| com | 6,592 |
+| social | 4,183 |
 | net | 3,325 |
-| org | 2,305 |
-| de | 2,168 |
+| org | 2,306 |
+| de | 2,170 |
 
 
 - Mastodon, Pleroma, etc
@@ -8100,6 +8100,7 @@ Here's a list of public Fediverse services.
 | `dabxcanada.ca` | No |
 | `dachary.org` | No |
 | `dacharycarey.social` | No |
+| `dachfed.eu` | No |
 | `daco.dev` | Yes |
 | `dadalo.pl` | No |
 | `dadasophin.de` | No |
@@ -10378,6 +10379,7 @@ Here's a list of public Fediverse services.
 | `edtechstrategies.social` | No |
 | `edtechyogi.com` | No |
 | `edtrots.co.uk` | No |
+| `edtrots.com` | No |
 | `edu.nl` | No |
 | `eduardocloud.com` | Yes |
 | `eduardocollado.com` | No |
@@ -14052,6 +14054,7 @@ Here's a list of public Fediverse services.
 | `gfsc.studio` | Yes |
 | `gfuzz.de` | No |
 | `gg2don.com` | No |
+| `ggbox.fr` | No |
 | `ggc-project.de` | Yes |
 | `ggg.social` | No |
 | `gggg.plus` | Yes |
@@ -18622,6 +18625,7 @@ Here's a list of public Fediverse services.
 | `justice.tech` | No |
 | `justicewarrior.social` | No |
 | `justin-und-florian.de` | Yes |
+| `justin.rs` | Yes |
 | `justinbremer.com` | No |
 | `justinian.codes` | No |
 | `justinmarrington.com` | No |
@@ -20659,6 +20663,7 @@ Here's a list of public Fediverse services.
 | `legalcontent.live` | No |
 | `legalizenuclearbombs.com` | No |
 | `legalloli.net` | No |
+| `legally-berlin.de` | Yes |
 | `legaltech.social` | No |
 | `legbeard.xyz` | No |
 | `legfr.social` | No |
@@ -20710,6 +20715,7 @@ Here's a list of public Fediverse services.
 | `lemee.co` | No |
 | `lemel.cc` | No |
 | `lemider.me` | No |
+| `lemist.de` | No |
 | `lemiverse.xyz` | Yes |
 | `lemm.ee` | Yes |
 | `lemma.tk` | No |
@@ -25831,6 +25837,7 @@ Here's a list of public Fediverse services.
 | `naarm.social` | No |
 | `naasat.in` | No |
 | `nabago.net` | No |
+| `nabber.org` | No |
 | `naber.space` | No |
 | `nabi1080.net` | No |
 | `nacchan.ca` | No |
@@ -27198,6 +27205,7 @@ Here's a list of public Fediverse services.
 | `nostalgia-tns.net` | No |
 | `nostream.stream` | No |
 | `not-a.top` | No |
+| `not-enough-sci.fi` | No |
 | `not-enough.space` | No |
 | `not-in.de` | No |
 | `not-ok.computer` | No |
@@ -33867,6 +33875,7 @@ Here's a list of public Fediverse services.
 | `selfhost.lol` | Yes |
 | `selfhost.services` | Yes |
 | `selfhosted.cafe` | Yes |
+| `selfhosted.no` | No |
 | `selfhosted.social` | Yes |
 | `selfhosting.info` | Yes |
 | `selfhosting.rocks` | No |
@@ -38362,6 +38371,7 @@ Here's a list of public Fediverse services.
 | `ting.cm` | No |
 | `ting.systems` | No |
 | `tinh.at` | No |
+| `tinier.town` | No |
 | `tiniest.world` | No |
 | `tinker.nz` | No |
 | `tinkeringwithalien.tech` | No |
@@ -39807,6 +39817,7 @@ Here's a list of public Fediverse services.
 | `umastodon.jp` | No |
 | `umastodon.net` | No |
 | `umb.re` | No |
+| `umbracocommunity.social` | No |
 | `umbraluvine.xyz` | No |
 | `umbrella.cafe` | Yes |
 | `umbrellacorporation.work` | No |
@@ -40632,6 +40643,7 @@ Here's a list of public Fediverse services.
 | `vikavo.lt` | No |
 | `viking-gaming.community` | No |
 | `vikings.net` | No |
+| `vikitv.app` | Yes |
 | `vikn.se` | No |
 | `vikolabs.ga` | No |
 | `vikshepa.com` | No |
@@ -43491,8 +43503,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,189 |
-| Normal | 32,259 |
+| Cloudflare | 11,192 |
+| Normal | 32,268 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
