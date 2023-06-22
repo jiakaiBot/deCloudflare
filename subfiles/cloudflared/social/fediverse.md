@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,590 |
+| com | 6,591 |
 | social | 4,182 |
 | net | 3,325 |
 | org | 2,305 |
@@ -4637,6 +4637,7 @@ Here's a list of public Fediverse services.
 | `bolebook.com` | No |
 | `boles.co` | No |
 | `boles.social` | Yes |
+| `boles.video` | No |
 | `boles.xyz` | No |
 | `bolesblogs.com` | No |
 | `bolha.blog` | Yes |
@@ -5097,6 +5098,7 @@ Here's a list of public Fediverse services.
 | `brusilia.eu` | No |
 | `bruta.link` | Yes |
 | `brutsellog.nl` | No |
+| `bruvland.com` | Yes |
 | `bry.bar` | No |
 | `bryanmacmurray.com` | No |
 | `brydge.dev` | Yes |
@@ -23411,6 +23413,7 @@ Here's a list of public Fediverse services.
 | `maybe.pizza` | No |
 | `maydayroleplay.com` | No |
 | `mayel.space` | Yes |
+| `mayes.io` | Yes |
 | `mayfirst.org` | No |
 | `mayhap.org` | No |
 | `mayheminc.win` | Yes |
@@ -25574,6 +25577,7 @@ Here's a list of public Fediverse services.
 | `mxcao.me` | No |
 | `mxchange.org` | No |
 | `mxh.life` | No |
+| `mxh.nu` | No |
 | `mxhdr.net` | No |
 | `mxhl.de` | Yes |
 | `mxin.org` | Yes |
@@ -34059,6 +34063,7 @@ Here's a list of public Fediverse services.
 | `shadowlan.net` | No |
 | `shadowland.social` | No |
 | `shadownet.be` | No |
+| `shadows.rest` | No |
 | `shadowsocial.org` | No |
 | `shadowtoot.space` | Yes |
 | `shadowtoot.world` | Yes |
@@ -43485,8 +43490,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,184 |
-| Normal | 32,258 |
+| Cloudflare | 11,186 |
+| Normal | 32,261 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
