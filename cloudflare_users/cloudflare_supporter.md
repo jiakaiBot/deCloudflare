@@ -1697,6 +1697,7 @@ Do not create new issue or we will close it as duplicate.
 | [BKhanthtal@twitter](https://twitter.com/BKhanthtal/status/1391690284749127688) | advertise |
 | [bkstout@twitter](https://twitter.com/bkstout/status/1552998686841618432) | advertise |
 | [Bl4ckDyck@twitter](https://twitter.com/Bl4ckDyck/status/1618313331244421120) | advertise |
+| [blaaboy3@twitter](https://twitter.com/blaaboy3/status/1671904386371710977) | advertise |
 | [black77595179@twitter](https://twitter.com/black77595179/status/1552697052324581381) | advertise |
 | [BLack89036412@twitter](https://twitter.com/BLack89036412/status/1394289770767949827) | advertise |
 | [Black2282487130@twitter](https://twitter.com/Black2282487130/status/1395330021967941634) | advertise |
@@ -1999,6 +2000,7 @@ Do not create new issue or we will close it as duplicate.
 | [Candy30954247@twitter](https://twitter.com/Candy30954247/status/1393972469904527362) | advertise |
 | [cangcimeng30@twitter](https://twitter.com/cangcimeng30/status/1553349005081513984) | advertise |
 | [cAnh50264481@twitter](https://twitter.com/cAnh50264481/status/1392635647995772930) | advertise |
+| [CanhNgu39481095@twitter](https://twitter.com/CanhNgu39481095/status/1671719022247948288) | advertise |
 | [CantThinkOfUsnm@twitter](https://twitter.com/CantThinkOfUsnm/status/1412673732406042624) | moral (advertise) |
 | [CanturyN@twitter](https://twitter.com/CanturyN/status/1508572957173764097) | advertise |
 | [CanvasCapitol@twitter](https://twitter.com/CanvasCapitol/status/1633042229114830848) | advertise |
@@ -5805,6 +5807,7 @@ Do not create new issue or we will close it as duplicate.
 | [KhaledQiad@twitter](https://twitter.com/KhaledQiad/status/1475497971445870601) | advertise |
 | [khalfiabdk@twitter](https://twitter.com/khalfiabdk/status/1447572885174898689) | advertise |
 | [KhalidAshrafi91@twitter](https://twitter.com/KhalidAshrafi91/status/1586796057492688901) | advertise |
+| [KhalidZamani12@twitter](https://twitter.com/KhalidZamani12/status/1671771832587010048) | advertise |
 | [Khalifa69342938@twitter](https://twitter.com/Khalifa69342938/status/1398071764790530054) | advertise |
 | [khalilKhoshnoo5@twitter](https://twitter.com/khalilKhoshnoo5/status/1613999209509978112) | advertise |
 | [Kham6Kham@twitter](https://twitter.com/Kham6Kham/status/1399420183794511873) | advertise |
@@ -11486,6 +11489,7 @@ Do not create new issue or we will close it as duplicate.
 | [temo199124@twitter](https://twitter.com/temo199124/status/1620459160629567488) | advertise |
 | [tennayrathay1@twitter](https://twitter.com/tennayrathay1/status/1552381696984592384) | advertise |
 | [Tennenee@twitter](https://twitter.com/Tennenee/status/1543516175174631424) | advertise |
+| [TennyThomas4@twitter](https://twitter.com/TennyThomas4/status/1671925206510714889) | advertise |
 | [TenoTaren@twitter](https://twitter.com/TenoTaren/status/1388771312672280576) | advertise |
 | [TensingNightco@twitter](https://twitter.com/TensingNightco/status/1378194588838424582) | advertise |
 | [tenzyumasuda@twitter](https://twitter.com/tenzyumasuda/status/1468236764355641346) | advertise |
@@ -12260,6 +12264,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrnNhtKhoa16@twitter](https://twitter.com/TrnNhtKhoa16/status/1402293520874938373) | advertise |
 | [TrnQucC46296228@twitter](https://twitter.com/TrnQucC46296228/status/1508448815078338563) | advertise |
 | [TrnQucT52838357@twitter](https://twitter.com/TrnQucT52838357/status/1399704418379984898) | advertise |
+| [TrnRin25323964@twitter](https://twitter.com/TrnRin25323964/status/1671879198489845764) | advertise |
 | [TrnThng85707464@twitter](https://twitter.com/TrnThng85707464/status/1404334655038386181) | advertise |
 | [TrnThphngloan18@twitter](https://twitter.com/TrnThphngloan18/status/1543659813695275008) | advertise |
 | [TrnTngQuang2@twitter](https://twitter.com/TrnTngQuang2/status/1404296721090240512) | advertise |
