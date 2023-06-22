@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,182 |
 | net | 3,325 |
 | org | 2,305 |
-| de | 2,167 |
+| de | 2,168 |
 
 
 - Mastodon, Pleroma, etc
@@ -20758,7 +20758,7 @@ Here's a list of public Fediverse services.
 | `lemmyngs.social` | No |
 | `lemmyns.xyz` | No |
 | `lemmynsfw.com` | Yes |
-| `lemmyonline.com` | No |
+| `lemmyonline.com` | Yes |
 | `lemmyrs.org` | No |
 | `lemmyunchained.net` | No |
 | `lemmyverse.org` | Yes |
@@ -24817,7 +24817,7 @@ Here's a list of public Fediverse services.
 | `monsternesslo.ch` | No |
 | `monsterpit.blog` | No |
 | `monsterpit.gallery` | No |
-| `monsterpit.net` | No |
+| `monsterpit.net` | Yes |
 | `monsterprom.space` | No |
 | `monstodon.info` | Yes |
 | `monstr.es` | No |
@@ -27749,6 +27749,7 @@ Here's a list of public Fediverse services.
 | `oekaki.st` | No |
 | `oeks.de` | No |
 | `oelabs.co` | Yes |
+| `oelna.de` | No |
 | `oer.me` | No |
 | `oer.social` | No |
 | `oer.today` | No |
@@ -37640,7 +37641,7 @@ Here's a list of public Fediverse services.
 | `thebadgers.live` | No |
 | `thebag.social` | No |
 | `thebarrens.nu` | No |
-| `thebased.club` | No |
+| `thebased.club` | Yes |
 | `thebeeches.house` | No |
 | `thebene.fit` | No |
 | `thebergstrands.net` | No |
@@ -43490,8 +43491,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,186 |
-| Normal | 32,261 |
+| Cloudflare | 11,189 |
+| Normal | 32,259 |
 
 
-### 25.7% of public Fediverse services are using Cloudflare.
+### 25.8% of public Fediverse services are using Cloudflare.
