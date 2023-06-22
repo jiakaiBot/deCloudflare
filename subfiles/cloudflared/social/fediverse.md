@@ -19041,6 +19041,7 @@ Here's a list of public Fediverse services.
 | `kazvam.com` | Yes |
 | `kb3lyb.com` | Yes |
 | `kbec.dev` | No |
+| `kbin.cafe` | No |
 | `kbin.chat` | Yes |
 | `kbin.dk` | No |
 | `kbin.lgbt` | Yes |
@@ -43504,7 +43505,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,192 |
-| Normal | 32,268 |
+| Normal | 32,269 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
