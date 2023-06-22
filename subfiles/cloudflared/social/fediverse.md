@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,585 |
+| com | 6,588 |
 | social | 4,181 |
 | net | 3,324 |
-| org | 2,303 |
+| org | 2,305 |
 | de | 2,167 |
 
 
@@ -4803,6 +4803,7 @@ Here's a list of public Fediverse services.
 | `bottrill.social` | Yes |
 | `botwerks.social` | Yes |
 | `botwiki.org` | No |
+| `botzev.info` | No |
 | `bou.social` | No |
 | `bougiekitty.net` | Yes |
 | `boui.xyz` | No |
@@ -11304,7 +11305,7 @@ Here's a list of public Fediverse services.
 | `ewb.io` | Yes |
 | `ewcmi.org` | No |
 | `eweg.be` | No |
-| `ewing.au` | No |
+| `ewing.au` | Yes |
 | `ewonchang.com` | Yes |
 | `eworld.social` | No |
 | `ewp.fyi` | Yes |
@@ -16823,6 +16824,7 @@ Here's a list of public Fediverse services.
 | `ilgstrasse.de` | No |
 | `ili.land` | No |
 | `iliaf.net` | No |
+| `iliana.fyi` | No |
 | `ilias.church` | No |
 | `ilikefreedom.ro` | No |
 | `iliketoast.net` | No |
@@ -19032,6 +19034,7 @@ Here's a list of public Fediverse services.
 | `kb3lyb.com` | Yes |
 | `kbec.dev` | No |
 | `kbin.chat` | Yes |
+| `kbin.dk` | No |
 | `kbin.lgbt` | Yes |
 | `kbin.lol` | No |
 | `kbin.place` | No |
@@ -20284,6 +20287,7 @@ Here's a list of public Fediverse services.
 | `lagraff.me` | No |
 | `lagrottedelours.ovh` | No |
 | `laguna.cafe` | No |
+| `laguna.chat` | Yes |
 | `lagy.org` | No |
 | `lahevirta.fi` | No |
 | `lahfa.fr` | No |
@@ -20752,6 +20756,7 @@ Here's a list of public Fediverse services.
 | `lemmyonline.com` | No |
 | `lemmyrs.org` | No |
 | `lemmyunchained.net` | No |
+| `lemmyverse.org` | Yes |
 | `lemmywinks.com` | No |
 | `lemmywinks.xyz` | Yes |
 | `lemniskett.dev` | Yes |
@@ -21192,6 +21197,7 @@ Here's a list of public Fediverse services.
 | `linkerror.com` | No |
 | `linkmauve.fr` | No |
 | `linkomanija.online` | No |
+| `linkopath.com` | Yes |
 | `links.rocks` | No |
 | `linkse.media` | No |
 | `linksehobbys.nl` | No |
@@ -24154,6 +24160,7 @@ Here's a list of public Fediverse services.
 | `milkey.homes` | Yes |
 | `milkrun.de` | No |
 | `milksoup.net` | No |
+| `milksteak.org` | Yes |
 | `milktea.io` | Yes |
 | `milktr.uk` | No |
 | `milky.coffee` | No |
@@ -28325,7 +28332,7 @@ Here's a list of public Fediverse services.
 | `orion-hub.fr` | No |
 | `orion-serv.fr` | Yes |
 | `oriongate.jp` | No |
-| `orionsystems.io` | No |
+| `orionsystems.io` | Yes |
 | `orito-itsuki.net` | No |
 | `oriwebdon.com` | No |
 | `ork.institute` | No |
@@ -33518,7 +33525,7 @@ Here's a list of public Fediverse services.
 | `schwifty.space` | No |
 | `schwoon.org` | No |
 | `schwyz.social` | No |
-| `schykle.com` | No |
+| `schykle.com` | Yes |
 | `sci.kiwi` | Yes |
 | `scicomm.xyz` | No |
 | `science-mastodon.se` | No |
@@ -34446,6 +34453,7 @@ Here's a list of public Fediverse services.
 | `simbafs.cc` | Yes |
 | `simbasocial.com` | No |
 | `simbly.me` | No |
+| `simcha.gay` | Yes |
 | `simcha.lgbt` | Yes |
 | `simcop2387.info` | Yes |
 | `simcu.com` | No |
@@ -36148,6 +36156,7 @@ Here's a list of public Fediverse services.
 | `strass.blog` | No |
 | `strasser.wien` | No |
 | `strasza.net` | No |
+| `stratameetdata.blog` | No |
 | `stratinator.com` | Yes |
 | `stratonauts.co` | Yes |
 | `strausmann.net` | Yes |
@@ -39717,6 +39726,7 @@ Here's a list of public Fediverse services.
 | `uguu.ltd` | No |
 | `uhc-elster.de` | No |
 | `uhh.monster` | No |
+| `uhhoh.com` | No |
 | `uhlig.it` | No |
 | `uhlig.social` | No |
 | `uhlmann.social` | No |
@@ -39967,6 +39977,7 @@ Here's a list of public Fediverse services.
 | `unknowing.dance` | Yes |
 | `unknowngenius.com` | No |
 | `unknownrealm.org` | No |
+| `unknownsys.com` | Yes |
 | `unkomaker.info` | No |
 | `unkomaker.net` | No |
 | `unkworks.net` | No |
@@ -43465,8 +43476,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,174 |
-| Normal | 32,248 |
+| Cloudflare | 11,183 |
+| Normal | 32,250 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
