@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [problem with clouadflare](https://github.com/Akshay-Arjun/69phisher/issues/9)
 - [1.3.4 and 1.3.3 failing in Cloudflare Worker env for different reasons](https://github.com/uuid-rs/uuid/issues/689)
 - [Failed to save add-on configuration - additional_hosts](https://github.com/brenner-tobias/ha-addons/issues/13)
 - [Missing User-Agent causes remote URL retrieval to fail](https://github.com/sissaschool/xmlschema/issues/351)
