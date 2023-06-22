@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [disable public access to pikapods when cloudFlare reverse tunnel is active](https://github.com/louislam/uptime-kuma/issues/3302)
 - [problem with clouadflare](https://github.com/Akshay-Arjun/69phisher/issues/9)
 - [1.3.4 and 1.3.3 failing in Cloudflare Worker env for different reasons](https://github.com/uuid-rs/uuid/issues/689)
 - [Failed to save add-on configuration - additional_hosts](https://github.com/brenner-tobias/ha-addons/issues/13)
