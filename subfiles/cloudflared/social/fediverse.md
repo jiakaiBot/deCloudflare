@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,584 |
 | social | 4,179 |
-| net | 3,321 |
+| net | 3,322 |
 | org | 2,301 |
 | de | 2,166 |
 
@@ -7529,6 +7529,7 @@ Here's a list of public Fediverse services.
 | `critcare.social` | No |
 | `critica.li` | No |
 | `critica.social` | No |
+| `criticalbasics.xyz` | No |
 | `criticalhit.net` | Yes |
 | `criticalrolestats.com` | No |
 | `critter.camp` | No |
@@ -18319,6 +18320,7 @@ Here's a list of public Fediverse services.
 | `jomby.net` | No |
 | `jon-chadwick.com` | No |
 | `jon.eus` | No |
+| `jonaharagon.net` | Yes |
 | `jonahthen.com` | Yes |
 | `jonak.org` | No |
 | `jonamerica.com` | Yes |
@@ -20188,7 +20190,7 @@ Here's a list of public Fediverse services.
 | `la-scic.fr` | No |
 | `la-seraphine.house` | No |
 | `la-verite-vaincra.com` | No |
-| `la-web-radio.eu` | Yes |
+| `la-web-radio.eu` | No |
 | `la1.jp` | No |
 | `la10cy.net` | No |
 | `laaj.space` | No |
@@ -20456,6 +20458,7 @@ Here's a list of public Fediverse services.
 | `lauka.space` | No |
 | `launay.org` | No |
 | `laundromat.me` | No |
+| `laura-test.space` | Yes |
 | `laura.social` | No |
 | `laurakalbag.com` | No |
 | `lauraritchie.com` | No |
@@ -34714,6 +34717,7 @@ Here's a list of public Fediverse services.
 | `slatecave.net` | No |
 | `slattery.social` | No |
 | `slattyslatt.life` | No |
+| `slaycer.top` | Yes |
 | `slayers.online` | Yes |
 | `slcb.xyz` | No |
 | `sldon.jp` | No |
@@ -37959,6 +37963,7 @@ Here's a list of public Fediverse services.
 | `thesix.social` | No |
 | `theskimonster.social` | No |
 | `thesmallhours.io` | Yes |
+| `thesmokinglounge.club` | Yes |
 | `thesnakepostoffice.online` | No |
 | `thesocial.institute` | No |
 | `thesocialbridge.net` | No |
@@ -39285,6 +39290,7 @@ Here's a list of public Fediverse services.
 | `tto.moe` | Yes |
 | `ttree.ch` | Yes |
 | `ttrpg-hangout.social` | No |
+| `ttrpg.network` | No |
 | `ttrpg.one` | No |
 | `tttemptesttt.top` | No |
 | `tttproject.de` | Yes |
@@ -43440,8 +43446,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,168 |
-| Normal | 32,229 |
+| Cloudflare | 11,171 |
+| Normal | 32,232 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
