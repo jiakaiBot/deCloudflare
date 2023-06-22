@@ -76,6 +76,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | clanless.ovh | Yes |
 | cloudflare-dns.com | Yes |
 | comss.one | No |
+| cornes.me | No |
 | cretu.xyz | Yes |
 | crypto.sx | Yes |
 | cryptomize.com | Yes |
@@ -219,6 +220,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mhn.de | No |
 | mikeliu.org | No |
 | mipauns.com | Yes |
+| mmmalia.com | No |
 | mobik.com | No |
 | modr.club | Yes |
 | moeyk.com | Yes |
@@ -294,6 +296,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rouga.ch | Yes |
 | rowdyengeesje.nl | No |
 | rsaikat.com | No |
+| rwth-aachen.de | No |
 | safeith.com | Yes |
 | safeservedns.com | No |
 | safesurfer.io | Yes |
@@ -389,7 +392,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 188 |
-| Normal | 181 |
+| Normal | 184 |
 
 
-### 50.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
