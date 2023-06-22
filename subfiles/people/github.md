@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [File stored in S3-compatible storage can't be download or viewed in PHP 8.2](https://github.com/SergiX44/XBackBone/issues/536)
 - [Manhuafast "403 : Check website in webview"](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/16829)
 - [Cloudflare Pages broken after 1.17.1 upgrade](https://github.com/remix-run/remix/issues/6665)
 - [error pulling image configuration in windows](https://github.com/qdrant/qdrant/issues/2130)
