@@ -1095,6 +1095,7 @@ Do not create new issue or we will close it as duplicate.
 | [astrocopia@twitter](https://twitter.com/astrocopia/status/1590760408352456704) | advertise |
 | [astrovpn@twitter](https://twitter.com/astrovpn/status/1665841042753482754) | advertise |
 | [Asuka68530199@twitter](https://twitter.com/Asuka68530199/status/1552187901449945089) | advertise |
+| [asura6886@twitter](https://twitter.com/asura6886/status/1671836779811573760) | advertise |
 | [asz369358@twitter](https://twitter.com/asz369358/status/1596875706382028811) | advertise |
 | [at251105320@twitter](https://twitter.com/at251105320/status/1505566745951875074) | advertise |
 | [Ata720506551@twitter](https://twitter.com/Ata720506551/status/1579033642827149312) | advertise |
@@ -4393,6 +4394,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hoang49488616@twitter](https://twitter.com/Hoang49488616/status/1564519430385590272) | advertise |
 | [hoang62211862@twitter](https://twitter.com/hoang62211862/status/1532027792228962305) | advertise |
 | [Hoang63923946@twitter](https://twitter.com/Hoang63923946/status/1405016723959390210) | advertise |
+| [Hoanganh88998@twitter](https://twitter.com/Hoanganh88998/status/1671745781534187520) | advertise |
 | [hoangbach_gg@twitter](https://twitter.com/hoangbach_gg/status/1585869309837946880) | advertise |
 | [HOANGCHIBAO2@twitter](https://twitter.com/HOANGCHIBAO2/status/1395425087004626945) | advertise |
 | [hoangchilak@twitter](https://twitter.com/hoangchilak/status/1595681734137647106) | advertise |
