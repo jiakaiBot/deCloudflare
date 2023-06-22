@@ -3436,6 +3436,7 @@ Do not create new issue or we will close it as duplicate.
 | [Farzin19576702@twitter](https://twitter.com/Farzin19576702/status/1391834415785861120) | advertise |
 | [farzintamizi@twitter](https://twitter.com/farzintamizi/status/1589901052350173184) | advertise |
 | [Fashion_NoVa_Ne@twitter](https://twitter.com/Fashion_NoVa_Ne/status/1525972069216833537) | advertise |
+| [fasttrend786@twitter](https://twitter.com/fasttrend786/status/1671812313958195201) | advertise |
 | [fatiherikliuniq@twitter](https://twitter.com/fatiherikliuniq/status/1542403905472053248) | advertise |
 | [fatimav699@twitter](https://twitter.com/fatimav699/status/1665889185839058944) | advertise |
 | [fatts_el@twitter](https://twitter.com/fatts_el/status/1569365314122514433) | advertise |
