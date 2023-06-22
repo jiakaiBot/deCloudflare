@@ -12318,6 +12318,7 @@ Do not create new issue or we will close it as duplicate.
 | [tru_zillah@twitter](https://twitter.com/tru_zillah/status/1621142218714263553) | advertise |
 | [TrVNguyn7@twitter](https://twitter.com/TrVNguyn7/status/1554575659833659393) | advertise |
 | [try2hack@twitter](https://twitter.com/try2hack/status/1584609234750042118) | advertise |
+| [trysmr@twitter](https://twitter.com/trysmr/status/1671841338701266944) | advertise |
 | [tr_ling@twitter](https://twitter.com/tr_ling/status/1523468569475837953) | advertise |
 | [Tsewang73248585@twitter](https://twitter.com/Tsewang73248585/status/1385606825676984327) | advertise |
 | [Tsherin04300710@twitter](https://twitter.com/Tsherin04300710/status/1394306975505129474) | advertise |
