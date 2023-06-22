@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,588 |
+| com | 6,590 |
 | social | 4,182 |
 | net | 3,325 |
 | org | 2,305 |
@@ -12130,6 +12130,7 @@ Here's a list of public Fediverse services.
 | `ferret.business` | No |
 | `ferret.cafe` | Yes |
 | `ferretfrizz.biz` | No |
+| `ferrie.audio` | No |
 | `ferrocarril.net` | No |
 | `ferrous.site` | No |
 | `ferrovipath.es` | No |
@@ -21815,6 +21816,7 @@ Here's a list of public Fediverse services.
 | `luciendupont.com` | Yes |
 | `lucienpuget.fr` | No |
 | `luciferi.st` | No |
+| `lucitt.com` | No |
 | `lucitt.social` | No |
 | `luckow.org` | No |
 | `luckycat.chat` | No |
@@ -38258,6 +38260,7 @@ Here's a list of public Fediverse services.
 | `tidy.camp` | No |
 | `tiennot.net` | No |
 | `tiepup.co.uk` | No |
+| `tiepup.com` | No |
 | `tiernanotoole.ie` | Yes |
 | `tierslieux.re` | No |
 | `tiff.is` | No |
@@ -43460,6 +43463,7 @@ Here's a list of public Fediverse services.
 | `zyno.us` | No |
 | `zyoh.net` | Yes |
 | `zyphon.com` | No |
+| `zyphr.xyz` | Yes |
 | `zyphyr.de` | No |
 | `zytixon.com` | No |
 | `zyun.jp` | No |
@@ -43481,8 +43485,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,183 |
-| Normal | 32,255 |
+| Cloudflare | 11,184 |
+| Normal | 32,258 |
 
 
 ### 25.7% of public Fediverse services are using Cloudflare.
