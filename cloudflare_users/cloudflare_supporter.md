@@ -9792,6 +9792,7 @@ Do not create new issue or we will close it as duplicate.
 | [queue2030@twitter](https://twitter.com/queue2030/status/1523226758082084869) | advertise |
 | [QuinQuin309603@twitter](https://twitter.com/QuinQuin309603/status/1553122104215683072) | advertise |
 | [quiprr@twitter](https://twitter.com/quiprr/status/1380345039713300480) | advertise |
+| [quique_rmn@twitter](https://twitter.com/quique_rmn/status/1671735337130024960) | advertise |
 | [qun25444692@twitter](https://twitter.com/qun25444692/status/1394885295565197314) | advertise |
 | [Qun32615965@twitter](https://twitter.com/Qun32615965/status/1553832974340132865) | advertise |
 | [Qun61109057@twitter](https://twitter.com/Qun61109057/status/1393196820046569478) | advertise |
