@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,592 |
-| social | 4,183 |
-| net | 3,325 |
+| social | 4,184 |
+| net | 3,327 |
 | org | 2,306 |
-| de | 2,170 |
+| de | 2,171 |
 
 
 - Mastodon, Pleroma, etc
@@ -19525,7 +19525,7 @@ Here's a list of public Fediverse services.
 | `kiwifarms.net` | Yes |
 | `kiwipie.net` | No |
 | `kiyi.ca` | No |
-| `kizaing.ca` | No |
+| `kizaing.ca` | Yes |
 | `kjas.no` | No |
 | `kjr-mut.de` | No |
 | `kjv.online` | No |
@@ -21283,6 +21283,7 @@ Here's a list of public Fediverse services.
 | `liquidthex.com` | No |
 | `liquidthink.net` | Yes |
 | `lire.im` | No |
+| `lisamelton.net` | No |
 | `lisathomasius.de` | No |
 | `lisboa.social` | Yes |
 | `lisp.buzz` | No |
@@ -26615,6 +26616,7 @@ Here's a list of public Fediverse services.
 | `nho.io` | No |
 | `nhw.social` | No |
 | `niadon.club` | No |
+| `niagara.social` | No |
 | `nial.to` | Yes |
 | `nibiru.nz` | No |
 | `nibis.de` | Yes |
@@ -37880,6 +37882,7 @@ Here's a list of public Fediverse services.
 | `themeparks.wiki` | Yes |
 | `themiddleofthestreet.xyz` | No |
 | `themightnotworkshop.co.uk` | No |
+| `themightymooh.net` | No |
 | `themild.social` | No |
 | `themilkmen.com` | Yes |
 | `themillerslive.com` | Yes |
@@ -41520,6 +41523,7 @@ Here's a list of public Fediverse services.
 | `whaddafuq.xyz` | No |
 | `whalen.org` | No |
 | `whalesandgames.com` | Yes |
+| `whalesinspace.de` | No |
 | `whanau.org` | No |
 | `what.if.ua` | No |
 | `what.re` | No |
@@ -43504,8 +43508,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,192 |
-| Normal | 32,269 |
+| Cloudflare | 11,193 |
+| Normal | 32,272 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
