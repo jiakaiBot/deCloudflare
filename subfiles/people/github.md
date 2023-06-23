@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Over 10k seTimeout() on Route Rendering](https://github.com/withastro/astro/issues/7460)
 - [captcha.website requires third-party storage access](https://github.com/privacypass/challenge-bypass-extension/issues/395)
 - [got rejection email after publish shopify app.](https://github.com/Shopify/shopify-app-template-php/issues/457)
 - [File stored in S3-compatible storage can't be download or viewed in PHP 8.2](https://github.com/SergiX44/XBackBone/issues/536)
