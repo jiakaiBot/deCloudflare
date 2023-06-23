@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [captcha.website requires third-party storage access](https://github.com/privacypass/challenge-bypass-extension/issues/395)
+- [got rejection email after publish shopify app.](https://github.com/Shopify/shopify-app-template-php/issues/457)
 - [File stored in S3-compatible storage can't be download or viewed in PHP 8.2](https://github.com/SergiX44/XBackBone/issues/536)
 - [Manhuafast "403 : Check website in webview"](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/16829)
 - [Cloudflare Pages broken after 1.17.1 upgrade](https://github.com/remix-run/remix/issues/6665)
