@@ -10102,7 +10102,7 @@ Here's a list of public Fediverse services.
 | `dustinrue.com` | Yes |
 | `dustinthe.net` | No |
 | `dustinwilson.com` | No |
-| `dustybeer.com` | No |
+| `dustybeer.com` | Yes |
 | `dutchcaribbean.social` | No |
 | `dutchipoo.com` | No |
 | `dutchxs.com` | No |
@@ -29246,7 +29246,7 @@ Here's a list of public Fediverse services.
 | `pehnet.org` | No |
 | `peixe.co` | Yes |
 | `pejookaloo.com` | No |
-| `pejookaloo.social` | No |
+| `pejookaloo.social` | Yes |
 | `pekepeke.work` | No |
 | `pekkasipila.com` | No |
 | `pekoyama.com` | No |
@@ -33797,6 +33797,7 @@ Here's a list of public Fediverse services.
 | `secbig.com` | Yes |
 | `secclo.community` | Yes |
 | `secdiary.com` | No |
+| `secinet.jp` | Yes |
 | `secline.de` | No |
 | `secluded.ch` | No |
 | `secluded.site` | No |
@@ -43554,8 +43555,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,218 |
-| Normal | 32,293 |
+| Cloudflare | 11,221 |
+| Normal | 32,291 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
