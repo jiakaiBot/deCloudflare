@@ -787,6 +787,7 @@ Do not create new issue or we will close it as duplicate.
 | [andiodang77@twitter](https://twitter.com/andiodang77/status/1493927735823319041) | advertise |
 | [andoan1610@twitter](https://twitter.com/andoan1610/status/1627668391099256832) | advertise |
 | [AndreDasz@twitter](https://twitter.com/AndreDasz/status/1389889427141390336) | advertise |
+| [AndreiMellas@twitter](https://twitter.com/AndreiMellas/status/1672327638025732097) | advertise |
 | [andrepayne1@twitter](https://twitter.com/andrepayne1/status/1597301381358288896) | advertise |
 | [AndreVick328209@twitter](https://twitter.com/AndreVick328209/status/1655133045676990466) | advertise |
 | [Andrew05534631@twitter](https://twitter.com/Andrew05534631/status/1378876163599175687) | advertise |
