@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,596 |
 | social | 4,188 |
-| net | 3,332 |
+| net | 3,333 |
 | org | 2,307 |
 | de | 2,171 |
 
@@ -1730,6 +1730,7 @@ Here's a list of public Fediverse services.
 | `amatriain.site` | Yes |
 | `amaurot.city` | Yes |
 | `amauryjoly.fr` | Yes |
+| `amayado.cloud` | Yes |
 | `amazedkoumei.com` | No |
 | `amazingcto.social` | No |
 | `amazonaws.com` | Yes |
@@ -3911,6 +3912,7 @@ Here's a list of public Fediverse services.
 | `beyleyisnot.moe` | Yes |
 | `beyond.codes` | No |
 | `beyondbinary.ovh` | No |
+| `beyondcombustion.net` | No |
 | `beyondgender.social` | No |
 | `beyondhorizons.eu` | No |
 | `beyondthe7thchamber.com` | No |
@@ -43543,8 +43545,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,214 |
-| Normal | 32,286 |
+| Cloudflare | 11,215 |
+| Normal | 32,287 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
