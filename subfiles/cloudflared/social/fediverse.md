@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,596 |
 | social | 4,188 |
-| net | 3,331 |
+| net | 3,332 |
 | org | 2,307 |
 | de | 2,171 |
 
@@ -2451,6 +2451,7 @@ Here's a list of public Fediverse services.
 | `arkanosis.net` | No |
 | `arkchat.org` | No |
 | `arkenous.me` | No |
+| `arkenous.net` | Yes |
 | `arkham.cafe` | No |
 | `arkm.de` | No |
 | `arkmag.rocks` | No |
@@ -42284,6 +42285,7 @@ Here's a list of public Fediverse services.
 | `xbb.one` | Yes |
 | `xbdm.fun` | Yes |
 | `xbm.se` | No |
+| `xbon-pvpcompagnies.tk` | No |
 | `xbt0r.com` | No |
 | `xce.pt` | No |
 | `xcess.one` | Yes |
@@ -43540,8 +43542,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,206 |
-| Normal | 32,291 |
+| Cloudflare | 11,207 |
+| Normal | 32,292 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
