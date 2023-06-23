@@ -2245,6 +2245,7 @@ Do not create new issue or we will close it as duplicate.
 | [Chromepanda37@twitter](https://twitter.com/Chromepanda37/status/1408075106144854022) | advertise |
 | [Chu2131@twitter](https://twitter.com/Chu2131/status/1389883781776039939) | advertise |
 | [chubbyfraddy27@twitter](https://twitter.com/chubbyfraddy27/status/1399261063200321537) | advertise |
+| [Chuchi4623@twitter](https://twitter.com/Chuchi4623/status/1672284618291027968) | advertise |
 | [CHUCLONG5@twitter](https://twitter.com/CHUCLONG5/status/1524217544256618496) | advertise |
 | [ChueChue2121@twitter](https://twitter.com/ChueChue2121/status/1400941145992011777) | advertise |
 | [ChueGd@twitter](https://twitter.com/ChueGd/status/1390579644244500482) | advertise |
@@ -5455,6 +5456,7 @@ Do not create new issue or we will close it as duplicate.
 | [josuefuentesdev@twitter](https://twitter.com/josuefuentesdev/status/1570574734806634496) | advertise |
 | [JowVmk@twitter](https://twitter.com/JowVmk/status/1500962137484763142) | advertise |
 | [Joy46233968@twitter](https://twitter.com/Joy46233968/status/1656865833426231297) | advertise |
+| [joyce135799@twitter](https://twitter.com/joyce135799/status/1672272775330004992) | advertise |
 | [Joyson46833628@twitter](https://twitter.com/Joyson46833628/status/1497231427569872900) | advertise |
 | [joystickdiscuss@twitter](https://twitter.com/joystickdiscuss/status/1644869106552954882) | advertise |
 | [JpMatuto@twitter](https://twitter.com/JpMatuto/status/1388240079810973699) | advertise |
@@ -6629,6 +6631,7 @@ Do not create new issue or we will close it as duplicate.
 | [LindseyCreated@twitter](https://twitter.com/LindseyCreated/status/1665874496232800257) | advertise |
 | [Lineetcom@twitter](https://twitter.com/Lineetcom/status/1432080628141289475) | advertise |
 | [LineNetizen@twitter](https://twitter.com/LineNetizen/status/1410440237751308289) | moral (advertise) |
+| [Linesinlove1@twitter](https://twitter.com/Linesinlove1/status/1672278004565696512) | advertise |
 | [Linfiel@twitter](https://twitter.com/Linfiel/status/1620386108013154305) | advertise |
 | [LinGyi90627876@twitter](https://twitter.com/LinGyi90627876/status/1392445960488374274) | advertise |
 | [Linh69467503@twitter](https://twitter.com/Linh69467503/status/1552074440200327168) | advertise |
@@ -12699,6 +12702,7 @@ Do not create new issue or we will close it as duplicate.
 | [vinhngu79083341@twitter](https://twitter.com/vinhngu79083341/status/1386229081218306048) | advertise |
 | [VinhPhu11882452@twitter](https://twitter.com/VinhPhu11882452/status/1399627549534310401) | advertise |
 | [VinhSo199935@twitter](https://twitter.com/VinhSo199935/status/1397613155711295489) | advertise |
+| [vinhtran3225@twitter](https://twitter.com/vinhtran3225/status/1672279265310801920) | advertise |
 | [Vinic09787867@twitter](https://twitter.com/Vinic09787867/status/1391299216610365440) | advertise |
 | [VinNc9@twitter](https://twitter.com/VinNc9/status/1386295089752809472) | advertise |
 | [Vinoth23510941@twitter](https://twitter.com/Vinoth23510941/status/1404749738747088897) | advertise |
