@@ -2614,6 +2614,7 @@ Do not create new issue or we will close it as duplicate.
 | [DatLevan11@twitter](https://twitter.com/DatLevan11/status/1551518810795958272) | advertise |
 | [Datngooo@twitter](https://twitter.com/Datngooo/status/1623336818853965824) | advertise |
 | [datnguy99682140@twitter](https://twitter.com/datnguy99682140/status/1387181211366268929) | advertise |
+| [datnt71196@twitter](https://twitter.com/datnt71196/status/1672061367392833541) | advertise |
 | [Dato14160788@twitter](https://twitter.com/Dato14160788/status/1601602629716815875) | advertise |
 | [DatPogDog@twitter](https://twitter.com/DatPogDog/status/1665858281707905024) | advertise |
 | [dauconlacuachi@twitter](https://twitter.com/dauconlacuachi/status/1553359546059718656) | advertise |
