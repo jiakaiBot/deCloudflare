@@ -10457,6 +10457,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sam_Arun_94@twitter](https://twitter.com/Sam_Arun_94/status/1388760215282065413) | advertise |
 | [sam_Br_Ba@twitter](https://twitter.com/sam_Br_Ba/status/1666579606340550656) | advertise |
 | [San28038087@twitter](https://twitter.com/San28038087/status/1477529662368612354) | advertise |
+| [sananetroi@twitter](https://twitter.com/sananetroi/status/1672340483358736384) | advertise |
 | [SanAung14327110@twitter](https://twitter.com/SanAung14327110/status/1552366701349462016) | advertise |
 | [sanba06c@twitter](https://twitter.com/sanba06c/status/1541455979132334081) | advertise |
 | [Sandar52132535@twitter](https://twitter.com/Sandar52132535/status/1394888826120638468) | advertise |
