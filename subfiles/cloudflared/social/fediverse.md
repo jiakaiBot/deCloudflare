@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,595 |
-| social | 4,185 |
-| net | 3,330 |
-| org | 2,306 |
+| social | 4,186 |
+| net | 3,331 |
+| org | 2,307 |
 | de | 2,171 |
 
 
@@ -4216,6 +4216,7 @@ Here's a list of public Fediverse services.
 | `bitten2up.dev` | No |
 | `bitterhusk.net` | No |
 | `bitterswede.com` | No |
+| `bittervets.org` | No |
 | `bittube.app` | No |
 | `bittube.social` | No |
 | `bittube.tv` | No |
@@ -10015,6 +10016,7 @@ Here's a list of public Fediverse services.
 | `ducksareawesome.net` | No |
 | `ducnn.com` | Yes |
 | `ductuspress.eu` | No |
+| `dudeami.win` | Yes |
 | `dudebronation.com` | No |
 | `dudehabits.net` | No |
 | `dudenas.lt` | No |
@@ -14027,6 +14029,7 @@ Here's a list of public Fediverse services.
 | `gesichtsbu.ch` | Yes |
 | `gestaltzerfall.net` | No |
 | `gesteves.com` | No |
+| `gestoord.net` | No |
 | `gesttalt.com` | Yes |
 | `get-racing.de` | No |
 | `getadrink.tk` | No |
@@ -33570,6 +33573,7 @@ Here's a list of public Fediverse services.
 | `scicomm.xyz` | No |
 | `science-mastodon.se` | No |
 | `science-practice.com` | No |
+| `science.social` | Yes |
 | `sciencefiction.nl` | No |
 | `sciencemastodon.com` | No |
 | `sciencemediacenter.social` | No |
@@ -43531,8 +43535,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,203 |
-| Normal | 32,285 |
+| Cloudflare | 11,205 |
+| Normal | 32,287 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
