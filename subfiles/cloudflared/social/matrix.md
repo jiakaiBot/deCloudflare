@@ -84,6 +84,7 @@ Here's a list of public Matrix services.
 | matrix.noevil.pl | No |
 | nope.chat | No |
 | matrix.norge.chat | Yes |
+| hs.obco.pro | Yes |
 | oikei.net | No |
 | matrix.ombreport.info | No |
 | pcriot.org | Yes |
@@ -104,7 +105,6 @@ Here's a list of public Matrix services.
 | matrix.supreme.sh | Yes |
 | synod.im | No |
 | matrix.tchncs.de | No |
-| matrix.techsaviours.org | No |
 | matrix.tedomum.net | No |
 | matrix.tomesh.net | No |
 | ungleich.matrix.ungleich.cloud | No |
@@ -121,8 +121,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 20 |
-| Normal | 74 |
+| Cloudflare | 21 |
+| Normal | 73 |
 
 
-### 21.3% of public Matrix services are using Cloudflare.
+### 22.3% of public Matrix services are using Cloudflare.
