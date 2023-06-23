@@ -4214,7 +4214,7 @@ Here's a list of public Fediverse services.
 | `bitsof.tech` | No |
 | `bitstick.rip` | Yes |
 | `bitsuppe.de` | No |
-| `bitten2up.dev` | No |
+| `bitten2up.dev` | Yes |
 | `bitterhusk.net` | No |
 | `bitterswede.com` | No |
 | `bittervets.org` | No |
@@ -14082,7 +14082,7 @@ Here's a list of public Fediverse services.
 | `ggwq.ml` | No |
 | `gh0st.live` | No |
 | `ghacks.net` | Yes |
-| `gharbeia.net` | No |
+| `gharbeia.net` | Yes |
 | `ghastr.com` | No |
 | `ghetti.monster` | No |
 | `ghetto-fabulo.us` | No |
@@ -16103,7 +16103,7 @@ Here's a list of public Fediverse services.
 | `hollow.capital` | No |
 | `hollow.city` | No |
 | `holly.town` | No |
-| `holme.social` | No |
+| `holme.social` | Yes |
 | `holmmade.cafe` | No |
 | `holnburger.social` | No |
 | `holocaustdeprogrammingcourse.com` | No |
@@ -20771,7 +20771,7 @@ Here's a list of public Fediverse services.
 | `lemmy.today` | No |
 | `lemmy.website` | Yes |
 | `lemmy.world` | No |
-| `lemmy.zip` | No |
+| `lemmy.zip` | Yes |
 | `lemmy.zone` | Yes |
 | `lemmydeals.com` | No |
 | `lemmyfi.com` | No |
@@ -24370,7 +24370,7 @@ Here's a list of public Fediverse services.
 | `misanthropebazaar.com` | Yes |
 | `misanthropy.wang` | No |
 | `misc.name` | No |
-| `miscellanea-numerica.fr` | No |
+| `miscellanea-numerica.fr` | Yes |
 | `mischivous.com` | No |
 | `miscworks.net` | No |
 | `misell.cymru` | Yes |
@@ -30710,7 +30710,7 @@ Here's a list of public Fediverse services.
 | `przej.me` | No |
 | `pseek.fr` | Yes |
 | `pseudo-whiskey.bar` | No |
-| `psimon.world` | No |
+| `psimon.world` | Yes |
 | `psion.co` | No |
 | `psionprotocol.com` | No |
 | `psipsistar.com` | No |
@@ -34506,6 +34506,7 @@ Here's a list of public Fediverse services.
 | `simbly.me` | No |
 | `simcha.gay` | Yes |
 | `simcha.lgbt` | Yes |
+| `simcha.pics` | Yes |
 | `simcop2387.info` | Yes |
 | `simcu.com` | No |
 | `simeckuv.cloud` | No |
@@ -43542,8 +43543,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,207 |
-| Normal | 32,292 |
+| Cloudflare | 11,214 |
+| Normal | 32,286 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
