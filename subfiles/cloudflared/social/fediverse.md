@@ -12791,6 +12791,7 @@ Here's a list of public Fediverse services.
 | `fr0g.tech` | No |
 | `fr13nd5.com` | No |
 | `fr13nds.cc` | No |
+| `fr3diver.se` | No |
 | `fractalco.re` | Yes |
 | `fractalego.social` | No |
 | `fractals.one` | No |
@@ -22077,7 +22078,7 @@ Here's a list of public Fediverse services.
 | `maakr.social` | No |
 | `maanebedotten.no` | No |
 | `maara.dev` | No |
-| `maatwo.com` | No |
+| `maatwo.com` | Yes |
 | `maaw.social` | No |
 | `mab.cat` | No |
 | `mabe.space` | No |
@@ -43527,7 +43528,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,200 |
+| Cloudflare | 11,201 |
 | Normal | 32,284 |
 
 
