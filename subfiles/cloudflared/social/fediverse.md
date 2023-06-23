@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,595 |
-| social | 4,187 |
+| com | 6,596 |
+| social | 4,188 |
 | net | 3,331 |
 | org | 2,307 |
 | de | 2,171 |
@@ -12233,6 +12233,7 @@ Here's a list of public Fediverse services.
 | `fietser.app` | No |
 | `fietser.social` | No |
 | `fifitido.net` | Yes |
+| `fifo-f.eu` | No |
 | `fifteen40.com` | No |
 | `fifthcity.social` | No |
 | `fifthdread.com` | No |
@@ -31673,6 +31674,7 @@ Here's a list of public Fediverse services.
 | `rddw.eu` | No |
 | `rdela.com` | No |
 | `rdfrn.net` | No |
+| `rdfrn.social` | No |
 | `rdg.world` | No |
 | `rdh27785.net` | No |
 | `rdis.dev` | No |
@@ -36611,6 +36613,7 @@ Here's a list of public Fediverse services.
 | `svkt.eu` | No |
 | `svltan.at` | No |
 | `svnet.fr` | No |
+| `svoron.com` | No |
 | `svp.im` | No |
 | `svrgn.sh` | No |
 | `svt.se` | No |
@@ -43538,7 +43541,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,206 |
-| Normal | 32,288 |
+| Normal | 32,291 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
