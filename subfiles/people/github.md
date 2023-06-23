@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Workers KV upload issue](https://github.com/hinoshiba/news/issues/505)
+- [CloudFlare Workers KV upload issue](https://github.com/MatBenfield/news/issues/15746)
+- [Getting Cloudflare "523: Origin is unreachable" errors](https://github.com/Helicone/helicone/issues/510)
 - [Over 10k seTimeout() on Route Rendering](https://github.com/withastro/astro/issues/7460)
 - [captcha.website requires third-party storage access](https://github.com/privacypass/challenge-bypass-extension/issues/395)
 - [got rejection email after publish shopify app.](https://github.com/Shopify/shopify-app-template-php/issues/457)
