@@ -2199,6 +2199,7 @@ Do not create new issue or we will close it as duplicate.
 | [Chittu30046511@twitter](https://twitter.com/Chittu30046511/status/1390674946443988996) | advertise |
 | [ChitWinKo17@twitter](https://twitter.com/ChitWinKo17/status/1403612539221471233) | advertise |
 | [chiwebmgmt@twitter](https://twitter.com/chiwebmgmt/status/1427620579910299663) | advertise |
+| [chi_tamd@twitter](https://twitter.com/chi_tamd/status/1672298691171082241) | advertise |
 | [ChL44012675@twitter](https://twitter.com/ChL44012675/status/1589066186817703937) | advertise |
 | [ChM60546312@twitter](https://twitter.com/ChM60546312/status/1549730395188793344) | advertise |
 | [chngkh74791784@twitter](https://twitter.com/chngkh74791784/status/1523712853387005952) | advertise |
