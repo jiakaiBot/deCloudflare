@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-06-23: [Cloudflare Recommendations](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fr8jwq85nr74)
 - 2023-06-23: [Network Performance Issues in Germany](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xb8vfgd0bs53)
 - 2023-06-21: [Cloudflare Load Balancing Degraded dynamic steering](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1r4z3vvlpnvj)
 - 2023-06-19: [Network Performance Issues in Dublin](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1dys0d04c9k0)
