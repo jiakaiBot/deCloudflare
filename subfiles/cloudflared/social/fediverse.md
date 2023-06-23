@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,596 |
-| social | 4,188 |
+| social | 4,190 |
 | net | 3,333 |
 | org | 2,307 |
 | de | 2,171 |
@@ -2932,6 +2932,7 @@ Here's a list of public Fediverse services.
 | `aussie.zone` | Yes |
 | `aussiebondage.au` | Yes |
 | `austdns.com` | No |
+| `austerlitz.social` | No |
 | `austin.community` | No |
 | `austintexas.social` | No |
 | `austinwadeheller.com` | No |
@@ -5882,6 +5883,7 @@ Here's a list of public Fediverse services.
 | `cdacosta.com` | No |
 | `cdbcommunications.org` | No |
 | `cdbrdr.com` | Yes |
+| `cdda.social` | No |
 | `cde.social` | No |
 | `cdibluetooth.com` | Yes |
 | `cdmx.rocks` | No |
@@ -11696,6 +11698,7 @@ Here's a list of public Fediverse services.
 | `faultycloud.social` | Yes |
 | `faustin-yuno.ga` | No |
 | `faux.io` | Yes |
+| `faux.moe` | No |
 | `fauxmotion.soccer` | No |
 | `fauxreigner.net` | Yes |
 | `fauxzen.com` | Yes |
@@ -11966,6 +11969,7 @@ Here's a list of public Fediverse services.
 | `fediunam.site` | No |
 | `fediuni.xyz` | No |
 | `fediv.de` | No |
+| `fediv.eu` | No |
 | `fedive.rs` | No |
 | `fediver.de` | No |
 | `fediver.se` | No |
@@ -18110,6 +18114,7 @@ Here's a list of public Fediverse services.
 | `jesus.fish` | Yes |
 | `jesuscova.com` | No |
 | `jesusinthe.club` | No |
+| `jesuspavonabian.es` | No |
 | `jetfm.fr` | No |
 | `jethro.be` | No |
 | `jetnet.co.uk` | No |
@@ -20126,6 +20131,7 @@ Here's a list of public Fediverse services.
 | `kusso-yotta.com` | Yes |
 | `kusu.icu` | Yes |
 | `kusu.moe` | Yes |
+| `kuu.cx` | Yes |
 | `kuu.moe` | Yes |
 | `kuude.re` | No |
 | `kuukkanen.net` | Yes |
@@ -23824,6 +23830,7 @@ Here's a list of public Fediverse services.
 | `mercury.social` | No |
 | `mercurywork.shop` | Yes |
 | `mercut.io` | No |
+| `merded.zip` | Yes |
 | `meremortalspodcast.shop` | No |
 | `merfolk.social` | No |
 | `mergl.in` | No |
@@ -32226,6 +32233,7 @@ Here's a list of public Fediverse services.
 | `richardzach.org` | No |
 | `richholmes.xyz` | No |
 | `richmorrison.com` | Yes |
+| `richonrails.blog` | No |
 | `rick.gr` | No |
 | `rickelobe.com` | Yes |
 | `rickisen.com` | No |
@@ -33627,6 +33635,7 @@ Here's a list of public Fediverse services.
 | `scottfr.ee` | Yes |
 | `scottishlad.me.uk` | No |
 | `scottkf.xyz` | No |
+| `scottlabs.io` | No |
 | `scottmorrison.net` | No |
 | `scottnesbitt.online` | No |
 | `scottsmall.org` | No |
@@ -40182,7 +40191,7 @@ Here's a list of public Fediverse services.
 | `urizen.eu` | No |
 | `urizen.net` | No |
 | `urls.fyi` | No |
-| `urlxl.com` | No |
+| `urlxl.com` | Yes |
 | `urly.fun` | No |
 | `urmom69.com` | No |
 | `urmum.gq` | No |
@@ -43545,8 +43554,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,215 |
-| Normal | 32,287 |
+| Cloudflare | 11,218 |
+| Normal | 32,293 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
