@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,595 |
-| social | 4,186 |
+| social | 4,187 |
 | net | 3,331 |
 | org | 2,307 |
 | de | 2,171 |
@@ -18216,6 +18216,7 @@ Here's a list of public Fediverse services.
 | `jkpg.rocks` | Yes |
 | `jkpolkproject.com` | No |
 | `jl-systems.se` | No |
+| `jlailu.social` | Yes |
 | `jlamothe.net` | No |
 | `jlc.amsterdam` | No |
 | `jleb.dev` | Yes |
@@ -40860,6 +40861,7 @@ Here's a list of public Fediverse services.
 | `void.holdings` | No |
 | `void.monster` | Yes |
 | `void.news` | No |
+| `void.rehab` | No |
 | `voided.ee` | No |
 | `voided.space` | Yes |
 | `voidfarm.pw` | No |
@@ -43535,8 +43537,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,205 |
-| Normal | 32,287 |
+| Cloudflare | 11,206 |
+| Normal | 32,288 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
