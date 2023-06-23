@@ -10564,6 +10564,7 @@ Do not create new issue or we will close it as duplicate.
 | [sayedAdOfficial@twitter](https://twitter.com/sayedAdOfficial/status/1401028760711970820) | advertise |
 | [sayedmansour201@twitter](https://twitter.com/sayedmansour201/status/1391824459963592708) | advertise |
 | [sayhi1499@twitter](https://twitter.com/sayhi1499/status/1609016771385909248) | advertise |
+| [sayloyar1990@twitter](https://twitter.com/sayloyar1990/status/1672076540283346945) | advertise |
 | [SaymonCTavares@twitter](https://twitter.com/SaymonCTavares/status/1548661005026197508) | advertise |
 | [Sayykayyyy@twitter](https://twitter.com/Sayykayyyy/status/1665874524670160896) | advertise |
 | [sazkia99@twitter](https://twitter.com/sazkia99/status/1477081071116115973) | advertise |
