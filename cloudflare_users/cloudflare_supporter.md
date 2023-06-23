@@ -10283,6 +10283,7 @@ Do not create new issue or we will close it as duplicate.
 | [R_Tolksdorf@twitter](https://twitter.com/R_Tolksdorf/status/1646209300128317453) | advertise |
 | [r_wajiha@twitter](https://twitter.com/r_wajiha/status/1618313780244680704) | advertise |
 | [s04365076@twitter](https://twitter.com/s04365076/status/1612814202929922050) | advertise |
+| [S1lv3rWulf@twitter](https://twitter.com/S1lv3rWulf/status/1672028618388824064) | advertise |
 | [s1mpoverYoi@twitter](https://twitter.com/s1mpoverYoi/status/1500007315440693249) | advertise |
 | [S2G11693168@twitter](https://twitter.com/S2G11693168/status/1593549107406471168) | advertise |
 | [s3ig8u@twitter](https://twitter.com/s3ig8u/status/1646633879929860103) | advertise |
