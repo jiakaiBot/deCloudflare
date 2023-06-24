@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Another error !!](https://github.com/mayudev/revcord/issues/14)
+- [Error running script SyntaxError: Identifier 'concat' has already been declared at blob:null/fc6d65b1-68e1-4492-9180-8f3271ba2cd7:824:1](https://github.com/skymethod/denoflare/issues/57)
 - [Error cml writing metrics to md file with Github Actions](https://github.com/iterative/cml/issues/1393)
 - [accessing the Scrypted management through Cloudflare Zerotrust](https://github.com/koush/scrypted/issues/907)
 - [CloudFlare Workers KV upload issue](https://github.com/hinoshiba/news/issues/505)
