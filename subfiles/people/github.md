@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [accessing the Scrypted management through Cloudflare Zerotrust](https://github.com/koush/scrypted/issues/907)
 - [CloudFlare Workers KV upload issue](https://github.com/hinoshiba/news/issues/505)
 - [CloudFlare Workers KV upload issue](https://github.com/MatBenfield/news/issues/15746)
 - [Getting Cloudflare "523: Origin is unreachable" errors](https://github.com/Helicone/helicone/issues/510)
