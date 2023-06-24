@@ -12181,6 +12181,7 @@ Here's a list of public Fediverse services.
 | `feurious.com` | No |
 | `feutl.com` | No |
 | `fexel.digital` | No |
+| `fey.cafe` | No |
 | `feyn.org` | No |
 | `feynman.monster` | No |
 | `fez.social` | No |
@@ -25506,6 +25507,7 @@ Here's a list of public Fediverse services.
 | `munskey.net` | No |
 | `munster.dev` | Yes |
 | `muon.social` | No |
+| `muppet-army.party` | Yes |
 | `muppetlabs.com` | No |
 | `murasame.moe` | Yes |
 | `murat.io` | No |
@@ -25765,6 +25767,7 @@ Here's a list of public Fediverse services.
 | `myprayer.center` | No |
 | `myprivate.social` | No |
 | `myprivatecloud.uk` | No |
+| `myprostatecancerjourney.us` | No |
 | `mypsx.net` | No |
 | `myriad.domains` | No |
 | `myriad.social` | Yes |
@@ -29486,7 +29489,7 @@ Here's a list of public Fediverse services.
 | `phil-ia.net` | No |
 | `phila.social` | No |
 | `philament.club` | No |
-| `philately.social` | No |
+| `philately.social` | Yes |
 | `philbowell.me` | No |
 | `philcrockett.com` | No |
 | `phildini.net` | Yes |
@@ -34223,6 +34226,7 @@ Here's a list of public Fediverse services.
 | `sherblog.de` | No |
 | `sherlockholmes.social` | Yes |
 | `sherpahat.com` | Yes |
+| `sherry.moe` | Yes |
 | `sheseeksnonfiction.blog` | No |
 | `shestak.me` | No |
 | `shftd.net` | No |
@@ -43570,8 +43574,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,222 |
-| Normal | 32,305 |
+| Cloudflare | 11,225 |
+| Normal | 32,306 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
