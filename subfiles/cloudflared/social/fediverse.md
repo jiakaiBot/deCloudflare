@@ -18786,7 +18786,7 @@ Here's a list of public Fediverse services.
 | `kahtlane.place` | No |
 | `kai-poenisch.de` | No |
 | `kai-stuht.com` | No |
-| `kai.dev` | No |
+| `kai.dev` | Yes |
 | `kai.moe` | No |
 | `kaias1jp.site` | No |
 | `kaiba.ga` | No |
@@ -26321,7 +26321,7 @@ Here's a list of public Fediverse services.
 | `neonka.info` | No |
 | `neonsoup.casa` | Yes |
 | `neonsoup.house` | Yes |
-| `neonsoup.social` | No |
+| `neonsoup.social` | Yes |
 | `neonsoup.xyz` | Yes |
 | `neontechnica.lol` | No |
 | `neophili.ac` | No |
@@ -28927,6 +28927,7 @@ Here's a list of public Fediverse services.
 | `pappenklatsch.de` | No |
 | `papylhomme.site` | No |
 | `para.watch` | No |
+| `paradigm-x.tokyo` | No |
 | `paradigmnetworks.one` | Yes |
 | `paradigmthreat.net` | No |
 | `paradise.engineering` | No |
@@ -43568,8 +43569,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,220 |
-| Normal | 32,305 |
+| Cloudflare | 11,222 |
+| Normal | 32,304 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
