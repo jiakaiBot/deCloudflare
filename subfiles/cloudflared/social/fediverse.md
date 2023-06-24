@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,599 |
 | social | 4,193 |
-| net | 3,334 |
+| net | 3,335 |
 | org | 2,307 |
 | de | 2,171 |
 
@@ -13427,6 +13427,7 @@ Here's a list of public Fediverse services.
 | `further-steps.eu` | No |
 | `furtherfield.org` | No |
 | `fury.net.nz` | No |
+| `furytech.net` | Yes |
 | `fuse.pl` | No |
 | `fused.com` | No |
 | `fusenigk.de` | No |
@@ -43575,7 +43576,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,227 |
+| Cloudflare | 11,228 |
 | Normal | 32,305 |
 
 
