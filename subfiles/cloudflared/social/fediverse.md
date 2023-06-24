@@ -15826,6 +15826,7 @@ Here's a list of public Fediverse services.
 | `hgs.moe` | No |
 | `hh82.de` | No |
 | `hha.app` | No |
+| `hhar.cc` | No |
 | `hhhammer.de` | No |
 | `hhmx.de` | No |
 | `hhome.me` | Yes |
@@ -43570,7 +43571,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,222 |
-| Normal | 32,304 |
+| Normal | 32,305 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
