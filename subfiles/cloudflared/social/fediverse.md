@@ -20555,7 +20555,7 @@ Here's a list of public Fediverse services.
 | `lawsocial.org` | Yes |
 | `lawtalk.app` | No |
 | `lawtalk.social` | No |
-| `layer0.dev` | Yes |
+| `layer0.dev` | No |
 | `layer8.space` | No |
 | `layer9.online` | Yes |
 | `layerze.ro` | No |
@@ -24436,6 +24436,7 @@ Here's a list of public Fediverse services.
 | `misskey.de` | No |
 | `misskey.design` | Yes |
 | `misskey.dev` | Yes |
+| `misskey.dog` | Yes |
 | `misskey.ee` | Yes |
 | `misskey.eu.org` | No |
 | `misskey.fr` | No |
@@ -43577,7 +43578,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,228 |
-| Normal | 32,305 |
+| Normal | 32,306 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
