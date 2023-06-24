@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,600 |
-| social | 4,193 |
+| social | 4,194 |
 | net | 3,335 |
 | org | 2,307 |
 | de | 2,171 |
@@ -1597,6 +1597,7 @@ Here's a list of public Fediverse services.
 | `alltomorrows.party` | No |
 | `allturn.space` | No |
 | `allulla.space` | No |
+| `allwell.rest` | No |
 | `allwurst.com` | No |
 | `allymukai.com` | No |
 | `almacenero.uk` | Yes |
@@ -2370,6 +2371,7 @@ Here's a list of public Fediverse services.
 | `archmage.io` | No |
 | `archous.net` | No |
 | `archraspberrypi.tk` | No |
+| `archworks.co` | No |
 | `archybold.com` | No |
 | `arclight.pro` | Yes |
 | `arctian.org` | No |
@@ -7035,6 +7037,7 @@ Here's a list of public Fediverse services.
 | `commons.tw` | No |
 | `commonspub.org` | No |
 | `commonworlds.org` | No |
+| `comms.social` | Yes |
 | `commu.xyz` | No |
 | `commun.in` | No |
 | `commune.si` | No |
@@ -9872,6 +9875,7 @@ Here's a list of public Fediverse services.
 | `drdiddlybadger.com` | No |
 | `drdr.club` | Yes |
 | `drdr.work` | Yes |
+| `drdrrae.top` | Yes |
 | `dre.casa` | Yes |
 | `dreads-unlock.fr` | No |
 | `dreadsec.social` | No |
@@ -16269,6 +16273,7 @@ Here's a list of public Fediverse services.
 | `hostdon.ne.jp` | Yes |
 | `hostdon.net` | No |
 | `hosted.eu.org` | No |
+| `hosted.frl` | Yes |
 | `hosterra.social` | No |
 | `hostg.ovh` | No |
 | `hostifi.com` | Yes |
@@ -20791,6 +20796,7 @@ Here's a list of public Fediverse services.
 | `lemmy.tf` | Yes |
 | `lemmy.today` | No |
 | `lemmy.website` | Yes |
+| `lemmy.works` | No |
 | `lemmy.world` | No |
 | `lemmy.zip` | Yes |
 | `lemmy.zone` | Yes |
@@ -37580,7 +37586,7 @@ Here's a list of public Fediverse services.
 | `testitfor.me` | No |
 | `testmobo.com` | No |
 | `testsrv.de` | Yes |
-| `tet42.org` | No |
+| `tet42.org` | Yes |
 | `tetaneutral.net` | No |
 | `tetragir.com` | No |
 | `tetrarch.co` | Yes |
@@ -42782,6 +42788,7 @@ Here's a list of public Fediverse services.
 | `ych.lgbt` | Yes |
 | `ycrack.net` | Yes |
 | `ycros.org` | Yes |
+| `ydenfrankl.in` | Yes |
 | `ydkn.social` | Yes |
 | `yeahnahcunt.club` | No |
 | `yeahnet.dev` | Yes |
@@ -43579,8 +43586,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,228 |
-| Normal | 32,308 |
+| Cloudflare | 11,233 |
+| Normal | 32,310 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
