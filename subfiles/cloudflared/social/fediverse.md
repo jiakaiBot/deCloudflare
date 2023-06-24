@@ -4639,7 +4639,7 @@ Here's a list of public Fediverse services.
 | `bokgruven.no` | No |
 | `boks.moe` | No |
 | `boku.net` | No |
-| `bokuha.ninja` | Yes |
+| `bokuha.ninja` | No |
 | `bol.social` | No |
 | `boldcity.social` | Yes |
 | `bolddaemon.com` | Yes |
@@ -31847,6 +31847,7 @@ Here's a list of public Fediverse services.
 | `redpanda.lgbt` | No |
 | `redpanda.pics` | Yes |
 | `redpandemonium.com` | Yes |
+| `redpawcollective.co` | No |
 | `redpeacock78.com` | Yes |
 | `redpilled.life` | No |
 | `redra1n.net` | No |
@@ -43577,8 +43578,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,228 |
-| Normal | 32,306 |
+| Cloudflare | 11,227 |
+| Normal | 32,308 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
