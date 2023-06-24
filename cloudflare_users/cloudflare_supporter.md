@@ -11444,6 +11444,7 @@ Do not create new issue or we will close it as duplicate.
 | [taxocrate@twitter](https://twitter.com/taxocrate/status/1491431895590404098) | advertise |
 | [Taygyi6@twitter](https://twitter.com/Taygyi6/status/1392528044842094594) | advertise |
 | [taymon_khanh@twitter](https://twitter.com/taymon_khanh/status/1388779801020747778) | advertise |
+| [tayr7ayr@twitter](https://twitter.com/tayr7ayr/status/1672739093627674627) | advertise |
 | [TayZ12665178@twitter](https://twitter.com/TayZ12665178/status/1393148042392444933) | advertise |
 | [Tayza08959125@twitter](https://twitter.com/Tayza08959125/status/1604501318399590400) | advertise |
 | [TayZa94852932@twitter](https://twitter.com/TayZa94852932/status/1390702718637936640) | advertise |
