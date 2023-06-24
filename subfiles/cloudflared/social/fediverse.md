@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,599 |
+| com | 6,600 |
 | social | 4,193 |
 | net | 3,335 |
 | org | 2,307 |
@@ -36273,7 +36273,7 @@ Here's a list of public Fediverse services.
 | `strengeralsstreng.de` | No |
 | `stress404.com` | Yes |
 | `stress404.dev` | Yes |
-| `strigo.social` | No |
+| `strigo.social` | Yes |
 | `striker.host` | No |
 | `striker.net.eu.org` | No |
 | `strindevall.com` | Yes |
@@ -41239,6 +41239,7 @@ Here's a list of public Fediverse services.
 | `wario.party` | Yes |
 | `warkr.me` | No |
 | `warlocks.wang` | No |
+| `warloq.com` | No |
 | `warm.rocks` | No |
 | `warmonger.de` | No |
 | `warnaars.com` | No |
@@ -43578,7 +43579,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,227 |
+| Cloudflare | 11,228 |
 | Normal | 32,308 |
 
 
