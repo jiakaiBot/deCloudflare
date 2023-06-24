@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,597 |
-| social | 4,190 |
+| com | 6,599 |
+| social | 4,192 |
 | net | 3,334 |
 | org | 2,307 |
 | de | 2,171 |
@@ -321,7 +321,7 @@ Here's a list of public Fediverse services.
 | `2a03.party` | No |
 | `2bit.co` | No |
 | `2blackflags.net` | No |
-| `2br02b.live` | Yes |
+| `2br02b.live` | No |
 | `2br02b.online` | No |
 | `2cb.rocks` | No |
 | `2ch.site` | No |
@@ -1992,6 +1992,7 @@ Here's a list of public Fediverse services.
 | `angusworld.org` | No |
 | `angzarr.me` | No |
 | `anhei-fotografie.de` | No |
+| `ani.social` | Yes |
 | `ani.work` | Yes |
 | `anicelittle.network` | No |
 | `anikeen.social` | No |
@@ -6981,7 +6982,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7568,6 +7569,7 @@ Here's a list of public Fediverse services.
 | `cro.social` | No |
 | `croall.ca` | No |
 | `crobin.photos` | No |
+| `croc.pw` | Yes |
 | `crockett.network` | No |
 | `crockoftime.com` | Yes |
 | `crocosmia.ca` | No |
@@ -9010,6 +9012,7 @@ Here's a list of public Fediverse services.
 | `devil-children-alitaso.com` | Yes |
 | `devilgate.org` | No |
 | `devilops.ca` | No |
+| `devils.house` | No |
 | `deviltracks.net` | No |
 | `devinberg.com` | Yes |
 | `devinck.eu` | No |
@@ -12189,6 +12192,7 @@ Here's a list of public Fediverse services.
 | `ff14-mstdn.xyz` | No |
 | `ff15.eu` | No |
 | `ffail-music.de` | No |
+| `ffca-parent.com` | No |
 | `ffconf.org` | Yes |
 | `ffee.ooo` | No |
 | `fff-du.de` | No |
@@ -13037,7 +13041,7 @@ Here's a list of public Fediverse services.
 | `frequency.app` | Yes |
 | `frequency.network` | No |
 | `frereit.de` | No |
-| `freshice.org` | Yes |
+| `freshice.org` | No |
 | `freshies.community` | No |
 | `freshman.dev` | No |
 | `freumh.org` | No |
@@ -14313,7 +14317,7 @@ Here's a list of public Fediverse services.
 | `globalmajority.online` | No |
 | `globalmaritimehistory.com` | No |
 | `globalpirates.net` | No |
-| `globalrevolution.tv` | Yes |
+| `globalrevolution.tv` | No |
 | `globaltech-hub.com` | No |
 | `globalwarming.fun` | No |
 | `globenet.org` | No |
@@ -26596,6 +26600,7 @@ Here's a list of public Fediverse services.
 | `newyorkfriendfinder.com` | No |
 | `nex.sh` | No |
 | `nexific.social` | Yes |
+| `nexifyhub.com` | Yes |
 | `nexitally.buzz` | Yes |
 | `nexon.su` | Yes |
 | `nexryai.online` | Yes |
@@ -27297,6 +27302,7 @@ Here's a list of public Fediverse services.
 | `notmastodon.com` | No |
 | `notmastodon.xyz` | No |
 | `notmet.net` | No |
+| `notmeta.social` | No |
 | `notmyidea.org` | No |
 | `notnamed.net` | Yes |
 | `notnow.dev` | No |
@@ -41899,6 +41905,7 @@ Here's a list of public Fediverse services.
 | `wjt.me.uk` | No |
 | `wjtje.dev` | Yes |
 | `wk3.org` | No |
+| `wkf.wtf` | No |
 | `wkfa.org` | No |
 | `wkfg.me` | No |
 | `wkly.ws` | No |
@@ -42764,7 +42771,6 @@ Here's a list of public Fediverse services.
 | `ych.lgbt` | Yes |
 | `ycrack.net` | Yes |
 | `ycros.org` | Yes |
-| `ydenfrankl.in` | Yes |
 | `ydkn.social` | Yes |
 | `yeahnahcunt.club` | No |
 | `yeahnet.dev` | Yes |
@@ -43562,8 +43568,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,222 |
-| Normal | 32,297 |
+| Cloudflare | 11,220 |
+| Normal | 32,305 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
