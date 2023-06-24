@@ -10244,6 +10244,7 @@ Do not create new issue or we will close it as duplicate.
 | [ruby9939@twitter](https://twitter.com/ruby9939/status/1578807294543790080) | advertise |
 | [Ruby17892071@twitter](https://twitter.com/Ruby17892071/status/1389948126774153227) | advertise |
 | [rubyhoangtri@twitter](https://twitter.com/rubyhoangtri/status/1405564911544061954) | advertise |
+| [Rubyrubyruby15@twitter](https://twitter.com/Rubyrubyruby15/status/1672662787083091968) | advertise |
 | [rudyc1954@twitter](https://twitter.com/rudyc1954/status/1665874519133700098) | advertise |
 | [ruffls4prez_@twitter](https://twitter.com/ruffls4prez_/status/1575114093513482241) | advertise |
 | [RujumSharil@twitter](https://twitter.com/RujumSharil/status/1581351952452972546) | advertise |
@@ -11554,6 +11555,7 @@ Do not create new issue or we will close it as duplicate.
 | [thaihuyhx@twitter](https://twitter.com/thaihuyhx/status/1472961240481759232) | advertise |
 | [ThailandLong@twitter](https://twitter.com/ThailandLong/status/1435912413778354177) | advertise |
 | [ThaiThongVN@twitter](https://twitter.com/ThaiThongVN/status/1380756646738026498) | advertise |
+| [Thaitretrau0790@twitter](https://twitter.com/Thaitretrau0790/status/1672655291517931520) | advertise |
 | [thaituanmax@twitter](https://twitter.com/thaituanmax/status/1384901240501510146) | advertise |
 | [ThaiVu17420182@twitter](https://twitter.com/ThaiVu17420182/status/1589902599506960384) | advertise |
 | [thakurdhiraj83@twitter](https://twitter.com/thakurdhiraj83/status/1399987258845908994) | advertise |
