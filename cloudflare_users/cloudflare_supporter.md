@@ -5110,6 +5110,7 @@ Do not create new issue or we will close it as duplicate.
 | [JackChung1021@twitter](https://twitter.com/JackChung1021/status/1485991171436736512) | advertise |
 | [jackck76316576@twitter](https://twitter.com/jackck76316576/status/1381264209636327426) | advertise |
 | [jackdan8@twitter](https://twitter.com/jackdan8/status/1497731130438606858) | advertise |
+| [jackdan341@twitter](https://twitter.com/jackdan341/status/1672814501119545346) | advertise |
 | [Jackjac22577839@twitter](https://twitter.com/Jackjac22577839/status/1656127241498292225) | advertise |
 | [Jackjun53391478@twitter](https://twitter.com/Jackjun53391478/status/1399663365056655361) | advertise |
 | [jackk53102780@twitter](https://twitter.com/jackk53102780/status/1565194405090574338) | advertise |
