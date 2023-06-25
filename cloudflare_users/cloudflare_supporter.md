@@ -4902,6 +4902,7 @@ Do not create new issue or we will close it as duplicate.
 | [imanus07@twitter](https://twitter.com/imanus07/status/1657733188565848064) | advertise |
 | [imduyhoang@twitter](https://twitter.com/imduyhoang/status/1503398392902582275) | advertise |
 | [imeplus_tv@twitter](https://twitter.com/imeplus_tv/status/1508088325726429195) | advertise |
+| [ImGlacier92@twitter](https://twitter.com/ImGlacier92/status/1672790558891278338) | advertise |
 | [imhopeluv@twitter](https://twitter.com/imhopeluv/status/1388275070544535553) | advertise |
 | [imhuzeifa@twitter](https://twitter.com/imhuzeifa/status/1540657866222313472) | advertise |
 | [Imiss2302@twitter](https://twitter.com/Imiss2302/status/1404120201159798790) | advertise |
@@ -7648,6 +7649,7 @@ Do not create new issue or we will close it as duplicate.
 | [mistereyfatter@twitter](https://twitter.com/mistereyfatter/status/1385082858105049091) | advertise |
 | [Mistergethowu@twitter](https://twitter.com/Mistergethowu/status/1500293947641544714) | advertise |
 | [mitaul@twitter](https://twitter.com/mitaul/status/1534177987649839104) | advertise |
+| [MitchellSa39312@twitter](https://twitter.com/MitchellSa39312/status/1672803628443156486) | advertise |
 | [mitchins@twitter](https://twitter.com/mitchins/status/1581415933184454656) | advertise |
 | [MithunR96567112@twitter](https://twitter.com/MithunR96567112/status/1404521110817759236) | advertise |
 | [mitne0701@twitter](https://twitter.com/mitne0701/status/1506213301859995650) | advertise |
