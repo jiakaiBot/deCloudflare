@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,602 |
 | social | 4,197 |
-| net | 3,337 |
-| org | 2,308 |
+| net | 3,338 |
+| org | 2,309 |
 | de | 2,171 |
 
 
@@ -3183,6 +3183,7 @@ Here's a list of public Fediverse services.
 | `b10m.net` | No |
 | `b123400.net` | No |
 | `b12e.be` | Yes |
+| `b16b00b5.ru` | No |
 | `b1ju.in` | No |
 | `b1n.win` | Yes |
 | `b1y.de` | No |
@@ -19962,6 +19963,7 @@ Here's a list of public Fediverse services.
 | `kq.social` | No |
 | `kqz.io` | No |
 | `kra.hn` | No |
+| `krabb.org` | No |
 | `kraeuterhexer.com` | No |
 | `kraft.blog` | No |
 | `krafting.net` | No |
@@ -24059,7 +24061,7 @@ Here's a list of public Fediverse services.
 | `micha.priv.at` | No |
 | `michae.lv` | Yes |
 | `michael-anders.net` | No |
-| `michael-webber.com` | No |
+| `michael-webber.com` | Yes |
 | `michaelbishop.me` | No |
 | `michaelbrooks.co.uk` | Yes |
 | `michaelcmcgreevy.com` | No |
@@ -34356,6 +34358,7 @@ Here's a list of public Fediverse services.
 | `shmg.online` | No |
 | `shnoulle.net` | No |
 | `shoberserver.org` | Yes |
+| `shockley.net` | No |
 | `shocktohp.xyz` | No |
 | `shodan.io` | Yes |
 | `shodan.social` | No |
@@ -42057,6 +42060,7 @@ Here's a list of public Fediverse services.
 | `woojinkim.org` | Yes |
 | `woolly.monster` | No |
 | `woolly.world` | No |
+| `woon.my` | Yes |
 | `woonopstandamsterdam.nl` | No |
 | `woop.cf` | No |
 | `wootton.dev` | No |
@@ -43613,8 +43617,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,244 |
-| Normal | 32,326 |
+| Cloudflare | 11,246 |
+| Normal | 32,328 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
