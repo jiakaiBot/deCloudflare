@@ -15199,6 +15199,7 @@ Here's a list of public Fediverse services.
 | `haecksen.social` | No |
 | `haeder.net` | No |
 | `haeder.netfeatured` | No |
+| `haefele.family` | No |
 | `haetsal.me` | No |
 | `hafen.io` | No |
 | `hafkehafke.org` | No |
@@ -40731,7 +40732,7 @@ Here's a list of public Fediverse services.
 | `vidro.club` | No |
 | `vidrot.com` | No |
 | `vidy.casa` | No |
-| `vidyagam.es` | No |
+| `vidyagam.es` | Yes |
 | `vief.email` | No |
 | `vielfalt-begegnung.de` | No |
 | `vientos.live` | Yes |
@@ -43622,7 +43623,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,246 |
+| Cloudflare | 11,247 |
 | Normal | 32,333 |
 
 
