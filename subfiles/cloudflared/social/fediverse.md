@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,602 |
-| social | 4,196 |
+| social | 4,197 |
 | net | 3,336 |
 | org | 2,308 |
 | de | 2,171 |
@@ -4690,6 +4690,7 @@ Here's a list of public Fediverse services.
 | `bonn.live` | No |
 | `bonn.pics` | No |
 | `bonn.social` | No |
+| `bonn.video` | No |
 | `bonnay.info` | No |
 | `bonnbay.com` | No |
 | `bonobo.net` | No |
@@ -5078,6 +5079,7 @@ Here's a list of public Fediverse services.
 | `broti.net` | Yes |
 | `broti.tk` | No |
 | `brotka.st` | No |
+| `brotkru.me` | No |
 | `browarski.de` | No |
 | `brown-family.org.uk` | No |
 | `brown-silva.social` | Yes |
@@ -10377,6 +10379,7 @@ Here's a list of public Fediverse services.
 | `edgarpierre.fr` | No |
 | `edge4cube.work` | Yes |
 | `edgecats.network` | No |
+| `edgeoftheuniver.se` | No |
 | `edgerunner.network` | No |
 | `edgy.social` | Yes |
 | `edheil.com` | No |
@@ -31686,7 +31689,7 @@ Here's a list of public Fediverse services.
 | `raytec.co` | No |
 | `raza.social` | No |
 | `raziel.space` | Yes |
-| `razmadze.me` | No |
+| `razmadze.me` | Yes |
 | `razormonkey.eu` | Yes |
 | `razors.page` | No |
 | `razorserver.fr` | No |
@@ -34392,6 +34395,7 @@ Here's a list of public Fediverse services.
 | `shouldibuyahorse.com` | No |
 | `shoutbox.blog` | No |
 | `shoutbox.net` | Yes |
+| `shoutingfrommysoapbox.social` | No |
 | `showmy.world` | No |
 | `showoffto.us` | No |
 | `showyou41.win` | Yes |
@@ -41749,6 +41753,7 @@ Here's a list of public Fediverse services.
 | `wilde.cloud` | No |
 | `wildebeest.social` | Yes |
 | `wildeboer.net` | No |
+| `wildgeese.au` | Yes |
 | `wildhawkfield.com` | No |
 | `wildparadox.com` | No |
 | `wildsplash.photography` | No |
@@ -43607,8 +43612,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,242 |
-| Normal | 32,322 |
+| Cloudflare | 11,244 |
+| Normal | 32,325 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
