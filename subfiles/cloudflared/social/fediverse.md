@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,602 |
-| social | 4,197 |
+| com | 6,603 |
+| social | 4,198 |
 | net | 3,338 |
 | org | 2,309 |
 | de | 2,171 |
@@ -3825,6 +3825,7 @@ Here's a list of public Fediverse services.
 | `benzo.fans` | No |
 | `benzo.online` | No |
 | `beo.social` | No |
+| `beoriginal.social` | No |
 | `beow.party` | Yes |
 | `bepe.org` | No |
 | `bepis.au` | Yes |
@@ -24153,6 +24154,7 @@ Here's a list of public Fediverse services.
 | `mieke.club` | No |
 | `miekyll.com` | No |
 | `mielke.social` | No |
+| `mielse.com` | No |
 | `mieo.ml` | No |
 | `miestodon.com` | No |
 | `mieth.net` | No |
@@ -40464,6 +40466,7 @@ Here's a list of public Fediverse services.
 | `vanilli.co.uk` | Yes |
 | `vanilli.uk` | No |
 | `vanlife.is` | No |
+| `vanlueck.dev` | No |
 | `vanoix.com` | No |
 | `vanoverloop.xyz` | No |
 | `vanwa.ch` | No |
@@ -41281,6 +41284,7 @@ Here's a list of public Fediverse services.
 | `warnick.me` | Yes |
 | `warofart.xyz` | No |
 | `warpday.net` | Yes |
+| `warped.dev` | No |
 | `warpnine.de` | No |
 | `warpzone.es` | No |
 | `warriorsofthelord.com` | No |
@@ -43619,7 +43623,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,246 |
-| Normal | 32,329 |
+| Normal | 32,333 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
