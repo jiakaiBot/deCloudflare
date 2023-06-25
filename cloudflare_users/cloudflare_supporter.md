@@ -96,6 +96,7 @@ Do not create new issue or we will close it as duplicate.
 | [5hc7_@twitter](https://twitter.com/5hc7_/status/1560757781958987783) | advertise |
 | [5Kiqg9RtIwnzbnB@twitter](https://twitter.com/5Kiqg9RtIwnzbnB/status/1617383692040822786) | advertise |
 | [5ss_ss4@twitter](https://twitter.com/5ss_ss4/status/1483667377044828160) | advertise |
+| [6gjch@twitter](https://twitter.com/6gjch/status/1672925653673574400) | advertise |
 | [6ixtimes_@twitter](https://twitter.com/6ixtimes_/status/1672453198437597185) | advertise |
 | [6lizzys@twitter](https://twitter.com/6lizzys/status/1490561482525855747) | advertise |
 | [6October8@twitter](https://twitter.com/6October8/status/1382415935454199815) | advertise |
@@ -3444,6 +3445,7 @@ Do not create new issue or we will close it as duplicate.
 | [farrukh768acca@twitter](https://twitter.com/farrukh768acca/status/1617188352150896640) | advertise |
 | [FarshidArmir@twitter](https://twitter.com/FarshidArmir/status/1664596763896868864) | advertise |
 | [Farzad33475400@twitter](https://twitter.com/Farzad33475400/status/1578132827421507592) | advertise |
+| [Farzadsting@twitter](https://twitter.com/Farzadsting/status/1672936766612058113) | advertise |
 | [farzanf@twitter](https://twitter.com/farzanf/status/1526583866181529609) | advertise |
 | [Farzin19576702@twitter](https://twitter.com/Farzin19576702/status/1391834415785861120) | advertise |
 | [farzintamizi@twitter](https://twitter.com/farzintamizi/status/1589901052350173184) | advertise |
@@ -6847,6 +6849,7 @@ Do not create new issue or we will close it as duplicate.
 | [LuB21468442@twitter](https://twitter.com/LuB21468442/status/1625199628567330816) | advertise |
 | [Lubao308183282@twitter](https://twitter.com/Lubao308183282/status/1383676920093495301) | advertise |
 | [Lucas40103337@twitter](https://twitter.com/Lucas40103337/status/1395576595331665920) | advertise |
+| [LucasLeeZiWei1@twitter](https://twitter.com/LucasLeeZiWei1/status/1672944774440157185) | advertise |
 | [Luchaelis@twitter](https://twitter.com/Luchaelis/status/1383339280362131466) | advertise |
 | [LuChKin4@twitter](https://twitter.com/LuChKin4/status/1397782414647197700) | advertise |
 | [lucian3142@twitter](https://twitter.com/lucian3142/status/1604847550674399233) | advertise |
@@ -9866,6 +9869,7 @@ Do not create new issue or we will close it as duplicate.
 | [R3ZNamikaze23@twitter](https://twitter.com/R3ZNamikaze23/status/1583609063954227201) | advertise |
 | [r5c_7@twitter](https://twitter.com/r5c_7/status/1598812100985753600) | advertise |
 | [r6gear@twitter](https://twitter.com/r6gear/status/1551510182068461569) | advertise |
+| [R14Delos@twitter](https://twitter.com/R14Delos/status/1672928462074511361) | advertise |
 | [Ra36279199@twitter](https://twitter.com/Ra36279199/status/1395644864587501569) | advertise |
 | [rabieemostafa3@twitter](https://twitter.com/rabieemostafa3/status/1579358487712129024) | advertise |
 | [rabsngrob@twitter](https://twitter.com/rabsngrob/status/1572252767967936518) | advertise |
