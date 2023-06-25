@@ -1699,6 +1699,7 @@ Do not create new issue or we will close it as duplicate.
 | [bk0607@twitter](https://twitter.com/bk0607/status/1381984827524534273) | advertise |
 | [bkflyn@twitter](https://twitter.com/bkflyn/status/1569293300821270528) | advertise |
 | [BKhanthtal@twitter](https://twitter.com/BKhanthtal/status/1391690284749127688) | advertise |
+| [Bksafi9@twitter](https://twitter.com/Bksafi9/status/1672868889309630464) | advertise |
 | [bkstout@twitter](https://twitter.com/bkstout/status/1552998686841618432) | advertise |
 | [Bl4ckDyck@twitter](https://twitter.com/Bl4ckDyck/status/1618313331244421120) | advertise |
 | [blaaboy3@twitter](https://twitter.com/blaaboy3/status/1671904386371710977) | advertise |
