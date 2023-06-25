@@ -10322,6 +10322,7 @@ Do not create new issue or we will close it as duplicate.
 | [Saavycld@twitter](https://twitter.com/Saavycld/status/1638271476687163397) | advertise |
 | [saavycloud@twitter](https://twitter.com/saavycloud/status/1638271476687163397) | advertise |
 | [sabasaboo3357@twitter](https://twitter.com/sabasaboo3357/status/1601328812570001408) | advertise |
+| [Sabbir91915685@twitter](https://twitter.com/Sabbir91915685/status/1672970713882558465) | advertise |
 | [sabboy99@twitter](https://twitter.com/sabboy99/status/1384536063406796800) | advertise |
 | [SachdevPawar5@twitter](https://twitter.com/SachdevPawar5/status/1401485466873090048) | advertise |
 | [Sachin39662463@twitter](https://twitter.com/Sachin39662463/status/1388022474474889217) | advertise |
@@ -11862,6 +11863,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThinzarZaw16@twitter](https://twitter.com/ThinzarZaw16/status/1398871032778219521) | advertise |
 | [ThipPhyo@twitter](https://twitter.com/ThipPhyo/status/1560406207298666496) | advertise |
 | [ThiQucHng1@twitter](https://twitter.com/ThiQucHng1/status/1551996413089021952) | advertise |
+| [Third444@twitter](https://twitter.com/Third444/status/1672979121742438400) | advertise |
 | [ThirdPole2@twitter](https://twitter.com/ThirdPole2/status/1387048888549314569) | advertise |
 | [Thiri97668359@twitter](https://twitter.com/Thiri97668359/status/1391723015423946755) | advertise |
 | [ThiriAg3@twitter](https://twitter.com/ThiriAg3/status/1393167728312160261) | advertise |
