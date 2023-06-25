@@ -1786,6 +1786,7 @@ Do not create new issue or we will close it as duplicate.
 | [bocuabin@twitter](https://twitter.com/bocuabin/status/1556530216465358848) | advertise |
 | [Bocumam1@twitter](https://twitter.com/Bocumam1/status/1388763962389393411) | advertise |
 | [bodalat86@twitter](https://twitter.com/bodalat86/status/1553005414966386688) | advertise |
+| [Bodo01082293@twitter](https://twitter.com/Bodo01082293/status/1672825875937755136) | advertise |
 | [Bodo60367606@twitter](https://twitter.com/Bodo60367606/status/1400961243695915008) | advertise |
 | [boemekeld@twitter](https://twitter.com/boemekeld/status/1452479684973838342) | advertise |
 | [Bogy25256354@twitter](https://twitter.com/Bogy25256354/status/1393573899263086595) | advertise |
