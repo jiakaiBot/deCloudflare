@@ -1096,6 +1096,7 @@ Do not create new issue or we will close it as duplicate.
 | [AssefaJiregna@twitter](https://twitter.com/AssefaJiregna/status/1628756888060919808) | advertise |
 | [Aster21Team@twitter](https://twitter.com/Aster21Team/status/1395622416819179521) | advertise |
 | [astrocopia@twitter](https://twitter.com/astrocopia/status/1590760408352456704) | advertise |
+| [AstroVerbot@twitter](https://twitter.com/AstroVerbot/status/1673033401886973952) | advertise |
 | [astrovpn@twitter](https://twitter.com/astrovpn/status/1665841042753482754) | advertise |
 | [Asuka68530199@twitter](https://twitter.com/Asuka68530199/status/1552187901449945089) | advertise |
 | [asura6886@twitter](https://twitter.com/asura6886/status/1671836779811573760) | advertise |
