@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare waiting room](https://github.com/realcoloride/node_characterai/issues/56)
 - [被控端 WebSocket 无法回传](https://github.com/cokemine/nodestatus/issues/197)
 - [Another error !!](https://github.com/mayudev/revcord/issues/14)
 - [Error running script SyntaxError: Identifier 'concat' has already been declared at blob:null/fc6d65b1-68e1-4492-9180-8f3271ba2cd7:824:1](https://github.com/skymethod/denoflare/issues/57)
