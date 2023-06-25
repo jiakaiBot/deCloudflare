@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot publish plot images](https://github.com/iterative/cml_dvc_case/issues/28)
 - [Cp.cloudflare.com EOF reality config error,](https://github.com/MatsuriDayo/NekoBoxForAndroid/issues/205)
 - [Cloudflare waiting room](https://github.com/realcoloride/node_characterai/issues/56)
 - [被控端 WebSocket 无法回传](https://github.com/cokemine/nodestatus/issues/197)
