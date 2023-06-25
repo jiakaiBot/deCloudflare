@@ -20800,6 +20800,7 @@ Here's a list of public Fediverse services.
 | `lemmy.fail` | Yes |
 | `lemmy.film` | Yes |
 | `lemmy.fyi` | Yes |
+| `lemmy.link` | Yes |
 | `lemmy.management` | No |
 | `lemmy.ml` | No |
 | `lemmy.my.id` | No |
@@ -29767,6 +29768,7 @@ Here's a list of public Fediverse services.
 | `pirate-wire.com` | No |
 | `pirate.chat` | Yes |
 | `pirate.lgbt` | Yes |
+| `pirateale.xyz` | No |
 | `pirateheaven.eu` | No |
 | `piraten-holzminden.de` | No |
 | `piraten-partei.social` | No |
@@ -31586,6 +31588,7 @@ Here's a list of public Fediverse services.
 | `ranranhome.site` | No |
 | `ransom.buzz` | No |
 | `rant.li` | Yes |
+| `rant.lol` | Yes |
 | `rants.au` | Yes |
 | `rants.org` | No |
 | `rantz.xyz` | No |
@@ -36471,6 +36474,7 @@ Here's a list of public Fediverse services.
 | `sudo.ca` | No |
 | `sudo.cat` | Yes |
 | `sudo.cx` | Yes |
+| `sudoer.ch` | Yes |
 | `sudojudo.com` | Yes |
 | `sudoshell.xyz` | No |
 | `sudothei.io` | No |
@@ -43628,8 +43632,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,250 |
-| Normal | 32,335 |
+| Cloudflare | 11,253 |
+| Normal | 32,336 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
