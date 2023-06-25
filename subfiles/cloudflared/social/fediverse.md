@@ -9961,6 +9961,7 @@ Here's a list of public Fediverse services.
 | `drumcorps.social` | No |
 | `drumstodon.net` | No |
 | `drunklyceum.club` | Yes |
+| `drunkposter.club` | No |
 | `drunu.be` | Yes |
 | `drup.no` | No |
 | `drupal.community` | No |
@@ -16980,7 +16981,7 @@ Here's a list of public Fediverse services.
 | `imthe.party` | No |
 | `imvegan.fyi` | No |
 | `imveganb.tw` | Yes |
-| `imverified.online` | No |
+| `imverified.online` | Yes |
 | `imyip.net` | Yes |
 | `in-athens.gr` | No |
 | `in-berlin.de` | No |
@@ -43598,7 +43599,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,236 |
+| Cloudflare | 11,237 |
 | Normal | 32,319 |
 
 
