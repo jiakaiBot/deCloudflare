@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [cloudflare is not allowing to access via rest assured](https://github.com/typicode/jsonplaceholder/issues/195)
 - [Cannot publish plot images](https://github.com/iterative/cml_dvc_case/issues/28)
 - [Cp.cloudflare.com EOF reality config error,](https://github.com/MatsuriDayo/NekoBoxForAndroid/issues/205)
 - [Cloudflare waiting room](https://github.com/realcoloride/node_characterai/issues/56)
