@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,602 |
 | social | 4,197 |
-| net | 3,336 |
+| net | 3,337 |
 | org | 2,308 |
 | de | 2,171 |
 
@@ -1255,6 +1255,7 @@ Here's a list of public Fediverse services.
 | `aillust.fun` | Yes |
 | `ains-no-misskey.com` | Yes |
 | `ainsophaur.it` | No |
+| `ainyataovi.net` | No |
 | `aioo.ooo` | No |
 | `aiparadise.moe` | No |
 | `aipi.social` | No |
@@ -43613,7 +43614,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,244 |
-| Normal | 32,325 |
+| Normal | 32,326 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
