@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,602 |
 | social | 4,196 |
 | net | 3,336 |
-| org | 2,307 |
+| org | 2,308 |
 | de | 2,171 |
 
 
@@ -7980,6 +7980,7 @@ Here's a list of public Fediverse services.
 | `cyberpunks.social` | No |
 | `cyberpunks.xyz` | No |
 | `cyberpunx.com` | No |
+| `cyberreality.org` | No |
 | `cyberretards.xyz` | Yes |
 | `cyberrex.jp` | Yes |
 | `cyberscene.gq` | No |
@@ -43600,7 +43601,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,237 |
-| Normal | 32,319 |
+| Normal | 32,320 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
