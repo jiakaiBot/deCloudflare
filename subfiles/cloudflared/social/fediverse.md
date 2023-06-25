@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,603 |
-| social | 4,198 |
+| social | 4,199 |
 | net | 3,338 |
 | org | 2,309 |
 | de | 2,171 |
@@ -14606,6 +14606,7 @@ Here's a list of public Fediverse services.
 | `goroundtrip.co` | Yes |
 | `gorritodeplata.xyz` | No |
 | `gory.social` | No |
+| `gosen.cyou` | Yes |
 | `goshdarn.fun` | No |
 | `gosia.lol` | No |
 | `goslar.social` | No |
@@ -22290,6 +22291,7 @@ Here's a list of public Fediverse services.
 | `magrathea.social` | No |
 | `maguire.social` | No |
 | `magurodon.net` | No |
+| `magus.club` | No |
 | `magyarok.cc` | Yes |
 | `magzu.net` | No |
 | `mahagyani.net` | No |
@@ -24511,6 +24513,7 @@ Here's a list of public Fediverse services.
 | `misso-pi.com` | No |
 | `misspi.net` | Yes |
 | `misstter.com` | Yes |
+| `missty.world` | Yes |
 | `mist.so` | No |
 | `mistah-v.com` | No |
 | `mistelske.com` | No |
@@ -27232,6 +27235,7 @@ Here's a list of public Fediverse services.
 | `nordgedanken.de` | No |
 | `nordgedanken.dev` | No |
 | `nordherz.blog` | No |
+| `nordic.online` | No |
 | `nordicshutter.com` | No |
 | `nordicvisions.net` | No |
 | `nordisk.cloud` | No |
@@ -28223,6 +28227,7 @@ Here's a list of public Fediverse services.
 | `open-social.xyz` | No |
 | `open-society.ch` | No |
 | `open-source-eschaton.net` | No |
+| `open-source.social` | Yes |
 | `open-telekom-cloud.com` | No |
 | `open-w.net` | Yes |
 | `open-web.fr` | No |
@@ -43623,8 +43628,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,247 |
-| Normal | 32,333 |
+| Cloudflare | 11,250 |
+| Normal | 32,335 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
