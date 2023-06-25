@@ -26331,6 +26331,7 @@ Here's a list of public Fediverse services.
 | `nenohi.net` | Yes |
 | `nentra.social` | Yes |
 | `neo0717.com` | Yes |
+| `neo7.kim` | No |
 | `neobluepanther.com` | No |
 | `neocloradas.com` | Yes |
 | `neocoretext.net` | No |
@@ -43618,7 +43619,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,246 |
-| Normal | 32,328 |
+| Normal | 32,329 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
