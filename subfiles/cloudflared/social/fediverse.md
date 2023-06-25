@@ -14934,7 +14934,7 @@ Here's a list of public Fediverse services.
 | `gsi.li` | No |
 | `gskapp.live` | No |
 | `gspirate.club` | Yes |
-| `gspot.lol` | Yes |
+| `gspot.lol` | No |
 | `gspot.social` | Yes |
 | `gstaff.org` | No |
 | `gsugambit.com` | No |
@@ -18629,6 +18629,7 @@ Here's a list of public Fediverse services.
 | `junia.social` | No |
 | `juniorjpdj.pl` | No |
 | `junk.rs` | No |
+| `junkbox69.online` | No |
 | `junkeidon.com` | No |
 | `junkhub.org` | No |
 | `junkpile.org` | No |
@@ -38517,6 +38518,7 @@ Here's a list of public Fediverse services.
 | `tkammer.de` | No |
 | `tki.jp` | Yes |
 | `tkmb.tokyo` | No |
+| `tkngh.jp` | Yes |
 | `tkschland.de` | No |
 | `tkschland.social` | No |
 | `tkte.ch` | No |
@@ -43597,7 +43599,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,236 |
-| Normal | 32,317 |
+| Normal | 32,319 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
