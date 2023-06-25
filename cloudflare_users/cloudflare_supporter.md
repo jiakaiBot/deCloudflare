@@ -4476,6 +4476,7 @@ Do not create new issue or we will close it as duplicate.
 | [honhonhon15@twitter](https://twitter.com/honhonhon15/status/1391140808623939585) | advertise |
 | [Honziiin1@twitter](https://twitter.com/Honziiin1/status/1536496120448303105) | advertise |
 | [Hoo20967296@twitter](https://twitter.com/Hoo20967296/status/1552675581833097216) | advertise |
+| [hooman1350@twitter](https://twitter.com/hooman1350/status/1673065874717130754) | advertise |
 | [hooman37328255@twitter](https://twitter.com/hooman37328255/status/1573217858431090689) | advertise |
 | [Hoomn291051823@twitter](https://twitter.com/Hoomn291051823/status/1578348160292118529) | advertise |
 | [hoonk52979420@twitter](https://twitter.com/hoonk52979420/status/1390281353585840128) | advertise |
@@ -5268,6 +5269,7 @@ Do not create new issue or we will close it as duplicate.
 | [jef43477408@twitter](https://twitter.com/jef43477408/status/1377262260272439301) | advertise |
 | [jeff41691518@twitter](https://twitter.com/jeff41691518/status/1553804959950700545) | advertise |
 | [JefferyQ@twitter](https://twitter.com/JefferyQ/status/1402835144604631043) | advertise |
+| [Jefffffffffff67@twitter](https://twitter.com/Jefffffffffff67/status/1673062087457665025) | advertise |
 | [JeffKizer3@twitter](https://twitter.com/JeffKizer3/status/1404068460817129472) | advertise |
 | [jeffreynichols@twitter](https://twitter.com/jeffreynichols/status/1671620191547977731) | advertise |
 | [Jegan35143674@twitter](https://twitter.com/Jegan35143674/status/1468224734559191052) | advertise |
@@ -12311,6 +12313,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrongTh89348240@twitter](https://twitter.com/TrongTh89348240/status/1383966127752060940) | advertise |
 | [trongva00011729@twitter](https://twitter.com/trongva00011729/status/1547917887691964416) | advertise |
 | [TrpFrog@twitter](https://twitter.com/TrpFrog/status/1669761867072548864) | advertise |
+| [truaxera27@twitter](https://twitter.com/truaxera27/status/1673042372630835200) | advertise |
 | [TrucMaiNguyen6@twitter](https://twitter.com/TrucMaiNguyen6/status/1541933825693196288) | advertise |
 | [TrueStrike2@twitter](https://twitter.com/TrueStrike2/status/1396387242214559744) | advertise |
 | [truewu@twitter](https://twitter.com/truewu/status/1496862998136197127) | advertise |
