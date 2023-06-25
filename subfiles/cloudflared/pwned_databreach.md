@@ -106,6 +106,7 @@ Here's a list of breached sites.
 | Boxee | 158,093 | No |
 | BrandNewTube (Brand New Tube) | 349,627 | Yes |
 | Brazzers | 790,724 | No |
+| BreachForumsClone (BreachForums Clone) | 4,204 | No |
 | BtoBet | 444,241 | No |
 | Bukalapak | 13,369,666 | Yes |
 | BulgarianNationalRevenueAgency (Bulgarian National Revenue Agency) | 471,167 | Yes |
@@ -243,7 +244,7 @@ Here's a list of breached sites.
 | Gab | 66,521 | Yes |
 | GameSalad | 1,506,242 | Yes |
 | GameTuts | 2,064,274 | Yes |
-| GamerzPlanet (Gamerzplanet) | 1,217,166 | No |
+| GamerzPlanet (Gamerzplanet) | 1,217,166 | Yes |
 | Gamigo | 8,243,604 | Yes |
 | GateHub | 1,408,078 | Yes |
 | Gawker | 1,247,574 | No |
@@ -671,10 +672,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 357 | 3,927,263,908 |
-| Normal | 293 | 4,983,987,288 |
+| Cloudflare | 358 | 3,928,481,074 |
+| Normal | 293 | 4,982,774,326 |
 
 
 
-### 54.9% of breached sites (pwned sites) are using Cloudflare.
+### 55% of breached sites (pwned sites) are using Cloudflare.
 ### 44.1% of leaked accounts are on Cloudflare sites.
