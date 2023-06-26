@@ -35,8 +35,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | aidentec.top | Yes |
 | alekberg.net | No |
 | alidns.com | No |
-| almir1904.eu | Yes |
-| altapo.ru | Yes |
 | altendorfme.com | Yes |
 | amlegion.org | No |
 | andrewnw.xyz | Yes |
@@ -66,7 +64,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | brahma.world | Yes |
 | c-dns.com | No |
 | carson-family.com | Yes |
-| cbio.top | Yes |
 | cgnat.net | No |
 | chenu.ch | No |
 | chromeina.top | Yes |
@@ -148,7 +145,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | gnb09.id | Yes |
 | goldplate.org | Yes |
 | gosami.xyz | No |
-| greenet.id | No |
 | gztech.me | Yes |
 | hafidzradhival.my.id | Yes |
 | hahnjo.de | No |
@@ -216,7 +212,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | meshkov.info | Yes |
 | mhn.de | No |
 | mikeliu.org | No |
-| mipauns.com | Yes |
 | mmmalia.com | No |
 | mobik.com | No |
 | modr.club | Yes |
@@ -247,7 +242,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | niyawe.de | No |
 | njal.la | No |
 | noaddns.com | No |
-| nocnik.org | Yes |
 | node15.com | Yes |
 | nolo.ltd | Yes |
 | nomu.pw | No |
@@ -261,7 +255,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ohai.ca | Yes |
 | onedns.cc | Yes |
 | onedns.net | No |
-| openbld.net | No |
 | opendns.com | Yes |
 | opnsource.com.au | Yes |
 | ozer.im | No |
@@ -294,11 +287,9 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rowdyengeesje.nl | No |
 | rsaikat.com | No |
 | rwth-aachen.de | No |
-| safeith.com | Yes |
 | safeservedns.com | No |
 | safesurfer.io | Yes |
 | samutz.com | No |
-| sbdns.co.in | No |
 | seby.io | Yes |
 | sellan.fr | No |
 | sev.monster | No |
@@ -339,7 +330,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tiarap.org | Yes |
 | timmes.nl | No |
 | timochan.cn | Yes |
-| tipsy.coffee | No |
 | tk31z.com | Yes |
 | tls-data.de | No |
 | toairs.com | No |
@@ -362,10 +352,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | vpms.xyz | Yes |
 | vpnglobal.my.id | Yes |
 | waifu.cz | Yes |
-| wakgood.net | Yes |
 | wantaquddin.com | No |
 | waringer-atg.de | No |
-| webstor.net | No |
 | worthmind.net | Yes |
 | xaoimoon.fr | No |
 | xcom.pro | No |
@@ -386,8 +374,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 186 |
-| Normal | 181 |
+| Cloudflare | 179 |
+| Normal | 176 |
 
 
-### 50.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
