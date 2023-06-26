@@ -4247,6 +4247,7 @@ Here's a list of public Fediverse services.
 | `biu.im` | Yes |
 | `biud.li` | No |
 | `biw.social` | No |
+| `biwako.online` | Yes |
 | `biwakodon.com` | No |
 | `bix.blog` | No |
 | `bix.today` | No |
@@ -43655,7 +43656,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,262 |
+| Cloudflare | 11,263 |
 | Normal | 32,350 |
 
 
