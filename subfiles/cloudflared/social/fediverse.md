@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,609 |
-| social | 4,201 |
+| com | 6,611 |
+| social | 4,202 |
 | net | 3,342 |
-| org | 2,310 |
+| org | 2,311 |
 | de | 2,172 |
 
 
@@ -4448,6 +4448,7 @@ Here's a list of public Fediverse services.
 | `blogger-mstdn.com` | No |
 | `blogger.com` | No |
 | `bloggesspals.com` | No |
+| `blogging-life.com` | No |
 | `blogging.dk` | No |
 | `bloggingintensifies.com` | Yes |
 | `blogkreatywny.pl` | No |
@@ -4790,6 +4791,7 @@ Here's a list of public Fediverse services.
 | `boromil.space` | No |
 | `borosa.social` | No |
 | `borromeo.social` | Yes |
+| `borsos.at` | No |
 | `bortzmeyer.fr` | No |
 | `boscolager.de` | No |
 | `bosetsu.org` | No |
@@ -26140,6 +26142,7 @@ Here's a list of public Fediverse services.
 | `natter.wtf` | No |
 | `natterati.com` | No |
 | `nattois.life` | No |
+| `nattomaki.social` | No |
 | `nattyvideo.com` | No |
 | `natudon-fishing.net` | No |
 | `natudon-outdoor.net` | No |
@@ -29879,6 +29882,7 @@ Here's a list of public Fediverse services.
 | `pixelfed.pl` | Yes |
 | `pixelfed.pt` | No |
 | `pixelfed.ru` | Yes |
+| `pixelfed.scot` | No |
 | `pixelfed.se` | No |
 | `pixelfed.sg` | Yes |
 | `pixelfed.social` | Yes |
@@ -30849,6 +30853,7 @@ Here's a list of public Fediverse services.
 | `pub.solar` | No |
 | `pubby.social` | Yes |
 | `pube.tk` | No |
+| `pubeurope.com` | No |
 | `pubino.eu` | Yes |
 | `pubjunky.com` | No |
 | `public-infrastructure.eu` | No |
@@ -31644,6 +31649,7 @@ Here's a list of public Fediverse services.
 | `rareome.ga` | No |
 | `rares.cc` | Yes |
 | `raretrack.uk` | No |
+| `rarez.lol` | No |
 | `rarf.zone` | No |
 | `rarified.online` | No |
 | `raroh73.xyz` | Yes |
@@ -38366,6 +38372,7 @@ Here's a list of public Fediverse services.
 | `thrashzone.org` | Yes |
 | `threadintheweb.com` | No |
 | `threads.social` | No |
+| `threadtree.xyz` | No |
 | `threatactor.club` | No |
 | `threatpost.com` | No |
 | `threddy.social` | No |
@@ -39180,6 +39187,7 @@ Here's a list of public Fediverse services.
 | `trapezial.com` | Yes |
 | `trapped.codes` | No |
 | `trapped.online` | No |
+| `trash.boutique` | No |
 | `trash.haus` | No |
 | `trash.social` | No |
 | `trash.town` | No |
@@ -41828,6 +41836,7 @@ Here's a list of public Fediverse services.
 | `williamscloud.space` | No |
 | `williamsonday.buzz` | No |
 | `williamsonday.info` | No |
+| `williamsonday.org` | No |
 | `williamyam.com` | No |
 | `willistonschools.org` | No |
 | `willnorris.com` | No |
@@ -43663,7 +43672,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,269 |
-| Normal | 32,350 |
+| Normal | 32,359 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
