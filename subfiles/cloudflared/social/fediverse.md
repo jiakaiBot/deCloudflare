@@ -6995,7 +6995,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -23505,6 +23505,7 @@ Here's a list of public Fediverse services.
 | `mayhap.org` | No |
 | `mayheminc.win` | Yes |
 | `maymeow.com` | Yes |
+| `maymeow.eu` | Yes |
 | `maymeow.red` | No |
 | `maymeow.social` | No |
 | `mayobus.me` | No |
@@ -36107,7 +36108,7 @@ Here's a list of public Fediverse services.
 | `stellar.build` | Yes |
 | `stellaria.network` | Yes |
 | `stellartwin-186f.ovh` | No |
-| `stellarvortex.com` | No |
+| `stellarvortex.com` | Yes |
 | `stellas.cf` | Yes |
 | `stellbr.ink` | Yes |
 | `stellify.net` | Yes |
@@ -43647,8 +43648,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,256 |
-| Normal | 32,348 |
+| Cloudflare | 11,259 |
+| Normal | 32,346 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
