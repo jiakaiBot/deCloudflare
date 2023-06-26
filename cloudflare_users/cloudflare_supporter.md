@@ -11128,6 +11128,7 @@ Do not create new issue or we will close it as duplicate.
 | [SQUIDMANGA@twitter](https://twitter.com/SQUIDMANGA/status/1550594180799422468) | advertise |
 | [srcxngcd@twitter](https://twitter.com/srcxngcd/status/1614642551042052100) | advertise |
 | [Srealisreal@twitter](https://twitter.com/Srealisreal/status/1624264304915791872) | advertise |
+| [sredevopscl@twitter](https://twitter.com/sredevopscl/status/1672804580323651588) | advertise |
 | [Sreejit13700215@twitter](https://twitter.com/Sreejit13700215/status/1388191035029823488) | advertise |
 | [srenner22@twitter](https://twitter.com/srenner22/status/1665874142518734848) | advertise |
 | [sriyogeshkumar1@twitter](https://twitter.com/sriyogeshkumar1/status/1478380858981638146) | advertise |
