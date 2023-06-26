@@ -13628,6 +13628,7 @@ Do not create new issue or we will close it as duplicate.
 | [zeropixx2@twitter](https://twitter.com/zeropixx2/status/1478373192804667396) | advertise |
 | [zerrudo_@twitter](https://twitter.com/zerrudo_/status/1545499878096191489) | advertise |
 | [Zertong19@twitter](https://twitter.com/Zertong19/status/1472010175275941891) | advertise |
+| [Zeus001Godson@twitter](https://twitter.com/Zeus001Godson/status/1673439766728040450) | advertise |
 | [zeus410111@twitter](https://twitter.com/zeus410111/status/1470774038922420230) | advertise |
 | [Zeus41349153@twitter](https://twitter.com/Zeus41349153/status/1389858739851833346) | advertise |
 | [Zeven31589075@twitter](https://twitter.com/Zeven31589075/status/1391820184063647747) | advertise |
