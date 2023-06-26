@@ -16531,6 +16531,7 @@ Here's a list of public Fediverse services.
 | `hutaffe.blog` | No |
 | `hutch.chat` | Yes |
 | `hutchie.scot` | Yes |
+| `hutchings.gen.nz` | No |
 | `hutin-moise.com` | No |
 | `hutspod.nl` | No |
 | `hutt.social` | No |
@@ -43655,7 +43656,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,262 |
-| Normal | 32,349 |
+| Normal | 32,350 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
