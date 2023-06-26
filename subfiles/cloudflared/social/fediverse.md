@@ -9723,6 +9723,7 @@ Here's a list of public Fediverse services.
 | `dopamine.social` | No |
 | `dopasoft.com` | No |
 | `dopcrew.com` | No |
+| `dope.bz` | No |
 | `dopiaza.org` | No |
 | `dora.im` | Yes |
 | `dorf-post.de` | No |
@@ -43662,7 +43663,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,269 |
-| Normal | 32,349 |
+| Normal | 32,350 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
