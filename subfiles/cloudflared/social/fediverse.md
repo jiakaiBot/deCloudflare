@@ -43257,6 +43257,7 @@ Here's a list of public Fediverse services.
 | `zambito.xyz` | No |
 | `zamborsky.eu` | No |
 | `zamdronie.com` | No |
+| `zana.moe` | No |
 | `zanderz.com` | No |
 | `zane.town` | No |
 | `zannoni.eu` | No |
@@ -43659,7 +43660,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,265 |
-| Normal | 32,350 |
+| Normal | 32,351 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
