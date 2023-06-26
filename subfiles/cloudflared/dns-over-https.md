@@ -24,7 +24,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 52306.org | Yes |
 | 5ososea.com | Yes |
 | 68360612.xyz | Yes |
-| 7sec.com.br | Yes |
 | 8888.google | No |
 | aa.net.uk | No |
 | absolight.net | No |
@@ -72,7 +71,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | chenu.ch | No |
 | chromeina.top | Yes |
 | cira.ca | Yes |
-| circl.lu | No |
 | clanless.ovh | Yes |
 | cloudflare-dns.com | Yes |
 | comss.one | No |
@@ -105,7 +103,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dns.sb | Yes |
 | dns4all.eu | No |
 | dns8.org | No |
-| dnsadguard.co.uk | No |
 | dnscrypt.ca | No |
 | dnsenc.com | No |
 | dnsforfamily.com | Yes |
@@ -375,7 +372,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | xenergy.cc | Yes |
 | xfinity.com | Yes |
 | xinfeng16m.top | Yes |
-| xm706v.com | Yes |
 | yameenassotally.com | No |
 | yazilimatolye.com | No |
 | ychen.cf | No |
@@ -384,15 +380,14 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | yovbak.com | No |
 | yunmoc.top | Yes |
 | zxcvb.pp.ua | Yes |
-| zxi7.cn | No |
 
 
 ----
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 188 |
-| Normal | 184 |
+| Cloudflare | 186 |
+| Normal | 181 |
 
 
-### 50.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
