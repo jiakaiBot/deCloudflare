@@ -5801,6 +5801,7 @@ Here's a list of public Fediverse services.
 | `catgirl.zone` | No |
 | `catgirlin.space` | No |
 | `catgirlmeike.eu` | Yes |
+| `catgirlon.top` | Yes |
 | `catgirls.cafe` | Yes |
 | `catgirls.love` | No |
 | `catgirls.party` | Yes |
@@ -43656,7 +43657,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,263 |
+| Cloudflare | 11,264 |
 | Normal | 32,350 |
 
 
