@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to verify custom chain contract address](https://github.com/NomicFoundation/hardhat/issues/4070)
 - [Nginx Proxy Manager LXC update not working in Debian 12](https://github.com/tteck/Proxmox/issues/1544)
 - [Error ERR_STREAM_PREMATURE_CLOSE: Premature close in Node Pipeline stream](https://github.com/honojs/node-server/issues/60)
 - [cloudflare is not allowing to access via rest assured](https://github.com/typicode/jsonplaceholder/issues/195)
