@@ -824,6 +824,7 @@ Do not create new issue or we will close it as duplicate.
 | [AngieSngie12@twitter](https://twitter.com/AngieSngie12/status/1395560104699772929) | advertise |
 | [angkritth@twitter](https://twitter.com/angkritth/status/1560903270234673152) | advertise |
 | [Angleboy6699775@twitter](https://twitter.com/Angleboy6699775/status/1393466028890460160) | advertise |
+| [AngleKayle@twitter](https://twitter.com/AngleKayle/status/1673107541830832128) | advertise |
 | [ANGLO48743416@twitter](https://twitter.com/ANGLO48743416/status/1398422501185757185) | advertise |
 | [Angry_Gay_Pope@twitter](https://twitter.com/Angry_Gay_Pope/status/1655320989646077955) | advertise |
 | [Anh96373085@twitter](https://twitter.com/Anh96373085/status/1618630945225191425) | advertise |
