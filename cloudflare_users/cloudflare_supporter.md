@@ -4724,6 +4724,7 @@ Do not create new issue or we will close it as duplicate.
 | [huu_duon@twitter](https://twitter.com/huu_duon/status/1507709556931002377) | advertise |
 | [Huwng22@twitter](https://twitter.com/Huwng22/status/1549074458538692608) | advertise |
 | [huxxhuxx@twitter](https://twitter.com/huxxhuxx/status/1377787198246768647) | advertise |
+| [huy01213575158@twitter](https://twitter.com/huy01213575158/status/1673284407208329216) | advertise |
 | [huy07637@twitter](https://twitter.com/huy07637/status/1389427627841101825) | advertise |
 | [Huy1406Nguyen@twitter](https://twitter.com/Huy1406Nguyen/status/1389055183221444608) | advertise |
 | [Huy12316895@twitter](https://twitter.com/Huy12316895/status/1554685971232223232) | advertise |
