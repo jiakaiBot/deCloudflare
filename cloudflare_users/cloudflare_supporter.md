@@ -8715,6 +8715,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nie90783223@twitter](https://twitter.com/Nie90783223/status/1390937939236966403) | advertise |
 | [Nievs2002@twitter](https://twitter.com/Nievs2002/status/1472551166030409731) | advertise |
 | [NiftalievRahman@twitter](https://twitter.com/NiftalievRahman/status/1577534526531698691) | advertise |
+| [NigelMarker@twitter](https://twitter.com/NigelMarker/status/1673339707697119237) | advertise |
 | [Nightmar592837@twitter](https://twitter.com/Nightmar592837/status/1568195231287230464) | advertise |
 | [Nig_The_Alusha@twitter](https://twitter.com/Nig_The_Alusha/status/1381912137099005954) | advertise |
 | [nihonseimart@twitter](https://twitter.com/nihonseimart/status/1499690802015977475) | advertise |
