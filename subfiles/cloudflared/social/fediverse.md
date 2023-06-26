@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,603 |
-| social | 4,199 |
-| net | 3,338 |
-| org | 2,309 |
-| de | 2,171 |
+| com | 6,605 |
+| social | 4,201 |
+| net | 3,340 |
+| org | 2,310 |
+| de | 2,172 |
 
 
 - Mastodon, Pleroma, etc
@@ -627,6 +627,7 @@ Here's a list of public Fediverse services.
 | `7sdre.am` | Yes |
 | `7seven.cloud` | Yes |
 | `7snowrin.net` | No |
+| `7t4.us` | Yes |
 | `7td.org` | Yes |
 | `7thmagic.net` | No |
 | `7z.pm` | No |
@@ -2480,6 +2481,7 @@ Here's a list of public Fediverse services.
 | `armandmgt.fr` | Yes |
 | `armendarizprecioso.ovh` | No |
 | `armingbears.com` | No |
+| `armoredmask.com` | Yes |
 | `armpc.de` | No |
 | `armpit.me` | Yes |
 | `armstube.com` | Yes |
@@ -4269,6 +4271,7 @@ Here's a list of public Fediverse services.
 | `bknyc.us` | No |
 | `bkp.sh` | Yes |
 | `bkrdam.social` | No |
+| `bkrn.org` | No |
 | `bkryer.com` | No |
 | `bktsk.com` | Yes |
 | `bl1nk.com` | Yes |
@@ -11004,6 +11007,7 @@ Here's a list of public Fediverse services.
 | `epsilon.horse` | No |
 | `epsilon.social` | Yes |
 | `epsom.social` | No |
+| `epub.social` | No |
 | `epyisageek.net` | No |
 | `eqb.social` | No |
 | `eqgr.gr` | Yes |
@@ -12896,7 +12900,9 @@ Here's a list of public Fediverse services.
 | `freaknweekend.com` | No |
 | `freaks.social` | Yes |
 | `freaksonly.space` | No |
+| `freakspot.net` | No |
 | `freaksquirrel.net` | No |
+| `freaky.cafe` | Yes |
 | `fred.social` | No |
 | `fredcavazza.net` | No |
 | `freddi.app` | Yes |
@@ -19956,6 +19962,7 @@ Here's a list of public Fediverse services.
 | `koyu.space` | Yes |
 | `koyuston.tk` | No |
 | `kozlovsky.institute` | Yes |
+| `kozow.com` | No |
 | `kozterulethasznalatienge.day` | No |
 | `kpc.bz` | Yes |
 | `kpherox.dev` | Yes |
@@ -22196,6 +22203,7 @@ Here's a list of public Fediverse services.
 | `macwinlin.cloud` | Yes |
 | `macwright.com` | Yes |
 | `mad-scientist.club` | No |
+| `mad-scientists.net` | No |
 | `madameplay.com.br` | No |
 | `madamisskey.net` | No |
 | `madbob.org` | No |
@@ -28057,6 +28065,7 @@ Here's a list of public Fediverse services.
 | `omar.website` | No |
 | `omaramin.me` | No |
 | `omarpolo.com` | No |
+| `omat.nl` | No |
 | `omba.nl` | Yes |
 | `ombidombi.de` | No |
 | `ombreport.info` | No |
@@ -28449,6 +28458,7 @@ Here's a list of public Fediverse services.
 | `orkz.net` | No |
 | `ornella.xyz` | Yes |
 | `orng.social` | Yes |
+| `ornitologia.social` | No |
 | `ornwood.garden` | No |
 | `orobouros.net` | No |
 | `orochena.net` | Yes |
@@ -29014,6 +29024,7 @@ Here's a list of public Fediverse services.
 | `paritybit.ca` | No |
 | `parkfans.network` | No |
 | `parkgaedae.com` | No |
+| `parkingmeter.info` | Yes |
 | `parkour-eppingen.de` | No |
 | `parkpioneer.com` | No |
 | `parkrocker.com` | No |
@@ -29219,6 +29230,7 @@ Here's a list of public Fediverse services.
 | `pebcak.de` | Yes |
 | `pech.tech` | No |
 | `peck.li` | No |
+| `peculiar.florist` | No |
 | `pedagogustarsadalom.hu` | No |
 | `pedalkickers.de` | No |
 | `pede.rs` | No |
@@ -34820,6 +34832,7 @@ Here's a list of public Fediverse services.
 | `skweb.io` | No |
 | `skweekychair.games` | No |
 | `skweez.net` | No |
+| `skwerl.dev` | No |
 | `sky-em.id.au` | No |
 | `skyax.design` | Yes |
 | `skycademc.com` | Yes |
@@ -40051,6 +40064,7 @@ Here's a list of public Fediverse services.
 | `uni-kiel.de` | No |
 | `uni-magdeburg.de` | No |
 | `uni-muenster.de` | No |
+| `uni-oldenburg.de` | No |
 | `uni-web.jp` | No |
 | `uni.horse` | No |
 | `uniability.org` | No |
@@ -42704,6 +42718,7 @@ Here's a list of public Fediverse services.
 | `xyaren.de` | No |
 | `xycloud.fr` | No |
 | `xyenon.bid` | Yes |
+| `xyliazia.space` | No |
 | `xylinvale.space` | No |
 | `xylonx.com` | Yes |
 | `xymoste.ch` | No |
@@ -43632,8 +43647,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,252 |
-| Normal | 32,337 |
+| Cloudflare | 11,256 |
+| Normal | 32,348 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
