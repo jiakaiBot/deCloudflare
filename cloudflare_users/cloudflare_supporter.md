@@ -13265,6 +13265,7 @@ Do not create new issue or we will close it as duplicate.
 | [YanChay3@twitter](https://twitter.com/YanChay3/status/1391908840484982787) | advertise |
 | [Yandi62778431@twitter](https://twitter.com/Yandi62778431/status/1557397109611327488) | advertise |
 | [YaneYan49426997@twitter](https://twitter.com/YaneYan49426997/status/1380213844610441216) | advertise |
+| [YangHee96@twitter](https://twitter.com/YangHee96/status/1673383091858210816) | advertise |
 | [yangonhandsome1@twitter](https://twitter.com/yangonhandsome1/status/1508097792879001607) | advertise |
 | [YangonT85145334@twitter](https://twitter.com/YangonT85145334/status/1391119988535160833) | advertise |
 | [YanGyiA95706373@twitter](https://twitter.com/YanGyiA95706373/status/1392032366386888707) | advertise |
