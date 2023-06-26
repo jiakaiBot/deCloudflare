@@ -19058,6 +19058,7 @@ Here's a list of public Fediverse services.
 | `katy.media` | Yes |
 | `katyucha.ovh` | No |
 | `katz.vision` | Yes |
+| `katze.network` | Yes |
 | `katze.sh` | Yes |
 | `katzen.cafe` | No |
 | `katzenjens.de` | No |
@@ -29039,6 +29040,7 @@ Here's a list of public Fediverse services.
 | `parocus.de` | No |
 | `parody.town` | No |
 | `parpok.lomza.pl` | Yes |
+| `parpok.xyz` | Yes |
 | `parrot-ctfs.com` | Yes |
 | `parrygod.club` | No |
 | `pars.ee` | No |
@@ -41166,6 +41168,7 @@ Here's a list of public Fediverse services.
 | `wa1.net` | No |
 | `waag.org` | No |
 | `waag.social` | No |
+| `waah.day` | No |
 | `waarisguus.com` | No |
 | `waarland.eu` | No |
 | `wabarr.com` | No |
@@ -43648,8 +43651,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,259 |
-| Normal | 32,346 |
+| Cloudflare | 11,261 |
+| Normal | 32,347 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
