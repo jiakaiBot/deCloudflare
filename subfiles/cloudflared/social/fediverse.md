@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,605 |
+| com | 6,606 |
 | social | 4,201 |
-| net | 3,340 |
+| net | 3,342 |
 | org | 2,310 |
 | de | 2,172 |
 
@@ -2986,6 +2986,7 @@ Here's a list of public Fediverse services.
 | `autumnsky.jp` | No |
 | `autumnsky.us` | No |
 | `aux-vieux-bourguignons.fr` | No |
+| `auxjack.net` | No |
 | `auxroro.com` | No |
 | `av8r.ca` | No |
 | `avali.co.uk` | Yes |
@@ -15140,6 +15141,7 @@ Here's a list of public Fediverse services.
 | `hacked.im` | No |
 | `hacker.photos` | Yes |
 | `hacker.rehab` | No |
+| `hackerbots.net` | No |
 | `hackerbruecke.org` | No |
 | `hackerbun.social` | No |
 | `hackerdecabecera.com` | No |
@@ -21793,6 +21795,7 @@ Here's a list of public Fediverse services.
 | `loveisover.me` | No |
 | `lovelace.social` | No |
 | `lovelacec.org` | No |
+| `lovelawrobots.com` | Yes |
 | `lovelinus.club` | No |
 | `lovelive-anime.tk` | No |
 | `lovelive-mstdn.com` | No |
@@ -43651,8 +43654,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,261 |
-| Normal | 32,347 |
+| Cloudflare | 11,262 |
+| Normal | 32,349 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
