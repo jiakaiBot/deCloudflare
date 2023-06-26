@@ -14606,6 +14606,7 @@ Here's a list of public Fediverse services.
 | `goroundtrip.co` | Yes |
 | `gorritodeplata.xyz` | No |
 | `gory.social` | No |
+| `gosen.cyou` | Yes |
 | `goshdarn.fun` | No |
 | `gosia.lol` | No |
 | `goslar.social` | No |
@@ -19459,7 +19460,7 @@ Here's a list of public Fediverse services.
 | `kinks.wtf` | Yes |
 | `kinkster.dk` | No |
 | `kinktroet.social` | No |
-| `kinkuroshideout.com` | Yes |
+| `kinkuroshideout.com` | No |
 | `kinkworks.com` | Yes |
 | `kinky.business` | Yes |
 | `kinkyelephant.com` | No |
@@ -24513,6 +24514,7 @@ Here's a list of public Fediverse services.
 | `misso-pi.com` | No |
 | `misspi.net` | Yes |
 | `misstter.com` | Yes |
+| `missty.world` | Yes |
 | `mist.so` | No |
 | `mistah-v.com` | No |
 | `mistelske.com` | No |
@@ -43630,8 +43632,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,251 |
-| Normal | 32,336 |
+| Cloudflare | 11,252 |
+| Normal | 32,337 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
