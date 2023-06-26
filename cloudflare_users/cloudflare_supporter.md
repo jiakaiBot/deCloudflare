@@ -2216,6 +2216,7 @@ Do not create new issue or we will close it as duplicate.
 | [chok_thewa@twitter](https://twitter.com/chok_thewa/status/1467504123083833347) | advertise |
 | [Chok_Wapee@twitter](https://twitter.com/Chok_Wapee/status/1625779052723441664) | advertise |
 | [ChoMee34586348@twitter](https://twitter.com/ChoMee34586348/status/1390339608395739136) | advertise |
+| [cHong784950@twitter](https://twitter.com/cHong784950/status/1673199763997728771) | advertise |
 | [ChoonHtun@twitter](https://twitter.com/ChoonHtun/status/1380902744744062977) | advertise |
 | [Chop_paza@twitter](https://twitter.com/Chop_paza/status/1394814812010422277) | advertise |
 | [ChothaniMahek@twitter](https://twitter.com/ChothaniMahek/status/1396494925001199620) | advertise |
