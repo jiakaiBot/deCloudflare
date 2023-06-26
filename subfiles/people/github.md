@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Nginx Proxy Manager LXC update not working in Debian 12](https://github.com/tteck/Proxmox/issues/1544)
 - [Error ERR_STREAM_PREMATURE_CLOSE: Premature close in Node Pipeline stream](https://github.com/honojs/node-server/issues/60)
 - [cloudflare is not allowing to access via rest assured](https://github.com/typicode/jsonplaceholder/issues/195)
 - [Cannot publish plot images](https://github.com/iterative/cml_dvc_case/issues/28)
