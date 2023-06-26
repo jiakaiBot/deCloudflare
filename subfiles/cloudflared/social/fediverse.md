@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,607 |
+| com | 6,609 |
 | social | 4,201 |
 | net | 3,342 |
 | org | 2,310 |
@@ -6611,7 +6611,7 @@ Here's a list of public Fediverse services.
 | `clc.plus` | No |
 | `cldsvc.io` | No |
 | `cleac.me` | No |
-| `cleantechnica.com` | No |
+| `cleantechnica.com` | Yes |
 | `clearairflying.com` | Yes |
 | `clearly.rocks` | Yes |
 | `clearpixels.org` | Yes |
@@ -9353,7 +9353,7 @@ Here's a list of public Fediverse services.
 | `discorded.io` | No |
 | `discordian.social` | No |
 | `discorporea.com` | No |
-| `discothe.quest` | No |
+| `discothe.quest` | Yes |
 | `discourse-research.net` | No |
 | `discourse.org` | Yes |
 | `discourse.social` | Yes |
@@ -16862,6 +16862,7 @@ Here's a list of public Fediverse services.
 | `ihost.fi` | No |
 | `ihuvudetpaengranddanoisgalning.blog` | Yes |
 | `ii.md` | Yes |
+| `ii7mood.com` | Yes |
 | `iily.cc` | No |
 | `iim.gay` | No |
 | `ijaron.life` | Yes |
@@ -37615,6 +37616,7 @@ Here's a list of public Fediverse services.
 | `terrible.gay` | No |
 | `terrible.graphics` | No |
 | `terrible.place` | No |
+| `terribleterrapin.com` | Yes |
 | `terribly.social` | No |
 | `territoridigitali.org` | No |
 | `terror.black` | No |
@@ -43659,8 +43661,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,265 |
-| Normal | 32,351 |
+| Cloudflare | 11,269 |
+| Normal | 32,349 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
