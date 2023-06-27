@@ -5243,7 +5243,7 @@ Here's a list of public Fediverse services.
 | `bunix.de` | No |
 | `bunji.social` | Yes |
 | `bunkerchan.xyz` | Yes |
-| `bunne.garden` | No |
+| `bunne.garden` | Yes |
 | `bunnegirl.solutions` | No |
 | `bunni.eu` | No |
 | `bunnies.gay` | No |
@@ -16939,6 +16939,7 @@ Here's a list of public Fediverse services.
 | `ilovepunjabi.com` | No |
 | `ilovewasting.ink` | No |
 | `ilus.io` | Yes |
+| `ilustre.li` | Yes |
 | `ilvar.ru` | No |
 | `ilyakelner.com` | No |
 | `ilyamikcoder.com` | No |
@@ -43702,8 +43703,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,291 |
-| Normal | 32,368 |
+| Cloudflare | 11,293 |
+| Normal | 32,367 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
