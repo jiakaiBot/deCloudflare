@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [503 Service unavaliable](https://github.com/DarkCat09/python-aternos/issues/88)
 - [Unable to verify custom chain contract address](https://github.com/NomicFoundation/hardhat/issues/4070)
 - [Nginx Proxy Manager LXC update not working in Debian 12](https://github.com/tteck/Proxmox/issues/1544)
 - [Error ERR_STREAM_PREMATURE_CLOSE: Premature close in Node Pipeline stream](https://github.com/honojs/node-server/issues/60)
