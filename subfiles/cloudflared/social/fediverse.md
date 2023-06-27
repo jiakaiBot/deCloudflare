@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,204 |
 | net | 3,343 |
 | org | 2,311 |
-| de | 2,172 |
+| de | 2,173 |
 
 
 - Mastodon, Pleroma, etc
@@ -3534,6 +3534,7 @@ Here's a list of public Fediverse services.
 | `bastien.social` | No |
 | `bastique.com` | No |
 | `bastodon.org` | Yes |
+| `baswag.de` | No |
 | `bat.chat` | No |
 | `batato.be` | No |
 | `batchats.net` | No |
@@ -14344,7 +14345,7 @@ Here's a list of public Fediverse services.
 | `glitterforest.xyz` | No |
 | `glittering.diamonds` | No |
 | `glitterkitten.co.uk` | No |
-| `glittersluts.club` | No |
+| `glittersluts.club` | Yes |
 | `glittersluts.xyz` | No |
 | `glitterwillowforest.xyz` | No |
 | `glittr.social` | Yes |
@@ -23178,6 +23179,7 @@ Here's a list of public Fediverse services.
 | `mastodoncuba.club` | No |
 | `mastodonczech.cz` | No |
 | `mastodondebug.link` | No |
+| `mastodonek.pl` | No |
 | `mastodoners.net` | No |
 | `mastodones.club` | No |
 | `mastodonevolve.social` | No |
@@ -43688,8 +43690,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,282 |
-| Normal | 32,363 |
+| Cloudflare | 11,283 |
+| Normal | 32,364 |
 
 
-### 25.8% of public Fediverse services are using Cloudflare.
+### 25.9% of public Fediverse services are using Cloudflare.
