@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,613 |
+| com | 6,614 |
 | social | 4,204 |
 | net | 3,343 |
 | org | 2,311 |
@@ -5214,6 +5214,7 @@ Here's a list of public Fediverse services.
 | `bullaren.cloud` | No |
 | `bullcity.space` | Yes |
 | `buller.cc` | No |
+| `bulletintree.com` | No |
 | `bulletsender.com` | No |
 | `bullgit.party` | No |
 | `bulman.social` | No |
@@ -9660,7 +9661,7 @@ Here's a list of public Fediverse services.
 | `domm.me` | Yes |
 | `dommunicate.com` | Yes |
 | `domo.cafe` | Yes |
-| `domori.club` | No |
+| `domori.club` | Yes |
 | `domov.de` | No |
 | `domtube.de` | No |
 | `don.im` | Yes |
@@ -43690,7 +43691,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,283 |
+| Cloudflare | 11,284 |
 | Normal | 32,364 |
 
 
