@@ -2794,6 +2794,7 @@ Here's a list of public Fediverse services.
 | `ataricafe.com` | Yes |
 | `atarijunge.de` | No |
 | `ataxya.net` | Yes |
+| `atay.dev` | No |
 | `atbdguy.one` | Yes |
 | `atbigelow.com` | No |
 | `atchao.info` | No |
@@ -3099,6 +3100,7 @@ Here's a list of public Fediverse services.
 | `axeleroy.com` | No |
 | `axelriemann.de` | Yes |
 | `axhxrx.com` | Yes |
+| `axi.cx` | Yes |
 | `axidstudios.com` | Yes |
 | `axiixc.com` | No |
 | `axilus.network` | No |
@@ -6599,7 +6601,7 @@ Here's a list of public Fediverse services.
 | `classeszimmermann.ch` | No |
 | `classicalmusic.social` | No |
 | `classifiedcosmos.com` | No |
-| `clatter.eu` | No |
+| `clatter.eu` | Yes |
 | `clatza.dev` | No |
 | `claudon.me` | No |
 | `clausgames.com` | Yes |
@@ -6794,7 +6796,7 @@ Here's a list of public Fediverse services.
 | `cnschn.com` | Yes |
 | `cnt.social` | No |
 | `cnuc.nu` | No |
-| `cnvrs.net` | No |
+| `cnvrs.net` | Yes |
 | `co-mastdn.ga` | No |
 | `co-operations.fr` | No |
 | `co-shaoghal.net` | No |
@@ -14312,7 +14314,7 @@ Here's a list of public Fediverse services.
 | `gleisnetze.de` | No |
 | `glemza.net` | Yes |
 | `glen.social` | No |
-| `glend.me` | No |
+| `glend.me` | Yes |
 | `glenelg.io` | Yes |
 | `glenelg.social` | Yes |
 | `glenetive.org` | No |
@@ -19127,7 +19129,7 @@ Here's a list of public Fediverse services.
 | `kbin.lol` | No |
 | `kbin.place` | No |
 | `kbin.pub` | Yes |
-| `kbin.run` | No |
+| `kbin.run` | Yes |
 | `kbin.sh` | No |
 | `kbin.social` | Yes |
 | `kbrice.blog` | No |
@@ -20809,7 +20811,7 @@ Here's a list of public Fediverse services.
 | `lemmings.online` | No |
 | `lemmit.xyz` | Yes |
 | `lemmony.click` | No |
-| `lemmy.blue` | No |
+| `lemmy.blue` | Yes |
 | `lemmy.buzz` | No |
 | `lemmy.ca` | No |
 | `lemmy.cafe` | No |
@@ -25723,6 +25725,7 @@ Here's a list of public Fediverse services.
 | `mycard.moe` | Yes |
 | `mycat.cn` | No |
 | `mycelium.garden` | No |
+| `mycircle.events` | Yes |
 | `mycloud.site` | Yes |
 | `myco.social` | No |
 | `myco.systems` | No |
@@ -26766,6 +26769,7 @@ Here's a list of public Fediverse services.
 | `nickuntitled.com` | Yes |
 | `nickw.io` | Yes |
 | `nickwasused.com` | Yes |
+| `nickwebster.dev` | Yes |
 | `nickwood.ninja` | No |
 | `nickwrites.ca` | No |
 | `nickz.org` | No |
@@ -33600,7 +33604,7 @@ Here's a list of public Fediverse services.
 | `schmaller.de` | No |
 | `schmarrn.dev` | No |
 | `schmarty.net` | No |
-| `schmeisserweb.at` | No |
+| `schmeisserweb.at` | Yes |
 | `schmic.eu` | Yes |
 | `schmid.tv` | Yes |
 | `schmidl.dev` | No |
@@ -39220,6 +39224,7 @@ Here's a list of public Fediverse services.
 | `travisshears.xyz` | No |
 | `travisthieman.com` | Yes |
 | `travnewmatic.com` | Yes |
+| `trax.dance` | No |
 | `traxo.net` | Yes |
 | `traydent.info` | No |
 | `trayvonmart.in` | Yes |
@@ -43683,8 +43688,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,273 |
-| Normal | 32,367 |
+| Cloudflare | 11,282 |
+| Normal | 32,363 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
