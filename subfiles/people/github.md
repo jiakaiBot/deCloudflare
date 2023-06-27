@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [APIError: Bad gateway. {"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}...](https://github.com/buttondown-email/roadmap/issues/1620)
 - [Don't advise to use tinyurl for Cardano stakepool metadata, they use Cloudflare with occasional CAPTCHAs](https://github.com/coincashew/coincashew/issues/179)
 - [503 Service unavaliable](https://github.com/DarkCat09/python-aternos/issues/88)
 - [Unable to verify custom chain contract address](https://github.com/NomicFoundation/hardhat/issues/4070)
