@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,616 |
 | social | 4,204 |
-| net | 3,343 |
+| net | 3,344 |
 | org | 2,311 |
 | de | 2,173 |
 
@@ -26478,6 +26478,7 @@ Here's a list of public Fediverse services.
 | `nerdynate.live` | Yes |
 | `nerdzoom.media` | No |
 | `nere9.help` | No |
+| `nerfed.net` | No |
 | `nerfherders.io` | Yes |
 | `neria.link` | Yes |
 | `neriko.net` | Yes |
@@ -28849,7 +28850,7 @@ Here's a list of public Fediverse services.
 | `pablofernandez.tech` | Yes |
 | `pablom.org` | No |
 | `pablomorales.blog` | Yes |
-| `pablos.cloud` | No |
+| `pablos.cloud` | Yes |
 | `pablosystems.fr` | No |
 | `pabs.xyz` | No |
 | `pacapime.ovh` | No |
@@ -43695,7 +43696,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,288 |
+| Cloudflare | 11,289 |
 | Normal | 32,364 |
 
 
