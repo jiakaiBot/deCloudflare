@@ -2324,6 +2324,7 @@ Do not create new issue or we will close it as duplicate.
 | [CocainCua@twitter](https://twitter.com/CocainCua/status/1646953325060059136) | advertise |
 | [coccocxi@twitter](https://twitter.com/coccocxi/status/1543106929311879169) | advertise |
 | [cocombatsports@twitter](https://twitter.com/cocombatsports/status/1588279260292079616) | advertise |
+| [CocoTheFunny@twitter](https://twitter.com/CocoTheFunny/status/1673559094299594752) | advertise |
 | [codeberg.org](https://www.codeberg.org/) | [HISTORY.md](../HISTORY.md) |
 | [codehex@twitter](https://twitter.com/codehex/status/1671513194177650691) | advertise |
 | [codemorningsir@twitter](https://twitter.com/codemorningsir/status/1641690651057352704) | advertise |
