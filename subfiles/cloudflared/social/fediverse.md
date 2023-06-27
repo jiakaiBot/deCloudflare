@@ -7005,7 +7005,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -20587,6 +20587,7 @@ Here's a list of public Fediverse services.
 | `lavanderblue.art` | Yes |
 | `lavatech.top` | Yes |
 | `lavenby.site` | Yes |
+| `lavenderfield.xyz` | No |
 | `laverdu.re` | No |
 | `lavergne.online` | No |
 | `laviadililith.eu` | No |
@@ -33150,7 +33151,7 @@ Here's a list of public Fediverse services.
 | `sageresearchmethods.com` | No |
 | `saghul.net` | Yes |
 | `sagt.xyz` | No |
-| `sahagyo.com` | No |
+| `sahagyo.com` | Yes |
 | `sahilister.in` | No |
 | `saibo.world` | No |
 | `saibou.work` | No |
@@ -43691,8 +43692,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,284 |
-| Normal | 32,364 |
+| Cloudflare | 11,286 |
+| Normal | 32,363 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
