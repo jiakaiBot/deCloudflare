@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,616 |
 | social | 4,204 |
 | net | 3,344 |
-| org | 2,311 |
+| org | 2,312 |
 | de | 2,173 |
 
 
@@ -6384,6 +6384,7 @@ Here's a list of public Fediverse services.
 | `chriskthomas.com` | Yes |
 | `chrislesch.de` | No |
 | `chrisliebaer.de` | No |
+| `chrislott.org` | No |
 | `chrislovett.com` | Yes |
 | `chrismaiorana.com` | No |
 | `chrismcallister.co.uk` | No |
@@ -16930,6 +16931,7 @@ Here's a list of public Fediverse services.
 | `illustietor.com` | No |
 | `illyasviel.cf` | No |
 | `ilnk.info` | No |
+| `ilot.io` | Yes |
 | `ilot.social` | No |
 | `ilove.bzh` | No |
 | `ilovedbt.com` | No |
@@ -19316,6 +19318,7 @@ Here's a list of public Fediverse services.
 | `kevinschachtschneider.net` | No |
 | `kevinthomaseagan.com` | No |
 | `kevinvandam.me` | No |
+| `kevinwhalen.me` | No |
 | `kevinwhalen.org` | No |
 | `kevinyank.com` | No |
 | `kevjack.eu` | No |
@@ -19745,6 +19748,7 @@ Here's a list of public Fediverse services.
 | `koalahub.io` | No |
 | `kob-net.de` | No |
 | `kobalt.dev` | No |
+| `kobeni.love` | No |
 | `kobitola.com` | No |
 | `koboksdon.net` | Yes |
 | `kobokskobok.com` | No |
@@ -21831,6 +21835,7 @@ Here's a list of public Fediverse services.
 | `lovethe.wang` | No |
 | `lovetux.net` | No |
 | `loveyourdemons.games` | No |
+| `lovingcounty.cafe` | No |
 | `lovingexpressions.net` | No |
 | `low5.de` | No |
 | `lowb.run` | Yes |
@@ -30181,6 +30186,7 @@ Here's a list of public Fediverse services.
 | `pod.ms` | No |
 | `pod.social` | No |
 | `podaboutli.st` | Yes |
+| `podcast-as-code.show` | Yes |
 | `podcast.audio` | No |
 | `podcast.nagoya` | No |
 | `podcast.style` | No |
@@ -43696,8 +43702,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,289 |
-| Normal | 32,364 |
+| Cloudflare | 11,291 |
+| Normal | 32,368 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
