@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Various Extension Errors on Enterprise Network with TLS Inspection](https://github.com/github/vscode-github-actions/issues/225)
 - [Would it be possible to automatically update the header/cookies via Selenium WebDriver?](https://github.com/helallao/perplexity-ai/issues/2)
 - [klaviyo.Templates.get_template return error 500](https://github.com/klaviyo/klaviyo-api-python/issues/27)
 - [APIError: Bad gateway. {"error":{"code":502,"message":"Bad gateway.","param":null,"type":"cf_bad_gateway"}}...](https://github.com/buttondown-email/roadmap/issues/1620)
