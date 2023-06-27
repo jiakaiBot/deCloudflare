@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,615 |
+| com | 6,616 |
 | social | 4,204 |
 | net | 3,343 |
 | org | 2,311 |
@@ -38182,6 +38182,7 @@ Here's a list of public Fediverse services.
 | `thesolarrepublic.org` | Yes |
 | `thespence.space` | No |
 | `thespinning.top` | No |
+| `thesqooid.com` | Yes |
 | `thestarsetsociety.cn` | Yes |
 | `thestonedapes.com` | Yes |
 | `thestopbutton.com` | No |
@@ -43693,7 +43694,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,286 |
+| Cloudflare | 11,287 |
 | Normal | 32,364 |
 
 
