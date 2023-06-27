@@ -3714,6 +3714,7 @@ Do not create new issue or we will close it as duplicate.
 | [gdnunites@twitter](https://twitter.com/gdnunites/status/1425544488487899137) | advertise |
 | [Geetharbtr4@twitter](https://twitter.com/Geetharbtr4/status/1391301352949620740) | advertise |
 | [geminiboi10@twitter](https://twitter.com/geminiboi10/status/1640884461763198978) | advertise |
+| [Gemini_Japo@twitter](https://twitter.com/Gemini_Japo/status/1673594566740709378) | advertise |
 | [gemnguyen4125@twitter](https://twitter.com/gemnguyen4125/status/1471739773786025987) | advertise |
 | [gemstoneslover@twitter](https://twitter.com/gemstoneslover/status/1376813245416173571) | advertise |
 | [GeneralGosu@twitter](https://twitter.com/GeneralGosu/status/1387508776429780993) | advertise |
