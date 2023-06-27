@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,611 |
-| social | 4,202 |
-| net | 3,342 |
+| com | 6,613 |
+| social | 4,204 |
+| net | 3,343 |
 | org | 2,311 |
 | de | 2,172 |
 
@@ -853,7 +853,7 @@ Here's a list of public Fediverse services.
 | `absolutelyhar.am` | No |
 | `abstract.properties` | No |
 | `abstract.town` | Yes |
-| `abstractbits.net` | No |
+| `abstractbits.net` | Yes |
 | `abstractionleak.com` | No |
 | `abstrct.us` | No |
 | `absturztau.be` | No |
@@ -3381,6 +3381,7 @@ Here's a list of public Fediverse services.
 | `bananachips.club` | No |
 | `bananahackers.net` | No |
 | `banananet.work` | No |
+| `bandaholics.cash` | Yes |
 | `bandeng.club` | No |
 | `bandersnatch.xyz` | Yes |
 | `bandshell.rocks` | No |
@@ -7000,7 +7001,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8173,7 +8174,7 @@ Here's a list of public Fediverse services.
 | `dahlstrand.net` | Yes |
 | `daichan.club` | No |
 | `daiko.fr` | No |
-| `daily.surf` | Yes |
+| `daily.surf` | No |
 | `dailysouthafrican.co.za` | No |
 | `dailywebthing.com` | No |
 | `dain.moe` | Yes |
@@ -8791,6 +8792,7 @@ Here's a list of public Fediverse services.
 | `delaage.org` | No |
 | `delab.re` | No |
 | `delaeuforia.com` | Yes |
+| `delamunoza.es` | No |
 | `delange.us` | No |
 | `delat.net` | No |
 | `delbertbeta.cc` | No |
@@ -11713,6 +11715,7 @@ Here's a list of public Fediverse services.
 | `fasol.nl` | No |
 | `fast-break.de` | No |
 | `fast-email.link` | Yes |
+| `fastco.social` | No |
 | `fastdon.com` | No |
 | `fasterwhen.red` | No |
 | `fastly.social` | No |
@@ -20822,7 +20825,7 @@ Here's a list of public Fediverse services.
 | `lemmy.management` | No |
 | `lemmy.ml` | No |
 | `lemmy.my.id` | No |
-| `lemmy.name` | No |
+| `lemmy.name` | Yes |
 | `lemmy.nexus` | Yes |
 | `lemmy.ninja` | No |
 | `lemmy.nz` | Yes |
@@ -27325,6 +27328,7 @@ Here's a list of public Fediverse services.
 | `nota.pub` | No |
 | `notactuallyacat.com` | No |
 | `notacult.social` | No |
+| `notadroid.com` | No |
 | `notagovernment.agency` | Yes |
 | `notandy.de` | No |
 | `notanow.net` | No |
@@ -28764,6 +28768,7 @@ Here's a list of public Fediverse services.
 | `owo.rs` | Yes |
 | `owo.sg` | Yes |
 | `owo.town` | No |
+| `owonet.work` | Yes |
 | `owotel.com` | Yes |
 | `oxasploits.com` | Yes |
 | `oxel.me` | No |
@@ -31424,6 +31429,7 @@ Here's a list of public Fediverse services.
 | `radiomind.com` | No |
 | `radionlya.casa` | No |
 | `radiopatio.social` | No |
+| `radioriquelme.cl` | Yes |
 | `radiosdigitales.es` | No |
 | `radiosocial.de` | No |
 | `radiosocial.org` | Yes |
@@ -35817,6 +35823,7 @@ Here's a list of public Fediverse services.
 | `sprinklerz.xyz` | No |
 | `sprite.land` | No |
 | `spritesmods.com` | No |
+| `spritesserver.nl` | No |
 | `sprkwd.com` | No |
 | `sprocket.group` | No |
 | `sprocketfox.io` | No |
@@ -37402,6 +37409,7 @@ Here's a list of public Fediverse services.
 | `techied.dev` | Yes |
 | `techies.social` | Yes |
 | `techisland.social` | No |
+| `techislife.space` | No |
 | `techknowlogick.com` | Yes |
 | `techlifeweb.com` | No |
 | `techlodon.com` | No |
@@ -38785,6 +38793,7 @@ Here's a list of public Fediverse services.
 | `toniozz75.fr` | Yes |
 | `tonkku.me` | No |
 | `tonos.io` | No |
+| `tonybark.art` | No |
 | `tonybark.com` | No |
 | `tonydu.co` | Yes |
 | `tonyfleming.me` | No |
@@ -39697,6 +39706,7 @@ Here's a list of public Fediverse services.
 | `twirper.com` | No |
 | `twistedsifter.com` | No |
 | `twistme.in` | No |
+| `twit-guide.com` | No |
 | `twit.social` | No |
 | `twitbridge.click` | No |
 | `twitchain.net` | No |
@@ -40532,6 +40542,7 @@ Here's a list of public Fediverse services.
 | `vara.lol` | Yes |
 | `varia.zone` | No |
 | `variety.com` | Yes |
+| `variousbits.net` | Yes |
 | `varis.social` | Yes |
 | `varis.tv` | Yes |
 | `varishangout.com` | Yes |
@@ -41792,6 +41803,7 @@ Here's a list of public Fediverse services.
 | `wikimedia.de` | No |
 | `wikimedia.es` | No |
 | `wikimedia.pt` | Yes |
+| `wikimedia.social` | No |
 | `wikis.world` | No |
 | `wikitetas.club` | No |
 | `wikitetas.live` | No |
@@ -43671,8 +43683,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,269 |
-| Normal | 32,359 |
+| Cloudflare | 11,273 |
+| Normal | 32,367 |
 
 
 ### 25.8% of public Fediverse services are using Cloudflare.
