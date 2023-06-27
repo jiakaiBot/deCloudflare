@@ -11188,7 +11188,7 @@ Here's a list of public Fediverse services.
 | `estrisabnor.com` | Yes |
 | `estrogen.cat` | Yes |
 | `estrogen.network` | Yes |
-| `estrogen.plus` | No |
+| `estrogen.plus` | Yes |
 | `estwald.icu` | No |
 | `et-puis.eu` | No |
 | `eta-expanse.online` | No |
@@ -38460,6 +38460,7 @@ Here's a list of public Fediverse services.
 | `tigger.social` | No |
 | `tiggi.es` | No |
 | `tighnari.site` | Yes |
+| `tigr.dad` | No |
 | `tigr.space` | No |
 | `tigvarts.com` | No |
 | `tigwali.fr` | No |
@@ -43694,7 +43695,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,287 |
+| Cloudflare | 11,288 |
 | Normal | 32,364 |
 
 
