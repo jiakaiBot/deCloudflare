@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-06-26: [Increased HTTP 530 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/3chbkl9nx1vr)
 - 2023-06-26: [China visitors cannot complete Cloudflare challenges](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/rz0j479qms4q)
 - 2023-06-23: [Cloudflare Recommendations](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fr8jwq85nr74)
 - 2023-06-23: [Network Performance Issues in Germany](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xb8vfgd0bs53)
