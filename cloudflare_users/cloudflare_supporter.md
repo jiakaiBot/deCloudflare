@@ -12330,6 +12330,7 @@ Do not create new issue or we will close it as duplicate.
 | [trukmaktufly@twitter](https://twitter.com/trukmaktufly/status/1597704732617084928) | advertise |
 | [Trun89992376@twitter](https://twitter.com/Trun89992376/status/1552310055277436929) | advertise |
 | [Trung91Tn2@twitter](https://twitter.com/Trung91Tn2/status/1552638456903651329) | advertise |
+| [trung560772@twitter](https://twitter.com/trung560772/status/1673693282545831936) | advertise |
 | [trung19044252@twitter](https://twitter.com/trung19044252/status/1553121039697444864) | advertise |
 | [Trung28039895@twitter](https://twitter.com/Trung28039895/status/1595535763294523392) | advertise |
 | [Trung937585032@twitter](https://twitter.com/Trung937585032/status/1585030799409442816) | advertise |
