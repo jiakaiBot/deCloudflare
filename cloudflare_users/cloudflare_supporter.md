@@ -6441,6 +6441,7 @@ Do not create new issue or we will close it as duplicate.
 | [Labongze_@twitter](https://twitter.com/Labongze_/status/1401586761776652295) | advertise |
 | [Labpreet4@twitter](https://twitter.com/Labpreet4/status/1385826145350918146) | advertise |
 | [LabradaSandoval@twitter](https://twitter.com/LabradaSandoval/status/1381051321848102912) | advertise |
+| [LabsDezign@twitter](https://twitter.com/LabsDezign/status/1674068124318982154) | advertise |
 | [LadyBarani@twitter](https://twitter.com/LadyBarani/status/1387925243558248449) | advertise |
 | [ladyknife88@twitter](https://twitter.com/ladyknife88/status/1401229529452990467) | advertise |
 | [LaeWai@twitter](https://twitter.com/LaeWai/status/1612691656574369794) | advertise |
