@@ -8662,6 +8662,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nh95038329@twitter](https://twitter.com/Nh95038329/status/1564050613369188353) | advertise |
 | [nhan1767@twitter](https://twitter.com/nhan1767/status/1477412506297835520) | advertise |
 | [Nhan26459038@twitter](https://twitter.com/Nhan26459038/status/1403623731851714560) | advertise |
+| [Nhan93992500@twitter](https://twitter.com/Nhan93992500/status/1673939511552937984) | advertise |
 | [Nhanle2208@twitter](https://twitter.com/Nhanle2208/status/1615997135811653633) | advertise |
 | [nhann1810@twitter](https://twitter.com/nhann1810/status/1552949975642161152) | advertise |
 | [NhanNeyugn@twitter](https://twitter.com/NhanNeyugn/status/1566722523274027009) | advertise |
