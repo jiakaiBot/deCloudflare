@@ -15292,7 +15292,7 @@ Here's a list of public Fediverse services.
 | `halfeatenfood.com` | Yes |
 | `halfey.moe` | Yes |
 | `halfling13.com` | No |
-| `halfmemories.com` | No |
+| `halfmemories.com` | Yes |
 | `halfpastfour.club` | No |
 | `halfstreet.social` | No |
 | `halibut.com` | No |
@@ -42842,6 +42842,7 @@ Here's a list of public Fediverse services.
 | `yalcinseckin.eu` | No |
 | `yalla.quest` | No |
 | `yallywood.club` | No |
+| `yaltaca.xyz` | Yes |
 | `yamabi.co` | No |
 | `yamachan.org` | No |
 | `yamagadon.com` | No |
@@ -43720,8 +43721,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,297 |
-| Normal | 32,380 |
+| Cloudflare | 11,299 |
+| Normal | 32,379 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
