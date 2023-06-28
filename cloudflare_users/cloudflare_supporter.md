@@ -4460,6 +4460,7 @@ Do not create new issue or we will close it as duplicate.
 | [hon24112001@twitter](https://twitter.com/hon24112001/status/1552954462532034562) | advertise |
 | [honekatsu@twitter](https://twitter.com/honekatsu/status/1610185770450702336) | advertise |
 | [HoneyKy27043553@twitter](https://twitter.com/HoneyKy27043553/status/1552272274937356288) | advertise |
+| [honey_stays@twitter](https://twitter.com/honey_stays/status/1673844507929092096) | advertise |
 | [hong37027741@twitter](https://twitter.com/hong37027741/status/1498676585079410694) | advertise |
 | [Hong40127590@twitter](https://twitter.com/Hong40127590/status/1397596489220640774) | advertise |
 | [Hong49711157@twitter](https://twitter.com/Hong49711157/status/1379092889779630082) | advertise |
