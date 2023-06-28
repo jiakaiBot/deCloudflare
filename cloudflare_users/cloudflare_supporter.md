@@ -678,6 +678,7 @@ Do not create new issue or we will close it as duplicate.
 | [altwops@twitter](https://twitter.com/altwops/status/1394378036548571137) | advertise |
 | [Alucard61231443@twitter](https://twitter.com/Alucard61231443/status/1407179688439468039) | advertise |
 | [AlvinKigen@twitter](https://twitter.com/AlvinKigen/status/1382025365930016776) | advertise |
+| [alvinlaz1596@twitter](https://twitter.com/alvinlaz1596/status/1673994539340537860) | advertise |
 | [Alvinn_Garcia@twitter](https://twitter.com/Alvinn_Garcia/status/1384722685666598914) | advertise |
 | [alvin_lavin8@twitter](https://twitter.com/alvin_lavin8/status/1590236241236086784) | advertise |
 | [alwicy1@twitter](https://twitter.com/alwicy1/status/1640380272251379713) | advertise |
