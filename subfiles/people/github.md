@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Question How to enable ssl with cloudflare tunnel?](https://github.com/caprover/caprover/issues/1788)
+- [LightNovelPub not working](https://github.com/LNReader/lnreader-sources/issues/527)
 - [Support for adding Referer and User-agent](https://github.com/wallabag/guzzle-site-authenticator/issues/33)
 - [CF Worker cannot use "nodejs_compat" with 1.18.0 (and previous versions) due to being polyfilled as unsupported](https://github.com/remix-run/remix/issues/6715)
 - [GET being sent with a body](https://github.com/pashky/restclient.el/issues/296)
