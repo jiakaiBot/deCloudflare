@@ -1964,6 +1964,7 @@ Do not create new issue or we will close it as duplicate.
 | [ButtersWorldInc@twitter](https://twitter.com/ButtersWorldInc/status/1490553710006587393) | advertise |
 | [BVnNh4@twitter](https://twitter.com/BVnNh4/status/1382221207257354242) | advertise |
 | [BVoO123@twitter](https://twitter.com/BVoO123/status/1553310624414720002) | advertise |
+| [bwluv22@twitter](https://twitter.com/bwluv22/status/1673959755134676992) | advertise |
 | [BWpzQGeCJgL7bmi@twitter](https://twitter.com/BWpzQGeCJgL7bmi/status/1386781006506516485) | advertise |
 | [bxbubukute98@twitter](https://twitter.com/bxbubukute98/status/1552292325334056961) | advertise |
 | [byambamk@twitter](https://twitter.com/byambamk/status/1390722042400444418) | advertise |
@@ -5314,6 +5315,7 @@ Do not create new issue or we will close it as duplicate.
 | [jewel_maung@twitter](https://twitter.com/jewel_maung/status/1390703603036213248) | advertise |
 | [jgnomeoz@twitter](https://twitter.com/jgnomeoz/status/1490371909997187072) | advertise |
 | [jgzee@twitter](https://twitter.com/jgzee/status/1481465744227401730) | advertise |
+| [JHDN@twitter](https://twitter.com/JHDN/status/1673965181548875778) | advertise |
 | [JhhhOkn@twitter](https://twitter.com/JhhhOkn/status/1600156507588374529) | advertise |
 | [jhnmchlcrpx@twitter](https://twitter.com/jhnmchlcrpx/status/1377245823180804097) | advertise |
 | [Jhon0824@twitter](https://twitter.com/Jhon0824/status/1379091951564247041) | advertise |
