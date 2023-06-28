@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [WARP Cloudflare to Cloak Config](https://github.com/cbeuw/Cloak/issues/224)
+- [pynocaptcha 1.6.0 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/16406)
 - [pynocaptcha 1.5.9 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/16205)
 - [cloudflare module error in make process and cloudflared error](https://github.com/khuedoan/homelab/issues/116)
 - [Various Extension Errors on Enterprise Network with TLS Inspection](https://github.com/github/vscode-github-actions/issues/225)
