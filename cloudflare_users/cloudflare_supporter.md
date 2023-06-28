@@ -10771,6 +10771,7 @@ Do not create new issue or we will close it as duplicate.
 | [shayanjoun@twitter](https://twitter.com/shayanjoun/status/1381894805509275649) | advertise |
 | [ShayDeeMan@twitter](https://twitter.com/ShayDeeMan/status/1427705148231532549) | advertise |
 | [Shayden87162676@twitter](https://twitter.com/Shayden87162676/status/1388560807433211905) | advertise |
+| [shayne2773@twitter](https://twitter.com/shayne2773/status/1674127123546775552) | advertise |
 | [shazbootes89@twitter](https://twitter.com/shazbootes89/status/1673325610414792710) | advertise |
 | [shaziakn@twitter](https://twitter.com/shaziakn/status/1385603154377527297) | advertise |
 | [shehab73896728@twitter](https://twitter.com/shehab73896728/status/1659401901715394560) | advertise |
