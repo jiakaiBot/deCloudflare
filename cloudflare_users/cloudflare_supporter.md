@@ -412,6 +412,7 @@ Do not create new issue or we will close it as duplicate.
 | [aftab_afsal@twitter](https://twitter.com/aftab_afsal/status/1548610479810961408) | advertise |
 | [AgAg14299411@twitter](https://twitter.com/AgAg14299411/status/1396793253467500544) | advertise |
 | [agamx_id@twitter](https://twitter.com/agamx_id/status/1542679382497472513) | advertise |
+| [agam_bar6@twitter](https://twitter.com/agam_bar6/status/1674010096018288645) | advertise |
 | [Agape_val_voce@twitter](https://twitter.com/Agape_val_voce/status/1400940706722689027) | advertise |
 | [Agent_RBLX@twitter](https://twitter.com/Agent_RBLX/status/1383986062100287491) | advertise |
 | [AGhahremani70@twitter](https://twitter.com/AGhahremani70/status/1479589214345908225) | advertise |
@@ -11745,6 +11746,7 @@ Do not create new issue or we will close it as duplicate.
 | [theintthin_z@twitter](https://twitter.com/theintthin_z/status/1380829219115184132) | advertise |
 | [TheinZa60115942@twitter](https://twitter.com/TheinZa60115942/status/1390812885488742400) | advertise |
 | [theisci1@twitter](https://twitter.com/theisci1/status/1671119281457704962) | advertise |
+| [TheitguysRolsen@twitter](https://twitter.com/TheitguysRolsen/status/1673705036332019717) | advertise |
 | [thejakubzelazny@twitter](https://twitter.com/thejakubzelazny/status/1623034341587619857) | advertise |
 | [thejobspower@twitter](https://twitter.com/thejobspower/status/1553773529761730561) | advertise |
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
