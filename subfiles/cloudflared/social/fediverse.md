@@ -7122,6 +7122,7 @@ Here's a list of public Fediverse services.
 | `computerphile.social` | No |
 | `computersocial.club` | No |
 | `computerwerk.org` | No |
+| `computing.zone` | Yes |
 | `compuverse.uk` | Yes |
 | `comradekitty.net` | No |
 | `comradesinarms.social` | No |
@@ -11878,6 +11879,7 @@ Here's a list of public Fediverse services.
 | `fedi.community` | No |
 | `fedi.cr` | No |
 | `fedi.dev` | No |
+| `fedi.es` | Yes |
 | `fedi.exposed` | Yes |
 | `fedi.farm` | No |
 | `fedi.fit` | No |
@@ -12155,6 +12157,7 @@ Here's a list of public Fediverse services.
 | `femboyfor.sale` | No |
 | `femboyfurry.net` | Yes |
 | `femboys.bar` | Yes |
+| `femboys.love` | Yes |
 | `femby.club` | No |
 | `feminine.social` | Yes |
 | `feminism.lgbt` | No |
@@ -43733,7 +43736,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,303 |
+| Cloudflare | 11,306 |
 | Normal | 32,387 |
 
 
