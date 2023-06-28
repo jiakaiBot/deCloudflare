@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,621 |
-| social | 4,206 |
+| social | 4,207 |
 | net | 3,346 |
 | org | 2,312 |
 | de | 2,174 |
@@ -1933,6 +1933,7 @@ Here's a list of public Fediverse services.
 | `andrewbaker.uk` | Yes |
 | `andrewbarnes.design` | No |
 | `andrewburgessphd.com` | No |
+| `andrewbversfeld.co.za` | No |
 | `andrewcantino.com` | No |
 | `andrewleahey.com` | No |
 | `andrewmichaud.com` | No |
@@ -13256,6 +13257,7 @@ Here's a list of public Fediverse services.
 | `fru.bar` | No |
 | `fruchtblasenmett.de` | No |
 | `fruef.social` | No |
+| `fruitingbodies.xyz` | Yes |
 | `fruits.social` | No |
 | `fruitscale.com` | No |
 | `fruitstand.social` | No |
@@ -16472,6 +16474,7 @@ Here's a list of public Fediverse services.
 | `hubzion.net` | No |
 | `huck.website` | No |
 | `huckle.ch` | No |
+| `hucnet.ch` | No |
 | `huebner.tk` | No |
 | `hueck.social` | No |
 | `hueowo.me` | Yes |
@@ -20182,6 +20185,7 @@ Here's a list of public Fediverse services.
 | `kurage.cc` | No |
 | `kurage.top` | No |
 | `kurakake.net` | No |
+| `kurau.tokyo` | No |
 | `kurd.org` | Yes |
 | `kurenai.life` | No |
 | `kureshisen.com` | Yes |
@@ -26867,6 +26871,7 @@ Here's a list of public Fediverse services.
 | `nihil.ws` | No |
 | `nihilist.space` | No |
 | `nihilum.space` | No |
+| `nihongo.social` | No |
 | `nihongoposter.club` | No |
 | `nii-san.club` | No |
 | `nii.so` | No |
@@ -35163,6 +35168,7 @@ Here's a list of public Fediverse services.
 | `sneak.berlin` | Yes |
 | `sneak.ovh` | No |
 | `sneaka.lol` | No |
+| `sneaka.stream` | No |
 | `sneakernet.social` | No |
 | `sneakerwave.net` | Yes |
 | `sneaky.computer` | Yes |
@@ -35789,6 +35795,7 @@ Here's a list of public Fediverse services.
 | `spiwit.net` | No |
 | `spjainplacements.org` | No |
 | `spkt.studio` | No |
+| `spla.tech` | No |
 | `spla2n.ink` | No |
 | `splain.club` | No |
 | `splashcat.social` | Yes |
@@ -40521,6 +40528,7 @@ Here's a list of public Fediverse services.
 | `valdas.space` | Yes |
 | `valde.me` | Yes |
 | `valenciapa.ws` | No |
+| `valentinekindahot.fr` | Yes |
 | `valerauko.net` | No |
 | `valha.la` | No |
 | `valhalla.social` | No |
@@ -43736,8 +43744,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,306 |
-| Normal | 32,387 |
+| Cloudflare | 11,308 |
+| Normal | 32,393 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
