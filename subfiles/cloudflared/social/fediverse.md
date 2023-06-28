@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,620 |
-| social | 4,205 |
-| net | 3,346 |
+| com | 6,621 |
+| social | 4,206 |
+| net | 3,345 |
 | org | 2,312 |
 | de | 2,174 |
 
@@ -238,6 +238,7 @@ Here's a list of public Fediverse services.
 | `1745.info` | No |
 | `1776.report` | No |
 | `1791.social` | Yes |
+| `17oc.com` | No |
 | `184.im` | Yes |
 | `18kink.com` | Yes |
 | `18m250.org` | Yes |
@@ -12064,7 +12065,7 @@ Here's a list of public Fediverse services.
 | `fediverse.services` | No |
 | `fediverse.town` | No |
 | `fediverse.tv` | No |
-| `fediverse.us` | No |
+| `fediverse.us` | Yes |
 | `fediverseis.fun` | No |
 | `fediversekey.com` | No |
 | `fediversereport.com` | No |
@@ -14872,6 +14873,7 @@ Here's a list of public Fediverse services.
 | `grilledcheese.com` | No |
 | `grilledcheese.social` | No |
 | `grim.run` | Yes |
+| `grim.social` | No |
 | `grim.town` | No |
 | `grimbrook.community` | No |
 | `grimerica.ca` | No |
@@ -27616,7 +27618,6 @@ Here's a list of public Fediverse services.
 | `nulltrading.com` | No |
 | `nullwhere.social` | No |
 | `nullzone.fr` | No |
-| `nulun.net` | Yes |
 | `nulvoid.net` | Yes |
 | `numaverse.com` | No |
 | `number5.dev` | Yes |
@@ -31860,6 +31861,7 @@ Here's a list of public Fediverse services.
 | `realshellfish.tech` | Yes |
 | `realsocial.life` | No |
 | `realtime.fyi` | No |
+| `realworldsunny.name` | Yes |
 | `reapers.de` | No |
 | `reasonable.world` | No |
 | `reaves.dev` | No |
@@ -43730,8 +43732,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,301 |
-| Normal | 32,386 |
+| Cloudflare | 11,302 |
+| Normal | 32,387 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
