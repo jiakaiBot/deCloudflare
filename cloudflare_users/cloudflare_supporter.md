@@ -5459,6 +5459,7 @@ Do not create new issue or we will close it as duplicate.
 | [JonhSon57874482@twitter](https://twitter.com/JonhSon57874482/status/1384145288537927685) | advertise |
 | [jonnys558@twitter](https://twitter.com/jonnys558/status/1593282412498374658) | advertise |
 | [Jonsteave1@twitter](https://twitter.com/Jonsteave1/status/1400466186899312644) | advertise |
+| [JonW78478187@twitter](https://twitter.com/JonW78478187/status/1674150744444882946) | advertise |
 | [JoonasPulliain1@twitter](https://twitter.com/JoonasPulliain1/status/1472506852307054594) | advertise |
 | [JoonCathy@twitter](https://twitter.com/JoonCathy/status/1391688136925712391) | advertise |
 | [Jordan51468849@twitter](https://twitter.com/Jordan51468849/status/1607577126001336320) | advertise |
@@ -6459,6 +6460,7 @@ Do not create new issue or we will close it as duplicate.
 | [lam04035@twitter](https://twitter.com/lam04035/status/1569219409956438016) | advertise |
 | [Lam34989379@twitter](https://twitter.com/Lam34989379/status/1500010999960588288) | advertise |
 | [LamChi02566231@twitter](https://twitter.com/LamChi02566231/status/1402533776597475329) | advertise |
+| [LamChiChi32@twitter](https://twitter.com/LamChiChi32/status/1674158011206737921) | advertise |
 | [lamduc321@twitter](https://twitter.com/lamduc321/status/1387107706796871680) | advertise |
 | [lamduong12124@twitter](https://twitter.com/lamduong12124/status/1607251325934522368) | advertise |
 | [lamhaatwebsite@twitter](https://twitter.com/lamhaatwebsite/status/1617450218944872451) | advertise |
