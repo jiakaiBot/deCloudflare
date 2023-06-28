@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,619 |
+| com | 6,620 |
 | social | 4,205 |
-| net | 3,345 |
+| net | 3,346 |
 | org | 2,312 |
 | de | 2,174 |
 
@@ -23931,6 +23931,7 @@ Here's a list of public Fediverse services.
 | `merfolk.social` | No |
 | `mergl.in` | No |
 | `meridiangrp.co.uk` | Yes |
+| `merilairon.com` | Yes |
 | `merill.net` | Yes |
 | `merkel.info` | No |
 | `merkel.social` | Yes |
@@ -27615,6 +27616,7 @@ Here's a list of public Fediverse services.
 | `nulltrading.com` | No |
 | `nullwhere.social` | No |
 | `nullzone.fr` | No |
+| `nulun.net` | Yes |
 | `nulvoid.net` | Yes |
 | `numaverse.com` | No |
 | `number5.dev` | Yes |
@@ -43728,7 +43730,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,299 |
+| Cloudflare | 11,301 |
 | Normal | 32,386 |
 
 
