@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [datadog_synthetics_test - support bodyHash assertion](https://github.com/DataDog/terraform-provider-datadog/issues/1987)
 - [Error 1101: Worker threw exception Cloudflare](https://github.com/reallyMilo/AnnoStamps/issues/40)
 - [Spaces: Support a WAF or proxy for a Space](https://github.com/zinc-collective/convene/issues/1612)
 - [Question How to enable ssl with cloudflare tunnel?](https://github.com/caprover/caprover/issues/1788)
