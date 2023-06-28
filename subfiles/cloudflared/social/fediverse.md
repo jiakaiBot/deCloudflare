@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,205 |
 | net | 3,345 |
 | org | 2,312 |
-| de | 2,173 |
+| de | 2,174 |
 
 
 - Mastodon, Pleroma, etc
@@ -3844,6 +3844,7 @@ Here's a list of public Fediverse services.
 | `berdaguermontes.eu` | No |
 | `berdi.xyz` | No |
 | `berezowski.de` | No |
+| `berg.cl` | No |
 | `berg.social` | No |
 | `bergamot.social` | No |
 | `bergen.social` | No |
@@ -11629,6 +11630,7 @@ Here's a list of public Fediverse services.
 | `familie-de-boer.net` | No |
 | `familie-hanslik.de` | No |
 | `familie-jauss.de` | No |
+| `familie-meusel.de` | No |
 | `familie-tux.de` | No |
 | `familiebijma.nl` | No |
 | `familienfreun.de` | No |
@@ -12303,6 +12305,7 @@ Here's a list of public Fediverse services.
 | `fightxing.com` | Yes |
 | `fignuts.net` | No |
 | `figureskating.online` | Yes |
+| `fihlon.swiss` | No |
 | `fika.moe` | No |
 | `fikaverse.club` | No |
 | `fiks.de` | No |
@@ -22337,6 +22340,7 @@ Here's a list of public Fediverse services.
 | `maguire.social` | No |
 | `magurodon.net` | No |
 | `magus.club` | No |
+| `magusit.xyz` | No |
 | `magyarok.cc` | Yes |
 | `magzu.net` | No |
 | `mahagyani.net` | No |
@@ -40622,6 +40626,7 @@ Here's a list of public Fediverse services.
 | `vdavez.com` | No |
 | `vdh.za.net` | Yes |
 | `vdheide.net` | No |
+| `vdk2ch.ru` | No |
 | `vdna.be` | No |
 | `vdoor.ch` | No |
 | `vdurdome.net` | Yes |
@@ -43724,7 +43729,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,299 |
-| Normal | 32,381 |
+| Normal | 32,386 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
