@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CF Worker cannot use "nodejs_compat" with 1.18.0 (and previous versions) due to being polyfilled as unsupported](https://github.com/remix-run/remix/issues/6715)
+- [GET being sent with a body](https://github.com/pashky/restclient.el/issues/296)
 - [WARP Cloudflare to Cloak Config](https://github.com/cbeuw/Cloak/issues/224)
 - [pynocaptcha 1.6.0 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/16406)
 - [pynocaptcha 1.5.9 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/16205)
