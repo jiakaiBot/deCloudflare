@@ -4859,6 +4859,7 @@ Do not create new issue or we will close it as duplicate.
 | [ICECRUSH00@twitter](https://twitter.com/ICECRUSH00/status/1472748160779001858) | advertise |
 | [IcekungE@twitter](https://twitter.com/IcekungE/status/1398177118391980033) | advertise |
 | [IceLing9990@twitter](https://twitter.com/IceLing9990/status/1377844062489767937) | advertise |
+| [icellent@twitter](https://twitter.com/icellent/status/1674096268556083200) | advertise |
 | [iClutch4Fart@twitter](https://twitter.com/iClutch4Fart/status/1494032001304870916) | advertise |
 | [IcyHear05989673@twitter](https://twitter.com/IcyHear05989673/status/1394815203041169411) | advertise |
 | [idarerick@twitter](https://twitter.com/idarerick/status/1401141019442249729) | advertise |
