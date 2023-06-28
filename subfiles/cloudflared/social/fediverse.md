@@ -4590,6 +4590,7 @@ Here's a list of public Fediverse services.
 | `boba.zone` | No |
 | `bobadon.co.uk` | No |
 | `bobadon.rocks` | No |
+| `bobamilktea.xyz` | No |
 | `bobbel.social` | No |
 | `bobbes.de` | No |
 | `bobbinsrobots.com` | No |
@@ -10681,6 +10682,7 @@ Here's a list of public Fediverse services.
 | `eliconnelly.com` | No |
 | `elict.net` | No |
 | `elie.ski` | Yes |
+| `eliirving.blog` | No |
 | `eliitin-some.fi` | No |
 | `eliittimafia.fi` | Yes |
 | `elijahr.dev` | Yes |
@@ -43722,7 +43724,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,299 |
-| Normal | 32,379 |
+| Normal | 32,381 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
