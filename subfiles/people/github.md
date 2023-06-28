@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [science.org feeds: 403 error](https://github.com/cscarney/syndic/issues/156)
 - [datadog_synthetics_test - support bodyHash assertion](https://github.com/DataDog/terraform-provider-datadog/issues/1987)
 - [Error 1101: Worker threw exception Cloudflare](https://github.com/reallyMilo/AnnoStamps/issues/40)
 - [Spaces: Support a WAF or proxy for a Space](https://github.com/zinc-collective/convene/issues/1612)
