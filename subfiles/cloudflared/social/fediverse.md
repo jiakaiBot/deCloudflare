@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,621 |
 | social | 4,206 |
-| net | 3,345 |
+| net | 3,346 |
 | org | 2,312 |
 | de | 2,174 |
 
@@ -27618,6 +27618,7 @@ Here's a list of public Fediverse services.
 | `nulltrading.com` | No |
 | `nullwhere.social` | No |
 | `nullzone.fr` | No |
+| `nulun.net` | Yes |
 | `nulvoid.net` | Yes |
 | `numaverse.com` | No |
 | `number5.dev` | Yes |
@@ -43732,7 +43733,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,302 |
+| Cloudflare | 11,303 |
 | Normal | 32,387 |
 
 
