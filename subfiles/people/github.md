@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [pynocaptcha 1.5.9 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/16205)
 - [cloudflare module error in make process and cloudflared error](https://github.com/khuedoan/homelab/issues/116)
 - [Various Extension Errors on Enterprise Network with TLS Inspection](https://github.com/github/vscode-github-actions/issues/225)
 - [Would it be possible to automatically update the header/cookies via Selenium WebDriver?](https://github.com/helallao/perplexity-ai/issues/2)
