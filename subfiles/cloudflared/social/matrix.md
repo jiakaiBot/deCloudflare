@@ -33,6 +33,7 @@ Here's a list of public Matrix services.
 | synapse.bark.lgbt | Yes |
 | bolha.chat | Yes |
 | breeze.town | No |
+| buyvm.chat | No |
 | matrix.bytes4u.de | No |
 | matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
@@ -105,6 +106,7 @@ Here's a list of public Matrix services.
 | matrix.supreme.sh | Yes |
 | synod.im | No |
 | matrix.tchncs.de | No |
+| matrix.techsaviours.org | No |
 | matrix.tedomum.net | No |
 | tomesh.net | No |
 | ungleich.matrix.ungleich.cloud | No |
@@ -122,7 +124,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 22 |
-| Normal | 72 |
+| Normal | 74 |
 
 
-### 23.4% of public Matrix services are using Cloudflare.
+### 22.9% of public Matrix services are using Cloudflare.
