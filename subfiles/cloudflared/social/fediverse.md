@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,207 |
 | net | 3,347 |
 | org | 2,312 |
-| de | 2,174 |
+| de | 2,175 |
 
 
 - Mastodon, Pleroma, etc
@@ -2925,6 +2925,7 @@ Here's a list of public Fediverse services.
 | `auroch.be` | No |
 | `auronplay.social` | No |
 | `aurooba.com` | Yes |
+| `auroraplanet.blue` | Yes |
 | `aurorign.social` | No |
 | `aus.green` | Yes |
 | `aus.lgbt` | Yes |
@@ -7012,7 +7013,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -27686,6 +27687,7 @@ Here's a list of public Fediverse services.
 | `nvtn.dev` | No |
 | `nwah.social` | No |
 | `nwb.social` | No |
+| `nwdr.club` | Yes |
 | `nwego.com` | No |
 | `nwex.de` | No |
 | `nwf.earth` | No |
@@ -30305,6 +30307,7 @@ Here's a list of public Fediverse services.
 | `polariton.space` | No |
 | `polarize.us` | No |
 | `polarparty.page` | Yes |
+| `polente.de` | Yes |
 | `polglase.net.au` | Yes |
 | `poli.social` | No |
 | `polisci.network` | No |
@@ -43755,8 +43758,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,311 |
-| Normal | 32,401 |
+| Cloudflare | 11,315 |
+| Normal | 32,400 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
