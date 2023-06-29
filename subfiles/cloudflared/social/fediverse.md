@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,626 |
-| social | 4,207 |
+| social | 4,208 |
 | net | 3,348 |
-| org | 2,312 |
-| de | 2,176 |
+| org | 2,313 |
+| de | 2,179 |
 
 
 - Mastodon, Pleroma, etc
@@ -9879,6 +9879,7 @@ Here's a list of public Fediverse services.
 | `dragons.moe` | No |
 | `dragonsare.gay` | No |
 | `dragonscave.space` | No |
+| `dragonslave.de` | No |
 | `dragonsnest.online` | No |
 | `dragontoot.me` | No |
 | `dragoofamily.com` | No |
@@ -18856,6 +18857,7 @@ Here's a list of public Fediverse services.
 | `kafuka.me` | No |
 | `kag.social` | No |
 | `kagamisskey.com` | Yes |
+| `kagel.ch` | Yes |
 | `kagolug.org` | No |
 | `kagouille.fr` | No |
 | `kagu-tsuchi.com` | No |
@@ -23876,6 +23878,7 @@ Here's a list of public Fediverse services.
 | `memework.org` | Yes |
 | `memiks.fr` | No |
 | `memit.dk` | Yes |
+| `memmex.de` | No |
 | `memo-village.com` | No |
 | `memo-village.online` | Yes |
 | `memo.systems` | Yes |
@@ -28296,6 +28299,7 @@ Here's a list of public Fediverse services.
 | `ooto.me` | No |
 | `oour.org` | No |
 | `ooxxcc.com` | Yes |
+| `ooz.social` | No |
 | `oozry.com` | Yes |
 | `oozuze.social` | No |
 | `opa.re` | Yes |
@@ -31618,6 +31622,7 @@ Here's a list of public Fediverse services.
 | `ramatak.com` | No |
 | `ramble.moe` | Yes |
 | `ramble.space` | No |
+| `rambleon.org` | No |
 | `rambleon.social` | No |
 | `ramblingreaders.org` | No |
 | `ramblings.social` | Yes |
@@ -34746,6 +34751,7 @@ Here's a list of public Fediverse services.
 | `sinblr.com` | No |
 | `sinclear.de` | No |
 | `sincurity.com` | No |
+| `sindastra.de` | Yes |
 | `sindicato.social` | No |
 | `sindominio.net` | No |
 | `sineware.ca` | No |
@@ -43765,8 +43771,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,318 |
-| Normal | 32,404 |
+| Cloudflare | 11,320 |
+| Normal | 32,408 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
