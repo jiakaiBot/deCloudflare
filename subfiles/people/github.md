@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [blocked image when sharing on twitter - cloudflare bot protection](https://github.com/weserv/images/issues/379)
 - [science.org feeds: 403 error](https://github.com/cscarney/syndic/issues/156)
 - [datadog_synthetics_test - support bodyHash assertion](https://github.com/DataDog/terraform-provider-datadog/issues/1987)
 - [Error 1101: Worker threw exception Cloudflare](https://github.com/reallyMilo/AnnoStamps/issues/40)
