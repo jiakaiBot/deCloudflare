@@ -7145,6 +7145,7 @@ Here's a list of public Fediverse services.
 | `concorde.blog` | Yes |
 | `concordia.chat` | No |
 | `concordia.social` | No |
+| `concurrent.world` | No |
 | `conduitry.me` | Yes |
 | `conesphere.cloud` | No |
 | `conesphere.social` | No |
@@ -18946,7 +18947,7 @@ Here's a list of public Fediverse services.
 | `kamens.us` | Yes |
 | `kamikaze.moe` | No |
 | `kamima.fun` | No |
-| `kamima.info` | No |
+| `kamima.info` | Yes |
 | `kamima.online` | No |
 | `kamima.site` | No |
 | `kamisato.xyz` | Yes |
@@ -43239,6 +43240,7 @@ Here's a list of public Fediverse services.
 | `yurialbuquerque.dev` | No |
 | `yurikonanao.cloud` | No |
 | `yurina256.net` | No |
+| `yuriposter.club` | No |
 | `yurisora.com` | No |
 | `yuritopia.net` | No |
 | `yuru.site` | Yes |
@@ -43752,8 +43754,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,310 |
-| Normal | 32,399 |
+| Cloudflare | 11,311 |
+| Normal | 32,400 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
