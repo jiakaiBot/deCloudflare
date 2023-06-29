@@ -696,7 +696,7 @@ Here's a list of public Fediverse services.
 | `9uelle.jp` | No |
 | `9wd.eu` | Yes |
 | `9zn.net` | No |
-| `a-apple.net` | No |
+| `a-apple.net` | Yes |
 | `a-chill.space` | No |
 | `a-db.fr` | Yes |
 | `a-deed.com` | No |
@@ -20852,7 +20852,7 @@ Here's a list of public Fediverse services.
 | `lemmony.click` | No |
 | `lemmy.blue` | Yes |
 | `lemmy.buzz` | No |
-| `lemmy.ca` | No |
+| `lemmy.ca` | Yes |
 | `lemmy.cafe` | No |
 | `lemmy.cat` | No |
 | `lemmy.click` | Yes |
@@ -22969,6 +22969,7 @@ Here's a list of public Fediverse services.
 | `mastodon-blablalinux.be` | No |
 | `mastodon-choco.jp` | No |
 | `mastodon-dus.de` | No |
+| `mastodon-fipa.fr` | No |
 | `mastodon-france.social` | No |
 | `mastodon-hss.ml` | No |
 | `mastodon-il.net` | No |
@@ -43764,8 +43765,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,316 |
-| Normal | 32,405 |
+| Cloudflare | 11,318 |
+| Normal | 32,404 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
