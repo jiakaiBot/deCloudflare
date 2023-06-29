@@ -117,6 +117,7 @@ Do not create new issue or we will close it as duplicate.
 | [9L4I2vwevY6bAL5@twitter](https://twitter.com/9L4I2vwevY6bAL5/status/1389859334419410951) | advertise |
 | [9m165krat@twitter](https://twitter.com/9m165krat/status/1658789132846649344) | advertise |
 | [9_lose@twitter](https://twitter.com/9_lose/status/1383537124788510722) | advertise |
+| [10Bond100@twitter](https://twitter.com/10Bond100/status/1674415257975128070) | advertise |
 | [10kwon_@twitter](https://twitter.com/10kwon_/status/1659920077855281153) | advertise |
 | [11BoizChungTinh@twitter](https://twitter.com/11BoizChungTinh/status/1401051583647911936) | advertise |
 | [11Thanh12@twitter](https://twitter.com/11Thanh12/status/1399774221035655168) | advertise |
@@ -12610,6 +12611,7 @@ Do not create new issue or we will close it as duplicate.
 | [URkar3@twitter](https://twitter.com/URkar3/status/1395564448207704066) | advertise |
 | [us5bowling@twitter](https://twitter.com/us5bowling/status/1598492947045031938) | advertise |
 | [USai01177352@twitter](https://twitter.com/USai01177352/status/1395520546037592064) | advertise |
+| [Usai35Klwshan@twitter](https://twitter.com/Usai35Klwshan/status/1674413479250530305) | advertise |
 | [USANews_online@twitter](https://twitter.com/USANews_online/status/1582324325083885570) | advertise |
 | [usebasekart@twitter](https://twitter.com/usebasekart/status/1663351705977667586) | advertise |
 | [usercrt@twitter](https://twitter.com/usercrt/status/1481015598435942401) | advertise |
