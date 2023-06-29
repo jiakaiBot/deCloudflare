@@ -2841,6 +2841,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dinhtran124@twitter](https://twitter.com/Dinhtran124/status/1578996526478950400) | advertise |
 | [dinhtrungduc2k1@twitter](https://twitter.com/dinhtrungduc2k1/status/1570099580456554496) | advertise |
 | [dinhvhoang1@twitter](https://twitter.com/dinhvhoang1/status/1383234381439922177) | advertise |
+| [diorfunn@twitter](https://twitter.com/diorfunn/status/1674330543964536832) | advertise |
 | [DipakCh89456642@twitter](https://twitter.com/DipakCh89456642/status/1392032564743852033) | advertise |
 | [dipankar9651@twitter](https://twitter.com/dipankar9651/status/1558430732598804482) | advertise |
 | [DipDipto12@twitter](https://twitter.com/DipDipto12/status/1379899792034201600) | advertise |
@@ -6036,6 +6037,7 @@ Do not create new issue or we will close it as duplicate.
 | [king_defeat@twitter](https://twitter.com/king_defeat/status/1391700999752929282) | advertise |
 | [KinPhm95290033@twitter](https://twitter.com/KinPhm95290033/status/1552483794254323713) | advertise |
 | [kintidon@twitter](https://twitter.com/kintidon/status/1591821293070024712) | advertise |
+| [Kinvac_1106@twitter](https://twitter.com/Kinvac_1106/status/1674338251627446272) | advertise |
 | [KinVit2@twitter](https://twitter.com/KinVit2/status/1401410534277226500) | advertise |
 | [kiokoioi@twitter](https://twitter.com/kiokoioi/status/1585701891022983169) | advertise |
 | [KiRa37295832@twitter](https://twitter.com/KiRa37295832/status/1392358213878575107) | advertise |
@@ -11411,6 +11413,7 @@ Do not create new issue or we will close it as duplicate.
 | [Taeyeon47077149@twitter](https://twitter.com/Taeyeon47077149/status/1624347311735447552) | advertise |
 | [TaezZa02@twitter](https://twitter.com/TaezZa02/status/1628426642921246722) | advertise |
 | [taha_kabashi@twitter](https://twitter.com/taha_kabashi/status/1656017202020069377) | advertise |
+| [tahredmage21@twitter](https://twitter.com/tahredmage21/status/1674321293309804544) | advertise |
 | [tahung12345678@twitter](https://twitter.com/tahung12345678/status/1391180261518282752) | advertise |
 | [tai25381999@twitter](https://twitter.com/tai25381999/status/1400114995506008066) | advertise |
 | [tai58342704@twitter](https://twitter.com/tai58342704/status/1557035585038012416) | advertise |
@@ -12175,6 +12178,7 @@ Do not create new issue or we will close it as duplicate.
 | [TonNguy23491290@twitter](https://twitter.com/TonNguy23491290/status/1635997923749273600) | advertise |
 | [TonNguy74044007@twitter](https://twitter.com/TonNguy74044007/status/1478965334249906182) | advertise |
 | [tonnguy80527958@twitter](https://twitter.com/tonnguy80527958/status/1382009108962807810) | advertise |
+| [TonPhan42370482@twitter](https://twitter.com/TonPhan42370482/status/1674309814577676288) | advertise |
 | [Tontan1234567@twitter](https://twitter.com/Tontan1234567/status/1404835134763720706) | advertise |
 | [Tony02935778@twitter](https://twitter.com/Tony02935778/status/1388498427906908163) | advertise |
 | [Tony131021@twitter](https://twitter.com/Tony131021/status/1593861698494287872) | advertise |
