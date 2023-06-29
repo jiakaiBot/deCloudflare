@@ -27716,6 +27716,7 @@ Here's a list of public Fediverse services.
 | `nya.gay` | No |
 | `nya.house` | No |
 | `nya.one` | Yes |
+| `nya.pub` | No |
 | `nya.rest` | Yes |
 | `nya.show` | Yes |
 | `nya.social` | No |
@@ -39270,7 +39271,7 @@ Here's a list of public Fediverse services.
 | `transportation.social` | Yes |
 | `transportevolved.com` | Yes |
 | `transqueer.club` | Yes |
-| `transrights.art` | No |
+| `transrights.art` | Yes |
 | `transrights.ovh` | No |
 | `transsafety.network` | Yes |
 | `trapezial.com` | Yes |
@@ -39626,6 +39627,7 @@ Here's a list of public Fediverse services.
 | `tuiter.es` | Yes |
 | `tuiter.ga` | No |
 | `tuiter.me` | No |
+| `tuiter.ovh` | No |
 | `tuiter.rocks` | No |
 | `tuitort.cat` | No |
 | `tuiwen.live` | No |
@@ -43771,8 +43773,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,320 |
-| Normal | 32,408 |
+| Cloudflare | 11,321 |
+| Normal | 32,409 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
