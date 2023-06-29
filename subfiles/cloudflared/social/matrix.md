@@ -27,13 +27,14 @@ Here's a list of public Matrix services.
 | alternanet.fr | No |
 | matrix.archaeo.social | No |
 | matrix.arcticfoxes.net | Yes |
+| aria.im | No |
 | matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
 | synapse.bark.lgbt | Yes |
 | bolha.chat | Yes |
 | breeze.town | No |
-| buyvm.chat | No |
 | matrix.bytes4u.de | No |
+| matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
@@ -104,7 +105,6 @@ Here's a list of public Matrix services.
 | matrix.supreme.sh | Yes |
 | synod.im | No |
 | matrix.tchncs.de | No |
-| matrix.techsaviours.org | No |
 | matrix.tedomum.net | No |
 | tomesh.net | No |
 | ungleich.matrix.ungleich.cloud | No |
