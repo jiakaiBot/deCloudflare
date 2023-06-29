@@ -1098,6 +1098,7 @@ Do not create new issue or we will close it as duplicate.
 | [AssafJulie@twitter](https://twitter.com/AssafJulie/status/1469918510839181313) | advertise |
 | [AssefaJiregna@twitter](https://twitter.com/AssefaJiregna/status/1628756888060919808) | advertise |
 | [Aster21Team@twitter](https://twitter.com/Aster21Team/status/1395622416819179521) | advertise |
+| [astral_penguin@twitter](https://twitter.com/astral_penguin/status/1674313747563941888) | advertise |
 | [astrocopia@twitter](https://twitter.com/astrocopia/status/1590760408352456704) | advertise |
 | [AstroVerbot@twitter](https://twitter.com/AstroVerbot/status/1673033401886973952) | advertise |
 | [astrovpn@twitter](https://twitter.com/astrovpn/status/1665841042753482754) | advertise |
@@ -8682,6 +8683,7 @@ Do not create new issue or we will close it as duplicate.
 | [nhan_dac@twitter](https://twitter.com/nhan_dac/status/1407903659929739268) | advertise |
 | [Nhat64394560@twitter](https://twitter.com/Nhat64394560/status/1385579142603677697) | advertise |
 | [Nhatchinh310@twitter](https://twitter.com/Nhatchinh310/status/1556312052180058112) | advertise |
+| [nhatcuong31@twitter](https://twitter.com/nhatcuong31/status/1674312963841462274) | advertise |
 | [Nhatlinhitsme@twitter](https://twitter.com/Nhatlinhitsme/status/1553438209941508096) | advertise |
 | [Nha_vy_94@twitter](https://twitter.com/Nha_vy_94/status/1629261407517810689) | advertise |
 | [Nhi04112002@twitter](https://twitter.com/Nhi04112002/status/1600060453945647105) | advertise |
@@ -10198,6 +10200,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rodritwm_@twitter](https://twitter.com/Rodritwm_/status/1540411404548800513) | advertise |
 | [rogeriotaques@twitter](https://twitter.com/rogeriotaques/status/1522109600128184321) | advertise |
 | [rogerluu18@twitter](https://twitter.com/rogerluu18/status/1475137433498832899) | advertise |
+| [RogerMarti35708@twitter](https://twitter.com/RogerMarti35708/status/1674307074384166912) | advertise |
 | [rogerpersian@twitter](https://twitter.com/rogerpersian/status/1576409231393263616) | advertise |
 | [RohimAbdll42250@twitter](https://twitter.com/RohimAbdll42250/status/1672472200778256386) | advertise |
 | [Rohith30089977@twitter](https://twitter.com/Rohith30089977/status/1382433419624288258) | advertise |
