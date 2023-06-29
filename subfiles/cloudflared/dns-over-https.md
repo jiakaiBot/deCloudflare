@@ -125,7 +125,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | extrawdw.net | Yes |
 | familiamv.ml | No |
 | fancyorg.at | No |
-| faze.dev | No |
 | fdn.fr | No |
 | ff0x.ca | Yes |
 | ffmuc.net | Yes |
@@ -357,7 +356,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | worthmind.net | Yes |
 | xaoimoon.fr | No |
 | xcom.pro | No |
-| xenergy.cc | Yes |
 | xfinity.com | Yes |
 | xinfeng16m.top | Yes |
 | yameenassotally.com | No |
@@ -374,8 +372,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 179 |
-| Normal | 176 |
+| Cloudflare | 178 |
+| Normal | 175 |
 
 
 ### 50.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
