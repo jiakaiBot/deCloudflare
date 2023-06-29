@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,621 |
+| com | 6,624 |
 | social | 4,207 |
 | net | 3,346 |
 | org | 2,312 |
@@ -5987,6 +5987,7 @@ Here's a list of public Fediverse services.
 | `cervidae.space` | No |
 | `cescobarresi.it` | No |
 | `cesiandalex.com` | Yes |
+| `cesium.one` | No |
 | `cesium.pw` | Yes |
 | `ceskar.xyz` | No |
 | `ceske.site` | No |
@@ -9235,6 +9236,7 @@ Here's a list of public Fediverse services.
 | `digforfire.org` | No |
 | `diggingthedigital.com` | Yes |
 | `diggit.xyz` | No |
+| `digi.rodeo` | No |
 | `digibyte.social` | No |
 | `digic.cloud` | No |
 | `digida.li` | No |
@@ -16977,6 +16979,7 @@ Here's a list of public Fediverse services.
 | `imagazine.pl` | No |
 | `image-space.info` | No |
 | `imaginair.es` | No |
+| `imaginarykarin.com` | No |
 | `imagotv.fr` | No |
 | `imal.org` | No |
 | `imancommunity.de` | No |
@@ -19148,7 +19151,7 @@ Here's a list of public Fediverse services.
 | `kazvam.com` | Yes |
 | `kb3lyb.com` | Yes |
 | `kbec.dev` | No |
-| `kbin.cafe` | No |
+| `kbin.cafe` | Yes |
 | `kbin.chat` | Yes |
 | `kbin.dk` | No |
 | `kbin.lgbt` | Yes |
@@ -19553,6 +19556,7 @@ Here's a list of public Fediverse services.
 | `kirgus.net` | No |
 | `kiri.to` | Yes |
 | `kirigakure.net` | Yes |
+| `kirigiri.me` | No |
 | `kiriha.me` | Yes |
 | `kirimasharo.org` | No |
 | `kirimi.net` | No |
@@ -24299,6 +24303,7 @@ Here's a list of public Fediverse services.
 | `milaine.net` | Yes |
 | `milchreislieferei.de` | No |
 | `mildcube.social` | No |
+| `mildgrim.com` | No |
 | `mildlyfunctional.gay` | No |
 | `milehigh.community` | No |
 | `mileskanda.com` | No |
@@ -25073,6 +25078,7 @@ Here's a list of public Fediverse services.
 | `morichan.site` | No |
 | `morikapu.com` | Yes |
 | `morikka.me` | No |
+| `morimoto.link` | Yes |
 | `moritoworks.com` | Yes |
 | `moritrunk.com` | Yes |
 | `moritz.me` | No |
@@ -30894,6 +30900,7 @@ Here's a list of public Fediverse services.
 | `pter.it` | No |
 | `pteranodon.net` | No |
 | `ptinem.io` | No |
+| `ptmsoft.fr` | No |
 | `ptr.fm` | Yes |
 | `ptrl.ws` | Yes |
 | `pttmpl.de` | No |
@@ -31785,7 +31792,7 @@ Here's a list of public Fediverse services.
 | `raysofhope.love` | Yes |
 | `raytec.co` | No |
 | `raza.social` | No |
-| `raziel.space` | Yes |
+| `raziel.space` | No |
 | `razmadze.me` | Yes |
 | `razormonkey.eu` | Yes |
 | `razors.page` | No |
@@ -39144,6 +39151,7 @@ Here's a list of public Fediverse services.
 | `towade.me` | No |
 | `towards.vision` | No |
 | `towerofsong.ca` | No |
+| `towlerhousehold.com` | Yes |
 | `towns.gay` | Yes |
 | `townsends.online` | No |
 | `townsquareapp.com` | No |
@@ -43744,8 +43752,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,308 |
-| Normal | 32,393 |
+| Cloudflare | 11,310 |
+| Normal | 32,399 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
