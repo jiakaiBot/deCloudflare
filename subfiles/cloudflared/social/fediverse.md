@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,626 |
 | social | 4,208 |
 | net | 3,348 |
-| org | 2,313 |
+| org | 2,314 |
 | de | 2,179 |
 
 
@@ -30664,6 +30664,7 @@ Here's a list of public Fediverse services.
 | `prfm.jp` | No |
 | `prgmr.com` | No |
 | `prgmr.net` | Yes |
+| `pricefield.org` | No |
 | `pricey.uk` | No |
 | `prichrd.lol` | No |
 | `pride-rock-labs.com` | No |
@@ -43774,7 +43775,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,321 |
-| Normal | 32,409 |
+| Normal | 32,410 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
