@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,625 |
+| com | 6,626 |
 | social | 4,207 |
 | net | 3,347 |
 | org | 2,312 |
@@ -497,6 +497,7 @@ Here's a list of public Fediverse services.
 | `4metal.info` | No |
 | `4netguides.com` | No |
 | `4netguides.org` | No |
+| `4nm1tsu.com` | No |
 | `4orce.online` | No |
 | `4qq.org` | No |
 | `4queens.tk` | No |
@@ -11542,7 +11543,7 @@ Here's a list of public Fediverse services.
 | `faceless.company` | No |
 | `fachkraeftesicherer.de` | Yes |
 | `facil.services` | No |
-| `facorazza.com` | No |
+| `facorazza.com` | Yes |
 | `factland.social` | Yes |
 | `factorial.io` | No |
 | `factsonthegroundshow.com` | No |
@@ -43761,7 +43762,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,315 |
+| Cloudflare | 11,316 |
 | Normal | 32,403 |
 
 
