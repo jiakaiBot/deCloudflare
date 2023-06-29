@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Config accepted by ntp-daemon but fails explicit validation](https://github.com/pendulum-project/ntpd-rs/issues/822)
 - [Issue with withdrawing from Exmo](https://github.com/ccxt/ccxt/issues/18411)
 - [blocked image when sharing on twitter - cloudflare bot protection](https://github.com/weserv/images/issues/379)
 - [science.org feeds: 403 error](https://github.com/cscarney/syndic/issues/156)
