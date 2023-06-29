@@ -6903,6 +6903,7 @@ Do not create new issue or we will close it as duplicate.
 | [LukaRamishvili4@twitter](https://twitter.com/LukaRamishvili4/status/1465235608109043718) | advertise |
 | [LukeParkerDev@twitter](https://twitter.com/LukeParkerDev/status/1463643178242752515) | advertise |
 | [LukeSchwager321@twitter](https://twitter.com/LukeSchwager321/status/1665796785946730497) | advertise |
+| [Lukjan111@twitter](https://twitter.com/Lukjan111/status/1674393785722351618) | advertise |
 | [lukyy404@twitter](https://twitter.com/lukyy404/status/1532624007513907200) | advertise |
 | [LuLay33753810@twitter](https://twitter.com/LuLay33753810/status/1391572999329882112) | advertise |
 | [lulledinguilt@twitter](https://twitter.com/lulledinguilt/status/1620777569867161600) | advertise |
