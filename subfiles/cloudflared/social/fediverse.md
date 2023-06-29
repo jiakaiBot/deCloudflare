@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,626 |
 | social | 4,207 |
-| net | 3,347 |
+| net | 3,348 |
 | org | 2,312 |
-| de | 2,175 |
+| de | 2,176 |
 
 
 - Mastodon, Pleroma, etc
@@ -18928,6 +18928,7 @@ Here's a list of public Fediverse services.
 | `kalebporter.club` | No |
 | `kalecream.com` | Yes |
 | `kaleido.moe` | Yes |
+| `kaleidos.net` | No |
 | `kalenalangford.com` | Yes |
 | `kaliex.co` | No |
 | `kalik.in` | Yes |
@@ -30273,6 +30274,7 @@ Here's a list of public Fediverse services.
 | `pogmommy.gay` | No |
 | `pogo.community` | Yes |
 | `pogs.cafe` | Yes |
+| `pohlers-web.de` | No |
 | `pohvii.cloud` | Yes |
 | `poiar.es` | Yes |
 | `poincare.one` | No |
@@ -43763,7 +43765,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,316 |
-| Normal | 32,403 |
+| Normal | 32,405 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
