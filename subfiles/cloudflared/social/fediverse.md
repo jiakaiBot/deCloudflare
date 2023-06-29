@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,624 |
+| com | 6,625 |
 | social | 4,207 |
 | net | 3,347 |
 | org | 2,312 |
@@ -1205,6 +1205,7 @@ Here's a list of public Fediverse services.
 | `agora.lol` | No |
 | `agoraforum.website` | No |
 | `agoranet.info` | No |
+| `agori.dev` | No |
 | `agorism.blog` | No |
 | `agouritin.fr` | No |
 | `agrico.la` | Yes |
@@ -22233,6 +22234,7 @@ Here's a list of public Fediverse services.
 | `machine501.com` | No |
 | `machines.social` | No |
 | `machique.st` | No |
+| `machlis.com` | No |
 | `machne.de` | No |
 | `machteburch.social` | No |
 | `maciaszek.social` | No |
@@ -35769,6 +35771,7 @@ Here's a list of public Fediverse services.
 | `spice-community.online` | No |
 | `spicyshoggoth.cloud` | No |
 | `spicyweb.dev` | Yes |
+| `spider.gay` | No |
 | `spider.ink` | No |
 | `spiderden.net` | Yes |
 | `spidersrainbow.com` | Yes |
@@ -43759,7 +43762,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,315 |
-| Normal | 32,400 |
+| Normal | 32,403 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
