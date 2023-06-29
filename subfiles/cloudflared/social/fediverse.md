@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,624 |
 | social | 4,207 |
-| net | 3,346 |
+| net | 3,347 |
 | org | 2,312 |
 | de | 2,174 |
 
@@ -25885,6 +25885,7 @@ Here's a list of public Fediverse services.
 | `mysacredaltar.com` | No |
 | `myselfdot.work` | No |
 | `myselfhosted.net` | Yes |
+| `myside-yourside.net` | No |
 | `mysignal.world` | No |
 | `mysim.online` | No |
 | `mysitemikoh.pl` | Yes |
@@ -43755,7 +43756,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,311 |
-| Normal | 32,400 |
+| Normal | 32,401 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
