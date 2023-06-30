@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,631 |
 | social | 4,210 |
-| net | 3,350 |
+| net | 3,351 |
 | org | 2,314 |
 | de | 2,179 |
 
@@ -14008,6 +14008,7 @@ Here's a list of public Fediverse services.
 | `gelse.eu` | No |
 | `gelt.cz` | No |
 | `gem.org.ru` | Yes |
+| `gemeinde-pflanzen.net` | No |
 | `gemeinschaffen.com` | Yes |
 | `gemini-tech.be` | No |
 | `gemini.city` | No |
@@ -20862,6 +20863,7 @@ Here's a list of public Fediverse services.
 | `lemmerz.org` | No |
 | `lemmings.me` | No |
 | `lemmings.online` | No |
+| `lemmit.online` | Yes |
 | `lemmit.xyz` | Yes |
 | `lemmony.click` | No |
 | `lemmy.blue` | Yes |
@@ -43793,8 +43795,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,327 |
-| Normal | 32,423 |
+| Cloudflare | 11,328 |
+| Normal | 32,424 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
