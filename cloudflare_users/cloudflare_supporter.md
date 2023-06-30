@@ -11489,6 +11489,7 @@ Do not create new issue or we will close it as duplicate.
 | [tatuiyo@twitter](https://twitter.com/tatuiyo/status/1494144614231846912) | advertise |
 | [TatumGaming@twitter](https://twitter.com/TatumGaming/status/1448827518337888257) | advertise |
 | [TaufikPrivat@twitter](https://twitter.com/TaufikPrivat/status/1631543734725931008) | advertise |
+| [taufiqhelios@twitter](https://twitter.com/taufiqhelios/status/1674728565164703744) | advertise |
 | [tavakkoli2@twitter](https://twitter.com/tavakkoli2/status/1578616210035703813) | advertise |
 | [TawMi5@twitter](https://twitter.com/TawMi5/status/1495964843840397312) | advertise |
 | [Tax40813778@twitter](https://twitter.com/Tax40813778/status/1388201141821796353) | advertise |
