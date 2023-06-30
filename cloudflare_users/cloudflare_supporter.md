@@ -3490,6 +3490,7 @@ Do not create new issue or we will close it as duplicate.
 | [FendyMyz@twitter](https://twitter.com/FendyMyz/status/1491853766790123520) | advertise |
 | [fening12@twitter](https://twitter.com/fening12/status/1402708446680535042) | advertise |
 | [FenySoft@twitter](https://twitter.com/FenySoft/status/1453328924063240196) | advertise |
+| [Ferihardiant0_@twitter](https://twitter.com/Ferihardiant0_/status/1674791990905667590) | advertise |
 | [fernandodilland@twitter](https://twitter.com/fernandodilland/status/1603150910657634305) | advertise |
 | [Ferona44304373@twitter](https://twitter.com/Ferona44304373/status/1394530832367370240) | advertise |
 | [FerricMachan@twitter](https://twitter.com/FerricMachan/status/1573051436728197121) | advertise |
