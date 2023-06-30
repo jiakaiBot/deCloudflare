@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issue: 401 error when using ConversationalRetrievalQAChain](https://github.com/hwchase17/langchain/issues/6981)
 - [cloudflared 1.0.0 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/18909)
 - [cloudflared 1.0.0 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/18878)
 - [The verifyTurnstileToken helper doesn't work on Cloudflare Pages serverless functions](https://github.com/nuxt-modules/turnstile/issues/256)
