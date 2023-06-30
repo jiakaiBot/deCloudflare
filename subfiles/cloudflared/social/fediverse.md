@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,631 |
+| com | 6,632 |
 | social | 4,210 |
 | net | 3,351 |
 | org | 2,314 |
@@ -16402,6 +16402,7 @@ Here's a list of public Fediverse services.
 | `houtx.social` | No |
 | `hovercat.social` | Yes |
 | `hovkluster.se` | No |
+| `howcyborgs.chat` | No |
 | `howd.ee` | Yes |
 | `howdee.social` | No |
 | `howdy.dog` | No |
@@ -18189,6 +18190,7 @@ Here's a list of public Fediverse services.
 | `jeremyrenner.club` | No |
 | `jeremysarber.com` | Yes |
 | `jergefelt.se` | No |
+| `jerick.xyz` | Yes |
 | `jerl.zone` | Yes |
 | `jeroened.be` | Yes |
 | `jeroenpraat.nl` | Yes |
@@ -29685,6 +29687,7 @@ Here's a list of public Fediverse services.
 | `phoeni.xyz` | No |
 | `phoenix.cx` | No |
 | `phoenix.monster` | No |
+| `phoenix591.com` | Yes |
 | `phoenixict.it` | No |
 | `phoenixkahlo.com` | No |
 | `phoenixproject.group` | No |
@@ -33372,6 +33375,7 @@ Here's a list of public Fediverse services.
 | `samueldr.com` | Yes |
 | `samuelezappala.it` | No |
 | `samuelgharvey.com` | Yes |
+| `samuhe.be` | No |
 | `samulczyk.pl` | No |
 | `samurai-gamers.com` | No |
 | `samw.dev` | Yes |
@@ -37766,6 +37770,7 @@ Here's a list of public Fediverse services.
 | `testsrv.de` | Yes |
 | `tet42.org` | Yes |
 | `tetaneutral.net` | No |
+| `tetracaulodon.club` | No |
 | `tetragir.com` | No |
 | `tetrarch.co` | Yes |
 | `tetrax.de` | No |
@@ -40557,6 +40562,7 @@ Here's a list of public Fediverse services.
 | `va-11.club` | No |
 | `va-11.com` | No |
 | `va11hal.la` | No |
+| `va11halla.bar` | No |
 | `vaaaaanqui.sh` | No |
 | `vabois.fr` | No |
 | `vacant.ventures` | No |
@@ -43795,8 +43801,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,328 |
-| Normal | 32,424 |
+| Cloudflare | 11,330 |
+| Normal | 32,428 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
