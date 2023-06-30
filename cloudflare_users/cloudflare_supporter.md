@@ -2808,6 +2808,7 @@ Do not create new issue or we will close it as duplicate.
 | [Diego24090352@twitter](https://twitter.com/Diego24090352/status/1557196849139924993) | advertise |
 | [diellidemjaha@twitter](https://twitter.com/diellidemjaha/status/1394616412086341633) | advertise |
 | [dienthanhsg1@twitter](https://twitter.com/dienthanhsg1/status/1640042097762881540) | advertise |
+| [diepchu3011@twitter](https://twitter.com/diepchu3011/status/1674635379637637120) | advertise |
 | [DieTriphel@twitter](https://twitter.com/DieTriphel/status/1517893596443074561) | advertise |
 | [digcinema@twitter](https://twitter.com/digcinema/status/1402343666174201857) | advertise |
 | [DiggajUpadhyay@twitter](https://twitter.com/DiggajUpadhyay/status/1511942797212889089) | advertise |
@@ -4302,6 +4303,7 @@ Do not create new issue or we will close it as duplicate.
 | [HiNguyn10030784@twitter](https://twitter.com/HiNguyn10030784/status/1609563063904079873) | advertise |
 | [HiNguyn74792313@twitter](https://twitter.com/HiNguyn74792313/status/1400332809403723779) | advertise |
 | [HinHin47689528@twitter](https://twitter.com/HinHin47689528/status/1527436519467732992) | advertise |
+| [hinloong@twitter](https://twitter.com/hinloong/status/1674598620027576321) | advertise |
 | [HinoQuan@twitter](https://twitter.com/HinoQuan/status/1621514850626322434) | advertise |
 | [HipBui@twitter](https://twitter.com/HipBui/status/1552005063585198081) | advertise |
 | [HipNguy30377254@twitter](https://twitter.com/HipNguy30377254/status/1629654301726642176) | advertise |
