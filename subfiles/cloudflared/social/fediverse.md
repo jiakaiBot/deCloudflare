@@ -469,6 +469,7 @@ Here's a list of public Fediverse services.
 | `45sukey.net` | Yes |
 | `465789.xyz` | No |
 | `47041.net` | Yes |
+| `48.club` | Yes |
 | `481516.xyz` | Yes |
 | `48645.tk` | No |
 | `4869.homes` | Yes |
@@ -43783,7 +43784,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,318 |
+| Cloudflare | 11,319 |
 | Normal | 32,422 |
 
 
