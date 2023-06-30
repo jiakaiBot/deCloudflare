@@ -3144,6 +3144,7 @@ Here's a list of public Fediverse services.
 | `az.social` | No |
 | `aza.moe` | Yes |
 | `azabani.com` | No |
+| `azadehafzar.io` | Yes |
 | `azadehafzar.ir` | No |
 | `azae.net` | No |
 | `azaleth.xyz` | No |
@@ -20905,6 +20906,7 @@ Here's a list of public Fediverse services.
 | `lemmygrad.com` | No |
 | `lemmygrad.ml` | No |
 | `lemmyngs.social` | No |
+| `lemmyngton.au` | No |
 | `lemmyns.xyz` | No |
 | `lemmynsfw.com` | Yes |
 | `lemmyonline.com` | Yes |
@@ -37067,6 +37069,7 @@ Here's a list of public Fediverse services.
 | `tabathawood.com` | No |
 | `tabi-yume.jp` | No |
 | `tabinezumi.net` | No |
+| `tableflip.zone` | No |
 | `tabletcorry.com` | Yes |
 | `tabletop.garden` | No |
 | `tabletop.place` | No |
@@ -43790,8 +43793,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,326 |
-| Normal | 32,421 |
+| Cloudflare | 11,327 |
+| Normal | 32,423 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
