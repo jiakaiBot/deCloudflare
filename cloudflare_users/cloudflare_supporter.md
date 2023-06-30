@@ -781,6 +781,7 @@ Do not create new issue or we will close it as duplicate.
 | [Anan29081@twitter](https://twitter.com/Anan29081/status/1400126368101244931) | advertise |
 | [Ananthu94431440@twitter](https://twitter.com/Ananthu94431440/status/1381601689925414916) | advertise |
 | [anas639623@twitter](https://twitter.com/anas639623/status/1380424790897483776) | advertise |
+| [AnasAfidee46664@twitter](https://twitter.com/AnasAfidee46664/status/1674833507053604866) | advertise |
 | [Anasf_Aff@twitter](https://twitter.com/Anasf_Aff/status/1494012847206330368) | advertise |
 | [ANASMuH55@twitter](https://twitter.com/ANASMuH55/status/1387596975906988036) | advertise |
 | [ANASXOSHNAW313@twitter](https://twitter.com/ANASXOSHNAW313/status/1379788726730170368) | advertise |
@@ -8304,6 +8305,7 @@ Do not create new issue or we will close it as duplicate.
 | [Narendr93556275@twitter](https://twitter.com/Narendr93556275/status/1384445226274594824) | advertise |
 | [naringuyen0808@twitter](https://twitter.com/naringuyen0808/status/1545254657102336002) | advertise |
 | [narkarsarkie@twitter](https://twitter.com/narkarsarkie/status/1379118031050141697) | advertise |
+| [narumirinq@twitter](https://twitter.com/narumirinq/status/1674828938449940480) | advertise |
 | [nas00831184@twitter](https://twitter.com/nas00831184/status/1401008152036790277) | advertise |
 | [naser_lodr_5@twitter](https://twitter.com/naser_lodr_5/status/1546216367765987329) | advertise |
 | [nasirmy1@twitter](https://twitter.com/nasirmy1/status/1547358308042178561) | advertise |
