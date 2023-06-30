@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,628 |
+| com | 6,629 |
 | social | 4,210 |
 | net | 3,349 |
 | org | 2,314 |
@@ -2009,6 +2009,7 @@ Here's a list of public Fediverse services.
 | `anilwadghule.com` | Yes |
 | `anima-mystica.net` | No |
 | `anima-mystica.org` | No |
+| `animal-machine.com` | No |
 | `animal.business` | No |
 | `animal.church` | No |
 | `animalesenfu.ga` | No |
@@ -7019,7 +7020,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -16422,7 +16423,7 @@ Here's a list of public Fediverse services.
 | `hptrow.me` | No |
 | `hqhsmastodon.com` | Yes |
 | `hqpf.site` | No |
-| `hqueue.dev` | No |
+| `hqueue.dev` | Yes |
 | `hrbf.de` | No |
 | `hrbrmstr.de` | No |
 | `href.space` | No |
@@ -39366,7 +39367,7 @@ Here's a list of public Fediverse services.
 | `tri.cash` | No |
 | `trialbyerror.org` | No |
 | `triangle.social` | No |
-| `triangleidiot.online` | No |
+| `triangleidiot.online` | Yes |
 | `triangletoot.party` | No |
 | `triathlon.one` | No |
 | `tribe.net` | No |
@@ -43784,8 +43785,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,319 |
-| Normal | 32,422 |
+| Cloudflare | 11,322 |
+| Normal | 32,420 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
