@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [cloudflared 1.0.0 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/18909)
 - [cloudflared 1.0.0 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/18878)
 - [The verifyTurnstileToken helper doesn't work on Cloudflare Pages serverless functions](https://github.com/nuxt-modules/turnstile/issues/256)
 - [Config accepted by ntp-daemon but fails explicit validation](https://github.com/pendulum-project/ntpd-rs/issues/822)
