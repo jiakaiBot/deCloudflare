@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,631 |
 | social | 4,210 |
-| net | 3,350 |
+| net | 3,349 |
 | org | 2,314 |
 | de | 2,179 |
 
@@ -27660,7 +27660,6 @@ Here's a list of public Fediverse services.
 | `numaverse.com` | No |
 | `number5.dev` | Yes |
 | `number926.com` | Yes |
-| `numbertales-radiann.net` | No |
 | `numerama.com` | Yes |
 | `numericoop.fr` | No |
 | `numerique.gouv.fr` | No |
@@ -37648,6 +37647,7 @@ Here's a list of public Fediverse services.
 | `tending.to` | Yes |
 | `tenforward.social` | No |
 | `tengu.ch` | No |
+| `tenhou.in` | Yes |
 | `tenjin.ch` | No |
 | `tenjuu.net` | No |
 | `tenka.love` | No |
@@ -43788,8 +43788,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,324 |
-| Normal | 32,421 |
+| Cloudflare | 11,325 |
+| Normal | 32,420 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
