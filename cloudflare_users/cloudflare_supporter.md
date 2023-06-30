@@ -3744,6 +3744,7 @@ Do not create new issue or we will close it as duplicate.
 | [gerrypedraz@twitter](https://twitter.com/gerrypedraz/status/1662095541327503361) | advertise |
 | [Getamped2N@twitter](https://twitter.com/Getamped2N/status/1628678928956268545) | advertise |
 | [getferdi@twitter](https://twitter.com/getferdi/status/1519038075669827586) | advertise |
+| [getintopcee@twitter](https://twitter.com/getintopcee/status/1674805773053079554) | advertise |
 | [getmadeinlocal@twitter](https://twitter.com/getmadeinlocal/status/1566500705946460160) | advertise |
 | [getsudotech@twitter](https://twitter.com/getsudotech/status/1654437622029189122) | advertise |
 | [ggcc37590384@twitter](https://twitter.com/ggcc37590384/status/1489085811094016005) | advertise |
