@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,629 |
+| com | 6,631 |
 | social | 4,210 |
 | net | 3,349 |
 | org | 2,314 |
@@ -7551,6 +7551,7 @@ Here's a list of public Fediverse services.
 | `crepieux.eu` | Yes |
 | `cress.space` | Yes |
 | `cretezy.com` | Yes |
+| `creve.com` | Yes |
 | `crew.moe` | No |
 | `crew23.de` | No |
 | `crewfamily.social` | No |
@@ -22627,6 +22628,7 @@ Here's a list of public Fediverse services.
 | `maquinaslibres.tk` | No |
 | `marache.net` | No |
 | `maradia.ga` | No |
+| `mararead.com` | Yes |
 | `maratang.life` | Yes |
 | `maravitti.fr` | No |
 | `marbleck.eu` | Yes |
@@ -43785,7 +43787,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,322 |
+| Cloudflare | 11,324 |
 | Normal | 32,420 |
 
 
