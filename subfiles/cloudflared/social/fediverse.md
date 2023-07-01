@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,632 |
+| com | 6,637 |
 | social | 4,210 |
-| net | 3,351 |
-| org | 2,314 |
-| de | 2,179 |
+| net | 3,353 |
+| org | 2,315 |
+| de | 2,180 |
 
 
 - Mastodon, Pleroma, etc
@@ -1116,6 +1116,7 @@ Here's a list of public Fediverse services.
 | `aegiszero.is` | Yes |
 | `aegrel.ee` | Yes |
 | `aekrylov.me` | No |
+| `aelaraji.com` | Yes |
 | `aeld.net` | No |
 | `aelf.ee` | Yes |
 | `aelisya.ch` | No |
@@ -2340,6 +2341,7 @@ Here's a list of public Fediverse services.
 | `arakelyan.uk` | Yes |
 | `araneum.org` | No |
 | `aranfielder.art` | No |
+| `arasaka.uk` | Yes |
 | `arasaka.vip` | No |
 | `arashi.news` | No |
 | `arathe.net` | No |
@@ -2911,6 +2913,7 @@ Here's a list of public Fediverse services.
 | `augendre.info` | No |
 | `augsburg.social` | No |
 | `august-don.site` | Yes |
+| `augustinus.jp` | No |
 | `auka.me` | No |
 | `aukfood.net` | No |
 | `aukondk.com` | No |
@@ -4472,6 +4475,7 @@ Here's a list of public Fediverse services.
 | `blogpocket.com` | No |
 | `blogroll.club` | No |
 | `blogs.jp` | No |
+| `blogsequenz.de` | No |
 | `blogsofwar.com` | Yes |
 | `blogspot.ca` | No |
 | `blogspot.co.nz` | No |
@@ -8965,6 +8969,7 @@ Here's a list of public Fediverse services.
 | `derpsin.space` | No |
 | `derpstra.nl` | No |
 | `derpy.email` | Yes |
+| `derpybox.com` | No |
 | `derriere.maison` | No |
 | `derschreiben.de` | No |
 | `derserver.me` | No |
@@ -20896,6 +20901,7 @@ Here's a list of public Fediverse services.
 | `lemmy.radio` | No |
 | `lemmy.sbs` | No |
 | `lemmy.sh` | No |
+| `lemmy.st` | No |
 | `lemmy.studio` | No |
 | `lemmy.tf` | Yes |
 | `lemmy.today` | No |
@@ -22260,6 +22266,7 @@ Here's a list of public Fediverse services.
 | `machteburch.social` | No |
 | `maciaszek.social` | No |
 | `maciej.website` | No |
+| `maciejbielec.com` | No |
 | `mackenba.ch` | No |
 | `macks.uk` | Yes |
 | `macleay.ca` | Yes |
@@ -23643,6 +23650,7 @@ Here's a list of public Fediverse services.
 | `mcgeo.xyz` | No |
 | `mcgrath.club` | No |
 | `mchel.net` | Yes |
+| `mchome.net` | No |
 | `mcin.top` | Yes |
 | `mcirc.us` | No |
 | `mcjarbo.com` | Yes |
@@ -26899,6 +26907,7 @@ Here's a list of public Fediverse services.
 | `nightshade.fun` | Yes |
 | `nightshift.social` | No |
 | `nigini.me` | No |
+| `nigiri.dev` | No |
 | `nih.gov` | Yes |
 | `nihao.pub` | Yes |
 | `nihar.page` | Yes |
@@ -26961,6 +26970,7 @@ Here's a list of public Fediverse services.
 | `nime.space` | No |
 | `nimmerland.space` | No |
 | `ninabobina.me` | Yes |
+| `ninamacnamara.com` | No |
 | `ninapaley.com` | No |
 | `nindanaoto.dev` | Yes |
 | `nine-hells.net` | Yes |
@@ -34322,6 +34332,7 @@ Here's a list of public Fediverse services.
 | `shai.pink` | No |
 | `shakalaka.club` | No |
 | `shakedown.social` | Yes |
+| `shakedownlive.net` | Yes |
 | `shakerheights.social` | No |
 | `shaktzu.org` | Yes |
 | `shakuameji.com` | No |
@@ -35841,6 +35852,7 @@ Here's a list of public Fediverse services.
 | `spiritofcontradiction.eu` | No |
 | `spiritoot.space` | No |
 | `spitau.de` | No |
+| `spitball.show` | Yes |
 | `spittank.info` | No |
 | `spiwit.net` | No |
 | `spjainplacements.org` | No |
@@ -36051,6 +36063,7 @@ Here's a list of public Fediverse services.
 | `stadtfabrikanten.org` | No |
 | `stadtmg.social` | No |
 | `staendsche.de` | No |
+| `staf.dev` | Yes |
 | `staffshow.live` | No |
 | `staging.rip` | Yes |
 | `stahlstadt.cloud` | No |
@@ -42459,6 +42472,7 @@ Here's a list of public Fediverse services.
 | `wyrd.social` | No |
 | `wyrd.systems` | Yes |
 | `wyrm.one` | Yes |
+| `wyrmhord.org` | No |
 | `wyrms.de` | No |
 | `wyrmsign.org` | No |
 | `wyshy.net` | No |
@@ -42933,6 +42947,7 @@ Here's a list of public Fediverse services.
 | `yamakusa.net` | Yes |
 | `yamanote.tokyo.jp` | No |
 | `yamaoka-takeshi.xyz` | No |
+| `yamasaur.com` | No |
 | `yamashita.social` | No |
 | `yamast.com` | No |
 | `yamastodon.com` | No |
@@ -43802,8 +43817,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,327 |
-| Normal | 32,432 |
+| Cloudflare | 11,332 |
+| Normal | 32,442 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
