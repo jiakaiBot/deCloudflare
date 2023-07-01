@@ -7021,7 +7021,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -11304,7 +11304,7 @@ Here's a list of public Fediverse services.
 | `euskirchen.digital` | No |
 | `euskirchen.social` | No |
 | `eutech.social` | No |
-| `eutychia.org` | Yes |
+| `eutychia.org` | No |
 | `euzilla.de` | No |
 | `ev1.pw` | No |
 | `evanaolson.com` | No |
@@ -27303,7 +27303,7 @@ Here's a list of public Fediverse services.
 | `noods.fun` | Yes |
 | `noon.social` | No |
 | `noordstar.me` | No |
-| `noorul.xyz` | Yes |
+| `noorul.xyz` | No |
 | `noosa.social` | No |
 | `noostache.fr` | No |
 | `noot.cloud` | No |
@@ -27392,6 +27392,7 @@ Here's a list of public Fediverse services.
 | `nospy.net` | No |
 | `nostalghia.xyz` | Yes |
 | `nostalgia-tns.net` | No |
+| `nostalgiabook.gay` | No |
 | `nostream.stream` | No |
 | `not-a.top` | No |
 | `not-enough-sci.fi` | No |
@@ -43801,8 +43802,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,330 |
-| Normal | 32,428 |
+| Cloudflare | 11,327 |
+| Normal | 32,432 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
