@@ -30494,6 +30494,7 @@ Here's a list of public Fediverse services.
 | `port87.social` | Yes |
 | `porta.fi` | No |
 | `portaesgnos.org` | No |
+| `portend.place` | No |
 | `porter-bridges.net` | No |
 | `portertech.ca` | No |
 | `portes-imaginaire.org` | No |
@@ -43818,7 +43819,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,332 |
-| Normal | 32,442 |
+| Normal | 32,443 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
