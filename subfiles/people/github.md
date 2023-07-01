@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [cloudflared 1.0.0.2 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/19990)
+- [cloudflared 1.0.0.1 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/19966)
 - [cloudflared 1.0.0.1 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/19950)
 - [CloudFlare Cloudflare Durable Objects Issues](https://github.com/hinoshiba/news/issues/757)
 - [CloudFlare Cloudflare Durable Objects Issues](https://github.com/MatBenfield/news/issues/15997)
