@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Internal Error: Content type error](https://github.com/Insprill/intellectual/issues/11)
 - [cloudflared 1.0.0.2 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/19990)
 - [cloudflared 1.0.0.1 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/19966)
 - [cloudflared 1.0.0.1 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/19950)
