@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,638 |
-| social | 4,214 |
+| social | 4,215 |
 | net | 3,355 |
-| org | 2,315 |
-| de | 2,181 |
+| org | 2,316 |
+| de | 2,182 |
 
 
 - Mastodon, Pleroma, etc
@@ -4352,6 +4352,7 @@ Here's a list of public Fediverse services.
 | `bladion.de` | No |
 | `blaede.family` | No |
 | `blaha.me` | Yes |
+| `blahaj-gamers.de` | No |
 | `blahaj.eu` | No |
 | `blahaj.fun` | No |
 | `blahaj.gg` | Yes |
@@ -12835,6 +12836,7 @@ Here's a list of public Fediverse services.
 | `fourthestate.social` | No |
 | `fouzhai.com` | Yes |
 | `fox-club.monster` | No |
+| `fox.boston` | Yes |
 | `fox.yt` | No |
 | `foxacid.se` | No |
 | `foxarmy.ml` | No |
@@ -23331,7 +23333,7 @@ Here's a list of public Fediverse services.
 | `mastodonte.online` | Yes |
 | `mastodonte.org` | Yes |
 | `mastodonte.quebec` | No |
-| `mastodonte.red` | No |
+| `mastodonte.red` | Yes |
 | `mastodonte.social` | Yes |
 | `mastodonte.tech` | Yes |
 | `mastodontech.de` | No |
@@ -29834,6 +29836,7 @@ Here's a list of public Fediverse services.
 | `pilgerweg-21.de` | No |
 | `piligrim.ml` | Yes |
 | `pilipala.asia` | No |
+| `pilk.social` | Yes |
 | `pilk.space` | No |
 | `pillarsoffranchising.com` | No |
 | `pillowfort.cafe` | No |
@@ -31528,6 +31531,7 @@ Here's a list of public Fediverse services.
 | `radikal.social` | No |
 | `radio.af` | Yes |
 | `radio.fm` | No |
+| `radio614.org` | No |
 | `radioaconchego.org` | No |
 | `radioalmaina.org` | No |
 | `radiobrony.live` | No |
@@ -32474,6 +32478,7 @@ Here's a list of public Fediverse services.
 | `rigcz.club` | No |
 | `right.wtf` | Yes |
 | `rightmastodon.com` | No |
+| `rightmouse.click` | No |
 | `rights.ninja` | Yes |
 | `rightto.repair` | No |
 | `riinswork.space` | Yes |
@@ -37415,6 +37420,7 @@ Here's a list of public Fediverse services.
 | `tbs.social` | Yes |
 | `tbt.social` | Yes |
 | `tbt.wtf` | Yes |
+| `tbully.me` | No |
 | `tc.nz` | No |
 | `tcbailey.com` | No |
 | `tchafia.be` | No |
@@ -40421,7 +40427,7 @@ Here's a list of public Fediverse services.
 | `urban-astronomer.com` | Yes |
 | `urban-radio.com` | No |
 | `urban.social` | No |
-| `urbaninversion.com` | No |
+| `urbaninversion.com` | Yes |
 | `urbanists.social` | Yes |
 | `urbanists.video` | Yes |
 | `urbanmind.net` | Yes |
@@ -43830,8 +43836,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,343 |
-| Normal | 32,444 |
+| Cloudflare | 11,347 |
+| Normal | 32,446 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
