@@ -38675,6 +38675,7 @@ Here's a list of public Fediverse services.
 | `tinycart.club` | No |
 | `tinycities.net` | No |
 | `tinycomputer.club` | No |
+| `tinycyber.space` | No |
 | `tinydev.art` | No |
 | `tinyfactories.space` | No |
 | `tinyfed.com` | No |
@@ -43837,7 +43838,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,347 |
-| Normal | 32,446 |
+| Normal | 32,447 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
