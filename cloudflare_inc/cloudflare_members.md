@@ -473,6 +473,7 @@ Or is this merely a case of simple modesty?
 | Daniel Morsing | Systems Engineer |  |
 | Daniel Polaske | Employee |  |
 | Daniel Stinson-Diess | Security Engineer | https://twitter.com/shellcromancer |
+| Daniel Walsh | Employee | |
 | Daniel Weidman | Engineering Manager |  |
 | Daniel Wesonga | Customer Development |  |
 | Dani Grant | Product Manager |  |
@@ -522,6 +523,7 @@ Or is this merely a case of simple modesty?
 | Deborah McRoth | Employee |  |
 | Declan Carlin | Solutions Engineer |  |
 | Deeksha Lamba | Product Marketing |  |
+| Denis Kieft | Employee | |
 | Dennis Liang | Systems Engineer |  |
 | Dennis Looney | Employee |  |
 | Dennis Vavasis | Employee |  |
@@ -545,6 +547,7 @@ Or is this merely a case of simple modesty?
 | Dina Aluzri | Events |  |
 | Dina Kozlov | Product Manager | https://twitter.com/dinasaur_404 |
 | Diogo Tempero | Globalization Operations |  |
+| Dirk-Jan van Helmond | Employee | |
 | Dmitriy Gladchenko | Director of Finance |  |
 | Dmitry Nes | Customer Success Manager |  |
 | Dmitry Vorobev | Software Engineer |  |
@@ -1251,6 +1254,7 @@ Or is this merely a case of simple modesty?
 | Michelle Hagan | Employee |  |
 | Michelle Mattern | Employee |  |
 | Michelle Tang | Marketing Operations |  |
+| Michiel Appelman | Employee | |
 | Mickie Betz | Systems Engineer | https://twitter.com/AllBetzAreOff<br>https://www.linkedin.com/in/mickiebetz |
 | Miguel de Moura | Systems Engineer |  |
 | Miguel Mones | Customer Success |  |
@@ -1368,6 +1372,7 @@ Or is this merely a case of simple modesty?
 | Olivier Foucher | Network Engineer |  |
 | Omeed Rahgozar | Solutions Engineer |  |
 | Omer Yoachimik | Austin |  |
+| Onur Karaagaoglu | Employee | |
 | Ooma Guerwan | Customer Development - MENA, London |  |
 | Oriol Sabate | Employee |  |
 | Oscar Kurniawan | Employee |  |
@@ -1504,6 +1509,7 @@ Or is this merely a case of simple modesty?
 | Richard Armstrong | Americas Solutions |  |
 | Richard Boulton | Engineering Manager | https://twitter.com/rboulton<br>https://uk.linkedin.com/in/rboulton<br>https://www.zoominfo.com/p/Richard-Boulton/2532974668 |
 | Richard Macias | Software Engineer |  |
+| Richard Nguyen | Employee | |
 | Richard Sommerville | Employee |  |
 | Richard Thompson | Network Engineer |  |
 | Rick Magarro | IT Operations Engineer, Singapore |  |
@@ -1642,6 +1648,7 @@ Or is this merely a case of simple modesty?
 | Shona Alfert | Business Development |  |
 | Shrenik Jayendra | Employee |  |
 | Shri Deshpande | Employee |  |
+| Shruti Pokalori Nejad | Employee | |
 | Shuxin Yang | Systems Engineer |  |
 | Sid Chatterjee | Employee | |
 | Siddharth Naik | Employee |  |
@@ -1912,6 +1919,7 @@ Or is this merely a case of simple modesty?
 | Yunfei Luo Adam | Channel Account Manager |  |
 | Yun Ting Tan | Business Development |  |
 | Yuri Takano | Business Development, Singapore |  |
+| Zac Aarellano | Employee | |
 | Zac Arellano | Software Engineer |  |
 | Zachary Roy | Employee |  |
 | Zach Turminini | Business Development |  |
