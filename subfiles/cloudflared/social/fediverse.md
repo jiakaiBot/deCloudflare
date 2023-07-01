@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,637 |
 | social | 4,213 |
-| net | 3,353 |
+| net | 3,354 |
 | org | 2,315 |
 | de | 2,180 |
 
@@ -21990,7 +21990,7 @@ Here's a list of public Fediverse services.
 | `lucienpuget.fr` | No |
 | `luciferi.st` | No |
 | `lucitt.com` | No |
-| `lucitt.social` | No |
+| `lucitt.social` | Yes |
 | `luckow.org` | No |
 | `luckycat.chat` | No |
 | `luckyloop.koeln` | No |
@@ -22467,6 +22467,7 @@ Here's a list of public Fediverse services.
 | `makerspace.au` | No |
 | `makerspace.hamburg` | No |
 | `makerspace.social` | No |
+| `makertube.net` | No |
 | `makervine.net` | No |
 | `makerz.social` | No |
 | `makesocialboops.com` | No |
@@ -43824,7 +43825,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,336 |
+| Cloudflare | 11,337 |
 | Normal | 32,445 |
 
 
