@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,637 |
-| social | 4,213 |
-| net | 3,354 |
+| com | 6,638 |
+| social | 4,214 |
+| net | 3,355 |
 | org | 2,315 |
-| de | 2,180 |
+| de | 2,181 |
 
 
 - Mastodon, Pleroma, etc
@@ -11332,6 +11332,7 @@ Here's a list of public Fediverse services.
 | `evelyndesu.com` | No |
 | `evelynyap.com` | No |
 | `eveningzoo.club` | No |
+| `evenpace.social` | Yes |
 | `eventide.town` | No |
 | `eventphotographie.com` | Yes |
 | `eventprofs.social` | No |
@@ -23422,6 +23423,7 @@ Here's a list of public Fediverse services.
 | `matapacos.dog` | No |
 | `matarillo.com` | No |
 | `matbox.net` | No |
+| `matc.zip` | Yes |
 | `matcha-soft.com` | Yes |
 | `matchdon.com` | No |
 | `matchu.dev` | No |
@@ -24778,6 +24780,7 @@ Here's a list of public Fediverse services.
 | `mnino.us` | No |
 | `mnko.info` | No |
 | `mnky.uk` | No |
+| `mnlcld.de` | Yes |
 | `mnlpn.xyz` | No |
 | `mnml.news` | No |
 | `mnordhaus.de` | No |
@@ -32786,7 +32789,7 @@ Here's a list of public Fediverse services.
 | `room1969.net` | No |
 | `room4.dev` | Yes |
 | `room409.xyz` | No |
-| `roombob.cat` | No |
+| `roombob.cat` | Yes |
 | `roommatefriendfinder.com` | No |
 | `roomtone.social` | No |
 | `roon.fr` | No |
@@ -32921,6 +32924,7 @@ Here's a list of public Fediverse services.
 | `rsnstats.com` | No |
 | `rsocial.eu` | No |
 | `rsp-blogs.de` | No |
+| `rsplwe.com` | Yes |
 | `rss.town` | No |
 | `rssto.social` | Yes |
 | `rstdn-p.com` | No |
@@ -39777,7 +39781,7 @@ Here's a list of public Fediverse services.
 | `tvdl.dev` | No |
 | `tvdon.tv` | No |
 | `tvitero.com` | No |
-| `tvlkidd.com` | No |
+| `tvlkidd.com` | Yes |
 | `tvman.net` | No |
 | `tvor.support` | No |
 | `tvt.moe` | Yes |
@@ -42251,6 +42255,7 @@ Here's a list of public Fediverse services.
 | `woodside.nz` | No |
 | `woodwideweb.social` | No |
 | `woodworking.group` | No |
+| `woodynet.net` | No |
 | `woof.group` | No |
 | `woof.tech` | No |
 | `woofed.me` | No |
@@ -43825,8 +43830,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,337 |
-| Normal | 32,445 |
+| Cloudflare | 11,343 |
+| Normal | 32,444 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
