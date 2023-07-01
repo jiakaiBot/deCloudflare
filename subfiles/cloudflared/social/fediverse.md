@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,637 |
-| social | 4,210 |
+| social | 4,213 |
 | net | 3,353 |
 | org | 2,315 |
 | de | 2,180 |
@@ -295,6 +295,7 @@ Here's a list of public Fediverse services.
 | `2207.fr` | No |
 | `221b.uk` | Yes |
 | `22300-lannion.fr` | No |
+| `223308.xyz` | Yes |
 | `2248.live` | Yes |
 | `22decembre.eu` | No |
 | `238c.org` | No |
@@ -2761,6 +2762,7 @@ Here's a list of public Fediverse services.
 | `astrid.tech` | Yes |
 | `astridbartels.de` | No |
 | `astro.clinic` | Yes |
+| `astrocats.social` | No |
 | `astrodon.social` | No |
 | `astrolaboratory.club` | No |
 | `astrologer.cc` | No |
@@ -5702,6 +5704,7 @@ Here's a list of public Fediverse services.
 | `caricio.com` | No |
 | `carl.fish` | No |
 | `carlesbellver.net` | No |
+| `carleton.social` | Yes |
 | `carlnimbus.com` | No |
 | `carlosjackson.me` | Yes |
 | `carlosjax.com` | Yes |
@@ -7025,7 +7028,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7235,6 +7238,7 @@ Here's a list of public Fediverse services.
 | `contrapointsfan.club` | No |
 | `contratv.xyz` | No |
 | `contrib.social` | No |
+| `control9.dev` | No |
 | `controlfreak.live` | No |
 | `controverse.tube` | No |
 | `convade.com` | No |
@@ -9954,7 +9958,7 @@ Here's a list of public Fediverse services.
 | `drewgat.es` | No |
 | `drewhess.social` | Yes |
 | `drewstokes.com` | Yes |
-| `drewtoot.com` | No |
+| `drewtoot.com` | Yes |
 | `drewwestcott.co.uk` | No |
 | `drfluellen.com` | No |
 | `drg.im` | No |
@@ -34584,6 +34588,7 @@ Here's a list of public Fediverse services.
 | `shroom.party` | No |
 | `shrouded.space` | Yes |
 | `shrug.pro` | No |
+| `shtuf.eu` | No |
 | `shtv.live` | No |
 | `shufudon.com` | No |
 | `shugetsu.space` | Yes |
@@ -35768,6 +35773,7 @@ Here's a list of public Fediverse services.
 | `spdns.org` | No |
 | `speakeasy.tk` | No |
 | `speakers-corner.uk` | No |
+| `speakfree.social` | No |
 | `speakfree.world` | No |
 | `speakfreelyto.me` | Yes |
 | `speakingstone.net` | No |
@@ -43818,8 +43824,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,332 |
-| Normal | 32,443 |
+| Cloudflare | 11,336 |
+| Normal | 32,445 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
