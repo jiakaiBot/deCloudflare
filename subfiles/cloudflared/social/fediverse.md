@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,652 |
 | social | 4,223 |
-| net | 3,365 |
+| net | 3,366 |
 | org | 2,320 |
 | de | 2,186 |
 
@@ -30267,6 +30267,7 @@ Here's a list of public Fediverse services.
 | `pleroma.xyz` | Yes |
 | `pleromashit.nexus` | No |
 | `pleromazela.world` | No |
+| `pleromer.net` | No |
 | `plesiosaur.net` | No |
 | `plesiosauria.com` | Yes |
 | `plethodon.nl` | No |
@@ -43955,7 +43956,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,413 |
-| Normal | 32,498 |
+| Normal | 32,499 |
 
 
 ### 26% of public Fediverse services are using Cloudflare.
