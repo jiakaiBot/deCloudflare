@@ -4817,6 +4817,7 @@ Here's a list of public Fediverse services.
 | `borked.host` | No |
 | `borked.sh` | No |
 | `borken.social` | No |
+| `borkr.one` | No |
 | `borlax.com` | No |
 | `borneensis.com` | No |
 | `bornholz.com` | No |
@@ -16020,6 +16021,7 @@ Here's a list of public Fediverse services.
 | `hijacked.download` | Yes |
 | `hijsselinckx.com` | No |
 | `hikali.work` | Yes |
+| `hikalium.dev` | No |
 | `hikaruaikawa.com` | No |
 | `hikaruaikawa.tk` | No |
 | `hiker.camp` | No |
@@ -41894,7 +41896,7 @@ Here's a list of public Fediverse services.
 | `werry.ovh` | No |
 | `wersdoerfer.de` | No |
 | `werworld.social` | No |
-| `wes.dev` | No |
+| `wes.dev` | Yes |
 | `weserbergland.social` | No |
 | `weshargrove.com` | No |
 | `wesk.tech` | No |
@@ -43955,8 +43957,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,413 |
-| Normal | 32,499 |
+| Cloudflare | 11,414 |
+| Normal | 32,500 |
 
 
 ### 26% of public Fediverse services are using Cloudflare.
