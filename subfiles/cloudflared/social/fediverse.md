@@ -26239,7 +26239,7 @@ Here's a list of public Fediverse services.
 | `nasqueron.org` | No |
 | `nastub.cz` | Yes |
 | `nastycandy.com` | Yes |
-| `nasustim.com` | No |
+| `nasustim.com` | Yes |
 | `nasutek.com` | No |
 | `nat.cu` | No |
 | `natachatomkinson.co.uk` | No |
@@ -27003,6 +27003,7 @@ Here's a list of public Fediverse services.
 | `nikos410.de` | No |
 | `nikotile.xyz` | Yes |
 | `nikvalls.pet` | No |
+| `nil.im` | No |
 | `nil.nu` | Yes |
 | `nil.services` | Yes |
 | `nil.social` | Yes |
@@ -33095,6 +33096,7 @@ Here's a list of public Fediverse services.
 | `runyu.tokyo` | No |
 | `ruoiu.app` | No |
 | `ruomu.in` | No |
+| `rup.one` | Yes |
 | `rural-it.org` | No |
 | `rurinya.com` | Yes |
 | `rushon.xyz` | No |
@@ -41616,6 +41618,7 @@ Here's a list of public Fediverse services.
 | `waytt.ml` | No |
 | `wazong.de` | No |
 | `wbcld.com` | Yes |
+| `wbknl.xyz` | No |
 | `wbnns.com` | Yes |
 | `wbrew.radom.pl` | No |
 | `wcdi.tech` | No |
@@ -43902,8 +43905,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,384 |
-| Normal | 32,475 |
+| Cloudflare | 11,386 |
+| Normal | 32,476 |
 
 
 ### 26% of public Fediverse services are using Cloudflare.
