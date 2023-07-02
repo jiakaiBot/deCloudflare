@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,650 |
+| com | 6,652 |
 | social | 4,223 |
-| net | 3,363 |
-| org | 2,319 |
-| de | 2,184 |
+| net | 3,365 |
+| org | 2,320 |
+| de | 2,186 |
 
 
 - Mastodon, Pleroma, etc
@@ -146,6 +146,7 @@ Here's a list of public Fediverse services.
 | `0xa1.red` | Yes |
 | `0xa1.social` | No |
 | `0xabc.de` | No |
+| `0xcb.dev` | Yes |
 | `0xd.jp` | No |
 | `0xdd.org.ru` | Yes |
 | `0xdevelopers.online` | No |
@@ -573,6 +574,7 @@ Here's a list of public Fediverse services.
 | `619.fm` | Yes |
 | `619.zone` | Yes |
 | `621industries.com` | Yes |
+| `62ki.net` | Yes |
 | `62x54r.ru` | No |
 | `64-b.it` | No |
 | `64.re` | No |
@@ -6111,6 +6113,7 @@ Here's a list of public Fediverse services.
 | `chaoslabs.eu` | No |
 | `chaosmagick.com` | Yes |
 | `chaosonline.pl` | No |
+| `chaosparty.rip` | Yes |
 | `chaospixel.com` | No |
 | `chaospott.de` | No |
 | `chaostodon.club` | No |
@@ -8647,6 +8650,7 @@ Here's a list of public Fediverse services.
 | `ddnss.org` | No |
 | `ddo.jp` | Yes |
 | `ddoskey.com` | Yes |
+| `ddpnd.org` | Yes |
 | `ddsc.life` | No |
 | `ddsec.de` | No |
 | `ddtcc.vip` | No |
@@ -9730,6 +9734,7 @@ Here's a list of public Fediverse services.
 | `donbongo.com` | No |
 | `donburnside.com` | Yes |
 | `dondahlmann.de` | No |
+| `dondododon.com` | No |
 | `dondondon.ga` | No |
 | `doneydenouden.com` | Yes |
 | `dong.army` | No |
@@ -10603,6 +10608,7 @@ Here's a list of public Fediverse services.
 | `eike-guenther.de` | No |
 | `eiko-fried.com` | No |
 | `eikobear.blue` | No |
+| `eila.me` | No |
 | `eilloh.net` | No |
 | `ein-hub-von-vielen.de` | No |
 | `einbeck.social` | No |
@@ -12629,6 +12635,7 @@ Here's a list of public Fediverse services.
 | `floyd.dk` | No |
 | `floyds.io` | Yes |
 | `flr.social` | No |
+| `flra.eu` | No |
 | `fltd.io` | No |
 | `flubbr.nl` | No |
 | `fluegge.digital` | No |
@@ -15684,6 +15691,7 @@ Here's a list of public Fediverse services.
 | `hebbershalet.se` | No |
 | `hebcloud.de` | No |
 | `heberge.fr` | No |
+| `hebsocial.uk` | No |
 | `hecatoncheir.net` | No |
 | `heck.ooo` | Yes |
 | `heck.team` | No |
@@ -19100,6 +19108,7 @@ Here's a list of public Fediverse services.
 | `karasulu.org` | No |
 | `karatek.net` | Yes |
 | `karateka.social` | No |
+| `karatekarnickel.de` | No |
 | `kariance.xyz` | No |
 | `karjalazet.se` | No |
 | `karkador.com` | No |
@@ -19714,6 +19723,7 @@ Here's a list of public Fediverse services.
 | `kiwifarms.cc` | Yes |
 | `kiwifarms.net` | Yes |
 | `kiwipie.net` | No |
+| `kix2902.dev` | No |
 | `kiyi.ca` | No |
 | `kizaing.ca` | Yes |
 | `kjas.no` | No |
@@ -20257,6 +20267,7 @@ Here's a list of public Fediverse services.
 | `kumi.zone` | No |
 | `kumolabo.com` | No |
 | `kunagisa.moe` | Yes |
+| `kunite.net` | Yes |
 | `kunkel24.de` | No |
 | `kunkunzzz.xyz` | No |
 | `kunveni.net` | No |
@@ -24624,6 +24635,7 @@ Here's a list of public Fediverse services.
 | `misskey-experiment.tokyo` | No |
 | `misskey-forkbomb.cf` | Yes |
 | `misskey-square.net` | Yes |
+| `misskey-sugartarou.com` | No |
 | `misskey.ai` | No |
 | `misskey.art` | Yes |
 | `misskey.at` | No |
@@ -24641,6 +24653,7 @@ Here's a list of public Fediverse services.
 | `misskey.eu.org` | No |
 | `misskey.fr` | No |
 | `misskey.fun` | Yes |
+| `misskey.gg` | Yes |
 | `misskey.id` | Yes |
 | `misskey.im` | Yes |
 | `misskey.in` | Yes |
@@ -25232,6 +25245,7 @@ Here's a list of public Fediverse services.
 | `mossferatu.monster` | No |
 | `mossou.com` | Yes |
 | `mossrc.me` | Yes |
+| `mossy.page` | No |
 | `mossymaker.com` | No |
 | `mosteverywhere.com` | No |
 | `mostlychris.net` | Yes |
@@ -30153,6 +30167,7 @@ Here's a list of public Fediverse services.
 | `planetaludico.com` | No |
 | `planetboca.com` | No |
 | `planeteers.social` | No |
+| `planetexpress.me` | No |
 | `planetfifty.one` | Yes |
 | `planetly.social` | No |
 | `planetofnix.com` | No |
@@ -33021,6 +33036,7 @@ Here's a list of public Fediverse services.
 | `rtctzn.com` | Yes |
 | `rter.io` | No |
 | `rtfm.fr` | No |
+| `rtfsk.de` | Yes |
 | `rthome.me` | No |
 | `rthompson.us` | No |
 | `rthur.me` | No |
@@ -38855,6 +38871,7 @@ Here's a list of public Fediverse services.
 | `tmp1024.com` | Yes |
 | `tmpa.io` | Yes |
 | `tmpim.com` | Yes |
+| `tmpra.jp` | Yes |
 | `tmprs.net` | No |
 | `tmspk.net` | Yes |
 | `tmux.me` | No |
@@ -39580,6 +39597,7 @@ Here's a list of public Fediverse services.
 | `troetmund.de` | No |
 | `troettroet.de` | No |
 | `troidy.social` | Yes |
+| `trojaner.dev` | Yes |
 | `troll-zeit.de` | No |
 | `troll.academy` | No |
 | `troll.cafe` | No |
@@ -43936,8 +43954,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,404 |
-| Normal | 32,489 |
+| Cloudflare | 11,413 |
+| Normal | 32,498 |
 
 
 ### 26% of public Fediverse services are using Cloudflare.
