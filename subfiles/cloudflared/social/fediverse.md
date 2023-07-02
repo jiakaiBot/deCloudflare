@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,643 |
+| com | 6,644 |
 | social | 4,220 |
-| net | 3,357 |
+| net | 3,358 |
 | org | 2,319 |
 | de | 2,184 |
 
@@ -7265,6 +7265,7 @@ Here's a list of public Fediverse services.
 | `coodes-island.com` | No |
 | `cooei.org` | No |
 | `coofdylabs.social` | Yes |
+| `cook.gg` | Yes |
 | `cookdon.com` | Yes |
 | `cookie.paris` | No |
 | `cookiedragon.games` | Yes |
@@ -8669,6 +8670,7 @@ Here's a list of public Fediverse services.
 | `deados.es` | No |
 | `deadowl.cloud` | Yes |
 | `deadreckoning.cc` | No |
+| `deadringing.blog` | No |
 | `deadsuperhero.com` | No |
 | `deadtom.me` | No |
 | `deaf.rocks` | No |
@@ -8987,6 +8989,7 @@ Here's a list of public Fediverse services.
 | `derpy.email` | Yes |
 | `derpybox.com` | No |
 | `derriere.maison` | No |
+| `derringer.pro` | Yes |
 | `derschreiben.de` | No |
 | `derserver.me` | No |
 | `derstandard.at` | No |
@@ -16431,6 +16434,7 @@ Here's a list of public Fediverse services.
 | `houseofloy.net` | Yes |
 | `houseofthevoid.com` | No |
 | `housesmith.dev` | No |
+| `houshindai.net` | Yes |
 | `houston.chat` | No |
 | `houtx.social` | No |
 | `hovercat.social` | Yes |
@@ -19634,7 +19638,7 @@ Here's a list of public Fediverse services.
 | `kirv.in` | Yes |
 | `kiryuanzu.dev` | Yes |
 | `kisaan.social` | Yes |
-| `kisame.jp` | No |
+| `kisame.jp` | Yes |
 | `kish.social` | No |
 | `kishkush.net` | No |
 | `kisombrella.top` | No |
@@ -21027,7 +21031,7 @@ Here's a list of public Fediverse services.
 | `lertsenem.com` | No |
 | `lervo.de` | No |
 | `les-miquelots.net` | No |
-| `les-requin.net` | No |
+| `les-requin.net` | Yes |
 | `lesalphas.be` | No |
 | `lesamarien.fr` | No |
 | `lesantipods.studio` | No |
@@ -28184,6 +28188,7 @@ Here's a list of public Fediverse services.
 | `olipassey.me.uk` | No |
 | `oliphant.social` | Yes |
 | `oliphaunt.social` | No |
+| `olisny.com` | No |
 | `olisti.co` | No |
 | `olive.beer` | No |
 | `oliverfalvai.xyz` | Yes |
@@ -40542,6 +40547,7 @@ Here's a list of public Fediverse services.
 | `usrlocal.net` | No |
 | `ussr.win` | No |
 | `ussygussies.wtf` | Yes |
+| `ustc.mba` | Yes |
 | `ustim.ru` | No |
 | `usual.biz` | No |
 | `usuwolabo.page` | No |
@@ -42984,7 +42990,7 @@ Here's a list of public Fediverse services.
 | `yahe.sh` | No |
 | `yahel.com` | Yes |
 | `yahoo.com` | Yes |
-| `yajamon.com` | No |
+| `yajamon.com` | Yes |
 | `yajamon.xyz` | No |
 | `yakimapride.org` | No |
 | `yakiniku.cloud` | No |
@@ -43880,8 +43886,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,368 |
-| Normal | 32,469 |
+| Cloudflare | 11,375 |
+| Normal | 32,468 |
 
 
 ### 25.9% of public Fediverse services are using Cloudflare.
