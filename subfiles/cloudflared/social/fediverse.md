@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,644 |
+| com | 6,646 |
 | social | 4,222 |
-| net | 3,359 |
+| net | 3,360 |
 | org | 2,319 |
 | de | 2,184 |
 
@@ -23927,6 +23927,7 @@ Here's a list of public Fediverse services.
 | `melteampotes.fr` | No |
 | `melting.town` | No |
 | `melton.cc` | Yes |
+| `meltpoint.club` | Yes |
 | `meltywind.org` | No |
 | `melyanna.net` | No |
 | `mem000.de` | No |
@@ -24626,7 +24627,7 @@ Here's a list of public Fediverse services.
 | `misskey.ee` | Yes |
 | `misskey.eu.org` | No |
 | `misskey.fr` | No |
-| `misskey.fun` | No |
+| `misskey.fun` | Yes |
 | `misskey.id` | Yes |
 | `misskey.im` | Yes |
 | `misskey.in` | Yes |
@@ -25996,6 +25997,7 @@ Here's a list of public Fediverse services.
 | `mystickynotes.com` | No |
 | `mysticmode.org` | Yes |
 | `mysticpsychedelic.space` | No |
+| `mystics-den.club` | Yes |
 | `mystikos.org` | Yes |
 | `mystodon.net` | No |
 | `mystodon.social` | No |
@@ -26139,6 +26141,7 @@ Here's a list of public Fediverse services.
 | `nakayoshi.tk` | No |
 | `nakayuki.net` | Yes |
 | `nakedsushi.org` | Yes |
+| `nakn.jp` | Yes |
 | `naknak.social` | No |
 | `nako.blog` | Yes |
 | `nako.ne.jp` | No |
@@ -26980,6 +26983,7 @@ Here's a list of public Fediverse services.
 | `nijiato.nagoya` | No |
 | `nijigra.art` | No |
 | `nijimiss.moe` | Yes |
+| `nijist.info` | No |
 | `nijiura.xyz` | No |
 | `nikamo.win` | No |
 | `nikayin.social` | No |
@@ -36819,6 +36823,7 @@ Here's a list of public Fediverse services.
 | `supermotoaustralia.com` | No |
 | `supermotomagazine.com` | No |
 | `supernatural.fans` | No |
+| `superneko.net` | Yes |
 | `supernerdland.com` | No |
 | `superofficial.net` | No |
 | `superpets.social` | No |
@@ -37000,6 +37005,7 @@ Here's a list of public Fediverse services.
 | `sy.mk` | Yes |
 | `syachiku.info` | No |
 | `syachiku.net` | No |
+| `syahu.com` | No |
 | `syamco.net` | No |
 | `syamimomo.cf` | No |
 | `syamutodon.xyz` | No |
@@ -37439,6 +37445,7 @@ Here's a list of public Fediverse services.
 | `tatooine.space` | No |
 | `tatsuya0902.jp` | Yes |
 | `tatu.la` | Yes |
+| `tatuiyo.xyz` | Yes |
 | `tau-ceti.space` | No |
 | `taubin.cc` | Yes |
 | `taucha.social` | No |
@@ -41637,6 +41644,7 @@ Here's a list of public Fediverse services.
 | `wearechange.org` | No |
 | `wearefamily.africa` | No |
 | `wearefloatinginspace.com` | No |
+| `weareharmonys.com` | Yes |
 | `wearehillsboro.com` | No |
 | `wearejust.men` | No |
 | `weareluck.org` | No |
@@ -43905,8 +43913,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,386 |
-| Normal | 32,476 |
+| Cloudflare | 11,393 |
+| Normal | 32,477 |
 
 
 ### 26% of public Fediverse services are using Cloudflare.
