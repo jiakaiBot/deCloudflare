@@ -16229,7 +16229,7 @@ Here's a list of public Fediverse services.
 | `holgerfrohloff.de` | No |
 | `holgerkrupp.de` | No |
 | `holi.chat` | No |
-| `holi.social` | No |
+| `holi.social` | Yes |
 | `holistichackers.org` | Yes |
 | `hollablog.at` | No |
 | `hollandsepod.nl` | No |
@@ -40024,6 +40024,7 @@ Here's a list of public Fediverse services.
 | `tzwolak.com` | Yes |
 | `tzyl.eu` | No |
 | `tzyl.nl` | No |
+| `u-nlimited.page` | Yes |
 | `u-ryukyu.ac.jp` | No |
 | `u-srv.net` | Yes |
 | `u-tokyo.social` | No |
@@ -43901,8 +43902,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,382 |
-| Normal | 32,476 |
+| Cloudflare | 11,384 |
+| Normal | 32,475 |
 
 
 ### 26% of public Fediverse services are using Cloudflare.
