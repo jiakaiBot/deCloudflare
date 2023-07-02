@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Complete the updates](https://github.com/davsk/WealthInnovationsCa/issues/12)
 - [502 Bad Gateway - websocket: bad handshake](https://github.com/233boy/v2ray/issues/1168)
 - [help wanted 求助: 一直在重复尝试获取](https://github.com/fscarmen/warp/issues/444)
 - [Internal Error: Content type error](https://github.com/Insprill/intellectual/issues/11)
