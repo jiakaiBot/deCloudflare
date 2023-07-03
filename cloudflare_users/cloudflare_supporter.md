@@ -2892,6 +2892,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dn94847228@twitter](https://twitter.com/Dn94847228/status/1401163067711311881) | advertise |
 | [DNames@twitter](https://twitter.com/DNames/status/1491872924390891526) | advertise |
 | [dnelz@twitter](https://twitter.com/dnelz/status/1598195515178758144) | advertise |
+| [dng190494@twitter](https://twitter.com/dng190494/status/1675783761177509888) | advertise |
 | [Dng54795442@twitter](https://twitter.com/Dng54795442/status/1588542074609336320) | advertise |
 | [Dng69114608@twitter](https://twitter.com/Dng69114608/status/1469914393320525824) | advertise |
 | [dng96878709@twitter](https://twitter.com/dng96878709/status/1376910370070142981) | advertise |
@@ -4861,6 +4862,7 @@ Do not create new issue or we will close it as duplicate.
 | [ibineee@twitter](https://twitter.com/ibineee/status/1622491478005268480) | advertise |
 | [ibluesun@twitter](https://twitter.com/ibluesun/status/1430819991360835585) | advertise |
 | [IbnMakhtoum@twitter](https://twitter.com/IbnMakhtoum/status/1387685889481056258) | advertise |
+| [Ibrahim035357@twitter](https://twitter.com/Ibrahim035357/status/1675976231299301377) | advertise |
 | [Ibrahim16274231@twitter](https://twitter.com/Ibrahim16274231/status/1394431968914313217) | advertise |
 | [ibrahimahmad813@twitter](https://twitter.com/ibrahimahmad813/status/1546809067175378946) | advertise |
 | [ibrar6033@twitter](https://twitter.com/ibrar6033/status/1501596070966665222) | advertise |
@@ -7919,6 +7921,7 @@ Do not create new issue or we will close it as duplicate.
 | [mrafi26863@twitter](https://twitter.com/mrafi26863/status/1620979984717451265) | advertise |
 | [MrAlone45283422@twitter](https://twitter.com/MrAlone45283422/status/1408058930232586242) | advertise |
 | [mrarashi3@twitter](https://twitter.com/mrarashi3/status/1394589698434113540) | advertise |
+| [MrAriani@twitter](https://twitter.com/MrAriani/status/1675964271245524995) | advertise |
 | [MrAung30882580@twitter](https://twitter.com/MrAung30882580/status/1386334358844305410) | advertise |
 | [MrAung97578516@twitter](https://twitter.com/MrAung97578516/status/1392482838474227719) | advertise |
 | [MrAung99592104@twitter](https://twitter.com/MrAung99592104/status/1394511966169751553) | advertise |
@@ -10264,6 +10267,7 @@ Do not create new issue or we will close it as duplicate.
 | [RoStats_RBLX@twitter](https://twitter.com/RoStats_RBLX/status/1409673999739613189) | moral (advertise) |
 | [roukaf25@twitter](https://twitter.com/roukaf25/status/1421110855517736964) | advertise |
 | [Rounakr94@twitter](https://twitter.com/Rounakr94/status/1671043109948649472) | advertise |
+| [rowzalen@twitter](https://twitter.com/rowzalen/status/1675610715078422535) | advertise |
 | [roxannexmars@twitter](https://twitter.com/roxannexmars/status/1380404984211152896) | advertise |
 | [Roy29428239@twitter](https://twitter.com/Roy29428239/status/1475497369147949066) | advertise |
 | [RoyalBoy112255@twitter](https://twitter.com/RoyalBoy112255/status/1657579972129615872) | advertise |
