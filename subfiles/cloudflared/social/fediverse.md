@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,674 |
+| com | 6,675 |
 | social | 4,230 |
 | net | 3,383 |
 | org | 2,328 |
@@ -1371,6 +1371,7 @@ Here's a list of public Fediverse services.
 | `akkoma.net` | No |
 | `akkoma.net.eu.org` | No |
 | `akkoma.nl` | No |
+| `akkoremaji.club` | Yes |
 | `aklsh.me` | Yes |
 | `akme.ink` | Yes |
 | `akmentins.com` | Yes |
@@ -2035,7 +2036,7 @@ Here's a list of public Fediverse services.
 | `anime-titties.com` | Yes |
 | `anime.country` | No |
 | `anime.gdn` | Yes |
-| `anime.website` | No |
+| `anime.website` | Yes |
 | `animeabyss.xyz` | Yes |
 | `animeartist.social` | No |
 | `animeazing.nl` | No |
@@ -5835,6 +5836,7 @@ Here's a list of public Fediverse services.
 | `categoryurls.eu.org` | No |
 | `categoryurls.life` | Yes |
 | `categoryurls.top` | Yes |
+| `catenet.dev` | No |
 | `caterpillarcheesecake.xyz` | Yes |
 | `catgirl.army` | Yes |
 | `catgirl.biz` | Yes |
@@ -22482,6 +22484,7 @@ Here's a list of public Fediverse services.
 | `mafunke.de` | No |
 | `maga.host` | No |
 | `mage.town` | No |
+| `mageix.com` | No |
 | `magenta.click` | Yes |
 | `magentix.space` | No |
 | `magex.hu` | No |
@@ -33978,7 +33981,7 @@ Here's a list of public Fediverse services.
 | `schutte.me` | No |
 | `schwabenkneipe.de` | No |
 | `schwanksta.com` | Yes |
-| `schwanzer.online` | No |
+| `schwanzer.online` | Yes |
 | `schwartzh.com` | No |
 | `schwartzwelt.xyz` | No |
 | `schwarzer.dev` | No |
@@ -44078,8 +44081,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,470 |
+| Cloudflare | 11,473 |
 | Normal | 32,565 |
 
 
-### 26% of public Fediverse services are using Cloudflare.
+### 26.1% of public Fediverse services are using Cloudflare.
