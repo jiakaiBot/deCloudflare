@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [User settings flow errors out on email confirmation stage for non superusers.](https://github.com/goauthentik/authentik/issues/6123)
 - [pynocaptcha 1.6.1 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/21497)
 - [Complete the updates](https://github.com/davsk/WealthInnovationsCa/issues/12)
 - [502 Bad Gateway - websocket: bad handshake](https://github.com/233boy/v2ray/issues/1168)
