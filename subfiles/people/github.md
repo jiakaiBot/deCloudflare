@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Understanding and Resolving Error Code 1020](https://github.com/saumya077/error-code-1020/issues/1)
 - [User settings flow errors out on email confirmation stage for non superusers.](https://github.com/goauthentik/authentik/issues/6123)
 - [pynocaptcha 1.6.1 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/21497)
 - [Complete the updates](https://github.com/davsk/WealthInnovationsCa/issues/12)
