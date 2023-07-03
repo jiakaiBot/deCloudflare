@@ -17858,6 +17858,7 @@ Here's a list of public Fediverse services.
 | `itu.dk` | Yes |
 | `itunix.eu` | No |
 | `itvend.eu` | No |
+| `itwont.run` | No |
 | `itx.chat` | Yes |
 | `ity.org` | No |
 | `itzti.li` | No |
@@ -21049,7 +21050,7 @@ Here's a list of public Fediverse services.
 | `lemmy.zip` | Yes |
 | `lemmy.zone` | Yes |
 | `lemmydeals.com` | No |
-| `lemmyf.uk` | No |
+| `lemmyf.uk` | Yes |
 | `lemmyfi.com` | No |
 | `lemmyfly.org` | No |
 | `lemmygrad.com` | No |
@@ -22151,6 +22152,7 @@ Here's a list of public Fediverse services.
 | `ludikovsky.name` | No |
 | `ludim.us` | No |
 | `ludosphere.fr` | No |
+| `ludoviko.ch` | Yes |
 | `luemy.eu` | No |
 | `luetzerath.rip` | No |
 | `lufimianet.jp` | No |
@@ -44099,7 +44101,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,480 |
+| Cloudflare | 11,482 |
 | Normal | 32,576 |
 
 
