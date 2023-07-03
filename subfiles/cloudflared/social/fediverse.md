@@ -3642,7 +3642,7 @@ Here's a list of public Fediverse services.
 | `beals.rocks` | No |
 | `beamweb.de` | No |
 | `beamy-lake.social` | No |
-| `bean.id.au` | No |
+| `bean.id.au` | Yes |
 | `bean.place` | Yes |
 | `beanlog.xyz` | No |
 | `beanofficial.co` | No |
@@ -7048,7 +7048,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -40365,7 +40365,7 @@ Here's a list of public Fediverse services.
 | `ungzeit.de` | No |
 | `unhandledexpression.com` | No |
 | `unhinged.social` | No |
-| `uni-corn.me` | Yes |
+| `uni-corn.me` | No |
 | `uni-greifswald.de` | No |
 | `uni-hamburg.de` | No |
 | `uni-humbug.de` | No |
@@ -40461,7 +40461,7 @@ Here's a list of public Fediverse services.
 | `unnecessary.tech` | Yes |
 | `unnerv.jp` | No |
 | `unnovae.net` | No |
-| `uno.today` | Yes |
+| `uno.today` | No |
 | `unooverse.com` | No |
 | `unordentlich.space` | No |
 | `unorder.xyz` | No |
@@ -43172,6 +43172,7 @@ Here's a list of public Fediverse services.
 | `yawp.social` | No |
 | `yayest.space` | No |
 | `yayforqueers.net` | No |
+| `yayoi.ink` | No |
 | `yba.dev` | Yes |
 | `ycare.de` | No |
 | `ych.lgbt` | Yes |
@@ -43981,8 +43982,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,424 |
-| Normal | 32,514 |
+| Cloudflare | 11,422 |
+| Normal | 32,517 |
 
 
 ### 26% of public Fediverse services are using Cloudflare.
