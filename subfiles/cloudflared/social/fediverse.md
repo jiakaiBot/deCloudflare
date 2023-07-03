@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,669 |
+| com | 6,670 |
 | social | 4,228 |
 | net | 3,382 |
 | org | 2,324 |
@@ -13839,6 +13839,7 @@ Here's a list of public Fediverse services.
 | `gangstalking.services` | Yes |
 | `gannetdesigns.com` | No |
 | `ganzeer.today` | No |
+| `gao.works` | Yes |
 | `gao4.top` | No |
 | `gaojfblog.com` | No |
 | `gaooo.net` | No |
@@ -14825,6 +14826,7 @@ Here's a list of public Fediverse services.
 | `grahamstewartphoto.com` | Yes |
 | `grainedutopie.eu` | No |
 | `gram.social` | Yes |
+| `grammar.jp` | No |
 | `grammus.net` | No |
 | `gramschladen.de` | No |
 | `granatapet.io` | Yes |
@@ -26945,6 +26947,7 @@ Here's a list of public Fediverse services.
 | `niadon.club` | No |
 | `niagara.social` | No |
 | `nial.to` | Yes |
+| `niarisa.com` | Yes |
 | `nibiru.nz` | No |
 | `nibis.de` | Yes |
 | `niboe.info` | No |
@@ -44037,8 +44040,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,451 |
-| Normal | 32,543 |
+| Cloudflare | 11,453 |
+| Normal | 32,544 |
 
 
 ### 26% of public Fediverse services are using Cloudflare.
