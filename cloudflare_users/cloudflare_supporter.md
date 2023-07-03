@@ -519,6 +519,7 @@ Do not create new issue or we will close it as duplicate.
 | [Akar67545006@twitter](https://twitter.com/Akar67545006/status/1390752582860107778) | advertise |
 | [AkarAka20629391@twitter](https://twitter.com/AkarAka20629391/status/1391852878222987269) | advertise |
 | [Akash87771@twitter](https://twitter.com/Akash87771/status/1381829838646865922) | advertise |
+| [Akash97862429@twitter](https://twitter.com/Akash97862429/status/1675046087986642944) | advertise |
 | [AkashAg49927866@twitter](https://twitter.com/AkashAg49927866/status/1397943093442191361) | advertise |
 | [AkashBh0097@twitter](https://twitter.com/AkashBh0097/status/1540996998597267456) | advertise |
 | [akashgmoga@twitter](https://twitter.com/akashgmoga/status/1399928058098819073) | advertise |
@@ -8938,6 +8939,7 @@ Do not create new issue or we will close it as duplicate.
 | [NweOoSwe1@twitter](https://twitter.com/NweOoSwe1/status/1390971223786418177) | advertise |
 | [NwetYeeWin3@twitter](https://twitter.com/NwetYeeWin3/status/1393197108929261571) | advertise |
 | [NwlCed@twitter](https://twitter.com/NwlCed/status/1488854472655007746) | advertise |
+| [NWRP_eu@twitter](https://twitter.com/NWRP_eu/status/1675294969462943744) | advertise |
 | [NyaHo_vrc@twitter](https://twitter.com/NyaHo_vrc/status/1615949643099308032) | advertise |
 | [Nyangyi48157984@twitter](https://twitter.com/Nyangyi48157984/status/1401538518430539782) | advertise |
 | [NyanKhant1@twitter](https://twitter.com/NyanKhant1/status/1395592053048758273) | advertise |
@@ -11037,6 +11039,7 @@ Do not create new issue or we will close it as duplicate.
 | [sn_bsb@twitter](https://twitter.com/sn_bsb/status/1664284881843806211) | advertise |
 | [soangtwt@twitter](https://twitter.com/soangtwt/status/1519443593572020224) | advertise |
 | [SobireenK@twitter](https://twitter.com/SobireenK/status/1394443082637070340) | advertise |
+| [socksadvisor@twitter](https://twitter.com/socksadvisor/status/1675427600347582465) | advertise |
 | [soeaungnaing23@twitter](https://twitter.com/soeaungnaing23/status/1379767879344656384) | advertise |
 | [SoeGyi14472135@twitter](https://twitter.com/SoeGyi14472135/status/1390251552225566723) | advertise |
 | [SoeHlaHan1@twitter](https://twitter.com/SoeHlaHan1/status/1392152815091523586) | advertise |
@@ -11536,6 +11539,7 @@ Do not create new issue or we will close it as duplicate.
 | [TechRedneck901@twitter](https://twitter.com/TechRedneck901/status/1396056226329505794) | advertise |
 | [TechTailor@twitter](https://twitter.com/TechTailor/status/1381152232410816514) | advertise |
 | [techtweetlive@twitter](https://twitter.com/techtweetlive/status/1447213119869050886) | advertise |
+| [TechWithWTD@twitter](https://twitter.com/TechWithWTD/status/1675182811043512320) | advertise |
 | [tech_dts@twitter](https://twitter.com/tech_dts/status/1620981471401099264) | advertise |
 | [Teddy2100@twitter](https://twitter.com/Teddy2100/status/1379049599210512384) | advertise |
 | [TedionBirhanu@twitter](https://twitter.com/TedionBirhanu/status/1558365661835010054) | advertise |
