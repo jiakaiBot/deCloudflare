@@ -19,6 +19,7 @@
   - [Local Area](https://localarea.crimeflare.eu.org)
   - [Clearnet Onion](https://clearnetonion.eu.org)
   - [Crimeflare Mail](https://mail.crimeflare.eu.org)
+  - [OpenGate](https://opengate.crimeflare.eu.org)
   - [This repository as website](https://decloudflare.crimeflare.eu.org) by @vXtreniusX
 - **Cloudflare Alternatives**
   - [Cloudflare Alternatives](alternative/cloudflare.md)
