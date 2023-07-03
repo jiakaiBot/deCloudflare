@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,670 |
+| com | 6,671 |
 | social | 4,228 |
 | net | 3,382 |
 | org | 2,324 |
@@ -27237,6 +27237,7 @@ Here's a list of public Fediverse services.
 | `nnct18j.com` | Yes |
 | `nneko.me` | No |
 | `nnia.space` | Yes |
+| `nnmdon.com` | No |
 | `nnn1590.org` | No |
 | `nnnuu.de` | No |
 | `nnrt.site` | No |
@@ -44041,7 +44042,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,453 |
-| Normal | 32,544 |
+| Normal | 32,545 |
 
 
 ### 26% of public Fediverse services are using Cloudflare.
