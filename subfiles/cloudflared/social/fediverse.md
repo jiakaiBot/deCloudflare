@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,673 |
+| com | 6,674 |
 | social | 4,230 |
 | net | 3,383 |
 | org | 2,328 |
-| de | 2,187 |
+| de | 2,188 |
 
 
 - Mastodon, Pleroma, etc
@@ -6903,6 +6903,7 @@ Here's a list of public Fediverse services.
 | `cocu.cc` | No |
 | `codatory.com` | Yes |
 | `code-alongsi.de` | No |
+| `code-feather.de` | No |
 | `code-in-space.dev` | Yes |
 | `code28.me` | No |
 | `code4lib.net` | No |
@@ -26427,6 +26428,7 @@ Here's a list of public Fediverse services.
 | `naza.space` | No |
 | `nazi.social` | No |
 | `nazileaks.eu` | Yes |
+| `nazokey.com` | Yes |
 | `nazone.info` | No |
 | `nazrin.moe` | No |
 | `nazuwa.de` | No |
@@ -44073,8 +44075,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,469 |
-| Normal | 32,561 |
+| Cloudflare | 11,470 |
+| Normal | 32,562 |
 
 
 ### 26% of public Fediverse services are using Cloudflare.
