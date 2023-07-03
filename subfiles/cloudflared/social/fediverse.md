@@ -3354,6 +3354,7 @@ Here's a list of public Fediverse services.
 | `bahn.social` | No |
 | `bahnhof.cz` | No |
 | `bahuma.io` | No |
+| `bainroom.info` | Yes |
 | `baiqinglyu.com` | No |
 | `baird.club` | Yes |
 | `baird.social` | Yes |
@@ -25010,6 +25011,7 @@ Here's a list of public Fediverse services.
 | `moe.reisen` | No |
 | `moe.tips` | Yes |
 | `moea.ca` | Yes |
+| `moeanime.io` | Yes |
 | `moec.top` | Yes |
 | `moeda.me` | No |
 | `moegirl.live` | Yes |
@@ -40727,6 +40729,7 @@ Here's a list of public Fediverse services.
 | `ustc.mba` | Yes |
 | `ustim.ru` | No |
 | `usual.biz` | No |
+| `usualsuspects.lol` | No |
 | `usuwolabo.page` | No |
 | `usuwotech.page` | No |
 | `usuyuki.net` | Yes |
@@ -43809,7 +43812,7 @@ Here's a list of public Fediverse services.
 | `zetawing.com` | No |
 | `zete.tk` | No |
 | `zeteo.me` | No |
-| `zetmus.fr` | No |
+| `zetmus.fr` | Yes |
 | `zetsubou.xn--q9jyb4c` | Yes |
 | `zettas.space` | No |
 | `zettelkasten.social` | No |
@@ -44070,7 +44073,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,466 |
+| Cloudflare | 11,469 |
 | Normal | 32,561 |
 
 
