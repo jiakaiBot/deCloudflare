@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [pynocaptcha 1.6.1 has 1 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/21497)
 - [Complete the updates](https://github.com/davsk/WealthInnovationsCa/issues/12)
 - [502 Bad Gateway - websocket: bad handshake](https://github.com/233boy/v2ray/issues/1168)
 - [help wanted 求助: 一直在重复尝试获取](https://github.com/fscarmen/warp/issues/444)
