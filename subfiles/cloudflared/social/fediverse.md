@@ -9445,6 +9445,7 @@ Here's a list of public Fediverse services.
 | `disco.camp` | No |
 | `discorded.io` | No |
 | `discordian.social` | No |
+| `discorevenge.xyz` | No |
 | `discorporea.com` | No |
 | `discothe.quest` | Yes |
 | `discourse-research.net` | No |
@@ -30800,6 +30801,7 @@ Here's a list of public Fediverse services.
 | `powerweb.io` | No |
 | `poya.icu` | No |
 | `poyo.me` | No |
+| `poyoro.id` | No |
 | `poyusbuddy.com` | Yes |
 | `pp.lu` | No |
 | `ppcis.org` | No |
@@ -35173,6 +35175,7 @@ Here's a list of public Fediverse services.
 | `skullb0x.io` | No |
 | `skullvines.xyz` | No |
 | `skunk.agency` | No |
+| `skunkfu.me` | No |
 | `skunkhollow.tech` | No |
 | `skunksocial.com` | Yes |
 | `skwal.net` | Yes |
@@ -44076,7 +44079,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,470 |
-| Normal | 32,562 |
+| Normal | 32,565 |
 
 
 ### 26% of public Fediverse services are using Cloudflare.
