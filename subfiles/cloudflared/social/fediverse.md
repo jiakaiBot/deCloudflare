@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,671 |
+| com | 6,672 |
 | social | 4,228 |
 | net | 3,382 |
 | org | 2,324 |
@@ -5639,6 +5639,7 @@ Here's a list of public Fediverse services.
 | `canhelpme.com` | No |
 | `canic.us` | No |
 | `canica.pe` | No |
+| `canicula.jp` | Yes |
 | `canid.one` | No |
 | `canine.cloud` | No |
 | `canineandkeyboard.com` | No |
@@ -16119,6 +16120,7 @@ Here's a list of public Fediverse services.
 | `hirtzfr.eu` | No |
 | `hiruandon.life` | No |
 | `hirunohi.com` | Yes |
+| `hiruuki.com` | Yes |
 | `his-hoes.uk` | No |
 | `hisaac.net` | No |
 | `hispagatos.org` | Yes |
@@ -25663,6 +25665,7 @@ Here's a list of public Fediverse services.
 | `mstnf.com` | Yes |
 | `mstodon.eu` | No |
 | `mstr.cloud` | Yes |
+| `msx.horse` | No |
 | `mszpro.com` | Yes |
 | `mtb.wtf` | No |
 | `mtcrew.org` | No |
@@ -44041,8 +44044,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,453 |
-| Normal | 32,545 |
+| Cloudflare | 11,455 |
+| Normal | 32,546 |
 
 
 ### 26% of public Fediverse services are using Cloudflare.
