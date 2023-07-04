@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Custom fonts with CloudFlare Workers don't work](https://github.com/harlan-zw/nuxt-og-image/issues/63)
+- [static files 500 internal server error with cloudflare.](https://github.com/vercel/next.js/issues/52163)
 - [Markdown It Broken On Non-Node Environments (Cloudflare Workers)](https://github.com/markdown-it/markdown-it/issues/945)
 - [Understanding and Resolving Error Code 1020](https://github.com/saumya077/error-code-1020/issues/1)
 - [User settings flow errors out on email confirmation stage for non superusers.](https://github.com/goauthentik/authentik/issues/6123)
