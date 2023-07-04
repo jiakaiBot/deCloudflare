@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,695 |
-| social | 4,239 |
+| com | 6,697 |
+| social | 4,241 |
 | net | 3,392 |
 | org | 2,331 |
 | de | 2,189 |
@@ -382,6 +382,7 @@ Here's a list of public Fediverse services.
 | `346production.jp` | Yes |
 | `35o.poker` | No |
 | `360.cymru` | No |
+| `3615.computer` | Yes |
 | `3644859.xyz` | Yes |
 | `36c.nl` | No |
 | `386898.xyz` | Yes |
@@ -3862,6 +3863,7 @@ Here's a list of public Fediverse services.
 | `benschcloud.de` | No |
 | `bensie.social` | No |
 | `bensmith.uk` | Yes |
+| `benstokman.me` | Yes |
 | `bentasker.co.uk` | No |
 | `benten.ch` | No |
 | `bentimento.com` | Yes |
@@ -6126,6 +6128,7 @@ Here's a list of public Fediverse services.
 | `chaoflux.de` | No |
 | `chaos-goeppingen.de` | No |
 | `chaos-gp.social` | No |
+| `chaos.futbol` | No |
 | `chaos.is` | No |
 | `chaos.koeln` | Yes |
 | `chaos.nrw` | No |
@@ -7079,7 +7082,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7108,6 +7111,7 @@ Here's a list of public Fediverse services.
 | `comfysnug.space` | No |
 | `comic.social` | No |
 | `comicbook.nexus` | No |
+| `comicfiesta.social` | Yes |
 | `comics.town` | No |
 | `comicscamp.club` | No |
 | `comicsofcolor.club` | No |
@@ -19487,6 +19491,7 @@ Here's a list of public Fediverse services.
 | `kerr.social` | No |
 | `kersny.com` | No |
 | `kertho.me` | Yes |
+| `kertwang.me` | No |
 | `keryja.tv` | No |
 | `keskonfai.fr` | No |
 | `kessai-otaku.club` | Yes |
@@ -19676,6 +19681,7 @@ Here's a list of public Fediverse services.
 | `kindred.at` | No |
 | `kindred.haus` | No |
 | `kindworld.one` | Yes |
+| `kinelab.cc` | Yes |
 | `kinesin.org` | No |
 | `kinetix.social` | Yes |
 | `kinexis.co.uk` | No |
@@ -26531,7 +26537,7 @@ Here's a list of public Fediverse services.
 | `nearly.social` | No |
 | `neat.computer` | Yes |
 | `neat.pub` | Yes |
-| `neat.tube` | No |
+| `neat.tube` | Yes |
 | `neatidea.net` | No |
 | `neb.cx` | Yes |
 | `neb.host` | No |
@@ -33307,6 +33313,7 @@ Here's a list of public Fediverse services.
 | `rushon.xyz` | No |
 | `rusingh.com` | No |
 | `rusk.app` | No |
+| `ruslo.pro` | No |
 | `rusoc.xyz` | No |
 | `russ.green` | No |
 | `russ.industries` | No |
@@ -34714,6 +34721,7 @@ Here's a list of public Fediverse services.
 | `shihoya.tokyo` | No |
 | `shiina-rimo.cafe` | Yes |
 | `shiina.cafe` | No |
+| `shikatomajo.live` | Yes |
 | `shiki.one` | No |
 | `shikiryu.ovh` | No |
 | `shillest.net` | No |
@@ -34945,6 +34953,7 @@ Here's a list of public Fediverse services.
 | `sigmy.net` | Yes |
 | `signal.net.za` | No |
 | `signal9.xyz` | No |
+| `signalfd.com` | Yes |
 | `signalfel.com` | No |
 | `signalnine.net` | No |
 | `signalstation.com` | No |
@@ -36398,6 +36407,7 @@ Here's a list of public Fediverse services.
 | `starbase80.wtf` | No |
 | `starbreaker.org` | No |
 | `starcitizen.name` | No |
+| `starcitizen.social` | No |
 | `stardenver.de` | Yes |
 | `stardenver.eu` | No |
 | `stardenver.social` | No |
@@ -38510,6 +38520,7 @@ Here's a list of public Fediverse services.
 | `theoks.net` | Yes |
 | `theoldergamers.social` | No |
 | `theologisches-forum.de` | No |
+| `theolympiastandard.com` | No |
 | `theomega.zone` | Yes |
 | `theonecurly.page` | Yes |
 | `theonetrueginger.ninja` | No |
@@ -44173,8 +44184,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,521 |
-| Normal | 32,609 |
+| Cloudflare | 11,529 |
+| Normal | 32,612 |
 
 
 ### 26.1% of public Fediverse services are using Cloudflare.
