@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,699 |
+| com | 6,700 |
 | social | 4,251 |
 | net | 3,395 |
 | org | 2,333 |
@@ -1530,6 +1530,7 @@ Here's a list of public Fediverse services.
 | `algul.in` | No |
 | `alhameedawi.com` | No |
 | `alhur.es` | Yes |
+| `aliberksandikci.com.tr` | No |
 | `alice-and-bob.de` | No |
 | `alice-tech.net` | No |
 | `alice486.com` | Yes |
@@ -37337,6 +37338,7 @@ Here's a list of public Fediverse services.
 | `synology.me` | No |
 | `synos.ovh` | No |
 | `synostrij.nl` | No |
+| `synperium.com` | No |
 | `syntaxerror.space` | No |
 | `synth.buzz` | No |
 | `synth.zip` | Yes |
@@ -44230,7 +44232,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,548 |
-| Normal | 32,638 |
+| Normal | 32,640 |
 
 
 ### 26.1% of public Fediverse services are using Cloudflare.
