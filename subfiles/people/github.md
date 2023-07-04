@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [feat: block-level calculator/dispatcher](https://github.com/MichaelXF/js-confuser/issues/100)
 - [Question Fail when uploading same file](https://github.com/ryand56/r2-upload-action/issues/217)
 - [Custom fonts with CloudFlare Workers don't work](https://github.com/harlan-zw/nuxt-og-image/issues/63)
 - [static files 500 internal server error with cloudflare.](https://github.com/vercel/next.js/issues/52163)
