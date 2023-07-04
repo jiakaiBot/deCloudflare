@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,687 |
+| com | 6,693 |
 | social | 4,238 |
-| net | 3,390 |
+| net | 3,391 |
 | org | 2,331 |
 | de | 2,189 |
 
@@ -224,6 +224,7 @@ Here's a list of public Fediverse services.
 | `13ad.de` | No |
 | `13bells.com` | No |
 | `141.lv` | No |
+| `14kw13.com` | Yes |
 | `14r8.club` | No |
 | `15-15-15.social` | No |
 | `158436977.xyz` | Yes |
@@ -4640,6 +4641,7 @@ Here's a list of public Fediverse services.
 | `bobbel.social` | No |
 | `bobbes.de` | No |
 | `bobbinsrobots.com` | No |
+| `bobby99as.me` | No |
 | `bobbyd100.com` | No |
 | `bobbyl140.com` | No |
 | `bobcall.me` | No |
@@ -6101,6 +6103,7 @@ Here's a list of public Fediverse services.
 | `chamba.social` | No |
 | `chambel.net` | No |
 | `chameth.com` | No |
+| `chamochi.club` | Yes |
 | `chamook.lol` | No |
 | `champagne.io` | No |
 | `championpictures.at` | No |
@@ -9954,7 +9957,7 @@ Here's a list of public Fediverse services.
 | `dragonbones.net` | No |
 | `dragonborn.app` | No |
 | `dragonbox.de` | No |
-| `dragoncave.dev` | No |
+| `dragoncave.dev` | Yes |
 | `dragonchat.org` | No |
 | `dragonfleye.io` | No |
 | `dragonfruit.dev` | Yes |
@@ -12557,6 +12560,7 @@ Here's a list of public Fediverse services.
 | `fixitbear.com` | No |
 | `fjara.re` | No |
 | `fjdk.uk` | Yes |
+| `fjedon.com` | No |
 | `fjerland.no` | No |
 | `fjmil.com` | No |
 | `fjordstack.com` | No |
@@ -17175,6 +17179,7 @@ Here's a list of public Fediverse services.
 | `imno.in` | No |
 | `imoimo.xyz` | No |
 | `imojito.com` | Yes |
+| `imosskey.dev` | No |
 | `imouto.wiki` | No |
 | `impa.cc` | No |
 | `impa.me` | No |
@@ -24637,6 +24642,7 @@ Here's a list of public Fediverse services.
 | `miningsunshine.com` | No |
 | `mininull.com` | Yes |
 | `minish.org` | No |
+| `miniskey.com` | Yes |
 | `ministeriumfuerinternet.de` | No |
 | `ministryofinternet.eu` | No |
 | `minitel.cloud` | No |
@@ -25072,6 +25078,7 @@ Here's a list of public Fediverse services.
 | `mofu.one` | No |
 | `mofu2charger-listenradio.net` | No |
 | `mofucloud.com` | No |
+| `mofumofu.me` | Yes |
 | `mog.blue` | Yes |
 | `mog.gg` | Yes |
 | `mogenius.io` | Yes |
@@ -28433,6 +28440,7 @@ Here's a list of public Fediverse services.
 | `omnigroup.com` | No |
 | `omnitest.social` | No |
 | `omochi.xyz` | No |
+| `omochifestival.com` | Yes |
 | `omorashi.cc` | No |
 | `omoro.info` | Yes |
 | `omtc.fr` | No |
@@ -31171,6 +31179,7 @@ Here's a list of public Fediverse services.
 | `psychedelic.cat` | No |
 | `psychoactive.space` | No |
 | `psychocandy.club` | No |
+| `psychocloud.tech` | No |
 | `psychodog.co.uk` | No |
 | `psychomantys.xyz` | Yes |
 | `psychopopular.com` | No |
@@ -31251,6 +31260,7 @@ Here's a list of public Fediverse services.
 | `pug.photos` | No |
 | `pug.social` | No |
 | `pugly.org` | Yes |
+| `pugmasu.xyz` | No |
 | `pugritos.cloud` | No |
 | `puhtahtoe.com` | Yes |
 | `pukima.site` | Yes |
@@ -32460,6 +32470,7 @@ Here's a list of public Fediverse services.
 | `reptile.love` | No |
 | `reptilehouse.info` | Yes |
 | `reptileowners.tk` | No |
+| `reptileskey.jp` | Yes |
 | `republa.lv` | No |
 | `republa.net` | No |
 | `republic.red` | Yes |
@@ -32667,6 +32678,7 @@ Here's a list of public Fediverse services.
 | `rice.id.au` | Yes |
 | `ricearoni.org` | No |
 | `ricebook.org` | No |
+| `ricecream.company` | Yes |
 | `ricejuice.xyz` | No |
 | `ricekot.com` | Yes |
 | `rich.gop` | Yes |
@@ -33756,6 +33768,7 @@ Here's a list of public Fediverse services.
 | `sasachi.tokyo` | No |
 | `sasakimasato.net` | No |
 | `sasakulab.com` | Yes |
+| `sasasin.net` | Yes |
 | `sasbaen.be` | No |
 | `sascamooch.com` | Yes |
 | `saschafoerster.de` | No |
@@ -35874,6 +35887,7 @@ Here's a list of public Fediverse services.
 | `soraneto.com` | No |
 | `soranews24.com` | No |
 | `sorasaki-ct.uk` | Yes |
+| `soraxedgemmder.me` | Yes |
 | `sorbit.no` | No |
 | `sorbonne-universite.fr` | Yes |
 | `sorcie.re` | No |
@@ -39520,6 +39534,7 @@ Here's a list of public Fediverse services.
 | `toxwat.cz` | No |
 | `toyamastdon.net` | No |
 | `toyamastodon.info` | No |
+| `toybodon.com` | No |
 | `toycode.com` | No |
 | `toyoko.in` | Yes |
 | `tpapak.com` | No |
@@ -40262,6 +40277,7 @@ Here's a list of public Fediverse services.
 | `u16.io` | Yes |
 | `u1ocloud.de` | No |
 | `u2.social` | Yes |
+| `u222news.com` | No |
 | `u2p.net` | No |
 | `u2s.cloud` | No |
 | `u32.uk` | No |
@@ -44150,8 +44166,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,506 |
-| Normal | 32,601 |
+| Cloudflare | 11,516 |
+| Normal | 32,607 |
 
 
 ### 26.1% of public Fediverse services are using Cloudflare.
