@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,697 |
-| social | 4,243 |
+| social | 4,246 |
 | net | 3,393 |
 | org | 2,332 |
 | de | 2,191 |
@@ -2253,7 +2253,7 @@ Here's a list of public Fediverse services.
 | `apartmenttherapy.com` | Yes |
 | `apathy.top` | No |
 | `apathy.tv` | No |
-| `apb.me` | No |
+| `apb.me` | Yes |
 | `apc.si` | No |
 | `apcn.nz` | Yes |
 | `apdu.fr` | No |
@@ -12059,6 +12059,7 @@ Here's a list of public Fediverse services.
 | `fedichive.tk` | No |
 | `fedicity.net` | Yes |
 | `fedico.org` | No |
+| `fediconnect.social` | No |
 | `fedida.com` | Yes |
 | `fedidb.org` | Yes |
 | `fedidex.net` | Yes |
@@ -22727,7 +22728,7 @@ Here's a list of public Fediverse services.
 | `mammonte.us` | Yes |
 | `mammoth.lol` | Yes |
 | `mammoth.place` | No |
-| `mammoth.social` | No |
+| `mammoth.social` | Yes |
 | `mammothcirc.us` | No |
 | `mammothcircus.com` | No |
 | `mammout.bzh` | Yes |
@@ -27488,6 +27489,7 @@ Here's a list of public Fediverse services.
 | `nokotaro.com` | Yes |
 | `nokotaro.work` | Yes |
 | `nola.actor` | Yes |
+| `nolabooks.social` | No |
 | `nolanfans.com` | Yes |
 | `nolani.academy` | Yes |
 | `nolanlawson.com` | No |
@@ -29557,6 +29559,7 @@ Here's a list of public Fediverse services.
 | `pbjtechnical.com` | No |
 | `pbk.social` | No |
 | `pbzweihander.dev` | No |
+| `pbzweihander.social` | Yes |
 | `pc-tiede.de` | No |
 | `pcb.fun` | No |
 | `pcbu.nl` | No |
@@ -41846,7 +41849,7 @@ Here's a list of public Fediverse services.
 | `warrows.fr` | No |
 | `warroza.pl` | No |
 | `warsow-online.de` | No |
-| `warubure.online` | No |
+| `warubure.online` | Yes |
 | `warudo.art` | No |
 | `was-solls.de` | No |
 | `wasabi.social` | Yes |
@@ -44202,8 +44205,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,535 |
-| Normal | 32,624 |
+| Cloudflare | 11,539 |
+| Normal | 32,623 |
 
 
 ### 26.1% of public Fediverse services are using Cloudflare.
