@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,697 |
-| social | 4,241 |
-| net | 3,392 |
-| org | 2,331 |
+| social | 4,243 |
+| net | 3,393 |
+| org | 2,332 |
 | de | 2,189 |
 
 
@@ -917,6 +917,7 @@ Here's a list of public Fediverse services.
 | `accountant.social` | No |
 | `accounting.social` | No |
 | `accretion.eu.org` | No |
+| `accum.se` | No |
 | `acegiak.net` | No |
 | `aceinpink.social` | No |
 | `aceinteract.social` | No |
@@ -5202,6 +5203,7 @@ Here's a list of public Fediverse services.
 | `bsd.social` | No |
 | `bsdnode.xyz` | No |
 | `bsg75.app` | No |
+| `bsky.business` | No |
 | `bslounge.com` | No |
 | `bsmhome.de` | No |
 | `bsmserverone.net` | No |
@@ -8253,6 +8255,7 @@ Here's a list of public Fediverse services.
 | `daf.ug` | Yes |
 | `daffodil-11.org` | No |
 | `daft.host` | Yes |
+| `daftarin.net` | No |
 | `dafzthomas.com` | Yes |
 | `dagashiya.social` | Yes |
 | `dagegenbewegen.social` | No |
@@ -12753,6 +12756,7 @@ Here's a list of public Fediverse services.
 | `fmind.me` | No |
 | `fmty.cloud` | Yes |
 | `fmvilas.me` | No |
+| `fnaf.stream` | Yes |
 | `fnando.com` | No |
 | `fnky.nz` | Yes |
 | `fnkysloth.net` | Yes |
@@ -22478,6 +22482,7 @@ Here's a list of public Fediverse services.
 | `madamisskey.net` | No |
 | `madbob.org` | No |
 | `madcam.co.uk` | No |
+| `madden.house` | No |
 | `madder-mad.net` | No |
 | `maddie.cloud` | No |
 | `maddie.info` | No |
@@ -22717,6 +22722,7 @@ Here's a list of public Fediverse services.
 | `mametsuko.net` | Yes |
 | `mamgrac.pl` | No |
 | `mamieserv.fr` | No |
+| `mamisrv.ne.jp` | Yes |
 | `mammonte.us` | Yes |
 | `mammoth.lol` | Yes |
 | `mammoth.place` | No |
@@ -24578,6 +24584,7 @@ Here's a list of public Fediverse services.
 | `milosz.wtf` | No |
 | `milpamerica.org` | No |
 | `miltackink.space` | No |
+| `miltodon.social` | No |
 | `miltonkeynes.social` | No |
 | `milway.ca` | No |
 | `milyd.pl` | Yes |
@@ -31747,6 +31754,7 @@ Here's a list of public Fediverse services.
 | `raccoon.cafe` | No |
 | `raccoon.college` | Yes |
 | `raccoon.community` | Yes |
+| `raccoon.garden` | No |
 | `raccoon.id` | Yes |
 | `raccoon.life` | No |
 | `raccoon.network` | No |
@@ -32954,6 +32962,7 @@ Here's a list of public Fediverse services.
 | `rockhost.se` | No |
 | `rocklin.dev` | Yes |
 | `rocklobster.cat` | No |
+| `rockman.zip` | No |
 | `rockoo.pw` | No |
 | `rockosbasilisk.com` | Yes |
 | `rockpaperjelly.com` | Yes |
@@ -34712,6 +34721,7 @@ Here's a list of public Fediverse services.
 | `shi-jk.com` | Yes |
 | `shi4home.com` | Yes |
 | `shibe.family` | Yes |
+| `shibimega.social` | Yes |
 | `shiftyeyed.net` | No |
 | `shigadon.com` | No |
 | `shigezen.com` | No |
@@ -35269,6 +35279,7 @@ Here's a list of public Fediverse services.
 | `skweez.net` | No |
 | `skwerl.dev` | No |
 | `sky-em.id.au` | No |
+| `skyarrow.org` | No |
 | `skyax.design` | Yes |
 | `skycademc.com` | Yes |
 | `skye.cx` | No |
@@ -38794,6 +38805,7 @@ Here's a list of public Fediverse services.
 | `thomaswictor.com` | No |
 | `thomaszwirner.de` | No |
 | `thomcat.rocks` | No |
+| `thon.kr` | Yes |
 | `thopex.de` | No |
 | `thoresson.social` | No |
 | `thorium.cc` | No |
@@ -40673,6 +40685,7 @@ Here's a list of public Fediverse services.
 | `unroot.de` | No |
 | `uns.social` | Yes |
 | `unsafe.co` | No |
+| `unsafe.codes` | No |
 | `unsafe.space` | No |
 | `unsalle.de` | No |
 | `unsandboxed.org` | Yes |
@@ -44184,8 +44197,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,529 |
-| Normal | 32,612 |
+| Cloudflare | 11,533 |
+| Normal | 32,621 |
 
 
 ### 26.1% of public Fediverse services are using Cloudflare.
