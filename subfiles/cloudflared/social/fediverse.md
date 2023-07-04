@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,693 |
-| social | 4,238 |
-| net | 3,391 |
+| com | 6,695 |
+| social | 4,239 |
+| net | 3,392 |
 | org | 2,331 |
 | de | 2,189 |
 
@@ -4761,6 +4761,7 @@ Here's a list of public Fediverse services.
 | `booba.bar` | No |
 | `boobalar.net` | No |
 | `boobytooth.social` | Yes |
+| `boochan.family` | Yes |
 | `boodoo.biz` | No |
 | `boogstreken.be` | No |
 | `bookandsword.com` | No |
@@ -16113,6 +16114,7 @@ Here's a list of public Fediverse services.
 | `hillion.co.uk` | Yes |
 | `hilltown.studio` | No |
 | `hilmarp.social` | No |
+| `hilot06.com` | Yes |
 | `hima-jin.info` | No |
 | `himagine.club` | No |
 | `himanshuanand.com` | Yes |
@@ -17205,6 +17207,7 @@ Here's a list of public Fediverse services.
 | `in-berlin.de` | No |
 | `in-de-hand.info` | No |
 | `in-deep.blue` | No |
+| `in-nw.net` | Yes |
 | `in-purple.de` | Yes |
 | `in-stuggi.de` | No |
 | `in-ter.net` | Yes |
@@ -24847,6 +24850,7 @@ Here's a list of public Fediverse services.
 | `mithril.re` | No |
 | `mithriltower.com` | No |
 | `mithuru.online` | Yes |
+| `mitir.social` | Yes |
 | `mitra.pm` | No |
 | `mitra.social` | No |
 | `mitrailleuse.net` | Yes |
@@ -26595,6 +26599,7 @@ Here's a list of public Fediverse services.
 | `neko.pics` | No |
 | `neko.space` | No |
 | `neko.st` | Yes |
+| `neko3.dev` | No |
 | `neko33.net` | No |
 | `nekocat.info` | No |
 | `nekocave.xyz` | Yes |
@@ -29002,6 +29007,7 @@ Here's a list of public Fediverse services.
 | `oursocialism.today` | No |
 | `ourspacemusic.com` | No |
 | `oursquad.rocks` | Yes |
+| `ourt-ai.work` | No |
 | `ourtribeonline.com` | No |
 | `ourvillage.news` | Yes |
 | `ourvillage.social` | Yes |
@@ -34726,6 +34732,7 @@ Here's a list of public Fediverse services.
 | `shinenelson.com` | No |
 | `shinkai.party` | Yes |
 | `shinkaifan.com` | No |
+| `shinminato.com` | No |
 | `shinobu.cloud` | Yes |
 | `shinobu.space` | Yes |
 | `shinomin.me` | Yes |
@@ -42227,7 +42234,7 @@ Here's a list of public Fediverse services.
 | `whydoesntmycode.work` | No |
 | `whymark.net` | Yes |
 | `whymark.social` | Yes |
-| `whynotdrs.org` | No |
+| `whynotdrs.org` | Yes |
 | `whyso.social` | Yes |
 | `whytheyfight.com` | Yes |
 | `wi51.cc` | No |
@@ -44166,8 +44173,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,516 |
-| Normal | 32,607 |
+| Cloudflare | 11,521 |
+| Normal | 32,609 |
 
 
 ### 26.1% of public Fediverse services are using Cloudflare.
