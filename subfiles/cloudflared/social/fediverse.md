@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,243 |
 | net | 3,393 |
 | org | 2,332 |
-| de | 2,189 |
+| de | 2,191 |
 
 
 - Mastodon, Pleroma, etc
@@ -557,6 +557,7 @@ Here's a list of public Fediverse services.
 | `5evo.com` | Yes |
 | `5evo.fan` | No |
 | `5f5.org` | No |
+| `5f9.de` | No |
 | `5hanayome.cyou` | No |
 | `5july.net` | No |
 | `5jung.com` | Yes |
@@ -26282,6 +26283,7 @@ Here's a list of public Fediverse services.
 | `nagato.ro` | Yes |
 | `nagayodon.com` | No |
 | `nagekar.com` | Yes |
+| `nagele.cloud` | Yes |
 | `naggel.com` | No |
 | `naghdbishi.ir` | No |
 | `nagi.fan` | Yes |
@@ -26831,6 +26833,7 @@ Here's a list of public Fediverse services.
 | `nether.net` | No |
 | `netheredge.com` | No |
 | `nethole.us` | No |
+| `netko.kr` | No |
 | `netlandish.com` | No |
 | `netlib.re` | No |
 | `netlify.app` | Yes |
@@ -29786,6 +29789,7 @@ Here's a list of public Fediverse services.
 | `perron.live` | No |
 | `perry.cool` | No |
 | `persadon.com` | No |
+| `persempio.de` | No |
 | `persia.social` | No |
 | `persians.life` | Yes |
 | `persiansmastodon.com` | Yes |
@@ -35588,6 +35592,7 @@ Here's a list of public Fediverse services.
 | `snoval.art` | Yes |
 | `snow-crash.org` | No |
 | `snowandtweet.jp` | No |
+| `snowberry.cc` | Yes |
 | `snowcat.link` | No |
 | `snowchyld.org` | Yes |
 | `snowcloud.one` | Yes |
@@ -44197,8 +44202,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,533 |
-| Normal | 32,621 |
+| Cloudflare | 11,535 |
+| Normal | 32,624 |
 
 
 ### 26.1% of public Fediverse services are using Cloudflare.
