@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,697 |
-| social | 4,246 |
+| com | 6,698 |
+| social | 4,247 |
 | net | 3,393 |
 | org | 2,332 |
 | de | 2,191 |
@@ -11046,6 +11046,7 @@ Here's a list of public Fediverse services.
 | `enrhu.be` | No |
 | `enricpineda.cat` | No |
 | `ensapn.ovh` | No |
+| `enshittification.social` | Yes |
 | `ensilib.re` | No |
 | `enso.ist` | Yes |
 | `enss.cloud` | Yes |
@@ -16141,6 +16142,7 @@ Here's a list of public Fediverse services.
 | `hinabita.com` | No |
 | `hinachima.net` | No |
 | `hinaloe.net` | No |
+| `hinamisskey.com` | Yes |
 | `hinanawi.net` | Yes |
 | `hinanzyo.net` | Yes |
 | `hinarisskey.com` | Yes |
@@ -44205,7 +44207,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,539 |
+| Cloudflare | 11,541 |
 | Normal | 32,623 |
 
 
