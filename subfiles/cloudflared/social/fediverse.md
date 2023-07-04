@@ -31736,6 +31736,7 @@ Here's a list of public Fediverse services.
 | `r3bl.me` | Yes |
 | `r3bl.social` | No |
 | `r3dp1ll.sh` | No |
+| `r3networks.uk` | Yes |
 | `r3pek.org` | No |
 | `r3s.nrw` | No |
 | `r3valkyrie.com` | Yes |
@@ -44228,7 +44229,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,547 |
+| Cloudflare | 11,548 |
 | Normal | 32,638 |
 
 
