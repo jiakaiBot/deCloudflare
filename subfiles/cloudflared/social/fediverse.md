@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,708 |
+| com | 6,711 |
 | social | 4,254 |
-| net | 3,403 |
+| net | 3,406 |
 | org | 2,337 |
 | de | 2,193 |
 
@@ -8702,6 +8702,7 @@ Here's a list of public Fediverse services.
 | `ddcloud.info` | No |
 | `ddddd.red` | No |
 | `dddug.in` | No |
+| `ddlia.com` | Yes |
 | `ddn.social` | No |
 | `ddna.co` | No |
 | `ddns.net` | Yes |
@@ -16450,7 +16451,7 @@ Here's a list of public Fediverse services.
 | `honk.best` | No |
 | `honk.city` | Yes |
 | `honk.farm` | Yes |
-| `honking.online` | No |
+| `honking.online` | Yes |
 | `honks.io` | No |
 | `honksybonksy.com` | No |
 | `honkwerx.tech` | No |
@@ -18805,6 +18806,7 @@ Here's a list of public Fediverse services.
 | `jplocalization.social` | No |
 | `jplus7.fr` | No |
 | `jpn.xyz` | Yes |
+| `jpnatu.net` | Yes |
 | `jpnearl.com` | No |
 | `jpnews.site` | No |
 | `jpop.club` | No |
@@ -18964,6 +18966,7 @@ Here's a list of public Fediverse services.
 | `justodon.net` | No |
 | `justonecookbook.com` | Yes |
 | `justos.info` | No |
+| `justpassed.blue` | Yes |
 | `justpeace.social` | No |
 | `justporn.cc` | No |
 | `justpotato.net` | Yes |
@@ -19688,7 +19691,7 @@ Here's a list of public Fediverse services.
 | `kikrr.social` | No |
 | `kikuzuki.org` | No |
 | `kila.rocks` | No |
-| `kilinbox.cc` | No |
+| `kilinbox.cc` | Yes |
 | `kilinbox.net` | No |
 | `kilioa.net` | No |
 | `kilioa.org` | No |
@@ -20052,6 +20055,7 @@ Here's a list of public Fediverse services.
 | `koenvh.nl` | No |
 | `koesters.xyz` | No |
 | `koetodon.com` | No |
+| `kog.to` | No |
 | `kogak.ninja` | No |
 | `kogak.xyz` | No |
 | `kogasa.de` | No |
@@ -22516,6 +22520,7 @@ Here's a list of public Fediverse services.
 | `macmynatt.social` | No |
 | `macneilmediagroup.com` | Yes |
 | `macnemo.social` | No |
+| `maco.pics` | Yes |
 | `macondo.info` | No |
 | `macro.tokyo` | No |
 | `macrodd.online` | No |
@@ -24730,6 +24735,7 @@ Here's a list of public Fediverse services.
 | `minorkey.social` | No |
 | `minorthoughts.com` | No |
 | `minovsky.space` | No |
+| `minsterhorn.com` | No |
 | `mint-n-er.de` | No |
 | `mint-nrw.social` | No |
 | `mint.lgbt` | No |
@@ -24755,6 +24761,7 @@ Here's a list of public Fediverse services.
 | `miraz.me` | No |
 | `mirbsd.org` | No |
 | `mircoweb.de` | No |
+| `mirenk.net` | Yes |
 | `miri.my` | No |
 | `miri.site` | No |
 | `miri64.xyz` | No |
@@ -25654,6 +25661,7 @@ Here's a list of public Fediverse services.
 | `mstdn-jp.site` | Yes |
 | `mstdn-kanazawa.jp` | No |
 | `mstdn-kichijoji.tokyo` | No |
+| `mstdn-kitakubu.com` | No |
 | `mstdn-kngames.net` | No |
 | `mstdn-kr.com` | No |
 | `mstdn-mfmf.space` | No |
@@ -28315,6 +28323,7 @@ Here's a list of public Fediverse services.
 | `oflosky.com` | Yes |
 | `ofm.bar` | No |
 | `ofmd.social` | No |
+| `ofraglapis.net` | No |
 | `oft.social` | No |
 | `ofthe.top` | No |
 | `oftrolls.com` | No |
@@ -28467,6 +28476,7 @@ Here's a list of public Fediverse services.
 | `olma.me` | No |
 | `olomorn.net` | No |
 | `olpre.me` | No |
+| `olry.cc` | No |
 | `olry.co` | No |
 | `olry.me` | No |
 | `ols.wtf` | Yes |
@@ -29428,6 +29438,7 @@ Here's a list of public Fediverse services.
 | `paradox1x.org` | No |
 | `paragon-es.de` | Yes |
 | `paragonia.nl` | No |
+| `parallel.jp` | No |
 | `param.codes` | Yes |
 | `paramdeo.co` | Yes |
 | `paramdeo.com` | Yes |
@@ -31541,6 +31552,7 @@ Here's a list of public Fediverse services.
 | `qore.no` | Yes |
 | `qorg11.net` | No |
 | `qoto.org` | No |
+| `qou.moe` | Yes |
 | `qouop.net` | Yes |
 | `qowala.org` | No |
 | `qownnotes.org` | Yes |
@@ -33005,6 +33017,7 @@ Here's a list of public Fediverse services.
 | `robotconspirator.com` | Yes |
 | `robotham.dev` | No |
 | `robothive.net` | No |
+| `robotician.jp` | No |
 | `robotics-ai.social` | No |
 | `robotstart.info` | No |
 | `robox.org` | No |
@@ -39256,6 +39269,7 @@ Here's a list of public Fediverse services.
 | `tokknet.eu` | No |
 | `tokler.com` | No |
 | `tokless.com` | No |
+| `toko-chan.love` | Yes |
 | `tokoyo.social` | Yes |
 | `toktan.org` | Yes |
 | `tokudan.de` | No |
@@ -43957,7 +43971,7 @@ Here's a list of public Fediverse services.
 | `zeitverschreib.de` | No |
 | `zeka.cloud` | Yes |
 | `zekjur.net` | Yes |
-| `zeku.org` | No |
+| `zeku.org` | Yes |
 | `zelibertinegamer.me` | No |
 | `zelifcam.social` | No |
 | `zell-mbc.com` | No |
@@ -44246,6 +44260,7 @@ Here's a list of public Fediverse services.
 | `zveryok.pp.ua` | No |
 | `zvr.gr` | No |
 | `zvt.social` | No |
+| `zvz.be` | Yes |
 | `zw.lu` | No |
 | `zwei.net` | No |
 | `zweibruecken.social` | No |
@@ -44290,8 +44305,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,584 |
-| Normal | 32,663 |
+| Cloudflare | 11,595 |
+| Normal | 32,667 |
 
 
 ### 26.2% of public Fediverse services are using Cloudflare.
