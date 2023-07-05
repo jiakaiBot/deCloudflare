@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare cannot get ipv4 address](https://github.com/home-assistant/core/issues/95932)
+- [Docker appears to not have SSL (latest and v.2.11.0 tag)](https://github.com/troglobit/inadyn/issues/429)
 - [Erron when hosting in Cloudflare with Server Side Rendering enabled](https://github.com/withastro/astro/issues/7572)
 - [v2fly似乎测试通过，不过机器人返回connect: connection refused](https://github.com/whyiyhw/chatgpt-wechat/issues/89)
 - [Error reddit scraping](https://github.com/JustAnotherArchivist/snscrape/issues/1005)
