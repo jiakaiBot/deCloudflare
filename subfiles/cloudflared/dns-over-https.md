@@ -231,7 +231,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | n0.eu | No |
 | nas-server.ru | Yes |
 | nexific.it | Yes |
-| ngc7331.top | Yes |
 | nguyendn.com | Yes |
 | nhtsky.com | Yes |
 | nic.cz | No |
@@ -283,7 +282,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rokh.biz | Yes |
 | ronc.ru | No |
 | rouga.ch | Yes |
-| rowdyengeesje.nl | No |
 | rsaikat.com | No |
 | rwth-aachen.de | No |
 | safeservedns.com | No |
@@ -372,8 +370,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 178 |
-| Normal | 175 |
+| Cloudflare | 177 |
+| Normal | 174 |
 
 
 ### 50.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
