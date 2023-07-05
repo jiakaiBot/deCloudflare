@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Pages deployment throws 500](https://github.com/withastro/astro/issues/7566)
 - [Completed 406 NOT_ACCEPTABLE when using Cloudflare Image Resizing](https://github.com/adobe/S3Mock/issues/1208)
 - [feat: block-level calculator/dispatcher](https://github.com/MichaelXF/js-confuser/issues/100)
 - [Question Fail when uploading same file](https://github.com/ryand56/r2-upload-action/issues/217)
