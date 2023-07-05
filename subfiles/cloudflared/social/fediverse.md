@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,721 |
 | social | 4,262 |
-| net | 3,413 |
+| net | 3,414 |
 | org | 2,340 |
 | de | 2,193 |
 
@@ -19282,6 +19282,7 @@ Here's a list of public Fediverse services.
 | `karatek.net` | Yes |
 | `karateka.social` | No |
 | `karatekarnickel.de` | No |
+| `karene.net` | No |
 | `kariance.xyz` | No |
 | `karjalazet.se` | No |
 | `karkador.com` | No |
@@ -26330,6 +26331,7 @@ Here's a list of public Fediverse services.
 | `n0n1337h41.com` | Yes |
 | `n0r1sk.com` | No |
 | `n0t.net` | No |
+| `n0t3x1l.ovh` | Yes |
 | `n0tath1ng.club` | No |
 | `n11o.com` | No |
 | `n1l.dev` | Yes |
@@ -44370,8 +44372,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,631 |
-| Normal | 32,696 |
+| Cloudflare | 11,632 |
+| Normal | 32,697 |
 
 
 ### 26.2% of public Fediverse services are using Cloudflare.
