@@ -815,6 +815,7 @@ Do not create new issue or we will close it as duplicate.
 | [AndyNgu5@twitter](https://twitter.com/AndyNgu5/status/1553285625310478336) | advertise |
 | [AndyNguyen_9x@twitter](https://twitter.com/AndyNguyen_9x/status/1498588655061192708) | advertise |
 | [andy_burn5@twitter](https://twitter.com/andy_burn5/status/1505697779636604930) | advertise |
+| [aneem8or@twitter](https://twitter.com/aneem8or/status/1674717570191040512) | advertise |
 | [anerroroccurs@twitter](https://twitter.com/anerroroccurs/status/1576127853514539008) | advertise |
 | [ang36461321@twitter](https://twitter.com/ang36461321/status/1643983823984807943) | advertise |
 | [Angel64305780@twitter](https://twitter.com/Angel64305780/status/1390191404953997312) | advertise |
@@ -2419,6 +2420,7 @@ Do not create new issue or we will close it as duplicate.
 | [crofflendcoffee@twitter](https://twitter.com/crofflendcoffee/status/1536313341504720896) | advertise |
 | [CRONUSISLIVE@twitter](https://twitter.com/CRONUSISLIVE/status/1513956818644783104) | advertise |
 | [crosiderr@twitter](https://twitter.com/crosiderr/status/1379494464545243136) | advertise |
+| [CrowdlingoUK@twitter](https://twitter.com/CrowdlingoUK/status/1676586922381041664) | advertise |
 | [CrusaderConsta1@twitter](https://twitter.com/CrusaderConsta1/status/1524146353596936192) | advertise |
 | [Crush82584793@twitter](https://twitter.com/Crush82584793/status/1396107509656481794) | advertise |
 | [crxckyt@twitter](https://twitter.com/crxckyt/status/1385437055799418882) | advertise |
@@ -5032,6 +5034,7 @@ Do not create new issue or we will close it as duplicate.
 | [Irfankh04933214@twitter](https://twitter.com/Irfankh04933214/status/1398707064839548929) | advertise |
 | [IrfanKh53230465@twitter](https://twitter.com/IrfanKh53230465/status/1389479001853366274) | advertise |
 | [IrinAkt53311722@twitter](https://twitter.com/IrinAkt53311722/status/1519997951439159297) | advertise |
+| [irishdash@twitter](https://twitter.com/irishdash/status/1676254244209569794) | advertise |
 | [IrisNaw101@twitter](https://twitter.com/IrisNaw101/status/1393070529100328960) | advertise |
 | [iris_zayar@twitter](https://twitter.com/iris_zayar/status/1400052925255225346) | advertise |
 | [IRONCRO25980197@twitter](https://twitter.com/IRONCRO25980197/status/1502805806395584512) | advertise |
@@ -5674,6 +5677,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kaozad1@twitter](https://twitter.com/Kaozad1/status/1552611330481623040) | advertise |
 | [KapadiyaVikas@twitter](https://twitter.com/KapadiyaVikas/status/1393500402453123074) | advertise |
 | [karaar_AIi@twitter](https://twitter.com/karaar_AIi/status/1520412097917730817) | advertise |
+| [KaraMustafa76@twitter](https://twitter.com/KaraMustafa76/status/1676126946202140678) | advertise |
 | [karanontweater@twitter](https://twitter.com/karanontweater/status/1395265830582112270) | advertise |
 | [KaranSi07920301@twitter](https://twitter.com/KaranSi07920301/status/1563604889799835648) | advertise |
 | [kareldekrab@twitter](https://twitter.com/kareldekrab/status/1506657436379361283) | advertise |
@@ -9745,6 +9749,7 @@ Do not create new issue or we will close it as duplicate.
 | [PubgMdlinpubg1@twitter](https://twitter.com/PubgMdlinpubg1/status/1577250430593253377) | advertise |
 | [PubRicardo@twitter](https://twitter.com/PubRicardo/status/1398443571536146435) | advertise |
 | [Pucuk15146444@twitter](https://twitter.com/Pucuk15146444/status/1395245832069210115) | advertise |
+| [PuhanRobert@twitter](https://twitter.com/PuhanRobert/status/1676262352738570240) | advertise |
 | [PujaDev64573407@twitter](https://twitter.com/PujaDev64573407/status/1617906792750776323) | advertise |
 | [PUJIANTO@twitter](https://twitter.com/PUJIANTO/status/1442524922501160971) | advertise |
 | [PuLu30355961@twitter](https://twitter.com/PuLu30355961/status/1389410310419664902) | advertise |
@@ -10690,6 +10695,7 @@ Do not create new issue or we will close it as duplicate.
 | [seng56247896@twitter](https://twitter.com/seng56247896/status/1394390113539567617) | advertise |
 | [SengKhay11@twitter](https://twitter.com/SengKhay11/status/1550693965955219456) | advertise |
 | [Sengsanlung1@twitter](https://twitter.com/Sengsanlung1/status/1666742871352053762) | advertise |
+| [senior_s99@twitter](https://twitter.com/senior_s99/status/1676213550128279552) | advertise |
 | [senorganja@twitter](https://twitter.com/senorganja/status/1536000717227450369) | advertise |
 | [Senpai32219852@twitter](https://twitter.com/Senpai32219852/status/1493671781646974982) | advertise |
 | [senpei2000@twitter](https://twitter.com/senpei2000/status/1395706478577602561) | advertise |
