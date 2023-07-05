@@ -106,7 +106,7 @@ Here's a list of breached sites.
 | Boxee | 158,093 | No |
 | BrandNewTube (Brand New Tube) | 349,627 | Yes |
 | Brazzers | 790,724 | No |
-| BreachForumsClone (BreachForums Clone) | 4,204 | No |
+| BreachForumsClone (BreachForums Clone) | 4,204 | Yes |
 | BtoBet | 444,241 | No |
 | Bukalapak | 13,369,666 | Yes |
 | BulgarianNationalRevenueAgency (Bulgarian National Revenue Agency) | 471,167 | Yes |
@@ -114,7 +114,7 @@ Here's a list of breached sites.
 | CDEK | 19,218,203 | No |
 | CDProjektRed (CD Projekt RED) | 1,871,373 | Yes |
 | COMELEC (COMELEC (Philippines Voters)) | 228,605 | Yes |
-| CTARS | 12,314 | No |
+| CTARS | 12,314 | Yes |
 | CafeMom | 2,628,148 | No |
 | CafePress | 23,205,290 | Yes |
 | CannabisForum (Cannabis.com) | 227,746 | Yes |
@@ -228,7 +228,7 @@ Here's a list of breached sites.
 | Fling | 40,767,652 | No |
 | Foodora | 582,578 | Yes |
 | Forbes | 1,057,819 | Yes |
-| ForumCommunity | 776,648 | No |
+| ForumCommunity | 776,648 | Yes |
 | Fotolog | 16,717,854 | Yes |
 | FoxyBingo (Foxy Bingo) | 252,216 | Yes |
 | FreshMenu | 110,355 | Yes |
@@ -291,7 +291,7 @@ Here's a list of breached sites.
 | Imavex | 878,209 | No |
 | IndiaMART | 20,154,583 | No |
 | IndianRailways (Indian Railways) | 583,377 | No |
-| Insanelyi | 104,097 | No |
+| Insanelyi | 104,097 | Yes |
 | InstantCheckmate (Instant Checkmate) | 11,943,887 | Yes |
 | Intelimost | 3,073,409 | No |
 | Interpals (InterPals) | 3,439,414 | Yes |
@@ -366,7 +366,7 @@ Here's a list of breached sites.
 | MastercardPricelessSpecials (Mastercard Priceless Specials) | 89,388 | No |
 | Mate1 (Mate1.com) | 27,393,015 | No |
 | Mathway | 25,692,862 | No |
-| MechoDownload (Mecho Download) | 437,928 | No |
+| MechoDownload (Mecho Download) | 437,928 | Yes |
 | MeetMindful | 1,422,717 | Yes |
 | MindJolt | 28,364,826 | No |
 | MinecraftPocketEditionForum (Minecraft Pocket Edition Forum) | 16,034 | No |
@@ -672,10 +672,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 358 | 3,928,481,074 |
-| Normal | 293 | 4,982,774,326 |
+| Cloudflare | 363 | 3,929,816,265 |
+| Normal | 288 | 4,981,439,135 |
 
 
 
-### 55% of breached sites (pwned sites) are using Cloudflare.
+### 55.8% of breached sites (pwned sites) are using Cloudflare.
 ### 44.1% of leaked accounts are on Cloudflare sites.
