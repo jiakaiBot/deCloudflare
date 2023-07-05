@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,715 |
-| social | 4,260 |
+| com | 6,719 |
+| social | 4,262 |
 | net | 3,411 |
 | org | 2,339 |
-| de | 2,192 |
+| de | 2,193 |
 
 
 - Mastodon, Pleroma, etc
@@ -5875,6 +5875,7 @@ Here's a list of public Fediverse services.
 | `categoryurls.life` | Yes |
 | `categoryurls.top` | Yes |
 | `catenet.dev` | No |
+| `catenet.social` | No |
 | `caterpillarcheesecake.xyz` | Yes |
 | `catgirl.army` | Yes |
 | `catgirl.biz` | Yes |
@@ -10108,6 +10109,7 @@ Here's a list of public Fediverse services.
 | `dronehost.space` | No |
 | `dronesocial.me` | No |
 | `droogers.eu` | No |
+| `droolware.social` | No |
 | `droom.vision` | No |
 | `drop.moe` | Yes |
 | `dropbear.club` | No |
@@ -10612,6 +10614,7 @@ Here's a list of public Fediverse services.
 | `eegle.cloud` | No |
 | `eena.me` | No |
 | `eenoog.org` | No |
+| `eepy.space` | No |
 | `eersteblik.nl` | No |
 | `eertu.be` | No |
 | `eeruwang.me` | Yes |
@@ -14025,6 +14028,7 @@ Here's a list of public Fediverse services.
 | `gayfurry.space` | No |
 | `gaygay.me` | Yes |
 | `gaygeek.social` | Yes |
+| `gaygeeks.nl` | No |
 | `gaygroup.chat` | No |
 | `gayhorse.club` | No |
 | `gayjb.cc` | No |
@@ -18979,6 +18983,7 @@ Here's a list of public Fediverse services.
 | `justinmarrington.com` | No |
 | `justinpickard.net` | No |
 | `justinsweb.com` | No |
+| `justinweiss.com` | No |
 | `justinyost.com` | No |
 | `justinyost.social` | No |
 | `justjuut.de` | No |
@@ -19013,6 +19018,7 @@ Here's a list of public Fediverse services.
 | `jyln.dev` | No |
 | `jymuoyu.com` | Yes |
 | `jynxd.it` | Yes |
+| `jzf.ski` | No |
 | `jzp.se` | No |
 | `jzqk.org` | No |
 | `k-a-i-f.ru` | No |
@@ -20929,6 +20935,7 @@ Here's a list of public Fediverse services.
 | `lazybear.io` | No |
 | `lazybear.pics` | No |
 | `lazybear.social` | No |
+| `lazybitfield.me` | No |
 | `lazycats.xyz` | No |
 | `lazygamers.club` | Yes |
 | `lazyone.fr` | No |
@@ -23952,6 +23959,7 @@ Here's a list of public Fediverse services.
 | `mcnamarii.town` | No |
 | `mcncraftodon.site` | No |
 | `mcnesium.com` | No |
+| `mcoorlim.com` | No |
 | `mcphail.uk` | No |
 | `mcqn.com` | No |
 | `mcr.cool` | No |
@@ -24579,6 +24587,7 @@ Here's a list of public Fediverse services.
 | `mikado-city.jp` | No |
 | `mikaela.info` | Yes |
 | `mikaljakubal.com` | Yes |
+| `mikapi.de` | No |
 | `mike.ai` | Yes |
 | `mikebourquin.de` | No |
 | `mikecoats.social` | Yes |
@@ -27112,6 +27121,7 @@ Here's a list of public Fediverse services.
 | `nftooters.art` | No |
 | `ngen15.tv` | Yes |
 | `ngeredwolf.me` | Yes |
+| `ngesot.com` | Yes |
 | `nghieng.net` | Yes |
 | `ngmx.com` | Yes |
 | `ngndn.jp` | No |
@@ -29843,6 +29853,7 @@ Here's a list of public Fediverse services.
 | `pentium.cc` | Yes |
 | `pento.net` | Yes |
 | `penumbra.space` | No |
+| `penwing.me.uk` | No |
 | `people-world-life.de` | No |
 | `peoplegroup.social` | No |
 | `peoplemaking.games` | No |
@@ -31427,7 +31438,7 @@ Here's a list of public Fediverse services.
 | `puppycalendar.eu` | No |
 | `puppyfire.social` | No |
 | `pups.social` | Yes |
-| `pupsaturn.dog` | No |
+| `pupsaturn.dog` | Yes |
 | `pupsparkle.nl` | Yes |
 | `pupu.moe` | Yes |
 | `pupy.cafe` | No |
@@ -34797,6 +34808,7 @@ Here's a list of public Fediverse services.
 | `shavingcream.online` | No |
 | `shawnhooper.ca` | Yes |
 | `shawnloo.ca` | Yes |
+| `shawnp0wers.com` | Yes |
 | `shbbl.ru` | Yes |
 | `shbgm.space` | No |
 | `shc.kanagawa.jp` | Yes |
@@ -35897,6 +35909,7 @@ Here's a list of public Fediverse services.
 | `sofie.dev` | No |
 | `sofla.cafe` | No |
 | `sofritoandsons.com` | No |
+| `soft.fish` | Yes |
 | `softcat.org` | No |
 | `softer.social` | No |
 | `softgirl.online` | No |
@@ -37710,6 +37723,7 @@ Here's a list of public Fediverse services.
 | `tanakadon.com` | No |
 | `tanavega.xyz` | Yes |
 | `tandarkan.com` | No |
+| `tandj-homelab.dev` | Yes |
 | `tandlers.de` | No |
 | `tane.codes` | No |
 | `tanelpoder.com` | No |
@@ -41242,6 +41256,7 @@ Here's a list of public Fediverse services.
 | `vegane.schule` | No |
 | `veganism.social` | No |
 | `veganmsp.com` | Yes |
+| `veganunity.me` | No |
 | `veganunity.rocks` | No |
 | `vegard.net` | No |
 | `vegenx.social` | No |
@@ -44339,8 +44354,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,615 |
-| Normal | 32,681 |
+| Cloudflare | 11,620 |
+| Normal | 32,691 |
 
 
 ### 26.2% of public Fediverse services are using Cloudflare.
