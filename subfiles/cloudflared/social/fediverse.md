@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,711 |
-| social | 4,254 |
-| net | 3,406 |
-| org | 2,337 |
+| social | 4,257 |
+| net | 3,409 |
+| org | 2,338 |
 | de | 2,193 |
 
 
@@ -1145,6 +1145,7 @@ Here's a list of public Fediverse services.
 | `aep.systems` | Yes |
 | `aeracode.org` | No |
 | `aerian.icu` | Yes |
+| `aerir.xyz` | Yes |
 | `aeris-one.fr` | No |
 | `aerospace.town` | No |
 | `aes.sh` | Yes |
@@ -1521,6 +1522,7 @@ Here's a list of public Fediverse services.
 | `alfoeldi.social` | No |
 | `alfter.us` | No |
 | `algarve-pur.de` | No |
+| `algathia.fr` | No |
 | `algebra.chat` | No |
 | `algebro.xyz` | No |
 | `algenhonig.de` | No |
@@ -11456,6 +11458,7 @@ Here's a list of public Fediverse services.
 | `eventide.town` | No |
 | `eventphotographie.com` | Yes |
 | `eventprofs.social` | No |
+| `eventsourcing.social` | No |
 | `everafter.digital` | No |
 | `evergood.me` | No |
 | `everlong.org` | No |
@@ -11877,6 +11880,7 @@ Here's a list of public Fediverse services.
 | `fashionviz.xyz` | No |
 | `fasil.cloud` | No |
 | `fasol.nl` | No |
+| `fasol.org` | No |
 | `fast-break.de` | No |
 | `fast-email.link` | Yes |
 | `fastco.social` | No |
@@ -18023,6 +18027,7 @@ Here's a list of public Fediverse services.
 | `jabjab.de` | No |
 | `jablon.fr` | Yes |
 | `jabrach.org` | No |
+| `jacaranda.club` | No |
 | `jacen.moe` | Yes |
 | `jachiet.com` | No |
 | `jack.rip` | Yes |
@@ -20834,6 +20839,7 @@ Here's a list of public Fediverse services.
 | `laterracita.online` | No |
 | `latest-update.eu` | No |
 | `latex.haus` | No |
+| `latex.monster` | Yes |
 | `latex.pet` | No |
 | `latinos.social` | No |
 | `latinx.space` | No |
@@ -24829,7 +24835,7 @@ Here's a list of public Fediverse services.
 | `misskey-experiment.tokyo` | No |
 | `misskey-forkbomb.cf` | Yes |
 | `misskey-square.net` | Yes |
-| `misskey-sugartarou.com` | No |
+| `misskey-sugartarou.com` | Yes |
 | `misskey.ai` | No |
 | `misskey.art` | Yes |
 | `misskey.at` | No |
@@ -30182,6 +30188,7 @@ Here's a list of public Fediverse services.
 | `pina.space` | No |
 | `pinbun.com` | Yes |
 | `pinc.tube` | No |
+| `pincade.com.au` | Yes |
 | `pine.cab` | No |
 | `pineapplemachine.com` | No |
 | `pinellas.space` | No |
@@ -30271,6 +30278,7 @@ Here's a list of public Fediverse services.
 | `pit.ninja` | No |
 | `pitchfork.club` | No |
 | `pite.biz` | No |
+| `pithyphrase.net` | Yes |
 | `pitichampi.fr` | No |
 | `pitman.social` | No |
 | `pitt.live` | No |
@@ -33386,6 +33394,7 @@ Here's a list of public Fediverse services.
 | `runfox.tk` | No |
 | `rungirls.run` | No |
 | `runlinux.net` | No |
+| `runloop.dev` | No |
 | `runnerd.net` | No |
 | `runninginthenight.com` | No |
 | `runningwithbulls.com` | No |
@@ -35438,6 +35447,7 @@ Here's a list of public Fediverse services.
 | `sleepy.tube` | No |
 | `sleepybois.social` | No |
 | `sleepycrew.social` | No |
+| `sleepyfox.social` | No |
 | `sleepygremlin.online` | No |
 | `sleiss.me` | Yes |
 | `sleroq.link` | Yes |
@@ -41920,6 +41930,7 @@ Here's a list of public Fediverse services.
 | `wappler.systems` | No |
 | `waq.dk` | Yes |
 | `waraiotoko.net` | No |
+| `warbel.net` | No |
 | `warbler.network` | No |
 | `warc.space` | No |
 | `warcraft.one` | No |
@@ -43675,6 +43686,7 @@ Here's a list of public Fediverse services.
 | `your-storageshare.de` | No |
 | `yourdata.click` | No |
 | `youre.space` | Yes |
+| `yourein.net` | Yes |
 | `yourface.social` | No |
 | `yourhome.social` | No |
 | `yourintrinsicself.com` | No |
@@ -43877,6 +43889,7 @@ Here's a list of public Fediverse services.
 | `zackroniacs.com` | No |
 | `zackwu.com` | Yes |
 | `zaclys.com` | No |
+| `zacpwhite.social` | No |
 | `zacwe.st` | Yes |
 | `zadankai.club` | Yes |
 | `zadrozni.eu` | No |
@@ -44305,8 +44318,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,595 |
-| Normal | 32,667 |
+| Cloudflare | 11,601 |
+| Normal | 32,674 |
 
 
 ### 26.2% of public Fediverse services are using Cloudflare.
