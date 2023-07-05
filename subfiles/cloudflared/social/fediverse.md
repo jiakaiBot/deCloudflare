@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,711 |
-| social | 4,257 |
+| com | 6,714 |
+| social | 4,258 |
 | net | 3,409 |
 | org | 2,338 |
 | de | 2,193 |
@@ -1594,6 +1594,7 @@ Here's a list of public Fediverse services.
 | `allgamers.net` | Yes |
 | `allgamerstalk.com` | Yes |
 | `allgays.xyz` | No |
+| `alliepa.ca` | No |
 | `allison.social` | No |
 | `allistodon.xyz` | No |
 | `alljoin.me` | No |
@@ -3721,6 +3722,7 @@ Here's a list of public Fediverse services.
 | `becker-mayer.com` | No |
 | `becker.pizza` | No |
 | `becker.soy` | No |
+| `beckerbyrd.com` | Yes |
 | `becking.saarland` | No |
 | `beckmeyer.us` | No |
 | `beckorg.com` | No |
@@ -4478,6 +4480,7 @@ Here's a list of public Fediverse services.
 | `blindwith.science` | Yes |
 | `blinry.org` | No |
 | `bliothek.social` | No |
+| `blipdrifter.com` | No |
 | `blisscampus.com` | No |
 | `blisses.org` | No |
 | `blizzard.systems` | No |
@@ -6190,7 +6193,7 @@ Here's a list of public Fediverse services.
 | `charade.social` | No |
 | `charcha.cc` | No |
 | `charcolle.art` | No |
-| `chargen.one` | No |
+| `chargen.one` | Yes |
 | `chariri.moe` | Yes |
 | `chariz.com` | Yes |
 | `charla.mx` | No |
@@ -6681,6 +6684,7 @@ Here's a list of public Fediverse services.
 | `clacks.link` | No |
 | `clacks.social` | Yes |
 | `claes.se` | Yes |
+| `claes.social` | No |
 | `claesjonsson.net` | No |
 | `clallam.lgbt` | No |
 | `clamav.net` | Yes |
@@ -16571,6 +16575,7 @@ Here's a list of public Fediverse services.
 | `hottea.us` | No |
 | `hotwaru.com` | No |
 | `hotwife.social` | No |
+| `houba.rocks` | Yes |
 | `houbahouba.de` | No |
 | `houchouas.name` | No |
 | `houghton.media` | Yes |
@@ -17176,6 +17181,7 @@ Here's a list of public Fediverse services.
 | `im-in.space` | No |
 | `im-neko.net` | Yes |
 | `im-paranoid.tk` | No |
+| `im.cm` | No |
 | `im.im` | No |
 | `im.sb` | Yes |
 | `im20a0.com` | No |
@@ -17903,6 +17909,7 @@ Here's a list of public Fediverse services.
 | `itprotalk.social` | Yes |
 | `itram.es` | Yes |
 | `itras.by` | No |
+| `its.mba` | Yes |
 | `its2.fun` | Yes |
 | `itsagooddaytobegeek.com` | No |
 | `itsall.space` | No |
@@ -26272,6 +26279,7 @@ Here's a list of public Fediverse services.
 | `mzhub.net` | No |
 | `mzn-potatochips.me` | No |
 | `mzumquadrat.de` | No |
+| `mzyy94.com` | Yes |
 | `n-cloud.ro` | No |
 | `n-i.pw` | No |
 | `n-kaiwai.work` | No |
@@ -31880,7 +31888,7 @@ Here's a list of public Fediverse services.
 | `radig.social` | No |
 | `radikal.social` | No |
 | `radio.af` | Yes |
-| `radio.fm` | No |
+| `radio.fm` | Yes |
 | `radio614.org` | No |
 | `radioaconchego.org` | No |
 | `radioalmaina.org` | No |
@@ -44318,8 +44326,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,601 |
-| Normal | 32,674 |
+| Cloudflare | 11,607 |
+| Normal | 32,676 |
 
 
 ### 26.2% of public Fediverse services are using Cloudflare.
