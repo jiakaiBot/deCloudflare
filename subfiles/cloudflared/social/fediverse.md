@@ -7097,7 +7097,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -11304,6 +11304,7 @@ Here's a list of public Fediverse services.
 | `espectro.observer` | Yes |
 | `espeech.org` | Yes |
 | `espeon.social` | No |
+| `esper.lol` | Yes |
 | `esperant.io` | No |
 | `espeweb.net` | No |
 | `espial.me` | No |
@@ -44269,8 +44270,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,568 |
-| Normal | 32,658 |
+| Cloudflare | 11,570 |
+| Normal | 32,657 |
 
 
 ### 26.2% of public Fediverse services are using Cloudflare.
