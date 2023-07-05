@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,714 |
+| com | 6,715 |
 | social | 4,260 |
 | net | 3,411 |
 | org | 2,339 |
@@ -25122,6 +25122,7 @@ Here's a list of public Fediverse services.
 | `mochi.social` | No |
 | `mochi33.com` | Yes |
 | `mochiandtea.com` | No |
+| `mochimochi-planet.com` | Yes |
 | `mochitodon.com` | No |
 | `mochiwasa.online` | No |
 | `mochiwasa.xyz` | No |
@@ -44338,7 +44339,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,614 |
+| Cloudflare | 11,615 |
 | Normal | 32,681 |
 
 
