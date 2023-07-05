@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,700 |
 | social | 4,251 |
-| net | 3,395 |
+| net | 3,396 |
 | org | 2,333 |
 | de | 2,193 |
 
@@ -10958,6 +10958,7 @@ Here's a list of public Fediverse services.
 | `emucafe.club` | No |
 | `emy.lu` | No |
 | `emy.world` | No |
+| `emymin.net` | No |
 | `en0taka.com` | Yes |
 | `ena-vocalp.com` | Yes |
 | `enbi.es` | No |
@@ -44232,7 +44233,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,548 |
-| Normal | 32,640 |
+| Normal | 32,641 |
 
 
 ### 26.1% of public Fediverse services are using Cloudflare.
