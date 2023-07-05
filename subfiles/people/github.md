@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [v2fly似乎测试通过，不过机器人返回connect: connection refused](https://github.com/whyiyhw/chatgpt-wechat/issues/89)
 - [Error reddit scraping](https://github.com/JustAnotherArchivist/snscrape/issues/1005)
 - [cloudflare need a paid plan to use it?](https://github.com/emadda/worker-tabserve-reverse-proxy/issues/1)
 - [Cloudflare Pages deployment throws 500](https://github.com/withastro/astro/issues/7566)
