@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,714 |
 | social | 4,260 |
-| net | 3,410 |
-| org | 2,338 |
+| net | 3,411 |
+| org | 2,339 |
 | de | 2,192 |
 
 
@@ -10767,6 +10767,7 @@ Here's a list of public Fediverse services.
 | `electriceye.info` | No |
 | `electricglen.com` | No |
 | `electrickite.org` | No |
+| `electricladylan.net` | No |
 | `electricmonk.social` | No |
 | `electricpea.ch` | No |
 | `electricrequiem.com` | No |
@@ -10988,6 +10989,7 @@ Here's a list of public Fediverse services.
 | `emy.lu` | No |
 | `emy.world` | No |
 | `emymin.net` | No |
+| `en.gy` | No |
 | `en0taka.com` | Yes |
 | `ena-vocalp.com` | Yes |
 | `enbi.es` | No |
@@ -28733,6 +28735,7 @@ Here's a list of public Fediverse services.
 | `opendreamnet.org` | Yes |
 | `opendrone.io` | No |
 | `openearth.dev` | No |
+| `openearth.org` | No |
 | `openedtech.social` | No |
 | `openetc.ca` | No |
 | `openevents.nz` | No |
@@ -44336,7 +44339,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,614 |
-| Normal | 32,678 |
+| Normal | 32,681 |
 
 
 ### 26.2% of public Fediverse services are using Cloudflare.
