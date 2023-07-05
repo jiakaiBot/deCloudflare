@@ -296,6 +296,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | shuting.idv.tw | Yes |
 | silen.org | Yes |
 | silentlybren.com | Yes |
+| sips.my.id | Yes |
 | siry.de | No |
 | sitdns.com | No |
 | skrep.eu | No |
@@ -370,8 +371,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 177 |
+| Cloudflare | 178 |
 | Normal | 174 |
 
 
-### 50.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
