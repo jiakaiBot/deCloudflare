@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,709 |
+| com | 6,711 |
 | social | 4,254 |
-| net | 3,405 |
+| net | 3,406 |
 | org | 2,337 |
 | de | 2,193 |
 
@@ -285,6 +285,7 @@ Here's a list of public Fediverse services.
 | `1w6.org` | No |
 | `1xx.io` | Yes |
 | `2-blog.net` | No |
+| `20011012.xyz` | Yes |
 | `2017derby.biz` | No |
 | `20320514.com` | No |
 | `204.jp` | Yes |
@@ -783,6 +784,7 @@ Here's a list of public Fediverse services.
 | `aas.wtf` | No |
 | `aasg.name` | No |
 | `aatame3.net` | Yes |
+| `aatomu.work` | Yes |
 | `ab2m.cf` | Yes |
 | `abacusswitch.me` | No |
 | `abaft.co` | No |
@@ -2884,6 +2886,7 @@ Here's a list of public Fediverse services.
 | `atomicblon.de` | No |
 | `atomicedge.online` | Yes |
 | `atomicfridge.net` | No |
+| `atomicpile.info` | No |
 | `atomicpoet.org` | No |
 | `atomicstar.xyz` | Yes |
 | `atomium.club` | No |
@@ -14406,6 +14409,7 @@ Here's a list of public Fediverse services.
 | `gimp.chat` | No |
 | `ginatic.social` | No |
 | `gingadon.com` | Yes |
+| `gingarenpo.com` | No |
 | `gingerbook.com` | No |
 | `ginju.de` | No |
 | `ginnannman.com` | Yes |
@@ -16967,6 +16971,7 @@ Here's a list of public Fediverse services.
 | `ichiroa.com` | Yes |
 | `ichliebe.games` | No |
 | `ichmagdiesen.link` | Yes |
+| `ichor.work` | Yes |
 | `ichoria.xyz` | Yes |
 | `ichraum.social` | Yes |
 | `ici.voyage` | No |
@@ -21735,6 +21740,7 @@ Here's a list of public Fediverse services.
 | `livedrone.club` | No |
 | `liveevents.world` | No |
 | `livegram.net` | No |
+| `liveinthemoment.blue` | No |
 | `liveitlive.show` | No |
 | `livelaughlove.social` | No |
 | `livelaughnude.com` | No |
@@ -22468,6 +22474,7 @@ Here's a list of public Fediverse services.
 | `mabe.space` | No |
 | `mabidn.net` | No |
 | `mablr.org` | No |
+| `mabope.com` | Yes |
 | `mabulledu.net` | No |
 | `mac-vicar.eu` | No |
 | `macaddict89.me` | Yes |
@@ -31000,7 +31007,7 @@ Here's a list of public Fediverse services.
 | `prepsandplanners.com` | No |
 | `presentdaypresenttime.com` | No |
 | `preserve.games` | No |
-| `preserve.media` | Yes |
+| `preserve.media` | No |
 | `presidentielle.tech` | No |
 | `presidentissimo.com` | No |
 | `preslav.me` | Yes |
@@ -41148,6 +41155,7 @@ Here's a list of public Fediverse services.
 | `vaughnhannon.com` | No |
 | `vaulox.dev` | No |
 | `vault105.ca` | Yes |
+| `vault322.net` | No |
 | `vault84.de` | No |
 | `vaultboy.me` | Yes |
 | `vaultliberty.us` | No |
@@ -44295,8 +44303,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,588 |
-| Normal | 32,664 |
+| Cloudflare | 11,591 |
+| Normal | 32,669 |
 
 
 ### 26.2% of public Fediverse services are using Cloudflare.
