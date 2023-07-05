@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,714 |
-| social | 4,258 |
-| net | 3,409 |
+| social | 4,260 |
+| net | 3,410 |
 | org | 2,338 |
-| de | 2,193 |
+| de | 2,192 |
 
 
 - Mastodon, Pleroma, etc
@@ -2201,6 +2201,7 @@ Here's a list of public Fediverse services.
 | `anton-tartz.de` | No |
 | `antonkovalyov.com` | No |
 | `antonlehmus.me` | No |
+| `antonovich.me` | No |
 | `antonywalton.com` | No |
 | `antopie.org` | No |
 | `antovolk.co.uk` | No |
@@ -4891,6 +4892,7 @@ Here's a list of public Fediverse services.
 | `boteden.com` | No |
 | `botequim.social` | No |
 | `boterbast.nl` | No |
+| `bothhands.ca` | No |
 | `botnet.club` | Yes |
 | `botnet.social` | No |
 | `bots-in.space` | No |
@@ -7289,6 +7291,7 @@ Here's a list of public Fediverse services.
 | `consensys.social` | Yes |
 | `consequenceofsound.net` | No |
 | `conservative.capital` | No |
+| `considerate.social` | No |
 | `consoledated.com` | No |
 | `consolving.de` | No |
 | `conspiracydistillery.com` | No |
@@ -17588,6 +17591,7 @@ Here's a list of public Fediverse services.
 | `internetsladd.se` | Yes |
 | `internetstuff.co.uk` | No |
 | `internetstuff.xyz` | Yes |
+| `internetyame.ro` | Yes |
 | `internot.no` | No |
 | `interocitor.parts` | No |
 | `interordi.com` | No |
@@ -17966,6 +17970,7 @@ Here's a list of public Fediverse services.
 | `ivor.org` | No |
 | `ivrianochi.com` | No |
 | `ivsu.es` | No |
+| `ivtune.net` | Yes |
 | `ivy.io` | No |
 | `ivy.moe` | No |
 | `ivydra.com` | Yes |
@@ -20179,6 +20184,7 @@ Here's a list of public Fediverse services.
 | `kopfstim.me` | No |
 | `kopi.place` | No |
 | `kopier.ninja` | Yes |
+| `kopimi.space` | Yes |
 | `kopis.de` | No |
 | `kopiti.am` | Yes |
 | `kopnij.in` | Yes |
@@ -20694,6 +20700,7 @@ Here's a list of public Fediverse services.
 | `lain.la` | No |
 | `lain.moe` | No |
 | `lain.sh` | No |
+| `lain.social` | No |
 | `lainchan.gay` | No |
 | `lainia.net` | No |
 | `lainia.xyz` | No |
@@ -22002,6 +22009,7 @@ Here's a list of public Fediverse services.
 | `lono.ml` | No |
 | `lono.space` | Yes |
 | `lonsdale.social` | No |
+| `loof.life` | Yes |
 | `looka.at` | No |
 | `lookbusy.org` | No |
 | `loomchild.net` | No |
@@ -28552,6 +28560,7 @@ Here's a list of public Fediverse services.
 | `on.vu` | No |
 | `on2it.net` | Yes |
 | `on74th.cloud` | No |
+| `onair.sbs` | Yes |
 | `onboardthefilm.community` | No |
 | `onchangedevie.com` | No |
 | `oncletom.io` | No |
@@ -31520,7 +31529,6 @@ Here's a list of public Fediverse services.
 | `pztrn.name` | No |
 | `pztrn.online` | No |
 | `pzyk.de` | No |
-| `pzzr.org.pl` | No |
 | `q12.im` | Yes |
 | `q13fox.com` | No |
 | `q1z.net` | No |
@@ -35761,6 +35769,7 @@ Here's a list of public Fediverse services.
 | `social-u.tokyo` | No |
 | `social-video.tk` | No |
 | `social-wahn.de` | No |
+| `social.admin.ch` | No |
 | `social.aero` | Yes |
 | `social.archi` | No |
 | `social.as` | Yes |
@@ -41600,7 +41609,6 @@ Here's a list of public Fediverse services.
 | `voiceover.actor` | No |
 | `voiceover.bar` | No |
 | `voicesintheshade.com` | No |
-| `void-icons.de` | No |
 | `void-space.space` | No |
 | `void.ac` | Yes |
 | `void.garden` | No |
@@ -44326,8 +44334,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,607 |
-| Normal | 32,676 |
+| Cloudflare | 11,612 |
+| Normal | 32,679 |
 
 
 ### 26.2% of public Fediverse services are using Cloudflare.
