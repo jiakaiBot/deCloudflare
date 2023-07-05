@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-07-05: [Network Performance Issues in IAD](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kdxh77qgr4xj)
 - 2023-06-30: [Cloudflare One connectivity issues in Melbourne region](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g0078jjwv9kp)
 - 2023-06-26: [Increased HTTP 530 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/3chbkl9nx1vr)
 - 2023-06-26: [China visitors cannot complete Cloudflare challenges](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/rz0j479qms4q)
