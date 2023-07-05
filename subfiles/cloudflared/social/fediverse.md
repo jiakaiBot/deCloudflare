@@ -5136,6 +5136,7 @@ Here's a list of public Fediverse services.
 | `broccoli.si` | No |
 | `brock.systems` | Yes |
 | `brockha.us` | No |
+| `brockhus.com.au` | Yes |
 | `brocks.social` | No |
 | `brocolis.party` | No |
 | `brocosoup.fr` | No |
@@ -39968,7 +39969,7 @@ Here's a list of public Fediverse services.
 | `troopers.agency` | No |
 | `troot.social` | No |
 | `tropical-is.land` | No |
-| `tropicalbeachclub.com` | No |
+| `tropicalbeachclub.com` | Yes |
 | `tropicalhome.rentals` | No |
 | `troplo.com` | Yes |
 | `trotlot.online` | No |
@@ -44334,8 +44335,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,612 |
-| Normal | 32,679 |
+| Cloudflare | 11,614 |
+| Normal | 32,678 |
 
 
 ### 26.2% of public Fediverse services are using Cloudflare.
