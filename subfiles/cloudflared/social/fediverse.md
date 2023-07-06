@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,749 |
 | social | 4,271 |
-| net | 3,426 |
+| net | 3,427 |
 | org | 2,345 |
 | de | 2,195 |
 
@@ -25709,6 +25709,7 @@ Here's a list of public Fediverse services.
 | `mrrlll.net` | No |
 | `mrrob.in` | No |
 | `mrroman.pl` | Yes |
+| `mrrps.net` | No |
 | `mrsmckhaos.me` | No |
 | `mrt.al` | No |
 | `mrtino.eu` | No |
@@ -44502,7 +44503,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,739 |
-| Normal | 32,719 |
+| Normal | 32,720 |
 
 
 ### 26.4% of public Fediverse services are using Cloudflare.
