@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,751 |
-| social | 4,272 |
+| com | 6,752 |
+| social | 4,273 |
 | net | 3,427 |
 | org | 2,345 |
 | de | 2,195 |
@@ -13768,6 +13768,7 @@ Here's a list of public Fediverse services.
 | `fuzzy.zone` | No |
 | `fuzzyand.gay` | No |
 | `fuzzyantler.net` | No |
+| `fuzzyfox.social` | No |
 | `fuzzygames.social` | No |
 | `fuzzyoverlords.org` | No |
 | `fuzzyroots.net` | No |
@@ -14293,6 +14294,7 @@ Here's a list of public Fediverse services.
 | `genuineparts.org` | No |
 | `genuinepet.rocks` | No |
 | `genxp.net` | No |
+| `genya0407.link` | No |
 | `genzedong.net` | No |
 | `genzine.xyz` | No |
 | `geobla.net` | No |
@@ -18855,6 +18857,7 @@ Here's a list of public Fediverse services.
 | `joshthomas.dev` | Yes |
 | `joshtriplett.org` | No |
 | `joshua.law` | Yes |
+| `joshuacarter.tk` | No |
 | `joshuacasey.net` | Yes |
 | `joshuamlee.com` | Yes |
 | `joshuaochs.com` | Yes |
@@ -19915,6 +19918,7 @@ Here's a list of public Fediverse services.
 | `kisaan.social` | Yes |
 | `kisame.jp` | Yes |
 | `kish.social` | No |
+| `kishi.ch` | No |
 | `kishkush.net` | No |
 | `kisombrella.top` | No |
 | `kisskori.eu` | No |
@@ -20430,6 +20434,7 @@ Here's a list of public Fediverse services.
 | `krkrkr.org` | No |
 | `krlk.me` | Yes |
 | `krnk.work` | Yes |
+| `krobbel.xyz` | Yes |
 | `krobier.com` | No |
 | `krohsnest.com` | No |
 | `krokodil.se` | Yes |
@@ -22397,6 +22402,7 @@ Here's a list of public Fediverse services.
 | `lukyan.eu` | No |
 | `lullis.net` | Yes |
 | `lulz.blog` | No |
+| `lulz.foo` | No |
 | `lulz.win` | No |
 | `lumberjacks.social` | Yes |
 | `lumbung.space` | No |
@@ -25746,6 +25752,7 @@ Here's a list of public Fediverse services.
 | `mshkin.online` | No |
 | `mshyazilim.com` | No |
 | `msicc.net` | No |
+| `msinfo32.uk` | Yes |
 | `msinschek.de` | No |
 | `msitc.de` | No |
 | `msjl.nl` | No |
@@ -26389,6 +26396,7 @@ Here's a list of public Fediverse services.
 | `mywanderings.org` | Yes |
 | `mywebprojects.co.uk` | No |
 | `mywire.org` | Yes |
+| `mywire.xyz` | No |
 | `myworkoutarenapeertube.cf` | No |
 | `myyouniverse.observer` | Yes |
 | `mzaha.net` | No |
@@ -31412,6 +31420,7 @@ Here's a list of public Fediverse services.
 | `prutser.lol` | Yes |
 | `prvcy.eu` | No |
 | `prx.link` | No |
+| `prxs.site` | No |
 | `pryst.de` | No |
 | `przej.me` | No |
 | `pseek.fr` | Yes |
@@ -33441,6 +33450,7 @@ Here's a list of public Fediverse services.
 | `rs64.net` | Yes |
 | `rsch.club` | No |
 | `rsch.social` | No |
+| `rscottjones.com` | No |
 | `rse43.com` | Yes |
 | `rselbach.com` | No |
 | `rsi.social` | No |
@@ -44514,8 +44524,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,744 |
-| Normal | 32,727 |
+| Cloudflare | 11,746 |
+| Normal | 32,735 |
 
 
 ### 26.4% of public Fediverse services are using Cloudflare.
