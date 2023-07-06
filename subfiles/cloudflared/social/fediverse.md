@@ -1380,6 +1380,7 @@ Here's a list of public Fediverse services.
 | `akirin.xyz` | Yes |
 | `akitadon.com` | No |
 | `akitadon.info` | No |
+| `akitsune.dev` | Yes |
 | `akiyah.com` | No |
 | `akko.gq` | No |
 | `akko.wtf` | No |
@@ -2282,7 +2283,7 @@ Here's a list of public Fediverse services.
 | `apertron.com` | No |
 | `aperture-science.engineering` | No |
 | `aperture.ink` | Yes |
-| `aperturelabs.space` | No |
+| `aperturelabs.space` | Yes |
 | `apetersburger.com` | No |
 | `apexnode.dev` | No |
 | `apfed.club` | No |
@@ -11503,7 +11504,7 @@ Here's a list of public Fediverse services.
 | `eventide.town` | No |
 | `eventphotographie.com` | Yes |
 | `eventprofs.social` | No |
-| `eventsourcing.social` | No |
+| `eventsourcing.social` | Yes |
 | `everafter.digital` | No |
 | `evergood.me` | No |
 | `everlong.org` | No |
@@ -16642,7 +16643,7 @@ Here's a list of public Fediverse services.
 | `houtx.social` | No |
 | `hovercat.social` | Yes |
 | `hovkluster.se` | No |
-| `howamun.day` | No |
+| `howamun.day` | Yes |
 | `howcyborgs.chat` | No |
 | `howd.ee` | Yes |
 | `howdee.social` | No |
@@ -17658,7 +17659,7 @@ Here's a list of public Fediverse services.
 | `intherain.club` | No |
 | `intkos.link` | No |
 | `intmax.jp` | No |
-| `intmtn.org` | No |
+| `intmtn.org` | Yes |
 | `intothecloud.net` | Yes |
 | `intothecyber.space` | No |
 | `intotheriff.com` | No |
@@ -21349,7 +21350,7 @@ Here's a list of public Fediverse services.
 | `lethallava.land` | No |
 | `lethani.ch` | No |
 | `lethar.gy` | No |
-| `letmetellyousomething.net` | No |
+| `letmetellyousomething.net` | Yes |
 | `letmiko.eu` | Yes |
 | `letna.dev` | No |
 | `letoine.fr` | No |
@@ -31359,7 +31360,7 @@ Here's a list of public Fediverse services.
 | `prowrestling.space` | No |
 | `proximitysculptor.com` | Yes |
 | `proxion.de` | No |
-| `proxmox-lab.com` | No |
+| `proxmox-lab.com` | Yes |
 | `proxnal.com` | Yes |
 | `proxymana.net` | No |
 | `proyectolanuevatierra.com` | Yes |
@@ -44463,8 +44464,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,705 |
-| Normal | 32,715 |
+| Cloudflare | 11,712 |
+| Normal | 32,709 |
 
 
 ### 26.4% of public Fediverse services are using Cloudflare.
