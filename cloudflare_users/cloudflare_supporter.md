@@ -1994,6 +1994,7 @@ Do not create new issue or we will close it as duplicate.
 | [Cabasy3@twitter](https://twitter.com/Cabasy3/status/1639513438442475520) | advertise |
 | [cabbage0102@twitter](https://twitter.com/cabbage0102/status/1415316191942299651) | advertise |
 | [CabinetsWaverly@twitter](https://twitter.com/CabinetsWaverly/status/1574829182814752793) | advertise |
+| [CADINUTOKEN@twitter](https://twitter.com/CADINUTOKEN/status/1676699702094430211) | advertise |
 | [Caesar24749342@twitter](https://twitter.com/Caesar24749342/status/1381276732813058049) | advertise |
 | [caizhenghai@twitter](https://twitter.com/caizhenghai/status/1490892229497733121) | advertise |
 | [calicomin99@twitter](https://twitter.com/calicomin99/status/1395979320401620992) | advertise |
@@ -13821,6 +13822,7 @@ Do not create new issue or we will close it as duplicate.
 | [_DepvaOTP_@twitter](https://twitter.com/_DepvaOTP_/status/1399004303788888067) | advertise |
 | [_ejlazaro@twitter](https://twitter.com/_ejlazaro/status/1600045438387691525) | advertise |
 | [_haibala_@twitter](https://twitter.com/_haibala_/status/1623057255519358976) | advertise |
+| [_hermanto@twitter](https://twitter.com/_hermanto/status/1676635911608750080) | advertise |
 | [_htet1@twitter](https://twitter.com/_htet1/status/1390121428360433672) | advertise |
 | [_hxqg@twitter](https://twitter.com/_hxqg/status/1588518959250575362) | advertise |
 | [_ishtiaquddin@twitter](https://twitter.com/_ishtiaquddin/status/1576323927806205953) | advertise |
