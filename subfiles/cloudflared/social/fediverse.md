@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,749 |
 | social | 4,271 |
-| net | 3,425 |
-| org | 2,344 |
+| net | 3,426 |
+| org | 2,345 |
 | de | 2,195 |
 
 
@@ -19157,6 +19157,7 @@ Here's a list of public Fediverse services.
 | `kafka.icu` | No |
 | `kafuka.me` | No |
 | `kag.social` | No |
+| `kagamine.jp` | No |
 | `kagamisskey.com` | Yes |
 | `kagel.ch` | Yes |
 | `kagolug.org` | No |
@@ -21158,7 +21159,7 @@ Here's a list of public Fediverse services.
 | `leif.pl` | No |
 | `leifmetcalf.com` | Yes |
 | `leigh.social` | No |
-| `lein.us` | No |
+| `lein.us` | Yes |
 | `leinde.de` | No |
 | `leingod.space` | No |
 | `leipziele.de` | No |
@@ -25438,6 +25439,7 @@ Here's a list of public Fediverse services.
 | `mooh.fr` | No |
 | `mooi.beauty` | No |
 | `mookie.xyz` | Yes |
+| `moolee.net` | No |
 | `moon.holiday` | No |
 | `moonagic.com` | Yes |
 | `moonbeam.dance` | No |
@@ -39900,6 +39902,7 @@ Here's a list of public Fediverse services.
 | `transaltar.com` | No |
 | `transcortex.social` | No |
 | `transden.lgbt` | No |
+| `transfem.org` | No |
 | `transformacion.social` | No |
 | `transforthe.win` | Yes |
 | `transfur.online` | No |
@@ -40673,7 +40676,7 @@ Here's a list of public Fediverse services.
 | `uile.nl` | No |
 | `uilleann.pizza` | Yes |
 | `uir.org.uk` | No |
-| `uitrope.com` | No |
+| `uitrope.com` | Yes |
 | `uiuxdev.social` | Yes |
 | `uji.es` | No |
 | `uk.to` | Yes |
@@ -44498,8 +44501,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,737 |
-| Normal | 32,718 |
+| Cloudflare | 11,739 |
+| Normal | 32,719 |
 
 
 ### 26.4% of public Fediverse services are using Cloudflare.
