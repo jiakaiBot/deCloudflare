@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,739 |
-| social | 4,267 |
+| com | 6,745 |
+| social | 4,268 |
 | net | 3,423 |
-| org | 2,343 |
-| de | 2,194 |
+| org | 2,344 |
+| de | 2,195 |
 
 
 - Mastodon, Pleroma, etc
@@ -3790,6 +3790,7 @@ Here's a list of public Fediverse services.
 | `begyn.be` | Yes |
 | `behemoth.social` | No |
 | `behind-the-screens.de` | No |
+| `behindthescenes.social` | No |
 | `behmerd.ir` | Yes |
 | `beige.party` | No |
 | `beingoblio.com` | No |
@@ -7747,6 +7748,7 @@ Here's a list of public Fediverse services.
 | `croplee.com` | No |
 | `cross-area.com` | No |
 | `cross.net.uk` | No |
+| `crossdon.com` | No |
 | `crossdressing.rocks` | No |
 | `crosse.org` | Yes |
 | `crossfamilyweb.com` | No |
@@ -11764,6 +11766,7 @@ Here's a list of public Fediverse services.
 | `fairground.moe` | No |
 | `fairilu.net` | No |
 | `fairmove.net` | No |
+| `fairphone.community` | No |
 | `fairpoints.social` | No |
 | `fairuse.org` | No |
 | `fairy.id` | Yes |
@@ -14073,7 +14076,7 @@ Here's a list of public Fediverse services.
 | `gaymers.me` | No |
 | `gaymers.space` | No |
 | `gayonly.ch` | No |
-| `gaypirates.club` | No |
+| `gaypirates.club` | Yes |
 | `gaypxrn.de` | No |
 | `gayrobot.club` | No |
 | `gayweeb.vip` | No |
@@ -15829,7 +15832,7 @@ Here's a list of public Fediverse services.
 | `headpat.cafe` | Yes |
 | `headpat.moe` | No |
 | `headpats.cafe` | Yes |
-| `headpats.org` | No |
+| `headpats.org` | Yes |
 | `headphone.actor` | No |
 | `heads.social` | No |
 | `headsoft.net` | No |
@@ -21183,7 +21186,7 @@ Here's a list of public Fediverse services.
 | `lemma.tk` | No |
 | `lemmerz.org` | Yes |
 | `lemmings.me` | No |
-| `lemmings.online` | No |
+| `lemmings.online` | Yes |
 | `lemmit.online` | Yes |
 | `lemmit.xyz` | Yes |
 | `lemmony.click` | No |
@@ -22628,7 +22631,7 @@ Here's a list of public Fediverse services.
 | `mad-scientist.club` | No |
 | `mad-scientists.net` | No |
 | `madameplay.com.br` | No |
-| `madamisskey.net` | No |
+| `madamisskey.net` | Yes |
 | `madbob.org` | No |
 | `madcam.co.uk` | No |
 | `madden.house` | No |
@@ -24766,6 +24769,7 @@ Here's a list of public Fediverse services.
 | `mind-drop.jp` | No |
 | `mindblast.space` | Yes |
 | `mindcast.fr` | No |
+| `mindcreatesmeaning.com` | Yes |
 | `mindfire.io` | No |
 | `mindlesstux.com` | Yes |
 | `mindly.social` | Yes |
@@ -25106,6 +25110,7 @@ Here's a list of public Fediverse services.
 | `mlny.info` | No |
 | `mlpol.net` | Yes |
 | `mls20.de` | No |
+| `mlsn.fr` | Yes |
 | `mlsskey.io` | No |
 | `mmaj.ca` | Yes |
 | `mmav.club` | Yes |
@@ -26196,7 +26201,7 @@ Here's a list of public Fediverse services.
 | `myco.systems` | No |
 | `mycology.party` | No |
 | `myconan.net` | Yes |
-| `mycool.place` | No |
+| `mycool.place` | Yes |
 | `mycorrhizal.earth` | No |
 | `mycozy.space` | No |
 | `mycroft.website` | No |
@@ -26314,6 +26319,7 @@ Here's a list of public Fediverse services.
 | `mysignal.world` | No |
 | `mysim.online` | No |
 | `mysitemikoh.pl` | Yes |
+| `myskokiespace.com` | No |
 | `mysmallbusiness.online` | Yes |
 | `mysocial.community` | Yes |
 | `mysocial.world` | No |
@@ -28519,7 +28525,7 @@ Here's a list of public Fediverse services.
 | `okdtsk.info` | No |
 | `okenite.nagoya` | No |
 | `okhin.fr` | No |
-| `oki-don.net` | No |
+| `oki-don.net` | Yes |
 | `okin-jp.net` | Yes |
 | `okin.cloud` | No |
 | `okinawa-mstdn.okinawa` | No |
@@ -28584,6 +28590,7 @@ Here's a list of public Fediverse services.
 | `olivianet.work` | No |
 | `olivr.me` | No |
 | `oljo.xyz` | No |
+| `ollien.com` | No |
 | `olliespeople.place` | No |
 | `olllllllo.fun` | No |
 | `olly.xyz` | No |
@@ -31237,6 +31244,7 @@ Here's a list of public Fediverse services.
 | `prochnow.xyz` | No |
 | `procolix.social` | No |
 | `procrastinate.work` | No |
+| `procrastinati.org` | No |
 | `procrastination.party` | No |
 | `procub.us` | No |
 | `procursus.social` | Yes |
@@ -31860,6 +31868,7 @@ Here's a list of public Fediverse services.
 | `quod.pl` | No |
 | `quodlibet.social` | No |
 | `quodverum.com` | No |
+| `quokk.au` | No |
 | `quokka.run` | No |
 | `quoli.bet` | No |
 | `quornichon.org` | No |
@@ -32138,6 +32147,7 @@ Here's a list of public Fediverse services.
 | `ramble.space` | No |
 | `rambleon.org` | No |
 | `rambleon.social` | No |
+| `rambles.pub` | No |
 | `ramblingreaders.org` | No |
 | `ramblings.social` | Yes |
 | `ramda.io` | No |
@@ -36858,6 +36868,7 @@ Here's a list of public Fediverse services.
 | `stevestreza.com` | No |
 | `steviebobbins.com` | No |
 | `stevijo.me` | Yes |
+| `stezen.de` | Yes |
 | `stfu.social` | Yes |
 | `stgt.social` | No |
 | `sthlm.social` | No |
@@ -37369,6 +37380,7 @@ Here's a list of public Fediverse services.
 | `suwa3.me` | No |
 | `suwerenni.org` | No |
 | `suya.place` | No |
+| `suyasuya.love` | Yes |
 | `suzi.moe` | Yes |
 | `suzu-ya.info` | Yes |
 | `suzu.eu.org` | No |
@@ -37430,6 +37442,7 @@ Here's a list of public Fediverse services.
 | `sweetme.at` | Yes |
 | `sweetpastel.space` | No |
 | `sweetree.ga` | No |
+| `sweshelo.jp` | No |
 | `swetrust.com` | Yes |
 | `swffthiker.online` | No |
 | `swiatczytnikow.pl` | No |
@@ -40643,6 +40656,7 @@ Here's a list of public Fediverse services.
 | `uile.nl` | No |
 | `uilleann.pizza` | Yes |
 | `uir.org.uk` | No |
+| `uitrope.com` | No |
 | `uiuxdev.social` | Yes |
 | `uji.es` | No |
 | `uk.to` | Yes |
@@ -41461,6 +41475,7 @@ Here's a list of public Fediverse services.
 | `vger.cloud` | Yes |
 | `vgg.lol` | Yes |
 | `vgmastodon.it` | No |
+| `vgmcovers.com` | No |
 | `vgmnation.com` | No |
 | `vh13.de` | No |
 | `vhcrack.gay` | Yes |
@@ -42441,6 +42456,7 @@ Here's a list of public Fediverse services.
 | `whalesandgames.com` | Yes |
 | `whalesinspace.de` | No |
 | `whanau.org` | No |
+| `what-is.ml` | No |
 | `what.if.ua` | No |
 | `what.re` | No |
 | `what.tf` | No |
@@ -44464,8 +44480,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,712 |
-| Normal | 32,709 |
+| Cloudflare | 11,722 |
+| Normal | 32,715 |
 
 
 ### 26.4% of public Fediverse services are using Cloudflare.
