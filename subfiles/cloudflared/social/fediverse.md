@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,747 |
+| com | 6,748 |
 | social | 4,271 |
 | net | 3,425 |
 | org | 2,344 |
@@ -16524,7 +16524,7 @@ Here's a list of public Fediverse services.
 | `hoob.io` | No |
 | `hoodlem.me` | No |
 | `hoodojo.com` | No |
-| `hoodratshit.org` | No |
+| `hoodratshit.org` | Yes |
 | `hoops.chat` | No |
 | `hooray.computer` | No |
 | `hoosier.social` | No |
@@ -21370,6 +21370,7 @@ Here's a list of public Fediverse services.
 | `letsdecentralize.org` | No |
 | `letsrulethe.world` | No |
 | `letterbmedia.com` | No |
+| `lettersblogatory.com` | Yes |
 | `lettucegarden.net` | No |
 | `leuchtetgruen.de` | No |
 | `leuchtetgruen.me` | No |
@@ -44495,8 +44496,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,734 |
-| Normal | 32,718 |
+| Cloudflare | 11,736 |
+| Normal | 32,717 |
 
 
 ### 26.4% of public Fediverse services are using Cloudflare.
