@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [get wrong response,maybe cloudflare firewall](https://github.com/ramonvc/freegpt-webui/issues/49)
 - [Comms not working from in-game](https://github.com/sbpp/sourcebans-pp/issues/907)
 - [Better handling of max tokens error](https://github.com/jbrocher/auto-pr-body-generator/issues/9)
 - [Buffer is not defined error with RemixJS](https://github.com/evanderkoogh/otel-cf-workers/issues/17)
