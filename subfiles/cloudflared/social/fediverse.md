@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,733 |
+| com | 6,735 |
 | social | 4,266 |
-| net | 3,418 |
+| net | 3,421 |
 | org | 2,343 |
 | de | 2,193 |
 
@@ -1278,6 +1278,7 @@ Here's a list of public Fediverse services.
 | `aidon.club` | No |
 | `aidoru.cafe` | No |
 | `aigamo-web.net` | No |
+| `aigirl.tv` | No |
 | `aigisdon.net` | No |
 | `aike.monster` | No |
 | `aikoumasanobu.com` | No |
@@ -2778,6 +2779,7 @@ Here's a list of public Fediverse services.
 | `astdn.tokyo` | No |
 | `asteinhaus.de` | No |
 | `astelpenkan.ml` | No |
+| `aster-bp.com` | No |
 | `asteringtech.com` | No |
 | `asterism.xyz` | Yes |
 | `asteroidm.space` | No |
@@ -6417,6 +6419,7 @@ Here's a list of public Fediverse services.
 | `chivanet.org` | No |
 | `chiwa.net` | Yes |
 | `chiya.moe` | No |
+| `chiyocchi.net` | No |
 | `chizai.cafe` | No |
 | `chizu.love` | No |
 | `chladny.de` | Yes |
@@ -19555,6 +19558,7 @@ Here's a list of public Fediverse services.
 | `kemonololi.com` | No |
 | `kemonomimi.gay` | No |
 | `kemonomimifan.club` | No |
+| `kemonosky.net` | No |
 | `kemonox.jp` | No |
 | `kemoshi.co` | No |
 | `kempkens.io` | Yes |
@@ -25271,6 +25275,7 @@ Here's a list of public Fediverse services.
 | `mokka.space` | No |
 | `mokomi.social` | No |
 | `mokomoko-harbor.net` | No |
+| `mokomokohouse.com` | No |
 | `mokou.de` | No |
 | `molaguay.xyz` | No |
 | `moldyspam.com` | No |
@@ -26469,6 +26474,7 @@ Here's a list of public Fediverse services.
 | `naknak.social` | No |
 | `nako.blog` | Yes |
 | `nako.ne.jp` | No |
+| `nakochi.me` | Yes |
 | `nakoneczny.pl` | Yes |
 | `naku.org` | Yes |
 | `nalavo.com` | No |
@@ -26556,6 +26562,7 @@ Here's a list of public Fediverse services.
 | `narwhal.city` | Yes |
 | `narwhal.pub` | No |
 | `narya.net` | No |
+| `nasbi.jp` | No |
 | `nasface.cz` | No |
 | `nashe.be` | No |
 | `nashtodon.com` | No |
@@ -32931,6 +32938,7 @@ Here's a list of public Fediverse services.
 | `rightmouse.click` | No |
 | `rights.ninja` | Yes |
 | `rightto.repair` | No |
+| `riichi.me` | Yes |
 | `riinswork.space` | Yes |
 | `rijnbeek.cc` | Yes |
 | `rijndael.cc` | No |
@@ -33346,6 +33354,7 @@ Here's a list of public Fediverse services.
 | `roytang.net` | Yes |
 | `royvanlunsen.nl` | No |
 | `royxiang.me` | Yes |
+| `roz-dev.net` | No |
 | `roz-dev.site` | No |
 | `rozhlas.cz` | No |
 | `rozk.net` | No |
@@ -43920,6 +43929,7 @@ Here's a list of public Fediverse services.
 | `yuru.studio` | Yes |
 | `yuruchara.info` | Yes |
 | `yurusanp.org` | Yes |
+| `yurut.name` | Yes |
 | `yuruyuri.family` | No |
 | `yusaku.social` | No |
 | `yussuv.com` | Yes |
@@ -44431,8 +44441,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,667 |
-| Normal | 32,721 |
+| Cloudflare | 11,670 |
+| Normal | 32,728 |
 
 
 ### 26.3% of public Fediverse services are using Cloudflare.
