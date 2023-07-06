@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,749 |
-| social | 4,271 |
+| com | 6,751 |
+| social | 4,272 |
 | net | 3,427 |
 | org | 2,345 |
 | de | 2,195 |
@@ -1397,6 +1397,7 @@ Here's a list of public Fediverse services.
 | `akrabat.com` | No |
 | `aksel.at` | No |
 | `aksel.rocks` | No |
+| `akselmo.dev` | No |
 | `aksura.tk` | No |
 | `aktion-nordost.de` | No |
 | `aktion-nordost.tv` | No |
@@ -5274,6 +5275,7 @@ Here's a list of public Fediverse services.
 | `buceoluegoexisto.com` | No |
 | `buchstoa-tv.at` | No |
 | `buchwurm.social` | No |
+| `buckaroo.city` | No |
 | `bucketofcrabs.club` | No |
 | `buckeye.social` | No |
 | `buckeyestate.social` | No |
@@ -5750,6 +5752,7 @@ Here's a list of public Fediverse services.
 | `captainslog.aero` | No |
 | `captandoelcosmos.com` | No |
 | `captnstark.com` | Yes |
+| `capubara.com` | No |
 | `capybara.garden` | No |
 | `capybara.social` | No |
 | `capybara.zone` | Yes |
@@ -7437,6 +7440,7 @@ Here's a list of public Fediverse services.
 | `corkboard.social` | No |
 | `corklabdon.com` | No |
 | `corn.social` | No |
+| `corndog.uk` | Yes |
 | `corneill.es` | No |
 | `cornerbooth.chat` | Yes |
 | `cornerof.world` | No |
@@ -7857,6 +7861,7 @@ Here's a list of public Fediverse services.
 | `cschorn.de` | No |
 | `cscip.io` | No |
 | `csdisaster.club` | No |
+| `cse.wtf` | No |
 | `csed.social` | No |
 | `csfg.org.au` | Yes |
 | `csgo.gg` | No |
@@ -10114,6 +10119,7 @@ Here's a list of public Fediverse services.
 | `drif.moe` | No |
 | `driffaud.fr` | No |
 | `driftless.dev` | No |
+| `drifty.win` | Yes |
 | `drik.in` | No |
 | `drillion.net` | No |
 | `drinkswithbuddha.com` | No |
@@ -13004,7 +13010,7 @@ Here's a list of public Fediverse services.
 | `fosspri.de` | No |
 | `fosstodon.org` | Yes |
 | `fosstodon.ru` | No |
-| `fossware.space` | No |
+| `fossware.space` | Yes |
 | `fossworld.hu` | No |
 | `fost.hu` | Yes |
 | `fostodon.uk` | No |
@@ -15809,6 +15815,7 @@ Here's a list of public Fediverse services.
 | `hazo.club` | Yes |
 | `hazy.cafe` | No |
 | `hazy.su` | No |
+| `hbjy.io` | Yes |
 | `hcaz.io` | No |
 | `hccp.org` | No |
 | `hci.social` | No |
@@ -26886,6 +26893,7 @@ Here's a list of public Fediverse services.
 | `neoliberalyse.de` | No |
 | `neoliferp.fr` | No |
 | `neom.im` | No |
+| `neomobius.com` | No |
 | `neon.ink` | No |
 | `neon.moe` | No |
 | `neonballoon.de` | No |
@@ -31265,6 +31273,7 @@ Here's a list of public Fediverse services.
 | `procub.us` | No |
 | `procursus.social` | Yes |
 | `procydon.net` | No |
+| `prodline.social` | Yes |
 | `prodmgmt.social` | No |
 | `prodottoinrete.com` | Yes |
 | `prodottoinrete.it` | Yes |
@@ -32922,6 +32931,7 @@ Here's a list of public Fediverse services.
 | `ribbit.fun` | No |
 | `ribbit.social` | No |
 | `ribbit.xyz` | No |
+| `ribe.moe` | No |
 | `ribeiro.social` | No |
 | `ribes.ovh` | Yes |
 | `rican.ovh` | No |
@@ -44502,8 +44512,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,739 |
-| Normal | 32,720 |
+| Cloudflare | 11,744 |
+| Normal | 32,725 |
 
 
 ### 26.4% of public Fediverse services are using Cloudflare.
