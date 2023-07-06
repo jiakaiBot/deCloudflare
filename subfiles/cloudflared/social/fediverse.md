@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,745 |
-| social | 4,268 |
-| net | 3,423 |
+| com | 6,746 |
+| social | 4,270 |
+| net | 3,425 |
 | org | 2,344 |
 | de | 2,195 |
 
@@ -6156,6 +6156,7 @@ Here's a list of public Fediverse services.
 | `champis.social` | No |
 | `champlain.cc` | Yes |
 | `champserver.net` | No |
+| `chanakancloud.net` | Yes |
 | `chancearthur.com` | No |
 | `chancellor.cc` | No |
 | `chancellor.social` | No |
@@ -13085,6 +13086,7 @@ Here's a list of public Fediverse services.
 | `fractalco.re` | Yes |
 | `fractalego.social` | No |
 | `fractals.one` | No |
+| `fractalthreads.net` | No |
 | `fractopia.org` | No |
 | `fractum.gq` | No |
 | `fracturedhosting.social` | Yes |
@@ -17187,6 +17189,7 @@ Here's a list of public Fediverse services.
 | `ikeweb.net` | Yes |
 | `iklem.fr` | No |
 | `iko.soy` | Yes |
+| `ikubai.club` | No |
 | `ikx.kr` | Yes |
 | `ilammy.net` | No |
 | `ilbery.social` | No |
@@ -17432,6 +17435,7 @@ Here's a list of public Fediverse services.
 | `infiniteloop.social` | No |
 | `infinitenegativeutility.com` | No |
 | `infiniteregress.space` | No |
+| `infinitumnihil.social` | Yes |
 | `infinity-labs.eu` | No |
 | `infinity.garden` | No |
 | `infinitybeardesigns.com` | No |
@@ -18740,6 +18744,7 @@ Here's a list of public Fediverse services.
 | `jomalo.com` | No |
 | `jomby.net` | No |
 | `jon-chadwick.com` | No |
+| `jon-s.com` | No |
 | `jon.eus` | No |
 | `jonaharagon.net` | Yes |
 | `jonahthen.com` | Yes |
@@ -19696,6 +19701,7 @@ Here's a list of public Fediverse services.
 | `kg2.com` | Yes |
 | `kghorvath.com` | Yes |
 | `kglcd.ca` | No |
+| `kglitch.social` | Yes |
 | `kgtkr.net` | Yes |
 | `kh-berlin.de` | No |
 | `kh.ro` | No |
@@ -20514,6 +20520,7 @@ Here's a list of public Fediverse services.
 | `kuoushi.com` | No |
 | `kuperman.me` | No |
 | `kupo.space` | No |
+| `kura.gg` | Yes |
 | `kurabloodlust.eu` | No |
 | `kurage.cc` | No |
 | `kurage.top` | No |
@@ -28338,6 +28345,7 @@ Here's a list of public Fediverse services.
 | `ocho.zone` | No |
 | `ochobitshacenunbyte.com` | Yes |
 | `ochronus.online` | Yes |
+| `ochtendgrijs.be` | Yes |
 | `ocillacubes.com` | No |
 | `ocjtech.us` | No |
 | `ocloud.de` | No |
@@ -29525,7 +29533,7 @@ Here's a list of public Fediverse services.
 | `pantsu.biz` | Yes |
 | `pantsu.life` | No |
 | `panxatony.net` | No |
-| `panxl.net` | No |
+| `panxl.net` | Yes |
 | `panzner.net` | No |
 | `pao.moe` | Yes |
 | `paoloamoroso.com` | No |
@@ -32712,6 +32720,7 @@ Here's a list of public Fediverse services.
 | `republicofthieves.org` | No |
 | `republik.ch` | Yes |
 | `reputatio.us` | No |
+| `req.im` | No |
 | `rerac.dev` | Yes |
 | `rererenore.tokyo` | No |
 | `res.ac` | No |
@@ -32900,6 +32909,7 @@ Here's a list of public Fediverse services.
 | `rhythmisskey.games` | Yes |
 | `rhythms-of-resistance.org` | No |
 | `riaf.xyz` | Yes |
+| `riafox.space` | No |
 | `rib.gay` | Yes |
 | `ribbit.fun` | No |
 | `ribbit.social` | No |
@@ -39627,6 +39637,7 @@ Here's a list of public Fediverse services.
 | `toot.works` | No |
 | `toot.world` | No |
 | `toot.ws` | Yes |
+| `toot.zip` | No |
 | `toot.zone` | Yes |
 | `toot24.de` | No |
 | `toot9.de` | No |
@@ -43939,7 +43950,7 @@ Here's a list of public Fediverse services.
 | `yume.social` | No |
 | `yumehaki.club` | No |
 | `yumeka.xyz` | Yes |
-| `yumenosora.net` | No |
+| `yumenosora.net` | Yes |
 | `yumetomo.land` | No |
 | `yumisskey.net` | No |
 | `yumk.xyz` | Yes |
@@ -44480,8 +44491,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,722 |
-| Normal | 32,715 |
+| Cloudflare | 11,729 |
+| Normal | 32,719 |
 
 
 ### 26.4% of public Fediverse services are using Cloudflare.
