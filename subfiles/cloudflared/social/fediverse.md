@@ -2517,7 +2517,7 @@ Here's a list of public Fediverse services.
 | `arks.social` | No |
 | `arktos.social` | No |
 | `arkunkel.de` | No |
-| `arkw.work` | No |
+| `arkw.work` | Yes |
 | `arkwoodpond.info` | No |
 | `arky.gg` | Yes |
 | `arles.io` | No |
@@ -7129,7 +7129,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -32102,6 +32102,7 @@ Here's a list of public Fediverse services.
 | `rakket.app` | No |
 | `rako.space` | No |
 | `rakozy.us` | No |
+| `raku.party` | Yes |
 | `rakyat.cc` | No |
 | `rakyll.org` | No |
 | `ralb.eu` | No |
@@ -44441,8 +44442,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,670 |
-| Normal | 32,728 |
+| Cloudflare | 11,673 |
+| Normal | 32,726 |
 
 
 ### 26.3% of public Fediverse services are using Cloudflare.
