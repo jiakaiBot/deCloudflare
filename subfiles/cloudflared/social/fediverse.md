@@ -39172,6 +39172,7 @@ Here's a list of public Fediverse services.
 | `tippetarius.ru` | No |
 | `tipsyvixen.com` | No |
 | `tiri.ninja` | Yes |
+| `tirnanog.space` | No |
 | `tirr.dev` | Yes |
 | `tisato.live` | Yes |
 | `tissink.me` | No |
@@ -44373,7 +44374,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,632 |
-| Normal | 32,697 |
+| Normal | 32,698 |
 
 
 ### 26.2% of public Fediverse services are using Cloudflare.
