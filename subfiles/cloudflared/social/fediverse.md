@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,748 |
+| com | 6,749 |
 | social | 4,271 |
 | net | 3,425 |
 | org | 2,344 |
@@ -10967,7 +10967,7 @@ Here's a list of public Fediverse services.
 | `ember.li` | No |
 | `embers.social` | No |
 | `embracing.space` | Yes |
-| `embros.org` | No |
+| `embros.org` | Yes |
 | `emcomm.social` | Yes |
 | `emelyne.eu` | No |
 | `emeraldsocial.org` | No |
@@ -22807,6 +22807,7 @@ Here's a list of public Fediverse services.
 | `makary.online` | No |
 | `makegame.run` | No |
 | `makegames.social` | No |
+| `makemake.site` | No |
 | `makemusic.social` | Yes |
 | `makemysarcophagus.com` | No |
 | `makerbox.net` | Yes |
@@ -23383,6 +23384,7 @@ Here's a list of public Fediverse services.
 | `mastodon-startup.org` | No |
 | `mastodon-sw.xyz` | Yes |
 | `mastodon-swiss.org` | No |
+| `mastodon-taro.com` | No |
 | `mastodon-test233.xyz` | No |
 | `mastodon-tiray.me` | No |
 | `mastodon-toyama.xyz` | No |
@@ -44496,8 +44498,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,736 |
-| Normal | 32,717 |
+| Cloudflare | 11,737 |
+| Normal | 32,718 |
 
 
 ### 26.4% of public Fediverse services are using Cloudflare.
