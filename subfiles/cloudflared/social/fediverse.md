@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,735 |
+| com | 6,736 |
 | social | 4,266 |
 | net | 3,421 |
 | org | 2,343 |
@@ -5191,7 +5191,7 @@ Here's a list of public Fediverse services.
 | `brown-family.org.uk` | No |
 | `brown-silva.social` | Yes |
 | `brownfield.dev` | No |
-| `browntown.dev` | No |
+| `browntown.dev` | Yes |
 | `browser.org` | No |
 | `browsingpachyderm.net` | No |
 | `brrrt.eu` | No |
@@ -5264,7 +5264,7 @@ Here's a list of public Fediverse services.
 | `bub.cat` | Yes |
 | `bub.org` | No |
 | `bubbleguts.social` | No |
-| `bubblesthebunny.com` | No |
+| `bubblesthebunny.com` | Yes |
 | `bubbletea.dev` | Yes |
 | `bubbletea.moe` | Yes |
 | `bubuit.net` | No |
@@ -10790,6 +10790,7 @@ Here's a list of public Fediverse services.
 | `eldritch.cafe` | No |
 | `eldritch.gift` | No |
 | `eldritchworld.nom.es` | No |
+| `eleboog.com` | No |
 | `electrafish.tech` | Yes |
 | `electrek.co` | Yes |
 | `electric-goat.net` | No |
@@ -18243,7 +18244,7 @@ Here's a list of public Fediverse services.
 | `japanties.org` | No |
 | `japaon.cf` | No |
 | `japaridon.com` | No |
-| `jape.work` | No |
+| `jape.work` | Yes |
 | `jaquanor.com` | Yes |
 | `jar.fm` | No |
 | `jar.land` | No |
@@ -21243,7 +21244,7 @@ Here's a list of public Fediverse services.
 | `lemontree.ml` | No |
 | `lemouvementassociatif-pdl.org` | No |
 | `lems.app` | Yes |
-| `lemthony.com` | No |
+| `lemthony.com` | Yes |
 | `lemue.org` | No |
 | `lemuspeschel.com` | Yes |
 | `lenakotonski.de` | No |
@@ -26032,7 +26033,7 @@ Here's a list of public Fediverse services.
 | `murderhobos.party` | Yes |
 | `muretlabarba.de` | No |
 | `murf.org` | Yes |
-| `muri.network` | No |
+| `muri.network` | Yes |
 | `muri.zip` | No |
 | `murkworks.net` | No |
 | `murky.club` | No |
@@ -27638,7 +27639,7 @@ Here's a list of public Fediverse services.
 | `noize.guru` | Yes |
 | `noizy.space` | Yes |
 | `noizycat.com` | No |
-| `nojob.jp` | Yes |
+| `nojob.jp` | No |
 | `nojober.work` | No |
 | `nokes.name` | No |
 | `nokinoki.net` | No |
@@ -29720,7 +29721,7 @@ Here's a list of public Fediverse services.
 | `payfrit.com` | No |
 | `paymentbanking.eu` | No |
 | `paypig.org` | Yes |
-| `payravi.xyz` | No |
+| `payravi.xyz` | Yes |
 | `pazoles.co` | No |
 | `pbar.xyz` | No |
 | `pbb.lc` | No |
@@ -40084,7 +40085,7 @@ Here's a list of public Fediverse services.
 | `tru.io` | Yes |
 | `truckers.social` | Yes |
 | `truckersmstdn.com` | No |
-| `true.family` | No |
+| `true.family` | Yes |
 | `truecolors.space` | Yes |
 | `truedat.social` | No |
 | `trueffzido.de` | No |
@@ -42360,7 +42361,7 @@ Here's a list of public Fediverse services.
 | `werin.ca` | No |
 | `werkstattkinder.de` | No |
 | `werler.is` | No |
-| `werm.social` | No |
+| `werm.social` | Yes |
 | `werm.world` | No |
 | `werner.ac` | No |
 | `werry.ovh` | No |
@@ -44442,8 +44443,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,673 |
-| Normal | 32,726 |
+| Cloudflare | 11,680 |
+| Normal | 32,720 |
 
 
 ### 26.3% of public Fediverse services are using Cloudflare.
