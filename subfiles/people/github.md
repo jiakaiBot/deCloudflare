@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to get wildcard letsencrypt certificate](https://github.com/caddy-dns/hetzner/issues/9)
 - [get wrong response,maybe cloudflare firewall](https://github.com/ramonvc/freegpt-webui/issues/49)
 - [Comms not working from in-game](https://github.com/sbpp/sourcebans-pp/issues/907)
 - [Better handling of max tokens error](https://github.com/jbrocher/auto-pr-body-generator/issues/9)
