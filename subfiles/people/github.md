@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Code 500 when set PUID](https://github.com/acheong08/ChatGPT-to-API/issues/84)
 - [Unable to get wildcard letsencrypt certificate](https://github.com/caddy-dns/hetzner/issues/9)
 - [get wrong response,maybe cloudflare firewall](https://github.com/ramonvc/freegpt-webui/issues/49)
 - [Comms not working from in-game](https://github.com/sbpp/sourcebans-pp/issues/907)
