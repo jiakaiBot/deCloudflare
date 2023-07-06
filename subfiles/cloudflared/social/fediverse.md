@@ -19427,6 +19427,7 @@ Here's a list of public Fediverse services.
 | `katz.vision` | Yes |
 | `katze.network` | Yes |
 | `katze.sh` | Yes |
+| `katzebot.space` | No |
 | `katzen.cafe` | No |
 | `katzenjens.de` | No |
 | `kauaku.us` | No |
@@ -31420,6 +31421,7 @@ Here's a list of public Fediverse services.
 | `psionprotocol.com` | No |
 | `psipsistar.com` | No |
 | `psjb.me` | No |
+| `pso.li` | No |
 | `pso2.club` | No |
 | `psodon.com` | No |
 | `pstreader.com` | No |
@@ -44513,7 +44515,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,744 |
-| Normal | 32,725 |
+| Normal | 32,727 |
 
 
 ### 26.4% of public Fediverse services are using Cloudflare.
