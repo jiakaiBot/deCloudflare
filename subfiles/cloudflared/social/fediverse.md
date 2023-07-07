@@ -9334,6 +9334,7 @@ Here's a list of public Fediverse services.
 | `dhd-netzwerk.de` | No |
 | `dhealth.social` | No |
 | `dheinemann.com` | No |
+| `dhilton.xyz` | No |
 | `dhoare.me` | No |
 | `dhosted.io` | Yes |
 | `dhpt.nl` | No |
@@ -22643,7 +22644,7 @@ Here's a list of public Fediverse services.
 | `m14xa.ru` | No |
 | `m17e.co` | Yes |
 | `m1ch.eu` | Yes |
-| `m1n1ster.com` | No |
+| `m1n1ster.com` | Yes |
 | `m1x.app` | Yes |
 | `m2.nz` | No |
 | `m213.xyz` | Yes |
@@ -25251,6 +25252,7 @@ Here's a list of public Fediverse services.
 | `mmorpg.social` | No |
 | `mmpr.ca` | No |
 | `mmrw.de` | No |
+| `mmtr.me` | Yes |
 | `mmunin.com` | Yes |
 | `mmwelch.net` | Yes |
 | `mn.ms` | No |
@@ -44681,7 +44683,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,810 |
+| Cloudflare | 11,812 |
 | Normal | 32,828 |
 
 
