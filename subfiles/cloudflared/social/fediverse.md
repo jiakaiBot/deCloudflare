@@ -7149,7 +7149,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -21865,7 +21865,7 @@ Here's a list of public Fediverse services.
 | `littlejoy.xyz` | No |
 | `littlejth.com` | No |
 | `littleletter.de` | No |
-| `littlemars.org` | No |
+| `littlemars.org` | Yes |
 | `littleoni.net` | Yes |
 | `littleplanet.life` | No |
 | `littleroom.io` | No |
@@ -32984,7 +32984,7 @@ Here's a list of public Fediverse services.
 | `ribbit.fun` | No |
 | `ribbit.social` | No |
 | `ribbit.xyz` | No |
-| `ribe.moe` | No |
+| `ribe.moe` | Yes |
 | `ribeiro.social` | No |
 | `ribes.ovh` | Yes |
 | `rican.ovh` | No |
@@ -39990,6 +39990,7 @@ Here's a list of public Fediverse services.
 | `transient.garden` | Yes |
 | `transitieweb.nl` | No |
 | `transition-waedenswil.ch` | No |
+| `transkitties.party` | No |
 | `transliminal.space` | No |
 | `translunar.academy` | No |
 | `transmas.cyou` | No |
@@ -42876,7 +42877,7 @@ Here's a list of public Fediverse services.
 | `wizards.zone` | No |
 | `wizardstowerpress.com` | No |
 | `wizbos.club` | Yes |
-| `wizfox.jp` | No |
+| `wizfox.jp` | Yes |
 | `wizjenkins.com` | Yes |
 | `wizzards.club` | No |
 | `wizzzard.online` | No |
@@ -44583,8 +44584,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,770 |
-| Normal | 32,770 |
+| Cloudflare | 11,774 |
+| Normal | 32,767 |
 
 
 ### 26.4% of public Fediverse services are using Cloudflare.
