@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,763 |
 | social | 4,275 |
-| net | 3,437 |
+| net | 3,438 |
 | org | 2,347 |
 | de | 2,197 |
 
@@ -6608,6 +6608,7 @@ Here's a list of public Fediverse services.
 | `chx.ovh` | No |
 | `chylek.eu` | Yes |
 | `chymera.eu` | No |
+| `chyros.net` | No |
 | `ciach795.com` | Yes |
 | `ciapa.buzz` | No |
 | `ciaranconnelly.com` | No |
@@ -44583,7 +44584,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,770 |
-| Normal | 32,769 |
+| Normal | 32,770 |
 
 
 ### 26.4% of public Fediverse services are using Cloudflare.
