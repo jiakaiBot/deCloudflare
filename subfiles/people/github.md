@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CLOUDFLAREAPI: Exit code 0 even if ending with ERROR due to invalid API token](https://github.com/StackExchange/dnscontrol/issues/2474)
 - [Configure deployment scripts](https://github.com/tiki/tiki-shopify-backend/issues/3)
 - [Error when listing assets from certain collections](https://github.com/ProjectOpenSea/opensea-js/issues/1065)
 - [Connecting bots to FreqUI thru the docker network](https://github.com/freqtrade/frequi/issues/1345)
