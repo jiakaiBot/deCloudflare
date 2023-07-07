@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,774 |
-| social | 4,279 |
+| com | 6,775 |
+| social | 4,280 |
 | net | 3,450 |
 | org | 2,350 |
 | de | 2,197 |
@@ -8393,6 +8393,7 @@ Here's a list of public Fediverse services.
 | `damaron.net` | No |
 | `dame.life` | No |
 | `damenly.org` | Yes |
+| `dameshark.studio` | Yes |
 | `damian.social` | Yes |
 | `damianwajer.com` | Yes |
 | `damienplaysrecords.com` | No |
@@ -24825,6 +24826,7 @@ Here's a list of public Fediverse services.
 | `milleiro.com` | No |
 | `millenium.red` | Yes |
 | `millennial.space` | No |
+| `millennials.social` | No |
 | `miller.cm` | Yes |
 | `millers.social` | No |
 | `milli.ng` | Yes |
@@ -38530,6 +38532,7 @@ Here's a list of public Fediverse services.
 | `tezcat.social` | No |
 | `tezos.lol` | No |
 | `tezos.rocks` | No |
+| `tezzi.com` | Yes |
 | `tf.au` | Yes |
 | `tf.fi` | Yes |
 | `tfcconnection.org` | No |
@@ -44646,8 +44649,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,801 |
-| Normal | 32,802 |
+| Cloudflare | 11,803 |
+| Normal | 32,803 |
 
 
 ### 26.5% of public Fediverse services are using Cloudflare.
