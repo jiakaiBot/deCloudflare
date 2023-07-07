@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,782 |
 | social | 4,282 |
-| net | 3,453 |
+| net | 3,454 |
 | org | 2,353 |
 | de | 2,198 |
 
@@ -16418,6 +16418,7 @@ Here's a list of public Fediverse services.
 | `hmm.st` | No |
 | `hmn.ist` | No |
 | `hmpf.club` | Yes |
+| `hmr.sh` | Yes |
 | `hnaportal.net` | No |
 | `hncj.me` | No |
 | `hngh.io` | No |
@@ -25870,6 +25871,7 @@ Here's a list of public Fediverse services.
 | `msps.io` | Yes |
 | `mspsocial.net` | No |
 | `msqtdn.tk` | No |
+| `mssj.work` | Yes |
 | `mst-dn.me` | No |
 | `mst.blue` | No |
 | `mst.social` | No |
@@ -26865,6 +26867,7 @@ Here's a list of public Fediverse services.
 | `necessarius.church` | No |
 | `nechapu.to` | No |
 | `neckarwie.se` | No |
+| `neckbeard.life` | No |
 | `neckbeard.xyz` | No |
 | `necomi.co` | No |
 | `neconium.com` | Yes |
@@ -31558,6 +31561,7 @@ Here's a list of public Fediverse services.
 | `psychocloud.tech` | No |
 | `psychodog.co.uk` | No |
 | `psychomantys.xyz` | Yes |
+| `psychopixie.net` | No |
 | `psychopopular.com` | No |
 | `psychosoft.com.br` | Yes |
 | `psychotherapy.social` | No |
@@ -44683,8 +44687,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,812 |
-| Normal | 32,828 |
+| Cloudflare | 11,814 |
+| Normal | 32,830 |
 
 
 ### 26.5% of public Fediverse services are using Cloudflare.
