@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,769 |
-| social | 4,277 |
-| net | 3,443 |
-| org | 2,347 |
+| social | 4,278 |
+| net | 3,447 |
+| org | 2,348 |
 | de | 2,197 |
 
 
@@ -1068,6 +1068,7 @@ Here's a list of public Fediverse services.
 | `adlerweb.info` | No |
 | `adless.de` | No |
 | `adlyrs.io` | Yes |
+| `adm.ink` | No |
 | `admannz.com` | No |
 | `admin.co.com` | Yes |
 | `adminero.it` | Yes |
@@ -3033,6 +3034,7 @@ Here's a list of public Fediverse services.
 | `autizmo.xyz` | No |
 | `auto.coffee` | No |
 | `autobild.bg` | No |
+| `autochthonia.net` | No |
 | `autogestion.org` | No |
 | `autogestioncitoyenne.org` | No |
 | `automa.sh` | Yes |
@@ -5059,6 +5061,7 @@ Here's a list of public Fediverse services.
 | `braziel.me` | No |
 | `brazier.dev` | Yes |
 | `brbb.club` | No |
+| `brbn.social` | No |
 | `brcal.cz` | No |
 | `brchoa.com` | No |
 | `brdr.jp` | No |
@@ -7734,6 +7737,7 @@ Here's a list of public Fediverse services.
 | `crissdepauvre.shop` | No |
 | `cristiano.cloud` | No |
 | `cristini.social` | No |
+| `critbase.net` | No |
 | `critcare.social` | No |
 | `critica.li` | No |
 | `critica.social` | No |
@@ -11505,6 +11509,7 @@ Here's a list of public Fediverse services.
 | `europecom.net` | No |
 | `europhiles.uk` | No |
 | `europlus.zone` | No |
+| `eurostaryurtdisiegitim.net` | No |
 | `eurotrib.com` | No |
 | `eurovision.social` | Yes |
 | `euroxs.org` | No |
@@ -18465,6 +18470,7 @@ Here's a list of public Fediverse services.
 | `jekabs.dev` | Yes |
 | `jel-tech.com` | Yes |
 | `jeli.kz` | No |
+| `jellicle.org` | Yes |
 | `jelliefrontier.net` | No |
 | `jellis.co.uk` | No |
 | `jellydonut.me` | No |
@@ -21256,6 +21262,7 @@ Here's a list of public Fediverse services.
 | `lemmit.xyz` | Yes |
 | `lemmony.click` | No |
 | `lemmus.org` | No |
+| `lemmy.best` | No |
 | `lemmy.blue` | Yes |
 | `lemmy.buzz` | No |
 | `lemmy.ca` | Yes |
@@ -23879,6 +23886,7 @@ Here's a list of public Fediverse services.
 | `mathtodon.social` | Yes |
 | `mathys.io` | Yes |
 | `mathys.social` | No |
+| `matias49.eu` | No |
 | `matingpress.quest` | No |
 | `matitodon.com` | No |
 | `matla.at` | No |
@@ -32355,6 +32363,7 @@ Here's a list of public Fediverse services.
 | `raryosu.info` | Yes |
 | `rasard.com` | Yes |
 | `rascal.social` | No |
+| `rascalking.net` | No |
 | `rasly.cf` | No |
 | `raspberryip.com` | No |
 | `raspberrypi.social` | No |
@@ -34797,6 +34806,7 @@ Here's a list of public Fediverse services.
 | `senpainoticedme.moe` | No |
 | `senpaisilver.com` | No |
 | `senselesswisdom.net` | No |
+| `senshoku.cc` | Yes |
 | `sensibleowl.social` | Yes |
 | `sensin.eu` | No |
 | `sensor.community` | No |
@@ -44613,8 +44623,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,791 |
-| Normal | 32,779 |
+| Cloudflare | 11,793 |
+| Normal | 32,787 |
 
 
 ### 26.5% of public Fediverse services are using Cloudflare.
