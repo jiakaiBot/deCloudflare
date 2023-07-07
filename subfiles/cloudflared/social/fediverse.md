@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,760 |
+| com | 6,763 |
 | social | 4,275 |
-| net | 3,434 |
-| org | 2,346 |
+| net | 3,437 |
+| org | 2,347 |
 | de | 2,197 |
 
 
@@ -701,6 +701,7 @@ Here's a list of public Fediverse services.
 | `9chan.lol` | No |
 | `9chen.org` | No |
 | `9fs.net` | No |
+| `9ineverse.com` | Yes |
 | `9kb.me` | No |
 | `9lab.jp` | No |
 | `9minuti.it` | Yes |
@@ -2253,6 +2254,7 @@ Here's a list of public Fediverse services.
 | `aoirint.com` | Yes |
 | `aoitofu.net` | No |
 | `aokaga.work` | Yes |
+| `aomium.net` | No |
 | `aomushionline.com` | No |
 | `aona.work` | No |
 | `aonghus.org` | No |
@@ -9553,6 +9555,7 @@ Here's a list of public Fediverse services.
 | `discovermagazine.com` | No |
 | `discoveryone.sh` | No |
 | `discoverypanel.de` | No |
+| `discretevaluecrusader.com` | No |
 | `discretos.fr` | No |
 | `discuss.online` | No |
 | `discuss.scot` | Yes |
@@ -15847,6 +15850,7 @@ Here's a list of public Fediverse services.
 | `hdcraft.xyz` | No |
 | `hdev.im` | No |
 | `hdez.nl` | No |
+| `hdmr.org` | No |
 | `hdr-it.de` | No |
 | `hdty.in` | No |
 | `headcannon.xyz` | Yes |
@@ -18914,6 +18918,7 @@ Here's a list of public Fediverse services.
 | `jpicture.net` | No |
 | `jplocalization.social` | No |
 | `jplus7.fr` | No |
+| `jpmstdn.com` | No |
 | `jpn.xyz` | Yes |
 | `jpnatu.net` | Yes |
 | `jpnearl.com` | No |
@@ -24982,6 +24987,7 @@ Here's a list of public Fediverse services.
 | `mission1701.com` | Yes |
 | `missionbendtx.net` | Yes |
 | `missioncontrol.social` | No |
+| `misskey-blackbote.net` | Yes |
 | `misskey-dabansky.com` | No |
 | `misskey-experiment.tokyo` | No |
 | `misskey-forkbomb.cf` | Yes |
@@ -26008,6 +26014,7 @@ Here's a list of public Fediverse services.
 | `mtndevelopment.com` | No |
 | `mtnlss.co` | Yes |
 | `mtrichardson.com` | No |
+| `mtsd.info` | Yes |
 | `mtth.org` | Yes |
 | `mttv.it` | No |
 | `mtu7.com` | No |
@@ -32864,7 +32871,7 @@ Here's a list of public Fediverse services.
 | `retrogralnia.pl` | Yes |
 | `retrogrou.ch` | No |
 | `retrohangout.club` | No |
-| `retromodding.club` | No |
+| `retromodding.club` | Yes |
 | `retronerd.at` | No |
 | `retroparadise.tech` | No |
 | `retrophisch.net` | No |
@@ -35745,6 +35752,7 @@ Here's a list of public Fediverse services.
 | `smashtodon.com` | No |
 | `smatodon.net` | No |
 | `smbcc.org` | Yes |
+| `smbd.jp` | No |
 | `smbi.community` | Yes |
 | `smc.li` | Yes |
 | `smc62.com` | No |
@@ -36191,6 +36199,7 @@ Here's a list of public Fediverse services.
 | `somsants.net` | No |
 | `somtic.cat` | No |
 | `sona.live` | Yes |
+| `sonanoka.net` | No |
 | `sonar.news` | Yes |
 | `sonatagreen.com` | No |
 | `sonck.nl` | Yes |
@@ -44573,8 +44582,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,766 |
-| Normal | 32,764 |
+| Cloudflare | 11,770 |
+| Normal | 32,769 |
 
 
 ### 26.4% of public Fediverse services are using Cloudflare.
