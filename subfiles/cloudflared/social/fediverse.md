@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,769 |
-| social | 4,276 |
-| net | 3,442 |
+| social | 4,277 |
+| net | 3,443 |
 | org | 2,347 |
 | de | 2,197 |
 
@@ -2515,7 +2515,7 @@ Here's a list of public Fediverse services.
 | `arkane-systems.net` | No |
 | `arkanosis.net` | No |
 | `arkchat.org` | No |
-| `arkenous.me` | No |
+| `arkenous.me` | Yes |
 | `arkenous.net` | Yes |
 | `arkham.cafe` | No |
 | `arkm.de` | No |
@@ -10707,6 +10707,7 @@ Here's a list of public Fediverse services.
 | `egert.social` | No |
 | `eggfarts.com` | No |
 | `eggfreckles.org` | No |
+| `eggman.ir` | No |
 | `eggp.me` | No |
 | `eggplant.social` | Yes |
 | `eggsouppodcast.com` | No |
@@ -22846,6 +22847,7 @@ Here's a list of public Fediverse services.
 | `mainesocial.xyz` | No |
 | `mainframe.club` | No |
 | `mainframe.community` | No |
+| `mainichi.social` | No |
 | `maintedor.com` | Yes |
 | `mainz.social` | No |
 | `maiome.xyz` | No |
@@ -30375,6 +30377,7 @@ Here's a list of public Fediverse services.
 | `pikapod.net` | No |
 | `piki.dev` | No |
 | `piki.moe` | No |
+| `piko2.net` | Yes |
 | `pikokr.dev` | Yes |
 | `pikopiko.party` | No |
 | `pilch.me` | No |
@@ -44590,7 +44593,7 @@ Here's a list of public Fediverse services.
 | `zyphr.xyz` | Yes |
 | `zyphyr.de` | No |
 | `zytixon.com` | No |
-| `zyun.jp` | No |
+| `zyun.jp` | Yes |
 | `zyxl.xyz` | No |
 | `zyz.link` | No |
 | `zyzz.me` | Yes |
@@ -44610,7 +44613,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,788 |
+| Cloudflare | 11,791 |
 | Normal | 32,779 |
 
 
