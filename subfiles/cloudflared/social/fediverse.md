@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,771 |
+| com | 6,774 |
 | social | 4,279 |
-| net | 3,447 |
-| org | 2,349 |
+| net | 3,450 |
+| org | 2,350 |
 | de | 2,197 |
 
 
@@ -4995,6 +4995,7 @@ Here's a list of public Fediverse services.
 | `bqri.us` | No |
 | `bquatre.fr` | No |
 | `br-linux.org` | No |
+| `br-project.jp` | No |
 | `br0.fr` | No |
 | `br0ken.de` | No |
 | `braasch.social` | No |
@@ -5247,6 +5248,7 @@ Here's a list of public Fediverse services.
 | `bryla.tk` | Yes |
 | `brz9.dev` | No |
 | `brzozow.xyz` | No |
+| `bs-x.org` | No |
 | `bs10081.com` | Yes |
 | `bsb.jp` | No |
 | `bsbi.org` | Yes |
@@ -5816,6 +5818,7 @@ Here's a list of public Fediverse services.
 | `carmantini.com` | No |
 | `carmo.io` | Yes |
 | `carmody.social` | No |
+| `carnet.ink` | No |
 | `carnifex.us` | Yes |
 | `carnit.as` | Yes |
 | `carnivore.social` | Yes |
@@ -13684,6 +13687,7 @@ Here's a list of public Fediverse services.
 | `furcon.social` | Yes |
 | `furcurry.co` | No |
 | `furden.co` | No |
+| `furdradon.net` | No |
 | `furest.be` | No |
 | `furf.ag` | No |
 | `furfag.de` | Yes |
@@ -15571,6 +15575,7 @@ Here's a list of public Fediverse services.
 | `hakoai.com` | No |
 | `hakodon.cf` | No |
 | `hakomas.cf` | No |
+| `hakoniwa-project.com` | Yes |
 | `hakorena.net` | No |
 | `haku-kazamaru.club` | Yes |
 | `haku.site` | Yes |
@@ -23858,6 +23863,7 @@ Here's a list of public Fediverse services.
 | `masutadon.com` | No |
 | `masutodon.net` | No |
 | `mat.tl` | Yes |
+| `mat2.net` | No |
 | `mataoma.com` | No |
 | `matapacos.dog` | No |
 | `matarillo.com` | No |
@@ -26987,6 +26993,7 @@ Here's a list of public Fediverse services.
 | `neophili.ac` | No |
 | `neos.love` | Yes |
 | `neos.social` | No |
+| `neos21-oci.ml` | No |
 | `neosam.dev` | No |
 | `neosocial.xyz` | No |
 | `neotag.net` | No |
@@ -28305,6 +28312,7 @@ Here's a list of public Fediverse services.
 | `nyanskey.com` | Yes |
 | `nyantech.com` | Yes |
 | `nyanya.net` | No |
+| `nyaon.ch` | No |
 | `nyaotan.fun` | No |
 | `nyarr.dev` | No |
 | `nyation.fr` | No |
@@ -32939,6 +32947,7 @@ Here's a list of public Fediverse services.
 | `reveal.today` | Yes |
 | `reveca.es` | No |
 | `revelin.fr` | No |
+| `reverie-rose.com` | Yes |
 | `reverie.club` | Yes |
 | `reversedns.pp.ua` | Yes |
 | `revertron.com` | No |
@@ -33470,6 +33479,7 @@ Here's a list of public Fediverse services.
 | `rottmann.social` | No |
 | `rouge.eu.org` | No |
 | `rougevertbleu.tv` | No |
+| `rough-sketch.net` | No |
 | `roughdraft.party` | Yes |
 | `roughseas.xyz` | No |
 | `roundpaddedcell.com` | No |
@@ -34651,6 +34661,7 @@ Here's a list of public Fediverse services.
 | `secpl.us` | No |
 | `secreci.com` | No |
 | `secret-wg.org` | No |
+| `secret.pub` | No |
 | `secretbatcave.co.uk` | No |
 | `secretbearlibrary.org` | Yes |
 | `secretbearsociety.org` | No |
@@ -39420,6 +39431,7 @@ Here's a list of public Fediverse services.
 | `tivy.work` | No |
 | `tix-hosting.social` | No |
 | `tiz.social` | No |
+| `tj-h.com` | Yes |
 | `tjakosquad.nl` | No |
 | `tjatse.no` | Yes |
 | `tjd.dev` | Yes |
@@ -44134,6 +44146,7 @@ Here's a list of public Fediverse services.
 | `yuu0918.net` | Yes |
 | `yuu26.com` | No |
 | `yuuki.pictures` | No |
+| `yuukoma.online` | Yes |
 | `yuukosan.xyz` | No |
 | `yuustan.space` | No |
 | `yuuta.moe` | Yes |
@@ -44633,8 +44646,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,797 |
-| Normal | 32,793 |
+| Cloudflare | 11,801 |
+| Normal | 32,802 |
 
 
 ### 26.5% of public Fediverse services are using Cloudflare.
