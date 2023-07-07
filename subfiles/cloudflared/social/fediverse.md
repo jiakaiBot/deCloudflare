@@ -7138,7 +7138,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -16920,6 +16920,7 @@ Here's a list of public Fediverse services.
 | `hypervasis.com` | Yes |
 | `hypetrix.com` | Yes |
 | `hyphalfusion.network` | No |
+| `hypno.cafe` | No |
 | `hypno.church` | No |
 | `hypno.social` | Yes |
 | `hypnoguys.com` | No |
@@ -19610,7 +19611,7 @@ Here's a list of public Fediverse services.
 | `kennyqin.com` | No |
 | `kenodriscoll.com` | Yes |
 | `kenpo.social` | No |
-| `kenscott.me` | Yes |
+| `kenscott.me` | No |
 | `kensei.dev` | No |
 | `kensimon.io` | No |
 | `kent-dobias.com` | No |
@@ -31106,6 +31107,7 @@ Here's a list of public Fediverse services.
 | `poweredbycocaine.com` | Yes |
 | `poweredbydev.com` | No |
 | `poweredbygay.social` | No |
+| `powerg.love` | Yes |
 | `powerlineblog.com` | Yes |
 | `powerlot.net` | No |
 | `powersrv.de` | No |
@@ -43691,7 +43693,7 @@ Here's a list of public Fediverse services.
 | `yasaiseikatsu.net` | No |
 | `yasi2.com` | Yes |
 | `yaskey.tokyo` | No |
-| `yastodon.xyz` | Yes |
+| `yastodon.xyz` | No |
 | `yasty.org` | No |
 | `yasu.mu` | No |
 | `yasudon.jp` | No |
@@ -44524,8 +44526,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,746 |
-| Normal | 32,735 |
+| Cloudflare | 11,744 |
+| Normal | 32,739 |
 
 
 ### 26.4% of public Fediverse services are using Cloudflare.
