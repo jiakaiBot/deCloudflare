@@ -5587,6 +5587,7 @@ Here's a list of public Fediverse services.
 | `cafemilk.moe` | Yes |
 | `cafeobskur.de` | No |
 | `caff.tech` | Yes |
+| `caffeinated.computer` | No |
 | `caffeinated.social` | Yes |
 | `caffeinatedfriends.club` | No |
 | `caffeination.space` | Yes |
@@ -42871,6 +42872,7 @@ Here's a list of public Fediverse services.
 | `wirrkopf.net` | Yes |
 | `wirtube.de` | No |
 | `wirwarenesnet.de` | No |
+| `wisc.rocks` | Yes |
 | `wisc.social` | No |
 | `wisdomhole.com` | No |
 | `wisehex.social` | Yes |
@@ -44649,8 +44651,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,803 |
-| Normal | 32,803 |
+| Cloudflare | 11,804 |
+| Normal | 32,804 |
 
 
 ### 26.5% of public Fediverse services are using Cloudflare.
