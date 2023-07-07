@@ -23866,6 +23866,7 @@ Here's a list of public Fediverse services.
 | `masutodon.net` | No |
 | `mat.tl` | Yes |
 | `mat2.net` | No |
+| `matabiau.ovh` | No |
 | `mataoma.com` | No |
 | `matapacos.dog` | No |
 | `matarillo.com` | No |
@@ -44652,7 +44653,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,804 |
-| Normal | 32,804 |
+| Normal | 32,805 |
 
 
 ### 26.5% of public Fediverse services are using Cloudflare.
