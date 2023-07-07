@@ -21411,6 +21411,7 @@ Here's a list of public Fediverse services.
 | `less.re` | No |
 | `lessersociety.com` | No |
 | `lessing.social` | No |
+| `lessthanthree.cc` | Yes |
 | `lesswrong.io` | No |
 | `lesterpig.com` | Yes |
 | `lestutosdeprocessus.fr` | Yes |
@@ -44609,8 +44610,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,787 |
+| Cloudflare | 11,788 |
 | Normal | 32,779 |
 
 
-### 26.4% of public Fediverse services are using Cloudflare.
+### 26.5% of public Fediverse services are using Cloudflare.
