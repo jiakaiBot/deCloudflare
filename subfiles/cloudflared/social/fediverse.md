@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,769 |
-| social | 4,278 |
+| com | 6,771 |
+| social | 4,279 |
 | net | 3,447 |
-| org | 2,348 |
+| org | 2,349 |
 | de | 2,197 |
 
 
@@ -6098,6 +6098,7 @@ Here's a list of public Fediverse services.
 | `cephalopod.space` | No |
 | `cepharum.social` | No |
 | `ceramicadelpez.edu.uy` | No |
+| `cerb.monster` | No |
 | `cerb.social` | No |
 | `cercle.jp` | Yes |
 | `cerclearistote.com` | No |
@@ -13818,6 +13819,7 @@ Here's a list of public Fediverse services.
 | `fybuk.com` | No |
 | `fycth.com` | Yes |
 | `fyeshit.com` | No |
+| `fyfy.eu.org` | No |
 | `fyksen.me` | Yes |
 | `fyle.uk` | Yes |
 | `fym.moe` | Yes |
@@ -19015,6 +19017,7 @@ Here's a list of public Fediverse services.
 | `juglugs.com` | No |
 | `jugregator.org` | No |
 | `juhaliikala.com` | Yes |
+| `juhlin.network` | Yes |
 | `juick.com` | Yes |
 | `juist.social` | No |
 | `juju.house` | No |
@@ -20657,6 +20660,7 @@ Here's a list of public Fediverse services.
 | `kwat.chat` | No |
 | `kwatra.me` | Yes |
 | `kwe-private.net` | Yes |
+| `kweb.ovh` | Yes |
 | `kwhtech.net` | No |
 | `kwick.rip` | No |
 | `kwiecien.us` | No |
@@ -21646,6 +21650,7 @@ Here's a list of public Fediverse services.
 | `lieberbiber.de` | No |
 | `liebevollepraxis.fr` | No |
 | `liedra.net` | No |
+| `liefvanderbaan.com` | Yes |
 | `liege.bike` | No |
 | `liepajnieks.lv` | Yes |
 | `liessan.com` | No |
@@ -31458,6 +31463,7 @@ Here's a list of public Fediverse services.
 | `protogen.club` | No |
 | `protogen.dev` | Yes |
 | `protogen.social` | Yes |
+| `protogen.tools` | No |
 | `protohype.net` | No |
 | `protom.eu` | No |
 | `protomolecule.com` | No |
@@ -32268,6 +32274,7 @@ Here's a list of public Fediverse services.
 | `ramona.chat` | Yes |
 | `ramonperalta.nl` | No |
 | `ramoonus.nl` | Yes |
+| `rampantmonkey.com` | No |
 | `rampantmonkey.social` | No |
 | `rampin.org` | No |
 | `ramram.ink` | Yes |
@@ -35491,6 +35498,7 @@ Here's a list of public Fediverse services.
 | `sisters.pink` | No |
 | `sisu.social` | Yes |
 | `sisulink.com` | Yes |
+| `sisulink.social` | Yes |
 | `site.nz` | No |
 | `sitedethib.com` | No |
 | `siteop.biz` | No |
@@ -40041,6 +40049,7 @@ Here's a list of public Fediverse services.
 | `transponderings.blog` | No |
 | `transportation.social` | Yes |
 | `transportevolved.com` | Yes |
+| `transportfornewhomes.org.uk` | No |
 | `transqueer.club` | Yes |
 | `transrights.art` | Yes |
 | `transrights.ovh` | No |
@@ -43561,6 +43570,7 @@ Here's a list of public Fediverse services.
 | `xn--undsk-jra.se` | No |
 | `xn--videogames-bo3g.gg` | No |
 | `xn--vusz0j.life` | Yes |
+| `xn--wda.fr` | No |
 | `xn--wmq.jp` | No |
 | `xn--wxa.zone` | No |
 | `xn--xcke3ca.tokyo` | No |
@@ -44623,8 +44633,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,793 |
-| Normal | 32,787 |
+| Cloudflare | 11,797 |
+| Normal | 32,793 |
 
 
 ### 26.5% of public Fediverse services are using Cloudflare.
