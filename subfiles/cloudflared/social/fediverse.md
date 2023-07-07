@@ -1894,7 +1894,7 @@ Here's a list of public Fediverse services.
 | `anarch.cc` | No |
 | `anarch.is` | No |
 | `anarchast.com` | Yes |
-| `anarchism.online` | No |
+| `anarchism.online` | Yes |
 | `anarchism.space` | No |
 | `anarchismus.xyz` | No |
 | `anarchist.gay` | Yes |
@@ -35296,6 +35296,7 @@ Here's a list of public Fediverse services.
 | `shun1s.com` | No |
 | `shunderdo.me` | No |
 | `shunrin.com` | Yes |
+| `shutinnerd.space` | Yes |
 | `shuttleapp.rs` | No |
 | `shuuji3.xyz` | Yes |
 | `shuuten.org` | No |
@@ -36394,6 +36395,7 @@ Here's a list of public Fediverse services.
 | `sovran.social` | No |
 | `sovran.video` | No |
 | `sow.social` | Yes |
+| `sowe.li` | No |
 | `sowelijanpona.xyz` | No |
 | `sowhappy.us` | Yes |
 | `sowhois.gay` | No |
@@ -44687,7 +44689,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,814 |
+| Cloudflare | 11,816 |
 | Normal | 32,830 |
 
 
