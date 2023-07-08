@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,800 |
+| com | 6,802 |
 | social | 4,292 |
 | net | 3,467 |
 | org | 2,359 |
@@ -579,6 +579,7 @@ Here's a list of public Fediverse services.
 | `5sigma.io` | No |
 | `5star-toilet.club` | No |
 | `5th.live` | Yes |
+| `5unl1fe3.com` | Yes |
 | `5v.pl` | No |
 | `5vsb.com` | No |
 | `600900.su` | No |
@@ -8081,6 +8082,7 @@ Here's a list of public Fediverse services.
 | `cute2d.xyz` | No |
 | `cutebook.club` | No |
 | `cutebox.cc` | Yes |
+| `cutefox.gay` | No |
 | `cutelab.space` | Yes |
 | `cutepolicehq.com` | No |
 | `cuteposting.institute` | Yes |
@@ -11674,7 +11676,7 @@ Here's a list of public Fediverse services.
 | `exile.social` | No |
 | `existentialcrisis.link` | No |
 | `existentialdread.com` | No |
-| `existentialis.me` | No |
+| `existentialis.me` | Yes |
 | `existiert.ch` | Yes |
 | `exited.eu` | No |
 | `exitmusic.world` | Yes |
@@ -39165,6 +39167,7 @@ Here's a list of public Fediverse services.
 | `thesolarrepublic.org` | Yes |
 | `thespence.space` | No |
 | `thespinning.top` | No |
+| `thespiralbound.com` | No |
 | `thesqooid.com` | Yes |
 | `thestarsetsociety.cn` | Yes |
 | `thestonedapes.com` | Yes |
@@ -44805,8 +44808,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,869 |
-| Normal | 32,893 |
+| Cloudflare | 11,871 |
+| Normal | 32,894 |
 
 
 ### 26.5% of public Fediverse services are using Cloudflare.
