@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [systemd-resolved: returns SERVFAIL for uknown domain](https://github.com/systemd/systemd/issues/28310)
+- [Cloudflare R2 put_object_stream fails every time with SignatureDoesNotMatch error](https://github.com/durch/rust-s3/issues/355)
 - [Cloudflare: List index out of range](https://github.com/home-assistant/core/issues/96164)
 - [Additions to the protocol docs](https://github.com/inertiajs/inertiajs.com/issues/303)
 - [Database not found](https://github.com/vrtmrz/obsidian-livesync/issues/238)
