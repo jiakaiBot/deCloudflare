@@ -6848,7 +6848,7 @@ Here's a list of public Fediverse services.
 | `cloud18.xyz` | Yes |
 | `cloud56.me` | No |
 | `cloud68.co` | No |
-| `cloudaf.site` | No |
+| `cloudaf.site` | Yes |
 | `cloudapps.ninja` | No |
 | `cloudboard.fr` | No |
 | `cloudbolwell.co.uk` | Yes |
@@ -7170,7 +7170,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -24549,6 +24549,7 @@ Here's a list of public Fediverse services.
 | `meteor.ne.jp` | Yes |
 | `meteor1.de` | No |
 | `meteora.gg` | No |
+| `methamphetamine.monster` | No |
 | `methanolinjected.club` | No |
 | `method-n.com` | No |
 | `metokur.org` | Yes |
@@ -40268,7 +40269,7 @@ Here's a list of public Fediverse services.
 | `troll.academy` | No |
 | `troll.cafe` | No |
 | `troll.social` | No |
-| `troll.tube` | Yes |
+| `troll.tube` | No |
 | `troll.tv` | No |
 | `troll.university` | No |
 | `trolled.lol` | Yes |
@@ -44689,8 +44690,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,816 |
-| Normal | 32,830 |
+| Cloudflare | 11,815 |
+| Normal | 32,832 |
 
 
 ### 26.5% of public Fediverse services are using Cloudflare.
