@@ -435,6 +435,7 @@ Here's a list of public Fediverse services.
 | `3sn.ru` | No |
 | `3sparks.net` | Yes |
 | `3stadt.com` | No |
+| `3t.au` | Yes |
 | `3t0kb.com` | No |
 | `3tes.dev` | Yes |
 | `3towers.de` | No |
@@ -1682,7 +1683,7 @@ Here's a list of public Fediverse services.
 | `alps.family` | Yes |
 | `alptraum.media` | No |
 | `alpxtri.de` | No |
-| `alquimidia.org` | Yes |
+| `alquimidia.org` | No |
 | `alr.st` | No |
 | `als.io` | Yes |
 | `alserver.jp` | No |
@@ -15281,7 +15282,7 @@ Here's a list of public Fediverse services.
 | `grwd.com` | No |
 | `gry.st` | No |
 | `grynaserio.pl` | Yes |
-| `gryphon.is` | No |
+| `gryphon.is` | Yes |
 | `gryphon68.social` | No |
 | `gryphonic.com` | No |
 | `grzeca.pl` | No |
@@ -44700,7 +44701,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,819 |
+| Cloudflare | 11,820 |
 | Normal | 32,838 |
 
 
