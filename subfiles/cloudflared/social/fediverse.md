@@ -17443,6 +17443,7 @@ Here's a list of public Fediverse services.
 | `inaccessible.ac` | No |
 | `inadon.jp` | No |
 | `inadvertently.online` | Yes |
+| `inakaz.fr` | No |
 | `inanantoka.com` | No |
 | `inane.chat` | Yes |
 | `inanna.xyz` | Yes |
@@ -17940,6 +17941,7 @@ Here's a list of public Fediverse services.
 | `irunu.co` | Yes |
 | `is-a.cat` | Yes |
 | `is-a.horse` | No |
+| `is-hardly.online` | Yes |
 | `is-he.re` | Yes |
 | `is-heckin.gay` | No |
 | `is-here.com` | No |
@@ -44785,8 +44787,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,863 |
-| Normal | 32,879 |
+| Cloudflare | 11,864 |
+| Normal | 32,880 |
 
 
 ### 26.5% of public Fediverse services are using Cloudflare.
