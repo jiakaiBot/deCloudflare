@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Additions to the protocol docs](https://github.com/inertiajs/inertiajs.com/issues/303)
 - [Database not found](https://github.com/vrtmrz/obsidian-livesync/issues/238)
 - [Erroneously intercepting 409 and converting to a 500](https://github.com/traefik/traefik/issues/10014)
 - [CLOUDFLAREAPI: Exit code 0 even if ending with ERROR due to invalid API token](https://github.com/StackExchange/dnscontrol/issues/2474)
