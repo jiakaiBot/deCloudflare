@@ -513,7 +513,7 @@ Here's a list of breached sites.
 | Smogon | 386,489 | No |
 | Snail | 1,410,899 | No |
 | Snapchat | 4,609,615 | Yes |
-| SocialEngineered (Social Engineered) | 89,392 | No |
+| SocialEngineered (Social Engineered) | 89,392 | Yes |
 | Solomid (Team SoloMid) | 442,166 | Yes |
 | Sonicbids | 751,700 | Yes |
 | Sony | 37,103 | Yes |
@@ -672,10 +672,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 363 | 3,929,816,265 |
-| Normal | 288 | 4,981,439,135 |
+| Cloudflare | 364 | 3,929,905,657 |
+| Normal | 287 | 4,981,349,743 |
 
 
 
-### 55.8% of breached sites (pwned sites) are using Cloudflare.
+### 55.9% of breached sites (pwned sites) are using Cloudflare.
 ### 44.1% of leaked accounts are on Cloudflare sites.
