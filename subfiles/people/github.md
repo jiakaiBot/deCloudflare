@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare: List index out of range](https://github.com/home-assistant/core/issues/96164)
 - [Additions to the protocol docs](https://github.com/inertiajs/inertiajs.com/issues/303)
 - [Database not found](https://github.com/vrtmrz/obsidian-livesync/issues/238)
 - [Erroneously intercepting 409 and converting to a 500](https://github.com/traefik/traefik/issues/10014)
