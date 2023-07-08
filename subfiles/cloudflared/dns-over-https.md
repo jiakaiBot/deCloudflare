@@ -71,7 +71,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | clanless.ovh | Yes |
 | cloudflare-dns.com | Yes |
 | comss.one | No |
-| cornes.me | No |
 | cretu.xyz | Yes |
 | crypto.sx | Yes |
 | cryptomize.com | Yes |
@@ -280,7 +279,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rin.sh | Yes |
 | rohanjain.in | Yes |
 | rokh.biz | Yes |
-| ronc.ru | No |
 | rouga.ch | Yes |
 | rsaikat.com | No |
 | rwth-aachen.de | No |
@@ -372,7 +370,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 179 |
-| Normal | 173 |
+| Normal | 171 |
 
 
-### 50.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
