@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,782 |
-| social | 4,282 |
+| com | 6,783 |
+| social | 4,284 |
 | net | 3,454 |
-| org | 2,353 |
+| org | 2,354 |
 | de | 2,198 |
 
 
@@ -6828,6 +6828,7 @@ Here's a list of public Fediverse services.
 | `clockworkshield.com` | No |
 | `clodo.it` | No |
 | `clodostr.at` | No |
+| `clomp.io` | No |
 | `clonewars.vet` | No |
 | `clonis.xyz` | No |
 | `clontarf.icu` | No |
@@ -10059,6 +10060,7 @@ Here's a list of public Fediverse services.
 | `dracula.social` | No |
 | `draculaojisan.com` | No |
 | `draculo.net` | No |
+| `draff.zip` | No |
 | `drag.li` | Yes |
 | `dragashosting.com` | No |
 | `dragast.me` | No |
@@ -13701,6 +13703,7 @@ Here's a list of public Fediverse services.
 | `furankum.ovh` | No |
 | `furbidden.com` | No |
 | `furby.dev` | No |
+| `furcel.club` | No |
 | `furcon.social` | Yes |
 | `furcurry.co` | No |
 | `furden.co` | No |
@@ -14145,6 +14148,7 @@ Here's a list of public Fediverse services.
 | `gazeta.mx` | No |
 | `gazette.live` | No |
 | `gazouiller.fr` | Yes |
+| `gazpacho.social` | Yes |
 | `gazshaw.co.uk` | No |
 | `gazuji.com` | No |
 | `gbarbieripederiva.com.ar` | Yes |
@@ -24877,6 +24881,7 @@ Here's a list of public Fediverse services.
 | `mimikun.jp` | Yes |
 | `mimmoth.club` | No |
 | `mimumedon.com` | No |
+| `mina.to` | Yes |
 | `minable.xyz` | No |
 | `minadoraserver.art` | No |
 | `minaduki-network.com` | No |
@@ -25773,6 +25778,7 @@ Here's a list of public Fediverse services.
 | `mpmilestogo.site` | Yes |
 | `mpp-service.de` | No |
 | `mpsf.group` | No |
+| `mpthl.ee` | Yes |
 | `mpx.social` | Yes |
 | `mpy.ovh` | No |
 | `mq24.club` | No |
@@ -26057,6 +26063,7 @@ Here's a list of public Fediverse services.
 | `msx.horse` | No |
 | `msyake.ovh` | Yes |
 | `mszpro.com` | Yes |
+| `mt224244.com` | Yes |
 | `mtb.wtf` | No |
 | `mtcrew.org` | No |
 | `mtd.onl` | No |
@@ -27481,6 +27488,7 @@ Here's a list of public Fediverse services.
 | `nijiato.nagoya` | No |
 | `nijigra.art` | No |
 | `nijimiss.moe` | Yes |
+| `nijisanji.org` | No |
 | `nijist.info` | No |
 | `nijiura.xyz` | No |
 | `nikamo.win` | No |
@@ -38849,6 +38857,7 @@ Here's a list of public Fediverse services.
 | `thehackerway.com` | No |
 | `thehansfords.co.uk` | Yes |
 | `thehappy.world` | No |
+| `thehappyfamily.stream` | No |
 | `thehb.me` | No |
 | `thehftguy.com` | No |
 | `thehighlands.fyi` | No |
@@ -42053,6 +42062,7 @@ Here's a list of public Fediverse services.
 | `vriska.life` | No |
 | `vrkstatt.social` | No |
 | `vrnd.network` | No |
+| `vrnd.social` | No |
 | `vrparty.social` | Yes |
 | `vrpnet.org` | No |
 | `vrse.be` | No |
@@ -44690,8 +44700,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,815 |
-| Normal | 32,832 |
+| Cloudflare | 11,819 |
+| Normal | 32,838 |
 
 
 ### 26.5% of public Fediverse services are using Cloudflare.
