@@ -34980,6 +34980,7 @@ Here's a list of public Fediverse services.
 | `sethetter.com` | No |
 | `sethfeldkamp.com` | No |
 | `sethlong.social` | No |
+| `sethmb.xyz` | Yes |
 | `setho.org` | No |
 | `seti.bzh` | No |
 | `setl.ist` | No |
@@ -44748,7 +44749,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,848 |
+| Cloudflare | 11,849 |
 | Normal | 32,857 |
 
 
