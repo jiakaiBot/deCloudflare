@@ -3380,6 +3380,7 @@ Here's a list of public Fediverse services.
 | `badly.co` | Yes |
 | `badlywired.com` | No |
 | `badonkahonk.com` | No |
+| `badoptics.biz` | Yes |
 | `badpacman.io` | Yes |
 | `badpixels.be` | No |
 | `badposts.net` | No |
@@ -44702,7 +44703,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,821 |
+| Cloudflare | 11,822 |
 | Normal | 32,838 |
 
 
