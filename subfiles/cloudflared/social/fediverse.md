@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,789 |
 | social | 4,290 |
-| net | 3,460 |
+| net | 3,461 |
 | org | 2,356 |
 | de | 2,198 |
 
@@ -8928,7 +8928,7 @@ Here's a list of public Fediverse services.
 | `deeperwisdom.org` | No |
 | `deepmay.social` | No |
 | `deepmindstate.net` | No |
-| `deepnexus.link` | No |
+| `deepnexus.link` | Yes |
 | `deepplum.com` | No |
 | `deeproot.in` | No |
 | `deepskies.com` | No |
@@ -41058,6 +41058,7 @@ Here's a list of public Fediverse services.
 | `une33.club` | No |
 | `uneex.net` | No |
 | `unehre.de` | No |
+| `uneu.net` | Yes |
 | `unextro.net` | Yes |
 | `unfediverse.com` | No |
 | `unfettered.net` | Yes |
@@ -44746,8 +44747,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,844 |
-| Normal | 32,859 |
+| Cloudflare | 11,846 |
+| Normal | 32,858 |
 
 
 ### 26.5% of public Fediverse services are using Cloudflare.
