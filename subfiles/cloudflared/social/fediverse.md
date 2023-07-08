@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,789 |
+| com | 6,790 |
 | social | 4,290 |
 | net | 3,461 |
 | org | 2,356 |
@@ -13913,6 +13913,7 @@ Here's a list of public Fediverse services.
 | `gabosh.net` | No |
 | `gabrielcornish.com` | No |
 | `gabrieldebonis.es` | Yes |
+| `gabrielsirilan.com` | Yes |
 | `gabrielwilson.me` | No |
 | `gabskent.de` | Yes |
 | `gabut.social` | Yes |
@@ -27865,7 +27866,7 @@ Here's a list of public Fediverse services.
 | `nominom.de` | Yes |
 | `nomofomo.social` | No |
 | `nomorecubes.net` | No |
-| `nomoresha.me` | No |
+| `nomoresha.me` | Yes |
 | `nomya.net` | No |
 | `non-abelian.space` | No |
 | `non-designer.studio` | Yes |
@@ -44747,8 +44748,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,846 |
-| Normal | 32,858 |
+| Cloudflare | 11,848 |
+| Normal | 32,857 |
 
 
 ### 26.5% of public Fediverse services are using Cloudflare.
