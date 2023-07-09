@@ -2477,6 +2477,7 @@ Do not create new issue or we will close it as duplicate.
 | [cuongsu07@twitter](https://twitter.com/cuongsu07/status/1391607509027213317) | advertise |
 | [cuongtr55309221@twitter](https://twitter.com/cuongtr55309221/status/1399068157692694529) | advertise |
 | [cupidcuteman@twitter](https://twitter.com/cupidcuteman/status/1398102057890959362) | advertise |
+| [curiousartem@twitter](https://twitter.com/curiousartem/status/1677599119722913792) | advertise |
 | [currentlyi55@twitter](https://twitter.com/currentlyi55/status/1539214340770910211) | advertise |
 | [cursedCTF@twitter](https://twitter.com/cursedCTF/status/1645604453691846656) | advertise |
 | [Curse_boi_yt@twitter](https://twitter.com/Curse_boi_yt/status/1388709730705494017) | advertise |
@@ -2527,6 +2528,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dai_XK@twitter](https://twitter.com/Dai_XK/status/1488931866145325058) | advertise |
 | [Daldoum94@twitter](https://twitter.com/Daldoum94/status/1599011583572713472) | advertise |
 | [Dali80188860@twitter](https://twitter.com/Dali80188860/status/1398634697094221825) | advertise |
+| [Dali_1016@twitter](https://twitter.com/Dali_1016/status/1677817615983730688) | advertise |
 | [DaLuQ3@twitter](https://twitter.com/DaLuQ3/status/1546679792702894080) | advertise |
 | [DAmbur143@twitter](https://twitter.com/DAmbur143/status/1401146045552205828) | advertise |
 | [Dame69475429@twitter](https://twitter.com/Dame69475429/status/1494681069916143620) | advertise |
@@ -4450,6 +4452,7 @@ Do not create new issue or we will close it as duplicate.
 | [HoangPhongPham@twitter](https://twitter.com/HoangPhongPham/status/1401924450812010496) | advertise |
 | [HoangPz@twitter](https://twitter.com/HoangPz/status/1486178532715687936) | advertise |
 | [HoangQu76632732@twitter](https://twitter.com/HoangQu76632732/status/1553439919141711883) | advertise |
+| [Hoangthang1503@twitter](https://twitter.com/Hoangthang1503/status/1677852735864188931) | advertise |
 | [HoangTu16363707@twitter](https://twitter.com/HoangTu16363707/status/1401776708282306560) | advertise |
 | [Hoangtuan2k6@twitter](https://twitter.com/Hoangtuan2k6/status/1533103251155218432) | advertise |
 | [hoangtulom@twitter](https://twitter.com/hoangtulom/status/1631893197344608258) | advertise |
@@ -4882,6 +4885,7 @@ Do not create new issue or we will close it as duplicate.
 | [idarerick@twitter](https://twitter.com/idarerick/status/1401141019442249729) | advertise |
 | [ideveloper8@twitter](https://twitter.com/ideveloper8/status/1459107888471941146) | advertise |
 | [idrayt1@twitter](https://twitter.com/idrayt1/status/1584900658699829251) | advertise |
+| [id_btc@twitter](https://twitter.com/id_btc/status/1677829095936217088) | advertise |
 | [IeuThy@twitter](https://twitter.com/IeuThy/status/1392390808062464006) | advertise |
 | [ifany_andrik@twitter](https://twitter.com/ifany_andrik/status/1556160476702441472) | advertise |
 | [IGateco@twitter](https://twitter.com/IGateco/status/1572287104104923137) | advertise |
