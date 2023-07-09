@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,802 |
-| social | 4,292 |
-| net | 3,467 |
+| com | 6,803 |
+| social | 4,294 |
+| net | 3,468 |
 | org | 2,359 |
 | de | 2,199 |
 
@@ -4196,6 +4196,7 @@ Here's a list of public Fediverse services.
 | `bimbo.systems` | No |
 | `bimbo.video` | No |
 | `bimmer.social` | No |
+| `binah.blue` | Yes |
 | `binarycat.org` | No |
 | `binarydad.com` | No |
 | `binarydigit.cafe` | No |
@@ -13583,6 +13584,7 @@ Here's a list of public Fediverse services.
 | `fruitstand.social` | No |
 | `frunc.de` | No |
 | `frustrat.es` | No |
+| `fryer.net.au` | No |
 | `fryntiz.cloud` | No |
 | `fs.al` | No |
 | `fsam.one` | No |
@@ -19871,6 +19873,7 @@ Here's a list of public Fediverse services.
 | `khsmty.com` | Yes |
 | `khuluma.de` | Yes |
 | `khushrajrathod.com` | Yes |
+| `ki6bjv.social` | No |
 | `kianga.eu` | Yes |
 | `kianting.info` | No |
 | `kiarc.win` | Yes |
@@ -22342,6 +22345,7 @@ Here's a list of public Fediverse services.
 | `lottiste.fr` | No |
 | `lottum2.de` | No |
 | `lotty.jp` | No |
+| `lotus-eater.cc` | Yes |
 | `lotus-eyes.net` | No |
 | `lotz.dev` | Yes |
 | `lou.lt` | Yes |
@@ -24760,6 +24764,7 @@ Here's a list of public Fediverse services.
 | `mickekring.se` | No |
 | `miclear.casa` | Yes |
 | `micmun.de` | No |
+| `micolor.link` | Yes |
 | `micra.uk` | Yes |
 | `micro.blog` | No |
 | `microbiome.social` | No |
@@ -25130,6 +25135,7 @@ Here's a list of public Fediverse services.
 | `misskey-dabansky.com` | No |
 | `misskey-experiment.tokyo` | No |
 | `misskey-forkbomb.cf` | Yes |
+| `misskey-iriam.net` | No |
 | `misskey-square.net` | Yes |
 | `misskey-sugartarou.com` | Yes |
 | `misskey.ai` | No |
@@ -26979,6 +26985,7 @@ Here's a list of public Fediverse services.
 | `negative.social` | No |
 | `negativezero.link` | No |
 | `negino.social` | Yes |
+| `negitoro.dev` | Yes |
 | `neguse.net` | No |
 | `neigepluie.net` | No |
 | `neigh.horse` | No |
@@ -31099,6 +31106,7 @@ Here's a list of public Fediverse services.
 | `polymorphic.cloud` | No |
 | `polynom.me` | No |
 | `polyohm.net` | No |
+| `polyomino.app` | No |
 | `polyphony.me` | No |
 | `polyra.com` | No |
 | `polyserv.xyz` | No |
@@ -36784,6 +36792,7 @@ Here's a list of public Fediverse services.
 | `spruchfest.de` | No |
 | `sprunk.me` | Yes |
 | `spswoodturners.org` | No |
+| `spt.social` | Yes |
 | `spudalicio.us` | Yes |
 | `spun-industries.de` | No |
 | `spunkiedesign.com` | Yes |
@@ -37996,6 +38005,7 @@ Here's a list of public Fediverse services.
 | `taglar.net` | Yes |
 | `tagpro.lol` | No |
 | `tahvok.com` | Yes |
+| `taichan.site` | Yes |
 | `taifoon.net` | No |
 | `taiha.net` | No |
 | `tail.dance` | No |
@@ -41041,6 +41051,7 @@ Here's a list of public Fediverse services.
 | `umet.us` | No |
 | `umiamz.me` | Yes |
 | `umicat.de` | No |
+| `umickey.dev` | No |
 | `umikaki.net` | Yes |
 | `umirin.me` | No |
 | `umisskey.com` | Yes |
@@ -43584,6 +43595,7 @@ Here's a list of public Fediverse services.
 | `xiachong.ltd` | Yes |
 | `xianlandia.com` | No |
 | `xianon.net` | Yes |
+| `xiaokunlun.com` | No |
 | `xiaoyuanvc.com` | No |
 | `xiaoyun.space` | Yes |
 | `xice.org` | Yes |
@@ -44814,8 +44826,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,874 |
-| Normal | 32,897 |
+| Cloudflare | 11,880 |
+| Normal | 32,903 |
 
 
 ### 26.5% of public Fediverse services are using Cloudflare.
