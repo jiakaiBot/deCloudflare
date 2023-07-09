@@ -34208,6 +34208,7 @@ Here's a list of public Fediverse services.
 | `samurai-gamers.com` | No |
 | `samw.dev` | Yes |
 | `san-antonio.social` | Yes |
+| `san-misskey1t.xyz` | Yes |
 | `san-tama.tokyo` | No |
 | `san.moe` | No |
 | `sanae233.net` | Yes |
@@ -44872,7 +44873,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,905 |
+| Cloudflare | 11,906 |
 | Normal | 32,924 |
 
 
