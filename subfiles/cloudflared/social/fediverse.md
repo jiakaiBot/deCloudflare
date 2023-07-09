@@ -6415,6 +6415,7 @@ Here's a list of public Fediverse services.
 | `chiefgyk3d.com` | Yes |
 | `chieldouwes.nl` | No |
 | `chiffon-sepxipl.com` | Yes |
+| `chifilly.co.uk` | Yes |
 | `chiguito.com` | No |
 | `chihayainfotech.com` | No |
 | `chiheisen.moe` | No |
@@ -6440,6 +6441,7 @@ Here's a list of public Fediverse services.
 | `chilly.cloud` | No |
 | `chilos.jp` | No |
 | `chimaira.net` | No |
+| `chimera.earth` | No |
 | `chimera.social` | No |
 | `chimera.website` | Yes |
 | `chimerae.org` | No |
@@ -7193,7 +7195,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -23055,7 +23057,7 @@ Here's a list of public Fediverse services.
 | `mamalibre.com.ar` | No |
 | `mame.moe` | Yes |
 | `mamemo.online` | Yes |
-| `mametsuko.net` | Yes |
+| `mametsuko.net` | No |
 | `mamgrac.pl` | No |
 | `mamieserv.fr` | No |
 | `mamisrv.ne.jp` | Yes |
@@ -24322,7 +24324,7 @@ Here's a list of public Fediverse services.
 | `meedan.social` | Yes |
 | `meegt.org` | No |
 | `meekchopp.es` | No |
-| `meemu.org` | No |
+| `meemu.org` | Yes |
 | `meenzen.net` | Yes |
 | `meeple.social` | No |
 | `meeps.dk` | No |
@@ -44812,7 +44814,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,871 |
-| Normal | 32,897 |
+| Normal | 32,899 |
 
 
 ### 26.5% of public Fediverse services are using Cloudflare.
