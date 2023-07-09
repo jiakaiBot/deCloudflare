@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,803 |
+| com | 6,804 |
 | social | 4,294 |
 | net | 3,468 |
 | org | 2,359 |
@@ -26114,7 +26114,7 @@ Here's a list of public Fediverse services.
 | `mstdn.tw` | Yes |
 | `mstdn.us` | No |
 | `mstdn.vet` | No |
-| `mstdn.vodka` | No |
+| `mstdn.vodka` | Yes |
 | `mstdn.voyage` | No |
 | `mstdn.world` | No |
 | `mstdn.ws` | Yes |
@@ -39276,6 +39276,7 @@ Here's a list of public Fediverse services.
 | `thicc.horse` | No |
 | `thicc.site` | No |
 | `thick.rocks` | No |
+| `thicknahalf.com` | Yes |
 | `thickrips.cloud` | No |
 | `thickskull.net` | No |
 | `thiele.work` | No |
@@ -44827,8 +44828,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,881 |
-| Normal | 32,903 |
+| Cloudflare | 11,883 |
+| Normal | 32,902 |
 
 
 ### 26.5% of public Fediverse services are using Cloudflare.
