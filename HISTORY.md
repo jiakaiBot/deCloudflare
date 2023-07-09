@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-07-09: [Increased 530 errors in Singapore](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9296rcvfdxzz)
 - 2023-07-09: [Possible Network Congestion in São Paulo and Rio de Janeiro, Brazil](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bdbj8qvkq9zw)
 - 2023-07-07: [Cloudflare Zero Trust: Gateway Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/49gjsh1p11hg)
 - 2023-07-05: [Network Performance Issues in IAD](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kdxh77qgr4xj)
