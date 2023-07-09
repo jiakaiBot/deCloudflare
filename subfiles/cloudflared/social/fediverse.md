@@ -37006,6 +37006,7 @@ Here's a list of public Fediverse services.
 | `stark-enterprise.net` | Yes |
 | `starkey.family` | No |
 | `starkov.site` | No |
+| `starless.one` | No |
 | `starlifter.tv` | Yes |
 | `starlight.camp` | Yes |
 | `starlightkel.xyz` | No |
@@ -44872,7 +44873,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,905 |
-| Normal | 32,923 |
+| Normal | 32,924 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
