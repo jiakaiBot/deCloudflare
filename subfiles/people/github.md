@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Increased 530 errors in Singapore](https://github.com/hinoshiba/news/issues/983)
 - [CloudFlare Increased 530 errors in Singapore](https://github.com/MatBenfield/news/issues/16223)
 - [systemd-resolved: returns SERVFAIL for uknown domain](https://github.com/systemd/systemd/issues/28310)
 - [Cloudflare R2 put_object_stream fails every time with SignatureDoesNotMatch error](https://github.com/durch/rust-s3/issues/355)
