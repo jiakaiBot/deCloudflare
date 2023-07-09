@@ -3040,6 +3040,7 @@ Here's a list of public Fediverse services.
 | `authn.cc` | No |
 | `author.chat` | Yes |
 | `authorbuzz.co.uk` | No |
+| `authorhelp.uk` | No |
 | `authprivsec.social` | No |
 | `authren.systems` | No |
 | `autism.zone` | No |
@@ -5041,6 +5042,7 @@ Here's a list of public Fediverse services.
 | `brainsoftener.com` | No |
 | `brainsower.org` | No |
 | `brainsplinter.com` | No |
+| `brainstew.co` | No |
 | `brainsuite.social` | No |
 | `brainsys.com` | No |
 | `braintube.com` | No |
@@ -13120,6 +13122,7 @@ Here's a list of public Fediverse services.
 | `fouzhai.com` | Yes |
 | `fox-club.monster` | No |
 | `fox.boston` | Yes |
+| `fox.gal` | No |
 | `fox.yt` | No |
 | `foxacid.se` | No |
 | `foxarmy.ml` | No |
@@ -44809,7 +44812,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,871 |
-| Normal | 32,894 |
+| Normal | 32,897 |
 
 
 ### 26.5% of public Fediverse services are using Cloudflare.
