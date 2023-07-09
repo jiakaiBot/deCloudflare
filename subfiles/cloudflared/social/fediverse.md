@@ -18400,7 +18400,7 @@ Here's a list of public Fediverse services.
 | `jarkkaa.fi` | No |
 | `jarv.is` | Yes |
 | `jascha.wtf` | No |
-| `jasdemi.com` | No |
+| `jasdemi.com` | Yes |
 | `jase.social` | No |
 | `jaseroque.com` | Yes |
 | `jasforce.com` | No |
@@ -21353,7 +21353,7 @@ Here's a list of public Fediverse services.
 | `lemmings.online` | Yes |
 | `lemmit.online` | Yes |
 | `lemmit.xyz` | Yes |
-| `lemmony.click` | No |
+| `lemmony.click` | Yes |
 | `lemmus.org` | No |
 | `lemmy.best` | No |
 | `lemmy.blue` | Yes |
@@ -33941,6 +33941,7 @@ Here's a list of public Fediverse services.
 | `s3th.me` | No |
 | `s3xvn.com` | Yes |
 | `s4die.co` | Yes |
+| `s4if.dev` | Yes |
 | `s4m0r1.net` | No |
 | `s4y.us` | Yes |
 | `s6jr.com` | No |
@@ -44813,8 +44814,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,871 |
-| Normal | 32,899 |
+| Cloudflare | 11,874 |
+| Normal | 32,897 |
 
 
 ### 26.5% of public Fediverse services are using Cloudflare.
