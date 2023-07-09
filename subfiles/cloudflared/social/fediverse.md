@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,809 |
+| com | 6,812 |
 | social | 4,300 |
-| net | 3,470 |
+| net | 3,474 |
 | org | 2,359 |
 | de | 2,199 |
 
@@ -142,6 +142,7 @@ Here's a list of public Fediverse services.
 | `0x7f.dev` | Yes |
 | `0x7f.one` | No |
 | `0x80.org` | No |
+| `0x82.com` | No |
 | `0x89.de` | No |
 | `0x90.space` | No |
 | `0xa.pw` | Yes |
@@ -6258,6 +6259,7 @@ Here's a list of public Fediverse services.
 | `chaotic.ninja` | No |
 | `chaotic.social` | No |
 | `chaoticaredux.com` | No |
+| `chaoticgames.xyz` | No |
 | `chaoticride.com` | No |
 | `chaotics.gay` | Yes |
 | `chaotikum.org` | No |
@@ -7539,6 +7541,7 @@ Here's a list of public Fediverse services.
 | `cosi.town` | No |
 | `cosine.online` | No |
 | `cosmedn.net` | No |
+| `cosmere.xyz` | Yes |
 | `cosmic-engineer.com` | No |
 | `cosmicanimal.jp` | No |
 | `cosmicdust.cloud` | No |
@@ -17297,6 +17300,7 @@ Here's a list of public Fediverse services.
 | `igyigy.com` | No |
 | `ihatebeinga.live` | Yes |
 | `ihatovo.com` | No |
+| `ihax0r.com` | No |
 | `ihobby.org` | No |
 | `ihost.fi` | No |
 | `ihuvudetpaengranddanoisgalning.blog` | Yes |
@@ -17935,6 +17939,7 @@ Here's a list of public Fediverse services.
 | `iridis.uk` | No |
 | `iriseden.eu` | No |
 | `irishstew.org` | No |
+| `irithyll.cc` | No |
 | `irithys.com` | Yes |
 | `irkos.uk` | No |
 | `irl.dog` | Yes |
@@ -19857,6 +19862,7 @@ Here's a list of public Fediverse services.
 | `kf0are.net` | No |
 | `kf7k.com` | Yes |
 | `kfalumni.social` | No |
+| `kfamhome.com` | No |
 | `kfem.cat` | No |
 | `kfet.io` | Yes |
 | `kfitz.info` | No |
@@ -24694,6 +24700,7 @@ Here's a list of public Fediverse services.
 | `mfjt.jp` | Yes |
 | `mfmf.club` | Yes |
 | `mfmfuyu.net` | Yes |
+| `mfn.pub` | No |
 | `mfojtik.io` | Yes |
 | `mfr.social` | No |
 | `mfraters.net` | No |
@@ -28352,6 +28359,7 @@ Here's a list of public Fediverse services.
 | `nullskey.com` | Yes |
 | `nullspace.ie` | No |
 | `nulltea.cc` | Yes |
+| `nullthe.net` | Yes |
 | `nulltrading.com` | No |
 | `nullwhere.social` | No |
 | `nullzone.fr` | No |
@@ -28804,6 +28812,7 @@ Here's a list of public Fediverse services.
 | `okteto.net` | Yes |
 | `okumin.com` | No |
 | `ol2ol.com` | No |
+| `ola.lol` | No |
 | `olching.social` | No |
 | `olchis.net` | No |
 | `olcy.fr` | No |
@@ -30964,6 +30973,7 @@ Here's a list of public Fediverse services.
 | `plutozone.xyz` | Yes |
 | `plutus.social` | Yes |
 | `plux.wtf` | No |
+| `plwd.cloud` | No |
 | `plx.chat` | No |
 | `plyuk.rocks` | No |
 | `plzpet.dog` | No |
@@ -34014,6 +34024,7 @@ Here's a list of public Fediverse services.
 | `sackheads.social` | No |
 | `sacklzefix.de` | No |
 | `sacredheartsc.com` | No |
+| `sacredori.net` | Yes |
 | `sacrificial-chickens.social` | No |
 | `sacspace.com` | No |
 | `sacto.xyz` | No |
@@ -42537,6 +42548,7 @@ Here's a list of public Fediverse services.
 | `waytt.ml` | No |
 | `wazong.de` | No |
 | `wbcld.com` | Yes |
+| `wbelucky.net` | Yes |
 | `wbknl.xyz` | No |
 | `wbnns.com` | Yes |
 | `wbrew.radom.pl` | No |
@@ -43620,6 +43632,7 @@ Here's a list of public Fediverse services.
 | `xgold.xyz` | No |
 | `xhais.love` | Yes |
 | `xhec.dev` | Yes |
+| `xhmelo.net` | Yes |
 | `xhrpb.com` | No |
 | `xi.ht` | No |
 | `xiachong.ltd` | Yes |
@@ -44858,8 +44871,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,900 |
-| Normal | 32,915 |
+| Cloudflare | 11,905 |
+| Normal | 32,923 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
