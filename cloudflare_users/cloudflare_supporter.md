@@ -2329,6 +2329,7 @@ Do not create new issue or we will close it as duplicate.
 | [Cngc28668493@twitter](https://twitter.com/Cngc28668493/status/1383781247432855562) | advertise |
 | [CngMinh69938240@twitter](https://twitter.com/CngMinh69938240/status/1642927025890680833) | advertise |
 | [CngNguy78789456@twitter](https://twitter.com/CngNguy78789456/status/1398669757096726528) | advertise |
+| [cng_ftdev@twitter](https://twitter.com/cng_ftdev/status/1677715324748320769) | advertise |
 | [CnSakuya@twitter](https://twitter.com/CnSakuya/status/1592425946870861824) | advertise |
 | [CocainCua@twitter](https://twitter.com/CocainCua/status/1646953325060059136) | advertise |
 | [coccocxi@twitter](https://twitter.com/coccocxi/status/1543106929311879169) | advertise |
@@ -6282,6 +6283,7 @@ Do not create new issue or we will close it as duplicate.
 | [KuashikMakavana@twitter](https://twitter.com/KuashikMakavana/status/1388432783110860802) | advertise |
 | [kubon34505188@twitter](https://twitter.com/kubon34505188/status/1387458130548715522) | advertise |
 | [Kudatlo@twitter](https://twitter.com/Kudatlo/status/1623118589502050305) | advertise |
+| [kudzu_naoki@twitter](https://twitter.com/kudzu_naoki/status/1677183324329250816) | advertise |
 | [kuksi007h@twitter](https://twitter.com/kuksi007h/status/1625651218780389377) | advertise |
 | [KuKu68783681@twitter](https://twitter.com/KuKu68783681/status/1405164564300197898) | advertise |
 | [kukuhtun@twitter](https://twitter.com/kukuhtun/status/1377224548454526978) | advertise |
