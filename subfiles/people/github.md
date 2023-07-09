@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Increased 530 errors in Singapore and Jakarta](https://github.com/hinoshiba/news/issues/984)
+- [CloudFlare Increased 530 errors in Singapore and Jakarta](https://github.com/MatBenfield/news/issues/16224)
 - [CloudFlare Increased 530 errors in Singapore](https://github.com/hinoshiba/news/issues/983)
 - [CloudFlare Increased 530 errors in Singapore](https://github.com/MatBenfield/news/issues/16223)
 - [systemd-resolved: returns SERVFAIL for uknown domain](https://github.com/systemd/systemd/issues/28310)
