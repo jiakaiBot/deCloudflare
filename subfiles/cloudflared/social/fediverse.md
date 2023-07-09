@@ -7196,7 +7196,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9093,7 +9093,7 @@ Here's a list of public Fediverse services.
 | `demosfera.com` | No |
 | `demotheque.com` | No |
 | `demouliere.eu` | No |
-| `demozumpa.cz` | Yes |
+| `demozumpa.cz` | No |
 | `dems.social` | No |
 | `demtech.global` | No |
 | `den.yt` | Yes |
@@ -9193,6 +9193,7 @@ Here's a list of public Fediverse services.
 | `description.world` | No |
 | `desde.eu` | No |
 | `desdelamina.net` | No |
+| `desertpeach.games` | Yes |
 | `design.systems` | Yes |
 | `design.theater` | No |
 | `design.vu` | No |
@@ -14654,7 +14655,7 @@ Here's a list of public Fediverse services.
 | `glam.monster` | No |
 | `glamdon.com` | No |
 | `glammr.us` | No |
-| `glaoigh.space` | Yes |
+| `glaoigh.space` | No |
 | `glarolykoi.net` | No |
 | `glaros.xyz` | No |
 | `glasgow.social` | No |
@@ -20766,7 +20767,7 @@ Here's a list of public Fediverse services.
 | `kwpeace.ca` | No |
 | `kwtechs.xyz` | No |
 | `kx.studio` | No |
-| `kxn4t.tech` | No |
+| `kxn4t.tech` | Yes |
 | `kyaru.xyz` | Yes |
 | `kyaruc.moe` | No |
 | `kyd.au` | No |
@@ -44826,7 +44827,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,880 |
+| Cloudflare | 11,881 |
 | Normal | 32,903 |
 
 
