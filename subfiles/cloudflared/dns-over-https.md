@@ -125,6 +125,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | familiamv.ml | No |
 | fancyorg.at | No |
 | fdn.fr | No |
+| feldy.my.id | Yes |
 | ff0x.ca | Yes |
 | ffmuc.net | Yes |
 | filipccz.eu | Yes |
@@ -242,12 +243,14 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | node15.com | Yes |
 | nolo.ltd | Yes |
 | nomu.pw | No |
+| noridev.moe | No |
 | novali.date | Yes |
 | ns3.com | No |
 | ns3.cx | No |
 | ns3.link | No |
 | nullgate.net | No |
 | o1.lt | Yes |
+| occ.top | Yes |
 | ofdoom.net | Yes |
 | ohai.ca | Yes |
 | onedns.cc | Yes |
@@ -369,8 +372,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 179 |
-| Normal | 171 |
+| Cloudflare | 181 |
+| Normal | 172 |
 
 
-### 51.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
