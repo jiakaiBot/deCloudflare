@@ -337,6 +337,7 @@ Here's a list of breached sites.
 | LiveJournal | 26,372,781 | No |
 | Livpure | 269,552 | Yes |
 | LizardSquad (Lizard Squad) | 13,451 | No |
+| Locally | 362,619 | Yes |
 | Lolzteam | 398,011 | No |
 | Lookbook | 1,074,948 | Yes |
 | LoungeBoard (Lounge Board) | 45,018 | No |
@@ -672,10 +673,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 364 | 3,929,905,657 |
+| Cloudflare | 365 | 3,930,268,276 |
 | Normal | 287 | 4,981,349,743 |
 
 
 
-### 55.9% of breached sites (pwned sites) are using Cloudflare.
+### 56% of breached sites (pwned sites) are using Cloudflare.
 ### 44.1% of leaked accounts are on Cloudflare sites.
