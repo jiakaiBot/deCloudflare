@@ -25,7 +25,6 @@ Here's a list of public Matrix services.
 | matrix.4d2.org | No |
 | riot.allmende.io | No |
 | alternanet.fr | No |
-| matrix.archaeo.social | No |
 | aria.im | No |
 | matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
@@ -34,6 +33,7 @@ Here's a list of public Matrix services.
 | breeze.town | No |
 | buyvm.chat | No |
 | matrix.bytes4u.de | No |
+| matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
