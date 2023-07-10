@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Rule Exclusions for Wordpress Password-Reset Page not working. Caused by "Simple Cloudflare Turnstile" plugin. Argument value too long. Desperately need help!](https://github.com/coreruleset/coreruleset/issues/3249)
 - [CloudFlare Increased 530 errors in Singapore and Jakarta](https://github.com/hinoshiba/news/issues/984)
 - [CloudFlare Increased 530 errors in Singapore and Jakarta](https://github.com/MatBenfield/news/issues/16224)
 - [CloudFlare Increased 530 errors in Singapore](https://github.com/hinoshiba/news/issues/983)
