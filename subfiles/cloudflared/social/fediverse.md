@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,823 |
-| social | 4,301 |
+| social | 4,302 |
 | net | 3,477 |
 | org | 2,363 |
 | de | 2,199 |
@@ -1081,6 +1081,7 @@ Here's a list of public Fediverse services.
 | `adm.ink` | No |
 | `admannz.com` | No |
 | `admin.co.com` | Yes |
+| `admin.social` | No |
 | `adminero.it` | Yes |
 | `adminforge.de` | No |
 | `administrieren.net` | No |
@@ -5011,6 +5012,7 @@ Here's a list of public Fediverse services.
 | `boxp.tk` | No |
 | `boxpleats.com` | No |
 | `boyfails.me` | No |
+| `boykissers.club` | No |
 | `boymoder.biz` | No |
 | `boyos.org` | No |
 | `boys.computer` | No |
@@ -44925,7 +44927,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,918 |
-| Normal | 32,963 |
+| Normal | 32,965 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
