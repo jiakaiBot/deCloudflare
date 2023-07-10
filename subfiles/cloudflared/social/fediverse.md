@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,830 |
-| social | 4,305 |
-| net | 3,479 |
-| org | 2,363 |
+| com | 6,832 |
+| social | 4,306 |
+| net | 3,481 |
+| org | 2,365 |
 | de | 2,199 |
 
 
@@ -3549,6 +3549,7 @@ Here's a list of public Fediverse services.
 | `barciauskas.com` | No |
 | `barclay.social` | Yes |
 | `barcollo.space` | No |
+| `bardia.tech` | No |
 | `bardiharborow.com` | No |
 | `bardown.space` | No |
 | `bards.online` | No |
@@ -4876,6 +4877,7 @@ Here's a list of public Fediverse services.
 | `bookwyrm.de` | No |
 | `bookwyrm.social` | No |
 | `bookwyrm.tech` | No |
+| `boombeach.soy` | No |
 | `boomer.casino` | Yes |
 | `boon.asia` | Yes |
 | `boon.chat` | Yes |
@@ -12219,6 +12221,7 @@ Here's a list of public Fediverse services.
 | `fedi.life` | No |
 | `fedi.live` | No |
 | `fedi.love` | No |
+| `fedi.lt` | No |
 | `fedi.me` | No |
 | `fedi.ml` | No |
 | `fedi.moe` | No |
@@ -15174,6 +15177,7 @@ Here's a list of public Fediverse services.
 | `greatlakes.community` | No |
 | `greatloop.social` | Yes |
 | `greatview.video` | No |
+| `greatvoid.org` | Yes |
 | `gred.al` | Yes |
 | `greed.monster` | No |
 | `greedygretchen.com` | No |
@@ -15520,6 +15524,7 @@ Here's a list of public Fediverse services.
 | `h12r.de` | No |
 | `h1v3.de` | No |
 | `h2x.us` | No |
+| `h3a.moe` | Yes |
 | `h3h3.club` | No |
 | `h3rmi.de` | No |
 | `h3xtacy.party` | No |
@@ -15984,6 +15989,7 @@ Here's a list of public Fediverse services.
 | `hdez.nl` | No |
 | `hdmr.org` | No |
 | `hdr-it.de` | No |
+| `hdr.social` | No |
 | `hdty.in` | No |
 | `headcannon.xyz` | Yes |
 | `headchecks.club` | No |
@@ -17121,6 +17127,7 @@ Here's a list of public Fediverse services.
 | `iaccessibility.net` | No |
 | `iaccessibility.social` | No |
 | `iaconunderground.net` | No |
+| `iaddg.net` | No |
 | `iaia.moe` | No |
 | `ialis.me` | No |
 | `ialys.net` | Yes |
@@ -17333,6 +17340,7 @@ Here's a list of public Fediverse services.
 | `igwigg.space` | No |
 | `igyigy.com` | No |
 | `ihatebeinga.live` | Yes |
+| `ihatethedemonkahl.com` | Yes |
 | `ihatovo.com` | No |
 | `ihax0r.com` | No |
 | `ihobby.org` | No |
@@ -22659,6 +22667,7 @@ Here's a list of public Fediverse services.
 | `lunakit.org` | No |
 | `lunardream.space` | No |
 | `lunareclip.se` | No |
+| `lunarlabz.com` | Yes |
 | `lunarloony.co.uk` | No |
 | `lunarpunk.social` | No |
 | `lunarpunk.space` | Yes |
@@ -22798,6 +22807,7 @@ Here's a list of public Fediverse services.
 | `m213.xyz` | Yes |
 | `m29.us` | No |
 | `m2hq.net` | No |
+| `m33how.it` | No |
 | `m3o.org` | Yes |
 | `m3press.jp` | No |
 | `m400cloud.com` | No |
@@ -25811,6 +25821,7 @@ Here's a list of public Fediverse services.
 | `morphtown.de` | No |
 | `morphux.org` | No |
 | `morretton.fr` | No |
+| `morris.cymru` | No |
 | `morrisherd.com` | Yes |
 | `morrissey.xyz` | No |
 | `morrow.social` | No |
@@ -25996,6 +26007,7 @@ Here's a list of public Fediverse services.
 | `mrtino.eu` | No |
 | `mrtodon.net` | No |
 | `mrtoto.de` | No |
+| `mrtoto.net` | No |
 | `mrupp.eu` | No |
 | `mrx.im` | No |
 | `mrxi.org` | No |
@@ -38762,6 +38774,7 @@ Here's a list of public Fediverse services.
 | `teslafans.social` | No |
 | `teslam.in` | Yes |
 | `teslapwners.club` | No |
+| `tespia.org` | Yes |
 | `tessa.ooo` | Yes |
 | `tessellated.space` | No |
 | `tessellation.space` | Yes |
@@ -42641,6 +42654,7 @@ Here's a list of public Fediverse services.
 | `wcwts.dev` | No |
 | `wd.is` | Yes |
 | `wdavery.com` | No |
+| `wdorff.dev` | No |
 | `wdr.sh` | No |
 | `wdwconsulting.net` | No |
 | `wdx543.top` | No |
@@ -44958,8 +44972,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,930 |
-| Normal | 32,985 |
+| Cloudflare | 11,935 |
+| Normal | 32,994 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
