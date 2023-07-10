@@ -39327,6 +39327,7 @@ Here's a list of public Fediverse services.
 | `theweatherstationexperts.com` | Yes |
 | `thewebres.com` | Yes |
 | `thewebzone.net` | No |
+| `theweird.space` | No |
 | `thewell.ml` | No |
 | `thewhatnow.eu` | No |
 | `thewiesners.org` | No |
@@ -44924,7 +44925,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,918 |
-| Normal | 32,962 |
+| Normal | 32,963 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
