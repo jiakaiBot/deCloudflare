@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Upgrading to 0.31.0 break AWS S3 sink uploads to Cloudflare R2](https://github.com/vectordotdev/vector/issues/17927)
 - [Support long-running tasks with asynchronous polling](https://github.com/terminusdb/terminusdb/issues/1885)
 - [previsao.inmet.gov.br - site is not usable](https://github.com/webcompat/web-bugs/issues/124489)
 - [Rule Exclusions for Wordpress Password-Reset Page not working. Caused by "Simple Cloudflare Turnstile" plugin. Argument value too long. Desperately need help!](https://github.com/coreruleset/coreruleset/issues/3249)
