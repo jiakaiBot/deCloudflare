@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,833 |
+| com | 6,836 |
 | social | 4,308 |
-| net | 3,483 |
-| org | 2,367 |
+| net | 3,486 |
+| org | 2,368 |
 | de | 2,200 |
 
 
@@ -5522,6 +5522,7 @@ Here's a list of public Fediverse services.
 | `byecasts.com` | Yes |
 | `byecorps.com` | Yes |
 | `byemc.live` | No |
+| `byeolvit.space` | Yes |
 | `bygg.land` | No |
 | `byjc.co` | No |
 | `byl.fr` | No |
@@ -6398,6 +6399,7 @@ Here's a list of public Fediverse services.
 | `chernoberl.in` | No |
 | `chernow.org` | No |
 | `cherokeesofidaho.org` | No |
+| `cherryberry.pink` | No |
 | `cherrykitten.dev` | No |
 | `cheshire.io` | No |
 | `chester.id.au` | Yes |
@@ -15693,6 +15695,7 @@ Here's a list of public Fediverse services.
 | `hakase.host` | No |
 | `hakendon.net` | No |
 | `hakimus.de` | No |
+| `hako.lol` | Yes |
 | `hakoai.com` | No |
 | `hakodon.cf` | No |
 | `hakomas.cf` | No |
@@ -15708,6 +15711,7 @@ Here's a list of public Fediverse services.
 | `hal.codes` | Yes |
 | `hal9.ooo` | No |
 | `halby24.com` | No |
+| `halcat.org` | Yes |
 | `halcyon.vision` | No |
 | `halcyonpixels.com` | Yes |
 | `half-shot.uk` | No |
@@ -17221,6 +17225,7 @@ Here's a list of public Fediverse services.
 | `ichibi.eu` | No |
 | `ichidan.io` | Yes |
 | `ichigo-hoshimiya.com` | Yes |
+| `ichigo.dev` | Yes |
 | `ichii.moe` | No |
 | `ichiji.social` | No |
 | `ichinyo.site` | No |
@@ -18799,6 +18804,7 @@ Here's a list of public Fediverse services.
 | `jiyu.dev` | No |
 | `jizardqueen.ca` | No |
 | `jizi.ml` | No |
+| `jj5fxl.net` | No |
 | `jjba.pro` | No |
 | `jjchat.io` | No |
 | `jjfm.social` | No |
@@ -21252,6 +21258,7 @@ Here's a list of public Fediverse services.
 | `lazysocial.de` | No |
 | `lazysquirrel.co.uk` | No |
 | `lazyteddy.eu` | No |
+| `lazywildcat.net` | No |
 | `lb1a.de` | No |
 | `lbad.ru` | No |
 | `lbdc.gay` | No |
@@ -25295,6 +25302,7 @@ Here's a list of public Fediverse services.
 | `misskey.wtf` | No |
 | `misskey.xyz` | No |
 | `misskeyjp.com` | Yes |
+| `misskeyval.com` | Yes |
 | `misskoula.space` | No |
 | `misso-pi.com` | No |
 | `misspi.net` | Yes |
@@ -25361,6 +25369,7 @@ Here's a list of public Fediverse services.
 | `miyacorata.net` | Yes |
 | `miyon.org` | Yes |
 | `miyon.pw` | No |
+| `miyukey.club` | Yes |
 | `mizky.jp` | Yes |
 | `mizo.one` | No |
 | `mizucoffee.net` | No |
@@ -30603,6 +30612,7 @@ Here's a list of public Fediverse services.
 | `piecewise.im` | No |
 | `piedmontnons.top` | No |
 | `piejacker.net` | No |
+| `pien.dev` | No |
 | `piepants.xyz` | Yes |
 | `pierce.xyz` | Yes |
 | `piercingtheveil.tv` | No |
@@ -31777,7 +31787,6 @@ Here's a list of public Fediverse services.
 | `psychedelic.cat` | No |
 | `psychoactive.space` | No |
 | `psychocandy.club` | No |
-| `psychocloud.tech` | No |
 | `psychodog.co.uk` | No |
 | `psychomantys.xyz` | Yes |
 | `psychopixie.net` | No |
@@ -31935,6 +31944,7 @@ Here's a list of public Fediverse services.
 | `putputlaw.de` | No |
 | `putz.space` | No |
 | `puyo.jp` | No |
+| `puyosuki.com` | Yes |
 | `puz.fun` | No |
 | `puzzled.cc` | No |
 | `puzzling.org` | No |
@@ -33376,6 +33386,7 @@ Here's a list of public Fediverse services.
 | `rimmer.cloud` | No |
 | `rimmer.wtf` | No |
 | `rimonce.one` | Yes |
+| `rimworld.gallery` | No |
 | `rin.fo` | Yes |
 | `rin.pink` | Yes |
 | `rince.de` | No |
@@ -34412,6 +34423,7 @@ Here's a list of public Fediverse services.
 | `saryay.club` | Yes |
 | `sas.monster` | No |
 | `sasa.africa` | No |
+| `sasaboushi.net` | No |
 | `sasachi.tokyo` | No |
 | `sasakimasato.net` | No |
 | `sasakulab.com` | Yes |
@@ -37022,6 +37034,7 @@ Here's a list of public Fediverse services.
 | `ssig33.com` | Yes |
 | `ssj3.xyz` | No |
 | `ssji.net` | No |
+| `ssks-ss.com` | Yes |
 | `ssnake.me` | Yes |
 | `ssp-gt.de` | No |
 | `sspaeth.de` | No |
@@ -41336,6 +41349,7 @@ Here's a list of public Fediverse services.
 | `unimatrix0.is` | No |
 | `unimeow.space` | No |
 | `unimportant.business` | Yes |
+| `unin.site` | No |
 | `uninfluencer.org` | Yes |
 | `uninform.at` | No |
 | `uninsane.org` | No |
@@ -44995,8 +45009,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,942 |
-| Normal | 33,010 |
+| Cloudflare | 11,950 |
+| Normal | 33,016 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
