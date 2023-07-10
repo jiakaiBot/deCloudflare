@@ -3787,7 +3787,7 @@ Here's a list of public Fediverse services.
 | `beefboyz.com` | Yes |
 | `beefboyz.net` | Yes |
 | `beefus.camp` | No |
-| `beefyboys.club` | Yes |
+| `beefyboys.club` | No |
 | `beefyboys.win` | Yes |
 | `beeglil.fun` | No |
 | `beehaw.org` | No |
@@ -7208,7 +7208,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -23887,7 +23887,7 @@ Here's a list of public Fediverse services.
 | `mastodonners.ovh` | No |
 | `mastodonofmystery.world` | No |
 | `mastodononline.site` | No |
-| `mastodonperu.xyz` | Yes |
+| `mastodonperu.xyz` | No |
 | `mastodonpgh.com` | No |
 | `mastodonpost.com` | No |
 | `mastodonpost.social` | No |
@@ -33217,6 +33217,7 @@ Here's a list of public Fediverse services.
 | `rhizome.social` | Yes |
 | `rhnhssn.social` | No |
 | `rhoads.com` | No |
+| `rhowsl.gay` | No |
 | `rhrdbc.link` | No |
 | `rhrish.com` | No |
 | `rhubarb.land` | Yes |
@@ -35870,7 +35871,7 @@ Here's a list of public Fediverse services.
 | `sky-em.id.au` | No |
 | `skyarrow.org` | No |
 | `skyax.design` | Yes |
-| `skycademc.com` | Yes |
+| `skycademc.com` | No |
 | `skye.cx` | No |
 | `skye.vg` | Yes |
 | `skyefortresszone.xyz` | No |
@@ -44922,8 +44923,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,922 |
-| Normal | 32,957 |
+| Cloudflare | 11,918 |
+| Normal | 32,962 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
