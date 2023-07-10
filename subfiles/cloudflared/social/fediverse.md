@@ -18806,6 +18806,7 @@ Here's a list of public Fediverse services.
 | `jkpg.rocks` | Yes |
 | `jkpolkproject.com` | No |
 | `jl-systems.se` | No |
+| `jlai.lu` | No |
 | `jlailu.social` | Yes |
 | `jlamothe.net` | No |
 | `jlc.amsterdam` | No |
@@ -44973,7 +44974,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,935 |
-| Normal | 32,994 |
+| Normal | 32,995 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
