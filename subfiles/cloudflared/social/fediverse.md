@@ -19659,6 +19659,7 @@ Here's a list of public Fediverse services.
 | `kazvam.com` | Yes |
 | `kb3lyb.com` | Yes |
 | `kbec.dev` | No |
+| `kbin.buzz` | No |
 | `kbin.cafe` | Yes |
 | `kbin.chat` | Yes |
 | `kbin.dk` | No |
@@ -25539,6 +25540,7 @@ Here's a list of public Fediverse services.
 | `mogle.social` | No |
 | `mograph.social` | No |
 | `mogwog.org` | No |
+| `moi.cx` | Yes |
 | `moi.lc` | No |
 | `moi.ovh` | No |
 | `moien.net` | No |
@@ -30866,6 +30868,7 @@ Here's a list of public Fediverse services.
 | `plant-based.place` | Yes |
 | `plantcm.com` | No |
 | `plantex.top` | No |
+| `plantfriends.xyz` | Yes |
 | `plantroon.com` | No |
 | `plantsand.coffee` | No |
 | `planz.asia` | No |
@@ -44932,8 +44935,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,919 |
-| Normal | 32,970 |
+| Cloudflare | 11,921 |
+| Normal | 32,971 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
