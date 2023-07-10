@@ -7210,7 +7210,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -21876,6 +21876,7 @@ Here's a list of public Fediverse services.
 | `lilysthings.org` | Yes |
 | `limelee.xyz` | No |
 | `limely.social` | No |
+| `limes.pink` | No |
 | `limey.land` | No |
 | `limilo.com` | Yes |
 | `liminal.club` | No |
@@ -36006,7 +36007,7 @@ Here's a list of public Fediverse services.
 | `slv-valbonne.fr` | No |
 | `slvn.social` | No |
 | `slvtv.fr` | No |
-| `sly.dev` | No |
+| `sly.dev` | Yes |
 | `slyversoft.fr` | No |
 | `sm-mstdn.com` | No |
 | `smaier.net` | Yes |
@@ -44935,8 +44936,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,921 |
-| Normal | 32,971 |
+| Cloudflare | 11,923 |
+| Normal | 32,970 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
