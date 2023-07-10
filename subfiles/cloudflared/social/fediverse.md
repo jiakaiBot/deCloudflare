@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,829 |
+| com | 6,830 |
 | social | 4,305 |
 | net | 3,479 |
 | org | 2,363 |
@@ -16459,6 +16459,7 @@ Here's a list of public Fediverse services.
 | `hitchhiker.social` | No |
 | `hitchin.live` | Yes |
 | `hitchtube.fr` | No |
+| `hiteihi.me` | No |
 | `hiteklolife.net` | Yes |
 | `hiten.org` | No |
 | `hitime.space` | No |
@@ -22867,6 +22868,7 @@ Here's a list of public Fediverse services.
 | `maciejbielec.com` | No |
 | `mackenba.ch` | No |
 | `macks.uk` | Yes |
+| `macle-cure.com` | No |
 | `macleay.ca` | Yes |
 | `maclock.social` | No |
 | `macmhicheil.scot` | No |
@@ -44957,7 +44959,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,930 |
-| Normal | 32,983 |
+| Normal | 32,985 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
