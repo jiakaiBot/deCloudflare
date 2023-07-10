@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,823 |
+| com | 6,825 |
 | social | 4,302 |
-| net | 3,477 |
+| net | 3,479 |
 | org | 2,363 |
 | de | 2,199 |
 
@@ -16604,6 +16604,7 @@ Here's a list of public Fediverse services.
 | `holnburger.social` | No |
 | `holocaustdeprogrammingcourse.com` | No |
 | `holomaplefeline.net` | No |
+| `holomisskey.net` | No |
 | `holonet.social` | Yes |
 | `holovaty.com` | No |
 | `holtbruegger.de` | No |
@@ -19354,6 +19355,7 @@ Here's a list of public Fediverse services.
 | `kagura.eu` | No |
 | `kagura1050.tk` | No |
 | `kaguratech.tk` | No |
+| `kagurazaka.dev` | No |
 | `kahachepe.org` | No |
 | `kahl-com.de` | No |
 | `kahppa.social` | No |
@@ -37875,6 +37877,7 @@ Here's a list of public Fediverse services.
 | `syachiku.info` | No |
 | `syachiku.net` | No |
 | `syahu.com` | No |
+| `syakesaba.com` | No |
 | `syamco.net` | No |
 | `syamimomo.cf` | No |
 | `syamutodon.xyz` | No |
@@ -41121,6 +41124,7 @@ Here's a list of public Fediverse services.
 | `uluntu.se` | No |
 | `ulysses.app` | No |
 | `um-pudding.de` | No |
+| `uma-aji.com` | Yes |
 | `umamusu.me` | Yes |
 | `umany222.net` | No |
 | `umarhadi.dev` | Yes |
@@ -41973,6 +41977,7 @@ Here's a list of public Fediverse services.
 | `vientos.live` | Yes |
 | `vier.beer` | No |
 | `vier1.de` | No |
+| `vierays.net` | No |
 | `vierkantor.com` | No |
 | `vietmojo.space` | No |
 | `vigaucho.eu` | No |
@@ -42321,6 +42326,7 @@ Here's a list of public Fediverse services.
 | `vuju.com` | No |
 | `vulcantv.net` | No |
 | `vulgarisation-informatique.fr` | No |
+| `vulpes.directory` | No |
 | `vulpes.one` | No |
 | `vulpes.work` | No |
 | `vulpine.club` | Yes |
@@ -44926,8 +44932,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,918 |
-| Normal | 32,965 |
+| Cloudflare | 11,919 |
+| Normal | 32,970 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
