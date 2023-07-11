@@ -10549,6 +10549,7 @@ Here's a list of public Fediverse services.
 | `e50.eu` | No |
 | `e5150.fr` | No |
 | `e6.cx` | Yes |
+| `e621.one` | No |
 | `eachpail.org` | No |
 | `eagerpebble.com` | No |
 | `eagleandserpent.club` | No |
@@ -35859,6 +35860,7 @@ Here's a list of public Fediverse services.
 | `sitesource.be` | No |
 | `siteyui.site` | No |
 | `sittig.io` | No |
+| `sitwell.dev` | Yes |
 | `sivar.cafe` | No |
 | `siverlag.de` | No |
 | `sivokon.me` | No |
@@ -45070,8 +45072,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,985 |
-| Normal | 33,042 |
+| Cloudflare | 11,986 |
+| Normal | 33,043 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
