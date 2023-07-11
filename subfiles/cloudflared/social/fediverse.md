@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,844 |
+| com | 6,846 |
 | social | 4,314 |
-| net | 3,489 |
+| net | 3,490 |
 | org | 2,370 |
-| de | 2,200 |
+| de | 2,201 |
 
 
 - Mastodon, Pleroma, etc
@@ -1460,6 +1460,7 @@ Here's a list of public Fediverse services.
 | `albertj.info` | No |
 | `albertj.nl` | No |
 | `albertoluna.es` | Yes |
+| `albertoventurini.com` | No |
 | `albigro.com` | No |
 | `albin.cc` | No |
 | `albin.club` | No |
@@ -5684,6 +5685,7 @@ Here's a list of public Fediverse services.
 | `calculon.dev` | No |
 | `calders.us` | No |
 | `caldron.de` | No |
+| `caleb.tn` | No |
 | `calebhearth.com` | Yes |
 | `calebmharper.com` | No |
 | `caleida.com` | No |
@@ -17608,6 +17610,7 @@ Here's a list of public Fediverse services.
 | `indieweb.life` | No |
 | `indieweb.me` | No |
 | `indieweb.social` | No |
+| `indiewohnzimmer.de` | No |
 | `indigedon.com` | No |
 | `indigenouscreatives.social` | No |
 | `indigenousgulf.online` | No |
@@ -20387,6 +20390,7 @@ Here's a list of public Fediverse services.
 | `kode54.net` | Yes |
 | `kodein.be` | No |
 | `kodeklang.social` | No |
+| `kodemystic.dev` | No |
 | `koder-marin.at` | No |
 | `kodlomrazi.ru` | No |
 | `kodow.net` | Yes |
@@ -24440,6 +24444,7 @@ Here's a list of public Fediverse services.
 | `medien.social` | No |
 | `medienverwaltung.org` | No |
 | `medienzentrum-harburg.de` | No |
+| `medienzentrum.rocks` | No |
 | `medieval.jp` | No |
 | `medievalarchives.com` | No |
 | `medievalarchives.social` | No |
@@ -36026,6 +36031,7 @@ Here's a list of public Fediverse services.
 | `slaght.de` | No |
 | `slapdash.social` | Yes |
 | `slasa.us` | No |
+| `slash.casa` | No |
 | `slash.cl` | Yes |
 | `slashams.dev` | No |
 | `slashdev.space` | No |
@@ -37054,6 +37060,7 @@ Here's a list of public Fediverse services.
 | `srdn.net` | No |
 | `srg.id.au` | Yes |
 | `srg.social` | No |
+| `srgr0.com` | Yes |
 | `srid.ca` | Yes |
 | `srijan.dev` | Yes |
 | `srijan.site` | No |
@@ -40912,6 +40919,7 @@ Here's a list of public Fediverse services.
 | `tvman.net` | No |
 | `tvor.support` | No |
 | `tvt.moe` | Yes |
+| `tvter.net` | No |
 | `tvwatch.party` | No |
 | `tw.in.eu.org` | No |
 | `tw.social` | No |
@@ -43037,6 +43045,7 @@ Here's a list of public Fediverse services.
 | `whatthefuck.computer` | No |
 | `whatwasidoingagain.com` | No |
 | `whatwaslostisfound.co.uk` | No |
+| `whatyoulike.club` | No |
 | `wheelbearings.media` | No |
 | `when.computer` | No |
 | `whereaboat.rocks` | No |
@@ -45059,8 +45068,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,981 |
-| Normal | 33,035 |
+| Cloudflare | 11,982 |
+| Normal | 33,043 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
