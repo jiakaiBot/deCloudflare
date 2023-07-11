@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,840 |
-| social | 4,310 |
-| net | 3,486 |
+| com | 6,843 |
+| social | 4,311 |
+| net | 3,487 |
 | org | 2,369 |
 | de | 2,200 |
 
@@ -7221,7 +7221,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -15699,6 +15699,7 @@ Here's a list of public Fediverse services.
 | `hakai-macaron.com` | No |
 | `hakase.cloud` | No |
 | `hakase.host` | No |
+| `hakatashi.com` | Yes |
 | `hakendon.net` | No |
 | `hakimus.de` | No |
 | `hako.lol` | Yes |
@@ -16364,6 +16365,7 @@ Here's a list of public Fediverse services.
 | `hifi.fyi` | No |
 | `hifish.social` | No |
 | `hifriends.info` | No |
+| `higgy.social` | No |
 | `high-low.ml` | No |
 | `high.cat` | No |
 | `high.lol` | No |
@@ -20896,6 +20898,7 @@ Here's a list of public Fediverse services.
 | `kyunkyun.moe` | No |
 | `kyushojitsu.ca` | Yes |
 | `kyzune.com` | Yes |
+| `kzfk.win` | Yes |
 | `kzhub.cc` | No |
 | `kzkr.xyz` | Yes |
 | `kzoo.to` | Yes |
@@ -25703,6 +25706,7 @@ Here's a list of public Fediverse services.
 | `monocursive.com` | No |
 | `monodes.com` | No |
 | `monogram.org` | Yes |
+| `monolith-rave.xyz` | No |
 | `monolith.social` | No |
 | `monomarchos.agency` | No |
 | `monotremata.xyz` | No |
@@ -26670,6 +26674,7 @@ Here's a list of public Fediverse services.
 | `mysportgallery.com` | No |
 | `mysrvr.org` | No |
 | `myss.li` | No |
+| `mystech.ink` | Yes |
 | `mysteryhouse.studio` | No |
 | `mysterytwins.net` | Yes |
 | `mystia.club` | No |
@@ -26827,6 +26832,7 @@ Here's a list of public Fediverse services.
 | `nakadashi.mobi` | No |
 | `nakadashi.rocks` | Yes |
 | `nakamoto.social` | Yes |
+| `nakano-suginami.click` | Yes |
 | `nakanod.net` | No |
 | `nakapol.com` | Yes |
 | `nakas.cafe` | Yes |
@@ -27593,6 +27599,7 @@ Here's a list of public Fediverse services.
 | `nicecrew.us` | No |
 | `nicehat.lol` | Yes |
 | `nicepeople.social` | No |
+| `niceview.club` | No |
 | `nicfab.eu` | No |
 | `nicfab.it` | No |
 | `nicheosala.xyz` | No |
@@ -27771,6 +27778,7 @@ Here's a list of public Fediverse services.
 | `ninopeters.de` | No |
 | `nintendojo.fr` | No |
 | `nintendult.xyz` | No |
+| `ninth-sekai.monster` | No |
 | `ninthgate.us` | No |
 | `nioncapul.net` | No |
 | `nioruzu.club` | Yes |
@@ -28888,6 +28896,7 @@ Here's a list of public Fediverse services.
 | `okadajp.org` | No |
 | `okaminet.xyz` | No |
 | `okapi.website` | No |
+| `okaprog.com` | No |
 | `okaris.de` | No |
 | `okashi.me` | Yes |
 | `okayu.jp` | Yes |
@@ -32301,6 +32310,7 @@ Here's a list of public Fediverse services.
 | `r-flash.eu` | No |
 | `r-kara.de` | No |
 | `r-o-o-t.net` | No |
+| `r-pe.net` | Yes |
 | `r-sauna.fi` | No |
 | `r-sky.jp` | No |
 | `r-tekne.net` | No |
@@ -34018,6 +34028,7 @@ Here's a list of public Fediverse services.
 | `rwx.social` | No |
 | `rx14.co.uk` | No |
 | `rxb.pl` | Yes |
+| `rxbrad.com` | Yes |
 | `rxc.gdn` | No |
 | `rxn.be` | No |
 | `rxt.social` | No |
@@ -45028,8 +45039,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,959 |
-| Normal | 33,026 |
+| Cloudflare | 11,966 |
+| Normal | 33,030 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
