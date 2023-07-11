@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Internet Connection Error](https://github.com/code-debug228/HostetskiGPT/issues/21)
 - [Update the PyPI CDN configuration to support TLS 1.3](https://github.com/pypi/warehouse/issues/14099)
 - [Upgrading to 0.31.0 break AWS S3 sink uploads to Cloudflare R2](https://github.com/vectordotdev/vector/issues/17927)
 - [Support long-running tasks with asynchronous polling](https://github.com/terminusdb/terminusdb/issues/1885)
