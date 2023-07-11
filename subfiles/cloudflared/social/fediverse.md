@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,854 |
-| social | 4,315 |
+| com | 6,855 |
+| social | 4,317 |
 | net | 3,494 |
-| org | 2,371 |
+| org | 2,372 |
 | de | 2,203 |
 
 
@@ -6754,6 +6754,7 @@ Here's a list of public Fediverse services.
 | `citizen4.eu` | No |
 | `citizengkar.com` | No |
 | `citizenry.social` | No |
+| `citizensgaming.com` | No |
 | `citringo.net` | No |
 | `citrouille.ch` | No |
 | `citrus.farm` | No |
@@ -8922,6 +8923,7 @@ Here's a list of public Fediverse services.
 | `deathbybandaid.net` | No |
 | `deathbycomputers.co.uk` | No |
 | `deathkitten.net` | No |
+| `deb.at` | No |
 | `debateclub.eu` | No |
 | `debbie-chan.space` | No |
 | `debenny.de` | No |
@@ -10317,6 +10319,7 @@ Here's a list of public Fediverse services.
 | `dscloud.mobi` | No |
 | `dscw.fr` | Yes |
 | `dshk.pro` | No |
+| `dshm.me` | No |
 | `dshr.org` | No |
 | `dsimon.com` | No |
 | `dsj-toot.com` | No |
@@ -15847,6 +15850,7 @@ Here's a list of public Fediverse services.
 | `happy-scooter.de` | Yes |
 | `happyband.es` | No |
 | `happybucket.social` | No |
+| `happyharry.org` | Yes |
 | `happyjesus.online` | No |
 | `happykraken.net` | Yes |
 | `happyorange.xyz` | Yes |
@@ -15981,6 +15985,7 @@ Here's a list of public Fediverse services.
 | `hawaii247.social` | No |
 | `hawaiiboy.me` | No |
 | `hawaiidiff.com` | No |
+| `hawco.ca` | No |
 | `hawk.life` | Yes |
 | `hawkes.cc` | Yes |
 | `hawkeyes.social` | No |
@@ -23052,6 +23057,7 @@ Here's a list of public Fediverse services.
 | `magilou.xyz` | Yes |
 | `magincia.cafe` | Yes |
 | `magitek-telescope.im` | Yes |
+| `magnant.co` | Yes |
 | `magnatranquillo.it` | No |
 | `magnetic-ink.dk` | No |
 | `magnier.io` | No |
@@ -24575,6 +24581,7 @@ Here's a list of public Fediverse services.
 | `mellem.space` | No |
 | `mellified.men` | No |
 | `mellitopia.org` | No |
+| `mello.moe` | No |
 | `mellow.town` | No |
 | `mellow.zone` | No |
 | `melmac.rocks` | No |
@@ -25419,6 +25426,7 @@ Here's a list of public Fediverse services.
 | `miwilc.com` | No |
 | `miwpayou0808.info` | Yes |
 | `mixamax.se` | No |
+| `mixed-reality.social` | No |
 | `mixedmedia.page` | Yes |
 | `mixin.love` | No |
 | `mixremix.cc` | No |
@@ -28311,6 +28319,7 @@ Here's a list of public Fediverse services.
 | `notodoesprogramacion.es` | No |
 | `notohiro.com` | Yes |
 | `notorious.gay` | No |
+| `notparticularly.social` | No |
 | `notpickard.com` | No |
 | `notr.app` | Yes |
 | `notreal.pw` | No |
@@ -31982,6 +31991,7 @@ Here's a list of public Fediverse services.
 | `pups.social` | Yes |
 | `pupsaturn.dog` | Yes |
 | `pupsparkle.nl` | Yes |
+| `pupsplus.fans` | No |
 | `pupu.moe` | Yes |
 | `pupy.cafe` | No |
 | `pure-isp.eu` | Yes |
@@ -35528,6 +35538,7 @@ Here's a list of public Fediverse services.
 | `shitposte.rs` | Yes |
 | `shitposted.today` | No |
 | `shitposter.club` | No |
+| `shitpostinc.business` | No |
 | `shitposting.army` | Yes |
 | `shitposting.fr` | No |
 | `shitposting.network` | Yes |
@@ -41467,6 +41478,7 @@ Here's a list of public Fediverse services.
 | `univdon.com` | No |
 | `univention.social` | No |
 | `universalstoryengine.com` | No |
+| `universe.cx` | Yes |
 | `universeodon.com` | Yes |
 | `universetoday.com` | Yes |
 | `universoalterno.es` | No |
@@ -45103,8 +45115,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,999 |
-| Normal | 33,061 |
+| Cloudflare | 12,002 |
+| Normal | 33,070 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
