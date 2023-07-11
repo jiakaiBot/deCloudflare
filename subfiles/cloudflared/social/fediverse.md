@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,852 |
+| com | 6,854 |
 | social | 4,315 |
-| net | 3,491 |
+| net | 3,494 |
 | org | 2,371 |
 | de | 2,203 |
 
@@ -9185,6 +9185,7 @@ Here's a list of public Fediverse services.
 | `depone.net` | No |
 | `depoze.xyz` | Yes |
 | `deppenkessel.de` | No |
+| `depra.net` | No |
 | `deprecastan.com` | No |
 | `depressed.bar` | No |
 | `deprix.nl` | Yes |
@@ -10783,6 +10784,7 @@ Here's a list of public Fediverse services.
 | `eeeeeeeee.eu` | No |
 | `eeeeeeeeeeeeeee.ee` | Yes |
 | `eegle.cloud` | No |
+| `eeic.io` | No |
 | `eena.me` | No |
 | `eenoog.org` | No |
 | `eepy.space` | No |
@@ -13504,6 +13506,7 @@ Here's a list of public Fediverse services.
 | `fribygda.no` | No |
 | `fricci.dev` | No |
 | `frichetten.com` | No |
+| `frick96.com` | No |
 | `frickalou.com` | No |
 | `fricklers.org` | No |
 | `frictionless.contact` | No |
@@ -15197,6 +15200,7 @@ Here's a list of public Fediverse services.
 | `gravitystorm.co.uk` | Yes |
 | `gravure.club` | No |
 | `gravyflex.ca` | Yes |
+| `grawlily.com` | Yes |
 | `gray.cafe` | No |
 | `gray.party` | No |
 | `graypar.se` | No |
@@ -18444,7 +18448,7 @@ Here's a list of public Fediverse services.
 | `jameskitt616.one` | No |
 | `jameslandrum.com` | No |
 | `jameslynch.dev` | No |
-| `jamesmwright.com` | No |
+| `jamesmwright.com` | Yes |
 | `jamesoff.net` | No |
 | `jamesp.org` | No |
 | `jamestechnotes.com` | No |
@@ -24956,6 +24960,7 @@ Here's a list of public Fediverse services.
 | `midchilda.com` | No |
 | `middangeard.ch` | No |
 | `midday.top` | Yes |
+| `middelered.world` | No |
 | `middleearth.fr` | No |
 | `middleearth.social` | No |
 | `midgard.pm` | No |
@@ -32339,6 +32344,7 @@ Here's a list of public Fediverse services.
 | `qwertqwefsday.eu` | No |
 | `qwerty.city` | No |
 | `qwerty.onl` | No |
+| `qwjyh.net` | Yes |
 | `qwq.dog` | Yes |
 | `qwq.mx` | Yes |
 | `qwq.ooo` | Yes |
@@ -38027,6 +38033,7 @@ Here's a list of public Fediverse services.
 | `syachiku.net` | No |
 | `syahu.com` | No |
 | `syakesaba.com` | No |
+| `syaku.me` | Yes |
 | `syamco.net` | No |
 | `syamimomo.cf` | No |
 | `syamutodon.xyz` | No |
@@ -42796,6 +42803,7 @@ Here's a list of public Fediverse services.
 | `weatherishappening.network` | No |
 | `weaviate.community` | No |
 | `web-dev.social` | No |
+| `web-kotobuki.net` | Yes |
 | `web-of-us.com` | No |
 | `web-optimierer.ch` | No |
 | `web0000.jp` | No |
@@ -45095,8 +45103,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,994 |
-| Normal | 33,058 |
+| Cloudflare | 11,999 |
+| Normal | 33,061 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
