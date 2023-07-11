@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Fix message sizes over 1mb](https://github.com/partykit/partykit/issues/162)
 - [Internet Connection Error](https://github.com/code-debug228/HostetskiGPT/issues/21)
 - [Update the PyPI CDN configuration to support TLS 1.3](https://github.com/pypi/warehouse/issues/14099)
 - [Upgrading to 0.31.0 break AWS S3 sink uploads to Cloudflare R2](https://github.com/vectordotdev/vector/issues/17927)
