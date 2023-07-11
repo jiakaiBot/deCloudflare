@@ -7221,7 +7221,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9738,7 +9738,7 @@ Here's a list of public Fediverse services.
 | `divita.eu` | No |
 | `divnull.com` | No |
 | `diwaniyah.social` | No |
-| `dix.asia` | No |
+| `dix.asia` | Yes |
 | `dixies.land` | No |
 | `diy.net.pl` | Yes |
 | `diya-mastodon.com` | No |
@@ -26960,6 +26960,7 @@ Here's a list of public Fediverse services.
 | `nathan.fun` | No |
 | `nathan.social` | No |
 | `nathanaelsilverman.com` | No |
+| `nathandyer.me` | Yes |
 | `nathanheffley.com` | No |
 | `nathanielknight.ca` | No |
 | `nathankunicki.com` | No |
@@ -31273,7 +31274,7 @@ Here's a list of public Fediverse services.
 | `ponderduck.cc` | Yes |
 | `pondr.nl` | No |
 | `pondzu.com` | No |
-| `pone.social` | No |
+| `pone.social` | Yes |
 | `ponies.im` | No |
 | `ponies.social` | No |
 | `ponpon.tk` | No |
@@ -42192,7 +42193,7 @@ Here's a list of public Fediverse services.
 | `vive.im` | No |
 | `vivere.uno` | Yes |
 | `vivi.moe` | No |
-| `vivianmaier.club` | Yes |
+| `vivianmaier.club` | No |
 | `vivid-rabbit.com` | No |
 | `viviers-fibre.net` | No |
 | `vivy.dev` | No |
@@ -45027,7 +45028,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,958 |
+| Cloudflare | 11,959 |
 | Normal | 33,026 |
 
 
