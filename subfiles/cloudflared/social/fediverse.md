@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,846 |
+| com | 6,847 |
 | social | 4,314 |
 | net | 3,490 |
-| org | 2,370 |
+| org | 2,371 |
 | de | 2,201 |
 
 
@@ -6167,7 +6167,7 @@ Here's a list of public Fediverse services.
 | `ceriz.fr` | No |
 | `cerritus.eu` | No |
 | `ceruleanstack.com` | No |
-| `cervidae.space` | No |
+| `cervidae.space` | Yes |
 | `cescobarresi.it` | No |
 | `cesiandalex.com` | Yes |
 | `cesium.one` | No |
@@ -10346,6 +10346,7 @@ Here's a list of public Fediverse services.
 | `dubnation.social` | Yes |
 | `dubost.name` | No |
 | `dubroy.com` | Yes |
+| `dubvee.org` | No |
 | `duc.gay` | No |
 | `ducamp.me` | No |
 | `duccadon.com` | No |
@@ -12731,7 +12732,7 @@ Here's a list of public Fediverse services.
 | `finsup.social` | No |
 | `fintech.eco` | No |
 | `finton.cc` | Yes |
-| `fintoot.space` | No |
+| `fintoot.space` | Yes |
 | `fintwit.world` | No |
 | `fionic.eu` | No |
 | `fionna.wtf` | No |
@@ -13154,7 +13155,7 @@ Here's a list of public Fediverse services.
 | `fossgang.org` | No |
 | `fosshost.com` | Yes |
 | `fossil.wang` | No |
-| `fossium.space` | No |
+| `fossium.space` | Yes |
 | `fosslife.org` | No |
 | `fosspri.de` | No |
 | `fosstodon.org` | Yes |
@@ -18758,6 +18759,7 @@ Here's a list of public Fediverse services.
 | `jgarr.net` | Yes |
 | `jgaskins.wtf` | No |
 | `jgc.org` | Yes |
+| `jgholistic.com` | No |
 | `jgilje.net` | No |
 | `jgregorymcverry.com` | No |
 | `jh.do` | No |
@@ -45068,8 +45070,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,982 |
-| Normal | 33,043 |
+| Cloudflare | 11,985 |
+| Normal | 33,042 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
