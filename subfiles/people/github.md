@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Received an unexpected response from the Automatic1111 Stable Diffusion server](https://github.com/benrugg/AI-Render/issues/122)
 - [Fix message sizes over 1mb](https://github.com/partykit/partykit/issues/162)
 - [Internet Connection Error](https://github.com/code-debug228/HostetskiGPT/issues/21)
 - [Update the PyPI CDN configuration to support TLS 1.3](https://github.com/pypi/warehouse/issues/14099)
