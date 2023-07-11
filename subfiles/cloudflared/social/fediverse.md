@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,314 |
 | net | 3,490 |
 | org | 2,371 |
-| de | 2,201 |
+| de | 2,202 |
 
 
 - Mastodon, Pleroma, etc
@@ -23758,6 +23758,7 @@ Here's a list of public Fediverse services.
 | `mastodon.country` | No |
 | `mastodon.cr` | No |
 | `mastodon.cx` | Yes |
+| `mastodon.de` | Yes |
 | `mastodon.desi` | No |
 | `mastodon.design` | No |
 | `mastodon.digital` | No |
@@ -45072,7 +45073,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 11,986 |
+| Cloudflare | 11,987 |
 | Normal | 33,043 |
 
 
