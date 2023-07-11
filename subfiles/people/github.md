@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Captchas not working](https://github.com/FlareSolverr/FlareSolverr/issues/811)
 - [OpenAI insufficient_quota errors are mistaken for rate limits and repeatedly retried](https://github.com/hwchase17/langchainjs/issues/1929)
 - [Received an unexpected response from the Automatic1111 Stable Diffusion server](https://github.com/benrugg/AI-Render/issues/122)
 - [Fix message sizes over 1mb](https://github.com/partykit/partykit/issues/162)
