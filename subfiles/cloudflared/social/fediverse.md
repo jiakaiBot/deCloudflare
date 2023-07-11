@@ -1546,6 +1546,7 @@ Here's a list of public Fediverse services.
 | `alfazema.club` | No |
 | `alfebelow.com` | No |
 | `alfheim.ca` | No |
+| `alfi.casa` | No |
 | `alfoeldi.social` | No |
 | `alfter.us` | No |
 | `algarve-pur.de` | No |
@@ -14766,6 +14767,7 @@ Here's a list of public Fediverse services.
 | `glennfitzpatrick.com` | No |
 | `glennon.online` | Yes |
 | `glenparva.com` | No |
+| `glenplonk.fr` | No |
 | `glenux.net` | No |
 | `glibre.org` | No |
 | `glidden.life` | No |
@@ -45116,7 +45118,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,002 |
-| Normal | 33,070 |
+| Normal | 33,072 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
