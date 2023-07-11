@@ -35897,6 +35897,7 @@ Here's a list of public Fediverse services.
 | `skilledtests.com` | No |
 | `skillissue.dk` | No |
 | `skilltoy.site` | No |
+| `skima.jp` | No |
 | `skinheads.co` | No |
 | `skinheads.eu` | Yes |
 | `skinheads.io` | Yes |
@@ -45040,7 +45041,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 11,966 |
-| Normal | 33,030 |
+| Normal | 33,031 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
