@@ -596,6 +596,7 @@ Here's a list of breached sites.
 | Vedantu | 686,899 | No |
 | VerificationsIO (Verifications.io) | 763,117,241 | No |
 | Verified | 16,919 | No |
+| Vermillion | 8,106 | Yes |
 | Vianet | 94,353 | No |
 | VictoryPhones (Victory Phones) | 166,046 | No |
 | ViewFines | 777,649 | No |
@@ -673,7 +674,7 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 365 | 3,930,268,276 |
+| Cloudflare | 366 | 3,930,276,382 |
 | Normal | 287 | 4,981,349,743 |
 
 
