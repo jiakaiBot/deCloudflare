@@ -1330,6 +1330,7 @@ Or is this merely a case of simple modesty?
 | Nicholas Allen | Employee |  |
 | Nicholas Comer | Systems Engineer |  |
 | Nicholas Platais | Business Development |  |
+| Nicholas Skehin | Employee | |
 | Nick Blazier | Employee |  |
 | Nick Downie | Employee |  |
 | Nick Gongorek | Channel Sales Leader |  |
