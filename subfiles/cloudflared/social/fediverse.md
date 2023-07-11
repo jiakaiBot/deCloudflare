@@ -4889,6 +4889,7 @@ Here's a list of public Fediverse services.
 | `bookwyrm.de` | No |
 | `bookwyrm.social` | No |
 | `bookwyrm.tech` | No |
+| `boom.army` | Yes |
 | `boombeach.soy` | No |
 | `boomer.casino` | Yes |
 | `boon.asia` | Yes |
@@ -5839,7 +5840,7 @@ Here's a list of public Fediverse services.
 | `car-mastodon.link` | No |
 | `carabunga.net` | No |
 | `caraldi.com` | No |
-| `caramelbeard.social` | No |
+| `caramelbeard.social` | Yes |
 | `carbonatic.com` | No |
 | `carboncopy.xyz` | No |
 | `carbonnotes.zone` | No |
@@ -45117,8 +45118,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,002 |
-| Normal | 33,072 |
+| Cloudflare | 12,004 |
+| Normal | 33,071 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
