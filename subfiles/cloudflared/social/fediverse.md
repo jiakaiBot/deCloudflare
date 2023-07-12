@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,862 |
+| com | 6,863 |
 | social | 4,319 |
 | net | 3,496 |
 | org | 2,372 |
@@ -6041,6 +6041,7 @@ Here's a list of public Fediverse services.
 | `catscatscats.party` | No |
 | `catskill.social` | No |
 | `catspace.xyz` | No |
+| `catsweat.com` | No |
 | `catswords.net` | Yes |
 | `catswords.social` | Yes |
 | `catswords.watch` | Yes |
@@ -18559,7 +18560,7 @@ Here's a list of public Fediverse services.
 | `jasonjgw.net` | No |
 | `jasonkotenko.com` | No |
 | `jasonlefkowitz.net` | No |
-| `jasono.co` | No |
+| `jasono.co` | Yes |
 | `jasonrbriggs.com` | Yes |
 | `jasonrobinson.me` | No |
 | `jasonrouet.com` | No |
@@ -21519,6 +21520,7 @@ Here's a list of public Fediverse services.
 | `lemming.quest` | No |
 | `lemmings.me` | No |
 | `lemmings.online` | Yes |
+| `lemmings.world` | No |
 | `lemmit.online` | Yes |
 | `lemmit.xyz` | Yes |
 | `lemmony.click` | Yes |
@@ -40829,6 +40831,7 @@ Here's a list of public Fediverse services.
 | `tsuraine.net` | No |
 | `tsurapoyo.com` | No |
 | `tsuruga.net` | No |
+| `tsyesika.se` | No |
 | `tta.wtf` | Yes |
 | `ttanimichi.com` | No |
 | `tteggel.org` | No |
@@ -45151,8 +45154,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,019 |
-| Normal | 33,089 |
+| Cloudflare | 12,020 |
+| Normal | 33,091 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
