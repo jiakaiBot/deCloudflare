@@ -8947,6 +8947,7 @@ Here's a list of public Fediverse services.
 | `debenny.de` | No |
 | `deberelene.com` | Yes |
 | `deberon.com` | No |
+| `debian.fyi` | No |
 | `debian.net` | No |
 | `debian.social` | No |
 | `debianlinux.de` | No |
@@ -45187,7 +45188,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,036 |
-| Normal | 33,107 |
+| Normal | 33,108 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
