@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,858 |
-| social | 4,317 |
+| social | 4,318 |
 | net | 3,494 |
 | org | 2,372 |
 | de | 2,203 |
@@ -7235,7 +7235,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -14249,6 +14249,7 @@ Here's a list of public Fediverse services.
 | `gay.mba` | No |
 | `gaybaby.club` | No |
 | `gaybdsm.group` | No |
+| `gayboyz.space` | No |
 | `gaycatgirl.sex` | No |
 | `gaychina.com` | Yes |
 | `gaycity.lgbt` | No |
@@ -42639,6 +42640,7 @@ Here's a list of public Fediverse services.
 | `wakkerisme.nl` | No |
 | `wakoka.com` | No |
 | `wakuwaku.boo` | Yes |
+| `wakuwaku.social` | No |
 | `wakuwakup.net` | Yes |
 | `wala2x.de` | Yes |
 | `walamana.de` | Yes |
@@ -45127,8 +45129,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,006 |
-| Normal | 33,078 |
+| Cloudflare | 12,007 |
+| Normal | 33,079 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
