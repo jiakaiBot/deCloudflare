@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,858 |
+| com | 6,859 |
 | social | 4,318 |
 | net | 3,494 |
 | org | 2,372 |
@@ -28986,6 +28986,7 @@ Here's a list of public Fediverse services.
 | `oklomsy.com` | Yes |
 | `oknrw.de` | No |
 | `oknwdn.com` | No |
+| `okometyan.com` | No |
 | `okoyono.de` | No |
 | `okpeace.org` | No |
 | `oksocial.net` | No |
@@ -32797,6 +32798,7 @@ Here's a list of public Fediverse services.
 | `rawles.io` | No |
 | `rawles.net` | No |
 | `rawr-xd.club` | No |
+| `rawr.chat` | Yes |
 | `rawr.ink` | Yes |
 | `rawr.space` | Yes |
 | `rawr.tf` | No |
@@ -38323,7 +38325,7 @@ Here's a list of public Fediverse services.
 | `takpika.jp` | Yes |
 | `taks.garden` | No |
 | `takuann.net` | Yes |
-| `takuji.org` | No |
+| `takuji.org` | Yes |
 | `takulog.info` | Yes |
 | `takumi.fun` | No |
 | `takumifan.club` | No |
@@ -41683,7 +41685,7 @@ Here's a list of public Fediverse services.
 | `uruguayos.social` | No |
 | `uruk-hai.eu` | Yes |
 | `urusai.social` | No |
-| `urvogel.club` | No |
+| `urvogel.club` | Yes |
 | `uryokurin.net` | Yes |
 | `us.dev` | No |
 | `us.to` | Yes |
@@ -44840,7 +44842,7 @@ Here's a list of public Fediverse services.
 | `zerocial.com` | No |
 | `zerodayfri.day` | Yes |
 | `zeroes.ca` | Yes |
-| `zeroflag.net` | No |
+| `zeroflag.net` | Yes |
 | `zerohack.xyz` | No |
 | `zerojanvier.fr` | No |
 | `zerojay.com` | No |
@@ -45129,8 +45131,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,007 |
-| Normal | 33,079 |
+| Cloudflare | 12,011 |
+| Normal | 33,077 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
