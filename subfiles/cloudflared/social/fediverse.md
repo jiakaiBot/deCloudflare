@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,857 |
+| com | 6,858 |
 | social | 4,317 |
 | net | 3,494 |
 | org | 2,372 |
@@ -10297,6 +10297,7 @@ Here's a list of public Fediverse services.
 | `drumbum42.com` | No |
 | `drumcorps.info` | No |
 | `drumcorps.social` | No |
+| `drummish.com` | Yes |
 | `drumstodon.net` | No |
 | `drunklyceum.club` | Yes |
 | `drunkposter.club` | No |
@@ -20824,6 +20825,7 @@ Here's a list of public Fediverse services.
 | `kurd.org` | Yes |
 | `kurenai.life` | No |
 | `kureshisen.com` | Yes |
+| `kuretoshi.work` | Yes |
 | `kurif.net` | No |
 | `kuriouslapin.com` | No |
 | `kuriuzu.net` | Yes |
@@ -21182,6 +21184,7 @@ Here's a list of public Fediverse services.
 | `lapuacase.info` | Yes |
 | `lapunta.org` | No |
 | `lapy.link` | Yes |
+| `laramy.black` | No |
 | `larand.net` | No |
 | `laravel.gg` | No |
 | `lardbucket.org` | No |
@@ -37051,6 +37054,7 @@ Here's a list of public Fediverse services.
 | `spv.sh` | Yes |
 | `spxtr.net` | No |
 | `spydar007.com` | No |
+| `spygadget.club` | Yes |
 | `sqapy.com` | No |
 | `sqapy.org` | No |
 | `sqdsh.top` | Yes |
@@ -37197,6 +37201,7 @@ Here's a list of public Fediverse services.
 | `star-one.org.uk` | No |
 | `star-relay.net` | No |
 | `starapps-network.com` | No |
+| `starbase1.earth` | No |
 | `starbase80.wtf` | No |
 | `starbreaker.org` | No |
 | `starcitizen.name` | No |
@@ -45122,8 +45127,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,003 |
-| Normal | 33,076 |
+| Cloudflare | 12,006 |
+| Normal | 33,078 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
