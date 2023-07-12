@@ -5383,6 +5383,7 @@ Do not create new issue or we will close it as duplicate.
 | [Jio78386208@twitter](https://twitter.com/Jio78386208/status/1387113117503549442) | advertise |
 | [Jiraz@twitter](https://twitter.com/Jiraz/status/1426445363846672386) | advertise |
 | [Jirou34162843@twitter](https://twitter.com/Jirou34162843/status/1388212806911025154) | advertise |
+| [JisanAshiful@twitter](https://twitter.com/JisanAshiful/status/1679134985188515840) | advertise |
 | [Jishnurj6@twitter](https://twitter.com/Jishnurj6/status/1406772972048687107) | advertise |
 | [Jitendr66449745@twitter](https://twitter.com/Jitendr66449745/status/1397383026091249671) | advertise |
 | [Jitendr73183804@twitter](https://twitter.com/Jitendr73183804/status/1398830048774221826) | advertise |
