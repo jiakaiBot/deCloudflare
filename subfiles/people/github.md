@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [2FA Hardware keys cannot be added on macOS](https://github.com/ovh/manager/issues/9632)
 - [GET 401 - Unauthorized API key access.](https://github.com/SillyTavern/SillyTavern-extras/issues/79)
 - [Captchas not working](https://github.com/FlareSolverr/FlareSolverr/issues/811)
 - [OpenAI insufficient_quota errors are mistaken for rate limits and repeatedly retried](https://github.com/hwchase17/langchainjs/issues/1929)
