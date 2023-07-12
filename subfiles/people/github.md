@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Amend FAQ: Possible 403 (Forbidden) when using Cloudflare (and possibly other CDN's)](https://github.com/MarkMpn/AutotuneWeb/issues/47)
 - [Error de URL](https://github.com/darkxex/RipJKAnimeNX/issues/114)
 - [Using tailwindcss theme() in style lang="postcss" in visual studio code throws svelte(css-syntax-error), but everything works](https://github.com/sveltejs/language-tools/issues/2094)
 - [CloudFlare Intermittent status code errors](https://github.com/hinoshiba/news/issues/1147)
