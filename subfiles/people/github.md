@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Intermittent status code errors](https://github.com/hinoshiba/news/issues/1147)
+- [CloudFlare Intermittent status code errors](https://github.com/MatBenfield/news/issues/16385)
 - [2FA Hardware keys cannot be added on macOS](https://github.com/ovh/manager/issues/9632)
 - [GET 401 - Unauthorized API key access.](https://github.com/SillyTavern/SillyTavern-extras/issues/79)
 - [Captchas not working](https://github.com/FlareSolverr/FlareSolverr/issues/811)
