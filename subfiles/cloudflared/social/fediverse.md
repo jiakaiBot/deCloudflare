@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,861 |
+| com | 6,862 |
 | social | 4,319 |
-| net | 3,495 |
+| net | 3,496 |
 | org | 2,372 |
 | de | 2,203 |
 
@@ -667,6 +667,7 @@ Here's a list of public Fediverse services.
 | `80chars.io` | No |
 | `80o.xyz` | No |
 | `80percent.social` | Yes |
+| `818.gallery` | No |
 | `819.blue` | No |
 | `829.hu` | Yes |
 | `82procent.nl` | No |
@@ -3383,6 +3384,7 @@ Here's a list of public Fediverse services.
 | `bad-radio.social` | No |
 | `bad.mn` | No |
 | `bad.network` | No |
+| `bad.news` | Yes |
 | `bad2000.fun` | No |
 | `badabadoc.online` | No |
 | `badabam.net` | No |
@@ -7956,6 +7958,7 @@ Here's a list of public Fediverse services.
 | `crystal.fish` | No |
 | `crystallake.camp` | No |
 | `crystals.rest` | No |
+| `crystaltokyo.love` | No |
 | `crystaltusk.com` | No |
 | `crystalyx.net` | Yes |
 | `cs.social` | Yes |
@@ -9805,6 +9808,7 @@ Here's a list of public Fediverse services.
 | `dltq.org` | No |
 | `dlun.ch` | Yes |
 | `dlyang.tk` | Yes |
+| `dmaus.name` | No |
 | `dmca.club` | No |
 | `dmcblue.com` | No |
 | `dmgd.monster` | Yes |
@@ -11744,6 +11748,7 @@ Here's a list of public Fediverse services.
 | `exdc.net` | No |
 | `exdeck.site` | Yes |
 | `execbase.net` | No |
+| `exekey.net` | Yes |
 | `exercise.cafe` | No |
 | `exerra.xyz` | Yes |
 | `exhibitionstage.com` | Yes |
@@ -14317,6 +14322,7 @@ Here's a list of public Fediverse services.
 | `gdsocial.uk` | No |
 | `gdt.bzh` | No |
 | `gdyr.co` | Yes |
+| `gdzietakpieknie.party` | No |
 | `gealdor.space` | No |
 | `geanix.com` | No |
 | `gearfamily.net` | No |
@@ -26510,6 +26516,7 @@ Here's a list of public Fediverse services.
 | `musingsofanaspie.com` | No |
 | `musingsofaswitch.com` | No |
 | `musiq.fan` | Yes |
+| `musk.sucks` | No |
 | `muskless.social` | No |
 | `muskodon.ml` | No |
 | `muskodon.social` | No |
@@ -33329,6 +33336,7 @@ Here's a list of public Fediverse services.
 | `revstance.network` | No |
 | `revue-farouest.fr` | No |
 | `revue.icu` | No |
+| `revunix.com` | Yes |
 | `revvy.de` | Yes |
 | `rewa.mobi` | No |
 | `rewrite.in.rs` | Yes |
@@ -38331,6 +38339,7 @@ Here's a list of public Fediverse services.
 | `takingalook.dev` | No |
 | `takiverse.tk` | No |
 | `tako774.net` | Yes |
+| `takoyaki.xyz` | No |
 | `takpika.jp` | Yes |
 | `taks.garden` | No |
 | `takuann.net` | Yes |
@@ -42091,6 +42100,7 @@ Here's a list of public Fediverse services.
 | `verysleepy.dog` | No |
 | `verze.social` | No |
 | `vesati.social` | No |
+| `vesdia.eu` | No |
 | `vestimento.fashion` | No |
 | `veterinary.education` | No |
 | `vettipechu.xyz` | No |
@@ -42599,6 +42609,7 @@ Here's a list of public Fediverse services.
 | `wackwack.net` | No |
 | `wacky.town` | Yes |
 | `wackyneighbor.com` | No |
+| `wackywolf.xyz` | Yes |
 | `wadjnetech.industries` | Yes |
 | `wadoryu.social` | No |
 | `wadza.fr` | No |
@@ -45140,8 +45151,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,015 |
-| Normal | 33,082 |
+| Cloudflare | 12,019 |
+| Normal | 33,089 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
