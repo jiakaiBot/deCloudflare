@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error de URL](https://github.com/darkxex/RipJKAnimeNX/issues/114)
+- [Using tailwindcss theme() in style lang="postcss" in visual studio code throws svelte(css-syntax-error), but everything works](https://github.com/sveltejs/language-tools/issues/2094)
 - [CloudFlare Intermittent status code errors](https://github.com/hinoshiba/news/issues/1147)
 - [CloudFlare Intermittent status code errors](https://github.com/MatBenfield/news/issues/16385)
 - [2FA Hardware keys cannot be added on macOS](https://github.com/ovh/manager/issues/9632)
