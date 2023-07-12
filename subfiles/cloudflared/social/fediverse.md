@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,855 |
+| com | 6,857 |
 | social | 4,317 |
 | net | 3,494 |
 | org | 2,372 |
@@ -1326,7 +1326,7 @@ Here's a list of public Fediverse services.
 | `airstrip1.uk` | No |
 | `airwaves.social` | Yes |
 | `airwhale.com` | No |
-| `airyz.xyz` | No |
+| `airyz.xyz` | Yes |
 | `aisler.social` | Yes |
 | `aistear.net` | No |
 | `ait.place` | Yes |
@@ -7095,7 +7095,7 @@ Here's a list of public Fediverse services.
 | `codesections.com` | No |
 | `codesink.io` | Yes |
 | `codesocial.org` | No |
-| `codespace.gay` | Yes |
+| `codespace.gay` | No |
 | `codespawn.space` | Yes |
 | `codestaff.io` | No |
 | `codethat.sucks` | No |
@@ -7235,7 +7235,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9161,6 +9161,7 @@ Here's a list of public Fediverse services.
 | `denk-nach-mcfly.de` | No |
 | `denkbrettl.org` | No |
 | `denkfabrikblog.de` | No |
+| `denmanrooke.com` | No |
 | `dennis.gg` | Yes |
 | `dennisforbes.ca` | Yes |
 | `deno.dev` | No |
@@ -19652,6 +19653,7 @@ Here's a list of public Fediverse services.
 | `kashayokai.com` | Yes |
 | `kashishokunin.com` | No |
 | `kashiwadon.net` | No |
+| `kashursido.com` | Yes |
 | `kaskadee.eu` | Yes |
 | `kaskjer.space` | No |
 | `kasma.cyou` | No |
@@ -20370,7 +20372,7 @@ Here's a list of public Fediverse services.
 | `knowscore.social` | No |
 | `knowsima.dog` | Yes |
 | `knoxodon.com` | No |
-| `knoyism.net` | No |
+| `knoyism.net` | Yes |
 | `knsc.net` | No |
 | `knse.net` | No |
 | `knthost.com` | No |
@@ -20569,7 +20571,7 @@ Here's a list of public Fediverse services.
 | `kormi.hu` | No |
 | `korosuke.xyz` | Yes |
 | `korot.ru` | No |
-| `korrekte.party` | Yes |
+| `korrekte.party` | No |
 | `korrent.city` | Yes |
 | `korrigan.link` | No |
 | `korrigan.tech` | Yes |
@@ -20948,6 +20950,7 @@ Here's a list of public Fediverse services.
 | `l00p.org` | No |
 | `l09.fr` | No |
 | `l0g.is` | No |
+| `l0l.city` | No |
 | `l0nax.org` | Yes |
 | `l0v.es` | Yes |
 | `l1f.de` | No |
@@ -24501,6 +24504,7 @@ Here's a list of public Fediverse services.
 | `meekchopp.es` | No |
 | `meemu.org` | Yes |
 | `meenzen.net` | Yes |
+| `meep.tech` | No |
 | `meeple.social` | No |
 | `meeps.dk` | No |
 | `meerjungfrauengrotte.de` | No |
@@ -32175,7 +32179,7 @@ Here's a list of public Fediverse services.
 | `qth.social` | Yes |
 | `qthry.net` | No |
 | `qtmlabs.xyz` | No |
-| `qtube.xyz` | Yes |
+| `qtube.xyz` | No |
 | `qu1x.one` | No |
 | `qua.name` | No |
 | `quaa.net` | No |
@@ -45118,8 +45122,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,004 |
-| Normal | 33,071 |
+| Cloudflare | 12,003 |
+| Normal | 33,076 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
