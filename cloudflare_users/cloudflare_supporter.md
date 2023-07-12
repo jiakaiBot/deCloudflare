@@ -877,6 +877,7 @@ Do not create new issue or we will close it as duplicate.
 | [anilyeni@twitter](https://twitter.com/anilyeni/status/1471556509691789312) | advertise |
 | [animalfromspace@twitter](https://twitter.com/animalfromspace/status/1432007469442772996) | advertise |
 | [AnimeAM65466760@twitter](https://twitter.com/AnimeAM65466760/status/1404816257203929088) | advertise |
+| [AnimeAn44635583@twitter](https://twitter.com/AnimeAn44635583/status/1679163597778198528) | advertise |
 | [Animegenixplays@twitter](https://twitter.com/Animegenixplays/status/1527492013649559552) | advertise |
 | [animeindy_com@twitter](https://twitter.com/animeindy_com/status/1391468430616797187) | advertise |
 | [Anime_Weeb_360@twitter](https://twitter.com/Anime_Weeb_360/status/1577886644065247233) | advertise |
@@ -2581,6 +2582,7 @@ Do not create new issue or we will close it as duplicate.
 | [dAniO500gucci50@twitter](https://twitter.com/dAniO500gucci50/status/1392152995455021061) | advertise |
 | [Danish111930617@twitter](https://twitter.com/Danish111930617/status/1560183361636683776) | advertise |
 | [danishfaizal20@twitter](https://twitter.com/danishfaizal20/status/1567192300438302720) | advertise |
+| [DanishK38071094@twitter](https://twitter.com/DanishK38071094/status/1679197767661654016) | advertise |
 | [DankCheeseMemes@twitter](https://twitter.com/DankCheeseMemes/status/1622991806026727424) | advertise |
 | [dannwaneri@twitter](https://twitter.com/dannwaneri/status/1627759174967873539) | advertise |
 | [DannyEs75974205@twitter](https://twitter.com/DannyEs75974205/status/1637654047749550080) | advertise |
@@ -5905,6 +5907,7 @@ Do not create new issue or we will close it as duplicate.
 | [KhanhDi34331628@twitter](https://twitter.com/KhanhDi34331628/status/1480798001580756993) | advertise |
 | [Khanhho56155495@twitter](https://twitter.com/Khanhho56155495/status/1619595578505310209) | advertise |
 | [KhanhKLL@twitter](https://twitter.com/KhanhKLL/status/1552116669967106048) | advertise |
+| [khanhph47188511@twitter](https://twitter.com/khanhph47188511/status/1679199014246547456) | advertise |
 | [KhanhQu29500186@twitter](https://twitter.com/KhanhQu29500186/status/1552998702247452672) | advertise |
 | [khanlar8@twitter](https://twitter.com/khanlar8/status/1396061782540656641) | advertise |
 | [khanpro1903@twitter](https://twitter.com/khanpro1903/status/1389267563633283073) | advertise |
@@ -13631,6 +13634,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZarNiPhyoe2@twitter](https://twitter.com/ZarNiPhyoe2/status/1391640866578583560) | advertise |
 | [zatocent@twitter](https://twitter.com/zatocent/status/1383459945513816074) | advertise |
 | [zat_thaw@twitter](https://twitter.com/zat_thaw/status/1401579973123530755) | advertise |
+| [zaw01109694@twitter](https://twitter.com/zaw01109694/status/1679189595966279682) | advertise |
 | [ZawAung55496010@twitter](https://twitter.com/ZawAung55496010/status/1390250315799154694) | advertise |
 | [zawgyi90@twitter](https://twitter.com/zawgyi90/status/1391333567246913537) | advertise |
 | [ZawHeinHtet12@twitter](https://twitter.com/ZawHeinHtet12/status/1391939763179905027) | advertise |
