@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,863 |
-| social | 4,319 |
-| net | 3,496 |
+| com | 6,864 |
+| social | 4,321 |
+| net | 3,498 |
 | org | 2,372 |
 | de | 2,203 |
 
@@ -1974,6 +1974,7 @@ Here's a list of public Fediverse services.
 | `andieadorable.gay` | Yes |
 | `andinfinity.de` | No |
 | `andlang.me` | No |
+| `andma.la` | No |
 | `andoria.social` | Yes |
 | `andoria.space` | No |
 | `andr3.net` | No |
@@ -2532,6 +2533,7 @@ Here's a list of public Fediverse services.
 | `ariste.info` | No |
 | `arisu.fr` | No |
 | `ariswanto.web.id` | Yes |
+| `arite.net` | Yes |
 | `arith.jp` | No |
 | `ariustech.com` | No |
 | `arize.social` | Yes |
@@ -4161,6 +4163,7 @@ Here's a list of public Fediverse services.
 | `biglittle.space` | No |
 | `bigmastodon.com` | Yes |
 | `bignum.org` | No |
+| `bignutty.xyz` | Yes |
 | `bigowo.digital` | No |
 | `bigpandatech.com` | No |
 | `bigpenis.life` | No |
@@ -5020,6 +5023,7 @@ Here's a list of public Fediverse services.
 | `bow.st` | No |
 | `bowden.social` | No |
 | `bowefrankema.nl` | Yes |
+| `bowldip.club` | No |
 | `bowles.social` | No |
 | `bowlofpetunias.net` | No |
 | `box.sh` | Yes |
@@ -7808,6 +7812,7 @@ Here's a list of public Fediverse services.
 | `criminallycute.fi` | No |
 | `criminallycute.stream` | No |
 | `crimp.social` | No |
+| `crimsh.com` | No |
 | `crimsonfae.net` | No |
 | `crimsson.com` | No |
 | `cringe.cafe` | No |
@@ -12859,6 +12864,7 @@ Here's a list of public Fediverse services.
 | `flal.net` | No |
 | `flanigan.engineering` | Yes |
 | `flanintheface.com` | No |
+| `flark.me` | Yes |
 | `flashfic.stream` | No |
 | `flashist.art` | No |
 | `flashist.vip` | Yes |
@@ -13986,6 +13992,7 @@ Here's a list of public Fediverse services.
 | `fyreblock.com` | No |
 | `fyrf.li` | No |
 | `fyrfli.live` | Yes |
+| `fyrfli.social` | No |
 | `fyyd.de` | No |
 | `fzmn.blog` | Yes |
 | `fzry.us` | No |
@@ -14825,6 +14832,7 @@ Here's a list of public Fediverse services.
 | `gloc.al` | Yes |
 | `glod.org` | Yes |
 | `glomzubuk.fr` | No |
+| `gloom.nexus` | No |
 | `gloomspite.net` | No |
 | `gloomypixels.space` | No |
 | `gloon.jp` | No |
@@ -20209,6 +20217,7 @@ Here's a list of public Fediverse services.
 | `kisskori.eu` | No |
 | `kisslolis.moe` | Yes |
 | `kissyourhomies.com` | No |
+| `kistler.social` | No |
 | `kitadon.com` | No |
 | `kitahina.co` | Yes |
 | `kitaitimakoto.net` | Yes |
@@ -28878,6 +28887,7 @@ Here's a list of public Fediverse services.
 | `offcorp.ca` | No |
 | `offenes.tv` | No |
 | `offerman.com` | No |
+| `offf.online` | No |
 | `official-sounding.com` | No |
 | `official.community` | No |
 | `officially.social` | Yes |
@@ -29140,6 +29150,7 @@ Here's a list of public Fediverse services.
 | `onemanandhisblog.com` | Yes |
 | `onemorepage.blog` | No |
 | `onemorestop.photo` | No |
+| `onenerdarmy.net` | No |
 | `onepointzero.com` | Yes |
 | `onerescue.org` | No |
 | `onesteprevolution.com` | No |
@@ -32090,6 +32101,7 @@ Here's a list of public Fediverse services.
 | `pxlfd.photo` | Yes |
 | `pxlfd.plus` | Yes |
 | `pxlfed.de` | No |
+| `pxlfed.nl` | No |
 | `pxlmo.com` | No |
 | `pxlmo.net` | No |
 | `pycodon.fr` | No |
@@ -45154,8 +45166,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,020 |
-| Normal | 33,091 |
+| Cloudflare | 12,023 |
+| Normal | 33,100 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
