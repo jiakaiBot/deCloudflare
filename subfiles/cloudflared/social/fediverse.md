@@ -10015,7 +10015,7 @@ Here's a list of public Fediverse services.
 | `donnerstag.tk` | No |
 | `donniewest.com` | Yes |
 | `donnydavis.us` | No |
-| `donokoanoko.jp` | No |
+| `donokoanoko.jp` | Yes |
 | `donotban.com` | No |
 | `donotsearch.xyz` | No |
 | `donotsta.re` | Yes |
@@ -35901,6 +35901,7 @@ Here's a list of public Fediverse services.
 | `sinclear.de` | No |
 | `sincurity.com` | No |
 | `sindastra.de` | Yes |
+| `sindelka.nl` | Yes |
 | `sindicato.social` | No |
 | `sindominio.net` | No |
 | `sineware.ca` | No |
@@ -45187,8 +45188,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,036 |
-| Normal | 33,108 |
+| Cloudflare | 12,038 |
+| Normal | 33,107 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
