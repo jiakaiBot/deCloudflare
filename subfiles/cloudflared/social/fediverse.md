@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,859 |
-| social | 4,318 |
-| net | 3,494 |
+| com | 6,861 |
+| social | 4,319 |
+| net | 3,495 |
 | org | 2,372 |
 | de | 2,203 |
 
@@ -5040,6 +5040,7 @@ Here's a list of public Fediverse services.
 | `bozgor.org` | Yes |
 | `bozohub.com` | No |
 | `bozolord.ml` | Yes |
+| `bp99.eu` | No |
 | `bpc.wtf` | No |
 | `bpconsulting.my` | No |
 | `bpd.monster` | Yes |
@@ -6325,6 +6326,7 @@ Here's a list of public Fediverse services.
 | `chasem.dev` | Yes |
 | `chasingdings.com` | No |
 | `chasingrabbbits.xyz` | No |
+| `chaskey.net` | Yes |
 | `chasmcity.net` | No |
 | `chasoba.net` | Yes |
 | `chaster.app` | Yes |
@@ -14588,6 +14590,7 @@ Here's a list of public Fediverse services.
 | `ghibah.space` | No |
 | `ghidragoons.com` | Yes |
 | `ghis94.ovh` | No |
+| `ghordano.com` | No |
 | `ghosh.pro` | Yes |
 | `ghost.cafe` | No |
 | `ghost.supplies` | No |
@@ -15507,6 +15510,7 @@ Here's a list of public Fediverse services.
 | `gunnar.se` | Yes |
 | `gunter.de` | No |
 | `gunters.org` | No |
+| `gunters.social` | Yes |
 | `gunzfox.tk` | No |
 | `gup.pe` | No |
 | `guppo.nl` | No |
@@ -22569,6 +22573,7 @@ Here's a list of public Fediverse services.
 | `lovesick.social` | No |
 | `lovethe.wang` | No |
 | `lovetux.net` | No |
+| `lovewillsave.us` | No |
 | `loveyourdemons.games` | No |
 | `lovingcounty.cafe` | No |
 | `lovingexpressions.net` | No |
@@ -24286,6 +24291,7 @@ Here's a list of public Fediverse services.
 | `mawoka.eu` | Yes |
 | `mawsnpaws.live` | Yes |
 | `max-fun.de` | No |
+| `max-p.me` | Yes |
 | `max.town` | Yes |
 | `maxdec.fr` | Yes |
 | `maxim.com` | Yes |
@@ -31583,6 +31589,7 @@ Here's a list of public Fediverse services.
 | `praveen.org.uk` | No |
 | `pravic.xyz` | Yes |
 | `praxis-viola-freitag.at` | No |
+| `praxis.nyc` | No |
 | `praxis.red` | Yes |
 | `praxis.su` | Yes |
 | `prayerforwords.com` | No |
@@ -34299,7 +34306,7 @@ Here's a list of public Fediverse services.
 | `saitama-stdn.com` | No |
 | `saitama.one` | Yes |
 | `saiyajin.space` | No |
-| `sakaba.space` | No |
+| `sakaba.space` | Yes |
 | `sakaki333.com` | No |
 | `sakamichi.fun` | Yes |
 | `sakamoto.gq` | No |
@@ -35039,6 +35046,7 @@ Here's a list of public Fediverse services.
 | `secluded.site` | No |
 | `secnd.me` | No |
 | `secondjarl.com` | Yes |
+| `secondpartysoftware.com` | No |
 | `secpl.us` | No |
 | `secreci.com` | No |
 | `secret-wg.org` | No |
@@ -36035,6 +36043,7 @@ Here's a list of public Fediverse services.
 | `skunkfu.me` | No |
 | `skunkhollow.tech` | No |
 | `skunksocial.com` | Yes |
+| `skvip.lol` | No |
 | `skwal.net` | Yes |
 | `skweb.io` | No |
 | `skweekychair.games` | No |
@@ -45131,8 +45140,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,011 |
-| Normal | 33,077 |
+| Cloudflare | 12,015 |
+| Normal | 33,082 |
 
 
 ### 26.6% of public Fediverse services are using Cloudflare.
