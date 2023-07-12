@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,869 |
 | social | 4,321 |
-| net | 3,498 |
+| net | 3,499 |
 | org | 2,373 |
 | de | 2,203 |
 
@@ -20878,6 +20878,7 @@ Here's a list of public Fediverse services.
 | `kurzschluss.group` | No |
 | `kusako.de` | No |
 | `kuscheltierdoktor.de` | No |
+| `kushiro-u.jp` | Yes |
 | `kusoda.net` | Yes |
 | `kusoneko.moe` | No |
 | `kusozako.com` | Yes |
@@ -22908,6 +22909,7 @@ Here's a list of public Fediverse services.
 | `m1ch.eu` | Yes |
 | `m1n1ster.com` | Yes |
 | `m1x.app` | Yes |
+| `m1zuu.net` | Yes |
 | `m2.nz` | No |
 | `m213.xyz` | Yes |
 | `m29.us` | No |
@@ -45177,7 +45179,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,030 |
+| Cloudflare | 12,032 |
 | Normal | 33,104 |
 
 
