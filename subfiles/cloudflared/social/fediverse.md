@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,864 |
+| com | 6,869 |
 | social | 4,321 |
 | net | 3,498 |
-| org | 2,372 |
+| org | 2,373 |
 | de | 2,203 |
 
 
@@ -1284,6 +1284,7 @@ Here's a list of public Fediverse services.
 | `ahp-numerique.fr` | No |
 | `ahri.cloud` | Yes |
 | `ahst.ro` | No |
+| `ahwx.org` | Yes |
 | `ahxxm.com` | Yes |
 | `ai-peertube.ch` | No |
 | `ai-tube.ch` | No |
@@ -7186,6 +7187,7 @@ Here's a list of public Fediverse services.
 | `cold.solar` | No |
 | `coldness.co` | No |
 | `coldrick.me.uk` | Yes |
+| `coldst.one` | No |
 | `coldvolcano.li` | No |
 | `cole.mn` | Yes |
 | `colean.cc` | No |
@@ -19816,6 +19818,7 @@ Here's a list of public Fediverse services.
 | `keegee40.xyz` | No |
 | `keegsands.org` | No |
 | `keekerdc.com` | No |
+| `keeman.world` | No |
 | `keenclocks.studio` | No |
 | `keenetic.link` | No |
 | `keenfamily.us` | No |
@@ -26719,6 +26722,7 @@ Here's a list of public Fediverse services.
 | `mynoghra.jp` | No |
 | `mynxt.cloud` | No |
 | `myocci.social` | No |
+| `myokyawhtun.com` | Yes |
 | `myon.social` | No |
 | `myonlinelife.social` | No |
 | `myonlinepi.uk` | Yes |
@@ -31584,6 +31588,7 @@ Here's a list of public Fediverse services.
 | `ppsfleet.navy` | No |
 | `pptdn.jp` | Yes |
 | `pqc.io` | No |
+| `pqchub.com` | Yes |
 | `pquirk.com` | No |
 | `pr0mised.life` | Yes |
 | `pr0n.space` | No |
@@ -31988,6 +31993,7 @@ Here's a list of public Fediverse services.
 | `pugly.org` | Yes |
 | `pugmasu.xyz` | No |
 | `pugritos.cloud` | No |
+| `pugsley.xyz` | Yes |
 | `puhtahtoe.com` | Yes |
 | `pukima.site` | Yes |
 | `pulala.net` | Yes |
@@ -32896,6 +32902,7 @@ Here's a list of public Fediverse services.
 | `rdpnd.org` | No |
 | `rdpstudio.top` | Yes |
 | `rdrama.cc` | No |
+| `rdsv.me` | Yes |
 | `rdu.st` | Yes |
 | `re-enthused.com` | No |
 | `re-medium.com` | No |
@@ -35289,6 +35296,7 @@ Here's a list of public Fediverse services.
 | `serv-ops.com` | No |
 | `serval.club` | No |
 | `servantweb.fr` | No |
+| `servarr.com` | Yes |
 | `serve.moe` | Yes |
 | `servebeer.com` | Yes |
 | `serveblog.net` | Yes |
@@ -38917,6 +38925,7 @@ Here's a list of public Fediverse services.
 | `termer.net` | No |
 | `terminal.ink` | Yes |
 | `terminalaberto.pt` | No |
+| `terminaldweller.com` | No |
 | `termine.saarland` | No |
 | `termine.social` | No |
 | `termineterminetermine.com` | No |
@@ -42148,6 +42157,7 @@ Here's a list of public Fediverse services.
 | `vibeogame.online` | No |
 | `vibeshuttle.com` | No |
 | `vibewave.space` | No |
+| `vibin.wtf` | Yes |
 | `vibrant.li` | No |
 | `vicaust.com` | Yes |
 | `vicedomini.cloud` | Yes |
@@ -44814,6 +44824,7 @@ Here's a list of public Fediverse services.
 | `zedsocial.ca` | No |
 | `zee.li` | Yes |
 | `zeeborn.social` | No |
+| `zeekzack.com` | No |
 | `zeeland.social` | No |
 | `zeero.dev` | No |
 | `zef.social` | No |
@@ -45166,8 +45177,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,023 |
-| Normal | 33,100 |
+| Cloudflare | 12,030 |
+| Normal | 33,104 |
 
 
-### 26.6% of public Fediverse services are using Cloudflare.
+### 26.7% of public Fediverse services are using Cloudflare.
