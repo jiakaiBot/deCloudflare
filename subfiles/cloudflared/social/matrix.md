@@ -81,7 +81,6 @@ Here's a list of public Matrix services.
 | matrix.org | Yes |
 | matrix.monero.social | No |
 | mtrx.nz | No |
-| matrix.noevil.pl | No |
 | nope.chat | No |
 | matrix.norge.chat | Yes |
 | hs.obco.pro | Yes |
@@ -122,7 +121,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 20 |
-| Normal | 74 |
+| Normal | 73 |
 
 
-### 21.3% of public Matrix services are using Cloudflare.
+### 21.5% of public Matrix services are using Cloudflare.
