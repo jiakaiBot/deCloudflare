@@ -38,6 +38,7 @@ Here's a list of public Matrix services.
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
 | matrix.chatwave.org | No |
+| chrrreeeeesss.com | No |
 | matrix-client.comm.cx | Yes |
 | matrix.community.rs | Yes |
 | converser.eu | No |
@@ -85,7 +86,7 @@ Here's a list of public Matrix services.
 | oikei.net | No |
 | matrix.ombreport.info | No |
 | pcriot.org | Yes |
-| perthchat.org | Yes |
+| matrix.perthchat.org | Yes |
 | matrix.pikaviestin.fi | No |
 | matrix.plus.st | No |
 | possum.city | Yes |
@@ -93,7 +94,6 @@ Here's a list of public Matrix services.
 | www.privacytools.io | Yes |
 | matrix.pub.solar | No |
 | radiowarnerd.org | No |
-| matrix.rimfaxe.net | No |
 | riotchat.de | Yes |
 | ru-matrix.org | No |
 | sans-nuage.fr | No |
@@ -104,7 +104,6 @@ Here's a list of public Matrix services.
 | matrix.techsaviours.org | No |
 | matrix.tedomum.net | No |
 | tomesh.net | No |
-| ungleich.matrix.ungleich.cloud | No |
 | unita.online | No |
 | usesarchbtw.lol | Yes |
 | matrix.snt.utwente.nl | No |
@@ -112,7 +111,6 @@ Here's a list of public Matrix services.
 | waffle.tech | No |
 | webchat.weho.st | No |
 | xmr.se | No |
-| matrix.yatrix.org | No |
 
 
 - Cloudflare %
@@ -120,7 +118,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 21 |
-| Normal | 71 |
+| Normal | 69 |
 
 
-### 22.8% of public Matrix services are using Cloudflare.
+### 23.3% of public Matrix services are using Cloudflare.
