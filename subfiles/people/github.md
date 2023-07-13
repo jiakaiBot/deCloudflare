@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Azuracast "web proxy" issue coupled with Cloudflare "argo" tunnel inside a Proxmox VM.](https://github.com/AzuraCast/AzuraCast/issues/6428)
 - [Bizarre "error 500"](https://github.com/ztjhz/BetterChatGPT/issues/400)
 - [Broken node polyfill on Cloudflare Pages](https://github.com/remix-run/remix/issues/6825)
 - [Errors: Duplicate order, SERVER_ERROR (createSellOrder)](https://github.com/ProjectOpenSea/opensea-js/issues/1089)
