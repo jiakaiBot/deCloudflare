@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,892 |
-| social | 4,328 |
+| social | 4,329 |
 | net | 3,506 |
 | org | 2,378 |
 | de | 2,208 |
@@ -13773,6 +13773,7 @@ Here's a list of public Fediverse services.
 | `fuck-man-i-just-want-like-one-friend.xyz` | No |
 | `fuck.ru` | Yes |
 | `fuckc.cf` | No |
+| `fuckcars.social` | Yes |
 | `fuckedtodeath.net` | No |
 | `fuckfuckfuckfuckfuckfuckfuckfuckfuckfuckfuck.club` | No |
 | `fuckgov.org` | Yes |
@@ -45291,7 +45292,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,072 |
+| Cloudflare | 12,073 |
 | Normal | 33,176 |
 
 
