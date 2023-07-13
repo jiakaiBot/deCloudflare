@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,900 |
 | social | 4,331 |
-| net | 3,512 |
-| org | 2,381 |
+| net | 3,514 |
+| org | 2,382 |
 | de | 2,208 |
 
 
@@ -1517,6 +1517,7 @@ Here's a list of public Fediverse services.
 | `alexandremottier.fr` | No |
 | `alexayers.com` | No |
 | `alexbelgraver.nl` | No |
+| `alexchabot.net` | No |
 | `alexcrawford.co.uk` | Yes |
 | `alexdobin.com` | Yes |
 | `alexeyubozhenko.ru` | Yes |
@@ -22294,6 +22295,7 @@ Here's a list of public Fediverse services.
 | `livepods.eu` | No |
 | `livers.jp` | No |
 | `livesconnect.com` | No |
+| `livesound.world` | Yes |
 | `livespac.es` | No |
 | `livespins.com` | Yes |
 | `livespins.social` | Yes |
@@ -32609,6 +32611,7 @@ Here's a list of public Fediverse services.
 | `racer159.com` | No |
 | `racf.guru` | Yes |
 | `racheklos.com` | No |
+| `rachelnorfolk.me` | No |
 | `racheltheparrot.tf` | No |
 | `rachsmith.com` | No |
 | `racing-lagoon.info` | No |
@@ -39290,6 +39293,7 @@ Here's a list of public Fediverse services.
 | `thebmw.club` | No |
 | `thebonduniverse.net` | No |
 | `theboss.tech` | No |
+| `theboxcollective.org` | No |
 | `thebrainbin.org` | No |
 | `thebrave1.com` | No |
 | `thebristol.social` | Yes |
@@ -44010,6 +44014,7 @@ Here's a list of public Fediverse services.
 | `x84.ch` | No |
 | `x86.social` | No |
 | `x86.town` | No |
+| `x8r.net` | No |
 | `x91.de` | Yes |
 | `xa0.uk` | Yes |
 | `xabid.com` | No |
@@ -45351,8 +45356,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,097 |
-| Normal | 33,211 |
+| Cloudflare | 12,098 |
+| Normal | 33,215 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
