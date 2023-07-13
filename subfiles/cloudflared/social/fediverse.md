@@ -42630,6 +42630,7 @@ Here's a list of public Fediverse services.
 | `vrc-instance.xyz` | Yes |
 | `vrccl.life` | Yes |
 | `vrchat-dev.tech` | No |
+| `vrchat.today` | Yes |
 | `vreeman.com` | Yes |
 | `vreign.space` | No |
 | `vries.dev` | Yes |
@@ -45311,7 +45312,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,084 |
+| Cloudflare | 12,085 |
 | Normal | 33,184 |
 
 
