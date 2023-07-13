@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Errors: Duplicate order, SERVER_ERROR (createSellOrder)](https://github.com/ProjectOpenSea/opensea-js/issues/1089)
+- [🐛 joplin <Cant get access via mobile app>](https://github.com/alexbelgium/hassio-addons/issues/897)
 - [chat is not working for me.](https://github.com/ztjhz/BetterChatGPT/issues/398)
 - [Incorrect R2 variable name leads to error "Avatar upload feature is not enabled"](https://github.com/opengovsg/starter-kit/issues/164)
 - [CloudFlare Support Portal and Live Chat Availability issues](https://github.com/hinoshiba/news/issues/1168)
