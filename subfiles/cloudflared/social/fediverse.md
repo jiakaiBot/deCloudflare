@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,898 |
-| social | 4,330 |
-| net | 3,507 |
+| social | 4,331 |
+| net | 3,510 |
 | org | 2,380 |
 | de | 2,208 |
 
@@ -5327,6 +5327,7 @@ Here's a list of public Fediverse services.
 | `bruvland.com` | Yes |
 | `bry.bar` | No |
 | `bryanmacmurray.com` | No |
+| `bryanstone.net` | No |
 | `brydge.dev` | Yes |
 | `bryla.tk` | Yes |
 | `brz9.dev` | No |
@@ -9620,6 +9621,7 @@ Here's a list of public Fediverse services.
 | `digitalspice.co.uk` | No |
 | `digitalstuntfactory.com` | No |
 | `digitalsuccess.dev` | No |
+| `digitalundso.net` | No |
 | `digitalveracity.net` | No |
 | `digitalwasteland.info` | No |
 | `digitalwatchmen.com` | No |
@@ -12895,6 +12897,7 @@ Here's a list of public Fediverse services.
 | `flabs.org` | No |
 | `flach.land` | No |
 | `flagada.org` | No |
+| `flagner.dev` | Yes |
 | `flagrama.net` | No |
 | `flaig.name` | No |
 | `flaircheck.ca` | No |
@@ -16026,6 +16029,7 @@ Here's a list of public Fediverse services.
 | `hatena.ovh` | No |
 | `hateotu.de` | No |
 | `hates.company` | No |
+| `hates.shopping` | Yes |
 | `hates.technology` | No |
 | `hatesli.me` | No |
 | `hatesnigge.rs` | No |
@@ -17195,6 +17199,7 @@ Here's a list of public Fediverse services.
 | `hylianux.com` | No |
 | `hylobatidae.org` | No |
 | `hyly.dev` | No |
+| `hyp3r.link` | Yes |
 | `hypatie.xyz` | No |
 | `hype.city` | Yes |
 | `hype.cm` | Yes |
@@ -26552,6 +26557,7 @@ Here's a list of public Fediverse services.
 | `munsell.io` | Yes |
 | `munskey.net` | No |
 | `munster.dev` | Yes |
+| `muo.lol` | No |
 | `muon.social` | No |
 | `muppet-army.party` | Yes |
 | `muppetlabs.com` | No |
@@ -29448,6 +29454,7 @@ Here's a list of public Fediverse services.
 | `opensourcestories.org` | No |
 | `openspace.cf` | No |
 | `openstreetmap.fr` | No |
+| `opentalk.eu` | No |
 | `opentechnologies.co.za` | No |
 | `opentoken.de` | No |
 | `opentunisia.org` | No |
@@ -30119,6 +30126,7 @@ Here's a list of public Fediverse services.
 | `papill0n.org` | No |
 | `papotage.club` | Yes |
 | `papote.eu` | Yes |
+| `pappdi.in` | No |
 | `pappenklatsch.de` | No |
 | `papylhomme.site` | No |
 | `para.watch` | No |
@@ -38729,6 +38737,7 @@ Here's a list of public Fediverse services.
 | `te-st.ru` | Yes |
 | `tea-soak.org` | No |
 | `tea.codes` | Yes |
+| `teaandbiscuits.net` | No |
 | `teaandkittens.com` | No |
 | `teabag.ninja` | No |
 | `teacher.quest` | No |
@@ -38761,6 +38770,7 @@ Here's a list of public Fediverse services.
 | `teamfmradio.com` | No |
 | `teamgallagher.social` | No |
 | `teamhuman.club` | No |
+| `teamhydra.social` | Yes |
 | `teamkitten.tk` | No |
 | `teamlichen.de` | No |
 | `teamlifezone.ru` | Yes |
@@ -45312,8 +45322,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,085 |
-| Normal | 33,184 |
+| Cloudflare | 12,089 |
+| Normal | 33,190 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
