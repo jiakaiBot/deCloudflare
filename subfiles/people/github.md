@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [chat is not working for me.](https://github.com/ztjhz/BetterChatGPT/issues/398)
 - [Incorrect R2 variable name leads to error "Avatar upload feature is not enabled"](https://github.com/opengovsg/starter-kit/issues/164)
 - [CloudFlare Support Portal and Live Chat Availability issues](https://github.com/hinoshiba/news/issues/1168)
 - [CloudFlare Support Portal and Live Chat Availability issues](https://github.com/MatBenfield/news/issues/16406)
