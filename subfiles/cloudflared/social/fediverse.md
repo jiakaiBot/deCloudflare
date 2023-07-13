@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,898 |
 | social | 4,331 |
-| net | 3,510 |
+| net | 3,511 |
 | org | 2,380 |
 | de | 2,208 |
 
@@ -3277,6 +3277,7 @@ Here's a list of public Fediverse services.
 | `azimuth.place` | Yes |
 | `azisserver.me` | Yes |
 | `azkware.net` | No |
+| `azorius.net` | No |
 | `azuki-zenzai.net` | No |
 | `azuki.cf` | Yes |
 | `azumabashi.dev` | No |
@@ -45323,7 +45324,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,089 |
-| Normal | 33,190 |
+| Normal | 33,191 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
