@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,892 |
 | social | 4,329 |
 | net | 3,506 |
-| org | 2,378 |
+| org | 2,379 |
 | de | 2,208 |
 
 
@@ -28871,6 +28871,7 @@ Here's a list of public Fediverse services.
 | `occvltvm.co` | No |
 | `ocean.st` | No |
 | `oceanblue.social` | Yes |
+| `oceand.org` | Yes |
 | `oceanplayground.social` | No |
 | `oceansocial.us` | No |
 | `ocellaris.dev` | Yes |
@@ -45292,7 +45293,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,073 |
+| Cloudflare | 12,074 |
 | Normal | 33,176 |
 
 
