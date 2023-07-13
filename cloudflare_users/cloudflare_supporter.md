@@ -3629,6 +3629,7 @@ Do not create new issue or we will close it as duplicate.
 | [FsoIndustries@twitter](https://twitter.com/FsoIndustries/status/1509979654941204482) | advertise |
 | [ftoukhi@twitter](https://twitter.com/ftoukhi/status/1552612050836373506) | advertise |
 | [fuchiy0902@twitter](https://twitter.com/fuchiy0902/status/1606384363389980672) | advertise |
+| [Fuck72226954255@twitter](https://twitter.com/Fuck72226954255/status/1679519144029323266) | advertise |
 | [fuckemcops@twitter](https://twitter.com/fuckemcops/status/1546636756153503745) | advertise |
 | [fuckhenan@twitter](https://twitter.com/fuckhenan/status/1667707337929523205) | advertise |
 | [fuckhilm@twitter](https://twitter.com/fuckhilm/status/1518916598878261248) | advertise |
@@ -13065,6 +13066,7 @@ Do not create new issue or we will close it as duplicate.
 | [wayamoti2015@twitter](https://twitter.com/wayamoti2015/status/1671126217167360005) | advertise |
 | [WBimson999@twitter](https://twitter.com/WBimson999/status/1495052912288018432) | advertise |
 | [WChyuan@twitter](https://twitter.com/WChyuan/status/1620433756577501184) | advertise |
+| [wcwheels@twitter](https://twitter.com/wcwheels/status/1679506192475856896) | advertise |
 | [WDragon203@twitter](https://twitter.com/WDragon203/status/1416258687266476033) | advertise |
 | [wd_kill@twitter](https://twitter.com/wd_kill/status/1475478794626650123) | advertise |
 | [webdownunder@twitter](https://twitter.com/webdownunder/status/1472764286283833345) | advertise |
