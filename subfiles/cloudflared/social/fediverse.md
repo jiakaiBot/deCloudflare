@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,899 |
 | social | 4,331 |
-| net | 3,511 |
+| net | 3,512 |
 | org | 2,380 |
 | de | 2,208 |
 
@@ -41933,6 +41933,7 @@ Here's a list of public Fediverse services.
 | `utechme.com` | No |
 | `uten.no` | No |
 | `utgw.net` | Yes |
+| `utih.net` | Yes |
 | `utnw.de` | No |
 | `uto.moe` | Yes |
 | `utodon.jp` | No |
@@ -44497,6 +44498,7 @@ Here's a list of public Fediverse services.
 | `yasaiseikatsu.net` | No |
 | `yasi2.com` | Yes |
 | `yaskey.tokyo` | No |
+| `yass.ee` | No |
 | `yastodon.xyz` | No |
 | `yasty.org` | No |
 | `yasu.mu` | No |
@@ -45341,8 +45343,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,095 |
-| Normal | 33,203 |
+| Cloudflare | 12,096 |
+| Normal | 33,204 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
