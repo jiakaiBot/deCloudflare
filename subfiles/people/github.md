@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Bizarre "error 500"](https://github.com/ztjhz/BetterChatGPT/issues/400)
+- [Broken node polyfill on Cloudflare Pages](https://github.com/remix-run/remix/issues/6825)
 - [Errors: Duplicate order, SERVER_ERROR (createSellOrder)](https://github.com/ProjectOpenSea/opensea-js/issues/1089)
 - [🐛 joplin <Cant get access via mobile app>](https://github.com/alexbelgium/hassio-addons/issues/897)
 - [chat is not working for me.](https://github.com/ztjhz/BetterChatGPT/issues/398)
