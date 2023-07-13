@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,899 |
+| com | 6,900 |
 | social | 4,331 |
 | net | 3,512 |
-| org | 2,380 |
+| org | 2,381 |
 | de | 2,208 |
 
 
@@ -2013,6 +2013,7 @@ Here's a list of public Fediverse services.
 | `andrewcantino.com` | No |
 | `andrewleahey.com` | No |
 | `andrewmichaud.com` | No |
+| `andrewnoonan.xyz` | No |
 | `andrews.me` | Yes |
 | `andrewscom.net` | No |
 | `andrewstaylor.com` | Yes |
@@ -18613,6 +18614,7 @@ Here's a list of public Fediverse services.
 | `jar.land` | No |
 | `jaranmiller.com` | Yes |
 | `jardanet.com` | No |
+| `jardo.dev` | No |
 | `jaredwsmith.com` | No |
 | `jaredzimmerman.com` | Yes |
 | `jarkkaa.fi` | No |
@@ -21492,6 +21494,7 @@ Here's a list of public Fediverse services.
 | `leboulaire.ovh` | No |
 | `lebrady.net` | No |
 | `lebreton.fr` | No |
+| `leby.dev` | No |
 | `lecanardrefractaire.org` | No |
 | `lecker.coffee` | No |
 | `leckse.net` | No |
@@ -29500,6 +29503,7 @@ Here's a list of public Fediverse services.
 | `opportunis.me` | No |
 | `opposingthoughts.com` | Yes |
 | `oppression.systems` | No |
+| `opprimo.jp` | No |
 | `opprimonational.com` | No |
 | `opravljam.ga` | No |
 | `oprtr.one` | No |
@@ -30178,6 +30182,7 @@ Here's a list of public Fediverse services.
 | `parentalmisguidance.com` | No |
 | `parentfamily.ca` | No |
 | `parentheticalrecluse.com` | No |
+| `parentplayers.com` | No |
 | `parez.ca` | No |
 | `parfait-mastodon.com` | No |
 | `parfait.day` | No |
@@ -36967,6 +36972,7 @@ Here's a list of public Fediverse services.
 | `spacegazebo.com` | Yes |
 | `spacegirl.nl` | No |
 | `spacehost.dev` | No |
+| `spacehost.team` | No |
 | `spaceint.fr` | No |
 | `spacejerk.fr` | No |
 | `spacekaren.online` | No |
@@ -37967,6 +37973,7 @@ Here's a list of public Fediverse services.
 | `sumeru.top` | Yes |
 | `sumi.space` | Yes |
 | `sumikko.club` | Yes |
+| `summary.ink` | Yes |
 | `summerlin.social` | No |
 | `summerwind.blue` | No |
 | `summoners-riftodon.jp` | No |
@@ -41652,6 +41659,7 @@ Here's a list of public Fediverse services.
 | `uniflydiscs.com` | No |
 | `unigiri.net` | No |
 | `unikanomo.club` | No |
+| `unilem.org` | No |
 | `unim8trix.social` | No |
 | `unimatrix0.is` | No |
 | `unimeow.space` | No |
@@ -45343,8 +45351,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,096 |
-| Normal | 33,204 |
+| Cloudflare | 12,097 |
+| Normal | 33,211 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
