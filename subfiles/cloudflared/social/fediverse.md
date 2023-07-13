@@ -2445,7 +2445,7 @@ Here's a list of public Fediverse services.
 | `arcane.blue` | No |
 | `arcane.town` | Yes |
 | `arcaneassociation.network` | Yes |
-| `arcatar.com` | No |
+| `arcatar.com` | Yes |
 | `arcepi.net` | No |
 | `arch-linux.cz` | Yes |
 | `archae.me` | No |
@@ -14097,6 +14097,7 @@ Here's a list of public Fediverse services.
 | `gabwith.me` | No |
 | `gabytron.me` | No |
 | `gac.edu` | No |
+| `gachi-sskey.love` | No |
 | `gadeservesbetter.com` | No |
 | `gadgetboy.org` | Yes |
 | `gadgetboy.social` | Yes |
@@ -26629,7 +26630,7 @@ Here's a list of public Fediverse services.
 | `musson.uk` | No |
 | `must.beer` | No |
 | `mustam.in` | Yes |
-| `mustard.blog` | No |
+| `mustard.blog` | Yes |
 | `mustardon.tokyo` | No |
 | `mustbeart.com` | No |
 | `mustdomast.com` | No |
@@ -45323,8 +45324,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,089 |
-| Normal | 33,191 |
+| Cloudflare | 12,091 |
+| Normal | 33,190 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
