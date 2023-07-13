@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,892 |
 | social | 4,329 |
 | net | 3,506 |
-| org | 2,379 |
+| org | 2,380 |
 | de | 2,208 |
 
 
@@ -7268,7 +7268,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -10283,6 +10283,7 @@ Here's a list of public Fediverse services.
 | `drg.im` | No |
 | `drg.nz` | Yes |
 | `drgns.cc` | No |
+| `drgns.org` | Yes |
 | `drgnz.club` | No |
 | `drif.moe` | No |
 | `driffaud.fr` | No |
@@ -45293,8 +45294,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,074 |
-| Normal | 33,176 |
+| Cloudflare | 12,076 |
+| Normal | 33,175 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
