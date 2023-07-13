@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,900 |
+| com | 6,901 |
 | social | 4,331 |
 | net | 3,514 |
 | org | 2,382 |
@@ -15357,6 +15357,7 @@ Here's a list of public Fediverse services.
 | `greinr.com` | No |
 | `grella.rocks` | No |
 | `grelli.org` | No |
+| `gremlin.party` | No |
 | `gremlin.space` | No |
 | `gremlins.eu` | No |
 | `gremlins.social` | Yes |
@@ -21071,6 +21072,7 @@ Here's a list of public Fediverse services.
 | `l5n.de` | No |
 | `la-demeuree.fr` | No |
 | `la-dina.net` | No |
+| `la-fornace.com` | No |
 | `la-isabella.xyz` | No |
 | `la-luna-rossa.page` | Yes |
 | `la-photo-en-faits.com` | No |
@@ -45357,7 +45359,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,098 |
-| Normal | 33,215 |
+| Normal | 33,217 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
