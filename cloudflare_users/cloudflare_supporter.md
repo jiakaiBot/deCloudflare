@@ -2403,6 +2403,7 @@ Do not create new issue or we will close it as duplicate.
 | [CPaingg@twitter](https://twitter.com/CPaingg/status/1390427967482826754) | advertise |
 | [CPD2508199x@twitter](https://twitter.com/CPD2508199x/status/1549182325467914240) | advertise |
 | [cphc_uc@twitter](https://twitter.com/cphc_uc/status/1604130887582380032) | advertise |
+| [cpt_abdul_@twitter](https://twitter.com/cpt_abdul_/status/1679377967049310209) | advertise |
 | [cqpcoin@twitter](https://twitter.com/cqpcoin/status/1404309296251215872) | advertise |
 | [CrackSree@twitter](https://twitter.com/CrackSree/status/1402815976064700425) | advertise |
 | [CraftPlots@twitter](https://twitter.com/CraftPlots/status/1481687861292326916) | advertise |
@@ -4005,6 +4006,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hahaha130100@twitter](https://twitter.com/Hahaha130100/status/1552324016069054464) | advertise |
 | [hahasofunnybruh@twitter](https://twitter.com/hahasofunnybruh/status/1397828172264079362) | advertise |
 | [Hai18099052@twitter](https://twitter.com/Hai18099052/status/1588621808932356096) | advertise |
+| [haianh6868@twitter](https://twitter.com/haianh6868/status/1679382542125002753) | advertise |
 | [Haianhabc07@twitter](https://twitter.com/Haianhabc07/status/1611723850995339267) | advertise |
 | [haiche1410@twitter](https://twitter.com/haiche1410/status/1571199251291729921) | advertise |
 | [HaiChen1708@twitter](https://twitter.com/HaiChen1708/status/1566482660712914944) | advertise |
