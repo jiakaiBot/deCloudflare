@@ -259,6 +259,7 @@ Do not create new issue or we will close it as duplicate.
 | [Abdulaz29616252@twitter](https://twitter.com/Abdulaz29616252/status/1380498458965053440) | advertise |
 | [abdulla002233@twitter](https://twitter.com/abdulla002233/status/1617519168433311747) | advertise |
 | [Abdulla06631989@twitter](https://twitter.com/Abdulla06631989/status/1382232596134952969) | advertise |
+| [Abdulla32727883@twitter](https://twitter.com/Abdulla32727883/status/1679462667000610819) | advertise |
 | [Abdulla39396161@twitter](https://twitter.com/Abdulla39396161/status/1526588525222699008) | advertise |
 | [Abdulla98320845@twitter](https://twitter.com/Abdulla98320845/status/1398651100065001482) | advertise |
 | [Abdulla98602648@twitter](https://twitter.com/Abdulla98602648/status/1386907995737493507) | advertise |
@@ -10958,6 +10959,7 @@ Do not create new issue or we will close it as duplicate.
 | [SimranG39906146@twitter](https://twitter.com/SimranG39906146/status/1400837970656067593) | advertise |
 | [simultsop@twitter](https://twitter.com/simultsop/status/1387457851392733190) | advertise |
 | [Sinan81202980@twitter](https://twitter.com/Sinan81202980/status/1493619633798418434) | advertise |
+| [Sinan3397354714@twitter](https://twitter.com/Sinan3397354714/status/1679425699877191689) | advertise |
 | [sincler333@twitter](https://twitter.com/sincler333/status/1596507233080463360) | advertise |
 | [sincze@twitter](https://twitter.com/sincze/status/1379491017389391876) | advertise |
 | [sinhaankur@twitter](https://twitter.com/sinhaankur/status/1395431003284377600) | advertise |
