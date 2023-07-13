@@ -3249,6 +3249,7 @@ Do not create new issue or we will close it as duplicate.
 | [Elainasan831069@twitter](https://twitter.com/Elainasan831069/status/1601267438200713216) | advertise |
 | [Elaine01799523@twitter](https://twitter.com/Elaine01799523/status/1397575836140589056) | advertise |
 | [elara_kin@twitter](https://twitter.com/elara_kin/status/1395797258030002177) | advertise |
+| [ElbieMusic@twitter](https://twitter.com/ElbieMusic/status/1679280588090490885) | advertise |
 | [ElBrooklyn5@twitter](https://twitter.com/ElBrooklyn5/status/1559384072291590144) | advertise |
 | [elclaustro@twitter](https://twitter.com/elclaustro/status/1617738072128651266) | advertise |
 | [EldanizGuluzade@twitter](https://twitter.com/EldanizGuluzade/status/1620027126094381056) | advertise |
@@ -13234,6 +13235,7 @@ Do not create new issue or we will close it as duplicate.
 | [w_alhosni96@twitter](https://twitter.com/w_alhosni96/status/1601529197012586497) | advertise |
 | [w_alnoubani@twitter](https://twitter.com/w_alnoubani/status/1637871231054536723) | advertise |
 | [X2o07595000@twitter](https://twitter.com/X2o07595000/status/1392485807940784128) | advertise |
+| [X5servers@twitter](https://twitter.com/X5servers/status/1679269756921081856) | advertise |
 | [X303_@twitter](https://twitter.com/X303_/status/1375370199767998468) | advertise |
 | [x66619164331@twitter](https://twitter.com/x66619164331/status/1386276834480992256) | advertise |
 | [xabclink@twitter](https://twitter.com/xabclink/status/1662111293535567872) | advertise |
