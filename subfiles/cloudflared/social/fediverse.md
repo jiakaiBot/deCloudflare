@@ -44724,6 +44724,7 @@ Here's a list of public Fediverse services.
 | `yukai.dev` | No |
 | `yukari.cafe` | Yes |
 | `yukari.cloud` | Yes |
+| `yukari.in` | Yes |
 | `yukarin.club` | No |
 | `yukarin.love` | No |
 | `yukata.tech` | Yes |
@@ -45294,7 +45295,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,076 |
+| Cloudflare | 12,077 |
 | Normal | 33,175 |
 
 
