@@ -12170,6 +12170,7 @@ Do not create new issue or we will close it as duplicate.
 | [TKDirect_co@twitter](https://twitter.com/TKDirect_co/status/1619744886898712581) | advertise |
 | [TKNguyen12a9@twitter](https://twitter.com/TKNguyen12a9/status/1581408397668548608) | advertise |
 | [TKTRAN989@twitter](https://twitter.com/TKTRAN989/status/1553103875158450176) | advertise |
+| [tkyawshan@twitter](https://twitter.com/tkyawshan/status/1679925742380150784) | advertise |
 | [TLay75095361@twitter](https://twitter.com/TLay75095361/status/1402574255456284676) | advertise |
 | [tlo565641@twitter](https://twitter.com/tlo565641/status/1392899291342163977) | advertise |
 | [tltii104@twitter](https://twitter.com/tltii104/status/1386657711018844162) | advertise |
