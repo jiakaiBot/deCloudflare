@@ -2744,6 +2744,7 @@ Do not create new issue or we will close it as duplicate.
 | [Deki12253933@twitter](https://twitter.com/Deki12253933/status/1552020750936281088) | advertise |
 | [DelsinPistons@twitter](https://twitter.com/DelsinPistons/status/1420937477930487808) | advertise |
 | [DelucioJoseph@twitter](https://twitter.com/DelucioJoseph/status/1393744512422498304) | advertise |
+| [DemassGizaw@twitter](https://twitter.com/DemassGizaw/status/1679871159494402051) | advertise |
 | [demigozz1@twitter](https://twitter.com/demigozz1/status/1585518522025009154) | advertise |
 | [Demon03765725@twitter](https://twitter.com/Demon03765725/status/1599036023165505536) | advertise |
 | [Demon6941@twitter](https://twitter.com/Demon6941/status/1494687786774851592) | advertise |
@@ -7955,6 +7956,7 @@ Do not create new issue or we will close it as duplicate.
 | [MR40303137@twitter](https://twitter.com/MR40303137/status/1391397403165700106) | advertise |
 | [mrafi26863@twitter](https://twitter.com/mrafi26863/status/1620979984717451265) | advertise |
 | [MrAlone45283422@twitter](https://twitter.com/MrAlone45283422/status/1408058930232586242) | advertise |
+| [MRANGRYGAMERZ1@twitter](https://twitter.com/MRANGRYGAMERZ1/status/1679891585159528449) | advertise |
 | [mrarashi3@twitter](https://twitter.com/mrarashi3/status/1394589698434113540) | advertise |
 | [MrAriani@twitter](https://twitter.com/MrAriani/status/1675964271245524995) | advertise |
 | [MrAung30882580@twitter](https://twitter.com/MrAung30882580/status/1386334358844305410) | advertise |
@@ -10216,6 +10218,7 @@ Do not create new issue or we will close it as duplicate.
 | [riy1991@twitter](https://twitter.com/riy1991/status/1446042626642173953) | advertise |
 | [Rizkiadisp@twitter](https://twitter.com/Rizkiadisp/status/1457584649840988170) | advertise |
 | [Rizky29300508@twitter](https://twitter.com/Rizky29300508/status/1401428946789429249) | advertise |
+| [Rizkyfauzih@twitter](https://twitter.com/Rizkyfauzih/status/1679899851633614849) | advertise |
 | [rjack55@twitter](https://twitter.com/rjack55/status/1379577118527524865) | advertise |
 | [rjd129@twitter](https://twitter.com/rjd129/status/1517778561981054976) | advertise |
 | [Rkar43290101@twitter](https://twitter.com/Rkar43290101/status/1398468325034713091) | advertise |
