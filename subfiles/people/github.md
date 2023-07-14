@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [flutter stability integration](https://github.com/Stability-AI/REST-API/issues/36)
 - [podman pull error "no such host" on WSL2/podman-default-machine](https://github.com/containers/podman/issues/19239)
 - [@sentry/remix Cloudflare wrangler failed to start](https://github.com/getsentry/sentry-javascript/issues/8536)
 - [Azuracast "web proxy" issue coupled with Cloudflare "argo" tunnel inside a Proxmox VM.](https://github.com/AzuraCast/AzuraCast/issues/6428)
