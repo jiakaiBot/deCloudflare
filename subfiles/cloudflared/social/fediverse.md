@@ -8495,7 +8495,7 @@ Here's a list of public Fediverse services.
 | `dailysouthafrican.co.za` | No |
 | `dailywebthing.com` | No |
 | `dain.moe` | Yes |
-| `dair-community.social` | No |
+| `dair-community.social` | Yes |
 | `dair-institute.org` | Yes |
 | `daishouri.moe` | No |
 | `daize.xin` | No |
@@ -15325,6 +15325,7 @@ Here's a list of public Fediverse services.
 | `greeneco.social` | No |
 | `greenfeathereddragon.com` | Yes |
 | `greenfield.social` | No |
+| `greengame.dev` | No |
 | `greenhill.zone` | No |
 | `greenish.red` | Yes |
 | `greenjobs.social` | No |
@@ -24747,6 +24748,7 @@ Here's a list of public Fediverse services.
 | `melton.cc` | Yes |
 | `meltpoint.club` | Yes |
 | `meltywind.org` | No |
+| `meluhdy.dev` | Yes |
 | `melyanna.net` | No |
 | `mem000.de` | No |
 | `member.ro` | Yes |
@@ -45378,7 +45380,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,112 |
+| Cloudflare | 12,114 |
 | Normal | 33,223 |
 
 
