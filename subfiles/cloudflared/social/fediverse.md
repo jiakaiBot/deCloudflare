@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,902 |
-| social | 4,331 |
-| net | 3,514 |
+| com | 6,903 |
+| social | 4,332 |
+| net | 3,515 |
 | org | 2,382 |
 | de | 2,208 |
 
@@ -1459,6 +1459,7 @@ Here's a list of public Fediverse services.
 | `alaskafriendfinder.com` | No |
 | `alaskan.social` | Yes |
 | `alaskanative.social` | No |
+| `alazy.dev` | Yes |
 | `albanian.social` | No |
 | `albany.ist` | No |
 | `albanytrans.gay` | No |
@@ -3721,6 +3722,7 @@ Here's a list of public Fediverse services.
 | `bbbdn.jp` | No |
 | `bbboost.com` | No |
 | `bbcmic.ro` | No |
+| `bbdao.dev` | Yes |
 | `bbfactory.it` | No |
 | `bbiz.io` | No |
 | `bbngh.com` | Yes |
@@ -4748,6 +4750,7 @@ Here's a list of public Fediverse services.
 | `bnrub.in` | No |
 | `bnt.social` | Yes |
 | `bnuy.space` | No |
+| `bnuy.zone` | Yes |
 | `bnyrdn.net` | No |
 | `boanoiteinternet.com.br` | No |
 | `boanus.net` | No |
@@ -6808,6 +6811,7 @@ Here's a list of public Fediverse services.
 | `cityofperu.fun` | No |
 | `cityrun.in` | No |
 | `ciurdarea.nu` | No |
+| `civieleautoriteiten.nl` | No |
 | `civilians.social` | No |
 | `civilitas.io` | Yes |
 | `civiliza.xyz` | No |
@@ -20704,6 +20708,7 @@ Here's a list of public Fediverse services.
 | `kosuzu.net` | No |
 | `kot.jp` | No |
 | `kotakuinaction.org` | No |
+| `kotaro.me` | Yes |
 | `kotaro.work` | Yes |
 | `kotatsu.jp` | No |
 | `koteidenwa.uk` | Yes |
@@ -21809,6 +21814,7 @@ Here's a list of public Fediverse services.
 | `letsrulethe.world` | No |
 | `letterbmedia.com` | No |
 | `lettersblogatory.com` | Yes |
+| `letthewookiee.win` | Yes |
 | `lettucegarden.net` | No |
 | `leuchtetgruen.de` | No |
 | `leuchtetgruen.me` | No |
@@ -25035,6 +25041,7 @@ Here's a list of public Fediverse services.
 | `micha.priv.at` | No |
 | `michae.lv` | Yes |
 | `michael-anders.net` | No |
+| `michael-martinez.com` | No |
 | `michael-webber.com` | Yes |
 | `michaelbishop.me` | No |
 | `michaelbrooks.co.uk` | Yes |
@@ -28057,6 +28064,7 @@ Here's a list of public Fediverse services.
 | `njust.club` | Yes |
 | `nk.ca` | No |
 | `nkagami.me` | Yes |
+| `nkantar.social` | No |
 | `nkb.fr` | No |
 | `nkb.moe` | No |
 | `nkmi.cc` | No |
@@ -33070,6 +33078,7 @@ Here's a list of public Fediverse services.
 | `realtime.fyi` | No |
 | `realworldsunny.name` | Yes |
 | `reapers.de` | No |
+| `reason.rocks` | No |
 | `reasonable.world` | No |
 | `reaves.dev` | No |
 | `reax.work` | Yes |
@@ -35087,6 +35096,7 @@ Here's a list of public Fediverse services.
 | `scronkfinkle.net` | Yes |
 | `scrubbles.tech` | No |
 | `scrubjay.social` | Yes |
+| `scruffy.parts` | Yes |
 | `scrum.town` | No |
 | `scrumcar.me` | No |
 | `scrun.ch` | Yes |
@@ -38662,6 +38672,7 @@ Here's a list of public Fediverse services.
 | `tardis.world` | No |
 | `tardisproject.uk` | No |
 | `targaryen.house` | No |
+| `targetedindividuals.net` | No |
 | `taricorp.net` | No |
 | `tarkiz.org` | No |
 | `tarmil.fr` | No |
@@ -45362,8 +45373,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,101 |
-| Normal | 33,218 |
+| Cloudflare | 12,107 |
+| Normal | 33,223 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
