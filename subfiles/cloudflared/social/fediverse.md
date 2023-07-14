@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,904 |
+| com | 6,905 |
 | social | 4,333 |
 | net | 3,516 |
 | org | 2,382 |
-| de | 2,208 |
+| de | 2,209 |
 
 
 - Mastodon, Pleroma, etc
@@ -4136,6 +4136,7 @@ Here's a list of public Fediverse services.
 | `biblioco.de` | No |
 | `bibliohack.org` | No |
 | `bibliothekarisch.info` | No |
+| `bibliotheksbubble.de` | No |
 | `biblioverse.online` | No |
 | `bibly.com` | No |
 | `biborg.com` | No |
@@ -7124,6 +7125,7 @@ Here's a list of public Fediverse services.
 | `codebase.one` | No |
 | `codechem.io` | Yes |
 | `codecoffin.com` | No |
+| `codecompost.nl` | No |
 | `codeday.social` | Yes |
 | `codeflow.club` | Yes |
 | `codefor.de` | No |
@@ -7290,6 +7292,7 @@ Here's a list of public Fediverse services.
 | `comam.es` | No |
 | `combatbahai.com` | No |
 | `combiner.team` | No |
+| `come-together.nl` | No |
 | `comedyclub.social` | No |
 | `comelibros.club` | No |
 | `comerocudequemestalendo.com` | No |
@@ -9384,7 +9387,7 @@ Here's a list of public Fediverse services.
 | `device5.co.uk` | No |
 | `devil-children-alitaso.com` | Yes |
 | `devilgate.org` | No |
-| `devilops.ca` | No |
+| `devilops.ca` | Yes |
 | `devils.house` | No |
 | `deviltracks.net` | No |
 | `devinberg.com` | Yes |
@@ -12710,6 +12713,7 @@ Here's a list of public Fediverse services.
 | `fgc.fun` | No |
 | `fgc.network` | Yes |
 | `fgc.rocks` | No |
+| `fgilcc.eu` | No |
 | `fglt.nl` | No |
 | `fgochiho.vip` | No |
 | `fgt.pw` | No |
@@ -15981,6 +15985,7 @@ Here's a list of public Fediverse services.
 | `harem.moe` | Yes |
 | `harfang.social` | Yes |
 | `harijs.id.lv` | No |
+| `harmon.tech` | No |
 | `harmoniescreatives.com` | No |
 | `harmonynet.org` | Yes |
 | `harmonytheory.net` | No |
@@ -18461,6 +18466,7 @@ Here's a list of public Fediverse services.
 | `jacaranda.club` | No |
 | `jacen.moe` | Yes |
 | `jachiet.com` | No |
+| `jachimowski.nl` | Yes |
 | `jack.rip` | Yes |
 | `jack28.ovh` | No |
 | `jackal.chat` | Yes |
@@ -20249,6 +20255,7 @@ Here's a list of public Fediverse services.
 | `kinney.tax` | No |
 | `kino.ma` | No |
 | `kinocow.com` | No |
+| `kinoko.pw` | No |
 | `kinowolnosc.pl` | No |
 | `kinsta.cloud` | Yes |
 | `kintsugi-lab.com` | Yes |
@@ -25371,6 +25378,7 @@ Here's a list of public Fediverse services.
 | `mint-n-er.de` | No |
 | `mint-nrw.social` | No |
 | `mint.lgbt` | No |
+| `mintcream.blue` | Yes |
 | `minter.uno` | No |
 | `minuit.xyz` | No |
 | `minuscule.space` | Yes |
@@ -28280,7 +28288,7 @@ Here's a list of public Fediverse services.
 | `nomic.space` | No |
 | `nominal.social` | Yes |
 | `nominom.de` | Yes |
-| `nomiss.net` | No |
+| `nomiss.net` | Yes |
 | `nomofomo.social` | No |
 | `nomorecubes.net` | No |
 | `nomoresha.me` | Yes |
@@ -32466,6 +32474,7 @@ Here's a list of public Fediverse services.
 | `quey.la` | No |
 | `quey.org` | Yes |
 | `quic.fr` | No |
+| `quickbrb.com` | Yes |
 | `quickfix.es` | No |
 | `quiet.horse` | No |
 | `quiet.social` | No |
@@ -41592,6 +41601,7 @@ Here's a list of public Fediverse services.
 | `unattributed.cc` | No |
 | `unbia.st` | Yes |
 | `unbl.ink` | No |
+| `unboiled.info` | No |
 | `unbound.social` | No |
 | `unboxed.social` | No |
 | `uncanceledil.com` | No |
@@ -45387,8 +45397,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,119 |
-| Normal | 33,225 |
+| Cloudflare | 12,124 |
+| Normal | 33,230 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
