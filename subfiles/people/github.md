@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [@sentry/remix Cloudflare wrangler failed to start](https://github.com/getsentry/sentry-javascript/issues/8536)
 - [Azuracast "web proxy" issue coupled with Cloudflare "argo" tunnel inside a Proxmox VM.](https://github.com/AzuraCast/AzuraCast/issues/6428)
 - [Bizarre "error 500"](https://github.com/ztjhz/BetterChatGPT/issues/400)
 - [Broken node polyfill on Cloudflare Pages](https://github.com/remix-run/remix/issues/6825)
