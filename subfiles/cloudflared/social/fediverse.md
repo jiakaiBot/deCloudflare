@@ -11574,6 +11574,7 @@ Here's a list of public Fediverse services.
 | `esmarconf.org` | No |
 | `esmevane.com` | No |
 | `esolis.social` | No |
+| `esophiamedias.fr` | No |
 | `esoteric.party` | No |
 | `esotericknowledge.xyz` | No |
 | `esotericmonkey.com` | No |
@@ -22013,7 +22014,7 @@ Here's a list of public Fediverse services.
 | `libreplanetbr.org` | No |
 | `libreprime.info` | No |
 | `libreprime.io` | Yes |
-| `libreprime.me` | No |
+| `libreprime.me` | Yes |
 | `librepunk.club` | No |
 | `librepush.net` | No |
 | `librescrum.org` | No |
@@ -45403,7 +45404,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,127 |
+| Cloudflare | 12,128 |
 | Normal | 33,233 |
 
 
