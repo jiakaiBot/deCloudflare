@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,903 |
-| social | 4,332 |
-| net | 3,515 |
+| com | 6,904 |
+| social | 4,333 |
+| net | 3,516 |
 | org | 2,382 |
 | de | 2,208 |
 
@@ -9157,6 +9157,7 @@ Here's a list of public Fediverse services.
 | `delta-t.work` | Yes |
 | `delta1.dev` | Yes |
 | `delta9.me` | Yes |
+| `deltaa.xyz` | No |
 | `deltabeard.com` | Yes |
 | `deltaho.us` | No |
 | `deltanauten.de` | No |
@@ -12841,6 +12842,7 @@ Here's a list of public Fediverse services.
 | `firedragonstudios.com` | No |
 | `firedragonvideos.com` | No |
 | `firefaithfellowship.com` | Yes |
+| `firefish.lgbt` | No |
 | `fireflies.nl` | No |
 | `firefly.land` | Yes |
 | `fireglow.de` | No |
@@ -22981,6 +22983,7 @@ Here's a list of public Fediverse services.
 | `lyrenhex.com` | Yes |
 | `lyricaltokarev.fun` | No |
 | `lyros.net` | No |
+| `lys.ee` | Yes |
 | `lys.systems` | No |
 | `lyte.dev` | No |
 | `lyttle.cam` | No |
@@ -24837,7 +24840,7 @@ Here's a list of public Fediverse services.
 | `meows.lol` | Yes |
 | `meowsdeluxe.com` | No |
 | `meowstodon.net` | Yes |
-| `meowstodon.org` | No |
+| `meowstodon.org` | Yes |
 | `meowstodon.social` | No |
 | `meowy.tech` | No |
 | `meowz.moe` | No |
@@ -29681,6 +29684,7 @@ Here's a list of public Fediverse services.
 | `osci.io` | No |
 | `osechin.co` | No |
 | `oseka.xyz` | No |
+| `osfast.com` | No |
 | `osfree.org` | No |
 | `osgeo.org` | Yes |
 | `oshiete-programming.net` | No |
@@ -40294,6 +40298,7 @@ Here's a list of public Fediverse services.
 | `tomodachica.app` | No |
 | `tomokiwakimoto.com` | No |
 | `tomori.sk` | No |
+| `tomorrows.social` | Yes |
 | `tomredford.eu` | No |
 | `tomskee.dev` | No |
 | `tomster.org` | No |
@@ -41901,6 +41906,7 @@ Here's a list of public Fediverse services.
 | `urly.fun` | No |
 | `urmom69.com` | No |
 | `urmum.gq` | No |
+| `urn1350.net` | Yes |
 | `ursa.cafe` | No |
 | `ursal.zone` | Yes |
 | `ursaoskius.com` | Yes |
@@ -42397,6 +42403,7 @@ Here's a list of public Fediverse services.
 | `vidro.club` | No |
 | `vidrot.com` | No |
 | `vidy.casa` | No |
+| `vidya.cafe` | Yes |
 | `vidyagam.es` | Yes |
 | `vief.email` | No |
 | `vielfalt-begegnung.de` | No |
@@ -45380,8 +45387,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,114 |
-| Normal | 33,223 |
+| Cloudflare | 12,119 |
+| Normal | 33,225 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
