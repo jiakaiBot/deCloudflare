@@ -9288,6 +9288,7 @@ Do not create new issue or we will close it as duplicate.
 | [Parassi87009558@twitter](https://twitter.com/Parassi87009558/status/1405913945735450625) | advertise |
 | [parasyte_x@twitter](https://twitter.com/parasyte_x/status/1377532238997254144) | advertise |
 | [Pari67479035@twitter](https://twitter.com/Pari67479035/status/1577182218887340032) | advertise |
+| [parkmay33373116@twitter](https://twitter.com/parkmay33373116/status/1679967287250395136) | advertise |
 | [park_pollen@twitter](https://twitter.com/park_pollen/status/1390024654333497346) | advertise |
 | [Parsahoushangi@twitter](https://twitter.com/Parsahoushangi/status/1585717330990047232) | advertise |
 | [parsay_pyaw@twitter](https://twitter.com/parsay_pyaw/status/1392219027590766596) | advertise |
