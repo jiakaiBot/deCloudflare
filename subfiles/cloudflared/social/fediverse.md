@@ -4506,6 +4506,7 @@ Here's a list of public Fediverse services.
 | `blahaj.fun` | No |
 | `blahaj.gg` | Yes |
 | `blahaj.land` | No |
+| `blahaj.ovh` | Yes |
 | `blahaj.photo` | Yes |
 | `blahaj.pw` | Yes |
 | `blahaj.social` | Yes |
@@ -36345,7 +36346,7 @@ Here's a list of public Fediverse services.
 | `slowbrain.net` | No |
 | `slowest.network` | Yes |
 | `slowkidz.social` | No |
-| `slownewsdayshow.com` | No |
+| `slownewsdayshow.com` | Yes |
 | `slrie.de` | No |
 | `slrpnk.net` | No |
 | `slsrepo.com` | No |
@@ -45373,8 +45374,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,107 |
-| Normal | 33,223 |
+| Cloudflare | 12,109 |
+| Normal | 33,222 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
