@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare provider change 3.18.0 -> 3.20.0 causes tf plan to fail](https://github.com/hobby-kube/provisioning/issues/84)
 - [conflict with supabase](https://github.com/flet-dev/flet/issues/1592)
 - [DigitalOcean www server](https://github.com/nodejs/build/issues/3424)
 - [Demo not working](https://github.com/paperless-ngx/paperless-ngx/issues/3802)
