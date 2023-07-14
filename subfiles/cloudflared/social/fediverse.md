@@ -7275,7 +7275,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9164,6 +9164,7 @@ Here's a list of public Fediverse services.
 | `dementia.fun` | No |
 | `dementophobia.net` | No |
 | `demi-sec.org` | No |
+| `demiboy.gay` | No |
 | `demigod.bar` | No |
 | `demkontinuum.de` | No |
 | `demmy.co.uk` | Yes |
@@ -12834,6 +12835,7 @@ Here's a list of public Fediverse services.
 | `firedragonvideos.com` | No |
 | `firefaithfellowship.com` | Yes |
 | `fireflies.nl` | No |
+| `firefly.land` | Yes |
 | `fireglow.de` | No |
 | `fireglow.su` | No |
 | `firehawk-systems.com` | No |
@@ -21549,7 +21551,7 @@ Here's a list of public Fediverse services.
 | `legal.social` | No |
 | `legalcontent.live` | No |
 | `legalizenuclearbombs.com` | No |
-| `legalloli.net` | No |
+| `legalloli.net` | Yes |
 | `legally-berlin.de` | Yes |
 | `legaltech.social` | No |
 | `legbeard.xyz` | No |
@@ -33396,6 +33398,7 @@ Here's a list of public Fediverse services.
 | `resolvt.net` | No |
 | `resonanceaudiodistro.org` | No |
 | `resonar.de` | No |
+| `resonite.co.uk` | Yes |
 | `resource.org` | No |
 | `resource.pub` | No |
 | `resplendentwebservices.com` | No |
@@ -45359,8 +45362,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,097 |
-| Normal | 33,219 |
+| Cloudflare | 12,101 |
+| Normal | 33,218 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
