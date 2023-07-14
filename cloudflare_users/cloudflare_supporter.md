@@ -9258,6 +9258,7 @@ Do not create new issue or we will close it as duplicate.
 | [PakoMotsumi4@twitter](https://twitter.com/PakoMotsumi4/status/1551305611824041985) | advertise |
 | [palazathanhnam@twitter](https://twitter.com/palazathanhnam/status/1622223740418543617) | advertise |
 | [PallinksWeb@twitter](https://twitter.com/PallinksWeb/status/1664210114289577988) | advertise |
+| [PalNetBots@twitter](https://twitter.com/PalNetBots/status/1679909971910066186) | advertise |
 | [palon37@twitter](https://twitter.com/palon37/status/1389877275751968776) | advertise |
 | [Pamkom1@twitter](https://twitter.com/Pamkom1/status/1401328734238478337) | advertise |
 | [Pamuktulum@twitter](https://twitter.com/Pamuktulum/status/1583829147562160129) | advertise |
