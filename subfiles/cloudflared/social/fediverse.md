@@ -28936,6 +28936,7 @@ Here's a list of public Fediverse services.
 | `occult.institute` | No |
 | `occult.social` | No |
 | `occult.systems` | No |
+| `occult.town` | No |
 | `occulti.ca` | No |
 | `occultist.space` | No |
 | `occvltvm.co` | No |
@@ -45403,7 +45404,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,127 |
-| Normal | 33,232 |
+| Normal | 33,233 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
