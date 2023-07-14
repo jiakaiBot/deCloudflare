@@ -4335,6 +4335,7 @@ Here's a list of public Fediverse services.
 | `biscuit.town` | No |
 | `bison.city` | No |
 | `bisset.me.uk` | No |
+| `bissgigi.art` | No |
 | `bissisoft.com` | No |
 | `bit-friends.de` | No |
 | `bit-link.de` | No |
@@ -6024,6 +6025,7 @@ Here's a list of public Fediverse services.
 | `catgirl.fr` | No |
 | `catgirl.icu` | No |
 | `catgirl.is` | Yes |
+| `catgirl.land` | Yes |
 | `catgirl.life` | No |
 | `catgirl.party` | No |
 | `catgirl.place` | No |
@@ -18940,6 +18942,7 @@ Here's a list of public Fediverse services.
 | `jinteki.link` | No |
 | `jinwei.me` | Yes |
 | `jinxd.tech` | No |
+| `jiong.us` | Yes |
 | `jippi.dev` | Yes |
 | `jir.moe` | No |
 | `jis.work` | Yes |
@@ -32269,6 +32272,7 @@ Here's a list of public Fediverse services.
 | `pythonasia.org` | No |
 | `pythondevs.social` | No |
 | `pythonist.as` | No |
+| `pythonplayer123.xyz` | Yes |
 | `pythonverse.social` | No |
 | `pytu.be` | No |
 | `pyxel.cloud` | No |
@@ -45374,8 +45378,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,109 |
-| Normal | 33,222 |
+| Cloudflare | 12,112 |
+| Normal | 33,223 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
