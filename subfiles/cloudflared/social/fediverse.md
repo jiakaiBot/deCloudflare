@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,901 |
+| com | 6,902 |
 | social | 4,331 |
 | net | 3,514 |
 | org | 2,382 |
@@ -7275,7 +7275,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -21057,7 +21057,7 @@ Here's a list of public Fediverse services.
 | `l00p.org` | No |
 | `l09.fr` | No |
 | `l0g.is` | No |
-| `l0l.city` | No |
+| `l0l.city` | Yes |
 | `l0nax.org` | Yes |
 | `l0v.es` | Yes |
 | `l1f.de` | No |
@@ -35515,6 +35515,7 @@ Here's a list of public Fediverse services.
 | `sgf.social` | No |
 | `sgiath.dev` | No |
 | `sgr.cc` | No |
+| `sgrankin.com` | No |
 | `sgrclowd.xyz` | No |
 | `sgrta.io` | No |
 | `sgt.cc` | No |
@@ -44456,7 +44457,7 @@ Here's a list of public Fediverse services.
 | `yamabi.co` | No |
 | `yamachan.org` | No |
 | `yamagadon.com` | No |
-| `yamaha.lol` | Yes |
+| `yamaha.lol` | No |
 | `yamakakedon.net` | No |
 | `yamaken.jp` | Yes |
 | `yamako-ya.com` | No |
@@ -45358,8 +45359,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,098 |
-| Normal | 33,217 |
+| Cloudflare | 12,097 |
+| Normal | 33,219 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
