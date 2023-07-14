@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,905 |
 | social | 4,333 |
-| net | 3,516 |
+| net | 3,518 |
 | org | 2,382 |
 | de | 2,209 |
 
@@ -4849,6 +4849,7 @@ Here's a list of public Fediverse services.
 | `bolha.forum` | Yes |
 | `bolha.one` | Yes |
 | `bolha.photos` | Yes |
+| `bolha.review` | Yes |
 | `bolha.social` | Yes |
 | `bolha.tec.br` | No |
 | `bolha.us` | Yes |
@@ -6235,6 +6236,7 @@ Here's a list of public Fediverse services.
 | `cezeri.tech` | Yes |
 | `cfbtalk.social` | No |
 | `cfcosta.com` | Yes |
+| `cfras.net` | Yes |
 | `cfultz.com` | No |
 | `cfw4.tk` | No |
 | `cg.social` | No |
@@ -20888,6 +20890,7 @@ Here's a list of public Fediverse services.
 | `kub2091.ru` | No |
 | `kuba-orlik.name` | No |
 | `kuberegretes.com` | No |
+| `kubernetes.homes` | Yes |
 | `kubiwa.moe` | No |
 | `kubiwahn.de` | No |
 | `kubo.social` | No |
@@ -31005,6 +31008,7 @@ Here's a list of public Fediverse services.
 | `pirate.chat` | Yes |
 | `pirate.lgbt` | Yes |
 | `pirateale.xyz` | No |
+| `pirated.mobi` | No |
 | `pirateheaven.eu` | No |
 | `piraten-holzminden.de` | No |
 | `piraten-partei.social` | No |
@@ -40087,6 +40091,7 @@ Here's a list of public Fediverse services.
 | `tisato.live` | Yes |
 | `tissink.me` | No |
 | `tissuebox.art` | Yes |
+| `titey.net` | No |
 | `titi.me.uk` | No |
 | `titilat.com` | Yes |
 | `titipat.net` | Yes |
@@ -45397,8 +45402,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,124 |
-| Normal | 33,230 |
+| Cloudflare | 12,127 |
+| Normal | 33,232 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
