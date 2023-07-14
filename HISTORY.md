@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-07-13: [Challenges and Turnstile degraded performance](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7bw2pfmgt2z1)
 - 2023-07-12: [Intermittent  status code errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pt9v22c4tn3y)
 - 2023-07-10: [R2 authentication issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/40qnv8mrnq1q)
 - 2023-07-10: [Network Performance Issues in South Africa](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fkz3gwd57vxt)
