@@ -4098,6 +4098,7 @@ Do not create new issue or we will close it as duplicate.
 | [hansulwin8@twitter](https://twitter.com/hansulwin8/status/1391304251087929344) | advertise |
 | [hanweWin1@twitter](https://twitter.com/hanweWin1/status/1403348385470451712) | advertise |
 | [HanWinZ47955018@twitter](https://twitter.com/HanWinZ47955018/status/1382000077342842884) | advertise |
+| [hanyesamclinic@twitter](https://twitter.com/hanyesamclinic/status/1679661827343495168) | advertise |
 | [hanysalh2@twitter](https://twitter.com/hanysalh2/status/1483843056562585604) | advertise |
 | [han_pyaephyo@twitter](https://twitter.com/han_pyaephyo/status/1391518803008397313) | advertise |
 | [Hao73903905@twitter](https://twitter.com/Hao73903905/status/1380536670177484801) | advertise |
