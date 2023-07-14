@@ -121,6 +121,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | elemental.software | Yes |
 | ellichua.com | No |
 | emiliyan.com | Yes |
+| eth.link | Yes |
 | extrawdw.net | Yes |
 | familiamv.ml | No |
 | fancyorg.at | No |
@@ -180,6 +181,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jsanagustin.net | Yes |
 | jstockley.com | Yes |
 | jucker.engineering | No |
+| jupitrdns.net | Yes |
 | kamilszczepanski.com | No |
 | karl.one | No |
 | kernel-error.de | No |
@@ -372,8 +374,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 181 |
+| Cloudflare | 183 |
 | Normal | 172 |
 
 
-### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
