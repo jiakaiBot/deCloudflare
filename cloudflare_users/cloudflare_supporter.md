@@ -667,6 +667,7 @@ Do not create new issue or we will close it as duplicate.
 | [almohanad_7rb@twitter](https://twitter.com/almohanad_7rb/status/1396993015231750147) | advertise |
 | [almoodela@twitter](https://twitter.com/almoodela/status/1636060183162937352) | advertise |
 | [Almosmn8@twitter](https://twitter.com/Almosmn8/status/1398362732534112256) | advertise |
+| [AlmoSmokie@twitter](https://twitter.com/AlmoSmokie/status/1679823496661147648) | advertise |
 | [alnahas2020@twitter](https://twitter.com/alnahas2020/status/1526095253475835904) | advertise |
 | [alnowafaa@twitter](https://twitter.com/alnowafaa/status/1620552141181181952) | advertise |
 | [AlnueaymiSudad@twitter](https://twitter.com/AlnueaymiSudad/status/1618195569314516993) | advertise |
@@ -5513,6 +5514,7 @@ Do not create new issue or we will close it as duplicate.
 | [josephmooreMM@twitter](https://twitter.com/josephmooreMM/status/1398331678142066689) | advertise |
 | [JosephThornbrue@twitter](https://twitter.com/JosephThornbrue/status/1583839248343785474) | advertise |
 | [joseph_cvh@twitter](https://twitter.com/joseph_cvh/status/1549354905281802240) | advertise |
+| [Jose_semere09@twitter](https://twitter.com/Jose_semere09/status/1679838595106873344) | advertise |
 | [JoshAlmighty3@twitter](https://twitter.com/JoshAlmighty3/status/1394937423197470729) | advertise |
 | [joshg253@twitter](https://twitter.com/joshg253/status/1489326821866835971) | advertise |
 | [JoshKaley@twitter](https://twitter.com/JoshKaley/status/1400892198606938113) | advertise |
@@ -10753,6 +10755,7 @@ Do not create new issue or we will close it as duplicate.
 | [serndev@twitter](https://twitter.com/serndev/status/1659221246905573376) | advertise |
 | [Seth12888249@twitter](https://twitter.com/Seth12888249/status/1391277120844873728) | advertise |
 | [SetPaimg@twitter](https://twitter.com/SetPaimg/status/1397474221425512450) | advertise |
+| [SettpaiJ@twitter](https://twitter.com/SettpaiJ/status/1679839959535226880) | advertise |
 | [Sev56332308@twitter](https://twitter.com/Sev56332308/status/1408078023425986560) | advertise |
 | [Severus06225502@twitter](https://twitter.com/Severus06225502/status/1507952371351048197) | advertise |
 | [sewjeonq@twitter](https://twitter.com/sewjeonq/status/1552963950010314753) | advertise |
