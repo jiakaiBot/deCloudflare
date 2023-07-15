@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,911 |
+| com | 6,912 |
 | social | 4,339 |
 | net | 3,519 |
 | org | 2,384 |
@@ -8664,6 +8664,7 @@ Here's a list of public Fediverse services.
 | `dark-admin.net` | No |
 | `dark-alexandr.net` | No |
 | `dark-elves.social` | No |
+| `dark.red` | No |
 | `darkandstormynight.club` | No |
 | `darkart.space` | No |
 | `darkcarnival.me` | No |
@@ -15369,6 +15370,7 @@ Here's a list of public Fediverse services.
 | `greenpete.co.uk` | No |
 | `greenplenty.social` | No |
 | `greenspace.work` | Yes |
+| `greent.jp` | No |
 | `greentechwriter-social.org` | No |
 | `greentrawler.space` | No |
 | `greenwichmeanti.me` | No |
@@ -20057,6 +20059,7 @@ Here's a list of public Fediverse services.
 | `keryja.tv` | No |
 | `keskonfai.fr` | No |
 | `kessai-otaku.club` | Yes |
+| `kessoku.band` | Yes |
 | `kestrelsnest.social` | No |
 | `kesuek.de` | No |
 | `ketchupma.io` | No |
@@ -21718,6 +21721,7 @@ Here's a list of public Fediverse services.
 | `lemmyfly.org` | No |
 | `lemmygrad.com` | No |
 | `lemmygrad.ml` | No |
+| `lemmyhub.com` | No |
 | `lemmyjapan.com` | No |
 | `lemmyngs.social` | No |
 | `lemmyngton.au` | No |
@@ -29123,6 +29127,7 @@ Here's a list of public Fediverse services.
 | `ohhi.icu` | No |
 | `ohi.icu` | No |
 | `ohineri.me` | No |
+| `ohitorisama.cloud` | Yes |
 | `ohmreserve.com` | No |
 | `ohmygod.social` | No |
 | `ohmylanta.today` | No |
@@ -30882,6 +30887,7 @@ Here's a list of public Fediverse services.
 | `pi2.dev` | No |
 | `pi4li.social` | Yes |
 | `piaf.eu` | No |
+| `piaf.im` | No |
 | `piaille.fr` | No |
 | `pianyu.cyou` | Yes |
 | `piaste.it` | No |
@@ -33746,6 +33752,7 @@ Here's a list of public Fediverse services.
 | `risonchu.social` | No |
 | `rita.moe` | Yes |
 | `ritchie.social` | No |
+| `ritec.jp` | No |
 | `ritimo.org` | No |
 | `ritma.net` | Yes |
 | `ritter.lol` | Yes |
@@ -44871,6 +44878,7 @@ Here's a list of public Fediverse services.
 | `yuki.network` | Yes |
 | `yuki.social` | Yes |
 | `yuki.tech` | No |
+| `yuki2th.xyz` | Yes |
 | `yukia.me` | No |
 | `yukieyun.net` | Yes |
 | `yukiisbo.red` | No |
@@ -45435,8 +45443,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,142 |
-| Normal | 33,250 |
+| Cloudflare | 12,145 |
+| Normal | 33,255 |
 
 
-### 26.7% of public Fediverse services are using Cloudflare.
+### 26.8% of public Fediverse services are using Cloudflare.
