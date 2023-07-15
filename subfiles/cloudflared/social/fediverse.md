@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,910 |
-| social | 4,336 |
+| com | 6,911 |
+| social | 4,339 |
 | net | 3,519 |
 | org | 2,384 |
-| de | 2,209 |
+| de | 2,210 |
 
 
 - Mastodon, Pleroma, etc
@@ -1420,6 +1420,7 @@ Here's a list of public Fediverse services.
 | `akmentins.com` | Yes |
 | `akoot.site` | No |
 | `akop.online` | No |
+| `akparti.xyz` | Yes |
 | `akrabat.com` | No |
 | `aksel.at` | No |
 | `aksel.rocks` | No |
@@ -4294,6 +4295,7 @@ Here's a list of public Fediverse services.
 | `bipolar.city` | No |
 | `bipolarsupportgroup.net` | Yes |
 | `birb.casa` | No |
+| `birb.cc` | Yes |
 | `birb.haus` | No |
 | `birb.site` | No |
 | `birb.social` | No |
@@ -5861,6 +5863,7 @@ Here's a list of public Fediverse services.
 | `cap.moe` | Yes |
 | `capas.se` | No |
 | `capcom.social` | No |
+| `capebreton.social` | No |
 | `capellan.de` | No |
 | `capitaines.fr` | No |
 | `capitalism.party` | No |
@@ -8338,6 +8341,7 @@ Here's a list of public Fediverse services.
 | `cyberveins.eu` | No |
 | `cyberverse.bar` | No |
 | `cybervillains.com` | Yes |
+| `cyberwa.re` | No |
 | `cyberwald.com` | No |
 | `cyberwitches.club` | No |
 | `cyberwiz.xyz` | No |
@@ -9442,6 +9446,7 @@ Here's a list of public Fediverse services.
 | `devvul.com` | No |
 | `devweb.dev` | No |
 | `devxnet.com` | Yes |
+| `devzero.social` | No |
 | `dewbert.social` | Yes |
 | `dewitte.xyz` | Yes |
 | `dewp.space` | No |
@@ -11870,6 +11875,7 @@ Here's a list of public Fediverse services.
 | `expression.social` | Yes |
 | `expressional.social` | Yes |
 | `expshift.com` | No |
+| `exquisite.com.br` | No |
 | `exquisite.social` | No |
 | `exs.gay` | No |
 | `ext.network` | No |
@@ -14292,6 +14298,7 @@ Here's a list of public Fediverse services.
 | `garmy.jp` | No |
 | `garo.ooo` | No |
 | `garranoileain.com` | No |
+| `garratt.social` | Yes |
 | `garri.us` | No |
 | `garriguv.io` | No |
 | `garrison.beer` | No |
@@ -37669,6 +37676,7 @@ Here's a list of public Fediverse services.
 | `sthorp.com` | Yes |
 | `sti.social` | No |
 | `stibi.social` | Yes |
+| `stibma.com` | Yes |
 | `stic.earth` | No |
 | `stickbear.me` | Yes |
 | `stiehler.dev` | Yes |
@@ -39889,6 +39897,7 @@ Here's a list of public Fediverse services.
 | `thomasholland.uk` | Yes |
 | `thomasjaggi.ch` | No |
 | `thomasjpr.social` | Yes |
+| `thomaskalka.de` | No |
 | `thomasknoll.info` | No |
 | `thomasott.io` | Yes |
 | `thomaspreece.net` | Yes |
@@ -45426,8 +45435,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,138 |
-| Normal | 33,245 |
+| Cloudflare | 12,142 |
+| Normal | 33,250 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
