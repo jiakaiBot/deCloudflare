@@ -7060,6 +7060,7 @@ Do not create new issue or we will close it as duplicate.
 | [MadznalA@twitter](https://twitter.com/MadznalA/status/1475493006442565633) | advertise |
 | [MaEiEiKhine1@twitter](https://twitter.com/MaEiEiKhine1/status/1396386851187924993) | advertise |
 | [maemiguiel@twitter](https://twitter.com/maemiguiel/status/1634240880319303681) | advertise |
+| [Maemsy1@twitter](https://twitter.com/Maemsy1/status/1680142272698933250) | advertise |
 | [MaestroCoC@twitter](https://twitter.com/MaestroCoC/status/1646168965557673990) | advertise |
 | [MaffandiMhafizi@twitter](https://twitter.com/MaffandiMhafizi/status/1597250541138374656) | advertise |
 | [mafiasans10@twitter](https://twitter.com/mafiasans10/status/1626511664681197574) | advertise |
