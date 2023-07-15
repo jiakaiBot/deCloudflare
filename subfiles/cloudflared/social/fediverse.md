@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,905 |
-| social | 4,333 |
-| net | 3,518 |
+| social | 4,334 |
+| net | 3,519 |
 | org | 2,382 |
 | de | 2,209 |
 
@@ -7286,7 +7286,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -12361,6 +12361,7 @@ Here's a list of public Fediverse services.
 | `fedi.xyz` | No |
 | `fedi196.gay` | No |
 | `fedia.io` | No |
+| `fedia.social` | No |
 | `fedibb.ml` | No |
 | `fedibeest.social` | Yes |
 | `fedibik.es` | No |
@@ -15155,7 +15156,7 @@ Here's a list of public Fediverse services.
 | `gordons.gen.nz` | No |
 | `gordyboard.com` | No |
 | `gordyf.com` | Yes |
-| `gore.cam` | Yes |
+| `gore.cam` | No |
 | `goredb.com` | Yes |
 | `goresee.com` | Yes |
 | `goreslut.xyz` | No |
@@ -23076,6 +23077,7 @@ Here's a list of public Fediverse services.
 | `macaw.social` | Yes |
 | `macbeth.cc` | Yes |
 | `macbury.ninja` | Yes |
+| `macchinar.io` | No |
 | `mace.au` | Yes |
 | `mace.lol` | Yes |
 | `mace.social` | No |
@@ -31493,6 +31495,7 @@ Here's a list of public Fediverse services.
 | `pollock.network` | No |
 | `pollyanna.social` | No |
 | `polonkai.eu` | No |
+| `polotek.net` | No |
 | `polsci.social` | No |
 | `polskasocial.pl` | No |
 | `polsum.rocks` | No |
@@ -41891,6 +41894,7 @@ Here's a list of public Fediverse services.
 | `uramstdon.com` | No |
 | `uraniumhexafluori.de` | No |
 | `uraniumlane.net` | No |
+| `uratania.ch` | No |
 | `urawareds.org` | No |
 | `urbain.es` | No |
 | `urbalazs.hu` | No |
@@ -45404,8 +45408,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,128 |
-| Normal | 33,233 |
+| Cloudflare | 12,126 |
+| Normal | 33,239 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
