@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,905 |
+| com | 6,906 |
 | social | 4,334 |
 | net | 3,519 |
 | org | 2,382 |
@@ -2703,6 +2703,7 @@ Here's a list of public Fediverse services.
 | `arun.cloud` | Yes |
 | `arunmozhi.in` | Yes |
 | `arush.io` | No |
+| `arutemilia.com` | Yes |
 | `arvr.social` | No |
 | `arxiv.social` | No |
 | `aryasenna.net` | Yes |
@@ -9111,6 +9112,7 @@ Here's a list of public Fediverse services.
 | `dehawara.de` | No |
 | `deheerlen.nl` | No |
 | `dehopre.dev` | Yes |
+| `dehub.club` | No |
 | `deima.sh` | No |
 | `deimidis.me` | No |
 | `deinfo-projects.de` | No |
@@ -9212,6 +9214,7 @@ Here's a list of public Fediverse services.
 | `den.yt` | Yes |
 | `den1.cz` | Yes |
 | `dendai.app` | Yes |
+| `denden.world` | No |
 | `dendiz.xyz` | No |
 | `deniau.org` | No |
 | `denibol.com` | No |
@@ -11250,6 +11253,7 @@ Here's a list of public Fediverse services.
 | `enbi.es` | No |
 | `enbies.space` | Yes |
 | `enby-box.de` | No |
+| `enby.city` | No |
 | `enby.club` | No |
 | `enby.life` | No |
 | `enby.site` | Yes |
@@ -15120,6 +15124,7 @@ Here's a list of public Fediverse services.
 | `goochiegoo.net` | Yes |
 | `good-dragon.com` | No |
 | `good-it.com` | No |
+| `good.news` | Yes |
 | `goodanser.com` | Yes |
 | `goodass.dog` | No |
 | `goodbye.work` | Yes |
@@ -45408,8 +45413,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,126 |
-| Normal | 33,239 |
+| Cloudflare | 12,128 |
+| Normal | 33,242 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
