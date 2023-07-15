@@ -6222,6 +6222,7 @@ Do not create new issue or we will close it as duplicate.
 | [KoNge65559432@twitter](https://twitter.com/KoNge65559432/status/1534534113629454336) | advertise |
 | [KONGE87151365@twitter](https://twitter.com/KONGE87151365/status/1396747881843806211) | advertise |
 | [KongKeong2@twitter](https://twitter.com/KongKeong2/status/1621288970931015680) | advertise |
+| [KongSamkong@twitter](https://twitter.com/KongSamkong/status/1680268829702897665) | advertise |
 | [KoNyi75713606@twitter](https://twitter.com/KoNyi75713606/status/1397753294240423936) | advertise |
 | [KoNyiMyo1@twitter](https://twitter.com/KoNyiMyo1/status/1399767904590045187) | advertise |
 | [KookKing11@twitter](https://twitter.com/KookKing11/status/1391425999661723649) | advertise |
@@ -7264,6 +7265,7 @@ Do not create new issue or we will close it as duplicate.
 | [MashhadiPourya@twitter](https://twitter.com/MashhadiPourya/status/1388135701003309062) | advertise |
 | [MAshuwj@twitter](https://twitter.com/MAshuwj/status/1394318953523027968) | advertise |
 | [masihmohebi@twitter](https://twitter.com/masihmohebi/status/1573580152445014016) | advertise |
+| [MaskurAlom59322@twitter](https://twitter.com/MaskurAlom59322/status/1680273612652290049) | advertise |
 | [maslankd@twitter](https://twitter.com/maslankd/status/1580194516186722304) | advertise |
 | [mason78555541@twitter](https://twitter.com/mason78555541/status/1552343962970918912) | advertise |
 | [masonman443@twitter](https://twitter.com/masonman443/status/1572914826946682884) | advertise |
