@@ -5072,6 +5072,7 @@ Do not create new issue or we will close it as duplicate.
 | [ishlwi@twitter](https://twitter.com/ishlwi/status/1525933662495199235) | advertise |
 | [isira_adithya@twitter](https://twitter.com/isira_adithya/status/1373518191394091009) | advertise |
 | [isJackeroo@twitter](https://twitter.com/isJackeroo/status/1522157763975008256) | advertise |
+| [iskand81808@twitter](https://twitter.com/iskand81808/status/1680060626528530435) | advertise |
 | [Iskecik2@twitter](https://twitter.com/Iskecik2/status/1403090108589301761) | advertise |
 | [IslamerAlo18@twitter](https://twitter.com/IslamerAlo18/status/1586672156456681475) | advertise |
 | [islamicempower@twitter](https://twitter.com/islamicempower/status/1643019938032939008) | advertise |
