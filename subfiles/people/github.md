@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [iptorrents (updating) Error: Error solving the challenge. Timeout after 55.0 seconds.](https://github.com/FlareSolverr/FlareSolverr/issues/817)
 - [Cloudflare provider change 3.18.0 -> 3.20.0 causes tf plan to fail](https://github.com/hobby-kube/provisioning/issues/84)
 - [conflict with supabase](https://github.com/flet-dev/flet/issues/1592)
 - [DigitalOcean www server](https://github.com/nodejs/build/issues/3424)
