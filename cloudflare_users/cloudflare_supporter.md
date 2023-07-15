@@ -10206,6 +10206,7 @@ Do not create new issue or we will close it as duplicate.
 | [RinSharz@twitter](https://twitter.com/RinSharz/status/1553295596680724480) | advertise |
 | [Rio93855459@twitter](https://twitter.com/Rio93855459/status/1592543442709909504) | advertise |
 | [RIPdeclan999@twitter](https://twitter.com/RIPdeclan999/status/1574187422660763648) | advertise |
+| [Rip_Aizen60@twitter](https://twitter.com/Rip_Aizen60/status/1680012634123300864) | advertise |
 | [rip_lunchables@twitter](https://twitter.com/rip_lunchables/status/1665889036152586245) | advertise |
 | [Rip_nonameeee@twitter](https://twitter.com/Rip_nonameeee/status/1665705629120438280) | advertise |
 | [RishiKu66@twitter](https://twitter.com/RishiKu66/status/1392000250408144899) | advertise |
@@ -12047,6 +12048,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thura92326915@twitter](https://twitter.com/Thura92326915/status/1608517881045848064) | advertise |
 | [thuraau87250232@twitter](https://twitter.com/thuraau87250232/status/1575906458935660545) | advertise |
 | [ThuRain15947531@twitter](https://twitter.com/ThuRain15947531/status/1393105015728791553) | advertise |
+| [ThuraKhun47600@twitter](https://twitter.com/ThuraKhun47600/status/1680014271642767363) | advertise |
 | [ThuraKo88911020@twitter](https://twitter.com/ThuraKo88911020/status/1391854568321998850) | advertise |
 | [thurawi06593719@twitter](https://twitter.com/thurawi06593719/status/1386863584924237825) | advertise |
 | [Thuraxoe@twitter](https://twitter.com/Thuraxoe/status/1380047178412920835) | advertise |
