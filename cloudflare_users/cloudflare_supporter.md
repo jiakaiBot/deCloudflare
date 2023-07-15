@@ -1086,6 +1086,7 @@ Do not create new issue or we will close it as duplicate.
 | [AshokMA9@twitter](https://twitter.com/AshokMA9/status/1483742175225602051) | advertise |
 | [Ashqqqqq12@twitter](https://twitter.com/Ashqqqqq12/status/1578339268510257152) | advertise |
 | [Ashraf24818344@twitter](https://twitter.com/Ashraf24818344/status/1603472952946745344) | advertise |
+| [AshrafA27958012@twitter](https://twitter.com/AshrafA27958012/status/1680216777920245760) | advertise |
 | [AshrfyShfyq@twitter](https://twitter.com/AshrfyShfyq/status/1608787145292124164) | advertise |
 | [ashutoshsinghac@twitter](https://twitter.com/ashutoshsinghac/status/1397847733793218560) | advertise |
 | [asia_hippo@twitter](https://twitter.com/asia_hippo/status/1407900933732716545) | advertise |
