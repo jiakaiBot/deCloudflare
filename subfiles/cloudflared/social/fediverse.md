@@ -20974,6 +20974,7 @@ Here's a list of public Fediverse services.
 | `kurage.cc` | No |
 | `kurage.top` | No |
 | `kurakake.net` | No |
+| `kurator.tech` | No |
 | `kurau.tokyo` | No |
 | `kurd.org` | Yes |
 | `kurenai.life` | No |
@@ -45451,7 +45452,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,146 |
-| Normal | 33,261 |
+| Normal | 33,262 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
