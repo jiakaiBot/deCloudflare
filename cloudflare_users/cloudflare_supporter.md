@@ -8223,6 +8223,7 @@ Do not create new issue or we will close it as duplicate.
 | [n0k35@twitter](https://twitter.com/n0k35/status/1517243040615653376) | advertise |
 | [n33412264@twitter](https://twitter.com/n33412264/status/1394915451231117318) | advertise |
 | [n49568234@twitter](https://twitter.com/n49568234/status/1556292421184811009) | advertise |
+| [NA94507853@twitter](https://twitter.com/NA94507853/status/1680137183645007872) | advertise |
 | [NAABIL49027157@twitter](https://twitter.com/NAABIL49027157/status/1387326620009074692) | advertise |
 | [naamloser@twitter](https://twitter.com/naamloser/status/1503867812963569666) | advertise |
 | [naba7419@twitter](https://twitter.com/naba7419/status/1622887893436858368) | advertise |
