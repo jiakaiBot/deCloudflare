@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,906 |
-| social | 4,334 |
+| com | 6,909 |
+| social | 4,336 |
 | net | 3,519 |
-| org | 2,382 |
+| org | 2,383 |
 | de | 2,209 |
 
 
@@ -2310,6 +2310,7 @@ Here's a list of public Fediverse services.
 | `ap-log.net` | Yes |
 | `ap-msk.com` | No |
 | `ap-srv-gw.net` | No |
+| `ap.social` | No |
 | `apa50.online` | No |
 | `apaphoto.social` | No |
 | `apartmenttherapy.com` | Yes |
@@ -5950,6 +5951,7 @@ Here's a list of public Fediverse services.
 | `cas.social` | No |
 | `casablog.com` | No |
 | `casacamelia.xyz` | Yes |
+| `casavaga.com` | No |
 | `casavant.org` | No |
 | `cascadia.chat` | No |
 | `cascadia.games` | No |
@@ -7287,7 +7289,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7642,7 +7644,7 @@ Here's a list of public Fediverse services.
 | `cosmo.do` | No |
 | `cosmopoliteben.com` | No |
 | `cosmos.social` | Yes |
-| `cosmoschaos.net` | No |
+| `cosmoschaos.net` | Yes |
 | `cosnomi.com` | Yes |
 | `cosocial.ca` | No |
 | `cosocial.engineering` | No |
@@ -9806,7 +9808,7 @@ Here's a list of public Fediverse services.
 | `div88.org` | No |
 | `diva.exchange` | No |
 | `divad.xyz` | No |
-| `divas.joburg` | No |
+| `divas.joburg` | Yes |
 | `divbot.com` | No |
 | `divecoaching.com.au` | No |
 | `diverge.gg` | Yes |
@@ -12904,6 +12906,7 @@ Here's a list of public Fediverse services.
 | `fivethirtyeight.com` | No |
 | `fivewords.uk` | No |
 | `fixate.social` | No |
+| `fixermark.com` | Yes |
 | `fixflare.com` | Yes |
 | `fixionauta.net` | No |
 | `fixitbear.com` | No |
@@ -14352,6 +14355,7 @@ Here's a list of public Fediverse services.
 | `gayest.cloud` | Yes |
 | `gayfr.social` | No |
 | `gayfurry.space` | No |
+| `gaygary.com` | No |
 | `gaygay.me` | Yes |
 | `gaygeek.social` | Yes |
 | `gaygeeks.nl` | No |
@@ -16043,6 +16047,7 @@ Here's a list of public Fediverse services.
 | `hash.social` | No |
 | `hashapp.space` | No |
 | `hashbang.sh` | No |
+| `hashc.at` | Yes |
 | `hashem.social` | No |
 | `hashi.icu` | Yes |
 | `hashi.sbs` | Yes |
@@ -23871,7 +23876,7 @@ Here's a list of public Fediverse services.
 | `mastodon-france.social` | No |
 | `mastodon-hss.ml` | No |
 | `mastodon-il.net` | No |
-| `mastodon-japan.net` | No |
+| `mastodon-japan.net` | Yes |
 | `mastodon-lyontech.fr` | No |
 | `mastodon-nagano.info` | No |
 | `mastodon-network.com` | No |
@@ -25163,6 +25168,7 @@ Here's a list of public Fediverse services.
 | `miegl.cz` | No |
 | `mieke.club` | No |
 | `miekeroth.com` | No |
+| `miekeroth.org` | No |
 | `miekyll.com` | No |
 | `mielke.social` | No |
 | `mielse.com` | No |
@@ -31079,7 +31085,7 @@ Here's a list of public Fediverse services.
 | `pixelfed.au` | No |
 | `pixelfed.beer` | Yes |
 | `pixelfed.cafe` | No |
-| `pixelfed.co.za` | No |
+| `pixelfed.co.za` | Yes |
 | `pixelfed.com.br` | Yes |
 | `pixelfed.cz` | Yes |
 | `pixelfed.de` | No |
@@ -33452,6 +33458,7 @@ Here's a list of public Fediverse services.
 | `restall.io` | Yes |
 | `restart.moe` | No |
 | `restis.de` | No |
+| `restive.social` | Yes |
 | `restless.systems` | Yes |
 | `restlesslens.me` | No |
 | `restof.social` | No |
@@ -35976,6 +35983,7 @@ Here's a list of public Fediverse services.
 | `siliconvalley.social` | No |
 | `silkhe.art` | Yes |
 | `silkky.cloud` | Yes |
+| `silkky.dev` | Yes |
 | `silkroad.net` | No |
 | `silksky.us` | No |
 | `silkyplover.org` | No |
@@ -45413,8 +45421,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,128 |
-| Normal | 33,242 |
+| Cloudflare | 12,137 |
+| Normal | 33,241 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
