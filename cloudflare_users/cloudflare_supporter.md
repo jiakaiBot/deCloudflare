@@ -5763,6 +5763,7 @@ Do not create new issue or we will close it as duplicate.
 | [KaungMy75704095@twitter](https://twitter.com/KaungMy75704095/status/1404306675738181634) | advertise |
 | [KaungMy81134089@twitter](https://twitter.com/KaungMy81134089/status/1399032302554947584) | advertise |
 | [kaungmy97835720@twitter](https://twitter.com/kaungmy97835720/status/1393509362669289474) | advertise |
+| [KaungMyat986863@twitter](https://twitter.com/KaungMyat986863/status/1680046614537437184) | advertise |
 | [KaungMyatZin19@twitter](https://twitter.com/KaungMyatZin19/status/1389943126660313092) | advertise |
 | [KaungPyaeAung17@twitter](https://twitter.com/KaungPyaeAung17/status/1380094691526459393) | advertise |
 | [kaungpyaenaung@twitter](https://twitter.com/kaungpyaenaung/status/1392524699284946945) | advertise |
