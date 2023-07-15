@@ -2113,6 +2113,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChaiwichitJarn3@twitter](https://twitter.com/ChaiwichitJarn3/status/1406515044427259904) | advertise |
 | [Chakkrit_bank24@twitter](https://twitter.com/Chakkrit_bank24/status/1392631487460114436) | advertise |
 | [Chaloewut09@twitter](https://twitter.com/Chaloewut09/status/1503882755629019138) | advertise |
+| [Chamaiporn56438@twitter](https://twitter.com/Chamaiporn56438/status/1680240206023397376) | advertise |
 | [Chanatip_Saifah@twitter](https://twitter.com/Chanatip_Saifah/status/1610727845546061824) | advertise |
 | [Chanawee20@twitter](https://twitter.com/Chanawee20/status/1481902051361947648) | advertise |
 | [ChanAye00073908@twitter](https://twitter.com/ChanAye00073908/status/1390488182332874753) | advertise |
