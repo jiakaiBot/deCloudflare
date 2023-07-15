@@ -13826,6 +13826,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZLinnhtun@twitter](https://twitter.com/ZLinnhtun/status/1394069238357184512) | advertise |
 | [zlitzinger93@twitter](https://twitter.com/zlitzinger93/status/1440029318382510083) | advertise |
 | [ZMA13729972@twitter](https://twitter.com/ZMA13729972/status/1390879781315514371) | advertise |
+| [ZmaArman347495@twitter](https://twitter.com/ZmaArman347495/status/1680329804464177152) | advertise |
 | [ZMaroo31@twitter](https://twitter.com/ZMaroo31/status/1394525495367196674) | advertise |
 | [Znaiag96@twitter](https://twitter.com/Znaiag96/status/1384906789829873666) | advertise |
 | [Zo57288541@twitter](https://twitter.com/Zo57288541/status/1505754258993709056) | advertise |
