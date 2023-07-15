@@ -10840,6 +10840,7 @@ Do not create new issue or we will close it as duplicate.
 | [shareinmyarea@twitter](https://twitter.com/shareinmyarea/status/1585546345972174851) | advertise |
 | [sharHtet21@twitter](https://twitter.com/sharHtet21/status/1390392338111889408) | advertise |
 | [SharifTech_@twitter](https://twitter.com/SharifTech_/status/1377317759311224837) | advertise |
+| [SharkiArthur@twitter](https://twitter.com/SharkiArthur/status/1680181669800849408) | advertise |
 | [SharMyatthu3@twitter](https://twitter.com/SharMyatthu3/status/1390642880444715009) | advertise |
 | [sharoar_shojib@twitter](https://twitter.com/sharoar_shojib/status/1611407762365509634) | advertise |
 | [SharrXtet@twitter](https://twitter.com/SharrXtet/status/1390380850793959426) | advertise |
@@ -13175,6 +13176,7 @@ Do not create new issue or we will close it as duplicate.
 | [WinchWebsites@twitter](https://twitter.com/WinchWebsites/status/1440532786725605386) | advertise |
 | [Windsta71121727@twitter](https://twitter.com/Windsta71121727/status/1505823044954173441) | advertise |
 | [windyhen@twitter](https://twitter.com/windyhen/status/1389081253962338309) | advertise |
+| [wine_chit099@twitter](https://twitter.com/wine_chit099/status/1680187000375107584) | advertise |
 | [winhear15139223@twitter](https://twitter.com/winhear15139223/status/1393369104241725443) | advertise |
 | [WINHTET50110881@twitter](https://twitter.com/WINHTET50110881/status/1609371979131518982) | advertise |
 | [WinHtetMon1@twitter](https://twitter.com/WinHtetMon1/status/1392151277052698631) | advertise |
