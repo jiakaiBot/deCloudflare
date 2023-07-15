@@ -8652,6 +8652,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynHu34706565@twitter](https://twitter.com/NguynHu34706565/status/1402642890942074885) | advertise |
 | [NguynHu76578551@twitter](https://twitter.com/NguynHu76578551/status/1391823326327164929) | advertise |
 | [nguynhu96942894@twitter](https://twitter.com/nguynhu96942894/status/1580221345602101248) | advertise |
+| [NguynHuyHin12@twitter](https://twitter.com/NguynHuyHin12/status/1680093708006608896) | advertise |
 | [Nguynip53785512@twitter](https://twitter.com/Nguynip53785512/status/1552750041118298112) | advertise |
 | [NguynKan9@twitter](https://twitter.com/NguynKan9/status/1386665140741828617) | advertise |
 | [NguynKh45081522@twitter](https://twitter.com/NguynKh45081522/status/1397233488189960197) | advertise |
