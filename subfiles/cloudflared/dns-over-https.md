@@ -38,6 +38,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | altendorfme.com | Yes |
 | amlegion.org | No |
 | andrewnw.xyz | Yes |
+| anudeep.me | Yes |
 | apad.pro | Yes |
 | apemlegit.my.id | No |
 | apigw.online | Yes |
@@ -94,6 +95,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | digitale-gesellschaft.ch | No |
 | digitalsize.net | No |
 | disconnect.app | Yes |
+| dns-free.link | Yes |
 | dns.google | No |
 | dns.pub | No |
 | dns.sb | Yes |
@@ -374,8 +376,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 183 |
+| Cloudflare | 185 |
 | Normal | 172 |
 
 
-### 51.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
