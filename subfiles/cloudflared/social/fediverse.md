@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,909 |
+| com | 6,910 |
 | social | 4,336 |
 | net | 3,519 |
-| org | 2,383 |
+| org | 2,384 |
 | de | 2,209 |
 
 
@@ -368,6 +368,7 @@ Here's a list of public Fediverse services.
 | `2pp.uk` | Yes |
 | `2printers1cups.com` | Yes |
 | `2pxnl.de` | No |
+| `2quiet2market.com` | No |
 | `2snc.eu` | No |
 | `2soc.net` | No |
 | `2tails2arms.tk` | No |
@@ -20318,6 +20319,7 @@ Here's a list of public Fediverse services.
 | `kirk.social` | No |
 | `kirkmanskorner.com` | No |
 | `kirota.net` | No |
+| `kirov.one` | No |
 | `kirstenmalzwei.de` | No |
 | `kiru.fun` | No |
 | `kirv.in` | Yes |
@@ -26026,6 +26028,7 @@ Here's a list of public Fediverse services.
 | `mooooo.ooo` | Yes |
 | `mooose.org` | No |
 | `moop.uk` | No |
+| `moorditj.xyz` | No |
 | `moorefam.net` | No |
 | `moorepixel.com` | No |
 | `moores.org` | No |
@@ -33964,6 +33967,7 @@ Here's a list of public Fediverse services.
 | `rollenspiel.social` | No |
 | `roller.dog` | No |
 | `rollerderby.social` | No |
+| `rollingcode.org` | Yes |
 | `rollnotice.com` | Yes |
 | `roman.forum` | No |
 | `romancebooks.space` | No |
@@ -35384,6 +35388,7 @@ Here's a list of public Fediverse services.
 | `selfhost.eu` | No |
 | `selfhost.lol` | Yes |
 | `selfhost.services` | Yes |
+| `selfhost.uk` | No |
 | `selfhosted.cafe` | Yes |
 | `selfhosted.no` | No |
 | `selfhosted.social` | Yes |
@@ -45421,8 +45426,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,137 |
-| Normal | 33,241 |
+| Cloudflare | 12,138 |
+| Normal | 33,245 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
