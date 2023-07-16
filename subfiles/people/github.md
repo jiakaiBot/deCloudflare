@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [(amendment amendments API): random 520 error response](https://github.com/LibraryOfCongress/api.congress.gov/issues/115)
 - [Failed to import -](https://github.com/esm-dev/esm.sh/issues/683)
 - [D1 type error](https://github.com/james-elicx/cf-bindings-proxy/issues/8)
 - [iptorrents (updating) Error: Error solving the challenge. Timeout after 55.0 seconds.](https://github.com/FlareSolverr/FlareSolverr/issues/817)
