@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,917 |
-| social | 4,341 |
-| net | 3,522 |
-| org | 2,386 |
+| social | 4,342 |
+| net | 3,524 |
+| org | 2,387 |
 | de | 2,211 |
 
 
@@ -6078,6 +6078,7 @@ Here's a list of public Fediverse services.
 | `catona.cloud` | No |
 | `catonmat.net` | No |
 | `catoptric.com` | No |
+| `catposter.club` | No |
 | `catposting.agency` | Yes |
 | `catpowered.net` | Yes |
 | `catpp.eu` | No |
@@ -15317,6 +15318,7 @@ Here's a list of public Fediverse services.
 | `grappling.ca` | No |
 | `gras.social` | No |
 | `grasserisen.de` | No |
+| `grassia.casa` | Yes |
 | `grassroot.space` | No |
 | `grasstruths.co.za` | No |
 | `gratitude.blog` | No |
@@ -17391,6 +17393,7 @@ Here's a list of public Fediverse services.
 | `ical.ist` | Yes |
 | `icalo.net` | Yes |
 | `ican.codes` | Yes |
+| `icanhasinter.net` | Yes |
 | `icante.ventures` | No |
 | `icanteventoot.help` | No |
 | `icb.at` | No |
@@ -19820,6 +19823,7 @@ Here's a list of public Fediverse services.
 | `kassepied.org` | No |
 | `kassius.org` | No |
 | `kastelo.dev` | No |
+| `kastelo.social` | No |
 | `kastube.com` | No |
 | `kasu.me` | No |
 | `kasukabe-leon.me` | Yes |
@@ -24539,6 +24543,7 @@ Here's a list of public Fediverse services.
 | `mbnetworx.net` | No |
 | `mbober.de` | No |
 | `mbombelli.cf` | No |
+| `mbonnin.net` | No |
 | `mbstdn.tokyo` | No |
 | `mbuf.net` | No |
 | `mburakov.org` | No |
@@ -26730,6 +26735,7 @@ Here's a list of public Fediverse services.
 | `mustodon.net` | No |
 | `mustodon.xyz` | No |
 | `musty.io` | No |
+| `musubi.moe` | Yes |
 | `musubi.space` | No |
 | `mutant.cz` | No |
 | `mutant.pizza` | No |
@@ -28046,6 +28052,7 @@ Here's a list of public Fediverse services.
 | `ninjacool.com` | No |
 | `ninjagroup.moe` | No |
 | `ninjaturtle.xyz` | No |
+| `ninjaunicorn.win` | Yes |
 | `ninjawedding.org` | No |
 | `ninopeters.de` | No |
 | `nintendojo.fr` | No |
@@ -30605,6 +30612,7 @@ Here's a list of public Fediverse services.
 | `penguicon.social` | No |
 | `penguin42.com` | No |
 | `penguinability.net` | No |
+| `penguinhub.org` | Yes |
 | `penguinpete.com` | No |
 | `penguinproducer.com` | Yes |
 | `penguins.win` | Yes |
@@ -34344,6 +34352,7 @@ Here's a list of public Fediverse services.
 | `rverse.club` | Yes |
 | `rvf6.com` | Yes |
 | `rvmathy.net` | No |
+| `rvn.ovh` | No |
 | `rvnomadphotos.com` | Yes |
 | `rw-net.de` | No |
 | `rw501.de` | No |
@@ -36388,6 +36397,7 @@ Here's a list of public Fediverse services.
 | `sleepy.kiev.ua` | No |
 | `sleepy.social` | Yes |
 | `sleepy.tube` | No |
+| `sleepybear.dev` | Yes |
 | `sleepybois.social` | No |
 | `sleepycrew.social` | No |
 | `sleepyfox.social` | No |
@@ -40844,6 +40854,7 @@ Here's a list of public Fediverse services.
 | `travnewmatic.com` | Yes |
 | `trax.dance` | No |
 | `traxo.net` | Yes |
+| `trayd.xyz` | No |
 | `traydent.info` | No |
 | `trayvonmart.in` | Yes |
 | `trblcorp.com` | Yes |
@@ -44971,7 +44982,7 @@ Here's a list of public Fediverse services.
 | `yuuki.pictures` | No |
 | `yuukoma.online` | Yes |
 | `yuukosan.xyz` | No |
-| `yuustan.space` | No |
+| `yuustan.space` | Yes |
 | `yuuta.moe` | Yes |
 | `yuv.pink` | Yes |
 | `yuwinet.com` | No |
@@ -45473,8 +45484,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,155 |
-| Normal | 33,275 |
+| Cloudflare | 12,162 |
+| Normal | 33,279 |
 
 
 ### 26.8% of public Fediverse services are using Cloudflare.
