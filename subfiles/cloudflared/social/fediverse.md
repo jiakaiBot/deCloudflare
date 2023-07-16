@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,917 |
 | social | 4,342 |
-| net | 3,527 |
+| net | 3,528 |
 | org | 2,388 |
 | de | 2,211 |
 
@@ -3686,6 +3686,7 @@ Here's a list of public Fediverse services.
 | `batichi.net` | No |
 | `batlord.org` | Yes |
 | `batsense.net` | Yes |
+| `battle7.net` | No |
 | `battleangels.net` | No |
 | `battlefield.social` | No |
 | `battlepenguin.video` | No |
@@ -18360,7 +18361,7 @@ Here's a list of public Fediverse services.
 | `itgrity.social` | No |
 | `ithe.dev` | Yes |
 | `ithome.dk` | Yes |
-| `itjust.works` | No |
+| `itjust.works` | Yes |
 | `itland.no` | No |
 | `itm.osaka` | No |
 | `itm402.com` | No |
@@ -31723,6 +31724,7 @@ Here's a list of public Fediverse services.
 | `posthat.ca` | Yes |
 | `posting.institute` | No |
 | `posting.party` | Yes |
+| `posting.solutions` | No |
 | `postingbrain.com` | No |
 | `postmarketos.org` | No |
 | `postmastodon.com` | No |
@@ -34182,6 +34184,7 @@ Here's a list of public Fediverse services.
 | `rpsychologist.com` | No |
 | `rpverse.club` | No |
 | `rpvortex.online` | No |
+| `rpy.xyz` | Yes |
 | `rpz.su` | No |
 | `rrgeorge.live` | No |
 | `rrrrrichard.social` | Yes |
@@ -44969,6 +44972,7 @@ Here's a list of public Fediverse services.
 | `yuriposter.club` | No |
 | `yurisora.com` | No |
 | `yuritopia.net` | No |
+| `yuru.moe` | Yes |
 | `yuru.site` | Yes |
 | `yuru.studio` | Yes |
 | `yuruchara.info` | Yes |
@@ -45493,8 +45497,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,168 |
-| Normal | 33,282 |
+| Cloudflare | 12,171 |
+| Normal | 33,283 |
 
 
 ### 26.8% of public Fediverse services are using Cloudflare.
