@@ -590,6 +590,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlexaCodes@twitter](https://twitter.com/AlexaCodes/status/1461281945833275394) | advertise |
 | [AlexAlzandani@twitter](https://twitter.com/AlexAlzandani/status/1577353823936565250) | advertise |
 | [ALEXAND07389780@twitter](https://twitter.com/ALEXAND07389780/status/1380908807614685187) | advertise |
+| [Alexand45058239@twitter](https://twitter.com/Alexand45058239/status/1680428191737937920) | advertise |
 | [ALEXAND69307319@twitter](https://twitter.com/ALEXAND69307319/status/1380037455068471297) | advertise |
 | [Alexand88431908@twitter](https://twitter.com/Alexand88431908/status/1593303249431527425) | advertise |
 | [alexbal@twitter](https://twitter.com/alexbal/status/1483283813492879363) | advertise |
