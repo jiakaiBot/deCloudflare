@@ -4094,6 +4094,7 @@ Do not create new issue or we will close it as duplicate.
 | [HanJun2047@twitter](https://twitter.com/HanJun2047/status/1385163134193729536) | advertise |
 | [HanLee53520521@twitter](https://twitter.com/HanLee53520521/status/1386303972403650564) | advertise |
 | [hanlinhtet4611@twitter](https://twitter.com/hanlinhtet4611/status/1610963557948227590) | advertise |
+| [HannahB32372446@twitter](https://twitter.com/HannahB32372446/status/1680592840923987969) | advertise |
 | [hanni1256@twitter](https://twitter.com/hanni1256/status/1400512977510481927) | advertise |
 | [HannibalNetwork@twitter](https://twitter.com/HannibalNetwork/status/1546062155077881856) | advertise |
 | [HannifinSh39762@twitter](https://twitter.com/HannifinSh39762/status/1646889921024786437) | advertise |
@@ -5310,6 +5311,7 @@ Do not create new issue or we will close it as duplicate.
 | [jcampos2208@twitter](https://twitter.com/jcampos2208/status/1399856800208404486) | advertise |
 | [JDbelem1@twitter](https://twitter.com/JDbelem1/status/1384610630917922817) | advertise |
 | [jdiazfar@twitter](https://twitter.com/jdiazfar/status/1526666559053348866) | advertise |
+| [jdjdjdj_dj45597@twitter](https://twitter.com/jdjdjdj_dj45597/status/1680593627440107520) | advertise |
 | [jdjs35017027@twitter](https://twitter.com/jdjs35017027/status/1489619422482337792) | advertise |
 | [jdmadeitoak@twitter](https://twitter.com/jdmadeitoak/status/1517686348785668097) | advertise |
 | [Jdndnd02230778@twitter](https://twitter.com/Jdndnd02230778/status/1642917136849944577) | advertise |
