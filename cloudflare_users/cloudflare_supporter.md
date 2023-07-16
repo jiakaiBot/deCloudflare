@@ -12258,6 +12258,7 @@ Do not create new issue or we will close it as duplicate.
 | [tomyperez@twitter](https://twitter.com/tomyperez/status/1558196423509917697) | advertise |
 | [Ton31455039@twitter](https://twitter.com/Ton31455039/status/1622201049263255553) | advertise |
 | [ton51693387@twitter](https://twitter.com/ton51693387/status/1474890465623171073) | advertise |
+| [TongLy92511936@twitter](https://twitter.com/TongLy92511936/status/1680378683008389120) | advertise |
 | [tongqualin@twitter](https://twitter.com/tongqualin/status/1515406293833777154) | advertise |
 | [TongTon27759984@twitter](https://twitter.com/TongTon27759984/status/1397107114468790272) | advertise |
 | [toni_raifi@twitter](https://twitter.com/toni_raifi/status/1377735232519086080) | advertise |
