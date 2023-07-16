@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [getting 403 errors from github actions](https://github.com/jihchi/mermaid.ink/issues/212)
 - [Testing Cloudflare Bindings locally](https://github.com/sveltejs/kit/issues/10389)
 - [Fetching JSON is blocked or return opaque answer](https://github.com/dwyl/hits/issues/240)
 - [Double NAT + Firewall?](https://github.com/natecarlson/quectel-rgmii-configuration-notes/issues/4)
