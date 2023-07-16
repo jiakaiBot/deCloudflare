@@ -7295,7 +7295,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -27430,6 +27430,7 @@ Here's a list of public Fediverse services.
 | `nekokawa.net` | Yes |
 | `nekol.cc` | Yes |
 | `nekomimi.jp` | No |
+| `nekomimi.party` | Yes |
 | `nekomimi.yokohama` | Yes |
 | `nekomimisskey.com` | Yes |
 | `nekomin.jp` | Yes |
@@ -45459,8 +45460,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,146 |
-| Normal | 33,270 |
+| Cloudflare | 12,148 |
+| Normal | 33,269 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
