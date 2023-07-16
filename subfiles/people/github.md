@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Testing Cloudflare Bindings locally](https://github.com/sveltejs/kit/issues/10389)
 - [Fetching JSON is blocked or return opaque answer](https://github.com/dwyl/hits/issues/240)
 - [Double NAT + Firewall?](https://github.com/natecarlson/quectel-rgmii-configuration-notes/issues/4)
 - [(amendment amendments API): random 520 error response](https://github.com/LibraryOfCongress/api.congress.gov/issues/115)
