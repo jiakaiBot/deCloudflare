@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,914 |
+| com | 6,917 |
 | social | 4,341 |
 | net | 3,522 |
-| org | 2,385 |
+| org | 2,386 |
 | de | 2,211 |
 
 
@@ -1266,6 +1266,7 @@ Here's a list of public Fediverse services.
 | `agwa.name` | No |
 | `ahabitual.dev` | No |
 | `ahaldorsen.no` | No |
+| `ahall.se` | No |
 | `ahamiam.us` | No |
 | `ahem.ca` | No |
 | `aheradin.com` | No |
@@ -4936,6 +4937,7 @@ Here's a list of public Fediverse services.
 | `boon.chat` | Yes |
 | `boonchat.xyz` | No |
 | `boony.space` | No |
+| `booop.men` | Yes |
 | `booots.tech` | Yes |
 | `boop.city` | No |
 | `boop.link` | No |
@@ -7744,6 +7746,7 @@ Here's a list of public Fediverse services.
 | `cr8r.gg` | Yes |
 | `crab.garden` | No |
 | `crab.lol` | No |
+| `craba.cab` | Yes |
 | `crabby.fyi` | No |
 | `crabcake.social` | Yes |
 | `crabdance.ca` | Yes |
@@ -17506,6 +17509,7 @@ Here's a list of public Fediverse services.
 | `ifwo.eu` | No |
 | `igda.social` | No |
 | `igelko.space` | No |
+| `igem.org` | Yes |
 | `igjf.social` | No |
 | `igl.ooo` | No |
 | `igloo.cloud` | No |
@@ -18084,6 +18088,7 @@ Here's a list of public Fediverse services.
 | `inventaire.io` | No |
 | `inveos.com` | No |
 | `inverse.moe` | No |
+| `invertebrates.online` | No |
 | `invicious.net` | No |
 | `invillage-outvillage.com` | Yes |
 | `invincible.ink` | No |
@@ -28280,7 +28285,7 @@ Here's a list of public Fediverse services.
 | `noise.rocks` | No |
 | `noise.social` | No |
 | `noisebridge.social` | No |
-| `noisemaker.tokyo` | No |
+| `noisemaker.tokyo` | Yes |
 | `noisemakerbot.social` | No |
 | `noisens.de` | No |
 | `noisome.space` | No |
@@ -29049,6 +29054,7 @@ Here's a list of public Fediverse services.
 | `odyssey346.dev` | Yes |
 | `oe74.net` | No |
 | `oe7drt.com` | Yes |
+| `oedoinfo.com` | Yes |
 | `oekaki.st` | No |
 | `oekakiskey.com` | Yes |
 | `oeks.de` | No |
@@ -35431,6 +35437,7 @@ Here's a list of public Fediverse services.
 | `sellen.net` | No |
 | `selogic.fr` | No |
 | `selq.me` | Yes |
+| `semaj.me.uk` | No |
 | `semaphore.life` | No |
 | `sembei.net` | Yes |
 | `semblanceoffunctionality.com` | No |
@@ -39322,6 +39329,7 @@ Here's a list of public Fediverse services.
 | `the-j.ml` | No |
 | `the-liberator.news` | Yes |
 | `the-mansfields.co.uk` | No |
+| `the-menz.com` | Yes |
 | `the-one.global` | No |
 | `the-orbit.net` | Yes |
 | `the-penguin.de` | No |
@@ -39719,6 +39727,7 @@ Here's a list of public Fediverse services.
 | `theru.xyz` | No |
 | `thesan.space` | No |
 | `thesandbox.net` | No |
+| `thesanewriter.com` | No |
 | `thesatelliteoflove.com` | No |
 | `thesayres.org` | No |
 | `theschussel.eu` | No |
@@ -44501,6 +44510,7 @@ Here's a list of public Fediverse services.
 | `xylinvale.space` | No |
 | `xylonx.com` | Yes |
 | `xymoste.ch` | No |
+| `xynthxolarxylia.xyz` | No |
 | `xytes.net` | No |
 | `xyu.social` | Yes |
 | `xyzyx.org` | No |
@@ -44991,6 +45001,7 @@ Here's a list of public Fediverse services.
 | `z.je` | No |
 | `z0ne.moe` | Yes |
 | `z0ne.social` | Yes |
+| `z0r.co` | No |
 | `z0to1.com` | Yes |
 | `z1lk.net` | No |
 | `z27.ch` | No |
@@ -45460,8 +45471,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,148 |
-| Normal | 33,269 |
+| Cloudflare | 12,154 |
+| Normal | 33,274 |
 
 
-### 26.7% of public Fediverse services are using Cloudflare.
+### 26.8% of public Fediverse services are using Cloudflare.
