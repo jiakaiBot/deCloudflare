@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,917 |
-| social | 4,342 |
+| social | 4,344 |
 | net | 3,528 |
 | org | 2,388 |
 | de | 2,211 |
@@ -9653,6 +9653,7 @@ Here's a list of public Fediverse services.
 | `digitalmethods.net` | No |
 | `digitalmoney.social` | No |
 | `digitalnomad.social` | No |
+| `digitalnomads.social` | Yes |
 | `digitalog.it` | No |
 | `digitalpharma.social` | No |
 | `digitalronin.uk` | No |
@@ -28529,6 +28530,7 @@ Here's a list of public Fediverse services.
 | `notfunk.radio` | No |
 | `notglossy.com` | Yes |
 | `notherweb.com` | No |
+| `nothing-ever.works` | Yes |
 | `nothing.rodeo` | No |
 | `nothing.run` | No |
 | `nothing.town` | No |
@@ -42789,6 +42791,7 @@ Here's a list of public Fediverse services.
 | `votho.social` | No |
 | `vov.camp` | No |
 | `vovard.net` | No |
+| `vox.social` | Yes |
 | `voxcry.pt` | No |
 | `voxint.net` | Yes |
 | `voxint.pw` | Yes |
@@ -45498,7 +45501,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,172 |
+| Cloudflare | 12,175 |
 | Normal | 33,283 |
 
 
