@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,917 |
 | social | 4,342 |
-| net | 3,524 |
-| org | 2,387 |
+| net | 3,527 |
+| org | 2,388 |
 | de | 2,211 |
 
 
@@ -4941,6 +4941,7 @@ Here's a list of public Fediverse services.
 | `booots.tech` | Yes |
 | `boop.city` | No |
 | `boop.link` | No |
+| `boop.network` | No |
 | `boop.town` | Yes |
 | `boopsnoot.de` | No |
 | `boopsnoot.gq` | Yes |
@@ -8698,6 +8699,7 @@ Here's a list of public Fediverse services.
 | `darknight-coffee.de` | No |
 | `darknight-coffee.eu` | No |
 | `darknight-coffee.org` | No |
+| `darkoptimism.org` | No |
 | `darkou.fr` | No |
 | `darkpeak.org` | No |
 | `darkpenguin.social` | No |
@@ -8884,6 +8886,7 @@ Here's a list of public Fediverse services.
 | `dawdle.space` | Yes |
 | `dawdling.net` | No |
 | `dawidpotocki.com` | Yes |
+| `dawsonclan.net` | No |
 | `dax.moe` | No |
 | `dayaman.work` | No |
 | `daydream.cafe` | No |
@@ -15059,6 +15062,7 @@ Here's a list of public Fediverse services.
 | `gobelet.com` | No |
 | `goblackcat.com` | Yes |
 | `goblackcat.net` | Yes |
+| `goblackcat.xyz` | Yes |
 | `goblfc.org` | Yes |
 | `goblin.camp` | No |
 | `goblin.expert` | No |
@@ -16186,6 +16190,7 @@ Here's a list of public Fediverse services.
 | `headhearthands.xyz` | No |
 | `headmat.es` | No |
 | `headpat.cafe` | Yes |
+| `headpat.exchange` | No |
 | `headpat.moe` | No |
 | `headpats.cafe` | Yes |
 | `headpats.org` | Yes |
@@ -16828,7 +16833,7 @@ Here's a list of public Fediverse services.
 | `hombr.us` | Yes |
 | `homd.xyz` | Yes |
 | `home-of-commons.org` | No |
-| `home.kg` | No |
+| `home.kg` | Yes |
 | `home.social` | No |
 | `home31.pw` | Yes |
 | `homebrewer.social` | Yes |
@@ -16951,6 +16956,7 @@ Here's a list of public Fediverse services.
 | `hoshi.garden` | Yes |
 | `hoshipaso.net` | Yes |
 | `hoshisaki-h.com` | Yes |
+| `hosimati.net` | Yes |
 | `hosnet.fr` | No |
 | `hosszu.social` | No |
 | `host116.ru` | No |
@@ -28385,7 +28391,7 @@ Here's a list of public Fediverse services.
 | `nooble.cloud` | Yes |
 | `noodle.social` | No |
 | `noods.fun` | Yes |
-| `noogs.me` | No |
+| `noogs.me` | Yes |
 | `noon.social` | No |
 | `noordstar.me` | No |
 | `noorul.xyz` | No |
@@ -30307,6 +30313,7 @@ Here's a list of public Fediverse services.
 | `pars.ee` | No |
 | `parsaranjbar.com` | No |
 | `parsec.social` | No |
+| `parta.ge` | Yes |
 | `partecipa.digital` | No |
 | `parti-science.africa` | No |
 | `partiarazem.pl` | Yes |
@@ -31503,6 +31510,7 @@ Here's a list of public Fediverse services.
 | `pointofviewpoint.com` | No |
 | `pointsecu.fr` | No |
 | `poisson.me` | Yes |
+| `poit.io` | No |
 | `poitr.us` | Yes |
 | `poittevin.fr` | No |
 | `pojyo.work` | No |
@@ -41131,6 +41139,7 @@ Here's a list of public Fediverse services.
 | `tsuraine.net` | No |
 | `tsurapoyo.com` | No |
 | `tsuruga.net` | No |
+| `tsuyure.net` | Yes |
 | `tsyesika.se` | No |
 | `tta.wtf` | Yes |
 | `ttanimichi.com` | No |
@@ -45484,8 +45493,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,162 |
-| Normal | 33,279 |
+| Cloudflare | 12,168 |
+| Normal | 33,282 |
 
 
 ### 26.8% of public Fediverse services are using Cloudflare.
