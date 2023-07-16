@@ -7136,6 +7136,7 @@ Do not create new issue or we will close it as duplicate.
 | [malcolmduke5@twitter](https://twitter.com/malcolmduke5/status/1496855708897271808) | advertise |
 | [MalcolmMellon@twitter](https://twitter.com/MalcolmMellon/status/1480940477180481536) | advertise |
 | [MalcolmMyat@twitter](https://twitter.com/MalcolmMyat/status/1555036528480759808) | advertise |
+| [MaleeshShanuka@twitter](https://twitter.com/MaleeshShanuka/status/1680524623773925380) | advertise |
 | [malementari@twitter](https://twitter.com/malementari/status/1389639358957854723) | advertise |
 | [mali7864266@twitter](https://twitter.com/mali7864266/status/1637140057952772096) | advertise |
 | [MaliJashwant@twitter](https://twitter.com/MaliJashwant/status/1381653419732074500) | advertise |
