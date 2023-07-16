@@ -30145,6 +30145,7 @@ Here's a list of public Fediverse services.
 | `pajd.org` | No |
 | `pakaben.cf` | No |
 | `paktodon.asia` | No |
+| `pal-mate.jp` | Yes |
 | `pal.camp` | No |
 | `pal.icu` | No |
 | `paladines.ec` | No |
@@ -45497,7 +45498,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,171 |
+| Cloudflare | 12,172 |
 | Normal | 33,283 |
 
 
