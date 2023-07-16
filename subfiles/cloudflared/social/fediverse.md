@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,913 |
-| social | 4,340 |
-| net | 3,520 |
-| org | 2,384 |
+| com | 6,914 |
+| social | 4,341 |
+| net | 3,522 |
+| org | 2,385 |
 | de | 2,211 |
 
 
@@ -2256,6 +2256,7 @@ Here's a list of public Fediverse services.
 | `antrejeuxstudio.fr` | Yes |
 | `antria.io` | No |
 | `antricks.dev` | No |
+| `antsu.net` | Yes |
 | `anttirt.net` | No |
 | `anturix.de` | No |
 | `anubis.social` | No |
@@ -4692,6 +4693,7 @@ Here's a list of public Fediverse services.
 | `bluechakra.cloud` | No |
 | `bluecifer.social` | Yes |
 | `bluecore.net` | No |
+| `blueday.blue` | No |
 | `bluedd.it` | No |
 | `bluediabetes.org` | No |
 | `blueeyedsub.com` | No |
@@ -17765,6 +17767,7 @@ Here's a list of public Fediverse services.
 | `indiegamedev.online` | No |
 | `indiegames.online` | No |
 | `indiegamesdevel.com` | No |
+| `indiegrab.net` | No |
 | `indiehackers.social` | Yes |
 | `indiepocalypse.social` | No |
 | `indiepop.band` | No |
@@ -25658,6 +25661,7 @@ Here's a list of public Fediverse services.
 | `mk.gs` | Yes |
 | `mk1.io` | Yes |
 | `mk39.xyz` | No |
+| `mkacg.social` | Yes |
 | `mkakh.com` | No |
 | `mkaraki.net` | Yes |
 | `mkdir.uk` | Yes |
@@ -28496,6 +28500,7 @@ Here's a list of public Fediverse services.
 | `note.computer` | No |
 | `note.rodeo` | No |
 | `notebook.yokohama` | No |
+| `notec.org` | No |
 | `notetoself.co.uk` | Yes |
 | `notez4all.tech` | Yes |
 | `notfound.work` | No |
@@ -38571,6 +38576,7 @@ Here's a list of public Fediverse services.
 | `takaion.net` | Yes |
 | `takamoriai.co` | No |
 | `takanotume24.com` | Yes |
+| `takasitaku.com` | Yes |
 | `take.farm` | No |
 | `takebackourtech.org` | No |
 | `takedown.sh` | No |
@@ -45453,8 +45459,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,143 |
-| Normal | 33,267 |
+| Cloudflare | 12,146 |
+| Normal | 33,270 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
