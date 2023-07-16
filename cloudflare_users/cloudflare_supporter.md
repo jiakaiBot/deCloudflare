@@ -1073,6 +1073,7 @@ Do not create new issue or we will close it as duplicate.
 | [AsadAmer13@twitter](https://twitter.com/AsadAmer13/status/1396798484091707396) | advertise |
 | [Asadshahbaz1993@twitter](https://twitter.com/Asadshahbaz1993/status/1380767370411704320) | advertise |
 | [AsakzaiNaser@twitter](https://twitter.com/AsakzaiNaser/status/1386360634414178308) | advertise |
+| [AsbjrnBach1@twitter](https://twitter.com/AsbjrnBach1/status/1679903980975976448) | advertise |
 | [asdasd37687097@twitter](https://twitter.com/asdasd37687097/status/1577761010768875522) | advertise |
 | [ASD_jp@twitter](https://twitter.com/ASD_jp/status/1576210124296683522) | advertise |
 | [aseprohimat71@twitter](https://twitter.com/aseprohimat71/status/1469370558076751873) | advertise |
@@ -3156,6 +3157,7 @@ Do not create new issue or we will close it as duplicate.
 | [D_R_1009@twitter](https://twitter.com/D_R_1009/status/1671064117082488832) | advertise |
 | [E1_CH1v0@twitter](https://twitter.com/E1_CH1v0/status/1557825852720615424) | advertise |
 | [e33f58d9602c454@twitter](https://twitter.com/e33f58d9602c454/status/1578050920956702722) | advertise |
+| [E99_87@twitter](https://twitter.com/E99_87/status/1680464362954272768) | advertise |
 | [EA08937111@twitter](https://twitter.com/EA08937111/status/1530222628421570560) | advertise |
 | [Ea10213@twitter](https://twitter.com/Ea10213/status/1505663566921220101) | advertise |
 | [EagleOneJackBo1@twitter](https://twitter.com/EagleOneJackBo1/status/1394581551501828098) | advertise |
