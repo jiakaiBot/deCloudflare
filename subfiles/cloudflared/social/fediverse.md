@@ -28057,6 +28057,7 @@ Here's a list of public Fediverse services.
 | `nip.io` | Yes |
 | `nipahchan.co` | No |
 | `nipponalba.scot` | No |
+| `nira.one` | No |
 | `nireus.cyou` | Yes |
 | `nireus.icu` | No |
 | `nirgendwoher.eu` | No |
@@ -29493,6 +29494,7 @@ Here's a list of public Fediverse services.
 | `opencoaster.net` | No |
 | `opencocon.org` | No |
 | `opencollective.com` | Yes |
+| `opencourse.kr` | Yes |
 | `opend3.de` | No |
 | `opendan.net` | No |
 | `opendatahacklab.org` | No |
@@ -45471,8 +45473,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,154 |
-| Normal | 33,274 |
+| Cloudflare | 12,155 |
+| Normal | 33,275 |
 
 
 ### 26.8% of public Fediverse services are using Cloudflare.
