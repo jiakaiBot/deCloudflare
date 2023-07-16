@@ -10,13 +10,14 @@
 - **Block Cloudflare** sites. There are better ethical websites on the internet!
   - Return answer will be empty.
 - **Block problematic/unsafe contents**, lists provided by
-  - 1. [My Privacy DNS](https://mypdns.eu.org)
+  - 1. [My Privacy DNS](https://mypdns.eu.org)'
     - Malicious / Malware
     - Spyware
     - Phishing
     - Scamming
     - TypoSquatting
-  - 2. [adware + malware](https://github.com/StevenBlack/hosts/blob/master/readme.md)
+  - 2. StevenBlack's [adware + malware](https://github.com/StevenBlack/hosts/blob/master/readme.md)
+  - Note: We DO NOT censor/filter other things. Please report false positive to above list providers.
 - **Block DNS-rebind attack**.
 
 And hey, if you are network administrator do [block Cloudflare](../block_cloudflare_with/dns.md) for your users!
