@@ -8505,6 +8505,7 @@ Do not create new issue or we will close it as duplicate.
 | [news_scraper@twitter](https://twitter.com/news_scraper/status/1370141469613391875) | advertise |
 | [new_techo@twitter](https://twitter.com/new_techo/status/1588558475851755520) | advertise |
 | [NextAds1@twitter](https://twitter.com/NextAds1/status/1555508312602722304) | advertise |
+| [NextGenTechLLC@twitter](https://twitter.com/NextGenTechLLC/status/1680687533523337216) | advertise |
 | [ne_____34r@twitter](https://twitter.com/ne_____34r/status/1655191577684242433) | advertise |
 | [NftfunmadeX@twitter](https://twitter.com/NftfunmadeX/status/1611882239977000960) | advertise |
 | [NFTsMintMarket@twitter](https://twitter.com/NFTsMintMarket/status/1508599297839104003) | advertise |
