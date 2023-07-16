@@ -2961,7 +2961,7 @@ Here's a list of public Fediverse services.
 | `atomicfridge.net` | No |
 | `atomicpile.info` | No |
 | `atomicpoet.org` | No |
-| `atomicstar.xyz` | Yes |
+| `atomicstar.xyz` | No |
 | `atomium.club` | No |
 | `atommac.com` | No |
 | `ator.cz` | No |
@@ -7293,7 +7293,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9997,7 +9997,7 @@ Here's a list of public Fediverse services.
 | `dogspin.xyz` | Yes |
 | `dogsports.social` | No |
 | `dogwhipping.day` | No |
-| `dogwonder.co.uk` | No |
+| `dogwonder.co.uk` | Yes |
 | `doherty.social` | Yes |
 | `doingmyp.art` | No |
 | `doingtheir.best` | No |
@@ -12130,6 +12130,7 @@ Here's a list of public Fediverse services.
 | `fantashley.dev` | No |
 | `fantastic.earth` | No |
 | `fantastici.de` | No |
+| `fantasyhaven.me` | Yes |
 | `fantorovevo.com` | No |
 | `fantranslation.org` | No |
 | `fanty.xyz` | No |
@@ -13901,7 +13902,7 @@ Here's a list of public Fediverse services.
 | `funkwhale-host.de` | No |
 | `funkwhale.audio` | No |
 | `funkwhale.cf` | Yes |
-| `funkwhale.co.uk` | Yes |
+| `funkwhale.co.uk` | No |
 | `funkwhale.eus` | No |
 | `funkwhale.it` | Yes |
 | `funkwhale.net` | No |
@@ -16966,7 +16967,7 @@ Here's a list of public Fediverse services.
 | `hostux.coffee` | No |
 | `hostux.eu` | No |
 | `hostux.net` | No |
-| `hostux.news` | Yes |
+| `hostux.news` | No |
 | `hostux.rocks` | No |
 | `hostux.social` | No |
 | `hostvoid.net` | Yes |
@@ -30585,7 +30586,7 @@ Here's a list of public Fediverse services.
 | `penfount.ink` | No |
 | `penfount.social` | No |
 | `pengi-san.moe` | Yes |
-| `pengin.club` | Yes |
+| `pengin.club` | No |
 | `pengins.dev` | No |
 | `penguicon.social` | No |
 | `penguin42.com` | No |
@@ -38537,6 +38538,7 @@ Here's a list of public Fediverse services.
 | `taekyeong.me` | No |
 | `taewaloni.net` | No |
 | `tafa.xyz` | Yes |
+| `tafc.gay` | No |
 | `tafelcloud.de` | No |
 | `tafo.co` | No |
 | `tage.tech` | No |
@@ -45451,8 +45453,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,146 |
-| Normal | 33,262 |
+| Cloudflare | 12,143 |
+| Normal | 33,267 |
 
 
 ### 26.7% of public Fediverse services are using Cloudflare.
