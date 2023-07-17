@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,924 |
+| com | 6,925 |
 | social | 4,348 |
-| net | 3,530 |
+| net | 3,531 |
 | org | 2,388 |
-| de | 2,211 |
+| de | 2,212 |
 
 
 - Mastodon, Pleroma, etc
@@ -5397,6 +5397,7 @@ Here's a list of public Fediverse services.
 | `bubbletea.dev` | Yes |
 | `bubbletea.moe` | Yes |
 | `bubuit.net` | No |
+| `buc.ci` | No |
 | `bucchere.com` | Yes |
 | `buceoluegoexisto.com` | No |
 | `buchstoa-tv.at` | No |
@@ -6486,7 +6487,7 @@ Here's a list of public Fediverse services.
 | `chez-risk.in` | No |
 | `chez.chat` | No |
 | `chez.gay` | No |
-| `chez.work` | No |
+| `chez.work` | Yes |
 | `chezgay.ie` | No |
 | `chezjln.xyz` | No |
 | `chezmoi.cloud` | No |
@@ -7848,6 +7849,7 @@ Here's a list of public Fediverse services.
 | `creerunjeuvideo.fr` | No |
 | `creetail-ps.net` | No |
 | `crem.in` | Yes |
+| `cremebrul.ee` | Yes |
 | `cremebrulee.xyz` | No |
 | `cremple.ovh` | No |
 | `crepe.live` | No |
@@ -14534,6 +14536,7 @@ Here's a list of public Fediverse services.
 | `geist.is` | Yes |
 | `geisteskultur.de` | Yes |
 | `geistlib.xyz` | Yes |
+| `gek.li` | Yes |
 | `gekidasa.ink` | No |
 | `gekka.sexy` | Yes |
 | `geknupp.de` | No |
@@ -16194,6 +16197,7 @@ Here's a list of public Fediverse services.
 | `hdr-it.de` | No |
 | `hdr.social` | No |
 | `hdty.in` | No |
+| `headbright.eu` | Yes |
 | `headcannon.xyz` | Yes |
 | `headchecks.club` | No |
 | `headcrack.cf` | No |
@@ -18849,7 +18853,7 @@ Here's a list of public Fediverse services.
 | `jel-tech.com` | Yes |
 | `jeli.kz` | No |
 | `jellicle.org` | Yes |
-| `jelliefrontier.net` | No |
+| `jelliefrontier.net` | Yes |
 | `jellis.co.uk` | No |
 | `jellydonut.me` | No |
 | `jellystyle.social` | No |
@@ -21017,6 +21021,7 @@ Here's a list of public Fediverse services.
 | `kuriuzu.tk` | No |
 | `kurki93.fi` | No |
 | `kurly.xyz` | No |
+| `kuroan.co` | No |
 | `kurofu.com` | No |
 | `kuroharu.xyz` | No |
 | `kuropen.me` | Yes |
@@ -25417,7 +25422,7 @@ Here's a list of public Fediverse services.
 | `minimeadow.art` | No |
 | `minimmill.com` | No |
 | `minin0la.xyz` | Yes |
-| `miningpro362.xyz` | Yes |
+| `miningpro362.xyz` | No |
 | `miningsunshine.com` | No |
 | `mininull.com` | Yes |
 | `minions.social` | No |
@@ -33769,6 +33774,7 @@ Here's a list of public Fediverse services.
 | `rikvoj.tech` | Yes |
 | `rikwithnoc.com` | Yes |
 | `riley-tech.net` | Yes |
+| `riley.lgbt` | No |
 | `rimfaxe.net` | No |
 | `rimkus.it` | No |
 | `rimmer.cloud` | No |
@@ -39042,6 +39048,7 @@ Here's a list of public Fediverse services.
 | `technopagans.de` | No |
 | `technophobian.xyz` | No |
 | `technopolitic.social` | No |
+| `technopunk.space` | Yes |
 | `technosemiotics.net` | No |
 | `technosorcery.net` | No |
 | `techonify.uk` | No |
@@ -41222,6 +41229,7 @@ Here's a list of public Fediverse services.
 | `tuetue.org` | Yes |
 | `tuffert.de` | No |
 | `tuffi.org` | Yes |
+| `tuffidon.de` | No |
 | `tugate.ch` | Yes |
 | `tugging.online` | No |
 | `tuidao.me` | Yes |
@@ -41461,6 +41469,7 @@ Here's a list of public Fediverse services.
 | `txsocial.club` | Yes |
 | `txwb.org` | Yes |
 | `ty-penguin.org.uk` | No |
+| `tyage.net` | No |
 | `tyaku.com` | No |
 | `tyamac.com` | No |
 | `tyazzkey.work` | No |
@@ -42813,6 +42822,7 @@ Here's a list of public Fediverse services.
 | `vostain.net` | No |
 | `voterintegrity.today` | No |
 | `votho.social` | No |
+| `vouaix.com` | No |
 | `vov.camp` | No |
 | `vovard.net` | No |
 | `vox.social` | Yes |
@@ -45528,8 +45538,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,189 |
-| Normal | 33,296 |
+| Cloudflare | 12,194 |
+| Normal | 33,301 |
 
 
 ### 26.8% of public Fediverse services are using Cloudflare.
