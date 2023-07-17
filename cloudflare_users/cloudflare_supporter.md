@@ -202,6 +202,7 @@ Do not create new issue or we will close it as duplicate.
 | [a7medmajzob@twitter](https://twitter.com/a7medmajzob/status/1522912225257697280) | advertise |
 | [a9NTUKB7O8ga7Op@twitter](https://twitter.com/a9NTUKB7O8ga7Op/status/1397954196964470789) | advertise |
 | [A9_21@twitter](https://twitter.com/A9_21/status/1544744648605925377) | advertise |
+| [a29gh@twitter](https://twitter.com/a29gh/status/1680927172712701952) | advertise |
 | [A77med19@twitter](https://twitter.com/A77med19/status/1573221003915927552) | advertise |
 | [a99divx@twitter](https://twitter.com/a99divx/status/1524133254185553923) | advertise |
 | [A31985249Ali@twitter](https://twitter.com/A31985249Ali/status/1555981293883645957) | advertise |
@@ -1765,6 +1766,7 @@ Do not create new issue or we will close it as duplicate.
 | [Blood81903194@twitter](https://twitter.com/Blood81903194/status/1391762333274411010) | advertise |
 | [BlowJob10305560@twitter](https://twitter.com/BlowJob10305560/status/1507861498575556610) | advertise |
 | [Blue10665653@twitter](https://twitter.com/Blue10665653/status/1395706450995990530) | advertise |
+| [blueAmdadul@twitter](https://twitter.com/blueAmdadul/status/1680933707899887618) | advertise |
 | [bluebee7878@twitter](https://twitter.com/bluebee7878/status/1623276700795801602) | advertise |
 | [blueberryfayg0@twitter](https://twitter.com/blueberryfayg0/status/1669524359600558080) | advertise |
 | [bluechip_india@twitter](https://twitter.com/bluechip_india/status/1468831895370625024) | advertise |
@@ -3560,6 +3562,7 @@ Do not create new issue or we will close it as duplicate.
 | [FJBandroid@twitter](https://twitter.com/FJBandroid/status/1552182577045569539) | advertise |
 | [fjdb3@twitter](https://twitter.com/fjdb3/status/1554143968685789184) | advertise |
 | [fjpkagami@twitter](https://twitter.com/fjpkagami/status/1392923842880831488) | advertise |
+| [FKaynam37624@twitter](https://twitter.com/FKaynam37624/status/1680931577801641985) | advertise |
 | [FlameOcho@twitter](https://twitter.com/FlameOcho/status/1390911778918305799) | advertise |
 | [flameoOTP@twitter](https://twitter.com/flameoOTP/status/1643776491417661441) | advertise |
 | [Flaming89718410@twitter](https://twitter.com/Flaming89718410/status/1625812608736452609) | advertise |
@@ -9719,6 +9722,7 @@ Do not create new issue or we will close it as duplicate.
 | [pppaii@twitter](https://twitter.com/pppaii/status/1384511397363556360) | advertise |
 | [pppeuusu@twitter](https://twitter.com/pppeuusu/status/1575894254765101057) | advertise |
 | [PppooiiuuyyP@twitter](https://twitter.com/PppooiiuuyyP/status/1564040885658157062) | advertise |
+| [PpTt6450362054@twitter](https://twitter.com/PpTt6450362054/status/1680938882010087432) | advertise |
 | [ppubg221@twitter](https://twitter.com/ppubg221/status/1380101781640900608) | advertise |
 | [PqqRYfrZlaxxTQU@twitter](https://twitter.com/PqqRYfrZlaxxTQU/status/1388389726369972226) | advertise |
 | [Prabhas024@twitter](https://twitter.com/Prabhas024/status/1397584073204269056) | advertise |
