@@ -2649,6 +2649,7 @@ Do not create new issue or we will close it as duplicate.
 | [DatabaseFault@twitter](https://twitter.com/DatabaseFault/status/1391936951448702978) | advertise |
 | [datblazed1@twitter](https://twitter.com/datblazed1/status/1384399352861315075) | advertise |
 | [DateBoy5@twitter](https://twitter.com/DateBoy5/status/1393474499572535296) | advertise |
+| [DATFNVN@twitter](https://twitter.com/DATFNVN/status/1680964185793122305) | advertise |
 | [DatFriiscoFella@twitter](https://twitter.com/DatFriiscoFella/status/1498121876345790465) | advertise |
 | [Datfro102@twitter](https://twitter.com/Datfro102/status/1494686737360384001) | advertise |
 | [datlanhviet@twitter](https://twitter.com/datlanhviet/status/1670772052465442819) | advertise |
