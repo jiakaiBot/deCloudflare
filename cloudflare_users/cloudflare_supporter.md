@@ -686,6 +686,7 @@ Do not create new issue or we will close it as duplicate.
 | [Altonsystem@twitter](https://twitter.com/Altonsystem/status/1577764244493373466) | advertise |
 | [altwops@twitter](https://twitter.com/altwops/status/1394378036548571137) | advertise |
 | [Alucard61231443@twitter](https://twitter.com/Alucard61231443/status/1407179688439468039) | advertise |
+| [AlvarezIze53328@twitter](https://twitter.com/AlvarezIze53328/status/1681062141435027456) | advertise |
 | [AlvinKigen@twitter](https://twitter.com/AlvinKigen/status/1382025365930016776) | advertise |
 | [alvinlaz1596@twitter](https://twitter.com/alvinlaz1596/status/1673994539340537860) | advertise |
 | [Alvinn_Garcia@twitter](https://twitter.com/Alvinn_Garcia/status/1384722685666598914) | advertise |
