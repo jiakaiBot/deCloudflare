@@ -1435,6 +1435,7 @@ Do not create new issue or we will close it as duplicate.
 | [babak08329399@twitter](https://twitter.com/babak08329399/status/1635000952829927424) | advertise |
 | [babak_89@twitter](https://twitter.com/babak_89/status/1581073332220272640) | advertise |
 | [BabarAkhbar@twitter](https://twitter.com/BabarAkhbar/status/1657686355231801350) | advertise |
+| [Babatunde487@twitter](https://twitter.com/Babatunde487/status/1681028460603473920) | advertise |
 | [babayagaofIndia@twitter](https://twitter.com/babayagaofIndia/status/1394759766845444101) | advertise |
 | [babcock_house@twitter](https://twitter.com/babcock_house/status/1665858169032040449) | advertise |
 | [babitea239@twitter](https://twitter.com/babitea239/status/1552152085956661249) | advertise |
