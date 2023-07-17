@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,926 |
-| social | 4,349 |
+| com | 6,929 |
+| social | 4,350 |
 | net | 3,533 |
 | org | 2,390 |
 | de | 2,212 |
@@ -14832,6 +14832,7 @@ Here's a list of public Fediverse services.
 | `girldick.quest` | Yes |
 | `girllich.link` | No |
 | `girlmeow.autos` | No |
+| `girls-are.gay` | Yes |
 | `girlscantest.xyz` | No |
 | `girlslove.pink` | No |
 | `girlthing.chat` | No |
@@ -21705,6 +21706,7 @@ Here's a list of public Fediverse services.
 | `lemm.live` | Yes |
 | `lemma.tk` | No |
 | `lemmerz.org` | Yes |
+| `lemmi.social` | Yes |
 | `lemmie.be` | No |
 | `lemming.quest` | No |
 | `lemmings.me` | No |
@@ -27581,6 +27583,7 @@ Here's a list of public Fediverse services.
 | `nerdarena.de` | No |
 | `nerdbin.social` | No |
 | `nerdbutler.com` | Yes |
+| `nerdcast.space` | No |
 | `nerdcave.eu` | Yes |
 | `nerdcave.site` | No |
 | `nerdcave.us` | No |
@@ -27626,6 +27629,7 @@ Here's a list of public Fediverse services.
 | `nerds.social` | No |
 | `nerdstadt.de` | No |
 | `nerdsteria.com` | No |
+| `nerdszondergrenzen.nl` | Yes |
 | `nerdtreff.it` | No |
 | `nerdvittles.com` | No |
 | `nerdworks.casa` | Yes |
@@ -36577,6 +36581,7 @@ Here's a list of public Fediverse services.
 | `smol.blog` | Yes |
 | `smol.boo` | No |
 | `smol.club` | No |
+| `smolhaj.space` | No |
 | `smolkitty.me` | No |
 | `smolnet.org` | No |
 | `smoltech.us` | Yes |
@@ -40041,6 +40046,7 @@ Here's a list of public Fediverse services.
 | `threatpost.com` | No |
 | `threddy.social` | No |
 | `threefoldcloud.com` | No |
+| `threehundredthirtyeight.com` | No |
 | `threemaxims.com` | No |
 | `threshold-zero.com` | No |
 | `thriving.party` | No |
@@ -42173,6 +42179,7 @@ Here's a list of public Fediverse services.
 | `uwu.today` | Yes |
 | `uwu.town` | Yes |
 | `uwucocoa.moe` | Yes |
+| `uwunifi.com` | Yes |
 | `uwuwatch.club` | Yes |
 | `uwyn.net` | No |
 | `uxbrad.com` | No |
@@ -42561,6 +42568,7 @@ Here's a list of public Fediverse services.
 | `vidy.casa` | No |
 | `vidya.cafe` | Yes |
 | `vidyagam.es` | Yes |
+| `vidyaley.com` | No |
 | `vief.email` | No |
 | `vielfalt-begegnung.de` | No |
 | `vientos.live` | Yes |
@@ -43548,6 +43556,7 @@ Here's a list of public Fediverse services.
 | `whiteside.social` | No |
 | `whitesmokebbq.social` | No |
 | `whitespashe.uk` | No |
+| `whitetusk.xyz` | Yes |
 | `whitewolfpack.com` | No |
 | `whitewomen.dog` | No |
 | `whiting.life` | Yes |
@@ -45553,8 +45562,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,200 |
-| Normal | 33,310 |
+| Cloudflare | 12,205 |
+| Normal | 33,314 |
 
 
 ### 26.8% of public Fediverse services are using Cloudflare.
