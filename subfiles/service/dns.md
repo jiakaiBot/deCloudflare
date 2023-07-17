@@ -5,8 +5,11 @@
 
 ### About this service
 
-- **No** logs. **No** statistics! **No** collection!! Say NO to data collection, Plain simple DNS ;)
-  - DNS for any devices.
+- **No** logs. **No** statistics! **No** collection!! Say NO to data collection ;)
+  - Plain simple DNS: DNS for any devices.
+  - Unlike those popular public DNS service:
+    - Google Public DNS (8.8.8.8), the default value of Android, Routers and some Linux, [collects information](https://web.archive.org/web/20230618153339/https://developers.google.com/speed/public-dns/privacy) such as queries including requested domain name and IP address.
+    - Cloudflare (1.1.1.1) also [collects information](https://web.archive.org/web/20230626025054/https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver/) such as queryName and IP. They also categorize them and list data publicly.
 - **Block Cloudflare** sites. There are better ethical websites on the internet!
   - Return answer will be empty.
 - **Block problematic/unsafe contents**, lists provided by
