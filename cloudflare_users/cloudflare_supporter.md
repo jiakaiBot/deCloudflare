@@ -7793,6 +7793,7 @@ Do not create new issue or we will close it as duplicate.
 | [moaz26943193@twitter](https://twitter.com/moaz26943193/status/1386781541536210946) | advertise |
 | [Mobareze_Azadi2@twitter](https://twitter.com/Mobareze_Azadi2/status/1581394080588001281) | advertise |
 | [MobBean@twitter](https://twitter.com/MobBean/status/1553300701463207937) | advertise |
+| [Mobin2Abdullal@twitter](https://twitter.com/Mobin2Abdullal/status/1680836512315998209) | advertise |
 | [mobinaa92462540@twitter](https://twitter.com/mobinaa92462540/status/1579404365051613185) | advertise |
 | [mochi33i@twitter](https://twitter.com/mochi33i/status/1566351957778124800) | advertise |
 | [mochiimiin2@twitter](https://twitter.com/mochiimiin2/status/1536445206970650625) | advertise |
