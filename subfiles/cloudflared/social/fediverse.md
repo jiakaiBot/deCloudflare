@@ -29645,6 +29645,7 @@ Here's a list of public Fediverse services.
 | `orbiscognito.com` | No |
 | `orbit.town` | No |
 | `orbital.cafe` | No |
+| `orbital.horse` | Yes |
 | `orbital.rocks` | Yes |
 | `orbital.rodeo` | No |
 | `orbitalstation.one` | No |
@@ -31126,6 +31127,7 @@ Here's a list of public Fediverse services.
 | `pivx.org` | Yes |
 | `piwalker.net` | No |
 | `piweb.be` | No |
+| `pix-n-chill.fr` | No |
 | `pixcture.com` | Yes |
 | `pixel-fed.co.uk` | No |
 | `pixel.kitchen` | No |
@@ -45501,8 +45503,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,175 |
-| Normal | 33,283 |
+| Cloudflare | 12,176 |
+| Normal | 33,284 |
 
 
 ### 26.8% of public Fediverse services are using Cloudflare.
