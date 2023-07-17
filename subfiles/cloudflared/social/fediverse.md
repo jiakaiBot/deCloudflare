@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,925 |
-| social | 4,348 |
-| net | 3,531 |
-| org | 2,388 |
+| social | 4,349 |
+| net | 3,532 |
+| org | 2,389 |
 | de | 2,212 |
 
 
@@ -10216,6 +10216,7 @@ Here's a list of public Fediverse services.
 | `doyle.boston` | No |
 | `dozedkoalamusic.com` | No |
 | `dozine.xyz` | No |
+| `dpb587.me` | No |
 | `dpc.pw` | No |
 | `dpesch.de` | No |
 | `dphin.com` | Yes |
@@ -14942,6 +14943,7 @@ Here's a list of public Fediverse services.
 | `globalrevolution.tv` | No |
 | `globaltech-hub.com` | No |
 | `globalwarming.fun` | No |
+| `globe.pub` | No |
 | `globenet.org` | No |
 | `globetvs.com` | No |
 | `globulous.com` | No |
@@ -16176,6 +16178,7 @@ Here's a list of public Fediverse services.
 | `hazo.club` | Yes |
 | `hazy.cafe` | No |
 | `hazy.su` | No |
+| `hbghosting.social` | No |
 | `hbjy.io` | Yes |
 | `hcaz.io` | No |
 | `hccp.org` | No |
@@ -24503,7 +24506,7 @@ Here's a list of public Fediverse services.
 | `max.town` | Yes |
 | `maxdec.fr` | Yes |
 | `maxim.com` | Yes |
-| `maximalists.club` | No |
+| `maximalists.club` | Yes |
 | `maximandreev.de` | No |
 | `maximbaz.com` | No |
 | `maximeborg.es` | No |
@@ -30621,6 +30624,7 @@ Here's a list of public Fediverse services.
 | `pekoyama.ml` | No |
 | `peladonerd.com` | No |
 | `pelegri.es` | No |
+| `pelica.net` | Yes |
 | `peliculaspro.net` | Yes |
 | `pelliphant.social` | No |
 | `pelzfeld.com` | No |
@@ -33102,6 +33106,7 @@ Here's a list of public Fediverse services.
 | `raymondtec.com` | No |
 | `rayn.bo` | No |
 | `raynor.haus` | Yes |
+| `rayolson.info` | No |
 | `rayonnant.org` | Yes |
 | `rayslava.com` | No |
 | `raysofhope.love` | Yes |
@@ -36446,6 +36451,7 @@ Here's a list of public Fediverse services.
 | `sliekcastopod.com` | No |
 | `sliekcasts.com` | No |
 | `slightly.social` | No |
+| `slightlyawesome.ninja` | Yes |
 | `slightlycyberpunk.com` | No |
 | `slikr.net` | No |
 | `slime.computer` | No |
@@ -41495,6 +41501,7 @@ Here's a list of public Fediverse services.
 | `tynn.is` | No |
 | `typed-hole.org` | No |
 | `typeling1578.dev` | Yes |
+| `typer.sh` | No |
 | `types.pl` | No |
 | `typetura.com` | Yes |
 | `typetura.social` | No |
@@ -44185,6 +44192,7 @@ Here's a list of public Fediverse services.
 | `x5gtrn.com` | No |
 | `x61.sh` | No |
 | `x61.uk` | Yes |
+| `x69.org` | Yes |
 | `x7z.xyz` | Yes |
 | `x84.ch` | No |
 | `x86.social` | No |
@@ -45538,8 +45546,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,194 |
-| Normal | 33,301 |
+| Cloudflare | 12,198 |
+| Normal | 33,305 |
 
 
 ### 26.8% of public Fediverse services are using Cloudflare.
