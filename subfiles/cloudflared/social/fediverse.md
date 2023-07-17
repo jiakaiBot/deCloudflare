@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,921 |
-| social | 4,346 |
+| com | 6,924 |
+| social | 4,347 |
 | net | 3,530 |
 | org | 2,388 |
 | de | 2,211 |
@@ -2871,7 +2871,7 @@ Here's a list of public Fediverse services.
 | `astrocats.social` | No |
 | `astrodon.social` | No |
 | `astrolaboratory.club` | No |
-| `astrologer.cc` | No |
+| `astrologer.cc` | Yes |
 | `astrolovy.com` | No |
 | `astrometrics.xyz` | No |
 | `astronavis.net` | No |
@@ -3439,6 +3439,7 @@ Here's a list of public Fediverse services.
 | `badlywired.com` | No |
 | `badonkahonk.com` | No |
 | `badoptics.biz` | Yes |
+| `bados.dev` | No |
 | `badpacman.io` | Yes |
 | `badpixels.be` | No |
 | `badposts.net` | No |
@@ -16061,6 +16062,7 @@ Here's a list of public Fediverse services.
 | `harukizaemon.com` | No |
 | `harumakizaemon.net` | Yes |
 | `harusamex.com` | No |
+| `harusino.com` | No |
 | `haruska.social` | Yes |
 | `haruyjsn.net` | No |
 | `harvard.edu` | Yes |
@@ -22319,6 +22321,7 @@ Here's a list of public Fediverse services.
 | `literatelifestyle.eu` | No |
 | `literati.org` | No |
 | `literatur.social` | No |
+| `literature.cafe` | Yes |
 | `lithio.fr` | No |
 | `lithium03.info` | Yes |
 | `liti.ca` | Yes |
@@ -31263,6 +31266,7 @@ Here's a list of public Fediverse services.
 | `planetai.re` | No |
 | `planetaludico.com` | No |
 | `planetboca.com` | No |
+| `planetearth.social` | No |
 | `planeteers.social` | No |
 | `planetexpress.me` | No |
 | `planetfifty.one` | Yes |
@@ -35813,6 +35817,7 @@ Here's a list of public Fediverse services.
 | `shinshu.us` | No |
 | `shinshyu.life` | No |
 | `shintarokurachi.tokyo` | No |
+| `shiny-task.com` | Yes |
 | `shiny.gift` | No |
 | `shinymoose.net` | Yes |
 | `shinyuu.net` | No |
@@ -37405,6 +37410,7 @@ Here's a list of public Fediverse services.
 | `squeegee.one` | Yes |
 | `squeep.com` | No |
 | `squeet.me` | No |
+| `squelfland.com` | No |
 | `squid.cafe` | No |
 | `squid.gay` | Yes |
 | `squid.kids` | No |
@@ -40784,6 +40790,7 @@ Here's a list of public Fediverse services.
 | `tradjincal.fr` | No |
 | `tradon.jp` | No |
 | `trafficking.agency` | No |
+| `trafimovi.ch` | Yes |
 | `trafo.social` | No |
 | `tragi.cc` | No |
 | `tragically.social` | No |
@@ -44266,6 +44273,7 @@ Here's a list of public Fediverse services.
 | `xhrpb.com` | No |
 | `xi.ht` | No |
 | `xiachong.ltd` | Yes |
+| `xial.xyz` | Yes |
 | `xianlandia.com` | No |
 | `xianon.net` | Yes |
 | `xiaokunlun.com` | No |
@@ -45517,8 +45525,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,183 |
-| Normal | 33,291 |
+| Cloudflare | 12,188 |
+| Normal | 33,294 |
 
 
 ### 26.8% of public Fediverse services are using Cloudflare.
