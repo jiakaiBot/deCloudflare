@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Intermittent 1101 errors](https://github.com/hinoshiba/news/issues/1320)
 - [CloudFlare Intermittent 1101 errors](https://github.com/MatBenfield/news/issues/16557)
 - [Failed to install node 14 darwin-arm64 version](https://github.com/nvm-sh/nvm/issues/3148)
 - [getting 403 errors from github actions](https://github.com/jihchi/mermaid.ink/issues/212)
