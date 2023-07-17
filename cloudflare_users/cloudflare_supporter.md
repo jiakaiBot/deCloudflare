@@ -5950,6 +5950,7 @@ Do not create new issue or we will close it as duplicate.
 | [KhantThuraZaw9@twitter](https://twitter.com/KhantThuraZaw9/status/1397237559722381313) | advertise |
 | [KhantZi92121217@twitter](https://twitter.com/KhantZi92121217/status/1391575857693483010) | advertise |
 | [KhanZad82079366@twitter](https://twitter.com/KhanZad82079366/status/1547071287473963009) | advertise |
+| [KhashifTalks@twitter](https://twitter.com/KhashifTalks/status/1681067446911004672) | advertise |
 | [khat4455@twitter](https://twitter.com/khat4455/status/1395265578454159362) | advertise |
 | [KhauheloPutsoa1@twitter](https://twitter.com/KhauheloPutsoa1/status/1553349885461667841) | advertise |
 | [Khcon83912691@twitter](https://twitter.com/Khcon83912691/status/1389948037582049282) | advertise |
