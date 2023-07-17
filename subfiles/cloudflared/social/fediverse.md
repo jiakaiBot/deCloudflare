@@ -1559,6 +1559,7 @@ Here's a list of public Fediverse services.
 | `alfheim.ca` | No |
 | `alfi.casa` | No |
 | `alfoeldi.social` | No |
+| `alfredbuehler.ch` | No |
 | `alfter.us` | No |
 | `algarve-pur.de` | No |
 | `algathia.fr` | No |
@@ -29850,7 +29851,7 @@ Here's a list of public Fediverse services.
 | `otofu.xyz` | Yes |
 | `otofune.net` | Yes |
 | `otogamer.me` | No |
-| `otoge.ch` | No |
+| `otoge.ch` | Yes |
 | `otoge.life` | No |
 | `otokono.co` | No |
 | `otokonokodon.jp` | No |
@@ -41119,6 +41120,7 @@ Here's a list of public Fediverse services.
 | `tschopp.net` | Yes |
 | `tschunk.social` | Yes |
 | `tschuss.li` | No |
+| `tsd.zone` | No |
 | `tseivan.com` | No |
 | `tsellhorn.social` | No |
 | `tsia.de` | No |
@@ -45525,8 +45527,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,188 |
-| Normal | 33,294 |
+| Cloudflare | 12,189 |
+| Normal | 33,295 |
 
 
 ### 26.8% of public Fediverse services are using Cloudflare.
