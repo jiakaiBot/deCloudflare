@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,919 |
-| social | 4,344 |
-| net | 3,529 |
+| com | 6,921 |
+| social | 4,346 |
+| net | 3,530 |
 | org | 2,388 |
 | de | 2,211 |
 
@@ -7302,7 +7302,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -12503,6 +12503,7 @@ Here's a list of public Fediverse services.
 | `fedive.rs` | No |
 | `fediver.de` | No |
 | `fediver.se` | No |
+| `fedivers.eu` | No |
 | `fedivers.net` | Yes |
 | `fedivers.paris` | No |
 | `fediverse-lite.com` | Yes |
@@ -12632,6 +12633,7 @@ Here's a list of public Fediverse services.
 | `femboy.capital` | No |
 | `femboy.city` | No |
 | `femboy.im` | No |
+| `femboy.page` | Yes |
 | `femboy.rent` | Yes |
 | `femboy.tokyo` | No |
 | `femboy.world` | Yes |
@@ -13094,6 +13096,7 @@ Here's a list of public Fediverse services.
 | `fluffy.moe` | Yes |
 | `fluffy.social` | Yes |
 | `fluffy.world` | No |
+| `fluffyb.net` | Yes |
 | `fluffyfox.moe` | No |
 | `fluffyheart.me` | No |
 | `fluffyhu.gs` | No |
@@ -15397,6 +15400,7 @@ Here's a list of public Fediverse services.
 | `greg-kennedy.com` | No |
 | `greg.city` | No |
 | `greggallardo.com` | No |
+| `gregism.com` | No |
 | `gregmakes.xyz` | No |
 | `gregmoore.me` | No |
 | `gregnewman.io` | Yes |
@@ -16668,6 +16672,7 @@ Here's a list of public Fediverse services.
 | `hiteihi.me` | No |
 | `hiteklolife.net` | Yes |
 | `hiten.org` | No |
+| `hithr.social` | No |
 | `hitime.space` | No |
 | `hitithere.cafe` | No |
 | `hitkahaloot.tk` | No |
@@ -27646,7 +27651,7 @@ Here's a list of public Fediverse services.
 | `net.scot` | Yes |
 | `net2o.de` | No |
 | `net4sw.com` | No |
-| `netaka.net` | No |
+| `netaka.net` | Yes |
 | `netauthority.org` | No |
 | `netcorsoft.de` | No |
 | `netdc.ca` | No |
@@ -28043,6 +28048,7 @@ Here's a list of public Fediverse services.
 | `nimbus.social` | Yes |
 | `nime.space` | No |
 | `nimmerland.space` | No |
+| `nimmog.uk` | Yes |
 | `ninabobina.me` | Yes |
 | `ninamacnamara.com` | No |
 | `ninapaley.com` | No |
@@ -36697,6 +36703,7 @@ Here's a list of public Fediverse services.
 | `snurget.com` | No |
 | `snuskete.net` | Yes |
 | `snuv.win` | Yes |
+| `snxw.moe` | Yes |
 | `sny.sh` | No |
 | `so-called.life` | No |
 | `so-isser-der-ossi.de` | No |
@@ -39516,6 +39523,7 @@ Here's a list of public Fediverse services.
 | `thefediblock.wiki` | Yes |
 | `thefediverse.ca` | Yes |
 | `thefediverse.net` | No |
+| `thefellas.social` | No |
 | `thefern.social` | No |
 | `theferret.social` | No |
 | `thefire.work` | Yes |
@@ -40372,6 +40380,7 @@ Here's a list of public Fediverse services.
 | `tomatoa.club` | No |
 | `tomatotux.net` | No |
 | `tomaz.me` | Yes |
+| `tombert.com` | No |
 | `tombies.eu` | No |
 | `tombik.click` | No |
 | `tomboy.tech` | Yes |
@@ -45508,8 +45517,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,177 |
-| Normal | 33,288 |
+| Cloudflare | 12,183 |
+| Normal | 33,291 |
 
 
 ### 26.8% of public Fediverse services are using Cloudflare.
