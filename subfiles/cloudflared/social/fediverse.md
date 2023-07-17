@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,917 |
+| com | 6,919 |
 | social | 4,344 |
-| net | 3,528 |
+| net | 3,529 |
 | org | 2,388 |
 | de | 2,211 |
 
@@ -1923,7 +1923,7 @@ Here's a list of public Fediverse services.
 | `anarchast.com` | Yes |
 | `anarchism.online` | Yes |
 | `anarchism.space` | No |
-| `anarchismus.xyz` | No |
+| `anarchismus.xyz` | Yes |
 | `anarchist.gay` | Yes |
 | `anarchistakozosseg.hu` | No |
 | `anarchmusicall.net` | No |
@@ -2907,6 +2907,7 @@ Here's a list of public Fediverse services.
 | `at7s.me` | Yes |
 | `at9.uk` | Yes |
 | `ataber.pw` | Yes |
+| `atamanoushiro.com` | No |
 | `atamisk.net` | No |
 | `atari-frosch.de` | No |
 | `ataricafe.com` | Yes |
@@ -6505,6 +6506,7 @@ Here's a list of public Fediverse services.
 | `chicken.rodeo` | No |
 | `chickenfan.club` | No |
 | `chickenkiller.com` | No |
+| `chico.moe` | No |
 | `chicoca.net` | No |
 | `chidgey.xyz` | No |
 | `chiefgyk3d.com` | Yes |
@@ -7300,7 +7302,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -19892,7 +19894,7 @@ Here's a list of public Fediverse services.
 | `kawi.fr` | No |
 | `kay.sh` | No |
 | `kay26.de` | No |
-| `kayb.ee` | No |
+| `kayb.ee` | Yes |
 | `kayloehmann.de` | No |
 | `kaylon.org` | No |
 | `kazahana.cafe` | Yes |
@@ -26181,7 +26183,7 @@ Here's a list of public Fediverse services.
 | `motemen.works` | Yes |
 | `motern.media` | No |
 | `motewiki.cn` | Yes |
-| `moth.monster` | No |
+| `moth.monster` | Yes |
 | `moth.social` | No |
 | `moth.zone` | No |
 | `motisn.net` | Yes |
@@ -32335,7 +32337,7 @@ Here's a list of public Fediverse services.
 | `pxl.cafe` | No |
 | `pxl.mx` | No |
 | `pxl.pictures` | No |
-| `pxlfd.me` | Yes |
+| `pxlfd.me` | No |
 | `pxlfd.photo` | Yes |
 | `pxlfd.plus` | Yes |
 | `pxlfed.de` | No |
@@ -34270,7 +34272,7 @@ Here's a list of public Fediverse services.
 | `rudism.com` | No |
 | `rudloff.pro` | No |
 | `ruds.io` | Yes |
-| `rudzki.social` | Yes |
+| `rudzki.social` | No |
 | `rued.com` | No |
 | `rueduport.fr` | No |
 | `rueffer.ch` | No |
@@ -37141,6 +37143,7 @@ Here's a list of public Fediverse services.
 | `spanreed.com` | No |
 | `spanring.social` | Yes |
 | `sparced.org` | No |
+| `sparkburst.net` | No |
 | `sparkcommunities.net` | Yes |
 | `sparkforge.pro` | Yes |
 | `sparklef.art` | No |
@@ -44489,6 +44492,7 @@ Here's a list of public Fediverse services.
 | `xsoftware.it` | No |
 | `xst.cl` | No |
 | `xsteadfastx.org` | No |
+| `xsukax.com` | No |
 | `xtaldave.net` | No |
 | `xtendxbox.com` | Yes |
 | `xtenz.xyz` | No |
@@ -44970,6 +44974,7 @@ Here's a list of public Fediverse services.
 | `yurec.online` | No |
 | `yuri.bond` | No |
 | `yuri.camp` | Yes |
+| `yuri.garden` | Yes |
 | `yuri.place` | No |
 | `yuri.ro` | Yes |
 | `yurialbuquerque.dev` | No |
@@ -45503,8 +45508,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,176 |
-| Normal | 33,284 |
+| Cloudflare | 12,177 |
+| Normal | 33,288 |
 
 
 ### 26.8% of public Fediverse services are using Cloudflare.
