@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,924 |
-| social | 4,347 |
+| social | 4,348 |
 | net | 3,530 |
 | org | 2,388 |
 | de | 2,211 |
@@ -40361,6 +40361,7 @@ Here's a list of public Fediverse services.
 | `tokler.com` | No |
 | `tokless.com` | No |
 | `toko-chan.love` | Yes |
+| `tokonatsu.social` | No |
 | `tokoyo.social` | Yes |
 | `toktan.org` | Yes |
 | `tokudan.de` | No |
@@ -45528,7 +45529,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,189 |
-| Normal | 33,295 |
+| Normal | 33,296 |
 
 
 ### 26.8% of public Fediverse services are using Cloudflare.
