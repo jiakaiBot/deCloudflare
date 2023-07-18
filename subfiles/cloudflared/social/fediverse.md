@@ -34442,7 +34442,7 @@ Here's a list of public Fediverse services.
 | `ry.xxx` | No |
 | `ryan-chartier.net` | No |
 | `ryan.su` | Yes |
-| `ryan77627.xyz` | No |
+| `ryan77627.xyz` | Yes |
 | `ryanak.xyz` | Yes |
 | `ryanbooker.com` | No |
 | `ryancarroll.online` | Yes |
@@ -45021,6 +45021,7 @@ Here's a list of public Fediverse services.
 | `yukimochi.io` | Yes |
 | `yukimochi.jp` | Yes |
 | `yukineko.me` | Yes |
+| `yukinobu.jp` | No |
 | `yukioke.com` | No |
 | `yukisou.xyz` | Yes |
 | `yukitsukuura.jp` | No |
@@ -45582,7 +45583,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,220 |
+| Cloudflare | 12,221 |
 | Normal | 33,319 |
 
 
