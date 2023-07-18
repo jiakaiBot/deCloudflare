@@ -1999,6 +1999,7 @@ Do not create new issue or we will close it as duplicate.
 | [byzocker@twitter](https://twitter.com/byzocker/status/1574089902299533315) | advertise |
 | [B_15031998@twitter](https://twitter.com/B_15031998/status/1603078420464037890) | advertise |
 | [b_e_h_n_a_m_@twitter](https://twitter.com/b_e_h_n_a_m_/status/1588595056415424512) | advertise |
+| [b_thnh4@twitter](https://twitter.com/b_thnh4/status/1681269084338663424) | advertise |
 | [c08981422@twitter](https://twitter.com/c08981422/status/1628076000461611009) | advertise |
 | [c09643643@twitter](https://twitter.com/c09643643/status/1385578671075840001) | advertise |
 | [c1e2dcd1b220469@twitter](https://twitter.com/c1e2dcd1b220469/status/1494467616425099264) | advertise |
