@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,933 |
-| social | 4,354 |
-| net | 3,535 |
+| social | 4,355 |
+| net | 3,537 |
 | org | 2,390 |
 | de | 2,212 |
 
@@ -2653,7 +2653,7 @@ Here's a list of public Fediverse services.
 | `artcommastrike.com` | Yes |
 | `arteeh.com` | No |
 | `artemai.art` | No |
-| `artemis.camp` | No |
+| `artemis.camp` | Yes |
 | `artemisia.systems` | Yes |
 | `artemlab.tk` | No |
 | `artermyss.com` | Yes |
@@ -6423,6 +6423,7 @@ Here's a list of public Fediverse services.
 | `chatter.vip` | No |
 | `chatterbook.us` | No |
 | `chatterboxtown.us` | No |
+| `chatterchannel.net` | Yes |
 | `chattergrid.com` | No |
 | `chatterjee.social` | Yes |
 | `chatterly.me` | No |
@@ -18538,7 +18539,7 @@ Here's a list of public Fediverse services.
 | `jabjab.de` | No |
 | `jablon.fr` | Yes |
 | `jabrach.org` | No |
-| `jacaranda.club` | No |
+| `jacaranda.club` | Yes |
 | `jacen.moe` | Yes |
 | `jachiet.com` | No |
 | `jachimowski.nl` | Yes |
@@ -19953,6 +19954,7 @@ Here's a list of public Fediverse services.
 | `kbin.sh` | No |
 | `kbin.social` | Yes |
 | `kbrice.blog` | No |
+| `kbt.social` | No |
 | `kc4kqe.org` | Yes |
 | `kc8jc.com` | No |
 | `kcdon.jp` | No |
@@ -34586,7 +34588,7 @@ Here's a list of public Fediverse services.
 | `sadoway.com` | Yes |
 | `sadposting.space` | No |
 | `sadrarin.com` | No |
-| `sadwizards.club` | No |
+| `sadwizards.club` | Yes |
 | `sadx.moe` | No |
 | `saewyc.ca` | No |
 | `saewyc.email` | No |
@@ -36205,6 +36207,7 @@ Here's a list of public Fediverse services.
 | `sinclear.de` | No |
 | `sincurity.com` | No |
 | `sindastra.de` | Yes |
+| `sindastra.net` | Yes |
 | `sindelka.nl` | Yes |
 | `sindicato.social` | No |
 | `sindominio.net` | No |
@@ -43858,6 +43861,7 @@ Here's a list of public Fediverse services.
 | `wizjenkins.com` | Yes |
 | `wizzards.club` | No |
 | `wizzzard.online` | No |
+| `wjboll.es` | No |
 | `wjbolles.com` | No |
 | `wjlafrance.net` | Yes |
 | `wjt.me.uk` | No |
@@ -45593,8 +45597,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,228 |
-| Normal | 33,322 |
+| Cloudflare | 12,233 |
+| Normal | 33,321 |
 
 
-### 26.8% of public Fediverse services are using Cloudflare.
+### 26.9% of public Fediverse services are using Cloudflare.
