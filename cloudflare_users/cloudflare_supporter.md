@@ -6865,6 +6865,7 @@ Do not create new issue or we will close it as duplicate.
 | [Long38978527@twitter](https://twitter.com/Long38978527/status/1393012103389212675) | advertise |
 | [Long85366984@twitter](https://twitter.com/Long85366984/status/1401922952132583431) | advertise |
 | [Long95573866@twitter](https://twitter.com/Long95573866/status/1549119641729257472) | advertise |
+| [Longcute192762@twitter](https://twitter.com/Longcute192762/status/1681281805968896000) | advertise |
 | [Longgg94106580@twitter](https://twitter.com/Longgg94106580/status/1405171698526154758) | advertise |
 | [Longggisme@twitter](https://twitter.com/Longggisme/status/1398005281842335744) | advertise |
 | [LongNgc29303986@twitter](https://twitter.com/LongNgc29303986/status/1553426795214413824) | advertise |
