@@ -1330,6 +1330,7 @@ Or is this merely a case of simple modesty?
 | Nicholas Allen | Employee |  |
 | Nicholas Comer | Systems Engineer |  |
 | Nicholas Platais | Business Development |  |
+| Nicholas Rhodes | Employee | |
 | Nicholas Skehin | Employee | |
 | Nick Blazier | Employee |  |
 | Nick Downie | Employee |  |
@@ -1375,6 +1376,7 @@ Or is this merely a case of simple modesty?
 | Omer Yoachimik | Austin |  |
 | Onur Karaagaoglu | Employee | |
 | Ooma Guerwan | Customer Development - MENA, London |  |
+| Opeyemi Onikute | Employee | |
 | Oriol Sabate | Employee |  |
 | Oscar Kurniawan | Employee |  |
 | Oscar Pinzon | Employee |  |
