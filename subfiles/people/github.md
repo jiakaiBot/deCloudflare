@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Webhook delete appears broken on 0.2.44](https://github.com/frontegg/terraform-provider-frontegg/issues/103)
 - [v2.2.0 Crashing when using remote playlists](https://github.com/savonet/liquidsoap/issues/3239)
 - [Cloudflare Workers error: Code generation from strings disallowed for this context](https://github.com/linz/cotar/issues/476)
 - [Ourbits.club check-in return Challenge not detected](https://github.com/FlareSolverr/FlareSolverr/issues/824)
