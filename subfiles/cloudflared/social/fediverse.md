@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,933 |
-| social | 4,352 |
-| net | 3,534 |
+| social | 4,354 |
+| net | 3,535 |
 | org | 2,390 |
 | de | 2,212 |
 
@@ -4206,6 +4206,7 @@ Here's a list of public Fediverse services.
 | `bigpod.eu` | No |
 | `bigpod.si` | Yes |
 | `bigrelay.social` | Yes |
+| `bigsecretwebsite.net` | No |
 | `bigshoulders.city` | No |
 | `bigskymastodon.com` | Yes |
 | `bigtastybacon.tk` | No |
@@ -5003,6 +5004,7 @@ Here's a list of public Fediverse services.
 | `borosa.social` | No |
 | `borromeo.social` | Yes |
 | `borsos.at` | No |
+| `borstis.cloud` | Yes |
 | `bortzmeyer.fr` | No |
 | `boscolager.de` | No |
 | `bosetsu.org` | No |
@@ -7886,6 +7888,7 @@ Here's a list of public Fediverse services.
 | `crimsonfae.net` | No |
 | `crimsson.com` | No |
 | `cringe.cafe` | No |
+| `cringe.zip` | Yes |
 | `crinklefur.club` | No |
 | `cripplepunk.club` | No |
 | `criptica.org` | No |
@@ -15927,6 +15930,7 @@ Here's a list of public Fediverse services.
 | `hallanalysis.com` | Yes |
 | `hallb.me` | No |
 | `halle-leaks.de` | No |
+| `hallen.kr` | Yes |
 | `hallertau.social` | No |
 | `halley.systems` | No |
 | `hallihan.net` | No |
@@ -36492,6 +36496,7 @@ Here's a list of public Fediverse services.
 | `sloane.sh` | Yes |
 | `slobbe.ch` | No |
 | `slonisko.cz` | No |
+| `slop.social` | No |
 | `sloppy-life.net` | Yes |
 | `sloppylinux.com` | No |
 | `sloth.network` | No |
@@ -36878,6 +36883,7 @@ Here's a list of public Fediverse services.
 | `sociopak.com` | No |
 | `sociopathic.ca` | Yes |
 | `socivitas.com` | No |
+| `sockermunk.se` | No |
 | `socks.town` | No |
 | `sockspls.social` | No |
 | `socl.bz` | No |
@@ -37266,6 +37272,7 @@ Here's a list of public Fediverse services.
 | `sphericalcow.space` | No |
 | `sphericalk.at` | Yes |
 | `spheron.one` | No |
+| `sphorb.social` | No |
 | `spi.id.au` | No |
 | `spica.bz` | Yes |
 | `spice-community.online` | No |
@@ -40041,6 +40048,7 @@ Here's a list of public Fediverse services.
 | `thought.no` | No |
 | `thoughtbot.social` | Yes |
 | `thoughtcatalog.com` | Yes |
+| `thoughtful.be` | No |
 | `thoughtful.social` | No |
 | `thoughtify.space` | No |
 | `thoughts.tf` | No |
@@ -40757,7 +40765,7 @@ Here's a list of public Fediverse services.
 | `torxprojects.com` | No |
 | `toscer.me` | No |
 | `toshipapi.tokyo` | No |
-| `tosk.in` | No |
+| `tosk.in` | Yes |
 | `totalliberation.net` | No |
 | `totally.moe` | No |
 | `totallylegit.site` | No |
@@ -45583,8 +45591,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,221 |
-| Normal | 33,319 |
+| Cloudflare | 12,225 |
+| Normal | 33,323 |
 
 
 ### 26.8% of public Fediverse services are using Cloudflare.
