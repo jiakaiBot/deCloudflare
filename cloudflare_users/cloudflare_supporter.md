@@ -5575,6 +5575,7 @@ Do not create new issue or we will close it as duplicate.
 | [JubearHossan@twitter](https://twitter.com/JubearHossan/status/1472037401329504257) | advertise |
 | [judgybaguette@twitter](https://twitter.com/judgybaguette/status/1583525208920449025) | advertise |
 | [juelff00@twitter](https://twitter.com/juelff00/status/1488815821321543685) | advertise |
+| [juice_vox@twitter](https://twitter.com/juice_vox/status/1681249592158072833) | advertise |
 | [JulianaXlie@twitter](https://twitter.com/JulianaXlie/status/1392063889697697799) | advertise |
 | [JulieMmtm12@twitter](https://twitter.com/JulieMmtm12/status/1383610725751427076) | advertise |
 | [juliostvns@twitter](https://twitter.com/juliostvns/status/1516407769661952014) | advertise |
