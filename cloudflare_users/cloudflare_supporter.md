@@ -3532,6 +3532,7 @@ Do not create new issue or we will close it as duplicate.
 | [fFqiA9FWfwFWC05@twitter](https://twitter.com/fFqiA9FWfwFWC05/status/1404315971750227969) | advertise |
 | [FgdWings@twitter](https://twitter.com/FgdWings/status/1384199323253035010) | advertise |
 | [fgp555_@twitter](https://twitter.com/fgp555_/status/1668947995365191681) | advertise |
+| [fhdfhd1466179@twitter](https://twitter.com/fhdfhd1466179/status/1681095325350600705) | advertise |
 | [fhunmielharyoh@twitter](https://twitter.com/fhunmielharyoh/status/1570560358213111808) | advertise |
 | [fidextech@twitter](https://twitter.com/fidextech/status/1429168336949194760) | advertise |
 | [FidoDid92657838@twitter](https://twitter.com/FidoDid92657838/status/1380034979485257731) | advertise |
