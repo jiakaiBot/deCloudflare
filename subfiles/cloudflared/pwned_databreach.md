@@ -361,7 +361,7 @@ Here's a list of breached sites.
 | MangaDex | 2,987,329 | Yes |
 | MangaFox (MangaFox.me) | 1,311,610 | Yes |
 | MangaTraders (Manga Traders) | 855,249 | No |
-| Mangatoon | 23,040,238 | No |
+| Mangatoon | 23,040,238 | Yes |
 | Mappery | 205,242 | No |
 | Mashable | 1,414,677 | Yes |
 | MastercardPricelessSpecials (Mastercard Priceless Specials) | 89,388 | No |
@@ -405,7 +405,7 @@ Here's a list of breached sites.
 | NexusMods (Nexus Mods) | 5,915,013 | Yes |
 | Nihonomaru | 1,697,282 | No |
 | Nitro | 77,159,696 | Yes |
-| Nival | 1,535,473 | No |
+| Nival | 1,535,473 | Yes |
 | NonNudeGirls (Non Nude Girls) | 75,383 | No |
 | Nulled (Nulled.cr) | 599,080 | No |
 | NulledCH (Nulled.ch) | 43,491 | No |
@@ -457,7 +457,7 @@ Here's a list of breached sites.
 | PreenMe (Preen.Me) | 236,105 | Yes |
 | ProctorU | 444,453 | Yes |
 | ProgrammingForums (Programming Forums) | 707,432 | No |
-| Promofarma | 1,277,761 | No |
+| Promofarma | 1,277,761 | Yes |
 | Promo | 14,610,585 | Yes |
 | PropTiger | 2,156,921 | Yes |
 | Protemps | 49,591 | No |
@@ -485,6 +485,7 @@ Here's a list of breached sites.
 | Reverb-Nation (ReverbNation) | 7,040,725 | Yes |
 | RiverCityMedia (River City Media Spam List) | 393,430,309 | No |
 | Robinhood | 5,003,937 | Yes |
+| RobloxDeveloperConference (Roblox Developer Conference) | 3,943 | No |
 | Roll20 | 3,994,436 | Yes |
 | Romwe | 19,531,820 | Yes |
 | RosebuttBoard (Rosebutt Board) | 107,303 | No |
@@ -674,10 +675,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 366 | 3,930,276,382 |
-| Normal | 287 | 4,981,349,743 |
+| Cloudflare | 369 | 3,956,129,854 |
+| Normal | 285 | 4,955,500,214 |
 
 
 
-### 56% of breached sites (pwned sites) are using Cloudflare.
-### 44.1% of leaked accounts are on Cloudflare sites.
+### 56.4% of breached sites (pwned sites) are using Cloudflare.
+### 44.4% of leaked accounts are on Cloudflare sites.
