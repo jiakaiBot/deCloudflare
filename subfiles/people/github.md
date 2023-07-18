@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [v2.2.0 Crashing when using remote playlists](https://github.com/savonet/liquidsoap/issues/3239)
 - [Cloudflare Workers error: Code generation from strings disallowed for this context](https://github.com/linz/cotar/issues/476)
 - [Ourbits.club check-in return Challenge not detected](https://github.com/FlareSolverr/FlareSolverr/issues/824)
 - [CloudFlare Increased 5xx errors in LIS between 01:22 - 01:33 UTC](https://github.com/hinoshiba/news/issues/1326)
