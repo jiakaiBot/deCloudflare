@@ -20115,6 +20115,7 @@ Here's a list of public Fediverse services.
 | `kestrelsnest.social` | No |
 | `kesuek.de` | No |
 | `ketchupma.io` | No |
+| `ketenburhan.me` | No |
 | `ketr.am` | No |
 | `kets.me` | No |
 | `ketsuben.red` | No |
@@ -33917,7 +33918,7 @@ Here's a list of public Fediverse services.
 | `rneetup.com` | No |
 | `rner.dk` | No |
 | `rner.me` | Yes |
-| `rnj.au` | No |
+| `rnj.au` | Yes |
 | `rnmalich.de` | No |
 | `rnorth.org` | Yes |
 | `ro.lt` | No |
@@ -38136,7 +38137,7 @@ Here's a list of public Fediverse services.
 | `sugarfuel.social` | No |
 | `sugarshack.social` | No |
 | `sugary.fashion` | No |
-| `sugattor.ga` | No |
+| `sugattor.ga` | Yes |
 | `sugoma.tk` | Yes |
 | `suguha.net` | No |
 | `suhbat.online` | No |
@@ -45591,8 +45592,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,225 |
-| Normal | 33,323 |
+| Cloudflare | 12,227 |
+| Normal | 33,322 |
 
 
 ### 26.8% of public Fediverse services are using Cloudflare.
