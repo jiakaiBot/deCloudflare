@@ -11364,6 +11364,7 @@ Do not create new issue or we will close it as duplicate.
 | [SuccessvisionPr@twitter](https://twitter.com/SuccessvisionPr/status/1393314160625307653) | advertise |
 | [sudanindepende1@twitter](https://twitter.com/sudanindepende1/status/1430518977386721280) | advertise |
 | [SUday49665279@twitter](https://twitter.com/SUday49665279/status/1386583498014683137) | advertise |
+| [sudej@twitter](https://twitter.com/sudej/status/1681339983108673536) | advertise |
 | [SUDHEESHBABUB1@twitter](https://twitter.com/SUDHEESHBABUB1/status/1388822341925363715) | advertise |
 | [SuehilValadez33@twitter](https://twitter.com/SuehilValadez33/status/1648778551775076353) | advertise |
 | [SueSi31355105@twitter](https://twitter.com/SueSi31355105/status/1393366883185750019) | advertise |
@@ -12756,6 +12757,7 @@ Do not create new issue or we will close it as duplicate.
 | [Uzumaki19799215@twitter](https://twitter.com/Uzumaki19799215/status/1404393913063034884) | advertise |
 | [UzziGen@twitter](https://twitter.com/UzziGen/status/1502034839511384068) | advertise |
 | [u_c_space@twitter](https://twitter.com/u_c_space/status/1454812053697355782) | advertise |
+| [v1v_ak@twitter](https://twitter.com/v1v_ak/status/1681347122191384592) | advertise |
 | [V666tiz@twitter](https://twitter.com/V666tiz/status/1571194420275589120) | advertise |
 | [v164476@twitter](https://twitter.com/v164476/status/1680220379422543874) | advertise |
 | [V22280324@twitter](https://twitter.com/V22280324/status/1396806272322736136) | advertise |
