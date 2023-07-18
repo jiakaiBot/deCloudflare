@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Ourbits.club check-in return Challenge not detected](https://github.com/FlareSolverr/FlareSolverr/issues/824)
 - [CloudFlare Increased 5xx errors in LIS between 01:22 - 01:33 UTC](https://github.com/hinoshiba/news/issues/1326)
 - [CloudFlare Increased 5xx errors in LIS between 01:22 - 01:33 UTC](https://github.com/MatBenfield/news/issues/16565)
 - [CloudFlare Intermittent 1101 errors](https://github.com/hinoshiba/news/issues/1320)
