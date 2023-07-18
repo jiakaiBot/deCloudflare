@@ -10874,6 +10874,7 @@ Do not create new issue or we will close it as duplicate.
 | [sharHtet21@twitter](https://twitter.com/sharHtet21/status/1390392338111889408) | advertise |
 | [SharifTech_@twitter](https://twitter.com/SharifTech_/status/1377317759311224837) | advertise |
 | [SharkiArthur@twitter](https://twitter.com/SharkiArthur/status/1680181669800849408) | advertise |
+| [Sharkiiiy@twitter](https://twitter.com/Sharkiiiy/status/1680181669800849408) | advertise |
 | [SharMyatthu3@twitter](https://twitter.com/SharMyatthu3/status/1390642880444715009) | advertise |
 | [sharoar_shojib@twitter](https://twitter.com/sharoar_shojib/status/1611407762365509634) | advertise |
 | [SharrXtet@twitter](https://twitter.com/SharrXtet/status/1390380850793959426) | advertise |
