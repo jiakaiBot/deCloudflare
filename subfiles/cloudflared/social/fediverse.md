@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,929 |
+| com | 6,933 |
 | social | 4,350 |
 | net | 3,534 |
 | org | 2,390 |
@@ -1983,7 +1983,7 @@ Here's a list of public Fediverse services.
 | `andi-net.de` | No |
 | `andi1984.social` | No |
 | `andie.club` | No |
-| `andieadorable.gay` | Yes |
+| `andieadorable.gay` | No |
 | `andinfinity.de` | No |
 | `andlang.me` | No |
 | `andma.la` | No |
@@ -7307,7 +7307,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -13387,7 +13387,7 @@ Here's a list of public Fediverse services.
 | `fr0g.tech` | No |
 | `fr13nd5.com` | No |
 | `fr13nds.cc` | No |
-| `fr3diver.se` | No |
+| `fr3diver.se` | Yes |
 | `fr4me.io` | No |
 | `fractalco.re` | Yes |
 | `fractalego.social` | No |
@@ -16069,7 +16069,7 @@ Here's a list of public Fediverse services.
 | `haruho.net` | No |
 | `haruk.in` | Yes |
 | `harukakanata.net` | No |
-| `harukizaemon.com` | No |
+| `harukizaemon.com` | Yes |
 | `harumakizaemon.net` | Yes |
 | `harusamex.com` | No |
 | `harusino.com` | No |
@@ -24867,7 +24867,7 @@ Here's a list of public Fediverse services.
 | `memit.dk` | Yes |
 | `memmex.de` | No |
 | `memo-village.com` | No |
-| `memo-village.online` | Yes |
+| `memo-village.online` | No |
 | `memo.systems` | Yes |
 | `memomo.me` | Yes |
 | `memories.am` | Yes |
@@ -28658,6 +28658,7 @@ Here's a list of public Fediverse services.
 | `noyuno.space` | No |
 | `nozbe.com` | No |
 | `nozomi.best` | Yes |
+| `nozoo.jp` | Yes |
 | `nozzi.social` | No |
 | `npa-marseille.org` | No |
 | `npcore.net` | Yes |
@@ -28821,6 +28822,7 @@ Here's a list of public Fediverse services.
 | `nursingpoint.de` | Yes |
 | `nurumayu.jp` | No |
 | `nusdyoll.io` | No |
+| `nusskey.com` | Yes |
 | `nussnougate.net` | No |
 | `nutmeg.social` | Yes |
 | `nutriguia.com` | No |
@@ -29489,6 +29491,7 @@ Here's a list of public Fediverse services.
 | `ookami.one` | No |
 | `oomfi.es` | No |
 | `oompa.ga` | No |
+| `oomurosakura.co` | Yes |
 | `oook.fr` | No |
 | `ooops.cloud` | Yes |
 | `oopsall.gay` | Yes |
@@ -32482,6 +32485,7 @@ Here's a list of public Fediverse services.
 | `qrz.today` | Yes |
 | `qseco.fr` | Yes |
 | `qsgzone.com` | No |
+| `qslyu.com` | Yes |
 | `qstars.it` | Yes |
 | `qtg.fr` | No |
 | `qth.fr` | No |
@@ -34469,6 +34473,7 @@ Here's a list of public Fediverse services.
 | `ryonatodon.com` | No |
 | `ryopon404.net` | Yes |
 | `ryotak.me` | Yes |
+| `ryotosaito.com` | Yes |
 | `rys.io` | No |
 | `rytter.me` | No |
 | `ryu.org` | No |
@@ -35285,7 +35290,7 @@ Here's a list of public Fediverse services.
 | `sdr.haus` | No |
 | `sds-ip.de` | No |
 | `sdshaver.com` | Yes |
-| `sduoduo.xyz` | Yes |
+| `sduoduo.xyz` | No |
 | `sdz5.com` | No |
 | `se1.eu` | No |
 | `sea-moon.net` | No |
@@ -37493,6 +37498,7 @@ Here's a list of public Fediverse services.
 | `sspaeth.de` | No |
 | `sss-fc.com` | Yes |
 | `sssc.cc` | No |
+| `ssskkk.top` | Yes |
 | `ssstudio.org` | No |
 | `ssvane.dk` | Yes |
 | `ssvo.de` | No |
@@ -37897,6 +37903,7 @@ Here's a list of public Fediverse services.
 | `strangerproduction.com` | No |
 | `strangers.social` | No |
 | `strangestack.com` | No |
+| `strangetextures.com` | Yes |
 | `strangevistas.com` | No |
 | `strangeweb.page` | No |
 | `strangeworld.jp` | Yes |
@@ -44137,6 +44144,7 @@ Here's a list of public Fediverse services.
 | `wunderwaffla.vip` | Yes |
 | `wuppertalblogs.de` | No |
 | `wuppi.social` | No |
+| `wur.pm` | No |
 | `wurdahmekanik.xyz` | No |
 | `wurm.host` | No |
 | `wurmela.de` | No |
@@ -45565,8 +45573,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,208 |
-| Normal | 33,314 |
+| Cloudflare | 12,213 |
+| Normal | 33,317 |
 
 
 ### 26.8% of public Fediverse services are using Cloudflare.
