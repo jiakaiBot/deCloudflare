@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,934 |
 | social | 4,356 |
-| net | 3,539 |
+| net | 3,540 |
 | org | 2,390 |
 | de | 2,214 |
 
@@ -22650,6 +22650,7 @@ Here's a list of public Fediverse services.
 | `longmusic.com` | No |
 | `longreads.com` | No |
 | `longtom.party` | No |
+| `longwayround.net` | No |
 | `longyap.name.my` | Yes |
 | `longyap.social` | No |
 | `lonninator.net` | No |
@@ -29881,6 +29882,7 @@ Here's a list of public Fediverse services.
 | `oterolabs.com` | No |
 | `othemts.com` | No |
 | `other.blue` | Yes |
+| `other.technology` | No |
 | `otherbyte.com` | No |
 | `otherground.party` | No |
 | `otherja.red` | No |
@@ -45613,7 +45615,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,238 |
-| Normal | 33,331 |
+| Normal | 33,333 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
