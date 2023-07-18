@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-07-18: [User email verification link issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/k8t8xp4yvhx7)
 - 2023-07-18: [Increased 5xx errors in LIS between 01:22 - 01:33 UTC](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lw081tr16pfb)
 - 2023-07-17: [Intermittent 1101 errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mqs97wgcbzcf)
 - 2023-07-17: [Network Performance Issues in Melbourne and Hobart](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qmrtzrsykmj0)
