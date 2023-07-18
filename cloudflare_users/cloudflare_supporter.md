@@ -9924,6 +9924,7 @@ Do not create new issue or we will close it as duplicate.
 | [quay_lam@twitter](https://twitter.com/quay_lam/status/1391964463318720523) | advertise |
 | [QucAnh43254041@twitter](https://twitter.com/QucAnh43254041/status/1498321851013275654) | advertise |
 | [QucAnh77804161@twitter](https://twitter.com/QucAnh77804161/status/1670443011334107139) | advertise |
+| [QucDngV527914@twitter](https://twitter.com/QucDngV527914/status/1681127538314338304) | advertise |
 | [QucHoTrnh1@twitter](https://twitter.com/QucHoTrnh1/status/1552568520789020672) | advertise |
 | [QucKit99403138@twitter](https://twitter.com/QucKit99403138/status/1402246871536398341) | advertise |
 | [qucthnh65827967@twitter](https://twitter.com/qucthnh65827967/status/1570539844170031105) | advertise |
