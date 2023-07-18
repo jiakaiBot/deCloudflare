@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,933 |
 | social | 4,356 |
-| net | 3,537 |
+| net | 3,539 |
 | org | 2,390 |
 | de | 2,214 |
 
@@ -10081,6 +10081,7 @@ Here's a list of public Fediverse services.
 | `donbarry.org` | No |
 | `donbongo.com` | No |
 | `donburnside.com` | Yes |
+| `doncha.net` | No |
 | `dondahlmann.de` | No |
 | `dondododon.com` | No |
 | `dondondon.ga` | No |
@@ -11482,6 +11483,7 @@ Here's a list of public Fediverse services.
 | `epon.io` | Yes |
 | `eponaauthor.social` | No |
 | `epoz.org` | No |
+| `epsilon.fm` | Yes |
 | `epsilon.horse` | No |
 | `epsilon.social` | Yes |
 | `epsom.social` | No |
@@ -15847,6 +15849,7 @@ Here's a list of public Fediverse services.
 | `hackzenwerk.org` | No |
 | `hacst.net` | No |
 | `hact.org` | No |
+| `hacusk.net` | Yes |
 | `haddock.cc` | Yes |
 | `hadret.com` | Yes |
 | `haecksen.social` | No |
@@ -23302,6 +23305,7 @@ Here's a list of public Fediverse services.
 | `magnatranquillo.it` | No |
 | `magnetic-ink.dk` | No |
 | `magnier.io` | No |
+| `magnificent.nz` | No |
 | `magnificentbeardsfan.club` | No |
 | `magnitude-ten.net` | No |
 | `magnocrm.com` | No |
@@ -45604,8 +45608,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,234 |
-| Normal | 33,327 |
+| Cloudflare | 12,236 |
+| Normal | 33,329 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
