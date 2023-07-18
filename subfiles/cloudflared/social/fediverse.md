@@ -34094,6 +34094,7 @@ Here's a list of public Fediverse services.
 | `romeov.me` | Yes |
 | `romeros.link` | No |
 | `romerotools.net` | Yes |
+| `romira.dev` | Yes |
 | `romlinch.ovh` | No |
 | `romne.co` | Yes |
 | `romneko.net` | Yes |
@@ -45592,7 +45593,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,227 |
+| Cloudflare | 12,228 |
 | Normal | 33,322 |
 
 
