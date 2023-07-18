@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,933 |
+| com | 6,934 |
 | social | 4,356 |
 | net | 3,539 |
 | org | 2,390 |
@@ -22344,6 +22344,7 @@ Here's a list of public Fediverse services.
 | `listner.cloud` | No |
 | `lit.monster` | Yes |
 | `litchan.com` | No |
+| `litehell.info` | Yes |
 | `litelot.us` | Yes |
 | `litera.tools` | No |
 | `literally.pictures` | No |
@@ -22986,6 +22987,7 @@ Here's a list of public Fediverse services.
 | `lunarviews.net` | No |
 | `lunaryorn.com` | No |
 | `lunasqu.ee` | No |
+| `lunaticducks.com` | Yes |
 | `lunaticgeek.com` | Yes |
 | `lunaticsproject.org` | No |
 | `lunax.dev` | Yes |
@@ -30017,6 +30019,7 @@ Here's a list of public Fediverse services.
 | `over9k.tech` | No |
 | `overblue.net` | No |
 | `overbye.dev` | Yes |
+| `overcomplicated.systems` | No |
 | `overenginerd.org` | No |
 | `overgrown.garden` | Yes |
 | `overheard.social` | No |
@@ -35602,6 +35605,7 @@ Here's a list of public Fediverse services.
 | `serial-experiments.com` | Yes |
 | `serial.io` | Yes |
 | `serial.social` | No |
+| `serialexperiments.dev` | No |
 | `serialmay.link` | No |
 | `serinus.us` | No |
 | `seriousbusiness.international` | No |
@@ -45608,8 +45612,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,236 |
-| Normal | 33,329 |
+| Cloudflare | 12,238 |
+| Normal | 33,331 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
