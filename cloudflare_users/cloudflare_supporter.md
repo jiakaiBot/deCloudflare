@@ -6375,6 +6375,7 @@ Do not create new issue or we will close it as duplicate.
 | [KxngXnusis@twitter](https://twitter.com/KxngXnusis/status/1548052006237257728) | advertise |
 | [kxt75626038@twitter](https://twitter.com/kxt75626038/status/1569036357804396546) | advertise |
 | [ky1ro@twitter](https://twitter.com/ky1ro/status/1543894833563041792) | advertise |
+| [Kya7209482@twitter](https://twitter.com/Kya7209482/status/1681197589948145665) | advertise |
 | [KyaePhoenix@twitter](https://twitter.com/KyaePhoenix/status/1392514813826191360) | advertise |
 | [KyaeYehtet@twitter](https://twitter.com/KyaeYehtet/status/1387258889897345024) | advertise |
 | [Kyal48869938@twitter](https://twitter.com/Kyal48869938/status/1377577578895044611) | advertise |
