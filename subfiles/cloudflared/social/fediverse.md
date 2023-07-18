@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,929 |
 | social | 4,350 |
-| net | 3,533 |
+| net | 3,534 |
 | org | 2,390 |
 | de | 2,212 |
 
@@ -3476,7 +3476,7 @@ Here's a list of public Fediverse services.
 | `baixllobregat.social` | No |
 | `bajax.us` | No |
 | `bajsicki.com` | No |
-| `baka.social` | No |
+| `baka.social` | Yes |
 | `bakdos.de` | No |
 | `bakedbean.xyz` | Yes |
 | `baker.network` | No |
@@ -11294,6 +11294,7 @@ Here's a list of public Fediverse services.
 | `enchanted.quest` | No |
 | `enchanted.social` | No |
 | `enchantedherb.social` | No |
+| `encipher.in` | No |
 | `encircle.cc` | No |
 | `encode42.dev` | Yes |
 | `encom.social` | No |
@@ -28002,6 +28003,7 @@ Here's a list of public Fediverse services.
 | `nightshift.social` | No |
 | `nigini.me` | No |
 | `nigiri.dev` | No |
+| `nigreon.net` | No |
 | `nih.gov` | Yes |
 | `nihao.pub` | Yes |
 | `nihar.page` | Yes |
@@ -29212,6 +29214,7 @@ Here's a list of public Fediverse services.
 | `oikura.site` | Yes |
 | `oima.tech` | No |
 | `oinarisummer.xyz` | No |
+| `oink.cafe` | Yes |
 | `oisaur.com` | No |
 | `oiseauroch.fr` | No |
 | `oisin.blog` | No |
@@ -38761,7 +38764,7 @@ Here's a list of public Fediverse services.
 | `tandj-homelab.dev` | Yes |
 | `tandlers.de` | No |
 | `tane.codes` | No |
-| `tanelpoder.com` | No |
+| `tanelpoder.com` | Yes |
 | `tangentbordet.se` | No |
 | `tangentfox.com` | No |
 | `tangentideas.info` | No |
@@ -45562,7 +45565,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,205 |
+| Cloudflare | 12,208 |
 | Normal | 33,314 |
 
 
