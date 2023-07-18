@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,933 |
-| social | 4,350 |
+| social | 4,352 |
 | net | 3,534 |
 | org | 2,390 |
 | de | 2,212 |
@@ -1050,6 +1050,7 @@ Here's a list of public Fediverse services.
 | `adast.xyz` | Yes |
 | `adawesome.tech` | No |
 | `adb.sh` | No |
+| `adc.social` | No |
 | `adda.gay` | No |
 | `addajones.com` | Yes |
 | `addconf.me` | No |
@@ -2652,6 +2653,7 @@ Here's a list of public Fediverse services.
 | `artcommastrike.com` | Yes |
 | `arteeh.com` | No |
 | `artemai.art` | No |
+| `artemis.camp` | No |
 | `artemisia.systems` | Yes |
 | `artemlab.tk` | No |
 | `artermyss.com` | Yes |
@@ -4500,6 +4502,7 @@ Here's a list of public Fediverse services.
 | `blackquill.cc` | No |
 | `blackrock.city` | No |
 | `blackrock.social` | No |
+| `blackrocks.social` | Yes |
 | `blackrookery.ca` | No |
 | `blackshuck.net` | No |
 | `blacksketch.com` | No |
@@ -6654,7 +6657,7 @@ Here's a list of public Fediverse services.
 | `chrisedwards.tech` | No |
 | `chrisfried.com` | Yes |
 | `chrishandy.blog` | No |
-| `chrishannah.me` | No |
+| `chrishannah.me` | Yes |
 | `chrisheninger.com` | Yes |
 | `chrishubbs.com` | No |
 | `chrishumphreys.tech` | No |
@@ -7307,7 +7310,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -12446,7 +12449,7 @@ Here's a list of public Fediverse services.
 | `fedihub.de` | No |
 | `fedihub.rocks` | No |
 | `fedihum.org` | No |
-| `fedii.me` | No |
+| `fedii.me` | Yes |
 | `fedilab.app` | No |
 | `fediland.in.ua` | No |
 | `fediland.nl` | No |
@@ -16315,7 +16318,7 @@ Here's a list of public Fediverse services.
 | `heldom.de` | No |
 | `heldscal.la` | No |
 | `helene.moe` | Yes |
-| `helene.tk` | No |
+| `helene.tk` | Yes |
 | `helenprejean.org` | No |
 | `helicos.net` | Yes |
 | `heliohost.us` | No |
@@ -22407,6 +22410,7 @@ Here's a list of public Fediverse services.
 | `livewing.net` | No |
 | `livewire.io` | Yes |
 | `livid.pw` | Yes |
+| `living.tech` | No |
 | `livingblindfully.com` | No |
 | `livingblindfully.social` | No |
 | `livingdistant.com` | No |
@@ -26054,6 +26058,7 @@ Here's a list of public Fediverse services.
 | `moo.pub` | No |
 | `moobarb.club` | No |
 | `moobi.monster` | No |
+| `moocloud.party` | No |
 | `moodle.net` | Yes |
 | `moodoo.org` | Yes |
 | `moody.name` | No |
@@ -26406,7 +26411,7 @@ Here's a list of public Fediverse services.
 | `mstdn-ac.ryukyu` | No |
 | `mstdn-amadeus.tech` | Yes |
 | `mstdn-babymetal.com` | No |
-| `mstdn-bike.net` | No |
+| `mstdn-bike.net` | Yes |
 | `mstdn-cycle.com` | No |
 | `mstdn-d.info` | No |
 | `mstdn-dystopia.com` | Yes |
@@ -34047,6 +34052,7 @@ Here's a list of public Fediverse services.
 | `rohr.org` | No |
 | `roiarthurb.xyz` | No |
 | `roidesbulgares.rocks` | No |
+| `roishi.moe` | No |
 | `roitsystems.ca` | No |
 | `rojas.cz` | Yes |
 | `rojogato.com` | No |
@@ -38483,6 +38489,7 @@ Here's a list of public Fediverse services.
 | `synth.buzz` | No |
 | `synth.zip` | Yes |
 | `synthbear.xyz` | No |
+| `synthesis-infrastructures.wiki` | No |
 | `synthesizers.social` | No |
 | `syntheti.cyou` | No |
 | `syntheticmemory.net` | No |
@@ -42722,6 +42729,7 @@ Here's a list of public Fediverse services.
 | `vladcampos.eu` | Yes |
 | `vladovince.com` | No |
 | `vladtepesblog.com` | Yes |
+| `vlaki.cz` | No |
 | `vlan42.com` | Yes |
 | `vlarp.nl` | No |
 | `vleij.com` | No |
@@ -43647,6 +43655,7 @@ Here's a list of public Fediverse services.
 | `wilde.cloud` | No |
 | `wildebeest.social` | Yes |
 | `wildeboer.net` | No |
+| `wildfyre.dev` | Yes |
 | `wildgeese.au` | Yes |
 | `wildhawkfield.com` | No |
 | `wildparadox.com` | No |
@@ -45573,8 +45582,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,213 |
-| Normal | 33,317 |
+| Cloudflare | 12,220 |
+| Normal | 33,319 |
 
 
 ### 26.8% of public Fediverse services are using Cloudflare.
