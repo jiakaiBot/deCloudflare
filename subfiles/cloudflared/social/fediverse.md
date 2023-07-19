@@ -10582,7 +10582,7 @@ Here's a list of public Fediverse services.
 | `duxez.dev` | No |
 | `duxie.xyz` | No |
 | `dv.buzz` | No |
-| `dvd.chat` | No |
+| `dvd.chat` | Yes |
 | `dvdlws.xyz` | No |
 | `dvdt.dev` | No |
 | `dver.se` | No |
@@ -16071,6 +16071,7 @@ Here's a list of public Fediverse services.
 | `harnosoft.com` | Yes |
 | `haroo.ca` | No |
 | `harpsica.net` | No |
+| `harpy.faith` | No |
 | `harpy.life` | No |
 | `harrier.io` | No |
 | `harrisroxashealth.com` | Yes |
@@ -45640,7 +45641,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,251 |
+| Cloudflare | 12,252 |
 | Normal | 33,346 |
 
 
