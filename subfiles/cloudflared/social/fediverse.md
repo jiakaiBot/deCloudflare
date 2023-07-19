@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,938 |
-| social | 4,358 |
+| social | 4,359 |
 | net | 3,541 |
 | org | 2,391 |
 | de | 2,214 |
@@ -10210,6 +10210,7 @@ Here's a list of public Fediverse services.
 | `douga.ga` | No |
 | `dougaldog.uk` | No |
 | `dougbeal.com` | No |
+| `dougherty.social` | Yes |
 | `dougiverse.io` | Yes |
 | `douglashill.co` | Yes |
 | `dounx.me` | Yes |
@@ -45641,7 +45642,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,252 |
+| Cloudflare | 12,253 |
 | Normal | 33,346 |
 
 
