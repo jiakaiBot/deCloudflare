@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,937 |
+| com | 6,938 |
 | social | 4,358 |
 | net | 3,541 |
 | org | 2,391 |
@@ -6292,7 +6292,7 @@ Here's a list of public Fediverse services.
 | `chagratt.site` | No |
 | `chahut.social` | No |
 | `chai.lat` | Yes |
-| `chai.wtf` | No |
+| `chai.wtf` | Yes |
 | `chainchat.eu` | No |
 | `chainfire.eu` | No |
 | `chainsoff.me` | No |
@@ -16062,6 +16062,7 @@ Here's a list of public Fediverse services.
 | `harem.moe` | Yes |
 | `harfang.social` | Yes |
 | `harijs.id.lv` | No |
+| `harmandar.co` | No |
 | `harmon.tech` | No |
 | `harmoniescreatives.com` | No |
 | `harmonynet.org` | Yes |
@@ -29804,6 +29805,7 @@ Here's a list of public Fediverse services.
 | `ortg.de` | No |
 | `orthis.social` | No |
 | `orthoheterodox.blog` | No |
+| `orthoheterodox.com` | No |
 | `orthy.de` | No |
 | `orties.net` | No |
 | `ortion.xyz` | No |
@@ -45638,8 +45640,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,250 |
-| Normal | 33,345 |
+| Cloudflare | 12,251 |
+| Normal | 33,346 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
