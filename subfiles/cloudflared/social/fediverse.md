@@ -595,6 +595,7 @@ Here's a list of public Fediverse services.
 | `616.earth` | Yes |
 | `616.one` | No |
 | `619.fm` | Yes |
+| `619.ink` | Yes |
 | `619.zone` | Yes |
 | `621industries.com` | Yes |
 | `62ki.net` | Yes |
@@ -45655,7 +45656,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,256 |
+| Cloudflare | 12,257 |
 | Normal | 33,356 |
 
 
