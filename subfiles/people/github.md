@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cant upload files to IPFS via api.nft.storage/upload and client.storeBlob(someData);](https://github.com/nftstorage/nft.storage/issues/2427)
 - [Support Cloudflare Pages advance mode: _worker.js](https://github.com/honojs/hono/issues/1247)
 - [Cloudflare provider: could not read response body: unexpected EOF](https://github.com/kubernetes-sigs/external-dns/issues/3798)
 - [Webhook delete appears broken on 0.2.44](https://github.com/frontegg/terraform-provider-frontegg/issues/103)
