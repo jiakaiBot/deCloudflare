@@ -431,6 +431,7 @@ Do not create new issue or we will close it as duplicate.
 | [AGThor1@twitter](https://twitter.com/AGThor1/status/1404460236702842880) | advertise |
 | [aguirrevicc@twitter](https://twitter.com/aguirrevicc/status/1665874525702049794) | advertise |
 | [Agungpgt@twitter](https://twitter.com/Agungpgt/status/1617566579570642945) | advertise |
+| [ah0706806@twitter](https://twitter.com/ah0706806/status/1681624979887235072) | advertise |
 | [ahamed_hri46047@twitter](https://twitter.com/ahamed_hri46047/status/1635427942154240001) | advertise |
 | [ahaynvn@twitter](https://twitter.com/ahaynvn/status/1601311854588223488) | advertise |
 | [Ahbu_Yuan@twitter](https://twitter.com/Ahbu_Yuan/status/1379249818023862275) | advertise |
@@ -11564,6 +11565,7 @@ Do not create new issue or we will close it as duplicate.
 | [tanajimasal001@twitter](https://twitter.com/tanajimasal001/status/1644838039062212608) | advertise |
 | [tanaruk20@twitter](https://twitter.com/tanaruk20/status/1552451708206600194) | advertise |
 | [tanbir1023@twitter](https://twitter.com/tanbir1023/status/1573021271671308288) | advertise |
+| [TANBIR9051@twitter](https://twitter.com/TANBIR9051/status/1681635875766292480) | advertise |
 | [TanEndru@twitter](https://twitter.com/TanEndru/status/1580563635981627392) | advertise |
 | [TAnh28750081@twitter](https://twitter.com/TAnh28750081/status/1394338740173115399) | advertise |
 | [TannerLaird3@twitter](https://twitter.com/TannerLaird3/status/1672439084403359746) | advertise |
