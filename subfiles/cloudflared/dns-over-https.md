@@ -32,7 +32,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ahadns.net | Yes |
 | aidentec.top | Yes |
 | alekberg.net | No |
-| alidns.com | No |
 | altendorfme.com | Yes |
 | amlegion.org | No |
 | andrewnw.xyz | Yes |
@@ -365,7 +364,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 176 |
-| Normal | 169 |
+| Normal | 168 |
 
 
-### 51% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
