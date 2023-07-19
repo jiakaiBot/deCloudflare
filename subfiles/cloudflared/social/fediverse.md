@@ -12395,7 +12395,7 @@ Here's a list of public Fediverse services.
 | `fedi.pictures` | No |
 | `fedi.place` | Yes |
 | `fedi.quebec` | No |
-| `fedi.rocks` | No |
+| `fedi.rocks` | Yes |
 | `fedi.site` | Yes |
 | `fedi.software` | No |
 | `fedi.space` | No |
@@ -22691,6 +22691,7 @@ Here's a list of public Fediverse services.
 | `lord.re` | No |
 | `lord.sh` | Yes |
 | `lordinateur.tech` | Yes |
+| `lordmatt.co.uk` | Yes |
 | `lordofthedummies.com` | No |
 | `lordoftheplex.com` | Yes |
 | `lore.monster` | Yes |
@@ -22789,7 +22790,7 @@ Here's a list of public Fediverse services.
 | `lovelive-mstdn.com` | No |
 | `lovelive-sip.org` | No |
 | `lovelive-ss.com` | Yes |
-| `lovelive.net` | No |
+| `lovelive.net` | Yes |
 | `lovelive.social` | No |
 | `lovelyfamilymm.com` | Yes |
 | `lovemoe.net` | Yes |
@@ -28373,7 +28374,7 @@ Here's a list of public Fediverse services.
 | `nojober.work` | No |
 | `nokes.name` | No |
 | `nokinoki.net` | No |
-| `noko1024.net` | No |
+| `noko1024.net` | Yes |
 | `nokogodo.com` | Yes |
 | `nokok.net` | No |
 | `nokotaro.com` | Yes |
@@ -36236,6 +36237,7 @@ Here's a list of public Fediverse services.
 | `singing.dog` | No |
 | `singleuser.club` | No |
 | `singpolyma.net` | Yes |
+| `singsingsing.party` | Yes |
 | `singularity-node.net` | No |
 | `singularity.sh` | No |
 | `sinigr.space` | No |
@@ -45586,6 +45588,7 @@ Here's a list of public Fediverse services.
 | `zxq.co` | Yes |
 | `zy.gy` | Yes |
 | `zy.lc` | No |
+| `zyi.io` | Yes |
 | `zyl.se` | Yes |
 | `zylstra.org` | No |
 | `zym.lol` | Yes |
@@ -45616,8 +45619,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,235 |
-| Normal | 33,338 |
+| Cloudflare | 12,241 |
+| Normal | 33,335 |
 
 
-### 26.8% of public Fediverse services are using Cloudflare.
+### 26.9% of public Fediverse services are using Cloudflare.
