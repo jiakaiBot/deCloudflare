@@ -1230,6 +1230,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungMyi34827072@twitter](https://twitter.com/AungMyi34827072/status/1378050834487943170) | advertise |
 | [AungMyi52996409@twitter](https://twitter.com/AungMyi52996409/status/1396340341335154691) | advertise |
 | [AungMyi57192911@twitter](https://twitter.com/AungMyi57192911/status/1389910350187962372) | advertise |
+| [aungmyint98@twitter](https://twitter.com/aungmyint98/status/1681485263359586305) | advertise |
 | [AungMyo12231420@twitter](https://twitter.com/AungMyo12231420/status/1391453106169335814) | advertise |
 | [AungMyo12617132@twitter](https://twitter.com/AungMyo12617132/status/1387264018084106241) | advertise |
 | [Aungmyo14725192@twitter](https://twitter.com/Aungmyo14725192/status/1400381225315885057) | advertise |
@@ -4134,6 +4135,7 @@ Do not create new issue or we will close it as duplicate.
 | [hardcorx1@twitter](https://twitter.com/hardcorx1/status/1627486390429810689) | advertise |
 | [harden_69@twitter](https://twitter.com/harden_69/status/1552074135030857728) | advertise |
 | [hardey62820667@twitter](https://twitter.com/hardey62820667/status/1528254214584946689) | advertise |
+| [HareHareoffice5@twitter](https://twitter.com/HareHareoffice5/status/1681473953439653888) | advertise |
 | [Harinderulakh1@twitter](https://twitter.com/Harinderulakh1/status/1404809733282877442) | advertise |
 | [Harindu_Fonseka@twitter](https://twitter.com/Harindu_Fonseka/status/1479113643484532744) | advertise |
 | [harirezkyy@twitter](https://twitter.com/harirezkyy/status/1615046254647513096) | advertise |
