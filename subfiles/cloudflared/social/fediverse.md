@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,941 |
-| social | 4,360 |
+| com | 6,942 |
+| social | 4,361 |
 | net | 3,543 |
 | org | 2,393 |
 | de | 2,216 |
@@ -2002,6 +2002,7 @@ Here's a list of public Fediverse services.
 | `andreaskilgus.de` | No |
 | `andreaslonn.se` | No |
 | `andreasrohner.at` | No |
+| `andreasrohner.dev` | No |
 | `andreasvongunten.com` | Yes |
 | `andreer.no` | No |
 | `andrei.website` | No |
@@ -11922,7 +11923,7 @@ Here's a list of public Fediverse services.
 | `expression.social` | Yes |
 | `expressional.social` | Yes |
 | `expshift.com` | No |
-| `exquisite.com.br` | No |
+| `exquisite.com.br` | Yes |
 | `exquisite.social` | No |
 | `exs.gay` | No |
 | `ext.network` | No |
@@ -32834,6 +32835,7 @@ Here's a list of public Fediverse services.
 | `racing-lagoon.info` | No |
 | `rack.social` | Yes |
 | `raconteur.ink` | No |
+| `racoon.social` | No |
 | `racquetbookclub.com` | No |
 | `radar.fail` | No |
 | `radbox.org` | No |
@@ -36765,6 +36767,7 @@ Here's a list of public Fediverse services.
 | `snkkis.me` | No |
 | `snld.ca` | No |
 | `snmsoc.org` | No |
+| `snokrash.com` | No |
 | `snoot.club` | No |
 | `snoot.com` | No |
 | `snoot.tube` | No |
@@ -45666,8 +45669,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,260 |
-| Normal | 33,363 |
+| Cloudflare | 12,261 |
+| Normal | 33,365 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
