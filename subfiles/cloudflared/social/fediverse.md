@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,939 |
-| social | 4,359 |
+| social | 4,360 |
 | net | 3,541 |
-| org | 2,391 |
-| de | 2,214 |
+| org | 2,392 |
+| de | 2,216 |
 
 
 - Mastodon, Pleroma, etc
@@ -2056,6 +2056,7 @@ Here's a list of public Fediverse services.
 | `andysocial.com` | No |
 | `andythompson.social` | No |
 | `andz.me` | No |
+| `anemoneprune.fr` | No |
 | `anemoneya.me` | No |
 | `anesthetizeme.net` | Yes |
 | `anfield.social` | Yes |
@@ -15508,6 +15509,7 @@ Here's a list of public Fediverse services.
 | `grin.hu` | No |
 | `grinch.social` | No |
 | `grindcore.ch` | No |
+| `grindhold.de` | No |
 | `grinoy.xyz` | Yes |
 | `grischa.de` | No |
 | `grischabock.ch` | No |
@@ -15789,6 +15791,7 @@ Here's a list of public Fediverse services.
 | `hackadoll.com` | No |
 | `hackadon.space` | Yes |
 | `hackaroun.de` | Yes |
+| `hackbook.org` | No |
 | `hackdezorg.nl` | No |
 | `hackea.org` | No |
 | `hacked.af` | No |
@@ -19463,6 +19466,7 @@ Here's a list of public Fediverse services.
 | `julika.jp` | No |
 | `juliusbregenzer.de` | No |
 | `juliusgamanyi.com` | No |
+| `jum.pw` | Yes |
 | `jumanji.co` | No |
 | `jumogoh.de` | No |
 | `jumpartifact.com` | No |
@@ -20960,6 +20964,7 @@ Here's a list of public Fediverse services.
 | `krupickovi.eu` | No |
 | `kruythoff.net` | Yes |
 | `krylc.cloud` | Yes |
+| `kryptopraktik.se` | No |
 | `kryptozoology.xyz` | No |
 | `kryptykphysh.xyz` | No |
 | `krysinmedia.com` | Yes |
@@ -24888,6 +24893,7 @@ Here's a list of public Fediverse services.
 | `memefirst.social` | No |
 | `memehub.eu` | Yes |
 | `mememagic.net` | No |
+| `mementomori.school` | Yes |
 | `mementomori.social` | Yes |
 | `mementomori.space` | No |
 | `memeradio.org` | No |
@@ -27897,6 +27903,7 @@ Here's a list of public Fediverse services.
 | `nexus8.cf` | No |
 | `nexusofnerd.org` | Yes |
 | `nexusuk.org` | No |
+| `nexxis.online` | No |
 | `nexxt.social` | No |
 | `nexxtsocial.de` | No |
 | `nezorg.ninja` | No |
@@ -32259,7 +32266,7 @@ Here's a list of public Fediverse services.
 | `pttmpl.de` | No |
 | `ptwg.xyz` | No |
 | `pu2ttz.app.br` | No |
-| `puage.org` | No |
+| `puage.org` | Yes |
 | `pub.pm` | Yes |
 | `pub.solar` | No |
 | `pubby.social` | Yes |
@@ -40388,6 +40395,7 @@ Here's a list of public Fediverse services.
 | `toad-in-the-hole.net` | No |
 | `toad.blue` | No |
 | `toad.city` | No |
+| `toad.host` | No |
 | `toad.house` | No |
 | `toad.social` | No |
 | `toadking.com` | Yes |
@@ -42223,6 +42231,7 @@ Here's a list of public Fediverse services.
 | `utronium.xyz` | No |
 | `utsukta.party` | Yes |
 | `utter.online` | No |
+| `utter.social` | No |
 | `utter.studio` | No |
 | `utveckla.re` | No |
 | `utwente.nl` | No |
@@ -43460,6 +43469,7 @@ Here's a list of public Fediverse services.
 | `weldin.social` | No |
 | `welford.me` | Yes |
 | `welford.social` | Yes |
+| `welhaba.mx` | No |
 | `welivesecurity.com` | No |
 | `well-known.social` | No |
 | `wellcr.app` | No |
@@ -43950,6 +43960,7 @@ Here's a list of public Fediverse services.
 | `wohnzimmer.social` | No |
 | `woho.ooo` | No |
 | `woini.men` | Yes |
+| `woitschetzki.de` | No |
 | `wojciech.cloud` | Yes |
 | `wojciech.pics` | No |
 | `wojgx.pl` | No |
@@ -45644,8 +45655,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,253 |
-| Normal | 33,348 |
+| Cloudflare | 12,256 |
+| Normal | 33,356 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
