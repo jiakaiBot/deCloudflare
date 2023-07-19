@@ -8730,6 +8730,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynTh72542449@twitter](https://twitter.com/NguynTh72542449/status/1401213945289994243) | advertise |
 | [NguynTh73059148@twitter](https://twitter.com/NguynTh73059148/status/1489526144713969664) | advertise |
 | [NguynTh91319870@twitter](https://twitter.com/NguynTh91319870/status/1406592158447017989) | advertise |
+| [NguynThanh14761@twitter](https://twitter.com/NguynThanh14761/status/1681539632088117250) | advertise |
 | [NguynTinTrang5@twitter](https://twitter.com/NguynTinTrang5/status/1670937297435639809) | advertise |
 | [NguynTn10515156@twitter](https://twitter.com/NguynTn10515156/status/1387340058223513607) | advertise |
 | [NguynTn61327840@twitter](https://twitter.com/NguynTn61327840/status/1380795871080538112) | advertise |
