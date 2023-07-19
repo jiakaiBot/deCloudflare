@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,934 |
-| social | 4,356 |
+| com | 6,937 |
+| social | 4,357 |
 | net | 3,540 |
 | org | 2,390 |
 | de | 2,214 |
@@ -1683,6 +1683,7 @@ Here's a list of public Fediverse services.
 | `almonds.gq` | No |
 | `alnair.blue` | No |
 | `alochana.net` | No |
+| `aloha-pink.monster` | No |
 | `alohaloa.com` | No |
 | `alolise.org` | No |
 | `alonecomplex.xyz` | Yes |
@@ -6914,6 +6915,7 @@ Here's a list of public Fediverse services.
 | `cleac.me` | No |
 | `cleantechnica.com` | Yes |
 | `clearairflying.com` | Yes |
+| `clearbackblast.com` | No |
 | `clearly.rocks` | Yes |
 | `clearpixels.org` | Yes |
 | `cleary.au` | No |
@@ -7313,7 +7315,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7798,6 +7800,7 @@ Here's a list of public Fediverse services.
 | `craigearley.com` | No |
 | `craigmcclellan.com` | No |
 | `craignt.com` | No |
+| `craigspivack.com` | Yes |
 | `craigstewart.de` | No |
 | `crakac.com` | No |
 | `crakila.moe` | No |
@@ -8401,6 +8404,7 @@ Here's a list of public Fediverse services.
 | `cylon.space` | No |
 | `cymaphore.net` | No |
 | `cynder.me` | Yes |
+| `cynosura.one` | Yes |
 | `cyoum.xyz` | No |
 | `cyph.club` | No |
 | `cyph.xyz` | No |
@@ -13943,6 +13947,7 @@ Here's a list of public Fediverse services.
 | `funkwhale.eus` | No |
 | `funkwhale.it` | Yes |
 | `funkwhale.net` | No |
+| `funkwhale.world` | No |
 | `funky-beagle.at` | No |
 | `funky-family.eu` | Yes |
 | `funky.at` | No |
@@ -16896,6 +16901,7 @@ Here's a list of public Fediverse services.
 | `hometech.social` | No |
 | `hometi.me` | Yes |
 | `homies.gay` | Yes |
+| `hominine.xyz` | Yes |
 | `homirun.pw` | No |
 | `homnomnom.fr` | No |
 | `homo.dev` | No |
@@ -29654,6 +29660,7 @@ Here's a list of public Fediverse services.
 | `opetus.org` | No |
 | `opgezwolle.nl` | No |
 | `opiat.es` | Yes |
+| `opidea.xyz` | No |
 | `opinion8.social` | No |
 | `opinuendo.com` | No |
 | `opiumpost.org` | Yes |
@@ -30533,6 +30540,7 @@ Here's a list of public Fediverse services.
 | `pcgamer.social` | Yes |
 | `pcgamers.win` | Yes |
 | `pcgaming.club` | No |
+| `pcglinks.com` | Yes |
 | `pch.net` | No |
 | `pchost.org` | No |
 | `pclmulqdq.dev` | No |
@@ -32026,6 +32034,7 @@ Here's a list of public Fediverse services.
 | `prlic.social` | Yes |
 | `prnetsec.ml` | No |
 | `pro.yt` | No |
+| `probabilitydegeneration.xyz` | No |
 | `probablyfreespeech.com` | No |
 | `probe.social` | No |
 | `probesys.com` | Yes |
@@ -33252,6 +33261,7 @@ Here's a list of public Fediverse services.
 | `reapers.de` | No |
 | `reason.rocks` | No |
 | `reasonable.world` | No |
+| `reasonably.social` | No |
 | `reaves.dev` | No |
 | `reax.work` | Yes |
 | `rebased.io` | Yes |
@@ -33482,6 +33492,7 @@ Here's a list of public Fediverse services.
 | `remicck.club` | No |
 | `remilia.ch` | Yes |
 | `remilia.me` | No |
+| `remilia.world` | No |
 | `remnant.social` | No |
 | `remnantrisingnow.com` | No |
 | `remolino.town` | No |
@@ -45620,8 +45631,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,242 |
-| Normal | 33,335 |
+| Cloudflare | 12,247 |
+| Normal | 33,341 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
