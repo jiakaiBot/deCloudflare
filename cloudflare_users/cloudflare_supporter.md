@@ -8485,6 +8485,7 @@ Do not create new issue or we will close it as duplicate.
 | [ned61103443@twitter](https://twitter.com/ned61103443/status/1401817912399130628) | advertise |
 | [nedladdning2728@twitter](https://twitter.com/nedladdning2728/status/1625851458481684484) | advertise |
 | [neerajberi01@twitter](https://twitter.com/neerajberi01/status/1407986671929331713) | advertise |
+| [NegashNegeso@twitter](https://twitter.com/NegashNegeso/status/1681707193156902912) | advertise |
 | [NehaLohiya8@twitter](https://twitter.com/NehaLohiya8/status/1548921034241220609) | advertise |
 | [nejcs@twitter](https://twitter.com/nejcs/status/1574658004158648320) | advertise |
 | [Nek010N@twitter](https://twitter.com/Nek010N/status/1646712586539511808) | advertise |
