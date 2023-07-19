@@ -20435,6 +20435,7 @@ Here's a list of public Fediverse services.
 | `kitsune.moe` | Yes |
 | `kitsune.social` | No |
 | `kitsunemimi.club` | No |
+| `kitsunes.cloud` | No |
 | `kitsunes.club` | Yes |
 | `kitsunes.gay` | Yes |
 | `kitsunes.world` | Yes |
@@ -45632,7 +45633,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,247 |
-| Normal | 33,341 |
+| Normal | 33,342 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
