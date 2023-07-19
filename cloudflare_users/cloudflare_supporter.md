@@ -5049,6 +5049,7 @@ Do not create new issue or we will close it as duplicate.
 | [Inspirit_134340@twitter](https://twitter.com/Inspirit_134340/status/1384521918397632517) | advertise |
 | [Install_SolarUK@twitter](https://twitter.com/Install_SolarUK/status/1551320631546990593) | advertise |
 | [IntentAmplify@twitter](https://twitter.com/IntentAmplify/status/1654566718101159936) | advertise |
+| [InterviewAIApp@twitter](https://twitter.com/InterviewAIApp/status/1681503593046884352) | advertise |
 | [inunglon@twitter](https://twitter.com/inunglon/status/1381237487075356678) | advertise |
 | [Inutoto1@twitter](https://twitter.com/Inutoto1/status/1378980389822230529) | advertise |
 | [invalidlenni@twitter](https://twitter.com/invalidlenni/status/1496126564886589452) | advertise |
