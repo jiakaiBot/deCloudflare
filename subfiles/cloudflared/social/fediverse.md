@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,937 |
-| social | 4,357 |
-| net | 3,540 |
-| org | 2,390 |
+| social | 4,358 |
+| net | 3,541 |
+| org | 2,391 |
 | de | 2,214 |
 
 
@@ -11325,6 +11325,7 @@ Here's a list of public Fediverse services.
 | `endgameviable.social` | No |
 | `endhill.club` | No |
 | `endipito.us` | No |
+| `endlesstalk.org` | Yes |
 | `endofinternet.net` | No |
 | `endofti.me` | No |
 | `endonend.org` | No |
@@ -26047,6 +26048,7 @@ Here's a list of public Fediverse services.
 | `monoweb.jp` | No |
 | `monoxyd.de` | No |
 | `monporte.de` | No |
+| `monrepos.online` | Yes |
 | `monroemi.us` | No |
 | `monsieur-a.fr` | No |
 | `monsieurbidouille.fr` | No |
@@ -26241,6 +26243,7 @@ Here's a list of public Fediverse services.
 | `motern.media` | No |
 | `motewiki.cn` | Yes |
 | `moth.monster` | Yes |
+| `moth.science` | No |
 | `moth.social` | No |
 | `moth.zone` | No |
 | `motisn.net` | Yes |
@@ -30927,6 +30930,7 @@ Here's a list of public Fediverse services.
 | `phillprice.com` | Yes |
 | `philly.chat` | No |
 | `philly.page` | No |
+| `philosophers.social` | No |
 | `philoxweb.be` | No |
 | `philpin.com` | Yes |
 | `philpot.org` | No |
@@ -42235,6 +42239,7 @@ Here's a list of public Fediverse services.
 | `uwu.engineering` | Yes |
 | `uwu.is` | No |
 | `uwu.name` | Yes |
+| `uwu.network` | Yes |
 | `uwu.pm` | Yes |
 | `uwu.social` | Yes |
 | `uwu.solutions` | Yes |
@@ -44615,6 +44620,7 @@ Here's a list of public Fediverse services.
 | `xst.cl` | No |
 | `xsteadfastx.org` | No |
 | `xsukax.com` | No |
+| `xsukax.net` | No |
 | `xtaldave.net` | No |
 | `xtendxbox.com` | Yes |
 | `xtenz.xyz` | No |
@@ -45632,8 +45638,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,247 |
-| Normal | 33,342 |
+| Cloudflare | 12,250 |
+| Normal | 33,345 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
