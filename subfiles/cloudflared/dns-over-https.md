@@ -120,6 +120,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | edgy-dns.com | No |
 | edison42.dev | No |
 | ef67daisuki.club | No |
+| electrotm.org | Yes |
 | elemental.software | Yes |
 | ellichua.com | No |
 | emiliyan.com | Yes |
@@ -377,8 +378,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 186 |
+| Cloudflare | 187 |
 | Normal | 172 |
 
 
-### 52% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 52.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
