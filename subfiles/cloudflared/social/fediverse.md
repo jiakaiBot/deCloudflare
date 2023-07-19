@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,938 |
+| com | 6,939 |
 | social | 4,359 |
 | net | 3,541 |
 | org | 2,391 |
@@ -6831,6 +6831,7 @@ Here's a list of public Fediverse services.
 | `citizengkar.com` | No |
 | `citizenry.social` | No |
 | `citizensgaming.com` | No |
+| `citizensoasis.com` | No |
 | `citringo.net` | No |
 | `citrouille.ch` | No |
 | `citrus.farm` | No |
@@ -28180,6 +28181,7 @@ Here's a list of public Fediverse services.
 | `niwatori.cyou` | No |
 | `niwatoriman.me` | Yes |
 | `niwiad.dev` | No |
+| `nix.ac` | No |
 | `nix.ai` | No |
 | `nix.uno` | No |
 | `nixc.us` | No |
@@ -45643,7 +45645,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,253 |
-| Normal | 33,346 |
+| Normal | 33,348 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
