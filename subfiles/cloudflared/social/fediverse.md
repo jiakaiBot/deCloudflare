@@ -7313,7 +7313,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7673,7 +7673,7 @@ Here's a list of public Fediverse services.
 | `cosocial.ca` | No |
 | `cosocial.engineering` | No |
 | `cosp.la` | No |
-| `cosp.me` | Yes |
+| `cosp.me` | No |
 | `cosplay.earth` | No |
 | `cosplaydn.jp` | No |
 | `cosplayer.com` | Yes |
@@ -13498,6 +13498,7 @@ Here's a list of public Fediverse services.
 | `freeanduneasy.blog` | No |
 | `freeassociation.world` | No |
 | `freeatlantis.com` | No |
+| `freebadgers.club` | No |
 | `freeball.in` | No |
 | `freebeer.com` | No |
 | `freebird.gdn` | No |
@@ -14889,7 +14890,7 @@ Here's a list of public Fediverse services.
 | `gladtech.social` | No |
 | `glaess.cc` | No |
 | `glam.monster` | No |
-| `glamdon.com` | No |
+| `glamdon.com` | Yes |
 | `glammr.us` | No |
 | `glaoigh.space` | No |
 | `glarolykoi.net` | No |
@@ -16762,7 +16763,7 @@ Here's a list of public Fediverse services.
 | `hnws.me` | Yes |
 | `hnz.io` | No |
 | `hnzz.nl` | Yes |
-| `ho-chi-minh.info` | Yes |
+| `ho-chi-minh.info` | No |
 | `ho-me.zone` | Yes |
 | `hoagie.fun` | Yes |
 | `hoam.earth` | No |
@@ -21666,6 +21667,7 @@ Here's a list of public Fediverse services.
 | `legbeard.xyz` | No |
 | `legfr.social` | No |
 | `legionpodcasts.com` | No |
+| `legit.dog` | No |
 | `legitimatesounding.com` | No |
 | `legodard.fr` | Yes |
 | `legohousein.space` | No |
@@ -28105,7 +28107,7 @@ Here's a list of public Fediverse services.
 | `ninefortyone.social` | No |
 | `ninetailed.space` | No |
 | `ninetailed.uk` | No |
-| `ninetails.click` | Yes |
+| `ninetails.click` | No |
 | `nineties.cafe` | No |
 | `ninetiesmysteri.es` | No |
 | `nineworlds.social` | No |
@@ -45614,8 +45616,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,238 |
-| Normal | 33,333 |
+| Cloudflare | 12,235 |
+| Normal | 33,338 |
 
 
-### 26.9% of public Fediverse services are using Cloudflare.
+### 26.8% of public Fediverse services are using Cloudflare.
