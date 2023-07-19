@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,939 |
+| com | 6,941 |
 | social | 4,360 |
-| net | 3,541 |
-| org | 2,392 |
+| net | 3,543 |
+| org | 2,393 |
 | de | 2,216 |
 
 
@@ -2595,6 +2595,7 @@ Here's a list of public Fediverse services.
 | `armandmgt.fr` | Yes |
 | `armendarizprecioso.ovh` | No |
 | `armingbears.com` | No |
+| `armlet.org` | No |
 | `armoredmask.com` | Yes |
 | `armpc.de` | No |
 | `armpit.me` | Yes |
@@ -5724,6 +5725,7 @@ Here's a list of public Fediverse services.
 | `cailincat.cloud` | No |
 | `caille.fr` | No |
 | `cain.mobi` | Yes |
+| `caind.live` | Yes |
 | `caioemsi.com.br` | No |
 | `cairnscustomcomputers.cloud` | Yes |
 | `cairobraga.com` | Yes |
@@ -7492,6 +7494,7 @@ Here's a list of public Fediverse services.
 | `conners.social` | No |
 | `connyduck.com` | No |
 | `conoha.cf` | No |
+| `conorab.com` | No |
 | `conquerworld.fr` | No |
 | `conquestuniverse.com` | No |
 | `conr.ca` | Yes |
@@ -18208,6 +18211,7 @@ Here's a list of public Fediverse services.
 | `iowadon.org` | No |
 | `iowntheinter.net` | No |
 | `ioxt.tk` | No |
+| `iozzo.me` | No |
 | `ip1.info` | Yes |
 | `ipfire.org` | No |
 | `ipfixe.info` | No |
@@ -19394,6 +19398,7 @@ Here's a list of public Fediverse services.
 | `js.social` | Yes |
 | `js4.in` | No |
 | `jsantos.eu` | No |
+| `jschuessler.com` | No |
 | `jschwab.org` | No |
 | `jseggers.com` | Yes |
 | `jsfamily.in` | No |
@@ -25671,6 +25676,7 @@ Here's a list of public Fediverse services.
 | `misterme.fr` | No |
 | `mistermi.me` | No |
 | `mistic.net` | No |
+| `mistlake.net` | No |
 | `mistli.net` | No |
 | `mistodon.cloud` | No |
 | `mistpark.net` | No |
@@ -31145,6 +31151,7 @@ Here's a list of public Fediverse services.
 | `pinksheep.org` | No |
 | `pinkumandrill.com` | No |
 | `pinkwhite.blue` | No |
+| `pinky.st` | No |
 | `pinniped.pub` | No |
 | `pinnoto.org` | No |
 | `pinseri.com` | No |
@@ -33536,6 +33543,7 @@ Here's a list of public Fediverse services.
 | `rencher.industries` | No |
 | `rencontres-atelier.fr` | No |
 | `renehsz.com` | No |
+| `renekey.jp` | Yes |
 | `renekey.net` | Yes |
 | `renem.net` | Yes |
 | `renes-welt.de` | No |
@@ -37778,6 +37786,7 @@ Here's a list of public Fediverse services.
 | `stellar-drop.info` | Yes |
 | `stellar.build` | Yes |
 | `stellaria.network` | Yes |
+| `stellarspace.net` | Yes |
 | `stellartwin-186f.ovh` | No |
 | `stellarvortex.com` | Yes |
 | `stellas.cf` | Yes |
@@ -38227,6 +38236,7 @@ Here's a list of public Fediverse services.
 | `summerlin.social` | No |
 | `summerwind.blue` | No |
 | `summoners-riftodon.jp` | No |
+| `sumomo.ne.jp` | No |
 | `sumou.fun` | No |
 | `sunbeam.city` | No |
 | `sunburnt.social` | No |
@@ -45656,8 +45666,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,257 |
-| Normal | 33,356 |
+| Cloudflare | 12,260 |
+| Normal | 33,363 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
