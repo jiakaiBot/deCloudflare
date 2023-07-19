@@ -29100,6 +29100,7 @@ Here's a list of public Fediverse services.
 | `odayacres.farm` | Yes |
 | `odd.af` | No |
 | `odd.blog` | No |
+| `odd.town` | Yes |
 | `oddballs.vip` | No |
 | `odditycentral.com` | Yes |
 | `oddly-influenced.dev` | No |
@@ -45619,7 +45620,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,241 |
+| Cloudflare | 12,242 |
 | Normal | 33,335 |
 
 
