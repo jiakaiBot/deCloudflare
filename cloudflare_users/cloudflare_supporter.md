@@ -1188,6 +1188,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungKhantSoe16@twitter](https://twitter.com/AungKhantSoe16/status/1389944641919852546) | advertise |
 | [AungKhatMinn1@twitter](https://twitter.com/AungKhatMinn1/status/1390218393773432833) | advertise |
 | [Aungko797562625@twitter](https://twitter.com/Aungko797562625/status/1392620534781804548) | advertise |
+| [AungKoe20@twitter](https://twitter.com/AungKoe20/status/1681674310451093504) | advertise |
 | [Aungkok08589673@twitter](https://twitter.com/Aungkok08589673/status/1391907029271339021) | advertise |
 | [AungKoK12992205@twitter](https://twitter.com/AungKoK12992205/status/1392755144836718595) | advertise |
 | [AungKol75032184@twitter](https://twitter.com/AungKol75032184/status/1397465693105180675) | advertise |
