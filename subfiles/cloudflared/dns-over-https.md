@@ -68,7 +68,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cira.ca | Yes |
 | clanless.ovh | Yes |
 | cloudflare-dns.com | Yes |
-| comss.one | No |
 | cretu.xyz | Yes |
 | crypto.sx | Yes |
 | cryptomize.com | Yes |
@@ -86,7 +85,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | despagne.net | No |
 | dessoi.cloud | Yes |
 | detoxifypornblocker.com | No |
-| dewed.de | No |
 | dgea.fr | No |
 | digitale-gesellschaft.ch | No |
 | digitalsize.net | No |
@@ -122,7 +120,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | emiliyan.com | Yes |
 | eth.link | Yes |
 | extrawdw.net | Yes |
-| familiamv.ml | No |
 | fancyorg.at | No |
 | fdn.fr | No |
 | feldy.my.id | Yes |
@@ -178,7 +175,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | jinwoo.dev | No |
 | joey01245.nl | No |
 | jstockley.com | Yes |
-| jupitrdns.net | Yes |
 | kamilszczepanski.com | No |
 | karl.one | No |
 | kernel-error.de | No |
@@ -364,8 +360,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 176 |
-| Normal | 169 |
+| Cloudflare | 175 |
+| Normal | 166 |
 
 
-### 51% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
