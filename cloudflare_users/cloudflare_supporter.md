@@ -13599,6 +13599,7 @@ Do not create new issue or we will close it as duplicate.
 | [ynhuongnguyen@twitter](https://twitter.com/ynhuongnguyen/status/1552945350675075074) | advertise |
 | [ynnhi54574877@twitter](https://twitter.com/ynnhi54574877/status/1393622696328531968) | advertise |
 | [YnwSup@twitter](https://twitter.com/YnwSup/status/1403618675697930241) | advertise |
+| [YodyThuan@twitter](https://twitter.com/YodyThuan/status/1681933536797011968) | advertise |
 | [YoegoneA@twitter](https://twitter.com/YoegoneA/status/1390614215132520452) | advertise |
 | [YogeshJ32420022@twitter](https://twitter.com/YogeshJ32420022/status/1504699132937605122) | advertise |
 | [YogevSLahav@twitter](https://twitter.com/YogevSLahav/status/1585123506215620608) | advertise |
