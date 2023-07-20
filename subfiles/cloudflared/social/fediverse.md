@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,949 |
-| social | 4,362 |
-| net | 3,549 |
+| com | 6,952 |
+| social | 4,363 |
+| net | 3,550 |
 | org | 2,395 |
 | de | 2,217 |
 
@@ -6428,6 +6428,7 @@ Here's a list of public Fediverse services.
 | `chatsubo.cafe` | Yes |
 | `chatsubo.social` | Yes |
 | `chatter.monster` | No |
+| `chatter.nu` | No |
 | `chatter.vip` | No |
 | `chatterbook.us` | No |
 | `chatterboxtown.us` | No |
@@ -12953,6 +12954,7 @@ Here's a list of public Fediverse services.
 | `fish.pm` | Yes |
 | `fishbowl.ink` | No |
 | `fishingblog.org` | No |
+| `fishking.studio` | No |
 | `fishnchips.buzz` | No |
 | `fishnet.vip` | Yes |
 | `fishpool.org` | Yes |
@@ -15413,6 +15415,7 @@ Here's a list of public Fediverse services.
 | `greatloop.social` | Yes |
 | `greatview.video` | No |
 | `greatvoid.org` | Yes |
+| `greboca.com` | No |
 | `gred.al` | Yes |
 | `greed.monster` | No |
 | `greedygretchen.com` | No |
@@ -16077,6 +16080,7 @@ Here's a list of public Fediverse services.
 | `hardill.me.uk` | No |
 | `harding.dev` | No |
 | `hardlimit.com` | No |
+| `hardly.social` | No |
 | `hardr.social` | No |
 | `hardtoast.social` | Yes |
 | `hardwarehookups.com.au` | No |
@@ -17168,6 +17172,7 @@ Here's a list of public Fediverse services.
 | `htt.social` | No |
 | `hu-e.uk` | Yes |
 | `huaren.social` | No |
+| `hub.lol` | Yes |
 | `hubbr.org` | No |
 | `hubbz.de` | No |
 | `huber-67.fr` | No |
@@ -18745,6 +18750,7 @@ Here's a list of public Fediverse services.
 | `janxy.me` | No |
 | `janxy.town` | No |
 | `jaoh.xyz` | Yes |
+| `japan-city.net` | No |
 | `japan-railway.tokyo` | No |
 | `japanlions.club` | No |
 | `japanties.org` | No |
@@ -19983,6 +19989,7 @@ Here's a list of public Fediverse services.
 | `kazu-server.tk` | No |
 | `kazu34.net` | No |
 | `kazu634.com` | Yes |
+| `kazuha.kr` | Yes |
 | `kazuki.xyz` | Yes |
 | `kazv.moe` | No |
 | `kazvam.com` | Yes |
@@ -20990,6 +20997,7 @@ Here's a list of public Fediverse services.
 | `kruniak.cc` | No |
 | `krupickovi.eu` | No |
 | `kruythoff.net` | Yes |
+| `kry.pt` | No |
 | `krylc.cloud` | Yes |
 | `kryptopraktik.se` | No |
 | `kryptozoology.xyz` | No |
@@ -25352,6 +25360,7 @@ Here's a list of public Fediverse services.
 | `mikemcquaid.com` | Yes |
 | `mikemestnik.net` | No |
 | `mikep.ro` | Yes |
+| `mikepaul.com` | Yes |
 | `mikes.tech` | No |
 | `mikeshouse.live` | No |
 | `mikespla.in` | Yes |
@@ -32839,6 +32848,7 @@ Here's a list of public Fediverse services.
 | `rabbits-at.work` | No |
 | `rabbits.supplies` | No |
 | `rabble.network` | No |
+| `rabble.nz` | No |
 | `rabe.social` | No |
 | `rabidbadger.ovh` | No |
 | `rabidgeek.com` | No |
@@ -35434,7 +35444,7 @@ Here's a list of public Fediverse services.
 | `seaside.cafe` | No |
 | `seaswallow.me` | Yes |
 | `seattle.cafe` | No |
-| `seattle.wa.us` | No |
+| `seattle.wa.us` | Yes |
 | `seattlebikeblog.com` | Yes |
 | `seattlebus.space` | No |
 | `seattlelunarsociety.org` | No |
@@ -38739,6 +38749,7 @@ Here's a list of public Fediverse services.
 | `tad.me` | Yes |
 | `tadanemuinda.com` | No |
 | `tadeas.net` | Yes |
+| `tadosskey.com` | Yes |
 | `tadpol.org` | No |
 | `tadzik.net` | No |
 | `taedcke.social` | No |
@@ -38806,6 +38817,7 @@ Here's a list of public Fediverse services.
 | `takoyaki.xyz` | No |
 | `takpika.jp` | Yes |
 | `taks.garden` | No |
+| `taktstock.blue` | Yes |
 | `takuann.net` | Yes |
 | `takuji.org` | Yes |
 | `takulog.info` | Yes |
@@ -39312,6 +39324,7 @@ Here's a list of public Fediverse services.
 | `tencrux.com` | No |
 | `tending.to` | Yes |
 | `tendo.social` | Yes |
+| `tene.re` | No |
 | `tenforward.social` | No |
 | `tengu.ch` | No |
 | `tenhou.in` | Yes |
@@ -45710,8 +45723,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,274 |
-| Normal | 33,393 |
+| Cloudflare | 12,280 |
+| Normal | 33,400 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
