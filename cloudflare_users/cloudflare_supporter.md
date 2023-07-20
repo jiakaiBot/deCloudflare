@@ -9372,6 +9372,7 @@ Do not create new issue or we will close it as duplicate.
 | [pbrito1@twitter](https://twitter.com/pbrito1/status/1370109221572902918) | advertise |
 | [PCAdvisorUK@twitter](https://twitter.com/PCAdvisorUK/status/1579882017583665152) | advertise |
 | [PChadathong@twitter](https://twitter.com/PChadathong/status/1381661981304758273) | advertise |
+| [PcMagik@twitter](https://twitter.com/PcMagik/status/1681804702264991745) | advertise |
 | [PDoxX7@twitter](https://twitter.com/PDoxX7/status/1539952156333248512) | advertise |
 | [PDurua@twitter](https://twitter.com/PDurua/status/1590598546017128448) | advertise |
 | [PDXStolenCar@twitter](https://twitter.com/PDXStolenCar/status/1557609975949668353) | advertise |
