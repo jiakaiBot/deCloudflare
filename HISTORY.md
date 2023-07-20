@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-07-20: [Network Performance Issues in Johannesburg, South Africa](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/04gnkx3hpmql)
 - 2023-07-19: [Network Performance issues in Japan](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vywr0swl0kzt)
 - 2023-07-18: [Zero Trust performance issues in South Africa (JNB)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/p463qtcb8nrs)
 - 2023-07-18: [User email verification link issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/k8t8xp4yvhx7)
