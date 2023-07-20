@@ -1637,6 +1637,7 @@ Do not create new issue or we will close it as duplicate.
 | [BGSG45998073@twitter](https://twitter.com/BGSG45998073/status/1396751243352084487) | advertise |
 | [BgsRaw@twitter](https://twitter.com/BgsRaw/status/1505947100793774087) | advertise |
 | [BgUplive@twitter](https://twitter.com/BgUplive/status/1640018862304526336) | advertise |
+| [bg_pu55098@twitter](https://twitter.com/bg_pu55098/status/1682042073204260864) | advertise |
 | [BhabishyaB@twitter](https://twitter.com/BhabishyaB/status/1370382367894904832) | advertise |
 | [bhaiyonjon@twitter](https://twitter.com/bhaiyonjon/status/1381446166701690880) | advertise |
 | [BhamoHtet@twitter](https://twitter.com/BhamoHtet/status/1407932128222859272) | advertise |
