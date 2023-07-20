@@ -12916,6 +12916,7 @@ Here's a list of public Fediverse services.
 | `firedragonvideos.com` | No |
 | `firefaithfellowship.com` | Yes |
 | `firefish.lgbt` | No |
+| `firefish.nz` | No |
 | `firefish.ooo` | No |
 | `fireflies.nl` | No |
 | `firefly.land` | Yes |
@@ -45673,7 +45674,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,259 |
-| Normal | 33,370 |
+| Normal | 33,371 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
