@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,947 |
+| com | 6,948 |
 | social | 4,362 |
-| net | 3,545 |
+| net | 3,546 |
 | org | 2,393 |
 | de | 2,217 |
 
@@ -8616,6 +8616,7 @@ Here's a list of public Fediverse services.
 | `dangerousminds.net` | Yes |
 | `dangeroutside.com` | No |
 | `dangilbert.eu` | Yes |
+| `dangly.parts` | Yes |
 | `dangre.de` | No |
 | `dani.cool` | Yes |
 | `dani.pw` | No |
@@ -12924,6 +12925,7 @@ Here's a list of public Fediverse services.
 | `firefish.lgbt` | No |
 | `firefish.nz` | No |
 | `firefish.ooo` | No |
+| `firefish.tech` | No |
 | `fireflies.nl` | No |
 | `firefly.land` | Yes |
 | `fireglow.de` | No |
@@ -34278,6 +34280,7 @@ Here's a list of public Fediverse services.
 | `rousset.nom.fr` | No |
 | `rout0r.org` | No |
 | `route66.social` | No |
+| `routebin.com` | Yes |
 | `routemehome.org` | Yes |
 | `routing.center` | Yes |
 | `routing.rocks` | Yes |
@@ -44765,6 +44768,7 @@ Here's a list of public Fediverse services.
 | `yahoo.com` | Yes |
 | `yajamon.com` | Yes |
 | `yajamon.xyz` | No |
+| `yakijake.net` | Yes |
 | `yakimapride.org` | No |
 | `yakiniku.cloud` | No |
 | `yakishamo.com` | Yes |
@@ -45694,8 +45698,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,267 |
-| Normal | 33,384 |
+| Cloudflare | 12,270 |
+| Normal | 33,385 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
