@@ -31436,6 +31436,7 @@ Here's a list of public Fediverse services.
 | `plead.help` | No |
 | `pleasant.land` | No |
 | `pleasant.rest` | Yes |
+| `please-dominate.me` | No |
 | `please-yiff.me` | No |
 | `pleasecuminside.me` | No |
 | `pleasedontpoke.me` | No |
@@ -45702,7 +45703,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,271 |
-| Normal | 33,387 |
+| Normal | 33,388 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
