@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cask: Authy using incorrectversion](https://github.com/Homebrew/homebrew-cask/issues/151365)
+- [Failed to setup - old setup stopped working, cannot setup again](https://github.com/SecKatie/ha-wyzeapi/issues/492)
 - [FEATURE Mitigate potential for abuse.](https://github.com/Nathan13888/VisitorBadgeReloaded/issues/43)
 - [Cant upload files to IPFS via api.nft.storage/upload and client.storeBlob(someData);](https://github.com/nftstorage/nft.storage/issues/2427)
 - [Support Cloudflare Pages advance mode: _worker.js](https://github.com/honojs/hono/issues/1247)
