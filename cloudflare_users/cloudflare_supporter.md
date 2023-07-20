@@ -5667,6 +5667,7 @@ Do not create new issue or we will close it as duplicate.
 | [kahatake88@twitter](https://twitter.com/kahatake88/status/1581301801823141888) | advertise |
 | [kahirul@twitter](https://twitter.com/kahirul/status/1504382402533023745) | advertise |
 | [kahkeshanandero@twitter](https://twitter.com/kahkeshanandero/status/1577565621994356737) | advertise |
+| [kahwh83613@twitter](https://twitter.com/kahwh83613/status/1682140664665088002) | advertise |
 | [KAI10505564@twitter](https://twitter.com/KAI10505564/status/1391967142015164417) | advertise |
 | [Kaif88678916@twitter](https://twitter.com/Kaif88678916/status/1378248726020456451) | advertise |
 | [kaikophyo@twitter](https://twitter.com/kaikophyo/status/1399295110282571776) | advertise |
@@ -5749,6 +5750,7 @@ Do not create new issue or we will close it as duplicate.
 | [kartik20031@twitter](https://twitter.com/kartik20031/status/1401516345284464643) | advertise |
 | [KartikT93021170@twitter](https://twitter.com/KartikT93021170/status/1378252832911060993) | advertise |
 | [Kartoz12@twitter](https://twitter.com/Kartoz12/status/1393136545595498496) | advertise |
+| [KASAB786@twitter](https://twitter.com/KASAB786/status/1682144200605982720) | advertise |
 | [kashyapyash306@twitter](https://twitter.com/kashyapyash306/status/1402270575293239306) | advertise |
 | [KasiditBoom@twitter](https://twitter.com/KasiditBoom/status/1608692849939460100) | advertise |
 | [Kasie100000@twitter](https://twitter.com/Kasie100000/status/1493728381715714050) | advertise |
