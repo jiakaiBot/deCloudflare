@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,948 |
+| com | 6,949 |
 | social | 4,362 |
-| net | 3,546 |
+| net | 3,547 |
 | org | 2,393 |
 | de | 2,217 |
 
@@ -15869,7 +15869,7 @@ Here's a list of public Fediverse services.
 | `hacktastic.org` | No |
 | `hackthebox.social` | No |
 | `hacktheplanet.be` | No |
-| `hackthesound.com` | No |
+| `hackthesound.com` | Yes |
 | `hackthis.space` | No |
 | `hacktivis.me` | No |
 | `hackto.me` | No |
@@ -27932,6 +27932,7 @@ Here's a list of public Fediverse services.
 | `nexxis.online` | No |
 | `nexxt.social` | No |
 | `nexxtsocial.de` | No |
+| `ney.ink` | No |
 | `nezorg.ninja` | No |
 | `nf0.ru` | No |
 | `nfa.cz` | No |
@@ -35137,6 +35138,7 @@ Here's a list of public Fediverse services.
 | `schinbo.de` | No |
 | `schipper.social` | No |
 | `schirmer.tech` | No |
+| `schitthaus.com` | No |
 | `schizo.dev` | No |
 | `schizo.me` | Yes |
 | `schizo.online` | No |
@@ -39323,6 +39325,7 @@ Here's a list of public Fediverse services.
 | `tenpoku.com` | Yes |
 | `tenshi.sh` | Yes |
 | `tenshicorn.dog` | Yes |
+| `tenshu.net` | No |
 | `tenta.fun` | No |
 | `tentacle.expert` | No |
 | `tentacle.social` | No |
@@ -45698,8 +45701,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,270 |
-| Normal | 33,385 |
+| Cloudflare | 12,271 |
+| Normal | 33,387 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
