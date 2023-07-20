@@ -6781,6 +6781,7 @@ Do not create new issue or we will close it as duplicate.
 | [LinnThuHein1@twitter](https://twitter.com/LinnThuHein1/status/1394612243485036544) | advertise |
 | [linnyam4@twitter](https://twitter.com/linnyam4/status/1395362626603950082) | advertise |
 | [LinPadauk@twitter](https://twitter.com/LinPadauk/status/1385245372918816770) | advertise |
+| [LinTeAmo@twitter](https://twitter.com/LinTeAmo/status/1682018638600237057) | advertise |
 | [linthetpaingltp@twitter](https://twitter.com/linthetpaingltp/status/1390244063987830784) | advertise |
 | [linthitmyowin@twitter](https://twitter.com/linthitmyowin/status/1395258884621668354) | advertise |
 | [LinThu30135420@twitter](https://twitter.com/LinThu30135420/status/1552655372779155456) | advertise |
