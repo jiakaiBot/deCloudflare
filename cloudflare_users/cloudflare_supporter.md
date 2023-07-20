@@ -12146,6 +12146,7 @@ Do not create new issue or we will close it as duplicate.
 | [thwinphyoeaung@twitter](https://twitter.com/thwinphyoeaung/status/1389850121282625538) | advertise |
 | [thwin_y@twitter](https://twitter.com/thwin_y/status/1392784689874624513) | advertise |
 | [Thxange4@twitter](https://twitter.com/Thxange4/status/1402513226936451074) | advertise |
+| [ThyV42221054@twitter](https://twitter.com/ThyV42221054/status/1682097771980136449) | advertise |
 | [ti04869685@twitter](https://twitter.com/ti04869685/status/1552582677751951365) | advertise |
 | [Ti35576671@twitter](https://twitter.com/Ti35576671/status/1588180667635941376) | advertise |
 | [Ti78007536@twitter](https://twitter.com/Ti78007536/status/1388142390859354115) | advertise |
