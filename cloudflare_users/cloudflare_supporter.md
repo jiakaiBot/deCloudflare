@@ -9856,6 +9856,7 @@ Do not create new issue or we will close it as duplicate.
 | [pusi_sywm@twitter](https://twitter.com/pusi_sywm/status/1391396929540591616) | advertise |
 | [PustiuXP@twitter](https://twitter.com/PustiuXP/status/1384074566591401986) | advertise |
 | [putuphyo@twitter](https://twitter.com/putuphyo/status/1397100452815282177) | advertise |
+| [PuuLee96@twitter](https://twitter.com/PuuLee96/status/1682074151752966146) | advertise |
 | [puzzogambino@twitter](https://twitter.com/puzzogambino/status/1632920793419223040) | advertise |
 | [pvitale@twitter](https://twitter.com/pvitale/status/1598806882046681103) | advertise |
 | [PVLDAma@twitter](https://twitter.com/PVLDAma/status/1578330881319587841) | advertise |
