@@ -810,6 +810,7 @@ Do not create new issue or we will close it as duplicate.
 | [andrewcruzantoo@twitter](https://twitter.com/andrewcruzantoo/status/1385876533122801665) | advertise |
 | [AndrewNguyn7@twitter](https://twitter.com/AndrewNguyn7/status/1398873098959560708) | advertise |
 | [AndrewYagami51@twitter](https://twitter.com/AndrewYagami51/status/1390187834758156293) | advertise |
+| [Andrew_Vu49@twitter](https://twitter.com/Andrew_Vu49/status/1681961182079647745) | advertise |
 | [AndrexDevCom@twitter](https://twitter.com/AndrexDevCom/status/1658890789668233223) | advertise |
 | [andriannp@twitter](https://twitter.com/andriannp/status/1401023261085814787) | advertise |
 | [AndrianoVu@twitter](https://twitter.com/AndrianoVu/status/1519982700438114304) | advertise |
@@ -3077,6 +3078,7 @@ Do not create new issue or we will close it as duplicate.
 | [duckyd34707582@twitter](https://twitter.com/duckyd34707582/status/1389283639888732160) | advertise |
 | [duclap1888@twitter](https://twitter.com/duclap1888/status/1386945029084618755) | advertise |
 | [DucMinhVu9@twitter](https://twitter.com/DucMinhVu9/status/1407931928137715714) | advertise |
+| [ducmuoi10@twitter](https://twitter.com/ducmuoi10/status/1681956871333367809) | advertise |
 | [DucNguy17484873@twitter](https://twitter.com/DucNguy17484873/status/1577371114346774528) | advertise |
 | [Ducongluat1@twitter](https://twitter.com/Ducongluat1/status/1387339273892876290) | advertise |
 | [Ducphuc1996@twitter](https://twitter.com/Ducphuc1996/status/1621527990093107201) | advertise |
@@ -12350,6 +12352,7 @@ Do not create new issue or we will close it as duplicate.
 | [ToxicGa33583045@twitter](https://twitter.com/ToxicGa33583045/status/1394645532132487169) | advertise |
 | [toxicspot_yt@twitter](https://twitter.com/toxicspot_yt/status/1459804440433610753) | advertise |
 | [toxuantien@twitter](https://twitter.com/toxuantien/status/1397212992102670339) | advertise |
+| [tpk10699@twitter](https://twitter.com/tpk10699/status/1681969163030642688) | advertise |
 | [TpkKungmanee@twitter](https://twitter.com/TpkKungmanee/status/1552639358381195265) | advertise |
 | [tpower455@twitter](https://twitter.com/tpower455/status/1586730995755397120) | advertise |
 | [TPPK18@twitter](https://twitter.com/TPPK18/status/1447592577562198029) | advertise |
