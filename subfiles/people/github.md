@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Further reduction of calls being made to Cloudflare APO](https://github.com/wp-media/wp-rocket/issues/6061)
 - [SupabaseVectorStore not working on cloudflare](https://github.com/hwchase17/langchainjs/issues/2020)
 - [Cask: Authy using incorrectversion](https://github.com/Homebrew/homebrew-cask/issues/151365)
 - [Failed to setup - old setup stopped working, cannot setup again](https://github.com/SecKatie/ha-wyzeapi/issues/492)
