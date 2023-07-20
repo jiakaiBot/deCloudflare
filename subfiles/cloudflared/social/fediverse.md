@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,949 |
 | social | 4,362 |
-| net | 3,547 |
-| org | 2,393 |
+| net | 3,549 |
+| org | 2,395 |
 | de | 2,217 |
 
 
@@ -2437,6 +2437,7 @@ Here's a list of public Fediverse services.
 | `arachnid.town` | Yes |
 | `arachnitech.com` | Yes |
 | `aragon.sh` | Yes |
+| `araiguma.space` | Yes |
 | `araisan.club` | No |
 | `arakawa-lab.com` | No |
 | `arakawa.xyz` | No |
@@ -7123,6 +7124,7 @@ Here's a list of public Fediverse services.
 | `coazergues.info` | No |
 | `cobaltia.org` | No |
 | `cobaltkiss.blue` | Yes |
+| `cobalto.net` | No |
 | `cobblestone.rocks` | No |
 | `cobby.eu` | No |
 | `cobracrew.de` | No |
@@ -14145,6 +14147,7 @@ Here's a list of public Fediverse services.
 | `fynbo.social` | Yes |
 | `fyralabs.com` | Yes |
 | `fyreblock.com` | No |
+| `fyrefish.co.uk` | No |
 | `fyrf.li` | No |
 | `fyrfli.live` | Yes |
 | `fyrfli.social` | No |
@@ -20683,6 +20686,7 @@ Here's a list of public Fediverse services.
 | `koenvh.nl` | No |
 | `koesters.xyz` | No |
 | `koetodon.com` | No |
+| `kofuk.org` | Yes |
 | `kog.to` | No |
 | `kogak.ninja` | No |
 | `kogak.xyz` | No |
@@ -30996,6 +31000,7 @@ Here's a list of public Fediverse services.
 | `phoenix591.com` | Yes |
 | `phoenixict.it` | No |
 | `phoenixkahlo.com` | No |
+| `phoenixlair.net` | No |
 | `phoenixproject.group` | No |
 | `phoenixradio1208.com` | No |
 | `phoenixtrap.com` | Yes |
@@ -34261,6 +34266,7 @@ Here's a list of public Fediverse services.
 | `rossabaker.com` | No |
 | `rosseaux.com` | No |
 | `rossi.ax` | Yes |
+| `rosssi.co.uk` | No |
 | `rosy-colored.space` | Yes |
 | `rot.gives` | No |
 | `roter-kreis.de` | No |
@@ -35388,6 +35394,7 @@ Here's a list of public Fediverse services.
 | `sdr.haus` | No |
 | `sds-ip.de` | No |
 | `sdshaver.com` | Yes |
+| `sduarte.org` | No |
 | `sduoduo.xyz` | No |
 | `sdz5.com` | No |
 | `se1.eu` | No |
@@ -41328,6 +41335,7 @@ Here's a list of public Fediverse services.
 | `tticlab.com` | No |
 | `ttk.is` | No |
 | `tto.moe` | Yes |
+| `ttocs.io` | Yes |
 | `ttree.ch` | Yes |
 | `ttrpg-hangout.social` | No |
 | `ttrpg.network` | No |
@@ -45702,8 +45710,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,271 |
-| Normal | 33,388 |
+| Cloudflare | 12,274 |
+| Normal | 33,393 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
