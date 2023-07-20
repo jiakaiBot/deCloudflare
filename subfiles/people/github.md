@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't create scaleway_object_bucket_policy](https://github.com/scaleway/terraform-provider-scaleway/issues/2061)
 - [v1 isn't working and supported anymore](https://github.com/itsrn/heypi-js/issues/1)
 - [Further reduction of calls being made to Cloudflare APO](https://github.com/wp-media/wp-rocket/issues/6061)
 - [SupabaseVectorStore not working on cloudflare](https://github.com/hwchase17/langchainjs/issues/2020)
