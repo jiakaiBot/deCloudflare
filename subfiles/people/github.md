@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [SupabaseVectorStore not working on cloudflare](https://github.com/hwchase17/langchainjs/issues/2020)
 - [Cask: Authy using incorrectversion](https://github.com/Homebrew/homebrew-cask/issues/151365)
 - [Failed to setup - old setup stopped working, cannot setup again](https://github.com/SecKatie/ha-wyzeapi/issues/492)
 - [FEATURE Mitigate potential for abuse.](https://github.com/Nathan13888/VisitorBadgeReloaded/issues/43)
