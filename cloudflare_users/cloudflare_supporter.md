@@ -9212,6 +9212,7 @@ Do not create new issue or we will close it as duplicate.
 | [OracleByHades@twitter](https://twitter.com/OracleByHades/status/1612795630723944448) | advertise |
 | [Orange15115578@twitter](https://twitter.com/Orange15115578/status/1400454754145234952) | advertise |
 | [Orange23582707@twitter](https://twitter.com/Orange23582707/status/1390373004798959617) | advertise |
+| [OrangeMonkeyCS2@twitter](https://twitter.com/OrangeMonkeyCS2/status/1682164238314352641) | advertise |
 | [orangesweed@twitter](https://twitter.com/orangesweed/status/1381985172153802752) | advertise |
 | [orange_know@twitter](https://twitter.com/orange_know/status/1597087806257786880) | advertise |
 | [orbitandgravity@twitter](https://twitter.com/orbitandgravity/status/1601254183109558273) | advertise |
@@ -11102,6 +11103,7 @@ Do not create new issue or we will close it as duplicate.
 | [Skythewolf22@twitter](https://twitter.com/Skythewolf22/status/1412424567625289735) | moral (advertise) |
 | [SkyzGaming12@twitter](https://twitter.com/SkyzGaming12/status/1400060043710517248) | advertise |
 | [SlavomirRychna3@twitter](https://twitter.com/SlavomirRychna3/status/1548046291799666690) | advertise |
+| [SleazyDemon666@twitter](https://twitter.com/SleazyDemon666/status/1682153365378154498) | advertise |
 | [sleepsnoop12071@twitter](https://twitter.com/sleepsnoop12071/status/1656097038176772096) | advertise |
 | [SleepyA39016632@twitter](https://twitter.com/SleepyA39016632/status/1604113766115082241) | advertise |
 | [SleepyH67417917@twitter](https://twitter.com/SleepyH67417917/status/1503197462638514179) | advertise |
