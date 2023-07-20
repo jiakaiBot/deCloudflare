@@ -29560,6 +29560,7 @@ Here's a list of public Fediverse services.
 | `ooio.org` | No |
 | `ookami.one` | No |
 | `oomfi.es` | No |
+| `oomfie.city` | No |
 | `oompa.ga` | No |
 | `oomurosakura.co` | Yes |
 | `oook.fr` | No |
@@ -45099,6 +45100,7 @@ Here's a list of public Fediverse services.
 | `yufarch.com` | Yes |
 | `yufushiro.dev` | Yes |
 | `yug1224.com` | Yes |
+| `yuga.surf` | No |
 | `yugioh.social` | No |
 | `yuicho.net` | Yes |
 | `yujin.me` | No |
@@ -45687,7 +45689,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,265 |
-| Normal | 33,378 |
+| Normal | 33,380 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
