@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,945 |
+| com | 6,947 |
 | social | 4,362 |
 | net | 3,545 |
 | org | 2,393 |
@@ -5702,6 +5702,7 @@ Here's a list of public Fediverse services.
 | `cackhanded.net` | No |
 | `cackl.io` | Yes |
 | `cacti.dev` | Yes |
+| `cactusketo.com` | No |
 | `cadadr.digital` | No |
 | `cadiz.ovh` | No |
 | `cadusilva.com` | Yes |
@@ -11331,6 +11332,7 @@ Here's a list of public Fediverse services.
 | `endaaman.me` | No |
 | `endeavorelectrical.com` | No |
 | `enderwalk.gay` | No |
+| `endgameviable.com` | No |
 | `endgameviable.social` | No |
 | `endhill.club` | No |
 | `endipito.us` | No |
@@ -12097,6 +12099,7 @@ Here's a list of public Fediverse services.
 | `falafel.win` | No |
 | `falconia.club` | No |
 | `falconk.rocks` | No |
+| `fale.io` | No |
 | `falk.cafe` | Yes |
 | `falk.us` | No |
 | `falkenhagen.de` | No |
@@ -16533,6 +16536,7 @@ Here's a list of public Fediverse services.
 | `hexagon.space` | No |
 | `hexagon.town` | No |
 | `hexagons.social` | No |
+| `hexagonsun.one` | Yes |
 | `hexaly.se` | No |
 | `hexandcube.eu.org` | Yes |
 | `hexandcube.tk` | No |
@@ -28331,6 +28335,7 @@ Here's a list of public Fediverse services.
 | `noclick.se` | Yes |
 | `nocogabriel.fr` | No |
 | `nocoolnametom.com` | No |
+| `nocopyrightintended.tv` | Yes |
 | `nocorp.net` | No |
 | `nocserv.de` | No |
 | `noctilucent.blue` | No |
@@ -28489,6 +28494,7 @@ Here's a list of public Fediverse services.
 | `nontongp.tv` | Yes |
 | `nonzero.social` | No |
 | `noob.party` | No |
+| `noob.quest` | No |
 | `nooble.cloud` | Yes |
 | `noodle.social` | No |
 | `noods.fun` | Yes |
@@ -45688,8 +45694,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,265 |
-| Normal | 33,380 |
+| Cloudflare | 12,267 |
+| Normal | 33,384 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
