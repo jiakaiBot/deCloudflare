@@ -7321,7 +7321,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9364,7 +9364,7 @@ Here's a list of public Fediverse services.
 | `design.vu` | No |
 | `designbykr.com` | No |
 | `designersethiques.org` | No |
-| `designguide.site` | Yes |
+| `designguide.site` | No |
 | `designlounge.social` | No |
 | `designor.de` | No |
 | `desir.social` | No |
@@ -24837,7 +24837,7 @@ Here's a list of public Fediverse services.
 | `meis.space` | No |
 | `meissa-gmbh.de` | No |
 | `meissa.cf` | No |
-| `meisskey.blue` | Yes |
+| `meisskey.blue` | No |
 | `meisskey.one` | Yes |
 | `meissners.me` | No |
 | `meitendo.space` | No |
@@ -25661,6 +25661,7 @@ Here's a list of public Fediverse services.
 | `misskey.wtf` | No |
 | `misskey.xyz` | No |
 | `misskeyjp.com` | Yes |
+| `misskeytsf.love` | No |
 | `misskeyval.com` | Yes |
 | `misskoula.space` | No |
 | `misso-pi.com` | No |
@@ -35586,7 +35587,7 @@ Here's a list of public Fediverse services.
 | `semcensura.xyz` | No |
 | `semente.io` | No |
 | `sementerrori.st` | No |
-| `semicharmed.net` | Yes |
+| `semicharmed.net` | No |
 | `semiosen.de` | No |
 | `semiotic.systems` | Yes |
 | `semipvt.com` | No |
@@ -45669,8 +45670,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,261 |
-| Normal | 33,365 |
+| Cloudflare | 12,257 |
+| Normal | 33,370 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
