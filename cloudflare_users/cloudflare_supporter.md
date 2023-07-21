@@ -3430,6 +3430,7 @@ Do not create new issue or we will close it as duplicate.
 | [exo_omma@twitter](https://twitter.com/exo_omma/status/1401226015817428998) | advertise |
 | [exwezaz@twitter](https://twitter.com/exwezaz/status/1571655497371222016) | advertise |
 | [eYb4nxGhTncqUwi@twitter](https://twitter.com/eYb4nxGhTncqUwi/status/1387831352553136129) | advertise |
+| [EyessDrak61837@twitter](https://twitter.com/EyessDrak61837/status/1682447908212469761) | advertise |
 | [EYGT12@twitter](https://twitter.com/EYGT12/status/1401417134467469317) | advertise |
 | [eymanyzad@twitter](https://twitter.com/eymanyzad/status/1587010158567251973) | advertise |
 | [eyoung2134@twitter](https://twitter.com/eyoung2134/status/1390776289389289473) | advertise |
