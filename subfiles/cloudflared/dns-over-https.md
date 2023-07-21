@@ -305,7 +305,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | stvsk.ml | Yes |
 | sungai.stream | Yes |
 | surfshark.com | Yes |
-| surt.ml | No |
 | switch.ch | No |
 | syaifullah.com | Yes |
 | synology.me | No |
@@ -327,7 +326,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | truong.fi | Yes |
 | tu-bs.de | No |
 | twnic.tw | No |
-| tylerwahl.com | Yes |
 | typaza.com | No |
 | unima.ac.id | No |
 | unstoppable.io | Yes |
@@ -360,8 +358,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 175 |
-| Normal | 166 |
+| Cloudflare | 174 |
+| Normal | 165 |
 
 
 ### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
