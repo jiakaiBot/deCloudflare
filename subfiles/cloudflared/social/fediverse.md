@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,952 |
-| social | 4,364 |
+| com | 6,953 |
+| social | 4,365 |
 | net | 3,550 |
 | org | 2,396 |
 | de | 2,217 |
@@ -4452,6 +4452,7 @@ Here's a list of public Fediverse services.
 | `bjhess.com` | No |
 | `bjmendelson.com` | No |
 | `bjones.net` | No |
+| `bjorkbrant.com` | Yes |
 | `bjorkede.no` | No |
 | `bjorngott.com` | Yes |
 | `bk-guild.de` | No |
@@ -5189,6 +5190,7 @@ Here's a list of public Fediverse services.
 | `bread.social` | No |
 | `breadc.at` | Yes |
 | `breadfactory.tk` | No |
+| `breadfish.social` | No |
 | `breadhub.net` | No |
 | `breadqueues.com` | No |
 | `breadtube.tv` | No |
@@ -13150,6 +13152,7 @@ Here's a list of public Fediverse services.
 | `fluffyheart.me` | No |
 | `fluffyhu.gs` | No |
 | `fluffyshelter.day` | No |
+| `fluffytail.gay` | No |
 | `fluffytail.org` | No |
 | `fluora.net` | Yes |
 | `fluoride.dev` | No |
@@ -18317,6 +18320,7 @@ Here's a list of public Fediverse services.
 | `irunu.co` | Yes |
 | `is-a.cat` | Yes |
 | `is-a.horse` | No |
+| `is-cool.dev` | Yes |
 | `is-hardly.online` | Yes |
 | `is-he.re` | Yes |
 | `is-heckin.gay` | No |
@@ -38167,6 +38171,7 @@ Here's a list of public Fediverse services.
 | `styx.org` | No |
 | `styxem.xyz` | No |
 | `su-social.de` | No |
+| `su.gy` | No |
 | `su.mk` | Yes |
 | `su3.io` | No |
 | `su4ka.icu` | No |
@@ -45727,8 +45732,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,280 |
-| Normal | 33,404 |
+| Cloudflare | 12,282 |
+| Normal | 33,407 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
