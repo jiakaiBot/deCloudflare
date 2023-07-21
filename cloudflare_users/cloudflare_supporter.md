@@ -8582,6 +8582,7 @@ Do not create new issue or we will close it as duplicate.
 | [ngNguyn04734307@twitter](https://twitter.com/ngNguyn04734307/status/1378019479876067330) | advertise |
 | [NgNguyn26699046@twitter](https://twitter.com/NgNguyn26699046/status/1581849871895912448) | advertise |
 | [ngntrunghung136@twitter](https://twitter.com/ngntrunghung136/status/1502081207466881025) | advertise |
+| [ngocgiaunguyenl@twitter](https://twitter.com/ngocgiaunguyenl/status/1682219843880386561) | advertise |
 | [NgocHuy70334871@twitter](https://twitter.com/NgocHuy70334871/status/1549567457383563264) | advertise |
 | [NgocLan1711@twitter](https://twitter.com/NgocLan1711/status/1380847220438618116) | advertise |
 | [NgocLongk1@twitter](https://twitter.com/NgocLongk1/status/1554028232093052928) | advertise |
@@ -13049,6 +13050,7 @@ Do not create new issue or we will close it as duplicate.
 | [Waffle2175@twitter](https://twitter.com/Waffle2175/status/1535801167816577024) | advertise |
 | [Wahab58023934@twitter](https://twitter.com/Wahab58023934/status/1669977261376716800) | advertise |
 | [wahabkh15404091@twitter](https://twitter.com/wahabkh15404091/status/1607854425128706052) | advertise |
+| [wahahahk84@twitter](https://twitter.com/wahahahk84/status/1682217586745016321) | advertise |
 | [wahib0206@twitter](https://twitter.com/wahib0206/status/1522471146721099778) | advertise |
 | [Wahid765306612@twitter](https://twitter.com/Wahid765306612/status/1597558028467064833) | advertise |
 | [wahide09476385@twitter](https://twitter.com/wahide09476385/status/1578259810029830147) | advertise |
