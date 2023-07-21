@@ -12709,6 +12709,7 @@ Here's a list of public Fediverse services.
 | `fennec.online` | No |
 | `fennec.org.uk` | No |
 | `fennec.town` | No |
+| `fennell.dev` | No |
 | `fennet.rentals` | No |
 | `fentanyl.ltd` | No |
 | `fenwick.pizza` | Yes |
@@ -45749,7 +45750,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,287 |
-| Normal | 33,418 |
+| Normal | 33,419 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
