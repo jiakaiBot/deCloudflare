@@ -28103,6 +28103,7 @@ Here's a list of public Fediverse services.
 | `nightowl.jp` | No |
 | `nightshade.fun` | Yes |
 | `nightshift.social` | No |
+| `nighty.name` | No |
 | `nigini.me` | No |
 | `nigiri.dev` | No |
 | `nigreon.net` | No |
@@ -45747,7 +45748,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,287 |
-| Normal | 33,416 |
+| Normal | 33,417 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
