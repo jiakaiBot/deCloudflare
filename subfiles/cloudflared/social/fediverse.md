@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,366 |
 | net | 3,551 |
 | org | 2,400 |
-| de | 2,218 |
+| de | 2,220 |
 
 
 - Mastodon, Pleroma, etc
@@ -697,6 +697,7 @@ Here's a list of public Fediverse services.
 | `8mitsu.net` | No |
 | `8n.lt` | Yes |
 | `8nd.ru` | Yes |
+| `8rnd.de` | No |
 | `8sp.de` | No |
 | `8stars.org` | No |
 | `8th.world` | No |
@@ -15519,6 +15520,7 @@ Here's a list of public Fediverse services.
 | `gridiron.social` | No |
 | `griesser.me` | No |
 | `grieve-smith.com` | No |
+| `grifdail.fr` | No |
 | `griff.la` | Yes |
 | `griffgrub.social` | No |
 | `griffindow.com` | Yes |
@@ -19045,6 +19047,7 @@ Here's a list of public Fediverse services.
 | `jgilje.net` | No |
 | `jgregorymcverry.com` | No |
 | `jh.do` | No |
+| `jh220.de` | Yes |
 | `jhewitt.net` | Yes |
 | `jhilgert.de` | No |
 | `jhnc.me.uk` | No |
@@ -45760,8 +45763,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,293 |
-| Normal | 33,424 |
+| Cloudflare | 12,294 |
+| Normal | 33,426 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
