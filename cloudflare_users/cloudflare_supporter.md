@@ -58,6 +58,7 @@ Do not create new issue or we will close it as duplicate.
 | [1fRaSz22dPfUrsv@twitter](https://twitter.com/1fRaSz22dPfUrsv/status/1542540824759656451) | advertise |
 | [1gNmgWczBahf9Je@twitter](https://twitter.com/1gNmgWczBahf9Je/status/1577351663244951570) | advertise |
 | [1hpBeso@twitter](https://twitter.com/1hpBeso/status/1631702503073906697) | advertise |
+| [1January19884@twitter](https://twitter.com/1January19884/status/1682454630847098881) | advertise |
 | [1juxtaposition@twitter](https://twitter.com/1juxtaposition/status/1397618611083165697) | advertise |
 | [1KK4cfjGlKNknLy@twitter](https://twitter.com/1KK4cfjGlKNknLy/status/1378992221077168128) | advertise |
 | [1k_8u@twitter](https://twitter.com/1k_8u/status/1493703720193990662) | advertise |
@@ -4850,6 +4851,7 @@ Do not create new issue or we will close it as duplicate.
 | [HvhcommunityN@twitter](https://twitter.com/HvhcommunityN/status/1386210716168990723) | advertise |
 | [HVnMinh46685368@twitter](https://twitter.com/HVnMinh46685368/status/1393410731706490882) | advertise |
 | [hvturingga@twitter](https://twitter.com/hvturingga/status/1405917106617520129) | advertise |
+| [hvu97979797@twitter](https://twitter.com/hvu97979797/status/1682457718572060672) | advertise |
 | [HWP2000@twitter](https://twitter.com/HWP2000/status/1555609415201353728) | advertise |
 | [hwynlatt@twitter](https://twitter.com/hwynlatt/status/1399335430257061889) | advertise |
 | [hxjdjdj63536269@twitter](https://twitter.com/hxjdjdj63536269/status/1376747966766084096) | advertise |
