@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,953 |
 | social | 4,365 |
 | net | 3,550 |
-| org | 2,396 |
+| org | 2,397 |
 | de | 2,217 |
 
 
@@ -3327,6 +3327,7 @@ Here's a list of public Fediverse services.
 | `b.mp` | Yes |
 | `b0.ax` | Yes |
 | `b00bl1k.ru` | Yes |
+| `b0bmagic.eu.org` | No |
 | `b0o1y.com` | Yes |
 | `b0rke.de` | No |
 | `b0t.at` | No |
@@ -34964,7 +34965,7 @@ Here's a list of public Fediverse services.
 | `sarsenij.ch` | No |
 | `sarsworld.eu` | No |
 | `sartorial.online` | No |
-| `sarubobo.red` | Yes |
+| `sarubobo.red` | No |
 | `sarunint.com` | Yes |
 | `saryay.club` | Yes |
 | `sas.monster` | No |
@@ -45732,8 +45733,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,282 |
-| Normal | 33,407 |
+| Cloudflare | 12,281 |
+| Normal | 33,409 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
