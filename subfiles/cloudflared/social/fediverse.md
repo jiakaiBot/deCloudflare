@@ -7760,6 +7760,7 @@ Here's a list of public Fediverse services.
 | `cozynest.online` | No |
 | `cozysumo.space` | Yes |
 | `cozytronics.com` | No |
+| `cplus.app` | Yes |
 | `cplus8.com` | Yes |
 | `cpluspatch.com` | Yes |
 | `cpluspatch.dev` | Yes |
@@ -45751,7 +45752,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,289 |
+| Cloudflare | 12,290 |
 | Normal | 33,419 |
 
 
