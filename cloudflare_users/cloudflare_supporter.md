@@ -685,6 +685,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlterJoker@twitter](https://twitter.com/AlterJoker/status/1395418841815994376) | advertise |
 | [AltLineage@twitter](https://twitter.com/AltLineage/status/1556872203584536576) | advertise |
 | [Altonsystem@twitter](https://twitter.com/Altonsystem/status/1577764244493373466) | advertise |
+| [AltSabeb@twitter](https://twitter.com/AltSabeb/status/1682270544782327808) | advertise |
 | [altwops@twitter](https://twitter.com/altwops/status/1394378036548571137) | advertise |
 | [Alucard61231443@twitter](https://twitter.com/Alucard61231443/status/1407179688439468039) | advertise |
 | [AlvarezIze53328@twitter](https://twitter.com/AlvarezIze53328/status/1681062141435027456) | advertise |
