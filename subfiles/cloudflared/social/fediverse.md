@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,954 |
-| social | 4,365 |
-| net | 3,550 |
-| org | 2,398 |
+| social | 4,366 |
+| net | 3,551 |
+| org | 2,399 |
 | de | 2,217 |
 
 
@@ -9499,6 +9499,7 @@ Here's a list of public Fediverse services.
 | `dewitte.xyz` | Yes |
 | `dewp.space` | No |
 | `dexnext.social` | No |
+| `dexogen.ru` | Yes |
 | `dexonline.ro` | No |
 | `dextender.com` | No |
 | `dexzone.es` | No |
@@ -18119,6 +18120,7 @@ Here's a list of public Fediverse services.
 | `interior.edu.uy` | No |
 | `interlace.space` | No |
 | `interlan.ec` | No |
+| `interledger.social` | No |
 | `interlinked.me` | No |
 | `intermittent.network` | No |
 | `intern.at` | No |
@@ -20599,6 +20601,7 @@ Here's a list of public Fediverse services.
 | `kmr.me` | Yes |
 | `kmrs.org` | No |
 | `kmruddy.com` | No |
+| `kms.onl` | Yes |
 | `kmu-angebote.ch` | No |
 | `kmy.blue` | Yes |
 | `kmyd.moe` | No |
@@ -29270,6 +29273,7 @@ Here's a list of public Fediverse services.
 | `ogg.social` | No |
 | `ogijima.fr` | Yes |
 | `ogiso.me` | Yes |
+| `oglplus.org` | No |
 | `ogran.club` | No |
 | `ogre.red` | No |
 | `ogrelair.net` | No |
@@ -35654,6 +35658,7 @@ Here's a list of public Fediverse services.
 | `sen.town` | Yes |
 | `senan.xyz` | Yes |
 | `senate.social` | No |
+| `sencha.house` | No |
 | `sendero.social` | No |
 | `sendne.ws` | No |
 | `sengeis.priv.at` | No |
@@ -44097,6 +44102,7 @@ Here's a list of public Fediverse services.
 | `woodbine.nyc` | No |
 | `woodenelephants.xyz` | No |
 | `woodland.cafe` | No |
+| `woodlanddigital.net` | Yes |
 | `woodpecker.blue` | Yes |
 | `woodpecker.social` | No |
 | `woodphant.fr` | No |
@@ -45740,8 +45746,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,284 |
-| Normal | 33,413 |
+| Cloudflare | 12,287 |
+| Normal | 33,416 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
