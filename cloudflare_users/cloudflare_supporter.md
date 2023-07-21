@@ -11258,6 +11258,7 @@ Do not create new issue or we will close it as duplicate.
 | [sovanovski@twitter](https://twitter.com/sovanovski/status/1557965323516936193) | advertise |
 | [sovareh@twitter](https://twitter.com/sovareh/status/1573181314894741506) | advertise |
 | [soyaaa98@twitter](https://twitter.com/soyaaa98/status/1498657879590461445) | advertise |
+| [SoyabAnsar90225@twitter](https://twitter.com/SoyabAnsar90225/status/1682412459121070081) | advertise |
 | [soyalkoirala60@twitter](https://twitter.com/soyalkoirala60/status/1394193049689812994) | advertise |
 | [soyandot@twitter](https://twitter.com/soyandot/status/1492984014193446918) | advertise |
 | [soyfrien@twitter](https://twitter.com/soyfrien/status/1506490745779277825) | advertise |
