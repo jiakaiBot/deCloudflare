@@ -8699,6 +8699,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nguynhoangtru14@twitter](https://twitter.com/Nguynhoangtru14/status/1570366961946882050) | advertise |
 | [NguynHongHun15@twitter](https://twitter.com/NguynHongHun15/status/1397957522489700354) | advertise |
 | [Nguynhongsn3061@twitter](https://twitter.com/Nguynhongsn3061/status/1598646278732517376) | advertise |
+| [nguynhu22251018@twitter](https://twitter.com/nguynhu22251018/status/1682470535647866881) | advertise |
 | [NguynHu34706565@twitter](https://twitter.com/NguynHu34706565/status/1402642890942074885) | advertise |
 | [NguynHu76578551@twitter](https://twitter.com/NguynHu76578551/status/1391823326327164929) | advertise |
 | [nguynhu96942894@twitter](https://twitter.com/nguynhu96942894/status/1580221345602101248) | advertise |
