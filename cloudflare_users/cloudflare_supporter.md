@@ -2009,6 +2009,7 @@ Do not create new issue or we will close it as duplicate.
 | [c08981422@twitter](https://twitter.com/c08981422/status/1628076000461611009) | advertise |
 | [c09643643@twitter](https://twitter.com/c09643643/status/1385578671075840001) | advertise |
 | [c1e2dcd1b220469@twitter](https://twitter.com/c1e2dcd1b220469/status/1494467616425099264) | advertise |
+| [C4ANprok10@twitter](https://twitter.com/C4ANprok10/status/1682318390730579969) | advertise |
 | [C80753171@twitter](https://twitter.com/C80753171/status/1537513388774785024) | advertise |
 | [c95405246@twitter](https://twitter.com/c95405246/status/1397498966304980999) | advertise |
 | [Cabasy3@twitter](https://twitter.com/Cabasy3/status/1639513438442475520) | advertise |
