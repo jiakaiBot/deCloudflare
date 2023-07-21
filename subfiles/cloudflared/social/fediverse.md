@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,957 |
+| com | 6,958 |
 | social | 4,366 |
 | net | 3,551 |
 | org | 2,399 |
-| de | 2,217 |
+| de | 2,218 |
 
 
 - Mastodon, Pleroma, etc
@@ -25463,6 +25463,7 @@ Here's a list of public Fediverse services.
 | `mimigo.xyz` | No |
 | `mimikun.dev` | No |
 | `mimikun.jp` | Yes |
+| `mimimi.page` | Yes |
 | `mimmoth.club` | No |
 | `mimumedon.com` | No |
 | `mina.to` | Yes |
@@ -32954,6 +32955,7 @@ Here's a list of public Fediverse services.
 | `radz-at-han.city` | No |
 | `raeffs.ch` | No |
 | `raeffs.dev` | Yes |
+| `raeuberwald.de` | No |
 | `raeven.net` | Yes |
 | `raeven.social` | No |
 | `raf.hamburg` | No |
@@ -34180,7 +34182,7 @@ Here's a list of public Fediverse services.
 | `roishi.moe` | No |
 | `roitsystems.ca` | No |
 | `rojas.cz` | Yes |
-| `rojogato.com` | No |
+| `rojogato.com` | Yes |
 | `rokosocial.com` | Yes |
 | `rokoucha.net` | Yes |
 | `rolandinsh.lv` | Yes |
@@ -43619,6 +43621,7 @@ Here's a list of public Fediverse services.
 | `werner.ac` | No |
 | `werry.ovh` | No |
 | `wersdoerfer.de` | No |
+| `wertercatt.com` | No |
 | `werworld.social` | No |
 | `wes.dev` | Yes |
 | `weserbergland.social` | No |
@@ -45752,8 +45755,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,290 |
-| Normal | 33,419 |
+| Cloudflare | 12,292 |
+| Normal | 33,420 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
