@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,954 |
+| com | 6,955 |
 | social | 4,366 |
 | net | 3,551 |
 | org | 2,399 |
@@ -9556,6 +9556,7 @@ Here's a list of public Fediverse services.
 | `di2.io` | Yes |
 | `di20.de` | No |
 | `diableco.com` | No |
+| `diablocanyon1.com` | No |
 | `diablocanyon2.com` | No |
 | `diafri.social` | No |
 | `diagonalley.club` | No |
@@ -45748,7 +45749,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,287 |
-| Normal | 33,417 |
+| Normal | 33,418 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
