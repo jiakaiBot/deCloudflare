@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Some URLs are not picked up by HellPot](https://github.com/yunginnanet/HellPot/issues/99)
 - [CloudFlare Cloudflare Access and Workers KV Availability Issues](https://github.com/hinoshiba/news/issues/1487)
 - [CloudFlare Cloudflare Access and Workers KV Availability Issues](https://github.com/MatBenfield/news/issues/16727)
 - [Can't create scaleway_object_bucket_policy](https://github.com/scaleway/terraform-provider-scaleway/issues/2061)
