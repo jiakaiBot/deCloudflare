@@ -1067,6 +1067,7 @@ Do not create new issue or we will close it as duplicate.
 | [ArunAR46303075@twitter](https://twitter.com/ArunAR46303075/status/1387955082105290754) | advertise |
 | [ArunRk28334808@twitter](https://twitter.com/ArunRk28334808/status/1395434616828268546) | advertise |
 | [ArunShah1997@twitter](https://twitter.com/ArunShah1997/status/1401586641794342914) | advertise |
+| [ArunSharma948@twitter](https://twitter.com/ArunSharma948/status/1682340078645813249) | advertise |
 | [Arunvlondhe1@twitter](https://twitter.com/Arunvlondhe1/status/1394094384560230403) | advertise |
 | [arvind_sh0108@twitter](https://twitter.com/arvind_sh0108/status/1386913767473090570) | advertise |
 | [arvinvxiii@twitter](https://twitter.com/arvinvxiii/status/1377549061314772998) | advertise |
