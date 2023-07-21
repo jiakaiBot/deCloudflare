@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Proxy Causes Issue if CSRFP_TOKEN Name is Uppercase](https://github.com/mebjas/CSRF-Protector-PHP/issues/159)
 - [Some URLs are not picked up by HellPot](https://github.com/yunginnanet/HellPot/issues/99)
 - [CloudFlare Cloudflare Access and Workers KV Availability Issues](https://github.com/hinoshiba/news/issues/1487)
 - [CloudFlare Cloudflare Access and Workers KV Availability Issues](https://github.com/MatBenfield/news/issues/16727)
