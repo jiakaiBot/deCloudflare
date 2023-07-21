@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,953 |
+| com | 6,954 |
 | social | 4,365 |
 | net | 3,550 |
-| org | 2,397 |
+| org | 2,398 |
 | de | 2,217 |
 
 
@@ -13021,6 +13021,7 @@ Here's a list of public Fediverse services.
 | `flark.me` | Yes |
 | `flashfic.stream` | No |
 | `flashist.art` | No |
+| `flashist.health` | Yes |
 | `flashist.vip` | Yes |
 | `flashist.xyz` | Yes |
 | `flashtrafficlabs.com` | Yes |
@@ -20111,6 +20112,7 @@ Here's a list of public Fediverse services.
 | `kemoner-don.tokyo` | No |
 | `kemonine.info` | Yes |
 | `kemono-friends.info` | Yes |
+| `kemono.im` | No |
 | `kemono.ink` | No |
 | `kemonodon.club` | No |
 | `kemonololi.com` | No |
@@ -26428,6 +26430,7 @@ Here's a list of public Fediverse services.
 | `mrporky.moe` | No |
 | `mrprud.me` | Yes |
 | `mrraph.photo` | No |
+| `mrrebot.com` | Yes |
 | `mrrl.me` | No |
 | `mrrlll.net` | No |
 | `mrrob.in` | No |
@@ -27001,6 +27004,7 @@ Here's a list of public Fediverse services.
 | `mykal.social` | Yes |
 | `myke.social` | No |
 | `mykhoury.com` | Yes |
+| `myl.moe` | Yes |
 | `mylegendary.quest` | Yes |
 | `mylem.eu` | No |
 | `mylemmy.us` | Yes |
@@ -33389,6 +33393,7 @@ Here's a list of public Fediverse services.
 | `recurse.social` | No |
 | `recursed.net` | No |
 | `recycledspace.com` | No |
+| `red-eye.monster` | No |
 | `red-lang.org` | Yes |
 | `red-panda.cz` | No |
 | `redacted.life` | No |
@@ -37800,6 +37805,7 @@ Here's a list of public Fediverse services.
 | `stecking.nl` | No |
 | `steegmueller.dev` | No |
 | `steele.blue` | No |
+| `steen-jakobsen.dk` | No |
 | `stefan-muenz.de` | No |
 | `stefanberger.net` | No |
 | `stefanbohacek.dev` | No |
@@ -41035,6 +41041,7 @@ Here's a list of public Fediverse services.
 | `transportation.social` | Yes |
 | `transportevolved.com` | Yes |
 | `transportfornewhomes.org.uk` | No |
+| `transpridesouthampton.org` | No |
 | `transqueer.club` | Yes |
 | `transrights.art` | Yes |
 | `transrights.ovh` | No |
@@ -45733,8 +45740,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,281 |
-| Normal | 33,409 |
+| Cloudflare | 12,284 |
+| Normal | 33,413 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
