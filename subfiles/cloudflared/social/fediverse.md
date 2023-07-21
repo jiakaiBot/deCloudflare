@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,955 |
+| com | 6,956 |
 | social | 4,366 |
 | net | 3,551 |
 | org | 2,399 |
@@ -18084,7 +18084,7 @@ Here's a list of public Fediverse services.
 | `instance.business` | No |
 | `instance.community` | Yes |
 | `instance.digital` | No |
-| `instanzfreun.de` | No |
+| `instanzfreun.de` | Yes |
 | `instaporn.org` | Yes |
 | `instawp.xyz` | Yes |
 | `instigation.fr` | No |
@@ -42421,6 +42421,7 @@ Here's a list of public Fediverse services.
 | `valinor.social` | No |
 | `valko.dev` | No |
 | `valkyrie.world` | No |
+| `valkyriecoms.com` | Yes |
 | `vallcarca.net` | No |
 | `valletta.io` | Yes |
 | `valleycommunity.co.za` | Yes |
@@ -45749,8 +45750,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,287 |
-| Normal | 33,419 |
+| Cloudflare | 12,289 |
+| Normal | 33,418 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
