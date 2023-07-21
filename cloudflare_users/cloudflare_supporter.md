@@ -12876,6 +12876,7 @@ Do not create new issue or we will close it as duplicate.
 | [vhung7061@twitter](https://twitter.com/vhung7061/status/1487810623673147392) | advertise |
 | [vhungnguyen@twitter](https://twitter.com/vhungnguyen/status/1649088977486630917) | advertise |
 | [vian_kio@twitter](https://twitter.com/vian_kio/status/1404827196846317571) | advertise |
+| [viccastillejos@twitter](https://twitter.com/viccastillejos/status/1682351693869223938) | advertise |
 | [VicLessMan@twitter](https://twitter.com/VicLessMan/status/1588327048501612544) | advertise |
 | [victoraldir@twitter](https://twitter.com/victoraldir/status/1468678725684404231) | advertise |
 | [VictorC67776723@twitter](https://twitter.com/VictorC67776723/status/1429202585097998336) | advertise |
