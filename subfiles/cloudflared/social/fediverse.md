@@ -15274,6 +15274,7 @@ Here's a list of public Fediverse services.
 | `gossler.family` | No |
 | `gosuslugi.social` | Yes |
 | `got-tty.org` | No |
+| `gotanno.love` | No |
 | `gotdns.ch` | No |
 | `gotgoat.com` | Yes |
 | `goth.land` | No |
@@ -41321,7 +41322,7 @@ Here's a list of public Fediverse services.
 | `tsuki.network` | Yes |
 | `tsukihi.me` | No |
 | `tsukihi.moe` | Yes |
-| `tsukim.io` | No |
+| `tsukim.io` | Yes |
 | `tsukimi.club` | Yes |
 | `tsukiyo.dev` | Yes |
 | `tsukuba.io` | Yes |
@@ -45726,7 +45727,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,279 |
+| Cloudflare | 12,280 |
 | Normal | 33,404 |
 
 
