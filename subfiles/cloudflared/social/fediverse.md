@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,952 |
 | social | 4,364 |
 | net | 3,550 |
-| org | 2,395 |
+| org | 2,396 |
 | de | 2,217 |
 
 
@@ -35393,6 +35393,7 @@ Here's a list of public Fediverse services.
 | `sdf.org` | No |
 | `sdfcn.org` | Yes |
 | `sdfeu.org` | No |
+| `sdfin.org` | No |
 | `sdfjp.org` | No |
 | `sdj.au` | No |
 | `sdk.co` | No |
@@ -45726,7 +45727,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,279 |
-| Normal | 33,403 |
+| Normal | 33,404 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
