@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Access and Workers KV Availability Issues](https://github.com/hinoshiba/news/issues/1487)
+- [CloudFlare Cloudflare Access and Workers KV Availability Issues](https://github.com/MatBenfield/news/issues/16727)
 - [Can't create scaleway_object_bucket_policy](https://github.com/scaleway/terraform-provider-scaleway/issues/2061)
 - [v1 isn't working and supported anymore](https://github.com/itsrn/heypi-js/issues/1)
 - [Further reduction of calls being made to Cloudflare APO](https://github.com/wp-media/wp-rocket/issues/6061)
