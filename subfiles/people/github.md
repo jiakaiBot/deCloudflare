@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Danbooru server unreachable](https://github.com/Bionus/imgbrd-grabber/issues/3013)
 - [Certbot is already running](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3071)
 - [feature Option to use undetected Chrome driver](https://github.com/dgtlmoon/changedetection.io/issues/1700)
 - [Cloudflare Proxy Causes Issue if CSRFP_TOKEN Name is Uppercase](https://github.com/mebjas/CSRF-Protector-PHP/issues/159)
