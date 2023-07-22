@@ -22,6 +22,7 @@ cloudflareinsights.com
 cloudflarepartners.com
 cloudflarepreview.com
 cloudflarepreviews.com
+cloudflareresearch.com
 cloudflareresolve.com
 cloudflarespeedtest.com
 cloudflaressl.com
