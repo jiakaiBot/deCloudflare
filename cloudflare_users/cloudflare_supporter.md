@@ -2559,6 +2559,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dali80188860@twitter](https://twitter.com/Dali80188860/status/1398634697094221825) | advertise |
 | [Dali_1016@twitter](https://twitter.com/Dali_1016/status/1677817615983730688) | advertise |
 | [DaLuQ3@twitter](https://twitter.com/DaLuQ3/status/1546679792702894080) | advertise |
+| [Dam269290336964@twitter](https://twitter.com/Dam269290336964/status/1682748291090636802) | advertise |
 | [DAmbur143@twitter](https://twitter.com/DAmbur143/status/1401146045552205828) | advertise |
 | [Dame69475429@twitter](https://twitter.com/Dame69475429/status/1494681069916143620) | advertise |
 | [damhieu9@twitter](https://twitter.com/damhieu9/status/1382137551306121218) | advertise |
@@ -13751,6 +13752,7 @@ Do not create new issue or we will close it as duplicate.
 | [zatocent@twitter](https://twitter.com/zatocent/status/1383459945513816074) | advertise |
 | [zat_thaw@twitter](https://twitter.com/zat_thaw/status/1401579973123530755) | advertise |
 | [zaw01109694@twitter](https://twitter.com/zaw01109694/status/1679189595966279682) | advertise |
+| [Zaw1455960aug@twitter](https://twitter.com/Zaw1455960aug/status/1682748168457572352) | advertise |
 | [ZawAung55496010@twitter](https://twitter.com/ZawAung55496010/status/1390250315799154694) | advertise |
 | [zawgyi90@twitter](https://twitter.com/zawgyi90/status/1391333567246913537) | advertise |
 | [ZawHeinHtet12@twitter](https://twitter.com/ZawHeinHtet12/status/1391939763179905027) | advertise |
