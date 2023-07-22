@@ -6735,6 +6735,7 @@ Do not create new issue or we will close it as duplicate.
 | [likexxxpussy@twitter](https://twitter.com/likexxxpussy/status/1480204550753906691) | advertise |
 | [lil33volt@twitter](https://twitter.com/lil33volt/status/1387519800742658048) | advertise |
 | [lildrip34202595@twitter](https://twitter.com/lildrip34202595/status/1547291257529147393) | advertise |
+| [LILE8938@twitter](https://twitter.com/LILE8938/status/1682666741585813505) | advertise |
 | [Lili64674222@twitter](https://twitter.com/Lili64674222/status/1595789914691584001) | advertise |
 | [Liliana87157653@twitter](https://twitter.com/Liliana87157653/status/1620286338661773316) | advertise |
 | [LilienthalKaleb@twitter](https://twitter.com/LilienthalKaleb/status/1622878151767650306) | advertise |
@@ -12154,6 +12155,7 @@ Do not create new issue or we will close it as duplicate.
 | [thuyvan_783@twitter](https://twitter.com/thuyvan_783/status/1576109484484988929) | advertise |
 | [ThuzarT00985996@twitter](https://twitter.com/ThuzarT00985996/status/1394809068502491137) | advertise |
 | [ThuZarW61704898@twitter](https://twitter.com/ThuZarW61704898/status/1390733792663412738) | advertise |
+| [ThwachChay49573@twitter](https://twitter.com/ThwachChay49573/status/1682664623735201792) | advertise |
 | [ThwayBala@twitter](https://twitter.com/ThwayBala/status/1613022044349956102) | advertise |
 | [thway_yin@twitter](https://twitter.com/thway_yin/status/1397078843416932362) | advertise |
 | [ThweNuSwe7@twitter](https://twitter.com/ThweNuSwe7/status/1472228009839001606) | advertise |
