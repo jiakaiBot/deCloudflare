@@ -498,7 +498,7 @@ Here's a list of public Fediverse services.
 | `4869.homes` | Yes |
 | `48bin.net` | No |
 | `48club.social` | Yes |
-| `49six.club` | Yes |
+| `49six.club` | No |
 | `4ac.me` | No |
 | `4aem.com` | No |
 | `4af.eu` | No |
@@ -4720,7 +4720,7 @@ Here's a list of public Fediverse services.
 | `blueeyedsub.com` | No |
 | `blueflat.org` | Yes |
 | `blueforest.cc` | Yes |
-| `bluefox.social` | No |
+| `bluefox.social` | Yes |
 | `bluegate.online` | No |
 | `bluejay.social` | Yes |
 | `blueleaks.net` | No |
@@ -7629,7 +7629,7 @@ Here's a list of public Fediverse services.
 | `corepaper.org` | No |
 | `coreshock.de` | No |
 | `coreycarvalho.com` | Yes |
-| `corgi.coffee` | No |
+| `corgi.coffee` | Yes |
 | `corgi.farm` | No |
 | `corgi.social` | No |
 | `corgis.social` | Yes |
@@ -12937,6 +12937,7 @@ Here's a list of public Fediverse services.
 | `firefish.lgbt` | No |
 | `firefish.nz` | No |
 | `firefish.ooo` | No |
+| `firefish.store` | Yes |
 | `firefish.tech` | No |
 | `fireflies.nl` | No |
 | `firefly.land` | Yes |
@@ -19041,7 +19042,7 @@ Here's a list of public Fediverse services.
 | `jgachelin.fr` | No |
 | `jgantts.com` | No |
 | `jgarr.net` | Yes |
-| `jgaskins.wtf` | No |
+| `jgaskins.wtf` | Yes |
 | `jgc.org` | Yes |
 | `jgholistic.com` | No |
 | `jgilje.net` | No |
@@ -32381,7 +32382,7 @@ Here's a list of public Fediverse services.
 | `puenter.org` | No |
 | `pueseso.club` | No |
 | `puff.place` | No |
-| `puffer.blog` | Yes |
+| `puffer.blog` | No |
 | `pufferzone.racing` | No |
 | `puffin.social` | Yes |
 | `puffy.work` | No |
@@ -38792,6 +38793,7 @@ Here's a list of public Fediverse services.
 | `tafa.xyz` | Yes |
 | `tafc.gay` | No |
 | `tafelcloud.de` | No |
+| `taffy.cafe` | Yes |
 | `tafo.co` | No |
 | `tage.tech` | No |
 | `taggit.me` | Yes |
@@ -45763,8 +45765,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,294 |
-| Normal | 33,426 |
+| Cloudflare | 12,297 |
+| Normal | 33,425 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
