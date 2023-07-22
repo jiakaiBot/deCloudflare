@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Certbot is already running](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3071)
 - [feature Option to use undetected Chrome driver](https://github.com/dgtlmoon/changedetection.io/issues/1700)
 - [Cloudflare Proxy Causes Issue if CSRFP_TOKEN Name is Uppercase](https://github.com/mebjas/CSRF-Protector-PHP/issues/159)
 - [Some URLs are not picked up by HellPot](https://github.com/yunginnanet/HellPot/issues/99)
