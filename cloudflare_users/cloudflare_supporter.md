@@ -11231,6 +11231,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sonic66789@twitter](https://twitter.com/Sonic66789/status/1392847868541603847) | advertise |
 | [Sonicbaba7@twitter](https://twitter.com/Sonicbaba7/status/1396189947124764678) | advertise |
 | [Sonicek3@twitter](https://twitter.com/Sonicek3/status/1386002746780766208) | advertise |
+| [sonle193@twitter](https://twitter.com/sonle193/status/1682614951192715265) | advertise |
 | [sonlu14654722@twitter](https://twitter.com/sonlu14654722/status/1400477010179235842) | advertise |
 | [SonNgoc82244972@twitter](https://twitter.com/SonNgoc82244972/status/1603285673339154432) | advertise |
 | [SonPham47707692@twitter](https://twitter.com/SonPham47707692/status/1620887365484183552) | advertise |
