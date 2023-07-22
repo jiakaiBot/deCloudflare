@@ -6416,6 +6416,7 @@ Do not create new issue or we will close it as duplicate.
 | [kyawkya05235334@twitter](https://twitter.com/kyawkya05235334/status/1390939293728665600) | advertise |
 | [Kyawkya32995847@twitter](https://twitter.com/Kyawkya32995847/status/1659604188526149632) | advertise |
 | [Kyawkya33147399@twitter](https://twitter.com/Kyawkya33147399/status/1387670653319356416) | advertise |
+| [kyawkya36096052@twitter](https://twitter.com/kyawkya36096052/status/1682626285065863168) | advertise |
 | [KyawKya38993194@twitter](https://twitter.com/KyawKya38993194/status/1392333989185081349) | advertise |
 | [Kyawkya39800429@twitter](https://twitter.com/Kyawkya39800429/status/1392878960598528000) | advertise |
 | [Kyawkya55624723@twitter](https://twitter.com/Kyawkya55624723/status/1401121358612811779) | advertise |
