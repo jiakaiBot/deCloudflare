@@ -5664,6 +5664,7 @@ Do not create new issue or we will close it as duplicate.
 | [ka50822655@twitter](https://twitter.com/ka50822655/status/1399136806856060928) | advertise |
 | [KabeersNetwork@twitter](https://twitter.com/KabeersNetwork/status/1415380733221392388) | advertise |
 | [kabirdayma@twitter](https://twitter.com/kabirdayma/status/1511013357842796546) | advertise |
+| [kabul_khan56623@twitter](https://twitter.com/kabul_khan56623/status/1682735365050753025) | advertise |
 | [KabyaRayahana@twitter](https://twitter.com/KabyaRayahana/status/1657726234929790977) | advertise |
 | [kacdarcy1@twitter](https://twitter.com/kacdarcy1/status/1528007167265185792) | advertise |
 | [KACHA35541338@twitter](https://twitter.com/KACHA35541338/status/1402959497266556928) | advertise |
@@ -10586,6 +10587,7 @@ Do not create new issue or we will close it as duplicate.
 | [sajjadjavidi@twitter](https://twitter.com/sajjadjavidi/status/1578363392082919425) | advertise |
 | [sajjad_Samiee_2@twitter](https://twitter.com/sajjad_Samiee_2/status/1579974090148171776) | advertise |
 | [sakariye_mahad@twitter](https://twitter.com/sakariye_mahad/status/1565810286787002370) | advertise |
+| [sakiha33679@twitter](https://twitter.com/sakiha33679/status/1682726232264441857) | advertise |
 | [sakoinfograhic@twitter](https://twitter.com/sakoinfograhic/status/1483137800547491840) | advertise |
 | [SakshiC60115393@twitter](https://twitter.com/SakshiC60115393/status/1378061425206194176) | advertise |
 | [SakusaSpray@twitter](https://twitter.com/SakusaSpray/status/1391577820409724932) | advertise |
