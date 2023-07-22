@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,960 |
-| social | 4,367 |
+| com | 6,961 |
+| social | 4,369 |
 | net | 3,552 |
-| org | 2,400 |
+| org | 2,401 |
 | de | 2,220 |
 
 
@@ -19545,6 +19545,7 @@ Here's a list of public Fediverse services.
 | `junkserv.net` | No |
 | `junkyard.quest` | No |
 | `junna.moe` | No |
+| `junoai.org` | No |
 | `jupiter.tube` | No |
 | `jupiterslanding.social` | Yes |
 | `jurablogs.com` | No |
@@ -20613,10 +20614,12 @@ Here's a list of public Fediverse services.
 | `kmkz.moe` | No |
 | `kmlg.jp` | Yes |
 | `kmmtn.com` | No |
+| `kmoneyserver.com` | No |
 | `kmr.me` | Yes |
 | `kmrs.org` | No |
 | `kmruddy.com` | No |
 | `kms.onl` | Yes |
+| `kms.social` | Yes |
 | `kmu-angebote.ch` | No |
 | `kmy.blue` | Yes |
 | `kmyd.moe` | No |
@@ -21687,6 +21690,7 @@ Here's a list of public Fediverse services.
 | `lebka.at` | No |
 | `leblanc.io` | No |
 | `leboulaire.ovh` | No |
+| `lebowski.social` | No |
 | `lebrady.net` | No |
 | `lebreton.fr` | No |
 | `leby.dev` | No |
@@ -23691,7 +23695,7 @@ Here's a list of public Fediverse services.
 | `marchbox.com` | No |
 | `marchera-pas.fr` | No |
 | `marches.social` | No |
-| `marchgenso.me` | Yes |
+| `marchgenso.me` | No |
 | `marchingband.social` | No |
 | `marci.one` | No |
 | `marcin-lis.pl` | No |
@@ -24973,7 +24977,7 @@ Here's a list of public Fediverse services.
 | `memit.dk` | Yes |
 | `memmex.de` | No |
 | `memo-village.com` | No |
-| `memo-village.online` | No |
+| `memo-village.online` | Yes |
 | `memo.systems` | Yes |
 | `memomo.me` | Yes |
 | `memories.am` | Yes |
@@ -31747,6 +31751,7 @@ Here's a list of public Fediverse services.
 | `polxa.online` | No |
 | `polyam.space` | No |
 | `polyamory.social` | No |
+| `polycephalypunk.moe` | No |
 | `polycule.club` | Yes |
 | `polycycle.io` | No |
 | `polyglot.city` | No |
@@ -35920,6 +35925,7 @@ Here's a list of public Fediverse services.
 | `shauny.me` | Yes |
 | `shavedmammoth.social` | No |
 | `shavingcream.online` | Yes |
+| `shaw.app` | Yes |
 | `shawkcon.org` | No |
 | `shawnhooper.ca` | Yes |
 | `shawnloo.ca` | Yes |
@@ -41202,6 +41208,7 @@ Here's a list of public Fediverse services.
 | `trippyhippie.dev` | Yes |
 | `tripsocial.co` | No |
 | `triptico.com` | No |
+| `tripulse.link` | No |
 | `tripulse.net` | Yes |
 | `tris.fyi` | No |
 | `trisec.se` | No |
@@ -45775,8 +45782,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,302 |
-| Normal | 33,430 |
+| Cloudflare | 12,304 |
+| Normal | 33,435 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
