@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,963 |
+| com | 6,964 |
 | social | 4,369 |
 | net | 3,552 |
 | org | 2,401 |
@@ -1813,6 +1813,7 @@ Here's a list of public Fediverse services.
 | `amateurfunk.social` | No |
 | `amateurwire.org` | No |
 | `amatriain.site` | Yes |
+| `amatusika.com` | Yes |
 | `amaurot.city` | Yes |
 | `amauryjoly.fr` | Yes |
 | `amayado.cloud` | Yes |
@@ -44243,6 +44244,7 @@ Here's a list of public Fediverse services.
 | `wpcomstaging.com` | No |
 | `wpdevenv.com` | Yes |
 | `wpengine.com` | Yes |
+| `wpfriends.at` | No |
 | `wpj.name` | No |
 | `wplr.rocks` | No |
 | `wpmastodon.es` | No |
@@ -45792,8 +45794,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,314 |
-| Normal | 33,435 |
+| Cloudflare | 12,315 |
+| Normal | 33,436 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
