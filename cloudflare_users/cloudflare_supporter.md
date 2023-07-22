@@ -870,6 +870,7 @@ Do not create new issue or we will close it as duplicate.
 | [AnhQux@twitter](https://twitter.com/AnhQux/status/1527372840911024150) | advertise |
 | [AnhT85562338@twitter](https://twitter.com/AnhT85562338/status/1596806049717440514) | advertise |
 | [anhthoxam74@twitter](https://twitter.com/anhthoxam74/status/1401508553123237891) | advertise |
+| [anhtran212002@twitter](https://twitter.com/anhtran212002/status/1682639552706650112) | advertise |
 | [AnhTuan44458350@twitter](https://twitter.com/AnhTuan44458350/status/1403243965021708289) | advertise |
 | [AnhTun70076204@twitter](https://twitter.com/AnhTun70076204/status/1476175014713970691) | advertise |
 | [AnhTunLHong2@twitter](https://twitter.com/AnhTunLHong2/status/1470739724998352901) | advertise |
@@ -1114,6 +1115,7 @@ Do not create new issue or we will close it as duplicate.
 | [asperouzb@twitter](https://twitter.com/asperouzb/status/1492125374825865218) | advertise |
 | [Asphalt898@twitter](https://twitter.com/Asphalt898/status/1396524639430463489) | advertise |
 | [asra89523776@twitter](https://twitter.com/asra89523776/status/1596042759705485312) | advertise |
+| [asrJrJRZQibAHBa@twitter](https://twitter.com/asrJrJRZQibAHBa/status/1682514467211419648) | advertise |
 | [AssafJulie@twitter](https://twitter.com/AssafJulie/status/1469918510839181313) | advertise |
 | [AssefaJiregna@twitter](https://twitter.com/AssefaJiregna/status/1628756888060919808) | advertise |
 | [Aster21Team@twitter](https://twitter.com/Aster21Team/status/1395622416819179521) | advertise |
@@ -8283,6 +8285,7 @@ Do not create new issue or we will close it as duplicate.
 | [nadiralshaikhly@twitter](https://twitter.com/nadiralshaikhly/status/1554010246917521408) | advertise |
 | [nadi_saint@twitter](https://twitter.com/nadi_saint/status/1396088469584105476) | advertise |
 | [nadxmilbah@twitter](https://twitter.com/nadxmilbah/status/1579652507797979136) | advertise |
+| [naeem_tariq786@twitter](https://twitter.com/naeem_tariq786/status/1682697578847281152) | advertise |
 | [NafisMuzafar@twitter](https://twitter.com/NafisMuzafar/status/1531926492334022656) | advertise |
 | [nag1_yuu@twitter](https://twitter.com/nag1_yuu/status/1630945715685052416) | advertise |
 | [Nage58788383@twitter](https://twitter.com/Nage58788383/status/1378017876100096005) | advertise |
@@ -9702,6 +9705,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pntien3@twitter](https://twitter.com/Pntien3/status/1383675689711198219) | advertise |
 | [PNuoc@twitter](https://twitter.com/PNuoc/status/1610630293219835905) | advertise |
 | [po0_0chen@twitter](https://twitter.com/po0_0chen/status/1455057369247858688) | advertise |
+| [po69pp2@twitter](https://twitter.com/po69pp2/status/1682715157728837633) | advertise |
 | [poae538748@twitter](https://twitter.com/poae538748/status/1658776925253541890) | advertise |
 | [PoarkM@twitter](https://twitter.com/PoarkM/status/1562708928625946624) | advertise |
 | [PockRokit83@twitter](https://twitter.com/PockRokit83/status/1671177404260270081) | advertise |
@@ -13252,6 +13256,7 @@ Do not create new issue or we will close it as duplicate.
 | [WinBo30180694@twitter](https://twitter.com/WinBo30180694/status/1390247886076579840) | advertise |
 | [WinBo67205922@twitter](https://twitter.com/WinBo67205922/status/1562785250656210944) | advertise |
 | [WinchWebsites@twitter](https://twitter.com/WinchWebsites/status/1440532786725605386) | advertise |
+| [WindowsKernel@twitter](https://twitter.com/WindowsKernel/status/1680132047153537024) | advertise |
 | [Windsta71121727@twitter](https://twitter.com/Windsta71121727/status/1505823044954173441) | advertise |
 | [windyhen@twitter](https://twitter.com/windyhen/status/1389081253962338309) | advertise |
 | [wine_chit099@twitter](https://twitter.com/wine_chit099/status/1680187000375107584) | advertise |
