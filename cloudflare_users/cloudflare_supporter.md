@@ -12082,6 +12082,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThngL24603985@twitter](https://twitter.com/ThngL24603985/status/1559517329939017728) | advertise |
 | [thngngu22608045@twitter](https://twitter.com/thngngu22608045/status/1472219741029044227) | advertise |
 | [ThngPhm85167718@twitter](https://twitter.com/ThngPhm85167718/status/1552739837341356033) | advertise |
+| [ThNguyn25395795@twitter](https://twitter.com/ThNguyn25395795/status/1410728613402472448) | advertise |
 | [Thnh12733398@twitter](https://twitter.com/Thnh12733398/status/1394514924429139969) | advertise |
 | [Thnh23107977@twitter](https://twitter.com/Thnh23107977/status/1625861466980233216) | advertise |
 | [Thnh86949251@twitter](https://twitter.com/Thnh86949251/status/1477715889625571334) | advertise |
