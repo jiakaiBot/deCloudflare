@@ -7197,6 +7197,7 @@ Do not create new issue or we will close it as duplicate.
 | [Manccity2020@twitter](https://twitter.com/Manccity2020/status/1595794881125179392) | advertise |
 | [MandalayThar10@twitter](https://twitter.com/MandalayThar10/status/1391637199444070402) | advertise |
 | [MandaLeigh555@twitter](https://twitter.com/MandaLeigh555/status/1641602411054911489) | advertise |
+| [MANDERLORI4N@twitter](https://twitter.com/MANDERLORI4N/status/1682588627237216257) | advertise |
 | [mandiptimsina1@twitter](https://twitter.com/mandiptimsina1/status/1392722380678598656) | advertise |
 | [Maneesh40605685@twitter](https://twitter.com/Maneesh40605685/status/1497225757105397763) | advertise |
 | [mangtaweng@twitter](https://twitter.com/mangtaweng/status/1558889071854112768) | advertise |
