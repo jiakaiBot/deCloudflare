@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,958 |
+| com | 6,960 |
 | social | 4,366 |
 | net | 3,551 |
 | org | 2,400 |
@@ -1716,7 +1716,7 @@ Here's a list of public Fediverse services.
 | `alps.family` | Yes |
 | `alptraum.media` | No |
 | `alpxtri.de` | No |
-| `alquimidia.org` | No |
+| `alquimidia.org` | Yes |
 | `alr.st` | No |
 | `als.io` | Yes |
 | `alserver.jp` | No |
@@ -18942,6 +18942,7 @@ Here's a list of public Fediverse services.
 | `jelliefrontier.net` | Yes |
 | `jellis.co.uk` | No |
 | `jellydonut.me` | No |
+| `jellyosaurus.com` | Yes |
 | `jellystyle.social` | No |
 | `jelqing.men` | No |
 | `jemal.contact` | No |
@@ -31469,6 +31470,7 @@ Here's a list of public Fediverse services.
 | `playstation-mstdn.com` | No |
 | `playstation-sns.com` | No |
 | `playstk.net` | No |
+| `playtbsxys.top` | Yes |
 | `playtime.fm` | No |
 | `playvicious.social` | No |
 | `playyers.com` | No |
@@ -40890,6 +40892,7 @@ Here's a list of public Fediverse services.
 | `torbin.me` | No |
 | `torgo.com` | No |
 | `torguard.social` | No |
+| `toripota.com` | No |
 | `toririm.com` | Yes |
 | `torisan.party` | Yes |
 | `torlaz.online` | No |
@@ -45765,7 +45768,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,297 |
+| Cloudflare | 12,300 |
 | Normal | 33,425 |
 
 
