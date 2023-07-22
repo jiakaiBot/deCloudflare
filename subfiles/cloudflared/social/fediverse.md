@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,369 |
 | net | 3,552 |
 | org | 2,401 |
-| de | 2,220 |
+| de | 2,221 |
 
 
 - Mastodon, Pleroma, etc
@@ -21834,6 +21834,7 @@ Here's a list of public Fediverse services.
 | `lemmy.eco.br` | Yes |
 | `lemmy.eus` | No |
 | `lemmy.fail` | Yes |
+| `lemmy.fan` | Yes |
 | `lemmy.film` | Yes |
 | `lemmy.fyi` | Yes |
 | `lemmy.link` | Yes |
@@ -21888,6 +21889,7 @@ Here's a list of public Fediverse services.
 | `lemmywinks.net` | No |
 | `lemmywinks.xyz` | Yes |
 | `lemniskett.dev` | Yes |
+| `lemniskett.space` | Yes |
 | `lemnoslife.com` | No |
 | `lemoe.cn` | Yes |
 | `lemon-blacktea.xyz` | No |
@@ -26849,6 +26851,7 @@ Here's a list of public Fediverse services.
 | `museum.community` | No |
 | `museum.town` | No |
 | `museumsprojekte.de` | No |
+| `musgo.rocks` | No |
 | `musgrovegreen.co.uk` | No |
 | `mushland.xyz` | No |
 | `mushroom.gay` | Yes |
@@ -45511,6 +45514,7 @@ Here's a list of public Fediverse services.
 | `zerowastefvg.it` | No |
 | `zeroyuki.cn` | Yes |
 | `zerozaski.tech` | Yes |
+| `zerstoererbande.de` | No |
 | `zerw.xyz` | No |
 | `zesh.club` | No |
 | `zestysoft.com` | No |
@@ -45788,8 +45792,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,312 |
-| Normal | 33,433 |
+| Cloudflare | 12,314 |
+| Normal | 33,435 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
