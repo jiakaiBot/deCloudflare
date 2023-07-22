@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,961 |
+| com | 6,963 |
 | social | 4,369 |
 | net | 3,552 |
 | org | 2,401 |
@@ -7607,7 +7607,7 @@ Here's a list of public Fediverse services.
 | `cooperserver.com` | No |
 | `coopey.eu` | Yes |
 | `coopey.me` | No |
-| `coopey.net` | No |
+| `coopey.net` | Yes |
 | `coopgo.fr` | No |
 | `cooplibretec.com` | No |
 | `cooponscitech.in` | No |
@@ -12808,7 +12808,7 @@ Here's a list of public Fediverse services.
 | `fgilcc.eu` | No |
 | `fglt.nl` | No |
 | `fgochiho.vip` | No |
-| `fgt.pw` | No |
+| `fgt.pw` | Yes |
 | `fh3m.de` | No |
 | `fhgn.berlin` | No |
 | `fhlqs.com` | No |
@@ -12938,6 +12938,7 @@ Here's a list of public Fediverse services.
 | `firedragonstudios.com` | No |
 | `firedragonvideos.com` | No |
 | `firefaithfellowship.com` | Yes |
+| `firefish.community` | No |
 | `firefish.lgbt` | No |
 | `firefish.nz` | No |
 | `firefish.ooo` | No |
@@ -25377,6 +25378,7 @@ Here's a list of public Fediverse services.
 | `mikado-city.jp` | No |
 | `mikaela.info` | Yes |
 | `mikaljakubal.com` | Yes |
+| `mikanbako.blog` | Yes |
 | `mikancat-lab.com` | Yes |
 | `mikapi.de` | No |
 | `mike.ai` | Yes |
@@ -26353,7 +26355,7 @@ Here's a list of public Fediverse services.
 | `mountainash.id.au` | Yes |
 | `mountainbock.social` | No |
 | `mountaincloud.app` | Yes |
-| `mountaincloud.social` | No |
+| `mountaincloud.social` | Yes |
 | `mountaincommunity.co` | No |
 | `mountainfold.co` | Yes |
 | `mountainmoving.co` | No |
@@ -32098,6 +32100,7 @@ Here's a list of public Fediverse services.
 | `primeos.dev` | No |
 | `primitivebits.com` | No |
 | `primitivebits.social` | No |
+| `primordiagamers.com` | Yes |
 | `primordial-library.gq` | No |
 | `primus.buzz` | No |
 | `princesa.company` | No |
@@ -35303,6 +35306,7 @@ Here's a list of public Fediverse services.
 | `schwyz.social` | No |
 | `schykle.com` | Yes |
 | `sci.kiwi` | Yes |
+| `sciactive.com` | Yes |
 | `scicomm.xyz` | No |
 | `science-mastodon.se` | No |
 | `science-practice.com` | No |
@@ -37163,6 +37167,7 @@ Here's a list of public Fediverse services.
 | `sometimes.io` | No |
 | `sometimes.social` | No |
 | `sometimesantisocial.media` | No |
+| `somewhat.me` | Yes |
 | `somewhathappy.com` | Yes |
 | `somewhy.com` | Yes |
 | `somewhy.net` | No |
@@ -45783,8 +45788,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,305 |
-| Normal | 33,435 |
+| Cloudflare | 12,312 |
+| Normal | 33,433 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
