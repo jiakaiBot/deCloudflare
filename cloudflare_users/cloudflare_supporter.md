@@ -520,6 +520,7 @@ Do not create new issue or we will close it as duplicate.
 | [AjiPamu85328045@twitter](https://twitter.com/AjiPamu85328045/status/1553241874751959040) | advertise |
 | [Ajithku52523413@twitter](https://twitter.com/Ajithku52523413/status/1397545056177836034) | advertise |
 | [Ajmal57300251@twitter](https://twitter.com/Ajmal57300251/status/1643647534999404546) | advertise |
+| [ajsb85@twitter](https://twitter.com/ajsb85/status/1681408537493159966) | advertise |
 | [AKAAD99@twitter](https://twitter.com/AKAAD99/status/1564399506875195392) | advertise |
 | [Akane81517314@twitter](https://twitter.com/Akane81517314/status/1385157407320395776) | advertise |
 | [Akar67545006@twitter](https://twitter.com/Akar67545006/status/1390752582860107778) | advertise |
@@ -1393,6 +1394,7 @@ Do not create new issue or we will close it as duplicate.
 | [aynekariurmiya@twitter](https://twitter.com/aynekariurmiya/status/1606804404568559617) | advertise |
 | [AYOE59667058@twitter](https://twitter.com/AYOE59667058/status/1390252205052076033) | advertise |
 | [AYOKUNLE_05@twitter](https://twitter.com/AYOKUNLE_05/status/1546591178908475397) | advertise |
+| [ayonkhan@twitter](https://twitter.com/ayonkhan/status/1682091416128724997) | advertise |
 | [AyoubAh78106215@twitter](https://twitter.com/AyoubAh78106215/status/1404756207080861696) | advertise |
 | [Aysha18981544@twitter](https://twitter.com/Aysha18981544/status/1375738614009724929) | advertise |
 | [AyssarMahameed@twitter](https://twitter.com/AyssarMahameed/status/1630985142251520019) | advertise |
@@ -3473,6 +3475,7 @@ Do not create new issue or we will close it as duplicate.
 | [Faisal_gilani1@twitter](https://twitter.com/Faisal_gilani1/status/1639929905260687365) | advertise |
 | [FaiSky_@twitter](https://twitter.com/FaiSky_/status/1490832227327823872) | advertise |
 | [faithholler@twitter](https://twitter.com/faithholler/status/1402484525519810562) | advertise |
+| [Faithinves45523@twitter](https://twitter.com/Faithinves45523/status/1682765350654320641) | advertise |
 | [faith_oyelami@twitter](https://twitter.com/faith_oyelami/status/1584304754506616832) | advertise |
 | [faiz141976@twitter](https://twitter.com/faiz141976/status/1667573920143376384) | advertise |
 | [FaizaanKahn@twitter](https://twitter.com/FaizaanKahn/status/1390946598117515265) | advertise |
@@ -6354,6 +6357,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ku44908237Kumar@twitter](https://twitter.com/Ku44908237Kumar/status/1634203335447175168) | advertise |
 | [KuashikMakavana@twitter](https://twitter.com/KuashikMakavana/status/1388432783110860802) | advertise |
 | [kubon34505188@twitter](https://twitter.com/kubon34505188/status/1387458130548715522) | advertise |
+| [KubyW@twitter](https://twitter.com/KubyW/status/1679556773794164736) | advertise |
 | [Kudatlo@twitter](https://twitter.com/Kudatlo/status/1623118589502050305) | advertise |
 | [kudzu_naoki@twitter](https://twitter.com/kudzu_naoki/status/1677183324329250816) | advertise |
 | [kuksi007h@twitter](https://twitter.com/kuksi007h/status/1625651218780389377) | advertise |
@@ -9245,6 +9249,7 @@ Do not create new issue or we will close it as duplicate.
 | [osamabaghdady1@twitter](https://twitter.com/osamabaghdady1/status/1631757127374061573) | advertise |
 | [Osamavp88@twitter](https://twitter.com/Osamavp88/status/1553648608183869441) | advertise |
 | [osaray_@twitter](https://twitter.com/osaray_/status/1577621931892809728) | advertise |
+| [osazemeu@twitter](https://twitter.com/osazemeu/status/1680786078213500933) | advertise |
 | [oscarkm@twitter](https://twitter.com/oscarkm/status/1392306941628542978) | advertise |
 | [OscarShih@twitter](https://twitter.com/OscarShih/status/1399771088561659910) | advertise |
 | [oscie57@twitter](https://twitter.com/oscie57/status/1482813140224069634) | advertise |
