@@ -35815,6 +35815,7 @@ Here's a list of public Fediverse services.
 | `sffa.community` | No |
 | `sffpc.io` | Yes |
 | `sfgreens.org` | No |
+| `sfl.pro.br` | No |
 | `sflan.uk` | Yes |
 | `sfsfc.org` | No |
 | `sfss.space` | No |
@@ -45769,7 +45770,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,300 |
-| Normal | 33,425 |
+| Normal | 33,426 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
