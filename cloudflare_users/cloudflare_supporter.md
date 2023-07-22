@@ -1711,6 +1711,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bintang170604@twitter](https://twitter.com/Bintang170604/status/1579424253132566528) | advertise |
 | [Bintangbrr@twitter](https://twitter.com/Bintangbrr/status/1469541067343077380) | advertise |
 | [Bintran79870499@twitter](https://twitter.com/Bintran79870499/status/1394896382146670593) | advertise |
+| [binz1665@twitter](https://twitter.com/binz1665/status/1682768349208641537) | advertise |
 | [binzabo@twitter](https://twitter.com/binzabo/status/1553267461511729152) | advertise |
 | [bin_1705_@twitter](https://twitter.com/bin_1705_/status/1597246238050914304) | advertise |
 | [bin_deal@twitter](https://twitter.com/bin_deal/status/1399889567050784769) | advertise |
