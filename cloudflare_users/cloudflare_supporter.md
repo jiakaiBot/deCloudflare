@@ -6980,6 +6980,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lucian55166513@twitter](https://twitter.com/Lucian55166513/status/1379606759434690561) | advertise |
 | [luciastgermaine@twitter](https://twitter.com/luciastgermaine/status/1532782556734693379) | advertise |
 | [LuciFar69459201@twitter](https://twitter.com/LuciFar69459201/status/1395041297606402052) | advertise |
+| [lucifer_ra46963@twitter](https://twitter.com/lucifer_ra46963/status/1683034359316766720) | advertise |
 | [Luci_feri@twitter](https://twitter.com/Luci_feri/status/1557273249008025600) | advertise |
 | [luckfu@twitter](https://twitter.com/luckfu/status/1533671872260214784) | advertise |
 | [LuckieCrab@twitter](https://twitter.com/LuckieCrab/status/1506372420701204487) | advertise |
@@ -9294,6 +9295,7 @@ Do not create new issue or we will close it as duplicate.
 | [p0etra08@twitter](https://twitter.com/p0etra08/status/1547229837345300480) | advertise |
 | [p1ass@twitter](https://twitter.com/p1ass/status/1670012004902522880) | advertise |
 | [P9I4Kl23k8Mo7qN@twitter](https://twitter.com/P9I4Kl23k8Mo7qN/status/1385339627096084482) | advertise |
+| [P10a8@twitter](https://twitter.com/P10a8/status/1682912279761911810) | advertise |
 | [paay0m@twitter](https://twitter.com/paay0m/status/1389945969542828032) | advertise |
 | [pablocorral@twitter](https://twitter.com/pablocorral/status/1670163387412623361) | advertise |
 | [Pabo11Shu@twitter](https://twitter.com/Pabo11Shu/status/1390611967920939016) | advertise |
@@ -12381,6 +12383,7 @@ Do not create new issue or we will close it as duplicate.
 | [Torrekie@twitter](https://twitter.com/Torrekie/status/1449973586664595458) | advertise |
 | [torukMnk@twitter](https://twitter.com/torukMnk/status/1588337042945343488) | advertise |
 | [torzen6@twitter](https://twitter.com/torzen6/status/1400998635785973761) | advertise |
+| [toshismike@twitter](https://twitter.com/toshismike/status/1683039854035185665) | advertise |
 | [TosinTimothy5@twitter](https://twitter.com/TosinTimothy5/status/1586519693048745984) | advertise |
 | [TotasShepot@twitter](https://twitter.com/TotasShepot/status/1501117750806466565) | advertise |
 | [Toubz_8844@twitter](https://twitter.com/Toubz_8844/status/1603000139144101889) | advertise |
