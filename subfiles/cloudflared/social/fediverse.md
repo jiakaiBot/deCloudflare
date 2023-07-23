@@ -3044,6 +3044,7 @@ Here's a list of public Fediverse services.
 | `auge.cat` | No |
 | `augendre.info` | No |
 | `augsburg.social` | No |
+| `augsburglular.live` | Yes |
 | `august-don.site` | Yes |
 | `augustinus.jp` | No |
 | `auka.me` | No |
@@ -7339,7 +7340,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -21878,7 +21879,7 @@ Here's a list of public Fediverse services.
 | `lemmy.today` | No |
 | `lemmy.website` | Yes |
 | `lemmy.works` | No |
-| `lemmy.world` | No |
+| `lemmy.world` | Yes |
 | `lemmy.wtf` | Yes |
 | `lemmy.zip` | Yes |
 | `lemmy.zone` | Yes |
@@ -45823,8 +45824,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,326 |
-| Normal | 33,454 |
+| Cloudflare | 12,329 |
+| Normal | 33,452 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
