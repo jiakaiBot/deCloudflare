@@ -486,6 +486,7 @@ Here's a list of breached sites.
 | RiverCityMedia (River City Media Spam List) | 393,430,309 | No |
 | Robinhood | 5,003,937 | Yes |
 | RobloxDeveloperConference (Roblox Developer Conference) | 3,943 | No |
+| Roblox | 52,458 | Yes |
 | Roll20 | 3,994,436 | Yes |
 | Romwe | 19,531,820 | Yes |
 | RosebuttBoard (Rosebutt Board) | 107,303 | No |
@@ -502,7 +503,7 @@ Here's a list of breached sites.
 | Shadi (Shadi.com) | 2,021,984 | No |
 | ShareThis | 40,960,499 | No |
 | Shitexpress | 23,817 | No |
-| ShockGore | 73,944 | Yes |
+| ShockGore | 73,944 | No |
 | ShopBack | 20,529,819 | Yes |
 | ShopperPlus (Shopper+) | 878,290 | No |
 | ShortEdition (Short Édition) | 505,466 | Yes |
@@ -675,10 +676,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 369 | 3,956,129,854 |
-| Normal | 285 | 4,955,500,214 |
+| Cloudflare | 369 | 3,956,108,368 |
+| Normal | 286 | 4,955,574,158 |
 
 
 
-### 56.4% of breached sites (pwned sites) are using Cloudflare.
+### 56.3% of breached sites (pwned sites) are using Cloudflare.
 ### 44.4% of leaked accounts are on Cloudflare sites.
