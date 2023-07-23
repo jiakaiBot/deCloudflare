@@ -9469,6 +9469,7 @@ Do not create new issue or we will close it as duplicate.
 | [phan04073519@twitter](https://twitter.com/phan04073519/status/1659195256993357824) | advertise |
 | [PhanAnh62498647@twitter](https://twitter.com/PhanAnh62498647/status/1538649153961660427) | advertise |
 | [PhanAnh91681190@twitter](https://twitter.com/PhanAnh91681190/status/1396132565359104000) | advertise |
+| [PhanHinPhn80020@twitter](https://twitter.com/PhanHinPhn80020/status/1682952282294607873) | advertise |
 | [phanmin46588578@twitter](https://twitter.com/phanmin46588578/status/1405075582065410050) | advertise |
 | [PhanNgcip2@twitter](https://twitter.com/PhanNgcip2/status/1599372959399153664) | advertise |
 | [PhanNgnGiang1@twitter](https://twitter.com/PhanNgnGiang1/status/1398590778268549122) | advertise |
