@@ -41,6 +41,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | apemlegit.my.id | No |
 | apigw.online | Yes |
 | arashi.eu.org | No |
+| arroudlohgpg.site | Yes |
 | artikel10.org | No |
 | avastdns.com | No |
 | avdkishore.dev | Yes |
@@ -358,8 +359,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 174 |
+| Cloudflare | 175 |
 | Normal | 165 |
 
 
-### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
