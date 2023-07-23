@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Buffer is undefined](https://github.com/spotify/spotify-web-api-ts-sdk/issues/39)
+- [@cloudflare/kv-asset-handler is missing from Cloudflare Workers template dependencies](https://github.com/remix-run/remix/issues/6944)
 - [Exhentai Cloudflare challenge is blocking gallery-dl](https://github.com/mikf/gallery-dl/issues/4342)
 - [Content Security Policy Errors](https://github.com/medusajs/medusa/issues/4588)
 - [add an option to link manga from different sources together](https://github.com/KotatsuApp/Kotatsu/issues/433)
