@@ -2712,6 +2712,7 @@ Do not create new issue or we will close it as duplicate.
 | [david_ronin2@twitter](https://twitter.com/david_ronin2/status/1590405561316958208) | advertise |
 | [daviskirungi1@twitter](https://twitter.com/daviskirungi1/status/1531061906953338880) | advertise |
 | [Davisonboy1@twitter](https://twitter.com/Davisonboy1/status/1550356313506471938) | advertise |
+| [DavrajRajb77310@twitter](https://twitter.com/DavrajRajb77310/status/1683128268570992641) | advertise |
 | [DawdlingDreamer@twitter](https://twitter.com/DawdlingDreamer/status/1665889184937136129) | advertise |
 | [dawenego@twitter](https://twitter.com/dawenego/status/1475482184072843269) | advertise |
 | [dawjuujuu@twitter](https://twitter.com/dawjuujuu/status/1390089642116927489) | advertise |
@@ -9363,6 +9364,7 @@ Do not create new issue or we will close it as duplicate.
 | [paraboy113@twitter](https://twitter.com/paraboy113/status/1377615187969204225) | advertise |
 | [Parassi87009558@twitter](https://twitter.com/Parassi87009558/status/1405913945735450625) | advertise |
 | [parasyte_x@twitter](https://twitter.com/parasyte_x/status/1377532238997254144) | advertise |
+| [parham1man@twitter](https://twitter.com/parham1man/status/1683129665446199297) | advertise |
 | [Pari67479035@twitter](https://twitter.com/Pari67479035/status/1577182218887340032) | advertise |
 | [parkmay33373116@twitter](https://twitter.com/parkmay33373116/status/1679967287250395136) | advertise |
 | [park_pollen@twitter](https://twitter.com/park_pollen/status/1390024654333497346) | advertise |
