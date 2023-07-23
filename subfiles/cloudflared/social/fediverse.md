@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,965 |
 | social | 4,369 |
-| net | 3,554 |
-| org | 2,401 |
+| net | 3,555 |
+| org | 2,402 |
 | de | 2,221 |
 
 
@@ -321,6 +321,7 @@ Here's a list of public Fediverse services.
 | `24daysindecember.net` | No |
 | `25.wf` | Yes |
 | `2502.net` | No |
+| `250474.xyz` | No |
 | `251.sh` | Yes |
 | `256.lt` | No |
 | `272labs.com` | Yes |
@@ -357,6 +358,7 @@ Here's a list of public Fediverse services.
 | `2labz.com` | Yes |
 | `2mb.social` | Yes |
 | `2metz.fr` | No |
+| `2mg.club` | Yes |
 | `2muchin4mation.com` | No |
 | `2n3904.net` | No |
 | `2na9.com` | No |
@@ -7186,6 +7188,7 @@ Here's a list of public Fediverse services.
 | `codeine.world` | Yes |
 | `codelib.re` | Yes |
 | `codem.xyz` | No |
+| `codepenguin.io` | No |
 | `codeplumbers.eu` | No |
 | `coder.town` | Yes |
 | `coderdojo.social` | No |
@@ -13802,6 +13805,7 @@ Here's a list of public Fediverse services.
 | `frogcat.club` | No |
 | `frogdrool.net` | No |
 | `frogeye.fr` | No |
+| `froggie.town` | No |
 | `froggirl.club` | No |
 | `froggo.garden` | Yes |
 | `froghat.ca` | No |
@@ -21383,6 +21387,7 @@ Here's a list of public Fediverse services.
 | `lain.gay` | No |
 | `lain.haus` | No |
 | `lain.la` | No |
+| `lain.lu` | Yes |
 | `lain.moe` | No |
 | `lain.sh` | No |
 | `lain.social` | No |
@@ -21817,6 +21822,7 @@ Here's a list of public Fediverse services.
 | `lemmerz.org` | Yes |
 | `lemmi.social` | Yes |
 | `lemmie.be` | No |
+| `lemmies.world` | Yes |
 | `lemming.quest` | No |
 | `lemmings.me` | No |
 | `lemmings.online` | Yes |
@@ -21825,6 +21831,7 @@ Here's a list of public Fediverse services.
 | `lemmit.xyz` | Yes |
 | `lemmony.click` | Yes |
 | `lemmus.org` | No |
+| `lemmy.al` | Yes |
 | `lemmy.best` | No |
 | `lemmy.biz` | Yes |
 | `lemmy.blue` | Yes |
@@ -25329,6 +25336,7 @@ Here's a list of public Fediverse services.
 | `middleearth.fr` | No |
 | `middleearth.social` | No |
 | `midgard.pm` | No |
+| `midgardian.org` | No |
 | `midgardmates.com` | No |
 | `midline.pl` | No |
 | `midnight-cms.com` | No |
@@ -25629,6 +25637,7 @@ Here's a list of public Fediverse services.
 | `mirza.ee` | No |
 | `mis.ski` | Yes |
 | `misaca.network` | No |
+| `misachan.net` | Yes |
 | `misadventuresinit.com` | Yes |
 | `misaka.chat` | Yes |
 | `misaka.ru` | No |
@@ -36215,6 +36224,7 @@ Here's a list of public Fediverse services.
 | `sien.no` | No |
 | `sierranorte.red` | No |
 | `sieweke.social` | No |
+| `siewert.blog` | No |
 | `sig21.net` | No |
 | `sigatu.com` | No |
 | `sigcrap.org` | No |
@@ -45803,8 +45813,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,318 |
-| Normal | 33,442 |
+| Cloudflare | 12,323 |
+| Normal | 33,447 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
