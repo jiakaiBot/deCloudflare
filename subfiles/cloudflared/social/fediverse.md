@@ -1816,6 +1816,7 @@ Here's a list of public Fediverse services.
 | `amateurwire.org` | No |
 | `amatriain.site` | Yes |
 | `amatusika.com` | Yes |
+| `amau.jp` | Yes |
 | `amaurot.city` | Yes |
 | `amauryjoly.fr` | Yes |
 | `amayado.cloud` | Yes |
@@ -29441,6 +29442,7 @@ Here's a list of public Fediverse services.
 | `olching.social` | No |
 | `olchis.net` | No |
 | `olcy.fr` | No |
+| `old-home.faith` | No |
 | `oldb.social` | No |
 | `oldbytes.space` | No |
 | `oldcoder.org` | No |
@@ -45844,8 +45846,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,336 |
-| Normal | 33,465 |
+| Cloudflare | 12,337 |
+| Normal | 33,466 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
