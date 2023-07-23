@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Exhentai Cloudflare challenge is blocking gallery-dl](https://github.com/mikf/gallery-dl/issues/4342)
 - [Content Security Policy Errors](https://github.com/medusajs/medusa/issues/4588)
 - [add an option to link manga from different sources together](https://github.com/KotatsuApp/Kotatsu/issues/433)
 - [pt.btschool.club Error solving the challenge](https://github.com/FlareSolverr/FlareSolverr/issues/828)
