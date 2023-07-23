@@ -2786,6 +2786,7 @@ Do not create new issue or we will close it as duplicate.
 | [dennis_mcodhis@twitter](https://twitter.com/dennis_mcodhis/status/1459941166514950159) | advertise |
 | [dentistjasbrar@twitter](https://twitter.com/dentistjasbrar/status/1553380199131058178) | advertise |
 | [Denyjunial@twitter](https://twitter.com/Denyjunial/status/1571524540706226176) | advertise |
+| [denzuko@twitter](https://twitter.com/denzuko/status/1683184443551367170) | advertise |
 | [Deon24535935@twitter](https://twitter.com/Deon24535935/status/1399325913121177601) | advertise |
 | [deowc10@twitter](https://twitter.com/deowc10/status/1556584196075712513) | advertise |
 | [Depanordi@twitter](https://twitter.com/Depanordi/status/1642988006356430849) | advertise |
