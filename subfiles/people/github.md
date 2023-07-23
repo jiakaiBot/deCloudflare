@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [i cant start the program](https://github.com/4e4f4148/ITSNOTPOEVER-JAI/issues/3)
 - [nginx proxy returns 403: Forbidden](https://github.com/home-assistant/addons/issues/3144)
 - [Danbooru server unreachable](https://github.com/Bionus/imgbrd-grabber/issues/3013)
 - [Certbot is already running](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3071)
