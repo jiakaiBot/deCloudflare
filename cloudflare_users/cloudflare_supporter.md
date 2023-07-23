@@ -234,6 +234,7 @@ Do not create new issue or we will close it as duplicate.
 | [abadestroyer@twitter](https://twitter.com/abadestroyer/status/1618962680433479682) | advertise |
 | [Abass83104765@twitter](https://twitter.com/Abass83104765/status/1513851345249480710) | advertise |
 | [abbas9iq3999@twitter](https://twitter.com/abbas9iq3999/status/1499537931542970370) | advertise |
+| [abbasislam345@twitter](https://twitter.com/abbasislam345/status/1683016026307403777) | advertise |
 | [AbbasXxbb@twitter](https://twitter.com/AbbasXxbb/status/1564486907119165442) | advertise |
 | [AbbottIV@twitter](https://twitter.com/AbbottIV/status/1508273424300400642) | advertise |
 | [AbbyNatasya5@twitter](https://twitter.com/AbbyNatasya5/status/1623503438138200064) | advertise |
