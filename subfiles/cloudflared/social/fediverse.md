@@ -3191,6 +3191,7 @@ Here's a list of public Fediverse services.
 | `awakeningproject.net` | No |
 | `awaodori.tokyo` | No |
 | `awau.social` | Yes |
+| `awawa.gay` | No |
 | `awaworks.net` | No |
 | `awayfrompeople.com` | No |
 | `awaymessage.club` | No |
@@ -8289,6 +8290,7 @@ Here's a list of public Fediverse services.
 | `cwts.nl` | Yes |
 | `cx.cx` | Yes |
 | `cyan-blue.me` | No |
+| `cyan.gay` | No |
 | `cyan.wtf` | No |
 | `cyanbane.com` | Yes |
 | `cyaniccerulean.com` | No |
@@ -45826,7 +45828,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,329 |
-| Normal | 33,453 |
+| Normal | 33,455 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
