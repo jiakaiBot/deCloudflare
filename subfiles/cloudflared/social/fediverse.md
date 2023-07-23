@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,965 |
-| social | 4,369 |
+| social | 4,370 |
 | net | 3,557 |
 | org | 2,403 |
 | de | 2,222 |
@@ -43162,6 +43162,7 @@ Here's a list of public Fediverse services.
 | `vtuber.eu.org` | No |
 | `vtuber.games` | Yes |
 | `vtuber.house` | No |
+| `vtuberfan.social` | Yes |
 | `vtubers.site` | Yes |
 | `vtubertalk.com` | Yes |
 | `vtubertoot.com` | No |
@@ -45827,7 +45828,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,329 |
+| Cloudflare | 12,330 |
 | Normal | 33,455 |
 
 
