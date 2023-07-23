@@ -5281,6 +5281,7 @@ Here's a list of public Fediverse services.
 | `bringdaruck.us` | No |
 | `brinjal.org` | No |
 | `brioco.art` | No |
+| `brioco.live` | No |
 | `brioco.net` | No |
 | `brioco.social` | No |
 | `brisingr.uk` | Yes |
@@ -23303,6 +23304,7 @@ Here's a list of public Fediverse services.
 | `maco.pics` | Yes |
 | `macondo.info` | No |
 | `macro.tokyo` | No |
+| `macro.town` | Yes |
 | `macrodd.online` | No |
 | `macrofurs.social` | Yes |
 | `macsnet.cz` | No |
@@ -44607,6 +44609,7 @@ Here's a list of public Fediverse services.
 | `xn--24-6kca3bmfgm.xn--p1ai` | No |
 | `xn--28j0ea.tokyo` | No |
 | `xn--28j0ea.xn--tckwe` | No |
+| `xn--2os22eixx6na.xn--kpry57d` | No |
 | `xn--49ap3c.xn--y9a3aq` | No |
 | `xn--69aa8bzb.xn--y9a3aq` | No |
 | `xn--6r8h.tk` | No |
@@ -45799,8 +45802,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,316 |
-| Normal | 33,440 |
+| Cloudflare | 12,317 |
+| Normal | 33,442 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
