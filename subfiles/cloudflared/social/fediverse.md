@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,965 |
 | social | 4,369 |
-| net | 3,555 |
-| org | 2,402 |
+| net | 3,557 |
+| org | 2,403 |
 | de | 2,222 |
 
 
@@ -4053,7 +4053,7 @@ Here's a list of public Fediverse services.
 | `berton.me` | No |
 | `bertshouse.social` | No |
 | `beru.co` | No |
-| `berwa.re` | No |
+| `berwa.re` | Yes |
 | `berzerk.pl` | No |
 | `berzs.xyz` | No |
 | `besaid.de` | No |
@@ -22923,6 +22923,7 @@ Here's a list of public Fediverse services.
 | `lowsamplingrate.eu` | No |
 | `lowsec.club` | No |
 | `lowsnr.net` | No |
+| `lowstamina.pl` | Yes |
 | `loxodon.social` | No |
 | `loxodonta.world` | No |
 | `loxol.space` | No |
@@ -23551,6 +23552,7 @@ Here's a list of public Fediverse services.
 | `malbak.fr` | No |
 | `malbela.net` | No |
 | `malegebi.de` | Yes |
+| `malenfant.net` | No |
 | `maleo.uk` | No |
 | `malfunctional.net` | No |
 | `malfunctioning.technology` | No |
@@ -32095,6 +32097,7 @@ Here's a list of public Fediverse services.
 | `pretex.space` | No |
 | `pretix.social` | No |
 | `pretok.tv` | No |
+| `prettyarbitrary.org` | No |
 | `prettyboytellem.com` | No |
 | `prettygrouse.com` | No |
 | `prettyhefty.com` | Yes |
@@ -40878,6 +40881,7 @@ Here's a list of public Fediverse services.
 | `tootr.io` | Yes |
 | `toots.cc` | Yes |
 | `toots.ch` | No |
+| `toots.cl` | Yes |
 | `toots.cloud` | No |
 | `toots.direct` | No |
 | `toots.gg` | No |
@@ -42894,6 +42898,7 @@ Here's a list of public Fediverse services.
 | `virtualkemomimi.net` | Yes |
 | `virtuallyhillbilly.com` | No |
 | `virtualprivateserver.space` | No |
+| `virtualrocketwatching.net` | No |
 | `virtualsanity.com` | No |
 | `virtualspecies.com` | No |
 | `virtualtoot.com` | No |
@@ -45818,8 +45823,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,323 |
-| Normal | 33,452 |
+| Cloudflare | 12,326 |
+| Normal | 33,454 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
