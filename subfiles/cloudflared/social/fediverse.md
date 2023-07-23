@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,369 |
 | net | 3,555 |
 | org | 2,402 |
-| de | 2,221 |
+| de | 2,222 |
 
 
 - Mastodon, Pleroma, etc
@@ -11305,6 +11305,7 @@ Here's a list of public Fediverse services.
 | `empathytech.net` | No |
 | `empathytree.org` | No |
 | `emperorofmars.org` | No |
+| `emphisia.nl` | No |
 | `empoer.li` | No |
 | `emprendedon.network` | Yes |
 | `empresszyra.com` | No |
@@ -16696,6 +16697,7 @@ Here's a list of public Fediverse services.
 | `himasaku.net` | No |
 | `himastdon.club` | No |
 | `himbeer.me` | Yes |
+| `himbo.life` | No |
 | `hime.moe` | No |
 | `himitsudon.com` | No |
 | `himk.am` | Yes |
@@ -21522,6 +21524,7 @@ Here's a list of public Fediverse services.
 | `laserbeamh.com` | No |
 | `laserdisc.party` | No |
 | `laserjesus.se` | No |
+| `lasersandal.club` | No |
 | `lasersare.fun` | No |
 | `lasershark.army` | No |
 | `lasersword.club` | No |
@@ -21832,6 +21835,7 @@ Here's a list of public Fediverse services.
 | `lemmony.click` | Yes |
 | `lemmus.org` | No |
 | `lemmy.al` | Yes |
+| `lemmy.bayern` | No |
 | `lemmy.best` | No |
 | `lemmy.biz` | Yes |
 | `lemmy.blue` | Yes |
@@ -23537,6 +23541,7 @@ Here's a list of public Fediverse services.
 | `makrobytes.eu` | No |
 | `maksales.su` | Yes |
 | `makzan.blog` | No |
+| `mal-richtig.de` | No |
 | `mal.systems` | No |
 | `mal.town` | No |
 | `malachi.cc` | No |
@@ -45814,7 +45819,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,323 |
-| Normal | 33,447 |
+| Normal | 33,452 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
