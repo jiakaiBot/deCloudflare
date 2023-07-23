@@ -4543,6 +4543,7 @@ Here's a list of public Fediverse services.
 | `blahaj.fun` | No |
 | `blahaj.gg` | Yes |
 | `blahaj.land` | No |
+| `blahaj.lol` | No |
 | `blahaj.ovh` | Yes |
 | `blahaj.photo` | Yes |
 | `blahaj.pw` | Yes |
@@ -45825,7 +45826,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,329 |
-| Normal | 33,452 |
+| Normal | 33,453 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
