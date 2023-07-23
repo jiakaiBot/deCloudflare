@@ -3961,6 +3961,7 @@ Here's a list of public Fediverse services.
 | `bendik.io` | Yes |
 | `bendodson.com` | No |
 | `benedikts.social` | Yes |
+| `benefice.io` | No |
 | `benehomini.social` | No |
 | `benesh.family` | No |
 | `benetou.fr` | No |
@@ -45844,7 +45845,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,336 |
-| Normal | 33,464 |
+| Normal | 33,465 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
