@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Feedback for “Cloudflare D1” with Blobs](https://github.com/drizzle-team/drizzle-orm/issues/926)
 - [Minimal example fails with @astrojs/cloudflare](https://github.com/withastro/astro/issues/7775)
 - [Buffer is undefined](https://github.com/spotify/spotify-web-api-ts-sdk/issues/39)
 - [@cloudflare/kv-asset-handler is missing from Cloudflare Workers template dependencies](https://github.com/remix-run/remix/issues/6944)
