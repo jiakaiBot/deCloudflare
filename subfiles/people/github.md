@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Content Security Policy Errors](https://github.com/medusajs/medusa/issues/4588)
 - [add an option to link manga from different sources together](https://github.com/KotatsuApp/Kotatsu/issues/433)
 - [pt.btschool.club Error solving the challenge](https://github.com/FlareSolverr/FlareSolverr/issues/828)
 - [i cant start the program](https://github.com/4e4f4148/ITSNOTPOEVER-JAI/issues/3)
