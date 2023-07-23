@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,965 |
 | social | 4,369 |
-| net | 3,553 |
+| net | 3,554 |
 | org | 2,401 |
 | de | 2,221 |
 
@@ -2112,7 +2112,7 @@ Here's a list of public Fediverse services.
 | `anime-avatar.moe` | No |
 | `anime-titties.com` | Yes |
 | `anime.country` | No |
-| `anime.gdn` | Yes |
+| `anime.gdn` | No |
 | `anime.website` | Yes |
 | `animeabyss.xyz` | No |
 | `animeartist.social` | No |
@@ -7335,7 +7335,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -28638,6 +28638,7 @@ Here's a list of public Fediverse services.
 | `northtexas.social` | No |
 | `northwestvoip.com` | Yes |
 | `norwescon.org` | No |
+| `norwoodzero.net` | Yes |
 | `norze.co` | Yes |
 | `norze.world` | No |
 | `nos.bzh` | No |
@@ -44506,6 +44507,7 @@ Here's a list of public Fediverse services.
 | `xenesth.is` | No |
 | `xenia.social` | Yes |
 | `xeno.chat` | No |
+| `xeno.moe` | Yes |
 | `xeno.science` | No |
 | `xenoeye.com` | No |
 | `xenofact.com` | No |
@@ -44757,7 +44759,7 @@ Here's a list of public Fediverse services.
 | `xpp.dev` | No |
 | `xprmnt42.de` | No |
 | `xps2.net` | Yes |
-| `xpto.wtf` | Yes |
+| `xpto.wtf` | No |
 | `xpub.one` | No |
 | `xqz.ca` | No |
 | `xrayaksr.top` | Yes |
@@ -45797,8 +45799,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,317 |
-| Normal | 33,437 |
+| Cloudflare | 12,316 |
+| Normal | 33,440 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
