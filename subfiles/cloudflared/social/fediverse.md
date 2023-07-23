@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,964 |
+| com | 6,965 |
 | social | 4,369 |
-| net | 3,552 |
+| net | 3,553 |
 | org | 2,401 |
 | de | 2,221 |
 
@@ -3206,6 +3206,7 @@ Here's a list of public Fediverse services.
 | `awful.club` | No |
 | `awful.computer` | No |
 | `awful.monster` | No |
+| `awful.systems` | No |
 | `awjeez.help` | No |
 | `awk.is` | No |
 | `awkward.company` | No |
@@ -20234,6 +20235,7 @@ Here's a list of public Fediverse services.
 | `kevinwhalen.me` | No |
 | `kevinwhalen.org` | No |
 | `kevinyank.com` | No |
+| `kevitprojects.com` | Yes |
 | `kevjack.eu` | No |
 | `kevlar.cloud` | No |
 | `kevnet.cloud` | No |
@@ -31317,6 +31319,7 @@ Here's a list of public Fediverse services.
 | `pixelblaster.ro` | No |
 | `pixelcave.xyz` | Yes |
 | `pixelcloud.dev` | Yes |
+| `pixelcollider.net` | Yes |
 | `pixeldroid.org` | No |
 | `pixelfassa.de` | No |
 | `pixelfd.com` | No |
@@ -45794,8 +45797,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,315 |
-| Normal | 33,436 |
+| Cloudflare | 12,317 |
+| Normal | 33,437 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
