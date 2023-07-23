@@ -28080,6 +28080,7 @@ Here's a list of public Fediverse services.
 | `nickwebster.dev` | Yes |
 | `nickwood.ninja` | No |
 | `nickwrites.ca` | No |
+| `nickylamb.dev` | Yes |
 | `nickz.org` | No |
 | `niclas.xyz` | Yes |
 | `nico-bayati.de` | No |
@@ -45802,7 +45803,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,317 |
+| Cloudflare | 12,318 |
 | Normal | 33,442 |
 
 
