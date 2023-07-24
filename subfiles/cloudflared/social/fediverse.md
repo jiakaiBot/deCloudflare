@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,967 |
+| com | 6,968 |
 | social | 4,371 |
 | net | 3,558 |
 | org | 2,403 |
@@ -6100,7 +6100,7 @@ Here's a list of public Fediverse services.
 | `catgirlsare.cool` | Yes |
 | `catgirlsfor.science` | Yes |
 | `catgirlsin.space` | No |
-| `catgram.co` | Yes |
+| `catgram.co` | No |
 | `catgram.jp` | Yes |
 | `catharsis.cafe` | No |
 | `cathect.net` | No |
@@ -7346,7 +7346,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -22267,6 +22267,7 @@ Here's a list of public Fediverse services.
 | `lifewithfuschia.com` | No |
 | `lifewithtech.net` | No |
 | `lifthill.us` | Yes |
+| `lightbeamapps.com` | No |
 | `lightdashing.me` | No |
 | `lighteon.ru` | No |
 | `lighthouse-eco.co.za` | No |
@@ -28861,6 +28862,7 @@ Here's a list of public Fediverse services.
 | `nscio.us` | No |
 | `nsfw.cafe` | No |
 | `nsfw.finance` | Yes |
+| `nsfw.lgbt` | Yes |
 | `nsfw.onl` | Yes |
 | `nsfw.social` | Yes |
 | `nsfwphotography.social` | No |
@@ -37686,7 +37688,7 @@ Here's a list of public Fediverse services.
 | `srcr.nl` | No |
 | `srdn.net` | No |
 | `srg.id.au` | Yes |
-| `srg.social` | No |
+| `srg.social` | Yes |
 | `srgr0.com` | Yes |
 | `srid.ca` | Yes |
 | `srijan.dev` | Yes |
@@ -45847,7 +45849,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,337 |
-| Normal | 33,466 |
+| Normal | 33,468 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
