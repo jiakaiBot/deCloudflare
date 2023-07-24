@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,968 |
-| social | 4,372 |
+| social | 4,373 |
 | net | 3,560 |
 | org | 2,403 |
 | de | 2,223 |
@@ -1722,6 +1722,7 @@ Here's a list of public Fediverse services.
 | `alquimidia.org` | Yes |
 | `alr.st` | No |
 | `als.io` | Yes |
+| `alsd.eu` | No |
 | `alserver.jp` | No |
 | `alstadheim.no` | No |
 | `alster.space` | No |
@@ -22607,6 +22608,7 @@ Here's a list of public Fediverse services.
 | `lmcly.fyi` | Yes |
 | `lmdk.co.uk` | Yes |
 | `lmika.org` | No |
+| `lmkra.eu` | Yes |
 | `lml0608.tech` | No |
 | `lmmy.net` | Yes |
 | `lmnop.social` | No |
@@ -27802,6 +27804,7 @@ Here's a list of public Fediverse services.
 | `nerdtreff.it` | No |
 | `nerdvittles.com` | No |
 | `nerdworks.casa` | Yes |
+| `nerdy-technician.social` | Yes |
 | `nerdyfam.tech` | Yes |
 | `nerdynate.app` | No |
 | `nerdynate.com` | Yes |
@@ -33546,7 +33549,7 @@ Here's a list of public Fediverse services.
 | `redstrings.club` | No |
 | `redterrorcollective.net` | No |
 | `redvoice.news` | No |
-| `redwave.social` | No |
+| `redwave.social` | Yes |
 | `redwings.social` | No |
 | `redwombat.social` | Yes |
 | `redwoods.dev` | No |
@@ -45855,7 +45858,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,339 |
+| Cloudflare | 12,342 |
 | Normal | 33,473 |
 
 
