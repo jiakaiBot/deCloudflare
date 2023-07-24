@@ -3469,6 +3469,7 @@ Do not create new issue or we will close it as duplicate.
 | [Fadhill27320521@twitter](https://twitter.com/Fadhill27320521/status/1605914811694346240) | advertise |
 | [fadhilsupraptoo@twitter](https://twitter.com/fadhilsupraptoo/status/1572189168549371904) | advertise |
 | [Fadullah_OP@twitter](https://twitter.com/Fadullah_OP/status/1587466094943424513) | advertise |
+| [faggot_funny@twitter](https://twitter.com/faggot_funny/status/1683461485450907650) | advertise |
 | [fahedrahmani@twitter](https://twitter.com/fahedrahmani/status/1505209723838214152) | advertise |
 | [fahim_redboy@twitter](https://twitter.com/fahim_redboy/status/1543937436375343104) | advertise |
 | [FahmidKhan14@twitter](https://twitter.com/FahmidKhan14/status/1541104729232908289) | advertise |
@@ -3787,6 +3788,7 @@ Do not create new issue or we will close it as duplicate.
 | [Gemini_Japo@twitter](https://twitter.com/Gemini_Japo/status/1673594566740709378) | advertise |
 | [gemnguyen4125@twitter](https://twitter.com/gemnguyen4125/status/1471739773786025987) | advertise |
 | [gemstoneslover@twitter](https://twitter.com/gemstoneslover/status/1376813245416173571) | advertise |
+| [GeneneTari33706@twitter](https://twitter.com/GeneneTari33706/status/1683451794792349697) | advertise |
 | [GeneralGosu@twitter](https://twitter.com/GeneralGosu/status/1387508776429780993) | advertise |
 | [genercall@twitter](https://twitter.com/genercall/status/1599092007380869120) | advertise |
 | [Gengko@twitter](https://twitter.com/Gengko/status/1603888020092067842) | advertise |
