@@ -80,7 +80,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | datahata.by | No |
 | datamatter.co.za | No |
 | daw.dev | No |
-| decisivedevops.com | Yes |
 | decloudus.com | No |
 | dekonix.ru | Yes |
 | despagne.net | No |
@@ -128,7 +127,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ffmuc.net | Yes |
 | filipccz.eu | Yes |
 | flm9.net | No |
-| flodns.net | No |
 | flwagners.com | No |
 | fomichev.cloud | Yes |
 | foximao.cn | No |
@@ -226,7 +224,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | n0.eu | No |
 | nas-server.ru | Yes |
 | nexific.it | Yes |
-| nguyendn.com | Yes |
 | nhtsky.com | Yes |
 | nic.cz | No |
 | nic.lv | No |
@@ -328,7 +325,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tu-bs.de | No |
 | twnic.tw | No |
 | typaza.com | No |
-| unima.ac.id | No |
 | unstoppable.io | Yes |
 | uplenk.com | Yes |
 | vasi.li | No |
@@ -349,7 +345,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | yameenassotally.com | No |
 | yazilimatolye.com | No |
 | ychen.cf | No |
-| yingroad.top | Yes |
 | youni.win | Yes |
 | yovbak.com | No |
 | zxcvb.pp.ua | Yes |
@@ -359,8 +354,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 175 |
-| Normal | 165 |
+| Cloudflare | 172 |
+| Normal | 163 |
 
 
-### 51.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 51.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
