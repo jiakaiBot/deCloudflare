@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,969 |
+| com | 6,972 |
 | social | 4,374 |
-| net | 3,561 |
+| net | 3,562 |
 | org | 2,403 |
 | de | 2,223 |
 
@@ -15737,6 +15737,7 @@ Here's a list of public Fediverse services.
 | `gundan.es` | No |
 | `gundogcentral.com` | Yes |
 | `gunfreezone.net` | No |
+| `gunjobiyori.com` | Yes |
 | `gunju.de` | No |
 | `gunma.in` | No |
 | `gunmastodon.com` | Yes |
@@ -16300,6 +16301,7 @@ Here's a list of public Fediverse services.
 | `hdr-it.de` | No |
 | `hdr.social` | No |
 | `hdty.in` | No |
+| `he1l0-wor1d.space` | No |
 | `headbright.eu` | Yes |
 | `headcannon.xyz` | Yes |
 | `headchecks.club` | No |
@@ -17030,6 +17032,7 @@ Here's a list of public Fediverse services.
 | `hoot.town` | Yes |
 | `hoot.video` | No |
 | `hootiegibbon.co.uk` | No |
+| `hopbox.net` | No |
 | `hopcount.nl` | Yes |
 | `hope.ooo` | No |
 | `hopefullyread.com` | No |
@@ -17677,6 +17680,7 @@ Here's a list of public Fediverse services.
 | `ihatovo.com` | No |
 | `ihax0r.com` | No |
 | `ihobby.org` | No |
+| `ihoronir.com` | Yes |
 | `ihost.fi` | No |
 | `ihuvudetpaengranddanoisgalning.blog` | Yes |
 | `ii.md` | Yes |
@@ -23687,6 +23691,7 @@ Here's a list of public Fediverse services.
 | `mannennet.eu` | No |
 | `mannheim.social` | No |
 | `manninet.de` | No |
+| `manohitotoki.com` | Yes |
 | `manowar.social` | No |
 | `mantlepro.com` | No |
 | `manton.org` | No |
@@ -45866,8 +45871,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,349 |
-| Normal | 33,474 |
+| Cloudflare | 12,352 |
+| Normal | 33,476 |
 
 
-### 26.9% of public Fediverse services are using Cloudflare.
+### 27% of public Fediverse services are using Cloudflare.
