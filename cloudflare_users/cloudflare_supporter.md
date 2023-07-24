@@ -1096,6 +1096,7 @@ Do not create new issue or we will close it as duplicate.
 | [ashin_tayzaw@twitter](https://twitter.com/ashin_tayzaw/status/1635279967344009217) | advertise |
 | [Ashley30511045@twitter](https://twitter.com/Ashley30511045/status/1597618848001581056) | advertise |
 | [AshokMA9@twitter](https://twitter.com/AshokMA9/status/1483742175225602051) | advertise |
+| [ashqa966355843@twitter](https://twitter.com/ashqa966355843/status/1683144277138763777) | advertise |
 | [Ashqqqqq12@twitter](https://twitter.com/Ashqqqqq12/status/1578339268510257152) | advertise |
 | [Ashraf24818344@twitter](https://twitter.com/Ashraf24818344/status/1603472952946745344) | advertise |
 | [AshrafA27958012@twitter](https://twitter.com/AshrafA27958012/status/1680216777920245760) | advertise |
@@ -8872,6 +8873,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nika598597262@twitter](https://twitter.com/Nika598597262/status/1627673572717260801) | advertise |
 | [Nikhil47320517@twitter](https://twitter.com/Nikhil47320517/status/1380806296295907328) | advertise |
 | [Nikhil890445791@twitter](https://twitter.com/Nikhil890445791/status/1539328064546816000) | advertise |
+| [NikhilK22292740@twitter](https://twitter.com/NikhilK22292740/status/1683302469449949184) | advertise |
 | [NikhilS67789197@twitter](https://twitter.com/NikhilS67789197/status/1400026495444086785) | advertise |
 | [NikhilS76692989@twitter](https://twitter.com/NikhilS76692989/status/1386257034522218501) | advertise |
 | [NikhilSPawar4@twitter](https://twitter.com/NikhilSPawar4/status/1447058829020069891) | advertise |
@@ -9957,6 +9959,7 @@ Do not create new issue or we will close it as duplicate.
 | [quang59720264@twitter](https://twitter.com/quang59720264/status/1381982756029169671) | advertise |
 | [Quang66385697@twitter](https://twitter.com/Quang66385697/status/1592898497711583232) | advertise |
 | [Quang91415318@twitter](https://twitter.com/Quang91415318/status/1552530500756983808) | advertise |
+| [Quang234567889@twitter](https://twitter.com/Quang234567889/status/1683393894048993280) | advertise |
 | [quangan00528037@twitter](https://twitter.com/quangan00528037/status/1380604112140529667) | advertise |
 | [quangbk1@twitter](https://twitter.com/quangbk1/status/1538084581601341440) | advertise |
 | [QuangDdquangg@twitter](https://twitter.com/QuangDdquangg/status/1554759927495008256) | advertise |
