@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,972 |
 | social | 4,374 |
-| net | 3,563 |
+| net | 3,564 |
 | org | 2,403 |
 | de | 2,223 |
 
@@ -2785,6 +2785,7 @@ Here's a list of public Fediverse services.
 | `ashhhleyyy.dev` | Yes |
 | `ashiato45.net` | No |
 | `ashikaga.link` | No |
+| `ashimitsu.net` | Yes |
 | `ashitty.website` | No |
 | `ashka.me` | No |
 | `ashkaijin.com` | No |
@@ -9895,6 +9896,7 @@ Here's a list of public Fediverse services.
 | `divbot.com` | No |
 | `divecoaching.com.au` | No |
 | `diverge.gg` | Yes |
+| `divergence.pp.ua` | No |
 | `divergent.de` | No |
 | `diveright.net` | No |
 | `diversispiritus.net.br` | No |
@@ -16105,6 +16107,7 @@ Here's a list of public Fediverse services.
 | `happyband.es` | No |
 | `happybucket.social` | No |
 | `happyharry.org` | Yes |
+| `happyhaven.pro` | Yes |
 | `happyjesus.online` | No |
 | `happykraken.net` | Yes |
 | `happyorange.xyz` | Yes |
@@ -31151,6 +31154,7 @@ Here's a list of public Fediverse services.
 | `phun.club` | No |
 | `phundrak.com` | Yes |
 | `phutu.re` | No |
+| `phx.pub` | No |
 | `phx.social` | No |
 | `phy25.com` | No |
 | `phyl.me` | Yes |
@@ -45874,8 +45878,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,354 |
-| Normal | 33,477 |
+| Cloudflare | 12,356 |
+| Normal | 33,479 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
