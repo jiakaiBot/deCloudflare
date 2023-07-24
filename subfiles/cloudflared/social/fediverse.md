@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,968 |
-| social | 4,373 |
+| social | 4,374 |
 | net | 3,560 |
 | org | 2,403 |
 | de | 2,223 |
@@ -7349,7 +7349,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -31041,6 +31041,7 @@ Here's a list of public Fediverse services.
 | `phatnastytour.com` | No |
 | `phaysis.com` | No |
 | `phdstudents.space` | No |
+| `phegan.live` | Yes |
 | `pheme.au` | No |
 | `phene.gay` | No |
 | `phenjara.de` | No |
@@ -43477,6 +43478,7 @@ Here's a list of public Fediverse services.
 | `waya0125.com` | Yes |
 | `wayde.tech` | Yes |
 | `wayfarershaven.eu` | No |
+| `wayland.social` | No |
 | `waymeet.net` | Yes |
 | `wayne.social` | No |
 | `waystone.cc` | No |
@@ -45858,7 +45860,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,342 |
+| Cloudflare | 12,344 |
 | Normal | 33,473 |
 
 
