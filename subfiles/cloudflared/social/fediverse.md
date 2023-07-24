@@ -11747,6 +11747,7 @@ Here's a list of public Fediverse services.
 | `etheryo.fr` | No |
 | `ethibox.fr` | No |
 | `ethiclab.eu` | No |
+| `ethnet.io` | Yes |
 | `ethz.ch` | Yes |
 | `eticadigital.eu` | No |
 | `etiennemoureton.fr` | No |
@@ -44471,6 +44472,7 @@ Here's a list of public Fediverse services.
 | `wyshy.net` | No |
 | `wysterialane.net` | Yes |
 | `wysteriary.art` | No |
+| `wytch.space` | No |
 | `wytchmourne.com` | No |
 | `wyvern.rip` | No |
 | `wyx.ee` | Yes |
@@ -45871,8 +45873,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,352 |
-| Normal | 33,476 |
+| Cloudflare | 12,353 |
+| Normal | 33,477 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
