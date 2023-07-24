@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,972 |
-| social | 4,374 |
-| net | 3,564 |
+| com | 6,974 |
+| social | 4,375 |
+| net | 3,565 |
 | org | 2,403 |
 | de | 2,223 |
 
@@ -523,6 +523,7 @@ Here's a list of public Fediverse services.
 | `4liberty.one` | Yes |
 | `4lima.de` | Yes |
 | `4metal.info` | No |
+| `4nanai.com` | Yes |
 | `4netguides.com` | No |
 | `4netguides.org` | No |
 | `4nm1tsu.com` | No |
@@ -881,6 +882,7 @@ Here's a list of public Fediverse services.
 | `abramov.org` | No |
 | `abramson.dev` | No |
 | `abraum.de` | No |
+| `abretin.io` | Yes |
 | `abrir.gal` | No |
 | `abrizero.fr` | No |
 | `abrody.com` | No |
@@ -13301,6 +13303,7 @@ Here's a list of public Fediverse services.
 | `foowp.org` | No |
 | `fopnu.pw` | No |
 | `fops.cloud` | No |
+| `fops.one` | No |
 | `fora.social` | No |
 | `fora.win` | No |
 | `forall.social` | No |
@@ -35157,6 +35160,7 @@ Here's a list of public Fediverse services.
 | `sawakai.space` | No |
 | `saweb.de` | No |
 | `sawpitgully.net` | No |
+| `sawrams.ru` | No |
 | `saxifragus.com` | Yes |
 | `saxion.me` | No |
 | `saxonroad.uk` | No |
@@ -39081,6 +39085,7 @@ Here's a list of public Fediverse services.
 | `taprest.fr` | No |
 | `taprix.org` | No |
 | `taprlight.com` | No |
+| `taproot.social` | No |
 | `tar.black` | No |
 | `tar.cx` | No |
 | `tar.mx` | Yes |
@@ -44596,6 +44601,7 @@ Here's a list of public Fediverse services.
 | `xenua.me` | No |
 | `xenv.io` | No |
 | `xerg.ga` | Yes |
+| `xerimorph.net` | No |
 | `xeronith.com` | Yes |
 | `xerrem.xyz` | No |
 | `xerz.one` | No |
@@ -45222,6 +45228,7 @@ Here's a list of public Fediverse services.
 | `youngroyals.net` | No |
 | `your-server.de` | No |
 | `your-storageshare.de` | No |
+| `yourautisticlife.com` | No |
 | `yourdata.click` | No |
 | `youre.space` | Yes |
 | `yourein.net` | Yes |
@@ -45342,6 +45349,7 @@ Here's a list of public Fediverse services.
 | `yuri.bond` | No |
 | `yuri.camp` | Yes |
 | `yuri.garden` | Yes |
+| `yuri.mom` | No |
 | `yuri.place` | No |
 | `yuri.ro` | Yes |
 | `yurialbuquerque.dev` | No |
@@ -45878,8 +45886,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,356 |
-| Normal | 33,479 |
+| Cloudflare | 12,358 |
+| Normal | 33,485 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
