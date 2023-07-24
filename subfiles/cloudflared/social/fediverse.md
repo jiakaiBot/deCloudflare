@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,968 |
 | social | 4,372 |
-| net | 3,559 |
+| net | 3,560 |
 | org | 2,403 |
 | de | 2,223 |
 
@@ -14267,6 +14267,7 @@ Here's a list of public Fediverse services.
 | `gaiserik.com` | Yes |
 | `gaithersburgnewsletter.org` | No |
 | `gajsin.name` | No |
+| `gakami.net` | No |
 | `gaken.social` | No |
 | `gaku-tab-kill.com` | Yes |
 | `gaku-tab-love.com` | Yes |
@@ -19801,7 +19802,7 @@ Here's a list of public Fediverse services.
 | `kalebporter.club` | No |
 | `kalecream.com` | Yes |
 | `kaleido.moe` | Yes |
-| `kaleidos.net` | No |
+| `kaleidos.net` | Yes |
 | `kalenalangford.com` | Yes |
 | `kaliex.co` | No |
 | `kalik.in` | Yes |
@@ -45854,7 +45855,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,338 |
+| Cloudflare | 12,339 |
 | Normal | 33,473 |
 
 
