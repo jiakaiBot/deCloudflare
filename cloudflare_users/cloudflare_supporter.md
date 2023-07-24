@@ -2374,6 +2374,7 @@ Do not create new issue or we will close it as duplicate.
 | [codewithfortune@twitter](https://twitter.com/codewithfortune/status/1477733630982213634) | advertise |
 | [codfish246@twitter](https://twitter.com/codfish246/status/1555424438602047488) | advertise |
 | [Codingprotocols@twitter](https://twitter.com/Codingprotocols/status/1561244906060156929) | advertise |
+| [codonfa9500@twitter](https://twitter.com/codonfa9500/status/1683461608796995587) | advertise |
 | [codysaylor@twitter](https://twitter.com/codysaylor/status/1392677823454879756) | advertise |
 | [cogtwitoergosum@twitter](https://twitter.com/cogtwitoergosum/status/1665888737337958401) | advertise |
 | [CohenTrik@twitter](https://twitter.com/CohenTrik/status/1589273077829242880) | advertise |
