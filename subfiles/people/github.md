@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Getting Blocked by Cloudflare even though cookies and useragent are set](https://github.com/RicterZ/nhentai/issues/289)
 - [Feedback for “Cloudflare D1” with Blobs](https://github.com/drizzle-team/drizzle-orm/issues/926)
 - [Minimal example fails with @astrojs/cloudflare](https://github.com/withastro/astro/issues/7775)
 - [Buffer is undefined](https://github.com/spotify/spotify-web-api-ts-sdk/issues/39)
