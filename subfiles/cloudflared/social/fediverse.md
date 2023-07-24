@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,972 |
 | social | 4,374 |
-| net | 3,562 |
+| net | 3,563 |
 | org | 2,403 |
 | de | 2,223 |
 
@@ -6347,6 +6347,7 @@ Here's a list of public Fediverse services.
 | `chancearthur.com` | No |
 | `chancellor.cc` | No |
 | `chancellor.social` | No |
+| `chandr1000.net` | Yes |
 | `changelog.social` | No |
 | `changeme.fr.eu.org` | No |
 | `changmaoxiang.one` | Yes |
@@ -45873,7 +45874,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,353 |
+| Cloudflare | 12,354 |
 | Normal | 33,477 |
 
 
