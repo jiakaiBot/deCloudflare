@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,974 |
 | social | 4,375 |
-| net | 3,565 |
+| net | 3,566 |
 | org | 2,403 |
 | de | 2,223 |
 
@@ -5390,6 +5390,7 @@ Here's a list of public Fediverse services.
 | `bry.bar` | No |
 | `bryanmacmurray.com` | No |
 | `bryanstone.net` | No |
+| `bryce.co` | No |
 | `brydge.dev` | Yes |
 | `bryla.tk` | Yes |
 | `brz9.dev` | No |
@@ -11996,7 +11997,7 @@ Here's a list of public Fediverse services.
 | `eyluldogruel.com` | No |
 | `eymedia.de` | No |
 | `eyouwe.com` | No |
-| `eyraud.net` | No |
+| `eyraud.net` | Yes |
 | `eyufx.com` | No |
 | `ez-design.net` | No |
 | `eza.link` | No |
@@ -19031,6 +19032,7 @@ Here's a list of public Fediverse services.
 | `jeroensangers.com` | No |
 | `jeroenvd.nl` | Yes |
 | `jeronimo.dev.br` | Yes |
+| `jeronimodesign.net` | Yes |
 | `jerry.business` | No |
 | `jerrybase.com` | No |
 | `jerstation.com` | No |
@@ -28716,6 +28718,7 @@ Here's a list of public Fediverse services.
 | `nostalgia-tns.net` | No |
 | `nostalgiabook.gay` | No |
 | `nostream.stream` | No |
+| `noswipe.se` | Yes |
 | `not-a.top` | No |
 | `not-enough-sci.fi` | No |
 | `not-enough.space` | No |
@@ -44484,6 +44487,7 @@ Here's a list of public Fediverse services.
 | `wysteriary.art` | No |
 | `wytch.space` | No |
 | `wytchmourne.com` | No |
+| `wyvern.blue` | Yes |
 | `wyvern.rip` | No |
 | `wyx.ee` | Yes |
 | `wzf.wtf` | No |
@@ -45886,7 +45890,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,358 |
+| Cloudflare | 12,362 |
 | Normal | 33,485 |
 
 
