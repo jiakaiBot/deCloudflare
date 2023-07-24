@@ -3309,6 +3309,7 @@ Here's a list of public Fediverse services.
 | `azimuth.place` | Yes |
 | `azisserver.me` | Yes |
 | `azkware.net` | No |
+| `azlux.fr` | No |
 | `azorius.net` | No |
 | `azuki-zenzai.net` | No |
 | `azuki.cf` | Yes |
@@ -7066,6 +7067,7 @@ Here's a list of public Fediverse services.
 | `clover.social` | No |
 | `clovers.social` | No |
 | `clovershaunt.space` | No |
+| `clovr.cc` | Yes |
 | `clown-wife-clown.life` | No |
 | `clown.center` | No |
 | `clown.social` | No |
@@ -36853,6 +36855,7 @@ Here's a list of public Fediverse services.
 | `snailedit.social` | Yes |
 | `snailhuddle.org` | No |
 | `snake.club` | No |
+| `snake.cool` | No |
 | `snakebox.xyz` | No |
 | `snakenode.eu` | No |
 | `snakeslayers.com` | Yes |
@@ -45850,8 +45853,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,337 |
-| Normal | 33,470 |
+| Cloudflare | 12,338 |
+| Normal | 33,472 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
