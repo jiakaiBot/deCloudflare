@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,968 |
 | social | 4,371 |
-| net | 3,558 |
+| net | 3,559 |
 | org | 2,403 |
 | de | 2,223 |
 
@@ -23159,6 +23159,7 @@ Here's a list of public Fediverse services.
 | `luxray.club` | No |
 | `luxtube.lu` | No |
 | `luxurygay.space` | No |
+| `luzankia.net` | No |
 | `luzeed.org` | No |
 | `luzifer.io` | No |
 | `lv8.at` | Yes |
@@ -45849,7 +45850,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,337 |
-| Normal | 33,468 |
+| Normal | 33,469 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
