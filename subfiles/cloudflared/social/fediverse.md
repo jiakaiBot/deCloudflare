@@ -40111,6 +40111,7 @@ Here's a list of public Fediverse services.
 | `theupsidedown.uk` | Yes |
 | `theurbanfarmer.org` | Yes |
 | `theusefularts.org` | No |
+| `thev0id.io` | No |
 | `thevacuumof.space` | No |
 | `thevalley.social` | No |
 | `thevapor.space` | No |
@@ -45850,7 +45851,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,337 |
-| Normal | 33,469 |
+| Normal | 33,470 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
