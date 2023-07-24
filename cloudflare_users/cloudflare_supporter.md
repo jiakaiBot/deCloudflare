@@ -13231,6 +13231,7 @@ Do not create new issue or we will close it as duplicate.
 | [we_saas@twitter](https://twitter.com/we_saas/status/1492116460310781952) | advertise |
 | [WH1SbAtn0BPa5UI@twitter](https://twitter.com/WH1SbAtn0BPa5UI/status/1377862606266961924) | advertise |
 | [wha7QdpBYxFiy7h@twitter](https://twitter.com/wha7QdpBYxFiy7h/status/1633396102874685440) | advertise |
+| [WhatGoo68019989@twitter](https://twitter.com/WhatGoo68019989/status/1683493649810612226) | advertise |
 | [whatsappplus9@twitter](https://twitter.com/whatsappplus9/status/1571332569198624769) | advertise |
 | [Whatsup30605762@twitter](https://twitter.com/Whatsup30605762/status/1633883935624265728) | advertise |
 | [whatthe88888@twitter](https://twitter.com/whatthe88888/status/1385148573516402694) | advertise |
