@@ -2088,6 +2088,7 @@ Do not create new issue or we will close it as duplicate.
 | [Caylabsh231@twitter](https://twitter.com/Caylabsh231/status/1642198060133662720) | advertise |
 | [Cazito1@twitter](https://twitter.com/Cazito1/status/1493689843003445252) | advertise |
 | [cbi36470317@twitter](https://twitter.com/cbi36470317/status/1553803258178592769) | advertise |
+| [CcBi418802@twitter](https://twitter.com/CcBi418802/status/1683374498391916544) | advertise |
 | [Cccc19132123@twitter](https://twitter.com/Cccc19132123/status/1394688217815814146) | advertise |
 | [Cccc35205212@twitter](https://twitter.com/Cccc35205212/status/1392255440336023553) | advertise |
 | [Cccccc47539425@twitter](https://twitter.com/Cccccc47539425/status/1407316489279995904) | advertise |
