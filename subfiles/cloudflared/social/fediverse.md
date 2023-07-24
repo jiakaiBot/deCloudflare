@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,968 |
+| com | 6,969 |
 | social | 4,374 |
-| net | 3,560 |
+| net | 3,561 |
 | org | 2,403 |
 | de | 2,223 |
 
@@ -2994,6 +2994,7 @@ Here's a list of public Fediverse services.
 | `atridad.cloud` | No |
 | `atridad.dev` | Yes |
 | `atrilahiji.dev` | No |
+| `atriplex.info` | No |
 | `atrophy.dev` | No |
 | `atropos.network` | No |
 | `atroxen.com` | No |
@@ -16091,6 +16092,7 @@ Here's a list of public Fediverse services.
 | `hansinge.net` | No |
 | `hanson.social` | No |
 | `hansup.be` | No |
+| `hanton.at` | No |
 | `haojia-wu.com` | No |
 | `haolit.de` | No |
 | `haoyayoi.net` | No |
@@ -21529,6 +21531,7 @@ Here's a list of public Fediverse services.
 | `larrysanger.org` | Yes |
 | `larsen.social` | No |
 | `larsfosdal.blog` | No |
+| `larsmueller.net` | Yes |
 | `larsreineke.de` | No |
 | `larus.se` | Yes |
 | `larvata.com` | No |
@@ -22983,6 +22986,7 @@ Here's a list of public Fediverse services.
 | `ltch.fr` | No |
 | `ltdk.xyz` | No |
 | `lthn.eu` | No |
+| `ltl96.com` | Yes |
 | `ltoi.net` | No |
 | `ltratcliff.com` | No |
 | `lttl.one` | Yes |
@@ -23024,7 +23028,7 @@ Here's a list of public Fediverse services.
 | `luciendupont.com` | Yes |
 | `lucienpuget.fr` | No |
 | `luciferi.st` | No |
-| `lucitt.com` | No |
+| `lucitt.com` | Yes |
 | `lucitt.social` | Yes |
 | `luckow.org` | No |
 | `luckycat.chat` | No |
@@ -42338,6 +42342,7 @@ Here's a list of public Fediverse services.
 | `urmum.gq` | No |
 | `urn1350.net` | Yes |
 | `ursa.cafe` | No |
+| `ursa.camp` | No |
 | `ursal.zone` | Yes |
 | `ursaoskius.com` | Yes |
 | `ursinn.dev` | Yes |
@@ -45115,7 +45120,7 @@ Here's a list of public Fediverse services.
 | `ykzts.technology` | No |
 | `yl.ms` | No |
 | `ylan.page` | No |
-| `ylvie.monster` | No |
+| `ylvie.monster` | Yes |
 | `ylwsgn.cc` | Yes |
 | `ymkml.online` | No |
 | `ymmel.nl` | No |
@@ -45861,8 +45866,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,345 |
-| Normal | 33,473 |
+| Cloudflare | 12,349 |
+| Normal | 33,474 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
