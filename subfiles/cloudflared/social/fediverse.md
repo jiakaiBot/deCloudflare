@@ -41436,6 +41436,7 @@ Here's a list of public Fediverse services.
 | `tsuchidon.com` | No |
 | `tsuda.dev` | No |
 | `tsueri.cloud` | No |
+| `tsukeru.moe` | Yes |
 | `tsuki.cat` | Yes |
 | `tsuki.club` | No |
 | `tsuki.network` | Yes |
@@ -45860,7 +45861,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,344 |
+| Cloudflare | 12,345 |
 | Normal | 33,473 |
 
 
