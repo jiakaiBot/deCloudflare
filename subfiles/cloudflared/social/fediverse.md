@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,968 |
-| social | 4,371 |
+| social | 4,372 |
 | net | 3,559 |
 | org | 2,403 |
 | de | 2,223 |
@@ -33425,6 +33425,7 @@ Here's a list of public Fediverse services.
 | `reasonably.social` | No |
 | `reaves.dev` | No |
 | `reax.work` | Yes |
+| `reb.social` | No |
 | `rebased.io` | Yes |
 | `rebased.network` | Yes |
 | `rebased.social` | Yes |
@@ -45854,7 +45855,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,338 |
-| Normal | 33,472 |
+| Normal | 33,473 |
 
 
 ### 26.9% of public Fediverse services are using Cloudflare.
