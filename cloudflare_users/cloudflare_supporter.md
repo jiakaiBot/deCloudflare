@@ -8653,6 +8653,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nguyannasa@twitter](https://twitter.com/Nguyannasa/status/1660882978564870145) | advertise |
 | [Nguyen06650053@twitter](https://twitter.com/Nguyen06650053/status/1469787978830548994) | advertise |
 | [Nguyen21Duong@twitter](https://twitter.com/Nguyen21Duong/status/1552697558442872832) | advertise |
+| [Nguyen862400@twitter](https://twitter.com/Nguyen862400/status/1683898711821410304) | advertise |
 | [Nguyen10855445@twitter](https://twitter.com/Nguyen10855445/status/1386434408933060608) | advertise |
 | [NguyenA29695000@twitter](https://twitter.com/NguyenA29695000/status/1473783098227986433) | advertise |
 | [NguyenAn0506@twitter](https://twitter.com/NguyenAn0506/status/1386294304885248000) | advertise |
@@ -9435,6 +9436,7 @@ Do not create new issue or we will close it as duplicate.
 | [peareza@twitter](https://twitter.com/peareza/status/1577504046822281218) | advertise |
 | [pearler15@twitter](https://twitter.com/pearler15/status/1500015969544155140) | advertise |
 | [peart_claudia@twitter](https://twitter.com/peart_claudia/status/1556322666767843329) | advertise |
+| [PedasReman@twitter](https://twitter.com/PedasReman/status/1683888392193581059) | advertise |
 | [pedrogabrielrey@twitter](https://twitter.com/pedrogabrielrey/status/1530707619979186184) | advertise |
 | [PedroLuisPrinc5@twitter](https://twitter.com/PedroLuisPrinc5/status/1406316703324254208) | advertise |
 | [pedro_lucas172@twitter](https://twitter.com/pedro_lucas172/status/1656084098648006658) | advertise |
