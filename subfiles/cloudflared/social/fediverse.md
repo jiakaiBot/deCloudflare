@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,974 |
 | social | 4,376 |
-| net | 3,567 |
+| net | 3,571 |
 | org | 2,403 |
 | de | 2,223 |
 
@@ -1619,6 +1619,7 @@ Here's a list of public Fediverse services.
 | `alive.bar` | Yes |
 | `alixrossi.corsica` | No |
 | `aliyo.me` | Yes |
+| `alizoed.top` | Yes |
 | `aljadra.xyz` | No |
 | `alkaabi.io` | Yes |
 | `all.de` | No |
@@ -6660,6 +6661,7 @@ Here's a list of public Fediverse services.
 | `chor-blog.de` | No |
 | `chordtoll.com` | Yes |
 | `chordwiki.org` | Yes |
+| `choro-s.net` | No |
 | `choro3.net` | Yes |
 | `chorok.cafe` | No |
 | `chorus-st.com` | No |
@@ -25679,7 +25681,7 @@ Here's a list of public Fediverse services.
 | `mirrored.rocks` | No |
 | `mirrored.social` | No |
 | `mirroruniverse.eu` | No |
-| `miru.online` | No |
+| `miru.online` | Yes |
 | `miruku.cafe` | Yes |
 | `mirumu.net` | No |
 | `mirwarso.de` | Yes |
@@ -25740,6 +25742,7 @@ Here's a list of public Fediverse services.
 | `misskey.art` | Yes |
 | `misskey.at` | No |
 | `misskey.beer` | No |
+| `misskey.blue` | Yes |
 | `misskey.cf` | Yes |
 | `misskey.city` | Yes |
 | `misskey.cloud` | Yes |
@@ -25794,6 +25797,7 @@ Here's a list of public Fediverse services.
 | `misskeyjp.com` | Yes |
 | `misskeytsf.love` | No |
 | `misskeyval.com` | Yes |
+| `misskirara.net` | Yes |
 | `misskoula.space` | No |
 | `misso-pi.com` | No |
 | `misspi.net` | Yes |
@@ -27712,6 +27716,7 @@ Here's a list of public Fediverse services.
 | `nemosrv.tk` | No |
 | `nemotodon.tk` | No |
 | `nemsia.org` | No |
+| `nemtie.net` | No |
 | `nemu.us` | Yes |
 | `nemudaru.uk` | Yes |
 | `nemuneko.me` | No |
@@ -34891,6 +34896,7 @@ Here's a list of public Fediverse services.
 | `sakurajima.social` | No |
 | `sakurakazune.org` | No |
 | `sakurapuare.tech` | No |
+| `sakuraskey.net` | Yes |
 | `sakurauchi.moe` | No |
 | `sakuyo.net` | Yes |
 | `sal.dev` | Yes |
@@ -45894,8 +45900,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,364 |
-| Normal | 33,487 |
+| Cloudflare | 12,369 |
+| Normal | 33,488 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
