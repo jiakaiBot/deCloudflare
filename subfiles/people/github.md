@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [German Language File](https://github.com/victorbalssa/abacus/issues/114)
+- [500 internal server error](https://github.com/ccxt/ccxt/issues/18654)
 - [Windows 11 - connect not working](https://github.com/telepresenceio/telepresence/issues/3279)
 - [Chronograf crashes when a colon is entered](https://github.com/influxdata/chronograf/issues/6052)
 - [Getting Blocked by Cloudflare even though cookies and useragent are set](https://github.com/RicterZ/nhentai/issues/289)
