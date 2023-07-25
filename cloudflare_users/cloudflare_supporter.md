@@ -5511,6 +5511,7 @@ Do not create new issue or we will close it as duplicate.
 | [johnjoemorgan@twitter](https://twitter.com/johnjoemorgan/status/1470604635391991811) | advertise |
 | [JohnJoh28798504@twitter](https://twitter.com/JohnJoh28798504/status/1402285463600304132) | advertise |
 | [JohnKhaing2@twitter](https://twitter.com/JohnKhaing2/status/1395711379818958851) | advertise |
+| [JohnMornin16345@twitter](https://twitter.com/JohnMornin16345/status/1683617686692020224) | advertise |
 | [johnnyphanjp@twitter](https://twitter.com/johnnyphanjp/status/1553781591222018050) | advertise |
 | [JohnPha40863688@twitter](https://twitter.com/JohnPha40863688/status/1623327693088653315) | advertise |
 | [JohnSmi50780892@twitter](https://twitter.com/JohnSmi50780892/status/1391425220108439560) | advertise |
