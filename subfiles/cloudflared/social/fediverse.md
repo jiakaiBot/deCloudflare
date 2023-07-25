@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,974 |
 | social | 4,375 |
-| net | 3,566 |
+| net | 3,567 |
 | org | 2,403 |
 | de | 2,223 |
 
@@ -24309,6 +24309,7 @@ Here's a list of public Fediverse services.
 | `mastodon.select` | No |
 | `mastodon.sg` | Yes |
 | `mastodon.si` | No |
+| `mastodon.site` | Yes |
 | `mastodon.sk` | No |
 | `mastodon.sl` | No |
 | `mastodon.soccer` | No |
@@ -31213,6 +31214,7 @@ Here's a list of public Fediverse services.
 | `pierobosio.info` | No |
 | `pierobosio.it` | No |
 | `pierre-duchemin.fr` | No |
+| `pierre-r.net` | No |
 | `pierre.tube` | No |
 | `pierregaignet.ovh` | No |
 | `pierrick.io` | No |
@@ -45890,8 +45892,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,362 |
-| Normal | 33,485 |
+| Cloudflare | 12,363 |
+| Normal | 33,486 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
