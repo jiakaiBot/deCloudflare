@@ -4022,6 +4022,7 @@ Here's a list of public Fediverse services.
 | `bentobin.com` | No |
 | `benudenotcrude.com` | No |
 | `benui.ca` | No |
+| `benw.ink` | Yes |
 | `benward.social` | No |
 | `benwinslow.news` | No |
 | `benz.social` | Yes |
@@ -14920,6 +14921,7 @@ Here's a list of public Fediverse services.
 | `gion.me` | No |
 | `gionathandiani.name` | No |
 | `giorgiocomai.eu` | Yes |
+| `giorgiovola.casa` | Yes |
 | `giot.es` | No |
 | `giov.dev` | Yes |
 | `giraffeviola.com` | No |
@@ -45937,7 +45939,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,384 |
+| Cloudflare | 12,386 |
 | Normal | 33,510 |
 
 
