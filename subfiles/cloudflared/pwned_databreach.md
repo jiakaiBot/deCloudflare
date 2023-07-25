@@ -565,6 +565,7 @@ Here's a list of breached sites.
 | Tianya | 29,020,808 | No |
 | Ticketcounter | 1,921,722 | Yes |
 | Ticketfly | 26,151,608 | No |
+| Tigo | 700,394 | Yes |
 | Tokopedia | 71,443,698 | No |
 | ToonDoo | 6,002,694 | No |
 | TorrentInvites (Torrent Invites) | 352,120 | Yes |
@@ -676,10 +677,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 369 | 3,956,108,368 |
+| Cloudflare | 370 | 3,956,808,762 |
 | Normal | 286 | 4,955,574,158 |
 
 
 
-### 56.3% of breached sites (pwned sites) are using Cloudflare.
+### 56.4% of breached sites (pwned sites) are using Cloudflare.
 ### 44.4% of leaked accounts are on Cloudflare sites.
