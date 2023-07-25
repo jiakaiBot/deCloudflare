@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,979 |
+| com | 6,980 |
 | social | 4,379 |
 | net | 3,575 |
 | org | 2,404 |
@@ -8165,7 +8165,7 @@ Here's a list of public Fediverse services.
 | `cubes.link` | No |
 | `cubewebsites.com` | Yes |
 | `cubeworld.de` | No |
-| `cubhub.social` | No |
+| `cubhub.social` | Yes |
 | `cubicgarden.com` | No |
 | `cubieserver.de` | Yes |
 | `cubyx.eu` | Yes |
@@ -25593,6 +25593,7 @@ Here's a list of public Fediverse services.
 | `mindly.photos` | Yes |
 | `mindly.social` | Yes |
 | `mindofjoe.xyz` | No |
+| `mindoki.com` | No |
 | `mindpalace.io` | Yes |
 | `mindsforge.com` | No |
 | `mindshare.space` | No |
@@ -25863,6 +25864,7 @@ Here's a list of public Fediverse services.
 | `mitra.pm` | No |
 | `mitra.social` | No |
 | `mitrailleuse.net` | Yes |
+| `mitrich.me` | Yes |
 | `mitrofanov.su` | No |
 | `mitron.social` | No |
 | `mitsu9.com` | No |
@@ -29944,6 +29946,7 @@ Here's a list of public Fediverse services.
 | `orebro.online` | No |
 | `orebrotribune.online` | No |
 | `orebrotribune.org` | No |
+| `orefice.win` | No |
 | `oregon33.org` | No |
 | `oregonian.social` | Yes |
 | `oregonlive.com` | Yes |
@@ -45516,6 +45519,7 @@ Here's a list of public Fediverse services.
 | `zakuac.com` | No |
 | `zakwan-khello.de` | No |
 | `zalem.city` | No |
+| `zamb.la` | Yes |
 | `zambito.xyz` | No |
 | `zamborsky.eu` | No |
 | `zamdronie.com` | No |
@@ -45933,8 +45937,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,381 |
-| Normal | 33,509 |
+| Cloudflare | 12,384 |
+| Normal | 33,510 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
