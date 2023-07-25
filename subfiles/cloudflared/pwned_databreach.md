@@ -99,6 +99,7 @@ Here's a list of breached sites.
 | Bolt | 995,274 | No |
 | BombujEu (Bombuj.eu) | 575,437 | Yes |
 | Bonobos | 2,811,929 | No |
+| BookCrossing | 1,582,323 | No |
 | Bookchor | 498,297 | No |
 | Bookmate | 3,830,916 | Yes |
 | BotOfLegends (Bot of Legends) | 238,373 | Yes |
@@ -355,7 +356,7 @@ Here's a list of breached sites.
 | MacForums (Mac Forums) | 326,714 | Yes |
 | MacGeneration | 101,004 | No |
 | MailRu (mail.ru Dump) | 16,630,988 | No |
-| MajorGeeks | 269,548 | No |
+| MajorGeeks | 269,548 | Yes |
 | MallCZ (MALL.cz) | 735,405 | Yes |
 | Malwarebytes | 111,623 | No |
 | MangaDex | 2,987,329 | Yes |
@@ -677,10 +678,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 370 | 3,956,808,762 |
-| Normal | 286 | 4,955,574,158 |
+| Cloudflare | 371 | 3,957,078,310 |
+| Normal | 286 | 4,956,886,933 |
 
 
 
-### 56.4% of breached sites (pwned sites) are using Cloudflare.
+### 56.5% of breached sites (pwned sites) are using Cloudflare.
 ### 44.4% of leaked accounts are on Cloudflare sites.
