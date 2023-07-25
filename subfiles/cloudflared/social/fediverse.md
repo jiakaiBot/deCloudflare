@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,975 |
-| social | 4,376 |
-| net | 3,571 |
+| com | 6,978 |
+| social | 4,378 |
+| net | 3,572 |
 | org | 2,403 |
 | de | 2,224 |
 
@@ -3735,6 +3735,7 @@ Here's a list of public Fediverse services.
 | `baud.social` | No |
 | `baudigital.social` | No |
 | `baudrin.fr` | Yes |
+| `baufreton.fr` | No |
 | `baugelitt.eu` | No |
 | `baum.social` | No |
 | `bauphysik.social` | No |
@@ -5151,6 +5152,7 @@ Here's a list of public Fediverse services.
 | `bradycat.de` | Yes |
 | `braemer.us` | No |
 | `brage.fr` | Yes |
+| `brain404.com` | No |
 | `brainbaking.com` | Yes |
 | `brainjuice.ca` | No |
 | `brainport.social` | No |
@@ -5179,6 +5181,7 @@ Here's a list of public Fediverse services.
 | `brandonrozek.com` | No |
 | `brandonshire.blog` | No |
 | `brandonsjournal.com` | No |
+| `brandontemplar.social` | No |
 | `brandontreb.com` | No |
 | `brands.chat` | No |
 | `brands.town` | No |
@@ -14936,6 +14939,7 @@ Here's a list of public Fediverse services.
 | `girlthing.chat` | No |
 | `girly.monster` | No |
 | `giroguy.com` | No |
+| `girondi.net` | Yes |
 | `gist.social` | No |
 | `git9k.com` | No |
 | `gitea.io` | Yes |
@@ -17814,6 +17818,7 @@ Here's a list of public Fediverse services.
 | `imfing.com` | Yes |
 | `imi.moe` | Yes |
 | `imibimi.xyz` | Yes |
+| `imichka.me` | No |
 | `imihov.com` | Yes |
 | `imirhil.fr` | No |
 | `imjust.one` | No |
@@ -27003,6 +27008,7 @@ Here's a list of public Fediverse services.
 | `mwknet.de` | No |
 | `mwl.io` | No |
 | `mws.rocks` | Yes |
+| `mwtaylor.social` | No |
 | `mwtremblay.com` | No |
 | `mwzhang.com` | No |
 | `mx00s.com` | No |
@@ -33566,6 +33572,7 @@ Here's a list of public Fediverse services.
 | `redpandemonium.com` | Yes |
 | `redpawcollective.co` | No |
 | `redpeacock78.com` | Yes |
+| `redpilled.dev` | Yes |
 | `redpilled.life` | No |
 | `redra1n.net` | No |
 | `redroo.ml` | No |
@@ -41728,6 +41735,7 @@ Here's a list of public Fediverse services.
 | `twipped.social` | No |
 | `twirper.com` | No |
 | `twistedsifter.com` | No |
+| `twistermc.com` | Yes |
 | `twistme.in` | No |
 | `twit-guide.com` | No |
 | `twit.social` | No |
@@ -43868,6 +43876,7 @@ Here's a list of public Fediverse services.
 | `white-void.net` | No |
 | `whitecoat.social` | No |
 | `whitedissidenttv.com` | No |
+| `whitedragonofcroatia.com` | No |
 | `whitehead-smith.com` | Yes |
 | `whitehouse.org` | Yes |
 | `whitelion.me` | No |
@@ -45907,8 +45916,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,371 |
-| Normal | 33,493 |
+| Cloudflare | 12,374 |
+| Normal | 33,499 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
