@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,974 |
-| social | 4,375 |
+| social | 4,376 |
 | net | 3,567 |
 | org | 2,403 |
 | de | 2,223 |
@@ -3934,7 +3934,7 @@ Here's a list of public Fediverse services.
 | `believeland.social` | Yes |
 | `belkadan.com` | No |
 | `bell.bz` | Yes |
-| `bellamazz.com` | No |
+| `bellamazz.com` | Yes |
 | `bellefonte.today` | No |
 | `belligerence.club` | No |
 | `bellingcat.social` | No |
@@ -4087,6 +4087,7 @@ Here's a list of public Fediverse services.
 | `besthairypussy.com` | No |
 | `bestiaexmachina.com` | No |
 | `besties.com` | No |
+| `besties.house` | Yes |
 | `bestio.top` | No |
 | `bestodon.com` | Yes |
 | `bestregard.co` | No |
@@ -7355,7 +7356,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -44698,6 +44699,7 @@ Here's a list of public Fediverse services.
 | `xn--28j0ea.xn--tckwe` | No |
 | `xn--2os22eixx6na.xn--kpry57d` | No |
 | `xn--49ap3c.xn--y9a3aq` | No |
+| `xn--56a.social` | No |
 | `xn--69aa8bzb.xn--y9a3aq` | No |
 | `xn--6r8h.tk` | No |
 | `xn--7fw.xyz` | No |
@@ -45892,8 +45894,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,363 |
-| Normal | 33,486 |
+| Cloudflare | 12,364 |
+| Normal | 33,487 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
