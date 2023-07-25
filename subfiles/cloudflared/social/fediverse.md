@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,978 |
+| com | 6,979 |
 | social | 4,378 |
 | net | 3,572 |
 | org | 2,403 |
@@ -3957,6 +3957,7 @@ Here's a list of public Fediverse services.
 | `bemrose.us` | No |
 | `bemtevi.social` | Yes |
 | `ben-on-vms.com` | Yes |
+| `ben.ie` | No |
 | `ben.land` | No |
 | `ben.wtf` | Yes |
 | `benatar.ovh` | No |
@@ -6216,6 +6217,7 @@ Here's a list of public Fediverse services.
 | `cdmx.rocks` | No |
 | `cdownie.co.uk` | Yes |
 | `cdrom.tokyo` | No |
+| `cdroma.me` | Yes |
 | `cdrum.photos` | No |
 | `cdrum.social` | Yes |
 | `cdstm.ch` | No |
@@ -23247,6 +23249,7 @@ Here's a list of public Fediverse services.
 | `lyros.net` | No |
 | `lys.ee` | Yes |
 | `lys.systems` | No |
+| `lysianth.us` | Yes |
 | `lyte.dev` | No |
 | `lyttle.cam` | No |
 | `lyven.live` | No |
@@ -37788,6 +37791,7 @@ Here's a list of public Fediverse services.
 | `stack.black` | Yes |
 | `stackdump.com` | No |
 | `stackinfo.com` | Yes |
+| `stackingtabs.com` | Yes |
 | `stackmatic.org` | No |
 | `stackpointer.ws` | No |
 | `stacktrace.sh` | No |
@@ -45916,8 +45920,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,374 |
-| Normal | 33,499 |
+| Cloudflare | 12,377 |
+| Normal | 33,500 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
