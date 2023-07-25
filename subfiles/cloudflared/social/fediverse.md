@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,974 |
+| com | 6,975 |
 | social | 4,376 |
 | net | 3,571 |
 | org | 2,403 |
-| de | 2,223 |
+| de | 2,224 |
 
 
 - Mastodon, Pleroma, etc
@@ -1965,6 +1965,7 @@ Here's a list of public Fediverse services.
 | `anartist.world` | No |
 | `anartri.net` | No |
 | `anasodon.com` | No |
+| `anayo.de` | No |
 | `anca.tv` | No |
 | `ancap.su` | No |
 | `ancapchan.info` | No |
@@ -9285,6 +9286,7 @@ Here's a list of public Fediverse services.
 | `demon.tech` | No |
 | `demoncore.info` | No |
 | `demonic.computer` | No |
+| `demonic.engineering` | No |
 | `demonic.moe` | No |
 | `demonix.fr` | No |
 | `demonoftheday.eu` | No |
@@ -12032,6 +12034,7 @@ Here's a list of public Fediverse services.
 | `f40c40.com` | No |
 | `f4255529.fun` | Yes |
 | `f4255529.shop` | Yes |
+| `f451.page` | No |
 | `f4clo.fr` | No |
 | `f4d3z.space` | No |
 | `f4grx.net` | No |
@@ -19502,6 +19505,7 @@ Here's a list of public Fediverse services.
 | `json.blog` | No |
 | `jsonly.club` | No |
 | `jsorge.net` | No |
+| `jsr.com` | No |
 | `jstd.me` | No |
 | `jsteuernagel.de` | Yes |
 | `jsts.xyz` | Yes |
@@ -29377,6 +29381,7 @@ Here's a list of public Fediverse services.
 | `ogijima.fr` | Yes |
 | `ogiso.me` | Yes |
 | `oglplus.org` | No |
+| `ogra.ph` | Yes |
 | `ogran.club` | No |
 | `ogre.red` | No |
 | `ogrelair.net` | No |
@@ -37468,6 +37473,7 @@ Here's a list of public Fediverse services.
 | `spartanburg.social` | No |
 | `spartancreative.uk` | No |
 | `spartanserver.org` | No |
+| `spathoche.ovh` | No |
 | `spatioport.net` | No |
 | `spatlo.com` | Yes |
 | `spatzenpost.eu` | No |
@@ -44214,6 +44220,7 @@ Here's a list of public Fediverse services.
 | `wolfie.pw` | No |
 | `wolflab.net` | Yes |
 | `wolfpaw.kr` | No |
+| `wolfs.computer` | No |
 | `wolfschouten.nl` | No |
 | `wolfskaempf.de` | No |
 | `wolfwater.com` | No |
@@ -44436,7 +44443,7 @@ Here's a list of public Fediverse services.
 | `wuebbsy.com` | No |
 | `wuepod.de` | No |
 | `wuerzblog.de` | No |
-| `wuewuewue.de` | No |
+| `wuewuewue.de` | Yes |
 | `wuff-miau.club` | No |
 | `wuff.space` | Yes |
 | `wuffs.org` | No |
@@ -45900,8 +45907,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,369 |
-| Normal | 33,488 |
+| Cloudflare | 12,371 |
+| Normal | 33,493 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
