@@ -4951,6 +4951,7 @@ Do not create new issue or we will close it as duplicate.
 | [iClutch4Fart@twitter](https://twitter.com/iClutch4Fart/status/1494032001304870916) | advertise |
 | [IcyHear05989673@twitter](https://twitter.com/IcyHear05989673/status/1394815203041169411) | advertise |
 | [idarerick@twitter](https://twitter.com/idarerick/status/1401141019442249729) | advertise |
+| [idc4now@twitter](https://twitter.com/idc4now/status/1683579563777859585) | advertise |
 | [ideveloper8@twitter](https://twitter.com/ideveloper8/status/1459107888471941146) | advertise |
 | [idrayt1@twitter](https://twitter.com/idrayt1/status/1584900658699829251) | advertise |
 | [id_btc@twitter](https://twitter.com/id_btc/status/1677829095936217088) | advertise |
