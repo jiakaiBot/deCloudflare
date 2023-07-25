@@ -71,7 +71,7 @@ Here's a list of public Matrix services.
 | synapse.hyteck.de | No |
 | matrix.jonasled.de | Yes |
 | junta.pl | Yes |
-| kitsunes.club | Yes |
+| kitsunes.chat | Yes |
 | matrix.libreon.fr | No |
 | matrix.llamarific.social | No |
 | lugnsk.org | No |
@@ -107,7 +107,7 @@ Here's a list of public Matrix services.
 | matrix.tchncs.de | No |
 | matrix.techsaviours.org | No |
 | matrix.tedomum.net | No |
-| matrix.tomesh.net | No |
+| tomesh.net | No |
 | ungleich.matrix.ungleich.cloud | No |
 | unita.online | No |
 | usesarchbtw.lol | Yes |
