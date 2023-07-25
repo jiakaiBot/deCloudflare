@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Windows 11 - connect not working](https://github.com/telepresenceio/telepresence/issues/3279)
 - [Chronograf crashes when a colon is entered](https://github.com/influxdata/chronograf/issues/6052)
 - [Getting Blocked by Cloudflare even though cookies and useragent are set](https://github.com/RicterZ/nhentai/issues/289)
 - [Feedback for “Cloudflare D1” with Blobs](https://github.com/drizzle-team/drizzle-orm/issues/926)
