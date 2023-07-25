@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,979 |
 | social | 4,379 |
-| net | 3,573 |
-| org | 2,403 |
+| net | 3,575 |
+| org | 2,404 |
 | de | 2,225 |
 
 
@@ -5527,6 +5527,7 @@ Here's a list of public Fediverse services.
 | `bunny.cloud` | Yes |
 | `bunny.family` | Yes |
 | `bunny.social` | No |
+| `bunnyanarchy.org` | No |
 | `bunnycloud.ca` | No |
 | `bunnyhut.ch` | No |
 | `bunt.social` | No |
@@ -17224,6 +17225,7 @@ Here's a list of public Fediverse services.
 | `hse.social` | No |
 | `hsilop.net` | No |
 | `hsjz.garden` | Yes |
+| `hsm-hx.net` | Yes |
 | `hsn.dev` | Yes |
 | `hsnl.social` | No |
 | `hsoww.social` | No |
@@ -22409,6 +22411,7 @@ Here's a list of public Fediverse services.
 | `linh.social` | No |
 | `linhtran.eu` | No |
 | `linkai.social` | Yes |
+| `linkall.uk` | Yes |
 | `linke-schueler.de` | Yes |
 | `linke.social` | No |
 | `linkedlist.social` | No |
@@ -38875,6 +38878,7 @@ Here's a list of public Fediverse services.
 | `t3dus.com` | No |
 | `t3dus.me` | No |
 | `t3n.social` | No |
+| `t3y.net` | No |
 | `t612.ml` | No |
 | `t6l.de` | No |
 | `t8n.dev` | Yes |
@@ -45929,8 +45933,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,379 |
-| Normal | 33,507 |
+| Cloudflare | 12,381 |
+| Normal | 33,509 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
