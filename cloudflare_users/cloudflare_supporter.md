@@ -1407,6 +1407,7 @@ Do not create new issue or we will close it as duplicate.
 | [AyushSi94562815@twitter](https://twitter.com/AyushSi94562815/status/1392187465272754177) | advertise |
 | [AyushTy20433624@twitter](https://twitter.com/AyushTy20433624/status/1387040138648162309) | advertise |
 | [AYuslof@twitter](https://twitter.com/AYuslof/status/1582987422769770496) | advertise |
+| [aywadido@twitter](https://twitter.com/aywadido/status/1683708930814275584) | advertise |
 | [ayymxxn@twitter](https://twitter.com/ayymxxn/status/1400086594636288000) | advertise |
 | [AzarbayjanEhsan@twitter](https://twitter.com/AzarbayjanEhsan/status/1579489933324345344) | advertise |
 | [azazino3@twitter](https://twitter.com/azazino3/status/1498426626023075841) | advertise |
@@ -6369,6 +6370,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ku1234c1@twitter](https://twitter.com/Ku1234c1/status/1591375563872440320) | advertise |
 | [Ku44908237Kumar@twitter](https://twitter.com/Ku44908237Kumar/status/1634203335447175168) | advertise |
 | [KuashikMakavana@twitter](https://twitter.com/KuashikMakavana/status/1388432783110860802) | advertise |
+| [kuayraisas7@twitter](https://twitter.com/kuayraisas7/status/1683712835669618688) | advertise |
 | [kubon34505188@twitter](https://twitter.com/kubon34505188/status/1387458130548715522) | advertise |
 | [KubyW@twitter](https://twitter.com/KubyW/status/1679556773794164736) | advertise |
 | [Kudatlo@twitter](https://twitter.com/Kudatlo/status/1623118589502050305) | advertise |
