@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,979 |
-| social | 4,378 |
-| net | 3,572 |
+| social | 4,379 |
+| net | 3,573 |
 | org | 2,403 |
-| de | 2,224 |
+| de | 2,225 |
 
 
 - Mastodon, Pleroma, etc
@@ -1472,6 +1472,7 @@ Here's a list of public Fediverse services.
 | `alaskafriendfinder.com` | No |
 | `alaskan.social` | Yes |
 | `alaskanative.social` | No |
+| `alastair87.me` | Yes |
 | `alazy.dev` | Yes |
 | `albanian.social` | No |
 | `albany.ist` | No |
@@ -12255,6 +12256,7 @@ Here's a list of public Fediverse services.
 | `farktronix.com` | No |
 | `farkwar.social` | Yes |
 | `farland.world` | No |
+| `farlands.cafe` | Yes |
 | `farm.lol` | No |
 | `farman.tokyo` | No |
 | `farmerdev.de` | No |
@@ -17435,6 +17437,7 @@ Here's a list of public Fediverse services.
 | `hyperplex.net` | No |
 | `hyperreal.coffee` | No |
 | `hyperreal.tube` | No |
+| `hypers.social` | No |
 | `hypertalk.io` | No |
 | `hypertextcoffee.com` | Yes |
 | `hypervasis.com` | Yes |
@@ -20328,6 +20331,7 @@ Here's a list of public Fediverse services.
 | `kh.ro` | No |
 | `khajiit.de` | No |
 | `khajiit.tech` | Yes |
+| `khalifa.tn` | No |
 | `khammam.me` | No |
 | `khaos.cafe` | Yes |
 | `khaus.io` | No |
@@ -24403,6 +24407,7 @@ Here's a list of public Fediverse services.
 | `mastodonie.online` | No |
 | `mastodonien.de` | No |
 | `mastodonindonesia.com` | No |
+| `mastodonium.de` | No |
 | `mastodonkey.online` | Yes |
 | `mastodonkilledtwitter.tk` | No |
 | `mastodonlibre.ml` | No |
@@ -24660,6 +24665,7 @@ Here's a list of public Fediverse services.
 | `matts.network` | No |
 | `mattstenson.com` | Yes |
 | `mattstodon.xyz` | Yes |
+| `mattwiebe.blog` | No |
 | `mattwilson.org` | No |
 | `mattwynne.net` | No |
 | `matty.digital` | No |
@@ -41091,6 +41097,7 @@ Here's a list of public Fediverse services.
 | `toxeldev.de` | No |
 | `toxicgarbageisland.rocks` | No |
 | `toxwat.cz` | No |
+| `toya.blog` | No |
 | `toyamastdon.net` | No |
 | `toyamastodon.info` | No |
 | `toybodon.com` | No |
@@ -43934,6 +43941,7 @@ Here's a list of public Fediverse services.
 | `wienermobile.rentals` | No |
 | `wieners.lol` | Yes |
 | `wierenga.net` | No |
+| `wierlemann.net` | No |
 | `wiesbaden.social` | Yes |
 | `wiescher.name` | No |
 | `wieser-hv.de` | No |
@@ -44011,6 +44019,7 @@ Here's a list of public Fediverse services.
 | `wilshirehosting.com` | Yes |
 | `wilshirehosting.net` | Yes |
 | `wilsonxia.cn` | No |
+| `wilstoncak.es` | No |
 | `wim.lol` | No |
 | `wimjaap.nl` | No |
 | `wimmer-edv.de` | No |
@@ -45920,8 +45929,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,377 |
-| Normal | 33,500 |
+| Cloudflare | 12,379 |
+| Normal | 33,507 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
