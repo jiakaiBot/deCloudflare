@@ -1729,6 +1729,7 @@ Do not create new issue or we will close it as duplicate.
 | [birt_isaac@twitter](https://twitter.com/birt_isaac/status/1377936339212062725) | advertise |
 | [BishalK59489606@twitter](https://twitter.com/BishalK59489606/status/1536094886596079616) | advertise |
 | [BisterHope@twitter](https://twitter.com/BisterHope/status/1597713288959524864) | advertise |
+| [BiswasAgnick@twitter](https://twitter.com/BiswasAgnick/status/1684237350765834248) | advertise |
 | [BiT92126616@twitter](https://twitter.com/BiT92126616/status/1664816473137876992) | advertise |
 | [bitclaw@twitter](https://twitter.com/bitclaw/status/1650887501479829505) | advertise |
 | [BitconTai@twitter](https://twitter.com/BitconTai/status/1619687927411523586) | advertise |
@@ -7455,6 +7456,7 @@ Do not create new issue or we will close it as duplicate.
 | [MCTone6@twitter](https://twitter.com/MCTone6/status/1396380839529705473) | advertise |
 | [mczebravn@twitter](https://twitter.com/mczebravn/status/1406522515086659587) | advertise |
 | [MDAILKHAN3@twitter](https://twitter.com/MDAILKHAN3/status/1384106744184401921) | advertise |
+| [MdAlami93037050@twitter](https://twitter.com/MdAlami93037050/status/1684260864407523328) | advertise |
 | [MdArifu50961585@twitter](https://twitter.com/MdArifu50961585/status/1552642900181549056) | advertise |
 | [MDASFAK56887662@twitter](https://twitter.com/MDASFAK56887662/status/1534808935395643392) | advertise |
 | [MdAshik98641970@twitter](https://twitter.com/MdAshik98641970/status/1572492289959927808) | advertise |
@@ -12718,6 +12720,7 @@ Do not create new issue or we will close it as duplicate.
 | [TwanYawai@twitter](https://twitter.com/TwanYawai/status/1390673643043053568) | advertise |
 | [tweetbyirwan@twitter](https://twitter.com/tweetbyirwan/status/1619593507634806784) | advertise |
 | [Tweeter_th@twitter](https://twitter.com/Tweeter_th/status/1379436619598422017) | advertise |
+| [TweetsDevin@twitter](https://twitter.com/TweetsDevin/status/1684260888180555784) | advertise |
 | [twenty4marc@twitter](https://twitter.com/twenty4marc/status/1587379588241440769) | advertise |
 | [twerking_e49060@twitter](https://twitter.com/twerking_e49060/status/1657083139943018496) | advertise |
 | [TwirraNG@twitter](https://twitter.com/TwirraNG/status/1403705545916399618) | advertise |
