@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,983 |
-| social | 4,381 |
-| net | 3,577 |
+| com | 6,987 |
+| social | 4,383 |
+| net | 3,578 |
 | org | 2,404 |
 | de | 2,226 |
 
@@ -8525,6 +8525,7 @@ Here's a list of public Fediverse services.
 | `d20.social` | No |
 | `d20hero.club` | No |
 | `d25.community` | No |
+| `d2bd.blog` | No |
 | `d2evs.net` | No |
 | `d33pw3b.de` | No |
 | `d381.xyz` | No |
@@ -19239,6 +19240,7 @@ Here's a list of public Fediverse services.
 | `jmsn.net` | No |
 | `jmswag.xyz` | No |
 | `jmtr.org` | Yes |
+| `jmtr.social` | Yes |
 | `jmueller.eu` | Yes |
 | `jmunky.com` | No |
 | `jmworks.co.uk` | Yes |
@@ -21809,6 +21811,7 @@ Here's a list of public Fediverse services.
 | `leftish.media` | Yes |
 | `leftism.su` | No |
 | `leftist.network` | No |
+| `leftist.work` | Yes |
 | `leftlibertarian.club` | No |
 | `leftodon.social` | No |
 | `leftoverpizza.rocks` | No |
@@ -25464,6 +25467,7 @@ Here's a list of public Fediverse services.
 | `migennes.net` | No |
 | `miggle.net` | No |
 | `mightly.space` | Yes |
+| `mightyena.com` | No |
 | `mightywolf.ch` | No |
 | `miguelcr.me` | No |
 | `migueloteroiglesias.eu` | Yes |
@@ -26535,6 +26539,7 @@ Here's a list of public Fediverse services.
 | `mrclon.net` | No |
 | `mrcol.es` | No |
 | `mrdaft.fr` | No |
+| `mrdiamondj.social` | No |
 | `mreair.jp` | Yes |
 | `mrelay.link` | No |
 | `mrfunkedude.com` | No |
@@ -27673,6 +27678,7 @@ Here's a list of public Fediverse services.
 | `neigh.horse` | No |
 | `neighborli.xyz` | Yes |
 | `neilcastelino.com` | Yes |
+| `neilorangepeel.com` | No |
 | `neilzone.co.uk` | No |
 | `nein.club` | No |
 | `neither-nor.net` | No |
@@ -28383,6 +28389,7 @@ Here's a list of public Fediverse services.
 | `nix.ac` | No |
 | `nix.ai` | No |
 | `nix.uno` | No |
+| `nixanz.com` | No |
 | `nixc.us` | No |
 | `nixdev.com` | No |
 | `nixeneko.info` | No |
@@ -28809,6 +28816,7 @@ Here's a list of public Fediverse services.
 | `nothing.rodeo` | No |
 | `nothing.run` | No |
 | `nothing.town` | No |
+| `nothingburger.club` | No |
 | `nothingness.rocks` | No |
 | `nothingplanet.com` | No |
 | `nothingtohide.net.au` | No |
@@ -31700,6 +31708,7 @@ Here's a list of public Fediverse services.
 | `plume.ink` | No |
 | `plume.social` | No |
 | `plumes.io` | Yes |
+| `plumey.com` | Yes |
 | `plumino.xyz` | Yes |
 | `plural.cafe` | No |
 | `plural.lol` | Yes |
@@ -34524,6 +34533,7 @@ Here's a list of public Fediverse services.
 | `rpy.xyz` | Yes |
 | `rpz.su` | No |
 | `rrgeorge.live` | No |
+| `rroki.net` | No |
 | `rrrrrichard.social` | Yes |
 | `rs-einrich.de` | No |
 | `rs64.net` | Yes |
@@ -34609,6 +34619,7 @@ Here's a list of public Fediverse services.
 | `rueter.nl` | No |
 | `rufposten.de` | No |
 | `rugdon.fun` | No |
+| `ruglesms.xyz` | Yes |
 | `ruhr.social` | No |
 | `ruhrpott.social` | No |
 | `ruhrspora.de` | No |
@@ -43490,6 +43501,7 @@ Here's a list of public Fediverse services.
 | `wappler.systems` | No |
 | `waq.dk` | Yes |
 | `waraiotoko.net` | No |
+| `warband.cc` | No |
 | `warbel.net` | No |
 | `warbler.network` | No |
 | `warc.space` | No |
@@ -45964,8 +45976,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,394 |
-| Normal | 33,527 |
+| Cloudflare | 12,398 |
+| Normal | 33,535 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
