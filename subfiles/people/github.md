@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Android & iOS Push doesn't work](https://github.com/dani-garcia/vaultwarden/issues/3726)
 - [blocked by cloudflare](https://github.com/sharpbrowser/SharpBrowser/issues/82)
 - [Secrets support for tools](https://github.com/tarasglek/chatcraft.org/issues/182)
 - [German Language File](https://github.com/victorbalssa/abacus/issues/114)
