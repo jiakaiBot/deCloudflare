@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,990 |
-| social | 4,385 |
+| social | 4,386 |
 | net | 3,578 |
 | org | 2,404 |
 | de | 2,227 |
@@ -289,6 +289,7 @@ Here's a list of public Fediverse services.
 | `1rl.social` | Yes |
 | `1stva.mp` | No |
 | `1up.ninja` | No |
+| `1up2down.social` | Yes |
 | `1w1.in` | Yes |
 | `1w6.org` | No |
 | `1xx.io` | Yes |
@@ -3782,6 +3783,7 @@ Here's a list of public Fediverse services.
 | `bcarlin.xyz` | No |
 | `bcast.guru` | Yes |
 | `bccline.com` | No |
+| `bccloud.online` | Yes |
 | `bcicorporate.com` | No |
 | `bckly.com` | Yes |
 | `bckr.me` | Yes |
@@ -4598,6 +4600,7 @@ Here's a list of public Fediverse services.
 | `blaster.com.ar` | No |
 | `blasters.fr` | No |
 | `blat.at` | No |
+| `blatant-lizardry.moe` | No |
 | `blather.us` | No |
 | `blatherskite.eu` | Yes |
 | `blauerhunger.de` | No |
@@ -5447,6 +5450,7 @@ Here's a list of public Fediverse services.
 | `bubblesthebunny.com` | Yes |
 | `bubbletea.dev` | Yes |
 | `bubbletea.moe` | Yes |
+| `bubby.page` | No |
 | `bubuit.net` | No |
 | `buc.ci` | No |
 | `bucchere.com` | Yes |
@@ -7372,7 +7376,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8245,7 +8249,7 @@ Here's a list of public Fediverse services.
 | `curmudgeon.cafe` | No |
 | `curmudgeon.tech` | No |
 | `currentdir.com` | No |
-| `currentlyhq.com` | No |
+| `currentlyhq.com` | Yes |
 | `currentpllc.com` | No |
 | `currydon.com` | No |
 | `cursed-images.xyz` | Yes |
@@ -39683,6 +39687,7 @@ Here's a list of public Fediverse services.
 | `tetsumaki.net` | No |
 | `teu.ac.jp` | No |
 | `teufel100.de` | No |
+| `teuto.icu` | Yes |
 | `teutsch.me` | No |
 | `tevps.net` | No |
 | `tew.social` | No |
@@ -45994,7 +45999,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,403 |
+| Cloudflare | 12,408 |
 | Normal | 33,548 |
 
 
