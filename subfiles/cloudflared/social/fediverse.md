@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,987 |
-| social | 4,383 |
+| social | 4,385 |
 | net | 3,578 |
 | org | 2,404 |
-| de | 2,226 |
+| de | 2,227 |
 
 
 - Mastodon, Pleroma, etc
@@ -2496,6 +2496,7 @@ Here's a list of public Fediverse services.
 | `archived.software` | No |
 | `archivefedifor.fun` | No |
 | `archlinux.fyi` | No |
+| `archlinuxuser.online` | No |
 | `archmage.io` | No |
 | `archous.net` | No |
 | `archraspberrypi.tk` | No |
@@ -7676,6 +7677,7 @@ Here's a list of public Fediverse services.
 | `corkboard.social` | No |
 | `corklabdon.com` | No |
 | `corn.social` | No |
+| `corndog.social` | Yes |
 | `corndog.uk` | Yes |
 | `corneill.es` | No |
 | `cornerbooth.chat` | Yes |
@@ -7846,6 +7848,7 @@ Here's a list of public Fediverse services.
 | `craftberries.town` | Yes |
 | `craftcat.dev` | Yes |
 | `craftcms.com` | Yes |
+| `crafter.social` | No |
 | `craftingcomrades.net` | Yes |
 | `craftodon.social` | Yes |
 | `craftopi.art` | No |
@@ -21305,6 +21308,7 @@ Here's a list of public Fediverse services.
 | `kyou.social` | No |
 | `kyoupro.com` | No |
 | `kyouzai.com` | No |
+| `kyozen.studio` | No |
 | `kypeli.com` | No |
 | `kyre.moe` | Yes |
 | `kyriog.eu` | No |
@@ -29226,6 +29230,7 @@ Here's a list of public Fediverse services.
 | `oalm.gub.uy` | No |
 | `oar-online.uk` | No |
 | `oark.org` | No |
+| `oarsnet.nl` | No |
 | `oarsport.social` | No |
 | `oasys.earth` | No |
 | `oat.sh` | No |
@@ -38342,6 +38347,7 @@ Here's a list of public Fediverse services.
 | `stuipd.cloud` | No |
 | `stultus.net` | Yes |
 | `stumax.com` | No |
+| `stumblestore.de` | No |
 | `stumpf.co` | No |
 | `stunt.social` | No |
 | `stuntkidz.org` | Yes |
@@ -45980,8 +45986,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,399 |
-| Normal | 33,538 |
+| Cloudflare | 12,400 |
+| Normal | 33,543 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
