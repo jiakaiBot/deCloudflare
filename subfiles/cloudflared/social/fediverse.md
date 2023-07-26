@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,992 |
+| com | 6,994 |
 | social | 4,387 |
 | net | 3,578 |
 | org | 2,404 |
@@ -13513,6 +13513,7 @@ Here's a list of public Fediverse services.
 | `fractum.gq` | No |
 | `fracturedhosting.social` | Yes |
 | `fragdev.com` | No |
+| `fraggr.com` | No |
 | `fragleonie.xyz` | No |
 | `fragmental.art` | No |
 | `frainsan.net` | Yes |
@@ -14032,6 +14033,7 @@ Here's a list of public Fediverse services.
 | `functionalgeekery.com` | Yes |
 | `functionalprogramming.in` | No |
 | `functor.pro` | No |
+| `funcube.space` | No |
 | `fundraising.social` | No |
 | `funfunmstdn.tokyo` | No |
 | `fungalhalo.com` | No |
@@ -16157,6 +16159,7 @@ Here's a list of public Fediverse services.
 | `happyvalley.social` | No |
 | `hapyyr.com` | No |
 | `haqueers.com` | No |
+| `har.gay` | Yes |
 | `harahar.com` | No |
 | `haram.kim` | No |
 | `harbick.com` | No |
@@ -21600,6 +21603,7 @@ Here's a list of public Fediverse services.
 | `larus.se` | Yes |
 | `larvata.com` | No |
 | `las.rs` | No |
+| `lasagna.haus` | No |
 | `lasanha.org` | No |
 | `lascapi.fr` | No |
 | `laserbeam.productions` | No |
@@ -23797,6 +23801,7 @@ Here's a list of public Fediverse services.
 | `maquena.org` | No |
 | `maquenoserver.me` | No |
 | `maquinaslibres.tk` | No |
+| `mara.guru` | Yes |
 | `marache.net` | No |
 | `maradia.ga` | No |
 | `mararead.com` | Yes |
@@ -31345,7 +31350,7 @@ Here's a list of public Fediverse services.
 | `pilo.to` | No |
 | `pilot.io` | Yes |
 | `pilote.me` | No |
-| `pilotmoon.com` | No |
+| `pilotmoon.com` | Yes |
 | `pimaker.at` | Yes |
 | `pimani.ovh` | No |
 | `pimenta.pt` | Yes |
@@ -34086,6 +34091,7 @@ Here's a list of public Fediverse services.
 | `ridixy.com` | Yes |
 | `riedl.net` | No |
 | `riedstadt.social` | No |
+| `riegai.com` | Yes |
 | `riekenberg.org` | No |
 | `ries-web.de` | No |
 | `riesen.fail` | No |
@@ -39850,7 +39856,7 @@ Here's a list of public Fediverse services.
 | `theblandshire.social` | No |
 | `theblinkcorporation.com` | Yes |
 | `theblower.au` | No |
-| `thebmw.club` | No |
+| `thebmw.club` | Yes |
 | `thebonduniverse.net` | No |
 | `theboss.tech` | No |
 | `theboxcollective.org` | No |
@@ -40894,6 +40900,7 @@ Here's a list of public Fediverse services.
 | `tooot.app` | Yes |
 | `tooot.ch` | No |
 | `tooot.im` | No |
+| `tooptroop.fun` | No |
 | `toortu.ga` | No |
 | `toot-bionaut.de` | No |
 | `toot.agency` | No |
@@ -43251,6 +43258,7 @@ Here's a list of public Fediverse services.
 | `vorlon.space` | No |
 | `vorlonhome.world` | No |
 | `vornik.net` | Yes |
+| `vorny-animals.online` | No |
 | `vorona.ca` | No |
 | `vorpal-blade.com` | No |
 | `vost.pt` | Yes |
@@ -46011,8 +46019,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,412 |
-| Normal | 33,556 |
+| Cloudflare | 12,417 |
+| Normal | 33,559 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
