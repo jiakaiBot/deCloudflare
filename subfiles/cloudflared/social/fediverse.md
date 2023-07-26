@@ -23276,6 +23276,7 @@ Here's a list of public Fediverse services.
 | `lyttle.cam` | No |
 | `lyven.live` | No |
 | `lyyn.me` | No |
+| `lzrprt.sbs` | No |
 | `lzzxt.com` | Yes |
 | `m-ast.de` | No |
 | `m-i.im` | Yes |
@@ -29838,6 +29839,7 @@ Here's a list of public Fediverse services.
 | `openmtx.com` | Yes |
 | `openmw.org` | Yes |
 | `opennerds.org` | No |
+| `opennieuwsbank.nl` | No |
 | `opennms.com` | Yes |
 | `openpluto.com` | Yes |
 | `openpossibilities.org` | No |
@@ -38653,6 +38655,7 @@ Here's a list of public Fediverse services.
 | `svartalfaheimr.net` | No |
 | `svasta.net` | Yes |
 | `sveafur.se` | Yes |
+| `sveken.au` | Yes |
 | `svelte.gay` | Yes |
 | `sven-joerns.de` | No |
 | `svenbrier.de` | No |
@@ -39963,6 +39966,7 @@ Here's a list of public Fediverse services.
 | `thehansfords.co.uk` | Yes |
 | `thehappy.world` | No |
 | `thehappyfamily.stream` | No |
+| `thehappyhouse.club` | No |
 | `thehb.me` | No |
 | `thehftguy.com` | No |
 | `thehighlands.fyi` | No |
@@ -45976,8 +45980,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,398 |
-| Normal | 33,535 |
+| Cloudflare | 12,399 |
+| Normal | 33,538 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
