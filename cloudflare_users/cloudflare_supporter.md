@@ -4915,6 +4915,7 @@ Do not create new issue or we will close it as duplicate.
 | [iamjulia98_@twitter](https://twitter.com/iamjulia98_/status/1625287558425985026) | advertise |
 | [iamkakashi1252@twitter](https://twitter.com/iamkakashi1252/status/1386984066084343813) | advertise |
 | [iamKAvinash@twitter](https://twitter.com/iamKAvinash/status/1380585343192158210) | advertise |
+| [Iamking627@twitter](https://twitter.com/Iamking627/status/1683999935895674880) | advertise |
 | [Iamkingsleyf@twitter](https://twitter.com/Iamkingsleyf/status/1401053471340695552) | advertise |
 | [IamKing_22@twitter](https://twitter.com/IamKing_22/status/1548125760891674625) | advertise |
 | [iamrahulsethi@twitter](https://twitter.com/iamrahulsethi/status/1654929323311374337) | advertise |
@@ -9625,6 +9626,7 @@ Do not create new issue or we will close it as duplicate.
 | [phudung9999@twitter](https://twitter.com/phudung9999/status/1403754600411197440) | advertise |
 | [phumazy@twitter](https://twitter.com/phumazy/status/1394736147104890882) | advertise |
 | [phung3_nang@twitter](https://twitter.com/phung3_nang/status/1633849686988840960) | advertise |
+| [PhungTranm25314@twitter](https://twitter.com/PhungTranm25314/status/1684001796627517440) | advertise |
 | [Phuong85dn@twitter](https://twitter.com/Phuong85dn/status/1498692053269872646) | advertise |
 | [PhuongChuoiDG@twitter](https://twitter.com/PhuongChuoiDG/status/1647138381460299777) | advertise |
 | [phuonggo7777@twitter](https://twitter.com/phuonggo7777/status/1578765729985593351) | advertise |
