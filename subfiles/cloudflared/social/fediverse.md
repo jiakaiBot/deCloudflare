@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,983 |
 | social | 4,381 |
-| net | 3,576 |
+| net | 3,577 |
 | org | 2,404 |
 | de | 2,226 |
 
@@ -18634,6 +18634,7 @@ Here's a list of public Fediverse services.
 | `ixda.org` | Yes |
 | `ixiaochuan.cn` | No |
 | `ixor.tech` | Yes |
+| `ixvd.net` | No |
 | `ixyn.net` | Yes |
 | `iyasaretai.pw` | No |
 | `iyher.club` | No |
@@ -42254,7 +42255,7 @@ Here's a list of public Fediverse services.
 | `unix.lgbt` | No |
 | `unix.se` | No |
 | `unixcat.net` | No |
-| `unixcorn.xyz` | No |
+| `unixcorn.xyz` | Yes |
 | `unixe.de` | No |
 | `unixe.eu` | No |
 | `unixmail.fr` | No |
@@ -45962,7 +45963,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,392 |
+| Cloudflare | 12,393 |
 | Normal | 33,527 |
 
 
