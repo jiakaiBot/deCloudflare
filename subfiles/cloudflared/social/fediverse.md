@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,987 |
+| com | 6,990 |
 | social | 4,385 |
 | net | 3,578 |
 | org | 2,404 |
@@ -6573,6 +6573,7 @@ Here's a list of public Fediverse services.
 | `chidgey.xyz` | No |
 | `chiefgyk3d.com` | Yes |
 | `chieldouwes.nl` | No |
+| `chiffon-lab.tech` | Yes |
 | `chiffon-sepxipl.com` | Yes |
 | `chifilly.co.uk` | Yes |
 | `chiguito.com` | No |
@@ -21289,6 +21290,7 @@ Here's a list of public Fediverse services.
 | `kx.studio` | No |
 | `kxn4t.tech` | Yes |
 | `kya.moe` | Yes |
+| `kyanos.one` | Yes |
 | `kyaru.xyz` | Yes |
 | `kyaruc.moe` | No |
 | `kyd.au` | No |
@@ -23578,6 +23580,7 @@ Here's a list of public Fediverse services.
 | `majors.social` | Yes |
 | `majorshouse.com` | Yes |
 | `mak.i.ng` | No |
+| `makai.cafe` | Yes |
 | `makai.xyz` | No |
 | `makamaka.me` | No |
 | `makani.dev` | No |
@@ -31070,6 +31073,7 @@ Here's a list of public Fediverse services.
 | `petrzprahy.cz` | No |
 | `pets-in.space` | No |
 | `pets.contact` | No |
+| `pettancos.com` | No |
 | `pettet.social` | No |
 | `pettigrew.org.uk` | No |
 | `pettingzoo.co` | No |
@@ -33186,6 +33190,7 @@ Here's a list of public Fediverse services.
 | `raintreasure.top` | No |
 | `rainy.garden` | No |
 | `rainy.pizza` | No |
+| `rainy.place` | No |
 | `rainyman.jp` | No |
 | `rainyme.ca` | Yes |
 | `rainynight.city` | No |
@@ -36740,6 +36745,7 @@ Here's a list of public Fediverse services.
 | `skynetcloud.site` | Yes |
 | `skyshanty.xyz` | No |
 | `skyshaper.org` | No |
+| `skytatu.com` | No |
 | `skytemple.org` | Yes |
 | `skyue.com` | No |
 | `skyue.xyz` | No |
@@ -37219,6 +37225,7 @@ Here's a list of public Fediverse services.
 | `soderstrom.social` | No |
 | `sodes.ro` | No |
 | `sodium.space` | No |
+| `sodo-shed.com` | No |
 | `soel.li` | No |
 | `soernsen.us` | Yes |
 | `sofa.run` | No |
@@ -45986,8 +45993,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,400 |
-| Normal | 33,543 |
+| Cloudflare | 12,403 |
+| Normal | 33,547 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
