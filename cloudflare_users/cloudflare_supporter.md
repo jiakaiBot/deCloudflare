@@ -12113,6 +12113,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThiriAg3@twitter](https://twitter.com/ThiriAg3/status/1393167728312160261) | advertise |
 | [ThisIsNoahEvans@twitter](https://twitter.com/ThisIsNoahEvans/status/1575817602051428352) | advertise |
 | [thiskIdries@twitter](https://twitter.com/thiskIdries/status/1572855728679047170) | advertise |
+| [ThiSnNguyen3@twitter](https://twitter.com/ThiSnNguyen3/status/1684302703634309122) | advertise |
 | [ThiThiNaing9@twitter](https://twitter.com/ThiThiNaing9/status/1385053440691240960) | advertise |
 | [ThitNay3@twitter](https://twitter.com/ThitNay3/status/1396824691398955015) | advertise |
 | [ThiTr14@twitter](https://twitter.com/ThiTr14/status/1402315784630595586) | advertise |
