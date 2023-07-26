@@ -1008,6 +1008,7 @@ Do not create new issue or we will close it as duplicate.
 | [Arif6417@twitter](https://twitter.com/Arif6417/status/1566662954195435520) | advertise |
 | [Ariff36174425@twitter](https://twitter.com/Ariff36174425/status/1501938338902986762) | advertise |
 | [ArifinSunny19@twitter](https://twitter.com/ArifinSunny19/status/1389227451742523399) | advertise |
+| [arifullah122@twitter](https://twitter.com/arifullah122/status/1684078301588094977) | advertise |
 | [Arjing66811042@twitter](https://twitter.com/Arjing66811042/status/1556038266939330560) | advertise |
 | [Arjun63261515@twitter](https://twitter.com/Arjun63261515/status/1384863027078565892) | advertise |
 | [Arkae13@twitter](https://twitter.com/Arkae13/status/1399725758654861313) | advertise |
