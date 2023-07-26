@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,982 |
+| com | 6,983 |
 | social | 4,381 |
 | net | 3,576 |
 | org | 2,404 |
@@ -22228,6 +22228,7 @@ Here's a list of public Fediverse services.
 | `libertypreppers.network` | No |
 | `libertyrepublic.social` | No |
 | `libertywoof.com` | No |
+| `liberuntime.com` | No |
 | `libido.pictures` | No |
 | `libori.social` | No |
 | `libox.fr` | No |
@@ -45957,7 +45958,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,391 |
-| Normal | 33,522 |
+| Normal | 33,523 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
