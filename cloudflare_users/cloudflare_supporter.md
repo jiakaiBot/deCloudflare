@@ -9957,6 +9957,7 @@ Do not create new issue or we will close it as duplicate.
 | [p_bhands@twitter](https://twitter.com/p_bhands/status/1439221468508925954) | advertise |
 | [p__d_t@twitter](https://twitter.com/p__d_t/status/1538131850966683648) | advertise |
 | [P___NOO@twitter](https://twitter.com/P___NOO/status/1389947952836218884) | advertise |
+| [Qais61854131@twitter](https://twitter.com/Qais61854131/status/1684319994002149376) | advertise |
 | [qalifhilmi@twitter](https://twitter.com/qalifhilmi/status/1394339624986681344) | advertise |
 | [qbar65081251@twitter](https://twitter.com/qbar65081251/status/1400029689020702721) | advertise |
 | [QCvcztU31nUGV3w@twitter](https://twitter.com/QCvcztU31nUGV3w/status/1526739905568821248) | advertise |
