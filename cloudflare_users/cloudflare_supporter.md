@@ -10196,6 +10196,7 @@ Do not create new issue or we will close it as duplicate.
 | [rc_aung@twitter](https://twitter.com/rc_aung/status/1400450996766052360) | advertise |
 | [rd8719@twitter](https://twitter.com/rd8719/status/1548813349982437378) | advertise |
 | [Rdd25036476@twitter](https://twitter.com/Rdd25036476/status/1556404502739181568) | advertise |
+| [rdk11433@twitter](https://twitter.com/rdk11433/status/1684243028834394112) | advertise |
 | [rdkqft@twitter](https://twitter.com/rdkqft/status/1380426512503959558) | advertise |
 | [rdtragemg@twitter](https://twitter.com/rdtragemg/status/1629234920768905218) | advertise |
 | [ReactPepe@twitter](https://twitter.com/ReactPepe/status/1585868164029714432) | advertise |
