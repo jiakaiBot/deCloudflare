@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Secrets support for tools](https://github.com/tarasglek/chatcraft.org/issues/182)
 - [German Language File](https://github.com/victorbalssa/abacus/issues/114)
 - [500 internal server error](https://github.com/ccxt/ccxt/issues/18654)
 - [Windows 11 - connect not working](https://github.com/telepresenceio/telepresence/issues/3279)
