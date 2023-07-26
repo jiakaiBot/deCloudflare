@@ -9362,6 +9362,7 @@ Do not create new issue or we will close it as duplicate.
 | [palon37@twitter](https://twitter.com/palon37/status/1389877275751968776) | advertise |
 | [Pamkom1@twitter](https://twitter.com/Pamkom1/status/1401328734238478337) | advertise |
 | [Pamuktulum@twitter](https://twitter.com/Pamuktulum/status/1583829147562160129) | advertise |
+| [panahmzy@twitter](https://twitter.com/panahmzy/status/1684173678035210240) | advertise |
 | [PanahZabiullah@twitter](https://twitter.com/PanahZabiullah/status/1659014077409030146) | advertise |
 | [panchajanya0608@twitter](https://twitter.com/panchajanya0608/status/1671552262676832256) | advertise |
 | [Panda40839281@twitter](https://twitter.com/Panda40839281/status/1395319635742969858) | advertise |
