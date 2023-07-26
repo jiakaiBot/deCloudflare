@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,990 |
+| com | 6,992 |
 | social | 4,387 |
 | net | 3,578 |
 | org | 2,404 |
@@ -1109,6 +1109,7 @@ Here's a list of public Fediverse services.
 | `admiral0.it` | No |
 | `admiralfeb.social` | No |
 | `admires.art` | No |
+| `admtz.fr` | No |
 | `adn.life` | No |
 | `adn.org.es` | No |
 | `adnan.network` | No |
@@ -3250,6 +3251,7 @@ Here's a list of public Fediverse services.
 | `awooo.club` | Yes |
 | `awootism.club` | Yes |
 | `awp.news` | No |
+| `awriting.zone` | No |
 | `awruff.xyz` | No |
 | `awscommunity.social` | No |
 | `awsmp.pl` | No |
@@ -7439,6 +7441,7 @@ Here's a list of public Fediverse services.
 | `communecter.org` | No |
 | `communia.org` | No |
 | `communick.com` | Yes |
+| `communick.dev` | Yes |
 | `communick.news` | No |
 | `communist.accountant` | No |
 | `communist.gay` | Yes |
@@ -14600,6 +14603,7 @@ Here's a list of public Fediverse services.
 | `geekdom.social` | No |
 | `geeker-natsumi.com` | No |
 | `geekery.org` | No |
+| `geekery858.com` | Yes |
 | `geekforbes.com` | No |
 | `geekgirls.de` | No |
 | `geekgo.tech` | No |
@@ -19016,6 +19020,7 @@ Here's a list of public Fediverse services.
 | `jehuty11.com` | No |
 | `jekabs.dev` | Yes |
 | `jel-tech.com` | Yes |
+| `jel.do` | No |
 | `jeli.kz` | No |
 | `jellicle.org` | Yes |
 | `jelliefrontier.net` | Yes |
@@ -20972,6 +20977,7 @@ Here's a list of public Fediverse services.
 | `kostnixladen.de` | No |
 | `kostodon.com` | No |
 | `kosuzu.net` | No |
+| `koszarek.dev` | Yes |
 | `kot.jp` | No |
 | `kotakuinaction.org` | No |
 | `kotaro.me` | Yes |
@@ -21271,6 +21277,7 @@ Here's a list of public Fediverse services.
 | `kwaa.dev` | Yes |
 | `kwaa.moe` | Yes |
 | `kwain.net` | No |
+| `kwak.cab` | No |
 | `kwalick.com` | No |
 | `kwan.one` | No |
 | `kwat.chat` | No |
@@ -22853,6 +22860,7 @@ Here's a list of public Fediverse services.
 | `loomy.li` | No |
 | `loon.club` | Yes |
 | `loonarmys.com` | No |
+| `loopa.site` | No |
 | `looped.network` | Yes |
 | `loopfree.tech` | No |
 | `loophole.site` | No |
@@ -31736,6 +31744,7 @@ Here's a list of public Fediverse services.
 | `pluser.net` | Yes |
 | `plush.army` | No |
 | `plush.city` | No |
+| `plushieden.eu` | No |
 | `plushies.social` | No |
 | `plusminus.io` | Yes |
 | `plusone.chat` | No |
@@ -34952,6 +34961,7 @@ Here's a list of public Fediverse services.
 | `sakamoto.gq` | No |
 | `sakana-no-bone.net` | Yes |
 | `sakana.cx` | No |
+| `sakanaa.moe` | No |
 | `sakanana.me` | Yes |
 | `sakede.su` | Yes |
 | `sakejp.tokyo` | No |
@@ -38610,6 +38620,7 @@ Here's a list of public Fediverse services.
 | `supremesyntax.com` | No |
 | `suprt.me` | No |
 | `sur.social` | No |
+| `suramya.com` | No |
 | `suranyami.com` | No |
 | `surazal.net` | No |
 | `surfhosted.net` | No |
@@ -46000,8 +46011,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,409 |
-| Normal | 33,548 |
+| Cloudflare | 12,412 |
+| Normal | 33,556 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
