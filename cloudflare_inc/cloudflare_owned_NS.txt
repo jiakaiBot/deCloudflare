@@ -659,6 +659,7 @@ norman.ns.cloudflare.com
 nova.ns.cloudflare.com
 novalee.ns.cloudflare.com
 ns-cora.ns.cloudflare.com
+ns-salvador.ns.cloudflare.com
 ns.cloudflare.com
 ns0001.secondary.cloudflare.com
 ns0004.secondary.cloudflare.com
