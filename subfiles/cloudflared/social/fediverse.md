@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,990 |
-| social | 4,386 |
+| social | 4,387 |
 | net | 3,578 |
 | org | 2,404 |
 | de | 2,227 |
@@ -34956,6 +34956,7 @@ Here's a list of public Fediverse services.
 | `sakede.su` | Yes |
 | `sakejp.tokyo` | No |
 | `saker.dev` | No |
+| `sakh.social` | Yes |
 | `sakoku.jp` | No |
 | `sakrajda.eu` | No |
 | `sakrum.de` | No |
@@ -45999,7 +46000,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,408 |
+| Cloudflare | 12,409 |
 | Normal | 33,548 |
 
 
