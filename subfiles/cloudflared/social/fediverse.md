@@ -10073,6 +10073,7 @@ Here's a list of public Fediverse services.
 | `dogcow.us` | No |
 | `dogcraft.cn` | Yes |
 | `dogcraft.top` | Yes |
+| `dogden.xyz` | No |
 | `dogdroid.dev` | No |
 | `dogeposting.social` | No |
 | `dogetron.com` | No |
@@ -31972,7 +31973,7 @@ Here's a list of public Fediverse services.
 | `porkchop.express` | Yes |
 | `porkribs.social` | No |
 | `porlam.nl` | Yes |
-| `porn-k.com` | Yes |
+| `porn-k.com` | No |
 | `pornanime.club` | No |
 | `pornfed.social` | No |
 | `pornfed.xyz` | No |
@@ -38229,7 +38230,7 @@ Here's a list of public Fediverse services.
 | `strasza.net` | No |
 | `stratameetdata.blog` | No |
 | `stratinator.com` | Yes |
-| `stratonauts.co` | Yes |
+| `stratonauts.co` | No |
 | `strats.co` | Yes |
 | `strausmann.net` | Yes |
 | `straw.social` | Yes |
@@ -43295,6 +43296,7 @@ Here's a list of public Fediverse services.
 | `vulpes.work` | No |
 | `vulpine.club` | Yes |
 | `vulpine.engineer` | No |
+| `vulpine.pet` | Yes |
 | `vulpini.zone` | Yes |
 | `vulpo.one` | Yes |
 | `vulturion.com` | No |
@@ -45957,8 +45959,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,391 |
-| Normal | 33,523 |
+| Cloudflare | 12,390 |
+| Normal | 33,526 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
