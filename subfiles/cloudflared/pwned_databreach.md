@@ -108,6 +108,7 @@ Here's a list of breached sites.
 | BrandNewTube (Brand New Tube) | 349,627 | Yes |
 | Brazzers | 790,724 | No |
 | BreachForumsClone (BreachForums Clone) | 4,204 | Yes |
+| BreachForums | 212,156 | Yes |
 | BtoBet | 444,241 | No |
 | Bukalapak | 13,369,666 | Yes |
 | BulgarianNationalRevenueAgency (Bulgarian National Revenue Agency) | 471,167 | Yes |
@@ -569,7 +570,7 @@ Here's a list of breached sites.
 | Tigo | 700,394 | Yes |
 | Tokopedia | 71,443,698 | No |
 | ToonDoo | 6,002,694 | No |
-| TorrentInvites (Torrent Invites) | 352,120 | Yes |
+| TorrentInvites (Torrent Invites) | 352,120 | No |
 | Tout | 652,683 | No |
 | TravelOK (Travel Oklahoma) | 637,279 | No |
 | Travelio | 471,376 | Yes |
@@ -678,10 +679,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 371 | 3,957,078,310 |
-| Normal | 286 | 4,956,886,933 |
+| Cloudflare | 371 | 3,956,938,346 |
+| Normal | 287 | 4,957,239,053 |
 
 
 
-### 56.5% of breached sites (pwned sites) are using Cloudflare.
+### 56.4% of breached sites (pwned sites) are using Cloudflare.
 ### 44.4% of leaked accounts are on Cloudflare sites.
