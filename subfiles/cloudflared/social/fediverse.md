@@ -30294,6 +30294,7 @@ Here's a list of public Fediverse services.
 | `ownsu.com` | No |
 | `ownyourdata.site` | No |
 | `owo.ar` | Yes |
+| `owo.cab` | Yes |
 | `owo.cafe` | No |
 | `owo.ceo` | Yes |
 | `owo.community` | Yes |
@@ -34503,6 +34504,7 @@ Here's a list of public Fediverse services.
 | `roznotech.xyz` | No |
 | `rp-taki.com` | No |
 | `rpdev.net` | No |
+| `rpgmaker.cafe` | No |
 | `rpgplanet.de` | No |
 | `rpgradio.me` | No |
 | `rpgtable.top` | No |
@@ -45960,8 +45962,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,391 |
-| Normal | 33,526 |
+| Cloudflare | 12,392 |
+| Normal | 33,527 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
