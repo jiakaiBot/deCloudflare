@@ -30838,6 +30838,7 @@ Here's a list of public Fediverse services.
 | `peeps.press` | No |
 | `peepums.com` | Yes |
 | `peer.tube` | No |
+| `peer2peer.help` | No |
 | `peering.social` | No |
 | `peerlea.eu.org` | No |
 | `peerlook.ru` | Yes |
@@ -45994,7 +45995,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,403 |
-| Normal | 33,547 |
+| Normal | 33,548 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
