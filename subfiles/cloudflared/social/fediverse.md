@@ -33849,6 +33849,7 @@ Here's a list of public Fediverse services.
 | `restof.social` | No |
 | `restraint.social` | No |
 | `restricted.garden` | No |
+| `ret.moe` | Yes |
 | `retallack.org.uk` | No |
 | `retard.network` | Yes |
 | `retard.tech` | Yes |
@@ -45963,7 +45964,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,393 |
+| Cloudflare | 12,394 |
 | Normal | 33,527 |
 
 
