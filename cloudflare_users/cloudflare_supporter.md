@@ -2476,6 +2476,7 @@ Do not create new issue or we will close it as duplicate.
 | [Cryptolover10@twitter](https://twitter.com/Cryptolover10/status/1394207496680579072) | advertise |
 | [CryptoMiniLover@twitter](https://twitter.com/CryptoMiniLover/status/1580809758910558208) | advertise |
 | [CryptoNinjaAF@twitter](https://twitter.com/CryptoNinjaAF/status/1400088557633654788) | advertise |
+| [CryptonoteAi@twitter](https://twitter.com/CryptonoteAi/status/1681041661105778689) | advertise |
 | [cryptoreview_ai@twitter](https://twitter.com/cryptoreview_ai/status/1418363307807842305) | advertise |
 | [CryptoRishabh@twitter](https://twitter.com/CryptoRishabh/status/1373489721876213762) | advertise |
 | [cryptosmitties@twitter](https://twitter.com/cryptosmitties/status/1508877211843149832) | advertise |
@@ -12271,6 +12272,7 @@ Do not create new issue or we will close it as duplicate.
 | [TINAUNGWIN469@twitter](https://twitter.com/TINAUNGWIN469/status/1390341815673360386) | advertise |
 | [tina_reunite@twitter](https://twitter.com/tina_reunite/status/1665888661320130561) | advertise |
 | [tindale_hayley@twitter](https://twitter.com/tindale_hayley/status/1665858538155933696) | advertise |
+| [TinDng58024691@twitter](https://twitter.com/TinDng58024691/status/1684273577607192576) | advertise |
 | [tinh23@twitter](https://twitter.com/tinh23/status/1553419999888285696) | advertise |
 | [tinhngo79541721@twitter](https://twitter.com/tinhngo79541721/status/1601284409801707520) | advertise |
 | [TinhQuynh233@twitter](https://twitter.com/TinhQuynh233/status/1638991818565238785) | advertise |
