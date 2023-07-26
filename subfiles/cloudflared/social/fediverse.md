@@ -23174,7 +23174,7 @@ Here's a list of public Fediverse services.
 | `lundi.am` | No |
 | `lunerousse.eu` | No |
 | `lunes.social` | No |
-| `lunet.org` | No |
+| `lunet.org` | Yes |
 | `lunsford.xyz` | No |
 | `lunta.net` | No |
 | `luoe.dev` | Yes |
@@ -35103,6 +35103,7 @@ Here's a list of public Fediverse services.
 | `sapphic.city` | No |
 | `sapphic.gay` | No |
 | `sapphic.life` | No |
+| `sapphic.online` | No |
 | `sapphic.pink` | No |
 | `sapphic.site` | Yes |
 | `sapphicommune.info` | No |
@@ -45959,7 +45960,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,390 |
+| Cloudflare | 12,391 |
 | Normal | 33,526 |
 
 
