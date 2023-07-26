@@ -3546,6 +3546,7 @@ Do not create new issue or we will close it as duplicate.
 | [fdc_tuna2134@twitter](https://twitter.com/fdc_tuna2134/status/1612577796903272450) | advertise |
 | [Fearles81577944@twitter](https://twitter.com/Fearles81577944/status/1393607641335668737) | advertise |
 | [fear_mywrath@twitter](https://twitter.com/fear_mywrath/status/1440283106301202432) | advertise |
+| [fedejuret@twitter](https://twitter.com/fedejuret/status/1682487594125254663) | advertise |
 | [fellow_doge@twitter](https://twitter.com/fellow_doge/status/1433053978875600900) | advertise |
 | [femarwashere@twitter](https://twitter.com/femarwashere/status/1499198040581697536) | advertise |
 | [FENDYFE21317769@twitter](https://twitter.com/FENDYFE21317769/status/1475418360665939968) | advertise |
@@ -13386,6 +13387,7 @@ Do not create new issue or we will close it as duplicate.
 | [WuttYeeKyaw5@twitter](https://twitter.com/WuttYeeKyaw5/status/1395568627630309376) | advertise |
 | [wwwsai12345@twitter](https://twitter.com/wwwsai12345/status/1386903798124212232) | advertise |
 | [wwww77410139@twitter](https://twitter.com/wwww77410139/status/1389250450302537735) | advertise |
+| [wxf13515@twitter](https://twitter.com/wxf13515/status/1684029163928428544) | advertise |
 | [wxxwxn@twitter](https://twitter.com/wxxwxn/status/1379937815513956354) | advertise |
 | [wylde_artemis_@twitter](https://twitter.com/wylde_artemis_/status/1602098467312205824) | advertise |
 | [wyliehorn@twitter](https://twitter.com/wyliehorn/status/1370118398114476032) | advertise |
