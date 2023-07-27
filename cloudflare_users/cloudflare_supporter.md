@@ -6008,6 +6008,7 @@ Do not create new issue or we will close it as duplicate.
 | [KhanZad82079366@twitter](https://twitter.com/KhanZad82079366/status/1547071287473963009) | advertise |
 | [KhashifTalks@twitter](https://twitter.com/KhashifTalks/status/1681067446911004672) | advertise |
 | [khat4455@twitter](https://twitter.com/khat4455/status/1395265578454159362) | advertise |
+| [KhaTrng20145851@twitter](https://twitter.com/KhaTrng20145851/status/1684632431759081472) | advertise |
 | [KhauheloPutsoa1@twitter](https://twitter.com/KhauheloPutsoa1/status/1553349885461667841) | advertise |
 | [Khcon83912691@twitter](https://twitter.com/Khcon83912691/status/1389948037582049282) | advertise |
 | [khegani_r@twitter](https://twitter.com/khegani_r/status/1482016780403019778) | advertise |
@@ -9736,6 +9737,7 @@ Do not create new issue or we will close it as duplicate.
 | [playwithg91@twitter](https://twitter.com/playwithg91/status/1550100029779480578) | advertise |
 | [PlayzytElite@twitter](https://twitter.com/PlayzytElite/status/1645102366893514754) | advertise |
 | [plda24@twitter](https://twitter.com/plda24/status/1394881939765555200) | advertise |
+| [plekprasan@twitter](https://twitter.com/plekprasan/status/1684654419491840001) | advertise |
 | [PlHustla@twitter](https://twitter.com/PlHustla/status/1396266245696143361) | advertise |
 | [plnAhResBLcWi30@twitter](https://twitter.com/plnAhResBLcWi30/status/1390338116418891778) | advertise |
 | [PLSFY2dzXWxAFJq@twitter](https://twitter.com/PLSFY2dzXWxAFJq/status/1401748010107875333) | advertise |
