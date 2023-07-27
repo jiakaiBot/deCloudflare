@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,999 |
-| social | 4,393 |
+| com | 7,000 |
+| social | 4,394 |
 | net | 3,581 |
-| org | 2,407 |
-| de | 2,229 |
+| org | 2,408 |
+| de | 2,230 |
 
 
 - Mastodon, Pleroma, etc
@@ -8431,6 +8431,7 @@ Here's a list of public Fediverse services.
 | `cybershock.life` | No |
 | `cyberspace.club` | No |
 | `cyberspace.rodeo` | No |
+| `cyberspark.co.uk` | Yes |
 | `cyberstorm.one` | Yes |
 | `cybersulu.ninja` | No |
 | `cybert-media.net` | No |
@@ -10512,7 +10513,7 @@ Here's a list of public Fediverse services.
 | `drytalk.social` | Yes |
 | `dryusdan.fr` | No |
 | `ds106.us` | Yes |
-| `dsanj.org` | No |
+| `dsanj.org` | Yes |
 | `dsausa.social` | No |
 | `dsbeans.com` | Yes |
 | `dsc.sh` | No |
@@ -15978,6 +15979,7 @@ Here's a list of public Fediverse services.
 | `hacktastic.org` | No |
 | `hackthebox.social` | No |
 | `hacktheplanet.be` | No |
+| `hacktheplanet.com.au` | No |
 | `hackthesound.com` | Yes |
 | `hackthis.space` | No |
 | `hacktivis.me` | No |
@@ -18521,6 +18523,7 @@ Here's a list of public Fediverse services.
 | `israelmgo.es` | No |
 | `israely.xyz` | Yes |
 | `issizler.club` | Yes |
+| `issork.de` | No |
 | `issue.network` | No |
 | `ist-ur.org` | No |
 | `ist.social` | No |
@@ -21717,6 +21720,7 @@ Here's a list of public Fediverse services.
 | `lawtalk.social` | No |
 | `layer0.dev` | No |
 | `layer7.space` | Yes |
+| `layer8.org` | Yes |
 | `layer8.space` | No |
 | `layer9.online` | Yes |
 | `layerze.ro` | No |
@@ -23884,6 +23888,7 @@ Here's a list of public Fediverse services.
 | `marimoko.biz` | No |
 | `marinintim.com` | Yes |
 | `mario.chat` | No |
+| `mariobonales.com` | No |
 | `mariobreskic.de` | No |
 | `mariokang.pe.kr` | Yes |
 | `mariokuschel.info` | No |
@@ -27562,6 +27567,7 @@ Here's a list of public Fediverse services.
 | `natehn.com` | No |
 | `natehub.com` | Yes |
 | `nateledford.com` | Yes |
+| `natestodon.social` | No |
 | `nathalie.social` | Yes |
 | `nathan.fun` | No |
 | `nathan.social` | No |
@@ -37103,6 +37109,7 @@ Here's a list of public Fediverse services.
 | `snowcode.ovh` | No |
 | `snowcrash.ca` | No |
 | `snowcrash.org` | No |
+| `snowcrash.ovh` | No |
 | `snowday-hls.tk` | Yes |
 | `snowdin.town` | No |
 | `snowdon.jp` | No |
@@ -39757,6 +39764,7 @@ Here's a list of public Fediverse services.
 | `tezos.lol` | No |
 | `tezos.rocks` | No |
 | `tezzi.com` | Yes |
+| `tf-net.cloud` | Yes |
 | `tf.au` | Yes |
 | `tf.fi` | Yes |
 | `tfcconnection.org` | No |
@@ -41170,6 +41178,7 @@ Here's a list of public Fediverse services.
 | `torrenezzi10.xyz` | No |
 | `torrentfreak.com` | Yes |
 | `torsi.ca` | No |
+| `torsten.cz` | Yes |
 | `tortoiseexpress.com` | No |
 | `tortoisewrath.com` | No |
 | `torusserver.org` | No |
@@ -46059,8 +46068,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,433 |
-| Normal | 33,583 |
+| Cloudflare | 12,438 |
+| Normal | 33,587 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
