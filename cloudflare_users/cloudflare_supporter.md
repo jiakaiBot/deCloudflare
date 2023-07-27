@@ -6283,6 +6283,7 @@ Do not create new issue or we will close it as duplicate.
 | [KoNaing65312373@twitter](https://twitter.com/KoNaing65312373/status/1391935154591993858) | advertise |
 | [Konainggyai1@twitter](https://twitter.com/Konainggyai1/status/1392002461959811072) | advertise |
 | [KondalraoVadde4@twitter](https://twitter.com/KondalraoVadde4/status/1611880182016794625) | advertise |
+| [kondwa09@twitter](https://twitter.com/kondwa09/status/1684561708252278786) | advertise |
 | [kongbeng991@twitter](https://twitter.com/kongbeng991/status/1545300325023657984) | advertise |
 | [KongDuong2k@twitter](https://twitter.com/KongDuong2k/status/1561005032153104385) | advertise |
 | [KoNge65559432@twitter](https://twitter.com/KoNge65559432/status/1534534113629454336) | advertise |
