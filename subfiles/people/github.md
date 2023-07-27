@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot download the template](https://github.com/abpframework/abp/issues/17208)
 - [Server returned a status code of 403](https://github.com/CaoYunzhou/poe-openai-proxy/issues/20)
 - [Start decoding EDE](https://github.com/rthalley/dnspython/issues/969)
 - [No Cloudflare challenge detected.](https://github.com/Xewdy444/CF-Clearance-Scraper/issues/24)
