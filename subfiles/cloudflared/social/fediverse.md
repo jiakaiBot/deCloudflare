@@ -17604,6 +17604,7 @@ Here's a list of public Fediverse services.
 | `ice.camp` | No |
 | `icedlatte.chat` | No |
 | `icedtux.no` | No |
+| `icefish.dev` | Yes |
 | `iceorchid.net` | No |
 | `icewind.me` | No |
 | `icewind.nl` | No |
@@ -46054,7 +46055,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,429 |
+| Cloudflare | 12,430 |
 | Normal | 33,582 |
 
 
