@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,998 |
-| social | 4,391 |
-| net | 3,579 |
-| org | 2,406 |
+| social | 4,393 |
+| net | 3,580 |
+| org | 2,407 |
 | de | 2,229 |
 
 
@@ -812,6 +812,7 @@ Here's a list of public Fediverse services.
 | `aatame3.net` | Yes |
 | `aatomu.work` | Yes |
 | `ab2m.cf` | Yes |
+| `ab62.icu` | Yes |
 | `abacusswitch.me` | No |
 | `abaft.co` | No |
 | `abakas.com` | No |
@@ -20465,6 +20466,7 @@ Here's a list of public Fediverse services.
 | `killed.xyz` | No |
 | `killerkitty.ch` | No |
 | `killerwhale.solutions` | No |
+| `killifish.social` | Yes |
 | `killiwamps.com` | No |
 | `killmi.st` | No |
 | `killpc.com` | No |
@@ -21224,6 +21226,7 @@ Here's a list of public Fediverse services.
 | `kurage.cc` | No |
 | `kurage.top` | No |
 | `kurakake.net` | No |
+| `kurame.net` | No |
 | `kurator.tech` | No |
 | `kurau.tokyo` | No |
 | `kurd.org` | Yes |
@@ -23196,6 +23199,7 @@ Here's a list of public Fediverse services.
 | `lunadon.org` | No |
 | `lunai.re` | No |
 | `lunakit.org` | No |
+| `lunalight.place` | Yes |
 | `lunardream.space` | No |
 | `lunareclip.se` | No |
 | `lunarlabz.com` | Yes |
@@ -23692,6 +23696,7 @@ Here's a list of public Fediverse services.
 | `malttea.net` | No |
 | `malu.today` | No |
 | `malua.xyz` | No |
+| `malware.social` | No |
 | `maly.io` | Yes |
 | `mamalibre.com.ar` | No |
 | `mame.moe` | Yes |
@@ -26270,6 +26275,7 @@ Here's a list of public Fediverse services.
 | `monny.cloud` | No |
 | `mono.cafe` | Yes |
 | `monoceros.co.za` | No |
+| `monocle.js.org` | No |
 | `monocles.social` | No |
 | `monocode.online` | No |
 | `monocul.us` | Yes |
@@ -46048,8 +46054,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,426 |
-| Normal | 33,579 |
+| Cloudflare | 12,429 |
+| Normal | 33,582 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
