@@ -8976,6 +8976,7 @@ Do not create new issue or we will close it as duplicate.
 | [NoeMoe4@twitter](https://twitter.com/NoeMoe4/status/1389529662775246848) | advertise |
 | [noicedik@twitter](https://twitter.com/noicedik/status/1553285359433560065) | advertise |
 | [nolifesupport@twitter](https://twitter.com/nolifesupport/status/1634292733526388741) | advertise |
+| [nomadHKhot@twitter](https://twitter.com/nomadHKhot/status/1684517337461137409) | advertise |
 | [noman43919827@twitter](https://twitter.com/noman43919827/status/1595787559103336451) | advertise |
 | [NomanNoor@twitter](https://twitter.com/NomanNoor/status/1511594810297229315) | advertise |
 | [nomercy888806@twitter](https://twitter.com/nomercy888806/status/1533850898551693313) | advertise |
@@ -11053,6 +11054,7 @@ Do not create new issue or we will close it as duplicate.
 | [ShweEinHtoo1@twitter](https://twitter.com/ShweEinHtoo1/status/1398669215423291396) | advertise |
 | [ShweLaY96140798@twitter](https://twitter.com/ShweLaY96140798/status/1394305094871511040) | advertise |
 | [ShweluL@twitter](https://twitter.com/ShweluL/status/1396545696967233536) | advertise |
+| [ShwetunL45060@twitter](https://twitter.com/ShwetunL45060/status/1684535609355034624) | advertise |
 | [Shwetwe2@twitter](https://twitter.com/Shwetwe2/status/1390735194076815360) | advertise |
 | [Shwewaddy4Fuhua@twitter](https://twitter.com/Shwewaddy4Fuhua/status/1628764479604535297) | advertise |
 | [Shweyeeag1310@twitter](https://twitter.com/Shweyeeag1310/status/1393466562653278209) | advertise |
@@ -12919,6 +12921,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vemox1987@twitter](https://twitter.com/Vemox1987/status/1598415178311372800) | advertise |
 | [venchia1@twitter](https://twitter.com/venchia1/status/1639520328413249536) | advertise |
 | [VendorioII@twitter](https://twitter.com/VendorioII/status/1635339511424225280) | advertise |
+| [venkat96r@twitter](https://twitter.com/venkat96r/status/1684531361967931392) | advertise |
 | [venkats02968750@twitter](https://twitter.com/venkats02968750/status/1402898594030526468) | advertise |
 | [Venn34541103@twitter](https://twitter.com/Venn34541103/status/1397760420249804800) | advertise |
 | [Veno55209967@twitter](https://twitter.com/Veno55209967/status/1491422483966468100) | advertise |
