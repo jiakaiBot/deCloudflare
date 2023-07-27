@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Dragontea the image couldn't Load and Cloudflare failure](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/17278)
+- [Exponential backoff support](https://github.com/XLabs/wormhole/issues/20)
 - [Cannot download the template](https://github.com/abpframework/abp/issues/17208)
 - [Server returned a status code of 403](https://github.com/CaoYunzhou/poe-openai-proxy/issues/20)
 - [Start decoding EDE](https://github.com/rthalley/dnspython/issues/969)
