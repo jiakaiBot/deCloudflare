@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [No Cloudflare challenge detected.](https://github.com/Xewdy444/CF-Clearance-Scraper/issues/24)
 - [Android & iOS Push doesn't work](https://github.com/dani-garcia/vaultwarden/issues/3726)
 - [blocked by cloudflare](https://github.com/sharpbrowser/SharpBrowser/issues/82)
 - [Secrets support for tools](https://github.com/tarasglek/chatcraft.org/issues/182)
