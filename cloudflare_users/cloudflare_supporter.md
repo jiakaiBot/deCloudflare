@@ -13504,6 +13504,7 @@ Do not create new issue or we will close it as duplicate.
 | [y2pNVkQPT26gvTC@twitter](https://twitter.com/y2pNVkQPT26gvTC/status/1377187578583994368) | advertise |
 | [YaasminBoojo@twitter](https://twitter.com/YaasminBoojo/status/1585882514669076480) | advertise |
 | [Yacinec54933892@twitter](https://twitter.com/Yacinec54933892/status/1407473157955588096) | advertise |
+| [Yadanar75532007@twitter](https://twitter.com/Yadanar75532007/status/1684397154243334146) | advertise |
 | [YadanarMyo14@twitter](https://twitter.com/YadanarMyo14/status/1391784880036405252) | advertise |
 | [YadanarMyoWin2@twitter](https://twitter.com/YadanarMyoWin2/status/1391001842339835905) | advertise |
 | [yadeshbekheirr@twitter](https://twitter.com/yadeshbekheirr/status/1558701251218575360) | advertise |
