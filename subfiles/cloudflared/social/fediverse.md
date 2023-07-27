@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,000 |
+| com | 7,001 |
 | social | 4,394 |
 | net | 3,581 |
-| org | 2,408 |
+| org | 2,410 |
 | de | 2,230 |
 
 
@@ -1030,6 +1030,7 @@ Here's a list of public Fediverse services.
 | `ad-astra.moe` | No |
 | `ad5001.eu` | No |
 | `ada.st` | No |
+| `adabwilde.com` | Yes |
 | `adace.fyi` | Yes |
 | `adachi.party` | No |
 | `adaizen.com` | No |
@@ -12191,6 +12192,7 @@ Here's a list of public Fediverse services.
 | `falkensweb.com` | No |
 | `falktx.com` | No |
 | `falkvinge.net` | Yes |
+| `fallcounty.monster` | No |
 | `fallendemon.xyz` | No |
 | `falles.online` | Yes |
 | `falschgold.net` | No |
@@ -15745,6 +15747,7 @@ Here's a list of public Fediverse services.
 | `gtw.lt` | Yes |
 | `guakamole.org` | No |
 | `guany.in` | No |
+| `guaranteedstruggle.host` | No |
 | `gubsercloud.com` | No |
 | `guckt.info` | No |
 | `guddl.de` | No |
@@ -23072,6 +23075,7 @@ Here's a list of public Fediverse services.
 | `lrtg.me` | No |
 | `lrtg.tk` | No |
 | `lrw23.de` | No |
+| `ls.gy` | No |
 | `lsa.social` | Yes |
 | `lsbt.me` | No |
 | `lsf-group.de` | No |
@@ -28799,6 +28803,7 @@ Here's a list of public Fediverse services.
 | `noronista.net` | No |
 | `norrebro.space` | No |
 | `norrland.xyz` | No |
+| `northbaypython.org` | No |
 | `northeast.one` | No |
 | `northern-fox.com` | No |
 | `northernvoice.app` | No |
@@ -36676,6 +36681,7 @@ Here's a list of public Fediverse services.
 | `skapmedia.xyz` | Yes |
 | `skarnio.tv` | No |
 | `skastodon.com` | No |
+| `skaven.org` | No |
 | `skaverat.net` | No |
 | `skazki.fr` | No |
 | `skbo.net` | No |
@@ -46068,8 +46074,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,438 |
-| Normal | 33,587 |
+| Cloudflare | 12,439 |
+| Normal | 33,592 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
