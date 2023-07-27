@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,998 |
+| com | 6,999 |
 | social | 4,393 |
 | net | 3,581 |
 | org | 2,407 |
@@ -34643,6 +34643,7 @@ Here's a list of public Fediverse services.
 | `rtx3070kure.net` | No |
 | `rtyn.berlin` | No |
 | `ru.social` | No |
+| `ru3a.com` | Yes |
 | `rubber.family` | No |
 | `rubber.social` | No |
 | `rubber.zone` | No |
@@ -46057,7 +46058,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,432 |
+| Cloudflare | 12,433 |
 | Normal | 33,582 |
 
 
