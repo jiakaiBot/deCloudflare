@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,997 |
+| com | 6,998 |
 | social | 4,391 |
 | net | 3,579 |
 | org | 2,405 |
@@ -26233,6 +26233,7 @@ Here's a list of public Fediverse services.
 | `mone.dev` | No |
 | `monedalliure.org` | No |
 | `monero.house` | No |
+| `monero.im` | No |
 | `monero.space` | Yes |
 | `monero.town` | No |
 | `monero.wf` | No |
@@ -35837,6 +35838,7 @@ Here's a list of public Fediverse services.
 | `seldo.dev` | No |
 | `selea.se` | No |
 | `selectallfromdual.com` | No |
+| `seledreams.com` | No |
 | `selenian.space` | No |
 | `selent.ca` | No |
 | `selexco.net` | No |
@@ -46037,7 +46039,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,423 |
-| Normal | 33,570 |
+| Normal | 33,572 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
