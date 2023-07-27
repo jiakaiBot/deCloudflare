@@ -1429,6 +1429,7 @@ Here's a list of public Fediverse services.
 | `akkoma.net.eu.org` | No |
 | `akkoma.nl` | No |
 | `akkoremaji.club` | Yes |
+| `akkoverse.xyz` | Yes |
 | `aklsh.me` | Yes |
 | `akme.ink` | Yes |
 | `akmentins.com` | Yes |
@@ -43494,6 +43495,7 @@ Here's a list of public Fediverse services.
 | `wakkerewereld.nu` | No |
 | `wakkerisme.nl` | No |
 | `wakoka.com` | No |
+| `waku.dev` | Yes |
 | `wakuwaku.boo` | Yes |
 | `wakuwaku.social` | No |
 | `wakuwakup.net` | Yes |
@@ -46038,7 +46040,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,423 |
+| Cloudflare | 12,425 |
 | Normal | 33,572 |
 
 
