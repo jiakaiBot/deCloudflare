@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 6,998 |
 | social | 4,391 |
 | net | 3,579 |
-| org | 2,405 |
+| org | 2,406 |
 | de | 2,229 |
 
 
@@ -1787,6 +1787,7 @@ Here's a list of public Fediverse services.
 | `altsoshl.com` | No |
 | `alttube.fr` | No |
 | `alttwitter.com` | No |
+| `altwiebe.blog` | No |
 | `alula.gay` | Yes |
 | `alumnibg.org` | No |
 | `alva.host` | Yes |
@@ -8422,6 +8423,7 @@ Here's a list of public Fediverse services.
 | `cyberrex.jp` | Yes |
 | `cybersamurai.digital` | No |
 | `cyberscene.gq` | No |
+| `cybersec.community` | Yes |
 | `cybersecurity.social` | No |
 | `cybersecurity.theater` | Yes |
 | `cybershock.life` | No |
@@ -15907,6 +15909,7 @@ Here's a list of public Fediverse services.
 | `hackaday.social` | No |
 | `hackade.org` | Yes |
 | `hackademiet.dk` | No |
+| `hackademiker.se` | No |
 | `hackadoll.com` | No |
 | `hackadon.space` | Yes |
 | `hackaroun.de` | Yes |
@@ -16048,6 +16051,7 @@ Here's a list of public Fediverse services.
 | `hal9.ooo` | No |
 | `halby24.com` | No |
 | `halcat.org` | Yes |
+| `halcyon-is.land` | No |
 | `halcyon.vision` | No |
 | `halcyonpixels.com` | Yes |
 | `half-shot.uk` | No |
@@ -17264,6 +17268,7 @@ Here's a list of public Fediverse services.
 | `hsp.sh` | Yes |
 | `hsslj.de` | No |
 | `hstaudt.eu` | No |
+| `hstx.eu` | No |
 | `ht164.jp` | No |
 | `htb.social` | Yes |
 | `htbaa.com` | No |
@@ -19729,6 +19734,7 @@ Here's a list of public Fediverse services.
 | `k-on.kr` | Yes |
 | `k-prod.fr` | No |
 | `k-ten.de` | No |
+| `k.cymru` | No |
 | `k0r.de` | No |
 | `k0r.in` | No |
 | `k0rko.fr` | No |
@@ -33192,6 +33198,7 @@ Here's a list of public Fediverse services.
 | `rai.dog` | No |
 | `raichu.lol` | No |
 | `raidarou.com` | No |
+| `raikee.fi` | No |
 | `raikow.online` | No |
 | `rail.chat` | Yes |
 | `raildecake.fr` | No |
@@ -43663,6 +43670,7 @@ Here's a list of public Fediverse services.
 | `wbnns.com` | Yes |
 | `wbrew.radom.pl` | No |
 | `wcdi.tech` | No |
+| `wcore.org` | No |
 | `wcwts.dev` | No |
 | `wd.is` | Yes |
 | `wdavery.com` | No |
@@ -46040,8 +46048,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,425 |
-| Normal | 33,572 |
+| Cloudflare | 12,426 |
+| Normal | 33,579 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
