@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [BitGet Fetch_order error](https://github.com/ccxt/ccxt/issues/18683)
 - [Dragontea the image couldn't Load and Cloudflare failure](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/17278)
 - [Exponential backoff support](https://github.com/XLabs/wormhole/issues/20)
 - [Cannot download the template](https://github.com/abpframework/abp/issues/17208)
