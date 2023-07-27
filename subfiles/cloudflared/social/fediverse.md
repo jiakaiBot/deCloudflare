@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,995 |
-| social | 4,388 |
+| com | 6,996 |
+| social | 4,389 |
 | net | 3,579 |
 | org | 2,404 |
 | de | 2,228 |
@@ -28570,6 +28570,7 @@ Here's a list of public Fediverse services.
 | `noebauer.xyz` | No |
 | `noela.moe` | No |
 | `noeldemartin.social` | No |
+| `noeling.com` | Yes |
 | `noellabo.com` | Yes |
 | `noellabo.jp` | Yes |
 | `noelle.codes` | No |
@@ -43104,6 +43105,7 @@ Here's a list of public Fediverse services.
 | `viste.pt` | No |
 | `visual-novel.info` | Yes |
 | `visualdev.fm` | Yes |
+| `visualnovels.social` | Yes |
 | `visualsoul.uk` | No |
 | `visualsquirrels.net` | No |
 | `vit-connect.de` | Yes |
@@ -46025,7 +46027,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,417 |
+| Cloudflare | 12,419 |
 | Normal | 33,565 |
 
 
