@@ -4160,6 +4160,7 @@ Do not create new issue or we will close it as duplicate.
 | [Haocutevl@twitter](https://twitter.com/Haocutevl/status/1638379614291603456) | advertise |
 | [haoHol42516744@twitter](https://twitter.com/haoHol42516744/status/1552490346776772608) | advertise |
 | [haon0814@twitter](https://twitter.com/haon0814/status/1554411988876349441) | advertise |
+| [HaoNguy47786905@twitter](https://twitter.com/HaoNguy47786905/status/1684587221255598080) | advertise |
 | [HaoTran21372255@twitter](https://twitter.com/HaoTran21372255/status/1403174943697760257) | advertise |
 | [HaPham54053917@twitter](https://twitter.com/HaPham54053917/status/1507966057113600002) | advertise |
 | [haphunt@twitter](https://twitter.com/haphunt/status/1381492131542405122) | advertise |
