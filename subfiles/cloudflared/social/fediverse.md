@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,994 |
 | social | 4,387 |
-| net | 3,578 |
+| net | 3,579 |
 | org | 2,404 |
-| de | 2,227 |
+| de | 2,228 |
 
 
 - Mastodon, Pleroma, etc
@@ -3386,7 +3386,7 @@ Here's a list of public Fediverse services.
 | `b612.tw` | No |
 | `b65.me.in` | No |
 | `b7e.dev` | No |
-| `b86.org` | Yes |
+| `b86.org` | No |
 | `b999.me` | No |
 | `ba.id.au` | Yes |
 | `baa.social` | No |
@@ -7378,7 +7378,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9837,6 +9837,7 @@ Here's a list of public Fediverse services.
 | `discant.net` | Yes |
 | `discloud.one` | No |
 | `disco.camp` | No |
+| `discocat.me` | No |
 | `discorded.io` | No |
 | `discordian.social` | No |
 | `discorevenge.xyz` | No |
@@ -17873,6 +17874,7 @@ Here's a list of public Fediverse services.
 | `imojito.com` | Yes |
 | `imosskey.dev` | No |
 | `imouto.wiki` | No |
+| `imowl.net` | No |
 | `impa.cc` | No |
 | `impa.me` | No |
 | `impeccable.social` | No |
@@ -31176,6 +31178,7 @@ Here's a list of public Fediverse services.
 | `philipjohn.blog` | No |
 | `philipjohn.social` | No |
 | `philipp-rosch.de` | Yes |
+| `philipp-weissmann.de` | No |
 | `philipp.info` | No |
 | `philipphoefer.de` | No |
 | `phill.gg` | Yes |
@@ -37716,6 +37719,7 @@ Here's a list of public Fediverse services.
 | `spoonie.community` | No |
 | `sporadically.social` | No |
 | `spore.social` | No |
+| `sporedrive.space` | No |
 | `spork.gay` | Yes |
 | `spork.gg` | No |
 | `spork.org` | No |
@@ -42480,7 +42484,7 @@ Here's a list of public Fediverse services.
 | `urmum.gq` | No |
 | `urn1350.net` | Yes |
 | `ursa.cafe` | No |
-| `ursa.camp` | No |
+| `ursa.camp` | Yes |
 | `ursal.zone` | Yes |
 | `ursaoskius.com` | Yes |
 | `ursinn.dev` | Yes |
@@ -46019,8 +46023,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,417 |
-| Normal | 33,559 |
+| Cloudflare | 12,416 |
+| Normal | 33,564 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
