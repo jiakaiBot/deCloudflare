@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,996 |
-| social | 4,389 |
+| com | 6,997 |
+| social | 4,391 |
 | net | 3,579 |
-| org | 2,404 |
-| de | 2,228 |
+| org | 2,405 |
+| de | 2,229 |
 
 
 - Mastodon, Pleroma, etc
@@ -1492,6 +1492,7 @@ Here's a list of public Fediverse services.
 | `albinoblacksheep.com` | No |
 | `albormentum.com` | No |
 | `albr.to` | Yes |
+| `alc.im` | Yes |
 | `alcalyn.app` | No |
 | `alcatir.com` | No |
 | `alceawisteria.de` | No |
@@ -7518,6 +7519,7 @@ Here's a list of public Fediverse services.
 | `concordia.social` | No |
 | `concurrent.world` | No |
 | `conduitry.me` | Yes |
+| `conejo.social` | Yes |
 | `conesphere.cloud` | No |
 | `conesphere.social` | No |
 | `conf.tube` | No |
@@ -8906,7 +8908,7 @@ Here's a list of public Fediverse services.
 | `datenschleuse.de` | No |
 | `datenschutz-fuerth.de` | No |
 | `datenschutz-guru.de` | No |
-| `datensturm.net` | No |
+| `datensturm.net` | Yes |
 | `datentopf.org` | No |
 | `datenwolke.io` | No |
 | `datflow.tech` | Yes |
@@ -9146,6 +9148,7 @@ Here's a list of public Fediverse services.
 | `decredcommunity.org` | No |
 | `decremental.com` | No |
 | `decronym.xyz` | No |
+| `decrue.be` | No |
 | `decrypt.fail` | No |
 | `decuir.org` | Yes |
 | `decwebb.com` | Yes |
@@ -12276,6 +12279,7 @@ Here's a list of public Fediverse services.
 | `farkwar.social` | Yes |
 | `farland.world` | No |
 | `farlands.cafe` | Yes |
+| `farley.pro` | No |
 | `farm.lol` | No |
 | `farman.tokyo` | No |
 | `farmerdev.de` | No |
@@ -13668,7 +13672,7 @@ Here's a list of public Fediverse services.
 | `freenet.ru` | No |
 | `freeradical.zone` | No |
 | `freeradon.net` | No |
-| `freeself.one` | Yes |
+| `freeself.one` | No |
 | `freeside.cafe` | Yes |
 | `freeside.online` | No |
 | `freeskate.fr` | No |
@@ -29823,6 +29827,7 @@ Here's a list of public Fediverse services.
 | `open2.ch` | Yes |
 | `open2ch.net` | Yes |
 | `open3dlab.com` | No |
+| `open3dlab.social` | No |
 | `openaiken.net` | No |
 | `openalgeria.org` | No |
 | `openbargel.com` | Yes |
@@ -34351,6 +34356,7 @@ Here's a list of public Fediverse services.
 | `rodetc.com` | No |
 | `rodina-sucha.cz` | No |
 | `rodnoc.xyz` | No |
+| `rodr.dev` | Yes |
 | `rodriguez.gg` | No |
 | `rodriguez.paris` | No |
 | `rodriguezrullan.com` | No |
@@ -37542,6 +37548,7 @@ Here's a list of public Fediverse services.
 | `spacey.space` | No |
 | `spacie.fr` | No |
 | `spad.uk` | Yes |
+| `spaekhugger.de` | No |
 | `spaetzle.info` | No |
 | `spaghettimonster.church` | No |
 | `spaill.net` | Yes |
@@ -38231,6 +38238,7 @@ Here's a list of public Fediverse services.
 | `storiesnotablog.com` | No |
 | `storkeus.xyz` | Yes |
 | `stormcloak.info` | No |
+| `stormcrest.org` | No |
 | `stormdragon.tk` | No |
 | `stormdragons.net` | No |
 | `stormgrass.com` | No |
@@ -39794,6 +39802,7 @@ Here's a list of public Fediverse services.
 | `the-expanse.net` | Yes |
 | `the-gathering.space` | No |
 | `the-goblin.net` | Yes |
+| `the-hopkins.com` | Yes |
 | `the-hub.zone` | Yes |
 | `the-idw.com` | No |
 | `the-j.ml` | No |
@@ -46027,8 +46036,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,419 |
-| Normal | 33,565 |
+| Cloudflare | 12,423 |
+| Normal | 33,570 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
