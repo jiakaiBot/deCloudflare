@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 6,994 |
+| com | 6,995 |
 | social | 4,388 |
 | net | 3,579 |
 | org | 2,404 |
@@ -17149,6 +17149,7 @@ Here's a list of public Fediverse services.
 | `hosterra.social` | No |
 | `hostg.ovh` | No |
 | `hostifi.com` | Yes |
+| `hostingqube.com` | No |
 | `hostpath.de` | No |
 | `hostr.my.id` | Yes |
 | `hostservice.nl` | No |
@@ -46025,7 +46026,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,417 |
-| Normal | 33,564 |
+| Normal | 33,565 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
