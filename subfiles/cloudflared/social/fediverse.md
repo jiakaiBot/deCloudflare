@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 6,998 |
 | social | 4,393 |
-| net | 3,580 |
+| net | 3,581 |
 | org | 2,407 |
 | de | 2,229 |
 
@@ -8841,6 +8841,7 @@ Here's a list of public Fediverse services.
 | `darui.work` | No |
 | `das-kreative.de` | No |
 | `das-vergessene-land.de` | No |
+| `dasaku.net` | Yes |
 | `dasasozialenetzwerk.de` | Yes |
 | `dasaweb.de` | No |
 | `dasbiersec.com` | Yes |
@@ -12569,6 +12570,7 @@ Here's a list of public Fediverse services.
 | `fedimaker.space` | No |
 | `fedimas.com` | Yes |
 | `fedimast.com` | No |
+| `fedimav.win` | Yes |
 | `fedimix.dev` | No |
 | `fedimmend.com` | No |
 | `fedimon.uk` | No |
@@ -46055,7 +46057,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,430 |
+| Cloudflare | 12,432 |
 | Normal | 33,582 |
 
 
