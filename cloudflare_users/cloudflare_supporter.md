@@ -10347,6 +10347,7 @@ Do not create new issue or we will close it as duplicate.
 | [rival_finance@twitter](https://twitter.com/rival_finance/status/1407415777687490571) | advertise |
 | [RivereVert@twitter](https://twitter.com/RivereVert/status/1470665749849001985) | advertise |
 | [riy1991@twitter](https://twitter.com/riy1991/status/1446042626642173953) | advertise |
+| [RiyadulMr@twitter](https://twitter.com/RiyadulMr/status/1684612464401670144) | advertise |
 | [Rizkiadisp@twitter](https://twitter.com/Rizkiadisp/status/1457584649840988170) | advertise |
 | [Rizky29300508@twitter](https://twitter.com/Rizky29300508/status/1401428946789429249) | advertise |
 | [Rizkyfauzih@twitter](https://twitter.com/Rizkyfauzih/status/1679899851633614849) | advertise |
