@@ -8235,6 +8235,7 @@ Here's a list of public Fediverse services.
 | `cune.moe` | Yes |
 | `cunnin.me` | No |
 | `cunny.finance` | No |
+| `cunny.gay` | No |
 | `cunny.moe` | Yes |
 | `cuonda.social` | No |
 | `cupcakerob.nl` | No |
@@ -46059,7 +46060,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,433 |
-| Normal | 33,582 |
+| Normal | 33,583 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
