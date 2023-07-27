@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 6,994 |
-| social | 4,387 |
+| social | 4,388 |
 | net | 3,579 |
 | org | 2,404 |
 | de | 2,228 |
@@ -13000,6 +13000,7 @@ Here's a list of public Fediverse services.
 | `firefish.lgbt` | No |
 | `firefish.nz` | No |
 | `firefish.ooo` | No |
+| `firefish.social` | No |
 | `firefish.store` | Yes |
 | `firefish.tech` | No |
 | `fireflies.nl` | No |
@@ -14966,7 +14967,7 @@ Here's a list of public Fediverse services.
 | `girlslove.pink` | No |
 | `girlthing.chat` | No |
 | `girly.monster` | No |
-| `giroguy.com` | No |
+| `giroguy.com` | Yes |
 | `girondi.net` | Yes |
 | `gist.social` | No |
 | `git9k.com` | No |
@@ -46023,7 +46024,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,416 |
+| Cloudflare | 12,417 |
 | Normal | 33,564 |
 
 
