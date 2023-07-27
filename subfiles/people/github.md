@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Start decoding EDE](https://github.com/rthalley/dnspython/issues/969)
 - [No Cloudflare challenge detected.](https://github.com/Xewdy444/CF-Clearance-Scraper/issues/24)
 - [Android & iOS Push doesn't work](https://github.com/dani-garcia/vaultwarden/issues/3726)
 - [blocked by cloudflare](https://github.com/sharpbrowser/SharpBrowser/issues/82)
