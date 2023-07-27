@@ -1080,6 +1080,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aryan10065293@twitter](https://twitter.com/Aryan10065293/status/1396411254533550082) | advertise |
 | [AryanGu17150373@twitter](https://twitter.com/AryanGu17150373/status/1482010948793946112) | advertise |
 | [arzzen@twitter](https://twitter.com/arzzen/status/1384955314991210496) | advertise |
+| [as2580208@twitter](https://twitter.com/as2580208/status/1684575765986529281) | advertise |
 | [asa64_@twitter](https://twitter.com/asa64_/status/1565298492024791043) | advertise |
 | [AsadAmer13@twitter](https://twitter.com/AsadAmer13/status/1396798484091707396) | advertise |
 | [Asadshahbaz1993@twitter](https://twitter.com/Asadshahbaz1993/status/1380767370411704320) | advertise |
