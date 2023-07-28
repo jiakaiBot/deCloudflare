@@ -9837,6 +9837,7 @@ Here's a list of public Fediverse services.
 | `directe.cat` | No |
 | `dirigibly.ltd` | No |
 | `dirigitive.com` | No |
+| `dirik.no` | Yes |
 | `dirk.show` | Yes |
 | `dirkkelly.com` | Yes |
 | `dirkomatik.de` | No |
@@ -46115,7 +46116,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,460 |
+| Cloudflare | 12,461 |
 | Normal | 33,612 |
 
 
