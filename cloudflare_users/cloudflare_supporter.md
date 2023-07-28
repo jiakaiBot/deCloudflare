@@ -5375,6 +5375,7 @@ Do not create new issue or we will close it as duplicate.
 | [jcampos2208@twitter](https://twitter.com/jcampos2208/status/1399856800208404486) | advertise |
 | [JDbelem1@twitter](https://twitter.com/JDbelem1/status/1384610630917922817) | advertise |
 | [jdiazfar@twitter](https://twitter.com/jdiazfar/status/1526666559053348866) | advertise |
+| [jdiezc@twitter](https://twitter.com/jdiezc/status/1684990332000186379) | advertise |
 | [jdjdjdj_dj45597@twitter](https://twitter.com/jdjdjdj_dj45597/status/1680593627440107520) | advertise |
 | [jdjs35017027@twitter](https://twitter.com/jdjs35017027/status/1489619422482337792) | advertise |
 | [jdmadeitoak@twitter](https://twitter.com/jdmadeitoak/status/1517686348785668097) | advertise |
