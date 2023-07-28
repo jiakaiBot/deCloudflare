@@ -64,11 +64,9 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | carson-family.com | Yes |
 | cgnat.net | No |
 | chenu.ch | No |
-| chromeina.top | Yes |
 | cira.ca | Yes |
 | clanless.ovh | Yes |
 | cloudflare-dns.com | Yes |
-| cretu.xyz | Yes |
 | crypto.sx | Yes |
 | cryptomize.com | Yes |
 | cwlys.com | Yes |
@@ -114,7 +112,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | edison42.dev | No |
 | ef67daisuki.club | No |
 | electrotm.org | Yes |
-| elemental.software | Yes |
 | ellichua.com | No |
 | emiliyan.com | Yes |
 | eth.link | Yes |
@@ -299,7 +296,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | startupstack.tech | Yes |
 | stvsk.ml | Yes |
 | sungai.stream | Yes |
-| surfshark.com | Yes |
 | switch.ch | No |
 | syaifullah.com | Yes |
 | synology.me | No |
@@ -351,8 +347,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 170 |
+| Cloudflare | 166 |
 | Normal | 162 |
 
 
-### 51.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
