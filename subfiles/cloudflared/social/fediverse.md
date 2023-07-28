@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,002 |
-| social | 4,396 |
-| net | 3,581 |
+| com | 7,003 |
+| social | 4,397 |
+| net | 3,582 |
 | org | 2,410 |
 | de | 2,230 |
 
@@ -1397,6 +1397,7 @@ Here's a list of public Fediverse services.
 | `akari-network.jp` | No |
 | `akarin.ml` | No |
 | `akarinext.org` | Yes |
+| `akarisu.eu` | No |
 | `akasa.red` | Yes |
 | `akashi.cloud` | No |
 | `akashiensis.com` | No |
@@ -2261,6 +2262,7 @@ Here's a list of public Fediverse services.
 | `antipop.cc` | No |
 | `antipub.org` | No |
 | `antiquated.systems` | No |
+| `antiquelemmy.com` | Yes |
 | `antirep.net` | No |
 | `antisleepdevice.de` | No |
 | `antisocial.chat` | No |
@@ -9832,6 +9834,7 @@ Here's a list of public Fediverse services.
 | `dirk.show` | Yes |
 | `dirkkelly.com` | Yes |
 | `dirkomatik.de` | No |
+| `dirtbag.social` | Yes |
 | `dirtyhobby.xyz` | No |
 | `dirtyoldmensclub.com` | No |
 | `dirtytrans.club` | No |
@@ -10224,6 +10227,7 @@ Here's a list of public Fediverse services.
 | `dook.business` | No |
 | `dookie.eu.org` | Yes |
 | `dooky.top` | No |
+| `doom.broker` | Yes |
 | `doom.fm` | No |
 | `doomicile.de` | No |
 | `doompill.com` | No |
@@ -11326,6 +11330,7 @@ Here's a list of public Fediverse services.
 | `embros.org` | Yes |
 | `emcomm.social` | Yes |
 | `emelyne.eu` | No |
+| `emerald.show` | No |
 | `emeraldsocial.org` | No |
 | `emergeheart.info` | No |
 | `emergencyalerts.app` | No |
@@ -15873,6 +15878,7 @@ Here's a list of public Fediverse services.
 | `h-sund.nu` | No |
 | `h-y-p-e-r.space` | No |
 | `h0lmes.com` | Yes |
+| `h0stname.net` | No |
 | `h12r.de` | No |
 | `h1v3.de` | No |
 | `h2x.us` | No |
@@ -17845,6 +17851,7 @@ Here's a list of public Fediverse services.
 | `ima1zumi.com` | No |
 | `imaag.de` | No |
 | `imach.me` | Yes |
+| `imacme.ca` | Yes |
 | `imagazine.pl` | No |
 | `image-space.info` | No |
 | `imagia.academy` | Yes |
@@ -19792,6 +19799,7 @@ Here's a list of public Fediverse services.
 | `kabipix.tk` | No |
 | `kabo.cab` | Yes |
 | `kabudon.jp` | No |
+| `kabuff.club` | No |
 | `kabuki.club` | No |
 | `kabukimono.top` | No |
 | `kabutodon.com` | No |
@@ -23799,6 +23807,7 @@ Here's a list of public Fediverse services.
 | `mannheim.social` | No |
 | `manninet.de` | No |
 | `manohitotoki.com` | Yes |
+| `manonenthijsopreis.nl` | No |
 | `manowar.social` | No |
 | `mantlepro.com` | No |
 | `manton.org` | No |
@@ -35433,6 +35442,7 @@ Here's a list of public Fediverse services.
 | `schirmer.tech` | No |
 | `schitthaus.com` | No |
 | `schizo.dev` | No |
+| `schizo.gr` | No |
 | `schizo.me` | Yes |
 | `schizo.online` | No |
 | `schizoid.social` | No |
@@ -39109,6 +39119,7 @@ Here's a list of public Fediverse services.
 | `takesama.com` | Yes |
 | `takesato.io` | Yes |
 | `taketodon.com` | No |
+| `takeya.qa` | No |
 | `takeyourmeds.xyz` | No |
 | `takeyu.club` | No |
 | `takezin.page` | No |
@@ -42036,6 +42047,7 @@ Here's a list of public Fediverse services.
 | `ualberta.ca` | Yes |
 | `uasa.io` | No |
 | `ub32.org` | No |
+| `uba.be` | No |
 | `uber.space` | No |
 | `ubergeek77.chat` | Yes |
 | `ubermorgen.info` | No |
@@ -46079,8 +46091,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,440 |
-| Normal | 33,596 |
+| Cloudflare | 12,444 |
+| Normal | 33,604 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
