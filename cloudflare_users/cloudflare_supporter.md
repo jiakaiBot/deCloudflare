@@ -1846,6 +1846,7 @@ Do not create new issue or we will close it as duplicate.
 | [boi_meet@twitter](https://twitter.com/boi_meet/status/1516557146820857862) | advertise |
 | [Bok3yB@twitter](https://twitter.com/Bok3yB/status/1396380216612704258) | advertise |
 | [Bok37537531@twitter](https://twitter.com/Bok37537531/status/1393028293297721347) | advertise |
+| [Bokhang86737803@twitter](https://twitter.com/Bokhang86737803/status/1684841511291359232) | advertise |
 | [BoKyaw11177314@twitter](https://twitter.com/BoKyaw11177314/status/1396818938550362119) | advertise |
 | [bokyrangerFD@twitter](https://twitter.com/bokyrangerFD/status/1521424293501972480) | advertise |
 | [Bole43343696@twitter](https://twitter.com/Bole43343696/status/1553438240669323264) | advertise |
@@ -4240,6 +4241,7 @@ Do not create new issue or we will close it as duplicate.
 | [hdellacorte@twitter](https://twitter.com/hdellacorte/status/1533407264907923456) | advertise |
 | [Hdjdbj17@twitter](https://twitter.com/Hdjdbj17/status/1553807417699598336) | advertise |
 | [HDuyLc2@twitter](https://twitter.com/HDuyLc2/status/1388699027626024966) | advertise |
+| [hd_solomon78154@twitter](https://twitter.com/hd_solomon78154/status/1684844620818087936) | advertise |
 | [HeaddyYoung@twitter](https://twitter.com/HeaddyYoung/status/1393392239280156674) | advertise |
 | [HealthFitnesMa@twitter](https://twitter.com/HealthFitnesMa/status/1379584473650593794) | advertise |
 | [HeartKi08245989@twitter](https://twitter.com/HeartKi08245989/status/1390367647884189696) | advertise |
