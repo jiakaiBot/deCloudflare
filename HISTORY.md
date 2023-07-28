@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-07-28: [Network Performance Issues in Johannesburg, South Africa](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gbfk13h1cst3)
 - 2023-07-25: [Issues with 1.1.1.1 public resolver in some locations](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/yf3csgmnsy7d)
 - 2023-07-25: [Cloudflare Auto Minify issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/96r1v629qjr8)
 - 2023-07-20: [Regional degraded connectivity for Secure Web Gateway](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/n7058grjk59r)
