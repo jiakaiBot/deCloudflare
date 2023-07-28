@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,001 |
+| com | 7,002 |
 | social | 4,395 |
 | net | 3,581 |
 | org | 2,410 |
@@ -6033,6 +6033,7 @@ Here's a list of public Fediverse services.
 | `casacamelia.xyz` | Yes |
 | `casavaga.com` | No |
 | `casavant.org` | No |
+| `cascade.moe` | Yes |
 | `cascadia.chat` | No |
 | `cascadia.games` | No |
 | `cascadia.news` | Yes |
@@ -18053,6 +18054,7 @@ Here's a list of public Fediverse services.
 | `infoq.social` | No |
 | `inforbidden.ink` | No |
 | `informaction.info` | No |
+| `informalimd.com` | No |
 | `informancer.eu` | No |
 | `informapirata.it` | Yes |
 | `informaticore.net` | No |
@@ -46076,8 +46078,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,439 |
-| Normal | 33,594 |
+| Cloudflare | 12,440 |
+| Normal | 33,595 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
