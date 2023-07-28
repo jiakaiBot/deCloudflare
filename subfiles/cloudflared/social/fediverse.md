@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,002 |
-| social | 4,395 |
+| social | 4,396 |
 | net | 3,581 |
 | org | 2,410 |
 | de | 2,230 |
@@ -22296,6 +22296,7 @@ Here's a list of public Fediverse services.
 | `librarianofalexandria.com` | No |
 | `library.love` | No |
 | `libraryland.social` | Yes |
+| `librarysocialism.social` | No |
 | `libratoi.org` | No |
 | `libre-association.party` | No |
 | `libre-chat.com` | No |
@@ -46079,7 +46080,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,440 |
-| Normal | 33,595 |
+| Normal | 33,596 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
