@@ -18128,7 +18128,7 @@ Here's a list of public Fediverse services.
 | `inkson.org` | No |
 | `inkstained.space` | Yes |
 | `inkweb.network` | No |
-| `inkwell.space` | Yes |
+| `inkwell.space` | No |
 | `inkwell.studio` | No |
 | `inkyara-kami.me` | No |
 | `inlakech.site` | No |
@@ -32557,6 +32557,7 @@ Here's a list of public Fediverse services.
 | `pteranodon.net` | No |
 | `ptinem.io` | No |
 | `ptmsoft.fr` | No |
+| `ptolemaios.fr` | No |
 | `ptr.fm` | Yes |
 | `ptrl.ws` | Yes |
 | `pttmpl.de` | No |
@@ -36782,7 +36783,7 @@ Here's a list of public Fediverse services.
 | `skwerl.dev` | No |
 | `sky-bank.net` | Yes |
 | `sky-em.id.au` | No |
-| `skyarrow.org` | No |
+| `skyarrow.org` | Yes |
 | `skyax.design` | Yes |
 | `skycademc.com` | No |
 | `skye.cx` | No |
@@ -46076,7 +46077,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,439 |
-| Normal | 33,593 |
+| Normal | 33,594 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
