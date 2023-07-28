@@ -197,6 +197,7 @@ Do not create new issue or we will close it as duplicate.
 | [@muffinista@botsin.space](https://botsin.space/@muffinista) | Mastodon: account suspension (botsin.space) |
 | [@muffinista@cybre.space](https://cybre.space/@muffinista) | Mastodon: account suspension (botsin.space) |
 | [@tchambers@indieweb.social](https://indieweb.social/@tchambers) | Mastodon: account suspension (black cat) |
+| [A0904960123@twitter](https://twitter.com/A0904960123/status/1684759159282208768) | advertise |
 | [A2Khac@twitter](https://twitter.com/A2Khac/status/1599277503042195458) | advertise |
 | [A7mad_GH_@twitter](https://twitter.com/A7mad_GH_/status/1386898761620893697) | advertise |
 | [A7mdShe7i@twitter](https://twitter.com/A7mdShe7i/status/1604169876717043715) | advertise |
@@ -1520,6 +1521,7 @@ Do not create new issue or we will close it as duplicate.
 | [bao85639159@twitter](https://twitter.com/bao85639159/status/1379009039988748289) | advertise |
 | [baobei0201@twitter](https://twitter.com/baobei0201/status/1552929205947469825) | advertise |
 | [baogaooo@twitter](https://twitter.com/baogaooo/status/1481173397111738370) | advertise |
+| [Baolodc@twitter](https://twitter.com/Baolodc/status/1684790483602849792) | advertise |
 | [baolongtm159@twitter](https://twitter.com/baolongtm159/status/1609228459171278848) | advertise |
 | [Baomilos4@twitter](https://twitter.com/Baomilos4/status/1536315085475328001) | advertise |
 | [baovanhu012345@twitter](https://twitter.com/baovanhu012345/status/1387935168267096068) | advertise |
@@ -4135,6 +4137,7 @@ Do not create new issue or we will close it as duplicate.
 | [HanHlaingMyint1@twitter](https://twitter.com/HanHlaingMyint1/status/1389379591601594369) | advertise |
 | [HanhLe35954517@twitter](https://twitter.com/HanhLe35954517/status/1474412634313138179) | advertise |
 | [Hanhnhi93885752@twitter](https://twitter.com/Hanhnhi93885752/status/1515596390097121286) | advertise |
+| [hanif_hmadard@twitter](https://twitter.com/hanif_hmadard/status/1684627439480401920) | advertise |
 | [haniomosh@twitter](https://twitter.com/haniomosh/status/1393657907040952320) | advertise |
 | [hanjingkonteng@twitter](https://twitter.com/hanjingkonteng/status/1404117376740646919) | advertise |
 | [HanJun2047@twitter](https://twitter.com/HanJun2047/status/1385163134193729536) | advertise |
@@ -5875,6 +5878,7 @@ Do not create new issue or we will close it as duplicate.
 | [KDarbak@twitter](https://twitter.com/KDarbak/status/1634116951063535624) | advertise |
 | [kea4nu@twitter](https://twitter.com/kea4nu/status/1532442400831901698) | advertise |
 | [KeartisakP1998K@twitter](https://twitter.com/KeartisakP1998K/status/1505614174239354883) | advertise |
+| [kebaihong3@twitter](https://twitter.com/kebaihong3/status/1684749481945001984) | advertise |
 | [kebritsokhte375@twitter](https://twitter.com/kebritsokhte375/status/1581885862480007168) | advertise |
 | [KeeLesbian69@twitter](https://twitter.com/KeeLesbian69/status/1609950315591389185) | advertise |
 | [KeenenJohannes@twitter](https://twitter.com/KeenenJohannes/status/1396513112229138434) | advertise |
@@ -6063,6 +6067,7 @@ Do not create new issue or we will close it as duplicate.
 | [KhoiUna@twitter](https://twitter.com/KhoiUna/status/1624614735336378368) | advertise |
 | [KhSitt@twitter](https://twitter.com/KhSitt/status/1394107228764872706) | advertise |
 | [KhualPu32586605@twitter](https://twitter.com/KhualPu32586605/status/1398728449985073153) | advertise |
+| [Khumari1234@twitter](https://twitter.com/Khumari1234/status/1684786737548042240) | advertise |
 | [khunchayapat@twitter](https://twitter.com/khunchayapat/status/1384497606257041410) | advertise |
 | [khungngeelay@twitter](https://twitter.com/khungngeelay/status/1398647336574676994) | advertise |
 | [KhunHlaOo1@twitter](https://twitter.com/KhunHlaOo1/status/1397206479829090317) | advertise |
