@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,001 |
-| social | 4,394 |
+| social | 4,395 |
 | net | 3,581 |
 | org | 2,410 |
 | de | 2,230 |
@@ -5391,6 +5391,7 @@ Here's a list of public Fediverse services.
 | `bruder.space` | No |
 | `bruff.me` | No |
 | `brugopen.nl` | No |
+| `bruh.social` | Yes |
 | `bruitbruit.com` | No |
 | `bruixoles.cat` | No |
 | `bruk.earth` | Yes |
@@ -22544,7 +22545,7 @@ Here's a list of public Fediverse services.
 | `linuxtrent.it` | No |
 | `linuxuserspace.show` | No |
 | `linxx.net` | No |
-| `linya.live` | Yes |
+| `linya.live` | No |
 | `linz.best` | No |
 | `lio.one` | No |
 | `liolok.com` | Yes |
@@ -46075,7 +46076,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,439 |
-| Normal | 33,592 |
+| Normal | 33,593 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
