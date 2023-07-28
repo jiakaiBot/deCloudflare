@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [How to create a generic domain setup?](https://github.com/frappe/frappe_docker/issues/1193)
 - [The provided redirect_uri is not in the list of allowed callback URLs.](https://github.com/ayastreb/money-tracker/issues/116)
 - [LE certificates error "could not find the start of authority"](https://github.com/AdrienPoupa/docker-compose-nas/issues/27)
 - [BitGet Fetch_order error](https://github.com/ccxt/ccxt/issues/18683)
