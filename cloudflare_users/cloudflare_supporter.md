@@ -9990,6 +9990,7 @@ Do not create new issue or we will close it as duplicate.
 | [qosai47002182@twitter](https://twitter.com/qosai47002182/status/1380123705238507520) | advertise |
 | [qrowet12@twitter](https://twitter.com/qrowet12/status/1647403985601548289) | advertise |
 | [QTED52@twitter](https://twitter.com/QTED52/status/1619330406364610560) | advertise |
+| [qtsleepz@twitter](https://twitter.com/qtsleepz/status/1684812219136012288) | advertise |
 | [Qu99898489@twitter](https://twitter.com/Qu99898489/status/1397203398479556612) | advertise |
 | [QuaiRau@twitter](https://twitter.com/QuaiRau/status/1387606927006322692) | advertise |
 | [quan02587035@twitter](https://twitter.com/quan02587035/status/1404362231333023755) | advertise |
@@ -10416,6 +10417,7 @@ Do not create new issue or we will close it as duplicate.
 | [RohitSi00216701@twitter](https://twitter.com/RohitSi00216701/status/1558885652581588992) | advertise |
 | [Rohtih17@twitter](https://twitter.com/Rohtih17/status/1388094308218073096) | advertise |
 | [rokki100_@twitter](https://twitter.com/rokki100_/status/1407399657932742659) | advertise |
+| [roll2206@twitter](https://twitter.com/roll2206/status/1684813772068917248) | advertise |
 | [Rolling_Dementi@twitter](https://twitter.com/Rolling_Dementi/status/1390855197258227713) | advertise |
 | [romalescarl15@twitter](https://twitter.com/romalescarl15/status/1546101541299691521) | advertise |
 | [Roman01020304@twitter](https://twitter.com/Roman01020304/status/1580252399490707458) | advertise |
@@ -12530,6 +12532,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tristan11917357@twitter](https://twitter.com/Tristan11917357/status/1386201834537340929) | advertise |
 | [Triu48585495@twitter](https://twitter.com/Triu48585495/status/1397062708571242496) | advertise |
 | [TrkanLukas@twitter](https://twitter.com/TrkanLukas/status/1383167217907478531) | advertise |
+| [TrmNguynBo19@twitter](https://twitter.com/TrmNguynBo19/status/1684809883877851136) | advertise |
 | [Trn10391150Minh@twitter](https://twitter.com/Trn10391150Minh/status/1580722871990878208) | advertise |
 | [TrN94641167@twitter](https://twitter.com/TrN94641167/status/1638074640982740992) | advertise |
 | [TrncMin97936215@twitter](https://twitter.com/TrncMin97936215/status/1519458517748359168) | advertise |
