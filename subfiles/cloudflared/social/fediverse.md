@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,008 |
-| social | 4,398 |
+| com | 7,009 |
+| social | 4,399 |
 | net | 3,583 |
-| org | 2,411 |
+| org | 2,412 |
 | de | 2,230 |
 
 
@@ -27688,6 +27688,7 @@ Here's a list of public Fediverse services.
 | `nda.li` | No |
 | `nder.se` | Yes |
 | `ndfirst.org` | No |
+| `ndlug.org` | No |
 | `ndn.digital` | Yes |
 | `ndoo.dev` | No |
 | `ndrgrnd.social` | No |
@@ -31399,6 +31400,7 @@ Here's a list of public Fediverse services.
 | `pikapod.net` | No |
 | `piki.dev` | No |
 | `piki.moe` | No |
+| `pikipika.com` | Yes |
 | `piko2.net` | Yes |
 | `pikokr.dev` | Yes |
 | `pikopiko.party` | No |
@@ -36519,6 +36521,7 @@ Here's a list of public Fediverse services.
 | `silkhe.art` | Yes |
 | `silkky.cloud` | Yes |
 | `silkky.dev` | Yes |
+| `silkky.pub` | Yes |
 | `silkroad.net` | No |
 | `silksky.us` | No |
 | `silkyplover.org` | No |
@@ -42664,6 +42667,7 @@ Here's a list of public Fediverse services.
 | `uvolante.org` | No |
 | `uwah.moe` | No |
 | `uwan.net` | No |
+| `uwu.care` | Yes |
 | `uwu.community` | Yes |
 | `uwu.engineering` | Yes |
 | `uwu.is` | No |
@@ -45750,6 +45754,7 @@ Here's a list of public Fediverse services.
 | `zedshaw.com` | No |
 | `zedsocial.ca` | No |
 | `zee.li` | Yes |
+| `zeebo.social` | Yes |
 | `zeeborn.social` | No |
 | `zeekzack.com` | No |
 | `zeeland.social` | No |
@@ -46108,8 +46113,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,455 |
-| Normal | 33,610 |
+| Cloudflare | 12,459 |
+| Normal | 33,611 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
