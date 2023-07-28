@@ -5595,6 +5595,7 @@ Do not create new issue or we will close it as duplicate.
 | [JoshuaM82837899@twitter](https://twitter.com/JoshuaM82837899/status/1640551078377693187) | advertise |
 | [josuamarcelc@twitter](https://twitter.com/josuamarcelc/status/1532977015942709248) | advertise |
 | [josuefuentesdev@twitter](https://twitter.com/josuefuentesdev/status/1570574734806634496) | advertise |
+| [JoviHaah@twitter](https://twitter.com/JoviHaah/status/1684806958782803968) | advertise |
 | [JowVmk@twitter](https://twitter.com/JowVmk/status/1500962137484763142) | advertise |
 | [Joy46233968@twitter](https://twitter.com/Joy46233968/status/1656865833426231297) | advertise |
 | [joyce135799@twitter](https://twitter.com/joyce135799/status/1672272775330004992) | advertise |
