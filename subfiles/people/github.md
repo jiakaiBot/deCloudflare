@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Confirm Upload may fail due different s3 bucket configuration](https://github.com/gio-shara-code/upload-wizard/issues/12)
 - [List boorus sorted by the percentage of images containing a given tag](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/issues/150)
 - [HTMLRewriter not forward errors to Response](https://github.com/oven-sh/bun/issues/3861)
 - [How to create a generic domain setup?](https://github.com/frappe/frappe_docker/issues/1193)
