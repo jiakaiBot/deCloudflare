@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [LE certificates error "could not find the start of authority"](https://github.com/AdrienPoupa/docker-compose-nas/issues/27)
 - [BitGet Fetch_order error](https://github.com/ccxt/ccxt/issues/18683)
 - [Dragontea the image couldn't Load and Cloudflare failure](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/17278)
 - [Exponential backoff support](https://github.com/XLabs/wormhole/issues/20)
