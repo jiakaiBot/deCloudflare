@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,009 |
-| social | 4,400 |
-| net | 3,584 |
+| com | 7,011 |
+| social | 4,403 |
+| net | 3,585 |
 | org | 2,412 |
 | de | 2,230 |
 
@@ -13122,6 +13122,7 @@ Here's a list of public Fediverse services.
 | `flashfic.stream` | No |
 | `flashist.art` | No |
 | `flashist.health` | Yes |
+| `flashist.live` | Yes |
 | `flashist.vip` | Yes |
 | `flashist.xyz` | Yes |
 | `flashtrafficlabs.com` | Yes |
@@ -17736,6 +17737,7 @@ Here's a list of public Fediverse services.
 | `ifuncle.kr` | No |
 | `ifvg.info` | No |
 | `ifwo.eu` | No |
+| `igate.pw` | No |
 | `igda.social` | No |
 | `igelko.space` | No |
 | `igem.org` | Yes |
@@ -18746,6 +18748,7 @@ Here's a list of public Fediverse services.
 | `jack.rip` | Yes |
 | `jack28.ovh` | No |
 | `jackal.chat` | Yes |
+| `jackalopes.xyz` | No |
 | `jackbenson.xyz` | Yes |
 | `jackbot.fr` | No |
 | `jackbot.uk` | No |
@@ -20761,6 +20764,7 @@ Here's a list of public Fediverse services.
 | `kms.onl` | Yes |
 | `kms.social` | Yes |
 | `kmu-angebote.ch` | No |
+| `kmubase.net` | Yes |
 | `kmy.blue` | Yes |
 | `kmyd.moe` | No |
 | `kn-cloud.de` | No |
@@ -24029,7 +24033,7 @@ Here's a list of public Fediverse services.
 | `masatodon.net` | No |
 | `masatoshi-yokota.com` | No |
 | `masawada.me` | No |
-| `masca.li` | No |
+| `masca.li` | Yes |
 | `maschinendeck.org` | No |
 | `mascodon.jp` | No |
 | `masdis.com` | No |
@@ -30046,6 +30050,7 @@ Here's a list of public Fediverse services.
 | `orchard.social` | No |
 | `orchestra.md` | No |
 | `orchid-cottage.uk` | No |
+| `orchids.social` | No |
 | `orctavern.pub` | No |
 | `ord.social` | No |
 | `ordchaos.top` | Yes |
@@ -35624,6 +35629,7 @@ Here's a list of public Fediverse services.
 | `scottsmall.org` | No |
 | `scottstolz.com` | No |
 | `scoutcloud.tk` | No |
+| `scoutingnl.social` | No |
 | `scoutnet.swiss` | No |
 | `scramble.city` | No |
 | `scrapist.xyz` | No |
@@ -35927,6 +35933,7 @@ Here's a list of public Fediverse services.
 | `selfprivacy.org` | Yes |
 | `selfpub.pub` | No |
 | `selfy.army` | No |
+| `seliaste.com` | No |
 | `sellen.net` | No |
 | `selogic.fr` | No |
 | `selq.me` | Yes |
@@ -37233,6 +37240,7 @@ Here's a list of public Fediverse services.
 | `social.photo` | No |
 | `social.saarland` | No |
 | `social.scot` | Yes |
+| `social.vlaanderen` | No |
 | `social7.xyz` | No |
 | `sociala.me` | No |
 | `socialakdeniz.live` | No |
@@ -38278,6 +38286,7 @@ Here's a list of public Fediverse services.
 | `stonebot.io` | Yes |
 | `stonedfounder.com` | No |
 | `stonemonkeyresearch.com` | No |
+| `stoner.cafe` | No |
 | `stoner.town` | No |
 | `stonerclub.tk` | No |
 | `stonerivermountain.com` | No |
@@ -38525,6 +38534,7 @@ Here's a list of public Fediverse services.
 | `subspace.social` | No |
 | `subspacelink.com` | Yes |
 | `substitoot.it` | No |
+| `subsubd.com` | Yes |
 | `subtleaf.social` | Yes |
 | `subtlefuge.com` | No |
 | `subtoot.com` | No |
@@ -39011,6 +39021,7 @@ Here's a list of public Fediverse services.
 | `syuwa.fun` | No |
 | `syvi.net` | No |
 | `syvita.club` | No |
+| `syzito.xyz` | No |
 | `szeged.social` | No |
 | `szilviavirag.com` | No |
 | `szkdon.com` | No |
@@ -39761,6 +39772,7 @@ Here's a list of public Fediverse services.
 | `teslam.in` | Yes |
 | `teslapwners.club` | No |
 | `tespia.org` | Yes |
+| `tess.nz` | No |
 | `tessa.ooo` | Yes |
 | `tessellated.space` | No |
 | `tessellation.space` | Yes |
@@ -41522,6 +41534,7 @@ Here's a list of public Fediverse services.
 | `trizz.io` | Yes |
 | `trm.md` | Yes |
 | `trn.ac` | No |
+| `trn.social` | Yes |
 | `troback.com` | No |
 | `troch.org` | No |
 | `troet.cafe` | No |
@@ -45726,6 +45739,7 @@ Here's a list of public Fediverse services.
 | `zatnosk.dk` | No |
 | `zatta.dev` | No |
 | `zaunspringer.de` | No |
+| `zaveryn.gay` | No |
 | `zazamankh.com` | No |
 | `zb-server.de` | Yes |
 | `zb3.org` | Yes |
@@ -46116,8 +46130,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,461 |
-| Normal | 33,612 |
+| Cloudflare | 12,466 |
+| Normal | 33,621 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
