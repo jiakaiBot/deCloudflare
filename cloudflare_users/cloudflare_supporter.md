@@ -1849,6 +1849,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bokhang86737803@twitter](https://twitter.com/Bokhang86737803/status/1684841511291359232) | advertise |
 | [BoKyaw11177314@twitter](https://twitter.com/BoKyaw11177314/status/1396818938550362119) | advertise |
 | [bokyrangerFD@twitter](https://twitter.com/bokyrangerFD/status/1521424293501972480) | advertise |
+| [BoL15690873@twitter](https://twitter.com/BoL15690873/status/1684877530258644992) | advertise |
 | [Bole43343696@twitter](https://twitter.com/Bole43343696/status/1553438240669323264) | advertise |
 | [BoLinhNguync1@twitter](https://twitter.com/BoLinhNguync1/status/1475740957421150211) | advertise |
 | [BOLL52898482@twitter](https://twitter.com/BOLL52898482/status/1395812015214632960) | advertise |
