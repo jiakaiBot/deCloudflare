@@ -6390,6 +6390,7 @@ Do not create new issue or we will close it as duplicate.
 | [kt94150@twitter](https://twitter.com/kt94150/status/1534798928591302656) | advertise |
 | [KT40199122@twitter](https://twitter.com/KT40199122/status/1404323473300680704) | advertise |
 | [KTS68355553@twitter](https://twitter.com/KTS68355553/status/1390786154723741697) | advertise |
+| [KTZO93@twitter](https://twitter.com/KTZO93/status/1684930241104642048) | advertise |
 | [Ku1234c1@twitter](https://twitter.com/Ku1234c1/status/1591375563872440320) | advertise |
 | [Ku44908237Kumar@twitter](https://twitter.com/Ku44908237Kumar/status/1634203335447175168) | advertise |
 | [KuashikMakavana@twitter](https://twitter.com/KuashikMakavana/status/1388432783110860802) | advertise |
@@ -12154,6 +12155,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThngAnh90026457@twitter](https://twitter.com/ThngAnh90026457/status/1389297361734692865) | advertise |
 | [ThngL24603985@twitter](https://twitter.com/ThngL24603985/status/1559517329939017728) | advertise |
 | [thngngu22608045@twitter](https://twitter.com/thngngu22608045/status/1472219741029044227) | advertise |
+| [ThngPhm75066172@twitter](https://twitter.com/ThngPhm75066172/status/1684950680409124864) | advertise |
 | [ThngPhm85167718@twitter](https://twitter.com/ThngPhm85167718/status/1552739837341356033) | advertise |
 | [ThNguyn25395795@twitter](https://twitter.com/ThNguyn25395795/status/1410728613402472448) | advertise |
 | [Thnh12733398@twitter](https://twitter.com/Thnh12733398/status/1394514924429139969) | advertise |
@@ -12995,6 +12997,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vietosaka1@twitter](https://twitter.com/Vietosaka1/status/1552695794859356160) | advertise |
 | [VietRap1@twitter](https://twitter.com/VietRap1/status/1552580418456944640) | advertise |
 | [vietshin1@twitter](https://twitter.com/vietshin1/status/1530387224453611520) | advertise |
+| [VietTra77538392@twitter](https://twitter.com/VietTra77538392/status/1684949410961326082) | advertise |
 | [viet_baby@twitter](https://twitter.com/viet_baby/status/1404265368147808256) | advertise |
 | [viet_doan96@twitter](https://twitter.com/viet_doan96/status/1396169993948057601) | advertise |
 | [Viet_N_T@twitter](https://twitter.com/Viet_N_T/status/1581893934070235136) | advertise |
