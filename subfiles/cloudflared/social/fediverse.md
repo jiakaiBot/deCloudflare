@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,011 |
+| com | 7,012 |
 | social | 4,403 |
-| net | 3,585 |
+| net | 3,587 |
 | org | 2,412 |
 | de | 2,230 |
 
@@ -352,6 +352,7 @@ Here's a list of public Fediverse services.
 | `2demo.top` | No |
 | `2dev.de` | No |
 | `2dx.red` | No |
+| `2enp.cc` | Yes |
 | `2enp.com` | No |
 | `2heng.xin` | Yes |
 | `2hu-ch.org` | No |
@@ -6296,6 +6297,7 @@ Here's a list of public Fediverse services.
 | `centiworks.com` | Yes |
 | `centossrv.com` | No |
 | `centreforthestudyof.net` | No |
+| `ceox.dev` | Yes |
 | `cephalopod.space` | No |
 | `cepharum.social` | No |
 | `ceramicadelpez.edu.uy` | No |
@@ -12599,6 +12601,7 @@ Here's a list of public Fediverse services.
 | `fedinauten.social` | No |
 | `fedinerds.net` | Yes |
 | `fedinet.de` | No |
+| `fedinews.net` | Yes |
 | `fedinews.org` | Yes |
 | `fedinoc.de` | No |
 | `fedipen.xyz` | Yes |
@@ -15602,6 +15605,7 @@ Here's a list of public Fediverse services.
 | `grenland.social` | No |
 | `grep.sh` | Yes |
 | `gresille.org` | No |
+| `gress.space` | No |
 | `gretagangbang.biz` | No |
 | `gretaoto.ca` | No |
 | `grevenbroich.social` | No |
@@ -17927,6 +17931,7 @@ Here's a list of public Fediverse services.
 | `imposible.blog` | No |
 | `impossiblepeople.co.kr` | No |
 | `impostersyndrome.online` | No |
+| `impreg.net` | No |
 | `improv.social` | No |
 | `improved-madness.de` | No |
 | `imreh.net` | Yes |
@@ -39788,6 +39793,7 @@ Here's a list of public Fediverse services.
 | `testimonia.org` | No |
 | `testingtesting123.xyz` | No |
 | `testitfor.me` | No |
+| `testitquickly.com` | No |
 | `testmobo.com` | No |
 | `testsrv.de` | Yes |
 | `tet42.org` | Yes |
@@ -46130,8 +46136,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,466 |
-| Normal | 33,621 |
+| Cloudflare | 12,469 |
+| Normal | 33,624 |
 
 
-### 27% of public Fediverse services are using Cloudflare.
+### 27.1% of public Fediverse services are using Cloudflare.
