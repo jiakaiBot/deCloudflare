@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,004 |
+| com | 7,007 |
 | social | 4,397 |
 | net | 3,583 |
 | org | 2,410 |
@@ -4769,6 +4769,7 @@ Here's a list of public Fediverse services.
 | `blueline.mg` | No |
 | `bluelupine.social` | No |
 | `bluem.io` | Yes |
+| `bluemarch.art` | No |
 | `bluemchenbuch.de` | No |
 | `bluemedia.dev` | Yes |
 | `bluenoser.me` | No |
@@ -5267,6 +5268,7 @@ Here's a list of public Fediverse services.
 | `brendo.org` | Yes |
 | `brennanbenkert.com` | No |
 | `brennand.net` | No |
+| `brennoflavio.com.br` | No |
 | `brentjanderson.com` | Yes |
 | `brentsch.com` | Yes |
 | `bres.cat` | No |
@@ -6553,6 +6555,7 @@ Here's a list of public Fediverse services.
 | `cherokeesofidaho.org` | No |
 | `cherryberry.pink` | No |
 | `cherrykitten.dev` | No |
+| `cherrykitten.gay` | No |
 | `cheshire.io` | No |
 | `chester.id.au` | Yes |
 | `chesters.xyz` | Yes |
@@ -11486,6 +11489,7 @@ Here's a list of public Fediverse services.
 | `ennui.page` | Yes |
 | `ennui.ws` | No |
 | `enoent.one` | No |
+| `enoki.tech` | No |
 | `enoughisenough14.org` | No |
 | `enovale.com` | Yes |
 | `enquequedo.org` | No |
@@ -13139,6 +13143,7 @@ Here's a list of public Fediverse services.
 | `flauschke.de` | No |
 | `flauschsystem.space` | No |
 | `flavigula.net` | No |
+| `flavoursofopen.science` | No |
 | `flawbee.net` | Yes |
 | `flaximus.net` | No |
 | `flay.gay` | No |
@@ -21947,6 +21952,7 @@ Here's a list of public Fediverse services.
 | `lemee.co` | No |
 | `lemel.cc` | No |
 | `lemider.me` | No |
+| `leminal.space` | Yes |
 | `lemist.de` | No |
 | `lemiverse.xyz` | Yes |
 | `lemm.ee` | Yes |
@@ -25075,7 +25081,7 @@ Here's a list of public Fediverse services.
 | `meis.space` | No |
 | `meissa-gmbh.de` | No |
 | `meissa.cf` | No |
-| `meisskey.blue` | No |
+| `meisskey.blue` | Yes |
 | `meisskey.one` | Yes |
 | `meissners.me` | No |
 | `meitendo.space` | No |
@@ -29602,6 +29608,7 @@ Here's a list of public Fediverse services.
 | `oktadev.dev` | No |
 | `okteto.net` | Yes |
 | `okumin.com` | No |
+| `ol-tele.com` | No |
 | `ol2ol.com` | No |
 | `ola.lol` | No |
 | `olching.social` | No |
@@ -34905,6 +34912,7 @@ Here's a list of public Fediverse services.
 | `s1gm4.eu` | No |
 | `s1i.dev` | No |
 | `s1ttidoe.com.tw` | No |
+| `s2-tastewp.com` | Yes |
 | `s25.pl` | No |
 | `s2s.video` | No |
 | `s3lph.me` | No |
@@ -39836,6 +39844,7 @@ Here's a list of public Fediverse services.
 | `thatcat.space` | Yes |
 | `thatismunn.my.id` | Yes |
 | `thatother.site` | No |
+| `thatpanda.com` | No |
 | `thatsaspork.tk` | No |
 | `thatsit.social` | No |
 | `thatsocial.site` | No |
@@ -46096,8 +46105,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,448 |
-| Normal | 33,605 |
+| Cloudflare | 12,451 |
+| Normal | 33,611 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
