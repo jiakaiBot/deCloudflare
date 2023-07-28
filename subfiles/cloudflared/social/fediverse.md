@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,007 |
-| social | 4,397 |
+| com | 7,008 |
+| social | 4,398 |
 | net | 3,583 |
-| org | 2,410 |
+| org | 2,411 |
 | de | 2,230 |
 
 
@@ -5435,6 +5435,7 @@ Here's a list of public Fediverse services.
 | `bsd.social` | No |
 | `bsdnode.xyz` | No |
 | `bsg75.app` | No |
+| `bskey.social` | Yes |
 | `bsky.business` | No |
 | `bslounge.com` | No |
 | `bsmhome.de` | No |
@@ -22947,7 +22948,7 @@ Here's a list of public Fediverse services.
 | `loren.pics` | No |
 | `lorenzana.social` | No |
 | `lorenzi.one` | Yes |
-| `lorenzoancora.info` | No |
+| `lorenzoancora.info` | Yes |
 | `loria.fr` | No |
 | `losangeles.social` | No |
 | `loschinski.net` | No |
@@ -44902,6 +44903,7 @@ Here's a list of public Fediverse services.
 | `xmu.social` | No |
 | `xmz.io` | No |
 | `xn-------53dcabaemhlokt8dikho3a0dk7a3n2ctak.xn--p1ai` | No |
+| `xn--08j2a8s0b5d8jq891d.com` | Yes |
 | `xn--0n8ha.ws` | No |
 | `xn--1g8h.fm` | No |
 | `xn--24-6kca3bmfgm.xn--p1ai` | No |
@@ -45834,6 +45836,7 @@ Here's a list of public Fediverse services.
 | `zesummen.online` | No |
 | `zetamu.club` | No |
 | `zetamu.love` | No |
+| `zetaspace.org` | Yes |
 | `zetawing.com` | No |
 | `zete.tk` | No |
 | `zeteo.me` | No |
@@ -46105,8 +46108,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,451 |
-| Normal | 33,611 |
+| Cloudflare | 12,455 |
+| Normal | 33,610 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
