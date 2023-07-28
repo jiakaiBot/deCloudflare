@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [failed to register Get route for /:path pattern: insertion failed due to conflict with previously registered route: //'](https://github.com/ibraheemdev/matchit/issues/33)
 - [Cloudflare Turnstile solver giving ERROR_BAD_PARAMETERS](https://github.com/2captcha/2captcha-python/issues/60)
 - [Confirm Upload may fail due different s3 bucket configuration](https://github.com/gio-shara-code/upload-wizard/issues/12)
 - [List boorus sorted by the percentage of images containing a given tag](https://github.com/CuddleBear92/Hydrus-Presets-and-Scripts/issues/150)
