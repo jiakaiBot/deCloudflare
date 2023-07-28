@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,003 |
+| com | 7,004 |
 | social | 4,397 |
-| net | 3,582 |
+| net | 3,583 |
 | org | 2,410 |
 | de | 2,230 |
 
@@ -1117,6 +1117,7 @@ Here's a list of public Fediverse services.
 | `adnan.network` | No |
 | `adney.land` | No |
 | `adoggo.org` | Yes |
+| `adolfritos.es` | No |
 | `adoma.in` | No |
 | `adoptodon.party` | No |
 | `adorable.space` | No |
@@ -4015,6 +4016,7 @@ Here's a list of public Fediverse services.
 | `benno-dielmann.de` | No |
 | `bennusekabel.com` | No |
 | `benny.de` | No |
+| `bennybenny.uk` | Yes |
 | `bennyp.org` | No |
 | `bennypowers.dev` | No |
 | `benoit-alessandroni.fr` | No |
@@ -18402,6 +18404,7 @@ Here's a list of public Fediverse services.
 | `iqhina.org` | No |
 | `ir0k.de` | No |
 | `ir1s.com` | Yes |
+| `ir31.com` | Yes |
 | `ir5.eu` | No |
 | `iraqtimes.net` | No |
 | `ircta.lk` | Yes |
@@ -28709,7 +28712,7 @@ Here's a list of public Fediverse services.
 | `nomorecubes.net` | No |
 | `nomoresha.me` | Yes |
 | `nomya.net` | No |
-| `non-abelian.space` | No |
+| `non-abelian.space` | Yes |
 | `non-designer.studio` | Yes |
 | `non-euclidean.space` | No |
 | `nona.li` | No |
@@ -28983,6 +28986,7 @@ Here's a list of public Fediverse services.
 | `noxexcelsis.online` | No |
 | `noxie.ch` | No |
 | `noxon.cc` | No |
+| `noyaskey.net` | Yes |
 | `noyer.app` | Yes |
 | `noyu.me` | No |
 | `noyuno.space` | No |
@@ -30374,6 +30378,7 @@ Here's a list of public Fediverse services.
 | `ownbox.be` | No |
 | `owncast.online` | Yes |
 | `owncast.tv` | No |
+| `owncube.cloud` | No |
 | `owncube.com` | No |
 | `owngrid.io` | No |
 | `ownify.in` | No |
@@ -46091,8 +46096,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,444 |
-| Normal | 33,604 |
+| Cloudflare | 12,448 |
+| Normal | 33,605 |
 
 
 ### 27% of public Fediverse services are using Cloudflare.
