@@ -84,13 +84,12 @@ Here's a list of public Matrix services.
 | matrix.noevil.pl | No |
 | nope.chat | No |
 | matrix.norge.chat | Yes |
-| obco.pro | Yes |
+| hs.obco.pro | Yes |
 | oikei.net | No |
 | matrix.ombreport.info | No |
 | pcriot.org | Yes |
 | matrix.perthchat.org | Yes |
 | matrix.pikaviestin.fi | No |
-| matrix.plus.st | No |
 | possum.city | Yes |
 | pragma-messenger.ch | No |
 | www.privacytools.io | Yes |
@@ -100,6 +99,7 @@ Here's a list of public Matrix services.
 | riotchat.de | Yes |
 | ru-matrix.org | No |
 | sans-nuage.fr | No |
+| matrix.sibnsk.net | No |
 | socialnetwork24.com | No |
 | matrix.studichat.de | No |
 | synod.im | No |
