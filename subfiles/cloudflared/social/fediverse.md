@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,015 |
+| com | 7,017 |
 | social | 4,406 |
 | net | 3,588 |
 | org | 2,413 |
-| de | 2,231 |
+| de | 2,230 |
 
 
 - Mastodon, Pleroma, etc
@@ -1656,6 +1656,7 @@ Here's a list of public Fediverse services.
 | `allgamers.net` | Yes |
 | `allgamerstalk.com` | Yes |
 | `allgays.xyz` | No |
+| `alliec.at` | No |
 | `alliepa.ca` | No |
 | `allison.social` | No |
 | `allistodon.xyz` | No |
@@ -6090,6 +6091,7 @@ Here's a list of public Fediverse services.
 | `catacombs.xyz` | No |
 | `catala.digital` | No |
 | `catalunya.social` | No |
+| `catata.fish` | No |
 | `catatec.ch` | No |
 | `catbl.ink` | Yes |
 | `catboi.party` | No |
@@ -7396,7 +7398,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -23338,6 +23340,7 @@ Here's a list of public Fediverse services.
 | `lyingvoid.social` | No |
 | `lyk.pw` | Yes |
 | `lyker.jp` | Yes |
+| `lylapol.com` | Yes |
 | `lynessence.me` | No |
 | `lyng.space` | No |
 | `lynham.xyz` | No |
@@ -27301,7 +27304,6 @@ Here's a list of public Fediverse services.
 | `myprivatecloud.uk` | No |
 | `myprostatecancerjourney.us` | No |
 | `mypsx.net` | No |
-| `myrealm.de` | No |
 | `myriad.domains` | No |
 | `myriad.social` | Yes |
 | `myrica.cloud` | No |
@@ -30712,6 +30714,7 @@ Here's a list of public Fediverse services.
 | `parfaitement.social` | No |
 | `pari.cafe` | Yes |
 | `parigotmanchot.fr` | No |
+| `paring.moe` | Yes |
 | `parinux.org` | No |
 | `parise.space` | No |
 | `pariserstr.de` | No |
@@ -35253,6 +35256,7 @@ Here's a list of public Fediverse services.
 | `santry.us` | No |
 | `santsenques.cat` | No |
 | `sanwe.xyz` | No |
+| `sanwon.kr` | No |
 | `saoirse.zone` | No |
 | `saovq.de` | Yes |
 | `sapara.com` | No |
@@ -42628,6 +42632,7 @@ Here's a list of public Fediverse services.
 | `urusai.social` | No |
 | `urvogel.club` | Yes |
 | `uryokurin.net` | Yes |
+| `urzlab.com` | No |
 | `us.dev` | No |
 | `us.to` | Yes |
 | `us.tv` | No |
@@ -46162,8 +46167,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,482 |
-| Normal | 33,637 |
+| Cloudflare | 12,485 |
+| Normal | 33,639 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
