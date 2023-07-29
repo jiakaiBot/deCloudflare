@@ -27101,7 +27101,7 @@ Here's a list of public Fediverse services.
 | `musktodon.de` | Yes |
 | `muslims.net.in` | No |
 | `muso.social` | No |
-| `musson.uk` | No |
+| `musson.uk` | Yes |
 | `must.beer` | No |
 | `mustam.in` | Yes |
 | `mustard.blog` | Yes |
@@ -43671,6 +43671,7 @@ Here's a list of public Fediverse services.
 | `wandering.one` | No |
 | `wandering.shop` | No |
 | `wanderingjon.com` | Yes |
+| `wanderingwires.xyz` | No |
 | `wandern.social` | No |
 | `wanderview.com` | Yes |
 | `wandzeitung.xyz` | No |
@@ -46171,7 +46172,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,486 |
+| Cloudflare | 12,487 |
 | Normal | 33,642 |
 
 
