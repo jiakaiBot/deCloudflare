@@ -6531,6 +6531,7 @@ Do not create new issue or we will close it as duplicate.
 | [KyawThu75991234@twitter](https://twitter.com/KyawThu75991234/status/1392758204107354113) | advertise |
 | [KyawThu95641524@twitter](https://twitter.com/KyawThu95641524/status/1391304600511254534) | advertise |
 | [KyawtKy14713292@twitter](https://twitter.com/KyawtKy14713292/status/1392647851360985092) | advertise |
+| [KyawW37398@twitter](https://twitter.com/KyawW37398/status/1685309776669155329) | advertise |
 | [kyawwaiyanlatt@twitter](https://twitter.com/kyawwaiyanlatt/status/1380381835994095617) | advertise |
 | [KyawWinHan14@twitter](https://twitter.com/KyawWinHan14/status/1394667165228224530) | advertise |
 | [KyawYAung2@twitter](https://twitter.com/KyawYAung2/status/1571724092243582976) | advertise |
