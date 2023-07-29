@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,018 |
+| com | 7,019 |
 | social | 4,406 |
 | net | 3,588 |
 | org | 2,413 |
@@ -11634,6 +11634,7 @@ Here's a list of public Fediverse services.
 | `erenlevi.club` | No |
 | `erenoa.com` | No |
 | `erginn.com` | No |
+| `ergosteur.com` | Yes |
 | `eri.city` | Yes |
 | `eri.cx` | No |
 | `eric.blog` | No |
@@ -46170,7 +46171,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,485 |
+| Cloudflare | 12,486 |
 | Normal | 33,642 |
 
 
