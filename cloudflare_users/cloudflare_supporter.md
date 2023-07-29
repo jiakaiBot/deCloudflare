@@ -4722,6 +4722,7 @@ Do not create new issue or we will close it as duplicate.
 | [htey_lynn@twitter](https://twitter.com/htey_lynn/status/1505826670405566465) | advertise |
 | [HtikeRubby@twitter](https://twitter.com/HtikeRubby/status/1390088167517155328) | advertise |
 | [htinaungoo@twitter](https://twitter.com/htinaungoo/status/1392475019016605700) | advertise |
+| [HtinLin60133006@twitter](https://twitter.com/HtinLin60133006/status/1685178686340055040) | advertise |
 | [HtinSat@twitter](https://twitter.com/HtinSat/status/1401776465486639110) | advertise |
 | [HTiu65059436@twitter](https://twitter.com/HTiu65059436/status/1394659574146211842) | advertise |
 | [HtoeLay@twitter](https://twitter.com/HtoeLay/status/1394089122541703168) | advertise |
@@ -9030,6 +9031,7 @@ Do not create new issue or we will close it as duplicate.
 | [Note42243223@twitter](https://twitter.com/Note42243223/status/1389304584317845504) | advertise |
 | [nothing53612785@twitter](https://twitter.com/nothing53612785/status/1613127329873633280) | advertise |
 | [nothingbreaks23@twitter](https://twitter.com/nothingbreaks23/status/1408086476252925953) | advertise |
+| [nothing_8839@twitter](https://twitter.com/nothing_8839/status/1685183080422899712) | advertise |
 | [notice_com_ng@twitter](https://twitter.com/notice_com_ng/status/1489583630267654145) | advertise |
 | [NOTICIAHOY5@twitter](https://twitter.com/NOTICIAHOY5/status/1543302026754461698) | advertise |
 | [notifil@twitter](https://twitter.com/notifil/status/1499122092578639884) | advertise |
