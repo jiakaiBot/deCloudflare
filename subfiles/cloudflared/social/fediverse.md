@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,019 |
-| social | 4,406 |
+| com | 7,020 |
+| social | 4,408 |
 | net | 3,588 |
 | org | 2,413 |
 | de | 2,230 |
@@ -788,6 +788,7 @@ Here's a list of public Fediverse services.
 | `aachen.social` | Yes |
 | `aadils.computer` | No |
 | `aadtp.be` | No |
+| `aagaming.me` | Yes |
 | `aaio.eu` | Yes |
 | `aamjanata.com` | No |
 | `aana.site` | No |
@@ -2573,6 +2574,7 @@ Here's a list of public Fediverse services.
 | `arianelazaga.tk` | No |
 | `aridgwayweb.com` | No |
 | `ariela.jp` | Yes |
+| `arielbecker.com` | No |
 | `arielfinn.social` | No |
 | `arihi.me` | No |
 | `arinbasu.online` | No |
@@ -6045,6 +6047,7 @@ Here's a list of public Fediverse services.
 | `casavant.org` | No |
 | `cascade.moe` | Yes |
 | `cascadia.chat` | No |
+| `cascadia.fun` | Yes |
 | `cascadia.games` | No |
 | `cascadia.news` | Yes |
 | `cascadia.social` | Yes |
@@ -9451,6 +9454,7 @@ Here's a list of public Fediverse services.
 | `desde.eu` | No |
 | `desdelamina.net` | No |
 | `desertpeach.games` | Yes |
+| `desertviews.us` | No |
 | `design.systems` | Yes |
 | `design.theater` | No |
 | `design.vu` | No |
@@ -22170,6 +22174,7 @@ Here's a list of public Fediverse services.
 | `lestutosdeprocessus.fr` | Yes |
 | `let-it-sli.de` | No |
 | `letallmortalfleshfindtheirvoice.social` | No |
+| `letemps.social` | No |
 | `lethallava.land` | No |
 | `lethani.ch` | No |
 | `lethar.gy` | No |
@@ -23083,6 +23088,7 @@ Here's a list of public Fediverse services.
 | `lowbaud.io` | Yes |
 | `lowficarrots.wiki` | No |
 | `lowkey.party` | No |
+| `lowkey.zone` | No |
 | `lowlab.social` | No |
 | `lowlevel.ca` | No |
 | `lowol.org` | No |
@@ -29308,6 +29314,7 @@ Here's a list of public Fediverse services.
 | `nyquist.space` | No |
 | `nyro2.com` | Yes |
 | `nytpu.com` | No |
+| `nyu.moe` | Yes |
 | `nyveir.fr` | No |
 | `nyxus.xyz` | No |
 | `nz.contact` | Yes |
@@ -36688,6 +36695,7 @@ Here's a list of public Fediverse services.
 | `sinkie.online` | No |
 | `sinkuu.xyz` | No |
 | `sinmordaza.space` | No |
+| `sinned.moe` | Yes |
 | `sinnesro.se` | No |
 | `sinofool.net` | Yes |
 | `sinon.gg` | Yes |
@@ -37663,6 +37671,7 @@ Here's a list of public Fediverse services.
 | `spacie.fr` | No |
 | `spad.uk` | Yes |
 | `spaekhugger.de` | No |
+| `spaeth.social` | No |
 | `spaetzle.info` | No |
 | `spaghettimonster.church` | No |
 | `spaill.net` | Yes |
@@ -39220,6 +39229,7 @@ Here's a list of public Fediverse services.
 | `talesofmy.life` | No |
 | `talesofterror.eu` | No |
 | `talilah.de` | No |
+| `talipallopeli.club` | No |
 | `talk-here.com` | No |
 | `talk.coffee` | No |
 | `talk2machines.tech` | Yes |
@@ -43056,6 +43066,7 @@ Here's a list of public Fediverse services.
 | `vffsm.de` | No |
 | `vforge.social` | No |
 | `vfpmedia.com` | No |
+| `vfsh.us` | Yes |
 | `vfx.social` | No |
 | `vgai.de` | No |
 | `vgc.social` | No |
@@ -46176,8 +46187,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,490 |
-| Normal | 33,643 |
+| Cloudflare | 12,495 |
+| Normal | 33,649 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
