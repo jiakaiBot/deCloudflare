@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,017 |
+| com | 7,018 |
 | social | 4,406 |
 | net | 3,588 |
 | org | 2,413 |
@@ -13136,6 +13136,7 @@ Here's a list of public Fediverse services.
 | `flashz.directory` | No |
 | `flastodon.social` | No |
 | `flat.place` | Yes |
+| `flatage.com` | No |
 | `flatearth.group` | No |
 | `flatland.town` | No |
 | `flatlander.social` | Yes |
@@ -22269,7 +22270,7 @@ Here's a list of public Fediverse services.
 | `lhrtunnel.link` | No |
 | `lhub.pl` | No |
 | `lhub.social` | No |
-| `lhyz.fun` | Yes |
+| `lhyz.fun` | No |
 | `li212.fr` | No |
 | `li7g.com` | Yes |
 | `lia.fail` | No |
@@ -23132,6 +23133,7 @@ Here's a list of public Fediverse services.
 | `ltl96.com` | Yes |
 | `ltoi.net` | No |
 | `ltratcliff.com` | No |
+| `ltt.jp` | No |
 | `lttl.one` | Yes |
 | `ltu.social` | No |
 | `lty.name` | Yes |
@@ -36214,6 +36216,7 @@ Here's a list of public Fediverse services.
 | `shark.moe` | No |
 | `sharking.com` | Yes |
 | `sharktale.xyz` | Yes |
+| `sharlayan.city` | Yes |
 | `sharlayan.in` | No |
 | `sharlayan.me` | No |
 | `sharma.io` | No |
@@ -46168,7 +46171,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,485 |
-| Normal | 33,639 |
+| Normal | 33,642 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
