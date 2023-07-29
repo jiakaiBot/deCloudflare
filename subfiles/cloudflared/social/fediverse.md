@@ -31421,6 +31421,7 @@ Here's a list of public Fediverse services.
 | `pikokr.dev` | Yes |
 | `pikopiko.party` | No |
 | `pikopublishing.page` | No |
+| `piku.one` | No |
 | `pilch.me` | No |
 | `pilgerweg-21.de` | No |
 | `piligrim.ml` | Yes |
@@ -46142,7 +46143,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,471 |
-| Normal | 33,627 |
+| Normal | 33,628 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
