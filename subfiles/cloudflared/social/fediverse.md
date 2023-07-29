@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,012 |
-| social | 4,403 |
+| social | 4,404 |
 | net | 3,587 |
 | org | 2,412 |
 | de | 2,230 |
@@ -19754,6 +19754,7 @@ Here's a list of public Fediverse services.
 | `jvol.wtf` | No |
 | `jvpiter.net` | No |
 | `jvt.me` | No |
+| `jvyden.xyz` | Yes |
 | `jw.be` | No |
 | `jxm.ca` | No |
 | `jxmsocial.xyz` | No |
@@ -22031,7 +22032,7 @@ Here's a list of public Fediverse services.
 | `lemmy.wtf` | Yes |
 | `lemmy.zip` | Yes |
 | `lemmy.zone` | Yes |
-| `lemmyadmin.site` | No |
+| `lemmyadmin.site` | Yes |
 | `lemmydeals.com` | No |
 | `lemmyf.uk` | Yes |
 | `lemmyfi.com` | No |
@@ -25117,6 +25118,7 @@ Here's a list of public Fediverse services.
 | `melin.org` | Yes |
 | `meliora.family` | No |
 | `mell0w-5phere.net` | No |
+| `melle.social` | No |
 | `mellem.space` | No |
 | `mellified.men` | No |
 | `mellitopia.org` | No |
@@ -40681,6 +40683,7 @@ Here's a list of public Fediverse services.
 | `timsherratt.org` | No |
 | `timshomepage.net` | No |
 | `timstallard.me.uk` | No |
+| `timstrutzi.at` | No |
 | `timtin.digital` | No |
 | `timttmy.co.uk` | No |
 | `timwaterhouse.com` | No |
@@ -46138,8 +46141,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,469 |
-| Normal | 33,626 |
+| Cloudflare | 12,471 |
+| Normal | 33,627 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
