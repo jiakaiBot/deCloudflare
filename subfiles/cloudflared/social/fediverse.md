@@ -45533,6 +45533,7 @@ Here's a list of public Fediverse services.
 | `ytopia.xyz` | No |
 | `ytpmv.info` | Yes |
 | `ytringsrett.net` | No |
+| `yttrium.io` | No |
 | `yttrx.com` | Yes |
 | `yu10g.com` | No |
 | `yuangezhizao.cn` | Yes |
@@ -46143,7 +46144,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,471 |
-| Normal | 33,628 |
+| Normal | 33,629 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
