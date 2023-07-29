@@ -13040,6 +13040,7 @@ Do not create new issue or we will close it as duplicate.
 | [vipibox@twitter](https://twitter.com/vipibox/status/1570101058587987968) | advertise |
 | [vip__Lyahody@twitter](https://twitter.com/vip__Lyahody/status/1613997413517393921) | advertise |
 | [VirgilShelton@twitter](https://twitter.com/VirgilShelton/status/1409998073040756738) | moral (advertise) |
+| [virotoovox@twitter](https://twitter.com/virotoovox/status/1685257750215790593) | advertise |
 | [virtualtwit@twitter](https://twitter.com/virtualtwit/status/1532222794020581376) | advertise |
 | [Virus49868336@twitter](https://twitter.com/Virus49868336/status/1394191569666723840) | advertise |
 | [VishalB67584671@twitter](https://twitter.com/VishalB67584671/status/1398920445437505542) | advertise |
