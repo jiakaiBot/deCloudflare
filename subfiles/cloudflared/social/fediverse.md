@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,014 |
-| social | 4,405 |
+| com | 7,015 |
+| social | 4,406 |
 | net | 3,588 |
 | org | 2,413 |
 | de | 2,231 |
@@ -28384,6 +28384,7 @@ Here's a list of public Fediverse services.
 | `nikhiljha.com` | Yes |
 | `nikhiltrivedi.com` | No |
 | `nikisoft.one` | Yes |
+| `nikkasystems.com` | Yes |
 | `nikkel.xyz` | Yes |
 | `nikkisocial.com` | No |
 | `niklas-meinzer.de` | No |
@@ -33070,6 +33071,7 @@ Here's a list of public Fediverse services.
 | `quornichon.org` | No |
 | `quotidianthings.com` | No |
 | `quotient.space` | No |
+| `quoup.xyz` | No |
 | `qupzilla.com` | No |
 | `qute.dog` | No |
 | `qutic.com` | No |
@@ -34277,6 +34279,7 @@ Here's a list of public Fediverse services.
 | `rivals.live` | No |
 | `rivals.space` | Yes |
 | `rivendell.cafe` | No |
+| `riverina.live` | No |
 | `riverscape.info` | No |
 | `riverside.camp` | No |
 | `riverside.rocks` | Yes |
@@ -42132,6 +42135,7 @@ Here's a list of public Fediverse services.
 | `uchun.net` | Yes |
 | `uckermark-blog.de` | No |
 | `uckermark.social` | No |
+| `ucn.social` | No |
 | `ucode.space` | Yes |
 | `ucy.de` | No |
 | `uczymyjak.pl` | Yes |
@@ -46158,8 +46162,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,481 |
-| Normal | 33,634 |
+| Cloudflare | 12,482 |
+| Normal | 33,637 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
