@@ -2411,6 +2411,7 @@ Do not create new issue or we will close it as duplicate.
 | [Conel19343514@twitter](https://twitter.com/Conel19343514/status/1621071012761849856) | advertise |
 | [cong242000@twitter](https://twitter.com/cong242000/status/1383487920498040838) | advertise |
 | [Conganh78457546@twitter](https://twitter.com/Conganh78457546/status/1497191208829227008) | advertise |
+| [congminh2508@twitter](https://twitter.com/congminh2508/status/1685324914746945536) | advertise |
 | [congpop1@twitter](https://twitter.com/congpop1/status/1620338134864244737) | advertise |
 | [Congtru16@twitter](https://twitter.com/Congtru16/status/1403711950945587200) | advertise |
 | [congtytongluc@twitter](https://twitter.com/congtytongluc/status/1501822389621264385) | advertise |
@@ -11755,6 +11756,7 @@ Do not create new issue or we will close it as duplicate.
 | [tCuongt4@twitter](https://twitter.com/tCuongt4/status/1627130789413687297) | advertise |
 | [tdahao241@twitter](https://twitter.com/tdahao241/status/1398680889601581057) | advertise |
 | [tdat868@twitter](https://twitter.com/tdat868/status/1396835443618897922) | advertise |
+| [TDC2104@twitter](https://twitter.com/TDC2104/status/1685343602111905792) | advertise |
 | [tdoongie_tw@twitter](https://twitter.com/tdoongie_tw/status/1505128403728728064) | advertise |
 | [Team98750688@twitter](https://twitter.com/Team98750688/status/1385933279514173448) | advertise |
 | [TeamAZSoftware@twitter](https://twitter.com/TeamAZSoftware/status/1455916086197727233) | advertise |
@@ -12612,6 +12614,7 @@ Do not create new issue or we will close it as duplicate.
 | [trongva00011729@twitter](https://twitter.com/trongva00011729/status/1547917887691964416) | advertise |
 | [TrpFrog@twitter](https://twitter.com/TrpFrog/status/1669761867072548864) | advertise |
 | [truaxera27@twitter](https://twitter.com/truaxera27/status/1673042372630835200) | advertise |
+| [truc25031995@twitter](https://twitter.com/truc25031995/status/1685342079420153856) | advertise |
 | [TrucMaiNguyen6@twitter](https://twitter.com/TrucMaiNguyen6/status/1541933825693196288) | advertise |
 | [TrueStrike2@twitter](https://twitter.com/TrueStrike2/status/1396387242214559744) | advertise |
 | [truewu@twitter](https://twitter.com/truewu/status/1496862998136197127) | advertise |
