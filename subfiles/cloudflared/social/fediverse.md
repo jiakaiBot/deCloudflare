@@ -509,6 +509,7 @@ Here's a list of public Fediverse services.
 | `4aem.com` | No |
 | `4af.eu` | No |
 | `4bear.com` | No |
+| `4best.eu` | Yes |
 | `4com.jp` | No |
 | `4d2.org` | No |
 | `4estate.media` | No |
@@ -7620,6 +7621,7 @@ Here's a list of public Fediverse services.
 | `contra-bit.com` | No |
 | `contrapointsfan.club` | No |
 | `contratv.xyz` | No |
+| `contref.eu` | No |
 | `contrib.social` | No |
 | `control9.dev` | No |
 | `controlfreak.live` | No |
@@ -18709,6 +18711,7 @@ Here's a list of public Fediverse services.
 | `ix.ai` | Yes |
 | `ix.is` | Yes |
 | `ix.md` | Yes |
+| `ix.uy` | No |
 | `ixcat.fr` | No |
 | `ixda.org` | Yes |
 | `ixiaochuan.cn` | No |
@@ -31216,6 +31219,7 @@ Here's a list of public Fediverse services.
 | `pfadi.social` | No |
 | `pfaff.dev` | No |
 | `pfalz.social` | Yes |
+| `pfcd.me` | Yes |
 | `pfefferle.org` | No |
 | `pfeffernimz.de` | No |
 | `pfeifer.dev` | Yes |
@@ -32975,6 +32979,7 @@ Here's a list of public Fediverse services.
 | `queer.af` | No |
 | `queer.chat` | No |
 | `queer.cloud` | No |
+| `queer.computer` | No |
 | `queer.dev` | No |
 | `queer.farm` | No |
 | `queer.garden` | No |
@@ -33893,6 +33898,7 @@ Here's a list of public Fediverse services.
 | `remilia.world` | No |
 | `remnant.social` | No |
 | `remnantrisingnow.com` | No |
+| `remo.pro` | Yes |
 | `remolino.town` | No |
 | `remond.im` | Yes |
 | `remorse.us` | No |
@@ -34572,6 +34578,7 @@ Here's a list of public Fediverse services.
 | `rootaccess.org` | No |
 | `rootdc.xyz` | No |
 | `rooted.host` | No |
+| `rooted.recipes` | No |
 | `rootfs.eu` | No |
 | `roothell.org` | Yes |
 | `rooting.garden` | No |
@@ -46187,8 +46194,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,495 |
-| Normal | 33,649 |
+| Cloudflare | 12,498 |
+| Normal | 33,653 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
