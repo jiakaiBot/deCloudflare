@@ -128,6 +128,7 @@ Do not create new issue or we will close it as duplicate.
 | [16thxxxxx@twitter](https://twitter.com/16thxxxxx/status/1517814105855475712) | advertise |
 | [16_kyaw@twitter](https://twitter.com/16_kyaw/status/1393511123639439365) | advertise |
 | [18kilihjl@twitter](https://twitter.com/18kilihjl/status/1553835202564087809) | advertise |
+| [19bunmam@twitter](https://twitter.com/19bunmam/status/1685202130616082432) | advertise |
 | [19Naywinaung1@twitter](https://twitter.com/19Naywinaung1/status/1404472645710540803) | advertise |
 | [23gundem@twitter](https://twitter.com/23gundem/status/1601520818466717696) | advertise |
 | [27Muaon@twitter](https://twitter.com/27Muaon/status/1391459657881772032) | advertise |
@@ -632,6 +633,7 @@ Do not create new issue or we will close it as duplicate.
 | [aliasger32raj@twitter](https://twitter.com/aliasger32raj/status/1391608805218144260) | advertise |
 | [AliasQarrezai@twitter](https://twitter.com/AliasQarrezai/status/1576464746567434240) | advertise |
 | [AliBlackEyes@twitter](https://twitter.com/AliBlackEyes/status/1386036424051331072) | advertise |
+| [aliboom20@twitter](https://twitter.com/aliboom20/status/1685256331807322114) | advertise |
 | [AliceTan79@twitter](https://twitter.com/AliceTan79/status/1392949021661007872) | advertise |
 | [AliFcb21@twitter](https://twitter.com/AliFcb21/status/1568562935999463428) | advertise |
 | [AlifIsamuddin@twitter](https://twitter.com/AlifIsamuddin/status/1522192276067590144) | advertise |
@@ -3400,6 +3402,7 @@ Do not create new issue or we will close it as duplicate.
 | [Erics87402408@twitter](https://twitter.com/Erics87402408/status/1537793280657989633) | advertise |
 | [EricWarnasch2@twitter](https://twitter.com/EricWarnasch2/status/1501394632424534018) | advertise |
 | [erigomwsn@twitter](https://twitter.com/erigomwsn/status/1393026360788938752) | advertise |
+| [EriJue3@twitter](https://twitter.com/EriJue3/status/1685290784503795712) | advertise |
 | [erion_hashani@twitter](https://twitter.com/erion_hashani/status/1638076641485156354) | advertise |
 | [ermpy@twitter](https://twitter.com/ermpy/status/1613712080380776448) | advertise |
 | [ernielehman@twitter](https://twitter.com/ernielehman/status/1382762709394071555) | advertise |
@@ -9575,6 +9578,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhinhonHung@twitter](https://twitter.com/PhinhonHung/status/1528456707021500416) | advertise |
 | [phipham1996@twitter](https://twitter.com/phipham1996/status/1394095455848435714) | advertise |
 | [phitakpri@twitter](https://twitter.com/phitakpri/status/1640019020937310209) | advertise |
+| [phk_chay@twitter](https://twitter.com/phk_chay/status/1685290477250347009) | advertise |
 | [phm17582703@twitter](https://twitter.com/phm17582703/status/1621788104272273410) | advertise |
 | [PhmBo06199986@twitter](https://twitter.com/PhmBo06199986/status/1597133389454540800) | advertise |
 | [PhmChun95594174@twitter](https://twitter.com/PhmChun95594174/status/1579064424811630592) | advertise |
@@ -10858,6 +10862,7 @@ Do not create new issue or we will close it as duplicate.
 | [Scrimzy_@twitter](https://twitter.com/Scrimzy_/status/1380087112993632257) | advertise |
 | [ScrivHull@twitter](https://twitter.com/ScrivHull/status/1665858099272351745) | advertise |
 | [sdemanett@twitter](https://twitter.com/sdemanett/status/1396239812076638208) | advertise |
+| [Sea30177376Sea@twitter](https://twitter.com/Sea30177376Sea/status/1685289378287853568) | advertise |
 | [seacles@twitter](https://twitter.com/seacles/status/1673703189760344064) | advertise |
 | [Sean77792242@twitter](https://twitter.com/Sean77792242/status/1498470501093896197) | advertise |
 | [SeanScalley1@twitter](https://twitter.com/SeanScalley1/status/1508999258288144389) | advertise |
@@ -11875,6 +11880,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thanh64229758@twitter](https://twitter.com/Thanh64229758/status/1602862030389907456) | advertise |
 | [thanh68833332@twitter](https://twitter.com/thanh68833332/status/1402884885887393795) | advertise |
 | [Thanh95833956@twitter](https://twitter.com/Thanh95833956/status/1403223547883900934) | advertise |
+| [thanhbinh53412@twitter](https://twitter.com/thanhbinh53412/status/1685281970639843328) | advertise |
 | [Thanhbk93@twitter](https://twitter.com/Thanhbk93/status/1559075450298986497) | advertise |
 | [thanhdu39982131@twitter](https://twitter.com/thanhdu39982131/status/1630072348651954178) | advertise |
 | [ThanhHn57270279@twitter](https://twitter.com/ThanhHn57270279/status/1391899749683400706) | advertise |
@@ -13130,6 +13136,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vuong18239009@twitter](https://twitter.com/Vuong18239009/status/1389212433655336960) | advertise |
 | [VuongHo87563908@twitter](https://twitter.com/VuongHo87563908/status/1620797012668215296) | advertise |
 | [VuonghovuDt@twitter](https://twitter.com/VuonghovuDt/status/1529242139091054592) | advertise |
+| [VuongLe68305918@twitter](https://twitter.com/VuongLe68305918/status/1685279074644881408) | advertise |
 | [VuPham08252400@twitter](https://twitter.com/VuPham08252400/status/1619692199930642433) | advertise |
 | [vuquoc203@twitter](https://twitter.com/vuquoc203/status/1408052147787161601) | advertise |
 | [vusimpzerotwo@twitter](https://twitter.com/vusimpzerotwo/status/1549475267692744704) | advertise |
@@ -13662,6 +13669,7 @@ Do not create new issue or we will close it as duplicate.
 | [yellow_cute1912@twitter](https://twitter.com/yellow_cute1912/status/1385865689286676482) | advertise |
 | [yellyoshua@twitter](https://twitter.com/yellyoshua/status/1593073934274285569) | advertise |
 | [Yelulkal1@twitter](https://twitter.com/Yelulkal1/status/1664598918871814144) | advertise |
+| [yemancitizen@twitter](https://twitter.com/yemancitizen/status/1685289248449269761) | advertise |
 | [YeMarn47754587@twitter](https://twitter.com/YeMarn47754587/status/1390341861118599168) | advertise |
 | [yemedenolmazbe@twitter](https://twitter.com/yemedenolmazbe/status/1632464049127522305) | advertise |
 | [yemenpridee2@twitter](https://twitter.com/yemenpridee2/status/1479099696681570307) | advertise |
