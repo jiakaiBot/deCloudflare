@@ -4664,6 +4664,7 @@ Do not create new issue or we will close it as duplicate.
 | [HtayAun36273144@twitter](https://twitter.com/HtayAun36273144/status/1391109375742283778) | advertise |
 | [HtayHta43588271@twitter](https://twitter.com/HtayHta43588271/status/1395298573307187201) | advertise |
 | [htel_kaung@twitter](https://twitter.com/htel_kaung/status/1383348233599025156) | advertise |
+| [htet24370@twitter](https://twitter.com/htet24370/status/1685157962887970816) | advertise |
 | [htet749563@twitter](https://twitter.com/htet749563/status/1673324702612299776) | advertise |
 | [Htet44745690@twitter](https://twitter.com/Htet44745690/status/1404480909374410755) | advertise |
 | [Htet64496852@twitter](https://twitter.com/Htet64496852/status/1390126170230857728) | advertise |
