@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issue: OpenAI Bad Gateway results in Error in on_retry: asyncio.run() cannot be called from a running event loop (coroutine 'AsyncRunManager.on_retry' was never awaited) inside openai.acompletion_with_retry](https://github.com/langchain-ai/langchain/issues/8462)
 - [When exporting Markdown, encountered nil pointer dereference](https://github.com/projectdiscovery/nuclei/issues/4005)
 - [failed to register Get route for /:path pattern: insertion failed due to conflict with previously registered route: //'](https://github.com/ibraheemdev/matchit/issues/33)
 - [Cloudflare Turnstile solver giving ERROR_BAD_PARAMETERS](https://github.com/2captcha/2captcha-python/issues/60)
