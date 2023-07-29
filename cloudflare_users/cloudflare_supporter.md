@@ -2078,6 +2078,7 @@ Do not create new issue or we will close it as duplicate.
 | [carol26589198@twitter](https://twitter.com/carol26589198/status/1665889152959668228) | advertise |
 | [carolinawxauth@twitter](https://twitter.com/carolinawxauth/status/1396641317728440328) | advertise |
 | [carot9999999@twitter](https://twitter.com/carot9999999/status/1611394730973335552) | advertise |
+| [CarryMe523@twitter](https://twitter.com/CarryMe523/status/1685075302471344128) | advertise |
 | [carvalhorafael@twitter](https://twitter.com/carvalhorafael/status/1560351128084267009) | advertise |
 | [Car_campbell@twitter](https://twitter.com/Car_campbell/status/1539598860988948480) | advertise |
 | [casaindigo@twitter](https://twitter.com/casaindigo/status/1457706371248427018) | advertise |
