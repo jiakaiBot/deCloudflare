@@ -25940,6 +25940,7 @@ Here's a list of public Fediverse services.
 | `missyoualreadyfilm.com` | Yes |
 | `mist.so` | No |
 | `mistah-v.com` | No |
+| `mistbow.xyz` | Yes |
 | `mistelske.com` | No |
 | `mister.computer` | No |
 | `misterbanal.net` | No |
@@ -46143,7 +46144,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,471 |
+| Cloudflare | 12,472 |
 | Normal | 33,629 |
 
 
