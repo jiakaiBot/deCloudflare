@@ -11662,6 +11662,7 @@ Do not create new issue or we will close it as duplicate.
 | [TAKUMIM26464450@twitter](https://twitter.com/TAKUMIM26464450/status/1390850611499831299) | advertise |
 | [takungsaplod@twitter](https://twitter.com/takungsaplod/status/1625170203016560642) | advertise |
 | [talamon100@twitter](https://twitter.com/talamon100/status/1474838382211571713) | advertise |
+| [TalbizleScott@twitter](https://twitter.com/TalbizleScott/status/1684950258453786625) | advertise |
 | [TalebAbuGhaith@twitter](https://twitter.com/TalebAbuGhaith/status/1403284520623824903) | advertise |
 | [talktoai@twitter](https://twitter.com/talktoai/status/1649175122241101825) | advertise |
 | [Tallcock3@twitter](https://twitter.com/Tallcock3/status/1382915646799843331) | advertise |
