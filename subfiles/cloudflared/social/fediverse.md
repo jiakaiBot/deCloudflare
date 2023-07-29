@@ -27810,6 +27810,7 @@ Here's a list of public Fediverse services.
 | `nekojita.moe` | No |
 | `nekokawa.net` | Yes |
 | `nekol.cc` | Yes |
+| `nekomi.one` | Yes |
 | `nekomimi.jp` | No |
 | `nekomimi.party` | Yes |
 | `nekomimi.yokohama` | Yes |
@@ -31931,6 +31932,7 @@ Here's a list of public Fediverse services.
 | `pogs.cafe` | Yes |
 | `pohlers-web.de` | No |
 | `pohvii.cloud` | Yes |
+| `poi.cl` | Yes |
 | `poiar.es` | Yes |
 | `poincare.one` | No |
 | `point.community` | No |
@@ -36753,7 +36755,7 @@ Here's a list of public Fediverse services.
 | `skiant.net` | No |
 | `skid.do` | Yes |
 | `skiddle.id` | Yes |
-| `skiddle.network` | Yes |
+| `skiddle.network` | No |
 | `skilledtests.com` | No |
 | `skillissue.dk` | No |
 | `skilltoy.site` | No |
@@ -43046,7 +43048,7 @@ Here's a list of public Fediverse services.
 | `vibin.wtf` | Yes |
 | `vibrant.li` | No |
 | `vicaust.com` | Yes |
-| `vicedomini.cloud` | Yes |
+| `vicedomini.cloud` | No |
 | `vicentellopis.es` | No |
 | `vichar.me` | Yes |
 | `vici0.us` | No |
@@ -46137,7 +46139,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,469 |
-| Normal | 33,624 |
+| Normal | 33,626 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
