@@ -2292,6 +2292,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChrisNoth12@twitter](https://twitter.com/ChrisNoth12/status/1585063616222760960) | advertise |
 | [ChrisOrillia@twitter](https://twitter.com/ChrisOrillia/status/1496282546929340417) | advertise |
 | [chrisperrin@twitter](https://twitter.com/chrisperrin/status/1576927794004574210) | advertise |
+| [ChrisRhea13@twitter](https://twitter.com/ChrisRhea13/status/1679594639198765056) | advertise |
 | [ChrisShawNI@twitter](https://twitter.com/ChrisShawNI/status/1665874524917714946) | advertise |
 | [christhelegend@twitter](https://twitter.com/christhelegend/status/1395235876125483010) | advertise |
 | [christinahoffe2@twitter](https://twitter.com/christinahoffe2/status/1628544226924564485) | advertise |
