@@ -4334,6 +4334,7 @@ Here's a list of public Fediverse services.
 | `bindinggenerations.net` | No |
 | `binfalse.de` | No |
 | `binfish.jp` | No |
+| `binky.fish` | Yes |
 | `binocl.art` | No |
 | `binsec.social` | No |
 | `binted.space` | No |
@@ -25631,6 +25632,7 @@ Here's a list of public Fediverse services.
 | `miku-enthusiast.club` | No |
 | `miku.cash` | No |
 | `miku.gay` | Yes |
+| `miku.place` | Yes |
 | `miku2go.com` | No |
 | `mikuappend.com` | No |
 | `mikufan.com` | Yes |
@@ -29572,6 +29574,7 @@ Here's a list of public Fediverse services.
 | `ohi.icu` | No |
 | `ohineri.me` | No |
 | `ohitorisama.cloud` | Yes |
+| `ohjames.eu` | No |
 | `ohmreserve.com` | No |
 | `ohmygod.social` | No |
 | `ohmylanta.today` | No |
@@ -40953,6 +40956,7 @@ Here's a list of public Fediverse services.
 | `tombik.click` | No |
 | `tomboy.tech` | Yes |
 | `tomboyfan.club` | No |
+| `tomboys.love` | Yes |
 | `tombraider.chat` | No |
 | `tombraiderchronicles.com` | Yes |
 | `tombraidersocial.com` | Yes |
@@ -46172,8 +46176,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,487 |
-| Normal | 33,642 |
+| Cloudflare | 12,490 |
+| Normal | 33,643 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
