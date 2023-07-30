@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,027 |
-| social | 4,411 |
+| social | 4,412 |
 | net | 3,591 |
 | org | 2,416 |
 | de | 2,232 |
@@ -41316,6 +41316,7 @@ Here's a list of public Fediverse services.
 | `torment.nexus` | No |
 | `tormentasolar.win` | No |
 | `tormentnexus.dev` | No |
+| `tormentnexus.social` | No |
 | `toromaguro.xyz` | Yes |
 | `toromino.de` | Yes |
 | `torontodiy.xyz` | No |
@@ -46241,7 +46242,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,520 |
-| Normal | 33,677 |
+| Normal | 33,678 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
