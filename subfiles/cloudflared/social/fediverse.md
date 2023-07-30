@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,027 |
+| com | 7,028 |
 | social | 4,412 |
 | net | 3,591 |
 | org | 2,416 |
@@ -17995,6 +17995,7 @@ Here's a list of public Fediverse services.
 | `inanantoka.com` | No |
 | `inane.chat` | Yes |
 | `inanna.xyz` | Yes |
+| `inapom.com` | Yes |
 | `inapurna.org` | No |
 | `inari.click` | Yes |
 | `inboxshare.com` | Yes |
@@ -23663,6 +23664,7 @@ Here's a list of public Fediverse services.
 | `maiadereva.net` | No |
 | `maid.army` | No |
 | `maid.zip` | No |
+| `maidsin.space` | No |
 | `maier.social` | No |
 | `maik.ch` | No |
 | `maik.cloud` | No |
@@ -30838,6 +30840,7 @@ Here's a list of public Fediverse services.
 | `patamystic.al` | Yes |
 | `patapon.lol` | No |
 | `patapouf.xyz` | No |
+| `patashnik.club` | No |
 | `patatas.ca` | No |
 | `patate-douce.me` | No |
 | `patault.ovh` | No |
@@ -46245,8 +46248,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,522 |
-| Normal | 33,680 |
+| Cloudflare | 12,523 |
+| Normal | 33,682 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
