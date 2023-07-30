@@ -8778,6 +8778,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynHi29151985@twitter](https://twitter.com/NguynHi29151985/status/1388034502862069767) | advertise |
 | [NguynHi45236072@twitter](https://twitter.com/NguynHi45236072/status/1382014599675871233) | advertise |
 | [NguynHi86634059@twitter](https://twitter.com/NguynHi86634059/status/1394831522633375744) | advertise |
+| [NguynHo00340228@twitter](https://twitter.com/NguynHo00340228/status/1685659147516387329) | advertise |
 | [NguynHo28278787@twitter](https://twitter.com/NguynHo28278787/status/1400115951073304578) | advertise |
 | [NguynHo44693105@twitter](https://twitter.com/NguynHo44693105/status/1639730597613699073) | advertise |
 | [nguynho98527821@twitter](https://twitter.com/nguynho98527821/status/1553820792487661568) | advertise |
