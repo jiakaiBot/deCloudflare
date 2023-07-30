@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,020 |
-| social | 4,408 |
+| social | 4,409 |
 | net | 3,588 |
 | org | 2,413 |
 | de | 2,230 |
@@ -902,7 +902,7 @@ Here's a list of public Fediverse services.
 | `absolutely-zero.monster` | No |
 | `absolutelyhar.am` | No |
 | `abstract.properties` | No |
-| `abstract.town` | Yes |
+| `abstract.town` | No |
 | `abstractbits.net` | Yes |
 | `abstractionleak.com` | No |
 | `abstrct.us` | No |
@@ -6694,7 +6694,7 @@ Here's a list of public Fediverse services.
 | `choirofeyes.com` | No |
 | `choirofeyes.social` | No |
 | `choisyjc.social` | No |
-| `chokecherry.cc` | Yes |
+| `chokecherry.cc` | No |
 | `chomp.life` | Yes |
 | `choochoo.social` | No |
 | `choochoo.space` | No |
@@ -7403,7 +7403,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -18090,7 +18090,7 @@ Here's a list of public Fediverse services.
 | `infoq.social` | No |
 | `inforbidden.ink` | No |
 | `informaction.info` | No |
-| `informalimd.com` | No |
+| `informalimd.com` | Yes |
 | `informancer.eu` | No |
 | `informapirata.it` | Yes |
 | `informaticore.net` | No |
@@ -27784,6 +27784,7 @@ Here's a list of public Fediverse services.
 | `neet.church` | No |
 | `neet.club` | No |
 | `neet.co.jp` | No |
+| `neet.social` | Yes |
 | `neetodon.com` | No |
 | `neets.work` | No |
 | `nefixestrada.com` | No |
@@ -29612,7 +29613,7 @@ Here's a list of public Fediverse services.
 | `oisux.org` | No |
 | `oit-unofficial.tokyo` | No |
 | `ojamajo.moe` | No |
-| `ojitabi.club` | Yes |
+| `ojitabi.club` | No |
 | `ojour.de` | No |
 | `ojousama-tea.party` | Yes |
 | `ok1bt.cz` | No |
@@ -46194,8 +46195,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,498 |
-| Normal | 33,653 |
+| Cloudflare | 12,496 |
+| Normal | 33,656 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
