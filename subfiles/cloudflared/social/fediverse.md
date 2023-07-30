@@ -38900,6 +38900,7 @@ Here's a list of public Fediverse services.
 | `swiatczytnikow.pl` | No |
 | `swiftdev.space` | No |
 | `swiftdevs.space` | No |
+| `swiftstream.gay` | Yes |
 | `swillyumsdatacenter.com` | Yes |
 | `swinden.social` | Yes |
 | `swineair.com` | No |
@@ -46203,7 +46204,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,498 |
+| Cloudflare | 12,499 |
 | Normal | 33,662 |
 
 
