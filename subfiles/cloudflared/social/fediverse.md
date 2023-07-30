@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 4,409 |
 | net | 3,588 |
 | org | 2,413 |
-| de | 2,230 |
+| de | 2,231 |
 
 
 - Mastodon, Pleroma, etc
@@ -16236,6 +16236,7 @@ Here's a list of public Fediverse services.
 | `hardy.dev` | Yes |
 | `harekiet.com` | No |
 | `harem.moe` | Yes |
+| `hareware.xyz` | No |
 | `harfang.social` | Yes |
 | `harijs.id.lv` | No |
 | `harmandar.co` | No |
@@ -16997,6 +16998,7 @@ Here's a list of public Fediverse services.
 | `hoeser.dev` | No |
 | `hoezithetnuecht.nl` | No |
 | `hoffman.studio` | No |
+| `hoffmann-hosted.de` | No |
 | `hoffnungsschein.de` | No |
 | `hofra.rocks` | No |
 | `hofud.com` | No |
@@ -22793,6 +22795,7 @@ Here's a list of public Fediverse services.
 | `lobi.to` | No |
 | `lobisomem.xyz` | No |
 | `lobrai.co` | Yes |
+| `lobster.city` | Yes |
 | `lobsters.social` | Yes |
 | `lobstr.me` | No |
 | `loca.lt` | Yes |
@@ -43419,6 +43422,8 @@ Here's a list of public Fediverse services.
 | `voragine.net` | No |
 | `vorarlberg.io` | No |
 | `vorarlberg.site` | No |
+| `vorboyvo.space` | No |
+| `vore.boutique` | No |
 | `voreirl.tk` | No |
 | `voring.me` | No |
 | `vorlon.social` | No |
@@ -46195,8 +46200,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,496 |
-| Normal | 33,656 |
+| Cloudflare | 12,497 |
+| Normal | 33,660 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
