@@ -475,6 +475,7 @@ Do not create new issue or we will close it as duplicate.
 | [AhmedShreyaan@twitter](https://twitter.com/AhmedShreyaan/status/1386617594489225218) | advertise |
 | [AhmedWaqarKhan1@twitter](https://twitter.com/AhmedWaqarKhan1/status/1393752833699188739) | advertise |
 | [ahmed_kanou@twitter](https://twitter.com/ahmed_kanou/status/1540653358532464642) | advertise |
+| [Ahmed_Omar216@twitter](https://twitter.com/Ahmed_Omar216/status/1685429856006193153) | advertise |
 | [AhmerBu71105231@twitter](https://twitter.com/AhmerBu71105231/status/1398985358960840714) | advertise |
 | [ahnge08@twitter](https://twitter.com/ahnge08/status/1393110946919288837) | advertise |
 | [AhRoi75@twitter](https://twitter.com/AhRoi75/status/1405424553476558857) | advertise |
@@ -3554,6 +3555,7 @@ Do not create new issue or we will close it as duplicate.
 | [Fawuioo@twitter](https://twitter.com/Fawuioo/status/1485262753858269188) | advertise |
 | [FAYARZ2@twitter](https://twitter.com/FAYARZ2/status/1628787522884218882) | advertise |
 | [fayas1699gcsd@twitter](https://twitter.com/fayas1699gcsd/status/1605239027439140864) | advertise |
+| [Fayek86177337@twitter](https://twitter.com/Fayek86177337/status/1685423029046644736) | advertise |
 | [fazalrahim3362@twitter](https://twitter.com/fazalrahim3362/status/1648889429958750209) | advertise |
 | [Fazian47524484@twitter](https://twitter.com/Fazian47524484/status/1400881570408394753) | advertise |
 | [FbworlNews@twitter](https://twitter.com/FbworlNews/status/1401094204743372800) | advertise |
@@ -6139,6 +6141,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kimmoon87@twitter](https://twitter.com/Kimmoon87/status/1387108299506536449) | advertise |
 | [KimNguy00416796@twitter](https://twitter.com/KimNguy00416796/status/1553133822765543424) | advertise |
 | [kimoowhite@twitter](https://twitter.com/kimoowhite/status/1508355784006303747) | advertise |
+| [KimPhilipp7@twitter](https://twitter.com/KimPhilipp7/status/1685421214175784960) | advertise |
 | [Kimsieu1910@twitter](https://twitter.com/Kimsieu1910/status/1582169929750433793) | advertise |
 | [KimTaeG26091506@twitter](https://twitter.com/KimTaeG26091506/status/1381925151655268354) | advertise |
 | [kimtaehee4040@twitter](https://twitter.com/kimtaehee4040/status/1587532259321839616) | advertise |
