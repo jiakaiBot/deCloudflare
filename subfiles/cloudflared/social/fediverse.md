@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,028 |
-| social | 4,412 |
+| com | 7,030 |
+| social | 4,413 |
 | net | 3,591 |
 | org | 2,416 |
 | de | 2,232 |
@@ -4534,6 +4534,7 @@ Here's a list of public Fediverse services.
 | `black.social` | Yes |
 | `black6.dev` | No |
 | `blackbike.us` | Yes |
+| `blackbirb.dev` | Yes |
 | `blackblock.rocks` | No |
 | `blackblocpolitics.com` | No |
 | `blackbrigade.org` | No |
@@ -5038,6 +5039,7 @@ Here's a list of public Fediverse services.
 | `booyah.dev` | No |
 | `boozerboozeman.xyz` | No |
 | `boozy.social` | No |
+| `bop-it.com` | Yes |
 | `bopinions.de` | No |
 | `bora.army` | No |
 | `borahae.love` | No |
@@ -5748,6 +5750,7 @@ Here's a list of public Fediverse services.
 | `c64.chat` | No |
 | `c64.social` | No |
 | `c7.io` | Yes |
+| `c7.pm` | No |
 | `c8l.net` | Yes |
 | `c99.org` | Yes |
 | `c9users.io` | No |
@@ -6825,6 +6828,7 @@ Here's a list of public Fediverse services.
 | `chswx.social` | No |
 | `chth85.ovh` | No |
 | `chtisurel.net` | No |
+| `chtn.uk` | No |
 | `chubbears.com` | No |
 | `chubbs.rip` | No |
 | `chubbybubble.life` | No |
@@ -7735,6 +7739,7 @@ Here's a list of public Fediverse services.
 | `corp.social` | Yes |
 | `corporaterunaways.social` | No |
 | `corporatetravel.social` | No |
+| `corq.co` | No |
 | `correcthorse.net` | Yes |
 | `correctiv.social` | No |
 | `correlation.zone` | No |
@@ -14250,6 +14255,7 @@ Here's a list of public Fediverse services.
 | `fuwamocchi.com` | Yes |
 | `fuyumori.net` | No |
 | `fuyuu.ga` | No |
+| `fuzake.io` | Yes |
 | `fuzaxx.de` | No |
 | `fuzz.network` | No |
 | `fuzzbit.ch` | No |
@@ -16979,7 +16985,7 @@ Here's a list of public Fediverse services.
 | `hobbies.social` | No |
 | `hobbit.world` | No |
 | `hobbitasylum.com` | No |
-| `hobbithole.com` | No |
+| `hobbithole.com` | Yes |
 | `hobbs-end.uk` | No |
 | `hobbyhorse.dev` | No |
 | `hobbymetzgerei.de` | No |
@@ -20339,6 +20345,7 @@ Here's a list of public Fediverse services.
 | `kenmo.fm` | Yes |
 | `kennery.com` | Yes |
 | `kennyqin.com` | No |
+| `kenobit.it` | No |
 | `kenodriscoll.com` | Yes |
 | `kenpo.social` | No |
 | `kenscott.me` | No |
@@ -21870,6 +21877,7 @@ Here's a list of public Fediverse services.
 | `learn-ai-ui.jp` | No |
 | `learn-english.site` | No |
 | `learn.cafe` | Yes |
+| `learnaddict.academy` | No |
 | `learnawesome.org` | Yes |
 | `learndevelopchange.com` | No |
 | `learner.tools` | Yes |
@@ -22087,6 +22095,7 @@ Here's a list of public Fediverse services.
 | `lemmyns.xyz` | No |
 | `lemmynsfw.com` | Yes |
 | `lemmyonline.com` | Yes |
+| `lemmyrick.com` | Yes |
 | `lemmyrs.org` | No |
 | `lemmyunchained.net` | No |
 | `lemmyverse.nl` | Yes |
@@ -42010,6 +42019,7 @@ Here's a list of public Fediverse services.
 | `twerkfor.work` | No |
 | `twexodus.top` | Yes |
 | `twhtv.club` | No |
+| `twi.social` | No |
 | `twi.wtf` | No |
 | `twib.me` | No |
 | `twibox.fr` | Yes |
@@ -43121,6 +43131,7 @@ Here's a list of public Fediverse services.
 | `vffsm.de` | No |
 | `vforge.social` | No |
 | `vfpmedia.com` | No |
+| `vfsh.dev` | Yes |
 | `vfsh.us` | Yes |
 | `vfx.social` | No |
 | `vgai.de` | No |
@@ -44977,6 +44988,7 @@ Here's a list of public Fediverse services.
 | `xianlandia.com` | No |
 | `xianon.net` | Yes |
 | `xiaokunlun.com` | No |
+| `xiaotuzhi.top` | No |
 | `xiaoyuanvc.com` | No |
 | `xiaoyun.space` | Yes |
 | `xice.org` | Yes |
@@ -46248,8 +46260,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,523 |
-| Normal | 33,682 |
+| Cloudflare | 12,529 |
+| Normal | 33,688 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
