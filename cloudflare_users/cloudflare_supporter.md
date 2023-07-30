@@ -7124,6 +7124,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lynn58120382@twitter](https://twitter.com/Lynn58120382/status/1378280012542017537) | advertise |
 | [LynnLyn42967403@twitter](https://twitter.com/LynnLyn42967403/status/1392001298363523072) | advertise |
 | [LyRobeca@twitter](https://twitter.com/LyRobeca/status/1396393406675390472) | advertise |
+| [lyydr05804967@twitter](https://twitter.com/lyydr05804967/status/1685455459606499329) | advertise |
 | [Lz2xNRf8Qci6g2T@twitter](https://twitter.com/Lz2xNRf8Qci6g2T/status/1387813114490458114) | advertise |
 | [LzDMSCMW3x0r9Q1@twitter](https://twitter.com/LzDMSCMW3x0r9Q1/status/1386623171395129350) | advertise |
 | [LzOda2C5XThlwU9@twitter](https://twitter.com/LzOda2C5XThlwU9/status/1391759390017941504) | advertise |
@@ -9314,6 +9315,7 @@ Do not create new issue or we will close it as duplicate.
 | [Osama772455244@twitter](https://twitter.com/Osama772455244/status/1670988946824732672) | advertise |
 | [osamaaly90@twitter](https://twitter.com/osamaaly90/status/1405389818499158017) | advertise |
 | [osamabaghdady1@twitter](https://twitter.com/osamabaghdady1/status/1631757127374061573) | advertise |
+| [OsamaBinCrytpo@twitter](https://twitter.com/OsamaBinCrytpo/status/1685442771715276800) | advertise |
 | [Osamavp88@twitter](https://twitter.com/Osamavp88/status/1553648608183869441) | advertise |
 | [osaray_@twitter](https://twitter.com/osaray_/status/1577621931892809728) | advertise |
 | [osazemeu@twitter](https://twitter.com/osazemeu/status/1680786078213500933) | advertise |
