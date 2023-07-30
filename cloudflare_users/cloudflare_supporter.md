@@ -584,6 +584,7 @@ Do not create new issue or we will close it as duplicate.
 | [alecarrington23@twitter](https://twitter.com/alecarrington23/status/1497728572265574403) | advertise |
 | [AlejoxTD@twitter](https://twitter.com/AlejoxTD/status/1590392039421923328) | advertise |
 | [Alekubanng@twitter](https://twitter.com/Alekubanng/status/1587168971165503492) | advertise |
+| [alemu_shim77025@twitter](https://twitter.com/alemu_shim77025/status/1685641603577241600) | advertise |
 | [Ales19412051@twitter](https://twitter.com/Ales19412051/status/1407593618949345287) | advertise |
 | [Alex09781100@twitter](https://twitter.com/Alex09781100/status/1572045613944156160) | advertise |
 | [alex2_mitri@twitter](https://twitter.com/alex2_mitri/status/1631195796900134912) | advertise |
@@ -1517,6 +1518,7 @@ Do not create new issue or we will close it as duplicate.
 | [BangNguyenXuan@twitter](https://twitter.com/BangNguyenXuan/status/1595524250752126976) | advertise |
 | [banhbaothitvien@twitter](https://twitter.com/banhbaothitvien/status/1553339442387361792) | advertise |
 | [Banikau1@twitter](https://twitter.com/Banikau1/status/1395272624633040898) | advertise |
+| [BaNk72020586@twitter](https://twitter.com/BaNk72020586/status/1685687039814148096) | advertise |
 | [BankSilasap@twitter](https://twitter.com/BankSilasap/status/1552668171693625344) | advertise |
 | [banyaraung528@twitter](https://twitter.com/banyaraung528/status/1392892540995588096) | advertise |
 | [ban_tampal@twitter](https://twitter.com/ban_tampal/status/1552003433971888128) | advertise |
