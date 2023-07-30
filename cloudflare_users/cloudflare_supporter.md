@@ -10306,6 +10306,7 @@ Do not create new issue or we will close it as duplicate.
 | [regchan@twitter](https://twitter.com/regchan/status/1524281569376182273) | advertise |
 | [rehdogg@twitter](https://twitter.com/rehdogg/status/1645508851045728272) | advertise |
 | [ReickyKunn@twitter](https://twitter.com/ReickyKunn/status/1386282466671947788) | advertise |
+| [rejafdofs@twitter](https://twitter.com/rejafdofs/status/1685645574476079105) | advertise |
 | [RekhaDe60415707@twitter](https://twitter.com/RekhaDe60415707/status/1501404745009106945) | advertise |
 | [rekstron@twitter](https://twitter.com/rekstron/status/1592955308280012800) | advertise |
 | [relaxedswimmer@twitter](https://twitter.com/relaxedswimmer/status/1534181874217537536) | advertise |
