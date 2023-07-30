@@ -925,6 +925,7 @@ Do not create new issue or we will close it as duplicate.
 | [AnPhc17237573@twitter](https://twitter.com/AnPhc17237573/status/1552947475472089089) | advertise |
 | [AnsahEm11089423@twitter](https://twitter.com/AnsahEm11089423/status/1600414671009239040) | advertise |
 | [anshulkmr01@twitter](https://twitter.com/anshulkmr01/status/1441856756288606209) | advertise |
+| [ansi_ansee21282@twitter](https://twitter.com/ansi_ansee21282/status/1685747870010343424) | advertise |
 | [AntohinShulov@twitter](https://twitter.com/AntohinShulov/status/1392227012136239105) | advertise |
 | [antohnysasine@twitter](https://twitter.com/antohnysasine/status/1519745453952311297) | advertise |
 | [AntonioMA_dev@twitter](https://twitter.com/AntonioMA_dev/status/1473047937999683594) | advertise |
@@ -1529,6 +1530,7 @@ Do not create new issue or we will close it as duplicate.
 | [Baolodc@twitter](https://twitter.com/Baolodc/status/1684790483602849792) | advertise |
 | [baolongtm159@twitter](https://twitter.com/baolongtm159/status/1609228459171278848) | advertise |
 | [Baomilos4@twitter](https://twitter.com/Baomilos4/status/1536315085475328001) | advertise |
+| [BaoTran59211863@twitter](https://twitter.com/BaoTran59211863/status/1428225026319261696) | advertise |
 | [baovanhu012345@twitter](https://twitter.com/baovanhu012345/status/1387935168267096068) | advertise |
 | [bao_nguoi@twitter](https://twitter.com/bao_nguoi/status/1629139154377510913) | advertise |
 | [bao_ruan@twitter](https://twitter.com/bao_ruan/status/1399224252474171393) | advertise |
