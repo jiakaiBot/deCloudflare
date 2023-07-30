@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,024 |
+| com | 7,025 |
 | social | 4,411 |
 | net | 3,589 |
 | org | 2,416 |
@@ -14179,7 +14179,7 @@ Here's a list of public Fediverse services.
 | `furrycom.com` | No |
 | `furrycon.social` | Yes |
 | `furryfandom.me` | Yes |
-| `furrygroup.gay` | No |
+| `furrygroup.gay` | Yes |
 | `furryink.com` | Yes |
 | `furrylife.online` | No |
 | `furryowo.top` | Yes |
@@ -24954,6 +24954,7 @@ Here's a list of public Fediverse services.
 | `mckerley.net` | Yes |
 | `mckillop.org` | No |
 | `mclarty.social` | Yes |
+| `mclegoman.com` | Yes |
 | `mcmcgraw.com` | No |
 | `mcmullan.org` | Yes |
 | `mcnamarii.town` | No |
@@ -41235,7 +41236,7 @@ Here's a list of public Fediverse services.
 | `toots.cloud` | No |
 | `toots.direct` | No |
 | `toots.gg` | No |
-| `toots.id` | Yes |
+| `toots.id` | No |
 | `toots.im` | No |
 | `toots.nu` | No |
 | `toots.page` | No |
@@ -46221,7 +46222,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,510 |
+| Cloudflare | 12,511 |
 | Normal | 33,668 |
 
 
