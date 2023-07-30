@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,020 |
-| social | 4,409 |
+| social | 4,410 |
 | net | 3,588 |
-| org | 2,413 |
+| org | 2,414 |
 | de | 2,231 |
 
 
@@ -177,6 +177,7 @@ Here's a list of public Fediverse services.
 | `100millionbooks.org` | No |
 | `100terres.com` | Yes |
 | `100terres.net` | Yes |
+| `100terres.social` | Yes |
 | `101010.pl` | No |
 | `1011.link` | No |
 | `1024256.xyz` | Yes |
@@ -11952,7 +11953,7 @@ Here's a list of public Fediverse services.
 | `evn.sh` | No |
 | `evolix.org` | No |
 | `evolved.systems` | Yes |
-| `evolvingdev.io` | Yes |
+| `evolvingdev.io` | No |
 | `evometamecha.com` | No |
 | `evotm.com` | Yes |
 | `evri1s-connected.online` | No |
@@ -17934,6 +17935,7 @@ Here's a list of public Fediverse services.
 | `imoimo.xyz` | No |
 | `imojito.com` | Yes |
 | `imosskey.dev` | No |
+| `imouto.page` | Yes |
 | `imouto.wiki` | No |
 | `imowl.net` | No |
 | `impa.cc` | No |
@@ -26161,6 +26163,7 @@ Here's a list of public Fediverse services.
 | `mobileography.info` | No |
 | `mobilisons.ch` | No |
 | `mobilite-mobiliteit.brussels` | No |
+| `mobiliteactive.org` | No |
 | `mobilize-hannover.de` | No |
 | `mobilize.berlin` | No |
 | `mobilizemuc.org` | No |
@@ -46200,8 +46203,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,497 |
-| Normal | 33,660 |
+| Cloudflare | 12,498 |
+| Normal | 33,662 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
