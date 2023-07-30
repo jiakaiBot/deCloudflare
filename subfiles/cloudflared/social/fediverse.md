@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,020 |
 | social | 4,410 |
-| net | 3,588 |
+| net | 3,589 |
 | org | 2,414 |
 | de | 2,231 |
 
@@ -4791,6 +4791,7 @@ Here's a list of public Fediverse services.
 | `bluestar.social` | Yes |
 | `bluestreakradio.com` | No |
 | `bluetonic.org` | Yes |
+| `blueviolet.monster` | No |
 | `bluewhite.pink` | Yes |
 | `blueworlds.org` | No |
 | `bluex.im` | No |
@@ -39684,6 +39685,7 @@ Here's a list of public Fediverse services.
 | `tekdmn.me` | Yes |
 | `tekhify.de` | No |
 | `tekicha.org` | No |
+| `tekigousya.net` | Yes |
 | `tekk.in` | No |
 | `tekkadan.me` | No |
 | `teklynk.com` | Yes |
@@ -46204,8 +46206,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,499 |
-| Normal | 33,662 |
+| Cloudflare | 12,500 |
+| Normal | 33,663 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
