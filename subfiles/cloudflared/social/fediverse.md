@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,020 |
+| com | 7,021 |
 | social | 4,410 |
 | net | 3,589 |
 | org | 2,414 |
@@ -3765,6 +3765,7 @@ Here's a list of public Fediverse services.
 | `bavetta.com` | No |
 | `bawker.net` | No |
 | `bawue.social` | No |
+| `baxter.sh` | Yes |
 | `bay.ninja` | No |
 | `bayarea.ngo` | No |
 | `bayern-online.news` | No |
@@ -31538,6 +31539,7 @@ Here's a list of public Fediverse services.
 | `piracy.guide` | Yes |
 | `piranaa.org` | No |
 | `pirata.xyz` | No |
+| `piratasdelcaribe.xyz` | No |
 | `pirate-wire.com` | No |
 | `pirate.chat` | Yes |
 | `pirate.lgbt` | Yes |
@@ -38821,6 +38823,7 @@ Here's a list of public Fediverse services.
 | `sutera.fi` | No |
 | `sutra.rs` | No |
 | `sutrofan.com` | No |
+| `sutty.nl` | Yes |
 | `suture.space` | No |
 | `suuu.us` | No |
 | `suv.id.au` | No |
@@ -40357,7 +40360,7 @@ Here's a list of public Fediverse services.
 | `theru.xyz` | No |
 | `thesan.space` | No |
 | `thesandbox.net` | No |
-| `thesanewriter.com` | No |
+| `thesanewriter.com` | Yes |
 | `thesatelliteoflove.com` | No |
 | `thesayres.org` | No |
 | `theschussel.eu` | No |
@@ -45619,7 +45622,7 @@ Here's a list of public Fediverse services.
 | `yujitamura.blog` | No |
 | `yujo.me` | No |
 | `yuka.dev` | No |
-| `yukai.dev` | No |
+| `yukai.dev` | Yes |
 | `yukari.cafe` | Yes |
 | `yukari.cloud` | Yes |
 | `yukari.in` | Yes |
@@ -45981,6 +45984,7 @@ Here's a list of public Fediverse services.
 | `zikin.us` | Yes |
 | `zilaa.online` | No |
 | `zilla.tech` | No |
+| `zimbatm.com` | Yes |
 | `zimbo.uk` | No |
 | `zimiao.moe` | Yes |
 | `zimmer428.net` | No |
@@ -46206,8 +46210,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,500 |
-| Normal | 33,663 |
+| Cloudflare | 12,505 |
+| Normal | 33,662 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
