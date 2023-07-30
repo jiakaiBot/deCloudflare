@@ -4643,6 +4643,7 @@ Do not create new issue or we will close it as duplicate.
 | [hp_wai@twitter](https://twitter.com/hp_wai/status/1402151194907222023) | advertise |
 | [HQ20437821@twitter](https://twitter.com/HQ20437821/status/1563282365744824320) | advertise |
 | [HQBW@twitter](https://twitter.com/HQBW/status/1615804241922359296) | advertise |
+| [hrace009@twitter](https://twitter.com/hrace009/status/1685596710654091264) | advertise |
 | [hredoy53@twitter](https://twitter.com/hredoy53/status/1586637528215351296) | advertise |
 | [HrichikM@twitter](https://twitter.com/HrichikM/status/1473991252827783168) | advertise |
 | [hrolikhrolik@twitter](https://twitter.com/hrolikhrolik/status/1570812559011516416) | advertise |
@@ -8345,6 +8346,7 @@ Do not create new issue or we will close it as duplicate.
 | [m_mazeed2011@twitter](https://twitter.com/m_mazeed2011/status/1488809662917091330) | advertise |
 | [m_teegani@twitter](https://twitter.com/m_teegani/status/1563618580675051523) | advertise |
 | [n0k35@twitter](https://twitter.com/n0k35/status/1517243040615653376) | advertise |
+| [N1Stock@twitter](https://twitter.com/N1Stock/status/1685052617221632000) | advertise |
 | [n33412264@twitter](https://twitter.com/n33412264/status/1394915451231117318) | advertise |
 | [n49568234@twitter](https://twitter.com/n49568234/status/1556292421184811009) | advertise |
 | [NA94507853@twitter](https://twitter.com/NA94507853/status/1680137183645007872) | advertise |
