@@ -9180,6 +9180,7 @@ Do not create new issue or we will close it as duplicate.
 | [Oakhuck@twitter](https://twitter.com/Oakhuck/status/1622556599754842112) | advertise |
 | [OakSoe_95@twitter](https://twitter.com/OakSoe_95/status/1390580036474793988) | advertise |
 | [OASISVIRTUALorg@twitter](https://twitter.com/OASISVIRTUALorg/status/1636703236907319300) | advertise |
+| [obaid78361690@twitter](https://twitter.com/obaid78361690/status/1685496759470985218) | advertise |
 | [obaydFox1@twitter](https://twitter.com/obaydFox1/status/1603825475079503872) | advertise |
 | [oBHp4@twitter](https://twitter.com/oBHp4/status/1490716075268665347) | advertise |
 | [ObinnaUkwueze@twitter](https://twitter.com/ObinnaUkwueze/status/1529030306908471296) | advertise |
