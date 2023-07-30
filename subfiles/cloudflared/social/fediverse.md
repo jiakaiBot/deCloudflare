@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,021 |
-| social | 4,410 |
+| com | 7,024 |
+| social | 4,411 |
 | net | 3,589 |
-| org | 2,414 |
-| de | 2,231 |
+| org | 2,416 |
+| de | 2,232 |
 
 
 - Mastodon, Pleroma, etc
@@ -191,6 +191,7 @@ Here's a list of public Fediverse services.
 | `10don.xyz` | No |
 | `10hoch-6.de` | No |
 | `10hz.org` | No |
+| `10leej.com` | No |
 | `10mb.at` | Yes |
 | `10mb.social` | No |
 | `10minutepleroma.com` | No |
@@ -458,6 +459,7 @@ Here's a list of public Fediverse services.
 | `3towers.de` | No |
 | `3v.fi` | No |
 | `3v.is` | Yes |
+| `3wishes.tech` | Yes |
 | `3x1t.eu` | No |
 | `3xd.eu` | Yes |
 | `3zi.ru` | No |
@@ -9045,6 +9047,7 @@ Here's a list of public Fediverse services.
 | `dchua.com` | Yes |
 | `dcj.im` | No |
 | `dcj.me` | No |
+| `dcmrobertson.com` | Yes |
 | `dcntr.org` | No |
 | `dcomm.net.ua` | No |
 | `dcotta.eu` | Yes |
@@ -12726,6 +12729,7 @@ Here's a list of public Fediverse services.
 | `fediz.one` | No |
 | `fedja.fi` | No |
 | `fedodo.social` | No |
+| `fedpal.org` | Yes |
 | `fedpi.de` | No |
 | `fedposters.club` | No |
 | `fedposting.club` | No |
@@ -12996,6 +13000,7 @@ Here's a list of public Fediverse services.
 | `finch.ink` | No |
 | `findingdryland.com` | No |
 | `findmyown.space` | No |
+| `findumon.de` | No |
 | `findx.social` | No |
 | `findyouralpha.com` | No |
 | `fine-net.site` | No |
@@ -13313,6 +13318,7 @@ Here's a list of public Fediverse services.
 | `fmvilas.me` | No |
 | `fnaf.stream` | Yes |
 | `fnando.com` | No |
+| `fneveu.social` | No |
 | `fnky.nz` | Yes |
 | `fnkysloth.net` | Yes |
 | `fnlog.page` | No |
@@ -34475,6 +34481,7 @@ Here's a list of public Fediverse services.
 | `rodent.cloud` | No |
 | `rodent.io` | No |
 | `rodent.life` | No |
+| `rodentdisco.co.uk` | No |
 | `rodents.party` | No |
 | `rodere.systems` | No |
 | `rodetc.com` | No |
@@ -41923,6 +41930,7 @@ Here's a list of public Fediverse services.
 | `tux.si` | Yes |
 | `tux.social` | No |
 | `tux.tf` | Yes |
+| `tuxbase.com` | Yes |
 | `tuxcloud.net` | No |
 | `tuxcrafting.cf` | No |
 | `tuxcrafting.online` | Yes |
@@ -44164,6 +44172,7 @@ Here's a list of public Fediverse services.
 | `whitedragonofcroatia.com` | No |
 | `whitehead-smith.com` | Yes |
 | `whitehouse.org` | Yes |
+| `whitelily.blue` | Yes |
 | `whitelion.me` | No |
 | `whitepig.net` | No |
 | `whitepositive.media` | No |
@@ -45561,6 +45570,7 @@ Here's a list of public Fediverse services.
 | `yourshit.rocks` | No |
 | `yousack.net` | No |
 | `youshallnotpass.com` | Yes |
+| `youten.xyz` | No |
 | `youth.social` | No |
 | `youthdon.com` | No |
 | `youthweb.social` | No |
@@ -45795,6 +45805,7 @@ Here's a list of public Fediverse services.
 | `zana.moe` | No |
 | `zanderz.com` | No |
 | `zane.town` | No |
+| `zaney.org` | No |
 | `zannoni.eu` | No |
 | `zany.tech` | No |
 | `zanycadence.com` | No |
@@ -46210,8 +46221,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,505 |
-| Normal | 33,662 |
+| Cloudflare | 12,510 |
+| Normal | 33,668 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
