@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [When docker service need to be replaced but not destroy exists one](https://github.com/kreuzwerker/terraform-provider-docker/issues/574)
 - [flaresolver dosen't work anymore with yggtorrent.wtf wesite](https://github.com/FlareSolverr/FlareSolverr/issues/833)
 - [Price fetches fail when there are many tracked assets](https://github.com/tahowallet/extension/issues/3581)
 - [Issue: OpenAI Bad Gateway results in Error in on_retry: asyncio.run() cannot be called from a running event loop (coroutine 'AsyncRunManager.on_retry' was never awaited) inside openai.acompletion_with_retry](https://github.com/langchain-ai/langchain/issues/8462)
