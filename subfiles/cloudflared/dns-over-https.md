@@ -329,6 +329,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | vpms.xyz | Yes |
 | vpnglobal.my.id | Yes |
 | waifu.cz | Yes |
+| wang.art | Yes |
 | wantaquddin.com | No |
 | waringer-atg.de | No |
 | xaoimoon.fr | No |
@@ -347,8 +348,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 166 |
+| Cloudflare | 167 |
 | Normal | 162 |
 
 
-### 50.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
