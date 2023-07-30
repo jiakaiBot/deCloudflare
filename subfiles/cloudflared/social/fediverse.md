@@ -8071,6 +8071,7 @@ Here's a list of public Fediverse services.
 | `crowerailwren.com` | No |
 | `crowesnest.io` | No |
 | `crowleyclub.com` | No |
+| `crownel.monster` | No |
 | `crownet.eu` | No |
 | `crows.tokyo` | No |
 | `crowsnest.social` | No |
@@ -15629,6 +15630,7 @@ Here's a list of public Fediverse services.
 | `gremlins.social` | Yes |
 | `grenat.art` | No |
 | `grenat.ovh` | No |
+| `grenicmars.xyz` | No |
 | `grenland.social` | No |
 | `grep.sh` | Yes |
 | `gresille.org` | No |
@@ -15829,7 +15831,7 @@ Here's a list of public Fediverse services.
 | `guin.ovh` | No |
 | `guineapig.party` | No |
 | `guineapig.space` | No |
-| `guiofamily.fr` | No |
+| `guiofamily.fr` | Yes |
 | `guip.dev` | No |
 | `guitar.rodeo` | Yes |
 | `guizzyordi.info` | No |
@@ -21328,6 +21330,7 @@ Here's a list of public Fediverse services.
 | `kurosawa.moe` | No |
 | `kuroserver.net` | No |
 | `kurosuke.org` | No |
+| `kurotoshi-cat.me` | No |
 | `kurry.social` | Yes |
 | `kursors.social` | No |
 | `kurumah.dev` | Yes |
@@ -27835,6 +27838,7 @@ Here's a list of public Fediverse services.
 | `neix.at` | No |
 | `nejati.net` | Yes |
 | `nejiamasi.com` | No |
+| `neka.site` | Yes |
 | `nekit.tk` | Yes |
 | `nekko.online` | No |
 | `neko-relay.com` | Yes |
@@ -46241,8 +46245,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,520 |
-| Normal | 33,678 |
+| Cloudflare | 12,522 |
+| Normal | 33,680 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
