@@ -11656,6 +11656,7 @@ Do not create new issue or we will close it as duplicate.
 | [t03739787@twitter](https://twitter.com/t03739787/status/1611713527416512514) | advertise |
 | [T05349547@twitter](https://twitter.com/T05349547/status/1671193309119905792) | advertise |
 | [T2ikJpl7nVsB4AN@twitter](https://twitter.com/T2ikJpl7nVsB4AN/status/1548789731005124608) | advertise |
+| [T1246N1@twitter](https://twitter.com/T1246N1/status/1685678313384345600) | advertise |
 | [t1234231@twitter](https://twitter.com/t1234231/status/1620980454055903232) | advertise |
 | [T31543226@twitter](https://twitter.com/T31543226/status/1524287509496168448) | advertise |
 | [t36604925@twitter](https://twitter.com/t36604925/status/1619552068800487425) | advertise |
