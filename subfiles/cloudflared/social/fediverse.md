@@ -361,7 +361,7 @@ Here's a list of public Fediverse services.
 | `2hu.club` | No |
 | `2ko.moe` | Yes |
 | `2labz.com` | Yes |
-| `2mb.social` | Yes |
+| `2mb.social` | No |
 | `2metz.fr` | No |
 | `2mg.club` | Yes |
 | `2muchin4mation.com` | No |
@@ -12323,6 +12323,7 @@ Here's a list of public Fediverse services.
 | `farci.org` | No |
 | `farend.co.jp` | No |
 | `farenji.net` | No |
+| `farer.group` | Yes |
 | `farewellswind.xyz` | No |
 | `farewellutopia.com` | No |
 | `farhan.codes` | Yes |
@@ -44595,6 +44596,7 @@ Here's a list of public Fediverse services.
 | `woodbine.nyc` | No |
 | `woodenelephants.xyz` | No |
 | `woodland.cafe` | No |
+| `woodland.video` | Yes |
 | `woodlanddigital.net` | Yes |
 | `woodpecker.blue` | Yes |
 | `woodpecker.social` | No |
@@ -46260,8 +46262,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,529 |
-| Normal | 33,688 |
+| Cloudflare | 12,530 |
+| Normal | 33,689 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
