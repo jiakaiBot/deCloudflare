@@ -18636,6 +18636,7 @@ Here's a list of public Fediverse services.
 | `iteasy.club` | Yes |
 | `itemis.social` | No |
 | `itengineer.club` | No |
+| `itepechi.me` | Yes |
 | `iterate.no` | No |
 | `iterna.de` | No |
 | `itfm.xyz` | Yes |
@@ -20818,6 +20819,7 @@ Here's a list of public Fediverse services.
 | `kms.social` | Yes |
 | `kmu-angebote.ch` | No |
 | `kmubase.net` | Yes |
+| `kmwg.moe` | No |
 | `kmy.blue` | Yes |
 | `kmyd.moe` | No |
 | `kn-cloud.de` | No |
@@ -46264,8 +46266,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,529 |
-| Normal | 33,692 |
+| Cloudflare | 12,530 |
+| Normal | 33,693 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
