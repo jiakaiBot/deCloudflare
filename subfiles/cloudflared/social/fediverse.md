@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,034 |
+| com | 7,035 |
 | social | 4,416 |
 | net | 3,594 |
 | org | 2,417 |
@@ -27315,6 +27315,7 @@ Here's a list of public Fediverse services.
 | `myhre.wtf` | Yes |
 | `myidanonymous.me` | No |
 | `myifn.de` | No |
+| `myinstance.com` | Yes |
 | `myit.cologne` | No |
 | `myjot.net` | No |
 | `myk3s.de` | No |
@@ -46292,7 +46293,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,544 |
+| Cloudflare | 12,545 |
 | Normal | 33,705 |
 
 
