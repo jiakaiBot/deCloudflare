@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Control plane pods do not come back up after restarting node](https://github.com/rancher/rke2/issues/4526)
 - [Typo in Cloudflare needs fixing](https://github.com/nodejs/build/issues/3438)
 - [Error: 'OpenAICallbackHandler' object has no attribute 'on_retry'](https://github.com/langchain-ai/langchain/issues/8542)
 - [Raspberry Pi (Bullseye): occ libresign:install cfssl results in error](https://github.com/LibreSign/libresign/issues/1798)
