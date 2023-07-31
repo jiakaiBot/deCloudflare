@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Raspberry Pi (Bullseye): occ libresign:install cfssl results in error](https://github.com/LibreSign/libresign/issues/1798)
+- [Raspberry Pi (Bullseye): occ libresign:install cfssl results in error](https://github.com/LibreSign/libresign/issues/1797)
 - [A secretKey or apiKey must be provided error in Cloudflare Workers + Remix](https://github.com/clerkinc/javascript/issues/1540)
 - [FlareSolverr No bypass Cloudflare](https://github.com/FlareSolverr/FlareSolverr/issues/838)
 - [CloudFlare R2 Rclone](https://github.com/megabyte-labs/install.doctor/issues/76)
