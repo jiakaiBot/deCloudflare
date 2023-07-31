@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,032 |
+| com | 7,034 |
 | social | 4,415 |
 | net | 3,594 |
 | org | 2,417 |
@@ -20301,6 +20301,7 @@ Here's a list of public Fediverse services.
 | `kek.church` | Yes |
 | `kek.llc` | No |
 | `kekkai.net` | No |
+| `kekleon.fun` | No |
 | `keks.club` | Yes |
 | `keks.top` | No |
 | `kekstorm.club` | No |
@@ -28326,6 +28327,7 @@ Here's a list of public Fediverse services.
 | `nibiru.nz` | No |
 | `nibis.de` | Yes |
 | `niboe.info` | No |
+| `nicaloro.com` | Yes |
 | `nice.community` | Yes |
 | `nice.kiwi` | Yes |
 | `nice.photo` | No |
@@ -28660,6 +28662,7 @@ Here's a list of public Fediverse services.
 | `noam.social` | No |
 | `noamross.net` | No |
 | `noatodo.com` | No |
+| `noballs.lgbt` | No |
 | `nobelium.xyz` | Yes |
 | `nobelpunk.de` | No |
 | `nobert.zone` | No |
@@ -35413,6 +35416,7 @@ Here's a list of public Fediverse services.
 | `satania.social` | Yes |
 | `satania.space` | No |
 | `satanic.coffee` | No |
+| `satanic.nexus` | No |
 | `satanodon.com` | Yes |
 | `sate.li` | Yes |
 | `satealliasdomain.net` | No |
@@ -37346,6 +37350,7 @@ Here's a list of public Fediverse services.
 | `social.aero` | Yes |
 | `social.archi` | No |
 | `social.as` | Yes |
+| `social.bbc` | No |
 | `social.bzh` | No |
 | `social.cologne` | Yes |
 | `social.com.py` | No |
@@ -40526,6 +40531,7 @@ Here's a list of public Fediverse services.
 | `thewizardingworld.com` | No |
 | `thewomenintechshow.com` | No |
 | `thewookiees.dev` | No |
+| `thewooskeys.com` | No |
 | `theworldiscoated.blue` | No |
 | `thexboxcast.co.nz` | Yes |
 | `thexsoft.com` | Yes |
@@ -46285,8 +46291,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,541 |
-| Normal | 33,701 |
+| Cloudflare | 12,542 |
+| Normal | 33,706 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
