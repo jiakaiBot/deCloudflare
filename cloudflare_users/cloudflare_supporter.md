@@ -8960,6 +8960,7 @@ Do not create new issue or we will close it as duplicate.
 | [NimaNaji@twitter](https://twitter.com/NimaNaji/status/1495309685401993216) | advertise |
 | [nima_jalilzadeh@twitter](https://twitter.com/nima_jalilzadeh/status/1383908849791340555) | advertise |
 | [Nimesh04922409@twitter](https://twitter.com/Nimesh04922409/status/1401428764907642883) | advertise |
+| [nimitr_a@twitter](https://twitter.com/nimitr_a/status/1686020640090845184) | advertise |
 | [nimmneun@twitter](https://twitter.com/nimmneun/status/1435175570288087048) | advertise |
 | [Nimooo22663652@twitter](https://twitter.com/Nimooo22663652/status/1383878514911322115) | advertise |
 | [Ningxi369@twitter](https://twitter.com/Ningxi369/status/1520201182278725632) | advertise |
@@ -9431,6 +9432,7 @@ Do not create new issue or we will close it as duplicate.
 | [PANGJU1996@twitter](https://twitter.com/PANGJU1996/status/1571969373946118144) | advertise |
 | [PangPan28171312@twitter](https://twitter.com/PangPan28171312/status/1398184279448776706) | advertise |
 | [PANKAJOP5@twitter](https://twitter.com/PANKAJOP5/status/1400395931443286019) | advertise |
+| [PankajS91704996@twitter](https://twitter.com/PankajS91704996/status/1686023989561372672) | advertise |
 | [PannEiThandar1@twitter](https://twitter.com/PannEiThandar1/status/1407572218314477570) | advertise |
 | [PannKal92750160@twitter](https://twitter.com/PannKal92750160/status/1386689577373536258) | advertise |
 | [PanoramicaCo@twitter](https://twitter.com/PanoramicaCo/status/1643476104026509313) | advertise |
@@ -12877,6 +12879,7 @@ Do not create new issue or we will close it as duplicate.
 | [UmSaldanha@twitter](https://twitter.com/UmSaldanha/status/1586835109298192385) | advertise |
 | [UMyo85141513@twitter](https://twitter.com/UMyo85141513/status/1401038127473434626) | advertise |
 | [UMZaw4@twitter](https://twitter.com/UMZaw4/status/1380115765228044290) | advertise |
+| [UNaingKoZin1@twitter](https://twitter.com/UNaingKoZin1/status/1686028894925668354) | advertise |
 | [UNay33811485@twitter](https://twitter.com/UNay33811485/status/1391301681929850883) | advertise |
 | [UNayLin21463587@twitter](https://twitter.com/UNayLin21463587/status/1385261437493420044) | advertise |
 | [UncalW@twitter](https://twitter.com/UncalW/status/1396539194676105216) | advertise |
