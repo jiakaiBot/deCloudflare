@@ -32800,6 +32800,7 @@ Here's a list of public Fediverse services.
 | `puri.sm` | No |
 | `puritan.pub` | Yes |
 | `purple.flowers` | No |
+| `purple.ist` | Yes |
 | `purpleforest.social` | No |
 | `purpleit.net` | Yes |
 | `purplepa.ws` | No |
@@ -46266,7 +46267,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,530 |
+| Cloudflare | 12,531 |
 | Normal | 33,693 |
 
 
