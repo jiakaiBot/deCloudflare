@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,031 |
-| social | 4,414 |
-| net | 3,593 |
+| com | 7,032 |
+| social | 4,415 |
+| net | 3,594 |
 | org | 2,417 |
 | de | 2,233 |
 
@@ -7417,7 +7417,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -12800,6 +12800,7 @@ Here's a list of public Fediverse services.
 | `felixkazuya.de` | Yes |
 | `felixmueller.cloud` | No |
 | `felixmueller.social` | No |
+| `felixperron.com` | No |
 | `felk.ie` | No |
 | `felleisen.de` | No |
 | `fellies.social` | No |
@@ -24524,6 +24525,7 @@ Here's a list of public Fediverse services.
 | `mastodon.systems` | Yes |
 | `mastodon.tech` | No |
 | `mastodon.technology` | No |
+| `mastodon.tk` | No |
 | `mastodon.tn` | No |
 | `mastodon.to` | No |
 | `mastodon.tokyo` | No |
@@ -28959,6 +28961,7 @@ Here's a list of public Fediverse services.
 | `not-in.de` | No |
 | `not-ok.computer` | No |
 | `not-really.me` | No |
+| `not-twitter.net` | Yes |
 | `not-very.social` | No |
 | `not.cy` | Yes |
 | `not.hn` | Yes |
@@ -29280,6 +29283,7 @@ Here's a list of public Fediverse services.
 | `nux.ac` | No |
 | `nuxlight.xyz` | No |
 | `nuxnik.com` | No |
+| `nuxy.social` | No |
 | `nuytkens.social` | No |
 | `nuzgo.net` | No |
 | `nuzzlehouse.com` | No |
@@ -45719,6 +45723,7 @@ Here's a list of public Fediverse services.
 | `yukorabb.it` | Yes |
 | `yume.social` | No |
 | `yumehaki.club` | No |
+| `yumeka.pw` | Yes |
 | `yumeka.xyz` | Yes |
 | `yumenosora.net` | Yes |
 | `yumetomo.land` | No |
@@ -46280,8 +46285,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,538 |
-| Normal | 33,699 |
+| Cloudflare | 12,541 |
+| Normal | 33,701 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
