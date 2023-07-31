@@ -5424,6 +5424,7 @@ Do not create new issue or we will close it as duplicate.
 | [JenifarYasmin7@twitter](https://twitter.com/JenifarYasmin7/status/1404862325505462273) | advertise |
 | [jenjira1958@twitter](https://twitter.com/jenjira1958/status/1386021576714317826) | advertise |
 | [Jennife02145345@twitter](https://twitter.com/Jennife02145345/status/1584704770610442241) | advertise |
+| [Jennife66243167@twitter](https://twitter.com/Jennife66243167/status/1685991582061809664) | advertise |
 | [Jeongperth@twitter](https://twitter.com/Jeongperth/status/1384190962499416071) | advertise |
 | [JeonHnin@twitter](https://twitter.com/JeonHnin/status/1396070462728204289) | advertise |
 | [jeon_taeguk@twitter](https://twitter.com/jeon_taeguk/status/1398449609018540034) | advertise |
@@ -8943,6 +8944,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nikhil47320517@twitter](https://twitter.com/Nikhil47320517/status/1380806296295907328) | advertise |
 | [Nikhil890445791@twitter](https://twitter.com/Nikhil890445791/status/1539328064546816000) | advertise |
 | [NikhilK22292740@twitter](https://twitter.com/NikhilK22292740/status/1683302469449949184) | advertise |
+| [Nikhilpal4201@twitter](https://twitter.com/Nikhilpal4201/status/1685991634612146176) | advertise |
 | [NikhilS67789197@twitter](https://twitter.com/NikhilS67789197/status/1400026495444086785) | advertise |
 | [NikhilS76692989@twitter](https://twitter.com/NikhilS76692989/status/1386257034522218501) | advertise |
 | [NikhilSPawar4@twitter](https://twitter.com/NikhilSPawar4/status/1447058829020069891) | advertise |
