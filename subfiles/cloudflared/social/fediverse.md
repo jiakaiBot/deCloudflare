@@ -14613,6 +14613,7 @@ Here's a list of public Fediverse services.
 | `gbarbieripederiva.com.ar` | Yes |
 | `gbbowers.com` | No |
 | `gbd-corp.fr` | No |
+| `gbdev.io` | Yes |
 | `gbenjamin.fr` | No |
 | `gbg.social` | No |
 | `gbl08ma.com` | No |
@@ -20485,7 +20486,7 @@ Here's a list of public Fediverse services.
 | `khsmty.com` | Yes |
 | `khuluma.de` | Yes |
 | `khushrajrathod.com` | Yes |
-| `ki6bjv.social` | No |
+| `ki6bjv.social` | Yes |
 | `kianga.eu` | Yes |
 | `kianting.info` | No |
 | `kiarc.win` | Yes |
@@ -21464,7 +21465,7 @@ Here's a list of public Fediverse services.
 | `l33t.link` | Yes |
 | `l3ib.org` | No |
 | `l3mmy.com` | Yes |
-| `l3r.me` | Yes |
+| `l3r.me` | No |
 | `l4.pm` | Yes |
 | `l4m1.de` | No |
 | `l4p1n.ch` | No |
@@ -28839,7 +28840,7 @@ Here's a list of public Fediverse services.
 | `nonzero.social` | No |
 | `noob.party` | No |
 | `noob.quest` | No |
-| `nooble.cloud` | Yes |
+| `nooble.cloud` | No |
 | `noodle.social` | No |
 | `noods.fun` | Yes |
 | `noogs.me` | Yes |
@@ -31538,7 +31539,7 @@ Here's a list of public Fediverse services.
 | `pini.fr` | No |
 | `pink-hair.studio` | No |
 | `pink.institute` | No |
-| `pinkdog.cc` | Yes |
+| `pinkdog.cc` | No |
 | `pinkduck.xyz` | No |
 | `pinkelephant.dev` | No |
 | `pinkelephantco.de` | No |
@@ -45130,6 +45131,7 @@ Here's a list of public Fediverse services.
 | `xn--ocane-csa.fr` | No |
 | `xn--p1abe3d.xn--80asehdb` | No |
 | `xn--p68ha.ml` | No |
+| `xn--p8ja8e.xn--q9jyb4c` | No |
 | `xn--p8s937b.net` | Yes |
 | `xn--pckuas0oz21m64d.jp` | No |
 | `xn--pikabl-0xa.se` | No |
@@ -46262,8 +46264,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,530 |
-| Normal | 33,689 |
+| Cloudflare | 12,529 |
+| Normal | 33,692 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
