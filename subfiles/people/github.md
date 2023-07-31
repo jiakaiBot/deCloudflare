@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [A secretKey or apiKey must be provided error in Cloudflare Workers + Remix](https://github.com/clerkinc/javascript/issues/1540)
 - [FlareSolverr No bypass Cloudflare](https://github.com/FlareSolverr/FlareSolverr/issues/838)
 - [CloudFlare R2 Rclone](https://github.com/megabyte-labs/install.doctor/issues/76)
 - [When docker service need to be replaced but not destroy exists one](https://github.com/kreuzwerker/terraform-provider-docker/issues/574)
