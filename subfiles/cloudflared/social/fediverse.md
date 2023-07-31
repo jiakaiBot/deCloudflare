@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,030 |
-| social | 4,413 |
-| net | 3,591 |
-| org | 2,416 |
-| de | 2,232 |
+| com | 7,031 |
+| social | 4,414 |
+| net | 3,593 |
+| org | 2,417 |
+| de | 2,233 |
 
 
 - Mastodon, Pleroma, etc
@@ -1076,6 +1076,7 @@ Here's a list of public Fediverse services.
 | `addicted.social` | No |
 | `addictiv.ink` | No |
 | `addictmud.org` | No |
+| `adding.space` | No |
 | `addy.gg` | Yes |
 | `addyadds.us` | No |
 | `adef.xyz` | No |
@@ -4007,6 +4008,7 @@ Here's a list of public Fediverse services.
 | `benhutchings.com` | No |
 | `beniceplease.com` | No |
 | `benign.town` | No |
+| `benis.co.uk` | Yes |
 | `benis.social` | No |
 | `benis8bits.stream` | No |
 | `benitox1.tk` | No |
@@ -5524,6 +5526,7 @@ Here's a list of public Fediverse services.
 | `bullaren.cloud` | No |
 | `bullcity.space` | Yes |
 | `buller.cc` | No |
+| `bulles.social` | No |
 | `bulletintree.com` | No |
 | `bulletsender.com` | No |
 | `bullgit.party` | No |
@@ -6445,6 +6448,7 @@ Here's a list of public Fediverse services.
 | `chaotic.social` | No |
 | `chaoticaredux.com` | No |
 | `chaoticgames.xyz` | No |
+| `chaoticqueers.org` | Yes |
 | `chaoticride.com` | No |
 | `chaotics.gay` | Yes |
 | `chaotikum.org` | No |
@@ -13324,6 +13328,7 @@ Here's a list of public Fediverse services.
 | `fm32.com.br` | Yes |
 | `fmaurice.fr` | No |
 | `fmhy.ml` | Yes |
+| `fmhy.net` | Yes |
 | `fmind.me` | No |
 | `fmty.cloud` | Yes |
 | `fmvilas.me` | No |
@@ -14050,6 +14055,7 @@ Here's a list of public Fediverse services.
 | `fucksocial.net` | No |
 | `fuckthe.cash` | Yes |
 | `fucktodon.tokyo` | No |
+| `fucs.io` | Yes |
 | `fud.nu` | Yes |
 | `fudanchii.net` | No |
 | `fudanshi.org` | No |
@@ -16004,6 +16010,7 @@ Here's a list of public Fediverse services.
 | `hackers.org` | No |
 | `hackers.radio` | Yes |
 | `hackers.social` | No |
+| `hackers.surf` | Yes |
 | `hackers.town` | No |
 | `hackersatporto.com` | Yes |
 | `hackerscop.org` | No |
@@ -27633,6 +27640,7 @@ Here's a list of public Fediverse services.
 | `nardi.social` | No |
 | `narf.ca` | No |
 | `narf.social` | No |
+| `narfin.fi` | No |
 | `narikiri.club` | No |
 | `narinimous.fr` | No |
 | `narod.city` | No |
@@ -30108,6 +30116,7 @@ Here's a list of public Fediverse services.
 | `orangehalo.net` | No |
 | `orangeliner.net` | Yes |
 | `orangem.net` | Yes |
+| `orangemayhem.net` | Yes |
 | `orangenote.dev` | No |
 | `orangespatula.com` | No |
 | `orani.co` | No |
@@ -32267,6 +32276,7 @@ Here's a list of public Fediverse services.
 | `potaodon.audio` | No |
 | `potate.space` | No |
 | `potateo.com` | No |
+| `potato.church` | No |
 | `potato.ski` | No |
 | `potato.technology` | No |
 | `potatofrom.space` | Yes |
@@ -33939,6 +33949,7 @@ Here's a list of public Fediverse services.
 | `remarker.co` | Yes |
 | `remben.ch` | No |
 | `remco.social` | No |
+| `remco.xyz` | No |
 | `remcorp.fr` | No |
 | `remeika.social` | No |
 | `remembertheend.com` | Yes |
@@ -37308,6 +37319,7 @@ Here's a list of public Fediverse services.
 | `sobieck.social` | No |
 | `sobieski.social` | No |
 | `sobkowicz.org` | No |
+| `soc42.com` | Yes |
 | `socaas.site` | No |
 | `socalgo.org` | No |
 | `socarlson.com` | Yes |
@@ -40421,6 +40433,7 @@ Here's a list of public Fediverse services.
 | `thesimons.us` | No |
 | `thesimplecorner.org` | No |
 | `thesinalab.de` | No |
+| `thesis.de` | No |
 | `thesix.life` | No |
 | `thesix.social` | No |
 | `theskimonster.social` | No |
@@ -46267,8 +46280,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,531 |
-| Normal | 33,693 |
+| Cloudflare | 12,538 |
+| Normal | 33,699 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
