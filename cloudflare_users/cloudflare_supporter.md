@@ -11582,6 +11582,7 @@ Do not create new issue or we will close it as duplicate.
 | [SunShin97584842@twitter](https://twitter.com/SunShin97584842/status/1389530061120831489) | advertise |
 | [sunskyxh@twitter](https://twitter.com/sunskyxh/status/1635904652578521088) | advertise |
 | [Sunti64023767@twitter](https://twitter.com/Sunti64023767/status/1395120838727245825) | advertise |
+| [Sup31571142@twitter](https://twitter.com/Sup31571142/status/1686081492030754816) | advertise |
 | [superayc@twitter](https://twitter.com/superayc/status/1385426760506826756) | advertise |
 | [SuperDhyaz@twitter](https://twitter.com/SuperDhyaz/status/1555238947294289922) | advertise |
 | [SuperduperMh12@twitter](https://twitter.com/SuperduperMh12/status/1386257404518563841) | advertise |
