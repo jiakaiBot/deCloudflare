@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,035 |
+| com | 7,036 |
 | social | 4,416 |
 | net | 3,594 |
 | org | 2,417 |
@@ -24684,6 +24684,7 @@ Here's a list of public Fediverse services.
 | `mastoground.ga` | No |
 | `mastohack.com` | No |
 | `mastohon.com` | No |
+| `mastohost.fun` | Yes |
 | `mastohun.tk` | No |
 | `mastoid.dev` | No |
 | `mastolivre.fr` | No |
@@ -46020,6 +46021,7 @@ Here's a list of public Fediverse services.
 | `zesummen.online` | No |
 | `zetamu.club` | No |
 | `zetamu.love` | No |
+| `zetaphor.com` | No |
 | `zetaspace.org` | Yes |
 | `zetawing.com` | No |
 | `zete.tk` | No |
@@ -46293,8 +46295,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,545 |
-| Normal | 33,705 |
+| Cloudflare | 12,546 |
+| Normal | 33,706 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
