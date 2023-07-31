@@ -74,6 +74,7 @@ Do not create new issue or we will close it as duplicate.
 | [2b_an_angel@twitter](https://twitter.com/2b_an_angel/status/1598726056072155145) | advertise |
 | [2DOkAuz5FGdyO5u@twitter](https://twitter.com/2DOkAuz5FGdyO5u/status/1390639905290792967) | advertise |
 | [2EZ4TVA_TVA@twitter](https://twitter.com/2EZ4TVA_TVA/status/1580470328454938625) | advertise |
+| [2gether_prem@twitter](https://twitter.com/2gether_prem/status/1685778668185145344) | advertise |
 | [2k3Aesthetics@twitter](https://twitter.com/2k3Aesthetics/status/1391304277319053327) | advertise |
 | [2kblvck@twitter](https://twitter.com/2kblvck/status/1633862315899514881) | advertise |
 | [2nTambun@twitter](https://twitter.com/2nTambun/status/1600898039400386560) | advertise |
@@ -4747,6 +4748,7 @@ Do not create new issue or we will close it as duplicate.
 | [HtooHto29422369@twitter](https://twitter.com/HtooHto29422369/status/1391661426314387458) | advertise |
 | [HtooHto85837148@twitter](https://twitter.com/HtooHto85837148/status/1586611847087927296) | advertise |
 | [HtooHtooEaint1@twitter](https://twitter.com/HtooHtooEaint1/status/1381534064839061505) | advertise |
+| [HtooKha64802014@twitter](https://twitter.com/HtooKha64802014/status/1685936071664902144) | advertise |
 | [htookoko19294@twitter](https://twitter.com/htookoko19294/status/1516005284623556610) | advertise |
 | [HtooLay78708826@twitter](https://twitter.com/HtooLay78708826/status/1393573561705455620) | advertise |
 | [htoomyathtet7@twitter](https://twitter.com/htoomyathtet7/status/1392921670323621888) | advertise |
@@ -10225,6 +10227,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rasikalink@twitter](https://twitter.com/Rasikalink/status/1430962085832413187) | advertise |
 | [RasoniyaSandeep@twitter](https://twitter.com/RasoniyaSandeep/status/1399271913160155138) | advertise |
 | [Rasoolmm2@twitter](https://twitter.com/Rasoolmm2/status/1683531680768770059) | advertise |
+| [raspi0124@twitter](https://twitter.com/raspi0124/status/1685934084474986497) | advertise |
 | [rastabike@twitter](https://twitter.com/rastabike/status/1490598250877014019) | advertise |
 | [rasty870@twitter](https://twitter.com/rasty870/status/1557078339277377537) | advertise |
 | [RathodD77237770@twitter](https://twitter.com/RathodD77237770/status/1681364250894409728) | advertise |
@@ -12762,6 +12765,7 @@ Do not create new issue or we will close it as duplicate.
 | [tunlinnainggtc@twitter](https://twitter.com/tunlinnainggtc/status/1392842957846286336) | advertise |
 | [TunLinWai9@twitter](https://twitter.com/TunLinWai9/status/1394936238151327745) | advertise |
 | [TUNMINL77865456@twitter](https://twitter.com/TUNMINL77865456/status/1404506273526128644) | advertise |
+| [TunMyat15@twitter](https://twitter.com/TunMyat15/status/1685915066770870272) | advertise |
 | [TUNNAUN44369176@twitter](https://twitter.com/TUNNAUN44369176/status/1392835406618451970) | advertise |
 | [tunoolwin@twitter](https://twitter.com/tunoolwin/status/1392362223973056513) | advertise |
 | [tunsang71103873@twitter](https://twitter.com/tunsang71103873/status/1401793040088371202) | advertise |
