@@ -9689,6 +9689,7 @@ Do not create new issue or we will close it as duplicate.
 | [Phuong85dn@twitter](https://twitter.com/Phuong85dn/status/1498692053269872646) | advertise |
 | [PhuongChuoiDG@twitter](https://twitter.com/PhuongChuoiDG/status/1647138381460299777) | advertise |
 | [phuonggo7777@twitter](https://twitter.com/phuonggo7777/status/1578765729985593351) | advertise |
+| [phuongl272206@twitter](https://twitter.com/phuongl272206/status/1685922234391789569) | advertise |
 | [PhuongN06408230@twitter](https://twitter.com/PhuongN06408230/status/1380512562735804418) | advertise |
 | [PhuongN09560858@twitter](https://twitter.com/PhuongN09560858/status/1377291979885748228) | advertise |
 | [phuongnamxaxoo1@twitter](https://twitter.com/phuongnamxaxoo1/status/1395295769100357633) | advertise |
