@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,034 |
-| social | 4,415 |
+| social | 4,416 |
 | net | 3,594 |
 | org | 2,417 |
 | de | 2,233 |
@@ -1270,7 +1270,7 @@ Here's a list of public Fediverse services.
 | `agol.one` | No |
 | `agoni.news` | No |
 | `agonisedrock.xyz` | Yes |
-| `agonyalan.com` | No |
+| `agonyalan.com` | Yes |
 | `agood.dog` | No |
 | `agoomem.xyz` | No |
 | `agora-thinktanks.social` | No |
@@ -4709,6 +4709,7 @@ Here's a list of public Fediverse services.
 | `blogging-life.com` | No |
 | `blogging.dk` | No |
 | `bloggingintensifies.com` | Yes |
+| `blogi.social` | Yes |
 | `blogkreatywny.pl` | No |
 | `blognot.co` | No |
 | `blogold.xyz` | Yes |
@@ -46291,8 +46292,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,542 |
-| Normal | 33,706 |
+| Cloudflare | 12,544 |
+| Normal | 33,705 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
