@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: 'OpenAICallbackHandler' object has no attribute 'on_retry'](https://github.com/langchain-ai/langchain/issues/8542)
 - [Raspberry Pi (Bullseye): occ libresign:install cfssl results in error](https://github.com/LibreSign/libresign/issues/1798)
 - [Raspberry Pi (Bullseye): occ libresign:install cfssl results in error](https://github.com/LibreSign/libresign/issues/1797)
 - [A secretKey or apiKey must be provided error in Cloudflare Workers + Remix](https://github.com/clerkinc/javascript/issues/1540)
