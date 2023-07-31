@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,036 |
 | social | 4,416 |
-| net | 3,594 |
-| org | 2,417 |
+| net | 3,595 |
+| org | 2,418 |
 | de | 2,233 |
 
 
@@ -200,6 +200,7 @@ Here's a list of public Fediverse services.
 | `10rino.net` | No |
 | `10vorne.eu` | No |
 | `10x.sh` | Yes |
+| `110010.win` | Yes |
 | `1132don.com` | No |
 | `114514.xyz` | Yes |
 | `117.social` | No |
@@ -4108,6 +4109,7 @@ Here's a list of public Fediverse services.
 | `besirovic.com` | No |
 | `besocial.co.za` | No |
 | `besofa.de` | No |
+| `bespectacat.net` | Yes |
 | `bespoke.biz.id` | No |
 | `besseling.social` | Yes |
 | `besserwisser.org` | No |
@@ -27366,6 +27368,7 @@ Here's a list of public Fediverse services.
 | `myother.life` | No |
 | `myown.social` | No |
 | `myownhost.de` | No |
+| `mypdns.org` | No |
 | `mypeertube.fr` | No |
 | `mypict.net` | No |
 | `mypixl.fr` | No |
@@ -46295,8 +46298,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,546 |
-| Normal | 33,706 |
+| Cloudflare | 12,548 |
+| Normal | 33,707 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
