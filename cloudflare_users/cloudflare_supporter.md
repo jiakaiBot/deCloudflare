@@ -2863,6 +2863,7 @@ Do not create new issue or we will close it as duplicate.
 | [dhadha_sapkota@twitter](https://twitter.com/dhadha_sapkota/status/1376753394195427332) | advertise |
 | [dhanaraj_mukesh@twitter](https://twitter.com/dhanaraj_mukesh/status/1397963601734881280) | advertise |
 | [dhanishgajjar@twitter](https://twitter.com/dhanishgajjar/status/1404338714147311618) | advertise |
+| [DharmeshDhakrey@twitter](https://twitter.com/DharmeshDhakrey/status/1686074759623364608) | advertise |
 | [dhfhjffhgggdf@twitter](https://twitter.com/dhfhjffhgggdf/status/1600849343170613248) | advertise |
 | [Dhikshith123@twitter](https://twitter.com/Dhikshith123/status/1391699512846999555) | advertise |
 | [Dhiraj12173428@twitter](https://twitter.com/Dhiraj12173428/status/1395206916792410115) | advertise |
@@ -3073,6 +3074,7 @@ Do not create new issue or we will close it as duplicate.
 | [DrDisisBack1@twitter](https://twitter.com/DrDisisBack1/status/1398604770924019715) | advertise |
 | [dreadkideasy@twitter](https://twitter.com/dreadkideasy/status/1665874479774416897) | advertise |
 | [Dreambo12373748@twitter](https://twitter.com/Dreambo12373748/status/1393571818338877444) | advertise |
+| [DRenaud704@twitter](https://twitter.com/DRenaud704/status/1686062992348102656) | advertise |
 | [Drew94519219@twitter](https://twitter.com/Drew94519219/status/1573485793947316224) | advertise |
 | [dreywandowski@twitter](https://twitter.com/dreywandowski/status/1491808990153560066) | advertise |
 | [DrGhanizadeh@twitter](https://twitter.com/DrGhanizadeh/status/1664330003511648259) | advertise |
@@ -4428,6 +4430,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hiu86351397@twitter](https://twitter.com/Hiu86351397/status/1380126531834408960) | advertise |
 | [Hiu88798614@twitter](https://twitter.com/Hiu88798614/status/1475849903586754560) | advertise |
 | [HiuBonVP@twitter](https://twitter.com/HiuBonVP/status/1628407581684432897) | advertise |
+| [HiuHiu9889@twitter](https://twitter.com/HiuHiu9889/status/1686073563089190912) | advertise |
 | [HiuHoan24222988@twitter](https://twitter.com/HiuHoan24222988/status/1560628210898939904) | advertise |
 | [Hiuhoang12@twitter](https://twitter.com/Hiuhoang12/status/1400331067396038659) | advertise |
 | [HiuL02105433@twitter](https://twitter.com/HiuL02105433/status/1632657991806726145) | advertise |
@@ -10054,6 +10057,7 @@ Do not create new issue or we will close it as duplicate.
 | [quangka09@twitter](https://twitter.com/quangka09/status/1391117991790608385) | advertise |
 | [quangl97035130@twitter](https://twitter.com/quangl97035130/status/1600874356099334147) | advertise |
 | [QuanglinhLe1@twitter](https://twitter.com/QuanglinhLe1/status/1638627610027786242) | advertise |
+| [quangmanh_le@twitter](https://twitter.com/quangmanh_le/status/1686072318190403584) | advertise |
 | [QuangNg40882818@twitter](https://twitter.com/QuangNg40882818/status/1406561229947035654) | advertise |
 | [Quangnghiahi@twitter](https://twitter.com/Quangnghiahi/status/1549424943594479616) | advertise |
 | [quangnhat0809@twitter](https://twitter.com/quangnhat0809/status/1379958517851824129) | advertise |
