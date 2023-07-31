@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [FlareSolverr No bypass Cloudflare](https://github.com/FlareSolverr/FlareSolverr/issues/838)
 - [CloudFlare R2 Rclone](https://github.com/megabyte-labs/install.doctor/issues/76)
 - [When docker service need to be replaced but not destroy exists one](https://github.com/kreuzwerker/terraform-provider-docker/issues/574)
 - [flaresolver dosen't work anymore with yggtorrent.wtf wesite](https://github.com/FlareSolverr/FlareSolverr/issues/833)
