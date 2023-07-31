@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 7,036 |
 | social | 4,416 |
 | net | 3,595 |
-| org | 2,418 |
+| org | 2,419 |
 | de | 2,233 |
 
 
@@ -29064,6 +29064,7 @@ Here's a list of public Fediverse services.
 | `notyour.tech` | No |
 | `nouni.sh` | No |
 | `noupti.me` | No |
+| `noury.ee` | Yes |
 | `noushi.chat` | Yes |
 | `noussommes.org` | No |
 | `noutori.space` | No |
@@ -32223,6 +32224,7 @@ Here's a list of public Fediverse services.
 | `port87.social` | Yes |
 | `porta.fi` | No |
 | `portaesgnos.org` | No |
+| `portal.org` | Yes |
 | `portend.place` | No |
 | `porter-bridges.net` | No |
 | `portertech.ca` | No |
@@ -46298,7 +46300,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,548 |
+| Cloudflare | 12,550 |
 | Normal | 33,707 |
 
 
