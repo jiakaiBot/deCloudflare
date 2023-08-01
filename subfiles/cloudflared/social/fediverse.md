@@ -13490,6 +13490,7 @@ Here's a list of public Fediverse services.
 | `foss.al` | No |
 | `foss.gay` | Yes |
 | `foss.guru` | No |
+| `foss.place` | No |
 | `foss.social` | No |
 | `foss.technology` | Yes |
 | `foss.tube` | No |
@@ -46327,7 +46328,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,571 |
-| Normal | 33,712 |
+| Normal | 33,713 |
 
 
 ### 27.2% of public Fediverse services are using Cloudflare.
