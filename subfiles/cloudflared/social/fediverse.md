@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,036 |
+| com | 7,037 |
 | social | 4,416 |
 | net | 3,598 |
 | org | 2,420 |
@@ -7421,7 +7421,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -20066,7 +20066,7 @@ Here's a list of public Fediverse services.
 | `kapoios.com` | No |
 | `kappa.space` | Yes |
 | `kappapi.rocks` | No |
-| `kappawingman.com` | Yes |
+| `kappawingman.com` | No |
 | `kappenfreun.de` | No |
 | `kapsi.fi` | No |
 | `kaptainrio.de` | No |
@@ -31250,6 +31250,7 @@ Here's a list of public Fediverse services.
 | `peterbabic.dev` | No |
 | `peterdebelak.com` | No |
 | `peterdutoit.com` | No |
+| `peterdwall.com` | Yes |
 | `petergoes.nl` | No |
 | `peterjanes.ca` | No |
 | `peterlehmann.xyz` | No |
@@ -34826,7 +34827,7 @@ Here's a list of public Fediverse services.
 | `rtorr.com` | Yes |
 | `rtrace.io` | No |
 | `rtsemissions.ch` | No |
-| `rtter.com` | Yes |
+| `rtter.com` | No |
 | `rtwebb.com` | No |
 | `rtx3070kure.net` | No |
 | `rtyn.berlin` | No |
@@ -42795,7 +42796,7 @@ Here's a list of public Fediverse services.
 | `uso108.site` | No |
 | `usocial.fr` | No |
 | `usokkey.club` | No |
-| `usounds.work` | No |
+| `usounds.work` | Yes |
 | `usr.cloud` | Yes |
 | `usrlocal.net` | No |
 | `ussr.win` | No |
@@ -46315,8 +46316,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,560 |
-| Normal | 33,712 |
+| Cloudflare | 12,559 |
+| Normal | 33,714 |
 
 
 ### 27.1% of public Fediverse services are using Cloudflare.
