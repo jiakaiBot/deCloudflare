@@ -14377,7 +14377,7 @@ Here's a list of public Fediverse services.
 | `gadgeteer.co.za` | Yes |
 | `gadgetgedanken.de` | No |
 | `gadgetoid.com` | Yes |
-| `gadgetro.id` | No |
+| `gadgetro.id` | Yes |
 | `gadsen.net` | Yes |
 | `gaeilge.social` | No |
 | `gaelicwizard.net` | No |
@@ -21296,6 +21296,7 @@ Here's a list of public Fediverse services.
 | `kuenstlerquadrat.de` | No |
 | `kuester7.com` | No |
 | `kuhen.biz` | No |
+| `kuhla.cloud` | Yes |
 | `kuhnchris.eu` | No |
 | `kuhs.me` | Yes |
 | `kuinya.net` | Yes |
@@ -41034,6 +41035,7 @@ Here's a list of public Fediverse services.
 | `toho.club` | Yes |
 | `toine.be` | No |
 | `toivioretki.fi` | Yes |
+| `tojan.icu` | No |
 | `tojo.tokyo` | No |
 | `tokamstdn.jp` | No |
 | `tokhmi.xyz` | Yes |
@@ -45056,6 +45058,7 @@ Here's a list of public Fediverse services.
 | `xingxing.digital` | No |
 | `xinsto.xyz` | Yes |
 | `xinu.me` | No |
+| `xinyang.life` | Yes |
 | `xion.social` | Yes |
 | `xip.es` | No |
 | `xip.io` | Yes |
@@ -46316,7 +46319,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,559 |
+| Cloudflare | 12,562 |
 | Normal | 33,714 |
 
 
