@@ -8707,6 +8707,7 @@ Do not create new issue or we will close it as duplicate.
 | [ngu70789035@twitter](https://twitter.com/ngu70789035/status/1603091179309912064) | advertise |
 | [ngubaven1@twitter](https://twitter.com/ngubaven1/status/1490672816022507520) | advertise |
 | [NgunvnLi2@twitter](https://twitter.com/NgunvnLi2/status/1611613690524233728) | advertise |
+| [NguoidaxaHoang@twitter](https://twitter.com/NguoidaxaHoang/status/1686304804182831106) | advertise |
 | [nguoidepnhinene@twitter](https://twitter.com/nguoidepnhinene/status/1622987929177186304) | advertise |
 | [NguoiXaX3@twitter](https://twitter.com/NguoiXaX3/status/1657306243621621761) | advertise |
 | [nguthinung@twitter](https://twitter.com/nguthinung/status/1388157982295302145) | advertise |
@@ -12211,6 +12212,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thng45509564@twitter](https://twitter.com/Thng45509564/status/1537817677468938240) | advertise |
 | [Thng91268245@twitter](https://twitter.com/Thng91268245/status/1592903001123192835) | advertise |
 | [ThngAnh90026457@twitter](https://twitter.com/ThngAnh90026457/status/1389297361734692865) | advertise |
+| [ThngBui12@twitter](https://twitter.com/ThngBui12/status/1686303401704087552) | advertise |
 | [ThngL24603985@twitter](https://twitter.com/ThngL24603985/status/1559517329939017728) | advertise |
 | [thngngu22608045@twitter](https://twitter.com/thngngu22608045/status/1472219741029044227) | advertise |
 | [ThngPhm75066172@twitter](https://twitter.com/ThngPhm75066172/status/1684950680409124864) | advertise |
@@ -12424,6 +12426,7 @@ Do not create new issue or we will close it as duplicate.
 | [TnNgha8@twitter](https://twitter.com/TnNgha8/status/1397500016055357440) | advertise |
 | [TnNguyn57740396@twitter](https://twitter.com/TnNguyn57740396/status/1622606187551395841) | advertise |
 | [TnNguyn90524471@twitter](https://twitter.com/TnNguyn90524471/status/1518930560218927104) | advertise |
+| [TnoDuy290398@twitter](https://twitter.com/TnoDuy290398/status/1686309133392531456) | advertise |
 | [tntn22096759@twitter](https://twitter.com/tntn22096759/status/1398392845615067138) | advertise |
 | [Tntrn47460351@twitter](https://twitter.com/Tntrn47460351/status/1379142780765675520) | advertise |
 | [TNyient@twitter](https://twitter.com/TNyient/status/1387259629005062145) | advertise |
