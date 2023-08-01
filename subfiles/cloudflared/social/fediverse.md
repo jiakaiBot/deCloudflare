@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,037 |
+| com | 7,038 |
 | social | 4,417 |
 | net | 3,598 |
 | org | 2,420 |
@@ -10608,6 +10608,7 @@ Here's a list of public Fediverse services.
 | `duanxin.asia` | No |
 | `duarte.cl` | No |
 | `duarte.vg` | No |
+| `dubblecross.work` | Yes |
 | `dubdub.space` | No |
 | `dubitaristes.fr` | No |
 | `dubnation.social` | Yes |
@@ -12483,6 +12484,7 @@ Here's a list of public Fediverse services.
 | `federado.es` | No |
 | `federarks.xyz` | No |
 | `federatable.com` | Yes |
+| `federate.cc` | Yes |
 | `federate.me.uk` | No |
 | `federate.social` | No |
 | `federated-networks.org` | No |
@@ -13490,7 +13492,7 @@ Here's a list of public Fediverse services.
 | `foss.al` | No |
 | `foss.gay` | Yes |
 | `foss.guru` | No |
-| `foss.place` | No |
+| `foss.place` | Yes |
 | `foss.social` | No |
 | `foss.technology` | Yes |
 | `foss.tube` | No |
@@ -16017,6 +16019,7 @@ Here's a list of public Fediverse services.
 | `hackerjunkie.nl` | No |
 | `hackerlab.fr` | No |
 | `hackerposse.com` | No |
+| `hackers.center` | No |
 | `hackers.city` | No |
 | `hackers.life` | No |
 | `hackers.org` | No |
@@ -16037,6 +16040,7 @@ Here's a list of public Fediverse services.
 | `hackerverse.social` | No |
 | `hackerzlab.net` | No |
 | `hackerzone.space` | Yes |
+| `hacking.dk` | No |
 | `hackingand.coffee` | Yes |
 | `hackinglordsutch.co` | No |
 | `hackjob.solutions` | No |
@@ -24170,6 +24174,7 @@ Here's a list of public Fediverse services.
 | `massrecloud.com` | Yes |
 | `masstoc.io` | No |
 | `massy.city` | No |
+| `massy.dk` | No |
 | `mast.boston` | No |
 | `mast.casa` | No |
 | `mast.city` | No |
@@ -25141,6 +25146,7 @@ Here's a list of public Fediverse services.
 | `meety.me` | No |
 | `mef.gg` | Yes |
 | `mefi.social` | No |
+| `meg.li` | No |
 | `mega7.cloud` | No |
 | `megacorp.life` | No |
 | `megadon.net` | No |
@@ -25671,6 +25677,7 @@ Here's a list of public Fediverse services.
 | `mika.xyz` | No |
 | `mikado-city.jp` | No |
 | `mikaela.info` | Yes |
+| `mikaelsuomela.com` | No |
 | `mikaljakubal.com` | Yes |
 | `mikanbako.blog` | Yes |
 | `mikancat-lab.com` | Yes |
@@ -37814,6 +37821,7 @@ Here's a list of public Fediverse services.
 | `spartanserver.org` | No |
 | `spathoche.ovh` | No |
 | `spatioport.net` | No |
+| `spatiotemporal.space` | No |
 | `spatlo.com` | Yes |
 | `spatzenpost.eu` | No |
 | `spaz.org` | No |
@@ -46327,8 +46335,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,571 |
-| Normal | 33,713 |
+| Cloudflare | 12,574 |
+| Normal | 33,718 |
 
 
 ### 27.2% of public Fediverse services are using Cloudflare.
