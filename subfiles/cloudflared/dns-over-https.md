@@ -78,7 +78,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | datamatter.co.za | No |
 | daw.dev | No |
 | decloudus.com | No |
-| dekonix.ru | Yes |
 | despagne.net | No |
 | dessoi.cloud | Yes |
 | detoxifypornblocker.com | No |
@@ -186,7 +185,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lacontrevoie.fr | No |
 | lastentarvike.fi | No |
 | lavate.ch | Yes |
-| leadmon.net | No |
 | lefolgoc.net | No |
 | lekdijk.online | No |
 | lindung.pp.ua | Yes |
@@ -209,7 +207,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | msr177.com | No |
 | msxnet.ru | Yes |
 | mullvad.net | No |
-| multimediaconcept.fr | No |
 | murgi.de | No |
 | muxinghe.cn | Yes |
 | muxyuji.ru | No |
@@ -348,8 +345,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 167 |
-| Normal | 162 |
+| Cloudflare | 166 |
+| Normal | 160 |
 
 
-### 50.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
