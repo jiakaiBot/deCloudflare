@@ -8372,6 +8372,7 @@ Here's a list of public Fediverse services.
 | `cuvou.net` | No |
 | `cville.online` | No |
 | `cwagner.me` | No |
+| `cwain.dk` | Yes |
 | `cwb.social` | No |
 | `cwill.us` | Yes |
 | `cwilson.blog` | No |
@@ -27420,7 +27421,7 @@ Here's a list of public Fediverse services.
 | `mysacredaltar.com` | No |
 | `myselfdot.work` | No |
 | `myselfhosted.net` | Yes |
-| `myserv.one` | No |
+| `myserv.one` | Yes |
 | `myside-yourside.net` | No |
 | `mysignal.world` | No |
 | `mysim.online` | No |
@@ -29124,6 +29125,7 @@ Here's a list of public Fediverse services.
 | `nowheycreamery.com` | No |
 | `nowicki.io` | Yes |
 | `nowods.com` | No |
+| `noworriesto.day` | No |
 | `nowossjolka.com` | Yes |
 | `nowsci.com` | Yes |
 | `nowtech.io` | Yes |
@@ -30674,7 +30676,7 @@ Here's a list of public Fediverse services.
 | `pageofwords.com` | No |
 | `pagez.co.uk` | No |
 | `pah.social` | No |
-| `paidspeechextremist.com` | No |
+| `paidspeechextremist.com` | Yes |
 | `pain.moe` | Yes |
 | `painkiller.es` | No |
 | `paintacu.be` | No |
@@ -46348,8 +46350,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,579 |
-| Normal | 33,726 |
+| Cloudflare | 12,582 |
+| Normal | 33,725 |
 
 
 ### 27.2% of public Fediverse services are using Cloudflare.
