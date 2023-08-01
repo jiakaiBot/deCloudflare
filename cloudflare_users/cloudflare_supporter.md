@@ -3567,6 +3567,7 @@ Do not create new issue or we will close it as duplicate.
 | [fayas1699gcsd@twitter](https://twitter.com/fayas1699gcsd/status/1605239027439140864) | advertise |
 | [Fayek86177337@twitter](https://twitter.com/Fayek86177337/status/1685423029046644736) | advertise |
 | [fazalrahim3362@twitter](https://twitter.com/fazalrahim3362/status/1648889429958750209) | advertise |
+| [fazeelrina1@twitter](https://twitter.com/fazeelrina1/status/1427343740113342482) | advertise |
 | [Fazian47524484@twitter](https://twitter.com/Fazian47524484/status/1400881570408394753) | advertise |
 | [FbworlNews@twitter](https://twitter.com/FbworlNews/status/1401094204743372800) | advertise |
 | [fdc_tuna2134@twitter](https://twitter.com/fdc_tuna2134/status/1612577796903272450) | advertise |
