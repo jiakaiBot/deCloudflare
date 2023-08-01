@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ENTER/LEAVE - Error on supported site](https://github.com/mikf/gallery-dl/issues/4373)
 - [Control plane pods do not come back up after restarting node](https://github.com/rancher/rke2/issues/4526)
 - [Typo in Cloudflare needs fixing](https://github.com/nodejs/build/issues/3438)
 - [Error: 'OpenAICallbackHandler' object has no attribute 'on_retry'](https://github.com/langchain-ai/langchain/issues/8542)
