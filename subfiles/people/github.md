@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error solving the challenge in Cinecalidad.tf, other sites are working](https://github.com/FlareSolverr/FlareSolverr/issues/840)
+- [v2.4.6-p1 Categories - Adding or modifying causes 6+ min db lock](https://github.com/magento/magento2/issues/37821)
 - [Upload doesn't work using Cloudflare since version 2.24.0](https://github.com/filebrowser/filebrowser/issues/2588)
 - [ENTER/LEAVE - Error on supported site](https://github.com/mikf/gallery-dl/issues/4373)
 - [Control plane pods do not come back up after restarting node](https://github.com/rancher/rke2/issues/4526)
