@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-07-31: [Incorrect HTML character encoding for some responses](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/py55nh16m9sc)
 - 2023-07-28: [Cloudflare Zero Trust: Gateway Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ybtd3lbbsc7t)
 - 2023-07-28: [Network Performance Issues in Johannesburg, South Africa](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gbfk13h1cst3)
 - 2023-07-25: [Issues with 1.1.1.1 public resolver in some locations](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/yf3csgmnsy7d)
