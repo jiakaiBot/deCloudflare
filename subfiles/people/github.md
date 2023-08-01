@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Upload doesn't work using Cloudflare since version 2.24.0](https://github.com/filebrowser/filebrowser/issues/2588)
 - [ENTER/LEAVE - Error on supported site](https://github.com/mikf/gallery-dl/issues/4373)
 - [Control plane pods do not come back up after restarting node](https://github.com/rancher/rke2/issues/4526)
 - [Typo in Cloudflare needs fixing](https://github.com/nodejs/build/issues/3438)
