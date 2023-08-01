@@ -911,6 +911,7 @@ Do not create new issue or we will close it as duplicate.
 | [AnmolSi50957466@twitter](https://twitter.com/AnmolSi50957466/status/1400006594683981824) | advertise |
 | [Annamite07@twitter](https://twitter.com/Annamite07/status/1613424303340662789) | advertise |
 | [annamy25058602@twitter](https://twitter.com/annamy25058602/status/1388149916875198468) | advertise |
+| [annar8894@twitter](https://twitter.com/annar8894/status/1686405065764904960) | advertise |
 | [annein5@twitter](https://twitter.com/annein5/status/1392743216085049346) | advertise |
 | [AnnLaurini1@twitter](https://twitter.com/AnnLaurini1/status/1665834244243959810) | advertise |
 | [AnnSali18@twitter](https://twitter.com/AnnSali18/status/1404425553235517443) | advertise |
@@ -3618,6 +3619,7 @@ Do not create new issue or we will close it as duplicate.
 | [firecryptoeth@twitter](https://twitter.com/firecryptoeth/status/1592021042524225537) | advertise |
 | [FireGam99404905@twitter](https://twitter.com/FireGam99404905/status/1399726131842977792) | advertise |
 | [FIRSTCLUB888888@twitter](https://twitter.com/FIRSTCLUB888888/status/1626264885503102989) | advertise |
+| [first_cata@twitter](https://twitter.com/first_cata/status/1686401466930716672) | advertise |
 | [fitcarenavi@twitter](https://twitter.com/fitcarenavi/status/1548612339058241537) | advertise |
 | [fithri2k21@twitter](https://twitter.com/fithri2k21/status/1601977855248039936) | advertise |
 | [fixgameaja@twitter](https://twitter.com/fixgameaja/status/1585299964066160641) | advertise |
@@ -6759,6 +6761,7 @@ Do not create new issue or we will close it as duplicate.
 | [LeoNguy43687409@twitter](https://twitter.com/LeoNguy43687409/status/1404446908416856073) | advertise |
 | [leooffacc@twitter](https://twitter.com/leooffacc/status/1616433485794926599) | advertise |
 | [Leophir@twitter](https://twitter.com/Leophir/status/1406188576895819782) | advertise |
+| [leosendo@twitter](https://twitter.com/leosendo/status/1686382063015047168) | advertise |
 | [LerbonR@twitter](https://twitter.com/LerbonR/status/1401222654883893254) | advertise |
 | [Leslie61341295@twitter](https://twitter.com/Leslie61341295/status/1584548084482441217) | advertise |
 | [Lesprom_com@twitter](https://twitter.com/Lesprom_com/status/1516889062061260800) | advertise |
@@ -7891,6 +7894,7 @@ Do not create new issue or we will close it as duplicate.
 | [mlev@twitter](https://twitter.com/mlev/status/1519336801906966528) | advertise |
 | [Mlmartincore@twitter](https://twitter.com/Mlmartincore/status/1574161999461699585) | advertise |
 | [MlMitsuki@twitter](https://twitter.com/MlMitsuki/status/1636642627926851584) | advertise |
+| [MmadMmad1054554@twitter](https://twitter.com/MmadMmad1054554/status/1686392179277832193) | advertise |
 | [MMARMY98815463@twitter](https://twitter.com/MMARMY98815463/status/1383095144606441473) | advertise |
 | [mmfootballmm@twitter](https://twitter.com/mmfootballmm/status/1380215958082441218) | advertise |
 | [mmi123456@twitter](https://twitter.com/mmi123456/status/1572690037120143363) | advertise |
@@ -8220,6 +8224,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mujeebk99995403@twitter](https://twitter.com/Mujeebk99995403/status/1402529388168724485) | advertise |
 | [Mujtaba288289@twitter](https://twitter.com/Mujtaba288289/status/1546276421009637379) | advertise |
 | [MuktarUdan@twitter](https://twitter.com/MuktarUdan/status/1550450929069162497) | advertise |
+| [MullerYeeee@twitter](https://twitter.com/MullerYeeee/status/1686385968943857664) | advertise |
 | [mumin41770540@twitter](https://twitter.com/mumin41770540/status/1381241484205293568) | advertise |
 | [mungjataung@twitter](https://twitter.com/mungjataung/status/1552462274245246977) | advertise |
 | [murad_hatem@twitter](https://twitter.com/murad_hatem/status/1407170868220989441) | advertise |
@@ -11029,6 +11034,7 @@ Do not create new issue or we will close it as duplicate.
 | [Shanilk40518007@twitter](https://twitter.com/Shanilk40518007/status/1401086959989268482) | advertise |
 | [ShanKoKo10@twitter](https://twitter.com/ShanKoKo10/status/1394641850879725569) | advertise |
 | [ShannonMMitche1@twitter](https://twitter.com/ShannonMMitche1/status/1405702171438555136) | advertise |
+| [Shannon_evol@twitter](https://twitter.com/Shannon_evol/status/1686319477128851457) | advertise |
 | [ShanvanthA@twitter](https://twitter.com/ShanvanthA/status/1637060319854960641) | advertise |
 | [shapoo67@twitter](https://twitter.com/shapoo67/status/1618249394830331905) | advertise |
 | [SharabShrestha@twitter](https://twitter.com/SharabShrestha/status/1536686494672617474) | advertise |
@@ -13325,6 +13331,7 @@ Do not create new issue or we will close it as duplicate.
 | [wayamoti2015@twitter](https://twitter.com/wayamoti2015/status/1671126217167360005) | advertise |
 | [WBimson999@twitter](https://twitter.com/WBimson999/status/1495052912288018432) | advertise |
 | [WChyuan@twitter](https://twitter.com/WChyuan/status/1620433756577501184) | advertise |
+| [wclwong@twitter](https://twitter.com/wclwong/status/1686394990166220800) | advertise |
 | [wcwheels@twitter](https://twitter.com/wcwheels/status/1679506192475856896) | advertise |
 | [WDragon203@twitter](https://twitter.com/WDragon203/status/1416258687266476033) | advertise |
 | [wd_kill@twitter](https://twitter.com/wd_kill/status/1475478794626650123) | advertise |
