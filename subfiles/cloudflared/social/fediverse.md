@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,037 |
-| social | 4,416 |
+| social | 4,417 |
 | net | 3,598 |
 | org | 2,420 |
 | de | 2,233 |
@@ -4384,7 +4384,7 @@ Here's a list of public Fediverse services.
 | `bird.rodeo` | No |
 | `bird.website` | No |
 | `birdbox.party` | Yes |
-| `birdbutt.com` | No |
+| `birdbutt.com` | Yes |
 | `birdcar.dev` | Yes |
 | `birddon.com` | No |
 | `birdiesongauthor.com` | No |
@@ -8130,6 +8130,7 @@ Here's a list of public Fediverse services.
 | `crypto-libertarian.com` | No |
 | `crypto.church` | No |
 | `cryptoanarchy.rocks` | No |
+| `cryptobeats.social` | No |
 | `cryptocartel.social` | Yes |
 | `cryptodon.chat` | No |
 | `cryptodon.lol` | No |
@@ -21881,6 +21882,7 @@ Here's a list of public Fediverse services.
 | `le5emeaxe.fr` | No |
 | `lea.lgbt` | No |
 | `lea.pet` | Yes |
+| `leadershouse.tokyo` | No |
 | `leadrdrk.eu.org` | No |
 | `leadslinger.org` | No |
 | `leaf.dance` | Yes |
@@ -30978,6 +30980,7 @@ Here's a list of public Fediverse services.
 | `pbg.hu` | No |
 | `pbjtechnical.com` | No |
 | `pbk.social` | No |
+| `pbs.idv.tw` | Yes |
 | `pbzweihander.dev` | No |
 | `pbzweihander.social` | Yes |
 | `pc-tiede.de` | No |
@@ -40094,6 +40097,7 @@ Here's a list of public Fediverse services.
 | `theautisticobserver.com` | No |
 | `theawakenedcollective.nl` | No |
 | `theawkwardhillgang.net` | No |
+| `thebac.club` | Yes |
 | `thebackupbox.net` | No |
 | `thebadgers.live` | No |
 | `thebag.social` | No |
@@ -46321,8 +46325,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,564 |
-| Normal | 33,714 |
+| Cloudflare | 12,567 |
+| Normal | 33,715 |
 
 
-### 27.1% of public Fediverse services are using Cloudflare.
+### 27.2% of public Fediverse services are using Cloudflare.
