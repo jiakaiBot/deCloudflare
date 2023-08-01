@@ -2886,6 +2886,7 @@ Do not create new issue or we will close it as duplicate.
 | [diepchu3011@twitter](https://twitter.com/diepchu3011/status/1674635379637637120) | advertise |
 | [DieTriphel@twitter](https://twitter.com/DieTriphel/status/1517893596443074561) | advertise |
 | [digcinema@twitter](https://twitter.com/digcinema/status/1402343666174201857) | advertise |
+| [DigeeB@twitter](https://twitter.com/DigeeB/status/1686366611521839104) | advertise |
 | [DiggajUpadhyay@twitter](https://twitter.com/DiggajUpadhyay/status/1511942797212889089) | advertise |
 | [DigitalBook007@twitter](https://twitter.com/DigitalBook007/status/1545917215349899271) | advertise |
 | [DigitalSoftwar9@twitter](https://twitter.com/DigitalSoftwar9/status/1437033725141860357) | advertise |
@@ -6731,6 +6732,7 @@ Do not create new issue or we will close it as duplicate.
 | [LeeToan29@twitter](https://twitter.com/LeeToan29/status/1402299334545207299) | advertise |
 | [Lee__12@twitter](https://twitter.com/Lee__12/status/1393279848462884865) | advertise |
 | [Legendbeast19@twitter](https://twitter.com/Legendbeast19/status/1515865675432136716) | advertise |
+| [LegendofPirates@twitter](https://twitter.com/LegendofPirates/status/1686336218974281728) | advertise |
 | [legionleo6862@twitter](https://twitter.com/legionleo6862/status/1390643796421922817) | advertise |
 | [Lehoai1703@twitter](https://twitter.com/Lehoai1703/status/1552324707252576257) | advertise |
 | [LeHoang90043499@twitter](https://twitter.com/LeHoang90043499/status/1401934476230283266) | advertise |
