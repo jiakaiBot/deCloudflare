@@ -4218,6 +4218,7 @@ Do not create new issue or we will close it as duplicate.
 | [HarshJamdade@twitter](https://twitter.com/HarshJamdade/status/1398918613298339844) | advertise |
 | [HarshNiranjan6@twitter](https://twitter.com/HarshNiranjan6/status/1394353667080298499) | advertise |
 | [HarukawaSayaka@twitter](https://twitter.com/HarukawaSayaka/status/1634247948887531529) | advertise |
+| [haruyq_@twitter](https://twitter.com/haruyq_/status/1686237868698783744) | advertise |
 | [HarveyRamer@twitter](https://twitter.com/HarveyRamer/status/1628381650013851649) | advertise |
 | [haryadh66480571@twitter](https://twitter.com/haryadh66480571/status/1602709011907973123) | advertise |
 | [hasanrefaeiah@twitter](https://twitter.com/hasanrefaeiah/status/1383784698942345223) | advertise |
