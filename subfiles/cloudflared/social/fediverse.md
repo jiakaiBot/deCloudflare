@@ -5119,7 +5119,7 @@ Here's a list of public Fediverse services.
 | `bou.social` | No |
 | `bougiekitty.net` | Yes |
 | `boui.xyz` | No |
-| `boulder.ly` | No |
+| `boulder.ly` | Yes |
 | `boulder.social` | No |
 | `bouma.social` | Yes |
 | `boumas.eu` | No |
@@ -5311,7 +5311,7 @@ Here's a list of public Fediverse services.
 | `briankeesbury.com` | No |
 | `briankoopman.com` | No |
 | `brianm.social` | Yes |
-| `brianmorrison.com` | No |
+| `brianmorrison.com` | Yes |
 | `brians.town` | No |
 | `brianschlee.com` | No |
 | `briantajuddin.com` | No |
@@ -14947,6 +14947,7 @@ Here's a list of public Fediverse services.
 | `ghostintheshell.de` | No |
 | `ghostlevel.net` | No |
 | `ghostly.garden` | No |
+| `ghostoctopus.monster` | No |
 | `ghostsinthelab.org` | No |
 | `ghostsinultraviolet.com` | Yes |
 | `ghosty.ch` | No |
@@ -33419,6 +33420,7 @@ Here's a list of public Fediverse services.
 | `rainevixen.com` | Yes |
 | `raintreasure.top` | No |
 | `rainy.garden` | No |
+| `rainy.kr` | No |
 | `rainy.pizza` | No |
 | `rainy.place` | No |
 | `rainyman.jp` | No |
@@ -46319,7 +46321,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,562 |
+| Cloudflare | 12,564 |
 | Normal | 33,714 |
 
 
