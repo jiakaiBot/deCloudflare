@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [TorrentQQ and Yggtorrent issue for solving cloudflare](https://github.com/FlareSolverr/FlareSolverr/issues/841)
 - [Error solving the challenge in Cinecalidad.tf, other sites are working](https://github.com/FlareSolverr/FlareSolverr/issues/840)
 - [v2.4.6-p1 Categories - Adding or modifying causes 6+ min db lock](https://github.com/magento/magento2/issues/37821)
 - [Upload doesn't work using Cloudflare since version 2.24.0](https://github.com/filebrowser/filebrowser/issues/2588)
