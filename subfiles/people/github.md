@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Feature Add good error messages for port-forward errors](https://github.com/kubefirst/kubefirst/issues/1740)
 - [CloudFlare Cloudflare Workers Issues in a small number of data centers](https://github.com/hinoshiba/news/issues/1895)
 - [CloudFlare Cloudflare Workers Issues in a small number of data centers](https://github.com/MatBenfield/news/issues/17132)
 - [CloudFlare Cloudflare Workers Issues on a limited data centers](https://github.com/hinoshiba/news/issues/1893)
