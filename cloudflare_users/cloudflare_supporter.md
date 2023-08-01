@@ -10199,6 +10199,7 @@ Do not create new issue or we will close it as duplicate.
 | [RajeshM85157442@twitter](https://twitter.com/RajeshM85157442/status/1400836759961931777) | advertise |
 | [RajeshY21633874@twitter](https://twitter.com/RajeshY21633874/status/1400469601482203146) | advertise |
 | [rajiamasker@twitter](https://twitter.com/rajiamasker/status/1383870579640463375) | advertise |
+| [RajjakaAbd46172@twitter](https://twitter.com/RajjakaAbd46172/status/1686449068682424320) | advertise |
 | [Rajkuma86607766@twitter](https://twitter.com/Rajkuma86607766/status/1380024644770619394) | advertise |
 | [Rajkumarkuril81@twitter](https://twitter.com/Rajkumarkuril81/status/1385909207568764931) | advertise |
 | [rajput_logical@twitter](https://twitter.com/rajput_logical/status/1432345488083206153) | advertise |
