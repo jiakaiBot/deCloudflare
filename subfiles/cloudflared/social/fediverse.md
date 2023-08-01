@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,038 |
+| com | 7,040 |
 | social | 4,417 |
 | net | 3,598 |
 | org | 2,420 |
-| de | 2,233 |
+| de | 2,234 |
 
 
 - Mastodon, Pleroma, etc
@@ -2339,6 +2339,7 @@ Here's a list of public Fediverse services.
 | `aoirint.com` | Yes |
 | `aoitofu.net` | No |
 | `aokaga.work` | Yes |
+| `aoki.app` | Yes |
 | `aomium.net` | No |
 | `aomushionline.com` | No |
 | `aona.work` | No |
@@ -4501,6 +4502,7 @@ Here's a list of public Fediverse services.
 | `bix.blog` | No |
 | `bix.today` | No |
 | `bizarre.social` | No |
+| `bizarreworker.de` | No |
 | `bizkaia.social` | No |
 | `bizkitbros.com` | No |
 | `bizocean.co.jp` | No |
@@ -5661,6 +5663,7 @@ Here's a list of public Fediverse services.
 | `buzzneon.com` | No |
 | `buzzworkers.com` | No |
 | `bvb.social` | No |
+| `bvmensvoort.nl` | No |
 | `bvp.me` | No |
 | `bw-toot.de` | No |
 | `bw3.dev` | No |
@@ -21675,6 +21678,7 @@ Here's a list of public Fediverse services.
 | `lanandmedia.org` | No |
 | `lancaster.ac.uk` | No |
 | `lancasterpa.social` | No |
+| `lancetia.day` | Yes |
 | `lanceur-alerte.tv` | No |
 | `lanciano.it` | Yes |
 | `lancianoblog.it` | Yes |
@@ -23308,6 +23312,7 @@ Here's a list of public Fediverse services.
 | `lukenbaugh.com` | Yes |
 | `lukeog.com` | No |
 | `lukepeltier.com` | No |
+| `lukepetrolekas.com` | No |
 | `lukepreston.xyz` | No |
 | `lukesmith.xyz` | No |
 | `lukyan.eu` | No |
@@ -26009,6 +26014,7 @@ Here's a list of public Fediverse services.
 | `misskey.net.eu.org` | No |
 | `misskey.nl` | Yes |
 | `misskey.oita.jp` | No |
+| `misskey.one` | Yes |
 | `misskey.online` | Yes |
 | `misskey.pl` | Yes |
 | `misskey.pm` | No |
@@ -27137,6 +27143,7 @@ Here's a list of public Fediverse services.
 | `murderhobos.party` | Yes |
 | `muretlabarba.de` | No |
 | `murf.org` | Yes |
+| `murffys-place.club` | Yes |
 | `muri.network` | Yes |
 | `muri.zip` | No |
 | `murkworks.net` | No |
@@ -32041,6 +32048,7 @@ Here's a list of public Fediverse services.
 | `podnutz.us` | No |
 | `podpro.biz` | No |
 | `podricing.pw` | No |
+| `podsnack.se` | No |
 | `podsothoth.club` | No |
 | `podvibes.co` | Yes |
 | `podycust.co.uk` | Yes |
@@ -34459,6 +34467,7 @@ Here's a list of public Fediverse services.
 | `rmrf.space` | No |
 | `rmrs.nl` | No |
 | `rmxr.net` | No |
+| `rndm.ovh` | No |
 | `rndmm.us` | Yes |
 | `rneetup.com` | No |
 | `rner.dk` | No |
@@ -36546,6 +36555,7 @@ Here's a list of public Fediverse services.
 | `shoutbox.blog` | No |
 | `shoutbox.net` | Yes |
 | `shoutingfrommysoapbox.social` | No |
+| `shouttheband.com` | No |
 | `showmy.world` | No |
 | `showoffto.us` | No |
 | `showyou41.win` | Yes |
@@ -41340,6 +41350,7 @@ Here's a list of public Fediverse services.
 | `toots.im` | No |
 | `toots.nu` | No |
 | `toots.page` | No |
+| `toots.pp.ua` | Yes |
 | `toots.ro` | Yes |
 | `toots.social` | Yes |
 | `toots.space` | No |
@@ -42000,6 +42011,7 @@ Here's a list of public Fediverse services.
 | `turnin.quest` | Yes |
 | `turnip.solutions` | No |
 | `turpentine.blue` | No |
+| `turretlabs.io` | No |
 | `turtle.garden` | No |
 | `turtle.pizza` | No |
 | `turtleapparel.eu` | No |
@@ -42568,6 +42580,7 @@ Here's a list of public Fediverse services.
 | `unir.se` | No |
 | `unirep.io` | Yes |
 | `unit51.net` | No |
+| `unit520.wtf` | No |
 | `unite.games` | No |
 | `unite.video` | No |
 | `uniteddiversity.coop` | No |
@@ -46335,8 +46348,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,574 |
-| Normal | 33,718 |
+| Cloudflare | 12,579 |
+| Normal | 33,726 |
 
 
 ### 27.2% of public Fediverse services are using Cloudflare.
