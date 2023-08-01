@@ -369,6 +369,7 @@ Do not create new issue or we will close it as duplicate.
 | [AdityaP64856529@twitter](https://twitter.com/AdityaP64856529/status/1397106574636711940) | advertise |
 | [adityasawarka16@twitter](https://twitter.com/adityasawarka16/status/1380382240727777286) | advertise |
 | [aditya_c84@twitter](https://twitter.com/aditya_c84/status/1659071453223067650) | advertise |
+| [AdleenaL@twitter](https://twitter.com/AdleenaL/status/1686473630144966656) | advertise |
 | [adlerlopex@twitter](https://twitter.com/adlerlopex/status/1618239923269828609) | advertise |
 | [Adlinek@twitter](https://twitter.com/Adlinek/status/1386212969223122947) | advertise |
 | [admir_saracevic@twitter](https://twitter.com/admir_saracevic/status/1517979667013292032) | advertise |
