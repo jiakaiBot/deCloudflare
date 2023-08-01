@@ -4,6 +4,11 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Workers Issues in a small number of data centers](https://github.com/hinoshiba/news/issues/1895)
+- [CloudFlare Cloudflare Workers Issues in a small number of data centers](https://github.com/MatBenfield/news/issues/17132)
+- [CloudFlare Cloudflare Workers Issues on a limited data centers](https://github.com/hinoshiba/news/issues/1893)
+- [Cloudflare issue with ocapi-app.arlo.com](https://github.com/twrecked/hass-aarlo/issues/782)
+- [Not compatible with cloudflare workers](https://github.com/grammyjs/i18n/issues/42)
 - [TorrentQQ and Yggtorrent issue for solving cloudflare](https://github.com/FlareSolverr/FlareSolverr/issues/841)
 - [Error solving the challenge in Cinecalidad.tf, other sites are working](https://github.com/FlareSolverr/FlareSolverr/issues/840)
 - [v2.4.6-p1 Categories - Adding or modifying causes 6+ min db lock](https://github.com/magento/magento2/issues/37821)
