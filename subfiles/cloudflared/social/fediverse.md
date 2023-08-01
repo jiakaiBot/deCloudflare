@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,040 |
 | social | 4,417 |
-| net | 3,598 |
-| org | 2,420 |
+| net | 3,599 |
+| org | 2,421 |
 | de | 2,234 |
 
 
@@ -561,6 +561,7 @@ Here's a list of public Fediverse services.
 | `513ths.org` | Yes |
 | `51attack.li` | No |
 | `51yyds.tk` | Yes |
+| `52537887.xyz` | Yes |
 | `5280.city` | No |
 | `52wochen.me` | No |
 | `536.fr` | No |
@@ -1547,7 +1548,7 @@ Here's a list of public Fediverse services.
 | `alexanderkeane.com` | No |
 | `alexanderweb.de` | No |
 | `alexandra.is` | No |
-| `alexandrebadalo.pt` | No |
+| `alexandrebadalo.pt` | Yes |
 | `alexandremottier.fr` | No |
 | `alexayers.com` | No |
 | `alexbelgraver.nl` | No |
@@ -2182,6 +2183,7 @@ Here's a list of public Fediverse services.
 | `anml.io` | No |
 | `anmol.net.in` | No |
 | `annaclemens.io` | Yes |
+| `annacon.be` | Yes |
 | `annadreambrush.com` | No |
 | `annakirche.at` | No |
 | `annathepiper.org` | No |
@@ -3819,6 +3821,7 @@ Here's a list of public Fediverse services.
 | `bdash.net.nz` | Yes |
 | `bdeshi.space` | No |
 | `bdjm.boston` | No |
+| `bdms.ca` | No |
 | `bdmuvt.de` | Yes |
 | `bdn.one` | No |
 | `bdsmspace.club` | No |
@@ -4388,6 +4391,7 @@ Here's a list of public Fediverse services.
 | `birdbox.party` | Yes |
 | `birdbutt.com` | Yes |
 | `birdcar.dev` | Yes |
+| `birdcat.cafe` | Yes |
 | `birddon.com` | No |
 | `birdiesongauthor.com` | No |
 | `birding.blog` | No |
@@ -6339,6 +6343,7 @@ Here's a list of public Fediverse services.
 | `ceriz.fr` | No |
 | `cerritus.eu` | No |
 | `ceruleanstack.com` | No |
+| `cervid.ca` | No |
 | `cervidae.space` | Yes |
 | `cescobarresi.it` | No |
 | `cesiandalex.com` | Yes |
@@ -16582,6 +16587,7 @@ Here's a list of public Fediverse services.
 | `hell0friend.de` | No |
 | `hella.cheap` | No |
 | `helladoge.com` | Yes |
+| `hellcat.net` | No |
 | `hellch.at` | No |
 | `hellchat.club` | No |
 | `hellcom.live` | No |
@@ -17784,6 +17790,7 @@ Here's a list of public Fediverse services.
 | `idtech.space` | No |
 | `idw-online.social` | No |
 | `idw.zone` | No |
+| `idyllic.dev` | Yes |
 | `idylls.net` | No |
 | `idzerda.dev` | Yes |
 | `ie9.org` | No |
@@ -19112,6 +19119,7 @@ Here's a list of public Fediverse services.
 | `jdm.red` | Yes |
 | `jdnet.io` | Yes |
 | `jdonszelmann.nl` | No |
+| `jdotc.xyz` | No |
 | `jdoubleu.de` | No |
 | `jdracademy.fr` | No |
 | `jdrozd.com` | Yes |
@@ -19916,6 +19924,7 @@ Here's a list of public Fediverse services.
 | `kafeneio.social` | Yes |
 | `kaffeemonster.com` | No |
 | `kaffeeringe.de` | No |
+| `kafija.space` | No |
 | `kafka.icu` | No |
 | `kafuka.me` | No |
 | `kafuu.space` | Yes |
@@ -22895,7 +22904,7 @@ Here's a list of public Fediverse services.
 | `lochetfamily.com` | No |
 | `loci.onl` | No |
 | `lockdown-online-teknival.org` | No |
-| `locked.social` | No |
+| `locked.social` | Yes |
 | `locksport.space` | No |
 | `loclx.io` | No |
 | `locrealloc.de` | No |
@@ -29283,6 +29292,7 @@ Here's a list of public Fediverse services.
 | `nulltrading.com` | No |
 | `nullwhere.social` | No |
 | `nullzone.fr` | No |
+| `nuls.dev` | No |
 | `nulun.net` | Yes |
 | `nulvoid.net` | Yes |
 | `numaverse.com` | No |
@@ -33807,6 +33817,7 @@ Here's a list of public Fediverse services.
 | `rechthervormers.nl` | No |
 | `rechtsehippies.nl` | No |
 | `recipes.exchange` | No |
+| `reck.dk` | Yes |
 | `reckless.dev` | Yes |
 | `recknsense.com` | No |
 | `reclaim.rocks` | Yes |
@@ -37346,6 +37357,7 @@ Here's a list of public Fediverse services.
 | `snowp.io` | No |
 | `snowracer.se` | No |
 | `snowshaven.space` | No |
+| `snowstorm.online` | Yes |
 | `snptrs.com` | Yes |
 | `sns-sakura.jp` | No |
 | `sns.onl` | No |
@@ -41069,6 +41081,7 @@ Here's a list of public Fediverse services.
 | `tokhmi.xyz` | Yes |
 | `toki.social` | No |
 | `tokimiss.club` | No |
+| `tokiwadai.org` | No |
 | `tokki.cyou` | Yes |
 | `tokknet.eu` | No |
 | `tokler.com` | No |
@@ -44260,7 +44273,7 @@ Here's a list of public Fediverse services.
 | `whatsupeh.ca` | No |
 | `whatthe.horse` | Yes |
 | `whatthefuck.computer` | No |
-| `whatwasidoingagain.com` | No |
+| `whatwasidoingagain.com` | Yes |
 | `whatwaslostisfound.co.uk` | No |
 | `whatyoulike.club` | No |
 | `wheelbearings.media` | No |
@@ -46350,8 +46363,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,582 |
-| Normal | 33,725 |
+| Cloudflare | 12,591 |
+| Normal | 33,729 |
 
 
 ### 27.2% of public Fediverse services are using Cloudflare.
