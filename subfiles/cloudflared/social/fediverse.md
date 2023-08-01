@@ -760,6 +760,7 @@ Here's a list of public Fediverse services.
 | `a-zwenkau.de` | No |
 | `a.nom.pl` | No |
 | `a.sc` | No |
+| `a09.uk` | No |
 | `a0s.de` | No |
 | `a10talk.com` | Yes |
 | `a11k.net` | No |
@@ -8279,7 +8280,7 @@ Here's a list of public Fediverse services.
 | `cune.moe` | Yes |
 | `cunnin.me` | No |
 | `cunny.finance` | No |
-| `cunny.gay` | No |
+| `cunny.gay` | Yes |
 | `cunny.moe` | Yes |
 | `cuonda.social` | No |
 | `cupcakerob.nl` | No |
@@ -12458,7 +12459,7 @@ Here's a list of public Fediverse services.
 | `fedaya.net` | No |
 | `fedblog.ch` | No |
 | `fedcast.ch` | No |
-| `feddi.no` | No |
+| `feddi.no` | Yes |
 | `feddit.cc` | No |
 | `feddit.ch` | No |
 | `feddit.cl` | No |
@@ -12515,7 +12516,7 @@ Here's a list of public Fediverse services.
 | `fedgram.com` | No |
 | `fedi-verse.info` | No |
 | `fedi.agency` | No |
-| `fedi.ai` | No |
+| `fedi.ai` | Yes |
 | `fedi.app` | No |
 | `fedi.at` | No |
 | `fedi.bar` | Yes |
@@ -13531,7 +13532,7 @@ Here's a list of public Fediverse services.
 | `fouzhai.com` | Yes |
 | `fox-club.monster` | No |
 | `fox.boston` | Yes |
-| `fox.gal` | No |
+| `fox.gal` | Yes |
 | `fox.yt` | No |
 | `foxacid.se` | No |
 | `foxarmy.ml` | No |
@@ -16831,7 +16832,7 @@ Here's a list of public Fediverse services.
 | `hiimmilan.dev` | No |
 | `hijacked.download` | Yes |
 | `hijsselinckx.com` | No |
-| `hikali.work` | Yes |
+| `hikali.work` | No |
 | `hikalium.dev` | No |
 | `hikaruaikawa.com` | No |
 | `hikaruaikawa.tk` | No |
@@ -33823,7 +33824,7 @@ Here's a list of public Fediverse services.
 | `redcry.eu` | No |
 | `redd.live` | Yes |
 | `reddeth.com` | No |
-| `reddrefuge.com` | No |
+| `reddrefuge.com` | Yes |
 | `reddthat.com` | Yes |
 | `redeagle.me` | No |
 | `redecentralize.org` | No |
@@ -46325,8 +46326,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,567 |
-| Normal | 33,715 |
+| Cloudflare | 12,571 |
+| Normal | 33,712 |
 
 
 ### 27.2% of public Fediverse services are using Cloudflare.
