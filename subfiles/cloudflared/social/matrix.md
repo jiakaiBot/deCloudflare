@@ -34,6 +34,7 @@ Here's a list of public Matrix services.
 | breeze.town | No |
 | buyvm.chat | No |
 | matrix.cat.casa | No |
+| m.catgir.ls | Yes |
 | matrix.catgirl.cloud | Yes |
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
@@ -116,15 +117,14 @@ Here's a list of public Matrix services.
 | waffle.tech | No |
 | webchat.weho.st | No |
 | xmr.se | No |
-| matrix.yatrix.org | No |
 
 
 - Cloudflare %
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 21 |
-| Normal | 75 |
+| Cloudflare | 22 |
+| Normal | 74 |
 
 
-### 21.9% of public Matrix services are using Cloudflare.
+### 22.9% of public Matrix services are using Cloudflare.
