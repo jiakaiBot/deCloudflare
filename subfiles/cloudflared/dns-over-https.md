@@ -183,6 +183,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | krnl.eu | Yes |
 | kss.ovh | Yes |
 | lacontrevoie.fr | No |
+| laison.ltd | No |
 | lastentarvike.fi | No |
 | lavate.ch | Yes |
 | lefolgoc.net | No |
@@ -346,7 +347,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 166 |
-| Normal | 160 |
+| Normal | 161 |
 
 
-### 50.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
