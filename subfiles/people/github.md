@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Firehol adds rules to outgoing](https://github.com/firehol/firehol/issues/489)
 - [letsencrypt - grep: unrecognized option](https://github.com/acmesh-official/acme.sh/issues/4725)
 - [letsencrypt - grep: unrecognized option](https://github.com/swizzin/swizzin/issues/1055)
 - [Error while switching to captcha iframe](https://github.com/kaliiiiiiiiii/Selenium-Driverless/issues/7)
