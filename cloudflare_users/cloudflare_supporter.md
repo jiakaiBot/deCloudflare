@@ -11365,6 +11365,7 @@ Do not create new issue or we will close it as duplicate.
 | [softword@twitter](https://twitter.com/softword/status/1495497302441709568) | advertise |
 | [sogo_masoud@twitter](https://twitter.com/sogo_masoud/status/1583564042459033601) | advertise |
 | [sohail_2668@twitter](https://twitter.com/sohail_2668/status/1379913128268328961) | advertise |
+| [soh_satoh@twitter](https://twitter.com/soh_satoh/status/1686780689545678848) | advertise |
 | [soidn12382@twitter](https://twitter.com/soidn12382/status/1564290659644715008) | advertise |
 | [soil35719772@twitter](https://twitter.com/soil35719772/status/1392742661144997890) | advertise |
 | [Sojolah02162432@twitter](https://twitter.com/Sojolah02162432/status/1401944661275545603) | advertise |
@@ -14193,6 +14194,7 @@ Do not create new issue or we will close it as duplicate.
 | [_rikisan@twitter](https://twitter.com/_rikisan/status/1389050815122481155) | advertise |
 | [_rurq@twitter](https://twitter.com/_rurq/status/1521161926012719109) | advertise |
 | [_sanchitbansal_@twitter](https://twitter.com/_sanchitbansal_/status/1578115686416715777) | advertise |
+| [_shouth@twitter](https://twitter.com/_shouth/status/1686787487187054594) | advertise |
 | [_Sumitha_@twitter](https://twitter.com/_Sumitha_/status/1508090635131420678) | advertise |
 | [_TheIdealMan@twitter](https://twitter.com/_TheIdealMan/status/1585269975996137472) | advertise |
 | [_TheyLuvAng@twitter](https://twitter.com/_TheyLuvAng/status/1598188075209076736) | advertise |
