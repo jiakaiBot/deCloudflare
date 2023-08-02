@@ -2028,6 +2028,7 @@ Do not create new issue or we will close it as duplicate.
 | [BxnNghia@twitter](https://twitter.com/BxnNghia/status/1685483903174463488) | advertise |
 | [byambamk@twitter](https://twitter.com/byambamk/status/1390722042400444418) | advertise |
 | [Byarsar2@twitter](https://twitter.com/Byarsar2/status/1391089544322158594) | advertise |
+| [byayatube@twitter](https://twitter.com/byayatube/status/1686837313991483393) | advertise |
 | [BYfpyglTtMHPB8s@twitter](https://twitter.com/BYfpyglTtMHPB8s/status/1537369104193290240) | advertise |
 | [ByJaccoB@twitter](https://twitter.com/ByJaccoB/status/1619330056534507520) | advertise |
 | [ByKu24674252@twitter](https://twitter.com/ByKu24674252/status/1470865823606587392) | advertise |
@@ -5676,6 +5677,7 @@ Do not create new issue or we will close it as duplicate.
 | [Julliannay@twitter](https://twitter.com/Julliannay/status/1386969993019940867) | advertise |
 | [July38052307@twitter](https://twitter.com/July38052307/status/1379824840757022720) | advertise |
 | [Julymoe1229@twitter](https://twitter.com/Julymoe1229/status/1394625195093028870) | advertise |
+| [Julyon307@twitter](https://twitter.com/Julyon307/status/1686832389681709059) | advertise |
 | [JumaJuma2009@twitter](https://twitter.com/JumaJuma2009/status/1405905479260426245) | advertise |
 | [Jumperup2@twitter](https://twitter.com/Jumperup2/status/1537010355938926596) | advertise |
 | [junaid_ul_hasan@twitter](https://twitter.com/junaid_ul_hasan/status/1570506547754848258) | advertise |
