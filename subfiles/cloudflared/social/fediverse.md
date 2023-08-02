@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,045 |
-| social | 4,421 |
+| com | 7,046 |
+| social | 4,422 |
 | net | 3,604 |
-| org | 2,422 |
+| org | 2,423 |
 | de | 2,234 |
 
 
@@ -402,6 +402,7 @@ Here's a list of public Fediverse services.
 | `33chan.xyz` | No |
 | `343max.de` | No |
 | `346production.jp` | Yes |
+| `35mm.site` | No |
 | `35o.poker` | No |
 | `360.cymru` | No |
 | `3615.computer` | Yes |
@@ -2144,6 +2145,7 @@ Here's a list of public Fediverse services.
 | `animalfound.family` | No |
 | `animalliberation.social` | Yes |
 | `animaltoyforum.com` | Yes |
+| `animanga.eu` | No |
 | `animaux.social` | No |
 | `animax.moe` | Yes |
 | `anime-avatar.moe` | No |
@@ -7510,6 +7512,7 @@ Here's a list of public Fediverse services.
 | `communisteslibertaires.org` | No |
 | `communistparty.org.uk` | No |
 | `communists.world` | No |
+| `communitarium.org` | No |
 | `community-patriots.social` | Yes |
 | `communitynetwork.us` | No |
 | `comnetcomdotnet.org` | No |
@@ -13040,6 +13043,7 @@ Here's a list of public Fediverse services.
 | `fim.social` | Yes |
 | `fimidi.com` | No |
 | `fimpern.de` | No |
+| `final.li` | No |
 | `finalesocial.com` | No |
 | `finalgear.social` | No |
 | `finallycoffee.eu` | No |
@@ -17810,7 +17814,7 @@ Here's a list of public Fediverse services.
 | `idyllic.dev` | Yes |
 | `idylls.net` | No |
 | `idzerda.dev` | Yes |
-| `ie9.org` | No |
+| `ie9.org` | Yes |
 | `iedred7584.com` | No |
 | `iee.engineer` | Yes |
 | `ieee.org` | Yes |
@@ -19534,6 +19538,7 @@ Here's a list of public Fediverse services.
 | `jonathansick.blog` | No |
 | `jonathanwexler.ca` | No |
 | `jonbeckett.com` | Yes |
+| `jonburns.uk` | No |
 | `joncamfield.com` | Yes |
 | `joncaruana.com` | Yes |
 | `jondev.lol` | No |
@@ -21287,6 +21292,7 @@ Here's a list of public Fediverse services.
 | `kruythoff.net` | Yes |
 | `kry.pt` | No |
 | `krylc.cloud` | Yes |
+| `krypt.social` | Yes |
 | `kryptopraktik.se` | No |
 | `kryptozoology.xyz` | No |
 | `kryptykphysh.xyz` | No |
@@ -28396,6 +28402,7 @@ Here's a list of public Fediverse services.
 | `niagara.social` | No |
 | `nial.to` | Yes |
 | `niarisa.com` | Yes |
+| `niark.nexus` | Yes |
 | `nibiru.nz` | No |
 | `nibis.de` | Yes |
 | `niboe.info` | No |
@@ -28498,6 +28505,7 @@ Here's a list of public Fediverse services.
 | `nightmare.haus` | No |
 | `nightmare.zone` | No |
 | `nightowl.jp` | No |
+| `nightrider.mastodon` | No |
 | `nightshade.fun` | Yes |
 | `nightshift.social` | No |
 | `nighty.name` | No |
@@ -29670,6 +29678,7 @@ Here's a list of public Fediverse services.
 | `offliners.social` | No |
 | `offprint.net` | Yes |
 | `offrealms.space` | No |
+| `offroad.town` | Yes |
 | `offsec.exchange` | No |
 | `offshore.ninja` | Yes |
 | `offsign.nl` | No |
@@ -42832,6 +42841,7 @@ Here's a list of public Fediverse services.
 | `urmom69.com` | No |
 | `urmum.gq` | No |
 | `urn1350.net` | Yes |
+| `urnash.com` | Yes |
 | `ursa.cafe` | No |
 | `ursa.camp` | Yes |
 | `ursal.zone` | Yes |
@@ -46405,8 +46415,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,611 |
-| Normal | 33,751 |
+| Cloudflare | 12,616 |
+| Normal | 33,756 |
 
 
 ### 27.2% of public Fediverse services are using Cloudflare.
