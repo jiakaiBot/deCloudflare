@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,042 |
-| social | 4,417 |
+| com | 7,043 |
+| social | 4,418 |
 | net | 3,602 |
 | org | 2,421 |
 | de | 2,234 |
@@ -7075,6 +7075,7 @@ Here's a list of public Fediverse services.
 | `cllctv.net` | No |
 | `clmyzy.co` | Yes |
 | `cloa.app` | No |
+| `cloaca.social` | No |
 | `clockcrock.click` | Yes |
 | `clockcrock.work` | Yes |
 | `clocktower.click` | No |
@@ -26381,7 +26382,7 @@ Here's a list of public Fediverse services.
 | `mokum.icu` | No |
 | `molaguay.xyz` | No |
 | `moldyspam.com` | No |
-| `molina.jp` | No |
+| `molina.jp` | Yes |
 | `mollys.social` | No |
 | `mollysdailykiss.com` | Yes |
 | `molodtsov.net` | Yes |
@@ -33727,6 +33728,7 @@ Here's a list of public Fediverse services.
 | `rbs.io` | No |
 | `rbvea.co` | Yes |
 | `rbx.rip` | Yes |
+| `rc3.live` | No |
 | `rc3sz.de` | No |
 | `rcelko.ch` | No |
 | `rche-iidx.jp` | No |
@@ -42948,6 +42950,7 @@ Here's a list of public Fediverse services.
 | `v01d.nl` | Yes |
 | `v0idkr4ft.com` | Yes |
 | `v112.space` | No |
+| `v1p3rhax.com` | Yes |
 | `v1x3n.net` | No |
 | `v2br.social` | No |
 | `v2x.org` | Yes |
@@ -46379,8 +46382,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,601 |
-| Normal | 33,735 |
+| Cloudflare | 12,603 |
+| Normal | 33,736 |
 
 
 ### 27.2% of public Fediverse services are using Cloudflare.
