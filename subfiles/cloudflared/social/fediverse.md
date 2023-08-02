@@ -13132,6 +13132,7 @@ Here's a list of public Fediverse services.
 | `fishs.observer` | No |
 | `fishstar.pe.kr` | Yes |
 | `fishtheduck.icu` | No |
+| `fiskur.ru` | No |
 | `fissionator.com` | No |
 | `fisting.social` | No |
 | `fit.ac.jp` | No |
@@ -22551,6 +22552,7 @@ Here's a list of public Fediverse services.
 | `likids.info` | No |
 | `lil-bird.xyz` | No |
 | `lil.mn` | No |
+| `lila.network` | Yes |
 | `lilac.place` | Yes |
 | `lilahexe.top` | No |
 | `lile.cl` | Yes |
@@ -46398,8 +46400,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,607 |
-| Normal | 33,748 |
+| Cloudflare | 12,608 |
+| Normal | 33,749 |
 
 
 ### 27.2% of public Fediverse services are using Cloudflare.
