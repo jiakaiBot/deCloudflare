@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to do non-elevated operations when cache location is set to restricted directory](https://github.com/chocolatey/choco/issues/3291)
+- [Discord webhooks are broken](https://github.com/Azuriom/Azuriom/issues/353)
 - [Failed to resolve import "cloudflare:sockets"](https://github.com/OrJDev/solid-auth/issues/9)
 - [A timeout occurred Error code 524](https://github.com/acheong08/ChatGPT/issues/1485)
 - [Error poe starting batch](https://github.com/Omega-Slender/ITSNOTPOEVER-ST-EDITED/issues/5)
