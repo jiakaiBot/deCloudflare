@@ -12998,6 +12998,7 @@ Do not create new issue or we will close it as duplicate.
 | [van2k8real@twitter](https://twitter.com/van2k8real/status/1655463060763729920) | advertise |
 | [van58768890@twitter](https://twitter.com/van58768890/status/1401809665063743495) | advertise |
 | [VanChi54586306@twitter](https://twitter.com/VanChi54586306/status/1403750118805807104) | advertise |
+| [vandat2987@twitter](https://twitter.com/vandat2987/status/1686799593235972096) | advertise |
 | [Vandy_VARK@twitter](https://twitter.com/Vandy_VARK/status/1401158678883930115) | advertise |
 | [Vanh91102091@twitter](https://twitter.com/Vanh91102091/status/1389087929109159937) | advertise |
 | [Vanhai57630263@twitter](https://twitter.com/Vanhai57630263/status/1383421884037885954) | advertise |
@@ -13334,6 +13335,7 @@ Do not create new issue or we will close it as duplicate.
 | [WardsEnterprise@twitter](https://twitter.com/WardsEnterprise/status/1538188510569570304) | advertise |
 | [WarmZer0@twitter](https://twitter.com/WarmZer0/status/1625160059725705217) | advertise |
 | [WarWar31916729@twitter](https://twitter.com/WarWar31916729/status/1401894009593733129) | advertise |
+| [WasdwasdwaZ@twitter](https://twitter.com/WasdwasdwaZ/status/1686782719236227085) | advertise |
 | [Wasisdas6@twitter](https://twitter.com/Wasisdas6/status/1398700969160896519) | advertise |
 | [wasmithee@twitter](https://twitter.com/wasmithee/status/1478506638856183813) | advertise |
 | [WassilnyLink@twitter](https://twitter.com/WassilnyLink/status/1630908752395116549) | advertise |
