@@ -10744,6 +10744,7 @@ Do not create new issue or we will close it as duplicate.
 | [salinar_thin@twitter](https://twitter.com/salinar_thin/status/1397760041281671170) | advertise |
 | [sallavati@twitter](https://twitter.com/sallavati/status/1395967454065610757) | advertise |
 | [salmank46948405@twitter](https://twitter.com/salmank46948405/status/1382572667207888898) | advertise |
+| [SalmanTarez@twitter](https://twitter.com/SalmanTarez/status/1686644951667339265) | advertise |
 | [Salman_8778@twitter](https://twitter.com/Salman_8778/status/1447987374500171777) | advertise |
 | [Salva_vakili@twitter](https://twitter.com/Salva_vakili/status/1587052286827581440) | advertise |
 | [salviaofficina@twitter](https://twitter.com/salviaofficina/status/1661741581509197825) | advertise |
