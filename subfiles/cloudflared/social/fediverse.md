@@ -182,6 +182,7 @@ Here's a list of public Fediverse services.
 | `1011.link` | No |
 | `1024256.xyz` | Yes |
 | `10247.berlin` | No |
+| `102791.xyz` | Yes |
 | `103.ms` | No |
 | `103.social` | Yes |
 | `1037.pub` | No |
@@ -46383,7 +46384,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,603 |
+| Cloudflare | 12,604 |
 | Normal | 33,737 |
 
 
