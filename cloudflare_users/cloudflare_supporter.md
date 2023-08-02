@@ -690,6 +690,7 @@ Do not create new issue or we will close it as duplicate.
 | [alonehp6789@twitter](https://twitter.com/alonehp6789/status/1621523604965064705) | advertise |
 | [AlphaAntiLeak@twitter](https://twitter.com/AlphaAntiLeak/status/1657719098883600389) | advertise |
 | [AlpineTechie@twitter](https://twitter.com/AlpineTechie/status/1668413247471628288) | advertise |
+| [alroy_zhang@twitter](https://twitter.com/alroy_zhang/status/1686732487748116480) | advertise |
 | [Alsadar13@twitter](https://twitter.com/Alsadar13/status/1552128101655924736) | advertise |
 | [AlsamiDr@twitter](https://twitter.com/AlsamiDr/status/1390431366794432516) | advertise |
 | [AltafBh79770188@twitter](https://twitter.com/AltafBh79770188/status/1400425714541756416) | advertise |
@@ -10529,6 +10530,7 @@ Do not create new issue or we will close it as duplicate.
 | [RosieSierra5@twitter](https://twitter.com/RosieSierra5/status/1600133665635569664) | advertise |
 | [rOsLyRoBoX@twitter](https://twitter.com/rOsLyRoBoX/status/1530138029351792641) | advertise |
 | [RoStats_RBLX@twitter](https://twitter.com/RoStats_RBLX/status/1409673999739613189) | moral (advertise) |
+| [RouiguiYasine@twitter](https://twitter.com/RouiguiYasine/status/1686735713457389568) | advertise |
 | [roukaf25@twitter](https://twitter.com/roukaf25/status/1421110855517736964) | advertise |
 | [Rounakr94@twitter](https://twitter.com/Rounakr94/status/1671043109948649472) | advertise |
 | [rowzalen@twitter](https://twitter.com/rowzalen/status/1675610715078422535) | advertise |
