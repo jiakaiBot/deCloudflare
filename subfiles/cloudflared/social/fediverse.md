@@ -4292,6 +4292,7 @@ Here's a list of public Fediverse services.
 | `bihlink.com` | No |
 | `biilmann.blog` | No |
 | `bij1.org` | No |
+| `bik3rs.group` | No |
 | `bikabika.xyz` | No |
 | `bikegraz.at` | No |
 | `bikejam.social` | No |
@@ -28125,7 +28126,7 @@ Here's a list of public Fediverse services.
 | `nerdworks.casa` | Yes |
 | `nerdy-technician.social` | Yes |
 | `nerdyfam.tech` | Yes |
-| `nerdynate.app` | No |
+| `nerdynate.app` | Yes |
 | `nerdynate.com` | Yes |
 | `nerdynate.live` | Yes |
 | `nerdzoom.media` | No |
@@ -46400,7 +46401,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,608 |
+| Cloudflare | 12,609 |
 | Normal | 33,749 |
 
 
