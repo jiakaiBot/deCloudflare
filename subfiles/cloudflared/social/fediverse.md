@@ -1719,6 +1719,7 @@ Here's a list of public Fediverse services.
 | `alohaloa.com` | No |
 | `alolise.org` | No |
 | `alonecomplex.xyz` | Yes |
+| `alonely.space` | Yes |
 | `aloneroid.one` | No |
 | `alongtheray.social` | Yes |
 | `alpa.social` | Yes |
@@ -46378,7 +46379,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,600 |
+| Cloudflare | 12,601 |
 | Normal | 33,735 |
 
 
