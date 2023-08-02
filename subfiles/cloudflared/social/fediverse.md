@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,040 |
+| com | 7,042 |
 | social | 4,417 |
-| net | 3,599 |
+| net | 3,602 |
 | org | 2,421 |
 | de | 2,234 |
 
@@ -1546,6 +1546,7 @@ Here's a list of public Fediverse services.
 | `alexander.social` | Yes |
 | `alexanderdunkel.com` | Yes |
 | `alexanderkeane.com` | No |
+| `alexanderkucera.com` | Yes |
 | `alexanderweb.de` | No |
 | `alexandra.is` | No |
 | `alexandrebadalo.pt` | Yes |
@@ -2343,6 +2344,7 @@ Here's a list of public Fediverse services.
 | `aokaga.work` | Yes |
 | `aoki.app` | Yes |
 | `aomium.net` | No |
+| `aomoru.jp` | No |
 | `aomushionline.com` | No |
 | `aona.work` | No |
 | `aonghus.org` | No |
@@ -4329,6 +4331,7 @@ Here's a list of public Fediverse services.
 | `bimmer.social` | No |
 | `binah.blue` | Yes |
 | `binarycat.org` | No |
+| `binarycounter.net` | No |
 | `binarydad.com` | No |
 | `binarydigit.cafe` | No |
 | `binarydigit.social` | No |
@@ -5695,6 +5698,7 @@ Here's a list of public Fediverse services.
 | `bylsem.com` | No |
 | `byme.at` | No |
 | `bymyself.org` | No |
+| `bynight.cafe` | Yes |
 | `bynumlaw.net` | No |
 | `byoblu.com` | Yes |
 | `byou.social` | No |
@@ -9537,7 +9541,7 @@ Here's a list of public Fediverse services.
 | `deuill.org` | Yes |
 | `deus-exmachina.net` | No |
 | `deutrino.net` | No |
-| `deutsche-gamer-gemeinschaft.eu` | No |
+| `deutsche-gamer-gemeinschaft.eu` | Yes |
 | `deuxchevaux.org` | No |
 | `deuxfleurs.fr` | No |
 | `deuxmillesoixantedix.art` | No |
@@ -14867,6 +14871,7 @@ Here's a list of public Fediverse services.
 | `geraffel.social` | No |
 | `gerardbentley.com` | No |
 | `geraspora.de` | No |
+| `gerben.dev` | Yes |
 | `gerbet.me` | No |
 | `gerbracht.social` | No |
 | `gerdemann.me` | No |
@@ -26114,6 +26119,7 @@ Here's a list of public Fediverse services.
 | `miwil.com` | Yes |
 | `miwilc.com` | No |
 | `miwpayou0808.info` | Yes |
+| `mix-food.net` | No |
 | `mixamax.se` | No |
 | `mixed-reality.social` | No |
 | `mixedmedia.page` | Yes |
@@ -26543,6 +26549,7 @@ Here's a list of public Fediverse services.
 | `moorefam.net` | No |
 | `moorepixel.com` | No |
 | `moores.org` | No |
+| `moormaker.space` | No |
 | `moortaube.de` | No |
 | `moose.best` | Yes |
 | `moose.land` | No |
@@ -28274,6 +28281,7 @@ Here's a list of public Fediverse services.
 | `neweverythingchips.com` | No |
 | `newfield1001.de` | No |
 | `newfound.social` | No |
+| `newgas.net` | No |
 | `newhaven.nu` | No |
 | `newind.info` | Yes |
 | `newjack.city` | Yes |
@@ -30739,6 +30747,7 @@ Here's a list of public Fediverse services.
 | `pancake.place` | Yes |
 | `pancakesontuesday.com` | No |
 | `panda.id.au` | No |
+| `panda510.com` | Yes |
 | `pandaemonium.club` | No |
 | `pandainthecloud.de` | No |
 | `pandala.org` | Yes |
@@ -36896,6 +36905,7 @@ Here's a list of public Fediverse services.
 | `sjolin.io` | No |
 | `sjsr.social` | No |
 | `sk85.org` | Yes |
+| `skabel.se` | No |
 | `skaegabe.dk` | No |
 | `skaeya.com` | No |
 | `skaggsfamily.us` | Yes |
@@ -37161,6 +37171,7 @@ Here's a list of public Fediverse services.
 | `smalltalk.ooo` | No |
 | `smalltech.solutions` | No |
 | `smalltech.space` | No |
+| `smallweb.space` | No |
 | `smart-cactus.org` | Yes |
 | `smartcity.social` | No |
 | `smartcitydev.jp` | No |
@@ -39794,6 +39805,7 @@ Here's a list of public Fediverse services.
 | `teela.jp` | No |
 | `teenwhistle.fr` | No |
 | `teets.cloud` | Yes |
+| `teev.io` | Yes |
 | `tegedon.net` | No |
 | `tegix.net` | Yes |
 | `tegowerk.eu` | Yes |
@@ -44341,6 +44353,7 @@ Here's a list of public Fediverse services.
 | `whytheyfight.com` | Yes |
 | `wi51.cc` | No |
 | `wicce.me` | No |
+| `wichi.jp` | Yes |
 | `wickedsweet.social` | No |
 | `wickedtotally.com` | No |
 | `wickenberg.nu` | No |
@@ -46363,8 +46376,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,591 |
-| Normal | 33,729 |
+| Cloudflare | 12,598 |
+| Normal | 33,735 |
 
 
 ### 27.2% of public Fediverse services are using Cloudflare.
