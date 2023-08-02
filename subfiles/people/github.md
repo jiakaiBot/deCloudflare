@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Investigate errors in the rosetta log](https://github.com/phetsims/rosetta/issues/423)
+- [FS Not Working with Cloudflare - Timeout Issue attempting to locate the Cloudflare verify checkbox.](https://github.com/FlareSolverr/FlareSolverr/issues/851)
 - [Firehol adds rules to outgoing](https://github.com/firehol/firehol/issues/489)
 - [letsencrypt - grep: unrecognized option](https://github.com/acmesh-official/acme.sh/issues/4725)
 - [letsencrypt - grep: unrecognized option](https://github.com/swizzin/swizzin/issues/1055)
