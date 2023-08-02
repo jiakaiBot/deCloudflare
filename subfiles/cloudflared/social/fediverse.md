@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,043 |
+| com | 7,044 |
 | social | 4,418 |
 | net | 3,602 |
 | org | 2,421 |
@@ -17551,6 +17551,7 @@ Here's a list of public Fediverse services.
 | `hydrantosaurus.com` | Yes |
 | `hydrate.space` | Yes |
 | `hydratrash.party` | Yes |
+| `hydrocelestis.com` | No |
 | `hydrocube.space` | No |
 | `hydropower.pp.ua` | No |
 | `hydrosaas.com` | Yes |
@@ -46383,7 +46384,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,603 |
-| Normal | 33,736 |
+| Normal | 33,737 |
 
 
 ### 27.2% of public Fediverse services are using Cloudflare.
