@@ -444,6 +444,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ahbu_Yuan@twitter](https://twitter.com/Ahbu_Yuan/status/1379249818023862275) | advertise |
 | [AhChan13951575@twitter](https://twitter.com/AhChan13951575/status/1395209269830631426) | advertise |
 | [AhDaisama1@twitter](https://twitter.com/AhDaisama1/status/1527067167753064449) | advertise |
+| [Ahihidongocdcm@twitter](https://twitter.com/Ahihidongocdcm/status/1686617314597511168) | advertise |
 | [ahken_ken@twitter](https://twitter.com/ahken_ken/status/1553305935300694016) | advertise |
 | [ahkoyair@twitter](https://twitter.com/ahkoyair/status/1394640388531490824) | advertise |
 | [AhKyi11@twitter](https://twitter.com/AhKyi11/status/1404362564495024128) | advertise |
@@ -1824,6 +1825,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bngock5@twitter](https://twitter.com/Bngock5/status/1382020407981535234) | advertise |
 | [bnh13684640@twitter](https://twitter.com/bnh13684640/status/1552714766829105153) | advertise |
 | [bnhnguy10869985@twitter](https://twitter.com/bnhnguy10869985/status/1556859719465472002) | advertise |
+| [BnhNguynth69220@twitter](https://twitter.com/BnhNguynth69220/status/1686582150433517568) | advertise |
 | [Bo24354593@twitter](https://twitter.com/Bo24354593/status/1404093711986827266) | advertise |
 | [Bo50994020@twitter](https://twitter.com/Bo50994020/status/1586130148004622337) | advertise |
 | [Bo90364251@twitter](https://twitter.com/Bo90364251/status/1392359546568417281) | advertise |
@@ -7919,6 +7921,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mnh87240431@twitter](https://twitter.com/Mnh87240431/status/1384919193003376643) | advertise |
 | [MnhNguync1@twitter](https://twitter.com/MnhNguync1/status/1393135682973954048) | advertise |
 | [mn_stayhome@twitter](https://twitter.com/mn_stayhome/status/1390610348839870472) | advertise |
+| [mo7pet@twitter](https://twitter.com/mo7pet/status/1686588583707078656) | advertise |
 | [Mo93094751@twitter](https://twitter.com/Mo93094751/status/1491924355885977604) | advertise |
 | [Mo97990048@twitter](https://twitter.com/Mo97990048/status/1400854032604831745) | advertise |
 | [moaminsol@twitter](https://twitter.com/moaminsol/status/1389099210008584193) | advertise |
