@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,045 |
-| social | 4,420 |
+| social | 4,421 |
 | net | 3,604 |
 | org | 2,422 |
 | de | 2,234 |
@@ -17725,6 +17725,7 @@ Here's a list of public Fediverse services.
 | `icedtux.no` | No |
 | `icefish.dev` | Yes |
 | `iceorchid.net` | No |
+| `iceshrimp.social` | No |
 | `icewind.me` | No |
 | `icewind.nl` | No |
 | `ich.gay` | Yes |
@@ -46402,7 +46403,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,609 |
-| Normal | 33,749 |
+| Normal | 33,750 |
 
 
 ### 27.2% of public Fediverse services are using Cloudflare.
