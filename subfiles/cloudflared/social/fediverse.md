@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,044 |
-| social | 4,418 |
-| net | 3,602 |
-| org | 2,421 |
+| social | 4,420 |
+| net | 3,604 |
+| org | 2,422 |
 | de | 2,234 |
 
 
@@ -1645,6 +1645,7 @@ Here's a list of public Fediverse services.
 | `alizoed.top` | Yes |
 | `aljadra.xyz` | No |
 | `alkaabi.io` | Yes |
+| `alkahan.net` | No |
 | `all.de` | No |
 | `allaboutgeorge.com` | No |
 | `allaboutlbc.com` | Yes |
@@ -7437,7 +7438,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8530,7 +8531,7 @@ Here's a list of public Fediverse services.
 | `cybsec.network` | No |
 | `cybt.de` | No |
 | `cybtex.fr` | No |
-| `cybur.nl` | No |
+| `cybur.nl` | Yes |
 | `cycles.network` | No |
 | `cyclodon.net` | No |
 | `cyclry.com` | No |
@@ -11167,6 +11168,7 @@ Here's a list of public Fediverse services.
 | `einmal.jetzt` | No |
 | `einschlafen-podcast.de` | No |
 | `einstieg-in-wp.de` | No |
+| `einsundzwei.ch` | No |
 | `einundausblicke.de` | No |
 | `einverne.info` | Yes |
 | `einweckglas.com` | No |
@@ -27545,6 +27547,7 @@ Here's a list of public Fediverse services.
 | `n7.social` | Yes |
 | `n7mn.xyz` | Yes |
 | `n8e.dev` | Yes |
+| `n8h.eu` | No |
 | `n8vsi.com` | No |
 | `na13.co.uk` | No |
 | `na2na.dev` | Yes |
@@ -29550,6 +29553,7 @@ Here's a list of public Fediverse services.
 | `oceand.org` | Yes |
 | `oceanplayground.social` | No |
 | `oceansocial.us` | No |
+| `oceansurf.org` | Yes |
 | `ocellaris.dev` | Yes |
 | `ocert.at` | No |
 | `ochagavia.nl` | No |
@@ -31198,6 +31202,7 @@ Here's a list of public Fediverse services.
 | `penguin42.com` | No |
 | `penguinability.net` | No |
 | `penguinhub.org` | Yes |
+| `penguinore.net` | No |
 | `penguinpete.com` | No |
 | `penguinproducer.com` | Yes |
 | `penguins.win` | Yes |
@@ -35778,6 +35783,7 @@ Here's a list of public Fediverse services.
 | `sciences.re` | No |
 | `sciences.social` | No |
 | `sciencespot.co.uk` | No |
+| `scientia.social` | No |
 | `scientiam.org` | No |
 | `scientificnetwork.de` | No |
 | `scientists.today` | No |
@@ -41583,6 +41589,7 @@ Here's a list of public Fediverse services.
 | `transcortex.social` | No |
 | `transden.lgbt` | No |
 | `transfem.org` | No |
+| `transfem.social` | No |
 | `transformacion.social` | No |
 | `transforthe.win` | Yes |
 | `transfur.online` | No |
@@ -42645,6 +42652,7 @@ Here's a list of public Fediverse services.
 | `unixcorn.xyz` | Yes |
 | `unixe.de` | No |
 | `unixe.eu` | No |
+| `unixhideout.solutions` | No |
 | `unixmail.fr` | No |
 | `unixnerd.de` | No |
 | `unixporn.pro` | No |
@@ -46384,8 +46392,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,604 |
-| Normal | 33,737 |
+| Cloudflare | 12,607 |
+| Normal | 33,742 |
 
 
 ### 27.2% of public Fediverse services are using Cloudflare.
