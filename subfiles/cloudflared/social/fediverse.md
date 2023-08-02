@@ -1233,6 +1233,7 @@ Here's a list of public Fediverse services.
 | `afop.tech` | No |
 | `afr.pm` | No |
 | `afr.social` | No |
+| `afra.berlin` | No |
 | `afrena.com` | No |
 | `africanbushdoctorz.com` | No |
 | `afriendly.place` | No |
@@ -2040,7 +2041,7 @@ Here's a list of public Fediverse services.
 | `andreas-edler.de` | No |
 | `andreasjr.com` | Yes |
 | `andreaskilgus.de` | No |
-| `andreaslonn.se` | No |
+| `andreaslonn.se` | Yes |
 | `andreasrohner.at` | No |
 | `andreasrohner.dev` | No |
 | `andreasvongunten.com` | Yes |
@@ -31757,6 +31758,7 @@ Here's a list of public Fediverse services.
 | `pixelfed.fr` | No |
 | `pixelfed.hu` | Yes |
 | `pixelfed.icu` | No |
+| `pixelfed.in.ua` | No |
 | `pixelfed.ink` | No |
 | `pixelfed.life` | Yes |
 | `pixelfed.lk` | Yes |
@@ -35989,6 +35991,7 @@ Here's a list of public Fediverse services.
 | `sebastix.com` | No |
 | `sebastix.dev` | No |
 | `sebastix.social` | No |
+| `sebbem.se` | Yes |
 | `sebbo.net` | No |
 | `sebduggan.uk` | Yes |
 | `sebhans.de` | No |
@@ -46402,8 +46405,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,609 |
-| Normal | 33,750 |
+| Cloudflare | 12,611 |
+| Normal | 33,751 |
 
 
 ### 27.2% of public Fediverse services are using Cloudflare.
