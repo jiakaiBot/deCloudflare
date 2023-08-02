@@ -13457,6 +13457,7 @@ Here's a list of public Fediverse services.
 | `forfreedom.at` | No |
 | `forfuture.fm` | No |
 | `forfuture.social` | No |
+| `forget-not.me` | Yes |
 | `forgetthis.site` | Yes |
 | `forgi.social` | Yes |
 | `forgor.club` | Yes |
@@ -46377,7 +46378,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,599 |
+| Cloudflare | 12,600 |
 | Normal | 33,735 |
 
 
