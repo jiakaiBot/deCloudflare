@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failed to resolve import "cloudflare:sockets"](https://github.com/OrJDev/solid-auth/issues/9)
 - [A timeout occurred Error code 524](https://github.com/acheong08/ChatGPT/issues/1485)
 - [Error poe starting batch](https://github.com/Omega-Slender/ITSNOTPOEVER-ST-EDITED/issues/5)
 - [Feature Add good error messages for port-forward errors](https://github.com/kubefirst/kubefirst/issues/1740)
