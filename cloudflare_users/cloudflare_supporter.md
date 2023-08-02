@@ -805,6 +805,7 @@ Do not create new issue or we will close it as duplicate.
 | [anas639623@twitter](https://twitter.com/anas639623/status/1380424790897483776) | advertise |
 | [AnasAfidee46664@twitter](https://twitter.com/AnasAfidee46664/status/1674833507053604866) | advertise |
 | [Anasf_Aff@twitter](https://twitter.com/Anasf_Aff/status/1494012847206330368) | advertise |
+| [AnasMikail8788@twitter](https://twitter.com/AnasMikail8788/status/1686622696199876609) | advertise |
 | [ANASMuH55@twitter](https://twitter.com/ANASMuH55/status/1387596975906988036) | advertise |
 | [ANASXOSHNAW313@twitter](https://twitter.com/ANASXOSHNAW313/status/1379788726730170368) | advertise |
 | [anas_freeman@twitter](https://twitter.com/anas_freeman/status/1402146891094167556) | advertise |
@@ -4528,6 +4529,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hoa74790866@twitter](https://twitter.com/Hoa74790866/status/1533060867063164928) | advertise |
 | [hoaandang@twitter](https://twitter.com/hoaandang/status/1686410235395899392) | advertise |
 | [hoachi0214@twitter](https://twitter.com/hoachi0214/status/1621024818203348993) | advertise |
+| [HoaDi19170189@twitter](https://twitter.com/HoaDi19170189/status/1686628561866883072) | advertise |
 | [hoadt1412@twitter](https://twitter.com/hoadt1412/status/1376926261281353732) | advertise |
 | [HoaHoan58641948@twitter](https://twitter.com/HoaHoan58641948/status/1388431368137281540) | advertise |
 | [HoaiDuyHD@twitter](https://twitter.com/HoaiDuyHD/status/1394280447396311046) | advertise |
@@ -9999,6 +10001,7 @@ Do not create new issue or we will close it as duplicate.
 | [PuSiNan1@twitter](https://twitter.com/PuSiNan1/status/1395189807467298818) | advertise |
 | [pusi_sywm@twitter](https://twitter.com/pusi_sywm/status/1391396929540591616) | advertise |
 | [PustiuXP@twitter](https://twitter.com/PustiuXP/status/1384074566591401986) | advertise |
+| [putrabunian7710@twitter](https://twitter.com/putrabunian7710/status/1686633051328286720) | advertise |
 | [putuphyo@twitter](https://twitter.com/putuphyo/status/1397100452815282177) | advertise |
 | [PuuLee96@twitter](https://twitter.com/PuuLee96/status/1682074151752966146) | advertise |
 | [puzzogambino@twitter](https://twitter.com/puzzogambino/status/1632920793419223040) | advertise |
