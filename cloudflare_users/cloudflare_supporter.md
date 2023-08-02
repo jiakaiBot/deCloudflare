@@ -2617,6 +2617,7 @@ Do not create new issue or we will close it as duplicate.
 | [DananjayaDesha5@twitter](https://twitter.com/DananjayaDesha5/status/1403390628495433735) | advertise |
 | [Danbaba21@twitter](https://twitter.com/Danbaba21/status/1401231353824358402) | advertise |
 | [dancirmedia@twitter](https://twitter.com/dancirmedia/status/1439483459437674500) | advertise |
+| [DandangNguyet@twitter](https://twitter.com/DandangNguyet/status/1686875681421230082) | advertise |
 | [DanelSonic123@twitter](https://twitter.com/DanelSonic123/status/1491964143850692609) | advertise |
 | [DanericNetwork@twitter](https://twitter.com/DanericNetwork/status/1458866827128459276) | advertise |
 | [dang050302@twitter](https://twitter.com/dang050302/status/1556596925763559425) | advertise |
