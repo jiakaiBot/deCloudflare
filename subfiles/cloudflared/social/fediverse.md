@@ -28274,6 +28274,7 @@ Here's a list of public Fediverse services.
 | `newathens.net` | No |
 | `newatlantis.xyz` | No |
 | `newbase.cloud` | Yes |
+| `newberkshire.cloud` | Yes |
 | `newblue.life` | No |
 | `newcitadel.net` | No |
 | `newdefinition.de` | No |
@@ -46376,7 +46377,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,598 |
+| Cloudflare | 12,599 |
 | Normal | 33,735 |
 
 
