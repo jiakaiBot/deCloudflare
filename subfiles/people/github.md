@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Rutorrent unable to connect to rtorrent](https://github.com/Bercik1337/rt-auto-install/issues/50)
 - [Blank screen whenever I try to generate logos](https://github.com/adrianhajdin/project_threejs_ai/issues/35)
 - [Timing out with an error](https://github.com/prolego-team/neo-sophia/issues/74)
 - [NUT fails to start after upgrade to Home Assistant OS 10.4](https://github.com/home-assistant/operating-system/issues/2668)
