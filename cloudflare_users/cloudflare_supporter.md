@@ -8140,6 +8140,7 @@ Do not create new issue or we will close it as duplicate.
 | [MrChitMaung@twitter](https://twitter.com/MrChitMaung/status/1391087758123446275) | advertise |
 | [MrDee87735756@twitter](https://twitter.com/MrDee87735756/status/1387714262324301829) | advertise |
 | [MrDorae84203208@twitter](https://twitter.com/MrDorae84203208/status/1389796762710274050) | advertise |
+| [Mrdraw19@twitter](https://twitter.com/Mrdraw19/status/1687163028213493760) | advertise |
 | [MReboja@twitter](https://twitter.com/MReboja/status/1382689284906307586) | advertise |
 | [mrecondo@twitter](https://twitter.com/mrecondo/status/1493727407819436036) | advertise |
 | [mrgamzer1@twitter](https://twitter.com/mrgamzer1/status/1477674857441763331) | advertise |
@@ -10173,6 +10174,7 @@ Do not create new issue or we will close it as duplicate.
 | [q_vz88@twitter](https://twitter.com/q_vz88/status/1588861118705184769) | advertise |
 | [r0c4p1a@twitter](https://twitter.com/r0c4p1a/status/1489935636815568897) | advertise |
 | [R1_Khalid@twitter](https://twitter.com/R1_Khalid/status/1607573474477744131) | advertise |
+| [R2bEEaton@twitter](https://twitter.com/R2bEEaton/status/1687157580416630784) | advertise |
 | [R3DActual@twitter](https://twitter.com/R3DActual/status/1468895846444015617) | advertise |
 | [R3Zipo@twitter](https://twitter.com/R3Zipo/status/1542271365642059776) | advertise |
 | [R3ZNamikaze23@twitter](https://twitter.com/R3ZNamikaze23/status/1583609063954227201) | advertise |
