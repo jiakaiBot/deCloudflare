@@ -725,6 +725,7 @@ ns0117.secondary.cloudflare.com
 ns0118.secondary.cloudflare.com
 ns0120.secondary.cloudflare.com
 ns0126.secondary.cloudflare.com
+ns0127.secondary.cloudflare.com
 ns0131.secondary.cloudflare.com
 ns0132.secondary.cloudflare.com
 ns0134.secondary.cloudflare.com
@@ -738,6 +739,7 @@ ns0155.secondary.cloudflare.com
 ns0159.secondary.cloudflare.com
 ns0160.secondary.cloudflare.com
 ns0164.secondary.cloudflare.com
+ns0165.secondary.cloudflare.com
 ns0166.secondary.cloudflare.com
 ns0168.secondary.cloudflare.com
 ns0170.secondary.cloudflare.com
