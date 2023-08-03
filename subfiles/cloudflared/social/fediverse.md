@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,052 |
 | social | 4,424 |
-| net | 3,606 |
+| net | 3,607 |
 | org | 2,423 |
 | de | 2,234 |
 
@@ -15333,6 +15333,7 @@ Here's a list of public Fediverse services.
 | `goatdaddy.net` | No |
 | `goatfan.club` | No |
 | `goats.men` | Yes |
+| `goatzone.net` | No |
 | `gobbetti.name` | No |
 | `gobelet.com` | No |
 | `goblackcat.com` | Yes |
@@ -24570,7 +24571,7 @@ Here's a list of public Fediverse services.
 | `mastodon.pizza` | No |
 | `mastodon.pl` | Yes |
 | `mastodon.poker` | No |
-| `mastodon.press` | No |
+| `mastodon.press` | Yes |
 | `mastodon.pro` | Yes |
 | `mastodon.pub` | No |
 | `mastodon.quebec` | Yes |
@@ -46452,7 +46453,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,656 |
+| Cloudflare | 12,657 |
 | Normal | 33,753 |
 
 
