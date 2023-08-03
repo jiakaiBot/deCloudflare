@@ -6234,6 +6234,7 @@ Do not create new issue or we will close it as duplicate.
 | [KKanK4@twitter](https://twitter.com/KKanK4/status/1395696774984077317) | advertise |
 | [kkbpc_sub@twitter](https://twitter.com/kkbpc_sub/status/1492429642610851841) | advertise |
 | [kkkkarn22@twitter](https://twitter.com/kkkkarn22/status/1390552176229969921) | advertise |
+| [kkmccl76@twitter](https://twitter.com/kkmccl76/status/1686917750596550656) | advertise |
 | [KKMyo8@twitter](https://twitter.com/KKMyo8/status/1395565047686995971) | advertise |
 | [KLacey83@twitter](https://twitter.com/KLacey83/status/1401868983159070725) | advertise |
 | [klausblackk@twitter](https://twitter.com/klausblackk/status/1393991709457993728) | advertise |
