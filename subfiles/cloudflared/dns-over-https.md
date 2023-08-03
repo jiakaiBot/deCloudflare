@@ -15,6 +15,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | --- | --- |
 | 00dani.me | No |
 | 0ms.run | Yes |
+| 198.games | No |
 | 23-4.cn | No |
 | 280blocker.net | Yes |
 | 30x.me | Yes |
@@ -48,6 +49,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | b612.me | Yes |
 | bancuh.com | No |
 | bebasid.com | Yes |
+| bedro.cloud | No |
 | belnet.be | No |
 | benpro.fr | Yes |
 | bit-trail.nl | No |
@@ -114,6 +116,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ellichua.com | No |
 | emiliyan.com | Yes |
 | eth.link | Yes |
+| everovpn.co | No |
 | extrawdw.net | Yes |
 | fancyorg.at | No |
 | fdn.fr | No |
@@ -193,6 +196,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lonet.org | Yes |
 | lsho.top | Yes |
 | lz0724.com | No |
+| mailkyb.co | No |
 | masters-of-cloud.de | No |
 | meddy94.de | No |
 | meeo.win | Yes |
@@ -292,6 +296,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sslip.io | Yes |
 | ssrahul96.xyz | Yes |
 | startupstack.tech | Yes |
+| streamlas.fr | Yes |
 | stvsk.ml | Yes |
 | sungai.stream | Yes |
 | switch.ch | No |
@@ -330,6 +335,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wang.art | Yes |
 | wantaquddin.com | No |
 | waringer-atg.de | No |
+| wibenson.cloud | Yes |
 | xaoimoon.fr | No |
 | xcom.pro | No |
 | xfinity.com | Yes |
@@ -339,6 +345,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ychen.cf | No |
 | youni.win | Yes |
 | yovbak.com | No |
+| yybyy.wiki | Yes |
 | zxcvb.pp.ua | Yes |
 
 
@@ -346,8 +353,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 166 |
-| Normal | 161 |
+| Cloudflare | 169 |
+| Normal | 165 |
 
 
-### 50.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
