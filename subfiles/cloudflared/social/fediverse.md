@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,052 |
+| com | 7,056 |
 | social | 4,424 |
 | net | 3,607 |
 | org | 2,423 |
-| de | 2,234 |
+| de | 2,235 |
 
 
 - Mastodon, Pleroma, etc
@@ -4367,6 +4367,7 @@ Here's a list of public Fediverse services.
 | `bindinggenerations.net` | No |
 | `binfalse.de` | No |
 | `binfish.jp` | No |
+| `bingerin.de` | No |
 | `binky.fish` | Yes |
 | `binocl.art` | No |
 | `binsec.social` | No |
@@ -10595,6 +10596,7 @@ Here's a list of public Fediverse services.
 | `drytalk.social` | Yes |
 | `dryusdan.fr` | No |
 | `ds106.us` | Yes |
+| `ds2600.com` | Yes |
 | `dsanj.org` | Yes |
 | `dsausa.social` | No |
 | `dsbeans.com` | Yes |
@@ -28310,6 +28312,7 @@ Here's a list of public Fediverse services.
 | `neverten.org` | No |
 | `neverwhe.re` | No |
 | `neverwhere.social` | Yes |
+| `nevillepark.ca` | No |
 | `nevira.net` | No |
 | `nevkontakte.com` | No |
 | `new-game.pw` | No |
@@ -33210,6 +33213,7 @@ Here's a list of public Fediverse services.
 | `quey.la` | No |
 | `quey.org` | Yes |
 | `quic.fr` | No |
+| `quickbrb.chat` | No |
 | `quickbrb.com` | Yes |
 | `quickfix.es` | No |
 | `quiet.horse` | No |
@@ -34490,6 +34494,7 @@ Here's a list of public Fediverse services.
 | `rivals.live` | No |
 | `rivals.space` | Yes |
 | `rivendell.cafe` | No |
+| `riverglide.com` | No |
 | `riverina.live` | No |
 | `riverscape.info` | No |
 | `riverside.camp` | No |
@@ -34679,6 +34684,7 @@ Here's a list of public Fediverse services.
 | `rofl.im` | Yes |
 | `roflblog.net` | Yes |
 | `roflcopter.fr` | No |
+| `rogafe.pw` | No |
 | `roger.family` | Yes |
 | `rogers-net.com` | Yes |
 | `rogers.plus` | No |
@@ -37055,6 +37061,7 @@ Here's a list of public Fediverse services.
 | `skrivel.se` | No |
 | `skrlet13.cl` | No |
 | `skrlet13.xyz` | No |
+| `skrnx.com` | Yes |
 | `skrolli.fi` | No |
 | `skroo.me` | No |
 | `skrt.social` | No |
@@ -39082,6 +39089,7 @@ Here's a list of public Fediverse services.
 | `swagosaure.com` | No |
 | `swain.social` | Yes |
 | `swampfoxden.com` | No |
+| `swamppy.com` | No |
 | `swansinflight.nz` | No |
 | `swapping.space` | No |
 | `swast.club` | No |
@@ -46453,8 +46461,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,657 |
-| Normal | 33,753 |
+| Cloudflare | 12,659 |
+| Normal | 33,759 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
