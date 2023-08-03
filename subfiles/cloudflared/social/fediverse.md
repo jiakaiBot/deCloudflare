@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 7,050 |
 | social | 4,423 |
 | net | 3,604 |
-| org | 2,423 |
+| org | 2,422 |
 | de | 2,234 |
 
 
@@ -15315,7 +15315,6 @@ Here's a list of public Fediverse services.
 | `gnuu.org` | Yes |
 | `gnuweeb.org` | Yes |
 | `gnuwood.org` | No |
-| `gnyo.org` | No |
 | `gnzl.cl` | No |
 | `go-newbie.club` | No |
 | `go-rs.tk` | No |
@@ -46434,7 +46433,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,624 |
-| Normal | 33,766 |
+| Normal | 33,765 |
 
 
 ### 27.2% of public Fediverse services are using Cloudflare.
