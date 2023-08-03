@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [NUT fails to start after upgrade to Home Assistant OS 10.4](https://github.com/home-assistant/operating-system/issues/2668)
 - [Piper doesn't start - Service exited with code 1 (by signal 0)](https://github.com/home-assistant/addons/issues/3163)
 - [v3.3.1 failed in docker](https://github.com/FlareSolverr/FlareSolverr/issues/854)
 - [Investigate errors in the rosetta log](https://github.com/phetsims/rosetta/issues/423)
