@@ -5949,6 +5949,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ken08753139@twitter](https://twitter.com/Ken08753139/status/1394319640889753600) | advertise |
 | [Ken74226330@twitter](https://twitter.com/Ken74226330/status/1401414699581800455) | advertise |
 | [kenbloc08430028@twitter](https://twitter.com/kenbloc08430028/status/1401742984433917955) | advertise |
+| [Kendy_Nguyen89@twitter](https://twitter.com/Kendy_Nguyen89/status/1686955125217341440) | advertise |
 | [kengjii@twitter](https://twitter.com/kengjii/status/1643179950290403329) | advertise |
 | [kenguimond1@twitter](https://twitter.com/kenguimond1/status/1483616511553990656) | advertise |
 | [kenhnhacsan@twitter](https://twitter.com/kenhnhacsan/status/1375658471224320000) | advertise |
@@ -5993,6 +5994,7 @@ Do not create new issue or we will close it as duplicate.
 | [kevs_a_g@twitter](https://twitter.com/kevs_a_g/status/1469233714022522880) | advertise |
 | [KexyYogesh@twitter](https://twitter.com/KexyYogesh/status/1495990679180570626) | advertise |
 | [keyboardwah@twitter](https://twitter.com/keyboardwah/status/1457507340639371265) | advertise |
+| [keyhan_samiei@twitter](https://twitter.com/keyhan_samiei/status/1686963777621622784) | advertise |
 | [keyitme999@twitter](https://twitter.com/keyitme999/status/1488542840011456512) | advertise |
 | [keysiee12@twitter](https://twitter.com/keysiee12/status/1405166173231063044) | advertise |
 | [keywordwriters@twitter](https://twitter.com/keywordwriters/status/1581229224735965184) | advertise |
@@ -7985,6 +7987,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mohamad65364700@twitter](https://twitter.com/Mohamad65364700/status/1501280223660331008) | advertise |
 | [mohamadfrhn12@twitter](https://twitter.com/mohamadfrhn12/status/1493943709246771200) | advertise |
 | [mohamadlatif91@twitter](https://twitter.com/mohamadlatif91/status/1607357352654802952) | advertise |
+| [Mohamed16031472@twitter](https://twitter.com/Mohamed16031472/status/1686953130699689984) | advertise |
 | [Mohamed92298050@twitter](https://twitter.com/Mohamed92298050/status/1564490921680535553) | advertise |
 | [Mohamedelkashi9@twitter](https://twitter.com/Mohamedelkashi9/status/1388179515256541189) | advertise |
 | [Mohamedelshewi7@twitter](https://twitter.com/Mohamedelshewi7/status/1602992689439555584) | advertise |
