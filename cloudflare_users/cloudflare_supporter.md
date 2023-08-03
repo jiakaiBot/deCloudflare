@@ -94,6 +94,7 @@ Do not create new issue or we will close it as duplicate.
 | [4cvji1@twitter](https://twitter.com/4cvji1/status/1468836869941125121) | advertise |
 | [4DSxDARK1@twitter](https://twitter.com/4DSxDARK1/status/1379416647505616902) | advertise |
 | [4minerpool@twitter](https://twitter.com/4minerpool/status/1501760243952685058) | advertise |
+| [4OGb8w9ihu0gv7B@twitter](https://twitter.com/4OGb8w9ihu0gv7B/status/1687103087096549376) | advertise |
 | [4QUIGE@twitter](https://twitter.com/4QUIGE/status/1558725276162347011) | advertise |
 | [4Taff@twitter](https://twitter.com/4Taff/status/1397536462606831617) | advertise |
 | [5b3b12@twitter](https://twitter.com/5b3b12/status/1628880703596433410) | advertise |
@@ -6227,6 +6228,7 @@ Do not create new issue or we will close it as duplicate.
 | [KiranPT@twitter](https://twitter.com/KiranPT/status/1403938633816502274) | advertise |
 | [KiruiWinston@twitter](https://twitter.com/KiruiWinston/status/1460566327215673348) | advertise |
 | [KishanY38124071@twitter](https://twitter.com/KishanY38124071/status/1386658570142289923) | advertise |
+| [Kishwar_Ayaz@twitter](https://twitter.com/Kishwar_Ayaz/status/1687095405501362176) | advertise |
 | [Kit33462985@twitter](https://twitter.com/Kit33462985/status/1401542022276685826) | advertise |
 | [KiteMeeran@twitter](https://twitter.com/KiteMeeran/status/1479318671038181379) | advertise |
 | [kitl37720388@twitter](https://twitter.com/kitl37720388/status/1558464851650850824) | advertise |
