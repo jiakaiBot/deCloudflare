@@ -25,7 +25,7 @@ long as it can use _clean_ DNS.
 
 - Linux: Installing
 ```
-wget https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.linux \
+wget https://0xacab.org/dCF/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.linux \
   -O /usr/local/bin/cfdomains
 chmod +x /usr/local/bin/cfdomains
 cfdomains
@@ -45,9 +45,9 @@ rm -r .cfdomains_conf
 ### Download
 Current Version: **1.0.4.5**
 
-- [Windows](https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.exe?inline=false)
-- [Mac OS](https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.app?inline=false)
-- [Linux](https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.linux?inline=false)
+- [Windows](https://0xacab.org/dCF/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.exe?inline=false)
+- [Mac OS](https://0xacab.org/dCF/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.app?inline=false)
+- [Linux](https://0xacab.org/dCF/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.linux?inline=false)
 - Source
   - [source.js](source.js)
     - e.g. `# apt install npm nodejs; npm i node-libcurl --save; nodejs source.js`

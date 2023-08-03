@@ -1946,7 +1946,7 @@ function chgDNSIP() {
 function dlCFJson(i) {
    return new Promise((okay, nope) => {
       const curl = cur1.dupHandle(false);
-      curl.setOpt('URL', 'https://0xacab.org/my-privacy-dns/cloudflare_domains/-/raw/master/JSON/cloudflare_' + i + '.json');
+      curl.setOpt('URL', 'https://0xacab.org/dCF/cloudflare_domains/-/raw/master/JSON/cloudflare_' + i + '.json');
       curl.setOpt('USERAGENT', 'Mozilla/5.0 (Windows NT 10.0; rv:102.0) Gecko/20100101 Firefox/102.0');
       if (myConfig['proxy'] != '') {
          curl.setOpt('HTTPPROXYTUNNEL', 1);

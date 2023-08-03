@@ -9,7 +9,7 @@
             }
           },
           "version": "1.0.7.3",
-          "update_link": "https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/addons/releases/isat.xpi",
+          "update_link": "https://0xacab.org/dCF/deCloudflare/-/raw/master/addons/releases/isat.xpi",
           "update_hash": "sha256:438a16f298dda40499c944ad6abad4fedd9b171dcd49341912716695fde0b37d"
         }
       ]
@@ -23,7 +23,7 @@
             }
           },
           "version": "1.0.27.2",
-          "update_link": "https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/addons/releases/ismm.xpi",
+          "update_link": "https://0xacab.org/dCF/deCloudflare/-/raw/master/addons/releases/ismm.xpi",
           "update_hash": "sha256:c5b37fdbc8ba84a66e8c15d3715818db977c7e32ce421c51e8f2351f99c4f93c"
         }
       ]
@@ -37,7 +37,7 @@
             }
           },
           "version": "1.0.6.2",
-          "update_link": "https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/addons/releases/urjm.xpi",
+          "update_link": "https://0xacab.org/dCF/deCloudflare/-/raw/master/addons/releases/urjm.xpi",
           "update_hash": "sha256:13f3d067ec4516cfeb3b17da585c2be92df762a23b0421dce684167e20879541"
         }
       ]
@@ -51,7 +51,7 @@
             }
           },
           "version": "1.0.1.2",
-          "update_link": "https://0xacab.org/my-privacy-dns/deCloudflare/-/raw/master/addons/releases/bcma.xpi",
+          "update_link": "https://0xacab.org/dCF/deCloudflare/-/raw/master/addons/releases/bcma.xpi",
           "update_hash": "sha256:1873da1c4c6d4f064bc8e28e859327f931894248870596c87e72ae33d5132a05"
         }
       ]
