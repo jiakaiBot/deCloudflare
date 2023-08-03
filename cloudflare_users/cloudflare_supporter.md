@@ -10213,6 +10213,7 @@ Do not create new issue or we will close it as duplicate.
 | [rainonme21@twitter](https://twitter.com/rainonme21/status/1552151665414914054) | advertise |
 | [RainRai02810597@twitter](https://twitter.com/RainRai02810597/status/1395069339280154627) | advertise |
 | [raiyanrahmanr@twitter](https://twitter.com/raiyanrahmanr/status/1574472417577431045) | advertise |
+| [raiyyanislam2@twitter](https://twitter.com/raiyyanislam2/status/1687132240076226560) | advertise |
 | [Raj00446912@twitter](https://twitter.com/Raj00446912/status/1402881832203395073) | advertise |
 | [Raj0707Garapati@twitter](https://twitter.com/Raj0707Garapati/status/1394255967928295425) | advertise |
 | [Raj71446827@twitter](https://twitter.com/Raj71446827/status/1380171008787681284) | advertise |
@@ -12387,6 +12388,7 @@ Do not create new issue or we will close it as duplicate.
 | [Timeox2kDev@twitter](https://twitter.com/Timeox2kDev/status/1529840436390420480) | advertise |
 | [TimJiang0106@twitter](https://twitter.com/TimJiang0106/status/1602945168805486592) | advertise |
 | [TiMMaY57798738@twitter](https://twitter.com/TiMMaY57798738/status/1487406924849160192) | advertise |
+| [timmitra@twitter](https://twitter.com/timmitra/status/1687127599116406784) | advertise |
 | [timmlyons@twitter](https://twitter.com/timmlyons/status/1466844861571559431) | advertise |
 | [timmybrains@twitter](https://twitter.com/timmybrains/status/1579635097019768833) | advertise |
 | [timof121@twitter](https://twitter.com/timof121/status/1523252557119905793) | advertise |
