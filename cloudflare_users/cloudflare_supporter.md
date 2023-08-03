@@ -8807,6 +8807,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynAn94854130@twitter](https://twitter.com/NguynAn94854130/status/1480063041450672130) | advertise |
 | [NguynB54934011@twitter](https://twitter.com/NguynB54934011/status/1475702884922630145) | advertise |
 | [nguynbaocu1@twitter](https://twitter.com/nguynbaocu1/status/1552497735063941120) | advertise |
+| [NguynBn62951456@twitter](https://twitter.com/NguynBn62951456/status/1687069733571743744) | advertise |
 | [NguynBnhKin2@twitter](https://twitter.com/NguynBnhKin2/status/1383131640084398081) | advertise |
 | [Nguync38268732@twitter](https://twitter.com/Nguync38268732/status/1392228757956562944) | advertise |
 | [NguyncA92385972@twitter](https://twitter.com/NguyncA92385972/status/1552695881786609664) | advertise |
@@ -8923,6 +8924,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nhatchinh310@twitter](https://twitter.com/Nhatchinh310/status/1556312052180058112) | advertise |
 | [nhatcuong31@twitter](https://twitter.com/nhatcuong31/status/1674312963841462274) | advertise |
 | [Nhatlinhitsme@twitter](https://twitter.com/Nhatlinhitsme/status/1553438209941508096) | advertise |
+| [NhatTra79185468@twitter](https://twitter.com/NhatTra79185468/status/1687054753405210624) | advertise |
 | [Nha_vy_94@twitter](https://twitter.com/Nha_vy_94/status/1629261407517810689) | advertise |
 | [Nhi04112002@twitter](https://twitter.com/Nhi04112002/status/1600060453945647105) | advertise |
 | [Nhi80570476@twitter](https://twitter.com/Nhi80570476/status/1406305550334271493) | advertise |
@@ -12377,6 +12379,7 @@ Do not create new issue or we will close it as duplicate.
 | [tihuynh120586@twitter](https://twitter.com/tihuynh120586/status/1657387545586708482) | advertise |
 | [Tiii60222842@twitter](https://twitter.com/Tiii60222842/status/1381243276804513796) | advertise |
 | [TiinTung@twitter](https://twitter.com/TiinTung/status/1618284022014308355) | advertise |
+| [Tikk109@twitter](https://twitter.com/Tikk109/status/1687045480210194438) | advertise |
 | [TikkhaVen@twitter](https://twitter.com/TikkhaVen/status/1390583202595672069) | advertise |
 | [Timeox2kDev@twitter](https://twitter.com/Timeox2kDev/status/1529840436390420480) | advertise |
 | [TimJiang0106@twitter](https://twitter.com/TimJiang0106/status/1602945168805486592) | advertise |
