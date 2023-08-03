@@ -2804,6 +2804,7 @@ Do not create new issue or we will close it as duplicate.
 | [definitive_i@twitter](https://twitter.com/definitive_i/status/1671071413636038660) | advertise |
 | [DefPratik@twitter](https://twitter.com/DefPratik/status/1532445074973663232) | advertise |
 | [DegenPilled@twitter](https://twitter.com/DegenPilled/status/1442737756753514497) | advertise |
+| [degutefera67@twitter](https://twitter.com/degutefera67/status/1687034426155233280) | advertise |
 | [deivan76@twitter](https://twitter.com/deivan76/status/1534215791637409792) | advertise |
 | [DekhapSawa@twitter](https://twitter.com/DekhapSawa/status/1600884986798039040) | advertise |
 | [Deki12253933@twitter](https://twitter.com/Deki12253933/status/1552020750936281088) | advertise |
