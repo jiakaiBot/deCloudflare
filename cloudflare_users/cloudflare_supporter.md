@@ -3146,6 +3146,7 @@ Do not create new issue or we will close it as duplicate.
 | [dude_trader@twitter](https://twitter.com/dude_trader/status/1598773838862778368) | advertise |
 | [DudjdjXjnd@twitter](https://twitter.com/DudjdjXjnd/status/1603058822951874563) | advertise |
 | [due_troi@twitter](https://twitter.com/due_troi/status/1573624298224635904) | advertise |
+| [DugTuan41136@twitter](https://twitter.com/DugTuan41136/status/1687139368220459008) | advertise |
 | [DujeGT@twitter](https://twitter.com/DujeGT/status/1533451778255093761) | advertise |
 | [DukedWinchester@twitter](https://twitter.com/DukedWinchester/status/1391277873210662913) | advertise |
 | [dukeyunz@twitter](https://twitter.com/dukeyunz/status/1471327151656153088) | advertise |
@@ -7790,6 +7791,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinhNh63727820@twitter](https://twitter.com/MinhNh63727820/status/1387453341836341250) | advertise |
 | [Minhon41314491@twitter](https://twitter.com/Minhon41314491/status/1478750521838034944) | advertise |
 | [MinhPha30559237@twitter](https://twitter.com/MinhPha30559237/status/1481172835225993219) | advertise |
+| [minhphamltes@twitter](https://twitter.com/minhphamltes/status/1687144821469954048) | advertise |
 | [minhquydesign@twitter](https://twitter.com/minhquydesign/status/1457461282580357136) | advertise |
 | [MinhQuynL1@twitter](https://twitter.com/MinhQuynL1/status/1589778967460220928) | advertise |
 | [minhruoi000@twitter](https://twitter.com/minhruoi000/status/1402955958708445191) | advertise |
