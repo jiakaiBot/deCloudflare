@@ -31275,6 +31275,7 @@ Here's a list of public Fediverse services.
 | `peregrinecross.com` | No |
 | `peregrinor.net` | No |
 | `perfect.moe` | No |
+| `perfectflaw.us` | No |
 | `performing-arts.ch` | No |
 | `performingart.online` | No |
 | `perfumefan.jp` | No |
@@ -37089,6 +37090,7 @@ Here's a list of public Fediverse services.
 | `skynate.net` | Yes |
 | `skynet.social` | No |
 | `skynetcloud.site` | Yes |
+| `skyrina.dev` | No |
 | `skyshanty.xyz` | No |
 | `skyshaper.org` | No |
 | `skytatu.com` | No |
@@ -46432,7 +46434,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,624 |
-| Normal | 33,764 |
+| Normal | 33,766 |
 
 
 ### 27.2% of public Fediverse services are using Cloudflare.
