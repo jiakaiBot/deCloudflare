@@ -4243,6 +4243,7 @@ Do not create new issue or we will close it as duplicate.
 | [hassan91290216@twitter](https://twitter.com/hassan91290216/status/1527183505817579520) | advertise |
 | [HassanR56423746@twitter](https://twitter.com/HassanR56423746/status/1394591822849003521) | advertise |
 | [Haswand2@twitter](https://twitter.com/Haswand2/status/1378381010832826372) | advertise |
+| [hatedbyelon@twitter](https://twitter.com/hatedbyelon/status/1686981884637519877) | advertise |
 | [HaTranNguyen4@twitter](https://twitter.com/HaTranNguyen4/status/1474278844894834689) | advertise |
 | [hatthocnho83@twitter](https://twitter.com/hatthocnho83/status/1553035064098770945) | advertise |
 | [Hau29Trung@twitter](https://twitter.com/Hau29Trung/status/1381840387942191108) | advertise |
@@ -7779,6 +7780,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinhLQuang1@twitter](https://twitter.com/MinhLQuang1/status/1505475803576147969) | advertise |
 | [Minhmin35799702@twitter](https://twitter.com/Minhmin35799702/status/1401567287354662914) | advertise |
 | [MinhngQuang11@twitter](https://twitter.com/MinhngQuang11/status/1519699390918967296) | advertise |
+| [MinhNguyen09190@twitter](https://twitter.com/MinhNguyen09190/status/1686981445804535808) | advertise |
 | [MinhNh63727820@twitter](https://twitter.com/MinhNh63727820/status/1387453341836341250) | advertise |
 | [Minhon41314491@twitter](https://twitter.com/Minhon41314491/status/1478750521838034944) | advertise |
 | [MinhPha30559237@twitter](https://twitter.com/MinhPha30559237/status/1481172835225993219) | advertise |
