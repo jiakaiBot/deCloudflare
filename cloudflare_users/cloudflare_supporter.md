@@ -12218,6 +12218,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thinh895@twitter](https://twitter.com/Thinh895/status/1384636309826768902) | advertise |
 | [Thinh2347123@twitter](https://twitter.com/Thinh2347123/status/1377847997564788736) | advertise |
 | [Thinh34570878@twitter](https://twitter.com/Thinh34570878/status/1405434591502995460) | advertise |
+| [ThinHc608595160@twitter](https://twitter.com/ThinHc608595160/status/1687079615867793409) | advertise |
 | [thinhrcrazy@twitter](https://twitter.com/thinhrcrazy/status/1393615682399395842) | advertise |
 | [ThinkEzIT@twitter](https://twitter.com/ThinkEzIT/status/1544165852106625025) | advertise |
 | [Thinmya70178167@twitter](https://twitter.com/Thinmya70178167/status/1397741650923843585) | advertise |
@@ -13263,6 +13264,7 @@ Do not create new issue or we will close it as duplicate.
 | [Waelelsayed56@twitter](https://twitter.com/Waelelsayed56/status/1397011445435469824) | advertise |
 | [wael_shamsedin@twitter](https://twitter.com/wael_shamsedin/status/1522288287284711427) | advertise |
 | [Waffle2175@twitter](https://twitter.com/Waffle2175/status/1535801167816577024) | advertise |
+| [wafleex@twitter](https://twitter.com/wafleex/status/1687076793474531328) | advertise |
 | [Wahab58023934@twitter](https://twitter.com/Wahab58023934/status/1669977261376716800) | advertise |
 | [wahabkh15404091@twitter](https://twitter.com/wahabkh15404091/status/1607854425128706052) | advertise |
 | [wahahahk84@twitter](https://twitter.com/wahahahk84/status/1682217586745016321) | advertise |
