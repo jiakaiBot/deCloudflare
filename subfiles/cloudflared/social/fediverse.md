@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,051 |
 | social | 4,423 |
-| net | 3,604 |
+| net | 3,605 |
 | org | 2,422 |
 | de | 2,234 |
 
@@ -243,6 +243,7 @@ Here's a list of public Fediverse services.
 | `158436977.xyz` | Yes |
 | `15cm.net` | Yes |
 | `15o2.de` | No |
+| `161.sh` | No |
 | `161.social` | No |
 | `1611.social` | Yes |
 | `161976857.com` | No |
@@ -5406,6 +5407,7 @@ Here's a list of public Fediverse services.
 | `brokkoli.social` | No |
 | `brokyrkan.org` | No |
 | `bronevichok.ru` | No |
+| `broniesaustralia.com.au` | Yes |
 | `brontoforum.us` | No |
 | `brontosin.space` | No |
 | `bronyfurry.com` | Yes |
@@ -14462,7 +14464,7 @@ Here's a list of public Fediverse services.
 | `gall.family` | Yes |
 | `gallegoiv.com` | Yes |
 | `gallifrey.es` | No |
-| `gallifrey.social` | No |
+| `gallifrey.social` | Yes |
 | `gallinula.com` | No |
 | `gallion.sh` | No |
 | `galm.io` | No |
@@ -14750,6 +14752,7 @@ Here's a list of public Fediverse services.
 | `geeks.cafe` | No |
 | `geeks.one` | No |
 | `geekshell.fr` | No |
+| `geekshelter.net` | Yes |
 | `geeksociety.social` | No |
 | `geekspawn.xyz` | Yes |
 | `geekspot.com` | No |
@@ -18777,6 +18780,7 @@ Here's a list of public Fediverse services.
 | `ivi.pl` | No |
 | `ivie.cc` | No |
 | `ivn.cx` | Yes |
+| `ivoor.eu` | No |
 | `ivor.org` | No |
 | `ivrianochi.com` | No |
 | `ivsu.es` | No |
@@ -25981,7 +25985,7 @@ Here's a list of public Fediverse services.
 | `misaka.chat` | Yes |
 | `misaka.ru` | No |
 | `misaka.social` | Yes |
-| `misakey.net` | No |
+| `misakey.net` | Yes |
 | `misaki-chan.world` | Yes |
 | `misamigos.online` | No |
 | `misandry.city` | No |
@@ -26029,6 +26033,7 @@ Here's a list of public Fediverse services.
 | `misskey.ai` | No |
 | `misskey.art` | Yes |
 | `misskey.at` | No |
+| `misskey.au` | No |
 | `misskey.beer` | No |
 | `misskey.blue` | Yes |
 | `misskey.cf` | Yes |
@@ -30494,7 +30499,7 @@ Here's a list of public Fediverse services.
 | `ourfuture.org` | Yes |
 | `ourislandgeorgia.net` | No |
 | `ourlatex.life` | No |
-| `ourlittle.space` | No |
+| `ourlittle.space` | Yes |
 | `ourmemory.sbs` | Yes |
 | `ouroboros.gay` | No |
 | `ouroboros.monster` | No |
@@ -32488,6 +32493,7 @@ Here's a list of public Fediverse services.
 | `praxis.su` | Yes |
 | `prayerforwords.com` | No |
 | `prb1.es` | No |
+| `prdg.be` | No |
 | `preceptor.pl` | No |
 | `precious.net` | No |
 | `preciouslittle.life` | No |
@@ -34664,6 +34670,7 @@ Here's a list of public Fediverse services.
 | `roelhesp.nl` | Yes |
 | `roelroscamabbing.nl` | No |
 | `roelz.org` | Yes |
+| `roembol.nl` | Yes |
 | `roerch.de` | No |
 | `roessner-online.de` | No |
 | `rofl.im` | Yes |
@@ -35985,7 +35992,7 @@ Here's a list of public Fediverse services.
 | `seann.ca` | Yes |
 | `seanos.net` | Yes |
 | `seanreiser.com` | Yes |
-| `seanwilliams.social` | No |
+| `seanwilliams.social` | Yes |
 | `seanzach.com` | Yes |
 | `seaoco.com` | No |
 | `seaofog.com` | Yes |
@@ -46438,7 +46445,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,645 |
+| Cloudflare | 12,652 |
 | Normal | 33,750 |
 
 
