@@ -239,7 +239,7 @@ Here's a list of breached sites.
 | FunnyGames (Funny Games) | 764,357 | No |
 | FurAffinity (Fur Affinity) | 1,270,564 | Yes |
 | GFAN | 22,526,334 | No |
-| GGCorp | 2,376,330 | No |
+| GGCorp | 2,376,330 | Yes |
 | GPSUnderground (GPS Underground) | 669,584 | No |
 | GTAGaming | 197,184 | Yes |
 | Gaadi | 4,261,179 | No |
@@ -356,6 +356,7 @@ Here's a list of breached sites.
 | Mac-Torrents | 93,992 | Yes |
 | MacForums (Mac Forums) | 326,714 | Yes |
 | MacGeneration | 101,004 | No |
+| MagicDuel | 138,443 | Yes |
 | MailRu (mail.ru Dump) | 16,630,988 | No |
 | MajorGeeks | 269,548 | Yes |
 | MallCZ (MALL.cz) | 735,405 | Yes |
@@ -679,10 +680,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 371 | 3,956,938,346 |
-| Normal | 287 | 4,957,239,053 |
+| Cloudflare | 373 | 3,959,453,119 |
+| Normal | 286 | 4,954,862,723 |
 
 
 
-### 56.4% of breached sites (pwned sites) are using Cloudflare.
+### 56.6% of breached sites (pwned sites) are using Cloudflare.
 ### 44.4% of leaked accounts are on Cloudflare sites.
