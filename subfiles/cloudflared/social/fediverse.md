@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,047 |
-| social | 4,422 |
+| com | 7,049 |
+| social | 4,423 |
 | net | 3,604 |
 | org | 2,423 |
 | de | 2,234 |
@@ -550,6 +550,7 @@ Here's a list of public Fediverse services.
 | `4tobi.de` | No |
 | `4toot.org` | No |
 | `4ushiyu.jp` | Yes |
+| `4wd.social` | Yes |
 | `4wtf.com` | No |
 | `4xl.co` | No |
 | `4zido.de` | No |
@@ -3370,6 +3371,7 @@ Here's a list of public Fediverse services.
 | `azupo.xyz` | No |
 | `azure.com` | Yes |
 | `azure.icu` | Yes |
+| `azurea.pro` | Yes |
 | `azureheads.gr` | Yes |
 | `azuretalk.social` | No |
 | `azurewebsites.net` | No |
@@ -7443,7 +7445,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9175,6 +9177,7 @@ Here's a list of public Fediverse services.
 | `deathkitten.net` | No |
 | `deb.at` | No |
 | `debateclub.eu` | No |
+| `debaucherytea.party` | Yes |
 | `debbie-chan.space` | No |
 | `debenny.de` | No |
 | `deberelene.com` | Yes |
@@ -20034,7 +20037,7 @@ Here's a list of public Fediverse services.
 | `kalenalangford.com` | Yes |
 | `kaliex.co` | No |
 | `kalik.in` | Yes |
-| `kalimataya.com` | Yes |
+| `kalimataya.com` | No |
 | `kallelaine.com` | Yes |
 | `kallestruik.nl` | No |
 | `kalli.st` | No |
@@ -26027,7 +26030,7 @@ Here's a list of public Fediverse services.
 | `misskey.city` | Yes |
 | `misskey.cloud` | Yes |
 | `misskey.club` | Yes |
-| `misskey.day` | No |
+| `misskey.day` | Yes |
 | `misskey.de` | No |
 | `misskey.design` | Yes |
 | `misskey.dev` | Yes |
@@ -26227,6 +26230,7 @@ Here's a list of public Fediverse services.
 | `mmmm.mn` | Yes |
 | `mmn-o.se` | No |
 | `mmn.on.ca` | Yes |
+| `mmo.to` | No |
 | `mmodon.online` | No |
 | `mmorpg.social` | No |
 | `mmpr.ca` | No |
@@ -28204,6 +28208,7 @@ Here's a list of public Fediverse services.
 | `netpro2k.io` | Yes |
 | `netrunner.cfd` | No |
 | `netrunner.online` | No |
+| `netsecured.info` | Yes |
 | `netsend.nl` | No |
 | `netsol.co.th` | Yes |
 | `netsons.org` | No |
@@ -33750,7 +33755,7 @@ Here's a list of public Fediverse services.
 | `rblind.com` | No |
 | `rblx.live` | Yes |
 | `rbose.org` | No |
-| `rbq.press` | Yes |
+| `rbq.press` | No |
 | `rbq.pw` | Yes |
 | `rbq.social` | Yes |
 | `rbrdog.xyz` | Yes |
@@ -34576,6 +34581,7 @@ Here's a list of public Fediverse services.
 | `robloxcommunity.social` | No |
 | `robmcbryde.com` | No |
 | `robmccoll.com` | No |
+| `robmenting.com` | No |
 | `robmydobrze.pl` | No |
 | `robmyers.org` | Yes |
 | `robo.church` | No |
@@ -38062,6 +38068,7 @@ Here's a list of public Fediverse services.
 | `sportstalk.social` | Yes |
 | `sportstodon.com` | Yes |
 | `spotek.io` | No |
+| `spotfestival.dk` | Yes |
 | `spouse.trade` | Yes |
 | `spowage.info` | No |
 | `spraci.info` | No |
@@ -40545,6 +40552,7 @@ Here's a list of public Fediverse services.
 | `thesecretlair.org` | No |
 | `theself.cloud` | No |
 | `thesenate.cc` | No |
+| `theserver.se` | No |
 | `theshadowrealm.party` | No |
 | `theshire.social` | Yes |
 | `theshowshow.tv` | Yes |
@@ -46191,6 +46199,7 @@ Here's a list of public Fediverse services.
 | `zikin.us` | Yes |
 | `zilaa.online` | No |
 | `zilla.tech` | No |
+| `zimage.com` | No |
 | `zimbatm.com` | Yes |
 | `zimbo.uk` | No |
 | `zimiao.moe` | Yes |
@@ -46417,8 +46426,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,618 |
-| Normal | 33,756 |
+| Cloudflare | 12,621 |
+| Normal | 33,762 |
 
 
 ### 27.2% of public Fediverse services are using Cloudflare.
