@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Piper doesn't start - Service exited with code 1 (by signal 0)](https://github.com/home-assistant/addons/issues/3163)
+- [v3.3.1 failed in docker](https://github.com/FlareSolverr/FlareSolverr/issues/854)
 - [Investigate errors in the rosetta log](https://github.com/phetsims/rosetta/issues/423)
 - [FS Not Working with Cloudflare - Timeout Issue attempting to locate the Cloudflare verify checkbox.](https://github.com/FlareSolverr/FlareSolverr/issues/851)
 - [Firehol adds rules to outgoing](https://github.com/firehol/firehol/issues/489)
