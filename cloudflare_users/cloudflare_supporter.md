@@ -2628,6 +2628,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dangkhoai1@twitter](https://twitter.com/Dangkhoai1/status/1386304168680329227) | advertise |
 | [dangthanh5555@twitter](https://twitter.com/dangthanh5555/status/1393070868134170632) | advertise |
 | [danhka22@twitter](https://twitter.com/danhka22/status/1483086352933867520) | advertise |
+| [DANHTHIEU1996@twitter](https://twitter.com/DANHTHIEU1996/status/1686963861789044737) | advertise |
 | [DanhThnh@twitter](https://twitter.com/DanhThnh/status/1543566037513547778) | advertise |
 | [danialputtra87@twitter](https://twitter.com/danialputtra87/status/1381981236189487105) | advertise |
 | [Dania__Daher@twitter](https://twitter.com/Dania__Daher/status/1408457508092588032) | advertise |
