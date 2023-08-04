@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,058 |
+| com | 7,059 |
 | social | 4,424 |
 | net | 3,609 |
-| org | 2,423 |
+| org | 2,424 |
 | de | 2,235 |
 
 
@@ -7437,6 +7437,7 @@ Here's a list of public Fediverse services.
 | `colmena.me` | No |
 | `colobox.com` | No |
 | `coloc-family.com` | No |
+| `colonelhosting.com` | Yes |
 | `colonelinux.org` | No |
 | `colonels.world` | No |
 | `colonthree.gay` | No |
@@ -17605,7 +17606,7 @@ Here's a list of public Fediverse services.
 | `hyper.equipment` | Yes |
 | `hyperborea.org` | No |
 | `hyperboreal.zone` | No |
-| `hypercube.social` | Yes |
+| `hypercube.social` | No |
 | `hypercute.eu` | No |
 | `hyperfreedom.org` | No |
 | `hyperfurs.page` | Yes |
@@ -20469,6 +20470,7 @@ Here's a list of public Fediverse services.
 | `keskonfai.fr` | No |
 | `kessai-otaku.club` | Yes |
 | `kessoku.band` | Yes |
+| `kessoku.club` | Yes |
 | `kestrelsnest.social` | No |
 | `kesuek.de` | No |
 | `ketchupma.io` | No |
@@ -24130,6 +24132,7 @@ Here's a list of public Fediverse services.
 | `marosuke2600.work` | No |
 | `marramgrass.org.uk` | No |
 | `marrok.top` | Yes |
+| `marroq.xyz` | No |
 | `marrow.haus` | No |
 | `marrus.xyz` | Yes |
 | `marsam.graphics` | No |
@@ -32343,7 +32346,7 @@ Here's a list of public Fediverse services.
 | `porta.fi` | No |
 | `portaesgnos.org` | No |
 | `portal.org` | Yes |
-| `portend.place` | No |
+| `portend.place` | Yes |
 | `porter-bridges.net` | No |
 | `portertech.ca` | No |
 | `portes-imaginaire.org` | No |
@@ -38975,6 +38978,7 @@ Here's a list of public Fediverse services.
 | `supernatural.fans` | No |
 | `superneko.net` | Yes |
 | `supernerdland.com` | No |
+| `supernova.place` | Yes |
 | `superofficial.net` | No |
 | `superpets.social` | No |
 | `superpromoplus.com` | No |
@@ -41960,6 +41964,7 @@ Here's a list of public Fediverse services.
 | `tschopp.net` | Yes |
 | `tschunk.social` | Yes |
 | `tschuss.li` | No |
+| `tsck.org` | Yes |
 | `tsd.zone` | No |
 | `tseivan.com` | No |
 | `tsellhorn.social` | No |
@@ -46470,8 +46475,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,659 |
-| Normal | 33,768 |
+| Cloudflare | 12,663 |
+| Normal | 33,769 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
