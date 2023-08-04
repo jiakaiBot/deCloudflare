@@ -5231,6 +5231,7 @@ Do not create new issue or we will close it as duplicate.
 | [itsokbaby@twitter](https://twitter.com/itsokbaby/status/1647862938500501506) | advertise |
 | [ItsPakKnight1@twitter](https://twitter.com/ItsPakKnight1/status/1500933047541284867) | advertise |
 | [itssararsh@twitter](https://twitter.com/itssararsh/status/1578387662221852674) | advertise |
+| [itssharkl@twitter](https://twitter.com/itssharkl/status/1680181669800849408) | advertise |
 | [ItsSimplyBelle@twitter](https://twitter.com/ItsSimplyBelle/status/1397995563812073476) | advertise |
 | [itsyaboysamog@twitter](https://twitter.com/itsyaboysamog/status/1665858532258840577) | advertise |
 | [ITSystemsAdmin@twitter](https://twitter.com/ITSystemsAdmin/status/1373030532469112834) | advertise |
@@ -8027,6 +8028,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mohamme33670080@twitter](https://twitter.com/Mohamme33670080/status/1664657473804926976) | advertise |
 | [mohamme41238644@twitter](https://twitter.com/mohamme41238644/status/1388453854174355456) | advertise |
 | [Mohamme53581949@twitter](https://twitter.com/Mohamme53581949/status/1386268709912600584) | advertise |
+| [Mohamme83210744@twitter](https://twitter.com/Mohamme83210744/status/1687451270682968064) | advertise |
 | [MohammedDjouhri@twitter](https://twitter.com/MohammedDjouhri/status/1598676498810118149) | advertise |
 | [mohammedzohair0@twitter](https://twitter.com/mohammedzohair0/status/1585407711000559616) | advertise |
 | [MOHAMUDJAMA143@twitter](https://twitter.com/MOHAMUDJAMA143/status/1578782237981655041) | advertise |
@@ -11311,6 +11313,7 @@ Do not create new issue or we will close it as duplicate.
 | [Slick12302@twitter](https://twitter.com/Slick12302/status/1394545875582558211) | advertise |
 | [Slick_Willy_27@twitter](https://twitter.com/Slick_Willy_27/status/1397233774832803846) | advertise |
 | [Slick_Wine05@twitter](https://twitter.com/Slick_Wine05/status/1646595744705413120) | advertise |
+| [slimboy_95@twitter](https://twitter.com/slimboy_95/status/1687226507884658688) | advertise |
 | [slimpotatoboy@twitter](https://twitter.com/slimpotatoboy/status/1500358622161031170) | advertise |
 | [slipperypussyc1@twitter](https://twitter.com/slipperypussyc1/status/1407232739762270211) | advertise |
 | [slowhanddario@twitter](https://twitter.com/slowhanddario/status/1474627053307768832) | advertise |
@@ -11422,6 +11425,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sonicbaba7@twitter](https://twitter.com/Sonicbaba7/status/1396189947124764678) | advertise |
 | [Sonicek3@twitter](https://twitter.com/Sonicek3/status/1386002746780766208) | advertise |
 | [sonle193@twitter](https://twitter.com/sonle193/status/1682614951192715265) | advertise |
+| [SonLeManh163586@twitter](https://twitter.com/SonLeManh163586/status/1687366404637638656) | advertise |
 | [sonlu14654722@twitter](https://twitter.com/sonlu14654722/status/1400477010179235842) | advertise |
 | [SonNgoc82244972@twitter](https://twitter.com/SonNgoc82244972/status/1603285673339154432) | advertise |
 | [SonPham47707692@twitter](https://twitter.com/SonPham47707692/status/1620887365484183552) | advertise |
