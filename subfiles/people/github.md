@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Load Balancers connectivity issues](https://github.com/hinoshiba/news/issues/2069)
+- [CloudFlare Load Balancers connectivity issues](https://github.com/MatBenfield/news/issues/17309)
 - [Rutorrent unable to connect to rtorrent](https://github.com/Bercik1337/rt-auto-install/issues/50)
 - [Blank screen whenever I try to generate logos](https://github.com/adrianhajdin/project_threejs_ai/issues/35)
 - [Timing out with an error](https://github.com/prolego-team/neo-sophia/issues/74)
