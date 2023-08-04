@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Poloniex cancel_order() CancelPending error](https://github.com/ccxt/ccxt/issues/18785)
 - [CloudFlare Load Balancers connectivity issues](https://github.com/hinoshiba/news/issues/2069)
 - [CloudFlare Load Balancers connectivity issues](https://github.com/MatBenfield/news/issues/17309)
 - [Rutorrent unable to connect to rtorrent](https://github.com/Bercik1337/rt-auto-install/issues/50)
