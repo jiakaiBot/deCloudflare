@@ -8386,6 +8386,7 @@ Do not create new issue or we will close it as duplicate.
 | [myscholarhub@twitter](https://twitter.com/myscholarhub/status/1662316815844888576) | advertise |
 | [MySeoHQ@twitter](https://twitter.com/MySeoHQ/status/1561087865349627905) | advertise |
 | [MysticBlack3@twitter](https://twitter.com/MysticBlack3/status/1393044999248523265) | advertise |
+| [Mysticle_@twitter](https://twitter.com/Mysticle_/status/1687560052515680257) | advertise |
 | [mytel89854584@twitter](https://twitter.com/mytel89854584/status/1398011330947321857) | advertise |
 | [Mythicalz13@twitter](https://twitter.com/Mythicalz13/status/1578408033436069890) | advertise |
 | [mytopinvesting@twitter](https://twitter.com/mytopinvesting/status/1588082760509530114) | advertise |
