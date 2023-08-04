@@ -6343,6 +6343,7 @@ Do not create new issue or we will close it as duplicate.
 | [KoMin60345321@twitter](https://twitter.com/KoMin60345321/status/1404307604432572421) | advertise |
 | [KoMinHtetAung49@twitter](https://twitter.com/KoMinHtetAung49/status/1393744141285212160) | advertise |
 | [KominMinKomin1@twitter](https://twitter.com/KominMinKomin1/status/1390750390702919680) | advertise |
+| [KomJung1624875@twitter](https://twitter.com/KomJung1624875/status/1687430892342611970) | advertise |
 | [komluski@twitter](https://twitter.com/komluski/status/1390761019887263746) | advertise |
 | [komradekookoo@twitter](https://twitter.com/komradekookoo/status/1510714789659561992) | advertise |
 | [KoMyo20213188@twitter](https://twitter.com/KoMyo20213188/status/1391892305657962496) | advertise |
