@@ -1197,6 +1197,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungHsanSoe2@twitter](https://twitter.com/AungHsanSoe2/status/1395973813226119169) | advertise |
 | [AungHta57870985@twitter](https://twitter.com/AungHta57870985/status/1400993971288035335) | advertise |
 | [AungHte79762661@twitter](https://twitter.com/AungHte79762661/status/1389915489644646402) | advertise |
+| [aunghtet133155@twitter](https://twitter.com/aunghtet133155/status/1687373180556759040) | advertise |
 | [aunghtethein7@twitter](https://twitter.com/aunghtethein7/status/1390309266565730310) | advertise |
 | [AungHtetHtetKy2@twitter](https://twitter.com/AungHtetHtetKy2/status/1400837953987911689) | advertise |
 | [aunghtetkhing21@twitter](https://twitter.com/aunghtetkhing21/status/1379334446646620161) | advertise |
