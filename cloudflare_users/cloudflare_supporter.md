@@ -4038,6 +4038,7 @@ Do not create new issue or we will close it as duplicate.
 | [Guiltyklab@twitter](https://twitter.com/Guiltyklab/status/1550137506489778176) | advertise |
 | [gujzlar@twitter](https://twitter.com/gujzlar/status/1386371400739352578) | advertise |
 | [GuKa53117269@twitter](https://twitter.com/GuKa53117269/status/1492047858501296128) | advertise |
+| [gulumkar_a50025@twitter](https://twitter.com/gulumkar_a50025/status/1687389036917211136) | advertise |
 | [GumHpauyam@twitter](https://twitter.com/GumHpauyam/status/1393746316342173701) | advertise |
 | [Gumiho78829153@twitter](https://twitter.com/Gumiho78829153/status/1469752541386711045) | advertise |
 | [gunasubramani2@twitter](https://twitter.com/gunasubramani2/status/1389557998343712768) | advertise |
