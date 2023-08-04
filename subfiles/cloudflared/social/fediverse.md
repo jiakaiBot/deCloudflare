@@ -39620,6 +39620,7 @@ Here's a list of public Fediverse services.
 | `tarrien.net` | Yes |
 | `tarsis.me` | No |
 | `tarsis.org` | No |
+| `tart.coffee` | Yes |
 | `tartanhare.com` | No |
 | `tarunbauri.in` | Yes |
 | `taruntarun.net` | Yes |
@@ -46482,7 +46483,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,666 |
+| Cloudflare | 12,667 |
 | Normal | 33,773 |
 
 
