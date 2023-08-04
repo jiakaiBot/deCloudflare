@@ -1,6 +1,6 @@
 ## Cloudflare incidents
 
-Here's some of Cloudflare incidents.
+Here's some of Cloudflare incidents. You can avoid those problems by not using Cloudflare.
 
 <details><summary> _click me_ </summary>
 
