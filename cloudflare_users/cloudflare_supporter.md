@@ -831,6 +831,7 @@ Do not create new issue or we will close it as duplicate.
 | [andriannp@twitter](https://twitter.com/andriannp/status/1401023261085814787) | advertise |
 | [AndrianoVu@twitter](https://twitter.com/AndrianoVu/status/1519982700438114304) | advertise |
 | [andriansywa@twitter](https://twitter.com/andriansywa/status/1507741794179891205) | advertise |
+| [andrijasaf@twitter](https://twitter.com/andrijasaf/status/1687207631461797888) | advertise |
 | [androidwdlka@twitter](https://twitter.com/androidwdlka/status/1416445074230161412) | advertise |
 | [Android_owo@twitter](https://twitter.com/Android_owo/status/1661407962743861248) | advertise |
 | [Andy007Yt@twitter](https://twitter.com/Andy007Yt/status/1407395648492670977) | advertise |
@@ -12105,6 +12106,7 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thejulievirgo@twitter](https://twitter.com/thejulievirgo/status/1665889185029316609) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
+| [thekiet271100@twitter](https://twitter.com/thekiet271100/status/1687155848949510145) | advertise |
 | [TheKingZigaYT@twitter](https://twitter.com/TheKingZigaYT/status/1673788374954508295) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
