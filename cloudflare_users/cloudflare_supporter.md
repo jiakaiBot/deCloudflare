@@ -10183,6 +10183,7 @@ Do not create new issue or we will close it as duplicate.
 | [q_thatguy@twitter](https://twitter.com/q_thatguy/status/1601748909038374915) | advertise |
 | [q_vz88@twitter](https://twitter.com/q_vz88/status/1588861118705184769) | advertise |
 | [r0c4p1a@twitter](https://twitter.com/r0c4p1a/status/1489935636815568897) | advertise |
+| [R0wPh@twitter](https://twitter.com/R0wPh/status/1687422630230712320) | advertise |
 | [R1_Khalid@twitter](https://twitter.com/R1_Khalid/status/1607573474477744131) | advertise |
 | [R2bEEaton@twitter](https://twitter.com/R2bEEaton/status/1687157580416630784) | advertise |
 | [R3DActual@twitter](https://twitter.com/R3DActual/status/1468895846444015617) | advertise |
@@ -10293,6 +10294,7 @@ Do not create new issue or we will close it as duplicate.
 | [raspi0124@twitter](https://twitter.com/raspi0124/status/1685934084474986497) | advertise |
 | [rastabike@twitter](https://twitter.com/rastabike/status/1490598250877014019) | advertise |
 | [rasty870@twitter](https://twitter.com/rasty870/status/1557078339277377537) | advertise |
+| [raszEnsem@twitter](https://twitter.com/raszEnsem/status/1687516443590705152) | advertise |
 | [RathodD77237770@twitter](https://twitter.com/RathodD77237770/status/1681364250894409728) | advertise |
 | [rathurles@twitter](https://twitter.com/rathurles/status/1392191436976578564) | advertise |
 | [Rattaneire@twitter](https://twitter.com/Rattaneire/status/1492437309261852675) | advertise |
