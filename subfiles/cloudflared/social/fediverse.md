@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,060 |
-| social | 4,427 |
+| com | 7,063 |
+| social | 4,428 |
 | net | 3,610 |
 | org | 2,424 |
 | de | 2,235 |
@@ -2290,6 +2290,7 @@ Here's a list of public Fediverse services.
 | `antiquated.systems` | No |
 | `antiquelemmy.com` | Yes |
 | `antirep.net` | No |
+| `antiserious.us` | Yes |
 | `antisleepdevice.de` | No |
 | `antisocial.chat` | No |
 | `antisocial.dk` | No |
@@ -2754,6 +2755,7 @@ Here's a list of public Fediverse services.
 | `artsculture.media` | No |
 | `artsek.com` | Yes |
 | `artsio.com` | No |
+| `artsocial.boston` | No |
 | `artsytype.com` | No |
 | `arturs.co.uk` | No |
 | `artverse.place` | Yes |
@@ -4120,6 +4122,7 @@ Here's a list of public Fediverse services.
 | `bertshouse.social` | No |
 | `beru.co` | No |
 | `berwa.re` | Yes |
+| `berwanger-and-kin.com` | No |
 | `berzerk.pl` | No |
 | `berzs.xyz` | No |
 | `besaid.de` | No |
@@ -8075,6 +8078,7 @@ Here's a list of public Fediverse services.
 | `criver.me` | No |
 | `crlf.io` | No |
 | `crlf.ninja` | No |
+| `crlzff.xyz` | No |
 | `crmbl.uk` | No |
 | `cro-k.net` | Yes |
 | `cro-maat.com` | Yes |
@@ -17476,6 +17480,7 @@ Here's a list of public Fediverse services.
 | `hugsandtoots.club` | No |
 | `huideyeren.info` | No |
 | `huijiren.com` | No |
+| `huimao.xyz` | Yes |
 | `hulb.club` | Yes |
 | `huling.org` | Yes |
 | `hulla.hu` | Yes |
@@ -19721,6 +19726,7 @@ Here's a list of public Fediverse services.
 | `jsirish.social` | No |
 | `jskherman.com` | Yes |
 | `jsna.dev` | Yes |
+| `jsnfwlr.ninja` | Yes |
 | `jsommer.org` | No |
 | `json.blog` | No |
 | `jsonly.club` | No |
@@ -36513,6 +36519,7 @@ Here's a list of public Fediverse services.
 | `sherbers.de` | Yes |
 | `sherblog.de` | No |
 | `sherlockholmes.social` | Yes |
+| `shermdog.com` | No |
 | `sherpahat.com` | Yes |
 | `sherry.moe` | Yes |
 | `sheseeksnonfiction.blog` | No |
@@ -36658,6 +36665,7 @@ Here's a list of public Fediverse services.
 | `shota.social` | Yes |
 | `shotatube.xyz` | Yes |
 | `shotgun.monster` | No |
+| `shotgunlife.social` | No |
 | `shotinthegun.com` | Yes |
 | `shotsfi.red` | No |
 | `shoujo.xyz` | No |
@@ -42408,6 +42416,7 @@ Here's a list of public Fediverse services.
 | `ub32.org` | No |
 | `uba.be` | No |
 | `uber.space` | No |
+| `uberbrady.com` | No |
 | `ubergeek77.chat` | Yes |
 | `ubermorgen.info` | No |
 | `uberspace.de` | No |
@@ -46487,8 +46496,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,672 |
-| Normal | 33,772 |
+| Cloudflare | 12,675 |
+| Normal | 33,778 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
