@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,058 |
 | social | 4,424 |
-| net | 3,608 |
+| net | 3,609 |
 | org | 2,423 |
 | de | 2,235 |
 
@@ -23958,6 +23958,7 @@ Here's a list of public Fediverse services.
 | `mangadon.biz` | No |
 | `mangadon.info` | No |
 | `mangadon.net` | No |
+| `manganiello.tech` | No |
 | `mangayoh.fr` | No |
 | `mangin.com` | No |
 | `mangoranch.lol` | No |
@@ -27963,7 +27964,7 @@ Here's a list of public Fediverse services.
 | `nejati.net` | Yes |
 | `nejiamasi.com` | No |
 | `neka.site` | Yes |
-| `nekit.tk` | Yes |
+| `nekit.tk` | No |
 | `nekko.online` | No |
 | `neko-relay.com` | Yes |
 | `neko.academy` | No |
@@ -30724,6 +30725,7 @@ Here's a list of public Fediverse services.
 | `packetlost.dev` | No |
 | `packetranger.com` | No |
 | `packetwarriors.net` | No |
+| `packitsolutions.net` | Yes |
 | `packmates.org` | Yes |
 | `packopus.com` | Yes |
 | `pacmanfan.co.nz` | No |
@@ -31810,6 +31812,7 @@ Here's a list of public Fediverse services.
 | `pixelfed.pl` | Yes |
 | `pixelfed.pt` | No |
 | `pixelfed.ru` | Yes |
+| `pixelfed.ruhr` | No |
 | `pixelfed.scot` | No |
 | `pixelfed.se` | No |
 | `pixelfed.sg` | Yes |
@@ -46466,7 +46469,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,660 |
-| Normal | 33,762 |
+| Normal | 33,765 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
