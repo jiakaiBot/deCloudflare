@@ -21949,6 +21949,7 @@ Here's a list of public Fediverse services.
 | `le5emeaxe.blog` | No |
 | `le5emeaxe.fr` | No |
 | `lea.lgbt` | No |
+| `lea.moe` | Yes |
 | `lea.pet` | Yes |
 | `leadershouse.tokyo` | No |
 | `leadrdrk.eu.org` | No |
@@ -28222,7 +28223,7 @@ Here's a list of public Fediverse services.
 | `netlify.com` | Yes |
 | `netlord.de` | No |
 | `netmonkey.gay` | No |
-| `netmonkey.net` | No |
+| `netmonkey.net` | Yes |
 | `netmonkey.pictures` | No |
 | `netmonkey.site` | No |
 | `netmonkey.tech` | No |
@@ -46484,8 +46485,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,669 |
-| Normal | 33,772 |
+| Cloudflare | 12,671 |
+| Normal | 33,771 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
