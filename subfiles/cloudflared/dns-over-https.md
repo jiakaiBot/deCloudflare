@@ -244,7 +244,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | onedns.cc | Yes |
 | onedns.net | No |
 | opendns.com | Yes |
-| opnsource.com.au | Yes |
+| opnsource.com.au | No |
 | ozer.im | No |
 | paesa.es | Yes |
 | panszelescik.pl | Yes |
@@ -353,8 +353,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 169 |
-| Normal | 165 |
+| Cloudflare | 168 |
+| Normal | 166 |
 
 
-### 50.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
