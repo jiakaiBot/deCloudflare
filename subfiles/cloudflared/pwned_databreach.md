@@ -660,7 +660,7 @@ Here's a list of breached sites.
 | db8151dd (Covve) | 22,802,117 | Yes |
 | devkitPro | 1,508 | Yes |
 | eThekwiniMunicipality (eThekwini Municipality) | 81,830 | No |
-| gPotato | 2,136,520 | No |
+| gPotato | 2,136,520 | Yes |
 | iDTech (iD Tech) | 415,121 | No |
 | iDressup (i-Dressup) | 2,191,565 | No |
 | iMesh | 49,467,477 | No |
@@ -680,10 +680,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 373 | 3,959,453,119 |
-| Normal | 286 | 4,954,862,723 |
+| Cloudflare | 374 | 3,961,589,639 |
+| Normal | 285 | 4,952,726,203 |
 
 
 
-### 56.6% of breached sites (pwned sites) are using Cloudflare.
+### 56.8% of breached sites (pwned sites) are using Cloudflare.
 ### 44.4% of leaked accounts are on Cloudflare sites.
