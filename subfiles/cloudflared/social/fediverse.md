@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,056 |
+| com | 7,058 |
 | social | 4,424 |
-| net | 3,607 |
+| net | 3,608 |
 | org | 2,423 |
 | de | 2,235 |
 
@@ -3945,6 +3945,7 @@ Here's a list of public Fediverse services.
 | `beetmacol.com` | No |
 | `beetoons.tv` | No |
 | `beets.social` | No |
+| `beevibes.net` | No |
 | `before.dog` | No |
 | `begbie.party` | No |
 | `beginnerl.xyz` | No |
@@ -7450,7 +7451,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -12525,6 +12526,7 @@ Here's a list of public Fediverse services.
 | `federated-networks.org` | No |
 | `federated.cf` | No |
 | `federated.city` | No |
+| `federated.club` | Yes |
 | `federated.community` | Yes |
 | `federated.earth` | No |
 | `federated.fun` | No |
@@ -28461,6 +28463,7 @@ Here's a list of public Fediverse services.
 | `nickjordan.co.uk` | No |
 | `nickkaczmarek.com` | No |
 | `nickmiller.dev` | No |
+| `nicknakin.com` | No |
 | `nicknisi.com` | No |
 | `nickpegg.com` | Yes |
 | `nickpellant.com` | Yes |
@@ -36638,6 +36641,7 @@ Here's a list of public Fediverse services.
 | `shota.social` | Yes |
 | `shotatube.xyz` | Yes |
 | `shotgun.monster` | No |
+| `shotinthegun.com` | Yes |
 | `shotsfi.red` | No |
 | `shoujo.xyz` | No |
 | `shouldagoneoffroad.com` | No |
@@ -46461,8 +46465,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,659 |
-| Normal | 33,759 |
+| Cloudflare | 12,660 |
+| Normal | 33,762 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
