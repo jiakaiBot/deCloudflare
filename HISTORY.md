@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2023-08-04: [Privacy Pass Browser Extension Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jcxxjk6jf7kw)
 - 2023-08-02: [Increased rates of HTTP 530 errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/60hxsmpl7lpm)
 - 2023-07-31: [Incorrect HTML character encoding for some responses](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/py55nh16m9sc)
 - 2023-07-28: [Cloudflare Zero Trust: Gateway Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ybtd3lbbsc7t)
