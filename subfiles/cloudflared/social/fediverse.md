@@ -4026,7 +4026,7 @@ Here's a list of public Fediverse services.
 | `benetou.fr` | No |
 | `bengaluru.social` | Yes |
 | `bengo.is` | No |
-| `benh.codes` | No |
+| `benh.codes` | Yes |
 | `benhutchings.com` | No |
 | `beniceplease.com` | No |
 | `benign.town` | No |
@@ -20650,7 +20650,7 @@ Here's a list of public Fediverse services.
 | `kilobaser.info` | No |
 | `kilobyte.club` | No |
 | `kiloduck.com` | Yes |
-| `kimama-lab.net` | No |
+| `kimama-lab.net` | Yes |
 | `kimberlychase.com` | No |
 | `kimberlyhirsh.com` | No |
 | `kimharding.net` | No |
@@ -23127,7 +23127,7 @@ Here's a list of public Fediverse services.
 | `losk.me` | No |
 | `losno.co` | Yes |
 | `lost-angles.im` | No |
-| `lost-frequencies.eu` | Yes |
+| `lost-frequencies.eu` | No |
 | `lost-in-outer.space` | No |
 | `lost.social` | No |
 | `lostall.faith` | No |
@@ -46001,6 +46001,7 @@ Here's a list of public Fediverse services.
 | `z.je` | No |
 | `z0ne.moe` | Yes |
 | `z0ne.social` | Yes |
+| `z0ne.stream` | Yes |
 | `z0r.co` | No |
 | `z0to1.com` | Yes |
 | `z1lk.net` | No |
@@ -46483,8 +46484,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,667 |
-| Normal | 33,773 |
+| Cloudflare | 12,669 |
+| Normal | 33,772 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
