@@ -15408,7 +15408,7 @@ Here's a list of public Fediverse services.
 | `golive.space` | No |
 | `golurk.de` | No |
 | `gom.tools` | Yes |
-| `gomame.work` | Yes |
+| `gomame.work` | No |
 | `gomastodon.cz` | Yes |
 | `gomasy.jp` | Yes |
 | `gomen.de` | No |
@@ -46470,8 +46470,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,660 |
-| Normal | 33,767 |
+| Cloudflare | 12,659 |
+| Normal | 33,768 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
