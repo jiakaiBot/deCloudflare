@@ -1799,6 +1799,7 @@ Do not create new issue or we will close it as duplicate.
 | [Blink30428569@twitter](https://twitter.com/Blink30428569/status/1402516667318472706) | advertise |
 | [blitoka33@twitter](https://twitter.com/blitoka33/status/1592616243043143680) | advertise |
 | [blizzardnub@twitter](https://twitter.com/blizzardnub/status/1572146209061732355) | advertise |
+| [blkqks@twitter](https://twitter.com/blkqks/status/1687318504301613056) | advertise |
 | [BlmGop@twitter](https://twitter.com/BlmGop/status/1562943669275357184) | advertise |
 | [BlnaryMlke@twitter](https://twitter.com/BlnaryMlke/status/1555129483656658946) | advertise |
 | [blobnom@twitter](https://twitter.com/blobnom/status/1471578002098167808) | advertise |
@@ -8638,6 +8639,7 @@ Do not create new issue or we will close it as duplicate.
 | [NeonArduino@twitter](https://twitter.com/NeonArduino/status/1515397916134977551) | advertise |
 | [NeonAwm@twitter](https://twitter.com/NeonAwm/status/1683363582178906113) | advertise |
 | [NeorezzR@twitter](https://twitter.com/NeorezzR/status/1382156523745337347) | advertise |
+| [Neotokyo98@twitter](https://twitter.com/Neotokyo98/status/1687243777822318592) | advertise |
 | [NerdClump@twitter](https://twitter.com/NerdClump/status/1385680403738947585) | advertise |
 | [NerdJunction@twitter](https://twitter.com/NerdJunction/status/1379503700805361668) | advertise |
 | [NestpressBlog@twitter](https://twitter.com/NestpressBlog/status/1652180920944807937) | advertise |
@@ -9214,6 +9216,7 @@ Do not create new issue or we will close it as duplicate.
 | [NyiNyiMyoMyat2@twitter](https://twitter.com/NyiNyiMyoMyat2/status/1392267263818960898) | advertise |
 | [NyiNyiN43054022@twitter](https://twitter.com/NyiNyiN43054022/status/1389852745910337537) | advertise |
 | [NyiNyiT10310344@twitter](https://twitter.com/NyiNyiT10310344/status/1392395426578329601) | advertise |
+| [NyiNyiT65445488@twitter](https://twitter.com/NyiNyiT65445488/status/1687336043589300224) | advertise |
 | [NyisisHtwe@twitter](https://twitter.com/NyisisHtwe/status/1391244196019769348) | advertise |
 | [NyiUaung@twitter](https://twitter.com/NyiUaung/status/1405482070843936770) | advertise |
 | [NyiYeZaw4@twitter](https://twitter.com/NyiYeZaw4/status/1402451114558033926) | advertise |
@@ -12685,6 +12688,7 @@ Do not create new issue or we will close it as duplicate.
 | [Trnhuphng7@twitter](https://twitter.com/Trnhuphng7/status/1628753620043968513) | advertise |
 | [TrnHuT10645622@twitter](https://twitter.com/TrnHuT10645622/status/1402307646372204547) | advertise |
 | [TrninhDuy1@twitter](https://twitter.com/TrninhDuy1/status/1599645536608432128) | advertise |
+| [TrnKhnhTrung2@twitter](https://twitter.com/TrnKhnhTrung2/status/1687287815653265408) | advertise |
 | [TrnLut81039771@twitter](https://twitter.com/TrnLut81039771/status/1615735999660961800) | advertise |
 | [TrnMinh23617176@twitter](https://twitter.com/TrnMinh23617176/status/1387825068873371651) | advertise |
 | [TrnMinh58825985@twitter](https://twitter.com/TrnMinh58825985/status/1532296843539152896) | advertise |
