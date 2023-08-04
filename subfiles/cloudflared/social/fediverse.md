@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,059 |
-| social | 4,426 |
+| com | 7,060 |
+| social | 4,427 |
 | net | 3,610 |
 | org | 2,424 |
 | de | 2,235 |
@@ -2164,6 +2164,7 @@ Here's a list of public Fediverse services.
 | `animeforlife.eu` | Yes |
 | `animefun.jp` | No |
 | `animeisgay.com` | No |
+| `animeomake.com` | No |
 | `animepres.org` | No |
 | `animeprincess.net` | No |
 | `animesexual.community` | No |
@@ -11757,6 +11758,7 @@ Here's a list of public Fediverse services.
 | `ernix.jp` | No |
 | `eroaward.com` | No |
 | `eroglik.tk` | No |
+| `erotic.social` | Yes |
 | `erotica.social` | Yes |
 | `eroticanarchy.org` | No |
 | `eroticmohel.com` | Yes |
@@ -46485,8 +46487,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,671 |
-| Normal | 33,771 |
+| Cloudflare | 12,672 |
+| Normal | 33,772 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
