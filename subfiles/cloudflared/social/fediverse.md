@@ -2890,6 +2890,7 @@ Here's a list of public Fediverse services.
 | `assemblag.es` | No |
 | `assemblylabx.com` | No |
 | `asso-sterenn.fr` | No |
+| `asso.lgbt` | No |
 | `associated.social` | No |
 | `assonance.org` | No |
 | `assorted.ink` | No |
@@ -5255,6 +5256,7 @@ Here's a list of public Fediverse services.
 | `brank.me` | No |
 | `brannigandraic.com` | No |
 | `brantley.world` | No |
+| `brap.foundation` | No |
 | `brap.party` | No |
 | `brapbarn.farm` | Yes |
 | `brash.social` | No |
@@ -46469,7 +46471,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,660 |
-| Normal | 33,765 |
+| Normal | 33,767 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
