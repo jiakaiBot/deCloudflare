@@ -217,6 +217,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aadamansar@twitter](https://twitter.com/Aadamansar/status/1378087373884465152) | advertise |
 | [Aaditya_K_@twitter](https://twitter.com/Aaditya_K_/status/1413572050547986434) | advertise |
 | [AAE_BRAND@twitter](https://twitter.com/AAE_BRAND/status/1468137375351984130) | advertise |
+| [AajkaMandibhav@twitter](https://twitter.com/AajkaMandibhav/status/1687677329265348609) | advertise |
 | [Aakash80458085@twitter](https://twitter.com/Aakash80458085/status/1394934419350118403) | advertise |
 | [aamamunriton@twitter](https://twitter.com/aamamunriton/status/1495104498821636096) | advertise |
 | [Aamer1982@twitter](https://twitter.com/Aamer1982/status/1561580002625441793) | advertise |
