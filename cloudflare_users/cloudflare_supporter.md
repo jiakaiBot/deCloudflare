@@ -3702,6 +3702,7 @@ Do not create new issue or we will close it as duplicate.
 | [freaklinkrd@twitter](https://twitter.com/freaklinkrd/status/1622968715120902144) | advertise |
 | [FreakXff@twitter](https://twitter.com/FreakXff/status/1626766134883106818) | advertise |
 | [freak_bharath@twitter](https://twitter.com/freak_bharath/status/1398311217605738496) | advertise |
+| [freazerXx@twitter](https://twitter.com/freazerXx/status/1687806999763759105) | advertise |
 | [FreddyKaung@twitter](https://twitter.com/FreddyKaung/status/1396197482086813701) | advertise |
 | [freddyschre@twitter](https://twitter.com/freddyschre/status/1501565599746596867) | advertise |
 | [fredyfx@twitter](https://twitter.com/fredyfx/status/1658612052565573632) | advertise |
