@@ -6997,6 +6997,7 @@ Do not create new issue or we will close it as duplicate.
 | [Long3Ng@twitter](https://twitter.com/Long3Ng/status/1609520764964995078) | advertise |
 | [long5088@twitter](https://twitter.com/long5088/status/1514488211384377347) | advertise |
 | [Long93251@twitter](https://twitter.com/Long93251/status/1625144628717682690) | advertise |
+| [long324590@twitter](https://twitter.com/long324590/status/1687487044082360320) | advertise |
 | [Long36179339@twitter](https://twitter.com/Long36179339/status/1598035439360753664) | advertise |
 | [Long36262712@twitter](https://twitter.com/Long36262712/status/1502562907217100803) | advertise |
 | [Long38978527@twitter](https://twitter.com/Long38978527/status/1393012103389212675) | advertise |
@@ -7451,6 +7452,7 @@ Do not create new issue or we will close it as duplicate.
 | [mATAsBokaklIPdM@twitter](https://twitter.com/mATAsBokaklIPdM/status/1394944549911359497) | advertise |
 | [matfitt@twitter](https://twitter.com/matfitt/status/1386357122070310912) | advertise |
 | [mathias777_2002@twitter](https://twitter.com/mathias777_2002/status/1609466968494510082) | advertise |
+| [MatiusThai@twitter](https://twitter.com/MatiusThai/status/1687648076549550080) | advertise |
 | [Matnipp93_@twitter](https://twitter.com/Matnipp93_/status/1544927051458953216) | advertise |
 | [MatnXPharis@twitter](https://twitter.com/MatnXPharis/status/1501580663169839109) | advertise |
 | [matrix-org@github.com](https://github.com/matrix-org) | moral (forcefully closed issue) |
