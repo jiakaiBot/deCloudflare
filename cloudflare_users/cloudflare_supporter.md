@@ -3271,6 +3271,7 @@ Do not create new issue or we will close it as duplicate.
 | [EclecticBeaver@twitter](https://twitter.com/EclecticBeaver/status/1494050303074836494) | advertise |
 | [EclecticEvelyn@twitter](https://twitter.com/EclecticEvelyn/status/1581011406270308352) | advertise |
 | [ecl_VB@twitter](https://twitter.com/ecl_VB/status/1431346378647773187) | advertise |
+| [edarxx2@twitter](https://twitter.com/edarxx2/status/1687818686944645120) | advertise |
 | [Eddie086666@twitter](https://twitter.com/Eddie086666/status/1391423420689047565) | advertise |
 | [eddieolausson2@twitter](https://twitter.com/eddieolausson2/status/1669010448161579009) | advertise |
 | [eddy97_dee7@twitter](https://twitter.com/eddy97_dee7/status/1478756242415710212) | advertise |
