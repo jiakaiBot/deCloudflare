@@ -1703,6 +1703,7 @@ Do not create new issue or we will close it as duplicate.
 | [bignostic@twitter](https://twitter.com/bignostic/status/1667770314993070080) | advertise |
 | [bigsansar@twitter](https://twitter.com/bigsansar/status/1574045051264520197) | advertise |
 | [BigShmokeDog@twitter](https://twitter.com/BigShmokeDog/status/1665889185004244992) | advertise |
+| [bigtong6728@twitter](https://twitter.com/bigtong6728/status/1687385927780544512) | advertise |
 | [Bigwillt@twitter](https://twitter.com/Bigwillt/status/1619361753414111232) | advertise |
 | [bigwinoxx27@twitter](https://twitter.com/bigwinoxx27/status/1602666245127823362) | advertise |
 | [BihariB42458660@twitter](https://twitter.com/BihariB42458660/status/1406293306783404035) | advertise |
