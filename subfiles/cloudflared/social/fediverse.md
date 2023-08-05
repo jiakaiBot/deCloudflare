@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,065 |
-| social | 4,429 |
+| social | 4,430 |
 | net | 3,610 |
 | org | 2,424 |
 | de | 2,236 |
@@ -18242,7 +18242,7 @@ Here's a list of public Fediverse services.
 | `infurnalcreatures.org` | No |
 | `ingalex.net` | No |
 | `ingeechat.party` | Yes |
-| `ingen.work` | No |
+| `ingen.work` | Yes |
 | `ingenesis.net` | No |
 | `inggrismantap.my.id` | No |
 | `ingmar.me` | No |
@@ -25471,6 +25471,7 @@ Here's a list of public Fediverse services.
 | `mesomer.com` | Yes |
 | `mesothermal.science` | No |
 | `mesozoik.cloud` | No |
+| `mespace.social` | No |
 | `mess.casa` | Yes |
 | `mess.social` | No |
 | `messurrection.com` | No |
@@ -35295,6 +35296,7 @@ Here's a list of public Fediverse services.
 | `sageresearchmethods.com` | No |
 | `saghul.net` | Yes |
 | `sagt.xyz` | No |
+| `saguzi.jp` | No |
 | `sahagyo.com` | Yes |
 | `sahilister.in` | No |
 | `saibo.world` | No |
@@ -46506,8 +46508,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,678 |
-| Normal | 33,785 |
+| Cloudflare | 12,679 |
+| Normal | 33,786 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
