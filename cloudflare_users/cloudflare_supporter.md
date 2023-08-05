@@ -9005,6 +9005,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nightmar592837@twitter](https://twitter.com/Nightmar592837/status/1568195231287230464) | advertise |
 | [Nig_The_Alusha@twitter](https://twitter.com/Nig_The_Alusha/status/1381912137099005954) | advertise |
 | [nihonseimart@twitter](https://twitter.com/nihonseimart/status/1499690802015977475) | advertise |
+| [niichan934@twitter](https://twitter.com/niichan934/status/1687850306020007937) | advertise |
 | [nii_ayi_gh@twitter](https://twitter.com/nii_ayi_gh/status/1377364316698083338) | advertise |
 | [Nika598597262@twitter](https://twitter.com/Nika598597262/status/1627673572717260801) | advertise |
 | [Nikhil47320517@twitter](https://twitter.com/Nikhil47320517/status/1380806296295907328) | advertise |
