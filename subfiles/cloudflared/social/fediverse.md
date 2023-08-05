@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,065 |
+| com | 7,069 |
 | social | 4,430 |
-| net | 3,610 |
+| net | 3,611 |
 | org | 2,424 |
 | de | 2,236 |
 
@@ -1088,6 +1088,7 @@ Here's a list of public Fediverse services.
 | `addy.gg` | Yes |
 | `addyadds.us` | No |
 | `adef.xyz` | No |
+| `adegeest.net` | No |
 | `adelaide.group` | No |
 | `adelaide.social` | No |
 | `adenine.fr` | No |
@@ -1343,6 +1344,7 @@ Here's a list of public Fediverse services.
 | `aike.monster` | No |
 | `aikoumasanobu.com` | No |
 | `aillust.fun` | Yes |
+| `aimeee.site` | No |
 | `ains-no-misskey.com` | Yes |
 | `ainsophaur.it` | No |
 | `ainyataovi.net` | No |
@@ -4030,6 +4032,7 @@ Here's a list of public Fediverse services.
 | `bengaluru.social` | Yes |
 | `bengo.is` | No |
 | `benh.codes` | Yes |
+| `benhr.xyz` | No |
 | `benhutchings.com` | No |
 | `beniceplease.com` | No |
 | `benign.town` | No |
@@ -5543,6 +5546,7 @@ Here's a list of public Fediverse services.
 | `buffalomesh.net` | Yes |
 | `buffalopugs.org` | Yes |
 | `bug-fix.net` | No |
+| `bug.expert` | Yes |
 | `bugarin.com.br` | Yes |
 | `bugbrowser.com` | No |
 | `bugle.lol` | No |
@@ -21069,6 +21073,7 @@ Here's a list of public Fediverse services.
 | `komaedak.in` | No |
 | `komaverse.de` | No |
 | `kome-lab.net` | Yes |
+| `komefura.com` | No |
 | `komekome09.jp` | Yes |
 | `komic.eu` | No |
 | `komintern.work` | No |
@@ -23329,6 +23334,7 @@ Here's a list of public Fediverse services.
 | `lucida-memo.info` | No |
 | `lucida-note.info` | No |
 | `lucidragons.de` | No |
+| `lucidsilence.com` | No |
 | `lucie-philou.com` | No |
 | `luciendupont.com` | Yes |
 | `lucienpuget.fr` | No |
@@ -23653,7 +23659,7 @@ Here's a list of public Fediverse services.
 | `macondo.info` | No |
 | `macro.tokyo` | No |
 | `macro.town` | Yes |
-| `macrodd.online` | No |
+| `macrodd.online` | Yes |
 | `macrofurs.social` | Yes |
 | `macsnet.cz` | No |
 | `macstodon.scot` | Yes |
@@ -26840,6 +26846,7 @@ Here's a list of public Fediverse services.
 | `mrhands.horse` | No |
 | `mrhenry.be` | No |
 | `mrhonner.com` | No |
+| `mrickey.com` | No |
 | `mrjeda.de` | No |
 | `mrkal.fi` | Yes |
 | `mrkapowski.com` | Yes |
@@ -28209,7 +28216,7 @@ Here's a list of public Fediverse services.
 | `neso.tech` | Yes |
 | `nesohub.org` | No |
 | `ness.ml` | No |
-| `nessel.cloud` | No |
+| `nessel.cloud` | Yes |
 | `nestegg.net` | No |
 | `nesu.me` | Yes |
 | `nesven.eu` | No |
@@ -32998,6 +33005,7 @@ Here's a list of public Fediverse services.
 | `pvesys.de` | No |
 | `pvl.pw` | No |
 | `pvt.is` | Yes |
+| `pwarde.nl` | No |
 | `pwarren.id.au` | No |
 | `pwbsoft.gay` | Yes |
 | `pwei.at` | No |
@@ -40115,6 +40123,7 @@ Here's a list of public Fediverse services.
 | `testitfor.me` | No |
 | `testitquickly.com` | No |
 | `testmobo.com` | No |
+| `testsmutlandia.com` | No |
 | `testsrv.de` | Yes |
 | `tet42.org` | Yes |
 | `tetaneutral.net` | No |
@@ -40891,6 +40900,7 @@ Here's a list of public Fediverse services.
 | `thw-vlotho.de` | No |
 | `thx.gg` | Yes |
 | `thx.one` | Yes |
+| `thx8te.kh.ua` | No |
 | `thxdaddy.xyz` | Yes |
 | `thyme.se` | No |
 | `thymrios.com` | Yes |
@@ -45199,6 +45209,7 @@ Here's a list of public Fediverse services.
 | `xenofact.com` | No |
 | `xenofem.me` | No |
 | `xenolith.foundation` | Yes |
+| `xenolove.win` | No |
 | `xenrox.net` | Yes |
 | `xensen.net` | No |
 | `xenti.nl` | Yes |
@@ -46509,8 +46520,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,682 |
-| Normal | 33,784 |
+| Cloudflare | 12,685 |
+| Normal | 33,792 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
