@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,064 |
+| com | 7,065 |
 | social | 4,429 |
 | net | 3,610 |
 | org | 2,424 |
-| de | 2,235 |
+| de | 2,236 |
 
 
 - Mastodon, Pleroma, etc
@@ -9654,6 +9654,7 @@ Here's a list of public Fediverse services.
 | `dewbert.social` | Yes |
 | `dewitte.xyz` | Yes |
 | `dewp.space` | No |
+| `dexlit.xyz` | No |
 | `dexnext.social` | No |
 | `dexogen.ru` | Yes |
 | `dexonline.ro` | No |
@@ -13127,6 +13128,7 @@ Here's a list of public Fediverse services.
 | `firefish.lgbt` | No |
 | `firefish.nz` | No |
 | `firefish.ooo` | No |
+| `firefish.ruhr` | No |
 | `firefish.social` | No |
 | `firefish.store` | Yes |
 | `firefish.tech` | No |
@@ -18622,6 +18624,7 @@ Here's a list of public Fediverse services.
 | `iscute.ovh` | No |
 | `isdatbad.com` | No |
 | `isdruk.nl` | No |
+| `isekai-online.com` | No |
 | `isekai.fi` | No |
 | `isekai.wtf` | Yes |
 | `iseks.de` | No |
@@ -29555,6 +29558,7 @@ Here's a list of public Fediverse services.
 | `obak-key.com` | Yes |
 | `obapom.work` | No |
 | `obbs.one` | No |
+| `obco.pro` | Yes |
 | `obdev.at` | No |
 | `oberberg.nrw` | No |
 | `oberhauser.space` | Yes |
@@ -43898,6 +43902,7 @@ Here's a list of public Fediverse services.
 | `wafy.ga` | Yes |
 | `wageoffsite.com` | Yes |
 | `wagesofsinisdeath.com` | No |
+| `wagler.it` | No |
 | `wagner.pp.ru` | No |
 | `wagnersnetz.de` | No |
 | `wah.gg` | No |
@@ -46411,6 +46416,7 @@ Here's a list of public Fediverse services.
 | `zspn.me` | Yes |
 | `ztechnical.net` | No |
 | `zteo.com` | Yes |
+| `ztfr.de` | No |
 | `ztn.sh` | Yes |
 | `ztrehagem.dev` | Yes |
 | `ztrl.de` | No |
@@ -46500,8 +46506,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,677 |
-| Normal | 33,780 |
+| Cloudflare | 12,678 |
+| Normal | 33,785 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
