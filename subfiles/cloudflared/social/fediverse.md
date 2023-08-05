@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,073 |
+| com | 7,075 |
 | social | 4,431 |
-| net | 3,613 |
+| net | 3,614 |
 | org | 2,424 |
 | de | 2,237 |
 
@@ -660,6 +660,7 @@ Here's a list of public Fediverse services.
 | `77co.ws` | No |
 | `791127.net` | No |
 | `79120.tours` | No |
+| `7a4.pp.ua` | No |
 | `7colou.red` | Yes |
 | `7glen.cloud` | No |
 | `7group.social` | Yes |
@@ -26273,7 +26274,7 @@ Here's a list of public Fediverse services.
 | `mlsn.fr` | Yes |
 | `mlsskey.io` | No |
 | `mmaj.ca` | Yes |
-| `mmav.club` | Yes |
+| `mmav.club` | No |
 | `mmcnet.io` | Yes |
 | `mmder.net` | No |
 | `mmhf.com` | Yes |
@@ -35823,6 +35824,7 @@ Here's a list of public Fediverse services.
 | `schnurbus.de` | No |
 | `schoebel-online.net` | Yes |
 | `schoentoon.com` | No |
+| `schoenwolf-schroeder.com` | No |
 | `schoepski.de` | No |
 | `schof.org` | No |
 | `schokoladensouffle.eu` | No |
@@ -38655,6 +38657,7 @@ Here's a list of public Fediverse services.
 | `stormlight.space` | Yes |
 | `stormskey.works` | Yes |
 | `stormux.org` | No |
+| `stormwaltz.net` | No |
 | `stormy178.com` | No |
 | `stormyknight.xyz` | No |
 | `storo.social` | No |
@@ -39231,6 +39234,7 @@ Here's a list of public Fediverse services.
 | `sycarion.com` | No |
 | `syd.social` | Yes |
 | `sydenie.me` | No |
+| `syfershock.com` | No |
 | `sygil.org` | No |
 | `sylable.co` | No |
 | `syleogroup.fr` | No |
@@ -46332,6 +46336,7 @@ Here's a list of public Fediverse services.
 | `zkc.se` | No |
 | `zkm.social` | No |
 | `zknt.org` | No |
+| `zlatex.club` | Yes |
 | `zlatiah-no.one` | No |
 | `zlatko.dev` | No |
 | `zld.red` | No |
@@ -46533,7 +46538,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,693 |
-| Normal | 33,796 |
+| Normal | 33,801 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
