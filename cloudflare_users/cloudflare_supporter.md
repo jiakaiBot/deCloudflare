@@ -3207,6 +3207,7 @@ Do not create new issue or we will close it as duplicate.
 | [DuyTrn63432829@twitter](https://twitter.com/DuyTrn63432829/status/1600840620427595782) | advertise |
 | [Duytrung31@twitter](https://twitter.com/Duytrung31/status/1388180524573741058) | advertise |
 | [DuyV55849692@twitter](https://twitter.com/DuyV55849692/status/1607137644324225026) | advertise |
+| [duyvupy@twitter](https://twitter.com/duyvupy/status/1687684382151114752) | advertise |
 | [duyyhoang102@twitter](https://twitter.com/duyyhoang102/status/1531892044008136704) | advertise |
 | [Du_Le33@twitter](https://twitter.com/Du_Le33/status/1552336926795243521) | advertise |
 | [dvgamerr@twitter](https://twitter.com/dvgamerr/status/1471737827750674433) | advertise |
@@ -6790,6 +6791,7 @@ Do not create new issue or we will close it as duplicate.
 | [LeoGami01528767@twitter](https://twitter.com/LeoGami01528767/status/1471358386302246913) | advertise |
 | [leomdracula@twitter](https://twitter.com/leomdracula/status/1392060299260284930) | advertise |
 | [leon12345mc@twitter](https://twitter.com/leon12345mc/status/1477305330124013570) | advertise |
+| [leonard_tsao@twitter](https://twitter.com/leonard_tsao/status/1687718113729732608) | advertise |
 | [LeoNguy43687409@twitter](https://twitter.com/LeoNguy43687409/status/1404446908416856073) | advertise |
 | [leooffacc@twitter](https://twitter.com/leooffacc/status/1616433485794926599) | advertise |
 | [Leophir@twitter](https://twitter.com/Leophir/status/1406188576895819782) | advertise |
@@ -14081,6 +14083,7 @@ Do not create new issue or we will close it as duplicate.
 | [zeus410111@twitter](https://twitter.com/zeus410111/status/1470774038922420230) | advertise |
 | [Zeus41349153@twitter](https://twitter.com/Zeus41349153/status/1389858739851833346) | advertise |
 | [Zeven31589075@twitter](https://twitter.com/Zeven31589075/status/1391820184063647747) | advertise |
+| [zex4101@twitter](https://twitter.com/zex4101/status/1687710985963081729) | advertise |
 | [ze_nier@twitter](https://twitter.com/ze_nier/status/1389247984110510083) | advertise |
 | [zGed001@twitter](https://twitter.com/zGed001/status/1438183713917988865) | advertise |
 | [ZHAILUGEBRE@twitter](https://twitter.com/ZHAILUGEBRE/status/1657756410250141698) | advertise |
