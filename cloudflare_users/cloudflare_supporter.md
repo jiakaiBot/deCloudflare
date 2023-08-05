@@ -4024,6 +4024,7 @@ Do not create new issue or we will close it as duplicate.
 | [GrigoriyIgnati1@twitter](https://twitter.com/GrigoriyIgnati1/status/1505872579822862336) | advertise |
 | [Grimsley_16@twitter](https://twitter.com/Grimsley_16/status/1528654567038078977) | advertise |
 | [GrimyTalibandz@twitter](https://twitter.com/GrimyTalibandz/status/1381042857931386888) | advertise |
+| [grin2568@twitter](https://twitter.com/grin2568/status/1687796008682508288) | advertise |
 | [GRITTOTHOMAS@twitter](https://twitter.com/GRITTOTHOMAS/status/1645830431026319363) | advertise |
 | [grizta1@twitter](https://twitter.com/grizta1/status/1404102426567659525) | advertise |
 | [grock_in@twitter](https://twitter.com/grock_in/status/1494612874135805970) | advertise |
@@ -12086,6 +12087,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thawraaa2@twitter](https://twitter.com/Thawraaa2/status/1391396761235689477) | advertise |
 | [ThawSett5@twitter](https://twitter.com/ThawSett5/status/1394010019763347458) | advertise |
 | [ThawTarSan3@twitter](https://twitter.com/ThawTarSan3/status/1377504002695254016) | advertise |
+| [Thawz9988Zin@twitter](https://twitter.com/Thawz9988Zin/status/1687793647394418688) | advertise |
 | [ThawZin60914337@twitter](https://twitter.com/ThawZin60914337/status/1404379736323801088) | advertise |
 | [ThawZin93095969@twitter](https://twitter.com/ThawZin93095969/status/1393479817127886850) | advertise |
 | [ThawZinHtoo12@twitter](https://twitter.com/ThawZinHtoo12/status/1398715616303984648) | advertise |
