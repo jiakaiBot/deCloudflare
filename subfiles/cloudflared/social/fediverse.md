@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,063 |
-| social | 4,428 |
+| com | 7,064 |
+| social | 4,429 |
 | net | 3,610 |
 | org | 2,424 |
 | de | 2,235 |
@@ -20084,6 +20084,7 @@ Here's a list of public Fediverse services.
 | `kamima.info` | Yes |
 | `kamima.online` | No |
 | `kamima.site` | No |
+| `kamima.xyz` | Yes |
 | `kamisato.xyz` | Yes |
 | `kamiyacho.net` | No |
 | `kammeratadam.dk` | No |
@@ -26769,6 +26770,7 @@ Here's a list of public Fediverse services.
 | `mousetail.dev` | Yes |
 | `mousetodon.app` | No |
 | `mousetodon.com` | No |
+| `mousetodon.social` | No |
 | `mousou.org` | Yes |
 | `mousqueton.ru` | No |
 | `moussaclarke.co.uk` | Yes |
@@ -31823,6 +31825,7 @@ Here's a list of public Fediverse services.
 | `pixelfed.lk` | Yes |
 | `pixelfed.love` | No |
 | `pixelfed.me` | No |
+| `pixelfed.moe` | Yes |
 | `pixelfed.monster` | No |
 | `pixelfed.mx` | No |
 | `pixelfed.net` | Yes |
@@ -43814,6 +43817,7 @@ Here's a list of public Fediverse services.
 | `vulpo.one` | Yes |
 | `vulturion.com` | No |
 | `vutazeal.com` | Yes |
+| `vuwuv.com` | No |
 | `vvdog.net` | No |
 | `vvil.jp` | No |
 | `vvitches.live` | No |
@@ -46496,8 +46500,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,675 |
-| Normal | 33,778 |
+| Cloudflare | 12,677 |
+| Normal | 33,780 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
