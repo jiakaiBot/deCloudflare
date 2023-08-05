@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,069 |
-| social | 4,430 |
+| com | 7,072 |
+| social | 4,431 |
 | net | 3,611 |
 | org | 2,424 |
-| de | 2,236 |
+| de | 2,237 |
 
 
 - Mastodon, Pleroma, etc
@@ -85,6 +85,7 @@ Here's a list of public Fediverse services.
 | `0pp.us` | Yes |
 | `0px.io` | Yes |
 | `0q0.xyz` | No |
+| `0qz.fun` | Yes |
 | `0raptor.earth` | No |
 | `0rb.it` | Yes |
 | `0sakana.xyz` | Yes |
@@ -8045,7 +8046,7 @@ Here's a list of public Fediverse services.
 | `criminallycute.fi` | No |
 | `criminallycute.stream` | No |
 | `crimp.social` | No |
-| `crimsh.com` | No |
+| `crimsh.com` | Yes |
 | `crimsonfae.net` | No |
 | `crimsson.com` | No |
 | `cringe.cafe` | No |
@@ -11096,6 +11097,7 @@ Here's a list of public Fediverse services.
 | `eeeeeeeee.eu` | No |
 | `eeeeeeeeeeeeeee.ee` | Yes |
 | `eegle.cloud` | No |
+| `eei-misskey.com` | Yes |
 | `eeic.io` | No |
 | `eena.me` | No |
 | `eenoog.org` | No |
@@ -15697,6 +15699,7 @@ Here's a list of public Fediverse services.
 | `gregmakes.xyz` | No |
 | `gregmoore.me` | No |
 | `gregnewman.io` | Yes |
+| `gregnilsen.com` | No |
 | `gregor.link` | No |
 | `gregorlove.com` | No |
 | `gregoryjay.co.uk` | Yes |
@@ -21119,6 +21122,7 @@ Here's a list of public Fediverse services.
 | `kono.pub` | Yes |
 | `kono.sh` | Yes |
 | `konosuke.jp` | No |
+| `konpeki.icu` | Yes |
 | `konradlemanski.dev` | Yes |
 | `konradrundfunk.me` | No |
 | `konsolenknecht.de` | No |
@@ -22841,6 +22845,7 @@ Here's a list of public Fediverse services.
 | `livem.de` | No |
 | `liveplatform.ca` | No |
 | `livepods.eu` | No |
+| `liverpoolfootballclub.social` | Yes |
 | `livers.jp` | No |
 | `livesconnect.com` | No |
 | `livesound.world` | Yes |
@@ -25477,7 +25482,7 @@ Here's a list of public Fediverse services.
 | `mesomer.com` | Yes |
 | `mesothermal.science` | No |
 | `mesozoik.cloud` | No |
-| `mespace.social` | No |
+| `mespace.social` | Yes |
 | `mess.casa` | Yes |
 | `mess.social` | No |
 | `messurrection.com` | No |
@@ -27777,6 +27782,7 @@ Here's a list of public Fediverse services.
 | `narikiri.club` | No |
 | `narinimous.fr` | No |
 | `narod.city` | No |
+| `narramus.de` | Yes |
 | `narrativ.es` | No |
 | `narrativerry.xyz` | No |
 | `narratosis.com` | No |
@@ -32692,6 +32698,7 @@ Here's a list of public Fediverse services.
 | `profitwallet.team` | No |
 | `progaccess.net` | No |
 | `prognesubis.net` | No |
+| `prograhamming.com` | No |
 | `programist.ro` | Yes |
 | `programm.community` | No |
 | `programmer.technology` | No |
@@ -46520,7 +46527,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,685 |
+| Cloudflare | 12,692 |
 | Normal | 33,792 |
 
 
