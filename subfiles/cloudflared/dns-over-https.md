@@ -115,7 +115,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | electrotm.org | Yes |
 | ellichua.com | No |
 | emiliyan.com | Yes |
-| eth.link | Yes |
 | everovpn.co | No |
 | extrawdw.net | Yes |
 | fancyorg.at | No |
@@ -194,7 +193,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lindung.pp.ua | Yes |
 | linkr.ninja | No |
 | lonet.org | Yes |
-| lsho.top | Yes |
 | lz0724.com | No |
 | mailkyb.co | No |
 | masters-of-cloud.de | No |
@@ -244,7 +242,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | onedns.cc | Yes |
 | onedns.net | No |
 | opendns.com | Yes |
-| opnsource.com.au | No |
 | ozer.im | No |
 | paesa.es | Yes |
 | panszelescik.pl | Yes |
@@ -353,8 +350,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 168 |
-| Normal | 166 |
+| Cloudflare | 166 |
+| Normal | 165 |
 
 
-### 50.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
