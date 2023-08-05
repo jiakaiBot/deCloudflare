@@ -2390,6 +2390,7 @@ Do not create new issue or we will close it as duplicate.
 | [clubside@twitter](https://twitter.com/clubside/status/1548729768593563648) | advertise |
 | [CMJ97394935@twitter](https://twitter.com/CMJ97394935/status/1596853114543689728) | advertise |
 | [cng00508531@twitter](https://twitter.com/cng00508531/status/1407583498534154241) | advertise |
+| [cng1250186@twitter](https://twitter.com/cng1250186/status/1687750972574162944) | advertise |
 | [Cng27994732@twitter](https://twitter.com/Cng27994732/status/1387968224340238338) | advertise |
 | [cng52523504@twitter](https://twitter.com/cng52523504/status/1402889975926988804) | advertise |
 | [cng63380087@twitter](https://twitter.com/cng63380087/status/1552764161817358337) | advertise |
