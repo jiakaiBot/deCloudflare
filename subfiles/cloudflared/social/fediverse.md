@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,072 |
 | social | 4,431 |
-| net | 3,611 |
+| net | 3,612 |
 | org | 2,424 |
 | de | 2,237 |
 
@@ -5669,6 +5669,7 @@ Here's a list of public Fediverse services.
 | `bussmann.social` | No |
 | `bussy.gallery` | No |
 | `bussy.monster` | No |
+| `busterboys.net` | No |
 | `bustinfam.com` | Yes |
 | `busybit.at` | No |
 | `but.social` | No |
@@ -46528,7 +46529,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,692 |
-| Normal | 33,792 |
+| Normal | 33,793 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
