@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,072 |
+| com | 7,073 |
 | social | 4,431 |
-| net | 3,612 |
+| net | 3,613 |
 | org | 2,424 |
 | de | 2,237 |
 
@@ -4549,6 +4549,7 @@ Here's a list of public Fediverse services.
 | `bk-guild.de` | No |
 | `bk.cx` | No |
 | `bka.li` | No |
+| `bkcastle.net` | No |
 | `bke.ro` | No |
 | `bkgaming.cafe` | No |
 | `bkgrdclrschm.link` | Yes |
@@ -6240,6 +6241,7 @@ Here's a list of public Fediverse services.
 | `catswords.net` | Yes |
 | `catswords.social` | Yes |
 | `catswords.watch` | Yes |
+| `catswords.zip` | Yes |
 | `catt.wtf` | No |
 | `cattell.mba` | No |
 | `cattesandbuttes.com` | No |
@@ -7739,6 +7741,7 @@ Here's a list of public Fediverse services.
 | `cooop.com` | No |
 | `coop.lol` | Yes |
 | `coop.tools` | No |
+| `coopcloud.tech` | No |
 | `coopermatt.com` | No |
 | `cooperserver.com` | No |
 | `coopey.eu` | Yes |
@@ -12105,6 +12108,7 @@ Here's a list of public Fediverse services.
 | `experimentalcraft.com` | No |
 | `experimentaria.com` | No |
 | `expi.studio` | No |
+| `expiredpopsicle.com` | No |
 | `expl.red` | Yes |
 | `explain-it.org` | No |
 | `exploding-heads.com` | No |
@@ -46528,8 +46532,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,692 |
-| Normal | 33,793 |
+| Cloudflare | 12,693 |
+| Normal | 33,796 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
