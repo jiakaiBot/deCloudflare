@@ -3020,6 +3020,7 @@ Do not create new issue or we will close it as duplicate.
 | [DogKill76275871@twitter](https://twitter.com/DogKill76275871/status/1532563663608942593) | advertise |
 | [Dogppppppppppp1@twitter](https://twitter.com/Dogppppppppppp1/status/1552803001701904384) | advertise |
 | [dogukantansuk@twitter](https://twitter.com/dogukantansuk/status/1400714321055858689) | advertise |
+| [dohansexxyy@twitter](https://twitter.com/dohansexxyy/status/1687681586605780992) | advertise |
 | [DoHrvatska@twitter](https://twitter.com/DoHrvatska/status/1575242103072133120) | advertise |
 | [Dohuy49780349@twitter](https://twitter.com/Dohuy49780349/status/1376800199079694336) | advertise |
 | [doilannemdau009@twitter](https://twitter.com/doilannemdau009/status/1552980916225527808) | advertise |
@@ -6219,6 +6220,7 @@ Do not create new issue or we will close it as duplicate.
 | [kingGamavip@twitter](https://twitter.com/kingGamavip/status/1638230328933228559) | advertise |
 | [Kingiferous7@twitter](https://twitter.com/Kingiferous7/status/1569373239016656902) | advertise |
 | [kingk4888888@twitter](https://twitter.com/kingk4888888/status/1394730960894119937) | advertise |
+| [KingKha92045867@twitter](https://twitter.com/KingKha92045867/status/1687863824458866689) | advertise |
 | [KingmaxNft@twitter](https://twitter.com/KingmaxNft/status/1550009809159630849) | advertise |
 | [Kingo74770300@twitter](https://twitter.com/Kingo74770300/status/1620716316163461123) | advertise |
 | [kingpolat5@twitter](https://twitter.com/kingpolat5/status/1397988631265038339) | advertise |
@@ -9644,6 +9646,7 @@ Do not create new issue or we will close it as duplicate.
 | [phanvanduc9x@twitter](https://twitter.com/phanvanduc9x/status/1396340709095985152) | advertise |
 | [phanvanlai9@twitter](https://twitter.com/phanvanlai9/status/1491682557628280833) | advertise |
 | [PhanVn663732@twitter](https://twitter.com/PhanVn663732/status/1658502513585459200) | advertise |
+| [phanVnc23362330@twitter](https://twitter.com/phanVnc23362330/status/1421623815990169604) | advertise |
 | [PhanVnN6@twitter](https://twitter.com/PhanVnN6/status/1476930196150226951) | advertise |
 | [Pharm_chocolate@twitter](https://twitter.com/Pharm_chocolate/status/1401267624013668352) | advertise |
 | [Phat5312@twitter](https://twitter.com/Phat5312/status/1514940394651684870) | advertise |
