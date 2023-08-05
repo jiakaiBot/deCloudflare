@@ -4233,7 +4233,7 @@ Here's a list of public Fediverse services.
 | `biblenotes.co.uk` | Yes |
 | `biblewordpress.net` | No |
 | `biblewp.com` | No |
-| `biblewp.net` | No |
+| `biblewp.net` | Yes |
 | `biblioco.de` | No |
 | `bibliohack.org` | No |
 | `bibliothekarisch.info` | No |
@@ -13371,7 +13371,7 @@ Here's a list of public Fediverse services.
 | `fluttercommunity.social` | No |
 | `flutue.in` | Yes |
 | `flux.eus` | No |
-| `fluxfox.dev` | No |
+| `fluxfox.dev` | Yes |
 | `flxi.uk` | Yes |
 | `fly.dev` | No |
 | `flyand.chat` | Yes |
@@ -40017,6 +40017,7 @@ Here's a list of public Fediverse services.
 | `tenpl.us` | No |
 | `tenpoku.com` | Yes |
 | `tenshi.sh` | Yes |
+| `tenshi.zip` | Yes |
 | `tenshicorn.dog` | Yes |
 | `tenshu.net` | No |
 | `tenta.fun` | No |
@@ -46508,8 +46509,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,679 |
-| Normal | 33,786 |
+| Cloudflare | 12,682 |
+| Normal | 33,784 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
