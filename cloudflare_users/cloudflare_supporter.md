@@ -6485,6 +6485,7 @@ Do not create new issue or we will close it as duplicate.
 | [KubyW@twitter](https://twitter.com/KubyW/status/1679556773794164736) | advertise |
 | [Kudatlo@twitter](https://twitter.com/Kudatlo/status/1623118589502050305) | advertise |
 | [kudzu_naoki@twitter](https://twitter.com/kudzu_naoki/status/1677183324329250816) | advertise |
+| [kukorop@twitter](https://twitter.com/kukorop/status/1688243940116631554) | advertise |
 | [kuksi007h@twitter](https://twitter.com/kuksi007h/status/1625651218780389377) | advertise |
 | [KuKu68783681@twitter](https://twitter.com/KuKu68783681/status/1405164564300197898) | advertise |
 | [kukuhtun@twitter](https://twitter.com/kukuhtun/status/1377224548454526978) | advertise |
@@ -7337,6 +7338,7 @@ Do not create new issue or we will close it as duplicate.
 | [malvprass@twitter](https://twitter.com/malvprass/status/1385256169795588096) | advertise |
 | [MalwarePeter@twitter](https://twitter.com/MalwarePeter/status/1604834102556893185) | advertise |
 | [malwifati@twitter](https://twitter.com/malwifati/status/1381271570304401408) | advertise |
+| [Mamadrama1994@twitter](https://twitter.com/Mamadrama1994/status/1688247280799825920) | advertise |
 | [mamadukino@twitter](https://twitter.com/mamadukino/status/1589769719049244673) | advertise |
 | [Mamamiaee1@twitter](https://twitter.com/Mamamiaee1/status/1664313508593549313) | advertise |
 | [MamaPeaB@twitter](https://twitter.com/MamaPeaB/status/1665858424721088514) | advertise |
