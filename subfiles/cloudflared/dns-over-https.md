@@ -268,7 +268,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rokh.biz | Yes |
 | rouga.ch | Yes |
 | rsaikat.com | No |
-| rwth-aachen.de | No |
 | safeservedns.com | No |
 | safesurfer.io | Yes |
 | samutz.com | No |
@@ -339,7 +338,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | xinfeng16m.top | Yes |
 | yameenassotally.com | No |
 | yazilimatolye.com | No |
-| ychen.cf | No |
 | youni.win | Yes |
 | yovbak.com | No |
 | yybyy.wiki | Yes |
@@ -351,7 +349,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 166 |
-| Normal | 165 |
+| Normal | 163 |
 
 
-### 50.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
