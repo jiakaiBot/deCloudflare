@@ -961,6 +961,7 @@ Here's a list of public Fediverse services.
 | `accioly.dev` | Yes |
 | `accioly.social` | Yes |
 | `acclaro.digital` | Yes |
+| `accolade.digital` | No |
 | `accomplice.social` | No |
 | `accoord.fr` | Yes |
 | `accordi.online` | No |
@@ -46549,7 +46550,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,696 |
-| Normal | 33,809 |
+| Normal | 33,810 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
