@@ -4400,6 +4400,7 @@ Do not create new issue or we will close it as duplicate.
 | [hgdefghuhvf@twitter](https://twitter.com/hgdefghuhvf/status/1575631841071353857) | advertise |
 | [Hh61129726@twitter](https://twitter.com/Hh61129726/status/1394332537971900418) | advertise |
 | [HHammour_Arabic@twitter](https://twitter.com/HHammour_Arabic/status/1510137939019415553) | advertise |
+| [Hhasn26432569@twitter](https://twitter.com/Hhasn26432569/status/1688269131060023296) | advertise |
 | [Hheinaungg@twitter](https://twitter.com/Hheinaungg/status/1390089145834377218) | advertise |
 | [Hhhh76667007@twitter](https://twitter.com/Hhhh76667007/status/1620801380251500544) | advertise |
 | [Hhhhhhh62531386@twitter](https://twitter.com/Hhhhhhh62531386/status/1390909061810454533) | advertise |
@@ -7589,6 +7590,7 @@ Do not create new issue or we will close it as duplicate.
 | [MDKawsa18879634@twitter](https://twitter.com/MDKawsa18879634/status/1683092607079948288) | advertise |
 | [MDMahmu02793472@twitter](https://twitter.com/MDMahmu02793472/status/1537213247782535168) | advertise |
 | [MdMasud94762486@twitter](https://twitter.com/MdMasud94762486/status/1496017091014832128) | advertise |
+| [MdMdrofy1@twitter](https://twitter.com/MdMdrofy1/status/1688289674354413568) | advertise |
 | [mdmsca@twitter](https://twitter.com/mdmsca/status/1389633758509293569) | advertise |
 | [MdNajmu09996248@twitter](https://twitter.com/MdNajmu09996248/status/1528812074528145408) | advertise |
 | [MdNazmu41129198@twitter](https://twitter.com/MdNazmu41129198/status/1385844121915379712) | advertise |
