@@ -1917,6 +1917,7 @@ Do not create new issue or we will close it as duplicate.
 | [boyandchen@twitter](https://twitter.com/boyandchen/status/1385162655619436545) | advertise |
 | [boyarmy1234@twitter](https://twitter.com/boyarmy1234/status/1377459765933006850) | advertise |
 | [Boyboiover@twitter](https://twitter.com/Boyboiover/status/1404748417562157057) | advertise |
+| [Boyboy26689884@twitter](https://twitter.com/Boyboy26689884/status/1688204154022535170) | advertise |
 | [Boycake91@twitter](https://twitter.com/Boycake91/status/1394245083864584192) | advertise |
 | [Boydam14hp@twitter](https://twitter.com/Boydam14hp/status/1552790395565658112) | advertise |
 | [BoyDamD36200800@twitter](https://twitter.com/BoyDamD36200800/status/1404202190533652480) | advertise |
@@ -6041,6 +6042,7 @@ Do not create new issue or we will close it as duplicate.
 | [Khaiquangtran5@twitter](https://twitter.com/Khaiquangtran5/status/1385928846889811969) | advertise |
 | [KhaledQiad@twitter](https://twitter.com/KhaledQiad/status/1475497971445870601) | advertise |
 | [khalfiabdk@twitter](https://twitter.com/khalfiabdk/status/1447572885174898689) | advertise |
+| [Khalid09789930@twitter](https://twitter.com/Khalid09789930/status/1688199532897517568) | advertise |
 | [KhalidAshrafi91@twitter](https://twitter.com/KhalidAshrafi91/status/1586796057492688901) | advertise |
 | [KhalidZamani12@twitter](https://twitter.com/KhalidZamani12/status/1671771832587010048) | advertise |
 | [Khalifa69342938@twitter](https://twitter.com/Khalifa69342938/status/1398071764790530054) | advertise |
@@ -10294,6 +10296,7 @@ Do not create new issue or we will close it as duplicate.
 | [rakibalshams17@twitter](https://twitter.com/rakibalshams17/status/1583178284140875777) | advertise |
 | [rakssak1698@twitter](https://twitter.com/rakssak1698/status/1611751794807537665) | advertise |
 | [RakWrathraiser@twitter](https://twitter.com/RakWrathraiser/status/1377330536742408194) | advertise |
+| [ram32463997@twitter](https://twitter.com/ram32463997/status/1688195720526929920) | advertise |
 | [ramdonalhb@twitter](https://twitter.com/ramdonalhb/status/1395604254186872832) | advertise |
 | [Ramesh64443583@twitter](https://twitter.com/Ramesh64443583/status/1388522144590491650) | advertise |
 | [RamGoq@twitter](https://twitter.com/RamGoq/status/1551927715724500994) | advertise |
@@ -12339,6 +12342,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThoNguy94938925@twitter](https://twitter.com/ThoNguy94938925/status/1584568076104007681) | advertise |
 | [thong_phamvan@twitter](https://twitter.com/thong_phamvan/status/1610284545433284608) | advertise |
 | [Thonho338@twitter](https://twitter.com/Thonho338/status/1499041712597245952) | advertise |
+| [thonsure@twitter](https://twitter.com/thonsure/status/1688199369030242306) | advertise |
 | [Thoonthetpan22@twitter](https://twitter.com/Thoonthetpan22/status/1617531370817064961) | advertise |
 | [ThoonThuRa@twitter](https://twitter.com/ThoonThuRa/status/1399420471603519495) | advertise |
 | [ThoPhan17352290@twitter](https://twitter.com/ThoPhan17352290/status/1589046463522537473) | advertise |
@@ -13022,6 +13026,7 @@ Do not create new issue or we will close it as duplicate.
 | [UNYI96245990@twitter](https://twitter.com/UNYI96245990/status/1378312649297915905) | advertise |
 | [UOoSanGyi1@twitter](https://twitter.com/UOoSanGyi1/status/1398504684256600067) | advertise |
 | [updatedreviews@twitter](https://twitter.com/updatedreviews/status/1425499895272665094) | advertise |
+| [uphwrrphmsm1@twitter](https://twitter.com/uphwrrphmsm1/status/1688192039287242752) | advertise |
 | [uprise_s@twitter](https://twitter.com/uprise_s/status/1407659965129629696) | advertise |
 | [Upwader@twitter](https://twitter.com/Upwader/status/1612132167278284800) | advertise |
 | [URabiullah@twitter](https://twitter.com/URabiullah/status/1490471474808897538) | advertise |
