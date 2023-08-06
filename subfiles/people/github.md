@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't run start.bat](https://github.com/Omega-Slender/ITSNOTPOEVER-ST-EDITED/issues/13)
 - [No longer works](https://github.com/TeamPiped/piped-rust-sdk/issues/8)
 - [Poloniex cancel_order() CancelPending error](https://github.com/ccxt/ccxt/issues/18785)
 - [CloudFlare Load Balancers connectivity issues](https://github.com/hinoshiba/news/issues/2069)
