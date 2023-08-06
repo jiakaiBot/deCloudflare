@@ -1608,6 +1608,7 @@ Do not create new issue or we will close it as duplicate.
 | [BeeHiveCyberSec@twitter](https://twitter.com/BeeHiveCyberSec/status/1513414452783185923) | advertise |
 | [been21085126@twitter](https://twitter.com/been21085126/status/1390943343933222912) | advertise |
 | [beenguy52213881@twitter](https://twitter.com/beenguy52213881/status/1553814640555335681) | advertise |
+| [beep1kali@twitter](https://twitter.com/beep1kali/status/1688255864359333888) | advertise |
 | [beepree092532@twitter](https://twitter.com/beepree092532/status/1537305045406187520) | advertise |
 | [BeepSterr@twitter](https://twitter.com/BeepSterr/status/1543233083536728065) | advertise |
 | [Beesalmishra@twitter](https://twitter.com/Beesalmishra/status/1647638628158562305) | advertise |
@@ -13030,6 +13031,7 @@ Do not create new issue or we will close it as duplicate.
 | [unodang@twitter](https://twitter.com/unodang/status/1388950677255168001) | advertise |
 | [untbox@twitter](https://twitter.com/untbox/status/1426860580816801794) | advertise |
 | [UNYI96245990@twitter](https://twitter.com/UNYI96245990/status/1378312649297915905) | advertise |
+| [UOoPeace1@twitter](https://twitter.com/UOoPeace1/status/1688262639884062720) | advertise |
 | [UOoSanGyi1@twitter](https://twitter.com/UOoSanGyi1/status/1398504684256600067) | advertise |
 | [updatedreviews@twitter](https://twitter.com/updatedreviews/status/1425499895272665094) | advertise |
 | [uphwrrphmsm1@twitter](https://twitter.com/uphwrrphmsm1/status/1688192039287242752) | advertise |
