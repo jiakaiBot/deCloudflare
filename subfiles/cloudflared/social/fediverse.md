@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,076 |
-| social | 4,432 |
-| net | 3,617 |
+| com | 7,077 |
+| social | 4,434 |
+| net | 3,618 |
 | org | 2,426 |
 | de | 2,237 |
 
@@ -11438,6 +11438,7 @@ Here's a list of public Fediverse services.
 | `ember.lgbt` | Yes |
 | `ember.li` | No |
 | `embers.social` | No |
+| `embracethevoid.net` | Yes |
 | `embracing.space` | Yes |
 | `embros.org` | Yes |
 | `emcomm.social` | Yes |
@@ -12247,6 +12248,7 @@ Here's a list of public Fediverse services.
 | `faecibuslibre.com` | No |
 | `faelight.space` | No |
 | `faerghus.today` | No |
+| `faerie.monster` | Yes |
 | `faerie.social` | No |
 | `faerie.tel` | No |
 | `faerie.town` | No |
@@ -33824,6 +33826,7 @@ Here's a list of public Fediverse services.
 | `rayslava.com` | No |
 | `raysofhope.love` | Yes |
 | `raytec.co` | No |
+| `rayven.mx` | No |
 | `raza.social` | No |
 | `raziel.space` | No |
 | `razmadze.me` | Yes |
@@ -36456,6 +36459,7 @@ Here's a list of public Fediverse services.
 | `shabsters.social` | No |
 | `shadesmar.io` | Yes |
 | `shadowfacts.net` | Yes |
+| `shadowfr69.eu` | No |
 | `shadowkat.net` | No |
 | `shadowlan.net` | No |
 | `shadowland.social` | No |
@@ -37121,6 +37125,7 @@ Here's a list of public Fediverse services.
 | `skorpil.cz` | No |
 | `skota11.com` | Yes |
 | `skrasek.us` | No |
+| `skree.social` | No |
 | `skrep.eu` | No |
 | `skrep.in` | No |
 | `skress.eu.org` | No |
@@ -38299,6 +38304,7 @@ Here's a list of public Fediverse services.
 | `sssc.cc` | No |
 | `ssskkk.top` | Yes |
 | `ssstudio.org` | No |
+| `ssul.one` | No |
 | `ssvane.dk` | Yes |
 | `ssvo.de` | No |
 | `ssweeny.net` | No |
@@ -38961,6 +38967,7 @@ Here's a list of public Fediverse services.
 | `sully.site` | No |
 | `sum7.eu` | No |
 | `suma-ev.social` | No |
+| `sumanko.com` | Yes |
 | `sumanko.ml` | Yes |
 | `sumeru.top` | Yes |
 | `sumi.space` | Yes |
@@ -41691,6 +41698,7 @@ Here's a list of public Fediverse services.
 | `trackmania.social` | Yes |
 | `traction.jp` | No |
 | `tracydurnell.com` | No |
+| `tracyverse.social` | Yes |
 | `trade-free.org` | Yes |
 | `tradingcardarchives.com` | Yes |
 | `tradjincal.fr` | No |
@@ -46416,6 +46424,7 @@ Here's a list of public Fediverse services.
 | `zoonior.app` | No |
 | `zoosbook.com` | Yes |
 | `zoot.fun` | Yes |
+| `zop.se` | Yes |
 | `zoppelt.net` | Yes |
 | `zopyx.com` | No |
 | `zor.gg` | Yes |
@@ -46549,8 +46558,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,696 |
-| Normal | 33,810 |
+| Cloudflare | 12,701 |
+| Normal | 33,814 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
