@@ -3117,6 +3117,7 @@ Do not create new issue or we will close it as duplicate.
 | [DrUmarOffical@twitter](https://twitter.com/DrUmarOffical/status/1563328360780288002) | advertise |
 | [DrunkPanda31@twitter](https://twitter.com/DrunkPanda31/status/1561437014133596161) | advertise |
 | [DrustonDias1@twitter](https://twitter.com/DrustonDias1/status/1392055630207217666) | advertise |
+| [drwebzw@twitter](https://twitter.com/drwebzw/status/1687930763931504640) | advertise |
 | [Dryannaungsoe@twitter](https://twitter.com/Dryannaungsoe/status/1542151793563824129) | advertise |
 | [DryNerf@twitter](https://twitter.com/DryNerf/status/1540069436765487105) | advertise |
 | [Dr_chin_@twitter](https://twitter.com/Dr_chin_/status/1559612155409752064) | advertise |
@@ -4376,6 +4377,7 @@ Do not create new issue or we will close it as duplicate.
 | [Heroboy89H@twitter](https://twitter.com/Heroboy89H/status/1522402744346476544) | advertise |
 | [Herohero1212@twitter](https://twitter.com/Herohero1212/status/1540573846054600706) | advertise |
 | [herosoclo@twitter](https://twitter.com/herosoclo/status/1485688186999554048) | advertise |
+| [herrytearjerky@twitter](https://twitter.com/herrytearjerky/status/1687986532211408896) | advertise |
 | [hertles_j@twitter](https://twitter.com/hertles_j/status/1637687935905480705) | advertise |
 | [hetarakawatene1@twitter](https://twitter.com/hetarakawatene1/status/1586135864681279489) | advertise |
 | [Heul032@twitter](https://twitter.com/Heul032/status/1660900528438779904) | advertise |
@@ -5764,6 +5766,7 @@ Do not create new issue or we will close it as duplicate.
 | [ka2n@twitter](https://twitter.com/ka2n/status/1486382746041655302) | advertise |
 | [ka50822655@twitter](https://twitter.com/ka50822655/status/1399136806856060928) | advertise |
 | [KabeersNetwork@twitter](https://twitter.com/KabeersNetwork/status/1415380733221392388) | advertise |
+| [kabir9054790775@twitter](https://twitter.com/kabir9054790775/status/1687879684367974400) | advertise |
 | [kabirdayma@twitter](https://twitter.com/kabirdayma/status/1511013357842796546) | advertise |
 | [kabul_khan56623@twitter](https://twitter.com/kabul_khan56623/status/1682735365050753025) | advertise |
 | [KabyaRayahana@twitter](https://twitter.com/KabyaRayahana/status/1657726234929790977) | advertise |
@@ -6727,6 +6730,7 @@ Do not create new issue or we will close it as duplicate.
 | [LaynaAtilano@twitter](https://twitter.com/LaynaAtilano/status/1559564931036459009) | advertise |
 | [LayNyo18@twitter](https://twitter.com/LayNyo18/status/1381887898841059329) | advertise |
 | [laywee3@twitter](https://twitter.com/laywee3/status/1381039752535633923) | advertise |
+| [lazbrey224462@twitter](https://twitter.com/lazbrey224462/status/1687947792583426048) | advertise |
 | [LBHollins@twitter](https://twitter.com/LBHollins/status/1672915357776896000) | advertise |
 | [LBnBon1@twitter](https://twitter.com/LBnBon1/status/1380896958659747846) | advertise |
 | [lby_xnz@twitter](https://twitter.com/lby_xnz/status/1509193784650878976) | advertise |
