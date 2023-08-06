@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,076 |
 | social | 4,432 |
-| net | 3,616 |
+| net | 3,617 |
 | org | 2,426 |
 | de | 2,237 |
 
@@ -5087,6 +5087,7 @@ Here's a list of public Fediverse services.
 | `bora.army` | No |
 | `borahae.love` | No |
 | `borborema.zone` | No |
+| `borderland.tokyo` | No |
 | `borderlandkeep.com` | No |
 | `borderlands.social` | No |
 | `boredom.land` | No |
@@ -31624,6 +31625,7 @@ Here's a list of public Fediverse services.
 | `picandocodigo.net` | No |
 | `picasoft.net` | No |
 | `pichowsky.de` | No |
+| `pickey.net` | No |
 | `pickle.zone` | Yes |
 | `pico8.social` | No |
 | `piconet.co.uk` | No |
@@ -46546,7 +46548,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,697 |
-| Normal | 33,805 |
+| Normal | 33,807 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
