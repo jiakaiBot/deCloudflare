@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 7,075 |
 | social | 4,431 |
 | net | 3,614 |
-| org | 2,424 |
+| org | 2,425 |
 | de | 2,237 |
 
 
@@ -4722,7 +4722,7 @@ Here's a list of public Fediverse services.
 | `blobfox.coffee` | No |
 | `blobfox.es` | No |
 | `blobpat.space` | No |
-| `blobs.space` | Yes |
+| `blobs.space` | No |
 | `blobturtle.club` | Yes |
 | `blobular.com` | No |
 | `bloc.black` | No |
@@ -7991,6 +7991,7 @@ Here's a list of public Fediverse services.
 | `crazynewworld.net` | Yes |
 | `crazynoisybizarre.town` | No |
 | `crazypanda.fr` | No |
+| `crazystreams.org` | Yes |
 | `cre8iv.social` | No |
 | `cre8thoughts.com` | No |
 | `creacher.club` | No |
@@ -29294,7 +29295,7 @@ Here's a list of public Fediverse services.
 | `nshl.xyz` | No |
 | `nsinteger.com` | Yes |
 | `nsivertsen.com` | No |
-| `nsk.io` | No |
+| `nsk.io` | Yes |
 | `nsnw.ca` | No |
 | `nso.group` | Yes |
 | `nsobj.com` | No |
@@ -43796,7 +43797,7 @@ Here's a list of public Fediverse services.
 | `vrkstatt.social` | No |
 | `vrnd.network` | No |
 | `vrnd.social` | No |
-| `vrparty.social` | Yes |
+| `vrparty.social` | No |
 | `vrpnet.org` | No |
 | `vrse.be` | No |
 | `vrse.my.id` | Yes |
@@ -46538,7 +46539,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,693 |
-| Normal | 33,801 |
+| Normal | 33,802 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
