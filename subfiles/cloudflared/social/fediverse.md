@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,077 |
-| social | 4,434 |
-| net | 3,618 |
-| org | 2,426 |
-| de | 2,237 |
+| com | 7,079 |
+| social | 4,435 |
+| net | 3,619 |
+| org | 2,427 |
+| de | 2,238 |
 
 
 - Mastodon, Pleroma, etc
@@ -1426,6 +1426,7 @@ Here's a list of public Fediverse services.
 | `akashiensis.com` | No |
 | `akashiensis.online` | Yes |
 | `akatony.com` | Yes |
+| `akbkuku.org` | Yes |
 | `akebonozo.com` | No |
 | `akerbaek.no` | No |
 | `akhepcat.com` | No |
@@ -4063,6 +4064,7 @@ Here's a list of public Fediverse services.
 | `bennybenny.uk` | Yes |
 | `bennyp.org` | No |
 | `bennypowers.dev` | No |
+| `bennytek.net` | No |
 | `benoit-alessandroni.fr` | No |
 | `benpettis.ninja` | No |
 | `benpro.fr` | Yes |
@@ -13133,6 +13135,7 @@ Here's a list of public Fediverse services.
 | `fippies.org` | No |
 | `firc.de` | No |
 | `fire-studios.tk` | No |
+| `fire9.de` | No |
 | `firearms.social` | No |
 | `fireballsports.co` | No |
 | `firebaseapp.com` | No |
@@ -20441,7 +20444,7 @@ Here's a list of public Fediverse services.
 | `kemoner-don.tokyo` | No |
 | `kemonine.info` | Yes |
 | `kemono-friends.info` | Yes |
-| `kemono.im` | No |
+| `kemono.im` | Yes |
 | `kemono.ink` | No |
 | `kemonodon.club` | No |
 | `kemonololi.com` | No |
@@ -23385,6 +23388,7 @@ Here's a list of public Fediverse services.
 | `lufimianet.jp` | No |
 | `luftraum.xyz` | No |
 | `lug.sh` | Yes |
+| `lug.ts.it` | No |
 | `luga.at` | No |
 | `lugal.io` | No |
 | `lugarzinho.top` | No |
@@ -25336,6 +25340,7 @@ Here's a list of public Fediverse services.
 | `mello.moe` | No |
 | `mellow.town` | No |
 | `mellow.zone` | No |
+| `mellowcodelabs.social` | No |
 | `melmac.rocks` | No |
 | `melon.computer` | No |
 | `melon.land` | Yes |
@@ -27779,6 +27784,7 @@ Here's a list of public Fediverse services.
 | `nanoscopic.de` | No |
 | `nanosector.nl` | No |
 | `nanovim.tk` | No |
+| `nanoyagi.com` | No |
 | `nanoyun.net` | No |
 | `nantes.social` | No |
 | `naokisz.tk` | No |
@@ -34069,7 +34075,7 @@ Here's a list of public Fediverse services.
 | `reformed.cloud` | No |
 | `reformed.social` | Yes |
 | `refractive.group` | No |
-| `refuge.casa` | No |
+| `refuge.casa` | Yes |
 | `refusal.biz` | Yes |
 | `refusal.llc` | No |
 | `refuse2.work` | No |
@@ -38745,6 +38751,7 @@ Here's a list of public Fediverse services.
 | `streamerchat.social` | No |
 | `streamers.social` | Yes |
 | `streamery.club` | No |
+| `streamfurs.com` | Yes |
 | `streamz.ca` | No |
 | `strectuna.me` | No |
 | `streetbikes.club` | No |
@@ -46558,8 +46565,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,701 |
-| Normal | 33,814 |
+| Cloudflare | 12,705 |
+| Normal | 33,817 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
