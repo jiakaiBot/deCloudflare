@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-08-06: [Custom Javascript challenge page Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/857y1t420q6v)
 - 2023-08-04: [Load Balancers connectivity issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cx141zv0rfd8)
 - 2023-08-04: [Privacy Pass Browser Extension Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jcxxjk6jf7kw)
 - 2023-08-02: [Increased rates of HTTP 530 errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/60hxsmpl7lpm)
