@@ -29978,7 +29978,7 @@ Here's a list of public Fediverse services.
 | `omhnc.net` | Yes |
 | `omico.me` | Yes |
 | `omikron-alpha.net` | No |
-| `omimi.live` | Yes |
+| `omimi.live` | No |
 | `omisosiru.net` | No |
 | `omniatv.com` | Yes |
 | `omnific.one` | No |
@@ -30414,6 +30414,7 @@ Here's a list of public Fediverse services.
 | `osada.app` | No |
 | `osadl.social` | No |
 | `osage.moe` | Yes |
+| `osak.jp` | No |
 | `osakana.cloud` | No |
 | `osakanacreate.com` | No |
 | `osananajimi.love` | No |
@@ -46547,8 +46548,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,697 |
-| Normal | 33,807 |
+| Cloudflare | 12,696 |
+| Normal | 33,809 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
