@@ -2576,6 +2576,7 @@ Do not create new issue or we will close it as duplicate.
 | [cyy_nancy@twitter](https://twitter.com/cyy_nancy/status/1393253162547482626) | advertise |
 | [CyZGaUQMPNlTV1p@twitter](https://twitter.com/CyZGaUQMPNlTV1p/status/1396484819941347336) | advertise |
 | [Czjccc@twitter](https://twitter.com/Czjccc/status/1665871747244253186) | advertise |
+| [czzhi@twitter](https://twitter.com/czzhi/status/1688152103431413760) | advertise |
 | [c_ming_@twitter](https://twitter.com/c_ming_/status/1438859741480902661) | advertise |
 | [D0376752033@twitter](https://twitter.com/D0376752033/status/1589506586124652544) | advertise |
 | [D3dS3cOfficial@twitter](https://twitter.com/D3dS3cOfficial/status/1498098675351961603) | advertise |
@@ -9767,6 +9768,7 @@ Do not create new issue or we will close it as duplicate.
 | [Phuc77438485@twitter](https://twitter.com/Phuc77438485/status/1393397513831411718) | advertise |
 | [phuckbang000@twitter](https://twitter.com/phuckbang000/status/1397089787564023812) | advertise |
 | [PhucNguyen09020@twitter](https://twitter.com/PhucNguyen09020/status/1553420329007009792) | advertise |
+| [PhucTra95019969@twitter](https://twitter.com/PhucTra95019969/status/1688150530672234497) | advertise |
 | [phuctran98@twitter](https://twitter.com/phuctran98/status/1402658064587649027) | advertise |
 | [Phuctran1990@twitter](https://twitter.com/Phuctran1990/status/1617566753206439937) | advertise |
 | [phudung9999@twitter](https://twitter.com/phudung9999/status/1403754600411197440) | advertise |
