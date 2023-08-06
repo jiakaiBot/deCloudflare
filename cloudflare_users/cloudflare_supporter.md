@@ -688,6 +688,7 @@ Do not create new issue or we will close it as duplicate.
 | [alnahas2020@twitter](https://twitter.com/alnahas2020/status/1526095253475835904) | advertise |
 | [alnowafaa@twitter](https://twitter.com/alnowafaa/status/1620552141181181952) | advertise |
 | [AlnueaymiSudad@twitter](https://twitter.com/AlnueaymiSudad/status/1618195569314516993) | advertise |
+| [AlokBaruah8@twitter](https://twitter.com/AlokBaruah8/status/1688089166213771264) | advertise |
 | [AloneBo61596924@twitter](https://twitter.com/AloneBo61596924/status/1491312904473550848) | advertise |
 | [alonehp6789@twitter](https://twitter.com/alonehp6789/status/1621523604965064705) | advertise |
 | [AlphaAntiLeak@twitter](https://twitter.com/AlphaAntiLeak/status/1657719098883600389) | advertise |
@@ -9112,6 +9113,7 @@ Do not create new issue or we will close it as duplicate.
 | [noman43919827@twitter](https://twitter.com/noman43919827/status/1595787559103336451) | advertise |
 | [NomanNoor@twitter](https://twitter.com/NomanNoor/status/1511594810297229315) | advertise |
 | [nomercy888806@twitter](https://twitter.com/nomercy888806/status/1533850898551693313) | advertise |
+| [NomiHarley@twitter](https://twitter.com/NomiHarley/status/1688170018633375745) | advertise |
 | [nomkhae@twitter](https://twitter.com/nomkhae/status/1519560089258332160) | advertise |
 | [NomRageCafe@twitter](https://twitter.com/NomRageCafe/status/1512087137952301059) | advertise |
 | [Noname01O@twitter](https://twitter.com/Noname01O/status/1603634938711941120) | advertise |
@@ -13433,6 +13435,7 @@ Do not create new issue or we will close it as duplicate.
 | [wd_kill@twitter](https://twitter.com/wd_kill/status/1475478794626650123) | advertise |
 | [webdownunder@twitter](https://twitter.com/webdownunder/status/1472764286283833345) | advertise |
 | [WebGainz_Info@twitter](https://twitter.com/WebGainz_Info/status/1671584033027891224) | advertise |
+| [webhellas@twitter](https://twitter.com/webhellas/status/1688134604777988096) | advertise |
 | [webmaster67fr@twitter](https://twitter.com/webmaster67fr/status/1627568295619530752) | advertise |
 | [websamrat@twitter](https://twitter.com/websamrat/status/1417114848085696515) | advertise |
 | [websolapp@twitter](https://twitter.com/websolapp/status/1436377910638792712) | advertise |
