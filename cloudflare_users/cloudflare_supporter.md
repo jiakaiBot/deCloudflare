@@ -1261,6 +1261,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungMyi34827072@twitter](https://twitter.com/AungMyi34827072/status/1378050834487943170) | advertise |
 | [AungMyi52996409@twitter](https://twitter.com/AungMyi52996409/status/1396340341335154691) | advertise |
 | [AungMyi57192911@twitter](https://twitter.com/AungMyi57192911/status/1389910350187962372) | advertise |
+| [AungMyi89767659@twitter](https://twitter.com/AungMyi89767659/status/1688217885028810752) | advertise |
 | [aungmyint98@twitter](https://twitter.com/aungmyint98/status/1681485263359586305) | advertise |
 | [AungMyo12231420@twitter](https://twitter.com/AungMyo12231420/status/1391453106169335814) | advertise |
 | [AungMyo12617132@twitter](https://twitter.com/AungMyo12617132/status/1387264018084106241) | advertise |
@@ -1544,6 +1545,7 @@ Do not create new issue or we will close it as duplicate.
 | [Baomilos4@twitter](https://twitter.com/Baomilos4/status/1536315085475328001) | advertise |
 | [BaoTran59211863@twitter](https://twitter.com/BaoTran59211863/status/1428225026319261696) | advertise |
 | [baovanhu012345@twitter](https://twitter.com/baovanhu012345/status/1387935168267096068) | advertise |
+| [baozero2@twitter](https://twitter.com/baozero2/status/1688233537621897216) | advertise |
 | [bao_nguoi@twitter](https://twitter.com/bao_nguoi/status/1629139154377510913) | advertise |
 | [bao_ruan@twitter](https://twitter.com/bao_ruan/status/1399224252474171393) | advertise |
 | [bao_truong4@twitter](https://twitter.com/bao_truong4/status/1597286177098592256) | advertise |
@@ -10995,6 +10997,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sciz0r1@twitter](https://twitter.com/Sciz0r1/status/1384091634455900161) | advertise |
 | [sclathrop@twitter](https://twitter.com/sclathrop/status/1458423494719459332) | advertise |
 | [ScottMortimer@infosec.exchange](https://infosec.exchange/@ScottMortimer/108277117754849928) | Scott Mortimer "Crimeflare is ridiculous and hyperbolic." |
+| [scpriday@twitter](https://twitter.com/scpriday/status/1688227203371458560) | advertise |
 | [Scrimzy_@twitter](https://twitter.com/Scrimzy_/status/1380087112993632257) | advertise |
 | [ScrivHull@twitter](https://twitter.com/ScrivHull/status/1665858099272351745) | advertise |
 | [sdemanett@twitter](https://twitter.com/sdemanett/status/1396239812076638208) | advertise |
@@ -11381,6 +11384,7 @@ Do not create new issue or we will close it as duplicate.
 | [SMZ23449578@twitter](https://twitter.com/SMZ23449578/status/1402810629530873860) | advertise |
 | [sn0wyra1n4@twitter](https://twitter.com/sn0wyra1n4/status/1549195302824968194) | advertise |
 | [Sn07852953@twitter](https://twitter.com/Sn07852953/status/1386022348285890560) | advertise |
+| [sn10_na_@twitter](https://twitter.com/sn10_na_/status/1688228632139866114) | advertise |
 | [sn48891210@twitter](https://twitter.com/sn48891210/status/1385648532909039618) | advertise |
 | [sn58893213@twitter](https://twitter.com/sn58893213/status/1380081314502610946) | advertise |
 | [sn99089562@twitter](https://twitter.com/sn99089562/status/1552959267673497600) | advertise |
