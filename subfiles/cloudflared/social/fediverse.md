@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,076 |
-| social | 4,431 |
+| social | 4,432 |
 | net | 3,616 |
 | org | 2,426 |
 | de | 2,237 |
@@ -10190,6 +10190,7 @@ Here's a list of public Fediverse services.
 | `does.social` | No |
 | `doesnm.cc` | Yes |
 | `doesnotexist.club` | No |
+| `doesstuff.social` | No |
 | `doesthings.online` | Yes |
 | `doetnix.nl` | No |
 | `dog-pound.de` | No |
@@ -20676,6 +20677,7 @@ Here's a list of public Fediverse services.
 | `killpc.com` | No |
 | `killrobot.com` | Yes |
 | `killtheradio.net` | No |
+| `killyour.dad` | Yes |
 | `kilo.cafe` | No |
 | `kilobaser.info` | No |
 | `kilobyte.club` | No |
@@ -30215,7 +30217,7 @@ Here's a list of public Fediverse services.
 | `opensocial.africa` | No |
 | `opensocial.at` | No |
 | `opensocial.network` | Yes |
-| `opensocial.online` | No |
+| `opensocial.online` | Yes |
 | `opensocial.space` | No |
 | `opensource-school.nl` | Yes |
 | `opensource.network` | No |
@@ -46543,7 +46545,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,695 |
+| Cloudflare | 12,697 |
 | Normal | 33,805 |
 
 
