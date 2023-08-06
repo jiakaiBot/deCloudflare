@@ -5692,6 +5692,7 @@ Do not create new issue or we will close it as duplicate.
 | [jrtb65@twitter](https://twitter.com/jrtb65/status/1552516859035009024) | advertise |
 | [jrxpress@twitter](https://twitter.com/jrxpress/status/1566638313854976000) | advertise |
 | [jrzcinco@twitter](https://twitter.com/jrzcinco/status/1520183037165813760) | advertise |
+| [jsadg4@twitter](https://twitter.com/jsadg4/status/1688299595812450304) | advertise |
 | [Jscns2@twitter](https://twitter.com/Jscns2/status/1490713060692328448) | advertise |
 | [jshxnxn@twitter](https://twitter.com/jshxnxn/status/1570463160112652293) | advertise |
 | [jsilvadestaques@twitter](https://twitter.com/jsilvadestaques/status/1546111425898287105) | advertise |
