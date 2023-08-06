@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,075 |
+| com | 7,076 |
 | social | 4,431 |
-| net | 3,614 |
-| org | 2,425 |
+| net | 3,616 |
+| org | 2,426 |
 | de | 2,237 |
 
 
@@ -1849,6 +1849,7 @@ Here's a list of public Fediverse services.
 | `amanzi.nz` | Yes |
 | `amapin.love` | Yes |
 | `amaranth.network` | No |
+| `amari-noa.com` | Yes |
 | `amaris.blue` | No |
 | `amas.dev` | No |
 | `amaseto.com` | Yes |
@@ -9433,6 +9434,7 @@ Here's a list of public Fediverse services.
 | `demtech.global` | No |
 | `den.yt` | Yes |
 | `den1.cz` | Yes |
+| `den6262.net` | Yes |
 | `dendai.app` | Yes |
 | `denden.world` | No |
 | `dendiz.xyz` | No |
@@ -11107,6 +11109,7 @@ Here's a list of public Fediverse services.
 | `eeic.io` | No |
 | `eena.me` | No |
 | `eenoog.org` | No |
+| `eepy.moe` | No |
 | `eepy.space` | No |
 | `eersteblik.nl` | No |
 | `eertu.be` | No |
@@ -11173,6 +11176,7 @@ Here's a list of public Fediverse services.
 | `eicht.me` | No |
 | `eick.com` | Yes |
 | `eicker.news` | No |
+| `eidantoei.org` | No |
 | `eiden.ch` | Yes |
 | `eideo.de` | No |
 | `eientei.org` | No |
@@ -25678,7 +25682,7 @@ Here's a list of public Fediverse services.
 | `michidon.com` | No |
 | `michif.xyz` | No |
 | `michikora.com` | No |
-| `michizev.de` | Yes |
+| `michizev.de` | No |
 | `michonline.com` | No |
 | `michu.cloud` | No |
 | `mickaelftw.net` | Yes |
@@ -36364,6 +36368,7 @@ Here's a list of public Fediverse services.
 | `servperso.net` | Yes |
 | `servus.at` | No |
 | `servus.social` | Yes |
+| `setariam.net` | Yes |
 | `setecastronomy.dev` | No |
 | `sethb.com` | No |
 | `sethetter.com` | No |
@@ -46538,8 +46543,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,693 |
-| Normal | 33,802 |
+| Cloudflare | 12,695 |
+| Normal | 33,805 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
