@@ -1038,6 +1038,7 @@ Or is this merely a case of simple modesty?
 | Kornel Lesinski | Performance Engineer |  |
 | Kostas Topaloudis | Data Center Deployment Engineer |  |
 | Ko Stoffelen | Employee |  |
+| Kris Evans | Employee | |
 | Krishna Zulkarnain | Employee |  |
 | Kris Krzysztof Kwiatkowski | Employee |  |
 | Kris Kwiatkowski | Employee |  |
@@ -1164,6 +1165,7 @@ Or is this merely a case of simple modesty?
 | Martin J. Levy | Network Strategy | martin.levy@gmail.com<br>https://www.facebook.com/people/Martin-J-Levy/506131573<br>https://mahtin.com/<br>https://twitter.com/mahtin<br>PGP: 7EA139C40C1C842F9D41AAF94A34925D05172859 |
 | Martin J Levy | Employee |  |
 | Martin Marks | Systems Engineer |  |
+| Martin Schwarzl | Employee | |
 | Marty Strong | Technical Support Engineer |  |
 | Marwan Fayed | Research Lead | marwan.fayed@st-andrews.ac.uk<br>https://twitter.com/marwanfayed<br>https://scholar.google.co.uk/citations?user=dx8XiVwAAAAJ |
 | Mary Mac Williams | Event Coordinator |  |
