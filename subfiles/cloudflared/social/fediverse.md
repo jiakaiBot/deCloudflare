@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,079 |
-| social | 4,435 |
-| net | 3,619 |
+| com | 7,081 |
+| social | 4,436 |
+| net | 3,620 |
 | org | 2,427 |
 | de | 2,238 |
 
@@ -6559,6 +6559,7 @@ Here's a list of public Fediverse services.
 | `chatinbit.com` | No |
 | `chating.xyz` | No |
 | `chatio.eu` | No |
+| `chatslibres.com` | No |
 | `chatstodon.com` | No |
 | `chatstorm.io` | No |
 | `chatsubo.bar` | No |
@@ -12956,6 +12957,7 @@ Here's a list of public Fediverse services.
 | `ferrovipath.es` | No |
 | `ferrus.net` | No |
 | `ferry.host` | Yes |
+| `ferry.pm` | Yes |
 | `fersha.me` | No |
 | `feshiba.me` | No |
 | `fesse.pet` | No |
@@ -14040,6 +14042,7 @@ Here's a list of public Fediverse services.
 | `from-tw.shop` | No |
 | `from.the.br` | Yes |
 | `from1972.net` | No |
+| `fromabyss.com` | No |
 | `fromhome.ovh` | No |
 | `fromm.social` | No |
 | `fromouter.space` | Yes |
@@ -25786,6 +25789,7 @@ Here's a list of public Fediverse services.
 | `migueloteroiglesias.eu` | Yes |
 | `mihalis.net` | No |
 | `mii.codes` | Yes |
+| `mii.gay` | No |
 | `miicat.eu` | Yes |
 | `miichelle.moe` | Yes |
 | `miipub.com` | Yes |
@@ -26840,7 +26844,7 @@ Here's a list of public Fediverse services.
 | `mp3reelhub.com` | No |
 | `mpaq.org` | No |
 | `mpda.ru` | No |
-| `mpg.de` | No |
+| `mpg.de` | Yes |
 | `mpgaming.social` | Yes |
 | `mpinet.dev` | Yes |
 | `mpmilestogo.site` | Yes |
@@ -27659,6 +27663,7 @@ Here's a list of public Fediverse services.
 | `nachocheese.mom` | No |
 | `nachocheese.uk` | No |
 | `nachof.blog` | No |
+| `nachos.click` | No |
 | `nachrichten.social` | No |
 | `nachtgeschichten.org` | No |
 | `nachtsonnen.de` | No |
@@ -33444,6 +33449,7 @@ Here's a list of public Fediverse services.
 | `rabe.social` | No |
 | `rabidbadger.ovh` | No |
 | `rabidgeek.com` | No |
+| `rabidlogic.net` | No |
 | `rabiy.me` | No |
 | `rabkor.ru` | No |
 | `rac.me.uk` | No |
@@ -40047,6 +40053,7 @@ Here's a list of public Fediverse services.
 | `tending.to` | Yes |
 | `tendo.social` | Yes |
 | `tene.re` | No |
+| `tenfoot.social` | Yes |
 | `tenforward.social` | No |
 | `tengu.ch` | No |
 | `tenhou.in` | Yes |
@@ -46565,8 +46572,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,705 |
-| Normal | 33,817 |
+| Cloudflare | 12,708 |
+| Normal | 33,821 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
