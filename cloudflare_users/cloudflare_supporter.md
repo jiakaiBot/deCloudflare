@@ -10212,6 +10212,7 @@ Do not create new issue or we will close it as duplicate.
 | [q_thatguy@twitter](https://twitter.com/q_thatguy/status/1601748909038374915) | advertise |
 | [q_vz88@twitter](https://twitter.com/q_vz88/status/1588861118705184769) | advertise |
 | [r0c4p1a@twitter](https://twitter.com/r0c4p1a/status/1489935636815568897) | advertise |
+| [R0u9h@twitter](https://twitter.com/R0u9h/status/1687422630230712320) | advertise |
 | [R0wPh@twitter](https://twitter.com/R0wPh/status/1687422630230712320) | advertise |
 | [R1_Khalid@twitter](https://twitter.com/R1_Khalid/status/1607573474477744131) | advertise |
 | [R2bEEaton@twitter](https://twitter.com/R2bEEaton/status/1687157580416630784) | advertise |
@@ -14237,6 +14238,7 @@ Do not create new issue or we will close it as duplicate.
 | [_c_s_504@twitter](https://twitter.com/_c_s_504/status/1643776491417661441) | advertise |
 | [_DepvaOTP_@twitter](https://twitter.com/_DepvaOTP_/status/1399004303788888067) | advertise |
 | [_ejlazaro@twitter](https://twitter.com/_ejlazaro/status/1600045438387691525) | advertise |
+| [_G_RR_@twitter](https://twitter.com/_G_RR_/status/1688042550144217089) | advertise |
 | [_haibala_@twitter](https://twitter.com/_haibala_/status/1623057255519358976) | advertise |
 | [_hermanto@twitter](https://twitter.com/_hermanto/status/1676635911608750080) | advertise |
 | [_htet1@twitter](https://twitter.com/_htet1/status/1390121428360433672) | advertise |
