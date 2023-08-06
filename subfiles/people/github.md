@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Novel Updates cloudflare unbypassable](https://github.com/LNReader/lnreader-sources/issues/562)
 - [Can't run start.bat](https://github.com/Omega-Slender/ITSNOTPOEVER-ST-EDITED/issues/13)
 - [No longer works](https://github.com/TeamPiped/piped-rust-sdk/issues/8)
 - [Poloniex cancel_order() CancelPending error](https://github.com/ccxt/ccxt/issues/18785)
