@@ -463,6 +463,7 @@ Do not create new issue or we will close it as duplicate.
 | [ahmad_antezar@twitter](https://twitter.com/ahmad_antezar/status/1532609013854109696) | advertise |
 | [Ahmaf285033755@twitter](https://twitter.com/Ahmaf285033755/status/1648046148333064200) | advertise |
 | [ahmdh4474@twitter](https://twitter.com/ahmdh4474/status/1390763076660736001) | advertise |
+| [ahmeae642@twitter](https://twitter.com/ahmeae642/status/1688266511369031680) | advertise |
 | [Ahmed57597025@twitter](https://twitter.com/Ahmed57597025/status/1535713741622370304) | advertise |
 | [Ahmed74149503@twitter](https://twitter.com/Ahmed74149503/status/1568224901600796673) | advertise |
 | [AhmedAl05940302@twitter](https://twitter.com/AhmedAl05940302/status/1633305825140781056) | advertise |
@@ -11786,6 +11787,7 @@ Do not create new issue or we will close it as duplicate.
 | [T05349547@twitter](https://twitter.com/T05349547/status/1671193309119905792) | advertise |
 | [T2ikJpl7nVsB4AN@twitter](https://twitter.com/T2ikJpl7nVsB4AN/status/1548789731005124608) | advertise |
 | [T1246N1@twitter](https://twitter.com/T1246N1/status/1685678313384345600) | advertise |
+| [T16028Titi@twitter](https://twitter.com/T16028Titi/status/1688278804056145920) | advertise |
 | [t1234231@twitter](https://twitter.com/t1234231/status/1620980454055903232) | advertise |
 | [T31543226@twitter](https://twitter.com/T31543226/status/1524287509496168448) | advertise |
 | [t36604925@twitter](https://twitter.com/t36604925/status/1619552068800487425) | advertise |
