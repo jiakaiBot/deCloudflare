@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,081 |
+| com | 7,083 |
 | social | 4,436 |
 | net | 3,621 |
 | org | 2,427 |
@@ -5808,7 +5808,7 @@ Here's a list of public Fediverse services.
 | `c8l.net` | Yes |
 | `c99.org` | Yes |
 | `c9users.io` | No |
-| `ca-os.com` | No |
+| `ca-os.com` | Yes |
 | `ca.gy` | Yes |
 | `ca.social` | No |
 | `caa-ins.org` | Yes |
@@ -14245,6 +14245,7 @@ Here's a list of public Fediverse services.
 | `fura.dev` | No |
 | `furactive.us` | No |
 | `furality.social` | No |
+| `furamon.com` | Yes |
 | `furankum.ovh` | No |
 | `furbidden.com` | No |
 | `furby.dev` | No |
@@ -38806,6 +38807,7 @@ Here's a list of public Fediverse services.
 | `stsecurity.moe` | Yes |
 | `stsf.dev` | No |
 | `stsf.tokyo` | No |
+| `stsfootball.com` | No |
 | `ststodon.org` | No |
 | `stuartbrand.co.uk` | No |
 | `stuartbutterworth.co.uk` | No |
@@ -39138,6 +39140,7 @@ Here's a list of public Fediverse services.
 | `suwerenni.org` | No |
 | `suya.place` | No |
 | `suyasuya.love` | Yes |
+| `suzakurin.work` | Yes |
 | `suzi.moe` | Yes |
 | `suzu-ya.info` | Yes |
 | `suzu.eu.org` | No |
@@ -46573,7 +46576,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,708 |
+| Cloudflare | 12,711 |
 | Normal | 33,822 |
 
 
