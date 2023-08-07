@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,086 |
-| social | 4,436 |
+| social | 4,438 |
 | net | 3,622 |
 | org | 2,427 |
 | de | 2,238 |
@@ -5480,6 +5480,7 @@ Here's a list of public Fediverse services.
 | `bruta.link` | Yes |
 | `brutsellog.nl` | No |
 | `bruvland.com` | Yes |
+| `brx.io` | No |
 | `bry.bar` | No |
 | `bryanmacmurray.com` | No |
 | `bryanstone.net` | No |
@@ -19918,7 +19919,7 @@ Here's a list of public Fediverse services.
 | `justpotato.net` | Yes |
 | `justsome.photos` | Yes |
 | `justtact.com` | No |
-| `justtelly.com` | No |
+| `justtelly.com` | Yes |
 | `justuskings.com` | No |
 | `justweb.dev` | No |
 | `juvenesco.eu` | No |
@@ -40504,6 +40505,7 @@ Here's a list of public Fediverse services.
 | `thehacker.jp` | No |
 | `thehackernews.com` | Yes |
 | `thehackerway.com` | No |
+| `thehanger.social` | No |
 | `thehansfords.co.uk` | Yes |
 | `thehappy.world` | No |
 | `thehappyfamily.stream` | No |
@@ -41929,6 +41931,7 @@ Here's a list of public Fediverse services.
 | `triplea.fr` | No |
 | `triplebit.net` | Yes |
 | `triplecore.org` | No |
+| `tripleeyegames.social` | No |
 | `tripleplusgood.us` | No |
 | `triplering.site` | Yes |
 | `trippelm.tv` | No |
@@ -46593,8 +46596,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,720 |
-| Normal | 33,830 |
+| Cloudflare | 12,721 |
+| Normal | 33,832 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
