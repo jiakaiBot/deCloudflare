@@ -198,6 +198,7 @@ Do not create new issue or we will close it as duplicate.
 | [280552f43478454@twitter](https://twitter.com/280552f43478454/status/1399573181753696256) | advertise |
 | [404091phyophyo@twitter](https://twitter.com/404091phyophyo/status/1392052650422652930) | advertise |
 | [32307403hano@twitter](https://twitter.com/32307403hano/status/1562213867593560064) | advertise |
+| [238354129abc@twitter](https://twitter.com/238354129abc/status/1688439305197465601) | advertise |
 | [@muffinista@botsin.space](https://botsin.space/@muffinista) | Mastodon: account suspension (botsin.space) |
 | [@muffinista@cybre.space](https://cybre.space/@muffinista) | Mastodon: account suspension (botsin.space) |
 | [@tchambers@indieweb.social](https://indieweb.social/@tchambers) | Mastodon: account suspension (black cat) |
@@ -5824,6 +5825,7 @@ Do not create new issue or we will close it as duplicate.
 | [kalepaache2@twitter](https://twitter.com/kalepaache2/status/1538952242178539520) | advertise |
 | [kaliim9@twitter](https://twitter.com/kaliim9/status/1574867177223720960) | advertise |
 | [kalilinuxtips@twitter](https://twitter.com/kalilinuxtips/status/1411302042220568576) | moral (advertise) |
+| [KallmeNanaYaw@twitter](https://twitter.com/KallmeNanaYaw/status/1688345172789067776) | advertise |
 | [KallyDev@twitter](https://twitter.com/KallyDev/status/1385031151211798529) | advertise |
 | [kalpana_2004@twitter](https://twitter.com/kalpana_2004/status/1578203096345235456) | advertise |
 | [kalvados_prod@twitter](https://twitter.com/kalvados_prod/status/1379381156609671170) | advertise |
@@ -10644,6 +10646,7 @@ Do not create new issue or we will close it as duplicate.
 | [rtype0147@twitter](https://twitter.com/rtype0147/status/1475061620196151301) | advertise |
 | [rt_gy925@twitter](https://twitter.com/rt_gy925/status/1680384282634907648) | advertise |
 | [rubbenga@twitter](https://twitter.com/rubbenga/status/1374089073091092485) | advertise |
+| [RubbyDk@twitter](https://twitter.com/RubbyDk/status/1688434416966918144) | advertise |
 | [RubelHossina@twitter](https://twitter.com/RubelHossina/status/1400501745688530945) | advertise |
 | [RubelPa32095589@twitter](https://twitter.com/RubelPa32095589/status/1570431276506841091) | advertise |
 | [rubenasturias7@twitter](https://twitter.com/rubenasturias7/status/1398436485519450119) | advertise |
@@ -13139,6 +13142,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vemox1987@twitter](https://twitter.com/Vemox1987/status/1598415178311372800) | advertise |
 | [venchia1@twitter](https://twitter.com/venchia1/status/1639520328413249536) | advertise |
 | [VendorioII@twitter](https://twitter.com/VendorioII/status/1635339511424225280) | advertise |
+| [venguontayninh@twitter](https://twitter.com/venguontayninh/status/1688345053662781440) | advertise |
 | [venkat96r@twitter](https://twitter.com/venkat96r/status/1684531361967931392) | advertise |
 | [venkats02968750@twitter](https://twitter.com/venkats02968750/status/1402898594030526468) | advertise |
 | [Venn34541103@twitter](https://twitter.com/Venn34541103/status/1397760420249804800) | advertise |
