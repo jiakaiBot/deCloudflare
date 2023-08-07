@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,086 |
-| social | 4,438 |
+| social | 4,439 |
 | net | 3,622 |
 | org | 2,427 |
 | de | 2,238 |
@@ -12542,7 +12542,7 @@ Here's a list of public Fediverse services.
 | `feddi.no` | Yes |
 | `feddit.cc` | No |
 | `feddit.ch` | No |
-| `feddit.cl` | No |
+| `feddit.cl` | Yes |
 | `feddit.de` | No |
 | `feddit.dk` | Yes |
 | `feddit.fun` | No |
@@ -18461,6 +18461,7 @@ Here's a list of public Fediverse services.
 | `intersocial.io` | Yes |
 | `intersport.social` | No |
 | `interstate411.us` | Yes |
+| `interstellar.flights` | Yes |
 | `interzone.tw` | Yes |
 | `inthebeliefofbetter.social` | No |
 | `inthecatsdreams.xyz` | No |
@@ -26340,6 +26341,7 @@ Here's a list of public Fediverse services.
 | `mndet.net` | No |
 | `mne.social` | No |
 | `mnementh.co.uk` | No |
+| `mnemo.social` | No |
 | `mnethome.de` | No |
 | `mnetic.ch` | No |
 | `mnetwork.co.kr` | Yes |
@@ -28806,6 +28808,7 @@ Here's a list of public Fediverse services.
 | `nlpagan.net` | No |
 | `nlpaige.me` | No |
 | `nlr.app` | Yes |
+| `nltech.fr` | No |
 | `nluug.social` | No |
 | `nmaggioni.xyz` | Yes |
 | `nmkj.io` | Yes |
@@ -46596,8 +46599,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,721 |
-| Normal | 33,832 |
+| Cloudflare | 12,723 |
+| Normal | 33,833 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
