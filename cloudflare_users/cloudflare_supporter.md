@@ -10645,6 +10645,7 @@ Do not create new issue or we will close it as duplicate.
 | [RRZDxxxRRZD@twitter](https://twitter.com/RRZDxxxRRZD/status/1594360533746323457) | advertise |
 | [RSoontorntem@twitter](https://twitter.com/RSoontorntem/status/1684609386361344000) | advertise |
 | [RtBapu@twitter](https://twitter.com/RtBapu/status/1379872176627662848) | advertise |
+| [Rtu13618@twitter](https://twitter.com/Rtu13618/status/1688469103244087296) | advertise |
 | [rtype0147@twitter](https://twitter.com/rtype0147/status/1475061620196151301) | advertise |
 | [rt_gy925@twitter](https://twitter.com/rt_gy925/status/1680384282634907648) | advertise |
 | [rubbenga@twitter](https://twitter.com/rubbenga/status/1374089073091092485) | advertise |
