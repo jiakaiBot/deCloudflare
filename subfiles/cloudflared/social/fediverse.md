@@ -32741,6 +32741,7 @@ Here's a list of public Fediverse services.
 | `productionservers.net` | No |
 | `productmgmt.social` | No |
 | `producttalk.org` | Yes |
+| `produkti.se` | No |
 | `produnis.de` | No |
 | `profa.co` | No |
 | `profesionalreview.com` | No |
@@ -46600,7 +46601,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,723 |
-| Normal | 33,833 |
+| Normal | 33,834 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
