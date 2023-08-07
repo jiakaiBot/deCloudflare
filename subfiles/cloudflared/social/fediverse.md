@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,081 |
 | social | 4,436 |
-| net | 3,620 |
+| net | 3,621 |
 | org | 2,427 |
 | de | 2,238 |
 
@@ -16832,6 +16832,7 @@ Here's a list of public Fediverse services.
 | `hexaly.se` | No |
 | `hexandcube.eu.org` | Yes |
 | `hexandcube.tk` | No |
+| `hexbear.net` | Yes |
 | `hexconspillfestival.org` | No |
 | `hexdsl.co.uk` | No |
 | `hexe.net` | No |
@@ -27446,7 +27447,7 @@ Here's a list of public Fediverse services.
 | `myfediverse.net` | No |
 | `myfellowverm.in` | Yes |
 | `myfestivals.de` | No |
-| `myflog.net` | Yes |
+| `myflog.net` | No |
 | `myfreckle.com` | No |
 | `myfreecams.com` | No |
 | `myfreetube.de` | Yes |
@@ -46573,7 +46574,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,708 |
-| Normal | 33,821 |
+| Normal | 33,822 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
