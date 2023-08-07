@@ -12664,6 +12664,7 @@ Do not create new issue or we will close it as duplicate.
 | [TquanganTa@twitter](https://twitter.com/TquanganTa/status/1553266413460402176) | advertise |
 | [tra79774787@twitter](https://twitter.com/tra79774787/status/1604896396334616579) | advertise |
 | [TractorSau@twitter](https://twitter.com/TractorSau/status/1637060034638106626) | advertise |
+| [tradegovukUSA@twitter](https://twitter.com/tradegovukUSA/status/1688437225069961216) | advertise |
 | [tradeserg@twitter](https://twitter.com/tradeserg/status/1507822829789716481) | advertise |
 | [TradingGod5@twitter](https://twitter.com/TradingGod5/status/1629806799158214659) | advertise |
 | [Trai49328033@twitter](https://twitter.com/Trai49328033/status/1402999939983056899) | advertise |
@@ -13587,6 +13588,7 @@ Do not create new issue or we will close it as duplicate.
 | [winzawmoemoe1@twitter](https://twitter.com/winzawmoemoe1/status/1377558724198363140) | advertise |
 | [Wirjil@twitter](https://twitter.com/Wirjil/status/1665874509642203136) | advertise |
 | [wirut60803gmai1@twitter](https://twitter.com/wirut60803gmai1/status/1379932785226391552) | advertise |
+| [Wisdom5150@twitter](https://twitter.com/Wisdom5150/status/1688496490564452352) | advertise |
 | [WisdomTav4@twitter](https://twitter.com/WisdomTav4/status/1381666478945136641) | advertise |
 | [wiseaidev@twitter](https://twitter.com/wiseaidev/status/1549259120045334529) | advertise |
 | [wis_ais@twitter](https://twitter.com/wis_ais/status/1393090766000459776) | advertise |
