@@ -2112,6 +2112,7 @@ Do not create new issue or we will close it as duplicate.
 | [carolinawxauth@twitter](https://twitter.com/carolinawxauth/status/1396641317728440328) | advertise |
 | [carot9999999@twitter](https://twitter.com/carot9999999/status/1611394730973335552) | advertise |
 | [CarryMe523@twitter](https://twitter.com/CarryMe523/status/1685075302471344128) | advertise |
+| [CaruTn@twitter](https://twitter.com/CaruTn/status/1688603896443449345) | advertise |
 | [carvalhorafael@twitter](https://twitter.com/carvalhorafael/status/1560351128084267009) | advertise |
 | [Car_campbell@twitter](https://twitter.com/Car_campbell/status/1539598860988948480) | advertise |
 | [casaindigo@twitter](https://twitter.com/casaindigo/status/1457706371248427018) | advertise |
@@ -9465,6 +9466,7 @@ Do not create new issue or we will close it as duplicate.
 | [otp0real@twitter](https://twitter.com/otp0real/status/1618568011639828481) | advertise |
 | [Otprealvaicuk@twitter](https://twitter.com/Otprealvaicuk/status/1621834410533482502) | advertise |
 | [otrwu@twitter](https://twitter.com/otrwu/status/1665858512100917250) | advertise |
+| [OtsuOska@twitter](https://twitter.com/OtsuOska/status/1688606641468628992) | advertise |
 | [OTTP_Tri@twitter](https://twitter.com/OTTP_Tri/status/1605855073263046656) | advertise |
 | [OTUXDwxwiUyHRRU@twitter](https://twitter.com/OTUXDwxwiUyHRRU/status/1478974961666510851) | advertise |
 | [oTxoOBgfiHebstE@twitter](https://twitter.com/oTxoOBgfiHebstE/status/1390823343826210818) | advertise |
@@ -13469,6 +13471,7 @@ Do not create new issue or we will close it as duplicate.
 | [wawasheera1@twitter](https://twitter.com/wawasheera1/status/1531105400228941824) | advertise |
 | [waw_mart@twitter](https://twitter.com/waw_mart/status/1605816108291948544) | advertise |
 | [wayamoti2015@twitter](https://twitter.com/wayamoti2015/status/1671126217167360005) | advertise |
+| [wayward5on@twitter](https://twitter.com/wayward5on/status/1688594371040493577) | advertise |
 | [WBimson999@twitter](https://twitter.com/WBimson999/status/1495052912288018432) | advertise |
 | [WChyuan@twitter](https://twitter.com/WChyuan/status/1620433756577501184) | advertise |
 | [wclwong@twitter](https://twitter.com/wclwong/status/1686394990166220800) | advertise |
