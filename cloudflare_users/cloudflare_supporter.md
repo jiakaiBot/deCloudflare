@@ -769,6 +769,7 @@ Do not create new issue or we will close it as duplicate.
 | [AmirMansoury@twitter](https://twitter.com/AmirMansoury/status/1536930486601195520) | advertise |
 | [AmirParvaresh@twitter](https://twitter.com/AmirParvaresh/status/1601349145331392512) | advertise |
 | [AmirReza1974@twitter](https://twitter.com/AmirReza1974/status/1579067150542974978) | advertise |
+| [AmirShahsavand6@twitter](https://twitter.com/AmirShahsavand6/status/1688679318577094656) | advertise |
 | [AmirShamaei@twitter](https://twitter.com/AmirShamaei/status/1380125118387589121) | advertise |
 | [Amirtalib02@twitter](https://twitter.com/Amirtalib02/status/1564245612412825601) | advertise |
 | [AmirullAyob@twitter](https://twitter.com/AmirullAyob/status/1474048815149682689) | advertise |
@@ -5878,6 +5879,7 @@ Do not create new issue or we will close it as duplicate.
 | [KaraMustafa76@twitter](https://twitter.com/KaraMustafa76/status/1676126946202140678) | advertise |
 | [karanontweater@twitter](https://twitter.com/karanontweater/status/1395265830582112270) | advertise |
 | [KaranSi07920301@twitter](https://twitter.com/KaranSi07920301/status/1563604889799835648) | advertise |
+| [Kareemcoinzz@twitter](https://twitter.com/Kareemcoinzz/status/1688685585479696385) | advertise |
 | [kareldekrab@twitter](https://twitter.com/kareldekrab/status/1506657436379361283) | advertise |
 | [KarkiNabinkumar@twitter](https://twitter.com/KarkiNabinkumar/status/1354921344664707075) | advertise |
 | [Karl_ITNerd@twitter](https://twitter.com/Karl_ITNerd/status/1497518333398245380) | advertise |
@@ -9666,6 +9668,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhamLe75469884@twitter](https://twitter.com/PhamLe75469884/status/1587079210111094784) | advertise |
 | [phammanh180298@twitter](https://twitter.com/phammanh180298/status/1569308331311001603) | advertise |
 | [phamnak179@twitter](https://twitter.com/phamnak179/status/1552091324584988672) | advertise |
+| [phamnhatchi0408@twitter](https://twitter.com/phamnhatchi0408/status/1688638307222339584) | advertise |
 | [PhamPho73652277@twitter](https://twitter.com/PhamPho73652277/status/1551942013079064577) | advertise |
 | [PhamPvm2k5@twitter](https://twitter.com/PhamPvm2k5/status/1669745792863850497) | advertise |
 | [phamtanthi97@twitter](https://twitter.com/phamtanthi97/status/1381221518173085696) | advertise |
