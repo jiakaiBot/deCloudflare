@@ -429,6 +429,7 @@ Do not create new issue or we will close it as duplicate.
 | [agamx_id@twitter](https://twitter.com/agamx_id/status/1542679382497472513) | advertise |
 | [agam_bar6@twitter](https://twitter.com/agam_bar6/status/1674010096018288645) | advertise |
 | [Agape_val_voce@twitter](https://twitter.com/Agape_val_voce/status/1400940706722689027) | advertise |
+| [agatharonaldy@twitter](https://twitter.com/agatharonaldy/status/1688531118772158464) | advertise |
 | [Agent_RBLX@twitter](https://twitter.com/Agent_RBLX/status/1383986062100287491) | advertise |
 | [AGhahremani70@twitter](https://twitter.com/AGhahremani70/status/1479589214345908225) | advertise |
 | [aghil_gmv@twitter](https://twitter.com/aghil_gmv/status/1591880666093826048) | advertise |
@@ -8734,6 +8735,7 @@ Do not create new issue or we will close it as duplicate.
 | [nftsrt@twitter](https://twitter.com/nftsrt/status/1472866208814964740) | advertise |
 | [Ng09091997@twitter](https://twitter.com/Ng09091997/status/1623718287761874944) | advertise |
 | [ng19995@twitter](https://twitter.com/ng19995/status/1562750933624565766) | advertise |
+| [ng72564@twitter](https://twitter.com/ng72564/status/1688529372633088001) | advertise |
 | [Ng17137539@twitter](https://twitter.com/Ng17137539/status/1391247431531077636) | advertise |
 | [ng57176180@twitter](https://twitter.com/ng57176180/status/1540245706174124032) | advertise |
 | [Ng86609674Khang@twitter](https://twitter.com/Ng86609674Khang/status/1609391856785453059) | advertise |
@@ -12507,6 +12509,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tintlwi32042117@twitter](https://twitter.com/Tintlwi32042117/status/1390116993383157760) | advertise |
 | [TintTintKhaing1@twitter](https://twitter.com/TintTintKhaing1/status/1400832688911650817) | advertise |
 | [tinvvx@twitter](https://twitter.com/tinvvx/status/1485901022312923139) | advertise |
+| [tinyss8@twitter](https://twitter.com/tinyss8/status/1688534946347151360) | advertise |
 | [Tinzar83241699@twitter](https://twitter.com/Tinzar83241699/status/1392923373823356931) | advertise |
 | [TinZawAung1@twitter](https://twitter.com/TinZawAung1/status/1496424114910867458) | advertise |
 | [TINZAYYARLIN1@twitter](https://twitter.com/TINZAYYARLIN1/status/1378943503011475461) | advertise |
