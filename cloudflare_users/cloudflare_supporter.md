@@ -3940,6 +3940,7 @@ Do not create new issue or we will close it as duplicate.
 | [GiVTnh87561860@twitter](https://twitter.com/GiVTnh87561860/status/1585233563972431872) | advertise |
 | [gjdunga@twitter](https://twitter.com/gjdunga/status/1400492766312890368) | advertise |
 | [GJoeFurniture@twitter](https://twitter.com/GJoeFurniture/status/1383717145461153795) | advertise |
+| [gjzuckerman@twitter](https://twitter.com/gjzuckerman/status/1688512773397852161) | advertise |
 | [GLACIER98271181@twitter](https://twitter.com/GLACIER98271181/status/1391728548960870401) | advertise |
 | [GLIZZY49306620@twitter](https://twitter.com/GLIZZY49306620/status/1393570520843493382) | advertise |
 | [global354921@twitter](https://twitter.com/global354921/status/1393984954078400513) | advertise |
