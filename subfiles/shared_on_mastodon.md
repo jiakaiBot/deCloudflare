@@ -8,7 +8,7 @@
   - [About Mastodon Users](shared_on_mastodon.md#about-mastodon-users)
 
 # DEPRECATED!
-# **The latest one can be found [here](cloudflared/shared_mastodon.md)**
+# **The latest one can be found [here](cloudflared/social/shared_mastodon.md)**
 
 ----
 
