@@ -2740,6 +2740,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dave05659171@twitter](https://twitter.com/Dave05659171/status/1393287373610528771) | advertise |
 | [Dave06613046@twitter](https://twitter.com/Dave06613046/status/1380672914630959104) | advertise |
 | [DaveFelix19@twitter](https://twitter.com/DaveFelix19/status/1397903875248734216) | advertise |
+| [daveiphone@twitter](https://twitter.com/daveiphone/status/1688572761520717824) | advertise |
 | [David13888855@twitter](https://twitter.com/David13888855/status/1381039404815290369) | advertise |
 | [David35417961@twitter](https://twitter.com/David35417961/status/1393014495702921219) | advertise |
 | [David50480115@twitter](https://twitter.com/David50480115/status/1389979614659813376) | advertise |
@@ -3315,6 +3316,7 @@ Do not create new issue or we will close it as duplicate.
 | [EgjjmniTuRFGjDN@twitter](https://twitter.com/EgjjmniTuRFGjDN/status/1472418260402401283) | advertise |
 | [Ehlay01828178@twitter](https://twitter.com/Ehlay01828178/status/1393452793021698048) | advertise |
 | [EhPhlon@twitter](https://twitter.com/EhPhlon/status/1389913127332945920) | advertise |
+| [ehsan19871987@twitter](https://twitter.com/ehsan19871987/status/1688582929176240129) | advertise |
 | [Ehsan87669509@twitter](https://twitter.com/Ehsan87669509/status/1582531554772803586) | advertise |
 | [ehsanalaei1@twitter](https://twitter.com/ehsanalaei1/status/1385567149012422656) | advertise |
 | [ehsanbayani10@twitter](https://twitter.com/ehsanbayani10/status/1554929103983239169) | advertise |
@@ -4720,6 +4722,7 @@ Do not create new issue or we will close it as duplicate.
 | [HsueAung@twitter](https://twitter.com/HsueAung/status/1387335781677555718) | advertise |
 | [HsuHtooNaing@twitter](https://twitter.com/HsuHtooNaing/status/1393423025236680705) | advertise |
 | [HsuLai11@twitter](https://twitter.com/HsuLai11/status/1390819273321312256) | advertise |
+| [HsuMon60002745@twitter](https://twitter.com/HsuMon60002745/status/1688591554179694592) | advertise |
 | [HsuMyat43415676@twitter](https://twitter.com/HsuMyat43415676/status/1394928648008847366) | advertise |
 | [HsuMyat92759112@twitter](https://twitter.com/HsuMyat92759112/status/1484551155619594246) | advertise |
 | [HsungLine@twitter](https://twitter.com/HsungLine/status/1592145192311980035) | advertise |
@@ -5211,6 +5214,7 @@ Do not create new issue or we will close it as duplicate.
 | [iRozH@twitter](https://twitter.com/iRozH/status/1573496963416334336) | advertise |
 | [irtv24@twitter](https://twitter.com/irtv24/status/1374846989851054086) | advertise |
 | [IruleMyworld019@twitter](https://twitter.com/IruleMyworld019/status/1394091377072377856) | advertise |
+| [IsAaCGGG@twitter](https://twitter.com/IsAaCGGG/status/1688593993318252554) | advertise |
 | [isaacikogan@twitter](https://twitter.com/isaacikogan/status/1511812991112650765) | advertise |
 | [isazaly@twitter](https://twitter.com/isazaly/status/1548264277928476672) | advertise |
 | [iseemagik@twitter](https://twitter.com/iseemagik/status/1550835252100116482) | advertise |
@@ -7994,6 +7998,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mnh60925338@twitter](https://twitter.com/Mnh60925338/status/1553801418288427008) | advertise |
 | [Mnh87240431@twitter](https://twitter.com/Mnh87240431/status/1384919193003376643) | advertise |
 | [MnhNguync1@twitter](https://twitter.com/MnhNguync1/status/1393135682973954048) | advertise |
+| [mnschwn1@twitter](https://twitter.com/mnschwn1/status/1688588200619696128) | advertise |
 | [mn_stayhome@twitter](https://twitter.com/mn_stayhome/status/1390610348839870472) | advertise |
 | [mo7pet@twitter](https://twitter.com/mo7pet/status/1686588583707078656) | advertise |
 | [Mo93094751@twitter](https://twitter.com/Mo93094751/status/1491924355885977604) | advertise |
@@ -9298,6 +9303,7 @@ Do not create new issue or we will close it as duplicate.
 | [n_wuit@twitter](https://twitter.com/n_wuit/status/1376737743619813382) | advertise |
 | [o0Yurpa0o@twitter](https://twitter.com/o0Yurpa0o/status/1381196081145335809) | advertise |
 | [o2osell@twitter](https://twitter.com/o2osell/status/1634923327482638336) | advertise |
+| [o90626763@twitter](https://twitter.com/o90626763/status/1688579456708018176) | advertise |
 | [Oai83223657@twitter](https://twitter.com/Oai83223657/status/1398312021532188684) | advertise |
 | [Oakar10272130@twitter](https://twitter.com/Oakar10272130/status/1391927452830683136) | advertise |
 | [Oakhuck@twitter](https://twitter.com/Oakhuck/status/1622556599754842112) | advertise |
