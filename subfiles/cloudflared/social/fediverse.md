@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,084 |
+| com | 7,085 |
 | social | 4,436 |
 | net | 3,622 |
 | org | 2,427 |
@@ -43377,6 +43377,7 @@ Here's a list of public Fediverse services.
 | `veraciousnetwork.com` | No |
 | `veracity.social` | No |
 | `verbeeld.be` | No |
+| `verboseguacamole.com` | Yes |
 | `verbraucherzentrale.social` | No |
 | `verbrennung.org` | No |
 | `vercel.app` | No |
@@ -46582,7 +46583,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,715 |
+| Cloudflare | 12,716 |
 | Normal | 33,824 |
 
 
