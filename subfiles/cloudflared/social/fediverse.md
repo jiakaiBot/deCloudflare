@@ -10814,6 +10814,7 @@ Here's a list of public Fediverse services.
 | `dxts.dev` | Yes |
 | `dxz.ch` | No |
 | `dy.fi` | No |
+| `dycho.jp` | No |
 | `dydx.moe` | No |
 | `dygytally.academy` | No |
 | `dyke.space` | No |
@@ -42954,7 +42955,7 @@ Here's a list of public Fediverse services.
 | `upsilo.net` | Yes |
 | `upsocial.com` | Yes |
 | `upup.social` | No |
-| `upvo.me` | No |
+| `upvo.me` | Yes |
 | `upvote.au` | No |
 | `upwind.xyz` | No |
 | `upyum.com` | No |
@@ -46583,7 +46584,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,716 |
+| Cloudflare | 12,717 |
 | Normal | 33,824 |
 
 
