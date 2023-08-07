@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,083 |
+| com | 7,084 |
 | social | 4,436 |
-| net | 3,621 |
+| net | 3,622 |
 | org | 2,427 |
 | de | 2,238 |
 
@@ -13642,6 +13642,7 @@ Here's a list of public Fediverse services.
 | `foxnewsofficial.com` | No |
 | `foxocube.xyz` | Yes |
 | `foxpaw.in` | No |
+| `foxpile.online` | No |
 | `foxsden.xyz` | Yes |
 | `foxsibean.cyou` | Yes |
 | `foxstreet.be` | No |
@@ -17365,6 +17366,7 @@ Here's a list of public Fediverse services.
 | `hotfreshporn.com` | No |
 | `hotgarbage.zone` | No |
 | `hotman78.com` | Yes |
+| `hotmilk.space` | Yes |
 | `hoto.moe` | Yes |
 | `hoto.rocks` | Yes |
 | `hoto.us` | Yes |
@@ -20045,6 +20047,7 @@ Here's a list of public Fediverse services.
 | `kaiju.city` | No |
 | `kaiju.social` | Yes |
 | `kaijus.us` | No |
+| `kaikoga.net` | No |
 | `kaikretschmann.de` | No |
 | `kaikyosha.net` | No |
 | `kaimi.cc` | No |
@@ -26455,6 +26458,7 @@ Here's a list of public Fediverse services.
 | `moggy.xyz` | No |
 | `mogle.social` | No |
 | `mograph.social` | No |
+| `mogumogu-croquette.com` | No |
 | `mogwog.org` | No |
 | `mohamednazmi.com` | No |
 | `moi.cx` | Yes |
@@ -31439,6 +31443,7 @@ Here's a list of public Fediverse services.
 | `petitionsforfuture.de` | No |
 | `petitlutinartube.fr` | No |
 | `petitmote.fr` | No |
+| `petitp.eu` | No |
 | `petko.me` | No |
 | `petlover.eu.org` | Yes |
 | `petorikoru.site` | Yes |
@@ -33703,7 +33708,7 @@ Here's a list of public Fediverse services.
 | `randomrul.es` | No |
 | `randomserver.org` | No |
 | `randomsite.quest` | No |
-| `randomsoft.com` | No |
+| `randomsoft.com` | Yes |
 | `randulo.com` | No |
 | `randyr.xyz` | No |
 | `rane.sh` | No |
@@ -35140,7 +35145,7 @@ Here's a list of public Fediverse services.
 | `rustysoft.de` | No |
 | `rustywinks.net` | Yes |
 | `rutan.info` | No |
-| `ruthenic.com` | No |
+| `ruthenic.com` | Yes |
 | `rutile.red` | No |
 | `rutland.org.uk` | No |
 | `ruud.je` | No |
@@ -46576,8 +46581,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,711 |
-| Normal | 33,822 |
+| Cloudflare | 12,714 |
+| Normal | 33,824 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
