@@ -3931,6 +3931,7 @@ Do not create new issue or we will close it as duplicate.
 | [GinTl112@twitter](https://twitter.com/GinTl112/status/1392572589084606465) | advertise |
 | [Gio32429382@twitter](https://twitter.com/Gio32429382/status/1399756747972173830) | advertise |
 | [Giorga113@twitter](https://twitter.com/Giorga113/status/1404012205373280257) | advertise |
+| [girino@twitter](https://twitter.com/girino/status/1688375995999387649) | advertise |
 | [girl97dam@twitter](https://twitter.com/girl97dam/status/1617443536508706823) | advertise |
 | [GIRLSAVENUE1@twitter](https://twitter.com/GIRLSAVENUE1/status/1625758806050488322) | advertise |
 | [Girl_Crypto1102@twitter](https://twitter.com/Girl_Crypto1102/status/1391172773595123714) | advertise |
