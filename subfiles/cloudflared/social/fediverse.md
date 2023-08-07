@@ -1549,6 +1549,7 @@ Here's a list of public Fediverse services.
 | `alerts.social` | No |
 | `alesan.io` | No |
 | `alessio.cc` | No |
+| `aleteoryx.me` | Yes |
 | `alevel.tech` | Yes |
 | `alex.net` | No |
 | `alex0.net` | Yes |
@@ -46581,7 +46582,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,714 |
+| Cloudflare | 12,715 |
 | Normal | 33,824 |
 
 
