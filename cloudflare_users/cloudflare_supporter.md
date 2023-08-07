@@ -4083,6 +4083,7 @@ Do not create new issue or we will close it as duplicate.
 | [GyiTaing@twitter](https://twitter.com/GyiTaing/status/1390243847863681025) | advertise |
 | [GyiYan1@twitter](https://twitter.com/GyiYan1/status/1382690804746047494) | advertise |
 | [GypsumH@twitter](https://twitter.com/GypsumH/status/1389476904667783169) | advertise |
+| [Gypsyscalling@twitter](https://twitter.com/Gypsyscalling/status/1688453100850511872) | advertise |
 | [gyzod@twitter](https://twitter.com/gyzod/status/1624963524664360961) | advertise |
 | [gznlrlay@twitter](https://twitter.com/gznlrlay/status/1665858145078460418) | advertise |
 | [g_garces03@twitter](https://twitter.com/g_garces03/status/1509688123894206465) | advertise |
@@ -7559,6 +7560,7 @@ Do not create new issue or we will close it as duplicate.
 | [MayThaz34512874@twitter](https://twitter.com/MayThaz34512874/status/1394090867972059141) | advertise |
 | [MayThingyanPhy3@twitter](https://twitter.com/MayThingyanPhy3/status/1396519143499657218) | advertise |
 | [MayThu22222@twitter](https://twitter.com/MayThu22222/status/1390721988230979586) | advertise |
+| [maythu89320709@twitter](https://twitter.com/maythu89320709/status/1688448029941219328) | advertise |
 | [MayThuK73930604@twitter](https://twitter.com/MayThuK73930604/status/1395080077566689280) | advertise |
 | [MayZawOo15@twitter](https://twitter.com/MayZawOo15/status/1389910214263156736) | advertise |
 | [MayZin85262683@twitter](https://twitter.com/MayZin85262683/status/1384536807824449537) | advertise |
