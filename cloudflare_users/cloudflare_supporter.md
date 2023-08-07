@@ -3201,6 +3201,7 @@ Do not create new issue or we will close it as duplicate.
 | [duyanh281004@twitter](https://twitter.com/duyanh281004/status/1552223091673399296) | advertise |
 | [duydu11536529@twitter](https://twitter.com/duydu11536529/status/1499044189166006272) | advertise |
 | [duyduy997@twitter](https://twitter.com/duyduy997/status/1471993390979977217) | advertise |
+| [duyhai23@twitter](https://twitter.com/duyhai23/status/1688559197158612992) | advertise |
 | [DuyHng37702644@twitter](https://twitter.com/DuyHng37702644/status/1553022098976608257) | advertise |
 | [duyhngNguyn12@twitter](https://twitter.com/duyhngNguyn12/status/1382329274225487874) | advertise |
 | [Duyke5@twitter](https://twitter.com/Duyke5/status/1388182505082155012) | advertise |
@@ -13975,6 +13976,7 @@ Do not create new issue or we will close it as duplicate.
 | [YoYo39889541@twitter](https://twitter.com/YoYo39889541/status/1390220746203361281) | advertise |
 | [Yoyo72243833@twitter](https://twitter.com/Yoyo72243833/status/1397617873674113026) | advertise |
 | [yoyolay5@twitter](https://twitter.com/yoyolay5/status/1392411457334124545) | advertise |
+| [yrINNERFISH@twitter](https://twitter.com/yrINNERFISH/status/1688561427814981632) | advertise |
 | [YSHRIVASTWA@twitter](https://twitter.com/YSHRIVASTWA/status/1400026519267725312) | advertise |
 | [YThu999@twitter](https://twitter.com/YThu999/status/1378320350136655872) | advertise |
 | [Ytonymlo97@twitter](https://twitter.com/Ytonymlo97/status/1585061094217113600) | advertise |
