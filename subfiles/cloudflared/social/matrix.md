@@ -30,7 +30,6 @@ Here's a list of public Matrix services.
 | matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
 | synapse.bark.lgbt | Yes |
-| bolha.chat | Yes |
 | breeze.town | No |
 | buyvm.chat | No |
 | matrix.cat.casa | No |
@@ -60,11 +59,13 @@ Here's a list of public Matrix services.
 | matrix.gemeinsam.jetzt | No |
 | ggc-project.de | Yes |
 | matrix.glasgow.social | No |
+| matrix.gnulinux.club | No |
 | matrix.grin.hu | No |
 | matrix.group.lt | Yes |
 | hackerspaces.be | No |
 | hackliberty.org | No |
 | matrix.hadoly.fr | No |
+| chatserver.hashi.sbs | Yes |
 | matrix.hingst.net | No |
 | hot-chilli.im | No |
 | synapse.hyteck.de | No |
@@ -97,7 +98,6 @@ Here's a list of public Matrix services.
 | radiowarnerd.org | No |
 | riotchat.de | Yes |
 | ru-matrix.org | No |
-| sans-nuage.fr | No |
 | matrix.sibnsk.net | No |
 | socialnetwork24.com | No |
 | matrix.studichat.de | No |
