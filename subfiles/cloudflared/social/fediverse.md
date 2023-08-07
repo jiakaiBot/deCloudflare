@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,085 |
+| com | 7,086 |
 | social | 4,436 |
 | net | 3,622 |
 | org | 2,427 |
@@ -10647,6 +10647,7 @@ Here's a list of public Fediverse services.
 | `dsnv.net` | No |
 | `dsoc.io` | No |
 | `dsocialize.net` | Yes |
+| `dson.cloud` | Yes |
 | `dsrev.me` | Yes |
 | `dssc.io` | Yes |
 | `dssr.ch` | No |
@@ -13153,6 +13154,7 @@ Here's a list of public Fediverse services.
 | `firedragonstudios.com` | No |
 | `firedragonvideos.com` | No |
 | `firefaithfellowship.com` | Yes |
+| `firefish.boo` | No |
 | `firefish.community` | No |
 | `firefish.lgbt` | No |
 | `firefish.nz` | No |
@@ -14988,6 +14990,7 @@ Here's a list of public Fediverse services.
 | `getprivacy.it` | No |
 | `getpterotype.com` | No |
 | `getradicaldu.de` | No |
+| `getsummary.tech` | Yes |
 | `geturl.net` | No |
 | `getwild.online` | No |
 | `geveze.social` | No |
@@ -17307,6 +17310,7 @@ Here's a list of public Fediverse services.
 | `hornyjail.pro` | No |
 | `hornyold.uk` | No |
 | `horoskop2000.de` | No |
+| `horrendum.com` | No |
 | `horrific.dev` | Yes |
 | `horrorhub.club` | Yes |
 | `hors.zone` | No |
@@ -31343,6 +31347,7 @@ Here's a list of public Fediverse services.
 | `pentacene.cyou` | Yes |
 | `pentacl.es` | No |
 | `pentagram.site` | No |
+| `pentaprogram.tokyo` | No |
 | `pentest.sh` | No |
 | `pentilescu.com` | No |
 | `pentium.cc` | Yes |
@@ -46584,8 +46589,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,717 |
-| Normal | 33,824 |
+| Cloudflare | 12,719 |
+| Normal | 33,827 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
