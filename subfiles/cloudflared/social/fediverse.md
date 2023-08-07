@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,086 |
-| social | 4,439 |
+| social | 4,440 |
 | net | 3,622 |
-| org | 2,428 |
+| org | 2,430 |
 | de | 2,238 |
 
 
@@ -12456,6 +12456,7 @@ Here's a list of public Fediverse services.
 | `fast-break.de` | No |
 | `fast-email.link` | Yes |
 | `fastco.social` | No |
+| `fastcompany.social` | No |
 | `fastdon.com` | No |
 | `fasterwhen.red` | No |
 | `fastly.social` | No |
@@ -13374,6 +13375,7 @@ Here's a list of public Fediverse services.
 | `flra.eu` | No |
 | `fltd.io` | No |
 | `flubbr.nl` | No |
+| `fludiblu.xyz` | No |
 | `fluegge.digital` | No |
 | `fluf.club` | No |
 | `fluff.land` | No |
@@ -14272,6 +14274,7 @@ Here's a list of public Fediverse services.
 | `furpark.kr` | No |
 | `furred.social` | No |
 | `furred.tv` | No |
+| `furri.gay` | Yes |
 | `furria.net` | No |
 | `furries.club` | No |
 | `furries.online` | Yes |
@@ -15881,6 +15884,7 @@ Here's a list of public Fediverse services.
 | `grumpys.online` | Yes |
 | `grunert.dev` | Yes |
 | `grunig.org` | No |
+| `gruntwerk.org` | Yes |
 | `grupli.ga` | No |
 | `grupli.org` | No |
 | `grurple.org` | No |
@@ -21234,6 +21238,7 @@ Here's a list of public Fediverse services.
 | `kostnixladen-bochum.de` | No |
 | `kostnixladen.de` | No |
 | `kostodon.com` | No |
+| `kostyn.ca` | No |
 | `kosuzu.net` | No |
 | `koszarek.dev` | Yes |
 | `kot.jp` | No |
@@ -43135,6 +43140,7 @@ Here's a list of public Fediverse services.
 | `uwu.town` | Yes |
 | `uwucocoa.moe` | Yes |
 | `uwunifi.com` | Yes |
+| `uwuntu.org` | Yes |
 | `uwuwatch.club` | Yes |
 | `uwyn.net` | No |
 | `uxbrad.com` | No |
@@ -46601,8 +46607,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,727 |
-| Normal | 33,831 |
+| Cloudflare | 12,730 |
+| Normal | 33,834 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
