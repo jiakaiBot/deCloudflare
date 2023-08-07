@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Create the NS record FAILED!](https://github.com/ruzickap/ruzickap.github.io/issues/162)
 - [Novel Updates cloudflare unbypassable](https://github.com/LNReader/lnreader-sources/issues/562)
 - [Can't run start.bat](https://github.com/Omega-Slender/ITSNOTPOEVER-ST-EDITED/issues/13)
 - [No longer works](https://github.com/TeamPiped/piped-rust-sdk/issues/8)
