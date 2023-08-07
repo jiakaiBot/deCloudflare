@@ -6078,6 +6078,7 @@ Here's a list of public Fediverse services.
 | `carmo.io` | Yes |
 | `carmody.social` | No |
 | `carnet.ink` | No |
+| `carnetdepunitions.fr` | No |
 | `carnifex.us` | Yes |
 | `carnit.as` | Yes |
 | `carnivore.social` | Yes |
@@ -7475,7 +7476,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -11460,6 +11461,7 @@ Here's a list of public Fediverse services.
 | `emfcamp.org` | No |
 | `emgv.social` | No |
 | `emi.cx` | Yes |
+| `emil.nexus` | No |
 | `emil.work` | No |
 | `emiliabear.com` | Yes |
 | `emily.news` | No |
@@ -19315,6 +19317,7 @@ Here's a list of public Fediverse services.
 | `jesser.dev` | No |
 | `jesserizzo.com` | Yes |
 | `jessesopher.com` | Yes |
+| `jessica.systems` | No |
 | `jessicajournals.com` | Yes |
 | `jessicascott.net` | No |
 | `jessicawallace.de` | No |
@@ -44127,6 +44130,7 @@ Here's a list of public Fediverse services.
 | `wasatchfront.social` | No |
 | `waseda.ac.jp` | Yes |
 | `waseigo.com` | No |
+| `waserryt.me` | No |
 | `washcaps.fans` | No |
 | `washdcmail.com` | No |
 | `washingtonbeach.online` | No |
@@ -46589,8 +46593,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,719 |
-| Normal | 33,827 |
+| Cloudflare | 12,720 |
+| Normal | 33,830 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
