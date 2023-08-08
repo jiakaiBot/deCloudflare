@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cant upload files more than 100MB](https://github.com/filebrowser/filebrowser/issues/2624)
 - [V2B 配置 的Hy 无法启动.](https://github.com/InazumaV/V2bX/issues/11)
 - [behavior tests failed after enabling blocking layer](https://github.com/apache/incubator-opendal/issues/2807)
 - [CloudFlare Browser Isolation Availability Issues](https://github.com/hinoshiba/news/issues/2126)
