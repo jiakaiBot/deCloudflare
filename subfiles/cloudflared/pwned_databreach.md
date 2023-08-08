@@ -149,6 +149,7 @@ Here's a list of breached sites.
 | CrackCommunity (Crack Community) | 19,210 | Yes |
 | CrackedTO (Cracked.to) | 749,161 | Yes |
 | CrackingForum | 660,305 | Yes |
+| CraftRise | 2,532,527 | Yes |
 | Creative | 483,015 | No |
 | CrossFire (Cross Fire) | 12,865,609 | No |
 | CyberServe | 1,107,034 | Yes |
@@ -680,10 +681,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 374 | 3,961,589,639 |
+| Cloudflare | 375 | 3,964,122,166 |
 | Normal | 285 | 4,952,726,203 |
 
 
 
 ### 56.8% of breached sites (pwned sites) are using Cloudflare.
-### 44.4% of leaked accounts are on Cloudflare sites.
+### 44.5% of leaked accounts are on Cloudflare sites.
