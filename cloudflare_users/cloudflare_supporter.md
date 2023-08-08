@@ -2892,6 +2892,7 @@ Do not create new issue or we will close it as duplicate.
 | [deywall@twitter](https://twitter.com/deywall/status/1391105437471232003) | advertise |
 | [dfm_radio@twitter](https://twitter.com/dfm_radio/status/1528603132866924545) | advertise |
 | [DFUnguyen@twitter](https://twitter.com/DFUnguyen/status/1480082669157289985) | advertise |
+| [dgb0ss@twitter](https://twitter.com/dgb0ss/status/1688880703407316992) | advertise |
 | [dhadha_sapkota@twitter](https://twitter.com/dhadha_sapkota/status/1376753394195427332) | advertise |
 | [dhanaraj_mukesh@twitter](https://twitter.com/dhanaraj_mukesh/status/1397963601734881280) | advertise |
 | [dhanishgajjar@twitter](https://twitter.com/dhanishgajjar/status/1404338714147311618) | advertise |
@@ -7057,6 +7058,7 @@ Do not create new issue or we will close it as duplicate.
 | [LongThanhVu__@twitter](https://twitter.com/LongThanhVu__/status/1553070102895296512) | advertise |
 | [LongThuan16@twitter](https://twitter.com/LongThuan16/status/1573958668089167874) | advertise |
 | [longu3t@twitter](https://twitter.com/longu3t/status/1478738046967169026) | advertise |
+| [LongVn53501470@twitter](https://twitter.com/LongVn53501470/status/1688910623810453504) | advertise |
 | [longvu199919@twitter](https://twitter.com/longvu199919/status/1585695984939462656) | advertise |
 | [long_trab@twitter](https://twitter.com/long_trab/status/1490557973038452738) | advertise |
 | [Long_way_to_die@twitter](https://twitter.com/Long_way_to_die/status/1552020406210441216) | advertise |
@@ -9945,6 +9947,7 @@ Do not create new issue or we will close it as duplicate.
 | [poe_yaung@twitter](https://twitter.com/poe_yaung/status/1482158797007331328) | advertise |
 | [PojiRasip@twitter](https://twitter.com/PojiRasip/status/1399647808789966856) | advertise |
 | [pokefan_t2rox@twitter](https://twitter.com/pokefan_t2rox/status/1386785778693332994) | advertise |
+| [POKEMON18887992@twitter](https://twitter.com/POKEMON18887992/status/1688897996346597378) | advertise |
 | [Pokemon98119112@twitter](https://twitter.com/Pokemon98119112/status/1398447530921267202) | advertise |
 | [pomdx1@twitter](https://twitter.com/pomdx1/status/1553657199452336128) | advertise |
 | [PomH6655@twitter](https://twitter.com/PomH6655/status/1472934383862517763) | advertise |
