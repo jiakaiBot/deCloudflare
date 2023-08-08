@@ -13050,6 +13050,7 @@ Here's a list of public Fediverse services.
 | `ficosi.de` | No |
 | `ficta.org` | No |
 | `fictionrow.com` | No |
+| `fidart.it` | No |
 | `fiddlebike.us` | No |
 | `fidei.xyz` | Yes |
 | `fideli.us` | No |
@@ -43259,6 +43260,7 @@ Here's a list of public Fediverse services.
 | `vampir.monster` | No |
 | `vampire.estate` | No |
 | `vampirebbs.org` | No |
+| `vampiremaid.cafe` | No |
 | `vampyrebytes.net` | Yes |
 | `vamuki.club` | No |
 | `van-de-weerd.net` | No |
@@ -46643,7 +46645,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,743 |
-| Normal | 33,856 |
+| Normal | 33,858 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
