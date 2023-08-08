@@ -32536,6 +32536,7 @@ Here's a list of public Fediverse services.
 | `potato.church` | No |
 | `potato.ski` | No |
 | `potato.technology` | No |
+| `potatoe.ca` | Yes |
 | `potatofrom.space` | Yes |
 | `potatoxel.org` | No |
 | `potchan.org` | Yes |
@@ -46645,7 +46646,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,743 |
+| Cloudflare | 12,744 |
 | Normal | 33,859 |
 
 
