@@ -1600,6 +1600,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bcubed18@twitter](https://twitter.com/Bcubed18/status/1407119349769551877) | advertise |
 | [BDanhThn1@twitter](https://twitter.com/BDanhThn1/status/1553784695812653056) | advertise |
 | [bdksd3b@twitter](https://twitter.com/bdksd3b/status/1384384819270979586) | advertise |
+| [Bdnzjjendkdndne@twitter](https://twitter.com/Bdnzjjendkdndne/status/1182422221253427201) | advertise |
 | [bds_hoangnhh@twitter](https://twitter.com/bds_hoangnhh/status/1571556199933554688) | advertise |
 | [Bearguysan20@twitter](https://twitter.com/Bearguysan20/status/1595127683901403136) | advertise |
 | [Beast29769840@twitter](https://twitter.com/Beast29769840/status/1396382427304521728) | advertise |
@@ -11237,6 +11238,7 @@ Do not create new issue or we will close it as duplicate.
 | [shiva68995788@twitter](https://twitter.com/shiva68995788/status/1379824052232130561) | advertise |
 | [shiva73839730@twitter](https://twitter.com/shiva73839730/status/1486204658855125001) | advertise |
 | [SHIVAIN23124937@twitter](https://twitter.com/SHIVAIN23124937/status/1385521694564098048) | advertise |
+| [ShivaKumar45387@twitter](https://twitter.com/ShivaKumar45387/status/1688774161509036033) | advertise |
 | [Shivam37917303@twitter](https://twitter.com/Shivam37917303/status/1392053697094459398) | advertise |
 | [ShivamC35367451@twitter](https://twitter.com/ShivamC35367451/status/1394547785760862208) | advertise |
 | [Shivani46522218@twitter](https://twitter.com/Shivani46522218/status/1401096442291261443) | advertise |
