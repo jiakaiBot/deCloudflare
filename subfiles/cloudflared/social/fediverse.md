@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,091 |
-| social | 4,441 |
+| social | 4,442 |
 | net | 3,622 |
 | org | 2,431 |
 | de | 2,239 |
@@ -5734,6 +5734,7 @@ Here's a list of public Fediverse services.
 | `byl.fr` | No |
 | `bylines.social` | No |
 | `bylsem.com` | No |
+| `bylukasa.club` | No |
 | `byme.at` | No |
 | `bymyself.org` | No |
 | `bynight.cafe` | Yes |
@@ -9101,6 +9102,7 @@ Here's a list of public Fediverse services.
 | `dax.moe` | No |
 | `dayaman.work` | No |
 | `daydream.cafe` | No |
+| `daydream.ink` | No |
 | `dayl.in` | No |
 | `daytongang.social` | No |
 | `dayvancowboy.net` | Yes |
@@ -13348,7 +13350,7 @@ Here's a list of public Fediverse services.
 | `flopnet.eu` | No |
 | `floppy.ml` | No |
 | `floppy.tokyo` | No |
-| `floral.town` | Yes |
+| `floral.town` | No |
 | `floressencia.social` | No |
 | `florian-brinker.de` | No |
 | `florian.ec` | Yes |
@@ -20789,7 +20791,7 @@ Here's a list of public Fediverse services.
 | `kiraako.work` | No |
 | `kiracollie.dog` | No |
 | `kirakiratter.com` | Yes |
-| `kiran.dog` | No |
+| `kiran.dog` | Yes |
 | `kiranshila.com` | No |
 | `kirb.me` | Yes |
 | `kirby-fans.com` | No |
@@ -31549,6 +31551,7 @@ Here's a list of public Fediverse services.
 | `phasorburn.com` | Yes |
 | `phast.ru` | Yes |
 | `phatcat.online` | No |
+| `phater.xyz` | Yes |
 | `phatnastytour.com` | No |
 | `phaysis.com` | No |
 | `phdstudents.space` | No |
@@ -33979,6 +33982,7 @@ Here's a list of public Fediverse services.
 | `reaves.dev` | No |
 | `reax.work` | Yes |
 | `reb.social` | No |
+| `reba.voyage` | No |
 | `rebased.io` | Yes |
 | `rebased.network` | Yes |
 | `rebased.social` | Yes |
@@ -41712,6 +41716,7 @@ Here's a list of public Fediverse services.
 | `touhou.vodka` | No |
 | `touitteur.net` | Yes |
 | `toukae.com` | No |
+| `toulouse.social` | No |
 | `tourdeguet.fr` | No |
 | `tourmentine.com` | No |
 | `tourtoise.quest` | No |
@@ -46625,8 +46630,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,736 |
-| Normal | 33,846 |
+| Cloudflare | 12,737 |
+| Normal | 33,850 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
