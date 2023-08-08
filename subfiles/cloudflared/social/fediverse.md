@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,089 |
+| com | 7,090 |
 | social | 4,441 |
 | net | 3,622 |
 | org | 2,431 |
@@ -45157,6 +45157,7 @@ Here's a list of public Fediverse services.
 | `wurdahmekanik.xyz` | No |
 | `wurm.host` | No |
 | `wurmela.de` | No |
+| `wurtshell.com` | No |
 | `wurzelmann.at` | No |
 | `wusz.org` | No |
 | `wuthering.online` | Yes |
@@ -46622,7 +46623,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,735 |
-| Normal | 33,843 |
+| Normal | 33,844 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
