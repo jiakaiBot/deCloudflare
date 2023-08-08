@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,086 |
+| com | 7,087 |
 | social | 4,441 |
 | net | 3,622 |
-| org | 2,430 |
+| org | 2,431 |
 | de | 2,238 |
 
 
@@ -4710,7 +4710,7 @@ Here's a list of public Fediverse services.
 | `blindwith.science` | Yes |
 | `blinry.org` | No |
 | `bliothek.social` | No |
-| `blip.cf` | No |
+| `blip.cf` | Yes |
 | `blipdrifter.com` | No |
 | `blisscampus.com` | No |
 | `blisses.org` | No |
@@ -23381,6 +23381,7 @@ Here's a list of public Fediverse services.
 | `lucfaucher.fr` | No |
 | `lucha.nyc` | No |
 | `lucid.community` | No |
+| `lucid.moe` | Yes |
 | `lucida-don.net` | No |
 | `lucida-memo.info` | No |
 | `lucida-note.info` | No |
@@ -25589,6 +25590,7 @@ Here's a list of public Fediverse services.
 | `methanolinjected.club` | No |
 | `method-n.com` | No |
 | `metokur.org` | Yes |
+| `metreee.com` | No |
 | `metrix.network` | No |
 | `metro.bieszczady.pl` | No |
 | `metro.social` | Yes |
@@ -31980,6 +31982,7 @@ Here's a list of public Fediverse services.
 | `pla1.net` | No |
 | `place-of-refuge.com` | No |
 | `placedelhorloge.fr` | No |
+| `plack.app` | Yes |
 | `plaerdemavida.cat` | No |
 | `plaf.fr` | No |
 | `plag.gy` | No |
@@ -44615,6 +44618,7 @@ Here's a list of public Fediverse services.
 | `wihel.de` | Yes |
 | `wiki-tube.de` | No |
 | `wiki.style` | No |
+| `wikileaks2.org` | No |
 | `wikilibriste.fr` | No |
 | `wikimedia.de` | No |
 | `wikimedia.es` | No |
@@ -46609,8 +46613,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,728 |
-| Normal | 33,838 |
+| Cloudflare | 12,731 |
+| Normal | 33,839 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
