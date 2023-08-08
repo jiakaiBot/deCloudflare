@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [behavior tests failed after enabling blocking layer](https://github.com/apache/incubator-opendal/issues/2807)
 - [CloudFlare Browser Isolation Availability Issues](https://github.com/hinoshiba/news/issues/2126)
 - [CloudFlare Browser Isolation Availability Issues](https://github.com/MatBenfield/news/issues/17365)
 - [Create the NS record FAILED!](https://github.com/ruzickap/ruzickap.github.io/issues/162)
