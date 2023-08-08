@@ -1739,6 +1739,7 @@ Here's a list of public Fediverse services.
 | `alongtheray.social` | Yes |
 | `alpa.social` | Yes |
 | `alpaca.gold` | No |
+| `alpacaverse.games` | No |
 | `alpaka.garden` | No |
 | `alpaka.pictures` | No |
 | `alpaka.social` | No |
@@ -46645,7 +46646,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,743 |
-| Normal | 33,858 |
+| Normal | 33,859 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
