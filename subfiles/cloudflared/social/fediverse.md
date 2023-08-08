@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,087 |
+| com | 7,089 |
 | social | 4,441 |
 | net | 3,622 |
 | org | 2,431 |
-| de | 2,238 |
+| de | 2,239 |
 
 
 - Mastodon, Pleroma, etc
@@ -4395,6 +4395,7 @@ Here's a list of public Fediverse services.
 | `bioklaani.horse` | No |
 | `biologianaweb.com.br` | No |
 | `biologists.social` | No |
+| `biometric-surveillance.eu` | No |
 | `bionicbeer.com` | No |
 | `biont.space` | No |
 | `biophilicresearch.net` | No |
@@ -6300,6 +6301,7 @@ Here's a list of public Fediverse services.
 | `ccccoding.club` | No |
 | `cccp.io` | No |
 | `cccwi.social` | No |
+| `ccf.sh` | No |
 | `ccllssd.com` | Yes |
 | `ccp.ovh` | Yes |
 | `ccqjv.com` | No |
@@ -8268,6 +8270,7 @@ Here's a list of public Fediverse services.
 | `ctmiller.net` | No |
 | `ctrl-shift.net` | No |
 | `ctrlaltdog.xyz` | No |
+| `ctrlaltelite.xyz` | Yes |
 | `ctrlobsolete.com` | Yes |
 | `ctrlz.es` | Yes |
 | `ctseuro.com` | No |
@@ -11880,6 +11883,7 @@ Here's a list of public Fediverse services.
 | `esquinafeliz.com` | No |
 | `esrever.cc` | No |
 | `essex.social` | Yes |
+| `essjax.com` | No |
 | `essmann.com` | No |
 | `essmann.online` | No |
 | `est.social` | No |
@@ -16681,6 +16685,7 @@ Here's a list of public Fediverse services.
 | `hellch.at` | No |
 | `hellchat.club` | No |
 | `hellcom.live` | No |
+| `hellholesys.gay` | Yes |
 | `hellholesys.tk` | No |
 | `hellions.cloud` | Yes |
 | `hellmage.com` | No |
@@ -23011,6 +23016,7 @@ Here's a list of public Fediverse services.
 | `localecho.net` | Yes |
 | `localghost.ooo` | Yes |
 | `localghost.org` | No |
+| `localharvestsupply.com` | No |
 | `localhost.fyi` | No |
 | `localhost.run` | No |
 | `localhost5000.net` | Yes |
@@ -30355,6 +30361,7 @@ Here's a list of public Fediverse services.
 | `orbx.net` | No |
 | `orc.social` | No |
 | `orc.zone` | No |
+| `orcacruises.pro` | Yes |
 | `orcaphant.cool` | No |
 | `orchard.social` | No |
 | `orchestra.md` | No |
@@ -34808,7 +34815,7 @@ Here's a list of public Fediverse services.
 | `roguecycle.net` | No |
 | `roguelabs.tech` | No |
 | `rogueofhe.art` | No |
-| `roguerevan.com` | No |
+| `roguerevan.com` | Yes |
 | `rohangrey.net` | No |
 | `rohr.org` | No |
 | `roiarthurb.xyz` | No |
@@ -40222,6 +40229,7 @@ Here's a list of public Fediverse services.
 | `teu.ac.jp` | No |
 | `teufel100.de` | No |
 | `teuto.icu` | Yes |
+| `teutronic-services.de` | No |
 | `teutsch.me` | No |
 | `tevps.net` | No |
 | `tew.social` | No |
@@ -46613,8 +46621,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,731 |
-| Normal | 33,839 |
+| Cloudflare | 12,735 |
+| Normal | 33,843 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
