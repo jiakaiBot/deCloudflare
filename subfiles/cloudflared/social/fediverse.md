@@ -25910,6 +25910,7 @@ Here's a list of public Fediverse services.
 | `milker.cafe` | Yes |
 | `milkers.online` | No |
 | `milkey.homes` | Yes |
+| `milkiyatelier.quest` | Yes |
 | `milkrun.de` | No |
 | `milksoup.net` | No |
 | `milksteak.org` | Yes |
@@ -40206,6 +40207,7 @@ Here's a list of public Fediverse services.
 | `tertech.de` | No |
 | `terusid.com` | No |
 | `terz.at` | No |
+| `terzet.lv` | Yes |
 | `terziu.xyz` | Yes |
 | `tesaguri.club` | No |
 | `tese.la` | Yes |
@@ -46646,7 +46648,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,744 |
+| Cloudflare | 12,746 |
 | Normal | 33,859 |
 
 
