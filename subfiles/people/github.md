@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Possibility of increased errors for Durable Objects and R2 in Western Europe](https://github.com/MatBenfield/news/issues/17409)
+- [CloudFlare Possibility of increased errors for Durable Objects and R2 in Western Europe](https://github.com/hinoshiba/news/issues/2172)
 - [Cant upload files more than 100MB](https://github.com/filebrowser/filebrowser/issues/2624)
 - [V2B 配置 的Hy 无法启动.](https://github.com/InazumaV/V2bX/issues/11)
 - [behavior tests failed after enabling blocking layer](https://github.com/apache/incubator-opendal/issues/2807)
