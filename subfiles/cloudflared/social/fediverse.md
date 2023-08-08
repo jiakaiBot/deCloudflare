@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,092 |
+| com | 7,096 |
 | social | 4,442 |
 | net | 3,623 |
 | org | 2,432 |
@@ -419,6 +419,7 @@ Here's a list of public Fediverse services.
 | `3bk.jp` | No |
 | `3cat.icu` | No |
 | `3cgw.de` | No |
+| `3cm.us` | No |
 | `3cmr.fr` | No |
 | `3d-wolf.com` | No |
 | `3d3r.de` | No |
@@ -7075,6 +7076,7 @@ Here's a list of public Fediverse services.
 | `clazy.org` | No |
 | `clb92.xyz` | No |
 | `clc.plus` | No |
+| `clck.page` | No |
 | `cldsvc.io` | No |
 | `cleac.me` | No |
 | `cleantechnica.com` | Yes |
@@ -9796,6 +9798,7 @@ Here's a list of public Fediverse services.
 | `dicksdeathabove.xyz` | No |
 | `dickshow.social` | No |
 | `dicrescenzo.cloud` | No |
+| `dictatorshipcake.co.uk` | No |
 | `dictionary-of-miu.de` | No |
 | `did84.fr` | No |
 | `diddlyfx.space` | No |
@@ -17961,6 +17964,7 @@ Here's a list of public Fediverse services.
 | `ihatethedemonkahl.com` | Yes |
 | `ihatovo.com` | No |
 | `ihax0r.com` | No |
+| `iheartmichelle.com` | No |
 | `ihobby.org` | No |
 | `ihoronir.com` | Yes |
 | `ihost.fi` | No |
@@ -28014,6 +28018,7 @@ Here's a list of public Fediverse services.
 | `neat.computer` | Yes |
 | `neat.pub` | Yes |
 | `neat.tube` | Yes |
+| `neatia.xyz` | Yes |
 | `neatidea.net` | No |
 | `neb.cx` | Yes |
 | `neb.host` | No |
@@ -31610,6 +31615,7 @@ Here's a list of public Fediverse services.
 | `philoxweb.be` | No |
 | `philpin.com` | Yes |
 | `philpot.org` | No |
+| `philtanner.com` | No |
 | `phirat.club` | No |
 | `phire.place` | No |
 | `phishermanswarf.com` | No |
@@ -32930,6 +32936,7 @@ Here's a list of public Fediverse services.
 | `psychedelia.ink` | No |
 | `psychedelic.cat` | No |
 | `psychoactive.space` | No |
+| `psychobatic.com` | No |
 | `psychocandy.club` | No |
 | `psychocloud.tech` | No |
 | `psychodog.co.uk` | No |
@@ -37532,6 +37539,7 @@ Here's a list of public Fediverse services.
 | `snek.cafe` | Yes |
 | `snek.dev` | Yes |
 | `snek.uk` | No |
+| `snekerpimp.space` | Yes |
 | `snel.co` | No |
 | `snel.host` | No |
 | `snel.im` | No |
@@ -38604,6 +38612,7 @@ Here's a list of public Fediverse services.
 | `stemroot.uk` | No |
 | `stemy.me` | No |
 | `stemzeweg.nl` | No |
+| `sten.com` | No |
 | `stenki.eu` | Yes |
 | `stenneken.de` | No |
 | `stennmedia.nl` | No |
@@ -44977,6 +44986,7 @@ Here's a list of public Fediverse services.
 | `woodphant.fr` | No |
 | `woodplate.club` | No |
 | `woodside.nz` | No |
+| `woodward.tech` | No |
 | `woodwideweb.social` | No |
 | `woodworking.group` | No |
 | `woodynet.net` | No |
@@ -46648,8 +46658,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,746 |
-| Normal | 33,859 |
+| Cloudflare | 12,748 |
+| Normal | 33,867 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
