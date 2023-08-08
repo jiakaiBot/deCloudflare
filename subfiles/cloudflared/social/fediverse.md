@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,090 |
+| com | 7,091 |
 | social | 4,441 |
 | net | 3,622 |
 | org | 2,431 |
@@ -15177,6 +15177,7 @@ Here's a list of public Fediverse services.
 | `gizm0.dev` | Yes |
 | `gizmo-harmonia.social` | No |
 | `gizmo4487.dev` | Yes |
+| `gizmonic-institute.com` | No |
 | `gizode.com` | Yes |
 | `gizz.family` | No |
 | `gjallarhorn.dev` | No |
@@ -18902,6 +18903,7 @@ Here's a list of public Fediverse services.
 | `izumi.pw` | No |
 | `izumiz.me` | No |
 | `izza.party` | Yes |
+| `izzie.mom` | Yes |
 | `izzodlaw.com` | No |
 | `izzy.rodeo` | No |
 | `izzz.fr` | No |
@@ -41380,6 +41382,7 @@ Here's a list of public Fediverse services.
 | `tommy.gg` | Yes |
 | `tommysblog.de` | No |
 | `tomn.co.uk` | No |
+| `tomo.gift` | No |
 | `tomocraft.net` | Yes |
 | `tomocraft.tech` | No |
 | `tomodachi.club` | Yes |
@@ -46622,8 +46625,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,735 |
-| Normal | 33,844 |
+| Cloudflare | 12,736 |
+| Normal | 33,846 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
