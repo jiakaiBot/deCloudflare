@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,086 |
-| social | 4,440 |
+| social | 4,441 |
 | net | 3,622 |
 | org | 2,430 |
 | de | 2,238 |
@@ -6344,6 +6344,7 @@ Here's a list of public Fediverse services.
 | `celestecaprine.com` | No |
 | `celesteh.com` | No |
 | `celestek.xyz` | Yes |
+| `celestia.social` | Yes |
 | `celestialscribe.online` | No |
 | `celestialspheres.xyz` | No |
 | `celestialvoice.net` | No |
@@ -7477,7 +7478,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -24740,7 +24741,7 @@ Here's a list of public Fediverse services.
 | `mastodonfrance.com` | No |
 | `mastodong.art` | No |
 | `mastodong.club` | No |
-| `mastodong.lol` | Yes |
+| `mastodong.lol` | No |
 | `mastodong.net` | Yes |
 | `mastodongolf.club` | No |
 | `mastodongroup.social` | No |
@@ -24950,6 +24951,7 @@ Here's a list of public Fediverse services.
 | `matriu.cat` | No |
 | `matrix.garden` | No |
 | `matrix.org` | Yes |
+| `matrix.rocks` | No |
 | `mats.sh` | Yes |
 | `matsimpson.com` | No |
 | `matsu-nico.me` | No |
@@ -46153,7 +46155,7 @@ Here's a list of public Fediverse services.
 | `zachnickell.com` | No |
 | `zackallison.com` | No |
 | `zackboe.hm` | No |
-| `zackery.tv` | Yes |
+| `zackery.tv` | No |
 | `zackroniacs.com` | No |
 | `zackwu.com` | Yes |
 | `zaclys.com` | No |
@@ -46607,8 +46609,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,730 |
-| Normal | 33,834 |
+| Cloudflare | 12,728 |
+| Normal | 33,838 |
 
 
 ### 27.3% of public Fediverse services are using Cloudflare.
