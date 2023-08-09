@@ -7124,6 +7124,7 @@ Do not create new issue or we will close it as duplicate.
 | [LSn15256186@twitter](https://twitter.com/LSn15256186/status/1553368082319839238) | advertise |
 | [LThiBnh48926430@twitter](https://twitter.com/LThiBnh48926430/status/1641564819500453890) | advertise |
 | [LThinn1212@twitter](https://twitter.com/LThinn1212/status/1386337771938222084) | advertise |
+| [LThnh263162@twitter](https://twitter.com/LThnh263162/status/1689305044045418496) | advertise |
 | [lthphngtrm5@twitter](https://twitter.com/lthphngtrm5/status/1394172756917293058) | advertise |
 | [ltinhu4@twitter](https://twitter.com/ltinhu4/status/1563803476294938624) | advertise |
 | [LTnEJJJpwCebucj@twitter](https://twitter.com/LTnEJJJpwCebucj/status/1472960409988521986) | advertise |
@@ -11546,6 +11547,7 @@ Do not create new issue or we will close it as duplicate.
 | [sosunwale@twitter](https://twitter.com/sosunwale/status/1400970212980240394) | advertise |
 | [soulife883@twitter](https://twitter.com/soulife883/status/1618650120001839107) | advertise |
 | [soulmat12366294@twitter](https://twitter.com/soulmat12366294/status/1552314201783148544) | advertise |
+| [Soulrepaired123@twitter](https://twitter.com/Soulrepaired123/status/1689297232003014657) | advertise |
 | [Soumalyaplayz@twitter](https://twitter.com/Soumalyaplayz/status/1495078297268473858) | advertise |
 | [Soumilsiwach1@twitter](https://twitter.com/Soumilsiwach1/status/1380401647990448130) | advertise |
 | [sound_boxxx@twitter](https://twitter.com/sound_boxxx/status/1411259984680210432) | moral (advertise) |
