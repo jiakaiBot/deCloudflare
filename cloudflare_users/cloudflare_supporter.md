@@ -9648,6 +9648,7 @@ Do not create new issue or we will close it as duplicate.
 | [pearler15@twitter](https://twitter.com/pearler15/status/1500015969544155140) | advertise |
 | [peart_claudia@twitter](https://twitter.com/peart_claudia/status/1556322666767843329) | advertise |
 | [PedasReman@twitter](https://twitter.com/PedasReman/status/1683888392193581059) | advertise |
+| [pedrofelipee@twitter](https://twitter.com/pedrofelipee/status/1689385313313976326) | advertise |
 | [pedrogabrielrey@twitter](https://twitter.com/pedrogabrielrey/status/1530707619979186184) | advertise |
 | [PedroLuisPrinc5@twitter](https://twitter.com/PedroLuisPrinc5/status/1406316703324254208) | advertise |
 | [pedro_lucas172@twitter](https://twitter.com/pedro_lucas172/status/1656084098648006658) | advertise |
