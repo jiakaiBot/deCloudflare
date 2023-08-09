@@ -17,6 +17,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 
 Here's a list of public Fediverse services.
+You can also download [Cloudflare-only domains via API](../../service/karma_api.md#get-data).
 
 
 [//]: # (start replacement)
