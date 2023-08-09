@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Architecture: aarch64 not supported](https://github.com/P3TERX/warp.sh/issues/110)
 - [Automatic rpm-ostree update service fails to run](https://github.com/ublue-os/config/issues/90)
 - [Trojan on Xray(M+B+D+G+A)+Caddy(N+T) doesn't work on CDN](https://github.com/lxhao61/integrated-examples/issues/173)
 - ["Do not know how to serialize a BigInt" when inserting numbers](https://github.com/aidenwallis/kysely-d1/issues/21)
