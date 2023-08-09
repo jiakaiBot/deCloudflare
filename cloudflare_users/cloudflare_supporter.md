@@ -6516,6 +6516,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kule37381826@twitter](https://twitter.com/Kule37381826/status/1392536478501146625) | advertise |
 | [Kulit93683344@twitter](https://twitter.com/Kulit93683344/status/1520859475938140160) | advertise |
 | [kuma14966@twitter](https://twitter.com/kuma14966/status/1559042790688190464) | advertise |
+| [KumaraJyot36075@twitter](https://twitter.com/KumaraJyot36075/status/1689059099667992577) | advertise |
 | [KumarAm36779536@twitter](https://twitter.com/KumarAm36779536/status/1383807440425082883) | advertise |
 | [KumarKu22669549@twitter](https://twitter.com/KumarKu22669549/status/1391066399385165825) | advertise |
 | [KumarSs35774113@twitter](https://twitter.com/KumarSs35774113/status/1376845791080423426) | advertise |
@@ -13719,6 +13720,7 @@ Do not create new issue or we will close it as duplicate.
 | [XjwlXx@twitter](https://twitter.com/XjwlXx/status/1403028809415266306) | advertise |
 | [xjx25616339@twitter](https://twitter.com/xjx25616339/status/1593931759464640517) | advertise |
 | [xleygieyem@twitter](https://twitter.com/xleygieyem/status/1674316741504270336) | advertise |
+| [Xllcv2x@twitter](https://twitter.com/Xllcv2x/status/1689078394867064832) | advertise |
 | [xmanhbun@twitter](https://twitter.com/xmanhbun/status/1397539419356221441) | advertise |
 | [xmxm07@twitter](https://twitter.com/xmxm07/status/1688898672681975808) | advertise |
 | [XmzFc@twitter](https://twitter.com/XmzFc/status/1390881317877735427) | advertise |
