@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Trojan on Xray(M+B+D+G+A)+Caddy(N+T) doesn't work on CDN](https://github.com/lxhao61/integrated-examples/issues/173)
 - ["Do not know how to serialize a BigInt" when inserting numbers](https://github.com/aidenwallis/kysely-d1/issues/21)
 - [CloudFlare Cloudflare Tunnel login Availability Issues](https://github.com/hinoshiba/news/issues/2186)
 - [CloudFlare Cloudflare Tunnel login Availability Issues](https://github.com/MatBenfield/news/issues/17425)
