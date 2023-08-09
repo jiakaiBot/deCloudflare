@@ -6263,6 +6263,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kingo74770300@twitter](https://twitter.com/Kingo74770300/status/1620716316163461123) | advertise |
 | [kingpolat5@twitter](https://twitter.com/kingpolat5/status/1397988631265038339) | advertise |
 | [kingpubg121212@twitter](https://twitter.com/kingpubg121212/status/1498498459980255234) | advertise |
+| [kingradfal@twitter](https://twitter.com/kingradfal/status/1689239019933114368) | advertise |
 | [KINGSAM87263995@twitter](https://twitter.com/KINGSAM87263995/status/1400419727210532864) | advertise |
 | [kingsilent6@twitter](https://twitter.com/kingsilent6/status/1556418317107302401) | advertise |
 | [KingStephy2@twitter](https://twitter.com/KingStephy2/status/1398432701095596034) | advertise |
@@ -12882,6 +12883,7 @@ Do not create new issue or we will close it as duplicate.
 | [TtarZzin@twitter](https://twitter.com/TtarZzin/status/1473115853101039618) | advertise |
 | [TTayblack@twitter](https://twitter.com/TTayblack/status/1553438180581724161) | advertise |
 | [Ttleo13@twitter](https://twitter.com/Ttleo13/status/1382004085373595648) | advertise |
+| [TtoGo63141@twitter](https://twitter.com/TtoGo63141/status/1689240251959562240) | advertise |
 | [ttqmanga@twitter](https://twitter.com/ttqmanga/status/1623576776734646272) | advertise |
 | [TTsoknyi@twitter](https://twitter.com/TTsoknyi/status/1390252150224166915) | advertise |
 | [tu417735@twitter](https://twitter.com/tu417735/status/1678791086385561600) | advertise |
@@ -13492,6 +13494,7 @@ Do not create new issue or we will close it as duplicate.
 | [waw_mart@twitter](https://twitter.com/waw_mart/status/1605816108291948544) | advertise |
 | [wayamoti2015@twitter](https://twitter.com/wayamoti2015/status/1671126217167360005) | advertise |
 | [wayward5on@twitter](https://twitter.com/wayward5on/status/1688594371040493577) | advertise |
+| [wbben03@twitter](https://twitter.com/wbben03/status/1689233575478992896) | advertise |
 | [WBimson999@twitter](https://twitter.com/WBimson999/status/1495052912288018432) | advertise |
 | [WChyuan@twitter](https://twitter.com/WChyuan/status/1620433756577501184) | advertise |
 | [wclwong@twitter](https://twitter.com/wclwong/status/1686394990166220800) | advertise |
