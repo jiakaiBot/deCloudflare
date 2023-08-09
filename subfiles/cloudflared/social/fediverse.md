@@ -27,10 +27,10 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,151 |
-| social | 4,449 |
+| com | 7,153 |
+| social | 4,450 |
 | net | 3,634 |
-| org | 2,445 |
+| org | 2,446 |
 | de | 2,250 |
 
 
@@ -2811,6 +2811,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `as59715.net` | No |
 | `as60927.net` | No |
 | `as62430.net` | Yes |
+| `as9136.social` | No |
 | `asa2.xyz` | No |
 | `asabharwal.com` | Yes |
 | `asadurian.com` | No |
@@ -3066,6 +3067,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `atomium.club` | No |
 | `atommac.com` | No |
 | `ator.cz` | No |
+| `atovia.org` | Yes |
 | `atpons.com` | Yes |
 | `atravesdelcuento.es` | No |
 | `atri.ml` | No |
@@ -6708,6 +6710,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `chicano.cloud` | No |
 | `chicchan.me` | Yes |
 | `chiccou.net` | No |
+| `chickadee.cloud` | Yes |
 | `chicken.rodeo` | No |
 | `chickenfan.club` | No |
 | `chickenkiller.com` | No |
@@ -10332,6 +10335,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `domanske.de` | No |
 | `domdom.tokyo` | No |
 | `domentus.nl` | No |
+| `dominic.tech` | Yes |
 | `dominicdewolfe.com` | No |
 | `dominikmarciniak.pl` | No |
 | `dominikschilling.de` | No |
@@ -10942,6 +10946,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `e-kobi.com` | No |
 | `e-orzeszki.pl` | Yes |
 | `e-sophiamedias.fr` | No |
+| `e-sport.me` | No |
 | `e-sports.sk` | No |
 | `e.co.za` | Yes |
 | `e.com.pk` | Yes |
@@ -19868,6 +19873,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `jpicture.net` | No |
 | `jplocalization.social` | No |
 | `jplus7.fr` | No |
+| `jpmaxman.com` | Yes |
 | `jpmstdn.com` | No |
 | `jpn.xyz` | Yes |
 | `jpnatu.net` | Yes |
@@ -20469,6 +20475,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `kayb.ee` | Yes |
 | `kayloehmann.de` | No |
 | `kaylon.org` | No |
+| `kaytse.fun` | No |
 | `kazahana.cafe` | Yes |
 | `kazantsev.fun` | No |
 | `kazar.ma` | No |
@@ -34528,6 +34535,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `retro-ink.com` | No |
 | `retro.pizza` | No |
 | `retro.social` | No |
+| `retrobs.com` | No |
 | `retrochat.online` | No |
 | `retrocomputing.at` | No |
 | `retrodev.social` | No |
@@ -36066,6 +36074,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `schmu.se` | No |
 | `schmurian.xyz` | No |
 | `schmuttermaier.com` | No |
+| `schnaible.cc` | Yes |
 | `schnatter.eu` | No |
 | `schnauzer.social` | No |
 | `schnauzergang.online` | No |
@@ -38509,6 +38518,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `squidnet.net` | No |
 | `squiggly.club` | No |
 | `squirefamily.uk` | No |
+| `squirrel.pub` | No |
 | `squirrelco.social` | No |
 | `squirrelmob.com` | No |
 | `squope.net` | No |
@@ -46878,8 +46888,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,819 |
-| Normal | 34,015 |
+| Cloudflare | 12,824 |
+| Normal | 34,020 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
