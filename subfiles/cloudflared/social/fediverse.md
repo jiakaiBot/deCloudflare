@@ -29,7 +29,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | --- | --- |
 | com | 7,153 |
 | social | 4,451 |
-| net | 3,634 |
+| net | 3,635 |
 | org | 2,446 |
 | de | 2,250 |
 
@@ -4583,7 +4583,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `bjorkbrant.com` | Yes |
 | `bjorkede.no` | No |
 | `bjorngott.com` | Yes |
-| `bk-guild.de` | No |
+| `bk-guild.de` | Yes |
 | `bk.cx` | No |
 | `bka.li` | No |
 | `bkcastle.net` | No |
@@ -16599,6 +16599,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `hawaii247.social` | No |
 | `hawaiiboy.me` | No |
 | `hawaiidiff.com` | No |
+| `hawawa.tech` | Yes |
 | `hawco.ca` | No |
 | `hawk.life` | Yes |
 | `hawkes.cc` | Yes |
@@ -19662,7 +19663,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `joergmorbitzer.rocks` | No |
 | `joeshaw.org` | No |
 | `joev.dev` | No |
-| `joewoods.dev` | No |
+| `joewoods.dev` | Yes |
 | `joeyboon.nl` | No |
 | `joeydevilla.com` | No |
 | `joffreyverd.fr` | No |
@@ -30078,7 +30079,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `okin.cloud` | No |
 | `okinawa-mstdn.okinawa` | No |
 | `okinawadon.okinawa` | No |
-| `okinkin.top` | Yes |
+| `okinkin.top` | No |
 | `okitsu.net` | Yes |
 | `okkema.org` | Yes |
 | `okkikki.tokyo` | No |
@@ -36751,6 +36752,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `shanghaifantasy.com` | Yes |
 | `shanghaifantasy.social` | Yes |
 | `shangri-la.cloud` | No |
+| `shangtai.net` | No |
 | `shanske.com` | No |
 | `shanti.cafe` | No |
 | `shantih19.xyz` | No |
@@ -46889,7 +46891,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,825 |
+| Cloudflare | 12,827 |
 | Normal | 34,020 |
 
 
