@@ -1846,6 +1846,7 @@ Do not create new issue or we will close it as duplicate.
 | [bnh13684640@twitter](https://twitter.com/bnh13684640/status/1552714766829105153) | advertise |
 | [bnhnguy10869985@twitter](https://twitter.com/bnhnguy10869985/status/1556859719465472002) | advertise |
 | [BnhNguynth69220@twitter](https://twitter.com/BnhNguynth69220/status/1686582150433517568) | advertise |
+| [BnjamenJaleel@twitter](https://twitter.com/BnjamenJaleel/status/1689279552894226434) | advertise |
 | [Bo24354593@twitter](https://twitter.com/Bo24354593/status/1404093711986827266) | advertise |
 | [Bo50994020@twitter](https://twitter.com/Bo50994020/status/1586130148004622337) | advertise |
 | [Bo90364251@twitter](https://twitter.com/Bo90364251/status/1392359546568417281) | advertise |
@@ -4803,6 +4804,7 @@ Do not create new issue or we will close it as duplicate.
 | [htet_aye@twitter](https://twitter.com/htet_aye/status/1471226604093263872) | advertise |
 | [Htet_h_Aung@twitter](https://twitter.com/Htet_h_Aung/status/1391336037540978692) | advertise |
 | [htey_lynn@twitter](https://twitter.com/htey_lynn/status/1505826670405566465) | advertise |
+| [Htike45323547@twitter](https://twitter.com/Htike45323547/status/1689280220795179008) | advertise |
 | [HtikeRubby@twitter](https://twitter.com/HtikeRubby/status/1390088167517155328) | advertise |
 | [htinaungoo@twitter](https://twitter.com/htinaungoo/status/1392475019016605700) | advertise |
 | [HtinLin60133006@twitter](https://twitter.com/HtinLin60133006/status/1685178686340055040) | advertise |
@@ -4833,6 +4835,7 @@ Do not create new issue or we will close it as duplicate.
 | [HtunNyein3@twitter](https://twitter.com/HtunNyein3/status/1393004675603910657) | advertise |
 | [HtunTaut@twitter](https://twitter.com/HtunTaut/status/1399667129339809792) | advertise |
 | [HtunWin24461353@twitter](https://twitter.com/HtunWin24461353/status/1397748138413215744) | advertise |
+| [htun_swa@twitter](https://twitter.com/htun_swa/status/1689283620941201409) | advertise |
 | [HtutArkarSoe3@twitter](https://twitter.com/HtutArkarSoe3/status/1384162576414625792) | advertise |
 | [HtutLin5@twitter](https://twitter.com/HtutLin5/status/1403912530016182273) | advertise |
 | [HtutMyoZaw1@twitter](https://twitter.com/HtutMyoZaw1/status/1405503611568738312) | advertise |
@@ -7152,6 +7155,7 @@ Do not create new issue or we will close it as duplicate.
 | [LuckieCrab@twitter](https://twitter.com/LuckieCrab/status/1506372420701204487) | advertise |
 | [lucksingh2@twitter](https://twitter.com/lucksingh2/status/1550432299644514304) | advertise |
 | [LUCKY05314962@twitter](https://twitter.com/LUCKY05314962/status/1390492338623959041) | advertise |
+| [lucky29353266@twitter](https://twitter.com/lucky29353266/status/1689286869786169344) | advertise |
 | [Lucky35575557@twitter](https://twitter.com/Lucky35575557/status/1395626189163798528) | advertise |
 | [Lucky87003842@twitter](https://twitter.com/Lucky87003842/status/1382604960861331456) | advertise |
 | [luckyend20031@twitter](https://twitter.com/luckyend20031/status/1400499682686668801) | advertise |
@@ -7160,6 +7164,7 @@ Do not create new issue or we will close it as duplicate.
 | [lud_xr@twitter](https://twitter.com/lud_xr/status/1559768969719922688) | advertise |
 | [Luffy22712475@twitter](https://twitter.com/Luffy22712475/status/1391575439672365060) | advertise |
 | [Luffy53506801@twitter](https://twitter.com/Luffy53506801/status/1390611648105172994) | advertise |
+| [luhanxcexo@twitter](https://twitter.com/luhanxcexo/status/1689292332258951169) | advertise |
 | [luhtwe1@twitter](https://twitter.com/luhtwe1/status/1392742065449041922) | advertise |
 | [luisantoniomata@twitter](https://twitter.com/luisantoniomata/status/1377051574493663243) | advertise |
 | [LuisBaker___@twitter](https://twitter.com/LuisBaker___/status/1537373187360661504) | advertise |
@@ -12416,6 +12421,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThuKywel@twitter](https://twitter.com/ThuKywel/status/1391427152147480577) | advertise |
 | [ThuLinh45837796@twitter](https://twitter.com/ThuLinh45837796/status/1556577384253784065) | advertise |
 | [thun72999810@twitter](https://twitter.com/thun72999810/status/1405922614225211392) | advertise |
+| [ThunpakornK@twitter](https://twitter.com/ThunpakornK/status/1689284360346779648) | advertise |
 | [thuocla01@twitter](https://twitter.com/thuocla01/status/1607612256971526144) | advertise |
 | [thuong120780@twitter](https://twitter.com/thuong120780/status/1379211441912209408) | advertise |
 | [ThuongLamh70419@twitter](https://twitter.com/ThuongLamh70419/status/1660812028632788992) | advertise |
