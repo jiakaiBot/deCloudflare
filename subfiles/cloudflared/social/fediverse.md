@@ -27,11 +27,11 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,096 |
-| social | 4,442 |
-| net | 3,623 |
-| org | 2,432 |
-| de | 2,242 |
+| com | 7,150 |
+| social | 4,449 |
+| net | 3,632 |
+| org | 2,445 |
+| de | 2,248 |
 
 
 - Mastodon, Pleroma, etc
@@ -149,6 +149,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `0x89.de` | No |
 | `0x90.space` | No |
 | `0xa.pw` | Yes |
+| `0xa1.com` | No |
 | `0xa1.red` | Yes |
 | `0xa1.social` | No |
 | `0xabc.de` | No |
@@ -259,6 +260,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `1791.social` | Yes |
 | `17oc.com` | No |
 | `184.im` | Yes |
+| `18argons.xyz` | No |
 | `18kink.com` | Yes |
 | `18m250.org` | Yes |
 | `1904.social` | No |
@@ -314,6 +316,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `21314.de` | No |
 | `2137.social` | No |
 | `217.icu` | No |
+| `21cli.com` | No |
 | `21x9.org` | No |
 | `2207.fr` | No |
 | `221b.uk` | Yes |
@@ -852,6 +855,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `abdl.link` | Yes |
 | `abdl.social` | No |
 | `abdn.social` | No |
+| `abdullah.fit` | No |
 | `abdulocra.cy` | No |
 | `abeardedqueer.com` | No |
 | `abend.social` | No |
@@ -895,6 +899,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `abortu.com` | No |
 | `about-bitcoin.com` | Yes |
 | `aboutchromebooks.com` | Yes |
+| `abouthere.uk` | Yes |
 | `abpe.org` | Yes |
 | `abq.actor` | Yes |
 | `abraham.social` | No |
@@ -1080,6 +1085,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `adapulawska.org` | Yes |
 | `adast.dk` | No |
 | `adast.xyz` | Yes |
+| `adastral.net` | No |
 | `adawesome.tech` | No |
 | `adb.sh` | No |
 | `adc.social` | No |
@@ -1429,7 +1435,9 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `akashiensis.com` | No |
 | `akashiensis.online` | Yes |
 | `akatony.com` | Yes |
+| `akaza.red` | Yes |
 | `akbkuku.org` | Yes |
+| `akcakazarma.tk` | No |
 | `akebonozo.com` | No |
 | `akerbaek.no` | No |
 | `akhepcat.com` | No |
@@ -1543,6 +1551,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `alebit.com` | No |
 | `alecmuffett.com` | No |
 | `alejandromiranda.org` | No |
+| `alejohnny.me` | Yes |
 | `aleksrudzitis.com` | No |
 | `alemi.dev` | No |
 | `alentours.cc` | No |
@@ -1554,6 +1563,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `alessio.cc` | No |
 | `aleteoryx.me` | Yes |
 | `alevel.tech` | Yes |
+| `alex-kunz.com` | No |
 | `alex.net` | No |
 | `alex0.net` | Yes |
 | `alex73630.xyz` | Yes |
@@ -1941,6 +1951,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `amodernist.com` | No |
 | `amok.today` | No |
 | `amongtech.cc` | No |
+| `amongthestones.com` | No |
 | `amongtheveil.com` | No |
 | `amoonrabbit.reisen` | No |
 | `amor-fati.social` | No |
@@ -2338,6 +2349,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `anvil.social` | No |
 | `anvil.top` | No |
 | `anwalt.pub` | No |
+| `anwheel.com` | No |
 | `anxiety.baby` | No |
 | `anxioustwit.ch` | No |
 | `any-key.press` | No |
@@ -2603,6 +2615,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `arguos.com` | Yes |
 | `argxentaka.to` | Yes |
 | `argyle.place` | No |
+| `argyle.systems` | No |
 | `ari-zone.com` | Yes |
 | `aria.company` | No |
 | `aria.dog` | No |
@@ -2737,6 +2750,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `arthfach.com` | No |
 | `arthropod.social` | No |
 | `arthropod.tech` | No |
+| `arthur.pizza` | Yes |
 | `arthurhollingsworth.com` | No |
 | `artica.center` | No |
 | `articlesofunity.social` | No |
@@ -2753,6 +2767,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `artism.place` | No |
 | `artiss.blog` | No |
 | `artist.cx` | No |
+| `artist.exposed` | No |
 | `artistalley.space` | No |
 | `artistsinthe.cloud` | No |
 | `artless.cc` | No |
@@ -2901,6 +2916,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `assassinate-you.net` | No |
 | `assaultffxiv.com` | No |
 | `assaultli.ly` | Yes |
+| `assawestsussex.org.uk` | No |
 | `asse.world` | No |
 | `asselma.eu` | No |
 | `assemblag.es` | No |
@@ -3248,6 +3264,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `avoel.de` | No |
 | `avogadro.cc` | Yes |
 | `avoh.club` | No |
+| `avoidgamesdev.com` | Yes |
 | `avpd.social` | No |
 | `avtobiografia.com` | Yes |
 | `avtweeps.social` | No |
@@ -3370,6 +3387,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `azazel.fun` | No |
 | `azbulutlu.org` | No |
 | `azbycx.xyz` | Yes |
+| `azbyka.ru` | No |
 | `azfedi.social` | No |
 | `azimuth.place` | Yes |
 | `azisserver.me` | Yes |
@@ -3490,6 +3508,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `backyard.cloud` | No |
 | `backyardsocial.online` | No |
 | `bacn.social` | Yes |
+| `bacondarwin.uk` | Yes |
 | `baconpotato.net` | No |
 | `baconwood.net` | No |
 | `baconx.de` | No |
@@ -3530,6 +3549,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `badonkahonk.com` | No |
 | `badoptics.biz` | Yes |
 | `bados.dev` | No |
+| `bados.win` | Yes |
 | `badpacman.io` | Yes |
 | `badpixels.be` | No |
 | `badposts.net` | No |
@@ -3981,6 +4001,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `beisel.it` | No |
 | `beispieltext.net` | No |
 | `beiting.org` | No |
+| `beitmenotyou.com` | Yes |
 | `beiunsdaham.de` | No |
 | `bejinariu.eu` | No |
 | `bekesi.org` | No |
@@ -4178,6 +4199,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `betamax65.de` | No |
 | `betchesbubble.com` | No |
 | `bethejustin.com` | No |
+| `bettadelic.art` | No |
 | `better.boston` | Yes |
 | `betterconversations.online` | Yes |
 | `betterletter.io` | No |
@@ -4501,6 +4523,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `bitgoblin.tech` | No |
 | `bitgrid.net` | No |
 | `bithope.info` | No |
+| `bitl.dev` | Yes |
 | `bitma.st` | No |
 | `bitmast.club` | No |
 | `bitmycode.com` | No |
@@ -4829,6 +4852,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `blueforest.cc` | Yes |
 | `bluefox.social` | Yes |
 | `bluegate.online` | No |
+| `bluehat.cc` | Yes |
 | `bluejay.social` | Yes |
 | `blueleaks.net` | No |
 | `blueline.mg` | No |
@@ -5048,6 +5072,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `bookofadamz.com` | No |
 | `bookrastinating.com` | No |
 | `books-lighthouse.com` | No |
+| `bookshelf.quest` | No |
 | `bookstodon.com` | No |
 | `bookstodon.net` | No |
 | `booktoot.club` | No |
@@ -5101,6 +5126,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `borderland.tokyo` | No |
 | `borderlandkeep.com` | No |
 | `borderlands.social` | No |
+| `bordom.net` | No |
 | `boredom.land` | No |
 | `bores.com` | No |
 | `borg.social` | Yes |
@@ -5134,6 +5160,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `bosio.dev` | No |
 | `bosio.info` | No |
 | `boskovice.social` | No |
+| `bosmwellness.com` | No |
 | `boson.blue` | No |
 | `boss.taxi` | No |
 | `bosslar.net` | No |
@@ -5676,6 +5703,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `bus-hit.me` | No |
 | `busaiku.com` | No |
 | `busene.dk` | No |
+| `busey.me` | Yes |
 | `bushi.moe` | No |
 | `bushidodreams.com` | No |
 | `bushiroad.space` | Yes |
@@ -5747,6 +5775,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `bynumlaw.net` | No |
 | `byoblu.com` | Yes |
 | `byou.social` | No |
+| `byt3.stream` | Yes |
 | `byte.wtf` | Yes |
 | `byte23.net` | No |
 | `byte49.exposed` | No |
@@ -6085,6 +6114,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `carman.social` | No |
 | `carmantini.com` | No |
 | `carmo.io` | Yes |
+| `carmody.me` | Yes |
 | `carmody.social` | No |
 | `carnet.ink` | No |
 | `carnetdepunitions.fr` | No |
@@ -6838,6 +6868,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `chrislott.org` | No |
 | `chrislovett.com` | Yes |
 | `chrismaiorana.com` | No |
+| `chrismays.blog` | No |
 | `chrismcallister.co.uk` | No |
 | `chrismcleod.dev` | No |
 | `chrispelli.fun` | Yes |
@@ -6935,6 +6966,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ciaranmc.com` | No |
 | `ciberlandia.pt` | No |
 | `ciberneticagerber.it` | No |
+| `cicadas.surf` | No |
 | `cicadaverse.com` | No |
 | `ciccarello.me` | No |
 | `cidemi.lol` | No |
@@ -6973,6 +7005,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `circlez.social` | No |
 | `circuitlocution.com` | No |
 | `circuitpythonshow.com` | No |
+| `circularity.social` | No |
 | `circumception.com` | No |
 | `circumstances.run` | No |
 | `circus.monster` | No |
@@ -7297,6 +7330,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `cochran.social` | No |
 | `cock.fish` | No |
 | `cock.social` | Yes |
+| `cock.tips` | No |
 | `cockandballtortu.re` | No |
 | `cockatoot.city` | No |
 | `cockb.ro` | No |
@@ -7316,6 +7350,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `cocoronavi.com` | Yes |
 | `cocoronavi.net` | Yes |
 | `cocu.cc` | No |
+| `cocytus.services` | Yes |
 | `codatory.com` | Yes |
 | `code-alongsi.de` | No |
 | `code-feather.de` | No |
@@ -7488,7 +7523,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7688,6 +7723,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `constellation-mu.se` | Yes |
 | `constructed.space` | No |
 | `constructinganarchisms.org` | No |
+| `constructionlaw.sg` | Yes |
 | `consudon.club` | No |
 | `consumium.org` | No |
 | `consummatetinkerer.net` | No |
@@ -7784,6 +7820,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `cord.de` | No |
 | `cordelya.net` | Yes |
 | `corduba.tech` | No |
+| `corduroy.biz` | Yes |
 | `cordx.cx` | Yes |
 | `corebreach.com` | No |
 | `corecoding.dev` | No |
@@ -8091,6 +8128,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `crissdepauvre.com` | No |
 | `crissdepauvre.shop` | No |
 | `cristiano.cloud` | No |
+| `cristiioan.me` | Yes |
 | `cristini.social` | No |
 | `critbase.net` | No |
 | `critcare.social` | No |
@@ -8304,6 +8342,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `cubhub.social` | Yes |
 | `cubicgarden.com` | No |
 | `cubieserver.de` | Yes |
+| `cubing.social` | No |
 | `cubyx.eu` | Yes |
 | `cuche.cc` | No |
 | `cucked.me` | Yes |
@@ -8867,6 +8906,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `daotodon.me` | No |
 | `dapchat.online` | No |
 | `daphnestar.com` | No |
+| `dapj.org` | No |
 | `dapor.net` | No |
 | `dapor.org` | No |
 | `dappital.co` | No |
@@ -9376,6 +9416,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `dekuso.blog` | No |
 | `delaage.org` | No |
 | `delab.re` | No |
+| `delabs.net` | No |
 | `delaeuforia.com` | Yes |
 | `delamunoza.es` | No |
 | `delange.us` | No |
@@ -9385,6 +9426,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `delcake.com` | Yes |
 | `delduca.casa` | No |
 | `delepine.info` | No |
+| `deleted.land` | No |
 | `deleteyourfacebook.today` | No |
 | `deleuil.studio` | No |
 | `deli.st` | No |
@@ -9758,6 +9800,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `dialogundsinn.de` | No |
 | `dialup.cafe` | No |
 | `dialup.express` | No |
+| `dialup.party` | No |
 | `dialup.space` | No |
 | `diamondcreeper.org` | Yes |
 | `diamondelizaa.com` | No |
@@ -9806,6 +9849,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `didierlaumen.be` | Yes |
 | `didiermary.fr` | No |
 | `didit.site` | No |
+| `diditstart.com` | No |
 | `didriksen.fo` | No |
 | `die-bingerin.de` | No |
 | `die-familie.link` | No |
@@ -10029,6 +10073,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `dissonanz.xyz` | Yes |
 | `distance.blue` | No |
 | `distant.homes` | No |
+| `distant.social` | Yes |
 | `distantends.net` | No |
 | `distilled.pm` | Yes |
 | `distilled.pub` | No |
@@ -10042,6 +10087,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `distributary.network` | No |
 | `distributed.social` | No |
 | `distribuware.com` | No |
+| `districraft.org` | No |
 | `distrilab.fr` | No |
 | `distrilab.org` | No |
 | `distrotoot.com` | No |
@@ -10098,6 +10144,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `djiko.net` | No |
 | `djitter.com` | No |
 | `djnrrd.com` | No |
+| `djradim.click` | No |
 | `djryan.co.uk` | No |
 | `djs.social` | No |
 | `djs.to` | Yes |
@@ -10113,6 +10160,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `dkm.cloud` | No |
 | `dkub.dev` | Yes |
 | `dkwall.social` | Yes |
+| `dkxpress.dk` | No |
 | `dlazaro.ca` | Yes |
 | `dlct.ca` | No |
 | `dlf.social` | Yes |
@@ -10382,8 +10430,10 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `dorniok.xyz` | No |
 | `doronko.club` | No |
 | `dorothy.day` | No |
+| `dors.et` | No |
 | `dorset.social` | Yes |
 | `dorsey.io` | No |
+| `doseofnews.com` | No |
 | `dosgame.club` | No |
 | `doshi.re` | No |
 | `doshidon.com` | No |
@@ -10620,6 +10670,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `drow.be` | No |
 | `drownthewitch.com` | Yes |
 | `drox.zone` | No |
+| `drphildowns.com` | No |
 | `drrsatzteil.de` | No |
 | `drskrzyk.com` | No |
 | `dru5k1.com` | Yes |
@@ -10644,6 +10695,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `dryusdan.fr` | No |
 | `ds106.us` | Yes |
 | `ds2600.com` | Yes |
+| `dsale.blog` | No |
 | `dsanj.org` | Yes |
 | `dsausa.social` | No |
 | `dsbeans.com` | Yes |
@@ -10660,6 +10712,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `dsj-toot.com` | No |
 | `dskofgrn.xyz` | No |
 | `dsmouse.net` | No |
+| `dsmplex.eu` | Yes |
 | `dsnv.net` | No |
 | `dsoc.io` | No |
 | `dsocialize.net` | Yes |
@@ -10821,6 +10874,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `dwar.fi` | No |
 | `dwards.org` | No |
 | `dwe.ng` | No |
+| `dwell.pub` | No |
 | `dwin.link` | No |
 | `dwntr.xyz` | No |
 | `dwscdv3.com` | Yes |
@@ -11038,6 +11092,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `econudes.org` | No |
 | `ecorp.host` | No |
 | `ecosteader.com` | No |
+| `ecotopiabiketour.net` | No |
 | `ecotri.be` | No |
 | `ecotube.fr` | No |
 | `ecru.social` | No |
@@ -11268,6 +11323,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `el5.net` | Yes |
 | `elaine.is` | Yes |
 | `elandrion.net` | No |
+| `elangley.org` | No |
 | `elao.com` | No |
 | `elarial.tech` | No |
 | `elastic-dystopia.asia` | Yes |
@@ -11777,6 +11833,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ericdube.com` | No |
 | `ericf.social` | Yes |
 | `ericgregorich.com` | Yes |
+| `ericjsz.com` | Yes |
 | `ericjustdoesnotcare.com` | No |
 | `ericlathrop.com` | No |
 | `ericmerlock.social` | No |
@@ -12123,6 +12180,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `exma.de` | No |
 | `exmm.top` | Yes |
 | `exmormon.social` | No |
+| `exmosis.net` | No |
 | `exo.cat` | No |
 | `exo.icu` | No |
 | `exo.tube` | No |
@@ -12201,6 +12259,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ezra.ch` | No |
 | `ezra.social` | No |
 | `ezramiguel.me` | No |
+| `ezrasf.com` | No |
 | `ezumee.com` | No |
 | `ezytech.fr` | No |
 | `ezzz.au` | Yes |
@@ -12673,6 +12732,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `fedi196.gay` | No |
 | `fedia.io` | No |
 | `fedia.social` | No |
+| `fedibase.de` | No |
 | `fedibb.ml` | No |
 | `fedibeest.social` | Yes |
 | `fedibik.es` | No |
@@ -12692,6 +12752,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `fedicity.net` | Yes |
 | `fedico.org` | No |
 | `fediconnect.social` | Yes |
+| `fedicrow.com` | No |
 | `fedida.com` | Yes |
 | `fedidb.org` | Yes |
 | `fedidex.net` | Yes |
@@ -13239,6 +13300,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `fixflare.com` | Yes |
 | `fixionauta.net` | No |
 | `fixitbear.com` | No |
+| `fizmo.org` | No |
 | `fjara.re` | No |
 | `fjdk.uk` | Yes |
 | `fjedon.com` | No |
@@ -13317,6 +13379,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `flexnation.xyz` | No |
 | `flexnet.social` | Yes |
 | `flgl.tech` | No |
+| `fliegel.com` | No |
 | `flifloo.fr` | Yes |
 | `flight-crew.org` | Yes |
 | `flightclub.social` | No |
@@ -13563,6 +13626,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `forklift-certified.fyi` | No |
 | `forlorn.computer` | No |
 | `formansbasement.club` | Yes |
+| `formofthought.com` | Yes |
 | `forms.community` | No |
 | `formu.net` | Yes |
 | `formu1a.social` | Yes |
@@ -13625,6 +13689,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `fotosleben.art` | No |
 | `fotoverse.net` | No |
 | `fotz.cc` | No |
+| `foubtube.com` | No |
 | `fouchard.org` | No |
 | `foucry.net` | No |
 | `foule.net` | No |
@@ -13919,6 +13984,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `freifunk.social` | Yes |
 | `freight.fan` | No |
 | `freihd.de` | No |
+| `freiheitsaktion.de` | No |
 | `freiholtz.net` | No |
 | `freinetz.ch` | No |
 | `freiraumzittau.de` | No |
@@ -14208,6 +14274,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `fullhosting.eu` | No |
 | `fullmoonrva.com` | Yes |
 | `fullof.buzz` | Yes |
+| `fullofwords.com` | No |
 | `fullstackgeek.tech` | No |
 | `fullstuck.net` | No |
 | `fulltermprivacy.com` | No |
@@ -14389,6 +14456,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `fuzz.network` | No |
 | `fuzzbit.ch` | No |
 | `fuzzblob.com` | No |
+| `fuzzbutt.link` | No |
 | `fuzzle.me.uk` | Yes |
 | `fuzzlesoft.ca` | No |
 | `fuzznet.xyz` | No |
@@ -14967,6 +15035,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ger.social` | No |
 | `geraffel.net` | No |
 | `geraffel.social` | No |
+| `gerald.win` | Yes |
 | `gerardbentley.com` | No |
 | `geraspora.de` | No |
 | `gerben.dev` | Yes |
@@ -15248,6 +15317,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `glidden.life` | No |
 | `glie.town` | No |
 | `glindr.org` | Yes |
+| `glipglops.club` | No |
 | `glitch.cx` | Yes |
 | `glitch.lgbt` | No |
 | `glitch.me` | No |
@@ -15426,6 +15496,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `gochiuma.net` | No |
 | `gochiusa.net` | No |
 | `gock.top` | Yes |
+| `gocloud.fun` | No |
 | `godataflow.com` | Yes |
 | `godawful.earth` | No |
 | `goddessphoebe.com` | Yes |
@@ -15648,6 +15719,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `grahammay.me` | Yes |
 | `grahams.wtf` | No |
 | `grahamstewartphoto.com` | Yes |
+| `grailbox.com` | No |
 | `grainedutopie.eu` | No |
 | `gram.social` | Yes |
 | `grammar.jp` | No |
@@ -15942,6 +16014,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `guakamole.org` | No |
 | `guany.in` | No |
 | `guaranteedstruggle.host` | No |
+| `guardian.fm` | No |
 | `gubsercloud.com` | No |
 | `guckt.info` | No |
 | `guddl.de` | No |
@@ -16016,6 +16089,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `gustingwind.com` | No |
 | `gutewebsites.social` | No |
 | `gutsux.com` | No |
+| `gutv.cloud` | Yes |
+| `gutwin.org` | No |
 | `guya.ml` | No |
 | `guyfawkes.social` | No |
 | `guysden.online` | No |
@@ -16234,6 +16309,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `haj.gay` | No |
 | `haj.gf` | No |
 | `haja.nz` | No |
+| `hajduc.com` | No |
 | `haka.se` | Yes |
 | `hakai-macaron.com` | No |
 | `hakase.cloud` | No |
@@ -16680,6 +16756,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `helderferreira.io` | Yes |
 | `heldom.de` | No |
 | `heldscal.la` | No |
+| `helenbledsoe.com` | No |
 | `helene.moe` | Yes |
 | `helene.tk` | Yes |
 | `helenprejean.org` | No |
@@ -16892,6 +16969,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `hezu.art` | No |
 | `hfranco.dev` | No |
 | `hfrc.de` | No |
+| `hgluv.com` | No |
 | `hgoel.dev` | Yes |
 | `hgs.moe` | No |
 | `hh82.de` | No |
@@ -17196,6 +17274,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `holenet.services` | No |
 | `holeyfox.co` | No |
 | `holger.net.cn` | Yes |
+| `holger.tk` | No |
 | `holgerfrohloff.de` | No |
 | `holgerkrupp.de` | No |
 | `holi.chat` | No |
@@ -17340,6 +17419,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `horrific.dev` | Yes |
 | `horrorhub.club` | Yes |
 | `hors.zone` | No |
+| `horscategor.ie` | No |
 | `horse.app` | Yes |
 | `horse.band` | No |
 | `horsecr.app` | No |
@@ -17440,6 +17520,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `howlsoverelpaso.xyz` | No |
 | `hows.id.au` | No |
 | `howse.social` | Yes |
+| `howseven.social` | No |
 | `howtheheck.co` | No |
 | `hoyer.xyz` | No |
 | `hoyle.me.uk` | Yes |
@@ -17450,6 +17531,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `hpea.moe` | Yes |
 | `hpi.social` | No |
 | `hpi.wtf` | No |
+| `hpstube.fr` | No |
 | `hptrow.me` | No |
 | `hqhsmastodon.com` | Yes |
 | `hqpf.site` | No |
@@ -17458,6 +17540,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `hrbrmstr.de` | No |
 | `href.space` | No |
 | `href.ws` | No |
+| `hrkp.ir` | No |
 | `hrmtc.com` | Yes |
 | `hrmtc.io` | Yes |
 | `hrnmtech.de` | No |
@@ -17922,6 +18005,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ifightbigrobots.com` | No |
 | `iflab.org` | Yes |
 | `ifluxcouldkill.net` | No |
+| `ifma-film.de` | No |
 | `ifred.nu` | No |
 | `iftas.org` | No |
 | `iftf.social` | No |
@@ -18217,6 +18301,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `indigedon.com` | No |
 | `indigenouscreatives.social` | No |
 | `indigenousgulf.online` | No |
+| `indigo-k.com` | No |
 | `indigo.zone` | No |
 | `indigophoenix.net` | No |
 | `inditoot.com` | Yes |
@@ -18252,6 +18337,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `infernal.garden` | No |
 | `infernalerror.com` | Yes |
 | `infinimatix.net` | Yes |
+| `infinite.jetzt` | No |
 | `infinite.pink` | No |
 | `infinitedisk.com` | No |
 | `infinitelibraries.com` | No |
@@ -18295,6 +18381,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `infoteck.ru` | No |
 | `infothema.net` | No |
 | `infotik.fr` | No |
+| `infowaste.xyz` | No |
 | `infozdrowie.tv` | No |
 | `infozoo.de` | No |
 | `infra.de` | No |
@@ -18450,6 +18537,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `interferencias.tech` | No |
 | `interfesse.net` | No |
 | `interflow.org` | Yes |
+| `interfunt.com` | No |
 | `intergalactic.computer` | No |
 | `intergalactic.social` | No |
 | `interhacker.space` | No |
@@ -18660,6 +18748,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `irrsinn.video` | No |
 | `irrwitz.com` | No |
 | `irsoluciones.social` | No |
+| `irth.tv` | Yes |
 | `irucabot.com` | Yes |
 | `irumina.net` | No |
 | `irunu.co` | Yes |
@@ -18710,6 +18799,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `isidai.com` | No |
 | `iskillingmusic.com` | No |
 | `iskr.jp` | No |
+| `islameye.com` | No |
 | `islamicate.space` | No |
 | `islamwissenschaft-freiburg.de` | No |
 | `island.social` | No |
@@ -18726,6 +18816,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `isma.to` | No |
 | `ismaelrh.com` | Yes |
 | `isman.fr` | No |
+| `ismiley.net` | No |
 | `ismus.net` | No |
 | `isnot.coffee` | Yes |
 | `isnot.online` | No |
@@ -18756,6 +18847,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ist-ur.org` | No |
 | `ist.social` | No |
 | `istanza.ch` | No |
+| `isthe.cat` | Yes |
 | `istheguy.com` | No |
 | `isthelaststop.com` | No |
 | `istheshit.online` | No |
@@ -18966,6 +19058,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `jackhill.us` | No |
 | `jackhumphrey.me` | Yes |
 | `jacklinke.com` | No |
+| `jacklucksack.com` | No |
 | `jackmeyers.co` | No |
 | `jackpoint.space` | No |
 | `jackpot.pictures` | Yes |
@@ -19264,6 +19357,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `jedillama.net` | No |
 | `jeena.net` | No |
 | `jeff.town` | No |
+| `jeffbell.blog` | No |
 | `jeffburg.social` | Yes |
 | `jeffjeff.us` | No |
 | `jeffl.es` | Yes |
@@ -19405,6 +19499,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `jiaworkspace.com` | No |
 | `jibby.org` | Yes |
 | `jibun.club` | No |
+| `jichi.blog` | Yes |
 | `jidaar.net` | No |
 | `jidong.in` | Yes |
 | `jidoridon.com` | No |
@@ -19447,6 +19542,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `jiong.us` | Yes |
 | `jippi.dev` | Yes |
 | `jir.moe` | No |
+| `jirayu.in.th` | Yes |
 | `jis.work` | Yes |
 | `jisaba.life` | No |
 | `jisco.me` | No |
@@ -19880,6 +19976,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `junaid.dev` | No |
 | `junaidbhura.blog` | No |
 | `junaidbhura.social` | No |
+| `june.lgbt` | No |
 | `jungley.net` | Yes |
 | `juni.tube` | No |
 | `junia.social` | No |
@@ -19929,6 +20026,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `justin-und-florian.de` | Yes |
 | `justin.rs` | Yes |
 | `justinbremer.com` | No |
+| `justinferriman.com` | No |
 | `justinian.codes` | No |
 | `justinmarrington.com` | No |
 | `justinpickard.net` | No |
@@ -20235,6 +20333,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `karaolidis.com` | Yes |
 | `karapara.net` | No |
 | `kararyli.net` | No |
+| `karas.pics` | Yes |
 | `karas.social` | Yes |
 | `karasoulis.com` | Yes |
 | `karasulu.org` | No |
@@ -20857,6 +20956,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `kitazawa.me` | Yes |
 | `kitch.win` | No |
 | `kitchenparty.online` | No |
+| `kitech.dev` | No |
 | `kitetu.com` | No |
 | `kitgxrl.gay` | No |
 | `kith.kitchen` | No |
@@ -21734,8 +21834,10 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `lafriks.id.lv` | No |
 | `lafronz.com` | Yes |
 | `lafroscia.com` | No |
+| `lag.cx` | Yes |
 | `lagacetasalta.com.ar` | Yes |
 | `lagdecolors.cat` | Yes |
+| `lagg-ev.de` | No |
 | `lagob.fr` | No |
 | `lagoonisfun.com` | No |
 | `lagovouni.com` | No |
@@ -22215,6 +22317,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `lemmit.xyz` | Yes |
 | `lemmony.click` | Yes |
 | `lemmus.org` | No |
+| `lemmx.nl` | No |
 | `lemmy.al` | Yes |
 | `lemmy.bayern` | No |
 | `lemmy.best` | Yes |
@@ -22275,6 +22378,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `lemmygrad.ml` | No |
 | `lemmyhub.com` | No |
 | `lemmyjapan.com` | No |
+| `lemmymemes.com` | No |
 | `lemmyngs.social` | No |
 | `lemmyngton.au` | No |
 | `lemmyns.xyz` | No |
@@ -22736,6 +22840,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `linernotes.club` | No |
 | `linfan.moe` | No |
 | `linfiel.com` | Yes |
+| `linglings.party` | Yes |
 | `lingo.lol` | No |
 | `lingodies.com` | No |
 | `lingren.io` | Yes |
@@ -23167,6 +23272,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `loof.life` | Yes |
 | `looka.at` | No |
 | `lookbusy.org` | No |
+| `lookits.me` | No |
 | `loomchild.net` | No |
 | `loomcom.com` | No |
 | `loomy.li` | No |
@@ -23772,6 +23878,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `madinina.social` | No |
 | `madmanmarkau.net` | No |
 | `madmoizelle.com` | Yes |
+| `madmullins.live` | Yes |
 | `mado.moe` | Yes |
 | `madomadon.net` | No |
 | `madost.one` | Yes |
@@ -23877,6 +23984,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `maik.social` | No |
 | `maikaze.moe` | Yes |
 | `maikel.dev` | No |
+| `maikel.uk` | No |
 | `maikmueller.art` | Yes |
 | `mail.at` | No |
 | `mailchar.com` | No |
@@ -23974,6 +24082,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `malegebi.de` | Yes |
 | `malenfant.net` | No |
 | `maleo.uk` | No |
+| `maleplate.dev` | Yes |
 | `malfunctional.net` | No |
 | `malfunctioning.technology` | No |
 | `malgranda.net` | No |
@@ -23998,6 +24107,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `malttea.net` | No |
 | `malu.today` | No |
 | `malua.xyz` | No |
+| `malware.quest` | No |
 | `malware.social` | No |
 | `maly.io` | Yes |
 | `mamalibre.com.ar` | No |
@@ -24442,6 +24552,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `masto.plus` | No |
 | `masto.pt` | Yes |
 | `masto.quebec` | No |
+| `masto.re` | No |
 | `masto.rip` | Yes |
 | `masto.rocks` | No |
 | `masto.se` | Yes |
@@ -24747,6 +24858,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `mastodonarchitecture.org` | No |
 | `mastodonargentina.club` | No |
 | `mastodonaustralia.com.au` | No |
+| `mastodonbelgium.be` | No |
 | `mastodonbg.com` | No |
 | `mastodonblue.com` | Yes |
 | `mastodonbooks.net` | No |
@@ -25019,6 +25131,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `matthewreynolds.net` | Yes |
 | `matthewshanley.com` | No |
 | `matthewthom.as` | Yes |
+| `matthewweber.xyz` | No |
 | `matthewzeman.net` | No |
 | `matthias-bender.de` | No |
 | `matthias.org` | No |
@@ -25188,6 +25301,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `mcmcgraw.com` | No |
 | `mcmullan.org` | Yes |
 | `mcnamarii.town` | No |
+| `mcnas.tk` | No |
 | `mcncraftodon.site` | No |
 | `mcnesium.com` | No |
 | `mcoorlim.com` | No |
@@ -26742,6 +26856,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `morfternight.com` | Yes |
 | `morg.i.ng` | No |
 | `morgane.io` | Yes |
+| `morganestes.com` | Yes |
 | `morgen-kaffee.de` | No |
 | `morgenausgabe.de` | No |
 | `morgenroth.me` | No |
@@ -27323,6 +27438,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `murffys-place.club` | Yes |
 | `muri.network` | Yes |
 | `muri.zip` | No |
+| `murktide.club` | No |
 | `murkworks.net` | No |
 | `murky.club` | No |
 | `murm.gay` | Yes |
@@ -27932,6 +28048,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `natterati.com` | No |
 | `nattois.life` | No |
 | `nattomaki.social` | No |
+| `natty.sh` | No |
 | `nattyvideo.com` | No |
 | `natudon-fishing.net` | No |
 | `natudon-outdoor.net` | No |
@@ -27944,6 +28061,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `naturesmeatcandy.org` | Yes |
 | `naturfuehrer-sh.de` | No |
 | `naturism.social` | No |
+| `naturpartner.org` | Yes |
 | `naturschutz.social` | No |
 | `naudin.cc` | No |
 | `naughtystallion.com` | No |
@@ -28322,9 +28440,11 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `netfg.net` | No |
 | `netfie.ca` | No |
 | `netflux.io` | No |
+| `netfull.org` | No |
 | `nether.net` | No |
 | `netheredge.com` | No |
 | `nethole.us` | No |
+| `netindex.php` | No |
 | `netko.kr` | No |
 | `netlandish.com` | No |
 | `netlib.re` | No |
@@ -28364,6 +28484,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `netwaveip.net` | No |
 | `netwhood.online` | No |
 | `netwkr.net` | Yes |
+| `network23.org` | No |
 | `network47.net` | No |
 | `networkaholic.net` | No |
 | `networked.community` | Yes |
@@ -28632,6 +28753,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `nielsegberts.nl` | No |
 | `nielsemmer.com` | Yes |
 | `niemanlab.org` | No |
+| `nien.house` | Yes |
 | `nieuwspaal.nl` | Yes |
 | `nieuwwestbrabant.nl` | No |
 | `niflheim.social` | No |
@@ -29832,6 +29954,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `offsign.nl` | No |
 | `offsite.guru` | No |
 | `offtopic.town` | No |
+| `ofliliesandremains.art` | No |
 | `ofloo.io` | No |
 | `oflosky.com` | Yes |
 | `ofm.bar` | No |
@@ -30654,6 +30777,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ourvillage.social` | Yes |
 | `ourwebgrove.com` | No |
 | `ous-unofficial-social.com` | No |
+| `out.best` | No |
 | `outadoc.fr` | No |
 | `outaouais.club` | No |
 | `outdoorenthusiasts.space` | No |
@@ -31155,6 +31279,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `paulober.eu` | Yes |
 | `paulopinto.page` | No |
 | `paulrobertlloyd.com` | No |
+| `paulstephenborile.com` | No |
 | `paulwet.com` | No |
 | `paulwilde.uk` | No |
 | `paupers.xyz` | No |
@@ -31234,6 +31359,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `pdx.place` | No |
 | `pdx.sh` | Yes |
 | `pdx.social` | No |
+| `pdxcomicarts.com` | No |
 | `pdxubaru.com` | No |
 | `pe6.eu` | No |
 | `pea.sh` | No |
@@ -31276,6 +31402,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `peer.tube` | No |
 | `peer2peer.help` | No |
 | `peering.social` | No |
+| `peerkids.com` | No |
 | `peerlea.eu.org` | No |
 | `peerlook.ru` | Yes |
 | `peers.community` | No |
@@ -31885,6 +32012,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `pissqordia.space` | No |
 | `pistache.land` | No |
 | `pistoltrainers.com` | No |
+| `piszek.com` | Yes |
 | `pit.ninja` | No |
 | `pitchfork.club` | No |
 | `pite.biz` | No |
@@ -31974,6 +32102,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `pixelspieler.net` | No |
 | `pixey.org` | No |
 | `pixfed.com` | No |
+| `pixfed.uk` | No |
 | `pixie.garden` | No |
 | `pixie.town` | No |
 | `pixificial.xyz` | No |
@@ -32162,6 +32291,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `plot88.uk` | Yes |
 | `ploud.fr` | Yes |
 | `ploud.jp` | Yes |
+| `pls.pet` | No |
 | `plshug.me` | No |
 | `plsn.xyz` | No |
 | `plsnobully.me` | Yes |
@@ -32403,6 +32533,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `pontapreta.net` | No |
 | `pontofixo.net.br` | No |
 | `pontostroy.gq` | No |
+| `pontual.social` | Yes |
 | `pony.cx` | No |
 | `pony.gallery` | No |
 | `pony.social` | Yes |
@@ -32449,6 +32580,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `popura.ch` | No |
 | `porchlogic.com` | Yes |
 | `porcodon.net` | No |
+| `pore.run` | Yes |
+| `pori.co.uk` | Yes |
 | `poridge.club` | No |
 | `porkchop.express` | Yes |
 | `porkribs.social` | No |
@@ -33774,6 +33907,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `rangaya.com` | No |
 | `ranger.vegas` | No |
 | `rangueil.net` | No |
+| `rankenste.in` | No |
 | `rankett.net` | No |
 | `rankle.uk` | No |
 | `ranobe.net` | No |
@@ -33812,6 +33946,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `raptorpond.com` | No |
 | `raraearth.online` | Yes |
 | `raramagi.ga` | No |
+| `rareintel.com` | No |
 | `rareome.ga` | No |
 | `rares.cc` | Yes |
 | `raretrack.uk` | No |
@@ -33968,6 +34103,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `readit.buzz` | Yes |
 | `readme.is` | Yes |
 | `readthefinemanual.net` | No |
+| `readthyself.com` | Yes |
 | `ready.jp` | No |
 | `reaired.com` | Yes |
 | `real-escape.jp` | Yes |
@@ -34473,6 +34609,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `rheinmain.social` | No |
 | `rheinneckar.events` | No |
 | `rheinneckar.social` | Yes |
+| `rhetmap.org` | No |
 | `rhetoricked.com` | No |
 | `rhetro.de` | No |
 | `rheydskey.org` | No |
@@ -34631,6 +34768,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `rita.moe` | Yes |
 | `ritchie.social` | No |
 | `ritec.jp` | No |
+| `rithy.club` | No |
 | `ritimo.org` | No |
 | `ritma.net` | Yes |
 | `ritter.lol` | Yes |
@@ -34802,6 +34940,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `rockpaperjelly.com` | Yes |
 | `rockprofile.com` | Yes |
 | `rockyroad.social` | Yes |
+| `roclongboarding.info` | No |
 | `rocu.de` | Yes |
 | `rodab.party` | No |
 | `rodacy.tv` | Yes |
@@ -35096,6 +35235,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `rubberchicken.social` | No |
 | `rubberdr.one` | No |
 | `rubbery.dev` | Yes |
+| `rubbishsoftware.com` | No |
 | `rubdos.be` | No |
 | `rubedo.cloud` | No |
 | `rubee.buzz` | No |
@@ -35213,6 +35353,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ruxnor.net` | Yes |
 | `ruz.social` | No |
 | `ruzik.xyz` | Yes |
+| `ruzkuku.com` | No |
 | `rv.social` | No |
 | `rva.fyi` | No |
 | `rva.party` | No |
@@ -35529,6 +35670,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `samiandalex.com` | No |
 | `samicrusader.me` | Yes |
 | `samizdat.social` | No |
+| `samizdat.xyz` | Yes |
 | `samizdatpixelpress.net` | Yes |
 | `sammacbeth.eu` | Yes |
 | `sammeechward.com` | Yes |
@@ -35832,11 +35974,13 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `schaeft.li` | No |
 | `schaertl.me` | No |
 | `schaffenburg.org` | No |
+| `schafscheiss.com` | No |
 | `schafweide.org` | No |
 | `schalanda.name` | No |
 | `schalke.social` | No |
 | `schallundstille.de` | No |
 | `schaltwerk.io` | No |
+| `scharfnado.com` | No |
 | `scharner.me` | No |
 | `scharom.de` | No |
 | `schattenwe.lt` | No |
@@ -35942,6 +36086,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `schuerenbo.de` | No |
 | `schuerz.at` | No |
 | `schuessler.vip` | No |
+| `schuhduft.de` | Yes |
 | `schuldt.dev` | No |
 | `schule.social` | No |
 | `schuler.me` | No |
@@ -36081,6 +36226,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `scrumcar.me` | No |
 | `scrun.ch` | Yes |
 | `scruz.social` | Yes |
+| `scsb-ion.xyz` | No |
 | `scssoft.com` | No |
 | `scuba323.com` | Yes |
 | `scubadon.jp` | No |
@@ -36092,7 +36238,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `scutarasu.com` | No |
 | `scuttle.cloud` | Yes |
 | `scuttle.org` | Yes |
-| `scuttlebug.space` | Yes |
+| `scuttlebug.space` | No |
 | `scw.cloud` | No |
 | `scwhost.org` | No |
 | `scy.name` | No |
@@ -36150,6 +36296,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `seanmcadam.online` | No |
 | `seanmorr.is` | Yes |
 | `seann.ca` | Yes |
+| `seanneil.co.uk` | Yes |
 | `seanos.net` | Yes |
 | `seanreiser.com` | Yes |
 | `seanwilliams.social` | Yes |
@@ -36316,6 +36463,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `selectallfromdual.com` | No |
 | `seledreams.com` | No |
 | `selenian.space` | No |
+| `seleniticjournal.com` | Yes |
 | `selent.ca` | No |
 | `selexco.net` | No |
 | `self-host.site` | No |
@@ -36393,6 +36541,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `seo.chat` | Yes |
 | `seocommunity.social` | Yes |
 | `seommunity.com` | Yes |
+| `seos.fr` | No |
 | `seoul.earth` | Yes |
 | `sepbit.com` | Yes |
 | `sepolia.tech` | Yes |
@@ -36453,6 +36602,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `serviceco.re` | Yes |
 | `servidos.app` | Yes |
 | `servilo.xyz` | No |
+| `servingworlds.com` | No |
 | `servperso.net` | Yes |
 | `servus.at` | No |
 | `servus.social` | Yes |
@@ -36499,6 +36649,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `sf.gov` | No |
 | `sf.social` | No |
 | `sfba.social` | No |
+| `sfbay.social` | No |
 | `sfbubble.net` | No |
 | `sfcc.social` | No |
 | `sfcoder.social` | No |
@@ -36553,6 +36704,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `shady2k.ru` | Yes |
 | `shadyvalley.net` | No |
 | `shadywebsite.website` | Yes |
+| `shahbazi.at` | No |
 | `shai.pink` | No |
 | `shakalaka.club` | No |
 | `shakedown.social` | Yes |
@@ -36584,6 +36736,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `sharecrypted.com` | No |
 | `shared.graphics` | No |
 | `sharedspace.social` | No |
+| `sharedwithexpose.com` | Yes |
 | `sharedworld.org` | No |
 | `sharepixels.de` | No |
 | `sharetron.com` | No |
@@ -36829,6 +36982,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `shroom.party` | No |
 | `shrouded.space` | Yes |
 | `shrug.pro` | No |
+| `shrux.net` | No |
 | `shtuf.eu` | No |
 | `shtv.live` | No |
 | `shufudon.com` | No |
@@ -37831,6 +37985,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `solidcharity.net` | No |
 | `solidev.net` | No |
 | `solido.space` | No |
+| `solimano.org` | No |
 | `solinge.eu` | No |
 | `solisoft.top` | No |
 | `solitary.social` | No |
@@ -38467,6 +38622,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `starholder.us` | No |
 | `staria.club` | No |
 | `stark-enterprise.net` | Yes |
+| `starkeith.net` | No |
 | `starkey.family` | No |
 | `starkov.site` | No |
 | `starless.one` | No |
@@ -38784,6 +38940,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `strafpla.net` | No |
 | `straight-edge.net` | No |
 | `straight.coffee` | No |
+| `straightnofilter.com` | No |
 | `stralingsbewust.info` | No |
 | `strandcafe.fr` | No |
 | `strandundmeer.net` | No |
@@ -38812,6 +38969,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `stratinator.com` | Yes |
 | `stratonauts.co` | No |
 | `strats.co` | Yes |
+| `straubserver.com` | Yes |
 | `strausmann.net` | Yes |
 | `straw.social` | Yes |
 | `strawberry-pudding.net` | Yes |
@@ -38890,6 +39048,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `studio10b.nyc` | Yes |
 | `studio92.nl` | No |
 | `studiofreesia.com` | No |
+| `studiohill.farm` | Yes |
 | `studionpc.net` | No |
 | `studiosabatino.it` | No |
 | `studiosjb.net` | No |
@@ -39006,6 +39165,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `sudo.cat` | Yes |
 | `sudo.cx` | Yes |
 | `sudoer.ch` | Yes |
+| `sudogeeks.com` | No |
 | `sudojudo.com` | Yes |
 | `sudoshell.xyz` | No |
 | `sudothei.io` | No |
@@ -39258,6 +39418,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `swamppy.com` | No |
 | `swansinflight.nz` | No |
 | `swapping.space` | No |
+| `swarthmore.edu` | Yes |
 | `swast.club` | No |
 | `sweak.net` | Yes |
 | `swearing.org` | No |
@@ -39508,6 +39669,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `tabathawood.com` | No |
 | `tabi-yume.jp` | No |
 | `tabinezumi.net` | No |
+| `tablar.xyz` | No |
 | `tableflip.zone` | No |
 | `tabletcorry.com` | Yes |
 | `tabletop.garden` | No |
@@ -39954,6 +40116,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `techfeed.io` | No |
 | `techfieldday.net` | Yes |
 | `techfix.co.nz` | No |
+| `techflake.ch` | No |
 | `techfood.space` | No |
 | `techforgood.social` | No |
 | `techfusion.space` | No |
@@ -40952,6 +41115,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `thomas.ma` | Yes |
 | `thomasaldrian.net` | Yes |
 | `thomasdalichow.de` | No |
+| `thomasdeveloper-react.com` | No |
 | `thomasdmn.net` | No |
 | `thomasguignard.photo` | No |
 | `thomashaley.net` | Yes |
@@ -41145,6 +41309,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `tin.fyi` | No |
 | `tinat.eu` | No |
 | `tinax.work` | No |
+| `tinblr.com` | No |
 | `tincanphone.club` | No |
 | `tinerion.me` | No |
 | `tinfoil-hat.net` | No |
@@ -41455,6 +41620,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `toolbox.wtf` | No |
 | `toolboxtalk.tech` | No |
 | `toolsforthought.rocks` | No |
+| `toolstack.com` | No |
 | `toomanycooks.social` | No |
 | `toomuchinformation.de` | No |
 | `toomuchnotenough.site` | No |
@@ -41470,6 +41636,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `tooot.app` | Yes |
 | `tooot.ch` | No |
 | `tooot.im` | No |
+| `tooot.me` | Yes |
 | `tooptroop.fun` | No |
 | `toortu.ga` | No |
 | `toot-bionaut.de` | No |
@@ -41722,6 +41889,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `totallynormalis.land` | No |
 | `totalnoob.club` | No |
 | `totemtube.com` | No |
+| `totheclouds.io` | No |
 | `tothepeople.eu` | No |
 | `tothillstreet.com` | No |
 | `totmin.ru` | No |
@@ -41742,6 +41910,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `touitteur.net` | Yes |
 | `toukae.com` | No |
 | `toulouse.social` | No |
+| `tourcoder.com` | Yes |
 | `tourdeguet.fr` | No |
 | `tourmentine.com` | No |
 | `tourtoise.quest` | No |
@@ -42467,6 +42636,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `twt.rs` | Yes |
 | `twt.wtf` | No |
 | `twtr.plus` | No |
+| `twtrbridge.de` | No |
 | `twtxt.net` | Yes |
 | `twunk.io` | No |
 | `twunk.uk` | No |
@@ -42933,6 +43103,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `unnamed.group` | Yes |
 | `unnecessary.tech` | Yes |
 | `unnerv.jp` | No |
+| `unnoted.xyz` | No |
 | `unnovae.net` | No |
 | `uno.today` | No |
 | `unooverse.com` | No |
@@ -42963,6 +43134,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `unshaped.space` | No |
 | `unsigned.cc` | No |
 | `unsociable.social` | Yes |
+| `unsquare.com` | No |
 | `unstable.icu` | Yes |
 | `unstable.systems` | Yes |
 | `unstabler.pl` | Yes |
@@ -43044,14 +43216,17 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `urbaninversion.com` | Yes |
 | `urbanists.social` | Yes |
 | `urbanists.video` | Yes |
+| `urbanistscollective.ca` | Yes |
 | `urbanmind.net` | Yes |
 | `urbanodin.org` | Yes |
 | `urbansolarpunk.social` | No |
 | `urbanwildlife.biz` | No |
+| `urbanwolf.xyz` | No |
 | `urchan.org` | No |
 | `ureteralstones.life` | No |
 | `urface.social` | No |
 | `urgelle.fr` | No |
+| `urgenthelp.in` | No |
 | `urgero.dev` | No |
 | `urgero.org` | No |
 | `urgle.com` | No |
@@ -43115,6 +43290,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `usewordpress.net` | No |
 | `usezot.net` | Yes |
 | `usher.dev` | Yes |
+| `usmanity.com` | Yes |
 | `usne.social` | No |
 | `uso108.site` | No |
 | `usocial.fr` | No |
@@ -43231,6 +43407,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `va11halla.bar` | No |
 | `vaaaaanqui.sh` | No |
 | `vabois.fr` | No |
+| `vabu.us` | No |
 | `vacant.ventures` | No |
 | `vacantmastodon.ca` | No |
 | `vacatureforum.nl` | Yes |
@@ -43242,6 +43419,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `vaduzz.de` | No |
 | `vael.town` | No |
 | `vaenner.net` | No |
+| `vah.sh` | Yes |
 | `vakaruge.com` | No |
 | `vaku.org.ua` | No |
 | `val-sans-retour.fr` | No |
@@ -43425,6 +43603,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `velocipederider.com` | No |
 | `velodrama.cc` | No |
 | `veloma.org` | No |
+| `velotastic.co.uk` | No |
 | `velour.social` | Yes |
 | `velstandsfanden.no` | No |
 | `velt.space` | No |
@@ -43636,6 +43815,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `vim.town` | Yes |
 | `vimeo.com` | Yes |
 | `vin.pet` | Yes |
+| `vinayaugustine.com` | No |
 | `vincanote.net` | No |
 | `vincentopia.xyz` | No |
 | `vincentstpierre.com` | No |
@@ -43648,6 +43828,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `vinilox.eu` | No |
 | `vino.blue` | Yes |
 | `vinodjam.com` | No |
+| `vintage-home-movies.co.uk` | Yes |
 | `vintagemac1984.com` | No |
 | `vintageracing.social` | No |
 | `vinyl-41.de` | No |
@@ -43697,6 +43878,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `visionofearth.org` | No |
 | `visionon.tv` | No |
 | `visionroot.org` | No |
+| `visitempalme.org` | Yes |
 | `vislae.town` | No |
 | `visonthe.net` | Yes |
 | `viste.pt` | No |
@@ -43788,6 +43970,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `vogliaditerra.com` | No |
 | `vogtland.social` | Yes |
 | `voi.social` | No |
+| `voicaw.com` | Yes |
 | `voice.fit` | No |
 | `voiceandexit.me` | No |
 | `voicenet.ch` | No |
@@ -44450,6 +44633,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `weltraum.social` | Yes |
 | `weltverbessern.de` | No |
 | `wem.st` | No |
+| `went2thebridge.org` | No |
 | `wentam.net` | No |
 | `wentsch.me` | No |
 | `wenzit.de` | No |
@@ -44473,6 +44657,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `weremember.social` | No |
 | `werewolf.biz` | No |
 | `werewolf.space` | No |
+| `werewolf.tf` | Yes |
 | `werewolf.town` | No |
 | `werewolves.top` | No |
 | `werin.ca` | No |
@@ -44532,6 +44717,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `wfc.social` | No |
 | `wfh.pub` | Yes |
 | `wfmail.de` | No |
+| `wg.is` | No |
 | `wg0.xyz` | No |
 | `wgjahn.de` | No |
 | `wgom.org` | No |
@@ -44814,6 +45000,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `wisepoint.org` | No |
 | `wishy.co.uk` | No |
 | `wisskomm.social` | No |
+| `wistly.net` | No |
 | `wit.social` | No |
 | `witch.academy` | No |
 | `witch.energy` | No |
@@ -44845,6 +45032,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `withoccasional.com` | No |
 | `withsilence.com` | Yes |
 | `witiko.de` | No |
+| `wito.bar` | Yes |
 | `wittberger.net` | Yes |
 | `wittemeier.de` | No |
 | `witten.social` | No |
@@ -45445,6 +45633,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `xn--24-6kca3bmfgm.xn--p1ai` | No |
 | `xn--28j0ea.tokyo` | No |
 | `xn--28j0ea.xn--tckwe` | No |
+| `xn--2i8hna.to` | Yes |
 | `xn--2os22eixx6na.xn--kpry57d` | No |
 | `xn--49ap3c.xn--y9a3aq` | No |
 | `xn--56a.social` | No |
@@ -45895,6 +46084,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ykzts.technology` | No |
 | `yl.ms` | No |
 | `ylan.page` | No |
+| `ylvie.me` | Yes |
 | `ylvie.monster` | Yes |
 | `ylwsgn.cc` | Yes |
 | `ymkml.online` | No |
@@ -45970,6 +46160,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `youbun.jp` | No |
 | `youcune.com` | No |
 | `youdabomb.social` | No |
+| `youded.io` | No |
 | `youdeserve.space` | No |
 | `youdieifyou.work` | No |
 | `youdofoo.com` | No |
@@ -46157,6 +46348,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `yvt.jp` | Yes |
 | `ywg.social` | No |
 | `yyc.bike` | Yes |
+| `yyc.social` | Yes |
 | `yygq.de` | No |
 | `yyj.social` | No |
 | `yys.ink` | No |
@@ -46385,6 +46577,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `zetawing.com` | No |
 | `zete.tk` | No |
 | `zeteo.me` | No |
+| `zeth.pw` | Yes |
 | `zetmus.fr` | Yes |
 | `zetsubou.xn--q9jyb4c` | Yes |
 | `zettas.space` | No |
@@ -46394,6 +46587,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `zevs.me` | No |
 | `zeweb.de` | No |
 | `zfadd.is` | No |
+| `zgasma.org` | No |
 | `zgo.de` | No |
 | `zh.ht` | No |
 | `zhai.eu` | No |
@@ -46411,6 +46605,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `zhub.link` | No |
 | `zhukov.al` | No |
 | `zhuravel.bz` | Yes |
+| `zhy.site` | No |
 | `zhz.moe` | Yes |
 | `zia.io` | No |
 | `ziabo.ga` | No |
@@ -46442,6 +46637,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `zip2.social` | No |
 | `zipbangwow.com` | No |
 | `zipdig.social` | Yes |
+| `ziqfm.com` | Yes |
 | `zirconsoft.net` | No |
 | `zirk.us` | No |
 | `ziroh.be` | No |
@@ -46609,6 +46805,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `zuzakistan.com` | No |
 | `zuzax.com` | No |
 | `zveryok.pp.ua` | No |
+| `zvo.io` | No |
 | `zvr.gr` | No |
 | `zvt.social` | No |
 | `zvz.be` | Yes |
@@ -46659,8 +46856,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,748 |
-| Normal | 33,867 |
+| Cloudflare | 12,809 |
+| Normal | 34,003 |
 
 
-### 27.3% of public Fediverse services are using Cloudflare.
+### 27.4% of public Fediverse services are using Cloudflare.
