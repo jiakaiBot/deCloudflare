@@ -6304,6 +6304,7 @@ Do not create new issue or we will close it as duplicate.
 | [klausblackk@twitter](https://twitter.com/klausblackk/status/1393991709457993728) | advertise |
 | [KlaxonDigital@twitter](https://twitter.com/KlaxonDigital/status/1478738130165510147) | advertise |
 | [kld_sjd@twitter](https://twitter.com/kld_sjd/status/1609701245647724549) | advertise |
+| [kleinymercess@twitter](https://twitter.com/kleinymercess/status/1689231798709215232) | advertise |
 | [KLiesty@twitter](https://twitter.com/KLiesty/status/1552540429236961280) | advertise |
 | [klopmp@twitter](https://twitter.com/klopmp/status/1422969764905816068) | advertise |
 | [KMammd@twitter](https://twitter.com/KMammd/status/1665957310944931840) | advertise |
@@ -12898,6 +12899,7 @@ Do not create new issue or we will close it as duplicate.
 | [TuanCuong_24@twitter](https://twitter.com/TuanCuong_24/status/1491066171663466499) | advertise |
 | [TuanDan48@twitter](https://twitter.com/TuanDan48/status/1508407933150765056) | advertise |
 | [TuanDo60212814@twitter](https://twitter.com/TuanDo60212814/status/1597020296418324481) | advertise |
+| [tuandungbrse@twitter](https://twitter.com/tuandungbrse/status/1689182364499660800) | advertise |
 | [TuanHoa92591402@twitter](https://twitter.com/TuanHoa92591402/status/1401178907756220419) | advertise |
 | [tuanit3697@twitter](https://twitter.com/tuanit3697/status/1483194691680337920) | advertise |
 | [TuanKie91679866@twitter](https://twitter.com/TuanKie91679866/status/1621889233165357057) | advertise |
