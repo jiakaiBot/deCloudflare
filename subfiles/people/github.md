@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- ["Do not know how to serialize a BigInt" when inserting numbers](https://github.com/aidenwallis/kysely-d1/issues/21)
 - [CloudFlare Cloudflare Tunnel login Availability Issues](https://github.com/hinoshiba/news/issues/2186)
 - [CloudFlare Cloudflare Tunnel login Availability Issues](https://github.com/MatBenfield/news/issues/17425)
 - [Fehler bei der Feed-Suche: near "s": syntax error](https://github.com/rix1337/FeedCrawler/issues/749)
