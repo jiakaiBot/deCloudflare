@@ -16,7 +16,7 @@ Replace the `(base url)` to:
 
 ----
 
-> Cloudflare Domains Lookup
+### Cloudflare Domains Lookup
 
 - List data is almost identical to [this git data](http://crimeflare.eu.org).
 - For looking up domain's existence as a [MITM domain](../../cloudflare_users/domains/README.md).
@@ -34,7 +34,7 @@ Replace the `(base url)` to:
 
 ----
 
-> Anti-Tor Lookup
+### Anti-Tor Lookup
 
 - List data is almost identical to [this git data](http://crimeflare.eu.org).
 - For looking up website's existence in the [known Anti-Tor list](../../anti-tor_users/domains/README.md).
@@ -49,7 +49,7 @@ Replace the `(base url)` to:
 
 ----
 
-> Get Data
+### Get Data
 
 - Get data in simple JSON format.
 - For your automation use.
