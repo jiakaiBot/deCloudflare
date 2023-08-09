@@ -1962,6 +1962,7 @@ Do not create new issue or we will close it as duplicate.
 | [bright_wyne@twitter](https://twitter.com/bright_wyne/status/1391849321524436992) | advertise |
 | [BrillanteAndrei@twitter](https://twitter.com/BrillanteAndrei/status/1386016310790873088) | advertise |
 | [BrindleIt@twitter](https://twitter.com/BrindleIt/status/1511705577449267201) | advertise |
+| [BringMe08908957@twitter](https://twitter.com/BringMe08908957/status/1689104716750585856) | advertise |
 | [BrittanyBrian5@twitter](https://twitter.com/BrittanyBrian5/status/1625426154541678592) | advertise |
 | [BroadbandInst@twitter](https://twitter.com/BroadbandInst/status/1591887893274189824) | advertise |
 | [broadscaler@twitter](https://twitter.com/broadscaler/status/1648072836773478401) | advertise |
@@ -2092,6 +2093,7 @@ Do not create new issue or we will close it as duplicate.
 | [Candy30954247@twitter](https://twitter.com/Candy30954247/status/1393972469904527362) | advertise |
 | [cangcimeng30@twitter](https://twitter.com/cangcimeng30/status/1553349005081513984) | advertise |
 | [cAnh50264481@twitter](https://twitter.com/cAnh50264481/status/1392635647995772930) | advertise |
+| [cAnhNgu31209163@twitter](https://twitter.com/cAnhNgu31209163/status/1689096642568531968) | advertise |
 | [CanhNgu39481095@twitter](https://twitter.com/CanhNgu39481095/status/1671719022247948288) | advertise |
 | [CantThinkOfUsnm@twitter](https://twitter.com/CantThinkOfUsnm/status/1412673732406042624) | moral (advertise) |
 | [CanturyN@twitter](https://twitter.com/CanturyN/status/1508572957173764097) | advertise |
@@ -7033,6 +7035,7 @@ Do not create new issue or we will close it as duplicate.
 | [loke_pa@twitter](https://twitter.com/loke_pa/status/1391006736404729860) | advertise |
 | [Loki83104752@twitter](https://twitter.com/Loki83104752/status/1379175461553573897) | advertise |
 | [loku_cool@twitter](https://twitter.com/loku_cool/status/1592668195596697600) | advertise |
+| [lol1423000@twitter](https://twitter.com/lol1423000/status/1689092553121890306) | advertise |
 | [LoliBB3@twitter](https://twitter.com/LoliBB3/status/1406516610135838722) | advertise |
 | [lolin88@twitter](https://twitter.com/lolin88/status/1667520059533836289) | advertise |
 | [Lolipop11500860@twitter](https://twitter.com/Lolipop11500860/status/1384079563802640389) | advertise |
@@ -13759,6 +13762,7 @@ Do not create new issue or we will close it as duplicate.
 | [XxPoNaGeXx@twitter](https://twitter.com/XxPoNaGeXx/status/1383560559707049998) | advertise |
 | [xxununlog@twitter](https://twitter.com/xxununlog/status/1640727930673197057) | advertise |
 | [Xxxxx41471542@twitter](https://twitter.com/Xxxxx41471542/status/1376932828768829440) | advertise |
+| [xxyymalaysia@twitter](https://twitter.com/xxyymalaysia/status/1688983090969161729) | advertise |
 | [Xx_physx_xX@twitter](https://twitter.com/Xx_physx_xX/status/1630682309530714112) | advertise |
 | [xylo_leavander3@twitter](https://twitter.com/xylo_leavander3/status/1393415201907634177) | advertise |
 | [xyzxyz93@twitter](https://twitter.com/xyzxyz93/status/1628033613056065539) | advertise |
@@ -14290,6 +14294,7 @@ Do not create new issue or we will close it as duplicate.
 | [zY8xnJGCjfqMb9U@twitter](https://twitter.com/zY8xnJGCjfqMb9U/status/1395045783972433920) | advertise |
 | [zycharlwm@twitter](https://twitter.com/zycharlwm/status/1568933027178287104) | advertise |
 | [zyl2021@twitter](https://twitter.com/zyl2021/status/1394215819488333826) | advertise |
+| [zZnobodyZz@twitter](https://twitter.com/zZnobodyZz/status/1689094512000548864) | advertise |
 | [ZzTuanTuzZ@twitter](https://twitter.com/ZzTuanTuzZ/status/1620283882489917443) | advertise |
 | [z_genera@twitter](https://twitter.com/z_genera/status/1376912696696705024) | advertise |
 | [_2_2x@twitter](https://twitter.com/_2_2x/status/1552234529355595778) | advertise |
