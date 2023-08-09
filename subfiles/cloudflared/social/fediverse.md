@@ -28,7 +28,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | TLD | Count |
 | --- | --- |
 | com | 7,153 |
-| social | 4,450 |
+| social | 4,451 |
 | net | 3,634 |
 | org | 2,446 |
 | de | 2,250 |
@@ -4962,7 +4962,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `bodil.horse` | No |
 | `bodul.fr` | No |
 | `body.social` | No |
-| `bodybag.zip` | No |
+| `bodybag.zip` | Yes |
 | `bodybuilding.im` | No |
 | `boeck.social` | No |
 | `boehmer.tech` | No |
@@ -37438,6 +37438,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `skyizwhite.dev` | No |
 | `skyjake.fi` | No |
 | `skylair.info` | Yes |
+| `skyland.social` | No |
 | `skylantern.social` | No |
 | `skylarcloud.xyz` | No |
 | `skylarkservers.net` | Yes |
@@ -46888,7 +46889,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,824 |
+| Cloudflare | 12,825 |
 | Normal | 34,020 |
 
 
