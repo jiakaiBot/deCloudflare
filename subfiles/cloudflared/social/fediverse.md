@@ -12334,7 +12334,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `faerie.monster` | Yes |
 | `faerie.social` | No |
 | `faerie.tel` | No |
-| `faerie.town` | No |
+| `faerie.town` | Yes |
 | `faeriewood.social` | No |
 | `faery.pub` | No |
 | `faf.photos` | Yes |
@@ -15527,6 +15527,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `gogreenit.net` | No |
 | `gogu.ma` | Yes |
 | `gohan-oisii.net` | No |
+| `gohardforv.jp` | No |
 | `goinghome.earth` | No |
 | `goip.de` | No |
 | `goisgod.com` | No |
@@ -20119,6 +20120,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `kabedon.space` | Yes |
 | `kabelkollektiv.social` | Yes |
 | `kabelsalat.ch` | No |
+| `kabeuchi.monster` | Yes |
 | `kabi.tk` | No |
 | `kabipix.tk` | No |
 | `kabo.cab` | Yes |
@@ -27369,6 +27371,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `muffin.pm` | No |
 | `muga.xyz` | No |
 | `mugicha.club` | Yes |
+| `mugijuice.xyz` | Yes |
 | `mugiko.moe` | No |
 | `mugit.farm` | No |
 | `mugwort.xyz` | No |
@@ -28593,6 +28596,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `newsmovies.online` | No |
 | `newsocial.tech` | Yes |
 | `newspaceeconomy.ca` | No |
+| `newspapers.se` | No |
 | `newspeak.house` | Yes |
 | `newsrelay.org` | No |
 | `newsroom.pub` | No |
@@ -42775,6 +42779,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `udon.pink` | No |
 | `udon.red` | Yes |
 | `udona.fr` | No |
+| `udonchan.tk` | No |
 | `udongein.reisen` | No |
 | `udongein.xyz` | No |
 | `udp53.org` | No |
@@ -46856,8 +46861,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,809 |
-| Normal | 34,003 |
+| Cloudflare | 12,812 |
+| Normal | 34,005 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
