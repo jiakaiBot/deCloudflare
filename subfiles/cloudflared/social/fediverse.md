@@ -27,7 +27,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,150 |
+| com | 7,151 |
 | social | 4,449 |
 | net | 3,632 |
 | org | 2,445 |
@@ -10762,6 +10762,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `duckie.chat` | Yes |
 | `duckrowing.com` | No |
 | `ducksareawesome.net` | No |
+| `duclaria.com` | No |
 | `ducnn.com` | Yes |
 | `ductuspress.eu` | No |
 | `dudeami.win` | Yes |
@@ -20986,6 +20987,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `kittenpanic.io` | No |
 | `kitties.gay` | No |
 | `kitty.church` | No |
+| `kitty.haus` | No |
 | `kitty.observer` | No |
 | `kitty.photos` | Yes |
 | `kitty.social` | Yes |
@@ -22338,6 +22340,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `lemmy.fan` | Yes |
 | `lemmy.film` | Yes |
 | `lemmy.finance` | Yes |
+| `lemmy.fish` | No |
 | `lemmy.fyi` | Yes |
 | `lemmy.id` | Yes |
 | `lemmy.institute` | Yes |
@@ -46863,7 +46866,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,813 |
-| Normal | 34,005 |
+| Normal | 34,008 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
