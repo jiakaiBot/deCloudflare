@@ -11604,6 +11604,7 @@ Do not create new issue or we will close it as duplicate.
 | [staff_nowa@twitter](https://twitter.com/staff_nowa/status/1587800884800638976) | advertise |
 | [stamp_app@twitter](https://twitter.com/stamp_app/status/1417450714490605568) | advertise |
 | [StanleyEwingBTC@twitter](https://twitter.com/StanleyEwingBTC/status/1645852214009778192) | advertise |
+| [StarLig29535606@twitter](https://twitter.com/StarLig29535606/status/1689211854437126144) | advertise |
 | [starpratama@twitter](https://twitter.com/starpratama/status/1409534516167806978) | moral (advertise) |
 | [starwalker89@twitter](https://twitter.com/starwalker89/status/1391244115917033478) | advertise |
 | [Staywitme10@twitter](https://twitter.com/Staywitme10/status/1490936001363021831) | advertise |
