@@ -4266,6 +4266,7 @@ Do not create new issue or we will close it as duplicate.
 | [harnool@twitter](https://twitter.com/harnool/status/1394840354856128514) | advertise |
 | [harriess101@twitter](https://twitter.com/harriess101/status/1591360040446763008) | advertise |
 | [HarrisHoangXx@twitter](https://twitter.com/HarrisHoangXx/status/1383362708016271365) | advertise |
+| [harrychanputra@twitter](https://twitter.com/harrychanputra/status/1689412406085353475) | advertise |
 | [HarryKha7@twitter](https://twitter.com/HarryKha7/status/1382220502052245504) | advertise |
 | [HarryRonal@twitter](https://twitter.com/HarryRonal/status/1645534902132281346) | advertise |
 | [HaRRyZn@twitter](https://twitter.com/HaRRyZn/status/1389636291898208260) | advertise |
