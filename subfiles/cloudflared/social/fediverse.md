@@ -29,9 +29,9 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | --- | --- |
 | com | 7,151 |
 | social | 4,449 |
-| net | 3,632 |
+| net | 3,634 |
 | org | 2,445 |
-| de | 2,248 |
+| de | 2,250 |
 
 
 - Mastodon, Pleroma, etc
@@ -6925,6 +6925,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `chronovore.dev` | Yes |
 | `chronrevisited.online` | No |
 | `chroske.com` | No |
+| `chrosy.net` | No |
 | `chrotonic.com` | No |
 | `chrxs.net` | No |
 | `chrysanthem.org` | No |
@@ -7524,7 +7525,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -13501,6 +13502,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `flyingdingo.social` | No |
 | `flyingmou.se` | No |
 | `flyingsquirrel.ca` | No |
+| `flylumo.co.uk` | No |
 | `flynn.me.uk` | Yes |
 | `flyonthewall.buzz` | Yes |
 | `flyovercountry.social` | Yes |
@@ -13774,6 +13776,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `fractum.gq` | No |
 | `fracturedhosting.social` | Yes |
 | `fragdev.com` | No |
+| `fragefix.de` | No |
 | `fraggr.com` | No |
 | `fragleonie.xyz` | No |
 | `fragmental.art` | No |
@@ -16136,6 +16139,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `gzdm.de` | No |
 | `gzevd.de` | No |
 | `h-da.de` | No |
+| `h-e.top` | Yes |
 | `h-h.icu` | No |
 | `h-ka-iwi.de` | No |
 | `h-net.social` | No |
@@ -23565,6 +23569,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `lukacern.cz` | No |
 | `lukaprincic.si` | No |
 | `lukaroose.nl` | No |
+| `lukas-schieren.de` | No |
 | `lukasrinins.land` | No |
 | `lukasrosenstock.net` | No |
 | `lukaszkopczyk.com` | No |
@@ -23698,6 +23703,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `lyingvoid.social` | No |
 | `lyk.pw` | Yes |
 | `lyker.jp` | Yes |
+| `lykledevries.nl` | No |
 | `lylapol.com` | Yes |
 | `lynessence.me` | No |
 | `lyng.space` | No |
@@ -26229,6 +26235,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `misanthrope.me` | Yes |
 | `misanthrope.social` | No |
 | `misanthropebazaar.com` | Yes |
+| `misanthropolis.xyz` | No |
 | `misanthropy.wang` | No |
 | `misc.name` | No |
 | `miscellanea-numerica.fr` | Yes |
@@ -26771,6 +26778,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `montereybay.social` | No |
 | `monterrokyo.town` | No |
 | `montessori-verein-kaltenweide.de` | No |
+| `montevista.net` | No |
 | `montgomery.fr` | No |
 | `montmast.com` | No |
 | `montpellier.buzz` | No |
@@ -33541,7 +33549,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `quitter.im` | No |
 | `quitter.is` | No |
 | `quitter.nl.eu.org` | No |
-| `quitter.no` | No |
+| `quitter.no` | Yes |
 | `quitter.nu` | No |
 | `quitter.online` | No |
 | `quitter.org.uk` | No |
@@ -38922,6 +38930,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `stormgrass.com` | No |
 | `stormlight.space` | Yes |
 | `stormskey.works` | Yes |
+| `stormsvale.no` | No |
 | `stormux.org` | No |
 | `stormwaltz.net` | No |
 | `stormy178.com` | No |
@@ -39454,6 +39463,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `swiftdev.space` | No |
 | `swiftdevs.space` | No |
 | `swiftstream.gay` | Yes |
+| `swiftstream.io` | Yes |
 | `swillyumsdatacenter.com` | Yes |
 | `swinden.social` | Yes |
 | `swineair.com` | No |
@@ -46868,8 +46878,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,815 |
-| Normal | 34,009 |
+| Cloudflare | 12,819 |
+| Normal | 34,015 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
