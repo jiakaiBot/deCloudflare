@@ -3672,6 +3672,7 @@ Do not create new issue or we will close it as duplicate.
 | [fizzo929@twitter](https://twitter.com/fizzo929/status/1583851919441002496) | advertise |
 | [FJBandroid@twitter](https://twitter.com/FJBandroid/status/1552182577045569539) | advertise |
 | [fjdb3@twitter](https://twitter.com/fjdb3/status/1554143968685789184) | advertise |
+| [fjkdsetgjk@twitter](https://twitter.com/fjkdsetgjk/status/1689345567078625285) | advertise |
 | [fjpkagami@twitter](https://twitter.com/fjpkagami/status/1392923842880831488) | advertise |
 | [FKaynam37624@twitter](https://twitter.com/FKaynam37624/status/1680931577801641985) | advertise |
 | [FlameOcho@twitter](https://twitter.com/FlameOcho/status/1390911778918305799) | advertise |
@@ -8795,6 +8796,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nghia78516001@twitter](https://twitter.com/Nghia78516001/status/1552196985716846592) | advertise |
 | [Nghiacucai@twitter](https://twitter.com/Nghiacucai/status/1404204497086210053) | advertise |
 | [Nghiahoang191@twitter](https://twitter.com/Nghiahoang191/status/1552355402603307009) | advertise |
+| [nghiang61407310@twitter](https://twitter.com/nghiang61407310/status/1689344361434329090) | advertise |
 | [nghiemtran18@twitter](https://twitter.com/nghiemtran18/status/1378213806090809346) | advertise |
 | [nghile951@twitter](https://twitter.com/nghile951/status/1595142920142585856) | advertise |
 | [Nghim96809566@twitter](https://twitter.com/Nghim96809566/status/1387297402122489859) | advertise |
