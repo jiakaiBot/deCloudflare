@@ -14053,7 +14053,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `friendica.lt` | No |
 | `friendica.me` | No |
 | `friendica.ml` | No |
-| `friendica.nz` | No |
+| `friendica.nz` | Yes |
 | `friendica.online` | No |
 | `friendica.org` | No |
 | `friendica.ru` | No |
@@ -43844,6 +43844,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `violaine.xyz` | No |
 | `violence.church` | No |
 | `violet.lol` | No |
+| `violetmillie.me` | No |
 | `violoncello.ch` | No |
 | `viorsan.com` | Yes |
 | `vipgirlfriend.xxx` | No |
@@ -46861,7 +46862,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,812 |
+| Cloudflare | 12,813 |
 | Normal | 34,005 |
 
 
