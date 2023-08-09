@@ -5188,6 +5188,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `botta.social` | Yes |
 | `bottom.rs` | No |
 | `bottom.team` | No |
+| `bottomservices.club` | No |
 | `bottrill.social` | Yes |
 | `botwerks.social` | Yes |
 | `botwiki.org` | No |
@@ -27545,6 +27546,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `mvskoke.social` | No |
 | `mvu.pl` | No |
 | `mw.social` | No |
+| `mwang.monster` | Yes |
 | `mwegner.com` | Yes |
 | `mwknet.de` | No |
 | `mwl.io` | No |
@@ -33585,6 +33587,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `qwjyh.net` | Yes |
 | `qwq.dog` | Yes |
 | `qwq.mx` | Yes |
+| `qwq.one` | Yes |
 | `qwq.ooo` | Yes |
 | `qwwwq.cat` | Yes |
 | `qxpix.com` | No |
@@ -46865,8 +46868,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,813 |
-| Normal | 34,008 |
+| Cloudflare | 12,815 |
+| Normal | 34,009 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
