@@ -6720,6 +6720,7 @@ Do not create new issue or we will close it as duplicate.
 | [LakeNef@twitter](https://twitter.com/LakeNef/status/1492140804873277446) | advertise |
 | [LakshyaGangwar1@twitter](https://twitter.com/LakshyaGangwar1/status/1398001524236644353) | advertise |
 | [lakshya_sarda@twitter](https://twitter.com/lakshya_sarda/status/1406466412927877123) | advertise |
+| [LAKYT562509@twitter](https://twitter.com/LAKYT562509/status/1689563560324538368) | advertise |
 | [lalan_dukes@twitter](https://twitter.com/lalan_dukes/status/1557301841188225025) | advertise |
 | [lAli98l@twitter](https://twitter.com/lAli98l/status/1394529136870309889) | advertise |
 | [lallamove@twitter](https://twitter.com/lallamove/status/1601823738789388290) | advertise |
