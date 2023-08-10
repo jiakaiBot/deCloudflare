@@ -487,6 +487,7 @@ Here's a list of breached sites.
 | RepublicanPartyOfTexas (Republican Party of Texas) | 72,596 | Yes |
 | RetinaX (Retina-X) | 71,153 | No |
 | Reverb-Nation (ReverbNation) | 7,040,725 | Yes |
+| Rightbiz | 65,376 | No |
 | RiverCityMedia (River City Media Spam List) | 393,430,309 | No |
 | Robinhood | 5,003,937 | Yes |
 | RobloxDeveloperConference (Roblox Developer Conference) | 3,943 | No |
@@ -682,9 +683,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 375 | 3,964,122,166 |
-| Normal | 285 | 4,952,726,203 |
+| Normal | 286 | 4,952,791,579 |
 
 
 
-### 56.8% of breached sites (pwned sites) are using Cloudflare.
+### 56.7% of breached sites (pwned sites) are using Cloudflare.
 ### 44.5% of leaked accounts are on Cloudflare sites.
