@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Maintenance Mode Returning 503 Causes Issues with DO Load Balancer and Cloudflare](https://github.com/pupilfirst/pupilfirst/issues/1384)
 - [Site from lightsail snapshot not working](https://github.com/bitnami/vms/issues/1087)
 - [Architecture: aarch64 not supported](https://github.com/P3TERX/warp.sh/issues/110)
 - [Automatic rpm-ostree update service fails to run](https://github.com/ublue-os/config/issues/90)
