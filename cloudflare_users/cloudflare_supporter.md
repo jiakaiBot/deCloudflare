@@ -682,6 +682,7 @@ Do not create new issue or we will close it as duplicate.
 | [allincapital@twitter](https://twitter.com/allincapital/status/1645535194785648652) | advertise |
 | [allindialeads@twitter](https://twitter.com/allindialeads/status/1487816693346824194) | advertise |
 | [Allis98048947@twitter](https://twitter.com/Allis98048947/status/1396348863519371272) | advertise |
+| [all_aludu@twitter](https://twitter.com/all_aludu/status/1689482368288169984) | advertise |
 | [AlmakLimited@twitter](https://twitter.com/AlmakLimited/status/1400534263007678464) | advertise |
 | [almodaris@twitter](https://twitter.com/almodaris/status/1599436861390192641) | advertise |
 | [almohanad_7rb@twitter](https://twitter.com/almohanad_7rb/status/1396993015231750147) | advertise |
@@ -1258,6 +1259,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungMoe73775755@twitter](https://twitter.com/AungMoe73775755/status/1390549949612318721) | advertise |
 | [AungMoe80084699@twitter](https://twitter.com/AungMoe80084699/status/1391212975210434562) | advertise |
 | [AungMoeHtun7@twitter](https://twitter.com/AungMoeHtun7/status/1390916064662360066) | advertise |
+| [Aungmya31024157@twitter](https://twitter.com/Aungmya31024157/status/1689470103786754048) | advertise |
 | [AungMya31404472@twitter](https://twitter.com/AungMya31404472/status/1404245310369579009) | advertise |
 | [AungMya95693188@twitter](https://twitter.com/AungMya95693188/status/1396071934912249861) | advertise |
 | [AungMyi15922858@twitter](https://twitter.com/AungMyi15922858/status/1391785614123573248) | advertise |
@@ -5470,6 +5472,7 @@ Do not create new issue or we will close it as duplicate.
 | [jayywavvyyyy@twitter](https://twitter.com/jayywavvyyyy/status/1379843985175310341) | advertise |
 | [jayzelazny@twitter](https://twitter.com/jayzelazny/status/1623034341587619857) | advertise |
 | [jazzalmao@twitter](https://twitter.com/jazzalmao/status/1480849791936389120) | advertise |
+| [JBokolomba@twitter](https://twitter.com/JBokolomba/status/1689528916069801984) | advertise |
 | [jbri87@twitter](https://twitter.com/jbri87/status/1596343197705216000) | advertise |
 | [JC7IaJ1c3VB4wU6@twitter](https://twitter.com/JC7IaJ1c3VB4wU6/status/1394992890561146885) | advertise |
 | [JC58100888@twitter](https://twitter.com/JC58100888/status/1548162680984199169) | advertise |
@@ -8877,6 +8880,7 @@ Do not create new issue or we will close it as duplicate.
 | [nguyenlong2122@twitter](https://twitter.com/nguyenlong2122/status/1552206834160660480) | advertise |
 | [nguyenlxx60@twitter](https://twitter.com/nguyenlxx60/status/1642001651195318273) | advertise |
 | [Nguyenm15647657@twitter](https://twitter.com/Nguyenm15647657/status/1629695455343833095) | advertise |
+| [NguyennLia38532@twitter](https://twitter.com/NguyennLia38532/status/1689468966027296768) | advertise |
 | [NguyennLuong@twitter](https://twitter.com/NguyennLuong/status/1629023245801508864) | advertise |
 | [NguyenP04335211@twitter](https://twitter.com/NguyenP04335211/status/1471757635879780356) | advertise |
 | [NguyenP80191706@twitter](https://twitter.com/NguyenP80191706/status/1567330421897310208) | advertise |
@@ -13295,6 +13299,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vishnur01251382@twitter](https://twitter.com/Vishnur01251382/status/1599415445370863617) | advertise |
 | [Vishnur12459150@twitter](https://twitter.com/Vishnur12459150/status/1386911043763408898) | advertise |
 | [Vishnuv72775788@twitter](https://twitter.com/Vishnuv72775788/status/1404443503480827909) | advertise |
+| [vishubhati_12@twitter](https://twitter.com/vishubhati_12/status/1689523851791859712) | advertise |
 | [vishusmruti@twitter](https://twitter.com/vishusmruti/status/1639227202704412673) | advertise |
 | [Visioun_@twitter](https://twitter.com/Visioun_/status/1559240514599538689) | advertise |
 | [visity@twitter](https://twitter.com/visity/status/1538717701660868610) | advertise |
