@@ -27,11 +27,11 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,154 |
+| com | 7,155 |
 | social | 4,452 |
 | net | 3,638 |
 | org | 2,447 |
-| de | 2,251 |
+| de | 2,252 |
 
 
 - Mastodon, Pleroma, etc
@@ -14256,7 +14256,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `fuckthe.cash` | Yes |
 | `fucktodon.tokyo` | No |
 | `fucs.io` | Yes |
-| `fud.nu` | Yes |
+| `fud.nu` | No |
 | `fudanchii.net` | No |
 | `fudanshi.org` | No |
 | `fudge.org` | Yes |
@@ -23790,6 +23790,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `m400cloud.com` | No |
 | `m4570.com` | Yes |
 | `m4570.xyz` | No |
+| `m4fx.de` | Yes |
 | `m4rc3l.de` | Yes |
 | `m4sk.in` | Yes |
 | `m5.nz` | Yes |
@@ -37643,6 +37644,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `smnn.ch` | No |
 | `smnz.de` | No |
 | `smokecircle.co` | Yes |
+| `smokecommunity.com` | No |
 | `smokeout.cloud` | No |
 | `smokymountain.top` | No |
 | `smol.blog` | Yes |
@@ -46910,7 +46912,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,834 |
-| Normal | 34,031 |
+| Normal | 34,033 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
