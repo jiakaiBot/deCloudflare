@@ -30,8 +30,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | com | 7,154 |
 | social | 4,451 |
 | net | 3,638 |
-| org | 2,446 |
-| de | 2,250 |
+| org | 2,447 |
+| de | 2,251 |
 
 
 - Mastodon, Pleroma, etc
@@ -450,6 +450,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `3gigs.xyz` | No |
 | `3h3h.org` | No |
 | `3hw.de` | No |
+| `3iii.de` | No |
 | `3io.ai` | No |
 | `3ischn.de` | No |
 | `3j.no` | No |
@@ -15908,6 +15909,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `grimm.systems` | No |
 | `grimmbart.org` | No |
 | `grimneko.de` | No |
+| `grimoire.eu.org` | No |
 | `grimoire.party` | No |
 | `grimspound.net` | No |
 | `grimstack.xyz` | Yes |
@@ -26444,7 +26446,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `mk1.io` | Yes |
 | `mk39.xyz` | No |
 | `mkacg.social` | Yes |
-| `mkakh.com` | No |
+| `mkakh.com` | Yes |
 | `mkaraki.net` | Yes |
 | `mkdir.uk` | Yes |
 | `mkeverse.net` | No |
@@ -31000,6 +31002,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `packers.social` | No |
 | `packet.social` | No |
 | `packethost.net` | No |
+| `packetloss.gg` | No |
 | `packetloss.social` | Yes |
 | `packetlost.dev` | No |
 | `packetranger.com` | No |
@@ -46897,8 +46900,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,828 |
-| Normal | 34,025 |
+| Cloudflare | 12,829 |
+| Normal | 34,027 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
