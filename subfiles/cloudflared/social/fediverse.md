@@ -30,7 +30,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | com | 7,155 |
 | social | 4,452 |
 | net | 3,638 |
-| org | 2,447 |
+| org | 2,448 |
 | de | 2,252 |
 
 
@@ -21852,6 +21852,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `laecuaciondigital.social` | No |
 | `laenredadera.org` | No |
 | `laeran.pl` | Yes |
+| `laeran.pl.eu.org` | No |
 | `laernorsk.no` | No |
 | `laevateinn.tk` | No |
 | `lafermenumerique.com` | Yes |
@@ -46914,7 +46915,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,835 |
-| Normal | 34,034 |
+| Normal | 34,035 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
