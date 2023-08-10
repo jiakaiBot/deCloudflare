@@ -52,7 +52,6 @@ Here's a list of public Matrix services.
 | exarius.org | No |
 | matrix.fachschaften.org | No |
 | feneas.org | No |
-| matrix.flieger.chat | No |
 | matrix.frei.chat | No |
 | matrix.freiburg.social | No |
 | matrix.fsfe.org | No |
@@ -123,7 +122,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 20 |
-| Normal | 75 |
+| Normal | 74 |
 
 
-### 21.1% of public Matrix services are using Cloudflare.
+### 21.3% of public Matrix services are using Cloudflare.
