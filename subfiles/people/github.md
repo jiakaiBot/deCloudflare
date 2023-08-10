@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [/api/v1/contracts/call failing when using Swagger UI](https://github.com/hashgraph/hedera-mirror-node/issues/6629)
 - [Allow it to work on edge (e.g. cloudflare workers)](https://github.com/ajv-validator/ajv/issues/2318)
 - [Server authorization error: insufficient permissions](https://github.com/DavidMStraub/gramps-web-sync/issues/18)
 - [Code generation from strings disallowed for this context](https://github.com/kevinmarrec/h3-typebox/issues/8)
