@@ -28,7 +28,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | TLD | Count |
 | --- | --- |
 | com | 7,154 |
-| social | 4,451 |
+| social | 4,452 |
 | net | 3,638 |
 | org | 2,447 |
 | de | 2,251 |
@@ -722,6 +722,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `8bits1byte.co.uk` | No |
 | `8bittheologian.com` | Yes |
 | `8bitwizard.net` | No |
+| `8e7.us` | Yes |
 | `8mitsu.net` | No |
 | `8n.lt` | Yes |
 | `8nd.ru` | Yes |
@@ -16656,7 +16657,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `hd-dn.com` | No |
 | `hd0.eu` | Yes |
 | `hda.zone` | No |
-| `hdcraft.xyz` | No |
+| `hdcraft.xyz` | Yes |
 | `hdev.im` | No |
 | `hdez.nl` | No |
 | `hdmr.org` | No |
@@ -28028,7 +28029,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `nashe.be` | No |
 | `nashtodon.com` | No |
 | `nashvillecomedy.social` | No |
-| `naskali.fi` | No |
+| `naskali.fi` | Yes |
 | `naskya.net` | Yes |
 | `nasn.icu` | No |
 | `nasnfl.com` | No |
@@ -33479,6 +33480,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `queer.chat` | No |
 | `queer.cloud` | No |
 | `queer.computer` | No |
+| `queer.cool` | No |
 | `queer.dev` | No |
 | `queer.farm` | No |
 | `queer.garden` | No |
@@ -34252,6 +34254,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `redeyes.site` | No |
 | `redfern.is` | Yes |
 | `redfish.ca` | No |
+| `redfist.me` | No |
 | `redflag.social` | No |
 | `redfrogss.dev` | Yes |
 | `redfuku.com` | Yes |
@@ -43268,6 +43271,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `urbanwildlife.biz` | No |
 | `urbanwolf.xyz` | No |
 | `urchan.org` | No |
+| `urda.social` | No |
 | `ureteralstones.life` | No |
 | `urface.social` | No |
 | `urgelle.fr` | No |
@@ -46458,6 +46462,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `zahnpasta.tube` | No |
 | `zahr.koeln` | No |
 | `zaibon.be` | No |
+| `zaidin.lgbt` | No |
 | `zaisu-club.xyz` | No |
 | `zaitcev.nu` | No |
 | `zak.ee` | No |
@@ -46904,8 +46909,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,831 |
-| Normal | 34,029 |
+| Cloudflare | 12,834 |
+| Normal | 34,031 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
