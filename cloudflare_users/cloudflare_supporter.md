@@ -701,6 +701,7 @@ Do not create new issue or we will close it as duplicate.
 | [alroy_zhang@twitter](https://twitter.com/alroy_zhang/status/1686732487748116480) | advertise |
 | [Alsadar13@twitter](https://twitter.com/Alsadar13/status/1552128101655924736) | advertise |
 | [AlsamiDr@twitter](https://twitter.com/AlsamiDr/status/1390431366794432516) | advertise |
+| [AlsukaitiK17984@twitter](https://twitter.com/AlsukaitiK17984/status/1689632727342206977) | advertise |
 | [AltafBh79770188@twitter](https://twitter.com/AltafBh79770188/status/1400425714541756416) | advertise |
 | [Altan41272744@twitter](https://twitter.com/Altan41272744/status/1379740295429038083) | advertise |
 | [AlterJoker@twitter](https://twitter.com/AlterJoker/status/1395418841815994376) | advertise |
@@ -5264,6 +5265,7 @@ Do not create new issue or we will close it as duplicate.
 | [isumikaga@twitter](https://twitter.com/isumikaga/status/1491420142768918531) | advertise |
 | [iswampa@twitter](https://twitter.com/iswampa/status/1575178856813985792) | advertise |
 | [Is_Dia_li@twitter](https://twitter.com/Is_Dia_li/status/1390245219795279878) | advertise |
+| [is_ovy@twitter](https://twitter.com/is_ovy/status/1689714840150118400) | advertise |
 | [Itachi10737586@twitter](https://twitter.com/Itachi10737586/status/1389877556866740229) | advertise |
 | [Itami971@twitter](https://twitter.com/Itami971/status/1390672676910288896) | advertise |
 | [itgyani@twitter](https://twitter.com/itgyani/status/1527643316267155464) | advertise |
@@ -5588,6 +5590,7 @@ Do not create new issue or we will close it as duplicate.
 | [jjcm_89@twitter](https://twitter.com/jjcm_89/status/1385139550780116995) | advertise |
 | [jjhpjsnjm@twitter](https://twitter.com/jjhpjsnjm/status/1552018320475299840) | advertise |
 | [jjj95783480@twitter](https://twitter.com/jjj95783480/status/1395094462431481857) | advertise |
+| [JJKArabic@twitter](https://twitter.com/JJKArabic/status/1689613958632689665) | advertise |
 | [JJoe40040378@twitter](https://twitter.com/JJoe40040378/status/1391669669115752455) | advertise |
 | [jkaras0@twitter](https://twitter.com/jkaras0/status/1519652208270213120) | advertise |
 | [JKAY507914252@twitter](https://twitter.com/JKAY507914252/status/1524934724413579264) | advertise |
