@@ -17960,6 +17960,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `icu.social` | No |
 | `iculture.social` | Yes |
 | `icum.to` | No |
+| `icunny.co` | No |
 | `icynet.eu` | No |
 | `icyphox.sh` | No |
 | `id.cc` | No |
@@ -22384,6 +22385,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `lemmy.sh` | No |
 | `lemmy.st` | No |
 | `lemmy.studio` | No |
+| `lemmy.team` | Yes |
 | `lemmy.tf` | Yes |
 | `lemmy.today` | No |
 | `lemmy.website` | Yes |
@@ -46900,8 +46902,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,829 |
-| Normal | 34,027 |
+| Cloudflare | 12,830 |
+| Normal | 34,028 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
