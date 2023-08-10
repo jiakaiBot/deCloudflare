@@ -12650,6 +12650,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `federarks.xyz` | No |
 | `federatable.com` | Yes |
 | `federate.cc` | Yes |
+| `federate.lol` | Yes |
 | `federate.me.uk` | No |
 | `federate.social` | No |
 | `federated-networks.org` | No |
@@ -36981,6 +36982,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `shortnote.jp` | No |
 | `shortshady.com` | No |
 | `shortstackran.ch` | Yes |
+| `shortstacksran.ch` | No |
 | `shoshal.com` | No |
 | `shota.house` | No |
 | `shota.social` | Yes |
@@ -46911,8 +46913,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,834 |
-| Normal | 34,033 |
+| Cloudflare | 12,835 |
+| Normal | 34,034 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
