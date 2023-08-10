@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Allow it to work on edge (e.g. cloudflare workers)](https://github.com/ajv-validator/ajv/issues/2318)
 - [Server authorization error: insufficient permissions](https://github.com/DavidMStraub/gramps-web-sync/issues/18)
 - [Code generation from strings disallowed for this context](https://github.com/kevinmarrec/h3-typebox/issues/8)
 - [Maintenance Mode Returning 503 Causes Issues with DO Load Balancer and Cloudflare](https://github.com/pupilfirst/pupilfirst/issues/1384)
