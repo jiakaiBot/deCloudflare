@@ -5330,6 +5330,7 @@ Do not create new issue or we will close it as duplicate.
 | [I_LOVE_ANIMEEWW@twitter](https://twitter.com/I_LOVE_ANIMEEWW/status/1387312451251621889) | advertise |
 | [I_sthe4@twitter](https://twitter.com/I_sthe4/status/1665874525408354304) | advertise |
 | [j3graham@twitter](https://twitter.com/j3graham/status/1582227619986034694) | advertise |
+| [j7f7_@twitter](https://twitter.com/j7f7_/status/1689680209912504328) | advertise |
 | [J67831601@twitter](https://twitter.com/J67831601/status/1527803392743047168) | advertise |
 | [Ja10504Jarallah@twitter](https://twitter.com/Ja10504Jarallah/status/1684596767537397760) | advertise |
 | [JaafarDafie@twitter](https://twitter.com/JaafarDafie/status/1401898919118790659) | advertise |
@@ -6457,6 +6458,7 @@ Do not create new issue or we will close it as duplicate.
 | [KoShweMya2@twitter](https://twitter.com/KoShweMya2/status/1376818370129981445) | advertise |
 | [kositt68294912@twitter](https://twitter.com/kositt68294912/status/1392524396695326730) | advertise |
 | [KosoeGy85655872@twitter](https://twitter.com/KosoeGy85655872/status/1394288983681601542) | advertise |
+| [KoSoeHtay617556@twitter](https://twitter.com/KoSoeHtay617556/status/1689670711240282112) | advertise |
 | [kotas52711651@twitter](https://twitter.com/kotas52711651/status/1385922603764785153) | advertise |
 | [Kothannaingtun2@twitter](https://twitter.com/Kothannaingtun2/status/1399814756605698048) | advertise |
 | [kothant66709699@twitter](https://twitter.com/kothant66709699/status/1390219198606069762) | advertise |
@@ -8501,6 +8503,7 @@ Do not create new issue or we will close it as duplicate.
 | [NAABIL49027157@twitter](https://twitter.com/NAABIL49027157/status/1387326620009074692) | advertise |
 | [naamloser@twitter](https://twitter.com/naamloser/status/1503867812963569666) | advertise |
 | [naba7419@twitter](https://twitter.com/naba7419/status/1622887893436858368) | advertise |
+| [nabeelAJK@twitter](https://twitter.com/nabeelAJK/status/1689683069983453184) | advertise |
 | [Nabinka11757125@twitter](https://twitter.com/Nabinka11757125/status/1653675851559337984) | advertise |
 | [nabin_ss@twitter](https://twitter.com/nabin_ss/status/1562381057974214657) | advertise |
 | [nadeemshahzad07@twitter](https://twitter.com/nadeemshahzad07/status/1563845130565881856) | advertise |
