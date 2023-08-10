@@ -15223,6 +15223,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ginpatu.moe` | Yes |
 | `giobu.cyou` | No |
 | `gioia.cloud` | No |
+| `gioia.news` | No |
 | `gioia.social` | No |
 | `giom.fr` | No |
 | `gion.me` | No |
@@ -38896,6 +38897,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `stoat.icu` | No |
 | `stoat.org.uk` | No |
 | `stoat.zone` | No |
+| `stocks.id.au` | Yes |
 | `stocktwits.social` | No |
 | `stodon.com` | No |
 | `stodon.fr` | No |
@@ -46902,8 +46904,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,830 |
-| Normal | 34,028 |
+| Cloudflare | 12,831 |
+| Normal | 34,029 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
