@@ -31,7 +31,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | social | 4,452 |
 | net | 3,638 |
 | org | 2,448 |
-| de | 2,252 |
+| de | 2,253 |
 
 
 - Mastodon, Pleroma, etc
@@ -6189,6 +6189,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `castodon.jp` | No |
 | `castopod.social` | No |
 | `castoranxieux.ca` | No |
+| `castpub.online` | Yes |
 | `casual.systems` | Yes |
 | `casually.cat` | Yes |
 | `casuallyblue.xyz` | No |
@@ -14460,6 +14461,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `futurist.info` | Yes |
 | `futurist.pub` | No |
 | `futurnumerique.com` | No |
+| `futurology.today` | Yes |
 | `futvretown.com` | No |
 | `fuwa.pink` | No |
 | `fuwafuwa.club` | Yes |
@@ -19144,6 +19146,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `jakest.us` | Yes |
 | `jakewalker.social` | No |
 | `jakewharton.com` | No |
+| `jakira.space` | No |
 | `jako.social` | Yes |
 | `jakob-altmann.de` | No |
 | `jakob.space` | No |
@@ -22581,6 +22584,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `lewdieheaven.com` | No |
 | `lewisdale.dev` | No |
 | `lewishamcyclists.org.uk` | No |
+| `lewy.world` | Yes |
 | `lex-blog.eu` | No |
 | `lexa.red` | No |
 | `lexcom.cloud` | Yes |
@@ -31037,6 +31041,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `page.lgbt` | Yes |
 | `pagekite.me` | No |
 | `pageofwords.com` | No |
+| `pages.dev` | Yes |
 | `pagez.co.uk` | No |
 | `pah.social` | No |
 | `paidspeechextremist.com` | Yes |
@@ -32779,6 +32784,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ppplot.top` | Yes |
 | `ppsfleet.navy` | No |
 | `pptdn.jp` | Yes |
+| `pptie.de` | No |
 | `pqc.io` | No |
 | `pqchub.com` | Yes |
 | `pquirk.com` | No |
@@ -34921,7 +34927,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `robertwhite.social` | Yes |
 | `robflop.me` | Yes |
 | `robin.software` | Yes |
-| `robincussol.com` | No |
+| `robincussol.com` | Yes |
 | `robinjanssens.com` | Yes |
 | `robinsloan.com` | No |
 | `robinsmediateam.dev` | Yes |
@@ -46914,8 +46920,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,835 |
-| Normal | 34,035 |
+| Cloudflare | 12,840 |
+| Normal | 34,036 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
