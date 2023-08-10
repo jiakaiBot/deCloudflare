@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Intermittent error rates affecting cache, waf, workers and pages](https://github.com/MatBenfield/news/issues/17518)
 - [/api/v1/contracts/call failing when using Swagger UI](https://github.com/hashgraph/hedera-mirror-node/issues/6629)
 - [Allow it to work on edge (e.g. cloudflare workers)](https://github.com/ajv-validator/ajv/issues/2318)
 - [Server authorization error: insufficient permissions](https://github.com/DavidMStraub/gramps-web-sync/issues/18)
