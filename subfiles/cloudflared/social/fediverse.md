@@ -27,9 +27,9 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,153 |
+| com | 7,154 |
 | social | 4,451 |
-| net | 3,635 |
+| net | 3,638 |
 | org | 2,446 |
 | de | 2,250 |
 
@@ -7528,7 +7528,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9641,7 +9641,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `detmi.social` | No |
 | `detoffol.com` | No |
 | `detomu.net` | No |
-| `detrended.net` | Yes |
+| `detrended.net` | No |
 | `detroit.lol` | No |
 | `detroitriotcity.com` | Yes |
 | `dettenheim.social` | No |
@@ -10603,6 +10603,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `dreamersreality.dev` | No |
 | `dreamgate4u.de` | No |
 | `dreamin.online` | No |
+| `dreamisskey.net` | Yes |
 | `dreamland.llc` | No |
 | `dreamypig.art` | Yes |
 | `dreckigerdan.com` | No |
@@ -12799,6 +12800,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `fedimas.com` | Yes |
 | `fedimast.com` | No |
 | `fedimav.win` | Yes |
+| `fedimins.net` | No |
 | `fedimix.dev` | No |
 | `fedimmend.com` | No |
 | `fedimon.uk` | No |
@@ -14349,6 +14351,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `fura.dev` | No |
 | `furactive.us` | No |
 | `furality.social` | No |
+| `furamon.blue` | Yes |
 | `furamon.com` | Yes |
 | `furankum.ovh` | No |
 | `furbidden.com` | No |
@@ -17273,7 +17276,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `hohn.cloud` | No |
 | `hoi-polloi.org` | No |
 | `hoi.st` | No |
-| `hoijyun.com` | Yes |
+| `hoijyun.com` | No |
 | `hoki.social` | Yes |
 | `hokkaidosm.net` | No |
 | `hokuto.social` | No |
@@ -42472,6 +42475,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `tuna2134.dev` | Yes |
 | `tunahan.me` | Yes |
 | `tunahan.social` | Yes |
+| `tunetalk.jp` | Yes |
 | `tuning.social` | No |
 | `tunkki.xyz` | Yes |
 | `tunnelcat.net` | No |
@@ -45078,7 +45082,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `witzki.me` | Yes |
 | `wiuse.work` | No |
 | `wiuwiu.de` | No |
-| `wivodaim.com` | Yes |
+| `wivodaim.com` | No |
 | `wivodaim.net` | No |
 | `wiwi.nrw` | No |
 | `wiwi.video` | No |
@@ -45623,6 +45627,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `xirb-solutions.de` | No |
 | `xirion.net` | No |
 | `xirtak.com` | Yes |
+| `xisskey.net` | Yes |
 | `xistinflow.net` | No |
 | `xitus.club` | No |
 | `xiu.io` | No |
@@ -46867,6 +46872,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `zymocosm.com` | No |
 | `zyno.us` | No |
 | `zyoh.net` | Yes |
+| `zyoshoka.com` | Yes |
 | `zyphon.com` | No |
 | `zyphr.xyz` | Yes |
 | `zyphyr.de` | No |
@@ -46891,8 +46897,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,827 |
-| Normal | 34,020 |
+| Cloudflare | 12,828 |
+| Normal | 34,025 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
