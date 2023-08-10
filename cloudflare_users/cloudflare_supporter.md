@@ -1441,6 +1441,7 @@ Do not create new issue or we will close it as duplicate.
 | [azim56828133@twitter](https://twitter.com/azim56828133/status/1377551649372258306) | advertise |
 | [azinfosys@twitter](https://twitter.com/azinfosys/status/1392180712137236480) | advertise |
 | [AzinMahan@twitter](https://twitter.com/AzinMahan/status/1383158824387813377) | advertise |
+| [azizazizi_@twitter](https://twitter.com/azizazizi_/status/1689437197433540608) | advertise |
 | [azizcr977@twitter](https://twitter.com/azizcr977/status/1549507316721979392) | advertise |
 | [AzizulmollaA@twitter](https://twitter.com/AzizulmollaA/status/1402408516640415745) | advertise |
 | [Azm29410445@twitter](https://twitter.com/Azm29410445/status/1404842111497691136) | advertise |
