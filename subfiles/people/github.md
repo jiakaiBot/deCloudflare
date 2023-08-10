@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Server authorization error: insufficient permissions](https://github.com/DavidMStraub/gramps-web-sync/issues/18)
+- [Code generation from strings disallowed for this context](https://github.com/kevinmarrec/h3-typebox/issues/8)
 - [Maintenance Mode Returning 503 Causes Issues with DO Load Balancer and Cloudflare](https://github.com/pupilfirst/pupilfirst/issues/1384)
 - [Site from lightsail snapshot not working](https://github.com/bitnami/vms/issues/1087)
 - [Architecture: aarch64 not supported](https://github.com/P3TERX/warp.sh/issues/110)
