@@ -315,6 +315,7 @@ Do not create new issue or we will close it as duplicate.
 | [Abre74180404@twitter](https://twitter.com/Abre74180404/status/1396704011009413120) | advertise |
 | [abshireto33@twitter](https://twitter.com/abshireto33/status/1638831403281383424) | advertise |
 | [AbuDaudAhmad1@twitter](https://twitter.com/AbuDaudAhmad1/status/1546309538747678720) | advertise |
+| [Abuleen84@twitter](https://twitter.com/Abuleen84/status/1689967069347946496) | advertise |
 | [ABUMUHAMMEDDRA1@twitter](https://twitter.com/ABUMUHAMMEDDRA1/status/1548655532004614144) | advertise |
 | [AbuNathanHale@twitter](https://twitter.com/AbuNathanHale/status/1665889143048503297) | advertise |
 | [abusolegal@twitter](https://twitter.com/abusolegal/status/1516444548653854724) | advertise |
@@ -8368,6 +8369,7 @@ Do not create new issue or we will close it as duplicate.
 | [murad_hatem@twitter](https://twitter.com/murad_hatem/status/1407170868220989441) | advertise |
 | [muran786@twitter](https://twitter.com/muran786/status/1380217989790900228) | advertise |
 | [murilogramos@twitter](https://twitter.com/murilogramos/status/1386691482225086464) | advertise |
+| [MurtadhaRad@twitter](https://twitter.com/MurtadhaRad/status/1689969453377761280) | advertise |
 | [Musa19974@twitter](https://twitter.com/Musa19974/status/1468765690538643461) | advertise |
 | [MusashiKazuhiro@twitter](https://twitter.com/MusashiKazuhiro/status/1626937334032928768) | advertise |
 | [musicapopcool@twitter](https://twitter.com/musicapopcool/status/1385421045776146432) | advertise |
@@ -14119,6 +14121,7 @@ Do not create new issue or we will close it as duplicate.
 | [zahrafarouq1@twitter](https://twitter.com/zahrafarouq1/status/1401092958972166147) | advertise |
 | [ZAHRSAEED@twitter](https://twitter.com/ZAHRSAEED/status/1494523655556059137) | advertise |
 | [zaid3413@twitter](https://twitter.com/zaid3413/status/1643359354106818560) | advertise |
+| [zaiddddm@twitter](https://twitter.com/zaiddddm/status/1689972068706611200) | advertise |
 | [Zaid_Dawoud@twitter](https://twitter.com/Zaid_Dawoud/status/1632443594668662786) | advertise |
 | [zaimiesmy1@twitter](https://twitter.com/zaimiesmy1/status/1584188095356112896) | advertise |
 | [zak08_@twitter](https://twitter.com/zak08_/status/1665738977603915776) | advertise |
