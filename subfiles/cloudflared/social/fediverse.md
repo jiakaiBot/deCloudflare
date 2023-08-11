@@ -27,10 +27,10 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,161 |
+| com | 7,163 |
 | social | 4,452 |
 | net | 3,642 |
-| org | 2,449 |
+| org | 2,450 |
 | de | 2,253 |
 
 
@@ -4381,6 +4381,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `billybradley.uk` | No |
 | `billyiii.me` | No |
 | `billys.mom` | Yes |
+| `bim.boats` | Yes |
 | `bim.land` | No |
 | `bimal.link` | Yes |
 | `bimal.social` | Yes |
@@ -15325,6 +15326,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `gleasonator.dev` | Yes |
 | `glee.li` | Yes |
 | `gleeson.app` | No |
+| `gleeson.org` | No |
 | `gleisnetze.de` | No |
 | `glemza.net` | Yes |
 | `glen.social` | No |
@@ -30970,6 +30972,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ozlabs.house` | No |
 | `ozoned.net` | No |
 | `ozstream.net.au` | No |
+| `oztorah.com` | Yes |
 | `p-arte.org` | No |
 | `p-dev.net` | No |
 | `p-epsilon.com` | Yes |
@@ -44974,6 +44977,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `william.cool` | No |
 | `williamb78.ovh` | Yes |
 | `williamedwards.io` | No |
+| `williampuckering.com` | Yes |
 | `williamrehwinkel.net` | No |
 | `williamscloud.space` | No |
 | `williamsonday.buzz` | No |
@@ -46938,8 +46942,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,849 |
-| Normal | 34,045 |
+| Cloudflare | 12,852 |
+| Normal | 34,046 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
