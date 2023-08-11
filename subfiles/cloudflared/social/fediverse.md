@@ -31,7 +31,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | social | 4,454 |
 | net | 3,643 |
 | org | 2,450 |
-| de | 2,253 |
+| de | 2,254 |
 
 
 - Mastodon, Pleroma, etc
@@ -11577,6 +11577,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `emotionalboys.club` | No |
 | `emotive.design` | No |
 | `emotor.tours` | No |
+| `empathic-community.de` | No |
 | `empathiebullshit.de` | No |
 | `empathyintech.com` | No |
 | `empathytech.net` | No |
@@ -27981,7 +27982,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `nametaketakewo.net` | Yes |
 | `namknat.win` | No |
 | `namok.be` | No |
-| `namt.uk` | No |
+| `namt.uk` | Yes |
 | `namtari.com` | Yes |
 | `namtsui.com` | No |
 | `namwen.me` | No |
@@ -33121,7 +33122,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `pseek.fr` | Yes |
 | `pseudo-whiskey.bar` | No |
 | `pseudoramble.com` | No |
-| `psimon.world` | Yes |
+| `psimon.world` | No |
 | `psion.co` | No |
 | `psionprotocol.com` | No |
 | `psipsistar.com` | No |
@@ -46950,7 +46951,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,855 |
-| Normal | 34,050 |
+| Normal | 34,051 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
