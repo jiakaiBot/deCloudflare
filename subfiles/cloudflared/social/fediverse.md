@@ -28,8 +28,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | TLD | Count |
 | --- | --- |
 | com | 7,164 |
-| social | 4,452 |
-| net | 3,642 |
+| social | 4,454 |
+| net | 3,643 |
 | org | 2,450 |
 | de | 2,253 |
 
@@ -10689,6 +10689,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `drphildowns.com` | No |
 | `drrsatzteil.de` | No |
 | `drskrzyk.com` | No |
+| `drtl.nl` | No |
 | `dru5k1.com` | Yes |
 | `druid.town` | No |
 | `drumbum42.com` | No |
@@ -17502,6 +17503,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `hostyourown.tools` | No |
 | `hot-climate-topics.net` | No |
 | `hotaruxd.me` | No |
+| `hotaudiofiction.social` | No |
 | `hotdog.place` | No |
 | `hotdok.dk` | No |
 | `hotelbaghdad.net` | No |
@@ -31900,6 +31902,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `pics.mu` | No |
 | `pictic.nl` | Yes |
 | `pictochat.net` | No |
+| `pictogram.social` | No |
 | `pictureofreality.com` | No |
 | `picverse.am` | No |
 | `pid1.sh` | Yes |
@@ -35071,6 +35074,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `rolldice.online` | Yes |
 | `rollemaa.fi` | Yes |
 | `rollenspiel.events` | No |
+| `rollenspiel.forum` | No |
 | `rollenspiel.group` | No |
 | `rollenspiel.monster` | No |
 | `rollenspiel.social` | No |
@@ -36029,6 +36033,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `scdmx.de` | Yes |
 | `scds.ca` | No |
 | `scenecore.net` | No |
+| `scenetin.net` | Yes |
 | `sceneworld.org` | No |
 | `scfzfilm.org` | No |
 | `schaal-server.de` | No |
@@ -39833,7 +39838,6 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `takesama.com` | Yes |
 | `takesato.io` | Yes |
 | `taketodon.com` | No |
-| `takeya.qa` | No |
 | `takeyourmeds.xyz` | No |
 | `takeyu.club` | No |
 | `takezin.page` | No |
@@ -45068,6 +45072,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `wireheadmechanist.com` | No |
 | `wireheads.org` | No |
 | `wireless-iot.social` | No |
+| `wireless.community` | No |
 | `wires.gg` | Yes |
 | `wirhackendeinen.club` | No |
 | `wirnity.de` | No |
@@ -45925,6 +45930,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `xxivproduction.video` | No |
 | `xxoo.best` | No |
 | `xxoo.cat` | Yes |
+| `xxooxx.xyz` | Yes |
 | `xxx-en.com` | No |
 | `xxxporn.co.uk` | No |
 | `xxxtumblr.org` | No |
@@ -46943,8 +46949,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,853 |
-| Normal | 34,046 |
+| Cloudflare | 12,855 |
+| Normal | 34,050 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
