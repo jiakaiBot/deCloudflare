@@ -29,7 +29,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | --- | --- |
 | com | 7,155 |
 | social | 4,452 |
-| net | 3,638 |
+| net | 3,639 |
 | org | 2,448 |
 | de | 2,253 |
 
@@ -3541,7 +3541,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `badfellas.media` | No |
 | `badgay.net` | No |
 | `badge.supply` | No |
-| `badger.dance` | Yes |
+| `badger.dance` | No |
 | `badgergirl.games` | No |
 | `badgerson.com` | No |
 | `badgirls.org.uk` | No |
@@ -8211,6 +8211,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `crschmidt.net` | No |
 | `crtaxon.info` | No |
 | `crtcollective.com` | No |
+| `crucialsommets.net` | No |
 | `crucible.world` | No |
 | `cruiserhome.org` | No |
 | `cruisers.social` | No |
@@ -46920,8 +46921,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,840 |
-| Normal | 34,036 |
+| Cloudflare | 12,839 |
+| Normal | 34,038 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
