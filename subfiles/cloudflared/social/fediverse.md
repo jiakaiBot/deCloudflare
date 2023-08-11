@@ -29,8 +29,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | --- | --- |
 | com | 7,161 |
 | social | 4,452 |
-| net | 3,641 |
-| org | 2,448 |
+| net | 3,642 |
+| org | 2,449 |
 | de | 2,253 |
 
 
@@ -8261,6 +8261,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `cryptombit.com` | Yes |
 | `cryptonica.de` | No |
 | `cryptonomic.tech` | Yes |
+| `cryptoriot.org` | No |
 | `cryptos.cloud` | No |
 | `cryptos.jp` | No |
 | `cryptoschizo.club` | No |
@@ -12165,6 +12166,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ewsandor.com` | No |
 | `ex-studio.info` | No |
 | `ex7ra.es` | No |
+| `exabytes.space` | Yes |
 | `exactly.news` | No |
 | `exan.tech` | Yes |
 | `exanimate.net` | No |
@@ -17289,6 +17291,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `hoi-polloi.org` | No |
 | `hoi.st` | No |
 | `hoijyun.com` | No |
+| `hokai.lol` | Yes |
 | `hoki.social` | Yes |
 | `hokkaidosm.net` | No |
 | `hokuto.social` | No |
@@ -29627,6 +29630,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `nulled.red` | Yes |
 | `nulled.social` | No |
 | `nullfu.org` | No |
+| `nullio.net` | Yes |
 | `nullisland.social` | No |
 | `nullnet.us` | No |
 | `nullnummern.de` | No |
@@ -46934,8 +46938,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,846 |
-| Normal | 34,044 |
+| Cloudflare | 12,849 |
+| Normal | 34,045 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
