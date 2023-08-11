@@ -11912,6 +11912,7 @@ Do not create new issue or we will close it as duplicate.
 | [talktoai@twitter](https://twitter.com/talktoai/status/1649175122241101825) | advertise |
 | [Tallcock3@twitter](https://twitter.com/Tallcock3/status/1382915646799843331) | advertise |
 | [TallisTran@twitter](https://twitter.com/TallisTran/status/1530143952606597120) | advertise |
+| [taltho2020@twitter](https://twitter.com/taltho2020/status/1689946558312181760) | advertise |
 | [tamakuku@twitter](https://twitter.com/tamakuku/status/1399404482987925505) | advertise |
 | [tamimalnow21@twitter](https://twitter.com/tamimalnow21/status/1514009136719085576) | advertise |
 | [TamimRupo@twitter](https://twitter.com/TamimRupo/status/1527364413397041153) | advertise |
