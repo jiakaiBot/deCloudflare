@@ -27,7 +27,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,160 |
+| com | 7,161 |
 | social | 4,452 |
 | net | 3,640 |
 | org | 2,448 |
@@ -3610,6 +3610,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `baldurbjarnason.com` | No |
 | `baleafunk.eus` | No |
 | `balena-devices.com` | Yes |
+| `balerno.town` | No |
 | `ballantine.family` | No |
 | `ballhaus.community` | No |
 | `ballhaus.media` | No |
@@ -9294,7 +9295,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `debt.dev` | No |
 | `debuenrollo.org` | No |
 | `debugco.de` | No |
-| `debula.ml` | Yes |
+| `debula.ml` | No |
 | `decafbad.com` | No |
 | `decarboxy.chat` | No |
 | `decatec.de` | No |
@@ -25765,6 +25766,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `meteor.ne.jp` | Yes |
 | `meteor1.de` | No |
 | `meteora.gg` | No |
+| `meter2cash.ch` | No |
 | `methamphetamine.monster` | No |
 | `methanolinjected.club` | No |
 | `method-n.com` | No |
@@ -43918,6 +43920,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `viral.ar` | Yes |
 | `viraladdiction.com` | Yes |
 | `virctuary.com` | No |
+| `virgilholmes.com` | Yes |
 | `virgulilla.com` | No |
 | `viridianpatriots.com` | No |
 | `viridiome.ga` | No |
@@ -46931,7 +46934,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,845 |
-| Normal | 34,041 |
+| Normal | 34,044 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
