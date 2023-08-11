@@ -29,7 +29,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | --- | --- |
 | com | 7,161 |
 | social | 4,452 |
-| net | 3,640 |
+| net | 3,641 |
 | org | 2,448 |
 | de | 2,253 |
 
@@ -23961,6 +23961,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `magi-lab.com` | No |
 | `magi.sh` | No |
 | `magi.systems` | Yes |
+| `magialab.net` | Yes |
 | `magic.win` | No |
 | `magical-ribbon.net` | No |
 | `magicalgirl.party` | No |
@@ -46933,7 +46934,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,845 |
+| Cloudflare | 12,846 |
 | Normal | 34,044 |
 
 
