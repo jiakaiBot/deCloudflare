@@ -38,6 +38,7 @@ Do not create new issue or we will close it as duplicate.
 | [0b00d7ff853f434@twitter](https://twitter.com/0b00d7ff853f434/status/1389609817413611520) | advertise |
 | [0Block0_o@twitter](https://twitter.com/0Block0_o/status/1659148323151036416) | advertise |
 | [0mgRod@twitter](https://twitter.com/0mgRod/status/1612107346204827648) | advertise |
+| [0x38_bsc@twitter](https://twitter.com/0x38_bsc/status/1689851587496378369) | advertise |
 | [0xCompton90@twitter](https://twitter.com/0xCompton90/status/1564576517283258369) | advertise |
 | [0xF00DBABE@twitter](https://twitter.com/0xF00DBABE/status/1389288756025376768) | advertise |
 | [0xGodson_@twitter](https://twitter.com/0xGodson_/status/1669350965278052359) | advertise |
@@ -297,6 +298,7 @@ Do not create new issue or we will close it as duplicate.
 | [abkrimms@twitter](https://twitter.com/abkrimms/status/1456514766554402859) | advertise |
 | [abney77580215@twitter](https://twitter.com/abney77580215/status/1508581283072548873) | advertise |
 | [abodadas123@twitter](https://twitter.com/abodadas123/status/1473682732354084870) | advertise |
+| [abodd09079727@twitter](https://twitter.com/abodd09079727/status/1689917076725460992) | advertise |
 | [abol9523@twitter](https://twitter.com/abol9523/status/1389172386025574402) | advertise |
 | [abolancer@twitter](https://twitter.com/abolancer/status/1387199448606982159) | advertise |
 | [abolfazl125b@twitter](https://twitter.com/abolfazl125b/status/1577852546378522624) | advertise |
@@ -1745,6 +1747,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bin9x_tk@twitter](https://twitter.com/Bin9x_tk/status/1493220055970365444) | advertise |
 | [Bin11022@twitter](https://twitter.com/Bin11022/status/1397241104777596931) | advertise |
 | [Binayak_thulung@twitter](https://twitter.com/Binayak_thulung/status/1395953392862773248) | advertise |
+| [BinBi19996264@twitter](https://twitter.com/BinBi19996264/status/1689927298592702464) | advertise |
 | [bincz5@twitter](https://twitter.com/bincz5/status/1552788512545861634) | advertise |
 | [binesh55363773@twitter](https://twitter.com/binesh55363773/status/1647220272230006784) | advertise |
 | [bingando15121@twitter](https://twitter.com/bingando15121/status/1553441382718529536) | advertise |
@@ -7270,6 +7273,7 @@ Do not create new issue or we will close it as duplicate.
 | [M1kimerlan1@twitter](https://twitter.com/M1kimerlan1/status/1570147993810272258) | advertise |
 | [m1lo20@twitter](https://twitter.com/m1lo20/status/1391605926424109056) | advertise |
 | [M2M07044707@twitter](https://twitter.com/M2M07044707/status/1397223341346394112) | advertise |
+| [m2tuqh@twitter](https://twitter.com/m2tuqh/status/1689921183112708096) | advertise |
 | [M7Dgc@twitter](https://twitter.com/M7Dgc/status/1580870778941472768) | advertise |
 | [m7madsh3ban@twitter](https://twitter.com/m7madsh3ban/status/1667818237281665025) | advertise |
 | [M7med_Al3shry@twitter](https://twitter.com/M7med_Al3shry/status/1687586196816334849) | advertise |
