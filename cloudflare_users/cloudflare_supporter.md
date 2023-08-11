@@ -2764,6 +2764,7 @@ Do not create new issue or we will close it as duplicate.
 | [davidciamarro@twitter](https://twitter.com/davidciamarro/status/1427460769176768516) | advertise |
 | [DavidDo97030067@twitter](https://twitter.com/DavidDo97030067/status/1398524017527586820) | advertise |
 | [davidjnorris@twitter](https://twitter.com/davidjnorris/status/1412488514130821121) | moral (advertise) |
+| [Davidkien14@twitter](https://twitter.com/Davidkien14/status/1689795366047436800) | advertise |
 | [DavidMa4000@twitter](https://twitter.com/DavidMa4000/status/1387060314919800837) | advertise |
 | [DavidMartin0091@twitter](https://twitter.com/DavidMartin0091/status/1395217999108341762) | advertise |
 | [DavidMo18800778@twitter](https://twitter.com/DavidMo18800778/status/1588202144963837953) | advertise |
@@ -11824,6 +11825,7 @@ Do not create new issue or we will close it as duplicate.
 | [SweYiPhyo1@twitter](https://twitter.com/SweYiPhyo1/status/1397547716910018560) | advertise |
 | [swe_sone@twitter](https://twitter.com/swe_sone/status/1392755306854293506) | advertise |
 | [swjmj01@twitter](https://twitter.com/swjmj01/status/1627757920288120832) | advertise |
+| [swnly1367396@twitter](https://twitter.com/swnly1367396/status/1689812799931768834) | advertise |
 | [sx_313@twitter](https://twitter.com/sx_313/status/1579576121779433472) | advertise |
 | [Syahputra902@twitter](https://twitter.com/Syahputra902/status/1405110962055643136) | advertise |
 | [syahril_akbar32@twitter](https://twitter.com/syahril_akbar32/status/1468464046445785089) | advertise |
