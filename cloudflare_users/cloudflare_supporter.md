@@ -13168,6 +13168,7 @@ Do not create new issue or we will close it as duplicate.
 | [Uzumaki19799215@twitter](https://twitter.com/Uzumaki19799215/status/1404393913063034884) | advertise |
 | [UzziGen@twitter](https://twitter.com/UzziGen/status/1502034839511384068) | advertise |
 | [u_c_space@twitter](https://twitter.com/u_c_space/status/1454812053697355782) | advertise |
+| [u_wabi@twitter](https://twitter.com/u_wabi/status/1316153534241406977) | advertise |
 | [v1v_ak@twitter](https://twitter.com/v1v_ak/status/1681347122191384592) | advertise |
 | [V666tiz@twitter](https://twitter.com/V666tiz/status/1571194420275589120) | advertise |
 | [v164476@twitter](https://twitter.com/v164476/status/1680220379422543874) | advertise |
