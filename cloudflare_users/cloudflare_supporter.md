@@ -5557,6 +5557,7 @@ Do not create new issue or we will close it as duplicate.
 | [JhonSmi72811389@twitter](https://twitter.com/JhonSmi72811389/status/1390912436341854208) | advertise |
 | [JHoonbabe@twitter](https://twitter.com/JHoonbabe/status/1390549372186730498) | advertise |
 | [jHxLav8ObDrTdrc@twitter](https://twitter.com/jHxLav8ObDrTdrc/status/1401749357381120000) | advertise |
+| [jiaozhudezhuzhu@twitter](https://twitter.com/jiaozhudezhuzhu/status/1690024620056010752) | advertise |
 | [Jibin1291@twitter](https://twitter.com/Jibin1291/status/1486566580121079809) | advertise |
 | [jibutare@twitter](https://twitter.com/jibutare/status/1491201904231477248) | advertise |
 | [jiiahani@twitter](https://twitter.com/jiiahani/status/1399603047244853249) | advertise |
@@ -13830,6 +13831,7 @@ Do not create new issue or we will close it as duplicate.
 | [XZIzIzcDqm5htEy@twitter](https://twitter.com/XZIzIzcDqm5htEy/status/1381304962840358914) | advertise |
 | [xzykho@twitter](https://twitter.com/xzykho/status/1374177504546619395) | advertise |
 | [xzyx111@twitter](https://twitter.com/xzyx111/status/1475478052272410629) | advertise |
+| [x__arron__x@twitter](https://twitter.com/x__arron__x/status/1690014035863801857) | advertise |
 | [y1w6DqzcNvOCqlk@twitter](https://twitter.com/y1w6DqzcNvOCqlk/status/1399783218384019461) | advertise |
 | [Y2KPARADISE@twitter](https://twitter.com/Y2KPARADISE/status/1379677564856373249) | advertise |
 | [y2pNVkQPT26gvTC@twitter](https://twitter.com/y2pNVkQPT26gvTC/status/1377187578583994368) | advertise |
@@ -13860,6 +13862,7 @@ Do not create new issue or we will close it as duplicate.
 | [YamasakiAnzuu@twitter](https://twitter.com/YamasakiAnzuu/status/1553827206887280640) | advertise |
 | [yamone_thet@twitter](https://twitter.com/yamone_thet/status/1395595149766397961) | advertise |
 | [Yamyindee_nai@twitter](https://twitter.com/Yamyindee_nai/status/1552747744670134272) | advertise |
+| [Yan08376650@twitter](https://twitter.com/Yan08376650/status/1690027201633382400) | advertise |
 | [YanAungThaw2@twitter](https://twitter.com/YanAungThaw2/status/1389760347205079042) | advertise |
 | [YanChay3@twitter](https://twitter.com/YanChay3/status/1391908840484982787) | advertise |
 | [Yandi62778431@twitter](https://twitter.com/Yandi62778431/status/1557397109611327488) | advertise |
