@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-08-11: [Increased HTTP 5xx Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/v228wfmz0z7f)
 - 2023-08-11: [Increased HTTP 500 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2xffnv666yd7)
 - 2023-08-08: [Gateway DNS Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/k0xq9zdqs8hk)
 - 2023-08-08: [Network Performance Issues in Cape Town, South Africa (CPT)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fh2nfs3qrdjz)
