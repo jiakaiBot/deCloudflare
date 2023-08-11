@@ -27,9 +27,9 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,155 |
+| com | 7,160 |
 | social | 4,452 |
-| net | 3,639 |
+| net | 3,640 |
 | org | 2,448 |
 | de | 2,253 |
 
@@ -4838,6 +4838,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `bludood.com` | Yes |
 | `blue-mastodon.club` | No |
 | `blue-sky.world` | No |
+| `blue-write.com` | No |
 | `blue0a6m5c.yokohama` | No |
 | `blueadair.net` | Yes |
 | `blueand.red` | No |
@@ -10540,6 +10541,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `dragast.me` | No |
 | `dragchaser.com` | No |
 | `dragn.gay` | Yes |
+| `drago.moe` | Yes |
 | `dragomen.org` | No |
 | `dragon-fly.club` | Yes |
 | `dragon-lair.social` | No |
@@ -17046,6 +17048,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `highfivesquad.com` | No |
 | `highlandarrow.com` | No |
 | `highlandschurch.net` | No |
+| `highlightmilk.net` | Yes |
 | `highplains.social` | No |
 | `highspirits.games` | No |
 | `highteq.net` | Yes |
@@ -17523,6 +17526,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `housegoater.co.uk` | No |
 | `houseofcreativeweirdos.com` | No |
 | `houseofillrepute.social` | No |
+| `houseofkyle.com` | Yes |
 | `houseofloy.net` | Yes |
 | `houseofthevoid.com` | No |
 | `housesmith.dev` | No |
@@ -21249,6 +21253,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `kokopi.me` | Yes |
 | `kokoro.garden` | No |
 | `kokoti.org` | No |
+| `kokshi.com` | Yes |
 | `kokt.club` | Yes |
 | `kokuchidon.net` | No |
 | `kokuda.org` | No |
@@ -26651,6 +26656,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `mofu2charger-listenradio.net` | No |
 | `mofucloud.com` | No |
 | `mofumofu.me` | Yes |
+| `mofumofugarden.com` | Yes |
 | `mog.blue` | Yes |
 | `mog.gg` | Yes |
 | `mogenius.io` | Yes |
@@ -28732,6 +28738,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `nicheosala.xyz` | No |
 | `nichi.co` | No |
 | `nichijou.dev` | No |
+| `nichipon.com` | No |
 | `nicholson.is` | No |
 | `nicholson.social` | Yes |
 | `nickbell.uk` | Yes |
@@ -43571,6 +43578,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `varishangout.net` | Yes |
 | `varishangout.org` | No |
 | `varjo.org` | No |
+| `varlotta.xyz` | Yes |
 | `varmint.town` | No |
 | `varnelis.net` | Yes |
 | `varney.fr` | No |
@@ -43725,6 +43733,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `vernunftzentrum.de` | No |
 | `veroone.fr` | No |
 | `verr.cc` | No |
+| `verse.jp` | No |
 | `versionfeeds.com` | Yes |
 | `verteiltegedanken.de` | No |
 | `vertexspew.social` | No |
@@ -46921,8 +46930,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,839 |
-| Normal | 34,038 |
+| Cloudflare | 12,845 |
+| Normal | 34,041 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
