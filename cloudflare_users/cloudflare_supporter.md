@@ -903,6 +903,7 @@ Do not create new issue or we will close it as duplicate.
 | [AnhTunLHong2@twitter](https://twitter.com/AnhTunLHong2/status/1470739724998352901) | advertise |
 | [AnhTunN28207799@twitter](https://twitter.com/AnhTunN28207799/status/1575116899632807937) | advertise |
 | [AnhVinh63370538@twitter](https://twitter.com/AnhVinh63370538/status/1509052356188848128) | advertise |
+| [AnhXuan09935285@twitter](https://twitter.com/AnhXuan09935285/status/1690015811929296896) | advertise |
 | [anh_hong9@twitter](https://twitter.com/anh_hong9/status/1646291492254920704) | advertise |
 | [anh_shiper1@twitter](https://twitter.com/anh_shiper1/status/1557637888942424065) | advertise |
 | [ani2nill@twitter](https://twitter.com/ani2nill/status/1444552778748084226) | advertise |
