@@ -33995,6 +33995,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `rapadura.site` | No |
 | `rape.town` | No |
 | `rapefeminists.network` | No |
+| `rapemeat.express` | No |
 | `rapemeat.shop` | No |
 | `rapemeat.solutions` | No |
 | `raph.tv` | No |
@@ -46951,7 +46952,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,855 |
-| Normal | 34,051 |
+| Normal | 34,052 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
