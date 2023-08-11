@@ -27,10 +27,10 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,164 |
+| com | 7,166 |
 | social | 4,455 |
 | net | 3,643 |
-| org | 2,450 |
+| org | 2,451 |
 | de | 2,254 |
 
 
@@ -2570,6 +2570,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `archybold.com` | No |
 | `arclight.pro` | Yes |
 | `arctian.org` | No |
+| `arcticfluff.eu` | No |
 | `arcticwind.social` | No |
 | `arctron.nl` | Yes |
 | `arcturus.blog` | No |
@@ -2705,6 +2706,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `arofarn.info` | No |
 | `aronwarren.com` | No |
 | `arousal.support` | No |
+| `aroy-art.com` | No |
 | `arpadblog.hu` | No |
 | `arpakuut.io` | Yes |
 | `arpatubes.net` | No |
@@ -13776,6 +13778,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `fpfle.de` | No |
 | `fpga.style` | No |
 | `fpl.social` | No |
+| `fpotfk.org` | No |
 | `fpsource.eu` | No |
 | `fpsource.info` | No |
 | `fpv.social` | No |
@@ -15246,6 +15249,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `giorgiovola.casa` | Yes |
 | `giot.es` | No |
 | `giov.dev` | Yes |
+| `gir.st` | No |
 | `giraffeviola.com` | No |
 | `girak.moe` | Yes |
 | `girak.net` | No |
@@ -28829,6 +28833,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `night.coffee` | No |
 | `nightcity.bar` | No |
 | `nightcord.de` | Yes |
+| `nightcord.live` | Yes |
 | `nightcore.monster` | No |
 | `nightglow.space` | No |
 | `nightis.land` | No |
@@ -33440,6 +33445,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `qpixel.pw` | Yes |
 | `qpomelo.app` | No |
 | `qpomelo.cc` | No |
+| `qpomelo.dev` | No |
 | `qpomelo.network` | No |
 | `qqey.net` | Yes |
 | `qqs.tw` | Yes |
@@ -43790,6 +43796,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `vgmastodon.it` | No |
 | `vgmcovers.com` | No |
 | `vgmnation.com` | No |
+| `vgn.church` | Yes |
 | `vh13.de` | No |
 | `vhcrack.gay` | Yes |
 | `vheart.online` | No |
@@ -43920,6 +43927,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `vinodjam.com` | No |
 | `vintage-home-movies.co.uk` | Yes |
 | `vintagemac1984.com` | No |
+| `vintagepointofsale.com` | No |
 | `vintageracing.social` | No |
 | `vinyl-41.de` | No |
 | `vinylor.com` | Yes |
@@ -44076,6 +44084,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `void.garden` | No |
 | `void.gift` | Yes |
 | `void.holdings` | No |
+| `void.lgbt` | No |
 | `void.monster` | Yes |
 | `void.news` | No |
 | `void.rehab` | No |
@@ -46955,8 +46964,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,856 |
-| Normal | 34,055 |
+| Cloudflare | 12,858 |
+| Normal | 34,062 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
