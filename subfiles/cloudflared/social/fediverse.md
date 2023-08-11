@@ -12345,7 +12345,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `factland.social` | Yes |
 | `factorial.io` | No |
 | `factsonthegroundshow.com` | No |
-| `fadoverso.pt` | No |
+| `fadoverso.pt` | Yes |
 | `fae.cafe` | Yes |
 | `fae.fyi` | No |
 | `faebornnetworks.org` | Yes |
@@ -23808,6 +23808,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `m33how.it` | No |
 | `m3o.org` | Yes |
 | `m3press.jp` | No |
+| `m3wz.su` | No |
 | `m400cloud.com` | No |
 | `m4570.com` | Yes |
 | `m4570.xyz` | No |
@@ -46951,7 +46952,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,855 |
+| Cloudflare | 12,856 |
 | Normal | 34,052 |
 
 
