@@ -28,7 +28,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | TLD | Count |
 | --- | --- |
 | com | 7,164 |
-| social | 4,454 |
+| social | 4,455 |
 | net | 3,643 |
 | org | 2,450 |
 | de | 2,254 |
@@ -362,6 +362,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `2core.cloud` | Yes |
 | `2demo.top` | No |
 | `2dev.de` | No |
+| `2dl.eu` | No |
 | `2dx.red` | No |
 | `2enp.cc` | Yes |
 | `2enp.com` | No |
@@ -26762,6 +26763,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `monigatti.net` | No |
 | `monigh.nl` | No |
 | `monika.im` | Yes |
+| `monitoring.cafe` | No |
 | `monke.fail` | No |
 | `monke.fans` | Yes |
 | `monkee.ch` | No |
@@ -45602,6 +45604,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `xcoder.org` | Yes |
 | `xconomy.com` | Yes |
 | `xcoolgroup.com` | No |
+| `xcore.social` | No |
 | `xcsdm.com` | Yes |
 | `xcsv.tv` | No |
 | `xd0.de` | No |
@@ -46953,7 +46956,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,856 |
-| Normal | 34,052 |
+| Normal | 34,055 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
