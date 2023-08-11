@@ -27,7 +27,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,163 |
+| com | 7,164 |
 | social | 4,452 |
 | net | 3,642 |
 | org | 2,450 |
@@ -29384,6 +29384,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `notandy.de` | No |
 | `notanow.net` | No |
 | `notaphish.fyi` | No |
+| `notaskey.com` | Yes |
 | `notasquirrel.dev` | No |
 | `notawebsite.fr` | No |
 | `notbird.app` | No |
@@ -46942,7 +46943,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,852 |
+| Cloudflare | 12,853 |
 | Normal | 34,046 |
 
 
