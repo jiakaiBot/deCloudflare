@@ -11838,6 +11838,7 @@ Do not create new issue or we will close it as duplicate.
 | [Syanl_SEA@twitter](https://twitter.com/Syanl_SEA/status/1378245568665899009) | advertise |
 | [syarifl@twitter](https://twitter.com/syarifl/status/1521397463738839043) | advertise |
 | [SyatirahMd@twitter](https://twitter.com/SyatirahMd/status/1393480198738173952) | advertise |
+| [syazliezaini92@twitter](https://twitter.com/syazliezaini92/status/1689882039145943040) | advertise |
 | [SyazwiFauzi@twitter](https://twitter.com/SyazwiFauzi/status/1553766368201568258) | advertise |
 | [syedarian9898@twitter](https://twitter.com/syedarian9898/status/1561109480058028033) | advertise |
 | [SyedFah94404165@twitter](https://twitter.com/SyedFah94404165/status/1386268969083019266) | advertise |
