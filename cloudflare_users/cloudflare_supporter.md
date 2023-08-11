@@ -5380,6 +5380,7 @@ Do not create new issue or we will close it as duplicate.
 | [jafar_a_@twitter](https://twitter.com/jafar_a_/status/1647738922049368066) | advertise |
 | [Jagannatham66@twitter](https://twitter.com/Jagannatham66/status/1539237215628304386) | advertise |
 | [Jagdish70911049@twitter](https://twitter.com/Jagdish70911049/status/1383679712208199682) | advertise |
+| [jags90481@twitter](https://twitter.com/jags90481/status/1690102499250753536) | advertise |
 | [Jahansafi128@twitter](https://twitter.com/Jahansafi128/status/1624359389606862848) | advertise |
 | [JahanTulip@twitter](https://twitter.com/JahanTulip/status/1394853895973720064) | advertise |
 | [Jahidul55686473@twitter](https://twitter.com/Jahidul55686473/status/1533044377983291393) | advertise |
@@ -8940,6 +8941,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynBn62951456@twitter](https://twitter.com/NguynBn62951456/status/1687069733571743744) | advertise |
 | [NguynBnhKin2@twitter](https://twitter.com/NguynBnhKin2/status/1383131640084398081) | advertise |
 | [Nguync38268732@twitter](https://twitter.com/Nguync38268732/status/1392228757956562944) | advertise |
+| [Nguync823578333@twitter](https://twitter.com/Nguync823578333/status/1690095209357758464) | advertise |
 | [NguyncA92385972@twitter](https://twitter.com/NguyncA92385972/status/1552695881786609664) | advertise |
 | [NguyncH56437222@twitter](https://twitter.com/NguyncH56437222/status/1625586679468953600) | advertise |
 | [NguynChao1@twitter](https://twitter.com/NguynChao1/status/1479473552743022602) | advertise |
