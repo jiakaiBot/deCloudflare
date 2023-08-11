@@ -1415,6 +1415,7 @@ Do not create new issue or we will close it as duplicate.
 | [AyeMyatMon10585@twitter](https://twitter.com/AyeMyatMon10585/status/1393027311897702402) | advertise |
 | [AyeMyoNaing3@twitter](https://twitter.com/AyeMyoNaing3/status/1390611498947342336) | advertise |
 | [ayenyeinthar2@twitter](https://twitter.com/ayenyeinthar2/status/1601248405308989440) | advertise |
+| [AyeSankyaw2@twitter](https://twitter.com/AyeSankyaw2/status/1689984079587119104) | advertise |
 | [AyeThan93595604@twitter](https://twitter.com/AyeThan93595604/status/1391429145800835074) | advertise |
 | [AyeZawSwe1@twitter](https://twitter.com/AyeZawSwe1/status/1391242761895137281) | advertise |
 | [Aye_Blin@twitter](https://twitter.com/Aye_Blin/status/1376746566334050306) | advertise |
