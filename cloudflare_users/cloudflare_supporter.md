@@ -8222,6 +8222,7 @@ Do not create new issue or we will close it as duplicate.
 | [mozilla.org](https://www.mozilla.org/) | ACTION.md:bugzilla |
 | [mo_m_1234@twitter](https://twitter.com/mo_m_1234/status/1689310613342752768) | advertise |
 | [mo_nhan@twitter](https://twitter.com/mo_nhan/status/1388524071961255936) | advertise |
+| [mo_qa89@twitter](https://twitter.com/mo_qa89/status/1689754621382688769) | advertise |
 | [MPaivandy@twitter](https://twitter.com/MPaivandy/status/1470874647461777411) | advertise |
 | [Mphay9139Ok@twitter](https://twitter.com/Mphay9139Ok/status/1614544032428101634) | advertise |
 | [Mphetamine2@twitter](https://twitter.com/Mphetamine2/status/1389550479969980417) | advertise |
@@ -10930,6 +10931,7 @@ Do not create new issue or we will close it as duplicate.
 | [samrakhimjonov@twitter](https://twitter.com/samrakhimjonov/status/1678822201724919809) | advertise |
 | [samsam36495863@twitter](https://twitter.com/samsam36495863/status/1380863072726876163) | advertise |
 | [Samsher12808325@twitter](https://twitter.com/Samsher12808325/status/1516307889388163076) | advertise |
+| [Samsung37858114@twitter](https://twitter.com/Samsung37858114/status/1689879437045813248) | advertise |
 | [samtommy@twitter](https://twitter.com/samtommy/status/1595661444368015360) | advertise |
 | [samuelglaspel@twitter](https://twitter.com/samuelglaspel/status/1670042019073499137) | advertise |
 | [samuelibk@twitter](https://twitter.com/samuelibk/status/1404790587375730688) | advertise |
@@ -13707,6 +13709,7 @@ Do not create new issue or we will close it as duplicate.
 | [Wtfosamay@twitter](https://twitter.com/Wtfosamay/status/1658058011154468866) | advertise |
 | [Wuan21335402@twitter](https://twitter.com/Wuan21335402/status/1387462878307835905) | advertise |
 | [Wunna17774353@twitter](https://twitter.com/Wunna17774353/status/1390187233764732932) | advertise |
+| [WunPhnmpey@twitter](https://twitter.com/WunPhnmpey/status/1689877625387552769) | advertise |
 | [wutingsi2903@twitter](https://twitter.com/wutingsi2903/status/1664981555922583554) | advertise |
 | [WuttYeeKyaw5@twitter](https://twitter.com/WuttYeeKyaw5/status/1395568627630309376) | advertise |
 | [wwwsai12345@twitter](https://twitter.com/wwwsai12345/status/1386903798124212232) | advertise |
