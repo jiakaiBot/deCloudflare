@@ -30,7 +30,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | com | 7,167 |
 | social | 4,455 |
 | net | 3,644 |
-| org | 2,451 |
+| org | 2,452 |
 | de | 2,256 |
 
 
@@ -8046,6 +8046,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `crank.report` | No |
 | `crap.today` | Yes |
 | `crapaud-fou.org` | Yes |
+| `crape.org` | No |
 | `crappyhost.de` | No |
 | `crashed.org` | No |
 | `crashloop.social` | No |
@@ -46970,7 +46971,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,862 |
-| Normal | 34,063 |
+| Normal | 34,064 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
