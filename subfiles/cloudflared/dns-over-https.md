@@ -41,7 +41,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | apad.pro | Yes |
 | apemlegit.my.id | No |
 | apigw.online | Yes |
-| arashi.eu.org | No |
 | artikel10.org | No |
 | avastdns.com | No |
 | avdkishore.dev | Yes |
@@ -83,7 +82,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | despagne.net | No |
 | dessoi.cloud | Yes |
 | detoxifypornblocker.com | No |
-| dgea.fr | No |
 | digitale-gesellschaft.ch | No |
 | digitalsize.net | No |
 | disconnect.app | Yes |
@@ -108,10 +106,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | duckdns.org | Yes |
 | dukun.de | No |
 | dutchwhite.nl | No |
-| ebner.tech | Yes |
 | edgy-dns.com | No |
 | edison42.dev | No |
-| ef67daisuki.club | No |
 | electrotm.org | Yes |
 | ellichua.com | No |
 | emiliyan.com | Yes |
@@ -146,7 +142,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | heliumcloud.cc | Yes |
 | hinet.net | Yes |
 | hitian.me | Yes |
-| hoerli.net | Yes |
 | hopto.org | Yes |
 | hostux.net | No |
 | huque.com | No |
@@ -184,7 +179,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | krnl.eu | Yes |
 | kss.ovh | Yes |
 | lacontrevoie.fr | No |
-| laison.ltd | No |
 | lastentarvike.fi | No |
 | lavate.ch | Yes |
 | lefolgoc.net | No |
@@ -222,7 +216,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nic.cz | No |
 | nic.lv | No |
 | nielsdb.be | No |
-| nilanjan.rocks | No |
 | niyawe.de | No |
 | njal.la | No |
 | noaddns.com | No |
@@ -246,7 +239,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | panszelescik.pl | Yes |
 | pathofgrace.com | No |
 | persiannit.net | Yes |
-| pleumkungz.com | Yes |
 | plumedns.com | Yes |
 | printk.info | Yes |
 | privado.ovh | Yes |
@@ -255,7 +247,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | qquack.org | Yes |
 | qwer.pw | Yes |
 | r0cket.net | No |
-| r1bnc.com | Yes |
 | rayneau.fr | No |
 | reckoningslug.name | Yes |
 | restena.lu | No |
@@ -263,7 +254,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rezhajul.io | No |
 | rferee.dev | Yes |
 | rin.sh | Yes |
-| rohanjain.in | Yes |
 | rokh.biz | Yes |
 | rouga.ch | Yes |
 | rsaikat.com | No |
@@ -288,7 +278,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | softcom.net | No |
 | spectrum.com | Yes |
 | spil.co.id | Yes |
-| sslip.io | Yes |
 | ssrahul96.xyz | Yes |
 | startupstack.tech | Yes |
 | streamlas.fr | Yes |
@@ -307,7 +296,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tiar.app | No |
 | tiarap.org | Yes |
 | timmes.nl | No |
-| timochan.cn | Yes |
 | tk31z.com | Yes |
 | tls-data.de | No |
 | toairs.com | No |
@@ -317,7 +305,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | twnic.tw | No |
 | unstoppable.io | Yes |
 | uplenk.com | Yes |
-| vasi.li | No |
 | vendorvista.xyz | Yes |
 | vinnyp.xyz | Yes |
 | virga.pp.ua | Yes |
@@ -346,8 +333,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 165 |
-| Normal | 162 |
+| Cloudflare | 158 |
+| Normal | 156 |
 
 
-### 50.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
