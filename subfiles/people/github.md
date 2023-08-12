@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ubuntu 22.04 LTS 安装失败](https://github.com/mack-a/v2ray-agent/issues/749)
 - [ERR fail to generate certificate.](https://github.com/acmesh-official/acme.sh/issues/4732)
 - [Cloudflare challenge error for Furaffinity](https://github.com/mikf/gallery-dl/issues/4415)
 - [pynocaptcha 1.6.2 has 2 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/57547)
