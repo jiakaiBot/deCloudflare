@@ -29,9 +29,9 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | --- | --- |
 | com | 7,167 |
 | social | 4,455 |
-| net | 3,645 |
+| net | 3,644 |
 | org | 2,451 |
-| de | 2,254 |
+| de | 2,256 |
 
 
 - Mastodon, Pleroma, etc
@@ -5036,7 +5036,6 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `bolsunovskyi.com` | No |
 | `boltcarrier.group` | No |
 | `boltcutter.network` | Yes |
-| `boltwolf.net` | Yes |
 | `bombayguy.in` | No |
 | `bombaywallah.com` | Yes |
 | `bommo.au` | Yes |
@@ -12985,6 +12984,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `felesitas.cloud` | No |
 | `felice.biz` | No |
 | `felicelepoer.com` | No |
+| `felifluid.de` | Yes |
 | `felin.social` | No |
 | `feline.cloud` | No |
 | `feline.rodeo` | No |
@@ -19946,6 +19946,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `jskherman.com` | Yes |
 | `jsna.dev` | Yes |
 | `jsnfwlr.ninja` | Yes |
+| `jsnordmann.de` | Yes |
 | `jsommer.org` | No |
 | `json.blog` | No |
 | `jsonly.club` | No |
@@ -46968,7 +46969,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,861 |
+| Cloudflare | 12,862 |
 | Normal | 34,063 |
 
 
