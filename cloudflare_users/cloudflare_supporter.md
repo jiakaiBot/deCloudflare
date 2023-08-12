@@ -9242,6 +9242,7 @@ Do not create new issue or we will close it as duplicate.
 | [Note42243223@twitter](https://twitter.com/Note42243223/status/1389304584317845504) | advertise |
 | [nothing53612785@twitter](https://twitter.com/nothing53612785/status/1613127329873633280) | advertise |
 | [nothingbreaks23@twitter](https://twitter.com/nothingbreaks23/status/1408086476252925953) | advertise |
+| [NOTHINGi13@twitter](https://twitter.com/NOTHINGi13/status/1690411976155901952) | advertise |
 | [nothing_8839@twitter](https://twitter.com/nothing_8839/status/1685183080422899712) | advertise |
 | [notice_com_ng@twitter](https://twitter.com/notice_com_ng/status/1489583630267654145) | advertise |
 | [NOTICIAHOY5@twitter](https://twitter.com/NOTICIAHOY5/status/1543302026754461698) | advertise |
@@ -11909,6 +11910,7 @@ Do not create new issue or we will close it as duplicate.
 | [Taeyeon47077149@twitter](https://twitter.com/Taeyeon47077149/status/1624347311735447552) | advertise |
 | [TaezZa02@twitter](https://twitter.com/TaezZa02/status/1628426642921246722) | advertise |
 | [taha_kabashi@twitter](https://twitter.com/taha_kabashi/status/1656017202020069377) | advertise |
+| [TahmidK19635252@twitter](https://twitter.com/TahmidK19635252/status/1690395578734415872) | advertise |
 | [tahredmage21@twitter](https://twitter.com/tahredmage21/status/1674321293309804544) | advertise |
 | [tahung12345678@twitter](https://twitter.com/tahung12345678/status/1391180261518282752) | advertise |
 | [tai25381999@twitter](https://twitter.com/tai25381999/status/1400114995506008066) | advertise |
@@ -12964,6 +12966,7 @@ Do not create new issue or we will close it as duplicate.
 | [tuananhle11199@twitter](https://twitter.com/tuananhle11199/status/1624282311503265792) | advertise |
 | [TuanCuong_24@twitter](https://twitter.com/TuanCuong_24/status/1491066171663466499) | advertise |
 | [TuanDan48@twitter](https://twitter.com/TuanDan48/status/1508407933150765056) | advertise |
+| [TuanDan63620638@twitter](https://twitter.com/TuanDan63620638/status/1690407547260575745) | advertise |
 | [TuanDo60212814@twitter](https://twitter.com/TuanDo60212814/status/1597020296418324481) | advertise |
 | [tuandungbrse@twitter](https://twitter.com/tuandungbrse/status/1689182364499660800) | advertise |
 | [TuanHoa92591402@twitter](https://twitter.com/TuanHoa92591402/status/1401178907756220419) | advertise |
