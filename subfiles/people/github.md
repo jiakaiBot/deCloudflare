@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare challenge error for Furaffinity](https://github.com/mikf/gallery-dl/issues/4415)
+- [pynocaptcha 1.6.2 has 2 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/57547)
 - [pynocaptcha 1.6.2 has 2 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/57534)
 - [pynocaptcha 1.6.2 has 2 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/57521)
 - [CloudFlare Intermittent error rates affecting cache, waf, workers and pages](https://github.com/hinoshiba/news/issues/2277)
