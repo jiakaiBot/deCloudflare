@@ -4124,6 +4124,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `benwinslow.news` | No |
 | `benz.social` | Yes |
 | `benzas.lt` | Yes |
+| `benzianium.ch` | No |
 | `benzo.fans` | No |
 | `benzo.online` | No |
 | `beo.social` | No |
@@ -6855,7 +6856,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `chri5.art` | No |
 | `chris-evelyn.de` | No |
 | `chris-latza.de` | No |
-| `chris-shaw.dev` | No |
+| `chris-shaw.dev` | Yes |
 | `chris.blog` | No |
 | `chris3000.com` | No |
 | `chrisadams.me.uk` | Yes |
@@ -9939,7 +9940,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `digitalesozialearbeit.de` | No |
 | `digitalesparadies.de` | No |
 | `digitalfall.net` | No |
-| `digitalgoblin.uk` | No |
+| `digitalgoblin.uk` | Yes |
 | `digitalispeople.org` | No |
 | `digitalkr.am` | No |
 | `digitally.cool` | No |
@@ -15147,6 +15148,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ggrel.net` | Yes |
 | `ggrks.moe` | Yes |
 | `ggtea.org` | No |
+| `ggtm.eu` | No |
 | `ggwp.social` | Yes |
 | `ggwq.ml` | No |
 | `gh0st.live` | No |
@@ -19541,6 +19543,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `jh220.de` | Yes |
 | `jhewitt.net` | Yes |
 | `jhilgert.de` | No |
+| `jhjacobs.nl` | No |
 | `jhnc.me.uk` | No |
 | `jhr.social` | Yes |
 | `jianghupl.com` | No |
@@ -28244,6 +28247,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `neek.io` | No |
 | `neelc.org` | Yes |
 | `neeldhara.online` | No |
+| `neeley.cloud` | Yes |
 | `neenster.org` | Yes |
 | `neesimastdn.com` | No |
 | `neet.church` | No |
@@ -38622,6 +38626,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ss23.geek.nz` | No |
 | `ssbx.dev` | No |
 | `sschnabe.eu` | No |
+| `ssda.today` | No |
 | `ssdcc.online` | No |
 | `sself.co` | No |
 | `ssgmedia.net` | No |
@@ -39818,6 +39823,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `tagpro.lol` | No |
 | `tahvok.com` | Yes |
 | `taichan.site` | Yes |
+| `taidum.space` | Yes |
 | `taifoon.net` | No |
 | `taiha.net` | No |
 | `tail.dance` | No |
@@ -45817,6 +45823,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `xn--nnqt1l.tk` | No |
 | `xn--oc-cja.fr` | No |
 | `xn--ocane-csa.fr` | No |
+| `xn--og8haa.st` | Yes |
 | `xn--p1abe3d.xn--80asehdb` | No |
 | `xn--p68ha.ml` | No |
 | `xn--p8ja8e.xn--q9jyb4c` | No |
@@ -46972,8 +46979,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,863 |
-| Normal | 34,065 |
+| Cloudflare | 12,868 |
+| Normal | 34,067 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
