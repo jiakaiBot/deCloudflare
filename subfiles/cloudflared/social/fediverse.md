@@ -31,7 +31,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | social | 4,455 |
 | net | 3,648 |
 | org | 2,453 |
-| de | 2,256 |
+| de | 2,257 |
 
 
 - Mastodon, Pleroma, etc
@@ -22175,7 +22175,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `lazysocial.de` | No |
 | `lazysquirrel.co.uk` | No |
 | `lazyteddy.eu` | No |
-| `lazywildcat.net` | No |
+| `lazywildcat.net` | Yes |
 | `lb1a.de` | No |
 | `lbad.ru` | No |
 | `lbdc.gay` | No |
@@ -35010,6 +35010,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `robotstart.info` | No |
 | `robox.org` | No |
 | `robsayers.com` | Yes |
+| `robserv.de` | No |
 | `robtarr.net` | No |
 | `robutti.me` | No |
 | `robw.me` | No |
@@ -46987,7 +46988,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,874 |
+| Cloudflare | 12,875 |
 | Normal | 34,069 |
 
 
