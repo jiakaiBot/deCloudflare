@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [pynocaptcha 1.6.2 has 2 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/57534)
+- [pynocaptcha 1.6.2 has 2 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/57521)
 - [CloudFlare Intermittent error rates affecting cache, waf, workers and pages](https://github.com/hinoshiba/news/issues/2277)
 - [CloudFlare Intermittent error rates affecting cache, waf, workers and pages](https://github.com/MatBenfield/news/issues/17518)
 - [/api/v1/contracts/call failing when using Swagger UI](https://github.com/hashgraph/hedera-mirror-node/issues/6629)
