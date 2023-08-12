@@ -3459,6 +3459,7 @@ Do not create new issue or we will close it as duplicate.
 | [enoxinn1@twitter](https://twitter.com/enoxinn1/status/1583426056580567040) | advertise |
 | [enroselle01@twitter](https://twitter.com/enroselle01/status/1557012784831164420) | advertise |
 | [ensoulify@twitter](https://twitter.com/ensoulify/status/1376911202434097155) | advertise |
+| [Enstrayed@twitter](https://twitter.com/Enstrayed/status/1690274680870195200) | advertise |
 | [enttminmaung1@twitter](https://twitter.com/enttminmaung1/status/1390087674204094464) | advertise |
 | [eosvn@twitter](https://twitter.com/eosvn/status/1420285303550402795) | advertise |
 | [ephraimjohn@twitter](https://twitter.com/ephraimjohn/status/1405409670395797512) | advertise |
