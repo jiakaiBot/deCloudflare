@@ -27,10 +27,10 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,169 |
+| com | 7,170 |
 | social | 4,455 |
 | net | 3,648 |
-| org | 2,453 |
+| org | 2,454 |
 | de | 2,257 |
 
 
@@ -3212,6 +3212,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `automat.one` | No |
 | `automat.run` | Yes |
 | `automatica.dev` | Yes |
+| `automaton.be` | No |
 | `autonomic.zone` | No |
 | `autonomous-zone.earth` | Yes |
 | `autonomous.zone` | No |
@@ -12012,6 +12013,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `eter9.com` | Yes |
 | `eternalaugust.com` | No |
 | `eternalflame24.com` | No |
+| `eternalreliquary.com` | Yes |
 | `eternawings.com` | No |
 | `eth.moe` | No |
 | `eth0.sh` | Yes |
@@ -14381,6 +14383,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `furamon.blue` | Yes |
 | `furamon.com` | Yes |
 | `furankum.ovh` | No |
+| `furax37.org` | No |
 | `furbidden.com` | No |
 | `furby.dev` | No |
 | `furcel.club` | No |
@@ -16264,7 +16267,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `hackers.life` | No |
 | `hackers.org` | No |
 | `hackers.radio` | Yes |
-| `hackers.social` | No |
+| `hackers.social` | Yes |
 | `hackers.surf` | Yes |
 | `hackers.town` | No |
 | `hackersatporto.com` | Yes |
@@ -25613,6 +25616,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `memecorporation.de` | No |
 | `memefirst.social` | No |
 | `memehub.eu` | Yes |
+| `memelords.zone` | Yes |
 | `mememagic.net` | No |
 | `mementomori.school` | Yes |
 | `mementomori.social` | Yes |
@@ -29253,6 +29257,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `nomofomo.social` | No |
 | `nomorecubes.net` | No |
 | `nomoresha.me` | Yes |
+| `nomu.sk` | No |
 | `nomya.net` | No |
 | `non-abelian.space` | Yes |
 | `non-designer.studio` | Yes |
@@ -45025,6 +45030,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `williamsonday.info` | No |
 | `williamsonday.org` | No |
 | `williamyam.com` | No |
+| `willisbriggs.me` | Yes |
 | `willistonschools.org` | No |
 | `willnorris.com` | No |
 | `willow.cafe` | No |
@@ -46989,8 +46995,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,876 |
-| Normal | 34,069 |
+| Cloudflare | 12,880 |
+| Normal | 34,071 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
