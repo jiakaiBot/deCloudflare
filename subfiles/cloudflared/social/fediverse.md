@@ -27,9 +27,9 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,166 |
+| com | 7,167 |
 | social | 4,455 |
-| net | 3,643 |
+| net | 3,645 |
 | org | 2,451 |
 | de | 2,254 |
 
@@ -2422,6 +2422,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `aperture-science.engineering` | No |
 | `aperture.ink` | Yes |
 | `aperturelabs.space` | Yes |
+| `aperturescience.net` | Yes |
 | `apetersburger.com` | No |
 | `apexnode.dev` | No |
 | `apfed.club` | No |
@@ -5035,6 +5036,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `bolsunovskyi.com` | No |
 | `boltcarrier.group` | No |
 | `boltcutter.network` | Yes |
+| `boltwolf.net` | Yes |
 | `bombayguy.in` | No |
 | `bombaywallah.com` | Yes |
 | `bommo.au` | Yes |
@@ -6390,6 +6392,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `cejo.us` | No |
 | `celabs.com` | Yes |
 | `cele.st` | Yes |
+| `celeb.pizza` | No |
 | `celebrity.social` | Yes |
 | `celehner.com` | No |
 | `celestecaprine.com` | No |
@@ -17148,6 +17151,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `hirtz.pm` | No |
 | `hirtzfr.eu` | No |
 | `hiruandon.life` | No |
+| `hirunekingdom.com` | No |
 | `hirunohi.com` | Yes |
 | `hiruuki.com` | Yes |
 | `his-hoes.uk` | No |
@@ -21291,7 +21295,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `komaedak.in` | No |
 | `komaverse.de` | No |
 | `kome-lab.net` | Yes |
-| `komefura.com` | No |
+| `komefura.com` | Yes |
 | `komekome09.jp` | Yes |
 | `komic.eu` | No |
 | `komintern.work` | No |
@@ -26859,7 +26863,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `moonbeam.town` | No |
 | `moonbootlabs.net` | No |
 | `moonbow.garden` | No |
-| `moonbutt.science` | Yes |
+| `moonbutt.science` | No |
 | `mooncell.uk` | No |
 | `moondeer.blog` | Yes |
 | `mooneyed.de` | No |
@@ -34553,7 +34557,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `resonanceaudiodistro.org` | No |
 | `resonar.de` | No |
 | `resonite.co.uk` | Yes |
-| `resource.org` | No |
+| `resource.org` | Yes |
 | `resource.pub` | No |
 | `resplendentwebservices.com` | No |
 | `response4.com` | No |
@@ -46964,8 +46968,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,858 |
-| Normal | 34,062 |
+| Cloudflare | 12,861 |
+| Normal | 34,063 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
