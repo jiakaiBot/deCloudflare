@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [cannot unmarshal array into Go value of type mapstringinterface {} on Cloudflare provider](https://github.com/jreyesr/steampipe-plugin-tfbridge/issues/3)
 - [Access via Nginx Proxy Manager - CSRF error/no recipes displayed](https://github.com/TandoorRecipes/recipes/issues/2581)
 - [Mediafire Error Uploading files](https://github.com/ShareX/ShareX/issues/7041)
 - [Cannot obtain SSL certificate with tls directive when using a matcher](https://github.com/caddyserver/caddy/issues/5739)
