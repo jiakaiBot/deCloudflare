@@ -13536,6 +13536,7 @@ Do not create new issue or we will close it as duplicate.
 | [wali_duski@twitter](https://twitter.com/wali_duski/status/1553003405005799425) | advertise |
 | [walkmanrds@twitter](https://twitter.com/walkmanrds/status/1557553919085379584) | advertise |
 | [WalterG05165115@twitter](https://twitter.com/WalterG05165115/status/1674214537191366657) | advertise |
+| [walterkings8@twitter](https://twitter.com/walterkings8/status/1690438298123075584) | advertise |
 | [WalterSmith00@twitter](https://twitter.com/WalterSmith00/status/1499907092383080450) | advertise |
 | [WandeltMusic@twitter](https://twitter.com/WandeltMusic/status/1665874507649654785) | advertise |
 | [WangMi87623155@twitter](https://twitter.com/WangMi87623155/status/1392754494258040832) | advertise |
