@@ -29,7 +29,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | --- | --- |
 | com | 7,167 |
 | social | 4,455 |
-| net | 3,644 |
+| net | 3,645 |
 | org | 2,452 |
 | de | 2,256 |
 
@@ -5036,6 +5036,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `bolsunovskyi.com` | No |
 | `boltcarrier.group` | No |
 | `boltcutter.network` | Yes |
+| `boltwolf.net` | Yes |
 | `bombayguy.in` | No |
 | `bombaywallah.com` | Yes |
 | `bommo.au` | Yes |
@@ -46571,6 +46572,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `zb-server.de` | Yes |
 | `zb3.org` | Yes |
 | `zbecker.cc` | Yes |
+| `zbeul.fr` | No |
 | `zbeul.ist` | No |
 | `zbop.xyz` | Yes |
 | `zbrx.org` | No |
@@ -46970,8 +46972,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,862 |
-| Normal | 34,064 |
+| Cloudflare | 12,863 |
+| Normal | 34,065 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
