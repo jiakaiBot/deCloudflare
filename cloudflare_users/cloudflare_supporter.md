@@ -5806,6 +5806,7 @@ Do not create new issue or we will close it as duplicate.
 | [justinwjohn@twitter](https://twitter.com/justinwjohn/status/1490784558807011328) | advertise |
 | [justin_t_wesley@twitter](https://twitter.com/justin_t_wesley/status/1451976168446517259) | advertise |
 | [justonlyu01@twitter](https://twitter.com/justonlyu01/status/1551573685181763585) | advertise |
+| [JustTimothyjNYC@twitter](https://twitter.com/JustTimothyjNYC/status/1690367895551852544) | advertise |
 | [Justwrightdecor@twitter](https://twitter.com/Justwrightdecor/status/1564945882562396165) | advertise |
 | [just_twtuser@twitter](https://twitter.com/just_twtuser/status/1396088764192092160) | advertise |
 | [juuuuuuly@twitter](https://twitter.com/juuuuuuly/status/1646514775378231297) | advertise |
@@ -6039,6 +6040,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ken08753139@twitter](https://twitter.com/Ken08753139/status/1394319640889753600) | advertise |
 | [Ken74226330@twitter](https://twitter.com/Ken74226330/status/1401414699581800455) | advertise |
 | [kenbloc08430028@twitter](https://twitter.com/kenbloc08430028/status/1401742984433917955) | advertise |
+| [Kenchahere@twitter](https://twitter.com/Kenchahere/status/1690344532926480384) | advertise |
 | [Kendy_Nguyen89@twitter](https://twitter.com/Kendy_Nguyen89/status/1686955125217341440) | advertise |
 | [kengjii@twitter](https://twitter.com/kengjii/status/1643179950290403329) | advertise |
 | [kenguimond1@twitter](https://twitter.com/kenguimond1/status/1483616511553990656) | advertise |
