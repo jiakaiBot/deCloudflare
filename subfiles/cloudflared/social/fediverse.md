@@ -27,10 +27,10 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,167 |
+| com | 7,168 |
 | social | 4,455 |
-| net | 3,645 |
-| org | 2,452 |
+| net | 3,648 |
+| org | 2,453 |
 | de | 2,256 |
 
 
@@ -1996,6 +1996,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `anarch.cc` | No |
 | `anarch.is` | No |
 | `anarchast.com` | Yes |
+| `anarchic-teapot.net` | No |
 | `anarchism.online` | Yes |
 | `anarchism.space` | No |
 | `anarchismus.xyz` | Yes |
@@ -7541,7 +7542,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9435,6 +9436,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `dekobokojin.com` | Yes |
 | `dekok.dk` | No |
 | `dekuso.blog` | No |
+| `delaage.fr` | No |
 | `delaage.org` | No |
 | `delab.re` | No |
 | `delabs.net` | No |
@@ -9917,6 +9919,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `digitaino.com` | Yes |
 | `digital-alchemy.app` | Yes |
 | `digital-alpha-world.de` | Yes |
+| `digital-artifacts.net` | Yes |
 | `digital-cache.cloud` | Yes |
 | `digital-cleaning.de` | No |
 | `digital-family.de` | No |
@@ -10992,6 +10995,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `eagleear.social` | No |
 | `eaglefirenation.com` | No |
 | `eaku.net` | No |
+| `eallion.com` | Yes |
 | `ealmuina.xyz` | No |
 | `eamonn.org` | No |
 | `eanske.eu` | No |
@@ -15001,6 +15005,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `gender.systems` | No |
 | `gender.town` | No |
 | `genderheretics.xyz` | No |
+| `genderpiracy.org` | Yes |
 | `genderqueer.ru` | No |
 | `genderversefurries.com` | No |
 | `gendon.jp` | No |
@@ -23667,6 +23672,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `lunablue.us` | No |
 | `lunadon.org` | No |
 | `lunai.re` | No |
+| `lunaire.io` | Yes |
 | `lunakit.org` | No |
 | `lunalight.place` | Yes |
 | `lunardream.space` | No |
@@ -39800,6 +39806,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `tacoma.social` | No |
 | `tacosdedatos.com` | No |
 | `tacostea.net` | No |
+| `tacowolf.net` | Yes |
 | `tacticaltech.org` | No |
 | `tacty.social` | Yes |
 | `tad.me` | Yes |
@@ -46224,6 +46231,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `yoann.lt` | No |
 | `yoanndelattre.com` | No |
 | `yoavmoshe.com` | Yes |
+| `yob.id.au` | No |
 | `yockow.jp` | No |
 | `yoctomath.com` | No |
 | `yodan.ninja` | No |
@@ -46979,8 +46987,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,868 |
-| Normal | 34,067 |
+| Cloudflare | 12,874 |
+| Normal | 34,069 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
