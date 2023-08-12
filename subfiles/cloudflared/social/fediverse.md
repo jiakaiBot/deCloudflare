@@ -27,7 +27,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,168 |
+| com | 7,169 |
 | social | 4,455 |
 | net | 3,648 |
 | org | 2,453 |
@@ -21121,6 +21121,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `klezmor.im` | No |
 | `klg-tree.jp` | No |
 | `kliberal.com` | Yes |
+| `klickaa.com` | Yes |
 | `kliklak.net` | No |
 | `klingele.dev` | No |
 | `klinikowski.pl` | No |
@@ -46988,7 +46989,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,875 |
+| Cloudflare | 12,876 |
 | Normal | 34,069 |
 
 
