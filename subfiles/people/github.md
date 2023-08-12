@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Access via Nginx Proxy Manager - CSRF error/no recipes displayed](https://github.com/TandoorRecipes/recipes/issues/2581)
+- [Mediafire Error Uploading files](https://github.com/ShareX/ShareX/issues/7041)
 - [Cannot obtain SSL certificate with tls directive when using a matcher](https://github.com/caddyserver/caddy/issues/5739)
 - [ubuntu 22.04 LTS 安装失败](https://github.com/mack-a/v2ray-agent/issues/749)
 - [ERR fail to generate certificate.](https://github.com/acmesh-official/acme.sh/issues/4732)
