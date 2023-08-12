@@ -3880,6 +3880,7 @@ Do not create new issue or we will close it as duplicate.
 | [GDNAVsTJpschYop@twitter](https://twitter.com/GDNAVsTJpschYop/status/1628573227286167554) | advertise |
 | [gdnunites@twitter](https://twitter.com/gdnunites/status/1425544488487899137) | advertise |
 | [Geetharbtr4@twitter](https://twitter.com/Geetharbtr4/status/1391301352949620740) | advertise |
+| [gefgsdfasd64579@twitter](https://twitter.com/gefgsdfasd64579/status/1688950335782690816) | advertise |
 | [geminiboi10@twitter](https://twitter.com/geminiboi10/status/1640884461763198978) | advertise |
 | [Gemini_Japo@twitter](https://twitter.com/Gemini_Japo/status/1673594566740709378) | advertise |
 | [gemnguyen4125@twitter](https://twitter.com/gemnguyen4125/status/1471739773786025987) | advertise |
@@ -6311,6 +6312,7 @@ Do not create new issue or we will close it as duplicate.
 | [KiranDeepak2@twitter](https://twitter.com/KiranDeepak2/status/1376903066587262979) | advertise |
 | [Kiranm2113@twitter](https://twitter.com/Kiranm2113/status/1563790602663186432) | advertise |
 | [KiranPT@twitter](https://twitter.com/KiranPT/status/1403938633816502274) | advertise |
+| [Kirg5_@twitter](https://twitter.com/Kirg5_/status/1690272987960975361) | advertise |
 | [KiruiWinston@twitter](https://twitter.com/KiruiWinston/status/1460566327215673348) | advertise |
 | [KishanY38124071@twitter](https://twitter.com/KishanY38124071/status/1386658570142289923) | advertise |
 | [Kishwar_Ayaz@twitter](https://twitter.com/Kishwar_Ayaz/status/1687095405501362176) | advertise |
