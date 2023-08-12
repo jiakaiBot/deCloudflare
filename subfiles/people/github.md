@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ERR fail to generate certificate.](https://github.com/acmesh-official/acme.sh/issues/4732)
 - [Cloudflare challenge error for Furaffinity](https://github.com/mikf/gallery-dl/issues/4415)
 - [pynocaptcha 1.6.2 has 2 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/57547)
 - [pynocaptcha 1.6.2 has 2 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/57534)
