@@ -27,7 +27,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,175 |
+| com | 7,176 |
 | social | 4,457 |
 | net | 3,648 |
 | org | 2,455 |
@@ -40624,7 +40624,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `thatspretty.cool` | Yes |
 | `thattakashi.me` | Yes |
 | `thatwebsite.xyz` | No |
-| `thaumatur.ge` | No |
+| `thaumatur.ge` | Yes |
 | `thayer.social` | No |
 | `thbps.com` | Yes |
 | `thde.io` | Yes |
@@ -41459,6 +41459,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `tinnies.club` | Yes |
 | `tinokaltsas.com` | No |
 | `tiny.gripe` | No |
+| `tinyblip.com` | No |
 | `tinycart.club` | No |
 | `tinycities.net` | No |
 | `tinycomputer.club` | No |
@@ -47012,7 +47013,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,884 |
+| Cloudflare | 12,885 |
 | Normal | 34,084 |
 
 
