@@ -27,11 +27,11 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,177 |
+| com | 7,178 |
 | social | 4,458 |
 | net | 3,648 |
 | org | 2,455 |
-| de | 2,258 |
+| de | 2,259 |
 
 
 - Mastodon, Pleroma, etc
@@ -2355,6 +2355,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `anvil.top` | No |
 | `anwalt.pub` | No |
 | `anwheel.com` | No |
+| `anxietea.xyz` | No |
 | `anxiety.baby` | No |
 | `anxioustwit.ch` | No |
 | `any-key.press` | No |
@@ -19563,6 +19564,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `jianjianplus.com` | Yes |
 | `jianliwo.com` | No |
 | `jiaworkspace.com` | No |
+| `jibberjabber.online` | Yes |
 | `jibby.org` | Yes |
 | `jibun.club` | No |
 | `jichi.blog` | Yes |
@@ -32302,6 +32304,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `platta.at` | No |
 | `platypus-sandbox.com` | No |
 | `platypush.tech` | No |
+| `platzsichern.de` | No |
 | `plauderkasten.space` | No |
 | `plaureano.com` | No |
 | `plaxon.de` | Yes |
@@ -32701,6 +32704,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `pornkey.ml` | No |
 | `pornload.tv` | No |
 | `pornssd.com` | No |
+| `pornstarpromote.com` | No |
 | `pornteur.com` | No |
 | `porntoot.com` | No |
 | `porntube.host` | No |
@@ -47018,8 +47022,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,888 |
-| Normal | 34,086 |
+| Cloudflare | 12,889 |
+| Normal | 34,089 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
