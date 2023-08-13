@@ -27,11 +27,11 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,170 |
+| com | 7,174 |
 | social | 4,455 |
 | net | 3,648 |
-| org | 2,454 |
-| de | 2,257 |
+| org | 2,455 |
+| de | 2,258 |
 
 
 - Mastodon, Pleroma, etc
@@ -363,6 +363,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `2demo.top` | No |
 | `2dev.de` | No |
 | `2dl.eu` | No |
+| `2done.club` | No |
 | `2dx.red` | No |
 | `2enp.cc` | Yes |
 | `2enp.com` | No |
@@ -7543,7 +7544,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -22441,6 +22442,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `lemmy.zip` | Yes |
 | `lemmy.zone` | Yes |
 | `lemmyadmin.site` | Yes |
+| `lemmycook.de` | Yes |
 | `lemmydeals.com` | No |
 | `lemmyf.uk` | Yes |
 | `lemmyfi.com` | No |
@@ -23816,6 +23818,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `m0n5t3r.info` | No |
 | `m0nikasingh.xyz` | Yes |
 | `m0r016.net` | Yes |
+| `m0rvb.uk` | No |
 | `m0t0k1ch1.com` | No |
 | `m0xee.net` | No |
 | `m11n.de` | No |
@@ -25586,7 +25589,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `mellowcodelabs.social` | No |
 | `melmac.rocks` | No |
 | `melon.computer` | No |
-| `melon.land` | Yes |
+| `melon.land` | No |
 | `melonbread.dev` | No |
 | `melonbread.xyz` | No |
 | `melonia.se` | No |
@@ -25993,6 +25996,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `midnight.miami` | No |
 | `midnightride.rs` | No |
 | `midofnowhere.link` | No |
+| `midori-biyori.com` | No |
 | `midori.social` | No |
 | `midorichan.net` | Yes |
 | `midov.pl` | No |
@@ -28022,6 +28026,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `nanamachi.net` | No |
 | `nanamono.xyz` | No |
 | `nanao.moe` | Yes |
+| `nanashinonozomi.com` | No |
 | `nanasi-apps.xyz` | Yes |
 | `nanax.fr` | No |
 | `nanbon.eu` | No |
@@ -32260,6 +32265,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `planetboca.com` | No |
 | `planetearth.social` | No |
 | `planeteers.social` | No |
+| `planetelysium.com` | No |
 | `planetexpress.me` | No |
 | `planetfifty.one` | Yes |
 | `planetly.social` | No |
@@ -37382,6 +37388,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `sixfoisneuf.fr` | No |
 | `sixohthree.com` | No |
 | `sixy.name` | No |
+| `siyasettime31.com` | No |
 | `sizecraft.social` | No |
 | `sizedon.com` | No |
 | `sizuma.website` | No |
@@ -38206,6 +38213,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `sotong.cloud` | No |
 | `soucy.cc` | No |
 | `souder.ca` | No |
+| `soukun.io` | Yes |
 | `soukun.xyz` | Yes |
 | `soul.ua` | Yes |
 | `soulcrash.net` | No |
@@ -46657,6 +46665,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `zenet.work` | No |
 | `zenfolie.org` | No |
 | `zenger.nl` | No |
+| `zenmai.org` | No |
 | `zenphp.com` | No |
 | `zenshin.uk` | Yes |
 | `zentea.gay` | No |
@@ -46997,7 +47006,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,881 |
-| Normal | 34,071 |
+| Normal | 34,080 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
