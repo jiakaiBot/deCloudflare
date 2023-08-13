@@ -10874,6 +10874,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `durieux.ovh` | No |
 | `duriez.re` | No |
 | `durst.world` | No |
+| `dusanmitrovic.xyz` | No |
 | `dusepo.co.uk` | No |
 | `dust-net.systems` | Yes |
 | `dustbuster.club` | No |
@@ -26725,7 +26726,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `moist.live` | No |
 | `moistgarbage.info` | No |
 | `moixamental.cat` | No |
-| `mojn.fi` | No |
+| `mojn.fi` | Yes |
 | `mojo.fyi` | Yes |
 | `mojobus.org` | Yes |
 | `mojobuslife.com` | No |
@@ -47022,7 +47023,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,889 |
+| Cloudflare | 12,890 |
 | Normal | 34,089 |
 
 
