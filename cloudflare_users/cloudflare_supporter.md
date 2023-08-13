@@ -2174,6 +2174,7 @@ Do not create new issue or we will close it as duplicate.
 | [cenozoic69@twitter](https://twitter.com/cenozoic69/status/1384936734073532418) | advertise |
 | [CentreElites@twitter](https://twitter.com/CentreElites/status/1500457148152786944) | advertise |
 | [Cephas_Stephen_@twitter](https://twitter.com/Cephas_Stephen_/status/1542164580817944578) | advertise |
+| [ceps_@twitter](https://twitter.com/ceps_/status/1690814442173513728) | advertise |
 | [cercvadze77777@twitter](https://twitter.com/cercvadze77777/status/1515782320233586691) | advertise |
 | [Cerise67529246@twitter](https://twitter.com/Cerise67529246/status/1390188271037075458) | advertise |
 | [cerqueira_io@twitter](https://twitter.com/cerqueira_io/status/1380589589463764994) | advertise |
@@ -13456,6 +13457,7 @@ Do not create new issue or we will close it as duplicate.
 | [vZHh3za8DnpsEuZ@twitter](https://twitter.com/vZHh3za8DnpsEuZ/status/1394326959975407619) | advertise |
 | [v_h_s_@twitter](https://twitter.com/v_h_s_/status/1664667334722633728) | advertise |
 | [W01fyH@twitter](https://twitter.com/W01fyH/status/1377451953353986053) | advertise |
+| [w1larN@twitter](https://twitter.com/w1larN/status/1690780883031060480) | advertise |
 | [W1sskI@twitter](https://twitter.com/W1sskI/status/1579839513228357632) | advertise |
 | [w4rko0ox@twitter](https://twitter.com/w4rko0ox/status/1600549441605451802) | advertise |
 | [w88cuavinh@twitter](https://twitter.com/w88cuavinh/status/1380719088431816714) | advertise |
