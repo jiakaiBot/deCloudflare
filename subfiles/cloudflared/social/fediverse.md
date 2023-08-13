@@ -27,11 +27,11 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,172 |
-| social | 4,455 |
+| com | 7,175 |
+| social | 4,457 |
 | net | 3,648 |
 | org | 2,455 |
-| de | 2,257 |
+| de | 2,258 |
 
 
 - Mastodon, Pleroma, etc
@@ -4012,6 +4012,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `beirdostudio.com` | No |
 | `beisel.it` | No |
 | `beispieltext.net` | No |
+| `beiting.io` | No |
 | `beiting.org` | No |
 | `beitmenotyou.com` | Yes |
 | `beiunsdaham.de` | No |
@@ -10827,7 +10828,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `dumbfox.net` | Yes |
 | `dumbly.net` | No |
 | `dumbmeme.wtf` | No |
-| `dumbo.kr` | No |
+| `dumbo.kr` | Yes |
 | `dumbo.life` | No |
 | `dumbopinions.xyz` | No |
 | `dumbthing.org` | No |
@@ -15520,7 +15521,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `go-newbie.club` | No |
 | `go-rs.tk` | No |
 | `go0d.icu` | No |
-| `go3.today` | Yes |
+| `go3.today` | No |
 | `go5.dev` | Yes |
 | `goab.net` | Yes |
 | `goapub.cf` | No |
@@ -19285,6 +19286,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `jase.social` | No |
 | `jaseroque.com` | Yes |
 | `jasforce.com` | No |
+| `jasm1nii.xyz` | No |
 | `jasmine.lgbt` | No |
 | `jasminetea.uk` | Yes |
 | `jasnell.me` | Yes |
@@ -22442,6 +22444,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `lemmy.zip` | Yes |
 | `lemmy.zone` | Yes |
 | `lemmyadmin.site` | Yes |
+| `lemmycook.de` | Yes |
 | `lemmydeals.com` | No |
 | `lemmyf.uk` | Yes |
 | `lemmyfi.com` | No |
@@ -23817,6 +23820,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `m0n5t3r.info` | No |
 | `m0nikasingh.xyz` | Yes |
 | `m0r016.net` | Yes |
+| `m0rvb.uk` | No |
 | `m0t0k1ch1.com` | No |
 | `m0xee.net` | No |
 | `m11n.de` | No |
@@ -26523,6 +26527,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `mktoho.social` | Yes |
 | `mku.social` | No |
 | `mkultra.me` | Yes |
+| `mkwarman.com` | No |
 | `mkwgame.com` | Yes |
 | `ml45.net` | No |
 | `mlabouri.fr` | No |
@@ -32263,6 +32268,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `planetboca.com` | No |
 | `planetearth.social` | No |
 | `planeteers.social` | No |
+| `planetelysium.com` | No |
 | `planetexpress.me` | No |
 | `planetfifty.one` | Yes |
 | `planetly.social` | No |
@@ -34990,6 +34996,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `robinjanssens.com` | Yes |
 | `robinsloan.com` | No |
 | `robinsmediateam.dev` | Yes |
+| `robitaille.social` | No |
 | `robjess.co.uk` | Yes |
 | `roblen.at` | No |
 | `robloxcommunity.social` | No |
@@ -36186,6 +36193,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `schoollibraries.net` | No |
 | `schoonens.blog` | No |
 | `schoonens.nl` | No |
+| `schoonens.social` | No |
 | `schooner.social` | No |
 | `schorelweb.nl` | No |
 | `schosta.com` | No |
@@ -37385,6 +37393,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `sixfoisneuf.fr` | No |
 | `sixohthree.com` | No |
 | `sixy.name` | No |
+| `siyasettime31.com` | No |
 | `sizecraft.social` | No |
 | `sizedon.com` | No |
 | `sizuma.website` | No |
@@ -38226,6 +38235,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `soundship.de` | No |
 | `soup6020.dev` | No |
 | `soupco.net` | Yes |
+| `souper.dev` | Yes |
 | `souperk.gr` | No |
 | `soupnet.ca` | No |
 | `soupwhale.com` | Yes |
@@ -46248,6 +46258,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `yockow.jp` | No |
 | `yoctomath.com` | No |
 | `yodan.ninja` | No |
+| `yodangang.express` | Yes |
 | `yog.wtf` | No |
 | `yoghurthair.club` | No |
 | `yogibytes.social` | No |
@@ -47001,8 +47012,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,881 |
-| Normal | 34,076 |
+| Cloudflare | 12,884 |
+| Normal | 34,084 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
