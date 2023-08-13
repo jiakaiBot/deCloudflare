@@ -10126,6 +10126,7 @@ Do not create new issue or we will close it as duplicate.
 | [ProfTakeruHiga@twitter](https://twitter.com/ProfTakeruHiga/status/1388474623214243842) | advertise |
 | [ProgramerDev@twitter](https://twitter.com/ProgramerDev/status/1466576384327700481) | advertise |
 | [ProgrammerRDAI@twitter](https://twitter.com/ProgrammerRDAI/status/1531626215013879810) | advertise |
+| [ProjectPiper@twitter](https://twitter.com/ProjectPiper/status/1690839848880427008) | advertise |
 | [promo_brimo2022@twitter](https://twitter.com/promo_brimo2022/status/1593675240743137280) | advertise |
 | [ProteinPink@twitter](https://twitter.com/ProteinPink/status/1522848358548873217) | advertise |
 | [ProZar3@twitter](https://twitter.com/ProZar3/status/1503979856882769922) | advertise |
