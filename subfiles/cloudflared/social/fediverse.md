@@ -27,8 +27,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,178 |
-| social | 4,458 |
+| com | 7,180 |
+| social | 4,459 |
 | net | 3,648 |
 | org | 2,455 |
 | de | 2,259 |
@@ -818,6 +818,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `aamjanata.com` | No |
 | `aana.site` | No |
 | `aaoth.xyz` | No |
+| `aap.my.id` | Yes |
 | `aardlark.co` | No |
 | `aardvarkdreams.com` | No |
 | `aargaunet.ch` | No |
@@ -4645,6 +4646,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `blackice.online` | No |
 | `blackjackandhookers.net` | No |
 | `blackjacknuttenundkoks.de` | No |
+| `blackmentwerking.live` | No |
 | `blackmesa.space` | No |
 | `blacknapkins.co.uk` | No |
 | `blackoutstout.space` | No |
@@ -7849,6 +7851,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `corebreach.com` | No |
 | `corecoding.dev` | No |
 | `coredump.social` | No |
+| `corentin.eu` | Yes |
 | `corentinfiloche.xyz` | No |
 | `corepaper.org` | No |
 | `coreshock.de` | No |
@@ -13297,6 +13300,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `firenewt.xyz` | Yes |
 | `fireplace.cafe` | No |
 | `fireplace.social` | No |
+| `firescry.com` | Yes |
 | `firetribe.org` | No |
 | `firewall-sec.com` | No |
 | `firewally.net` | Yes |
@@ -13440,6 +13444,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `flisol.com.br` | No |
 | `flittermice.club` | Yes |
 | `flm9.me` | No |
+| `flns.fr` | No |
 | `floatie.xyz` | No |
 | `floating-in.space` | No |
 | `floatplane.rip` | No |
@@ -28280,6 +28285,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `neet.social` | Yes |
 | `neetodon.com` | No |
 | `neets.work` | No |
+| `neevt.com` | Yes |
 | `nefixestrada.com` | No |
 | `nefl.social` | Yes |
 | `neg9.org` | Yes |
@@ -29438,7 +29444,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `notbird.site` | Yes |
 | `notbook.club` | Yes |
 | `notbren.xyz` | No |
-| `notclickable.social` | No |
+| `notclickable.social` | Yes |
 | `notcraig.com` | Yes |
 | `notdeadluna.com` | No |
 | `notdigg.com` | No |
@@ -31913,6 +31919,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `phx.pub` | No |
 | `phx.social` | No |
 | `phy25.com` | No |
+| `phycon.me` | No |
 | `phyl.me` | Yes |
 | `phyrexia.ru` | No |
 | `phyrone.de` | Yes |
@@ -42617,6 +42624,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `turtle.garden` | No |
 | `turtle.pizza` | No |
 | `turtleapparel.eu` | No |
+| `turtleisland.social` | No |
 | `turtletoot.us` | No |
 | `turystyka-niecodzienna.pl` | No |
 | `tusk.chat` | Yes |
@@ -47023,8 +47031,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,890 |
-| Normal | 34,089 |
+| Cloudflare | 12,895 |
+| Normal | 34,092 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
