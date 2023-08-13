@@ -40368,6 +40368,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `tela.moe` | Yes |
 | `teldarpaper.com` | No |
 | `teleassist.fr` | No |
+| `telecom.moe` | Yes |
 | `telefant.net` | No |
 | `telefreizeit.de` | No |
 | `telegrafverket.cc` | Yes |
@@ -46995,7 +46996,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,880 |
+| Cloudflare | 12,881 |
 | Normal | 34,071 |
 
 
