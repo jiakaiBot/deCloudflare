@@ -35,6 +35,7 @@ Here's a list of public Matrix services.
 | buyvm.chat | No |
 | matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
+| mx.chagai.website | No |
 | matrix.chatcloud.net | No |
 | matrix.chatwave.org | No |
 | chrrreeeeesss.com | No |
@@ -77,7 +78,6 @@ Here's a list of public Matrix services.
 | mailstation.de | No |
 | matrix.im | No |
 | matrix.org | Yes |
-| matrix.monero.social | No |
 | mtrx.nz | No |
 | nitro.chat | No |
 | matrix.noevil.pl | No |
