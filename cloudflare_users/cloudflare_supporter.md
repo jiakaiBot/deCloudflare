@@ -1093,6 +1093,7 @@ Do not create new issue or we will close it as duplicate.
 | [art3mkinreal@twitter](https://twitter.com/art3mkinreal/status/1558266148969361408) | advertise |
 | [ArteImmaginePh3@twitter](https://twitter.com/ArteImmaginePh3/status/1370471352373772291) | advertise |
 | [artem_shar@twitter](https://twitter.com/artem_shar/status/1417034537343782916) | advertise |
+| [ArthaLover@twitter](https://twitter.com/ArthaLover/status/1690550901826834432) | advertise |
 | [ArThaNae1@twitter](https://twitter.com/ArThaNae1/status/1391247931856982016) | advertise |
 | [arthurdono_@twitter](https://twitter.com/arthurdono_/status/1545383035897466885) | advertise |
 | [Artin17431766@twitter](https://twitter.com/Artin17431766/status/1499667671037718530) | advertise |
@@ -4984,6 +4985,7 @@ Do not create new issue or we will close it as duplicate.
 | [Huynhph7@twitter](https://twitter.com/Huynhph7/status/1387755716631359490) | advertise |
 | [huynn_1806@twitter](https://twitter.com/huynn_1806/status/1392209919424622593) | advertise |
 | [huyphan55652449@twitter](https://twitter.com/huyphan55652449/status/1572259920212525056) | advertise |
+| [HuyPhan97737830@twitter](https://twitter.com/HuyPhan97737830/status/1690609130887905280) | advertise |
 | [Huyphm49409561@twitter](https://twitter.com/Huyphm49409561/status/1553076130181414912) | advertise |
 | [HuyPhuc35892452@twitter](https://twitter.com/HuyPhuc35892452/status/1392002349787402241) | advertise |
 | [HUYPRO58272411@twitter](https://twitter.com/HUYPRO58272411/status/1553273805828947968) | advertise |
@@ -13335,6 +13337,7 @@ Do not create new issue or we will close it as duplicate.
 | [VIPCOCGAMING1@twitter](https://twitter.com/VIPCOCGAMING1/status/1586043418849210369) | advertise |
 | [vipibox@twitter](https://twitter.com/vipibox/status/1570101058587987968) | advertise |
 | [vip__Lyahody@twitter](https://twitter.com/vip__Lyahody/status/1613997413517393921) | advertise |
+| [virendra_manju@twitter](https://twitter.com/virendra_manju/status/1690585942879309824) | advertise |
 | [VirgilShelton@twitter](https://twitter.com/VirgilShelton/status/1409998073040756738) | moral (advertise) |
 | [virotoovox@twitter](https://twitter.com/virotoovox/status/1685257750215790593) | advertise |
 | [virtualtwit@twitter](https://twitter.com/virtualtwit/status/1532222794020581376) | advertise |
