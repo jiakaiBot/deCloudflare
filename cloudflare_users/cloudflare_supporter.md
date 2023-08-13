@@ -668,6 +668,7 @@ Do not create new issue or we will close it as duplicate.
 | [Alireza38854410@twitter](https://twitter.com/Alireza38854410/status/1590028048241659904) | advertise |
 | [Alireza47491461@twitter](https://twitter.com/Alireza47491461/status/1384770721897984000) | advertise |
 | [Alireza73451812@twitter](https://twitter.com/Alireza73451812/status/1619299096967237633) | advertise |
+| [AliReza93595494@twitter](https://twitter.com/AliReza93595494/status/1690430390992060416) | advertise |
 | [alirezas998@twitter](https://twitter.com/alirezas998/status/1607533612043276293) | advertise |
 | [alirezasalahi10@twitter](https://twitter.com/alirezasalahi10/status/1567979767273762817) | advertise |
 | [AlirezaSarfrazi@twitter](https://twitter.com/AlirezaSarfrazi/status/1617160276452978691) | advertise |
@@ -12789,6 +12790,7 @@ Do not create new issue or we will close it as duplicate.
 | [trantha16219627@twitter](https://twitter.com/trantha16219627/status/1480025129786564613) | advertise |
 | [trantha20482812@twitter](https://twitter.com/trantha20482812/status/1620812004268318726) | advertise |
 | [Trantha51229117@twitter](https://twitter.com/Trantha51229117/status/1555136963715698689) | advertise |
+| [tranthanhb59038@twitter](https://twitter.com/tranthanhb59038/status/1690657978037555200) | advertise |
 | [trantie92872403@twitter](https://twitter.com/trantie92872403/status/1485623018823258115) | advertise |
 | [trantinh98@twitter](https://twitter.com/trantinh98/status/1551127415405297664) | advertise |
 | [TranTua00316518@twitter](https://twitter.com/TranTua00316518/status/1503265835145904128) | advertise |
