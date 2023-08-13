@@ -27,8 +27,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,176 |
-| social | 4,457 |
+| com | 7,177 |
+| social | 4,458 |
 | net | 3,648 |
 | org | 2,455 |
 | de | 2,258 |
@@ -3229,6 +3229,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `autumnsky.jp` | No |
 | `autumnsky.us` | No |
 | `aux-vieux-bourguignons.fr` | No |
+| `auxim.social` | Yes |
 | `auxjack.net` | No |
 | `auxroro.com` | Yes |
 | `av8r.ca` | No |
@@ -16762,6 +16763,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `heckoverflow.org` | Yes |
 | `hed.im` | No |
 | `hedenstroem.com` | Yes |
+| `hedge.town` | Yes |
 | `hedgebound.net` | No |
 | `hedgehog.pub` | Yes |
 | `hedgehoghunter.club` | No |
@@ -33261,6 +33263,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `pug.ninja` | Yes |
 | `pug.photos` | No |
 | `pug.social` | No |
+| `puggaard-nyborg.dk` | No |
 | `pugly.org` | Yes |
 | `pugmasu.xyz` | No |
 | `pugritos.cloud` | No |
@@ -34927,6 +34930,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `rkvssr.nl` | No |
 | `rl5.nl` | No |
 | `rleve.de` | Yes |
+| `rlidea.com` | Yes |
 | `rlin.eu` | Yes |
 | `rllmuk.social` | No |
 | `rlmn.co` | Yes |
@@ -47014,8 +47018,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,885 |
-| Normal | 34,085 |
+| Cloudflare | 12,888 |
+| Normal | 34,086 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
