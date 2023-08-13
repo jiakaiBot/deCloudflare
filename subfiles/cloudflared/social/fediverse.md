@@ -41975,6 +41975,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `toposware.com` | No |
 | `toppickz.com` | No |
 | `topping.services` | No |
+| `toppu.jp` | No |
 | `topslakr.com` | No |
 | `topspicy.social` | No |
 | `toptechtidbits.com` | No |
@@ -47014,7 +47015,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,885 |
-| Normal | 34,084 |
+| Normal | 34,085 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
