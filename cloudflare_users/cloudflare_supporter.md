@@ -4724,6 +4724,7 @@ Do not create new issue or we will close it as duplicate.
 | [hotelierindo@twitter](https://twitter.com/hotelierindo/status/1377128938879602688) | advertise |
 | [HotGirlsVideo99@twitter](https://twitter.com/HotGirlsVideo99/status/1591384776929603584) | advertise |
 | [hotman40929677@twitter](https://twitter.com/hotman40929677/status/1397865773889163266) | advertise |
+| [how498988195935@twitter](https://twitter.com/how498988195935/status/1690713372168192000) | advertise |
 | [howmuches@twitter](https://twitter.com/howmuches/status/1512231330775715842) | advertise |
 | [Howsein_salimi@twitter](https://twitter.com/Howsein_salimi/status/1579227354437910528) | advertise |
 | [Hozifa989@twitter](https://twitter.com/Hozifa989/status/1387553823535902720) | advertise |
@@ -11087,6 +11088,7 @@ Do not create new issue or we will close it as duplicate.
 | [sayhi1499@twitter](https://twitter.com/sayhi1499/status/1609016771385909248) | advertise |
 | [sayloyar1990@twitter](https://twitter.com/sayloyar1990/status/1672076540283346945) | advertise |
 | [SaymonCTavares@twitter](https://twitter.com/SaymonCTavares/status/1548661005026197508) | advertise |
+| [SayTie74103554@twitter](https://twitter.com/SayTie74103554/status/1690717823629500416) | advertise |
 | [Sayykayyyy@twitter](https://twitter.com/Sayykayyyy/status/1665874524670160896) | advertise |
 | [sazkia99@twitter](https://twitter.com/sazkia99/status/1477081071116115973) | advertise |
 | [SazzadH90513371@twitter](https://twitter.com/SazzadH90513371/status/1469675924358533123) | advertise |
