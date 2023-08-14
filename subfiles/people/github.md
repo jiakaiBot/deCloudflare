@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Problem when using the public-api flag.](https://github.com/oobabooga/text-generation-webui/issues/3570)
 - [Connection Error for Indexer](https://github.com/Jackett/Jackett/issues/14631)
 - [Broken Link Detected](https://github.com/pingcap/docs/issues/14495)
 - [cannot unmarshal array into Go value of type mapstringinterface {} on Cloudflare provider](https://github.com/jreyesr/steampipe-plugin-tfbridge/issues/3)
