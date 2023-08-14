@@ -37300,6 +37300,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `simon-a.at` | No |
 | `simon-a.info` | No |
 | `simon-frey.eu` | No |
+| `simon-galland.fr` | No |
 | `simon-koester.de` | No |
 | `simon816.com` | No |
 | `simoncook.org` | Yes |
@@ -47047,7 +47048,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,903 |
-| Normal | 34,099 |
+| Normal | 34,100 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
