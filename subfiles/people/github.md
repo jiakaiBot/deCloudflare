@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Connection Error for Indexer](https://github.com/Jackett/Jackett/issues/14631)
 - [Broken Link Detected](https://github.com/pingcap/docs/issues/14495)
 - [cannot unmarshal array into Go value of type mapstringinterface {} on Cloudflare provider](https://github.com/jreyesr/steampipe-plugin-tfbridge/issues/3)
 - [Access via Nginx Proxy Manager - CSRF error/no recipes displayed](https://github.com/TandoorRecipes/recipes/issues/2581)
