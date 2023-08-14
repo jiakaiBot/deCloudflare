@@ -19121,6 +19121,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `jabberhead.tk` | No |
 | `jabberwocky.moe` | Yes |
 | `jabberwookie.org` | No |
+| `jabbex.ru` | No |
 | `jabbxi.de` | No |
 | `jabel.blog` | No |
 | `jabjab.de` | No |
@@ -41501,6 +41502,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `tinko.club` | No |
 | `tinnies.club` | Yes |
 | `tinokaltsas.com` | No |
+| `tiny-host.nl` | No |
 | `tiny.gripe` | No |
 | `tinyblip.com` | No |
 | `tinycart.club` | No |
@@ -47061,7 +47063,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,905 |
-| Normal | 34,111 |
+| Normal | 34,113 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
