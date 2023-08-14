@@ -4023,6 +4023,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `beiunsdaham.de` | No |
 | `bejinariu.eu` | No |
 | `bekesi.org` | No |
+| `bekserver.xyz` | No |
 | `bel.social` | Yes |
 | `belajkorpoj.art` | No |
 | `belclayfer.net` | No |
@@ -11166,6 +11167,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `edel-ornstein.pro` | Yes |
 | `edelmann.bond` | Yes |
 | `eden.one` | No |
+| `edeverett.co.uk` | No |
 | `edgarogh.fr` | No |
 | `edgarpierre.fr` | No |
 | `edge4cube.work` | Yes |
@@ -24410,6 +24412,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `mariosabatino.it` | No |
 | `mariotaku.me` | Yes |
 | `mariovavti.com` | No |
+| `marisabel.nl` | No |
 | `maritime.social` | Yes |
 | `mariu5.de` | Yes |
 | `mariusdavid.fr` | No |
@@ -29347,6 +29350,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `noparticular.place` | No |
 | `nopasaran.red` | No |
 | `nopdev.com` | No |
+| `nope.blog` | No |
 | `nope.foo` | Yes |
 | `nope.social` | No |
 | `nophase.net` | No |
@@ -47057,7 +47061,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,905 |
-| Normal | 34,107 |
+| Normal | 34,111 |
 
 
-### 27.5% of public Fediverse services are using Cloudflare.
+### 27.4% of public Fediverse services are using Cloudflare.
