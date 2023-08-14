@@ -752,6 +752,7 @@ Do not create new issue or we will close it as duplicate.
 | [amekiri13@twitter](https://twitter.com/amekiri13/status/1437975591152611329) | advertise |
 | [AmeliaNyeint@twitter](https://twitter.com/AmeliaNyeint/status/1398295090909499397) | advertise |
 | [Amer71692232@twitter](https://twitter.com/Amer71692232/status/1497751670188490758) | advertise |
+| [AmesiyasDe54691@twitter](https://twitter.com/AmesiyasDe54691/status/1691039149975896065) | advertise |
 | [amiamigo97@twitter](https://twitter.com/amiamigo97/status/1616127323887243266) | advertise |
 | [Amiirfahad@twitter](https://twitter.com/Amiirfahad/status/1492928600978382856) | advertise |
 | [aMiLcArBaRrErA@twitter](https://twitter.com/aMiLcArBaRrErA/status/1594907159397289984) | advertise |
@@ -10047,6 +10048,7 @@ Do not create new issue or we will close it as duplicate.
 | [poris182@twitter](https://twitter.com/poris182/status/1640767897651019776) | advertise |
 | [pormhee@twitter](https://twitter.com/pormhee/status/1553270565292498945) | advertise |
 | [PornchaiSosut@twitter](https://twitter.com/PornchaiSosut/status/1401256333341380608) | advertise |
+| [Porosh530159@twitter](https://twitter.com/Porosh530159/status/1690989818229227520) | advertise |
 | [portall92@twitter](https://twitter.com/portall92/status/1395052889752539137) | advertise |
 | [PortalTatil@twitter](https://twitter.com/PortalTatil/status/1392872426476875784) | advertise |
 | [portaltechtips@twitter](https://twitter.com/portaltechtips/status/1384050300751781892) | advertise |
@@ -10263,6 +10265,7 @@ Do not create new issue or we will close it as duplicate.
 | [QuangNg40882818@twitter](https://twitter.com/QuangNg40882818/status/1406561229947035654) | advertise |
 | [Quangnghiahi@twitter](https://twitter.com/Quangnghiahi/status/1549424943594479616) | advertise |
 | [quangnhat0809@twitter](https://twitter.com/quangnhat0809/status/1379958517851824129) | advertise |
+| [QuangTeoo1@twitter](https://twitter.com/QuangTeoo1/status/1666169558418456576) | advertise |
 | [quangtien93@twitter](https://twitter.com/quangtien93/status/1504243847857008645) | advertise |
 | [Quangtran190988@twitter](https://twitter.com/Quangtran190988/status/1381890326990782465) | advertise |
 | [QuangTu91460693@twitter](https://twitter.com/QuangTu91460693/status/1505800949725470724) | advertise |
@@ -10418,6 +10421,7 @@ Do not create new issue or we will close it as duplicate.
 | [RAMMEHARDAS3@twitter](https://twitter.com/RAMMEHARDAS3/status/1399046837407928320) | advertise |
 | [rammy_desi@twitter](https://twitter.com/rammy_desi/status/1569327053983600640) | advertise |
 | [RamonIanys@twitter](https://twitter.com/RamonIanys/status/1524013300845092864) | advertise |
+| [RamR31013456@twitter](https://twitter.com/RamR31013456/status/1691058391291138048) | advertise |
 | [ramreisem@twitter](https://twitter.com/ramreisem/status/1661779335165149185) | advertise |
 | [ramsey_jacquie@twitter](https://twitter.com/ramsey_jacquie/status/1384870814017806336) | advertise |
 | [Ran20182@twitter](https://twitter.com/Ran20182/status/1396105776402370561) | advertise |
@@ -10426,6 +10430,7 @@ Do not create new issue or we will close it as duplicate.
 | [randy_savageee@twitter](https://twitter.com/randy_savageee/status/1579617223773417472) | advertise |
 | [rand_ajn@twitter](https://twitter.com/rand_ajn/status/1568787097334726657) | advertise |
 | [Ranimmarani@twitter](https://twitter.com/Ranimmarani/status/1549276216552996865) | advertise |
+| [RanjanaDarshana@twitter](https://twitter.com/RanjanaDarshana/status/1691048301196640256) | advertise |
 | [ranjinath@twitter](https://twitter.com/ranjinath/status/1677882078862663680) | advertise |
 | [RanjitM93877397@twitter](https://twitter.com/RanjitM93877397/status/1406581687257997313) | advertise |
 | [RANJITS12461179@twitter](https://twitter.com/RANJITS12461179/status/1576488345017806850) | advertise |
@@ -11160,6 +11165,7 @@ Do not create new issue or we will close it as duplicate.
 | [Senpai32219852@twitter](https://twitter.com/Senpai32219852/status/1493671781646974982) | advertise |
 | [senpei2000@twitter](https://twitter.com/senpei2000/status/1395706478577602561) | advertise |
 | [senseivita@twitter](https://twitter.com/senseivita/status/1626224465561673734) | advertise |
+| [senteChiristian@twitter](https://twitter.com/senteChiristian/status/1690964219007565824) | advertise |
 | [Senthil3553011@twitter](https://twitter.com/Senthil3553011/status/1682683801930182657) | advertise |
 | [SEOforWebsite4@twitter](https://twitter.com/SEOforWebsite4/status/1374211700317032448) | advertise |
 | [SeoMihail@twitter](https://twitter.com/SeoMihail/status/1490084436704215056) | advertise |
@@ -11606,6 +11612,7 @@ Do not create new issue or we will close it as duplicate.
 | [sophiecoopers@twitter](https://twitter.com/sophiecoopers/status/1392864936066437125) | advertise |
 | [SophieK11406863@twitter](https://twitter.com/SophieK11406863/status/1385174250550566918) | advertise |
 | [sophiemabel69@twitter](https://twitter.com/sophiemabel69/status/1391867304632328197) | advertise |
+| [sorkar521@twitter](https://twitter.com/sorkar521/status/1690948772606722048) | advertise |
 | [Sosuke5N@twitter](https://twitter.com/Sosuke5N/status/1393150723941183492) | advertise |
 | [sosunwale@twitter](https://twitter.com/sosunwale/status/1400970212980240394) | advertise |
 | [soulife883@twitter](https://twitter.com/soulife883/status/1618650120001839107) | advertise |
