@@ -228,7 +228,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ns3.cx | No |
 | ns3.link | No |
 | nullgate.net | No |
-| o1.lt | Yes |
 | occ.top | Yes |
 | ofdoom.net | Yes |
 | onedns.cc | Yes |
@@ -333,8 +332,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 158 |
+| Cloudflare | 157 |
 | Normal | 156 |
 
 
-### 50.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
