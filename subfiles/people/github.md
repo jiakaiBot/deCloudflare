@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [opkg update fails, repository possibly unreachable](https://github.com/seud0nym/tch-gui-unhide/issues/164)
+- [Can't send after account creation](https://github.com/daimo-eth/daimo/issues/157)
+- [TypeError: Illegal invocation when intrumenting calls to CF cache](https://github.com/evanderkoogh/otel-cf-workers/issues/41)
 - [Failed to retrieve the Cloudflare clearance cookie](https://github.com/Xewdy444/CF-Clearance-Scraper/issues/27)
 - [trying to connect XrayR to Warp-cli using socks5](https://github.com/XrayR-project/XrayR/issues/435)
 - [Problem when using the public-api flag.](https://github.com/oobabooga/text-generation-webui/issues/3570)
