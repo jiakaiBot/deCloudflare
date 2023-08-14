@@ -30,7 +30,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | com | 7,181 |
 | social | 4,461 |
 | net | 3,648 |
-| org | 2,456 |
+| org | 2,455 |
 | de | 2,260 |
 
 
@@ -11036,7 +11036,6 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `east17.org` | No |
 | `eastback.co.jp` | No |
 | `eastman.tech` | No |
-| `eastmetrocommunitymusic.org` | No |
 | `easy-mastodon.de` | Yes |
 | `easya.solutions` | No |
 | `easydns.ca` | No |
@@ -47048,7 +47047,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,903 |
-| Normal | 34,100 |
+| Normal | 34,099 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
