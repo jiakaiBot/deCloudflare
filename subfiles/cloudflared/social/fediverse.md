@@ -27,8 +27,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,180 |
-| social | 4,460 |
+| com | 7,181 |
+| social | 4,461 |
 | net | 3,648 |
 | org | 2,455 |
 | de | 2,259 |
@@ -604,6 +604,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `5f5.org` | No |
 | `5f9.de` | No |
 | `5hanayome.cyou` | No |
+| `5i.gs` | Yes |
 | `5july.net` | No |
 | `5jung.com` | Yes |
 | `5kg.jp` | No |
@@ -907,7 +908,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `abouthere.uk` | Yes |
 | `abpe.org` | Yes |
 | `abq.actor` | Yes |
-| `abraham.social` | No |
+| `abraham.social` | Yes |
 | `abraham.su` | No |
 | `abrahamson.family` | No |
 | `abrajam.com` | Yes |
@@ -11136,6 +11137,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ecotri.be` | No |
 | `ecotube.fr` | No |
 | `ecru.social` | No |
+| `ecsecsecs.com` | Yes |
 | `ectolab.net` | Yes |
 | `ecton.dev` | Yes |
 | `ecuadortl.club` | No |
@@ -32594,6 +32596,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `polittimeline.de` | No |
 | `poliversity.it` | No |
 | `poliverso.org` | No |
+| `polkadot.blue` | Yes |
 | `polli.social` | No |
 | `pollock.network` | No |
 | `pollyanna.social` | No |
@@ -39882,7 +39885,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `taintedworld.org` | Yes |
 | `tainton.uk` | Yes |
 | `taiwan.works` | No |
-| `taiwan.wtf` | Yes |
+| `taiwan.wtf` | No |
 | `taiwanmemenews.social` | No |
 | `taiy.me` | Yes |
 | `taiyaki.online` | No |
@@ -42393,6 +42396,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `trpg-link.tk` | No |
 | `trpg-o.xyz` | No |
 | `trpg.cloud` | Yes |
+| `trpg.social` | No |
 | `trpger.us` | Yes |
 | `trshnet.de` | No |
 | `trtl.in` | No |
@@ -47032,8 +47036,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,896 |
-| Normal | 34,092 |
+| Cloudflare | 12,899 |
+| Normal | 34,093 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
