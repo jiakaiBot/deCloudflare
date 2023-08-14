@@ -28,7 +28,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | TLD | Count |
 | --- | --- |
 | com | 7,180 |
-| social | 4,459 |
+| social | 4,460 |
 | net | 3,648 |
 | org | 2,455 |
 | de | 2,259 |
@@ -39867,6 +39867,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `tagpro.lol` | No |
 | `tahvok.com` | Yes |
 | `taichan.site` | Yes |
+| `taidum.social` | Yes |
 | `taidum.space` | Yes |
 | `taifoon.net` | No |
 | `taiha.net` | No |
@@ -47031,7 +47032,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,895 |
+| Cloudflare | 12,896 |
 | Normal | 34,092 |
 
 
