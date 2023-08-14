@@ -680,6 +680,7 @@ Do not create new issue or we will close it as duplicate.
 | [AliTekayResmi@twitter](https://twitter.com/AliTekayResmi/status/1420368710490013700) | advertise |
 | [ali_dehdati@twitter](https://twitter.com/ali_dehdati/status/1642283108090142723) | advertise |
 | [Ali_Francee@twitter](https://twitter.com/Ali_Francee/status/1665022814879903746) | advertise |
+| [ali_haialy@twitter](https://twitter.com/ali_haialy/status/1691153071177445376) | advertise |
 | [ali__haidaricr7@twitter](https://twitter.com/ali__haidaricr7/status/1390791981010460673) | advertise |
 | [AllanMartin@twitter](https://twitter.com/AllanMartin/status/1399519289372295168) | advertise |
 | [allawi_m9@twitter](https://twitter.com/allawi_m9/status/1596033460002783232) | advertise |
@@ -9143,6 +9144,7 @@ Do not create new issue or we will close it as duplicate.
 | [nik_dokht@twitter](https://twitter.com/nik_dokht/status/1580302051128446977) | advertise |
 | [NiladriAsh@twitter](https://twitter.com/NiladriAsh/status/1395822333944684544) | advertise |
 | [NilarSo52519800@twitter](https://twitter.com/NilarSo52519800/status/1394584973143851009) | advertise |
+| [nillshagor868@twitter](https://twitter.com/nillshagor868/status/1691080905928904704) | advertise |
 | [niloomeraj@twitter](https://twitter.com/niloomeraj/status/1607485496762204161) | advertise |
 | [nilou1995@twitter](https://twitter.com/nilou1995/status/1573241066312302594) | advertise |
 | [nilo_asl@twitter](https://twitter.com/nilo_asl/status/1575209653176528897) | advertise |
@@ -9529,6 +9531,7 @@ Do not create new issue or we will close it as duplicate.
 | [osamaaly90@twitter](https://twitter.com/osamaaly90/status/1405389818499158017) | advertise |
 | [osamabaghdady1@twitter](https://twitter.com/osamabaghdady1/status/1631757127374061573) | advertise |
 | [OsamaBinCrytpo@twitter](https://twitter.com/OsamaBinCrytpo/status/1685442771715276800) | advertise |
+| [osamahuseen69@twitter](https://twitter.com/osamahuseen69/status/1691160838088843265) | advertise |
 | [Osamavp88@twitter](https://twitter.com/Osamavp88/status/1553648608183869441) | advertise |
 | [osaray_@twitter](https://twitter.com/osaray_/status/1577621931892809728) | advertise |
 | [osazemeu@twitter](https://twitter.com/osazemeu/status/1680786078213500933) | advertise |
@@ -10597,6 +10600,7 @@ Do not create new issue or we will close it as duplicate.
 | [RidhiyaAulia@twitter](https://twitter.com/RidhiyaAulia/status/1637857799442165761) | advertise |
 | [rifat_wp@twitter](https://twitter.com/rifat_wp/status/1512383768124071938) | advertise |
 | [Right71407038@twitter](https://twitter.com/Right71407038/status/1377305531769974790) | advertise |
+| [rightlywhat@twitter](https://twitter.com/rightlywhat/status/1691153304947171328) | advertise |
 | [RightTron@twitter](https://twitter.com/RightTron/status/1659663226768850946) | advertise |
 | [RihanMalik70304@twitter](https://twitter.com/RihanMalik70304/status/1643201086763991040) | advertise |
 | [RimonIs52049086@twitter](https://twitter.com/RimonIs52049086/status/1480451386680639488) | advertise |
@@ -13819,6 +13823,7 @@ Do not create new issue or we will close it as duplicate.
 | [Xiaoqingxxx1@twitter](https://twitter.com/Xiaoqingxxx1/status/1478846246299189248) | advertise |
 | [xiaowanggg@twitter](https://twitter.com/xiaowanggg/status/1483352827732717573) | advertise |
 | [XiaoWu92722924@twitter](https://twitter.com/XiaoWu92722924/status/1379035666818990082) | advertise |
+| [xiawanxw@twitter](https://twitter.com/xiawanxw/status/1691157645921783810) | advertise |
 | [Xifier_legit@twitter](https://twitter.com/Xifier_legit/status/1610254838960648193) | advertise |
 | [Xing14851@twitter](https://twitter.com/Xing14851/status/1390482855403220994) | advertise |
 | [XixonK@twitter](https://twitter.com/XixonK/status/1388732923772162065) | advertise |
