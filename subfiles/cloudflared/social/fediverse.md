@@ -27,11 +27,11 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,181 |
+| com | 7,182 |
 | social | 4,461 |
 | net | 3,648 |
 | org | 2,457 |
-| de | 2,260 |
+| de | 2,261 |
 
 
 - Mastodon, Pleroma, etc
@@ -3189,6 +3189,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `austria-toots.social` | No |
 | `aut.red` | Yes |
 | `aut.social` | No |
+| `authbypass.com` | No |
 | `authn.cc` | No |
 | `author.chat` | Yes |
 | `authorbuzz.co.uk` | No |
@@ -21837,6 +21838,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `l0nax.org` | Yes |
 | `l0v.es` | Yes |
 | `l1f.de` | No |
+| `l2d2.de` | No |
 | `l33t.city` | Yes |
 | `l33t.codes` | No |
 | `l33t.link` | Yes |
@@ -47063,7 +47065,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,905 |
-| Normal | 34,113 |
+| Normal | 34,115 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
