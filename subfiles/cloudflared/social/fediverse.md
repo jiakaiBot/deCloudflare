@@ -30,7 +30,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | com | 7,181 |
 | social | 4,461 |
 | net | 3,648 |
-| org | 2,456 |
+| org | 2,457 |
 | de | 2,260 |
 
 
@@ -1733,6 +1733,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `allthetacos.com` | No |
 | `allthings.club` | No |
 | `allthingscheltenham.social` | No |
+| `allthingsmusic.space` | No |
 | `allthingstech.social` | Yes |
 | `alltom.com` | No |
 | `alltomorrows.party` | No |
@@ -10703,6 +10704,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `drop.moe` | Yes |
 | `dropbear.club` | No |
 | `dropbear.xyz` | Yes |
+| `dropdoos.nl` | No |
 | `dropmann.org` | Yes |
 | `droppedbits.com` | No |
 | `dropshare.social` | No |
@@ -12064,6 +12066,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `etovai.eu` | No |
 | `etr.ist` | No |
 | `etsocialspace.com` | No |
+| `ettanity.uk` | Yes |
 | `etts.uk` | No |
 | `etw.uk` | No |
 | `etwarl.net` | Yes |
@@ -13110,6 +13113,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `fetedelamusique.de` | Yes |
 | `fetish.church` | No |
 | `fetishdon.tk` | No |
+| `fetishrealm.xyz` | No |
 | `fetishsocial.club` | No |
 | `fetswing.org` | Yes |
 | `fetus.jp` | Yes |
@@ -29981,6 +29985,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ocr.social` | No |
 | `ocsf.in` | No |
 | `octalwave.com` | Yes |
+| `octans.app` | No |
 | `octaplex.net` | No |
 | `octii.chat` | Yes |
 | `octo.im` | No |
@@ -40355,6 +40360,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `techy.social` | Yes |
 | `techzerker.com` | Yes |
 | `teci.world` | No |
+| `teckids.org` | No |
 | `teckl.xyz` | Yes |
 | `tecklenbook.de` | No |
 | `teckstudios.xyz` | No |
@@ -41795,6 +41801,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `toon.social` | No |
 | `toon.town` | Yes |
 | `toonbook-rewritten.me` | No |
+| `toonimal.xyz` | No |
 | `toons.zone` | No |
 | `toontastic.fun` | No |
 | `toontoet.nl` | No |
@@ -47049,8 +47056,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,904 |
-| Normal | 34,101 |
+| Cloudflare | 12,905 |
+| Normal | 34,107 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
