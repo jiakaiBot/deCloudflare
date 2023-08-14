@@ -30,7 +30,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | com | 7,181 |
 | social | 4,461 |
 | net | 3,648 |
-| org | 2,455 |
+| org | 2,456 |
 | de | 2,260 |
 
 
@@ -3603,7 +3603,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `bakdos.de` | No |
 | `bakedbean.xyz` | Yes |
 | `baker.network` | No |
-| `baker.uk` | No |
+| `baker.uk` | Yes |
 | `baking.social` | No |
 | `bakitodon.com` | No |
 | `bakunet.me` | Yes |
@@ -11036,6 +11036,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `east17.org` | No |
 | `eastback.co.jp` | No |
 | `eastman.tech` | No |
+| `eastmetrocommunitymusic.org` | No |
 | `easy-mastodon.de` | Yes |
 | `easya.solutions` | No |
 | `easydns.ca` | No |
@@ -28557,6 +28558,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `netfie.ca` | No |
 | `netflux.io` | No |
 | `netfull.org` | No |
+| `nethack.tv` | No |
 | `nether.net` | No |
 | `netheredge.com` | No |
 | `nethole.us` | No |
@@ -47047,8 +47049,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,903 |
-| Normal | 34,100 |
+| Cloudflare | 12,904 |
+| Normal | 34,101 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
