@@ -31,7 +31,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | social | 4,461 |
 | net | 3,648 |
 | org | 2,456 |
-| de | 2,259 |
+| de | 2,260 |
 
 
 - Mastodon, Pleroma, etc
@@ -4599,6 +4599,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `bjones.net` | No |
 | `bjorkbrant.com` | Yes |
 | `bjorkede.no` | No |
+| `bjorney.lol` | No |
 | `bjorngott.com` | Yes |
 | `bk-guild.de` | Yes |
 | `bk.cx` | No |
@@ -4953,7 +4954,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `bobbel.social` | No |
 | `bobbes.de` | No |
 | `bobbinsrobots.com` | No |
-| `bobby99as.me` | No |
+| `bobby99as.me` | Yes |
 | `bobbyd100.com` | No |
 | `bobbyl140.com` | No |
 | `bobcall.me` | No |
@@ -6419,6 +6420,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `celp.de` | No |
 | `celt.social` | No |
 | `celti.name` | No |
+| `celtic.blue` | Yes |
 | `celticpaganism.org` | No |
 | `cemea.org` | No |
 | `cemocom.de` | No |
@@ -6882,6 +6884,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `chrisfried.com` | Yes |
 | `chrishandy.blog` | No |
 | `chrishannah.me` | Yes |
+| `chrishaz.fun` | No |
 | `chrisheninger.com` | Yes |
 | `chrishubbs.com` | No |
 | `chrishumphreys.tech` | No |
@@ -9377,6 +9380,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `deepplum.com` | No |
 | `deeproot.in` | No |
 | `deepskies.com` | No |
+| `deepspace.cafe` | No |
 | `deepspace.gay` | Yes |
 | `deepspace.social` | No |
 | `deepspacerose.garden` | No |
@@ -13207,6 +13211,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `filamore.social` | No |
 | `file-explorers.club` | No |
 | `file.st` | No |
+| `fili.to` | No |
 | `filik.eu` | Yes |
 | `filin.news` | No |
 | `filipesaraiva.info` | No |
@@ -17985,6 +17990,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ich.gay` | Yes |
 | `ichbinbaff.de` | No |
 | `ichbinkeinreh.de` | No |
+| `ichderfisch.de` | No |
 | `ichibi.eu` | No |
 | `ichidan.io` | Yes |
 | `ichigo-hoshimiya.com` | Yes |
@@ -19912,6 +19918,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `josschuurmans.com` | No |
 | `josta.me` | Yes |
 | `josz.space` | No |
+| `jotboard.info` | No |
 | `jotoma.de` | No |
 | `journa.host` | No |
 | `journalism.social` | No |
@@ -30839,6 +30846,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `otter.sh` | No |
 | `otter.tube` | No |
 | `otterbark.com` | No |
+| `otterly.space` | No |
 | `otters.at` | No |
 | `ottertax.com` | No |
 | `ottheim.de` | No |
@@ -43585,7 +43593,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `vah.sh` | Yes |
 | `vakaruge.com` | No |
 | `vaku.org.ua` | No |
-| `val-sans-retour.fr` | No |
+| `val-sans-retour.fr` | Yes |
 | `valaci.ml` | No |
 | `valah.net` | No |
 | `valdas.space` | Yes |
@@ -47039,8 +47047,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,900 |
-| Normal | 34,095 |
+| Cloudflare | 12,903 |
+| Normal | 34,100 |
 
 
-### 27.4% of public Fediverse services are using Cloudflare.
+### 27.5% of public Fediverse services are using Cloudflare.
