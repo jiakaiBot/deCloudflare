@@ -800,6 +800,7 @@ Do not create new issue or we will close it as duplicate.
 | [AmMussolini@twitter](https://twitter.com/AmMussolini/status/1383118744621363202) | advertise |
 | [AmortyH@twitter](https://twitter.com/AmortyH/status/1394286641179611139) | advertise |
 | [amrabbasamr@twitter](https://twitter.com/amrabbasamr/status/1643504330752897024) | advertise |
+| [AMrasri89@twitter](https://twitter.com/AMrasri89/status/1690917901270978560) | advertise |
 | [Amrex67830492@twitter](https://twitter.com/Amrex67830492/status/1534807798717984768) | advertise |
 | [amritabithi@twitter](https://twitter.com/amritabithi/status/1407655829835108353) | advertise |
 | [AmritTh45067603@twitter](https://twitter.com/AmritTh45067603/status/1396743277219434499) | advertise |
@@ -3051,6 +3052,7 @@ Do not create new issue or we will close it as duplicate.
 | [doctorzlai@twitter](https://twitter.com/doctorzlai/status/1666906236170665984) | advertise |
 | [docuwerx@twitter](https://twitter.com/docuwerx/status/1645164837335441411) | advertise |
 | [dogeminercoin@twitter](https://twitter.com/dogeminercoin/status/1670757160131731458) | advertise |
+| [Doge_FBI_Agent@twitter](https://twitter.com/Doge_FBI_Agent/status/1690900215706877952) | advertise |
 | [doggiesflix@twitter](https://twitter.com/doggiesflix/status/1398852820250497030) | advertise |
 | [doggo_cowboy@twitter](https://twitter.com/doggo_cowboy/status/1593107308296695808) | advertise |
 | [DogKill76275871@twitter](https://twitter.com/DogKill76275871/status/1532563663608942593) | advertise |
@@ -5921,6 +5923,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kaozad1@twitter](https://twitter.com/Kaozad1/status/1552611330481623040) | advertise |
 | [KapadiyaVikas@twitter](https://twitter.com/KapadiyaVikas/status/1393500402453123074) | advertise |
 | [karaar_AIi@twitter](https://twitter.com/karaar_AIi/status/1520412097917730817) | advertise |
+| [karaly_omar@twitter](https://twitter.com/karaly_omar/status/1690903804516933632) | advertise |
 | [KaraMustafa76@twitter](https://twitter.com/KaraMustafa76/status/1676126946202140678) | advertise |
 | [karanontweater@twitter](https://twitter.com/karanontweater/status/1395265830582112270) | advertise |
 | [KaranSi07920301@twitter](https://twitter.com/KaranSi07920301/status/1563604889799835648) | advertise |
@@ -11862,6 +11865,7 @@ Do not create new issue or we will close it as duplicate.
 | [swjmj01@twitter](https://twitter.com/swjmj01/status/1627757920288120832) | advertise |
 | [swnly1367396@twitter](https://twitter.com/swnly1367396/status/1689812799931768834) | advertise |
 | [sx_313@twitter](https://twitter.com/sx_313/status/1579576121779433472) | advertise |
+| [SyahKhaha@twitter](https://twitter.com/SyahKhaha/status/1690882993571987456) | advertise |
 | [Syahputra902@twitter](https://twitter.com/Syahputra902/status/1405110962055643136) | advertise |
 | [syahril_akbar32@twitter](https://twitter.com/syahril_akbar32/status/1468464046445785089) | advertise |
 | [Syaif1996@twitter](https://twitter.com/Syaif1996/status/1586298287862079488) | advertise |
@@ -12016,6 +12020,7 @@ Do not create new issue or we will close it as duplicate.
 | [ta_yrue@twitter](https://twitter.com/ta_yrue/status/1386951984536715265) | advertise |
 | [Tb62949256@twitter](https://twitter.com/Tb62949256/status/1395710891614670848) | advertise |
 | [TBvHdw3BHOH4hrD@twitter](https://twitter.com/TBvHdw3BHOH4hrD/status/1384973743081115660) | advertise |
+| [TchuWha@twitter](https://twitter.com/TchuWha/status/1690886301179080704) | advertise |
 | [tcitr_chen@twitter](https://twitter.com/tcitr_chen/status/1389172265992916993) | advertise |
 | [TcitTechcom@twitter](https://twitter.com/TcitTechcom/status/1528531003354271744) | advertise |
 | [tCuongt4@twitter](https://twitter.com/tCuongt4/status/1627130789413687297) | advertise |
