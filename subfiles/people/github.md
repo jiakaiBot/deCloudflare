@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Bitget fetch_trades() replace market/fills to market/fills-history](https://github.com/ccxt/ccxt/issues/18888)
 - [opkg update fails, repository possibly unreachable](https://github.com/seud0nym/tch-gui-unhide/issues/164)
 - [Can't send after account creation](https://github.com/daimo-eth/daimo/issues/157)
 - [TypeError: Illegal invocation when intrumenting calls to CF cache](https://github.com/evanderkoogh/otel-cf-workers/issues/41)
