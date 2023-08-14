@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failed to retrieve the Cloudflare clearance cookie](https://github.com/Xewdy444/CF-Clearance-Scraper/issues/27)
 - [trying to connect XrayR to Warp-cli using socks5](https://github.com/XrayR-project/XrayR/issues/435)
 - [Problem when using the public-api flag.](https://github.com/oobabooga/text-generation-webui/issues/3570)
 - [Connection Error for Indexer](https://github.com/Jackett/Jackett/issues/14631)
