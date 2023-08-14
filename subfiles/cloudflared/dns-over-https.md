@@ -200,6 +200,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | modr.club | Yes |
 | molinero.dev | Yes |
 | moonssif.com | Yes |
+| morizt.id | No |
 | msr177.com | No |
 | msxnet.ru | Yes |
 | mullvad.net | No |
@@ -216,6 +217,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nic.cz | No |
 | nic.lv | No |
 | nielsdb.be | No |
+| ningkelle.id | No |
 | niyawe.de | No |
 | njal.la | No |
 | noaddns.com | No |
@@ -246,6 +248,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | qquack.org | Yes |
 | qwer.pw | Yes |
 | r0cket.net | No |
+| rayanbab.com | Yes |
 | rayneau.fr | No |
 | reckoningslug.name | Yes |
 | restena.lu | No |
@@ -332,8 +335,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 157 |
-| Normal | 156 |
+| Cloudflare | 158 |
+| Normal | 158 |
 
 
-### 50.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50% of DNS-over-HTTPS (DoH) are using Cloudflare.
