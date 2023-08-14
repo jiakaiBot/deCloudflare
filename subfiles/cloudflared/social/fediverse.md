@@ -30,7 +30,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | com | 7,181 |
 | social | 4,461 |
 | net | 3,648 |
-| org | 2,455 |
+| org | 2,456 |
 | de | 2,259 |
 
 
@@ -8528,6 +8528,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `cyaniccerulean.com` | No |
 | `cyannyan.com` | Yes |
 | `cyano.at` | No |
+| `cyano.uk` | Yes |
 | `cyb3r.moe` | No |
 | `cyb3r.social` | Yes |
 | `cyb3rpunk.online` | Yes |
@@ -11031,6 +11032,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `east17.org` | No |
 | `eastback.co.jp` | No |
 | `eastman.tech` | No |
+| `eastmetrocommunitymusic.org` | No |
 | `easy-mastodon.de` | Yes |
 | `easya.solutions` | No |
 | `easydns.ca` | No |
@@ -36786,6 +36788,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `seyfro.social` | No |
 | `sf.gov` | No |
 | `sf.social` | No |
+| `sfba.photos` | No |
 | `sfba.social` | No |
 | `sfbay.social` | No |
 | `sfbubble.net` | No |
@@ -47036,8 +47039,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,899 |
-| Normal | 34,093 |
+| Cloudflare | 12,900 |
+| Normal | 34,095 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
