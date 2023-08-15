@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Server-rendered 404 pages no longer work on Cloudflare](https://github.com/withastro/astro/issues/8087)
 - [Some links fail to fetch content due to Cloudflare](https://github.com/anyproto/anytype-heart/issues/308)
 - [gua le ma ?Access denied | ai-20230814.fakeopen.com used Cloudflare to restrict access</title>\n](https://github.com/pengzhile/pandora/issues/1287)
 - [NPM Stuck in the db migration stage](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3129)
