@@ -2389,6 +2389,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChxkxnGrxxn@twitter](https://twitter.com/ChxkxnGrxxn/status/1633377783396147203) | advertise |
 | [cibinlik@twitter](https://twitter.com/cibinlik/status/1471556779930796034) | advertise |
 | [ciceronfabio@twitter](https://twitter.com/ciceronfabio/status/1661771408718938113) | advertise |
+| [cidapha84983481@twitter](https://twitter.com/cidapha84983481/status/1691273448075706368) | advertise |
 | [CidgrupSrl@twitter](https://twitter.com/CidgrupSrl/status/1614152655386853376) | advertise |
 | [cindy_htwe@twitter](https://twitter.com/cindy_htwe/status/1390406528524447744) | advertise |
 | [cinemakhoonegi@twitter](https://twitter.com/cinemakhoonegi/status/1576947090986766336) | advertise |
