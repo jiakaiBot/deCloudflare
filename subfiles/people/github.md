@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Existing Cloudflare Workers Routes not detected?](https://github.com/StackExchange/dnscontrol/issues/2509)
 - [Locks up upon reaching "authorization"](https://github.com/crouvpony47/furdown/issues/35)
 - [Server-rendered 404 pages no longer work on Cloudflare](https://github.com/withastro/astro/issues/8087)
 - [Some links fail to fetch content due to Cloudflare](https://github.com/anyproto/anytype-heart/issues/308)
