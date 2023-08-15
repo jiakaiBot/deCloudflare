@@ -27,7 +27,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,182 |
+| com | 7,185 |
 | social | 4,462 |
 | net | 3,648 |
 | org | 2,457 |
@@ -30126,6 +30126,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `ohai.social` | No |
 | `ohai.su` | No |
 | `ohana.stream` | No |
+| `ohay.ooo` | No |
 | `ohayo.social` | No |
 | `ohbear.wtf` | No |
 | `ohbutt.com` | Yes |
@@ -38712,6 +38713,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `sspaeth.de` | No |
 | `sss-fc.com` | Yes |
 | `sssc.cc` | No |
+| `ssskako.com` | No |
 | `ssskkk.top` | Yes |
 | `ssstudio.org` | No |
 | `ssul.one` | No |
@@ -41519,6 +41521,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `tinyfox.dev` | No |
 | `tinygo.org` | Yes |
 | `tinygrumpydistro.xyz` | No |
+| `tinyhack.com` | Yes |
 | `tinykitten.me` | Yes |
 | `tinylad.social` | No |
 | `tinymst.xyz` | No |
@@ -43571,6 +43574,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `v-elf.com` | Yes |
 | `v-insanity.com` | No |
 | `v-laboratory.com` | Yes |
+| `v-sli.me` | Yes |
 | `v.nu` | Yes |
 | `v.st` | No |
 | `v01d.app` | No |
@@ -46494,6 +46498,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `yumisskey.net` | No |
 | `yumk.xyz` | Yes |
 | `yumulab.org` | No |
+| `yunase.com` | No |
 | `yunkuangao.com` | Yes |
 | `yunochi.moe` | Yes |
 | `yunohost.ga` | No |
@@ -47066,8 +47071,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,905 |
-| Normal | 34,117 |
+| Cloudflare | 12,907 |
+| Normal | 34,120 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
