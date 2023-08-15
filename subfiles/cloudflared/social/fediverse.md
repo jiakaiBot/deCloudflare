@@ -28,10 +28,10 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | TLD | Count |
 | --- | --- |
 | com | 7,187 |
-| social | 4,463 |
+| social | 4,464 |
 | net | 3,649 |
 | org | 2,458 |
-| de | 2,263 |
+| de | 2,264 |
 
 
 - Mastodon, Pleroma, etc
@@ -12471,6 +12471,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `falx.tech` | No |
 | `falyxeon.com` | Yes |
 | `fam-ribbers.com` | No |
+| `fam-stu.de` | No |
 | `fam.cx` | No |
 | `famd.org` | No |
 | `famfam.us` | No |
@@ -46629,6 +46630,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `zacpwhite.social` | No |
 | `zacwe.st` | Yes |
 | `zadankai.club` | Yes |
+| `zadi.social` | No |
 | `zadrozni.eu` | No |
 | `zadzmo.org` | No |
 | `zagasy.cf` | No |
@@ -47086,7 +47088,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,913 |
-| Normal | 34,128 |
+| Normal | 34,130 |
 
 
-### 27.5% of public Fediverse services are using Cloudflare.
+### 27.4% of public Fediverse services are using Cloudflare.
