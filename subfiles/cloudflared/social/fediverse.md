@@ -27,7 +27,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,187 |
+| com | 7,188 |
 | social | 4,464 |
 | net | 3,649 |
 | org | 2,458 |
@@ -7557,7 +7557,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -22361,7 +22361,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `legitimatesounding.com` | No |
 | `legodard.fr` | Yes |
 | `legohousein.space` | No |
-| `legrand.design` | No |
+| `legrand.design` | Yes |
 | `legrand.im` | Yes |
 | `legu.one` | Yes |
 | `legume.fans` | No |
@@ -34412,6 +34412,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `redpeacock78.com` | Yes |
 | `redpilled.dev` | Yes |
 | `redpilled.life` | No |
+| `redplanetlabs.com` | No |
 | `redra1n.net` | No |
 | `redroo.ml` | No |
 | `redroot.xyz` | No |
@@ -47087,8 +47088,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,913 |
-| Normal | 34,130 |
+| Cloudflare | 12,915 |
+| Normal | 34,129 |
 
 
-### 27.4% of public Fediverse services are using Cloudflare.
+### 27.5% of public Fediverse services are using Cloudflare.
