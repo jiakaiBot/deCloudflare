@@ -27,9 +27,9 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,188 |
+| com | 7,189 |
 | social | 4,464 |
-| net | 3,649 |
+| net | 3,651 |
 | org | 2,458 |
 | de | 2,264 |
 
@@ -1784,6 +1784,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `alpxtri.de` | No |
 | `alquimidia.org` | Yes |
 | `alr.st` | No |
+| `alrescha.com` | No |
 | `als.io` | Yes |
 | `alsd.eu` | No |
 | `alserver.jp` | No |
@@ -8050,6 +8051,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `craftplacer.moe` | No |
 | `craftsman.dev` | No |
 | `craftweg.com` | Yes |
+| `craftycanine.net` | No |
 | `crag.social` | Yes |
 | `craig0990.net` | No |
 | `craigearley.com` | No |
@@ -29425,6 +29427,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `northeast.one` | No |
 | `northern-fox.com` | No |
 | `northernvoice.app` | No |
+| `northlandia.net` | No |
 | `northofthewall.social` | No |
 | `northpole.host` | No |
 | `northside.tokyo` | Yes |
@@ -40687,6 +40690,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `thatsit.social` | No |
 | `thatsocial.site` | No |
 | `thatspretty.cool` | Yes |
+| `thatssofetch.pink` | No |
 | `thattakashi.me` | Yes |
 | `thatwebsite.xyz` | No |
 | `thaumatur.ge` | Yes |
@@ -43333,6 +43337,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `uns.social` | Yes |
 | `unsafe.co` | No |
 | `unsafe.codes` | No |
+| `unsafe.link` | No |
 | `unsafe.space` | No |
 | `unsalle.de` | No |
 | `unsandboxed.org` | Yes |
@@ -47089,7 +47094,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,915 |
-| Normal | 34,129 |
+| Normal | 34,134 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
