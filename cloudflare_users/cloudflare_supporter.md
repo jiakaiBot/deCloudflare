@@ -8782,6 +8782,7 @@ Do not create new issue or we will close it as duplicate.
 | [nemog9_@twitter](https://twitter.com/nemog9_/status/1678290548577415168) | advertise |
 | [NeonArduino@twitter](https://twitter.com/NeonArduino/status/1515397916134977551) | advertise |
 | [NeonAwm@twitter](https://twitter.com/NeonAwm/status/1683363582178906113) | advertise |
+| [NeopatraDEFI@twitter](https://twitter.com/NeopatraDEFI/status/1690431789750521857) | advertise |
 | [NeorezzR@twitter](https://twitter.com/NeorezzR/status/1382156523745337347) | advertise |
 | [Neotokyo98@twitter](https://twitter.com/Neotokyo98/status/1687243777822318592) | advertise |
 | [NerdClump@twitter](https://twitter.com/NerdClump/status/1385680403738947585) | advertise |
