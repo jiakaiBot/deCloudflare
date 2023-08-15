@@ -27,7 +27,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,186 |
+| com | 7,187 |
 | social | 4,463 |
 | net | 3,649 |
 | org | 2,458 |
@@ -1680,6 +1680,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `all.de` | No |
 | `allaboutgeorge.com` | No |
 | `allaboutlbc.com` | Yes |
+| `allaboutwilliam.com` | No |
 | `allamaraine.io` | No |
 | `allatonce.london` | No |
 | `allaver.com` | Yes |
@@ -8704,6 +8705,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `cyzed.com` | No |
 | `czarnylas.net` | No |
 | `czech-lemmy.eu` | No |
+| `czech-press.eu` | No |
 | `czech.social` | No |
 | `czerwoni.org` | No |
 | `czinege.social` | No |
@@ -13005,6 +13007,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `fehacking.xyz` | No |
 | `fehrsbook.com` | No |
 | `feilimatrisen.net` | No |
+| `feistel.party` | No |
 | `feistycricket.org` | No |
 | `felagslegt.is` | No |
 | `felaktig.info` | No |
@@ -23070,6 +23073,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `literati.org` | No |
 | `literatur.social` | No |
 | `literature.cafe` | Yes |
+| `literature.ink` | Yes |
 | `lithio.fr` | No |
 | `lithium03.info` | Yes |
 | `liti.ca` | Yes |
@@ -26220,6 +26224,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `mindpalace.io` | Yes |
 | `mindsforge.com` | No |
 | `mindshare.space` | No |
+| `mindthebig.rocks` | Yes |
 | `mindyourheadcoop.org` | No |
 | `minecloud.ro` | No |
 | `minecodes.de` | Yes |
@@ -30128,6 +30133,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `oh-w.tf` | No |
 | `oh14.de` | No |
 | `oh2cil.radio` | No |
+| `ohaa.xyz` | Yes |
 | `ohai.eu` | No |
 | `ohai.social` | No |
 | `ohai.su` | No |
@@ -47079,8 +47085,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,910 |
-| Normal | 34,125 |
+| Cloudflare | 12,913 |
+| Normal | 34,128 |
 
 
-### 27.4% of public Fediverse services are using Cloudflare.
+### 27.5% of public Fediverse services are using Cloudflare.
