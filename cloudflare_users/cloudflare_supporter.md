@@ -3032,6 +3032,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dng69114608@twitter](https://twitter.com/Dng69114608/status/1469914393320525824) | advertise |
 | [dng96878709@twitter](https://twitter.com/dng96878709/status/1376910370070142981) | advertise |
 | [DngAn462051@twitter](https://twitter.com/DngAn462051/status/1658134654187106308) | advertise |
+| [DngAnh04188734@twitter](https://twitter.com/DngAnh04188734/status/1691327412301414401) | advertise |
 | [DngCa10355096@twitter](https://twitter.com/DngCa10355096/status/1558900876269346816) | advertise |
 | [DngHongHuy7@twitter](https://twitter.com/DngHongHuy7/status/1383825668815818752) | advertise |
 | [DngNgcHi16@twitter](https://twitter.com/DngNgcHi16/status/1540216059151925248) | advertise |
