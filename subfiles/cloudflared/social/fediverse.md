@@ -30,7 +30,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | com | 7,186 |
 | social | 4,463 |
 | net | 3,649 |
-| org | 2,457 |
+| org | 2,458 |
 | de | 2,263 |
 
 
@@ -16861,6 +16861,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `hellholesys.tk` | No |
 | `hellions.cloud` | Yes |
 | `hellmage.com` | No |
+| `hello-project.org` | No |
 | `hellohihi.net` | No |
 | `hellomasto.com` | No |
 | `hellomasto.pl` | No |
@@ -47078,7 +47079,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,911 |
-| Normal | 34,122 |
+| Normal | 34,123 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
