@@ -31,7 +31,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | social | 4,462 |
 | net | 3,648 |
 | org | 2,457 |
-| de | 2,261 |
+| de | 2,262 |
 
 
 - Mastodon, Pleroma, etc
@@ -27668,6 +27668,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `mwknet.de` | No |
 | `mwl.io` | No |
 | `mws.rocks` | Yes |
+| `mwsq.de` | Yes |
 | `mwtaylor.social` | No |
 | `mwtremblay.com` | No |
 | `mwzhang.com` | No |
@@ -47071,7 +47072,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,907 |
+| Cloudflare | 12,908 |
 | Normal | 34,120 |
 
 
