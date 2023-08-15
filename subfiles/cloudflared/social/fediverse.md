@@ -22471,6 +22471,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `lemmy.works` | No |
 | `lemmy.world` | Yes |
 | `lemmy.wtf` | Yes |
+| `lemmy.yachts` | Yes |
 | `lemmy.zip` | Yes |
 | `lemmy.zone` | Yes |
 | `lemmyadmin.site` | Yes |
@@ -47072,7 +47073,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,908 |
+| Cloudflare | 12,909 |
 | Normal | 34,120 |
 
 
