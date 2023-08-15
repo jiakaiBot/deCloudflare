@@ -28,7 +28,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | TLD | Count |
 | --- | --- |
 | com | 7,182 |
-| social | 4,461 |
+| social | 4,462 |
 | net | 3,648 |
 | org | 2,457 |
 | de | 2,261 |
@@ -37262,6 +37262,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `siliconangle.com` | No |
 | `siliconfilter.com` | Yes |
 | `siliconvalley.social` | No |
+| `silicorn.social` | No |
 | `silkhe.art` | Yes |
 | `silkky.cloud` | Yes |
 | `silkky.dev` | Yes |
@@ -43841,7 +43842,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `verita84.com` | No |
 | `verkehrswende.social` | Yes |
 | `verkerk.social` | No |
-| `verl.xyz` | Yes |
+| `verl.xyz` | No |
 | `vermelho.xyz` | No |
 | `vermeulen.id.au` | No |
 | `vermona.com` | No |
@@ -47065,8 +47066,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,906 |
-| Normal | 34,115 |
+| Cloudflare | 12,905 |
+| Normal | 34,117 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
