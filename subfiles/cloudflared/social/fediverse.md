@@ -27663,6 +27663,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `mvu.pl` | No |
 | `mw.social` | No |
 | `mwang.monster` | Yes |
+| `mwangmwang.monster` | Yes |
 | `mwegner.com` | Yes |
 | `mwknet.de` | No |
 | `mwl.io` | No |
@@ -47064,7 +47065,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,905 |
+| Cloudflare | 12,906 |
 | Normal | 34,115 |
 
 
