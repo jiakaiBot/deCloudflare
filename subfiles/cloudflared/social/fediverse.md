@@ -27744,7 +27744,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `myfed.space` | No |
 | `myfedi.de` | No |
 | `myfediverse.net` | No |
-| `myfellowverm.in` | Yes |
+| `myfellowverm.in` | No |
 | `myfestivals.de` | No |
 | `myflog.net` | No |
 | `myfreckle.com` | No |
@@ -44272,6 +44272,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `voxint.pw` | Yes |
 | `voxmojo.com` | No |
 | `voxpop.social` | No |
+| `vpclmulqdq.moe` | No |
 | `vpn.tv` | Yes |
 | `vpnbanzai.eu.org` | Yes |
 | `vpndns.org` | No |
@@ -47078,8 +47079,8 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,911 |
-| Normal | 34,123 |
+| Cloudflare | 12,910 |
+| Normal | 34,125 |
 
 
-### 27.5% of public Fediverse services are using Cloudflare.
+### 27.4% of public Fediverse services are using Cloudflare.
