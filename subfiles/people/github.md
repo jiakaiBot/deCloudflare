@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Locks up upon reaching "authorization"](https://github.com/crouvpony47/furdown/issues/35)
 - [Server-rendered 404 pages no longer work on Cloudflare](https://github.com/withastro/astro/issues/8087)
 - [Some links fail to fetch content due to Cloudflare](https://github.com/anyproto/anytype-heart/issues/308)
 - [gua le ma ?Access denied | ai-20230814.fakeopen.com used Cloudflare to restrict access</title>\n](https://github.com/pengzhile/pandora/issues/1287)
