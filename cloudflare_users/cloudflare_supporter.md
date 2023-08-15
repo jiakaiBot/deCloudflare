@@ -1141,6 +1141,7 @@ Do not create new issue or we will close it as duplicate.
 | [ashutoshsinghac@twitter](https://twitter.com/ashutoshsinghac/status/1397847733793218560) | advertise |
 | [asia_hippo@twitter](https://twitter.com/asia_hippo/status/1407900933732716545) | advertise |
 | [AsifKha44639814@twitter](https://twitter.com/AsifKha44639814/status/1402506001039851522) | advertise |
+| [asikzaman253@twitter](https://twitter.com/asikzaman253/status/1691219028835282944) | advertise |
 | [ASISBusinesses@twitter](https://twitter.com/ASISBusinesses/status/1509318871173505025) | advertise |
 | [asisTmgr@twitter](https://twitter.com/asisTmgr/status/1553900307561807872) | advertise |
 | [asjkdhaskl@twitter](https://twitter.com/asjkdhaskl/status/1636366065591787522) | advertise |
