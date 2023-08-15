@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [NPM Stuck in the db migration stage](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3129)
 - [Bitget fetch_trades() replace market/fills to market/fills-history](https://github.com/ccxt/ccxt/issues/18888)
 - [opkg update fails, repository possibly unreachable](https://github.com/seud0nym/tch-gui-unhide/issues/164)
 - [Can't send after account creation](https://github.com/daimo-eth/daimo/issues/157)
