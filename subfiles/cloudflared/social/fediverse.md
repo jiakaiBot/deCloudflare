@@ -27,11 +27,11 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,185 |
+| com | 7,186 |
 | social | 4,462 |
-| net | 3,648 |
+| net | 3,649 |
 | org | 2,457 |
-| de | 2,262 |
+| de | 2,263 |
 
 
 - Mastodon, Pleroma, etc
@@ -14128,6 +14128,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `friendicagaarden.de` | No |
 | `friendie.eu` | No |
 | `friendika.tk` | No |
+| `friendlica.de` | No |
 | `friendlies.social` | Yes |
 | `friendlydads.net` | No |
 | `friendlyground.com` | No |
@@ -20613,6 +20614,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `kdn-pop.com` | No |
 | `kdvr.com` | No |
 | `kdy.ch` | Yes |
+| `ke1go360.net` | No |
 | `keane.ml` | Yes |
 | `keasti.net` | Yes |
 | `keaton.cool` | No |
@@ -39935,6 +39937,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | `takeko.cyou` | No |
 | `takeko.monster` | Yes |
 | `takemusu-aiki.be` | No |
+| `takenokoshi.com` | No |
 | `takeo.social` | No |
 | `takeoverthe.world` | Yes |
 | `taker.fr` | No |
@@ -47074,7 +47077,7 @@ You can also download [Cloudflare-only domains via API](../../service/karma_api.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,909 |
-| Normal | 34,120 |
+| Normal | 34,123 |
 
 
 ### 27.4% of public Fediverse services are using Cloudflare.
