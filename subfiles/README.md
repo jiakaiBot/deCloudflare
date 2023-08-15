@@ -186,6 +186,7 @@
   - [with Firewall](block_cloudflare_with/firewall.md)
   - [with Proxy](block_cloudflare_with/proxy.md)
   - [on Android](block_cloudflare_with/android.md)
+  - [on Fediverse](block_cloudflare_with/fediverse.md)
 - [PEOPLE.md](../PEOPLE.md)
   - [Twitter](people/twitter.md)
   - [Mastodon](people/mastodon.md)

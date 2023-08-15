@@ -51,13 +51,13 @@ Replace the `(base url)` to:
 
 ### Get Data
 
-- Get data in simple JSON format.
+- Get data in simple format.
 - For your automation use.
 
 | ? | ? |
 | -- | -- |
 | Location | `(base url)listdata/` |
 | Request Method | `GET` |
-| Input | `name` is required.<br>`name` string (e.g. `cf_fediverse`)<br>possible values:<br>`cf_fediverse` [Cloudflared Fediverse](../cloudflared/social/fediverse.md)  |
-| Output | JSON value as array. |
+| Input | `name` is required.<br>`name` string (e.g. `cf_fediverse`)<br>possible values:<br>`cf_fediverse` JSON [Cloudflared Fediverse](../cloudflared/social/fediverse.md)<br>`cf_fediverse_CSV` Text  |
+| Output | JSON or Text |
 | cURL Example | `curl -k --http2 https://clearnet/api/listdata/?name=cf_fediverse` |
