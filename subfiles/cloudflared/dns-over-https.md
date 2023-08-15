@@ -158,6 +158,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ipv6dns.com | No |
 | irre.li | No |
 | itdept.pro | Yes |
+| itxe.net | Yes |
 | ivnkn.xyz | Yes |
 | jackyes.ovh | No |
 | jamesxue.xyz | No |
@@ -335,8 +336,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 158 |
+| Cloudflare | 159 |
 | Normal | 158 |
 
 
-### 50% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
