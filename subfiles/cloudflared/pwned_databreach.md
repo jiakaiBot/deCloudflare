@@ -304,6 +304,7 @@ Here's a list of breached sites.
 | Jefit | 9,052,457 | Yes |
 | JobAndTalent (Jobandtalent) | 10,981,207 | Yes |
 | JobStreet | 3,883,455 | Yes |
+| Jobzone | 29,708 | No |
 | JoomlArt | 22,477 | Yes |
 | JukinMedia | 314,290 | Yes |
 | JustDate (Justdate.com) | 24,451,312 | No |
@@ -683,9 +684,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 375 | 3,964,122,166 |
-| Normal | 286 | 4,952,791,579 |
+| Normal | 287 | 4,952,821,287 |
 
 
 
-### 56.7% of breached sites (pwned sites) are using Cloudflare.
+### 56.6% of breached sites (pwned sites) are using Cloudflare.
 ### 44.5% of leaked accounts are on Cloudflare sites.
