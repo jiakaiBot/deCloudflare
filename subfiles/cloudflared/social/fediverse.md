@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,193 |
 | social | 4,467 |
-| net | 3,654 |
+| net | 3,655 |
 | org | 2,460 |
 | de | 2,266 |
 
@@ -6811,6 +6811,7 @@ Here's a list of public Fediverse services.
 | `chirpi.de` | No |
 | `chirping.app` | No |
 | `chirping.social` | No |
+| `chirpnest.net` | Yes |
 | `chirpy.zone` | No |
 | `chirr.space` | No |
 | `chitose.moe` | No |
@@ -45263,6 +45264,7 @@ Here's a list of public Fediverse services.
 | `witch.academy` | No |
 | `witch.energy` | No |
 | `witch.garden` | No |
+| `witch.gay` | No |
 | `witchcraft.cafe` | No |
 | `witches.academy` | No |
 | `witches.in` | No |
@@ -47129,8 +47131,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,934 |
-| Normal | 34,149 |
+| Cloudflare | 12,935 |
+| Normal | 34,150 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
