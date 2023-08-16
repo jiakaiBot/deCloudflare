@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,191 |
+| com | 7,192 |
 | social | 4,467 |
 | net | 3,654 |
-| org | 2,459 |
+| org | 2,460 |
 | de | 2,266 |
 
 
@@ -1267,6 +1267,7 @@ Here's a list of public Fediverse services.
 | `afromunkee.live` | No |
 | `afromunkee.xyz` | No |
 | `afront.org` | No |
+| `aftbit.com` | No |
 | `afternoon.chat` | Yes |
 | `afternoonauthor.online` | No |
 | `afternoonrobot.co.uk` | No |
@@ -16913,6 +16914,7 @@ Here's a list of public Fediverse services.
 | `helvet.online` | No |
 | `helvetet.eu` | No |
 | `helvetica.fm` | No |
+| `hemetalope.fr` | No |
 | `hemipenes.club` | No |
 | `hemmer.land` | No |
 | `hemmer.tv` | No |
@@ -24708,6 +24710,7 @@ Here's a list of public Fediverse services.
 | `masto.uk` | Yes |
 | `masto.uno` | No |
 | `masto.ws` | No |
+| `mastoadmin.io` | Yes |
 | `mastobate.com` | Yes |
 | `mastobate.social` | No |
 | `mastoben.rocks` | No |
@@ -30087,6 +30090,7 @@ Here's a list of public Fediverse services.
 | `oeks.de` | No |
 | `oelabs.co` | Yes |
 | `oelna.de` | No |
+| `oemof.org` | No |
 | `oer.me` | No |
 | `oer.social` | No |
 | `oer.today` | No |
@@ -47123,8 +47127,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,933 |
-| Normal | 34,144 |
+| Cloudflare | 12,934 |
+| Normal | 34,147 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
