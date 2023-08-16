@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,467 |
 | net | 3,654 |
 | org | 2,459 |
-| de | 2,264 |
+| de | 2,265 |
 
 
 - Mastodon, Pleroma, etc
@@ -736,6 +736,7 @@ Here's a list of public Fediverse services.
 | `8stars.org` | No |
 | `8th.world` | No |
 | `8tracks.com` | Yes |
+| `8w.ee` | Yes |
 | `9-5.online` | Yes |
 | `9021007.xyz` | Yes |
 | `906070809.com` | No |
@@ -7563,7 +7564,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -10492,6 +10493,7 @@ Here's a list of public Fediverse services.
 | `dostoevsskey.com` | Yes |
 | `dot.or.at` | No |
 | `dot.surf` | Yes |
+| `dot1x.me` | Yes |
 | `dotart.blog` | No |
 | `dotcomblog.de` | No |
 | `dotdon.jp` | Yes |
@@ -45603,6 +45605,7 @@ Here's a list of public Fediverse services.
 | `wubba.boo` | Yes |
 | `wubbel.social` | Yes |
 | `wubrg.social` | No |
+| `wuchencloud.de` | Yes |
 | `wud.me` | Yes |
 | `wue.social` | No |
 | `wuebbsy.com` | No |
@@ -47116,8 +47119,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,927 |
-| Normal | 34,143 |
+| Cloudflare | 12,931 |
+| Normal | 34,142 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
