@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,467 |
 | net | 3,654 |
 | org | 2,459 |
-| de | 2,265 |
+| de | 2,266 |
 
 
 - Mastodon, Pleroma, etc
@@ -5404,6 +5404,7 @@ Here's a list of public Fediverse services.
 | `brentsch.com` | Yes |
 | `bres.cat` | No |
 | `brettiverse.com` | Yes |
+| `brettspiel-pott.de` | No |
 | `brettspiel.space` | No |
 | `brettspielpony.de` | No |
 | `brettvormkopf.de` | No |
@@ -12762,6 +12763,7 @@ Here's a list of public Fediverse services.
 | `fedi.community` | No |
 | `fedi.cr` | No |
 | `fedi.dev` | No |
+| `fedi.ee` | Yes |
 | `fedi.es` | Yes |
 | `fedi.exposed` | Yes |
 | `fedi.farm` | No |
@@ -15862,7 +15864,7 @@ Here's a list of public Fediverse services.
 | `graypar.se` | No |
 | `grayrecord.com` | Yes |
 | `graz.social` | No |
-| `grdnsys.no` | No |
+| `grdnsys.no` | Yes |
 | `great-lakes-maritime-republic.net` | No |
 | `great-tusk.com` | No |
 | `greatestgen.social` | No |
@@ -21371,6 +21373,7 @@ Here's a list of public Fediverse services.
 | `komitea.fi` | Yes |
 | `komittee.net` | No |
 | `komix.org` | No |
+| `komm.one` | No |
 | `kommentakerfid.is` | No |
 | `kommune4.de` | No |
 | `kommunismus.social` | No |
@@ -27054,6 +27057,7 @@ Here's a list of public Fediverse services.
 | `mortensen.io` | No |
 | `mortzu.de` | Yes |
 | `moruorange.com` | No |
+| `morwud.cz` | No |
 | `moseisley.club` | No |
 | `moseskaranja.com` | No |
 | `moseswynn.com` | Yes |
@@ -47119,8 +47123,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,931 |
-| Normal | 34,142 |
+| Cloudflare | 12,933 |
+| Normal | 34,144 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
