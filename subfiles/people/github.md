@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Some wrong about public api](https://github.com/oobabooga/text-generation-webui/issues/3593)
 - [Existing Cloudflare Workers Routes not detected?](https://github.com/StackExchange/dnscontrol/issues/2509)
 - [Locks up upon reaching "authorization"](https://github.com/crouvpony47/furdown/issues/35)
 - [Server-rendered 404 pages no longer work on Cloudflare](https://github.com/withastro/astro/issues/8087)
