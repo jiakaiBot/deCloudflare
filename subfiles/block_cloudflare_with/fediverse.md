@@ -4,6 +4,7 @@
 This page show you how to block CloudFlare servers from your timeline.
 
 - [Cloudflare-only Fediverse list](https://karma.crimeflare.eu.org:1984/api/listdata/?name=cf_fediverse_CSV), from [Cloudflared Fediverse](../cloudflared/social/fediverse.md)
+- [Alternative Link](../service/altlink.md)
 
 
 ### With Mastodon (as User)
