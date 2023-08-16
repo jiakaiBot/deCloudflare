@@ -39456,6 +39456,7 @@ Here's a list of public Fediverse services.
 | `sungo.space` | No |
 | `sungo.wtf` | No |
 | `sunisky.club` | Yes |
+| `sunken.place` | No |
 | `sunknudsen.com` | No |
 | `sunmicro.rip` | No |
 | `sunmker.cn` | No |
@@ -47116,7 +47117,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,927 |
-| Normal | 34,142 |
+| Normal | 34,143 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
