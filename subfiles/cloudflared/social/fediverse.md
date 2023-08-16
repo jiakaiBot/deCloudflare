@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,193 |
+| com | 7,195 |
 | social | 4,467 |
 | net | 3,655 |
 | org | 2,460 |
@@ -2743,6 +2743,7 @@ Here's a list of public Fediverse services.
 | `arso.xyz` | No |
 | `arsrobotics.org` | Yes |
 | `arss.io` | Yes |
+| `arstafrun.se` | No |
 | `arstechnica.com` | No |
 | `arstoien.xyz` | No |
 | `art-software.fr` | No |
@@ -9459,6 +9460,7 @@ Here's a list of public Fediverse services.
 | `dekay.se` | Yes |
 | `dekeyser.au` | Yes |
 | `dekkia.com` | No |
+| `dekkia.zip` | No |
 | `deklinpike.social` | No |
 | `dekloo.net` | No |
 | `deko.cloud` | No |
@@ -13533,6 +13535,7 @@ Here's a list of public Fediverse services.
 | `flowlab5.social` | No |
 | `flownative.social` | No |
 | `flownet.fr` | No |
+| `flowxy.fun` | No |
 | `floyd.dk` | No |
 | `floyds.io` | Yes |
 | `flr.social` | No |
@@ -17159,6 +17162,7 @@ Here's a list of public Fediverse services.
 | `hillexplorer.com` | No |
 | `hillion.co.uk` | Yes |
 | `hilltown.studio` | No |
+| `hilmarp.com` | No |
 | `hilmarp.social` | No |
 | `hilot06.com` | Yes |
 | `hima-jin.info` | No |
@@ -35184,6 +35188,7 @@ Here's a list of public Fediverse services.
 | `rogers.plus` | No |
 | `rogersfam.co` | Yes |
 | `roggenkamp.social` | No |
+| `rogue-net.work` | No |
 | `roguecorp.space` | Yes |
 | `roguecycle.net` | No |
 | `roguelabs.tech` | No |
@@ -40408,6 +40413,7 @@ Here's a list of public Fediverse services.
 | `techpolicy.social` | No |
 | `techporn.club` | Yes |
 | `techpriesthub.xyz` | Yes |
+| `techrekt.com` | Yes |
 | `techromancer.club` | No |
 | `techsocial.site` | No |
 | `techspace.social` | No |
@@ -44407,6 +44413,7 @@ Here's a list of public Fediverse services.
 | `vulpo.one` | Yes |
 | `vulturion.com` | No |
 | `vutazeal.com` | Yes |
+| `vuurvis.be` | No |
 | `vuwuv.com` | No |
 | `vvdog.net` | No |
 | `vvil.jp` | No |
@@ -47132,8 +47139,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,935 |
-| Normal | 34,151 |
+| Cloudflare | 12,936 |
+| Normal | 34,157 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
