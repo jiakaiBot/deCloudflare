@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Could not start tunnel, max retries reached](https://github.com/Shopify/cli/issues/2657)
+- [Cloudflare R2 S3 Storage API](https://github.com/aptly-dev/aptly/issues/1207)
 - [Snusbase API not working](https://github.com/khast3x/h8mail/issues/166)
 - [CloudFlare Issues with Data Migration to R2](https://github.com/SecOpsNews/news/issues/17676)
 - [Question Coder v2 OSS behind Cloudflare](https://github.com/coder/coder/issues/9124)
