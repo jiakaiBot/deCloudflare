@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,191 |
-| social | 4,464 |
-| net | 3,651 |
-| org | 2,458 |
+| social | 4,467 |
+| net | 3,653 |
+| org | 2,459 |
 | de | 2,264 |
 
 
@@ -2548,11 +2548,13 @@ Here's a list of public Fediverse services.
 | `arc.sh` | Yes |
 | `arcade.ooo` | Yes |
 | `arcades.agency` | Yes |
+| `arcadia.video` | No |
 | `arcadiaroad.com` | No |
 | `arcan-fe.com` | No |
 | `arcane.blue` | No |
 | `arcane.town` | Yes |
 | `arcaneassociation.network` | Yes |
+| `arcanelab.net` | Yes |
 | `arcatar.com` | Yes |
 | `arcepi.net` | No |
 | `arch-linux.cz` | Yes |
@@ -6337,6 +6339,7 @@ Here's a list of public Fediverse services.
 | `cavalca.name` | Yes |
 | `cavalina.net` | No |
 | `cavanholi.com` | No |
+| `cavestri.net` | Yes |
 | `caw.ai` | Yes |
 | `cawfee.club` | No |
 | `caxyz.org` | No |
@@ -24137,6 +24140,7 @@ Here's a list of public Fediverse services.
 | `mainframe.club` | No |
 | `mainframe.community` | No |
 | `mainichi.social` | No |
+| `mainspitze.social` | No |
 | `maintedor.com` | Yes |
 | `mainz.social` | No |
 | `maiome.xyz` | No |
@@ -24421,6 +24425,7 @@ Here's a list of public Fediverse services.
 | `margio.in` | No |
 | `margiovanni.com` | Yes |
 | `marib.one` | Yes |
+| `marie.cologne` | Yes |
 | `marijuanacomputer.com` | No |
 | `marikotu.org` | Yes |
 | `marimo-net.com` | Yes |
@@ -26946,6 +26951,7 @@ Here's a list of public Fediverse services.
 | `moongirl.net` | No |
 | `moonglade.net` | No |
 | `moonhaus.eu` | No |
+| `moonland.social` | No |
 | `moonlight-party.net` | No |
 | `moonling.nl` | Yes |
 | `moonlitfiction.com` | Yes |
@@ -28441,6 +28447,7 @@ Here's a list of public Fediverse services.
 | `neobluepanther.com` | No |
 | `neocloradas.com` | Yes |
 | `neocoretext.net` | No |
+| `neodb.social` | Yes |
 | `neodrain.net` | No |
 | `neody.social` | Yes |
 | `neofae.net` | No |
@@ -29194,6 +29201,7 @@ Here's a list of public Fediverse services.
 | `nochn.net` | No |
 | `nocial.de` | No |
 | `nocko.se` | No |
+| `nocle.fr` | No |
 | `noclick.se` | Yes |
 | `nocogabriel.fr` | No |
 | `nocoolnametom.com` | No |
@@ -37367,6 +37375,7 @@ Here's a list of public Fediverse services.
 | `simplesi.net` | No |
 | `simplesocialnetwork.org` | Yes |
 | `simplex-software.ru` | No |
+| `simplify.quest` | No |
 | `simplo.social` | No |
 | `simply-life.net` | No |
 | `simplycreate.online` | No |
@@ -40392,6 +40401,7 @@ Here's a list of public Fediverse services.
 | `techthoughts.io` | Yes |
 | `techtodon.com` | Yes |
 | `techtoots.com` | No |
+| `techtransthai.org` | Yes |
 | `techviator.com` | Yes |
 | `techy.jp` | No |
 | `techy.news` | Yes |
@@ -47103,8 +47113,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,920 |
-| Normal | 34,137 |
+| Cloudflare | 12,925 |
+| Normal | 34,142 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
