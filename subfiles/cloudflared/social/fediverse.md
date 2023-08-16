@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,189 |
+| com | 7,191 |
 | social | 4,464 |
 | net | 3,651 |
 | org | 2,458 |
@@ -9806,6 +9806,7 @@ Here's a list of public Fediverse services.
 | `dgoeke.io` | No |
 | `dgplug.org` | No |
 | `dgrammatiko.dev` | Yes |
+| `dgs.town` | No |
 | `dgtl-service.com` | No |
 | `dgunn.uk` | Yes |
 | `dh.social` | Yes |
@@ -12015,6 +12016,7 @@ Here's a list of public Fediverse services.
 | `essmann.online` | No |
 | `est.social` | No |
 | `estadoo.com` | Yes |
+| `estampie.work` | Yes |
 | `estarik.com` | No |
 | `estel-freesia.moe` | No |
 | `esthetic.win` | Yes |
@@ -14539,7 +14541,7 @@ Here's a list of public Fediverse services.
 | `fuzzbutt.link` | No |
 | `fuzzle.me.uk` | Yes |
 | `fuzzlesoft.ca` | No |
-| `fuzznet.xyz` | No |
+| `fuzznet.xyz` | Yes |
 | `fuzzy.click` | No |
 | `fuzzy.social` | Yes |
 | `fuzzy.systems` | No |
@@ -20949,6 +20951,7 @@ Here's a list of public Fediverse services.
 | `kimberlyhirsh.com` | No |
 | `kimharding.net` | No |
 | `kimiaki.space` | Yes |
+| `kimikodover.com` | No |
 | `kiminona.co` | No |
 | `kimonosou.tokyo` | No |
 | `kimoty.net` | Yes |
@@ -24046,6 +24049,7 @@ Here's a list of public Fediverse services.
 | `magi.sh` | No |
 | `magi.systems` | Yes |
 | `magialab.net` | Yes |
+| `magialaboratory.com` | Yes |
 | `magic.win` | No |
 | `magical-ribbon.net` | No |
 | `magicalgirl.party` | No |
@@ -29037,6 +29041,7 @@ Here's a list of public Fediverse services.
 | `nirvanet.org` | Yes |
 | `nisa.cat` | No |
 | `niscii.xyz` | Yes |
+| `nishi.boats` | No |
 | `nishimin.com` | No |
 | `nishimin.net` | Yes |
 | `nishinomiya.in.net` | No |
@@ -39229,7 +39234,7 @@ Here's a list of public Fediverse services.
 | `strykers.xyz` | No |
 | `strzelmistrz.com` | No |
 | `stsecurity.moe` | Yes |
-| `stsf.dev` | No |
+| `stsf.dev` | Yes |
 | `stsf.tokyo` | No |
 | `stsfootball.com` | No |
 | `ststodon.org` | No |
@@ -39712,6 +39717,7 @@ Here's a list of public Fediverse services.
 | `sylveon.ga` | No |
 | `sylveon.is` | No |
 | `sylvia-is.gay` | Yes |
+| `sylvia.works` | No |
 | `syma.social` | No |
 | `symboli.cyou` | No |
 | `symbolic.city` | No |
@@ -39966,7 +39972,7 @@ Here's a list of public Fediverse services.
 | `takibi.today` | No |
 | `takibi.work` | No |
 | `takimag.com` | Yes |
-| `takingalook.dev` | No |
+| `takingalook.dev` | Yes |
 | `takios.de` | No |
 | `takiverse.tk` | No |
 | `tako774.net` | Yes |
@@ -45541,6 +45547,7 @@ Here's a list of public Fediverse services.
 | `writersaur.us` | No |
 | `writeworks.uk` | No |
 | `writing.exchange` | No |
+| `writing.lol` | No |
 | `writingcircle.us` | No |
 | `wrk.ru` | Yes |
 | `wrmstdn.ca` | No |
@@ -47096,8 +47103,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,915 |
-| Normal | 34,135 |
+| Cloudflare | 12,920 |
+| Normal | 34,137 |
 
 
-### 27.4% of public Fediverse services are using Cloudflare.
+### 27.5% of public Fediverse services are using Cloudflare.
