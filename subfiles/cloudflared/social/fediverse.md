@@ -26301,6 +26301,7 @@ Here's a list of public Fediverse services.
 | `miniverse.social` | No |
 | `miniwa.moe` | No |
 | `minixer.com` | No |
+| `minji.xyz` | No |
 | `minkenstein.de` | No |
 | `minkiver.se` | No |
 | `minmi.xyz` | No |
@@ -47132,7 +47133,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,935 |
-| Normal | 34,150 |
+| Normal | 34,151 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
