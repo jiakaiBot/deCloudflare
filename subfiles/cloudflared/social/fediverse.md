@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,191 |
 | social | 4,467 |
-| net | 3,653 |
+| net | 3,654 |
 | org | 2,459 |
 | de | 2,264 |
 
@@ -15146,6 +15146,7 @@ Here's a list of public Fediverse services.
 | `gerzilla.de` | No |
 | `geschnacke.de` | No |
 | `gesichtsbu.ch` | Yes |
+| `gespenst-jaeger.net` | Yes |
 | `gestaltit.com` | Yes |
 | `gestaltzerfall.net` | No |
 | `gesteves.com` | No |
@@ -46719,6 +46720,7 @@ Here's a list of public Fediverse services.
 | `zbucaao2-liquidwebsites.com` | No |
 | `zbuffer.com` | No |
 | `zcmi.social` | No |
+| `zcri.dev` | Yes |
 | `zct-mrl.com` | Yes |
 | `zcx.cc` | No |
 | `zcyph.cc` | Yes |
@@ -47113,7 +47115,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,925 |
+| Cloudflare | 12,927 |
 | Normal | 34,142 |
 
 
