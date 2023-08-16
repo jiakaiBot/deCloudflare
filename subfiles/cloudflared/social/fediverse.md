@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,192 |
+| com | 7,193 |
 | social | 4,467 |
 | net | 3,654 |
 | org | 2,460 |
@@ -25269,6 +25269,7 @@ Here's a list of public Fediverse services.
 | `matthewaveryusa.com` | Yes |
 | `matthewbog.art` | No |
 | `matthewbogart.com` | No |
+| `matthewbogart.live` | No |
 | `matthewedavis.online` | No |
 | `matthewgall.chat` | Yes |
 | `matthewgraybosch.com` | No |
@@ -30388,6 +30389,7 @@ Here's a list of public Fediverse services.
 | `onemorepage.blog` | No |
 | `onemorestop.photo` | No |
 | `onenerdarmy.net` | No |
+| `onepicaday.com` | No |
 | `onepointzero.com` | Yes |
 | `onerescue.org` | No |
 | `onesteprevolution.com` | No |
@@ -47128,7 +47130,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,934 |
-| Normal | 34,147 |
+| Normal | 34,149 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
