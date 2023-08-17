@@ -16432,6 +16432,7 @@ Here's a list of public Fediverse services.
 | `hakuhodon.com` | No |
 | `hakui.club` | No |
 | `hakurei.ga` | Yes |
+| `hakurei.win` | Yes |
 | `hal.ai` | No |
 | `hal.codes` | Yes |
 | `hal9.ooo` | No |
@@ -47139,7 +47140,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,936 |
+| Cloudflare | 12,937 |
 | Normal | 34,157 |
 
 
