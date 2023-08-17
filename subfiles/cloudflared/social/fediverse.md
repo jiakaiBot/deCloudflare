@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,205 |
+| com | 7,207 |
 | social | 4,469 |
 | net | 3,657 |
 | org | 2,461 |
@@ -1425,6 +1425,7 @@ Here's a list of public Fediverse services.
 | `akabe.co` | Yes |
 | `akademienl.social` | No |
 | `akagi.moe` | No |
+| `akagigahara.site` | No |
 | `akagii.dev` | Yes |
 | `akagii.net` | Yes |
 | `akamanju.com` | No |
@@ -13160,6 +13161,7 @@ Here's a list of public Fediverse services.
 | `feymar.ch` | No |
 | `feyn.org` | No |
 | `feynman.monster` | No |
+| `feyo.pw` | No |
 | `fez.social` | No |
 | `ff-sec.eu` | No |
 | `ff00aa.com` | No |
@@ -26843,6 +26845,7 @@ Here's a list of public Fediverse services.
 | `moment.at` | Yes |
 | `moment.ist` | No |
 | `momi.ca` | No |
+| `momiji-ka.com` | No |
 | `mommy.party` | No |
 | `mommydreams.life` | No |
 | `momoclo.social` | No |
@@ -26902,6 +26905,7 @@ Here's a list of public Fediverse services.
 | `monny.cloud` | No |
 | `mono.cafe` | Yes |
 | `monoceros.co.za` | No |
+| `monochrome.ninja` | No |
 | `monocle.js.org` | No |
 | `monocles.social` | No |
 | `monocode.online` | No |
@@ -27490,6 +27494,7 @@ Here's a list of public Fediverse services.
 | `mstr.cloud` | Yes |
 | `msx.horse` | No |
 | `msyake.ovh` | Yes |
+| `mszdev.com` | Yes |
 | `mszpro.com` | Yes |
 | `mt224244.com` | Yes |
 | `mtb.wtf` | No |
@@ -47176,8 +47181,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,956 |
-| Normal | 34,174 |
+| Cloudflare | 12,957 |
+| Normal | 34,178 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
