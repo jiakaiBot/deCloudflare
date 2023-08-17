@@ -666,6 +666,7 @@ Here's a list of breached sites.
 | gPotato | 2,136,520 | Yes |
 | iDTech (iD Tech) | 415,121 | No |
 | iDressup (i-Dressup) | 2,191,565 | No |
+| iMenu360 | 3,425,860 | No |
 | iMesh | 49,467,477 | No |
 | iPmart | 2,460,787 | No |
 | imgur | 1,749,806 | Yes |
@@ -684,9 +685,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 375 | 3,964,122,166 |
-| Normal | 287 | 4,952,821,287 |
+| Normal | 288 | 4,956,247,147 |
 
 
 
 ### 56.6% of breached sites (pwned sites) are using Cloudflare.
-### 44.5% of leaked accounts are on Cloudflare sites.
+### 44.4% of leaked accounts are on Cloudflare sites.
