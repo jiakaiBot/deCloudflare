@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,203 |
+| com | 7,204 |
 | social | 4,469 |
-| net | 3,656 |
+| net | 3,657 |
 | org | 2,461 |
 | de | 2,268 |
 
@@ -12142,7 +12142,6 @@ Here's a list of public Fediverse services.
 | `euzilla.de` | No |
 | `ev1.pw` | No |
 | `evamadeonline.com` | Yes |
-| `evan.exposed` | Yes |
 | `evanaolson.com` | No |
 | `evandodson.com` | No |
 | `evandoes.dev` | Yes |
@@ -22506,6 +22505,7 @@ Here's a list of public Fediverse services.
 | `lemmy.pub` | No |
 | `lemmy.pw` | Yes |
 | `lemmy.radio` | No |
+| `lemmy.ruhr` | No |
 | `lemmy.sbs` | No |
 | `lemmy.sh` | No |
 | `lemmy.st` | No |
@@ -24505,7 +24505,6 @@ Here's a list of public Fediverse services.
 | `maromaro.co.jp` | No |
 | `maron.blue` | No |
 | `marosuke2600.work` | No |
-| `marquezkeenan.family` | Yes |
 | `marramgrass.org.uk` | No |
 | `marrok.top` | Yes |
 | `marroq.xyz` | No |
@@ -36485,6 +36484,7 @@ Here's a list of public Fediverse services.
 | `scz.social` | No |
 | `sd.ai` | Yes |
 | `sda1.net` | Yes |
+| `sda2.net` | Yes |
 | `sdc.su` | Yes |
 | `sddn.space` | Yes |
 | `sdeu.fr` | No |
@@ -38144,6 +38144,7 @@ Here's a list of public Fediverse services.
 | `societyofrafa.com` | No |
 | `sociopak.com` | No |
 | `sociopathic.ca` | Yes |
+| `socis.ax` | Yes |
 | `socivitas.com` | No |
 | `sockermunk.se` | No |
 | `socks.town` | No |
@@ -40768,6 +40769,7 @@ Here's a list of public Fediverse services.
 | `the-box.work` | No |
 | `the-brannons.com` | No |
 | `the-cloud.io` | No |
+| `the-codeboy.com` | Yes |
 | `the-cool.zone` | No |
 | `the-destro.com` | No |
 | `the-door.uk` | No |
@@ -43907,6 +43909,7 @@ Here's a list of public Fediverse services.
 | `venzano.fr` | No |
 | `vepta.org` | Yes |
 | `ver.news` | No |
+| `vera.pink` | Yes |
 | `veraciousnetwork.com` | No |
 | `veracity.social` | No |
 | `verbeeld.be` | No |
@@ -47170,8 +47173,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,951 |
-| Normal | 34,173 |
+| Cloudflare | 12,953 |
+| Normal | 34,174 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
