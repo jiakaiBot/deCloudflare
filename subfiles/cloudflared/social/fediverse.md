@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,198 |
+| com | 7,199 |
 | social | 4,468 |
 | net | 3,655 |
 | org | 2,460 |
@@ -4398,6 +4398,7 @@ Here's a list of public Fediverse services.
 | `bilibili.party` | Yes |
 | `bilimma.com` | Yes |
 | `bilincakisi.com` | Yes |
+| `bill.mu` | Yes |
 | `billante.com` | Yes |
 | `billbennett.co.nz` | Yes |
 | `billigerkram.de` | Yes |
@@ -11615,6 +11616,7 @@ Here's a list of public Fediverse services.
 | `emlviewer.net` | No |
 | `emma.coop` | No |
 | `emmaclit.com` | No |
+| `emmadorable.com` | Yes |
 | `emmajuettner.com` | No |
 | `emmanuel.website` | Yes |
 | `emmen.social` | No |
@@ -43955,6 +43957,7 @@ Here's a list of public Fediverse services.
 | `veterinary.education` | No |
 | `vettipechu.xyz` | No |
 | `vetu.dev` | No |
+| `vex.blue` | No |
 | `vexingworkshop.com` | No |
 | `vffsm.de` | No |
 | `vforge.social` | No |
@@ -47154,8 +47157,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,944 |
-| Normal | 34,164 |
+| Cloudflare | 12,946 |
+| Normal | 34,165 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
