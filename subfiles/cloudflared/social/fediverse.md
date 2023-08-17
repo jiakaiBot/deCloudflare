@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,199 |
-| social | 4,468 |
-| net | 3,655 |
-| org | 2,460 |
-| de | 2,267 |
+| com | 7,203 |
+| social | 4,469 |
+| net | 3,656 |
+| org | 2,461 |
+| de | 2,268 |
 
 
 - Mastodon, Pleroma, etc
@@ -6661,6 +6661,7 @@ Here's a list of public Fediverse services.
 | `chattergrid.com` | No |
 | `chatterjee.social` | Yes |
 | `chatterly.me` | No |
+| `chatterverse.social` | No |
 | `chattervista.com` | Yes |
 | `chattingdarkly.org` | No |
 | `chattr.pub` | No |
@@ -17858,6 +17859,7 @@ Here's a list of public Fediverse services.
 | `hybridenterprise.net` | No |
 | `hybridlehrer.de` | No |
 | `hybridlive.net` | Yes |
+| `hydex11.net` | No |
 | `hydracurios.space` | No |
 | `hydrantosaurus.com` | Yes |
 | `hydrate.space` | Yes |
@@ -21713,6 +21715,7 @@ Here's a list of public Fediverse services.
 | `kulttuurilaiva.social` | No |
 | `kulturfront.org` | No |
 | `kulturnik.si` | No |
+| `kulturwerkstatt.de` | No |
 | `kultwiki.net` | Yes |
 | `kulupu.party` | Yes |
 | `kuma.social` | No |
@@ -24146,6 +24149,7 @@ Here's a list of public Fediverse services.
 | `maikel.uk` | No |
 | `maikmueller.art` | Yes |
 | `mail.at` | No |
+| `mailbox.org` | No |
 | `mailchar.com` | No |
 | `mailcow.social` | No |
 | `maildog.ru` | No |
@@ -34251,6 +34255,7 @@ Here's a list of public Fediverse services.
 | `rayci.st` | No |
 | `raygoon.tk` | Yes |
 | `raygungothic.xyz` | No |
+| `raykoworld.com` | No |
 | `raymondtec.com` | No |
 | `rayn.bo` | No |
 | `raynor.haus` | Yes |
@@ -35400,6 +35405,7 @@ Here's a list of public Fediverse services.
 | `rplatonov.com` | Yes |
 | `rplatonov.ru` | No |
 | `rpnation.com` | Yes |
+| `rpontual.com` | Yes |
 | `rps.social` | Yes |
 | `rpstr.com` | No |
 | `rpsychologist.com` | No |
@@ -36123,6 +36129,7 @@ Here's a list of public Fediverse services.
 | `saxion.me` | No |
 | `saxonroad.uk` | No |
 | `saxony.social` | Yes |
+| `say.lt` | Yes |
 | `sayfeel.tw` | Yes |
 | `sayhey.site` | No |
 | `sayit.world` | No |
@@ -36400,6 +36407,7 @@ Here's a list of public Fediverse services.
 | `scots.network` | Yes |
 | `scott.ee` | Yes |
 | `scott.in.th` | Yes |
+| `scottawilliams.com` | No |
 | `scottbking.com` | No |
 | `scottfr.ee` | Yes |
 | `scottishlad.me.uk` | No |
@@ -39512,6 +39520,7 @@ Here's a list of public Fediverse services.
 | `suomi.social` | No |
 | `suorcd.us` | No |
 | `sup39.dev` | Yes |
+| `supebase.com` | Yes |
 | `super-famicom.com` | No |
 | `super-gay.co` | No |
 | `super-h.xyz` | No |
@@ -41587,6 +41596,7 @@ Here's a list of public Fediverse services.
 | `tiny-host.nl` | No |
 | `tiny.gripe` | No |
 | `tinyblip.com` | No |
+| `tinybog.io` | No |
 | `tinycart.club` | No |
 | `tinycities.net` | No |
 | `tinycomputer.club` | No |
@@ -45743,6 +45753,7 @@ Here's a list of public Fediverse services.
 | `x59.dev` | No |
 | `x59.us` | No |
 | `x5gtrn.com` | No |
+| `x61.ar` | No |
 | `x61.sh` | No |
 | `x61.uk` | Yes |
 | `x69.org` | Yes |
@@ -47159,8 +47170,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,948 |
-| Normal | 34,165 |
+| Cloudflare | 12,951 |
+| Normal | 34,173 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
