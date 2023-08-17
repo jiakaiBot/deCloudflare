@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Application error: a client-side exception has occurred (see the browser console for more information)](https://github.com/cryptape/ckb-node-probe-frontend/issues/20)
 - [Could not start tunnel, max retries reached](https://github.com/Shopify/cli/issues/2657)
 - [Cloudflare R2 S3 Storage API](https://github.com/aptly-dev/aptly/issues/1207)
 - [Snusbase API not working](https://github.com/khast3x/h8mail/issues/166)
