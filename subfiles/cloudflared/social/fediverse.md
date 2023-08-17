@@ -9397,7 +9397,7 @@ Here's a list of public Fediverse services.
 | `deepnexus.link` | Yes |
 | `deepplum.com` | No |
 | `deeproot.in` | No |
-| `deepskies.com` | No |
+| `deepskies.com` | Yes |
 | `deepspace.cafe` | No |
 | `deepspace.gay` | Yes |
 | `deepspace.social` | No |
@@ -13265,6 +13265,7 @@ Here's a list of public Fediverse services.
 | `fimidi.com` | No |
 | `fimpern.de` | No |
 | `final.li` | No |
+| `final.town` | No |
 | `finalesocial.com` | No |
 | `finalgear.social` | No |
 | `finallycoffee.eu` | No |
@@ -47144,7 +47145,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,937 |
+| Cloudflare | 12,938 |
 | Normal | 34,161 |
 
 
