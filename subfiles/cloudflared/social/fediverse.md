@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,204 |
+| com | 7,205 |
 | social | 4,469 |
 | net | 3,657 |
 | org | 2,461 |
@@ -42621,6 +42621,7 @@ Here's a list of public Fediverse services.
 | `tsukuyomi.dev` | Yes |
 | `tsumikey.party` | Yes |
 | `tsun.co` | No |
+| `tsunami-art.com` | No |
 | `tsunanmstdn.jp` | No |
 | `tsunde.ru` | No |
 | `tsundere.co` | No |
@@ -47176,7 +47177,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,956 |
-| Normal | 34,173 |
+| Normal | 34,174 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
