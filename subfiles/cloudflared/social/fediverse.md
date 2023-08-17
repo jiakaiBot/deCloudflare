@@ -12142,6 +12142,7 @@ Here's a list of public Fediverse services.
 | `euzilla.de` | No |
 | `ev1.pw` | No |
 | `evamadeonline.com` | Yes |
+| `evan.exposed` | Yes |
 | `evanaolson.com` | No |
 | `evandodson.com` | No |
 | `evandoes.dev` | Yes |
@@ -18798,7 +18799,7 @@ Here's a list of public Fediverse services.
 | `iowadon.org` | No |
 | `iowntheinter.net` | No |
 | `ioxt.tk` | No |
-| `iozzo.me` | No |
+| `iozzo.me` | Yes |
 | `ip1.info` | Yes |
 | `ipfire.org` | No |
 | `ipfixe.info` | No |
@@ -24505,6 +24506,7 @@ Here's a list of public Fediverse services.
 | `maromaro.co.jp` | No |
 | `maron.blue` | No |
 | `marosuke2600.work` | No |
+| `marquezkeenan.family` | Yes |
 | `marramgrass.org.uk` | No |
 | `marrok.top` | Yes |
 | `marroq.xyz` | No |
@@ -47173,8 +47175,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,953 |
-| Normal | 34,174 |
+| Cloudflare | 12,956 |
+| Normal | 34,173 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
