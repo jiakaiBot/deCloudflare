@@ -12141,6 +12141,7 @@ Here's a list of public Fediverse services.
 | `euzilla.de` | No |
 | `ev1.pw` | No |
 | `evamadeonline.com` | Yes |
+| `evan.exposed` | Yes |
 | `evanaolson.com` | No |
 | `evandodson.com` | No |
 | `evandoes.dev` | Yes |
@@ -24500,6 +24501,7 @@ Here's a list of public Fediverse services.
 | `maromaro.co.jp` | No |
 | `maron.blue` | No |
 | `marosuke2600.work` | No |
+| `marquezkeenan.family` | Yes |
 | `marramgrass.org.uk` | No |
 | `marrok.top` | Yes |
 | `marroq.xyz` | No |
@@ -47157,7 +47159,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,946 |
+| Cloudflare | 12,948 |
 | Normal | 34,165 |
 
 
