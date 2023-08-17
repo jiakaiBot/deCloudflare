@@ -36,9 +36,9 @@ Here's a list of public Matrix services.
 | matrix.cat.casa | No |
 | m.catgir.ls | Yes |
 | matrix.catgirl.cloud | Yes |
-| mx.chagai.website | No |
 | matrix.chatcloud.net | No |
 | matrix.chatwave.org | No |
+| chrrreeeeesss.com | No |
 | matrix-client.comm.cx | Yes |
 | matrix.community.rs | Yes |
 | converser.eu | No |
