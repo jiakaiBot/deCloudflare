@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,195 |
+| com | 7,197 |
 | social | 4,467 |
 | net | 3,655 |
 | org | 2,460 |
@@ -2648,7 +2648,7 @@ Here's a list of public Fediverse services.
 | `arielfinn.social` | No |
 | `arihi.me` | No |
 | `arinbasu.online` | No |
-| `arint.me` | Yes |
+| `arint.me` | No |
 | `arion.social` | No |
 | `ariona.fr` | No |
 | `ariscard.eu` | Yes |
@@ -3345,6 +3345,7 @@ Here's a list of public Fediverse services.
 | `awoonet.org` | No |
 | `awooo.club` | Yes |
 | `awootism.club` | Yes |
+| `awoqu.com` | Yes |
 | `awp.news` | No |
 | `awriting.zone` | No |
 | `awruff.xyz` | No |
@@ -3406,7 +3407,7 @@ Here's a list of public Fediverse services.
 | `azae.net` | No |
 | `azaleth.xyz` | No |
 | `azamserver.com` | Yes |
-| `azan.one` | Yes |
+| `azan.one` | No |
 | `azapft.is` | Yes |
 | `azarakko.net` | No |
 | `azazael.social` | No |
@@ -7568,7 +7569,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -11349,6 +11350,7 @@ Here's a list of public Fediverse services.
 | `eikobear.blue` | No |
 | `eila.me` | No |
 | `eilloh.net` | No |
+| `eimi-mastodon.com` | No |
 | `ein-hub-von-vielen.de` | No |
 | `einbeck.social` | No |
 | `eindex.me` | Yes |
@@ -14796,6 +14798,7 @@ Here's a list of public Fediverse services.
 | `garakuta.online` | No |
 | `garapagos.online` | No |
 | `garate.email` | No |
+| `garaventa.eu` | No |
 | `garbage-juice.com` | No |
 | `garbagefire.io` | No |
 | `garciapimentel.com` | Yes |
@@ -21653,7 +21656,7 @@ Here's a list of public Fediverse services.
 | `ksr.org` | Yes |
 | `ksrgte.ch` | Yes |
 | `ksu-mastodon.com` | No |
-| `kswk.org` | No |
+| `kswk.org` | Yes |
 | `kt2003.info` | No |
 | `ktachibana.party` | Yes |
 | `ktistec.com` | No |
@@ -31088,6 +31091,7 @@ Here's a list of public Fediverse services.
 | `oyasai-jct.net` | No |
 | `oyashirosama.cf` | No |
 | `oyashirosama.tk` | No |
+| `oyasumi.ski` | Yes |
 | `oyasumi.space` | No |
 | `oyd.social` | No |
 | `oye.social` | No |
@@ -47141,7 +47145,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 12,937 |
-| Normal | 34,157 |
+| Normal | 34,161 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
