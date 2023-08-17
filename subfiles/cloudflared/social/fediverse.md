@@ -405,7 +405,7 @@ Here's a list of public Fediverse services.
 | `31337.social` | Yes |
 | `314cloud.com` | No |
 | `31i73.com` | Yes |
-| `32-b.it` | No |
+| `32-b.it` | Yes |
 | `321.com` | No |
 | `32int.com` | No |
 | `334.ovh` | Yes |
@@ -9303,7 +9303,7 @@ Here's a list of public Fediverse services.
 | `deaf.group` | No |
 | `deaf.rocks` | No |
 | `deafblind.social` | No |
-| `deafpirate.com` | No |
+| `deafpirate.com` | Yes |
 | `deafpros.com` | No |
 | `deagle.club` | No |
 | `deamandel.co` | No |
@@ -22923,7 +22923,7 @@ Here's a list of public Fediverse services.
 | `liker.social` | Yes |
 | `likids.info` | No |
 | `lil-bird.xyz` | No |
-| `lil.mn` | No |
+| `lil.mn` | Yes |
 | `lila.network` | Yes |
 | `lilac.place` | Yes |
 | `lilahexe.top` | No |
@@ -34070,7 +34070,7 @@ Here's a list of public Fediverse services.
 | `ramoonus.nl` | Yes |
 | `rampantmonkey.com` | No |
 | `rampantmonkey.social` | No |
-| `rampin.org` | No |
+| `rampin.org` | Yes |
 | `ramram.ink` | Yes |
 | `ramsdr.ru` | Yes |
 | `ramshackle.town` | No |
@@ -44971,6 +44971,7 @@ Here's a list of public Fediverse services.
 | `wetermater.com` | No |
 | `wetfish.space` | No |
 | `wetofu.top` | Yes |
+| `wetoot.xyz` | No |
 | `wetshaving.social` | No |
 | `wetsnow.com` | No |
 | `wetsnow.social` | No |
@@ -47145,8 +47146,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,938 |
-| Normal | 34,161 |
+| Cloudflare | 12,942 |
+| Normal | 34,158 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
