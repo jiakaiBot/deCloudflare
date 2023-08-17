@@ -247,6 +247,7 @@ Or is this merely a case of simple modesty?
 | Aubrey Evans-Trawick | Employee |  |
 | Aurora Lian Zhang | Supply Chain Operations Analyst |  |
 | Austin Cherry | Employee |  |
+| Austin Christiansen | Employee | |
 | Austin Hartzheim | Employee | |
 | Austin McKinley | Systems Engineer | https://www.zoominfo.com/p/Austin-Mckinley/-2055432569 |
 | Austin Stanford | Employee |  |
@@ -577,6 +578,7 @@ Or is this merely a case of simple modesty?
 | Edward Wang | Employee |  |
 | Ee Ping | Employee |  |
 | Ekaterina Alexandrovna | Employee |  |
+| Elaine Dzuba | Employee | |
 | Elie Mitrani | Employee | |
 | Elijah Velasquez | Business Development |  |
 | Elina Todorov | Global Sales Strategy |  |
@@ -590,6 +592,7 @@ Or is this merely a case of simple modesty?
 | Els Shek | Field Marketing (APAC) |  |
 | Elvin Tan | Reliability Engineer, Singapore |  |
 | Emilia Faz | Payroll Manager |  |
+| Emilie Ma | Employee | |
 | Emily Chen | Employee | |
 | Emily Elliott | Sales Operations |  |
 | Emily Flannery | Employee | |
@@ -951,6 +954,7 @@ Or is this merely a case of simple modesty?
 | Julien Desgats | Systems Engineer |  |
 | Julien Yohan Jean | Employee |  |
 | Julie Sparks | Security Intern |  |
+| Juliette Cash | Employee | |
 | Julio Pescador | Sales Operations |  |
 | Junade Ali | Engineer | https://twitter.com/icyapril<br>mjsa@junade.com<br>https://www.junade.com/ |
 | Junho Choi | Protocol Team | https://www.twitter.com/junhochoi<br>Previously co-founder of Neumob, CTO of CDNetworks, Web Data Bank<br>https://www.saturnsoft.net/<br>https://github.com/junhochoi<br>junho@cloudflare.com |
