@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,197 |
-| social | 4,467 |
+| com | 7,198 |
+| social | 4,468 |
 | net | 3,655 |
 | org | 2,460 |
-| de | 2,266 |
+| de | 2,267 |
 
 
 - Mastodon, Pleroma, etc
@@ -10808,6 +10808,7 @@ Here's a list of public Fediverse services.
 | `duarte.vg` | No |
 | `dubblecross.work` | Yes |
 | `dubdub.space` | No |
+| `dubdubdub.lol` | No |
 | `dubitaristes.fr` | No |
 | `dubnation.social` | Yes |
 | `dubost.name` | No |
@@ -12138,6 +12139,7 @@ Here's a list of public Fediverse services.
 | `euzilla.de` | No |
 | `ev1.pw` | No |
 | `evamadeonline.com` | Yes |
+| `evan.exposed` | Yes |
 | `evanaolson.com` | No |
 | `evandodson.com` | No |
 | `evandoes.dev` | Yes |
@@ -14270,6 +14272,7 @@ Here's a list of public Fediverse services.
 | `fruitstand.social` | No |
 | `frunc.de` | No |
 | `frustrat.es` | No |
+| `fry.gs` | No |
 | `fryer.net.au` | No |
 | `fryntiz.cloud` | No |
 | `fs.al` | No |
@@ -14747,6 +14750,7 @@ Here's a list of public Fediverse services.
 | `gamers.social` | No |
 | `gamersandgeeks.net` | No |
 | `gamerscharisma.social` | No |
+| `gamerstavern.online` | No |
 | `gamertalk.social` | No |
 | `gamertheory.net` | No |
 | `games-community.xyz` | No |
@@ -24495,6 +24499,7 @@ Here's a list of public Fediverse services.
 | `maromaro.co.jp` | No |
 | `maron.blue` | No |
 | `marosuke2600.work` | No |
+| `marquezkeenan.family` | Yes |
 | `marramgrass.org.uk` | No |
 | `marrok.top` | Yes |
 | `marroq.xyz` | No |
@@ -29588,6 +29593,7 @@ Here's a list of public Fediverse services.
 | `notunremarkable.me` | No |
 | `notvery.social` | No |
 | `notwebsite.com` | No |
+| `notweet.de` | No |
 | `notwork.in` | No |
 | `notworking.review` | No |
 | `notyour.party` | Yes |
@@ -31810,6 +31816,7 @@ Here's a list of public Fediverse services.
 | `peterlehmann.xyz` | No |
 | `peterlew.is` | Yes |
 | `petermolnar.net` | No |
+| `petermorse.com.au` | No |
 | `peterrowlett.net` | No |
 | `petersanchez.com` | No |
 | `petersen.social` | No |
@@ -40060,6 +40067,7 @@ Here's a list of public Fediverse services.
 | `tall.coffee` | Yes |
 | `tallahasseesocial.org` | No |
 | `talldude.net` | No |
+| `tallgoblin.com` | No |
 | `tallman.social` | No |
 | `tallulah.fi` | No |
 | `tallwebguy.com` | No |
@@ -44597,6 +44605,7 @@ Here's a list of public Fediverse services.
 | `wangdahoo.space` | No |
 | `wangofett.com` | No |
 | `wangwood.house` | No |
+| `wank.social` | No |
 | `wanparty.xyz` | No |
 | `wansaw.com` | Yes |
 | `wants.coffee` | No |
@@ -46557,6 +46566,7 @@ Here's a list of public Fediverse services.
 | `yukioke.com` | No |
 | `yukisou.xyz` | Yes |
 | `yukitsukuura.jp` | No |
+| `yukiverse.icu` | Yes |
 | `yukiya.me` | No |
 | `yukkukomei.com` | Yes |
 | `yuko.im` | Yes |
@@ -47146,8 +47156,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 12,942 |
-| Normal | 34,158 |
+| Cloudflare | 12,945 |
+| Normal | 34,165 |
 
 
 ### 27.5% of public Fediverse services are using Cloudflare.
