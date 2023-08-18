@@ -29853,6 +29853,7 @@ Here's a list of public Fediverse services.
 | `nth.io` | Yes |
 | `nthia.dev` | No |
 | `nthomas20.net` | No |
+| `nthp.me` | No |
 | `nti.social` | No |
 | `ntiago.space` | Yes |
 | `ntic.fr` | No |
@@ -47404,7 +47405,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,038 |
-| Normal | 34,317 |
+| Normal | 34,318 |
 
 
 </details>
