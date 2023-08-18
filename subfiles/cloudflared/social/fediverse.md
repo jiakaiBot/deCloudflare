@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,250 |
-| social | 4,483 |
+| social | 4,484 |
 | net | 3,671 |
 | org | 2,469 |
 | de | 2,279 |
@@ -13927,6 +13927,7 @@ Here's a list of public Fediverse services.
 | `fr13nds.cc` | No |
 | `fr3diver.se` | Yes |
 | `fr4me.io` | No |
+| `fr4me.social` | No |
 | `fractalco.re` | Yes |
 | `fractalego.social` | No |
 | `fractals.one` | No |
@@ -47394,7 +47395,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,032 |
-| Normal | 34,313 |
+| Normal | 34,314 |
 
 
 </details>
