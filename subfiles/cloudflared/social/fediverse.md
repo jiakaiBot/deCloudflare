@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,251 |
 | social | 4,484 |
-| net | 3,673 |
+| net | 3,674 |
 | org | 2,469 |
 | de | 2,279 |
 
@@ -4312,6 +4312,7 @@ Here's a list of public Fediverse services.
 | `bibeogaem.zone` | No |
 | `bibernasen.de` | No |
 | `bibhasdn.com` | No |
+| `bibi.moe` | No |
 | `bibimblog.de` | No |
 | `bibinet.de` | No |
 | `bibinim.me` | Yes |
@@ -12816,6 +12817,7 @@ Here's a list of public Fediverse services.
 | `federicoigne.com` | No |
 | `federotica.com` | No |
 | `fedgram.com` | No |
+| `fedi-multi-verse.eu` | No |
 | `fedi-verse.info` | No |
 | `fedi.agency` | No |
 | `fedi.ai` | Yes |
@@ -19220,7 +19222,7 @@ Here's a list of public Fediverse services.
 | `izumiz.me` | No |
 | `izza.party` | Yes |
 | `izzie.mom` | Yes |
-| `izzodlaw.com` | No |
+| `izzodlaw.com` | Yes |
 | `izzy.rodeo` | No |
 | `izzz.fr` | No |
 | `j-ch.net` | No |
@@ -25581,6 +25583,7 @@ Here's a list of public Fediverse services.
 | `mckillop.org` | No |
 | `mclarty.social` | Yes |
 | `mclegoman.com` | Yes |
+| `mcmains.net` | No |
 | `mcmcgraw.com` | No |
 | `mcmillian.me` | No |
 | `mcmullan.org` | Yes |
@@ -32007,6 +32010,7 @@ Here's a list of public Fediverse services.
 | `pets-in.space` | No |
 | `pets.contact` | No |
 | `pettancos.com` | No |
+| `pettanko.art` | No |
 | `pettet.social` | No |
 | `pettigrew.org.uk` | No |
 | `pettingzoo.co` | No |
@@ -47404,8 +47408,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,038 |
-| Normal | 34,318 |
+| Cloudflare | 13,039 |
+| Normal | 34,321 |
 
 
 </details>
