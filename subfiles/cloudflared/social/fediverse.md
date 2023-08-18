@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,250 |
+| com | 7,251 |
 | social | 4,484 |
-| net | 3,672 |
+| net | 3,673 |
 | org | 2,469 |
 | de | 2,279 |
 
@@ -583,6 +583,7 @@ Here's a list of public Fediverse services.
 | `51yyds.tk` | Yes |
 | `52537887.xyz` | Yes |
 | `5280.city` | No |
+| `52poke.net` | No |
 | `52wochen.me` | No |
 | `536.fr` | No |
 | `54nord.net` | No |
@@ -1864,6 +1865,7 @@ Here's a list of public Fediverse services.
 | `alwayssleeping.com` | No |
 | `alwyzon.social` | Yes |
 | `alxgsv.com` | Yes |
+| `alxtratrstrl.id` | No |
 | `alypto.com` | No |
 | `alyve.be` | No |
 | `alyxia.dev` | Yes |
@@ -28296,6 +28298,7 @@ Here's a list of public Fediverse services.
 | `narfin.fi` | No |
 | `narikiri.club` | No |
 | `narinimous.fr` | No |
+| `nariskey.com` | Yes |
 | `narod.city` | No |
 | `narramus.de` | Yes |
 | `narrativ.es` | No |
@@ -29148,7 +29151,7 @@ Here's a list of public Fediverse services.
 | `niklas.social` | No |
 | `niklasbarning.de` | No |
 | `niklasrosenstein.com` | No |
-| `nikola.love` | No |
+| `nikola.love` | Yes |
 | `nikolaiathome.com` | Yes |
 | `nikolak.com` | Yes |
 | `nikomo.fi` | Yes |
@@ -34732,6 +34735,7 @@ Here's a list of public Fediverse services.
 | `reiuji.chat` | Yes |
 | `rejas.se` | No |
 | `rejoiner.eu` | No |
+| `rekabu.ru` | No |
 | `rekcon.io` | No |
 | `rekonstructors.com` | Yes |
 | `rekt.app` | No |
@@ -45141,6 +45145,7 @@ Here's a list of public Fediverse services.
 | `wells-family.xyz` | No |
 | `welltempered.net` | No |
 | `welly.social` | No |
+| `weloveautomation.xyz` | Yes |
 | `welovedevs.com` | Yes |
 | `welovela.in` | No |
 | `welovepoetto.com` | No |
@@ -47398,8 +47403,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,035 |
-| Normal | 34,315 |
+| Cloudflare | 13,038 |
+| Normal | 34,317 |
 
 
 </details>
