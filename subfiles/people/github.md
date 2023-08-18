@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Argo Tunnel issue](https://github.com/buffbears/Weatherscan/issues/58)
 - [pynocaptcha 1.6.4 has 2 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/65118)
 - [pynocaptcha 1.6.4 has 2 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/65101)
 - [Error: Provider produced inconsistent result after apply](https://github.com/DataDog/terraform-provider-datadog/issues/2062)
