@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,250 |
-| social | 4,483 |
+| social | 4,484 |
 | net | 3,672 |
 | org | 2,469 |
 | de | 2,279 |
@@ -13927,6 +13927,7 @@ Here's a list of public Fediverse services.
 | `fr13nds.cc` | No |
 | `fr3diver.se` | Yes |
 | `fr4me.io` | No |
+| `fr4me.social` | No |
 | `fractalco.re` | Yes |
 | `fractalego.social` | No |
 | `fractals.one` | No |
@@ -31809,6 +31810,7 @@ Here's a list of public Fediverse services.
 | `peertube.uno` | Yes |
 | `peertube.video` | No |
 | `peertube.vip` | No |
+| `peertube.wtf` | Yes |
 | `peertube.xyz` | No |
 | `peertubenorge.com` | No |
 | `peertubevdb.de` | No |
@@ -33928,6 +33930,7 @@ Here's a list of public Fediverse services.
 | `quizmo.mn` | Yes |
 | `qunagi.net` | No |
 | `qunaud.xyz` | No |
+| `qune.jp` | No |
 | `qunn.eu` | Yes |
 | `qunnen.one` | Yes |
 | `qunok.com` | Yes |
@@ -47394,8 +47397,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,033 |
-| Normal | 34,313 |
+| Cloudflare | 13,034 |
+| Normal | 34,315 |
 
 
 </details>
