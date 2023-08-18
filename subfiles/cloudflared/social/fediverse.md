@@ -12767,6 +12767,7 @@ Here's a list of public Fediverse services.
 | `feddit.nu` | No |
 | `feddit.online` | Yes |
 | `feddit.ro` | Yes |
+| `feddit.rocks` | Yes |
 | `feddit.uk` | No |
 | `feddiverse.org` | Yes |
 | `feddychat.de` | No |
@@ -25725,7 +25726,7 @@ Here's a list of public Fediverse services.
 | `megaterio.org` | No |
 | `megatherium.org` | No |
 | `meghadeep.com` | No |
-| `meghana.blog` | No |
+| `meghana.blog` | Yes |
 | `megkuma.com` | No |
 | `meglia.dev` | Yes |
 | `mego.bar` | Yes |
@@ -47391,8 +47392,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,029 |
-| Normal | 34,314 |
+| Cloudflare | 13,031 |
+| Normal | 34,313 |
 
 
 </details>
