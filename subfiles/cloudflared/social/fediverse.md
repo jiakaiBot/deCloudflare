@@ -6570,6 +6570,7 @@ Here's a list of public Fediverse services.
 | `chancellor.cc` | No |
 | `chancellor.social` | No |
 | `chandr1000.net` | Yes |
+| `chang.lu` | Yes |
 | `changelog.social` | No |
 | `changeme.fr.eu.org` | No |
 | `changmaoxiang.one` | Yes |
@@ -47397,7 +47398,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,034 |
+| Cloudflare | 13,035 |
 | Normal | 34,315 |
 
 
