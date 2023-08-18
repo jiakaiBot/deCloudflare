@@ -132,7 +132,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | glorydns.com | Yes |
 | gnb09.id | Yes |
 | goldplate.org | Yes |
-| gosami.xyz | No |
 | gztech.me | Yes |
 | hafidzradhival.my.id | Yes |
 | hahnjo.de | No |
@@ -150,7 +149,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ibakerserver.pt | Yes |
 | ihatemy.live | Yes |
 | iij.jp | Yes |
-| imaicool.com | No |
 | imbuffering.com | Yes |
 | in-berlin.de | No |
 | indust.me | Yes |
@@ -283,7 +281,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | spil.co.id | Yes |
 | ssrahul96.xyz | Yes |
 | startupstack.tech | Yes |
-| streamlas.fr | Yes |
 | stvsk.ml | Yes |
 | sungai.stream | Yes |
 | switch.ch | No |
@@ -336,8 +333,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 159 |
-| Normal | 158 |
+| Cloudflare | 158 |
+| Normal | 156 |
 
 
-### 50.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
