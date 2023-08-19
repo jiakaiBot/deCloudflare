@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,256 |
 | social | 4,484 |
-| net | 3,677 |
+| net | 3,678 |
 | org | 2,471 |
 | de | 2,280 |
 
@@ -5738,6 +5738,7 @@ Here's a list of public Fediverse services.
 | `burggit.moe` | No |
 | `burgh.social` | No |
 | `burgstallerfoto.at` | No |
+| `burikione.net` | No |
 | `burk.io` | No |
 | `burma.social` | Yes |
 | `burn.capital` | No |
@@ -15961,6 +15962,7 @@ Here's a list of public Fediverse services.
 | `gravitasfree.zone` | No |
 | `gravitons.org` | No |
 | `gravitystorm.co.uk` | Yes |
+| `gravitywell.xyz` | Yes |
 | `gravure.club` | No |
 | `gravyflex.ca` | Yes |
 | `grawlily.com` | Yes |
@@ -36973,6 +36975,7 @@ Here's a list of public Fediverse services.
 | `sengotta.net` | No |
 | `senigallia.one` | Yes |
 | `seniorenakademie-digital.de` | No |
+| `senka.space` | No |
 | `senkitahara.com` | No |
 | `senky.social` | Yes |
 | `sennomo.net` | No |
@@ -47443,8 +47446,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,051 |
-| Normal | 34,344 |
+| Cloudflare | 13,052 |
+| Normal | 34,346 |
 
 
 </details>
