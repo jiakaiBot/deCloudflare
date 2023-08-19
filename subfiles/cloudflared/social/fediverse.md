@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,253 |
 | social | 4,484 |
 | net | 3,676 |
-| org | 2,469 |
+| org | 2,471 |
 | de | 2,280 |
 
 
@@ -115,6 +115,7 @@ Here's a list of public Fediverse services.
 | `0x0.icu` | No |
 | `0x0.sk` | Yes |
 | `0x0.st` | No |
+| `0x01.me` | Yes |
 | `0x0a.de` | No |
 | `0x0a.network` | No |
 | `0x0a.pro` | No |
@@ -9575,6 +9576,7 @@ Here's a list of public Fediverse services.
 | `demokratischer-sommer.de` | No |
 | `demon.army` | No |
 | `demon.care` | No |
+| `demon.gay` | Yes |
 | `demon.haus` | No |
 | `demon.party` | No |
 | `demon.social` | No |
@@ -22300,7 +22302,7 @@ Here's a list of public Fediverse services.
 | `lauka.space` | No |
 | `launay.org` | No |
 | `laundromat.me` | No |
-| `laura-test.space` | Yes |
+| `laura-test.space` | No |
 | `laura.social` | No |
 | `laurakalbag.com` | No |
 | `lauraritchie.com` | No |
@@ -22470,6 +22472,7 @@ Here's a list of public Fediverse services.
 | `leeloutoo.com` | Yes |
 | `leemhuis.info` | No |
 | `leemoon.network` | No |
+| `leemyalone.org` | No |
 | `leermakers.net` | No |
 | `leet.pub` | No |
 | `leetsocial.com` | No |
@@ -37118,6 +37121,7 @@ Here's a list of public Fediverse services.
 | `sgrankin.com` | No |
 | `sgrclowd.xyz` | No |
 | `sgrta.io` | No |
+| `sgsknote.org` | No |
 | `sgt.cc` | No |
 | `sgtk.net` | No |
 | `sgv.social` | No |
@@ -47429,8 +47433,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,042 |
-| Normal | 34,339 |
+| Cloudflare | 13,043 |
+| Normal | 34,342 |
 
 
 </details>
