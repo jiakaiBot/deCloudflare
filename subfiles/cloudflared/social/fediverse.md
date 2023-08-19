@@ -4282,7 +4282,7 @@ Here's a list of public Fediverse services.
 | `bfmw.co` | No |
 | `bfoliver.com` | No |
 | `bfs.llc` | No |
-| `bfsu.cafe` | Yes |
+| `bfsu.cafe` | No |
 | `bg.cafe` | No |
 | `bg.sb` | No |
 | `bgcarlisle.com` | No |
@@ -23966,7 +23966,7 @@ Here's a list of public Fediverse services.
 | `lydi.as` | Yes |
 | `lyingvoid.social` | No |
 | `lyk.pw` | Yes |
-| `lyker.jp` | Yes |
+| `lyker.jp` | No |
 | `lykledevries.nl` | No |
 | `lylapol.com` | Yes |
 | `lynessence.me` | No |
@@ -47429,8 +47429,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,044 |
-| Normal | 34,337 |
+| Cloudflare | 13,042 |
+| Normal | 34,339 |
 
 
 </details>
