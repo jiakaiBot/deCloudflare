@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,253 |
+| com | 7,254 |
 | social | 4,484 |
 | net | 3,677 |
 | org | 2,471 |
@@ -5403,7 +5403,7 @@ Here's a list of public Fediverse services.
 | `breakdown.moe` | No |
 | `breakpoint.cafe` | No |
 | `breastmilk.club` | No |
-| `breau.ca` | No |
+| `breau.ca` | Yes |
 | `breau.fun` | No |
 | `brechanegra.net` | No |
 | `breeze.town` | No |
@@ -7019,6 +7019,7 @@ Here's a list of public Fediverse services.
 | `chubbypaw.net` | Yes |
 | `chuck.town` | No |
 | `chuckdries.com` | Yes |
+| `chuckeatskc.com` | No |
 | `chud.space` | Yes |
 | `chudbuds.lol` | No |
 | `chudbuds.org` | No |
@@ -29101,7 +29102,7 @@ Here's a list of public Fediverse services.
 | `niel.me` | No |
 | `nielk1.com` | No |
 | `nielniel.net` | No |
-| `nielsegberts.nl` | No |
+| `nielsegberts.nl` | Yes |
 | `nielsemmer.com` | Yes |
 | `niemanlab.org` | No |
 | `nien.house` | Yes |
@@ -47437,8 +47438,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,046 |
-| Normal | 34,343 |
+| Cloudflare | 13,048 |
+| Normal | 34,342 |
 
 
 </details>
