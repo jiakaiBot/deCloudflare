@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Messing around with that waifu thing, ERROR: The process "27224" not found. Cannot read properties of undefined (reading 'find') node](https://github.com/realcoloride/node_characterai/issues/78)
 - [Sorry, you have been blocked, you are unable to access kavin.rocks](https://github.com/TeamPiped/Piped/issues/2833)
 - [Argo Tunnel issue](https://github.com/buffbears/Weatherscan/issues/58)
 - [pynocaptcha 1.6.4 has 2 GuardDog issues](https://github.com/h4sh5/pypi-auto-scanner/issues/65118)
