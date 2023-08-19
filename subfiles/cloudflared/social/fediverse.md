@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,484 |
 | net | 3,674 |
 | org | 2,469 |
-| de | 2,279 |
+| de | 2,280 |
 
 
 - Mastodon, Pleroma, etc
@@ -31900,6 +31900,7 @@ Here's a list of public Fediverse services.
 | `peoplesleaders.net` | No |
 | `peoplesrevolution.xyz` | No |
 | `peoplever.se` | No |
+| `pepecyb.de` | No |
 | `pepecyb.hu` | No |
 | `pepega.club` | Yes |
 | `pepega.media` | No |
@@ -33809,6 +33810,7 @@ Here's a list of public Fediverse services.
 | `quaoar.xyz` | Yes |
 | `quarterbacks.win` | Yes |
 | `quarteredcircle.net` | No |
+| `quasar.casa` | No |
 | `quasi.social` | No |
 | `quasireal.ca` | Yes |
 | `quasivoid.net` | No |
@@ -47409,7 +47411,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,039 |
-| Normal | 34,321 |
+| Normal | 34,323 |
 
 
 </details>
