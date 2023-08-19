@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,253 |
 | social | 4,484 |
-| net | 3,676 |
+| net | 3,677 |
 | org | 2,471 |
 | de | 2,280 |
 
@@ -7606,7 +7606,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -10094,6 +10094,7 @@ Here's a list of public Fediverse services.
 | `dioxinet.com` | No |
 | `dip.jp` | No |
 | `diprotodon.au` | No |
+| `dipshit.dev` | Yes |
 | `dipshit.space` | No |
 | `dir.pl` | No |
 | `dira.cc` | No |
@@ -22828,6 +22829,7 @@ Here's a list of public Fediverse services.
 | `lexi-hexi.eu` | No |
 | `lexicomancia.com` | No |
 | `lexie.space` | No |
+| `lexiii.pink` | Yes |
 | `lexikon.press` | No |
 | `lexingtonbitcoin.social` | No |
 | `lexiphanic.com` | No |
@@ -42835,6 +42837,7 @@ Here's a list of public Fediverse services.
 | `tsuchidon.com` | No |
 | `tsuda.dev` | No |
 | `tsueri.cloud` | No |
+| `tsujigoya.net` | No |
 | `tsukeru.moe` | Yes |
 | `tsuki.cat` | Yes |
 | `tsuki.club` | No |
@@ -45400,6 +45403,7 @@ Here's a list of public Fediverse services.
 | `wiggle.website` | No |
 | `wihel.de` | Yes |
 | `wiki-tube.de` | No |
+| `wiki.gd` | No |
 | `wiki.style` | No |
 | `wikileaks2.org` | No |
 | `wikilibriste.fr` | No |
@@ -47433,8 +47437,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,043 |
-| Normal | 34,342 |
+| Cloudflare | 13,046 |
+| Normal | 34,343 |
 
 
 </details>
