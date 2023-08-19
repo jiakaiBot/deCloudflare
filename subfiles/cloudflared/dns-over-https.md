@@ -92,7 +92,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dns4all.eu | No |
 | dns8.org | No |
 | dnscrypt.ca | No |
-| dnsenc.com | No |
 | dnsforfamily.com | Yes |
 | dnsforge.de | No |
 | dnshome.de | No |
@@ -300,7 +299,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tls-data.de | No |
 | toairs.com | No |
 | tracker.ink | No |
-| truong.fi | Yes |
 | tu-bs.de | No |
 | twnic.tw | No |
 | unstoppable.io | Yes |
@@ -333,8 +331,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 158 |
-| Normal | 156 |
+| Cloudflare | 157 |
+| Normal | 155 |
 
 
 ### 50.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
