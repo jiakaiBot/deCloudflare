@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,252 |
+| com | 7,253 |
 | social | 4,484 |
 | net | 3,676 |
 | org | 2,469 |
@@ -9516,6 +9516,7 @@ Here's a list of public Fediverse services.
 | `delab.re` | No |
 | `delabs.net` | No |
 | `delaeuforia.com` | Yes |
+| `delalande.me` | No |
 | `delamunoza.es` | No |
 | `delange.us` | No |
 | `delat.net` | No |
@@ -29627,6 +29628,7 @@ Here's a list of public Fediverse services.
 | `noronista.net` | No |
 | `norrebro.space` | No |
 | `norrland.xyz` | No |
+| `nortel.cloud` | No |
 | `northbaypython.org` | No |
 | `northeast.one` | No |
 | `northern-fox.com` | No |
@@ -43781,7 +43783,9 @@ Here's a list of public Fediverse services.
 | `us.dev` | No |
 | `us.to` | Yes |
 | `us.tv` | No |
+| `usa-chan.pink` | Yes |
 | `usagi-gumi.jp` | No |
+| `usagi.love` | No |
 | `usagi.top` | No |
 | `usagicore.moe` | Yes |
 | `usagicore.org` | Yes |
@@ -44114,6 +44118,7 @@ Here's a list of public Fediverse services.
 | `vegh.social` | No |
 | `vegible.club` | No |
 | `vegoon.party` | Yes |
+| `veikr.com` | No |
 | `veinmireskeep.com` | No |
 | `vekant.com` | Yes |
 | `velasq.com` | Yes |
@@ -47424,8 +47429,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,043 |
-| Normal | 34,333 |
+| Cloudflare | 13,044 |
+| Normal | 34,337 |
 
 
 </details>
