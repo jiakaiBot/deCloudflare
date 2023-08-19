@@ -7604,7 +7604,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -28416,6 +28416,7 @@ Here's a list of public Fediverse services.
 | `nbailey.ca` | Yes |
 | `nbl.social` | No |
 | `nblo.ws` | Yes |
+| `nbloc.se` | No |
 | `nblr.dev` | Yes |
 | `nbsp.one` | No |
 | `nbwp.uk` | No |
@@ -47410,8 +47411,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,039 |
-| Normal | 34,323 |
+| Cloudflare | 13,038 |
+| Normal | 34,325 |
 
 
 </details>
