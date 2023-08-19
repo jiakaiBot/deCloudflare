@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [500 Server Error](https://github.com/Azuriom/Azuriom/issues/364)
+- [Add or edit Rust server gives 500 error](https://github.com/Azuriom/Azuriom/issues/363)
 - [cloudflare solved but does not redirect?](https://github.com/FlareSolverr/FlareSolverr/issues/868)
 - [Messing around with that waifu thing, ERROR: The process "27224" not found. Cannot read properties of undefined (reading 'find') node](https://github.com/realcoloride/node_characterai/issues/78)
 - [Sorry, you have been blocked, you are unable to access kavin.rocks](https://github.com/TeamPiped/Piped/issues/2833)
