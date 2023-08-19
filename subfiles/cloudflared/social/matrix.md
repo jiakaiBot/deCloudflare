@@ -47,17 +47,16 @@ Here's a list of public Matrix services.
 | matrix.dieandalusier.net | No |
 | matrix.duesen.chat | No |
 | matrix.envs.net | No |
-| exarius.org | No |
 | matrix.fachschaften.org | No |
 | feneas.org | No |
 | matrix.flieger.chat | No |
+| matrix.frei.chat | No |
 | matrix.freiburg.social | No |
 | matrix.fsfe.org | No |
 | g24.at | No |
 | matrix.gemeinsam.jetzt | No |
 | ggc-project.de | Yes |
 | matrix.glasgow.social | No |
-| matrix.gnulinux.club | No |
 | matrix.grin.hu | No |
 | matrix.group.lt | Yes |
 | hackerspaces.be | No |
@@ -81,7 +80,6 @@ Here's a list of public Matrix services.
 | matrix.noevil.pl | No |
 | nope.chat | No |
 | matrix.norge.chat | Yes |
-| hs.obco.pro | Yes |
 | oikei.net | No |
 | matrix.ombreport.info | No |
 | pcriot.org | Yes |
@@ -106,7 +104,7 @@ Here's a list of public Matrix services.
 | ungleich.matrix.ungleich.cloud | No |
 | unita.online | No |
 | usesarchbtw.lol | Yes |
-| matrix.snt.utwente.nl | No |
+| utwente.io | No |
 | matrix.virto.community | Yes |
 | waffle.tech | No |
 | webchat.weho.st | No |
@@ -118,8 +116,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 21 |
-| Normal | 70 |
+| Cloudflare | 20 |
+| Normal | 69 |
 
 
-### 23.1% of public Matrix services are using Cloudflare.
+### 22.5% of public Matrix services are using Cloudflare.
