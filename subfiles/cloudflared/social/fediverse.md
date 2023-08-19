@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,251 |
 | social | 4,484 |
-| net | 3,674 |
+| net | 3,676 |
 | org | 2,469 |
 | de | 2,280 |
 
@@ -3230,6 +3230,7 @@ Here's a list of public Fediverse services.
 | `autobild.bg` | No |
 | `autobots.run` | No |
 | `autochthonia.net` | No |
+| `autogeree.net` | No |
 | `autogestion.org` | No |
 | `autogestioncitoyenne.org` | No |
 | `automa.sh` | Yes |
@@ -10246,6 +10247,7 @@ Here's a list of public Fediverse services.
 | `dje.li` | No |
 | `djiko.net` | No |
 | `djitter.com` | No |
+| `djjahsbbjahhs.shop` | Yes |
 | `djmarc.me` | No |
 | `djnrrd.com` | No |
 | `djradim.click` | No |
@@ -11351,6 +11353,7 @@ Here's a list of public Fediverse services.
 | `eggfreckles.org` | No |
 | `eggman.ir` | No |
 | `eggp.me` | No |
+| `eggplant.place` | Yes |
 | `eggplant.social` | Yes |
 | `eggsouppodcast.com` | No |
 | `eggy.app` | Yes |
@@ -20285,6 +20288,7 @@ Here's a list of public Fediverse services.
 | `jvan.be` | Yes |
 | `jvbf.dev` | Yes |
 | `jvdidactics.de` | No |
+| `jvideos.net` | Yes |
 | `jvm.social` | No |
 | `jvns.ca` | Yes |
 | `jvol.wtf` | No |
@@ -20292,6 +20296,7 @@ Here's a list of public Fediverse services.
 | `jvt.me` | No |
 | `jvyden.xyz` | Yes |
 | `jw.be` | No |
+| `jws.app` | Yes |
 | `jxm.ca` | No |
 | `jxmsocial.xyz` | No |
 | `jxs.me` | Yes |
@@ -22353,6 +22358,7 @@ Here's a list of public Fediverse services.
 | `lazybitfield.me` | No |
 | `lazycats.xyz` | No |
 | `lazygamers.club` | Yes |
+| `lazyhoge.foo` | No |
 | `lazyone.fr` | No |
 | `lazysoci.al` | Yes |
 | `lazysocial.de` | No |
@@ -32222,6 +32228,7 @@ Here's a list of public Fediverse services.
 | `piecemaker.rocks` | Yes |
 | `piecewise.im` | No |
 | `piedmontnons.top` | No |
+| `pieho.me` | Yes |
 | `piejacker.net` | No |
 | `pien.dev` | No |
 | `piepants.xyz` | Yes |
@@ -36197,6 +36204,7 @@ Here's a list of public Fediverse services.
 | `sapphic.city` | No |
 | `sapphic.gay` | No |
 | `sapphic.life` | No |
+| `sapphic.ninja` | No |
 | `sapphic.online` | No |
 | `sapphic.pink` | No |
 | `sapphic.site` | Yes |
@@ -37352,6 +37360,7 @@ Here's a list of public Fediverse services.
 | `shoko.one` | No |
 | `shokujin.jp` | Yes |
 | `shollow.net` | No |
+| `shoni.town` | No |
 | `shoot.brussels` | No |
 | `shoot1ng-star.site` | No |
 | `shootingonsight.eu` | No |
@@ -38505,6 +38514,7 @@ Here's a list of public Fediverse services.
 | `sonogatto.it` | No |
 | `sonomu.club` | No |
 | `sonsofbattlefield.de` | Yes |
+| `sonsofliberty.red` | No |
 | `soopy.moe` | Yes |
 | `soothing.cloud` | No |
 | `sopelj.ca` | Yes |
@@ -44315,6 +44325,7 @@ Here's a list of public Fediverse services.
 | `vila.cloud` | No |
 | `vilarejo.pro.br` | No |
 | `vilcor.org` | No |
+| `vile.zone` | No |
 | `vilette.gay` | Yes |
 | `villacraft.fr` | Yes |
 | `village.icu` | No |
@@ -47411,8 +47422,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,038 |
-| Normal | 34,325 |
+| Cloudflare | 13,043 |
+| Normal | 34,331 |
 
 
 </details>
