@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,251 |
+| com | 7,252 |
 | social | 4,484 |
 | net | 3,676 |
 | org | 2,469 |
@@ -11778,6 +11778,7 @@ Here's a list of public Fediverse services.
 | `engekidon.net` | No |
 | `engelke.contact` | Yes |
 | `engi.io` | Yes |
+| `engincelik.com` | Yes |
 | `engineered.space` | No |
 | `engineering.social` | Yes |
 | `englehorn.com` | No |
@@ -11984,6 +11985,7 @@ Here's a list of public Fediverse services.
 | `eridi.us` | No |
 | `erikkemp.eu` | No |
 | `erikxxon.se` | No |
+| `erin.lgbt` | No |
 | `eriqcobra.com.br` | Yes |
 | `erirun.net` | No |
 | `eris.moe` | No |
@@ -47253,7 +47255,7 @@ Here's a list of public Fediverse services.
 | `zofel.be` | No |
 | `zogan.de` | No |
 | `zohup.com` | Yes |
-| `zohup.ml` | Yes |
+| `zohup.ml` | No |
 | `zohup.net` | Yes |
 | `zoinks.one` | No |
 | `zokni.xyz` | Yes |
@@ -47423,7 +47425,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,043 |
-| Normal | 34,331 |
+| Normal | 34,333 |
 
 
 </details>
