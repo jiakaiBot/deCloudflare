@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,254 |
+| com | 7,256 |
 | social | 4,484 |
 | net | 3,677 |
 | org | 2,471 |
@@ -10034,6 +10034,7 @@ Here's a list of public Fediverse services.
 | `digitalmarketer.social` | No |
 | `digitalmethods.net` | No |
 | `digitalmoney.social` | No |
+| `digitalmountains.co.uk` | No |
 | `digitalnomad.social` | No |
 | `digitalnomads.social` | Yes |
 | `digitalog.it` | No |
@@ -10924,6 +10925,7 @@ Here's a list of public Fediverse services.
 | `dumbopinions.xyz` | No |
 | `dumbthing.org` | No |
 | `dumez.info` | No |
+| `dumijay.com` | No |
 | `dummbutz.nl` | No |
 | `dummkopf.live` | No |
 | `dummy.cafe` | Yes |
@@ -13552,6 +13554,7 @@ Here's a list of public Fediverse services.
 | `flexnation.xyz` | No |
 | `flexnet.social` | Yes |
 | `flgl.tech` | No |
+| `flickr.com` | No |
 | `fliegel.com` | No |
 | `flifloo.fr` | Yes |
 | `flight-crew.org` | Yes |
@@ -16052,7 +16055,7 @@ Here's a list of public Fediverse services.
 | `gretaoto.ca` | No |
 | `grevenbroich.social` | No |
 | `grey-box.net` | No |
-| `greyarea.one` | No |
+| `greyarea.one` | Yes |
 | `greyduck.social` | No |
 | `greylog.ru` | No |
 | `greyopossum.net` | No |
@@ -16633,7 +16636,7 @@ Here's a list of public Fediverse services.
 | `hansenerd.de` | No |
 | `hansenpartnership.com` | No |
 | `hansinge.net` | No |
-| `hanson.social` | No |
+| `hanson.social` | Yes |
 | `hansup.be` | No |
 | `hanton.at` | No |
 | `haojia-wu.com` | No |
@@ -22585,6 +22588,7 @@ Here's a list of public Fediverse services.
 | `lemmy.al` | Yes |
 | `lemmy.bayern` | No |
 | `lemmy.best` | Yes |
+| `lemmy.bg` | Yes |
 | `lemmy.biz` | Yes |
 | `lemmy.blue` | Yes |
 | `lemmy.buzz` | No |
@@ -26897,6 +26901,7 @@ Here's a list of public Fediverse services.
 | `moderntraditional.com` | No |
 | `modest.com` | Yes |
 | `modestymaise.com` | No |
+| `modimido.tech` | No |
 | `modosolopreneur.com` | Yes |
 | `modscleo4.dev.br` | No |
 | `modspil.dk` | No |
@@ -47438,8 +47443,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,048 |
-| Normal | 34,342 |
+| Cloudflare | 13,051 |
+| Normal | 34,344 |
 
 
 </details>
