@@ -58,6 +58,6 @@ Replace the `(base url)` to:
 | -- | -- |
 | Location | `(base url)listdata/` |
 | Request Method | `GET` |
-| Input | `name` is required.<br>`name` string (e.g. `cf_fediverse`)<br>possible values:<br>`cf_fediverse` JSON [Cloudflared Fediverse](../cloudflared/social/fediverse.md)<br>`cf_fediverse_CSV` Text  |
+| Input | `name` is required.<br>`name` string (e.g. `cf_fediverse`)<br>possible values:<br>`cf_fediverse` JSON [Cloudflared Fediverse](../cloudflared/social/fediverse.md) Domain<br>`cf_fediverse_CSV` Text<br>`cf_fediverse_FQDN` JSON Cloudflared Fediverse FQDN<br>`cf_fediverse_FQDN_CSV` Text<br>  |
 | Output | JSON or Text |
 | cURL Example | `curl -k --http2 https://clearnet/api/listdata/?name=cf_fediverse` |
