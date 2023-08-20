@@ -2000,7 +2000,7 @@ Here's a list of public Fediverse services.
 | `amyways.com` | Yes |
 | `an.exchange` | No |
 | `an0thr.app` | No |
-| `an6.us` | No |
+| `an6.us` | Yes |
 | `anacreonte.eu` | No |
 | `anakmanis.com` | Yes |
 | `anakut.org` | Yes |
@@ -36411,6 +36411,7 @@ Here's a list of public Fediverse services.
 | `scanline.dev` | No |
 | `scanlines.xyz` | No |
 | `scanovid.com` | No |
+| `scapior.dev` | Yes |
 | `scarfefamily.com` | No |
 | `scarlatti.de` | No |
 | `scarlet.house` | No |
@@ -47468,8 +47469,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,061 |
-| Normal | 34,359 |
+| Cloudflare | 13,063 |
+| Normal | 34,358 |
 
 
 </details>
