@@ -12119,6 +12119,7 @@ Do not create new issue or we will close it as duplicate.
 | [tf_respect@twitter](https://twitter.com/tf_respect/status/1544060233512779778) | advertise |
 | [tgah161@twitter](https://twitter.com/tgah161/status/1386024837819207680) | advertise |
 | [tgbskt@twitter](https://twitter.com/tgbskt/status/1563072250206556160) | advertise |
+| [tgPN2NhLhv3PU0L@twitter](https://twitter.com/tgPN2NhLhv3PU0L/status/1691980532404687150) | advertise |
 | [tgunr@twitter](https://twitter.com/tgunr/status/1411621018691584002) | moral (advertise) |
 | [TH98989@twitter](https://twitter.com/TH98989/status/1393745686877937668) | advertise |
 | [th28800712@twitter](https://twitter.com/th28800712/status/1560535685236670464) | advertise |
@@ -12698,6 +12699,7 @@ Do not create new issue or we will close it as duplicate.
 | [toanvm1@twitter](https://twitter.com/toanvm1/status/1619245044099350528) | advertise |
 | [tobeyy____@twitter](https://twitter.com/tobeyy____/status/1496596667268698112) | advertise |
 | [ToddibooWang@twitter](https://twitter.com/ToddibooWang/status/1393051977341235202) | advertise |
+| [toddLiao469469@twitter](https://twitter.com/toddLiao469469/status/1691795834416025801) | advertise |
 | [toducduy98@twitter](https://twitter.com/toducduy98/status/1388220524753408000) | advertise |
 | [TOECH_DoZo@twitter](https://twitter.com/TOECH_DoZo/status/1689643126498177024) | advertise |
 | [ToeToeLwin20@twitter](https://twitter.com/ToeToeLwin20/status/1391663332487155717) | advertise |
