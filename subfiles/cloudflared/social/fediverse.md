@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,256 |
+| com | 7,259 |
 | social | 4,484 |
 | net | 3,678 |
 | org | 2,471 |
@@ -4337,6 +4337,7 @@ Here's a list of public Fediverse services.
 | `biddul.ph` | No |
 | `bideoteka.eus` | No |
 | `bidule.app` | No |
+| `bidule.dev` | No |
 | `bien-etre.social` | Yes |
 | `bien.ee` | No |
 | `biendeo.com` | Yes |
@@ -7608,7 +7609,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -20051,6 +20052,7 @@ Here's a list of public Fediverse services.
 | `joshdata.me` | No |
 | `joshdick.net` | No |
 | `josheh.net` | No |
+| `josheli.com` | Yes |
 | `joshglenn.org` | No |
 | `joshhansen.net` | No |
 | `joshhansen.tech` | No |
@@ -20930,6 +20932,7 @@ Here's a list of public Fediverse services.
 | `kevanloy.com` | No |
 | `kevbob.com` | Yes |
 | `kevdev.one` | Yes |
+| `kevhomeit.trade` | Yes |
 | `kevin.cl` | Yes |
 | `kevindangoor.com` | No |
 | `kevinflo.com` | Yes |
@@ -24129,6 +24132,7 @@ Here's a list of public Fediverse services.
 | `macmynatt.social` | No |
 | `macneilmediagroup.com` | Yes |
 | `macnemo.social` | No |
+| `macniel.online` | No |
 | `maco.pics` | Yes |
 | `macondo.info` | No |
 | `macro.tokyo` | No |
@@ -27043,6 +27047,7 @@ Here's a list of public Fediverse services.
 | `monkey.org` | No |
 | `monkeyblog.de` | No |
 | `monkeydiesel.net` | No |
+| `monkeyhex.com` | No |
 | `monkeyofhope.com` | No |
 | `monkeyorg.space` | No |
 | `monkeystew.net` | No |
@@ -31043,6 +31048,7 @@ Here's a list of public Fediverse services.
 | `oster.social` | No |
 | `ostertag.team` | No |
 | `ostfrie.se` | No |
+| `ostheater.city` | No |
 | `osto.us` | No |
 | `ostolc.org` | No |
 | `osu.io` | Yes |
@@ -35762,6 +35768,7 @@ Here's a list of public Fediverse services.
 | `rup.one` | Yes |
 | `rural-it.org` | No |
 | `rurinya.com` | Yes |
+| `rusadam.hu` | No |
 | `rushon.xyz` | No |
 | `rusingh.com` | No |
 | `rusk.app` | No |
@@ -39180,6 +39187,7 @@ Here's a list of public Fediverse services.
 | `statyvka.org.ua` | No |
 | `stavros.io` | Yes |
 | `stayas.one` | Yes |
+| `staycuriousandkeepsmil.in` | No |
 | `staysilent.party` | No |
 | `stbv.tax` | No |
 | `stcat.com` | No |
@@ -44850,6 +44858,7 @@ Here's a list of public Fediverse services.
 | `walkaway.space` | No |
 | `walkers.social` | No |
 | `walkingmountains.fr` | No |
+| `walkmad.online` | No |
 | `walkman.social` | No |
 | `wallace.fm` | No |
 | `wallera.computer` | No |
@@ -46565,6 +46574,7 @@ Here's a list of public Fediverse services.
 | `yawp.social` | No |
 | `yayest.space` | No |
 | `yayforqueers.net` | No |
+| `yayi.me` | Yes |
 | `yayoi.ink` | No |
 | `yba.dev` | Yes |
 | `ycare.de` | No |
@@ -47343,6 +47353,7 @@ Here's a list of public Fediverse services.
 | `zowie.im` | No |
 | `zoz-serv.org` | No |
 | `zozzle.xyz` | No |
+| `zponent.com` | No |
 | `zpravobot.news` | No |
 | `zr.si` | Yes |
 | `zr40.nl` | Yes |
@@ -47447,8 +47458,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,053 |
-| Normal | 34,346 |
+| Cloudflare | 13,055 |
+| Normal | 34,355 |
 
 
 </details>
