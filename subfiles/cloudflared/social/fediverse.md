@@ -17611,6 +17611,7 @@ Here's a list of public Fediverse services.
 | `hootiegibbon.co.uk` | No |
 | `hopbox.net` | No |
 | `hopcount.nl` | Yes |
+| `hope-pf27.moe` | Yes |
 | `hope.ooo` | No |
 | `hopefullyread.com` | No |
 | `hopeph.com` | Yes |
@@ -19795,6 +19796,7 @@ Here's a list of public Fediverse services.
 | `jippi.dev` | Yes |
 | `jir.moe` | No |
 | `jirayu.in.th` | Yes |
+| `jirutka.cz` | No |
 | `jis.work` | Yes |
 | `jisaba.life` | No |
 | `jisco.me` | No |
@@ -47480,8 +47482,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,068 |
-| Normal | 34,364 |
+| Cloudflare | 13,069 |
+| Normal | 34,365 |
 
 
 </details>
