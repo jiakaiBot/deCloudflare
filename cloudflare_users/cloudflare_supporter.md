@@ -2794,6 +2794,7 @@ Do not create new issue or we will close it as duplicate.
 | [DavidTwe1@twitter](https://twitter.com/DavidTwe1/status/1391063344296075266) | advertise |
 | [davidvpe@twitter](https://twitter.com/davidvpe/status/1519691843440627713) | advertise |
 | [david_bjay@twitter](https://twitter.com/david_bjay/status/1394536709040218115) | advertise |
+| [david_dot_ro@twitter](https://twitter.com/david_dot_ro/status/1693214314126012716) | advertise |
 | [david_ronin2@twitter](https://twitter.com/david_ronin2/status/1590405561316958208) | advertise |
 | [daviskirungi1@twitter](https://twitter.com/daviskirungi1/status/1531061906953338880) | advertise |
 | [Davisonboy1@twitter](https://twitter.com/Davisonboy1/status/1550356313506471938) | advertise |
