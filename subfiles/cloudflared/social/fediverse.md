@@ -22285,7 +22285,7 @@ Here's a list of public Fediverse services.
 | `lasthearth.net` | No |
 | `lastlight.cafe` | No |
 | `lastminute.one` | No |
-| `lastname.nz` | No |
+| `lastname.nz` | Yes |
 | `lastorder.xyz` | Yes |
 | `latavernedejohnjohn.fr` | No |
 | `latech.space` | No |
@@ -42884,6 +42884,7 @@ Here's a list of public Fediverse services.
 | `tsuraine.net` | No |
 | `tsurapoyo.com` | No |
 | `tsuruga.net` | No |
+| `tsuyabashi.dev` | No |
 | `tsuyure.net` | Yes |
 | `tsyesika.se` | No |
 | `tta.wtf` | Yes |
@@ -47461,7 +47462,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,057 |
+| Cloudflare | 13,058 |
 | Normal | 34,356 |
 
 
