@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Inconsistencies with Instagram OSINT template](https://github.com/projectdiscovery/nuclei-templates/issues/8020)
 - [500 Server Error](https://github.com/Azuriom/Azuriom/issues/364)
 - [Add or edit Rust server gives 500 error](https://github.com/Azuriom/Azuriom/issues/363)
 - [cloudflare solved but does not redirect?](https://github.com/FlareSolverr/FlareSolverr/issues/868)
