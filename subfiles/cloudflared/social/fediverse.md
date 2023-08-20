@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,259 |
-| social | 4,484 |
+| social | 4,485 |
 | net | 3,678 |
 | org | 2,473 |
 | de | 2,280 |
@@ -20157,6 +20157,7 @@ Here's a list of public Fediverse services.
 | `jsts.xyz` | Yes |
 | `jstsmthrgk.eu` | Yes |
 | `jswc.de` | Yes |
+| `jsx.social` | Yes |
 | `jtbutcher.co.uk` | Yes |
 | `jtl.vision` | Yes |
 | `jtmn.dev` | Yes |
@@ -47462,7 +47463,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,058 |
+| Cloudflare | 13,059 |
 | Normal | 34,356 |
 
 
