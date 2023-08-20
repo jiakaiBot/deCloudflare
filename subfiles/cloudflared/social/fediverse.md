@@ -4346,6 +4346,7 @@ Here's a list of public Fediverse services.
 | `bierzilla.fr` | No |
 | `biesdorfer.com` | No |
 | `big.mt` | Yes |
+| `bigaston.me` | Yes |
 | `bigbadapple.com` | No |
 | `bigballchunkyverse.online` | No |
 | `bigbeigebox.com` | No |
@@ -47467,7 +47468,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,060 |
+| Cloudflare | 13,061 |
 | Normal | 34,359 |
 
 
