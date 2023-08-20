@@ -924,6 +924,7 @@ Do not create new issue or we will close it as duplicate.
 | [Animegenixplays@twitter](https://twitter.com/Animegenixplays/status/1527492013649559552) | advertise |
 | [animeindy_com@twitter](https://twitter.com/animeindy_com/status/1391468430616797187) | advertise |
 | [Anime_Weeb_360@twitter](https://twitter.com/Anime_Weeb_360/status/1577886644065247233) | advertise |
+| [AnirudhWith@twitter](https://twitter.com/AnirudhWith/status/1693256466650526008) | advertise |
 | [Anisapondan@twitter](https://twitter.com/Anisapondan/status/1403055432973701122) | advertise |
 | [AnitaEv32534378@twitter](https://twitter.com/AnitaEv32534378/status/1539765323372568578) | advertise |
 | [AnjonDas93@twitter](https://twitter.com/AnjonDas93/status/1538531685188268032) | advertise |
@@ -4017,6 +4018,7 @@ Do not create new issue or we will close it as duplicate.
 | [goldenboi199@twitter](https://twitter.com/goldenboi199/status/1619012118401134593) | advertise |
 | [GoldenK45835342@twitter](https://twitter.com/GoldenK45835342/status/1574048018084425728) | advertise |
 | [GoldenT73523612@twitter](https://twitter.com/GoldenT73523612/status/1387635147965485061) | advertise |
+| [GoldMic324209@twitter](https://twitter.com/GoldMic324209/status/1691711336378483020) | advertise |
 | [golf22110@twitter](https://twitter.com/golf22110/status/1606992184791937024) | advertise |
 | [golignews@twitter](https://twitter.com/golignews/status/1601520818466717696) | advertise |
 | [gomdohyon@twitter](https://twitter.com/gomdohyon/status/1562866171799449600) | advertise |
@@ -5224,6 +5226,7 @@ Do not create new issue or we will close it as duplicate.
 | [Inpag_LAB@twitter](https://twitter.com/Inpag_LAB/status/1564890007604707329) | advertise |
 | [Inspirit_134340@twitter](https://twitter.com/Inspirit_134340/status/1384521918397632517) | advertise |
 | [Install_SolarUK@twitter](https://twitter.com/Install_SolarUK/status/1551320631546990593) | advertise |
+| [intelligent_pig@twitter](https://twitter.com/intelligent_pig/status/1693033096872870273) | advertise |
 | [IntentAmplify@twitter](https://twitter.com/IntentAmplify/status/1654566718101159936) | advertise |
 | [InterviewAIApp@twitter](https://twitter.com/InterviewAIApp/status/1681503593046884352) | advertise |
 | [inunglon@twitter](https://twitter.com/inunglon/status/1381237487075356678) | advertise |
