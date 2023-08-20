@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,259 |
 | social | 4,484 |
 | net | 3,678 |
-| org | 2,471 |
+| org | 2,473 |
 | de | 2,280 |
 
 
@@ -12395,6 +12395,7 @@ Here's a list of public Fediverse services.
 | `extwitriates.com` | No |
 | `eybubulle.fr` | No |
 | `eyeofwisdom.org` | No |
+| `eyes4you.org` | No |
 | `eyesight.jp` | No |
 | `eyhoff.de` | No |
 | `eyluldogruel.com` | No |
@@ -28369,6 +28370,7 @@ Here's a list of public Fediverse services.
 | `nate601.me` | Yes |
 | `natedickson.com` | No |
 | `natehiggers.online` | Yes |
+| `natehiggers.org` | No |
 | `natehn.com` | No |
 | `natehub.com` | Yes |
 | `nateledford.com` | Yes |
@@ -40239,7 +40241,7 @@ Here's a list of public Fediverse services.
 | `taintedworld.org` | Yes |
 | `tainton.uk` | Yes |
 | `taiwan.works` | No |
-| `taiwan.wtf` | No |
+| `taiwan.wtf` | Yes |
 | `taiwanmemenews.social` | No |
 | `taiy.me` | Yes |
 | `taiyaki.online` | No |
@@ -45660,6 +45662,7 @@ Here's a list of public Fediverse services.
 | `wkwk.land` | Yes |
 | `wkwkwk.fun` | Yes |
 | `wlabs.de` | No |
+| `wlcx.industries` | Yes |
 | `wltr.pw` | Yes |
 | `wlw.pw` | Yes |
 | `wm-paradise.net` | No |
@@ -47458,8 +47461,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,055 |
-| Normal | 34,355 |
+| Cloudflare | 13,057 |
+| Normal | 34,356 |
 
 
 </details>
