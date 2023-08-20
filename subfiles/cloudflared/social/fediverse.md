@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,259 |
-| social | 4,485 |
+| com | 7,260 |
+| social | 4,486 |
 | net | 3,678 |
 | org | 2,473 |
 | de | 2,280 |
@@ -7609,7 +7609,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -12978,6 +12978,7 @@ Here's a list of public Fediverse services.
 | `fedipress.au` | No |
 | `fedipress.com` | No |
 | `fedir.de` | No |
+| `fedireads.com` | No |
 | `fedirelay.xyz` | Yes |
 | `fedisabled.de` | No |
 | `fedisabled.social` | No |
@@ -13227,6 +13228,7 @@ Here's a list of public Fediverse services.
 | `fetedelamusique.de` | Yes |
 | `fetish.church` | No |
 | `fetishdon.tk` | No |
+| `fetishmen.group` | No |
 | `fetishrealm.xyz` | No |
 | `fetishsocial.club` | No |
 | `fetswing.org` | Yes |
@@ -19490,6 +19492,7 @@ Here's a list of public Fediverse services.
 | `jasper.land` | No |
 | `jastrow.me` | No |
 | `jatan.space` | Yes |
+| `jatm.link` | No |
 | `jauer.it` | No |
 | `jauntygoat.net` | No |
 | `jauntypix.net` | No |
@@ -29479,6 +29482,7 @@ Here's a list of public Fediverse services.
 | `nohomo.gay` | No |
 | `nohost.me` | No |
 | `nohto.net` | No |
+| `noice.social` | No |
 | `noidme.com` | No |
 | `noidorith.net` | No |
 | `noip.me` | No |
@@ -47463,8 +47467,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,059 |
-| Normal | 34,356 |
+| Cloudflare | 13,060 |
+| Normal | 34,359 |
 
 
 </details>
