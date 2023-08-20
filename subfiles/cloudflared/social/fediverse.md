@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,261 |
 | social | 4,486 |
-| net | 3,678 |
+| net | 3,679 |
 | org | 2,473 |
 | de | 2,280 |
 
@@ -5561,6 +5561,7 @@ Here's a list of public Fediverse services.
 | `bruff.me` | No |
 | `brugopen.nl` | No |
 | `bruh.social` | Yes |
+| `bruis.net` | No |
 | `bruitbruit.com` | No |
 | `bruixoles.cat` | No |
 | `bruk.earth` | Yes |
@@ -27543,7 +27544,7 @@ Here's a list of public Fediverse services.
 | `mstdn.chat` | No |
 | `mstdn.cloud` | No |
 | `mstdn.club` | No |
-| `mstdn.co.uk` | No |
+| `mstdn.co.uk` | Yes |
 | `mstdn.com.au` | Yes |
 | `mstdn.cyou` | Yes |
 | `mstdn.design` | Yes |
@@ -47473,7 +47474,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,064 |
+| Cloudflare | 13,065 |
 | Normal | 34,361 |
 
 
