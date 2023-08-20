@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- ["Your code is no longer valid" errors with real-debrid](https://github.com/itsToggle/rclone_RD/issues/42)
+- [Fix "Loading Update" message](https://github.com/ctm/mb2-doc/issues/1206)
 - [Inconsistencies with Instagram OSINT template](https://github.com/projectdiscovery/nuclei-templates/issues/8020)
 - [500 Server Error](https://github.com/Azuriom/Azuriom/issues/364)
 - [Add or edit Rust server gives 500 error](https://github.com/Azuriom/Azuriom/issues/363)
