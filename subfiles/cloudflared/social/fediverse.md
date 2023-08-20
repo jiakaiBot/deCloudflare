@@ -11097,6 +11097,7 @@ Here's a list of public Fediverse services.
 | `ealmuina.xyz` | No |
 | `eamonn.org` | No |
 | `eanske.eu` | No |
+| `ear.li` | No |
 | `ear7h.net` | No |
 | `earfolds.com` | No |
 | `earldouglas.social` | No |
@@ -44313,7 +44314,7 @@ Here's a list of public Fediverse services.
 | `vidja.social` | No |
 | `vidm.co` | No |
 | `vidro.club` | No |
-| `vidrot.com` | No |
+| `vidrot.com` | Yes |
 | `vidy.casa` | No |
 | `vidya.cafe` | Yes |
 | `vidyagam.es` | Yes |
@@ -47446,7 +47447,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,052 |
+| Cloudflare | 13,053 |
 | Normal | 34,346 |
 
 
