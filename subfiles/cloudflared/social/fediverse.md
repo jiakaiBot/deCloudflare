@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,261 |
+| com | 7,263 |
 | social | 4,486 |
 | net | 3,679 |
 | org | 2,473 |
@@ -1044,8 +1044,8 @@ Here's a list of public Fediverse services.
 | `activism.live` | No |
 | `activists.family` | No |
 | `activitypoll.tw` | No |
-| `activitypub-proxy.cf` | Yes |
-| `activitypub-troll.cf` | Yes |
+| `activitypub-proxy.cf` | No |
+| `activitypub-troll.cf` | No |
 | `activitypub.academy` | No |
 | `activitypub.actor` | Yes |
 | `activitypub.be` | No |
@@ -7051,6 +7051,7 @@ Here's a list of public Fediverse services.
 | `ciaranconnelly.com` | No |
 | `ciaranmc.com` | No |
 | `ciberlandia.pt` | No |
+| `cibernautas.club` | No |
 | `ciberneticagerber.it` | No |
 | `cicadas.surf` | No |
 | `cicadaverse.com` | No |
@@ -14543,6 +14544,7 @@ Here's a list of public Fediverse services.
 | `furcon.social` | Yes |
 | `furcurry.co` | No |
 | `furden.co` | No |
+| `furdon.com` | Yes |
 | `furdradon.net` | No |
 | `furest.be` | No |
 | `furf.ag` | No |
@@ -14692,7 +14694,7 @@ Here's a list of public Fediverse services.
 | `fynbo.social` | Yes |
 | `fyralabs.com` | Yes |
 | `fyreblock.com` | No |
-| `fyrefish.co.uk` | No |
+| `fyrefish.co.uk` | Yes |
 | `fyrf.li` | No |
 | `fyrfli.live` | Yes |
 | `fyrfli.social` | No |
@@ -21674,6 +21676,7 @@ Here's a list of public Fediverse services.
 | `koyomi.online` | No |
 | `koyu.space` | Yes |
 | `koyuston.tk` | No |
+| `kozintcev.ru` | No |
 | `kozlovsky.institute` | Yes |
 | `kozow.com` | No |
 | `kozterulethasznalatienge.day` | No |
@@ -27751,6 +27754,7 @@ Here's a list of public Fediverse services.
 | `multinet.ua` | No |
 | `multiplayer-notepad.net` | Yes |
 | `multiple-creature.party` | No |
+| `multiserver.xyz` | No |
 | `multisum.info` | No |
 | `multitasked.net` | Yes |
 | `multiversecast.com` | No |
@@ -32446,7 +32450,7 @@ Here's a list of public Fediverse services.
 | `piweb.be` | No |
 | `pix-n-chill.fr` | No |
 | `pixcture.com` | Yes |
-| `pixel-fed.co.uk` | No |
+| `pixel-fed.co.uk` | Yes |
 | `pixel.kitchen` | No |
 | `pixelart.moe` | Yes |
 | `pixelblaster.ro` | No |
@@ -36366,6 +36370,7 @@ Here's a list of public Fediverse services.
 | `sayhey.site` | No |
 | `sayit.world` | No |
 | `sayitwiththelighton.blog` | Yes |
+| `saykcay.dev` | Yes |
 | `saynoto.lgbt` | No |
 | `sayrf.social` | No |
 | `saysrelax.com` | No |
@@ -38056,6 +38061,7 @@ Here's a list of public Fediverse services.
 | `smashingly.gay` | No |
 | `smashnet.de` | No |
 | `smashtodon.com` | No |
+| `smat-app.com` | Yes |
 | `smatodon.net` | No |
 | `smbcc.org` | Yes |
 | `smbd.jp` | No |
@@ -47474,10 +47480,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,065 |
-| Normal | 34,361 |
+| Cloudflare | 13,068 |
+| Normal | 34,364 |
 
 
 </details>
 
-### 27.5% of public Fediverse services are using Cloudflare.
+### 27.6% of public Fediverse services are using Cloudflare.
