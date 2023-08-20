@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,260 |
+| com | 7,261 |
 | social | 4,486 |
 | net | 3,678 |
 | org | 2,473 |
@@ -5179,7 +5179,7 @@ Here's a list of public Fediverse services.
 | `boozy.social` | No |
 | `bop-it.com` | Yes |
 | `bopinions.de` | No |
-| `bora.army` | No |
+| `bora.army` | Yes |
 | `borahae.love` | No |
 | `borborema.zone` | No |
 | `borderland.tokyo` | No |
@@ -17516,6 +17516,7 @@ Here's a list of public Fediverse services.
 | `holocaustdeprogrammingcourse.com` | No |
 | `holomaplefeline.net` | No |
 | `holomisskey.net` | No |
+| `holoneon.com` | No |
 | `holonet.social` | Yes |
 | `holovaty.com` | No |
 | `holtbruegger.de` | No |
@@ -40977,6 +40978,7 @@ Here's a list of public Fediverse services.
 | `tfwnogf.nl` | No |
 | `tfx.tw` | Yes |
 | `tgj.services` | No |
+| `tgjp.xyz` | No |
 | `tgl.eu` | No |
 | `tgp.jp` | No |
 | `tgqvitter.tk` | No |
@@ -45333,6 +45335,7 @@ Here's a list of public Fediverse services.
 | `whatwaslostisfound.co.uk` | No |
 | `whatyoulike.club` | No |
 | `wheelbearings.media` | No |
+| `whemic.xyz` | No |
 | `when.computer` | No |
 | `whereaboat.rocks` | No |
 | `whereismysupersuit.com` | No |
@@ -46959,6 +46962,7 @@ Here's a list of public Fediverse services.
 | `yys.ink` | No |
 | `yysk.icu` | No |
 | `yyy.scot` | No |
+| `yyy5.cf` | No |
 | `yyyyy.club` | No |
 | `yyyyy.life` | No |
 | `yyyyy.world` | No |
@@ -47469,8 +47473,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,063 |
-| Normal | 34,358 |
+| Cloudflare | 13,064 |
+| Normal | 34,361 |
 
 
 </details>
