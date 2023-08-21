@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,263 |
 | social | 4,486 |
-| net | 3,679 |
+| net | 3,678 |
 | org | 2,473 |
 | de | 2,280 |
 
@@ -5561,7 +5561,6 @@ Here's a list of public Fediverse services.
 | `bruff.me` | No |
 | `brugopen.nl` | No |
 | `bruh.social` | Yes |
-| `bruis.net` | No |
 | `bruitbruit.com` | No |
 | `bruixoles.cat` | No |
 | `bruk.earth` | Yes |
@@ -7612,7 +7611,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -22946,7 +22945,7 @@ Here's a list of public Fediverse services.
 | `libertyaf.io` | No |
 | `libertyblitzkrieg.com` | Yes |
 | `libertylaw.us` | No |
-| `libertymatrix.io` | Yes |
+| `libertymatrix.io` | No |
 | `libertynode.cam` | No |
 | `libertynode.net` | No |
 | `libertynode.tv` | No |
@@ -47482,10 +47481,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,069 |
-| Normal | 34,365 |
+| Cloudflare | 13,067 |
+| Normal | 34,366 |
 
 
 </details>
 
-### 27.6% of public Fediverse services are using Cloudflare.
+### 27.5% of public Fediverse services are using Cloudflare.
