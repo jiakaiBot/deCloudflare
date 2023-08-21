@@ -20030,6 +20030,7 @@ Here's a list of public Fediverse services.
 | `jontyms.com` | Yes |
 | `jonwatson.ca` | No |
 | `joohanv.me` | No |
+| `joohanv.nl` | No |
 | `joojak.net` | No |
 | `jookia.org` | No |
 | `joom.la` | No |
@@ -22921,6 +22922,7 @@ Here's a list of public Fediverse services.
 | `liao.dev` | No |
 | `liaru.link` | No |
 | `liaw.me` | Yes |
+| `lib.lgbt` | No |
 | `libarti.com` | No |
 | `libbie.cloud` | No |
 | `libcore.org` | Yes |
@@ -29693,6 +29695,7 @@ Here's a list of public Fediverse services.
 | `norwoodzero.net` | Yes |
 | `norze.co` | Yes |
 | `norze.world` | No |
+| `norze.xyz` | Yes |
 | `nos.bzh` | No |
 | `nos.pub` | No |
 | `nosceon.net` | Yes |
@@ -47508,8 +47511,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,078 |
-| Normal | 34,382 |
+| Cloudflare | 13,079 |
+| Normal | 34,384 |
 
 
 </details>
