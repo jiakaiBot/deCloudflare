@@ -128,7 +128,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ftp.sh | No |
 | futa.gg | Yes |
 | gac.edu | No |
-| giize.com | Yes |
 | glorydns.com | Yes |
 | gnb09.id | Yes |
 | goldplate.org | Yes |
@@ -335,8 +334,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 159 |
+| Cloudflare | 158 |
 | Normal | 157 |
 
 
-### 50.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
