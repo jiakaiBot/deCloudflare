@@ -36062,6 +36062,7 @@ Here's a list of public Fediverse services.
 | `saitama.one` | Yes |
 | `saiyajin.space` | No |
 | `sakaba.space` | Yes |
+| `sakaki.win` | No |
 | `sakaki333.com` | No |
 | `sakamichi.fun` | Yes |
 | `sakamoto.gq` | No |
@@ -47499,7 +47500,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,074 |
-| Normal | 34,376 |
+| Normal | 34,377 |
 
 
 </details>
