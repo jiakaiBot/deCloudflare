@@ -8223,6 +8223,7 @@ Here's a list of public Fediverse services.
 | `crisiscommons.net` | No |
 | `crisismodel.com` | No |
 | `crisisproof.it` | No |
+| `crispius.ca` | No |
 | `crispo.cf` | No |
 | `crispsandwi.ch` | Yes |
 | `crispycone.social` | Yes |
@@ -47508,7 +47509,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,078 |
-| Normal | 34,381 |
+| Normal | 34,382 |
 
 
 </details>
