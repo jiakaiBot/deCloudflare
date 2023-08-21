@@ -10821,6 +10821,7 @@ Do not create new issue or we will close it as duplicate.
 | [R_107571624@twitter](https://twitter.com/R_107571624/status/1503908534076932097) | advertise |
 | [r_diamondd@twitter](https://twitter.com/r_diamondd/status/1578466623220248576) | advertise |
 | [r_musawir@twitter](https://twitter.com/r_musawir/status/1670765041170239488) | advertise |
+| [r_shatch@twitter](https://twitter.com/r_shatch/status/1693637622143332408) | advertise |
 | [R_Tolksdorf@twitter](https://twitter.com/R_Tolksdorf/status/1646209300128317453) | advertise |
 | [r_wajiha@twitter](https://twitter.com/r_wajiha/status/1618313780244680704) | advertise |
 | [s04365076@twitter](https://twitter.com/s04365076/status/1612814202929922050) | advertise |
