@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,263 |
-| social | 4,486 |
-| net | 3,678 |
-| org | 2,473 |
+| social | 4,487 |
+| net | 3,680 |
+| org | 2,474 |
 | de | 2,280 |
 
 
@@ -2956,6 +2956,7 @@ Here's a list of public Fediverse services.
 | `asselma.eu` | No |
 | `assemblag.es` | No |
 | `assemblylabx.com` | No |
+| `assilvestrar.club` | No |
 | `asso-sterenn.fr` | No |
 | `asso.lgbt` | No |
 | `associated.social` | No |
@@ -5561,6 +5562,7 @@ Here's a list of public Fediverse services.
 | `bruff.me` | No |
 | `brugopen.nl` | No |
 | `bruh.social` | Yes |
+| `bruis.net` | No |
 | `bruitbruit.com` | No |
 | `bruixoles.cat` | No |
 | `bruk.earth` | Yes |
@@ -7787,6 +7789,7 @@ Here's a list of public Fediverse services.
 | `connectop.us` | Yes |
 | `conners.social` | No |
 | `connorbode.me` | Yes |
+| `connrs.uk` | Yes |
 | `connyduck.com` | No |
 | `conoha.cf` | No |
 | `conorab.com` | No |
@@ -15046,6 +15049,7 @@ Here's a list of public Fediverse services.
 | `gdzietakpieknie.party` | No |
 | `gealdor.space` | No |
 | `geanix.com` | No |
+| `gear.pictures` | Yes |
 | `gearfamily.net` | No |
 | `gearheads.social` | Yes |
 | `gearlandia.haus` | Yes |
@@ -32187,6 +32191,7 @@ Here's a list of public Fediverse services.
 | `phoenixradio1208.com` | No |
 | `phoenixtrap.com` | Yes |
 | `phonesare.fun` | No |
+| `phonetown.net` | Yes |
 | `phonghg.fr` | No |
 | `phonolo.gy` | No |
 | `phorophyte.org` | No |
@@ -32921,6 +32926,7 @@ Here's a list of public Fediverse services.
 | `polyglot.city` | No |
 | `polyglot.network` | Yes |
 | `polygon.rocks` | No |
+| `polyhymnia.page` | No |
 | `polylux.xyz` | No |
 | `polymath.net` | Yes |
 | `polymatic.social` | No |
@@ -38103,6 +38109,7 @@ Here's a list of public Fediverse services.
 | `smokymountain.top` | No |
 | `smol.blog` | Yes |
 | `smol.boo` | No |
+| `smol.cafe` | No |
 | `smol.club` | No |
 | `smolhaj.space` | No |
 | `smolkitty.me` | No |
@@ -38386,6 +38393,7 @@ Here's a list of public Fediverse services.
 | `socialtuna.net` | No |
 | `socialturtle.eu` | No |
 | `socialwagrien.de` | No |
+| `socialweb.coop` | Yes |
 | `socialweb.ie` | No |
 | `socialwebtube.com` | No |
 | `socialwith.us` | No |
@@ -38482,6 +38490,7 @@ Here's a list of public Fediverse services.
 | `soli0222.com` | Yes |
 | `solibre.de` | No |
 | `solidaires.org` | No |
+| `solidairesfinancespubliques.org` | No |
 | `solidarite-precaires.net` | No |
 | `solidarite.social` | No |
 | `solidcharity.net` | No |
@@ -40813,6 +40822,7 @@ Here's a list of public Fediverse services.
 | `temporus.me` | No |
 | `tempus.tk` | No |
 | `temsa.me` | No |
+| `ten4ward.social` | No |
 | `tenak.net` | No |
 | `tenca.rs` | No |
 | `tencrux.com` | No |
@@ -43669,6 +43679,7 @@ Here's a list of public Fediverse services.
 | `unordentlich.space` | No |
 | `unorder.xyz` | No |
 | `unperson.us` | No |
+| `unplugd.info` | No |
 | `unpluggedrva.com` | No |
 | `unpopular.cloud` | Yes |
 | `unpopular.me` | Yes |
@@ -43842,6 +43853,7 @@ Here's a list of public Fediverse services.
 | `usbharu.dev` | Yes |
 | `usedbytes.com` | No |
 | `usedom.social` | No |
+| `useless.beauty` | Yes |
 | `useless.one` | No |
 | `uselesslesbian.club` | No |
 | `user.today` | Yes |
@@ -47481,10 +47493,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,067 |
-| Normal | 34,366 |
+| Cloudflare | 13,072 |
+| Normal | 34,373 |
 
 
 </details>
 
-### 27.5% of public Fediverse services are using Cloudflare.
+### 27.6% of public Fediverse services are using Cloudflare.
