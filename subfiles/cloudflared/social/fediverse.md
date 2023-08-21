@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,266 |
+| com | 7,267 |
 | social | 4,490 |
 | net | 3,683 |
 | org | 2,474 |
@@ -47247,6 +47247,7 @@ Here's a list of public Fediverse services.
 | `zhaoxiao.li` | Yes |
 | `zhcode.fun` | Yes |
 | `zhenmei.li` | Yes |
+| `zhenyapav.com` | No |
 | `zhix.in` | Yes |
 | `zho.pa` | No |
 | `zhoal.pw` | Yes |
@@ -47512,7 +47513,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,079 |
-| Normal | 34,384 |
+| Normal | 34,385 |
 
 
 </details>
