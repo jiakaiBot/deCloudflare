@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,263 |
 | social | 4,487 |
-| net | 3,680 |
+| net | 3,681 |
 | org | 2,474 |
 | de | 2,280 |
 
@@ -17617,6 +17617,7 @@ Here's a list of public Fediverse services.
 | `hope-pf27.moe` | Yes |
 | `hope.ooo` | No |
 | `hopefullyread.com` | No |
+| `hopeinthefield.net` | No |
 | `hopeph.com` | Yes |
 | `hopman.nl` | No |
 | `hopmann.xyz` | No |
@@ -39165,6 +39166,7 @@ Here's a list of public Fediverse services.
 | `starry.day` | No |
 | `starry.ml` | No |
 | `starrycocoon.ml` | No |
+| `stars.ne.jp` | No |
 | `starshard.studio` | No |
 | `starshines.xyz` | Yes |
 | `starship.coffee` | No |
@@ -47494,7 +47496,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,072 |
-| Normal | 34,373 |
+| Normal | 34,375 |
 
 
 </details>
