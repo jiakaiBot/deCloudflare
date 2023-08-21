@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,263 |
-| social | 4,489 |
-| net | 3,682 |
+| com | 7,266 |
+| social | 4,490 |
+| net | 3,683 |
 | org | 2,474 |
 | de | 2,280 |
 
@@ -1559,6 +1559,7 @@ Here's a list of public Fediverse services.
 | `aldiserver.de` | Yes |
 | `aldr.garden` | No |
 | `aldr.social` | No |
+| `aldragon.net` | No |
 | `aldude999.net` | No |
 | `alduino.xyz` | Yes |
 | `ale-elements.ml` | No |
@@ -2349,6 +2350,7 @@ Here's a list of public Fediverse services.
 | `antisocial.zone` | Yes |
 | `antispecisme.net` | No |
 | `antiterf.club` | No |
+| `antiterf.com` | No |
 | `antivaxxer.icu` | No |
 | `antiwar.com` | No |
 | `antizuckbook.com` | No |
@@ -3783,6 +3785,7 @@ Here's a list of public Fediverse services.
 | `barrowof.gay` | No |
 | `barrucadu.co.uk` | No |
 | `barry-moore-ii.com` | No |
+| `barryfrost.com` | Yes |
 | `barrygrahamauthor.site` | No |
 | `barrytlu.com` | No |
 | `barsanti.xyz` | No |
@@ -5819,6 +5822,7 @@ Here's a list of public Fediverse services.
 | `bw3.dev` | No |
 | `bwa.social` | No |
 | `bwfinch.com` | Yes |
+| `bwlng.com` | Yes |
 | `bwnet.it` | No |
 | `bwoodford.xyz` | No |
 | `bwpost.online` | No |
@@ -9813,6 +9817,7 @@ Here's a list of public Fediverse services.
 | `devolver.social` | No |
 | `devonrjohnson.stream` | No |
 | `devontechnologies.com` | No |
+| `devops.pizza` | No |
 | `devopsdays.org` | Yes |
 | `devopsdays.social` | Yes |
 | `devopsgenius.com` | No |
@@ -10678,6 +10683,7 @@ Here's a list of public Fediverse services.
 | `dragonsnest.online` | No |
 | `dragontavern.social` | Yes |
 | `dragontoot.me` | No |
+| `dragontrove.fun` | Yes |
 | `dragoofamily.com` | No |
 | `drahflow.name` | No |
 | `draine.rs` | No |
@@ -11125,6 +11131,7 @@ Here's a list of public Fediverse services.
 | `easfrq.live` | No |
 | `east17.org` | No |
 | `eastback.co.jp` | No |
+| `easter.fr` | No |
 | `eastman.tech` | No |
 | `eastmetrocommunitymusic.org` | No |
 | `easy-mastodon.de` | Yes |
@@ -44772,6 +44779,7 @@ Here's a list of public Fediverse services.
 | `vyizis.tech` | Yes |
 | `vymazal.com` | No |
 | `vymazal.social` | No |
+| `vyos.social` | Yes |
 | `vypni.net` | No |
 | `vypr.space` | No |
 | `vyrse.social` | No |
@@ -47499,8 +47507,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,074 |
-| Normal | 34,377 |
+| Cloudflare | 13,078 |
+| Normal | 34,381 |
 
 
 </details>
