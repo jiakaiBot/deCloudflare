@@ -30,8 +30,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,263 |
-| social | 4,487 |
-| net | 3,681 |
+| social | 4,489 |
+| net | 3,682 |
 | org | 2,474 |
 | de | 2,280 |
 
@@ -7613,7 +7613,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -28078,6 +28078,7 @@ Here's a list of public Fediverse services.
 | `myronland.com` | No |
 | `myrvog.net` | No |
 | `mysacredaltar.com` | No |
+| `myself.social` | No |
 | `myselfdot.work` | No |
 | `myselfhosted.net` | Yes |
 | `myserv.one` | Yes |
@@ -29994,7 +29995,7 @@ Here's a list of public Fediverse services.
 | `nulltrading.com` | No |
 | `nullwhere.social` | No |
 | `nullzone.fr` | No |
-| `nuls.dev` | No |
+| `nuls.dev` | Yes |
 | `nulun.net` | Yes |
 | `nulvoid.net` | Yes |
 | `numaverse.com` | No |
@@ -30333,6 +30334,7 @@ Here's a list of public Fediverse services.
 | `off.li` | Yes |
 | `offby1.net` | No |
 | `offcorp.ca` | No |
+| `offdem.net` | No |
 | `offenes.tv` | No |
 | `offerman.com` | No |
 | `offf.online` | No |
@@ -35444,6 +35446,7 @@ Here's a list of public Fediverse services.
 | `rogersfam.co` | Yes |
 | `roggenkamp.social` | No |
 | `rogue-net.work` | No |
+| `rogue-scholar.social` | No |
 | `roguecorp.space` | Yes |
 | `roguecycle.net` | No |
 | `roguelabs.tech` | No |
@@ -47495,8 +47498,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,072 |
-| Normal | 34,375 |
+| Cloudflare | 13,074 |
+| Normal | 34,376 |
 
 
 </details>
