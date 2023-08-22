@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Invalid authentication error](https://github.com/taarskog/home-assistant-component-somweb/issues/16)
 - [Buffer is not defined](https://github.com/emotion-js/emotion/issues/3102)
 - [Buffer is not defined](https://github.com/mui/material-ui/issues/38596)
 - [R2 requires all non-trailing parts must have the same length](https://github.com/apache/incubator-opendal/issues/2904)
