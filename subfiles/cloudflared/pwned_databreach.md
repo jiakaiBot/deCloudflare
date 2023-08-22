@@ -65,6 +65,7 @@ Here's a list of breached sites.
 | AstroPID (Astropid) | 5,788 | No |
 | Aternos | 1,436,486 | Yes |
 | AtlasQuantum (Atlas Quantum) | 261,463 | No |
+| Atmeltomo | 580,177 | No |
 | Audi | 2,743,539 | Yes |
 | Autocentrum (Autocentrum.pl) | 143,717 | Yes |
 | Autotrader | 20,032 | Yes |
@@ -686,9 +687,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 375 | 3,964,122,166 |
-| Normal | 289 | 4,956,784,070 |
+| Normal | 290 | 4,957,364,247 |
 
 
 
-### 56.5% of breached sites (pwned sites) are using Cloudflare.
+### 56.4% of breached sites (pwned sites) are using Cloudflare.
 ### 44.4% of leaked accounts are on Cloudflare sites.
