@@ -692,6 +692,7 @@ Do not create new issue or we will close it as duplicate.
 | [Allis98048947@twitter](https://twitter.com/Allis98048947/status/1396348863519371272) | advertise |
 | [all_aludu@twitter](https://twitter.com/all_aludu/status/1689482368288169984) | advertise |
 | [AlmakLimited@twitter](https://twitter.com/AlmakLimited/status/1400534263007678464) | advertise |
+| [almaska10498513@twitter](https://twitter.com/almaska10498513/status/1693940471666802781) | advertise |
 | [almodaris@twitter](https://twitter.com/almodaris/status/1599436861390192641) | advertise |
 | [almohanad_7rb@twitter](https://twitter.com/almohanad_7rb/status/1396993015231750147) | advertise |
 | [almoodela@twitter](https://twitter.com/almoodela/status/1636060183162937352) | advertise |
@@ -2996,6 +2997,7 @@ Do not create new issue or we will close it as duplicate.
 | [discree17928848@twitter](https://twitter.com/discree17928848/status/1610265362272256005) | advertise |
 | [DishaDidi3@twitter](https://twitter.com/DishaDidi3/status/1387742143855222790) | advertise |
 | [disinfeqt@twitter](https://twitter.com/disinfeqt/status/1669928164737560577) | advertise |
+| [DiuthnhChu1@twitter](https://twitter.com/DiuthnhChu1/status/1693928032682332671) | advertise |
 | [Divinity113@twitter](https://twitter.com/Divinity113/status/1665874511810420737) | advertise |
 | [divy83381142@twitter](https://twitter.com/divy83381142/status/1405595079176196100) | advertise |
 | [DiyokeCelestine@twitter](https://twitter.com/DiyokeCelestine/status/1602692664956227584) | advertise |
@@ -3973,6 +3975,7 @@ Do not create new issue or we will close it as duplicate.
 | [gindaGill9@twitter](https://twitter.com/gindaGill9/status/1377649793418297345) | advertise |
 | [ginduz@twitter](https://twitter.com/ginduz/status/1584450584610230272) | advertise |
 | [gingerbon7@twitter](https://twitter.com/gingerbon7/status/1583648337953460224) | advertise |
+| [GingerichJt@twitter](https://twitter.com/GingerichJt/status/1693925482717139222) | advertise |
 | [GinTl112@twitter](https://twitter.com/GinTl112/status/1392572589084606465) | advertise |
 | [Gio32429382@twitter](https://twitter.com/Gio32429382/status/1399756747972173830) | advertise |
 | [Giorga113@twitter](https://twitter.com/Giorga113/status/1404012205373280257) | advertise |
@@ -11305,6 +11308,7 @@ Do not create new issue or we will close it as duplicate.
 | [shemale_addict1@twitter](https://twitter.com/shemale_addict1/status/1490090426036101120) | advertise |
 | [shemky_@twitter](https://twitter.com/shemky_/status/1551341618485006336) | advertise |
 | [ShemWachira1@twitter](https://twitter.com/ShemWachira1/status/1540728454328377352) | advertise |
+| [shenteams@twitter](https://twitter.com/shenteams/status/1693852890857951360) | advertise |
 | [SherifMKhattab1@twitter](https://twitter.com/SherifMKhattab1/status/1403105134972837893) | advertise |
 | [shhrwin@twitter](https://twitter.com/shhrwin/status/1380867620811857922) | advertise |
 | [Shimi061203@twitter](https://twitter.com/Shimi061203/status/1539426706880012288) | advertise |
@@ -12831,6 +12835,7 @@ Do not create new issue or we will close it as duplicate.
 | [trantha20482812@twitter](https://twitter.com/trantha20482812/status/1620812004268318726) | advertise |
 | [Trantha51229117@twitter](https://twitter.com/Trantha51229117/status/1555136963715698689) | advertise |
 | [tranthanhb59038@twitter](https://twitter.com/tranthanhb59038/status/1690657978037555200) | advertise |
+| [TranThi42672744@twitter](https://twitter.com/TranThi42672744/status/1693919639783546984) | advertise |
 | [trantie92872403@twitter](https://twitter.com/trantie92872403/status/1485623018823258115) | advertise |
 | [trantinh98@twitter](https://twitter.com/trantinh98/status/1551127415405297664) | advertise |
 | [TranTua00316518@twitter](https://twitter.com/TranTua00316518/status/1503265835145904128) | advertise |
