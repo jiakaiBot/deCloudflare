@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,270 |
-| social | 4,493 |
+| social | 4,494 |
 | net | 3,684 |
 | org | 2,475 |
 | de | 2,284 |
@@ -33714,6 +33714,7 @@ Here's a list of public Fediverse services.
 | `puyo.jp` | No |
 | `puyosuki.com` | Yes |
 | `puz.fun` | No |
+| `puzich.social` | No |
 | `puzzled.cc` | No |
 | `puzzling.org` | No |
 | `pvesys.de` | No |
@@ -47537,7 +47538,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,089 |
-| Normal | 34,399 |
+| Normal | 34,400 |
 
 
 </details>
