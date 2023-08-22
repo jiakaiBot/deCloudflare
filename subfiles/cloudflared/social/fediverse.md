@@ -10568,6 +10568,7 @@ Here's a list of public Fediverse services.
 | `dorset.social` | Yes |
 | `dorsey.io` | No |
 | `doseofnews.com` | No |
+| `doserver.top` | Yes |
 | `dosgame.club` | No |
 | `doshi.re` | No |
 | `doshidon.com` | No |
@@ -31937,6 +31938,7 @@ Here's a list of public Fediverse services.
 | `pelegri.es` | No |
 | `pelica.net` | Yes |
 | `peliculaspro.net` | Yes |
+| `pelitutkimus.fi` | No |
 | `pelliphant.social` | No |
 | `pelzfeld.com` | No |
 | `pelzi-online.net` | No |
@@ -34083,6 +34085,7 @@ Here's a list of public Fediverse services.
 | `r-sauna.fi` | No |
 | `r-sky.jp` | No |
 | `r-tekne.net` | No |
+| `r.town` | No |
 | `r000t.com` | Yes |
 | `r00t.ch` | Yes |
 | `r00ted.com` | No |
@@ -47543,8 +47546,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,093 |
-| Normal | 34,402 |
+| Cloudflare | 13,094 |
+| Normal | 34,404 |
 
 
 </details>
