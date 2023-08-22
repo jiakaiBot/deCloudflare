@@ -19,6 +19,7 @@ MitiGator can help you preventing sharing inaccessible links.
   - [Report a problem / Create an Issue](altlink.md#report-a-problem-create-an-issue)
   - [Settings](altlink.md#settings)
   - [Download PNG Logo](altlink.md#download-png-logo)
+  - [The Difference between MitiGator and MGLite](altlink.md#the-difference-between-mitigator-and-mglite)
 
 
 ----
@@ -52,11 +53,15 @@ For the record "_CloudflareLink_" was moved to other Mastodon servers 3 times an
 The main difference of AltLink is `opt-in`.
 Those people who [share Cloudflare links casually](../cloudflared/social/shared_mastodon.md) never receive notification until they have a good heart and follow AL.
 
+Initially this bot's name was `AltLink`. It was changed to `MitiGator`.
+
 
 ### How to Subscribe
 
-1. **Follow** the [AltLink Account](https://101010.pl/@mg). (if you [do not have Mastodon account](https://101010.pl/invite/txvFuk9h))
-  - Some instances such as [mastodon.social](https://github.com/mastodon/mastodon/issues/16480) are blocking Altlink.
+Below steps is for MitiGator and not MGLite.
+
+1. **Follow** the [MitiGator Account](https://101010.pl/@mg). (if you [do not have Mastodon account](https://101010.pl/invite/txvFuk9h))
+  - Some instances such as [mastodon.social](https://github.com/mastodon/mastodon/issues/16480) are blocking MitiGator.
 
 2. Send _any text_ as **direct** ("Mentioned people only") message to above account.
   - e.g. `@mg follow`
@@ -146,8 +151,25 @@ The mascot wears a referee top and red sash across chest. Above the shield is 'M
 | ![](../../image/mitigatorC01.png) | ![](../../image/mitigatorC02.png) | ![](../../image/mitigatorC03.png) | ![](../../image/mitigatorC04.png) |
 
 
+### The Difference between MitiGator and MGLite
 
----
+MGLite is a lite version of MitiGator. It provides one basic feature - notify you about Cloudflare.
+
+It also have following difference:
+
+| ? | MitiGator | MGLite |
+| -- | -- | -- |
+| _How to Subscribe_<br>_Require send DM after follow_ | ✔️ | ❌ |
+| _Reply Message as_ | `Direct` | `Unlisted` |
+| _Boosted post: Mention original poster_ | ❌ | ✔️ |
+| _Customisable Options_ | ✔️ | ❌ |
+
+- Currently MGLite is hosted on:
+  - https://social.mypdns.org
+- 📣 If you are **Mastodon admin** and want to serve MGLite to your instant users contact us!
+
+
+----
 
 - Mastodon servers are controlled by third party.
   - Let us know if above account is censored by aggressive Cloudflare supporters.
