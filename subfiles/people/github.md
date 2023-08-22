@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [New error when running main](https://github.com/hawolt/league-client-api/issues/7)
 - [LBank v2 create_order() doesn't throw errors for unsuccessful orders](https://github.com/ccxt/ccxt/issues/18969)
 - [Invalid authentication error](https://github.com/taarskog/home-assistant-component-somweb/issues/16)
 - [Buffer is not defined](https://github.com/emotion-js/emotion/issues/3102)
