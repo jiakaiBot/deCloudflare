@@ -652,6 +652,7 @@ Do not create new issue or we will close it as duplicate.
 | [aliboom20@twitter](https://twitter.com/aliboom20/status/1685256331807322114) | advertise |
 | [AliceTan79@twitter](https://twitter.com/AliceTan79/status/1392949021661007872) | advertise |
 | [AliFcb21@twitter](https://twitter.com/AliFcb21/status/1568562935999463428) | advertise |
+| [alifersito@twitter](https://twitter.com/alifersito/status/1693837360872542536) | advertise |
 | [AlifIsamuddin@twitter](https://twitter.com/AlifIsamuddin/status/1522192276067590144) | advertise |
 | [alifzr97@twitter](https://twitter.com/alifzr97/status/1555974450767855617) | advertise |
 | [AliGonabadi@twitter](https://twitter.com/AliGonabadi/status/1549781271680892928) | advertise |
