@@ -7622,7 +7622,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -31938,7 +31938,6 @@ Here's a list of public Fediverse services.
 | `pelegri.es` | No |
 | `pelica.net` | Yes |
 | `peliculaspro.net` | Yes |
-| `pelitutkimus.fi` | No |
 | `pelliphant.social` | No |
 | `pelzfeld.com` | No |
 | `pelzi-online.net` | No |
@@ -34085,7 +34084,6 @@ Here's a list of public Fediverse services.
 | `r-sauna.fi` | No |
 | `r-sky.jp` | No |
 | `r-tekne.net` | No |
-| `r.town` | No |
 | `r000t.com` | Yes |
 | `r00t.ch` | Yes |
 | `r00ted.com` | No |
@@ -47546,8 +47544,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,094 |
-| Normal | 34,404 |
+| Cloudflare | 13,095 |
+| Normal | 34,401 |
 
 
 </details>
