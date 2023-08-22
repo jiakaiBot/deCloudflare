@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [R2 requires all non-trailing parts must have the same length](https://github.com/apache/incubator-opendal/issues/2904)
+- [Cloudflare worker: Buffer is not defined](https://github.com/remix-run/remix/issues/7223)
+- [wasm-crypto not loading in environments where wasm-unsafe-eval CSP is not allowed](https://github.com/polkadot-js/wasm/issues/538)
 - [Error sending post to Weblog](https://github.com/RickStrahl/MarkdownMonster/issues/1061)
 - [You are unable to access ???](https://github.com/pengzhile/pandora/issues/1316)
 - [Unable to retrieve most files using helia in the browser](https://github.com/ipfs/helia/issues/243)
