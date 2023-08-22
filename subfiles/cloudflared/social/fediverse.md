@@ -7892,6 +7892,7 @@ Here's a list of public Fediverse services.
 | `coolsocial.club` | No |
 | `coolstarship.blog` | No |
 | `cooltux.net` | No |
+| `coolviruses.download` | Yes |
 | `coolworld.cc` | No |
 | `coom.club` | No |
 | `coon.town` | Yes |
@@ -19084,6 +19085,7 @@ Here's a list of public Fediverse services.
 | `isoladellerose.social` | No |
 | `isolated.actor` | Yes |
 | `isoliertaber.online` | No |
+| `isolinear.space` | No |
 | `isometry.black` | No |
 | `isometry.group` | No |
 | `isonomia.net` | No |
@@ -47527,8 +47529,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,086 |
-| Normal | 34,393 |
+| Cloudflare | 13,087 |
+| Normal | 34,394 |
 
 
 </details>
