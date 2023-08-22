@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,269 |
-| social | 4,492 |
+| com | 7,270 |
+| social | 4,493 |
 | net | 3,684 |
-| org | 2,474 |
-| de | 2,283 |
+| org | 2,475 |
+| de | 2,284 |
 
 
 - Mastodon, Pleroma, etc
@@ -423,6 +423,7 @@ Here's a list of public Fediverse services.
 | `3615.computer` | Yes |
 | `3644859.xyz` | Yes |
 | `36c.nl` | No |
+| `36photos.de` | No |
 | `386898.xyz` | Yes |
 | `39.gy` | Yes |
 | `39sounds.net` | No |
@@ -7275,6 +7276,7 @@ Here's a list of public Fediverse services.
 | `closednetwork.social` | Yes |
 | `closetoya.com` | Yes |
 | `closeuprussia.com` | Yes |
+| `cloth.social` | No |
 | `clothesp.in` | No |
 | `cloud-ace.jp` | Yes |
 | `cloud-cyber.net` | Yes |
@@ -12939,6 +12941,7 @@ Here's a list of public Fediverse services.
 | `fedida.com` | Yes |
 | `fedidb.org` | Yes |
 | `fedidex.net` | Yes |
+| `fedidig.com` | No |
 | `fedieuropa.eu` | No |
 | `fedifeed.net` | Yes |
 | `fedifence.social` | No |
@@ -26484,6 +26487,7 @@ Here's a list of public Fediverse services.
 | `minidi.sc` | No |
 | `minidisc.rocks` | No |
 | `minidisc.tokyo` | No |
+| `minidon.one` | No |
 | `minidot.social` | No |
 | `minihost.ovh` | No |
 | `minimal.blue` | No |
@@ -36313,6 +36317,7 @@ Here's a list of public Fediverse services.
 | `sarilho.net` | Yes |
 | `sarjant.social` | No |
 | `sarkastic.org` | No |
+| `sarmento.org` | Yes |
 | `saronno.one` | No |
 | `sarsenij.ch` | No |
 | `sarsworld.eu` | No |
@@ -47531,8 +47536,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,088 |
-| Normal | 34,395 |
+| Cloudflare | 13,089 |
+| Normal | 34,399 |
 
 
 </details>
