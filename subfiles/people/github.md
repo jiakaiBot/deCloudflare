@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Sometimes people (or at least one person) can't login, and we don't do a great job of surfacing that](https://github.com/PennyDreadfulMTG/Penny-Dreadful-Tools/issues/11625)
 - [New error when running main](https://github.com/hawolt/league-client-api/issues/7)
 - [LBank v2 create_order() doesn't throw errors for unsuccessful orders](https://github.com/ccxt/ccxt/issues/18969)
 - [Invalid authentication error](https://github.com/taarskog/home-assistant-component-somweb/issues/16)
