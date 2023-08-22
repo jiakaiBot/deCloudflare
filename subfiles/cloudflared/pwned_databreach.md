@@ -190,6 +190,7 @@ Here's a list of breached sites.
 | DuelingNetwork (Dueling Network) | 6,486,626 | No |
 | Dunzo | 3,465,259 | Yes |
 | Duowan (Duowan.com) | 2,639,894 | Yes |
+| ECCIE | 536,923 | No |
 | EPal (E-Pal) | 108,887 | Yes |
 | EatStreet | 6,353,564 | No |
 | Eatigo | 2,789,609 | Yes |
@@ -685,9 +686,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 375 | 3,964,122,166 |
-| Normal | 288 | 4,956,247,147 |
+| Normal | 289 | 4,956,784,070 |
 
 
 
-### 56.6% of breached sites (pwned sites) are using Cloudflare.
+### 56.5% of breached sites (pwned sites) are using Cloudflare.
 ### 44.4% of leaked accounts are on Cloudflare sites.
