@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,269 |
-| social | 4,491 |
+| social | 4,492 |
 | net | 3,684 |
 | org | 2,474 |
 | de | 2,283 |
@@ -28992,6 +28992,7 @@ Here's a list of public Fediverse services.
 | `newsinside.org` | No |
 | `newskey.cc` | Yes |
 | `newsmast.org` | No |
+| `newsmast.social` | No |
 | `newsmastodon.com` | No |
 | `newsmovies.online` | No |
 | `newsocial.tech` | Yes |
@@ -37680,6 +37681,7 @@ Here's a list of public Fediverse services.
 | `simon-koester.de` | No |
 | `simon816.com` | No |
 | `simoncook.org` | Yes |
+| `simongreenwood.me.uk` | Yes |
 | `simonhardwick.com` | No |
 | `simonjon.es` | No |
 | `simonlucas.social` | No |
@@ -47529,8 +47531,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,087 |
-| Normal | 34,394 |
+| Cloudflare | 13,088 |
+| Normal | 34,395 |
 
 
 </details>
