@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,491 |
 | net | 3,684 |
 | org | 2,474 |
-| de | 2,282 |
+| de | 2,283 |
 
 
 - Mastodon, Pleroma, etc
@@ -14713,6 +14713,7 @@ Here's a list of public Fediverse services.
 | `fyrfli.live` | Yes |
 | `fyrfli.social` | No |
 | `fyyd.de` | No |
+| `fz-juelich.de` | No |
 | `fzmn.blog` | Yes |
 | `fzry.us` | No |
 | `g-fukurowl.club` | No |
@@ -17356,7 +17357,7 @@ Here's a list of public Fediverse services.
 | `hispagatos.space` | No |
 | `hispanilandia.net` | No |
 | `hispashare.com` | Yes |
-| `hispatodon.club` | Yes |
+| `hispatodon.club` | No |
 | `hisso.li` | No |
 | `histoirescrepues.fr` | No |
 | `historiador.nom.es` | No |
@@ -17521,7 +17522,7 @@ Here's a list of public Fediverse services.
 | `holi.social` | Yes |
 | `holistichackers.org` | Yes |
 | `hollablog.at` | No |
-| `hollandsepod.nl` | No |
+| `hollandsepod.nl` | Yes |
 | `hollings.io` | Yes |
 | `holllo.org` | Yes |
 | `hollow.capital` | No |
@@ -42588,7 +42589,7 @@ Here's a list of public Fediverse services.
 | `transcortex.social` | No |
 | `transden.lgbt` | No |
 | `transfem.org` | No |
-| `transfem.social` | No |
+| `transfem.social` | Yes |
 | `transformacion.social` | No |
 | `transforthe.win` | Yes |
 | `transfur.online` | No |
@@ -46086,7 +46087,7 @@ Here's a list of public Fediverse services.
 | `x10host.com` | Yes |
 | `x1337x.fr` | No |
 | `x1a.net` | Yes |
-| `x220.co.uk` | No |
+| `x220.co.uk` | Yes |
 | `x2592.com` | No |
 | `x27.one` | No |
 | `x2a.io` | Yes |
@@ -47526,8 +47527,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,084 |
-| Normal | 34,394 |
+| Cloudflare | 13,086 |
+| Normal | 34,393 |
 
 
 </details>
