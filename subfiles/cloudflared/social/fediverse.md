@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,268 |
-| social | 4,490 |
+| com | 7,269 |
+| social | 4,491 |
 | net | 3,684 |
 | org | 2,474 |
-| de | 2,280 |
+| de | 2,282 |
 
 
 - Mastodon, Pleroma, etc
@@ -971,6 +971,7 @@ Here's a list of public Fediverse services.
 | `academycity.studio` | No |
 | `acadiageeks.com` | No |
 | `acapi.net` | No |
+| `acb.social` | No |
 | `acc.gs` | Yes |
 | `acc4e.com` | No |
 | `accela.online` | Yes |
@@ -4674,6 +4675,7 @@ Here's a list of public Fediverse services.
 | `blackbrigade.org` | No |
 | `blackcanediary.com` | No |
 | `blackcat.ca` | Yes |
+| `blackcat.cx` | Yes |
 | `blackcat.guru` | Yes |
 | `blackcat.town` | No |
 | `blackcord.de` | Yes |
@@ -12617,6 +12619,7 @@ Here's a list of public Fediverse services.
 | `famjam.social` | Yes |
 | `famkos.net` | No |
 | `famline.ru` | Yes |
+| `famtrebels.de` | No |
 | `fanaticus.social` | No |
 | `fanbois.tech` | No |
 | `fanboys.social` | No |
@@ -21276,6 +21279,7 @@ Here's a list of public Fediverse services.
 | `kitty.systems` | Yes |
 | `kitty.town` | No |
 | `kittycat.homes` | No |
+| `kittyrin-playground.com` | No |
 | `kittyunpretty.com` | No |
 | `kittyverse.co` | No |
 | `kitunetya-ya-mastdom.com` | No |
@@ -22684,6 +22688,7 @@ Here's a list of public Fediverse services.
 | `lemmygrad.ml` | No |
 | `lemmyhub.com` | No |
 | `lemmyjapan.com` | No |
+| `lemmyloves.art` | Yes |
 | `lemmymemes.com` | No |
 | `lemmyngs.social` | No |
 | `lemmyngton.au` | No |
@@ -25642,7 +25647,7 @@ Here's a list of public Fediverse services.
 | `mcmillian.me` | No |
 | `mcmullan.org` | Yes |
 | `mcnamarii.town` | No |
-| `mcnas.tk` | No |
+| `mcnas.tk` | Yes |
 | `mcncraftodon.site` | No |
 | `mcnesium.com` | No |
 | `mcoorlim.com` | No |
@@ -27215,6 +27220,7 @@ Here's a list of public Fediverse services.
 | `moratoriamu.net` | Yes |
 | `mordicux.xyz` | No |
 | `mordor.social` | No |
+| `more.me` | No |
 | `moreati.org.uk` | No |
 | `morebeautifully.com` | No |
 | `morehammer.uk` | No |
@@ -27716,6 +27722,7 @@ Here's a list of public Fediverse services.
 | `mtx.cx` | Yes |
 | `mtxyz.me` | No |
 | `mtzlr.io` | No |
+| `mu-ori.me` | No |
 | `mu7ou.com` | No |
 | `muage.org` | No |
 | `mublog.nl` | No |
@@ -31316,6 +31323,7 @@ Here's a list of public Fediverse services.
 | `oxhead.dev` | No |
 | `oxidized.systems` | No |
 | `oxlajujqanil.net` | No |
+| `oxom.de` | Yes |
 | `oxus.net` | Yes |
 | `oxygen.pub` | No |
 | `oxytodon.com` | No |
@@ -33814,7 +33822,7 @@ Here's a list of public Fediverse services.
 | `qixto.com` | No |
 | `qkjr.xyz` | No |
 | `qkka.org` | No |
-| `qlemmy.com` | No |
+| `qlemmy.com` | Yes |
 | `qlink.social` | No |
 | `qlyoung.net` | No |
 | `qnmd.info` | No |
@@ -47518,8 +47526,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,079 |
-| Normal | 34,391 |
+| Cloudflare | 13,084 |
+| Normal | 34,394 |
 
 
 </details>
