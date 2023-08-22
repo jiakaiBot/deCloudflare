@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,267 |
+| com | 7,268 |
 | social | 4,490 |
-| net | 3,683 |
+| net | 3,684 |
 | org | 2,474 |
 | de | 2,280 |
 
@@ -5114,6 +5114,7 @@ Here's a list of public Fediverse services.
 | `bonnay.info` | No |
 | `bonnbay.com` | No |
 | `bonobo.net` | No |
+| `bonzi.uk` | No |
 | `bonzoesc.net` | Yes |
 | `booba.bar` | No |
 | `boobalar.net` | No |
@@ -26914,6 +26915,7 @@ Here's a list of public Fediverse services.
 | `mochiandtea.com` | No |
 | `mochimochi-planet.com` | Yes |
 | `mochitodon.com` | No |
+| `mochitter.net` | Yes |
 | `mochiwasa.online` | No |
 | `mochiwasa.xyz` | No |
 | `mochiwasadon.com` | Yes |
@@ -30099,6 +30101,7 @@ Here's a list of public Fediverse services.
 | `nyadobe.online` | No |
 | `nyago.cyou` | Yes |
 | `nyahyun.com` | Yes |
+| `nyaight.me` | Yes |
 | `nyan.cafe` | No |
 | `nyan.im` | Yes |
 | `nyan.in` | Yes |
@@ -32275,6 +32278,7 @@ Here's a list of public Fediverse services.
 | `piconic.co` | Yes |
 | `picote.ch` | No |
 | `pics.mu` | No |
+| `picsuki.com` | Yes |
 | `pictic.nl` | Yes |
 | `pictochat.net` | No |
 | `pictogram.social` | No |
@@ -43051,6 +43055,7 @@ Here's a list of public Fediverse services.
 | `turtle.garden` | No |
 | `turtle.pizza` | No |
 | `turtleapparel.eu` | No |
+| `turtleisland.art` | No |
 | `turtleisland.social` | No |
 | `turtletoot.us` | No |
 | `turtton.net` | Yes |
@@ -47512,8 +47517,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,079 |
-| Normal | 34,385 |
+| Cloudflare | 13,082 |
+| Normal | 34,387 |
 
 
 </details>
