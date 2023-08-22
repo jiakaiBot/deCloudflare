@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Buffer is not defined](https://github.com/emotion-js/emotion/issues/3102)
+- [Buffer is not defined](https://github.com/mui/material-ui/issues/38596)
 - [R2 requires all non-trailing parts must have the same length](https://github.com/apache/incubator-opendal/issues/2904)
 - [Cloudflare worker: Buffer is not defined](https://github.com/remix-run/remix/issues/7223)
 - [wasm-crypto not loading in environments where wasm-unsafe-eval CSP is not allowed](https://github.com/polkadot-js/wasm/issues/538)
