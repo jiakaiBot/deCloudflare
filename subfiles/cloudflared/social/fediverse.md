@@ -7618,7 +7618,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -26453,7 +26453,7 @@ Here's a list of public Fediverse services.
 | `minecloud.ro` | No |
 | `minecodes.de` | Yes |
 | `minecraft-pe.lol` | No |
-| `minecraft.gg` | Yes |
+| `minecraft.gg` | No |
 | `minecraftanarquia.xyz` | Yes |
 | `minecrafty.tk` | No |
 | `minedol12.tk` | No |
@@ -31132,6 +31132,7 @@ Here's a list of public Fediverse services.
 | `otonomedia.org` | No |
 | `otos.red` | No |
 | `otoya.space` | Yes |
+| `otr.rocks` | No |
 | `otrared.es` | No |
 | `ots.social` | No |
 | `otsoku.me` | No |
@@ -34911,7 +34912,7 @@ Here's a list of public Fediverse services.
 | `republa.lv` | No |
 | `republa.net` | No |
 | `republic.red` | Yes |
-| `republicofmayhem.xyz` | Yes |
+| `republicofmayhem.xyz` | No |
 | `republicofthieves.org` | No |
 | `republik.ch` | Yes |
 | `reputatio.us` | No |
@@ -47517,8 +47518,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,082 |
-| Normal | 34,387 |
+| Cloudflare | 13,079 |
+| Normal | 34,391 |
 
 
 </details>
