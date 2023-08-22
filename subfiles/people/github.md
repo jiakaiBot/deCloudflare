@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [remix won't start on nixos with cloudflare pages as deployment](https://github.com/remix-run/remix/issues/7232)
 - [Sometimes people (or at least one person) can't login, and we don't do a great job of surfacing that](https://github.com/PennyDreadfulMTG/Penny-Dreadful-Tools/issues/11625)
 - [New error when running main](https://github.com/hawolt/league-client-api/issues/7)
 - [LBank v2 create_order() doesn't throw errors for unsuccessful orders](https://github.com/ccxt/ccxt/issues/18969)
