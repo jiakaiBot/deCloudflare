@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,270 |
-| social | 4,494 |
-| net | 3,684 |
+| com | 7,271 |
+| social | 4,496 |
+| net | 3,685 |
 | org | 2,475 |
 | de | 2,284 |
 
@@ -12192,6 +12192,7 @@ Here's a list of public Fediverse services.
 | `etwas42.de` | No |
 | `etwg.xyz` | No |
 | `etxetik.org` | Yes |
+| `eu-bots.net` | Yes |
 | `eu5.org` | No |
 | `eug.social` | No |
 | `eugasser.com` | No |
@@ -17070,6 +17071,7 @@ Here's a list of public Fediverse services.
 | `hendry.id` | Yes |
 | `hengsha.host` | No |
 | `henkkalaukka.fi` | No |
+| `henlo.fi` | Yes |
 | `henny.mobi` | No |
 | `henrick.co` | No |
 | `henrick.me` | No |
@@ -26456,6 +26458,7 @@ Here's a list of public Fediverse services.
 | `mindofjoe.xyz` | No |
 | `mindoki.com` | No |
 | `mindpalace.io` | Yes |
+| `minds.com` | Yes |
 | `minds.io` | Yes |
 | `mindsforge.com` | No |
 | `mindshare.space` | No |
@@ -28442,6 +28445,7 @@ Here's a list of public Fediverse services.
 | `natrinicle.com` | No |
 | `natsu.page` | No |
 | `natsushyo.me` | No |
+| `natter.social` | Yes |
 | `natter.wtf` | No |
 | `natterati.com` | No |
 | `nattois.life` | No |
@@ -28468,6 +28472,7 @@ Here's a list of public Fediverse services.
 | `nauka.moe` | No |
 | `naumi.capetown` | No |
 | `naut.ca` | Yes |
+| `nautical.social` | No |
 | `nautik.io` | No |
 | `nautik.social` | No |
 | `nauzome.com` | Yes |
@@ -43479,6 +43484,7 @@ Here's a list of public Fediverse services.
 | `ulysses.app` | No |
 | `um-pudding.de` | No |
 | `uma-aji.com` | Yes |
+| `umaikebab.xyz` | No |
 | `umainfo.live` | No |
 | `umamusu.me` | Yes |
 | `umany222.net` | No |
@@ -47537,8 +47543,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,089 |
-| Normal | 34,400 |
+| Cloudflare | 13,093 |
+| Normal | 34,402 |
 
 
 </details>
