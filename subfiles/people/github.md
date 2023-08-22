@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error sending post to Weblog](https://github.com/RickStrahl/MarkdownMonster/issues/1061)
 - [You are unable to access ???](https://github.com/pengzhile/pandora/issues/1316)
 - [Unable to retrieve most files using helia in the browser](https://github.com/ipfs/helia/issues/243)
 - ["Your code is no longer valid" errors with real-debrid](https://github.com/itsToggle/rclone_RD/issues/42)
