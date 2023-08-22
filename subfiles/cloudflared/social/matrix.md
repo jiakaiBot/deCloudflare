@@ -26,7 +26,9 @@ Here's a list of public Matrix services.
 | riot.allmende.io | No |
 | alternanet.fr | No |
 | matrix.archaeo.social | No |
+| aria.im | No |
 | matrix.bachgau.social | No |
+| matrix.badstuebner.biz | No |
 | synapse.bark.lgbt | Yes |
 | bolha.chat | Yes |
 | breeze.town | No |
@@ -40,6 +42,7 @@ Here's a list of public Matrix services.
 | matrix-client.comm.cx | Yes |
 | matrix.community.rs | Yes |
 | converser.eu | No |
+| matrix.cyberfurz.chat | No |
 | matrix.data.coop | No |
 | matrix.data.haus | No |
 | im.deuxfleurs.fr | No |
@@ -73,6 +76,7 @@ Here's a list of public Matrix services.
 | matrix.libreon.fr | No |
 | matrix.llamarific.social | No |
 | lugnsk.org | No |
+| mailstation.de | No |
 | matrix.im | No |
 | matrix.org | Yes |
 | matrix.monero.social | No |
@@ -104,6 +108,7 @@ Here's a list of public Matrix services.
 | tomesh.net | No |
 | ungleich.matrix.ungleich.cloud | No |
 | unita.online | No |
+| matrix.unredacted.org | Yes |
 | usesarchbtw.lol | Yes |
 | matrix.snt.utwente.nl | No |
 | matrix.virto.community | Yes |
@@ -117,8 +122,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 21 |
-| Normal | 69 |
+| Cloudflare | 22 |
+| Normal | 73 |
 
 
-### 23.3% of public Matrix services are using Cloudflare.
+### 23.2% of public Matrix services are using Cloudflare.
