@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,275 |
+| com | 7,276 |
 | social | 4,496 |
 | net | 3,685 |
 | org | 2,475 |
@@ -7627,7 +7627,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7927,6 +7927,7 @@ Here's a list of public Fediverse services.
 | `corbinnet.com` | Yes |
 | `cord.de` | No |
 | `cordelya.net` | Yes |
+| `cordfuck.com` | No |
 | `corduba.tech` | No |
 | `corduroy.biz` | Yes |
 | `cordx.cx` | Yes |
@@ -30075,7 +30076,7 @@ Here's a list of public Fediverse services.
 | `nuventure.team` | No |
 | `nuvenzinha.me` | No |
 | `nuwa.co` | No |
-| `nuwardia.xyz` | No |
+| `nuwardia.xyz` | Yes |
 | `nuwasocial.com` | No |
 | `nuwus.org` | No |
 | `nuwwi.net` | No |
@@ -34201,7 +34202,7 @@ Here's a list of public Fediverse services.
 | `radig.social` | No |
 | `radikal.social` | No |
 | `radio.af` | Yes |
-| `radio.fm` | Yes |
+| `radio.fm` | No |
 | `radio614.org` | No |
 | `radioaconchego.org` | No |
 | `radioalmaina.org` | No |
@@ -38679,7 +38680,7 @@ Here's a list of public Fediverse services.
 | `soundfury.net` | No |
 | `soundmod.social` | Yes |
 | `soundship.de` | No |
-| `soup6020.dev` | No |
+| `soup6020.dev` | Yes |
 | `soupco.net` | Yes |
 | `souper.dev` | Yes |
 | `souperk.gr` | No |
@@ -38799,7 +38800,7 @@ Here's a list of public Fediverse services.
 | `sparkforge.pro` | Yes |
 | `sparklef.art` | No |
 | `sparkles.cafe` | No |
-| `sparklesin.space` | No |
+| `sparklesin.space` | Yes |
 | `sparkpc.xyz` | No |
 | `sparksammy.com` | Yes |
 | `sparkspace.online` | No |
@@ -42566,6 +42567,7 @@ Here's a list of public Fediverse services.
 | `tr4sh.net` | No |
 | `tr4sk.me` | No |
 | `traboone.com` | Yes |
+| `trabus322.eu` | Yes |
 | `trabus322.tk` | Yes |
 | `trace-and-traceability.org` | No |
 | `trachsel.org` | No |
@@ -47559,8 +47561,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,100 |
-| Normal | 34,411 |
+| Cloudflare | 13,104 |
+| Normal | 34,409 |
 
 
 </details>
