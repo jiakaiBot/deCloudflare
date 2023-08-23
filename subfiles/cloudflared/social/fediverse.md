@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,496 |
 | net | 3,685 |
 | org | 2,475 |
-| de | 2,284 |
+| de | 2,285 |
 
 
 - Mastodon, Pleroma, etc
@@ -310,6 +310,7 @@ Here's a list of public Fediverse services.
 | `1xx.io` | Yes |
 | `1z2.net` | No |
 | `2-blog.net` | No |
+| `2000cho.me` | Yes |
 | `20011012.xyz` | Yes |
 | `2017derby.biz` | No |
 | `20320514.com` | No |
@@ -7388,6 +7389,7 @@ Here's a list of public Fediverse services.
 | `cmx.im` | Yes |
 | `cmx.rocks` | No |
 | `cmzi.uk` | Yes |
+| `cn.tc` | No |
 | `cncn.ch` | No |
 | `cncs.io` | No |
 | `cnet.site` | Yes |
@@ -13695,6 +13697,7 @@ Here's a list of public Fediverse services.
 | `flutue.in` | Yes |
 | `flux.eus` | No |
 | `fluxfox.dev` | Yes |
+| `flw5.de` | No |
 | `flx.cat` | No |
 | `flxi.uk` | Yes |
 | `fly.dev` | No |
@@ -29307,7 +29310,7 @@ Here's a list of public Fediverse services.
 | `nirvanet.org` | Yes |
 | `nisa.cat` | No |
 | `niscii.xyz` | Yes |
-| `nishi.boats` | No |
+| `nishi.boats` | Yes |
 | `nishimin.com` | No |
 | `nishimin.net` | Yes |
 | `nishinomiya.in.net` | No |
@@ -31938,6 +31941,7 @@ Here's a list of public Fediverse services.
 | `pelegri.es` | No |
 | `pelica.net` | Yes |
 | `peliculaspro.net` | Yes |
+| `pelitutkimus.fi` | No |
 | `pelliphant.social` | No |
 | `pelzfeld.com` | No |
 | `pelzi-online.net` | No |
@@ -34084,6 +34088,7 @@ Here's a list of public Fediverse services.
 | `r-sauna.fi` | No |
 | `r-sky.jp` | No |
 | `r-tekne.net` | No |
+| `r.town` | No |
 | `r000t.com` | Yes |
 | `r00t.ch` | Yes |
 | `r00ted.com` | No |
@@ -41240,6 +41245,7 @@ Here's a list of public Fediverse services.
 | `thedesk.top` | No |
 | `thedevil.online` | No |
 | `thedimpau.se` | No |
+| `thedirtydis.co` | Yes |
 | `thedisco.social` | No |
 | `thediscussion.site` | No |
 | `thedixons.net` | Yes |
@@ -43512,6 +43518,7 @@ Here's a list of public Fediverse services.
 | `umiamz.me` | Yes |
 | `umicat.de` | No |
 | `umickey.dev` | Yes |
+| `umigame.xyz` | No |
 | `umikaki.net` | Yes |
 | `umirin.me` | No |
 | `umisskey.com` | Yes |
@@ -46990,6 +46997,7 @@ Here's a list of public Fediverse services.
 | `yuru.moe` | Yes |
 | `yuru.site` | Yes |
 | `yuru.studio` | Yes |
+| `yurucat.me` | Yes |
 | `yuruchara.info` | Yes |
 | `yurusanp.org` | Yes |
 | `yurut.name` | Yes |
@@ -47544,8 +47552,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,095 |
-| Normal | 34,401 |
+| Cloudflare | 13,099 |
+| Normal | 34,405 |
 
 
 </details>
