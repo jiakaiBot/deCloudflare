@@ -190,6 +190,7 @@ Here's a list of breached sites.
 | DucksUnlimited (Ducks Unlimited) | 1,324,364 | No |
 | DuelingNetwork (Dueling Network) | 6,486,626 | No |
 | Dunzo | 3,465,259 | Yes |
+| Duolingo | 2,676,696 | Yes |
 | Duowan (Duowan.com) | 2,639,894 | Yes |
 | ECCIE | 536,923 | No |
 | EPal (E-Pal) | 108,887 | Yes |
@@ -686,10 +687,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 375 | 3,964,122,166 |
+| Cloudflare | 376 | 3,966,798,862 |
 | Normal | 290 | 4,957,364,247 |
 
 
 
-### 56.4% of breached sites (pwned sites) are using Cloudflare.
-### 44.4% of leaked accounts are on Cloudflare sites.
+### 56.5% of breached sites (pwned sites) are using Cloudflare.
+### 44.5% of leaked accounts are on Cloudflare sites.
