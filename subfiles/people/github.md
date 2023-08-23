@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Question: How long keepalive persists in resolvers over TCP?](https://github.com/folbricht/routedns/issues/324)
+- [unexpected token < in JSON at position 0](https://github.com/giorgi-o/SkinPeek/issues/93)
 - [remix won't start on nixos with cloudflare pages as deployment](https://github.com/remix-run/remix/issues/7232)
 - [Sometimes people (or at least one person) can't login, and we don't do a great job of surfacing that](https://github.com/PennyDreadfulMTG/Penny-Dreadful-Tools/issues/11625)
 - [New error when running main](https://github.com/hawolt/league-client-api/issues/7)
