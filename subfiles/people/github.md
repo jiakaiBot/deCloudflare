@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Write EPIPE Error](https://github.com/ryand56/r2-upload-action/issues/286)
+- [I do not know how to set AName in cloudflare](https://github.com/aws-amplify/amplify-hosting/issues/3666)
 - [Edge runtime desteği: Can't resolve 'fs'](https://github.com/iyzico/iyzipay-node/issues/112)
 - [HMR not working with CloudFlare Workers template](https://github.com/remix-run/remix/issues/7240)
 - [Setup with docker-compose and Cloudflare Tunnel](https://github.com/migueldemoura/myazo/issues/45)
