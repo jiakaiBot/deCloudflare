@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Setup with docker-compose and Cloudflare Tunnel](https://github.com/migueldemoura/myazo/issues/45)
 - [Istio fails resolving wild-card IngressGateway with SSL Termination](https://github.com/istio/istio/issues/46655)
 - [Error 405 when sending email](https://github.com/Sh4yy/vercel-email/issues/3)
 - [Question: How long keepalive persists in resolvers over TCP?](https://github.com/folbricht/routedns/issues/324)
