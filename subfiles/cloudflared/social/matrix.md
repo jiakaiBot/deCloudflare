@@ -92,7 +92,6 @@ Here's a list of public Matrix services.
 | possum.city | Yes |
 | pragma-messenger.ch | No |
 | www.privacytools.io | Yes |
-| matrix.pub.solar | No |
 | radiowarnerd.org | No |
 | riotchat.de | Yes |
 | ru-matrix.org | No |
@@ -121,7 +120,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 21 |
-| Normal | 72 |
+| Normal | 71 |
 
 
-### 22.6% of public Matrix services are using Cloudflare.
+### 22.8% of public Matrix services are using Cloudflare.
