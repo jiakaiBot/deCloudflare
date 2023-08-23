@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Istio fails resolving wild-card IngressGateway with SSL Termination](https://github.com/istio/istio/issues/46655)
 - [Error 405 when sending email](https://github.com/Sh4yy/vercel-email/issues/3)
 - [Question: How long keepalive persists in resolvers over TCP?](https://github.com/folbricht/routedns/issues/324)
 - [unexpected token < in JSON at position 0](https://github.com/giorgi-o/SkinPeek/issues/93)
