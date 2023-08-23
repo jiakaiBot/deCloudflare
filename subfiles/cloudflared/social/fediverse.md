@@ -7226,7 +7226,7 @@ Here's a list of public Fediverse services.
 | `cleverangel.org` | No |
 | `cleverdevil.club` | No |
 | `clew.lol` | No |
-| `clic2000.net` | Yes |
+| `clic2000.net` | No |
 | `click.ba.it` | Yes |
 | `clickomania.ch` | No |
 | `cliff.social` | Yes |
@@ -7624,7 +7624,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -31941,7 +31941,6 @@ Here's a list of public Fediverse services.
 | `pelegri.es` | No |
 | `pelica.net` | Yes |
 | `peliculaspro.net` | Yes |
-| `pelitutkimus.fi` | No |
 | `pelliphant.social` | No |
 | `pelzfeld.com` | No |
 | `pelzi-online.net` | No |
@@ -47552,8 +47551,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,099 |
-| Normal | 34,405 |
+| Cloudflare | 13,097 |
+| Normal | 34,406 |
 
 
 </details>
