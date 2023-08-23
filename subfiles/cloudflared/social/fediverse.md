@@ -20540,7 +20540,7 @@ Here's a list of public Fediverse services.
 | `kalik.in` | Yes |
 | `kalimataya.com` | No |
 | `kallelaine.com` | Yes |
-| `kallestruik.nl` | No |
+| `kallestruik.nl` | Yes |
 | `kalli.st` | No |
 | `kalmar.social` | No |
 | `kalterwinter.info` | No |
@@ -21682,6 +21682,7 @@ Here's a list of public Fediverse services.
 | `kotakuinaction.org` | No |
 | `kotaro.me` | Yes |
 | `kotaro.work` | Yes |
+| `kotatsu.cafe` | No |
 | `kotatsu.jp` | No |
 | `koteidenwa.uk` | Yes |
 | `koteitan.com` | No |
@@ -22925,7 +22926,7 @@ Here's a list of public Fediverse services.
 | `lgbtqiaplus.eu` | Yes |
 | `lgbtqplus.social` | Yes |
 | `lgm.ltd` | No |
-| `lgnt.eu` | No |
+| `lgnt.eu` | Yes |
 | `lgtm.systems` | No |
 | `lgtspd.net` | Yes |
 | `lguruprasad.in` | No |
@@ -47567,8 +47568,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,108 |
-| Normal | 34,411 |
+| Cloudflare | 13,110 |
+| Normal | 34,410 |
 
 
 </details>
