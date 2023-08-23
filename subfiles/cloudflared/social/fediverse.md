@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,276 |
+| com | 7,277 |
 | social | 4,496 |
 | net | 3,685 |
 | org | 2,476 |
@@ -11905,6 +11905,7 @@ Here's a list of public Fediverse services.
 | `enyutech.social` | No |
 | `enzan.org` | No |
 | `enzel.me` | Yes |
+| `eo-note.com` | No |
 | `eocial.com` | No |
 | `eodai.net` | No |
 | `eole.education` | No |
@@ -18081,6 +18082,7 @@ Here's a list of public Fediverse services.
 | `i11l.blog` | Yes |
 | `i18n.social` | No |
 | `i226.net` | Yes |
+| `i234.me` | No |
 | `i2p.rocks` | No |
 | `i32.eu` | No |
 | `i3x.cx` | No |
@@ -47569,7 +47571,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,110 |
-| Normal | 34,410 |
+| Normal | 34,412 |
 
 
 </details>
