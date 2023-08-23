@@ -30539,6 +30539,7 @@ Here's a list of public Fediverse services.
 | `oldgraygamer.com` | Yes |
 | `oldinternet.net` | No |
 | `oldkid.digital` | No |
+| `oldos.me` | No |
 | `oldpeople.cafe` | No |
 | `oldr.uk` | Yes |
 | `olds.town` | No |
@@ -41002,6 +41003,7 @@ Here's a list of public Fediverse services.
 | `testbits.org` | No |
 | `testchamber.one` | Yes |
 | `tester.social` | Yes |
+| `testeraphy.cf` | Yes |
 | `testfrif.de` | No |
 | `testifi.es` | No |
 | `testimonia.org` | No |
@@ -47561,8 +47563,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,104 |
-| Normal | 34,409 |
+| Cloudflare | 13,105 |
+| Normal | 34,410 |
 
 
 </details>
