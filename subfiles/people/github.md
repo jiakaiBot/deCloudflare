@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issue with clickshare](https://github.com/Installomator/Installomator/issues/1182)
 - [Support for edge functions (Cloudflare's new connect() API)](https://github.com/redis/node-redis/issues/2603)
 - [Write EPIPE Error](https://github.com/ryand56/r2-upload-action/issues/286)
 - [I do not know how to set AName in cloudflare](https://github.com/aws-amplify/amplify-hosting/issues/3666)
