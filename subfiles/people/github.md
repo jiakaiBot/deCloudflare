@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error 405 when sending email](https://github.com/Sh4yy/vercel-email/issues/3)
 - [Question: How long keepalive persists in resolvers over TCP?](https://github.com/folbricht/routedns/issues/324)
 - [unexpected token < in JSON at position 0](https://github.com/giorgi-o/SkinPeek/issues/93)
 - [remix won't start on nixos with cloudflare pages as deployment](https://github.com/remix-run/remix/issues/7232)
