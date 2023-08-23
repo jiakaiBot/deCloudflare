@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Edge runtime desteği: Can't resolve 'fs'](https://github.com/iyzico/iyzipay-node/issues/112)
+- [HMR not working with CloudFlare Workers template](https://github.com/remix-run/remix/issues/7240)
 - [Setup with docker-compose and Cloudflare Tunnel](https://github.com/migueldemoura/myazo/issues/45)
 - [Istio fails resolving wild-card IngressGateway with SSL Termination](https://github.com/istio/istio/issues/46655)
 - [Error 405 when sending email](https://github.com/Sh4yy/vercel-email/issues/3)
