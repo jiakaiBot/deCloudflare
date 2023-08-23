@@ -7178,6 +7178,7 @@ Here's a list of public Fediverse services.
 | `clac.link` | No |
 | `clacks.eu` | No |
 | `clacks.link` | No |
+| `clacks.network` | No |
 | `clacks.social` | Yes |
 | `claes.se` | Yes |
 | `claes.social` | No |
@@ -47571,7 +47572,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,110 |
-| Normal | 34,412 |
+| Normal | 34,413 |
 
 
 </details>
