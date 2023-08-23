@@ -32,8 +32,8 @@ Here's a list of public Fediverse services.
 | com | 7,276 |
 | social | 4,496 |
 | net | 3,685 |
-| org | 2,475 |
-| de | 2,286 |
+| org | 2,476 |
+| de | 2,287 |
 
 
 - Mastodon, Pleroma, etc
@@ -1612,7 +1612,7 @@ Here's a list of public Fediverse services.
 | `alexjamesconrad.com` | No |
 | `alexjanka.com` | No |
 | `alexjyong.dev` | No |
-| `alexkeating.me` | No |
+| `alexkeating.me` | Yes |
 | `alexmasters.com` | No |
 | `alexme.online` | No |
 | `alexme.ru` | No |
@@ -1764,6 +1764,7 @@ Here's a list of public Fediverse services.
 | `almere.social` | No |
 | `almeroth.com` | No |
 | `almonds.gq` | No |
+| `almutspaeth.de` | No |
 | `alnair.blue` | No |
 | `alochana.net` | No |
 | `aloha-pink.monster` | No |
@@ -7532,6 +7533,7 @@ Here's a list of public Fediverse services.
 | `coffeechat.social` | No |
 | `coffeechords.com` | No |
 | `coffeeeldritch.art` | No |
+| `coffeehack.org` | No |
 | `coffeehouse.institute` | Yes |
 | `coffeese.net` | Yes |
 | `coffeesurge.com` | No |
@@ -14846,6 +14848,7 @@ Here's a list of public Fediverse services.
 | `game-create-mastodon.com` | No |
 | `game-files.net` | No |
 | `game-tecx.de` | No |
+| `gameboycamera.club` | Yes |
 | `gamebubble.eu` | No |
 | `gamechat.social` | No |
 | `gamecluster.net` | No |
@@ -31524,6 +31527,7 @@ Here's a list of public Fediverse services.
 | `pandainthecloud.de` | No |
 | `pandala.org` | Yes |
 | `pandanet.moe` | No |
+| `pandapa.ws` | Yes |
 | `pandapla.net` | No |
 | `pandas.cafe` | No |
 | `pandas.social` | Yes |
@@ -47563,8 +47567,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,105 |
-| Normal | 34,410 |
+| Cloudflare | 13,108 |
+| Normal | 34,411 |
 
 
 </details>
