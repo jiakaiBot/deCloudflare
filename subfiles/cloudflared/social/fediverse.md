@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,272 |
+| com | 7,275 |
 | social | 4,496 |
 | net | 3,685 |
 | org | 2,475 |
-| de | 2,285 |
+| de | 2,286 |
 
 
 - Mastodon, Pleroma, etc
@@ -1921,6 +1921,7 @@ Here's a list of public Fediverse services.
 | `ambrosia.cafe` | Yes |
 | `ambrosia.moe` | No |
 | `amd.im` | Yes |
+| `amd.sh` | Yes |
 | `amdjml.com` | Yes |
 | `amdor.social` | No |
 | `amdyes.fun` | Yes |
@@ -2924,6 +2925,7 @@ Here's a list of public Fediverse services.
 | `askboon.com` | Yes |
 | `askesis.pl` | No |
 | `askk.cc` | Yes |
+| `askleo.com` | Yes |
 | `asko.blog` | No |
 | `asko.dev` | No |
 | `asliceoffootball.com` | No |
@@ -5194,6 +5196,7 @@ Here's a list of public Fediverse services.
 | `borderland.tokyo` | No |
 | `borderlandkeep.com` | No |
 | `borderlands.social` | No |
+| `borderline.city` | No |
 | `bordom.net` | No |
 | `boredom.land` | No |
 | `bores.com` | No |
@@ -9919,6 +9922,7 @@ Here's a list of public Fediverse services.
 | `diableco.com` | No |
 | `diablocanyon1.com` | No |
 | `diablocanyon2.com` | No |
+| `diacrown.com` | No |
 | `diafri.social` | No |
 | `diagonalley.club` | No |
 | `dialectica.red` | No |
@@ -18773,6 +18777,7 @@ Here's a list of public Fediverse services.
 | `instance.digital` | No |
 | `instanzfreun.de` | Yes |
 | `instaporn.org` | Yes |
+| `instaschnack.de` | No |
 | `instawp.xyz` | Yes |
 | `instigation.fr` | No |
 | `instinctd.com` | No |
@@ -31942,6 +31947,7 @@ Here's a list of public Fediverse services.
 | `pelegri.es` | No |
 | `pelica.net` | Yes |
 | `peliculaspro.net` | Yes |
+| `pelitutkimus.fi` | No |
 | `pelliphant.social` | No |
 | `pelzfeld.com` | No |
 | `pelzi-online.net` | No |
@@ -41726,6 +41732,7 @@ Here's a list of public Fediverse services.
 | `thomasknoll.info` | No |
 | `thomasott.io` | Yes |
 | `thomaspreece.net` | Yes |
+| `thomaswdufour.com` | No |
 | `thomaswebb.net` | No |
 | `thomaswictor.com` | No |
 | `thomaszwirner.de` | No |
@@ -47552,8 +47559,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,098 |
-| Normal | 34,406 |
+| Cloudflare | 13,100 |
+| Normal | 34,411 |
 
 
 </details>
