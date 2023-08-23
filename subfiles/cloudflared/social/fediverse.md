@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,271 |
+| com | 7,272 |
 | social | 4,496 |
 | net | 3,685 |
 | org | 2,475 |
@@ -16467,6 +16467,7 @@ Here's a list of public Fediverse services.
 | `hackerspace.pl` | No |
 | `hackerspace.zone` | No |
 | `hackerspaces.be` | No |
+| `hackertalks.com` | Yes |
 | `hackertribe.io` | No |
 | `hackerverse.social` | No |
 | `hackerzlab.net` | No |
@@ -47551,7 +47552,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,097 |
+| Cloudflare | 13,098 |
 | Normal | 34,406 |
 
 
