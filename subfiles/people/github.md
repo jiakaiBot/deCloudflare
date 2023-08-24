@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [cert-manager: ix-cert-manager operator can be installed alongside old cert-manager operator](https://github.com/truecharts/charts/issues/11855)
 - [Error from Softech](https://github.com/Sanalogi/NFCREAD-Android-SDK-Example/issues/3)
 - [Error from Softech](https://github.com/Sanalogi/FaceRecognition-WebApi/issues/1)
 - [Getting bad gateway when trying to login through GitHub](https://github.com/Infisical/infisical/issues/893)
