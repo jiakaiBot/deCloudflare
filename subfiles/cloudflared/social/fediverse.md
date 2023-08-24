@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,277 |
 | social | 4,496 |
 | net | 3,686 |
-| org | 2,477 |
+| org | 2,476 |
 | de | 2,287 |
 
 
@@ -7630,7 +7630,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -32672,7 +32672,6 @@ Here's a list of public Fediverse services.
 | `plantsand.coffee` | No |
 | `planz.asia` | No |
 | `plapperbu.de` | No |
-| `plaseo.org` | No |
 | `plasmatrap.com` | Yes |
 | `plasticmodels.tokyo` | No |
 | `plataformess.org` | No |
@@ -47574,8 +47573,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,106 |
-| Normal | 34,420 |
+| Cloudflare | 13,107 |
+| Normal | 34,418 |
 
 
 </details>
