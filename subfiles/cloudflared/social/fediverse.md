@@ -33792,6 +33792,7 @@ Here's a list of public Fediverse services.
 | `pyra.sh` | No |
 | `pyraster.fr` | No |
 | `pyrate.capital` | No |
+| `pyratt.sh` | No |
 | `pyrignis.fr` | No |
 | `pyrope.net` | No |
 | `pyrosome.social` | No |
@@ -47574,7 +47575,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,110 |
-| Normal | 34,415 |
+| Normal | 34,416 |
 
 
 </details>
