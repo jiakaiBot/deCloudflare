@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,280 |
-| social | 4,500 |
+| com | 7,282 |
+| social | 4,501 |
 | net | 3,688 |
-| org | 2,477 |
+| org | 2,478 |
 | de | 2,288 |
 
 
@@ -9223,6 +9223,7 @@ Here's a list of public Fediverse services.
 | `davecarson.dev` | No |
 | `davecheney.com` | No |
 | `davehologram.com` | No |
+| `davejansen.com` | Yes |
 | `daveking.app` | No |
 | `davepeck.org` | No |
 | `davesnider.com` | No |
@@ -10861,6 +10862,7 @@ Here's a list of public Fediverse services.
 | `dscloud.me` | No |
 | `dscloud.mobi` | No |
 | `dscw.fr` | Yes |
+| `dsemy.com` | No |
 | `dshk.pro` | No |
 | `dshm.me` | No |
 | `dshr.org` | No |
@@ -14785,7 +14787,7 @@ Here's a list of public Fediverse services.
 | `gabrielsirilan.com` | Yes |
 | `gabrielwilson.me` | No |
 | `gabskent.de` | Yes |
-| `gabut.social` | Yes |
+| `gabut.social` | No |
 | `gabwith.me` | No |
 | `gabytron.me` | No |
 | `gac.edu` | No |
@@ -24717,6 +24719,7 @@ Here's a list of public Fediverse services.
 | `marschik.me` | No |
 | `marsey.club` | No |
 | `marsey.moe` | No |
+| `marsfreeradio.org` | No |
 | `marshall.house` | No |
 | `marstodon.com` | No |
 | `marsupialgurgle.com` | Yes |
@@ -44062,6 +44065,7 @@ Here's a list of public Fediverse services.
 | `v112.space` | No |
 | `v1p3rhax.com` | Yes |
 | `v1x3n.net` | No |
+| `v2.social` | Yes |
 | `v2br.social` | No |
 | `v2x.org` | Yes |
 | `v3g.de` | No |
@@ -47596,8 +47600,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,113 |
-| Normal | 34,435 |
+| Cloudflare | 13,114 |
+| Normal | 34,438 |
 
 
 </details>
