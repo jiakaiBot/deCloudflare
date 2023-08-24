@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,277 |
 | social | 4,496 |
 | net | 3,686 |
-| org | 2,477 |
+| org | 2,476 |
 | de | 2,287 |
 
 
@@ -7630,7 +7630,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -11591,7 +11591,7 @@ Here's a list of public Fediverse services.
 | `elie.ski` | Yes |
 | `eliirving.blog` | No |
 | `eliitin-some.fi` | No |
-| `eliittimafia.fi` | Yes |
+| `eliittimafia.fi` | No |
 | `elijahr.dev` | Yes |
 | `elijahs.space` | Yes |
 | `eliko.ga` | Yes |
@@ -13357,7 +13357,7 @@ Here's a list of public Fediverse services.
 | `fightforinfo.com` | No |
 | `fightforthefuture.org` | Yes |
 | `fightthis.net` | Yes |
-| `fightxing.com` | Yes |
+| `fightxing.com` | No |
 | `fignuts.net` | No |
 | `figureskating.online` | Yes |
 | `fihlon.swiss` | No |
@@ -21257,7 +21257,7 @@ Here's a list of public Fediverse services.
 | `kishkush.net` | No |
 | `kisombrella.top` | No |
 | `kisskori.eu` | No |
-| `kisslolis.moe` | Yes |
+| `kisslolis.moe` | No |
 | `kissyourhomies.com` | No |
 | `kistler.social` | No |
 | `kitadon.com` | No |
@@ -32672,7 +32672,6 @@ Here's a list of public Fediverse services.
 | `plantsand.coffee` | No |
 | `planz.asia` | No |
 | `plapperbu.de` | No |
-| `plaseo.org` | No |
 | `plasmatrap.com` | Yes |
 | `plasticmodels.tokyo` | No |
 | `plataformess.org` | No |
@@ -47574,8 +47573,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,110 |
-| Normal | 34,416 |
+| Cloudflare | 13,106 |
+| Normal | 34,419 |
 
 
 </details>
