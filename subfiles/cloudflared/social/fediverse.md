@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,277 |
-| social | 4,496 |
+| com | 7,279 |
+| social | 4,498 |
 | net | 3,686 |
-| org | 2,476 |
-| de | 2,287 |
+| org | 2,477 |
+| de | 2,288 |
 
 
 - Mastodon, Pleroma, etc
@@ -9357,6 +9357,7 @@ Here's a list of public Fediverse services.
 | `deadbolt.social` | Yes |
 | `deadbsd.org` | Yes |
 | `deadbyte.is` | No |
+| `deadcode.website` | No |
 | `deadcomputer.online` | No |
 | `deadendahead.com` | No |
 | `deadgnu.org` | No |
@@ -15034,6 +15035,7 @@ Here's a list of public Fediverse services.
 | `gaypirates.club` | Yes |
 | `gaypxrn.de` | No |
 | `gayrobot.club` | No |
+| `gays.lgbt` | No |
 | `gayweeb.vip` | No |
 | `gazeley.uk` | No |
 | `gazeta.mx` | No |
@@ -22375,6 +22377,7 @@ Here's a list of public Fediverse services.
 | `laurakalbag.com` | No |
 | `lauraritchie.com` | No |
 | `laurelmail.net` | Yes |
+| `laurenshof.online` | No |
 | `laurentclaude.fr` | No |
 | `laurenweinstein.org` | No |
 | `laurinweger.de` | No |
@@ -25576,6 +25579,7 @@ Here's a list of public Fediverse services.
 | `maxocull.com` | No |
 | `maxodon.com` | No |
 | `maxoid.io` | No |
+| `maxpumpe.de` | No |
 | `maxservices.wf` | No |
 | `maxsocial.me` | No |
 | `maxsons.org` | No |
@@ -26217,6 +26221,7 @@ Here's a list of public Fediverse services.
 | `michaelhans.com` | No |
 | `michaelhofer.ch` | No |
 | `michaeljdeeb.com` | Yes |
+| `michaelkupietz.com` | No |
 | `michaelofstjoseph.com` | No |
 | `michaeloldroyd.co.uk` | Yes |
 | `michaelp.info` | No |
@@ -32672,6 +32677,7 @@ Here's a list of public Fediverse services.
 | `plantsand.coffee` | No |
 | `planz.asia` | No |
 | `plapperbu.de` | No |
+| `plaseo.org` | No |
 | `plasmatrap.com` | Yes |
 | `plasticmodels.tokyo` | No |
 | `plataformess.org` | No |
@@ -35215,6 +35221,7 @@ Here's a list of public Fediverse services.
 | `ridgebacks.social` | Yes |
 | `ridixy.com` | Yes |
 | `riedl.net` | No |
+| `riedl.ovh` | Yes |
 | `riedstadt.social` | No |
 | `riegai.com` | Yes |
 | `riekenberg.org` | No |
@@ -40114,6 +40121,7 @@ Here's a list of public Fediverse services.
 | `sylvia-is.gay` | Yes |
 | `sylvia.works` | No |
 | `syma.social` | No |
+| `symas.social` | No |
 | `symboli.cyou` | No |
 | `symbolic.city` | No |
 | `symbolic.software` | Yes |
@@ -44690,6 +44698,7 @@ Here's a list of public Fediverse services.
 | `voltage.vn` | No |
 | `voltagecontrol.com` | Yes |
 | `voltaicforge.com` | Yes |
+| `volumetrics.social` | No |
 | `voluminum.net` | No |
 | `volun.tech` | No |
 | `voluntary.world` | Yes |
@@ -46455,6 +46464,7 @@ Here's a list of public Fediverse services.
 | `xnaas.info` | Yes |
 | `xnet.chat` | Yes |
 | `xno.social` | Yes |
+| `xnode.chat` | No |
 | `xnop.yt` | No |
 | `xnor.in` | No |
 | `xnor.work` | No |
@@ -47125,6 +47135,7 @@ Here's a list of public Fediverse services.
 | `zaitcev.nu` | No |
 | `zak.ee` | No |
 | `zakariao.nl` | Yes |
+| `zakharchanka.com` | Yes |
 | `zakqari.com` | Yes |
 | `zaksoup.club` | No |
 | `zaktakespictures.com` | Yes |
@@ -47367,6 +47378,7 @@ Here's a list of public Fediverse services.
 | `zkc.se` | No |
 | `zkm.social` | No |
 | `zknt.org` | No |
+| `zkolar.xyz` | No |
 | `zlatex.club` | Yes |
 | `zlatiah-no.one` | No |
 | `zlatko.dev` | No |
@@ -47573,8 +47585,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,107 |
-| Normal | 34,418 |
+| Cloudflare | 13,109 |
+| Normal | 34,428 |
 
 
 </details>
