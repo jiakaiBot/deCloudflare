@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Getting bad gateway when trying to login through GitHub](https://github.com/Infisical/infisical/issues/893)
 - [RSS Feed Behind Cloudflare](https://github.com/LibraryOfCongress/api.congress.gov/issues/138)
 - [Issue with clickshare](https://github.com/Installomator/Installomator/issues/1182)
 - [Support for edge functions (Cloudflare's new connect() API)](https://github.com/redis/node-redis/issues/2603)
