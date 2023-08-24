@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,279 |
-| social | 4,498 |
+| social | 4,499 |
 | net | 3,686 |
 | org | 2,477 |
 | de | 2,288 |
@@ -1245,6 +1245,7 @@ Here's a list of public Fediverse services.
 | `aetheri.ca` | No |
 | `aetherial.xyz` | No |
 | `aethernet.cc` | Yes |
+| `aethernet.social` | No |
 | `aethy.com` | Yes |
 | `aeto.us` | No |
 | `aevl.net` | Yes |
@@ -39321,6 +39322,7 @@ Here's a list of public Fediverse services.
 | `steen-jakobsen.dk` | No |
 | `stefan-muenz.de` | No |
 | `stefanberger.net` | No |
+| `stefanberggren.se` | No |
 | `stefanbohacek.dev` | No |
 | `stefanbohacek.online` | No |
 | `stefanbohacek.social` | No |
@@ -47590,7 +47592,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,113 |
-| Normal | 34,428 |
+| Normal | 34,430 |
 
 
 </details>
