@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,282 |
-| social | 4,502 |
+| social | 4,503 |
 | net | 3,688 |
 | org | 2,478 |
 | de | 2,288 |
@@ -17655,6 +17655,7 @@ Here's a list of public Fediverse services.
 | `hoot.town` | Yes |
 | `hoot.video` | No |
 | `hootiegibbon.co.uk` | No |
+| `hooves.social` | No |
 | `hopbox.net` | No |
 | `hopcount.nl` | Yes |
 | `hope-pf27.moe` | Yes |
@@ -17967,7 +17968,7 @@ Here's a list of public Fediverse services.
 | `husku.net` | No |
 | `husky.xyz` | Yes |
 | `huskyapp.dev` | Yes |
-| `huslage.com` | No |
+| `huslage.com` | Yes |
 | `husq.tk` | No |
 | `husseinrashid.com` | Yes |
 | `hustlersquad.net` | Yes |
@@ -47608,7 +47609,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,119 |
+| Cloudflare | 13,120 |
 | Normal | 34,441 |
 
 
