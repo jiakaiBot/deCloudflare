@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,277 |
 | social | 4,496 |
 | net | 3,686 |
-| org | 2,476 |
+| org | 2,477 |
 | de | 2,287 |
 
 
@@ -32672,6 +32672,7 @@ Here's a list of public Fediverse services.
 | `plantsand.coffee` | No |
 | `planz.asia` | No |
 | `plapperbu.de` | No |
+| `plaseo.org` | No |
 | `plasmatrap.com` | Yes |
 | `plasticmodels.tokyo` | No |
 | `plataformess.org` | No |
@@ -47574,7 +47575,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,106 |
-| Normal | 34,419 |
+| Normal | 34,420 |
 
 
 </details>
