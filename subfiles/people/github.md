@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [RSS Feed Behind Cloudflare](https://github.com/LibraryOfCongress/api.congress.gov/issues/138)
 - [Issue with clickshare](https://github.com/Installomator/Installomator/issues/1182)
 - [Support for edge functions (Cloudflare's new connect() API)](https://github.com/redis/node-redis/issues/2603)
 - [Write EPIPE Error](https://github.com/ryand56/r2-upload-action/issues/286)
