@@ -13595,6 +13595,7 @@ Here's a list of public Fediverse services.
 | `flexnation.xyz` | No |
 | `flexnet.social` | Yes |
 | `flgl.tech` | No |
+| `flicke.red` | No |
 | `flickr.com` | No |
 | `fliegel.com` | No |
 | `flifloo.fr` | Yes |
@@ -18491,6 +18492,7 @@ Here's a list of public Fediverse services.
 | `improved-madness.de` | No |
 | `imreh.net` | Yes |
 | `imrich.net` | No |
+| `imsb.app` | Yes |
 | `imsorryforsayingpogchampafteryounuttedin.me` | No |
 | `imthe.party` | No |
 | `imvegan.fyi` | No |
@@ -24164,7 +24166,7 @@ Here's a list of public Fediverse services.
 | `mace.social` | No |
 | `macer.life` | No |
 | `macfan.ne.jp` | No |
-| `macg.co` | No |
+| `macg.co` | Yes |
 | `macgirvin.com` | No |
 | `mach-o.com` | No |
 | `machaj.info` | Yes |
@@ -47585,7 +47587,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,109 |
+| Cloudflare | 13,111 |
 | Normal | 34,428 |
 
 
