@@ -2624,7 +2624,7 @@ Here's a list of public Fediverse services.
 | `are.nom.co` | No |
 | `are.sexy` | Yes |
 | `area51.media` | No |
-| `area51.social` | No |
+| `area51.social` | Yes |
 | `area893.org` | No |
 | `areality.social` | No |
 | `arein.space` | No |
@@ -19902,6 +19902,7 @@ Here's a list of public Fediverse services.
 | `jmenning.com` | Yes |
 | `jmessage.org` | No |
 | `jmiguel.eu` | No |
+| `jmittendorfer.at` | Yes |
 | `jmizzle.com` | No |
 | `jmjordan.io` | Yes |
 | `jmm.kr` | Yes |
@@ -47600,8 +47601,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,114 |
-| Normal | 34,438 |
+| Cloudflare | 13,116 |
+| Normal | 34,437 |
 
 
 </details>
