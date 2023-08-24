@@ -360,7 +360,7 @@ Here's a list of breached sites.
 | MPGH | 3,122,898 | Yes |
 | Mac-Torrents | 93,992 | Yes |
 | MacForums (Mac Forums) | 326,714 | Yes |
-| MacGeneration | 101,004 | No |
+| MacGeneration | 101,004 | Yes |
 | MagicDuel | 138,443 | Yes |
 | MailRu (mail.ru Dump) | 16,630,988 | No |
 | MajorGeeks | 269,548 | Yes |
@@ -509,6 +509,7 @@ Here's a list of breached sites.
 | Seedpeer | 281,924 | No |
 | Sephora | 780,073 | No |
 | ServerPact | 73,587 | Yes |
+| SevenRooms | 1,205,385 | Yes |
 | Shadi (Shadi.com) | 2,021,984 | No |
 | ShareThis | 40,960,499 | No |
 | Shitexpress | 23,817 | No |
@@ -687,10 +688,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 376 | 3,966,798,862 |
-| Normal | 290 | 4,957,364,247 |
+| Cloudflare | 378 | 3,968,105,251 |
+| Normal | 289 | 4,957,263,243 |
 
 
 
-### 56.5% of breached sites (pwned sites) are using Cloudflare.
+### 56.7% of breached sites (pwned sites) are using Cloudflare.
 ### 44.5% of leaked accounts are on Cloudflare sites.
