@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error from Softech](https://github.com/Sanalogi/NFCREAD-Android-SDK-Example/issues/3)
 - [Error from Softech](https://github.com/Sanalogi/FaceRecognition-WebApi/issues/1)
 - [Getting bad gateway when trying to login through GitHub](https://github.com/Infisical/infisical/issues/893)
 - [RSS Feed Behind Cloudflare](https://github.com/LibraryOfCongress/api.congress.gov/issues/138)
