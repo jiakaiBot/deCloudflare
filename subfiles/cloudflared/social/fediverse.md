@@ -1338,6 +1338,7 @@ Here's a list of public Fediverse services.
 | `ahermitforhire.net` | No |
 | `ahhhhhh.social` | No |
 | `ahlamon.org` | No |
+| `ahlcode.fi` | No |
 | `ahlers.space` | No |
 | `ahlers.xyz` | No |
 | `ahlo.club` | No |
@@ -17592,6 +17593,7 @@ Here's a list of public Fediverse services.
 | `homelab.gay` | Yes |
 | `homelab.host` | Yes |
 | `homelab.lt` | No |
+| `homelab.tokyo` | No |
 | `homeland.network` | Yes |
 | `homeless.group` | Yes |
 | `homelinux.net` | No |
@@ -29229,6 +29231,7 @@ Here's a list of public Fediverse services.
 | `nightmare.zone` | No |
 | `nightowl.jp` | No |
 | `nightrider.mastodon` | No |
+| `nightrider.tech` | Yes |
 | `nightshade.fun` | Yes |
 | `nightshift.social` | No |
 | `nighty.name` | No |
@@ -34232,7 +34235,7 @@ Here's a list of public Fediverse services.
 | `radig.social` | No |
 | `radikal.social` | No |
 | `radio.af` | Yes |
-| `radio.fm` | No |
+| `radio.fm` | Yes |
 | `radio614.org` | No |
 | `radioaconchego.org` | No |
 | `radioalmaina.org` | No |
@@ -46135,6 +46138,7 @@ Here's a list of public Fediverse services.
 | `wyomingfriendfinder.com` | No |
 | `wyrd.social` | No |
 | `wyrd.systems` | Yes |
+| `wyrihaxim.us` | No |
 | `wyrm.one` | Yes |
 | `wyrmhord.org` | No |
 | `wyrms.de` | No |
@@ -47604,8 +47608,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,117 |
-| Normal | 34,439 |
+| Cloudflare | 13,119 |
+| Normal | 34,441 |
 
 
 </details>
