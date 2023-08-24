@@ -26793,6 +26793,7 @@ Here's a list of public Fediverse services.
 | `mixamax.se` | No |
 | `mixed-reality.social` | No |
 | `mixedmedia.page` | Yes |
+| `mixer.lt` | No |
 | `mixin.love` | No |
 | `mixremix.cc` | No |
 | `mixsocial.network` | No |
@@ -47602,7 +47603,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,116 |
-| Normal | 34,437 |
+| Normal | 34,438 |
 
 
 </details>
