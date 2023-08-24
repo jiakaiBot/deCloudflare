@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,282 |
-| social | 4,501 |
+| social | 4,502 |
 | net | 3,688 |
 | org | 2,478 |
 | de | 2,288 |
@@ -18609,6 +18609,7 @@ Here's a list of public Fediverse services.
 | `ineedthis.com` | Yes |
 | `ineptiarum.ca` | No |
 | `inertdata.com` | No |
+| `ineru.cc` | Yes |
 | `inessential.com` | No |
 | `inet.party` | No |
 | `inet.place` | No |
@@ -20134,6 +20135,7 @@ Here's a list of public Fediverse services.
 | `joshuaochs.com` | Yes |
 | `joshuapsteele.com` | No |
 | `joshuas-server.com` | Yes |
+| `joshuastrobl.social` | No |
 | `joshumax.me` | Yes |
 | `joshwithers.blog` | Yes |
 | `josias.dev` | No |
@@ -47602,8 +47604,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,116 |
-| Normal | 34,438 |
+| Cloudflare | 13,117 |
+| Normal | 34,439 |
 
 
 </details>
