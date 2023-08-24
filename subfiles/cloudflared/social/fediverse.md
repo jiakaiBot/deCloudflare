@@ -8533,6 +8533,7 @@ Here's a list of public Fediverse services.
 | `curlyphries.net` | Yes |
 | `curmudgeon.cafe` | No |
 | `curmudgeon.tech` | No |
+| `curren.win` | Yes |
 | `currentdir.com` | No |
 | `currentlyhq.com` | Yes |
 | `currentpllc.com` | No |
@@ -28674,6 +28675,7 @@ Here's a list of public Fediverse services.
 | `nekonet.cyou` | Yes |
 | `nekonohige.jp` | No |
 | `nekonote.cc` | No |
+| `nekoplanet.xyz` | Yes |
 | `nekoport.com` | No |
 | `nekoruri.dev` | Yes |
 | `nekoruri.jp` | No |
@@ -47587,7 +47589,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,111 |
+| Cloudflare | 13,113 |
 | Normal | 34,428 |
 
 
