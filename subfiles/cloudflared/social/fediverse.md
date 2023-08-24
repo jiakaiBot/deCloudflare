@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,279 |
-| social | 4,499 |
-| net | 3,686 |
+| com | 7,280 |
+| social | 4,500 |
+| net | 3,688 |
 | org | 2,477 |
 | de | 2,288 |
 
@@ -25512,6 +25512,7 @@ Here's a list of public Fediverse services.
 | `matthieuharle.com` | No |
 | `matthijs.social` | No |
 | `matthodges.com` | No |
+| `matthoran.com` | No |
 | `mattips.online` | No |
 | `mattjon.es` | No |
 | `mattkuhs.com` | Yes |
@@ -25523,6 +25524,7 @@ Here's a list of public Fediverse services.
 | `mattone.net` | No |
 | `mattpedals.bike` | No |
 | `mattrnet.org` | No |
+| `mattrog.net` | No |
 | `mattrva.com` | Yes |
 | `matts.network` | No |
 | `mattstenson.com` | Yes |
@@ -36006,6 +36008,7 @@ Here's a list of public Fediverse services.
 | `s-yurama.com` | No |
 | `s.ai` | No |
 | `s.place` | Yes |
+| `s0.is` | No |
 | `s0c.in` | No |
 | `s0cial.sh` | No |
 | `s1-tastewp.com` | Yes |
@@ -36440,6 +36443,7 @@ Here's a list of public Fediverse services.
 | `savepoint.social` | No |
 | `savga.social` | No |
 | `savikin.me` | Yes |
+| `savoie.social` | No |
 | `savvas.cloud` | Yes |
 | `savvy.ch` | No |
 | `saw.dev` | Yes |
@@ -45550,6 +45554,7 @@ Here's a list of public Fediverse services.
 | `wiki-tube.de` | No |
 | `wiki.gd` | No |
 | `wiki.style` | No |
+| `wikidex.net` | No |
 | `wikileaks2.org` | No |
 | `wikilibriste.fr` | No |
 | `wikimedia.de` | No |
@@ -47592,7 +47597,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,113 |
-| Normal | 34,430 |
+| Normal | 34,435 |
 
 
 </details>
