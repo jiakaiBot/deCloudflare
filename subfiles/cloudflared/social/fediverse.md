@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,505 |
 | net | 3,691 |
 | org | 2,480 |
-| de | 2,288 |
+| de | 2,289 |
 
 
 - Mastodon, Pleroma, etc
@@ -7697,7 +7697,7 @@ Here's a list of public Fediverse services.
 | `communia.org` | No |
 | `communick.com` | Yes |
 | `communick.dev` | Yes |
-| `communick.news` | No |
+| `communick.news` | Yes |
 | `communist.accountant` | No |
 | `communist.gay` | Yes |
 | `communisteslibertaires.org` | No |
@@ -14382,7 +14382,7 @@ Here's a list of public Fediverse services.
 | `frontend.country` | No |
 | `frontend.lt` | No |
 | `frontend.social` | No |
-| `frontierfoundry.co` | No |
+| `frontierfoundry.co` | Yes |
 | `frontrange.co` | Yes |
 | `froop.com` | No |
 | `frootmig.net` | No |
@@ -26848,6 +26848,7 @@ Here's a list of public Fediverse services.
 | `mkir.ch` | No |
 | `mkkey.net` | No |
 | `mkl.lol` | No |
+| `mklemme.de` | No |
 | `mkljczk.pl` | Yes |
 | `mkm.scot` | Yes |
 | `mkmcg.net` | No |
@@ -30839,7 +30840,7 @@ Here's a list of public Fediverse services.
 | `open3dlab.com` | No |
 | `open3dlab.social` | No |
 | `openaiken.net` | No |
-| `openalgeria.org` | No |
+| `openalgeria.org` | Yes |
 | `openbargel.com` | Yes |
 | `openbarnum.org` | Yes |
 | `openbiblio.eu` | No |
@@ -47624,8 +47625,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,117 |
-| Normal | 34,459 |
+| Cloudflare | 13,120 |
+| Normal | 34,457 |
 
 
 </details>
