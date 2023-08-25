@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,282 |
-| social | 4,503 |
+| social | 4,504 |
 | net | 3,688 |
-| org | 2,478 |
+| org | 2,479 |
 | de | 2,288 |
 
 
@@ -910,7 +910,7 @@ Here's a list of public Fediverse services.
 | `abolition.town` | No |
 | `abolivier.bzh` | No |
 | `abookofcreatures.com` | No |
-| `aboring.space` | Yes |
+| `aboring.space` | No |
 | `aboringsite.dev` | No |
 | `abortu.com` | No |
 | `about-bitcoin.com` | Yes |
@@ -12513,6 +12513,7 @@ Here's a list of public Fediverse services.
 | `facefeck.com` | No |
 | `facegirl.me` | No |
 | `faceless.company` | No |
+| `facha.dev` | Yes |
 | `fachkraeftesicherer.de` | Yes |
 | `facil.services` | No |
 | `facorazza.com` | Yes |
@@ -34772,6 +34773,7 @@ Here's a list of public Fediverse services.
 | `redlatina.online` | Yes |
 | `redlettuce.social` | No |
 | `redliberal.com` | No |
+| `redmars.org` | No |
 | `redmi233.tk` | No |
 | `redmine.jp` | No |
 | `redmint.org` | Yes |
@@ -45589,6 +45591,7 @@ Here's a list of public Fediverse services.
 | `wilde.cloud` | No |
 | `wildebeest.social` | Yes |
 | `wildeboer.net` | No |
+| `wilderness.social` | No |
 | `wildfyre.dev` | Yes |
 | `wildgeese.au` | Yes |
 | `wildhawkfield.com` | No |
@@ -47610,7 +47613,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,120 |
-| Normal | 34,441 |
+| Normal | 34,444 |
 
 
 </details>
