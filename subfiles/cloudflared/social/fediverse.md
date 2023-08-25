@@ -28312,6 +28312,7 @@ Here's a list of public Fediverse services.
 | `naghdbishi.ir` | No |
 | `nagi.fan` | Yes |
 | `nagichan.page` | No |
+| `nagisite.xyz` | Yes |
 | `nagito.net` | Yes |
 | `nagoya832.net` | No |
 | `nagoyadon.jp` | Yes |
@@ -47625,7 +47626,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,120 |
+| Cloudflare | 13,121 |
 | Normal | 34,457 |
 
 
