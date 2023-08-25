@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-08-25: [Zone Hold Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zcrpms5cpxww)
 - 2023-08-23: [Network Performance Issues in China](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/rmk5plxjqyf3)
 - 2023-08-21: [Network Performance Issues in Sydney(SYD)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kxr5svj1wpjn)
 - 2023-08-18: [Network performance issues in Mumbai, India region.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/tvffv3rys9s3)
