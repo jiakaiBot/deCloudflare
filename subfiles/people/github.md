@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [TypeError: Cannot read properties of undefined (reading 'href')](https://github.com/jedisct1/libsodium.js/issues/323)
 - [cert-manager: ix-cert-manager operator can be installed alongside old cert-manager operator](https://github.com/truecharts/charts/issues/11855)
 - [Error from Softech](https://github.com/Sanalogi/NFCREAD-Android-SDK-Example/issues/3)
 - [Error from Softech](https://github.com/Sanalogi/FaceRecognition-WebApi/issues/1)
