@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,282 |
-| social | 4,504 |
-| net | 3,689 |
-| org | 2,479 |
+| com | 7,284 |
+| social | 4,505 |
+| net | 3,691 |
+| org | 2,480 |
 | de | 2,288 |
 
 
@@ -3488,6 +3488,7 @@ Here's a list of public Fediverse services.
 | `b16b00b5.ru` | No |
 | `b1ju.in` | No |
 | `b1n.win` | Yes |
+| `b1nk.net` | Yes |
 | `b1y.de` | No |
 | `b252.gq` | Yes |
 | `b2b-marketing.pl` | No |
@@ -13275,6 +13276,7 @@ Here's a list of public Fediverse services.
 | `fetishsocial.club` | No |
 | `fetswing.org` | Yes |
 | `fetus.jp` | Yes |
+| `fetzer.me` | No |
 | `fetziverse.de` | No |
 | `feuerwehr-othfresen.de` | No |
 | `feuerwehr.social` | No |
@@ -17857,6 +17859,7 @@ Here's a list of public Fediverse services.
 | `htotw.com` | Yes |
 | `htp.live` | No |
 | `htt.social` | No |
+| `htw.lol` | Yes |
 | `hu-e.uk` | Yes |
 | `huaren.social` | No |
 | `hub.lol` | Yes |
@@ -22756,6 +22759,7 @@ Here's a list of public Fediverse services.
 | `lemondouble.com` | Yes |
 | `lemonline.biz` | No |
 | `lemonparty.social` | Yes |
+| `lemontastica.net` | Yes |
 | `lemontree.ml` | No |
 | `lemouvementassociatif-pdl.org` | No |
 | `lems.app` | Yes |
@@ -23558,6 +23562,7 @@ Here's a list of public Fediverse services.
 | `lohn.in` | Yes |
 | `loicrobert.fr` | Yes |
 | `loirodonto.club` | No |
+| `lojepi.com` | No |
 | `lojinx.social` | Yes |
 | `lokal.social` | No |
 | `lokalteil.in` | No |
@@ -24304,7 +24309,7 @@ Here's a list of public Fediverse services.
 | `magick.tech` | No |
 | `magickal.club` | No |
 | `magicstone.dev` | No |
-| `magicvampirepirates.com` | Yes |
+| `magicvampirepirates.com` | No |
 | `magicvoidpointers.com` | No |
 | `magicwoodland.net` | No |
 | `magik.me` | No |
@@ -25320,6 +25325,7 @@ Here's a list of public Fediverse services.
 | `mastodont.es` | No |
 | `mastodont.social` | No |
 | `mastodont.tk` | No |
+| `mastodonte.ar` | No |
 | `mastodonte.club` | No |
 | `mastodonte.me` | Yes |
 | `mastodonte.ml` | No |
@@ -28288,6 +28294,7 @@ Here's a list of public Fediverse services.
 | `nadreck.me` | No |
 | `nadus.fr` | No |
 | `nae.moe` | No |
+| `naeon.social` | No |
 | `naethure.com` | No |
 | `nafo.army` | No |
 | `nafo.uk` | Yes |
@@ -34281,6 +34288,7 @@ Here's a list of public Fediverse services.
 | `rafaelbailon.com` | Yes |
 | `rafaelbekkema.nl` | No |
 | `rafal06.dev` | No |
+| `rafale.blue` | No |
 | `rafe.name` | Yes |
 | `rafferty.net` | No |
 | `raffi.de` | No |
@@ -38069,6 +38077,7 @@ Here's a list of public Fediverse services.
 | `sleepy.cafe` | No |
 | `sleepy.casa` | No |
 | `sleepy.cool` | No |
+| `sleepy.ink` | Yes |
 | `sleepy.kiev.ua` | No |
 | `sleepy.social` | Yes |
 | `sleepy.tube` | No |
@@ -41099,6 +41108,7 @@ Here's a list of public Fediverse services.
 | `tfwnogf.nl` | No |
 | `tfx.tw` | Yes |
 | `tgj.services` | No |
+| `tgjb.org` | No |
 | `tgjp.xyz` | No |
 | `tgl.eu` | No |
 | `tgp.jp` | No |
@@ -41938,6 +41948,7 @@ Here's a list of public Fediverse services.
 | `timetheft.social` | No |
 | `timg.fr` | No |
 | `timhildred.com` | No |
+| `timkoeckert.com` | No |
 | `timkrueger.me` | No |
 | `timmorgan.com` | No |
 | `timmorgner.de` | No |
@@ -47613,8 +47624,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,114 |
-| Normal | 34,451 |
+| Cloudflare | 13,117 |
+| Normal | 34,459 |
 
 
 </details>
