@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,285 |
 | social | 4,505 |
-| net | 3,691 |
+| net | 3,692 |
 | org | 2,480 |
 | de | 2,289 |
 
@@ -230,6 +230,7 @@ Here's a list of public Fediverse services.
 | `128k.blog` | No |
 | `128k.site` | No |
 | `1296000.xyz` | No |
+| `12mon.space` | Yes |
 | `12vpx.com` | Yes |
 | `1312.media` | No |
 | `1315.me` | No |
@@ -4276,6 +4277,7 @@ Here's a list of public Fediverse services.
 | `beule.be` | No |
 | `beutl.space` | Yes |
 | `beutner.de` | No |
+| `beutner.name` | No |
 | `bewater.social` | No |
 | `bewegung.jetzt` | No |
 | `bewegung.social` | No |
@@ -24288,6 +24290,7 @@ Here's a list of public Fediverse services.
 | `mafumafu.xyz` | Yes |
 | `mafunke.de` | No |
 | `maga.host` | No |
+| `magamogreen.net` | Yes |
 | `mage.town` | No |
 | `mageix.com` | No |
 | `magenta.click` | Yes |
@@ -41424,7 +41427,7 @@ Here's a list of public Fediverse services.
 | `thelabs.online` | Yes |
 | `theladners.com` | Yes |
 | `thelake.town` | Yes |
-| `thelandofooops.icu` | Yes |
+| `thelandofooops.icu` | No |
 | `thelaserguy.online` | No |
 | `thelastelemental.art` | No |
 | `thelballwiki.gq` | No |
@@ -47631,8 +47634,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,125 |
-| Normal | 34,458 |
+| Cloudflare | 13,126 |
+| Normal | 34,460 |
 
 
 </details>
