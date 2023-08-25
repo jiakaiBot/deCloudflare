@@ -39613,6 +39613,7 @@ Here's a list of public Fediverse services.
 | `stratinator.com` | Yes |
 | `stratonauts.co` | No |
 | `strats.co` | Yes |
+| `stratus.family` | Yes |
 | `straubserver.com` | Yes |
 | `strausmann.net` | Yes |
 | `straw.social` | Yes |
@@ -47634,7 +47635,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,126 |
+| Cloudflare | 13,127 |
 | Normal | 34,460 |
 
 
