@@ -37996,7 +37996,7 @@ Here's a list of public Fediverse services.
 | `sky-bank.net` | Yes |
 | `sky-em.id.au` | No |
 | `skyarrow.org` | Yes |
-| `skyax.design` | Yes |
+| `skyax.design` | No |
 | `skycademc.com` | No |
 | `skye.cx` | No |
 | `skye.vg` | Yes |
@@ -47613,8 +47613,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,115 |
-| Normal | 34,450 |
+| Cloudflare | 13,114 |
+| Normal | 34,451 |
 
 
 </details>
