@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,282 |
 | social | 4,504 |
-| net | 3,688 |
+| net | 3,689 |
 | org | 2,479 |
 | de | 2,288 |
 
@@ -7632,7 +7632,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -10530,7 +10530,7 @@ Here's a list of public Fediverse services.
 | `dont-panic.quest` | No |
 | `dontask.how` | No |
 | `dontbulling.me` | No |
-| `dontdontdontletsstartthisistheworstpartcouldntbelieveforallthe.world` | Yes |
+| `dontdontdontletsstartthisistheworstpartcouldntbelieveforallthe.world` | No |
 | `donte.com.br` | Yes |
 | `donteatanimals.org` | No |
 | `dontexist.net` | No |
@@ -10587,6 +10587,7 @@ Here's a list of public Fediverse services.
 | `dosgame.club` | No |
 | `doshi.re` | No |
 | `doshidon.com` | No |
+| `doskel.net` | No |
 | `dostoevsskey.com` | Yes |
 | `dot.or.at` | No |
 | `dot.surf` | Yes |
@@ -19012,7 +19013,7 @@ Here's a list of public Fediverse services.
 | `irl.dog` | Yes |
 | `irlnc.org` | No |
 | `irnok.net` | No |
-| `iro-iro.xyz` | Yes |
+| `iro-iro.xyz` | No |
 | `iro.moe` | No |
 | `iroh.tv` | No |
 | `iroha.me` | No |
@@ -29113,7 +29114,7 @@ Here's a list of public Fediverse services.
 | `nha.one` | Yes |
 | `nhaddag.com` | No |
 | `nharrisonripps.com` | No |
-| `nhcclub.net` | Yes |
+| `nhcclub.net` | No |
 | `nhcrossing.com` | No |
 | `nhentai.ink` | Yes |
 | `nhg.moe` | No |
@@ -44837,7 +44838,7 @@ Here's a list of public Fediverse services.
 | `vtuber.house` | No |
 | `vtuberfan.social` | Yes |
 | `vtubers.site` | Yes |
-| `vtubertalk.com` | Yes |
+| `vtubertalk.com` | No |
 | `vtubertoot.com` | No |
 | `vtweet.live` | No |
 | `vuc.me` | No |
@@ -47612,8 +47613,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,120 |
-| Normal | 34,444 |
+| Cloudflare | 13,115 |
+| Normal | 34,450 |
 
 
 </details>
