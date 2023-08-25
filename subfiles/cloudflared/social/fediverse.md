@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,284 |
+| com | 7,285 |
 | social | 4,505 |
 | net | 3,691 |
 | org | 2,480 |
@@ -7634,7 +7634,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -16529,6 +16529,7 @@ Here's a list of public Fediverse services.
 | `hackzenwerk.org` | No |
 | `hacst.net` | No |
 | `hact.org` | No |
+| `hactivedirectory.com` | Yes |
 | `hacusk.net` | Yes |
 | `haddock.cc` | Yes |
 | `hadret.com` | Yes |
@@ -36900,6 +36901,7 @@ Here's a list of public Fediverse services.
 | `seaofog.com` | Yes |
 | `seaofpeers.com` | Yes |
 | `seaquillcatstone.com` | No |
+| `searchingfor.top` | No |
 | `searx.li` | No |
 | `seaside.cafe` | No |
 | `seaswallow.me` | Yes |
@@ -47629,7 +47631,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,123 |
+| Cloudflare | 13,125 |
 | Normal | 34,458 |
 
 
