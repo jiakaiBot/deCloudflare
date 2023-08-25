@@ -10115,6 +10115,7 @@ Do not create new issue or we will close it as duplicate.
 | [Prasoon87362417@twitter](https://twitter.com/Prasoon87362417/status/1495989264747667460) | advertise |
 | [pratham_mahadik@twitter](https://twitter.com/pratham_mahadik/status/1404448453678170115) | advertise |
 | [PrathapSingh080@twitter](https://twitter.com/PrathapSingh080/status/1391728889630642179) | advertise |
+| [pratikcparmar@twitter](https://twitter.com/pratikcparmar/status/1695006417353429078) | advertise |
 | [PratikM35193168@twitter](https://twitter.com/PratikM35193168/status/1402122232919326722) | advertise |
 | [pratik_h6i@twitter](https://twitter.com/pratik_h6i/status/1394961934454231043) | advertise |
 | [PravallikaRapa1@twitter](https://twitter.com/PravallikaRapa1/status/1559961205841747970) | advertise |
