@@ -3233,6 +3233,7 @@ Here's a list of public Fediverse services.
 | `autisme.social` | No |
 | `autisten.club` | No |
 | `autistic.blog` | No |
+| `autistic.id` | No |
 | `autisticgoblin.ca` | No |
 | `autisticpri.de` | No |
 | `autistics.life` | No |
@@ -20607,6 +20608,7 @@ Here's a list of public Fediverse services.
 | `kangaroo.to` | No |
 | `kangaroopunch.com` | No |
 | `kangoulya.org` | No |
+| `kanhuji.eu` | No |
 | `kani.social` | Yes |
 | `kanikani.ooo` | No |
 | `kanina.be` | No |
@@ -27415,7 +27417,7 @@ Here's a list of public Fediverse services.
 | `mousetodon.com` | No |
 | `mousetodon.social` | No |
 | `mousou.org` | Yes |
-| `mousqueton.ru` | No |
+| `mousqueton.ru` | Yes |
 | `moussaclarke.co.uk` | Yes |
 | `mouup.top` | Yes |
 | `movementstrategy.social` | No |
@@ -42088,6 +42090,7 @@ Here's a list of public Fediverse services.
 | `tmm.cx` | No |
 | `tmo.name` | No |
 | `tmo.pizza` | No |
+| `tmoney.taxi` | Yes |
 | `tmp-mstdn.cloud` | No |
 | `tmp.directory` | No |
 | `tmp.si` | No |
@@ -47626,8 +47629,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,121 |
-| Normal | 34,457 |
+| Cloudflare | 13,123 |
+| Normal | 34,458 |
 
 
 </details>
