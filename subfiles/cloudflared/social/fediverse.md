@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,287 |
-| social | 4,509 |
+| social | 4,510 |
 | net | 3,695 |
 | org | 2,482 |
 | de | 2,289 |
@@ -3546,6 +3546,7 @@ Here's a list of public Fediverse services.
 | `bacardi55.org` | No |
 | `bacasable.eu` | No |
 | `bach-bellan.fr` | No |
+| `bach.social` | No |
 | `bachaner.fr` | No |
 | `bacherik.eu` | No |
 | `bachgau.social` | No |
@@ -47655,7 +47656,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,135 |
-| Normal | 34,471 |
+| Normal | 34,472 |
 
 
 </details>
