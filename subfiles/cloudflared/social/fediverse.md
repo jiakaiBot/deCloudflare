@@ -27420,7 +27420,7 @@ Here's a list of public Fediverse services.
 | `mountaincloud.social` | Yes |
 | `mountaincommunity.co` | No |
 | `mountainfold.co` | Yes |
-| `mountainmoving.co` | No |
+| `mountainmoving.co` | Yes |
 | `mountains.social` | No |
 | `mountaintop.social` | No |
 | `mountaintown.video` | No |
@@ -28762,6 +28762,7 @@ Here's a list of public Fediverse services.
 | `nemtie.net` | No |
 | `nemu.us` | Yes |
 | `nemudaru.uk` | Yes |
+| `nemuimon.jp` | Yes |
 | `nemuneko.me` | No |
 | `nemushee.net` | Yes |
 | `nenmyx.dev` | No |
@@ -47663,8 +47664,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,137 |
-| Normal | 34,478 |
+| Cloudflare | 13,139 |
+| Normal | 34,477 |
 
 
 </details>
