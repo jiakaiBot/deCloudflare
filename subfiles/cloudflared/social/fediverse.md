@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,285 |
-| social | 4,507 |
-| net | 3,693 |
+| com | 7,287 |
+| social | 4,508 |
+| net | 3,695 |
 | org | 2,481 |
 | de | 2,289 |
 
@@ -4822,6 +4822,7 @@ Here's a list of public Fediverse services.
 | `blkspace.net` | Yes |
 | `bln41.net` | Yes |
 | `bln41.win` | Yes |
+| `bloade.com` | Yes |
 | `bloade.social` | Yes |
 | `bloatcat.tk` | No |
 | `bloatfree.ovh` | No |
@@ -8051,6 +8052,7 @@ Here's a list of public Fediverse services.
 | `courier.no` | No |
 | `courlet.net` | No |
 | `courtenay.io` | Yes |
+| `courtenay.net` | Yes |
 | `courtneyr.dev` | No |
 | `cousinsd.net` | No |
 | `cousteaudivers.social` | No |
@@ -17878,7 +17880,7 @@ Here's a list of public Fediverse services.
 | `hubloq.net` | No |
 | `hubns.net` | No |
 | `hubrecht.ovh` | No |
-| `hubservices.vn` | No |
+| `hubservices.vn` | Yes |
 | `hubup.pro` | Yes |
 | `hubzil.la` | No |
 | `hubzilla.com.br` | No |
@@ -18511,6 +18513,7 @@ Here's a list of public Fediverse services.
 | `imreh.net` | Yes |
 | `imrich.net` | No |
 | `imsb.app` | Yes |
+| `imsim.dev` | No |
 | `imsorryforsayingpogchampafteryounuttedin.me` | No |
 | `imthe.party` | No |
 | `imvegan.fyi` | No |
@@ -31736,6 +31739,7 @@ Here's a list of public Fediverse services.
 | `passey.cloud` | No |
 | `passionsofaman.com` | No |
 | `passivity.pub` | No |
+| `passthejoe.net` | No |
 | `passtodon.social` | Yes |
 | `passwd.org` | Yes |
 | `pasta.ga` | No |
@@ -35982,6 +35986,7 @@ Here's a list of public Fediverse services.
 | `ryanccn.dev` | Yes |
 | `ryaneby.com` | No |
 | `ryankes.eu` | Yes |
+| `ryanleeking.com` | No |
 | `ryanleesipes.me` | No |
 | `ryanschultz.com` | No |
 | `ryanteck.xyz` | No |
@@ -40479,6 +40484,7 @@ Here's a list of public Fediverse services.
 | `tallahasseesocial.org` | No |
 | `talldude.net` | No |
 | `tallgoblin.com` | No |
+| `tallgoblin.social` | No |
 | `tallman.social` | No |
 | `tallulah.fi` | No |
 | `tallwebguy.com` | No |
@@ -43907,6 +43913,7 @@ Here's a list of public Fediverse services.
 | `upvo.me` | Yes |
 | `upvote.au` | No |
 | `upwind.xyz` | No |
+| `upx.moe` | No |
 | `upyum.com` | No |
 | `ur-mom.gay` | Yes |
 | `ur.gs` | No |
@@ -47642,8 +47649,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,129 |
-| Normal | 34,465 |
+| Cloudflare | 13,132 |
+| Normal | 34,469 |
 
 
 </details>
