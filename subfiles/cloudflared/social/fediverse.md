@@ -30708,6 +30708,7 @@ Here's a list of public Fediverse services.
 | `onecha.net` | No |
 | `oneill.stream` | No |
 | `oneiris.me` | No |
+| `oneisall.one` | Yes |
 | `onejaeatatime.com` | No |
 | `oneman-onemap.com` | No |
 | `onemanandhisblog.com` | Yes |
@@ -34851,6 +34852,7 @@ Here's a list of public Fediverse services.
 | `refi64.com` | No |
 | `refi64.social` | No |
 | `refinyaa.net` | Yes |
+| `refla.art` | No |
 | `reflectedinsight.co.uk` | No |
 | `reflog.me` | Yes |
 | `reformed.cloud` | No |
@@ -37397,6 +37399,7 @@ Here's a list of public Fediverse services.
 | `sheikah.online` | No |
 | `sheithens.online` | No |
 | `shela.nu` | No |
+| `shellbytes.me` | No |
 | `shelldog.de` | No |
 | `shellgei.org` | No |
 | `shelter.moe` | No |
@@ -47650,8 +47653,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,132 |
-| Normal | 34,470 |
+| Cloudflare | 13,133 |
+| Normal | 34,472 |
 
 
 </details>
