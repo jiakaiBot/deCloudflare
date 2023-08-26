@@ -142,7 +142,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hitian.me | Yes |
 | hopto.org | Yes |
 | hostux.net | No |
-| hubservices.vn | No |
+| hubservices.vn | Yes |
 | huque.com | No |
 | i81.ru | No |
 | iamninja.ru | No |
@@ -336,8 +336,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 160 |
-| Normal | 157 |
+| Cloudflare | 161 |
+| Normal | 156 |
 
 
-### 50.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 50.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
