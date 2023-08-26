@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,285 |
-| social | 4,506 |
+| social | 4,507 |
 | net | 3,693 |
-| org | 2,480 |
+| org | 2,481 |
 | de | 2,289 |
 
 
@@ -2941,6 +2941,7 @@ Here's a list of public Fediverse services.
 | `asobi.world` | No |
 | `asobigbang.net` | No |
 | `asocial.dk` | No |
+| `asocial.social` | No |
 | `asohh.eu` | No |
 | `asonix.dog` | No |
 | `asorrybowl.blog` | No |
@@ -10538,6 +10539,7 @@ Here's a list of public Fediverse services.
 | `donte.com.br` | Yes |
 | `donteatanimals.org` | No |
 | `dontexist.net` | No |
+| `dontexist.org` | No |
 | `donthaveaclueman.com` | No |
 | `dontmindrick.com` | No |
 | `donttrust.me` | No |
@@ -37855,6 +37857,7 @@ Here's a list of public Fediverse services.
 | `sirg.fr` | No |
 | `sirius.social` | No |
 | `sirius1228.space` | Yes |
+| `sirmaple.ca` | No |
 | `sironi.tk` | No |
 | `sirousa.me` | No |
 | `sirquen.fr` | No |
@@ -47640,7 +47643,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,129 |
-| Normal | 34,462 |
+| Normal | 34,465 |
 
 
 </details>
