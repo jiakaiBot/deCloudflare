@@ -30,8 +30,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,285 |
-| social | 4,505 |
-| net | 3,692 |
+| social | 4,506 |
+| net | 3,693 |
 | org | 2,480 |
 | de | 2,289 |
 
@@ -471,7 +471,7 @@ Here's a list of public Fediverse services.
 | `3rdstone.cc` | Yes |
 | `3rdstone.uk` | Yes |
 | `3rdwall.net` | Yes |
-| `3rensei.xyz` | No |
+| `3rensei.xyz` | Yes |
 | `3rik.cc` | No |
 | `3sn.ru` | No |
 | `3sparks.net` | Yes |
@@ -25720,6 +25720,7 @@ Here's a list of public Fediverse services.
 | `mcrn.one` | Yes |
 | `mcrygh.net` | Yes |
 | `mcrypt.com` | No |
+| `mcsr.social` | Yes |
 | `mcsweeneys.net` | No |
 | `mctek.tk` | No |
 | `mctetsudou.net` | No |
@@ -26103,6 +26104,7 @@ Here's a list of public Fediverse services.
 | `metalhearf.fr` | Yes |
 | `metalmatze.de` | No |
 | `metalsha.re` | No |
+| `metalslime.ink` | No |
 | `metalverse.social` | No |
 | `metamodernism.social` | Yes |
 | `metamuffin.org` | No |
@@ -28947,7 +28949,7 @@ Here's a list of public Fediverse services.
 | `nettesheim.eu` | No |
 | `nettime.org` | No |
 | `nettles.social` | No |
-| `nettohikari.com` | No |
+| `nettohikari.com` | Yes |
 | `netvolante.jp` | No |
 | `netw0rk.io` | Yes |
 | `netwaveip.net` | No |
@@ -40370,6 +40372,7 @@ Here's a list of public Fediverse services.
 | `taggit.me` | Yes |
 | `taglar.net` | Yes |
 | `tagpro.lol` | No |
+| `tahomaphoto.net` | No |
 | `tahvok.com` | Yes |
 | `taichan.site` | Yes |
 | `taidum.social` | Yes |
@@ -47635,7 +47638,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,127 |
+| Cloudflare | 13,130 |
 | Normal | 34,460 |
 
 
