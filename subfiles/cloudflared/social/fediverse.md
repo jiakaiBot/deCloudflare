@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,287 |
 | social | 4,509 |
 | net | 3,695 |
-| org | 2,481 |
+| org | 2,482 |
 | de | 2,289 |
 
 
@@ -6670,6 +6670,7 @@ Here's a list of public Fediverse services.
 | `charli.info` | No |
 | `charli.io` | No |
 | `charlie.software` | No |
+| `charlie2alpha.org` | No |
 | `charliedeets.photo` | No |
 | `charmed.social` | No |
 | `charon.monster` | Yes |
@@ -20049,7 +20050,7 @@ Here's a list of public Fediverse services.
 | `jonaskoeritz.de` | No |
 | `jonasled.de` | Yes |
 | `jonasx.de` | No |
-| `jonathanbardo.com` | No |
+| `jonathanbardo.com` | Yes |
 | `jonathancamp.co.uk` | No |
 | `jonathancandler.com` | No |
 | `jonathandupre.fr` | No |
@@ -26549,7 +26550,7 @@ Here's a list of public Fediverse services.
 | `minidi.sc` | No |
 | `minidisc.rocks` | No |
 | `minidisc.tokyo` | No |
-| `minidon.one` | No |
+| `minidon.one` | Yes |
 | `minidot.social` | No |
 | `minihost.ovh` | No |
 | `minimal.blue` | No |
@@ -47653,8 +47654,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,133 |
-| Normal | 34,472 |
+| Cloudflare | 13,135 |
+| Normal | 34,471 |
 
 
 </details>
