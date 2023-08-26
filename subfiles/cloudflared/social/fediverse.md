@@ -7636,7 +7636,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -13848,7 +13848,7 @@ Here's a list of public Fediverse services.
 | `forfuture.fm` | No |
 | `forfuture.social` | No |
 | `forget-not.me` | Yes |
-| `forgetthis.site` | Yes |
+| `forgetthis.site` | No |
 | `forgi.social` | Yes |
 | `forgor.club` | Yes |
 | `foritso.com` | Yes |
@@ -36876,6 +36876,7 @@ Here's a list of public Fediverse services.
 | `sea-moon.net` | No |
 | `sea-mstdn.social` | Yes |
 | `sea.social` | No |
+| `seabunny.cafe` | Yes |
 | `seacow.social` | No |
 | `seafish.io` | Yes |
 | `seaflowers.xyz` | No |
@@ -47638,8 +47639,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,130 |
-| Normal | 34,460 |
+| Cloudflare | 13,129 |
+| Normal | 34,462 |
 
 
 </details>
