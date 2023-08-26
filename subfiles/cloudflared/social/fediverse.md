@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,510 |
 | net | 3,697 |
 | org | 2,482 |
-| de | 2,289 |
+| de | 2,290 |
 
 
 - Mastodon, Pleroma, etc
@@ -11397,6 +11397,7 @@ Here's a list of public Fediverse services.
 | `effi.org` | No |
 | `effinbirds.social` | No |
 | `effy.space` | No |
+| `efg-ober-ramstadt.de` | No |
 | `efir.red` | No |
 | `efnet.rip` | No |
 | `efnet.social` | Yes |
@@ -16568,6 +16569,7 @@ Here's a list of public Fediverse services.
 | `haha.rocks` | No |
 | `hahmo.site` | Yes |
 | `hahn.de.com` | No |
+| `hai.haus` | Yes |
 | `haibala.com` | Yes |
 | `haibane.info` | No |
 | `haiger.info` | No |
@@ -31830,6 +31832,7 @@ Here's a list of public Fediverse services.
 | `pawelko.net` | No |
 | `pawesome.online` | No |
 | `pawlicker.com` | No |
+| `pawn.nl` | No |
 | `pawoo.net` | No |
 | `pawopawo.net` | No |
 | `paws.gay` | No |
@@ -47660,8 +47663,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,136 |
-| Normal | 34,476 |
+| Cloudflare | 13,137 |
+| Normal | 34,478 |
 
 
 </details>
