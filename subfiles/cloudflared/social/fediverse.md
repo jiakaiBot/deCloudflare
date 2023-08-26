@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,287 |
-| social | 4,508 |
+| social | 4,509 |
 | net | 3,695 |
 | org | 2,481 |
 | de | 2,289 |
@@ -37157,6 +37157,7 @@ Here's a list of public Fediverse services.
 | `seoul.earth` | Yes |
 | `sepbit.com` | Yes |
 | `sepolia.tech` | Yes |
+| `seppo.social` | No |
 | `seppuku.club` | Yes |
 | `sequel.space` | No |
 | `sequentialread.com` | No |
@@ -47650,7 +47651,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,132 |
-| Normal | 34,469 |
+| Normal | 34,470 |
 
 
 </details>
