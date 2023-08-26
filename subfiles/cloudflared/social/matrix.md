@@ -43,7 +43,6 @@ Here's a list of public Matrix services.
 | matrix.cyberfurz.chat | No |
 | matrix.data.coop | No |
 | matrix.data.haus | No |
-| im.deuxfleurs.fr | No |
 | matrix.dieandalusier.net | No |
 | matrix.duesen.chat | No |
 | matrix.envs.net | No |
@@ -82,6 +81,7 @@ Here's a list of public Matrix services.
 | matrix.noevil.pl | No |
 | nope.chat | No |
 | matrix.norge.chat | Yes |
+| hs.obco.pro | Yes |
 | oikei.net | No |
 | matrix.ombreport.info | No |
 | pcriot.org | Yes |
@@ -119,8 +119,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 20 |
-| Normal | 72 |
+| Cloudflare | 21 |
+| Normal | 71 |
 
 
-### 21.7% of public Matrix services are using Cloudflare.
+### 22.8% of public Matrix services are using Cloudflare.
