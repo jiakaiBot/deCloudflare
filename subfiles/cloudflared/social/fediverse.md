@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,287 |
+| com | 7,289 |
 | social | 4,510 |
-| net | 3,695 |
+| net | 3,697 |
 | org | 2,482 |
 | de | 2,289 |
 
@@ -482,6 +482,7 @@ Here's a list of public Fediverse services.
 | `3towers.de` | No |
 | `3v.fi` | No |
 | `3v.is` | Yes |
+| `3v3rt.nl` | No |
 | `3wishes.tech` | Yes |
 | `3x1t.eu` | No |
 | `3xd.eu` | Yes |
@@ -1611,6 +1612,7 @@ Here's a list of public Fediverse services.
 | `alexezell.com` | No |
 | `alexforsale.site` | No |
 | `alexhatala.com` | No |
+| `alexhyett.com` | Yes |
 | `alexisart.me` | Yes |
 | `alexjamesconrad.com` | No |
 | `alexjanka.com` | No |
@@ -1634,6 +1636,7 @@ Here's a list of public Fediverse services.
 | `alexvan.in` | Yes |
 | `alexwacker.com` | Yes |
 | `alexwennerberg.com` | No |
+| `alexwlchan.net` | No |
 | `alexx.ml` | Yes |
 | `alexyang.me` | Yes |
 | `alfalfa.social` | No |
@@ -33420,6 +33423,7 @@ Here's a list of public Fediverse services.
 | `privacy.tk` | No |
 | `privacyfirst.social` | No |
 | `privacyfocus.it` | No |
+| `privacyfreedom.net` | No |
 | `privacyguides.org` | Yes |
 | `privacyhub.xyz` | No |
 | `privacyinternational.org` | Yes |
@@ -41128,6 +41132,7 @@ Here's a list of public Fediverse services.
 | `tfcconnection.org` | No |
 | `tfdn.cloud` | Yes |
 | `tfemily.com` | No |
+| `tffppodcast.com` | No |
 | `tfk.one` | No |
 | `tfl.net.pl` | No |
 | `tfnux.org` | No |
@@ -47655,8 +47660,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,135 |
-| Normal | 34,472 |
+| Cloudflare | 13,136 |
+| Normal | 34,476 |
 
 
 </details>
