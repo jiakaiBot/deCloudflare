@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,292 |
-| social | 4,511 |
+| social | 4,512 |
 | net | 3,698 |
 | org | 2,484 |
 | de | 2,290 |
@@ -6665,6 +6665,7 @@ Here's a list of public Fediverse services.
 | `charade.social` | No |
 | `charcha.cc` | No |
 | `charcolle.art` | No |
+| `chare.social` | No |
 | `chargen.one` | Yes |
 | `chariri.moe` | Yes |
 | `chariz.com` | Yes |
@@ -33719,7 +33720,6 @@ Here's a list of public Fediverse services.
 | `pufferzone.racing` | No |
 | `puffin.social` | Yes |
 | `puffy.work` | No |
-| `puffybsd.space` | No |
 | `pug.family` | No |
 | `pug.ninja` | Yes |
 | `pug.photos` | No |
