@@ -30,8 +30,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,292 |
-| social | 4,512 |
-| net | 3,700 |
+| social | 4,513 |
+| net | 3,703 |
 | org | 2,484 |
 | de | 2,291 |
 
@@ -1864,6 +1864,7 @@ Here's a list of public Fediverse services.
 | `altnews.social` | No |
 | `altoetting.social` | No |
 | `alton.cloud` | No |
+| `altrinformazione.net` | No |
 | `altsoshl.com` | No |
 | `alttube.fr` | No |
 | `alttwitter.com` | No |
@@ -3180,6 +3181,7 @@ Here's a list of public Fediverse services.
 | `augsburg.social` | No |
 | `augsburglular.live` | Yes |
 | `august-don.site` | Yes |
+| `august26th.net` | No |
 | `augustinus.jp` | No |
 | `auka.me` | No |
 | `aukfood.net` | No |
@@ -20410,6 +20412,7 @@ Here's a list of public Fediverse services.
 | `jxm.ca` | No |
 | `jxmsocial.xyz` | No |
 | `jxs.me` | Yes |
+| `jykeji.online` | No |
 | `jyln.dev` | No |
 | `jymuoyu.com` | Yes |
 | `jynxd.it` | Yes |
@@ -22630,6 +22633,7 @@ Here's a list of public Fediverse services.
 | `legu.one` | Yes |
 | `legume.fans` | No |
 | `lehernet.de` | Yes |
+| `lehhair.net` | Yes |
 | `lehman-family.com` | No |
 | `lehmann.zone` | No |
 | `lehrerfortbildung-bw.de` | No |
@@ -45102,6 +45106,7 @@ Here's a list of public Fediverse services.
 | `wandel.social` | No |
 | `wanderers-waypoint.com` | Yes |
 | `wanderers.quest` | Yes |
+| `wanderia.online` | Yes |
 | `wandering.one` | No |
 | `wandering.shop` | No |
 | `wanderingjon.com` | Yes |
@@ -46030,6 +46035,7 @@ Here's a list of public Fediverse services.
 | `worlddominationplan.com` | No |
 | `worlddrive.club` | No |
 | `worldexec.de` | No |
+| `worldhopper.social` | No |
 | `worldisafuck.com` | No |
 | `worldkey.io` | Yes |
 | `worldofhauru.xyz` | No |
@@ -47687,8 +47693,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,149 |
-| Normal | 34,490 |
+| Cloudflare | 13,151 |
+| Normal | 34,494 |
 
 
 </details>
