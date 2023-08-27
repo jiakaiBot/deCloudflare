@@ -5723,7 +5723,7 @@ Here's a list of public Fediverse services.
 | `bunbu.net` | No |
 | `bunch.dev` | Yes |
 | `bund.co` | No |
-| `bund.de` | No |
+| `bund.de` | Yes |
 | `bundescast.de` | No |
 | `bundestrollministerium.de` | No |
 | `bundsgaard.net` | No |
@@ -7649,7 +7649,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -29278,6 +29278,7 @@ Here's a list of public Fediverse services.
 | `nightmare.digital` | No |
 | `nightmare.haus` | No |
 | `nightmare.zone` | No |
+| `nightmared.fr` | No |
 | `nightowl.jp` | No |
 | `nightrider.mastodon` | No |
 | `nightrider.tech` | Yes |
@@ -31874,6 +31875,7 @@ Here's a list of public Fediverse services.
 | `pbg.hu` | No |
 | `pbjtechnical.com` | No |
 | `pbk.social` | No |
+| `pbox.dev` | No |
 | `pbs.idv.tw` | Yes |
 | `pbzweihander.dev` | No |
 | `pbzweihander.social` | Yes |
@@ -47695,7 +47697,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,152 |
+| Cloudflare | 13,154 |
 | Normal | 34,495 |
 
 
