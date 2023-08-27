@@ -15522,6 +15522,7 @@ Here's a list of public Fediverse services.
 | `gitgrug.com` | No |
 | `github.dev` | No |
 | `github.io` | No |
+| `gitler.moe` | No |
 | `gitmo.life` | No |
 | `gitmo.tv` | No |
 | `gitpod.io` | No |
@@ -47695,7 +47696,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,152 |
-| Normal | 34,494 |
+| Normal | 34,495 |
 
 
 </details>
