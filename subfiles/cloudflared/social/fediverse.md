@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,516 |
 | net | 3,703 |
 | org | 2,485 |
-| de | 2,291 |
+| de | 2,292 |
 
 
 - Mastodon, Pleroma, etc
@@ -23265,6 +23265,7 @@ Here's a list of public Fediverse services.
 | `linksfraktion.de` | No |
 | `linksgruenversifft.com` | Yes |
 | `linksgruenversifft.social` | No |
+| `linksjugend-solid.de` | No |
 | `linkybook.com` | No |
 | `lino.cooking` | Yes |
 | `linode.com` | Yes |
@@ -47705,7 +47706,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,158 |
-| Normal | 34,498 |
+| Normal | 34,499 |
 
 
 </details>
