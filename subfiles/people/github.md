@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issues when connecting @neondatabase/serverless with Cloudlfare Durable Objects](https://github.com/neondatabase/serverless/issues/45)
 - [curl: (3) URL rejected: No host part in the URL](https://github.com/dragoonDorise/EmuDeck/issues/849)
 - [connection reset by peer](https://github.com/ViRb3/wgcf/issues/320)
 - [Search seems to cause errors in Firefox](https://github.com/krateng/maloja/issues/237)
