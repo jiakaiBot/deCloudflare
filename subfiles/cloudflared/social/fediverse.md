@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,289 |
+| com | 7,290 |
 | social | 4,510 |
-| net | 3,697 |
+| net | 3,698 |
 | org | 2,482 |
 | de | 2,290 |
 
@@ -20782,6 +20782,7 @@ Here's a list of public Fediverse services.
 | `kawaii.social` | No |
 | `kawaiidelic.space` | No |
 | `kawaiipunk.xyz` | No |
+| `kawaiistarlight.online` | Yes |
 | `kawaiistu.moe` | No |
 | `kawaiivrc.site` | Yes |
 | `kawaiuniv.work` | No |
@@ -25869,6 +25870,7 @@ Here's a list of public Fediverse services.
 | `meglia.dev` | Yes |
 | `mego.bar` | Yes |
 | `megorei.net` | No |
+| `meguhub.com` | Yes |
 | `meh.social` | No |
 | `mehalter.com` | Yes |
 | `mehdibenadel.com` | No |
@@ -34061,7 +34063,7 @@ Here's a list of public Fediverse services.
 | `quey.la` | No |
 | `quey.org` | Yes |
 | `quic.fr` | No |
-| `quickbrb.chat` | No |
+| `quickbrb.chat` | Yes |
 | `quickbrb.com` | Yes |
 | `quickfix.es` | No |
 | `quiet.horse` | No |
@@ -38747,6 +38749,7 @@ Here's a list of public Fediverse services.
 | `sotl.social` | No |
 | `soton.eco` | No |
 | `sotong.cloud` | No |
+| `sotu.casa` | Yes |
 | `soucy.cc` | No |
 | `souder.ca` | No |
 | `soukun.io` | Yes |
@@ -41229,6 +41232,7 @@ Here's a list of public Fediverse services.
 | `the937.rocks` | No |
 | `the9thcircle.club` | No |
 | `theabsolute.plus` | Yes |
+| `theaddict.ink` | No |
 | `theaddict.xyz` | No |
 | `theaether.space` | Yes |
 | `theagora.one` | No |
@@ -43409,6 +43413,7 @@ Here's a list of public Fediverse services.
 | `typing.fish` | Yes |
 | `typing.ink` | No |
 | `typing.sexy` | No |
+| `typingcode.net` | No |
 | `typlus.net` | No |
 | `typo.cx` | No |
 | `typo.science` | Yes |
@@ -47664,8 +47669,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,139 |
-| Normal | 34,477 |
+| Cloudflare | 13,143 |
+| Normal | 34,478 |
 
 
 </details>
