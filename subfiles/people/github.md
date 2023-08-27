@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [curl: (3) URL rejected: No host part in the URL](https://github.com/dragoonDorise/EmuDeck/issues/849)
 - [connection reset by peer](https://github.com/ViRb3/wgcf/issues/320)
 - [Search seems to cause errors in Firefox](https://github.com/krateng/maloja/issues/237)
 - [Firefox repeatedly shows PR_END_OF_FILE_ERROR when browsing](https://github.com/MHSanaei/3x-ui/issues/971)
