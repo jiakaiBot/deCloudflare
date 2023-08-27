@@ -29165,6 +29165,7 @@ Here's a list of public Fediverse services.
 | `nharrisonripps.com` | No |
 | `nhcclub.net` | No |
 | `nhcrossing.com` | No |
+| `nheko.io` | Yes |
 | `nhentai.ink` | Yes |
 | `nhg.moe` | No |
 | `nho.io` | No |
@@ -34647,6 +34648,7 @@ Here's a list of public Fediverse services.
 | `raytec.co` | No |
 | `rayven.mx` | No |
 | `raza.social` | No |
+| `razbot.xyz` | Yes |
 | `raziel.space` | No |
 | `razmadze.me` | Yes |
 | `razormonkey.eu` | Yes |
@@ -47702,7 +47704,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,156 |
+| Cloudflare | 13,158 |
 | Normal | 34,498 |
 
 
