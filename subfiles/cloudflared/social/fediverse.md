@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,292 |
 | social | 4,517 |
 | net | 3,703 |
-| org | 2,485 |
+| org | 2,486 |
 | de | 2,292 |
 
 
@@ -35203,6 +35203,7 @@ Here's a list of public Fediverse services.
 | `rf1155.de` | No |
 | `rfc1149.net` | No |
 | `rfc1437.de` | No |
+| `rfc1925.org` | Yes |
 | `rffrs.org` | No |
 | `rfj.social` | No |
 | `rgb.monster` | Yes |
@@ -47706,7 +47707,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,158 |
+| Cloudflare | 13,159 |
 | Normal | 34,500 |
 
 
