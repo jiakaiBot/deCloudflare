@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,290 |
-| social | 4,510 |
+| com | 7,292 |
+| social | 4,511 |
 | net | 3,698 |
-| org | 2,483 |
+| org | 2,484 |
 | de | 2,290 |
 
 
@@ -246,6 +246,7 @@ Here's a list of public Fediverse services.
 | `13bells.com` | No |
 | `141.lv` | No |
 | `143420.xyz` | Yes |
+| `1435.es` | No |
 | `14kw13.com` | Yes |
 | `14r8.club` | No |
 | `15-15-15.social` | No |
@@ -5773,6 +5774,7 @@ Here's a list of public Fediverse services.
 | `burner.social` | No |
 | `burner.zone` | No |
 | `burners.social` | No |
+| `burning.moe` | No |
 | `burningbird.net` | No |
 | `burningboard.net` | No |
 | `burningnebula.net` | No |
@@ -12988,6 +12990,7 @@ Here's a list of public Fediverse services.
 | `fedifit.site` | No |
 | `fediflix.de` | No |
 | `fediflix.social` | No |
+| `fedifriends.social` | No |
 | `fedifrog.com` | No |
 | `fedifur.social` | No |
 | `fediglobal.com` | No |
@@ -15815,6 +15818,7 @@ Here's a list of public Fediverse services.
 | `golf-olszewka.pl` | No |
 | `golfdn.com` | No |
 | `golfis.fun` | No |
+| `golgoth.org` | No |
 | `golgy.net` | Yes |
 | `golietz.de` | No |
 | `golive.space` | No |
@@ -20908,6 +20912,7 @@ Here's a list of public Fediverse services.
 | `keks.top` | No |
 | `kekstorm.club` | No |
 | `kektus.io` | Yes |
+| `kelarima.com` | No |
 | `kelbie.scot` | No |
 | `kele.one` | No |
 | `kelleher.social` | No |
@@ -33714,7 +33719,6 @@ Here's a list of public Fediverse services.
 | `pufferzone.racing` | No |
 | `puffin.social` | Yes |
 | `puffy.work` | No |
-| `puffybsd.space` | No |
 | `pug.family` | No |
 | `pug.ninja` | Yes |
 | `pug.photos` | No |
@@ -37046,6 +37050,7 @@ Here's a list of public Fediverse services.
 | `seglerinfo.social` | No |
 | `segment7.net` | No |
 | `segu-info.com.ar` | Yes |
+| `segundo.io` | Yes |
 | `sehfahrten.de` | No |
 | `sehnot.net` | No |
 | `sehol.se` | Yes |
@@ -42255,6 +42260,7 @@ Here's a list of public Fediverse services.
 | `tomaszd.eu` | No |
 | `tomaszdunia.pl` | Yes |
 | `tomat0.me` | No |
+| `tomatenkuchen.com` | Yes |
 | `tomatoa.club` | No |
 | `tomatotux.net` | No |
 | `tomaz.me` | Yes |
@@ -44760,6 +44766,7 @@ Here's a list of public Fediverse services.
 | `voidptr.wtf` | No |
 | `voidsight.net` | Yes |
 | `voidstern.net` | No |
+| `voidsurf.world` | No |
 | `voidtek.com` | Yes |
 | `voidwood.online` | No |
 | `voidwork.space` | No |
@@ -45865,6 +45872,7 @@ Here's a list of public Fediverse services.
 | `wkwk.land` | Yes |
 | `wkwkwk.fun` | Yes |
 | `wlabs.de` | No |
+| `wladyspb.pro` | No |
 | `wlcx.industries` | Yes |
 | `wltr.pw` | Yes |
 | `wlw.pw` | Yes |
@@ -47671,8 +47679,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,143 |
-| Normal | 34,480 |
+| Cloudflare | 13,145 |
+| Normal | 34,486 |
 
 
 </details>
