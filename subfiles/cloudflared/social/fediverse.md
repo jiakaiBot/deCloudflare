@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,292 |
 | social | 4,512 |
-| net | 3,699 |
+| net | 3,700 |
 | org | 2,484 |
 | de | 2,291 |
 
@@ -7430,6 +7430,7 @@ Here's a list of public Fediverse services.
 | `co.ukfriend` | No |
 | `co23.net` | No |
 | `co33k.org` | No |
+| `co8rt.blue` | Yes |
 | `coales.co` | No |
 | `coalition.zone` | No |
 | `coasterfreak88.net` | No |
@@ -29109,6 +29110,7 @@ Here's a list of public Fediverse services.
 | `nextcloud-music-vault.de` | No |
 | `nextcloud.com` | No |
 | `nextgamers.eu` | No |
+| `nextgeimu.net` | No |
 | `nextinnonprofits.com` | Yes |
 | `nextme.tk` | No |
 | `nextpayge.social` | Yes |
@@ -30088,6 +30090,7 @@ Here's a list of public Fediverse services.
 | `nulled.red` | Yes |
 | `nulled.social` | No |
 | `nullfu.org` | No |
+| `nulli.win` | No |
 | `nullio.net` | Yes |
 | `nullisland.social` | No |
 | `nullnet.us` | No |
@@ -42760,7 +42763,7 @@ Here's a list of public Fediverse services.
 | `transportation.social` | Yes |
 | `transportevolved.com` | Yes |
 | `transportfornewhomes.org.uk` | No |
-| `transpridesouthampton.org` | No |
+| `transpridesouthampton.org` | Yes |
 | `transqueer.club` | Yes |
 | `transrights.art` | Yes |
 | `transrights.ovh` | No |
@@ -46021,7 +46024,7 @@ Here's a list of public Fediverse services.
 | `worldblindherald.com` | Yes |
 | `worldbuildersforge.com` | No |
 | `worldbuilding.zone` | No |
-| `worldc.one` | No |
+| `worldc.one` | Yes |
 | `worldclassriffraff.ink` | No |
 | `worlddominationplan.com` | No |
 | `worlddrive.club` | No |
@@ -47683,7 +47686,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,146 |
+| Cloudflare | 13,149 |
 | Normal | 34,489 |
 
 
