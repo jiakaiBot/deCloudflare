@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,292 |
 | social | 4,513 |
 | net | 3,703 |
-| org | 2,484 |
+| org | 2,485 |
 | de | 2,291 |
 
 
@@ -14404,6 +14404,7 @@ Here's a list of public Fediverse services.
 | `frontend.social` | No |
 | `frontierfoundry.co` | Yes |
 | `frontrange.co` | Yes |
+| `froonix.org` | No |
 | `froop.com` | No |
 | `frootmig.net` | No |
 | `frorayz.tech` | Yes |
@@ -22576,7 +22577,7 @@ Here's a list of public Fediverse services.
 | `lecygnenoir.info` | No |
 | `leddit.social` | Yes |
 | `ledeuns.net` | No |
-| `ledfan.be` | No |
+| `ledfan.be` | Yes |
 | `lediver.se` | No |
 | `ledoian.cz` | No |
 | `leds.social` | No |
@@ -47693,7 +47694,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,151 |
+| Cloudflare | 13,152 |
 | Normal | 34,494 |
 
 
