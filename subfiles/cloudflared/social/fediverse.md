@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,292 |
-| social | 4,513 |
+| social | 4,516 |
 | net | 3,703 |
 | org | 2,485 |
 | de | 2,291 |
@@ -4012,6 +4012,7 @@ Here's a list of public Fediverse services.
 | `beebl.es` | Yes |
 | `beech.org.uk` | No |
 | `beef.moe` | Yes |
+| `beef.social` | Yes |
 | `beefboyz.com` | Yes |
 | `beefboyz.net` | Yes |
 | `beefus.camp` | No |
@@ -5193,6 +5194,7 @@ Here's a list of public Fediverse services.
 | `bootblackcub.com` | No |
 | `boothcomputing.social` | No |
 | `booths.cyou` | Yes |
+| `boothtml.social` | No |
 | `bootjp.me` | Yes |
 | `bootlicker.party` | No |
 | `bootlicker.world` | No |
@@ -7815,6 +7817,7 @@ Here's a list of public Fediverse services.
 | `conlangery.com` | No |
 | `conley.io` | No |
 | `conman.co.za` | No |
+| `conn.rs` | Yes |
 | `conne.cc` | Yes |
 | `connect.cafe` | No |
 | `connected.so` | Yes |
@@ -34171,6 +34174,7 @@ Here's a list of public Fediverse services.
 | `qwerty.onl` | No |
 | `qwjyh.net` | Yes |
 | `qwq.dog` | Yes |
+| `qwq.link` | No |
 | `qwq.mx` | Yes |
 | `qwq.one` | Yes |
 | `qwq.ooo` | Yes |
@@ -35045,6 +35049,7 @@ Here's a list of public Fediverse services.
 | `republicofmayhem.xyz` | No |
 | `republicofthieves.org` | No |
 | `republik.ch` | Yes |
+| `republik.social` | No |
 | `reputatio.us` | No |
 | `req.im` | No |
 | `rerac.dev` | Yes |
@@ -47697,8 +47702,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,154 |
-| Normal | 34,495 |
+| Cloudflare | 13,156 |
+| Normal | 34,498 |
 
 
 </details>
