@@ -3441,6 +3441,7 @@ Do not create new issue or we will close it as duplicate.
 | [EmanRuoy123@twitter](https://twitter.com/EmanRuoy123/status/1554761591870357504) | advertise |
 | [EMATiON@twitter](https://twitter.com/EMATiON/status/1538236295150981120) | advertise |
 | [embedded_iot@twitter](https://twitter.com/embedded_iot/status/1480167905132228613) | advertise |
+| [ember_host@twitter](https://twitter.com/ember_host/status/1695889373785698494) | advertise |
 | [EMChat_cloud@twitter](https://twitter.com/EMChat_cloud/status/1530900726561521666) | advertise |
 | [emdi_3@twitter](https://twitter.com/emdi_3/status/1571153701213184001) | advertise |
 | [emile_elliye@twitter](https://twitter.com/emile_elliye/status/1647860272143429634) | advertise |
