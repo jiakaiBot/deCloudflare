@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,512 |
 | net | 3,699 |
 | org | 2,484 |
-| de | 2,290 |
+| de | 2,291 |
 
 
 - Mastodon, Pleroma, etc
@@ -32025,6 +32025,7 @@ Here's a list of public Fediverse services.
 | `peliculaspro.net` | Yes |
 | `pelitutkimus.fi` | No |
 | `pelliphant.social` | No |
+| `pelzel.de` | No |
 | `pelzfeld.com` | No |
 | `pelzi-online.net` | No |
 | `pena.mobi` | Yes |
@@ -33720,7 +33721,6 @@ Here's a list of public Fediverse services.
 | `pufferzone.racing` | No |
 | `puffin.social` | Yes |
 | `puffy.work` | No |
-| `puffybsd.space` | No |
 | `pug.family` | No |
 | `pug.ninja` | Yes |
 | `pug.photos` | No |
