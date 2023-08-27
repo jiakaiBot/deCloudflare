@@ -33719,6 +33719,7 @@ Here's a list of public Fediverse services.
 | `pufferzone.racing` | No |
 | `puffin.social` | Yes |
 | `puffy.work` | No |
+| `puffybsd.space` | No |
 | `pug.family` | No |
 | `pug.ninja` | Yes |
 | `pug.photos` | No |
@@ -47680,7 +47681,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,145 |
-| Normal | 34,486 |
+| Normal | 34,487 |
 
 
 </details>
