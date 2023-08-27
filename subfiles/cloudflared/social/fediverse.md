@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,292 |
 | social | 4,512 |
-| net | 3,698 |
+| net | 3,699 |
 | org | 2,484 |
 | de | 2,290 |
 
@@ -33720,6 +33720,7 @@ Here's a list of public Fediverse services.
 | `pufferzone.racing` | No |
 | `puffin.social` | Yes |
 | `puffy.work` | No |
+| `puffybsd.space` | No |
 | `pug.family` | No |
 | `pug.ninja` | Yes |
 | `pug.photos` | No |
@@ -33992,6 +33993,7 @@ Here's a list of public Fediverse services.
 | `quantumindigo.org` | Yes |
 | `quantumobserver.eu` | No |
 | `quaoar.xyz` | Yes |
+| `quaqoostore.net` | No |
 | `quarterbacks.win` | Yes |
 | `quarteredcircle.net` | No |
 | `quasar.casa` | No |
@@ -47681,7 +47683,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,145 |
-| Normal | 34,487 |
+| Normal | 34,489 |
 
 
 </details>
