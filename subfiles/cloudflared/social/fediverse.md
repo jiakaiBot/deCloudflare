@@ -17685,7 +17685,7 @@ Here's a list of public Fediverse services.
 | `hope-pf27.moe` | Yes |
 | `hope.ooo` | No |
 | `hopefullyread.com` | No |
-| `hopeinthefield.net` | No |
+| `hopeinthefield.net` | Yes |
 | `hopeph.com` | Yes |
 | `hopman.nl` | No |
 | `hopmann.xyz` | No |
@@ -46021,6 +46021,7 @@ Here's a list of public Fediverse services.
 | `worldblindherald.com` | Yes |
 | `worldbuildersforge.com` | No |
 | `worldbuilding.zone` | No |
+| `worldc.one` | No |
 | `worldclassriffraff.ink` | No |
 | `worlddominationplan.com` | No |
 | `worlddrive.club` | No |
@@ -47682,7 +47683,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,145 |
+| Cloudflare | 13,146 |
 | Normal | 34,489 |
 
 
