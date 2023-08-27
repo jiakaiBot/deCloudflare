@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,292 |
-| social | 4,516 |
+| social | 4,517 |
 | net | 3,703 |
 | org | 2,485 |
 | de | 2,292 |
@@ -31602,6 +31602,7 @@ Here's a list of public Fediverse services.
 | `panaitesco.com` | Yes |
 | `panarky.com` | No |
 | `panatropic.computer` | No |
+| `panatropic.social` | No |
 | `pancake.place` | Yes |
 | `pancakesontuesday.com` | No |
 | `panda.id.au` | No |
@@ -47706,7 +47707,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,158 |
-| Normal | 34,499 |
+| Normal | 34,500 |
 
 
 </details>
