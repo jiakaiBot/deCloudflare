@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,295 |
-| social | 4,517 |
+| com | 7,296 |
+| social | 4,518 |
 | net | 3,704 |
 | org | 2,488 |
 | de | 2,292 |
@@ -3006,6 +3006,7 @@ Here's a list of public Fediverse services.
 | `astolfo.social` | No |
 | `astoundingteam.com` | No |
 | `astra.lol` | Yes |
+| `astraea.pink` | Yes |
 | `astragroup.info` | Yes |
 | `astral-gate.network` | No |
 | `astral.camp` | Yes |
@@ -5507,6 +5508,7 @@ Here's a list of public Fediverse services.
 | `brighton.social` | Yes |
 | `brightside.social` | No |
 | `brignell.co` | No |
+| `briller.one` | No |
 | `brimstor.me` | Yes |
 | `brined.fish` | Yes |
 | `bring.tw` | Yes |
@@ -12644,6 +12646,7 @@ Here's a list of public Fediverse services.
 | `famichiki.com` | No |
 | `famichiki.jp` | Yes |
 | `famichiki.tube` | No |
+| `famick.social` | No |
 | `famidup.fr` | No |
 | `familie-de-boer.net` | No |
 | `familie-hanslik.de` | No |
@@ -15535,6 +15538,7 @@ Here's a list of public Fediverse services.
 | `gitpod.io` | No |
 | `gitport.net` | Yes |
 | `giurgiu.io` | No |
+| `giveanornot.com` | No |
 | `giveawaydispenser.com` | No |
 | `givel.fr` | No |
 | `givelotus.life` | No |
@@ -24596,6 +24600,7 @@ Here's a list of public Fediverse services.
 | `manganiello.tech` | No |
 | `mangayoh.fr` | No |
 | `mangin.com` | No |
+| `mango.vg` | Yes |
 | `mangoranch.lol` | No |
 | `manhater.io` | No |
 | `manheim.info` | No |
@@ -47723,8 +47728,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,167 |
-| Normal | 34,508 |
+| Cloudflare | 13,169 |
+| Normal | 34,511 |
 
 
 </details>
