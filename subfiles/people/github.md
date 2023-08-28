@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Problemas con nginx-proxy y letsencrypt](https://github.com/pablokbs/peladonerd/issues/251)
+- [libsodium in cloudflare worker](https://github.com/vawogbemi/moneytalks/issues/1)
 - [Error when using nhentai](https://github.com/HDoujinDownloader/HDoujinDownloader/issues/239)
 - [Port forwarding on VPS to access CF warp server](https://github.com/ViRb3/wgcf/issues/321)
 - [Issues when connecting @neondatabase/serverless with Cloudlfare Durable Objects](https://github.com/neondatabase/serverless/issues/45)
