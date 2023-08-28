@@ -30426,6 +30426,7 @@ Here's a list of public Fediverse services.
 | `odenwald.social` | No |
 | `odessen.com` | No |
 | `odezie.eu` | No |
+| `odezie.site` | No |
 | `odezie.social` | No |
 | `odgaard.ca` | No |
 | `odin.run` | Yes |
@@ -47715,7 +47716,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,163 |
-| Normal | 34,503 |
+| Normal | 34,504 |
 
 
 </details>
