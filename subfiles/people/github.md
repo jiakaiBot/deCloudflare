@@ -4,6 +4,10 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Elevated 5xx/499s errors](https://github.com/SecOpsNews/news/issues/18124)
+- [CloudFlare Elevated 5xx/499s errors](https://github.com/hinoshiba/news/issues/2793)
+- [CloudFlare Elevated 502 errors](https://github.com/SecOpsNews/news/issues/18122)
+- [CloudFlare Elevated 502 errors](https://github.com/hinoshiba/news/issues/2791)
 - [ErrorException: Undefined array key 1 in FieldMasker.php](https://github.com/Treblle/treblle-laravel/issues/79)
 - [1vyra.in website down](https://github.com/n4ru/1vyrain/issues/126)
 - [Problemas con nginx-proxy y letsencrypt](https://github.com/pablokbs/peladonerd/issues/251)
