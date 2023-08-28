@@ -66,6 +66,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cgnat.net | No |
 | chenu.ch | No |
 | cira.ca | Yes |
+| circl.lu | No |
 | clanless.ovh | Yes |
 | cloudflare-dns.com | Yes |
 | crypto.sx | Yes |
@@ -136,6 +137,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hanahira.dev | Yes |
 | haneulo.com | Yes |
 | haoxuan.xyz | Yes |
+| hdns.io | No |
+| he.net | No |
 | heliumcloud.cc | Yes |
 | hinet.net | Yes |
 | hitian.me | Yes |
@@ -181,6 +184,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lavate.ch | Yes |
 | lefolgoc.net | No |
 | lekdijk.online | No |
+| libredns.gr | No |
 | lindung.pp.ua | Yes |
 | linkr.ninja | No |
 | lonet.org | Yes |
@@ -208,6 +212,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | myon.lu | No |
 | n0.eu | No |
 | nas-server.ru | Yes |
+| ndo.dev | Yes |
 | nexific.it | Yes |
 | nhtsky.com | Yes |
 | nic.cz | No |
@@ -230,6 +235,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ofdoom.net | Yes |
 | onedns.cc | Yes |
 | onedns.net | No |
+| openbld.net | No |
 | opendns.com | Yes |
 | ozer.im | No |
 | paesa.es | Yes |
@@ -279,6 +285,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | slinkyman.net | Yes |
 | sntrk.ru | Yes |
 | softcom.net | No |
+| spacedns.org | No |
 | spectrum.com | Yes |
 | spil.co.id | Yes |
 | ssrahul96.xyz | Yes |
@@ -334,8 +341,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 159 |
-| Normal | 156 |
+| Cloudflare | 160 |
+| Normal | 162 |
 
 
-### 50.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 49.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
