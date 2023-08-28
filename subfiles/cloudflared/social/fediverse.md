@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,294 |
+| com | 7,295 |
 | social | 4,517 |
 | net | 3,704 |
 | org | 2,487 |
@@ -26065,6 +26065,7 @@ Here's a list of public Fediverse services.
 | `meowy.tech` | No |
 | `meowz.moe` | No |
 | `mepiu.it` | No |
+| `mer.moe` | Yes |
 | `merab.xyz` | No |
 | `mercerist.space` | No |
 | `merci-la-police.fr` | No |
@@ -30476,6 +30477,7 @@ Here's a list of public Fediverse services.
 | `offf.online` | No |
 | `official-sounding.com` | No |
 | `official.community` | No |
+| `official.jp` | No |
 | `officially.social` | Yes |
 | `officials.social` | Yes |
 | `officiating.rocks` | No |
@@ -37476,6 +37478,7 @@ Here's a list of public Fediverse services.
 | `shi4home.com` | Yes |
 | `shibabox.eu` | Yes |
 | `shibe.family` | Yes |
+| `shibimega.com` | Yes |
 | `shibimega.social` | Yes |
 | `shiftyeyed.net` | No |
 | `shigadon.com` | No |
@@ -47715,8 +47718,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,163 |
-| Normal | 34,504 |
+| Cloudflare | 13,165 |
+| Normal | 34,505 |
 
 
 </details>
