@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ErrorException: Undefined array key 1 in FieldMasker.php](https://github.com/Treblle/treblle-laravel/issues/79)
 - [1vyra.in website down](https://github.com/n4ru/1vyrain/issues/126)
 - [Problemas con nginx-proxy y letsencrypt](https://github.com/pablokbs/peladonerd/issues/251)
 - [libsodium in cloudflare worker](https://github.com/vawogbemi/moneytalks/issues/1)
