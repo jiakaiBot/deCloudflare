@@ -12288,6 +12288,7 @@ Here's a list of public Fediverse services.
 | `evansims.com` | Yes |
 | `evanstoner.com` | Yes |
 | `evanv.nl` | No |
+| `evazero.club` | Yes |
 | `eveland.dev` | No |
 | `eveley.net` | No |
 | `evelyn.fitness` | Yes |
@@ -47707,7 +47708,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,159 |
+| Cloudflare | 13,160 |
 | Normal | 34,500 |
 
 
