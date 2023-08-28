@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,292 |
+| com | 7,294 |
 | social | 4,517 |
-| net | 3,703 |
-| org | 2,486 |
+| net | 3,704 |
+| org | 2,487 |
 | de | 2,292 |
 
 
@@ -7775,6 +7775,7 @@ Here's a list of public Fediverse services.
 | `comradesinarms.social` | No |
 | `comradical.net` | Yes |
 | `coms.hk` | Yes |
+| `comsao.com` | Yes |
 | `comune.trento.it` | No |
 | `comunidade.fr` | No |
 | `comunismo.online` | No |
@@ -24622,6 +24623,7 @@ Here's a list of public Fediverse services.
 | `mantyke.icu` | Yes |
 | `manu.systems` | Yes |
 | `manualdousuario.net` | Yes |
+| `manuel-bauer.net` | No |
 | `manuelcortez.net` | Yes |
 | `manulanglois.fr` | No |
 | `manuviciano.com` | No |
@@ -25792,6 +25794,7 @@ Here's a list of public Fediverse services.
 | `mebitek.com` | Yes |
 | `mecanis.me` | Yes |
 | `mecha.garden` | Yes |
+| `mechadarwin.com` | No |
 | `mechanicalmischief.com` | No |
 | `mechanizedarmadillo.com` | Yes |
 | `mechapower.eu` | Yes |
@@ -26086,6 +26089,7 @@ Here's a list of public Fediverse services.
 | `meron.cloud` | Yes |
 | `meron.io` | Yes |
 | `merovingian.club` | Yes |
+| `merp.digital` | No |
 | `merry.eu.org` | No |
 | `mersenne-sister.net` | No |
 | `merta.social` | No |
@@ -36871,7 +36875,7 @@ Here's a list of public Fediverse services.
 | `scrivimi.ch` | No |
 | `scronch.com` | No |
 | `scronkfinkle.net` | Yes |
-| `scrubbles.tech` | No |
+| `scrubbles.tech` | Yes |
 | `scrubjay.social` | Yes |
 | `scruffy.parts` | Yes |
 | `scrum.town` | No |
@@ -43087,6 +43091,7 @@ Here's a list of public Fediverse services.
 | `tsukihi.moe` | Yes |
 | `tsukim.io` | Yes |
 | `tsukimi.club` | Yes |
+| `tsukimio.org` | Yes |
 | `tsukiyo.dev` | Yes |
 | `tsukuba.io` | Yes |
 | `tsukuba.one` | Yes |
@@ -47428,6 +47433,7 @@ Here's a list of public Fediverse services.
 | `zetmus.fr` | Yes |
 | `zetsubou.xn--q9jyb4c` | Yes |
 | `zettas.space` | No |
+| `zettel.haus` | No |
 | `zettelkasten.social` | No |
 | `zeus.gent` | No |
 | `zeuslink.net` | Yes |
@@ -47708,8 +47714,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,160 |
-| Normal | 34,500 |
+| Cloudflare | 13,163 |
+| Normal | 34,503 |
 
 
 </details>
