@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-08-28: [Cloudflare Cloud Access Security Broker (CASB) Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xy9bysgsnw7x)
 - 2023-08-25: [Zone Hold Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zcrpms5cpxww)
 - 2023-08-23: [Network Performance Issues in China](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/rmk5plxjqyf3)
 - 2023-08-21: [Network Performance Issues in Sydney(SYD)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kxr5svj1wpjn)
