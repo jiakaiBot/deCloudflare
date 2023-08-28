@@ -39,6 +39,7 @@ Here's a list of public Matrix services.
 | matrix.chatwave.org | No |
 | chrrreeeeesss.com | No |
 | matrix-client.comm.cx | Yes |
+| matrix.community.rs | Yes |
 | converser.eu | No |
 | matrix.cyberfurz.chat | No |
 | matrix.data.coop | No |
@@ -120,8 +121,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 21 |
+| Cloudflare | 22 |
 | Normal | 72 |
 
 
-### 22.6% of public Matrix services are using Cloudflare.
+### 23.4% of public Matrix services are using Cloudflare.
