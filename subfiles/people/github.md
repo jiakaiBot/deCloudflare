@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [1vyra.in website down](https://github.com/n4ru/1vyrain/issues/126)
 - [Problemas con nginx-proxy y letsencrypt](https://github.com/pablokbs/peladonerd/issues/251)
 - [libsodium in cloudflare worker](https://github.com/vawogbemi/moneytalks/issues/1)
 - [Error when using nhentai](https://github.com/HDoujinDownloader/HDoujinDownloader/issues/239)
