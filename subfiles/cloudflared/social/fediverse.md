@@ -9274,7 +9274,7 @@ Here's a list of public Fediverse services.
 | `davidlohner.de` | No |
 | `davidmaitland.me` | Yes |
 | `davidmarsden.info` | No |
-| `davidmccann.com` | No |
+| `davidmccann.com` | Yes |
 | `davidmckeitch.com` | Yes |
 | `davidmckeitch.social` | Yes |
 | `davidp.de` | No |
@@ -10715,6 +10715,7 @@ Here's a list of public Fediverse services.
 | `dragon-lair.social` | No |
 | `dragon.garden` | No |
 | `dragon.navy` | No |
+| `dragon.ooo` | No |
 | `dragon.style` | No |
 | `dragon2611.net` | Yes |
 | `dragonbones.net` | No |
@@ -19247,7 +19248,7 @@ Here's a list of public Fediverse services.
 | `itsfree.realestate.pl` | No |
 | `itsg.host` | Yes |
 | `itsgarrett.com` | Yes |
-| `itsgonna.com` | No |
+| `itsgonna.com` | Yes |
 | `itsjustthis.com` | No |
 | `itskevin.social` | Yes |
 | `itskil.com` | No |
@@ -46218,7 +46219,7 @@ Here's a list of public Fediverse services.
 | `wulingate.com` | Yes |
 | `wumbo.buzz` | No |
 | `wumix.net` | No |
-| `wump.me` | No |
+| `wump.me` | Yes |
 | `wunderwaffla.vip` | Yes |
 | `wuppertalblogs.de` | No |
 | `wuppi.social` | No |
@@ -47728,8 +47729,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,169 |
-| Normal | 34,511 |
+| Cloudflare | 13,172 |
+| Normal | 34,509 |
 
 
 </details>
