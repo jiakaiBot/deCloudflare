@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,295 |
 | social | 4,517 |
 | net | 3,704 |
-| org | 2,487 |
+| org | 2,488 |
 | de | 2,292 |
 
 
@@ -8739,6 +8739,7 @@ Here's a list of public Fediverse services.
 | `cyberstorm.one` | Yes |
 | `cybersulu.ninja` | No |
 | `cybert-media.net` | No |
+| `cybertalk.io` | Yes |
 | `cybertect.net` | Yes |
 | `cyberthings.net` | No |
 | `cybertopia.xyz` | No |
@@ -19514,6 +19515,7 @@ Here's a list of public Fediverse services.
 | `jangho.io` | Yes |
 | `janhamisch.de` | No |
 | `janherm.de` | No |
+| `jani.digital` | No |
 | `janian.de` | No |
 | `janitor.chat` | No |
 | `jank.town` | No |
@@ -32909,6 +32911,7 @@ Here's a list of public Fediverse services.
 | `plusone.network` | No |
 | `pluspora.com` | No |
 | `plustodon.net` | Yes |
+| `pluto.lat` | No |
 | `plutopia.io` | No |
 | `plutor.zone` | No |
 | `plutozone.xyz` | Yes |
@@ -42908,6 +42911,7 @@ Here's a list of public Fediverse services.
 | `trinitium.ovh` | No |
 | `trinitron.town` | No |
 | `trinitybristol.social` | No |
+| `trinsec.org` | No |
 | `triodug.com` | No |
 | `triofan.com` | Yes |
 | `triopticon.com` | No |
@@ -46954,7 +46958,7 @@ Here's a list of public Fediverse services.
 | `yodangang.express` | Yes |
 | `yog.wtf` | No |
 | `yoghurthair.club` | No |
-| `yogibytes.social` | No |
+| `yogibytes.social` | Yes |
 | `yogui.li` | No |
 | `yohan.es` | Yes |
 | `yohane.su` | Yes |
@@ -47719,8 +47723,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,165 |
-| Normal | 34,506 |
+| Cloudflare | 13,167 |
+| Normal | 34,508 |
 
 
 </details>
