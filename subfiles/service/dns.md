@@ -12,7 +12,7 @@
     - Cloudflare (1.1.1.1) also [collects information](https://web.archive.org/web/20230626025054/https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver/) such as queryName and IP. They also categorize them and list data publicly.
 - **Block Cloudflare** sites. There are better ethical websites on the internet!
   - Return answer will be empty.
-- **Block problematic/unsafe contents** using StevenBlack's [adware + malware](https://github.com/StevenBlack/hosts/blob/master/readme.md) list
+- **Block problematic/unsafe contents** using StevenBlack's [adware + malware](https://github.com/StevenBlack/hosts/blob/master/readme.md) list.
   - Note: We DO NOT censor/filter other things. Please report false positive to above list provider.
 - **Block DNS-rebind attack**.
 
