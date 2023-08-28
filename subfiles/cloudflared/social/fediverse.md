@@ -10340,6 +10340,7 @@ Here's a list of public Fediverse services.
 | `dlowe.net` | No |
 | `dltq.org` | No |
 | `dlun.ch` | Yes |
+| `dlx.pink` | No |
 | `dlyang.tk` | Yes |
 | `dmaus.name` | No |
 | `dmca.club` | No |
@@ -47719,7 +47720,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,165 |
-| Normal | 34,505 |
+| Normal | 34,506 |
 
 
 </details>
