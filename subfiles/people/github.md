@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Elevated 5xx/499s errors](https://github.com/SecOpsNews/news/issues/18163)
+- [CloudFlare Elevated 5xx/499s errors](https://github.com/hinoshiba/news/issues/2831)
 - [Reduce warning logs for when paymaster is not paying for UserOps](https://github.com/zerodevapp/sdk/issues/38)
 - [ERROR: MeshCentral failed with critical error](https://github.com/Ylianst/MeshCentral/issues/5316)
 - [Mail List Storage](https://github.com/sveltevietnam/sveltevietnam.dev/issues/117)
