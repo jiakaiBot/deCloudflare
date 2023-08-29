@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,298 |
 | social | 4,518 |
-| net | 3,704 |
+| net | 3,705 |
 | org | 2,489 |
 | de | 2,293 |
 
@@ -10433,7 +10433,7 @@ Here's a list of public Fediverse services.
 | `does.social` | No |
 | `doesnm.cc` | Yes |
 | `doesnotexist.club` | No |
-| `doesstuff.social` | No |
+| `doesstuff.social` | Yes |
 | `doesthings.online` | Yes |
 | `doetnix.nl` | No |
 | `dog-pound.de` | No |
@@ -20758,6 +20758,7 @@ Here's a list of public Fediverse services.
 | `kasnauskas.lt` | No |
 | `kasper.app` | No |
 | `kasperaliteten.dk` | No |
+| `kasperfam.net` | Yes |
 | `kass.im` | Yes |
 | `kassel.social` | No |
 | `kassepied.org` | No |
@@ -22648,7 +22649,7 @@ Here's a list of public Fediverse services.
 | `legrand.im` | Yes |
 | `legu.one` | Yes |
 | `legume.fans` | No |
-| `lehernet.de` | Yes |
+| `lehernet.de` | No |
 | `lehhair.net` | Yes |
 | `lehman-family.com` | No |
 | `lehmann.zone` | No |
@@ -47737,7 +47738,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,175 |
+| Cloudflare | 13,176 |
 | Normal | 34,514 |
 
 
