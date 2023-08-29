@@ -206,6 +206,7 @@ Or is this merely a case of simple modesty?
 | Annie Tang | Global Growth |  |
 | Annie Yichen Tang | Sales Operations Lead |  |
 | Annika Garbers | Product Management | https://twitter.com/annikagarbers |
+| Anni Wang | Employee | |
 | Anthony Chobanian | Employee |  |
 | Anthony Hatley | Employee |  |
 | Anthony Leong | Solutions Engineering |  |
