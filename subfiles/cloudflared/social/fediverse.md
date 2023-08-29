@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,298 |
-| social | 4,518 |
-| net | 3,704 |
+| com | 7,300 |
+| social | 4,519 |
+| net | 3,705 |
 | org | 2,489 |
 | de | 2,293 |
 
@@ -10872,6 +10872,7 @@ Here's a list of public Fediverse services.
 | `drunu.be` | Yes |
 | `drup.no` | No |
 | `drupal.community` | No |
+| `drusenija.com` | No |
 | `dryad.gay` | No |
 | `dryan.com` | No |
 | `dryc.art` | No |
@@ -24762,6 +24763,7 @@ Here's a list of public Fediverse services.
 | `markrvickers.com` | No |
 | `markstaylor.uk` | No |
 | `markstenglein.com` | No |
+| `markstoneman.com` | Yes |
 | `marktwainstudies.org` | No |
 | `markusgran.de` | No |
 | `markusklein.cc` | No |
@@ -34179,6 +34181,7 @@ Here's a list of public Fediverse services.
 | `quornichon.org` | No |
 | `quotidianthings.com` | No |
 | `quotient.space` | No |
+| `quou.xyz` | No |
 | `quoup.xyz` | No |
 | `qupzilla.com` | No |
 | `qute.dog` | No |
@@ -39563,6 +39566,7 @@ Here's a list of public Fediverse services.
 | `stilbedarf.de` | No |
 | `stiles.dev` | No |
 | `stilic.ml` | No |
+| `stilic.net` | No |
 | `still-ai.net` | No |
 | `stilobique.com` | No |
 | `stimky.one` | No |
@@ -39909,7 +39913,7 @@ Here's a list of public Fediverse services.
 | `suganthan.social` | No |
 | `sugar.monster` | No |
 | `sugarashcat.xyz` | No |
-| `sugarcube.pw` | Yes |
+| `sugarcube.pw` | No |
 | `sugarfuel.social` | No |
 | `sugarshack.social` | No |
 | `sugary.fashion` | No |
@@ -41108,6 +41112,7 @@ Here's a list of public Fediverse services.
 | `termineterminetermine.com` | No |
 | `ternoc.com` | No |
 | `ternoc.social` | No |
+| `terra.social` | No |
 | `terracrypt.net` | No |
 | `terradaliberdade.pt` | Yes |
 | `terrafirma.space` | No |
@@ -43743,7 +43748,7 @@ Here's a list of public Fediverse services.
 | `undef.org.uk` | No |
 | `undefined-dev.com` | No |
 | `undefined.moe` | Yes |
-| `undefined.social` | No |
+| `undefined.social` | Yes |
 | `under-bank.blue` | No |
 | `underachievementunlocked.com` | No |
 | `underachieves.com` | Yes |
@@ -47740,8 +47745,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,178 |
-| Normal | 34,514 |
+| Cloudflare | 13,179 |
+| Normal | 34,518 |
 
 
 </details>
