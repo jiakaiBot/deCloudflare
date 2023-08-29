@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Reduce warning logs for when paymaster is not paying for UserOps](https://github.com/zerodevapp/sdk/issues/38)
 - [ERROR: MeshCentral failed with critical error](https://github.com/Ylianst/MeshCentral/issues/5316)
 - [Mail List Storage](https://github.com/sveltevietnam/sveltevietnam.dev/issues/117)
 - [Translations ListTranslationsForArticle method throwing (404) Not Found Error](https://github.com/Speedygeek/ZendeskApi_v2/issues/578)
