@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,301 |
+| com | 7,302 |
 | social | 4,520 |
 | net | 3,706 |
 | org | 2,489 |
@@ -26268,7 +26268,7 @@ Here's a list of public Fediverse services.
 | `mi2.icu` | No |
 | `mi2428.net` | No |
 | `mia.jetzt` | Yes |
-| `miaetam4rok.com` | No |
+| `miaetam4rok.com` | Yes |
 | `miantiao.me` | Yes |
 | `miao.dev` | Yes |
 | `miao.social` | Yes |
@@ -29971,6 +29971,7 @@ Here's a list of public Fediverse services.
 | `novaloop.social` | No |
 | `novaphoenix.net` | No |
 | `novatrend.ch` | No |
+| `nove.team` | Yes |
 | `noveldon.com` | No |
 | `novelist.nagoya` | No |
 | `noventech.social` | No |
@@ -32227,7 +32228,7 @@ Here's a list of public Fediverse services.
 | `petrovs.info` | No |
 | `petrus.sk` | No |
 | `petrzprahy.cz` | No |
-| `pets-in.space` | No |
+| `pets-in.space` | Yes |
 | `pets.contact` | No |
 | `pettancos.com` | No |
 | `pettanko.art` | No |
@@ -42848,6 +42849,7 @@ Here's a list of public Fediverse services.
 | `travelpandas.fr` | No |
 | `travelpandas.xyz` | No |
 | `travelsoftux.co.uk` | No |
+| `travisestell.com` | No |
 | `travisshears.xyz` | No |
 | `travisthieman.com` | Yes |
 | `travnewmatic.com` | Yes |
@@ -47750,8 +47752,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,182 |
-| Normal | 34,520 |
+| Cloudflare | 13,185 |
+| Normal | 34,519 |
 
 
 </details>
