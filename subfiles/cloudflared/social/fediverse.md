@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,301 |
-| social | 4,519 |
+| social | 4,520 |
 | net | 3,706 |
 | org | 2,489 |
 | de | 2,293 |
@@ -7267,7 +7267,7 @@ Here's a list of public Fediverse services.
 | `climatejustice.social` | No |
 | `climatejustice.video` | Yes |
 | `climatescienc.es` | No |
-| `clinchfire.social` | No |
+| `clinchfire.social` | Yes |
 | `clinicians-exchange.org` | No |
 | `clintmoyer.com` | No |
 | `clipbored.xyz` | Yes |
@@ -25876,6 +25876,7 @@ Here's a list of public Fediverse services.
 | `meeple.social` | No |
 | `meeps.dk` | No |
 | `meerjungfrauengrotte.de` | No |
+| `meetbeauties.social` | No |
 | `meetfriendly.codes` | Yes |
 | `meetiko.org` | Yes |
 | `meetplay.net` | Yes |
@@ -32641,6 +32642,7 @@ Here's a list of public Fediverse services.
 | `pixelfed.au` | No |
 | `pixelfed.beer` | Yes |
 | `pixelfed.cafe` | No |
+| `pixelfed.ch` | No |
 | `pixelfed.co.za` | Yes |
 | `pixelfed.com.br` | Yes |
 | `pixelfed.cz` | Yes |
@@ -47748,8 +47750,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,181 |
-| Normal | 34,519 |
+| Cloudflare | 13,182 |
+| Normal | 34,520 |
 
 
 </details>
