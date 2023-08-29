@@ -6920,6 +6920,7 @@ Do not create new issue or we will close it as duplicate.
 | [LerbonR@twitter](https://twitter.com/LerbonR/status/1401222654883893254) | advertise |
 | [Leslie61341295@twitter](https://twitter.com/Leslie61341295/status/1584548084482441217) | advertise |
 | [Lesprom_com@twitter](https://twitter.com/Lesprom_com/status/1516889062061260800) | advertise |
+| [less_matitan@twitter](https://twitter.com/less_matitan/status/1696151700707389558) | advertise |
 | [lethanh05837008@twitter](https://twitter.com/lethanh05837008/status/1578610389386145793) | advertise |
 | [lethanh15@twitter](https://twitter.com/lethanh15/status/1552323280270266368) | advertise |
 | [lethanhha069@twitter](https://twitter.com/lethanhha069/status/1552704350161895424) | advertise |
@@ -13801,6 +13802,7 @@ Do not create new issue or we will close it as duplicate.
 | [WoolongCorp@twitter](https://twitter.com/WoolongCorp/status/1630241563010891778) | advertise |
 | [WoolongsC@twitter](https://twitter.com/WoolongsC/status/1455335970610589696) | advertise |
 | [woraperth@twitter](https://twitter.com/woraperth/status/1527100429905334273) | advertise |
+| [WORK876@twitter](https://twitter.com/WORK876/status/1696135389432393954) | advertise |
 | [world32541@twitter](https://twitter.com/world32541/status/1540714404899069953) | advertise |
 | [WorlfOfEiffel@twitter](https://twitter.com/WorlfOfEiffel/status/1674740125266501632) | advertise |
 | [woseokproperty@twitter](https://twitter.com/woseokproperty/status/1390282007041626116) | advertise |
