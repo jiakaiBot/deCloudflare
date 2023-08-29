@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,298 |
 | social | 4,518 |
-| net | 3,705 |
+| net | 3,704 |
 | org | 2,489 |
 | de | 2,293 |
 
@@ -4296,7 +4296,7 @@ Here's a list of public Fediverse services.
 | `beyblader.top` | No |
 | `beyermatthias.de` | No |
 | `beyleyisnot.moe` | Yes |
-| `beyond.codes` | No |
+| `beyond.codes` | Yes |
 | `beyondbinary.ovh` | No |
 | `beyondcombustion.net` | No |
 | `beyondgender.social` | No |
@@ -12570,6 +12570,7 @@ Here's a list of public Fediverse services.
 | `faf.watch` | Yes |
 | `faf.wtf` | Yes |
 | `fag.lol` | Yes |
+| `faggot.zone` | No |
 | `fahrenheit.net.pl` | No |
 | `fahrin.me` | No |
 | `fai.st` | No |
@@ -20759,7 +20760,6 @@ Here's a list of public Fediverse services.
 | `kasnauskas.lt` | No |
 | `kasper.app` | No |
 | `kasperaliteten.dk` | No |
-| `kasperfam.net` | Yes |
 | `kass.im` | Yes |
 | `kassel.social` | No |
 | `kassepied.org` | No |
@@ -40478,6 +40478,7 @@ Here's a list of public Fediverse services.
 | `taiyaki.online` | No |
 | `taiyolab.com` | No |
 | `taizona.jp` | No |
+| `takagi.icu` | Yes |
 | `takahashi.social` | No |
 | `takahe.social` | No |
 | `takaion.net` | Yes |
@@ -47739,7 +47740,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,177 |
+| Cloudflare | 13,178 |
 | Normal | 34,514 |
 
 
