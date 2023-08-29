@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,300 |
 | social | 4,519 |
-| net | 3,705 |
+| net | 3,706 |
 | org | 2,489 |
 | de | 2,293 |
 
@@ -20761,6 +20761,7 @@ Here's a list of public Fediverse services.
 | `kasnauskas.lt` | No |
 | `kasper.app` | No |
 | `kasperaliteten.dk` | No |
+| `kasperfam.net` | Yes |
 | `kass.im` | Yes |
 | `kassel.social` | No |
 | `kassepied.org` | No |
@@ -47745,7 +47746,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,179 |
+| Cloudflare | 13,180 |
 | Normal | 34,518 |
 
 
