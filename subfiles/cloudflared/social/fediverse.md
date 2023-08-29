@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,297 |
+| com | 7,298 |
 | social | 4,518 |
 | net | 3,704 |
-| org | 2,488 |
-| de | 2,292 |
+| org | 2,489 |
+| de | 2,293 |
 
 
 - Mastodon, Pleroma, etc
@@ -878,6 +878,7 @@ Here's a list of public Fediverse services.
 | `abdulocra.cy` | No |
 | `abeardedqueer.com` | No |
 | `abend.social` | No |
+| `abenteuer-kindheit.com` | Yes |
 | `aber-ehub.org.uk` | No |
 | `aberrantwinds.bond` | No |
 | `abf.li` | Yes |
@@ -9699,7 +9700,7 @@ Here's a list of public Fediverse services.
 | `depone.net` | No |
 | `depoze.xyz` | Yes |
 | `deppenkessel.de` | No |
-| `depra.net` | No |
+| `depra.net` | Yes |
 | `deprecastan.com` | No |
 | `depressed.bar` | No |
 | `deprix.nl` | Yes |
@@ -35742,6 +35743,7 @@ Here's a list of public Fediverse services.
 | `roseandsigil.net` | No |
 | `rosebloom.one` | No |
 | `rosehip.moe` | Yes |
+| `rosei.love` | No |
 | `rosematcha.party` | Yes |
 | `rosemont.cloud` | Yes |
 | `rosenha.in` | No |
@@ -35926,6 +35928,7 @@ Here's a list of public Fediverse services.
 | `ruhuna.jp` | No |
 | `ruin-the.world` | Yes |
 | `ruin.io` | No |
+| `ruinafriends.click` | No |
 | `ruinous.social` | Yes |
 | `ruinouspowe.rs` | No |
 | `ruiter.social` | Yes |
@@ -43335,6 +43338,7 @@ Here's a list of public Fediverse services.
 | `twentyzen.digital` | No |
 | `tweoo.com` | No |
 | `twerkfor.work` | No |
+| `twexit.de` | No |
 | `twexodus.top` | Yes |
 | `twhtv.club` | No |
 | `twi.social` | No |
@@ -45710,6 +45714,7 @@ Here's a list of public Fediverse services.
 | `wildfyre.dev` | Yes |
 | `wildgeese.au` | Yes |
 | `wildhawkfield.com` | No |
+| `wildleague.org` | No |
 | `wildparadox.com` | No |
 | `wildsplash.photography` | No |
 | `wildsurf.net` | No |
@@ -47732,8 +47737,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,173 |
-| Normal | 34,511 |
+| Cloudflare | 13,175 |
+| Normal | 34,514 |
 
 
 </details>
