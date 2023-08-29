@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Incorrect handling of Create Subscriber response in Aweber API](https://github.com/strangerstudios/pmpro-aweber/issues/41)
 - [CloudFlare Elevated 5xx/499s errors](https://github.com/SecOpsNews/news/issues/18124)
 - [CloudFlare Elevated 5xx/499s errors](https://github.com/hinoshiba/news/issues/2793)
 - [CloudFlare Elevated 502 errors](https://github.com/SecOpsNews/news/issues/18122)
