@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,300 |
+| com | 7,301 |
 | social | 4,519 |
-| net | 3,706 |
+| net | 3,705 |
 | org | 2,489 |
 | de | 2,293 |
 
@@ -20761,7 +20761,6 @@ Here's a list of public Fediverse services.
 | `kasnauskas.lt` | No |
 | `kasper.app` | No |
 | `kasperaliteten.dk` | No |
-| `kasperfam.net` | Yes |
 | `kass.im` | Yes |
 | `kassel.social` | No |
 | `kassepied.org` | No |
@@ -42371,6 +42370,7 @@ Here's a list of public Fediverse services.
 | `tomw.social` | No |
 | `tomwiththeweather.org` | Yes |
 | `tomwsmf.com` | No |
+| `tomx.com` | Yes |
 | `tonesplace.com` | No |
 | `tongfamily.com` | No |
 | `tonholzpixel.de` | No |
