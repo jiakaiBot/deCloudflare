@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ERROR: MeshCentral failed with critical error](https://github.com/Ylianst/MeshCentral/issues/5316)
 - [Mail List Storage](https://github.com/sveltevietnam/sveltevietnam.dev/issues/117)
 - [Translations ListTranslationsForArticle method throwing (404) Not Found Error](https://github.com/Speedygeek/ZendeskApi_v2/issues/578)
 - [Incorrect handling of Create Subscriber response in Aweber API](https://github.com/strangerstudios/pmpro-aweber/issues/41)
