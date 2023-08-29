@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,296 |
+| com | 7,297 |
 | social | 4,518 |
 | net | 3,704 |
 | org | 2,488 |
@@ -38825,6 +38825,7 @@ Here's a list of public Fediverse services.
 | `soupwhale.com` | Yes |
 | `sour.is` | No |
 | `source.news` | No |
+| `sourcemac.com` | No |
 | `sourdin.ovh` | No |
 | `sousoupe.fr` | No |
 | `sousunepluie.com` | No |
@@ -42817,6 +42818,7 @@ Here's a list of public Fediverse services.
 | `trashbrain.org` | No |
 | `trashfire.computer` | Yes |
 | `trashkids.org` | No |
+| `trashmagic.community` | No |
 | `trashserver.de` | No |
 | `trashtalk.jp` | No |
 | `trashtwit.lol` | No |
@@ -47460,6 +47462,7 @@ Here's a list of public Fediverse services.
 | `zh.ht` | No |
 | `zhai.eu` | No |
 | `zhangyuqing.cn` | Yes |
+| `zhaohai.li` | Yes |
 | `zhaoxiao.li` | Yes |
 | `zhcode.fun` | Yes |
 | `zhenmei.li` | Yes |
@@ -47729,8 +47732,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,172 |
-| Normal | 34,509 |
+| Cloudflare | 13,173 |
+| Normal | 34,511 |
 
 
 </details>
