@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Translations ListTranslationsForArticle method throwing (404) Not Found Error](https://github.com/Speedygeek/ZendeskApi_v2/issues/578)
 - [Incorrect handling of Create Subscriber response in Aweber API](https://github.com/strangerstudios/pmpro-aweber/issues/41)
 - [CloudFlare Elevated 5xx/499s errors](https://github.com/SecOpsNews/news/issues/18124)
 - [CloudFlare Elevated 5xx/499s errors](https://github.com/hinoshiba/news/issues/2793)
