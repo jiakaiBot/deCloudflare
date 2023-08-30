@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [NBD kernel module for rook csi-rbdplugin not loadable](https://github.com/siderolabs/talos/issues/7687)
 - [Error when instrumenting a worker using Launch Darkly's edge SDK](https://github.com/evanderkoogh/otel-cf-workers/issues/45)
 - [KyselyAdapter isSqlite check fails for D1Dialect](https://github.com/nextauthjs/next-auth/issues/8453)
 - [CloudFlare Elevated 5xx/499s errors](https://github.com/SecOpsNews/news/issues/18163)
