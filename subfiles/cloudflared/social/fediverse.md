@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,303 |
 | social | 4,521 |
-| net | 3,708 |
+| net | 3,709 |
 | org | 2,491 |
 | de | 2,293 |
 
@@ -8242,6 +8242,7 @@ Here's a list of public Fediverse services.
 | `crew23.de` | No |
 | `crewfamily.social` | No |
 | `crewing.social` | No |
+| `crfan.net` | No |
 | `cri.dev` | Yes |
 | `criadoperez.com` | No |
 | `crid.land` | No |
@@ -47767,7 +47768,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,185 |
-| Normal | 34,533 |
+| Normal | 34,534 |
 
 
 </details>
