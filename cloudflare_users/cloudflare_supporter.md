@@ -11332,6 +11332,7 @@ Do not create new issue or we will close it as duplicate.
 | [shenteams@twitter](https://twitter.com/shenteams/status/1693852890857951360) | advertise |
 | [SherifMKhattab1@twitter](https://twitter.com/SherifMKhattab1/status/1403105134972837893) | advertise |
 | [shhrwin@twitter](https://twitter.com/shhrwin/status/1380867620811857922) | advertise |
+| [ShiFuInuX1000@twitter](https://twitter.com/ShiFuInuX1000/status/1696913565339578675) | advertise |
 | [Shimi061203@twitter](https://twitter.com/Shimi061203/status/1539426706880012288) | advertise |
 | [shimolak6163@twitter](https://twitter.com/shimolak6163/status/1648234319977017345) | advertise |
 | [Shin59257259@twitter](https://twitter.com/Shin59257259/status/1402899703218409476) | advertise |
