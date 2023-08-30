@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,302 |
+| com | 7,303 |
 | social | 4,521 |
-| net | 3,706 |
-| org | 2,489 |
+| net | 3,707 |
+| org | 2,491 |
 | de | 2,293 |
 
 
@@ -131,6 +131,7 @@ Here's a list of public Fediverse services.
 | `0x3d.uk` | Yes |
 | `0x3e7.me` | No |
 | `0x40.au` | Yes |
+| `0x4001.com` | No |
 | `0x41.team` | No |
 | `0x42.ch` | No |
 | `0x42.net` | No |
@@ -576,6 +577,7 @@ Here's a list of public Fediverse services.
 | `4xl.co` | No |
 | `4zido.de` | No |
 | `500.social` | No |
+| `5013.es` | No |
 | `503junk.house` | No |
 | `505.social` | Yes |
 | `505dude.com` | Yes |
@@ -2195,6 +2197,7 @@ Here's a list of public Fediverse services.
 | `angusworld.org` | No |
 | `angzarr.me` | No |
 | `anhei-fotografie.de` | No |
+| `anhkagi.net` | No |
 | `ani.social` | Yes |
 | `ani.work` | Yes |
 | `anicelittle.network` | No |
@@ -10334,6 +10337,7 @@ Here's a list of public Fediverse services.
 | `dkub.dev` | Yes |
 | `dkwall.social` | Yes |
 | `dkxpress.dk` | No |
+| `dlants.me` | No |
 | `dlazaro.ca` | Yes |
 | `dlct.ca` | No |
 | `dlf.social` | Yes |
@@ -17603,6 +17607,7 @@ Here's a list of public Fediverse services.
 | `hollow.capital` | No |
 | `hollow.city` | No |
 | `holly.town` | No |
+| `hollypop.xyz` | No |
 | `holme.social` | Yes |
 | `holmmade.cafe` | No |
 | `holmosapien.com` | No |
@@ -19474,6 +19479,7 @@ Here's a list of public Fediverse services.
 | `jalim.xyz` | Yes |
 | `jallandale.co.uk` | No |
 | `jam.family` | Yes |
+| `jam.gay` | No |
 | `jam.zone` | No |
 | `jambo.social` | No |
 | `jambor.dev` | No |
@@ -25910,6 +25916,7 @@ Here's a list of public Fediverse services.
 | `mego.bar` | Yes |
 | `megorei.net` | No |
 | `meguhub.com` | Yes |
+| `megumin.org` | Yes |
 | `meh.social` | No |
 | `mehalter.com` | Yes |
 | `mehdibenadel.com` | No |
@@ -31115,6 +31122,7 @@ Here's a list of public Fediverse services.
 | `orgdup.media` | No |
 | `orgless.org` | No |
 | `orientalnews.top` | Yes |
+| `orientando.org` | Yes |
 | `origami.community` | Yes |
 | `origamion.net` | No |
 | `originalpatchou.li` | No |
@@ -31501,6 +31509,7 @@ Here's a list of public Fediverse services.
 | `p0d.fr` | No |
 | `p0lymer.net` | No |
 | `p0wn3d.com` | No |
+| `p1337.dev` | No |
 | `p1k3.com` | No |
 | `p1ng0ut.social` | No |
 | `p1ntar.com` | Yes |
@@ -45723,6 +45732,7 @@ Here's a list of public Fediverse services.
 | `wilcosky.com` | Yes |
 | `wilcox.pub` | No |
 | `wildada.com` | No |
+| `wildarrow.ink` | Yes |
 | `wildasoftware.pl` | No |
 | `wildcritters.org` | No |
 | `wilde.cloud` | No |
@@ -47755,8 +47765,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,181 |
-| Normal | 34,526 |
+| Cloudflare | 13,184 |
+| Normal | 34,533 |
 
 
 </details>
