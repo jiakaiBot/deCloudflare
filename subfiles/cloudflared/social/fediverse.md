@@ -7560,6 +7560,7 @@ Here's a list of public Fediverse services.
 | `coffee.link` | Yes |
 | `coffeeandcode.com` | No |
 | `coffeebean.social` | No |
+| `coffeechat.lol` | No |
 | `coffeechat.social` | No |
 | `coffeechords.com` | No |
 | `coffeeeldritch.art` | No |
@@ -26253,6 +26254,7 @@ Here's a list of public Fediverse services.
 | `mfraters.net` | No |
 | `mftrhu.net` | No |
 | `mfunkenberg.de` | No |
+| `mfy.world` | Yes |
 | `mfyo.biz` | No |
 | `mfyo.jp` | Yes |
 | `mfz.jp` | No |
@@ -47769,8 +47771,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,185 |
-| Normal | 34,536 |
+| Cloudflare | 13,186 |
+| Normal | 34,537 |
 
 
 </details>
