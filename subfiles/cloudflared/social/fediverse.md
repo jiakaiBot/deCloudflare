@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,303 |
+| com | 7,304 |
 | social | 4,521 |
-| net | 3,710 |
+| net | 3,711 |
 | org | 2,491 |
 | de | 2,293 |
 
@@ -27304,6 +27304,7 @@ Here's a list of public Fediverse services.
 | `moonbow.garden` | No |
 | `moonbutt.science` | No |
 | `mooncell.uk` | No |
+| `moonchan.xyz` | Yes |
 | `moondeer.blog` | Yes |
 | `mooneyed.de` | No |
 | `moongirl.io` | No |
@@ -27391,6 +27392,7 @@ Here's a list of public Fediverse services.
 | `morologia.net` | No |
 | `moron.agency` | No |
 | `moron.city` | No |
+| `moroz.cc` | Yes |
 | `morphtown.de` | No |
 | `morphux.org` | No |
 | `morretton.fr` | No |
@@ -30146,6 +30148,7 @@ Here's a list of public Fediverse services.
 | `nullnummern.de` | No |
 | `nullob.si` | Yes |
 | `nulloctet.com` | Yes |
+| `nullopt.net` | No |
 | `nullpoint.jp` | No |
 | `nullpointer.org` | No |
 | `nullpointer.social` | No |
@@ -30788,6 +30791,7 @@ Here's a list of public Fediverse services.
 | `onepicaday.com` | No |
 | `onepointzero.com` | Yes |
 | `onerescue.org` | No |
+| `onestarrynight.com` | No |
 | `onesteprevolution.com` | No |
 | `onetwoseven.one` | Yes |
 | `onetwoxu.de` | No |
@@ -47771,8 +47775,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,186 |
-| Normal | 34,537 |
+| Cloudflare | 13,188 |
+| Normal | 34,539 |
 
 
 </details>
