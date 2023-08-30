@@ -44,7 +44,6 @@ Here's a list of public Matrix services.
 | matrix.cyberfurz.chat | No |
 | matrix.data.coop | No |
 | im.deuxfleurs.fr | No |
-| matrix.dieandalusier.net | No |
 | matrix.envs.net | No |
 | exarius.org | No |
 | matrix.fachschaften.org | No |
@@ -79,6 +78,7 @@ Here's a list of public Matrix services.
 | matrix.monero.social | No |
 | nitro.chat | No |
 | matrix.noevil.pl | No |
+| nope.chat | No |
 | matrix.norge.chat | Yes |
 | hs.obco.pro | Yes |
 | oikei.net | No |
