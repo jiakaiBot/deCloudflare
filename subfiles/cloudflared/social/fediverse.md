@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,303 |
 | social | 4,521 |
-| net | 3,707 |
+| net | 3,708 |
 | org | 2,491 |
 | de | 2,293 |
 
@@ -10719,6 +10719,7 @@ Here's a list of public Fediverse services.
 | `dragomen.org` | No |
 | `dragon-fly.club` | Yes |
 | `dragon-lair.social` | No |
+| `dragon-night.net` | No |
 | `dragon.garden` | No |
 | `dragon.navy` | No |
 | `dragon.ooo` | No |
@@ -26043,7 +26044,7 @@ Here's a list of public Fediverse services.
 | `mengobrol.com` | Yes |
 | `mengsk.org` | No |
 | `menhera.org` | No |
-| `menkissing.gay` | No |
+| `menkissing.gay` | Yes |
 | `mensmaaktmooi.nl` | No |
 | `mensoif.cf` | No |
 | `mental.af` | No |
@@ -47765,7 +47766,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,184 |
+| Cloudflare | 13,185 |
 | Normal | 34,533 |
 
 
