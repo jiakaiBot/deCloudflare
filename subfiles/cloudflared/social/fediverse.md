@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,303 |
 | social | 4,521 |
-| net | 3,709 |
+| net | 3,710 |
 | org | 2,491 |
 | de | 2,293 |
 
@@ -3641,6 +3641,7 @@ Here's a list of public Fediverse services.
 | `baguette-it.social` | No |
 | `baguette.cafe` | No |
 | `bah.io` | Yes |
+| `bahamutsoft.net` | No |
 | `bahn.social` | No |
 | `bahnhof.cz` | No |
 | `bahuma.io` | No |
@@ -5450,6 +5451,7 @@ Here's a list of public Fediverse services.
 | `breiteberg.de` | No |
 | `breizh.me` | Yes |
 | `breizh.pm` | No |
+| `breizh.social` | No |
 | `bremen.digital` | No |
 | `bremen.social` | No |
 | `bremen.team` | No |
@@ -9569,7 +9571,6 @@ Here's a list of public Fediverse services.
 | `dekeyser.au` | Yes |
 | `dekkia.com` | No |
 | `dekkia.zip` | No |
-| `deklinpike.social` | No |
 | `dekloo.net` | No |
 | `deko.cloud` | No |
 | `deko.yt` | Yes |
@@ -33908,6 +33909,7 @@ Here's a list of public Fediverse services.
 | `pxlfed.nl` | No |
 | `pxlmo.com` | No |
 | `pxlmo.net` | No |
+| `pxtech.systems` | No |
 | `pycodon.fr` | No |
 | `pym.industries` | Yes |
 | `pynews.com.br` | Yes |
@@ -47768,7 +47770,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,185 |
-| Normal | 34,534 |
+| Normal | 34,536 |
 
 
 </details>
