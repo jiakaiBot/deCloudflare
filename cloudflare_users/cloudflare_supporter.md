@@ -8712,6 +8712,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nath73616642@twitter](https://twitter.com/Nath73616642/status/1399415551819075584) | advertise |
 | [Nathan33310057@twitter](https://twitter.com/Nathan33310057/status/1389756877311942657) | advertise |
 | [NathanLands@twitter](https://twitter.com/NathanLands/status/1665888820586504193) | advertise |
+| [NathVichea@twitter](https://twitter.com/NathVichea/status/1696637968214065347) | advertise |
 | [Natsoc_UK@twitter](https://twitter.com/Natsoc_UK/status/1623377778522394637) | advertise |
 | [NatSri18@twitter](https://twitter.com/NatSri18/status/1550642548607418368) | advertise |
 | [nattawatt17@twitter](https://twitter.com/nattawatt17/status/1625857921325371399) | advertise |
