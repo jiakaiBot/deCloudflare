@@ -23157,6 +23157,7 @@ Here's a list of public Fediverse services.
 | `liefvanderbaan.com` | Yes |
 | `liege.bike` | No |
 | `liepajnieks.lv` | Yes |
+| `liersch.it` | No |
 | `liessan.com` | No |
 | `lieter.nl` | No |
 | `lieurance.social` | No |
@@ -28476,6 +28477,7 @@ Here's a list of public Fediverse services.
 | `nanitebased.club` | No |
 | `nannal.com` | Yes |
 | `nannerpuss.club` | Yes |
+| `nannika.work` | Yes |
 | `nano.garden` | No |
 | `nanoapp.io` | No |
 | `nanobyte.cafe` | No |
@@ -34243,6 +34245,7 @@ Here's a list of public Fediverse services.
 | `r-sauna.fi` | No |
 | `r-sky.jp` | No |
 | `r-tekne.net` | No |
+| `r.nf` | Yes |
 | `r.town` | No |
 | `r000t.com` | Yes |
 | `r00t.ch` | Yes |
@@ -47775,8 +47778,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,188 |
-| Normal | 34,539 |
+| Cloudflare | 13,190 |
+| Normal | 34,540 |
 
 
 </details>
