@@ -159,13 +159,12 @@ It also have following difference:
 
 | ? | MitiGator | MGLite |
 | -- | -- | -- |
+| _Subscribe Users_ | `All` | `Local server only` |
 | _How to Subscribe_<br>_Require send DM after follow_ | ✔️ | ❌ |
 | _Reply Message as_ | `Direct` | `Unlisted` |
 | _Boosted post: Mention original poster_ | ❌ | ✔️ |
 | _Customisable Options_ | ✔️ | ❌ |
 
-- Currently MGLite is hosted on:
-  - https://social.mypdns.org
 - 📣 If you are **Mastodon admin** and want to serve MGLite to your instant users contact us!
 
 
@@ -176,4 +175,3 @@ It also have following difference:
 - ↳ ["Cloudflare, we have a problem" Mastodon](../people/mastodon.md)
 - ↳ [How many % of public Fediverse services are using Cloudflare?](../cloudflared/social/fediverse.md)
 - ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](../cloudflared/social/shared_mastodon.md)
-
