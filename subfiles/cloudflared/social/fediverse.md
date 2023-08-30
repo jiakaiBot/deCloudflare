@@ -13234,7 +13234,7 @@ Here's a list of public Fediverse services.
 | `femboy.page` | Yes |
 | `femboy.rent` | Yes |
 | `femboy.tokyo` | No |
-| `femboy.world` | Yes |
+| `femboy.world` | No |
 | `femboyfor.sale` | No |
 | `femboyfurry.net` | Yes |
 | `femboys-in.space` | Yes |
@@ -24358,7 +24358,7 @@ Here's a list of public Fediverse services.
 | `magicalmirro.red` | Yes |
 | `magicannon.com` | No |
 | `magicfedi.su` | No |
-| `magicflashystring.net` | Yes |
+| `magicflashystring.net` | No |
 | `magick.tech` | No |
 | `magickal.club` | No |
 | `magicstone.dev` | No |
@@ -29834,7 +29834,7 @@ Here's a list of public Fediverse services.
 | `northwestvoip.com` | Yes |
 | `norwescon.org` | No |
 | `norwoodzero.net` | Yes |
-| `norze.co` | Yes |
+| `norze.co` | No |
 | `norze.world` | No |
 | `norze.xyz` | Yes |
 | `nos.bzh` | No |
@@ -31655,7 +31655,7 @@ Here's a list of public Fediverse services.
 | `panix.com` | No |
 | `pano.community` | No |
 | `panoply.cx` | No |
-| `panoptic.onl` | Yes |
+| `panoptic.onl` | No |
 | `panopticon.social` | No |
 | `panoptikum.io` | No |
 | `panoptikum.social` | No |
@@ -39813,7 +39813,7 @@ Here's a list of public Fediverse services.
 | `stupid.industries` | No |
 | `stupid.moe` | No |
 | `stupid.team` | No |
-| `stupidpol.site` | Yes |
+| `stupidpol.site` | No |
 | `stupidpolis.blog` | No |
 | `sturtz.cf` | No |
 | `sturtz.io` | Yes |
@@ -44006,6 +44006,7 @@ Here's a list of public Fediverse services.
 | `upr.fr` | No |
 | `upsilo.net` | Yes |
 | `upsocial.com` | Yes |
+| `upthis.io` | Yes |
 | `upup.social` | No |
 | `upvo.me` | Yes |
 | `upvote.au` | No |
@@ -47754,8 +47755,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,185 |
-| Normal | 34,521 |
+| Cloudflare | 13,181 |
+| Normal | 34,526 |
 
 
 </details>
