@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,523 |
 | net | 3,712 |
 | org | 2,491 |
-| de | 2,294 |
+| de | 2,295 |
 
 
 - Mastodon, Pleroma, etc
@@ -10872,6 +10872,7 @@ Here's a list of public Fediverse services.
 | `drskrzyk.com` | No |
 | `drtl.nl` | No |
 | `dru5k1.com` | Yes |
+| `drugo.me` | Yes |
 | `druid.town` | No |
 | `drumbum42.com` | No |
 | `drumcorps.info` | No |
@@ -13714,6 +13715,7 @@ Here's a list of public Fediverse services.
 | `floss-marketing-school.com` | No |
 | `floss.social` | No |
 | `flossir.org` | Yes |
+| `flova.de` | No |
 | `flow.srl` | No |
 | `flowercast.me` | No |
 | `flowerpot.fyi` | No |
@@ -23909,6 +23911,7 @@ Here's a list of public Fediverse services.
 | `ls.gy` | No |
 | `lsa.social` | Yes |
 | `lsbt.me` | No |
+| `lserver.dev` | No |
 | `lsf-group.de` | No |
 | `lsferreira.net` | Yes |
 | `lsnet.eu` | No |
@@ -47794,8 +47797,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,193 |
-| Normal | 34,553 |
+| Cloudflare | 13,194 |
+| Normal | 34,555 |
 
 
 </details>
