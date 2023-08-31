@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [RemixImage loader error: Cannot read properties of undefined (reading 'fetch')](https://github.com/Josh-McFarlin/remix-image/issues/76)
 - [Quad9 - DoT and DoH not working](https://github.com/TechnitiumSoftware/DnsServer/issues/711)
 - [console error while deleting image.](https://github.com/filamentphp/filament/issues/8186)
 - ["This video has been restricted" message on rule34.us](https://github.com/Bionus/imgbrd-grabber/issues/3035)
