@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-08-30: [Waiting Room Queue issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jw7bjgsrg551)
 - 2023-08-31: [Issues passing Challenge Pages](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4c9w04j0qznr)
 - 2023-08-30: [Elevated number of 499/5xx errors in SIN (Singapore)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/l9lflmyxy1fs)
 - 2023-08-29: [Elevated 5xx/499s errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2mkwcmdgmj8h)
