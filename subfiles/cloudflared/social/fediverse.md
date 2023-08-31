@@ -30,8 +30,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,306 |
-| social | 4,525 |
-| net | 3,712 |
+| social | 4,526 |
+| net | 3,713 |
 | org | 2,491 |
 | de | 2,297 |
 
@@ -822,7 +822,7 @@ Here's a list of public Fediverse services.
 | `a80.fr` | No |
 | `a8n.dev` | Yes |
 | `a9.wtf` | Yes |
-| `a9z.de` | No |
+| `a9z.de` | Yes |
 | `a9z.dev` | Yes |
 | `aa.net.uk` | No |
 | `aaart.social` | No |
@@ -4335,6 +4335,7 @@ Here's a list of public Fediverse services.
 | `bgzashtita.espisma` | No |
 | `bhamtech.net` | Yes |
 | `bhh.sh` | No |
+| `bhis.social` | Yes |
 | `bhop.zone` | Yes |
 | `bhre.social` | No |
 | `bhscs2.club` | No |
@@ -12824,6 +12825,7 @@ Here's a list of public Fediverse services.
 | `fbi.pm` | Yes |
 | `fbievan.live` | No |
 | `fbk.moe` | Yes |
+| `fbmac.net` | No |
 | `fboehm.de` | No |
 | `fbsweb.de` | Yes |
 | `fbxl.net` | No |
@@ -38239,6 +38241,7 @@ Here's a list of public Fediverse services.
 | `sliek.social` | No |
 | `sliekcastopod.com` | No |
 | `sliekcasts.com` | No |
+| `slightly.gay` | No |
 | `slightly.social` | No |
 | `slightlyawesome.ninja` | Yes |
 | `slightlycyberpunk.com` | No |
@@ -47809,8 +47812,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,197 |
-| Normal | 34,564 |
+| Cloudflare | 13,199 |
+| Normal | 34,565 |
 
 
 </details>
