@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [console error while deleting image.](https://github.com/filamentphp/filament/issues/8186)
 - ["This video has been restricted" message on rule34.us](https://github.com/Bionus/imgbrd-grabber/issues/3035)
 - [IPFS Rate Limiting](https://github.com/hicommonwealth/commonwealth/issues/4925)
 - [NBD kernel module for rook csi-rbdplugin not loadable](https://github.com/siderolabs/talos/issues/7687)
