@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Consider limiting the size of the responses we zip into response_bank](https://github.com/Shopify/response_bank/issues/80)
 - [RemixImage loader error: Cannot read properties of undefined (reading 'fetch')](https://github.com/Josh-McFarlin/remix-image/issues/76)
 - [Quad9 - DoT and DoH not working](https://github.com/TechnitiumSoftware/DnsServer/issues/711)
 - [console error while deleting image.](https://github.com/filamentphp/filament/issues/8186)
