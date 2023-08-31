@@ -1326,6 +1326,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungThi69555455@twitter](https://twitter.com/AungThi69555455/status/1394546757216837636) | advertise |
 | [AungThi80564776@twitter](https://twitter.com/AungThi80564776/status/1391062972496113665) | advertise |
 | [AungThu014568@twitter](https://twitter.com/AungThu014568/status/1394614572313505796) | advertise |
+| [aungthu09324743@twitter](https://twitter.com/aungthu09324743/status/1697067659605757962) | advertise |
 | [AungThu09884353@twitter](https://twitter.com/AungThu09884353/status/1391004925023309824) | advertise |
 | [AungThu12450436@twitter](https://twitter.com/AungThu12450436/status/1389520407586168839) | advertise |
 | [AungThu47893552@twitter](https://twitter.com/AungThu47893552/status/1391452119329165314) | advertise |
@@ -1507,6 +1508,7 @@ Do not create new issue or we will close it as duplicate.
 | [Babyblu82224449@twitter](https://twitter.com/Babyblu82224449/status/1387554058714566656) | advertise |
 | [Babysela1@twitter](https://twitter.com/Babysela1/status/1478028360877948928) | advertise |
 | [BabyWhite999@twitter](https://twitter.com/BabyWhite999/status/1406167535825920001) | advertise |
+| [bacankbabi@twitter](https://twitter.com/bacankbabi/status/1697125139689980339) | advertise |
 | [BacckMy15115@twitter](https://twitter.com/BacckMy15115/status/1678235213044875264) | advertise |
 | [BachKim12013287@twitter](https://twitter.com/BachKim12013287/status/1631697965009219584) | advertise |
 | [bachve1@twitter](https://twitter.com/bachve1/status/1489129338955984898) | advertise |
@@ -3447,6 +3449,7 @@ Do not create new issue or we will close it as duplicate.
 | [emile_elliye@twitter](https://twitter.com/emile_elliye/status/1647860272143429634) | advertise |
 | [Emilian95935552@twitter](https://twitter.com/Emilian95935552/status/1625479540230201344) | advertise |
 | [Emily326696461@twitter](https://twitter.com/Emily326696461/status/1389534601618460673) | advertise |
+| [Emistar_2@twitter](https://twitter.com/Emistar_2/status/1696807818718826890) | advertise |
 | [emlo40Official@twitter](https://twitter.com/emlo40Official/status/1423392503223439376) | advertise |
 | [EmmanuelChucks@twitter](https://twitter.com/EmmanuelChucks/status/1611483333917134868) | advertise |
 | [EmmanuelEdudzi2@twitter](https://twitter.com/EmmanuelEdudzi2/status/1377972822757232642) | advertise |
@@ -6410,6 +6413,7 @@ Do not create new issue or we will close it as duplicate.
 | [KOHTET28748198@twitter](https://twitter.com/KOHTET28748198/status/1391957581556445186) | advertise |
 | [KohtetLwin@twitter](https://twitter.com/KohtetLwin/status/1390673890041503744) | advertise |
 | [KoHtetZawOo1@twitter](https://twitter.com/KoHtetZawOo1/status/1395015158922100737) | advertise |
+| [Kohtut437307@twitter](https://twitter.com/Kohtut437307/status/1697118072614854846) | advertise |
 | [koHtut80471997@twitter](https://twitter.com/koHtut80471997/status/1393249583065550851) | advertise |
 | [koicanwol@twitter](https://twitter.com/koicanwol/status/1523264151749279749) | advertise |
 | [kokalary@twitter](https://twitter.com/kokalary/status/1631736436461379584) | advertise |
@@ -10343,6 +10347,7 @@ Do not create new issue or we will close it as duplicate.
 | [QunhNh33492587@twitter](https://twitter.com/QunhNh33492587/status/1407263425604980758) | advertise |
 | [QunhQun392246@twitter](https://twitter.com/QunhQun392246/status/1596858209678938113) | advertise |
 | [QunhTM11@twitter](https://twitter.com/QunhTM11/status/1468241517387173889) | advertise |
+| [QunLKhnh1@twitter](https://twitter.com/QunLKhnh1/status/1697107922449539522) | advertise |
 | [QunMinh56960884@twitter](https://twitter.com/QunMinh56960884/status/1669645969795977219) | advertise |
 | [Quo35259089@twitter](https://twitter.com/Quo35259089/status/1386228152406401024) | advertise |
 | [Quocbao10601948@twitter](https://twitter.com/Quocbao10601948/status/1386125895648219141) | advertise |
@@ -13234,6 +13239,7 @@ Do not create new issue or we will close it as duplicate.
 | [uriodav81@twitter](https://twitter.com/uriodav81/status/1647503643757649920) | advertise |
 | [URkar3@twitter](https://twitter.com/URkar3/status/1395564448207704066) | advertise |
 | [us5bowling@twitter](https://twitter.com/us5bowling/status/1598492947045031938) | advertise |
+| [usaexpress24@twitter](https://twitter.com/usaexpress24/status/1696983540754469019) | advertise |
 | [USai01177352@twitter](https://twitter.com/USai01177352/status/1395520546037592064) | advertise |
 | [Usai35Klwshan@twitter](https://twitter.com/Usai35Klwshan/status/1674413479250530305) | advertise |
 | [USANews_online@twitter](https://twitter.com/USANews_online/status/1582324325083885570) | advertise |
