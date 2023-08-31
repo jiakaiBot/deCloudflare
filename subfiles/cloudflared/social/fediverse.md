@@ -28119,6 +28119,7 @@ Here's a list of public Fediverse services.
 | `myalterego.de` | No |
 | `myangel.social` | No |
 | `myapple.social` | No |
+| `myasia.cloud` | Yes |
 | `myasstodon.xyz` | No |
 | `mybluehost.me` | Yes |
 | `mycard.moe` | Yes |
@@ -41680,6 +41681,7 @@ Here's a list of public Fediverse services.
 | `thephpcc.social` | No |
 | `thephysics.xyz` | No |
 | `thepicketts.online` | No |
+| `thepipes.ch` | Yes |
 | `thepirate.party` | No |
 | `thepit.social` | No |
 | `thepit.space` | No |
@@ -43379,6 +43381,7 @@ Here's a list of public Fediverse services.
 | `twee-af.club` | No |
 | `twee.moe` | No |
 | `tweedle.social` | No |
+| `tweelingpraat.nl` | No |
 | `tweep.club` | No |
 | `tweep.uk` | Yes |
 | `tweeps.link` | No |
@@ -44024,6 +44027,7 @@ Here's a list of public Fediverse services.
 | `unyacat.net` | Yes |
 | `unyu.live` | Yes |
 | `unzensiert.to` | No |
+| `uoc.edu` | No |
 | `uofgbot.top` | No |
 | `uoga.net` | No |
 | `up.edu.ph` | Yes |
@@ -44621,6 +44625,7 @@ Here's a list of public Fediverse services.
 | `videogamesarebad.co.uk` | No |
 | `videogamesmen.com` | No |
 | `videohaven.com` | No |
+| `videolovers.site` | Yes |
 | `videonaute.fr` | No |
 | `videoneat.com` | Yes |
 | `videopen.net` | No |
@@ -47797,8 +47802,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,194 |
-| Normal | 34,555 |
+| Cloudflare | 13,197 |
+| Normal | 34,557 |
 
 
 </details>
