@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,306 |
-| social | 4,524 |
+| social | 4,525 |
 | net | 3,712 |
 | org | 2,491 |
-| de | 2,296 |
+| de | 2,297 |
 
 
 - Mastodon, Pleroma, etc
@@ -7661,7 +7661,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8750,6 +8750,7 @@ Here's a list of public Fediverse services.
 | `cyberspark.co.uk` | Yes |
 | `cyberstorm.one` | Yes |
 | `cybersulu.ninja` | No |
+| `cybersystems.engineer` | No |
 | `cybert-media.net` | No |
 | `cybertalk.io` | Yes |
 | `cybertect.net` | Yes |
@@ -12739,6 +12740,7 @@ Here's a list of public Fediverse services.
 | `farend.co.jp` | No |
 | `farenji.net` | No |
 | `farer.group` | Yes |
+| `farerskiekadry.pl` | No |
 | `farewellswind.xyz` | No |
 | `farewellutopia.com` | No |
 | `farhan.codes` | Yes |
@@ -16018,6 +16020,7 @@ Here's a list of public Fediverse services.
 | `graeber.video` | No |
 | `graedener.com` | Yes |
 | `grafana.social` | Yes |
+| `grafen.info` | No |
 | `graffen.io` | No |
 | `graffitiwall.wtf` | Yes |
 | `grafo.zone` | No |
@@ -33118,6 +33121,7 @@ Here's a list of public Fediverse services.
 | `politplatschquatsch.com` | No |
 | `politpunk.ch` | No |
 | `polittimeline.de` | No |
+| `polity.social` | No |
 | `poliversity.it` | No |
 | `poliverso.org` | No |
 | `polkadot.blue` | Yes |
@@ -42653,6 +42657,7 @@ Here's a list of public Fediverse services.
 | `tootzi.ch` | No |
 | `tooweb.se` | No |
 | `tooxy.cz` | No |
+| `top-netz.de` | No |
 | `top10homeremedies.com` | No |
 | `topazz.me` | No |
 | `topbol.com` | Yes |
@@ -47804,8 +47809,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,196 |
-| Normal | 34,560 |
+| Cloudflare | 13,197 |
+| Normal | 34,564 |
 
 
 </details>
