@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,306 |
+| com | 7,307 |
 | social | 4,526 |
 | net | 3,713 |
 | org | 2,491 |
@@ -14660,6 +14660,7 @@ Here's a list of public Fediverse services.
 | `furries.online` | Yes |
 | `furries.world` | No |
 | `furry-elephant.news` | No |
+| `furry-r-moonrabbitbower.com` | Yes |
 | `furry.band` | No |
 | `furry.city` | No |
 | `furry.club` | Yes |
@@ -47812,7 +47813,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,199 |
+| Cloudflare | 13,200 |
 | Normal | 34,565 |
 
 
