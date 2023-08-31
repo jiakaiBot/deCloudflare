@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,306 |
-| social | 4,523 |
+| social | 4,524 |
 | net | 3,712 |
 | org | 2,491 |
-| de | 2,295 |
+| de | 2,296 |
 
 
 - Mastodon, Pleroma, etc
@@ -9552,6 +9552,7 @@ Here's a list of public Fediverse services.
 | `degica.com` | Yes |
 | `degrowth.club` | No |
 | `degrowth.dev` | No |
+| `degrowth.social` | No |
 | `degruchy.org` | No |
 | `deguuuuu.xyz` | No |
 | `dehaeck.eu` | Yes |
@@ -15532,7 +15533,7 @@ Here's a list of public Fediverse services.
 | `girl-is.gay` | No |
 | `girlc.at` | Yes |
 | `girlcock.club` | No |
-| `girlcock.eu` | Yes |
+| `girlcock.eu` | No |
 | `girldick.gay` | No |
 | `girldick.icu` | No |
 | `girldick.quest` | Yes |
@@ -40777,6 +40778,7 @@ Here's a list of public Fediverse services.
 | `tavern.social` | Yes |
 | `tavern.today` | No |
 | `tavern.town` | No |
+| `taverne-zum-wanderer.de` | No |
 | `tavernedudev.fr` | No |
 | `tavi.moe` | No |
 | `tawa.wtf` | No |
@@ -47802,8 +47804,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,197 |
-| Normal | 34,557 |
+| Cloudflare | 13,196 |
+| Normal | 34,560 |
 
 
 </details>
