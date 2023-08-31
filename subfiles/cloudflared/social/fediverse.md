@@ -23909,7 +23909,6 @@ Here's a list of public Fediverse services.
 | `ls.gy` | No |
 | `lsa.social` | Yes |
 | `lsbt.me` | No |
-| `lserver.dev` | No |
 | `lsf-group.de` | No |
 | `lsferreira.net` | Yes |
 | `lsnet.eu` | No |
@@ -47796,7 +47795,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,193 |
-| Normal | 34,554 |
+| Normal | 34,553 |
 
 
 </details>
