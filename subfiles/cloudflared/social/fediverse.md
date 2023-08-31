@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,304 |
-| social | 4,521 |
+| com | 7,305 |
+| social | 4,523 |
 | net | 3,711 |
 | org | 2,491 |
 | de | 2,293 |
@@ -3018,7 +3018,7 @@ Here's a list of public Fediverse services.
 | `astralchan.xyz` | No |
 | `astralsystem.com` | Yes |
 | `astrel.la` | No |
-| `astria.city` | Yes |
+| `astria.city` | No |
 | `astrian.social` | Yes |
 | `astrianzheng.cn` | Yes |
 | `astrid.tech` | Yes |
@@ -6357,6 +6357,7 @@ Here's a list of public Fediverse services.
 | `catgirlmeike.eu` | Yes |
 | `catgirlon.top` | Yes |
 | `catgirls.cafe` | Yes |
+| `catgirls.ink` | No |
 | `catgirls.love` | No |
 | `catgirls.party` | Yes |
 | `catgirls.science` | Yes |
@@ -18532,6 +18533,7 @@ Here's a list of public Fediverse services.
 | `immerweiterlaufen.net` | No |
 | `immerweiterlaufen.org` | No |
 | `immibis.com` | No |
+| `immigrantcity.social` | No |
 | `imn-fujita.com` | No |
 | `imno.in` | No |
 | `imoimo.xyz` | No |
@@ -27153,6 +27155,7 @@ Here's a list of public Fediverse services.
 | `molaguay.xyz` | No |
 | `moldyspam.com` | No |
 | `molina.jp` | Yes |
+| `mollejuo.com` | No |
 | `mollys.social` | No |
 | `mollysdailykiss.com` | Yes |
 | `molodtsov.net` | Yes |
@@ -35366,6 +35369,7 @@ Here's a list of public Fediverse services.
 | `riedstadt.social` | No |
 | `riegai.com` | Yes |
 | `riekenberg.org` | No |
+| `riemann.social` | No |
 | `ries-web.de` | No |
 | `riesen.fail` | No |
 | `rievo.net` | No |
@@ -46098,7 +46102,7 @@ Here's a list of public Fediverse services.
 | `wordsmith.world` | No |
 | `wordy-rappinghood.net` | No |
 | `wordy.gdn` | Yes |
-| `worf.win` | No |
+| `worf.win` | Yes |
 | `worgames.com` | No |
 | `work-at-hospital.com` | No |
 | `workaholic.cloud` | No |
@@ -47779,7 +47783,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,190 |
-| Normal | 34,540 |
+| Normal | 34,544 |
 
 
 </details>
