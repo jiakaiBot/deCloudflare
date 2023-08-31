@@ -436,6 +436,7 @@ Here's a list of breached sites.
 | PSPISO (PSP ISO) | 1,274,070 | No |
 | PSX-Scene | 341,118 | No |
 | PaddyPower (Paddy Power) | 590,954 | Yes |
+| Pampling | 383,468 | No |
 | ParagonCheats (Paragon Cheats) | 188,089 | Yes |
 | Parapa (Пара Па) | 4,946,850 | No |
 | ParkMobile | 20,949,825 | Yes |
@@ -690,9 +691,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 378 | 3,968,105,251 |
-| Normal | 290 | 4,960,944,996 |
+| Normal | 291 | 4,961,328,464 |
 
 
 
-### 56.6% of breached sites (pwned sites) are using Cloudflare.
+### 56.5% of breached sites (pwned sites) are using Cloudflare.
 ### 44.4% of leaked accounts are on Cloudflare sites.
