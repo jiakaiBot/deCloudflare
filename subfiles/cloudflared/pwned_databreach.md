@@ -452,6 +452,7 @@ Here's a list of breached sites.
 | Pixlr | 1,906,808 | No |
 | PlanetCalypso (Planet Calypso) | 62,261 | No |
 | PlanetIce (Planet Ice) | 240,488 | No |
+| PlayCyberGames | 3,681,753 | No |
 | Playbook | 50,538 | No |
 | Playgar (Guns and Robots) | 143,569 | No |
 | Plex | 327,314 | Yes |
@@ -689,9 +690,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 378 | 3,968,105,251 |
-| Normal | 289 | 4,957,263,243 |
+| Normal | 290 | 4,960,944,996 |
 
 
 
-### 56.7% of breached sites (pwned sites) are using Cloudflare.
-### 44.5% of leaked accounts are on Cloudflare sites.
+### 56.6% of breached sites (pwned sites) are using Cloudflare.
+### 44.4% of leaked accounts are on Cloudflare sites.
