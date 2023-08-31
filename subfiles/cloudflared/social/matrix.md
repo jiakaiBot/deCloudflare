@@ -74,9 +74,9 @@ Here's a list of public Matrix services.
 | mailstation.de | No |
 | matrix.im | No |
 | matrix.org | Yes |
-| matrix.monero.social | No |
 | nitro.chat | No |
 | matrix.noevil.pl | No |
+| nope.chat | No |
 | matrix.norge.chat | Yes |
 | hs.obco.pro | Yes |
 | oikei.net | No |
