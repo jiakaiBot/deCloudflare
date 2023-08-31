@@ -754,7 +754,7 @@ Here's a list of public Fediverse services.
 | `906070809.com` | No |
 | `907.life` | No |
 | `915.social` | Yes |
-| `9177xe.tokyo` | No |
+| `9177xe.tokyo` | Yes |
 | `91stack.com` | No |
 | `91video.online` | Yes |
 | `91x.gg` | Yes |
@@ -23908,7 +23908,6 @@ Here's a list of public Fediverse services.
 | `ls.gy` | No |
 | `lsa.social` | Yes |
 | `lsbt.me` | No |
-| `lserver.dev` | No |
 | `lsf-group.de` | No |
 | `lsferreira.net` | Yes |
 | `lsnet.eu` | No |
@@ -47794,8 +47793,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,192 |
-| Normal | 34,554 |
+| Cloudflare | 13,193 |
+| Normal | 34,552 |
 
 
 </details>
