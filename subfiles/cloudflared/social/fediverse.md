@@ -16808,6 +16808,7 @@ Here's a list of public Fediverse services.
 | `harpsica.net` | No |
 | `harpy.faith` | No |
 | `harpy.life` | No |
+| `harrastenurkka.fi` | No |
 | `harrier.io` | No |
 | `harrisroxashealth.com` | Yes |
 | `harrisville.net.nz` | No |
@@ -47795,7 +47796,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,193 |
-| Normal | 34,553 |
+| Normal | 34,554 |
 
 
 </details>
