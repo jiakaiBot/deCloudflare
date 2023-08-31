@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,305 |
+| com | 7,306 |
 | social | 4,523 |
-| net | 3,711 |
+| net | 3,712 |
 | org | 2,491 |
-| de | 2,293 |
+| de | 2,294 |
 
 
 - Mastodon, Pleroma, etc
@@ -3621,7 +3621,7 @@ Here's a list of public Fediverse services.
 | `bados.win` | Yes |
 | `badpacman.io` | Yes |
 | `badpixels.be` | No |
-| `badposts.net` | No |
+| `badposts.net` | Yes |
 | `badprocess.me` | No |
 | `bae.city` | No |
 | `bae.st` | No |
@@ -9940,6 +9940,7 @@ Here's a list of public Fediverse services.
 | `dharmadhatu.nl` | No |
 | `dharmapunx.online` | No |
 | `dharmarakshak.com` | No |
+| `dharmaveernamaskar.in` | Yes |
 | `dhbenihana.jp` | No |
 | `dhbit.ca` | No |
 | `dhch.de` | No |
@@ -11835,6 +11836,7 @@ Here's a list of public Fediverse services.
 | `end.io` | Yes |
 | `endaaman.me` | No |
 | `endeavorelectrical.com` | No |
+| `enderman.xyz` | Yes |
 | `enderwalk.gay` | No |
 | `endgameviable.com` | No |
 | `endgameviable.social` | No |
@@ -16065,6 +16067,7 @@ Here's a list of public Fediverse services.
 | `graves.cl` | No |
 | `gravitas.cafe` | No |
 | `gravitasfree.zone` | No |
+| `gravitaz.co.uk` | Yes |
 | `gravitons.org` | No |
 | `gravitystorm.co.uk` | Yes |
 | `gravitywell.xyz` | Yes |
@@ -17366,6 +17369,7 @@ Here's a list of public Fediverse services.
 | `hikikomori.me` | Yes |
 | `hikoukidon.com` | No |
 | `hikoukidon.jp` | No |
+| `hikse.net` | No |
 | `hil.ist` | No |
 | `hilandchris.com` | No |
 | `hilciferous.nl` | No |
@@ -20154,7 +20158,7 @@ Here's a list of public Fediverse services.
 | `jort.space` | No |
 | `jorts.horse` | No |
 | `jorts.life` | No |
-| `jorts.online` | Yes |
+| `jorts.online` | No |
 | `jorun.dev` | Yes |
 | `josa.social` | Yes |
 | `joschu.ch` | No |
@@ -22047,6 +22051,7 @@ Here's a list of public Fediverse services.
 | `kuude.re` | No |
 | `kuukkanen.net` | Yes |
 | `kuylar.dev` | Yes |
+| `kuzko.eu` | No |
 | `kv.sg` | Yes |
 | `kvalhe.im` | No |
 | `kvasta.se` | No |
@@ -22209,6 +22214,7 @@ Here's a list of public Fediverse services.
 | `lachman.tk` | No |
 | `lacia.life` | Yes |
 | `lacienciaysusdemonios.com` | No |
+| `lacinka.foundation` | No |
 | `lacking.fun` | No |
 | `lacko.network` | Yes |
 | `lackthereof.info` | No |
@@ -22349,7 +22355,7 @@ Here's a list of public Fediverse services.
 | `laneros.social` | Yes |
 | `lang-mfr.de` | No |
 | `langberi.chat` | Yes |
-| `langet.one` | Yes |
+| `langet.one` | No |
 | `langfahrtsegeln.de` | No |
 | `langfamilie.de` | No |
 | `langford.fm` | No |
@@ -22972,6 +22978,7 @@ Here's a list of public Fediverse services.
 | `lewd.town` | No |
 | `lewd.website` | No |
 | `lewdieheaven.com` | No |
+| `lewiekong.online` | No |
 | `lewisdale.dev` | No |
 | `lewishamcyclists.org.uk` | No |
 | `lewy.world` | Yes |
@@ -23152,6 +23159,7 @@ Here's a list of public Fediverse services.
 | `lice.jp` | No |
 | `lichfieldlive.co.uk` | Yes |
 | `lick.blue` | No |
+| `lidd.ovh` | No |
 | `liebefeld.social` | No |
 | `lieberbiber.de` | No |
 | `liebevollepraxis.fr` | No |
@@ -30935,7 +30943,7 @@ Here's a list of public Fediverse services.
 | `open3dlab.social` | No |
 | `openaiken.net` | No |
 | `openalgeria.org` | Yes |
-| `openbargel.com` | Yes |
+| `openbargel.com` | No |
 | `openbarnum.org` | Yes |
 | `openbiblio.eu` | No |
 | `openbiblio.social` | No |
@@ -32442,6 +32450,7 @@ Here's a list of public Fediverse services.
 | `piaille.fr` | No |
 | `pianyu.cyou` | Yes |
 | `piaste.it` | No |
+| `piatrouski.com` | No |
 | `piaty.ovh` | No |
 | `piazza.today` | No |
 | `pibvt.net` | Yes |
@@ -34025,6 +34034,7 @@ Here's a list of public Fediverse services.
 | `qrbt.ch` | No |
 | `qrewhub.com` | No |
 | `qrk.social` | No |
+| `qrok.me` | No |
 | `qrpth.eu` | No |
 | `qrz.today` | Yes |
 | `qseco.fr` | Yes |
@@ -34297,7 +34307,7 @@ Here's a list of public Fediverse services.
 | `rabbit.country` | No |
 | `rabbit.tel` | No |
 | `rabbit.zone` | No |
-| `rabbitea.rs` | No |
+| `rabbitea.rs` | Yes |
 | `rabbithou.se` | Yes |
 | `rabbitodon.work` | No |
 | `rabbits-at.work` | No |
@@ -47484,6 +47494,7 @@ Here's a list of public Fediverse services.
 | `zerowastefvg.it` | No |
 | `zeroyuki.cn` | Yes |
 | `zerozaski.tech` | Yes |
+| `zerschnurrt.de` | No |
 | `zerstoererbande.de` | No |
 | `zerw.xyz` | No |
 | `zesh.club` | No |
@@ -47782,8 +47793,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,190 |
-| Normal | 34,544 |
+| Cloudflare | 13,192 |
+| Normal | 34,553 |
 
 
 </details>
