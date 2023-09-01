@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,307 |
-| social | 4,526 |
+| com | 7,308 |
+| social | 4,528 |
 | net | 3,714 |
 | org | 2,491 |
 | de | 2,297 |
@@ -4027,6 +4027,7 @@ Here's a list of public Fediverse services.
 | `beefyboys.win` | Yes |
 | `beeglil.fun` | No |
 | `beehaw.org` | No |
+| `beehive.ee` | Yes |
 | `beehive.gay` | No |
 | `beehub.org` | Yes |
 | `beekeeping.ninja` | No |
@@ -5274,6 +5275,7 @@ Here's a list of public Fediverse services.
 | `botequim.social` | No |
 | `boterbast.nl` | No |
 | `bothhands.ca` | No |
+| `botnet-filref.com` | Yes |
 | `botnet.club` | Yes |
 | `botnet.social` | No |
 | `bots-in.space` | No |
@@ -6478,6 +6480,7 @@ Here's a list of public Fediverse services.
 | `cdrum.photos` | No |
 | `cdrum.social` | Yes |
 | `cdstm.ch` | No |
+| `cdt.social` | Yes |
 | `cdy.social` | Yes |
 | `ce.gl` | No |
 | `ceb8.de` | No |
@@ -7663,7 +7666,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7707,6 +7710,7 @@ Here's a list of public Fediverse services.
 | `comm.social` | No |
 | `commander1024.de` | No |
 | `commandercog.com` | Yes |
+| `commentingon.xyz` | Yes |
 | `commethics.online` | No |
 | `commfurnity.com` | Yes |
 | `commodore.social` | No |
@@ -18496,6 +18500,7 @@ Here's a list of public Fediverse services.
 | `im.im` | No |
 | `im.sb` | Yes |
 | `im20a0.com` | No |
+| `ima.cm` | Yes |
 | `ima1zumi.com` | No |
 | `imaag.de` | No |
 | `imach.me` | Yes |
@@ -20813,6 +20818,7 @@ Here's a list of public Fediverse services.
 | `katiechapman.ie` | Yes |
 | `katiehopkinspolitical.icu` | No |
 | `katis.me` | No |
+| `katiska.eu` | No |
 | `katjaevertz.de` | No |
 | `katniss.top` | No |
 | `katsquill.com` | No |
@@ -23725,6 +23731,7 @@ Here's a list of public Fediverse services.
 | `looka.at` | No |
 | `lookbusy.org` | No |
 | `lookits.me` | No |
+| `loom.nyc` | No |
 | `loomchild.net` | No |
 | `loomcom.com` | No |
 | `loomy.li` | No |
@@ -26282,6 +26289,7 @@ Here's a list of public Fediverse services.
 | `mfyo.jp` | Yes |
 | `mfz.jp` | No |
 | `mg-webservices.de` | No |
+| `mg.social` | No |
 | `mgattozzi.dev` | No |
 | `mgcomm.de` | No |
 | `mghk.space` | Yes |
@@ -46681,7 +46689,7 @@ Here's a list of public Fediverse services.
 | `xn--y9aaa4b6a6fqad.xn--y9a3aq` | Yes |
 | `xn--y9aai3au2bc2f.xn--y9a3aq` | Yes |
 | `xn--y9aey5fdz.xn--y9a3aq` | Yes |
-| `xn--y9ai4fj.xn--y9a3aq` | Yes |
+| `xn--y9ai4fj.xn--y9a3aq` | No |
 | `xn--y9azesw6bu.xn--y9a3aq` | No |
 | `xn--zck4ad5f2e.jp` | No |
 | `xn--zck4ad5f2e.xn--q9jyb4c` | No |
@@ -47814,8 +47822,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,201 |
-| Normal | 34,565 |
+| Cloudflare | 13,204 |
+| Normal | 34,570 |
 
 
 </details>
