@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [postinstall scripts in monorepos aren't run if there's errors with the installation](https://github.com/oven-sh/bun/issues/4447)
+- [FlareSolverr stopped to work and is not solving the verification challenge](https://github.com/FlareSolverr/FlareSolverr/issues/881)
 - [Cannot access to the KV binding](https://github.com/withastro/astro/issues/8347)
 - [Consider limiting the size of the responses we zip into response_bank](https://github.com/Shopify/response_bank/issues/80)
 - [RemixImage loader error: Cannot read properties of undefined (reading 'fetch')](https://github.com/Josh-McFarlin/remix-image/issues/76)
