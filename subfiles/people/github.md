@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: Error solving the challenge. Timeout after 90.0 seconds.](https://github.com/setnicka/ulozto-downloader/issues/176)
 - [postinstall scripts in monorepos aren't run if there's errors with the installation](https://github.com/oven-sh/bun/issues/4447)
 - [FlareSolverr stopped to work and is not solving the verification challenge](https://github.com/FlareSolverr/FlareSolverr/issues/881)
 - [Cannot access to the KV binding](https://github.com/withastro/astro/issues/8347)
