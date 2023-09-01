@@ -7629,6 +7629,7 @@ Here's a list of public Fediverse services.
 | `collantes.social` | Yes |
 | `collapse.cat` | Yes |
 | `collapse.pub` | No |
+| `collapsible.systems` | No |
 | `collapsitarian.io` | No |
 | `collar.place` | Yes |
 | `collate.social` | No |
@@ -7666,7 +7667,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -28335,7 +28336,7 @@ Here's a list of public Fediverse services.
 | `mzyy94.com` | Yes |
 | `n-cloud.ro` | No |
 | `n-i.pw` | No |
-| `n-kaiwai.work` | No |
+| `n-kaiwai.work` | Yes |
 | `n-kru.se` | No |
 | `n-odes.social` | No |
 | `n-s.tokyo` | Yes |
@@ -30518,7 +30519,7 @@ Here's a list of public Fediverse services.
 | `oekaki.st` | No |
 | `oekakiskey.com` | Yes |
 | `oeks.de` | No |
-| `oelabs.co` | Yes |
+| `oelabs.co` | No |
 | `oelna.de` | No |
 | `oemof.org` | No |
 | `oer.me` | No |
@@ -47822,7 +47823,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,204 |
+| Cloudflare | 13,205 |
 | Normal | 34,570 |
 
 
