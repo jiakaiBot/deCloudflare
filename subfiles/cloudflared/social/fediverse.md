@@ -1176,6 +1176,7 @@ Here's a list of public Fediverse services.
 | `adorableweirdo.com` | No |
 | `adorawilliams.com` | No |
 | `adorsaz.ch` | No |
+| `adradia.today` | No |
 | `adrelien.com` | Yes |
 | `adriaan.se` | No |
 | `adrianpaul-carrieres.fr` | No |
@@ -23734,7 +23735,7 @@ Here's a list of public Fediverse services.
 | `looka.at` | No |
 | `lookbusy.org` | No |
 | `lookits.me` | No |
-| `loom.nyc` | No |
+| `loom.nyc` | Yes |
 | `loomchild.net` | No |
 | `loomcom.com` | No |
 | `loomy.li` | No |
@@ -47827,7 +47828,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,223 |
+| Cloudflare | 13,224 |
 | Normal | 34,556 |
 
 
