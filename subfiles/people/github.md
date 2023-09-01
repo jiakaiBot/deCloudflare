@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot access to the KV binding](https://github.com/withastro/astro/issues/8347)
 - [Consider limiting the size of the responses we zip into response_bank](https://github.com/Shopify/response_bank/issues/80)
 - [RemixImage loader error: Cannot read properties of undefined (reading 'fetch')](https://github.com/Josh-McFarlin/remix-image/issues/76)
 - [Quad9 - DoT and DoH not working](https://github.com/TechnitiumSoftware/DnsServer/issues/711)
