@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,307 |
 | social | 4,526 |
-| net | 3,713 |
+| net | 3,714 |
 | org | 2,491 |
 | de | 2,297 |
 
@@ -3667,6 +3667,7 @@ Here's a list of public Fediverse services.
 | `balad.in` | No |
 | `balaena.eus` | No |
 | `balafon.cloud` | No |
+| `balafon.net` | No |
 | `balafon.social` | No |
 | `balafon.video` | No |
 | `balamb.fr` | No |
@@ -23084,7 +23085,7 @@ Here's a list of public Fediverse services.
 | `libertaria.space` | No |
 | `libertarian.chat` | No |
 | `libertarianism.club` | No |
-| `libertarians.online` | No |
+| `libertarians.online` | Yes |
 | `libertarians.social` | No |
 | `libertica.space` | Yes |
 | `libertious.com` | No |
@@ -47813,7 +47814,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,200 |
+| Cloudflare | 13,201 |
 | Normal | 34,565 |
 
 
