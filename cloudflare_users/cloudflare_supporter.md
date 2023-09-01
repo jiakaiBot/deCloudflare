@@ -580,6 +580,7 @@ Do not create new issue or we will close it as duplicate.
 | [aladjid_@twitter](https://twitter.com/aladjid_/status/1664699302898290689) | advertise |
 | [AlaevY@twitter](https://twitter.com/AlaevY/status/1445829052728705029) | advertise |
 | [alailsonribeiro@twitter](https://twitter.com/alailsonribeiro/status/1430539576511172609) | advertise |
+| [AlamSha81569178@twitter](https://twitter.com/AlamSha81569178/status/1697487684057673909) | advertise |
 | [AlanJade1@twitter](https://twitter.com/AlanJade1/status/1570041811829424129) | advertise |
 | [AlanMorelDev@twitter](https://twitter.com/AlanMorelDev/status/1665868791740354563) | advertise |
 | [AlanSnape12@twitter](https://twitter.com/AlanSnape12/status/1391169464863916034) | advertise |
@@ -13375,6 +13376,7 @@ Do not create new issue or we will close it as duplicate.
 | [victoraldir@twitter](https://twitter.com/victoraldir/status/1468678725684404231) | advertise |
 | [VictorC67776723@twitter](https://twitter.com/VictorC67776723/status/1429202585097998336) | advertise |
 | [VictorDown81244@twitter](https://twitter.com/VictorDown81244/status/1665874513593274368) | advertise |
+| [victoronalik@twitter](https://twitter.com/victoronalik/status/1697465163807617383) | advertise |
 | [Victorsanguine5@twitter](https://twitter.com/Victorsanguine5/status/1569801607839088641) | advertise |
 | [victrays@twitter](https://twitter.com/victrays/status/1645169071825244162) | advertise |
 | [viem_tru@twitter](https://twitter.com/viem_tru/status/1395102795670327296) | advertise |
