@@ -146,7 +146,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hostux.net | No |
 | hubservices.vn | Yes |
 | huque.com | No |
-| i81.ru | No |
 | iamninja.ru | No |
 | ibakerserver.pt | Yes |
 | ihatemy.live | Yes |
@@ -317,7 +316,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | virga.pp.ua | Yes |
 | vishalk.com | No |
 | vmath.my.id | No |
-| vpms.xyz | Yes |
 | vpnglobal.my.id | Yes |
 | waifu.cz | Yes |
 | wang.art | Yes |
@@ -331,7 +329,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | yameenassotally.com | No |
 | yazilimatolye.com | No |
 | yingroad.top | Yes |
-| youni.win | Yes |
 | yovbak.com | No |
 | yybyy.wiki | Yes |
 | zxcvb.pp.ua | Yes |
@@ -341,8 +338,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 160 |
-| Normal | 162 |
+| Cloudflare | 158 |
+| Normal | 161 |
 
 
-### 49.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 49.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
