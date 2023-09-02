@@ -33408,7 +33408,7 @@ Here's a list of public Fediverse services.
 | `powerweb.io` | No |
 | `poya.icu` | No |
 | `poyo.me` | No |
-| `poyoro.id` | No |
+| `poyoro.id` | Yes |
 | `poyusbuddy.com` | Yes |
 | `pp.lu` | No |
 | `ppcis.org` | No |
@@ -34639,6 +34639,7 @@ Here's a list of public Fediverse services.
 | `rapemeat.express` | No |
 | `rapemeat.shop` | No |
 | `rapemeat.solutions` | No |
+| `rapemeat.st` | No |
 | `raph.tv` | No |
 | `raphael-jolivet.name` | No |
 | `raphmim.com` | No |
@@ -47843,7 +47844,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,229 |
+| Cloudflare | 13,230 |
 | Normal | 34,566 |
 
 
