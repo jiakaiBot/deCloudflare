@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,311 |
-| social | 4,529 |
+| social | 4,530 |
 | net | 3,717 |
 | org | 2,492 |
 | de | 2,298 |
@@ -32581,6 +32581,7 @@ Here's a list of public Fediverse services.
 | `pimmsiki.org` | Yes |
 | `pimoore.ca` | No |
 | `pimux.de` | No |
+| `pina.social` | No |
 | `pina.space` | No |
 | `pinbun.com` | Yes |
 | `pinc.tube` | No |
@@ -47843,7 +47844,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,229 |
-| Normal | 34,565 |
+| Normal | 34,566 |
 
 
 </details>
