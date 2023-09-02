@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,310 |
 | social | 4,528 |
-| net | 3,715 |
-| org | 2,491 |
+| net | 3,716 |
+| org | 2,492 |
 | de | 2,298 |
 
 
@@ -2259,6 +2259,7 @@ Here's a list of public Fediverse services.
 | `ankegruenow.com` | No |
 | `ankh.social` | No |
 | `ankhmorpork.host` | No |
+| `ankokunogrove.space` | Yes |
 | `anmax.direct` | Yes |
 | `anml.io` | No |
 | `anmol.net.in` | No |
@@ -7090,6 +7091,7 @@ Here's a list of public Fediverse services.
 | `chups.me` | No |
 | `churanova.eu` | No |
 | `churrosoft.ar` | Yes |
+| `chuso.net` | Yes |
 | `chvanikoff.com` | No |
 | `chven.us` | No |
 | `chvp.be` | Yes |
@@ -18618,6 +18620,7 @@ Here's a list of public Fediverse services.
 | `inbutts.lol` | No |
 | `incaseofsunrise.net` | No |
 | `incchat.site` | No |
+| `incenbie.eu.org` | No |
 | `incenp.org` | No |
 | `inceptusp.dev` | Yes |
 | `inchasgram.com` | No |
@@ -32415,6 +32418,7 @@ Here's a list of public Fediverse services.
 | `phoenix591.com` | Yes |
 | `phoenixharbor.com` | No |
 | `phoenixict.it` | No |
+| `phoenixinitiative.systems` | No |
 | `phoenixkahlo.com` | No |
 | `phoenixlair.net` | No |
 | `phoenixproject.group` | No |
@@ -38346,6 +38350,7 @@ Here's a list of public Fediverse services.
 | `smashtodon.com` | No |
 | `smat-app.com` | Yes |
 | `smatodon.net` | No |
+| `smay.dev` | No |
 | `smbcc.org` | Yes |
 | `smbd.jp` | No |
 | `smbi.community` | Yes |
@@ -47834,8 +47839,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,223 |
-| Normal | 34,563 |
+| Cloudflare | 13,225 |
+| Normal | 34,566 |
 
 
 </details>
