@@ -962,6 +962,7 @@ Do not create new issue or we will close it as duplicate.
 | [Anthonio_de_la_@twitter](https://twitter.com/Anthonio_de_la_/status/1690263890855370752) | advertise |
 | [AntohinShulov@twitter](https://twitter.com/AntohinShulov/status/1392227012136239105) | advertise |
 | [antohnysasine@twitter](https://twitter.com/antohnysasine/status/1519745453952311297) | advertise |
+| [AntonioGSunye@twitter](https://twitter.com/AntonioGSunye/status/1697926121285710279) | advertise |
 | [AntonioMA_dev@twitter](https://twitter.com/AntonioMA_dev/status/1473047937999683594) | advertise |
 | [antonyalston@twitter](https://twitter.com/antonyalston/status/1500675516189134856) | advertise |
 | [AntonySimwanza@twitter](https://twitter.com/AntonySimwanza/status/1644838015322271751) | advertise |
