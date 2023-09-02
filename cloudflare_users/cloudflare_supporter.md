@@ -2163,6 +2163,7 @@ Do not create new issue or we will close it as duplicate.
 | [CAtomsa@twitter](https://twitter.com/CAtomsa/status/1538558459628728326) | advertise |
 | [catsthepope@twitter](https://twitter.com/catsthepope/status/1578071234134376449) | advertise |
 | [cattien64320817@twitter](https://twitter.com/cattien64320817/status/1402109873911865344) | advertise |
+| [cattttt_tycat@twitter](https://twitter.com/cattttt_tycat/status/1697866830239727731) | advertise |
 | [cat_lover222204@twitter](https://twitter.com/cat_lover222204/status/1646465972868648960) | advertise |
 | [cavalloart@twitter](https://twitter.com/cavalloart/status/1387667750936403971) | advertise |
 | [Caylabsh231@twitter](https://twitter.com/Caylabsh231/status/1642198060133662720) | advertise |
@@ -2874,6 +2875,7 @@ Do not create new issue or we will close it as duplicate.
 | [Demon03765725@twitter](https://twitter.com/Demon03765725/status/1599036023165505536) | advertise |
 | [Demon6941@twitter](https://twitter.com/Demon6941/status/1494687786774851592) | advertise |
 | [Demon95990507@twitter](https://twitter.com/Demon95990507/status/1393209524639604739) | advertise |
+| [demondemon48096@twitter](https://twitter.com/demondemon48096/status/1697841463974101496) | advertise |
 | [DemonFighter17@twitter](https://twitter.com/DemonFighter17/status/1379994239073976325) | advertise |
 | [DemonteGregory@twitter](https://twitter.com/DemonteGregory/status/1564021453405790216) | advertise |
 | [dem_lanh1@twitter](https://twitter.com/dem_lanh1/status/1478372142429655043) | advertise |
@@ -5604,6 +5606,7 @@ Do not create new issue or we will close it as duplicate.
 | [jiaozhudezhuzhu@twitter](https://twitter.com/jiaozhudezhuzhu/status/1690024620056010752) | advertise |
 | [Jibin1291@twitter](https://twitter.com/Jibin1291/status/1486566580121079809) | advertise |
 | [jibutare@twitter](https://twitter.com/jibutare/status/1491201904231477248) | advertise |
+| [jignesh19961020@twitter](https://twitter.com/jignesh19961020/status/1697818033761444188) | advertise |
 | [jiiahani@twitter](https://twitter.com/jiiahani/status/1399603047244853249) | advertise |
 | [JiiSaaduddin@twitter](https://twitter.com/JiiSaaduddin/status/1429958660575293466) | advertise |
 | [JiKyeol@twitter](https://twitter.com/JiKyeol/status/1553774067437604864) | advertise |
@@ -7315,6 +7318,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ly72496036@twitter](https://twitter.com/Ly72496036/status/1580623611903164416) | advertise |
 | [lyceum976@twitter](https://twitter.com/lyceum976/status/1589305531575209984) | advertise |
 | [Lyd37537266@twitter](https://twitter.com/Lyd37537266/status/1401480607310376964) | advertise |
+| [lyfdcxc@twitter](https://twitter.com/lyfdcxc/status/1697822411457216685) | advertise |
 | [LyfemoreNews@twitter](https://twitter.com/LyfemoreNews/status/1457223435814383618) | advertise |
 | [LyinLian@twitter](https://twitter.com/LyinLian/status/1594891042486378497) | advertise |
 | [lynk_nvulinh38@twitter](https://twitter.com/lynk_nvulinh38/status/1399004664025149440) | advertise |
@@ -9915,6 +9919,7 @@ Do not create new issue or we will close it as duplicate.
 | [phoone_pyae_@twitter](https://twitter.com/phoone_pyae_/status/1394996486010589187) | advertise |
 | [Phoopwintoo12@twitter](https://twitter.com/Phoopwintoo12/status/1392148944772210690) | advertise |
 | [photu98@twitter](https://twitter.com/photu98/status/1479103551590711296) | advertise |
+| [phpform1@twitter](https://twitter.com/phpform1/status/1697861052346642729) | advertise |
 | [PhPhm40874331@twitter](https://twitter.com/PhPhm40874331/status/1402964200163463173) | advertise |
 | [PhQucTrn3@twitter](https://twitter.com/PhQucTrn3/status/1532955806747852800) | advertise |
 | [phrabhakar@twitter](https://twitter.com/phrabhakar/status/1377811272100540417) | advertise |
@@ -11202,6 +11207,7 @@ Do not create new issue or we will close it as duplicate.
 | [SeinSi15@twitter](https://twitter.com/SeinSi15/status/1545748877034213378) | advertise |
 | [seizure_salad__@twitter](https://twitter.com/seizure_salad__/status/1394456452933242886) | advertise |
 | [SeksanKanchumn1@twitter](https://twitter.com/SeksanKanchumn1/status/1505766121525325824) | advertise |
+| [selcuk_b86@twitter](https://twitter.com/selcuk_b86/status/1697892469210259693) | advertise |
 | [SelfAda1@twitter](https://twitter.com/SelfAda1/status/1428381024908718083) | advertise |
 | [selfhelp_ok@twitter](https://twitter.com/selfhelp_ok/status/1562212658555850752) | advertise |
 | [SElhuossin23665@twitter](https://twitter.com/SElhuossin23665/status/1669792407360077824) | advertise |
