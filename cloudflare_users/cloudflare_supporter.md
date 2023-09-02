@@ -13128,6 +13128,7 @@ Do not create new issue or we will close it as duplicate.
 | [TuynNgu65141795@twitter](https://twitter.com/TuynNgu65141795/status/1399803170520371204) | advertise |
 | [TuynNgu79383740@twitter](https://twitter.com/TuynNgu79383740/status/1551997972795527168) | advertise |
 | [TV2490541679@twitter](https://twitter.com/TV2490541679/status/1618313406314090497) | advertise |
+| [Tvde1@twitter](https://twitter.com/Tvde1/status/1697654047182864427) | advertise |
 | [tvtrsteven@twitter](https://twitter.com/tvtrsteven/status/1510619103048118272) | advertise |
 | [tvtttt03@twitter](https://twitter.com/tvtttt03/status/1571177765751361536) | advertise |
 | [tv_ngo@twitter](https://twitter.com/tv_ngo/status/1551988000271114240) | advertise |
