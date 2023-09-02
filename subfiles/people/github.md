@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Timeout waiting for selector](https://github.com/FlareSolverr/FlareSolverr/issues/885)
 - [Blank page for website stats and edit page](https://github.com/umami-software/umami/issues/2269)
 - [Error: Error solving the challenge. Timeout after 90.0 seconds.](https://github.com/setnicka/ulozto-downloader/issues/176)
 - [postinstall scripts in monorepos aren't run if there's errors with the installation](https://github.com/oven-sh/bun/issues/4447)
