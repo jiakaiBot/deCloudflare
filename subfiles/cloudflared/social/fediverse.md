@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,310 |
-| social | 4,528 |
-| net | 3,716 |
+| com | 7,311 |
+| social | 4,529 |
+| net | 3,717 |
 | org | 2,492 |
 | de | 2,298 |
 
@@ -7672,7 +7672,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -15293,6 +15293,7 @@ Here's a list of public Fediverse services.
 | `generallyrubbish.net.au` | No |
 | `generationk.net` | No |
 | `generic.social` | Yes |
+| `genericsocialmediapage.com` | Yes |
 | `generous.horse` | No |
 | `genesis-radio.net` | No |
 | `genesismachina.ca` | No |
@@ -19738,7 +19739,7 @@ Here's a list of public Fediverse services.
 | `jeannie.digital` | Yes |
 | `jeannieindigital.me` | No |
 | `jeanpartobad.fr` | No |
-| `jeanpaulphd.com` | No |
+| `jeanpaulphd.com` | Yes |
 | `jears.at` | No |
 | `jebba.moe` | No |
 | `jeckyll.net` | No |
@@ -27006,6 +27007,7 @@ Here's a list of public Fediverse services.
 | `mmmalia.com` | No |
 | `mmmlt.com` | No |
 | `mmmm.mn` | Yes |
+| `mmmpa.net` | No |
 | `mmmth.nl` | No |
 | `mmn-o.se` | No |
 | `mmn.on.ca` | Yes |
@@ -32094,7 +32096,7 @@ Here's a list of public Fediverse services.
 | `peertube.su` | No |
 | `peertube.support` | No |
 | `peertube.tech` | No |
-| `peertube.tokyo` | No |
+| `peertube.tokyo` | Yes |
 | `peertube.tv` | No |
 | `peertube.uno` | Yes |
 | `peertube.video` | No |
@@ -33462,6 +33464,7 @@ Here's a list of public Fediverse services.
 | `preemptcordon.org` | No |
 | `pref.yokohama` | No |
 | `prefrontal.org` | No |
+| `pregnant.social` | No |
 | `prehl.social` | No |
 | `prehospitalcare.app` | No |
 | `preke.no` | No |
@@ -47839,8 +47842,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,225 |
-| Normal | 34,566 |
+| Cloudflare | 13,229 |
+| Normal | 34,565 |
 
 
 </details>
