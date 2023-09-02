@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,309 |
+| com | 7,310 |
 | social | 4,528 |
-| net | 3,714 |
+| net | 3,715 |
 | org | 2,491 |
 | de | 2,298 |
 
@@ -1108,7 +1108,7 @@ Here's a list of public Fediverse services.
 | `adapulawska.org` | Yes |
 | `adast.dk` | No |
 | `adast.xyz` | Yes |
-| `adastral.net` | No |
+| `adastral.net` | Yes |
 | `adawesome.tech` | No |
 | `adb.sh` | No |
 | `adc.social` | No |
@@ -1700,6 +1700,7 @@ Here's a list of public Fediverse services.
 | `alive.bar` | Yes |
 | `alixrossi.corsica` | No |
 | `aliyo.me` | Yes |
+| `alizas.blog` | No |
 | `alizoed.top` | Yes |
 | `aljadra.xyz` | No |
 | `alkaabi.io` | Yes |
@@ -7669,7 +7670,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -15320,6 +15321,7 @@ Here's a list of public Fediverse services.
 | `gensoukyou.jp.net` | No |
 | `gentle.town` | No |
 | `gentleman-loser.com` | No |
+| `gentlemanloser.cafe` | No |
 | `gentler.earth` | No |
 | `gentoo.app` | No |
 | `gentoo.live` | Yes |
@@ -15467,6 +15469,7 @@ Here's a list of public Fediverse services.
 | `giacofei.org` | No |
 | `giammi.org` | No |
 | `gianarb.it` | No |
+| `gianmarco.gg` | No |
 | `giant.horse` | No |
 | `giant.systems` | No |
 | `giantheart.social` | Yes |
@@ -33063,6 +33066,7 @@ Here's a list of public Fediverse services.
 | `podycust.co.uk` | Yes |
 | `poedelwitz.de` | No |
 | `poemaurd.xyz` | No |
+| `poesieundprosa.net` | No |
 | `poesty.tk` | No |
 | `poetic.systems` | No |
 | `poetry.garden` | No |
@@ -37825,6 +37829,7 @@ Here's a list of public Fediverse services.
 | `signalfel.org` | No |
 | `signalnine.net` | No |
 | `signalstation.com` | No |
+| `signboard.fun` | No |
 | `significantbullet.co` | No |
 | `signofthe.fish` | No |
 | `signs.codes` | No |
@@ -43538,7 +43543,7 @@ Here's a list of public Fediverse services.
 | `tylergoza.com` | Yes |
 | `tylerjfisher.com` | No |
 | `tylinux.com` | Yes |
-| `tylko.fans` | Yes |
+| `tylko.fans` | No |
 | `tylxr.com` | Yes |
 | `tymch.uk` | No |
 | `tymoon.eu` | Yes |
@@ -44630,6 +44635,7 @@ Here's a list of public Fediverse services.
 | `vickerson.me` | No |
 | `victimcache.com` | Yes |
 | `victor.earth` | Yes |
+| `victorbezrukov.com` | No |
 | `victorhawleyjr.me` | Yes |
 | `victorhckinthefreeworld.com` | No |
 | `victoriagaming.ca` | No |
@@ -47828,8 +47834,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,224 |
-| Normal | 34,556 |
+| Cloudflare | 13,223 |
+| Normal | 34,563 |
 
 
 </details>
