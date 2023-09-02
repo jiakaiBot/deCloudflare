@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,311 |
+| com | 7,313 |
 | social | 4,530 |
 | net | 3,717 |
 | org | 2,492 |
@@ -2267,6 +2267,7 @@ Here's a list of public Fediverse services.
 | `annacon.be` | Yes |
 | `annadreambrush.com` | No |
 | `annakirche.at` | No |
+| `annasvavrum.com` | No |
 | `annathepiper.org` | No |
 | `annetteschwindt.de` | No |
 | `annielabs.xyz` | No |
@@ -40977,6 +40978,7 @@ Here's a list of public Fediverse services.
 | `technicaldoctor.social` | No |
 | `technicat.cafe` | No |
 | `technick.org` | No |
+| `techniclip.jp` | Yes |
 | `technizor.dev` | No |
 | `technobabble.social` | No |
 | `technocat.art` | No |
@@ -45417,6 +45419,7 @@ Here's a list of public Fediverse services.
 | `webarch.org.uk` | No |
 | `webassembly.social` | No |
 | `webblund.dev` | No |
+| `webbyanna.com` | No |
 | `webcabin.xyz` | No |
 | `webcoaches.net` | No |
 | `webcommunity.club` | No |
@@ -47844,8 +47847,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,230 |
-| Normal | 34,566 |
+| Cloudflare | 13,231 |
+| Normal | 34,568 |
 
 
 </details>
