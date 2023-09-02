@@ -32,8 +32,8 @@ Here's a list of public Fediverse services.
 | com | 7,313 |
 | social | 4,530 |
 | net | 3,717 |
-| org | 2,492 |
-| de | 2,298 |
+| org | 2,493 |
+| de | 2,299 |
 
 
 - Mastodon, Pleroma, etc
@@ -2021,6 +2021,7 @@ Here's a list of public Fediverse services.
 | `an0thr.app` | No |
 | `an6.us` | Yes |
 | `anacreonte.eu` | No |
+| `anafabula.de` | No |
 | `anakmanis.com` | Yes |
 | `anakut.org` | Yes |
 | `analogdreams.blog` | No |
@@ -8067,6 +8068,7 @@ Here's a list of public Fediverse services.
 | `costodon.social` | No |
 | `costpap.me` | Yes |
 | `cosylab.at` | No |
+| `cota.jp` | Yes |
 | `cote.io` | Yes |
 | `cotellese.net` | No |
 | `cotix.gg` | No |
@@ -10326,6 +10328,7 @@ Here's a list of public Fediverse services.
 | `diya-mastodon.com` | No |
 | `diyarciftci.xyz` | No |
 | `diymusic.space` | No |
+| `diyrpg.org` | No |
 | `diytelevision.com` | No |
 | `dizl.de` | No |
 | `dizmal.red` | No |
@@ -20963,6 +20966,7 @@ Here's a list of public Fediverse services.
 | `kei.fashion` | No |
 | `keibadon.com` | No |
 | `keiji.io` | No |
+| `kein.chat` | No |
 | `keine-eile.de` | No |
 | `keinpfusch.net` | Yes |
 | `keio.ac.jp` | No |
@@ -38856,6 +38860,7 @@ Here's a list of public Fediverse services.
 | `sonomu.club` | No |
 | `sonsofbattlefield.de` | Yes |
 | `sonsofliberty.red` | No |
+| `sonyakun.xyz` | Yes |
 | `soopy.moe` | Yes |
 | `soothing.cloud` | No |
 | `sopelj.ca` | Yes |
@@ -43140,6 +43145,7 @@ Here's a list of public Fediverse services.
 | `truska.xyz` | No |
 | `trustfundme.site` | No |
 | `trustory.fm` | Yes |
+| `trustzero.nl` | No |
 | `truth-sandwich.com` | No |
 | `truthpirates.club` | No |
 | `truthsocial.co.in` | No |
@@ -47847,8 +47853,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,231 |
-| Normal | 34,568 |
+| Cloudflare | 13,233 |
+| Normal | 34,572 |
 
 
 </details>
