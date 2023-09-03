@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,315 |
-| social | 4,532 |
+| social | 4,533 |
 | net | 3,718 |
 | org | 2,493 |
 | de | 2,300 |
@@ -5358,6 +5358,7 @@ Here's a list of public Fediverse services.
 | `bpc.wtf` | No |
 | `bpconsulting.my` | No |
 | `bpd.monster` | No |
+| `bpereira.pics` | No |
 | `bpxiszentpetery8.hu` | No |
 | `bqri.us` | No |
 | `bquatre.fr` | No |
@@ -26294,6 +26295,7 @@ Here's a list of public Fediverse services.
 | `mezzart.fr` | No |
 | `mezzo.moe` | No |
 | `mf1.dev` | Yes |
+| `mf1.social` | Yes |
 | `mfashby.net` | No |
 | `mfbfreaks.nl` | No |
 | `mfg.fyi` | No |
@@ -43526,7 +43528,7 @@ Here's a list of public Fediverse services.
 | `twofifth.one` | No |
 | `twofirstnames.org` | Yes |
 | `twoheaded.monster` | No |
-| `twojs.us` | No |
+| `twojs.us` | Yes |
 | `twolife.be` | No |
 | `twols.cc` | No |
 | `twoot.me` | No |
@@ -47870,7 +47872,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,236 |
+| Cloudflare | 13,238 |
 | Normal | 34,586 |
 
 
