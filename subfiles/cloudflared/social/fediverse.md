@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,315 |
+| com | 7,316 |
 | social | 4,533 |
 | net | 3,718 |
 | org | 2,493 |
-| de | 2,300 |
+| de | 2,301 |
 
 
 - Mastodon, Pleroma, etc
@@ -2118,7 +2118,7 @@ Here's a list of public Fediverse services.
 | `andreasrohner.dev` | No |
 | `andreasvongunten.com` | Yes |
 | `andreer.no` | No |
-| `andrei.website` | No |
+| `andrei.website` | Yes |
 | `andrepitz.de` | No |
 | `andrereichel.de` | No |
 | `andres.cat` | Yes |
@@ -4138,6 +4138,7 @@ Here's a list of public Fediverse services.
 | `benboyd.us` | No |
 | `benbrown.com` | No |
 | `benbuhse.com` | Yes |
+| `bencollier.uk` | No |
 | `bend.town` | No |
 | `bendik.io` | Yes |
 | `bendodson.com` | No |
@@ -9587,6 +9588,7 @@ Here's a list of public Fediverse services.
 | `dejalle.net` | No |
 | `dejfcold.cz` | No |
 | `dejongs.de` | Yes |
+| `dejvino.eu` | No |
 | `dek-net.com` | No |
 | `dekameta.com` | No |
 | `dekay.se` | Yes |
@@ -21731,6 +21733,7 @@ Here's a list of public Fediverse services.
 | `konradlemanski.dev` | Yes |
 | `konradrundfunk.me` | No |
 | `konsolenknecht.de` | No |
+| `konstantintutsch.de` | No |
 | `konstanz-net.de` | No |
 | `konstellation.social` | No |
 | `konsumsyndik.at` | No |
@@ -26995,7 +26998,7 @@ Here's a list of public Fediverse services.
 | `mlabouri.fr` | No |
 | `mlaga97.space` | No |
 | `mlan.im` | No |
-| `mlborder.com` | No |
+| `mlborder.com` | Yes |
 | `mldn.jp` | No |
 | `mle.party` | No |
 | `mleduc.xyz` | No |
@@ -30538,6 +30541,7 @@ Here's a list of public Fediverse services.
 | `ody.si` | No |
 | `odysseus.social` | No |
 | `odyssey346.dev` | Yes |
+| `oe-doutoku.jp` | No |
 | `oe74.net` | No |
 | `oe7drt.com` | Yes |
 | `oedoinfo.com` | Yes |
@@ -35161,6 +35165,7 @@ Here's a list of public Fediverse services.
 | `repomaa.com` | No |
 | `reportdb.today` | Yes |
 | `reporter.social` | No |
+| `repotta8492.com` | No |
 | `reppard.com` | No |
 | `represent.social` | No |
 | `repro.video` | No |
@@ -35484,6 +35489,7 @@ Here's a list of public Fediverse services.
 | `ringelgebirge.de` | No |
 | `ringtail.chat` | No |
 | `ringtailsoftware.co.uk` | No |
+| `rinkko.moe` | No |
 | `rinma.stream` | No |
 | `rinsuki.net` | Yes |
 | `rintik.xyz` | No |
@@ -43068,6 +43074,7 @@ Here's a list of public Fediverse services.
 | `tris.fyi` | No |
 | `trisec.se` | No |
 | `triskelion.ca` | No |
+| `trismegiste.life` | Yes |
 | `trismegistus.eu` | No |
 | `trispadsmit.com` | No |
 | `tristansuper.com` | No |
@@ -44099,6 +44106,7 @@ Here's a list of public Fediverse services.
 | `uoga.net` | No |
 | `up.edu.ph` | Yes |
 | `up.gy` | No |
+| `upah.group` | Yes |
 | `upcast.work` | Yes |
 | `upchur.ch` | No |
 | `upcoming.health` | No |
@@ -47872,8 +47880,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,238 |
-| Normal | 34,586 |
+| Cloudflare | 13,242 |
+| Normal | 34,590 |
 
 
 </details>
