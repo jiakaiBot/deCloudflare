@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,314 |
-| social | 4,531 |
+| com | 7,315 |
+| social | 4,532 |
 | net | 3,717 |
 | org | 2,493 |
 | de | 2,300 |
@@ -4541,6 +4541,7 @@ Here's a list of public Fediverse services.
 | `bird.band` | No |
 | `bird.makeup` | No |
 | `bird.rodeo` | No |
+| `bird.style` | No |
 | `bird.website` | No |
 | `birdbox.party` | Yes |
 | `birdbutt.com` | Yes |
@@ -24594,6 +24595,7 @@ Here's a list of public Fediverse services.
 | `malolepszy.org` | No |
 | `malone.social` | Yes |
 | `malsum.org` | No |
+| `malt.social` | No |
 | `maltech.io` | Yes |
 | `maltestock.com` | No |
 | `malttea.net` | No |
@@ -37209,6 +37211,7 @@ Here's a list of public Fediverse services.
 | `seikin.club` | No |
 | `seikora.one` | Yes |
 | `seikowo.tk` | No |
+| `seishiono.com` | No |
 | `seistrup-nagel.dk` | Yes |
 | `seitaro.me` | No |
 | `seitendan.com` | Yes |
@@ -37592,6 +37595,7 @@ Here's a list of public Fediverse services.
 | `shibe.family` | Yes |
 | `shibimega.com` | Yes |
 | `shibimega.social` | Yes |
+| `shibuya.top` | Yes |
 | `shiftyeyed.net` | No |
 | `shigadon.com` | No |
 | `shigezen.com` | No |
@@ -47862,8 +47866,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,235 |
-| Normal | 34,579 |
+| Cloudflare | 13,236 |
+| Normal | 34,582 |
 
 
 </details>
