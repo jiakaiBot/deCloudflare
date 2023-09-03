@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Deploy nosbin in hostr?](https://github.com/jacany/nosbin/issues/85)
 - [Cloudflare Pagesに設定したCustom Domain経由でアクセスするとAPI取得に失敗する。](https://github.com/shinosaki/querist/issues/1)
 - [Docs: Federation troubleshooting re: Cloudflare](https://github.com/matrix-org/synapse/issues/16228)
 - [Timeout waiting for selector](https://github.com/FlareSolverr/FlareSolverr/issues/885)
