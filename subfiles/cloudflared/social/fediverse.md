@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,313 |
-| social | 4,530 |
+| com | 7,314 |
+| social | 4,531 |
 | net | 3,717 |
 | org | 2,493 |
-| de | 2,299 |
+| de | 2,300 |
 
 
 - Mastodon, Pleroma, etc
@@ -7674,7 +7674,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9059,6 +9059,7 @@ Here's a list of public Fediverse services.
 | `danksquad.org` | Yes |
 | `danksquad.xyz` | No |
 | `danmaku.moe` | No |
+| `danmark.party` | No |
 | `danny.page` | Yes |
 | `dannyhorne.com` | No |
 | `dannyhpy.xyz` | No |
@@ -30017,7 +30018,7 @@ Here's a list of public Fediverse services.
 | `notweet.de` | No |
 | `notwork.in` | No |
 | `notworking.review` | No |
-| `notyour.party` | Yes |
+| `notyour.party` | No |
 | `notyour.rodeo` | Yes |
 | `notyour.tech` | No |
 | `nouni.sh` | No |
@@ -30053,6 +30054,7 @@ Here's a list of public Fediverse services.
 | `nowheycreamery.com` | No |
 | `nowicki.io` | Yes |
 | `nowods.com` | No |
+| `nowoke.social` | No |
 | `noworriesto.day` | No |
 | `nowossjolka.com` | Yes |
 | `nowsci.com` | Yes |
@@ -32997,6 +32999,7 @@ Here's a list of public Fediverse services.
 | `plushieden.eu` | No |
 | `plushies.social` | No |
 | `plusminus.io` | Yes |
+| `plusminusmensch.de` | No |
 | `plusone.chat` | No |
 | `plusone.live` | No |
 | `plusone.network` | No |
@@ -33976,6 +33979,7 @@ Here's a list of public Fediverse services.
 | `pxlmo.net` | No |
 | `pxtech.systems` | No |
 | `pycodon.fr` | No |
+| `pygos.space` | No |
 | `pym.industries` | Yes |
 | `pynews.com.br` | Yes |
 | `pyngu.com` | No |
@@ -37464,6 +37468,7 @@ Here's a list of public Fediverse services.
 | `shadesmar.io` | Yes |
 | `shadowfacts.net` | Yes |
 | `shadowfr69.eu` | No |
+| `shadowheart.club` | No |
 | `shadowkat.net` | No |
 | `shadowlan.net` | No |
 | `shadowland.social` | No |
@@ -40894,6 +40899,7 @@ Here's a list of public Fediverse services.
 | `team-d.jp` | No |
 | `team-frickel.de` | No |
 | `team-prism.rocks` | No |
+| `team-rescue.com` | No |
 | `team-unix.de` | No |
 | `team.jetzt` | No |
 | `team.tt` | No |
@@ -47855,8 +47861,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,234 |
-| Normal | 34,573 |
+| Cloudflare | 13,232 |
+| Normal | 34,581 |
 
 
 </details>
