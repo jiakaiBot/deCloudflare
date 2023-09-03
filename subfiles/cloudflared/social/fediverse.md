@@ -35368,7 +35368,7 @@ Here's a list of public Fediverse services.
 | `rhubarbe.social` | No |
 | `rhue.eu` | No |
 | `rhumbs.fr` | No |
-| `rhyme.ml` | Yes |
+| `rhyme.ml` | No |
 | `rhys.wtf` | No |
 | `rhythmania.net` | No |
 | `rhythmgam.es` | No |
@@ -36990,6 +36990,7 @@ Here's a list of public Fediverse services.
 | `scritches.social` | No |
 | `scriu.cat` | No |
 | `scrivimi.ch` | No |
+| `scroll.media` | No |
 | `scronch.com` | No |
 | `scronkfinkle.net` | Yes |
 | `scrubbles.tech` | Yes |
@@ -37331,6 +37332,7 @@ Here's a list of public Fediverse services.
 | `sequel.space` | No |
 | `sequentialread.com` | No |
 | `ser1.net` | No |
+| `serafuku.moe` | Yes |
 | `seraimu.me` | Yes |
 | `serasera.org` | No |
 | `serbanescu.dk` | Yes |
@@ -47869,7 +47871,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,236 |
-| Normal | 34,584 |
+| Normal | 34,586 |
 
 
 </details>
