@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Pagesに設定したCustom Domain経由でアクセスするとAPI取得に失敗する。](https://github.com/shinosaki/querist/issues/1)
 - [Docs: Federation troubleshooting re: Cloudflare](https://github.com/matrix-org/synapse/issues/16228)
 - [Timeout waiting for selector](https://github.com/FlareSolverr/FlareSolverr/issues/885)
 - [Blank page for website stats and edit page](https://github.com/umami-software/umami/issues/2269)
