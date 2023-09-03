@@ -18651,6 +18651,7 @@ Here's a list of public Fediverse services.
 | `indahood.de` | No |
 | `indec.net.in` | No |
 | `indefinitely.social` | No |
+| `independen.top` | Yes |
 | `independent-media.co.uk` | Yes |
 | `independent.ovh` | Yes |
 | `indesirable.org` | No |
@@ -20934,7 +20935,7 @@ Here's a list of public Fediverse services.
 | `kde.social` | No |
 | `kdecherf.com` | No |
 | `kdhq.dev` | No |
-| `kdlvklv.xyz` | No |
+| `kdlvklv.xyz` | Yes |
 | `kdmgkr.com` | Yes |
 | `kdn-pop.com` | No |
 | `kdvr.com` | No |
@@ -22840,7 +22841,7 @@ Here's a list of public Fediverse services.
 | `lemmyloves.art` | Yes |
 | `lemmymemes.com` | No |
 | `lemmyngs.social` | No |
-| `lemmyngton.au` | No |
+| `lemmyngton.au` | Yes |
 | `lemmyns.xyz` | No |
 | `lemmynsfw.com` | Yes |
 | `lemmyonline.com` | Yes |
@@ -47861,8 +47862,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,232 |
-| Normal | 34,581 |
+| Cloudflare | 13,235 |
+| Normal | 34,579 |
 
 
 </details>
