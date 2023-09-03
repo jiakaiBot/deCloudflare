@@ -187,7 +187,7 @@ Here's a list of breached sites.
 | Drizly | 2,479,044 | Yes |
 | Dropbox | 68,648,009 | No |
 | Dubsmash | 161,749,950 | Yes |
-| DucksUnlimited (Ducks Unlimited) | 1,324,364 | No |
+| DucksUnlimited (Ducks Unlimited) | 1,324,364 | Yes |
 | DuelingNetwork (Dueling Network) | 6,486,626 | No |
 | Dunzo | 3,465,259 | Yes |
 | Duolingo | 2,676,696 | Yes |
@@ -210,7 +210,7 @@ Here's a list of breached sites.
 | EuropaJobs (europa.jobs) | 226,095 | Yes |
 | Evermotion | 435,510 | No |
 | EverybodyEdits (Everybody Edits) | 871,190 | Yes |
-| Evite | 100,985,047 | No |
+| Evite | 100,985,047 | Yes |
 | Evony | 29,396,116 | No |
 | Exactis | 131,577,763 | No |
 | Experian (Experian (2015)) | 7,196,890 | No |
@@ -690,10 +690,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 378 | 3,968,105,251 |
-| Normal | 291 | 4,961,328,464 |
+| Cloudflare | 380 | 4,070,414,662 |
+| Normal | 289 | 4,859,019,053 |
 
 
 
-### 56.5% of breached sites (pwned sites) are using Cloudflare.
-### 44.4% of leaked accounts are on Cloudflare sites.
+### 56.8% of breached sites (pwned sites) are using Cloudflare.
+### 45.6% of leaked accounts are on Cloudflare sites.
