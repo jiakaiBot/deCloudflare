@@ -25895,6 +25895,7 @@ Here's a list of public Fediverse services.
 | `mediastodon.com` | Yes |
 | `mediastudies.berlin` | No |
 | `mediated.eu` | No |
+| `mediathek.community` | Yes |
 | `medibubble.org` | No |
 | `medic.cafe` | No |
 | `medic.rs` | Yes |
@@ -31623,6 +31624,7 @@ Here's a list of public Fediverse services.
 | `packetranger.com` | No |
 | `packetwarriors.net` | No |
 | `packitsolutions.net` | Yes |
+| `packmat.es` | No |
 | `packmates.org` | Yes |
 | `packopus.com` | Yes |
 | `pacmanfan.co.nz` | No |
@@ -47853,8 +47855,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,233 |
-| Normal | 34,572 |
+| Cloudflare | 13,234 |
+| Normal | 34,573 |
 
 
 </details>
