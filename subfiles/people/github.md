@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Gab - ... failed with error 403](https://github.com/RSS-Bridge/rss-bridge/issues/3648)
 - [Error after buy packages](https://github.com/Azuriom/Azuriom/issues/377)
 - [Deploy nosbin in hostr?](https://github.com/jacany/nosbin/issues/85)
 - [Cloudflare Pagesに設定したCustom Domain経由でアクセスするとAPI取得に失敗する。](https://github.com/shinosaki/querist/issues/1)
