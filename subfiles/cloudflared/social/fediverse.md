@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,315 |
 | social | 4,532 |
-| net | 3,717 |
+| net | 3,718 |
 | org | 2,493 |
 | de | 2,300 |
 
@@ -24332,6 +24332,7 @@ Here's a list of public Fediverse services.
 | `macrodd.online` | Yes |
 | `macrofurs.social` | Yes |
 | `macsnet.cz` | No |
+| `macstack.net` | No |
 | `macstodon.scot` | Yes |
 | `macstories.net` | Yes |
 | `macuser.fr` | Yes |
@@ -37326,6 +37327,7 @@ Here's a list of public Fediverse services.
 | `sepolia.tech` | Yes |
 | `seppo.social` | No |
 | `seppuku.club` | Yes |
+| `septic.win` | No |
 | `sequel.space` | No |
 | `sequentialread.com` | No |
 | `ser1.net` | No |
@@ -47867,7 +47869,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,236 |
-| Normal | 34,582 |
+| Normal | 34,584 |
 
 
 </details>
