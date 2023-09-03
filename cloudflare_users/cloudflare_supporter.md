@@ -4431,6 +4431,7 @@ Do not create new issue or we will close it as duplicate.
 | [hellodk01@twitter](https://twitter.com/hellodk01/status/1434560473626730498) | advertise |
 | [hellopixely@twitter](https://twitter.com/hellopixely/status/1504938369469624323) | advertise |
 | [hello_pleizz@twitter](https://twitter.com/hello_pleizz/status/1626177308469121025) | advertise |
+| [helpguidenow@twitter](https://twitter.com/helpguidenow/status/1698125369319030893) | advertise |
 | [helu_sky@twitter](https://twitter.com/helu_sky/status/1461265952608194566) | advertise |
 | [HEMANTH74907800@twitter](https://twitter.com/HEMANTH74907800/status/1393162174189604870) | advertise |
 | [HEMANTN09968572@twitter](https://twitter.com/HEMANTN09968572/status/1396999578172284928) | advertise |
