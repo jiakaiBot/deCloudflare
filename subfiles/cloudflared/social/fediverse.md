@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,316 |
+| com | 7,317 |
 | social | 4,534 |
 | net | 3,720 |
 | org | 2,493 |
-| de | 2,303 |
+| de | 2,304 |
 
 
 - Mastodon, Pleroma, etc
@@ -25607,6 +25607,7 @@ Here's a list of public Fediverse services.
 | `matrix.garden` | No |
 | `matrix.org` | Yes |
 | `matrix.rocks` | No |
+| `matrixdreams.com` | No |
 | `mats.sh` | Yes |
 | `matsimpson.com` | No |
 | `matsu-nico.me` | No |
@@ -44216,7 +44217,7 @@ Here's a list of public Fediverse services.
 | `urvogel.club` | Yes |
 | `uryokurin.net` | Yes |
 | `urzlab.com` | No |
-| `us.dev` | No |
+| `us.dev` | Yes |
 | `us.to` | Yes |
 | `us.tv` | No |
 | `usa-chan.pink` | Yes |
@@ -46410,6 +46411,7 @@ Here's a list of public Fediverse services.
 | `wxbu.de` | Yes |
 | `wxcafe.net` | No |
 | `wxcloud.social` | Yes |
+| `wxifu.de` | No |
 | `wxnzxn.xyz` | No |
 | `wxrock.com` | No |
 | `wxw.cat` | Yes |
@@ -47899,8 +47901,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,248 |
-| Normal | 34,603 |
+| Cloudflare | 13,249 |
+| Normal | 34,604 |
 
 
 </details>
