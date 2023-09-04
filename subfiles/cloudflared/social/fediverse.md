@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,316 |
-| social | 4,533 |
+| social | 4,534 |
 | net | 3,719 |
 | org | 2,493 |
 | de | 2,302 |
@@ -26986,7 +26986,7 @@ Here's a list of public Fediverse services.
 | `mkgrcd.xyz` | No |
 | `mkihr-ojisan.com` | No |
 | `mkir.ch` | No |
-| `mkkey.net` | No |
+| `mkkey.net` | Yes |
 | `mkl.lol` | No |
 | `mklemme.de` | No |
 | `mkljczk.pl` | Yes |
@@ -36285,6 +36285,7 @@ Here's a list of public Fediverse services.
 | `sacasa.casa` | Yes |
 | `sachertorte.xyz` | No |
 | `sachsen-anhalt.de` | No |
+| `sachsen-medien.social` | No |
 | `sachsen-social.de` | Yes |
 | `sackheads.blog` | No |
 | `sackheads.social` | No |
@@ -47893,7 +47894,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,243 |
+| Cloudflare | 13,244 |
 | Normal | 34,602 |
 
 
