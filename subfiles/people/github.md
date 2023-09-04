@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Easy Hotel (GB) blocked by Cloudflare](https://github.com/alltheplaces/alltheplaces/issues/5797)
 - [Gab - ... failed with error 403](https://github.com/RSS-Bridge/rss-bridge/issues/3648)
 - [Error after buy packages](https://github.com/Azuriom/Azuriom/issues/377)
 - [Deploy nosbin in hostr?](https://github.com/jacany/nosbin/issues/85)
