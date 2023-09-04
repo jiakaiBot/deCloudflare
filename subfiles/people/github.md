@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Invalid status, sg.test.com:Verify error:"error":{](https://github.com/acmesh-official/acme.sh/issues/4784)
+- [Upgrading to v3 broke my localStorage reading ts file](https://github.com/withastro/astro/issues/8400)
 - [Unable to use Sentry NextJS integration with middleware on Cloudflare Pages](https://github.com/getsentry/sentry-javascript/issues/8935)
 - [The uwu.boats links no longer work](https://github.com/exu3/wack-club-sans/issues/3)
 - [Easy Hotel (GB) blocked by Cloudflare](https://github.com/alltheplaces/alltheplaces/issues/5797)
