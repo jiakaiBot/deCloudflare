@@ -3273,6 +3273,7 @@ Here's a list of public Fediverse services.
 | `automat.run` | Yes |
 | `automatica.dev` | Yes |
 | `automaton.be` | No |
+| `autonoma.red` | No |
 | `autonomic.zone` | No |
 | `autonomous-zone.earth` | Yes |
 | `autonomous.zone` | No |
@@ -47893,7 +47894,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,243 |
-| Normal | 34,601 |
+| Normal | 34,602 |
 
 
 </details>
