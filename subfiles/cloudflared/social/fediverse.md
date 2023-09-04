@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,316 |
 | social | 4,534 |
-| net | 3,719 |
+| net | 3,720 |
 | org | 2,493 |
-| de | 2,302 |
+| de | 2,303 |
 
 
 - Mastodon, Pleroma, etc
@@ -32317,6 +32317,7 @@ Here's a list of public Fediverse services.
 | `petrikajander.com` | Yes |
 | `petripulkkinen.social` | No |
 | `petris.net` | No |
+| `petristrasse2.de` | No |
 | `petrolheads.social` | No |
 | `petrolkorps.cc` | No |
 | `petronel.info` | No |
@@ -37252,6 +37253,7 @@ Here's a list of public Fediverse services.
 | `sekhen.com` | Yes |
 | `sekla.info` | No |
 | `sekretaerbaer.de` | No |
+| `sekretaerbaer.net` | No |
 | `sektori.org` | Yes |
 | `selbach.ca` | No |
 | `selbach.dev` | No |
@@ -47898,7 +47900,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,248 |
-| Normal | 34,601 |
+| Normal | 34,603 |
 
 
 </details>
