@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,316 |
 | social | 4,533 |
-| net | 3,718 |
+| net | 3,719 |
 | org | 2,493 |
-| de | 2,301 |
+| de | 2,302 |
 
 
 - Mastodon, Pleroma, etc
@@ -273,6 +273,7 @@ Here's a list of public Fediverse services.
 | `18m250.org` | Yes |
 | `1904.social` | No |
 | `1929.com` | No |
+| `1964.co.nz` | Yes |
 | `197838.xyz` | Yes |
 | `1979.cloud` | Yes |
 | `1984.cz` | No |
@@ -1450,7 +1451,7 @@ Here's a list of public Fediverse services.
 | `akamanju.com` | No |
 | `akamdon.com` | No |
 | `akane.blue` | Yes |
-| `akane.ml` | Yes |
+| `akane.ml` | No |
 | `akane.osaka` | No |
 | `akanechan.love` | No |
 | `akanechan.world` | No |
@@ -4626,6 +4627,7 @@ Here's a list of public Fediverse services.
 | `bitpage.de` | No |
 | `bitplumber.de` | No |
 | `bitraten.net` | Yes |
+| `bitrot.cafe` | No |
 | `bits-und-baeume.org` | No |
 | `bits.social` | No |
 | `bitsammelwanne.de` | No |
@@ -8861,6 +8863,7 @@ Here's a list of public Fediverse services.
 | `d-rine.com` | No |
 | `d-s.one` | No |
 | `d-sak.com` | No |
+| `d-shoot.net` | No |
 | `d-x-b.com` | No |
 | `d.foundation` | Yes |
 | `d.gs` | No |
@@ -11807,6 +11810,7 @@ Here's a list of public Fediverse services.
 | `emotive.design` | No |
 | `emotor.tours` | No |
 | `empathic-community.de` | No |
+| `empathic-leon.de` | No |
 | `empathiebullshit.de` | No |
 | `empathyintech.com` | No |
 | `empathytech.net` | No |
@@ -18327,6 +18331,7 @@ Here's a list of public Fediverse services.
 | `idbt.tv` | No |
 | `iddqd.social` | No |
 | `iddqdidkfa.de` | No |
+| `idea.cc` | No |
 | `ideadon.net` | Yes |
 | `ideaforg.com` | No |
 | `idealhealth.social` | No |
@@ -29858,6 +29863,7 @@ Here's a list of public Fediverse services.
 | `noraworld.jp` | No |
 | `norberteder.com` | No |
 | `norberteder.photography` | No |
+| `norbipeti.eu` | No |
 | `norbipeti.tech` | No |
 | `norbz.org` | No |
 | `norcal.social` | No |
@@ -31987,6 +31993,7 @@ Here's a list of public Fediverse services.
 | `pazoles.co` | No |
 | `pbar.xyz` | No |
 | `pbb.lc` | No |
+| `pbcarrara.com.br` | No |
 | `pbem.online` | Yes |
 | `pbg.hu` | No |
 | `pbjtechnical.com` | No |
@@ -37342,6 +37349,7 @@ Here's a list of public Fediverse services.
 | `ser1.net` | No |
 | `serafuku.moe` | Yes |
 | `seraimu.me` | Yes |
+| `seraph.red` | Yes |
 | `serasera.org` | No |
 | `serbanescu.dk` | Yes |
 | `serembankia.net` | Yes |
@@ -41745,6 +41753,7 @@ Here's a list of public Fediverse services.
 | `theoutpostsof.space` | No |
 | `theova.org` | No |
 | `thepacket.exchange` | No |
+| `thepage.house` | No |
 | `thepathbegins.social` | No |
 | `thepeanut.farm` | No |
 | `thepenguin.me` | No |
@@ -47880,8 +47889,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,239 |
-| Normal | 34,593 |
+| Cloudflare | 13,240 |
+| Normal | 34,601 |
 
 
 </details>
