@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to use Sentry NextJS integration with middleware on Cloudflare Pages](https://github.com/getsentry/sentry-javascript/issues/8935)
 - [The uwu.boats links no longer work](https://github.com/exu3/wack-club-sans/issues/3)
 - [Easy Hotel (GB) blocked by Cloudflare](https://github.com/alltheplaces/alltheplaces/issues/5797)
 - [Gab - ... failed with error 403](https://github.com/RSS-Bridge/rss-bridge/issues/3648)
