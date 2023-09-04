@@ -2897,6 +2897,7 @@ Here's a list of public Fediverse services.
 | `asdf.wf` | Yes |
 | `asdf123.xyz` | Yes |
 | `asdfghasdfgh.de` | No |
+| `asdfzdfj.xyz` | Yes |
 | `asdgsadga.social` | Yes |
 | `asdn.dev` | No |
 | `asdser.net` | Yes |
@@ -6935,6 +6936,7 @@ Here's a list of public Fediverse services.
 | `chmod777.org` | No |
 | `chn.moe` | Yes |
 | `cho.pm` | No |
+| `choco.ink` | Yes |
 | `choco14t.net` | Yes |
 | `chocodon.com` | No |
 | `chocoflan.net` | No |
@@ -47894,7 +47896,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,244 |
+| Cloudflare | 13,246 |
 | Normal | 34,602 |
 
 
