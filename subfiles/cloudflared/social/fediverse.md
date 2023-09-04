@@ -6787,6 +6787,7 @@ Here's a list of public Fediverse services.
 | `cheek.dog` | No |
 | `cheekibreeki.express` | No |
 | `cheeky.red` | No |
+| `cheeky.wales` | No |
 | `cheerful.social` | No |
 | `cheese.beer` | No |
 | `cheesebsd.com` | No |
@@ -9110,7 +9111,7 @@ Here's a list of public Fediverse services.
 | `dardan.im` | No |
 | `dareme.org` | No |
 | `dareuc.com` | No |
-| `dareuc.xyz` | No |
+| `dareuc.xyz` | Yes |
 | `darfweb.eu` | No |
 | `dariabloodworth.ca` | No |
 | `dario.cloud` | No |
@@ -15491,7 +15492,7 @@ Here's a list of public Fediverse services.
 | `gianarb.it` | No |
 | `gianmarco.gg` | No |
 | `giant.horse` | No |
-| `giant.systems` | No |
+| `giant.systems` | Yes |
 | `giantheart.social` | Yes |
 | `giants-club.net` | No |
 | `gib.social` | Yes |
@@ -47896,8 +47897,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,246 |
-| Normal | 34,602 |
+| Cloudflare | 13,248 |
+| Normal | 34,601 |
 
 
 </details>
