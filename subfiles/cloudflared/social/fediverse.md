@@ -8619,7 +8619,7 @@ Here's a list of public Fediverse services.
 | `cute.is` | Yes |
 | `cute.science` | No |
 | `cute2d.love` | No |
-| `cute2d.moe` | Yes |
+| `cute2d.moe` | No |
 | `cute2d.website` | No |
 | `cute2d.xyz` | No |
 | `cutebook.club` | No |
@@ -35170,7 +35170,7 @@ Here's a list of public Fediverse services.
 | `represent.social` | No |
 | `repro.video` | No |
 | `reptile.love` | No |
-| `reptilehouse.info` | Yes |
+| `reptilehouse.info` | No |
 | `reptileowners.tk` | No |
 | `reptileskey.jp` | Yes |
 | `republa.lv` | No |
@@ -46598,7 +46598,7 @@ Here's a list of public Fediverse services.
 | `xj-ix.luxe` | No |
 | `xjmaoyaoyao.monster` | Yes |
 | `xkcd.network` | No |
-| `xkjd.us` | Yes |
+| `xkjd.us` | No |
 | `xl200.space` | No |
 | `xleute.de` | No |
 | `xlii.social` | No |
@@ -47880,8 +47880,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,242 |
-| Normal | 34,590 |
+| Cloudflare | 13,239 |
+| Normal | 34,593 |
 
 
 </details>
