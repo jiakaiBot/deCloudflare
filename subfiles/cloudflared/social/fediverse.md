@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,317 |
+| com | 7,318 |
 | social | 4,534 |
-| net | 3,720 |
+| net | 3,721 |
 | org | 2,493 |
 | de | 2,304 |
 
@@ -7450,6 +7450,7 @@ Here's a list of public Fediverse services.
 | `cncs.io` | No |
 | `cnet.site` | Yes |
 | `cni-coop.net` | No |
+| `cnmist.xyz` | No |
 | `cnn.com` | Yes |
 | `cnova.de` | No |
 | `cnr.it` | No |
@@ -9571,7 +9572,7 @@ Here's a list of public Fediverse services.
 | `definitelyreal.coffee` | No |
 | `defis.info` | No |
 | `defloration.ml` | No |
-| `defluence.me` | No |
+| `defluence.me` | Yes |
 | `defulmere.name` | No |
 | `deg.social` | No |
 | `degenerate-senate.online` | No |
@@ -27378,6 +27379,7 @@ Here's a list of public Fediverse services.
 | `moonchan.xyz` | Yes |
 | `moondeer.blog` | Yes |
 | `mooneyed.de` | No |
+| `moongazer.net` | No |
 | `moongirl.io` | No |
 | `moongirl.net` | No |
 | `moonglade.net` | No |
@@ -41316,6 +41318,7 @@ Here's a list of public Fediverse services.
 | `teuto.icu` | Yes |
 | `teutronic-services.de` | No |
 | `teutsch.me` | No |
+| `tevinzhang.com` | Yes |
 | `tevps.net` | No |
 | `tew.social` | No |
 | `tewt.club` | No |
@@ -43080,7 +43083,7 @@ Here's a list of public Fediverse services.
 | `triplea.fr` | No |
 | `triplebit.net` | Yes |
 | `triplecore.org` | No |
-| `tripleeyegames.social` | No |
+| `tripleeyegames.social` | Yes |
 | `tripleplusgood.us` | No |
 | `triplering.site` | Yes |
 | `trippelm.tv` | No |
@@ -47901,7 +47904,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,249 |
+| Cloudflare | 13,252 |
 | Normal | 34,604 |
 
 
