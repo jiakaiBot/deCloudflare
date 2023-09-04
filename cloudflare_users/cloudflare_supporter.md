@@ -1699,6 +1699,7 @@ Do not create new issue or we will close it as duplicate.
 | [BforeAi@twitter](https://twitter.com/BforeAi/status/1407094270700498944) | advertise |
 | [bfred34@twitter](https://twitter.com/bfred34/status/1665874517867085824) | advertise |
 | [Bfresh420Lord@twitter](https://twitter.com/Bfresh420Lord/status/1378988801695965187) | advertise |
+| [BFTHUSA@twitter](https://twitter.com/BFTHUSA/status/1698707537015566487) | advertise |
 | [Bg9Ghost@twitter](https://twitter.com/Bg9Ghost/status/1545570473819488259) | advertise |
 | [bgdg51116685@twitter](https://twitter.com/bgdg51116685/status/1619154473603170305) | advertise |
 | [BGirlMM4444@twitter](https://twitter.com/BGirlMM4444/status/1601186821139927041) | advertise |
@@ -6051,6 +6052,7 @@ Do not create new issue or we will close it as duplicate.
 | [KayThwe34753566@twitter](https://twitter.com/KayThwe34753566/status/1393573650977247233) | advertise |
 | [KayZinT07546172@twitter](https://twitter.com/KayZinT07546172/status/1396402603928420355) | advertise |
 | [kay_myanmar@twitter](https://twitter.com/kay_myanmar/status/1393508293016915969) | advertise |
+| [Kazemidori_Sub@twitter](https://twitter.com/Kazemidori_Sub/status/1698706352699584739) | advertise |
 | [kazirakib300@twitter](https://twitter.com/kazirakib300/status/1397569237024075785) | advertise |
 | [KAZUKLIP@twitter](https://twitter.com/KAZUKLIP/status/1528599189348925443) | advertise |
 | [KazutoShizuku@twitter](https://twitter.com/KazutoShizuku/status/1402737153205886977) | advertise |
@@ -10190,6 +10192,7 @@ Do not create new issue or we will close it as duplicate.
 | [ProteinPink@twitter](https://twitter.com/ProteinPink/status/1522848358548873217) | advertise |
 | [ProZar3@twitter](https://twitter.com/ProZar3/status/1503979856882769922) | advertise |
 | [prozsolutions@twitter](https://twitter.com/prozsolutions/status/1596050921229647872) | advertise |
+| [PRPRBLX@twitter](https://twitter.com/PRPRBLX/status/1698354395782545685) | advertise |
 | [prro85545495@twitter](https://twitter.com/prro85545495/status/1401352105886056457) | advertise |
 | [PrtgNothing@twitter](https://twitter.com/PrtgNothing/status/1601613487234777088) | advertise |
 | [PSaYsPxxa9NsEYS@twitter](https://twitter.com/PSaYsPxxa9NsEYS/status/1552673471330910209) | advertise |
