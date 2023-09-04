@@ -4507,6 +4507,7 @@ Here's a list of public Fediverse services.
 | `binfalse.de` | No |
 | `binfish.jp` | No |
 | `bingerin.de` | No |
+| `bingzi.online` | Yes |
 | `binky.fish` | Yes |
 | `binocl.art` | No |
 | `binsec.social` | No |
@@ -18331,7 +18332,7 @@ Here's a list of public Fediverse services.
 | `idbt.tv` | No |
 | `iddqd.social` | No |
 | `iddqdidkfa.de` | No |
-| `idea.cc` | No |
+| `idea.cc` | Yes |
 | `ideadon.net` | Yes |
 | `ideaforg.com` | No |
 | `idealhealth.social` | No |
@@ -33917,6 +33918,7 @@ Here's a list of public Fediverse services.
 | `pupsaturn.dog` | Yes |
 | `pupsparkle.nl` | Yes |
 | `pupsplus.fans` | No |
+| `pupspoke.co.uk` | Yes |
 | `pupu.moe` | Yes |
 | `pupy.cafe` | No |
 | `pure-isp.eu` | Yes |
@@ -46037,6 +46039,7 @@ Here's a list of public Fediverse services.
 | `wittenbrink.net` | No |
 | `witter.cz` | No |
 | `wittezaele.fr` | No |
+| `wittwer.dev` | No |
 | `witzki.me` | Yes |
 | `wiuse.work` | No |
 | `wiuwiu.de` | No |
@@ -47889,7 +47892,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,240 |
+| Cloudflare | 13,243 |
 | Normal | 34,601 |
 
 
