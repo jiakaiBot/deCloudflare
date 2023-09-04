@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Flaresolverr attempting to solve DDoS-Guard challenges using Cloudflare logic](https://github.com/FlareSolverr/FlareSolverr/issues/886)
 - [External images not loading in default WYSIWYG editor due to CSP error](https://github.com/directus/directus/issues/19585)
 - [Invalid status, sg.test.com:Verify error:"error":{](https://github.com/acmesh-official/acme.sh/issues/4784)
 - [Upgrading to v3 broke my localStorage reading ts file](https://github.com/withastro/astro/issues/8400)
