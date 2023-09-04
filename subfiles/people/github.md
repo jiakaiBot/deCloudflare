@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [External images not loading in default WYSIWYG editor due to CSP error](https://github.com/directus/directus/issues/19585)
 - [Invalid status, sg.test.com:Verify error:"error":{](https://github.com/acmesh-official/acme.sh/issues/4784)
 - [Upgrading to v3 broke my localStorage reading ts file](https://github.com/withastro/astro/issues/8400)
 - [Unable to use Sentry NextJS integration with middleware on Cloudflare Pages](https://github.com/getsentry/sentry-javascript/issues/8935)
