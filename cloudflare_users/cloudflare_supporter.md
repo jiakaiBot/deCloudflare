@@ -7154,6 +7154,7 @@ Do not create new issue or we will close it as duplicate.
 | [Longggisme@twitter](https://twitter.com/Longggisme/status/1398005281842335744) | advertise |
 | [LongNgc29303986@twitter](https://twitter.com/LongNgc29303986/status/1553426795214413824) | advertise |
 | [longnopro1307@twitter](https://twitter.com/longnopro1307/status/1531023217053249537) | advertise |
+| [LongThanh59506@twitter](https://twitter.com/LongThanh59506/status/1698900509539885353) | advertise |
 | [LongThanhVu__@twitter](https://twitter.com/LongThanhVu__/status/1553070102895296512) | advertise |
 | [LongThuan16@twitter](https://twitter.com/LongThuan16/status/1573958668089167874) | advertise |
 | [longu3t@twitter](https://twitter.com/longu3t/status/1478738046967169026) | advertise |
@@ -7173,6 +7174,7 @@ Do not create new issue or we will close it as duplicate.
 | [lostboygill@twitter](https://twitter.com/lostboygill/status/1641822384960294919) | advertise |
 | [lostiris_@twitter](https://twitter.com/lostiris_/status/1585837501478240257) | advertise |
 | [LostMys83196587@twitter](https://twitter.com/LostMys83196587/status/1646377085047386114) | advertise |
+| [lostnaga@twitter](https://twitter.com/lostnaga/status/1699042429113143365) | advertise |
 | [LouchLe1@twitter](https://twitter.com/LouchLe1/status/1519690961575587840) | advertise |
 | [Loui519@twitter](https://twitter.com/Loui519/status/1516215159811112960) | advertise |
 | [Louie_888Fun@twitter](https://twitter.com/Louie_888Fun/status/1516214532519399425) | advertise |
@@ -10710,6 +10712,7 @@ Do not create new issue or we will close it as duplicate.
 | [RobAllen26@twitter](https://twitter.com/RobAllen26/status/1386491535038902276) | advertise |
 | [robbiebobbyb@twitter](https://twitter.com/robbiebobbyb/status/1620188830518349825) | advertise |
 | [Robert54332996@twitter](https://twitter.com/Robert54332996/status/1398109501794906119) | advertise |
+| [RobertAbshear@twitter](https://twitter.com/RobertAbshear/status/1698910536673710248) | advertise |
 | [RobertLWint@twitter](https://twitter.com/RobertLWint/status/1480628651225976835) | advertise |
 | [robertocommit@twitter](https://twitter.com/robertocommit/status/1669746875157688321) | advertise |
 | [RobertoGoossens@twitter](https://twitter.com/RobertoGoossens/status/1429012009534824457) | advertise |
@@ -11752,6 +11755,7 @@ Do not create new issue or we will close it as duplicate.
 | [STA54946378@twitter](https://twitter.com/STA54946378/status/1394890464516399107) | advertise |
 | [staff_nowa@twitter](https://twitter.com/staff_nowa/status/1587800884800638976) | advertise |
 | [stamp_app@twitter](https://twitter.com/stamp_app/status/1417450714490605568) | advertise |
+| [Stanicheva13@twitter](https://twitter.com/Stanicheva13/status/1699028135134806058) | advertise |
 | [StanleyEwingBTC@twitter](https://twitter.com/StanleyEwingBTC/status/1645852214009778192) | advertise |
 | [StarLig29535606@twitter](https://twitter.com/StarLig29535606/status/1689211854437126144) | advertise |
 | [starpratama@twitter](https://twitter.com/starpratama/status/1409534516167806978) | moral (advertise) |
@@ -12097,6 +12101,7 @@ Do not create new issue or we will close it as duplicate.
 | [ta_yrue@twitter](https://twitter.com/ta_yrue/status/1386951984536715265) | advertise |
 | [Tb62949256@twitter](https://twitter.com/Tb62949256/status/1395710891614670848) | advertise |
 | [TBvHdw3BHOH4hrD@twitter](https://twitter.com/TBvHdw3BHOH4hrD/status/1384973743081115660) | advertise |
+| [TCaophi77796@twitter](https://twitter.com/TCaophi77796/status/1699038737504862535) | advertise |
 | [TchuWha@twitter](https://twitter.com/TchuWha/status/1690886301179080704) | advertise |
 | [tcitr_chen@twitter](https://twitter.com/tcitr_chen/status/1389172265992916993) | advertise |
 | [TcitTechcom@twitter](https://twitter.com/TcitTechcom/status/1528531003354271744) | advertise |
