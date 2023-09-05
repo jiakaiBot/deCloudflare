@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,318 |
-| social | 4,534 |
+| com | 7,319 |
+| social | 4,535 |
 | net | 3,721 |
 | org | 2,493 |
 | de | 2,304 |
@@ -17939,7 +17939,7 @@ Here's a list of public Fediverse services.
 | `hsal.es` | Yes |
 | `hse.social` | No |
 | `hsilop.net` | No |
-| `hsjz.garden` | Yes |
+| `hsjz.garden` | No |
 | `hsm-hx.net` | Yes |
 | `hsn.dev` | Yes |
 | `hsnl.social` | No |
@@ -20518,6 +20518,7 @@ Here's a list of public Fediverse services.
 | `k0rko.fr` | No |
 | `k0ta.net` | No |
 | `k1024.de` | No |
+| `k18plus.social` | No |
 | `k1ic.com` | No |
 | `k1ppl.com` | Yes |
 | `k2j.de` | No |
@@ -47420,6 +47421,7 @@ Here's a list of public Fediverse services.
 | `zabaglione.net` | No |
 | `zabutone.com` | No |
 | `zac.dev` | Yes |
+| `zacepil.com` | Yes |
 | `zach.rocks` | No |
 | `zachartajuddin.com` | No |
 | `zachary.com` | No |
@@ -47905,7 +47907,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,252 |
-| Normal | 34,604 |
+| Normal | 34,606 |
 
 
 </details>
