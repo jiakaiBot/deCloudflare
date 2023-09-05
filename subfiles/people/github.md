@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Is marzban can not use DoH server by Xray ?](https://github.com/Gozargah/Marzban/issues/517)
 - [Nginx server in frontend app blocks all connections locally](https://github.com/codingben/maple-fighters/issues/67)
 - [Flaresolverr attempting to solve DDoS-Guard challenges using Cloudflare logic](https://github.com/FlareSolverr/FlareSolverr/issues/886)
 - [External images not loading in default WYSIWYG editor due to CSP error](https://github.com/directus/directus/issues/19585)
