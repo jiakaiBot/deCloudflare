@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,320 |
 | social | 4,535 |
 | net | 3,721 |
-| org | 2,493 |
+| org | 2,494 |
 | de | 2,304 |
 
 
@@ -17784,7 +17784,7 @@ Here's a list of public Fediverse services.
 | `horde.net.br` | No |
 | `hordearii.fr` | No |
 | `horens.audio` | No |
-| `horiedon.com` | No |
+| `horiedon.com` | Yes |
 | `horizin.de` | No |
 | `horizon.ac.uk` | No |
 | `horizonnet.eu` | No |
@@ -18472,6 +18472,7 @@ Here's a list of public Fediverse services.
 | `ikeji.ma` | No |
 | `ikelos.monster` | No |
 | `ikepe.xyz` | Yes |
+| `ikeran.org` | No |
 | `ikesu.social` | Yes |
 | `ikeweb.net` | Yes |
 | `iklem.fr` | No |
@@ -22079,6 +22080,7 @@ Here's a list of public Fediverse services.
 | `kurosawa.moe` | No |
 | `kuroserver.net` | No |
 | `kurosuke.org` | No |
+| `kurotanesou.online` | Yes |
 | `kurotoshi-cat.me` | No |
 | `kurry.social` | Yes |
 | `kursors.social` | No |
@@ -30039,6 +30041,7 @@ Here's a list of public Fediverse services.
 | `nottechnicallyalien.com` | No |
 | `nottingham.city` | Yes |
 | `nottjott.online` | No |
+| `nottyboi.me` | No |
 | `notunremarkable.me` | No |
 | `notvery.social` | No |
 | `notwebsite.com` | No |
@@ -30798,7 +30801,7 @@ Here's a list of public Fediverse services.
 | `olympe.online` | No |
 | `olympique-lyonnais.club` | No |
 | `olympus.blog` | Yes |
-| `om.gay` | No |
+| `om.gay` | Yes |
 | `om.nom.pl` | No |
 | `omada.cafe` | Yes |
 | `omaelse.de` | No |
@@ -41645,7 +41648,7 @@ Here's a list of public Fediverse services.
 | `thehub.su` | No |
 | `theiceshelf.com` | No |
 | `theicon.stream` | No |
-| `theindependentwhig.com` | No |
+| `theindependentwhig.com` | Yes |
 | `theindiestone.com` | Yes |
 | `theinternet.lol` | No |
 | `theinternet.social` | No |
@@ -47910,8 +47913,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,255 |
-| Normal | 34,607 |
+| Cloudflare | 13,259 |
+| Normal | 34,606 |
 
 
 </details>
