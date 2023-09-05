@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [UX Feedback + App crashes completely](https://github.com/echo75/graduation-project-johan-hedman/issues/5)
 - [Is marzban can not use DoH server by Xray ?](https://github.com/Gozargah/Marzban/issues/517)
 - [Nginx server in frontend app blocks all connections locally](https://github.com/codingben/maple-fighters/issues/67)
 - [Flaresolverr attempting to solve DDoS-Guard challenges using Cloudflare logic](https://github.com/FlareSolverr/FlareSolverr/issues/886)
