@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,319 |
+| com | 7,320 |
 | social | 4,535 |
 | net | 3,721 |
 | org | 2,493 |
@@ -499,6 +499,7 @@ Here's a list of public Fediverse services.
 | `404.taipei` | No |
 | `404oops.com` | No |
 | `40to.ca` | No |
+| `40two.cloud` | No |
 | `40two.tube` | No |
 | `41020.social` | No |
 | `412000.xyz` | Yes |
@@ -4994,6 +4995,7 @@ Here's a list of public Fediverse services.
 | `bluppen.blog` | No |
 | `blurb.town` | No |
 | `blurts.net` | No |
+| `blustery.day` | Yes |
 | `blyler.cc` | Yes |
 | `bmaci.me` | No |
 | `bmannconsulting.com` | Yes |
@@ -7518,7 +7520,7 @@ Here's a list of public Fediverse services.
 | `code4lib.social` | No |
 | `codebase.one` | No |
 | `codechem.io` | Yes |
-| `codecoffin.com` | No |
+| `codecoffin.com` | Yes |
 | `codecompost.nl` | No |
 | `codeday.social` | Yes |
 | `codeflow.club` | Yes |
@@ -10862,6 +10864,7 @@ Here's a list of public Fediverse services.
 | `drinkingatmy.computer` | No |
 | `drinkswithbuddha.com` | No |
 | `driou.tech` | No |
+| `dripwangi.com` | No |
 | `drisc.io` | No |
 | `drit.ch` | No |
 | `driusan.net` | No |
@@ -31430,7 +31433,7 @@ Here's a list of public Fediverse services.
 | `ouroboros.gay` | No |
 | `ouroboros.monster` | No |
 | `ourpad.org` | No |
-| `ourpublicassembly.com` | No |
+| `ourpublicassembly.com` | Yes |
 | `ours-inculte.fr` | No |
 | `ourselves.space` | Yes |
 | `oursky.social` | No |
@@ -41139,6 +41142,7 @@ Here's a list of public Fediverse services.
 | `tela.moe` | Yes |
 | `teldarpaper.com` | No |
 | `teleassist.fr` | No |
+| `telebit.io` | No |
 | `telecom.moe` | Yes |
 | `telefant.net` | No |
 | `telefreizeit.de` | No |
@@ -47906,8 +47910,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,252 |
-| Normal | 34,606 |
+| Cloudflare | 13,255 |
+| Normal | 34,607 |
 
 
 </details>
