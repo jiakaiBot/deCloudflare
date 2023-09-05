@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Workers KV Increased Errors and Latency Through Cloudflare API](https://github.com/SecOpsNews/news/issues/18412)
+- [CloudFlare Workers KV Increased Errors and Latency Through Cloudflare API](https://github.com/hinoshiba/news/issues/3082)
 - [curl in onSuccess check is not strict enough](https://github.com/inngest/netlify-plugin-inngest/issues/16)
 - [UX Feedback + App crashes completely](https://github.com/echo75/graduation-project-johan-hedman/issues/5)
 - [Is marzban can not use DoH server by Xray ?](https://github.com/Gozargah/Marzban/issues/517)
