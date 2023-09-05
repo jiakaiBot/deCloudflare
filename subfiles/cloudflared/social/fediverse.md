@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,320 |
+| com | 7,319 |
 | social | 4,535 |
 | net | 3,721 |
 | org | 2,494 |
@@ -17934,7 +17934,6 @@ Here's a list of public Fediverse services.
 | `hrstva.org` | Yes |
 | `hrt.pw` | No |
 | `hrusecky.net` | No |
-| `hrwlthr.com` | No |
 | `hrzn.ee` | Yes |
 | `hs-duesseldorf.de` | No |
 | `hs1.nl` | No |
@@ -47914,7 +47913,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,259 |
-| Normal | 34,606 |
+| Normal | 34,605 |
 
 
 </details>
