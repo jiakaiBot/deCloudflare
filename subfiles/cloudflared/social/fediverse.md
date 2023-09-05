@@ -22424,6 +22424,7 @@ Here's a list of public Fediverse services.
 | `language.jp` | No |
 | `lanham.id.au` | No |
 | `lanhq.be` | No |
+| `laniustrolling.dev` | No |
 | `lank.es` | No |
 | `lanners.uk` | No |
 | `lanodan.eu` | No |
@@ -30842,7 +30843,7 @@ Here's a list of public Fediverse services.
 | `omniatv.com` | Yes |
 | `omnific.one` | No |
 | `omnify.social` | No |
-| `omnigroup.com` | No |
+| `omnigroup.com` | Yes |
 | `omnitest.social` | No |
 | `omochi.xyz` | No |
 | `omochifestival.com` | Yes |
@@ -47919,7 +47920,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,264 |
+| Cloudflare | 13,265 |
 | Normal | 34,607 |
 
 
