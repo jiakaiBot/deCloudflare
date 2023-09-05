@@ -135,7 +135,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hafidzradhival.my.id | Yes |
 | hahnjo.de | No |
 | hanahira.dev | Yes |
-| haneulo.com | Yes |
 | haoxuan.xyz | Yes |
 | hdns.io | No |
 | he.net | No |
@@ -144,7 +143,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hitian.me | Yes |
 | hopto.org | Yes |
 | hostux.net | No |
-| hubservices.vn | Yes |
 | huque.com | No |
 | iamninja.ru | No |
 | ibakerserver.pt | Yes |
@@ -250,7 +248,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | qquack.org | Yes |
 | qwer.pw | Yes |
 | r0cket.net | No |
-| ramansarda.com | Yes |
 | rayanbab.com | Yes |
 | rayneau.fr | No |
 | reckoningslug.name | Yes |
@@ -263,18 +260,15 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rokh.biz | Yes |
 | rouga.ch | Yes |
 | rsaikat.com | No |
-| s3cure.us | No |
 | safeservedns.com | No |
 | safesurfer.io | Yes |
 | samutz.com | No |
 | sarak.as | Yes |
 | seby.io | Yes |
-| secforads3.ch | No |
 | sellan.fr | No |
 | sev.monster | No |
 | shalenkov.dev | Yes |
 | shecan.ir | No |
-| shimul.me | Yes |
 | shuting.idv.tw | Yes |
 | silen.org | Yes |
 | silentlybren.com | Yes |
@@ -338,8 +332,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 158 |
-| Normal | 161 |
+| Cloudflare | 154 |
+| Normal | 159 |
 
 
-### 49.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 49.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
