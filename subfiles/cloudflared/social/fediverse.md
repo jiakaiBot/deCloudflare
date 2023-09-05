@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,320 |
+| com | 7,321 |
 | social | 4,535 |
 | net | 3,721 |
 | org | 2,494 |
@@ -12101,6 +12101,7 @@ Here's a list of public Fediverse services.
 | `ericjsz.com` | Yes |
 | `ericjustdoesnotcare.com` | No |
 | `ericlathrop.com` | No |
+| `ericmaki.com` | No |
 | `ericmerlock.social` | No |
 | `ericmwalk.blog` | No |
 | `ericpuryear.com` | Yes |
@@ -35679,6 +35680,7 @@ Here's a list of public Fediverse services.
 | `robot.rodeo` | Yes |
 | `robotbattleaxe.ninja` | No |
 | `robotconspirator.com` | Yes |
+| `robotfumeur.fr` | Yes |
 | `robotham.dev` | No |
 | `robothive.net` | No |
 | `robotician.jp` | No |
@@ -47914,8 +47916,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,260 |
-| Normal | 34,606 |
+| Cloudflare | 13,261 |
+| Normal | 34,607 |
 
 
 </details>
