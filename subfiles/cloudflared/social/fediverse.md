@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,321 |
+| com | 7,322 |
 | social | 4,535 |
 | net | 3,721 |
-| org | 2,494 |
+| org | 2,495 |
 | de | 2,304 |
 
 
@@ -11842,6 +11842,7 @@ Here's a list of public Fediverse services.
 | `emtee.xyz` | Yes |
 | `emu.social` | Yes |
 | `emucafe.club` | No |
+| `emucafe.org` | No |
 | `emy.lu` | No |
 | `emy.world` | No |
 | `emymin.net` | No |
@@ -16771,7 +16772,7 @@ Here's a list of public Fediverse services.
 | `handholding.io` | Yes |
 | `handicapped.tk` | No |
 | `handlerug.me` | Yes |
-| `handmade.social` | No |
+| `handmade.social` | Yes |
 | `handon.club` | Yes |
 | `handwave.org.uk` | No |
 | `handy.cafe` | No |
@@ -19316,6 +19317,7 @@ Here's a list of public Fediverse services.
 | `itsall.space` | No |
 | `itschristophers.life` | No |
 | `itsdaves.site` | No |
+| `itseris.dev` | Yes |
 | `itsfoss.com` | Yes |
 | `itsfree.realestate.pl` | No |
 | `itsg.host` | Yes |
@@ -38914,6 +38916,7 @@ Here's a list of public Fediverse services.
 | `sonomu.club` | No |
 | `sonsofbattlefield.de` | Yes |
 | `sonsofliberty.red` | No |
+| `sonyakun.com` | Yes |
 | `sonyakun.xyz` | Yes |
 | `soopy.moe` | Yes |
 | `soothing.cloud` | No |
@@ -47916,7 +47919,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,261 |
+| Cloudflare | 13,264 |
 | Normal | 34,607 |
 
 
