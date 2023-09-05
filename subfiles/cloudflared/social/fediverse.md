@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,319 |
+| com | 7,320 |
 | social | 4,535 |
 | net | 3,721 |
 | org | 2,494 |
@@ -12859,7 +12859,7 @@ Here's a list of public Fediverse services.
 | `fbi.pm` | Yes |
 | `fbievan.live` | No |
 | `fbk.moe` | Yes |
-| `fbmac.net` | No |
+| `fbmac.net` | Yes |
 | `fboehm.de` | No |
 | `fbsweb.de` | Yes |
 | `fbxl.net` | No |
@@ -31088,6 +31088,7 @@ Here's a list of public Fediverse services.
 | `opensourcestories.org` | No |
 | `openspace.cf` | No |
 | `openstreetmap.fr` | No |
+| `opensupply.space` | No |
 | `opentalk.eu` | No |
 | `opentechnologies.co.za` | No |
 | `opentoken.de` | No |
@@ -31150,6 +31151,7 @@ Here's a list of public Fediverse services.
 | `orangemayhem.net` | Yes |
 | `orangenote.dev` | No |
 | `orangespatula.com` | No |
+| `orangestarsocial.com` | No |
 | `orani.co` | No |
 | `oransns.com` | No |
 | `orapp.net` | Yes |
@@ -47912,8 +47914,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,259 |
-| Normal | 34,605 |
+| Cloudflare | 13,260 |
+| Normal | 34,606 |
 
 
 </details>
