@@ -7384,6 +7384,7 @@ Do not create new issue or we will close it as duplicate.
 | [MaffandiMhafizi@twitter](https://twitter.com/MaffandiMhafizi/status/1597250541138374656) | advertise |
 | [mafiasans10@twitter](https://twitter.com/mafiasans10/status/1626511664681197574) | advertise |
 | [MagedSa03599768@twitter](https://twitter.com/MagedSa03599768/status/1555284648200208384) | advertise |
+| [MagicMikeToNite@twitter](https://twitter.com/MagicMikeToNite/status/1696531571682197557) | advertise |
 | [magicshoptae1@twitter](https://twitter.com/magicshoptae1/status/1391277628955402244) | advertise |
 | [Magmavalt@twitter](https://twitter.com/Magmavalt/status/1526286649839206400) | advertise |
 | [magnificus_g@twitter](https://twitter.com/magnificus_g/status/1534864691318640641) | advertise |
