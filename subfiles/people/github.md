@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Handle Plausible outages](https://github.com/WordPress/openverse/issues/2996)
 - [CloudFlare Workers KV Increased Errors and Latency Through Cloudflare API](https://github.com/SecOpsNews/news/issues/18412)
 - [CloudFlare Workers KV Increased Errors and Latency Through Cloudflare API](https://github.com/hinoshiba/news/issues/3082)
 - [curl in onSuccess check is not strict enough](https://github.com/inngest/netlify-plugin-inngest/issues/16)
