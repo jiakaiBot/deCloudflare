@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,325 |
 | social | 4,535 |
-| net | 3,722 |
-| org | 2,495 |
+| net | 3,723 |
+| org | 2,496 |
 | de | 2,304 |
 
 
@@ -2951,6 +2951,7 @@ Here's a list of public Fediverse services.
 | `asko.dev` | No |
 | `asliceoffootball.com` | No |
 | `asmodeus.co` | No |
+| `asmodeus.org` | No |
 | `asmodeus.red` | No |
 | `asmodeus.tokyo` | No |
 | `asmp.social` | No |
@@ -4673,6 +4674,7 @@ Here's a list of public Fediverse services.
 | `bizkaia.social` | No |
 | `bizkitbros.com` | No |
 | `bizocean.co.jp` | No |
+| `biztechtonics.net` | No |
 | `bjd.social` | Yes |
 | `bjelomorkanal.de` | No |
 | `bjerrang.com` | No |
@@ -7688,7 +7690,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -11237,6 +11239,7 @@ Here's a list of public Fediverse services.
 | `east17.org` | No |
 | `eastback.co.jp` | No |
 | `easter.fr` | No |
+| `eastman.nz` | No |
 | `eastman.tech` | No |
 | `eastmetrocommunitymusic.org` | No |
 | `easy-mastodon.de` | Yes |
@@ -47928,8 +47931,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,269 |
-| Normal | 34,611 |
+| Cloudflare | 13,270 |
+| Normal | 34,613 |
 
 
 </details>
