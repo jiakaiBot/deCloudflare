@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,328 |
-| social | 4,535 |
+| social | 4,536 |
 | net | 3,723 |
 | org | 2,497 |
 | de | 2,304 |
@@ -36250,6 +36250,7 @@ Here's a list of public Fediverse services.
 | `s-a.at` | No |
 | `s-brand.de` | No |
 | `s-config.com` | No |
+| `s-h.social` | No |
 | `s-m.ac` | No |
 | `s-n.me` | No |
 | `s-ninja.net` | No |
@@ -47938,7 +47939,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,273 |
-| Normal | 34,616 |
+| Normal | 34,617 |
 
 
 </details>
