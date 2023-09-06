@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,325 |
+| com | 7,326 |
 | social | 4,535 |
 | net | 3,723 |
 | org | 2,496 |
@@ -22177,6 +22177,7 @@ Here's a list of public Fediverse services.
 | `kylewm.com` | Yes |
 | `kylla.xyz` | No |
 | `kymo.org` | No |
+| `kynkiruka.com` | Yes |
 | `kyohju.com` | No |
 | `kyosakuyo.com` | Yes |
 | `kyot.me` | Yes |
@@ -47931,7 +47932,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,270 |
+| Cloudflare | 13,271 |
 | Normal | 34,613 |
 
 
