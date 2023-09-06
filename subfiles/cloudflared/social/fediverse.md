@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,327 |
+| com | 7,328 |
 | social | 4,535 |
 | net | 3,723 |
 | org | 2,497 |
@@ -36998,6 +36998,7 @@ Here's a list of public Fediverse services.
 | `scottlabs.io` | No |
 | `scottmorrison.net` | No |
 | `scottnesbitt.online` | No |
+| `scottodon.com` | No |
 | `scottsmall.org` | No |
 | `scottstolz.com` | No |
 | `scoutcloud.tk` | No |
@@ -41905,6 +41906,7 @@ Here's a list of public Fediverse services.
 | `thetooter.co.uk` | No |
 | `thetower.xyz` | No |
 | `thetrackoftheday.com` | Yes |
+| `thetransagenda.gay` | Yes |
 | `theubergroup.org` | Yes |
 | `theultraworld.org` | No |
 | `theunconventionalgardener.com` | No |
@@ -47935,8 +47937,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,272 |
-| Normal | 34,615 |
+| Cloudflare | 13,273 |
+| Normal | 34,616 |
 
 
 </details>
