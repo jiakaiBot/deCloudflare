@@ -39738,6 +39738,7 @@ Here's a list of public Fediverse services.
 | `stoat.org.uk` | No |
 | `stoat.zone` | No |
 | `stocks.id.au` | Yes |
+| `stocksfamily.online` | Yes |
 | `stocktwits.social` | No |
 | `stodon.com` | No |
 | `stodon.fr` | No |
@@ -47924,7 +47925,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,266 |
+| Cloudflare | 13,267 |
 | Normal | 34,610 |
 
 
