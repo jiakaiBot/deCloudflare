@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,322 |
+| com | 7,323 |
 | social | 4,535 |
-| net | 3,721 |
+| net | 3,722 |
 | org | 2,495 |
 | de | 2,304 |
 
@@ -5472,6 +5472,7 @@ Here's a list of public Fediverse services.
 | `breizh.me` | Yes |
 | `breizh.pm` | No |
 | `breizh.social` | No |
+| `brembs.net` | No |
 | `bremen.digital` | No |
 | `bremen.social` | No |
 | `bremen.team` | No |
@@ -15562,6 +15563,7 @@ Here's a list of public Fediverse services.
 | `giom.fr` | No |
 | `gion.me` | No |
 | `gionathandiani.name` | No |
+| `gioorgi.com` | No |
 | `giorgiocomai.eu` | Yes |
 | `giorgiovola.casa` | Yes |
 | `giot.es` | No |
@@ -39459,6 +39461,7 @@ Here's a list of public Fediverse services.
 | `stancliff.dev` | No |
 | `standup-comics.net` | No |
 | `standyck.com` | No |
+| `stanford.edu` | Yes |
 | `stanford.moe` | No |
 | `stanford.social` | Yes |
 | `stani.se` | No |
@@ -42417,6 +42420,7 @@ Here's a list of public Fediverse services.
 | `todon.fr` | No |
 | `todon.in` | Yes |
 | `todon.nl` | No |
+| `todon.site` | No |
 | `todon.uk` | No |
 | `todor.cc` | No |
 | `toepi.moe` | Yes |
@@ -47920,8 +47924,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,265 |
-| Normal | 34,607 |
+| Cloudflare | 13,266 |
+| Normal | 34,610 |
 
 
 </details>
