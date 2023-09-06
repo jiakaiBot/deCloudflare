@@ -21,3 +21,4 @@
 | ![](getapp.com.jpg) | ![](esfaucets.com.jpg) | ![](indojav.mom.webp) | ![](photoai.com.jpg) |
 | ![](you.com.webp) | ![](zed.run.webp) | ![](kbin.social.jpg) | ![](w3.org.png) |
 | ![](pixelfed.social.png) | ![](thuisbezorgd.nl.jpg) | ![](lemmy.world.jpg) | ![](waveform.social.jpg) |
+| ![](lemmy.finance.jpg) | - | - | - |
