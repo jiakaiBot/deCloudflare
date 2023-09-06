@@ -8039,6 +8039,7 @@ Here's a list of public Fediverse services.
 | `corset.club` | No |
 | `corteel.org` | No |
 | `corteximplant.com` | No |
+| `cortexspace.support` | Yes |
 | `corticarte.com` | No |
 | `corvids.club` | Yes |
 | `corvus.social` | Yes |
@@ -47925,7 +47926,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,267 |
+| Cloudflare | 13,268 |
 | Normal | 34,610 |
 
 
