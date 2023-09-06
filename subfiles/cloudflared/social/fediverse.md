@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,326 |
+| com | 7,327 |
 | social | 4,535 |
 | net | 3,723 |
-| org | 2,496 |
+| org | 2,497 |
 | de | 2,304 |
 
 
@@ -1890,6 +1890,7 @@ Here's a list of public Fediverse services.
 | `alypto.com` | No |
 | `alyve.be` | No |
 | `alyxia.dev` | Yes |
+| `am-gen.org` | No |
 | `am-institute.swiss` | No |
 | `am-networks.fr` | No |
 | `am.guru` | No |
@@ -10172,6 +10173,7 @@ Here's a list of public Fediverse services.
 | `dilithium.fr` | No |
 | `dillingen.social` | No |
 | `dilopiaf.fr` | No |
+| `diluvian.cc` | No |
 | `dimension.host` | No |
 | `dimequecomes.com` | No |
 | `dimethyl.xyz` | No |
@@ -26163,7 +26165,7 @@ Here's a list of public Fediverse services.
 | `meowcat285.com` | Yes |
 | `meowchat.xyz` | No |
 | `meowclown.de` | No |
-| `meowhome.xyz` | No |
+| `meowhome.xyz` | Yes |
 | `meowing.online` | Yes |
 | `meowly.org` | Yes |
 | `meowmeow.gay` | No |
@@ -30924,6 +30926,7 @@ Here's a list of public Fediverse services.
 | `onlinesession.app` | Yes |
 | `onlinetrainer.es` | No |
 | `onlinux.org` | Yes |
+| `only1klaus.com` | No |
 | `onlyarts.social` | No |
 | `onlybsds.com` | Yes |
 | `onlycasino.legal` | Yes |
@@ -47932,8 +47935,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,271 |
-| Normal | 34,613 |
+| Cloudflare | 13,272 |
+| Normal | 34,615 |
 
 
 </details>
