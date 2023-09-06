@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,323 |
+| com | 7,325 |
 | social | 4,535 |
 | net | 3,722 |
 | org | 2,495 |
@@ -43967,6 +43967,7 @@ Here's a list of public Fediverse services.
 | `ungzeit.de` | No |
 | `unhandledexpression.com` | No |
 | `unhinged.social` | No |
+| `unholymemes.com` | No |
 | `uni-corn.me` | No |
 | `uni-greifswald.de` | No |
 | `uni-hamburg.de` | No |
@@ -44511,6 +44512,7 @@ Here's a list of public Fediverse services.
 | `vassie.me` | Yes |
 | `vastactive.social` | No |
 | `vastodon.com` | No |
+| `vastorigins.com` | Yes |
 | `vates.tech` | No |
 | `vattenkylaren.se` | No |
 | `vaucher.org` | Yes |
@@ -47926,8 +47928,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,268 |
-| Normal | 34,610 |
+| Cloudflare | 13,269 |
+| Normal | 34,611 |
 
 
 </details>
