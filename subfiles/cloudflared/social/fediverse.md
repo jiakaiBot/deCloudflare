@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,331 |
+| com | 7,332 |
 | social | 4,540 |
 | net | 3,723 |
 | org | 2,497 |
@@ -47731,6 +47731,7 @@ Here's a list of public Fediverse services.
 | `zine.party` | No |
 | `zinzolin.fr` | No |
 | `zio.sh` | Yes |
+| `zioibi.com` | Yes |
 | `zion-techs.com` | No |
 | `zip2.social` | No |
 | `zipbangwow.com` | No |
@@ -47958,7 +47959,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,280 |
+| Cloudflare | 13,281 |
 | Normal | 34,630 |
 
 
