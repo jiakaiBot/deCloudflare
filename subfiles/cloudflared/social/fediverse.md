@@ -21883,7 +21883,7 @@ Here's a list of public Fediverse services.
 | `koyuston.tk` | No |
 | `kozintcev.ru` | No |
 | `kozlovsky.institute` | Yes |
-| `kozow.com` | No |
+| `kozow.com` | Yes |
 | `kozterulethasznalatienge.day` | No |
 | `kpc.bz` | Yes |
 | `kpherox.dev` | Yes |
@@ -33743,6 +33743,7 @@ Here's a list of public Fediverse services.
 | `propaganda.global` | No |
 | `propaganda.lol` | Yes |
 | `propane.digital` | No |
+| `propatagonia.org.ar` | No |
 | `properlypurple.com` | No |
 | `propoleo.xyz` | No |
 | `proppower.de` | No |
@@ -47960,7 +47961,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,281 |
+| Cloudflare | 13,282 |
 | Normal | 34,631 |
 
 
