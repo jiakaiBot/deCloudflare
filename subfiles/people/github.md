@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [3.3.4 wont detect CloudFlare Protection](https://github.com/FlareSolverr/FlareSolverr/issues/892)
 - [Restoring just gives 404 page not found?](https://github.com/kurokobo/awx-on-k3s/issues/257)
 - [500 Internal Server Error](https://github.com/FlareSolverr/FlareSolverr/issues/891)
 - [help wanted 求助:](https://github.com/fscarmen/warp/issues/496)
