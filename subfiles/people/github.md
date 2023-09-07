@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [500 Internal Server Error](https://github.com/FlareSolverr/FlareSolverr/issues/891)
 - [help wanted 求助:](https://github.com/fscarmen/warp/issues/496)
 - [namespaces "cert-manager" not found](https://github.com/truecharts/charts/issues/12306)
 - [Handle Plausible outages](https://github.com/WordPress/openverse/issues/2996)
