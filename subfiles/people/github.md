@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [help wanted 求助:](https://github.com/fscarmen/warp/issues/496)
 - [namespaces "cert-manager" not found](https://github.com/truecharts/charts/issues/12306)
 - [Handle Plausible outages](https://github.com/WordPress/openverse/issues/2996)
 - [CloudFlare Workers KV Increased Errors and Latency Through Cloudflare API](https://github.com/SecOpsNews/news/issues/18412)
