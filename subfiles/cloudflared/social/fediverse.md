@@ -7692,7 +7692,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -10388,7 +10388,7 @@ Here's a list of public Fediverse services.
 | `dlants.me` | No |
 | `dlazaro.ca` | Yes |
 | `dlct.ca` | No |
-| `dlf.social` | Yes |
+| `dlf.social` | No |
 | `dlford.io` | No |
 | `dlgreen.com` | No |
 | `dline.xyz` | No |
@@ -40384,6 +40384,7 @@ Here's a list of public Fediverse services.
 | `swrs.net` | No |
 | `swtlo.com` | No |
 | `swungda.sh` | No |
+| `swurl.land` | Yes |
 | `swurl.xyz` | No |
 | `sxgr.fun` | No |
 | `sxnlabs.social` | No |
@@ -47943,8 +47944,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,273 |
-| Normal | 34,622 |
+| Cloudflare | 13,272 |
+| Normal | 34,624 |
 
 
 </details>
