@@ -267,6 +267,7 @@ Here's a list of public Fediverse services.
 | `1776.report` | No |
 | `1791.social` | Yes |
 | `17oc.com` | No |
+| `17toot.xyz` | No |
 | `184.im` | Yes |
 | `18argons.xyz` | No |
 | `18kink.com` | Yes |
@@ -10040,6 +10041,7 @@ Here's a list of public Fediverse services.
 | `diasporing.ch` | No |
 | `diatom.social` | No |
 | `dib.de` | No |
+| `dibbelabb.es` | No |
 | `dibiase.social` | No |
 | `diblasio.net` | Yes |
 | `diblasio.social` | Yes |
@@ -10800,6 +10802,7 @@ Here's a list of public Fediverse services.
 | `draky.net` | No |
 | `dram.group` | No |
 | `dram.org` | No |
+| `drama.observer` | No |
 | `dramadon.net` | No |
 | `dramaless.co.uk` | No |
 | `dramatica.online` | Yes |
@@ -13175,6 +13178,7 @@ Here's a list of public Fediverse services.
 | `fediverse.cyou` | Yes |
 | `fediverse.cz` | No |
 | `fediverse.date` | No |
+| `fediverse.events` | No |
 | `fediverse.express` | No |
 | `fediverse.info` | Yes |
 | `fediverse.land` | Yes |
@@ -30384,6 +30388,7 @@ Here's a list of public Fediverse services.
 | `nye.lol` | No |
 | `nyerm.com` | No |
 | `nygaardboysen.dk` | Yes |
+| `nyhetskartan.se` | No |
 | `nyk.app` | Yes |
 | `nylarea.com` | No |
 | `nymclub.net` | No |
@@ -47939,7 +47944,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,273 |
-| Normal | 34,617 |
+| Normal | 34,622 |
 
 
 </details>
