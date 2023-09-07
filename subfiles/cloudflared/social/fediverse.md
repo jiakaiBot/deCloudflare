@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,330 |
+| com | 7,331 |
 | social | 4,540 |
 | net | 3,723 |
 | org | 2,497 |
@@ -3598,7 +3598,7 @@ Here's a list of public Fediverse services.
 | `baczuk.com` | No |
 | `bad-bit.ch` | No |
 | `bad-radio.social` | No |
-| `bad.mn` | No |
+| `bad.mn` | Yes |
 | `bad.network` | No |
 | `bad.news` | Yes |
 | `bad2000.fun` | No |
@@ -3965,6 +3965,7 @@ Here's a list of public Fediverse services.
 | `bdx.town` | No |
 | `be-kind-rewind.online` | No |
 | `be-lemmy.org` | Yes |
+| `be58.co` | No |
 | `beach.city` | No |
 | `beachcom.org` | No |
 | `beagle.casa` | Yes |
@@ -7693,7 +7694,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8383,7 +8384,7 @@ Here's a list of public Fediverse services.
 | `crowerailwren.com` | No |
 | `crowesnest.io` | No |
 | `crowleyclub.com` | No |
-| `crownel.monster` | No |
+| `crownel.monster` | Yes |
 | `crownet.eu` | No |
 | `crows.tokyo` | No |
 | `crowsnest.social` | No |
@@ -14554,6 +14555,7 @@ Here's a list of public Fediverse services.
 | `ftdrd.xyz` | No |
 | `ftfl.ca` | No |
 | `ftl.chat` | No |
+| `ftm.nl` | Yes |
 | `ftns.zone` | No |
 | `ftp.rip` | No |
 | `ftqq.com` | No |
@@ -40113,6 +40115,7 @@ Here's a list of public Fediverse services.
 | `sukazyo.cc` | Yes |
 | `sukeban.moe` | No |
 | `sukebeneko.com` | No |
+| `sukebepacos.com` | No |
 | `sulairris.com` | No |
 | `sulegna.de` | Yes |
 | `sulli.ca` | No |
@@ -47955,8 +47958,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,276 |
-| Normal | 34,631 |
+| Cloudflare | 13,280 |
+| Normal | 34,630 |
 
 
 </details>
