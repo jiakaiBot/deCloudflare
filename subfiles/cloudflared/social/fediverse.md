@@ -12290,6 +12290,7 @@ Here's a list of public Fediverse services.
 | `etiennemoureton.fr` | No |
 | `etiketi.de` | No |
 | `etimon.app` | No |
+| `etizi.ng` | No |
 | `etke.cc` | No |
 | `etkmusic.dance` | No |
 | `etn.icu` | Yes |
@@ -47960,7 +47961,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,281 |
-| Normal | 34,630 |
+| Normal | 34,631 |
 
 
 </details>
