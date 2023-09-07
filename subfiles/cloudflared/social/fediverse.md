@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,328 |
-| social | 4,536 |
+| com | 7,330 |
+| social | 4,539 |
 | net | 3,723 |
 | org | 2,497 |
 | de | 2,304 |
@@ -6057,6 +6057,7 @@ Here's a list of public Fediverse services.
 | `calckey.pl` | Yes |
 | `calckey.social` | No |
 | `calckey.world` | No |
+| `calckeymusic.social` | No |
 | `calculate-linux.org` | No |
 | `calculate.social` | No |
 | `calculator29.com` | No |
@@ -20442,6 +20443,7 @@ Here's a list of public Fediverse services.
 | `jupiterslanding.social` | Yes |
 | `jurablogs.com` | No |
 | `jurassic.network` | Yes |
+| `jurassic.ninja` | No |
 | `jurgenfranse.nl` | No |
 | `jurgenhaas.de` | Yes |
 | `juristen.social` | No |
@@ -22022,6 +22024,7 @@ Here's a list of public Fediverse services.
 | `kuecker.eu` | No |
 | `kueckieben.de` | No |
 | `kuehnert.io` | No |
+| `kuemmerle.name` | Yes |
 | `kuendig.io` | No |
 | `kuenet.ch` | No |
 | `kuenstlerquadrat.de` | No |
@@ -22173,6 +22176,7 @@ Here's a list of public Fediverse services.
 | `kyanos.one` | Yes |
 | `kyaru.xyz` | Yes |
 | `kyaruc.moe` | No |
+| `kyberpunk.social` | No |
 | `kyd.au` | No |
 | `kylebronsdon.com` | No |
 | `kylefreed.com` | Yes |
@@ -25933,6 +25937,7 @@ Here's a list of public Fediverse services.
 | `mediajunkie.com` | No |
 | `median.moe` | No |
 | `mediaoffice-zimmer.de` | No |
+| `mediapart.social` | No |
 | `mediartodon.net` | No |
 | `mediasculp.com` | No |
 | `mediastodon.com` | Yes |
@@ -29379,6 +29384,7 @@ Here's a list of public Fediverse services.
 | `nicolosus.chat` | Yes |
 | `nicolosus.com` | No |
 | `nicomedkey.cc` | Yes |
+| `niconicorose.com` | No |
 | `nicoplaysthings.live` | No |
 | `nicosan.guru` | Yes |
 | `nicra.fr` | No |
@@ -30692,6 +30698,7 @@ Here's a list of public Fediverse services.
 | `ohnepunktundkomma.org` | No |
 | `ohno.club` | No |
 | `ohno.host` | No |
+| `ohno.moe` | No |
 | `ohnoim.online` | No |
 | `ohnomy.rocks` | No |
 | `ohsan.cc` | Yes |
@@ -32151,6 +32158,7 @@ Here's a list of public Fediverse services.
 | `peertube.pl` | No |
 | `peertube.red` | Yes |
 | `peertube.ro` | No |
+| `peertube.se` | Yes |
 | `peertube.social` | No |
 | `peertube.space` | No |
 | `peertube.stream` | No |
@@ -36472,6 +36480,7 @@ Here's a list of public Fediverse services.
 | `sambaspy.com` | No |
 | `samcday.com` | Yes |
 | `samcday.social` | Yes |
+| `samcepeda.com` | No |
 | `samdavies.me` | No |
 | `samedi.pm` | No |
 | `samedwards.ca` | No |
@@ -42270,6 +42279,7 @@ Here's a list of public Fediverse services.
 | `tinko.club` | No |
 | `tinnies.club` | Yes |
 | `tinokaltsas.com` | No |
+| `tinsley.video` | No |
 | `tiny-host.nl` | No |
 | `tiny.gripe` | No |
 | `tinyblip.com` | No |
@@ -47944,8 +47954,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,272 |
-| Normal | 34,624 |
+| Cloudflare | 13,274 |
+| Normal | 34,632 |
 
 
 </details>
