@@ -2902,6 +2902,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dersy73935011@twitter](https://twitter.com/Dersy73935011/status/1389827449349763072) | advertise |
 | [Desaste64491060@twitter](https://twitter.com/Desaste64491060/status/1383753625101500417) | advertise |
 | [desertdog99@twitter](https://twitter.com/desertdog99/status/1405382173734014983) | advertise |
+| [designbytk_com@twitter](https://twitter.com/designbytk_com/status/1699503457097400675) | advertise |
 | [designjazzltd@twitter](https://twitter.com/designjazzltd/status/1518899539452866561) | advertise |
 | [DesignsShujaa@twitter](https://twitter.com/DesignsShujaa/status/1501718865868300289) | advertise |
 | [desmondphyo@twitter](https://twitter.com/desmondphyo/status/1643661177459703810) | advertise |
@@ -2966,6 +2967,7 @@ Do not create new issue or we will close it as duplicate.
 | [digcinema@twitter](https://twitter.com/digcinema/status/1402343666174201857) | advertise |
 | [DigeeB@twitter](https://twitter.com/DigeeB/status/1686366611521839104) | advertise |
 | [DiggajUpadhyay@twitter](https://twitter.com/DiggajUpadhyay/status/1511942797212889089) | advertise |
+| [DigiRare_Nft@twitter](https://twitter.com/DigiRare_Nft/status/1699733844377636986) | advertise |
 | [DigitalBook007@twitter](https://twitter.com/DigitalBook007/status/1545917215349899271) | advertise |
 | [DigitalSoftwar9@twitter](https://twitter.com/DigitalSoftwar9/status/1437033725141860357) | advertise |
 | [digital_khabar@twitter](https://twitter.com/digital_khabar/status/1443868273901146114) | advertise |
@@ -4335,6 +4337,7 @@ Do not create new issue or we will close it as duplicate.
 | [haryadh66480571@twitter](https://twitter.com/haryadh66480571/status/1602709011907973123) | advertise |
 | [hasanrefaeiah@twitter](https://twitter.com/hasanrefaeiah/status/1383784698942345223) | advertise |
 | [Haseebkhankhll@twitter](https://twitter.com/Haseebkhankhll/status/1687559007714820096) | advertise |
+| [hashimoto_labs@twitter](https://twitter.com/hashimoto_labs/status/1699783054984917420) | advertise |
 | [hashndashery@twitter](https://twitter.com/hashndashery/status/1566345780247629824) | advertise |
 | [HasimiJohan@twitter](https://twitter.com/HasimiJohan/status/1390402399404105728) | advertise |
 | [Hasin62169831@twitter](https://twitter.com/Hasin62169831/status/1380236587443888129) | advertise |
@@ -9701,6 +9704,7 @@ Do not create new issue or we will close it as duplicate.
 | [papimii@twitter](https://twitter.com/papimii/status/1582258872512761856) | advertise |
 | [PAPPY_JEFF12@twitter](https://twitter.com/PAPPY_JEFF12/status/1588182457098309632) | advertise |
 | [paraboy113@twitter](https://twitter.com/paraboy113/status/1377615187969204225) | advertise |
+| [Paraguanads@twitter](https://twitter.com/Paraguanads/status/1699620595292352546) | advertise |
 | [parameciums@twitter](https://twitter.com/parameciums/status/1697452025447940558) | advertise |
 | [Parassi87009558@twitter](https://twitter.com/Parassi87009558/status/1405913945735450625) | advertise |
 | [parasyte_x@twitter](https://twitter.com/parasyte_x/status/1377532238997254144) | advertise |
