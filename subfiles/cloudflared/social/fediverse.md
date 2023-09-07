@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,330 |
-| social | 4,539 |
+| social | 4,540 |
 | net | 3,723 |
 | org | 2,497 |
 | de | 2,304 |
@@ -20294,7 +20294,7 @@ Here's a list of public Fediverse services.
 | `jp-warrior.cf` | No |
 | `jp0id.fun` | No |
 | `jpa.com` | Yes |
-| `jpages.eu` | No |
+| `jpages.eu` | Yes |
 | `jparenas.com` | No |
 | `jpbm.fr` | No |
 | `jpbutler.net` | No |
@@ -31706,7 +31706,7 @@ Here's a list of public Fediverse services.
 | `pagansocial.net` | No |
 | `page.lgbt` | Yes |
 | `pagekite.me` | No |
-| `pageofwords.com` | No |
+| `pageofwords.com` | Yes |
 | `pages.dev` | Yes |
 | `pagez.co.uk` | No |
 | `pah.social` | No |
@@ -45256,6 +45256,7 @@ Here's a list of public Fediverse services.
 | `wadjnetech.industries` | Yes |
 | `wadoryu.social` | No |
 | `wadza.fr` | No |
+| `waf.social` | No |
 | `wafer.baby` | No |
 | `waferbaby.com` | No |
 | `waff.club` | Yes |
@@ -47954,8 +47955,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,274 |
-| Normal | 34,632 |
+| Cloudflare | 13,276 |
+| Normal | 34,631 |
 
 
 </details>
