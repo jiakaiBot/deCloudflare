@@ -170,7 +170,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ketan.dev | Yes |
 | keweon.center | No |
 | killtw.im | Yes |
-| kinergetica.com | Yes |
 | konikoni428.com | Yes |
 | korzhov.dev | No |
 | kpsn.org | Yes |
@@ -332,8 +331,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 154 |
+| Cloudflare | 153 |
 | Normal | 159 |
 
 
-### 49.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 49% of DNS-over-HTTPS (DoH) are using Cloudflare.
