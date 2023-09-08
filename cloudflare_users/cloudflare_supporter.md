@@ -6220,6 +6220,7 @@ Do not create new issue or we will close it as duplicate.
 | [Khhchaw8@twitter](https://twitter.com/Khhchaw8/status/1672779046256783361) | advertise |
 | [Khi51608054@twitter](https://twitter.com/Khi51608054/status/1393972660883779586) | advertise |
 | [Khi86744113@twitter](https://twitter.com/Khi86744113/status/1384440250160664577) | advertise |
+| [khiemNg79007532@twitter](https://twitter.com/khiemNg79007532/status/1700137299202478154) | advertise |
 | [khil_melo@twitter](https://twitter.com/khil_melo/status/1665203863236796417) | advertise |
 | [Khim36198085@twitter](https://twitter.com/Khim36198085/status/1597090158628638720) | advertise |
 | [khim71373134@twitter](https://twitter.com/khim71373134/status/1407263810751139842) | advertise |
@@ -13193,6 +13194,7 @@ Do not create new issue or we will close it as duplicate.
 | [Typlyapp@twitter](https://twitter.com/Typlyapp/status/1587591182213074944) | advertise |
 | [Tyr64976968@twitter](https://twitter.com/Tyr64976968/status/1385845880549384192) | advertise |
 | [tytech038@twitter](https://twitter.com/tytech038/status/1631324775682383872) | advertise |
+| [tytech039@twitter](https://twitter.com/tytech039/status/1700164269151560126) | advertise |
 | [Tyty21734951@twitter](https://twitter.com/Tyty21734951/status/1400883940479561729) | advertise |
 | [TZ50609073@twitter](https://twitter.com/TZ50609073/status/1386953958619455490) | advertise |
 | [Tzammt3@twitter](https://twitter.com/Tzammt3/status/1391395529301577731) | advertise |
