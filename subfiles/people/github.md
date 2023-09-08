@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Conflict with the Super Page Cache for Cloudflare (SPCC ) plugin when trying to saving the Yoast SEO settings.](https://github.com/Yoast/wordpress-seo/issues/20626)
 - [3.3.4 wont detect CloudFlare Protection](https://github.com/FlareSolverr/FlareSolverr/issues/892)
 - [Restoring just gives 404 page not found?](https://github.com/kurokobo/awx-on-k3s/issues/257)
 - [500 Internal Server Error](https://github.com/FlareSolverr/FlareSolverr/issues/891)
