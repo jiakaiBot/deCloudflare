@@ -12371,6 +12371,7 @@ Here's a list of public Fediverse services.
 | `evelynyap.com` | No |
 | `eveningzoo.club` | No |
 | `evenpace.social` | Yes |
+| `event-federation.eu` | No |
 | `eventide.town` | No |
 | `eventphotographie.com` | Yes |
 | `eventprofs.social` | No |
@@ -35121,6 +35122,7 @@ Here's a list of public Fediverse services.
 | `reil.de` | No |
 | `reima.rocks` | No |
 | `reimalab.art` | No |
+| `reimu.download` | Yes |
 | `reimu.info` | Yes |
 | `reinboar.space` | No |
 | `reinboar.xyz` | Yes |
@@ -47974,8 +47976,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,285 |
-| Normal | 34,641 |
+| Cloudflare | 13,286 |
+| Normal | 34,642 |
 
 
 </details>
