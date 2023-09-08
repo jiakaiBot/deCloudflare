@@ -192,6 +192,7 @@ Here's a list of breached sites.
 | Dunzo | 3,465,259 | Yes |
 | Duolingo | 2,676,696 | Yes |
 | Duowan (Duowan.com) | 2,639,894 | Yes |
+| Dymocks | 836,120 | Yes |
 | ECCIE | 536,923 | No |
 | EPal (E-Pal) | 108,887 | Yes |
 | EatStreet | 6,353,564 | No |
@@ -690,10 +691,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 380 | 4,070,414,662 |
+| Cloudflare | 381 | 4,071,250,782 |
 | Normal | 289 | 4,859,019,053 |
 
 
 
-### 56.8% of breached sites (pwned sites) are using Cloudflare.
+### 56.9% of breached sites (pwned sites) are using Cloudflare.
 ### 45.6% of leaked accounts are on Cloudflare sites.
