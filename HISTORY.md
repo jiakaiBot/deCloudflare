@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-09-08: [Network Performance Issues in Zurich](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vpyb54qs0d7g)
 - 2023-09-06: [Network Performance Issues in Chennai, India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/r6kr07p0bl72)
 - 2023-09-04: [Issues with Wrangler remote-mode dev.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kkbml5rjmyq3)
 - 2023-08-30: [Waiting Room Queue issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jw7bjgsrg551)
