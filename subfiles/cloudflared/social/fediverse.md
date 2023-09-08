@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,333 |
-| social | 4,540 |
-| net | 3,725 |
+| social | 4,542 |
+| net | 3,726 |
 | org | 2,497 |
-| de | 2,304 |
+| de | 2,305 |
 
 
 - Mastodon, Pleroma, etc
@@ -4367,6 +4367,7 @@ Here's a list of public Fediverse services.
 | `bibimblog.de` | No |
 | `bibinet.de` | No |
 | `bibinim.me` | Yes |
+| `bible.social` | Yes |
 | `biblenotes.co.uk` | Yes |
 | `biblewordpress.net` | No |
 | `biblewp.com` | No |
@@ -12531,6 +12532,7 @@ Here's a list of public Fediverse services.
 | `extropian.net` | No |
 | `extwitriates.com` | No |
 | `eybubulle.fr` | No |
+| `eyeofthestorm.place` | Yes |
 | `eyeofwisdom.org` | No |
 | `eyes4you.org` | No |
 | `eyesight.jp` | No |
@@ -20870,6 +20872,7 @@ Here's a list of public Fediverse services.
 | `katarpilar.com` | No |
 | `kate.land` | No |
 | `katgirl.club` | No |
+| `katharinabrunner.de` | No |
 | `kathryl.fr` | No |
 | `kathyreid.id.au` | No |
 | `katiechapman.ie` | Yes |
@@ -26308,6 +26311,7 @@ Here's a list of public Fediverse services.
 | `metro.bieszczady.pl` | No |
 | `metro.social` | Yes |
 | `metrob.us` | No |
+| `metrology.community` | No |
 | `metropolan.com` | Yes |
 | `metsubo-jinrai.net` | No |
 | `metsuke.com` | No |
@@ -26355,6 +26359,7 @@ Here's a list of public Fediverse services.
 | `mfraters.net` | No |
 | `mftrhu.net` | No |
 | `mfunkenberg.de` | No |
+| `mfy.social` | No |
 | `mfy.world` | Yes |
 | `mfyo.biz` | No |
 | `mfyo.jp` | Yes |
@@ -28636,6 +28641,7 @@ Here's a list of public Fediverse services.
 | `nasn.icu` | No |
 | `nasnfl.com` | No |
 | `nasqueron.org` | No |
+| `nassys.fr` | No |
 | `nastub.cz` | Yes |
 | `nastycandy.com` | Yes |
 | `nasustim.com` | Yes |
@@ -42992,6 +42998,7 @@ Here's a list of public Fediverse services.
 | `transgression.cafe` | No |
 | `transhub.social` | No |
 | `transient.garden` | Yes |
+| `transistorcafe.net` | Yes |
 | `transitieweb.nl` | No |
 | `transition-waedenswil.ch` | No |
 | `transkitties.party` | No |
@@ -47965,8 +47972,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,281 |
-| Normal | 34,636 |
+| Cloudflare | 13,284 |
+| Normal | 34,640 |
 
 
 </details>
