@@ -2506,6 +2506,7 @@ Do not create new issue or we will close it as duplicate.
 | [CoolVibez15@twitter](https://twitter.com/CoolVibez15/status/1569708012243238915) | advertise |
 | [cooolrims@twitter](https://twitter.com/cooolrims/status/1605033285444198401) | advertise |
 | [CopyImage12@twitter](https://twitter.com/CopyImage12/status/1388503829142851588) | advertise |
+| [corcineenero4@twitter](https://twitter.com/corcineenero4/status/1700117818065477730) | advertise |
 | [cordon272@twitter](https://twitter.com/cordon272/status/1587408631489859584) | advertise |
 | [Corona00039226@twitter](https://twitter.com/Corona00039226/status/1496506233670410242) | advertise |
 | [Corona3331@twitter](https://twitter.com/Corona3331/status/1394599782153342976) | advertise |
@@ -3765,6 +3766,7 @@ Do not create new issue or we will close it as duplicate.
 | [fouaadbarcha@twitter](https://twitter.com/fouaadbarcha/status/1636104214572335104) | advertise |
 | [fouad20092000@twitter](https://twitter.com/fouad20092000/status/1472866649971871744) | advertise |
 | [four5z@twitter](https://twitter.com/four5z/status/1503760771494391822) | advertise |
+| [fowles_jen@twitter](https://twitter.com/fowles_jen/status/1700103088110276962) | advertise |
 | [FoxArchipelago@twitter](https://twitter.com/FoxArchipelago/status/1537197310685458433) | advertise |
 | [fozle_bhai@twitter](https://twitter.com/fozle_bhai/status/1569734313301909504) | advertise |
 | [FradSer@twitter](https://twitter.com/FradSer/status/1525376068395225088) | advertise |
@@ -8581,6 +8583,7 @@ Do not create new issue or we will close it as duplicate.
 | [mytopinvesting@twitter](https://twitter.com/mytopinvesting/status/1588082760509530114) | advertise |
 | [MYYEWINNAING1@twitter](https://twitter.com/MYYEWINNAING1/status/1393142382233784321) | advertise |
 | [MyyJ18@twitter](https://twitter.com/MyyJ18/status/1396981851286212612) | advertise |
+| [myzaaa05@twitter](https://twitter.com/myzaaa05/status/1700086284465603036) | advertise |
 | [Mzfrn3@twitter](https://twitter.com/Mzfrn3/status/1601677126482407424) | advertise |
 | [MzwzSrh@twitter](https://twitter.com/MzwzSrh/status/1581275350599749633) | advertise |
 | [MZykky@twitter](https://twitter.com/MZykky/status/1552553256861470722) | advertise |
