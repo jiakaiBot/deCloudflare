@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,333 |
 | social | 4,540 |
-| net | 3,723 |
+| net | 3,725 |
 | org | 2,497 |
 | de | 2,304 |
 
@@ -7695,7 +7695,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -19475,7 +19475,7 @@ Here's a list of public Fediverse services.
 | `jack28.ovh` | No |
 | `jackal.chat` | Yes |
 | `jackalopes.xyz` | No |
-| `jackbenson.xyz` | Yes |
+| `jackbenson.xyz` | No |
 | `jackbot.fr` | No |
 | `jackbot.uk` | No |
 | `jackdaddy.blog` | No |
@@ -22579,6 +22579,7 @@ Here's a list of public Fediverse services.
 | `lawtalk.app` | No |
 | `lawtalk.social` | No |
 | `layer0.dev` | No |
+| `layer02.net` | Yes |
 | `layer7.space` | Yes |
 | `layer8.org` | Yes |
 | `layer8.space` | No |
@@ -37612,6 +37613,7 @@ Here's a list of public Fediverse services.
 | `sharlayan.me` | No |
 | `sharma.io` | No |
 | `sharpletters.net` | Yes |
+| `sharpwriting.net` | Yes |
 | `shart.network` | Yes |
 | `shas.am` | No |
 | `shashindo.de` | No |
@@ -38939,7 +38941,7 @@ Here's a list of public Fediverse services.
 | `songngu.xyz` | Yes |
 | `songsforno.one` | Yes |
 | `songtronix.com` | No |
-| `sonicboom.online` | Yes |
+| `sonicboom.online` | No |
 | `sonicbunny.com` | No |
 | `sonichu.com` | No |
 | `sonichu.social` | No |
@@ -47963,8 +47965,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,282 |
-| Normal | 34,633 |
+| Cloudflare | 13,281 |
+| Normal | 34,636 |
 
 
 </details>
