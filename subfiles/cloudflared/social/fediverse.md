@@ -13412,6 +13412,7 @@ Here's a list of public Fediverse services.
 | `fff.org.ua` | No |
 | `ffffff.link` | No |
 | `ffflorian.social` | No |
+| `ffl.name` | No |
 | `ffm.social` | Yes |
 | `ffmuc.net` | Yes |
 | `ffnet.work` | Yes |
@@ -29125,6 +29126,7 @@ Here's a list of public Fediverse services.
 | `netsol.co.th` | Yes |
 | `netsons.org` | No |
 | `netsphere.one` | No |
+| `netsphere.pub` | Yes |
 | `netsplit.social` | Yes |
 | `netstat.app` | No |
 | `netsyms.com` | Yes |
@@ -47972,8 +47974,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,284 |
-| Normal | 34,640 |
+| Cloudflare | 13,285 |
+| Normal | 34,641 |
 
 
 </details>
