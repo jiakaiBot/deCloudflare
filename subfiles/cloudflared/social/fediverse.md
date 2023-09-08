@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,332 |
+| com | 7,333 |
 | social | 4,540 |
 | net | 3,723 |
 | org | 2,497 |
@@ -2175,6 +2175,7 @@ Here's a list of public Fediverse services.
 | `andysocial.com` | No |
 | `andythompson.social` | No |
 | `andz.me` | No |
+| `aneeshsathe.com` | No |
 | `anemoneprune.fr` | No |
 | `anemoneya.me` | No |
 | `anesthetizeme.net` | Yes |
@@ -26991,6 +26992,7 @@ Here's a list of public Fediverse services.
 | `miyon.org` | Yes |
 | `miyon.pw` | No |
 | `miyukey.club` | Yes |
+| `mizah.xyz` | No |
 | `mizky.jp` | Yes |
 | `mizo.one` | No |
 | `mizucoffee.net` | No |
@@ -47962,7 +47964,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,282 |
-| Normal | 34,631 |
+| Normal | 34,633 |
 
 
 </details>
