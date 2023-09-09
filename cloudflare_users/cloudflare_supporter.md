@@ -7969,6 +7969,7 @@ Do not create new issue or we will close it as duplicate.
 | [minhhoa583@twitter](https://twitter.com/minhhoa583/status/1630383610850328576) | advertise |
 | [Minhhuy04361859@twitter](https://twitter.com/Minhhuy04361859/status/1393420564950179846) | advertise |
 | [Minhhuy351@twitter](https://twitter.com/Minhhuy351/status/1524288351830183936) | advertise |
+| [MinhKhailol@twitter](https://twitter.com/MinhKhailol/status/1700320647661117588) | advertise |
 | [minhkhiem14@twitter](https://twitter.com/minhkhiem14/status/1665946696210337793) | advertise |
 | [MinhKim35497106@twitter](https://twitter.com/MinhKim35497106/status/1565037598233735169) | advertise |
 | [MinhLm27252678@twitter](https://twitter.com/MinhLm27252678/status/1643964438935117827) | advertise |
@@ -12289,6 +12290,7 @@ Do not create new issue or we will close it as duplicate.
 | [thanhtuantmck@twitter](https://twitter.com/thanhtuantmck/status/1559274715247935488) | advertise |
 | [Thanhtunwin14@twitter](https://twitter.com/Thanhtunwin14/status/1391640761762926596) | advertise |
 | [thanhtwekyi@twitter](https://twitter.com/thanhtwekyi/status/1614279659138723842) | advertise |
+| [ThanhVLu1@twitter](https://twitter.com/ThanhVLu1/status/1700385415449174074) | advertise |
 | [thanh_dung58583@twitter](https://twitter.com/thanh_dung58583/status/1695091232954069166) | advertise |
 | [thanh_nguyen299@twitter](https://twitter.com/thanh_nguyen299/status/1513755541730131970) | advertise |
 | [thanh_tan@twitter](https://twitter.com/thanh_tan/status/1644003362705403905) | advertise |
@@ -13471,6 +13473,7 @@ Do not create new issue or we will close it as duplicate.
 | [vishalnyk21@twitter](https://twitter.com/vishalnyk21/status/1404097712178352134) | advertise |
 | [Vishnur01251382@twitter](https://twitter.com/Vishnur01251382/status/1599415445370863617) | advertise |
 | [Vishnur12459150@twitter](https://twitter.com/Vishnur12459150/status/1386911043763408898) | advertise |
+| [VishnuS54020429@twitter](https://twitter.com/VishnuS54020429/status/1700389827248804004) | advertise |
 | [Vishnuv72775788@twitter](https://twitter.com/Vishnuv72775788/status/1404443503480827909) | advertise |
 | [vishubhati_12@twitter](https://twitter.com/vishubhati_12/status/1689523851791859712) | advertise |
 | [vishusmruti@twitter](https://twitter.com/vishusmruti/status/1639227202704412673) | advertise |
