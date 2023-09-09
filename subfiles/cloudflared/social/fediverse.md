@@ -39734,6 +39734,7 @@ Here's a list of public Fediverse services.
 | `stereophonic.space` | No |
 | `stesan.dev` | Yes |
 | `steveasleep.com` | No |
+| `stevebate.dev` | Yes |
 | `steveblamey.co.uk` | No |
 | `steveblank.com` | No |
 | `stevecostar.com` | Yes |
@@ -47989,7 +47990,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,292 |
+| Cloudflare | 13,293 |
 | Normal | 34,649 |
 
 
