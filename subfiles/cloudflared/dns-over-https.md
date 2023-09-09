@@ -275,7 +275,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | sitdns.com | No |
 | skrep.eu | No |
 | slinkyman.net | Yes |
-| sntrk.ru | Yes |
 | softcom.net | No |
 | spacedns.org | No |
 | spectrum.com | Yes |
@@ -309,7 +308,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | virga.pp.ua | Yes |
 | vishalk.com | No |
 | vmath.my.id | No |
-| vpnglobal.my.id | Yes |
 | waifu.cz | Yes |
 | wang.art | Yes |
 | wantaquddin.com | No |
@@ -321,7 +319,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | xinfeng16m.top | Yes |
 | yameenassotally.com | No |
 | yazilimatolye.com | No |
-| yingroad.top | Yes |
 | yovbak.com | No |
 | yybyy.wiki | Yes |
 | zxcvb.pp.ua | Yes |
@@ -331,8 +328,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 153 |
+| Cloudflare | 150 |
 | Normal | 159 |
 
 
-### 49% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 48.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
