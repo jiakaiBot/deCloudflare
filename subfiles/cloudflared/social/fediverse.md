@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,336 |
 | social | 4,542 |
-| net | 3,728 |
+| net | 3,729 |
 | org | 2,498 |
 | de | 2,305 |
 
@@ -40795,6 +40795,7 @@ Here's a list of public Fediverse services.
 | `tamilsangam.social` | No |
 | `tamilsocial.org` | No |
 | `tamiltoot.online` | No |
+| `tammang.world` | Yes |
 | `tammenpaa.com` | No |
 | `tams.tech` | No |
 | `tamudon.com` | No |
@@ -41292,6 +41293,7 @@ Here's a list of public Fediverse services.
 | `tepes.space` | No |
 | `tepewu.dev` | No |
 | `tepewu.pl` | No |
+| `tepezil.net` | No |
 | `tepis.me` | Yes |
 | `tepitus.de` | No |
 | `teppelin.fr` | No |
@@ -47990,8 +47992,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,293 |
-| Normal | 34,649 |
+| Cloudflare | 13,294 |
+| Normal | 34,650 |
 
 
 </details>
