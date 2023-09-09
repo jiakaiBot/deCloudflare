@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,335 |
+| com | 7,336 |
 | social | 4,542 |
 | net | 3,728 |
-| org | 2,497 |
+| org | 2,498 |
 | de | 2,305 |
 
 
@@ -2090,6 +2090,7 @@ Here's a list of public Fediverse services.
 | `ancr.club` | No |
 | `ancreport.com` | No |
 | `and-mate.me` | No |
+| `andadinosaur.com` | No |
 | `andalucia.social` | No |
 | `andalys.fi` | No |
 | `andbutso.net` | No |
@@ -3529,6 +3530,7 @@ Here's a list of public Fediverse services.
 | `b4f7.de` | No |
 | `b4nk0flov3.com` | No |
 | `b4tech.cc` | No |
+| `b4uact.org` | No |
 | `b4udw3rk5.com` | No |
 | `b4yp.co.uk` | No |
 | `b4yp.net` | No |
@@ -38117,6 +38119,7 @@ Here's a list of public Fediverse services.
 | `sinofool.net` | Yes |
 | `sinon.gg` | Yes |
 | `sinon.rocks` | No |
+| `sinophone.world` | No |
 | `sins.center` | No |
 | `siotter.tk` | No |
 | `siotter.xyz` | Yes |
@@ -47987,7 +47990,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,292 |
-| Normal | 34,646 |
+| Normal | 34,649 |
 
 
 </details>
