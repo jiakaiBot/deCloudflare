@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,336 |
 | social | 4,542 |
 | net | 3,729 |
-| org | 2,498 |
+| org | 2,499 |
 | de | 2,305 |
 
 
@@ -20077,6 +20077,7 @@ Here's a list of public Fediverse services.
 | `jo3qma.com` | Yes |
 | `joanmastodon.blog` | No |
 | `joaocosta.eu` | No |
+| `joaoleitao.org` | Yes |
 | `joat.me` | No |
 | `jochen-tetzlaff.online` | No |
 | `jockstrap.futbol` | No |
@@ -47995,7 +47996,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,295 |
+| Cloudflare | 13,296 |
 | Normal | 34,652 |
 
 
