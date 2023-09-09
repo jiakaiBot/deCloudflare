@@ -10494,6 +10494,7 @@ Here's a list of public Fediverse services.
 | `doern.tech` | No |
 | `does.social` | No |
 | `doesnm.cc` | Yes |
+| `doesnotcut.it` | No |
 | `doesnotexist.club` | No |
 | `doesstuff.social` | Yes |
 | `doesthings.online` | Yes |
@@ -17435,7 +17436,7 @@ Here's a list of public Fediverse services.
 | `hijacked.download` | Yes |
 | `hijsselinckx.com` | No |
 | `hikali.work` | No |
-| `hikalium.dev` | No |
+| `hikalium.dev` | Yes |
 | `hikaruaikawa.com` | No |
 | `hikaruaikawa.tk` | No |
 | `hiker.camp` | No |
@@ -46829,7 +46830,7 @@ Here's a list of public Fediverse services.
 | `xn--ratatskr-r4a.de` | No |
 | `xn--rdstrupe-54a.net` | No |
 | `xn--rhqr3ykwbm05aegjn14c.cn` | No |
-| `xn--rtta-qoa.nu` | Yes |
+| `xn--rtta-qoa.nu` | No |
 | `xn--rvca9caab9a8aafa7qa6ethsbi9ewa1jbdf91i.com` | No |
 | `xn--sh8hve.to` | No |
 | `xn--sjpmeg-juab.space` | No |
@@ -47994,7 +47995,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,295 |
-| Normal | 34,650 |
+| Normal | 34,651 |
 
 
 </details>
