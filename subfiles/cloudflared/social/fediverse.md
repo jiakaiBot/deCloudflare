@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,333 |
+| com | 7,335 |
 | social | 4,542 |
 | net | 3,727 |
 | org | 2,497 |
@@ -28344,6 +28344,7 @@ Here's a list of public Fediverse services.
 | `myright.social` | No |
 | `myrivera.com` | Yes |
 | `myrkit.com` | Yes |
+| `myrkvi.no` | No |
 | `myrmidon.social` | Yes |
 | `myronland.com` | No |
 | `myrvog.net` | No |
@@ -29178,7 +29179,7 @@ Here's a list of public Fediverse services.
 | `neubau.social` | No |
 | `neuberger.dev` | No |
 | `neue.city` | No |
-| `neue.social` | Yes |
+| `neue.social` | No |
 | `neuemedien-stk-hessen.de` | No |
 | `neufv.systems` | No |
 | `neuland.social` | Yes |
@@ -41848,6 +41849,7 @@ Here's a list of public Fediverse services.
 | `theplanet.rocks` | No |
 | `theplatypus.ca` | Yes |
 | `thepocolips.com` | No |
+| `thepoetsky.com` | No |
 | `thepolarbear.co.uk` | No |
 | `thepostearthdestination.com` | No |
 | `thepractice.space` | No |
@@ -45967,6 +45969,7 @@ Here's a list of public Fediverse services.
 | `will-nix.de` | No |
 | `willacy.rocks` | No |
 | `willcollin.co.uk` | No |
+| `willcycle.com` | Yes |
 | `willdearman.com` | Yes |
 | `willems.social` | Yes |
 | `willfong.me` | No |
@@ -47980,7 +47983,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,289 |
-| Normal | 34,642 |
+| Normal | 34,645 |
 
 
 </details>
