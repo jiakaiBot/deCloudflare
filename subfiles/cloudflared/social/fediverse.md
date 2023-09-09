@@ -6821,7 +6821,7 @@ Here's a list of public Fediverse services.
 | `chemnitz.network` | No |
 | `chemnitz.rocks` | No |
 | `chemnitz.social` | No |
-| `chemoner.tokyo` | No |
+| `chemoner.tokyo` | Yes |
 | `chemtrail.airforce` | No |
 | `cheney.net` | No |
 | `cheonson.top` | Yes |
@@ -26728,6 +26728,7 @@ Here's a list of public Fediverse services.
 | `minidisc.tokyo` | No |
 | `minidon.one` | Yes |
 | `minidot.social` | No |
+| `minidragon.one` | No |
 | `minihost.ovh` | No |
 | `minimal.blue` | No |
 | `minimal.click` | No |
@@ -47992,7 +47993,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,294 |
+| Cloudflare | 13,295 |
 | Normal | 34,650 |
 
 
