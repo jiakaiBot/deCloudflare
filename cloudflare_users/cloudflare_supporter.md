@@ -10605,6 +10605,7 @@ Do not create new issue or we will close it as duplicate.
 | [RedMan81799244@twitter](https://twitter.com/RedMan81799244/status/1401774324768333825) | advertise |
 | [RedPacketSec@twitter](https://twitter.com/RedPacketSec/status/1400447985213788179) | advertise |
 | [redpilIed@twitter](https://twitter.com/redpilIed/status/1560071976110227461) | advertise |
+| [RedSkullDragon1@twitter](https://twitter.com/RedSkullDragon1/status/1700570648446222677) | advertise |
 | [RedVamp_@twitter](https://twitter.com/RedVamp_/status/1484282963722391553) | advertise |
 | [Redzadania@twitter](https://twitter.com/Redzadania/status/1402830172529709057) | advertise |
 | [RED_Heist@twitter](https://twitter.com/RED_Heist/status/1665874495767461888) | advertise |
