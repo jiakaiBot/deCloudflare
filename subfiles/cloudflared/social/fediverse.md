@@ -8919,6 +8919,7 @@ Here's a list of public Fediverse services.
 | `d49.link` | Yes |
 | `d4m.fr` | No |
 | `d5e.org` | No |
+| `d5o.eu` | No |
 | `d5shottkcas.tokyo` | Yes |
 | `d64.social` | Yes |
 | `d65.xyz` | No |
@@ -39808,7 +39809,7 @@ Here's a list of public Fediverse services.
 | `stonerclub.tk` | No |
 | `stonerivermountain.com` | No |
 | `stonerkitty.monster` | No |
-| `stoners.social` | No |
+| `stoners.social` | Yes |
 | `stoners.space` | No |
 | `stonestagsa.ga` | No |
 | `stonewall.social` | No |
@@ -42245,6 +42246,7 @@ Here's a list of public Fediverse services.
 | `tim.do` | Yes |
 | `tim.lgbt` | Yes |
 | `timapple.com` | Yes |
+| `timapple.dev` | Yes |
 | `timapple.me` | No |
 | `timbo.cc` | Yes |
 | `timbo.social` | No |
@@ -47982,7 +47984,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,289 |
+| Cloudflare | 13,291 |
 | Normal | 34,645 |
 
 
