@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,336 |
+| com | 7,337 |
 | social | 4,542 |
 | net | 3,729 |
 | org | 2,499 |
@@ -10486,7 +10486,7 @@ Here's a list of public Fediverse services.
 | `doctors4covidethics.org` | No |
 | `docviper.de` | No |
 | `dodam.io` | Yes |
-| `dodge.family` | No |
+| `dodge.family` | Yes |
 | `dodge.me.uk` | No |
 | `dodgy.download` | No |
 | `dodsorf.as` | No |
@@ -19497,6 +19497,7 @@ Here's a list of public Fediverse services.
 | `jacklinke.com` | No |
 | `jacklucksack.com` | No |
 | `jackmeyers.co` | No |
+| `jacknet595.com` | Yes |
 | `jackpoint.space` | No |
 | `jackpot.pictures` | Yes |
 | `jacksampson.info` | No |
@@ -47996,8 +47997,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,296 |
-| Normal | 34,652 |
+| Cloudflare | 13,298 |
+| Normal | 34,651 |
 
 
 </details>
