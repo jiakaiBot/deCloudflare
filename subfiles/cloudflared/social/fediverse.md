@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,333 |
 | social | 4,542 |
-| net | 3,726 |
+| net | 3,727 |
 | org | 2,497 |
 | de | 2,305 |
 
@@ -1254,6 +1254,7 @@ Here's a list of public Fediverse services.
 | `aethercom.de` | No |
 | `aetheri.ca` | No |
 | `aetherial.xyz` | No |
+| `aethernaut.eu` | No |
 | `aethernet.cc` | Yes |
 | `aethernet.social` | No |
 | `aethy.com` | Yes |
@@ -2948,6 +2949,7 @@ Here's a list of public Fediverse services.
 | `askapunk.net` | No |
 | `askboon.com` | Yes |
 | `askesis.pl` | No |
+| `askiiart.net` | Yes |
 | `askk.cc` | Yes |
 | `askleo.com` | Yes |
 | `asko.blog` | No |
@@ -41444,6 +41446,7 @@ Here's a list of public Fediverse services.
 | `thatcat.space` | Yes |
 | `thaterikperson.com` | Yes |
 | `thatismunn.my.id` | Yes |
+| `thatone.gay` | Yes |
 | `thatother.site` | No |
 | `thatpanda.com` | No |
 | `thatsaspork.tk` | No |
@@ -46828,7 +46831,7 @@ Here's a list of public Fediverse services.
 | `xn--trt-tna.eu` | No |
 | `xn--twttr-7raz.com` | No |
 | `xn--uiq450e.club` | No |
-| `xn--undsk-jra.se` | No |
+| `xn--undsk-jra.se` | Yes |
 | `xn--videogames-bo3g.gg` | No |
 | `xn--vusz0j.life` | Yes |
 | `xn--wda.fr` | No |
@@ -47976,7 +47979,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,286 |
+| Cloudflare | 13,289 |
 | Normal | 34,642 |
 
 
