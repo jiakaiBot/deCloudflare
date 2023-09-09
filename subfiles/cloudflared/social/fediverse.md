@@ -46534,6 +46534,7 @@ Here's a list of public Fediverse services.
 | `wyx.ee` | Yes |
 | `wzf.wtf` | No |
 | `wznmickey.com` | Yes |
+| `x-just-4.fun` | No |
 | `x-serv.ovh` | No |
 | `x0.com` | No |
 | `x0.dk` | No |
@@ -47995,7 +47996,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,295 |
-| Normal | 34,651 |
+| Normal | 34,652 |
 
 
 </details>
