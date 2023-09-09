@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,335 |
 | social | 4,542 |
-| net | 3,727 |
+| net | 3,728 |
 | org | 2,497 |
 | de | 2,305 |
 
@@ -12982,7 +12982,7 @@ Here's a list of public Fediverse services.
 | `federation.stream` | No |
 | `federicoigne.com` | No |
 | `federotica.com` | No |
-| `fedgram.com` | No |
+| `fedgram.com` | Yes |
 | `fedi-multi-verse.eu` | No |
 | `fedi-verse.info` | No |
 | `fedi.agency` | No |
@@ -24301,6 +24301,7 @@ Here's a list of public Fediverse services.
 | `m400cloud.com` | No |
 | `m4570.com` | Yes |
 | `m4570.xyz` | No |
+| `m4cgyver.net` | No |
 | `m4fx.de` | Yes |
 | `m4rc3l.de` | Yes |
 | `m4sk.in` | Yes |
@@ -36968,6 +36969,7 @@ Here's a list of public Fediverse services.
 | `schwe.by` | Yes |
 | `schweigert.dev` | Yes |
 | `schwend.us` | No |
+| `schweren.dev` | No |
 | `schwerin.social` | No |
 | `schwerkraftlabor.de` | No |
 | `schweter.org` | No |
@@ -47984,8 +47986,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,291 |
-| Normal | 34,645 |
+| Cloudflare | 13,292 |
+| Normal | 34,646 |
 
 
 </details>
