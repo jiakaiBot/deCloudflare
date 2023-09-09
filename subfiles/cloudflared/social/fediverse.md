@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,337 |
-| social | 4,542 |
+| com | 7,338 |
+| social | 4,543 |
 | net | 3,729 |
 | org | 2,499 |
 | de | 2,305 |
@@ -3487,6 +3487,7 @@ Here's a list of public Fediverse services.
 | `azunyan.uk` | No |
 | `azunyu.moe` | No |
 | `azupo.xyz` | No |
+| `azuravt.com` | Yes |
 | `azure.com` | Yes |
 | `azure.icu` | Yes |
 | `azurea.pro` | Yes |
@@ -24693,7 +24694,7 @@ Here's a list of public Fediverse services.
 | `mammutpals.com` | No |
 | `mamoot.party` | No |
 | `mamot.fr` | No |
-| `mamout.xyz` | No |
+| `mamout.xyz` | Yes |
 | `mamushi.io` | No |
 | `mamushka.top` | No |
 | `mamut.cr` | No |
@@ -33959,6 +33960,7 @@ Here's a list of public Fediverse services.
 | `pumpitbetter.com` | No |
 | `pumpkinvrar.com` | No |
 | `punchdrunker.org` | No |
+| `punchpresence.social` | No |
 | `pundo.com` | No |
 | `puni.moe` | No |
 | `puniman.co` | No |
@@ -40758,7 +40760,7 @@ Here's a list of public Fediverse services.
 | `talker.to` | No |
 | `talking.dev` | Yes |
 | `talkingdrupal.social` | No |
-| `talkinghuman.com` | No |
+| `talkinghuman.com` | Yes |
 | `talkopol.is` | No |
 | `talkoverflow.dev` | No |
 | `talkparanormal.social` | No |
@@ -47997,8 +47999,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,298 |
-| Normal | 34,651 |
+| Cloudflare | 13,301 |
+| Normal | 34,650 |
 
 
 </details>
