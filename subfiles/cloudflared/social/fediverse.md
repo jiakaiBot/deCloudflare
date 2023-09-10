@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,347 |
-| social | 4,546 |
+| com | 7,348 |
+| social | 4,548 |
 | net | 3,729 |
-| org | 2,500 |
+| org | 2,501 |
 | de | 2,307 |
 
 
@@ -1682,7 +1682,7 @@ Here's a list of public Fediverse services.
 | `aliceice.de` | No |
 | `aliceriverpark.pw` | No |
 | `alicevie.space` | Yes |
-| `alicey.dev` | No |
+| `alicey.dev` | Yes |
 | `alicia.ne.jp` | No |
 | `alid.pw` | No |
 | `aliel.fr` | No |
@@ -3333,6 +3333,7 @@ Here's a list of public Fediverse services.
 | `avfig.com` | No |
 | `avgeek.social` | No |
 | `avian.space` | Yes |
+| `avianatlas.com` | Yes |
 | `aviate.org` | No |
 | `aviating.com` | No |
 | `aviators.network` | No |
@@ -24544,6 +24545,7 @@ Here's a list of public Fediverse services.
 | `maia.wtf` | No |
 | `maiadereva.net` | No |
 | `maid.army` | No |
+| `maid.lat` | Yes |
 | `maid.zip` | No |
 | `maidsin.space` | No |
 | `maier.social` | No |
@@ -32986,6 +32988,7 @@ Here's a list of public Fediverse services.
 | `plaxon.social` | Yes |
 | `play-my.video` | No |
 | `playadust.social` | No |
+| `playexperience.org` | No |
 | `playgames.jp` | No |
 | `playground.ws` | No |
 | `playingbothsides.top` | No |
@@ -33289,6 +33292,7 @@ Here's a list of public Fediverse services.
 | `polyhymnia.page` | No |
 | `polylux.xyz` | No |
 | `polymath.net` | Yes |
+| `polymaths.social` | No |
 | `polymatic.social` | No |
 | `polymerwitch.com` | No |
 | `polymorph.cool` | No |
@@ -39206,6 +39210,7 @@ Here's a list of public Fediverse services.
 | `speaksthegeek.co.uk` | Yes |
 | `spearman.xyz` | Yes |
 | `spears.social` | Yes |
+| `specht.social` | Yes |
 | `specis.me` | No |
 | `speck.blue` | No |
 | `speckledmonkey.com` | No |
@@ -48019,8 +48024,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,306 |
-| Normal | 34,665 |
+| Cloudflare | 13,310 |
+| Normal | 34,666 |
 
 
 </details>
