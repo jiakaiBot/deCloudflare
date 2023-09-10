@@ -35442,6 +35442,7 @@ Here's a list of public Fediverse services.
 | `rfc1149.net` | No |
 | `rfc1437.de` | No |
 | `rfc1925.org` | Yes |
+| `rferee.dev` | Yes |
 | `rffrs.org` | No |
 | `rfj.social` | No |
 | `rgb.monster` | Yes |
@@ -48032,10 +48033,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,315 |
+| Cloudflare | 13,316 |
 | Normal | 34,669 |
 
 
 </details>
 
-### 27.7% of public Fediverse services are using Cloudflare.
+### 27.8% of public Fediverse services are using Cloudflare.
