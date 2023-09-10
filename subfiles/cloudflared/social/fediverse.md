@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,349 |
 | social | 4,548 |
-| net | 3,729 |
+| net | 3,730 |
 | org | 2,501 |
 | de | 2,307 |
 
@@ -13591,6 +13591,7 @@ Here's a list of public Fediverse services.
 | `firefish.lol` | No |
 | `firefish.nz` | No |
 | `firefish.ooo` | No |
+| `firefish.place` | No |
 | `firefish.ruhr` | No |
 | `firefish.social` | No |
 | `firefish.store` | Yes |
@@ -30879,7 +30880,7 @@ Here's a list of public Fediverse services.
 | `omada.cafe` | Yes |
 | `omaelse.de` | No |
 | `omaera.org` | No |
-| `omani.social` | No |
+| `omani.social` | Yes |
 | `omanko.porn` | Yes |
 | `omar.website` | No |
 | `omaramin.me` | No |
@@ -47596,6 +47597,7 @@ Here's a list of public Fediverse services.
 | `zap.dog` | No |
 | `zapashcanon.fr` | No |
 | `zapchenwellbeing.org` | No |
+| `zapfmeister.net` | Yes |
 | `zaphar.net` | Yes |
 | `zapistan.net` | No |
 | `zapletalovi.com` | Yes |
@@ -48028,7 +48030,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,311 |
+| Cloudflare | 13,313 |
 | Normal | 34,669 |
 
 
