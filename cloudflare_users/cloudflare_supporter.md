@@ -1646,6 +1646,7 @@ Do not create new issue or we will close it as duplicate.
 | [BeepSterr@twitter](https://twitter.com/BeepSterr/status/1543233083536728065) | advertise |
 | [Beesalmishra@twitter](https://twitter.com/Beesalmishra/status/1647638628158562305) | advertise |
 | [begadabdelghany@twitter](https://twitter.com/begadabdelghany/status/1541926549846376450) | advertise |
+| [BehdadRezapour@twitter](https://twitter.com/BehdadRezapour/status/1700989100738875747) | advertise |
 | [BehdadTar@twitter](https://twitter.com/BehdadTar/status/1601730063166107648) | advertise |
 | [BehnamMoaddabi@twitter](https://twitter.com/BehnamMoaddabi/status/1573976099519881218) | advertise |
 | [behraya@twitter](https://twitter.com/behraya/status/1477938099699208198) | advertise |
@@ -10258,6 +10259,7 @@ Do not create new issue or we will close it as duplicate.
 | [Puma98911029@twitter](https://twitter.com/Puma98911029/status/1578437530591952897) | advertise |
 | [pumkid15@twitter](https://twitter.com/pumkid15/status/1617486784811732994) | advertise |
 | [Pumpkin76122016@twitter](https://twitter.com/Pumpkin76122016/status/1404432604934205444) | advertise |
+| [PungCfc@twitter](https://twitter.com/PungCfc/status/1700992839340241112) | advertise |
 | [PUNISHE56843209@twitter](https://twitter.com/PUNISHE56843209/status/1387023915801747463) | advertise |
 | [Punnampidishet1@twitter](https://twitter.com/Punnampidishet1/status/1386990158772277248) | advertise |
 | [PuntoWicaksono@twitter](https://twitter.com/PuntoWicaksono/status/1589562583757258752) | advertise |
