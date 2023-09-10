@@ -1924,6 +1924,7 @@ Do not create new issue or we will close it as duplicate.
 | [BonfireZone@twitter](https://twitter.com/BonfireZone/status/1432302355488329733) | advertise |
 | [bonguyn29688521@twitter](https://twitter.com/bonguyn29688521/status/1402308865257918465) | advertise |
 | [BonifaceVivo@twitter](https://twitter.com/BonifaceVivo/status/1596592029613424640) | advertise |
+| [bonitavee@twitter](https://twitter.com/bonitavee/status/1700887954745659485) | advertise |
 | [BonsaFuad@twitter](https://twitter.com/BonsaFuad/status/1644469362668244992) | advertise |
 | [BoNusT_14@twitter](https://twitter.com/BoNusT_14/status/1381775064530513923) | advertise |
 | [BoNyan12573044@twitter](https://twitter.com/BoNyan12573044/status/1389649229908377601) | advertise |
@@ -4290,6 +4291,7 @@ Do not create new issue or we will close it as duplicate.
 | [HanSoeKyaw3@twitter](https://twitter.com/HanSoeKyaw3/status/1389948031680749573) | advertise |
 | [HanSoeThet4@twitter](https://twitter.com/HanSoeThet4/status/1389911744122867717) | advertise |
 | [hansulwin8@twitter](https://twitter.com/hansulwin8/status/1391304251087929344) | advertise |
+| [HanThit15@twitter](https://twitter.com/HanThit15/status/1700883633454899322) | advertise |
 | [hanweWin1@twitter](https://twitter.com/hanweWin1/status/1403348385470451712) | advertise |
 | [HanWinZ47955018@twitter](https://twitter.com/HanWinZ47955018/status/1382000077342842884) | advertise |
 | [hanyesamclinic@twitter](https://twitter.com/hanyesamclinic/status/1679661827343495168) | advertise |
@@ -12741,6 +12743,7 @@ Do not create new issue or we will close it as duplicate.
 | [TiuCa31571299@twitter](https://twitter.com/TiuCa31571299/status/1379215328140353539) | advertise |
 | [TiuLamTam1@twitter](https://twitter.com/TiuLamTam1/status/1405713320758321158) | advertise |
 | [TiziMarketing@twitter](https://twitter.com/TiziMarketing/status/1383784834225434627) | advertise |
+| [TJBond4@twitter](https://twitter.com/TJBond4/status/1700863042559586671) | advertise |
 | [tjxupnex@twitter](https://twitter.com/tjxupnex/status/1394284882130608135) | advertise |
 | [TKDirect_co@twitter](https://twitter.com/TKDirect_co/status/1619744886898712581) | advertise |
 | [TKNguyen12a9@twitter](https://twitter.com/TKNguyen12a9/status/1581408397668548608) | advertise |
@@ -13355,6 +13358,7 @@ Do not create new issue or we will close it as duplicate.
 | [VanshRa26933281@twitter](https://twitter.com/VanshRa26933281/status/1400390812681211907) | advertise |
 | [VanshSahni17@twitter](https://twitter.com/VanshSahni17/status/1549586329901535234) | advertise |
 | [vanthuyet993@twitter](https://twitter.com/vanthuyet993/status/1669881691022966792) | advertise |
+| [vantuan78794614@twitter](https://twitter.com/vantuan78794614/status/1700878816879763731) | advertise |
 | [VanVienNguyen1@twitter](https://twitter.com/VanVienNguyen1/status/1583101708531421185) | advertise |
 | [van_2808@twitter](https://twitter.com/van_2808/status/1406078940389593095) | advertise |
 | [van_dakip@twitter](https://twitter.com/van_dakip/status/1567230373565710343) | advertise |
