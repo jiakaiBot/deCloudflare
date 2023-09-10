@@ -5625,6 +5625,7 @@ Here's a list of public Fediverse services.
 | `brrt.eu` | No |
 | `brsjrn.fr` | No |
 | `brso.social` | No |
+| `brsu.me` | No |
 | `bru.su` | Yes |
 | `bruceblog.net` | No |
 | `brucknerite.net` | No |
@@ -48000,7 +48001,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,301 |
-| Normal | 34,650 |
+| Normal | 34,651 |
 
 
 </details>
