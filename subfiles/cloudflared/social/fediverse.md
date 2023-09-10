@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,348 |
+| com | 7,349 |
 | social | 4,548 |
 | net | 3,729 |
 | org | 2,501 |
@@ -976,6 +976,7 @@ Here's a list of public Fediverse services.
 | `acab.systems` | No |
 | `academe.social` | No |
 | `academe.world` | No |
+| `academia.pub` | No |
 | `academic.social` | No |
 | `academiccloud.social` | No |
 | `academictalk.org` | Yes |
@@ -18770,7 +18771,7 @@ Here's a list of public Fediverse services.
 | `indymotion.fr` | No |
 | `indytelegraph.com` | No |
 | `ineedthis.com` | Yes |
-| `ineptiarum.ca` | No |
+| `ineptiarum.ca` | Yes |
 | `inertdata.com` | No |
 | `ineru.cc` | Yes |
 | `inessential.com` | No |
@@ -28200,6 +28201,7 @@ Here's a list of public Fediverse services.
 | `mw.social` | No |
 | `mwang.monster` | Yes |
 | `mwangmwang.monster` | Yes |
+| `mwaters7eu2pyfcz36oehlc3htnqarakd7meeyz4lvbubff64ethxzqd.com` | No |
 | `mwegner.com` | Yes |
 | `mwknet.de` | No |
 | `mwl.io` | No |
@@ -42379,6 +42381,7 @@ Here's a list of public Fediverse services.
 | `tisato.live` | Yes |
 | `tissink.me` | No |
 | `tissuebox.art` | Yes |
+| `titanplusplus.online` | No |
 | `titey.net` | No |
 | `titi.me.uk` | No |
 | `titilat.com` | Yes |
@@ -48024,8 +48027,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,310 |
-| Normal | 34,666 |
+| Cloudflare | 13,311 |
+| Normal | 34,668 |
 
 
 </details>
