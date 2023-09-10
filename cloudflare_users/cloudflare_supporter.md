@@ -8103,6 +8103,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mj7cYbVQoKbIbAW@twitter](https://twitter.com/Mj7cYbVQoKbIbAW/status/1497861567089680384) | advertise |
 | [mk4serv@twitter](https://twitter.com/mk4serv/status/1430672404968321025) | advertise |
 | [mk60970404@twitter](https://twitter.com/mk60970404/status/1389885832807342083) | advertise |
+| [mk1700579249@twitter](https://twitter.com/mk1700579249/status/1700918706011091009) | advertise |
 | [mkbentre@twitter](https://twitter.com/mkbentre/status/1505495883622010881) | advertise |
 | [mkhyunie@twitter](https://twitter.com/mkhyunie/status/1402262464369250316) | advertise |
 | [mkk01612638@twitter](https://twitter.com/mkk01612638/status/1391092816718139395) | advertise |
@@ -11619,6 +11620,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sniper5Szn@twitter](https://twitter.com/Sniper5Szn/status/1391481893581844482) | advertise |
 | [Snitchblaster9@twitter](https://twitter.com/Snitchblaster9/status/1396532090141777921) | advertise |
 | [SnNguyn070193@twitter](https://twitter.com/SnNguyn070193/status/1519124575921278976) | advertise |
+| [SnNguyn28343514@twitter](https://twitter.com/SnNguyn28343514/status/1700915679032115425) | advertise |
 | [SnNguyn58842118@twitter](https://twitter.com/SnNguyn58842118/status/1383442972981620744) | advertise |
 | [snowbunnymother@twitter](https://twitter.com/snowbunnymother/status/1399210217276162052) | advertise |
 | [snowy182017@twitter](https://twitter.com/snowy182017/status/1392724631753150467) | advertise |
@@ -13867,6 +13869,7 @@ Do not create new issue or we will close it as duplicate.
 | [Wooddadda13@twitter](https://twitter.com/Wooddadda13/status/1393045087119056898) | advertise |
 | [Woodkamsomida@twitter](https://twitter.com/Woodkamsomida/status/1616000203223629826) | advertise |
 | [woodwardweird@twitter](https://twitter.com/woodwardweird/status/1552995500420263936) | advertise |
+| [wood_bosto4383@twitter](https://twitter.com/wood_bosto4383/status/1700909929190871261) | advertise |
 | [WoolongCorp@twitter](https://twitter.com/WoolongCorp/status/1630241563010891778) | advertise |
 | [WoolongsC@twitter](https://twitter.com/WoolongsC/status/1455335970610589696) | advertise |
 | [woraperth@twitter](https://twitter.com/woraperth/status/1527100429905334273) | advertise |
