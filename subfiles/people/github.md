@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Worker error while chatting with LLM](https://github.com/janhq/jan/issues/120)
 - [Handshake status 403 Forbidden](https://github.com/helallao/perplexity-ai/issues/11)
 - [Conflict with the Super Page Cache for Cloudflare (SPCC ) plugin when trying to saving the Yoast SEO settings.](https://github.com/Yoast/wordpress-seo/issues/20626)
 - [3.3.4 wont detect CloudFlare Protection](https://github.com/FlareSolverr/FlareSolverr/issues/892)
