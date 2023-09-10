@@ -2987,6 +2987,7 @@ Do not create new issue or we will close it as duplicate.
 | [DimensionWeb@twitter](https://twitter.com/DimensionWeb/status/1517072901673041920) | advertise |
 | [dimitri_twt@twitter](https://twitter.com/dimitri_twt/status/1650200767167438855) | advertise |
 | [Dimple83590037@twitter](https://twitter.com/Dimple83590037/status/1391730872240463878) | advertise |
+| [dimyl452@twitter](https://twitter.com/dimyl452/status/1700858469375774733) | advertise |
 | [Dina98163760@twitter](https://twitter.com/Dina98163760/status/1401385319220580358) | advertise |
 | [DinDin42991569@twitter](https://twitter.com/DinDin42991569/status/1396071757589532676) | advertise |
 | [Dinesh51309497@twitter](https://twitter.com/Dinesh51309497/status/1386739717949976576) | advertise |
@@ -9475,6 +9476,7 @@ Do not create new issue or we will close it as duplicate.
 | [OdunmbakuAyomi2@twitter](https://twitter.com/OdunmbakuAyomi2/status/1406588138479292416) | advertise |
 | [odwelly@twitter](https://twitter.com/odwelly/status/1432723252154089492) | advertise |
 | [OfClicking@twitter](https://twitter.com/OfClicking/status/1509091140884070400) | advertise |
+| [official22023@twitter](https://twitter.com/official22023/status/1700849345896304833) | advertise |
 | [OfficialD3ds3c@twitter](https://twitter.com/OfficialD3ds3c/status/1497239247199293442) | advertise |
 | [officialmiplay@twitter](https://twitter.com/officialmiplay/status/1411076180300779530) | moral (advertise) |
 | [OfficialSs34@twitter](https://twitter.com/OfficialSs34/status/1389541392251293705) | advertise |
@@ -10036,6 +10038,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pipi14325830@twitter](https://twitter.com/Pipi14325830/status/1384741647187992580) | advertise |
 | [pipimkt@twitter](https://twitter.com/pipimkt/status/1552021822321086464) | advertise |
 | [PirrEnot@twitter](https://twitter.com/PirrEnot/status/1528501311674716162) | advertise |
+| [PisaGmg@twitter](https://twitter.com/PisaGmg/status/1700808763140460693) | advertise |
 | [PishouV@twitter](https://twitter.com/PishouV/status/1577489311074844673) | advertise |
 | [pislisSniflis@twitter](https://twitter.com/pislisSniflis/status/1571786956195115009) | advertise |
 | [Pitaboy87@twitter](https://twitter.com/Pitaboy87/status/1592513012744982531) | advertise |
