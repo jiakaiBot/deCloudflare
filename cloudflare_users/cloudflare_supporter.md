@@ -3764,6 +3764,7 @@ Do not create new issue or we will close it as duplicate.
 | [foolkhan10@twitter](https://twitter.com/foolkhan10/status/1632284628005388288) | advertise |
 | [foreveraloneami@twitter](https://twitter.com/foreveraloneami/status/1382509367673561088) | advertise |
 | [foreverfIawless@twitter](https://twitter.com/foreverfIawless/status/1612795011480838146) | advertise |
+| [ForHad42656837@twitter](https://twitter.com/ForHad42656837/status/1700956407036842444) | advertise |
 | [ForidUd69936856@twitter](https://twitter.com/ForidUd69936856/status/1402253597501362182) | advertise |
 | [Forms_Ge@twitter](https://twitter.com/Forms_Ge/status/1413774450676453384) | advertise |
 | [fouaadbarcha@twitter](https://twitter.com/fouaadbarcha/status/1636104214572335104) | advertise |
