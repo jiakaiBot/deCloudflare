@@ -4644,6 +4644,7 @@ Do not create new issue or we will close it as duplicate.
 | [hnnc_04@twitter](https://twitter.com/hnnc_04/status/1665889539108503552) | advertise |
 | [hNYFxvRiuF94Rng@twitter](https://twitter.com/hNYFxvRiuF94Rng/status/1389943967907663878) | advertise |
 | [hn_f22@twitter](https://twitter.com/hn_f22/status/1536824233799581699) | advertise |
+| [HN_thuy_14@twitter](https://twitter.com/HN_thuy_14/status/1700936123558813828) | advertise |
 | [Ho83325255@twitter](https://twitter.com/Ho83325255/status/1588855516142645252) | advertise |
 | [Hoa10043102@twitter](https://twitter.com/Hoa10043102/status/1381035225271046144) | advertise |
 | [Hoa22631939Minh@twitter](https://twitter.com/Hoa22631939Minh/status/1485863462912020488) | advertise |
