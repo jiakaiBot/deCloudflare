@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,344 |
-| social | 4,545 |
+| com | 7,346 |
+| social | 4,546 |
 | net | 3,729 |
 | org | 2,500 |
-| de | 2,305 |
+| de | 2,307 |
 
 
 - Mastodon, Pleroma, etc
@@ -14781,6 +14781,7 @@ Here's a list of public Fediverse services.
 | `fusenigk.de` | No |
 | `fusenstage.com` | Yes |
 | `fusionpatrol.com` | No |
+| `fusionpatrol.social` | No |
 | `fusionpros.social` | No |
 | `fusky.social` | No |
 | `fusselkater.org` | No |
@@ -15728,6 +15729,7 @@ Here's a list of public Fediverse services.
 | `glittersluts.xyz` | No |
 | `glitterwillowforest.xyz` | No |
 | `glittr.social` | Yes |
+| `glitzerarmeefraktion.de` | No |
 | `gllmr.fr` | No |
 | `global-social.net` | No |
 | `globaleas.org` | Yes |
@@ -27514,6 +27516,7 @@ Here's a list of public Fediverse services.
 | `morimoto.link` | Yes |
 | `moritoworks.com` | Yes |
 | `moritrunk.com` | Yes |
+| `moritxius.de` | Yes |
 | `moritz.me` | No |
 | `moritz.sh` | No |
 | `moritzmahringer.de` | No |
@@ -27992,6 +27995,7 @@ Here's a list of public Fediverse services.
 | `mtx.cx` | Yes |
 | `mtxyz.me` | No |
 | `mtzlr.io` | No |
+| `mu-omega-mu.com` | Yes |
 | `mu-ori.me` | No |
 | `mu7ou.com` | No |
 | `muage.org` | No |
@@ -33567,6 +33571,7 @@ Here's a list of public Fediverse services.
 | `prayerforwords.com` | No |
 | `prb1.es` | No |
 | `prdg.be` | No |
+| `prealpinux.com` | No |
 | `preceptor.pl` | No |
 | `precious.net` | No |
 | `preciouslittle.life` | No |
@@ -36933,7 +36938,7 @@ Here's a list of public Fediverse services.
 | `schneider.vip` | No |
 | `schnitzel-mit-pommes.de` | No |
 | `schnitzler.one` | No |
-| `schnitzler.pro` | No |
+| `schnitzler.pro` | Yes |
 | `schnuffle.de` | No |
 | `schnurbus.de` | No |
 | `schoebel-online.net` | Yes |
@@ -48011,8 +48016,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,302 |
-| Normal | 34,661 |
+| Cloudflare | 13,305 |
+| Normal | 34,663 |
 
 
 </details>
