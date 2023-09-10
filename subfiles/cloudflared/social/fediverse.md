@@ -26201,6 +26201,7 @@ Here's a list of public Fediverse services.
 | `meow.academy` | No |
 | `meow.beauty` | Yes |
 | `meow.camp` | No |
+| `meow.church` | Yes |
 | `meow.cloud` | No |
 | `meow.day` | Yes |
 | `meow.enterprises` | No |
@@ -48031,7 +48032,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,314 |
+| Cloudflare | 13,315 |
 | Normal | 34,669 |
 
 
