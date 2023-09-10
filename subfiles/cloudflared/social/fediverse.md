@@ -10516,7 +10516,7 @@ Here's a list of public Fediverse services.
 | `dogbottom.com` | No |
 | `dogbox.social` | No |
 | `dogboy.xyz` | Yes |
-| `dogcow.us` | No |
+| `dogcow.us` | Yes |
 | `dogcraft.cn` | Yes |
 | `dogcraft.top` | Yes |
 | `dogden.xyz` | No |
@@ -26230,6 +26230,7 @@ Here's a list of public Fediverse services.
 | `mepiu.it` | No |
 | `mer.moe` | Yes |
 | `merab.xyz` | No |
+| `mercadosocial.madrid` | No |
 | `mercerist.space` | No |
 | `merci-la-police.fr` | No |
 | `mercurial.blog` | No |
@@ -48030,7 +48031,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,313 |
+| Cloudflare | 13,314 |
 | Normal | 34,669 |
 
 
