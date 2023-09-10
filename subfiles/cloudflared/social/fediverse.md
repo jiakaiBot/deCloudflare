@@ -29621,6 +29621,7 @@ Here's a list of public Fediverse services.
 | `niwatori.cyou` | No |
 | `niwatoriman.me` | Yes |
 | `niwiad.dev` | No |
+| `niwim.ovh` | No |
 | `nix.ac` | No |
 | `nix.ai` | No |
 | `nix.uno` | No |
@@ -48028,7 +48029,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,311 |
-| Normal | 34,668 |
+| Normal | 34,669 |
 
 
 </details>
