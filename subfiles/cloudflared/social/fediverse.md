@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,338 |
-| social | 4,543 |
+| com | 7,344 |
+| social | 4,545 |
 | net | 3,729 |
-| org | 2,499 |
+| org | 2,500 |
 | de | 2,305 |
 
 
@@ -763,6 +763,7 @@ Here's a list of public Fediverse services.
 | `91x.gg` | Yes |
 | `940213.xyz` | Yes |
 | `9478.ch` | No |
+| `963.pm` | No |
 | `98degrees.co.uk` | Yes |
 | `999983.xyz` | No |
 | `9chan.lol` | No |
@@ -4374,6 +4375,7 @@ Here's a list of public Fediverse services.
 | `bibinim.me` | Yes |
 | `bible.social` | Yes |
 | `biblenotes.co.uk` | Yes |
+| `bibletalk.social` | No |
 | `biblewordpress.net` | No |
 | `biblewp.com` | No |
 | `biblewp.net` | Yes |
@@ -7286,6 +7288,7 @@ Here's a list of public Fediverse services.
 | `cleantechnica.com` | Yes |
 | `clearairflying.com` | Yes |
 | `clearbackblast.com` | No |
+| `clearbluecapital.com` | No |
 | `clearly.rocks` | Yes |
 | `clearpixels.org` | Yes |
 | `cleary.au` | No |
@@ -7298,6 +7301,7 @@ Here's a list of public Fediverse services.
 | `clesports.social` | No |
 | `cleverangel.org` | No |
 | `cleverdevil.club` | No |
+| `cleversets.com` | No |
 | `clew.lol` | No |
 | `clic2000.net` | No |
 | `click.ba.it` | Yes |
@@ -9081,6 +9085,7 @@ Here's a list of public Fediverse services.
 | `daniilrose.com` | Yes |
 | `danirod.es` | No |
 | `danis.one` | Yes |
+| `danitheskunk.com` | No |
 | `danj.ca` | No |
 | `danjiadi.com` | Yes |
 | `dank-me.me` | Yes |
@@ -11239,6 +11244,7 @@ Here's a list of public Fediverse services.
 | `earldouglas.social` | No |
 | `earne.link` | No |
 | `earnestly.dev` | No |
+| `earnestpettie.com` | Yes |
 | `earpnation.social` | No |
 | `earth-hab.network` | No |
 | `earth-metal.com` | No |
@@ -12191,6 +12197,7 @@ Here's a list of public Fediverse services.
 | `escargot.com` | No |
 | `escepticos.es` | Yes |
 | `eschler.net` | Yes |
+| `escobar.social` | No |
 | `escovan.net` | No |
 | `escpod.fun` | No |
 | `escribitionist.com` | No |
@@ -16173,6 +16180,7 @@ Here's a list of public Fediverse services.
 | `greedygretchen.com` | No |
 | `greek-true-social.ga` | No |
 | `greekgodbod.com` | No |
+| `greeksocial.eu` | No |
 | `green-owl-technology.com` | No |
 | `greenboi.me` | Yes |
 | `greenboys.club` | No |
@@ -16742,6 +16750,7 @@ Here's a list of public Fediverse services.
 | `halfling13.com` | No |
 | `halfmemories.com` | Yes |
 | `halfpastfour.club` | No |
+| `halfrealm.com` | No |
 | `halfstreet.social` | No |
 | `halibut.com` | No |
 | `halifaxsocial.ca` | No |
@@ -18244,6 +18253,7 @@ Here's a list of public Fediverse services.
 | `iaccessibility.social` | No |
 | `iaconunderground.net` | No |
 | `iaddg.net` | No |
+| `iafpo.org` | No |
 | `iaia.moe` | No |
 | `ialis.me` | No |
 | `ialys.net` | Yes |
@@ -31946,6 +31956,7 @@ Here's a list of public Fediverse services.
 | `pasabo.ca` | No |
 | `pasay.social` | No |
 | `pascal-leinert.de` | No |
+| `pascalworks.com` | No |
 | `pasdo.com` | Yes |
 | `pasero.net` | No |
 | `pash.moe` | No |
@@ -48000,8 +48011,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,301 |
-| Normal | 34,651 |
+| Cloudflare | 13,302 |
+| Normal | 34,661 |
 
 
 </details>
