@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,346 |
+| com | 7,347 |
 | social | 4,546 |
 | net | 3,729 |
 | org | 2,500 |
@@ -10284,6 +10284,7 @@ Here's a list of public Fediverse services.
 | `diskofgrain.xyz` | No |
 | `diskseven.com` | No |
 | `dislive.me` | Yes |
+| `dism.ink` | No |
 | `disney.host` | No |
 | `disobey.net` | No |
 | `dispark.org` | Yes |
@@ -15401,6 +15402,7 @@ Here's a list of public Fediverse services.
 | `geoffray-levasseur.org` | No |
 | `geofox.org` | Yes |
 | `geofront.rocks` | No |
+| `geolove1456.com` | No |
 | `geontime.com` | No |
 | `geoplanetary.net` | Yes |
 | `geordieguy.au` | No |
@@ -33796,6 +33798,7 @@ Here's a list of public Fediverse services.
 | `proquality.ro` | No |
 | `proquestinations.com` | No |
 | `prose.zone` | No |
+| `prosigl.io` | Yes |
 | `prosopa.org` | No |
 | `prosou.nu` | No |
 | `prospeech.space` | No |
@@ -48016,8 +48019,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,305 |
-| Normal | 34,663 |
+| Cloudflare | 13,306 |
+| Normal | 34,665 |
 
 
 </details>
