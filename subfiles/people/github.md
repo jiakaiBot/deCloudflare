@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Workers Issues](https://github.com/SecOpsNews/news/issues/18628)
+- [CloudFlare Cloudflare Workers Issues](https://github.com/hinoshiba/news/issues/3297)
 - [CloudFlare User Agents wall](https://github.com/webrecorder/browsertrix-crawler/issues/372)
 - [Array Buffer for a file > 4GB will result in a buffer with truncated data](https://github.com/oven-sh/bun/issues/4897)
 - [Improvements to current pub IP logic](https://github.com/HarshKapadia2/dynamic-dns/issues/1)
