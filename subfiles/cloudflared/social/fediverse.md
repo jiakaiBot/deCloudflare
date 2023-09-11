@@ -33185,6 +33185,7 @@ Here's a list of public Fediverse services.
 | `podcastindex.social` | No |
 | `podcastliste.de` | No |
 | `podcasts.chat` | No |
+| `podcasts.homes` | No |
 | `podcasts.paris` | No |
 | `podcasts.social` | No |
 | `poddery.com` | No |
@@ -48048,7 +48049,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,325 |
-| Normal | 34,674 |
+| Normal | 34,675 |
 
 
 </details>
