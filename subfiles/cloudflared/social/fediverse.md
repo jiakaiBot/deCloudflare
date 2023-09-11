@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,351 |
-| social | 4,550 |
+| social | 4,551 |
 | net | 3,733 |
 | org | 2,501 |
 | de | 2,310 |
@@ -2583,6 +2583,7 @@ Here's a list of public Fediverse services.
 | `arakelyan.uk` | Yes |
 | `araneum.org` | No |
 | `aranfielder.art` | No |
+| `arasaka.biz` | No |
 | `arasaka.uk` | Yes |
 | `arasaka.vip` | No |
 | `arashi.news` | No |
@@ -8725,6 +8726,7 @@ Here's a list of public Fediverse services.
 | `cyber.cafe` | No |
 | `cyber.gent` | Yes |
 | `cyber.hockey` | No |
+| `cyber.ms` | No |
 | `cyber.social` | No |
 | `cyberbunker.tech` | No |
 | `cyberbunny.club` | No |
@@ -8736,7 +8738,7 @@ Here's a list of public Fediverse services.
 | `cybercrew.site` | No |
 | `cybercriminal.eu` | No |
 | `cybercriminology.nl` | No |
-| `cybercrusade.xyz` | Yes |
+| `cybercrusade.xyz` | No |
 | `cybercuties.net` | No |
 | `cyberdeck.cf` | No |
 | `cyberdeck.social` | No |
@@ -24548,6 +24550,7 @@ Here's a list of public Fediverse services.
 | `mahagyani.net` | No |
 | `mahakala.tech` | No |
 | `mahalle.li` | No |
+| `mahalo.social` | No |
 | `mahiradon.com` | Yes |
 | `mahjong.fan` | No |
 | `mahler.earth` | Yes |
@@ -27140,7 +27143,7 @@ Here's a list of public Fediverse services.
 | `mn9.de` | No |
 | `mnas.info` | No |
 | `mnau.xyz` | Yes |
-| `mnck.dev` | No |
+| `mnck.dev` | Yes |
 | `mndet.net` | No |
 | `mne.social` | No |
 | `mnementh.co.uk` | No |
@@ -29949,6 +29952,7 @@ Here's a list of public Fediverse services.
 | `nope.blog` | No |
 | `nope.foo` | Yes |
 | `nope.social` | No |
+| `nopeeking.link` | Yes |
 | `nophase.net` | No |
 | `noplasticshowers.com` | No |
 | `noppy.jp` | No |
@@ -48056,8 +48060,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,329 |
-| Normal | 34,679 |
+| Cloudflare | 13,330 |
+| Normal | 34,682 |
 
 
 </details>
