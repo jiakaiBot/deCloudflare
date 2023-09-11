@@ -4557,6 +4557,7 @@ Do not create new issue or we will close it as duplicate.
 | [hismineaf@twitter](https://twitter.com/hismineaf/status/1665874525286793227) | advertise |
 | [HisyxmAhmxd@twitter](https://twitter.com/HisyxmAhmxd/status/1681182355812409344) | advertise |
 | [hitschieu@twitter](https://twitter.com/hitschieu/status/1631172281455067138) | advertise |
+| [Hiu11448420@twitter](https://twitter.com/Hiu11448420/status/1701267493879472233) | advertise |
 | [Hiu34261835@twitter](https://twitter.com/Hiu34261835/status/1579893113287766017) | advertise |
 | [Hiu36827414@twitter](https://twitter.com/Hiu36827414/status/1391153248950644740) | advertise |
 | [Hiu62637495@twitter](https://twitter.com/Hiu62637495/status/1401626342945296385) | advertise |
@@ -11418,6 +11419,7 @@ Do not create new issue or we will close it as duplicate.
 | [Shion_BFV@twitter](https://twitter.com/Shion_BFV/status/1667408934041423874) | advertise |
 | [shipman_craig@twitter](https://twitter.com/shipman_craig/status/1386674129693196291) | advertise |
 | [ShipStoreco@twitter](https://twitter.com/ShipStoreco/status/1371295374246285313) | advertise |
+| [shiraghami@twitter](https://twitter.com/shiraghami/status/1701271831398015134) | advertise |
 | [Shireen21778793@twitter](https://twitter.com/Shireen21778793/status/1404067613232099332) | advertise |
 | [Shirogane1092@twitter](https://twitter.com/Shirogane1092/status/1384817156747972608) | advertise |
 | [Shiroizdabezt@twitter](https://twitter.com/Shiroizdabezt/status/1492443603813408768) | advertise |
