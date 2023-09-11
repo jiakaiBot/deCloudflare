@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,351 |
 | social | 4,551 |
 | net | 3,733 |
-| org | 2,501 |
+| org | 2,500 |
 | de | 2,310 |
 
 
@@ -16524,7 +16524,7 @@ Here's a list of public Fediverse services.
 | `gwitter.li` | No |
 | `gwomp.com` | No |
 | `gww.app` | No |
-| `gwynnestudio.com` | Yes |
+| `gwynnestudio.com` | No |
 | `gxc.io` | Yes |
 | `gxnetwork.net` | Yes |
 | `gxtech.social` | Yes |
@@ -20764,7 +20764,7 @@ Here's a list of public Fediverse services.
 | `kamisato.xyz` | Yes |
 | `kamiyacho.net` | No |
 | `kammeratadam.dk` | No |
-| `kammeyer.xyz` | No |
+| `kammeyer.xyz` | Yes |
 | `kamp.site` | No |
 | `kampa.si` | No |
 | `kampftoast.de` | No |
@@ -44341,7 +44341,6 @@ Here's a list of public Fediverse services.
 | `urizen.eu` | No |
 | `urizen.net` | No |
 | `urkob.com` | No |
-| `url404.org` | No |
 | `urlo-tech.de` | No |
 | `urls.fyi` | No |
 | `urlxl.com` | Yes |
@@ -48061,7 +48060,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,330 |
-| Normal | 34,682 |
+| Normal | 34,681 |
 
 
 </details>
