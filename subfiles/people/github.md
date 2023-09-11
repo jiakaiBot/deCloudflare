@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: Error solving the challenge. Message: invalid session id](https://github.com/FlareSolverr/FlareSolverr/issues/898)
 - [CloudFlare Cloudflare Workers Issues](https://github.com/SecOpsNews/news/issues/18628)
 - [CloudFlare Cloudflare Workers Issues](https://github.com/hinoshiba/news/issues/3297)
 - [CloudFlare User Agents wall](https://github.com/webrecorder/browsertrix-crawler/issues/372)
