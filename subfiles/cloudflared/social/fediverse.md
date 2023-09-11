@@ -12435,6 +12435,7 @@ Here's a list of public Fediverse services.
 | `evilgeniuschronicles.org` | No |
 | `evilma.id` | No |
 | `evilmeow.com` | Yes |
+| `evilmuff.in` | Yes |
 | `evilolive.dev` | Yes |
 | `evilscientress.de` | No |
 | `eviltoast.org` | Yes |
@@ -16675,7 +16676,7 @@ Here's a list of public Fediverse services.
 | `hacky.town` | No |
 | `hackzenwerk.org` | No |
 | `hacst.net` | No |
-| `hact.org` | No |
+| `hact.org` | Yes |
 | `hactivedirectory.com` | Yes |
 | `hacusk.net` | Yes |
 | `haddock.cc` | Yes |
@@ -48044,8 +48045,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,323 |
-| Normal | 34,673 |
+| Cloudflare | 13,325 |
+| Normal | 34,672 |
 
 
 </details>
