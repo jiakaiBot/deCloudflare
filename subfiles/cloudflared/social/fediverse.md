@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,350 |
-| social | 4,549 |
+| com | 7,351 |
+| social | 4,550 |
 | net | 3,733 |
 | org | 2,501 |
 | de | 2,310 |
@@ -5658,6 +5658,7 @@ Here's a list of public Fediverse services.
 | `bruta.link` | Yes |
 | `brutsellog.nl` | No |
 | `bruvland.com` | Yes |
+| `brvy.space` | Yes |
 | `brx.io` | No |
 | `bry.bar` | No |
 | `bryanmacmurray.com` | No |
@@ -19541,6 +19542,7 @@ Here's a list of public Fediverse services.
 | `jacky.wtf` | No |
 | `jacl.tech` | Yes |
 | `jacobandersen.dev` | Yes |
+| `jacobcovell.com` | No |
 | `jacobhaddon.com` | No |
 | `jacobian.org` | Yes |
 | `jacobneplokh.com` | Yes |
@@ -44315,6 +44317,7 @@ Here's a list of public Fediverse services.
 | `urbanmind.net` | Yes |
 | `urbanodin.org` | Yes |
 | `urbansolarpunk.social` | No |
+| `urbansound.social` | No |
 | `urbanwildlife.biz` | No |
 | `urbanwolf.xyz` | No |
 | `urchan.org` | No |
@@ -48053,8 +48056,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,328 |
-| Normal | 34,677 |
+| Cloudflare | 13,329 |
+| Normal | 34,679 |
 
 
 </details>
