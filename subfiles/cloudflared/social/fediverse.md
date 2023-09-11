@@ -6508,6 +6508,7 @@ Here's a list of public Fediverse services.
 | `cdbrdr.com` | Yes |
 | `cdda.social` | No |
 | `cde.social` | No |
+| `cdi.nu` | Yes |
 | `cdibluetooth.com` | Yes |
 | `cdmx.rocks` | No |
 | `cdownie.co.uk` | Yes |
@@ -48038,7 +48039,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,319 |
+| Cloudflare | 13,320 |
 | Normal | 34,671 |
 
 
