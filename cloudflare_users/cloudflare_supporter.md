@@ -5992,6 +5992,7 @@ Do not create new issue or we will close it as duplicate.
 | [kartik20031@twitter](https://twitter.com/kartik20031/status/1401516345284464643) | advertise |
 | [KartikT93021170@twitter](https://twitter.com/KartikT93021170/status/1378252832911060993) | advertise |
 | [Kartoz12@twitter](https://twitter.com/Kartoz12/status/1393136545595498496) | advertise |
+| [KASA021907@twitter](https://twitter.com/KASA021907/status/1701282626408178069) | advertise |
 | [KASAB786@twitter](https://twitter.com/KASAB786/status/1682144200605982720) | advertise |
 | [kashyapyash306@twitter](https://twitter.com/kashyapyash306/status/1402270575293239306) | advertise |
 | [KasiditBoom@twitter](https://twitter.com/KasiditBoom/status/1608692849939460100) | advertise |
@@ -9304,6 +9305,7 @@ Do not create new issue or we will close it as duplicate.
 | [NomanNoor@twitter](https://twitter.com/NomanNoor/status/1511594810297229315) | advertise |
 | [nomercy888806@twitter](https://twitter.com/nomercy888806/status/1533850898551693313) | advertise |
 | [NomiHarley@twitter](https://twitter.com/NomiHarley/status/1688170018633375745) | advertise |
+| [NominThewmal@twitter](https://twitter.com/NominThewmal/status/1701285029127791075) | advertise |
 | [nomkhae@twitter](https://twitter.com/nomkhae/status/1519560089258332160) | advertise |
 | [NomRageCafe@twitter](https://twitter.com/NomRageCafe/status/1512087137952301059) | advertise |
 | [Noname01O@twitter](https://twitter.com/Noname01O/status/1603634938711941120) | advertise |
@@ -12023,6 +12025,7 @@ Do not create new issue or we will close it as duplicate.
 | [t03739787@twitter](https://twitter.com/t03739787/status/1611713527416512514) | advertise |
 | [T05349547@twitter](https://twitter.com/T05349547/status/1671193309119905792) | advertise |
 | [T2ikJpl7nVsB4AN@twitter](https://twitter.com/T2ikJpl7nVsB4AN/status/1548789731005124608) | advertise |
+| [t4kemiii@twitter](https://twitter.com/t4kemiii/status/1701291879428661750) | advertise |
 | [T1246N1@twitter](https://twitter.com/T1246N1/status/1685678313384345600) | advertise |
 | [T16028Titi@twitter](https://twitter.com/T16028Titi/status/1688278804056145920) | advertise |
 | [t1234231@twitter](https://twitter.com/t1234231/status/1620980454055903232) | advertise |
@@ -13519,6 +13522,7 @@ Do not create new issue or we will close it as duplicate.
 | [VKBHURIYAOFFIC3@twitter](https://twitter.com/VKBHURIYAOFFIC3/status/1592837849074008064) | advertise |
 | [VKhawm@twitter](https://twitter.com/VKhawm/status/1380887571274686475) | advertise |
 | [VMinhd89477656@twitter](https://twitter.com/VMinhd89477656/status/1552697713204301825) | advertise |
+| [vminhhi32470174@twitter](https://twitter.com/vminhhi32470174/status/1701290749307002944) | advertise |
 | [vmorriswyn@twitter](https://twitter.com/vmorriswyn/status/1384191315554889739) | advertise |
 | [Vn15227799@twitter](https://twitter.com/Vn15227799/status/1392391757225025538) | advertise |
 | [vn62133765@twitter](https://twitter.com/vn62133765/status/1577324562353901569) | advertise |
