@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,349 |
 | social | 4,549 |
-| net | 3,730 |
+| net | 3,731 |
 | org | 2,501 |
-| de | 2,307 |
+| de | 2,308 |
 
 
 - Mastodon, Pleroma, etc
@@ -3623,6 +3623,7 @@ Here's a list of public Fediverse services.
 | `baddps.com` | No |
 | `baden.social` | No |
 | `bader-zignoli.de` | No |
+| `baderpetrick.de` | Yes |
 | `badersfield.tk` | No |
 | `badfellas.media` | No |
 | `badgay.net` | No |
@@ -8775,6 +8776,7 @@ Here's a list of public Fediverse services.
 | `cyberparty.me` | No |
 | `cyberpasti.me` | Yes |
 | `cyberpeaceinstitute.org` | Yes |
+| `cyberpigeon.net` | No |
 | `cyberplace.social` | No |
 | `cyberprivacyfirst.com` | No |
 | `cyberpunk.earth` | No |
@@ -23074,6 +23076,7 @@ Here's a list of public Fediverse services.
 | `levelxstudios.org` | No |
 | `leverburns.blue` | No |
 | `leverger.ovh` | No |
+| `levi.land` | No |
 | `levijataner.net` | Yes |
 | `levis.name` | Yes |
 | `levlaz.org` | Yes |
@@ -42760,6 +42763,7 @@ Here's a list of public Fediverse services.
 | `toot.si` | No |
 | `toot.site` | Yes |
 | `toot.social` | No |
+| `toot.st` | Yes |
 | `toot.style` | No |
 | `toot.su` | Yes |
 | `toot.tools` | No |
@@ -48034,8 +48038,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,317 |
-| Normal | 34,669 |
+| Cloudflare | 13,319 |
+| Normal | 34,671 |
 
 
 </details>
