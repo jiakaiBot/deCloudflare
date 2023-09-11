@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,349 |
+| com | 7,350 |
 | social | 4,549 |
 | net | 3,733 |
 | org | 2,501 |
-| de | 2,308 |
+| de | 2,309 |
 
 
 - Mastodon, Pleroma, etc
@@ -11088,6 +11088,7 @@ Here's a list of public Fediverse services.
 | `duncanhart.com` | No |
 | `duncte123.me` | Yes |
 | `dunevent.net` | No |
+| `dungeon-rushers.com` | No |
 | `dungeoncrawler.world` | No |
 | `dungeonmanager.guide` | No |
 | `dungeons.social` | No |
@@ -20913,6 +20914,7 @@ Here's a list of public Fediverse services.
 | `katiehopkinspolitical.icu` | No |
 | `katis.me` | No |
 | `katiska.eu` | No |
+| `katja-diehl.de` | No |
 | `katjaevertz.de` | No |
 | `katniss.top` | No |
 | `katsquill.com` | No |
@@ -48046,7 +48048,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,325 |
-| Normal | 34,672 |
+| Normal | 34,674 |
 
 
 </details>
