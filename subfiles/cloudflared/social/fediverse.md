@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,349 |
 | social | 4,549 |
-| net | 3,731 |
+| net | 3,733 |
 | org | 2,501 |
 | de | 2,308 |
 
@@ -7627,6 +7627,7 @@ Here's a list of public Fediverse services.
 | `cogito.io` | Yes |
 | `cogitoergofem.me` | Yes |
 | `cogley.info` | No |
+| `cogley.jp` | No |
 | `cogneon.de` | Yes |
 | `cogneon.io` | No |
 | `cognitheurge.com` | No |
@@ -36091,6 +36092,7 @@ Here's a list of public Fediverse services.
 | `rtclub.net` | No |
 | `rtctzn.com` | Yes |
 | `rter.io` | No |
+| `rtfm.co.ua` | Yes |
 | `rtfm.fr` | No |
 | `rtfsk.de` | Yes |
 | `rthome.me` | No |
@@ -43618,6 +43620,7 @@ Here's a list of public Fediverse services.
 | `tweety.icu` | No |
 | `tweety.social` | No |
 | `tweety.today` | No |
+| `twelve.icu` | Yes |
 | `twentyzen.digital` | No |
 | `tweoo.com` | No |
 | `twerkfor.work` | No |
@@ -44713,6 +44716,7 @@ Here's a list of public Fediverse services.
 | `vengalath.com` | Yes |
 | `vengeful.eu` | No |
 | `venib.at` | No |
+| `venith.net` | Yes |
 | `venomous.video` | Yes |
 | `ventel.app` | No |
 | `ventresmous.fr` | No |
@@ -45207,6 +45211,7 @@ Here's a list of public Fediverse services.
 | `vrilsoft.com` | No |
 | `vriska.info` | No |
 | `vriska.life` | No |
+| `vrkknn.net` | No |
 | `vrkstatt.social` | No |
 | `vrnd.network` | No |
 | `vrnd.social` | No |
@@ -48039,8 +48044,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,320 |
-| Normal | 34,671 |
+| Cloudflare | 13,323 |
+| Normal | 34,673 |
 
 
 </details>
