@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,349 |
-| social | 4,548 |
+| social | 4,549 |
 | net | 3,730 |
 | org | 2,501 |
 | de | 2,307 |
@@ -43281,6 +43281,7 @@ Here's a list of public Fediverse services.
 | `trotlot.online` | No |
 | `trotskyist.org` | No |
 | `trouble.social` | Yes |
+| `troublemaker.social` | Yes |
 | `trougnouf.com` | No |
 | `trout.garden` | No |
 | `trouth.eu` | No |
@@ -48033,7 +48034,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,316 |
+| Cloudflare | 13,317 |
 | Normal | 34,669 |
 
 
