@@ -11,7 +11,7 @@ In this page we explain some of read-only APIs.
 Replace the `(base url)` to:
 | Type | URL |
 | -- | -- |
-| Clearnet | `https://karma.crimeflare.eu.org:1984/api/` |
+| Clearnet | `https://karma.crimeflare.eu.org/api/` |
 | Tor | `http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/` |
 
 ----
@@ -21,7 +21,7 @@ Replace the `(base url)` to:
 - List data is almost identical to [this git data](http://crimeflare.eu.org).
 - For looking up domain's existence as a [MITM domain](../../cloudflare_users/domains/README.md).
 - Also try: `Listed as Cloudflare` website
-  - [Clearnet](https://karma.crimeflare.eu.org:1984/api/is/cloudflare/html/)
+  - [Clearnet](https://karma.crimeflare.eu.org/api/is/cloudflare/html/)
   - [Tor](http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is/cloudflare/html/)
 
 | ? | ? |
