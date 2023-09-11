@@ -25,7 +25,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 8888.google | No |
 | aa.net.uk | No |
 | absolight.net | No |
-| abstergo.it | No |
 | adfilter.net | Yes |
 | adguard-dns.com | Yes |
 | adrianlam.com | Yes |
@@ -81,7 +80,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | daw.dev | No |
 | decloudus.com | No |
 | despagne.net | No |
-| dessoi.cloud | Yes |
 | detoxifypornblocker.com | No |
 | digitale-gesellschaft.ch | No |
 | digitalsize.net | No |
@@ -132,7 +130,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | gnb09.id | Yes |
 | goldplate.org | Yes |
 | gztech.me | Yes |
-| hafidzradhival.my.id | Yes |
 | hahnjo.de | No |
 | hanahira.dev | Yes |
 | haoxuan.xyz | Yes |
@@ -197,7 +194,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | mobik.com | No |
 | modr.club | Yes |
 | molinero.dev | Yes |
-| moonssif.com | Yes |
 | morizt.id | No |
 | msr177.com | No |
 | msxnet.ru | Yes |
@@ -328,8 +324,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 150 |
-| Normal | 159 |
+| Cloudflare | 147 |
+| Normal | 158 |
 
 
-### 48.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 48.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
