@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,549 |
 | net | 3,733 |
 | org | 2,501 |
-| de | 2,309 |
+| de | 2,310 |
 
 
 - Mastodon, Pleroma, etc
@@ -4136,6 +4136,7 @@ Here's a list of public Fediverse services.
 | `beloved-universe.com` | No |
 | `belovely.xyz` | No |
 | `belowland.com` | No |
+| `belowtoxic.media` | No |
 | `belpheg.org` | No |
 | `beltaine.day` | No |
 | `belug.de` | No |
@@ -5722,6 +5723,7 @@ Here's a list of public Fediverse services.
 | `buckodr.ink` | Yes |
 | `bud.camp` | No |
 | `buddhist.tv` | Yes |
+| `buddyverse.xyz` | No |
 | `budini.me` | Yes |
 | `budmo.info` | No |
 | `budsbots.com` | No |
@@ -6632,6 +6634,7 @@ Here's a list of public Fediverse services.
 | `chadland.net` | No |
 | `chadole.com` | Yes |
 | `chadwaltercummings.me` | Yes |
+| `chagai.website` | No |
 | `chagratt.site` | No |
 | `chahut.social` | No |
 | `chai.lat` | Yes |
@@ -7711,7 +7714,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -21416,6 +21419,7 @@ Here's a list of public Fediverse services.
 | `kiran.dog` | Yes |
 | `kiranshila.com` | No |
 | `kirb.me` | Yes |
+| `kirbo.xyz` | Yes |
 | `kirby-fans.com` | No |
 | `kirche.social` | No |
 | `kirchner.social` | No |
@@ -40570,6 +40574,7 @@ Here's a list of public Fediverse services.
 | `syringa.social` | Yes |
 | `syrma.cc` | Yes |
 | `syrup.zone` | No |
+| `sys2nix.de` | Yes |
 | `sysad.ninja` | No |
 | `sysadmin.run` | Yes |
 | `sysadmins.zone` | Yes |
@@ -48048,8 +48053,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,325 |
-| Normal | 34,675 |
+| Cloudflare | 13,328 |
+| Normal | 34,677 |
 
 
 </details>
