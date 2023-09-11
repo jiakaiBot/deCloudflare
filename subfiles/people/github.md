@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Array Buffer for a file > 4GB will result in a buffer with truncated data](https://github.com/oven-sh/bun/issues/4897)
 - [Improvements to current pub IP logic](https://github.com/HarshKapadia2/dynamic-dns/issues/1)
 - [Worker error while chatting with LLM](https://github.com/janhq/jan/issues/120)
 - [Handshake status 403 Forbidden](https://github.com/helallao/perplexity-ai/issues/11)
