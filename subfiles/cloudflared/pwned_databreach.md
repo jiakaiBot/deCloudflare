@@ -616,6 +616,7 @@ Here's a list of breached sites.
 | Vianet | 94,353 | No |
 | VictoryPhones (Victory Phones) | 166,046 | No |
 | ViewFines | 777,649 | No |
+| VivaAir (Viva Air) | 932,232 | No |
 | Vodafone | 56,021 | No |
 | VoidTO (Void.to) | 95,431 | Yes |
 | WHMCS | 134,047 | Yes |
@@ -692,9 +693,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 381 | 4,071,250,782 |
-| Normal | 289 | 4,859,019,053 |
+| Normal | 290 | 4,859,951,285 |
 
 
 
-### 56.9% of breached sites (pwned sites) are using Cloudflare.
+### 56.8% of breached sites (pwned sites) are using Cloudflare.
 ### 45.6% of leaked accounts are on Cloudflare sites.
