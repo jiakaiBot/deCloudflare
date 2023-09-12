@@ -1,5 +1,5 @@
-const sVERSION = '1.0.4.5',
-   sCFGFV = '1.0.4.5',
+const sVERSION = '1.0.5',
+   sCFGFV = '1.0.5',
    args = process.argv,
    fs = require('fs'),
    rle = require('readline'),
@@ -2034,7 +2034,7 @@ async function do_dlFiles() {
 function asking(qs) {
    return new Promise((okay, nope) => {
       const curl = cur1.dupHandle(false);
-      curl.setOpt('URL', 'https://karma.crimeflare.eu.org:1984/api/cfdomains/');
+      curl.setOpt('URL', 'https://karma.crimeflare.eu.org/api/cfdomains/');
       curl.setOpt('USERAGENT', 'CfDomains');
       if (myConfig['proxy'] != '') {
          curl.setOpt('HTTPPROXYTUNNEL', 1);
