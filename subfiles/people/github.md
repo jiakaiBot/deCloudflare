@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Network error, even though it is working fine.](https://github.com/KoboldAI/KoboldAI-Client/issues/393)
 - [Tracking script = 500 Internal Server Error?](https://github.com/umami-software/umami/issues/2285)
 - [Error: Error solving the challenge. Message: invalid session id](https://github.com/FlareSolverr/FlareSolverr/issues/898)
 - [CloudFlare Cloudflare Workers Issues](https://github.com/SecOpsNews/news/issues/18628)
