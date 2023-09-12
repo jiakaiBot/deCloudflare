@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,352 |
+| com | 7,353 |
 | social | 4,551 |
 | net | 3,733 |
 | org | 2,500 |
@@ -22480,6 +22480,7 @@ Here's a list of public Fediverse services.
 | `lanciano.it` | Yes |
 | `lancianoblog.it` | Yes |
 | `landbox.info` | No |
+| `landileshembebook.com` | No |
 | `landkreis.social` | No |
 | `landlords.social` | Yes |
 | `landlordsguild.com` | Yes |
@@ -48077,7 +48078,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,334 |
-| Normal | 34,694 |
+| Normal | 34,695 |
 
 
 </details>
