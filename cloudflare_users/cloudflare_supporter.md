@@ -6418,6 +6418,7 @@ Do not create new issue or we will close it as duplicate.
 | [kmantecM@twitter](https://twitter.com/kmantecM/status/1422478263440396292) | advertise |
 | [KMHt67762096@twitter](https://twitter.com/KMHt67762096/status/1627645025395048449) | advertise |
 | [KMobydic@twitter](https://twitter.com/KMobydic/status/1398362611859673090) | advertise |
+| [kngslyio@twitter](https://twitter.com/kngslyio/status/1701522986623553867) | advertise |
 | [knn145@twitter](https://twitter.com/knn145/status/1560467875227631616) | advertise |
 | [Ko29699364@twitter](https://twitter.com/Ko29699364/status/1391248483504451585) | advertise |
 | [Ko41120141@twitter](https://twitter.com/Ko41120141/status/1391636326781394945) | advertise |
