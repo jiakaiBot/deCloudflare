@@ -309,6 +309,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wantaquddin.com | No |
 | waringer-atg.de | No |
 | wibenson.cloud | Yes |
+| wikimedia-dns.org | No |
 | xaoimoon.fr | No |
 | xcom.pro | No |
 | xfinity.com | Yes |
@@ -325,7 +326,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 147 |
-| Normal | 158 |
+| Normal | 159 |
 
 
-### 48.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 48% of DNS-over-HTTPS (DoH) are using Cloudflare.
