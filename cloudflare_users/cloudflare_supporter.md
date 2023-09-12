@@ -951,6 +951,7 @@ Do not create new issue or we will close it as duplicate.
 | [anonsecbotnet@twitter](https://twitter.com/anonsecbotnet/status/1661928097887952897) | advertise |
 | [anonymamir@twitter](https://twitter.com/anonymamir/status/1630243468021989376) | advertise |
 | [Anonymo86349012@twitter](https://twitter.com/Anonymo86349012/status/1576995192187813888) | advertise |
+| [Anonymous96K@twitter](https://twitter.com/Anonymous96K/status/1701622542128279625) | advertise |
 | [AnonymousVideo@twitter](https://twitter.com/AnonymousVideo/status/1552591858248843264) | advertise |
 | [AnoshGeddam@twitter](https://twitter.com/AnoshGeddam/status/1393448106365095939) | advertise |
 | [anotherkappug@twitter](https://twitter.com/anotherkappug/status/1517655414753705988) | advertise |
@@ -7551,6 +7552,7 @@ Do not create new issue or we will close it as duplicate.
 | [MarcoRotella87@twitter](https://twitter.com/MarcoRotella87/status/1506921779264114690) | advertise |
 | [mardetanhaaa@twitter](https://twitter.com/mardetanhaaa/status/1379735911286595589) | advertise |
 | [MARDONIOCARVAL2@twitter](https://twitter.com/MARDONIOCARVAL2/status/1392268580213993473) | advertise |
+| [MareckYannick@twitter](https://twitter.com/MareckYannick/status/1701625892093501802) | advertise |
 | [MargaridaCosta_@twitter](https://twitter.com/MargaridaCosta_/status/1548485504026300416) | advertise |
 | [margogreen_@twitter](https://twitter.com/margogreen_/status/1665874383464812551) | advertise |
 | [Maria11122399@twitter](https://twitter.com/Maria11122399/status/1545183172538912769) | advertise |
@@ -8058,6 +8060,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinnTuta@twitter](https://twitter.com/MinnTuta/status/1394689159411879941) | advertise |
 | [minnuen1@twitter](https://twitter.com/minnuen1/status/1604826665548361728) | advertise |
 | [minn_soe@twitter](https://twitter.com/minn_soe/status/1377206706900332550) | advertise |
+| [Minor34685995@twitter](https://twitter.com/Minor34685995/status/1701599448139444369) | advertise |
 | [MinPa1410@twitter](https://twitter.com/MinPa1410/status/1389948656141230083) | advertise |
 | [MinSatNaing11@twitter](https://twitter.com/MinSatNaing11/status/1391998991764574209) | advertise |
 | [minswekhaing@twitter](https://twitter.com/minswekhaing/status/1392484581899608070) | advertise |
@@ -8083,6 +8086,7 @@ Do not create new issue or we will close it as duplicate.
 | [mirabror77@twitter](https://twitter.com/mirabror77/status/1634981359893749760) | advertise |
 | [MiracleAkporode@twitter](https://twitter.com/MiracleAkporode/status/1404854944746950659) | advertise |
 | [Mirakhiil@twitter](https://twitter.com/Mirakhiil/status/1377110594734628870) | advertise |
+| [Miramune@twitter](https://twitter.com/Miramune/status/1701441037506433389) | advertise |
 | [mirandanielcz@twitter](https://twitter.com/mirandanielcz/status/1498223299071025163) | advertise |
 | [miranya1810@twitter](https://twitter.com/miranya1810/status/1509898628508237824) | advertise |
 | [MiriShehu@twitter](https://twitter.com/MiriShehu/status/1590650655177592833) | advertise |
@@ -10652,6 +10656,7 @@ Do not create new issue or we will close it as duplicate.
 | [Renz29880815@twitter](https://twitter.com/Renz29880815/status/1580169604802170880) | advertise |
 | [renz89032860@twitter](https://twitter.com/renz89032860/status/1402159320465248256) | advertise |
 | [ren_creates@twitter](https://twitter.com/ren_creates/status/1661102386524372992) | advertise |
+| [reojoseano@twitter](https://twitter.com/reojoseano/status/1701623822468927717) | advertise |
 | [resing@twitter](https://twitter.com/resing/status/1510697231724163073) | advertise |
 | [resistance.social](https://resistance.social/) | by deleting account without warning |
 | [resonance9898@twitter](https://twitter.com/resonance9898/status/1386358577158230016) | advertise |
