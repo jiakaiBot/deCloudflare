@@ -7090,7 +7090,7 @@ Here's a list of public Fediverse services.
 | `chromatica.gay` | No |
 | `chromatique.xyz` | No |
 | `chromblitzen.de` | No |
-| `chrome.pl` | No |
+| `chrome.pl` | Yes |
 | `chromebook.space` | No |
 | `chromic.org` | No |
 | `chromium.social` | No |
@@ -13737,7 +13737,7 @@ Here's a list of public Fediverse services.
 | `fledd.it` | No |
 | `flee.social` | Yes |
 | `fleshmeat.com` | No |
-| `fleur.social` | No |
+| `fleur.social` | Yes |
 | `fleur7.com` | No |
 | `fleuronic.com` | No |
 | `fleuv.es` | No |
@@ -31355,6 +31355,7 @@ Here's a list of public Fediverse services.
 | `orran.net` | No |
 | `orreadi.com` | Yes |
 | `orsburn.org` | No |
+| `ortensia-moe-moe.club` | Yes |
 | `ortg.de` | No |
 | `orthis.social` | No |
 | `orthoheterodox.blog` | No |
@@ -48068,8 +48069,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,327 |
-| Normal | 34,693 |
+| Cloudflare | 13,330 |
+| Normal | 34,691 |
 
 
 </details>
