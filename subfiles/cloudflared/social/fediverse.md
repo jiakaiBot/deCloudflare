@@ -13918,6 +13918,7 @@ Here's a list of public Fediverse services.
 | `fogna.social` | No |
 | `fogtype.com` | Yes |
 | `fohte.net` | Yes |
+| `foi.se` | No |
 | `foilhat.tk` | No |
 | `foinb.de` | Yes |
 | `fokken.ninja` | No |
@@ -14801,6 +14802,7 @@ Here's a list of public Fediverse services.
 | `fusionpatrol.social` | No |
 | `fusionpros.social` | No |
 | `fusky.social` | No |
+| `fuss.bz.it` | No |
 | `fusselkater.org` | No |
 | `fussenegger.pro` | No |
 | `futa.gg` | Yes |
@@ -23028,6 +23030,7 @@ Here's a list of public Fediverse services.
 | `lervo.de` | No |
 | `les-miquelots.net` | No |
 | `les-requin.net` | Yes |
+| `lesacteursduweb.fr` | No |
 | `lesalphas.be` | No |
 | `lesamarien.fr` | No |
 | `lesantipods.studio` | No |
@@ -48028,6 +48031,7 @@ Here's a list of public Fediverse services.
 | `zwoelfdreifuenfundvierzig.net` | No |
 | `zwotausend.de` | No |
 | `zx81.social` | No |
+| `zxcvn.xyz` | No |
 | `zxcvnm.com` | Yes |
 | `zxq.co` | Yes |
 | `zy.gy` | Yes |
@@ -48065,7 +48069,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,327 |
-| Normal | 34,689 |
+| Normal | 34,693 |
 
 
 </details>
