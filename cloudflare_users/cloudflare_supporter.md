@@ -5081,6 +5081,7 @@ Do not create new issue or we will close it as duplicate.
 | [I1million@twitter](https://twitter.com/I1million/status/1658293231279382529) | advertise |
 | [I3AW420@twitter](https://twitter.com/I3AW420/status/1577971233395986432) | advertise |
 | [i9zc4IQ1VoYEKF0@twitter](https://twitter.com/i9zc4IQ1VoYEKF0/status/1384246450146533391) | advertise |
+| [i@twitter](https://twitter.com/i/status/1691795834416025801) | advertise |
 | [IainMcKenzie101@twitter](https://twitter.com/IainMcKenzie101/status/1602214203703824384) | advertise |
 | [iamakash_2004@twitter](https://twitter.com/iamakash_2004/status/1383364300618690561) | advertise |
 | [iamAkib1@twitter](https://twitter.com/iamAkib1/status/1384753030789091333) | advertise |
