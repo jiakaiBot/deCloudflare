@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,551 |
 | net | 3,733 |
 | org | 2,500 |
-| de | 2,311 |
+| de | 2,312 |
 
 
 - Mastodon, Pleroma, etc
@@ -7717,7 +7717,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8562,6 +8562,7 @@ Here's a list of public Fediverse services.
 | `cubyx.eu` | Yes |
 | `cuche.cc` | No |
 | `cucked.me` | Yes |
+| `cuddle.network` | No |
 | `cuddle.science` | Yes |
 | `cuddlegirls.cafe` | No |
 | `cuddlesarethebest.cf` | No |
@@ -10304,6 +10305,7 @@ Here's a list of public Fediverse services.
 | `dispatches.fm` | No |
 | `disperfected.com` | No |
 | `dispersio.us` | No |
+| `displ.eu` | No |
 | `displaced.social` | No |
 | `disputemag.com` | No |
 | `disqordia.space` | No |
@@ -13664,7 +13666,7 @@ Here's a list of public Fediverse services.
 | `fixermark.com` | Yes |
 | `fixflare.com` | Yes |
 | `fixionauta.net` | No |
-| `fixitbear.com` | No |
+| `fixitbear.com` | Yes |
 | `fizmo.org` | No |
 | `fjara.re` | No |
 | `fjdk.uk` | Yes |
@@ -13855,6 +13857,7 @@ Here's a list of public Fediverse services.
 | `flutter-explained.dev` | No |
 | `flutterby.net` | No |
 | `fluttercommunity.social` | No |
+| `fluttershy.club` | No |
 | `flutue.in` | Yes |
 | `flux.eus` | No |
 | `fluxfox.dev` | Yes |
@@ -17990,6 +17993,7 @@ Here's a list of public Fediverse services.
 | `hrmtc.com` | Yes |
 | `hrmtc.io` | Yes |
 | `hrnmtech.de` | No |
+| `hroy.eu` | No |
 | `hrsm.jp` | No |
 | `hrsn.me` | Yes |
 | `hrst.social` | No |
@@ -27562,6 +27566,7 @@ Here's a list of public Fediverse services.
 | `moron.agency` | No |
 | `moron.city` | No |
 | `moroz.cc` | Yes |
+| `morphnet.de` | No |
 | `morphtown.de` | No |
 | `morphux.org` | No |
 | `morretton.fr` | No |
@@ -48069,8 +48074,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,330 |
-| Normal | 34,691 |
+| Cloudflare | 13,332 |
+| Normal | 34,694 |
 
 
 </details>
