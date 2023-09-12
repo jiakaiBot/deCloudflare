@@ -31,7 +31,6 @@ Here's a list of public Matrix services.
 | synapse.bark.lgbt | Yes |
 | bolha.chat | Yes |
 | buyvm.chat | No |
-| matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
@@ -117,7 +116,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 19 |
-| Normal | 70 |
+| Normal | 69 |
 
 
-### 21.3% of public Matrix services are using Cloudflare.
+### 21.6% of public Matrix services are using Cloudflare.
