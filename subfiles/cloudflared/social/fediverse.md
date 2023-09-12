@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,353 |
-| social | 4,551 |
+| social | 4,552 |
 | net | 3,733 |
 | org | 2,500 |
 | de | 2,312 |
@@ -19659,6 +19659,7 @@ Here's a list of public Fediverse services.
 | `jandhyala.co` | Yes |
 | `janeirl.dev` | Yes |
 | `janerationx.me` | No |
+| `janerationx.social` | No |
 | `janetgunter.net` | No |
 | `janeway.co.uk` | Yes |
 | `jangho.io` | Yes |
@@ -48081,7 +48082,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,335 |
-| Normal | 34,697 |
+| Normal | 34,698 |
 
 
 </details>
