@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-09-12: [Self-hosted Remote Browser Isolation connectivity issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9rswy4k718yq)
 - 2023-09-09: [Network Performance Issues in Zurich](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pb7npmz7n8j2)
 - 2023-09-08: [Network Performance Issues in Zurich](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vpyb54qs0d7g)
 - 2023-09-06: [Network Performance Issues in Chennai, India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/r6kr07p0bl72)
