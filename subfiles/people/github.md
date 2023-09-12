@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Webview not possible when an extension fails to load](https://github.com/jobobby04/TachiyomiSY/issues/952)
 - [oai.hconeai.com | 522: Connection timed out error](https://github.com/Helicone/helicone/issues/798)
 - [Network error, even though it is working fine.](https://github.com/KoboldAI/KoboldAI-Client/issues/393)
 - [Tracking script = 500 Internal Server Error?](https://github.com/umami-software/umami/issues/2285)
