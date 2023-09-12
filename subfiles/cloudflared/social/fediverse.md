@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,351 |
+| com | 7,352 |
 | social | 4,551 |
 | net | 3,733 |
 | org | 2,500 |
@@ -9681,6 +9681,7 @@ Here's a list of public Fediverse services.
 | `delregno.social` | No |
 | `delroth.net` | No |
 | `delta-t.work` | Yes |
+| `delta0189.xyz` | No |
 | `delta1.dev` | Yes |
 | `delta9.me` | Yes |
 | `deltaa.xyz` | No |
@@ -12626,7 +12627,7 @@ Here's a list of public Fediverse services.
 | `faba.icu` | No |
 | `fabean.xyz` | Yes |
 | `fabi.lgbt` | No |
-| `fabianstadler.com` | No |
+| `fabianstadler.com` | Yes |
 | `fabien-berini.fr` | No |
 | `fabienphoto.eu` | No |
 | `fabiomanganiello.com` | No |
@@ -16994,7 +16995,7 @@ Here's a list of public Fediverse services.
 | `hatred.club` | No |
 | `hatthieves.es` | No |
 | `hatto.dev` | Yes |
-| `hatton.social` | No |
+| `hatton.social` | Yes |
 | `hauchruh.de` | No |
 | `haukola.ru` | No |
 | `haulo.fi` | No |
@@ -46339,6 +46340,7 @@ Here's a list of public Fediverse services.
 | `wonderdome.net` | No |
 | `wonderful.social` | Yes |
 | `wondering.xyz` | No |
+| `wondernetwork.com` | No |
 | `wonfe.com` | No |
 | `wonkodon.com` | No |
 | `wood-built21.net` | No |
@@ -48074,7 +48076,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,332 |
+| Cloudflare | 13,334 |
 | Normal | 34,694 |
 
 
