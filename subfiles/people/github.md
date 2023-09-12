@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [oai.hconeai.com | 522: Connection timed out error](https://github.com/Helicone/helicone/issues/798)
 - [Network error, even though it is working fine.](https://github.com/KoboldAI/KoboldAI-Client/issues/393)
 - [Tracking script = 500 Internal Server Error?](https://github.com/umami-software/umami/issues/2285)
 - [Error: Error solving the challenge. Message: invalid session id](https://github.com/FlareSolverr/FlareSolverr/issues/898)
