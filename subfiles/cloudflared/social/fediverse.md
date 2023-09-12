@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,551 |
 | net | 3,733 |
 | org | 2,500 |
-| de | 2,310 |
+| de | 2,311 |
 
 
 - Mastodon, Pleroma, etc
@@ -6294,6 +6294,7 @@ Here's a list of public Fediverse services.
 | `carters.cloud` | No |
 | `cartersville.social` | No |
 | `cartodon.com` | No |
+| `cartoon-aa.xyz` | No |
 | `cartoonist.social` | No |
 | `caruanafamily.net` | Yes |
 | `caruhel.fr` | No |
@@ -7716,7 +7717,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -15634,7 +15635,7 @@ Here's a list of public Fediverse services.
 | `girlcock.eu` | No |
 | `girldick.gay` | No |
 | `girldick.icu` | No |
-| `girldick.quest` | Yes |
+| `girldick.quest` | No |
 | `girllich.link` | No |
 | `girlmeow.autos` | No |
 | `girls-are.gay` | Yes |
@@ -20764,6 +20765,7 @@ Here's a list of public Fediverse services.
 | `kamisato.xyz` | Yes |
 | `kamiyacho.net` | No |
 | `kammeratadam.dk` | No |
+| `kammeyer.me` | No |
 | `kammeyer.xyz` | Yes |
 | `kamp.site` | No |
 | `kampa.si` | No |
@@ -28085,7 +28087,7 @@ Here's a list of public Fediverse services.
 | `multiverset.net` | No |
 | `multrier.fr` | No |
 | `mumak.app` | No |
-| `mumbai.sh` | Yes |
+| `mumbai.sh` | No |
 | `mumbaihikers.com` | Yes |
 | `mumbled.eu` | No |
 | `mumbled.xyz` | Yes |
@@ -32414,6 +32416,7 @@ Here's a list of public Fediverse services.
 | `peterwenz.net` | No |
 | `petesh.com` | No |
 | `petitionsforfuture.de` | No |
+| `petitionspost.de` | No |
 | `petitlutinartube.fr` | No |
 | `petitmote.fr` | No |
 | `petitp.eu` | No |
@@ -48059,8 +48062,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,330 |
-| Normal | 34,681 |
+| Cloudflare | 13,327 |
+| Normal | 34,687 |
 
 
 </details>
