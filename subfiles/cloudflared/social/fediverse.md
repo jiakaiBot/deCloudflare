@@ -45328,6 +45328,7 @@ Here's a list of public Fediverse services.
 | `vzx.pl` | No |
 | `w-2.io` | No |
 | `w00f.org` | No |
+| `w012w012.tk` | No |
 | `w0lfr.net` | Yes |
 | `w0rkupa.me` | Yes |
 | `w0rmh0le.net` | No |
@@ -48078,7 +48079,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,334 |
-| Normal | 34,695 |
+| Normal | 34,696 |
 
 
 </details>
