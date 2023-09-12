@@ -34321,6 +34321,7 @@ Here's a list of public Fediverse services.
 | `queer.town` | No |
 | `queerbau-seestadt.at` | No |
 | `queerclub.cz` | Yes |
+| `queercomputerclub.ca` | No |
 | `queerdom.xyz` | No |
 | `queerdon.social` | Yes |
 | `queerdorks.club` | No |
@@ -34444,6 +34445,7 @@ Here's a list of public Fediverse services.
 | `qwerty.city` | No |
 | `qwerty.onl` | No |
 | `qwjyh.net` | Yes |
+| `qwp.moe` | Yes |
 | `qwq.dog` | Yes |
 | `qwq.link` | No |
 | `qwq.mx` | Yes |
@@ -48078,8 +48080,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,334 |
-| Normal | 34,696 |
+| Cloudflare | 13,335 |
+| Normal | 34,697 |
 
 
 </details>
