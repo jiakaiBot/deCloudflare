@@ -18604,6 +18604,7 @@ Here's a list of public Fediverse services.
 | `imagia.academy` | Yes |
 | `imaginair.es` | No |
 | `imaginarykarin.com` | No |
+| `imagisphe.re` | No |
 | `imagotv.fr` | No |
 | `imal.org` | No |
 | `imancommunity.de` | No |
@@ -46750,6 +46751,7 @@ Here's a list of public Fediverse services.
 | `xiii.cards` | No |
 | `xiii.ch` | Yes |
 | `xiling.site` | Yes |
+| `xim.ca` | No |
 | `xin.cat` | No |
 | `xindejiayuan.com` | No |
 | `xinghaizhandui.com` | No |
@@ -48063,7 +48065,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,327 |
-| Normal | 34,687 |
+| Normal | 34,689 |
 
 
 </details>
