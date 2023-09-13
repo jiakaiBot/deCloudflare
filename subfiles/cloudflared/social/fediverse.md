@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,353 |
-| social | 4,552 |
+| social | 4,553 |
 | net | 3,733 |
-| org | 2,500 |
-| de | 2,312 |
+| org | 2,501 |
+| de | 2,313 |
 
 
 - Mastodon, Pleroma, etc
@@ -7717,7 +7717,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -10253,6 +10253,7 @@ Here's a list of public Fediverse services.
 | `dirkkelly.com` | Yes |
 | `dirkomatik.de` | No |
 | `dirtbag.social` | Yes |
+| `dirtkids.social` | No |
 | `dirtyhobby.xyz` | No |
 | `dirtyoldmensclub.com` | No |
 | `dirtytrans.club` | No |
@@ -13177,6 +13178,7 @@ Here's a list of public Fediverse services.
 | `fedisnap.com` | Yes |
 | `fedisocial.net` | No |
 | `fedisonic.cloud` | Yes |
+| `fedispace.de` | No |
 | `fedispace.fr` | No |
 | `fedispace.ml` | No |
 | `fedisphere.net` | No |
@@ -18097,6 +18099,7 @@ Here's a list of public Fediverse services.
 | `humancaption.social` | No |
 | `humangenetics.social` | No |
 | `humanist.social` | Yes |
+| `humanistictorah.org` | No |
 | `humanistische-union.de` | No |
 | `humanists.uk` | No |
 | `humanities.one` | No |
@@ -37017,6 +37020,7 @@ Here's a list of public Fediverse services.
 | `schottkydio.de` | No |
 | `schrdr.nl` | No |
 | `schreiblehrling.de` | No |
+| `schreibt.jetzt` | No |
 | `schrock.social` | No |
 | `schub.social` | No |
 | `schuerenbo.de` | No |
@@ -41392,7 +41396,7 @@ Here's a list of public Fediverse services.
 | `terencius.com` | No |
 | `terere.social` | No |
 | `terlson.net` | No |
-| `term.social` | Yes |
+| `term.social` | No |
 | `termer.net` | No |
 | `terminal.ink` | Yes |
 | `terminalaberto.pt` | No |
@@ -48082,8 +48086,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,335 |
-| Normal | 34,699 |
+| Cloudflare | 13,333 |
+| Normal | 34,705 |
 
 
 </details>
