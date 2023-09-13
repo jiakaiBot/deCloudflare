@@ -7192,6 +7192,7 @@ Do not create new issue or we will close it as duplicate.
 | [Long_way_to_die@twitter](https://twitter.com/Long_way_to_die/status/1552020406210441216) | advertise |
 | [looker123456789@twitter](https://twitter.com/looker123456789/status/1548154140848599041) | advertise |
 | [loooom9999@twitter](https://twitter.com/loooom9999/status/1571392847823118336) | advertise |
+| [lopezzfuyoooo@twitter](https://twitter.com/lopezzfuyoooo/status/1701812329439166940) | advertise |
 | [LoppoZ@twitter](https://twitter.com/LoppoZ/status/1377122374617681922) | advertise |
 | [lordcurtis@twitter](https://twitter.com/lordcurtis/status/1479481798061027328) | advertise |
 | [lorddzhi1@twitter](https://twitter.com/lorddzhi1/status/1541236958407581697) | advertise |
@@ -11022,6 +11023,7 @@ Do not create new issue or we will close it as duplicate.
 | [saithethtwe@twitter](https://twitter.com/saithethtwe/status/1379038437383278592) | advertise |
 | [SaiWaiKyaw2@twitter](https://twitter.com/SaiWaiKyaw2/status/1394310063037190147) | advertise |
 | [SaiWaiY29658739@twitter](https://twitter.com/SaiWaiY29658739/status/1396484201050906629) | advertise |
+| [saiwar622715@twitter](https://twitter.com/saiwar622715/status/1701798125403562354) | advertise |
 | [SaiWunn44556066@twitter](https://twitter.com/SaiWunn44556066/status/1394579547975151617) | advertise |
 | [SaiYanN67587097@twitter](https://twitter.com/SaiYanN67587097/status/1533120502646337536) | advertise |
 | [sai_lu57@twitter](https://twitter.com/sai_lu57/status/1392941626402643969) | advertise |
@@ -12946,6 +12948,7 @@ Do not create new issue or we will close it as duplicate.
 | [TranThi42672744@twitter](https://twitter.com/TranThi42672744/status/1693919639783546984) | advertise |
 | [trantie92872403@twitter](https://twitter.com/trantie92872403/status/1485623018823258115) | advertise |
 | [trantinh98@twitter](https://twitter.com/trantinh98/status/1551127415405297664) | advertise |
+| [trantri2112@twitter](https://twitter.com/trantri2112/status/1701761900722491597) | advertise |
 | [TranTua00316518@twitter](https://twitter.com/TranTua00316518/status/1503265835145904128) | advertise |
 | [TranTuanTico@twitter](https://twitter.com/TranTuanTico/status/1530249051777961985) | advertise |
 | [TranTuu48269@twitter](https://twitter.com/TranTuu48269/status/1648909533186752515) | advertise |
@@ -13265,6 +13268,7 @@ Do not create new issue or we will close it as duplicate.
 | [UescaGroup@twitter](https://twitter.com/UescaGroup/status/1629521125095923713) | advertise |
 | [ufirz825732@twitter](https://twitter.com/ufirz825732/status/1396484531826221057) | advertise |
 | [ufosfootage@twitter](https://twitter.com/ufosfootage/status/1648340903004700677) | advertise |
+| [Ug6tQrJJ9IYhc9O@twitter](https://twitter.com/Ug6tQrJJ9IYhc9O/status/1701772331667063137) | advertise |
 | [uh8dior@twitter](https://twitter.com/uh8dior/status/1665889159444144128) | advertise |
 | [UHanHtet1@twitter](https://twitter.com/UHanHtet1/status/1396313963051298818) | advertise |
 | [UhteinCe@twitter](https://twitter.com/UhteinCe/status/1618254816119250945) | advertise |
@@ -14325,6 +14329,7 @@ Do not create new issue or we will close it as duplicate.
 | [zaid3413@twitter](https://twitter.com/zaid3413/status/1643359354106818560) | advertise |
 | [zaiddddm@twitter](https://twitter.com/zaiddddm/status/1689972068706611200) | advertise |
 | [zaidi97406@twitter](https://twitter.com/zaidi97406/status/1697384697452785850) | advertise |
+| [ZaidihabibH@twitter](https://twitter.com/ZaidihabibH/status/1701772205460529305) | advertise |
 | [Zaid_Dawoud@twitter](https://twitter.com/Zaid_Dawoud/status/1632443594668662786) | advertise |
 | [zaimiesmy1@twitter](https://twitter.com/zaimiesmy1/status/1584188095356112896) | advertise |
 | [zak08_@twitter](https://twitter.com/zak08_/status/1665738977603915776) | advertise |
