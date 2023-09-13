@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,357 |
 | social | 4,553 |
-| net | 3,735 |
-| org | 2,501 |
+| net | 3,736 |
+| org | 2,502 |
 | de | 2,315 |
 
 
@@ -28246,6 +28246,7 @@ Here's a list of public Fediverse services.
 | `mw.social` | No |
 | `mwang.monster` | Yes |
 | `mwangmwang.monster` | Yes |
+| `mwaters.net` | No |
 | `mwaters7eu2pyfcz36oehlc3htnqarakd7meeyz4lvbubff64ethxzqd.com` | No |
 | `mwegner.com` | Yes |
 | `mwknet.de` | No |
@@ -29696,6 +29697,7 @@ Here's a list of public Fediverse services.
 | `nj.com` | Yes |
 | `njal.la` | No |
 | `njanzen.de` | No |
+| `njion.org` | No |
 | `njms.ca` | No |
 | `njoy.social` | Yes |
 | `njp.asia` | No |
@@ -41487,6 +41489,7 @@ Here's a list of public Fediverse services.
 | `teuto.icu` | Yes |
 | `teutronic-services.de` | No |
 | `teutsch.me` | No |
+| `teuvovaisanen.fi` | No |
 | `tevinzhang.com` | Yes |
 | `tevps.net` | No |
 | `tew.social` | No |
@@ -48102,7 +48105,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,342 |
-| Normal | 34,711 |
+| Normal | 34,714 |
 
 
 </details>
