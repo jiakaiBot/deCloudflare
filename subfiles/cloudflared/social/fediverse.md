@@ -7719,7 +7719,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -24230,6 +24230,7 @@ Here's a list of public Fediverse services.
 | `lunta.net` | No |
 | `luoe.dev` | Yes |
 | `luoghicomuni.social` | No |
+| `luojola.fi` | No |
 | `luololita.com` | No |
 | `luon.net` | No |
 | `lupinjacket.party` | No |
@@ -48104,7 +48105,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,342 |
+| Cloudflare | 13,343 |
 | Normal | 34,714 |
 
 
