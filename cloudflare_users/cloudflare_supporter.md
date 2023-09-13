@@ -8651,6 +8651,7 @@ Do not create new issue or we will close it as duplicate.
 | [Naing87489665@twitter](https://twitter.com/Naing87489665/status/1393414862290620417) | advertise |
 | [Nainggy45755351@twitter](https://twitter.com/Nainggy45755351/status/1394554829750509571) | advertise |
 | [NaingHtetWin2@twitter](https://twitter.com/NaingHtetWin2/status/1617533833787899910) | advertise |
+| [NaingLi38418663@twitter](https://twitter.com/NaingLi38418663/status/1701944295333482682) | advertise |
 | [NaingLi62048733@twitter](https://twitter.com/NaingLi62048733/status/1377287803420086275) | advertise |
 | [NaingLi87054384@twitter](https://twitter.com/NaingLi87054384/status/1402683304839548928) | advertise |
 | [Nainglin4922@twitter](https://twitter.com/Nainglin4922/status/1399055888065781762) | advertise |
@@ -14116,6 +14117,7 @@ Do not create new issue or we will close it as duplicate.
 | [Yate315142663@twitter](https://twitter.com/Yate315142663/status/1385109096999706629) | advertise |
 | [Yatendr59558289@twitter](https://twitter.com/Yatendr59558289/status/1398716969054998528) | advertise |
 | [YatiLinn10@twitter](https://twitter.com/YatiLinn10/status/1384424833329602560) | advertise |
+| [Yato25051998@twitter](https://twitter.com/Yato25051998/status/1701940713343398173) | advertise |
 | [yatsuha4@twitter](https://twitter.com/yatsuha4/status/1669888902382125056) | advertise |
 | [YaTu78700206@twitter](https://twitter.com/YaTu78700206/status/1385128233742438400) | advertise |
 | [YaungKoe@twitter](https://twitter.com/YaungKoe/status/1390402620833951745) | advertise |
@@ -14290,6 +14292,7 @@ Do not create new issue or we will close it as duplicate.
 | [Yusi138338331@twitter](https://twitter.com/Yusi138338331/status/1390642830310141952) | advertise |
 | [yusoffismail85@twitter](https://twitter.com/yusoffismail85/status/1505928853277253635) | advertise |
 | [YusoffZaimiy@twitter](https://twitter.com/YusoffZaimiy/status/1574021006460874752) | advertise |
+| [yusrysayu@twitter](https://twitter.com/yusrysayu/status/1701938467989606882) | advertise |
 | [YusTweet@twitter](https://twitter.com/YusTweet/status/1457884814300770305) | advertise |
 | [yusuf_ramdhnii@twitter](https://twitter.com/yusuf_ramdhnii/status/1602177550369058816) | advertise |
 | [yutkat@twitter](https://twitter.com/yutkat/status/1669526847573602306) | advertise |
