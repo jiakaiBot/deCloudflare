@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,354 |
 | social | 4,553 |
-| net | 3,733 |
+| net | 3,734 |
 | org | 2,501 |
 | de | 2,314 |
 
@@ -46730,6 +46730,7 @@ Here's a list of public Fediverse services.
 | `xeno.chat` | No |
 | `xeno.moe` | Yes |
 | `xeno.science` | No |
+| `xenocubium.net` | Yes |
 | `xenoeye.com` | No |
 | `xenofact.com` | No |
 | `xenofem.me` | No |
@@ -48088,7 +48089,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,334 |
+| Cloudflare | 13,335 |
 | Normal | 34,706 |
 
 
