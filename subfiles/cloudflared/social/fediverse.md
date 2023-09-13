@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,353 |
+| com | 7,354 |
 | social | 4,553 |
 | net | 3,733 |
 | org | 2,501 |
-| de | 2,313 |
+| de | 2,314 |
 
 
 - Mastodon, Pleroma, etc
@@ -18953,6 +18953,7 @@ Here's a list of public Fediverse services.
 | `inrollio.com` | Yes |
 | `inrupt.net` | No |
 | `insane.dev` | Yes |
+| `insaneutopia.com` | Yes |
 | `insanidadpublica.com` | No |
 | `inscope.social` | No |
 | `inscribe.social` | No |
@@ -19644,6 +19645,7 @@ Here's a list of public Fediverse services.
 | `jamesvasile.com` | No |
 | `jameswynn.com` | No |
 | `jameuwu.com` | Yes |
+| `jamidisi-edu.de` | No |
 | `jamie.moe` | No |
 | `jamieasefa.social` | No |
 | `jamiekerr.net` | Yes |
@@ -48086,8 +48088,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,333 |
-| Normal | 34,705 |
+| Cloudflare | 13,334 |
+| Normal | 34,706 |
 
 
 </details>
