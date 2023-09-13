@@ -30,8 +30,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,357 |
-| social | 4,553 |
-| net | 3,736 |
+| social | 4,554 |
+| net | 3,737 |
 | org | 2,502 |
 | de | 2,315 |
 
@@ -2497,6 +2497,7 @@ Here's a list of public Fediverse services.
 | `apirie.uk` | No |
 | `apkallu.us` | No |
 | `apkfission.net` | Yes |
+| `aplulu.me` | Yes |
 | `apobangpo.space` | No |
 | `apobangpo.website` | No |
 | `apocalypse.crimea.ua` | Yes |
@@ -13497,6 +13498,7 @@ Here's a list of public Fediverse services.
 | `fiedlerfamily.net` | No |
 | `field.id.au` | Yes |
 | `fieldfamilytree.ca` | No |
+| `fieldnotes.social` | No |
 | `fiely.net` | Yes |
 | `fietkau.social` | No |
 | `fiets.uk` | No |
@@ -33183,6 +33185,7 @@ Here's a list of public Fediverse services.
 | `pmai.social` | No |
 | `pmdcollab.org` | No |
 | `pmhcvn.com` | No |
+| `pmhonpo.net` | Yes |
 | `pmj.rocks` | No |
 | `pmlk.net` | No |
 | `pmmm.jp` | No |
@@ -46159,7 +46162,7 @@ Here's a list of public Fediverse services.
 | `winter.ink` | No |
 | `winterbaum.io` | No |
 | `wintermade.it` | No |
-| `wintermute.se` | No |
+| `wintermute.se` | Yes |
 | `winteroak.org.uk` | No |
 | `winterrific.cloud` | No |
 | `winther.social` | Yes |
@@ -48106,7 +48109,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,345 |
+| Cloudflare | 13,348 |
 | Normal | 34,713 |
 
 
