@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [API errors are not actually being shown](https://github.com/KittyCAD/cli/issues/352)
 - [EFAULT Failed to update App: Error: UPGRADE FAILED: failed to create resource: namespaces "cert-manager" not found](https://github.com/truecharts/charts/issues/12570)
 - [LEDs in /sys/class/leds not usable due to Supervisor's read-only mount; related to GPIO: true](https://github.com/home-assistant/supervisor/issues/4560)
 - [Cloudflare R2 compatibility](https://github.com/thephpleague/flysystem-aws-s3-v3/issues/323)
