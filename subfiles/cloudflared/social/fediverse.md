@@ -13216,7 +13216,7 @@ Here's a list of public Fediverse services.
 | `fediverse.blog` | No |
 | `fediverse.blue` | No |
 | `fediverse.boo` | No |
-| `fediverse.ca` | No |
+| `fediverse.ca` | Yes |
 | `fediverse.ceo` | No |
 | `fediverse.cloud` | No |
 | `fediverse.club` | No |
@@ -14105,6 +14105,7 @@ Here's a list of public Fediverse services.
 | `foxfamily.online` | No |
 | `foxfire.dev` | No |
 | `foxgirl.eu` | Yes |
+| `foxgirl.land` | No |
 | `foxgirlsat.work` | No |
 | `foxgl.ovh` | No |
 | `foxhillyer.org` | No |
@@ -16489,7 +16490,7 @@ Here's a list of public Fediverse services.
 | `gultsch.social` | No |
 | `gumbercules.net` | No |
 | `gumifox.eu` | No |
-| `gummipunkt.eu` | No |
+| `gummipunkt.eu` | Yes |
 | `gumonji.live` | No |
 | `gundan.es` | No |
 | `gundogcentral.com` | Yes |
@@ -25049,7 +25050,7 @@ Here's a list of public Fediverse services.
 | `masip.cat` | No |
 | `masked.cloud` | No |
 | `maskneko.com` | No |
-| `masktodon.social` | No |
+| `masktodon.social` | Yes |
 | `maslipmat.com` | No |
 | `masochi.st` | No |
 | `mason.org.pl` | No |
@@ -37871,6 +37872,7 @@ Here's a list of public Fediverse services.
 | `shivering-isles.com` | Yes |
 | `shizentai.jp` | No |
 | `shkolopendre.fr` | No |
+| `shkspr.mobi` | No |
 | `shkval.net` | No |
 | `shlomo.in` | No |
 | `shmalls.pw` | No |
@@ -48097,8 +48099,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,338 |
-| Normal | 34,711 |
+| Cloudflare | 13,341 |
+| Normal | 34,710 |
 
 
 </details>
