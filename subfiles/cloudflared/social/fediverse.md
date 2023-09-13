@@ -46349,6 +46349,7 @@ Here's a list of public Fediverse services.
 | `wolfs.computer` | No |
 | `wolfschouten.nl` | No |
 | `wolfskaempf.de` | No |
+| `wolfssocial.space` | No |
 | `wolfwater.com` | No |
 | `wolfwithsword.com` | Yes |
 | `wolfwitte.de` | No |
@@ -48110,7 +48111,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,348 |
-| Normal | 34,713 |
+| Normal | 34,714 |
 
 
 </details>
