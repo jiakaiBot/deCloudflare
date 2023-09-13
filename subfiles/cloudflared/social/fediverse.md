@@ -13530,6 +13530,7 @@ Here's a list of public Fediverse services.
 | `filipesaraiva.info` | No |
 | `filipesm.com` | Yes |
 | `filipesm.eu` | Yes |
+| `filippoff.su` | No |
 | `filiuspatris.net` | Yes |
 | `filklore.com` | No |
 | `fillari.xyz` | No |
@@ -18187,6 +18188,7 @@ Here's a list of public Fediverse services.
 | `hxl.io` | Yes |
 | `hxr.social` | No |
 | `hyan.ink` | Yes |
+| `hyang.xyz` | Yes |
 | `hyatalk.com` | No |
 | `hybridby.design` | No |
 | `hybridenterprise.net` | No |
@@ -48099,8 +48101,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,341 |
-| Normal | 34,710 |
+| Cloudflare | 13,342 |
+| Normal | 34,711 |
 
 
 </details>
