@@ -9300,7 +9300,7 @@ Here's a list of public Fediverse services.
 | `datenkastl.de` | No |
 | `datenklause.de` | No |
 | `datenkrake.ch` | Yes |
-| `datenschleuse.de` | No |
+| `datenschleuse.de` | Yes |
 | `datenschutz-fuerth.de` | No |
 | `datenschutz-guru.de` | No |
 | `datensturm.net` | Yes |
@@ -12617,7 +12617,7 @@ Here's a list of public Fediverse services.
 | `f4d3z.space` | No |
 | `f4grx.net` | No |
 | `f4n.de` | No |
-| `f5.si` | No |
+| `f5.si` | Yes |
 | `f5n.org` | No |
 | `f5s.de` | No |
 | `f66.dev` | Yes |
@@ -14454,6 +14454,7 @@ Here's a list of public Fediverse services.
 | `friendlydads.net` | No |
 | `friendlyground.com` | No |
 | `friendlyrobot.nyc` | No |
+| `friendmaterial.lgbt` | No |
 | `friendnet.eu` | No |
 | `friendo.monster` | No |
 | `friendo.space` | Yes |
@@ -48105,8 +48106,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,343 |
-| Normal | 34,714 |
+| Cloudflare | 13,345 |
+| Normal | 34,713 |
 
 
 </details>
