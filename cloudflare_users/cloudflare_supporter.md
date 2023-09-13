@@ -320,6 +320,7 @@ Do not create new issue or we will close it as duplicate.
 | [ABUMUHAMMEDDRA1@twitter](https://twitter.com/ABUMUHAMMEDDRA1/status/1548655532004614144) | advertise |
 | [AbuNathanHale@twitter](https://twitter.com/AbuNathanHale/status/1665889143048503297) | advertise |
 | [abusolegal@twitter](https://twitter.com/abusolegal/status/1516444548653854724) | advertise |
+| [AbuZain56798974@twitter](https://twitter.com/AbuZain56798974/status/1701993429012472202) | advertise |
 | [abu_turki994@twitter](https://twitter.com/abu_turki994/status/1617736578851549184) | advertise |
 | [AccioLaw@twitter](https://twitter.com/AccioLaw/status/1490055581062807553) | advertise |
 | [Accml3@twitter](https://twitter.com/Accml3/status/1509928686157725697) | advertise |
@@ -1727,6 +1728,7 @@ Do not create new issue or we will close it as duplicate.
 | [BhoneMyatThu14@twitter](https://twitter.com/BhoneMyatThu14/status/1390075544566390785) | advertise |
 | [bhone_mue@twitter](https://twitter.com/bhone_mue/status/1612000134786871302) | advertise |
 | [BhuvanithanMb@twitter](https://twitter.com/BhuvanithanMb/status/1543080018980794368) | advertise |
+| [Bi018R@twitter](https://twitter.com/Bi018R/status/1702014513334337538) | advertise |
 | [Bi50161856Bi@twitter](https://twitter.com/Bi50161856Bi/status/1627183251977797634) | advertise |
 | [BiBi68724393@twitter](https://twitter.com/BiBi68724393/status/1381268378573152257) | advertise |
 | [BiBihb12@twitter](https://twitter.com/BiBihb12/status/1553672257293393920) | advertise |
@@ -2141,6 +2143,7 @@ Do not create new issue or we will close it as duplicate.
 | [CaoKhChinh2@twitter](https://twitter.com/CaoKhChinh2/status/1377461966738841601) | advertise |
 | [CaokhiemN@twitter](https://twitter.com/CaokhiemN/status/1539358069398052864) | advertise |
 | [caothuong123@twitter](https://twitter.com/caothuong123/status/1636648444025786368) | advertise |
+| [caovn_chin9@twitter](https://twitter.com/caovn_chin9/status/1702006889691889842) | advertise |
 | [CapantSolent@twitter](https://twitter.com/CapantSolent/status/1392202368616476678) | advertise |
 | [Capernicus_GT@twitter](https://twitter.com/Capernicus_GT/status/1594770744965271576) | advertise |
 | [capthndsme@twitter](https://twitter.com/capthndsme/status/1656206692298948610) | advertise |
@@ -4497,6 +4500,7 @@ Do not create new issue or we will close it as duplicate.
 | [HHOSEINN@twitter](https://twitter.com/HHOSEINN/status/1647499112634368000) | advertise |
 | [HhuHhh83531949@twitter](https://twitter.com/HhuHhh83531949/status/1521049160879079424) | advertise |
 | [hhuuquyen95@twitter](https://twitter.com/hhuuquyen95/status/1643614038025183240) | advertise |
+| [hhvdhv_666@twitter](https://twitter.com/hhvdhv_666/status/1702011102949949473) | advertise |
 | [Hi13279691@twitter](https://twitter.com/Hi13279691/status/1510833132207210496) | advertise |
 | [Hi52822901V@twitter](https://twitter.com/Hi52822901V/status/1553033587569467392) | advertise |
 | [Hi70418588@twitter](https://twitter.com/Hi70418588/status/1401560843297333259) | advertise |
@@ -10847,6 +10851,7 @@ Do not create new issue or we will close it as duplicate.
 | [RoyysHD1195@twitter](https://twitter.com/RoyysHD1195/status/1552070037196144640) | advertise |
 | [roy_souryaraj@twitter](https://twitter.com/roy_souryaraj/status/1399422906002640904) | advertise |
 | [RozeBlade@twitter](https://twitter.com/RozeBlade/status/1541892699673985025) | advertise |
+| [Ro_Archives@twitter](https://twitter.com/Ro_Archives/status/1702010196065927641) | advertise |
 | [RPadawad@twitter](https://twitter.com/RPadawad/status/1380909267587239939) | advertise |
 | [RpaS0lution@twitter](https://twitter.com/RpaS0lution/status/1374198517950865409) | advertise |
 | [rpetty@twitter](https://twitter.com/rpetty/status/1384697297817198593) | advertise |
