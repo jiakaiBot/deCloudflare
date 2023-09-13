@@ -2803,6 +2803,7 @@ Do not create new issue or we will close it as duplicate.
 | [davidchaloupka@twitter](https://twitter.com/davidchaloupka/status/1388404610029826048) | advertise |
 | [davidciamarro@twitter](https://twitter.com/davidciamarro/status/1427460769176768516) | advertise |
 | [DavidDo97030067@twitter](https://twitter.com/DavidDo97030067/status/1398524017527586820) | advertise |
+| [DavidHenry46673@twitter](https://twitter.com/DavidHenry46673/status/1702023594572656949) | advertise |
 | [davidjnorris@twitter](https://twitter.com/davidjnorris/status/1412488514130821121) | moral (advertise) |
 | [Davidkien14@twitter](https://twitter.com/Davidkien14/status/1689795366047436800) | advertise |
 | [DavidMa4000@twitter](https://twitter.com/DavidMa4000/status/1387060314919800837) | advertise |
@@ -11355,6 +11356,7 @@ Do not create new issue or we will close it as duplicate.
 | [Shah_man83@twitter](https://twitter.com/Shah_man83/status/1381646041498329088) | advertise |
 | [ShaidaFarizaa@twitter](https://twitter.com/ShaidaFarizaa/status/1562785781953208326) | advertise |
 | [Shaieq_07@twitter](https://twitter.com/Shaieq_07/status/1589912135899189252) | advertise |
+| [ShaikhHaji11959@twitter](https://twitter.com/ShaikhHaji11959/status/1702029672073281951) | advertise |
 | [shailas317@twitter](https://twitter.com/shailas317/status/1398393908044845057) | advertise |
 | [Shaimaasaad058@twitter](https://twitter.com/Shaimaasaad058/status/1606828544230834177) | advertise |
 | [Shakeel49597876@twitter](https://twitter.com/Shakeel49597876/status/1561381372626739200) | advertise |
