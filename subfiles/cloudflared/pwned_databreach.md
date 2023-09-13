@@ -81,8 +81,8 @@ Here's a list of breached sites.
 | BattlefieldHeroes (Battlefield Heroes) | 530,270 | No |
 | Battlefy | 83,610 | Yes |
 | BeautifulPeople (Beautiful People) | 1,100,089 | No |
-| Bell (Bell (2014 breach)) | 20,902 | No |
-| Bell2017 (Bell (2017 breach)) | 2,231,256 | No |
+| Bell (Bell (2014 breach)) | 20,902 | Yes |
+| Bell2017 (Bell (2017 breach)) | 2,231,256 | Yes |
 | Benchmark | 93,343 | Yes |
 | Bestialitysextaboo | 3,204 | Yes |
 | Bhinneka | 1,274,340 | No |
@@ -503,7 +503,7 @@ Here's a list of breached sites.
 | Romwe | 19,531,820 | Yes |
 | RosebuttBoard (Rosebutt Board) | 107,303 | No |
 | RoyalEnfield (Royal Enfield) | 420,873 | Yes |
-| RussianAmerica (Russian America) | 182,717 | No |
+| RussianAmerica (Russian America) | 182,717 | Yes |
 | SCDailyPhoneSpamList (SC Daily Phone Spam List) | 32,939,105 | No |
 | SHEIN | 39,086,762 | Yes |
 | SIAE (Società Italiana degli Autori ed Editori) | 14,609 | No |
@@ -692,10 +692,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 381 | 4,071,250,782 |
-| Normal | 290 | 4,859,951,285 |
+| Cloudflare | 384 | 4,073,685,657 |
+| Normal | 287 | 4,857,516,410 |
 
 
 
-### 56.8% of breached sites (pwned sites) are using Cloudflare.
+### 57.2% of breached sites (pwned sites) are using Cloudflare.
 ### 45.6% of leaked accounts are on Cloudflare sites.
