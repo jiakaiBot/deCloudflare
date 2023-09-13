@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [None of the “sha512” hashes in the integrity attribute match the content of the subresource](https://github.com/PrivateBin/PrivateBin/issues/1170)
+- [Can't generate SSL cert with ansible script (Unprocessable Entity)](https://github.com/RentFreeMedia/rentfreemedia/issues/12)
 - [Webview not possible when an extension fails to load](https://github.com/jobobby04/TachiyomiSY/issues/952)
 - [oai.hconeai.com | 522: Connection timed out error](https://github.com/Helicone/helicone/issues/798)
 - [Network error, even though it is working fine.](https://github.com/KoboldAI/KoboldAI-Client/issues/393)
