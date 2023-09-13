@@ -106,7 +106,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dutchwhite.nl | No |
 | edgy-dns.com | No |
 | edison42.dev | No |
-| electrotm.org | Yes |
 | ellichua.com | No |
 | emiliyan.com | Yes |
 | everovpn.co | No |
@@ -280,7 +279,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ssrahul96.xyz | Yes |
 | startupstack.tech | Yes |
 | stvsk.ml | Yes |
-| sungai.stream | Yes |
 | switch.ch | No |
 | syaifullah.com | Yes |
 | synology.me | No |
@@ -327,8 +325,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 149 |
+| Cloudflare | 147 |
 | Normal | 159 |
 
 
-### 48.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 48% of DNS-over-HTTPS (DoH) are using Cloudflare.
