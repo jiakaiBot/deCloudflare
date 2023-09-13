@@ -9805,6 +9805,7 @@ Here's a list of public Fediverse services.
 | `derezz.com` | Yes |
 | `derg.land` | No |
 | `derg.nz` | Yes |
+| `derg.one` | No |
 | `derg.social` | Yes |
 | `derg.zone` | Yes |
 | `dergnation.org` | Yes |
@@ -48082,7 +48083,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,335 |
-| Normal | 34,698 |
+| Normal | 34,699 |
 
 
 </details>
