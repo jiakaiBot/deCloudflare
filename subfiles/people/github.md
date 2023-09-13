@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [LEDs in /sys/class/leds not usable due to Supervisor's read-only mount; related to GPIO: true](https://github.com/home-assistant/supervisor/issues/4560)
+- [Cloudflare R2 compatibility](https://github.com/thephpleague/flysystem-aws-s3-v3/issues/323)
 - [None of the “sha512” hashes in the integrity attribute match the content of the subresource](https://github.com/PrivateBin/PrivateBin/issues/1170)
 - [Can't generate SSL cert with ansible script (Unprocessable Entity)](https://github.com/RentFreeMedia/rentfreemedia/issues/12)
 - [Webview not possible when an extension fails to load](https://github.com/jobobby04/TachiyomiSY/issues/952)
