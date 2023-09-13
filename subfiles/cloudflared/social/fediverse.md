@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,354 |
+| com | 7,357 |
 | social | 4,553 |
-| net | 3,734 |
+| net | 3,735 |
 | org | 2,501 |
-| de | 2,314 |
+| de | 2,315 |
 
 
 - Mastodon, Pleroma, etc
@@ -3843,6 +3843,7 @@ Here's a list of public Fediverse services.
 | `bartdorsey.com` | Yes |
 | `bartels.social` | No |
 | `bartkk.xyz` | No |
+| `bartmathijssen.com` | Yes |
 | `bartoszmilewski.com` | No |
 | `bartraigures.com` | No |
 | `bartrip.me.uk` | Yes |
@@ -7652,6 +7653,7 @@ Here's a list of public Fediverse services.
 | `coko.foundation` | No |
 | `col.social` | Yes |
 | `cola-gang.industries` | Yes |
+| `cola.net` | No |
 | `cold.solar` | No |
 | `coldness.co` | No |
 | `coldrick.me.uk` | Yes |
@@ -32688,6 +32690,7 @@ Here's a list of public Fediverse services.
 | `pierre.tube` | No |
 | `pierregaignet.ovh` | No |
 | `pierrick.io` | No |
+| `pierronfam.com` | No |
 | `pieter.ninja` | No |
 | `pieterhiemstra.nl` | No |
 | `pieville.net` | Yes |
@@ -36842,6 +36845,7 @@ Here's a list of public Fediverse services.
 | `saysrelax.me` | No |
 | `sb17.space` | No |
 | `sbaron.fr` | No |
+| `sbbsystems.com` | No |
 | `sbcloud.cc` | Yes |
 | `sbea.in` | Yes |
 | `sbg-social.at` | No |
@@ -39163,6 +39167,7 @@ Here's a list of public Fediverse services.
 | `sozialdemokratie.social` | No |
 | `soziale.cloud` | No |
 | `sozialistis.ch` | No |
+| `sozialwelten.de` | No |
 | `sozialwolke.net` | No |
 | `sozica.de` | No |
 | `sozicloud.net` | No |
@@ -39250,6 +39255,7 @@ Here's a list of public Fediverse services.
 | `spdns.de` | No |
 | `spdns.eu` | No |
 | `spdns.org` | No |
+| `speakeasy.estate` | Yes |
 | `speakeasy.tk` | No |
 | `speakers-corner.uk` | No |
 | `speakfree.social` | No |
@@ -41966,6 +41972,7 @@ Here's a list of public Fediverse services.
 | `therevert.org` | No |
 | `therewas.art` | No |
 | `therian.club` | Yes |
+| `therian.network` | Yes |
 | `therianthro.pe` | No |
 | `theringed.city` | No |
 | `theritters.online` | No |
@@ -42112,6 +42119,7 @@ Here's a list of public Fediverse services.
 | `thickskull.net` | No |
 | `thiele.work` | No |
 | `thielen.club` | No |
+| `thiemoo.at` | No |
 | `thierry-pelle.eu` | No |
 | `thierrypizza.cf` | No |
 | `thierrytalbert.fr` | No |
@@ -48089,8 +48097,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,335 |
-| Normal | 34,706 |
+| Cloudflare | 13,338 |
+| Normal | 34,711 |
 
 
 </details>
