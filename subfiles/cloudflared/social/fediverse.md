@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,364 |
 | social | 4,556 |
 | net | 3,739 |
-| org | 2,504 |
+| org | 2,506 |
 | de | 2,317 |
 
 
@@ -1679,6 +1679,7 @@ Here's a list of public Fediverse services.
 | `aliberksandikci.com.tr` | No |
 | `alice-and-bob.de` | No |
 | `alice-tech.net` | No |
+| `alice.rest` | Yes |
 | `alice486.com` | Yes |
 | `alicecomplex.com` | No |
 | `alicee.ooo` | No |
@@ -6360,7 +6361,7 @@ Here's a list of public Fediverse services.
 | `cat.engineer` | Yes |
 | `cat.family` | No |
 | `cat.scot` | Yes |
-| `cat.social` | No |
+| `cat.social` | Yes |
 | `cat6.network` | Yes |
 | `catacombs.xyz` | No |
 | `catala.digital` | No |
@@ -18809,6 +18810,7 @@ Here's a list of public Fediverse services.
 | `inductor.dev` | Yes |
 | `indulgent.art` | No |
 | `indw.blog` | No |
+| `indw.org` | No |
 | `indw.social` | No |
 | `indy.im` | No |
 | `indycompanion.com` | Yes |
@@ -18842,6 +18844,7 @@ Here's a list of public Fediverse services.
 | `infinity-labs.eu` | No |
 | `infinity.garden` | No |
 | `infinitybeardesigns.com` | No |
+| `inflatable.computer` | Yes |
 | `inflo.ws` | No |
 | `info-screen.me` | Yes |
 | `info.tm` | Yes |
@@ -39178,7 +39181,7 @@ Here's a list of public Fediverse services.
 | `sovran.photos` | No |
 | `sovran.social` | No |
 | `sovran.video` | No |
-| `sow.social` | Yes |
+| `sow.social` | No |
 | `sowe.li` | No |
 | `sowelijanpona.xyz` | No |
 | `sowhappy.us` | Yes |
@@ -43720,7 +43723,7 @@ Here's a list of public Fediverse services.
 | `twidon.com` | No |
 | `twilight-creation.com` | No |
 | `twilight.garden` | Yes |
-| `twilightparadox.com` | No |
+| `twilightparadox.com` | Yes |
 | `twilightprincess.se` | Yes |
 | `twimblr.live` | No |
 | `twimblr.xyz` | No |
@@ -46773,6 +46776,7 @@ Here's a list of public Fediverse services.
 | `xen.sh` | No |
 | `xenesth.is` | No |
 | `xenia.social` | Yes |
+| `xenite.org` | No |
 | `xeno.chat` | No |
 | `xeno.moe` | Yes |
 | `xeno.science` | No |
@@ -48135,8 +48139,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,353 |
-| Normal | 34,734 |
+| Cloudflare | 13,356 |
+| Normal | 34,735 |
 
 
 </details>
