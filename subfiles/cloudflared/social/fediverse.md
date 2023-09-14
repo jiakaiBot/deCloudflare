@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,556 |
 | net | 3,739 |
 | org | 2,504 |
-| de | 2,316 |
+| de | 2,317 |
 
 
 - Mastodon, Pleroma, etc
@@ -3453,6 +3453,7 @@ Here's a list of public Fediverse services.
 | `ayatovr.dev` | No |
 | `ayco.io` | No |
 | `ayden.life` | Yes |
+| `ayeri.de` | No |
 | `aylett.co.uk` | Yes |
 | `aynrand.social` | No |
 | `ayntk.net` | No |
@@ -28292,6 +28293,7 @@ Here's a list of public Fediverse services.
 | `mxsglobal.com` | No |
 | `mxstbr.com` | Yes |
 | `mxtthxw.art` | No |
+| `my-box.dev` | Yes |
 | `my-create.art` | No |
 | `my-fediverse.org` | No |
 | `my-freedom.space` | No |
@@ -35593,6 +35595,7 @@ Here's a list of public Fediverse services.
 | `richard-dern.fr` | No |
 | `richard.directory` | No |
 | `richardandbethany.xyz` | No |
+| `richarddegenne.fr` | No |
 | `richardhall.online` | No |
 | `richardhickson.com` | Yes |
 | `richardjdalton.com` | No |
@@ -48132,8 +48135,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,352 |
-| Normal | 34,732 |
+| Cloudflare | 13,353 |
+| Normal | 34,734 |
 
 
 </details>
