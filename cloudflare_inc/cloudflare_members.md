@@ -1256,6 +1256,7 @@ Or is this merely a case of simple modesty?
 | Michael Wolf | Employee | |
 | Michal Melewski | Employee | |
 | Michel Bamps | Employee |  |
+| Michele Yetman | Employee | |
 | Michelle Brown | Accountant |  |
 | Michelle de Venoge | Employee |  |
 | Michelle Hagan | Employee |  |
