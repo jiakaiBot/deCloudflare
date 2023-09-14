@@ -30464,7 +30464,7 @@ Here's a list of public Fediverse services.
 | `nya.gay` | No |
 | `nya.house` | No |
 | `nya.one` | Yes |
-| `nya.pub` | No |
+| `nya.pub` | Yes |
 | `nya.rest` | Yes |
 | `nya.show` | Yes |
 | `nya.social` | No |
@@ -46328,6 +46328,7 @@ Here's a list of public Fediverse services.
 | `woefdram.nl` | No |
 | `woefdram.social` | No |
 | `woehl.social` | Yes |
+| `woem.cat` | No |
 | `woem.space` | No |
 | `wogan.im` | No |
 | `wohlbrecht.eu` | No |
@@ -48127,7 +48128,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,349 |
+| Cloudflare | 13,350 |
 | Normal | 34,730 |
 
 
