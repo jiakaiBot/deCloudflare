@@ -128,9 +128,21 @@ deny-answer-aliases { "localhost.invalid"; };
 
 <details><summary> _click me_ </summary>
 
-Add them to your `blocked-ips.txt`.
+```
+[blocked_ips]
+blocked_ips_file = 'blocked-ips.txt'
+[blocked_names]
+blocked_names_file = 'blocked-names.txt'
+```
 
-- Or download [full pieces.txt](../../cloudflare_inc/cloudflare_CIDR_v4_pieces.txt) for absolute protection.
+- Add this to `blocked-names.txt`.
+
+```
+*cloudflare*
+```
+
+- Add them to your `blocked-ips.txt`.
+  - Or download [full pieces.txt](../../cloudflare_inc/cloudflare_CIDR_v4_pieces.txt) for absolute protection.
 
 ```
 103.21.244.*
