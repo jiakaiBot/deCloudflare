@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-09-14: [Managed Challenge not completing](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9844kvbcss37)
 - 2023-09-13: [Performance issues in Dublin](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/yl161hl55md8)
 - 2023-09-13: [Issues with 1.1.1.1 public resolver in Lisbon, Portugal](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6s0q4s14mmnn)
 - 2023-09-12: [Network Performance Issues in Madrid, Algiers, Oran](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5hb5cvzny92h)
