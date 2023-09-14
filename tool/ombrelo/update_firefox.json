@@ -8,9 +8,9 @@
               "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.5.1",
+          "version": "1.0.6",
           "update_link": "https://0xacab.org/dCF/deCloudflare/-/raw/master/tool/ombrelo/stats.xpi",
-          "update_hash": "sha256:7b00155dc21259c273d90f464c6f729f12159b9ed426ce5ac0c0568150516cd4"
+          "update_hash": "sha256:3de3479c6e3da5c8bd3d68a108ca560d26ae8af7a7f71bce79e0f12fb1c5ec5f"
         }
       ]
     },
@@ -22,9 +22,9 @@
               "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.10.1",
+          "version": "1.0.11",
           "update_link": "https://0xacab.org/dCF/deCloudflare/-/raw/master/tool/ombrelo/design.xpi",
-          "update_hash": "sha256:a1aea2214deb1165e7c5e467cdea0ee7e3fe1d0d4511d68103cc6e47c337dc25"
+          "update_hash": "sha256:fdd342616eeed120efe05c30ba8674314f9ea54ad589046a3e9b9cab1434f8d8"
         }
       ]
     },
@@ -36,9 +36,9 @@
               "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.8.1",
+          "version": "1.0.9",
           "update_link": "https://0xacab.org/dCF/deCloudflare/-/raw/master/tool/ombrelo/search.xpi",
-          "update_hash": "sha256:e2a4f6bd6e97291db930a00e1feafb8e2a76f65151205c7ded6fdd7c0d010cc0"
+          "update_hash": "sha256:770c528505287aa7f149bf38f1bfa18f4ce9052898d4ebb9d9702cb39b4ab334"
         }
       ]
     },
@@ -50,9 +50,9 @@
               "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.14.1",
+          "version": "1.0.15",
           "update_link": "https://0xacab.org/dCF/deCloudflare/-/raw/master/tool/ombrelo/bl.xpi",
-          "update_hash": "sha256:7703555e51afd875250750253a4fef5698e048b3df4dc285e53ef83ae2431e6d"
+          "update_hash": "sha256:394714f2a5596a64a82ac9f2264e35314c257e2662152e6d8bb97380b280057a"
         }
       ]
     }
