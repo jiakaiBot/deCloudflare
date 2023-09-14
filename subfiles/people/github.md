@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Possible 502 Bad Gateway errors with PHP 8.2](https://github.com/johnbillion/query-monitor/issues/813)
 - [Integrate SSR with React](https://github.com/configcat/js-ssr-sdk/issues/69)
 - [Reencryption fails when using age due to concurrent pinentry calls](https://github.com/gopasspw/gopass/issues/2668)
 - [API errors are not actually being shown](https://github.com/KittyCAD/cli/issues/352)
