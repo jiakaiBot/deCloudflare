@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,357 |
+| com | 7,360 |
 | social | 4,554 |
 | net | 3,737 |
-| org | 2,502 |
+| org | 2,503 |
 | de | 2,315 |
 
 
@@ -3332,6 +3332,7 @@ Here's a list of public Fediverse services.
 | `averyjenkinsauthor.com` | No |
 | `averymatt.com` | Yes |
 | `averythefurry.com` | No |
+| `averywinters.org` | No |
 | `avete.world` | No |
 | `avfig.com` | No |
 | `avgeek.social` | No |
@@ -7720,7 +7721,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -18080,6 +18081,7 @@ Here's a list of public Fediverse services.
 | `huggles.club` | No |
 | `hugh.buzz` | No |
 | `hugh.run` | No |
+| `hughlashbrooke.com` | Yes |
 | `huginn.dev` | No |
 | `huginn.uk` | No |
 | `hugolaloge.fr` | No |
@@ -18843,6 +18845,7 @@ Here's a list of public Fediverse services.
 | `informalimd.com` | Yes |
 | `informancer.eu` | No |
 | `informapirata.it` | Yes |
+| `informatic.ai` | Yes |
 | `informaticore.net` | No |
 | `information-architects.de` | Yes |
 | `information-superhighway.net` | No |
@@ -21225,6 +21228,7 @@ Here's a list of public Fediverse services.
 | `kevinianbryan.social` | No |
 | `kevinisageek.org` | No |
 | `kevinmacwhinnie.com` | No |
+| `kevinmullaney.com` | No |
 | `kevinpadanhayes.com` | No |
 | `kevinr.fr` | No |
 | `kevinschachtschneider.net` | No |
@@ -27264,7 +27268,7 @@ Here's a list of public Fediverse services.
 | `modest.com` | Yes |
 | `modestymaise.com` | No |
 | `modimido.tech` | No |
-| `modosolopreneur.com` | Yes |
+| `modosolopreneur.com` | No |
 | `modscleo4.dev.br` | No |
 | `modspil.dk` | No |
 | `moe-max.jp` | Yes |
@@ -40730,7 +40734,7 @@ Here's a list of public Fediverse services.
 | `tacam.social` | No |
 | `tachibana-labs.online` | No |
 | `tachibana.cool` | No |
-| `tachiyomi.moe` | Yes |
+| `tachiyomi.moe` | No |
 | `taciturn.social` | Yes |
 | `tackett.family` | No |
 | `tackman.info` | Yes |
@@ -42792,7 +42796,7 @@ Here's a list of public Fediverse services.
 | `toot.li` | No |
 | `toot.life` | No |
 | `toot.link` | No |
-| `toot.lol` | Yes |
+| `toot.lol` | No |
 | `toot.love` | No |
 | `toot.lt` | No |
 | `toot.lu` | No |
@@ -46628,6 +46632,7 @@ Here's a list of public Fediverse services.
 | `wyngraphs.com` | No |
 | `wynning.tech` | Yes |
 | `wyomingfriendfinder.com` | No |
+| `wyomingjarbo.com` | Yes |
 | `wyrd.social` | No |
 | `wyrd.systems` | Yes |
 | `wyrihaxim.us` | No |
@@ -48110,8 +48115,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,348 |
-| Normal | 34,714 |
+| Cloudflare | 13,347 |
+| Normal | 34,720 |
 
 
 </details>
