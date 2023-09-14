@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Integrate SSR with React](https://github.com/configcat/js-ssr-sdk/issues/69)
 - [Reencryption fails when using age due to concurrent pinentry calls](https://github.com/gopasspw/gopass/issues/2668)
 - [API errors are not actually being shown](https://github.com/KittyCAD/cli/issues/352)
 - [EFAULT Failed to update App: Error: UPGRADE FAILED: failed to create resource: namespaces "cert-manager" not found](https://github.com/truecharts/charts/issues/12570)
