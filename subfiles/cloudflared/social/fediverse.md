@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,360 |
 | social | 4,554 |
-| net | 3,737 |
+| net | 3,738 |
 | org | 2,503 |
 | de | 2,315 |
 
@@ -11794,7 +11794,7 @@ Here's a list of public Fediverse services.
 | `elsdon.me` | Yes |
 | `else.social` | No |
 | `elsec.one` | No |
-| `elseifnull.xyz` | No |
+| `elseifnull.xyz` | Yes |
 | `elses.computer` | No |
 | `elsica.social` | No |
 | `elsmussols.net` | No |
@@ -21758,6 +21758,7 @@ Here's a list of public Fediverse services.
 | `koifu.re` | No |
 | `koinonia.club` | No |
 | `kojaev.name` | No |
+| `kokagenotes.net` | No |
 | `kokedon.xyz` | No |
 | `kokkoro.moe` | Yes |
 | `koko.cat` | No |
@@ -23685,6 +23686,7 @@ Here's a list of public Fediverse services.
 | `lluni.de` | No |
 | `lmaa.pm` | No |
 | `lmao.gg` | No |
+| `lmao.sh` | No |
 | `lmao.tf` | Yes |
 | `lmashton.com` | Yes |
 | `lmbo.party` | No |
@@ -33306,6 +33308,7 @@ Here's a list of public Fediverse services.
 | `poketopia.city` | No |
 | `pokorny.ca` | Yes |
 | `pol.social` | No |
+| `polarbears.online` | No |
 | `polari.com` | No |
 | `polari.social` | No |
 | `polaris-1.work` | No |
@@ -48115,8 +48118,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,347 |
-| Normal | 34,720 |
+| Cloudflare | 13,348 |
+| Normal | 34,722 |
 
 
 </details>
