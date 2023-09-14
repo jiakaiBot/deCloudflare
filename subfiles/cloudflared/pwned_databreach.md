@@ -64,7 +64,7 @@ Here's a list of breached sites.
 | Astoria (Unverified Data Source) | 11,498,146 | Yes |
 | AstroPID (Astropid) | 5,788 | No |
 | Aternos | 1,436,486 | Yes |
-| AtlasQuantum (Atlas Quantum) | 261,463 | No |
+| AtlasQuantum (Atlas Quantum) | 261,463 | Yes |
 | Atmeltomo | 580,177 | No |
 | Audi | 2,743,539 | Yes |
 | Autocentrum (Autocentrum.pl) | 143,717 | Yes |
@@ -365,6 +365,7 @@ Here's a list of breached sites.
 | MagicDuel | 138,443 | Yes |
 | MailRu (mail.ru Dump) | 16,630,988 | No |
 | MajorGeeks | 269,548 | Yes |
+| MalindoAir | 4,328,232 | Yes |
 | MallCZ (MALL.cz) | 735,405 | Yes |
 | Malwarebytes | 111,623 | No |
 | MangaDex | 2,987,329 | Yes |
@@ -692,10 +693,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 384 | 4,073,685,657 |
-| Normal | 287 | 4,857,516,410 |
+| Cloudflare | 386 | 4,078,275,352 |
+| Normal | 286 | 4,857,254,947 |
 
 
 
-### 57.2% of breached sites (pwned sites) are using Cloudflare.
+### 57.4% of breached sites (pwned sites) are using Cloudflare.
 ### 45.6% of leaked accounts are on Cloudflare sites.
