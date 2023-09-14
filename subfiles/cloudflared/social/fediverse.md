@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,555 |
 | net | 3,739 |
 | org | 2,504 |
-| de | 2,315 |
+| de | 2,316 |
 
 
 - Mastodon, Pleroma, etc
@@ -7724,7 +7724,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -21063,7 +21063,7 @@ Here's a list of public Fediverse services.
 | `ke1go360.net` | No |
 | `keane.ml` | Yes |
 | `keasti.net` | Yes |
-| `keaton.cool` | No |
+| `keaton.cool` | Yes |
 | `keazilla.net` | No |
 | `kebin.ga` | No |
 | `kebot.me` | Yes |
@@ -29270,6 +29270,7 @@ Here's a list of public Fediverse services.
 | `netzweh.de` | No |
 | `netzwerk-gebet.de` | No |
 | `netzwerk-it.org` | No |
+| `netzwissen.de` | No |
 | `neubau.social` | No |
 | `neuberger.dev` | No |
 | `neue.city` | No |
@@ -48128,8 +48129,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,350 |
-| Normal | 34,730 |
+| Cloudflare | 13,352 |
+| Normal | 34,729 |
 
 
 </details>
