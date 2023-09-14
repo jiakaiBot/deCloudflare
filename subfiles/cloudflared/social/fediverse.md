@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,360 |
-| social | 4,554 |
-| net | 3,738 |
-| org | 2,503 |
+| com | 7,363 |
+| social | 4,555 |
+| net | 3,739 |
+| org | 2,504 |
 | de | 2,315 |
 
 
@@ -984,6 +984,7 @@ Here's a list of public Fediverse services.
 | `academycity.studio` | No |
 | `acadiageeks.com` | No |
 | `acapi.net` | No |
+| `acarson.wtf` | No |
 | `acb.social` | No |
 | `acc.gs` | Yes |
 | `acc4e.com` | No |
@@ -1077,6 +1078,7 @@ Here's a list of public Fediverse services.
 | `acts-sh.pp.ua` | No |
 | `acts13.net` | No |
 | `acts17archive.org` | No |
+| `actsofvolition.com` | No |
 | `actuallyacat.com` | No |
 | `actuallyautistics.org` | No |
 | `acu.lt` | No |
@@ -1515,6 +1517,7 @@ Here's a list of public Fediverse services.
 | `aksel.rocks` | No |
 | `akselmo.dev` | No |
 | `aksura.tk` | No |
+| `akteur.org` | No |
 | `aktion-nordost.de` | No |
 | `aktion-nordost.tv` | No |
 | `aktivtube.com` | No |
@@ -10859,6 +10862,7 @@ Here's a list of public Fediverse services.
 | `drawsdraws.com` | No |
 | `drazisil.com` | Yes |
 | `drcarlscamp.com` | No |
+| `drcassone.media` | No |
 | `drcassone.social` | No |
 | `drcit.social` | Yes |
 | `drdeimann.de` | No |
@@ -11286,6 +11290,7 @@ Here's a list of public Fediverse services.
 | `east17.org` | No |
 | `eastback.co.jp` | No |
 | `easter.fr` | No |
+| `eastm.nz` | No |
 | `eastman.nz` | No |
 | `eastman.tech` | No |
 | `eastmetrocommunitymusic.org` | No |
@@ -12877,6 +12882,7 @@ Here's a list of public Fediverse services.
 | `fastco.social` | No |
 | `fastcompany.social` | No |
 | `fastdon.com` | No |
+| `fasterandworse.com` | Yes |
 | `fasterwhen.red` | No |
 | `fastly.social` | No |
 | `fastre.me` | No |
@@ -22379,6 +22385,7 @@ Here's a list of public Fediverse services.
 | `lacolaco.net` | Yes |
 | `lacoloc.cafe` | No |
 | `lacommune.social` | Yes |
+| `laconic.social` | No |
 | `lacot.org` | No |
 | `lacteum.xyz` | No |
 | `lactomeda.tk` | No |
@@ -23846,6 +23853,7 @@ Here's a list of public Fediverse services.
 | `lomz.me` | No |
 | `lond.com.br` | Yes |
 | `londonsocial.uk` | No |
+| `londontopia.net` | No |
 | `lone-starr.net` | No |
 | `loneliness.academy` | No |
 | `lonelocust.com` | No |
@@ -45683,6 +45691,7 @@ Here's a list of public Fediverse services.
 | `webcommunity.club` | No |
 | `webcoven.com` | No |
 | `webdancers.com` | No |
+| `webdebolsillo.com` | No |
 | `webdesignhighlands.co.uk` | No |
 | `webdev.community` | Yes |
 | `webdev.network` | No |
@@ -48118,8 +48127,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,348 |
-| Normal | 34,722 |
+| Cloudflare | 13,349 |
+| Normal | 34,730 |
 
 
 </details>
