@@ -14472,7 +14472,7 @@ Here's a list of public Fediverse services.
 | `friendo.monster` | No |
 | `friendo.space` | Yes |
 | `friends.cafe` | Yes |
-| `friends.casa` | No |
+| `friends.casa` | Yes |
 | `friends.link` | Yes |
 | `friends.nico` | No |
 | `friends.rodeo` | No |
@@ -32396,6 +32396,7 @@ Here's a list of public Fediverse services.
 | `peregrinecoast.press` | Yes |
 | `peregrinecross.com` | No |
 | `peregrinor.net` | No |
+| `perennially.online` | No |
 | `perfect.moe` | No |
 | `perfectflaw.us` | No |
 | `performing-arts.ch` | No |
@@ -48141,7 +48142,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,356 |
+| Cloudflare | 13,357 |
 | Normal | 34,737 |
 
 
