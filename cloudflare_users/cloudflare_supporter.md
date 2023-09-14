@@ -13448,6 +13448,7 @@ Do not create new issue or we will close it as duplicate.
 | [VE_NotFire@twitter](https://twitter.com/VE_NotFire/status/1561371709046808576) | advertise |
 | [vfedoroff@twitter](https://twitter.com/vfedoroff/status/1499923341569839111) | advertise |
 | [vgchat@twitter](https://twitter.com/vgchat/status/1392263921013252103) | advertise |
+| [Vgkud@twitter](https://twitter.com/Vgkud/status/1702124886687125878) | advertise |
 | [vgophannad@twitter](https://twitter.com/vgophannad/status/1552536474381389825) | advertise |
 | [vhcone@twitter](https://twitter.com/vhcone/status/1491930353136959490) | advertise |
 | [vhgamer2006@twitter](https://twitter.com/vhgamer2006/status/1413728432861585411) | advertise |
