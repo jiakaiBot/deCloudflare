@@ -27647,6 +27647,7 @@ Here's a list of public Fediverse services.
 | `mossymaker.com` | No |
 | `mosteverywhere.com` | No |
 | `mostlychris.net` | Yes |
+| `mostlygood.xyz` | No |
 | `mostodon.cloud` | Yes |
 | `mostodon.info` | No |
 | `mostodon.net` | No |
@@ -35379,6 +35380,7 @@ Here's a list of public Fediverse services.
 | `res.ac` | No |
 | `resampling.net` | No |
 | `researchanddestroy.technology` | No |
+| `researchbuzz.me` | No |
 | `researchinstitute.at` | No |
 | `reseau-canope.fr` | No |
 | `reseau.education` | No |
@@ -48140,7 +48142,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,356 |
-| Normal | 34,735 |
+| Normal | 34,737 |
 
 
 </details>
