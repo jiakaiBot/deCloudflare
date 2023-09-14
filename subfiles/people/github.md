@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [JSONDecodeError: Expecting value: line 1 column 1 (char 0)](https://github.com/helallao/perplexity-ai/issues/16)
 - [LePorno.info: part of the cookie is invalid](https://github.com/Prowlarr/Prowlarr/issues/1868)
 - [Possible 502 Bad Gateway errors with PHP 8.2](https://github.com/johnbillion/query-monitor/issues/813)
 - [Integrate SSR with React](https://github.com/configcat/js-ssr-sdk/issues/69)
