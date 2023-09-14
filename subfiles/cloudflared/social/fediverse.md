@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,363 |
-| social | 4,555 |
+| com | 7,364 |
+| social | 4,556 |
 | net | 3,739 |
 | org | 2,504 |
 | de | 2,316 |
@@ -3270,6 +3270,7 @@ Here's a list of public Fediverse services.
 | `autistic.blog` | No |
 | `autistic.id` | No |
 | `autisticgoblin.ca` | No |
+| `autisticnomad.social` | No |
 | `autisticpri.de` | No |
 | `autistics.life` | No |
 | `autisticwriter.com` | No |
@@ -13126,6 +13127,7 @@ Here's a list of public Fediverse services.
 | `fedifit.site` | No |
 | `fediflix.de` | No |
 | `fediflix.social` | No |
+| `fediflohmi.ch` | No |
 | `fedifriends.social` | No |
 | `fedifrog.com` | No |
 | `fedifur.social` | No |
@@ -32030,6 +32032,7 @@ Here's a list of public Fediverse services.
 | `partyparrot.social` | No |
 | `partypooper.eu` | No |
 | `partytown.space` | No |
+| `parzzix.com` | No |
 | `pas.la` | No |
 | `pasa.co` | No |
 | `pasabo.ca` | No |
@@ -48130,7 +48133,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,352 |
-| Normal | 34,729 |
+| Normal | 34,732 |
 
 
 </details>
