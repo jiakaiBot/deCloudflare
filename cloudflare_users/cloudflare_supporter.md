@@ -377,6 +377,7 @@ Do not create new issue or we will close it as duplicate.
 | [AdityaGoel014@twitter](https://twitter.com/AdityaGoel014/status/1400512018667380739) | advertise |
 | [AdityaP64856529@twitter](https://twitter.com/AdityaP64856529/status/1397106574636711940) | advertise |
 | [adityasawarka16@twitter](https://twitter.com/adityasawarka16/status/1380382240727777286) | advertise |
+| [adityaverma612@twitter](https://twitter.com/adityaverma612/status/1702643594975121630) | advertise |
 | [aditya_c84@twitter](https://twitter.com/aditya_c84/status/1659071453223067650) | advertise |
 | [AdleenaL@twitter](https://twitter.com/AdleenaL/status/1686473630144966656) | advertise |
 | [adlerlopex@twitter](https://twitter.com/adlerlopex/status/1618239923269828609) | advertise |
@@ -7470,6 +7471,7 @@ Do not create new issue or we will close it as duplicate.
 | [MaiPham06160922@twitter](https://twitter.com/MaiPham06160922/status/1392396112179306500) | advertise |
 | [Mait82181284@twitter](https://twitter.com/Mait82181284/status/1600479237907308544) | advertise |
 | [maithanh_tai@twitter](https://twitter.com/maithanh_tai/status/1401900355470839810) | advertise |
+| [MaiThin168323@twitter](https://twitter.com/MaiThin168323/status/1702646639562023190) | advertise |
 | [MaitNguyn1@twitter](https://twitter.com/MaitNguyn1/status/1553259164927168513) | advertise |
 | [maitubame@twitter](https://twitter.com/maitubame/status/1669676888883888130) | advertise |
 | [MaiVnTi54764591@twitter](https://twitter.com/MaiVnTi54764591/status/1396340065610059776) | advertise |
@@ -7512,6 +7514,7 @@ Do not create new issue or we will close it as duplicate.
 | [mamadukino@twitter](https://twitter.com/mamadukino/status/1589769719049244673) | advertise |
 | [Mamamiaee1@twitter](https://twitter.com/Mamamiaee1/status/1664313508593549313) | advertise |
 | [MamaPeaB@twitter](https://twitter.com/MamaPeaB/status/1665858424721088514) | advertise |
+| [mamasrar68@twitter](https://twitter.com/mamasrar68/status/1702640303696425119) | advertise |
 | [mamee12145@twitter](https://twitter.com/mamee12145/status/1624070485557510144) | advertise |
 | [MamMad08079795@twitter](https://twitter.com/MamMad08079795/status/1491453521266638848) | advertise |
 | [MamMam02043349@twitter](https://twitter.com/MamMam02043349/status/1538613925004333057) | advertise |
