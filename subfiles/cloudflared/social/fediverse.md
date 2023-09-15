@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,376 |
+| com | 7,377 |
 | social | 4,557 |
 | net | 3,742 |
 | org | 2,507 |
-| de | 2,321 |
+| de | 2,322 |
 
 
 - Mastodon, Pleroma, etc
@@ -298,6 +298,7 @@ Here's a list of public Fediverse services.
 | `1foo.net` | No |
 | `1in1.net` | Yes |
 | `1in9.net` | Yes |
+| `1link.fun` | Yes |
 | `1nd33d.com` | No |
 | `1nd33d.social` | No |
 | `1necat.com` | No |
@@ -7732,7 +7733,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -10443,7 +10444,7 @@ Here's a list of public Fediverse services.
 | `dlazaro.ca` | Yes |
 | `dlct.ca` | No |
 | `dlf.social` | No |
-| `dlford.io` | No |
+| `dlford.io` | Yes |
 | `dlgreen.com` | No |
 | `dline.xyz` | No |
 | `dlitz.net` | No |
@@ -13326,6 +13327,7 @@ Here's a list of public Fediverse services.
 | `fehacking.xyz` | No |
 | `fehrsbook.com` | No |
 | `feilimatrisen.net` | No |
+| `feinschmeckergarten.de` | No |
 | `feistel.party` | No |
 | `feistycricket.org` | No |
 | `felagslegt.is` | No |
@@ -18444,6 +18446,7 @@ Here's a list of public Fediverse services.
 | `iculture.social` | Yes |
 | `icum.to` | No |
 | `icunny.co` | No |
+| `icyh.top` | Yes |
 | `icynet.eu` | No |
 | `icyphox.sh` | No |
 | `id.cc` | No |
@@ -18716,6 +18719,7 @@ Here's a list of public Fediverse services.
 | `impending.events` | No |
 | `imperial.social` | No |
 | `imperialba.se` | No |
+| `implausi.blog` | No |
 | `imposible.blog` | No |
 | `impossiblepeople.co.kr` | No |
 | `impostersyndrome.online` | No |
@@ -23237,6 +23241,7 @@ Here's a list of public Fediverse services.
 | `li212.fr` | No |
 | `li7g.com` | Yes |
 | `lia.fail` | No |
+| `liaamancio.com.br` | No |
 | `liam.ie` | No |
 | `lianwu.fun` | No |
 | `liao.dev` | No |
@@ -33471,6 +33476,7 @@ Here's a list of public Fediverse services.
 | `popcornaddiction.xyz` | No |
 | `pope.party` | Yes |
 | `popgeeks.com` | No |
+| `popgek.com` | Yes |
 | `popindustry.org` | No |
 | `popkulturreferenz.de` | No |
 | `poplava.net` | No |
@@ -42090,6 +42096,7 @@ Here's a list of public Fediverse services.
 | `thesocialbridge.net` | No |
 | `thesocialnerd.online` | No |
 | `thesolarrepublic.org` | Yes |
+| `thesovereign.one` | No |
 | `thespence.space` | No |
 | `thespinning.top` | No |
 | `thespiralbound.com` | No |
@@ -46934,7 +46941,7 @@ Here's a list of public Fediverse services.
 | `xn--7s9hd.ws` | No |
 | `xn--80a0achj.xn--p1acf` | No |
 | `xn--80aa2ajy.xn--p1acf` | No |
-| `xn--80an2adaa.xn--p1ai` | Yes |
+| `xn--80an2adaa.xn--p1ai` | No |
 | `xn--8r9a.com` | No |
 | `xn--90aldbalef8bvy9l.xn--p1ai` | Yes |
 | `xn--90anxanf8c5b.xn--p1ai` | Yes |
@@ -48177,8 +48184,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,364 |
-| Normal | 34,765 |
+| Cloudflare | 13,368 |
+| Normal | 34,768 |
 
 
 </details>
