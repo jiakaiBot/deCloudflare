@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- ["You need to specify a canvas element" error when using Cloudflare Workers with qrcode](https://github.com/soldair/node-qrcode/issues/349)
 - [Unable to run](https://github.com/ChunAllen/langchain-local/issues/1)
 - [Make Cache Lifespan also purge Cloudflare APO Cache](https://github.com/wp-media/wp-rocket/issues/6170)
 - [Windscribe requires credentials](https://github.com/Snawoot/windscribe-proxy/issues/24)
