@@ -29326,6 +29326,7 @@ Here's a list of public Fediverse services.
 | `neurodifferent.me` | No |
 | `neurodiver.ge` | No |
 | `neurodiversity-in.au` | Yes |
+| `neurofrontiers.blog` | No |
 | `neurohack.net` | Yes |
 | `neurology.social` | Yes |
 | `neuromante.net` | No |
@@ -48185,7 +48186,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,368 |
-| Normal | 34,768 |
+| Normal | 34,769 |
 
 
 </details>
