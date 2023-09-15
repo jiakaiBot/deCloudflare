@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Windscribe requires credentials](https://github.com/Snawoot/windscribe-proxy/issues/24)
 - [Using middlewares with different env variables](https://github.com/honojs/hono/issues/1460)
 - [bitnami/argo-cd 504 Bad Gateway Error](https://github.com/bitnami/charts/issues/19289)
 - [SeafilePro - no available certificates on login](https://github.com/haiwen/seafile-iOS/issues/347)
