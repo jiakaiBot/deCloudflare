@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Make Cache Lifespan also purge Cloudflare APO Cache](https://github.com/wp-media/wp-rocket/issues/6170)
 - [Windscribe requires credentials](https://github.com/Snawoot/windscribe-proxy/issues/24)
 - [Using middlewares with different env variables](https://github.com/honojs/hono/issues/1460)
 - [bitnami/argo-cd 504 Bad Gateway Error](https://github.com/bitnami/charts/issues/19289)
