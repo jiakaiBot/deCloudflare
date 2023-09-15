@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to run](https://github.com/ChunAllen/langchain-local/issues/1)
 - [Make Cache Lifespan also purge Cloudflare APO Cache](https://github.com/wp-media/wp-rocket/issues/6170)
 - [Windscribe requires credentials](https://github.com/Snawoot/windscribe-proxy/issues/24)
 - [Using middlewares with different env variables](https://github.com/honojs/hono/issues/1460)
