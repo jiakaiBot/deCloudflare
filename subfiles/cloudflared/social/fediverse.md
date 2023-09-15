@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,375 |
+| com | 7,376 |
 | social | 4,557 |
 | net | 3,742 |
-| org | 2,506 |
-| de | 2,319 |
+| org | 2,507 |
+| de | 2,321 |
 
 
 - Mastodon, Pleroma, etc
@@ -2494,7 +2494,7 @@ Here's a list of public Fediverse services.
 | `apfelfunk.com` | No |
 | `apha.dk` | No |
 | `aphasiagoverned.com` | No |
-| `api-ariang.ml` | Yes |
+| `api-ariang.ml` | No |
 | `api-d.com` | Yes |
 | `apievangelist.com` | Yes |
 | `apintandaparma.club` | Yes |
@@ -7342,6 +7342,7 @@ Here's a list of public Fediverse services.
 | `clinchfire.social` | Yes |
 | `clinicians-exchange.org` | No |
 | `clintmoyer.com` | No |
+| `cliophate.wtf` | Yes |
 | `clipbored.xyz` | Yes |
 | `clipperz.is` | No |
 | `clipperz.org` | No |
@@ -8402,6 +8403,7 @@ Here's a list of public Fediverse services.
 | `crossdressing.rocks` | No |
 | `crosse.org` | Yes |
 | `crossfamilyweb.com` | No |
+| `crossgolf.org` | No |
 | `crosshatch.fun` | No |
 | `crosspage.nl` | No |
 | `crosstalk.co` | No |
@@ -9138,6 +9140,7 @@ Here's a list of public Fediverse services.
 | `dans-ma-bulle.life` | No |
 | `dansende-banaan.nl` | No |
 | `danshudon.jp` | No |
+| `dansleho.st` | No |
 | `danslesbois.info` | No |
 | `dansmith.online` | No |
 | `dansmonorage.blue` | No |
@@ -9153,6 +9156,7 @@ Here's a list of public Fediverse services.
 | `dapor.net` | No |
 | `dapor.org` | No |
 | `dappital.co` | No |
+| `daptl.com` | No |
 | `dara.li` | No |
 | `darac.org.uk` | No |
 | `daradesa.com` | No |
@@ -13589,6 +13593,7 @@ Here's a list of public Fediverse services.
 | `finfur.net` | Yes |
 | `fingerprintsoftware.ca` | No |
 | `fingo.dev` | No |
+| `fingolas.eu` | No |
 | `finkasaur.us` | No |
 | `finkhaeuser.de` | No |
 | `finlandon.info` | No |
@@ -15621,6 +15626,7 @@ Here's a list of public Fediverse services.
 | `giggle.army` | No |
 | `giggleplex.red` | No |
 | `giggly.de` | No |
+| `gigi.nu` | No |
 | `gigon.cloud` | No |
 | `gigq.com` | Yes |
 | `gigsak.social` | No |
@@ -29281,6 +29287,7 @@ Here's a list of public Fediverse services.
 | `netz.org` | No |
 | `netzbegruenung.de` | No |
 | `netzdienst.eu` | Yes |
+| `netzels.de` | No |
 | `netzentzug.xyz` | No |
 | `netzgefluester.social` | No |
 | `netzgemeinde.eu` | No |
@@ -41927,6 +41934,7 @@ Here's a list of public Fediverse services.
 | `themcbros.com` | Yes |
 | `themcphails.uk` | No |
 | `themelancholaholic.com` | No |
+| `themen-show.de` | No |
 | `themepark.community` | Yes |
 | `themepark.social` | Yes |
 | `themeparks.social` | No |
@@ -43028,7 +43036,7 @@ Here's a list of public Fediverse services.
 | `torontodiy.xyz` | No |
 | `torontomusic.cloud` | No |
 | `torpedo-submarine.online` | No |
-| `torpedo.contact` | Yes |
+| `torpedo.contact` | No |
 | `torpedo.works` | Yes |
 | `torr.red` | No |
 | `torrca.com` | Yes |
@@ -48169,8 +48177,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,365 |
-| Normal | 34,756 |
+| Cloudflare | 13,364 |
+| Normal | 34,765 |
 
 
 </details>
