@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,377 |
+| com | 7,379 |
 | social | 4,557 |
 | net | 3,743 |
 | org | 2,507 |
@@ -7046,6 +7046,7 @@ Here's a list of public Fediverse services.
 | `chriseaston.com` | No |
 | `chrisedwards.tech` | No |
 | `chrisfried.com` | Yes |
+| `chrisglass.com` | No |
 | `chrishandy.blog` | No |
 | `chrishannah.me` | Yes |
 | `chrishaz.fun` | No |
@@ -19215,6 +19216,7 @@ Here's a list of public Fediverse services.
 | `ipoac.nl` | No |
 | `ipol.social` | No |
 | `ipolska.pl` | No |
+| `ippainetai.com` | Yes |
 | `ippaitaberukimigasukey.com` | Yes |
 | `iproprietor.net` | No |
 | `ipsw.uk` | Yes |
@@ -48191,8 +48193,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,370 |
-| Normal | 34,773 |
+| Cloudflare | 13,371 |
+| Normal | 34,774 |
 
 
 </details>
