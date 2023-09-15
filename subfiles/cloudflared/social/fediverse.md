@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,557 |
 | net | 3,743 |
 | org | 2,507 |
-| de | 2,322 |
+| de | 2,323 |
 
 
 - Mastodon, Pleroma, etc
@@ -1915,6 +1915,7 @@ Here's a list of public Fediverse services.
 | `amane.moe` | Yes |
 | `amanita.zone` | No |
 | `amanite.be` | No |
+| `amanko.fr` | No |
 | `amanogawa.info` | No |
 | `amanogawa.work` | No |
 | `amanzi.nz` | Yes |
@@ -34434,6 +34435,7 @@ Here's a list of public Fediverse services.
 | `queso.ninja` | No |
 | `quesos.io` | Yes |
 | `quet.ch` | Yes |
+| `quetschkommo.de` | No |
 | `quex.cc` | No |
 | `quey.la` | No |
 | `quey.org` | Yes |
@@ -48189,7 +48191,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,369 |
-| Normal | 34,771 |
+| Normal | 34,773 |
 
 
 </details>
