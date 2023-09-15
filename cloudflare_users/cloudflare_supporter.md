@@ -971,6 +971,7 @@ Do not create new issue or we will close it as duplicate.
 | [antonyalston@twitter](https://twitter.com/antonyalston/status/1500675516189134856) | advertise |
 | [AntonySimwanza@twitter](https://twitter.com/AntonySimwanza/status/1644838015322271751) | advertise |
 | [antphyo@twitter](https://twitter.com/antphyo/status/1390723036710457346) | advertise |
+| [AntReviewz@twitter](https://twitter.com/AntReviewz/status/1702469195902955721) | advertise |
 | [antsaranaa@twitter](https://twitter.com/antsaranaa/status/1655545749424287746) | advertise |
 | [AntsyBoi@twitter](https://twitter.com/AntsyBoi/status/1456418455498989569) | advertise |
 | [AntTheHien@twitter](https://twitter.com/AntTheHien/status/1552976865744547840) | advertise |
@@ -12398,6 +12399,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThaungMinSoe5@twitter](https://twitter.com/ThaungMinSoe5/status/1390909151958618112) | advertise |
 | [Thaw40024119@twitter](https://twitter.com/Thaw40024119/status/1394857801512542210) | advertise |
 | [Thaw67314960@twitter](https://twitter.com/Thaw67314960/status/1392714162971680769) | advertise |
+| [thawnaingtun@twitter](https://twitter.com/thawnaingtun/status/1702489705768755338) | advertise |
 | [Thawraaa2@twitter](https://twitter.com/Thawraaa2/status/1391396761235689477) | advertise |
 | [ThawSett5@twitter](https://twitter.com/ThawSett5/status/1394010019763347458) | advertise |
 | [ThawTarSan3@twitter](https://twitter.com/ThawTarSan3/status/1377504002695254016) | advertise |
@@ -12640,6 +12642,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thuan123567@twitter](https://twitter.com/Thuan123567/status/1514877002481737731) | advertise |
 | [ThuanDinhDao@twitter](https://twitter.com/ThuanDinhDao/status/1602896308347412480) | advertise |
 | [ThuanNg52709347@twitter](https://twitter.com/ThuanNg52709347/status/1403081195034841088) | advertise |
+| [ThuanNg73751999@twitter](https://twitter.com/ThuanNg73751999/status/1702448171899863468) | advertise |
 | [ThuanTh58337931@twitter](https://twitter.com/ThuanTh58337931/status/1599055563979386883) | advertise |
 | [Thudanupk1@twitter](https://twitter.com/Thudanupk1/status/1396143299140804609) | advertise |
 | [thugboyzsex@twitter](https://twitter.com/thugboyzsex/status/1474144170021306404) | advertise |
