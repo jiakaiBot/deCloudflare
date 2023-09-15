@@ -2,7 +2,9 @@
 
 `Let's fight against the growing MITM attack on the Internet.`
 
-![](../../image/goodorbad.jpg)
+| ? | ? |
+| -- | -- |
+| ![](../../image/goodorbad.jpg) | ![](../../image/dsfgs_bcma_i2p.webp) |
 
 
 ```
