@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,364 |
+| com | 7,365 |
 | social | 4,556 |
 | net | 3,739 |
 | org | 2,506 |
@@ -4601,6 +4601,7 @@ Here's a list of public Fediverse services.
 | `birdtu.be` | No |
 | `biribiri.de` | No |
 | `biribiri.dev` | No |
+| `birla.io` | Yes |
 | `birming.com` | No |
 | `birming.se` | No |
 | `birth-online.de` | No |
@@ -12656,7 +12657,7 @@ Here's a list of public Fediverse services.
 | `fabulousfabs.fr` | No |
 | `facb69.com.br` | No |
 | `facb69.tec.br` | No |
-| `faccionlatina.org` | Yes |
+| `faccionlatina.org` | No |
 | `faceborg.io` | No |
 | `facebourg.fr` | Yes |
 | `facecrime.net` | No |
@@ -32982,6 +32983,7 @@ Here's a list of public Fediverse services.
 | `pixtagram.social` | No |
 | `pixxaddict.social` | No |
 | `pixygram.com` | No |
+| `piyoskey.com` | Yes |
 | `pizzac.at` | No |
 | `pizzadog.moe` | No |
 | `pizzaf.art` | No |
@@ -42826,7 +42828,7 @@ Here's a list of public Fediverse services.
 | `toot.lu` | No |
 | `toot.lv` | Yes |
 | `toot.me.uk` | No |
-| `toot.moe` | Yes |
+| `toot.moe` | No |
 | `toot.monster` | No |
 | `toot.my` | No |
 | `toot.network` | No |
@@ -48143,7 +48145,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,357 |
-| Normal | 34,737 |
+| Normal | 34,739 |
 
 
 </details>
