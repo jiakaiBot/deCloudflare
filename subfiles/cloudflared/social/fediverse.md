@@ -17092,6 +17092,7 @@ Here's a list of public Fediverse services.
 | `haykinson.com` | No |
 | `haylandt.social` | No |
 | `hayu.sh` | No |
+| `haz.pink` | Yes |
 | `hazbo.co.uk` | Yes |
 | `hazel.cafe` | No |
 | `hazelcafe.town` | No |
@@ -48190,7 +48191,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,369 |
+| Cloudflare | 13,370 |
 | Normal | 34,773 |
 
 
