@@ -4918,6 +4918,7 @@ Do not create new issue or we will close it as duplicate.
 | [htun16_khin@twitter](https://twitter.com/htun16_khin/status/1473228647968374785) | advertise |
 | [HtunHtu24277187@twitter](https://twitter.com/HtunHtu24277187/status/1529838332683124737) | advertise |
 | [HtunLynnZaw3@twitter](https://twitter.com/HtunLynnZaw3/status/1390581840784896001) | advertise |
+| [HtunMin77585@twitter](https://twitter.com/HtunMin77585/status/1702586797275160662) | advertise |
 | [HtunNai86088837@twitter](https://twitter.com/HtunNai86088837/status/1390825486352228352) | advertise |
 | [HtunNyein3@twitter](https://twitter.com/HtunNyein3/status/1393004675603910657) | advertise |
 | [HtunTaut@twitter](https://twitter.com/HtunTaut/status/1399667129339809792) | advertise |
@@ -7515,6 +7516,7 @@ Do not create new issue or we will close it as duplicate.
 | [MamMad08079795@twitter](https://twitter.com/MamMad08079795/status/1491453521266638848) | advertise |
 | [MamMam02043349@twitter](https://twitter.com/MamMam02043349/status/1538613925004333057) | advertise |
 | [MamNaw@twitter](https://twitter.com/MamNaw/status/1400309873594691584) | advertise |
+| [MamunHossain014@twitter](https://twitter.com/MamunHossain014/status/1702591515183497258) | advertise |
 | [Manauwa43390416@twitter](https://twitter.com/Manauwa43390416/status/1407583135592632321) | advertise |
 | [Manccity2020@twitter](https://twitter.com/Manccity2020/status/1595794881125179392) | advertise |
 | [MandalayThar10@twitter](https://twitter.com/MandalayThar10/status/1391637199444070402) | advertise |
@@ -12640,6 +12642,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThornTiw@twitter](https://twitter.com/ThornTiw/status/1403023816163352576) | advertise |
 | [thoward222@twitter](https://twitter.com/thoward222/status/1534255279503601664) | advertise |
 | [thrv34725009@twitter](https://twitter.com/thrv34725009/status/1383448654841667588) | advertise |
+| [ThthanhvNguyn1@twitter](https://twitter.com/ThthanhvNguyn1/status/1702589427388916037) | advertise |
 | [Thu21385346@twitter](https://twitter.com/Thu21385346/status/1665733217914347523) | advertise |
 | [thuan1771@twitter](https://twitter.com/thuan1771/status/1552342099403497474) | advertise |
 | [Thuan123567@twitter](https://twitter.com/Thuan123567/status/1514877002481737731) | advertise |
