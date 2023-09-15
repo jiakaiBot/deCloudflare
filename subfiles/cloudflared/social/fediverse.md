@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,366 |
-| social | 4,556 |
+| com | 7,368 |
+| social | 4,557 |
 | net | 3,739 |
 | org | 2,506 |
 | de | 2,317 |
@@ -8683,6 +8683,7 @@ Here's a list of public Fediverse services.
 | `cuteposting.institute` | Yes |
 | `cutest.monster` | No |
 | `cutest.space` | No |
+| `cutetropolis.com` | No |
 | `cutewith.me` | No |
 | `cutewolfboi.me` | No |
 | `cuthrell.com` | No |
@@ -13361,6 +13362,7 @@ Here's a list of public Fediverse services.
 | `femboyfor.sale` | No |
 | `femboyfurry.net` | Yes |
 | `femboys-in.space` | Yes |
+| `femboys-who.top` | Yes |
 | `femboys.bar` | Yes |
 | `femboys.love` | Yes |
 | `femby.club` | No |
@@ -17182,6 +17184,7 @@ Here's a list of public Fediverse services.
 | `heidekrautbahn-kirchen.de` | No |
 | `height.social` | No |
 | `heigl.org` | No |
+| `heiji.me` | No |
 | `heijmans.social` | Yes |
 | `heiki-hecchara.net` | Yes |
 | `heiko-adams.de` | No |
@@ -18076,6 +18079,7 @@ Here's a list of public Fediverse services.
 | `hubzilla.ru` | No |
 | `hubzilla.social` | No |
 | `hubzion.net` | No |
+| `huck.social` | No |
 | `huck.website` | No |
 | `huckle.ch` | No |
 | `hucnet.ch` | No |
@@ -38455,6 +38459,7 @@ Here's a list of public Fediverse services.
 | `skyrina.dev` | No |
 | `skyshanty.xyz` | No |
 | `skyshaper.org` | No |
+| `skytapdns.com` | No |
 | `skytatu.com` | No |
 | `skytemple.org` | Yes |
 | `skyue.com` | No |
@@ -39376,6 +39381,7 @@ Here's a list of public Fediverse services.
 | `spinkynetworks.com` | No |
 | `spinne.systems` | No |
 | `spinning-fantasies.org` | Yes |
+| `spinny.city` | No |
 | `spinster.dev` | Yes |
 | `spinster.xyz` | Yes |
 | `spinweb.de` | No |
@@ -47771,7 +47777,7 @@ Here's a list of public Fediverse services.
 | `zef.social` | No |
 | `zefirchik.xyz` | Yes |
 | `zeguigui.com` | No |
-| `zehaeva.com` | No |
+| `zehaeva.com` | Yes |
 | `zehdonut.com` | No |
 | `zeitlinie.wien` | No |
 | `zeitrechnen.de` | Yes |
@@ -48145,8 +48151,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,356 |
-| Normal | 34,741 |
+| Cloudflare | 13,358 |
+| Normal | 34,745 |
 
 
 </details>
