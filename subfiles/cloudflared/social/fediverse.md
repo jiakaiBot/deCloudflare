@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,377 |
 | social | 4,557 |
-| net | 3,742 |
+| net | 3,743 |
 | org | 2,507 |
 | de | 2,322 |
 
@@ -5046,6 +5046,7 @@ Here's a list of public Fediverse services.
 | `bna.social` | No |
 | `bnamed.social` | No |
 | `bne.social` | Yes |
+| `bngtzn.se` | Yes |
 | `bnjm.org` | No |
 | `bnjmn.id` | No |
 | `bnkr.cc` | Yes |
@@ -7214,6 +7215,7 @@ Here's a list of public Fediverse services.
 | `cirrus-ss.dev` | No |
 | `cirrus.social` | Yes |
 | `cirrusseven.com` | Yes |
+| `cirtensis.net` | No |
 | `ciruxia.se` | No |
 | `cis-reunion.fr` | No |
 | `cisne.dev` | Yes |
@@ -15740,6 +15742,7 @@ Here's a list of public Fediverse services.
 | `glaros.xyz` | No |
 | `glasgow.social` | No |
 | `glasgownet.com` | No |
+| `glasnost.se` | No |
 | `glaspest.nu` | No |
 | `glasserholdings.eu` | No |
 | `glasses.moe` | Yes |
@@ -48185,8 +48188,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,368 |
-| Normal | 34,769 |
+| Cloudflare | 13,369 |
+| Normal | 34,771 |
 
 
 </details>
