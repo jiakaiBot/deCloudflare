@@ -787,6 +787,7 @@ ns1.cloudflare.com
 ns1.harley.ns.cloudflare.com
 ns2.cloudflare.com
 ns2.love.ns.cloudflare.com
+ns212.dns.cf-ns.com
 ns7.cloudflare.com
 nucum.ns.cloudflare.com
 oaklyn.ns.cloudflare.com
