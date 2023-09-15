@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,365 |
+| com | 7,366 |
 | social | 4,556 |
 | net | 3,739 |
 | org | 2,506 |
@@ -7728,7 +7728,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -15292,6 +15292,7 @@ Here's a list of public Fediverse services.
 | `geekcloud.cyou` | Yes |
 | `geekcompass.com` | Yes |
 | `geekcorner.eu.org` | No |
+| `geekdad.com` | No |
 | `geekdom.social` | No |
 | `geeker-natsumi.com` | No |
 | `geekery.org` | No |
@@ -48144,8 +48145,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,357 |
-| Normal | 34,739 |
+| Cloudflare | 13,356 |
+| Normal | 34,741 |
 
 
 </details>
