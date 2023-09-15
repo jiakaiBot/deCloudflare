@@ -6092,6 +6092,7 @@ Do not create new issue or we will close it as duplicate.
 | [KAZUKLIP@twitter](https://twitter.com/KAZUKLIP/status/1528599189348925443) | advertise |
 | [KazutoShizuku@twitter](https://twitter.com/KazutoShizuku/status/1402737153205886977) | advertise |
 | [kbLMO8w8FO6y5kf@twitter](https://twitter.com/kbLMO8w8FO6y5kf/status/1601417767688675329) | advertise |
+| [kcuq212003@twitter](https://twitter.com/kcuq212003/status/1702661864218558853) | advertise |
 | [kd2qqv@twitter](https://twitter.com/kd2qqv/status/1449891246479130625) | advertise |
 | [Kdah6FO5yD5H0UH@twitter](https://twitter.com/Kdah6FO5yD5H0UH/status/1383204544495063041) | advertise |
 | [KDarbak@twitter](https://twitter.com/KDarbak/status/1634116951063535624) | advertise |
