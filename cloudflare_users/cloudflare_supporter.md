@@ -1179,6 +1179,7 @@ Do not create new issue or we will close it as duplicate.
 | [astrovpn@twitter](https://twitter.com/astrovpn/status/1665841042753482754) | advertise |
 | [Asuka68530199@twitter](https://twitter.com/Asuka68530199/status/1552187901449945089) | advertise |
 | [asura6886@twitter](https://twitter.com/asura6886/status/1671836779811573760) | advertise |
+| [asywad_majid@twitter](https://twitter.com/asywad_majid/status/1702529391316934775) | advertise |
 | [asz369358@twitter](https://twitter.com/asz369358/status/1596875706382028811) | advertise |
 | [at251105320@twitter](https://twitter.com/at251105320/status/1505566745951875074) | advertise |
 | [Ata720506551@twitter](https://twitter.com/Ata720506551/status/1579033642827149312) | advertise |
@@ -7739,6 +7740,7 @@ Do not create new issue or we will close it as duplicate.
 | [mBoiz19@twitter](https://twitter.com/mBoiz19/status/1552910460738883584) | advertise |
 | [mcddisenoweb@twitter](https://twitter.com/mcddisenoweb/status/1665840690817802247) | advertise |
 | [MCedrid@twitter](https://twitter.com/MCedrid/status/1555325330042372097) | advertise |
+| [Mcflurry182@twitter](https://twitter.com/Mcflurry182/status/1702541780045226253) | advertise |
 | [MChanngyi@twitter](https://twitter.com/MChanngyi/status/1403022638901985281) | advertise |
 | [MckyawG80477746@twitter](https://twitter.com/MckyawG80477746/status/1402182846521901056) | advertise |
 | [mcneil_stayce@twitter](https://twitter.com/mcneil_stayce/status/1389504652291493897) | advertise |
@@ -10434,6 +10436,7 @@ Do not create new issue or we will close it as duplicate.
 | [Quocsang12@twitter](https://twitter.com/Quocsang12/status/1585603869295673345) | advertise |
 | [quocthaii168@twitter](https://twitter.com/quocthaii168/status/1516899698329591808) | advertise |
 | [QUOTESwtm@twitter](https://twitter.com/QUOTESwtm/status/1555673804986253313) | advertise |
+| [QureshiO2@twitter](https://twitter.com/QureshiO2/status/1702558400872108370) | advertise |
 | [QusaiHasan18@twitter](https://twitter.com/QusaiHasan18/status/1618372818856452097) | advertise |
 | [QutPhm1@twitter](https://twitter.com/QutPhm1/status/1633670364659322880) | advertise |
 | [quuyentrann@twitter](https://twitter.com/quuyentrann/status/1401784856070090755) | advertise |
