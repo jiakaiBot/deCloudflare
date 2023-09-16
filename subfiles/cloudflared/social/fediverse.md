@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,385 |
+| com | 7,386 |
 | social | 4,557 |
 | net | 3,748 |
 | org | 2,509 |
@@ -4334,6 +4334,7 @@ Here's a list of public Fediverse services.
 | `betterconversations.online` | Yes |
 | `betterletter.io` | No |
 | `betterodds.social` | No |
+| `betteroffed.com` | Yes |
 | `betterthantwitter.com` | No |
 | `betterways.dev` | Yes |
 | `bettina.pw` | No |
@@ -48234,7 +48235,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,385 |
+| Cloudflare | 13,386 |
 | Normal | 34,801 |
 
 
