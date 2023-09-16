@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Lemmy login data could not be verified due to an error.](https://github.com/induna-crewneck/Reddit-Lemmy-Migrator/issues/14)
 - [CloudFlare Elevated errors for graphql analytics](https://github.com/SecOpsNews/news/issues/18894)
 - [CloudFlare Elevated errors for graphql analytics](https://github.com/hinoshiba/news/issues/3565)
 - ["You need to specify a canvas element" error when using Cloudflare Workers with qrcode](https://github.com/soldair/node-qrcode/issues/349)
