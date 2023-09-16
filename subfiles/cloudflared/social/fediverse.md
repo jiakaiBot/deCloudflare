@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,380 |
+| com | 7,381 |
 | social | 4,557 |
 | net | 3,746 |
-| org | 2,507 |
-| de | 2,323 |
+| org | 2,508 |
+| de | 2,324 |
 
 
 - Mastodon, Pleroma, etc
@@ -877,6 +877,7 @@ Here's a list of public Fediverse services.
 | `abcang.net` | No |
 | `abcde.social` | No |
 | `abcric.net` | Yes |
+| `abctv.com.au` | Yes |
 | `abdl.io` | Yes |
 | `abdl.link` | Yes |
 | `abdl.social` | No |
@@ -1025,6 +1026,7 @@ Here's a list of public Fediverse services.
 | `acid-trip.com` | No |
 | `acid.im` | No |
 | `acid.wtf` | No |
+| `acidental.de` | No |
 | `acidflowermusic.dance` | Yes |
 | `acidrow.com` | Yes |
 | `acilhaberles.net` | No |
@@ -38856,6 +38858,7 @@ Here's a list of public Fediverse services.
 | `soamichel.fr` | No |
 | `soap.coffee` | No |
 | `soapbox.network` | No |
+| `soapnote.org` | Yes |
 | `sobac.com` | No |
 | `sobe.world` | No |
 | `sobes.co.uk` | No |
@@ -43299,6 +43302,7 @@ Here's a list of public Fediverse services.
 | `trege-soft.com` | Yes |
 | `trek3.io` | Yes |
 | `trekkies.social` | No |
+| `trelegal.com` | No |
 | `trendcreate.net` | No |
 | `trendless.ca` | Yes |
 | `trenkner.net` | No |
@@ -48200,8 +48204,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,375 |
-| Normal | 34,777 |
+| Cloudflare | 13,377 |
+| Normal | 34,779 |
 
 
 </details>
