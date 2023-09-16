@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Internet error when add Let's Encrypt Certificate](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3198)
 - [Error when adding the integration to HA](https://github.com/MTrab/energidataservice/issues/370)
 - [No results with new databases](https://github.com/ip2location/ip2proxy-php/issues/15)
 - [Lemmy login data could not be verified due to an error.](https://github.com/induna-crewneck/Reddit-Lemmy-Migrator/issues/14)
