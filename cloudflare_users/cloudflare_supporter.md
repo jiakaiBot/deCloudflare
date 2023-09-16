@@ -13780,6 +13780,7 @@ Do not create new issue or we will close it as duplicate.
 | [wcwheels@twitter](https://twitter.com/wcwheels/status/1679506192475856896) | advertise |
 | [WDragon203@twitter](https://twitter.com/WDragon203/status/1416258687266476033) | advertise |
 | [wd_kill@twitter](https://twitter.com/wd_kill/status/1475478794626650123) | advertise |
+| [Web3JessMac@twitter](https://twitter.com/Web3JessMac/status/1702984464589349329) | advertise |
 | [webdownunder@twitter](https://twitter.com/webdownunder/status/1472764286283833345) | advertise |
 | [WebGainz_Info@twitter](https://twitter.com/WebGainz_Info/status/1671584033027891224) | advertise |
 | [webhellas@twitter](https://twitter.com/webhellas/status/1688134604777988096) | advertise |
