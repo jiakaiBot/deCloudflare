@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Timestamps sent with year 2077 when using Cloudflare Workers (toucan-js)](https://github.com/getsentry/sentry-javascript/issues/9037)
 - [feature The interface is not available in mainland China](https://github.com/WalletConnect/web3modal/issues/1341)
 - [Internet error when add Let's Encrypt Certificate](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3198)
 - [Error when adding the integration to HA](https://github.com/MTrab/energidataservice/issues/370)
