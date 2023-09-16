@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,379 |
+| com | 7,380 |
 | social | 4,557 |
-| net | 3,743 |
+| net | 3,746 |
 | org | 2,507 |
 | de | 2,323 |
 
@@ -495,7 +495,7 @@ Here's a list of public Fediverse services.
 | `4000.re` | No |
 | `403.io` | No |
 | `403page.com` | Yes |
-| `404.mn` | No |
+| `404.mn` | Yes |
 | `404.rip` | No |
 | `404.social` | No |
 | `404.taipei` | No |
@@ -3190,6 +3190,7 @@ Here's a list of public Fediverse services.
 | `aucklandia.social` | Yes |
 | `aucubin.de` | No |
 | `aucubin.eu` | No |
+| `audacis.net` | No |
 | `audax.social` | Yes |
 | `audax.xyz` | Yes |
 | `audio-video.tech` | No |
@@ -6608,6 +6609,7 @@ Here's a list of public Fediverse services.
 | `ceruleanstack.com` | No |
 | `cervid.ca` | No |
 | `cervidae.space` | Yes |
+| `cesarstwokwadratowe.com` | Yes |
 | `cescobarresi.it` | No |
 | `cesiandalex.com` | Yes |
 | `cesium.one` | No |
@@ -31267,6 +31269,7 @@ Here's a list of public Fediverse services.
 | `opensocial.online` | Yes |
 | `opensocial.space` | No |
 | `opensource-school.nl` | Yes |
+| `opensource.net` | No |
 | `opensource.network` | No |
 | `opensource.org` | Yes |
 | `opensourcegardens.info` | No |
@@ -37184,6 +37187,7 @@ Here's a list of public Fediverse services.
 | `scolterius.net` | No |
 | `sconnesso.link` | No |
 | `scoob.wtf` | No |
+| `scoobysnack.net` | Yes |
 | `scookeoni.com` | No |
 | `scoopgang.social` | No |
 | `scop.coop` | No |
@@ -43118,6 +43122,7 @@ Here's a list of public Fediverse services.
 | `toycode.com` | No |
 | `toyoko.in` | Yes |
 | `toyuzuko.dev` | No |
+| `toyvey.xyz` | No |
 | `tpapak.com` | No |
 | `tpaschalis.me` | No |
 | `tpaw.org` | Yes |
@@ -48193,8 +48198,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,371 |
-| Normal | 34,774 |
+| Cloudflare | 13,374 |
+| Normal | 34,776 |
 
 
 </details>
