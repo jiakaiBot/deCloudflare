@@ -1480,6 +1480,7 @@ Here's a list of public Fediverse services.
 | `akaza.red` | Yes |
 | `akbkuku.org` | Yes |
 | `akcakazarma.tk` | No |
+| `akcjareakcja.pl` | No |
 | `akebonozo.com` | No |
 | `akerbaek.no` | No |
 | `akhepcat.com` | No |
@@ -8673,7 +8674,7 @@ Here's a list of public Fediverse services.
 | `curta.cc` | No |
 | `curta.red` | Yes |
 | `curtin.cool` | Yes |
-| `curtisjewell.website` | No |
+| `curtisjewell.website` | Yes |
 | `curtismchale.ca` | No |
 | `curttech.com` | No |
 | `cusae.com` | No |
@@ -48226,7 +48227,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,382 |
+| Cloudflare | 13,383 |
 | Normal | 34,796 |
 
 
