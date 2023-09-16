@@ -1432,6 +1432,7 @@ Here's a list of public Fediverse services.
 | `ajacks.net` | Yes |
 | `ajaphotos.net` | No |
 | `ajar.social` | No |
+| `ajas.nz` | Yes |
 | `ajax.gg` | No |
 | `ajay.app` | Yes |
 | `ajdg.net` | No |
@@ -7739,7 +7740,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -18032,6 +18033,7 @@ Here's a list of public Fediverse services.
 | `hpea.moe` | Yes |
 | `hpi.social` | No |
 | `hpi.wtf` | No |
+| `hpkns.uk` | Yes |
 | `hpstube.fr` | No |
 | `hptrow.me` | No |
 | `hqhsmastodon.com` | Yes |
@@ -48198,8 +48200,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,374 |
-| Normal | 34,776 |
+| Cloudflare | 13,375 |
+| Normal | 34,777 |
 
 
 </details>
