@@ -7747,7 +7747,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -21721,6 +21721,7 @@ Here's a list of public Fediverse services.
 | `knojoko.co.za` | No |
 | `knoll.moe` | Yes |
 | `knot.space` | No |
+| `knot35.xyz` | No |
 | `knotenpunkt-alpen.de` | Yes |
 | `knotes.club` | No |
 | `knots.today` | No |
@@ -44907,7 +44908,7 @@ Here's a list of public Fediverse services.
 | `vercel.app` | No |
 | `verdantsquare.net` | No |
 | `verdi-bsh.de` | No |
-| `verdigado.net` | No |
+| `verdigado.net` | Yes |
 | `vereine.social` | No |
 | `vergaberecht-kanzlei.de` | Yes |
 | `vergenz.info` | No |
@@ -48227,8 +48228,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,383 |
-| Normal | 34,796 |
+| Cloudflare | 13,385 |
+| Normal | 34,795 |
 
 
 </details>
