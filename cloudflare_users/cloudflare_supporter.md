@@ -7384,6 +7384,7 @@ Do not create new issue or we will close it as duplicate.
 | [M0sey2@twitter](https://twitter.com/M0sey2/status/1558770815029903362) | advertise |
 | [M1kimerlan1@twitter](https://twitter.com/M1kimerlan1/status/1570147993810272258) | advertise |
 | [m1lo20@twitter](https://twitter.com/m1lo20/status/1391605926424109056) | advertise |
+| [M1Shokrgozar@twitter](https://twitter.com/M1Shokrgozar/status/1703027718667821319) | advertise |
 | [M2M07044707@twitter](https://twitter.com/M2M07044707/status/1397223341346394112) | advertise |
 | [m2tuqh@twitter](https://twitter.com/m2tuqh/status/1689921183112708096) | advertise |
 | [M7Dgc@twitter](https://twitter.com/M7Dgc/status/1580870778941472768) | advertise |
@@ -9215,6 +9216,7 @@ Do not create new issue or we will close it as duplicate.
 | [nhTngPhan6@twitter](https://twitter.com/nhTngPhan6/status/1603059119660797953) | advertise |
 | [nhtr_ung@twitter](https://twitter.com/nhtr_ung/status/1381240130418130946) | advertise |
 | [NhtTrng53285558@twitter](https://twitter.com/NhtTrng53285558/status/1400998350191620096) | advertise |
+| [NhuHuye26727773@twitter](https://twitter.com/NhuHuye26727773/status/1702963649936245218) | advertise |
 | [nhuthaoo0308@twitter](https://twitter.com/nhuthaoo0308/status/1386713288566661123) | advertise |
 | [NhutHoang9@twitter](https://twitter.com/NhutHoang9/status/1615753866481664000) | advertise |
 | [NhuXg@twitter](https://twitter.com/NhuXg/status/1468960616220037125) | advertise |
@@ -10438,6 +10440,7 @@ Do not create new issue or we will close it as duplicate.
 | [QunLKhnh1@twitter](https://twitter.com/QunLKhnh1/status/1697107922449539522) | advertise |
 | [QunMinh56960884@twitter](https://twitter.com/QunMinh56960884/status/1669645969795977219) | advertise |
 | [Quo35259089@twitter](https://twitter.com/Quo35259089/status/1386228152406401024) | advertise |
+| [QuocAnhNg2k@twitter](https://twitter.com/QuocAnhNg2k/status/1703036993708720347) | advertise |
 | [Quocbao10601948@twitter](https://twitter.com/Quocbao10601948/status/1386125895648219141) | advertise |
 | [Quochung160695@twitter](https://twitter.com/Quochung160695/status/1624551631747686400) | advertise |
 | [Quocsang12@twitter](https://twitter.com/Quocsang12/status/1585603869295673345) | advertise |
