@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,386 |
 | social | 4,557 |
 | net | 3,748 |
-| org | 2,509 |
+| org | 2,510 |
 | de | 2,331 |
 
 
@@ -11218,6 +11218,7 @@ Here's a list of public Fediverse services.
 | `dylanon.com` | Yes |
 | `dylanvanassche.be` | No |
 | `dym.sh` | Yes |
+| `dymc.win` | Yes |
 | `dymersion.com` | No |
 | `dymorz.net` | No |
 | `dynabox.net` | No |
@@ -22414,6 +22415,7 @@ Here's a list of public Fediverse services.
 | `laboursocial.co` | No |
 | `laboutinerie.ovh` | No |
 | `labr.online` | No |
+| `labrat.info` | No |
 | `labrat.space` | No |
 | `labrats.life` | No |
 | `labriks.com` | Yes |
@@ -31650,6 +31652,7 @@ Here's a list of public Fediverse services.
 | `ourpad.org` | No |
 | `ourpublicassembly.com` | Yes |
 | `ours-inculte.fr` | No |
+| `oursaintfrancis.org` | No |
 | `ourselves.space` | Yes |
 | `oursky.social` | No |
 | `oursocialism.today` | No |
@@ -48235,8 +48238,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,386 |
-| Normal | 34,801 |
+| Cloudflare | 13,387 |
+| Normal | 34,803 |
 
 
 </details>
