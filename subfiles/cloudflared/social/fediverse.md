@@ -1250,6 +1250,7 @@ Here's a list of public Fediverse services.
 | `aerian.icu` | Yes |
 | `aerir.xyz` | Yes |
 | `aeris-one.fr` | No |
+| `aerocity.site` | Yes |
 | `aerospace.town` | No |
 | `aes.sh` | Yes |
 | `aesops-pawn.shop` | No |
@@ -5197,6 +5198,7 @@ Here's a list of public Fediverse services.
 | `bonifacelabs.ca` | No |
 | `bonk.social` | No |
 | `bonn.jetzt` | No |
+| `bonn.jobs` | No |
 | `bonn.live` | No |
 | `bonn.pics` | No |
 | `bonn.social` | No |
@@ -11529,6 +11531,7 @@ Here's a list of public Fediverse services.
 | `eenoog.org` | No |
 | `eepy.moe` | No |
 | `eepy.space` | No |
+| `eepygirls.tech` | Yes |
 | `eerbeekseschaakclub.nl` | No |
 | `eersteblik.nl` | No |
 | `eertu.be` | No |
@@ -30769,7 +30772,7 @@ Here's a list of public Fediverse services.
 | `odous.app` | Yes |
 | `ody.si` | No |
 | `odysseus.social` | No |
-| `odyssey346.dev` | Yes |
+| `odyssey346.dev` | No |
 | `oe-doutoku.jp` | No |
 | `oe74.net` | No |
 | `oe7drt.com` | Yes |
@@ -42315,7 +42318,7 @@ Here's a list of public Fediverse services.
 | `thoco.se` | No |
 | `thog.eu` | No |
 | `thomas-pape.de` | No |
-| `thomas.ma` | Yes |
+| `thomas.ma` | No |
 | `thomasaldrian.net` | Yes |
 | `thomasdalichow.de` | No |
 | `thomasdeveloper-react.com` | No |
@@ -48239,7 +48242,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,387 |
-| Normal | 34,803 |
+| Normal | 34,806 |
 
 
 </details>
