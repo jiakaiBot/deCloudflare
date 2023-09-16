@@ -17881,6 +17881,7 @@ Here's a list of public Fediverse services.
 | `hoodlem.social` | No |
 | `hoodojo.com` | No |
 | `hoodratshit.org` | Yes |
+| `hookii.space` | No |
 | `hoops.chat` | No |
 | `hooray.computer` | No |
 | `hoosier.social` | No |
@@ -48234,7 +48235,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,385 |
-| Normal | 34,800 |
+| Normal | 34,801 |
 
 
 </details>
