@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,385 |
 | social | 4,557 |
-| net | 3,747 |
+| net | 3,748 |
 | org | 2,509 |
-| de | 2,329 |
+| de | 2,331 |
 
 
 - Mastodon, Pleroma, etc
@@ -17362,6 +17362,7 @@ Here's a list of public Fediverse services.
 | `herbstschild.de` | No |
 | `hercsi.com` | No |
 | `herd.works` | Yes |
+| `herdnerd.de` | No |
 | `herds.eu` | No |
 | `herdwise.io` | Yes |
 | `here.blue` | No |
@@ -32089,6 +32090,7 @@ Here's a list of public Fediverse services.
 | `partiarazem.pl` | Yes |
 | `partipirate.org` | No |
 | `partizle.com` | Yes |
+| `partnerskapetloft.se` | No |
 | `partnerwerk.de` | No |
 | `partofthething.com` | No |
 | `party.at` | No |
@@ -43384,6 +43386,7 @@ Here's a list of public Fediverse services.
 | `tripleeyegames.social` | Yes |
 | `tripleplusgood.us` | No |
 | `triplering.site` | Yes |
+| `tripletwenty.net` | No |
 | `trippelm.tv` | No |
 | `trippy.pizza` | No |
 | `trippyhippie.dev` | Yes |
@@ -44592,6 +44595,7 @@ Here's a list of public Fediverse services.
 | `utopify.org` | No |
 | `utopioca.com` | No |
 | `utronium.xyz` | No |
+| `utstallningskritik.se` | No |
 | `utsukta.party` | Yes |
 | `utter.online` | No |
 | `utter.social` | No |
@@ -46417,6 +46421,7 @@ Here's a list of public Fediverse services.
 | `wnelson.dev` | Yes |
 | `wngs.uk` | Yes |
 | `wnymathguy.com` | No |
+| `wo4y.de` | No |
 | `woafre.tk` | No |
 | `wobbl.xyz` | Yes |
 | `wobbly.ninja` | Yes |
@@ -48229,7 +48234,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,385 |
-| Normal | 34,795 |
+| Normal | 34,800 |
 
 
 </details>
