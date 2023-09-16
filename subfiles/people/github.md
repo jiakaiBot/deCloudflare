@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error when adding the integration to HA](https://github.com/MTrab/energidataservice/issues/370)
+- [No results with new databases](https://github.com/ip2location/ip2proxy-php/issues/15)
 - [Lemmy login data could not be verified due to an error.](https://github.com/induna-crewneck/Reddit-Lemmy-Migrator/issues/14)
 - [CloudFlare Elevated errors for graphql analytics](https://github.com/SecOpsNews/news/issues/18894)
 - [CloudFlare Elevated errors for graphql analytics](https://github.com/hinoshiba/news/issues/3565)
