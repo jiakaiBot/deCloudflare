@@ -790,6 +790,7 @@ ns2.cloudflare.com
 ns2.love.ns.cloudflare.com
 ns212.dns.cf-ns.com
 ns7.cloudflare.com
+ns80.dns.cf-ns.net
 nucum.ns.cloudflare.com
 oaklyn.ns.cloudflare.com
 odin.ns.cloudflare.com
