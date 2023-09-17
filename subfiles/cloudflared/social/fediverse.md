@@ -20518,7 +20518,6 @@ Here's a list of public Fediverse services.
 | `jubison.fr` | No |
 | `jubjub.club` | No |
 | `juche.town` | No |
-| `judahbrown.dev` | Yes |
 | `judaism.social` | No |
 | `juderjahn.de` | No |
 | `judesign.vision` | No |
@@ -48246,7 +48245,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,385 |
+| Cloudflare | 13,384 |
 | Normal | 34,813 |
 
 
