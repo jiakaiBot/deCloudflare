@@ -3383,6 +3383,7 @@ Do not create new issue or we will close it as duplicate.
 | [EepyArc@twitter](https://twitter.com/EepyArc/status/1665874492948881408) | advertise |
 | [eevolute@twitter](https://twitter.com/eevolute/status/1550487189758304258) | advertise |
 | [effj_kerr@twitter](https://twitter.com/effj_kerr/status/1486100953325522945) | advertise |
+| [eGirl4Rent@twitter](https://twitter.com/eGirl4Rent/status/1696798958688035021) | advertise |
 | [EgjjmniTuRFGjDN@twitter](https://twitter.com/EgjjmniTuRFGjDN/status/1472418260402401283) | advertise |
 | [Ehlay01828178@twitter](https://twitter.com/Ehlay01828178/status/1393452793021698048) | advertise |
 | [EhPhlon@twitter](https://twitter.com/EhPhlon/status/1389913127332945920) | advertise |
@@ -12493,6 +12494,7 @@ Do not create new issue or we will close it as duplicate.
 | [theriotclown@twitter](https://twitter.com/theriotclown/status/1552080980449513475) | advertise |
 | [theslimshadyist@twitter](https://twitter.com/theslimshadyist/status/1542958472714547200) | advertise |
 | [thesniperxjohn@twitter](https://twitter.com/thesniperxjohn/status/1461961789550194691) | advertise |
+| [TheSuperSonic16@twitter](https://twitter.com/TheSuperSonic16/status/1703507180585132467) | advertise |
 | [thesureshg@twitter](https://twitter.com/thesureshg/status/1497509853434355712) | advertise |
 | [thet02720985@twitter](https://twitter.com/thet02720985/status/1470785543948673047) | advertise |
 | [ThetAungKhai4@twitter](https://twitter.com/ThetAungKhai4/status/1498398724413816837) | advertise |
