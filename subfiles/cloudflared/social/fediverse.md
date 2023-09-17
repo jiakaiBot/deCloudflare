@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,389 |
 | social | 4,557 |
-| net | 3,750 |
+| net | 3,751 |
 | org | 2,510 |
 | de | 2,331 |
 
@@ -44133,6 +44133,7 @@ Here's a list of public Fediverse services.
 | `ultragnu.org` | No |
 | `ultrametric.space` | No |
 | `ultramookie.com` | Yes |
+| `ultranurd.net` | No |
 | `ultrasrv.de` | No |
 | `ultraviolet.pm` | Yes |
 | `ultrix.me` | No |
@@ -48257,7 +48258,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,387 |
-| Normal | 34,821 |
+| Normal | 34,822 |
 
 
 </details>
