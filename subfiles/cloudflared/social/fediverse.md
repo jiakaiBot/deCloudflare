@@ -8698,6 +8698,7 @@ Here's a list of public Fediverse services.
 | `cute.army` | No |
 | `cute.group` | No |
 | `cute.is` | Yes |
+| `cute.rest` | No |
 | `cute.science` | No |
 | `cute2d.love` | No |
 | `cute2d.moe` | No |
@@ -48266,7 +48267,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,392 |
-| Normal | 34,825 |
+| Normal | 34,826 |
 
 
 </details>
