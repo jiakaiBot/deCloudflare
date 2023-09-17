@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,389 |
-| social | 4,557 |
+| com | 7,390 |
+| social | 4,558 |
 | net | 3,751 |
 | org | 2,511 |
 | de | 2,332 |
@@ -35471,6 +35471,7 @@ Here's a list of public Fediverse services.
 | `rerac.dev` | Yes |
 | `rererenore.tokyo` | No |
 | `res.ac` | No |
+| `res.social` | No |
 | `resampling.net` | No |
 | `researchanddestroy.technology` | No |
 | `researchbuzz.me` | No |
@@ -41746,6 +41747,7 @@ Here's a list of public Fediverse services.
 | `the937.rocks` | No |
 | `the9thcircle.club` | No |
 | `theabsolute.plus` | Yes |
+| `theadamcooper.com` | No |
 | `theaddict.ink` | No |
 | `theaddict.xyz` | No |
 | `theaether.space` | Yes |
@@ -48264,7 +48266,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,392 |
-| Normal | 34,823 |
+| Normal | 34,825 |
 
 
 </details>
