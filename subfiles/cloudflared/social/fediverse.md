@@ -3288,6 +3288,7 @@ Here's a list of public Fediverse services.
 | `autisticpri.de` | No |
 | `autistics.life` | No |
 | `autisticwriter.com` | No |
+| `autistotetis.lt` | Yes |
 | `autizmo.xyz` | No |
 | `auto.coffee` | No |
 | `autobild.bg` | No |
@@ -14319,7 +14320,7 @@ Here's a list of public Fediverse services.
 | `freeculture.org` | No |
 | `freeculturist.com` | No |
 | `freecumextremist.com` | No |
-| `freeddns.org` | No |
+| `freeddns.org` | Yes |
 | `freediverse.com` | No |
 | `freedom.horse` | No |
 | `freedom.hr` | Yes |
@@ -17965,7 +17966,7 @@ Here's a list of public Fediverse services.
 | `hostbw.de` | Yes |
 | `hostc.at` | No |
 | `hostcheetah.social` | Yes |
-| `hostdon.jp` | No |
+| `hostdon.jp` | Yes |
 | `hostdon.ne.jp` | Yes |
 | `hostdon.net` | No |
 | `hosted.eu.org` | No |
@@ -48257,8 +48258,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,387 |
-| Normal | 34,822 |
+| Cloudflare | 13,390 |
+| Normal | 34,820 |
 
 
 </details>
