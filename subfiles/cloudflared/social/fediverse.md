@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,388 |
+| com | 7,389 |
 | social | 4,557 |
-| net | 3,749 |
+| net | 3,750 |
 | org | 2,510 |
 | de | 2,331 |
 
@@ -5383,6 +5383,7 @@ Here's a list of public Fediverse services.
 | `bovid.space` | No |
 | `bovine.social` | No |
 | `bow.st` | No |
+| `bowblog.com` | No |
 | `bowden.social` | No |
 | `bowefrankema.nl` | Yes |
 | `bowldip.club` | No |
@@ -18944,6 +18945,7 @@ Here's a list of public Fediverse services.
 | `infrageeks.social` | No |
 | `inframed.net` | No |
 | `infranix.eu` | No |
+| `infraspread.net` | No |
 | `infsea.com` | Yes |
 | `infullflow.net` | No |
 | `infurnalcreatures.org` | No |
@@ -20516,6 +20518,7 @@ Here's a list of public Fediverse services.
 | `juanlu.space` | No |
 | `juantrujillo.xyz` | No |
 | `jubaleth.wtf` | Yes |
+| `jubart.com.br` | Yes |
 | `jubes.io` | No |
 | `jubi.life` | No |
 | `jubison.fr` | No |
@@ -27057,6 +27060,7 @@ Here's a list of public Fediverse services.
 | `misskey.ml` | No |
 | `misskey.moe` | Yes |
 | `misskey.net.eu.org` | No |
+| `misskey.network` | No |
 | `misskey.nl` | Yes |
 | `misskey.oita.jp` | No |
 | `misskey.one` | Yes |
@@ -32065,6 +32069,7 @@ Here's a list of public Fediverse services.
 | `parentalmisguidance.com` | No |
 | `parentfamily.ca` | No |
 | `parentheticalrecluse.com` | No |
+| `parenti.sh` | No |
 | `parentplayers.com` | No |
 | `parez.ca` | No |
 | `parfait-mastodon.com` | No |
@@ -34874,6 +34879,7 @@ Here's a list of public Fediverse services.
 | `rancati.com` | No |
 | `rand0m.fail` | No |
 | `rand0m.me` | No |
+| `rand0mise.it` | No |
 | `randbot.live` | Yes |
 | `randir.link` | No |
 | `randland.party` | Yes |
@@ -43148,6 +43154,7 @@ Here's a list of public Fediverse services.
 | `tourdeguet.fr` | No |
 | `tourmentine.com` | No |
 | `tourtoise.quest` | No |
+| `touscontremacron.fr` | No |
 | `towa.li` | No |
 | `towade.me` | No |
 | `towards.vision` | No |
@@ -48249,8 +48256,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,386 |
-| Normal | 34,815 |
+| Cloudflare | 13,387 |
+| Normal | 34,821 |
 
 
 </details>
