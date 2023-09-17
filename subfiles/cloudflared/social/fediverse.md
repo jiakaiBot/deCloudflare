@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,386 |
+| com | 7,387 |
 | social | 4,557 |
 | net | 3,748 |
 | org | 2,510 |
@@ -5762,7 +5762,7 @@ Here's a list of public Fediverse services.
 | `bufalo.me` | Yes |
 | `bufanda.de` | Yes |
 | `buffa.lol` | No |
-| `buffalomesh.net` | Yes |
+| `buffalomesh.net` | No |
 | `buffalopugs.org` | Yes |
 | `bug-fix.net` | No |
 | `bug.expert` | Yes |
@@ -14648,6 +14648,7 @@ Here's a list of public Fediverse services.
 | `fsoc.lol` | No |
 | `fsociety.social` | Yes |
 | `fsphub.org` | No |
+| `fstab.sh` | No |
 | `fstop.social` | No |
 | `fstube.net` | No |
 | `fsub.de` | No |
@@ -20055,6 +20056,7 @@ Here's a list of public Fediverse services.
 | `jgachelin.fr` | No |
 | `jgantts.com` | No |
 | `jgarr.net` | Yes |
+| `jgaskins.lol` | No |
 | `jgaskins.wtf` | Yes |
 | `jgc.org` | Yes |
 | `jgd.ovh` | No |
@@ -34085,6 +34087,7 @@ Here's a list of public Fediverse services.
 | `public.garden` | No |
 | `publicanxiety.us` | No |
 | `publicar.uy` | No |
+| `publicationaggregator.com` | No |
 | `publicgood.social` | No |
 | `publicgoods.social` | Yes |
 | `publichealth.space` | No |
@@ -48241,8 +48244,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,387 |
-| Normal | 34,806 |
+| Cloudflare | 13,386 |
+| Normal | 34,810 |
 
 
 </details>
