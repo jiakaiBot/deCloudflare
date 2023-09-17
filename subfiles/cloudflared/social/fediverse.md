@@ -7750,7 +7750,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -11538,7 +11538,7 @@ Here's a list of public Fediverse services.
 | `eeruwang.me` | Yes |
 | `eesti.zone` | No |
 | `eet.nu` | No |
-| `eevee.ca` | Yes |
+| `eevee.ca` | No |
 | `eew.dk` | No |
 | `ef.gg` | No |
 | `ef67daisuki.club` | No |
@@ -13499,6 +13499,7 @@ Here's a list of public Fediverse services.
 | `ffffff.link` | No |
 | `ffflorian.social` | No |
 | `ffl.name` | No |
+| `ffm.best` | Yes |
 | `ffm.social` | Yes |
 | `ffmuc.net` | Yes |
 | `ffnet.work` | Yes |
@@ -31884,7 +31885,7 @@ Here's a list of public Fediverse services.
 | `pacna.org` | No |
 | `paco.to` | No |
 | `pacoandpals.com` | No |
-| `pad23.com` | Yes |
+| `pad23.com` | No |
 | `padayon.net` | No |
 | `paddlefish.net` | No |
 | `paddys.pub` | No |
@@ -48244,8 +48245,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,386 |
-| Normal | 34,810 |
+| Cloudflare | 13,384 |
+| Normal | 34,813 |
 
 
 </details>
