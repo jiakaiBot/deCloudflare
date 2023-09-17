@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,387 |
+| com | 7,388 |
 | social | 4,557 |
-| net | 3,748 |
+| net | 3,749 |
 | org | 2,510 |
 | de | 2,331 |
 
@@ -8341,6 +8341,7 @@ Here's a list of public Fediverse services.
 | `crfan.net` | No |
 | `cri.dev` | Yes |
 | `criadoperez.com` | No |
+| `criaz.ru` | No |
 | `crid.land` | No |
 | `crikey.social` | No |
 | `crime.cafe` | No |
@@ -8455,6 +8456,7 @@ Here's a list of public Fediverse services.
 | `crucible.world` | No |
 | `cruiserhome.org` | No |
 | `cruisers.social` | No |
+| `cruith.net` | Yes |
 | `crumplab.com` | No |
 | `crunchy.social` | Yes |
 | `crunchyroll.com` | Yes |
@@ -19864,6 +19866,7 @@ Here's a list of public Fediverse services.
 | `jaystevens.me` | Yes |
 | `jayus.net` | No |
 | `jayvii.de` | No |
+| `jazz-sax.com` | No |
 | `jazz.af` | No |
 | `jazzbutcher.com` | No |
 | `jazzpages.de` | No |
@@ -20518,6 +20521,7 @@ Here's a list of public Fediverse services.
 | `jubison.fr` | No |
 | `jubjub.club` | No |
 | `juche.town` | No |
+| `judahbrown.dev` | Yes |
 | `judaism.social` | No |
 | `juderjahn.de` | No |
 | `judesign.vision` | No |
@@ -48245,8 +48249,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,384 |
-| Normal | 34,813 |
+| Cloudflare | 13,386 |
+| Normal | 34,815 |
 
 
 </details>
