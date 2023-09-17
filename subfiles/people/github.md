@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare - 405 while deleting _acme_challenge TXT record](https://github.com/adferrand/dnsrobocert/issues/1017)
 - [SSL error on source](https://github.com/sagarkarira/coronavirus-tracker-cli/issues/144)
 - [api returning 404s](https://github.com/ADSB-One/api/issues/3)
 - [Cloudflare Pages Deploy](https://github.com/SimeonGriggs/sanity-remix-template/issues/39)
