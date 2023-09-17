@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,389 |
 | social | 4,557 |
 | net | 3,751 |
-| org | 2,510 |
+| org | 2,511 |
 | de | 2,332 |
 
 
@@ -2201,6 +2201,7 @@ Here's a list of public Fediverse services.
 | `anfora.social` | Yes |
 | `anfora.xyz` | No |
 | `ang.social` | No |
+| `angeidhealur.scot` | No |
 | `angelo.land` | No |
 | `angelostavrow.blog` | No |
 | `angelou.club` | Yes |
@@ -13314,6 +13315,7 @@ Here's a list of public Fediverse services.
 | `fediz.one` | No |
 | `fedja.fi` | No |
 | `fedodo.social` | No |
+| `fedoraproject.org` | No |
 | `fedpal.org` | Yes |
 | `fedpi.de` | No |
 | `fedposters.club` | No |
@@ -31940,7 +31942,7 @@ Here's a list of public Fediverse services.
 | `palashbauri.in` | Yes |
 | `palau.pro` | No |
 | `palaven.space` | No |
-| `paleodecor.com` | No |
+| `paleodecor.com` | Yes |
 | `palepanda.club` | No |
 | `palepanda.com` | No |
 | `palewi.re` | Yes |
@@ -34247,6 +34249,7 @@ Here's a list of public Fediverse services.
 | `pwnsdx.pw` | Yes |
 | `pwnt.io` | Yes |
 | `pwntoney.com` | Yes |
+| `pwp.space` | Yes |
 | `pwq.app` | Yes |
 | `pwsh.social` | No |
 | `pwshmatt.com` | Yes |
@@ -36080,6 +36083,7 @@ Here's a list of public Fediverse services.
 | `rondoalive.xyz` | No |
 | `ronet.de` | No |
 | `ronetcloud.com` | No |
+| `roney.com.br` | No |
 | `ronguest.net` | No |
 | `rongyi.io` | Yes |
 | `ronin.world` | Yes |
@@ -48259,8 +48263,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,390 |
-| Normal | 34,821 |
+| Cloudflare | 13,392 |
+| Normal | 34,823 |
 
 
 </details>
