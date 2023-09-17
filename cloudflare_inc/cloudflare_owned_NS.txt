@@ -661,6 +661,7 @@ novalee.ns.cloudflare.com
 ns-can04.cf-ns.com
 ns-cora.ns.cloudflare.com
 ns-salvador.ns.cloudflare.com
+ns-sha04.cf-ns.net
 ns.cloudflare.com
 ns0001.secondary.cloudflare.com
 ns0004.secondary.cloudflare.com
