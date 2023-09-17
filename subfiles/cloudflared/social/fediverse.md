@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,557 |
 | net | 3,751 |
 | org | 2,510 |
-| de | 2,331 |
+| de | 2,332 |
 
 
 - Mastodon, Pleroma, etc
@@ -28166,6 +28166,7 @@ Here's a list of public Fediverse services.
 | `muensterland.social` | Yes |
 | `muensterman.social` | No |
 | `muesli.org.uk` | No |
+| `muessenreden.de` | No |
 | `muffin-uwu.com` | Yes |
 | `muffin.pm` | No |
 | `muga.xyz` | No |
@@ -48259,7 +48260,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,390 |
-| Normal | 34,820 |
+| Normal | 34,821 |
 
 
 </details>
