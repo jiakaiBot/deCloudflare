@@ -30,8 +30,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,401 |
-| social | 4,559 |
-| net | 3,754 |
+| social | 4,560 |
+| net | 3,755 |
 | org | 2,512 |
 | de | 2,332 |
 
@@ -5822,6 +5822,7 @@ Here's a list of public Fediverse services.
 | `bunix.de` | No |
 | `bunji.social` | Yes |
 | `bunkerchan.xyz` | Yes |
+| `bunkyo.social` | No |
 | `bunne.garden` | Yes |
 | `bunnegirl.solutions` | No |
 | `bunni.eu` | No |
@@ -7733,6 +7734,7 @@ Here's a list of public Fediverse services.
 | `colliderbias.net` | No |
 | `collies.dev` | Yes |
 | `collindonnell.com` | No |
+| `collins-corner.cc` | Yes |
 | `collins.pub` | No |
 | `colloportus.me` | No |
 | `colloquium.social` | No |
@@ -8753,6 +8755,7 @@ Here's a list of public Fediverse services.
 | `cwren.net` | No |
 | `cwts.nl` | Yes |
 | `cx.cx` | Yes |
+| `cyakigasi.net` | Yes |
 | `cyan-blue.me` | No |
 | `cyan.gay` | No |
 | `cyan.wtf` | No |
@@ -48290,8 +48293,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,403 |
-| Normal | 34,839 |
+| Cloudflare | 13,405 |
+| Normal | 34,840 |
 
 
 </details>
