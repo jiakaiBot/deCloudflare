@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,405 |
+| com | 7,408 |
 | social | 4,560 |
-| net | 3,757 |
+| net | 3,759 |
 | org | 2,513 |
 | de | 2,332 |
 
@@ -4772,6 +4772,7 @@ Here's a list of public Fediverse services.
 | `blackcord.de` | Yes |
 | `blackdogs.social` | No |
 | `blackeco.com` | No |
+| `blackevil.net` | No |
 | `blackface.info` | No |
 | `blackfireworkz.tech` | Yes |
 | `blackflags.io` | No |
@@ -10297,6 +10298,7 @@ Here's a list of public Fediverse services.
 | `dipshit.space` | No |
 | `dir.pl` | No |
 | `dira.cc` | No |
+| `dirb.xyz` | No |
 | `direct-live.net` | No |
 | `directdon.jp` | No |
 | `directe.cat` | No |
@@ -17977,6 +17979,7 @@ Here's a list of public Fediverse services.
 | `horwood.cloud` | No |
 | `hoschwald.de` | No |
 | `hoshi.garden` | Yes |
+| `hoshipaso.com` | Yes |
 | `hoshipaso.net` | Yes |
 | `hoshisaki-h.com` | Yes |
 | `hosimati.net` | Yes |
@@ -30080,6 +30083,7 @@ Here's a list of public Fediverse services.
 | `nonnewtoniangoblins.pw` | No |
 | `nono.li` | No |
 | `nononymous.fr` | No |
+| `nonos-kitchen.net` | Yes |
 | `nonsense.direct` | No |
 | `nonsensoleum.net` | No |
 | `nonsequiturs.social` | No |
@@ -33341,6 +33345,7 @@ Here's a list of public Fediverse services.
 | `pnk.solar` | No |
 | `pnn.sh` | Yes |
 | `pnpde.social` | No |
+| `pnuk.com` | Yes |
 | `pnut.pl` | Yes |
 | `pnw-mastodon.com` | No |
 | `pnw.life` | No |
@@ -33522,6 +33527,7 @@ Here's a list of public Fediverse services.
 | `pona.la` | No |
 | `pona.social` | No |
 | `ponderduck.cc` | Yes |
+| `ponderings.co` | No |
 | `pondr.nl` | No |
 | `pondzu.com` | No |
 | `pone.social` | Yes |
@@ -44654,6 +44660,7 @@ Here's a list of public Fediverse services.
 | `uten.no` | No |
 | `utgw.net` | Yes |
 | `utih.net` | Yes |
+| `utilizingtech.com` | Yes |
 | `utnw.de` | No |
 | `uto.moe` | Yes |
 | `utodon.jp` | No |
@@ -48303,8 +48310,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,410 |
-| Normal | 34,845 |
+| Cloudflare | 13,414 |
+| Normal | 34,848 |
 
 
 </details>
