@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,403 |
 | social | 4,560 |
-| net | 3,755 |
+| net | 3,756 |
 | org | 2,513 |
 | de | 2,332 |
 
@@ -4078,7 +4078,7 @@ Here's a list of public Fediverse services.
 | `beeglil.fun` | No |
 | `beehaw.org` | No |
 | `beehive.ee` | Yes |
-| `beehive.gay` | No |
+| `beehive.gay` | Yes |
 | `beehub.org` | Yes |
 | `beekeeping.ninja` | No |
 | `beeldengeluid.nl` | Yes |
@@ -17953,6 +17953,7 @@ Here's a list of public Fediverse services.
 | `horny.house` | Yes |
 | `hornyjail.pro` | No |
 | `hornyold.uk` | No |
+| `horodecki.net` | No |
 | `horoskop2000.de` | No |
 | `horrendum.com` | No |
 | `horrific.dev` | Yes |
@@ -48297,7 +48298,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,406 |
+| Cloudflare | 13,407 |
 | Normal | 34,843 |
 
 
