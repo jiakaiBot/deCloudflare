@@ -2602,6 +2602,7 @@ Do not create new issue or we will close it as duplicate.
 | [cucqiridze2008@twitter](https://twitter.com/cucqiridze2008/status/1398249494425309187) | advertise |
 | [cuctacucta@twitter](https://twitter.com/cuctacucta/status/1628756166166872064) | advertise |
 | [cudu79@twitter](https://twitter.com/cudu79/status/1609254440086962176) | advertise |
+| [CuEm49629647@twitter](https://twitter.com/CuEm49629647/status/1703667940317643262) | advertise |
 | [cullophid@twitter](https://twitter.com/cullophid/status/1524712985377259520) | advertise |
 | [Culone20@twitter](https://twitter.com/Culone20/status/1480791106061160451) | advertise |
 | [culyk666@twitter](https://twitter.com/culyk666/status/1400159126915715074) | advertise |
