@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Speed And Image Resizing Configuration failures](https://github.com/SecOpsNews/news/issues/18976)
+- [CloudFlare Cloudflare Speed And Image Resizing Configuration failures](https://github.com/hinoshiba/news/issues/3647)
 - [Need help !](https://github.com/JorrinKievit/restreamer/issues/9)
 - [.htaccess broken form plugin](https://github.com/vrapper/vrapper/issues/863)
 - [Deployment fails on seemingly hard-coded eu-west-1 call for DynamoDB setup](https://github.com/domain-protect/domain-protect/issues/235)
