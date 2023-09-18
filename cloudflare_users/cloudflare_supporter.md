@@ -2354,6 +2354,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChM60546312@twitter](https://twitter.com/ChM60546312/status/1549730395188793344) | advertise |
 | [chngkh74791784@twitter](https://twitter.com/chngkh74791784/status/1523712853387005952) | advertise |
 | [chock100@twitter](https://twitter.com/chock100/status/1568707047956561921) | advertise |
+| [chocolate_image@twitter](https://twitter.com/chocolate_image/status/1703812046662287437) | advertise |
 | [choigirll@twitter](https://twitter.com/choigirll/status/1546832037495054336) | advertise |
 | [chok_thewa@twitter](https://twitter.com/chok_thewa/status/1467504123083833347) | advertise |
 | [Chok_Wapee@twitter](https://twitter.com/Chok_Wapee/status/1625779052723441664) | advertise |
