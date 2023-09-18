@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Incorrect MultiPartUpload Chunksize](https://github.com/fsspec/s3fs/issues/789)
 - [iOS notifications not working on 5G, but works on Wi-Fi](https://github.com/binwiederhier/ntfy/issues/888)
 - [TypeError: Illegal invocation | Cloudflare workers](https://github.com/replicate/replicate-javascript/issues/134)
 - [Cloudflare - 405 while deleting _acme_challenge TXT record](https://github.com/adferrand/dnsrobocert/issues/1017)
