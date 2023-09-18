@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,397 |
-| social | 4,558 |
+| com | 7,398 |
+| social | 4,559 |
 | net | 3,754 |
 | org | 2,511 |
 | de | 2,332 |
@@ -3284,6 +3284,7 @@ Here's a list of public Fediverse services.
 | `autisten.club` | No |
 | `autistic.blog` | No |
 | `autistic.id` | No |
+| `autistic.social` | Yes |
 | `autisticgoblin.ca` | No |
 | `autisticnomad.social` | No |
 | `autisticpri.de` | No |
@@ -20491,6 +20492,7 @@ Here's a list of public Fediverse services.
 | `jrmora.com` | Yes |
 | `jrmyr.net` | Yes |
 | `jrruethe.info` | Yes |
+| `jrwren.dev` | No |
 | `js.social` | Yes |
 | `js4.in` | No |
 | `jsantos.eu` | No |
@@ -37329,6 +37331,7 @@ Here's a list of public Fediverse services.
 | `scrumcar.me` | No |
 | `scrun.ch` | Yes |
 | `scruz.social` | Yes |
+| `scrye.com` | No |
 | `scsb-ion.xyz` | No |
 | `scssoft.com` | No |
 | `scuba323.com` | Yes |
@@ -48281,8 +48284,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,400 |
-| Normal | 34,833 |
+| Cloudflare | 13,401 |
+| Normal | 34,835 |
 
 
 </details>
