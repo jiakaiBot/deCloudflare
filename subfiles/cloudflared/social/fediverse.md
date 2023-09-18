@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,408 |
-| social | 4,560 |
+| social | 4,561 |
 | net | 3,759 |
 | org | 2,513 |
 | de | 2,332 |
@@ -28810,7 +28810,7 @@ Here's a list of public Fediverse services.
 | `nanosector.nl` | No |
 | `nanovim.tk` | No |
 | `nanoyagi.com` | No |
-| `nanoyun.net` | No |
+| `nanoyun.net` | Yes |
 | `nantes.social` | No |
 | `naokisz.tk` | No |
 | `naomi.lgbt` | Yes |
@@ -29831,6 +29831,7 @@ Here's a list of public Fediverse services.
 | `nizarus.tn` | No |
 | `nj.com` | Yes |
 | `njal.la` | No |
+| `njalla.social` | No |
 | `njanzen.de` | No |
 | `njion.org` | No |
 | `njms.ca` | No |
@@ -39210,6 +39211,7 @@ Here's a list of public Fediverse services.
 | `somewhy.net` | No |
 | `somipark.com` | No |
 | `somnathr.com` | Yes |
+| `somnium.fi` | Yes |
 | `somsants.net` | No |
 | `somtic.cat` | No |
 | `sona.live` | Yes |
@@ -46811,7 +46813,7 @@ Here's a list of public Fediverse services.
 | `wxbu.de` | Yes |
 | `wxcafe.net` | No |
 | `wxcloud.social` | Yes |
-| `wxifu.de` | No |
+| `wxifu.de` | Yes |
 | `wxnzxn.xyz` | No |
 | `wxrock.com` | No |
 | `wxw.cat` | Yes |
@@ -48310,8 +48312,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,414 |
-| Normal | 34,848 |
+| Cloudflare | 13,417 |
+| Normal | 34,847 |
 
 
 </details>
