@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,408 |
 | social | 4,561 |
-| net | 3,759 |
-| org | 2,513 |
+| net | 3,761 |
+| org | 2,514 |
 | de | 2,332 |
 
 
@@ -15909,6 +15909,7 @@ Here's a list of public Fediverse services.
 | `gmb.cz` | No |
 | `gme.one` | Yes |
 | `gmem.ca` | Yes |
+| `gmgall.net` | No |
 | `gmk.org` | No |
 | `gmr.news` | No |
 | `gmtz.me` | No |
@@ -20362,7 +20363,7 @@ Here's a list of public Fediverse services.
 | `jonlab.it` | Yes |
 | `jonleibowitz.com` | Yes |
 | `jonleibowitz.social` | Yes |
-| `jonlowrey.com` | No |
+| `jonlowrey.com` | Yes |
 | `jonmasters.social` | No |
 | `jonossaseuraava.eu` | Yes |
 | `jonossaseuraava.net` | No |
@@ -22222,6 +22223,7 @@ Here's a list of public Fediverse services.
 | `kuinya.net` | Yes |
 | `kuiper.dev` | Yes |
 | `kuja.xyz` | No |
+| `kujeger.net` | No |
 | `kujiu.org` | No |
 | `kuk.is` | No |
 | `kuketz.social` | No |
@@ -40030,6 +40032,7 @@ Here's a list of public Fediverse services.
 | `stevijo.me` | Yes |
 | `stezen.de` | Yes |
 | `stfu.social` | Yes |
+| `stgraber.org` | No |
 | `stgt.social` | No |
 | `sthlm.social` | No |
 | `sthorp.com` | Yes |
@@ -44301,6 +44304,7 @@ Here's a list of public Fediverse services.
 | `undisruptable.technology` | No |
 | `undo.it` | Yes |
 | `undrground.org` | Yes |
+| `une.fi` | Yes |
 | `une33.club` | No |
 | `uneex.net` | No |
 | `unehre.de` | No |
@@ -48312,8 +48316,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,417 |
-| Normal | 34,847 |
+| Cloudflare | 13,419 |
+| Normal | 34,849 |
 
 
 </details>
