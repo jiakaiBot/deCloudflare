@@ -11958,6 +11958,7 @@ Do not create new issue or we will close it as duplicate.
 | [suman29030239@twitter](https://twitter.com/suman29030239/status/1598524060899897344) | advertise |
 | [SumedhaBandar10@twitter](https://twitter.com/SumedhaBandar10/status/1405702171849478144) | advertise |
 | [sumediadotnet@twitter](https://twitter.com/sumediadotnet/status/1530633110299107328) | advertise |
+| [SumeoX@twitter](https://twitter.com/SumeoX/status/1703705908214448543) | advertise |
 | [sumitchauhan143@twitter](https://twitter.com/sumitchauhan143/status/1539607998125187072) | advertise |
 | [SumitDhangar13@twitter](https://twitter.com/SumitDhangar13/status/1386664848684052484) | advertise |
 | [summer080820155@twitter](https://twitter.com/summer080820155/status/1395076684030742534) | advertise |
