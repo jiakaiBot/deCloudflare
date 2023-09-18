@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,401 |
+| com | 7,403 |
 | social | 4,560 |
 | net | 3,755 |
-| org | 2,512 |
+| org | 2,513 |
 | de | 2,332 |
 
 
@@ -8901,6 +8901,7 @@ Here's a list of public Fediverse services.
 | `cyclodon.net` | No |
 | `cyclry.com` | No |
 | `cydraco.com` | No |
+| `cyfinoid.com` | No |
 | `cygis.cf` | Yes |
 | `cygnan.com` | Yes |
 | `cygnoir.net` | No |
@@ -21108,6 +21109,7 @@ Here's a list of public Fediverse services.
 | `kazv.moe` | No |
 | `kazvam.com` | Yes |
 | `kb3lyb.com` | Yes |
+| `kb9orn.org` | No |
 | `kbec.dev` | No |
 | `kbin.buzz` | No |
 | `kbin.cafe` | Yes |
@@ -42155,6 +42157,7 @@ Here's a list of public Fediverse services.
 | `theringed.city` | No |
 | `theritters.online` | No |
 | `therman.eu` | No |
+| `thermojo.com` | Yes |
 | `thermopylas.fi` | No |
 | `therobots.org` | No |
 | `therock.social` | Yes |
@@ -43660,6 +43663,7 @@ Here's a list of public Fediverse services.
 | `ttrpg-hangout.social` | No |
 | `ttrpg.network` | No |
 | `ttrpg.one` | No |
+| `ttrss.info` | No |
 | `tttemptesttt.top` | No |
 | `tttproject.de` | Yes |
 | `tty.cat` | No |
@@ -48293,8 +48297,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,405 |
-| Normal | 34,840 |
+| Cloudflare | 13,406 |
+| Normal | 34,843 |
 
 
 </details>
