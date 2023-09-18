@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Deployment fails on seemingly hard-coded eu-west-1 call for DynamoDB setup](https://github.com/domain-protect/domain-protect/issues/235)
 - [Incorrect MultiPartUpload Chunksize](https://github.com/fsspec/s3fs/issues/789)
 - [iOS notifications not working on 5G, but works on Wi-Fi](https://github.com/binwiederhier/ntfy/issues/888)
 - [TypeError: Illegal invocation | Cloudflare workers](https://github.com/replicate/replicate-javascript/issues/134)
