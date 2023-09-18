@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,401 |
 | social | 4,559 |
 | net | 3,754 |
-| org | 2,511 |
+| org | 2,512 |
 | de | 2,332 |
 
 
@@ -25625,6 +25625,7 @@ Here's a list of public Fediverse services.
 | `mastodonia.org` | No |
 | `mastodonian.city` | No |
 | `mastodonian.online` | No |
+| `mastodonian.org` | Yes |
 | `mastodonians.social` | No |
 | `mastodonie.online` | No |
 | `mastodonien.de` | No |
@@ -48289,7 +48290,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,402 |
+| Cloudflare | 13,403 |
 | Normal | 34,839 |
 
 
