@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,398 |
+| com | 7,399 |
 | social | 4,559 |
 | net | 3,754 |
 | org | 2,511 |
@@ -12624,6 +12624,7 @@ Here's a list of public Fediverse services.
 | `extroic.com` | No |
 | `extropian.net` | No |
 | `extwitriates.com` | No |
+| `ey.business` | No |
 | `eybubulle.fr` | No |
 | `eyeofthestorm.place` | Yes |
 | `eyeofwisdom.org` | Yes |
@@ -22751,6 +22752,7 @@ Here's a list of public Fediverse services.
 | `lawtalk.social` | No |
 | `layer0.dev` | No |
 | `layer02.net` | Yes |
+| `layer08.com` | No |
 | `layer7.space` | Yes |
 | `layer8.org` | Yes |
 | `layer8.space` | No |
@@ -31947,7 +31949,7 @@ Here's a list of public Fediverse services.
 | `pakaben.cf` | No |
 | `paktodon.asia` | No |
 | `pal-mate.jp` | Yes |
-| `pal.camp` | No |
+| `pal.camp` | Yes |
 | `pal.icu` | No |
 | `paladines.ec` | No |
 | `paladinzero.com` | No |
@@ -48284,8 +48286,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,401 |
-| Normal | 34,835 |
+| Cloudflare | 13,402 |
+| Normal | 34,836 |
 
 
 </details>
