@@ -1955,6 +1955,7 @@ Do not create new issue or we will close it as duplicate.
 | [boquiscarl@twitter](https://twitter.com/boquiscarl/status/1395371406888632326) | advertise |
 | [Borahayyo1@twitter](https://twitter.com/Borahayyo1/status/1399900362568613895) | advertise |
 | [boredartclub@twitter](https://twitter.com/boredartclub/status/1472866208814964740) | advertise |
+| [boredkevintv@twitter](https://twitter.com/boredkevintv/status/1703738417132245252) | advertise |
 | [borek5112@twitter](https://twitter.com/borek5112/status/1639055609487130625) | advertise |
 | [borislee0227@twitter](https://twitter.com/borislee0227/status/1413173842244104192) | moral (advertise) |
 | [Boss18872812@twitter](https://twitter.com/Boss18872812/status/1588859154328064003) | advertise |
