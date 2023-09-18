@@ -32713,6 +32713,7 @@ Here's a list of public Fediverse services.
 | `phoenixproject.group` | No |
 | `phoenixradio1208.com` | No |
 | `phoenixtrap.com` | Yes |
+| `phoenixup.link` | No |
 | `phonesare.fun` | No |
 | `phonetown.net` | Yes |
 | `phonghg.fr` | No |
@@ -48269,7 +48270,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,393 |
-| Normal | 34,827 |
+| Normal | 34,828 |
 
 
 </details>
