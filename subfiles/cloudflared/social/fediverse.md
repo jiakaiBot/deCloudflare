@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,399 |
+| com | 7,401 |
 | social | 4,559 |
 | net | 3,754 |
 | org | 2,511 |
@@ -31041,6 +31041,7 @@ Here's a list of public Fediverse services.
 | `oltoko.de` | No |
 | `oluflorenzen.de` | No |
 | `olympe.online` | No |
+| `olympiatime.com` | No |
 | `olympique-lyonnais.club` | No |
 | `olympus.blog` | Yes |
 | `om.gay` | Yes |
@@ -37017,7 +37018,7 @@ Here's a list of public Fediverse services.
 | `sbw.org` | No |
 | `sc-fa.com` | No |
 | `sc07.group` | Yes |
-| `sc3.fun` | Yes |
+| `sc3.fun` | No |
 | `scaglione.xyz` | No |
 | `scalable.gg` | Yes |
 | `scaldra.net` | No |
@@ -45568,6 +45569,7 @@ Here's a list of public Fediverse services.
 | `wacky.town` | Yes |
 | `wackyneighbor.com` | No |
 | `wackywolf.xyz` | Yes |
+| `wadetregaskis.com` | No |
 | `wadjnetech.industries` | Yes |
 | `wadoryu.social` | No |
 | `wadza.fr` | No |
@@ -48286,8 +48288,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,402 |
-| Normal | 34,836 |
+| Cloudflare | 13,401 |
+| Normal | 34,839 |
 
 
 </details>
