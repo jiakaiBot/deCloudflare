@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,390 |
+| com | 7,391 |
 | social | 4,558 |
-| net | 3,751 |
+| net | 3,752 |
 | org | 2,511 |
 | de | 2,332 |
 
@@ -787,7 +787,7 @@ Here's a list of public Fediverse services.
 | `a-chill.space` | No |
 | `a-db.fr` | Yes |
 | `a-deed.com` | No |
-| `a-ef.org` | Yes |
+| `a-ef.org` | No |
 | `a-kar.in` | Yes |
 | `a-lec.org` | No |
 | `a-li.re` | No |
@@ -9465,7 +9465,7 @@ Here's a list of public Fediverse services.
 | `dcu.ie` | Yes |
 | `dd-dns.de` | No |
 | `dd.works` | No |
-| `dd0s.lol` | Yes |
+| `dd0s.lol` | No |
 | `ddcloud.info` | No |
 | `ddddd.red` | No |
 | `dddug.in` | No |
@@ -12619,7 +12619,7 @@ Here's a list of public Fediverse services.
 | `extwitriates.com` | No |
 | `eybubulle.fr` | No |
 | `eyeofthestorm.place` | Yes |
-| `eyeofwisdom.org` | No |
+| `eyeofwisdom.org` | Yes |
 | `eyes4you.org` | No |
 | `eyesight.jp` | No |
 | `eyhoff.de` | No |
@@ -15643,7 +15643,7 @@ Here's a list of public Fediverse services.
 | `gielen.dk` | No |
 | `giema.net` | No |
 | `giersig.net` | Yes |
-| `giesing.space` | No |
+| `giesing.space` | Yes |
 | `gifclip.info` | No |
 | `gifu.lol` | No |
 | `gig-blog.net` | No |
@@ -24195,7 +24195,7 @@ Here's a list of public Fediverse services.
 | `lucasjanin.com` | No |
 | `lucaslower.com` | No |
 | `lucaspolo.dev` | No |
-| `lucasvl.nl` | No |
+| `lucasvl.nl` | Yes |
 | `lucatnt.com` | Yes |
 | `lucci.xyz` | No |
 | `lucdev.net` | Yes |
@@ -28760,6 +28760,7 @@ Here's a list of public Fediverse services.
 | `nanashinonozomi.com` | No |
 | `nanasi-apps.xyz` | Yes |
 | `nanax.fr` | No |
+| `nanaya.net` | No |
 | `nanbon.eu` | No |
 | `nancengka.com` | Yes |
 | `nancy.social` | No |
@@ -31431,6 +31432,7 @@ Here's a list of public Fediverse services.
 | `oregon33.org` | No |
 | `oregonian.social` | Yes |
 | `oregonlive.com` | Yes |
+| `oreilletendue.com` | No |
 | `oreka.online` | No |
 | `orels.sh` | Yes |
 | `orenoshiro.site` | No |
@@ -48266,8 +48268,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,392 |
-| Normal | 34,826 |
+| Cloudflare | 13,393 |
+| Normal | 34,827 |
 
 
 </details>
