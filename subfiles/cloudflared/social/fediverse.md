@@ -6622,6 +6622,7 @@ Here's a list of public Fediverse services.
 | `cereza.de` | No |
 | `ceriz.fr` | No |
 | `cerritus.eu` | No |
+| `cerulean.ink` | Yes |
 | `ceruleanstack.com` | No |
 | `cervid.ca` | No |
 | `cervidae.space` | Yes |
@@ -48288,7 +48289,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,401 |
+| Cloudflare | 13,402 |
 | Normal | 34,839 |
 
 
