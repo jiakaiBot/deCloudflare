@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,391 |
+| com | 7,397 |
 | social | 4,558 |
-| net | 3,752 |
+| net | 3,754 |
 | org | 2,511 |
 | de | 2,332 |
 
@@ -5781,6 +5781,7 @@ Here's a list of public Fediverse services.
 | `builders.social` | No |
 | `building7.social` | Yes |
 | `builditwith.pw` | No |
+| `builtbybricks.art` | No |
 | `bukkake.social` | No |
 | `bulbasaur.garden` | No |
 | `bulbulator.net` | Yes |
@@ -6765,6 +6766,7 @@ Here's a list of public Fediverse services.
 | `charla.mx` | No |
 | `charlag.space` | No |
 | `charles-axel.com` | Yes |
+| `charlesbartlett.net` | Yes |
 | `charlesbeadle.tech` | No |
 | `charlestown.social` | No |
 | `charli.info` | No |
@@ -7753,7 +7755,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9299,6 +9301,7 @@ Here's a list of public Fediverse services.
 | `dasuniversum.social` | No |
 | `dat-a.com` | No |
 | `dat.cloud` | Yes |
+| `data-aktivismi.online` | No |
 | `data.coop` | No |
 | `data.gouv.fr` | Yes |
 | `data.haus` | No |
@@ -10595,6 +10598,7 @@ Here's a list of public Fediverse services.
 | `dogs.chat` | No |
 | `dogs.photos` | No |
 | `dogsballs.net` | No |
+| `dogscomfycorner.com` | Yes |
 | `dogsex.org` | Yes |
 | `dogspin.xyz` | Yes |
 | `dogsports.social` | No |
@@ -12205,6 +12209,7 @@ Here's a list of public Fediverse services.
 | `ericpuryear.com` | Yes |
 | `ericrie.se` | No |
 | `ericrogers.org` | No |
+| `ericsbinaryworld.com` | Yes |
 | `ericscouten.social` | No |
 | `erictapen.name` | No |
 | `ericvandam.me` | No |
@@ -12578,6 +12583,7 @@ Here's a list of public Fediverse services.
 | `experienceadvisors.io` | Yes |
 | `experimentalcraft.com` | No |
 | `experimentaria.com` | No |
+| `expersense.com` | No |
 | `expi.studio` | No |
 | `expiredpopsicle.com` | No |
 | `expl.red` | Yes |
@@ -14053,6 +14059,7 @@ Here's a list of public Fediverse services.
 | `forfreedom.at` | No |
 | `forfuture.fm` | No |
 | `forfuture.social` | No |
+| `forgesparks.com` | No |
 | `forget-not.me` | Yes |
 | `forgetthis.site` | No |
 | `forgi.social` | Yes |
@@ -18843,6 +18850,7 @@ Here's a list of public Fediverse services.
 | `indiegamedev.online` | No |
 | `indiegames.online` | No |
 | `indiegamesdevel.com` | No |
+| `indiegameskey.net` | Yes |
 | `indiegrab.net` | No |
 | `indiehackers.social` | Yes |
 | `indiepocalypse.social` | No |
@@ -24773,6 +24781,7 @@ Here's a list of public Fediverse services.
 | `makinelab.com` | No |
 | `makiroll.space` | No |
 | `makito.me` | Yes |
+| `makito.moe` | Yes |
 | `mako.li` | No |
 | `mako3sun.com` | No |
 | `makoism.com` | Yes |
@@ -31516,6 +31525,7 @@ Here's a list of public Fediverse services.
 | `osak.jp` | No |
 | `osakana.cloud` | No |
 | `osakanacreate.com` | No |
+| `osalliance.com` | No |
 | `osananajimi.love` | No |
 | `osantana.me` | Yes |
 | `osbar.space` | No |
@@ -35133,6 +35143,7 @@ Here's a list of public Fediverse services.
 | `real-escape.jp` | Yes |
 | `real-ity.com` | No |
 | `real-life.social` | Yes |
+| `realint.one` | No |
 | `realitaetsverlust.rocks` | No |
 | `reality-tube.net` | No |
 | `reality2.social` | No |
@@ -41856,6 +41867,7 @@ Here's a list of public Fediverse services.
 | `theculture.quest` | No |
 | `theculture.social` | Yes |
 | `thecum.zone` | Yes |
+| `thecurrentla.com` | Yes |
 | `thecyberdeck.xyz` | Yes |
 | `thecybernetwork.us` | Yes |
 | `thedaily.click` | Yes |
@@ -48269,8 +48281,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,393 |
-| Normal | 34,828 |
+| Cloudflare | 13,400 |
+| Normal | 34,833 |
 
 
 </details>
