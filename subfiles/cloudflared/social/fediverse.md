@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,403 |
+| com | 7,405 |
 | social | 4,560 |
-| net | 3,756 |
+| net | 3,757 |
 | org | 2,513 |
 | de | 2,332 |
 
@@ -101,6 +101,7 @@ Here's a list of public Fediverse services.
 | `0t0.jp` | No |
 | `0t0.xyz` | No |
 | `0taku.win` | Yes |
+| `0taku.xyz` | No |
 | `0twitter.com` | No |
 | `0u0.fun` | No |
 | `0upti.me` | Yes |
@@ -1989,6 +1990,7 @@ Here's a list of public Fediverse services.
 | `amichan.de` | No |
 | `amicidelbaretto.org` | Yes |
 | `amie.moe` | Yes |
+| `amiel.net.br` | No |
 | `amiensweb.fr` | No |
 | `amifsud.fr` | No |
 | `amiga.team` | No |
@@ -11855,6 +11857,7 @@ Here's a list of public Fediverse services.
 | `elsmussols.org` | No |
 | `eltakana.net` | No |
 | `elte.hu` | No |
+| `eltoroweakly.com` | Yes |
 | `elvandalinq.com` | No |
 | `elven.pw` | No |
 | `elves.forsale` | No |
@@ -34894,6 +34897,7 @@ Here's a list of public Fediverse services.
 | `rameeznooruddin.com` | No |
 | `ramen-fsm.eu.org` | No |
 | `ramendon.jp` | No |
+| `ramenramenramen.net` | Yes |
 | `ramirezzzz.org` | Yes |
 | `ramle.be` | No |
 | `ramo.today` | No |
@@ -40273,6 +40277,7 @@ Here's a list of public Fediverse services.
 | `stupid.industries` | No |
 | `stupid.moe` | No |
 | `stupid.team` | No |
+| `stupidityfordummies.com` | Yes |
 | `stupidpol.site` | No |
 | `stupidpolis.blog` | No |
 | `sturtz.cf` | No |
@@ -48298,8 +48303,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,407 |
-| Normal | 34,843 |
+| Cloudflare | 13,410 |
+| Normal | 34,845 |
 
 
 </details>
