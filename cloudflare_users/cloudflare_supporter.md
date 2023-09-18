@@ -675,6 +675,7 @@ Do not create new issue or we will close it as duplicate.
 | [Alireza38854410@twitter](https://twitter.com/Alireza38854410/status/1590028048241659904) | advertise |
 | [Alireza47491461@twitter](https://twitter.com/Alireza47491461/status/1384770721897984000) | advertise |
 | [Alireza73451812@twitter](https://twitter.com/Alireza73451812/status/1619299096967237633) | advertise |
+| [Alireza91341392@twitter](https://twitter.com/Alireza91341392/status/1703661929602900373) | advertise |
 | [AliReza93595494@twitter](https://twitter.com/AliReza93595494/status/1690430390992060416) | advertise |
 | [alirezas998@twitter](https://twitter.com/alirezas998/status/1607533612043276293) | advertise |
 | [alirezasalahi10@twitter](https://twitter.com/alirezasalahi10/status/1567979767273762817) | advertise |
@@ -6443,6 +6444,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ko43429299@twitter](https://twitter.com/Ko43429299/status/1391426962044846083) | advertise |
 | [Ko44353462@twitter](https://twitter.com/Ko44353462/status/1397955514126848005) | advertise |
 | [KoAung78616944@twitter](https://twitter.com/KoAung78616944/status/1389536325884432385) | advertise |
+| [koaung83227974@twitter](https://twitter.com/koaung83227974/status/1703622292650315879) | advertise |
 | [KoAungKo10@twitter](https://twitter.com/KoAungKo10/status/1392390778966528003) | advertise |
 | [KoAyeChan15@twitter](https://twitter.com/KoAyeChan15/status/1390825323931979776) | advertise |
 | [kobako0O@twitter](https://twitter.com/kobako0O/status/1638045165221998593) | advertise |
@@ -8979,6 +8981,7 @@ Do not create new issue or we will close it as duplicate.
 | [NgocLan1711@twitter](https://twitter.com/NgocLan1711/status/1380847220438618116) | advertise |
 | [NgocLongk1@twitter](https://twitter.com/NgocLongk1/status/1554028232093052928) | advertise |
 | [NgocNguyen40467@twitter](https://twitter.com/NgocNguyen40467/status/1664264076267261960) | advertise |
+| [ngocsenapple@twitter](https://twitter.com/ngocsenapple/status/1703550893441118651) | advertise |
 | [ngocthang_9577@twitter](https://twitter.com/ngocthang_9577/status/1401800231713345543) | advertise |
 | [NgocUnmei@twitter](https://twitter.com/NgocUnmei/status/1402936171265548289) | advertise |
 | [NgoHai32610802@twitter](https://twitter.com/NgoHai32610802/status/1628675676839747584) | advertise |
@@ -13743,6 +13746,7 @@ Do not create new issue or we will close it as duplicate.
 | [waiyan_linhtet@twitter](https://twitter.com/waiyan_linhtet/status/1390367028603625474) | advertise |
 | [WaiZinKoKo2@twitter](https://twitter.com/WaiZinKoKo2/status/1390190890501562369) | advertise |
 | [walder_franco@twitter](https://twitter.com/walder_franco/status/1545399618992750597) | advertise |
+| [WaleedHariri1@twitter](https://twitter.com/WaleedHariri1/status/1703576089409327458) | advertise |
 | [Wali56764457@twitter](https://twitter.com/Wali56764457/status/1541197686082338817) | advertise |
 | [walidgumaa@twitter](https://twitter.com/walidgumaa/status/1571473697373913088) | advertise |
 | [wali_duski@twitter](https://twitter.com/wali_duski/status/1553003405005799425) | advertise |
