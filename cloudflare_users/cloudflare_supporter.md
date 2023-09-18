@@ -2468,6 +2468,7 @@ Do not create new issue or we will close it as duplicate.
 | [CngNguy78789456@twitter](https://twitter.com/CngNguy78789456/status/1398669757096726528) | advertise |
 | [cng_ftdev@twitter](https://twitter.com/cng_ftdev/status/1677715324748320769) | advertise |
 | [CnSakuya@twitter](https://twitter.com/CnSakuya/status/1592425946870861824) | advertise |
+| [Cocacolasoda123@twitter](https://twitter.com/Cocacolasoda123/status/1703715643487653899) | advertise |
 | [CocainCua@twitter](https://twitter.com/CocainCua/status/1646953325060059136) | advertise |
 | [coccocxi@twitter](https://twitter.com/coccocxi/status/1543106929311879169) | advertise |
 | [cocombatsports@twitter](https://twitter.com/cocombatsports/status/1588279260292079616) | advertise |
@@ -12533,6 +12534,7 @@ Do not create new issue or we will close it as duplicate.
 | [thetzinwin75@twitter](https://twitter.com/thetzinwin75/status/1393828758067417094) | advertise |
 | [thet_lel@twitter](https://twitter.com/thet_lel/status/1389251846519230469) | advertise |
 | [thet_wutt@twitter](https://twitter.com/thet_wutt/status/1398922736026624000) | advertise |
+| [TheUncleMez@twitter](https://twitter.com/TheUncleMez/status/1703721114285867176) | advertise |
 | [TheUnitedZone1@twitter](https://twitter.com/TheUnitedZone1/status/1644709795750879237) | advertise |
 | [thevaliyevvv@twitter](https://twitter.com/thevaliyevvv/status/1537515977809793025) | advertise |
 | [TheVaporNinja@twitter](https://twitter.com/TheVaporNinja/status/1501243621626068995) | advertise |
