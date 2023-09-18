@@ -1247,6 +1247,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungKha55332003@twitter](https://twitter.com/AungKha55332003/status/1398893951520624642) | advertise |
 | [aungkha55512113@twitter](https://twitter.com/aungkha55512113/status/1389884991174103042) | advertise |
 | [AungKha78798663@twitter](https://twitter.com/AungKha78798663/status/1376931924443299843) | advertise |
+| [AungKha89663390@twitter](https://twitter.com/AungKha89663390/status/1703692447455572473) | advertise |
 | [AungKhantBo7@twitter](https://twitter.com/AungKhantBo7/status/1394313006658510852) | advertise |
 | [AungKhantMoe11@twitter](https://twitter.com/AungKhantMoe11/status/1379752765337919489) | advertise |
 | [AungKhantSoe16@twitter](https://twitter.com/AungKhantSoe16/status/1389944641919852546) | advertise |
@@ -2438,6 +2439,7 @@ Do not create new issue or we will close it as duplicate.
 | [ClassicOTPlumbe@twitter](https://twitter.com/ClassicOTPlumbe/status/1401089260011372547) | advertise |
 | [CLAUDEA40679398@twitter](https://twitter.com/CLAUDEA40679398/status/1539822458756284418) | advertise |
 | [ClaudiaBorchet1@twitter](https://twitter.com/ClaudiaBorchet1/status/1640035847583006721) | advertise |
+| [ClaYfib@twitter](https://twitter.com/ClaYfib/status/1703686866632053081) | advertise |
 | [ClayMuncher@twitter](https://twitter.com/ClayMuncher/status/1564492495039373313) | advertise |
 | [ClementHezsell@twitter](https://twitter.com/ClementHezsell/status/1600374120838930432) | advertise |
 | [Cleverboy6881@twitter](https://twitter.com/Cleverboy6881/status/1393652406395670528) | advertise |
