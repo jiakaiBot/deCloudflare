@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,408 |
 | social | 4,561 |
-| net | 3,761 |
+| net | 3,762 |
 | org | 2,514 |
 | de | 2,332 |
 
@@ -29858,6 +29858,7 @@ Here's a list of public Fediverse services.
 | `nlr.app` | Yes |
 | `nltech.fr` | No |
 | `nluug.social` | No |
+| `nlyze.net` | No |
 | `nmaggioni.xyz` | Yes |
 | `nmkj.io` | Yes |
 | `nmkj.me` | No |
@@ -30881,7 +30882,7 @@ Here's a list of public Fediverse services.
 | `ofm.bar` | No |
 | `ofmd.social` | No |
 | `ofraglapis.net` | No |
-| `oft.social` | No |
+| `oft.social` | Yes |
 | `ofthe.top` | No |
 | `oftrolls.com` | No |
 | `ofus.us` | No |
@@ -48316,7 +48317,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,419 |
+| Cloudflare | 13,420 |
 | Normal | 34,849 |
 
 
