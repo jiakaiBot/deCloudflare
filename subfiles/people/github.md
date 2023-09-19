@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Sites not opening in Chrome due connection to trying to open with IPv6](https://github.com/apernet/hysteria/issues/703)
 - [NoodleMagazine Resolver Issue Maybe It's Just Me Idk? Other Sites No Longer Working Like They Used To....](https://github.com/dobbelina/repository.dobbelina/issues/1180)
 - [Notes from first-time user](https://github.com/allenai/satlas/issues/16)
 - [Error and plugin crash when use empty block in resource definition](https://github.com/hashicorp/terraform-provider-kubernetes/issues/2294)
