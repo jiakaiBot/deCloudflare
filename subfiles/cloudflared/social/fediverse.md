@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,409 |
 | social | 4,562 |
 | net | 3,763 |
-| org | 2,514 |
+| org | 2,515 |
 | de | 2,333 |
 
 
@@ -13327,6 +13327,7 @@ Here's a list of public Fediverse services.
 | `fediversum.de` | No |
 | `fediversum.one` | No |
 | `fediversum.social` | Yes |
+| `fedivienne.org` | No |
 | `fediwald.de` | No |
 | `fediweij.nl` | No |
 | `fediwersum.pl` | Yes |
@@ -23634,6 +23635,7 @@ Here's a list of public Fediverse services.
 | `linxx.net` | No |
 | `linya.live` | No |
 | `linz.best` | No |
+| `linz.city` | No |
 | `lio.one` | No |
 | `liolok.com` | Yes |
 | `lion.land` | No |
@@ -39109,6 +39111,7 @@ Here's a list of public Fediverse services.
 | `sofie.dev` | No |
 | `sofla.cafe` | No |
 | `sofritoandsons.com` | No |
+| `soft-qui-peut.dev` | No |
 | `soft.fish` | Yes |
 | `softcat.org` | No |
 | `softer.social` | No |
@@ -41235,6 +41238,7 @@ Here's a list of public Fediverse services.
 | `tayledras.social` | No |
 | `tayori.org` | No |
 | `tazy.xyz` | Yes |
+| `tbh.gay` | No |
 | `tbh.social` | No |
 | `tbny.space` | No |
 | `tbo.social` | No |
@@ -48322,7 +48326,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,427 |
-| Normal | 34,846 |
+| Normal | 34,850 |
 
 
 </details>
