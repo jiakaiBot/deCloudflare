@@ -13362,6 +13362,7 @@ Do not create new issue or we will close it as duplicate.
 | [UNYI96245990@twitter](https://twitter.com/UNYI96245990/status/1378312649297915905) | advertise |
 | [UOoPeace1@twitter](https://twitter.com/UOoPeace1/status/1688262639884062720) | advertise |
 | [UOoSanGyi1@twitter](https://twitter.com/UOoSanGyi1/status/1398504684256600067) | advertise |
+| [up2share@twitter](https://twitter.com/up2share/status/1694670234945245558) | advertise |
 | [updatedreviews@twitter](https://twitter.com/updatedreviews/status/1425499895272665094) | advertise |
 | [uphwrrphmsm1@twitter](https://twitter.com/uphwrrphmsm1/status/1688192039287242752) | advertise |
 | [uprise_s@twitter](https://twitter.com/uprise_s/status/1407659965129629696) | advertise |
