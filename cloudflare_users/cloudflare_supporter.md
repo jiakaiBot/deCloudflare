@@ -11500,6 +11500,7 @@ Do not create new issue or we will close it as duplicate.
 | [shoonLaPyae4@twitter](https://twitter.com/shoonLaPyae4/status/1389818843208589315) | advertise |
 | [shootme_b@twitter](https://twitter.com/shootme_b/status/1382897397764923393) | advertise |
 | [Shop100B@twitter](https://twitter.com/Shop100B/status/1414421885320761347) | advertise |
+| [ShoreyIT@twitter](https://twitter.com/ShoreyIT/status/1694090205819503027) | advertise |
 | [ShoshoShamyil@twitter](https://twitter.com/ShoshoShamyil/status/1550340386475986945) | advertise |
 | [shotlike142@twitter](https://twitter.com/shotlike142/status/1404801868325392385) | advertise |
 | [ShowkatMat4356@twitter](https://twitter.com/ShowkatMat4356/status/1665858544200040452) | advertise |
