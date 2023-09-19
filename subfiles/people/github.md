@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error and plugin crash when use empty block in resource definition](https://github.com/hashicorp/terraform-provider-kubernetes/issues/2294)
 - [Cloudflare security page is saved instead of real content](https://github.com/webrecorder/browsertrix-crawler/issues/387)
 - [GPT 3.5 turbo instruct model: Failed to calculate number of tokens, falling back to approximate count](https://github.com/langchain-ai/langchainjs/issues/2668)
 - [CloudFlare Cloudflare Speed And Image Resizing Configuration failures](https://github.com/SecOpsNews/news/issues/18976)
