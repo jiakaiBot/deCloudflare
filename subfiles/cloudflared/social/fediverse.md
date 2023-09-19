@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,562 |
 | net | 3,765 |
 | org | 2,515 |
-| de | 2,333 |
+| de | 2,334 |
 
 
 - Mastodon, Pleroma, etc
@@ -234,6 +234,7 @@ Here's a list of public Fediverse services.
 | `1296000.xyz` | No |
 | `12mon.space` | Yes |
 | `12vpx.com` | Yes |
+| `13-dx.de` | Yes |
 | `1312.media` | No |
 | `1315.me` | No |
 | `1331.social` | No |
@@ -29233,7 +29234,7 @@ Here's a list of public Fediverse services.
 | `nerderium.com` | No |
 | `nerderypublic.com` | Yes |
 | `nerdfest.nl` | No |
-| `nerdfight.online` | No |
+| `nerdfight.online` | Yes |
 | `nerdfoo.dev` | No |
 | `nerdgineer.com` | No |
 | `nerdgobragh.org` | No |
@@ -48331,8 +48332,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,430 |
-| Normal | 34,853 |
+| Cloudflare | 13,432 |
+| Normal | 34,852 |
 
 
 </details>
