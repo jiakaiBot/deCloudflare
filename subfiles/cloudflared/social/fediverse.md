@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,415 |
+| com | 7,416 |
 | social | 4,562 |
-| net | 3,766 |
+| net | 3,767 |
 | org | 2,516 |
-| de | 2,335 |
+| de | 2,336 |
 
 
 - Mastodon, Pleroma, etc
@@ -2290,7 +2290,7 @@ Here's a list of public Fediverse services.
 | `ankokunogrove.space` | Yes |
 | `anmax.direct` | Yes |
 | `anml.io` | No |
-| `anmol.net.in` | No |
+| `anmol.net.in` | Yes |
 | `annaclemens.io` | Yes |
 | `annacon.be` | Yes |
 | `annadreambrush.com` | No |
@@ -12119,6 +12119,7 @@ Here's a list of public Fediverse services.
 | `eo-note.com` | No |
 | `eocial.com` | No |
 | `eodai.net` | No |
+| `eoghann.net` | Yes |
 | `eole.education` | No |
 | `eonas.me` | No |
 | `eonspace.me` | No |
@@ -33001,6 +33002,7 @@ Here's a list of public Fediverse services.
 | `piratenpartei.koeln` | No |
 | `piratenpartei.social` | No |
 | `piratenpartij.nl` | No |
+| `piratentube.de` | No |
 | `pirateparty.be` | No |
 | `pirateradio.social` | Yes |
 | `piratetwitter.com` | No |
@@ -35403,6 +35405,7 @@ Here's a list of public Fediverse services.
 | `rehyve.nl` | No |
 | `rei-ayanami.club` | No |
 | `reidodon.net` | No |
+| `reika-smapuri.com` | No |
 | `reil.de` | No |
 | `reima.rocks` | No |
 | `reimalab.art` | No |
@@ -48350,8 +48353,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,438 |
-| Normal | 34,864 |
+| Cloudflare | 13,440 |
+| Normal | 34,865 |
 
 
 </details>
