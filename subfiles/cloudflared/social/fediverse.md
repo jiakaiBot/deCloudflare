@@ -30,8 +30,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,417 |
-| social | 4,562 |
-| net | 3,767 |
+| social | 4,563 |
+| net | 3,768 |
 | org | 2,516 |
 | de | 2,337 |
 
@@ -24124,6 +24124,7 @@ Here's a list of public Fediverse services.
 | `louma.ml` | No |
 | `lounge.fan` | Yes |
 | `lounge.town` | Yes |
+| `lounges.monster` | No |
 | `loupe.page` | Yes |
 | `lourensr.dev` | Yes |
 | `lousydomain.xyz` | Yes |
@@ -33965,6 +33966,7 @@ Here's a list of public Fediverse services.
 | `producers.social` | Yes |
 | `productionservers.net` | No |
 | `productmgmt.social` | No |
+| `productordesostenibilidad.es` | No |
 | `producttalk.org` | Yes |
 | `produkti.se` | No |
 | `produnis.de` | No |
@@ -37785,6 +37787,7 @@ Here's a list of public Fediverse services.
 | `sethb.com` | No |
 | `sethetter.com` | No |
 | `sethfeldkamp.com` | No |
+| `sethgoldstein.me` | Yes |
 | `sethlong.social` | No |
 | `sethmb.xyz` | Yes |
 | `setho.org` | No |
@@ -39791,6 +39794,7 @@ Here's a list of public Fediverse services.
 | `stackpointer.ws` | No |
 | `stacktrace.sh` | No |
 | `stackunderflow.com` | Yes |
+| `stad.social` | No |
 | `staddle.net` | Yes |
 | `stade.social` | No |
 | `stadel.win` | No |
@@ -43709,6 +43713,7 @@ Here's a list of public Fediverse services.
 | `tta.wtf` | Yes |
 | `ttanimichi.com` | No |
 | `tteggel.org` | No |
+| `ttg6.net` | No |
 | `tthewbog.art` | No |
 | `tthi.as` | Yes |
 | `tticlab.com` | No |
@@ -48357,8 +48362,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,442 |
-| Normal | 34,867 |
+| Cloudflare | 13,443 |
+| Normal | 34,871 |
 
 
 </details>
