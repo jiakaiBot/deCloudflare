@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,408 |
-| social | 4,561 |
-| net | 3,762 |
+| com | 7,409 |
+| social | 4,562 |
+| net | 3,763 |
 | org | 2,514 |
-| de | 2,332 |
+| de | 2,333 |
 
 
 - Mastodon, Pleroma, etc
@@ -4471,7 +4471,7 @@ Here's a list of public Fediverse services.
 | `bigowo.digital` | No |
 | `bigpandatech.com` | No |
 | `bigpenis.life` | No |
-| `bigpod.eu` | No |
+| `bigpod.eu` | Yes |
 | `bigpod.si` | Yes |
 | `bigrelay.social` | Yes |
 | `bigsecretwebsite.net` | No |
@@ -6331,7 +6331,7 @@ Here's a list of public Fediverse services.
 | `carters.cloud` | No |
 | `cartersville.social` | No |
 | `cartodon.com` | No |
-| `cartoon-aa.xyz` | No |
+| `cartoon-aa.xyz` | Yes |
 | `cartoonist.social` | No |
 | `caruanafamily.net` | Yes |
 | `caruhel.fr` | No |
@@ -12759,7 +12759,7 @@ Here's a list of public Fediverse services.
 | `fairmove.net` | No |
 | `fairphone.community` | No |
 | `fairpoints.social` | No |
-| `fairuse.org` | No |
+| `fairuse.org` | Yes |
 | `fairy.id` | Yes |
 | `fairy.life` | No |
 | `fairy.zone` | No |
@@ -17839,6 +17839,7 @@ Here's a list of public Fediverse services.
 | `holtslander.ca` | Yes |
 | `holtwick.de` | No |
 | `holy.yokohama` | No |
+| `holybean.net` | Yes |
 | `holybutts.com` | No |
 | `holycarp.org` | No |
 | `holygrena.de` | No |
@@ -25163,6 +25164,7 @@ Here's a list of public Fediverse services.
 | `masdis.com` | No |
 | `masdon.life` | No |
 | `masdoon.com` | No |
+| `maser.social` | Yes |
 | `mashable.com` | Yes |
 | `mashby.social` | No |
 | `mashed.cloud` | Yes |
@@ -26203,6 +26205,7 @@ Here's a list of public Fediverse services.
 | `megadon.net` | No |
 | `megadrive.me` | Yes |
 | `megahiza.website` | No |
+| `megahomelab.com` | Yes |
 | `megahuge.com` | No |
 | `megalodon.social` | No |
 | `megalodon.tokyo` | No |
@@ -39606,6 +39609,7 @@ Here's a list of public Fediverse services.
 | `sportsnews.social` | No |
 | `sportstalk.social` | Yes |
 | `sportstodon.com` | Yes |
+| `sportverein-lipperbruch.de` | No |
 | `spotcheckit.org` | No |
 | `spotek.io` | No |
 | `spotfestival.dk` | Yes |
@@ -42428,7 +42432,7 @@ Here's a list of public Fediverse services.
 | `thoughtify.space` | No |
 | `thoughts.tf` | No |
 | `thoughtsfired.net` | Yes |
-| `thoughtshrapnel.com` | No |
+| `thoughtshrapnel.com` | Yes |
 | `thoughtworks.com` | Yes |
 | `thousand.rocks` | No |
 | `thpd.io` | No |
@@ -48317,8 +48321,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,420 |
-| Normal | 34,849 |
+| Cloudflare | 13,427 |
+| Normal | 34,846 |
 
 
 </details>
