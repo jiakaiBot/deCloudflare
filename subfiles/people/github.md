@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [NoodleMagazine Resolver Issue Maybe It's Just Me Idk? Other Sites No Longer Working Like They Used To....](https://github.com/dobbelina/repository.dobbelina/issues/1180)
 - [Notes from first-time user](https://github.com/allenai/satlas/issues/16)
 - [Error and plugin crash when use empty block in resource definition](https://github.com/hashicorp/terraform-provider-kubernetes/issues/2294)
 - [Cloudflare security page is saved instead of real content](https://github.com/webrecorder/browsertrix-crawler/issues/387)
