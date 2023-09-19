@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,409 |
 | social | 4,562 |
-| net | 3,764 |
+| net | 3,765 |
 | org | 2,515 |
 | de | 2,333 |
 
@@ -9183,6 +9183,7 @@ Here's a list of public Fediverse services.
 | `dansu.org` | No |
 | `danvelopment.net` | Yes |
 | `danz.cloud` | Yes |
+| `daol.cc` | Yes |
 | `daotalk.cn` | No |
 | `daotodon.me` | No |
 | `dapchat.online` | No |
@@ -28838,6 +28839,7 @@ Here's a list of public Fediverse services.
 | `narikiri.club` | No |
 | `narinimous.fr` | No |
 | `nariskey.com` | Yes |
+| `naritapoyo.net` | Yes |
 | `narod.city` | No |
 | `narramus.de` | Yes |
 | `narrativ.es` | No |
@@ -34145,6 +34147,7 @@ Here's a list of public Fediverse services.
 | `public-transport.social` | No |
 | `public.cat` | No |
 | `public.garden` | No |
+| `public.kim` | Yes |
 | `publicanxiety.us` | No |
 | `publicar.uy` | No |
 | `publicationaggregator.com` | No |
@@ -43296,6 +43299,7 @@ Here's a list of public Fediverse services.
 | `trancart.eu` | No |
 | `trancefish.de` | No |
 | `trand.fr` | No |
+| `traningslara.se` | No |
 | `trankil.info` | No |
 | `trannguyenqb.com` | No |
 | `tranny.town` | No |
@@ -47332,6 +47336,7 @@ Here's a list of public Fediverse services.
 | `yagamin.net` | No |
 | `yagi.tc` | No |
 | `yagi2.com` | No |
+| `yagimofu.moe` | No |
 | `yagst.de` | No |
 | `yah.lol` | Yes |
 | `yah.vn` | Yes |
@@ -48326,8 +48331,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,427 |
-| Normal | 34,851 |
+| Cloudflare | 13,430 |
+| Normal | 34,853 |
 
 
 </details>
