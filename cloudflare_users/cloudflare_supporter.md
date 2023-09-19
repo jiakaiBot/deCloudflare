@@ -563,6 +563,7 @@ Do not create new issue or we will close it as duplicate.
 | [akhilvarma2020@twitter](https://twitter.com/akhilvarma2020/status/1381176091314806785) | advertise |
 | [AkhmalHaziq@twitter](https://twitter.com/AkhmalHaziq/status/1392301139526258694) | advertise |
 | [Akihitoreal@twitter](https://twitter.com/Akihitoreal/status/1627639160592019456) | advertise |
+| [akipapercut@twitter](https://twitter.com/akipapercut/status/1704199446245036349) | advertise |
 | [Akira47150780@twitter](https://twitter.com/Akira47150780/status/1400190504193589260) | advertise |
 | [akirafinn@twitter](https://twitter.com/akirafinn/status/1557606290725056513) | advertise |
 | [akira_yuuchi@twitter](https://twitter.com/akira_yuuchi/status/1642184312761241602) | advertise |
@@ -3465,6 +3466,7 @@ Do not create new issue or we will close it as duplicate.
 | [elsaidelazhary@twitter](https://twitter.com/elsaidelazhary/status/1577526530707709953) | advertise |
 | [elsashweyee@twitter](https://twitter.com/elsashweyee/status/1389796841860964354) | advertise |
 | [elsa_aram@twitter](https://twitter.com/elsa_aram/status/1632087729885282305) | advertise |
+| [ElshanGurbanli@twitter](https://twitter.com/ElshanGurbanli/status/1704172658194034862) | advertise |
 | [eltonfe72717723@twitter](https://twitter.com/eltonfe72717723/status/1616344393320898561) | advertise |
 | [ElTr72218261@twitter](https://twitter.com/ElTr72218261/status/1390311899552632834) | advertise |
 | [eLv182@twitter](https://twitter.com/eLv182/status/1653952746532503552) | advertise |
@@ -4541,6 +4543,7 @@ Do not create new issue or we will close it as duplicate.
 | [hieunguyen19191@twitter](https://twitter.com/hieunguyen19191/status/1689315937395326976) | advertise |
 | [hifosearch@twitter](https://twitter.com/hifosearch/status/1646785130512384001) | advertise |
 | [higenku_project@twitter](https://twitter.com/higenku_project/status/1542310759736156160) | advertise |
+| [Highjumper445@twitter](https://twitter.com/Highjumper445/status/1704208504997781570) | advertise |
 | [HighTechCarbon1@twitter](https://twitter.com/HighTechCarbon1/status/1407293534516891652) | advertise |
 | [HighTylerGreen@twitter](https://twitter.com/HighTylerGreen/status/1372862559800463360) | advertise |
 | [Highway05386583@twitter](https://twitter.com/Highway05386583/status/1390971825245630464) | advertise |
@@ -12185,6 +12188,7 @@ Do not create new issue or we will close it as duplicate.
 | [Taygyi6@twitter](https://twitter.com/Taygyi6/status/1392528044842094594) | advertise |
 | [taymon_khanh@twitter](https://twitter.com/taymon_khanh/status/1388779801020747778) | advertise |
 | [tayr7ayr@twitter](https://twitter.com/tayr7ayr/status/1672739093627674627) | advertise |
+| [TayyabS08856721@twitter](https://twitter.com/TayyabS08856721/status/1704220158183477307) | advertise |
 | [TayZ12665178@twitter](https://twitter.com/TayZ12665178/status/1393148042392444933) | advertise |
 | [Tayza08959125@twitter](https://twitter.com/Tayza08959125/status/1604501318399590400) | advertise |
 | [TayZa94852932@twitter](https://twitter.com/TayZa94852932/status/1390702718637936640) | advertise |
