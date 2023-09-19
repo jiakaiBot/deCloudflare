@@ -135,11 +135,7 @@ blocked_ips_file = 'blocked-ips.txt'
 blocked_names_file = 'blocked-names.txt'
 ```
 
-- Add this to `blocked-names.txt`.
-
-```
-*cloudflare*
-```
+- Download [cloudflare_owned_domains.txt](../../cloudflare_inc/cloudflare_owned_domains.txt) and save it as `blocked-names.txt`.
 
 - Add them to your `blocked-ips.txt`.
   - Or download [full pieces.txt](../../cloudflare_inc/cloudflare_CIDR_v4_pieces.txt) for absolute protection.
