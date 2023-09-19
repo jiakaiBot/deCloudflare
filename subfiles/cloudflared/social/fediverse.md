@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,416 |
+| com | 7,417 |
 | social | 4,562 |
 | net | 3,767 |
 | org | 2,516 |
@@ -9105,6 +9105,7 @@ Here's a list of public Fediverse services.
 | `damron.social` | No |
 | `damu.page` | Yes |
 | `damutten.ch` | No |
+| `damxspa.com` | Yes |
 | `dan.cloud` | No |
 | `dan.glass` | No |
 | `dan0mic.one` | Yes |
@@ -10496,6 +10497,7 @@ Here's a list of public Fediverse services.
 | `dltq.org` | No |
 | `dlun.ch` | Yes |
 | `dlx.pink` | No |
+| `dly.se` | Yes |
 | `dlyang.tk` | Yes |
 | `dmaus.name` | No |
 | `dmca.club` | No |
@@ -38339,6 +38341,7 @@ Here's a list of public Fediverse services.
 | `simon-koester.de` | No |
 | `simon816.com` | No |
 | `simoncook.org` | Yes |
+| `simonezanella.it` | No |
 | `simongreenwood.me.uk` | Yes |
 | `simonhardwick.com` | No |
 | `simonjon.es` | No |
@@ -48353,8 +48356,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,440 |
-| Normal | 34,865 |
+| Cloudflare | 13,442 |
+| Normal | 34,866 |
 
 
 </details>
