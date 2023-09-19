@@ -8508,6 +8508,7 @@ Do not create new issue or we will close it as duplicate.
 | [mukulpalni4@twitter](https://twitter.com/mukulpalni4/status/1694213359733002548) | advertise |
 | [MullerYeeee@twitter](https://twitter.com/MullerYeeee/status/1686385968943857664) | advertise |
 | [mumin41770540@twitter](https://twitter.com/mumin41770540/status/1381241484205293568) | advertise |
+| [MundoCreativo22@twitter](https://twitter.com/MundoCreativo22/status/1703946017412976992) | advertise |
 | [mungjataung@twitter](https://twitter.com/mungjataung/status/1552462274245246977) | advertise |
 | [murad_hatem@twitter](https://twitter.com/murad_hatem/status/1407170868220989441) | advertise |
 | [muran786@twitter](https://twitter.com/muran786/status/1380217989790900228) | advertise |
