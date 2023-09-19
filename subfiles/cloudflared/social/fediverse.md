@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,409 |
 | social | 4,562 |
-| net | 3,763 |
+| net | 3,764 |
 | org | 2,515 |
 | de | 2,333 |
 
@@ -17095,6 +17095,7 @@ Here's a list of public Fediverse services.
 | `haun.jp` | Yes |
 | `haunted.computer` | No |
 | `haunted.fyi` | No |
+| `hauntedgames.net` | No |
 | `hausi.social` | No |
 | `haussleiter.de` | No |
 | `havas.jp` | No |
@@ -48326,7 +48327,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,427 |
-| Normal | 34,850 |
+| Normal | 34,851 |
 
 
 </details>
