@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [GPT 3.5 turbo instruct model: Failed to calculate number of tokens, falling back to approximate count](https://github.com/langchain-ai/langchainjs/issues/2668)
 - [CloudFlare Cloudflare Speed And Image Resizing Configuration failures](https://github.com/SecOpsNews/news/issues/18976)
 - [CloudFlare Cloudflare Speed And Image Resizing Configuration failures](https://github.com/hinoshiba/news/issues/3647)
 - [Need help !](https://github.com/JorrinKievit/restreamer/issues/9)
