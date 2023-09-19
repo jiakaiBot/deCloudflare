@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,562 |
 | net | 3,767 |
 | org | 2,516 |
-| de | 2,336 |
+| de | 2,337 |
 
 
 - Mastodon, Pleroma, etc
@@ -21521,6 +21521,7 @@ Here's a list of public Fediverse services.
 | `kind.social` | No |
 | `kindbook.us` | No |
 | `kinder-verstehen.de` | No |
+| `kinderchaos-familienblog.de` | No |
 | `kindred.at` | No |
 | `kindred.haus` | No |
 | `kindworld.one` | Yes |
@@ -48357,7 +48358,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,442 |
-| Normal | 34,866 |
+| Normal | 34,867 |
 
 
 </details>
