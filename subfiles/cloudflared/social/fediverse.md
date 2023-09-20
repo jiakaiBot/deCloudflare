@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,422 |
-| social | 4,565 |
-| net | 3,769 |
+| com | 7,424 |
+| social | 4,566 |
+| net | 3,771 |
 | org | 2,518 |
-| de | 2,339 |
+| de | 2,340 |
 
 
 - Mastodon, Pleroma, etc
@@ -2284,6 +2284,7 @@ Here's a list of public Fediverse services.
 | `anivar.in` | Yes |
 | `aniy.jp` | No |
 | `aniyomechan.jp` | No |
+| `anizumin.com` | No |
 | `anjara.eu` | No |
 | `anji.nl` | No |
 | `anjos.red` | No |
@@ -3889,6 +3890,7 @@ Here's a list of public Fediverse services.
 | `based.directory` | No |
 | `based.quest` | Yes |
 | `based.social` | Yes |
+| `based.zone` | Yes |
 | `basedcount.com` | Yes |
 | `basedones.social` | Yes |
 | `basedship.xyz` | Yes |
@@ -7613,6 +7615,7 @@ Here's a list of public Fediverse services.
 | `codepenguin.io` | No |
 | `codeplumbers.eu` | No |
 | `coder.town` | Yes |
+| `coderdojo-saar.de` | No |
 | `coderdojo.social` | No |
 | `coders.social` | No |
 | `codesandbox.io` | Yes |
@@ -11454,6 +11457,7 @@ Here's a list of public Fediverse services.
 | `ecohosting.ie` | Yes |
 | `ecoli.pink` | No |
 | `ecologie.bzh` | No |
+| `ecologie.social` | Yes |
 | `econoalchemist.com` | No |
 | `economiasocial.org` | No |
 | `economicsfromthetopdown.com` | No |
@@ -11564,6 +11568,7 @@ Here's a list of public Fediverse services.
 | `eeic.io` | No |
 | `eena.me` | No |
 | `eenoog.org` | No |
+| `eenyoe.net` | No |
 | `eepy.moe` | No |
 | `eepy.space` | No |
 | `eepygirls.tech` | Yes |
@@ -12895,6 +12900,7 @@ Here's a list of public Fediverse services.
 | `fanlan.net` | Yes |
 | `fanscrowd.com` | No |
 | `fansdao.club` | No |
+| `fantabos.co` | No |
 | `fantail.dev` | Yes |
 | `fantashley.dev` | No |
 | `fantastic.earth` | No |
@@ -20363,6 +20369,7 @@ Here's a list of public Fediverse services.
 | `jonahthen.com` | Yes |
 | `jonak.org` | No |
 | `jonamerica.com` | Yes |
+| `jonandtina.net` | Yes |
 | `jonarbuckle.com` | No |
 | `jonas-heinz.eu` | Yes |
 | `jonaskoeritz.de` | No |
@@ -21657,6 +21664,7 @@ Here's a list of public Fediverse services.
 | `kitsunes.club` | Yes |
 | `kitsunes.gay` | Yes |
 | `kitsunes.world` | Yes |
+| `kitsunesoba.com` | No |
 | `kitsunet.net` | No |
 | `kitsunet.org` | No |
 | `kitt.ink` | Yes |
@@ -27075,6 +27083,7 @@ Here's a list of public Fediverse services.
 | `mishkacloud.fun` | No |
 | `misjump.net` | No |
 | `miskatonic.cymru` | Yes |
+| `miski.st` | Yes |
 | `miso.monster` | No |
 | `misoca.jp` | No |
 | `misoni.club` | No |
@@ -48388,8 +48397,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,451 |
-| Normal | 34,889 |
+| Cloudflare | 13,455 |
+| Normal | 34,894 |
 
 
 </details>
