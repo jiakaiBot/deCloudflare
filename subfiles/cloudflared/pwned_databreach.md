@@ -152,7 +152,7 @@ Here's a list of breached sites.
 | CrackingForum | 660,305 | Yes |
 | CraftRise | 2,532,527 | Yes |
 | Creative | 483,015 | No |
-| CrossFire (Cross Fire) | 12,865,609 | No |
+| CrossFire (Cross Fire) | 12,865,609 | Yes |
 | CyberServe | 1,107,034 | Yes |
 | D3scene (D3Scene) | 568,827 | Yes |
 | DDO (Dungeons & Dragons Online) | 1,580,933 | No |
@@ -212,7 +212,7 @@ Here's a list of breached sites.
 | Evermotion | 435,510 | No |
 | EverybodyEdits (Everybody Edits) | 871,190 | Yes |
 | Evite | 100,985,047 | Yes |
-| Evony | 29,396,116 | No |
+| Evony | 29,396,116 | Yes |
 | Exactis | 131,577,763 | No |
 | Experian (Experian (2015)) | 7,196,890 | No |
 | Eye4Fraud | 16,000,591 | No |
@@ -363,7 +363,7 @@ Here's a list of breached sites.
 | MacForums (Mac Forums) | 326,714 | Yes |
 | MacGeneration | 101,004 | Yes |
 | MagicDuel | 138,443 | Yes |
-| MailRu (mail.ru Dump) | 16,630,988 | No |
+| MailRu (mail.ru Dump) | 16,630,988 | Yes |
 | MajorGeeks | 269,548 | Yes |
 | MalindoAir | 4,328,232 | Yes |
 | MallCZ (MALL.cz) | 735,405 | Yes |
@@ -394,7 +394,7 @@ Here's a list of breached sites.
 | MortalOnline (Mortal Online) | 606,637 | Yes |
 | MrExcel | 366,140 | No |
 | MuslimDirectory (Muslim Directory) | 37,784 | No |
-| MuslimMatch (Muslim Match) | 149,830 | No |
+| MuslimMatch (Muslim Match) | 149,830 | Yes |
 | MyFHA | 972,629 | No |
 | MyFitnessPal | 143,606,147 | Yes |
 | MyHeritage | 91,991,358 | No |
@@ -440,7 +440,7 @@ Here's a list of breached sites.
 | PaddyPower (Paddy Power) | 590,954 | Yes |
 | Pampling | 383,468 | No |
 | ParagonCheats (Paragon Cheats) | 188,089 | Yes |
-| Parapa (Пара Па) | 4,946,850 | No |
+| Parapa (Пара Па) | 4,946,850 | Yes |
 | ParkMobile | 20,949,825 | Yes |
 | Patreon | 2,330,382 | Yes |
 | PayAsUGym | 400,260 | No |
@@ -580,7 +580,7 @@ Here's a list of breached sites.
 | Ticketcounter | 1,921,722 | Yes |
 | Ticketfly | 26,151,608 | No |
 | Tigo | 700,394 | Yes |
-| Tokopedia | 71,443,698 | No |
+| Tokopedia | 71,443,698 | Yes |
 | ToonDoo | 6,002,694 | No |
 | TorrentInvites (Torrent Invites) | 352,120 | No |
 | Tout | 652,683 | No |
@@ -669,6 +669,7 @@ Here's a list of breached sites.
 | Zurich | 756,737 | No |
 | Zynga | 172,869,660 | Yes |
 | bigbasket | 24,500,011 | Yes |
+| dBforums | 363,468 | Yes |
 | db8151dd (Covve) | 22,802,117 | Yes |
 | devkitPro | 1,508 | Yes |
 | eThekwiniMunicipality (eThekwini Municipality) | 81,830 | No |
@@ -693,10 +694,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 386 | 4,078,275,352 |
-| Normal | 286 | 4,857,254,947 |
+| Cloudflare | 393 | 4,214,071,911 |
+| Normal | 280 | 4,721,821,856 |
 
 
 
-### 57.4% of breached sites (pwned sites) are using Cloudflare.
-### 45.6% of leaked accounts are on Cloudflare sites.
+### 58.4% of breached sites (pwned sites) are using Cloudflare.
+### 47.2% of leaked accounts are on Cloudflare sites.
