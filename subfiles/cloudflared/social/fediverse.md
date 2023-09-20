@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,420 |
 | social | 4,564 |
-| net | 3,768 |
+| net | 3,769 |
 | org | 2,516 |
 | de | 2,338 |
 
@@ -22675,6 +22675,7 @@ Here's a list of public Fediverse services.
 | `lapo.it` | No |
 | `lapp-social.com` | No |
 | `lapuacase.info` | Yes |
+| `lapuas.xyz` | No |
 | `lapunta.org` | No |
 | `lapy.link` | Yes |
 | `laramy.black` | No |
@@ -29231,6 +29232,7 @@ Here's a list of public Fediverse services.
 | `nepolis.de` | No |
 | `nepolux.de` | No |
 | `neptube.io` | No |
+| `neptunearchivist.net` | No |
 | `neptunedev.us` | No |
 | `nepunep.xyz` | Yes |
 | `nerantzis.social` | No |
@@ -45787,7 +45789,7 @@ Here's a list of public Fediverse services.
 | `warcraft.one` | No |
 | `warcraft.social` | Yes |
 | `wardell.dev` | No |
-| `wardenburg.social` | No |
+| `wardenburg.social` | Yes |
 | `wardenbypass.tk` | No |
 | `warehouse8.social` | No |
 | `wargamers.social` | No |
@@ -48370,8 +48372,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,446 |
-| Normal | 34,876 |
+| Cloudflare | 13,447 |
+| Normal | 34,877 |
 
 
 </details>
