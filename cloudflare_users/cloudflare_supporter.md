@@ -537,6 +537,7 @@ Do not create new issue or we will close it as duplicate.
 | [AjayAna36194967@twitter](https://twitter.com/AjayAna36194967/status/1645671234582253575) | advertise |
 | [AjayRaj37136446@twitter](https://twitter.com/AjayRaj37136446/status/1377920985144299524) | advertise |
 | [ajcpominoz@twitter](https://twitter.com/ajcpominoz/status/1445597215141941258) | advertise |
+| [AjgorNishad@twitter](https://twitter.com/AjgorNishad/status/1704414868223459454) | advertise |
 | [AJian999999@twitter](https://twitter.com/AJian999999/status/1608730761942929408) | advertise |
 | [Ajimarshal147@twitter](https://twitter.com/Ajimarshal147/status/1546320827251048448) | advertise |
 | [AjiPamu85328045@twitter](https://twitter.com/AjiPamu85328045/status/1553241874751959040) | advertise |
