@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ERROR Node 18.17.1 darwin arm64 download fails](https://github.com/nodesource/distributions/issues/1662)
 - [522 - Connection timed out](https://github.com/stephenou/fruitionsite/issues/250)
 - [Sites not opening in Chrome due connection to trying to open with IPv6](https://github.com/apernet/hysteria/issues/703)
 - [NoodleMagazine Resolver Issue Maybe It's Just Me Idk? Other Sites No Longer Working Like They Used To....](https://github.com/dobbelina/repository.dobbelina/issues/1180)
