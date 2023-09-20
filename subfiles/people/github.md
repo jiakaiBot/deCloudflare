@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error running queue: wants_sync](https://github.com/brotherlogic/queue/issues/477)
 - [ERROR Node 18.17.1 darwin arm64 download fails](https://github.com/nodesource/distributions/issues/1662)
 - [522 - Connection timed out](https://github.com/stephenou/fruitionsite/issues/250)
 - [Sites not opening in Chrome due connection to trying to open with IPv6](https://github.com/apernet/hysteria/issues/703)
