@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,417 |
-| social | 4,563 |
+| com | 7,419 |
+| social | 4,564 |
 | net | 3,768 |
 | org | 2,516 |
-| de | 2,337 |
+| de | 2,338 |
 
 
 - Mastodon, Pleroma, etc
@@ -21868,6 +21868,7 @@ Here's a list of public Fediverse services.
 | `koehr.tech` | No |
 | `koeia.de` | No |
 | `koenekoken.org` | No |
+| `koenigsmuenster.de` | No |
 | `koenvh.nl` | No |
 | `koesters.xyz` | No |
 | `koetodon.com` | No |
@@ -26293,6 +26294,7 @@ Here's a list of public Fediverse services.
 | `meld.de` | No |
 | `melder.social` | No |
 | `melijn.me` | Yes |
+| `melikule.xyz` | No |
 | `melilot.icu` | No |
 | `melin.org` | Yes |
 | `meliora.family` | No |
@@ -27075,6 +27077,7 @@ Here's a list of public Fediverse services.
 | `miss-myhouse-key.net` | Yes |
 | `missbanal.net` | No |
 | `misscraft.jp` | No |
+| `missilepuppy.com` | No |
 | `missing-deadlines.com` | Yes |
 | `mission1701.com` | Yes |
 | `missionbendtx.net` | Yes |
@@ -41060,6 +41063,7 @@ Here's a list of public Fediverse services.
 | `talbothome.com` | Yes |
 | `tale.cafe` | No |
 | `talee.de` | No |
+| `talesfromthehomelab.com` | No |
 | `talesofmy.life` | No |
 | `talesofterror.eu` | No |
 | `talilah.de` | No |
@@ -44072,6 +44076,7 @@ Here's a list of public Fediverse services.
 | `tysdomain.com` | No |
 | `tyserve.com` | No |
 | `tywi.net` | Yes |
+| `tyz.social` | Yes |
 | `tz.is` | No |
 | `tzcafe.com` | Yes |
 | `tzi.fr` | No |
@@ -48364,8 +48369,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,444 |
-| Normal | 34,872 |
+| Cloudflare | 13,445 |
+| Normal | 34,876 |
 
 
 </details>
