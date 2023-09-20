@@ -1956,6 +1956,7 @@ Here's a list of public Fediverse services.
 | `amblin.io` | No |
 | `ambrosia.cafe` | Yes |
 | `ambrosia.moe` | No |
+| `amcforum.wiki` | Yes |
 | `amd.im` | Yes |
 | `amd.sh` | Yes |
 | `amdjml.com` | Yes |
@@ -7767,7 +7768,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -16159,7 +16160,7 @@ Here's a list of public Fediverse services.
 | `gosuslugi.social` | Yes |
 | `got-tty.org` | No |
 | `gotanno.love` | No |
-| `gotdns.ch` | No |
+| `gotdns.ch` | Yes |
 | `gotgoat.com` | Yes |
 | `goth.land` | No |
 | `goth.social` | No |
@@ -42549,7 +42550,7 @@ Here's a list of public Fediverse services.
 | `tigercubden.com` | Yes |
 | `tigerden.xyz` | No |
 | `tigernurse.com` | No |
-| `tigersnail.app` | Yes |
+| `tigersnail.app` | No |
 | `tigerstyping.com` | No |
 | `tigger.ie` | No |
 | `tigger.social` | No |
@@ -48363,7 +48364,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,443 |
-| Normal | 34,871 |
+| Normal | 34,872 |
 
 
 </details>
