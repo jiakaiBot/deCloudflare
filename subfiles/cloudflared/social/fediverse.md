@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,425 |
+| com | 7,426 |
 | social | 4,566 |
 | net | 3,771 |
 | org | 2,518 |
-| de | 2,340 |
+| de | 2,341 |
 
 
 - Mastodon, Pleroma, etc
@@ -1446,6 +1446,7 @@ Here's a list of public Fediverse services.
 | `ajhughes.dev` | No |
 | `ajin.la` | No |
 | `ajinkyans.in` | No |
+| `ajk.beer` | No |
 | `ajl.io` | No |
 | `ajmaradiaga.com` | Yes |
 | `ajn.social` | No |
@@ -5549,6 +5550,7 @@ Here's a list of public Fediverse services.
 | `brennoflavio.com.br` | No |
 | `brentjanderson.com` | Yes |
 | `brentsch.com` | Yes |
+| `breowanthorpe.beer` | Yes |
 | `bres.cat` | No |
 | `brettiverse.com` | Yes |
 | `brettspiel-pott.de` | No |
@@ -7333,6 +7335,7 @@ Here's a list of public Fediverse services.
 | `classifiedcosmos.com` | No |
 | `clatter.eu` | Yes |
 | `clatza.dev` | No |
+| `claudio.asia` | No |
 | `claudon.me` | No |
 | `clausgames.com` | Yes |
 | `clavis.info` | No |
@@ -15758,6 +15761,7 @@ Here's a list of public Fediverse services.
 | `girlcock.eu` | No |
 | `girldick.gay` | No |
 | `girldick.icu` | No |
+| `girldick.party` | Yes |
 | `girldick.quest` | No |
 | `girllich.link` | No |
 | `girlmeow.autos` | No |
@@ -30687,6 +30691,7 @@ Here's a list of public Fediverse services.
 | `nye.lol` | No |
 | `nyerm.com` | No |
 | `nygaardboysen.dk` | Yes |
+| `nyheimen.no` | No |
 | `nyhetskartan.se` | No |
 | `nyk.app` | Yes |
 | `nylarea.com` | No |
@@ -37468,6 +37473,7 @@ Here's a list of public Fediverse services.
 | `sduoduo.xyz` | No |
 | `sdz5.com` | No |
 | `se1.eu` | No |
+| `se2me.com` | Yes |
 | `sea-moon.net` | No |
 | `sea-mstdn.social` | Yes |
 | `sea.social` | No |
@@ -42488,6 +42494,7 @@ Here's a list of public Fediverse services.
 | `thorium.cc` | No |
 | `thorjhanson.com` | No |
 | `thorlaksson.com` | No |
+| `thorstrom.fi` | No |
 | `thosemartins.net` | Yes |
 | `thoshis.net` | No |
 | `thoshiswelt.de` | No |
@@ -44263,6 +44270,7 @@ Here's a list of public Fediverse services.
 | `ulne.be` | No |
 | `ulo.social` | No |
 | `ulrar.net` | No |
+| `ulrikeskadir.de` | No |
 | `ulthar.cat` | No |
 | `ultra.fail` | No |
 | `ultragnu.org` | No |
@@ -48398,8 +48406,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,457 |
-| Normal | 34,893 |
+| Cloudflare | 13,460 |
+| Normal | 34,898 |
 
 
 </details>
