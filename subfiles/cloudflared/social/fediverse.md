@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,420 |
-| social | 4,564 |
+| com | 7,422 |
+| social | 4,565 |
 | net | 3,769 |
-| org | 2,516 |
-| de | 2,338 |
+| org | 2,518 |
+| de | 2,339 |
 
 
 - Mastodon, Pleroma, etc
@@ -1950,6 +1950,7 @@ Here's a list of public Fediverse services.
 | `amberhearts.art` | No |
 | `ambience.sk` | No |
 | `ambient.fm` | No |
+| `ambientologosfera.es` | No |
 | `ambition.rip` | No |
 | `amble.blog` | Yes |
 | `amble.quest` | No |
@@ -4004,6 +4005,7 @@ Here's a list of public Fediverse services.
 | `bdmuvt.de` | Yes |
 | `bdn.one` | No |
 | `bdsmspace.club` | No |
+| `bduck.de` | No |
 | `bdx.town` | No |
 | `be-kind-rewind.online` | No |
 | `be-lemmy.org` | Yes |
@@ -5934,7 +5936,7 @@ Here's a list of public Fediverse services.
 | `buzzneon.com` | No |
 | `buzzworkers.com` | No |
 | `bvb.social` | No |
-| `bvmensvoort.nl` | No |
+| `bvmensvoort.nl` | Yes |
 | `bvoigtlaender.de` | Yes |
 | `bvp.me` | No |
 | `bw-toot.de` | No |
@@ -7768,7 +7770,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7798,6 +7800,7 @@ Here's a list of public Fediverse services.
 | `comfysnug.space` | No |
 | `comic.social` | No |
 | `comicbook.nexus` | No |
+| `comiccons.nl` | No |
 | `comicfiesta.social` | Yes |
 | `comics.town` | No |
 | `comicscamp.club` | No |
@@ -10415,6 +10418,7 @@ Here's a list of public Fediverse services.
 | `distsn.org` | No |
 | `disunitedstates.com` | No |
 | `disunitedstates.org` | No |
+| `disvimat.org` | No |
 | `dit.li` | Yes |
 | `dit11a.de` | Yes |
 | `ditatompel.com` | Yes |
@@ -14173,6 +14177,7 @@ Here's a list of public Fediverse services.
 | `fountainpen.social` | No |
 | `fouquet.me` | No |
 | `four-nine.club` | No |
+| `fourbrickstall.com` | No |
 | `fourhappylions.com` | No |
 | `fouroclockfarms.club` | No |
 | `fourth-brigade.jp` | No |
@@ -20254,6 +20259,7 @@ Here's a list of public Fediverse services.
 | `jnsk.info` | Yes |
 | `jo-dev.xyz` | Yes |
 | `jo3qma.com` | Yes |
+| `joachimweber.name` | No |
 | `joanmastodon.blog` | No |
 | `joaocosta.eu` | No |
 | `joaoleitao.org` | Yes |
@@ -27886,6 +27892,7 @@ Here's a list of public Fediverse services.
 | `mqtr.es` | Yes |
 | `mr-omneo.co.uk` | No |
 | `mr.am` | Yes |
+| `mr.gy` | No |
 | `mr64.net` | No |
 | `mrak.at` | No |
 | `mrakonet.cz` | No |
@@ -29737,6 +29744,7 @@ Here's a list of public Fediverse services.
 | `niklasbarning.de` | No |
 | `niklasrosenstein.com` | No |
 | `nikola.love` | Yes |
+| `nikolagroup.uk` | Yes |
 | `nikolaiathome.com` | Yes |
 | `nikolak.com` | Yes |
 | `nikomo.fi` | Yes |
@@ -30313,6 +30321,7 @@ Here's a list of public Fediverse services.
 | `notnow.dev` | No |
 | `notnull.click` | No |
 | `notnull.space` | No |
+| `noto.social` | No |
 | `notobono.de` | No |
 | `notodoesprogramacion.es` | No |
 | `notohiro.com` | Yes |
@@ -33922,6 +33931,7 @@ Here's a list of public Fediverse services.
 | `privacity.org` | No |
 | `privacy-error.it` | No |
 | `privacy.fyi` | No |
+| `privacy.org.au` | No |
 | `privacy.tk` | No |
 | `privacyfirst.social` | No |
 | `privacyfocus.it` | No |
@@ -35800,6 +35810,7 @@ Here's a list of public Fediverse services.
 | `rickscully.com` | No |
 | `ricky-dev.com` | Yes |
 | `rickyleong.me` | No |
+| `ricmac.org` | No |
 | `ricomputermuseum.org` | No |
 | `ricorda.social` | No |
 | `ricostrongxxx.com` | Yes |
@@ -36782,6 +36793,7 @@ Here's a list of public Fediverse services.
 | `salocin.eu` | No |
 | `salon.social` | No |
 | `salonen.dk` | No |
+| `salrahman.com` | No |
 | `salted.fish` | Yes |
 | `saltedskies.social` | No |
 | `saltlake.social` | No |
@@ -39771,6 +39783,7 @@ Here's a list of public Fediverse services.
 | `ss23.geek.nz` | No |
 | `ssbx.dev` | No |
 | `sschnabe.eu` | No |
+| `ssda.me` | No |
 | `ssda.today` | No |
 | `ssdcc.online` | No |
 | `sself.co` | No |
@@ -41133,6 +41146,7 @@ Here's a list of public Fediverse services.
 | `tanakadon.com` | No |
 | `tanavega.xyz` | Yes |
 | `tancomps.net` | No |
+| `tandan.me` | No |
 | `tandarkan.com` | No |
 | `tandj-homelab.dev` | Yes |
 | `tandlers.de` | No |
@@ -48269,6 +48283,7 @@ Here's a list of public Fediverse services.
 | `zponent.com` | No |
 | `zpravobot.news` | No |
 | `zr.si` | Yes |
+| `zr23.aomori.jp` | No |
 | `zr40.nl` | Yes |
 | `zroot.org` | No |
 | `zrx.one` | No |
@@ -48372,8 +48387,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,447 |
-| Normal | 34,877 |
+| Cloudflare | 13,450 |
+| Normal | 34,889 |
 
 
 </details>
