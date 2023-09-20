@@ -5240,6 +5240,7 @@ Do not create new issue or we will close it as duplicate.
 | [imparthamk@twitter](https://twitter.com/imparthamk/status/1678481446917271564) | advertise |
 | [Imperfectv3gan@twitter](https://twitter.com/Imperfectv3gan/status/1665874516210335744) | advertise |
 | [imprince_kumar@twitter](https://twitter.com/imprince_kumar/status/1540676187382358017) | advertise |
+| [Impure_Luciel@twitter](https://twitter.com/Impure_Luciel/status/1704365671034003914) | advertise |
 | [ImranHu92929176@twitter](https://twitter.com/ImranHu92929176/status/1582446468903817218) | advertise |
 | [ImranKh71814473@twitter](https://twitter.com/ImranKh71814473/status/1387290263626731523) | advertise |
 | [imrankhansaami@twitter](https://twitter.com/imrankhansaami/status/1656572398043373568) | advertise |
@@ -8261,6 +8262,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mohamma28513503@twitter](https://twitter.com/Mohamma28513503/status/1556034699558096897) | advertise |
 | [Mohamma37924942@twitter](https://twitter.com/Mohamma37924942/status/1387317795625504769) | advertise |
 | [Mohamma50212087@twitter](https://twitter.com/Mohamma50212087/status/1540324705806307329) | advertise |
+| [Mohamma53756264@twitter](https://twitter.com/Mohamma53756264/status/1704363413034442812) | advertise |
 | [Mohamma54701581@twitter](https://twitter.com/Mohamma54701581/status/1604111762659610625) | advertise |
 | [Mohamma54835205@twitter](https://twitter.com/Mohamma54835205/status/1388906614917324804) | advertise |
 | [mohamma70200446@twitter](https://twitter.com/mohamma70200446/status/1601597937980944384) | advertise |
