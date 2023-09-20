@@ -11289,6 +11289,7 @@ Do not create new issue or we will close it as duplicate.
 | [SebasDeLho@twitter](https://twitter.com/SebasDeLho/status/1458194317458149380) | advertise |
 | [Sebasti24647733@twitter](https://twitter.com/Sebasti24647733/status/1614335055953788934) | advertise |
 | [SebastianUnter5@twitter](https://twitter.com/SebastianUnter5/status/1615414589675474973) | advertise |
+| [SecTec_@twitter](https://twitter.com/SecTec_/status/1704299667545370865) | advertise |
 | [sectorg33@twitter](https://twitter.com/sectorg33/status/1559158992353771521) | advertise |
 | [securefun@twitter](https://twitter.com/securefun/status/1551731297155964928) | advertise |
 | [securehosting_@twitter](https://twitter.com/securehosting_/status/1649175122241101825) | advertise |
