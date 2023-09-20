@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,419 |
+| com | 7,420 |
 | social | 4,564 |
 | net | 3,768 |
 | org | 2,516 |
@@ -19771,6 +19771,7 @@ Here's a list of public Fediverse services.
 | `jamestrey.com` | Yes |
 | `jamesvasile.com` | No |
 | `jameswynn.com` | No |
+| `jametek.com` | No |
 | `jameuwu.com` | Yes |
 | `jamidisi-edu.de` | No |
 | `jamie.moe` | No |
@@ -27663,7 +27664,7 @@ Here's a list of public Fediverse services.
 | `moonstars.org` | No |
 | `moontreeproject.org` | No |
 | `moonwolf.network` | Yes |
-| `mooo.com` | No |
+| `mooo.com` | Yes |
 | `mooo.info` | No |
 | `moooon.network` | No |
 | `mooooo.ooo` | Yes |
@@ -48369,7 +48370,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,445 |
+| Cloudflare | 13,446 |
 | Normal | 34,876 |
 
 
