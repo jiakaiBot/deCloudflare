@@ -5297,6 +5297,7 @@ Do not create new issue or we will close it as duplicate.
 | [INotCoreUser1@twitter](https://twitter.com/INotCoreUser1/status/1392768420135981059) | advertise |
 | [inoxtinta123@twitter](https://twitter.com/inoxtinta123/status/1383637274684903438) | advertise |
 | [Inpag_LAB@twitter](https://twitter.com/Inpag_LAB/status/1564890007604707329) | advertise |
+| [InsaneB19371242@twitter](https://twitter.com/InsaneB19371242/status/1704406996575998328) | advertise |
 | [Inspirit_134340@twitter](https://twitter.com/Inspirit_134340/status/1384521918397632517) | advertise |
 | [Install_SolarUK@twitter](https://twitter.com/Install_SolarUK/status/1551320631546990593) | advertise |
 | [intelligent_pig@twitter](https://twitter.com/intelligent_pig/status/1693033096872870273) | advertise |
@@ -13768,6 +13769,7 @@ Do not create new issue or we will close it as duplicate.
 | [WaiYanS17878090@twitter](https://twitter.com/WaiYanS17878090/status/1397020170493648904) | advertise |
 | [WaiYanS31684454@twitter](https://twitter.com/WaiYanS31684454/status/1392228316422098944) | advertise |
 | [waiyan_linhtet@twitter](https://twitter.com/waiyan_linhtet/status/1390367028603625474) | advertise |
+| [WaiYuen20@twitter](https://twitter.com/WaiYuen20/status/1704396732988334326) | advertise |
 | [WaiZinKoKo2@twitter](https://twitter.com/WaiZinKoKo2/status/1390190890501562369) | advertise |
 | [walder_franco@twitter](https://twitter.com/walder_franco/status/1545399618992750597) | advertise |
 | [WaleedHariri1@twitter](https://twitter.com/WaleedHariri1/status/1703576089409327458) | advertise |
