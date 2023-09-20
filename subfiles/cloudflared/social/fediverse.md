@@ -1957,6 +1957,7 @@ Here's a list of public Fediverse services.
 | `amblin.io` | No |
 | `ambrosia.cafe` | Yes |
 | `ambrosia.moe` | No |
+| `ambrosiani.se` | No |
 | `amcforum.wiki` | Yes |
 | `amd.im` | Yes |
 | `amd.sh` | Yes |
@@ -18996,7 +18997,7 @@ Here's a list of public Fediverse services.
 | `infrageeks.social` | No |
 | `inframed.net` | No |
 | `infranix.eu` | No |
-| `infraspread.net` | No |
+| `infraspread.net` | Yes |
 | `infsea.com` | Yes |
 | `infullflow.net` | No |
 | `infurnalcreatures.org` | No |
@@ -48387,7 +48388,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,450 |
+| Cloudflare | 13,451 |
 | Normal | 34,889 |
 
 
