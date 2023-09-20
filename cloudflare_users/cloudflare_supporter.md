@@ -7047,6 +7047,7 @@ Do not create new issue or we will close it as duplicate.
 | [likexxxpussy@twitter](https://twitter.com/likexxxpussy/status/1480204550753906691) | advertise |
 | [lil33volt@twitter](https://twitter.com/lil33volt/status/1387519800742658048) | advertise |
 | [lildrip34202595@twitter](https://twitter.com/lildrip34202595/status/1547291257529147393) | advertise |
+| [lildrippy121@twitter](https://twitter.com/lildrippy121/status/1704349336241328562) | advertise |
 | [LILE8938@twitter](https://twitter.com/LILE8938/status/1682666741585813505) | advertise |
 | [Lili64674222@twitter](https://twitter.com/Lili64674222/status/1595789914691584001) | advertise |
 | [Liliana87157653@twitter](https://twitter.com/Liliana87157653/status/1620286338661773316) | advertise |
@@ -12842,6 +12843,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tm23437020@twitter](https://twitter.com/Tm23437020/status/1583604154462715905) | advertise |
 | [Tm447280551@twitter](https://twitter.com/Tm447280551/status/1625053403658477568) | advertise |
 | [tmadeglobal@twitter](https://twitter.com/tmadeglobal/status/1622118639141896192) | advertise |
+| [TMaivan27884@twitter](https://twitter.com/TMaivan27884/status/1704348505597518272) | advertise |
 | [TMBo14669434@twitter](https://twitter.com/TMBo14669434/status/1384719692737040387) | advertise |
 | [TMinhTr9@twitter](https://twitter.com/TMinhTr9/status/1402337530033233924) | advertise |
 | [tmlcpl@twitter](https://twitter.com/tmlcpl/status/1386721659806097410) | advertise |
