@@ -842,6 +842,7 @@ Do not create new issue or we will close it as duplicate.
 | [anavaralimited@twitter](https://twitter.com/anavaralimited/status/1389661876397637632) | advertise |
 | [Ana_R2005@twitter](https://twitter.com/Ana_R2005/status/1507169578832605198) | advertise |
 | [ancientxfire@twitter](https://twitter.com/ancientxfire/status/1615290300020449280) | advertise |
+| [AndAlishah@twitter](https://twitter.com/AndAlishah/status/1704439491606532439) | advertise |
 | [Andeptrai291122@twitter](https://twitter.com/Andeptrai291122/status/1553017887182712833) | advertise |
 | [andiodang77@twitter](https://twitter.com/andiodang77/status/1493927735823319041) | advertise |
 | [andoan1610@twitter](https://twitter.com/andoan1610/status/1627668391099256832) | advertise |
@@ -5600,6 +5601,7 @@ Do not create new issue or we will close it as duplicate.
 | [JE2DlAAd0UBr2Rw@twitter](https://twitter.com/JE2DlAAd0UBr2Rw/status/1384138729485324291) | advertise |
 | [Jeary45857239@twitter](https://twitter.com/Jeary45857239/status/1393838455034195971) | advertise |
 | [jeattoo@twitter](https://twitter.com/jeattoo/status/1390214402243108864) | advertise |
+| [JebrtinJ@twitter](https://twitter.com/JebrtinJ/status/1704429426165915910) | advertise |
 | [jechosu@twitter](https://twitter.com/jechosu/status/1668782007751528450) | advertise |
 | [jeebearbae@twitter](https://twitter.com/jeebearbae/status/1569617345357938688) | advertise |
 | [jeepinjeepin@twitter](https://twitter.com/jeepinjeepin/status/1557058497166073856) | advertise |
@@ -7592,6 +7594,7 @@ Do not create new issue or we will close it as duplicate.
 | [mardetanhaaa@twitter](https://twitter.com/mardetanhaaa/status/1379735911286595589) | advertise |
 | [MARDONIOCARVAL2@twitter](https://twitter.com/MARDONIOCARVAL2/status/1392268580213993473) | advertise |
 | [MareckYannick@twitter](https://twitter.com/MareckYannick/status/1701625892093501802) | advertise |
+| [marev1973@twitter](https://twitter.com/marev1973/status/1704443331064033368) | advertise |
 | [MargaridaCosta_@twitter](https://twitter.com/MargaridaCosta_/status/1548485504026300416) | advertise |
 | [margogreen_@twitter](https://twitter.com/margogreen_/status/1665874383464812551) | advertise |
 | [Maria11122399@twitter](https://twitter.com/Maria11122399/status/1545183172538912769) | advertise |
@@ -13617,6 +13620,7 @@ Do not create new issue or we will close it as duplicate.
 | [VnHuy00413630@twitter](https://twitter.com/VnHuy00413630/status/1625412392468484096) | advertise |
 | [vnineutama1@twitter](https://twitter.com/vnineutama1/status/1643937189049565185) | advertise |
 | [VnLc48599484@twitter](https://twitter.com/VnLc48599484/status/1400390004984016899) | advertise |
+| [VnManga@twitter](https://twitter.com/VnManga/status/1704435744025260246) | advertise |
 | [VnManucian@twitter](https://twitter.com/VnManucian/status/1519366337750921216) | advertise |
 | [VnPhi94354953@twitter](https://twitter.com/VnPhi94354953/status/1501922833395445762) | advertise |
 | [vnsntrn15@twitter](https://twitter.com/vnsntrn15/status/1562074302203428864) | advertise |
