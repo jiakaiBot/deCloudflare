@@ -2245,6 +2245,7 @@ Do not create new issue or we will close it as duplicate.
 | [CHANBAE21088600@twitter](https://twitter.com/CHANBAE21088600/status/1392122926711836676) | advertise |
 | [Chancha76116896@twitter](https://twitter.com/Chancha76116896/status/1467508424170618888) | advertise |
 | [chanchan_banyar@twitter](https://twitter.com/chanchan_banyar/status/1539014311565488129) | advertise |
+| [ChanderSha63663@twitter](https://twitter.com/ChanderSha63663/status/1704293854671994995) | advertise |
 | [chandrawiraaa@twitter](https://twitter.com/chandrawiraaa/status/1547578344094732288) | advertise |
 | [change68911673@twitter](https://twitter.com/change68911673/status/1389260007728848898) | advertise |
 | [ChangTraiXuLe@twitter](https://twitter.com/ChangTraiXuLe/status/1639931201187352579) | advertise |
@@ -4686,6 +4687,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hoailam1989@twitter](https://twitter.com/Hoailam1989/status/1589511470718783489) | advertise |
 | [HoaiRin@twitter](https://twitter.com/HoaiRin/status/1577293334053543937) | advertise |
 | [hoaldvn@twitter](https://twitter.com/hoaldvn/status/1552228786044710917) | advertise |
+| [HoaLX6@twitter](https://twitter.com/HoaLX6/status/1704333917690745054) | advertise |
 | [hoan261095@twitter](https://twitter.com/hoan261095/status/1670981539193303041) | advertise |
 | [Hoang06436295@twitter](https://twitter.com/Hoang06436295/status/1565371348699848704) | advertise |
 | [Hoang20057403@twitter](https://twitter.com/Hoang20057403/status/1401122093089976328) | advertise |
@@ -10848,6 +10850,7 @@ Do not create new issue or we will close it as duplicate.
 | [RonaldT20068209@twitter](https://twitter.com/RonaldT20068209/status/1501376414481895424) | advertise |
 | [roney_wak@twitter](https://twitter.com/roney_wak/status/1601267324853440512) | advertise |
 | [rone_clifton@twitter](https://twitter.com/rone_clifton/status/1450187206979588096) | advertise |
+| [rong54692@twitter](https://twitter.com/rong54692/status/1704322203817501034) | advertise |
 | [RongChau132662@twitter](https://twitter.com/RongChau132662/status/1666047352220848128) | advertise |
 | [RonitBose13@twitter](https://twitter.com/RonitBose13/status/1428250137445425157) | advertise |
 | [RonnachaiKammu6@twitter](https://twitter.com/RonnachaiKammu6/status/1382350935758807043) | advertise |
@@ -13233,6 +13236,7 @@ Do not create new issue or we will close it as duplicate.
 | [TunMyat15@twitter](https://twitter.com/TunMyat15/status/1685915066770870272) | advertise |
 | [TUNNAUN44369176@twitter](https://twitter.com/TUNNAUN44369176/status/1392835406618451970) | advertise |
 | [tunoolwin@twitter](https://twitter.com/tunoolwin/status/1392362223973056513) | advertise |
+| [TunPhm339465184@twitter](https://twitter.com/TunPhm339465184/status/1704276565746712995) | advertise |
 | [tunsang71103873@twitter](https://twitter.com/tunsang71103873/status/1401793040088371202) | advertise |
 | [TunSintar@twitter](https://twitter.com/TunSintar/status/1390672619091890177) | advertise |
 | [TunTrn78621454@twitter](https://twitter.com/TunTrn78621454/status/1388115031477211137) | advertise |
