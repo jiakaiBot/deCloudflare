@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-09-19: [Connectivity issues in APAC](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pj61zmbzc1dd)
 - 2023-09-19: [Network Performance Issues in multiple locations](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/t5ll5g5dwr0q)
 - 2023-09-19: [Cloudflare One Connectivity Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/x88ylkg1rzqq)
 - 2023-09-19: [Increase of 530 errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/h7y4hzrh8nxt)
