@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,424 |
+| com | 7,425 |
 | social | 4,566 |
 | net | 3,771 |
 | org | 2,518 |
@@ -5875,7 +5875,7 @@ Here's a list of public Fediverse services.
 | `burner.social` | No |
 | `burner.zone` | No |
 | `burners.social` | No |
-| `burning.moe` | No |
+| `burning.moe` | Yes |
 | `burningbird.net` | No |
 | `burningboard.net` | No |
 | `burningnebula.net` | No |
@@ -28742,6 +28742,7 @@ Here's a list of public Fediverse services.
 | `nadbugiem.org` | No |
 | `nadena.dev` | Yes |
 | `nadesiko-users.info` | No |
+| `nadesskey.com` | Yes |
 | `nado.social` | No |
 | `nadreck.me` | No |
 | `nadus.fr` | No |
@@ -48397,8 +48398,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,455 |
-| Normal | 34,894 |
+| Cloudflare | 13,457 |
+| Normal | 34,893 |
 
 
 </details>
