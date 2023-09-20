@@ -9318,7 +9318,7 @@ Here's a list of public Fediverse services.
 | `dasuniversum.social` | No |
 | `dat-a.com` | No |
 | `dat.cloud` | Yes |
-| `data-aktivismi.online` | No |
+| `data-aktivismi.online` | Yes |
 | `data.coop` | No |
 | `data.gouv.fr` | Yes |
 | `data.haus` | No |
@@ -30404,6 +30404,7 @@ Here's a list of public Fediverse services.
 | `nrgup.net` | Yes |
 | `nrk.cloud` | No |
 | `nrkn.fr` | No |
+| `nrma.cc` | Yes |
 | `nrmn.no` | No |
 | `nro.io` | Yes |
 | `nroo.de` | No |
@@ -48149,7 +48150,7 @@ Here's a list of public Fediverse services.
 | `ziuri.me` | Yes |
 | `zivitas.info` | No |
 | `ziyun.rocks` | No |
-| `zj.ms` | Yes |
+| `zj.ms` | No |
 | `zjuul.net` | No |
 | `zkarzzz.com` | No |
 | `zkc.se` | No |
@@ -48363,7 +48364,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,443 |
+| Cloudflare | 13,444 |
 | Normal | 34,872 |
 
 
