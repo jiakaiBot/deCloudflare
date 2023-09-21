@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Conflicting peer dependency: react@17.0.2](https://github.com/Shopify/ui-extensions/issues/1369)
 - [Listening to profile status](https://github.com/adaptyteam/AdaptySDK-Flutter/issues/96)
 - [Installation instructions -> apt repository URL not resolvable](https://github.com/unikraft/unikraft/issues/1107)
 - [Error running queue: wants_sync](https://github.com/brotherlogic/queue/issues/477)
