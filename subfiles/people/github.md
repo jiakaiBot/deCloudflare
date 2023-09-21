@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Network performance Issues](https://github.com/hinoshiba/news/issues/3871)
+- [CloudFlare Network performance Issues](https://github.com/SecOpsNews/news/issues/19190)
 - [No access token was found.](https://github.com/easton36/clashgg-sniper/issues/1)
 - [S3 backup module write error when using Cloudflare's R2](https://github.com/weaviate/weaviate/issues/3564)
 - [Installation instructions -> apt repository URL not resolvable](https://github.com/unikraft/docs/issues/321)
