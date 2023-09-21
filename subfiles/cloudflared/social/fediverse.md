@@ -28741,7 +28741,7 @@ Here's a list of public Fediverse services.
 | `nabber.org` | No |
 | `naber.space` | No |
 | `nabi1080.net` | No |
-| `nacchan.ca` | No |
+| `nacchan.ca` | Yes |
 | `nachocheese.mom` | No |
 | `nachocheese.uk` | No |
 | `nachof.blog` | No |
@@ -48194,6 +48194,7 @@ Here's a list of public Fediverse services.
 | `zimmer428.net` | No |
 | `zine.dev` | Yes |
 | `zine.party` | No |
+| `zininwebdesign.nl` | No |
 | `zinzolin.fr` | No |
 | `zio.sh` | Yes |
 | `zioibi.com` | Yes |
@@ -48426,7 +48427,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,468 |
+| Cloudflare | 13,469 |
 | Normal | 34,910 |
 
 
