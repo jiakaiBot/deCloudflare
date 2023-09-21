@@ -35620,6 +35620,7 @@ Here's a list of public Fediverse services.
 | `resonite.co.uk` | Yes |
 | `resource.org` | Yes |
 | `resource.pub` | No |
+| `respiroaventura.com.br` | Yes |
 | `resplendentwebservices.com` | No |
 | `response4.com` | No |
 | `respublicae.eu` | No |
@@ -48415,7 +48416,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,460 |
+| Cloudflare | 13,461 |
 | Normal | 34,907 |
 
 
