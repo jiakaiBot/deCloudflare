@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,428 |
 | social | 4,566 |
-| net | 3,771 |
-| org | 2,518 |
+| net | 3,772 |
+| org | 2,519 |
 | de | 2,343 |
 
 
@@ -632,6 +632,7 @@ Here's a list of public Fediverse services.
 | `5lb.co` | No |
 | `5ma.club` | No |
 | `5ma.eu` | No |
+| `5pace.cloud` | Yes |
 | `5py.de` | No |
 | `5seen.social` | Yes |
 | `5sigma.io` | No |
@@ -1088,6 +1089,7 @@ Here's a list of public Fediverse services.
 | `actuallyacat.com` | No |
 | `actuallyautistics.org` | No |
 | `acu.lt` | No |
+| `acula.me` | Yes |
 | `acurrency.org` | No |
 | `ad-astra.moe` | No |
 | `ad5001.eu` | No |
@@ -1602,6 +1604,7 @@ Here's a list of public Fediverse services.
 | `alebit.com` | No |
 | `alecmuffett.com` | No |
 | `alejandromiranda.org` | No |
+| `alejandrosoriano.xyz` | Yes |
 | `alejohnny.me` | Yes |
 | `aleksrudzitis.com` | No |
 | `alemi.dev` | No |
@@ -4425,6 +4428,7 @@ Here's a list of public Fediverse services.
 | `biblewp.net` | Yes |
 | `biblioco.de` | No |
 | `bibliohack.org` | No |
+| `bibliotecaepiscopalbcn.org` | No |
 | `bibliothekarisch.info` | No |
 | `bibliotheksbubble.de` | No |
 | `biblioverse.online` | No |
@@ -8459,6 +8463,7 @@ Here's a list of public Fediverse services.
 | `crossthestreams.blog` | No |
 | `crosswords.social` | No |
 | `crouchingpanda.co.za` | Yes |
+| `croustifed.net` | No |
 | `crovaxon.de` | No |
 | `crow-labs.uk` | Yes |
 | `crow.lol` | Yes |
@@ -19052,6 +19057,7 @@ Here's a list of public Fediverse services.
 | `inkommit.com` | No |
 | `inkopolis.cafe` | No |
 | `inkson.org` | No |
+| `inkspill.co` | No |
 | `inkstained.space` | Yes |
 | `inkweb.network` | No |
 | `inkwell.space` | No |
@@ -33419,6 +33425,7 @@ Here's a list of public Fediverse services.
 | `pnn.sh` | Yes |
 | `pnpde.social` | No |
 | `pnuk.com` | Yes |
+| `pnuk.tv` | Yes |
 | `pnut.pl` | Yes |
 | `pnw-mastodon.com` | No |
 | `pnw.life` | No |
@@ -46927,6 +46934,7 @@ Here's a list of public Fediverse services.
 | `wychwit.ch` | Yes |
 | `wyld.me` | No |
 | `wyld.media` | Yes |
+| `wyman.us` | Yes |
 | `wyndix.dev` | No |
 | `wyngraphs.com` | No |
 | `wynning.tech` | Yes |
@@ -48418,8 +48426,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,461 |
-| Normal | 34,909 |
+| Cloudflare | 13,466 |
+| Normal | 34,912 |
 
 
 </details>
