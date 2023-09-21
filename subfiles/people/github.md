@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Increased 502 errors in multiple PoPs](https://github.com/hinoshiba/news/issues/3874)
+- [CloudFlare Increased 502 errors in multiple PoPs](https://github.com/SecOpsNews/news/issues/19194)
 - [CloudFlare Network performance Issues](https://github.com/hinoshiba/news/issues/3871)
 - [CloudFlare Network performance Issues](https://github.com/SecOpsNews/news/issues/19190)
 - [No access token was found.](https://github.com/easton36/clashgg-sniper/issues/1)
