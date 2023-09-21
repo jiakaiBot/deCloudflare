@@ -1,5 +1,3 @@
-Use KarmaAPI to detect stealthy Cloudflare domains
-
 ### Block Cloudflare MITM Attack!!
 
 `Let's fight against the growing MITM attack on the Internet.`
