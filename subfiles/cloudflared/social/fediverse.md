@@ -22046,6 +22046,7 @@ Here's a list of public Fediverse services.
 | `korrigans.me` | No |
 | `korrupt.biz` | No |
 | `korv.es` | No |
+| `korz.dev` | No |
 | `korzekwa.io` | No |
 | `korzq.xyz` | No |
 | `kosebamse.com` | No |
@@ -29673,7 +29674,7 @@ Here's a list of public Fediverse services.
 | `nicolosus.com` | No |
 | `nicomedkey.cc` | Yes |
 | `niconicorose.com` | No |
-| `nicoplaysthings.live` | No |
+| `nicoplaysthings.live` | Yes |
 | `nicosan.guru` | Yes |
 | `nicra.fr` | No |
 | `nicuverse.org` | No |
@@ -48408,7 +48409,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,457 |
+| Cloudflare | 13,458 |
 | Normal | 34,903 |
 
 
