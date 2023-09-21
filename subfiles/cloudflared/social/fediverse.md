@@ -34604,6 +34604,7 @@ Here's a list of public Fediverse services.
 | `quickbrb.chat` | Yes |
 | `quickbrb.com` | Yes |
 | `quickfix.es` | No |
+| `quiescent.nexus` | No |
 | `quiet.horse` | No |
 | `quiet.social` | No |
 | `quiet.town` | No |
@@ -48408,7 +48409,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,457 |
-| Normal | 34,902 |
+| Normal | 34,903 |
 
 
 </details>
