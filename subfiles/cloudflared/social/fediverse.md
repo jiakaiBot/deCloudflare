@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,566 |
 | net | 3,771 |
 | org | 2,518 |
-| de | 2,342 |
+| de | 2,343 |
 
 
 - Mastodon, Pleroma, etc
@@ -32521,6 +32521,7 @@ Here's a list of public Fediverse services.
 | `pelzel.de` | No |
 | `pelzfeld.com` | No |
 | `pelzi-online.net` | No |
+| `pen-paper-dice.de` | No |
 | `pena.mobi` | Yes |
 | `pencilchecker.space` | Yes |
 | `pencilfusion.com` | No |
@@ -48184,6 +48185,7 @@ Here's a list of public Fediverse services.
 | `zimmer428.net` | No |
 | `zine.dev` | Yes |
 | `zine.party` | No |
+| `zininwebdesign.nl` | No |
 | `zinzolin.fr` | No |
 | `zio.sh` | Yes |
 | `zioibi.com` | Yes |
@@ -48417,7 +48419,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,461 |
-| Normal | 34,907 |
+| Normal | 34,909 |
 
 
 </details>
