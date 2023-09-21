@@ -1936,6 +1936,7 @@ Do not create new issue or we will close it as duplicate.
 | [BOLL52898482@twitter](https://twitter.com/BOLL52898482/status/1395812015214632960) | advertise |
 | [BoMyat19@twitter](https://twitter.com/BoMyat19/status/1605848700881772545) | advertise |
 | [BonaErwin@twitter](https://twitter.com/BonaErwin/status/1488978738066771974) | advertise |
+| [BoneyTusha67237@twitter](https://twitter.com/BoneyTusha67237/status/1704851251706675462) | advertise |
 | [BonfireZone@twitter](https://twitter.com/BonfireZone/status/1432302355488329733) | advertise |
 | [bonguyn29688521@twitter](https://twitter.com/bonguyn29688521/status/1402308865257918465) | advertise |
 | [BonifaceVivo@twitter](https://twitter.com/BonifaceVivo/status/1596592029613424640) | advertise |
@@ -4616,6 +4617,7 @@ Do not create new issue or we will close it as duplicate.
 | [HlaingKyawHtut1@twitter](https://twitter.com/HlaingKyawHtut1/status/1390191305024688128) | advertise |
 | [HlaingMyoHtut10@twitter](https://twitter.com/HlaingMyoHtut10/status/1382734195663925251) | advertise |
 | [HlainHtet@twitter](https://twitter.com/HlainHtet/status/1395234765473783808) | advertise |
+| [HlakyawSan@twitter](https://twitter.com/HlakyawSan/status/1704842208732688412) | advertise |
 | [hlamyo928_myo@twitter](https://twitter.com/hlamyo928_myo/status/1391208020927942660) | advertise |
 | [HlamyoN49315576@twitter](https://twitter.com/HlamyoN49315576/status/1393081718538530817) | advertise |
 | [HlaOo36723372@twitter](https://twitter.com/HlaOo36723372/status/1611597209560297472) | advertise |
@@ -8455,6 +8457,7 @@ Do not create new issue or we will close it as duplicate.
 | [mrtrkmn_@twitter](https://twitter.com/mrtrkmn_/status/1511854610713124865) | advertise |
 | [MrTUNTUNWIN2@twitter](https://twitter.com/MrTUNTUNWIN2/status/1396141423741734912) | advertise |
 | [mrtuscan@twitter](https://twitter.com/mrtuscan/status/1401523595432628225) | advertise |
+| [mrtym020457061@twitter](https://twitter.com/mrtym020457061/status/1704848280507592894) | advertise |
 | [mrwavibor@twitter](https://twitter.com/mrwavibor/status/1488530667499667469) | advertise |
 | [Mrwinzaw491@twitter](https://twitter.com/Mrwinzaw491/status/1390187633729425408) | advertise |
 | [MrYeMinTun1@twitter](https://twitter.com/MrYeMinTun1/status/1394660706490806274) | advertise |
@@ -12083,6 +12086,7 @@ Do not create new issue or we will close it as duplicate.
 | [SyedFah94404165@twitter](https://twitter.com/SyedFah94404165/status/1386268969083019266) | advertise |
 | [syedfazil42@twitter](https://twitter.com/syedfazil42/status/1386576346885758976) | advertise |
 | [SyedZab83487198@twitter](https://twitter.com/SyedZab83487198/status/1389502667391528967) | advertise |
+| [syhmii73@twitter](https://twitter.com/syhmii73/status/1704861127052869902) | advertise |
 | [syhmyarff_@twitter](https://twitter.com/syhmyarff_/status/1402492585625591816) | advertise |
 | [Sylla19072446@twitter](https://twitter.com/Sylla19072446/status/1392059309698265088) | advertise |
 | [Sylvhem@eldritch.cafe](https://eldritch.cafe/@Sylvhem) | attacked activist; see quote |
