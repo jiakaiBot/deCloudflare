@@ -5,7 +5,7 @@
         {
           "applications": {
             "gecko": {
-              "strict_min_version": "91.0"
+              "strict_min_version": "102.0"
             }
           },
           "version": "1.0.8",
@@ -33,7 +33,7 @@
         {
           "applications": {
             "gecko": {
-              "strict_min_version": "91.0"
+              "strict_min_version": "102.0"
             }
           },
           "version": "1.0.7",
@@ -47,12 +47,12 @@
         {
           "applications": {
             "gecko": {
-              "strict_min_version": "91.0"
+              "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.3",
+          "version": "1.0.3.1",
           "update_link": "https://0xacab.org/dCF/deCloudflare/-/raw/master/addons/releases/bcma.xpi",
-          "update_hash": "sha256:74334d33e6d2e192a77fb067436c9d29e6492cae68d5c87c713cbfdf6769fe60"
+          "update_hash": "sha256:9d35b263042ee18c26d13fde3f7d3d23699a7c515608064cbfe0f9015c0e8d45"
         }
       ]
     }
