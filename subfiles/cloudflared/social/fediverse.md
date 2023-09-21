@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,426 |
+| com | 7,428 |
 | social | 4,566 |
 | net | 3,771 |
 | org | 2,518 |
@@ -421,6 +421,7 @@ Here's a list of public Fediverse services.
 | `32-b.it` | Yes |
 | `321.com` | No |
 | `32int.com` | No |
+| `333thats33s.cc` | Yes |
 | `334.ovh` | Yes |
 | `338338.xyz` | Yes |
 | `33chan.xyz` | No |
@@ -18112,7 +18113,7 @@ Here's a list of public Fediverse services.
 | `hp-gauster.name` | No |
 | `hpadm.de` | No |
 | `hpc.social` | No |
-| `hpea.moe` | Yes |
+| `hpea.moe` | No |
 | `hpi.social` | No |
 | `hpi.wtf` | No |
 | `hpkns.uk` | Yes |
@@ -25899,6 +25900,7 @@ Here's a list of public Fediverse services.
 | `matsuu.org` | Yes |
 | `matsuuratomoya.com` | Yes |
 | `matt-social.co.uk` | No |
+| `matt17r.com` | Yes |
 | `mattarkin.com` | Yes |
 | `mattball.io` | No |
 | `mattbk.com` | No |
@@ -38493,6 +38495,7 @@ Here's a list of public Fediverse services.
 | `sisulink.social` | Yes |
 | `site.nz` | No |
 | `sitedethib.com` | No |
+| `sitely.cc` | Yes |
 | `siteop.biz` | No |
 | `sitesource.be` | No |
 | `siteyui.site` | No |
@@ -44861,6 +44864,7 @@ Here's a list of public Fediverse services.
 | `vaduzz.de` | No |
 | `vael.town` | No |
 | `vaenner.net` | No |
+| `vaguelydamp.com` | No |
 | `vah.sh` | Yes |
 | `vakaruge.com` | No |
 | `vaku.org.ua` | No |
@@ -48410,8 +48414,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,458 |
-| Normal | 34,904 |
+| Cloudflare | 13,460 |
+| Normal | 34,906 |
 
 
 </details>
