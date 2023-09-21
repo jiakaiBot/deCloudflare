@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,428 |
+| com | 7,429 |
 | social | 4,567 |
 | net | 3,772 |
-| org | 2,519 |
+| org | 2,520 |
 | de | 2,343 |
 
 
@@ -10325,6 +10325,7 @@ Here's a list of public Fediverse services.
 | `dipshit.space` | No |
 | `dir.pl` | No |
 | `dira.cc` | No |
+| `dirae.org` | No |
 | `dirb.xyz` | No |
 | `direct-live.net` | No |
 | `directdon.jp` | No |
@@ -13535,6 +13536,7 @@ Here's a list of public Fediverse services.
 | `feuerwehr.social` | No |
 | `feuforeve.fr` | No |
 | `feurious.com` | No |
+| `feutche.com` | No |
 | `feutl.com` | No |
 | `fexel.digital` | No |
 | `fey.cafe` | No |
@@ -21066,6 +21068,7 @@ Here's a list of public Fediverse services.
 | `kasa12.dev` | No |
 | `kasakoso.lol` | Yes |
 | `kasei.ski` | Yes |
+| `kasesag.gay` | Yes |
 | `kashayokai.com` | Yes |
 | `kashishokunin.com` | No |
 | `kashiwadon.net` | No |
@@ -48429,8 +48432,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,469 |
-| Normal | 34,912 |
+| Cloudflare | 13,470 |
+| Normal | 34,914 |
 
 
 </details>
