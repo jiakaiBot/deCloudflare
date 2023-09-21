@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [S3 backup module write error when using Cloudflare's R2](https://github.com/weaviate/weaviate/issues/3564)
 - [Installation instructions -> apt repository URL not resolvable](https://github.com/unikraft/docs/issues/321)
 - [Conflicting peer dependency: react@17.0.2](https://github.com/Shopify/ui-extensions/issues/1369)
 - [Listening to profile status](https://github.com/adaptyteam/AdaptySDK-Flutter/issues/96)
