@@ -7777,7 +7777,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -17073,6 +17073,7 @@ Here's a list of public Fediverse services.
 | `harvestasya.org` | Yes |
 | `harz.social` | No |
 | `harzpromoter.de` | No |
+| `has-no.solutions` | No |
 | `hasa.blog` | No |
 | `hasacow.com` | No |
 | `hasameli.com` | No |
@@ -19678,7 +19679,7 @@ Here's a list of public Fediverse services.
 | `jackbot.uk` | No |
 | `jackdaddy.blog` | No |
 | `jackdaw.today` | No |
-| `jackelope.gay` | Yes |
+| `jackelope.gay` | No |
 | `jackf.red` | Yes |
 | `jackhill.us` | No |
 | `jackhumphrey.me` | Yes |
@@ -39650,7 +39651,7 @@ Here's a list of public Fediverse services.
 | `spooky.camp` | No |
 | `spooky.click` | No |
 | `spooky.computer` | No |
-| `spooky.pizza` | Yes |
+| `spooky.pizza` | No |
 | `spooky.social` | No |
 | `spookyg.host` | Yes |
 | `spookygirl.boo` | Yes |
@@ -48406,8 +48407,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,460 |
-| Normal | 34,898 |
+| Cloudflare | 13,457 |
+| Normal | 34,902 |
 
 
 </details>
