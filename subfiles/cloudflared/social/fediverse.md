@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,566 |
 | net | 3,771 |
 | org | 2,518 |
-| de | 2,341 |
+| de | 2,342 |
 
 
 - Mastodon, Pleroma, etc
@@ -17322,6 +17322,7 @@ Here's a list of public Fediverse services.
 | `helene.moe` | Yes |
 | `helene.tk` | Yes |
 | `helenprejean.org` | No |
+| `helferverein-thw-do.de` | No |
 | `helicos.net` | Yes |
 | `heliohost.us` | No |
 | `helios.red` | Yes |
@@ -48183,7 +48184,6 @@ Here's a list of public Fediverse services.
 | `zimmer428.net` | No |
 | `zine.dev` | Yes |
 | `zine.party` | No |
-| `zininwebdesign.nl` | No |
 | `zinzolin.fr` | No |
 | `zio.sh` | Yes |
 | `zioibi.com` | Yes |
