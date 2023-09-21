@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Listening to profile status](https://github.com/adaptyteam/AdaptySDK-Flutter/issues/96)
 - [Installation instructions -> apt repository URL not resolvable](https://github.com/unikraft/unikraft/issues/1107)
 - [Error running queue: wants_sync](https://github.com/brotherlogic/queue/issues/477)
 - [ERROR Node 18.17.1 darwin arm64 download fails](https://github.com/nodesource/distributions/issues/1662)
