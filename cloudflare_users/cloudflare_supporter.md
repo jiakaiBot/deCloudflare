@@ -11942,6 +11942,7 @@ Do not create new issue or we will close it as duplicate.
 | [Subas79111783@twitter](https://twitter.com/Subas79111783/status/1594687713365864448) | advertise |
 | [SubashS68737602@twitter](https://twitter.com/SubashS68737602/status/1552276508554964992) | advertise |
 | [subatomicbliss8@twitter](https://twitter.com/subatomicbliss8/status/1651819520921681922) | advertise |
+| [subby_bitchboi@twitter](https://twitter.com/subby_bitchboi/status/1704750792769429870) | advertise |
 | [SUBEZYETI@twitter](https://twitter.com/SUBEZYETI/status/1403026281130643459) | advertise |
 | [Subhamdm@twitter](https://twitter.com/Subhamdm/status/1401919030034714630) | advertise |
 | [subhash73902708@twitter](https://twitter.com/subhash73902708/status/1597228369875435521) | advertise |
@@ -11977,6 +11978,7 @@ Do not create new issue or we will close it as duplicate.
 | [suleiman_1383@twitter](https://twitter.com/suleiman_1383/status/1549178969676828672) | advertise |
 | [sulochanaeranda@twitter](https://twitter.com/sulochanaeranda/status/1479827028836765705) | advertise |
 | [Sultan98000519@twitter](https://twitter.com/Sultan98000519/status/1566898736797827073) | advertise |
+| [SultanZargai@twitter](https://twitter.com/SultanZargai/status/1704742169679101981) | advertise |
 | [SulthanPhD@twitter](https://twitter.com/SulthanPhD/status/1386751386067423234) | advertise |
 | [sumaiya62429086@twitter](https://twitter.com/sumaiya62429086/status/1498860860022075394) | advertise |
 | [SUMAJKID@twitter](https://twitter.com/SUMAJKID/status/1553683439936712704) | advertise |
