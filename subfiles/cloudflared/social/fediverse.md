@@ -14009,6 +14009,7 @@ Here's a list of public Fediverse services.
 | `fnky.nz` | Yes |
 | `fnkysloth.net` | Yes |
 | `fnlog.page` | No |
+| `fnm0.loan` | Yes |
 | `fnord.net.au` | No |
 | `fnordica.de` | No |
 | `fnordon.de` | No |
@@ -29680,7 +29681,7 @@ Here's a list of public Fediverse services.
 | `nicolastissot.fr` | No |
 | `nicolog.jp` | No |
 | `nicolosus.chat` | Yes |
-| `nicolosus.com` | No |
+| `nicolosus.com` | Yes |
 | `nicomedkey.cc` | Yes |
 | `niconicorose.com` | No |
 | `nicoplaysthings.live` | Yes |
@@ -48193,7 +48194,6 @@ Here's a list of public Fediverse services.
 | `zimmer428.net` | No |
 | `zine.dev` | Yes |
 | `zine.party` | No |
-| `zininwebdesign.nl` | No |
 | `zinzolin.fr` | No |
 | `zio.sh` | Yes |
 | `zioibi.com` | Yes |
@@ -48426,8 +48426,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,466 |
-| Normal | 34,912 |
+| Cloudflare | 13,468 |
+| Normal | 34,910 |
 
 
 </details>
