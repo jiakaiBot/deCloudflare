@@ -35449,6 +35449,7 @@ Here's a list of public Fediverse services.
 | `rehyve.nl` | No |
 | `rei-ayanami.club` | No |
 | `reidodon.net` | No |
+| `reijmers.xyz` | No |
 | `reika-smapuri.com` | No |
 | `reil.de` | No |
 | `reima.rocks` | No |
@@ -48415,7 +48416,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,460 |
-| Normal | 34,906 |
+| Normal | 34,907 |
 
 
 </details>
