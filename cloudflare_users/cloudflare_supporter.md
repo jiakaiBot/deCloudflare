@@ -3632,6 +3632,7 @@ Do not create new issue or we will close it as duplicate.
 | [Faidzinn@twitter](https://twitter.com/Faidzinn/status/1591669344731561986) | advertise |
 | [faighenzho@twitter](https://twitter.com/faighenzho/status/1382412226925973506) | advertise |
 | [FaiSal84540206@twitter](https://twitter.com/FaiSal84540206/status/1550443650521243649) | advertise |
+| [FAISAL95962564@twitter](https://twitter.com/FAISAL95962564/status/1704759864986140853) | advertise |
 | [FaisalHossine@twitter](https://twitter.com/FaisalHossine/status/1386253418218491905) | advertise |
 | [faisal_asif@twitter](https://twitter.com/faisal_asif/status/1518406069764112392) | advertise |
 | [Faisal_gilani1@twitter](https://twitter.com/Faisal_gilani1/status/1639929905260687365) | advertise |
@@ -12137,6 +12138,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tainguyen260697@twitter](https://twitter.com/Tainguyen260697/status/1629049941778915329) | advertise |
 | [taisaDesigner@twitter](https://twitter.com/taisaDesigner/status/1511636003626311680) | advertise |
 | [taitran09539503@twitter](https://twitter.com/taitran09539503/status/1609894150962577408) | advertise |
+| [TajeddineTangi@twitter](https://twitter.com/TajeddineTangi/status/1698950242677199261) | advertise |
 | [tajinde52425634@twitter](https://twitter.com/tajinde52425634/status/1407580334489628676) | advertise |
 | [taketimez@twitter](https://twitter.com/taketimez/status/1393835169971281921) | advertise |
 | [takn12262883@twitter](https://twitter.com/takn12262883/status/1380791412078206978) | advertise |
