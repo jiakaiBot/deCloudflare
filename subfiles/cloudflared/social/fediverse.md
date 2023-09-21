@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,428 |
-| social | 4,566 |
+| social | 4,567 |
 | net | 3,772 |
 | org | 2,519 |
 | de | 2,343 |
@@ -1289,6 +1289,7 @@ Here's a list of public Fediverse services.
 | `afn.social` | No |
 | `afnsocial.co` | No |
 | `afontaine.dev` | No |
+| `afop.social` | No |
 | `afop.tech` | No |
 | `afr.pm` | No |
 | `afr.social` | No |
@@ -48194,7 +48195,6 @@ Here's a list of public Fediverse services.
 | `zimmer428.net` | No |
 | `zine.dev` | Yes |
 | `zine.party` | No |
-| `zininwebdesign.nl` | No |
 | `zinzolin.fr` | No |
 | `zio.sh` | Yes |
 | `zioibi.com` | Yes |
