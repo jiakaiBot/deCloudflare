@@ -18,12 +18,12 @@ The browser’s lock icon is a UI widget which makes this promise to the user.
 Cloudflare is a mass-decryption chokepoint, which intercepts and decrypts the Web requests made by billions of people to millions of websites.
  
 
-- Start your own Cloudflare Collection
+- Start your own Cloudflare Collection<br>
 The add-on remembers cloudflare domain and keep it locally like a collection book.
 You can review, export, delete or disable your collection anytime.
 It is your collection; this add-on never send it online.
 
-- About "_Use KarmaAPI to detect stealthy Cloudflare domains_" settings option
+- About "_Use KarmaAPI to detect stealthy Cloudflare domains_" settings option<br>
 This add-on does not make internet connection by default.
 This option is disabled by default.
 If you enable above option, the add-on will lookup only domain name (e.g. `https://www.mozilla.org/blog/ -> send only "mozilla.org"`) with [Karma API](../service/karma_api.md) service.
