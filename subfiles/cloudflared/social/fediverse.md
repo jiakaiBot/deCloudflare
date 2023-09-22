@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,434 |
+| com | 7,435 |
 | social | 4,573 |
-| net | 3,775 |
+| net | 3,776 |
 | org | 2,523 |
 | de | 2,346 |
 
@@ -5742,7 +5742,7 @@ Here's a list of public Fediverse services.
 | `bsg75.app` | No |
 | `bskey.social` | Yes |
 | `bsky.business` | No |
-| `bslounge.com` | No |
+| `bslounge.com` | Yes |
 | `bsmhome.de` | No |
 | `bsmserverone.net` | No |
 | `bsnsense.xyz` | No |
@@ -7304,7 +7304,7 @@ Here's a list of public Fediverse services.
 | `cizek.chat` | No |
 | `cizmar.net` | No |
 | `cj.codes` | Yes |
-| `cj8.de` | No |
+| `cj8.de` | Yes |
 | `cjbc.eu` | No |
 | `cjc4.com` | Yes |
 | `cjdb.xyz` | No |
@@ -9235,6 +9235,7 @@ Here's a list of public Fediverse services.
 | `darckoune.moe` | No |
 | `darcy.family` | No |
 | `darcy.social` | No |
+| `darcynorman.net` | No |
 | `dardan.com` | No |
 | `dardan.im` | No |
 | `dareme.org` | No |
@@ -10366,6 +10367,7 @@ Here's a list of public Fediverse services.
 | `discloud.one` | No |
 | `disco.camp` | No |
 | `discocat.me` | No |
+| `disconnected.place` | Yes |
 | `discorded.io` | No |
 | `discordian.social` | No |
 | `discorevenge.xyz` | No |
@@ -18843,6 +18845,7 @@ Here's a list of public Fediverse services.
 | `impossiblepeople.co.kr` | No |
 | `impostersyndrome.online` | No |
 | `impreg.net` | No |
+| `improv.one` | No |
 | `improv.social` | No |
 | `improved-madness.de` | No |
 | `imreh.net` | Yes |
@@ -20712,6 +20715,7 @@ Here's a list of public Fediverse services.
 | `justbyspeaking.com` | No |
 | `justcoding.tech` | Yes |
 | `justda.tips` | No |
+| `justdalek.com` | Yes |
 | `justdied.com` | No |
 | `justec.co.uk` | No |
 | `justelex.de` | No |
@@ -24709,6 +24713,7 @@ Here's a list of public Fediverse services.
 | `madyanne.fr` | No |
 | `madzel.de` | No |
 | `mae.wtf` | Yes |
+| `maechler.cloud` | No |
 | `maehl.eu` | No |
 | `maelstrom.space` | No |
 | `maengkkongi.site` | No |
@@ -48472,8 +48477,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,487 |
-| Normal | 34,937 |
+| Cloudflare | 13,491 |
+| Normal | 34,938 |
 
 
 </details>
