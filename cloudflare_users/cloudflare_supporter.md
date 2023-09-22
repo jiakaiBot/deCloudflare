@@ -2202,6 +2202,7 @@ Do not create new issue or we will close it as duplicate.
 | [ccthnh2113@twitter](https://twitter.com/ccthnh2113/status/1393980571378847746) | advertise |
 | [CDGuruji@twitter](https://twitter.com/CDGuruji/status/1392743577973780483) | advertise |
 | [CeakhaKha@twitter](https://twitter.com/CeakhaKha/status/1550293952959393792) | advertise |
+| [CecTvhung@twitter](https://twitter.com/CecTvhung/status/1705177897852637490) | advertise |
 | [CeeeeeeeeeJ@twitter](https://twitter.com/CeeeeeeeeeJ/status/1383152196754165760) | advertise |
 | [cefi@twitter](https://twitter.com/cefi/status/1389227756660133890) | advertise |
 | [cek_saha@twitter](https://twitter.com/cek_saha/status/1592540374517829634) | advertise |
@@ -2474,6 +2475,7 @@ Do not create new issue or we will close it as duplicate.
 | [CngMinh69938240@twitter](https://twitter.com/CngMinh69938240/status/1642927025890680833) | advertise |
 | [CngNguy78789456@twitter](https://twitter.com/CngNguy78789456/status/1398669757096726528) | advertise |
 | [cng_ftdev@twitter](https://twitter.com/cng_ftdev/status/1677715324748320769) | advertise |
+| [cnkarayalcIn@twitter](https://twitter.com/cnkarayalcIn/status/1705135597851963466) | advertise |
 | [CnSakuya@twitter](https://twitter.com/CnSakuya/status/1592425946870861824) | advertise |
 | [Cocacolasoda123@twitter](https://twitter.com/Cocacolasoda123/status/1703715643487653899) | advertise |
 | [CocainCua@twitter](https://twitter.com/CocainCua/status/1646953325060059136) | advertise |
@@ -4659,6 +4661,7 @@ Do not create new issue or we will close it as duplicate.
 | [HngTrn79110219@twitter](https://twitter.com/HngTrn79110219/status/1482001001410621443) | advertise |
 | [HngTrn88730468@twitter](https://twitter.com/HngTrn88730468/status/1623682035792621570) | advertise |
 | [HnhNguy34896540@twitter](https://twitter.com/HnhNguy34896540/status/1669740718179622912) | advertise |
+| [hnhnso@twitter](https://twitter.com/hnhnso/status/1705177240437461183) | advertise |
 | [hninandarhlaing@twitter](https://twitter.com/hninandarhlaing/status/1395074563935903746) | advertise |
 | [HninEI97581638@twitter](https://twitter.com/HninEI97581638/status/1396274635511975940) | advertise |
 | [HnineieiH@twitter](https://twitter.com/HnineieiH/status/1390053844894224384) | advertise |
@@ -10610,6 +10613,7 @@ Do not create new issue or we will close it as duplicate.
 | [raqebpress@twitter](https://twitter.com/raqebpress/status/1475851899844845570) | advertise |
 | [rare_sauce1@twitter](https://twitter.com/rare_sauce1/status/1574476001689866240) | advertise |
 | [RasaAhmad2@twitter](https://twitter.com/RasaAhmad2/status/1657932982462873600) | advertise |
+| [Rashad58243172@twitter](https://twitter.com/Rashad58243172/status/1705179504522461636) | advertise |
 | [rashed_pq@twitter](https://twitter.com/rashed_pq/status/1645280949477810176) | advertise |
 | [RashidJrn@twitter](https://twitter.com/RashidJrn/status/1393139111981113351) | advertise |
 | [RashSt@twitter](https://twitter.com/RashSt/status/1499024489602031618) | advertise |
