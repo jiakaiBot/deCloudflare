@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Problems while starting the add-on with Supervised HA on Debian 12](https://github.com/w35l3y/hassio-addons/issues/24)
 - [Nightly failed; CAPTCHA problem?](https://github.com/tripleee/sloshy/issues/65)
 - [CloudFlare Network Performance Issues](https://github.com/hinoshiba/news/issues/3878)
 - [OpenSSL: error:0A000438:SSL routines::tlsv1 alert internal error](https://github.com/bluesky-social/pds/issues/15)
