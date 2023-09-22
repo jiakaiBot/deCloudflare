@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Network Performance Issues](https://github.com/hinoshiba/news/issues/3878)
 - [OpenSSL: error:0A000438:SSL routines::tlsv1 alert internal error](https://github.com/bluesky-social/pds/issues/15)
 - [CloudFlare Network Performance Issues](https://github.com/SecOpsNews/news/issues/19196)
 - [Problem trying to use StoryblokComponent when following tutorial](https://github.com/storyblok/storyblok-astro/issues/460)
