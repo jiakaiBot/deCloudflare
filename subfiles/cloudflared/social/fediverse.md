@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,430 |
+| com | 7,429 |
 | social | 4,572 |
 | net | 3,772 |
 | org | 2,523 |
@@ -20707,7 +20707,6 @@ Here's a list of public Fediverse services.
 | `justbyspeaking.com` | No |
 | `justcoding.tech` | Yes |
 | `justda.tips` | No |
-| `justdalek.com` | Yes |
 | `justdied.com` | No |
 | `justec.co.uk` | No |
 | `justelex.de` | No |
@@ -48458,7 +48457,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,482 |
+| Cloudflare | 13,481 |
 | Normal | 34,928 |
 
 
