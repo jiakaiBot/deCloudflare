@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [OpenSSL: error:0A000438:SSL routines::tlsv1 alert internal error](https://github.com/bluesky-social/pds/issues/15)
+- [CloudFlare Network Performance Issues](https://github.com/SecOpsNews/news/issues/19196)
 - [Problem trying to use StoryblokComponent when following tutorial](https://github.com/storyblok/storyblok-astro/issues/460)
 - [CloudFlare Increased 502 errors in multiple PoPs](https://github.com/hinoshiba/news/issues/3874)
 - [CloudFlare Increased 502 errors in multiple PoPs](https://github.com/SecOpsNews/news/issues/19194)
