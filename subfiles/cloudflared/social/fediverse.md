@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,430 |
-| social | 4,572 |
+| social | 4,573 |
 | net | 3,773 |
 | org | 2,523 |
 | de | 2,345 |
@@ -20708,7 +20708,6 @@ Here's a list of public Fediverse services.
 | `justbyspeaking.com` | No |
 | `justcoding.tech` | Yes |
 | `justda.tips` | No |
-| `justdalek.com` | Yes |
 | `justdied.com` | No |
 | `justec.co.uk` | No |
 | `justelex.de` | No |
@@ -30245,6 +30244,7 @@ Here's a list of public Fediverse services.
 | `nordisk.cloud` | No |
 | `nordpol.social` | No |
 | `nordsee.social` | No |
+| `nordy.social` | Yes |
 | `nore.me` | Yes |
 | `noreboot.org` | No |
 | `noresoft.com` | No |
@@ -42425,6 +42425,7 @@ Here's a list of public Fediverse services.
 | `thewomenintechshow.com` | No |
 | `thewookiees.dev` | No |
 | `thewooskeys.com` | No |
+| `theworkpc.com` | Yes |
 | `theworldiscoated.blue` | No |
 | `thexboxcast.co.nz` | Yes |
 | `thexsoft.com` | Yes |
@@ -48460,7 +48461,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,484 |
+| Cloudflare | 13,485 |
 | Normal | 34,928 |
 
 
