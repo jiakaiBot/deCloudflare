@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,429 |
-| social | 4,570 |
+| com | 7,430 |
+| social | 4,572 |
 | net | 3,772 |
 | org | 2,523 |
-| de | 2,344 |
+| de | 2,345 |
 
 
 - Mastodon, Pleroma, etc
@@ -6750,6 +6750,7 @@ Here's a list of public Fediverse services.
 | `chaos.tips` | No |
 | `chaosandorder.net` | No |
 | `chaoscult.org` | Yes |
+| `chaosdorf.de` | No |
 | `chaosfem.tw` | No |
 | `chaosfield.at` | No |
 | `chaosfurs.social` | No |
@@ -8669,6 +8670,7 @@ Here's a list of public Fediverse services.
 | `culturewar.radio` | No |
 | `culturewar.site` | No |
 | `culturewar.us` | No |
+| `cultusmechanic.us` | Yes |
 | `cultuurparticipatie.nl` | No |
 | `cultuurpers.nl` | No |
 | `cum.camp` | No |
@@ -10398,6 +10400,7 @@ Here's a list of public Fediverse services.
 | `dispersio.us` | No |
 | `displ.eu` | No |
 | `displaced.social` | No |
+| `displayeurope.social` | No |
 | `disputemag.com` | No |
 | `disqordia.space` | No |
 | `disquette.top` | No |
@@ -10911,6 +10914,7 @@ Here's a list of public Fediverse services.
 | `dragonpsi.xyz` | No |
 | `dragons.fyi` | No |
 | `dragons.moe` | No |
+| `dragons.social` | No |
 | `dragonsare.gay` | No |
 | `dragonscave.space` | No |
 | `dragonslave.de` | No |
@@ -11205,6 +11209,7 @@ Here's a list of public Fediverse services.
 | `dunnette.us` | No |
 | `dunsmore.me` | Yes |
 | `duong.social` | No |
+| `dup.bz` | No |
 | `dup.space` | Yes |
 | `dupeuple.fr` | No |
 | `duplos.org` | No |
@@ -19665,6 +19670,7 @@ Here's a list of public Fediverse services.
 | `j15r.com` | No |
 | `j3b.in` | No |
 | `j4.lc` | No |
+| `j4c.me` | No |
 | `j4nk.dev` | No |
 | `j51b5.me` | Yes |
 | `j621.net` | Yes |
@@ -20701,6 +20707,7 @@ Here's a list of public Fediverse services.
 | `justbyspeaking.com` | No |
 | `justcoding.tech` | Yes |
 | `justda.tips` | No |
+| `justdalek.com` | Yes |
 | `justdied.com` | No |
 | `justec.co.uk` | No |
 | `justelex.de` | No |
@@ -21723,6 +21730,7 @@ Here's a list of public Fediverse services.
 | `kix2902.dev` | No |
 | `kiyi.ca` | No |
 | `kizaing.ca` | Yes |
+| `kiziah.cloud` | No |
 | `kizzkey.cloud` | Yes |
 | `kjas.no` | No |
 | `kjr-mut.de` | No |
@@ -37705,6 +37713,7 @@ Here's a list of public Fediverse services.
 | `selenian.space` | No |
 | `seleniticjournal.com` | Yes |
 | `selent.ca` | No |
+| `seletronic.com.br` | Yes |
 | `selexco.net` | No |
 | `self-host.site` | No |
 | `self-hosted.site` | No |
@@ -39219,6 +39228,7 @@ Here's a list of public Fediverse services.
 | `softgirl.online` | No |
 | `softi.city` | No |
 | `softinio.com` | Yes |
+| `softlibre.com.ar` | No |
 | `softmetz.de` | No |
 | `softwarecurmudgeon.social` | No |
 | `softwareguild.org` | No |
@@ -41915,6 +41925,7 @@ Here's a list of public Fediverse services.
 | `theaether.space` | Yes |
 | `theagora.one` | No |
 | `theairplan.com` | Yes |
+| `thealidev.site` | No |
 | `thealtnet.com` | No |
 | `theamesfamily.net` | No |
 | `theamityville.social` | No |
@@ -47869,6 +47880,7 @@ Here's a list of public Fediverse services.
 | `yuri.garden` | Yes |
 | `yuri.mom` | No |
 | `yuri.place` | No |
+| `yuri.quest` | Yes |
 | `yuri.ro` | Yes |
 | `yurialbuquerque.dev` | No |
 | `yurikonanao.cloud` | No |
@@ -48071,6 +48083,7 @@ Here's a list of public Fediverse services.
 | `zeguigui.com` | No |
 | `zehaeva.com` | Yes |
 | `zehdonut.com` | No |
+| `zeit.gr` | No |
 | `zeitlinie.wien` | No |
 | `zeitrechnen.de` | Yes |
 | `zeitreisender.org` | No |
@@ -48445,8 +48458,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,478 |
-| Normal | 34,919 |
+| Cloudflare | 13,482 |
+| Normal | 34,928 |
 
 
 </details>
