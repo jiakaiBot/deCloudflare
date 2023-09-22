@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,429 |
 | social | 4,569 |
 | net | 3,772 |
-| org | 2,521 |
+| org | 2,523 |
 | de | 2,344 |
 
 
@@ -1149,6 +1149,7 @@ Here's a list of public Fediverse services.
 | `adhd.recipes` | No |
 | `adhd.stream` | No |
 | `adhdthings.social` | No |
+| `adho.org` | Yes |
 | `adhoc.group` | No |
 | `adhoc.systems` | No |
 | `adhocmusic.com` | No |
@@ -35047,6 +35048,7 @@ Here's a list of public Fediverse services.
 | `randomserver.org` | No |
 | `randomsite.quest` | No |
 | `randomsoft.com` | Yes |
+| `randomsonicnet.org` | No |
 | `randulo.com` | No |
 | `randyr.xyz` | No |
 | `rane.sh` | No |
@@ -46340,7 +46342,7 @@ Here's a list of public Fediverse services.
 | `widerweb.org` | No |
 | `wideweb.me` | No |
 | `widget.uk` | No |
-| `wiedenhoeft.net` | No |
+| `wiedenhoeft.net` | Yes |
 | `wiegandtech.net` | Yes |
 | `wiegehts.cloud` | No |
 | `wien.rocks` | No |
@@ -48438,7 +48440,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,474 |
+| Cloudflare | 13,476 |
 | Normal | 34,916 |
 
 
