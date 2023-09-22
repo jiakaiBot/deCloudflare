@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Issue deleting Cloudflare Access Applications](https://github.com/SecOpsNews/news/issues/19230)
+- [CloudFlare Issue deleting Cloudflare Access Applications](https://github.com/hinoshiba/news/issues/3908)
 - [Most rucss ends up failing](https://github.com/wp-media/wp-rocket/issues/6185)
 - [Problems while starting the add-on with Supervised HA on Debian 12](https://github.com/w35l3y/hassio-addons/issues/24)
 - [Nightly failed; CAPTCHA problem?](https://github.com/tripleee/sloshy/issues/65)
