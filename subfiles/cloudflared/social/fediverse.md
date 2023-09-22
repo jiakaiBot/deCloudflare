@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,429 |
-| social | 4,569 |
+| social | 4,570 |
 | net | 3,772 |
 | org | 2,523 |
 | de | 2,344 |
@@ -961,6 +961,7 @@ Here's a list of public Fediverse services.
 | `abstractionleak.com` | No |
 | `abstrct.us` | No |
 | `absturztau.be` | No |
+| `absurd.social` | No |
 | `abtgender.com` | No |
 | `abunchtell.com` | No |
 | `abuzz.social` | No |
@@ -4021,6 +4022,7 @@ Here's a list of public Fediverse services.
 | `bdx.town` | No |
 | `be-kind-rewind.online` | No |
 | `be-lemmy.org` | Yes |
+| `be.sexy` | Yes |
 | `be58.co` | No |
 | `beach.city` | No |
 | `beachcom.org` | No |
@@ -22462,6 +22464,7 @@ Here's a list of public Fediverse services.
 | `kzkr.xyz` | Yes |
 | `kzoo.to` | Yes |
 | `kzstan.com` | No |
+| `l-arbre-a-bafouilles.fr` | No |
 | `l-internet.fr` | No |
 | `l-p-d.org` | No |
 | `l-w-i-don.net` | No |
@@ -24539,6 +24542,7 @@ Here's a list of public Fediverse services.
 | `m14xa.ru` | No |
 | `m17e.co` | Yes |
 | `m1ch.eu` | Yes |
+| `m1k.cloud` | Yes |
 | `m1n1ster.com` | Yes |
 | `m1x.app` | Yes |
 | `m1zuu.net` | Yes |
@@ -48440,8 +48444,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,476 |
-| Normal | 34,916 |
+| Cloudflare | 13,478 |
+| Normal | 34,918 |
 
 
 </details>
