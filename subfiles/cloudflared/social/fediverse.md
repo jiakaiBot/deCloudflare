@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,429 |
+| com | 7,430 |
 | social | 4,572 |
-| net | 3,772 |
+| net | 3,773 |
 | org | 2,523 |
 | de | 2,345 |
 
@@ -11260,6 +11260,7 @@ Here's a list of public Fediverse services.
 | `dwar.fi` | No |
 | `dwards.org` | No |
 | `dwe.ng` | No |
+| `dweb.net` | Yes |
 | `dwell.pub` | No |
 | `dwin.link` | No |
 | `dwntr.xyz` | No |
@@ -20707,6 +20708,7 @@ Here's a list of public Fediverse services.
 | `justbyspeaking.com` | No |
 | `justcoding.tech` | Yes |
 | `justda.tips` | No |
+| `justdalek.com` | Yes |
 | `justdied.com` | No |
 | `justec.co.uk` | No |
 | `justelex.de` | No |
@@ -35196,6 +35198,7 @@ Here's a list of public Fediverse services.
 | `raykoworld.com` | No |
 | `raymondtec.com` | No |
 | `rayn.bo` | No |
+| `raynix.info` | Yes |
 | `raynor.haus` | Yes |
 | `rayolson.info` | No |
 | `rayonnant.org` | Yes |
@@ -48457,10 +48460,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,481 |
+| Cloudflare | 13,484 |
 | Normal | 34,928 |
 
 
 </details>
 
-### 27.8% of public Fediverse services are using Cloudflare.
+### 27.9% of public Fediverse services are using Cloudflare.
