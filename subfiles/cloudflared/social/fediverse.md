@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,430 |
+| com | 7,435 |
 | social | 4,573 |
-| net | 3,773 |
+| net | 3,775 |
 | org | 2,523 |
-| de | 2,345 |
+| de | 2,346 |
 
 
 - Mastodon, Pleroma, etc
@@ -963,6 +963,7 @@ Here's a list of public Fediverse services.
 | `absturztau.be` | No |
 | `absurd.social` | No |
 | `abtgender.com` | No |
+| `abthorpe.me.uk` | Yes |
 | `abunchtell.com` | No |
 | `abuzz.social` | No |
 | `abwesend.com` | No |
@@ -1237,6 +1238,7 @@ Here's a list of public Fediverse services.
 | `adxm.social` | No |
 | `adyxax.org` | Yes |
 | `aebok.com` | Yes |
+| `aedileworks.com` | No |
 | `aedius.fr` | No |
 | `aegibson.me` | No |
 | `aegiszero.is` | Yes |
@@ -2723,6 +2725,7 @@ Here's a list of public Fediverse services.
 | `arianelazaga.tk` | No |
 | `aridgwayweb.com` | No |
 | `ariela.jp` | Yes |
+| `arielaw.ar` | No |
 | `arielbecker.com` | No |
 | `arielfinn.social` | No |
 | `arihi.me` | No |
@@ -18344,6 +18347,7 @@ Here's a list of public Fediverse services.
 | `hyatalk.com` | No |
 | `hybridby.design` | No |
 | `hybridenterprise.net` | No |
+| `hybridhavoc.com` | No |
 | `hybridlehrer.de` | No |
 | `hybridlive.net` | Yes |
 | `hydex11.net` | No |
@@ -20708,6 +20712,7 @@ Here's a list of public Fediverse services.
 | `justbyspeaking.com` | No |
 | `justcoding.tech` | Yes |
 | `justda.tips` | No |
+| `justdalek.com` | Yes |
 | `justdied.com` | No |
 | `justec.co.uk` | No |
 | `justelex.de` | No |
@@ -22112,6 +22117,7 @@ Here's a list of public Fediverse services.
 | `koto.moe` | No |
 | `kotobank.ch` | No |
 | `kotobaphil-mtdn.eu` | No |
+| `kotobar.com` | No |
 | `kotocoop.org` | No |
 | `kotonoha.cafe` | Yes |
 | `kottman.xyz` | No |
@@ -23046,6 +23052,7 @@ Here's a list of public Fediverse services.
 | `lekangouroo.me` | No |
 | `lekendall.com` | No |
 | `lekker.page` | No |
+| `lektoren.dk` | No |
 | `lelaidier.net` | No |
 | `lelehier.de` | No |
 | `lelesius.eu` | Yes |
@@ -34352,6 +34359,7 @@ Here's a list of public Fediverse services.
 | `purplepenguin.lol` | No |
 | `purplerabbit.xyz` | No |
 | `purplespider.social` | No |
+| `purpley.zone` | No |
 | `purposefully.social` | No |
 | `purr.gq` | No |
 | `purrucker.de` | No |
@@ -38923,6 +38931,7 @@ Here's a list of public Fediverse services.
 | `smux.be` | No |
 | `smwa.me` | No |
 | `smwhr.net` | No |
+| `smz-ma.de` | No |
 | `sn0n.com` | Yes |
 | `sn0w.observer` | No |
 | `sn4il.site` | No |
@@ -44684,6 +44693,7 @@ Here's a list of public Fediverse services.
 | `uramstdon.com` | No |
 | `uraniumhexafluori.de` | No |
 | `uraniumlane.net` | No |
+| `uranus-net.com` | No |
 | `uratania.ch` | No |
 | `urawareds.org` | No |
 | `urbain.es` | No |
@@ -45114,6 +45124,7 @@ Here's a list of public Fediverse services.
 | `venith.net` | Yes |
 | `venomous.video` | Yes |
 | `ventel.app` | No |
+| `ventora.net` | Yes |
 | `ventresmous.fr` | No |
 | `venturahimself.pro` | No |
 | `venturebeat.com` | Yes |
@@ -47898,6 +47909,7 @@ Here's a list of public Fediverse services.
 | `yuruchara.info` | Yes |
 | `yurusanp.org` | Yes |
 | `yurut.name` | Yes |
+| `yurutan.net` | No |
 | `yuruyuri.family` | No |
 | `yusaku.social` | No |
 | `yussuv.com` | Yes |
@@ -48461,8 +48473,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,485 |
-| Normal | 34,928 |
+| Cloudflare | 13,488 |
+| Normal | 34,937 |
 
 
 </details>
