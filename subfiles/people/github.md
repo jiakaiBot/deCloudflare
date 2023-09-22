@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Nightly failed; CAPTCHA problem?](https://github.com/tripleee/sloshy/issues/65)
 - [CloudFlare Network Performance Issues](https://github.com/hinoshiba/news/issues/3878)
 - [OpenSSL: error:0A000438:SSL routines::tlsv1 alert internal error](https://github.com/bluesky-social/pds/issues/15)
 - [CloudFlare Network Performance Issues](https://github.com/SecOpsNews/news/issues/19196)
