@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Problem trying to use StoryblokComponent when following tutorial](https://github.com/storyblok/storyblok-astro/issues/460)
 - [CloudFlare Increased 502 errors in multiple PoPs](https://github.com/hinoshiba/news/issues/3874)
 - [CloudFlare Increased 502 errors in multiple PoPs](https://github.com/SecOpsNews/news/issues/19194)
 - [CloudFlare Network performance Issues](https://github.com/hinoshiba/news/issues/3871)
