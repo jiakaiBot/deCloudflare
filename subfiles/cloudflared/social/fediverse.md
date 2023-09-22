@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,567 |
 | net | 3,772 |
 | org | 2,520 |
-| de | 2,343 |
+| de | 2,344 |
 
 
 - Mastodon, Pleroma, etc
@@ -41018,6 +41018,7 @@ Here's a list of public Fediverse services.
 | `taco.cc` | No |
 | `tacobelllabs.net` | No |
 | `tacoboutit.cloud` | No |
+| `tacobu.de` | No |
 | `tacocat.space` | Yes |
 | `tacocode.com` | No |
 | `tacoma.social` | No |
@@ -42783,7 +42784,7 @@ Here's a list of public Fediverse services.
 | `tkz.es` | Yes |
 | `tkz.one` | Yes |
 | `tl-dr.net` | No |
-| `tlbflush.org` | No |
+| `tlbflush.org` | Yes |
 | `tldr.tk` | No |
 | `tlef.social` | No |
 | `tlf.pw` | Yes |
@@ -48432,7 +48433,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,470 |
+| Cloudflare | 13,471 |
 | Normal | 34,914 |
 
 
