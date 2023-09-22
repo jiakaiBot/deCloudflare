@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,429 |
-| social | 4,567 |
+| social | 4,569 |
 | net | 3,772 |
-| org | 2,520 |
+| org | 2,521 |
 | de | 2,344 |
 
 
@@ -2785,6 +2785,7 @@ Here's a list of public Fediverse services.
 | `arnemancy.com` | No |
 | `arnep.de` | No |
 | `arnesocial.de` | No |
+| `arneson.org` | Yes |
 | `arnip.org` | No |
 | `arnold-schiller.de` | No |
 | `arnoldasu.lt` | No |
@@ -19347,6 +19348,7 @@ Here's a list of public Fediverse services.
 | `irgendwo.co` | Yes |
 | `irgendwo.social` | No |
 | `iri-research.org` | No |
+| `iridescent.nz` | No |
 | `iridis.uk` | No |
 | `iriseden.eu` | No |
 | `irishstew.org` | No |
@@ -30261,6 +30263,7 @@ Here's a list of public Fediverse services.
 | `northstar.social` | No |
 | `northtexas.social` | No |
 | `northwestvoip.com` | Yes |
+| `nortrup.social` | No |
 | `norwescon.org` | No |
 | `norwoodzero.net` | Yes |
 | `norze.co` | No |
@@ -32325,7 +32328,7 @@ Here's a list of public Fediverse services.
 | `paulwilde.uk` | No |
 | `paupers.xyz` | No |
 | `pavel.online` | No |
-| `pavilion.tech` | No |
+| `pavilion.tech` | Yes |
 | `pavlik.top` | No |
 | `pavluk.org` | Yes |
 | `pavot.ca` | No |
@@ -35633,6 +35636,7 @@ Here's a list of public Fediverse services.
 | `resonanceaudiodistro.org` | No |
 | `resonar.de` | No |
 | `resonite.co.uk` | Yes |
+| `resonite.love` | Yes |
 | `resource.org` | Yes |
 | `resource.pub` | No |
 | `respiroaventura.com.br` | Yes |
@@ -40609,6 +40613,7 @@ Here's a list of public Fediverse services.
 | `supernatural.fans` | No |
 | `superneko.net` | Yes |
 | `supernerdland.com` | No |
+| `supernets.social` | No |
 | `supernova.place` | Yes |
 | `superofficial.net` | No |
 | `superpets.social` | No |
@@ -48433,8 +48438,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,471 |
-| Normal | 34,914 |
+| Cloudflare | 13,474 |
+| Normal | 34,916 |
 
 
 </details>
