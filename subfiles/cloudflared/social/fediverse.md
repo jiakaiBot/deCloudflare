@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,435 |
 | social | 4,573 |
-| net | 3,776 |
+| net | 3,777 |
 | org | 2,523 |
 | de | 2,347 |
 
@@ -13756,6 +13756,7 @@ Here's a list of public Fediverse services.
 | `fireplace.social` | No |
 | `firescry.com` | Yes |
 | `firetribe.org` | No |
+| `fireturtle.net` | No |
 | `firewall-sec.com` | No |
 | `firewally.net` | Yes |
 | `firlefanz.one` | No |
@@ -16910,7 +16911,7 @@ Here's a list of public Fediverse services.
 | `hal.ai` | No |
 | `hal.codes` | Yes |
 | `hal9.ooo` | No |
-| `halby24.com` | No |
+| `halby24.com` | Yes |
 | `halcat.org` | Yes |
 | `halcyon-is.land` | No |
 | `halcyon.vision` | No |
@@ -19108,7 +19109,7 @@ Here's a list of public Fediverse services.
 | `innovatelearning.social` | Yes |
 | `innum.net` | Yes |
 | `ino.org.uk` | No |
-| `inokashiraskey.jp` | No |
+| `inokashiraskey.jp` | Yes |
 | `inoot.net` | Yes |
 | `inori.im` | Yes |
 | `inosoft.de` | No |
@@ -48478,8 +48479,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,491 |
-| Normal | 34,939 |
+| Cloudflare | 13,493 |
+| Normal | 34,938 |
 
 
 </details>
