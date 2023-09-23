@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,439 |
+| com | 7,440 |
 | social | 4,575 |
 | net | 3,780 |
-| org | 2,524 |
+| org | 2,523 |
 | de | 2,348 |
 
 
@@ -34768,7 +34768,6 @@ Here's a list of public Fediverse services.
 | `qyliss.net` | No |
 | `qyz.one` | Yes |
 | `qzhou.dev` | Yes |
-| `qzhou.org` | Yes |
 | `r-12.net` | No |
 | `r-e.kr` | Yes |
 | `r-flash.eu` | No |
@@ -40553,6 +40552,7 @@ Here's a list of public Fediverse services.
 | `suffix.cloud` | No |
 | `suffocating.org` | No |
 | `suganthan.social` | No |
+| `sugar-free-jazz.com` | No |
 | `sugar.monster` | No |
 | `sugarashcat.xyz` | No |
 | `sugarcube.pw` | No |
@@ -45304,7 +45304,7 @@ Here's a list of public Fediverse services.
 | `videotape.me` | No |
 | `videotoaster.ga` | No |
 | `videotoblin.me` | No |
-| `videotry.de` | Yes |
+| `videotry.de` | No |
 | `vidicon.org` | Yes |
 | `viditube.site` | Yes |
 | `vidja.social` | No |
@@ -48505,8 +48505,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,502 |
-| Normal | 34,955 |
+| Cloudflare | 13,500 |
+| Normal | 34,957 |
 
 
 </details>
