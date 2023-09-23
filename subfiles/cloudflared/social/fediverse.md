@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,440 |
+| com | 7,442 |
 | social | 4,575 |
-| net | 3,780 |
+| net | 3,781 |
 | org | 2,525 |
 | de | 2,348 |
 
@@ -7797,7 +7797,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -14928,6 +14928,7 @@ Here's a list of public Fediverse services.
 | `furrycom.com` | No |
 | `furrycon.social` | Yes |
 | `furryfandom.me` | Yes |
+| `furryfederation.com` | Yes |
 | `furrygroup.gay` | Yes |
 | `furryink.com` | Yes |
 | `furrylife.online` | No |
@@ -26015,6 +26016,7 @@ Here's a list of public Fediverse services.
 | `mattrog.net` | No |
 | `mattrva.com` | Yes |
 | `matts.network` | No |
+| `mattsimpson.ca` | Yes |
 | `mattstenson.com` | Yes |
 | `mattstodon.xyz` | Yes |
 | `mattwiebe.blog` | No |
@@ -35471,6 +35473,7 @@ Here's a list of public Fediverse services.
 | `redwombat.social` | Yes |
 | `redwoods.dev` | No |
 | `redxen.eu` | No |
+| `redzoo.net` | Yes |
 | `reece.sx` | Yes |
 | `reedyn.com` | Yes |
 | `reekes.org` | Yes |
@@ -37432,6 +37435,7 @@ Here's a list of public Fediverse services.
 | `scookeoni.com` | No |
 | `scoopgang.social` | No |
 | `scop.coop` | No |
+| `scopique.com` | No |
 | `scopique.online` | No |
 | `scores.social` | No |
 | `scorpil.com` | No |
@@ -48508,7 +48512,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,501 |
+| Cloudflare | 13,505 |
 | Normal | 34,959 |
 
 
