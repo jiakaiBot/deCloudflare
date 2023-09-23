@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,438 |
 | social | 4,575 |
 | net | 3,778 |
-| org | 2,523 |
+| org | 2,524 |
 | de | 2,348 |
 
 
@@ -34763,6 +34763,7 @@ Here's a list of public Fediverse services.
 | `qxpix.com` | No |
 | `qyz.one` | Yes |
 | `qzhou.dev` | Yes |
+| `qzhou.org` | Yes |
 | `r-12.net` | No |
 | `r-e.kr` | Yes |
 | `r-flash.eu` | No |
@@ -48496,7 +48497,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,496 |
+| Cloudflare | 13,497 |
 | Normal | 34,952 |
 
 
