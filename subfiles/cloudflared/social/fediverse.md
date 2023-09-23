@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,440 |
 | social | 4,575 |
 | net | 3,780 |
-| org | 2,523 |
+| org | 2,525 |
 | de | 2,348 |
 
 
@@ -16926,6 +16926,7 @@ Here's a list of public Fediverse services.
 | `halcat.org` | Yes |
 | `halcyon-is.land` | No |
 | `halcyon.vision` | No |
+| `halcyondays.blue` | No |
 | `halcyonpixels.com` | Yes |
 | `half-shot.uk` | No |
 | `halfacree.co.uk` | Yes |
@@ -34768,6 +34769,7 @@ Here's a list of public Fediverse services.
 | `qyliss.net` | No |
 | `qyz.one` | Yes |
 | `qzhou.dev` | Yes |
+| `qzhou.org` | Yes |
 | `r-12.net` | No |
 | `r-e.kr` | Yes |
 | `r-flash.eu` | No |
@@ -38330,6 +38332,7 @@ Here's a list of public Fediverse services.
 | `sidetools.net` | Yes |
 | `sidewalken.com` | No |
 | `sidh.bzh` | No |
+| `sidhe.org` | No |
 | `sididoma.club` | Yes |
 | `sidlibrary.org` | Yes |
 | `sidlicious.net` | No |
@@ -48505,8 +48508,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,500 |
-| Normal | 34,957 |
+| Cloudflare | 13,501 |
+| Normal | 34,959 |
 
 
 </details>
