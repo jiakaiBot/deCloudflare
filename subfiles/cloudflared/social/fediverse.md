@@ -6248,6 +6248,7 @@ Here's a list of public Fediverse services.
 | `canned-death.us` | No |
 | `canneddragons.net` | No |
 | `cannerycoders.com` | No |
+| `cannibal.cafe` | No |
 | `cannibalbuffet.xyz` | No |
 | `cannon.pw` | No |
 | `cannon.town` | No |
@@ -48513,7 +48514,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,505 |
-| Normal | 34,959 |
+| Normal | 34,960 |
 
 
 </details>
