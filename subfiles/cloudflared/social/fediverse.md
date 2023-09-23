@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,435 |
-| social | 4,573 |
+| com | 7,437 |
+| social | 4,574 |
 | net | 3,777 |
 | org | 2,523 |
-| de | 2,347 |
+| de | 2,348 |
 
 
 - Mastodon, Pleroma, etc
@@ -4782,6 +4782,7 @@ Here's a list of public Fediverse services.
 | `black-milk.de` | No |
 | `black.social` | Yes |
 | `black6.dev` | No |
+| `blackandred.blog` | No |
 | `blackbike.us` | Yes |
 | `blackbirb.dev` | Yes |
 | `blackblock.rocks` | No |
@@ -7436,6 +7437,7 @@ Here's a list of public Fediverse services.
 | `closetoya.com` | Yes |
 | `closeuprussia.com` | Yes |
 | `cloth.social` | No |
+| `clothesfreelife.com` | Yes |
 | `clothesp.in` | No |
 | `cloud-ace.jp` | Yes |
 | `cloud-cyber.net` | Yes |
@@ -11197,6 +11199,7 @@ Here's a list of public Fediverse services.
 | `dumpkin.monster` | No |
 | `dumpster.social` | Yes |
 | `dun.land` | Yes |
+| `dunamisanddragons.com` | No |
 | `duncancmt.com` | No |
 | `duncanhart.com` | No |
 | `duncte123.me` | Yes |
@@ -25116,6 +25119,7 @@ Here's a list of public Fediverse services.
 | `marginaa.li` | No |
 | `marginalcuriosity.net` | No |
 | `marginalea.online` | No |
+| `marginalia.club` | No |
 | `marginalie.eu` | No |
 | `margio.de` | Yes |
 | `margio.in` | No |
@@ -29295,6 +29299,7 @@ Here's a list of public Fediverse services.
 | `neoziggurat.com` | No |
 | `nep-nep.xyz` | No |
 | `nep.one` | Yes |
+| `neph.social` | No |
 | `nepolis.de` | No |
 | `nepolux.de` | No |
 | `neptube.io` | No |
@@ -33725,6 +33730,7 @@ Here's a list of public Fediverse services.
 | `poro.tokyo` | No |
 | `porpoise.social` | Yes |
 | `porsche.earth` | No |
+| `port.li` | No |
 | `port.mk` | Yes |
 | `port0.org` | Yes |
 | `port0.xyz` | No |
@@ -40071,6 +40077,7 @@ Here's a list of public Fediverse services.
 | `stefanovski.io` | Yes |
 | `stefanpfeiffer.blog` | Yes |
 | `stefanplank.art` | No |
+| `stefantastisch.de` | No |
 | `steffes.dev` | No |
 | `steffimania.de` | No |
 | `steffo.eu` | Yes |
@@ -45491,6 +45498,7 @@ Here's a list of public Fediverse services.
 | `vocivia.tk` | No |
 | `vodka.gg` | No |
 | `vodkabull0.de` | No |
+| `vodoraslo.club` | No |
 | `voe.social` | No |
 | `voege.net` | No |
 | `vofr.net` | No |
@@ -48479,8 +48487,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,493 |
-| Normal | 34,938 |
+| Cloudflare | 13,494 |
+| Normal | 34,945 |
 
 
 </details>
