@@ -2629,6 +2629,7 @@ Do not create new issue or we will close it as duplicate.
 | [Cuongche4Che@twitter](https://twitter.com/Cuongche4Che/status/1654361589116698625) | advertise |
 | [CuongHu02685268@twitter](https://twitter.com/CuongHu02685268/status/1388730350482857987) | advertise |
 | [Cuongng41530815@twitter](https://twitter.com/Cuongng41530815/status/1402978740922044420) | advertise |
+| [CuongNg94540234@twitter](https://twitter.com/CuongNg94540234/status/1705549366185042245) | advertise |
 | [cuongsu07@twitter](https://twitter.com/cuongsu07/status/1391607509027213317) | advertise |
 | [cuongtr55309221@twitter](https://twitter.com/cuongtr55309221/status/1399068157692694529) | advertise |
 | [cupidcuteman@twitter](https://twitter.com/cupidcuteman/status/1398102057890959362) | advertise |
@@ -8393,6 +8394,7 @@ Do not create new issue or we will close it as duplicate.
 | [mouseautoclick@twitter](https://twitter.com/mouseautoclick/status/1474324282583154693) | advertise |
 | [movies_pinay@twitter](https://twitter.com/movies_pinay/status/1393493752103063556) | advertise |
 | [MOZ03650062@twitter](https://twitter.com/MOZ03650062/status/1392652008159518723) | advertise |
+| [MozhidRIslam@twitter](https://twitter.com/MozhidRIslam/status/1705548594416345357) | advertise |
 | [mozilla.org](https://www.mozilla.org/) | ACTION.md:bugzilla |
 | [mo_m_1234@twitter](https://twitter.com/mo_m_1234/status/1689310613342752768) | advertise |
 | [mo_nhan@twitter](https://twitter.com/mo_nhan/status/1388524071961255936) | advertise |
@@ -11771,6 +11773,7 @@ Do not create new issue or we will close it as duplicate.
 | [SokoBotStatus@twitter](https://twitter.com/SokoBotStatus/status/1612941804583657474) | advertise |
 | [solakoskik@twitter](https://twitter.com/solakoskik/status/1555226731350409216) | advertise |
 | [solari260189@twitter](https://twitter.com/solari260189/status/1628780110613725184) | advertise |
+| [SolaymanMi84813@twitter](https://twitter.com/SolaymanMi84813/status/1705569257533383157) | advertise |
 | [solbadguyKys@twitter](https://twitter.com/solbadguyKys/status/1633834242835902470) | advertise |
 | [SoldustMero@twitter](https://twitter.com/SoldustMero/status/1549580892988850182) | advertise |
 | [SolekhudinAK@twitter](https://twitter.com/SolekhudinAK/status/1384881486944509956) | advertise |
@@ -14277,6 +14280,7 @@ Do not create new issue or we will close it as duplicate.
 | [yerelbasin@twitter](https://twitter.com/yerelbasin/status/1599682683004628992) | advertise |
 | [yes_holiday@twitter](https://twitter.com/yes_holiday/status/1483787050377957386) | advertise |
 | [YeThanLwin5@twitter](https://twitter.com/YeThanLwin5/status/1389797806454411265) | advertise |
+| [YeThiHa36115@twitter](https://twitter.com/YeThiHa36115/status/1705541831684239670) | advertise |
 | [YeThu07735554@twitter](https://twitter.com/YeThu07735554/status/1393054643865804802) | advertise |
 | [YeThuAu00424841@twitter](https://twitter.com/YeThuAu00424841/status/1395733648507170820) | advertise |
 | [YeThurainTun1@twitter](https://twitter.com/YeThurainTun1/status/1397362047088685057) | advertise |
