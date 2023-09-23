@@ -18,7 +18,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 198.games | No |
 | 23-4.cn | No |
 | 280blocker.net | Yes |
-| 30x.me | Yes |
 | 360.cn | No |
 | 4-the.win | Yes |
 | 52306.org | Yes |
@@ -134,10 +133,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | haoxuan.xyz | Yes |
 | hdns.io | No |
 | he.net | No |
-| heliumcloud.cc | Yes |
 | hinet.net | Yes |
 | hitian.me | Yes |
-| hopto.org | Yes |
 | hostux.net | No |
 | huque.com | No |
 | iamninja.ru | No |
@@ -233,8 +230,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | panszelescik.pl | Yes |
 | pathofgrace.com | No |
 | persiannit.net | Yes |
-| plumedns.com | Yes |
-| printk.info | Yes |
 | privado.ovh | Yes |
 | pumpkinvrar.com | No |
 | puredns.org | Yes |
@@ -322,8 +317,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 145 |
+| Cloudflare | 140 |
 | Normal | 158 |
 
 
-### 47.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47% of DNS-over-HTTPS (DoH) are using Cloudflare.
