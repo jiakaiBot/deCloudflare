@@ -322,6 +322,7 @@ Do not create new issue or we will close it as duplicate.
 | [abusolegal@twitter](https://twitter.com/abusolegal/status/1516444548653854724) | advertise |
 | [AbuZain56798974@twitter](https://twitter.com/AbuZain56798974/status/1701993429012472202) | advertise |
 | [abu_turki994@twitter](https://twitter.com/abu_turki994/status/1617736578851549184) | advertise |
+| [acc5da5ef20647e@twitter](https://twitter.com/acc5da5ef20647e/status/1705353538891624602) | advertise |
 | [AccioLaw@twitter](https://twitter.com/AccioLaw/status/1490055581062807553) | advertise |
 | [Accml3@twitter](https://twitter.com/Accml3/status/1509928686157725697) | advertise |
 | [Acd4512@twitter](https://twitter.com/Acd4512/status/1553069977468411904) | advertise |
@@ -4225,6 +4226,7 @@ Do not create new issue or we will close it as duplicate.
 | [Haha40345189@twitter](https://twitter.com/Haha40345189/status/1392928724815732736) | advertise |
 | [haha69163225@twitter](https://twitter.com/haha69163225/status/1384546554980171787) | advertise |
 | [Haha88526766@twitter](https://twitter.com/Haha88526766/status/1401048178611265544) | advertise |
+| [Haha1231947110@twitter](https://twitter.com/Haha1231947110/status/1705473736001138716) | advertise |
 | [Hahaha8911@twitter](https://twitter.com/Hahaha8911/status/1580517415204507648) | advertise |
 | [Hahaha130100@twitter](https://twitter.com/Hahaha130100/status/1552324016069054464) | advertise |
 | [hahasofunnybruh@twitter](https://twitter.com/hahasofunnybruh/status/1397828172264079362) | advertise |
@@ -5503,6 +5505,7 @@ Do not create new issue or we will close it as duplicate.
 | [Jam3YGN@twitter](https://twitter.com/Jam3YGN/status/1390702777521696769) | advertise |
 | [JamaalMuse1@twitter](https://twitter.com/JamaalMuse1/status/1505275685123891200) | advertise |
 | [Jamaine33344511@twitter](https://twitter.com/Jamaine33344511/status/1388277841964457986) | advertise |
+| [jamal123ak47@twitter](https://twitter.com/jamal123ak47/status/1705508097790546216) | advertise |
 | [jamalaali3122@twitter](https://twitter.com/jamalaali3122/status/1527075258087395329) | advertise |
 | [JamalKaksouri@twitter](https://twitter.com/JamalKaksouri/status/1417143011771928581) | advertise |
 | [Jambazi14@twitter](https://twitter.com/Jambazi14/status/1550803302350299143) | advertise |
@@ -7282,6 +7285,7 @@ Do not create new issue or we will close it as duplicate.
 | [LRSNLP@twitter](https://twitter.com/LRSNLP/status/1447211176006459399) | advertise |
 | [LShaba98@twitter](https://twitter.com/LShaba98/status/1483212185480445954) | advertise |
 | [LSn15256186@twitter](https://twitter.com/LSn15256186/status/1553368082319839238) | advertise |
+| [LSuleymanzad@twitter](https://twitter.com/LSuleymanzad/status/1705494556853121070) | advertise |
 | [LThiBnh48926430@twitter](https://twitter.com/LThiBnh48926430/status/1641564819500453890) | advertise |
 | [LThinn1212@twitter](https://twitter.com/LThinn1212/status/1386337771938222084) | advertise |
 | [LThnh263162@twitter](https://twitter.com/LThnh263162/status/1689305044045418496) | advertise |
@@ -14199,6 +14203,7 @@ Do not create new issue or we will close it as duplicate.
 | [YasharTwitt1@twitter](https://twitter.com/YasharTwitt1/status/1619329067857362944) | advertise |
 | [yashhhh04@twitter](https://twitter.com/yashhhh04/status/1378478478022991874) | advertise |
 | [yashhshd@twitter](https://twitter.com/yashhshd/status/1403777236600119299) | advertise |
+| [Yasin1Mat@twitter](https://twitter.com/Yasin1Mat/status/1705489636817240180) | advertise |
 | [yasinozvar@twitter](https://twitter.com/yasinozvar/status/1449656098777088000) | advertise |
 | [YasinUmur@twitter](https://twitter.com/YasinUmur/status/1411232485376245760) | moral (advertise) |
 | [Yassen75@twitter](https://twitter.com/Yassen75/status/1528466535928451073) | advertise |
@@ -14464,6 +14469,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZawMinWin13@twitter](https://twitter.com/ZawMinWin13/status/1392421774101557248) | advertise |
 | [zawmoe36918@twitter](https://twitter.com/zawmoe36918/status/1383070791634354177) | advertise |
 | [zawmoehtet888@twitter](https://twitter.com/zawmoehtet888/status/1394237055790686209) | advertise |
+| [ZawMyo1383690@twitter](https://twitter.com/ZawMyo1383690/status/1705394466268529014) | advertise |
 | [ZawMyoChit16@twitter](https://twitter.com/ZawMyoChit16/status/1400465267528921095) | advertise |
 | [zawmyon30122602@twitter](https://twitter.com/zawmyon30122602/status/1399562557980090377) | advertise |
 | [zawmyot21874568@twitter](https://twitter.com/zawmyot21874568/status/1393499114030002176) | advertise |
