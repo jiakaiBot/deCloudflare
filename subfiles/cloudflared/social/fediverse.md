@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,437 |
-| social | 4,574 |
+| social | 4,575 |
 | net | 3,777 |
 | org | 2,523 |
 | de | 2,348 |
@@ -13375,6 +13375,7 @@ Here's a list of public Fediverse services.
 | `fediverseis.fun` | No |
 | `fediversekey.com` | No |
 | `fediversereport.com` | No |
+| `fediversity.site` | No |
 | `fediverso.club` | No |
 | `fediverso.gal` | No |
 | `fediverso.net` | Yes |
@@ -16059,6 +16060,7 @@ Here's a list of public Fediverse services.
 | `goblin.expert` | No |
 | `goblin.technology` | No |
 | `goblinfoot.com` | No |
+| `goch.social` | No |
 | `gochai.top` | No |
 | `gochisou.dev` | No |
 | `gochisou.photo` | No |
@@ -21404,6 +21406,7 @@ Here's a list of public Fediverse services.
 | `kevdev.one` | Yes |
 | `kevhomeit.trade` | Yes |
 | `kevin.cl` | Yes |
+| `kevin.paris` | No |
 | `kevindangoor.com` | No |
 | `kevinflo.com` | Yes |
 | `kevingimbel.de` | No |
@@ -46490,7 +46493,7 @@ Here's a list of public Fediverse services.
 | `winaero.com` | No |
 | `winblad.io` | Yes |
 | `winchester.social` | Yes |
-| `windbag.org` | No |
+| `windbag.org` | Yes |
 | `windevsystems.us` | Yes |
 | `windfluechter.org` | No |
 | `windhamcountyvt.gov` | No |
@@ -48340,6 +48343,7 @@ Here's a list of public Fediverse services.
 | `zone42.org` | No |
 | `zonepl.net` | No |
 | `zoner.gay` | No |
+| `zoner.work` | No |
 | `zonurben.ch` | No |
 | `zoomer.photography` | No |
 | `zoomers.lol` | No |
@@ -48487,8 +48491,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,494 |
-| Normal | 34,945 |
+| Cloudflare | 13,495 |
+| Normal | 34,948 |
 
 
 </details>
