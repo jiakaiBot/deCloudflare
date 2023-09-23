@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,437 |
+| com | 7,438 |
 | social | 4,575 |
-| net | 3,777 |
+| net | 3,778 |
 | org | 2,523 |
 | de | 2,348 |
 
@@ -2187,6 +2187,7 @@ Here's a list of public Fediverse services.
 | `andrillon.net` | Yes |
 | `andrlik.org` | No |
 | `android-user.club` | No |
+| `androidapp.nl` | No |
 | `androidauthority.com` | Yes |
 | `androidcentral.com` | Yes |
 | `androiddev.network` | Yes |
@@ -5634,6 +5635,7 @@ Here's a list of public Fediverse services.
 | `britzu.com` | Yes |
 | `brjuno.com` | No |
 | `brk.io` | No |
+| `brknhs.net` | No |
 | `brnrs.pl` | No |
 | `brnt.cr` | No |
 | `broccoli.si` | No |
@@ -7884,6 +7886,7 @@ Here's a list of public Fediverse services.
 | `compcube.info` | No |
 | `compensis.de` | No |
 | `complacent.io` | No |
+| `complecwaft.com` | Yes |
 | `complete.fail` | No |
 | `complete.org` | No |
 | `completehostingguide.com` | No |
@@ -26947,6 +26950,7 @@ Here's a list of public Fediverse services.
 | `millsfam.art` | No |
 | `millshome.ca` | No |
 | `millwoodonline.co.uk` | Yes |
+| `milonsfood.nl` | No |
 | `miloserver.com` | Yes |
 | `milosz.wtf` | No |
 | `milpamerica.org` | No |
@@ -46420,6 +46424,7 @@ Here's a list of public Fediverse services.
 | `wikimedia.es` | No |
 | `wikimedia.pt` | Yes |
 | `wikimedia.social` | No |
+| `wikipediapodden.se` | No |
 | `wikis.world` | No |
 | `wikitetas.club` | No |
 | `wikitetas.live` | No |
@@ -48491,8 +48496,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,495 |
-| Normal | 34,948 |
+| Cloudflare | 13,496 |
+| Normal | 34,952 |
 
 
 </details>
