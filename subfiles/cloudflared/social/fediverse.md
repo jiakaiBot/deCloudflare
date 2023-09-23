@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,438 |
+| com | 7,439 |
 | social | 4,575 |
-| net | 3,778 |
+| net | 3,780 |
 | org | 2,524 |
 | de | 2,348 |
 
@@ -4239,6 +4239,7 @@ Here's a list of public Fediverse services.
 | `benjojo.co.uk` | Yes |
 | `benkard.de` | No |
 | `benkenawell.com` | No |
+| `benki.net` | Yes |
 | `benlopatin.com` | No |
 | `benmccormick.org` | Yes |
 | `benning.space` | Yes |
@@ -11447,6 +11448,7 @@ Here's a list of public Fediverse services.
 | `ebu.io` | No |
 | `ebuds.world` | No |
 | `ebusinessworkshop.co.uk` | Yes |
+| `ecarlate.app` | Yes |
 | `ecchi.cf` | No |
 | `ecclesias.net` | No |
 | `eccs.world` | No |
@@ -14667,6 +14669,7 @@ Here's a list of public Fediverse services.
 | `from1972.net` | No |
 | `fromabyss.com` | No |
 | `fromhome.ovh` | No |
+| `fromjason.xyz` | No |
 | `fromm.social` | No |
 | `fromouter.space` | Yes |
 | `fromseabed.com` | No |
@@ -28146,6 +28149,7 @@ Here's a list of public Fediverse services.
 | `mstdn.games` | No |
 | `mstdn.gifu.jp` | No |
 | `mstdn.global` | No |
+| `mstdn.gr` | Yes |
 | `mstdn.group` | No |
 | `mstdn.gunma.jp` | Yes |
 | `mstdn.guru` | No |
@@ -34761,6 +34765,7 @@ Here's a list of public Fediverse services.
 | `qwq.ooo` | Yes |
 | `qwwwq.cat` | Yes |
 | `qxpix.com` | No |
+| `qyliss.net` | No |
 | `qyz.one` | Yes |
 | `qzhou.dev` | Yes |
 | `qzhou.org` | Yes |
@@ -39714,6 +39719,7 @@ Here's a list of public Fediverse services.
 | `spokane.chat` | No |
 | `spokaneartcollective.com` | No |
 | `spoluck.ca` | No |
+| `sponda.nl` | No |
 | `spondr.cz` | No |
 | `sponheimer.com` | No |
 | `spontaneouscapybara.party` | Yes |
@@ -43011,6 +43017,7 @@ Here's a list of public Fediverse services.
 | `tomcat.onefriendica` | No |
 | `tomd.org` | No |
 | `tomfinley.co` | Yes |
+| `tomfinley.com` | Yes |
 | `tomfosdick.com` | No |
 | `tomg.de` | No |
 | `tomg.xyz` | No |
@@ -44315,6 +44322,7 @@ Here's a list of public Fediverse services.
 | `uilleann.pizza` | Yes |
 | `uir.org.uk` | No |
 | `uitrope.com` | Yes |
+| `uitsmijter.io` | No |
 | `uiuxdev.social` | Yes |
 | `uji.es` | No |
 | `uk.to` | Yes |
@@ -46118,7 +46126,7 @@ Here's a list of public Fediverse services.
 | `weeb.cloud` | Yes |
 | `weeb.run` | Yes |
 | `weeb.su` | No |
-| `weebcouncil.online` | No |
+| `weebcouncil.online` | Yes |
 | `weebs.moe` | No |
 | `weebsite.net` | No |
 | `weebvr.com` | No |
@@ -48497,8 +48505,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,497 |
-| Normal | 34,952 |
+| Cloudflare | 13,502 |
+| Normal | 34,955 |
 
 
 </details>
