@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [c.req.json() throws an error if c.req.text() has been called before](https://github.com/honojs/hono/issues/1499)
 - [CloudFlare Issue deleting Cloudflare Access Applications](https://github.com/SecOpsNews/news/issues/19230)
 - [CloudFlare Issue deleting Cloudflare Access Applications](https://github.com/hinoshiba/news/issues/3908)
 - [Most rucss ends up failing](https://github.com/wp-media/wp-rocket/issues/6185)
