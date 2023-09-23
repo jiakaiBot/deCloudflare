@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,573 |
 | net | 3,776 |
 | org | 2,523 |
-| de | 2,346 |
+| de | 2,347 |
 
 
 - Mastodon, Pleroma, etc
@@ -31435,6 +31435,7 @@ Here's a list of public Fediverse services.
 | `openpsychology.net` | No |
 | `openrealm.org` | No |
 | `openrightsgroup.org` | No |
+| `openrpg.de` | No |
 | `opensalon.social` | No |
 | `openshare.me` | No |
 | `openshell.no` | No |
@@ -38657,7 +38658,7 @@ Here's a list of public Fediverse services.
 | `skrep.eu` | No |
 | `skrep.in` | No |
 | `skress.eu.org` | No |
-| `skress.xyz` | Yes |
+| `skress.xyz` | No |
 | `skri.be` | No |
 | `skri.ga` | No |
 | `skribeworks.com` | No |
@@ -42229,7 +42230,7 @@ Here's a list of public Fediverse services.
 | `thenet.social` | No |
 | `theneuromantics.net` | No |
 | `thenewleafjournal.com` | No |
-| `thenewoil.org` | No |
+| `thenewoil.org` | Yes |
 | `thenewoil.xyz` | No |
 | `thenextbillion.com` | No |
 | `thenextweb.com` | Yes |
@@ -48478,7 +48479,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,491 |
-| Normal | 34,938 |
+| Normal | 34,939 |
 
 
 </details>
