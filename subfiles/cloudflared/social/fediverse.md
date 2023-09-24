@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,575 |
 | net | 3,781 |
 | org | 2,525 |
-| de | 2,348 |
+| de | 2,349 |
 
 
 - Mastodon, Pleroma, etc
@@ -6395,6 +6395,7 @@ Here's a list of public Fediverse services.
 | `cassano.com.br` | No |
 | `cassee.net` | No |
 | `cassette.click` | No |
+| `cassilda.house` | No |
 | `cassone.social` | No |
 | `cast.garden` | No |
 | `castelodelego.org` | No |
@@ -7798,7 +7799,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -15608,6 +15609,7 @@ Here's a list of public Fediverse services.
 | `gergen.family` | No |
 | `gergo.city` | No |
 | `gergolippai.com` | Yes |
+| `gerhard-vogt.de` | No |
 | `gerhardhoogterp.nl` | No |
 | `gerkenator.com` | Yes |
 | `germanium.top` | No |
@@ -34763,7 +34765,7 @@ Here's a list of public Fediverse services.
 | `qwerty.onl` | No |
 | `qwjyh.net` | Yes |
 | `qwp.moe` | Yes |
-| `qwq.dog` | Yes |
+| `qwq.dog` | No |
 | `qwq.link` | No |
 | `qwq.mx` | Yes |
 | `qwq.one` | Yes |
@@ -48514,8 +48516,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,506 |
-| Normal | 34,960 |
+| Cloudflare | 13,504 |
+| Normal | 34,964 |
 
 
 </details>
