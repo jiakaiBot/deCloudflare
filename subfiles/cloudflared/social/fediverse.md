@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,446 |
+| com | 7,447 |
 | social | 4,575 |
-| net | 3,781 |
-| org | 2,525 |
-| de | 2,349 |
+| net | 3,783 |
+| org | 2,526 |
+| de | 2,350 |
 
 
 - Mastodon, Pleroma, etc
@@ -7136,6 +7136,7 @@ Here's a list of public Fediverse services.
 | `christianity.business` | Yes |
 | `christianjunk.de` | No |
 | `christiankracher.com` | No |
+| `christianscholz.de` | No |
 | `christiansievers.info` | No |
 | `christianwkaiser.de` | No |
 | `christmas.tattoo` | No |
@@ -9542,6 +9543,7 @@ Here's a list of public Fediverse services.
 | `ddsc.life` | No |
 | `ddsec.de` | No |
 | `ddtcc.vip` | No |
+| `dduel.dev` | No |
 | `ddyms.space` | Yes |
 | `de-ath.co.uk` | No |
 | `de-gentile.fr` | No |
@@ -11209,6 +11211,7 @@ Here's a list of public Fediverse services.
 | `dunamisanddragons.com` | No |
 | `duncancmt.com` | No |
 | `duncanhart.com` | No |
+| `duncanstephen.net` | No |
 | `duncte123.me` | Yes |
 | `dunevent.net` | No |
 | `dungeon-rushers.com` | No |
@@ -13265,6 +13268,7 @@ Here's a list of public Fediverse services.
 | `fedihub.rocks` | No |
 | `fedihum.org` | No |
 | `fedii.me` | Yes |
+| `fedikong.com` | No |
 | `fedilab.app` | No |
 | `fediland.in.ua` | No |
 | `fediland.nl` | No |
@@ -15628,6 +15632,7 @@ Here's a list of public Fediverse services.
 | `geschnacke.de` | No |
 | `gesichtsbu.ch` | Yes |
 | `gespenst-jaeger.net` | Yes |
+| `gesri.xyz` | No |
 | `gestaltit.com` | Yes |
 | `gestaltzerfall.net` | No |
 | `gesteves.com` | No |
@@ -16061,6 +16066,7 @@ Here's a list of public Fediverse services.
 | `goat.rocks` | No |
 | `goatdaddy.net` | No |
 | `goatfan.club` | No |
+| `goatless.org` | No |
 | `goats.men` | Yes |
 | `goatzone.net` | No |
 | `gobbetti.name` | No |
@@ -22734,6 +22740,7 @@ Here's a list of public Fediverse services.
 | `langmerah.net` | No |
 | `langsec.social` | No |
 | `language.jp` | No |
+| `languageandliteracy.blog` | No |
 | `lanham.id.au` | No |
 | `lanhq.be` | No |
 | `laniustrolling.dev` | No |
@@ -23977,6 +23984,7 @@ Here's a list of public Fediverse services.
 | `loclx.io` | No |
 | `locrealloc.de` | No |
 | `loctobrerie.fr` | No |
+| `lod.ee` | No |
 | `lode.social` | Yes |
 | `lodis.se` | No |
 | `lodyb.com` | No |
@@ -27509,7 +27517,6 @@ Here's a list of public Fediverse services.
 | `modestymaise.com` | No |
 | `modimido.tech` | No |
 | `modosolopreneur.com` | No |
-| `mods4ever.com` | No |
 | `modscleo4.dev.br` | No |
 | `modspil.dk` | No |
 | `moe-max.jp` | Yes |
@@ -34017,6 +34024,7 @@ Here's a list of public Fediverse services.
 | `priof.cc` | Yes |
 | `prismati.cc` | No |
 | `prismdragon.net` | No |
+| `prismisskey.space` | Yes |
 | `prismo.news` | Yes |
 | `prismo.xyz` | No |
 | `prismst.one` | No |
@@ -34921,7 +34929,6 @@ Here's a list of public Fediverse services.
 | `radiostatler.social` | No |
 | `radiotogether.uk` | No |
 | `radiotube.org` | No |
-| `radiowaterloo.ca` | No |
 | `radlc.com` | No |
 | `radnovich.com` | No |
 | `radon.rocks` | No |
@@ -42192,6 +42199,7 @@ Here's a list of public Fediverse services.
 | `theinternet.lol` | No |
 | `theinternet.social` | No |
 | `theintersection.social` | No |
+| `theistanbulite.com` | No |
 | `theitsurgeon.co.za` | Yes |
 | `thej.in` | No |
 | `thejar.club` | No |
@@ -46607,6 +46615,7 @@ Here's a list of public Fediverse services.
 | `wisepapajohn.com` | Yes |
 | `wisepoint.org` | No |
 | `wishy.co.uk` | No |
+| `wissbart.net` | No |
 | `wisskomm.social` | No |
 | `wistly.net` | No |
 | `wit.social` | No |
@@ -48525,8 +48534,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,507 |
-| Normal | 34,970 |
+| Cloudflare | 13,508 |
+| Normal | 34,978 |
 
 
 </details>
