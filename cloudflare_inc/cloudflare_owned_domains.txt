@@ -13,6 +13,7 @@ cftest7.com
 cftest8.com
 cloudflare-cn.com
 cloudflare-dns.com
+cloudflare-ech.com
 cloudflare-free.com
 cloudflare-gateway.com
 cloudflare-ipfs.com
