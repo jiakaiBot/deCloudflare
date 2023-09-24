@@ -11746,6 +11746,7 @@ Here's a list of public Fediverse services.
 | `el-ktm.com` | No |
 | `el-spot.xyz` | Yes |
 | `el-tango.club` | No |
+| `el15team.ru` | Yes |
 | `el5.net` | Yes |
 | `elaine.is` | Yes |
 | `elandrion.net` | No |
@@ -48521,7 +48522,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,506 |
+| Cloudflare | 13,507 |
 | Normal | 34,967 |
 
 
