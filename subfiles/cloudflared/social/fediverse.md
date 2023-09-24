@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,445 |
+| com | 7,446 |
 | social | 4,575 |
 | net | 3,781 |
 | org | 2,525 |
@@ -27509,6 +27509,7 @@ Here's a list of public Fediverse services.
 | `modestymaise.com` | No |
 | `modimido.tech` | No |
 | `modosolopreneur.com` | No |
+| `mods4ever.com` | No |
 | `modscleo4.dev.br` | No |
 | `modspil.dk` | No |
 | `moe-max.jp` | Yes |
@@ -34920,6 +34921,7 @@ Here's a list of public Fediverse services.
 | `radiostatler.social` | No |
 | `radiotogether.uk` | No |
 | `radiotube.org` | No |
+| `radiowaterloo.ca` | No |
 | `radlc.com` | No |
 | `radnovich.com` | No |
 | `radon.rocks` | No |
@@ -36551,6 +36553,7 @@ Here's a list of public Fediverse services.
 | `rumtreiberin.com` | No |
 | `run-girls.run` | Yes |
 | `run.app` | No |
+| `runarcn.no` | No |
 | `runbsd.ca` | Yes |
 | `rundfunker.net` | No |
 | `runfox.tk` | No |
@@ -48523,7 +48526,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,507 |
-| Normal | 34,967 |
+| Normal | 34,970 |
 
 
 </details>
