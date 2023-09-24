@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,450 |
 | social | 4,575 |
-| net | 3,783 |
+| net | 3,784 |
 | org | 2,526 |
 | de | 2,351 |
 
@@ -7801,7 +7801,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -46525,6 +46525,7 @@ Here's a list of public Fediverse services.
 | `willisbriggs.me` | Yes |
 | `willistonschools.org` | No |
 | `willnorris.com` | No |
+| `willnorris.net` | No |
 | `willow.cafe` | No |
 | `willtmonroe.com` | No |
 | `willtrade.org` | No |
@@ -48541,7 +48542,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,511 |
+| Cloudflare | 13,512 |
 | Normal | 34,982 |
 
 
