@@ -10836,6 +10836,7 @@ Here's a list of public Fediverse services.
 | `dotorg.org` | No |
 | `dotproto.com` | No |
 | `dotrio.net` | No |
+| `dotslashplay.it` | No |
 | `dotsod.com` | No |
 | `dotstar.plus` | No |
 | `dotyonline.net` | Yes |
@@ -48544,7 +48545,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,512 |
-| Normal | 34,983 |
+| Normal | 34,984 |
 
 
 </details>
