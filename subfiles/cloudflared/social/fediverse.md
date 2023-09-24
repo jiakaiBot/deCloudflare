@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,442 |
+| com | 7,444 |
 | social | 4,575 |
 | net | 3,781 |
 | org | 2,525 |
@@ -9957,6 +9957,7 @@ Here's a list of public Fediverse services.
 | `despora.de` | No |
 | `dess.ga` | No |
 | `dessert.coffee` | No |
+| `destabled.com` | Yes |
 | `destinovate.com` | Yes |
 | `destituent.social` | Yes |
 | `destrocodpiece.wtf` | No |
@@ -13775,6 +13776,7 @@ Here's a list of public Fediverse services.
 | `firmware.network` | No |
 | `firobe.fr` | No |
 | `firr.cam` | No |
+| `firstcontact.global` | No |
 | `firstforest.jp` | No |
 | `firstmountainenterprises.com` | Yes |
 | `firstpost.de` | No |
@@ -24651,6 +24653,7 @@ Here's a list of public Fediverse services.
 | `machi.social` | No |
 | `machida.yokohama` | No |
 | `machikadon.online` | Yes |
+| `machinaecrire.com` | No |
 | `machine-cat.space` | No |
 | `machine501.com` | No |
 | `machines.social` | No |
@@ -33748,7 +33751,6 @@ Here's a list of public Fediverse services.
 | `poro.tokyo` | No |
 | `porpoise.social` | Yes |
 | `porsche.earth` | No |
-| `port.li` | No |
 | `port.mk` | Yes |
 | `port0.org` | Yes |
 | `port0.xyz` | No |
@@ -45138,6 +45140,7 @@ Here's a list of public Fediverse services.
 | `vegible.club` | No |
 | `vegoon.party` | Yes |
 | `veikr.com` | No |
+| `veillance.xyz` | No |
 | `veinmireskeep.com` | No |
 | `vekant.com` | Yes |
 | `velasq.com` | Yes |
@@ -48516,8 +48519,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,504 |
-| Normal | 34,964 |
+| Cloudflare | 13,505 |
+| Normal | 34,966 |
 
 
 </details>
