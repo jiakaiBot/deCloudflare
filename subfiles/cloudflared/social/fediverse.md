@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,447 |
+| com | 7,450 |
 | social | 4,575 |
 | net | 3,783 |
 | org | 2,526 |
-| de | 2,350 |
+| de | 2,351 |
 
 
 - Mastodon, Pleroma, etc
@@ -1237,6 +1237,7 @@ Here's a list of public Fediverse services.
 | `adwebcat.com` | No |
 | `adxm.social` | No |
 | `adyxax.org` | Yes |
+| `adzukimame.com` | Yes |
 | `aebok.com` | Yes |
 | `aedileworks.com` | No |
 | `aedius.fr` | No |
@@ -12176,6 +12177,7 @@ Here's a list of public Fediverse services.
 | `eodai.net` | No |
 | `eoghann.net` | Yes |
 | `eole.education` | No |
+| `eolh.jp` | No |
 | `eonas.me` | No |
 | `eonspace.me` | No |
 | `eope.xyz` | No |
@@ -21726,6 +21728,7 @@ Here's a list of public Fediverse services.
 | `kitsune.land` | No |
 | `kitsune.moe` | Yes |
 | `kitsune.social` | No |
+| `kitsunebi-ya.com` | Yes |
 | `kitsunemimi.club` | No |
 | `kitsunes.cloud` | No |
 | `kitsunes.club` | Yes |
@@ -22479,7 +22482,7 @@ Here's a list of public Fediverse services.
 | `kylefreed.com` | Yes |
 | `kylehengst.com` | Yes |
 | `kylemacquarrie.co.uk` | No |
-| `kylepiira.com` | No |
+| `kylepiira.com` | Yes |
 | `kylerank.in` | No |
 | `kylewm.com` | Yes |
 | `kylla.xyz` | No |
@@ -22506,6 +22509,7 @@ Here's a list of public Fediverse services.
 | `kyzune.com` | Yes |
 | `kzfk.win` | Yes |
 | `kzhub.cc` | No |
+| `kzhz.lol` | No |
 | `kzkr.xyz` | Yes |
 | `kzoo.to` | Yes |
 | `kzstan.com` | No |
@@ -27517,6 +27521,7 @@ Here's a list of public Fediverse services.
 | `modestymaise.com` | No |
 | `modimido.tech` | No |
 | `modosolopreneur.com` | No |
+| `mods4ever.com` | No |
 | `modscleo4.dev.br` | No |
 | `modspil.dk` | No |
 | `moe-max.jp` | Yes |
@@ -34929,6 +34934,7 @@ Here's a list of public Fediverse services.
 | `radiostatler.social` | No |
 | `radiotogether.uk` | No |
 | `radiotube.org` | No |
+| `radiowaterloo.ca` | No |
 | `radlc.com` | No |
 | `radnovich.com` | No |
 | `radon.rocks` | No |
@@ -37763,6 +37769,7 @@ Here's a list of public Fediverse services.
 | `selbach.social` | No |
 | `selbsthilfe.social` | No |
 | `selbsthilfewerkstatt-lankwitz.de` | No |
+| `selbstlernserver.de` | No |
 | `selden.page` | No |
 | `seldo.dev` | No |
 | `selea.se` | No |
@@ -48534,8 +48541,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,508 |
-| Normal | 34,978 |
+| Cloudflare | 13,511 |
+| Normal | 34,982 |
 
 
 </details>
