@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [can't edit text in pages after update from 1.0.17 to 1.1.4](https://github.com/Azuriom/Azuriom/issues/387)
 - [Cloudflare Turnstile challenge is not recognized inside this site](https://github.com/FlareSolverr/FlareSolverr/issues/917)
 - [CF browser rendering breaks when using instrumentDO](https://github.com/evanderkoogh/otel-cf-workers/issues/63)
 - [Cloudflare da error](https://github.com/htr-tech/zphisher/issues/794)
