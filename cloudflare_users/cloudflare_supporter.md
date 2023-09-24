@@ -721,6 +721,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlsamiDr@twitter](https://twitter.com/AlsamiDr/status/1390431366794432516) | advertise |
 | [AlsukaitiK17984@twitter](https://twitter.com/AlsukaitiK17984/status/1689632727342206977) | advertise |
 | [AltafBh79770188@twitter](https://twitter.com/AltafBh79770188/status/1400425714541756416) | advertise |
+| [AltafKh41893270@twitter](https://twitter.com/AltafKh41893270/status/1705904476471874016) | advertise |
 | [Altan41272744@twitter](https://twitter.com/Altan41272744/status/1379740295429038083) | advertise |
 | [AlterJoker@twitter](https://twitter.com/AlterJoker/status/1395418841815994376) | advertise |
 | [AltLineage@twitter](https://twitter.com/AltLineage/status/1556872203584536576) | advertise |
@@ -2150,6 +2151,7 @@ Do not create new issue or we will close it as duplicate.
 | [cAnh50264481@twitter](https://twitter.com/cAnh50264481/status/1392635647995772930) | advertise |
 | [cAnhNgu31209163@twitter](https://twitter.com/cAnhNgu31209163/status/1689096642568531968) | advertise |
 | [CanhNgu39481095@twitter](https://twitter.com/CanhNgu39481095/status/1671719022247948288) | advertise |
+| [CannafloraAus@twitter](https://twitter.com/CannafloraAus/status/1705917520698658983) | advertise |
 | [CantThinkOfUsnm@twitter](https://twitter.com/CantThinkOfUsnm/status/1412673732406042624) | moral (advertise) |
 | [CanturyN@twitter](https://twitter.com/CanturyN/status/1508572957173764097) | advertise |
 | [CanvasCapitol@twitter](https://twitter.com/CanvasCapitol/status/1633042229114830848) | advertise |
@@ -3983,6 +3985,7 @@ Do not create new issue or we will close it as duplicate.
 | [getsudotech@twitter](https://twitter.com/getsudotech/status/1654437622029189122) | advertise |
 | [ggcc37590384@twitter](https://twitter.com/ggcc37590384/status/1489085811094016005) | advertise |
 | [Gggaaaaa5@twitter](https://twitter.com/Gggaaaaa5/status/1387836659631202304) | advertise |
+| [gggunet@twitter](https://twitter.com/gggunet/status/1705905600360812898) | advertise |
 | [GGHIMUOFFICIAL@twitter](https://twitter.com/GGHIMUOFFICIAL/status/1540651355462721536) | advertise |
 | [GgMg04587862@twitter](https://twitter.com/GgMg04587862/status/1392000179360788480) | advertise |
 | [GgUu18976278@twitter](https://twitter.com/GgUu18976278/status/1535274513042120705) | advertise |
@@ -9603,6 +9606,7 @@ Do not create new issue or we will close it as duplicate.
 | [Okla12344678833@twitter](https://twitter.com/Okla12344678833/status/1559894067454287876) | advertise |
 | [okynnorhosiery@twitter](https://twitter.com/okynnorhosiery/status/1576256442293968897) | advertise |
 | [OKZest@twitter](https://twitter.com/OKZest/status/1659937824597057537) | advertise |
+| [OlakuleTope@twitter](https://twitter.com/OlakuleTope/status/1705889614479630690) | advertise |
 | [Olala85233012@twitter](https://twitter.com/Olala85233012/status/1389032029568651267) | advertise |
 | [OlangstonS@twitter](https://twitter.com/OlangstonS/status/1380699085989089286) | advertise |
 | [OlaSuka62674989@twitter](https://twitter.com/OlaSuka62674989/status/1586320837069504512) | advertise |
@@ -9912,6 +9916,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ph18868934@twitter](https://twitter.com/Ph18868934/status/1477889678493700096) | advertise |
 | [Ph20911663@twitter](https://twitter.com/Ph20911663/status/1613801368644653057) | advertise |
 | [Ph40906000@twitter](https://twitter.com/Ph40906000/status/1478375281543065617) | advertise |
+| [Ph90549875Pham@twitter](https://twitter.com/Ph90549875Pham/status/1705928953901597019) | advertise |
 | [phaethanmg@twitter](https://twitter.com/phaethanmg/status/1391363746556088324) | advertise |
 | [phakhinnnnnnnn@twitter](https://twitter.com/phakhinnnnnnnn/status/1617562292065021953) | advertise |
 | [Phamcu5@twitter](https://twitter.com/Phamcu5/status/1553295807767425024) | advertise |
@@ -14390,6 +14395,7 @@ Do not create new issue or we will close it as duplicate.
 | [YueYue05673762@twitter](https://twitter.com/YueYue05673762/status/1391670328879951872) | advertise |
 | [Yuki50555967@twitter](https://twitter.com/Yuki50555967/status/1551133125165871105) | advertise |
 | [Yuki92777462@twitter](https://twitter.com/Yuki92777462/status/1389853033761165326) | advertise |
+| [yukinamhuy1@twitter](https://twitter.com/yukinamhuy1/status/1705922599472263369) | advertise |
 | [YuksekOrmanMuh@twitter](https://twitter.com/YuksekOrmanMuh/status/1506534378939338752) | advertise |
 | [Yulthefreak@twitter](https://twitter.com/Yulthefreak/status/1526775523128524800) | advertise |
 | [YunuSedatAydin@twitter](https://twitter.com/YunuSedatAydin/status/1462456581250072590) | advertise |
