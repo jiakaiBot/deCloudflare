@@ -690,6 +690,7 @@ Here's a list of public Fediverse services.
 | `765racing.com` | No |
 | `777.tf` | No |
 | `77co.ws` | No |
+| `77nn.it` | No |
 | `791127.net` | No |
 | `79120.tours` | No |
 | `7a4.pp.ua` | No |
@@ -48543,7 +48544,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,512 |
-| Normal | 34,982 |
+| Normal | 34,983 |
 
 
 </details>
