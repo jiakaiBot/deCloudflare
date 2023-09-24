@@ -50,9 +50,9 @@
               "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.3.1",
+          "version": "1.0.3.2",
           "update_link": "https://0xacab.org/dCF/deCloudflare/-/raw/master/addons/releases/bcma.xpi",
-          "update_hash": "sha256:9d35b263042ee18c26d13fde3f7d3d23699a7c515608064cbfe0f9015c0e8d45"
+          "update_hash": "sha256:9c7239c9d1d9c19848a32c4398e71caa6fd3a11b73fb946c9667edd5da49799e"
         }
       ]
     }
