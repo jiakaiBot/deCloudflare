@@ -8965,6 +8965,7 @@ Do not create new issue or we will close it as duplicate.
 | [new_techo@twitter](https://twitter.com/new_techo/status/1588558475851755520) | advertise |
 | [NextAds1@twitter](https://twitter.com/NextAds1/status/1555508312602722304) | advertise |
 | [NextGenTechLLC@twitter](https://twitter.com/NextGenTechLLC/status/1680687533523337216) | advertise |
+| [nextsolusindo@twitter](https://twitter.com/nextsolusindo/status/1705786461944205527) | advertise |
 | [ne_____34r@twitter](https://twitter.com/ne_____34r/status/1655191577684242433) | advertise |
 | [NftfunmadeX@twitter](https://twitter.com/NftfunmadeX/status/1611882239977000960) | advertise |
 | [NFTsMintMarket@twitter](https://twitter.com/NFTsMintMarket/status/1508599297839104003) | advertise |
