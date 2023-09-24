@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,444 |
+| com | 7,445 |
 | social | 4,575 |
 | net | 3,781 |
 | org | 2,525 |
@@ -16882,6 +16882,7 @@ Here's a list of public Fediverse services.
 | `hagn.online` | No |
 | `hagoromofox.com` | No |
 | `hagra.net` | No |
+| `haguruma.site` | No |
 | `haha.academy` | Yes |
 | `haha.rocks` | No |
 | `hahmo.site` | Yes |
@@ -40866,6 +40867,7 @@ Here's a list of public Fediverse services.
 | `swmd.info` | No |
 | `swmnu.net` | No |
 | `swoods.net` | No |
+| `swooret.com` | Yes |
 | `swop.social` | No |
 | `swordandfiddle.co.uk` | No |
 | `sworddynasty.tokyo` | No |
@@ -48519,8 +48521,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,505 |
-| Normal | 34,966 |
+| Cloudflare | 13,506 |
+| Normal | 34,967 |
 
 
 </details>
