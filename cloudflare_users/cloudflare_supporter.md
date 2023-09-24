@@ -10401,6 +10401,7 @@ Do not create new issue or we will close it as duplicate.
 | [PyayPaingOo2@twitter](https://twitter.com/PyayPaingOo2/status/1403191519037706243) | advertise |
 | [PyayPhone@twitter](https://twitter.com/PyayPhone/status/1392556724943425536) | advertise |
 | [PyingSist@twitter](https://twitter.com/PyingSist/status/1386888669491982340) | advertise |
+| [PyosungA@twitter](https://twitter.com/PyosungA/status/1705934355867292010) | advertise |
 | [Pyrumar@twitter](https://twitter.com/Pyrumar/status/1450943115171442688) | advertise |
 | [PySoeThu3@twitter](https://twitter.com/PySoeThu3/status/1611699213334872064) | advertise |
 | [PyTeaDis@twitter](https://twitter.com/PyTeaDis/status/1403714156851646466) | advertise |
