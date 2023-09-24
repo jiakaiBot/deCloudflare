@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,449 |
+| com | 7,450 |
 | social | 4,575 |
 | net | 3,784 |
 | org | 2,526 |
@@ -19468,6 +19468,7 @@ Here's a list of public Fediverse services.
 | `isekai-online.com` | No |
 | `isekai.fi` | No |
 | `isekai.wtf` | Yes |
+| `isekco.re` | No |
 | `iseks.de` | No |
 | `iselfhost.com` | No |
 | `iserv4.me` | No |
@@ -23882,6 +23883,7 @@ Here's a list of public Fediverse services.
 | `lizard.zone` | No |
 | `lizards.live` | No |
 | `lizrodriguez.io` | No |
+| `lizzies.bar` | No |
 | `lizzy.rs` | No |
 | `lj.gl` | No |
 | `ljcu.cc` | Yes |
@@ -27524,6 +27526,7 @@ Here's a list of public Fediverse services.
 | `modestymaise.com` | No |
 | `modimido.tech` | No |
 | `modosolopreneur.com` | No |
+| `mods4ever.com` | No |
 | `modscleo4.dev.br` | No |
 | `modspil.dk` | No |
 | `moe-max.jp` | Yes |
@@ -34936,6 +34939,7 @@ Here's a list of public Fediverse services.
 | `radiostatler.social` | No |
 | `radiotogether.uk` | No |
 | `radiotube.org` | No |
+| `radiowaterloo.ca` | No |
 | `radlc.com` | No |
 | `radnovich.com` | No |
 | `radon.rocks` | No |
@@ -48544,7 +48548,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,513 |
-| Normal | 34,982 |
+| Normal | 34,986 |
 
 
 </details>
