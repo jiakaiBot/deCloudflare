@@ -9685,6 +9685,7 @@ Do not create new issue or we will close it as duplicate.
 | [orangesweed@twitter](https://twitter.com/orangesweed/status/1381985172153802752) | advertise |
 | [orange_know@twitter](https://twitter.com/orange_know/status/1597087806257786880) | advertise |
 | [orbitandgravity@twitter](https://twitter.com/orbitandgravity/status/1601254183109558273) | advertise |
+| [OrdpleseAPI@twitter](https://twitter.com/OrdpleseAPI/status/1695714254178169050) | advertise |
 | [oregonboricua@twitter](https://twitter.com/oregonboricua/status/1636114602881875968) | advertise |
 | [oriaxshelby6@twitter](https://twitter.com/oriaxshelby6/status/1552238465232039937) | advertise |
 | [orientofu@twitter](https://twitter.com/orientofu/status/1532066962540761088) | advertise |
