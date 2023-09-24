@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Turnstile challenge is not recognized inside this site](https://github.com/FlareSolverr/FlareSolverr/issues/917)
 - [CF browser rendering breaks when using instrumentDO](https://github.com/evanderkoogh/otel-cf-workers/issues/63)
 - [Cloudflare da error](https://github.com/htr-tech/zphisher/issues/794)
 - [c.req.json() throws an error if c.req.text() has been called before](https://github.com/honojs/hono/issues/1499)
