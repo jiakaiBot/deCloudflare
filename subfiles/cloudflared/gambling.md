@@ -12,7 +12,7 @@ Here's the result.
 
 | TLD | Count |
 | --- | --- |
-| com | 986 |
+| com | 988 |
 | eu | 47 |
 | net | 43 |
 | ag | 39 |
@@ -23,8 +23,8 @@ Here's the result.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 665 |
-| Normal | 746 |
+| Cloudflare | 668 |
+| Normal | 745 |
 
 
-### 47.1% of gambling domains are using Cloudflare.
+### 47.3% of gambling domains are using Cloudflare.
