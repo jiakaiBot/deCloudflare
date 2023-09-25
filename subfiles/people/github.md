@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Support wasm32 server by implementing a small change in leptos_reactive](https://github.com/leptos-rs/leptos/issues/1786)
 - [Unable to Update - No host internet connection](https://github.com/home-assistant/core/issues/100840)
 - [Using @directus/sdk in a Cloudflare Worker](https://github.com/directus/directus/issues/19784)
 - [can't edit text in pages after update from 1.0.17 to 1.1.4](https://github.com/Azuriom/Azuriom/issues/387)
