@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,454 |
+| com | 7,455 |
 | social | 4,576 |
 | net | 3,787 |
 | org | 2,529 |
@@ -2212,6 +2212,7 @@ Here's a list of public Fediverse services.
 | `andyd.uk` | No |
 | `andyetzler.social` | No |
 | `andyoakley.com` | No |
+| `andypiper.co.uk` | No |
 | `andyrush.net` | No |
 | `andysocial.com` | No |
 | `andythompson.social` | No |
@@ -34809,7 +34810,7 @@ Here's a list of public Fediverse services.
 | `qwq.dog` | No |
 | `qwq.link` | No |
 | `qwq.mx` | Yes |
-| `qwq.one` | Yes |
+| `qwq.one` | No |
 | `qwq.ooo` | Yes |
 | `qwwwq.cat` | Yes |
 | `qxpix.com` | No |
@@ -45603,6 +45604,7 @@ Here's a list of public Fediverse services.
 | `void.monster` | Yes |
 | `void.news` | No |
 | `void.rehab` | No |
+| `voidconspiracy.com` | No |
 | `voided.ee` | No |
 | `voided.space` | Yes |
 | `voidfarm.pw` | No |
@@ -48571,8 +48573,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,521 |
-| Normal | 35,002 |
+| Cloudflare | 13,520 |
+| Normal | 35,005 |
 
 
 </details>
