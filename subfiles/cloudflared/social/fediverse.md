@@ -999,7 +999,7 @@ Here's a list of public Fediverse services.
 | `acc.gs` | Yes |
 | `acc4e.com` | No |
 | `accela.online` | Yes |
-| `acceleratenetworks.com` | No |
+| `acceleratenetworks.com` | Yes |
 | `access.ly` | No |
 | `accessibility.social` | No |
 | `accessinformationnews.com` | No |
@@ -37062,6 +37062,7 @@ Here's a list of public Fediverse services.
 | `saovq.de` | Yes |
 | `sapara.com` | No |
 | `sapphic.city` | No |
+| `sapphic.engineer` | Yes |
 | `sapphic.gay` | No |
 | `sapphic.life` | No |
 | `sapphic.ninja` | No |
@@ -48549,8 +48550,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,510 |
-| Normal | 34,991 |
+| Cloudflare | 13,512 |
+| Normal | 34,990 |
 
 
 </details>
