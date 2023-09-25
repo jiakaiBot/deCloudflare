@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-09-25: [Issues with Early Hints](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7n3cbjm73590)
 - 2023-09-24: [Network Performance Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7j0gb2ws3df3)
 - 2023-09-22: [Increased network latency](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8hh7406hnkq3)
 - 2023-09-22: [Elevated TLS handshake errors for customers on Chrome](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gln4z740q3wp)
