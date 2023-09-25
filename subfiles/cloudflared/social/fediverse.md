@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,450 |
-| social | 4,575 |
-| net | 3,784 |
-| org | 2,527 |
-| de | 2,351 |
+| com | 7,453 |
+| social | 4,576 |
+| net | 3,786 |
+| org | 2,528 |
+| de | 2,353 |
 
 
 - Mastodon, Pleroma, etc
@@ -597,6 +597,7 @@ Here's a list of public Fediverse services.
 | `51attack.li` | No |
 | `51yyds.tk` | Yes |
 | `52537887.xyz` | Yes |
+| `5273.me` | Yes |
 | `5280.city` | No |
 | `52poke.net` | No |
 | `52wochen.me` | No |
@@ -2071,6 +2072,7 @@ Here's a list of public Fediverse services.
 | `ananasbananas.com` | No |
 | `ananc.us` | No |
 | `anancus.fr` | No |
+| `anandamide.net` | No |
 | `anantshri.info` | Yes |
 | `anaproy.nl` | No |
 | `anara.social` | Yes |
@@ -2643,6 +2645,7 @@ Here's a list of public Fediverse services.
 | `arcane.town` | Yes |
 | `arcaneassociation.network` | Yes |
 | `arcanelab.net` | Yes |
+| `arcarr.com` | No |
 | `arcatar.com` | Yes |
 | `arcepi.net` | No |
 | `arch-linux.cz` | Yes |
@@ -7780,6 +7783,7 @@ Here's a list of public Fediverse services.
 | `collindonnell.com` | No |
 | `collins-corner.cc` | Yes |
 | `collins.pub` | No |
+| `collocall.de` | No |
 | `colloportus.me` | No |
 | `colloquium.social` | No |
 | `colloquy.social` | No |
@@ -9338,6 +9342,7 @@ Here's a list of public Fediverse services.
 | `dasbiersec.com` | Yes |
 | `dasblog.io` | No |
 | `dasbrennen.org` | Yes |
+| `dasbuchprojekt.com` | No |
 | `dasdeck.com` | No |
 | `dasein.icu` | No |
 | `dasforum.org` | No |
@@ -13778,6 +13783,7 @@ Here's a list of public Fediverse services.
 | `fireplace.cafe` | No |
 | `fireplace.social` | No |
 | `firescry.com` | Yes |
+| `firesidechat.ca` | Yes |
 | `firetribe.org` | No |
 | `fireturtle.net` | No |
 | `firewall-sec.com` | No |
@@ -17566,6 +17572,7 @@ Here's a list of public Fediverse services.
 | `hexagon.town` | No |
 | `hexagons.social` | No |
 | `hexagonsun.one` | Yes |
+| `hexagonz.com` | Yes |
 | `hexaly.se` | No |
 | `hexandcube.eu.org` | Yes |
 | `hexandcube.tk` | No |
@@ -24682,6 +24689,7 @@ Here's a list of public Fediverse services.
 | `machique.st` | No |
 | `machlis.com` | No |
 | `machne.de` | No |
+| `machspace.org` | No |
 | `machteburch.social` | No |
 | `maciaszek.social` | No |
 | `maciej.cloud` | No |
@@ -30010,6 +30018,7 @@ Here's a list of public Fediverse services.
 | `nluug.social` | No |
 | `nlyze.net` | No |
 | `nmaggioni.xyz` | Yes |
+| `nmfun.net` | No |
 | `nmkj.io` | Yes |
 | `nmkj.me` | No |
 | `nmmcguire.com` | Yes |
@@ -36795,6 +36804,7 @@ Here's a list of public Fediverse services.
 | `sachsen-anhalt.de` | No |
 | `sachsen-medien.social` | No |
 | `sachsen-social.de` | Yes |
+| `sachsen.de` | No |
 | `sackheads.blog` | No |
 | `sackheads.social` | No |
 | `sacklzefix.de` | No |
@@ -38069,6 +38079,7 @@ Here's a list of public Fediverse services.
 | `sharebright.net` | No |
 | `sharecrypted.com` | No |
 | `shared.graphics` | No |
+| `sharedresource.social` | No |
 | `sharedspace.social` | No |
 | `sharedwithexpose.com` | Yes |
 | `sharedworld.org` | No |
@@ -48553,8 +48564,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,513 |
-| Normal | 34,992 |
+| Cloudflare | 13,516 |
+| Normal | 35,000 |
 
 
 </details>
