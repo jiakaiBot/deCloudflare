@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,449 |
+| com | 7,450 |
 | social | 4,575 |
 | net | 3,784 |
 | org | 2,526 |
@@ -27526,6 +27526,7 @@ Here's a list of public Fediverse services.
 | `modestymaise.com` | No |
 | `modimido.tech` | No |
 | `modosolopreneur.com` | No |
+| `mods4ever.com` | No |
 | `modscleo4.dev.br` | No |
 | `modspil.dk` | No |
 | `moe-max.jp` | Yes |
@@ -33803,7 +33804,7 @@ Here's a list of public Fediverse services.
 | `possumgraveyard.com` | No |
 | `possumlodge.me` | No |
 | `possumpat.io` | No |
-| `possums.xyz` | Yes |
+| `possums.xyz` | No |
 | `post-fx.de` | No |
 | `post.rodeo` | No |
 | `posta.no` | Yes |
@@ -34938,6 +34939,7 @@ Here's a list of public Fediverse services.
 | `radiostatler.social` | No |
 | `radiotogether.uk` | No |
 | `radiotube.org` | No |
+| `radiowaterloo.ca` | No |
 | `radlc.com` | No |
 | `radnovich.com` | No |
 | `radon.rocks` | No |
@@ -48545,8 +48547,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,513 |
-| Normal | 34,984 |
+| Cloudflare | 13,512 |
+| Normal | 34,987 |
 
 
 </details>
