@@ -1114,6 +1114,7 @@ Or is this merely a case of simple modesty?
 | Luis Vasallo | Business Development |  |
 | Lukasz Mierzwa | Systems Reliability Engineer, London |  |
 | Luke Edwards | Employee | |
+| Luke Orden | Employee | |
 | Luke Overend | Support Engineer |  |
 | Luke Valenta | Cryptography Engineer |  |
 | Lyn Hines | Technical Support Engineer |  |
