@@ -606,6 +606,7 @@ Here's a list of public Fediverse services.
 | `5505.industries` | Yes |
 | `551.social` | No |
 | `56k.es` | No |
+| `56k.guru` | No |
 | `56k.social` | Yes |
 | `56k.space` | No |
 | `56ksocial.com` | No |
@@ -7802,7 +7803,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -13370,7 +13371,7 @@ Here's a list of public Fediverse services.
 | `fediverse.lgbt` | No |
 | `fediverse.link` | Yes |
 | `fediverse.live` | No |
-| `fediverse.lol` | Yes |
+| `fediverse.lol` | No |
 | `fediverse.love` | No |
 | `fediverse.me` | No |
 | `fediverse.monster` | No |
@@ -44002,6 +44003,7 @@ Here's a list of public Fediverse services.
 | `turtleapparel.eu` | No |
 | `turtleisland.art` | No |
 | `turtleisland.social` | No |
+| `turtleisland.video` | No |
 | `turtletoot.us` | No |
 | `turtton.net` | Yes |
 | `turystyka-niecodzienna.pl` | No |
@@ -48547,8 +48549,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,512 |
-| Normal | 34,987 |
+| Cloudflare | 13,510 |
+| Normal | 34,991 |
 
 
 </details>
