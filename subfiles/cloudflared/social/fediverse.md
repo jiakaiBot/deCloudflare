@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,454 |
 | social | 4,576 |
-| net | 3,786 |
+| net | 3,787 |
 | org | 2,528 |
 | de | 2,353 |
 
@@ -7587,6 +7587,7 @@ Here's a list of public Fediverse services.
 | `co8rt.blue` | Yes |
 | `coales.co` | No |
 | `coalition.zone` | No |
+| `coasa.me` | Yes |
 | `coasterfreak88.net` | No |
 | `coatandlinen.com` | No |
 | `coates.life` | Yes |
@@ -14035,6 +14036,7 @@ Here's a list of public Fediverse services.
 | `flyand.chat` | Yes |
 | `flyaway.city` | Yes |
 | `flyemoji.moe` | Yes |
+| `flyerdonut.net` | Yes |
 | `flying-snail.de` | No |
 | `flyingburri.to` | Yes |
 | `flyingcube.tech` | No |
@@ -48566,7 +48568,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,517 |
+| Cloudflare | 13,519 |
 | Normal | 35,001 |
 
 
