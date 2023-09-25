@@ -6222,6 +6222,7 @@ Do not create new issue or we will close it as duplicate.
 | [KhaiNgu91428563@twitter](https://twitter.com/KhaiNgu91428563/status/1394523613475139586) | advertise |
 | [KhaingZ67903519@twitter](https://twitter.com/KhaingZ67903519/status/1394182226166747136) | advertise |
 | [Khaiquangtran5@twitter](https://twitter.com/Khaiquangtran5/status/1385928846889811969) | advertise |
+| [KhaledLoft@twitter](https://twitter.com/KhaledLoft/status/1706287712830144880) | advertise |
 | [KhaledQiad@twitter](https://twitter.com/KhaledQiad/status/1475497971445870601) | advertise |
 | [khalfiabdk@twitter](https://twitter.com/khalfiabdk/status/1447572885174898689) | advertise |
 | [Khalid09789930@twitter](https://twitter.com/Khalid09789930/status/1688199532897517568) | advertise |
@@ -7972,6 +7973,7 @@ Do not create new issue or we will close it as duplicate.
 | [michael16174483@twitter](https://twitter.com/michael16174483/status/1665874027624251392) | advertise |
 | [Michael17887442@twitter](https://twitter.com/Michael17887442/status/1394202950143258625) | advertise |
 | [Michael33737581@twitter](https://twitter.com/Michael33737581/status/1407397526357954562) | advertise |
+| [MICHAEL68069818@twitter](https://twitter.com/MICHAEL68069818/status/1706282012582244569) | advertise |
 | [Michael92403445@twitter](https://twitter.com/Michael92403445/status/1622493033223831554) | advertise |
 | [michael92579770@twitter](https://twitter.com/michael92579770/status/1605178753277124611) | advertise |
 | [MichaelJGant1@twitter](https://twitter.com/MichaelJGant1/status/1388453082317606914) | advertise |
@@ -7985,6 +7987,7 @@ Do not create new issue or we will close it as duplicate.
 | [Michael_T_Moore@twitter](https://twitter.com/Michael_T_Moore/status/1572374966255128576) | advertise |
 | [Micheal74606768@twitter](https://twitter.com/Micheal74606768/status/1544939566716825600) | advertise |
 | [MichealKyaw8@twitter](https://twitter.com/MichealKyaw8/status/1395744480884518914) | advertise |
+| [michealsg2006@twitter](https://twitter.com/michealsg2006/status/1706253574869758186) | advertise |
 | [Michel17853933@twitter](https://twitter.com/Michel17853933/status/1534529004480237568) | advertise |
 | [MichelGracia8@twitter](https://twitter.com/MichelGracia8/status/1402891533121032193) | advertise |
 | [Micro_mate@twitter](https://twitter.com/Micro_mate/status/1450530749770354692) | advertise |
