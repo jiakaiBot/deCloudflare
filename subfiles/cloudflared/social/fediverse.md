@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,453 |
+| com | 7,454 |
 | social | 4,576 |
 | net | 3,786 |
 | org | 2,528 |
@@ -5280,6 +5280,7 @@ Here's a list of public Fediverse services.
 | `bookwyrm.de` | No |
 | `bookwyrm.social` | No |
 | `bookwyrm.tech` | No |
+| `bookwyrm.world` | No |
 | `boom.army` | Yes |
 | `boombeach.soy` | No |
 | `boomer.casino` | Yes |
@@ -13548,6 +13549,7 @@ Here's a list of public Fediverse services.
 | `ferretfrizz.biz` | No |
 | `ferrie.audio` | No |
 | `ferrocarril.net` | No |
+| `ferrous-systems.com` | Yes |
 | `ferrous.site` | No |
 | `ferrovipath.es` | No |
 | `ferrus.net` | No |
@@ -48564,8 +48566,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,516 |
-| Normal | 35,000 |
+| Cloudflare | 13,517 |
+| Normal | 35,001 |
 
 
 </details>
