@@ -10587,6 +10587,7 @@ Do not create new issue or we will close it as duplicate.
 | [RajaOwaisAli2@twitter](https://twitter.com/RajaOwaisAli2/status/1543493764127285248) | advertise |
 | [rajasimon@twitter](https://twitter.com/rajasimon/status/1498410367797530625) | advertise |
 | [RajeevKurmi18@twitter](https://twitter.com/RajeevKurmi18/status/1493246122130755588) | advertise |
+| [rajeshghallu@twitter](https://twitter.com/rajeshghallu/status/1706214624180470045) | advertise |
 | [RAJESHK41562643@twitter](https://twitter.com/RAJESHK41562643/status/1665874513995898880) | advertise |
 | [RajeshM85157442@twitter](https://twitter.com/RajeshM85157442/status/1400836759961931777) | advertise |
 | [RajeshY21633874@twitter](https://twitter.com/RajeshY21633874/status/1400469601482203146) | advertise |
