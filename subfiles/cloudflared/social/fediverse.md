@@ -32,8 +32,8 @@ Here's a list of public Fediverse services.
 | com | 7,454 |
 | social | 4,576 |
 | net | 3,787 |
-| org | 2,528 |
-| de | 2,353 |
+| org | 2,529 |
+| de | 2,354 |
 
 
 - Mastodon, Pleroma, etc
@@ -17000,6 +17000,7 @@ Here's a list of public Fediverse services.
 | `hamastodon.jp` | No |
 | `hambon.es` | No |
 | `hamburger.city` | No |
+| `hamdorf.org` | No |
 | `hameln.social` | No |
 | `hamik.net` | No |
 | `hamiller.net` | No |
@@ -24065,6 +24066,7 @@ Here's a list of public Fediverse services.
 | `lolcow.org` | Yes |
 | `lolcraft.club` | No |
 | `loli.best` | Yes |
+| `loli.church` | Yes |
 | `loli.estate` | No |
 | `loli.exposed` | No |
 | `loli.mk` | Yes |
@@ -34719,7 +34721,7 @@ Here's a list of public Fediverse services.
 | `quickfix.es` | No |
 | `quiescent.nexus` | No |
 | `quiet.horse` | No |
-| `quiet.social` | No |
+| `quiet.social` | Yes |
 | `quiet.town` | No |
 | `quietcar.social` | No |
 | `quiethabits.net` | No |
@@ -39585,6 +39587,7 @@ Here's a list of public Fediverse services.
 | `spacejerk.fr` | No |
 | `spacekaren.online` | No |
 | `spacekittens.ru` | No |
+| `spacekookie.de` | No |
 | `spacelase.rs` | Yes |
 | `spacelasers.us` | Yes |
 | `spaceling.sh` | Yes |
@@ -48568,8 +48571,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,519 |
-| Normal | 35,001 |
+| Cloudflare | 13,521 |
+| Normal | 35,002 |
 
 
 </details>
