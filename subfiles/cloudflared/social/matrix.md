@@ -48,7 +48,7 @@ Here's a list of public Matrix services.
 | matrix.fachschaften.org | No |
 | feneas.org | No |
 | matrix.flieger.chat | No |
-| matrix.frei.chat | No |
+| frei.chat | No |
 | matrix.freiburg.social | No |
 | matrix.fsfe.org | No |
 | g24.at | No |
