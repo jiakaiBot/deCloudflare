@@ -9750,6 +9750,7 @@ Here's a list of public Fediverse services.
 | `dejongs.de` | Yes |
 | `dejvino.eu` | No |
 | `dek-net.com` | No |
+| `dekain.icu` | No |
 | `dekameta.com` | No |
 | `dekay.se` | Yes |
 | `dekeyser.au` | Yes |
@@ -48574,7 +48575,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,520 |
-| Normal | 35,005 |
+| Normal | 35,006 |
 
 
 </details>
