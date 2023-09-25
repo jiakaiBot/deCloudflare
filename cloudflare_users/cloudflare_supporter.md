@@ -8019,6 +8019,7 @@ Do not create new issue or we will close it as duplicate.
 | [milwdaslwni@twitter](https://twitter.com/milwdaslwni/status/1382945486441742337) | advertise |
 | [mimajharul@twitter](https://twitter.com/mimajharul/status/1399331088237957123) | advertise |
 | [mimrocker@twitter](https://twitter.com/mimrocker/status/1665839233402126337) | advertise |
+| [mim_play@twitter](https://twitter.com/mim_play/status/1706218093008294047) | advertise |
 | [Min58086908@twitter](https://twitter.com/Min58086908/status/1607236825348997125) | advertise |
 | [Min64451871@twitter](https://twitter.com/Min64451871/status/1395814516458332164) | advertise |
 | [min72518684@twitter](https://twitter.com/min72518684/status/1391212367640367107) | advertise |
@@ -9755,6 +9756,7 @@ Do not create new issue or we will close it as duplicate.
 | [p1ass@twitter](https://twitter.com/p1ass/status/1670012004902522880) | advertise |
 | [P9I4Kl23k8Mo7qN@twitter](https://twitter.com/P9I4Kl23k8Mo7qN/status/1385339627096084482) | advertise |
 | [P10a8@twitter](https://twitter.com/P10a8/status/1682912279761911810) | advertise |
+| [P61444@twitter](https://twitter.com/P61444/status/1706176287121818077) | advertise |
 | [paay0m@twitter](https://twitter.com/paay0m/status/1389945969542828032) | advertise |
 | [pablocorral@twitter](https://twitter.com/pablocorral/status/1670163387412623361) | advertise |
 | [Pabo11Shu@twitter](https://twitter.com/Pabo11Shu/status/1390611967920939016) | advertise |
@@ -10560,6 +10562,7 @@ Do not create new issue or we will close it as duplicate.
 | [ragab1234341@twitter](https://twitter.com/ragab1234341/status/1392273173442408448) | advertise |
 | [raghu83283525@twitter](https://twitter.com/raghu83283525/status/1377305204429791233) | advertise |
 | [raha46556016@twitter](https://twitter.com/raha46556016/status/1488618706372542470) | advertise |
+| [RahadianNi36191@twitter](https://twitter.com/RahadianNi36191/status/1706130976504684916) | advertise |
 | [rahimifafa@twitter](https://twitter.com/rahimifafa/status/1380971241629229064) | advertise |
 | [rahimSh63377554@twitter](https://twitter.com/rahimSh63377554/status/1639028396322701320) | advertise |
 | [Rahman555666@twitter](https://twitter.com/Rahman555666/status/1681227042270990337) | advertise |
@@ -11367,6 +11370,7 @@ Do not create new issue or we will close it as duplicate.
 | [sell696060761@twitter](https://twitter.com/sell696060761/status/1641969661351952385) | advertise |
 | [selyuna2@twitter](https://twitter.com/selyuna2/status/1441124684884430862) | advertise |
 | [SEMOSH13@twitter](https://twitter.com/SEMOSH13/status/1380131889999187968) | advertise |
+| [senator6161@twitter](https://twitter.com/senator6161/status/1706200763792335100) | advertise |
 | [Senat_News@twitter](https://twitter.com/Senat_News/status/1400900293261410304) | advertise |
 | [seng1500@twitter](https://twitter.com/seng1500/status/1391818405162852355) | advertise |
 | [seng56247896@twitter](https://twitter.com/seng56247896/status/1394390113539567617) | advertise |
