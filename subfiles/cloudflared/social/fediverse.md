@@ -2099,6 +2099,7 @@ Here's a list of public Fediverse services.
 | `anarchyfox.space` | No |
 | `anarchyplanet.org` | No |
 | `anarela.cyou` | No |
+| `anark.is` | Yes |
 | `anarkis.net` | No |
 | `anarres.family` | No |
 | `anarshy.social` | No |
@@ -42018,6 +42019,7 @@ Here's a list of public Fediverse services.
 | `theartsquirrel.com` | No |
 | `theatl.social` | Yes |
 | `theatrechat.space` | No |
+| `theau.cloud` | No |
 | `theaugusts.net` | No |
 | `theaus.xyz` | Yes |
 | `theautisticinvestors.quest` | No |
@@ -48550,8 +48552,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,512 |
-| Normal | 34,990 |
+| Cloudflare | 13,513 |
+| Normal | 34,991 |
 
 
 </details>
