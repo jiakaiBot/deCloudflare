@@ -89,6 +89,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dns.sb | Yes |
 | dns4all.eu | No |
 | dns8.org | No |
+| dnscry.pt | No |
 | dnscrypt.ca | No |
 | dnsforfamily.com | Yes |
 | dnsforge.de | No |
@@ -318,7 +319,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 140 |
-| Normal | 158 |
+| Normal | 159 |
 
 
-### 47% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
