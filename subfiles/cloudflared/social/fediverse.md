@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,450 |
 | social | 4,575 |
 | net | 3,784 |
-| org | 2,526 |
+| org | 2,527 |
 | de | 2,351 |
 
 
@@ -7713,7 +7713,7 @@ Here's a list of public Fediverse services.
 | `cofvevesocial.com` | Yes |
 | `cogdogblog.com` | No |
 | `cogentleman.com` | No |
-| `cogindo.net` | No |
+| `cogindo.net` | Yes |
 | `cogito.io` | Yes |
 | `cogitoergofem.me` | Yes |
 | `cogley.info` | No |
@@ -14779,6 +14779,7 @@ Here's a list of public Fediverse services.
 | `fuc3.com` | No |
 | `fuchicolove.com` | No |
 | `fuchs.social` | No |
+| `fuchss.org` | No |
 | `fuck-man-i-just-want-like-one-friend.xyz` | No |
 | `fuck.ru` | Yes |
 | `fuckc.cf` | No |
@@ -20227,7 +20228,7 @@ Here's a list of public Fediverse services.
 | `jigmedatse.com` | No |
 | `jihad.icu` | No |
 | `jiji.se` | No |
-| `jiji.su` | Yes |
+| `jiji.su` | No |
 | `jike.pro` | No |
 | `jillr.social` | No |
 | `jillsreads.com` | No |
@@ -48553,7 +48554,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,513 |
-| Normal | 34,991 |
+| Normal | 34,992 |
 
 
 </details>
