@@ -2302,7 +2302,7 @@ Here's a list of public Fediverse services.
 | `anivar.in` | Yes |
 | `aniy.jp` | No |
 | `aniyomechan.jp` | No |
-| `anizumin.com` | No |
+| `anizumin.com` | Yes |
 | `anjara.eu` | No |
 | `anji.nl` | No |
 | `anjos.red` | No |
@@ -21522,6 +21522,7 @@ Here's a list of public Fediverse services.
 | `khinah.xyz` | No |
 | `khisanth.com` | No |
 | `khmer.love` | Yes |
+| `khnet.info` | No |
 | `kho.dev` | No |
 | `khoa.cool` | Yes |
 | `khomri.com` | No |
@@ -48576,7 +48577,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,521 |
+| Cloudflare | 13,522 |
 | Normal | 35,007 |
 
 
