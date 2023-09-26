@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [100mb limits on cloudflare](https://github.com/statamic/cms/issues/8769)
 - [When downloading resources, it triggers Cloudflare Challenge，How do I solve this problem](https://github.com/mikf/gallery-dl/issues/4589)
 - [Cloudflare Access breaks UV and/or bare server](https://github.com/titaniumnetwork-dev/Ultraviolet/issues/74)
 - [Support wasm32 server by implementing a small change in leptos_reactive](https://github.com/leptos-rs/leptos/issues/1786)
