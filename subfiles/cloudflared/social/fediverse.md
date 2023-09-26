@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,456 |
 | social | 4,577 |
 | net | 3,787 |
-| org | 2,529 |
+| org | 2,530 |
 | de | 2,355 |
 
 
@@ -20263,6 +20263,7 @@ Here's a list of public Fediverse services.
 | `jimotodon.com` | No |
 | `jimtay.uk` | Yes |
 | `jimweb.dev` | No |
+| `jimwillis.org` | No |
 | `jinc.io` | Yes |
 | `jing8956.com` | Yes |
 | `jingo.social` | No |
@@ -48582,7 +48583,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,524 |
-| Normal | 35,009 |
+| Normal | 35,010 |
 
 
 </details>
