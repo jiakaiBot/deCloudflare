@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,577 |
 | net | 3,787 |
 | org | 2,531 |
-| de | 2,355 |
+| de | 2,356 |
 
 
 - Mastodon, Pleroma, etc
@@ -10926,6 +10926,7 @@ Here's a list of public Fediverse services.
 | `dragashosting.com` | No |
 | `dragast.me` | No |
 | `dragchaser.com` | No |
+| `draggar.cat` | No |
 | `dragn.gay` | Yes |
 | `drago.moe` | Yes |
 | `dragomen.org` | No |
@@ -36250,6 +36251,7 @@ Here's a list of public Fediverse services.
 | `rodere.systems` | No |
 | `rodetc.com` | No |
 | `rodina-sucha.cz` | No |
+| `rodirik.de` | No |
 | `rodnoc.xyz` | No |
 | `rodr.dev` | Yes |
 | `rodriguez.gg` | No |
@@ -48597,7 +48599,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,530 |
-| Normal | 35,018 |
+| Normal | 35,020 |
 
 
 </details>
