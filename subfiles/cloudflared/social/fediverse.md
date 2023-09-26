@@ -16659,6 +16659,7 @@ Here's a list of public Fediverse services.
 | `gui.do` | No |
 | `guia.nom.br` | Yes |
 | `guictx.com` | No |
+| `guilhermedea.com.br` | No |
 | `guiling.me` | No |
 | `guillemette.social` | No |
 | `guimik.fr` | No |
@@ -48575,7 +48576,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,520 |
-| Normal | 35,006 |
+| Normal | 35,007 |
 
 
 </details>
