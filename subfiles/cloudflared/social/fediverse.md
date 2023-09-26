@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,455 |
-| social | 4,576 |
+| social | 4,577 |
 | net | 3,787 |
 | org | 2,529 |
 | de | 2,354 |
@@ -4070,7 +4070,7 @@ Here's a list of public Fediverse services.
 | `beatles.chat` | No |
 | `beatles.social` | No |
 | `beatrice.wtf` | No |
-| `beatsaber.jp` | Yes |
+| `beatsaber.jp` | No |
 | `beatty.family` | No |
 | `beaulieu.social` | No |
 | `beaumonts.me` | Yes |
@@ -23895,7 +23895,7 @@ Here's a list of public Fediverse services.
 | `liyhu.social` | No |
 | `liyuan.app` | Yes |
 | `liyuu.icu` | No |
-| `liz.cafe` | No |
+| `liz.cafe` | Yes |
 | `liza.sh` | No |
 | `lizana.org` | Yes |
 | `lizard.zone` | No |
@@ -29610,6 +29610,7 @@ Here's a list of public Fediverse services.
 | `newellijay.tv` | No |
 | `neweverythingchips.com` | No |
 | `newfield1001.de` | No |
+| `newforest.social` | Yes |
 | `newfound.social` | No |
 | `newgas.net` | No |
 | `newhaven.nu` | No |
@@ -48575,7 +48576,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,520 |
+| Cloudflare | 13,521 |
 | Normal | 35,007 |
 
 
