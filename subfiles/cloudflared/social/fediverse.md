@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,461 |
+| com | 7,462 |
 | social | 4,577 |
 | net | 3,788 |
 | org | 2,530 |
@@ -35564,6 +35564,7 @@ Here's a list of public Fediverse services.
 | `refusal.llc` | No |
 | `refuse2.work` | No |
 | `refuznik.video` | No |
+| `regalijan.com` | Yes |
 | `regardless.cc` | No |
 | `regaria.net` | Yes |
 | `regastream.com` | No |
@@ -39370,6 +39371,7 @@ Here's a list of public Fediverse services.
 | `sol.org.tr` | Yes |
 | `solagg.com` | No |
 | `solarbird.net` | No |
+| `solarcene.community` | No |
 | `solardorf.eu` | No |
 | `solari.com` | No |
 | `solaria.space` | No |
@@ -48599,8 +48601,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,531 |
-| Normal | 35,020 |
+| Cloudflare | 13,532 |
+| Normal | 35,021 |
 
 
 </details>
