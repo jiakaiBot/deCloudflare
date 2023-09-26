@@ -28312,6 +28312,7 @@ Here's a list of public Fediverse services.
 | `mtf.party` | Yes |
 | `mtg-france.org` | No |
 | `mtg.garden` | No |
+| `mtg.watch` | No |
 | `mtgdon.jp` | No |
 | `mtgjudge.social` | No |
 | `mtgtalk.online` | No |
@@ -35689,7 +35690,7 @@ Here's a list of public Fediverse services.
 | `replik.xyz` | No |
 | `repnop.dev` | No |
 | `repomaa.com` | No |
-| `reportdb.today` | Yes |
+| `reportdb.today` | No |
 | `reporter.social` | No |
 | `repotta8492.com` | No |
 | `reppard.com` | No |
@@ -37330,6 +37331,7 @@ Here's a list of public Fediverse services.
 | `scheske.de` | No |
 | `schettler.net` | No |
 | `schichler.dev` | Yes |
+| `schicksal.im` | Yes |
 | `schieder.me` | No |
 | `schiessle.org` | No |
 | `schildt.social` | No |
@@ -48583,7 +48585,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,524 |
-| Normal | 35,010 |
+| Normal | 35,012 |
 
 
 </details>
