@@ -27,10 +27,7 @@ Here's a list of public Matrix services.
 | alternanet.fr | No |
 | matrix.archaeo.social | No |
 | aria.im | No |
-| matrix.badstuebner.biz | No |
 | synapse.bark.lgbt | Yes |
-| bolha.chat | Yes |
-| breeze.town | No |
 | matrix.catgirl.cloud | Yes |
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
@@ -114,8 +111,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 19 |
-| Normal | 68 |
+| Cloudflare | 18 |
+| Normal | 66 |
 
 
-### 21.8% of public Matrix services are using Cloudflare.
+### 21.4% of public Matrix services are using Cloudflare.
