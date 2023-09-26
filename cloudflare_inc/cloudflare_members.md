@@ -188,6 +188,7 @@ Or is this merely a case of simple modesty?
 | Ane Kallmyr Lerheim | Legal Intern |  |
 | Angela Huang | Customer Success Manager |  |
 | Angie Kim | Product Manager |  |
+| Anie Jacob | Employee | |
 | Anika Murthy | FP&A Analyst |  |
 | Anil Erduran | Employee | |
 | Anil Karavadra | Business Development Manager EMEA |  |
@@ -520,6 +521,7 @@ Or is this merely a case of simple modesty?
 | Dawn Giusti | Relations Analyst | https://twitter.com/dawngiusti |
 | Dawn Parzych | Employee | |
 | Dawn Ringstaff | Employee | |
+| Deanna Lam | Employee | |
 | Deanna Popolo | Account Executive, New York City |  |
 | Dean Riskas | Customer Development |  |
 | Deborah McRoth | Employee |  |
@@ -1612,6 +1614,7 @@ Or is this merely a case of simple modesty?
 | Sarah Lewis Cortes | Privacy Compliance |  |
 | Sarah Meyer | Customer Development, London |  |
 | Saran Chandran | Regional Head |  |
+| Sasi Murthy | Employee | |
 | Satyen Desai | Employee | |
 | Scott Flesch | SLED Sales |  |
 | Scott Jones | LMS Administrator / eLearning Developer |  |
