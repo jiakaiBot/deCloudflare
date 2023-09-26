@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Access breaks UV and/or bare server](https://github.com/titaniumnetwork-dev/Ultraviolet/issues/74)
 - [Support wasm32 server by implementing a small change in leptos_reactive](https://github.com/leptos-rs/leptos/issues/1786)
 - [Unable to Update - No host internet connection](https://github.com/home-assistant/core/issues/100840)
 - [Using @directus/sdk in a Cloudflare Worker](https://github.com/directus/directus/issues/19784)
