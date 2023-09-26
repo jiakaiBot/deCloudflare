@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,459 |
+| com | 7,460 |
 | social | 4,577 |
 | net | 3,787 |
 | org | 2,531 |
@@ -5862,6 +5862,7 @@ Here's a list of public Fediverse services.
 | `bungle.online` | No |
 | `bunglers.it` | No |
 | `bungudon.jp` | No |
+| `bungwangsi.xyz` | Yes |
 | `bunix.de` | No |
 | `bunji.social` | Yes |
 | `bunkerchan.xyz` | Yes |
@@ -8540,6 +8541,7 @@ Here's a list of public Fediverse services.
 | `cryoem.social` | No |
 | `cryoit.com` | Yes |
 | `cryolog.in` | No |
+| `cryovex.com` | Yes |
 | `crypt.ee` | Yes |
 | `crypt.lol` | No |
 | `cryptic-command.net` | Yes |
@@ -48594,7 +48596,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,528 |
+| Cloudflare | 13,530 |
 | Normal | 35,018 |
 
 
