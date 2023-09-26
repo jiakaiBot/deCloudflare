@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,455 |
+| com | 7,456 |
 | social | 4,577 |
 | net | 3,787 |
 | org | 2,529 |
-| de | 2,354 |
+| de | 2,355 |
 
 
 - Mastodon, Pleroma, etc
@@ -36566,6 +36566,7 @@ Here's a list of public Fediverse services.
 | `rufposten.de` | No |
 | `rugdon.fun` | No |
 | `ruglesms.xyz` | Yes |
+| `ruhr-uni-bochum.de` | No |
 | `ruhr.social` | No |
 | `ruhrpott.social` | No |
 | `ruhrspora.de` | No |
@@ -36714,6 +36715,7 @@ Here's a list of public Fediverse services.
 | `ryey.icu` | No |
 | `ryg.one` | No |
 | `ryick.net` | No |
+| `ryjelsum.me` | Yes |
 | `ryjelsum.xyz` | No |
 | `rylander.cc` | Yes |
 | `rylees.net` | Yes |
@@ -39856,6 +39858,7 @@ Here's a list of public Fediverse services.
 | `spswoodturners.org` | No |
 | `spt.social` | Yes |
 | `spudalicio.us` | Yes |
+| `spudwart.com` | Yes |
 | `spun-industries.de` | No |
 | `spunkiedesign.com` | Yes |
 | `spurgu.org` | Yes |
@@ -48578,8 +48581,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,522 |
-| Normal | 35,008 |
+| Cloudflare | 13,524 |
+| Normal | 35,009 |
 
 
 </details>
