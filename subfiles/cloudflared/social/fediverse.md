@@ -18784,6 +18784,7 @@ Here's a list of public Fediverse services.
 | `illegalpornography.com` | No |
 | `illegitimate.technology` | Yes |
 | `illi.social` | No |
+| `illithid.online` | No |
 | `illo.social` | No |
 | `illoda.com` | Yes |
 | `illum.dev` | Yes |
@@ -48578,7 +48579,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,522 |
-| Normal | 35,007 |
+| Normal | 35,008 |
 
 
 </details>
