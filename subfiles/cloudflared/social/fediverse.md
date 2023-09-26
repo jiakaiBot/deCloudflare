@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,460 |
+| com | 7,461 |
 | social | 4,577 |
-| net | 3,787 |
-| org | 2,531 |
+| net | 3,788 |
+| org | 2,530 |
 | de | 2,356 |
 
 
@@ -2715,7 +2715,6 @@ Here's a list of public Fediverse services.
 | `argentum.social` | No |
 | `argentwolf.org` | No |
 | `argh.club` | No |
-| `arghacademy.org` | Yes |
 | `argia.eus` | No |
 | `argocatania.it` | No |
 | `argon.city` | Yes |
@@ -6979,6 +6978,7 @@ Here's a list of public Fediverse services.
 | `chiisana.net` | Yes |
 | `chiji.space` | No |
 | `chik.social` | Yes |
+| `chikage.net` | Yes |
 | `chikai.network` | No |
 | `chikichiki.tube` | Yes |
 | `chikorita157.com` | No |
@@ -26812,6 +26812,7 @@ Here's a list of public Fediverse services.
 | `michidon.com` | No |
 | `michif.xyz` | No |
 | `michikora.com` | No |
+| `michizev.com` | Yes |
 | `michizev.de` | No |
 | `michonline.com` | No |
 | `michu.cloud` | No |
@@ -48598,7 +48599,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,530 |
+| Cloudflare | 13,531 |
 | Normal | 35,020 |
 
 
