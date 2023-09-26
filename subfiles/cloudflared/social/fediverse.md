@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,456 |
+| com | 7,459 |
 | social | 4,577 |
 | net | 3,787 |
 | org | 2,530 |
@@ -2865,6 +2865,7 @@ Here's a list of public Fediverse services.
 | `arthfach.com` | No |
 | `arthropod.social` | No |
 | `arthropod.tech` | No |
+| `arthropod.xyz` | Yes |
 | `arthur.pizza` | Yes |
 | `arthurhollingsworth.com` | No |
 | `artica.center` | No |
@@ -12265,6 +12266,7 @@ Here's a list of public Fediverse services.
 | `erase.nz` | Yes |
 | `erasethis.net` | Yes |
 | `erb.pw` | No |
+| `erblaboratory.com` | Yes |
 | `erch.co` | Yes |
 | `erch.social` | No |
 | `erdbeerbaerlp.de` | Yes |
@@ -15930,6 +15932,7 @@ Here's a list of public Fediverse services.
 | `glitch.pizza` | Yes |
 | `glitch.pm` | No |
 | `glitch.social` | No |
+| `glitch.wtf` | No |
 | `glitchbird.com` | Yes |
 | `glitchcity.cc` | No |
 | `glitchcityart.club` | Yes |
@@ -19940,6 +19943,7 @@ Here's a list of public Fediverse services.
 | `jaredzimmerman.com` | Yes |
 | `jarkkaa.fi` | No |
 | `jarv.is` | Yes |
+| `jarvisconcepts.com` | No |
 | `jascha.wtf` | No |
 | `jasdemi.com` | Yes |
 | `jase.social` | No |
@@ -25099,6 +25103,7 @@ Here's a list of public Fediverse services.
 | `manualdousuario.net` | Yes |
 | `manuel-bauer.net` | No |
 | `manuelcortez.net` | Yes |
+| `manufakturmarton.ch` | No |
 | `manulanglois.fr` | No |
 | `manuviciano.com` | No |
 | `manwho.re` | Yes |
@@ -28524,6 +28529,7 @@ Here's a list of public Fediverse services.
 | `muute.club` | No |
 | `mux.re` | No |
 | `muy.moe` | Yes |
+| `muyactual.com` | No |
 | `muyfinanciero.com` | No |
 | `muylinux.com` | No |
 | `muyun.cloud` | Yes |
@@ -30553,6 +30559,7 @@ Here's a list of public Fediverse services.
 | `nrk.cloud` | No |
 | `nrkn.fr` | No |
 | `nrma.cc` | Yes |
+| `nrma.co` | Yes |
 | `nrmn.no` | No |
 | `nro.io` | Yes |
 | `nroo.de` | No |
@@ -37790,6 +37797,7 @@ Here's a list of public Fediverse services.
 | `seiyu.fun` | No |
 | `seiyudon.net` | No |
 | `seiyuu.fans` | Yes |
+| `seize-tower.xyz` | No |
 | `seizeheures.fr` | No |
 | `seizemeans.com` | No |
 | `seizethemeansof.community` | No |
@@ -38839,6 +38847,7 @@ Here's a list of public Fediverse services.
 | `slatecave.net` | No |
 | `slattery.social` | No |
 | `slattyslatt.life` | No |
+| `slavlabz.su` | No |
 | `slaycer.top` | Yes |
 | `slayers.com.br` | Yes |
 | `slayers.online` | Yes |
@@ -48584,8 +48593,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,524 |
-| Normal | 35,012 |
+| Cloudflare | 13,527 |
+| Normal | 35,018 |
 
 
 </details>
