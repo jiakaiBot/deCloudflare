@@ -169,7 +169,7 @@ Here's a list of breached sites.
 | DataCamp | 760,561 | Yes |
 | Dave | 2,964,182 | Yes |
 | DecoratingTheHouse (집꾸미기) | 1,298,651 | No |
-| Deezer | 229,037,936 | No |
+| Deezer | 229,037,936 | Yes |
 | DemonForums (Demon Forums) | 52,623 | Yes |
 | Descomplica | 4,845,378 | Yes |
 | DevilTorrents (Devil-Torrents.pl) | 63,451 | Yes |
@@ -694,10 +694,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 393 | 4,214,071,911 |
-| Normal | 280 | 4,721,821,856 |
+| Cloudflare | 394 | 4,443,109,847 |
+| Normal | 279 | 4,492,783,920 |
 
 
 
-### 58.4% of breached sites (pwned sites) are using Cloudflare.
-### 47.2% of leaked accounts are on Cloudflare sites.
+### 58.5% of breached sites (pwned sites) are using Cloudflare.
+### 49.7% of leaked accounts are on Cloudflare sites.
