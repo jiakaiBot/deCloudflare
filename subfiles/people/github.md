@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [render.com setup not working properly from postman](https://github.com/yjpictures/flask-license-manager/issues/6)
 - [Link to Sugar Pond website is timing out](https://github.com/nbudin/journey/issues/198)
 - [demo not working, connect timeout](https://github.com/paperless-ngx/paperless-ngx/issues/4279)
 - [IO::Socket::IP configuration failed](https://github.com/ddclient/ddclient/issues/573)
