@@ -2128,6 +2128,7 @@ Do not create new issue or we will close it as duplicate.
 | [CabinetsWaverly@twitter](https://twitter.com/CabinetsWaverly/status/1574829182814752793) | advertise |
 | [CADINUDAO2@twitter](https://twitter.com/CADINUDAO2/status/1676699702094430211) | advertise |
 | [CADINUTOKEN@twitter](https://twitter.com/CADINUTOKEN/status/1676699702094430211) | advertise |
+| [CaDnay13764@twitter](https://twitter.com/CaDnay13764/status/1707076350283288770) | advertise |
 | [Caesar24749342@twitter](https://twitter.com/Caesar24749342/status/1381276732813058049) | advertise |
 | [caizhenghai@twitter](https://twitter.com/caizhenghai/status/1490892229497733121) | advertise |
 | [calicomin99@twitter](https://twitter.com/calicomin99/status/1395979320401620992) | advertise |
@@ -6153,6 +6154,7 @@ Do not create new issue or we will close it as duplicate.
 | [keinishi729_ds@twitter](https://twitter.com/keinishi729_ds/status/1393902570972717064) | advertise |
 | [Keith61322861@twitter](https://twitter.com/Keith61322861/status/1405019745749852164) | advertise |
 | [keithsnyder@twitter](https://twitter.com/keithsnyder/status/1422259525726445572) | advertise |
+| [keiyrti90318707@twitter](https://twitter.com/keiyrti90318707/status/1707071701136343351) | advertise |
 | [Kektulahpokokny@twitter](https://twitter.com/Kektulahpokokny/status/1644698081366097927) | advertise |
 | [kelenrojas@twitter](https://twitter.com/kelenrojas/status/1425974196270768138) | advertise |
 | [kelliejones2023@twitter](https://twitter.com/kelliejones2023/status/1666533699654148096) | advertise |
@@ -7763,6 +7765,7 @@ Do not create new issue or we will close it as duplicate.
 | [MaxSuwarna@twitter](https://twitter.com/MaxSuwarna/status/1642923878635950080) | advertise |
 | [MAXx256568816@twitter](https://twitter.com/MAXx256568816/status/1588570798264287232) | advertise |
 | [Maxz081@twitter](https://twitter.com/Maxz081/status/1384668008048513026) | advertise |
+| [May2maple@twitter](https://twitter.com/May2maple/status/1707066236784492894) | advertise |
 | [May14396821@twitter](https://twitter.com/May14396821/status/1390941074898620416) | advertise |
 | [Mayada89190021@twitter](https://twitter.com/Mayada89190021/status/1383269107038973959) | advertise |
 | [Mayank24478272@twitter](https://twitter.com/Mayank24478272/status/1402188873757716481) | advertise |
@@ -9636,6 +9639,7 @@ Do not create new issue or we will close it as duplicate.
 | [oliveira_lands@twitter](https://twitter.com/oliveira_lands/status/1529122385504440321) | advertise |
 | [Ollilio1@twitter](https://twitter.com/Ollilio1/status/1403055178790572033) | advertise |
 | [OlTunexcon@twitter](https://twitter.com/OlTunexcon/status/1376669048839282690) | advertise |
+| [olumyson76@twitter](https://twitter.com/olumyson76/status/1707070150870966593) | advertise |
 | [OluTemMarv@twitter](https://twitter.com/OluTemMarv/status/1401280423750209538) | advertise |
 | [olxolxolxolx@twitter](https://twitter.com/olxolxolxolx/status/1607701824961650688) | advertise |
 | [olyKoliM@twitter](https://twitter.com/olyKoliM/status/1617496322927648768) | advertise |
