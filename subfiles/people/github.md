@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Recommendations for Waterfox](https://github.com/WaterfoxCo/Waterfox/issues/3163)
 - [CloudFlare Certificate Revocation Lists not applied correctly](https://github.com/SecOpsNews/news/issues/19373)
 - [CloudFlare Certificate Revocation Lists not applied correctly](https://github.com/hinoshiba/news/issues/4053)
 - [100mb limits on cloudflare](https://github.com/statamic/cms/issues/8769)
