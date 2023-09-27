@@ -4507,6 +4507,7 @@ Do not create new issue or we will close it as duplicate.
 | [HereticCrusader@twitter](https://twitter.com/HereticCrusader/status/1383727868123832321) | advertise |
 | [Herijoko16@twitter](https://twitter.com/Herijoko16/status/1402705618562027526) | advertise |
 | [Hermer01820424@twitter](https://twitter.com/Hermer01820424/status/1612471498668740612) | advertise |
+| [HermiteHybrid@twitter](https://twitter.com/HermiteHybrid/status/1707042853560692977) | advertise |
 | [hero8728@twitter](https://twitter.com/hero8728/status/1548766188746014722) | advertise |
 | [Hero41258950@twitter](https://twitter.com/Hero41258950/status/1394528251637211136) | advertise |
 | [herobadboy_@twitter](https://twitter.com/herobadboy_/status/1483852098202705924) | advertise |
@@ -8195,6 +8196,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mits_Dev@twitter](https://twitter.com/Mits_Dev/status/1392978764636643330) | advertise |
 | [mitulpatel02@twitter](https://twitter.com/mitulpatel02/status/1595014334257958913) | advertise |
 | [MiuMp8@twitter](https://twitter.com/MiuMp8/status/1494009000975040512) | advertise |
+| [MiuT90912757@twitter](https://twitter.com/MiuT90912757/status/1707036872076333298) | advertise |
 | [mivteccc@twitter](https://twitter.com/mivteccc/status/1559254299972014080) | advertise |
 | [MixernoSpace@twitter](https://twitter.com/MixernoSpace/status/1563957409076371460) | advertise |
 | [mixms_@twitter](https://twitter.com/mixms_/status/1390638654486372355) | advertise |
@@ -13532,6 +13534,7 @@ Do not create new issue or we will close it as duplicate.
 | [VarunKa93262715@twitter](https://twitter.com/VarunKa93262715/status/1381181351710187520) | advertise |
 | [varunkrish@twitter](https://twitter.com/varunkrish/status/1503307396239687682) | advertise |
 | [Vas20Mike@twitter](https://twitter.com/Vas20Mike/status/1587221143496392706) | advertise |
+| [VasavaRaje78829@twitter](https://twitter.com/VasavaRaje78829/status/1707045269844447726) | advertise |
 | [VashSta01811715@twitter](https://twitter.com/VashSta01811715/status/1394408365036511233) | advertise |
 | [Vaso64@twitter](https://twitter.com/Vaso64/status/1571901747181850625) | advertise |
 | [Vasu46138364@twitter](https://twitter.com/Vasu46138364/status/1386724549954203648) | advertise |
