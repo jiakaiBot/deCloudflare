@@ -1085,6 +1085,7 @@ Or is this merely a case of simple modesty?
 | Leigh Ann Benicewicz | Comms | https://www.linkedin.com/pub/leigh-benicewicz/14/a6/9b<br>https://twitter.com/LeighBenz |
 | Leland Garofalo | Employee |  |
 | Lennart Espe | Employee |  |
+| Leroy Lasenburg | Employee | |
 | Lesley Lurie | Employee |  |
 | Lex Broekmeulen | Employee |  |
 | Liam Crowter | Technical Support Engineer |  |
@@ -1261,6 +1262,7 @@ Or is this merely a case of simple modesty?
 | Michel Bamps | Employee |  |
 | Michele Yetman | Employee | |
 | Michelle Brown | Accountant |  |
+| Michelle Chen | Employee | |
 | Michelle de Venoge | Employee |  |
 | Michelle Hagan | Employee |  |
 | Michelle Mattern | Employee |  |
@@ -1444,6 +1446,7 @@ Or is this merely a case of simple modesty?
 | Philip Johnson | Employee |  |
 | Phillip Jones | Employee | |
 | Phil Syme | Employee | |
+| Phil Wittig | Employee | |
 | Phi Nguyen | Account Executive |  |
 | Pierce Buxton | Customer Development |  |
 | Pierce Few | Employee |  |
@@ -1628,6 +1631,7 @@ Or is this merely a case of simple modesty?
 | Sebastian McKenzie | JavaScript Engineer |  |
 | Selam Negatu | Employee | |
 | Selina Cho | Employee |  |
+| Seph Zdarko | Employee | |
 | Serena Satyasai | Marketing Lead |  |
 | Serena Shah-Simpson | Employee | |
 | Sergey Nuzhdin | Data Engineer |  |
