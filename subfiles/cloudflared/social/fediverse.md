@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,462 |
 | social | 4,577 |
 | net | 3,788 |
-| org | 2,531 |
+| org | 2,530 |
 | de | 2,356 |
 
 
@@ -2715,7 +2715,6 @@ Here's a list of public Fediverse services.
 | `argentum.social` | No |
 | `argentwolf.org` | No |
 | `argh.club` | No |
-| `arghacademy.org` | Yes |
 | `argia.eus` | No |
 | `argocatania.it` | No |
 | `argon.city` | Yes |
@@ -48602,7 +48601,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,533 |
+| Cloudflare | 13,532 |
 | Normal | 35,021 |
 
 
