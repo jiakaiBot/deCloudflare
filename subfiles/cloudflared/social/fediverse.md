@@ -43509,6 +43509,7 @@ Here's a list of public Fediverse services.
 | `tpaw.org` | Yes |
 | `tpaw.video` | No |
 | `tpc3.org` | Yes |
+| `tpgc.me` | Yes |
 | `tpile.net` | Yes |
 | `tplinkdns.com` | No |
 | `tpo.world` | No |
@@ -48618,7 +48619,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,538 |
+| Cloudflare | 13,539 |
 | Normal | 35,032 |
 
 
