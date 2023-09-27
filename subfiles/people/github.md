@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [IO::Socket::IP configuration failed](https://github.com/ddclient/ddclient/issues/573)
 - [Recommendations for Waterfox](https://github.com/WaterfoxCo/Waterfox/issues/3163)
 - [CloudFlare Certificate Revocation Lists not applied correctly](https://github.com/SecOpsNews/news/issues/19373)
 - [CloudFlare Certificate Revocation Lists not applied correctly](https://github.com/hinoshiba/news/issues/4053)
