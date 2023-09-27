@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-09-27: [Certificate Revocation Lists not applied correctly](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/53kr3wcg9mwc)
 - 2023-09-25: [Issues with Secondary DNS](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7hkhj6myt5c5)
 - 2023-09-25: [Issues with Early Hints](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7n3cbjm73590)
 - 2023-09-24: [Network Performance Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7j0gb2ws3df3)
