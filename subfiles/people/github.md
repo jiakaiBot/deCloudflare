@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Script not working](https://github.com/deniscerri/filma24-cli/issues/2)
+- [CloudFlare Sporadic 5xx errors at certain Cloudflare data centers](https://github.com/hinoshiba/news/issues/4082)
+- [CloudFlare Sporadic 5xx errors at certain Cloudflare data centers](https://github.com/SecOpsNews/news/issues/19402)
 - [Unable to submit edits?](https://github.com/nix-community/wiki/issues/49)
 - [render.com setup not working properly from postman](https://github.com/yjpictures/flask-license-manager/issues/6)
 - [Link to Sugar Pond website is timing out](https://github.com/nbudin/journey/issues/198)
