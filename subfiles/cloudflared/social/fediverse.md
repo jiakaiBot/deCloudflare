@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,463 |
+| com | 7,464 |
 | social | 4,579 |
 | net | 3,791 |
 | org | 2,532 |
@@ -32047,6 +32047,7 @@ Here's a list of public Fediverse services.
 | `oyashirosama.tk` | No |
 | `oyasumi.ski` | Yes |
 | `oyasumi.space` | No |
+| `oyd.app` | No |
 | `oyd.social` | No |
 | `oye.social` | No |
 | `oyl.ink` | Yes |
@@ -35291,6 +35292,7 @@ Here's a list of public Fediverse services.
 | `ravetracer.photography` | No |
 | `raviteja.computer` | Yes |
 | `ravoque.com.br` | No |
+| `rawa.io` | No |
 | `rawe.nl` | No |
 | `rawkode.com` | Yes |
 | `rawkode.dev` | Yes |
@@ -47335,6 +47337,7 @@ Here's a list of public Fediverse services.
 | `xmanifesto.club` | No |
 | `xmastd.info` | No |
 | `xmatrix.com` | No |
+| `xmau.com` | No |
 | `xmcode.pl` | No |
 | `xmeerschweinchen.de` | No |
 | `xmflsct.com` | Yes |
@@ -48620,7 +48623,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,539 |
-| Normal | 35,032 |
+| Normal | 35,035 |
 
 
 </details>
