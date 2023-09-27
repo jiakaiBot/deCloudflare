@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to submit edits?](https://github.com/nix-community/wiki/issues/49)
 - [render.com setup not working properly from postman](https://github.com/yjpictures/flask-license-manager/issues/6)
 - [Link to Sugar Pond website is timing out](https://github.com/nbudin/journey/issues/198)
 - [demo not working, connect timeout](https://github.com/paperless-ngx/paperless-ngx/issues/4279)
