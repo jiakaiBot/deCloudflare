@@ -60,7 +60,6 @@ Here's a list of public Matrix services.
 | hackerspaces.be | No |
 | hackliberty.org | No |
 | matrix.hadoly.fr | No |
-| chatserver.hashi.sbs | Yes |
 | hot-chilli.im | No |
 | synapse.hyteck.de | No |
 | junta.pl | Yes |
@@ -100,7 +99,7 @@ Here's a list of public Matrix services.
 | ungleich.matrix.ungleich.cloud | No |
 | unita.online | No |
 | matrix.unredacted.org | Yes |
-| usesarchbtw.lol | Yes |
+| matrix.usesarchbtw.lol | Yes |
 | matrix.snt.utwente.nl | No |
 | matrix.virto.community | Yes |
 | waffle.tech | No |
@@ -113,8 +112,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 19 |
+| Cloudflare | 18 |
 | Normal | 67 |
 
 
-### 22.1% of public Matrix services are using Cloudflare.
+### 21.2% of public Matrix services are using Cloudflare.
