@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [demo not working, connect timeout](https://github.com/paperless-ngx/paperless-ngx/issues/4279)
 - [IO::Socket::IP configuration failed](https://github.com/ddclient/ddclient/issues/573)
 - [Recommendations for Waterfox](https://github.com/WaterfoxCo/Waterfox/issues/3163)
 - [CloudFlare Certificate Revocation Lists not applied correctly](https://github.com/SecOpsNews/news/issues/19373)
