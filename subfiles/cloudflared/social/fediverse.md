@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,462 |
 | social | 4,577 |
 | net | 3,788 |
-| org | 2,530 |
+| org | 2,531 |
 | de | 2,356 |
 
 
@@ -2715,6 +2715,7 @@ Here's a list of public Fediverse services.
 | `argentum.social` | No |
 | `argentwolf.org` | No |
 | `argh.club` | No |
+| `arghacademy.org` | Yes |
 | `argia.eus` | No |
 | `argocatania.it` | No |
 | `argon.city` | Yes |
@@ -22397,7 +22398,7 @@ Here's a list of public Fediverse services.
 | `kunkel24.de` | No |
 | `kunkunzzz.xyz` | No |
 | `kunveni.net` | No |
-| `kuon.xyz` | Yes |
+| `kuon.xyz` | No |
 | `kuoushi.com` | No |
 | `kuperman.me` | No |
 | `kupo.space` | No |
@@ -48602,7 +48603,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,532 |
-| Normal | 35,021 |
+| Normal | 35,022 |
 
 
 </details>
