@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,462 |
 | social | 4,577 |
 | net | 3,788 |
-| org | 2,530 |
+| org | 2,532 |
 | de | 2,356 |
 
 
@@ -2715,6 +2715,7 @@ Here's a list of public Fediverse services.
 | `argentum.social` | No |
 | `argentwolf.org` | No |
 | `argh.club` | No |
+| `arghacademy.org` | Yes |
 | `argia.eus` | No |
 | `argocatania.it` | No |
 | `argon.city` | Yes |
@@ -7814,7 +7815,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -20448,6 +20449,7 @@ Here's a list of public Fediverse services.
 | `joinmastodon.org` | Yes |
 | `joinpeertubecrypto.org` | No |
 | `joinplu.me` | No |
+| `joinsharkey.org` | No |
 | `jointakahe.org` | Yes |
 | `jojess.net` | No |
 | `joji-ani.me` | Yes |
@@ -48601,7 +48603,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,533 |
+| Cloudflare | 13,535 |
 | Normal | 35,020 |
 
 
