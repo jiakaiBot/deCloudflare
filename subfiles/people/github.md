@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [redgifs auth behind cloudflare challenge](https://github.com/mikf/gallery-dl/issues/4596)
 - [Forced status doesnt work between providers](https://github.com/octodns/octodns/issues/1072)
 - [Script not working](https://github.com/deniscerri/filma24-cli/issues/2)
 - [CloudFlare Sporadic 5xx errors at certain Cloudflare data centers](https://github.com/hinoshiba/news/issues/4082)
