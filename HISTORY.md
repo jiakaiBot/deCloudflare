@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-09-27: [Increased HTTP 5XX Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8f8lttl3gn68)
 - 2023-09-27: [Sporadic 5xx errors at certain Cloudflare data centers](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/q7lt59j6fhmf)
 - 2023-09-27: [Certificate Revocation Lists not applied correctly](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/53kr3wcg9mwc)
 - 2023-09-25: [Issues with Secondary DNS](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7hkhj6myt5c5)
