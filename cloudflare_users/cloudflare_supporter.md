@@ -2667,6 +2667,7 @@ Do not create new issue or we will close it as duplicate.
 | [c_ming_@twitter](https://twitter.com/c_ming_/status/1438859741480902661) | advertise |
 | [D0376752033@twitter](https://twitter.com/D0376752033/status/1589506586124652544) | advertise |
 | [D3dS3cOfficial@twitter](https://twitter.com/D3dS3cOfficial/status/1498098675351961603) | advertise |
+| [d3qube@twitter](https://twitter.com/d3qube/status/1707336756281143540) | advertise |
 | [d3vinlive@twitter](https://twitter.com/d3vinlive/status/1497799551520022531) | advertise |
 | [d7W2kx2ukyk0FhC@twitter](https://twitter.com/d7W2kx2ukyk0FhC/status/1395120949343760384) | advertise |
 | [d40aldo@twitter](https://twitter.com/d40aldo/status/1422681010123247620) | advertise |
@@ -3302,6 +3303,7 @@ Do not create new issue or we will close it as duplicate.
 | [Duykhan72674004@twitter](https://twitter.com/Duykhan72674004/status/1552286002219302913) | advertise |
 | [duykhanh25_01@twitter](https://twitter.com/duykhanh25_01/status/1622990173436014597) | advertise |
 | [DuyKhoi680029@twitter](https://twitter.com/DuyKhoi680029/status/1516811082567852036) | advertise |
+| [duylinhhuynh95@twitter](https://twitter.com/duylinhhuynh95/status/1699728684746441076) | advertise |
 | [DuyLuyen5@twitter](https://twitter.com/DuyLuyen5/status/1562075735770427393) | advertise |
 | [duymanh2kk@twitter](https://twitter.com/duymanh2kk/status/1587814651449921536) | advertise |
 | [DuyNguy87645607@twitter](https://twitter.com/DuyNguy87645607/status/1399734268423639050) | advertise |
