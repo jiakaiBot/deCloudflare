@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,469 |
+| com | 7,470 |
 | social | 4,579 |
 | net | 3,793 |
 | org | 2,532 |
@@ -19926,6 +19926,7 @@ Here's a list of public Fediverse services.
 | `jank.town` | No |
 | `jankambo.net` | No |
 | `janke.biz` | No |
+| `jankjellin.se` | No |
 | `janl.eu` | Yes |
 | `jannas.ch` | Yes |
 | `jannis-goeing.de` | No |
@@ -35299,6 +35300,7 @@ Here's a list of public Fediverse services.
 | `ravenoffice.de` | No |
 | `ravens-nest.io` | Yes |
 | `ravensnest.lgbt` | Yes |
+| `raventhemaker.com` | No |
 | `raveone.org` | No |
 | `ravergram.club` | No |
 | `ravetracer.photography` | No |
@@ -48640,7 +48642,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,538 |
-| Normal | 35,053 |
+| Normal | 35,055 |
 
 
 </details>
