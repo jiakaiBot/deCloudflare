@@ -10789,6 +10789,7 @@ Here's a list of public Fediverse services.
 | `donttrust.me` | No |
 | `donut.quest` | No |
 | `donut0711.ga` | No |
+| `donwatkins.info` | No |
 | `doo.gay` | Yes |
 | `doobie.cafe` | No |
 | `dood.net` | No |
@@ -17998,7 +17999,7 @@ Here's a list of public Fediverse services.
 | `homenet.click` | Yes |
 | `homeofcode.com` | No |
 | `homepc.it` | No |
-| `homeplex.org` | No |
+| `homeplex.org` | Yes |
 | `homeplex.tk` | No |
 | `homeset.de` | No |
 | `hometech.social` | No |
@@ -24913,6 +24914,7 @@ Here's a list of public Fediverse services.
 | `mailtrix.app` | No |
 | `main-angler.de` | No |
 | `main-vision.com` | No |
+| `main.jp` | No |
 | `mainasuk.com` | Yes |
 | `maindreieck-tv.de` | No |
 | `maindron.io` | No |
@@ -48641,8 +48643,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,538 |
-| Normal | 35,055 |
+| Cloudflare | 13,539 |
+| Normal | 35,056 |
 
 
 </details>
