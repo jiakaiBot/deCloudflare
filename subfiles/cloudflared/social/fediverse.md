@@ -5116,7 +5116,7 @@ Here's a list of public Fediverse services.
 | `bnyrdn.net` | No |
 | `boanoiteinternet.com.br` | No |
 | `boanus.net` | No |
-| `boardgames.social` | Yes |
+| `boardgames.social` | No |
 | `boardmad.com` | No |
 | `boating.social` | Yes |
 | `bob.wtf` | No |
@@ -5630,7 +5630,7 @@ Here's a list of public Fediverse services.
 | `briller.one` | No |
 | `brimstor.me` | Yes |
 | `brined.fish` | Yes |
-| `bring.tw` | Yes |
+| `bring.tw` | No |
 | `bringdaruck.us` | No |
 | `brinjal.org` | No |
 | `brioco.art` | No |
@@ -7817,7 +7817,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -21556,6 +21556,7 @@ Here's a list of public Fediverse services.
 | `kianting.info` | No |
 | `kiarc.win` | Yes |
 | `kiasyn.com` | Yes |
+| `kibbutz.gay` | No |
 | `kiber-ogur4ik.space` | Yes |
 | `kiberness.xyz` | No |
 | `kibertonija.in` | No |
@@ -45447,7 +45448,7 @@ Here's a list of public Fediverse services.
 | `vikavo.lt` | No |
 | `viking-gaming.community` | No |
 | `vikings.net` | No |
-| `vikitv.app` | Yes |
+| `vikitv.app` | No |
 | `vikn.se` | No |
 | `vikolabs.ga` | No |
 | `vikshepa.com` | No |
@@ -48622,8 +48623,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,539 |
-| Normal | 35,035 |
+| Cloudflare | 13,535 |
+| Normal | 35,040 |
 
 
 </details>
