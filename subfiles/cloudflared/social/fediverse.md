@@ -15041,6 +15041,7 @@ Here's a list of public Fediverse services.
 | `fuwafuwa.club` | Yes |
 | `fuwafuwa.moe` | No |
 | `fuwamocchi.com` | Yes |
+| `fux.is` | No |
 | `fuyumori.net` | No |
 | `fuyuu.ga` | No |
 | `fuzake.io` | Yes |
@@ -48644,7 +48645,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,539 |
-| Normal | 35,056 |
+| Normal | 35,057 |
 
 
 </details>
