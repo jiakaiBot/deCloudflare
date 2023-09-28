@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,466 |
 | social | 4,579 |
-| net | 3,791 |
+| net | 3,792 |
 | org | 2,532 |
 | de | 2,356 |
 
@@ -16676,6 +16676,7 @@ Here's a list of public Fediverse services.
 | `guictx.com` | No |
 | `guilhermedea.com.br` | No |
 | `guiling.me` | No |
+| `guillaumerouyer.net` | No |
 | `guillemette.social` | No |
 | `guimik.fr` | No |
 | `guin.ovh` | No |
@@ -48628,7 +48629,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,536 |
-| Normal | 35,043 |
+| Normal | 35,044 |
 
 
 </details>
