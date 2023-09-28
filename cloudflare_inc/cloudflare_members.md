@@ -556,6 +556,7 @@ Or is this merely a case of simple modesty?
 | Dmitry Nes | Customer Success Manager |  |
 | Dmitry Vorobev | Software Engineer |  |
 | Dom Batteate | Enterprise Account Manager |  |
+| Dominik Picheta | Employee | |
 | Donald Endres | Systems Reliability Engineer |  |
 | Donald Lew | Employee |  |
 | Don Choo | Relationship Manager |  |
