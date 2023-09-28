@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,466 |
+| com | 7,469 |
 | social | 4,579 |
-| net | 3,792 |
+| net | 3,793 |
 | org | 2,532 |
 | de | 2,356 |
 
@@ -12052,6 +12052,7 @@ Here's a list of public Fediverse services.
 | `enbi.es` | No |
 | `enbies.space` | Yes |
 | `enby-box.de` | No |
+| `enby.army` | No |
 | `enby.city` | No |
 | `enby.club` | No |
 | `enby.life` | No |
@@ -17461,6 +17462,7 @@ Here's a list of public Fediverse services.
 | `helpchangethe.world` | No |
 | `helpfulpodcasters.social` | No |
 | `helpmedog.com` | Yes |
+| `helpsterte.eu` | No |
 | `helse.rocks` | No |
 | `helvede.net` | No |
 | `helvet.online` | No |
@@ -17482,6 +17484,7 @@ Here's a list of public Fediverse services.
 | `hendrikdc.com` | No |
 | `hendrixgames.com` | No |
 | `hendry.id` | Yes |
+| `hendrysadrak.com` | No |
 | `hengsha.host` | No |
 | `henkkalaukka.fi` | No |
 | `henlo.fi` | Yes |
@@ -20027,6 +20030,7 @@ Here's a list of public Fediverse services.
 | `jaye.sh` | No |
 | `jayfreestone.com` | No |
 | `jaykayenn.net` | No |
+| `jaymcooper.me` | No |
 | `jaypee.solutions` | No |
 | `jaysanalysis.com` | No |
 | `jayshome.online` | No |
@@ -22603,6 +22607,7 @@ Here's a list of public Fediverse services.
 | `lab61.org` | No |
 | `labalagan.fr` | No |
 | `labdegato.com` | Yes |
+| `labdevops.click` | Yes |
 | `labki.net` | No |
 | `lablus.com` | No |
 | `labmonkeys.space` | No |
@@ -27115,6 +27120,7 @@ Here's a list of public Fediverse services.
 | `miningpro362.xyz` | No |
 | `miningsunshine.com` | No |
 | `mininull.com` | Yes |
+| `minionflo.net` | No |
 | `minions.social` | No |
 | `minish.org` | No |
 | `miniskey.com` | Yes |
@@ -33297,6 +33303,7 @@ Here's a list of public Fediverse services.
 | `pixelpaperyarn.rocks` | No |
 | `pixelpets.xyz` | No |
 | `pixelpost.photo` | No |
+| `pixelpups.place` | No |
 | `pixelpusher.no` | No |
 | `pixelroiber.de` | No |
 | `pixels.pizza` | No |
@@ -36019,6 +36026,7 @@ Here's a list of public Fediverse services.
 | `rightmouse.click` | No |
 | `rights.ninja` | Yes |
 | `rightto.repair` | No |
+| `rigolo.fun` | No |
 | `riichi.me` | Yes |
 | `riinakw.net` | No |
 | `riinswork.space` | Yes |
@@ -37435,6 +37443,7 @@ Here's a list of public Fediverse services.
 | `schoolidol.club` | No |
 | `schoolidol.pro` | No |
 | `schoollibraries.net` | No |
+| `schoolsquid.xyz` | Yes |
 | `schoolverse.run` | No |
 | `schoonens.blog` | No |
 | `schoonens.nl` | No |
@@ -40747,6 +40756,7 @@ Here's a list of public Fediverse services.
 | `suole.me` | No |
 | `suomi-kp-31.xyz` | No |
 | `suomi.social` | No |
+| `suomigamehub.com` | No |
 | `suorcd.us` | No |
 | `sup39.dev` | Yes |
 | `supebase.com` | Yes |
@@ -42439,6 +42449,7 @@ Here's a list of public Fediverse services.
 | `therealium.xyz` | No |
 | `theredbees.be` | Yes |
 | `theredcaps.net` | Yes |
+| `therednv.com` | No |
 | `thereeferal.com` | No |
 | `theres.life` | No |
 | `theresa.network` | Yes |
@@ -48628,8 +48639,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,536 |
-| Normal | 35,044 |
+| Cloudflare | 13,538 |
+| Normal | 35,053 |
 
 
 </details>
