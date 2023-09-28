@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Proposal: Allow plugins to skip nslookup](https://github.com/troglobit/inadyn/issues/458)
 - [A timeout occurred Error code 524, Unable to setup](https://github.com/petretiandrea/home-assistant-tapo-p100/issues/538)
 - [Cant create task - CVAT served via cloudflare tunnels - Content Mismatch blocks uploads.](https://github.com/opencv/cvat/issues/6917)
 - [redgifs auth behind cloudflare challenge](https://github.com/mikf/gallery-dl/issues/4596)
