@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,464 |
+| com | 7,466 |
 | social | 4,579 |
 | net | 3,791 |
 | org | 2,532 |
@@ -6177,6 +6177,7 @@ Here's a list of public Fediverse services.
 | `calligraphicspace.com` | No |
 | `callingallpapers.com` | Yes |
 | `callistoapp.com` | No |
+| `callmeplayer.com` | No |
 | `callwall.xyz` | Yes |
 | `calmarius.net` | No |
 | `calmdonut.social` | Yes |
@@ -11259,6 +11260,7 @@ Here's a list of public Fediverse services.
 | `dupr.at` | No |
 | `dupreez.id.au` | No |
 | `dur.ch` | No |
+| `durandal.blog` | No |
 | `durch.bayern` | No |
 | `durdle.social` | Yes |
 | `durel.org` | No |
@@ -33390,6 +33392,7 @@ Here's a list of public Fediverse services.
 | `plataformess.org` | No |
 | `platanito.org` | No |
 | `plateia.org` | Yes |
+| `platformgoblin.com` | No |
 | `platformonomics.com` | Yes |
 | `platformsh.site` | No |
 | `platica.io` | No |
@@ -41779,6 +41782,7 @@ Here's a list of public Fediverse services.
 | `teleurstellend.nl` | No |
 | `television.social` | No |
 | `teleyal.blog` | No |
+| `tellco.ca` | Yes |
 | `telmina.com` | No |
 | `telmo.club` | No |
 | `telteltel.com` | No |
@@ -48623,8 +48627,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,535 |
-| Normal | 35,040 |
+| Cloudflare | 13,536 |
+| Normal | 35,043 |
 
 
 </details>
