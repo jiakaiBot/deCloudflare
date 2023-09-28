@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cant create task - CVAT served via cloudflare tunnels - Content Mismatch blocks uploads.](https://github.com/opencv/cvat/issues/6917)
 - [redgifs auth behind cloudflare challenge](https://github.com/mikf/gallery-dl/issues/4596)
 - [Forced status doesnt work between providers](https://github.com/octodns/octodns/issues/1072)
 - [Script not working](https://github.com/deniscerri/filma24-cli/issues/2)
