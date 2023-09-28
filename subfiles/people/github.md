@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [plugins.traefik.io is currently down](https://github.com/traefik/traefik/issues/10146)
 - [Proposal: Allow plugins to skip nslookup](https://github.com/troglobit/inadyn/issues/458)
 - [A timeout occurred Error code 524, Unable to setup](https://github.com/petretiandrea/home-assistant-tapo-p100/issues/538)
 - [Cant create task - CVAT served via cloudflare tunnels - Content Mismatch blocks uploads.](https://github.com/opencv/cvat/issues/6917)
