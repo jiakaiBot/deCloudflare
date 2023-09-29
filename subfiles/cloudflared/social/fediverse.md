@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,472 |
-| social | 4,579 |
+| social | 4,583 |
 | net | 3,793 |
 | org | 2,532 |
 | de | 2,357 |
@@ -3168,6 +3168,7 @@ Here's a list of public Fediverse services.
 | `atikoro.net` | No |
 | `atilla.im` | No |
 | `atiltedtree.dev` | No |
+| `atis.social` | Yes |
 | `atkinson.life` | Yes |
 | `atla.digital` | No |
 | `atlantasoccer.social` | Yes |
@@ -4968,6 +4969,7 @@ Here's a list of public Fediverse services.
 | `blogautismus.de` | No |
 | `blogblop.de` | No |
 | `blogda.ch` | No |
+| `blogdeviajes.com.ar` | No |
 | `blogelist.com` | No |
 | `blogfrei.de` | No |
 | `blogger-mstdn.com` | No |
@@ -12620,6 +12622,7 @@ Here's a list of public Fediverse services.
 | `evln.xyz` | No |
 | `evn.sh` | No |
 | `evolix.org` | No |
+| `evolution.codes` | Yes |
 | `evolved.systems` | Yes |
 | `evolvingdev.io` | No |
 | `evometamecha.com` | No |
@@ -12678,6 +12681,7 @@ Here's a list of public Fediverse services.
 | `exo.icu` | No |
 | `exo.tube` | No |
 | `exode.me` | No |
+| `exodus.wtf` | Yes |
 | `exohunt.space` | No |
 | `exok.com` | No |
 | `exon.name` | Yes |
@@ -18786,6 +18790,7 @@ Here's a list of public Fediverse services.
 | `ikeran.org` | No |
 | `ikesu.social` | Yes |
 | `ikeweb.net` | Yes |
+| `ikkaro.cat` | No |
 | `iklem.fr` | No |
 | `iko.soy` | Yes |
 | `ikubai.club` | No |
@@ -20501,6 +20506,7 @@ Here's a list of public Fediverse services.
 | `jonathancandler.com` | No |
 | `jonathandupre.fr` | No |
 | `jonathanhaack.com` | No |
+| `jonathanmiller.live` | No |
 | `jonathansblog.co.uk` | Yes |
 | `jonathanselea.se` | Yes |
 | `jonathansick.blog` | No |
@@ -26379,6 +26385,7 @@ Here's a list of public Fediverse services.
 | `meeple.social` | No |
 | `meeps.dk` | No |
 | `meerjungfrauengrotte.de` | No |
+| `meetandgreet.at` | No |
 | `meetbeauties.social` | No |
 | `meetfriendly.codes` | Yes |
 | `meetiko.org` | Yes |
@@ -29027,6 +29034,7 @@ Here's a list of public Fediverse services.
 | `naomini.tel` | No |
 | `naotodon.xyz` | No |
 | `naoy.fr` | No |
+| `nap.social` | Yes |
 | `napolisocial.com` | No |
 | `naraku.cc` | Yes |
 | `narang.me` | Yes |
@@ -36458,6 +36466,7 @@ Here's a list of public Fediverse services.
 | `rosseaux.com` | No |
 | `rossi.ax` | Yes |
 | `rosssi.co.uk` | No |
+| `rosti.social` | No |
 | `rosy-colored.space` | Yes |
 | `rot.gives` | No |
 | `roter-kreis.de` | No |
@@ -42713,6 +42722,7 @@ Here's a list of public Fediverse services.
 | `thomaswictor.com` | No |
 | `thomaszwirner.de` | No |
 | `thomcat.rocks` | No |
+| `thomsen-jones.dk` | No |
 | `thon.kr` | Yes |
 | `thopex.de` | No |
 | `thoresson.social` | No |
@@ -45300,6 +45310,7 @@ Here's a list of public Fediverse services.
 | `venturahimself.pro` | No |
 | `venturebeat.com` | Yes |
 | `venturecommunity.tech` | No |
+| `venturom.social` | No |
 | `venue.de` | No |
 | `venzano.fr` | No |
 | `vepta.org` | Yes |
@@ -48654,8 +48665,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,544 |
-| Normal | 35,062 |
+| Cloudflare | 13,548 |
+| Normal | 35,069 |
 
 
 </details>
