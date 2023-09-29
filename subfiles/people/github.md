@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ChatGPT Imported shared url = 403 forbidden?](https://github.com/enricoros/big-agi/issues/165)
 - [plugins.traefik.io is currently down](https://github.com/traefik/traefik/issues/10146)
 - [Proposal: Allow plugins to skip nslookup](https://github.com/troglobit/inadyn/issues/458)
 - [A timeout occurred Error code 524, Unable to setup](https://github.com/petretiandrea/home-assistant-tapo-p100/issues/538)
