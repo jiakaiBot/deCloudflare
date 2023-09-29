@@ -13658,6 +13658,7 @@ Here's a list of public Fediverse services.
 | `fiat-tux.fr` | No |
 | `fib112358.net` | Yes |
 | `fibee.fr` | No |
+| `fiberart.club` | No |
 | `fibercrafts.online` | No |
 | `ficksex.club` | No |
 | `ficosi.de` | No |
@@ -48666,7 +48667,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,548 |
-| Normal | 35,069 |
+| Normal | 35,070 |
 
 
 </details>
