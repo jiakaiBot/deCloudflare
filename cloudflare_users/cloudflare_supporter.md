@@ -4807,6 +4807,7 @@ Do not create new issue or we will close it as duplicate.
 | [HoQuangTrung11@twitter](https://twitter.com/HoQuangTrung11/status/1408451355241443332) | advertise |
 | [Hor82320090@twitter](https://twitter.com/Hor82320090/status/1391247776453861376) | advertise |
 | [horagadiya@twitter](https://twitter.com/horagadiya/status/1512980582242070529) | advertise |
+| [Horimiya_Kyokoo@twitter](https://twitter.com/Horimiya_Kyokoo/status/1707788657640488966) | advertise |
 | [HorrorFacts@twitter](https://twitter.com/HorrorFacts/status/1410625160571465731) | moral (advertise) |
 | [Hosein04883250@twitter](https://twitter.com/Hosein04883250/status/1574669919081431040) | advertise |
 | [Hosein09218052@twitter](https://twitter.com/Hosein09218052/status/1584325089146699777) | advertise |
@@ -8336,6 +8337,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mohamme53581949@twitter](https://twitter.com/Mohamme53581949/status/1386268709912600584) | advertise |
 | [Mohamme83210744@twitter](https://twitter.com/Mohamme83210744/status/1687451270682968064) | advertise |
 | [MohammedDjouhri@twitter](https://twitter.com/MohammedDjouhri/status/1598676498810118149) | advertise |
+| [MOHAMMEDNASHNU9@twitter](https://twitter.com/MOHAMMEDNASHNU9/status/1707734338568122549) | advertise |
 | [mohammedzohair0@twitter](https://twitter.com/mohammedzohair0/status/1585407711000559616) | advertise |
 | [MOHAMUDJAMA143@twitter](https://twitter.com/MOHAMUDJAMA143/status/1578782237981655041) | advertise |
 | [Mohan77793395@twitter](https://twitter.com/Mohan77793395/status/1392786277183803396) | advertise |
@@ -8430,6 +8432,7 @@ Do not create new issue or we will close it as duplicate.
 | [MOZ03650062@twitter](https://twitter.com/MOZ03650062/status/1392652008159518723) | advertise |
 | [MozhidRIslam@twitter](https://twitter.com/MozhidRIslam/status/1705548594416345357) | advertise |
 | [mozilla.org](https://www.mozilla.org/) | ACTION.md:bugzilla |
+| [Mo_enwegi@twitter](https://twitter.com/Mo_enwegi/status/1707779066885984539) | advertise |
 | [mo_m_1234@twitter](https://twitter.com/mo_m_1234/status/1689310613342752768) | advertise |
 | [mo_nhan@twitter](https://twitter.com/mo_nhan/status/1388524071961255936) | advertise |
 | [mo_qa89@twitter](https://twitter.com/mo_qa89/status/1689754621382688769) | advertise |
