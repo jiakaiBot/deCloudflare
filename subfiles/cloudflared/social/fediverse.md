@@ -30430,6 +30430,7 @@ Here's a list of public Fediverse services.
 | `not.one` | No |
 | `nota.live` | No |
 | `nota.pub` | No |
+| `notacri.me` | No |
 | `notactuallyacat.com` | No |
 | `notacult.social` | No |
 | `notadroid.com` | No |
@@ -48645,7 +48646,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,539 |
-| Normal | 35,057 |
+| Normal | 35,058 |
 
 
 </details>
