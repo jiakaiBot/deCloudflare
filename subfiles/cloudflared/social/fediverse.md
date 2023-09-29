@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,472 |
+| com | 7,473 |
 | social | 4,583 |
 | net | 3,793 |
 | org | 2,532 |
@@ -32488,6 +32488,7 @@ Here's a list of public Fediverse services.
 | `paw.best` | No |
 | `paw.cafe` | Yes |
 | `paw.college` | Yes |
+| `paw.im` | No |
 | `paw.photo` | No |
 | `paw.su` | Yes |
 | `pawb.fun` | Yes |
@@ -36088,6 +36089,7 @@ Here's a list of public Fediverse services.
 | `ringtailsoftware.co.uk` | No |
 | `rinkko.moe` | No |
 | `rinma.stream` | No |
+| `rinpuhome.monster` | No |
 | `rinsuki.net` | Yes |
 | `rintik.xyz` | No |
 | `rio.social` | No |
@@ -38080,6 +38082,7 @@ Here's a list of public Fediverse services.
 | `sfcoder.social` | No |
 | `sfconservancy.org` | No |
 | `sffa.community` | No |
+| `sffgeek.com` | Yes |
 | `sffpc.io` | Yes |
 | `sfgreens.org` | No |
 | `sfl.pro.br` | No |
@@ -48666,8 +48669,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,548 |
-| Normal | 35,070 |
+| Cloudflare | 13,549 |
+| Normal | 35,072 |
 
 
 </details>
