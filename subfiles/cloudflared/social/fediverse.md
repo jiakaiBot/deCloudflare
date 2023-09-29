@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,579 |
 | net | 3,793 |
 | org | 2,532 |
-| de | 2,356 |
+| de | 2,357 |
 
 
 - Mastodon, Pleroma, etc
@@ -18599,6 +18599,7 @@ Here's a list of public Fediverse services.
 | `icedtux.no` | No |
 | `icefish.dev` | Yes |
 | `iceorchid.net` | No |
+| `iceshrimp.de` | No |
 | `iceshrimp.social` | No |
 | `icewind.me` | No |
 | `icewind.nl` | No |
@@ -48646,7 +48647,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,539 |
-| Normal | 35,058 |
+| Normal | 35,059 |
 
 
 </details>
