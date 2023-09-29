@@ -2249,6 +2249,7 @@ Here's a list of public Fediverse services.
 | `angusworld.org` | No |
 | `angzarr.me` | No |
 | `anhei-fotografie.de` | No |
+| `anhgelus.world` | Yes |
 | `anhkagi.net` | No |
 | `ani.social` | Yes |
 | `ani.work` | Yes |
@@ -16016,6 +16017,7 @@ Here's a list of public Fediverse services.
 | `glyphicality.tk` | No |
 | `glyphpress.com` | No |
 | `glyphy.com` | Yes |
+| `glytch.dev` | No |
 | `glz.ca` | Yes |
 | `gm-cloud.org.uk` | Yes |
 | `gm666q.space` | No |
@@ -36680,7 +36682,7 @@ Here's a list of public Fediverse services.
 | `rusk.app` | No |
 | `ruslo.pro` | No |
 | `rusoc.xyz` | No |
-| `russ.green` | No |
+| `russ.green` | Yes |
 | `russ.industries` | No |
 | `russ.network` | Yes |
 | `russell.social` | Yes |
@@ -48652,7 +48654,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,542 |
+| Cloudflare | 13,544 |
 | Normal | 35,062 |
 
 
