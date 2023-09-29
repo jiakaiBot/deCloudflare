@@ -7276,6 +7276,7 @@ Do not create new issue or we will close it as duplicate.
 | [lostiris_@twitter](https://twitter.com/lostiris_/status/1585837501478240257) | advertise |
 | [LostMys83196587@twitter](https://twitter.com/LostMys83196587/status/1646377085047386114) | advertise |
 | [lostnaga@twitter](https://twitter.com/lostnaga/status/1699042429113143365) | advertise |
+| [LoThai20776@twitter](https://twitter.com/LoThai20776/status/1707675383867506843) | advertise |
 | [LouchLe1@twitter](https://twitter.com/LouchLe1/status/1519690961575587840) | advertise |
 | [Loui519@twitter](https://twitter.com/Loui519/status/1516215159811112960) | advertise |
 | [Louie_888Fun@twitter](https://twitter.com/Louie_888Fun/status/1516214532519399425) | advertise |
@@ -10697,6 +10698,7 @@ Do not create new issue or we will close it as duplicate.
 | [ra_pha_elo@twitter](https://twitter.com/ra_pha_elo/status/1389335112563757058) | advertise |
 | [RBIN25079279@twitter](https://twitter.com/RBIN25079279/status/1392757432779034624) | advertise |
 | [rccoders@twitter](https://twitter.com/rccoders/status/1525855907405389824) | advertise |
+| [Rcheatle2011@twitter](https://twitter.com/Rcheatle2011/status/1707572298000056375) | advertise |
 | [RChechenov@twitter](https://twitter.com/RChechenov/status/1633240001881186304) | advertise |
 | [Rckilka@twitter](https://twitter.com/Rckilka/status/1658756202514509824) | advertise |
 | [RcPias@twitter](https://twitter.com/RcPias/status/1562039171677847552) | advertise |
@@ -12960,6 +12962,7 @@ Do not create new issue or we will close it as duplicate.
 | [toantoa12376650@twitter](https://twitter.com/toantoa12376650/status/1599204951565422593) | advertise |
 | [toanvm1@twitter](https://twitter.com/toanvm1/status/1619245044099350528) | advertise |
 | [tobeyy____@twitter](https://twitter.com/tobeyy____/status/1496596667268698112) | advertise |
+| [tobt2008@twitter](https://twitter.com/tobt2008/status/1707696689740411042) | advertise |
 | [ToddibooWang@twitter](https://twitter.com/ToddibooWang/status/1393051977341235202) | advertise |
 | [toddLiao469469@twitter](https://twitter.com/toddLiao469469/status/1691795834416025801) | advertise |
 | [toducduy98@twitter](https://twitter.com/toducduy98/status/1388220524753408000) | advertise |
