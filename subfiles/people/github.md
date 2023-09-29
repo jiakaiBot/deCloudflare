@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare blocking access to Discord flatpak](https://github.com/flathub/com.discordapp.Discord/issues/325)
 - [ChatGPT Imported shared url = 403 forbidden?](https://github.com/enricoros/big-agi/issues/165)
 - [plugins.traefik.io is currently down](https://github.com/traefik/traefik/issues/10146)
 - [Proposal: Allow plugins to skip nslookup](https://github.com/troglobit/inadyn/issues/458)
