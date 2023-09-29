@@ -5324,6 +5324,7 @@ Here's a list of public Fediverse services.
 | `boozy.social` | No |
 | `bop-it.com` | Yes |
 | `bopinions.de` | No |
+| `bopjoy.cafe` | No |
 | `bora.army` | Yes |
 | `borahae.love` | No |
 | `borborema.zone` | No |
@@ -48670,7 +48671,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,549 |
-| Normal | 35,072 |
+| Normal | 35,073 |
 
 
 </details>
