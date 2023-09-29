@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,471 |
+| com | 7,472 |
 | social | 4,579 |
 | net | 3,793 |
 | org | 2,532 |
@@ -6744,6 +6744,7 @@ Here's a list of public Fediverse services.
 | `chamochi.club` | Yes |
 | `chamook.lol` | No |
 | `champagne.io` | No |
+| `champion-walker.uk` | No |
 | `championpictures.at` | No |
 | `champis.social` | No |
 | `champlain.cc` | Yes |
@@ -26873,6 +26874,7 @@ Here's a list of public Fediverse services.
 | `microscopium.de` | No |
 | `microsocial.club` | Yes |
 | `microswit.ch` | Yes |
+| `microwaved.club` | No |
 | `midala.net` | No |
 | `midchilda.com` | No |
 | `middangeard.ch` | No |
@@ -33054,6 +33056,7 @@ Here's a list of public Fediverse services.
 | `pidibi.com` | No |
 | `pie.gd` | Yes |
 | `piecemaker.rocks` | Yes |
+| `pieceoplastic.com` | No |
 | `piecewise.im` | No |
 | `piedmontnons.top` | No |
 | `pieho.me` | Yes |
@@ -35574,6 +35577,7 @@ Here's a list of public Fediverse services.
 | `redwoods.dev` | No |
 | `redxen.eu` | No |
 | `redzoo.net` | Yes |
+| `ree.zone` | Yes |
 | `reece.sx` | Yes |
 | `reedyn.com` | Yes |
 | `reekes.org` | Yes |
@@ -43522,7 +43526,7 @@ Here's a list of public Fediverse services.
 | `townsends.online` | No |
 | `townsquareapp.com` | No |
 | `toxeldev.de` | No |
-| `toxicgarbageisland.rocks` | No |
+| `toxicgarbageisland.rocks` | Yes |
 | `toxwat.cz` | No |
 | `toya.blog` | No |
 | `toyamastdon.net` | No |
@@ -48648,8 +48652,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,540 |
-| Normal | 35,060 |
+| Cloudflare | 13,542 |
+| Normal | 35,062 |
 
 
 </details>
