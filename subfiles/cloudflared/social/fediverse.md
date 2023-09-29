@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,470 |
+| com | 7,471 |
 | social | 4,579 |
 | net | 3,793 |
 | org | 2,532 |
@@ -7818,7 +7818,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -14650,6 +14650,7 @@ Here's a list of public Fediverse services.
 | `friends.rodeo` | No |
 | `friends.tennis` | No |
 | `friends.tn` | No |
+| `friendsandfiendsclub.com` | No |
 | `friendsend.org` | No |
 | `friendsni.co` | No |
 | `friendsofbill.social` | Yes |
@@ -30734,6 +30735,7 @@ Here's a list of public Fediverse services.
 | `numinauts.club` | No |
 | `numis.social` | No |
 | `nunes.uk` | Yes |
+| `nunolopes.co` | No |
 | `nunu.blue` | Yes |
 | `nunu.dev` | No |
 | `nupes.social` | No |
@@ -48646,8 +48648,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,539 |
-| Normal | 35,059 |
+| Cloudflare | 13,540 |
+| Normal | 35,060 |
 
 
 </details>
