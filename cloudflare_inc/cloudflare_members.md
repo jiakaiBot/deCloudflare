@@ -1422,6 +1422,7 @@ Or is this merely a case of simple modesty?
 | Paul Taulborg | Employee |  |
 | Paul Underwood | Employee |  |
 | Pavel Odintsov | DNS Engineer | https://twitter.com/odintsov_pavel<br>https://www.stableit.ru/ |
+| Pawel Klimek | Employee | |
 | Pedro Sousa | Employee | |
 | Pei Ching Lee | Employee |  |
 | Pei Ching | Employee |  |
