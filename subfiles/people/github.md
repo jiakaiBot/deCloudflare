@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Ping is not working for websites behind Cloudflare](https://github.com/ajnart/homarr/issues/1444)
 - [CloudFlare forcely enabled ECH for all websites hosted by users with Free Plan](https://github.com/net4people/bbs/issues/292)
 - [Ignore SSHFP record on unsupported providers](https://github.com/StackExchange/dnscontrol/issues/2572)
 - [Typing Astro.locals for Cloudflare runtime](https://github.com/withastro/docs/issues/4874)
