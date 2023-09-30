@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,473 |
+| com | 7,475 |
 | social | 4,584 |
 | net | 3,794 |
-| org | 2,532 |
+| org | 2,534 |
 | de | 2,358 |
 
 
@@ -1309,6 +1309,7 @@ Here's a list of public Fediverse services.
 | `afromunkee.live` | No |
 | `afromunkee.xyz` | No |
 | `afront.org` | No |
+| `afroteca.org` | No |
 | `aftbit.com` | No |
 | `afternoon.chat` | Yes |
 | `afternoonauthor.online` | No |
@@ -3643,7 +3644,7 @@ Here's a list of public Fediverse services.
 | `bach-bellan.fr` | No |
 | `bach.social` | No |
 | `bachaner.fr` | No |
-| `bacherik.eu` | No |
+| `bacherik.eu` | Yes |
 | `bachgau.social` | No |
 | `bachmann.social` | No |
 | `bachmann.wtf` | No |
@@ -6116,6 +6117,7 @@ Here's a list of public Fediverse services.
 | `cafe-nightmist.net` | No |
 | `cafedeslibertes.org` | No |
 | `cafemilk.moe` | Yes |
+| `cafenya.one` | Yes |
 | `cafeobskur.de` | No |
 | `caff.tech` | Yes |
 | `caffeinated.computer` | No |
@@ -7826,7 +7828,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -11398,6 +11400,7 @@ Here's a list of public Fediverse services.
 | `e4le.me` | Yes |
 | `e50.eu` | No |
 | `e5150.fr` | No |
+| `e5n.cc` | Yes |
 | `e6.cx` | Yes |
 | `e621.one` | No |
 | `eachpail.org` | No |
@@ -18797,6 +18800,7 @@ Here's a list of public Fediverse services.
 | `ikesu.social` | Yes |
 | `ikeweb.net` | Yes |
 | `ikkaro.cat` | No |
+| `ikkaro.com` | No |
 | `iklem.fr` | No |
 | `iko.soy` | Yes |
 | `ikubai.club` | No |
@@ -20234,6 +20238,7 @@ Here's a list of public Fediverse services.
 | `jewink.it` | No |
 | `jews.international` | No |
 | `jews.run` | No |
+| `jewy.blog` | Yes |
 | `jeykey.org` | No |
 | `jezdez.social` | No |
 | `jezner.com` | Yes |
@@ -35749,6 +35754,7 @@ Here's a list of public Fediverse services.
 | `rennerocha.com` | Yes |
 | `renoo.in` | Yes |
 | `renshaw.au` | Yes |
+| `rentadrunk.org` | No |
 | `rentfreegames.com` | No |
 | `reoccur.cat` | Yes |
 | `reparierecke.de` | No |
@@ -40122,6 +40128,7 @@ Here's a list of public Fediverse services.
 | `stardust.fm` | No |
 | `stardust.red` | Yes |
 | `stardust.wtf` | No |
+| `stardustrohrig.com` | No |
 | `stareinto.space` | Yes |
 | `starfighter.club` | No |
 | `starfleet-command.org` | No |
@@ -48679,8 +48686,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,553 |
-| Normal | 35,078 |
+| Cloudflare | 13,558 |
+| Normal | 35,080 |
 
 
 </details>
