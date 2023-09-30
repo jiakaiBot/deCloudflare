@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare forcely enabled ECH for all websites hosted by users with Free Plan](https://github.com/net4people/bbs/issues/292)
 - [Ignore SSHFP record on unsupported providers](https://github.com/StackExchange/dnscontrol/issues/2572)
 - [Typing Astro.locals for Cloudflare runtime](https://github.com/withastro/docs/issues/4874)
 - [Cloudflare blocking access to Discord flatpak](https://github.com/flathub/com.discordapp.Discord/issues/325)
