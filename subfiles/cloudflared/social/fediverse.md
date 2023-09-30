@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,476 |
+| com | 7,477 |
 | social | 4,584 |
 | net | 3,794 |
 | org | 2,534 |
@@ -4934,6 +4934,7 @@ Here's a list of public Fediverse services.
 | `blimped.net` | No |
 | `blimps.xyz` | Yes |
 | `blind.lol` | No |
+| `blindcopywriter.com` | No |
 | `blindwith.science` | Yes |
 | `blinry.org` | No |
 | `bliothek.social` | No |
@@ -18330,6 +18331,7 @@ Here's a list of public Fediverse services.
 | `hugopoi.net` | No |
 | `hugot.nl` | No |
 | `hugovr.dev` | Yes |
+| `hugs.lgbt` | No |
 | `hugsandtoots.club` | No |
 | `huideyeren.info` | No |
 | `huijiren.com` | No |
@@ -21503,6 +21505,7 @@ Here's a list of public Fediverse services.
 | `kevin.cl` | Yes |
 | `kevin.paris` | No |
 | `kevindangoor.com` | No |
+| `kevinewalsh.us` | No |
 | `kevinflo.com` | Yes |
 | `kevingimbel.de` | No |
 | `kevinianbryan.online` | No |
@@ -48689,7 +48692,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,560 |
-| Normal | 35,080 |
+| Normal | 35,083 |
 
 
 </details>
