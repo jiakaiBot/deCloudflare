@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [File Editor gives an error "401: Unauthorized"](https://github.com/home-assistant/addons/issues/3239)
 - [Ping is not working for websites behind Cloudflare](https://github.com/ajnart/homarr/issues/1444)
 - [CloudFlare forcely enabled ECH for all websites hosted by users with Free Plan](https://github.com/net4people/bbs/issues/292)
 - [Ignore SSHFP record on unsupported providers](https://github.com/StackExchange/dnscontrol/issues/2572)
