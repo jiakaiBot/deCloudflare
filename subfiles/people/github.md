@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [bing create order error](https://github.com/ccxt/ccxt/issues/19422)
+- [catch and process exceptions and errors](https://github.com/papaj-na-wrotkach/seven-seas-scrapper/issues/1)
 - [File Editor gives an error "401: Unauthorized"](https://github.com/home-assistant/addons/issues/3239)
 - [Ping is not working for websites behind Cloudflare](https://github.com/ajnart/homarr/issues/1444)
 - [CloudFlare forcely enabled ECH for all websites hosted by users with Free Plan](https://github.com/net4people/bbs/issues/292)
