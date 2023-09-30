@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,473 |
 | social | 4,583 |
-| net | 3,793 |
+| net | 3,794 |
 | org | 2,532 |
 | de | 2,357 |
 
@@ -2799,6 +2799,7 @@ Here's a list of public Fediverse services.
 | `arnan.me` | No |
 | `arnaudboutry.art` | No |
 | `arnauld.org` | No |
+| `arnaus.net` | No |
 | `arnemancy.com` | No |
 | `arnep.de` | No |
 | `arnesocial.de` | No |
@@ -7823,7 +7824,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -48670,8 +48671,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,549 |
-| Normal | 35,073 |
+| Cloudflare | 13,548 |
+| Normal | 35,075 |
 
 
 </details>
