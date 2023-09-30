@@ -2141,6 +2141,7 @@ Here's a list of public Fediverse services.
 | `andersonstoolshed.com` | No |
 | `andert.me` | No |
 | `anderthalbkommafuenf.net` | No |
+| `andho.xyz` | Yes |
 | `andi-net.de` | No |
 | `andi1984.social` | No |
 | `andie.club` | No |
@@ -16252,6 +16253,7 @@ Here's a list of public Fediverse services.
 | `gordyboard.com` | No |
 | `gordyf.com` | Yes |
 | `gore.cam` | No |
+| `gore.wtf` | Yes |
 | `goredb.com` | Yes |
 | `goresee.com` | Yes |
 | `goreslut.xyz` | No |
@@ -22693,6 +22695,7 @@ Here's a list of public Fediverse services.
 | `lafronz.com` | Yes |
 | `lafroscia.com` | No |
 | `lag.cx` | Yes |
+| `lag.tf` | Yes |
 | `lagacetasalta.com.ar` | Yes |
 | `lagdecolors.cat` | Yes |
 | `lagg-ev.de` | No |
@@ -48671,7 +48674,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,548 |
+| Cloudflare | 13,551 |
 | Normal | 35,075 |
 
 
