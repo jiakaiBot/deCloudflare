@@ -22315,6 +22315,7 @@ Here's a list of public Fediverse services.
 | `krinetzki.de` | Yes |
 | `krinite.com` | No |
 | `kriom.net` | No |
+| `krisdoc.fr` | No |
 | `krishanv.xyz` | No |
 | `krisstreet.com` | No |
 | `krissy.gay` | No |
@@ -48678,7 +48679,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,552 |
-| Normal | 35,077 |
+| Normal | 35,078 |
 
 
 </details>
