@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,473 |
-| social | 4,583 |
+| social | 4,584 |
 | net | 3,794 |
 | org | 2,532 |
-| de | 2,357 |
+| de | 2,358 |
 
 
 - Mastodon, Pleroma, etc
@@ -2157,6 +2157,7 @@ Here's a list of public Fediverse services.
 | `andreabont.it` | No |
 | `andreafranceschini.org` | No |
 | `andreas-edler.de` | No |
+| `andreas-moor.de` | No |
 | `andreasjr.com` | Yes |
 | `andreaskilgus.de` | No |
 | `andreaslonn.se` | Yes |
@@ -38710,6 +38711,7 @@ Here's a list of public Fediverse services.
 | `sisulink.com` | Yes |
 | `sisulink.social` | Yes |
 | `site.nz` | No |
+| `site404containment.zone` | No |
 | `sitedethib.com` | No |
 | `sitely.cc` | Yes |
 | `siteop.biz` | No |
@@ -45109,6 +45111,7 @@ Here's a list of public Fediverse services.
 | `vaenner.net` | No |
 | `vaguelydamp.com` | No |
 | `vah.sh` | Yes |
+| `vahera.social` | Yes |
 | `vakaruge.com` | No |
 | `vaku.org.ua` | No |
 | `val-sans-retour.fr` | Yes |
@@ -48674,8 +48677,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,551 |
-| Normal | 35,075 |
+| Cloudflare | 13,552 |
+| Normal | 35,077 |
 
 
 </details>
