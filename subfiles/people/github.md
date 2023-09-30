@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Ignore SSHFP record on unsupported providers](https://github.com/StackExchange/dnscontrol/issues/2572)
 - [Typing Astro.locals for Cloudflare runtime](https://github.com/withastro/docs/issues/4874)
 - [Cloudflare blocking access to Discord flatpak](https://github.com/flathub/com.discordapp.Discord/issues/325)
 - [ChatGPT Imported shared url = 403 forbidden?](https://github.com/enricoros/big-agi/issues/165)
