@@ -8321,7 +8321,7 @@ Here's a list of public Fediverse services.
 | `crack.ninja` | Yes |
 | `cracked.ink` | No |
 | `cracker.cloud` | Yes |
-| `crackpipe.org` | No |
+| `crackpipe.org` | Yes |
 | `cracrayol.org` | No |
 | `craddock.org` | No |
 | `craft-beer.space` | No |
@@ -30966,6 +30966,7 @@ Here's a list of public Fediverse services.
 | `obrien.ws` | No |
 | `obrowne.eu` | No |
 | `obscura-px.social` | No |
+| `obscuravpn.io` | No |
 | `obscuritus.ca` | No |
 | `observatory.blog` | No |
 | `observatory.social` | No |
@@ -48691,7 +48692,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,560 |
+| Cloudflare | 13,561 |
 | Normal | 35,083 |
 
 
