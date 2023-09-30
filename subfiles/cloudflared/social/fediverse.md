@@ -46947,6 +46947,7 @@ Here's a list of public Fediverse services.
 | `woodworking.group` | No |
 | `woodynet.net` | No |
 | `woof.group` | No |
+| `woof.place` | Yes |
 | `woof.tech` | No |
 | `woofed.me` | No |
 | `woofy.social` | No |
@@ -48678,7 +48679,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,552 |
+| Cloudflare | 13,553 |
 | Normal | 35,078 |
 
 
