@@ -17,7 +17,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 0ms.dev | Yes |
 | 198.games | No |
 | 23-4.cn | No |
-| 280blocker.net | Yes |
 | 360.cn | No |
 | 4-the.win | Yes |
 | 52306.org | Yes |
@@ -116,7 +115,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ffmuc.net | Yes |
 | filipccz.eu | Yes |
 | flm9.net | No |
-| flwagners.com | No |
 | fomichev.cloud | Yes |
 | foximao.cn | No |
 | freyja.pw | Yes |
@@ -132,7 +130,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | haoxuan.xyz | Yes |
 | hdns.io | No |
 | he.net | No |
-| hinet.net | Yes |
 | hostux.net | No |
 | huque.com | No |
 | iamninja.ru | No |
@@ -141,7 +138,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | iij.jp | Yes |
 | imbuffering.com | Yes |
 | in-berlin.de | No |
-| indust.me | Yes |
 | inria.fr | No |
 | ipv6dns.com | No |
 | irre.li | No |
@@ -224,7 +220,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | panszelescik.pl | Yes |
 | pathofgrace.com | No |
 | persiannit.net | Yes |
-| privado.ovh | Yes |
 | pumpkinvrar.com | No |
 | puredns.org | Yes |
 | qis.io | Yes |
@@ -245,7 +240,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rsaikat.com | No |
 | safeservedns.com | No |
 | safesurfer.io | Yes |
-| samutz.com | No |
 | sarak.as | Yes |
 | seby.io | Yes |
 | sellan.fr | No |
@@ -310,8 +304,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 138 |
-| Normal | 153 |
+| Cloudflare | 134 |
+| Normal | 151 |
 
 
-### 47.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47% of DNS-over-HTTPS (DoH) are using Cloudflare.
