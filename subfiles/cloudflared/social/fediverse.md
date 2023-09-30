@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,475 |
+| com | 7,476 |
 | social | 4,584 |
 | net | 3,794 |
 | org | 2,534 |
@@ -36927,6 +36927,7 @@ Here's a list of public Fediverse services.
 | `saewyc.email` | No |
 | `safaradeg.net` | No |
 | `safebook.space` | No |
+| `safeith.com` | Yes |
 | `safejust.space` | No |
 | `safelight.social` | No |
 | `safernursing.social` | No |
@@ -41864,6 +41865,7 @@ Here's a list of public Fediverse services.
 | `tenfoot.social` | Yes |
 | `tenforward.social` | No |
 | `tengu.ch` | No |
+| `tengu.space` | No |
 | `tenhou.in` | Yes |
 | `tenjin.ch` | No |
 | `tenjuu.net` | No |
@@ -47092,7 +47094,7 @@ Here's a list of public Fediverse services.
 | `writeworks.uk` | No |
 | `writing.exchange` | No |
 | `writing.lol` | No |
-| `writingcircle.us` | No |
+| `writingcircle.us` | Yes |
 | `wrk.ru` | Yes |
 | `wrmstdn.ca` | No |
 | `wrobix.de` | No |
@@ -48686,7 +48688,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,558 |
+| Cloudflare | 13,560 |
 | Normal | 35,080 |
 
 
