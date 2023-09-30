@@ -132,7 +132,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | he.net | No |
 | hostux.net | No |
 | huque.com | No |
-| iamninja.ru | No |
 | ibakerserver.pt | Yes |
 | ihatemy.live | Yes |
 | iij.jp | Yes |
@@ -305,7 +304,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 134 |
-| Normal | 151 |
+| Normal | 150 |
 
 
-### 47% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
