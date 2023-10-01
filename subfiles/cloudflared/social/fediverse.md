@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,478 |
+| com | 7,479 |
 | social | 4,584 |
 | net | 3,794 |
 | org | 2,534 |
@@ -8196,6 +8196,7 @@ Here's a list of public Fediverse services.
 | `cosmere.xyz` | Yes |
 | `cosmic-engineer.com` | No |
 | `cosmic-purple.monster` | No |
+| `cosmic.media` | Yes |
 | `cosmicanimal.jp` | No |
 | `cosmicdust.cloud` | No |
 | `cosmicfir.es` | No |
@@ -20520,6 +20521,7 @@ Here's a list of public Fediverse services.
 | `jonathancandler.com` | No |
 | `jonathandupre.fr` | No |
 | `jonathanhaack.com` | No |
+| `jonathanhaslett.com` | Yes |
 | `jonathanmiller.live` | No |
 | `jonathansblog.co.uk` | Yes |
 | `jonathanselea.se` | Yes |
@@ -48695,7 +48697,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,561 |
+| Cloudflare | 13,563 |
 | Normal | 35,086 |
 
 
