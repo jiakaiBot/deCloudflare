@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,479 |
+| com | 7,480 |
 | social | 4,584 |
-| net | 3,794 |
+| net | 3,796 |
 | org | 2,534 |
 | de | 2,358 |
 
@@ -9995,6 +9995,7 @@ Here's a list of public Fediverse services.
 | `despora.de` | No |
 | `dess.ga` | No |
 | `dessert.coffee` | No |
+| `desta.cc` | No |
 | `destabled.com` | Yes |
 | `destinovate.com` | Yes |
 | `destituent.social` | Yes |
@@ -13229,6 +13230,7 @@ Here's a list of public Fediverse services.
 | `fedi.games` | No |
 | `fedi.gay` | Yes |
 | `fedi.io` | No |
+| `fedi.lat` | No |
 | `fedi.li` | No |
 | `fedi.life` | No |
 | `fedi.live` | No |
@@ -13739,6 +13741,7 @@ Here's a list of public Fediverse services.
 | `fim.social` | Yes |
 | `fimidi.com` | No |
 | `fimpern.de` | No |
+| `fimsch.net` | No |
 | `final.li` | No |
 | `final.town` | No |
 | `finalesocial.com` | No |
@@ -21450,6 +21453,7 @@ Here's a list of public Fediverse services.
 | `kensimon.io` | No |
 | `kent-dobias.com` | No |
 | `kentaro1043.com` | Yes |
+| `kepakovi.cz` | No |
 | `kephale.net` | Yes |
 | `ker.gay` | No |
 | `kerala.party` | Yes |
@@ -36350,6 +36354,7 @@ Here's a list of public Fediverse services.
 | `rogers-net.com` | Yes |
 | `rogers.plus` | No |
 | `rogersfam.co` | Yes |
+| `rogerzhang.com` | No |
 | `roggenkamp.social` | No |
 | `rogue-net.work` | No |
 | `rogue-scholar.social` | No |
@@ -43793,6 +43798,7 @@ Here's a list of public Fediverse services.
 | `trigaux.me` | No |
 | `triggeredtux.com` | No |
 | `triggerhub.ru` | No |
+| `triggeron.net` | No |
 | `triggerphra.se` | No |
 | `trigonoretrism.com` | Yes |
 | `trillion.city` | No |
@@ -48698,7 +48704,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,563 |
-| Normal | 35,086 |
+| Normal | 35,092 |
 
 
 </details>
