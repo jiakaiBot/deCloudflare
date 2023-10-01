@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,481 |
+| com | 7,482 |
 | social | 4,584 |
 | net | 3,797 |
 | org | 2,534 |
@@ -31324,7 +31324,7 @@ Here's a list of public Fediverse services.
 | `omaelse.de` | No |
 | `omaera.org` | No |
 | `omani.social` | Yes |
-| `omanko.porn` | Yes |
+| `omanko.porn` | No |
 | `omar.website` | No |
 | `omaramin.me` | No |
 | `omarpolo.com` | No |
@@ -36485,6 +36485,7 @@ Here's a list of public Fediverse services.
 | `rosei.love` | No |
 | `rosematcha.party` | Yes |
 | `rosemont.cloud` | Yes |
+| `rosenberg-watt.com` | No |
 | `rosenha.in` | No |
 | `roseraie.me` | No |
 | `rosettast0ned.com` | No |
@@ -48709,8 +48710,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,567 |
-| Normal | 35,094 |
+| Cloudflare | 13,566 |
+| Normal | 35,096 |
 
 
 </details>
