@@ -41445,6 +41445,7 @@ Here's a list of public Fediverse services.
 | `tanti.org.uk` | No |
 | `tantor.online` | No |
 | `tantrum.org` | No |
+| `tanu.lol` | Yes |
 | `tanudon.com` | No |
 | `tanukey.chat` | Yes |
 | `tanukey.work` | Yes |
@@ -48694,7 +48695,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,560 |
+| Cloudflare | 13,561 |
 | Normal | 35,086 |
 
 
