@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,480 |
 | social | 4,584 |
-| net | 3,796 |
+| net | 3,797 |
 | org | 2,534 |
 | de | 2,358 |
 
@@ -15929,6 +15929,7 @@ Here's a list of public Fediverse services.
 | `glasgownet.com` | No |
 | `glasnost.se` | No |
 | `glaspest.nu` | No |
+| `glass-lab.net` | Yes |
 | `glasserholdings.eu` | No |
 | `glasses.moe` | Yes |
 | `glasseyeballs.com` | No |
@@ -33655,6 +33656,7 @@ Here's a list of public Fediverse services.
 | `podfriend.com` | No |
 | `podil.club` | No |
 | `podjournal.de` | No |
+| `podkast.cloud` | No |
 | `podkast.de` | No |
 | `podkos.xyz` | No |
 | `podlibre.fr` | No |
@@ -47721,6 +47723,7 @@ Here's a list of public Fediverse services.
 | `yakshed.org` | Yes |
 | `yakult.style` | No |
 | `yakumo.foundation` | Yes |
+| `yakumo.moe` | Yes |
 | `yakumo.tech` | No |
 | `yakyudon.net` | Yes |
 | `yalcinseckin.eu` | No |
@@ -48703,8 +48706,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,563 |
-| Normal | 35,092 |
+| Cloudflare | 13,565 |
+| Normal | 35,093 |
 
 
 </details>
