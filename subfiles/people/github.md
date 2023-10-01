@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [npm tarball url](https://github.com/nvm-sh/nvm/issues/3213)
 - [-jsonl option with -headless option results in error](https://github.com/projectdiscovery/katana/issues/611)
 - [bing create order error](https://github.com/ccxt/ccxt/issues/19422)
 - [catch and process exceptions and errors](https://github.com/papaj-na-wrotkach/seven-seas-scrapper/issues/1)
