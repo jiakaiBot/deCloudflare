@@ -4806,7 +4806,7 @@ Here's a list of public Fediverse services.
 | `blackbirb.dev` | Yes |
 | `blackblock.rocks` | No |
 | `blackblocpolitics.com` | No |
-| `blackbrigade.org` | No |
+| `blackbrigade.org` | Yes |
 | `blackcanediary.com` | No |
 | `blackcat.ca` | Yes |
 | `blackcat.cx` | Yes |
@@ -33418,6 +33418,7 @@ Here's a list of public Fediverse services.
 | `planet.moe` | Yes |
 | `planetai.re` | No |
 | `planetaludico.com` | No |
+| `planetary.coop` | No |
 | `planetboca.com` | No |
 | `planetearth.social` | No |
 | `planeteers.social` | No |
@@ -46395,6 +46396,7 @@ Here's a list of public Fediverse services.
 | `welly.social` | No |
 | `weloveautomation.xyz` | Yes |
 | `welovedevs.com` | Yes |
+| `weloveit.info` | No |
 | `welovela.in` | No |
 | `welovepoetto.com` | No |
 | `welsea.site` | Yes |
@@ -48706,8 +48708,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,565 |
-| Normal | 35,093 |
+| Cloudflare | 13,566 |
+| Normal | 35,094 |
 
 
 </details>
