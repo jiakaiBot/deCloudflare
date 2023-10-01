@@ -7374,6 +7374,7 @@ Do not create new issue or we will close it as duplicate.
 | [LuLay33753810@twitter](https://twitter.com/LuLay33753810/status/1391572999329882112) | advertise |
 | [lulledinguilt@twitter](https://twitter.com/lulledinguilt/status/1620777569867161600) | advertise |
 | [LuMin67718407@twitter](https://twitter.com/LuMin67718407/status/1394701176998817792) | advertise |
+| [lumivarathomas@twitter](https://twitter.com/lumivarathomas/status/1708265194034475401) | advertise |
 | [Lun34192472@twitter](https://twitter.com/Lun34192472/status/1398103398453440512) | advertise |
 | [lun53738567@twitter](https://twitter.com/lun53738567/status/1396546452512407552) | advertise |
 | [Lun71377013@twitter](https://twitter.com/Lun71377013/status/1401608963292946436) | advertise |
