@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,482 |
 | social | 4,584 |
 | net | 3,797 |
-| org | 2,534 |
+| org | 2,535 |
 | de | 2,358 |
 
 
@@ -22804,6 +22804,7 @@ Here's a list of public Fediverse services.
 | `lamp.institute` | No |
 | `lamp.wtf` | No |
 | `lanandmedia.org` | No |
+| `lanbroa.eus` | No |
 | `lancaster.ac.uk` | No |
 | `lancasterpa.social` | No |
 | `lancetia.day` | Yes |
@@ -23461,6 +23462,7 @@ Here's a list of public Fediverse services.
 | `lewy.world` | Yes |
 | `lex-blog.eu` | No |
 | `lexa.red` | No |
+| `lexacon.org` | No |
 | `lexcom.cloud` | Yes |
 | `lexevo.net` | Yes |
 | `lexi-hexi.eu` | No |
@@ -48711,7 +48713,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,566 |
-| Normal | 35,096 |
+| Normal | 35,098 |
 
 
 </details>
