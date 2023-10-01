@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [-jsonl option with -headless option results in error](https://github.com/projectdiscovery/katana/issues/611)
 - [bing create order error](https://github.com/ccxt/ccxt/issues/19422)
 - [catch and process exceptions and errors](https://github.com/papaj-na-wrotkach/seven-seas-scrapper/issues/1)
 - [File Editor gives an error "401: Unauthorized"](https://github.com/home-assistant/addons/issues/3239)
