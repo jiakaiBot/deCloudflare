@@ -7829,7 +7829,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9920,6 +9920,7 @@ Here's a list of public Fediverse services.
 | `deptagency.com` | Yes |
 | `depth.li` | Yes |
 | `depucelage.xyz` | No |
+| `dequbed.space` | No |
 | `dequis.org` | Yes |
 | `der-gedankenleser.info` | No |
 | `der-postillon.com` | No |
@@ -39349,7 +39350,7 @@ Here's a list of public Fediverse services.
 | `sociallydistant.social` | Yes |
 | `sociallydistantgame.com` | Yes |
 | `sociallysour.org` | No |
-| `socialmast.xyz` | Yes |
+| `socialmast.xyz` | No |
 | `socialmatrix.us` | No |
 | `socialnet.tech` | No |
 | `socialnetwork.ninja` | No |
@@ -48692,8 +48693,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,561 |
-| Normal | 35,083 |
+| Cloudflare | 13,559 |
+| Normal | 35,086 |
 
 
 </details>
