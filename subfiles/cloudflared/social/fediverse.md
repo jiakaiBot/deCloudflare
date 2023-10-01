@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,480 |
+| com | 7,481 |
 | social | 4,584 |
 | net | 3,797 |
 | org | 2,534 |
@@ -39395,6 +39395,7 @@ Here's a list of public Fediverse services.
 | `sociamodo.com` | No |
 | `societal.co` | Yes |
 | `societyofrafa.com` | No |
+| `socionarratology.com` | Yes |
 | `sociopak.com` | No |
 | `sociopathic.ca` | Yes |
 | `socis.ax` | Yes |
@@ -48708,7 +48709,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,566 |
+| Cloudflare | 13,567 |
 | Normal | 35,094 |
 
 
