@@ -9512,7 +9512,7 @@ Here's a list of public Fediverse services.
 | `dax.moe` | No |
 | `dayaman.work` | No |
 | `daydream.cafe` | No |
-| `daydream.ink` | No |
+| `daydream.ink` | Yes |
 | `dayl.in` | No |
 | `daytongang.social` | No |
 | `dayvancowboy.net` | Yes |
@@ -19678,6 +19678,7 @@ Here's a list of public Fediverse services.
 | `itslaura.eu` | No |
 | `itslit.bet` | Yes |
 | `itsme.lgbt` | No |
+| `itsmf.online` | No |
 | `itsmy.app` | Yes |
 | `itsmy.social` | Yes |
 | `itsnero.com` | Yes |
@@ -29297,6 +29298,7 @@ Here's a list of public Fediverse services.
 | `neighborli.xyz` | Yes |
 | `neilcastelino.com` | Yes |
 | `neilorangepeel.com` | No |
+| `neilturner.me.uk` | No |
 | `neilzone.co.uk` | No |
 | `nein.club` | No |
 | `neither-nor.net` | No |
@@ -31761,7 +31763,7 @@ Here's a list of public Fediverse services.
 | `orko.it` | No |
 | `orkpiraten.de` | No |
 | `orkz.net` | No |
-| `orlovsky.online` | No |
+| `orlovsky.online` | Yes |
 | `ornella.xyz` | Yes |
 | `orng.social` | Yes |
 | `ornitologia.social` | No |
@@ -48712,7 +48714,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,566 |
+| Cloudflare | 13,568 |
 | Normal | 35,098 |
 
 
