@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,477 |
+| com | 7,478 |
 | social | 4,584 |
 | net | 3,794 |
 | org | 2,534 |
@@ -21735,7 +21735,7 @@ Here's a list of public Fediverse services.
 | `kira-sei.com` | Yes |
 | `kira.zone` | Yes |
 | `kiraako.work` | No |
-| `kiracollie.dog` | No |
+| `kiracollie.dog` | Yes |
 | `kirakiratter.com` | Yes |
 | `kiran.dog` | Yes |
 | `kiranshila.com` | No |
@@ -42831,6 +42831,7 @@ Here's a list of public Fediverse services.
 | `tictoc.social` | No |
 | `tiddies.pro` | No |
 | `tiddy.city` | Yes |
+| `tiddyhonkers.com` | No |
 | `tide.tk` | No |
 | `tidusfox9.online` | No |
 | `tidy.camp` | No |
@@ -48693,7 +48694,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,559 |
+| Cloudflare | 13,560 |
 | Normal | 35,086 |
 
 
