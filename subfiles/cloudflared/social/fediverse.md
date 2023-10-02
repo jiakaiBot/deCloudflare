@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,483 |
+| com | 7,484 |
 | social | 4,586 |
 | net | 3,797 |
 | org | 2,535 |
@@ -11336,6 +11336,7 @@ Here's a list of public Fediverse services.
 | `dygytally.academy` | No |
 | `dyke.space` | No |
 | `dylanh.dev` | Yes |
+| `dylanjava.com` | Yes |
 | `dylanon.com` | Yes |
 | `dylanvanassche.be` | No |
 | `dym.sh` | Yes |
@@ -32233,7 +32234,7 @@ Here's a list of public Fediverse services.
 | `pajd.fr` | No |
 | `pajd.org` | No |
 | `pakaben.cf` | No |
-| `paktodon.asia` | No |
+| `paktodon.asia` | Yes |
 | `pal-mate.jp` | Yes |
 | `pal.camp` | Yes |
 | `pal.icu` | No |
@@ -48719,8 +48720,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,567 |
-| Normal | 35,104 |
+| Cloudflare | 13,569 |
+| Normal | 35,103 |
 
 
 </details>
