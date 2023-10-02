@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,482 |
-| social | 4,584 |
+| social | 4,585 |
 | net | 3,797 |
 | org | 2,535 |
 | de | 2,358 |
@@ -14863,7 +14863,7 @@ Here's a list of public Fediverse services.
 | `fukahire.tokyo` | Yes |
 | `fukeaka.ink` | No |
 | `fukka.co.uk` | No |
-| `fukn.jp` | Yes |
+| `fukn.jp` | No |
 | `fuko.dev` | Yes |
 | `fukt.lol` | Yes |
 | `fuku.gq` | No |
@@ -20636,6 +20636,7 @@ Here's a list of public Fediverse services.
 | `josz.space` | No |
 | `jotboard.info` | No |
 | `jotoma.de` | No |
+| `jott-emm.social` | No |
 | `journa.host` | No |
 | `journalism.social` | No |
 | `journalist.social` | Yes |
@@ -48714,8 +48715,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,568 |
-| Normal | 35,098 |
+| Cloudflare | 13,567 |
+| Normal | 35,100 |
 
 
 </details>
