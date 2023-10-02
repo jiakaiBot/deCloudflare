@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [www version of link doesn't load](https://github.com/andrewbolster/andrewbolster.github.io/issues/12)
 - [The blocking of 1.1.1.1 in China, starting from 2023-10-01](https://github.com/net4people/bbs/issues/295)
 - [npm tarball url](https://github.com/nvm-sh/nvm/issues/3213)
 - [-jsonl option with -headless option results in error](https://github.com/projectdiscovery/katana/issues/611)
