@@ -44,7 +44,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | b612.me | Yes |
 | bancuh.com | No |
 | bebasid.com | Yes |
-| bedro.cloud | No |
 | belnet.be | No |
 | benpro.fr | Yes |
 | bit-trail.nl | No |
@@ -206,7 +205,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ns3.com | No |
 | ns3.cx | No |
 | ns3.link | No |
-| nullgate.net | No |
 | occ.top | Yes |
 | ofdoom.net | Yes |
 | onedns.cc | Yes |
@@ -272,7 +270,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | timmes.nl | No |
 | tk31z.com | Yes |
 | tls-data.de | No |
-| tracker.ink | No |
 | tu-bs.de | No |
 | twnic.tw | No |
 | unstoppable.io | Yes |
@@ -303,7 +300,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 133 |
-| Normal | 150 |
+| Normal | 147 |
 
 
-### 47% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
