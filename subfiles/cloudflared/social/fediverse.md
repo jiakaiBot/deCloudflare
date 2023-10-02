@@ -10567,7 +10567,7 @@ Here's a list of public Fediverse services.
 | `dkub.dev` | Yes |
 | `dkwall.social` | Yes |
 | `dkxpress.dk` | No |
-| `dlants.me` | No |
+| `dlants.me` | Yes |
 | `dlazaro.ca` | Yes |
 | `dlct.ca` | No |
 | `dlf.social` | No |
@@ -10722,6 +10722,7 @@ Here's a list of public Fediverse services.
 | `dokushonary.com` | No |
 | `dolciss.net` | Yes |
 | `dolec.fr` | No |
+| `dolezal.one` | No |
 | `doll.moe` | No |
 | `doll.social` | No |
 | `dollarvigilante.tv` | Yes |
@@ -11449,6 +11450,7 @@ Here's a list of public Fediverse services.
 | `eastman.nz` | No |
 | `eastman.tech` | No |
 | `eastmetrocommunitymusic.org` | No |
+| `eastriver.club` | Yes |
 | `easy-mastodon.de` | Yes |
 | `easya.solutions` | No |
 | `easydns.ca` | No |
@@ -48729,7 +48731,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,574 |
+| Cloudflare | 13,576 |
 | Normal | 35,107 |
 
 
