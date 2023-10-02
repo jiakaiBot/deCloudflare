@@ -272,7 +272,7 @@ Here's a list of breached sites.
 | HDBFinancialServices (HDB Financial Services) | 1,658,750 | Yes |
 | HIAPK (HiAPK) | 13,873,674 | No |
 | HLTV | 611,070 | Yes |
-| HTCMania (HTC Mania) | 1,488,089 | No |
+| HTCMania (HTC Mania) | 1,488,089 | Yes |
 | HTHStudios (HTH Studios) | 411,755 | No |
 | HackForums (hackforums.net) | 191,540 | Yes |
 | HackingTeam (Hacking Team) | 32,310 | Yes |
@@ -287,6 +287,7 @@ Here's a list of breached sites.
 | HomeChef (Home Chef) | 8,815,692 | Yes |
 | HongFire | 999,991 | No |
 | HookersNL (Hookers.nl) | 290,955 | Yes |
+| HorseIsle (Horse Isle) | 27,786 | No |
 | HoundDawgs | 45,701 | No |
 | Houzz | 48,881,308 | Yes |
 | Hub4Tech | 36,916 | No |
@@ -694,10 +695,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 394 | 4,443,109,847 |
-| Normal | 279 | 4,492,783,920 |
+| Cloudflare | 395 | 4,444,597,936 |
+| Normal | 279 | 4,491,323,617 |
 
 
 
-### 58.5% of breached sites (pwned sites) are using Cloudflare.
+### 58.6% of breached sites (pwned sites) are using Cloudflare.
 ### 49.7% of leaked accounts are on Cloudflare sites.
