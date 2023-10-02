@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,484 |
 | social | 4,586 |
-| net | 3,797 |
-| org | 2,535 |
+| net | 3,799 |
+| org | 2,538 |
 | de | 2,359 |
 
 
@@ -2068,6 +2068,7 @@ Here's a list of public Fediverse services.
 | `anakmanis.com` | Yes |
 | `anakut.org` | Yes |
 | `analogdreams.blog` | No |
+| `analogmind.org` | No |
 | `analogphoto.social` | No |
 | `analogue.social` | No |
 | `ananace.dev` | No |
@@ -7686,6 +7687,7 @@ Here's a list of public Fediverse services.
 | `codevoid.de` | No |
 | `codeword.info` | Yes |
 | `codi.moe` | No |
+| `codice-rosso.net` | No |
 | `codigoaberto.pt` | Yes |
 | `codigoparallevar.com` | No |
 | `codingbear.live` | Yes |
@@ -21982,6 +21984,7 @@ Here's a list of public Fediverse services.
 | `knowingart.com` | No |
 | `knowledgehub.social` | No |
 | `knowltonwx.com` | Yes |
+| `known.directory` | Yes |
 | `knowscore.de` | No |
 | `knowscore.social` | No |
 | `knowsima.dog` | Yes |
@@ -24529,6 +24532,7 @@ Here's a list of public Fediverse services.
 | `lumey.dev` | Yes |
 | `lumi.host` | No |
 | `lumikko.dev` | No |
+| `lumiose.city` | No |
 | `lumirad.io` | Yes |
 | `lumos.network` | No |
 | `lumpen.work` | No |
@@ -35935,6 +35939,7 @@ Here's a list of public Fediverse services.
 | `revertron.com` | No |
 | `revilla.pe` | No |
 | `revillas.es` | Yes |
+| `revpub.net` | No |
 | `revscottwells.com` | No |
 | `revstance.network` | No |
 | `revue-farouest.fr` | No |
@@ -36036,6 +36041,7 @@ Here's a list of public Fediverse services.
 | `richard-dern.fr` | No |
 | `richard.directory` | No |
 | `richardandbethany.xyz` | No |
+| `richardbloomfield.blog` | Yes |
 | `richarddegenne.fr` | No |
 | `richardhall.online` | No |
 | `richardhickson.com` | Yes |
@@ -38702,6 +38708,7 @@ Here's a list of public Fediverse services.
 | `singsingsing.party` | Yes |
 | `singularity-node.net` | No |
 | `singularity.sh` | No |
+| `singularpoint.cc` | Yes |
 | `sinigr.space` | No |
 | `sining.io` | No |
 | `sink.love` | Yes |
@@ -41039,7 +41046,7 @@ Here's a list of public Fediverse services.
 | `swlr.net` | No |
 | `swmastodon.com` | Yes |
 | `swmd.info` | No |
-| `swmnu.net` | No |
+| `swmnu.net` | Yes |
 | `swoods.net` | No |
 | `swooret.com` | Yes |
 | `swop.social` | No |
@@ -42360,6 +42367,7 @@ Here's a list of public Fediverse services.
 | `thehollywoodcarshow.com` | No |
 | `thehonestdev.com` | Yes |
 | `thehub.su` | No |
+| `thehugoawards.org` | No |
 | `theiceshelf.com` | No |
 | `theicon.stream` | No |
 | `theindependentwhig.com` | Yes |
@@ -46614,7 +46622,7 @@ Here's a list of public Fediverse services.
 | `wiedenhoeft.net` | Yes |
 | `wiegandtech.net` | Yes |
 | `wiegehts.cloud` | No |
-| `wien.rocks` | No |
+| `wien.rocks` | Yes |
 | `wienermobile.rentals` | No |
 | `wieners.lol` | Yes |
 | `wierenga.net` | No |
@@ -47141,6 +47149,7 @@ Here's a list of public Fediverse services.
 | `wsb.social` | No |
 | `wsf2021.info` | No |
 | `wsforum.net` | No |
+| `wsfs.org` | No |
 | `wsmedia.org` | Yes |
 | `wsoft.ws` | Yes |
 | `wsoom.social` | No |
@@ -48720,8 +48729,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,569 |
-| Normal | 35,103 |
+| Cloudflare | 13,574 |
+| Normal | 35,107 |
 
 
 </details>
