@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,482 |
-| social | 4,585 |
+| com | 7,483 |
+| social | 4,586 |
 | net | 3,797 |
 | org | 2,535 |
-| de | 2,358 |
+| de | 2,359 |
 
 
 - Mastodon, Pleroma, etc
@@ -14601,6 +14601,7 @@ Here's a list of public Fediverse services.
 | `freshice.org` | No |
 | `freshies.community` | No |
 | `freshman.dev` | No |
+| `freude.social` | No |
 | `freumh.org` | No |
 | `freundica.de` | No |
 | `freundliches.de` | Yes |
@@ -19868,6 +19869,7 @@ Here's a list of public Fediverse services.
 | `jagow15.org` | Yes |
 | `jagtalon.com` | Yes |
 | `jahait.tk` | No |
+| `jahoo.me` | No |
 | `jai.cat` | Yes |
 | `jaiden.pw` | Yes |
 | `jailbreak.chat` | No |
@@ -31709,6 +31711,7 @@ Here's a list of public Fediverse services.
 | `ord.social` | No |
 | `ordchaos.top` | Yes |
 | `ordeawing.fr` | No |
+| `order-of-gathering.de` | No |
 | `order-order.com` | No |
 | `order.life` | No |
 | `ordim.info` | No |
@@ -41291,6 +41294,7 @@ Here's a list of public Fediverse services.
 | `taggit.me` | Yes |
 | `taglar.net` | Yes |
 | `tagpro.lol` | No |
+| `tagtagtagmag.com` | No |
 | `tahomaphoto.net` | No |
 | `tahvok.com` | Yes |
 | `taichan.site` | Yes |
@@ -48716,7 +48720,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,567 |
-| Normal | 35,100 |
+| Normal | 35,104 |
 
 
 </details>
