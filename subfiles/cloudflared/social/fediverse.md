@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,484 |
 | social | 4,586 |
-| net | 3,799 |
+| net | 3,800 |
 | org | 2,538 |
 | de | 2,359 |
 
@@ -17520,6 +17520,7 @@ Here's a list of public Fediverse services.
 | `hengsha.host` | No |
 | `henkkalaukka.fi` | No |
 | `henlo.fi` | Yes |
+| `henning-uhle.eu` | No |
 | `henny.mobi` | No |
 | `henrick.co` | No |
 | `henrick.me` | No |
@@ -30971,6 +30972,7 @@ Here's a list of public Fediverse services.
 | `obey.social` | Yes |
 | `obeya.social` | No |
 | `obeygravity.de` | No |
+| `obh8.net` | No |
 | `obj.my.id` | Yes |
 | `objc.io` | No |
 | `objc.social` | No |
@@ -44831,6 +44833,7 @@ Here's a list of public Fediverse services.
 | `unooverse.com` | No |
 | `unordentlich.space` | No |
 | `unorder.xyz` | No |
+| `unosw.jp` | Yes |
 | `unperson.us` | No |
 | `unplugd.info` | No |
 | `unpluggedrva.com` | No |
@@ -48731,8 +48734,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,576 |
-| Normal | 35,107 |
+| Cloudflare | 13,577 |
+| Normal | 35,109 |
 
 
 </details>
