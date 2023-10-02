@@ -5491,6 +5491,7 @@ Do not create new issue or we will close it as duplicate.
 | [Jackjac22577839@twitter](https://twitter.com/Jackjac22577839/status/1656127241498292225) | advertise |
 | [Jackjun53391478@twitter](https://twitter.com/Jackjun53391478/status/1399663365056655361) | advertise |
 | [jackk53102780@twitter](https://twitter.com/jackk53102780/status/1565194405090574338) | advertise |
+| [Jackkil29694377@twitter](https://twitter.com/Jackkil29694377/status/1708872825162129672) | advertise |
 | [jackm19951@twitter](https://twitter.com/jackm19951/status/1636880936368308228) | advertise |
 | [Jacksg79@twitter](https://twitter.com/Jacksg79/status/1565040464893423616) | advertise |
 | [Jacksmi98828222@twitter](https://twitter.com/Jacksmi98828222/status/1571243506710249473) | advertise |
@@ -13619,6 +13620,7 @@ Do not create new issue or we will close it as duplicate.
 | [vian_kio@twitter](https://twitter.com/vian_kio/status/1404827196846317571) | advertise |
 | [viccastillejos@twitter](https://twitter.com/viccastillejos/status/1682351693869223938) | advertise |
 | [VicLessMan@twitter](https://twitter.com/VicLessMan/status/1588327048501612544) | advertise |
+| [Victor03120275@twitter](https://twitter.com/Victor03120275/status/1708888190231122050) | advertise |
 | [victoraldir@twitter](https://twitter.com/victoraldir/status/1468678725684404231) | advertise |
 | [VictorC67776723@twitter](https://twitter.com/VictorC67776723/status/1429202585097998336) | advertise |
 | [VictorDown81244@twitter](https://twitter.com/VictorDown81244/status/1665874513593274368) | advertise |
