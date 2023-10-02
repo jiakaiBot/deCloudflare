@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [The blocking of 1.1.1.1 in China, starting from 2023-10-01](https://github.com/net4people/bbs/issues/295)
 - [npm tarball url](https://github.com/nvm-sh/nvm/issues/3213)
 - [-jsonl option with -headless option results in error](https://github.com/projectdiscovery/katana/issues/611)
 - [bing create order error](https://github.com/ccxt/ccxt/issues/19422)
