@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,484 |
+| com | 7,485 |
 | social | 4,586 |
 | net | 3,800 |
 | org | 2,538 |
@@ -6077,6 +6077,7 @@ Here's a list of public Fediverse services.
 | `c3m.org` | No |
 | `c3p.jp` | No |
 | `c3po.rocks` | No |
+| `c3soft.gay` | Yes |
 | `c4.social` | No |
 | `c4103.com` | No |
 | `c44.pl` | No |
@@ -13923,6 +13924,7 @@ Here's a list of public Fediverse services.
 | `flastodon.social` | No |
 | `flat.place` | Yes |
 | `flatage.com` | No |
+| `flatcaptech.com` | Yes |
 | `flatearth.group` | No |
 | `flatland.town` | No |
 | `flatlander.social` | Yes |
@@ -48734,7 +48736,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,577 |
+| Cloudflare | 13,579 |
 | Normal | 35,109 |
 
 
