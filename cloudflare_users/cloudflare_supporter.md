@@ -9480,6 +9480,7 @@ Do not create new issue or we will close it as duplicate.
 | [nottsonline1@twitter](https://twitter.com/nottsonline1/status/1519043499328421900) | advertise |
 | [notwaytoomuch@twitter](https://twitter.com/notwaytoomuch/status/1396359332447485953) | advertise |
 | [notzin_@twitter](https://twitter.com/notzin_/status/1643674348056715274) | advertise |
+| [Not_Divesh@twitter](https://twitter.com/Not_Divesh/status/1709244621229113644) | advertise |
 | [NoungN2@twitter](https://twitter.com/NoungN2/status/1392947583866130432) | advertise |
 | [noun_wild@twitter](https://twitter.com/noun_wild/status/1614553648343977984) | advertise |
 | [Nouraabdulla15@twitter](https://twitter.com/Nouraabdulla15/status/1586210209336381442) | advertise |
