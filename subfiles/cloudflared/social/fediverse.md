@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,485 |
-| social | 4,586 |
+| social | 4,587 |
 | net | 3,800 |
-| org | 2,538 |
+| org | 2,539 |
 | de | 2,359 |
 
 
@@ -4722,7 +4722,7 @@ Here's a list of public Fediverse services.
 | `bitpage.de` | No |
 | `bitplumber.de` | No |
 | `bitraten.net` | Yes |
-| `bitrot.cafe` | No |
+| `bitrot.cafe` | Yes |
 | `bits-und-baeume.org` | No |
 | `bits.social` | No |
 | `bitsammelwanne.de` | No |
@@ -5040,6 +5040,7 @@ Here's a list of public Fediverse services.
 | `blue0a6m5c.yokohama` | No |
 | `blueadair.net` | Yes |
 | `blueand.red` | No |
+| `blueb.me` | Yes |
 | `bluebell.social` | No |
 | `bluebirdmigrate.com` | No |
 | `blueblueblue.blue` | No |
@@ -8404,7 +8405,7 @@ Here's a list of public Fediverse services.
 | `creatorstudio.space` | No |
 | `creatorsunited.social` | Yes |
 | `creatrix.world` | No |
-| `creature.cafe` | No |
+| `creature.cafe` | Yes |
 | `creature.social` | No |
 | `creatureofthehill.com` | No |
 | `creaturis.com` | No |
@@ -11452,6 +11453,7 @@ Here's a list of public Fediverse services.
 | `eastman.tech` | No |
 | `eastmetrocommunitymusic.org` | No |
 | `eastriver.club` | Yes |
+| `eastriver.space` | Yes |
 | `easy-mastodon.de` | Yes |
 | `easya.solutions` | No |
 | `easydns.ca` | No |
@@ -24900,6 +24902,7 @@ Here's a list of public Fediverse services.
 | `magicwoodland.net` | No |
 | `magik.me` | No |
 | `magikarp.fun` | No |
+| `magikh.fr` | No |
 | `magilou.xyz` | Yes |
 | `magincia.cafe` | Yes |
 | `magitek-telescope.im` | Yes |
@@ -25202,6 +25205,7 @@ Here's a list of public Fediverse services.
 | `maplecrew.org` | No |
 | `maplelawn.net` | No |
 | `maples.dev` | No |
+| `mapleshrine.eu` | No |
 | `mappostcards.pl` | No |
 | `maprambo.net` | Yes |
 | `mapstodon.space` | No |
@@ -26589,6 +26593,7 @@ Here's a list of public Fediverse services.
 | `mengsk.org` | No |
 | `menhera.org` | No |
 | `menkissing.gay` | Yes |
+| `mensago.org` | No |
 | `mensmaaktmooi.nl` | No |
 | `mensoif.cf` | No |
 | `mental.af` | No |
@@ -27338,7 +27343,7 @@ Here's a list of public Fediverse services.
 | `misskey.ml` | No |
 | `misskey.moe` | Yes |
 | `misskey.net.eu.org` | No |
-| `misskey.network` | No |
+| `misskey.network` | Yes |
 | `misskey.nl` | Yes |
 | `misskey.oita.jp` | No |
 | `misskey.one` | Yes |
@@ -30254,7 +30259,7 @@ Here's a list of public Fediverse services.
 | `nogitsune.moe` | No |
 | `nognu.de` | No |
 | `nogods.be` | No |
-| `nogroup.group` | No |
+| `nogroup.group` | Yes |
 | `nogweii.net` | No |
 | `noho.st` | No |
 | `nohomo.gay` | No |
@@ -44378,6 +44383,7 @@ Here's a list of public Fediverse services.
 | `tylerdavis.xyz` | No |
 | `tylergoza.com` | Yes |
 | `tylerjfisher.com` | No |
+| `tylernguyen.social` | Yes |
 | `tylinux.com` | Yes |
 | `tylko.fans` | No |
 | `tylxr.com` | Yes |
@@ -48736,8 +48742,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,583 |
-| Normal | 35,105 |
+| Cloudflare | 13,590 |
+| Normal | 35,104 |
 
 
 </details>
