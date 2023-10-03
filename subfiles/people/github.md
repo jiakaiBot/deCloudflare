@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Headless driver prevents code from running](https://github.com/Sxvxgee/UnlimitedGPT/issues/45)
 - [TRI-1333 TRI-1332 Upgrade all packages/* and use fetch instead of node-fetch](https://github.com/triggerdotdev/trigger.dev/issues/525)
 - [www version of link doesn't load](https://github.com/andrewbolster/andrewbolster.github.io/issues/12)
 - [The blocking of 1.1.1.1 in China, starting from 2023-10-01](https://github.com/net4people/bbs/issues/295)
