@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,490 |
 | social | 4,589 |
-| net | 3,800 |
-| org | 2,539 |
+| net | 3,801 |
+| org | 2,540 |
 | de | 2,360 |
 
 
@@ -23519,7 +23519,7 @@ Here's a list of public Fediverse services.
 | `lgbtqia.space` | Yes |
 | `lgbtqiaplus.eu` | Yes |
 | `lgbtqplus.social` | Yes |
-| `lgm.ltd` | No |
+| `lgm.ltd` | Yes |
 | `lgnt.eu` | Yes |
 | `lgtm.systems` | No |
 | `lgtspd.net` | Yes |
@@ -34333,6 +34333,7 @@ Here's a list of public Fediverse services.
 | `prostreamers.net` | No |
 | `prosumer.dev` | Yes |
 | `protagio.nl` | No |
+| `protagio.org` | No |
 | `protagonist.gay` | No |
 | `prote.ca` | No |
 | `protecciondigital.org` | Yes |
@@ -45071,6 +45072,7 @@ Here's a list of public Fediverse services.
 | `usuzakuraya.us` | No |
 | `usvs.xyz` | No |
 | `ut0pia.org` | No |
+| `uta8a.net` | Yes |
 | `utanohi.com` | No |
 | `utasansh.in` | No |
 | `utbs.info` | No |
@@ -48757,7 +48759,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,599 |
+| Cloudflare | 13,601 |
 | Normal | 35,110 |
 
 
