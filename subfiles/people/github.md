@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [solid-query v5 Solid Start dependent query from context throws error (missing defaultQueryOptions)](https://github.com/TanStack/query/issues/6102)
 - [Hydra: Not accessible for clients who use IPv6 in preference to IPv4](https://github.com/NixOS/nixos-org-configurations/issues/284)
 - [hydra.nixos.org broken over ipv6](https://github.com/NixOS/hydra/issues/1302)
 - [CF: All jobs have failed](https://github.com/serverless-dns/serverless-dns/issues/186)
