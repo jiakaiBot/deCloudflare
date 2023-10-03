@@ -3045,6 +3045,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dinhtran124@twitter](https://twitter.com/Dinhtran124/status/1578996526478950400) | advertise |
 | [dinhtrungduc2k1@twitter](https://twitter.com/dinhtrungduc2k1/status/1570099580456554496) | advertise |
 | [dinhvhoang1@twitter](https://twitter.com/dinhvhoang1/status/1383234381439922177) | advertise |
+| [DinuraRanthila@twitter](https://twitter.com/DinuraRanthila/status/1709261407664091251) | advertise |
 | [diorfunn@twitter](https://twitter.com/diorfunn/status/1674330543964536832) | advertise |
 | [DipakCh89456642@twitter](https://twitter.com/DipakCh89456642/status/1392032564743852033) | advertise |
 | [dipankar9651@twitter](https://twitter.com/dipankar9651/status/1558430732598804482) | advertise |
