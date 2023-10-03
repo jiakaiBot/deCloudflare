@@ -136,7 +136,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | imbuffering.com | Yes |
 | in-berlin.de | No |
 | inria.fr | No |
-| ipv6dns.com | No |
 | irre.li | No |
 | itdept.pro | Yes |
 | itxe.net | Yes |
@@ -193,7 +192,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | nic.cz | No |
 | nic.lv | No |
 | nielsdb.be | No |
-| ningkelle.id | No |
 | niyawe.de | No |
 | njal.la | No |
 | noaddns.com | No |
@@ -216,7 +214,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | panszelescik.pl | Yes |
 | pathofgrace.com | No |
 | persiannit.net | Yes |
-| pumpkinvrar.com | No |
 | puredns.org | Yes |
 | qis.io | Yes |
 | qquack.org | Yes |
@@ -300,7 +297,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 133 |
-| Normal | 147 |
+| Normal | 144 |
 
 
-### 47.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 48% of DNS-over-HTTPS (DoH) are using Cloudflare.
