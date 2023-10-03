@@ -10023,6 +10023,7 @@ Here's a list of public Fediverse services.
 | `detoffol.com` | No |
 | `detomu.net` | No |
 | `detrended.net` | No |
+| `detroit.hockey` | No |
 | `detroit.lol` | No |
 | `detroitriotcity.com` | Yes |
 | `dettenheim.social` | No |
@@ -13214,7 +13215,7 @@ Here's a list of public Fediverse services.
 | `fedi.agency` | No |
 | `fedi.ai` | Yes |
 | `fedi.app` | No |
-| `fedi.at` | No |
+| `fedi.at` | Yes |
 | `fedi.bar` | Yes |
 | `fedi.be` | No |
 | `fedi.blog` | No |
@@ -48756,7 +48757,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,598 |
+| Cloudflare | 13,599 |
 | Normal | 35,110 |
 
 
