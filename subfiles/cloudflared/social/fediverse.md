@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,490 |
-| social | 4,588 |
+| social | 4,589 |
 | net | 3,800 |
 | org | 2,539 |
 | de | 2,360 |
@@ -3716,7 +3716,7 @@ Here's a list of public Fediverse services.
 | `baer.im` | No |
 | `baer.works` | No |
 | `baetato.net` | No |
-| `baez.io` | No |
+| `baez.io` | Yes |
 | `baez.link` | No |
 | `bagaluten.net` | No |
 | `bagarrosphere.fr` | No |
@@ -37930,6 +37930,7 @@ Here's a list of public Fediverse services.
 | `seizemeans.com` | No |
 | `seizethemeansof.community` | No |
 | `sekai-writer.my.id` | No |
+| `sekai.social` | No |
 | `sekao.net` | No |
 | `sekhen.com` | Yes |
 | `sekla.info` | No |
@@ -48755,7 +48756,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,597 |
+| Cloudflare | 13,598 |
 | Normal | 35,110 |
 
 
