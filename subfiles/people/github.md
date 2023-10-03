@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Hydra: Not accessible for clients who use IPv6 in preference to IPv4](https://github.com/NixOS/nixos-org-configurations/issues/284)
 - [hydra.nixos.org broken over ipv6](https://github.com/NixOS/hydra/issues/1302)
 - [CF: All jobs have failed](https://github.com/serverless-dns/serverless-dns/issues/186)
 - [Headless driver prevents code from running](https://github.com/Sxvxgee/UnlimitedGPT/issues/45)
