@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,485 |
+| com | 7,484 |
 | social | 4,586 |
 | net | 3,800 |
 | org | 2,538 |
@@ -4904,7 +4904,7 @@ Here's a list of public Fediverse services.
 | `blaw.social` | No |
 | `blazelight.dev` | Yes |
 | `blazinggophers.com` | No |
-| `blazingopen.space` | No |
+| `blazingopen.space` | Yes |
 | `bldg.pw` | No |
 | `bldg7.social` | No |
 | `bldon.net` | No |
@@ -13924,7 +13924,6 @@ Here's a list of public Fediverse services.
 | `flastodon.social` | No |
 | `flat.place` | Yes |
 | `flatage.com` | No |
-| `flatcaptech.com` | Yes |
 | `flatearth.group` | No |
 | `flatland.town` | No |
 | `flatlander.social` | Yes |
@@ -42346,7 +42345,7 @@ Here's a list of public Fediverse services.
 | `thegem.city` | No |
 | `thegeneral.chat` | No |
 | `thegoblin.market` | No |
-| `thegovlab.com` | No |
+| `thegovlab.com` | Yes |
 | `thegraveyard.org` | No |
 | `thegreenclan.ca` | No |
 | `thegreendragon.online` | No |
@@ -46292,7 +46291,7 @@ Here's a list of public Fediverse services.
 | `webfru.it` | No |
 | `webgirand.eu` | Yes |
 | `webhookfrom.space` | No |
-| `webhop.me` | No |
+| `webhop.me` | Yes |
 | `webhop.net` | No |
 | `webhosting-waldhufe.de` | No |
 | `webionite.com` | No |
@@ -48736,8 +48735,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,579 |
-| Normal | 35,109 |
+| Cloudflare | 13,581 |
+| Normal | 35,106 |
 
 
 </details>
