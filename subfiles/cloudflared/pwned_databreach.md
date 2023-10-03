@@ -33,6 +33,7 @@ Here's a list of breached sites.
 | AbuseWithUs (AbuseWith.Us) | 1,372,550 | No |
 | AcneOrg (Acne.org) | 432,943 | Yes |
 | ActMobile | 1,583,193 | No |
+| Activision | 16,006 | No |
 | Adapt | 9,363,740 | Yes |
 | Adecco | 4,284,538 | No |
 | Adobe | 152,445,165 | Yes |
@@ -696,9 +697,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 395 | 4,444,597,936 |
-| Normal | 279 | 4,491,323,617 |
+| Normal | 280 | 4,491,339,623 |
 
 
 
-### 58.6% of breached sites (pwned sites) are using Cloudflare.
+### 58.5% of breached sites (pwned sites) are using Cloudflare.
 ### 49.7% of leaked accounts are on Cloudflare sites.
