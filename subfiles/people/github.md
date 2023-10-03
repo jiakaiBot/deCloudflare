@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [hydra.nixos.org broken over ipv6](https://github.com/NixOS/hydra/issues/1302)
 - [CF: All jobs have failed](https://github.com/serverless-dns/serverless-dns/issues/186)
 - [Headless driver prevents code from running](https://github.com/Sxvxgee/UnlimitedGPT/issues/45)
 - [TRI-1333 TRI-1332 Upgrade all packages/* and use fetch instead of node-fetch](https://github.com/triggerdotdev/trigger.dev/issues/525)
