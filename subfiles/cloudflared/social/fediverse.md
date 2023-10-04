@@ -10450,7 +10450,7 @@ Here's a list of public Fediverse services.
 | `diskette.online` | No |
 | `diskofgrain.xyz` | No |
 | `diskseven.com` | No |
-| `dislive.me` | Yes |
+| `dislive.me` | No |
 | `dism.ink` | No |
 | `disney.host` | No |
 | `disobey.net` | No |
@@ -12798,6 +12798,7 @@ Here's a list of public Fediverse services.
 | `f1sh.de` | No |
 | `f2a.io` | No |
 | `f2p.me` | Yes |
+| `f2p.ms` | Yes |
 | `f40c40.com` | No |
 | `f4255529.fun` | Yes |
 | `f4255529.shop` | Yes |
@@ -36768,6 +36769,7 @@ Here's a list of public Fediverse services.
 | `russell.social` | Yes |
 | `russellmcc.com` | No |
 | `russellphillips.uk` | No |
+| `russiachan.fun` | No |
 | `russiandiaspora.org` | No |
 | `russiaukraine.world` | No |
 | `russnelson.com` | No |
@@ -48760,7 +48762,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,601 |
-| Normal | 35,110 |
+| Normal | 35,112 |
 
 
 </details>
