@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,496 |
+| com | 7,497 |
 | social | 4,590 |
 | net | 3,805 |
 | org | 2,541 |
@@ -145,6 +145,7 @@ Here's a list of public Fediverse services.
 | `0x5e.eu` | No |
 | `0x68.net` | No |
 | `0x68756773.moe` | No |
+| `0x6a64.com` | No |
 | `0x6d77.net` | No |
 | `0x705h.com` | No |
 | `0x77.ml` | No |
@@ -20668,7 +20669,7 @@ Here's a list of public Fediverse services.
 | `jotboard.info` | No |
 | `jotoma.de` | No |
 | `jott-emm.social` | No |
-| `journa.host` | No |
+| `journa.host` | Yes |
 | `journalism.social` | No |
 | `journalist.social` | Yes |
 | `journeytotaiwan.asia` | No |
@@ -24195,6 +24196,7 @@ Here's a list of public Fediverse services.
 | `loliverse.xyz` | No |
 | `loliwife.xyz` | No |
 | `lollipopcloud.solutions` | Yes |
+| `lollyclaw.xyz` | No |
 | `lollygaggers.uk` | No |
 | `lolpix.org` | Yes |
 | `lolwierd.ga` | Yes |
@@ -33351,6 +33353,7 @@ Here's a list of public Fediverse services.
 | `pixelfed.au` | No |
 | `pixelfed.beer` | Yes |
 | `pixelfed.cafe` | No |
+| `pixelfed.cat` | No |
 | `pixelfed.ch` | No |
 | `pixelfed.co.za` | Yes |
 | `pixelfed.com.br` | Yes |
@@ -48787,8 +48790,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,611 |
-| Normal | 35,128 |
+| Cloudflare | 13,612 |
+| Normal | 35,130 |
 
 
 </details>
