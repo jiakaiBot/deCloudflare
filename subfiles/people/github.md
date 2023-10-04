@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Duplicate param name](https://github.com/honojs/hono/issues/1542)
 - [Lets Encrypt with cloudflare fails token auth](https://github.com/home-assistant/addons/issues/3243)
 - [403 Forbidden - Cloudflare captcha](https://github.com/azoff/tockstalk/issues/1)
 - [waitUntil (executionCtx) issue - TypeError: Cannot read properties of undefined (reading 'push')](https://github.com/honojs/hono/issues/1538)
