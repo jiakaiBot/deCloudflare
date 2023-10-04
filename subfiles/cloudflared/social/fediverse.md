@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,494 |
+| com | 7,495 |
 | social | 4,590 |
 | net | 3,805 |
 | org | 2,541 |
@@ -2986,6 +2986,7 @@ Here's a list of public Fediverse services.
 | `ashgrove.social` | No |
 | `ashhhleyyy.dev` | Yes |
 | `ashiato45.net` | No |
+| `ashigayahomura.com` | Yes |
 | `ashikaga.link` | No |
 | `ashimitsu.net` | Yes |
 | `ashitty.website` | No |
@@ -12105,6 +12106,7 @@ Here's a list of public Fediverse services.
 | `encryptionin.space` | No |
 | `encryptomatic.com` | No |
 | `encryptr.net` | No |
+| `end-is-owari.xyz` | No |
 | `end-the-stigma.com` | Yes |
 | `end.io` | Yes |
 | `endaaman.me` | No |
@@ -26821,7 +26823,7 @@ Here's a list of public Fediverse services.
 | `mfraters.net` | No |
 | `mftrhu.net` | No |
 | `mfunkenberg.de` | No |
-| `mfy.social` | No |
+| `mfy.social` | Yes |
 | `mfy.world` | Yes |
 | `mfyo.biz` | No |
 | `mfyo.jp` | Yes |
@@ -37900,6 +37902,7 @@ Here's a list of public Fediverse services.
 | `sedimentarymountains.com` | No |
 | `seditio.fr` | No |
 | `sedryk.info` | No |
+| `see2et.dev` | Yes |
 | `seediqbale.xyz` | No |
 | `seedoubleyou.me` | No |
 | `seeds.social` | No |
@@ -43499,7 +43502,7 @@ Here's a list of public Fediverse services.
 | `tootology.com` | No |
 | `tootplanet.space` | No |
 | `tootpoint.com` | No |
-| `tootpro.xyz` | No |
+| `tootpro.xyz` | Yes |
 | `tootr.co` | Yes |
 | `tootr.io` | Yes |
 | `toots.cc` | Yes |
@@ -48780,8 +48783,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,605 |
-| Normal | 35,127 |
+| Cloudflare | 13,609 |
+| Normal | 35,126 |
 
 
 </details>
