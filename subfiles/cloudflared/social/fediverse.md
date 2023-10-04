@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,490 |
 | social | 4,589 |
-| net | 3,802 |
+| net | 3,801 |
 | org | 2,540 |
 | de | 2,360 |
 
@@ -35338,7 +35338,6 @@ Here's a list of public Fediverse services.
 | `rascal.social` | No |
 | `rascalking.com` | No |
 | `rascalking.net` | No |
-| `rascals.net` | Yes |
 | `rasly.cf` | No |
 | `raspberryip.com` | No |
 | `raspberrypi.social` | No |
@@ -48762,7 +48761,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,602 |
+| Cloudflare | 13,601 |
 | Normal | 35,112 |
 
 
