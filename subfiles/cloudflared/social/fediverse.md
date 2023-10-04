@@ -7006,6 +7006,7 @@ Here's a list of public Fediverse services.
 | `chikai.network` | No |
 | `chikichiki.tube` | Yes |
 | `chikorita157.com` | No |
+| `childlove.space` | No |
 | `childpawn.shop` | No |
 | `childrenshealthdefense.eu` | Yes |
 | `chilemasto.casa` | No |
@@ -14629,6 +14630,7 @@ Here's a list of public Fediverse services.
 | `freundliches.de` | Yes |
 | `freundtech.com` | No |
 | `freyachat.eu` | No |
+| `freyahaus.casa` | Yes |
 | `freyhult.net` | No |
 | `freyrlepage.com` | Yes |
 | `freyssi.net` | No |
@@ -45766,6 +45768,7 @@ Here's a list of public Fediverse services.
 | `vnvie.ws` | No |
 | `vnxs.de` | No |
 | `vny.fr` | No |
+| `voc.pet` | Yes |
 | `vocabar.net` | No |
 | `vocal.vc` | No |
 | `vocalconstructivists.com` | No |
@@ -48783,8 +48786,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,609 |
-| Normal | 35,126 |
+| Cloudflare | 13,611 |
+| Normal | 35,127 |
 
 
 </details>
