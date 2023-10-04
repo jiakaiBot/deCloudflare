@@ -8662,6 +8662,7 @@ Do not create new issue or we will close it as duplicate.
 | [myfutur70735977@twitter](https://twitter.com/myfutur70735977/status/1390130425838723074) | advertise |
 | [MygMoe@twitter](https://twitter.com/MygMoe/status/1393034658363834371) | advertise |
 | [myhanhnie@twitter](https://twitter.com/myhanhnie/status/1388764040692867074) | advertise |
+| [MyhtunThu6748@twitter](https://twitter.com/MyhtunThu6748/status/1709558699038241249) | advertise |
 | [MyintKo13064902@twitter](https://twitter.com/MyintKo13064902/status/1394984126734901250) | advertise |
 | [MyintMy05528918@twitter](https://twitter.com/MyintMy05528918/status/1394612650781278213) | advertise |
 | [myintmy26097120@twitter](https://twitter.com/myintmy26097120/status/1407386118530740241) | advertise |
