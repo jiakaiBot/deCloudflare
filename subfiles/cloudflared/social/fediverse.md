@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,490 |
+| com | 7,491 |
 | social | 4,589 |
-| net | 3,801 |
+| net | 3,802 |
 | org | 2,540 |
 | de | 2,360 |
 
@@ -817,6 +817,7 @@ Here's a list of public Fediverse services.
 | `a13.social` | No |
 | `a15a.co` | No |
 | `a17k.social` | No |
+| `a17t.dev` | Yes |
 | `a19industries.com` | Yes |
 | `a1bbs.com` | No |
 | `a1x.com` | No |
@@ -3166,6 +3167,7 @@ Here's a list of public Fediverse services.
 | `atheatileros.com` | No |
 | `atheistmedianetwork.com` | No |
 | `athemeus.com` | No |
+| `atheopagan.net` | No |
 | `atheos.org` | Yes |
 | `atho.me` | Yes |
 | `athousandwords.site` | No |
@@ -7376,6 +7378,7 @@ Here's a list of public Fediverse services.
 | `clamo.red` | No |
 | `clanwood.com` | No |
 | `clar.ke` | Yes |
+| `clareifi.com` | No |
 | `clareifi.org` | Yes |
 | `clarin.moe` | No |
 | `claris.cf` | No |
@@ -24849,6 +24852,7 @@ Here's a list of public Fediverse services.
 | `madmanmarkau.net` | No |
 | `madmoizelle.com` | Yes |
 | `madmullins.live` | Yes |
+| `madnight.co.uk` | No |
 | `mado.moe` | Yes |
 | `madomadon.net` | No |
 | `madost.one` | Yes |
@@ -36099,6 +36103,7 @@ Here's a list of public Fediverse services.
 | `ridetrans.it` | Yes |
 | `ridgebacks.social` | Yes |
 | `ridixy.com` | Yes |
+| `riedel.nyc` | No |
 | `riedl.net` | No |
 | `riedl.ovh` | Yes |
 | `riedstadt.social` | No |
@@ -46572,6 +46577,7 @@ Here's a list of public Fediverse services.
 | `whatwasidoingagain.com` | Yes |
 | `whatwaslostisfound.co.uk` | No |
 | `whatyoulike.club` | No |
+| `whconsulting.biz` | No |
 | `wheelbearings.media` | No |
 | `whemic.xyz` | No |
 | `when.computer` | No |
@@ -48761,8 +48767,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,601 |
-| Normal | 35,112 |
+| Cloudflare | 13,602 |
+| Normal | 35,117 |
 
 
 </details>
