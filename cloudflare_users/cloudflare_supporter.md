@@ -4111,6 +4111,7 @@ Do not create new issue or we will close it as duplicate.
 | [Good4NM@twitter](https://twitter.com/Good4NM/status/1483567861549441026) | advertise |
 | [GOODBOY97725961@twitter](https://twitter.com/GOODBOY97725961/status/1384905237190922246) | advertise |
 | [Goodboyparttim1@twitter](https://twitter.com/Goodboyparttim1/status/1547810450321969154) | advertise |
+| [goodsmartidea@twitter](https://twitter.com/goodsmartidea/status/1709644939775119575) | advertise |
 | [GoodTwins3@twitter](https://twitter.com/GoodTwins3/status/1379579295392264196) | advertise |
 | [GoogleUsee65297@twitter](https://twitter.com/GoogleUsee65297/status/1671639697511141376) | advertise |
 | [goomugomuno@twitter](https://twitter.com/goomugomuno/status/1528161739514126336) | advertise |
