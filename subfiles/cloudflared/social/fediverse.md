@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,491 |
+| com | 7,492 |
 | social | 4,589 |
-| net | 3,803 |
+| net | 3,804 |
 | org | 2,540 |
 | de | 2,360 |
 
@@ -8178,6 +8178,7 @@ Here's a list of public Fediverse services.
 | `corona.monster` | No |
 | `coronet.io` | No |
 | `corp.social` | Yes |
+| `corponauts.net` | Yes |
 | `corporaterunaways.social` | No |
 | `corporatetravel.social` | No |
 | `corq.co` | No |
@@ -28759,6 +28760,7 @@ Here's a list of public Fediverse services.
 | `myjot.net` | No |
 | `myk3s.de` | No |
 | `mykal.social` | Yes |
+| `mykdeen.com` | No |
 | `myke.social` | No |
 | `mykhoury.com` | Yes |
 | `myl.moe` | Yes |
@@ -48768,8 +48770,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,603 |
-| Normal | 35,117 |
+| Cloudflare | 13,604 |
+| Normal | 35,118 |
 
 
 </details>
