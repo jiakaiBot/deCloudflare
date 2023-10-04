@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,495 |
+| com | 7,496 |
 | social | 4,590 |
 | net | 3,805 |
 | org | 2,541 |
@@ -31658,6 +31658,7 @@ Here's a list of public Fediverse services.
 | `opensourcestories.org` | No |
 | `openspace.cf` | No |
 | `openstreetmap.fr` | No |
+| `openstringshow.com` | No |
 | `opensupply.space` | No |
 | `opentalk.eu` | No |
 | `opentechnologies.co.za` | No |
@@ -48787,7 +48788,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,611 |
-| Normal | 35,127 |
+| Normal | 35,128 |
 
 
 </details>
