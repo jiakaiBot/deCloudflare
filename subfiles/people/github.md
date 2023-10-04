@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [waitUntil (executionCtx) issue - TypeError: Cannot read properties of undefined (reading 'push')](https://github.com/honojs/hono/issues/1538)
 - [CloudFlare Network Performance Issues in Berlin DE, Helsinki FI, Stockholm SE, Moscow RU](https://github.com/SecOpsNews/news/issues/19637)
 - [CloudFlare Network Performance Issues in Berlin DE, Helsinki FI, Stockholm SE, Moscow RU](https://github.com/hinoshiba/news/issues/4321)
 - [solid-query v5 Solid Start dependent query from context throws error (missing defaultQueryOptions)](https://github.com/TanStack/query/issues/6102)
