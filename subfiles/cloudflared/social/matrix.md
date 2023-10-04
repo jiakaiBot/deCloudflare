@@ -80,7 +80,7 @@ Here's a list of public Matrix services.
 | matrix.oikei.net | No |
 | matrix.ombreport.info | No |
 | pcriot.org | Yes |
-| perthchat.org | Yes |
+| matrix.perthchat.org | Yes |
 | matrix.pikaviestin.fi | No |
 | matrix.plus.st | No |
 | possum.city | Yes |
@@ -89,6 +89,7 @@ Here's a list of public Matrix services.
 | matrix.pub.solar | No |
 | radiowarnerd.org | No |
 | matrix.rimfaxe.net | No |
+| riotchat.de | Yes |
 | ru-matrix.org | No |
 | sans-nuage.fr | No |
 | socialnetwork24.com | No |
@@ -114,8 +115,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 18 |
+| Cloudflare | 19 |
 | Normal | 69 |
 
 
-### 20.7% of public Matrix services are using Cloudflare.
+### 21.6% of public Matrix services are using Cloudflare.
