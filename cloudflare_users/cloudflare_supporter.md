@@ -3570,6 +3570,7 @@ Do not create new issue or we will close it as duplicate.
 | [esae2499@twitter](https://twitter.com/esae2499/status/1642251651091185666) | advertise |
 | [eserediucm@twitter](https://twitter.com/eserediucm/status/1411816726161887232) | moral (advertise) |
 | [Eset79cTKZmQsuT@twitter](https://twitter.com/Eset79cTKZmQsuT/status/1395627193003171843) | advertise |
+| [EshuSoul@twitter](https://twitter.com/EshuSoul/status/1709444785054900312) | advertise |
 | [Esketit690@twitter](https://twitter.com/Esketit690/status/1685542050199199744) | advertise |
 | [eskimo_phyo@twitter](https://twitter.com/eskimo_phyo/status/1398996210623553540) | advertise |
 | [esmatkarimi100@twitter](https://twitter.com/esmatkarimi100/status/1625164036429197312) | advertise |
@@ -6899,6 +6900,7 @@ Do not create new issue or we will close it as duplicate.
 | [ladyknife88@twitter](https://twitter.com/ladyknife88/status/1401229529452990467) | advertise |
 | [LaeWai@twitter](https://twitter.com/LaeWai/status/1612691656574369794) | advertise |
 | [LahLaaah2@twitter](https://twitter.com/LahLaaah2/status/1493543345720741891) | advertise |
+| [Lak65943388@twitter](https://twitter.com/Lak65943388/status/1709498379217117259) | advertise |
 | [LakayAnNou@twitter](https://twitter.com/LakayAnNou/status/1543703868059648001) | advertise |
 | [Lake34Vincent@twitter](https://twitter.com/Lake34Vincent/status/1618965891563294721) | advertise |
 | [LakeNef@twitter](https://twitter.com/LakeNef/status/1492140804873277446) | advertise |
@@ -7496,6 +7498,7 @@ Do not create new issue or we will close it as duplicate.
 | [Madesh3070@twitter](https://twitter.com/Madesh3070/status/1634999387687649280) | advertise |
 | [Madhanblacky2@twitter](https://twitter.com/Madhanblacky2/status/1397140339538857985) | advertise |
 | [MADHUKAR1303@twitter](https://twitter.com/MADHUKAR1303/status/1563923918007799812) | advertise |
+| [madnis99@twitter](https://twitter.com/madnis99/status/1709538258336518441) | advertise |
 | [madolelabs@twitter](https://twitter.com/madolelabs/status/1646174927224020992) | advertise |
 | [madpanic@twitter](https://twitter.com/madpanic/status/1502023765361844228) | advertise |
 | [madriid14@twitter](https://twitter.com/madriid14/status/1383009393147473920) | advertise |
@@ -10185,6 +10188,7 @@ Do not create new issue or we will close it as duplicate.
 | [piemadd@twitter](https://twitter.com/piemadd/status/1515694696999366660) | advertise |
 | [PIGGYn00b1@twitter](https://twitter.com/PIGGYn00b1/status/1545955054112448513) | advertise |
 | [pihoang08@twitter](https://twitter.com/pihoang08/status/1638334226717110275) | advertise |
+| [PikaChuu1081367@twitter](https://twitter.com/PikaChuu1081367/status/1709533816313036999) | advertise |
 | [pikaibaoooo@twitter](https://twitter.com/pikaibaoooo/status/1405738285477990404) | advertise |
 | [pin500295@twitter](https://twitter.com/pin500295/status/1405570904269025280) | advertise |
 | [Pineapp43234632@twitter](https://twitter.com/Pineapp43234632/status/1377259907519373322) | advertise |
@@ -10514,6 +10518,7 @@ Do not create new issue or we will close it as duplicate.
 | [QuangV32598684@twitter](https://twitter.com/QuangV32598684/status/1551996008543899648) | advertise |
 | [quangvi23804819@twitter](https://twitter.com/quangvi23804819/status/1392901696733413377) | advertise |
 | [QuangVinh91gl81@twitter](https://twitter.com/QuangVinh91gl81/status/1632930543603179521) | advertise |
+| [Quangx199x@twitter](https://twitter.com/Quangx199x/status/1709376329714659482) | advertise |
 | [quanpha77413701@twitter](https://twitter.com/quanpha77413701/status/1559802704251105280) | advertise |
 | [QuantusTecSol@twitter](https://twitter.com/QuantusTecSol/status/1425608252662992896) | advertise |
 | [quan_hoang1803@twitter](https://twitter.com/quan_hoang1803/status/1620757954453712898) | advertise |
@@ -11057,6 +11062,7 @@ Do not create new issue or we will close it as duplicate.
 | [RyduTempesta@twitter](https://twitter.com/RyduTempesta/status/1498907656458686470) | advertise |
 | [rymtechTCO@twitter](https://twitter.com/rymtechTCO/status/1648817405261488128) | advertise |
 | [RyunosukeHaruki@twitter](https://twitter.com/RyunosukeHaruki/status/1390218243734835206) | advertise |
+| [RyuOshiro284352@twitter](https://twitter.com/RyuOshiro284352/status/1709526395448152187) | advertise |
 | [ryuuji_58@twitter](https://twitter.com/ryuuji_58/status/1379328982147997699) | advertise |
 | [RyzhkovIlia@twitter](https://twitter.com/RyzhkovIlia/status/1465766519963631619) | advertise |
 | [RZayYanHtun31@twitter](https://twitter.com/RZayYanHtun31/status/1392875347658559488) | advertise |
@@ -13899,6 +13905,7 @@ Do not create new issue or we will close it as duplicate.
 | [WandeltMusic@twitter](https://twitter.com/WandeltMusic/status/1665874507649654785) | advertise |
 | [wangcaijun88473@twitter](https://twitter.com/wangcaijun88473/status/1706849527616221405) | advertise |
 | [WangMi87623155@twitter](https://twitter.com/WangMi87623155/status/1392754494258040832) | advertise |
+| [wangyangyidi@twitter](https://twitter.com/wangyangyidi/status/1709410945800507595) | advertise |
 | [wangzi617471573@twitter](https://twitter.com/wangzi617471573/status/1686410225614774272) | advertise |
 | [wannakhaingsoe@twitter](https://twitter.com/wannakhaingsoe/status/1390612150054440963) | advertise |
 | [wanstyle2020@twitter](https://twitter.com/wanstyle2020/status/1501298115545952261) | advertise |
