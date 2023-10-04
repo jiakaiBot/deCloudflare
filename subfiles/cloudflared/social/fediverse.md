@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,492 |
-| social | 4,589 |
-| net | 3,804 |
-| org | 2,540 |
+| com | 7,494 |
+| social | 4,590 |
+| net | 3,805 |
+| org | 2,541 |
 | de | 2,360 |
 
 
@@ -4038,6 +4038,7 @@ Here's a list of public Fediverse services.
 | `bdash.net.nz` | Yes |
 | `bdeshi.space` | No |
 | `bdjm.boston` | No |
+| `bdkj.social` | No |
 | `bdms.ca` | No |
 | `bdmuvt.de` | Yes |
 | `bdn.one` | No |
@@ -10085,6 +10086,7 @@ Here's a list of public Fediverse services.
 | `devlibre.fr` | No |
 | `devlinzed.com` | No |
 | `devloprog.org` | No |
+| `devnamic.com` | No |
 | `devnel.blog` | No |
 | `devoe.social` | No |
 | `devol.it` | Yes |
@@ -12997,6 +12999,7 @@ Here's a list of public Fediverse services.
 | `fandoms.social` | No |
 | `fanexus.com` | No |
 | `fanfare.horse` | No |
+| `fanfic.army` | No |
 | `fanfou.social` | Yes |
 | `fanfou.today` | No |
 | `fangl.in` | Yes |
@@ -19174,6 +19177,7 @@ Here's a list of public Fediverse services.
 | `ingram-braun.net` | No |
 | `ingrats.net` | No |
 | `ingress-enl.jp` | No |
+| `ingress.run` | No |
 | `ingsoc.email` | No |
 | `ingwie.io` | No |
 | `ingwie.me` | Yes |
@@ -21085,6 +21089,7 @@ Here's a list of public Fediverse services.
 | `kalua.im` | Yes |
 | `kalum.ca` | No |
 | `kamartaj.xyz` | Yes |
+| `kambriamoncrief.com` | No |
 | `kame.land` | No |
 | `kame.moe` | No |
 | `kameari.tokyo` | No |
@@ -34941,6 +34946,7 @@ Here's a list of public Fediverse services.
 | `qwertqwefsday.eu` | No |
 | `qwerty.city` | No |
 | `qwerty.onl` | No |
+| `qwest.net` | No |
 | `qwjyh.net` | Yes |
 | `qwp.moe` | Yes |
 | `qwq.dog` | No |
@@ -34948,6 +34954,7 @@ Here's a list of public Fediverse services.
 | `qwq.mx` | Yes |
 | `qwq.one` | No |
 | `qwq.ooo` | Yes |
+| `qwreey.moe` | Yes |
 | `qwwwq.cat` | Yes |
 | `qxpix.com` | No |
 | `qyliss.net` | No |
@@ -36505,6 +36512,7 @@ Here's a list of public Fediverse services.
 | `roothell.org` | Yes |
 | `rooting.garden` | No |
 | `rootintootin.org` | No |
+| `rootnode.xyz` | No |
 | `roots.works` | No |
 | `rootsignals.ai` | No |
 | `rooty.fr` | No |
@@ -47083,6 +47091,7 @@ Here's a list of public Fediverse services.
 | `worldbuilding.zone` | No |
 | `worldc.one` | Yes |
 | `worldclassriffraff.ink` | No |
+| `worldcon.org` | No |
 | `worlddominationplan.com` | No |
 | `worlddrive.club` | No |
 | `worldexec.de` | No |
@@ -48468,6 +48477,7 @@ Here's a list of public Fediverse services.
 | `zerozaski.tech` | Yes |
 | `zerschnurrt.de` | No |
 | `zerstoererbande.de` | No |
+| `zeruhur.icu` | No |
 | `zerw.xyz` | No |
 | `zesh.club` | No |
 | `zestysoft.com` | No |
@@ -48770,8 +48780,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,604 |
-| Normal | 35,118 |
+| Cloudflare | 13,605 |
+| Normal | 35,127 |
 
 
 </details>
