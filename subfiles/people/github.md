@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Auth Page not loading correctly](https://github.com/felddy/foundryvtt-docker/issues/805)
 - [Duplicate param name](https://github.com/honojs/hono/issues/1542)
 - [Lets Encrypt with cloudflare fails token auth](https://github.com/home-assistant/addons/issues/3243)
 - [403 Forbidden - Cloudflare captcha](https://github.com/azoff/tockstalk/issues/1)
