@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,497 |
-| social | 4,590 |
+| social | 4,591 |
 | net | 3,805 |
 | org | 2,541 |
 | de | 2,360 |
@@ -21855,7 +21855,7 @@ Here's a list of public Fediverse services.
 | `kitsunes.club` | Yes |
 | `kitsunes.gay` | Yes |
 | `kitsunes.world` | Yes |
-| `kitsunesoba.com` | No |
+| `kitsunesoba.com` | Yes |
 | `kitsunet.net` | No |
 | `kitsunet.org` | No |
 | `kitt.ink` | Yes |
@@ -23511,7 +23511,7 @@ Here's a list of public Fediverse services.
 | `lexiphanic.com` | No |
 | `lexpierce.social` | No |
 | `lexserv.xyz` | Yes |
-| `lexvox.org` | No |
+| `lexvox.org` | Yes |
 | `leyton.social` | No |
 | `lf.je` | Yes |
 | `lfat.de` | No |
@@ -29127,7 +29127,7 @@ Here's a list of public Fediverse services.
 | `narravista.blog.br` | No |
 | `narrow.world` | No |
 | `naru.cafe` | Yes |
-| `naruh.com` | No |
+| `naruh.com` | Yes |
 | `naruniwa.cc` | No |
 | `narwhal.city` | Yes |
 | `narwhal.pub` | No |
@@ -32303,6 +32303,7 @@ Here's a list of public Fediverse services.
 | `palmer.house` | No |
 | `palmsy.club` | No |
 | `palom.be` | No |
+| `paloma.social` | Yes |
 | `palon.org` | Yes |
 | `palousegeo.com` | No |
 | `pals.chat` | No |
@@ -34028,7 +34029,7 @@ Here's a list of public Fediverse services.
 | `potofu.moe` | Yes |
 | `potp.me` | Yes |
 | `potp.ro` | No |
-| `potproject.net` | No |
+| `potproject.net` | Yes |
 | `potsda.mn` | No |
 | `potsni.art` | No |
 | `potswift.org` | No |
@@ -44194,7 +44195,7 @@ Here's a list of public Fediverse services.
 | `tuning.social` | No |
 | `tunkki.xyz` | Yes |
 | `tunnelcat.net` | No |
-| `tunpok.com` | No |
+| `tunpok.com` | Yes |
 | `tunstall.in` | No |
 | `tuomisto.io` | No |
 | `tupambae.com` | No |
@@ -48791,8 +48792,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,615 |
-| Normal | 35,128 |
+| Cloudflare | 13,621 |
+| Normal | 35,123 |
 
 
 </details>
