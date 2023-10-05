@@ -34312,7 +34312,7 @@ Here's a list of public Fediverse services.
 | `projectmushroom.social` | No |
 | `projectsegfau.lt` | Yes |
 | `projectspoint.uk` | No |
-| `projecttyco.net` | No |
+| `projecttyco.net` | Yes |
 | `projectx.fun` | No |
 | `projektchaos.network` | No |
 | `projekthafen.net` | No |
@@ -36098,7 +36098,7 @@ Here's a list of public Fediverse services.
 | `richardhall.online` | No |
 | `richardhickson.com` | Yes |
 | `richardjdalton.com` | No |
-| `richardloxley.com` | No |
+| `richardloxley.com` | Yes |
 | `richardo.xyz` | Yes |
 | `richardpickler.com` | No |
 | `richardshub.com` | No |
@@ -38372,7 +38372,7 @@ Here's a list of public Fediverse services.
 | `shin.pp.ua` | No |
 | `shina-rimo.cafe` | No |
 | `shinaaamo.com` | Yes |
-| `shinamikaidou42.net` | No |
+| `shinamikaidou42.net` | Yes |
 | `shinchanwigulu.net` | No |
 | `shinenelson.com` | No |
 | `shinkai.party` | Yes |
@@ -39418,6 +39418,7 @@ Here's a list of public Fediverse services.
 | `socialgoblins.club` | Yes |
 | `socialhome.network` | No |
 | `socialinvestmentbuilders.nl` | No |
+| `socialis.me` | No |
 | `socialism.social` | No |
 | `socialism.tools` | No |
 | `socialist.city` | No |
@@ -46358,6 +46359,7 @@ Here's a list of public Fediverse services.
 | `webjunkie.nl` | No |
 | `weblib.re` | No |
 | `weblibre.org` | No |
+| `weblic.co.jp` | No |
 | `webm.ink` | No |
 | `webmages.com` | No |
 | `webmapping.social` | No |
@@ -48796,10 +48798,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,623 |
-| Normal | 35,125 |
+| Cloudflare | 13,626 |
+| Normal | 35,124 |
 
 
 </details>
 
-### 27.9% of public Fediverse services are using Cloudflare.
+### 28% of public Fediverse services are using Cloudflare.
