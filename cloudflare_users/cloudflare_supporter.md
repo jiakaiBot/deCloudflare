@@ -14810,6 +14810,7 @@ Do not create new issue or we will close it as duplicate.
 | [_owen99@twitter](https://twitter.com/_owen99/status/1662423339607142400) | advertise |
 | [_pyromantic@twitter](https://twitter.com/_pyromantic/status/1479104111106674697) | advertise |
 | [_rikisan@twitter](https://twitter.com/_rikisan/status/1389050815122481155) | advertise |
+| [_Rosc0e@twitter](https://twitter.com/_Rosc0e/status/1701843292571251141) | advertise |
 | [_rurq@twitter](https://twitter.com/_rurq/status/1521161926012719109) | advertise |
 | [_sanchitbansal_@twitter](https://twitter.com/_sanchitbansal_/status/1578115686416715777) | advertise |
 | [_shouth@twitter](https://twitter.com/_shouth/status/1686787487187054594) | advertise |
