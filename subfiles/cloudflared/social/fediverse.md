@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,497 |
 | social | 4,592 |
 | net | 3,805 |
-| org | 2,541 |
+| org | 2,542 |
 | de | 2,360 |
 
 
@@ -8354,7 +8354,7 @@ Here's a list of public Fediverse services.
 | `craftplacer.moe` | No |
 | `craftsman.dev` | No |
 | `craftweg.com` | Yes |
-| `craftycanine.net` | No |
+| `craftycanine.net` | Yes |
 | `crag.social` | Yes |
 | `craig0990.net` | No |
 | `craigearley.com` | No |
@@ -13966,6 +13966,7 @@ Here's a list of public Fediverse services.
 | `flay.gay` | No |
 | `fle.st` | Yes |
 | `fle.studio` | Yes |
+| `flear.org` | No |
 | `flecken.monster` | No |
 | `fledd.it` | No |
 | `flee.social` | Yes |
@@ -33762,6 +33763,7 @@ Here's a list of public Fediverse services.
 | `pointless.one` | No |
 | `pointofviewpoint.com` | No |
 | `pointsecu.fr` | No |
+| `poisonous.love` | No |
 | `poisson.me` | Yes |
 | `poit.io` | No |
 | `poitr.us` | Yes |
@@ -48794,8 +48796,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,622 |
-| Normal | 35,124 |
+| Cloudflare | 13,623 |
+| Normal | 35,125 |
 
 
 </details>
