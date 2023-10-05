@@ -1666,7 +1666,7 @@ Here's a list of public Fediverse services.
 | `alexmurphy.codes` | No |
 | `alexn.org` | Yes |
 | `alexnackenoff.com` | Yes |
-| `alexoladele.dev` | No |
+| `alexoladele.dev` | Yes |
 | `alexreiner-hosting.de` | No |
 | `alexrio.fr` | No |
 | `alexschroeder.ch` | No |
@@ -5303,7 +5303,7 @@ Here's a list of public Fediverse services.
 | `boom.army` | Yes |
 | `boombeach.soy` | No |
 | `boomer.casino` | Yes |
-| `boon.asia` | Yes |
+| `boon.asia` | No |
 | `boon.chat` | Yes |
 | `boonchat.xyz` | No |
 | `boony.space` | No |
@@ -8420,6 +8420,7 @@ Here's a list of public Fediverse services.
 | `creatureofthehill.com` | No |
 | `creaturis.com` | No |
 | `crec.social` | Yes |
+| `crecom.moe` | No |
 | `creerunjeuvideo.fr` | No |
 | `creetail-ps.net` | No |
 | `crem.in` | Yes |
@@ -31884,7 +31885,7 @@ Here's a list of public Fediverse services.
 | `oslight.ovh` | No |
 | `oslo.cf` | No |
 | `oslo.town` | No |
-| `osm.lat` | No |
+| `osm.lat` | Yes |
 | `osm.social` | No |
 | `osm.town` | No |
 | `osmarks.net` | No |
@@ -39785,7 +39786,7 @@ Here's a list of public Fediverse services.
 | `spacerslike.us` | No |
 | `spaceshipsin.space` | No |
 | `spacestation14.com` | Yes |
-| `spacetechnology.net` | No |
+| `spacetechnology.net` | Yes |
 | `spacetime.social` | Yes |
 | `spacetraveller.com` | Yes |
 | `spacetruckin.io` | No |
@@ -43562,7 +43563,7 @@ Here's a list of public Fediverse services.
 | `topherward.com` | Yes |
 | `topic-master.com` | No |
 | `topofthe.city` | No |
-| `toposware.com` | No |
+| `toposware.com` | Yes |
 | `toppickz.com` | No |
 | `topping.services` | No |
 | `toppu.jp` | No |
@@ -48790,8 +48791,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,612 |
-| Normal | 35,130 |
+| Cloudflare | 13,615 |
+| Normal | 35,128 |
 
 
 </details>
