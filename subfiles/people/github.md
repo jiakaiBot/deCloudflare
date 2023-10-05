@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [3.7.4 loads webworker types, breaking cloudflare workers types](https://github.com/honojs/hono/issues/1547)
+- [req.raw.cf types broken in 3.7.4](https://github.com/honojs/hono/issues/1546)
 - ["Forbidden" error with app on apkmirror](https://github.com/ImranR98/Obtainium/issues/957)
 - [Tag Update for Agent Group not working for Group with 6522 agents](https://github.com/packetchaos/navi/issues/37)
 - [Have cache reset based on a timer](https://github.com/cisagov/getgov/issues/1124)
