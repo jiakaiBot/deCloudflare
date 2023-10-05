@@ -4535,6 +4535,7 @@ Do not create new issue or we will close it as duplicate.
 | [hexafusion@twitter](https://twitter.com/hexafusion/status/1380335734419156992) | advertise |
 | [heychazza@twitter](https://twitter.com/heychazza/status/1573280802749943811) | advertise |
 | [hey_rey25@twitter](https://twitter.com/hey_rey25/status/1397246777603104779) | advertise |
+| [hezongjian@twitter](https://twitter.com/hezongjian/status/1709829769049862304) | advertise |
 | [Hffukjf1@twitter](https://twitter.com/Hffukjf1/status/1395572614882496513) | advertise |
 | [hflem_5_band@twitter](https://twitter.com/hflem_5_band/status/1395203141071671304) | advertise |
 | [HfW6a@twitter](https://twitter.com/HfW6a/status/1624469728616906754) | advertise |
