@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,497 |
-| social | 4,592 |
+| social | 4,591 |
 | net | 3,805 |
 | org | 2,542 |
 | de | 2,360 |
@@ -40953,7 +40953,6 @@ Here's a list of public Fediverse services.
 | `suramya.com` | No |
 | `suranyami.com` | No |
 | `surazal.net` | No |
-| `surf.social` | No |
 | `surfhosted.net` | No |
 | `surfin.dog` | No |
 | `surfnet.space` | No |
@@ -48797,7 +48796,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,623 |
-| Normal | 35,125 |
+| Normal | 35,124 |
 
 
 </details>
