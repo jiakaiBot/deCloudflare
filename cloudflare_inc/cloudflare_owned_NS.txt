@@ -679,6 +679,7 @@ ns0013.secondary.cloudflare.com
 ns0014.secondary.cloudflare.com
 ns0016.secondary.cloudflare.com
 ns0018.secondary.cloudflare.com
+ns0020.secondary.cloudflare.com
 ns0022.secondary.cloudflare.com
 ns0023.secondary.cloudflare.com
 ns0027.secondary.cloudflare.com
@@ -792,6 +793,7 @@ ns0250.secondary.cloudflare.com
 ns0251.secondary.cloudflare.com
 ns1.cloudflare.com
 ns1.harley.ns.cloudflare.com
+ns115.dns.cf-ns.net
 ns2.cloudflare.com
 ns2.love.ns.cloudflare.com
 ns212.dns.cf-ns.com
