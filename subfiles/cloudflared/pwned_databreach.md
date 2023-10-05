@@ -285,6 +285,7 @@ Here's a list of breached sites.
 | Hemmelig (hemmelig.com) | 28,641 | Yes |
 | HeroesOfGaia (Heroes of Gaia) | 179,967 | No |
 | HeroesOfNewerth (Heroes of Newerth) | 8,089,103 | Yes |
+| Hjedd | 13,204,029 | Yes |
 | HomeChef (Home Chef) | 8,815,692 | Yes |
 | HongFire | 999,991 | No |
 | HookersNL (Hookers.nl) | 290,955 | Yes |
@@ -381,7 +382,7 @@ Here's a list of breached sites.
 | Mathway | 25,692,862 | No |
 | MechoDownload (Mecho Download) | 437,928 | Yes |
 | MeetMindful | 1,422,717 | Yes |
-| MindJolt | 28,364,826 | No |
+| MindJolt (Mindjolt) | 28,364,826 | No |
 | MinecraftPocketEditionForum (Minecraft Pocket Edition Forum) | 16,034 | No |
 | MinecraftWorldMap (Minecraft World Map) | 71,081 | Yes |
 | Minefield | 188,343 | No |
@@ -696,10 +697,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 395 | 4,444,597,936 |
+| Cloudflare | 396 | 4,457,801,965 |
 | Normal | 280 | 4,491,339,623 |
 
 
 
-### 58.5% of breached sites (pwned sites) are using Cloudflare.
-### 49.7% of leaked accounts are on Cloudflare sites.
+### 58.6% of breached sites (pwned sites) are using Cloudflare.
+### 49.8% of leaked accounts are on Cloudflare sites.
