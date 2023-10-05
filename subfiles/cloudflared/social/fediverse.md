@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,497 |
+| com | 7,498 |
 | social | 4,592 |
-| net | 3,805 |
-| org | 2,542 |
+| net | 3,806 |
+| org | 2,543 |
 | de | 2,360 |
 
 
@@ -5340,6 +5340,7 @@ Here's a list of public Fediverse services.
 | `bora.army` | Yes |
 | `borahae.love` | No |
 | `borborema.zone` | No |
+| `borbot.xyz` | Yes |
 | `borderland.tokyo` | No |
 | `borderlandkeep.com` | No |
 | `borderlands.social` | No |
@@ -6445,6 +6446,7 @@ Here's a list of public Fediverse services.
 | `castpub.online` | Yes |
 | `casual.systems` | Yes |
 | `casually.cat` | Yes |
+| `casuallyblue.dev` | No |
 | `casuallyblue.xyz` | No |
 | `casuls.social` | No |
 | `cat-enby.club` | No |
@@ -11675,6 +11677,7 @@ Here's a list of public Fediverse services.
 | `eenyoe.net` | No |
 | `eepy.moe` | No |
 | `eepy.space` | No |
+| `eepy.zone` | Yes |
 | `eepygirls.tech` | Yes |
 | `eerbeekseschaakclub.nl` | No |
 | `eersteblik.nl` | No |
@@ -22617,6 +22620,7 @@ Here's a list of public Fediverse services.
 | `kyot.me` | Yes |
 | `kyoto-citygrid.org` | No |
 | `kyou.social` | No |
+| `kyou.systems` | No |
 | `kyoupro.com` | No |
 | `kyouzai.com` | No |
 | `kyozen.studio` | No |
@@ -24825,6 +24829,7 @@ Here's a list of public Fediverse services.
 | `macniel.online` | No |
 | `maco.pics` | Yes |
 | `macondo.info` | No |
+| `macro.gay` | No |
 | `macro.tokyo` | No |
 | `macro.town` | Yes |
 | `macrodd.online` | Yes |
@@ -25001,6 +25006,7 @@ Here's a list of public Fediverse services.
 | `mainesocial.xyz` | No |
 | `mainframe.club` | No |
 | `mainframe.community` | No |
+| `mainframesociety.com` | No |
 | `mainichi.social` | No |
 | `mainspitze.social` | No |
 | `maintedor.com` | Yes |
@@ -25219,6 +25225,7 @@ Here's a list of public Fediverse services.
 | `manzilalnabat.de` | No |
 | `maoh.company` | Yes |
 | `maop.mx` | Yes |
+| `maou-maou.fr` | No |
 | `map-le.net` | No |
 | `mapcommunity.org` | No |
 | `mapf.net` | No |
@@ -31716,6 +31723,7 @@ Here's a list of public Fediverse services.
 | `oraclefilms.com` | No |
 | `oral.world` | No |
 | `oran.ski` | No |
+| `orang.org` | No |
 | `orange-order.co.uk` | No |
 | `orange.farm` | Yes |
 | `orangebunny.net` | Yes |
@@ -34372,7 +34380,6 @@ Here's a list of public Fediverse services.
 | `protogen.club` | No |
 | `protogen.dev` | Yes |
 | `protogen.social` | Yes |
-| `protogen.tools` | No |
 | `protohype.net` | No |
 | `protom.eu` | No |
 | `protomolecule.com` | No |
@@ -36753,6 +36760,7 @@ Here's a list of public Fediverse services.
 | `rule-of-three.club` | No |
 | `ruleit.stream` | No |
 | `rulix.info` | No |
+| `rulook.net` | Yes |
 | `rumbly.net` | No |
 | `rumia.tk` | Yes |
 | `rumia.xyz` | No |
@@ -37002,6 +37010,7 @@ Here's a list of public Fediverse services.
 | `sadium.ml` | No |
 | `sadlads.com` | Yes |
 | `sadlerjw.com` | No |
+| `sadlizard.club` | No |
 | `sadmansk.com` | No |
 | `sadmin.io` | Yes |
 | `sadoway.com` | Yes |
@@ -43944,7 +43953,7 @@ Here's a list of public Fediverse services.
 | `troetco.de` | No |
 | `troeterei.de` | No |
 | `troetet.de` | No |
-| `troetmund.de` | No |
+| `troetmund.de` | Yes |
 | `troettroet.de` | No |
 | `troidy.social` | Yes |
 | `trojaner.dev` | Yes |
@@ -44691,6 +44700,7 @@ Here's a list of public Fediverse services.
 | `unadon.club` | No |
 | `unanargeek.xyz` | No |
 | `unaone.social` | No |
+| `unapocrypha.info` | No |
 | `unasuke.com` | Yes |
 | `unattributed.cc` | No |
 | `unbia.st` | Yes |
@@ -48798,8 +48808,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,626 |
-| Normal | 35,124 |
+| Cloudflare | 13,630 |
+| Normal | 35,130 |
 
 
 </details>
