@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,497 |
-| social | 4,591 |
+| social | 4,592 |
 | net | 3,805 |
 | org | 2,541 |
 | de | 2,360 |
@@ -18475,7 +18475,7 @@ Here's a list of public Fediverse services.
 | `hyatalk.com` | No |
 | `hybridby.design` | No |
 | `hybridenterprise.net` | No |
-| `hybridhavoc.com` | No |
+| `hybridhavoc.com` | Yes |
 | `hybridlehrer.de` | No |
 | `hybridlive.net` | Yes |
 | `hybridsarcasm.xyz` | Yes |
@@ -27967,6 +27967,7 @@ Here's a list of public Fediverse services.
 | `morichan.site` | No |
 | `morikapu.com` | Yes |
 | `morikka.me` | No |
+| `morime.gay` | No |
 | `morimoto.link` | Yes |
 | `moritoworks.com` | Yes |
 | `moritrunk.com` | Yes |
@@ -40950,6 +40951,7 @@ Here's a list of public Fediverse services.
 | `suramya.com` | No |
 | `suranyami.com` | No |
 | `surazal.net` | No |
+| `surf.social` | No |
 | `surfhosted.net` | No |
 | `surfin.dog` | No |
 | `surfnet.space` | No |
@@ -48792,8 +48794,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,621 |
-| Normal | 35,123 |
+| Cloudflare | 13,622 |
+| Normal | 35,124 |
 
 
 </details>
