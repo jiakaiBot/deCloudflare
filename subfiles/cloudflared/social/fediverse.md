@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,499 |
-| social | 4,592 |
+| social | 4,593 |
 | net | 3,806 |
 | org | 2,543 |
-| de | 2,360 |
+| de | 2,361 |
 
 
 - Mastodon, Pleroma, etc
@@ -2933,6 +2933,7 @@ Here's a list of public Fediverse services.
 | `arxiv.social` | No |
 | `aryasenna.net` | Yes |
 | `as200950.com` | No |
+| `as200950.social` | No |
 | `as211696.net` | No |
 | `as59715.net` | No |
 | `as60927.net` | No |
@@ -8327,7 +8328,7 @@ Here's a list of public Fediverse services.
 | `crabby.fyi` | No |
 | `crabcake.social` | Yes |
 | `crabdance.ca` | Yes |
-| `crabdance.com` | No |
+| `crabdance.com` | Yes |
 | `crabdisk.online` | No |
 | `crabland.social` | No |
 | `crablettesare.life` | No |
@@ -9609,6 +9610,7 @@ Here's a list of public Fediverse services.
 | `dead10ck.com` | No |
 | `deadbatteries.work` | No |
 | `deadbeef.cafe` | No |
+| `deadbeef.monster` | Yes |
 | `deadbeef.social` | Yes |
 | `deadbeefcafe.net` | No |
 | `deadbolt.social` | Yes |
@@ -31627,6 +31629,7 @@ Here's a list of public Fediverse services.
 | `openhood.ru` | No |
 | `openinfra.dev` | Yes |
 | `openjournalism.app` | No |
+| `openlab-augsburg.de` | No |
 | `openlatin.org` | No |
 | `openlearning.cc` | No |
 | `openlinksw.com` | No |
@@ -48809,8 +48812,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,631 |
-| Normal | 35,130 |
+| Cloudflare | 13,633 |
+| Normal | 35,131 |
 
 
 </details>
