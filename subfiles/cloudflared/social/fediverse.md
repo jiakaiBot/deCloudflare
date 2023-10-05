@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,498 |
+| com | 7,499 |
 | social | 4,592 |
 | net | 3,806 |
 | org | 2,543 |
@@ -7844,7 +7844,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -45749,6 +45749,7 @@ Here's a list of public Fediverse services.
 | `vizcarra.me` | No |
 | `vizibol.social` | No |
 | `vjunity.tk` | No |
+| `vk4msl.com` | No |
 | `vk5fj.net` | No |
 | `vkdn.jp` | No |
 | `vkl.world` | No |
@@ -48808,7 +48809,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,630 |
+| Cloudflare | 13,631 |
 | Normal | 35,130 |
 
 
