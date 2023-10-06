@@ -7,6 +7,8 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-10-06: [Connectivity issues in Perth, WA, Australia region.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/86f23fy3swl5)
+- 2023-10-06: [Congestion increase in multiple North American locations](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/j7960hzg7bbk)
 - 2023-10-05: [Increased Reports of ERR_SSL_VERSION_OR_CIPHER_MISMATCH](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/58pmk45447lh)
 - 2023-10-05: [Issues with Wrangler remote-mode dev](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qjkzwwjjqxzn)
 - 2023-10-03: [Network Performance Issues in Berlin DE, Helsinki FI, Stockholm SE, Moscow RU](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0ql4rh88jhtz)
