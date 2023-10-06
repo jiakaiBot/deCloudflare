@@ -9365,6 +9365,7 @@ Do not create new issue or we will close it as duplicate.
 | [NikhilS67789197@twitter](https://twitter.com/NikhilS67789197/status/1400026495444086785) | advertise |
 | [NikhilS76692989@twitter](https://twitter.com/NikhilS76692989/status/1386257034522218501) | advertise |
 | [NikhilSPawar4@twitter](https://twitter.com/NikhilSPawar4/status/1447058829020069891) | advertise |
+| [NikimaNsit62199@twitter](https://twitter.com/NikimaNsit62199/status/1710239936954417366) | advertise |
 | [NikkiLe53425659@twitter](https://twitter.com/NikkiLe53425659/status/1556629742115225602) | advertise |
 | [NikkiWhitten6@twitter](https://twitter.com/NikkiWhitten6/status/1665889185461334017) | advertise |
 | [nik_dokht@twitter](https://twitter.com/nik_dokht/status/1580302051128446977) | advertise |
@@ -10853,6 +10854,7 @@ Do not create new issue or we will close it as duplicate.
 | [ria119933@twitter](https://twitter.com/ria119933/status/1544978539774099456) | advertise |
 | [rian71515036@twitter](https://twitter.com/rian71515036/status/1387106975465549824) | advertise |
 | [RicardoDeMauro@twitter](https://twitter.com/RicardoDeMauro/status/1387279863879458817) | advertise |
+| [RicardoLLN@twitter](https://twitter.com/RicardoLLN/status/1710250909010452534) | advertise |
 | [Richieboateng5@twitter](https://twitter.com/Richieboateng5/status/1384939346030211077) | advertise |
 | [RichRobinhood@twitter](https://twitter.com/RichRobinhood/status/1538810308956921856) | advertise |
 | [Ricky87282850@twitter](https://twitter.com/Ricky87282850/status/1397162246476754945) | advertise |
