@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Increased number of 403 errors due to congestion in multiple North American locations.](https://github.com/hinoshiba/news/issues/4453)
+- [CloudFlare Increased number of 403 errors due to congestion in multiple North American locations.](https://github.com/SecOpsNews/news/issues/19762)
 - [Could not switch method from POST to GET in redirection.](https://github.com/yifeikong/curl_cffi/issues/135)
 - [3.7.4 loads webworker types, breaking cloudflare workers types](https://github.com/honojs/hono/issues/1547)
 - [req.raw.cf types broken in 3.7.4](https://github.com/honojs/hono/issues/1546)
