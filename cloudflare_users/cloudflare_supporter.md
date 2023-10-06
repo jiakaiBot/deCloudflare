@@ -799,6 +799,7 @@ Do not create new issue or we will close it as duplicate.
 | [Amirtalib02@twitter](https://twitter.com/Amirtalib02/status/1564245612412825601) | advertise |
 | [AmirullAyob@twitter](https://twitter.com/AmirullAyob/status/1474048815149682689) | advertise |
 | [AmirulOfficialy@twitter](https://twitter.com/AmirulOfficialy/status/1591303301081202688) | advertise |
+| [amirulramli12@twitter](https://twitter.com/amirulramli12/status/1710216399057289447) | advertise |
 | [Amirulsyafeeq66@twitter](https://twitter.com/Amirulsyafeeq66/status/1550517767899840512) | advertise |
 | [Amirvet22@twitter](https://twitter.com/Amirvet22/status/1659850934384570368) | advertise |
 | [amiryhawa1@twitter](https://twitter.com/amiryhawa1/status/1637080736988626947) | advertise |
@@ -12146,6 +12147,7 @@ Do not create new issue or we will close it as duplicate.
 | [SuSan43688845@twitter](https://twitter.com/SuSan43688845/status/1554827357034512384) | advertise |
 | [sushidesignerr@twitter](https://twitter.com/sushidesignerr/status/1591171105121001472) | advertise |
 | [SuSu43088830@twitter](https://twitter.com/SuSu43088830/status/1596615743335895040) | advertise |
+| [Susuuumurni@twitter](https://twitter.com/Susuuumurni/status/1710213715143106701) | advertise |
 | [SuSuWin06068758@twitter](https://twitter.com/SuSuWin06068758/status/1553316092931481603) | advertise |
 | [SuTrn58550307@twitter](https://twitter.com/SuTrn58550307/status/1603538130337812480) | advertise |
 | [suuccesethiopa@twitter](https://twitter.com/suuccesethiopa/status/1510972073769902082) | advertise |
@@ -13540,6 +13542,7 @@ Do not create new issue or we will close it as duplicate.
 | [uyen_ntm@twitter](https://twitter.com/uyen_ntm/status/1385006379870527489) | advertise |
 | [UYePhyo1@twitter](https://twitter.com/UYePhyo1/status/1390074171409895427) | advertise |
 | [UyghurTv@twitter](https://twitter.com/UyghurTv/status/1540987593315287042) | advertise |
+| [uygunhiu@twitter](https://twitter.com/uygunhiu/status/1710218757438931350) | advertise |
 | [UynTrn69457275@twitter](https://twitter.com/UynTrn69457275/status/1402518691749588993) | advertise |
 | [uzairabdul@twitter](https://twitter.com/uzairabdul/status/1393627317201620992) | advertise |
 | [UzairMan@twitter](https://twitter.com/UzairMan/status/1385198515861659649) | advertise |
