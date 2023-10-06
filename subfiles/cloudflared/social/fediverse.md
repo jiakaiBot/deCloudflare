@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,594 |
 | net | 3,806 |
 | org | 2,543 |
-| de | 2,361 |
+| de | 2,362 |
 
 
 - Mastodon, Pleroma, etc
@@ -3652,6 +3652,7 @@ Here's a list of public Fediverse services.
 | `bachaner.fr` | No |
 | `bacherik.eu` | Yes |
 | `bachgau.social` | No |
+| `bachhausen.de` | No |
 | `bachmann.social` | No |
 | `bachmann.wtf` | No |
 | `backbord.net` | No |
@@ -48816,7 +48817,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,633 |
-| Normal | 35,134 |
+| Normal | 35,135 |
 
 
 </details>
