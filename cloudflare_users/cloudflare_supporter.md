@@ -11470,6 +11470,7 @@ Do not create new issue or we will close it as duplicate.
 | [SergioBruja@twitter](https://twitter.com/SergioBruja/status/1383807911781015563) | advertise |
 | [serndev@twitter](https://twitter.com/serndev/status/1659221246905573376) | advertise |
 | [Seth12888249@twitter](https://twitter.com/Seth12888249/status/1391277120844873728) | advertise |
+| [setiabudi_d@twitter](https://twitter.com/setiabudi_d/status/1710394318211748030) | advertise |
 | [SetPaimg@twitter](https://twitter.com/SetPaimg/status/1397474221425512450) | advertise |
 | [SettpaiJ@twitter](https://twitter.com/SettpaiJ/status/1679839959535226880) | advertise |
 | [Sev56332308@twitter](https://twitter.com/Sev56332308/status/1408078023425986560) | advertise |
