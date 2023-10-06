@@ -5157,6 +5157,7 @@ Here's a list of public Fediverse services.
 | `bobiko.blog` | Yes |
 | `bobiko.dev` | Yes |
 | `bobiverse.social` | Yes |
+| `bobjonkman.ca` | No |
 | `bobmuellerwriter.com` | No |
 | `bobobo80.com` | Yes |
 | `bobs.social` | No |
@@ -48817,7 +48818,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,633 |
-| Normal | 35,135 |
+| Normal | 35,136 |
 
 
 </details>
