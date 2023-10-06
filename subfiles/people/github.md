@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Could not switch method from POST to GET in redirection.](https://github.com/yifeikong/curl_cffi/issues/135)
 - [3.7.4 loads webworker types, breaking cloudflare workers types](https://github.com/honojs/hono/issues/1547)
 - [req.raw.cf types broken in 3.7.4](https://github.com/honojs/hono/issues/1546)
 - ["Forbidden" error with app on apkmirror](https://github.com/ImranR98/Obtainium/issues/957)
