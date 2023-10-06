@@ -18288,6 +18288,7 @@ Here's a list of public Fediverse services.
 | `href.space` | No |
 | `href.ws` | No |
 | `hrkp.ir` | No |
+| `hrmk.uk` | Yes |
 | `hrmtc.com` | Yes |
 | `hrmtc.io` | Yes |
 | `hrnmtech.de` | No |
@@ -20086,7 +20087,7 @@ Here's a list of public Fediverse services.
 | `javier.dev` | Yes |
 | `javier.is` | No |
 | `javierleiva.com` | No |
-| `javiersanchez.net` | No |
+| `javiersanchez.net` | Yes |
 | `javiljoen.net` | Yes |
 | `javisantana.com` | No |
 | `javisst.space` | No |
@@ -40454,6 +40455,7 @@ Here's a list of public Fediverse services.
 | `steveroy.ca` | Yes |
 | `stevesnider.com` | No |
 | `stevestreza.com` | No |
+| `stevesworld.co` | No |
 | `steviebobbins.com` | No |
 | `stevijo.me` | Yes |
 | `stezen.de` | Yes |
@@ -46133,6 +46135,7 @@ Here's a list of public Fediverse services.
 | `wakoka.com` | No |
 | `waku.dev` | Yes |
 | `wakuwaku.boo` | Yes |
+| `wakuwaku.gg` | No |
 | `wakuwaku.social` | No |
 | `wakuwakup.net` | Yes |
 | `wala2x.de` | Yes |
@@ -48817,8 +48820,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,633 |
-| Normal | 35,136 |
+| Cloudflare | 13,635 |
+| Normal | 35,137 |
 
 
 </details>
