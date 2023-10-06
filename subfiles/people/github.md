@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Poor API performance and reliability](https://github.com/calcom/cal.com/issues/11743)
 - [Implement Oauth For Okta Service Application online tools are erroring.](https://github.com/okta/okta-developer-docs/issues/4420)
 - [Missing contacts causes AttributeError exception](https://github.com/InternetNZ/pyepp/issues/56)
 - [CloudFlare Increased number of 403 errors due to congestion in multiple North American locations.](https://github.com/hinoshiba/news/issues/4453)
