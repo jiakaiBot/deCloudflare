@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,499 |
-| social | 4,593 |
+| social | 4,594 |
 | net | 3,806 |
 | org | 2,543 |
 | de | 2,361 |
@@ -9719,6 +9719,7 @@ Here's a list of public Fediverse services.
 | `deemos.club` | Yes |
 | `deep-learning.site` | No |
 | `deep-weeb.com` | No |
+| `deep13.social` | No |
 | `deep14.com` | No |
 | `deepak.pro` | Yes |
 | `deepak.science` | No |
@@ -35335,6 +35336,7 @@ Here's a list of public Fediverse services.
 | `rap.pm` | Yes |
 | `rap.social` | Yes |
 | `rapadura.site` | No |
+| `rape.pet` | No |
 | `rape.town` | No |
 | `rapefeminists.network` | No |
 | `rapemeat.express` | No |
@@ -45160,7 +45162,7 @@ Here's a list of public Fediverse services.
 | `uvok.de` | No |
 | `uvolante.org` | No |
 | `uwah.moe` | No |
-| `uwan.net` | No |
+| `uwan.net` | Yes |
 | `uwu.care` | Yes |
 | `uwu.community` | Yes |
 | `uwu.engineering` | Yes |
@@ -48812,8 +48814,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,633 |
-| Normal | 35,131 |
+| Cloudflare | 13,634 |
+| Normal | 35,132 |
 
 
 </details>
