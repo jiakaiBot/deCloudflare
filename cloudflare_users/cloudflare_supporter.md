@@ -2696,6 +2696,7 @@ Do not create new issue or we will close it as duplicate.
 | [daimonhall@twitter](https://twitter.com/daimonhall/status/1447552421421625345) | advertise |
 | [daisy_hann@twitter](https://twitter.com/daisy_hann/status/1393047426798276608) | advertise |
 | [Dai_XK@twitter](https://twitter.com/Dai_XK/status/1488931866145325058) | advertise |
+| [dak8142@twitter](https://twitter.com/dak8142/status/1710111865819234529) | advertise |
 | [Daldoum94@twitter](https://twitter.com/Daldoum94/status/1599011583572713472) | advertise |
 | [Dali80188860@twitter](https://twitter.com/Dali80188860/status/1398634697094221825) | advertise |
 | [Dali_1016@twitter](https://twitter.com/Dali_1016/status/1677817615983730688) | advertise |
@@ -3703,6 +3704,7 @@ Do not create new issue or we will close it as duplicate.
 | [farzintamizi@twitter](https://twitter.com/farzintamizi/status/1589901052350173184) | advertise |
 | [Fashion_NoVa_Ne@twitter](https://twitter.com/Fashion_NoVa_Ne/status/1525972069216833537) | advertise |
 | [fasttrend786@twitter](https://twitter.com/fasttrend786/status/1671812313958195201) | advertise |
+| [fasvienta@twitter](https://twitter.com/fasvienta/status/1710091632408924316) | advertise |
 | [fatiherikliuniq@twitter](https://twitter.com/fatiherikliuniq/status/1542403905472053248) | advertise |
 | [fatimav699@twitter](https://twitter.com/fatimav699/status/1665889185839058944) | advertise |
 | [fatts_el@twitter](https://twitter.com/fatts_el/status/1569365314122514433) | advertise |
@@ -4713,6 +4715,7 @@ Do not create new issue or we will close it as duplicate.
 | [hNYFxvRiuF94Rng@twitter](https://twitter.com/hNYFxvRiuF94Rng/status/1389943967907663878) | advertise |
 | [hn_f22@twitter](https://twitter.com/hn_f22/status/1536824233799581699) | advertise |
 | [HN_thuy_14@twitter](https://twitter.com/HN_thuy_14/status/1700936123558813828) | advertise |
+| [ho21788@twitter](https://twitter.com/ho21788/status/1710050553642803549) | advertise |
 | [Ho83325255@twitter](https://twitter.com/Ho83325255/status/1588855516142645252) | advertise |
 | [Hoa10043102@twitter](https://twitter.com/Hoa10043102/status/1381035225271046144) | advertise |
 | [Hoa22631939Minh@twitter](https://twitter.com/Hoa22631939Minh/status/1485863462912020488) | advertise |
@@ -8742,6 +8745,7 @@ Do not create new issue or we will close it as duplicate.
 | [M_alamin95@twitter](https://twitter.com/M_alamin95/status/1376986669270847497) | advertise |
 | [m_isaac@twitter](https://twitter.com/m_isaac/status/1608218349036777472) | advertise |
 | [m_mazeed2011@twitter](https://twitter.com/m_mazeed2011/status/1488809662917091330) | advertise |
+| [m_ooo_ooo_n@twitter](https://twitter.com/m_ooo_ooo_n/status/1710032108536647865) | advertise |
 | [m_teegani@twitter](https://twitter.com/m_teegani/status/1563618580675051523) | advertise |
 | [n0k35@twitter](https://twitter.com/n0k35/status/1517243040615653376) | advertise |
 | [N1Stock@twitter](https://twitter.com/N1Stock/status/1685052617221632000) | advertise |
