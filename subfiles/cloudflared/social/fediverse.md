@@ -4887,6 +4887,7 @@ Here's a list of public Fediverse services.
 | `blanboom.org` | Yes |
 | `blank.org` | No |
 | `blankbaby.com` | Yes |
+| `blankdevaux.fr` | No |
 | `blanketfort.blog` | No |
 | `blankpad.net` | No |
 | `blankshrimp.com` | No |
@@ -7845,7 +7846,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -36894,7 +36895,7 @@ Here's a list of public Fediverse services.
 | `ryecroft21.net` | No |
 | `ryepenchi.xyz` | No |
 | `ryey.icu` | No |
-| `ryg.one` | No |
+| `ryg.one` | Yes |
 | `ryick.net` | No |
 | `ryjelsum.me` | Yes |
 | `ryjelsum.xyz` | No |
@@ -38410,7 +38411,7 @@ Here's a list of public Fediverse services.
 | `shiosyakeyakini.info` | No |
 | `shioyaki.party` | Yes |
 | `shipnix.io` | No |
-| `shiptoaster.xyz` | Yes |
+| `shiptoaster.xyz` | No |
 | `shiro.dog` | No |
 | `shiro.ink` | Yes |
 | `shiroganedon.net` | No |
@@ -48814,8 +48815,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,634 |
-| Normal | 35,132 |
+| Cloudflare | 13,633 |
+| Normal | 35,134 |
 
 
 </details>
