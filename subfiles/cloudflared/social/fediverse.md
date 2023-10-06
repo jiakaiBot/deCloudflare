@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,501 |
 | social | 4,594 |
-| net | 3,807 |
-| org | 2,544 |
-| de | 2,365 |
+| net | 3,808 |
+| org | 2,545 |
+| de | 2,366 |
 
 
 - Mastodon, Pleroma, etc
@@ -13744,6 +13744,7 @@ Here's a list of public Fediverse services.
 | `fig.lt` | No |
 | `fig.systems` | Yes |
 | `figendi.de` | No |
+| `fightbacknews.org` | Yes |
 | `fightforinfo.com` | No |
 | `fightforthefuture.org` | Yes |
 | `fightthis.net` | Yes |
@@ -27993,6 +27994,7 @@ Here's a list of public Fediverse services.
 | `morgn.net` | No |
 | `morgurth.com` | No |
 | `morichan.site` | No |
+| `morijio.space` | No |
 | `morikapu.com` | Yes |
 | `morikka.me` | No |
 | `morime.gay` | No |
@@ -39064,6 +39066,7 @@ Here's a list of public Fediverse services.
 | `sleepers.garden` | No |
 | `sleepi.life` | No |
 | `sleeping.town` | No |
+| `sleepingchild-band.de` | No |
 | `sleepy.cafe` | No |
 | `sleepy.casa` | No |
 | `sleepy.cool` | No |
@@ -43965,6 +43968,7 @@ Here's a list of public Fediverse services.
 | `trm.md` | Yes |
 | `trn.ac` | No |
 | `trn.social` | Yes |
+| `tro9.life` | Yes |
 | `troback.com` | No |
 | `troch.org` | No |
 | `troet.cafe` | No |
@@ -44655,6 +44659,7 @@ Here's a list of public Fediverse services.
 | `ulb.ac.be` | No |
 | `uldegrova.com` | No |
 | `uldhaar.dk` | No |
+| `uleh.net` | Yes |
 | `ulf-kaempfer.de` | No |
 | `ulik.at` | No |
 | `ulisboa.pt` | No |
@@ -48839,8 +48844,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,638 |
-| Normal | 35,153 |
+| Cloudflare | 13,641 |
+| Normal | 35,155 |
 
 
 </details>
