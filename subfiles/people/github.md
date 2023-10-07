@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [handleError is not awaited (?) so it can't async transmit the error somewhere (sentry, webhook, ...)](https://github.com/remix-run/remix/issues/7606)
 - [Poor API performance and reliability](https://github.com/calcom/cal.com/issues/11743)
 - [Implement Oauth For Okta Service Application online tools are erroring.](https://github.com/okta/okta-developer-docs/issues/4420)
 - [Missing contacts causes AttributeError exception](https://github.com/InternetNZ/pyepp/issues/56)
