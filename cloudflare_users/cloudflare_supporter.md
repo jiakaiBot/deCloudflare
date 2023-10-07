@@ -3822,6 +3822,7 @@ Do not create new issue or we will close it as duplicate.
 | [ForHad42656837@twitter](https://twitter.com/ForHad42656837/status/1700956407036842444) | advertise |
 | [ForidUd69936856@twitter](https://twitter.com/ForidUd69936856/status/1402253597501362182) | advertise |
 | [Forms_Ge@twitter](https://twitter.com/Forms_Ge/status/1413774450676453384) | advertise |
+| [For_joyce1@twitter](https://twitter.com/For_joyce1/status/1710657161271955679) | advertise |
 | [fouaadbarcha@twitter](https://twitter.com/fouaadbarcha/status/1636104214572335104) | advertise |
 | [fouad20092000@twitter](https://twitter.com/fouad20092000/status/1472866649971871744) | advertise |
 | [four5z@twitter](https://twitter.com/four5z/status/1503760771494391822) | advertise |
