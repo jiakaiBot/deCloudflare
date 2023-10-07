@@ -11994,6 +11994,7 @@ Do not create new issue or we will close it as duplicate.
 | [SSuiteSoftware@twitter](https://twitter.com/SSuiteSoftware/status/1372875712240230400) | advertise |
 | [Ssupunsathsara@twitter](https://twitter.com/Ssupunsathsara/status/1545152719266410496) | advertise |
 | [STA54946378@twitter](https://twitter.com/STA54946378/status/1394890464516399107) | advertise |
+| [staark_pubg@twitter](https://twitter.com/staark_pubg/status/1710736994643427349) | advertise |
 | [staff_nowa@twitter](https://twitter.com/staff_nowa/status/1587800884800638976) | advertise |
 | [stamp_app@twitter](https://twitter.com/stamp_app/status/1417450714490605568) | advertise |
 | [Stanicheva13@twitter](https://twitter.com/Stanicheva13/status/1699028135134806058) | advertise |
