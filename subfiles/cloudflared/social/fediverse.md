@@ -1770,6 +1770,7 @@ Here's a list of public Fediverse services.
 | `allgamerstalk.com` | Yes |
 | `allgays.xyz` | No |
 | `alliec.at` | No |
+| `alliejp.tv` | No |
 | `alliepa.ca` | No |
 | `allison.social` | No |
 | `allistodon.xyz` | No |
@@ -28965,6 +28966,7 @@ Here's a list of public Fediverse services.
 | `n1l.dev` | Yes |
 | `n1mtp.com` | Yes |
 | `n30k-zeiladn.com` | No |
+| `n33.eu` | No |
 | `n3cld.de` | No |
 | `n3rd.cc` | Yes |
 | `n3tf5r.me` | Yes |
@@ -48848,7 +48850,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,645 |
-| Normal | 35,154 |
+| Normal | 35,156 |
 
 
 </details>
