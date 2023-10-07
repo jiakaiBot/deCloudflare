@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,504 |
+| com | 7,505 |
 | social | 4,595 |
 | net | 3,809 |
 | org | 2,547 |
@@ -16991,6 +16991,7 @@ Here's a list of public Fediverse services.
 | `hactivedirectory.com` | Yes |
 | `hacusk.net` | Yes |
 | `haddock.cc` | Yes |
+| `hades.town` | No |
 | `hadret.com` | Yes |
 | `haecksen.social` | No |
 | `haeder.net` | No |
@@ -39096,6 +39097,7 @@ Here's a list of public Fediverse services.
 | `sleepycrew.social` | No |
 | `sleepyfox.social` | No |
 | `sleepygremlin.online` | No |
+| `sleepytealcoder.com` | No |
 | `sleiss.me` | Yes |
 | `sleroq.link` | Yes |
 | `slerp.ch` | No |
@@ -48865,7 +48867,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,653 |
-| Normal | 35,163 |
+| Normal | 35,165 |
 
 
 </details>
