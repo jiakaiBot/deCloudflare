@@ -5125,6 +5125,7 @@ Do not create new issue or we will close it as duplicate.
 | [huytoppp@twitter](https://twitter.com/huytoppp/status/1600017930267201536) | advertise |
 | [Huytrankm@twitter](https://twitter.com/Huytrankm/status/1552161221532876800) | advertise |
 | [Huyytr_@twitter](https://twitter.com/Huyytr_/status/1552993398990131200) | advertise |
+| [huy_bao21696@twitter](https://twitter.com/huy_bao21696/status/1710572174371885083) | advertise |
 | [huy_bdsm16@twitter](https://twitter.com/huy_bdsm16/status/1502827072129232896) | advertise |
 | [HvhcommunityN@twitter](https://twitter.com/HvhcommunityN/status/1386210716168990723) | advertise |
 | [HVnMinh46685368@twitter](https://twitter.com/HVnMinh46685368/status/1393410731706490882) | advertise |
