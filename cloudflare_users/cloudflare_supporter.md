@@ -2160,6 +2160,7 @@ Do not create new issue or we will close it as duplicate.
 | [cAnh50264481@twitter](https://twitter.com/cAnh50264481/status/1392635647995772930) | advertise |
 | [cAnhNgu31209163@twitter](https://twitter.com/cAnhNgu31209163/status/1689096642568531968) | advertise |
 | [CanhNgu39481095@twitter](https://twitter.com/CanhNgu39481095/status/1671719022247948288) | advertise |
+| [canh_pham3966@twitter](https://twitter.com/canh_pham3966/status/1710563184153895089) | advertise |
 | [CannafloraAus@twitter](https://twitter.com/CannafloraAus/status/1705917520698658983) | advertise |
 | [CantThinkOfUsnm@twitter](https://twitter.com/CantThinkOfUsnm/status/1412673732406042624) | moral (advertise) |
 | [CanturyN@twitter](https://twitter.com/CanturyN/status/1508572957173764097) | advertise |
@@ -5399,6 +5400,7 @@ Do not create new issue or we will close it as duplicate.
 | [iskand81808@twitter](https://twitter.com/iskand81808/status/1680060626528530435) | advertise |
 | [Iskecik2@twitter](https://twitter.com/Iskecik2/status/1403090108589301761) | advertise |
 | [Islam4qqq@twitter](https://twitter.com/Islam4qqq/status/1689323205972959239) | advertise |
+| [Islam2712@twitter](https://twitter.com/Islam2712/status/1710626563614503316) | advertise |
 | [IslamerAlo18@twitter](https://twitter.com/IslamerAlo18/status/1586672156456681475) | advertise |
 | [islamicempower@twitter](https://twitter.com/islamicempower/status/1643019938032939008) | advertise |
 | [Ismael25945424@twitter](https://twitter.com/Ismael25945424/status/1548610463944118272) | advertise |
@@ -7866,6 +7868,7 @@ Do not create new issue or we will close it as duplicate.
 | [MdMdrofy1@twitter](https://twitter.com/MdMdrofy1/status/1688289674354413568) | advertise |
 | [mdmsca@twitter](https://twitter.com/mdmsca/status/1389633758509293569) | advertise |
 | [MdNajmu09996248@twitter](https://twitter.com/MdNajmu09996248/status/1528812074528145408) | advertise |
+| [MdNasim5572@twitter](https://twitter.com/MdNasim5572/status/1710626487173554511) | advertise |
 | [MdNazmu41129198@twitter](https://twitter.com/MdNazmu41129198/status/1385844121915379712) | advertise |
 | [MDng56112137@twitter](https://twitter.com/MDng56112137/status/1396680258359754755) | advertise |
 | [MdOmarF63620186@twitter](https://twitter.com/MdOmarF63620186/status/1484456292450066432) | advertise |
@@ -14656,6 +14659,7 @@ Do not create new issue or we will close it as duplicate.
 | [Zero18004563@twitter](https://twitter.com/Zero18004563/status/1394624752262647812) | advertise |
 | [zerolamon1@twitter](https://twitter.com/zerolamon1/status/1386047123247058950) | advertise |
 | [zeropixx2@twitter](https://twitter.com/zeropixx2/status/1478373192804667396) | advertise |
+| [zerox896@twitter](https://twitter.com/zerox896/status/1710618155809394752) | advertise |
 | [zerrudo_@twitter](https://twitter.com/zerrudo_/status/1545499878096191489) | advertise |
 | [Zertong19@twitter](https://twitter.com/Zertong19/status/1472010175275941891) | advertise |
 | [Zeus001Godson@twitter](https://twitter.com/Zeus001Godson/status/1673439766728040450) | advertise |
