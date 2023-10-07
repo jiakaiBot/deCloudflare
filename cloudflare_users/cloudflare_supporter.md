@@ -4688,6 +4688,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hng62616737@twitter](https://twitter.com/Hng62616737/status/1400822036591616001) | advertise |
 | [Hng63775300@twitter](https://twitter.com/Hng63775300/status/1386976478005317634) | advertise |
 | [Hng64905700@twitter](https://twitter.com/Hng64905700/status/1387440130495901697) | advertise |
+| [Hng709235372111@twitter](https://twitter.com/Hng709235372111/status/1710642664134349059) | advertise |
 | [HngKook18@twitter](https://twitter.com/HngKook18/status/1398311240695353347) | advertise |
 | [HngL47372703@twitter](https://twitter.com/HngL47372703/status/1552332136564133888) | advertise |
 | [HngThnhng2@twitter](https://twitter.com/HngThnhng2/status/1622107816759795712) | advertise |
