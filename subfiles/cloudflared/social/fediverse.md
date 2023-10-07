@@ -8551,6 +8551,7 @@ Here's a list of public Fediverse services.
 | `crowdersoup.com` | No |
 | `crowerailwren.com` | No |
 | `crowesnest.io` | No |
+| `crowfx.web.id` | Yes |
 | `crowleyclub.com` | No |
 | `crownel.monster` | Yes |
 | `crownet.eu` | No |
@@ -9793,7 +9794,7 @@ Here's a list of public Fediverse services.
 | `deima.sh` | No |
 | `deimidis.me` | No |
 | `deinfo-projects.de` | No |
-| `deiru.tokyo` | No |
+| `deiru.tokyo` | Yes |
 | `deiseroth.de` | No |
 | `dejalle.net` | No |
 | `dejfcold.cz` | No |
@@ -24293,7 +24294,7 @@ Here's a list of public Fediverse services.
 | `loranger.xyz` | No |
 | `lord-mayo.uk` | Yes |
 | `lord.re` | No |
-| `lord.sh` | Yes |
+| `lord.sh` | No |
 | `lordinateur.tech` | Yes |
 | `lordmatt.co.uk` | Yes |
 | `lordofthedummies.com` | No |
@@ -31819,7 +31820,7 @@ Here's a list of public Fediverse services.
 | `organicchemistry.eu` | No |
 | `organicdesign.pub` | No |
 | `organisationtressecrete.com` | No |
-| `organizedchaos.cc` | Yes |
+| `organizedchaos.cc` | No |
 | `organizedchaos.space` | No |
 | `organizedcri.me` | No |
 | `organizing.social` | No |
@@ -48845,7 +48846,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,641 |
-| Normal | 35,155 |
+| Normal | 35,156 |
 
 
 </details>
