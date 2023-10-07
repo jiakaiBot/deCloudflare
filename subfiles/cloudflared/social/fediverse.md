@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,502 |
+| com | 7,504 |
 | social | 4,595 |
 | net | 3,809 |
 | org | 2,546 |
@@ -7185,6 +7185,7 @@ Here's a list of public Fediverse services.
 | `christian-vogeley.eu` | No |
 | `christianbuehlmann.com` | No |
 | `christianburkh.art` | No |
+| `christianheilmann.com` | No |
 | `christianity.business` | Yes |
 | `christianjunk.de` | Yes |
 | `christiankracher.com` | No |
@@ -13852,6 +13853,7 @@ Here's a list of public Fediverse services.
 | `firefish.boo` | No |
 | `firefish.city` | No |
 | `firefish.community` | No |
+| `firefish.jp` | Yes |
 | `firefish.lgbt` | No |
 | `firefish.lol` | No |
 | `firefish.nz` | No |
@@ -15701,6 +15703,7 @@ Here's a list of public Fediverse services.
 | `geofox.org` | Yes |
 | `geofront.rocks` | No |
 | `geolove1456.com` | No |
+| `geolyceum.com` | No |
 | `geontime.com` | No |
 | `geoplanetary.net` | Yes |
 | `geordieguy.au` | No |
@@ -48857,8 +48860,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,650 |
-| Normal | 35,159 |
+| Cloudflare | 13,651 |
+| Normal | 35,161 |
 
 
 </details>
