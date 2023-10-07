@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,501 |
+| com | 7,502 |
 | social | 4,594 |
-| net | 3,808 |
-| org | 2,545 |
-| de | 2,366 |
+| net | 3,809 |
+| org | 2,546 |
+| de | 2,367 |
 
 
 - Mastodon, Pleroma, etc
@@ -262,6 +262,7 @@ Here's a list of public Fediverse services.
 | `1611.social` | Yes |
 | `161976857.com` | No |
 | `161hz.de` | No |
+| `1641s.net` | Yes |
 | `1689.social` | Yes |
 | `1689fellowship.com` | Yes |
 | `1701home.com` | Yes |
@@ -4871,6 +4872,7 @@ Here's a list of public Fediverse services.
 | `blahaj.gg` | Yes |
 | `blahaj.land` | No |
 | `blahaj.lol` | No |
+| `blahaj.love` | No |
 | `blahaj.ovh` | Yes |
 | `blahaj.photo` | Yes |
 | `blahaj.pics` | No |
@@ -6998,7 +7000,7 @@ Here's a list of public Fediverse services.
 | `chickadee.cloud` | Yes |
 | `chicken.rodeo` | No |
 | `chickenfan.club` | No |
-| `chickenkiller.com` | No |
+| `chickenkiller.com` | Yes |
 | `chico.moe` | No |
 | `chicoca.net` | No |
 | `chidgey.xyz` | No |
@@ -7853,7 +7855,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8402,6 +8404,7 @@ Here's a list of public Fediverse services.
 | `crazynoisybizarre.town` | No |
 | `crazypanda.fr` | No |
 | `crazystreams.org` | Yes |
+| `crb.re` | No |
 | `cre8iv.social` | No |
 | `cre8thoughts.com` | No |
 | `creacher.club` | No |
@@ -18745,6 +18748,7 @@ Here's a list of public Fediverse services.
 | `idiomdrottning.org` | No |
 | `idiot-garbage.tk` | No |
 | `idiot.sh` | Yes |
+| `idiotbagel.com` | No |
 | `idiots.chat` | No |
 | `idk.party` | No |
 | `idlesignal.com` | No |
@@ -43842,6 +43846,7 @@ Here's a list of public Fediverse services.
 | `traumadance.com` | No |
 | `travel-friends.chat` | No |
 | `travel-japan.group` | No |
+| `travelink.de` | No |
 | `travelodon.net` | No |
 | `travelpandas.eu` | No |
 | `travelpandas.fr` | No |
@@ -44643,6 +44648,7 @@ Here's a list of public Fediverse services.
 | `uiuxdev.social` | Yes |
 | `uji.es` | No |
 | `uk.to` | Yes |
+| `ukcolumn.org` | Yes |
 | `ukd.social` | Yes |
 | `ukese.me` | No |
 | `ukgb.social` | Yes |
@@ -48849,8 +48855,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,645 |
-| Normal | 35,156 |
+| Cloudflare | 13,649 |
+| Normal | 35,158 |
 
 
 </details>
