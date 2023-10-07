@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,502 |
-| social | 4,594 |
+| social | 4,595 |
 | net | 3,809 |
 | org | 2,546 |
 | de | 2,367 |
@@ -6495,6 +6495,7 @@ Here's a list of public Fediverse services.
 | `catgirl.army` | Yes |
 | `catgirl.biz` | Yes |
 | `catgirl.cafe` | No |
+| `catgirl.center` | Yes |
 | `catgirl.cloud` | Yes |
 | `catgirl.download` | No |
 | `catgirl.engineering` | Yes |
@@ -15061,6 +15062,7 @@ Here's a list of public Fediverse services.
 | `fursona.party` | Yes |
 | `furstenberg.co` | Yes |
 | `fursuit.me` | No |
+| `fursuit.social` | No |
 | `fursuits.online` | No |
 | `furtenbach.social` | No |
 | `further-steps.eu` | No |
@@ -48855,8 +48857,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,649 |
-| Normal | 35,158 |
+| Cloudflare | 13,650 |
+| Normal | 35,159 |
 
 
 </details>
