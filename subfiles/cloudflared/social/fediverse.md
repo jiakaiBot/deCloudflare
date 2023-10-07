@@ -32734,7 +32734,7 @@ Here's a list of public Fediverse services.
 | `peertube.cf` | Yes |
 | `peertube.ch` | No |
 | `peertube.cl` | No |
-| `peertube.club` | No |
+| `peertube.club` | Yes |
 | `peertube.co.uk` | No |
 | `peertube.com.au` | No |
 | `peertube.dk` | Yes |
@@ -36697,6 +36697,7 @@ Here's a list of public Fediverse services.
 | `rsplwe.com` | Yes |
 | `rss.town` | No |
 | `rssto.social` | Yes |
+| `rstats.me` | No |
 | `rstdn-p.com` | No |
 | `rsxo.de` | No |
 | `rsync420.com` | Yes |
@@ -48846,7 +48847,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,644 |
+| Cloudflare | 13,645 |
 | Normal | 35,154 |
 
 
