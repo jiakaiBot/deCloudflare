@@ -1389,6 +1389,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungZin85246702@twitter](https://twitter.com/AungZin85246702/status/1395941143179710468) | advertise |
 | [AungZin89580728@twitter](https://twitter.com/AungZin89580728/status/1390098630879498240) | advertise |
 | [AungZweMarn2@twitter](https://twitter.com/AungZweMarn2/status/1387380277547208705) | advertise |
+| [aung_khant38676@twitter](https://twitter.com/aung_khant38676/status/1710695008435843539) | advertise |
 | [aupeo@twitter](https://twitter.com/aupeo/status/1607030623943954432) | advertise |
 | [Aurk2beeS@twitter](https://twitter.com/Aurk2beeS/status/1561981490057158657) | advertise |
 | [Auroprex@twitter](https://twitter.com/Auroprex/status/1376780261560512513) | advertise |
@@ -2205,6 +2206,7 @@ Do not create new issue or we will close it as duplicate.
 | [Caylabsh231@twitter](https://twitter.com/Caylabsh231/status/1642198060133662720) | advertise |
 | [Cazito1@twitter](https://twitter.com/Cazito1/status/1493689843003445252) | advertise |
 | [cbi36470317@twitter](https://twitter.com/cbi36470317/status/1553803258178592769) | advertise |
+| [CCang39529@twitter](https://twitter.com/CCang39529/status/1710698902717149295) | advertise |
 | [CcBi418802@twitter](https://twitter.com/CcBi418802/status/1683374498391916544) | advertise |
 | [Cccc19132123@twitter](https://twitter.com/Cccc19132123/status/1394688217815814146) | advertise |
 | [Cccc35205212@twitter](https://twitter.com/Cccc35205212/status/1392255440336023553) | advertise |
@@ -8103,6 +8105,7 @@ Do not create new issue or we will close it as duplicate.
 | [Minh23535907@twitter](https://twitter.com/Minh23535907/status/1401465681598500871) | advertise |
 | [minh53487577@twitter](https://twitter.com/minh53487577/status/1541140961467572224) | advertise |
 | [minh81299480@twitter](https://twitter.com/minh81299480/status/1386326668562685955) | advertise |
+| [MinhadMohammad@twitter](https://twitter.com/MinhadMohammad/status/1710674525506228353) | advertise |
 | [Minhan03964808@twitter](https://twitter.com/Minhan03964808/status/1552625474982924289) | advertise |
 | [MinhAnh25122007@twitter](https://twitter.com/MinhAnh25122007/status/1403191817101737988) | advertise |
 | [MinhAnh32753974@twitter](https://twitter.com/MinhAnh32753974/status/1493253864212287488) | advertise |
