@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,595 |
 | net | 3,809 |
 | org | 2,547 |
-| de | 2,368 |
+| de | 2,369 |
 
 
 - Mastodon, Pleroma, etc
@@ -10378,6 +10378,7 @@ Here's a list of public Fediverse services.
 | `digor.sh` | No |
 | `digper.tech` | No |
 | `digressive.me` | No |
+| `digselver.de` | No |
 | `dijy.eu.org` | Yes |
 | `dilavni.com` | Yes |
 | `diligiant.com` | Yes |
@@ -48864,7 +48865,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,653 |
-| Normal | 35,162 |
+| Normal | 35,163 |
 
 
 </details>
