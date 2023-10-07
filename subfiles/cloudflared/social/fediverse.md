@@ -21054,7 +21054,7 @@ Here's a list of public Fediverse services.
 | `kaijauch.de` | No |
 | `kaiju.city` | No |
 | `kaiju.social` | Yes |
-| `kaijus.us` | No |
+| `kaijus.us` | Yes |
 | `kaikoga.net` | No |
 | `kaikretschmann.de` | No |
 | `kaikyosha.net` | No |
@@ -27995,7 +27995,7 @@ Here's a list of public Fediverse services.
 | `morgn.net` | No |
 | `morgurth.com` | No |
 | `morichan.site` | No |
-| `morijio.space` | No |
+| `morijio.space` | Yes |
 | `morikapu.com` | Yes |
 | `morikka.me` | No |
 | `morime.gay` | No |
@@ -31722,7 +31722,7 @@ Here's a list of public Fediverse services.
 | `oplibris.com` | No |
 | `opliko.dev` | Yes |
 | `opossum.rocks` | No |
-| `oppai.pub` | No |
+| `oppai.pub` | Yes |
 | `oppai.tokyo` | No |
 | `oppo.camp` | No |
 | `opportunis.me` | No |
@@ -37069,6 +37069,7 @@ Here's a list of public Fediverse services.
 | `sagephoenix.org` | No |
 | `sager.wang` | Yes |
 | `sageresearchmethods.com` | No |
+| `sagf.io` | No |
 | `saghul.net` | Yes |
 | `sagt.xyz` | No |
 | `saguzi.jp` | No |
@@ -48845,8 +48846,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,641 |
-| Normal | 35,156 |
+| Cloudflare | 13,644 |
+| Normal | 35,154 |
 
 
 </details>
