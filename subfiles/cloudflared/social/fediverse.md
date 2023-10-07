@@ -32,8 +32,8 @@ Here's a list of public Fediverse services.
 | com | 7,504 |
 | social | 4,595 |
 | net | 3,809 |
-| org | 2,546 |
-| de | 2,367 |
+| org | 2,547 |
+| de | 2,368 |
 
 
 - Mastodon, Pleroma, etc
@@ -13568,6 +13568,7 @@ Here's a list of public Fediverse services.
 | `fellstar.one` | No |
 | `felmey.org` | No |
 | `felmo.app` | No |
+| `felunis.de` | Yes |
 | `felvidek.online` | No |
 | `fem.ninja` | No |
 | `fem.social` | No |
@@ -17642,6 +17643,7 @@ Here's a list of public Fediverse services.
 | `herokai.cafe` | No |
 | `herokuapp.com` | No |
 | `herolfg.com` | No |
+| `herr-jemineh.org` | No |
 | `herrhaensel.de` | No |
 | `herrkochhatrecht.de` | No |
 | `herrliberg.online` | No |
@@ -41513,7 +41515,7 @@ Here's a list of public Fediverse services.
 | `talkparanormal.social` | No |
 | `talkplus.org` | No |
 | `talkr.online` | No |
-| `talks.social` | No |
+| `talks.social` | Yes |
 | `talksmacky.com` | No |
 | `talktech.info` | Yes |
 | `talktodan.com` | Yes |
@@ -45134,6 +45136,7 @@ Here's a list of public Fediverse services.
 | `useless.beauty` | Yes |
 | `useless.one` | No |
 | `uselesslesbian.club` | No |
+| `usenet.lol` | No |
 | `user.today` | Yes |
 | `userdreams.com` | No |
 | `userliberation.network` | No |
@@ -48860,8 +48863,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,651 |
-| Normal | 35,161 |
+| Cloudflare | 13,653 |
+| Normal | 35,162 |
 
 
 </details>
