@@ -6732,6 +6732,7 @@ Do not create new issue or we will close it as duplicate.
 | [kubon34505188@twitter](https://twitter.com/kubon34505188/status/1387458130548715522) | advertise |
 | [KubyW@twitter](https://twitter.com/KubyW/status/1679556773794164736) | advertise |
 | [Kudatlo@twitter](https://twitter.com/Kudatlo/status/1623118589502050305) | advertise |
+| [kuden_jp_81@twitter](https://twitter.com/kuden_jp_81/status/1711084674729279917) | advertise |
 | [kudzu_naoki@twitter](https://twitter.com/kudzu_naoki/status/1677183324329250816) | advertise |
 | [kukorop@twitter](https://twitter.com/kukorop/status/1688243940116631554) | advertise |
 | [kuksi007h@twitter](https://twitter.com/kuksi007h/status/1625651218780389377) | advertise |
