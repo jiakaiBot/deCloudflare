@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,506 |
-| social | 4,596 |
+| com | 7,507 |
+| social | 4,597 |
 | net | 3,809 |
 | org | 2,547 |
 | de | 2,369 |
@@ -18946,6 +18946,7 @@ Here's a list of public Fediverse services.
 | `imagia.academy` | Yes |
 | `imaginair.es` | No |
 | `imaginarykarin.com` | No |
+| `imaginatrix.xyz` | Yes |
 | `imagisphe.re` | No |
 | `imagotv.fr` | No |
 | `imal.org` | No |
@@ -23525,6 +23526,7 @@ Here's a list of public Fediverse services.
 | `lewd.cat` | No |
 | `lewd.cx` | No |
 | `lewd.host` | Yes |
+| `lewd.lgbt` | Yes |
 | `lewd.network` | No |
 | `lewd.pictures` | No |
 | `lewd.pm` | Yes |
@@ -31698,6 +31700,7 @@ Here's a list of public Fediverse services.
 | `opensimulator.social` | Yes |
 | `opensocial.africa` | No |
 | `opensocial.at` | No |
+| `opensocial.media` | No |
 | `opensocial.network` | Yes |
 | `opensocial.online` | Yes |
 | `opensocial.space` | No |
@@ -34927,6 +34930,7 @@ Here's a list of public Fediverse services.
 | `quickbrb.chat` | Yes |
 | `quickbrb.com` | Yes |
 | `quickfix.es` | No |
+| `quickodon.social` | No |
 | `quiescent.nexus` | No |
 | `quiet.horse` | No |
 | `quiet.social` | Yes |
@@ -43319,6 +43323,7 @@ Here's a list of public Fediverse services.
 | `tolstoevsky.ml` | No |
 | `tom-eric.info` | No |
 | `toma.ink` | Yes |
+| `toma09to.com` | Yes |
 | `tomais.nz` | Yes |
 | `tomarra.social` | No |
 | `tomasek.mobi` | Yes |
@@ -43981,6 +43986,7 @@ Here's a list of public Fediverse services.
 | `trismegiste.life` | Yes |
 | `trismegistus.eu` | No |
 | `trispadsmit.com` | No |
+| `tristanphillips.xyz` | Yes |
 | `tristansuper.com` | No |
 | `trisweb.com` | No |
 | `trivia.to` | No |
@@ -48869,8 +48875,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,653 |
-| Normal | 35,168 |
+| Cloudflare | 13,657 |
+| Normal | 35,170 |
 
 
 </details>
