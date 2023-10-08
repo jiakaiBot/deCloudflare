@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,507 |
 | social | 4,597 |
-| net | 3,809 |
+| net | 3,810 |
 | org | 2,547 |
 | de | 2,369 |
 
@@ -653,7 +653,7 @@ Here's a list of public Fediverse services.
 | `616.one` | No |
 | `619.fm` | Yes |
 | `619.ink` | Yes |
-| `619.zone` | Yes |
+| `619.zone` | No |
 | `621industries.com` | Yes |
 | `62ki.net` | Yes |
 | `62x54r.ru` | No |
@@ -8201,6 +8201,7 @@ Here's a list of public Fediverse services.
 | `corponauts.net` | Yes |
 | `corporaterunaways.social` | No |
 | `corporatetravel.social` | No |
+| `corpsmoderne.net` | No |
 | `corq.co` | No |
 | `correcthorse.net` | Yes |
 | `correctiv.social` | No |
@@ -48875,8 +48876,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,657 |
-| Normal | 35,170 |
+| Cloudflare | 13,656 |
+| Normal | 35,172 |
 
 
 </details>
