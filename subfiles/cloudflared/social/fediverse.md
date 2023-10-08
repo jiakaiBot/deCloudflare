@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,505 |
-| social | 4,595 |
+| com | 7,506 |
+| social | 4,596 |
 | net | 3,809 |
 | org | 2,547 |
 | de | 2,369 |
@@ -7857,7 +7857,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -30157,6 +30157,7 @@ Here's a list of public Fediverse services.
 | `nixgoat.me` | No |
 | `nixi.icu` | No |
 | `nixie.name` | No |
+| `nixkelley.com` | No |
 | `nixnerd.cc` | No |
 | `nixnet.services` | No |
 | `nixnet.social` | No |
@@ -31898,6 +31899,7 @@ Here's a list of public Fediverse services.
 | `orzhov.net` | No |
 | `orzs.tech` | Yes |
 | `os-service.eu` | Yes |
+| `os-tans.social` | No |
 | `os.vu` | No |
 | `os3.nl` | No |
 | `os33.co` | No |
@@ -32283,7 +32285,7 @@ Here's a list of public Fediverse services.
 | `packers.social` | No |
 | `packet.social` | No |
 | `packethost.net` | No |
-| `packetloss.gg` | No |
+| `packetloss.gg` | Yes |
 | `packetloss.social` | Yes |
 | `packetlost.dev` | No |
 | `packetranger.com` | No |
@@ -48867,7 +48869,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,653 |
-| Normal | 35,165 |
+| Normal | 35,167 |
 
 
 </details>
