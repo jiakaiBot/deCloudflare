@@ -11631,6 +11631,7 @@ Here's a list of public Fediverse services.
 | `edgeoftheuniver.se` | No |
 | `edgerunner.network` | No |
 | `edgerunners.club` | No |
+| `edgetips.tech` | No |
 | `edgetribe.net` | No |
 | `edgy.social` | Yes |
 | `edheil.com` | No |
@@ -19137,6 +19138,7 @@ Here's a list of public Fediverse services.
 | `indy.im` | No |
 | `indycompanion.com` | Yes |
 | `indyjp.club` | No |
+| `indymedia.pt` | No |
 | `indymotion.fr` | No |
 | `indytelegraph.com` | No |
 | `ineedthis.com` | Yes |
@@ -37882,6 +37884,7 @@ Here's a list of public Fediverse services.
 | `seanneil.co.uk` | Yes |
 | `seanos.net` | Yes |
 | `seanreiser.com` | Yes |
+| `seanut.app` | Yes |
 | `seanwilliams.social` | Yes |
 | `seanzach.com` | Yes |
 | `seaoco.com` | No |
@@ -47638,7 +47641,7 @@ Here's a list of public Fediverse services.
 | `xn--80an2adaa.xn--p1ai` | No |
 | `xn--8r9a.com` | No |
 | `xn--90aldbalef8bvy9l.xn--p1ai` | Yes |
-| `xn--90anxanf8c5b.xn--p1ai` | Yes |
+| `xn--90anxanf8c5b.xn--p1ai` | No |
 | `xn--931a.moe` | Yes |
 | `xn--99axc.xn--y9a3aq` | Yes |
 | `xn--9h5bn01a.net` | Yes |
@@ -48888,7 +48891,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,659 |
-| Normal | 35,180 |
+| Normal | 35,183 |
 
 
 </details>
