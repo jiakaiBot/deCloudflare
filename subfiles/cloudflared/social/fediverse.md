@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,507 |
+| com | 7,508 |
 | social | 4,600 |
 | net | 3,811 |
 | org | 2,547 |
@@ -2330,6 +2330,7 @@ Here's a list of public Fediverse services.
 | `annacon.be` | Yes |
 | `annadreambrush.com` | No |
 | `annakirche.at` | No |
+| `annascrafts.com` | No |
 | `annasvavrum.com` | No |
 | `annathepiper.org` | No |
 | `annetteschwindt.de` | No |
@@ -3395,6 +3396,7 @@ Here's a list of public Fediverse services.
 | `aventer.biz` | No |
 | `aventra.uk` | No |
 | `averagedom.com` | No |
+| `averagedood.xyz` | Yes |
 | `averly.me` | No |
 | `avery-weir.net` | No |
 | `avery.cafe` | No |
@@ -6446,7 +6448,7 @@ Here's a list of public Fediverse services.
 | `castelodelego.org` | No |
 | `castilla.social` | No |
 | `castironguy.ca` | No |
-| `castlebrickbuilding.com` | No |
+| `castlebrickbuilding.com` | Yes |
 | `castlecannon.house` | No |
 | `castleton.family` | No |
 | `castling.club` | No |
@@ -48893,7 +48895,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,659 |
+| Cloudflare | 13,661 |
 | Normal | 35,186 |
 
 
