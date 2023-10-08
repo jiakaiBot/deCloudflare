@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,507 |
-| social | 4,599 |
+| social | 4,600 |
 | net | 3,810 |
 | org | 2,547 |
 | de | 2,371 |
@@ -12688,6 +12688,7 @@ Here's a list of public Fediverse services.
 | `evolved.systems` | Yes |
 | `evolvingdev.io` | No |
 | `evometamecha.com` | No |
+| `evoterra.social` | No |
 | `evotm.com` | Yes |
 | `evri1s-connected.online` | No |
 | `evsyukov.org` | Yes |
@@ -31575,6 +31576,7 @@ Here's a list of public Fediverse services.
 | `onsen-musume.fun` | Yes |
 | `onsen.tech` | Yes |
 | `onster.farm` | No |
+| `ontheb.link` | No |
 | `onthebrink.social` | Yes |
 | `onthecouch.xyz` | No |
 | `onthedon.uk` | No |
@@ -48891,7 +48893,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,659 |
-| Normal | 35,183 |
+| Normal | 35,185 |
 
 
 </details>
