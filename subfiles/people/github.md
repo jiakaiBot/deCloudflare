@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare make a new tunnel method](https://github.com/Bing-su/sd-webui-tunnels/issues/9)
 - [Avoid issues with CSS minification processes](https://github.com/impress-org/givewp/issues/7011)
 - [multi_state xmv attempts to migrate data sources?](https://github.com/minamijoyo/tfmigrate/issues/159)
 - [Unable to install a NPM package](https://github.com/oven-sh/bun/issues/6357)
