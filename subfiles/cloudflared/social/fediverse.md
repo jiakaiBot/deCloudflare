@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,507 |
-| social | 4,597 |
+| social | 4,599 |
 | net | 3,810 |
 | org | 2,547 |
-| de | 2,369 |
+| de | 2,371 |
 
 
 - Mastodon, Pleroma, etc
@@ -7857,7 +7857,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8066,6 +8066,7 @@ Here's a list of public Fediverse services.
 | `constellationonline.net` | No |
 | `constructed.space` | No |
 | `constructinganarchisms.org` | No |
+| `construction.social` | No |
 | `constructionlaw.sg` | Yes |
 | `consudon.club` | No |
 | `consumium.org` | No |
@@ -8180,6 +8181,7 @@ Here's a list of public Fediverse services.
 | `corgi.farm` | No |
 | `corgi.social` | No |
 | `corgis.social` | Yes |
+| `corite.dev` | Yes |
 | `corkboard.social` | No |
 | `corklabdon.com` | No |
 | `corn.social` | No |
@@ -11236,6 +11238,7 @@ Here's a list of public Fediverse services.
 | `duckchat.me` | No |
 | `duckdns.org` | Yes |
 | `duckie.chat` | Yes |
+| `duckpond.social` | No |
 | `duckrowing.com` | No |
 | `ducksareawesome.net` | No |
 | `duclaria.com` | No |
@@ -11422,6 +11425,7 @@ Here's a list of public Fediverse services.
 | `e-ait.de` | No |
 | `e-code.in` | Yes |
 | `e-dt.xyz` | No |
+| `e-du-it.de` | No |
 | `e-editiones.org` | No |
 | `e-greta.fr` | No |
 | `e-jeremy.com` | No |
@@ -18201,6 +18205,7 @@ Here's a list of public Fediverse services.
 | `hoshi.garden` | Yes |
 | `hoshihara.co.jp` | No |
 | `hoshipaso.com` | Yes |
+| `hoshipaso.info` | No |
 | `hoshipaso.net` | Yes |
 | `hoshisaki-h.com` | Yes |
 | `hosimati.net` | Yes |
@@ -20018,6 +20023,7 @@ Here's a list of public Fediverse services.
 | `janerationx.social` | No |
 | `janetgunter.net` | No |
 | `janeway.co.uk` | Yes |
+| `janez.cz` | No |
 | `jangho.io` | Yes |
 | `janhamisch.de` | No |
 | `janherm.de` | No |
@@ -34579,6 +34585,7 @@ Here's a list of public Fediverse services.
 | `pugritos.cloud` | No |
 | `pugsley.xyz` | Yes |
 | `puhtahtoe.com` | Yes |
+| `pukeruabay.org.nz` | No |
 | `pukima.site` | Yes |
 | `pulala.net` | Yes |
 | `puliaiev.com` | No |
@@ -39618,6 +39625,7 @@ Here's a list of public Fediverse services.
 | `solarpunks.social` | No |
 | `solarpunkstation.com` | No |
 | `solarsystem.social` | No |
+| `solawi.farm` | No |
 | `solawi.social` | No |
 | `solchefreu.de` | No |
 | `sold.pk` | Yes |
@@ -40918,6 +40926,7 @@ Here's a list of public Fediverse services.
 | `summoners-riftodon.jp` | No |
 | `sumomo.ne.jp` | No |
 | `sumou.fun` | No |
+| `sun2.eu` | No |
 | `sunbeam.city` | No |
 | `sunburnt.social` | No |
 | `sunbutt.faith` | No |
@@ -41989,6 +41998,7 @@ Here's a list of public Fediverse services.
 | `telekomunikace.cz` | No |
 | `telemetrydeck.com` | No |
 | `telemillevaches.net` | No |
+| `telemoritz.de` | No |
 | `telent.net` | No |
 | `telepath.ee` | No |
 | `telepati.ch` | No |
@@ -43096,7 +43106,7 @@ Here's a list of public Fediverse services.
 | `tinerion.me` | No |
 | `tinfoil-hat.net` | No |
 | `tinfoil.social` | No |
-| `ting.cm` | No |
+| `ting.cm` | Yes |
 | `ting.systems` | No |
 | `tinh.at` | No |
 | `tinier.town` | No |
@@ -45922,6 +45932,7 @@ Here's a list of public Fediverse services.
 | `vollol.de` | No |
 | `volochay.info` | No |
 | `voloshyn.xyz` | No |
+| `volquardsen.photo` | No |
 | `volse.no` | No |
 | `volt.cafe` | No |
 | `volt.social` | Yes |
@@ -48876,8 +48887,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,656 |
-| Normal | 35,172 |
+| Cloudflare | 13,659 |
+| Normal | 35,180 |
 
 
 </details>
