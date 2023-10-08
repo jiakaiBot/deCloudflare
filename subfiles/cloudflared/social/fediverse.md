@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,507 |
 | social | 4,600 |
-| net | 3,810 |
+| net | 3,811 |
 | org | 2,547 |
 | de | 2,371 |
 
@@ -20560,6 +20560,7 @@ Here's a list of public Fediverse services.
 | `johntrain.org` | Yes |
 | `johnwarne.com` | Yes |
 | `johnwrogers.co.uk` | No |
+| `johnydeep.net` | No |
 | `join-fediverse.social` | No |
 | `join-lemmy.org` | No |
 | `joindiaspora.com` | No |
@@ -48893,7 +48894,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,659 |
-| Normal | 35,185 |
+| Normal | 35,186 |
 
 
 </details>
