@@ -180,6 +180,7 @@ Do not create new issue or we will close it as duplicate.
 | [573Glenn_M@twitter](https://twitter.com/573Glenn_M/status/1416400401637781509) | advertise |
 | [599Chinu@twitter](https://twitter.com/599Chinu/status/1393211483190972417) | advertise |
 | [678_ng@twitter](https://twitter.com/678_ng/status/1395341643667042306) | advertise |
+| [728idbcsb@twitter](https://twitter.com/728idbcsb/status/1711012324885299584) | advertise |
 | [813Tomles@twitter](https://twitter.com/813Tomles/status/1475852118879727619) | advertise |
 | [906_alshamsi@twitter](https://twitter.com/906_alshamsi/status/1646548122418442241) | advertise |
 | [1102zip@twitter](https://twitter.com/1102zip/status/1706668087578402993) | advertise |
@@ -1211,6 +1212,7 @@ Do not create new issue or we will close it as duplicate.
 | [ATP_Sang@twitter](https://twitter.com/ATP_Sang/status/1626915325227966465) | advertise |
 | [AttaAtt05399049@twitter](https://twitter.com/AttaAtt05399049/status/1386699730898456579) | advertise |
 | [attab0yyy@twitter](https://twitter.com/attab0yyy/status/1383128080818970624) | advertise |
+| [attain333@twitter](https://twitter.com/attain333/status/1710998435179217093) | advertise |
 | [atulresc@twitter](https://twitter.com/atulresc/status/1654962395142397955) | advertise |
 | [AuCoeurduMac@twitter](https://twitter.com/AuCoeurduMac/status/1632295278525947906) | advertise |
 | [augthu@twitter](https://twitter.com/augthu/status/1400836583994007554) | advertise |
@@ -2545,6 +2547,7 @@ Do not create new issue or we will close it as duplicate.
 | [conter_86@twitter](https://twitter.com/conter_86/status/1488218108754108420) | advertise |
 | [cooblur@twitter](https://twitter.com/cooblur/status/1596828358192828417) | advertise |
 | [cookierookie_g@twitter](https://twitter.com/cookierookie_g/status/1678598671661686785) | advertise |
+| [Coolest1070@twitter](https://twitter.com/Coolest1070/status/1711016393439650034) | advertise |
 | [CoolMax002ish@twitter](https://twitter.com/CoolMax002ish/status/1399164860928245763) | advertise |
 | [CoolVibez15@twitter](https://twitter.com/CoolVibez15/status/1569708012243238915) | advertise |
 | [cooolrims@twitter](https://twitter.com/cooolrims/status/1605033285444198401) | advertise |
@@ -2867,6 +2870,7 @@ Do not create new issue or we will close it as duplicate.
 | [DawdlingDreamer@twitter](https://twitter.com/DawdlingDreamer/status/1665889184937136129) | advertise |
 | [dawenego@twitter](https://twitter.com/dawenego/status/1475482184072843269) | advertise |
 | [dawjuujuu@twitter](https://twitter.com/dawjuujuu/status/1390089642116927489) | advertise |
+| [DawKhinThein2@twitter](https://twitter.com/DawKhinThein2/status/1711010067125039362) | advertise |
 | [DawMaThaung@twitter](https://twitter.com/DawMaThaung/status/1395988817983639557) | advertise |
 | [dawnzig@twitter](https://twitter.com/dawnzig/status/1664384761270267904) | advertise |
 | [dawn_howieson@twitter](https://twitter.com/dawn_howieson/status/1665874517254713352) | advertise |
@@ -3884,6 +3888,7 @@ Do not create new issue or we will close it as duplicate.
 | [Funcky77200595@twitter](https://twitter.com/Funcky77200595/status/1392335460807155714) | advertise |
 | [funkybear29@twitter](https://twitter.com/funkybear29/status/1514595662989602821) | advertise |
 | [furain_mushi@twitter](https://twitter.com/furain_mushi/status/1539651349797019649) | advertise |
+| [fury050605@twitter](https://twitter.com/fury050605/status/1710865316690211302) | advertise |
 | [fury67804656@twitter](https://twitter.com/fury67804656/status/1399012818767187969) | advertise |
 | [Furymdy@twitter](https://twitter.com/Furymdy/status/1380487672875999234) | advertise |
 | [fus1337@twitter](https://twitter.com/fus1337/status/1552694680676012033) | advertise |
@@ -5650,6 +5655,7 @@ Do not create new issue or we will close it as duplicate.
 | [JC58100888@twitter](https://twitter.com/JC58100888/status/1548162680984199169) | advertise |
 | [jcampos2208@twitter](https://twitter.com/jcampos2208/status/1399856800208404486) | advertise |
 | [JDbelem1@twitter](https://twitter.com/JDbelem1/status/1384610630917922817) | advertise |
+| [JDhornyguy@twitter](https://twitter.com/JDhornyguy/status/1710815644759781755) | advertise |
 | [jdiazfar@twitter](https://twitter.com/jdiazfar/status/1526666559053348866) | advertise |
 | [jdiezc@twitter](https://twitter.com/jdiezc/status/1684990332000186379) | advertise |
 | [jdjdjdj_dj45597@twitter](https://twitter.com/jdjdjdj_dj45597/status/1680593627440107520) | advertise |
