@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,508 |
 | social | 4,600 |
-| net | 3,811 |
+| net | 3,812 |
 | org | 2,547 |
 | de | 2,371 |
 
@@ -5807,6 +5807,7 @@ Here's a list of public Fediverse services.
 | `btrfly.social` | No |
 | `bts-army.life` | No |
 | `bts.chat` | No |
+| `btsec.net` | Yes |
 | `btun.org` | No |
 | `btw.no` | No |
 | `bub.cat` | Yes |
@@ -19141,6 +19142,7 @@ Here's a list of public Fediverse services.
 | `indy.im` | No |
 | `indycompanion.com` | Yes |
 | `indyjp.club` | No |
+| `indymedia.pt` | No |
 | `indymotion.fr` | No |
 | `indytelegraph.com` | No |
 | `ineedthis.com` | Yes |
@@ -37888,6 +37890,7 @@ Here's a list of public Fediverse services.
 | `seanneil.co.uk` | Yes |
 | `seanos.net` | Yes |
 | `seanreiser.com` | Yes |
+| `seanut.app` | Yes |
 | `seanwilliams.social` | Yes |
 | `seanzach.com` | Yes |
 | `seaoco.com` | No |
@@ -48893,8 +48896,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,660 |
-| Normal | 35,185 |
+| Cloudflare | 13,662 |
+| Normal | 35,186 |
 
 
 </details>
