@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Network Performance Issues in Mexico City](https://github.com/SecOpsNews/news/issues/19814)
+- [CloudFlare Network Performance Issues in Mexico City](https://github.com/hinoshiba/news/issues/4503)
 - [Cloudflare make a new tunnel method](https://github.com/Bing-su/sd-webui-tunnels/issues/9)
 - [Avoid issues with CSS minification processes](https://github.com/impress-org/givewp/issues/7011)
 - [multi_state xmv attempts to migrate data sources?](https://github.com/minamijoyo/tfmigrate/issues/159)
