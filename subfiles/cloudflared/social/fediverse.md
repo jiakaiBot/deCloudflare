@@ -19141,7 +19141,6 @@ Here's a list of public Fediverse services.
 | `indy.im` | No |
 | `indycompanion.com` | Yes |
 | `indyjp.club` | No |
-| `indymedia.pt` | No |
 | `indymotion.fr` | No |
 | `indytelegraph.com` | No |
 | `ineedthis.com` | Yes |
@@ -37889,7 +37888,6 @@ Here's a list of public Fediverse services.
 | `seanneil.co.uk` | Yes |
 | `seanos.net` | Yes |
 | `seanreiser.com` | Yes |
-| `seanut.app` | Yes |
 | `seanwilliams.social` | Yes |
 | `seanzach.com` | Yes |
 | `seaoco.com` | No |
@@ -48895,8 +48893,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,661 |
-| Normal | 35,186 |
+| Cloudflare | 13,660 |
+| Normal | 35,185 |
 
 
 </details>
