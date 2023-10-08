@@ -2770,6 +2770,7 @@ Do not create new issue or we will close it as duplicate.
 | [DanTran09071985@twitter](https://twitter.com/DanTran09071985/status/1390363471179489282) | advertise |
 | [danvice639s@twitter](https://twitter.com/danvice639s/status/1610309573570592772) | advertise |
 | [Danxity@twitter](https://twitter.com/Danxity/status/1521653614816956416) | advertise |
+| [danyalassi1@twitter](https://twitter.com/danyalassi1/status/1710986698522235346) | advertise |
 | [Danyntlp@twitter](https://twitter.com/Danyntlp/status/1613032210684346370) | advertise |
 | [DanyPratmanto@twitter](https://twitter.com/DanyPratmanto/status/1433013360367312904) | advertise |
 | [danzia224@twitter](https://twitter.com/danzia224/status/1470779146427064331) | advertise |
@@ -3765,6 +3766,7 @@ Do not create new issue or we will close it as duplicate.
 | [filip_krpan@twitter](https://twitter.com/filip_krpan/status/1552308010080509954) | advertise |
 | [FilmstudyRavens@twitter](https://twitter.com/FilmstudyRavens/status/1665858537644490752) | advertise |
 | [finalAnit@twitter](https://twitter.com/finalAnit/status/1665874518789746689) | advertise |
+| [FinallyFree2023@twitter](https://twitter.com/FinallyFree2023/status/1710985543696175198) | advertise |
 | [findmeadevice@twitter](https://twitter.com/findmeadevice/status/1465437487497682955) | advertise |
 | [finmods_com@twitter](https://twitter.com/finmods_com/status/1494976559966572549) | advertise |
 | [finn476@twitter](https://twitter.com/finn476/status/1379428259914424329) | advertise |
