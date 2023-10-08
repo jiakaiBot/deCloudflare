@@ -31,6 +31,7 @@ Here's a list of public Matrix services.
 | synapse.bark.lgbt | Yes |
 | bolha.chat | Yes |
 | breeze.town | No |
+| matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
@@ -74,7 +75,6 @@ Here's a list of public Matrix services.
 | matrix.monero.social | No |
 | mtrx.nz | No |
 | nitro.chat | No |
-| nope.chat | No |
 | matrix.norge.chat | Yes |
 | matrix.oikei.net | No |
 | matrix.ombreport.info | No |
