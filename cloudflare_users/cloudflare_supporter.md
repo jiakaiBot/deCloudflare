@@ -472,6 +472,7 @@ Do not create new issue or we will close it as duplicate.
 | [AhmadSh05216110@twitter](https://twitter.com/AhmadSh05216110/status/1567946014060945408) | advertise |
 | [AHMADSHAMSULAZ1@twitter](https://twitter.com/AHMADSHAMSULAZ1/status/1497963741874319360) | advertise |
 | [AhmadShuride@twitter](https://twitter.com/AhmadShuride/status/1579641157943840768) | advertise |
+| [ahmad_adawe@twitter](https://twitter.com/ahmad_adawe/status/1710801680235712661) | advertise |
 | [ahmad_antezar@twitter](https://twitter.com/ahmad_antezar/status/1532609013854109696) | advertise |
 | [Ahmaf285033755@twitter](https://twitter.com/Ahmaf285033755/status/1648046148333064200) | advertise |
 | [ahmdh4474@twitter](https://twitter.com/ahmdh4474/status/1390763076660736001) | advertise |
