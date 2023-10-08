@@ -110,7 +110,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | flm9.net | No |
 | freyja.pw | Yes |
 | froth.zone | No |
-| ftp.sh | No |
+| ftp.sh | Yes |
 | futa.gg | Yes |
 | gac.edu | No |
 | glorydns.com | Yes |
@@ -284,8 +284,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 124 |
-| Normal | 141 |
+| Cloudflare | 125 |
+| Normal | 140 |
 
 
-### 46.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
