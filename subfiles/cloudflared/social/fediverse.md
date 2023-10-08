@@ -26756,6 +26756,7 @@ Here's a list of public Fediverse services.
 | `meshspace.de` | No |
 | `mesita.link` | No |
 | `meskis.net` | No |
+| `mesmerized.online` | No |
 | `mesomer.com` | Yes |
 | `mesothermal.science` | No |
 | `mesozoik.cloud` | No |
@@ -48869,7 +48870,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,653 |
-| Normal | 35,167 |
+| Normal | 35,168 |
 
 
 </details>
