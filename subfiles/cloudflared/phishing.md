@@ -23,8 +23,8 @@ Here's the result.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,234 |
-| Normal | 51,134 |
+| Cloudflare | 4,250 |
+| Normal | 51,118 |
 
 
-### 7.6% of phishing domains are using Cloudflare.
+### 7.7% of phishing domains are using Cloudflare.
