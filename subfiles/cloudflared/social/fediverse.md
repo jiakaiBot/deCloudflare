@@ -34193,6 +34193,7 @@ Here's a list of public Fediverse services.
 | `praxis.red` | Yes |
 | `praxis.su` | Yes |
 | `prayerforwords.com` | No |
+| `prazeworks.uk` | No |
 | `prb1.es` | No |
 | `prdg.be` | No |
 | `prealpinux.com` | No |
@@ -48905,7 +48906,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,664 |
-| Normal | 35,192 |
+| Normal | 35,193 |
 
 
 </details>
