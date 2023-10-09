@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,509 |
+| com | 7,511 |
 | social | 4,600 |
 | net | 3,813 |
 | org | 2,548 |
@@ -10851,6 +10851,7 @@ Here's a list of public Fediverse services.
 | `donut0711.ga` | No |
 | `donwatkins.info` | No |
 | `doo.gay` | Yes |
+| `doobage.com` | No |
 | `doobie.cafe` | No |
 | `dood.net` | No |
 | `doodlehub.de` | No |
@@ -20172,7 +20173,7 @@ Here's a list of public Fediverse services.
 | `jbox.com.br` | Yes |
 | `jbradaric.me` | No |
 | `jbstans.social` | No |
-| `jbstockimages.com` | No |
+| `jbstockimages.com` | Yes |
 | `jbx.com` | No |
 | `jc1.ca` | Yes |
 | `jcaicedo.com` | Yes |
@@ -36601,6 +36602,7 @@ Here's a list of public Fediverse services.
 | `roothell.org` | Yes |
 | `rooting.garden` | No |
 | `rootintootin.org` | No |
+| `rootlinux.ro` | Yes |
 | `rootnode.xyz` | No |
 | `roots.works` | No |
 | `rootsignals.ai` | No |
@@ -40763,6 +40765,7 @@ Here's a list of public Fediverse services.
 | `studiofreesia.com` | No |
 | `studiohill.farm` | Yes |
 | `studionpc.net` | No |
+| `studioregen.com` | No |
 | `studiosabatino.it` | No |
 | `studiosjb.net` | No |
 | `studyabroad.social` | Yes |
@@ -48901,8 +48904,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,662 |
-| Normal | 35,191 |
+| Cloudflare | 13,664 |
+| Normal | 35,192 |
 
 
 </details>
