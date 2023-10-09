@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [wrangler 3.11.0 breaks Remix's HMR](https://github.com/remix-run/remix/issues/7616)
 - [Zeabur deployment shows 'Failed to fetch memo list'](https://github.com/usememos/memos/issues/2364)
 - [CloudFlare Network Performance Issues in Mexico City](https://github.com/SecOpsNews/news/issues/19814)
 - [CloudFlare Network Performance Issues in Mexico City](https://github.com/hinoshiba/news/issues/4503)
