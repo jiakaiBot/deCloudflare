@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,602 |
 | net | 3,816 |
 | org | 2,550 |
-| de | 2,373 |
+| de | 2,374 |
 
 
 - Mastodon, Pleroma, etc
@@ -14675,6 +14675,7 @@ Here's a list of public Fediverse services.
 | `freshman.dev` | No |
 | `freude.social` | No |
 | `freumh.org` | No |
+| `freunde-des-punk.de` | No |
 | `freundica.de` | No |
 | `freundliches.de` | Yes |
 | `freundtech.com` | No |
@@ -26619,6 +26620,7 @@ Here's a list of public Fediverse services.
 | `mellow.zone` | No |
 | `mellowcodelabs.social` | No |
 | `melmac.rocks` | No |
+| `melody.cat` | No |
 | `melon.computer` | No |
 | `melon.land` | No |
 | `melonbread.dev` | No |
@@ -26644,7 +26646,7 @@ Here's a list of public Fediverse services.
 | `meme.academy` | Yes |
 | `meme.beer` | Yes |
 | `meme.cheap` | No |
-| `meme.garden` | No |
+| `meme.garden` | Yes |
 | `meme.moe` | No |
 | `meme.technology` | No |
 | `memecorporation.de` | No |
@@ -32072,6 +32074,7 @@ Here's a list of public Fediverse services.
 | `ouahpiti.info` | No |
 | `ouais.xyz` | No |
 | `oubliette.city` | No |
+| `oubliette.solutions` | Yes |
 | `ouda.space` | No |
 | `oufmilo.com` | No |
 | `ouin.land` | No |
@@ -48922,8 +48925,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,674 |
-| Normal | 35,200 |
+| Cloudflare | 13,676 |
+| Normal | 35,201 |
 
 
 </details>
