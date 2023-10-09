@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,508 |
+| com | 7,509 |
 | social | 4,600 |
-| net | 3,812 |
-| org | 2,547 |
+| net | 3,813 |
+| org | 2,548 |
 | de | 2,371 |
 
 
@@ -3558,6 +3558,7 @@ Here's a list of public Fediverse services.
 | `azorius.net` | No |
 | `azuki-zenzai.net` | No |
 | `azuki.cf` | Yes |
+| `azuki.co` | No |
 | `azumabashi.dev` | No |
 | `azumanga.gay` | No |
 | `azumarill.net` | No |
@@ -39656,6 +39657,7 @@ Here's a list of public Fediverse services.
 | `solinge.eu` | No |
 | `solisoft.top` | No |
 | `solitary.social` | No |
+| `solitorian.com` | Yes |
 | `solitude.bar` | No |
 | `solmaz.io` | Yes |
 | `solna.in` | No |
@@ -39775,6 +39777,7 @@ Here's a list of public Fediverse services.
 | `soulstrata.xyz` | No |
 | `soultribe.net` | Yes |
 | `soulzeppel.in` | No |
+| `soundbored.org` | Yes |
 | `soundbyte.social` | No |
 | `soundcafe.nl` | No |
 | `soundcheck.fr` | No |
@@ -40650,6 +40653,7 @@ Here's a list of public Fediverse services.
 | `straightnofilter.com` | No |
 | `stralingsbewust.info` | No |
 | `strandcafe.fr` | No |
+| `strandgut.net` | No |
 | `strandundmeer.net` | No |
 | `strange.codes` | No |
 | `strange.faith` | No |
@@ -48897,8 +48901,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,660 |
-| Normal | 35,189 |
+| Cloudflare | 13,662 |
+| Normal | 35,191 |
 
 
 </details>
