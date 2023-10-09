@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,511 |
-| social | 4,600 |
+| com | 7,512 |
+| social | 4,602 |
 | net | 3,813 |
-| org | 2,548 |
-| de | 2,371 |
+| org | 2,549 |
+| de | 2,373 |
 
 
 - Mastodon, Pleroma, etc
@@ -1723,6 +1723,7 @@ Here's a list of public Fediverse services.
 | `alid.pw` | No |
 | `aliel.fr` | No |
 | `alien.moe` | Yes |
+| `alien.top` | Yes |
 | `alienlebarge.ch` | No |
 | `alienplanet.xyz` | No |
 | `aliensoup.social` | No |
@@ -2944,6 +2945,7 @@ Here's a list of public Fediverse services.
 | `as59715.net` | No |
 | `as60927.net` | No |
 | `as62430.net` | Yes |
+| `as89.it` | No |
 | `as9136.social` | No |
 | `asa2.xyz` | No |
 | `asabharwal.com` | Yes |
@@ -2956,6 +2958,7 @@ Here's a list of public Fediverse services.
 | `asbb.beskidy.pl` | Yes |
 | `asbestos.cafe` | No |
 | `asbestosden.org` | No |
+| `asc6.org` | Yes |
 | `ascendtoday.link` | No |
 | `ascenet.ch` | No |
 | `aschaffenburg.social` | No |
@@ -7216,6 +7219,7 @@ Here's a list of public Fediverse services.
 | `chriswilson.blog` | No |
 | `chriswood.social` | No |
 | `chriswright.photography` | Yes |
+| `chroju.dev` | Yes |
 | `chrom.ee` | Yes |
 | `chromabits.com` | No |
 | `chromachan.net` | No |
@@ -8324,6 +8328,7 @@ Here's a list of public Fediverse services.
 | `cozynest.online` | No |
 | `cozysumo.space` | Yes |
 | `cozytronics.com` | No |
+| `cphoelzchen.de` | No |
 | `cplus.app` | Yes |
 | `cplus8.com` | Yes |
 | `cpluspatch.com` | Yes |
@@ -26304,6 +26309,7 @@ Here's a list of public Fediverse services.
 | `maxwellvolume.com` | No |
 | `maxxblow.de` | Yes |
 | `maxxroot.com` | Yes |
+| `maxynetwork.it` | Yes |
 | `maya.coffee` | No |
 | `mayan-edms.xyz` | No |
 | `maybe.pizza` | No |
@@ -43891,6 +43897,8 @@ Here's a list of public Fediverse services.
 | `trashvod.com` | Yes |
 | `trashwigs.wtf` | No |
 | `traumadance.com` | No |
+| `travel-dealz.com` | Yes |
+| `travel-dealz.de` | Yes |
 | `travel-friends.chat` | No |
 | `travel-japan.group` | No |
 | `travelink.de` | No |
@@ -45560,6 +45568,7 @@ Here's a list of public Fediverse services.
 | `vergoz.ch` | No |
 | `verhu.xyz` | No |
 | `veri.dev` | Yes |
+| `veridian.social` | No |
 | `verified-mastodon.org` | No |
 | `verified-staging.net` | No |
 | `verified.af` | Yes |
@@ -48774,6 +48783,7 @@ Here's a list of public Fediverse services.
 | `zorbo.social` | No |
 | `zord.works` | No |
 | `zordhak.fr` | No |
+| `zorg.social` | No |
 | `zorg1331.one` | No |
 | `zork.social` | No |
 | `zornhau.de` | No |
@@ -48905,8 +48915,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,664 |
-| Normal | 35,193 |
+| Cloudflare | 13,670 |
+| Normal | 35,197 |
 
 
 </details>
