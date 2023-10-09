@@ -5714,6 +5714,7 @@ Do not create new issue or we will close it as duplicate.
 | [JesseREzung@twitter](https://twitter.com/JesseREzung/status/1384211301686136836) | advertise |
 | [jesse_sihenherg@twitter](https://twitter.com/jesse_sihenherg/status/1387006183018352643) | advertise |
 | [Jessica92254548@twitter](https://twitter.com/Jessica92254548/status/1501829716487008256) | advertise |
+| [jesuis_nona@twitter](https://twitter.com/jesuis_nona/status/1711152933524378067) | advertise |
 | [JesusMo24314256@twitter](https://twitter.com/JesusMo24314256/status/1634328567331930113) | advertise |
 | [jesus_zkb@twitter](https://twitter.com/jesus_zkb/status/1678257177235009536) | advertise |
 | [JesvinJ2@twitter](https://twitter.com/JesvinJ2/status/1386613096861495300) | advertise |
@@ -5736,6 +5737,7 @@ Do not create new issue or we will close it as duplicate.
 | [jiiahani@twitter](https://twitter.com/jiiahani/status/1399603047244853249) | advertise |
 | [JiiSaaduddin@twitter](https://twitter.com/JiiSaaduddin/status/1429958660575293466) | advertise |
 | [JiKyeol@twitter](https://twitter.com/JiKyeol/status/1553774067437604864) | advertise |
+| [JiluemZ17740@twitter](https://twitter.com/JiluemZ17740/status/1711209216063774805) | advertise |
 | [Jimenapa_@twitter](https://twitter.com/Jimenapa_/status/1653894372482772992) | advertise |
 | [jimfinch@twitter](https://twitter.com/jimfinch/status/1441444567342014465) | advertise |
 | [Jiminie1995bts@twitter](https://twitter.com/Jiminie1995bts/status/1398512785294647297) | advertise |
@@ -14369,6 +14371,7 @@ Do not create new issue or we will close it as duplicate.
 | [YcSQYLmX56wkzI3@twitter](https://twitter.com/YcSQYLmX56wkzI3/status/1404774248778973186) | advertise |
 | [Ye11929027@twitter](https://twitter.com/Ye11929027/status/1392452962803277833) | advertise |
 | [YeAkash@twitter](https://twitter.com/YeAkash/status/1397130824672112641) | advertise |
+| [yedtoodchan@twitter](https://twitter.com/yedtoodchan/status/1711156075263897803) | advertise |
 | [YeeMon15929845@twitter](https://twitter.com/YeeMon15929845/status/1391579636736270336) | advertise |
 | [Yeet17075954@twitter](https://twitter.com/Yeet17075954/status/1395175412569882628) | advertise |
 | [Yee_Yee_99@twitter](https://twitter.com/Yee_Yee_99/status/1394494024170369031) | advertise |
