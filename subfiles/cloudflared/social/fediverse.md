@@ -7860,7 +7860,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -48896,8 +48896,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,662 |
-| Normal | 35,186 |
+| Cloudflare | 13,661 |
+| Normal | 35,187 |
 
 
 </details>
