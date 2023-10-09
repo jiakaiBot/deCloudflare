@@ -34,7 +34,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | andrewnw.xyz | Yes |
 | anudeep.me | Yes |
 | apad.pro | Yes |
-| apemlegit.my.id | No |
 | artikel10.org | No |
 | avastdns.com | No |
 | avdkishore.dev | Yes |
@@ -164,7 +163,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | meddy94.de | No |
 | meeo.win | Yes |
 | meganerd.nl | No |
-| meshkov.info | Yes |
 | mhn.de | No |
 | mmmalia.com | No |
 | mobik.com | No |
@@ -284,8 +282,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 125 |
-| Normal | 140 |
+| Cloudflare | 124 |
+| Normal | 139 |
 
 
-### 47.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
