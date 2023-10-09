@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,512 |
+| com | 7,513 |
 | social | 4,602 |
-| net | 3,815 |
+| net | 3,816 |
 | org | 2,550 |
 | de | 2,373 |
 
@@ -19192,6 +19192,7 @@ Here's a list of public Fediverse services.
 | `inforbidden.ink` | No |
 | `informaction.info` | No |
 | `informalimd.com` | Yes |
+| `informalimd.net` | Yes |
 | `informancer.eu` | No |
 | `informapirata.it` | Yes |
 | `informatic.ai` | Yes |
@@ -19779,6 +19780,7 @@ Here's a list of public Fediverse services.
 | `itsukey.cf` | No |
 | `itsukey.jp` | No |
 | `itsukey.net` | No |
+| `itsumoonazicode.com` | Yes |
 | `itsybitsysissy.eu` | No |
 | `itsysadm.in` | No |
 | `itsze.ro` | Yes |
@@ -20377,6 +20379,7 @@ Here's a list of public Fediverse services.
 | `jibberjabber.online` | Yes |
 | `jibby.org` | Yes |
 | `jibun.club` | No |
+| `jibutare.dev` | Yes |
 | `jichi.blog` | Yes |
 | `jidaar.net` | No |
 | `jidong.in` | Yes |
@@ -38873,6 +38876,7 @@ Here's a list of public Fediverse services.
 | `sinon.gg` | Yes |
 | `sinon.rocks` | No |
 | `sinophone.world` | Yes |
+| `sinoru.me` | Yes |
 | `sins.center` | No |
 | `siotter.tk` | No |
 | `siotter.xyz` | Yes |
@@ -48918,7 +48922,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,670 |
+| Cloudflare | 13,674 |
 | Normal | 35,200 |
 
 
