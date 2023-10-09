@@ -75,6 +75,7 @@ Here's a list of breached sites.
 | BTCAlpha (BTC-Alpha) | 362,426 | Yes |
 | BTCE (BTC-E) | 568,340 | No |
 | BTSec (Bitcoin Security Forum Gmail Dump) | 4,789,599 | No |
+| BVD (Bureau van Dijk) | 27,917,714 | Yes |
 | BabyNames (Baby Names) | 846,742 | No |
 | Badoo | 112,005,531 | Yes |
 | BannerBit | 213,415 | Yes |
@@ -698,10 +699,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 396 | 4,457,801,965 |
+| Cloudflare | 397 | 4,485,719,679 |
 | Normal | 281 | 4,492,750,387 |
 
 
 
-### 58.5% of breached sites (pwned sites) are using Cloudflare.
-### 49.8% of leaked accounts are on Cloudflare sites.
+### 58.6% of breached sites (pwned sites) are using Cloudflare.
+### 50% of leaked accounts are on Cloudflare sites.
