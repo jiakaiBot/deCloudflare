@@ -448,6 +448,7 @@ Here's a list of breached sites.
 | Patreon | 2,330,382 | Yes |
 | PayAsUGym | 400,260 | No |
 | PayHere | 1,580,249 | Yes |
+| PaySystemTech (PaySystem.tech) | 1,410,764 | No |
 | Paytm | 3,395,101 | Yes |
 | Peatix | 4,227,907 | Yes |
 | Pemiblanc | 110,964,206 | No |
@@ -698,9 +699,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 396 | 4,457,801,965 |
-| Normal | 280 | 4,491,339,623 |
+| Normal | 281 | 4,492,750,387 |
 
 
 
-### 58.6% of breached sites (pwned sites) are using Cloudflare.
+### 58.5% of breached sites (pwned sites) are using Cloudflare.
 ### 49.8% of leaked accounts are on Cloudflare sites.
