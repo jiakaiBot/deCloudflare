@@ -38183,6 +38183,7 @@ Here's a list of public Fediverse services.
 | `serkozh.me` | No |
 | `serotonin.party` | No |
 | `serotoninpower.club` | No |
+| `serpent.skin` | No |
 | `serpentines.social` | No |
 | `serrebiradio.com` | No |
 | `serv-ops.com` | No |
@@ -41242,7 +41243,7 @@ Here's a list of public Fediverse services.
 | `symboli.cyou` | No |
 | `symbolic.city` | No |
 | `symbolic.software` | Yes |
-| `symbolic.website` | Yes |
+| `symbolic.website` | No |
 | `symdon.info` | Yes |
 | `sympatic.cloud` | No |
 | `symphonie-of-code.fr` | No |
@@ -48896,8 +48897,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,661 |
-| Normal | 35,187 |
+| Cloudflare | 13,660 |
+| Normal | 35,189 |
 
 
 </details>
