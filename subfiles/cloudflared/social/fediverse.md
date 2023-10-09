@@ -26620,6 +26620,7 @@ Here's a list of public Fediverse services.
 | `mellow.zone` | No |
 | `mellowcodelabs.social` | No |
 | `melmac.rocks` | No |
+| `melody.cat` | No |
 | `melon.computer` | No |
 | `melon.land` | No |
 | `melonbread.dev` | No |
@@ -48925,7 +48926,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,676 |
-| Normal | 35,200 |
+| Normal | 35,201 |
 
 
 </details>
