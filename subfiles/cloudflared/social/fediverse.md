@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,512 |
 | social | 4,602 |
-| net | 3,813 |
+| net | 3,814 |
 | org | 2,549 |
 | de | 2,373 |
 
@@ -14136,6 +14136,7 @@ Here's a list of public Fediverse services.
 | `fluttershy.club` | Yes |
 | `flutue.in` | Yes |
 | `flux.eus` | No |
+| `fluxcoil.net` | No |
 | `fluxfox.dev` | Yes |
 | `flw5.de` | No |
 | `flx.cat` | No |
@@ -48916,7 +48917,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,670 |
-| Normal | 35,197 |
+| Normal | 35,198 |
 
 
 </details>
