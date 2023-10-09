@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,512 |
 | social | 4,602 |
-| net | 3,814 |
-| org | 2,549 |
+| net | 3,815 |
+| org | 2,550 |
 | de | 2,373 |
 
 
@@ -13572,6 +13572,7 @@ Here's a list of public Fediverse services.
 | `feline.rodeo` | No |
 | `feline.social` | No |
 | `felines.space` | Yes |
+| `felinn.org` | No |
 | `feliver.se` | No |
 | `feliwyn.fr` | No |
 | `felixfoertsch.de` | Yes |
@@ -34310,6 +34311,7 @@ Here's a list of public Fediverse services.
 | `privacyquest.net` | Yes |
 | `privacytools.io` | Yes |
 | `privagram.com` | No |
+| `private-universe.net` | No |
 | `privatedns.org` | No |
 | `privatsocial.de` | No |
 | `privatter.info` | Yes |
@@ -48917,7 +48919,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,670 |
-| Normal | 35,198 |
+| Normal | 35,200 |
 
 
 </details>
