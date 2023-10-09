@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Zeabur deployment shows 'Failed to fetch memo list'](https://github.com/usememos/memos/issues/2364)
 - [CloudFlare Network Performance Issues in Mexico City](https://github.com/SecOpsNews/news/issues/19814)
 - [CloudFlare Network Performance Issues in Mexico City](https://github.com/hinoshiba/news/issues/4503)
 - [Cloudflare make a new tunnel method](https://github.com/Bing-su/sd-webui-tunnels/issues/9)
