@@ -8615,6 +8615,7 @@ Do not create new issue or we will close it as duplicate.
 | [MuhammadSajal_@twitter](https://twitter.com/MuhammadSajal_/status/1401791402246217729) | advertise |
 | [muhammadsyfq5@twitter](https://twitter.com/muhammadsyfq5/status/1629103053856178178) | advertise |
 | [MuhammadXaqib@twitter](https://twitter.com/MuhammadXaqib/status/1679846268967989249) | advertise |
+| [muhammetdizar@twitter](https://twitter.com/muhammetdizar/status/1711335258472255838) | advertise |
 | [Muhdhad16793572@twitter](https://twitter.com/Muhdhad16793572/status/1491678828917583873) | advertise |
 | [Muhdhakimm1@twitter](https://twitter.com/Muhdhakimm1/status/1398528217070247942) | advertise |
 | [MuhdIzhamFitri2@twitter](https://twitter.com/MuhdIzhamFitri2/status/1670682402778382336) | advertise |
