@@ -3432,6 +3432,7 @@ Do not create new issue or we will close it as duplicate.
 | [effj_kerr@twitter](https://twitter.com/effj_kerr/status/1486100953325522945) | advertise |
 | [eGirl4Rent@twitter](https://twitter.com/eGirl4Rent/status/1696798958688035021) | advertise |
 | [EgjjmniTuRFGjDN@twitter](https://twitter.com/EgjjmniTuRFGjDN/status/1472418260402401283) | advertise |
+| [EH1vv3tSpnE375e@twitter](https://twitter.com/EH1vv3tSpnE375e/status/1711255948768239709) | advertise |
 | [Ehlay01828178@twitter](https://twitter.com/Ehlay01828178/status/1393452793021698048) | advertise |
 | [EhPhlon@twitter](https://twitter.com/EhPhlon/status/1389913127332945920) | advertise |
 | [ehsan19871987@twitter](https://twitter.com/ehsan19871987/status/1688582929176240129) | advertise |
@@ -7430,6 +7431,7 @@ Do not create new issue or we will close it as duplicate.
 | [lunatussys@twitter](https://twitter.com/lunatussys/status/1665874504990466049) | advertise |
 | [lung_kha@twitter](https://twitter.com/lung_kha/status/1478621539020926976) | advertise |
 | [LunTrnVn11@twitter](https://twitter.com/LunTrnVn11/status/1705982248657580080) | advertise |
+| [Luongbason3@twitter](https://twitter.com/Luongbason3/status/1711250394272448993) | advertise |
 | [LuonglamVan1992@twitter](https://twitter.com/LuonglamVan1992/status/1563424906070466561) | advertise |
 | [luongng59787247@twitter](https://twitter.com/luongng59787247/status/1612442148447870978) | advertise |
 | [Luph96507624@twitter](https://twitter.com/Luph96507624/status/1392188259661320193) | advertise |
@@ -13461,6 +13463,7 @@ Do not create new issue or we will close it as duplicate.
 | [Typicalfc@twitter](https://twitter.com/Typicalfc/status/1418490157586554881) | advertise |
 | [Typlyapp@twitter](https://twitter.com/Typlyapp/status/1587591182213074944) | advertise |
 | [Tyr64976968@twitter](https://twitter.com/Tyr64976968/status/1385845880549384192) | advertise |
+| [tyrel_ross39090@twitter](https://twitter.com/tyrel_ross39090/status/1711242451040534850) | advertise |
 | [tytech038@twitter](https://twitter.com/tytech038/status/1631324775682383872) | advertise |
 | [tytech039@twitter](https://twitter.com/tytech039/status/1700164269151560126) | advertise |
 | [Tyty21734951@twitter](https://twitter.com/Tyty21734951/status/1400883940479561729) | advertise |
