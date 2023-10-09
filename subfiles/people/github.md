@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [The give_get_ip() method should return a single IP address by default](https://github.com/impress-org/givewp/issues/7015)
 - [TypeError: contributors.map is not a function](https://github.com/themesberg/flowbite-react/issues/1052)
 - [wrangler 3.11.0 breaks Remix's HMR](https://github.com/remix-run/remix/issues/7616)
 - [Zeabur deployment shows 'Failed to fetch memo list'](https://github.com/usememos/memos/issues/2364)
