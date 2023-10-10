@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [freedaily option the only one working](https://github.com/NicoWeio/blinkist/issues/24)
 - [Domain Blocking (Help pls)](https://github.com/gophish/gophish/issues/2995)
 - [The give_get_ip() method should return a single IP address by default](https://github.com/impress-org/givewp/issues/7015)
 - [TypeError: contributors.map is not a function](https://github.com/themesberg/flowbite-react/issues/1052)
