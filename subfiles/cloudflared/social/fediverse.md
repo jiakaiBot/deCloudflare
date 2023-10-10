@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,520 |
-| social | 4,606 |
+| social | 4,607 |
 | net | 3,816 |
-| org | 2,550 |
+| org | 2,551 |
 | de | 2,376 |
 
 
@@ -823,6 +823,7 @@ Here's a list of public Fediverse services.
 | `a17t.dev` | Yes |
 | `a19industries.com` | Yes |
 | `a1bbs.com` | No |
+| `a1computers.social` | No |
 | `a1x.com` | No |
 | `a2.io` | Yes |
 | `a2mi.social` | No |
@@ -2282,7 +2283,7 @@ Here's a list of public Fediverse services.
 | `animalfound.family` | No |
 | `animalliberation.social` | Yes |
 | `animaltoyforum.com` | Yes |
-| `animanga.eu` | No |
+| `animanga.eu` | Yes |
 | `animaux.social` | No |
 | `animax.moe` | Yes |
 | `anime-avatar.moe` | No |
@@ -6453,7 +6454,7 @@ Here's a list of public Fediverse services.
 | `cassano.com.br` | No |
 | `cassee.net` | No |
 | `cassette.click` | No |
-| `cassilda.house` | No |
+| `cassilda.house` | Yes |
 | `cassone.social` | No |
 | `cast.garden` | No |
 | `castelodelego.org` | No |
@@ -20462,6 +20463,7 @@ Here's a list of public Fediverse services.
 | `jkelol111.me` | Yes |
 | `jkfd.de` | No |
 | `jkiviluoto.fi` | No |
+| `jklmno.org` | No |
 | `jkpg.rocks` | Yes |
 | `jkpolkproject.com` | No |
 | `jl-systems.se` | No |
@@ -48950,7 +48952,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,689 |
+| Cloudflare | 13,691 |
 | Normal | 35,213 |
 
 
