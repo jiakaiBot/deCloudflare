@@ -7536,6 +7536,7 @@ Do not create new issue or we will close it as duplicate.
 | [Madesh3070@twitter](https://twitter.com/Madesh3070/status/1634999387687649280) | advertise |
 | [Madhanblacky2@twitter](https://twitter.com/Madhanblacky2/status/1397140339538857985) | advertise |
 | [MADHUKAR1303@twitter](https://twitter.com/MADHUKAR1303/status/1563923918007799812) | advertise |
+| [MadhuryaOnline@twitter](https://twitter.com/MadhuryaOnline/status/1711650619059065159) | advertise |
 | [madnis99@twitter](https://twitter.com/madnis99/status/1709538258336518441) | advertise |
 | [madolelabs@twitter](https://twitter.com/madolelabs/status/1646174927224020992) | advertise |
 | [madpanic@twitter](https://twitter.com/madpanic/status/1502023765361844228) | advertise |
