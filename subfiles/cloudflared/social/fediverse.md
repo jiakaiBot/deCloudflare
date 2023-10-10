@@ -44319,6 +44319,7 @@ Here's a list of public Fediverse services.
 | `tuning.social` | No |
 | `tunkki.xyz` | Yes |
 | `tunnelcat.net` | No |
+| `tunnelto.dev` | No |
 | `tunpok.com` | Yes |
 | `tunstall.in` | No |
 | `tuomisto.io` | No |
@@ -44819,6 +44820,7 @@ Here's a list of public Fediverse services.
 | `unbl.ink` | No |
 | `unboiled.info` | No |
 | `unbound.social` | No |
+| `unbound.zone` | No |
 | `unboxed.social` | No |
 | `uncanceledil.com` | No |
 | `uncate.org` | No |
@@ -48928,7 +48930,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,679 |
-| Normal | 35,200 |
+| Normal | 35,202 |
 
 
 </details>
