@@ -1641,6 +1641,7 @@ Do not create new issue or we will close it as duplicate.
 | [bbbbba911@twitter](https://twitter.com/bbbbba911/status/1402935512663535618) | advertise |
 | [bbcha11793920@twitter](https://twitter.com/bbcha11793920/status/1536942284989943808) | advertise |
 | [bbeing_SCP@twitter](https://twitter.com/bbeing_SCP/status/1614457811748139011) | advertise |
+| [bbeog@twitter](https://twitter.com/bbeog/status/1711682189409366036) | advertise |
 | [bbiillaallh@twitter](https://twitter.com/bbiillaallh/status/1569240876710334464) | advertise |
 | [Bbin23638730@twitter](https://twitter.com/Bbin23638730/status/1386172036981006336) | advertise |
 | [BBuZLYHHQ1iEopD@twitter](https://twitter.com/BBuZLYHHQ1iEopD/status/1398583949593518080) | advertise |
@@ -3017,6 +3018,7 @@ Do not create new issue or we will close it as duplicate.
 | [DiariesLara@twitter](https://twitter.com/DiariesLara/status/1569545171716431872) | advertise |
 | [dican_adcorp@twitter](https://twitter.com/dican_adcorp/status/1570807498210422785) | advertise |
 | [DickWhimsy@twitter](https://twitter.com/DickWhimsy/status/1384051581373468672) | advertise |
+| [DickWon23449512@twitter](https://twitter.com/DickWon23449512/status/1711674437286969560) | advertise |
 | [DickyAdirachman@twitter](https://twitter.com/DickyAdirachman/status/1552680441706323968) | advertise |
 | [Diego24090352@twitter](https://twitter.com/Diego24090352/status/1557196849139924993) | advertise |
 | [diellidemjaha@twitter](https://twitter.com/diellidemjaha/status/1394616412086341633) | advertise |
@@ -3246,6 +3248,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dryannaungsoe@twitter](https://twitter.com/Dryannaungsoe/status/1542151793563824129) | advertise |
 | [DryNerf@twitter](https://twitter.com/DryNerf/status/1540069436765487105) | advertise |
 | [Dr_chin_@twitter](https://twitter.com/Dr_chin_/status/1559612155409752064) | advertise |
+| [DR_HESSAM@twitter](https://twitter.com/DR_HESSAM/status/1711547290551279626) | advertise |
 | [dr_pyaephyoezaw@twitter](https://twitter.com/dr_pyaephyoezaw/status/1391669243930841089) | advertise |
 | [dr_tayel81@twitter](https://twitter.com/dr_tayel81/status/1386993468287897600) | advertise |
 | [DsanayaJ@twitter](https://twitter.com/DsanayaJ/status/1399281807430987779) | advertise |
@@ -7989,6 +7992,7 @@ Do not create new issue or we will close it as duplicate.
 | [Merisaa_XXB@twitter](https://twitter.com/Merisaa_XXB/status/1581516543950696449) | advertise |
 | [MernaElfar7@twitter](https://twitter.com/MernaElfar7/status/1580295509318983681) | advertise |
 | [mertcangokgoz@twitter](https://twitter.com/mertcangokgoz/status/1399434909039611907) | advertise |
+| [mertusbk@twitter](https://twitter.com/mertusbk/status/1711685347027886576) | advertise |
 | [MES31_82@twitter](https://twitter.com/MES31_82/status/1401340927495581698) | advertise |
 | [MESA_BG@twitter](https://twitter.com/MESA_BG/status/1543335356032061440) | advertise |
 | [MEshuwary07@twitter](https://twitter.com/MEshuwary07/status/1707470383190831368) | advertise |
@@ -8926,6 +8930,7 @@ Do not create new issue or we will close it as duplicate.
 | [nasrumv@twitter](https://twitter.com/nasrumv/status/1480051657769558017) | advertise |
 | [nasrun__@twitter](https://twitter.com/nasrun__/status/1392774223895035905) | advertise |
 | [Nasseralbalaw19@twitter](https://twitter.com/Nasseralbalaw19/status/1594382348077961220) | advertise |
+| [nasser_sunna@twitter](https://twitter.com/nasser_sunna/status/1711699526115852753) | advertise |
 | [nasshu2916@twitter](https://twitter.com/nasshu2916/status/1411324259721367558) | moral (advertise) |
 | [Natakonnan@twitter](https://twitter.com/Natakonnan/status/1378146982661779459) | advertise |
 | [natalie4044@twitter](https://twitter.com/natalie4044/status/1602329450472841218) | advertise |
@@ -9526,6 +9531,7 @@ Do not create new issue or we will close it as duplicate.
 | [NOTICIAHOY5@twitter](https://twitter.com/NOTICIAHOY5/status/1543302026754461698) | advertise |
 | [notifil@twitter](https://twitter.com/notifil/status/1499122092578639884) | advertise |
 | [NotJiii_@twitter](https://twitter.com/NotJiii_/status/1678960030463459328) | advertise |
+| [NotNiceKun@twitter](https://twitter.com/NotNiceKun/status/1711673805368889692) | advertise |
 | [NOTOBIAAA@twitter](https://twitter.com/NOTOBIAAA/status/1602277691423657984) | advertise |
 | [notpotato_88@twitter](https://twitter.com/notpotato_88/status/1542086639077703680) | advertise |
 | [nottsonline1@twitter](https://twitter.com/nottsonline1/status/1519043499328421900) | advertise |
