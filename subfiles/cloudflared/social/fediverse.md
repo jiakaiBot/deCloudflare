@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,518 |
+| com | 7,519 |
 | social | 4,606 |
 | net | 3,816 |
 | org | 2,550 |
@@ -5500,7 +5500,7 @@ Here's a list of public Fediverse services.
 | `bqri.us` | No |
 | `bquatre.fr` | No |
 | `br-linux.org` | No |
-| `br-project.jp` | No |
+| `br-project.jp` | Yes |
 | `br0.fr` | No |
 | `br0ken.de` | No |
 | `braasch.social` | No |
@@ -16224,6 +16224,7 @@ Here's a list of public Fediverse services.
 | `goblackcat.xyz` | Yes |
 | `goblfc.org` | Yes |
 | `goblin.camp` | No |
+| `goblin.church` | No |
 | `goblin.expert` | No |
 | `goblin.technology` | No |
 | `goblinfoot.com` | No |
@@ -38987,6 +38988,7 @@ Here's a list of public Fediverse services.
 | `skeptikon.fr` | No |
 | `skeptube.fr` | No |
 | `sketcherville.art` | No |
+| `sketchupfordesign.com` | No |
 | `sketchwave.club` | No |
 | `sketchy.life` | No |
 | `sketchy.tech` | No |
@@ -46018,6 +46020,7 @@ Here's a list of public Fediverse services.
 | `voomer.co.ke` | No |
 | `voots.org` | Yes |
 | `voppe.it` | No |
+| `voqal.online` | No |
 | `voragine.net` | No |
 | `vorarlberg.io` | No |
 | `vorarlberg.site` | No |
@@ -48946,8 +48949,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,687 |
-| Normal | 35,211 |
+| Cloudflare | 13,688 |
+| Normal | 35,213 |
 
 
 </details>
