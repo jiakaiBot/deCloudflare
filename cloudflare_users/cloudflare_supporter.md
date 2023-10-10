@@ -7270,6 +7270,7 @@ Do not create new issue or we will close it as duplicate.
 | [locomoco_28@twitter](https://twitter.com/locomoco_28/status/1630791856131907584) | advertise |
 | [Loctran78766971@twitter](https://twitter.com/Loctran78766971/status/1378360177724776450) | advertise |
 | [loffy2k8@twitter](https://twitter.com/loffy2k8/status/1695490890033435025) | advertise |
+| [lofipython@twitter](https://twitter.com/lofipython/status/1704969051959631879) | advertise |
 | [loftwah@twitter](https://twitter.com/loftwah/status/1426153321882996737) | advertise |
 | [LoGame17@twitter](https://twitter.com/LoGame17/status/1487789962942726150) | advertise |
 | [LogicSpoke@twitter](https://twitter.com/LogicSpoke/status/1587832367905144833) | advertise |
