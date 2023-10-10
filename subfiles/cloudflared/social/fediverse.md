@@ -5297,6 +5297,7 @@ Here's a list of public Fediverse services.
 | `bookdon.jp` | No |
 | `booker.social` | No |
 | `bookface.social` | No |
+| `bookhouse.uk` | No |
 | `bookish.community` | No |
 | `bookishbook.club` | No |
 | `bookmark.org` | Yes |
@@ -48705,7 +48706,7 @@ Here's a list of public Fediverse services.
 | `zilla.tech` | No |
 | `zimage.com` | No |
 | `zimbatm.com` | Yes |
-| `zimbo.uk` | No |
+| `zimbo.uk` | Yes |
 | `zimiao.moe` | Yes |
 | `zimmer428.net` | No |
 | `zine.dev` | Yes |
@@ -48945,7 +48946,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,686 |
+| Cloudflare | 13,687 |
 | Normal | 35,211 |
 
 
