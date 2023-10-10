@@ -11620,7 +11620,7 @@ Here's a list of public Fediverse services.
 | `ecurie.social` | No |
 | `ecutsa.fr` | No |
 | `ed-beck.com` | No |
-| `ed1.tokyo` | No |
+| `ed1.tokyo` | Yes |
 | `edbob.org` | No |
 | `edchat.social` | No |
 | `edddy.eu` | No |
@@ -14008,7 +14008,7 @@ Here's a list of public Fediverse services.
 | `flavigula.net` | No |
 | `flavoursofopen.science` | No |
 | `flawbee.net` | Yes |
-| `flaximus.net` | No |
+| `flaximus.net` | Yes |
 | `flay.gay` | No |
 | `fle.st` | Yes |
 | `fle.studio` | Yes |
@@ -14978,7 +14978,7 @@ Here's a list of public Fediverse services.
 | `functor.pro` | No |
 | `funcube.space` | No |
 | `fundraising.social` | No |
-| `funfunmstdn.tokyo` | No |
+| `funfunmstdn.tokyo` | Yes |
 | `fungalhalo.com` | No |
 | `funigtor.fr` | No |
 | `funil.de` | No |
@@ -24276,6 +24276,7 @@ Here's a list of public Fediverse services.
 | `lomo.live` | No |
 | `lomz.me` | No |
 | `lond.com.br` | Yes |
+| `londonleathermen.co.uk` | No |
 | `londonsocial.uk` | No |
 | `londontopia.net` | No |
 | `lone-starr.net` | No |
@@ -48926,8 +48927,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,676 |
-| Normal | 35,202 |
+| Cloudflare | 13,679 |
+| Normal | 35,200 |
 
 
 </details>
