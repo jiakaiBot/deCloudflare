@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,519 |
+| com | 7,520 |
 | social | 4,606 |
 | net | 3,816 |
 | org | 2,550 |
@@ -36877,6 +36877,7 @@ Here's a list of public Fediverse services.
 | `run-girls.run` | Yes |
 | `run.app` | No |
 | `runarcn.no` | No |
+| `runaway-melancholy.com` | Yes |
 | `runbsd.ca` | Yes |
 | `rundfunker.net` | No |
 | `runfox.tk` | No |
@@ -48949,7 +48950,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,688 |
+| Cloudflare | 13,689 |
 | Normal | 35,213 |
 
 
