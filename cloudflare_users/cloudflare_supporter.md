@@ -1686,6 +1686,7 @@ Do not create new issue or we will close it as duplicate.
 | [bejiitas_wrath@twitter](https://twitter.com/bejiitas_wrath/status/1432068322820980736) | advertise |
 | [bekanahmed323@twitter](https://twitter.com/bekanahmed323/status/1632485634873913347) | advertise |
 | [BekirBilge_@twitter](https://twitter.com/BekirBilge_/status/1591734379516399620) | advertise |
+| [BekirShala@twitter](https://twitter.com/BekirShala/status/1711854873757487434) | advertise |
 | [bekiyeab123@twitter](https://twitter.com/bekiyeab123/status/1566107471772618754) | advertise |
 | [BeLBaLaDy@twitter](https://twitter.com/BeLBaLaDy/status/1512421478683316226) | advertise |
 | [Belike80356400@twitter](https://twitter.com/Belike80356400/status/1382720613421248512) | advertise |
@@ -6716,6 +6717,7 @@ Do not create new issue or we will close it as duplicate.
 | [KRISH_MAAN@twitter](https://twitter.com/KRISH_MAAN/status/1399221538474192901) | advertise |
 | [KrissanaSai@twitter](https://twitter.com/KrissanaSai/status/1393903786775744513) | advertise |
 | [KristHtet@twitter](https://twitter.com/KristHtet/status/1393150746619564032) | advertise |
+| [KristianJKramer@twitter](https://twitter.com/KristianJKramer/status/1711854015976235224) | advertise |
 | [Kritsad21025299@twitter](https://twitter.com/Kritsad21025299/status/1386895170054938630) | advertise |
 | [KritsamatH@twitter](https://twitter.com/KritsamatH/status/1706906925252911449) | advertise |
 | [KrittiyaneePear@twitter](https://twitter.com/KrittiyaneePear/status/1570478311616434176) | advertise |
