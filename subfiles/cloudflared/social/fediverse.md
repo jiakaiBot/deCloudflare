@@ -8776,6 +8776,7 @@ Here's a list of public Fediverse services.
 | `cunny.finance` | No |
 | `cunny.gay` | Yes |
 | `cunny.moe` | Yes |
+| `cunnyborea.space` | No |
 | `cuonda.social` | No |
 | `cupcakerob.nl` | No |
 | `cupka.name` | No |
@@ -15271,7 +15272,7 @@ Here's a list of public Fediverse services.
 | `gajsin.name` | No |
 | `gakami.net` | No |
 | `gaken.social` | No |
-| `gaku-tab-kill.com` | Yes |
+| `gaku-tab-kill.com` | No |
 | `gaku-tab-love.com` | Yes |
 | `gakugeidon.pw` | No |
 | `gakusei.space` | No |
@@ -15721,7 +15722,7 @@ Here's a list of public Fediverse services.
 | `geoff-parker.com` | No |
 | `geoffdunham.photo` | Yes |
 | `geoffray-levasseur.org` | No |
-| `geoffreysperl.com` | No |
+| `geoffreysperl.com` | Yes |
 | `geofox.org` | Yes |
 | `geofront.rocks` | No |
 | `geolove1456.com` | No |
@@ -17316,7 +17317,7 @@ Here's a list of public Fediverse services.
 | `hatnix.net` | No |
 | `hatred.club` | No |
 | `hatthieves.es` | No |
-| `hatto.dev` | Yes |
+| `hatto.dev` | No |
 | `hatton.social` | Yes |
 | `hauchruh.de` | No |
 | `haukola.ru` | No |
@@ -37586,7 +37587,7 @@ Here's a list of public Fediverse services.
 | `scheid.tech` | No |
 | `scheissekonfiguriert.de` | No |
 | `scheisseposting.xyz` | No |
-| `schelling.pt` | No |
+| `schelling.pt` | Yes |
 | `schelmholtz.de` | Yes |
 | `schemacs.com` | No |
 | `schenkel.net` | Yes |
@@ -46021,7 +46022,7 @@ Here's a list of public Fediverse services.
 | `vox.social` | Yes |
 | `voxcry.pt` | No |
 | `voxint.net` | Yes |
-| `voxint.pw` | Yes |
+| `voxint.pw` | No |
 | `voxmojo.com` | No |
 | `voxpop.social` | No |
 | `vpclmulqdq.moe` | No |
@@ -46058,7 +46059,7 @@ Here's a list of public Fediverse services.
 | `vrkstatt.social` | No |
 | `vrnd.network` | No |
 | `vrnd.social` | No |
-| `vrparty.social` | No |
+| `vrparty.social` | Yes |
 | `vrpnet.org` | No |
 | `vrse.be` | No |
 | `vrse.my.id` | Yes |
@@ -48926,7 +48927,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,676 |
-| Normal | 35,201 |
+| Normal | 35,202 |
 
 
 </details>
