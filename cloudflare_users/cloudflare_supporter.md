@@ -1623,6 +1623,7 @@ Do not create new issue or we will close it as duplicate.
 | [barkleesanders@twitter](https://twitter.com/barkleesanders/status/1670332072253353985) | advertise |
 | [Barnsdale1987@twitter](https://twitter.com/Barnsdale1987/status/1665858534083362818) | advertise |
 | [Barryalpha191@twitter](https://twitter.com/Barryalpha191/status/1501295856049217538) | advertise |
+| [barterSpot2023@twitter](https://twitter.com/barterSpot2023/status/1712010811420389528) | advertise |
 | [BartMan__X@twitter](https://twitter.com/BartMan__X/status/1610793004133924866) | advertise |
 | [BaSai44822569@twitter](https://twitter.com/BaSai44822569/status/1390875744100827142) | advertise |
 | [BasavarajShaha4@twitter](https://twitter.com/BasavarajShaha4/status/1392060094108504067) | advertise |
