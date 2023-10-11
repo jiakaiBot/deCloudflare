@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,523 |
+| com | 7,522 |
 | social | 4,608 |
-| net | 3,816 |
-| org | 2,554 |
+| net | 3,815 |
+| org | 2,553 |
 | de | 2,379 |
 
 
@@ -4392,7 +4392,6 @@ Here's a list of public Fediverse services.
 | `bestregard.co` | No |
 | `bestself.social` | No |
 | `beststreamingclub.com` | No |
-| `beta.town` | Yes |
 | `beta42.dev` | No |
 | `betabuild.dev` | No |
 | `betafive.net` | No |
@@ -11385,7 +11384,6 @@ Here's a list of public Fediverse services.
 | `dwar.fi` | No |
 | `dwards.org` | No |
 | `dwe.ng` | No |
-| `dweb.net` | Yes |
 | `dwell.pub` | No |
 | `dwin.link` | No |
 | `dwntr.xyz` | No |
@@ -16723,7 +16721,6 @@ Here's a list of public Fediverse services.
 | `gruifor.eu` | No |
 | `grumble.social` | No |
 | `grumbulon.xyz` | No |
-| `grumpwizard.com` | No |
 | `grumpy.world` | No |
 | `grumpyoldme.de` | No |
 | `grumpys.online` | Yes |
@@ -31399,7 +31396,6 @@ Here's a list of public Fediverse services.
 | `okinawadon.okinawa` | No |
 | `okinkin.top` | No |
 | `okitsu.net` | Yes |
-| `okkema.org` | Yes |
 | `okkikki.tokyo` | No |
 | `okko.io` | No |
 | `okla.social` | Yes |
@@ -40904,6 +40900,7 @@ Here's a list of public Fediverse services.
 | `subspace.link` | No |
 | `subspace.social` | No |
 | `subspacelink.com` | Yes |
+| `substantialplumbing.repair` | Yes |
 | `substantialplumbingrepair.com` | Yes |
 | `substitoot.it` | No |
 | `subsubd.com` | Yes |
@@ -48977,8 +48974,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,703 |
-| Normal | 35,226 |
+| Cloudflare | 13,701 |
+| Normal | 35,225 |
 
 
 </details>
