@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,525 |
+| com | 7,526 |
 | social | 4,608 |
 | net | 3,815 |
 | org | 2,553 |
-| de | 2,379 |
+| de | 2,380 |
 
 
 - Mastodon, Pleroma, etc
@@ -9315,6 +9315,7 @@ Here's a list of public Fediverse services.
 | `dansmonorage.blue` | No |
 | `danstodon.com` | No |
 | `dansu.org` | No |
+| `dantheclamman.blog` | No |
 | `danvelopment.net` | Yes |
 | `danz.cloud` | Yes |
 | `daol.cc` | Yes |
@@ -10026,6 +10027,7 @@ Here's a list of public Fediverse services.
 | `derserver.me` | No |
 | `derstandard.at` | No |
 | `derstrudel.org` | No |
+| `dertechblog.de` | No |
 | `derveni.org` | No |
 | `derwagrier.de` | No |
 | `des-blogueurs.org` | No |
@@ -44332,6 +44334,7 @@ Here's a list of public Fediverse services.
 | `tuffert.de` | No |
 | `tuffi.org` | Yes |
 | `tuffidon.de` | No |
+| `tugaleres.com` | No |
 | `tugate.ch` | Yes |
 | `tugging.online` | No |
 | `tuidao.me` | Yes |
@@ -48983,7 +48986,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,702 |
-| Normal | 35,232 |
+| Normal | 35,235 |
 
 
 </details>
