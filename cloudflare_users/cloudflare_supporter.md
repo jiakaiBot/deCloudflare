@@ -2458,6 +2458,7 @@ Do not create new issue or we will close it as duplicate.
 | [CircleOnCircles@twitter](https://twitter.com/CircleOnCircles/status/1473203051871703042) | advertise |
 | [citasweetieee@twitter](https://twitter.com/citasweetieee/status/1391727785274654725) | advertise |
 | [CitiBE@twitter](https://twitter.com/CitiBE/status/1665889152234029057) | advertise |
+| [CitizenofKS@twitter](https://twitter.com/CitizenofKS/status/1712043549422694768) | advertise |
 | [CITRIK_himself@twitter](https://twitter.com/CITRIK_himself/status/1379721209038835715) | advertise |
 | [cjeoebdkek71943@twitter](https://twitter.com/cjeoebdkek71943/status/1681663923798302722) | advertise |
 | [CJhaykal@twitter](https://twitter.com/CJhaykal/status/1612443718010966016) | advertise |
