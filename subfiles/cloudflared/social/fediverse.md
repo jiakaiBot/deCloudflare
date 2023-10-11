@@ -4134,6 +4134,7 @@ Here's a list of public Fediverse services.
 | `beebear.party` | No |
 | `beebl.es` | Yes |
 | `beech.org.uk` | No |
+| `beef-chicken-pork.beer` | Yes |
 | `beef.moe` | Yes |
 | `beef.social` | Yes |
 | `beefboyz.com` | Yes |
@@ -12928,7 +12929,7 @@ Here's a list of public Fediverse services.
 | `faf.social` | Yes |
 | `faf.watch` | Yes |
 | `faf.wtf` | Yes |
-| `fag.lol` | Yes |
+| `fag.lol` | No |
 | `faggot.zone` | No |
 | `fahrenheit.net.pl` | No |
 | `fahrin.me` | No |
@@ -48953,7 +48954,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,691 |
-| Normal | 35,213 |
+| Normal | 35,214 |
 
 
 </details>
