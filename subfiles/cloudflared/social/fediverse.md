@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,522 |
+| com | 7,525 |
 | social | 4,608 |
 | net | 3,815 |
 | org | 2,553 |
@@ -2712,6 +2712,7 @@ Here's a list of public Fediverse services.
 | `are-you-kidding.me` | Yes |
 | `are.nom.co` | No |
 | `are.sexy` | Yes |
+| `area-51.blog` | No |
 | `area51.media` | Yes |
 | `area51.social` | Yes |
 | `area893.org` | No |
@@ -8530,6 +8531,7 @@ Here's a list of public Fediverse services.
 | `critz.social` | No |
 | `critzo.xyz` | No |
 | `criver.me` | No |
+| `crixu.blog` | No |
 | `crlf.io` | No |
 | `crlf.ninja` | No |
 | `crlzff.xyz` | No |
@@ -9031,6 +9033,7 @@ Here's a list of public Fediverse services.
 | `cybtex.fr` | No |
 | `cybur.nl` | Yes |
 | `cycles.network` | No |
+| `cyclismespandelles.com` | No |
 | `cyclodon.net` | No |
 | `cyclry.com` | No |
 | `cydraco.com` | No |
@@ -13415,6 +13418,7 @@ Here's a list of public Fediverse services.
 | `fedinews.net` | Yes |
 | `fedinews.org` | Yes |
 | `fedinoc.de` | No |
+| `fedipage.com` | No |
 | `fedipen.xyz` | Yes |
 | `fediphilosophy.org` | No |
 | `fedipix.de` | No |
@@ -17455,6 +17459,7 @@ Here's a list of public Fediverse services.
 | `heavenforbid.us` | No |
 | `heavenly-united.se` | No |
 | `heavensfeel.xyz` | No |
+| `heavensite.site` | Yes |
 | `heavy.rocks` | No |
 | `heavyimage.com` | Yes |
 | `heavymusic.rocks` | No |
@@ -18101,6 +18106,7 @@ Here's a list of public Fediverse services.
 | `hombr.us` | Yes |
 | `homd.xyz` | Yes |
 | `home-of-commons.org` | No |
+| `home.blog` | No |
 | `home.kg` | Yes |
 | `home.social` | No |
 | `home31.pw` | Yes |
@@ -20413,6 +20419,7 @@ Here's a list of public Fediverse services.
 | `jike.pro` | No |
 | `jillr.social` | No |
 | `jillsreads.com` | No |
+| `jim-easterbrook.me.uk` | No |
 | `jim.blue` | No |
 | `jim.bo` | Yes |
 | `jimblimey.com` | No |
@@ -37815,6 +37822,7 @@ Here's a list of public Fediverse services.
 | `scottmorrison.net` | No |
 | `scottnesbitt.online` | No |
 | `scottodon.com` | No |
+| `scottsgameroom.com` | No |
 | `scottsmall.org` | No |
 | `scottstolz.com` | No |
 | `scoutcloud.tk` | No |
@@ -48974,8 +48982,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,701 |
-| Normal | 35,225 |
+| Cloudflare | 13,702 |
+| Normal | 35,232 |
 
 
 </details>
