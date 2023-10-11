@@ -14315,6 +14315,7 @@ Do not create new issue or we will close it as duplicate.
 | [XZIzIzcDqm5htEy@twitter](https://twitter.com/XZIzIzcDqm5htEy/status/1381304962840358914) | advertise |
 | [xzykho@twitter](https://twitter.com/xzykho/status/1374177504546619395) | advertise |
 | [xzyx111@twitter](https://twitter.com/xzyx111/status/1475478052272410629) | advertise |
+| [x_eivor@twitter](https://twitter.com/x_eivor/status/1712189372181684341) | advertise |
 | [x__arron__x@twitter](https://twitter.com/x__arron__x/status/1690014035863801857) | advertise |
 | [y1w6DqzcNvOCqlk@twitter](https://twitter.com/y1w6DqzcNvOCqlk/status/1399783218384019461) | advertise |
 | [Y2KPARADISE@twitter](https://twitter.com/Y2KPARADISE/status/1379677564856373249) | advertise |
