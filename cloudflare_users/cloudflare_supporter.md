@@ -6244,6 +6244,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kentoisabento@twitter](https://twitter.com/Kentoisabento/status/1574787986092429316) | advertise |
 | [Kenyan_Deportee@twitter](https://twitter.com/Kenyan_Deportee/status/1382022082222039043) | advertise |
 | [KenzKen16705875@twitter](https://twitter.com/KenzKen16705875/status/1380413825988534273) | advertise |
+| [kenzxc864@twitter](https://twitter.com/kenzxc864/status/1711784029341843831) | advertise |
 | [keobin6@twitter](https://twitter.com/keobin6/status/1393355060122243072) | advertise |
 | [kepa_vu@twitter](https://twitter.com/kepa_vu/status/1399682592622800896) | advertise |
 | [KeramatNajafi@twitter](https://twitter.com/KeramatNajafi/status/1575442547631165441) | advertise |
@@ -8810,6 +8811,7 @@ Do not create new issue or we will close it as duplicate.
 | [nadi_saint@twitter](https://twitter.com/nadi_saint/status/1396088469584105476) | advertise |
 | [nadxmilbah@twitter](https://twitter.com/nadxmilbah/status/1579652507797979136) | advertise |
 | [naeem_tariq786@twitter](https://twitter.com/naeem_tariq786/status/1682697578847281152) | advertise |
+| [nafidzajaya@twitter](https://twitter.com/nafidzajaya/status/1711921311080182193) | advertise |
 | [NafisMuzafar@twitter](https://twitter.com/NafisMuzafar/status/1531926492334022656) | advertise |
 | [nag1_yuu@twitter](https://twitter.com/nag1_yuu/status/1630945715685052416) | advertise |
 | [Nage58788383@twitter](https://twitter.com/Nage58788383/status/1378017876100096005) | advertise |
@@ -10981,6 +10983,7 @@ Do not create new issue or we will close it as duplicate.
 | [robert_getman@twitter](https://twitter.com/robert_getman/status/1638938854022602752) | advertise |
 | [Robin586371744@twitter](https://twitter.com/Robin586371744/status/1659897697137197056) | advertise |
 | [Robindivaina@twitter](https://twitter.com/Robindivaina/status/1393566638255984650) | advertise |
+| [robinhod450@twitter](https://twitter.com/robinhod450/status/1712001321384157250) | advertise |
 | [RobJPyne@twitter](https://twitter.com/RobJPyne/status/1381766563749982212) | advertise |
 | [RoboCanvas@twitter](https://twitter.com/RoboCanvas/status/1612796426123378689) | advertise |
 | [Robson1Lee@twitter](https://twitter.com/Robson1Lee/status/1608219726672711680) | advertise |
