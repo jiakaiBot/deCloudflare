@@ -26096,6 +26096,7 @@ Here's a list of public Fediverse services.
 | `mastohun.tk` | No |
 | `mastoid.dev` | No |
 | `mastolivre.fr` | No |
+| `mastomo.online` | No |
 | `mastomon.social` | Yes |
 | `maston.fr` | No |
 | `mastonaut.com` | No |
@@ -35099,7 +35100,7 @@ Here's a list of public Fediverse services.
 | `r-e.kr` | Yes |
 | `r-flash.eu` | No |
 | `r-kara.de` | No |
-| `r-o-o-t.net` | No |
+| `r-o-o-t.net` | Yes |
 | `r-pe.net` | Yes |
 | `r-sauna.fi` | No |
 | `r-sky.jp` | No |
@@ -48968,7 +48969,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,697 |
+| Cloudflare | 13,698 |
 | Normal | 35,223 |
 
 
