@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,521 |
+| com | 7,522 |
 | social | 4,607 |
 | net | 3,816 |
-| org | 2,551 |
-| de | 2,376 |
+| org | 2,552 |
+| de | 2,377 |
 
 
 - Mastodon, Pleroma, etc
@@ -6987,6 +6987,7 @@ Here's a list of public Fediverse services.
 | `cherrykitten.gay` | No |
 | `cheshire.io` | No |
 | `chester.id.au` | Yes |
+| `chestergould.ca` | No |
 | `chesters.xyz` | Yes |
 | `chevro.fr` | No |
 | `chevroulet.ch` | No |
@@ -13645,6 +13646,7 @@ Here's a list of public Fediverse services.
 | `feral.technology` | No |
 | `feralkin.com` | No |
 | `feralmimesis.xyz` | Yes |
+| `ferals-on.top` | Yes |
 | `feralsec.tv` | No |
 | `feraltomatoes.com` | No |
 | `ferd.at` | No |
@@ -21273,6 +21275,7 @@ Here's a list of public Fediverse services.
 | `karatek.net` | Yes |
 | `karateka.social` | No |
 | `karatekarnickel.de` | No |
+| `karebu.gay` | Yes |
 | `karel.today` | No |
 | `karene.net` | No |
 | `kariance.xyz` | No |
@@ -27254,6 +27257,7 @@ Here's a list of public Fediverse services.
 | `mindofjoe.xyz` | No |
 | `mindoki.com` | No |
 | `mindpalace.io` | Yes |
+| `mindplex.ai` | No |
 | `minds.com` | Yes |
 | `minds.io` | Yes |
 | `mindsforge.com` | No |
@@ -29658,6 +29662,7 @@ Here's a list of public Fediverse services.
 | `nere.social` | No |
 | `nere9.help` | No |
 | `nerfed.net` | No |
+| `nerfherders.club` | No |
 | `nerfherders.io` | Yes |
 | `neria.link` | Yes |
 | `neriko.net` | Yes |
@@ -31690,6 +31695,7 @@ Here's a list of public Fediverse services.
 | `openbiblio.eu` | No |
 | `openbiblio.social` | No |
 | `openbracket.ca` | No |
+| `openbuddhism.org` | No |
 | `openchessbooks.org` | No |
 | `opencloud.io` | Yes |
 | `opencloud.lu` | No |
@@ -34529,6 +34535,7 @@ Here's a list of public Fediverse services.
 | `psion.co` | No |
 | `psionprotocol.com` | No |
 | `psipsistar.com` | No |
+| `psiren.eu` | No |
 | `psjb.me` | No |
 | `pso.li` | No |
 | `pso2.club` | No |
@@ -40890,6 +40897,7 @@ Here's a list of public Fediverse services.
 | `subspace.link` | No |
 | `subspace.social` | No |
 | `subspacelink.com` | Yes |
+| `substantialplumbingrepair.com` | Yes |
 | `substitoot.it` | No |
 | `subsubd.com` | Yes |
 | `subtleaf.social` | Yes |
@@ -47665,6 +47673,7 @@ Here's a list of public Fediverse services.
 | `xlii.social` | No |
 | `xlnx.uk` | No |
 | `xm-xm.com` | Yes |
+| `xm1.de` | No |
 | `xmanifesto.club` | No |
 | `xmastd.info` | No |
 | `xmatrix.com` | No |
@@ -48956,8 +48965,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,693 |
-| Normal | 35,215 |
+| Cloudflare | 13,696 |
+| Normal | 35,221 |
 
 
 </details>
