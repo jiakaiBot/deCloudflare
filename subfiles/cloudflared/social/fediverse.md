@@ -7874,7 +7874,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -33846,6 +33846,7 @@ Here's a list of public Fediverse services.
 | `poettmes.social` | No |
 | `pofilo.fr` | No |
 | `pogchamp.xyz` | No |
+| `pogfish.party` | No |
 | `pogge.rs` | Yes |
 | `poggerinos.ml` | No |
 | `poggers.lgbt` | Yes |
@@ -48953,7 +48954,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,691 |
+| Cloudflare | 13,692 |
 | Normal | 35,214 |
 
 
