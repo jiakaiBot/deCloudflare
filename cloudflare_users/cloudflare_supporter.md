@@ -6671,6 +6671,7 @@ Do not create new issue or we will close it as duplicate.
 | [Koplinedge@twitter](https://twitter.com/Koplinedge/status/1665874512720670722) | advertise |
 | [KoPwar7@twitter](https://twitter.com/KoPwar7/status/1390312428538236941) | advertise |
 | [KoPyae66619667@twitter](https://twitter.com/KoPyae66619667/status/1391728027470548993) | advertise |
+| [kopyae68609692@twitter](https://twitter.com/kopyae68609692/status/1712142923163427175) | advertise |
 | [KoPyaeP12496270@twitter](https://twitter.com/KoPyaeP12496270/status/1389123493694935040) | advertise |
 | [KorakritArdwar1@twitter](https://twitter.com/KorakritArdwar1/status/1377776979336818690) | advertise |
 | [KorbsStudio@twitter](https://twitter.com/KorbsStudio/status/1512420724748828676) | advertise |
@@ -6749,6 +6750,7 @@ Do not create new issue or we will close it as duplicate.
 | [KTZO93@twitter](https://twitter.com/KTZO93/status/1684930241104642048) | advertise |
 | [Ku1234c1@twitter](https://twitter.com/Ku1234c1/status/1591375563872440320) | advertise |
 | [Ku44908237Kumar@twitter](https://twitter.com/Ku44908237Kumar/status/1634203335447175168) | advertise |
+| [Kuasagunung@twitter](https://twitter.com/Kuasagunung/status/1712161721505427895) | advertise |
 | [KuashikMakavana@twitter](https://twitter.com/KuashikMakavana/status/1388432783110860802) | advertise |
 | [kuayraisas7@twitter](https://twitter.com/kuayraisas7/status/1683712835669618688) | advertise |
 | [kubon34505188@twitter](https://twitter.com/kubon34505188/status/1387458130548715522) | advertise |
@@ -6975,6 +6977,7 @@ Do not create new issue or we will close it as duplicate.
 | [LamKiuhong1@twitter](https://twitter.com/LamKiuhong1/status/1600142469924261889) | advertise |
 | [Lamm05365016@twitter](https://twitter.com/Lamm05365016/status/1391000000960679942) | advertise |
 | [Lamnguy05855970@twitter](https://twitter.com/Lamnguy05855970/status/1404209186574016513) | advertise |
+| [LamNguy87018221@twitter](https://twitter.com/LamNguy87018221/status/1712165725757198482) | advertise |
 | [Lan66639716@twitter](https://twitter.com/Lan66639716/status/1473305527526379524) | advertise |
 | [LanaLailana@twitter](https://twitter.com/LanaLailana/status/1660406381923692547) | advertise |
 | [LanceDdot@twitter](https://twitter.com/LanceDdot/status/1407342921842663426) | advertise |
@@ -7135,6 +7138,7 @@ Do not create new issue or we will close it as duplicate.
 | [libra_kkmm@twitter](https://twitter.com/libra_kkmm/status/1392054214021500928) | advertise |
 | [libyan_investme@twitter](https://twitter.com/libyan_investme/status/1456381977897095174) | advertise |
 | [libyeehor@twitter](https://twitter.com/libyeehor/status/1376858783650086914) | advertise |
+| [lich_hoang79061@twitter](https://twitter.com/lich_hoang79061/status/1712164536407773674) | advertise |
 | [LiciakhuzwayoS@twitter](https://twitter.com/LiciakhuzwayoS/status/1403715246741729284) | advertise |
 | [lickmygravitas@twitter](https://twitter.com/lickmygravitas/status/1665874510623408128) | advertise |
 | [lickyfail@twitter](https://twitter.com/lickyfail/status/1552306981024964608) | advertise |
@@ -8209,6 +8213,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinKyawSwar19@twitter](https://twitter.com/MinKyawSwar19/status/1390077571228860424) | advertise |
 | [MinKyawThant6@twitter](https://twitter.com/MinKyawThant6/status/1391276200442482689) | advertise |
 | [minlae3@twitter](https://twitter.com/minlae3/status/1391187488752902144) | advertise |
+| [minliciouss@twitter](https://twitter.com/minliciouss/status/1712161914070192288) | advertise |
 | [MinLu82807041@twitter](https://twitter.com/MinLu82807041/status/1403752143711002636) | advertise |
 | [MinMin03070295@twitter](https://twitter.com/MinMin03070295/status/1401439004151537665) | advertise |
 | [MinMin1704@twitter](https://twitter.com/MinMin1704/status/1401211852323844102) | advertise |
