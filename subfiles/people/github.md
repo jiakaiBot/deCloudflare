@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Rule Scaling Component](https://github.com/STCLab-Inc/wave-autoscale/issues/163)
 - [New config file doesn't have cloudflare example, container now broken](https://github.com/gregtwallace/legocerthub/issues/28)
 - [Error: dependencies are imported but could not be resolved: cloudflare:sockets](https://github.com/porsager/postgres/issues/691)
 - [freedaily option the only one working](https://github.com/NicoWeio/blinkist/issues/24)
