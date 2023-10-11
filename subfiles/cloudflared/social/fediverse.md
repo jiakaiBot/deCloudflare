@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,522 |
-| social | 4,607 |
+| com | 7,523 |
+| social | 4,608 |
 | net | 3,816 |
 | org | 2,552 |
 | de | 2,377 |
@@ -950,6 +950,7 @@ Here's a list of public Fediverse services.
 | `abramov.org` | No |
 | `abramson.dev` | No |
 | `abraum.de` | No |
+| `abraum.social` | No |
 | `abretin.io` | Yes |
 | `abrir.gal` | No |
 | `abrizero.fr` | No |
@@ -42331,6 +42332,7 @@ Here's a list of public Fediverse services.
 | `the-cloud.io` | No |
 | `the-codeboy.com` | Yes |
 | `the-cool.zone` | No |
+| `the-crossroads-inn.com` | No |
 | `the-destro.com` | No |
 | `the-door.uk` | No |
 | `the-evil.net` | No |
@@ -42475,6 +42477,7 @@ Here's a list of public Fediverse services.
 | `thedaily.click` | Yes |
 | `thedailyeconomist.com` | No |
 | `thedataexchange.media` | No |
+| `thedav.is` | Yes |
 | `thedecentralists.com` | No |
 | `theden.dev` | Yes |
 | `theden.gay` | Yes |
@@ -48965,8 +48968,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,696 |
-| Normal | 35,221 |
+| Cloudflare | 13,697 |
+| Normal | 35,223 |
 
 
 </details>
