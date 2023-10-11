@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Looks like server is down](https://github.com/keikaavousi/fake-store-api/issues/114)
 - [General communication issue with withings. Error 293](https://github.com/home-assistant/core/issues/101826)
 - [luci-app: Validate IP Sets name](https://github.com/openwrt/luci/issues/6633)
 - [Service "e3dc_rscp.manual_charge" only works once! Second time it is not working.](https://github.com/torbennehmer/hacs-e3dc/issues/65)
