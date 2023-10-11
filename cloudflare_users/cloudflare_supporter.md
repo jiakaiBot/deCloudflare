@@ -1810,6 +1810,7 @@ Do not create new issue or we will close it as duplicate.
 | [BinNguy98058681@twitter](https://twitter.com/BinNguy98058681/status/1582416392397426688) | advertise |
 | [BinnotPain@twitter](https://twitter.com/BinnotPain/status/1603079270946832385) | advertise |
 | [Bintang170604@twitter](https://twitter.com/Bintang170604/status/1579424253132566528) | advertise |
+| [bintang1838373@twitter](https://twitter.com/bintang1838373/status/1712051185996415111) | advertise |
 | [Bintangbrr@twitter](https://twitter.com/Bintangbrr/status/1469541067343077380) | advertise |
 | [Bintran79870499@twitter](https://twitter.com/Bintran79870499/status/1394896382146670593) | advertise |
 | [BinulDr@twitter](https://twitter.com/BinulDr/status/1689265881791291392) | advertise |
