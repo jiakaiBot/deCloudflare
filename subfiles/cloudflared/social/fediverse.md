@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,531 |
+| com | 7,535 |
 | social | 4,608 |
 | net | 3,816 |
 | org | 2,553 |
-| de | 2,380 |
+| de | 2,381 |
 
 
 - Mastodon, Pleroma, etc
@@ -4584,6 +4584,7 @@ Here's a list of public Fediverse services.
 | `billante.com` | Yes |
 | `billbennett.co.nz` | Yes |
 | `billigerkram.de` | Yes |
+| `billsaysthis.com` | No |
 | `billsmafia.social` | No |
 | `billy-brown.net` | No |
 | `billyb.org` | No |
@@ -7211,6 +7212,7 @@ Here's a list of public Fediverse services.
 | `christianscholz.de` | No |
 | `christiansievers.info` | No |
 | `christianwkaiser.de` | No |
+| `christine-seeman.com` | Yes |
 | `christmas.tattoo` | No |
 | `christmas2023.au` | No |
 | `christodon.com` | No |
@@ -14974,6 +14976,7 @@ Here's a list of public Fediverse services.
 | `full-house.de` | No |
 | `fullhosting.eu` | No |
 | `fullmoonrva.com` | Yes |
+| `fullmoonstorytelling.com` | No |
 | `fullof.buzz` | Yes |
 | `fullofwords.com` | No |
 | `fullstackgeek.tech` | No |
@@ -19443,6 +19446,7 @@ Here's a list of public Fediverse services.
 | `intersport.social` | No |
 | `interstate411.us` | Yes |
 | `interstellar.flights` | Yes |
+| `interzone.digital` | No |
 | `interzone.tw` | Yes |
 | `inthebeliefofbetter.social` | No |
 | `inthecatsdreams.xyz` | No |
@@ -26835,6 +26839,7 @@ Here's a list of public Fediverse services.
 | `messurrection.com` | No |
 | `messydesk.social` | No |
 | `mesta.social` | No |
+| `mestizo.monster` | No |
 | `met-eaux.nl` | No |
 | `met-hardware.fr` | No |
 | `meta-carbon.com` | No |
@@ -38608,6 +38613,7 @@ Here's a list of public Fediverse services.
 | `shofutex.net` | No |
 | `shog.social` | No |
 | `shoghi.rocks` | Yes |
+| `shojiwax.com` | No |
 | `shokanradio.com` | Yes |
 | `shoko.one` | No |
 | `shokujin.jp` | Yes |
@@ -41621,6 +41627,7 @@ Here's a list of public Fediverse services.
 | `talking.dev` | Yes |
 | `talkingdrupal.social` | No |
 | `talkinghuman.com` | Yes |
+| `talkmitmarkus.de` | No |
 | `talkopol.is` | No |
 | `talkoverflow.dev` | No |
 | `talkparanormal.social` | No |
@@ -48997,8 +49004,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,706 |
-| Normal | 35,243 |
+| Cloudflare | 13,707 |
+| Normal | 35,249 |
 
 
 </details>
