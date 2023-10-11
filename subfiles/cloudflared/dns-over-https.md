@@ -48,7 +48,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | blissdns.net | Yes |
 | blokada.org | Yes |
 | bluemood.me | Yes |
-| bobstrecansky.com | No |
 | boje8.me | Yes |
 | bosco.ovh | No |
 | brahma.world | Yes |
@@ -88,9 +87,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dnsforge.de | No |
 | dnshome.de | No |
 | dnslow.me | No |
-| doh.beauty | No |
 | doh.best | No |
-| doh.buzz | No |
 | doh.lv | No |
 | doh.sb | Yes |
 | dscloud.me | No |
@@ -199,7 +196,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | opendns.com | Yes |
 | ozer.im | No |
 | paesa.es | Yes |
-| panszelescik.pl | Yes |
 | pathofgrace.com | No |
 | persiannit.net | Yes |
 | puredns.org | Yes |
@@ -282,8 +278,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 124 |
-| Normal | 139 |
+| Cloudflare | 123 |
+| Normal | 136 |
 
 
-### 47.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
