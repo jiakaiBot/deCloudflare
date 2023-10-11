@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,526 |
+| com | 7,531 |
 | social | 4,608 |
-| net | 3,815 |
+| net | 3,816 |
 | org | 2,553 |
 | de | 2,380 |
 
@@ -2548,6 +2548,7 @@ Here's a list of public Fediverse services.
 | `apfelfunk.com` | No |
 | `apha.dk` | No |
 | `aphasiagoverned.com` | No |
+| `aphowell.com` | No |
 | `api-ariang.ml` | No |
 | `api-d.com` | Yes |
 | `apievangelist.com` | Yes |
@@ -12395,6 +12396,7 @@ Here's a list of public Fediverse services.
 | `ericbeckers.nl` | Yes |
 | `ericblade.us` | No |
 | `ericcredeur.com` | No |
+| `ericdq.com` | No |
 | `ericdube.com` | No |
 | `ericf.social` | Yes |
 | `ericgregorich.com` | Yes |
@@ -18995,6 +18997,7 @@ Here's a list of public Fediverse services.
 | `imagotv.fr` | No |
 | `imal.org` | No |
 | `imancommunity.de` | No |
+| `imarc.co.uk` | No |
 | `imas.fun` | Yes |
 | `imas.photo` | No |
 | `imasdeweb.com` | No |
@@ -26293,6 +26296,7 @@ Here's a list of public Fediverse services.
 | `matya.social` | No |
 | `mauch.social` | No |
 | `maud.io` | Yes |
+| `maudet.net` | Yes |
 | `mauldasch.de` | No |
 | `maumau.social` | No |
 | `maunder.social` | No |
@@ -27374,6 +27378,7 @@ Here's a list of public Fediverse services.
 | `miria.love` | No |
 | `mirial.jp` | Yes |
 | `mirial.jp.net` | Yes |
+| `miriamrobern.com` | No |
 | `mirko-schenk.de` | No |
 | `mirkwood.io` | No |
 | `miro-sv.net` | No |
@@ -27754,6 +27759,7 @@ Here's a list of public Fediverse services.
 | `mochiwasa.online` | No |
 | `mochiwasa.xyz` | No |
 | `mochiwasadon.com` | Yes |
+| `mockpaperscissors.com` | No |
 | `mocodbo.com` | Yes |
 | `mod-12.com` | No |
 | `mod.digital` | No |
@@ -33263,6 +33269,7 @@ Here's a list of public Fediverse services.
 | `pico8.social` | No |
 | `piconet.co.uk` | No |
 | `piconic.co` | Yes |
+| `picopico.party` | Yes |
 | `picote.ch` | No |
 | `pics.mu` | No |
 | `picsuki.com` | Yes |
@@ -42172,6 +42179,7 @@ Here's a list of public Fediverse services.
 | `terapeldigitaal.nl` | Yes |
 | `terbea.com` | No |
 | `terbeest.net` | No |
+| `terberlo.dog` | No |
 | `tere.be` | No |
 | `terefere.eu` | No |
 | `terence.page` | No |
@@ -42890,6 +42898,7 @@ Here's a list of public Fediverse services.
 | `thewooskeys.com` | No |
 | `theworkpc.com` | Yes |
 | `theworldiscoated.blue` | No |
+| `thewpminute.com` | Yes |
 | `thexboxcast.co.nz` | Yes |
 | `thexsoft.com` | Yes |
 | `theydonts.top` | Yes |
@@ -44466,6 +44475,7 @@ Here's a list of public Fediverse services.
 | `tw.social` | No |
 | `tw.town` | No |
 | `tw1tter.com` | No |
+| `twaddle.blog` | No |
 | `twarb.com` | No |
 | `twat.city` | Yes |
 | `twc-zone.eu` | No |
@@ -48215,6 +48225,7 @@ Here's a list of public Fediverse services.
 | `yoitsu.moe` | Yes |
 | `yoix.com` | Yes |
 | `yojik.net` | No |
+| `yojohan.cc` | Yes |
 | `yokai.cafe` | No |
 | `yolo.ventures` | No |
 | `yolops.net` | No |
@@ -48985,8 +48996,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,702 |
-| Normal | 35,235 |
+| Cloudflare | 13,706 |
+| Normal | 35,242 |
 
 
 </details>
