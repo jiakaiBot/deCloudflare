@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: dependencies are imported but could not be resolved: cloudflare:sockets](https://github.com/porsager/postgres/issues/691)
 - [freedaily option the only one working](https://github.com/NicoWeio/blinkist/issues/24)
 - [Domain Blocking (Help pls)](https://github.com/gophish/gophish/issues/2995)
 - [The give_get_ip() method should return a single IP address by default](https://github.com/impress-org/givewp/issues/7015)
