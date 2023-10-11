@@ -3301,6 +3301,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dungtra66916665@twitter](https://twitter.com/Dungtra66916665/status/1392717888910331913) | advertise |
 | [DuNguyn89445274@twitter](https://twitter.com/DuNguyn89445274/status/1386448298647515143) | advertise |
 | [Dungxl14@twitter](https://twitter.com/Dungxl14/status/1552353203634593793) | advertise |
+| [Dunn2510@twitter](https://twitter.com/Dunn2510/status/1712066416202129789) | advertise |
 | [Duong12Dam@twitter](https://twitter.com/Duong12Dam/status/1552620886427021312) | advertise |
 | [Duong1276@twitter](https://twitter.com/Duong1276/status/1557186487229513728) | advertise |
 | [Duong41002533@twitter](https://twitter.com/Duong41002533/status/1553440020484145153) | advertise |
@@ -3362,6 +3363,7 @@ Do not create new issue or we will close it as duplicate.
 | [DylanPhan14@twitter](https://twitter.com/DylanPhan14/status/1379077937966710798) | advertise |
 | [DySay4@twitter](https://twitter.com/DySay4/status/1446314593387642884) | advertise |
 | [Dz01019558@twitter](https://twitter.com/Dz01019558/status/1553125143349952512) | advertise |
+| [dznhatpho@twitter](https://twitter.com/dznhatpho/status/1712085318214767039) | advertise |
 | [Dzony791@twitter](https://twitter.com/Dzony791/status/1393946883966578692) | advertise |
 | [dzuhrimohd88@twitter](https://twitter.com/dzuhrimohd88/status/1386173313165062145) | advertise |
 | [dzulhelmi@twitter](https://twitter.com/dzulhelmi/status/1431272526898888705) | advertise |
@@ -6518,6 +6520,7 @@ Do not create new issue or we will close it as duplicate.
 | [KishanY38124071@twitter](https://twitter.com/KishanY38124071/status/1386658570142289923) | advertise |
 | [Kishwar_Ayaz@twitter](https://twitter.com/Kishwar_Ayaz/status/1687095405501362176) | advertise |
 | [Kit33462985@twitter](https://twitter.com/Kit33462985/status/1401542022276685826) | advertise |
+| [KitaTarot938721@twitter](https://twitter.com/KitaTarot938721/status/1712073998836584666) | advertise |
 | [KiteMeeran@twitter](https://twitter.com/KiteMeeran/status/1479318671038181379) | advertise |
 | [kitl37720388@twitter](https://twitter.com/kitl37720388/status/1558464851650850824) | advertise |
 | [KittinatRueang1@twitter](https://twitter.com/KittinatRueang1/status/1605029090079019008) | advertise |
