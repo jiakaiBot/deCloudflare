@@ -4,6 +4,10 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [General communication issue with withings. Error 293](https://github.com/home-assistant/core/issues/101826)
+- [luci-app: Validate IP Sets name](https://github.com/openwrt/luci/issues/6633)
+- [Service "e3dc_rscp.manual_charge" only works once! Second time it is not working.](https://github.com/torbennehmer/hacs-e3dc/issues/65)
+- [hltv has strengthened its protection against scraping.](https://github.com/gigobyte/HLTV/issues/737)
 - [Go Flight AuthenticateBasicToken is unreliable behind proxies](https://github.com/apache/arrow/issues/38198)
 - [Cloudflare Rule Scaling Component](https://github.com/STCLab-Inc/wave-autoscale/issues/163)
 - [New config file doesn't have cloudflare example, container now broken](https://github.com/gregtwallace/legocerthub/issues/28)
