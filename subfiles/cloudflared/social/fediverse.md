@@ -19349,7 +19349,7 @@ Here's a list of public Fediverse services.
 | `inscope.social` | No |
 | `inscribe.social` | No |
 | `insert.moe` | Yes |
-| `insert.tk` | Yes |
+| `insert.tk` | No |
 | `insertapp.net` | Yes |
 | `insicurezzadigitale.com` | Yes |
 | `insider-it.de` | No |
@@ -22182,6 +22182,7 @@ Here's a list of public Fediverse services.
 | `kogak.xyz` | No |
 | `kogasa.de` | No |
 | `kohan.pl` | Yes |
+| `koharu.app` | Yes |
 | `kohl.dev` | No |
 | `kohodon.com` | No |
 | `kohrville.net` | No |
@@ -48997,7 +48998,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,706 |
-| Normal | 35,242 |
+| Normal | 35,243 |
 
 
 </details>
