@@ -32,8 +32,8 @@ Here's a list of public Fediverse services.
 | com | 7,523 |
 | social | 4,608 |
 | net | 3,816 |
-| org | 2,552 |
-| de | 2,377 |
+| org | 2,554 |
+| de | 2,379 |
 
 
 - Mastodon, Pleroma, etc
@@ -4195,7 +4195,7 @@ Here's a list of public Fediverse services.
 | `beirdostudio.com` | No |
 | `beisel.it` | No |
 | `beispieltext.net` | No |
-| `beiting.io` | No |
+| `beiting.io` | Yes |
 | `beiting.org` | No |
 | `beitmenotyou.com` | Yes |
 | `beiunsdaham.de` | No |
@@ -14588,6 +14588,7 @@ Here's a list of public Fediverse services.
 | `freeipad.info` | Yes |
 | `freeiran.group` | No |
 | `freeit247.eu` | No |
+| `freelancecorner.co.uk` | Yes |
 | `freelancers.online` | Yes |
 | `freeland-test-services.ml` | No |
 | `freeland.country` | No |
@@ -17682,6 +17683,7 @@ Here's a list of public Fediverse services.
 | `herokuapp.com` | No |
 | `herolfg.com` | No |
 | `herr-jemineh.org` | No |
+| `herrbenedikt.de` | Yes |
 | `herrhaensel.de` | No |
 | `herrkochhatrecht.de` | No |
 | `herrliberg.online` | No |
@@ -25530,6 +25532,7 @@ Here's a list of public Fediverse services.
 | `mashiro.top` | Yes |
 | `mashtodon.net` | No |
 | `mashton.party` | No |
+| `mashy.jp` | No |
 | `masi.family` | No |
 | `masip.cat` | No |
 | `masked.cloud` | No |
@@ -28989,6 +28992,7 @@ Here's a list of public Fediverse services.
 | `mythic.wtf` | Yes |
 | `mythik.co.uk` | No |
 | `mythology.social` | No |
+| `mythos-one.de` | Yes |
 | `mythoughtprocess.info` | No |
 | `mytoot.de` | No |
 | `mytoot.net` | No |
@@ -29421,6 +29425,7 @@ Here's a list of public Fediverse services.
 | `needsmore.pizza` | No |
 | `needspets.gq` | No |
 | `needsushi.com` | No |
+| `neegbeah.dev` | No |
 | `neek.io` | No |
 | `neelc.org` | Yes |
 | `neeldhara.online` | No |
@@ -42193,6 +42198,7 @@ Here's a list of public Fediverse services.
 | `terribleterrapin.com` | Yes |
 | `terribly.social` | No |
 | `territoridigitali.org` | No |
+| `territorisostenibili.org` | No |
 | `terror.black` | No |
 | `terrorbit.co.uk` | No |
 | `terryiscool160.xyz` | Yes |
@@ -42779,6 +42785,7 @@ Here's a list of public Fediverse services.
 | `theshowshow.tv` | Yes |
 | `theshrub.org` | No |
 | `thesifr.com` | No |
+| `thesilentlink.org` | No |
 | `thesimons.us` | No |
 | `thesimplecorner.org` | No |
 | `thesinalab.de` | No |
@@ -44213,6 +44220,7 @@ Here's a list of public Fediverse services.
 | `tseivan.com` | No |
 | `tsellhorn.social` | No |
 | `tsia.de` | No |
+| `tsic.top` | Yes |
 | `tsiopanos.social` | No |
 | `tsjirper.eu` | Yes |
 | `tsmd.jp` | No |
@@ -48969,8 +48977,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,698 |
-| Normal | 35,223 |
+| Cloudflare | 13,703 |
+| Normal | 35,226 |
 
 
 </details>
