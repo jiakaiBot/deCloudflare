@@ -1597,6 +1597,7 @@ Do not create new issue or we will close it as duplicate.
 | [ban_tampal@twitter](https://twitter.com/ban_tampal/status/1552003433971888128) | advertise |
 | [bao2khong5@twitter](https://twitter.com/bao2khong5/status/1644571933521092609) | advertise |
 | [bao85639159@twitter](https://twitter.com/bao85639159/status/1379009039988748289) | advertise |
+| [baobao0704@twitter](https://twitter.com/baobao0704/status/1712169527746900336) | advertise |
 | [baobei0201@twitter](https://twitter.com/baobei0201/status/1552929205947469825) | advertise |
 | [baogaooo@twitter](https://twitter.com/baogaooo/status/1481173397111738370) | advertise |
 | [Baolodc@twitter](https://twitter.com/Baolodc/status/1684790483602849792) | advertise |
@@ -2024,6 +2025,7 @@ Do not create new issue or we will close it as duplicate.
 | [BRCQQT@twitter](https://twitter.com/BRCQQT/status/1572810005421920256) | advertise |
 | [brendan8c@twitter](https://twitter.com/brendan8c/status/1435666779188174850) | advertise |
 | [BrendanDattili2@twitter](https://twitter.com/BrendanDattili2/status/1532100998252093446) | advertise |
+| [BrendanGaldes3@twitter](https://twitter.com/BrendanGaldes3/status/1712179526594416773) | advertise |
 | [BrettSlaski@twitter](https://twitter.com/BrettSlaski/status/1454647204342288385) | advertise |
 | [BrianAlaway@twitter](https://twitter.com/BrianAlaway/status/1411048803336138754) | moral (advertise) |
 | [brianjaikens@twitter](https://twitter.com/brianjaikens/status/1553345364425596929) | advertise |
@@ -12555,6 +12557,7 @@ Do not create new issue or we will close it as duplicate.
 | [thanhhuy0601@twitter](https://twitter.com/thanhhuy0601/status/1553208421104570368) | advertise |
 | [Thanhlo12816342@twitter](https://twitter.com/Thanhlo12816342/status/1491166476782702592) | advertise |
 | [ThanhNguyen011z@twitter](https://twitter.com/ThanhNguyen011z/status/1553442455382806528) | advertise |
+| [ThanhNguynDuy6@twitter](https://twitter.com/ThanhNguynDuy6/status/1712176244278833282) | advertise |
 | [Thanhnh19736141@twitter](https://twitter.com/Thanhnh19736141/status/1643999462082363393) | advertise |
 | [Thanhnhan671@twitter](https://twitter.com/Thanhnhan671/status/1502252142484078594) | advertise |
 | [ThanhPh44294737@twitter](https://twitter.com/ThanhPh44294737/status/1383122715314249733) | advertise |
