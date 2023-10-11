@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,520 |
+| com | 7,521 |
 | social | 4,607 |
 | net | 3,816 |
 | org | 2,551 |
@@ -10880,6 +10880,7 @@ Here's a list of public Fediverse services.
 | `doompill.com` | No |
 | `dooms.com.br` | No |
 | `doomscroller.social` | No |
+| `doomsdayrs.page` | No |
 | `doon.promo` | No |
 | `doony.online` | No |
 | `doop.coop` | No |
@@ -38620,6 +38621,7 @@ Here's a list of public Fediverse services.
 | `shoutbox.net` | Yes |
 | `shoutingfrommysoapbox.social` | No |
 | `shouttheband.com` | No |
+| `showeq.com` | Yes |
 | `showmy.world` | No |
 | `showoffto.us` | No |
 | `showyou41.win` | Yes |
@@ -48954,8 +48956,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,692 |
-| Normal | 35,214 |
+| Cloudflare | 13,693 |
+| Normal | 35,215 |
 
 
 </details>
