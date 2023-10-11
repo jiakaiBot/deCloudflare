@@ -9135,6 +9135,7 @@ Do not create new issue or we will close it as duplicate.
 | [nghile951@twitter](https://twitter.com/nghile951/status/1595142920142585856) | advertise |
 | [Nghim96809566@twitter](https://twitter.com/Nghim96809566/status/1387297402122489859) | advertise |
 | [NghNguy33097122@twitter](https://twitter.com/NghNguy33097122/status/1391728415984603138) | advertise |
+| [nghungdtrais1tg@twitter](https://twitter.com/nghungdtrais1tg/status/1712205923442127333) | advertise |
 | [ngHuy58533717@twitter](https://twitter.com/ngHuy58533717/status/1400935313917153283) | advertise |
 | [Ngi1Trit@twitter](https://twitter.com/Ngi1Trit/status/1638437010292768770) | advertise |
 | [nginngenthj@twitter](https://twitter.com/nginngenthj/status/1397950807522242561) | advertise |
@@ -9942,6 +9943,7 @@ Do not create new issue or we will close it as duplicate.
 | [PannKal92750160@twitter](https://twitter.com/PannKal92750160/status/1386689577373536258) | advertise |
 | [PanoramicaCo@twitter](https://twitter.com/PanoramicaCo/status/1643476104026509313) | advertise |
 | [panportugal@twitter](https://twitter.com/panportugal/status/1551915856699047937) | advertise |
+| [panthepsak147@twitter](https://twitter.com/panthepsak147/status/1712206552885801446) | advertise |
 | [pan_lett@twitter](https://twitter.com/pan_lett/status/1391278301365288961) | advertise |
 | [Pap0501_gin@twitter](https://twitter.com/Pap0501_gin/status/1637356633411158017) | advertise |
 | [papa71868482@twitter](https://twitter.com/papa71868482/status/1607063209818873856) | advertise |
