@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,565 |
+| com | 7,567 |
 | social | 4,608 |
 | net | 3,821 |
 | org | 2,561 |
@@ -12088,6 +12088,7 @@ Here's a list of public Fediverse services.
 | `emacs.li` | No |
 | `emacsen.net` | No |
 | `email-versand.net` | No |
+| `emancipation.fr` | No |
 | `emancipe.es` | No |
 | `emastodon.com` | No |
 | `emaw.social` | Yes |
@@ -17102,6 +17103,7 @@ Here's a list of public Fediverse services.
 | `haigner.me` | Yes |
 | `haijo.eu` | No |
 | `haikara.party` | No |
+| `haikushane.com` | No |
 | `hails.org` | No |
 | `haiq.com.au` | No |
 | `hairbow.lol` | No |
@@ -21329,6 +21331,7 @@ Here's a list of public Fediverse services.
 | `karatek.net` | Yes |
 | `karateka.social` | No |
 | `karatekarnickel.de` | No |
+| `karchner.com` | No |
 | `karebu.gay` | Yes |
 | `karel.today` | No |
 | `karene.net` | No |
@@ -27726,6 +27729,7 @@ Here's a list of public Fediverse services.
 | `mmorpg.social` | No |
 | `mmpr.ca` | No |
 | `mmrw.de` | No |
+| `mmsh.fr` | No |
 | `mmtr.me` | Yes |
 | `mmunin.com` | Yes |
 | `mmw.im` | Yes |
@@ -43431,6 +43435,7 @@ Here's a list of public Fediverse services.
 | `toaruhetare.net` | No |
 | `toast.cafe` | No |
 | `toast.farm` | Yes |
+| `toast.ooo` | Yes |
 | `toast.ws` | Yes |
 | `toastbrot.net` | Yes |
 | `toaster.sh` | Yes |
@@ -49094,8 +49099,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,731 |
-| Normal | 35,315 |
+| Cloudflare | 13,732 |
+| Normal | 35,319 |
 
 
 </details>
