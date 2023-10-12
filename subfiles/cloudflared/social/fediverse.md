@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,567 |
+| com | 7,569 |
 | social | 4,608 |
-| net | 3,821 |
+| net | 3,823 |
 | org | 2,561 |
-| de | 2,386 |
+| de | 2,387 |
 
 
 - Mastodon, Pleroma, etc
@@ -1681,6 +1681,7 @@ Here's a list of public Fediverse services.
 | `alexoladele.dev` | Yes |
 | `alexreiner-hosting.de` | No |
 | `alexrio.fr` | No |
+| `alexschreyer.net` | No |
 | `alexschroeder.ch` | No |
 | `alexsteiner.de` | No |
 | `alexswensen.io` | Yes |
@@ -4713,6 +4714,7 @@ Here's a list of public Fediverse services.
 | `bisset.me.uk` | No |
 | `bissgigi.art` | No |
 | `bissisoft.com` | No |
+| `bistum-essen.de` | No |
 | `bit-friends.de` | No |
 | `bit-link.de` | No |
 | `bitacadie.com` | No |
@@ -7827,6 +7829,7 @@ Here's a list of public Fediverse services.
 | `col.social` | Yes |
 | `cola-gang.industries` | Yes |
 | `cola.net` | No |
+| `cold-albion.net` | No |
 | `cold.solar` | No |
 | `coldness.co` | No |
 | `coldrick.me.uk` | Yes |
@@ -8257,6 +8260,7 @@ Here's a list of public Fediverse services.
 | `cortexspace.support` | Yes |
 | `corticarte.com` | No |
 | `corvids.club` | Yes |
+| `corvidspress.com` | No |
 | `corvus.social` | Yes |
 | `corzntin.fr` | No |
 | `cos.zone` | No |
@@ -41329,6 +41333,7 @@ Here's a list of public Fediverse services.
 | `swg-empire.de` | No |
 | `swiatczytnikow.pl` | No |
 | `swiftdev.space` | No |
+| `swiftdevjournal.com` | No |
 | `swiftdevs.space` | No |
 | `swiftstream.gay` | Yes |
 | `swiftstream.io` | Yes |
@@ -49100,7 +49105,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,732 |
-| Normal | 35,319 |
+| Normal | 35,324 |
 
 
 </details>
