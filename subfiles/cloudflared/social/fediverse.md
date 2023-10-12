@@ -31211,6 +31211,7 @@ Here's a list of public Fediverse services.
 | `ocert.at` | No |
 | `ochagavia.nl` | No |
 | `ochakai.moe` | Yes |
+| `ochinchin.dev` | Yes |
 | `ocho.zone` | No |
 | `ochobitshacenunbyte.com` | Yes |
 | `ochronus.online` | Yes |
@@ -49030,7 +49031,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,718 |
+| Cloudflare | 13,719 |
 | Normal | 35,264 |
 
 
