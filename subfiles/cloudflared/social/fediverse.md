@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,535 |
+| com | 7,536 |
 | social | 4,608 |
 | net | 3,816 |
 | org | 2,553 |
@@ -539,6 +539,7 @@ Here's a list of public Fediverse services.
 | `45wa.jp` | Yes |
 | `465789.xyz` | No |
 | `47041.net` | Yes |
+| `47thpennsylvaniavolunteers.com` | No |
 | `48.club` | Yes |
 | `481516.xyz` | Yes |
 | `48645.tk` | No |
@@ -7880,7 +7881,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -47866,6 +47867,7 @@ Here's a list of public Fediverse services.
 | `xn--zckuao5dze.jp` | No |
 | `xnaas.info` | Yes |
 | `xnet.chat` | Yes |
+| `xnet.place` | No |
 | `xno.social` | Yes |
 | `xnode.chat` | No |
 | `xnop.yt` | No |
@@ -48998,7 +49000,7 @@ Here's a list of public Fediverse services.
 | `zzuli.top` | Yes |
 | `zzz.blue` | No |
 | `zzz.rocks` | Yes |
-| `zzzoo.org` | No |
+| `zzzoo.org` | Yes |
 | `zzzxxx.xyz` | No |
 
 
@@ -49007,7 +49009,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,708 |
-| Normal | 35,250 |
+| Normal | 35,252 |
 
 
 </details>
