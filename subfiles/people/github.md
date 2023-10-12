@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error when editing/creating domains](https://github.com/hiddify/Hiddify-Server/issues/3319)
 - [Lỗi iframe ở cửa sổ output không load được](https://github.com/sveltevietnam/learn.svelte.dev/issues/51)
 - [Panel is not reading the server status after 10.10.2023](https://github.com/pterodactyl/panel/issues/4888)
 - [No style on some page](https://github.com/zaproxy/zaproxy/issues/8116)
