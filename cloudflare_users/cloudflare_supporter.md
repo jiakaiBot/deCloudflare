@@ -6459,6 +6459,7 @@ Do not create new issue or we will close it as duplicate.
 | [killer2111991@twitter](https://twitter.com/killer2111991/status/1469327399536197633) | advertise |
 | [KillerIcloud@twitter](https://twitter.com/KillerIcloud/status/1508936022624817152) | advertise |
 | [killfortunes@twitter](https://twitter.com/killfortunes/status/1482820909169795076) | advertise |
+| [Killsec_lol@twitter](https://twitter.com/Killsec_lol/status/1709037081857511641) | advertise |
 | [KillzoneGaming@twitter](https://twitter.com/KillzoneGaming/status/1548558367131463680) | advertise |
 | [kiltimaghlad@twitter](https://twitter.com/kiltimaghlad/status/1665858287458295809) | advertise |
 | [kim24_eilie@twitter](https://twitter.com/kim24_eilie/status/1381107528184958981) | advertise |
@@ -7772,6 +7773,7 @@ Do not create new issue or we will close it as duplicate.
 | [MartinDeKlerk6@twitter](https://twitter.com/MartinDeKlerk6/status/1604736026571952129) | advertise |
 | [martiniomjdk@twitter](https://twitter.com/martiniomjdk/status/1604736026571952129) | advertise |
 | [Martinka_Treti_@twitter](https://twitter.com/Martinka_Treti_/status/1534550667435589637) | advertise |
+| [martin_gly@twitter](https://twitter.com/martin_gly/status/1712565782750642573) | advertise |
 | [Maru19225266@twitter](https://twitter.com/Maru19225266/status/1399664918794674181) | advertise |
 | [MarufHa0192487@twitter](https://twitter.com/MarufHa0192487/status/1385279046309740547) | advertise |
 | [Marvell_Law@twitter](https://twitter.com/Marvell_Law/status/1608339561574445057) | advertise |
