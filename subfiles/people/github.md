@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [flutter-web: upgrade from pdf.js/2.4.456 to latest pdf.js/3.x.xxx](https://github.com/syncfusion/flutter-widgets/issues/1460)
 - [CloudFlare Cloudflare Workers Issues](https://github.com/hinoshiba/news/issues/4688)
 - [CloudFlare Cloudflare Workers Issues](https://github.com/SecOpsNews/news/issues/19993)
 - [attachments and images not loading after update to 1.8.103](https://github.com/freescout-helpdesk/freescout/issues/3453)
