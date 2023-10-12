@@ -4129,6 +4129,7 @@ Do not create new issue or we will close it as duplicate.
 | [GogehZailani@twitter](https://twitter.com/GogehZailani/status/1557726171130802179) | advertise |
 | [GogKhant@twitter](https://twitter.com/GogKhant/status/1393684373484961794) | advertise |
 | [goku27541164@twitter](https://twitter.com/goku27541164/status/1665874524993208321) | advertise |
+| [GokuandVegitaa@twitter](https://twitter.com/GokuandVegitaa/status/1712289254062326161) | advertise |
 | [GolamkibriaRony@twitter](https://twitter.com/GolamkibriaRony/status/1404201070306361345) | advertise |
 | [golangcoach@twitter](https://twitter.com/golangcoach/status/1598157904825417729) | advertise |
 | [goldenboi199@twitter](https://twitter.com/goldenboi199/status/1619012118401134593) | advertise |
@@ -13782,6 +13783,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vinoth23510941@twitter](https://twitter.com/Vinoth23510941/status/1404749738747088897) | advertise |
 | [VinoVino2809@twitter](https://twitter.com/VinoVino2809/status/1584144896289447936) | advertise |
 | [Vinzbran@twitter](https://twitter.com/Vinzbran/status/1552464107772985344) | advertise |
+| [VioletAndGreens@twitter](https://twitter.com/VioletAndGreens/status/1712392120018084276) | advertise |
 | [VIPCOCGAMING1@twitter](https://twitter.com/VIPCOCGAMING1/status/1586043418849210369) | advertise |
 | [vipibox@twitter](https://twitter.com/vipibox/status/1570101058587987968) | advertise |
 | [vip__Lyahody@twitter](https://twitter.com/vip__Lyahody/status/1613997413517393921) | advertise |
