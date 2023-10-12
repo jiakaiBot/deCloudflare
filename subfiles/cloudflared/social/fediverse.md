@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,575 |
+| com | 7,578 |
 | social | 4,608 |
-| net | 3,823 |
+| net | 3,825 |
 | org | 2,561 |
-| de | 2,388 |
+| de | 2,390 |
 
 
 - Mastodon, Pleroma, etc
@@ -3781,6 +3781,7 @@ Here's a list of public Fediverse services.
 | `bakedbean.xyz` | Yes |
 | `baker.network` | No |
 | `baker.uk` | Yes |
+| `bakerstreetforensics.com` | No |
 | `baking.social` | No |
 | `bakitodon.com` | No |
 | `bakunet.me` | Yes |
@@ -15229,6 +15230,7 @@ Here's a list of public Fediverse services.
 | `fw3rd-bc.jp` | No |
 | `fwgx.uk` | Yes |
 | `fwitter.net` | Yes |
+| `fwoof.space` | No |
 | `fx-don.net` | No |
 | `fx.cafe` | No |
 | `fx4.net` | No |
@@ -17889,6 +17891,7 @@ Here's a list of public Fediverse services.
 | `hilciferous.nl` | No |
 | `hildrey.net` | No |
 | `hilfikers.com` | Yes |
+| `hillbrecht.de` | No |
 | `hillebrand.io` | No |
 | `hillenius.net` | No |
 | `hillexplorer.com` | No |
@@ -32076,6 +32079,7 @@ Here's a list of public Fediverse services.
 | `oscdev.tv` | No |
 | `oschly.me` | No |
 | `osci.io` | No |
+| `osconjunction.net` | No |
 | `osechin.co` | No |
 | `oseka.xyz` | No |
 | `osfast.com` | No |
@@ -34311,6 +34315,7 @@ Here's a list of public Fediverse services.
 | `pr1nt.xyz` | Yes |
 | `praccu.com` | Yes |
 | `practicalbytes.de` | No |
+| `practicalfox.com` | Yes |
 | `practically.social` | No |
 | `pradenco.com` | No |
 | `prado.it` | Yes |
@@ -41305,6 +41310,7 @@ Here's a list of public Fediverse services.
 | `svp.im` | No |
 | `svrgn.sh` | No |
 | `svt.se` | No |
+| `svtropicaldawn.blog` | No |
 | `svtw.online` | No |
 | `svx.im` | Yes |
 | `sw-development-is.social` | No |
@@ -42367,6 +42373,7 @@ Here's a list of public Fediverse services.
 | `tetsumaki.net` | No |
 | `teu.ac.jp` | No |
 | `teufel100.de` | No |
+| `teufelswerk.net` | No |
 | `teuto.icu` | Yes |
 | `teutonia-kleinenbroich.de` | No |
 | `teutronic-services.de` | No |
@@ -43093,6 +43100,7 @@ Here's a list of public Fediverse services.
 | `thndl.com` | No |
 | `thoco.se` | No |
 | `thog.eu` | No |
+| `thomas-ebinger.de` | No |
 | `thomas-pape.de` | No |
 | `thomas.ma` | No |
 | `thomasabthorpe.ca` | No |
@@ -46513,6 +46521,7 @@ Here's a list of public Fediverse services.
 | `warm.rocks` | No |
 | `warmonger.de` | No |
 | `warnaars.com` | No |
+| `warnercrocker.com` | No |
 | `warnick.me` | Yes |
 | `warofart.xyz` | No |
 | `warpday.net` | Yes |
@@ -49116,8 +49125,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,734 |
-| Normal | 35,334 |
+| Cloudflare | 13,735 |
+| Normal | 35,342 |
 
 
 </details>
