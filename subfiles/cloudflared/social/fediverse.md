@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,542 |
 | social | 4,608 |
 | net | 3,817 |
-| org | 2,555 |
+| org | 2,557 |
 | de | 2,381 |
 
 
@@ -29484,6 +29484,7 @@ Here's a list of public Fediverse services.
 | `neigh.horse` | No |
 | `neighborli.xyz` | Yes |
 | `neilcastelino.com` | Yes |
+| `neilmadden.blog` | No |
 | `neilorangepeel.com` | No |
 | `neilturner.me.uk` | No |
 | `neilzone.co.uk` | No |
@@ -44137,6 +44138,7 @@ Here's a list of public Fediverse services.
 | `tro9.life` | Yes |
 | `troback.com` | No |
 | `troch.org` | No |
+| `troed.se` | No |
 | `troet.cafe` | No |
 | `troet.church` | No |
 | `troet.club` | No |
@@ -47506,6 +47508,7 @@ Here's a list of public Fediverse services.
 | `wvac.club` | No |
 | `wwbaker.net` | No |
 | `wwtube.net` | No |
+| `www-cd.org` | No |
 | `wx.social` | No |
 | `wx.watch` | No |
 | `wx4.me` | No |
@@ -47629,6 +47632,7 @@ Here's a list of public Fediverse services.
 | `xcho.space` | No |
 | `xcloud.zone` | No |
 | `xcoder.org` | Yes |
+| `xcol.org` | No |
 | `xconomy.com` | Yes |
 | `xcoolgroup.com` | No |
 | `xcore.social` | No |
@@ -49027,7 +49031,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,718 |
-| Normal | 35,260 |
+| Normal | 35,264 |
 
 
 </details>
