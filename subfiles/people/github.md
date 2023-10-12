@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Panel is not reading the server status after 10.10.2023](https://github.com/pterodactyl/panel/issues/4888)
+- [No style on some page](https://github.com/zaproxy/zaproxy/issues/8116)
 - [Looks like server is down](https://github.com/keikaavousi/fake-store-api/issues/114)
 - [General communication issue with withings. Error 293](https://github.com/home-assistant/core/issues/101826)
 - [luci-app: Validate IP Sets name](https://github.com/openwrt/luci/issues/6633)
