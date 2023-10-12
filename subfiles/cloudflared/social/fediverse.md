@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,578 |
-| social | 4,608 |
+| com | 7,584 |
+| social | 4,609 |
 | net | 3,825 |
 | org | 2,561 |
 | de | 2,390 |
@@ -9210,6 +9210,7 @@ Here's a list of public Fediverse services.
 | `daiko.fr` | No |
 | `daily.surf` | No |
 | `dailysouthafrican.co.za` | No |
+| `dailytechnewsshow.com` | Yes |
 | `dailywebthing.com` | No |
 | `dain.moe` | Yes |
 | `dair-community.social` | Yes |
@@ -12534,6 +12535,7 @@ Here's a list of public Fediverse services.
 | `esmevane.com` | No |
 | `esolis.social` | No |
 | `esophiamedias.fr` | No |
+| `esoteric-renaissance.com` | No |
 | `esoteric.party` | No |
 | `esotericknowledge.xyz` | No |
 | `esotericmonkey.com` | No |
@@ -13567,6 +13569,7 @@ Here's a list of public Fediverse services.
 | `fediversum.one` | No |
 | `fediversum.social` | Yes |
 | `fedivienne.org` | No |
+| `fedivote.com` | No |
 | `fediwald.de` | No |
 | `fediweij.nl` | No |
 | `fediwersum.pl` | Yes |
@@ -16356,6 +16359,7 @@ Here's a list of public Fediverse services.
 | `gomertronic.com` | No |
 | `gominosensei.org` | No |
 | `gomntu.space` | No |
+| `gomoot.com` | No |
 | `gomzik.xyz` | No |
 | `goncharov.ai` | Yes |
 | `goneaway.blog` | No |
@@ -19607,6 +19611,7 @@ Here's a list of public Fediverse services.
 | `ipolska.pl` | No |
 | `ippainetai.com` | Yes |
 | `ippaitaberukimigasukey.com` | Yes |
+| `iprock.com` | No |
 | `iproprietor.net` | No |
 | `ipsw.uk` | Yes |
 | `ipsyn.net` | No |
@@ -36591,6 +36596,7 @@ Here's a list of public Fediverse services.
 | `robotra.sh` | No |
 | `robotstart.info` | No |
 | `robox.org` | No |
+| `robpegoraro.com` | No |
 | `robsayers.com` | Yes |
 | `robserv.de` | No |
 | `robtarr.net` | No |
@@ -38137,6 +38143,7 @@ Here's a list of public Fediverse services.
 | `secure.kiwi` | No |
 | `securecpu.social` | Yes |
 | `securecryptomining.com` | No |
+| `secureinstyle.blog` | No |
 | `securelab.eu` | No |
 | `securemy.pw` | Yes |
 | `secureprivacy.tech` | No |
@@ -39791,6 +39798,7 @@ Here's a list of public Fediverse services.
 | `sokosoko.info` | No |
 | `sokrates.social` | No |
 | `sol.org.tr` | Yes |
+| `sola.social` | Yes |
 | `solagg.com` | No |
 | `solarbird.net` | No |
 | `solarcene.community` | No |
@@ -40165,6 +40173,7 @@ Here's a list of public Fediverse services.
 | `spider.gay` | No |
 | `spider.ink` | No |
 | `spiderden.net` | Yes |
+| `spidergosplat.ca` | No |
 | `spidersrainbow.com` | Yes |
 | `spideynn.net` | Yes |
 | `spiegelslust.xyz` | Yes |
@@ -48403,6 +48412,7 @@ Here's a list of public Fediverse services.
 | `youhavewrites.social` | No |
 | `youhoo.fr` | No |
 | `youjo.love` | No |
+| `youjo.observer` | No |
 | `youkai.town` | No |
 | `youlog.net` | No |
 | `young-4.com` | Yes |
@@ -49125,8 +49135,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,735 |
-| Normal | 35,342 |
+| Cloudflare | 13,737 |
+| Normal | 35,350 |
 
 
 </details>
