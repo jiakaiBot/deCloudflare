@@ -2995,6 +2995,7 @@ Do not create new issue or we will close it as duplicate.
 | [DevSub2@twitter](https://twitter.com/DevSub2/status/1551589055124893696) | advertise |
 | [dev_Songkran@twitter](https://twitter.com/dev_Songkran/status/1501017169001615361) | advertise |
 | [DewaGilang@twitter](https://twitter.com/DewaGilang/status/1549446977838284800) | advertise |
+| [dewakucode@twitter](https://twitter.com/dewakucode/status/1712470802392891582) | advertise |
 | [dewawidhi13@twitter](https://twitter.com/dewawidhi13/status/1597633098987892736) | advertise |
 | [dEWB11mxf4oTZkZ@twitter](https://twitter.com/dEWB11mxf4oTZkZ/status/1540327273143959552) | advertise |
 | [DewminiSenarath@twitter](https://twitter.com/DewminiSenarath/status/1514969565360693248) | advertise |
@@ -3685,6 +3686,7 @@ Do not create new issue or we will close it as duplicate.
 | [faighenzho@twitter](https://twitter.com/faighenzho/status/1382412226925973506) | advertise |
 | [FaiSal84540206@twitter](https://twitter.com/FaiSal84540206/status/1550443650521243649) | advertise |
 | [FAISAL95962564@twitter](https://twitter.com/FAISAL95962564/status/1704759864986140853) | advertise |
+| [FaisalForh52848@twitter](https://twitter.com/FaisalForh52848/status/1712472108364939470) | advertise |
 | [FaisalHossine@twitter](https://twitter.com/FaisalHossine/status/1386253418218491905) | advertise |
 | [faisal_asif@twitter](https://twitter.com/faisal_asif/status/1518406069764112392) | advertise |
 | [Faisal_gilani1@twitter](https://twitter.com/Faisal_gilani1/status/1639929905260687365) | advertise |
@@ -9621,6 +9623,7 @@ Do not create new issue or we will close it as duplicate.
 | [nvc20222@twitter](https://twitter.com/nvc20222/status/1607766802884354049) | advertise |
 | [Nvccutewa@twitter](https://twitter.com/Nvccutewa/status/1554358972643037184) | advertise |
 | [nvdpoltergeist@twitter](https://twitter.com/nvdpoltergeist/status/1381309376451936256) | advertise |
+| [Nvgoevo@twitter](https://twitter.com/Nvgoevo/status/1712484327588876305) | advertise |
 | [NwayNwa51800153@twitter](https://twitter.com/NwayNwa51800153/status/1394282749293473794) | advertise |
 | [NwayOoLin1@twitter](https://twitter.com/NwayOoLin1/status/1388120316568907778) | advertise |
 | [NwayOoLwin7@twitter](https://twitter.com/NwayOoLwin7/status/1393840621798846472) | advertise |
@@ -12926,6 +12929,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThushariPerer13@twitter](https://twitter.com/ThushariPerer13/status/1559901875839074305) | advertise |
 | [Thuta22160846@twitter](https://twitter.com/Thuta22160846/status/1578769655555948544) | advertise |
 | [ThuTa84554500@twitter](https://twitter.com/ThuTa84554500/status/1390704445143490562) | advertise |
+| [ThuThitSar88@twitter](https://twitter.com/ThuThitSar88/status/1712456356337451314) | advertise |
 | [ThuThuHein11@twitter](https://twitter.com/ThuThuHein11/status/1527190956356751361) | advertise |
 | [ThuThuShinThan2@twitter](https://twitter.com/ThuThuShinThan2/status/1391637182171865092) | advertise |
 | [ThuuHein@twitter](https://twitter.com/ThuuHein/status/1389493743473020929) | advertise |
@@ -13491,6 +13495,7 @@ Do not create new issue or we will close it as duplicate.
 | [TweetsDevin@twitter](https://twitter.com/TweetsDevin/status/1684260888180555784) | advertise |
 | [twenty4marc@twitter](https://twitter.com/twenty4marc/status/1587379588241440769) | advertise |
 | [twerking_e49060@twitter](https://twitter.com/twerking_e49060/status/1657083139943018496) | advertise |
+| [twiertroll705@twitter](https://twitter.com/twiertroll705/status/1712482987428987157) | advertise |
 | [TwirraNG@twitter](https://twitter.com/TwirraNG/status/1403705545916399618) | advertise |
 | [TwiT19571372@twitter](https://twitter.com/TwiT19571372/status/1518068569057087488) | advertise |
 | [twitchagouwa@twitter](https://twitter.com/twitchagouwa/status/1499465119918661638) | advertise |
@@ -13584,6 +13589,7 @@ Do not create new issue or we will close it as duplicate.
 | [Unknown777667@twitter](https://twitter.com/Unknown777667/status/1636754259243941889) | advertise |
 | [Unknown_123127@twitter](https://twitter.com/Unknown_123127/status/1607629192665137153) | advertise |
 | [UnmineableCode@twitter](https://twitter.com/UnmineableCode/status/1510333319317176327) | advertise |
+| [UnnThsHShlevRRH@twitter](https://twitter.com/UnnThsHShlevRRH/status/1712480624249069788) | advertise |
 | [UNo29958011@twitter](https://twitter.com/UNo29958011/status/1399227396000149504) | advertise |
 | [Uno74600825@twitter](https://twitter.com/Uno74600825/status/1393655865744363523) | advertise |
 | [unodang@twitter](https://twitter.com/unodang/status/1388950677255168001) | advertise |
@@ -14149,6 +14155,7 @@ Do not create new issue or we will close it as duplicate.
 | [WinMag2@twitter](https://twitter.com/WinMag2/status/1397760546359836677) | advertise |
 | [WinMinO16120436@twitter](https://twitter.com/WinMinO16120436/status/1396623246057873408) | advertise |
 | [WinMinT86075737@twitter](https://twitter.com/WinMinT86075737/status/1390482320524681218) | advertise |
+| [winmodern@twitter](https://twitter.com/winmodern/status/1712474232276537349) | advertise |
 | [winmyin62322880@twitter](https://twitter.com/winmyin62322880/status/1406070666890289154) | advertise |
 | [WinNayAung1@twitter](https://twitter.com/WinNayAung1/status/1383421509574660102) | advertise |
 | [winnhox@twitter](https://twitter.com/winnhox/status/1386595517321289733) | advertise |
@@ -14821,6 +14828,7 @@ Do not create new issue or we will close it as duplicate.
 | [zoktog@twitter](https://twitter.com/zoktog/status/1501935529188753411) | advertise |
 | [ZomorodiEbi@twitter](https://twitter.com/ZomorodiEbi/status/1585597008437739520) | advertise |
 | [zonezone81@twitter](https://twitter.com/zonezone81/status/1389274249722925058) | advertise |
+| [Zonghong6@twitter](https://twitter.com/Zonghong6/status/1712483883223248960) | advertise |
 | [ZonZon36269349@twitter](https://twitter.com/ZonZon36269349/status/1557675159259353088) | advertise |
 | [zonzouzun@twitter](https://twitter.com/zonzouzun/status/1646498526963310593) | advertise |
 | [zon_paing@twitter](https://twitter.com/zon_paing/status/1391939112874225670) | advertise |
