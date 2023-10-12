@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,572 |
+| com | 7,575 |
 | social | 4,608 |
 | net | 3,823 |
 | org | 2,561 |
-| de | 2,387 |
+| de | 2,388 |
 
 
 - Mastodon, Pleroma, etc
@@ -10127,6 +10127,7 @@ Here's a list of public Fediverse services.
 | `dev-c.at` | Yes |
 | `dev-null.io` | Yes |
 | `dev-null.rocks` | Yes |
+| `dev-qq.de` | No |
 | `dev-wiki.de` | Yes |
 | `dev.estate` | No |
 | `dev.gy` | Yes |
@@ -20311,6 +20312,7 @@ Here's a list of public Fediverse services.
 | `jeffl.es` | Yes |
 | `jefflembeck.com` | Yes |
 | `jeffmcbride.net` | No |
+| `jeffmcneill.com` | Yes |
 | `jeffperry.me` | Yes |
 | `jeffreymiller.org` | No |
 | `jeffscloud.com` | No |
@@ -26772,6 +26774,7 @@ Here's a list of public Fediverse services.
 | `memo-village.online` | Yes |
 | `memo.systems` | Yes |
 | `memomo.me` | Yes |
+| `memorablepress.com` | Yes |
 | `memories.am` | Yes |
 | `memoriski.cc` | Yes |
 | `memoryandthought.me` | No |
@@ -29901,6 +29904,7 @@ Here's a list of public Fediverse services.
 | `neurospicy.club` | No |
 | `neurospicynerds.com` | No |
 | `neustrelitz.nz` | No |
+| `neutronbytes.com` | No |
 | `neuwirth.priv.at` | No |
 | `neuzerling.com` | No |
 | `never.bid` | Yes |
@@ -49112,8 +49116,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,732 |
-| Normal | 35,332 |
+| Cloudflare | 13,734 |
+| Normal | 35,334 |
 
 
 </details>
