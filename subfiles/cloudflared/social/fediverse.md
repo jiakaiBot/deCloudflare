@@ -533,6 +533,7 @@ Here's a list of public Fediverse services.
 | `44944.eu` | No |
 | `44con.com` | No |
 | `451.place` | No |
+| `4587-aya-0p.work` | Yes |
 | `45bis.cc` | Yes |
 | `45sukey.net` | Yes |
 | `45wa.jp` | Yes |
@@ -46889,6 +46890,7 @@ Here's a list of public Fediverse services.
 | `widerweb.org` | No |
 | `wideweb.me` | No |
 | `widget.uk` | No |
+| `wiebenuxes.blog` | No |
 | `wiedenhoeft.net` | Yes |
 | `wiegandtech.net` | Yes |
 | `wiegehts.cloud` | No |
@@ -49004,8 +49006,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,707 |
-| Normal | 35,249 |
+| Cloudflare | 13,708 |
+| Normal | 35,250 |
 
 
 </details>
