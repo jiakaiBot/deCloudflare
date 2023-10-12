@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,578 |
+| com | 7,579 |
 | social | 4,608 |
 | net | 3,825 |
-| org | 2,561 |
+| org | 2,563 |
 | de | 2,390 |
 
 
@@ -9210,6 +9210,7 @@ Here's a list of public Fediverse services.
 | `daiko.fr` | No |
 | `daily.surf` | No |
 | `dailysouthafrican.co.za` | No |
+| `dailytechnewsshow.com` | Yes |
 | `dailywebthing.com` | No |
 | `dain.moe` | Yes |
 | `dair-community.social` | Yes |
@@ -18386,6 +18387,7 @@ Here's a list of public Fediverse services.
 | `howse.social` | Yes |
 | `howseven.social` | No |
 | `howtheheck.co` | No |
+| `hoxsie.org` | Yes |
 | `hoyer.xyz` | No |
 | `hoyle.me.uk` | Yes |
 | `hoyle.social` | Yes |
@@ -37478,6 +37480,7 @@ Here's a list of public Fediverse services.
 | `sankara.me` | Yes |
 | `sanlive.com` | No |
 | `sanma.men` | Yes |
+| `sanmathi.org` | No |
 | `sanmin.jp.net` | No |
 | `sanpo-an.site` | No |
 | `sanrizuka-struggle.com` | Yes |
@@ -49125,8 +49128,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,735 |
-| Normal | 35,342 |
+| Cloudflare | 13,737 |
+| Normal | 35,343 |
 
 
 </details>
