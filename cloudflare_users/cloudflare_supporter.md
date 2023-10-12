@@ -2566,6 +2566,7 @@ Do not create new issue or we will close it as duplicate.
 | [cordon272@twitter](https://twitter.com/cordon272/status/1587408631489859584) | advertise |
 | [Corona00039226@twitter](https://twitter.com/Corona00039226/status/1496506233670410242) | advertise |
 | [Corona3331@twitter](https://twitter.com/Corona3331/status/1394599782153342976) | advertise |
+| [CoronaTechnical@twitter](https://twitter.com/CoronaTechnical/status/1712320626914971660) | advertise |
 | [corporatethief@twitter](https://twitter.com/corporatethief/status/1534847600037355522) | advertise |
 | [corpsewify@twitter](https://twitter.com/corpsewify/status/1485684820600844288) | advertise |
 | [CorvKaldwin@twitter](https://twitter.com/CorvKaldwin/status/1534162985375395840) | advertise |
