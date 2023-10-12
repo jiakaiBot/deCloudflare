@@ -120,7 +120,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hostux.net | No |
 | huque.com | No |
 | ibakerserver.pt | Yes |
-| ihatemy.live | Yes |
 | iij.jp | Yes |
 | imbuffering.com | Yes |
 | in-berlin.de | No |
@@ -206,7 +205,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rayanbab.com | Yes |
 | rayneau.fr | No |
 | reckoningslug.name | Yes |
-| repressoh.it | Yes |
 | restena.lu | No |
 | rethinkdns.com | Yes |
 | rezhajul.io | No |
@@ -225,7 +223,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | shuting.idv.tw | Yes |
 | silen.org | Yes |
 | silentlybren.com | Yes |
-| siry.de | No |
 | sitdns.com | No |
 | skrep.eu | No |
 | slinkyman.net | Yes |
@@ -278,8 +275,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 123 |
-| Normal | 136 |
+| Cloudflare | 121 |
+| Normal | 135 |
 
 
-### 47.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
