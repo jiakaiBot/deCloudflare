@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,542 |
+| com | 7,545 |
 | social | 4,608 |
 | net | 3,817 |
-| org | 2,557 |
-| de | 2,381 |
+| org | 2,558 |
+| de | 2,384 |
 
 
 - Mastodon, Pleroma, etc
@@ -1040,6 +1040,7 @@ Here's a list of public Fediverse services.
 | `acgdoge.net` | No |
 | `acgn.ca` | Yes |
 | `ache.one` | No |
+| `achimmeurer.com` | No |
 | `achrilock.social` | No |
 | `achterstrasse.net` | No |
 | `acid-trip.com` | No |
@@ -5762,6 +5763,7 @@ Here's a list of public Fediverse services.
 | `brugopen.nl` | No |
 | `bruh.social` | Yes |
 | `bruis.net` | No |
+| `bruisedfoodclub.org` | No |
 | `bruitbruit.com` | No |
 | `bruixoles.cat` | No |
 | `bruk.earth` | Yes |
@@ -6615,6 +6617,7 @@ Here's a list of public Fediverse services.
 | `cbctech.app` | No |
 | `cbeck.dev` | No |
 | `cbfish.es` | No |
+| `cbg-dueren.de` | No |
 | `cbinary.sk` | Yes |
 | `cbm.xyz` | Yes |
 | `cbrpnk.dev` | No |
@@ -6715,6 +6718,7 @@ Here's a list of public Fediverse services.
 | `ceox.dev` | Yes |
 | `cephalopod.space` | No |
 | `cepharum.social` | No |
+| `cepremap.fr` | No |
 | `ceramicadelpez.edu.uy` | No |
 | `cerb.monster` | No |
 | `cerb.social` | No |
@@ -8071,6 +8075,7 @@ Here's a list of public Fediverse services.
 | `conorab.com` | No |
 | `conquerworld.fr` | No |
 | `conquestuniverse.com` | No |
+| `conquista.blog.br` | No |
 | `conr.ca` | Yes |
 | `conrad.cafe` | Yes |
 | `conradkramer.com` | No |
@@ -15801,6 +15806,7 @@ Here's a list of public Fediverse services.
 | `gesichtsbu.ch` | Yes |
 | `gespenst-jaeger.net` | Yes |
 | `gesri.xyz` | No |
+| `gesslar.dev` | No |
 | `gestaltit.com` | Yes |
 | `gestaltzerfall.net` | No |
 | `gesteves.com` | No |
@@ -26290,6 +26296,7 @@ Here's a list of public Fediverse services.
 | `mattlangford.com` | Yes |
 | `mattlearnspiano.uk` | No |
 | `mattloomis.com` | No |
+| `mattmaber.com` | No |
 | `matto.nl` | No |
 | `mattone.net` | No |
 | `mattpedals.bike` | No |
@@ -30052,6 +30059,7 @@ Here's a list of public Fediverse services.
 | `nicomedkey.cc` | Yes |
 | `niconicorose.com` | No |
 | `nicoplaysthings.live` | Yes |
+| `nicorola.de` | No |
 | `nicosan.guru` | Yes |
 | `nicra.fr` | No |
 | `nicuverse.org` | No |
@@ -33049,6 +33057,7 @@ Here's a list of public Fediverse services.
 | `peterdebelak.com` | No |
 | `peterdutoit.com` | No |
 | `peterdwall.com` | Yes |
+| `petergasston.co.uk` | No |
 | `petergoes.nl` | No |
 | `peterjanes.ca` | No |
 | `peterlehmann.xyz` | No |
@@ -35710,6 +35719,7 @@ Here's a list of public Fediverse services.
 | `reason.rocks` | No |
 | `reasonable.world` | No |
 | `reasonably.social` | No |
+| `reasoning.page` | Yes |
 | `reaves.dev` | No |
 | `reax.work` | Yes |
 | `reb.social` | No |
@@ -39465,6 +39475,7 @@ Here's a list of public Fediverse services.
 | `snmsoc.org` | No |
 | `snoepr.nl` | No |
 | `snokrash.com` | No |
+| `snookerpro.de` | No |
 | `snoot.club` | No |
 | `snoot.com` | No |
 | `snoot.tube` | No |
@@ -46590,6 +46601,7 @@ Here's a list of public Fediverse services.
 | `webmages.com` | No |
 | `webmapping.social` | No |
 | `webmdma.live` | Yes |
+| `webmink.com` | No |
 | `webmontag-kiel.de` | No |
 | `webopt.eu` | Yes |
 | `webos.direct` | No |
@@ -49031,8 +49043,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,719 |
-| Normal | 35,264 |
+| Cloudflare | 13,720 |
+| Normal | 35,275 |
 
 
 </details>
