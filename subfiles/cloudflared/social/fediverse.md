@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,569 |
+| com | 7,572 |
 | social | 4,608 |
 | net | 3,823 |
 | org | 2,561 |
@@ -6412,6 +6412,7 @@ Here's a list of public Fediverse services.
 | `carma.red` | No |
 | `carman.social` | No |
 | `carmantini.com` | No |
+| `carmelitequotes.blog` | No |
 | `carmo.io` | Yes |
 | `carmody.me` | Yes |
 | `carmody.social` | No |
@@ -7337,6 +7338,7 @@ Here's a list of public Fediverse services.
 | `cinnamond.social` | No |
 | `cintaprogramming.com` | Yes |
 | `cinvestav.mx` | No |
+| `ciordia.info` | No |
 | `cipay.ca` | No |
 | `cipherbliss.com` | No |
 | `cipherdogs.net` | No |
@@ -15660,6 +15662,7 @@ Here's a list of public Fediverse services.
 | `geekstop.se` | No |
 | `geekstream.org` | No |
 | `geektox.fun` | No |
+| `geekupdated.com` | No |
 | `geekvc.jp` | No |
 | `geekwisdom.org` | No |
 | `geeky-gadgets.com` | Yes |
@@ -26234,6 +26237,7 @@ Here's a list of public Fediverse services.
 | `mathematicon.com` | No |
 | `mathernalproductions.com` | No |
 | `matheson.it` | No |
+| `mathewingram.blog` | No |
 | `mathewson.social` | Yes |
 | `mathieufamily.ovh` | No |
 | `mathieunicolas.net` | No |
@@ -27319,6 +27323,7 @@ Here's a list of public Fediverse services.
 | `minbash.de` | Yes |
 | `mince.network` | No |
 | `mince.place` | No |
+| `minceandskirlie.com` | No |
 | `mind-drop.jp` | No |
 | `mindblast.space` | Yes |
 | `mindcast.fr` | No |
@@ -35724,6 +35729,7 @@ Here's a list of public Fediverse services.
 | `re-medium.com` | No |
 | `react.town` | No |
 | `read-read.net` | No |
+| `readerupdated.com` | No |
 | `readit.buzz` | Yes |
 | `readme.is` | Yes |
 | `readthefinemanual.net` | No |
@@ -40342,6 +40348,7 @@ Here's a list of public Fediverse services.
 | `squidnet.net` | No |
 | `squiggly.club` | No |
 | `squirefamily.uk` | No |
+| `squirrel.photography` | No |
 | `squirrel.pub` | No |
 | `squirrelco.social` | No |
 | `squirrelmob.com` | No |
@@ -44716,6 +44723,7 @@ Here's a list of public Fediverse services.
 | `tylernguyen.social` | Yes |
 | `tylinux.com` | Yes |
 | `tylko.fans` | No |
+| `tylorsweeney.blog` | No |
 | `tylxr.com` | Yes |
 | `tymch.uk` | No |
 | `tymoon.eu` | Yes |
@@ -49105,7 +49113,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,732 |
-| Normal | 35,324 |
+| Normal | 35,332 |
 
 
 </details>
