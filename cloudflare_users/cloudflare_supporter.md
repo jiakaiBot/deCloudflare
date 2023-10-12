@@ -10304,6 +10304,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pl47926009@twitter](https://twitter.com/Pl47926009/status/1395366611989655553) | advertise |
 | [plaincodejp@twitter](https://twitter.com/plaincodejp/status/1665873296393371649) | advertise |
 | [Plan43611745@twitter](https://twitter.com/Plan43611745/status/1399656503079018497) | advertise |
+| [planetMN@twitter](https://twitter.com/planetMN/status/1709028438307418125) | advertise |
 | [Plang04546316@twitter](https://twitter.com/Plang04546316/status/1536426694986420225) | advertise |
 | [planxnx@twitter](https://twitter.com/planxnx/status/1595879492710719488) | advertise |
 | [playwithg91@twitter](https://twitter.com/playwithg91/status/1550100029779480578) | advertise |
