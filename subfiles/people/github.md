@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Workers Issues](https://github.com/hinoshiba/news/issues/4688)
+- [CloudFlare Cloudflare Workers Issues](https://github.com/SecOpsNews/news/issues/19993)
+- [attachments and images not loading after update to 1.8.103](https://github.com/freescout-helpdesk/freescout/issues/3453)
 - [Some trackers from trackerdb are still being shown as unidentified](https://github.com/ghostery/ghostery-extension/issues/1332)
 - [Error when editing/creating domains](https://github.com/hiddify/Hiddify-Server/issues/3319)
 - [Lỗi iframe ở cửa sổ output không load được](https://github.com/sveltevietnam/learn.svelte.dev/issues/51)
