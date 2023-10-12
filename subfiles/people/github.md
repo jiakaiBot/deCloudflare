@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Lỗi iframe ở cửa sổ output không load được](https://github.com/sveltevietnam/learn.svelte.dev/issues/51)
 - [Panel is not reading the server status after 10.10.2023](https://github.com/pterodactyl/panel/issues/4888)
 - [No style on some page](https://github.com/zaproxy/zaproxy/issues/8116)
 - [Looks like server is down](https://github.com/keikaavousi/fake-store-api/issues/114)
