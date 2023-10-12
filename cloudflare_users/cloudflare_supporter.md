@@ -12671,6 +12671,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thegamerprogra3@twitter](https://twitter.com/Thegamerprogra3/status/1545423522876772352) | advertise |
 | [theGazetteNGR@twitter](https://twitter.com/theGazetteNGR/status/1596440560566693891) | advertise |
 | [TheGodOfEvil23@twitter](https://twitter.com/TheGodOfEvil23/status/1393882433750278151) | advertise |
+| [TheGulshanKumar@twitter](https://twitter.com/TheGulshanKumar/status/1712398114777403862) | advertise |
 | [THEGURLPASSION@twitter](https://twitter.com/THEGURLPASSION/status/1506792367872958471) | advertise |
 | [TheGuy08825790@twitter](https://twitter.com/TheGuy08825790/status/1570056189081432064) | advertise |
 | [theiadilvirgo@twitter](https://twitter.com/theiadilvirgo/status/1390549636373307394) | advertise |
