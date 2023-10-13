@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,584 |
 | social | 4,609 |
 | net | 3,825 |
-| org | 2,563 |
+| org | 2,561 |
 | de | 2,390 |
 
 
@@ -18391,7 +18391,6 @@ Here's a list of public Fediverse services.
 | `howse.social` | Yes |
 | `howseven.social` | No |
 | `howtheheck.co` | No |
-| `hoxsie.org` | Yes |
 | `hoyer.xyz` | No |
 | `hoyle.me.uk` | Yes |
 | `hoyle.social` | Yes |
@@ -37488,7 +37487,6 @@ Here's a list of public Fediverse services.
 | `sankara.me` | Yes |
 | `sanlive.com` | No |
 | `sanma.men` | Yes |
-| `sanmathi.org` | No |
 | `sanmin.jp.net` | No |
 | `sanpo-an.site` | No |
 | `sanrizuka-struggle.com` | Yes |
@@ -49141,8 +49139,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,737 |
-| Normal | 35,356 |
+| Cloudflare | 13,736 |
+| Normal | 35,355 |
 
 
 </details>
