@@ -3203,6 +3203,7 @@ Here's a list of public Fediverse services.
 | `atikoro.net` | No |
 | `atilla.im` | No |
 | `atiltedtree.dev` | No |
+| `ating.press` | No |
 | `atis.social` | Yes |
 | `atkinson.life` | Yes |
 | `atla.digital` | No |
@@ -7901,7 +7902,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -32372,6 +32373,7 @@ Here's a list of public Fediverse services.
 | `oyasai-jct.net` | No |
 | `oyashirosama.cf` | No |
 | `oyashirosama.tk` | No |
+| `oyasumi.moe` | No |
 | `oyasumi.ski` | Yes |
 | `oyasumi.space` | No |
 | `oyd.app` | No |
@@ -49135,8 +49137,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,737 |
-| Normal | 35,350 |
+| Cloudflare | 13,736 |
+| Normal | 35,353 |
 
 
 </details>
