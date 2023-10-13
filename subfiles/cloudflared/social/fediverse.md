@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,588 |
+| com | 7,592 |
 | social | 4,609 |
 | net | 3,827 |
 | org | 2,563 |
@@ -4603,6 +4603,7 @@ Here's a list of public Fediverse services.
 | `billy-brown.net` | No |
 | `billyb.org` | No |
 | `billybradley.uk` | No |
+| `billycoy.com` | Yes |
 | `billyiii.me` | No |
 | `billys.mom` | Yes |
 | `bim.boats` | Yes |
@@ -4886,6 +4887,7 @@ Here's a list of public Fediverse services.
 | `blackspace.social` | No |
 | `blackstar.cafe` | No |
 | `blacksun.social` | Yes |
+| `blacktelescope.co.uk` | No |
 | `blacktre.es` | No |
 | `blacktwitter.io` | No |
 | `blackviewsdiffer.fyi` | No |
@@ -5656,6 +5658,7 @@ Here's a list of public Fediverse services.
 | `breydon.id.au` | No |
 | `brezo.blog` | No |
 | `brfint.com` | No |
+| `brianchappell.com` | Yes |
 | `brianhaines.com` | No |
 | `brianjon.es` | No |
 | `briankeesbury.com` | No |
@@ -20422,6 +20425,7 @@ Here's a list of public Fediverse services.
 | `jethro.be` | No |
 | `jetnet.co.uk` | No |
 | `jetnet.social` | No |
+| `jetpack.com` | No |
 | `jetspire.com` | No |
 | `jetstream.watch` | Yes |
 | `jetzou.com` | No |
@@ -20604,6 +20608,7 @@ Here's a list of public Fediverse services.
 | `jo3qma.com` | Yes |
 | `joachimweber.name` | No |
 | `joanmastodon.blog` | No |
+| `joannetheisen.com` | No |
 | `joaocosta.eu` | No |
 | `joaoleitao.org` | Yes |
 | `joat.me` | No |
@@ -49152,8 +49157,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,741 |
-| Normal | 35,363 |
+| Cloudflare | 13,743 |
+| Normal | 35,366 |
 
 
 </details>
