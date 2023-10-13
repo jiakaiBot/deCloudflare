@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [渠道设置cloudflare AI Gateway代理地址出现的问题](https://github.com/songquanpeng/one-api/issues/598)
 - [4.x: Exception thrown in execute() method of a QueueJob hangs the job](https://github.com/craftcms/cms/issues/13820)
 - [Live Video Delay. Network Latency?](https://github.com/Guardis-AI/gai-react-frontend/issues/3)
 - [flutter-web: upgrade from pdf.js/2.4.456 to latest pdf.js/3.x.xxx](https://github.com/syncfusion/flutter-widgets/issues/1460)
