@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,607 |
+| com | 7,608 |
 | social | 4,609 |
 | net | 3,830 |
 | org | 2,570 |
@@ -17084,6 +17084,7 @@ Here's a list of public Fediverse services.
 | `hacklab.science` | No |
 | `hackliberty.org` | No |
 | `hacklog.de` | Yes |
+| `hackmakedo.com` | Yes |
 | `hacknroad.com` | No |
 | `hackny.social` | No |
 | `hackodon.com` | No |
@@ -39811,6 +39812,7 @@ Here's a list of public Fediverse services.
 | `socnode.social` | No |
 | `socotrine.com` | No |
 | `socozy.casa` | Yes |
+| `socpeertube.ru` | Yes |
 | `socs.social` | No |
 | `soda-net.com` | Yes |
 | `sodacube.dev` | Yes |
@@ -49203,7 +49205,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,755 |
+| Cloudflare | 13,757 |
 | Normal | 35,400 |
 
 
