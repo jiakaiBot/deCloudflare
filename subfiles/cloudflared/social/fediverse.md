@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,608 |
-| social | 4,609 |
+| social | 4,610 |
 | net | 3,830 |
 | org | 2,570 |
-| de | 2,398 |
+| de | 2,400 |
 
 
 - Mastodon, Pleroma, etc
@@ -4952,6 +4952,7 @@ Here's a list of public Fediverse services.
 | `blatant-lizardry.moe` | No |
 | `blather.us` | No |
 | `blatherskite.eu` | Yes |
+| `blauerhimmel.eu` | No |
 | `blauerhunger.de` | No |
 | `blaulicht.social` | No |
 | `blaw.social` | No |
@@ -17968,6 +17969,7 @@ Here's a list of public Fediverse services.
 | `hingst.org` | No |
 | `hinnerk-weiler.com` | No |
 | `hinomarudon.com` | No |
+| `hintenbeimbier.de` | No |
 | `hinter.bayern` | No |
 | `hintersphere.com` | No |
 | `hintz.social` | Yes |
@@ -23085,6 +23087,7 @@ Here's a list of public Fediverse services.
 | `lanuevebastarda.es` | No |
 | `laoda.ge` | Yes |
 | `laoda.life` | Yes |
+| `laohu.de` | No |
 | `lap.social` | Yes |
 | `lapidak.is` | Yes |
 | `lapineige.fr` | No |
@@ -25401,6 +25404,7 @@ Here's a list of public Fediverse services.
 | `manjaruntu.net.eu.org` | No |
 | `manji.dev` | Yes |
 | `manley.org` | No |
+| `mann.blog` | No |
 | `mannennet.eu` | No |
 | `mannheim.social` | No |
 | `manninet.de` | No |
@@ -28838,6 +28842,7 @@ Here's a list of public Fediverse services.
 | `musicworld.social` | No |
 | `musikkapellebuxheim.de` | No |
 | `musing.studio` | No |
+| `musings.ch` | No |
 | `musingsofanaspie.com` | No |
 | `musingsofaswitch.com` | No |
 | `musiq.fan` | Yes |
@@ -34742,6 +34747,7 @@ Here's a list of public Fediverse services.
 | `puage.org` | Yes |
 | `pub.pm` | Yes |
 | `pub.solar` | No |
+| `pubble.social` | Yes |
 | `pubby.social` | Yes |
 | `pube.tk` | No |
 | `pubeurope.com` | No |
@@ -40798,6 +40804,7 @@ Here's a list of public Fediverse services.
 | `stiniog.social` | No |
 | `stinkt.online` | No |
 | `stinkytoot.social` | Yes |
+| `stiripeweb.xyz` | No |
 | `stix.top` | No |
 | `stkr.dev` | Yes |
 | `stkrdn.xyz` | No |
@@ -44451,6 +44458,7 @@ Here's a list of public Fediverse services.
 | `tsuda.dev` | No |
 | `tsueri.cloud` | No |
 | `tsujigoya.net` | No |
+| `tsukasa.io` | No |
 | `tsukeru.moe` | Yes |
 | `tsuki.cat` | Yes |
 | `tsuki.club` | No |
@@ -49205,8 +49213,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,757 |
-| Normal | 35,400 |
+| Cloudflare | 13,758 |
+| Normal | 35,407 |
 
 
 </details>
