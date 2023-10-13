@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,606 |
+| com | 7,607 |
 | social | 4,609 |
 | net | 3,830 |
-| org | 2,569 |
-| de | 2,397 |
+| org | 2,570 |
+| de | 2,398 |
 
 
 - Mastodon, Pleroma, etc
@@ -10712,6 +10712,7 @@ Here's a list of public Fediverse services.
 | `dmrty.fr` | No |
 | `dmrty.net` | No |
 | `dms100.net` | Yes |
+| `dmtales.com` | No |
 | `dmv.community` | No |
 | `dmv.pub` | No |
 | `dmv.social` | No |
@@ -14743,6 +14744,7 @@ Here's a list of public Fediverse services.
 | `freinetz.ch` | No |
 | `freiraumzittau.de` | No |
 | `freistaat-thueringen.social` | No |
+| `freitagnacheins.de` | No |
 | `freitas.net` | No |
 | `freizeitparks.social` | No |
 | `freja.zone` | No |
@@ -21820,6 +21822,7 @@ Here's a list of public Fediverse services.
 | `khronosk.xyz` | Yes |
 | `khsmty.com` | Yes |
 | `khuluma.de` | Yes |
+| `khunkai.org` | No |
 | `khushrajrathod.com` | Yes |
 | `ki6bjv.social` | Yes |
 | `kianga.eu` | Yes |
@@ -49201,7 +49204,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,755 |
-| Normal | 35,397 |
+| Normal | 35,400 |
 
 
 </details>
