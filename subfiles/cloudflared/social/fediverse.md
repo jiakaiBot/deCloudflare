@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,608 |
+| com | 7,609 |
 | social | 4,610 |
 | net | 3,830 |
 | org | 2,570 |
@@ -7918,7 +7918,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9604,6 +9604,7 @@ Here's a list of public Fediverse services.
 | `davidriederer.com` | No |
 | `davidrudolf.nl` | No |
 | `davids.social` | Yes |
+| `davidseah.com` | Yes |
 | `davidsimon.com` | Yes |
 | `davidwolfpaw.com` | Yes |
 | `davidzeiger.net` | Yes |
@@ -36048,6 +36049,7 @@ Here's a list of public Fediverse services.
 | `reisetagebuch-podcast.de` | No |
 | `reisig.world` | No |
 | `reit-it.de` | Yes |
+| `reito.site` | No |
 | `reitrace.ga` | No |
 | `reiuji.chat` | Yes |
 | `rejas.se` | No |
@@ -37763,7 +37765,7 @@ Here's a list of public Fediverse services.
 | `scc.wtf` | Yes |
 | `sccn.club` | Yes |
 | `scd31.com` | No |
-| `scdg.net` | No |
+| `scdg.net` | Yes |
 | `scdmx.de` | Yes |
 | `scds.ca` | No |
 | `scenecore.net` | No |
@@ -44954,6 +44956,7 @@ Here's a list of public Fediverse services.
 | `ufoi.info` | No |
 | `ufoo9k.space` | Yes |
 | `uforeport.de` | No |
+| `ufotofu.cc` | Yes |
 | `ug-mayen.de` | No |
 | `uggs.io` | No |
 | `uglymachine.social` | No |
@@ -49213,8 +49216,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,758 |
-| Normal | 35,407 |
+| Cloudflare | 13,762 |
+| Normal | 35,406 |
 
 
 </details>
