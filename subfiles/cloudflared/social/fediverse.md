@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,588 |
 | social | 4,609 |
-| net | 3,826 |
+| net | 3,827 |
 | org | 2,563 |
 | de | 2,390 |
 
@@ -2907,6 +2907,7 @@ Here's a list of public Fediverse services.
 | `artificial-owl.com` | No |
 | `artificial.social` | Yes |
 | `artificialgravity.dev` | No |
+| `artificialworlds.net` | No |
 | `artigot.dev` | No |
 | `artikel91.eu` | No |
 | `artimec.social` | No |
@@ -49150,7 +49151,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,741 |
-| Normal | 35,360 |
+| Normal | 35,361 |
 
 
 </details>
