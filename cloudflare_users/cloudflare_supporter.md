@@ -12151,6 +12151,7 @@ Do not create new issue or we will close it as duplicate.
 | [SUday49665279@twitter](https://twitter.com/SUday49665279/status/1386583498014683137) | advertise |
 | [sudej@twitter](https://twitter.com/sudej/status/1681339983108673536) | advertise |
 | [SUDHEESHBABUB1@twitter](https://twitter.com/SUDHEESHBABUB1/status/1388822341925363715) | advertise |
+| [sudoalx@twitter](https://twitter.com/sudoalx/status/1712930459196301396) | advertise |
 | [SuehilValadez33@twitter](https://twitter.com/SuehilValadez33/status/1648778551775076353) | advertise |
 | [SueSi31355105@twitter](https://twitter.com/SueSi31355105/status/1393366883185750019) | advertise |
 | [SueSuarch@twitter](https://twitter.com/SueSuarch/status/1392509364955648007) | advertise |
