@@ -230,6 +230,7 @@ Here's a list of public Fediverse services.
 | `1242.com` | Yes |
 | `127b.nl` | No |
 | `128.ca` | Yes |
+| `128bit.ca` | No |
 | `128k.blog` | No |
 | `128k.site` | No |
 | `1296000.xyz` | No |
@@ -21709,7 +21710,7 @@ Here's a list of public Fediverse services.
 | `kernel32.de` | No |
 | `kernelpage.com` | No |
 | `kernelpoppers.org` | Yes |
-| `kerneltrick.org` | No |
+| `kerneltrick.org` | Yes |
 | `kernkraft.social` | No |
 | `kernvillecowork.social` | No |
 | `kerosyn.link` | No |
@@ -49171,6 +49172,7 @@ Here's a list of public Fediverse services.
 | `zwanenburg.info` | No |
 | `zwei.net` | Yes |
 | `zweibruecken.social` | No |
+| `zweifel.cloud` | Yes |
 | `zweitekassabitte.jetzt` | No |
 | `zwerfcat.world` | No |
 | `zwerglein-cloud.eu` | No |
@@ -49216,7 +49218,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,762 |
+| Cloudflare | 13,764 |
 | Normal | 35,406 |
 
 
