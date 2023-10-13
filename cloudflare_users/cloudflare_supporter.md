@@ -9724,6 +9724,7 @@ Do not create new issue or we will close it as duplicate.
 | [ofwje@twitter](https://twitter.com/ofwje/status/1599145219559108608) | advertise |
 | [of_544@twitter](https://twitter.com/of_544/status/1395086316665118720) | advertise |
 | [of_yomi@twitter](https://twitter.com/of_yomi/status/1529872490008170498) | advertise |
+| [OgbonnaSylvan@twitter](https://twitter.com/OgbonnaSylvan/status/1712796582163149190) | advertise |
 | [ogeealllo@twitter](https://twitter.com/ogeealllo/status/1669285473435435010) | advertise |
 | [Oggy57638380@twitter](https://twitter.com/Oggy57638380/status/1565005988591448064) | advertise |
 | [OGLilith@twitter](https://twitter.com/OGLilith/status/1665858534800789505) | advertise |
