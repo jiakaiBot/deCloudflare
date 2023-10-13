@@ -1968,6 +1968,7 @@ Do not create new issue or we will close it as duplicate.
 | [boogyi420@twitter](https://twitter.com/boogyi420/status/1638130848691023873) | advertise |
 | [bookingraza@twitter](https://twitter.com/bookingraza/status/1379835928525467650) | advertise |
 | [BOOMBound@twitter](https://twitter.com/BOOMBound/status/1424169801451118594) | advertise |
+| [BoomerangBs@twitter](https://twitter.com/BoomerangBs/status/1712940497839206586) | advertise |
 | [boomer_friendly@twitter](https://twitter.com/boomer_friendly/status/1632687184254758913) | advertise |
 | [BoonBoo54358409@twitter](https://twitter.com/BoonBoo54358409/status/1543521813594259457) | advertise |
 | [boonboonko@twitter](https://twitter.com/boonboonko/status/1405526689757626382) | advertise |
