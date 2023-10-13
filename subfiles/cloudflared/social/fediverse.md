@@ -6181,6 +6181,7 @@ Here's a list of public Fediverse services.
 | `caffeinated.computer` | No |
 | `caffeinated.social` | Yes |
 | `caffeinatedfriends.club` | No |
+| `caffeinatedpunctuation.co.uk` | No |
 | `caffeination.space` | Yes |
 | `caffeinator.net` | No |
 | `caffeineandfox.es` | No |
@@ -39624,6 +39625,7 @@ Here's a list of public Fediverse services.
 | `soap.coffee` | No |
 | `soapbox.network` | No |
 | `soapnote.org` | Yes |
+| `soatok.blog` | No |
 | `sobac.com` | No |
 | `sobe.world` | No |
 | `sobes.co.uk` | No |
@@ -49151,7 +49153,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,741 |
-| Normal | 35,361 |
+| Normal | 35,363 |
 
 
 </details>
