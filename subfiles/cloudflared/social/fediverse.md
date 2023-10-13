@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,584 |
+| com | 7,588 |
 | social | 4,609 |
-| net | 3,825 |
+| net | 3,826 |
 | org | 2,563 |
 | de | 2,390 |
 
@@ -4916,6 +4916,7 @@ Here's a list of public Fediverse services.
 | `blahut.tech` | Yes |
 | `blairhq.com` | Yes |
 | `blaise.ca` | No |
+| `blaisehartley.com` | No |
 | `blaisemcrowly.com` | No |
 | `blake-hofer.net` | No |
 | `blake.earth` | Yes |
@@ -10742,6 +10743,7 @@ Here's a list of public Fediverse services.
 | `dnzm.nl` | No |
 | `do-berghofen.de` | No |
 | `do-crimes-be.gay` | No |
+| `doamm.com` | Yes |
 | `doan.me` | Yes |
 | `doany.io` | Yes |
 | `dobbs.town` | No |
@@ -12788,6 +12790,7 @@ Here's a list of public Fediverse services.
 | `excession.llc` | Yes |
 | `excessive.energy` | No |
 | `exclaimindustries.net` | No |
+| `excusesandhalftruths.com` | No |
 | `exdc.net` | No |
 | `exdeck.site` | Yes |
 | `execbase.net` | No |
@@ -16385,6 +16388,7 @@ Here's a list of public Fediverse services.
 | `goodevilgenius.org` | Yes |
 | `goodfeeds.net` | No |
 | `goodhouse.fun` | No |
+| `goodking.ca` | Yes |
 | `goodlett.social` | No |
 | `goodluckgabe.life` | No |
 | `goodman-wilson.com` | Yes |
@@ -39373,6 +39377,7 @@ Here's a list of public Fediverse services.
 | `sly.dev` | Yes |
 | `slyversoft.fr` | No |
 | `sm-mstdn.com` | No |
+| `smadin.net` | No |
 | `smaier.net` | Yes |
 | `small-home.group` | Yes |
 | `small-pieces.au` | No |
@@ -39431,6 +39436,7 @@ Here's a list of public Fediverse services.
 | `smitenet.com` | No |
 | `smith.berlin` | No |
 | `smith.camp` | No |
+| `smithcompound.blog` | No |
 | `smither.org` | No |
 | `smithfam.info` | No |
 | `smithtodon.org` | No |
@@ -40944,6 +40950,7 @@ Here's a list of public Fediverse services.
 | `stuartbutterworth.co.uk` | No |
 | `stuartgeiger.com` | Yes |
 | `stuartlinden.xyz` | No |
+| `stuartm.com` | Yes |
 | `stuartm.nz` | No |
 | `stuartoram.com` | No |
 | `stuartpb.com` | Yes |
@@ -42198,6 +42205,7 @@ Here's a list of public Fediverse services.
 | `teknoids.net` | No |
 | `teknologiumum.com` | Yes |
 | `teknorota.com` | Yes |
+| `teknostatik.co.uk` | No |
 | `tekolote.co` | Yes |
 | `tekton.network` | No |
 | `tela.moe` | Yes |
@@ -49141,8 +49149,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,738 |
-| Normal | 35,355 |
+| Cloudflare | 13,741 |
+| Normal | 35,360 |
 
 
 </details>
