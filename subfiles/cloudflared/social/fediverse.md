@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,624 |
+| com | 7,625 |
 | social | 4,611 |
 | net | 3,835 |
 | org | 2,575 |
@@ -4515,6 +4515,7 @@ Here's a list of public Fediverse services.
 | `bibly.com` | No |
 | `biborg.com` | No |
 | `biboumail.fr` | No |
+| `bicatperson.com` | Yes |
 | `bichomen.com` | No |
 | `bicyclemstdn.jp` | No |
 | `bicycleroll.com` | No |
@@ -49263,7 +49264,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,777 |
+| Cloudflare | 13,778 |
 | Normal | 35,438 |
 
 
