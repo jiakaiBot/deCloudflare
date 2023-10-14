@@ -1148,6 +1148,7 @@ Do not create new issue or we will close it as duplicate.
 | [asa64_@twitter](https://twitter.com/asa64_/status/1565298492024791043) | advertise |
 | [AsadAmer13@twitter](https://twitter.com/AsadAmer13/status/1396798484091707396) | advertise |
 | [Asadshahbaz1993@twitter](https://twitter.com/Asadshahbaz1993/status/1380767370411704320) | advertise |
+| [asady_sirws@twitter](https://twitter.com/asady_sirws/status/1713252678321795270) | advertise |
 | [AsakzaiNaser@twitter](https://twitter.com/AsakzaiNaser/status/1386360634414178308) | advertise |
 | [AsbjrnBach1@twitter](https://twitter.com/AsbjrnBach1/status/1679903980975976448) | advertise |
 | [asdasd37687097@twitter](https://twitter.com/asdasd37687097/status/1577761010768875522) | advertise |
@@ -12233,6 +12234,7 @@ Do not create new issue or we will close it as duplicate.
 | [surasithm00@twitter](https://twitter.com/surasithm00/status/1707475705209188410) | advertise |
 | [surbroadcast@twitter](https://twitter.com/surbroadcast/status/1477792731636371464) | advertise |
 | [SureshS91254456@twitter](https://twitter.com/SureshS91254456/status/1694244309888115059) | advertise |
+| [Surfacings_Net@twitter](https://twitter.com/Surfacings_Net/status/1709645557914812752) | advertise |
 | [suriykdicnhxm1@twitter](https://twitter.com/suriykdicnhxm1/status/1595050645249146880) | advertise |
 | [SuruchiAmgai@twitter](https://twitter.com/SuruchiAmgai/status/1548309054258180096) | advertise |
 | [SURYANS83414456@twitter](https://twitter.com/SURYANS83414456/status/1399272451985461250) | advertise |
