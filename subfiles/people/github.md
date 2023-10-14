@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [you are detected using a party application in web Shinigami Indonesian](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/18548)
 - [渠道设置cloudflare AI Gateway代理地址出现的问题](https://github.com/songquanpeng/one-api/issues/598)
 - [4.x: Exception thrown in execute() method of a QueueJob hangs the job](https://github.com/craftcms/cms/issues/13820)
 - [Live Video Delay. Network Latency?](https://github.com/Guardis-AI/gai-react-frontend/issues/3)
