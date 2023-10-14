@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,612 |
 | social | 4,610 |
-| net | 3,832 |
+| net | 3,833 |
 | org | 2,574 |
 | de | 2,400 |
 
@@ -31818,6 +31818,7 @@ Here's a list of public Fediverse services.
 | `oour.org` | No |
 | `ooxxcc.com` | Yes |
 | `ooz.social` | Yes |
+| `ooze.net` | No |
 | `oozry.com` | Yes |
 | `oozuze.social` | No |
 | `opa.re` | Yes |
@@ -49232,7 +49233,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,768 |
-| Normal | 35,415 |
+| Normal | 35,416 |
 
 
 </details>
