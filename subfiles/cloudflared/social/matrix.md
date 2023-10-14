@@ -27,7 +27,6 @@ Here's a list of public Matrix services.
 | alternanet.fr | No |
 | matrix.archaeo.social | No |
 | aria.im | No |
-| matrix.badstuebner.biz | No |
 | synapse.bark.lgbt | Yes |
 | bolha.chat | Yes |
 | matrix.catgirl.cloud | Yes |
@@ -46,6 +45,7 @@ Here's a list of public Matrix services.
 | matrix.fachschaften.org | No |
 | feneas.org | No |
 | matrix.flieger.chat | No |
+| matrix.frei.chat | No |
 | matrix.freiburg.social | No |
 | matrix.fsfe.org | No |
 | g24.at | No |
