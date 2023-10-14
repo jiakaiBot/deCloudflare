@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,628 |
-| social | 4,611 |
-| net | 3,835 |
+| com | 7,629 |
+| social | 4,612 |
+| net | 3,836 |
 | org | 2,577 |
-| de | 2,402 |
+| de | 2,403 |
 
 
 - Mastodon, Pleroma, etc
@@ -9679,6 +9679,7 @@ Here's a list of public Fediverse services.
 | `dcsl.dk` | No |
 | `dctr.uk` | No |
 | `dcu.ie` | Yes |
+| `dcvz.io` | No |
 | `dd-dns.de` | No |
 | `dd.works` | No |
 | `dd0s.lol` | No |
@@ -10881,6 +10882,7 @@ Here's a list of public Fediverse services.
 | `domentus.nl` | No |
 | `dominic.tech` | Yes |
 | `dominicdewolfe.com` | No |
+| `dominik.ist` | No |
 | `dominikmarciniak.pl` | No |
 | `dominikschilling.de` | No |
 | `domjh.com` | Yes |
@@ -14099,6 +14101,7 @@ Here's a list of public Fediverse services.
 | `flastodon.social` | No |
 | `flat.place` | Yes |
 | `flatage.com` | No |
+| `flatbushgardener.com` | No |
 | `flatcaptech.com` | Yes |
 | `flatearth.group` | No |
 | `flatland.town` | No |
@@ -14199,6 +14202,7 @@ Here's a list of public Fediverse services.
 | `floss-marketing-school.com` | No |
 | `floss.social` | No |
 | `flossir.org` | Yes |
+| `flossmanuals.net` | No |
 | `flova.de` | No |
 | `flow.srl` | No |
 | `flowercast.me` | No |
@@ -19876,6 +19880,7 @@ Here's a list of public Fediverse services.
 | `itengineer.club` | No |
 | `itepechi.me` | Yes |
 | `iterate.no` | No |
+| `iterate.social` | Yes |
 | `iterna.de` | No |
 | `itfm.xyz` | Yes |
 | `itgrity.social` | No |
@@ -48483,6 +48488,7 @@ Here's a list of public Fediverse services.
 | `yodan.ninja` | No |
 | `yodangang.express` | Yes |
 | `yog.wtf` | No |
+| `yoga-prive.de` | No |
 | `yoghurthair.club` | No |
 | `yogibytes.social` | Yes |
 | `yogui.li` | No |
@@ -49270,8 +49276,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,781 |
-| Normal | 35,441 |
+| Cloudflare | 13,782 |
+| Normal | 35,446 |
 
 
 </details>
