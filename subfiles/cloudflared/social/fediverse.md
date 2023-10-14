@@ -354,6 +354,7 @@ Here's a list of public Fediverse services.
 | `2502.net` | No |
 | `250474.xyz` | No |
 | `251.sh` | Yes |
+| `254.network` | No |
 | `256.lt` | No |
 | `258990001.xyz` | No |
 | `272labs.com` | Yes |
@@ -12273,6 +12274,7 @@ Here's a list of public Fediverse services.
 | `endthis.world` | No |
 | `endtimebelievers.com` | No |
 | `endur4.com` | No |
+| `endurance.racing` | No |
 | `energiewende.social` | No |
 | `energyarxiv.com` | No |
 | `energydon.fi` | No |
@@ -27302,6 +27304,7 @@ Here's a list of public Fediverse services.
 | `mikedunn.blog` | Yes |
 | `mikegerwitz.com` | No |
 | `mikehayn.es` | Yes |
+| `mikehaynes.blog` | No |
 | `mikehendley.com` | Yes |
 | `mikei.sh` | No |
 | `mikeinspace.nl` | No |
@@ -34168,6 +34171,7 @@ Here's a list of public Fediverse services.
 | `polyomino.app` | No |
 | `polyphony.me` | No |
 | `polyra.com` | No |
+| `polysecure.ca` | Yes |
 | `polyserv.xyz` | No |
 | `polyson.space` | No |
 | `polytech-reseau.org` | No |
@@ -49280,8 +49284,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,783 |
-| Normal | 35,449 |
+| Cloudflare | 13,784 |
+| Normal | 35,452 |
 
 
 </details>
