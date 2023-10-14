@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [new release broke everything](https://github.com/hrfee/jfa-go/issues/302)
 - [Remotely is not working with Cloudflare Tunnels](https://github.com/immense/Remotely/issues/753)
 - [OpenaiChat: g4f>0.0.2.6 not working anymore (error 403)](https://github.com/xtekky/gpt4free/issues/1070)
 - [A way to reverse proxying (like Next.js middlewares)](https://github.com/sveltejs/kit/issues/10870)
