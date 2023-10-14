@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,610 |
+| com | 7,612 |
 | social | 4,610 |
 | net | 3,832 |
-| org | 2,572 |
+| org | 2,574 |
 | de | 2,400 |
 
 
@@ -7155,6 +7155,7 @@ Here's a list of public Fediverse services.
 | `chocolatines.org` | No |
 | `chocolicornes.org` | No |
 | `chocot.art` | Yes |
+| `chodci.cz` | No |
 | `chode.org` | Yes |
 | `chofudon.tokyo` | No |
 | `chogawa-bunko.com` | No |
@@ -7512,6 +7513,7 @@ Here's a list of public Fediverse services.
 | `clickomania.ch` | No |
 | `cliff.social` | Yes |
 | `cliffmccarthy.net` | No |
+| `clifmo.com` | Yes |
 | `climate.dance` | No |
 | `climatejustice.events` | No |
 | `climatejustice.global` | No |
@@ -12347,6 +12349,7 @@ Here's a list of public Fediverse services.
 | `entropyin.space` | No |
 | `entropyservice.com` | No |
 | `entropysource.ru` | Yes |
+| `entwining.org` | No |
 | `enu8d.com` | Yes |
 | `enum.run` | No |
 | `envismo.social` | No |
@@ -22488,6 +22491,7 @@ Here's a list of public Fediverse services.
 | `kountanis.com` | Yes |
 | `kousaka.co` | Yes |
 | `kousaka.space` | Yes |
+| `kousenit.org` | No |
 | `kousokujin.com` | No |
 | `koutakou.pm` | No |
 | `koutoupis.com` | No |
@@ -28550,6 +28554,7 @@ Here's a list of public Fediverse services.
 | `mstdn.club` | No |
 | `mstdn.co.uk` | Yes |
 | `mstdn.com.au` | Yes |
+| `mstdn.cool` | No |
 | `mstdn.cyou` | Yes |
 | `mstdn.design` | Yes |
 | `mstdn.digital` | Yes |
@@ -42213,6 +42218,7 @@ Here's a list of public Fediverse services.
 | `techy.jp` | No |
 | `techy.news` | Yes |
 | `techy.social` | Yes |
+| `techydad.com` | No |
 | `techzerker.com` | Yes |
 | `teci.world` | No |
 | `teckids.org` | No |
@@ -49007,6 +49013,7 @@ Here's a list of public Fediverse services.
 | `ziyun.rocks` | No |
 | `zj.ms` | No |
 | `zjuul.net` | No |
+| `zkarj.photo` | Yes |
 | `zkarzzz.com` | No |
 | `zkc.se` | No |
 | `zkm.social` | No |
@@ -49224,8 +49231,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,766 |
-| Normal | 35,410 |
+| Cloudflare | 13,768 |
+| Normal | 35,415 |
 
 
 </details>
