@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Exported handler with instrument using AI service returns "Invalid URL string"](https://github.com/evanderkoogh/otel-cf-workers/issues/70)
 - [new release broke everything](https://github.com/hrfee/jfa-go/issues/302)
 - [Remotely is not working with Cloudflare Tunnels](https://github.com/immense/Remotely/issues/753)
 - [OpenaiChat: g4f>0.0.2.6 not working anymore (error 403)](https://github.com/xtekky/gpt4free/issues/1070)
