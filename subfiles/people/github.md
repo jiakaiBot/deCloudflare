@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [OpenaiChat: g4f>0.0.2.6 not working anymore (error 403)](https://github.com/xtekky/gpt4free/issues/1070)
+- [A way to reverse proxying (like Next.js middlewares)](https://github.com/sveltejs/kit/issues/10870)
 - [you are detected using a party application in web Shinigami Indonesian](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/18548)
 - [渠道设置cloudflare AI Gateway代理地址出现的问题](https://github.com/songquanpeng/one-api/issues/598)
 - [4.x: Exception thrown in execute() method of a QueueJob hangs the job](https://github.com/craftcms/cms/issues/13820)
