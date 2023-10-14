@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,609 |
+| com | 7,610 |
 | social | 4,610 |
 | net | 3,831 |
-| org | 2,572 |
+| org | 2,571 |
 | de | 2,400 |
 
 
@@ -12042,6 +12042,7 @@ Here's a list of public Fediverse services.
 | `elixir.run` | Yes |
 | `eliyap.social` | No |
 | `eliz.live` | Yes |
+| `elizabethtai.com` | No |
 | `elizafox.space` | No |
 | `elizur.me` | No |
 | `elkangaroo.de` | No |
@@ -32214,7 +32215,6 @@ Here's a list of public Fediverse services.
 | `oti.st` | No |
 | `otlab.dev` | Yes |
 | `otmns.net` | Yes |
-| `oto-usa.org` | No |
 | `otociti.land` | Yes |
 | `otofu.uk` | Yes |
 | `otofu.xyz` | Yes |
