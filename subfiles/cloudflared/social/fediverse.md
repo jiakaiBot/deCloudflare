@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,612 |
+| com | 7,613 |
 | social | 4,610 |
 | net | 3,833 |
 | org | 2,574 |
@@ -9370,6 +9370,7 @@ Here's a list of public Fediverse services.
 | `dantheclamman.blog` | No |
 | `danvelopment.net` | Yes |
 | `danyork.com` | Yes |
+| `danyork.me` | Yes |
 | `danz.cloud` | Yes |
 | `daol.cc` | Yes |
 | `daotalk.cn` | No |
@@ -9822,6 +9823,7 @@ Here's a list of public Fediverse services.
 | `deepak.pro` | Yes |
 | `deepak.science` | No |
 | `deepblue.dev` | No |
+| `deepdark.blue` | Yes |
 | `deeperwisdom.org` | No |
 | `deepmay.social` | No |
 | `deepmindstate.net` | No |
@@ -41510,6 +41512,7 @@ Here's a list of public Fediverse services.
 | `sylable.co` | No |
 | `syleogroup.fr` | No |
 | `sylfox.one` | No |
+| `sylkeweb.com` | No |
 | `sylph.space` | No |
 | `sylphid.jp` | No |
 | `sylvain.dev` | No |
@@ -47086,6 +47089,7 @@ Here's a list of public Fediverse services.
 | `whoneedsabudget.cheap` | No |
 | `whoseknowledge.social` | No |
 | `whovian.social` | Yes |
+| `whoz.me` | No |
 | `whydoesntmycode.work` | No |
 | `whymark.net` | Yes |
 | `whymark.social` | Yes |
@@ -49232,8 +49236,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,768 |
-| Normal | 35,416 |
+| Cloudflare | 13,770 |
+| Normal | 35,418 |
 
 
 </details>
