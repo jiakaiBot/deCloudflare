@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,613 |
+| com | 7,616 |
 | social | 4,610 |
 | net | 3,833 |
 | org | 2,574 |
@@ -1217,6 +1217,7 @@ Here's a list of public Fediverse services.
 | `adriaan.se` | No |
 | `adrianpaul-carrieres.fr` | No |
 | `adrianperales.com` | No |
+| `adrianwiderski.com` | No |
 | `adrichat.de` | No |
 | `adriel.info` | No |
 | `adrien.run` | No |
@@ -8228,6 +8229,7 @@ Here's a list of public Fediverse services.
 | `copperhead.cloud` | No |
 | `coq.social` | No |
 | `coqui.social` | No |
+| `coraspect.com` | No |
 | `coraxfm.uk` | No |
 | `corbinnet.com` | Yes |
 | `cord.de` | No |
@@ -8579,7 +8581,7 @@ Here's a list of public Fediverse services.
 | `crittercave.net` | No |
 | `critz.social` | No |
 | `critzo.xyz` | No |
-| `criver.me` | No |
+| `criver.me` | Yes |
 | `crixu.blog` | No |
 | `crlf.io` | No |
 | `crlf.ninja` | No |
@@ -27329,6 +27331,7 @@ Here's a list of public Fediverse services.
 | `mileskanda.com` | No |
 | `milette.online` | No |
 | `milhousfamily.com` | No |
+| `milia.ch` | No |
 | `miljko.org` | No |
 | `milker.cafe` | Yes |
 | `milkers.online` | No |
@@ -36713,6 +36716,7 @@ Here's a list of public Fediverse services.
 | `rodents.party` | No |
 | `rodere.systems` | No |
 | `rodetc.com` | No |
+| `rodhillen.com` | No |
 | `rodina-sucha.cz` | No |
 | `rodirik.de` | No |
 | `rodnoc.xyz` | No |
@@ -41253,6 +41257,7 @@ Here's a list of public Fediverse services.
 | `sunshine.town` | No |
 | `sunshinecoast.social` | No |
 | `sunshinegardens.org` | No |
+| `sunspot.garden` | No |
 | `sunspot.icu` | No |
 | `sunville.org` | No |
 | `suole.me` | No |
@@ -49236,8 +49241,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,770 |
-| Normal | 35,418 |
+| Cloudflare | 13,771 |
+| Normal | 35,422 |
 
 
 </details>
