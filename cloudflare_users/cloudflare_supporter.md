@@ -2753,6 +2753,7 @@ Do not create new issue or we will close it as duplicate.
 | [danggeun265@twitter](https://twitter.com/danggeun265/status/1389594670494228487) | advertise |
 | [Dangkhoai1@twitter](https://twitter.com/Dangkhoai1/status/1386304168680329227) | advertise |
 | [dangthanh5555@twitter](https://twitter.com/dangthanh5555/status/1393070868134170632) | advertise |
+| [Dangtinhxxx@twitter](https://twitter.com/Dangtinhxxx/status/1713181838070698380) | advertise |
 | [danhka22@twitter](https://twitter.com/danhka22/status/1483086352933867520) | advertise |
 | [DANHTHIEU1996@twitter](https://twitter.com/DANHTHIEU1996/status/1686963861789044737) | advertise |
 | [DanhThnh@twitter](https://twitter.com/DanhThnh/status/1543566037513547778) | advertise |
@@ -10218,6 +10219,7 @@ Do not create new issue or we will close it as duplicate.
 | [Phuc18cm170@twitter](https://twitter.com/Phuc18cm170/status/1559261184008024064) | advertise |
 | [Phuc65469513@twitter](https://twitter.com/Phuc65469513/status/1387044797605552134) | advertise |
 | [Phuc77438485@twitter](https://twitter.com/Phuc77438485/status/1393397513831411718) | advertise |
+| [PhucHoa38056607@twitter](https://twitter.com/PhucHoa38056607/status/1713208047319871995) | advertise |
 | [phuckbang000@twitter](https://twitter.com/phuckbang000/status/1397089787564023812) | advertise |
 | [PhucNguyen09020@twitter](https://twitter.com/PhucNguyen09020/status/1553420329007009792) | advertise |
 | [PhucTra95019969@twitter](https://twitter.com/PhucTra95019969/status/1688150530672234497) | advertise |
@@ -12813,6 +12815,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThiHa16740611@twitter](https://twitter.com/ThiHa16740611/status/1394156796235767809) | advertise |
 | [Thiha30623324@twitter](https://twitter.com/Thiha30623324/status/1391901312950878210) | advertise |
 | [ThiHa68333590@twitter](https://twitter.com/ThiHa68333590/status/1495411495772901376) | advertise |
+| [ThiHa82387524@twitter](https://twitter.com/ThiHa82387524/status/1713108078663549072) | advertise |
 | [Thihaau33552175@twitter](https://twitter.com/Thihaau33552175/status/1390217617965649929) | advertise |
 | [ThihaAu55695593@twitter](https://twitter.com/ThihaAu55695593/status/1392189731543207940) | advertise |
 | [ThihaHtetSoe1@twitter](https://twitter.com/ThihaHtetSoe1/status/1401317500835405825) | advertise |
