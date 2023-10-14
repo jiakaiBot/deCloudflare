@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,609 |
 | social | 4,610 |
-| net | 3,830 |
-| org | 2,570 |
+| net | 3,831 |
+| org | 2,571 |
 | de | 2,400 |
 
 
@@ -1911,6 +1911,7 @@ Here's a list of public Fediverse services.
 | `alternativons.com` | No |
 | `alternativos.pt` | No |
 | `alterracloud.com` | Yes |
+| `alterscope.fr` | No |
 | `alterspheres.fr` | No |
 | `altertek.org` | No |
 | `altervista.org` | Yes |
@@ -39342,6 +39343,7 @@ Here's a list of public Fediverse services.
 | `slatecave.net` | No |
 | `slattery.social` | No |
 | `slattyslatt.life` | No |
+| `slavistapl.eu.org` | No |
 | `slavlabz.su` | No |
 | `slaycer.top` | Yes |
 | `slayers.com.br` | Yes |
@@ -43543,6 +43545,7 @@ Here's a list of public Fediverse services.
 | `toad.house` | No |
 | `toad.social` | No |
 | `toadking.com` | Yes |
+| `toaruden.net` | No |
 | `toaruhetare.net` | No |
 | `toast.cafe` | No |
 | `toast.farm` | Yes |
@@ -49219,7 +49222,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,764 |
-| Normal | 35,406 |
+| Normal | 35,409 |
 
 
 </details>
