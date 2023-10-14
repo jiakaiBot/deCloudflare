@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,625 |
+| com | 7,628 |
 | social | 4,611 |
 | net | 3,835 |
-| org | 2,575 |
+| org | 2,577 |
 | de | 2,402 |
 
 
@@ -8855,6 +8855,7 @@ Here's a list of public Fediverse services.
 | `curcudel.com` | No |
 | `curenoize.org` | Yes |
 | `curiosas.mx` | No |
+| `curiositydrive.org` | No |
 | `curiositykilledthebookworm.net` | No |
 | `curious.bio` | No |
 | `curious.social` | No |
@@ -9544,6 +9545,7 @@ Here's a list of public Fediverse services.
 | `datashax.com` | No |
 | `datastory.cz` | Yes |
 | `dataterm.digital` | No |
+| `datatiede.org` | Yes |
 | `datawizards.net` | Yes |
 | `datazone.social` | No |
 | `datboi.network` | No |
@@ -16463,6 +16465,7 @@ Here's a list of public Fediverse services.
 | `gopinath.org` | Yes |
 | `gord.games` | No |
 | `gordons.gen.nz` | No |
+| `gordsellar.com` | Yes |
 | `gordyboard.com` | No |
 | `gordyf.com` | Yes |
 | `gore.cam` | No |
@@ -31506,6 +31509,7 @@ Here's a list of public Fediverse services.
 | `ohai.su` | No |
 | `ohaicorona.com` | No |
 | `ohana.stream` | No |
+| `ohashifrog.com` | No |
 | `ohay.ooo` | No |
 | `ohayo.social` | No |
 | `ohbear.wtf` | No |
@@ -38594,6 +38598,7 @@ Here's a list of public Fediverse services.
 | `shadyvalley.net` | No |
 | `shadywebsite.website` | Yes |
 | `shahbazi.at` | No |
+| `shahu.ski` | Yes |
 | `shai.pink` | No |
 | `shakalaka.club` | No |
 | `shakedown.social` | Yes |
@@ -41469,6 +41474,7 @@ Here's a list of public Fediverse services.
 | `swetrust.com` | Yes |
 | `swffthiker.online` | No |
 | `swg-empire.de` | No |
+| `swhiky.com` | No |
 | `swiatczytnikow.pl` | No |
 | `swiftdev.space` | No |
 | `swiftdevjournal.com` | No |
@@ -49264,8 +49270,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,778 |
-| Normal | 35,438 |
+| Cloudflare | 13,781 |
+| Normal | 35,441 |
 
 
 </details>
