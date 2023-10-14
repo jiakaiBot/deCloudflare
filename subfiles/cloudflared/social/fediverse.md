@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,609 |
 | social | 4,610 |
 | net | 3,831 |
-| org | 2,571 |
+| org | 2,572 |
 | de | 2,400 |
 
 
@@ -7920,7 +7920,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -29861,7 +29861,7 @@ Here's a list of public Fediverse services.
 | `netlib.re` | No |
 | `netlify.app` | Yes |
 | `netlify.com` | Yes |
-| `netlord.de` | No |
+| `netlord.de` | Yes |
 | `netmonkey.gay` | No |
 | `netmonkey.net` | Yes |
 | `netmonkey.pictures` | No |
@@ -32214,6 +32214,7 @@ Here's a list of public Fediverse services.
 | `oti.st` | No |
 | `otlab.dev` | Yes |
 | `otmns.net` | Yes |
+| `oto-usa.org` | No |
 | `otociti.land` | Yes |
 | `otofu.uk` | Yes |
 | `otofu.xyz` | Yes |
@@ -40024,7 +40025,7 @@ Here's a list of public Fediverse services.
 | `sotong.cloud` | No |
 | `sotu.casa` | Yes |
 | `soucy.cc` | No |
-| `souder.ca` | No |
+| `souder.ca` | Yes |
 | `soukun.io` | Yes |
 | `soukun.xyz` | Yes |
 | `soul.ua` | Yes |
@@ -49221,7 +49222,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,764 |
+| Cloudflare | 13,765 |
 | Normal | 35,409 |
 
 
