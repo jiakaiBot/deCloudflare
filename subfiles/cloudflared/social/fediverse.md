@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,629 |
+| com | 7,630 |
 | social | 4,612 |
 | net | 3,836 |
 | org | 2,577 |
@@ -6259,6 +6259,7 @@ Here's a list of public Fediverse services.
 | `calidris.lv` | No |
 | `californialocal.com` | No |
 | `caligula-sea.net` | No |
+| `calim.club` | No |
 | `calkeo.dev` | Yes |
 | `calligraphicspace.com` | No |
 | `callingallpapers.com` | Yes |
@@ -30835,6 +30836,7 @@ Here's a list of public Fediverse services.
 | `note.rodeo` | No |
 | `notebook.yokohama` | No |
 | `notec.org` | No |
+| `notesfrommosquitohill.com` | No |
 | `notetoself.co.uk` | Yes |
 | `notez4all.tech` | Yes |
 | `notfound.work` | No |
@@ -49277,7 +49279,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,782 |
-| Normal | 35,446 |
+| Normal | 35,448 |
 
 
 </details>
