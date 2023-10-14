@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,630 |
+| com | 7,631 |
 | social | 4,612 |
-| net | 3,836 |
+| net | 3,837 |
 | org | 2,577 |
 | de | 2,403 |
 
@@ -12640,6 +12640,7 @@ Here's a list of public Fediverse services.
 | `etc-services.de` | No |
 | `eter.org` | No |
 | `eter9.com` | Yes |
+| `eter9.net` | No |
 | `eternalaugust.com` | No |
 | `eternalflame24.com` | No |
 | `eternalreliquary.com` | Yes |
@@ -38653,6 +38654,7 @@ Here's a list of public Fediverse services.
 | `sharlayan.in` | No |
 | `sharlayan.me` | No |
 | `sharma.io` | No |
+| `sharonahill.com` | No |
 | `sharpletters.net` | Yes |
 | `sharpwriting.net` | Yes |
 | `shart.network` | Yes |
@@ -44451,7 +44453,7 @@ Here's a list of public Fediverse services.
 | `truska.xyz` | No |
 | `trustfundme.site` | No |
 | `trustory.fm` | Yes |
-| `trustzero.nl` | No |
+| `trustzero.nl` | Yes |
 | `truth-sandwich.com` | No |
 | `truthpirates.club` | No |
 | `truthsocial.co.in` | No |
@@ -49278,8 +49280,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,782 |
-| Normal | 35,448 |
+| Cloudflare | 13,783 |
+| Normal | 35,449 |
 
 
 </details>
