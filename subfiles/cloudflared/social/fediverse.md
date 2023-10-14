@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,610 |
 | social | 4,610 |
 | net | 3,832 |
-| org | 2,571 |
+| org | 2,572 |
 | de | 2,400 |
 
 
@@ -32216,6 +32216,7 @@ Here's a list of public Fediverse services.
 | `oti.st` | No |
 | `otlab.dev` | Yes |
 | `otmns.net` | Yes |
+| `oto-usa.org` | No |
 | `otociti.land` | Yes |
 | `otofu.uk` | Yes |
 | `otofu.xyz` | Yes |
@@ -49224,7 +49225,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,766 |
-| Normal | 35,409 |
+| Normal | 35,410 |
 
 
 </details>
