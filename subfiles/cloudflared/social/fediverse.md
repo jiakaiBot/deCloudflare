@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,610 |
 | social | 4,610 |
-| net | 3,831 |
+| net | 3,832 |
 | org | 2,571 |
 | de | 2,400 |
 
@@ -2024,6 +2024,7 @@ Here's a list of public Fediverse services.
 | `ameth.org` | No |
 | `amethyst.moe` | Yes |
 | `ameyrakheja.com` | Yes |
+| `amfedisr.net` | Yes |
 | `amiantos.net` | No |
 | `amic37.fr` | No |
 | `amicable.social` | Yes |
@@ -49222,7 +49223,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,765 |
+| Cloudflare | 13,766 |
 | Normal | 35,409 |
 
 
