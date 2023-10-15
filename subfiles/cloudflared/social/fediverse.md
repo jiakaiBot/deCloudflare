@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,636 |
 | social | 4,612 |
-| net | 3,838 |
+| net | 3,839 |
 | org | 2,577 |
-| de | 2,403 |
+| de | 2,404 |
 
 
 - Mastodon, Pleroma, etc
@@ -14602,6 +14602,7 @@ Here's a list of public Fediverse services.
 | `franssen.mobi` | No |
 | `franssen.xyz` | No |
 | `franv.site` | Yes |
+| `franzgraf.de` | No |
 | `franziskaner-der-erneuerung.de` | Yes |
 | `fratm.com` | No |
 | `fraudon.jp` | No |
@@ -45022,6 +45023,7 @@ Here's a list of public Fediverse services.
 | `ufeff.club` | No |
 | `ufeff.net` | No |
 | `uff.rip` | No |
+| `uffish.net` | No |
 | `ufm.lol` | No |
 | `ufm.su` | No |
 | `ufoarmy.com` | No |
@@ -49296,7 +49298,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,786 |
-| Normal | 35,461 |
+| Normal | 35,463 |
 
 
 </details>
