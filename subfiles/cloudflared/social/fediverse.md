@@ -7931,7 +7931,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -25483,6 +25483,7 @@ Here's a list of public Fediverse services.
 | `maplelawn.net` | No |
 | `maples.dev` | No |
 | `mapleshrine.eu` | No |
+| `mapmerch.shop` | Yes |
 | `mapolist.com` | No |
 | `mappostcards.pl` | No |
 | `maprambo.net` | Yes |
@@ -49285,7 +49286,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,784 |
-| Normal | 35,452 |
+| Normal | 35,453 |
 
 
 </details>
