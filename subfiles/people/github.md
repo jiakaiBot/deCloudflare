@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [how to use?](https://github.com/willshiao/YerFont/issues/1)
 - [Erreur "Sorry, you have been blocked"](https://github.com/bokub/linky/issues/61)
 - [Elementum search on Nexus 20.2 works worst then Leia 18.9.](https://github.com/elgatito/plugin.video.elementum/issues/948)
 - [Exported handler with instrument using AI service returns "Invalid URL string"](https://github.com/evanderkoogh/otel-cf-workers/issues/70)
