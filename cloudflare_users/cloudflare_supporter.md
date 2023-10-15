@@ -854,6 +854,7 @@ Do not create new issue or we will close it as duplicate.
 | [anas_freeman@twitter](https://twitter.com/anas_freeman/status/1402146891094167556) | advertise |
 | [anavaralimited@twitter](https://twitter.com/anavaralimited/status/1389661876397637632) | advertise |
 | [Ana_R2005@twitter](https://twitter.com/Ana_R2005/status/1507169578832605198) | advertise |
+| [Anbao123yo2@twitter](https://twitter.com/Anbao123yo2/status/1713605278552506804) | advertise |
 | [ancientxfire@twitter](https://twitter.com/ancientxfire/status/1615290300020449280) | advertise |
 | [AndAlishah@twitter](https://twitter.com/AndAlishah/status/1704439491606532439) | advertise |
 | [Andeptrai291122@twitter](https://twitter.com/Andeptrai291122/status/1553017887182712833) | advertise |
@@ -1903,6 +1904,7 @@ Do not create new issue or we will close it as duplicate.
 | [Blue_pepen@twitter](https://twitter.com/Blue_pepen/status/1665865460376559616) | advertise |
 | [blurr140@twitter](https://twitter.com/blurr140/status/1624079552409395202) | advertise |
 | [blw10210@twitter](https://twitter.com/blw10210/status/1542354724493697024) | advertise |
+| [BlxckCatPepe@twitter](https://twitter.com/BlxckCatPepe/status/1710168955715830262) | advertise |
 | [blxxdyii@twitter](https://twitter.com/blxxdyii/status/1543838705198440448) | advertise |
 | [bmadadha@twitter](https://twitter.com/bmadadha/status/1695596704328830978) | advertise |
 | [Bmccc1228@twitter](https://twitter.com/Bmccc1228/status/1588584506239471621) | advertise |
@@ -2140,6 +2142,7 @@ Do not create new issue or we will close it as duplicate.
 | [B_15031998@twitter](https://twitter.com/B_15031998/status/1603078420464037890) | advertise |
 | [b_e_h_n_a_m_@twitter](https://twitter.com/b_e_h_n_a_m_/status/1588595056415424512) | advertise |
 | [b_thnh4@twitter](https://twitter.com/b_thnh4/status/1681269084338663424) | advertise |
+| [c01329879@twitter](https://twitter.com/c01329879/status/1713605526280606084) | advertise |
 | [c08981422@twitter](https://twitter.com/c08981422/status/1628076000461611009) | advertise |
 | [c09643643@twitter](https://twitter.com/c09643643/status/1385578671075840001) | advertise |
 | [c1e2dcd1b220469@twitter](https://twitter.com/c1e2dcd1b220469/status/1494467616425099264) | advertise |
@@ -4378,6 +4381,7 @@ Do not create new issue or we will close it as duplicate.
 | [hanaz152@twitter](https://twitter.com/hanaz152/status/1489571828951498755) | advertise |
 | [Handler_0k@twitter](https://twitter.com/Handler_0k/status/1502685102081552388) | advertise |
 | [HaNgcThnh1@twitter](https://twitter.com/HaNgcThnh1/status/1474892457380700160) | advertise |
+| [haNguyn59134625@twitter](https://twitter.com/haNguyn59134625/status/1713602952999616621) | advertise |
 | [haNguyn90737580@twitter](https://twitter.com/haNguyn90737580/status/1378411206134796289) | advertise |
 | [HanHlaingMyint1@twitter](https://twitter.com/HanHlaingMyint1/status/1389379591601594369) | advertise |
 | [HanhLe35954517@twitter](https://twitter.com/HanhLe35954517/status/1474412634313138179) | advertise |
@@ -4764,6 +4768,7 @@ Do not create new issue or we will close it as duplicate.
 | [hninyumaw8@twitter](https://twitter.com/hninyumaw8/status/1400855702441127938) | advertise |
 | [HninYuW82574084@twitter](https://twitter.com/HninYuW82574084/status/1396071591411216388) | advertise |
 | [hnnc_04@twitter](https://twitter.com/hnnc_04/status/1665889539108503552) | advertise |
+| [hnung_sar20058@twitter](https://twitter.com/hnung_sar20058/status/1713616235559285191) | advertise |
 | [hNYFxvRiuF94Rng@twitter](https://twitter.com/hNYFxvRiuF94Rng/status/1389943967907663878) | advertise |
 | [hn_f22@twitter](https://twitter.com/hn_f22/status/1536824233799581699) | advertise |
 | [HN_thuy_14@twitter](https://twitter.com/HN_thuy_14/status/1700936123558813828) | advertise |
@@ -8047,6 +8052,7 @@ Do not create new issue or we will close it as duplicate.
 | [metro3_@twitter](https://twitter.com/metro3_/status/1619105918066761729) | advertise |
 | [metroplus_@twitter](https://twitter.com/metroplus_/status/1659920077855281153) | advertise |
 | [MetrotechsInc@twitter](https://twitter.com/MetrotechsInc/status/1570253772013592576) | advertise |
+| [METZ_1298@twitter](https://twitter.com/METZ_1298/status/1713613799570153770) | advertise |
 | [meu2p@twitter](https://twitter.com/meu2p/status/1486055370800111618) | advertise |
 | [MeVlezz@twitter](https://twitter.com/MeVlezz/status/1396832967700271116) | advertise |
 | [Me_Mine_Moi@twitter](https://twitter.com/Me_Mine_Moi/status/1572576453002399747) | advertise |
