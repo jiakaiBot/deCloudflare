@@ -110,13 +110,11 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ftp.sh | Yes |
 | futa.gg | Yes |
 | gac.edu | No |
-| glorydns.com | Yes |
 | gnb09.id | Yes |
 | gztech.me | Yes |
 | hahnjo.de | No |
 | hanahira.dev | Yes |
 | haoxuan.xyz | Yes |
-| hdns.io | No |
 | he.net | No |
 | hostux.net | No |
 | huque.com | No |
@@ -276,8 +274,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 121 |
-| Normal | 136 |
+| Cloudflare | 120 |
+| Normal | 135 |
 
 
 ### 47.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
