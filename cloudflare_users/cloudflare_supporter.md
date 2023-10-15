@@ -774,6 +774,7 @@ Do not create new issue or we will close it as duplicate.
 | [AmeliaNyeint@twitter](https://twitter.com/AmeliaNyeint/status/1398295090909499397) | advertise |
 | [Amer71692232@twitter](https://twitter.com/Amer71692232/status/1497751670188490758) | advertise |
 | [AmesiyasDe54691@twitter](https://twitter.com/AmesiyasDe54691/status/1691039149975896065) | advertise |
+| [AmeyaSathaye@twitter](https://twitter.com/AmeyaSathaye/status/1713532689498751241) | advertise |
 | [amiamigo97@twitter](https://twitter.com/amiamigo97/status/1616127323887243266) | advertise |
 | [Amiirfahad@twitter](https://twitter.com/Amiirfahad/status/1492928600978382856) | advertise |
 | [aMiLcArBaRrErA@twitter](https://twitter.com/aMiLcArBaRrErA/status/1594907159397289984) | advertise |
