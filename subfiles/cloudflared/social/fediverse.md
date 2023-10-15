@@ -27308,6 +27308,7 @@ Here's a list of public Fediverse services.
 | `mikedunn.blog` | Yes |
 | `mikegerwitz.com` | No |
 | `mikehayn.es` | Yes |
+| `mikehaynes.blog` | No |
 | `mikehendley.com` | Yes |
 | `mikei.sh` | No |
 | `mikeinspace.nl` | No |
@@ -49289,7 +49290,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,784 |
-| Normal | 35,456 |
+| Normal | 35,457 |
 
 
 </details>
