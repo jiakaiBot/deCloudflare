@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,649 |
 | social | 4,612 |
 | net | 3,841 |
-| org | 2,579 |
+| org | 2,580 |
 | de | 2,405 |
 
 
@@ -3183,6 +3183,7 @@ Here's a list of public Fediverse services.
 | `atari-frosch.de` | No |
 | `ataricafe.com` | Yes |
 | `atarijunge.de` | No |
+| `atariorbit.org` | No |
 | `ataxya.net` | Yes |
 | `atay.dev` | No |
 | `atbdguy.one` | Yes |
@@ -29539,6 +29540,7 @@ Here's a list of public Fediverse services.
 | `navel7.tk` | No |
 | `navinot.com` | No |
 | `nay.moe` | No |
+| `nayab.dev` | Yes |
 | `nayukana.info` | No |
 | `nayya.org` | No |
 | `naz.vc` | No |
@@ -47333,6 +47335,7 @@ Here's a list of public Fediverse services.
 | `winkler.social` | Yes |
 | `winklerfamilie.eu` | No |
 | `winnick.cloud` | Yes |
+| `winnick.is` | Yes |
 | `winninger.me` | No |
 | `winnipegsocial.online` | No |
 | `winscloud.net` | Yes |
@@ -49326,8 +49329,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,795 |
-| Normal | 35,483 |
+| Cloudflare | 13,797 |
+| Normal | 35,484 |
 
 
 </details>
