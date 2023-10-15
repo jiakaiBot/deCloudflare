@@ -15829,6 +15829,7 @@ Here's a list of public Fediverse services.
 | `gensokyo.cloud` | No |
 | `gensokyo.club` | No |
 | `gensokyo.io` | Yes |
+| `gensokyo.shop` | No |
 | `gensokyo.social` | No |
 | `gensokyo.town` | Yes |
 | `gensou.social` | No |
@@ -27307,7 +27308,6 @@ Here's a list of public Fediverse services.
 | `mikedunn.blog` | Yes |
 | `mikegerwitz.com` | No |
 | `mikehayn.es` | Yes |
-| `mikehaynes.blog` | No |
 | `mikehendley.com` | Yes |
 | `mikei.sh` | No |
 | `mikeinspace.nl` | No |
