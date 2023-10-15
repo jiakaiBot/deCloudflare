@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,632 |
+| com | 7,635 |
 | social | 4,612 |
-| net | 3,837 |
+| net | 3,838 |
 | org | 2,577 |
 | de | 2,403 |
 
@@ -10109,6 +10109,7 @@ Here's a list of public Fediverse services.
 | `description.world` | No |
 | `desde.eu` | No |
 | `desdelamina.net` | No |
+| `desequilibres.net` | No |
 | `desertpeach.games` | Yes |
 | `desertviews.us` | No |
 | `design.systems` | Yes |
@@ -17372,6 +17373,7 @@ Here's a list of public Fediverse services.
 | `hareware.xyz` | No |
 | `harfang.social` | Yes |
 | `harijs.id.lv` | No |
+| `harishpillay.com` | No |
 | `harmandar.co` | No |
 | `harmon.tech` | No |
 | `harmoniescreatives.com` | No |
@@ -23462,6 +23464,7 @@ Here's a list of public Fediverse services.
 | `lelaidier.net` | No |
 | `lelehier.de` | No |
 | `lelesius.eu` | Yes |
+| `lelgenio.xyz` | No |
 | `lelux.fi` | No |
 | `lem.monster` | No |
 | `lem.social` | No |
@@ -27308,6 +27311,7 @@ Here's a list of public Fediverse services.
 | `mikedunn.blog` | Yes |
 | `mikegerwitz.com` | No |
 | `mikehayn.es` | Yes |
+| `mikehaynes.blog` | No |
 | `mikehendley.com` | Yes |
 | `mikei.sh` | No |
 | `mikeinspace.nl` | No |
@@ -27700,6 +27704,7 @@ Here's a list of public Fediverse services.
 | `mistpark.net` | No |
 | `mistresskurohime.club` | No |
 | `misty-island.info` | No |
+| `misty-mountains.com` | No |
 | `misty.casa` | No |
 | `misty.garden` | No |
 | `mistynotes.nl` | No |
@@ -46010,6 +46015,7 @@ Here's a list of public Fediverse services.
 | `vicedomini.cloud` | No |
 | `vicentellopis.es` | No |
 | `vichar.me` | Yes |
+| `vicheidman.com` | No |
 | `vici0.us` | No |
 | `vicia.net` | Yes |
 | `vickerson.me` | No |
@@ -49289,7 +49295,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,785 |
-| Normal | 35,455 |
+| Normal | 35,461 |
 
 
 </details>
