@@ -3708,6 +3708,7 @@ Do not create new issue or we will close it as duplicate.
 | [FaizaanKahn@twitter](https://twitter.com/FaizaanKahn/status/1390946598117515265) | advertise |
 | [FaizalKhanbb@twitter](https://twitter.com/FaizalKhanbb/status/1379243028213284867) | advertise |
 | [Faizie15@twitter](https://twitter.com/Faizie15/status/1383424428604755975) | advertise |
+| [faizima6373414@twitter](https://twitter.com/faizima6373414/status/1713622160890282158) | advertise |
 | [Fak29477321@twitter](https://twitter.com/Fak29477321/status/1565465226748825603) | advertise |
 | [FakeSenpai5@twitter](https://twitter.com/FakeSenpai5/status/1581958054660034560) | advertise |
 | [FakeTopG@twitter](https://twitter.com/FakeTopG/status/1570866215404572676) | advertise |
@@ -13115,6 +13116,7 @@ Do not create new issue or we will close it as duplicate.
 | [TngHiu62523455@twitter](https://twitter.com/TngHiu62523455/status/1617952435607310342) | advertise |
 | [TngHong14@twitter](https://twitter.com/TngHong14/status/1386325819891482627) | advertise |
 | [TngLi34015815@twitter](https://twitter.com/TngLi34015815/status/1554003584039415809) | advertise |
+| [TngNguynB165895@twitter](https://twitter.com/TngNguynB165895/status/1713622931681824953) | advertise |
 | [TngNi93807080@twitter](https://twitter.com/TngNi93807080/status/1380134536034549762) | advertise |
 | [TngSiTQun1@twitter](https://twitter.com/TngSiTQun1/status/1404813196565880836) | advertise |
 | [TngTinHuy1@twitter](https://twitter.com/TngTinHuy1/status/1552935174970568704) | advertise |
@@ -13478,6 +13480,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tunanh94933384@twitter](https://twitter.com/Tunanh94933384/status/1485162725068382211) | advertise |
 | [tunaung27101990@twitter](https://twitter.com/tunaung27101990/status/1392413941335089155) | advertise |
 | [TunBeo3@twitter](https://twitter.com/TunBeo3/status/1406537643005861888) | advertise |
+| [Tung30082003@twitter](https://twitter.com/Tung30082003/status/1713632795883663391) | advertise |
 | [Tung55985050@twitter](https://twitter.com/Tung55985050/status/1401516166896443395) | advertise |
 | [tung85288887@twitter](https://twitter.com/tung85288887/status/1536123681826430976) | advertise |
 | [tungcho3396@twitter](https://twitter.com/tungcho3396/status/1561578045445910528) | advertise |
