@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't connect to Quotex](https://github.com/SantiiRepair/quotexpy/issues/13)
 - [Existing tunnel error](https://github.com/brenner-tobias/ha-addons/issues/15)
 - [how to use?](https://github.com/willshiao/YerFont/issues/1)
 - [Erreur "Sorry, you have been blocked"](https://github.com/bokub/linky/issues/61)
