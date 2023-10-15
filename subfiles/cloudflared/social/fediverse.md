@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,647 |
+| com | 7,649 |
 | social | 4,612 |
-| net | 3,840 |
+| net | 3,841 |
 | org | 2,579 |
 | de | 2,405 |
 
@@ -8801,6 +8801,7 @@ Here's a list of public Fediverse services.
 | `cubing.social` | No |
 | `cubyx.eu` | Yes |
 | `cuche.cc` | No |
+| `cucinato.com` | No |
 | `cucked.me` | Yes |
 | `cuddle.network` | No |
 | `cuddle.science` | Yes |
@@ -16479,6 +16480,7 @@ Here's a list of public Fediverse services.
 | `goos.social` | No |
 | `goose.directory` | No |
 | `goose.rodeo` | No |
+| `gooutsidetoday.com` | No |
 | `goover.de` | Yes |
 | `goover.social` | Yes |
 | `gopals.family` | Yes |
@@ -17649,7 +17651,7 @@ Here's a list of public Fediverse services.
 | `heim.sh` | No |
 | `heimann13.com` | Yes |
 | `heimat.social` | No |
-| `hein.cx` | Yes |
+| `hein.cx` | No |
 | `heine.xyz` | No |
 | `heinlein-support.de` | No |
 | `heinz.cloud` | Yes |
@@ -29402,6 +29404,7 @@ Here's a list of public Fediverse services.
 | `nannerpuss.club` | Yes |
 | `nannika.work` | Yes |
 | `nano.garden` | No |
+| `nano.lgbt` | Yes |
 | `nanoapp.io` | No |
 | `nanobyte.cafe` | No |
 | `nanocloud.solutions` | No |
@@ -42065,6 +42068,7 @@ Here's a list of public Fediverse services.
 | `tatsuya0902.jp` | Yes |
 | `tatu.la` | Yes |
 | `tatuiyo.xyz` | Yes |
+| `tatze.net` | No |
 | `tau-ceti.space` | No |
 | `taubin.cc` | Yes |
 | `taucha.social` | No |
@@ -49323,7 +49327,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,795 |
-| Normal | 35,479 |
+| Normal | 35,483 |
 
 
 </details>
