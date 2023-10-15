@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Existing tunnel error](https://github.com/brenner-tobias/ha-addons/issues/15)
 - [how to use?](https://github.com/willshiao/YerFont/issues/1)
 - [Erreur "Sorry, you have been blocked"](https://github.com/bokub/linky/issues/61)
 - [Elementum search on Nexus 20.2 works worst then Leia 18.9.](https://github.com/elgatito/plugin.video.elementum/issues/948)
