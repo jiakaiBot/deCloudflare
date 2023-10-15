@@ -4998,7 +4998,7 @@ Here's a list of public Fediverse services.
 | `blimped.net` | No |
 | `blimps.xyz` | Yes |
 | `blind.lol` | No |
-| `blindcopywriter.com` | No |
+| `blindcopywriter.com` | Yes |
 | `blindwith.science` | Yes |
 | `blinry.org` | No |
 | `bliothek.social` | No |
@@ -27308,7 +27308,6 @@ Here's a list of public Fediverse services.
 | `mikedunn.blog` | Yes |
 | `mikegerwitz.com` | No |
 | `mikehayn.es` | Yes |
-| `mikehaynes.blog` | No |
 | `mikehendley.com` | Yes |
 | `mikei.sh` | No |
 | `mikeinspace.nl` | No |
@@ -49289,8 +49288,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,784 |
-| Normal | 35,457 |
+| Cloudflare | 13,785 |
+| Normal | 35,455 |
 
 
 </details>
