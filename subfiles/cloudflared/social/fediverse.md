@@ -10500,6 +10500,7 @@ Here's a list of public Fediverse services.
 | `dimethyl.xyz` | No |
 | `dimick.social` | Yes |
 | `dimitar.dev` | Yes |
+| `dimitriosdiamantaras.me` | No |
 | `dimitriregnier.net` | No |
 | `dimna.de` | No |
 | `dimspace.com` | Yes |
@@ -31366,6 +31367,7 @@ Here's a list of public Fediverse services.
 | `obsolete29.com` | No |
 | `obspm.fr` | No |
 | `obufalus.jp` | No |
+| `obviate.io` | Yes |
 | `oc.is` | Yes |
 | `ocallahan.org` | No |
 | `ocaml.org` | No |
@@ -31876,6 +31878,7 @@ Here's a list of public Fediverse services.
 | `oomurosakura.co` | Yes |
 | `oook.fr` | No |
 | `ooops.cloud` | Yes |
+| `oops.wtf` | No |
 | `oopsall.gay` | Yes |
 | `oopscommand.com` | No |
 | `oort.social` | No |
@@ -49330,8 +49333,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,797 |
-| Normal | 35,485 |
+| Cloudflare | 13,798 |
+| Normal | 35,487 |
 
 
 </details>
