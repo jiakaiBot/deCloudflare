@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,644 |
+| com | 7,647 |
 | social | 4,612 |
 | net | 3,840 |
 | org | 2,579 |
@@ -11650,6 +11650,7 @@ Here's a list of public Fediverse services.
 | `eboboserver.ru` | Yes |
 | `eboks.social` | No |
 | `ebola.moe` | No |
+| `ebookfriendly.com` | No |
 | `ebooks.social` | No |
 | `ebooksin.space` | No |
 | `ebrightphoto.com` | No |
@@ -12915,6 +12916,7 @@ Here's a list of public Fediverse services.
 | `extinctionrebellion.es` | No |
 | `extinctionrebellion.fr` | No |
 | `extradienst.net` | No |
+| `extramuralactivity.com` | No |
 | `extraordinarygeeks.social` | No |
 | `extratone.com` | No |
 | `extratone.online` | Yes |
@@ -22380,6 +22382,7 @@ Here's a list of public Fediverse services.
 | `kolotipy.cz` | No |
 | `kom-in.de` | No |
 | `komaedak.in` | No |
+| `komaniya.work` | Yes |
 | `komaverse.de` | No |
 | `kome-lab.net` | Yes |
 | `komefura.com` | Yes |
@@ -36190,6 +36193,7 @@ Here's a list of public Fediverse services.
 | `renaud.gr` | No |
 | `rencher.industries` | No |
 | `rencontres-atelier.fr` | No |
+| `renedon.red` | Yes |
 | `renehsz.com` | No |
 | `renekey.jp` | Yes |
 | `renekey.net` | Yes |
@@ -45389,7 +45393,7 @@ Here's a list of public Fediverse services.
 | `unrelated.family` | Yes |
 | `unrelenting.technology` | No |
 | `unrelentingly.online` | No |
-| `unreliable.associates` | No |
+| `unreliable.associates` | Yes |
 | `unroot.de` | No |
 | `uns.social` | Yes |
 | `unsafe.co` | No |
@@ -47703,6 +47707,7 @@ Here's a list of public Fediverse services.
 | `writeout.ink` | No |
 | `writerfriends.space` | No |
 | `writersaur.us` | No |
+| `writerupdated.com` | No |
 | `writeworks.uk` | No |
 | `writing.exchange` | No |
 | `writing.lol` | No |
@@ -49317,8 +49322,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,792 |
-| Normal | 35,477 |
+| Cloudflare | 13,795 |
+| Normal | 35,479 |
 
 
 </details>
