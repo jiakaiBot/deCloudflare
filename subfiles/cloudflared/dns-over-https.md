@@ -209,7 +209,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rezhajul.io | No |
 | rferee.dev | Yes |
 | rin.sh | Yes |
-| rokh.biz | Yes |
 | rouga.ch | Yes |
 | rsaikat.com | No |
 | safeservedns.com | No |
@@ -274,8 +273,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 120 |
+| Cloudflare | 119 |
 | Normal | 135 |
 
 
-### 47.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
