@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,638 |
+| com | 7,644 |
 | social | 4,612 |
-| net | 3,839 |
-| org | 2,577 |
-| de | 2,404 |
+| net | 3,840 |
+| org | 2,579 |
+| de | 2,405 |
 
 
 - Mastodon, Pleroma, etc
@@ -3027,6 +3027,7 @@ Here's a list of public Fediverse services.
 | `ashigayahomura.com` | Yes |
 | `ashikaga.link` | No |
 | `ashimitsu.net` | Yes |
+| `ashish-kashyap.com` | No |
 | `ashitty.website` | No |
 | `ashka.me` | No |
 | `ashkaijin.com` | No |
@@ -3309,6 +3310,7 @@ Here's a list of public Fediverse services.
 | `auka.me` | No |
 | `aukfood.net` | No |
 | `aukondk.com` | No |
+| `auliviet.com` | No |
 | `aumetra.xyz` | No |
 | `aunaturel.club` | No |
 | `aunisien.ovh` | No |
@@ -7918,6 +7920,7 @@ Here's a list of public Fediverse services.
 | `colonelinux.org` | No |
 | `colonels.world` | No |
 | `colonthree.gay` | No |
+| `colony.red` | No |
 | `color.town` | No |
 | `colorado.icu` | Yes |
 | `coloradocrest.net` | No |
@@ -9843,6 +9846,7 @@ Here's a list of public Fediverse services.
 | `deepnexus.link` | Yes |
 | `deepplum.com` | No |
 | `deeproot.in` | No |
+| `deepsee.io` | Yes |
 | `deepskies.com` | Yes |
 | `deepspace.cafe` | No |
 | `deepspace.gay` | Yes |
@@ -10782,6 +10786,7 @@ Here's a list of public Fediverse services.
 | `dnzm.nl` | No |
 | `do-berghofen.de` | No |
 | `do-crimes-be.gay` | No |
+| `do-foss.de` | No |
 | `doamm.com` | Yes |
 | `doan.me` | Yes |
 | `doany.io` | Yes |
@@ -12493,6 +12498,7 @@ Here's a list of public Fediverse services.
 | `ericjsz.com` | Yes |
 | `ericjustdoesnotcare.com` | No |
 | `ericlathrop.com` | No |
+| `ericlawton.org` | No |
 | `ericmaki.com` | No |
 | `ericmerlock.social` | No |
 | `ericmwalk.blog` | No |
@@ -16816,6 +16822,7 @@ Here's a list of public Fediverse services.
 | `groundgamela.org` | Yes |
 | `groundpolis.app` | No |
 | `group.lt` | Yes |
+| `groupe-montagne.ch` | Yes |
 | `groupe-tazor.com` | No |
 | `groupement-interet-citoyen.org` | No |
 | `grouphub.de` | Yes |
@@ -17804,6 +17811,7 @@ Here's a list of public Fediverse services.
 | `hermine.in` | Yes |
 | `hermine.top` | Yes |
 | `hermit.cafe` | No |
+| `hermitcollective.net` | No |
 | `hermitmagicians.com` | No |
 | `hermitmountain.top` | No |
 | `hern.as` | Yes |
@@ -18042,6 +18050,7 @@ Here's a list of public Fediverse services.
 | `hispashare.com` | Yes |
 | `hispatodon.club` | No |
 | `hisso.li` | No |
+| `histoiredesinventions.com` | No |
 | `histoirescrepues.fr` | No |
 | `historiador.nom.es` | No |
 | `historians.social` | No |
@@ -19344,6 +19353,7 @@ Here's a list of public Fediverse services.
 | `info.tm` | Yes |
 | `infocamp.digital` | No |
 | `infoheap.com` | No |
+| `infojournal.fr` | No |
 | `infolattice.org` | No |
 | `infoq.social` | No |
 | `inforbidden.ink` | No |
@@ -23337,6 +23347,7 @@ Here's a list of public Fediverse services.
 | `learn.cafe` | Yes |
 | `learnaddict.academy` | No |
 | `learnawesome.org` | Yes |
+| `learncreateplay.games` | Yes |
 | `learndevelopchange.com` | No |
 | `learner.tools` | Yes |
 | `learning-hub.fr` | No |
@@ -33005,6 +33016,7 @@ Here's a list of public Fediverse services.
 | `pedrocx486.club` | Yes |
 | `peek1e.eu` | Yes |
 | `peekachello.art` | No |
+| `peekeend.nl` | No |
 | `peeledoffmy.skin` | Yes |
 | `peen.dev` | Yes |
 | `peeps.press` | No |
@@ -36030,6 +36042,7 @@ Here's a list of public Fediverse services.
 | `redstrate.com` | No |
 | `redstrings.club` | No |
 | `redterrorcollective.net` | No |
+| `redundantrocker.com` | No |
 | `redvoice.news` | No |
 | `redwave.social` | Yes |
 | `redwings.social` | No |
@@ -36135,6 +36148,7 @@ Here's a list of public Fediverse services.
 | `reliverse.social` | No |
 | `relm.us` | No |
 | `relms.dev` | Yes |
+| `relph.org` | Yes |
 | `reluctantly.social` | No |
 | `relyma.club` | Yes |
 | `rem7.space` | No |
@@ -38056,6 +38070,7 @@ Here's a list of public Fediverse services.
 | `scottishlad.me.uk` | No |
 | `scottkf.xyz` | No |
 | `scottlabs.io` | No |
+| `scottmallinson.com` | Yes |
 | `scottmorrison.net` | No |
 | `scottnesbitt.online` | No |
 | `scottodon.com` | No |
@@ -43470,6 +43485,7 @@ Here's a list of public Fediverse services.
 | `tinax.work` | No |
 | `tinblr.com` | No |
 | `tincanphone.club` | No |
+| `tinelu.eus` | No |
 | `tinerion.me` | No |
 | `tinfoil-hat.net` | No |
 | `tinfoil.social` | No |
@@ -47638,6 +47654,7 @@ Here's a list of public Fediverse services.
 | `wp-tipps.de` | No |
 | `wpbuilds.com` | Yes |
 | `wpbuilds.social` | Yes |
+| `wpcommaven.com` | No |
 | `wpcomstaging.com` | No |
 | `wpdevenv.com` | Yes |
 | `wpengine.com` | Yes |
@@ -49300,8 +49317,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,787 |
-| Normal | 35,465 |
+| Cloudflare | 13,792 |
+| Normal | 35,477 |
 
 
 </details>
