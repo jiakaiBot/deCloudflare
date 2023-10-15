@@ -21697,6 +21697,7 @@ Here's a list of public Fediverse services.
 | `kelu.one` | Yes |
 | `kelvsyc.com` | No |
 | `kember.net` | Yes |
+| `kemetic.space` | No |
 | `kemitix.net` | No |
 | `kemo.city` | No |
 | `kemo.no` | No |
@@ -49330,7 +49331,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,797 |
-| Normal | 35,484 |
+| Normal | 35,485 |
 
 
 </details>
