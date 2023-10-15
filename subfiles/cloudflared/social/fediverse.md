@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,636 |
+| com | 7,638 |
 | social | 4,612 |
 | net | 3,839 |
 | org | 2,577 |
@@ -7932,7 +7932,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -42852,6 +42852,7 @@ Here's a list of public Fediverse services.
 | `thehappy.world` | No |
 | `thehappyfamily.stream` | No |
 | `thehappyhouse.club` | No |
+| `thehappyout.com` | No |
 | `thehb.me` | No |
 | `thehftguy.com` | No |
 | `thehighlands.fyi` | No |
@@ -46816,6 +46817,7 @@ Here's a list of public Fediverse services.
 | `webcoaches.net` | No |
 | `webcommunity.club` | No |
 | `webcoven.com` | No |
+| `webd.pro` | No |
 | `webdancers.com` | No |
 | `webdebolsillo.com` | No |
 | `webdesignhighlands.co.uk` | No |
@@ -48941,6 +48943,7 @@ Here's a list of public Fediverse services.
 | `zenfolie.org` | No |
 | `zenger.nl` | No |
 | `zenmai.org` | No |
+| `zenmischief.com` | No |
 | `zenphp.com` | No |
 | `zenshin.uk` | Yes |
 | `zentea.gay` | No |
@@ -49297,8 +49300,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,786 |
-| Normal | 35,463 |
+| Cloudflare | 13,787 |
+| Normal | 35,465 |
 
 
 </details>
