@@ -724,6 +724,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlpineTechie@twitter](https://twitter.com/AlpineTechie/status/1668413247471628288) | advertise |
 | [alroy_zhang@twitter](https://twitter.com/alroy_zhang/status/1686732487748116480) | advertise |
 | [Alsadar13@twitter](https://twitter.com/Alsadar13/status/1552128101655924736) | advertise |
+| [alsahafaymon@twitter](https://twitter.com/alsahafaymon/status/1713330450947850531) | advertise |
 | [AlsamiDr@twitter](https://twitter.com/AlsamiDr/status/1390431366794432516) | advertise |
 | [AlsukaitiK17984@twitter](https://twitter.com/AlsukaitiK17984/status/1689632727342206977) | advertise |
 | [AltafBh79770188@twitter](https://twitter.com/AltafBh79770188/status/1400425714541756416) | advertise |
@@ -12374,6 +12375,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tan45474667@twitter](https://twitter.com/Tan45474667/status/1388679876987654149) | advertise |
 | [tanajimasal001@twitter](https://twitter.com/tanajimasal001/status/1644838039062212608) | advertise |
 | [tanaruk20@twitter](https://twitter.com/tanaruk20/status/1552451708206600194) | advertise |
+| [TanawatSai77409@twitter](https://twitter.com/TanawatSai77409/status/1713359130008920410) | advertise |
 | [tanbir1023@twitter](https://twitter.com/tanbir1023/status/1573021271671308288) | advertise |
 | [TANBIR9051@twitter](https://twitter.com/TANBIR9051/status/1681635875766292480) | advertise |
 | [TanEndru@twitter](https://twitter.com/TanEndru/status/1580563635981627392) | advertise |
@@ -12471,6 +12473,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ted_Chavez_@twitter](https://twitter.com/Ted_Chavez_/status/1476047426943258625) | advertise |
 | [teegrpm2@twitter](https://twitter.com/teegrpm2/status/1397899934540566532) | advertise |
 | [teei_74@twitter](https://twitter.com/teei_74/status/1578958187902164995) | advertise |
+| [Teejay8765@twitter](https://twitter.com/Teejay8765/status/1713295417515884887) | advertise |
 | [Teekhayu_@twitter](https://twitter.com/Teekhayu_/status/1532612428160462848) | advertise |
 | [teera00pai@twitter](https://twitter.com/teera00pai/status/1402357610175631361) | advertise |
 | [tegalan232@twitter](https://twitter.com/tegalan232/status/1630276145722822656) | advertise |
