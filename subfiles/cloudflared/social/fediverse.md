@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,631 |
+| com | 7,632 |
 | social | 4,612 |
 | net | 3,837 |
 | org | 2,577 |
@@ -1811,6 +1811,7 @@ Here's a list of public Fediverse services.
 | `allreadyexist.ca` | No |
 | `allrite.at` | No |
 | `allrite.au` | No |
+| `allrite.blog` | No |
 | `allrite.social` | No |
 | `allround.digital` | No |
 | `allships.run` | Yes |
@@ -26432,6 +26433,7 @@ Here's a list of public Fediverse services.
 | `mattmaber.com` | No |
 | `matto.nl` | No |
 | `mattone.net` | No |
+| `mattos.eng.br` | No |
 | `mattpedals.bike` | No |
 | `mattrnet.org` | No |
 | `mattrog.net` | No |
@@ -39688,6 +39690,7 @@ Here's a list of public Fediverse services.
 | `snow-white.xyz` | Yes |
 | `snowandtweet.jp` | No |
 | `snowberry.cc` | Yes |
+| `snowbirdofparadise.com` | No |
 | `snowcat.link` | No |
 | `snowchyld.org` | Yes |
 | `snowcloud.one` | Yes |
@@ -49286,7 +49289,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,784 |
-| Normal | 35,453 |
+| Normal | 35,456 |
 
 
 </details>
