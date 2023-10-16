@@ -128,7 +128,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | itxe.net | Yes |
 | ivnkn.xyz | Yes |
 | jackyes.ovh | No |
-| jamesxue.xyz | No |
 | jfchenier.ca | Yes |
 | joey01245.nl | No |
 | jstockley.com | Yes |
@@ -215,7 +214,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | safesurfer.io | Yes |
 | sarak.as | Yes |
 | seby.io | Yes |
-| sellan.fr | No |
 | sev.monster | No |
 | shecan.ir | No |
 | shuting.idv.tw | Yes |
@@ -274,7 +272,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 119 |
-| Normal | 135 |
+| Normal | 133 |
 
 
-### 46.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
