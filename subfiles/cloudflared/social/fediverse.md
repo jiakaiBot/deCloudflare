@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,617 |
 | net | 3,841 |
 | org | 2,583 |
-| de | 2,407 |
+| de | 2,408 |
 
 
 - Mastodon, Pleroma, etc
@@ -11934,6 +11934,7 @@ Here's a list of public Fediverse services.
 | `eineweltnetz.org` | No |
 | `einfacheswebdesign.de` | No |
 | `einfachmc.de` | No |
+| `einhornher.de` | No |
 | `einmal.jetzt` | No |
 | `einschlafen-podcast.de` | No |
 | `einstieg-in-wp.de` | No |
@@ -49375,7 +49376,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,818 |
-| Normal | 35,508 |
+| Normal | 35,509 |
 
 
 </details>
