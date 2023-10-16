@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Question regarding server stability and abusive bots](https://github.com/TeamPiped/Piped/issues/3033)
 - [Primary website directus-extensions.codihaus.io not working](https://github.com/codihaus/directus-extension-seo/issues/1)
 - [Can't connect to Quotex](https://github.com/SantiiRepair/quotexpy/issues/13)
 - [Existing tunnel error](https://github.com/brenner-tobias/ha-addons/issues/15)
