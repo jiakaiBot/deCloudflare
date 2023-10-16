@@ -973,7 +973,7 @@ Here's a list of public Fediverse services.
 | `abstract.town` | No |
 | `abstractbits.net` | Yes |
 | `abstractionleak.com` | No |
-| `abstrct.us` | No |
+| `abstrct.us` | Yes |
 | `absturztau.be` | No |
 | `absurd.social` | No |
 | `abtgender.com` | No |
@@ -7936,7 +7936,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -20725,6 +20725,7 @@ Here's a list of public Fediverse services.
 | `joewoods.dev` | Yes |
 | `joeyboon.nl` | No |
 | `joeydevilla.com` | No |
+| `joeydrew.studio` | Yes |
 | `joffreyverd.fr` | No |
 | `jogger.social` | No |
 | `johalla.org` | No |
@@ -35625,7 +35626,7 @@ Here's a list of public Fediverse services.
 | `ramda.io` | No |
 | `rameez.social` | Yes |
 | `rameeznooruddin.com` | No |
-| `ramen-fsm.eu.org` | No |
+| `ramen-fsm.eu.org` | Yes |
 | `ramendon.jp` | No |
 | `ramenramenramen.net` | Yes |
 | `ramirezzzz.org` | Yes |
@@ -49336,8 +49337,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,800 |
-| Normal | 35,488 |
+| Cloudflare | 13,804 |
+| Normal | 35,485 |
 
 
 </details>
