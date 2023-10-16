@@ -7936,7 +7936,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -37327,7 +37327,7 @@ Here's a list of public Fediverse services.
 | `s.ai` | No |
 | `s.place` | Yes |
 | `s0.is` | No |
-| `s0c.in` | No |
+| `s0c.in` | Yes |
 | `s0cial.sh` | No |
 | `s1-tastewp.com` | Yes |
 | `s10y.eu` | No |
@@ -45012,6 +45012,7 @@ Here's a list of public Fediverse services.
 | `ubuntuireland.com` | No |
 | `ubuntusucks.de` | No |
 | `uc-netcorsoft.de` | No |
+| `ucalgary.ca` | Yes |
 | `ucas.icu` | Yes |
 | `ucb.social` | Yes |
 | `ucc.asn.au` | Yes |
@@ -49333,7 +49334,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,798 |
+| Cloudflare | 13,799 |
 | Normal | 35,487 |
 
 
