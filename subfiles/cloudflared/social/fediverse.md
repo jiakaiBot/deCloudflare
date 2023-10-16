@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,649 |
-| social | 4,612 |
+| com | 7,651 |
+| social | 4,614 |
 | net | 3,841 |
 | org | 2,580 |
 | de | 2,405 |
@@ -3485,7 +3485,7 @@ Here's a list of public Fediverse services.
 | `awful.buzz` | No |
 | `awful.club` | No |
 | `awful.computer` | No |
-| `awful.monster` | No |
+| `awful.monster` | Yes |
 | `awful.systems` | No |
 | `awjeez.help` | No |
 | `awk.is` | No |
@@ -4678,6 +4678,7 @@ Here's a list of public Fediverse services.
 | `biorez.de` | No |
 | `bioxis-server.fr` | No |
 | `bipeds.onl` | No |
+| `bipedsmonitor.com` | No |
 | `biphant.social` | Yes |
 | `biplus.date` | Yes |
 | `biplus.social` | No |
@@ -12888,6 +12889,7 @@ Here's a list of public Fediverse services.
 | `exozy.me` | No |
 | `exp0.ml` | Yes |
 | `expandcontract.art` | No |
+| `expatasia.social` | No |
 | `expectnomore.net` | No |
 | `expeditionbuster.com` | No |
 | `experienceadvisors.io` | Yes |
@@ -28280,6 +28282,7 @@ Here's a list of public Fediverse services.
 | `morikka.me` | No |
 | `morime.gay` | No |
 | `morimoto.link` | Yes |
+| `moris.social` | Yes |
 | `moritoworks.com` | Yes |
 | `moritrunk.com` | Yes |
 | `moritxius.de` | Yes |
@@ -43780,6 +43783,7 @@ Here's a list of public Fediverse services.
 | `tomkrizan.com` | No |
 | `tomlawson.io` | Yes |
 | `tomlisankie.com` | No |
+| `tommacinneswriter.com` | No |
 | `tommi.space` | No |
 | `tommy.gg` | Yes |
 | `tommysblog.de` | No |
@@ -49337,8 +49341,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,804 |
-| Normal | 35,485 |
+| Cloudflare | 13,806 |
+| Normal | 35,487 |
 
 
 </details>
