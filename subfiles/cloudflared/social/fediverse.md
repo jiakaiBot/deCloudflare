@@ -27180,6 +27180,7 @@ Here's a list of public Fediverse services.
 | `micah.social` | No |
 | `micahrl.com` | No |
 | `micca.xyz` | No |
+| `micenest.xyz` | No |
 | `micha.priv.at` | No |
 | `michae.lv` | Yes |
 | `michael-anders.net` | No |
@@ -49336,7 +49337,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,800 |
-| Normal | 35,487 |
+| Normal | 35,488 |
 
 
 </details>
