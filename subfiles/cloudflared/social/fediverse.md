@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,651 |
 | social | 4,615 |
 | net | 3,841 |
-| org | 2,580 |
+| org | 2,582 |
 | de | 2,405 |
 
 
@@ -32460,6 +32460,7 @@ Here's a list of public Fediverse services.
 | `owatan.jp` | No |
 | `owenryan.us` | No |
 | `owenyoung.com` | Yes |
+| `owgf.org` | No |
 | `owlcode.tech` | No |
 | `owlparliament.com` | No |
 | `owlper.ch` | No |
@@ -41757,6 +41758,7 @@ Here's a list of public Fediverse services.
 | `t3dus.me` | No |
 | `t3n.social` | No |
 | `t3y.net` | No |
+| `t51b.org` | Yes |
 | `t612.ml` | No |
 | `t6l.de` | No |
 | `t8n.dev` | Yes |
@@ -49342,8 +49344,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,809 |
-| Normal | 35,485 |
+| Cloudflare | 13,810 |
+| Normal | 35,486 |
 
 
 </details>
