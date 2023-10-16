@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,659 |
+| com | 7,660 |
 | social | 4,617 |
 | net | 3,841 |
-| org | 2,582 |
+| org | 2,583 |
 | de | 2,407 |
 
 
@@ -11598,6 +11598,7 @@ Here's a list of public Fediverse services.
 | `earth-metal.jp` | No |
 | `earth.li` | No |
 | `earthbound.io` | No |
+| `earthbound.report` | No |
 | `earthboundvalkyrie.com` | No |
 | `earthclub.one` | No |
 | `earthlings.social` | Yes |
@@ -12229,6 +12230,7 @@ Here's a list of public Fediverse services.
 | `emptyair.space` | No |
 | `emptydoll.house` | No |
 | `emptyjar.xyz` | Yes |
+| `emptypage.jp` | No |
 | `emptystack.top` | Yes |
 | `emre.xyz` | No |
 | `emse.fr` | No |
@@ -13975,6 +13977,7 @@ Here's a list of public Fediverse services.
 | `finn.kiwi` | Yes |
 | `finndom.space` | No |
 | `finneh.xyz` | Yes |
+| `finnley.audio` | No |
 | `finny.me` | Yes |
 | `finonet.de` | No |
 | `finotto.social` | No |
@@ -20008,6 +20011,7 @@ Here's a list of public Fediverse services.
 | `iwade.net` | No |
 | `iwalt.com` | No |
 | `iwamidon.tech` | No |
+| `iwanthorror.com` | No |
 | `iwanthorror.social` | No |
 | `iwascoding.com` | No |
 | `iwasea.blue` | Yes |
@@ -25149,6 +25153,7 @@ Here's a list of public Fediverse services.
 | `madiator.cloud` | Yes |
 | `madiator.com` | Yes |
 | `madinina.social` | No |
+| `madisonbikes.org` | No |
 | `madmanmarkau.net` | No |
 | `madmoizelle.com` | Yes |
 | `madmullins.live` | Yes |
@@ -29792,7 +29797,7 @@ Here's a list of public Fediverse services.
 | `neofae.net` | No |
 | `neofrakture.club` | No |
 | `neogility.social` | No |
-| `neohobo.io` | No |
+| `neohobo.io` | Yes |
 | `neoliber.al` | No |
 | `neoliberalyse.de` | No |
 | `neoliferp.fr` | No |
@@ -36722,6 +36727,7 @@ Here's a list of public Fediverse services.
 | `robertdevore.com` | Yes |
 | `roberthollingshead.net` | Yes |
 | `robertivanc.com` | Yes |
+| `robertjames1971.blog` | No |
 | `robertmorrison.me` | No |
 | `robertobaca.com` | No |
 | `robertoszek.xyz` | No |
@@ -46808,6 +46814,7 @@ Here's a list of public Fediverse services.
 | `wauland.de` | No |
 | `waveform.social` | Yes |
 | `wavers.us` | No |
+| `wawa-huayuan.blue` | No |
 | `wawas-kingdom.com` | Yes |
 | `wawik.xyz` | No |
 | `waxandleather.com` | Yes |
@@ -48958,6 +48965,7 @@ Here's a list of public Fediverse services.
 | `zd.do` | No |
 | `zdc.zone` | No |
 | `zdenekmerta.com` | No |
+| `zdeub.eu` | No |
 | `zdf.social` | No |
 | `zdrojak.cz` | Yes |
 | `zdsfa.com` | No |
@@ -49366,8 +49374,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,817 |
-| Normal | 35,501 |
+| Cloudflare | 13,818 |
+| Normal | 35,508 |
 
 
 </details>
