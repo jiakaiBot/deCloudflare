@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,651 |
-| social | 4,614 |
+| social | 4,615 |
 | net | 3,841 |
 | org | 2,580 |
 | de | 2,405 |
@@ -5785,7 +5785,7 @@ Here's a list of public Fediverse services.
 | `browntown.dev` | Yes |
 | `browser.org` | No |
 | `browsingpachyderm.net` | No |
-| `brrrt.eu` | No |
+| `brrrt.eu` | Yes |
 | `brrt.eu` | No |
 | `brsjrn.fr` | No |
 | `brso.social` | No |
@@ -18795,7 +18795,7 @@ Here's a list of public Fediverse services.
 | `i8y.org` | No |
 | `i9n.fr` | No |
 | `ia.cafe` | No |
-| `iacast.net` | No |
+| `iacast.net` | Yes |
 | `iaccessibility.net` | No |
 | `iaccessibility.social` | No |
 | `iaconunderground.net` | No |
@@ -43833,6 +43833,7 @@ Here's a list of public Fediverse services.
 | `toolbox.wtf` | No |
 | `toolboxtalk.tech` | No |
 | `toolsforthought.rocks` | No |
+| `toolsforthought.social` | Yes |
 | `toolstack.com` | No |
 | `toomanycooks.social` | No |
 | `toomuchinformation.de` | No |
@@ -49341,8 +49342,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,806 |
-| Normal | 35,487 |
+| Cloudflare | 13,809 |
+| Normal | 35,485 |
 
 
 </details>
