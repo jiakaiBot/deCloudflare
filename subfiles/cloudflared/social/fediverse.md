@@ -17501,6 +17501,7 @@ Here's a list of public Fediverse services.
 | `hawaiidiff.com` | No |
 | `hawawa.tech` | Yes |
 | `hawco.ca` | No |
+| `hawk-tomy.dev` | Yes |
 | `hawk.life` | Yes |
 | `hawkes.cc` | Yes |
 | `hawkeyes.social` | No |
@@ -49334,7 +49335,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,799 |
+| Cloudflare | 13,800 |
 | Normal | 35,487 |
 
 
