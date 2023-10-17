@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [onError handler has error property as undefined on Cloudflare Workers](https://github.com/elysiajs/elysia/issues/272)
 - [502 error when accepting federated PM](https://github.com/matrix-org/synapse/issues/16514)
 - [api is broken](https://github.com/gnuns/allOrigins/issues/130)
 - [Config Support: Setting up NAS storage in HA](https://github.com/blakeblackshear/frigate/issues/8205)
