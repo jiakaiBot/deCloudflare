@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,744 |
 | social | 4,627 |
 | net | 3,878 |
-| org | 2,599 |
+| org | 2,600 |
 | de | 2,417 |
 
 
@@ -3042,6 +3042,7 @@ Here's a list of public Fediverse services.
 | `ash.ms` | Yes |
 | `ashaibani.com` | Yes |
 | `asharpminor.com` | No |
+| `ashchang.org` | Yes |
 | `ashdavies.dev` | Yes |
 | `asherif.xyz` | Yes |
 | `ashes.wtf` | Yes |
@@ -49717,7 +49718,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,963 |
+| Cloudflare | 13,964 |
 | Normal | 35,706 |
 
 
