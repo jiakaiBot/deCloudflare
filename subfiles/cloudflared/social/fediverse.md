@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,751 |
+| com | 7,753 |
 | social | 4,628 |
 | net | 3,879 |
 | org | 2,603 |
@@ -20565,6 +20565,7 @@ Here's a list of public Fediverse services.
 | `jeanpaulphd.com` | Yes |
 | `jears.at` | No |
 | `jebba.moe` | No |
+| `jebpages.com` | No |
 | `jeckyll.net` | No |
 | `jeda.im` | Yes |
 | `jeder.pl` | No |
@@ -31746,6 +31747,7 @@ Here's a list of public Fediverse services.
 | `ofa.dog` | No |
 | `ofadam.com` | No |
 | `ofans.site` | Yes |
+| `ofaolain.com` | Yes |
 | `ofbajor.com` | Yes |
 | `ofdan.ca` | Yes |
 | `off-ba.space` | Yes |
@@ -49742,8 +49744,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,969 |
-| Normal | 35,725 |
+| Cloudflare | 13,970 |
+| Normal | 35,726 |
 
 
 </details>
