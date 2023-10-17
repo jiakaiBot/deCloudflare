@@ -3913,6 +3913,7 @@ Do not create new issue or we will close it as duplicate.
 | [FuckThong8@twitter](https://twitter.com/FuckThong8/status/1389450074309099521) | advertise |
 | [fuckwoahfaith@twitter](https://twitter.com/fuckwoahfaith/status/1528038970273177601) | advertise |
 | [fujiwaratakuro@twitter](https://twitter.com/fujiwaratakuro/status/1663483839023554561) | advertise |
+| [FukerokogiOg@twitter](https://twitter.com/FukerokogiOg/status/1714303727409176897) | advertise |
 | [fullheartsam@twitter](https://twitter.com/fullheartsam/status/1630951465131843586) | advertise |
 | [Fullmoo48883890@twitter](https://twitter.com/Fullmoo48883890/status/1392352133417078793) | advertise |
 | [fullOspace@twitter](https://twitter.com/fullOspace/status/1378241319634493443) | advertise |
