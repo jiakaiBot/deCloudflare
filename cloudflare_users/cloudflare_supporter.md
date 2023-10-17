@@ -13779,6 +13779,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vgkud@twitter](https://twitter.com/Vgkud/status/1702124886687125878) | advertise |
 | [vgophannad@twitter](https://twitter.com/vgophannad/status/1552536474381389825) | advertise |
 | [vhcone@twitter](https://twitter.com/vhcone/status/1491930353136959490) | advertise |
+| [VHDTV2@twitter](https://twitter.com/VHDTV2/status/1714291050301542649) | advertise |
 | [vhgamer2006@twitter](https://twitter.com/vhgamer2006/status/1413728432861585411) | advertise |
 | [VHi75796203@twitter](https://twitter.com/VHi75796203/status/1545355521510686720) | advertise |
 | [VHnh11622495@twitter](https://twitter.com/VHnh11622495/status/1553810981544808449) | advertise |
