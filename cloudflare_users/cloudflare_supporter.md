@@ -2993,6 +2993,7 @@ Do not create new issue or we will close it as duplicate.
 | [devi1ish@twitter](https://twitter.com/devi1ish/status/1379733715467796480) | advertise |
 | [DeviChooki@twitter](https://twitter.com/DeviChooki/status/1395196879302914048) | advertise |
 | [devik89518310@twitter](https://twitter.com/devik89518310/status/1395808959634706433) | advertise |
+| [Devil55421367@twitter](https://twitter.com/Devil55421367/status/1714259896147874082) | advertise |
 | [devilmyo@twitter](https://twitter.com/devilmyo/status/1392724039504781312) | advertise |
 | [DevilRelentless@twitter](https://twitter.com/DevilRelentless/status/1458868886812577821) | advertise |
 | [DevilYTBVN@twitter](https://twitter.com/DevilYTBVN/status/1498285245761683460) | advertise |
@@ -5844,6 +5845,7 @@ Do not create new issue or we will close it as duplicate.
 | [JoE67626197@twitter](https://twitter.com/JoE67626197/status/1385257563546034176) | advertise |
 | [JoeAlex74770206@twitter](https://twitter.com/JoeAlex74770206/status/1388001311572987904) | advertise |
 | [joeautogarage@twitter](https://twitter.com/joeautogarage/status/1497663842184167425) | advertise |
+| [Joeelliotf5242@twitter](https://twitter.com/Joeelliotf5242/status/1714251831650521188) | advertise |
 | [Joel70742388@twitter](https://twitter.com/Joel70742388/status/1388477855760191489) | advertise |
 | [joel_se1@twitter](https://twitter.com/joel_se1/status/1534240792834981889) | advertise |
 | [Joel_Suarez32@twitter](https://twitter.com/Joel_Suarez32/status/1536450398327820288) | advertise |
@@ -11052,6 +11054,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rocker30548919@twitter](https://twitter.com/Rocker30548919/status/1393113573866582018) | advertise |
 | [rocketdotnet@twitter](https://twitter.com/rocketdotnet/status/1379017458611322884) | advertise |
 | [rockmetaljunkie@twitter](https://twitter.com/rockmetaljunkie/status/1562089198412337152) | advertise |
+| [rockminem@twitter](https://twitter.com/rockminem/status/1714035387688005785) | advertise |
 | [rockstarmaxey@twitter](https://twitter.com/rockstarmaxey/status/1621992138014859266) | advertise |
 | [Rodritwm_@twitter](https://twitter.com/Rodritwm_/status/1540411404548800513) | advertise |
 | [rogeriotaques@twitter](https://twitter.com/rogeriotaques/status/1522109600128184321) | advertise |
@@ -11975,6 +11978,7 @@ Do not create new issue or we will close it as duplicate.
 | [soeyumon15@twitter](https://twitter.com/soeyumon15/status/1404333686925840389) | advertise |
 | [SofDevelo@twitter](https://twitter.com/SofDevelo/status/1613901830639210501) | advertise |
 | [softword@twitter](https://twitter.com/softword/status/1495497302441709568) | advertise |
+| [softy_sadia@twitter](https://twitter.com/softy_sadia/status/1714130564520071586) | advertise |
 | [sogo_masoud@twitter](https://twitter.com/sogo_masoud/status/1583564042459033601) | advertise |
 | [sohail_2668@twitter](https://twitter.com/sohail_2668/status/1379913128268328961) | advertise |
 | [soh_satoh@twitter](https://twitter.com/soh_satoh/status/1686780689545678848) | advertise |
@@ -14897,6 +14901,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZtHmadt@twitter](https://twitter.com/ZtHmadt/status/1597540508779581441) | advertise |
 | [zubair123401@twitter](https://twitter.com/zubair123401/status/1633870502736297985) | advertise |
 | [ZueffCoder@twitter](https://twitter.com/ZueffCoder/status/1456673609473314818) | advertise |
+| [ZuePyaePyaeKo@twitter](https://twitter.com/ZuePyaePyaeKo/status/1714143130990022656) | advertise |
 | [ZuhatzArt@twitter](https://twitter.com/ZuhatzArt/status/1621463571337986051) | advertise |
 | [ZuHlaingWin2@twitter](https://twitter.com/ZuHlaingWin2/status/1392026289674981378) | advertise |
 | [ZukaZ4486@twitter](https://twitter.com/ZukaZ4486/status/1710000180903444710) | advertise |
