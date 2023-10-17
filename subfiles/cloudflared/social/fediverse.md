@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,745 |
+| com | 7,749 |
 | social | 4,628 |
 | net | 3,879 |
-| org | 2,600 |
+| org | 2,602 |
 | de | 2,418 |
 
 
@@ -2588,6 +2588,7 @@ Here's a list of public Fediverse services.
 | `apfelfunk.com` | No |
 | `apha.dk` | No |
 | `aphasiagoverned.com` | No |
+| `apheleia.haus` | No |
 | `aphowell.com` | No |
 | `api-ariang.ml` | No |
 | `api-d.com` | Yes |
@@ -5676,6 +5677,7 @@ Here's a list of public Fediverse services.
 | `breau.ca` | Yes |
 | `breau.fun` | No |
 | `brechanegra.net` | No |
+| `breeden.co` | No |
 | `breeze.town` | No |
 | `breeze.tube` | No |
 | `breezy.cyou` | No |
@@ -14278,6 +14280,7 @@ Here's a list of public Fediverse services.
 | `flippinflips.org` | No |
 | `flipping.rocks` | No |
 | `flipscreen.social` | Yes |
+| `flipvandevoort.com` | Yes |
 | `flirtingwithnihilism.com` | No |
 | `flisol.com.br` | No |
 | `flittermice.club` | Yes |
@@ -18102,6 +18105,7 @@ Here's a list of public Fediverse services.
 | `higumadon.club` | No |
 | `higurashi.xyz` | Yes |
 | `hihn.org` | No |
+| `hiho.jp` | No |
 | `hiimmilan.dev` | No |
 | `hijacked.download` | Yes |
 | `hijsselinckx.com` | No |
@@ -18604,6 +18608,7 @@ Here's a list of public Fediverse services.
 | `housesmith.dev` | No |
 | `houshindai.net` | Yes |
 | `houston.chat` | No |
+| `houstonpublicmedia.org` | No |
 | `houtx.social` | No |
 | `hovercat.social` | Yes |
 | `hovkluster.se` | No |
@@ -24037,6 +24042,7 @@ Here's a list of public Fediverse services.
 | `liberal.lgbt` | No |
 | `liberal.win` | No |
 | `liberated.network` | No |
+| `liberatedsystems.co.uk` | No |
 | `liberation.is` | Yes |
 | `liberatorytechnology.network` | No |
 | `liberaturadio.org` | No |
@@ -24709,6 +24715,7 @@ Here's a list of public Fediverse services.
 | `loon.club` | Yes |
 | `loonarmys.com` | No |
 | `loopa.site` | No |
+| `loopcase.com` | No |
 | `looped.network` | Yes |
 | `loopfree.tech` | No |
 | `loophole.site` | No |
@@ -25860,6 +25867,7 @@ Here's a list of public Fediverse services.
 | `martinhaynes.me` | No |
 | `martinm.de` | No |
 | `martinrue.com` | Yes |
+| `martins-almeida.com` | No |
 | `martinspielmann.de` | No |
 | `marty.tf` | Yes |
 | `martymcgui.re` | No |
@@ -27277,6 +27285,7 @@ Here's a list of public Fediverse services.
 | `meteor1.de` | No |
 | `meteora.gg` | No |
 | `meter2cash.ch` | No |
+| `metgitarenenzo.nl` | No |
 | `methamphetamine.monster` | No |
 | `methanolinjected.club` | No |
 | `method-n.com` | No |
@@ -31609,6 +31618,7 @@ Here's a list of public Fediverse services.
 | `obscura-px.social` | No |
 | `obscuravpn.io` | No |
 | `obscuritus.ca` | No |
+| `observationblogger.com` | No |
 | `observatory.blog` | No |
 | `observatory.social` | No |
 | `observer.com` | No |
@@ -37415,6 +37425,7 @@ Here's a list of public Fediverse services.
 | `rueter.nl` | No |
 | `rufposten.de` | No |
 | `rugdon.fun` | No |
+| `rugeleyrifleclub.org.uk` | No |
 | `ruglesms.xyz` | Yes |
 | `ruhr-uni-bochum.de` | No |
 | `ruhr.social` | No |
@@ -40415,6 +40426,7 @@ Here's a list of public Fediverse services.
 | `soripants.com` | No |
 | `sornieth.xyz` | No |
 | `sortiert.work` | Yes |
+| `sortpo.org` | No |
 | `soscet.network` | No |
 | `soses.ca` | No |
 | `sosh.co.uk` | No |
@@ -49725,8 +49737,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,966 |
-| Normal | 35,711 |
+| Cloudflare | 13,967 |
+| Normal | 35,722 |
 
 
 </details>
