@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Could the tiktoken dependency be optional?](https://github.com/dzhng/llm-api/issues/6)
 - [Cannot find module error](https://github.com/dqbd/tiktoken/issues/75)
 - [Windscribe helper initialize error. Please reinstall the application or contact support. - Fedora Kinoite (SilverBlue)](https://github.com/Windscribe/Desktop-App/issues/109)
 - [Jupyter Notebook/Google Colab](https://github.com/comfyanonymous/ComfyUI/issues/1765)
