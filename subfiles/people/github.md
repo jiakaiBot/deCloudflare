@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [502 error when accepting federated PM](https://github.com/matrix-org/synapse/issues/16514)
+- [api is broken](https://github.com/gnuns/allOrigins/issues/130)
 - [Config Support: Setting up NAS storage in HA](https://github.com/blakeblackshear/frigate/issues/8205)
 - [FlareSolverr Not Working](https://github.com/FlareSolverr/FlareSolverr/issues/925)
 - [Cloudflare Pages - Could not resolve "crypto"](https://github.com/sergiodxa/remix-utils/issues/262)
