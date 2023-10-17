@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,745 |
 | social | 4,628 |
-| net | 3,878 |
+| net | 3,879 |
 | org | 2,600 |
 | de | 2,418 |
 
@@ -18229,6 +18229,7 @@ Here's a list of public Fediverse services.
 | `hitoxu.com` | No |
 | `hits.social` | No |
 | `hitsuji.work` | No |
+| `hivane.net` | No |
 | `hive.institute` | No |
 | `hiveagile.com` | Yes |
 | `hiveagile.dev` | Yes |
@@ -20572,6 +20573,7 @@ Here's a list of public Fediverse services.
 | `jeffmcbride.net` | No |
 | `jeffmcneill.com` | Yes |
 | `jeffperry.me` | Yes |
+| `jeffreyfreeman.me` | No |
 | `jeffreymiller.org` | No |
 | `jeffscloud.com` | No |
 | `jeffthompson.dev` | Yes |
@@ -49723,7 +49725,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,966 |
-| Normal | 35,708 |
+| Normal | 35,710 |
 
 
 </details>
