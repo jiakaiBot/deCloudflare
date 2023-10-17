@@ -7185,6 +7185,7 @@ Do not create new issue or we will close it as duplicate.
 | [Liem36155@twitter](https://twitter.com/Liem36155/status/1479395801767899137) | advertise |
 | [liem65303490@twitter](https://twitter.com/liem65303490/status/1486855188426080258) | advertise |
 | [Liengmnv@twitter](https://twitter.com/Liengmnv/status/1618979714315718656) | advertise |
+| [LieutDickButt@twitter](https://twitter.com/LieutDickButt/status/1711866814441955572) | advertise |
 | [lievlzz@twitter](https://twitter.com/lievlzz/status/1552695988879765505) | advertise |
 | [Lieyblitz@twitter](https://twitter.com/Lieyblitz/status/1497228504760741890) | advertise |
 | [life1st_me@twitter](https://twitter.com/life1st_me/status/1549792125180530688) | advertise |
