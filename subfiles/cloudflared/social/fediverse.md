@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,755 |
+| com | 7,756 |
 | social | 4,628 |
 | net | 3,879 |
 | org | 2,603 |
@@ -17193,6 +17193,7 @@ Here's a list of public Fediverse services.
 | `ha-prod.tk` | No |
 | `haacksnetworking.com` | No |
 | `haacksnetworking.org` | No |
+| `haaien.xyz` | Yes |
 | `haas-gottmadingen.de` | Yes |
 | `haasn.xyz` | No |
 | `haavard.name` | No |
@@ -26646,6 +26647,7 @@ Here's a list of public Fediverse services.
 | `matthewbog.art` | No |
 | `matthewbogart.com` | No |
 | `matthewbogart.live` | No |
+| `matthewculnane.co.uk` | Yes |
 | `matthewedavis.online` | No |
 | `matthewfl.com` | No |
 | `matthewgall.chat` | Yes |
@@ -42730,6 +42732,7 @@ Here's a list of public Fediverse services.
 | `teleassist.fr` | No |
 | `telebit.io` | No |
 | `telecom.moe` | Yes |
+| `teledyn.com` | No |
 | `telefant.net` | No |
 | `telefreizeit.de` | No |
 | `telegrafverket.cc` | Yes |
@@ -49748,8 +49751,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,973 |
-| Normal | 35,727 |
+| Cloudflare | 13,975 |
+| Normal | 35,728 |
 
 
 </details>
