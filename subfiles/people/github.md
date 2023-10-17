@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Windscribe helper initialize error. Please reinstall the application or contact support. - Fedora Kinoite (SilverBlue)](https://github.com/Windscribe/Desktop-App/issues/109)
+- [Jupyter Notebook/Google Colab](https://github.com/comfyanonymous/ComfyUI/issues/1765)
 - [Question regarding server stability and abusive bots](https://github.com/TeamPiped/Piped/issues/3033)
 - [Primary website directus-extensions.codihaus.io not working](https://github.com/codihaus/directus-extension-seo/issues/1)
 - [Can't connect to Quotex](https://github.com/SantiiRepair/quotexpy/issues/13)
