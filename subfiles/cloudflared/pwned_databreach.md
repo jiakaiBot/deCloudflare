@@ -49,6 +49,7 @@ Here's a list of breached sites.
 | AmartFurniture (Amart Furniture) | 108,940 | Yes |
 | Ancestry | 297,806 | Yes |
 | AndroidForums (Android Forums) | 745,355 | No |
+| AndroidLista | 6,640,643 | No |
 | AnimalJam (Animal Jam) | 7,104,998 | Yes |
 | AnimeGame | 1,431,378 | No |
 | AnimePlanet (Anime-Planet) | 368,507 | Yes |
@@ -701,9 +702,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 399 | 4,486,911,860 |
-| Normal | 280 | 4,491,632,982 |
+| Normal | 281 | 4,498,273,625 |
 
 
 
-### 58.8% of breached sites (pwned sites) are using Cloudflare.
-### 50% of leaked accounts are on Cloudflare sites.
+### 58.7% of breached sites (pwned sites) are using Cloudflare.
+### 49.9% of leaked accounts are on Cloudflare sites.
