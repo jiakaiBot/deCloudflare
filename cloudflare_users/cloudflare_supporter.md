@@ -844,6 +844,7 @@ Do not create new issue or we will close it as duplicate.
 | [anadeau@twitter](https://twitter.com/anadeau/status/1443984356448550916) | advertise |
 | [anakaoka@twitter](https://twitter.com/anakaoka/status/1583527017961893888) | advertise |
 | [Anan29081@twitter](https://twitter.com/Anan29081/status/1400126368101244931) | advertise |
+| [anandbhupatiraz@twitter](https://twitter.com/anandbhupatiraz/status/1714362879976030392) | advertise |
 | [Ananthu94431440@twitter](https://twitter.com/Ananthu94431440/status/1381601689925414916) | advertise |
 | [anas639623@twitter](https://twitter.com/anas639623/status/1380424790897483776) | advertise |
 | [AnasAfidee46664@twitter](https://twitter.com/AnasAfidee46664/status/1674833507053604866) | advertise |
