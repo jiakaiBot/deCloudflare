@@ -16209,6 +16209,7 @@ Here's a list of public Fediverse services.
 | `girino.org` | Yes |
 | `girl-is.gay` | No |
 | `girlc.at` | Yes |
+| `girlcock.ceo` | No |
 | `girlcock.club` | No |
 | `girlcock.eu` | No |
 | `girldick.gay` | No |
@@ -49725,7 +49726,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,966 |
-| Normal | 35,710 |
+| Normal | 35,711 |
 
 
 </details>
