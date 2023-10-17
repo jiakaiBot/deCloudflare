@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,749 |
+| com | 7,751 |
 | social | 4,628 |
 | net | 3,879 |
-| org | 2,602 |
-| de | 2,418 |
+| org | 2,603 |
+| de | 2,419 |
 
 
 - Mastodon, Pleroma, etc
@@ -15806,6 +15806,7 @@ Here's a list of public Fediverse services.
 | `gealdor.space` | No |
 | `geanix.com` | No |
 | `gear.pictures` | Yes |
+| `gearandgrit.com` | Yes |
 | `gearfamily.net` | No |
 | `gearheads.social` | Yes |
 | `gearlandia.haus` | Yes |
@@ -17781,6 +17782,7 @@ Here's a list of public Fediverse services.
 | `heidekrautbahn-kirchen.de` | No |
 | `height.social` | No |
 | `heigl.org` | No |
+| `heiheihei.ca` | No |
 | `heiji.me` | No |
 | `heijmans.social` | Yes |
 | `heiki-hecchara.net` | Yes |
@@ -22031,6 +22033,7 @@ Here's a list of public Fediverse services.
 | `kfitz.info` | No |
 | `kfogel.org` | No |
 | `kfz-pfeiffer.com` | No |
+| `kg-thum.de` | No |
 | `kg2.com` | Yes |
 | `kghorvath.com` | Yes |
 | `kglcd.ca` | No |
@@ -37501,6 +37504,7 @@ Here's a list of public Fediverse services.
 | `russtodon.ru` | Yes |
 | `russwinn.org` | No |
 | `russwurm.org` | No |
+| `rust-lang.org` | No |
 | `rustbelt.city` | Yes |
 | `ruste.red` | Yes |
 | `rustearain.space` | Yes |
@@ -43169,6 +43173,7 @@ Here's a list of public Fediverse services.
 | `theergold.com` | Yes |
 | `theeum.org` | No |
 | `theexpan.se` | No |
+| `theexplorographer.com` | Yes |
 | `thefaith.social` | No |
 | `thefamily.rocks` | No |
 | `thefamilycloud.org` | No |
@@ -49737,8 +49742,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,967 |
-| Normal | 35,722 |
+| Cloudflare | 13,969 |
+| Normal | 35,725 |
 
 
 </details>
