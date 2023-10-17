@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,753 |
+| com | 7,754 |
 | social | 4,628 |
 | net | 3,879 |
 | org | 2,603 |
@@ -255,6 +255,7 @@ Here's a list of public Fediverse services.
 | `13ad.de` | No |
 | `13bells.com` | No |
 | `141.lv` | No |
+| `14141004.xyz` | Yes |
 | `143420.xyz` | Yes |
 | `1435.es` | No |
 | `14kw13.com` | Yes |
@@ -14312,6 +14313,7 @@ Here's a list of public Fediverse services.
 | `flopnet.eu` | No |
 | `floppy.ml` | No |
 | `floppy.tokyo` | No |
+| `floraguilleries.cat` | No |
 | `floral.town` | No |
 | `floressencia.social` | No |
 | `florian-brinker.de` | No |
@@ -20860,6 +20862,7 @@ Here's a list of public Fediverse services.
 | `jo-dev.xyz` | Yes |
 | `jo3qma.com` | Yes |
 | `joachimweber.name` | No |
+| `joanathx.com` | Yes |
 | `joanmastodon.blog` | No |
 | `joannetheisen.com` | No |
 | `joaocosta.eu` | No |
@@ -49744,8 +49747,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,970 |
-| Normal | 35,726 |
+| Cloudflare | 13,972 |
+| Normal | 35,727 |
 
 
 </details>
