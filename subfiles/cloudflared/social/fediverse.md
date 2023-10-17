@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,628 |
 | net | 3,879 |
 | org | 2,603 |
-| de | 2,419 |
+| de | 2,420 |
 
 
 - Mastodon, Pleroma, etc
@@ -4696,6 +4696,7 @@ Here's a list of public Fediverse services.
 | `binfalse.de` | No |
 | `binfish.jp` | No |
 | `bingerin.de` | No |
+| `bingo-ev.de` | No |
 | `bingzi.online` | Yes |
 | `binky.fish` | Yes |
 | `binocl.art` | No |
@@ -35731,6 +35732,7 @@ Here's a list of public Fediverse services.
 | `raccoon.network` | No |
 | `raccoon.place` | No |
 | `raccoon.quest` | No |
+| `raccoon.zone` | No |
 | `racem.us` | Yes |
 | `racer159.com` | No |
 | `racf.guru` | Yes |
@@ -41704,6 +41706,7 @@ Here's a list of public Fediverse services.
 | `superduper.space` | No |
 | `superextragood.com` | No |
 | `superflue.no` | No |
+| `superfun.club` | Yes |
 | `supergood.social` | No |
 | `superhamster.tk` | No |
 | `superheronecromancer.games` | No |
@@ -49751,8 +49754,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,975 |
-| Normal | 35,728 |
+| Cloudflare | 13,976 |
+| Normal | 35,730 |
 
 
 </details>
