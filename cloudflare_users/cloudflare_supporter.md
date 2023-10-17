@@ -12526,6 +12526,7 @@ Do not create new issue or we will close it as duplicate.
 | [TerrickLoren@twitter](https://twitter.com/TerrickLoren/status/1569206845163839489) | advertise |
 | [TersakitiNep@twitter](https://twitter.com/TersakitiNep/status/1493721965885988867) | advertise |
 | [tertawalepas_@twitter](https://twitter.com/tertawalepas_/status/1552319664797421568) | advertise |
+| [testusuke@twitter](https://twitter.com/testusuke/status/1714171123259339187) | advertise |
 | [TetTunLin1@twitter](https://twitter.com/TetTunLin1/status/1389947825602002945) | advertise |
 | [teukuumar8@twitter](https://twitter.com/teukuumar8/status/1567861215686463489) | advertise |
 | [tex113399@twitter](https://twitter.com/tex113399/status/1644988928305532929) | advertise |
