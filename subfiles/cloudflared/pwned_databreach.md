@@ -455,6 +455,7 @@ Here's a list of breached sites.
 | Pemiblanc | 110,964,206 | No |
 | PeoplesEnergy (People's Energy) | 358,822 | No |
 | PetFlow | 990,919 | Yes |
+| Phoenix | 74,776 | Yes |
 | PhoneHouse (Phone House España) | 5,223,350 | Yes |
 | PixelFederation (Pixel Federation) | 38,108 | Yes |
 | Pixlr | 1,906,808 | No |
@@ -638,7 +639,7 @@ Here's a list of breached sites.
 | WeHeartIt (We Heart It) | 8,600,635 | Yes |
 | WeLeakInfo | 11,788 | Yes |
 | WedMeGood | 1,306,723 | No |
-| Weee | 1,117,405 | No |
+| Weee | 1,117,405 | Yes |
 | Wendys (Wendy's) | 52,485 | No |
 | WhiteRoom (Fashion Nexus) | 1,279,263 | No |
 | Whitepages | 11,657,763 | Yes |
@@ -699,10 +700,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 397 | 4,485,719,679 |
-| Normal | 281 | 4,492,750,387 |
+| Cloudflare | 399 | 4,486,911,860 |
+| Normal | 280 | 4,491,632,982 |
 
 
 
-### 58.6% of breached sites (pwned sites) are using Cloudflare.
+### 58.8% of breached sites (pwned sites) are using Cloudflare.
 ### 50% of leaked accounts are on Cloudflare sites.
