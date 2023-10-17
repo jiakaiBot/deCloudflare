@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,754 |
+| com | 7,755 |
 | social | 4,628 |
 | net | 3,879 |
 | org | 2,603 |
@@ -39545,6 +39545,7 @@ Here's a list of public Fediverse services.
 | `sirquen.fr` | No |
 | `sirrahd.com` | Yes |
 | `sirscythe.net` | Yes |
+| `sirtaptap.com` | Yes |
 | `siru.tokyo` | Yes |
 | `sirward.com` | No |
 | `sisao.de` | No |
@@ -49747,7 +49748,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,972 |
+| Cloudflare | 13,973 |
 | Normal | 35,727 |
 
 
