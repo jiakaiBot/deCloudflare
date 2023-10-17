@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,744 |
-| social | 4,627 |
+| com | 7,745 |
+| social | 4,628 |
 | net | 3,878 |
 | org | 2,600 |
-| de | 2,417 |
+| de | 2,418 |
 
 
 - Mastodon, Pleroma, etc
@@ -179,6 +179,7 @@ Here's a list of public Fediverse services.
 | `0xfeedc0.de` | No |
 | `0xff.cafe` | No |
 | `0xff.social` | Yes |
+| `0xspace.social` | No |
 | `0xv.eu` | No |
 | `10-reasons.com` | Yes |
 | `1000-7.xn--p1ai` | Yes |
@@ -2377,7 +2378,7 @@ Here's a list of public Fediverse services.
 | `annasvavrum.com` | No |
 | `annathepiper.org` | No |
 | `annetteschwindt.de` | No |
-| `annielabs.xyz` | No |
+| `annielabs.xyz` | Yes |
 | `annihilation.social` | No |
 | `anniqa.com` | No |
 | `annleckie.com` | No |
@@ -6179,6 +6180,7 @@ Here's a list of public Fediverse services.
 | `c0de.works` | Yes |
 | `c0debabe.com` | No |
 | `c0ffee.net` | No |
+| `c11um.de` | No |
 | `c1710.de` | No |
 | `c18l.com` | Yes |
 | `c1t0d0.ch` | No |
@@ -39062,6 +39064,7 @@ Here's a list of public Fediverse services.
 | `shiftyeyed.net` | No |
 | `shigadon.com` | No |
 | `shigezen.com` | No |
+| `shiggy.fun` | Yes |
 | `shigoto.site` | No |
 | `shigusegubu.club` | No |
 | `shigyoudon.jp` | No |
@@ -43339,6 +43342,7 @@ Here's a list of public Fediverse services.
 | `theokadas.com` | No |
 | `theoks.net` | Yes |
 | `theoldergamers.social` | No |
+| `theologicalscribbles.com` | No |
 | `theologisches-forum.de` | No |
 | `theolympiastandard.com` | No |
 | `theomega.zone` | Yes |
@@ -49718,8 +49722,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,964 |
-| Normal | 35,706 |
+| Cloudflare | 13,966 |
+| Normal | 35,708 |
 
 
 </details>
