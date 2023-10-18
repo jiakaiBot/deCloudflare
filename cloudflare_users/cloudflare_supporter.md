@@ -1629,6 +1629,7 @@ Do not create new issue or we will close it as duplicate.
 | [bardsama@twitter](https://twitter.com/bardsama/status/1628423591850291201) | advertise |
 | [BarentoOl@twitter](https://twitter.com/BarentoOl/status/1563561876738682883) | advertise |
 | [barkleesanders@twitter](https://twitter.com/barkleesanders/status/1670332072253353985) | advertise |
+| [BarmiNay26998@twitter](https://twitter.com/BarmiNay26998/status/1714645469509353820) | advertise |
 | [Barnsdale1987@twitter](https://twitter.com/Barnsdale1987/status/1665858534083362818) | advertise |
 | [Barryalpha191@twitter](https://twitter.com/Barryalpha191/status/1501295856049217538) | advertise |
 | [barterSpot2023@twitter](https://twitter.com/barterSpot2023/status/1712010811420389528) | advertise |
