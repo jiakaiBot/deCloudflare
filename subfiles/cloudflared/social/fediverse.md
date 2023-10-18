@@ -13433,6 +13433,7 @@ Here's a list of public Fediverse services.
 | `feathered.space` | Yes |
 | `featherless.design` | Yes |
 | `feathers.link` | No |
+| `feathertrail.fun` | Yes |
 | `featyre.xyz` | Yes |
 | `february.social` | No |
 | `fed-it.nu` | No |
@@ -49790,7 +49791,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,983 |
+| Cloudflare | 13,984 |
 | Normal | 35,759 |
 
 
