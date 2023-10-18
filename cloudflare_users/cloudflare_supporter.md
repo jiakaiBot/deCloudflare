@@ -5616,6 +5616,7 @@ Do not create new issue or we will close it as duplicate.
 | [jamal123ak47@twitter](https://twitter.com/jamal123ak47/status/1705508097790546216) | advertise |
 | [jamalaali3122@twitter](https://twitter.com/jamalaali3122/status/1527075258087395329) | advertise |
 | [JamalKaksouri@twitter](https://twitter.com/JamalKaksouri/status/1417143011771928581) | advertise |
+| [jamallovred@twitter](https://twitter.com/jamallovred/status/1714642536223088688) | advertise |
 | [Jambazi14@twitter](https://twitter.com/Jambazi14/status/1550803302350299143) | advertise |
 | [JameHaru@twitter](https://twitter.com/JameHaru/status/1381285784913727492) | advertise |
 | [jamehpor@twitter](https://twitter.com/jamehpor/status/1576812219903668224) | advertise |
