@@ -5857,6 +5857,7 @@ Do not create new issue or we will close it as duplicate.
 | [joepablo6331@twitter](https://twitter.com/joepablo6331/status/1667587863557595136) | advertise |
 | [joeri157@twitter](https://twitter.com/joeri157/status/1539734867742785537) | advertise |
 | [joey3982@twitter](https://twitter.com/joey3982/status/1546517069428322304) | advertise |
+| [joey51674063@twitter](https://twitter.com/joey51674063/status/1714552605802955133) | advertise |
 | [joeyboli@twitter](https://twitter.com/joeyboli/status/1559915163897266176) | advertise |
 | [joeydakers_87@twitter](https://twitter.com/joeydakers_87/status/1543551599116705794) | advertise |
 | [joeysmi02926335@twitter](https://twitter.com/joeysmi02926335/status/1398519469115387904) | advertise |
@@ -7517,6 +7518,7 @@ Do not create new issue or we will close it as duplicate.
 | [LuX72073592@twitter](https://twitter.com/LuX72073592/status/1394999050533969925) | advertise |
 | [luxtranios@twitter](https://twitter.com/luxtranios/status/1492885173062418432) | advertise |
 | [luzeatweet@twitter](https://twitter.com/luzeatweet/status/1392904632427556868) | advertise |
+| [lu_emad@twitter](https://twitter.com/lu_emad/status/1714452693173874726) | advertise |
 | [Lv41Rebecca@twitter](https://twitter.com/Lv41Rebecca/status/1598743180475863074) | advertise |
 | [LVhJK2Tw3DHxWP2@twitter](https://twitter.com/LVhJK2Tw3DHxWP2/status/1404115950467620867) | advertise |
 | [lvitanh72337546@twitter](https://twitter.com/lvitanh72337546/status/1401878629563305984) | advertise |
@@ -13335,6 +13337,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrngHuc10@twitter](https://twitter.com/TrngHuc10/status/1389024660059164673) | advertise |
 | [TrnGing4@twitter](https://twitter.com/TrnGing4/status/1377981126396944384) | advertise |
 | [Trnginh10@twitter](https://twitter.com/Trnginh10/status/1378251062927257600) | advertise |
+| [TrngKhcVin1@twitter](https://twitter.com/TrngKhcVin1/status/1714531884527751221) | advertise |
 | [TrngKhnhAn1@twitter](https://twitter.com/TrngKhnhAn1/status/1394897824018419714) | advertise |
 | [TrngNgcTint1@twitter](https://twitter.com/TrngNgcTint1/status/1394665352219435013) | advertise |
 | [TrngNghaNH2@twitter](https://twitter.com/TrngNghaNH2/status/1406533332423233540) | advertise |
