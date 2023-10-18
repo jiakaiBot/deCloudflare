@@ -21499,6 +21499,7 @@ Here's a list of public Fediverse services.
 | `kakujin.network` | No |
 | `kakun.jp` | No |
 | `kakunpc.com` | Yes |
+| `kakurady.ca` | No |
 | `kalabradas.club` | No |
 | `kalaclista.com` | Yes |
 | `kalakukko.social` | Yes |
@@ -27850,6 +27851,7 @@ Here's a list of public Fediverse services.
 | `miship.space` | Yes |
 | `mishkacloud.fun` | No |
 | `misjump.net` | No |
+| `misk.cf` | No |
 | `miskatonic.cymru` | Yes |
 | `miski.st` | Yes |
 | `miso.monster` | No |
@@ -49761,7 +49763,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,977 |
-| Normal | 35,735 |
+| Normal | 35,737 |
 
 
 </details>
