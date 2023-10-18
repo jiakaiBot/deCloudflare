@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,757 |
+| com | 7,756 |
 | social | 4,628 |
 | net | 3,879 |
 | org | 2,603 |
@@ -5640,7 +5640,7 @@ Here's a list of public Fediverse services.
 | `brantley.world` | No |
 | `brap.foundation` | No |
 | `brap.party` | No |
-| `brapbarn.farm` | Yes |
+| `brapbarn.farm` | No |
 | `brash.social` | No |
 | `brasileiros.social` | Yes |
 | `brass.host` | Yes |
@@ -20427,7 +20427,6 @@ Here's a list of public Fediverse services.
 | `jaranmiller.com` | Yes |
 | `jardanet.com` | No |
 | `jardo.dev` | No |
-| `jaredweisinger.com` | Yes |
 | `jaredwsmith.com` | No |
 | `jaredzimmerman.com` | Yes |
 | `jarkkaa.fi` | No |
@@ -49755,8 +49754,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,977 |
-| Normal | 35,730 |
+| Cloudflare | 13,975 |
+| Normal | 35,731 |
 
 
 </details>
