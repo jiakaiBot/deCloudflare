@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,761 |
+| com | 7,762 |
 | social | 4,628 |
 | net | 3,881 |
 | org | 2,608 |
@@ -14486,6 +14486,7 @@ Here's a list of public Fediverse services.
 | `foodienetwork.online` | No |
 | `foodin.ga` | No |
 | `foodon.jp` | No |
+| `foodsharing.lu` | No |
 | `foofus.com` | No |
 | `foojay.social` | No |
 | `foolbazar.eu` | No |
@@ -35808,6 +35809,7 @@ Here's a list of public Fediverse services.
 | `radionlya.casa` | No |
 | `radiopatio.social` | No |
 | `radiorandom.org` | No |
+| `radiorfa.com` | Yes |
 | `radioriquelme.cl` | Yes |
 | `radiosdigitales.es` | No |
 | `radiosocial.de` | No |
@@ -49784,8 +49786,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,983 |
-| Normal | 35,753 |
+| Cloudflare | 13,984 |
+| Normal | 35,754 |
 
 
 </details>
