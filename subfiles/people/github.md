@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cant login in WAX account with waxjs](https://github.com/worldwide-asset-exchange/waxjs/issues/170)
 - [files.create() requires purpose param, even though it's supposed to be used only for specifying 'fine-tuning'](https://github.com/openai/openai-node/issues/387)
 - [CloudFlare Cloudflare Support Website having service issues](https://github.com/hinoshiba/news/issues/4914)
 - [CloudFlare Cloudflare Support Website having service issues](https://github.com/SecOpsNews/news/issues/20213)
