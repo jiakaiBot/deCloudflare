@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Support Website having service issues](https://github.com/hinoshiba/news/issues/4914)
+- [CloudFlare Cloudflare Support Website having service issues](https://github.com/SecOpsNews/news/issues/20213)
 - [Cloudflare R2 无法正常上传图片](https://github.com/halo-dev/plugin-s3/issues/88)
 - [Homeassistant upgrade issue with ACPI](https://github.com/home-assistant/operating-system/issues/2838)
 - [onError handler has error property as undefined on Cloudflare Workers](https://github.com/elysiajs/elysia/issues/272)
