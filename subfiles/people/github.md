@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare R2 无法正常上传图片](https://github.com/halo-dev/plugin-s3/issues/88)
 - [Homeassistant upgrade issue with ACPI](https://github.com/home-assistant/operating-system/issues/2838)
 - [onError handler has error property as undefined on Cloudflare Workers](https://github.com/elysiajs/elysia/issues/272)
 - [502 error when accepting federated PM](https://github.com/matrix-org/synapse/issues/16514)
