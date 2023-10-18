@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Homeassistant upgrade issue with ACPI](https://github.com/home-assistant/operating-system/issues/2838)
 - [onError handler has error property as undefined on Cloudflare Workers](https://github.com/elysiajs/elysia/issues/272)
 - [502 error when accepting federated PM](https://github.com/matrix-org/synapse/issues/16514)
 - [api is broken](https://github.com/gnuns/allOrigins/issues/130)
