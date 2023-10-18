@@ -7993,7 +7993,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -21781,6 +21781,7 @@ Here's a list of public Fediverse services.
 | `kbin.buzz` | No |
 | `kbin.cafe` | Yes |
 | `kbin.chat` | Yes |
+| `kbin.com.au` | No |
 | `kbin.dk` | No |
 | `kbin.lgbt` | Yes |
 | `kbin.life` | Yes |
@@ -34147,6 +34148,7 @@ Here's a list of public Fediverse services.
 | `planningtransport.co.uk` | No |
 | `plant-based.place` | Yes |
 | `plantcm.com` | No |
+| `plantdata.io` | No |
 | `plantex.top` | No |
 | `plantfriends.xyz` | Yes |
 | `plantroon.com` | No |
@@ -49755,8 +49757,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,975 |
-| Normal | 35,732 |
+| Cloudflare | 13,976 |
+| Normal | 35,733 |
 
 
 </details>
