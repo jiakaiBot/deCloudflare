@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,758 |
+| com | 7,761 |
 | social | 4,628 |
-| net | 3,880 |
-| org | 2,606 |
-| de | 2,421 |
+| net | 3,881 |
+| org | 2,608 |
+| de | 2,422 |
 
 
 - Mastodon, Pleroma, etc
@@ -5328,6 +5328,7 @@ Here's a list of public Fediverse services.
 | `bolha.review` | Yes |
 | `bolha.social` | Yes |
 | `bolha.tec.br` | No |
+| `bolha.tube` | No |
 | `bolha.us` | Yes |
 | `boliston.com` | No |
 | `bolitoglossa.com` | No |
@@ -9065,6 +9066,7 @@ Here's a list of public Fediverse services.
 | `cyberdelia.space` | Yes |
 | `cyberdolphin.space` | No |
 | `cyberdruids.club` | No |
+| `cyberduck.io` | No |
 | `cyberdungeon.de` | No |
 | `cyberendroit.net` | No |
 | `cyberfarmer.xyz` | No |
@@ -17300,6 +17302,7 @@ Here's a list of public Fediverse services.
 | `hackthebox.social` | No |
 | `hacktheplanet.be` | No |
 | `hacktheplanet.com.au` | No |
+| `hackthepromise.org` | No |
 | `hackthesound.com` | Yes |
 | `hackthis.space` | No |
 | `hacktivis.me` | No |
@@ -20433,6 +20436,7 @@ Here's a list of public Fediverse services.
 | `jaranmiller.com` | Yes |
 | `jardanet.com` | No |
 | `jardo.dev` | No |
+| `jaredweisinger.com` | Yes |
 | `jaredwsmith.com` | No |
 | `jaredzimmerman.com` | Yes |
 | `jarkkaa.fi` | No |
@@ -26750,6 +26754,7 @@ Here's a list of public Fediverse services.
 | `maximejohnson.com` | No |
 | `maximesourdin.ovh` | No |
 | `maximesrd.ovh` | No |
+| `maximevende.org` | No |
 | `maximus.uy` | No |
 | `maxlaumeister.com` | No |
 | `maxmaxmaxmaxmax.com` | Yes |
@@ -29874,6 +29879,7 @@ Here's a list of public Fediverse services.
 | `neb.host` | No |
 | `nebbia.fail` | No |
 | `nebby.de` | No |
+| `nebenquest.de` | No |
 | `nebisoftware.com` | Yes |
 | `nebu.social` | No |
 | `nebula.lgbt` | No |
@@ -31146,6 +31152,7 @@ Here's a list of public Fediverse services.
 | `notdigg.com` | No |
 | `note.computer` | No |
 | `note.rodeo` | No |
+| `noteblok.net` | No |
 | `notebook.yokohama` | No |
 | `notec.org` | No |
 | `notesfrommosquitohill.com` | No |
@@ -35335,6 +35342,7 @@ Here's a list of public Fediverse services.
 | `pxlmo.net` | No |
 | `pxtech.systems` | No |
 | `pycodon.fr` | No |
+| `pycomtois.com` | No |
 | `pygos.space` | No |
 | `pym.industries` | Yes |
 | `pynews.com.br` | Yes |
@@ -43519,6 +43527,7 @@ Here's a list of public Fediverse services.
 | `thetake.zone` | No |
 | `thetalestable.com` | No |
 | `thetalkingproject.org` | No |
+| `thetandom.com` | No |
 | `thetaoist.online` | Yes |
 | `thetarecords.de` | No |
 | `thetavern.social` | No |
@@ -46296,6 +46305,7 @@ Here's a list of public Fediverse services.
 | `veg.ms` | No |
 | `vegafjord.me` | No |
 | `vegaia.social` | Yes |
+| `vegalicious.recipes` | Yes |
 | `vegan.im.it` | No |
 | `veganact.org.au` | No |
 | `veganbtw.net` | No |
@@ -46736,6 +46746,7 @@ Here's a list of public Fediverse services.
 | `void.monster` | Yes |
 | `void.news` | No |
 | `void.rehab` | No |
+| `voidconspiracy.band` | Yes |
 | `voidconspiracy.com` | No |
 | `voided.ee` | No |
 | `voided.space` | Yes |
@@ -47834,6 +47845,7 @@ Here's a list of public Fediverse services.
 | `witchgirls.moe` | No |
 | `witchhat.house` | No |
 | `witchlounge.ca` | No |
+| `witchserver.jp` | Yes |
 | `witchy.ink` | Yes |
 | `witchy.social` | Yes |
 | `witchy.space` | No |
@@ -49772,8 +49784,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,979 |
-| Normal | 35,745 |
+| Cloudflare | 13,983 |
+| Normal | 35,753 |
 
 
 </details>
