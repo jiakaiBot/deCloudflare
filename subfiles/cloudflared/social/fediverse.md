@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,756 |
+| com | 7,757 |
 | social | 4,628 |
 | net | 3,880 |
 | org | 2,604 |
@@ -11324,6 +11324,7 @@ Here's a list of public Fediverse services.
 | `droitdebout.fr` | No |
 | `dromaeosaur.cloud` | No |
 | `dromografos.news` | No |
+| `dromografos.report` | No |
 | `dronehost.space` | No |
 | `dronesocial.me` | No |
 | `droogers.eu` | No |
@@ -20427,6 +20428,7 @@ Here's a list of public Fediverse services.
 | `jaranmiller.com` | Yes |
 | `jardanet.com` | No |
 | `jardo.dev` | No |
+| `jaredweisinger.com` | Yes |
 | `jaredwsmith.com` | No |
 | `jaredzimmerman.com` | Yes |
 | `jarkkaa.fi` | No |
@@ -49758,8 +49760,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,976 |
-| Normal | 35,734 |
+| Cloudflare | 13,977 |
+| Normal | 35,735 |
 
 
 </details>
