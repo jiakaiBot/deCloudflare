@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,757 |
+| com | 7,756 |
 | social | 4,628 |
-| net | 3,879 |
+| net | 3,880 |
 | org | 2,603 |
 | de | 2,420 |
 
@@ -20427,7 +20427,6 @@ Here's a list of public Fediverse services.
 | `jaranmiller.com` | Yes |
 | `jardanet.com` | No |
 | `jardo.dev` | No |
-| `jaredweisinger.com` | Yes |
 | `jaredwsmith.com` | No |
 | `jaredzimmerman.com` | Yes |
 | `jarkkaa.fi` | No |
@@ -31870,6 +31869,7 @@ Here's a list of public Fediverse services.
 | `oisin.blog` | No |
 | `oisux.org` | No |
 | `oit-unofficial.tokyo` | No |
+| `oita-pikapika.net` | No |
 | `ojamajo.moe` | No |
 | `ojitabi.club` | No |
 | `ojour.de` | No |
@@ -49755,8 +49755,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,976 |
-| Normal | 35,731 |
+| Cloudflare | 13,975 |
+| Normal | 35,732 |
 
 
 </details>
