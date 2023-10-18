@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [files.create() requires purpose param, even though it's supposed to be used only for specifying 'fine-tuning'](https://github.com/openai/openai-node/issues/387)
 - [CloudFlare Cloudflare Support Website having service issues](https://github.com/hinoshiba/news/issues/4914)
 - [CloudFlare Cloudflare Support Website having service issues](https://github.com/SecOpsNews/news/issues/20213)
 - [Cloudflare R2 无法正常上传图片](https://github.com/halo-dev/plugin-s3/issues/88)
