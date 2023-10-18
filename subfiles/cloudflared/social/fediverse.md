@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,762 |
+| com | 7,764 |
 | social | 4,628 |
 | net | 3,881 |
 | org | 2,608 |
-| de | 2,422 |
+| de | 2,423 |
 
 
 - Mastodon, Pleroma, etc
@@ -7304,6 +7304,7 @@ Here's a list of public Fediverse services.
 | `chrispy.social` | No |
 | `chrisradford.social` | No |
 | `chrissabato.com` | No |
+| `chrissussmann.com` | No |
 | `christenson.family` | Yes |
 | `christenson.social` | Yes |
 | `christhurber.dev` | Yes |
@@ -12183,6 +12184,7 @@ Here's a list of public Fediverse services.
 | `ellas.online` | No |
 | `elle.garden` | No |
 | `elle.systems` | No |
+| `ellemef.com` | No |
 | `ellenburg.computer` | Yes |
 | `ellenburg.org` | Yes |
 | `ellie.chat` | No |
@@ -22743,7 +22745,7 @@ Here's a list of public Fediverse services.
 | `kotobaphil-mtdn.eu` | No |
 | `kotobar.com` | No |
 | `kotocoop.org` | No |
-| `kotonoha.cafe` | Yes |
+| `kotonoha.cafe` | No |
 | `kottman.xyz` | No |
 | `kotur.org` | No |
 | `kotwica.me` | Yes |
@@ -35770,6 +35772,7 @@ Here's a list of public Fediverse services.
 | `raconteur.ink` | No |
 | `racoon.social` | No |
 | `racquetbookclub.com` | No |
+| `rad-kreuznach.de` | No |
 | `radar.fail` | No |
 | `radbox.org` | No |
 | `raddemo.host` | No |
@@ -48777,6 +48780,7 @@ Here's a list of public Fediverse services.
 | `yakitamago.info` | No |
 | `yakka.art` | Yes |
 | `yakker.app` | Yes |
+| `yakovlev.me` | No |
 | `yakshed.org` | Yes |
 | `yakult.style` | No |
 | `yakumo.foundation` | Yes |
@@ -49786,8 +49790,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,984 |
-| Normal | 35,754 |
+| Cloudflare | 13,983 |
+| Normal | 35,759 |
 
 
 </details>
