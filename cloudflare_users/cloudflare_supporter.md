@@ -5285,6 +5285,7 @@ Do not create new issue or we will close it as duplicate.
 | [iddiawab12@twitter](https://twitter.com/iddiawab12/status/1688177334321397760) | advertise |
 | [ideveloper8@twitter](https://twitter.com/ideveloper8/status/1459107888471941146) | advertise |
 | [idrayt1@twitter](https://twitter.com/idrayt1/status/1584900658699829251) | advertise |
+| [idzyns@twitter](https://twitter.com/idzyns/status/1714471442908381497) | advertise |
 | [id_btc@twitter](https://twitter.com/id_btc/status/1677829095936217088) | advertise |
 | [ieujejer@twitter](https://twitter.com/ieujejer/status/1701306103240229092) | advertise |
 | [IeuThy@twitter](https://twitter.com/IeuThy/status/1392390808062464006) | advertise |
