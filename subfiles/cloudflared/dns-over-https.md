@@ -67,7 +67,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | data.haus | No |
 | datacore.ch | No |
 | datahata.by | No |
-| datamatter.co.za | No |
 | daw.dev | No |
 | decloudus.com | No |
 | despagne.net | No |
@@ -269,7 +268,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 119 |
-| Normal | 130 |
+| Normal | 129 |
 
 
-### 47.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 48% of DNS-over-HTTPS (DoH) are using Cloudflare.
