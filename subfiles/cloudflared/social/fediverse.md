@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,764 |
 | social | 4,628 |
-| net | 3,881 |
+| net | 3,882 |
 | org | 2,608 |
 | de | 2,423 |
 
@@ -10061,6 +10061,7 @@ Here's a list of public Fediverse services.
 | `demkontinuum.de` | No |
 | `demmy.co.uk` | Yes |
 | `demo-nodeswarm.fr` | No |
+| `demoarts.media` | No |
 | `demoarts.social` | No |
 | `democ.horse` | Yes |
 | `democracy.town` | No |
@@ -11389,6 +11390,7 @@ Here's a list of public Fediverse services.
 | `dsci4.xyz` | No |
 | `dscloud.me` | No |
 | `dscloud.mobi` | No |
+| `dscpef.net` | No |
 | `dscw.fr` | Yes |
 | `dsemy.com` | No |
 | `dshk.pro` | No |
@@ -15683,6 +15685,7 @@ Here's a list of public Fediverse services.
 | `gardenstate.social` | No |
 | `gardiance.de` | No |
 | `gardons.contact` | No |
+| `gareth-coles.dev` | Yes |
 | `garethrogers.net` | No |
 | `garexp.org` | No |
 | `gargantia.fr` | No |
@@ -49792,8 +49795,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,985 |
-| Normal | 35,759 |
+| Cloudflare | 13,986 |
+| Normal | 35,761 |
 
 
 </details>
