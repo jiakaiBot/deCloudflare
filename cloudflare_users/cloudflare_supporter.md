@@ -12883,6 +12883,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thinh895@twitter](https://twitter.com/Thinh895/status/1384636309826768902) | advertise |
 | [Thinh2347123@twitter](https://twitter.com/Thinh2347123/status/1377847997564788736) | advertise |
 | [Thinh34570878@twitter](https://twitter.com/Thinh34570878/status/1405434591502995460) | advertise |
+| [ThinHao45994835@twitter](https://twitter.com/ThinHao45994835/status/1714708498179912061) | advertise |
 | [ThinHc608595160@twitter](https://twitter.com/ThinHc608595160/status/1687079615867793409) | advertise |
 | [thinhrcrazy@twitter](https://twitter.com/thinhrcrazy/status/1393615682399395842) | advertise |
 | [ThinkEzIT@twitter](https://twitter.com/ThinkEzIT/status/1544165852106625025) | advertise |
