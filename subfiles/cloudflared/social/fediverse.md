@@ -18836,7 +18836,7 @@ Here's a list of public Fediverse services.
 | `hutchings.gen.nz` | No |
 | `hutin-moise.com` | No |
 | `hutspod.nl` | No |
-| `hutt.social` | No |
+| `hutt.social` | Yes |
 | `huttiesroow.nl` | No |
 | `huub.net` | Yes |
 | `huurdersbelangzuid.nl` | No |
@@ -21630,6 +21630,7 @@ Here's a list of public Fediverse services.
 | `karabro.net` | Yes |
 | `karagedon.com` | Yes |
 | `karagory.com` | No |
+| `karakui.blog` | No |
 | `karamatsu.blue` | No |
 | `karambol.life` | Yes |
 | `karaolidis.com` | Yes |
@@ -49791,7 +49792,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,984 |
+| Cloudflare | 13,985 |
 | Normal | 35,759 |
 
 
