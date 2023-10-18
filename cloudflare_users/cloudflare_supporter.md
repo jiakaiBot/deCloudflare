@@ -6333,6 +6333,7 @@ Do not create new issue or we will close it as duplicate.
 | [KhaiNgu91428563@twitter](https://twitter.com/KhaiNgu91428563/status/1394523613475139586) | advertise |
 | [KhaingZ67903519@twitter](https://twitter.com/KhaingZ67903519/status/1394182226166747136) | advertise |
 | [Khaiquangtran5@twitter](https://twitter.com/Khaiquangtran5/status/1385928846889811969) | advertise |
+| [KhairulNiz62776@twitter](https://twitter.com/KhairulNiz62776/status/1714584727972458916) | advertise |
 | [KhaledLoft@twitter](https://twitter.com/KhaledLoft/status/1706287712830144880) | advertise |
 | [KhaledQiad@twitter](https://twitter.com/KhaledQiad/status/1475497971445870601) | advertise |
 | [khalfiabdk@twitter](https://twitter.com/khalfiabdk/status/1447572885174898689) | advertise |
@@ -10405,6 +10406,7 @@ Do not create new issue or we will close it as duplicate.
 | [pongtiwat_blue@twitter](https://twitter.com/pongtiwat_blue/status/1399366953886752771) | advertise |
 | [PONKUNGS2@twitter](https://twitter.com/PONKUNGS2/status/1608478951802044416) | advertise |
 | [pontakorn322@twitter](https://twitter.com/pontakorn322/status/1559225662363144193) | advertise |
+| [ponta_ngo@twitter](https://twitter.com/ponta_ngo/status/1714594358652174571) | advertise |
 | [pony66204919@twitter](https://twitter.com/pony66204919/status/1627213726658232320) | advertise |
 | [PoofOfExistence@twitter](https://twitter.com/PoofOfExistence/status/1647990702754897920) | advertise |
 | [Poofu1@twitter](https://twitter.com/Poofu1/status/1552379860022358016) | advertise |
@@ -14251,6 +14253,7 @@ Do not create new issue or we will close it as duplicate.
 | [wolfbeast@github.com](https://github.com/wolfbeast) | [README.md](README.md) |
 | [wolfw0od@twitter](https://twitter.com/wolfw0od/status/1665858510016458752) | advertise |
 | [wonderbiscut@twitter](https://twitter.com/wonderbiscut/status/1501324875952234497) | advertise |
+| [Wongtszlam6@twitter](https://twitter.com/Wongtszlam6/status/1714593697294401561) | advertise |
 | [wongwong9586@twitter](https://twitter.com/wongwong9586/status/1391297275255681025) | advertise |
 | [Wooddadda13@twitter](https://twitter.com/Wooddadda13/status/1393045087119056898) | advertise |
 | [Woodkamsomida@twitter](https://twitter.com/Woodkamsomida/status/1616000203223629826) | advertise |
