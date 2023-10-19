@@ -23972,6 +23972,7 @@ Here's a list of public Fediverse services.
 | `lettersremain.com` | Yes |
 | `letthewookiee.win` | Yes |
 | `lettucegarden.net` | No |
+| `letz.dev` | Yes |
 | `leuchtetgruen.de` | No |
 | `leuchtetgruen.me` | No |
 | `leuhta.dev` | No |
@@ -49835,7 +49836,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,002 |
+| Cloudflare | 14,003 |
 | Normal | 35,785 |
 
 
