@@ -1453,7 +1453,7 @@ Here's a list of public Fediverse services.
 | `aiquiral.me` | Yes |
 | `aiqwest.com` | No |
 | `air11.org` | No |
-| `air11.social` | No |
+| `air11.social` | Yes |
 | `aircrew.rocks` | No |
 | `airdreams.ca` | No |
 | `aire.ml` | No |
@@ -15073,6 +15073,7 @@ Here's a list of public Fediverse services.
 | `frogcat.club` | No |
 | `frogdrool.net` | No |
 | `frogeye.fr` | No |
+| `froggie.gay` | No |
 | `froggie.town` | No |
 | `froggirl.club` | No |
 | `froggo.garden` | Yes |
@@ -37551,7 +37552,7 @@ Here's a list of public Fediverse services.
 | `runty.com` | Yes |
 | `runty.social` | Yes |
 | `runyu.tokyo` | No |
-| `ruoiu.app` | No |
+| `ruoiu.app` | Yes |
 | `ruomu.in` | No |
 | `rup.one` | Yes |
 | `rural-it.org` | No |
@@ -49834,8 +49835,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,000 |
-| Normal | 35,786 |
+| Cloudflare | 14,002 |
+| Normal | 35,785 |
 
 
 </details>
