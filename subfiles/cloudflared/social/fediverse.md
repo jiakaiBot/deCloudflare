@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,775 |
-| social | 4,631 |
+| social | 4,632 |
 | net | 3,884 |
 | org | 2,608 |
 | de | 2,425 |
@@ -4343,6 +4343,7 @@ Here's a list of public Fediverse services.
 | `benjaminhollon.com` | Yes |
 | `benjaminmayo.co.uk` | Yes |
 | `benjaminturner.me` | Yes |
+| `benji.dog` | Yes |
 | `benjifox.gay` | Yes |
 | `benjohnson.ca` | No |
 | `benjojo.co.uk` | Yes |
@@ -6897,6 +6898,7 @@ Here's a list of public Fediverse services.
 | `chameth.com` | No |
 | `chamochi.club` | Yes |
 | `chamook.lol` | No |
+| `champ.support` | Yes |
 | `champagne.io` | No |
 | `champion-walker.uk` | No |
 | `championpictures.at` | No |
@@ -14171,6 +14173,7 @@ Here's a list of public Fediverse services.
 | `firudverse.social` | No |
 | `fish-404.club` | No |
 | `fish.pm` | Yes |
+| `fishandbits.es` | No |
 | `fishbowl.ink` | No |
 | `fishingblog.org` | No |
 | `fishking.studio` | No |
@@ -14863,6 +14866,7 @@ Here's a list of public Fediverse services.
 | `freeradical.zone` | No |
 | `freeradon.net` | No |
 | `freeself.one` | No |
+| `freesewing.social` | No |
 | `freesia.space` | Yes |
 | `freeside.cafe` | Yes |
 | `freeside.online` | No |
@@ -24140,6 +24144,7 @@ Here's a list of public Fediverse services.
 | `libre.tube` | No |
 | `libre.video` | No |
 | `libreadvice.org` | No |
+| `librebit.es` | No |
 | `libreden.net` | No |
 | `librefish.com` | No |
 | `librefree.me` | Yes |
@@ -46312,7 +46317,7 @@ Here's a list of public Fediverse services.
 | `vcity.de` | No |
 | `vcity.network` | No |
 | `vda-group.de` | No |
-| `vdavez.com` | No |
+| `vdavez.com` | Yes |
 | `vdcw.social` | No |
 | `vdh.za.net` | Yes |
 | `vdheide.net` | No |
@@ -49827,8 +49832,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,997 |
-| Normal | 35,782 |
+| Cloudflare | 14,000 |
+| Normal | 35,784 |
 
 
 </details>
