@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,773 |
+| com | 7,775 |
 | social | 4,631 |
 | net | 3,884 |
 | org | 2,608 |
@@ -19289,6 +19289,7 @@ Here's a list of public Fediverse services.
 | `illusory.ink` | No |
 | `illuster.org` | No |
 | `illustietor.com` | No |
+| `illyaking.com` | No |
 | `illyasviel.cf` | No |
 | `ilnk.info` | No |
 | `ilot.io` | Yes |
@@ -21660,6 +21661,7 @@ Here's a list of public Fediverse services.
 | `karebu.gay` | Yes |
 | `karel.today` | No |
 | `karene.net` | No |
+| `karengadient.com` | No |
 | `kariance.xyz` | No |
 | `karjalazet.se` | No |
 | `karkador.com` | No |
@@ -46886,6 +46888,7 @@ Here's a list of public Fediverse services.
 | `vrc-instance.xyz` | Yes |
 | `vrccl.life` | Yes |
 | `vrchat-dev.tech` | No |
+| `vrchat.kr` | Yes |
 | `vrchat.today` | Yes |
 | `vrclub.social` | Yes |
 | `vreeman.com` | Yes |
@@ -49824,8 +49827,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,996 |
-| Normal | 35,780 |
+| Cloudflare | 13,997 |
+| Normal | 35,782 |
 
 
 </details>
