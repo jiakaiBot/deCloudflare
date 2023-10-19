@@ -1971,6 +1971,7 @@ Do not create new issue or we will close it as duplicate.
 | [BonaErwin@twitter](https://twitter.com/BonaErwin/status/1488978738066771974) | advertise |
 | [BoneyTusha67237@twitter](https://twitter.com/BoneyTusha67237/status/1704851251706675462) | advertise |
 | [BonfireZone@twitter](https://twitter.com/BonfireZone/status/1432302355488329733) | advertise |
+| [BoNguyn18755040@twitter](https://twitter.com/BoNguyn18755040/status/1714976041125466213) | advertise |
 | [bonguyn29688521@twitter](https://twitter.com/bonguyn29688521/status/1402308865257918465) | advertise |
 | [BonifaceVivo@twitter](https://twitter.com/BonifaceVivo/status/1596592029613424640) | advertise |
 | [bonitavee@twitter](https://twitter.com/bonitavee/status/1700887954745659485) | advertise |
