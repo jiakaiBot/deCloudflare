@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [npms.io and api.npms.io both failing with cloudflare 522 errors at this time.](https://github.com/npms-io/npms/issues/61)
 - [How to disable cache: "no-store" after 9.0.5 update](https://github.com/stytchauth/stytch-node/issues/273)
 - [Unstable Client Issue - WSS not Working as Expected](https://github.com/emqx/emqx/issues/11792)
 - [Cant login in WAX account with waxjs](https://github.com/worldwide-asset-exchange/waxjs/issues/170)
