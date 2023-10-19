@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,767 |
-| social | 4,629 |
+| com | 7,768 |
+| social | 4,630 |
 | net | 3,882 |
 | org | 2,608 |
 | de | 2,423 |
@@ -12662,6 +12662,7 @@ Here's a list of public Fediverse services.
 | `ersatsz.com` | Yes |
 | `erscheinung47.com` | No |
 | `ersei.net` | Yes |
+| `erti.us` | Yes |
 | `ertona.net` | No |
 | `ertu.be` | No |
 | `eruditorum.dev` | No |
@@ -17452,6 +17453,7 @@ Here's a list of public Fediverse services.
 | `hamington.net` | Yes |
 | `haminoa.net` | No |
 | `hammer-and-sickle.net` | No |
+| `hammerandjack.com` | No |
 | `hammertonbarbados.social` | Yes |
 | `hammons.llc` | No |
 | `hammyhavoc.com` | Yes |
@@ -44938,6 +44940,7 @@ Here's a list of public Fediverse services.
 | `tryggth.social` | No |
 | `tryingpoetry.com` | No |
 | `tryliberty.org` | No |
+| `tryme.social` | No |
 | `trynary.net` | No |
 | `tryp.digital` | No |
 | `tryptophonic.com` | No |
@@ -49800,8 +49803,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,987 |
-| Normal | 35,765 |
+| Cloudflare | 13,988 |
+| Normal | 35,767 |
 
 
 </details>
