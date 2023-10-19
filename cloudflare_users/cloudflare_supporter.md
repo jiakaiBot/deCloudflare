@@ -5288,6 +5288,7 @@ Do not create new issue or we will close it as duplicate.
 | [iClutch4Fart@twitter](https://twitter.com/iClutch4Fart/status/1494032001304870916) | advertise |
 | [IcyHear05989673@twitter](https://twitter.com/IcyHear05989673/status/1394815203041169411) | advertise |
 | [ID2See@twitter](https://twitter.com/ID2See/status/1695695559213097145) | advertise |
+| [idamdararuna@twitter](https://twitter.com/idamdararuna/status/1715013778470035934) | advertise |
 | [idarerick@twitter](https://twitter.com/idarerick/status/1401141019442249729) | advertise |
 | [idc4now@twitter](https://twitter.com/idc4now/status/1683579563777859585) | advertise |
 | [iddiawab12@twitter](https://twitter.com/iddiawab12/status/1688177334321397760) | advertise |
@@ -6569,6 +6570,7 @@ Do not create new issue or we will close it as duplicate.
 | [KiruiWinston@twitter](https://twitter.com/KiruiWinston/status/1460566327215673348) | advertise |
 | [KishanY38124071@twitter](https://twitter.com/KishanY38124071/status/1386658570142289923) | advertise |
 | [Kishwar_Ayaz@twitter](https://twitter.com/Kishwar_Ayaz/status/1687095405501362176) | advertise |
+| [KisKk@twitter](https://twitter.com/KisKk/status/1715022777722532335) | advertise |
 | [Kit33462985@twitter](https://twitter.com/Kit33462985/status/1401542022276685826) | advertise |
 | [KitaTarot938721@twitter](https://twitter.com/KitaTarot938721/status/1712073998836584666) | advertise |
 | [KiteMeeran@twitter](https://twitter.com/KiteMeeran/status/1479318671038181379) | advertise |
@@ -7108,6 +7110,7 @@ Do not create new issue or we will close it as duplicate.
 | [LeDucphcCuong1@twitter](https://twitter.com/LeDucphcCuong1/status/1643806987854172161) | advertise |
 | [Leducta70074660@twitter](https://twitter.com/Leducta70074660/status/1600338472396476416) | advertise |
 | [Leduy190894@twitter](https://twitter.com/Leduy190894/status/1552682722803724288) | advertise |
+| [lee978306983380@twitter](https://twitter.com/lee978306983380/status/1715020678225916248) | advertise |
 | [leechah0793@twitter](https://twitter.com/leechah0793/status/1553762529297731595) | advertise |
 | [Leeee66738181@twitter](https://twitter.com/Leeee66738181/status/1389883298063683587) | advertise |
 | [LeeJuMin8@twitter](https://twitter.com/LeeJuMin8/status/1407585008991182851) | advertise |
@@ -11344,6 +11347,7 @@ Do not create new issue or we will close it as duplicate.
 | [sakiha33679@twitter](https://twitter.com/sakiha33679/status/1682726232264441857) | advertise |
 | [sakoinfograhic@twitter](https://twitter.com/sakoinfograhic/status/1483137800547491840) | advertise |
 | [SakshiC60115393@twitter](https://twitter.com/SakshiC60115393/status/1378061425206194176) | advertise |
+| [sakulrat778@twitter](https://twitter.com/sakulrat778/status/1715040925922304116) | advertise |
 | [SakusaSpray@twitter](https://twitter.com/SakusaSpray/status/1391577820409724932) | advertise |
 | [Salaing3@twitter](https://twitter.com/Salaing3/status/1392576860027068417) | advertise |
 | [Saleh28110076@twitter](https://twitter.com/Saleh28110076/status/1514439036139618308) | advertise |
@@ -11675,6 +11679,7 @@ Do not create new issue or we will close it as duplicate.
 | [ShanKoKo10@twitter](https://twitter.com/ShanKoKo10/status/1394641850879725569) | advertise |
 | [ShannonMMitche1@twitter](https://twitter.com/ShannonMMitche1/status/1405702171438555136) | advertise |
 | [Shannon_evol@twitter](https://twitter.com/Shannon_evol/status/1686319477128851457) | advertise |
+| [ShanNotorious21@twitter](https://twitter.com/ShanNotorious21/status/1715052117684285934) | advertise |
 | [ShanvanthA@twitter](https://twitter.com/ShanvanthA/status/1637060319854960641) | advertise |
 | [shapoo67@twitter](https://twitter.com/shapoo67/status/1618249394830331905) | advertise |
 | [SharabShrestha@twitter](https://twitter.com/SharabShrestha/status/1536686494672617474) | advertise |
