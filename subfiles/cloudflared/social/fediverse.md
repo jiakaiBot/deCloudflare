@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,769 |
-| social | 4,630 |
-| net | 3,882 |
+| com | 7,772 |
+| social | 4,631 |
+| net | 3,883 |
 | org | 2,608 |
-| de | 2,423 |
+| de | 2,424 |
 
 
 - Mastodon, Pleroma, etc
@@ -3572,6 +3572,7 @@ Here's a list of public Fediverse services.
 | `axilus.network` | No |
 | `aximov.net` | Yes |
 | `axiomeval.social` | No |
+| `axismundi.se` | No |
 | `axjmc.xyz` | Yes |
 | `axle.social` | No |
 | `axomy.com` | No |
@@ -7795,6 +7796,7 @@ Here's a list of public Fediverse services.
 | `cockb.ro` | No |
 | `cockos.net` | No |
 | `cockworshipper.com` | No |
+| `cocoa-forever.com` | Yes |
 | `cocoa.me.uk` | Yes |
 | `cocoa.moe` | No |
 | `cocoa.pics` | No |
@@ -8168,6 +8170,7 @@ Here's a list of public Fediverse services.
 | `conjured.space` | No |
 | `conk.me` | No |
 | `conlangery.com` | No |
+| `conletrapropia.com.ar` | No |
 | `conley.io` | No |
 | `conman.co.za` | No |
 | `conn.rs` | Yes |
@@ -9530,6 +9533,7 @@ Here's a list of public Fediverse services.
 | `darkpenguin.social` | No |
 | `darkplanetego.de` | No |
 | `darkposh.com` | No |
+| `darkroom.club` | No |
 | `darks.fr` | No |
 | `darksair.org` | Yes |
 | `darkshade.social` | No |
@@ -12522,6 +12526,7 @@ Here's a list of public Fediverse services.
 | `epcomp.com` | No |
 | `epdntm.org` | Yes |
 | `epenguin.com` | Yes |
+| `epet1.edu.ar` | No |
 | `epgn.ch` | No |
 | `ephaone.org` | No |
 | `ephemeral-mastodon.com` | No |
@@ -17323,6 +17328,7 @@ Here's a list of public Fediverse services.
 | `hackzenwerk.org` | No |
 | `hacst.net` | No |
 | `hact.org` | Yes |
+| `hactazia.fr` | Yes |
 | `hactivedirectory.com` | Yes |
 | `hacusk.net` | Yes |
 | `haddock.cc` | Yes |
@@ -22799,6 +22805,7 @@ Here's a list of public Fediverse services.
 | `krafting.net` | No |
 | `krakatoa.bar` | No |
 | `krake.re` | No |
+| `krakenhaus.com` | Yes |
 | `krakow.social` | No |
 | `kraksocial.xyz` | Yes |
 | `kraktoos.com` | Yes |
@@ -27695,6 +27702,7 @@ Here's a list of public Fediverse services.
 | `mimikun.jp` | Yes |
 | `mimimi.page` | Yes |
 | `mimmoth.club` | No |
+| `mimo.blog` | No |
 | `mimumedon.com` | No |
 | `mina.to` | Yes |
 | `minable.xyz` | No |
@@ -28557,6 +28565,7 @@ Here's a list of public Fediverse services.
 | `moritzmahringer.de` | No |
 | `moritzrudert.de` | No |
 | `moriya.faith` | Yes |
+| `moriyashrine.net` | Yes |
 | `morkaste.com` | No |
 | `morland.social` | No |
 | `morn.i.ng` | No |
@@ -28815,6 +28824,7 @@ Here's a list of public Fediverse services.
 | `msps.io` | Yes |
 | `mspsocial.net` | No |
 | `msqtdn.tk` | No |
+| `msrocket.com` | No |
 | `mssj.work` | Yes |
 | `mst-dn.me` | No |
 | `mst.blue` | No |
@@ -31696,6 +31706,7 @@ Here's a list of public Fediverse services.
 | `oceanplayground.social` | No |
 | `oceansocial.us` | No |
 | `oceansurf.org` | Yes |
+| `oceanvibe.nz` | No |
 | `ocellaris.dev` | Yes |
 | `ocert.at` | No |
 | `ochagavia.nl` | No |
@@ -41436,6 +41447,7 @@ Here's a list of public Fediverse services.
 | `streamers.social` | Yes |
 | `streamery.club` | No |
 | `streamfurs.com` | Yes |
+| `streamturtle.de` | No |
 | `streamz.ca` | No |
 | `strectuna.me` | No |
 | `streetbikes.club` | No |
@@ -45619,6 +45631,7 @@ Here's a list of public Fediverse services.
 | `unapocrypha.info` | No |
 | `unasuke.com` | Yes |
 | `unattributed.cc` | No |
+| `unau.edu.ar` | No |
 | `unbia.st` | Yes |
 | `unbl.ink` | No |
 | `unboiled.info` | No |
@@ -46822,6 +46835,7 @@ Here's a list of public Fediverse services.
 | `voots.org` | Yes |
 | `voppe.it` | No |
 | `voqal.online` | No |
+| `voqal.social` | No |
 | `voragine.net` | No |
 | `vorarlberg.io` | No |
 | `vorarlberg.site` | No |
@@ -47130,6 +47144,7 @@ Here's a list of public Fediverse services.
 | `wangdahoo.space` | No |
 | `wangofett.com` | No |
 | `wangwood.house` | No |
+| `wangyw15.top` | No |
 | `wank.social` | No |
 | `wanparty.xyz` | No |
 | `wansaw.com` | Yes |
@@ -49804,8 +49819,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,990 |
-| Normal | 35,766 |
+| Cloudflare | 13,994 |
+| Normal | 35,777 |
 
 
 </details>
