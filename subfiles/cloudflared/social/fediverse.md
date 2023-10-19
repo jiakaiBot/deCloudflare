@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,772 |
+| com | 7,773 |
 | social | 4,631 |
-| net | 3,883 |
+| net | 3,884 |
 | org | 2,608 |
-| de | 2,424 |
+| de | 2,425 |
 
 
 - Mastodon, Pleroma, etc
@@ -23090,6 +23090,7 @@ Here's a list of public Fediverse services.
 | `kyaruc.moe` | No |
 | `kyberpunk.social` | No |
 | `kyd.au` | No |
+| `kyefox.com` | Yes |
 | `kylebronsdon.com` | No |
 | `kylefreed.com` | Yes |
 | `kylehengst.com` | Yes |
@@ -34126,6 +34127,7 @@ Here's a list of public Fediverse services.
 | `pixtagram.social` | No |
 | `pixxaddict.social` | No |
 | `pixygram.com` | No |
+| `piyoland.net` | No |
 | `piyoskey.com` | Yes |
 | `pizzac.at` | No |
 | `pizzadog.moe` | No |
@@ -36561,6 +36563,7 @@ Here's a list of public Fediverse services.
 | `rencontres-atelier.fr` | No |
 | `renedon.red` | Yes |
 | `renehsz.com` | No |
+| `renekey.blue` | Yes |
 | `renekey.jp` | Yes |
 | `renekey.net` | Yes |
 | `renem.net` | Yes |
@@ -37082,6 +37085,7 @@ Here's a list of public Fediverse services.
 | `robloxcommunity.social` | No |
 | `robmcbryde.com` | No |
 | `robmccoll.com` | No |
+| `robmcminn.uk` | No |
 | `robmenting.com` | No |
 | `robmydobrze.pl` | No |
 | `robmyers.org` | Yes |
@@ -43365,6 +43369,7 @@ Here's a list of public Fediverse services.
 | `themarkup.org` | No |
 | `themars.tk` | Yes |
 | `themastodon.uk` | No |
+| `themaverick.de` | No |
 | `themaymeow.com` | Yes |
 | `themays.me` | Yes |
 | `themazuma.net` | No |
@@ -49819,8 +49824,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,994 |
-| Normal | 35,777 |
+| Cloudflare | 13,996 |
+| Normal | 35,780 |
 
 
 </details>
