@@ -8077,6 +8077,7 @@ Here's a list of public Fediverse services.
 | `communists.world` | No |
 | `communitarium.org` | No |
 | `community-patriots.social` | Yes |
+| `communitymedia.video` | No |
 | `communitynetwork.us` | No |
 | `comnetcomdotnet.org` | No |
 | `comofas.org` | No |
@@ -43143,6 +43144,7 @@ Here's a list of public Fediverse services.
 | `thebag.social` | No |
 | `thebarrens.nu` | No |
 | `thebased.club` | Yes |
+| `thebeans.zip` | No |
 | `thebeeches.house` | No |
 | `thebene.fit` | No |
 | `thebergstrands.net` | No |
@@ -49833,7 +49835,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,000 |
-| Normal | 35,784 |
+| Normal | 35,786 |
 
 
 </details>
