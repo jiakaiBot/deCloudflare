@@ -9105,6 +9105,7 @@ Do not create new issue or we will close it as duplicate.
 | [nejcs@twitter](https://twitter.com/nejcs/status/1574658004158648320) | advertise |
 | [Nek010N@twitter](https://twitter.com/Nek010N/status/1646712586539511808) | advertise |
 | [NekoDark2908@twitter](https://twitter.com/NekoDark2908/status/1385441300166569985) | advertise |
+| [NellaiComputers@twitter](https://twitter.com/NellaiComputers/status/1715022782902534376) | advertise |
 | [nellasilaen@twitter](https://twitter.com/nellasilaen/status/1484124645586571264) | advertise |
 | [nellydion@twitter](https://twitter.com/nellydion/status/1404459985820545035) | advertise |
 | [nem16061@twitter](https://twitter.com/nem16061/status/1581801713324826624) | advertise |
