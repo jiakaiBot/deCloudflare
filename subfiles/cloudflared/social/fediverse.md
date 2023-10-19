@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,765 |
+| com | 7,766 |
 | social | 4,628 |
 | net | 3,882 |
 | org | 2,608 |
@@ -44222,6 +44222,7 @@ Here's a list of public Fediverse services.
 | `toniotti.be` | No |
 | `toniozz75.fr` | Yes |
 | `tonkku.me` | No |
+| `tonnatorn.com` | Yes |
 | `tonos.io` | No |
 | `tonybark.art` | No |
 | `tonybark.com` | No |
@@ -49796,7 +49797,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,986 |
+| Cloudflare | 13,987 |
 | Normal | 35,762 |
 
 
