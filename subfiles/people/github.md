@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Mangahub not working](https://github.com/TheNetsky/netskys-extensions/issues/88)
 - [Unexpected status code (400) while uploading chunk](https://github.com/tus/tus-android-client/issues/98)
 - [npms.io and api.npms.io both failing with cloudflare 522 errors at this time.](https://github.com/npms-io/npms/issues/61)
 - [How to disable cache: "no-store" after 9.0.5 update](https://github.com/stytchauth/stytch-node/issues/273)
