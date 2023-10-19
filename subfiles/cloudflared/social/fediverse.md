@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,764 |
+| com | 7,765 |
 | social | 4,628 |
 | net | 3,882 |
 | org | 2,608 |
@@ -7997,7 +7997,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -33203,6 +33203,7 @@ Here's a list of public Fediverse services.
 | `patriciadrive.com` | No |
 | `patrick.social` | Yes |
 | `patrickv.be` | Yes |
+| `patty-gray.com` | No |
 | `patu.re` | No |
 | `pau.fm` | Yes |
 | `pauho.net` | No |
@@ -49795,8 +49796,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,986 |
-| Normal | 35,761 |
+| Cloudflare | 13,985 |
+| Normal | 35,763 |
 
 
 </details>
