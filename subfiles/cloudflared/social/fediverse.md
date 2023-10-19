@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,768 |
+| com | 7,769 |
 | social | 4,630 |
 | net | 3,882 |
 | org | 2,608 |
@@ -7998,7 +7998,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -12662,6 +12662,7 @@ Here's a list of public Fediverse services.
 | `ersatsz.com` | Yes |
 | `erscheinung47.com` | No |
 | `ersei.net` | Yes |
+| `erti.us` | Yes |
 | `ertona.net` | No |
 | `ertu.be` | No |
 | `eruditorum.dev` | No |
@@ -44811,6 +44812,7 @@ Here's a list of public Fediverse services.
 | `trippy.pizza` | No |
 | `trippyhippie.dev` | Yes |
 | `tripsocial.co` | No |
+| `tripsskey.com` | No |
 | `triptico.com` | No |
 | `tripulse.link` | No |
 | `tripulse.net` | Yes |
@@ -49802,7 +49804,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,988 |
+| Cloudflare | 13,990 |
 | Normal | 35,766 |
 
 
