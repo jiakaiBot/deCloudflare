@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,766 |
-| social | 4,628 |
+| com | 7,767 |
+| social | 4,629 |
 | net | 3,882 |
 | org | 2,608 |
 | de | 2,423 |
@@ -7823,6 +7823,7 @@ Here's a list of public Fediverse services.
 | `codecoffin.com` | Yes |
 | `codecompost.nl` | No |
 | `codeday.social` | Yes |
+| `codeenigma.com` | No |
 | `codeflow.club` | Yes |
 | `codefor.de` | No |
 | `codefossa.net` | No |
@@ -12603,6 +12604,7 @@ Here's a list of public Fediverse services.
 | `ericbardi.com` | No |
 | `ericbeckers.nl` | Yes |
 | `ericblade.us` | No |
+| `ericcodes.io` | No |
 | `ericcredeur.com` | No |
 | `ericdq.com` | No |
 | `ericdube.com` | No |
@@ -43856,6 +43858,7 @@ Here's a list of public Fediverse services.
 | `till.net` | No |
 | `tillbosselmann.de` | No |
 | `tille.ch` | No |
+| `tilley.social` | No |
 | `tillicumnet.com` | No |
 | `tilosp.de` | Yes |
 | `tilvids.com` | No |
@@ -49799,7 +49802,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,988 |
-| Normal | 35,762 |
+| Normal | 35,765 |
 
 
 </details>
