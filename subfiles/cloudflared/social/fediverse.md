@@ -12662,7 +12662,6 @@ Here's a list of public Fediverse services.
 | `ersatsz.com` | Yes |
 | `erscheinung47.com` | No |
 | `ersei.net` | Yes |
-| `erti.us` | Yes |
 | `ertona.net` | No |
 | `ertu.be` | No |
 | `eruditorum.dev` | No |
@@ -45227,7 +45226,7 @@ Here's a list of public Fediverse services.
 | `tweetrex.co.uk` | No |
 | `tweets.icu` | No |
 | `tweetwhomblr.us` | No |
-| `tweety.icu` | No |
+| `tweety.icu` | Yes |
 | `tweety.social` | No |
 | `tweety.today` | No |
 | `twelve.icu` | Yes |
@@ -49804,7 +49803,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 13,988 |
-| Normal | 35,767 |
+| Normal | 35,766 |
 
 
 </details>
