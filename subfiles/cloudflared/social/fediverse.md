@@ -12660,6 +12660,7 @@ Here's a list of public Fediverse services.
 | `ersatsz.com` | Yes |
 | `erscheinung47.com` | No |
 | `ersei.net` | Yes |
+| `erti.us` | Yes |
 | `ertona.net` | No |
 | `ertu.be` | No |
 | `eruditorum.dev` | No |
@@ -49796,7 +49797,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 13,985 |
+| Cloudflare | 13,986 |
 | Normal | 35,763 |
 
 
