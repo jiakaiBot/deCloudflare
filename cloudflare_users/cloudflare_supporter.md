@@ -1998,6 +1998,7 @@ Do not create new issue or we will close it as duplicate.
 | [borek5112@twitter](https://twitter.com/borek5112/status/1639055609487130625) | advertise |
 | [borislee0227@twitter](https://twitter.com/borislee0227/status/1413173842244104192) | moral (advertise) |
 | [Boss18872812@twitter](https://twitter.com/Boss18872812/status/1588859154328064003) | advertise |
+| [Boss53495909@twitter](https://twitter.com/Boss53495909/status/1715391322104938977) | advertise |
 | [bosskhan955pk1@twitter](https://twitter.com/bosskhan955pk1/status/1473666642911637507) | advertise |
 | [Boswam6@twitter](https://twitter.com/Boswam6/status/1377681051472916482) | advertise |
 | [BoTayZar7@twitter](https://twitter.com/BoTayZar7/status/1391301779636195330) | advertise |
