@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,778 |
+| com | 7,779 |
 | social | 4,632 |
 | net | 3,884 |
 | org | 2,608 |
@@ -3795,6 +3795,7 @@ Here's a list of public Fediverse services.
 | `badpixels.be` | No |
 | `badposts.net` | Yes |
 | `badprocess.me` | No |
+| `badsysadm.com` | No |
 | `bae.city` | No |
 | `bae.st` | No |
 | `baeck.at` | Yes |
@@ -31394,6 +31395,7 @@ Here's a list of public Fediverse services.
 | `nuage-libre.fr` | No |
 | `nuagelibre.fr` | No |
 | `nuak.social` | No |
+| `nualmere.nl` | No |
 | `nuasa.org` | No |
 | `nube.li` | No |
 | `nubecula.org` | No |
@@ -49845,7 +49847,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,009 |
-| Normal | 35,787 |
+| Normal | 35,789 |
 
 
 </details>
