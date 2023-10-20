@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,780 |
+| com | 7,782 |
 | social | 4,632 |
 | net | 3,884 |
 | org | 2,608 |
@@ -25958,7 +25958,7 @@ Here's a list of public Fediverse services.
 | `mas.ink` | No |
 | `mas.pub` | No |
 | `mas.to` | Yes |
-| `mas.town` | No |
+| `mas.town` | Yes |
 | `mas2don.org` | No |
 | `mas2k-bp.net` | No |
 | `masato.jp` | Yes |
@@ -43898,6 +43898,7 @@ Here's a list of public Fediverse services.
 | `tiliches.net` | No |
 | `till-westermayer.de` | No |
 | `till.net` | No |
+| `till0196.com` | Yes |
 | `tillbosselmann.de` | No |
 | `tille.ch` | No |
 | `tilley.social` | No |
@@ -49357,6 +49358,7 @@ Here's a list of public Fediverse services.
 | `zachdecook.com` | No |
 | `zachh.me` | No |
 | `zachleat.com` | No |
+| `zachmanson.com` | No |
 | `zachnickell.com` | No |
 | `zackallison.com` | No |
 | `zackboe.hm` | No |
@@ -49850,7 +49852,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,010 |
+| Cloudflare | 14,012 |
 | Normal | 35,792 |
 
 
