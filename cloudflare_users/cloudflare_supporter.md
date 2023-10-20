@@ -3450,6 +3450,7 @@ Do not create new issue or we will close it as duplicate.
 | [edrandall@twitter](https://twitter.com/edrandall/status/1620085641899040768) | advertise |
 | [EdreaRae@twitter](https://twitter.com/EdreaRae/status/1389978942321291267) | advertise |
 | [Edrismohammadi0@twitter](https://twitter.com/Edrismohammadi0/status/1632182528462209033) | advertise |
+| [edsan@twitter](https://twitter.com/edsan/status/1715371903156940891) | advertise |
 | [EduartBerisha1@twitter](https://twitter.com/EduartBerisha1/status/1481998620379467783) | advertise |
 | [Edvard83454626@twitter](https://twitter.com/Edvard83454626/status/1424641511405367298) | advertise |
 | [EdwardLouie00@twitter](https://twitter.com/EdwardLouie00/status/1628736548178132993) | advertise |
@@ -4478,6 +4479,7 @@ Do not create new issue or we will close it as duplicate.
 | [HassanR56423746@twitter](https://twitter.com/HassanR56423746/status/1394591822849003521) | advertise |
 | [Haswand2@twitter](https://twitter.com/Haswand2/status/1378381010832826372) | advertise |
 | [hatedbyelon@twitter](https://twitter.com/hatedbyelon/status/1686981884637519877) | advertise |
+| [hathaisang@twitter](https://twitter.com/hathaisang/status/1715261903033999512) | advertise |
 | [HaTranNguyen4@twitter](https://twitter.com/HaTranNguyen4/status/1474278844894834689) | advertise |
 | [hatthocnho83@twitter](https://twitter.com/hatthocnho83/status/1553035064098770945) | advertise |
 | [Hau29Trung@twitter](https://twitter.com/Hau29Trung/status/1381840387942191108) | advertise |
@@ -5766,6 +5768,7 @@ Do not create new issue or we will close it as duplicate.
 | [jerry76419614@twitter](https://twitter.com/jerry76419614/status/1506916588792217604) | advertise |
 | [JerryGotMeat@twitter](https://twitter.com/JerryGotMeat/status/1625842389901361152) | advertise |
 | [JerryJduh@twitter](https://twitter.com/JerryJduh/status/1544127263775621122) | advertise |
+| [JerryYaWai760@twitter](https://twitter.com/JerryYaWai760/status/1715375368327369087) | advertise |
 | [jery230807@twitter](https://twitter.com/jery230807/status/1552230018033790978) | advertise |
 | [JESES_OfficiaI@twitter](https://twitter.com/JESES_OfficiaI/status/1689664945170894848) | advertise |
 | [jesko14346712@twitter](https://twitter.com/jesko14346712/status/1402518182020063240) | advertise |
@@ -10011,6 +10014,7 @@ Do not create new issue or we will close it as duplicate.
 | [papajuce100@twitter](https://twitter.com/papajuce100/status/1399211216061407233) | advertise |
 | [PaPaNaingLinTun@twitter](https://twitter.com/PaPaNaingLinTun/status/1390941738303299586) | advertise |
 | [papas68@twitter](https://twitter.com/papas68/status/1485710848983244806) | advertise |
+| [PapiAdryell@twitter](https://twitter.com/PapiAdryell/status/1715384674237767888) | advertise |
 | [papimii@twitter](https://twitter.com/papimii/status/1582258872512761856) | advertise |
 | [PAPPY_JEFF12@twitter](https://twitter.com/PAPPY_JEFF12/status/1588182457098309632) | advertise |
 | [paraboy113@twitter](https://twitter.com/paraboy113/status/1377615187969204225) | advertise |
@@ -12472,6 +12476,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tax40813778@twitter](https://twitter.com/Tax40813778/status/1388201141821796353) | advertise |
 | [taxocrate@twitter](https://twitter.com/taxocrate/status/1491431895590404098) | advertise |
 | [Taygyi6@twitter](https://twitter.com/Taygyi6/status/1392528044842094594) | advertise |
+| [Taylor6922@twitter](https://twitter.com/Taylor6922/status/1715373253794152553) | advertise |
 | [taymon_khanh@twitter](https://twitter.com/taymon_khanh/status/1388779801020747778) | advertise |
 | [tayr7ayr@twitter](https://twitter.com/tayr7ayr/status/1672739093627674627) | advertise |
 | [TayyabS08856721@twitter](https://twitter.com/TayyabS08856721/status/1704220158183477307) | advertise |
