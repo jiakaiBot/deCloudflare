@@ -247,7 +247,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | vinnyp.xyz | Yes |
 | virga.pp.ua | Yes |
 | vishalk.com | No |
-| vmath.my.id | No |
+| vmath.my.id | Yes |
 | waifu.cz | Yes |
 | wang.art | Yes |
 | wantaquddin.com | No |
@@ -267,8 +267,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 119 |
-| Normal | 129 |
+| Cloudflare | 120 |
+| Normal | 128 |
 
 
-### 48% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 48.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
