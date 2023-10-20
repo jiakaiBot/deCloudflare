@@ -543,6 +543,7 @@ Here's a list of breached sites.
 | Sony | 37,103 | Yes |
 | Soundwave | 130,705 | No |
 | SpecialKSpamList (Special K Data Feed Spam List) | 30,741,620 | No |
+| Sphero | 832,255 | Yes |
 | Spirol | 55,622 | No |
 | SprashivaiRu (Спрашивай.ру) | 3,474,763 | Yes |
 | SpyFone | 44,109 | Yes |
@@ -701,7 +702,7 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 399 | 4,486,911,860 |
+| Cloudflare | 400 | 4,487,744,115 |
 | Normal | 281 | 4,498,273,625 |
 
 
