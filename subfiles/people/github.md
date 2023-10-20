@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Notion Page Redirection via Cloudflare Worker Results in Errors not working](https://github.com/stephenou/fruitionsite/issues/260)
 - [408 Error when pulling Socket-Proxy](https://github.com/htpcBeginner/auto-traefik/issues/1)
 - [Mangahub not working](https://github.com/TheNetsky/netskys-extensions/issues/88)
 - [Unexpected status code (400) while uploading chunk](https://github.com/tus/tus-android-client/issues/98)
