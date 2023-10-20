@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,783 |
+| com | 7,784 |
 | social | 4,635 |
 | net | 3,885 |
 | org | 2,608 |
@@ -4569,7 +4569,7 @@ Here's a list of public Fediverse services.
 | `biddul.ph` | No |
 | `bideoteka.eus` | No |
 | `bidule.app` | No |
-| `bidule.dev` | No |
+| `bidule.dev` | Yes |
 | `bien-etre.social` | Yes |
 | `bien.ee` | No |
 | `biendeo.com` | Yes |
@@ -22621,7 +22621,7 @@ Here's a list of public Fediverse services.
 | `kolektiva.social` | Yes |
 | `koles.tech` | No |
 | `kolevino.com` | No |
-| `kolgate.xyz` | No |
+| `kolgate.xyz` | Yes |
 | `koliloks.social` | No |
 | `koliosky.com` | Yes |
 | `kolkra.be` | No |
@@ -41924,6 +41924,7 @@ Here's a list of public Fediverse services.
 | `svnet.fr` | No |
 | `svoron.com` | No |
 | `svp.im` | No |
+| `svpow.com` | No |
 | `svrgn.sh` | No |
 | `svt.se` | No |
 | `svtropicaldawn.blog` | No |
@@ -49862,8 +49863,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,014 |
-| Normal | 35,800 |
+| Cloudflare | 14,016 |
+| Normal | 35,799 |
 
 
 </details>
