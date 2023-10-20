@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- ["Error occurred during login..." 401 Authorization Required](https://github.com/balansse/homebridge-vivint/issues/126)
 - [Notion Page Redirection via Cloudflare Worker Results in Errors not working](https://github.com/stephenou/fruitionsite/issues/260)
 - [408 Error when pulling Socket-Proxy](https://github.com/htpcBeginner/auto-traefik/issues/1)
 - [Mangahub not working](https://github.com/TheNetsky/netskys-extensions/issues/88)
