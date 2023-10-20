@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,775 |
+| com | 7,776 |
 | social | 4,632 |
 | net | 3,884 |
 | org | 2,608 |
@@ -49233,6 +49233,7 @@ Here's a list of public Fediverse services.
 | `yumulab.org` | No |
 | `yunase.com` | No |
 | `yunkuangao.com` | Yes |
+| `yunochi.com` | Yes |
 | `yunochi.moe` | Yes |
 | `yunohost.ga` | No |
 | `yunohost.support` | No |
@@ -49838,7 +49839,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,002 |
+| Cloudflare | 14,003 |
 | Normal | 35,788 |
 
 
