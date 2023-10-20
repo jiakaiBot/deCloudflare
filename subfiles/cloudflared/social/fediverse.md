@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,779 |
+| com | 7,780 |
 | social | 4,632 |
 | net | 3,884 |
 | org | 2,608 |
-| de | 2,425 |
+| de | 2,427 |
 
 
 - Mastodon, Pleroma, etc
@@ -19010,6 +19010,7 @@ Here's a list of public Fediverse services.
 | `iametza.com` | No |
 | `iametza.eus` | No |
 | `iamforum.space` | No |
+| `iamgerardthomas.com` | Yes |
 | `iamglenn.be` | Yes |
 | `iamincredibly.gay` | Yes |
 | `iamjacke.com` | Yes |
@@ -22971,6 +22972,7 @@ Here's a list of public Fediverse services.
 | `kuloma.net` | No |
 | `kulttuurilaiva.social` | No |
 | `kulturfront.org` | No |
+| `kulturkramkiste.de` | No |
 | `kulturnik.si` | No |
 | `kulturwerkstatt.de` | No |
 | `kultwiki.net` | Yes |
@@ -25511,6 +25513,7 @@ Here's a list of public Fediverse services.
 | `maid.zip` | No |
 | `maidsin.space` | No |
 | `maier.social` | No |
+| `maik-bischoff.de` | No |
 | `maik.ch` | No |
 | `maik.cloud` | No |
 | `maik.social` | No |
@@ -41451,6 +41454,7 @@ Here's a list of public Fediverse services.
 | `stratonauts.co` | No |
 | `strats.co` | Yes |
 | `stratus.family` | Yes |
+| `straub.cc` | No |
 | `straubserver.com` | Yes |
 | `strausmann.net` | Yes |
 | `straw.social` | Yes |
@@ -49846,8 +49850,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,009 |
-| Normal | 35,789 |
+| Cloudflare | 14,010 |
+| Normal | 35,792 |
 
 
 </details>
