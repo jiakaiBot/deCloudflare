@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,783 |
-| social | 4,634 |
+| social | 4,635 |
 | net | 3,885 |
 | org | 2,608 |
 | de | 2,428 |
@@ -19801,6 +19801,7 @@ Here's a list of public Fediverse services.
 | `inthecatsdreams.xyz` | No |
 | `inthedeltawaves.social` | No |
 | `intheirprime.moe` | No |
+| `inthenews.social` | No |
 | `intherain.club` | No |
 | `intinfinity.com` | Yes |
 | `intkos.link` | No |
@@ -49862,7 +49863,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,014 |
-| Normal | 35,799 |
+| Normal | 35,800 |
 
 
 </details>
