@@ -8002,7 +8002,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -27105,6 +27105,7 @@ Here's a list of public Fediverse services.
 | `mell0w-5phere.net` | No |
 | `melle.social` | No |
 | `mellem.space` | No |
+| `mellentin.eu` | No |
 | `mellified.men` | No |
 | `mellitopia.org` | No |
 | `mello.moe` | No |
@@ -37427,6 +37428,7 @@ Here's a list of public Fediverse services.
 | `rsp-blogs.de` | No |
 | `rsplwe.com` | Yes |
 | `rss.town` | No |
+| `rssfeed.media` | No |
 | `rssto.social` | Yes |
 | `rstats.me` | No |
 | `rstdn-p.com` | No |
@@ -49836,8 +49838,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,003 |
-| Normal | 35,785 |
+| Cloudflare | 14,002 |
+| Normal | 35,788 |
 
 
 </details>
