@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,776 |
+| com | 7,778 |
 | social | 4,632 |
 | net | 3,884 |
 | org | 2,608 |
@@ -351,7 +351,7 @@ Here's a list of public Fediverse services.
 | `238c.org` | No |
 | `23h42.com` | No |
 | `23th.day` | No |
-| `24-7.ro` | No |
+| `24-7.ro` | Yes |
 | `240.network` | No |
 | `246135.xyz` | No |
 | `247420.xyz` | No |
@@ -5955,6 +5955,7 @@ Here's a list of public Fediverse services.
 | `bugshack.de` | Yes |
 | `buhse.social` | No |
 | `buicha.social` | Yes |
+| `build-shift.com` | No |
 | `builders.social` | No |
 | `building7.social` | Yes |
 | `builditwith.pw` | No |
@@ -11463,6 +11464,7 @@ Here's a list of public Fediverse services.
 | `duclaria.com` | No |
 | `ducnn.com` | Yes |
 | `ductuspress.eu` | No |
+| `dudadavies.world` | No |
 | `dudeami.win` | Yes |
 | `dudebronation.com` | No |
 | `dudehabits.net` | No |
@@ -12736,6 +12738,7 @@ Here's a list of public Fediverse services.
 | `espod.social` | Yes |
 | `espodcast.net` | Yes |
 | `espr.moe` | Yes |
+| `esprath.page` | No |
 | `espresso.moe` | No |
 | `espressoapps.social` | No |
 | `esprit-fablab.org` | No |
@@ -17339,6 +17342,7 @@ Here's a list of public Fediverse services.
 | `hacusk.net` | Yes |
 | `haddock.cc` | Yes |
 | `hades.town` | No |
+| `hadna.space` | Yes |
 | `hadret.com` | Yes |
 | `haecksen.social` | No |
 | `haeder.net` | No |
@@ -25264,7 +25268,7 @@ Here's a list of public Fediverse services.
 | `m3wz.su` | No |
 | `m400cloud.com` | No |
 | `m4570.com` | Yes |
-| `m4570.xyz` | No |
+| `m4570.xyz` | Yes |
 | `m4cgyver.net` | No |
 | `m4fx.de` | Yes |
 | `m4rc3l.de` | Yes |
@@ -32076,7 +32080,7 @@ Here's a list of public Fediverse services.
 | `omnitest.social` | No |
 | `omochi.xyz` | No |
 | `omochifestival.com` | Yes |
-| `omorashi.cc` | No |
+| `omorashi.cc` | Yes |
 | `omoro.info` | Yes |
 | `omtc.fr` | No |
 | `omx.nl` | No |
@@ -33547,7 +33551,7 @@ Here's a list of public Fediverse services.
 | `perivid.xyz` | No |
 | `perkin.org.uk` | No |
 | `perkins.pub` | Yes |
-| `perktold.xyz` | No |
+| `perktold.xyz` | Yes |
 | `perl.social` | Yes |
 | `permaweb.io` | No |
 | `permi.in` | Yes |
@@ -43381,6 +43385,7 @@ Here's a list of public Fediverse services.
 | `themainframe.org` | Yes |
 | `themarkup.org` | No |
 | `themars.tk` | Yes |
+| `themaryphotographer.com` | Yes |
 | `themastodon.uk` | No |
 | `themaverick.de` | No |
 | `themaymeow.com` | Yes |
@@ -49839,8 +49844,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,003 |
-| Normal | 35,788 |
+| Cloudflare | 14,009 |
+| Normal | 35,787 |
 
 
 </details>
