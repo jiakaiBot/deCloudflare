@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,785 |
+| com | 7,787 |
 | social | 4,635 |
 | net | 3,885 |
 | org | 2,608 |
@@ -12169,6 +12169,7 @@ Here's a list of public Fediverse services.
 | `elfnostate.info` | No |
 | `elforcer.ru` | No |
 | `elfredo.net` | No |
+| `elfsteaks.com` | No |
 | `elgeekerrante.com` | No |
 | `elgiebety.pl` | No |
 | `elgranj.com` | No |
@@ -20499,6 +20500,7 @@ Here's a list of public Fediverse services.
 | `jasongriffey.net` | No |
 | `jasonhk.blog` | No |
 | `jasonjgw.net` | No |
+| `jasonjournals.com` | No |
 | `jasonkotenko.com` | No |
 | `jasonlefkowitz.net` | No |
 | `jasono.co` | Yes |
@@ -45208,6 +45210,7 @@ Here's a list of public Fediverse services.
 | `turtton.net` | Yes |
 | `turystyka-niecodzienna.pl` | No |
 | `tusk.chat` | Yes |
+| `tusk.city` | No |
 | `tusk.fyi` | No |
 | `tusk.social` | No |
 | `tusk.wtf` | Yes |
@@ -49866,7 +49869,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,017 |
-| Normal | 35,800 |
+| Normal | 35,803 |
 
 
 </details>
