@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,782 |
 | social | 4,632 |
-| net | 3,884 |
+| net | 3,885 |
 | org | 2,608 |
 | de | 2,427 |
 
@@ -1452,7 +1452,7 @@ Here's a list of public Fediverse services.
 | `aipub.social` | No |
 | `aiquiral.me` | Yes |
 | `aiqwest.com` | No |
-| `air11.org` | No |
+| `air11.org` | Yes |
 | `air11.social` | Yes |
 | `aircrew.rocks` | No |
 | `airdreams.ca` | No |
@@ -41272,6 +41272,7 @@ Here's a list of public Fediverse services.
 | `stereo.social` | No |
 | `stereodon.social` | No |
 | `stereophonic.space` | No |
+| `sternaparadisaea.net` | No |
 | `stesan.dev` | Yes |
 | `steveasleep.com` | No |
 | `stevebate.dev` | Yes |
@@ -49852,7 +49853,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,012 |
+| Cloudflare | 14,013 |
 | Normal | 35,792 |
 
 
