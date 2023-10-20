@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,784 |
+| com | 7,785 |
 | social | 4,635 |
 | net | 3,885 |
 | org | 2,608 |
-| de | 2,428 |
+| de | 2,429 |
 
 
 - Mastodon, Pleroma, etc
@@ -11974,6 +11974,7 @@ Here's a list of public Fediverse services.
 | `egert.social` | No |
 | `eggfarts.com` | No |
 | `eggfreckles.org` | No |
+| `eggipedia.de` | No |
 | `eggman.ir` | No |
 | `eggp.me` | No |
 | `eggplant.place` | Yes |
@@ -18809,6 +18810,7 @@ Here's a list of public Fediverse services.
 | `humanistische-union.de` | No |
 | `humanists.uk` | No |
 | `humanities.one` | No |
+| `humanlyhuman.com` | Yes |
 | `humanoid.blog` | No |
 | `humanoids.be` | No |
 | `humanparadox.org` | No |
@@ -49863,8 +49865,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,016 |
-| Normal | 35,799 |
+| Cloudflare | 14,017 |
+| Normal | 35,800 |
 
 
 </details>
