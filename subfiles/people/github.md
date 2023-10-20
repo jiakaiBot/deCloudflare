@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [408 Error when pulling Socket-Proxy](https://github.com/htpcBeginner/auto-traefik/issues/1)
 - [Mangahub not working](https://github.com/TheNetsky/netskys-extensions/issues/88)
 - [Unexpected status code (400) while uploading chunk](https://github.com/tus/tus-android-client/issues/98)
 - [npms.io and api.npms.io both failing with cloudflare 522 errors at this time.](https://github.com/npms-io/npms/issues/61)
