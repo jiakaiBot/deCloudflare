@@ -6751,6 +6751,7 @@ Do not create new issue or we will close it as duplicate.
 | [KoThike60854887@twitter](https://twitter.com/KoThike60854887/status/1391245268889243650) | advertise |
 | [KoThu06539206@twitter](https://twitter.com/KoThu06539206/status/1539212188358807552) | advertise |
 | [KoTo02751072@twitter](https://twitter.com/KoTo02751072/status/1394271242681667587) | advertise |
+| [kotopathe@twitter](https://twitter.com/kotopathe/status/1715697795821093298) | advertise |
 | [Kotresh_dm@twitter](https://twitter.com/Kotresh_dm/status/1518934578680844289) | advertise |
 | [koubkoub186@twitter](https://twitter.com/koubkoub186/status/1519898935422337024) | advertise |
 | [Kouga_@twitter](https://twitter.com/Kouga_/status/1456585431538036741) | advertise |
