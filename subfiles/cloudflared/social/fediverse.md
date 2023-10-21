@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,789 |
+| com | 7,792 |
 | social | 4,635 |
-| net | 3,886 |
-| org | 2,608 |
-| de | 2,429 |
+| net | 3,887 |
+| org | 2,609 |
+| de | 2,431 |
 
 
 - Mastodon, Pleroma, etc
@@ -5739,6 +5739,7 @@ Here's a list of public Fediverse services.
 | `briantajuddin.com` | No |
 | `brianturner.info` | No |
 | `brianwolf.tv` | No |
+| `bricetebbs.com` | No |
 | `bricin.net` | No |
 | `brick.camp` | No |
 | `brickbat.dev` | Yes |
@@ -19394,6 +19395,7 @@ Here's a list of public Fediverse services.
 | `immerweiterlaufen.org` | No |
 | `immibis.com` | No |
 | `immigrantcity.social` | No |
+| `immiverse.net` | No |
 | `imn-fujita.com` | No |
 | `imno.in` | No |
 | `imoimo.xyz` | No |
@@ -20819,6 +20821,7 @@ Here's a list of public Fediverse services.
 | `jimotodon.com` | No |
 | `jimtay.uk` | Yes |
 | `jimweb.dev` | No |
+| `jimwilliamson.info` | No |
 | `jimwillis.org` | No |
 | `jinc.io` | Yes |
 | `jing8956.com` | Yes |
@@ -22838,6 +22841,7 @@ Here's a list of public Fediverse services.
 | `kraksocial.xyz` | Yes |
 | `kraktoos.com` | Yes |
 | `krall.sh` | Yes |
+| `kramer.li` | Yes |
 | `kramerc.social` | No |
 | `kramerfeichtfeste.com` | No |
 | `kramersson.com` | No |
@@ -29875,6 +29879,7 @@ Here's a list of public Fediverse services.
 | `nayukana.info` | No |
 | `nayya.org` | No |
 | `naz.vc` | No |
+| `naza.io` | Yes |
 | `naza.space` | No |
 | `nazi.social` | No |
 | `nazileaks.eu` | Yes |
@@ -30523,6 +30528,7 @@ Here's a list of public Fediverse services.
 | `nicheosala.xyz` | No |
 | `nichi.co` | No |
 | `nichijou.dev` | No |
+| `nichijou.org` | Yes |
 | `nichipon.com` | No |
 | `nicholson.is` | No |
 | `nicholson.social` | Yes |
@@ -43149,6 +43155,7 @@ Here's a list of public Fediverse services.
 | `theabsolute.plus` | Yes |
 | `theadamcooper.com` | No |
 | `theaddict.ink` | No |
+| `theaddict.tech` | No |
 | `theaddict.xyz` | No |
 | `theaether.space` | Yes |
 | `theagora.one` | No |
@@ -44578,6 +44585,7 @@ Here's a list of public Fediverse services.
 | `toscer.me` | No |
 | `toshipapi.tokyo` | No |
 | `tosk.in` | Yes |
+| `tot.yt` | Yes |
 | `totalliberation.net` | No |
 | `totally.moe` | No |
 | `totallylegit.site` | No |
@@ -44616,6 +44624,7 @@ Here's a list of public Fediverse services.
 | `towards.vision` | No |
 | `towerofsong.ca` | No |
 | `towlerhousehold.com` | Yes |
+| `town-square.de` | No |
 | `towns.gay` | Yes |
 | `townsends.online` | No |
 | `townsquareapp.com` | No |
@@ -46273,6 +46282,7 @@ Here's a list of public Fediverse services.
 | `vanbeek.nz` | No |
 | `vanben.net` | No |
 | `vanbever.ch` | No |
+| `vanblogs.com` | No |
 | `vance.land` | No |
 | `vancity.social` | No |
 | `vandal.tech` | No |
@@ -47280,6 +47290,7 @@ Here's a list of public Fediverse services.
 | `watadon.com` | No |
 | `watchmeexplode.net` | No |
 | `watchpoint.social` | No |
+| `watdalos.de` | No |
 | `watercoolertrivia.com` | Yes |
 | `waterford.international` | No |
 | `waterfowl.social` | No |
@@ -49563,6 +49574,7 @@ Here's a list of public Fediverse services.
 | `zeroping.cc` | Yes |
 | `zeroping.us` | No |
 | `zeroplex.tw` | No |
+| `zerospire.com` | Yes |
 | `zerosync.net` | Yes |
 | `zerotier.com` | No |
 | `zerovolt.org` | No |
@@ -49878,8 +49890,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,023 |
-| Normal | 35,807 |
+| Cloudflare | 14,028 |
+| Normal | 35,814 |
 
 
 </details>
