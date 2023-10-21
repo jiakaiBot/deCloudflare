@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ERROR This operating system is not supported.](https://github.com/P3TERX/warp.sh/issues/114)
 - [Error generating certificate with challenge](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3276)
 - ["Error occurred during login..." 401 Authorization Required](https://github.com/balansse/homebridge-vivint/issues/126)
 - [Notion Page Redirection via Cloudflare Worker Results in Errors not working](https://github.com/stephenou/fruitionsite/issues/260)
