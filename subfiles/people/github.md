@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't open Web View of novel that requires Cloudflare verification](https://github.com/LNReader/lnreader/issues/818)
+- [Coinbase now returns Error reference number: 502 cloudflare" content="::CAPTCHA_BOX:: ::IM_UNDER_ATTACK_BOX::](https://github.com/ccxt/ccxt/issues/19636)
 - [ERROR This operating system is not supported.](https://github.com/P3TERX/warp.sh/issues/114)
 - [Error generating certificate with challenge](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3276)
 - ["Error occurred during login..." 401 Authorization Required](https://github.com/balansse/homebridge-vivint/issues/126)
