@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,792 |
 | social | 4,635 |
 | net | 3,887 |
-| org | 2,609 |
+| org | 2,610 |
 | de | 2,431 |
 
 
@@ -5502,6 +5502,7 @@ Here's a list of public Fediverse services.
 | `bostonsocial.online` | Yes |
 | `bot.country` | No |
 | `bot.nu` | Yes |
+| `botany.one` | No |
 | `botany.social` | No |
 | `botdon.net` | No |
 | `boteden.com` | No |
@@ -8483,6 +8484,7 @@ Here's a list of public Fediverse services.
 | `cozysumo.space` | Yes |
 | `cozytronics.com` | No |
 | `cphoelzchen.de` | No |
+| `cplong.org` | Yes |
 | `cplus.app` | Yes |
 | `cplus8.com` | Yes |
 | `cpluspatch.com` | Yes |
@@ -16709,6 +16711,7 @@ Here's a list of public Fediverse services.
 | `goto.bi` | No |
 | `goto.fi` | No |
 | `gotobar.tk` | No |
+| `gotocard.site` | Yes |
 | `gotosan.jp` | Yes |
 | `gotosoc.tk` | No |
 | `gotosocial.org` | Yes |
@@ -20257,7 +20260,7 @@ Here's a list of public Fediverse services.
 | `izsak.dev` | No |
 | `iztasocial.site` | No |
 | `izumi.pw` | No |
-| `izumiz.me` | No |
+| `izumiz.me` | Yes |
 | `izza.party` | Yes |
 | `izzie.mom` | Yes |
 | `izzodlaw.com` | Yes |
@@ -49892,7 +49895,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,028 |
+| Cloudflare | 14,031 |
 | Normal | 35,816 |
 
 
