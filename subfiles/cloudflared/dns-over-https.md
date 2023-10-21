@@ -231,7 +231,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | syshero.org | No |
 | t53.de | No |
 | techeasy.org | Yes |
-| technochat.in | Yes |
 | telekom.de | Yes |
 | therifleman.name | No |
 | tiar.app | No |
@@ -265,8 +264,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 119 |
+| Cloudflare | 118 |
 | Normal | 127 |
 
 
-### 48.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 48.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
