@@ -47291,7 +47291,7 @@ Here's a list of public Fediverse services.
 | `wauland.de` | No |
 | `waveform.social` | Yes |
 | `wavers.us` | No |
-| `wawa-huayuan.blue` | No |
+| `wawa-huayuan.blue` | Yes |
 | `wawas-kingdom.com` | Yes |
 | `wawik.xyz` | No |
 | `waxandleather.com` | Yes |
@@ -48794,6 +48794,7 @@ Here's a list of public Fediverse services.
 | `xxi.bz` | No |
 | `xxil.cc` | Yes |
 | `xxivproduction.video` | No |
+| `xxlab.tech` | No |
 | `xxoo.best` | No |
 | `xxoo.cat` | Yes |
 | `xxooxx.xyz` | Yes |
@@ -49874,7 +49875,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,019 |
+| Cloudflare | 14,020 |
 | Normal | 35,807 |
 
 
