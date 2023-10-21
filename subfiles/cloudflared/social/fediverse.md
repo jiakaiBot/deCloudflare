@@ -10946,6 +10946,7 @@ Here's a list of public Fediverse services.
 | `dogiakos.com` | No |
 | `doglet.ca` | No |
 | `dogno.se` | Yes |
+| `dogo.pictures` | Yes |
 | `dogphilosophy.net` | No |
 | `dogs.chat` | No |
 | `dogs.photos` | No |
@@ -44671,7 +44672,7 @@ Here's a list of public Fediverse services.
 | `trainasone.com` | Yes |
 | `trainhobo.com` | No |
 | `training-fitness.fun` | No |
-| `trains.coffee` | Yes |
+| `trains.coffee` | No |
 | `trainsgende.red` | No |
 | `trainyard.au` | No |
 | `trammenti.org` | No |
@@ -49869,7 +49870,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,017 |
-| Normal | 35,803 |
+| Normal | 35,804 |
 
 
 </details>
