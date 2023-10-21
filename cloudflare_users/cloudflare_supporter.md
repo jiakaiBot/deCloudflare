@@ -13857,6 +13857,7 @@ Do not create new issue or we will close it as duplicate.
 | [viet_baby@twitter](https://twitter.com/viet_baby/status/1404265368147808256) | advertise |
 | [viet_doan96@twitter](https://twitter.com/viet_doan96/status/1396169993948057601) | advertise |
 | [Viet_N_T@twitter](https://twitter.com/Viet_N_T/status/1581893934070235136) | advertise |
+| [viet_trieu18452@twitter](https://twitter.com/viet_trieu18452/status/1715788020346225055) | advertise |
 | [Vignesh27019944@twitter](https://twitter.com/Vignesh27019944/status/1401042149781639171) | advertise |
 | [vigneshr42@twitter](https://twitter.com/vigneshr42/status/1484386765154955264) | advertise |
 | [vijayankit@twitter](https://twitter.com/vijayankit/status/1374979677970857987) | advertise |
