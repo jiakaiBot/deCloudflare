@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,787 |
+| com | 7,788 |
 | social | 4,635 |
 | net | 3,885 |
 | org | 2,608 |
@@ -16732,6 +16732,7 @@ Here's a list of public Fediverse services.
 | `govegan.today` | Yes |
 | `governa.eu` | No |
 | `governa.org` | Yes |
+| `governancexborders.com` | No |
 | `government.st` | No |
 | `govital.net` | No |
 | `govsocial.org` | No |
@@ -24631,7 +24632,7 @@ Here's a list of public Fediverse services.
 | `local704.co` | No |
 | `localecho.net` | Yes |
 | `localghost.ooo` | Yes |
-| `localghost.org` | No |
+| `localghost.org` | Yes |
 | `localharvestsupply.com` | No |
 | `localhost.fyi` | No |
 | `localhost.run` | No |
@@ -49869,7 +49870,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,017 |
+| Cloudflare | 14,018 |
 | Normal | 35,804 |
 
 
