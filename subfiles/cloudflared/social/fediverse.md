@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,792 |
+| com | 7,793 |
 | social | 4,635 |
 | net | 3,887 |
 | org | 2,610 |
@@ -13164,6 +13164,7 @@ Here's a list of public Fediverse services.
 | `fachkraeftesicherer.de` | Yes |
 | `facil.services` | No |
 | `facorazza.com` | Yes |
+| `factelves.com` | No |
 | `factland.social` | Yes |
 | `factorial.io` | No |
 | `factsonthegroundshow.com` | No |
@@ -45144,6 +45145,7 @@ Here's a list of public Fediverse services.
 | `tubular.social` | No |
 | `tubyte.xyz` | No |
 | `tucanet.com` | No |
+| `tuckfamily.ca` | No |
 | `tucows.social` | No |
 | `tucson.claims` | No |
 | `tucsonsentinel.com` | Yes |
@@ -49896,7 +49898,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,031 |
-| Normal | 35,816 |
+| Normal | 35,818 |
 
 
 </details>
