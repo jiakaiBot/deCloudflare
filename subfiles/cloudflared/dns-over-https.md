@@ -95,7 +95,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dukun.de | No |
 | dutchwhite.nl | No |
 | edgy-dns.com | No |
-| ellichua.com | No |
 | emiliyan.com | Yes |
 | extrawdw.net | Yes |
 | fancyorg.at | No |
@@ -259,7 +258,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | xfinity.com | Yes |
 | yameenassotally.com | No |
 | yovbak.com | No |
-| yybyy.wiki | Yes |
 | zxcvb.pp.ua | Yes |
 
 
@@ -267,8 +265,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 120 |
-| Normal | 128 |
+| Cloudflare | 119 |
+| Normal | 127 |
 
 
 ### 48.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
