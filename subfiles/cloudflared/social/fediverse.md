@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,793 |
+| com | 7,794 |
 | social | 4,635 |
-| net | 3,887 |
+| net | 3,888 |
 | org | 2,610 |
 | de | 2,431 |
 
@@ -3594,7 +3594,7 @@ Here's a list of public Fediverse services.
 | `ayden.life` | Yes |
 | `ayeri.de` | No |
 | `aylett.co.uk` | Yes |
-| `aynrand.social` | No |
+| `aynrand.social` | Yes |
 | `ayntk.net` | No |
 | `ayokura.net` | Yes |
 | `ayom.media` | No |
@@ -6817,6 +6817,7 @@ Here's a list of public Fediverse services.
 | `centiworks.com` | Yes |
 | `centossrv.com` | No |
 | `centreforthestudyof.net` | No |
+| `ceod.net` | No |
 | `ceox.dev` | Yes |
 | `cephalopod.space` | No |
 | `cepharum.social` | No |
@@ -7211,7 +7212,7 @@ Here's a list of public Fediverse services.
 | `chitownmastodon.tech` | No |
 | `chitter.social` | Yes |
 | `chitter.xyz` | No |
-| `chitterchatz.com` | No |
+| `chitterchatz.com` | Yes |
 | `chiurbanist.com` | No |
 | `chivanet.org` | No |
 | `chiwa.net` | Yes |
@@ -14047,6 +14048,7 @@ Here's a list of public Fediverse services.
 | `fifthcity.social` | No |
 | `fifthdread.com` | No |
 | `fifthdread.tv` | No |
+| `fiftyfiftywoodworks.com` | No |
 | `fig.lt` | No |
 | `fig.systems` | Yes |
 | `figendi.de` | No |
@@ -43273,7 +43275,7 @@ Here's a list of public Fediverse services.
 | `thecurrentla.com` | Yes |
 | `thecyberdeck.xyz` | Yes |
 | `thecybernetwork.us` | Yes |
-| `thedaily.click` | Yes |
+| `thedaily.click` | No |
 | `thedailyeconomist.com` | No |
 | `thedataexchange.media` | No |
 | `thedav.is` | Yes |
@@ -49897,8 +49899,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,031 |
-| Normal | 35,818 |
+| Cloudflare | 14,032 |
+| Normal | 35,819 |
 
 
 </details>
