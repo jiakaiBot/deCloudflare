@@ -20062,6 +20062,7 @@ Here's a list of public Fediverse services.
 | `isntvery.social` | Yes |
 | `isoba.rs` | No |
 | `isoc.no` | No |
+| `isocial.cloud` | Yes |
 | `isoladellerose.social` | No |
 | `isolated.actor` | Yes |
 | `isoliertaber.online` | No |
@@ -27467,6 +27468,7 @@ Here's a list of public Fediverse services.
 | `miau.pub` | Yes |
 | `miau.vg` | Yes |
 | `miauuu.de` | No |
+| `miauws.life` | No |
 | `miawinter.de` | No |
 | `mib.contact` | Yes |
 | `miblog.life` | No |
@@ -39676,6 +39678,7 @@ Here's a list of public Fediverse services.
 | `siyasettime31.com` | No |
 | `sizecraft.social` | No |
 | `sizedon.com` | No |
+| `sizeriot.us` | No |
 | `sizuma.website` | No |
 | `sjatar.net` | No |
 | `sjbodzo.com` | Yes |
@@ -49871,8 +49874,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,018 |
-| Normal | 35,805 |
+| Cloudflare | 14,019 |
+| Normal | 35,807 |
 
 
 </details>
