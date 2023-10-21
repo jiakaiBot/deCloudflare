@@ -6001,6 +6001,7 @@ Here's a list of public Fediverse services.
 | `bunglers.it` | No |
 | `bungudon.jp` | No |
 | `bungwangsi.xyz` | Yes |
+| `buni.ee` | No |
 | `bunix.de` | No |
 | `bunji.social` | Yes |
 | `bunkerchan.xyz` | Yes |
@@ -49891,7 +49892,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,028 |
-| Normal | 35,814 |
+| Normal | 35,815 |
 
 
 </details>
