@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,794 |
 | social | 4,635 |
-| net | 3,888 |
+| net | 3,889 |
 | org | 2,610 |
 | de | 2,431 |
 
@@ -12742,6 +12742,7 @@ Here's a list of public Fediverse services.
 | `espace.si` | No |
 | `esparrec.ml` | No |
 | `esparrec.net` | Yes |
+| `especiallyrelative.net` | No |
 | `espectro.observer` | Yes |
 | `espeech.org` | Yes |
 | `espeon.social` | No |
@@ -16998,6 +16999,7 @@ Here's a list of public Fediverse services.
 | `groningendigitalcity.com` | No |
 | `gronk.cc` | No |
 | `gronkiewicz.dev` | Yes |
+| `groomer.cc` | No |
 | `groomlakeroad.com` | No |
 | `groosha.cf` | No |
 | `groothub.com` | Yes |
@@ -26844,6 +26846,7 @@ Here's a list of public Fediverse services.
 | `maybe.pizza` | No |
 | `maydayroleplay.com` | No |
 | `mayel.space` | Yes |
+| `mayer.rocks` | No |
 | `mayes.io` | Yes |
 | `mayfirst.org` | No |
 | `mayhap.org` | No |
@@ -41877,6 +41880,7 @@ Here's a list of public Fediverse services.
 | `surgeons.social` | Yes |
 | `surgeplay.com` | Yes |
 | `surindaku.dev` | Yes |
+| `surmonserveur.fr` | No |
 | `surrealbee.com` | No |
 | `surrealism.life` | No |
 | `surreptitious.ly` | No |
@@ -42407,6 +42411,7 @@ Here's a list of public Fediverse services.
 | `tamagotchi.rodeo` | No |
 | `tamai.mobi` | No |
 | `tamakasu.ga` | No |
+| `tamaki-shimai.moe` | No |
 | `tamakodon.jp` | No |
 | `tamamu.dev` | No |
 | `tamax.ml` | No |
@@ -49900,7 +49905,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,032 |
-| Normal | 35,819 |
+| Normal | 35,824 |
 
 
 </details>
