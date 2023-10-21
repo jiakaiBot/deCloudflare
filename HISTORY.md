@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-10-21: [Latency issues affecting customers.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/y0fqq9x9vn7q)
 - 2023-10-20: [Issues with WebSockets Performance](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9548jjpnvhsh)
 - 2023-10-17: [Load Balancer Pool shows status as Unknown for multiple customers.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8msny67s17cx)
 - 2023-10-16: [Network Performance Issues in MSP](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9vnrc37z10qb)
