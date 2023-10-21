@@ -14519,6 +14519,7 @@ Do not create new issue or we will close it as duplicate.
 | [yavjil@twitter](https://twitter.com/yavjil/status/1554599568897200129) | advertise |
 | [yAw12eeee@twitter](https://twitter.com/yAw12eeee/status/1400854581752393735) | advertise |
 | [YAwad7@twitter](https://twitter.com/YAwad7/status/1380723783540084737) | advertise |
+| [yaw_kuan@twitter](https://twitter.com/yaw_kuan/status/1715680770315223047) | advertise |
 | [yay_cat_@twitter](https://twitter.com/yay_cat_/status/1431521757995970560) | advertise |
 | [Yazar76810526@twitter](https://twitter.com/Yazar76810526/status/1392062593620058114) | advertise |
 | [YBehniafar@twitter](https://twitter.com/YBehniafar/status/1401249032958263297) | advertise |
