@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,788 |
+| com | 7,789 |
 | social | 4,635 |
 | net | 3,886 |
 | org | 2,608 |
@@ -4752,6 +4752,7 @@ Here's a list of public Fediverse services.
 | `birdinter.net` | No |
 | `birdity.club` | No |
 | `birdkey.ml` | No |
+| `birdnest.day` | Yes |
 | `birdon.social` | No |
 | `birdriver.org` | No |
 | `birds.garden` | No |
@@ -23879,6 +23880,7 @@ Here's a list of public Fediverse services.
 | `lemuspeschel.com` | Yes |
 | `lemy.lol` | Yes |
 | `lemy.nl` | Yes |
+| `len-q-phantom.stream` | Yes |
 | `lenakotonski.de` | No |
 | `lenchan139.org` | Yes |
 | `lendami.co` | No |
@@ -31142,7 +31144,7 @@ Here's a list of public Fediverse services.
 | `nortel.cloud` | No |
 | `northbaypython.org` | No |
 | `northeast.one` | No |
-| `northern-fox.com` | No |
+| `northern-fox.com` | Yes |
 | `northernvoice.app` | No |
 | `northlandia.net` | No |
 | `northofthewall.social` | No |
@@ -47411,6 +47413,7 @@ Here's a list of public Fediverse services.
 | `webserv-mg.de` | No |
 | `website-inator.com` | No |
 | `websozis.social` | No |
+| `websterresearchconsulting.com` | No |
 | `webtangle.de` | No |
 | `webtermine.at` | No |
 | `webtoo.ls` | Yes |
@@ -49875,7 +49878,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,020 |
+| Cloudflare | 14,023 |
 | Normal | 35,807 |
 
 
