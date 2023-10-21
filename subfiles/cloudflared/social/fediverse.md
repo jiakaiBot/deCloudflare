@@ -10600,6 +10600,7 @@ Here's a list of public Fediverse services.
 | `dilmandila.com` | No |
 | `dilopiaf.fr` | No |
 | `diluvian.cc` | No |
+| `diluz.io` | No |
 | `dimension.host` | No |
 | `dimequecomes.com` | No |
 | `dimethyl.xyz` | No |
@@ -49892,7 +49893,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,028 |
-| Normal | 35,815 |
+| Normal | 35,816 |
 
 
 </details>
