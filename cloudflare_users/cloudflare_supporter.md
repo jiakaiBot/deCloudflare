@@ -1016,6 +1016,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aon97493554@twitter](https://twitter.com/Aon97493554/status/1390939593080442884) | advertise |
 | [AOneKoKo1@twitter](https://twitter.com/AOneKoKo1/status/1396348320163930112) | advertise |
 | [Aorelianu@twitter](https://twitter.com/Aorelianu/status/1575798494673403904) | advertise |
+| [Aot253029@twitter](https://twitter.com/Aot253029/status/1715586868484718962) | advertise |
 | [AP111_103@twitter](https://twitter.com/AP111_103/status/1638226584883838978) | advertise |
 | [ap1998106822@twitter](https://twitter.com/ap1998106822/status/1389791514016948225) | advertise |
 | [apa4h@twitter](https://twitter.com/apa4h/status/1379030071202185217) | advertise |
@@ -4575,6 +4576,7 @@ Do not create new issue or we will close it as duplicate.
 | [HEMANTH74907800@twitter](https://twitter.com/HEMANTH74907800/status/1393162174189604870) | advertise |
 | [HEMANTN09968572@twitter](https://twitter.com/HEMANTN09968572/status/1396999578172284928) | advertise |
 | [HemloStevora@twitter](https://twitter.com/HemloStevora/status/1665874525144367104) | advertise |
+| [Hemmikuhschlemr@twitter](https://twitter.com/Hemmikuhschlemr/status/1715602907104436494) | advertise |
 | [hencefreebands@twitter](https://twitter.com/hencefreebands/status/1648925589170995202) | advertise |
 | [hendrixx_h@twitter](https://twitter.com/hendrixx_h/status/1615951213102505987) | advertise |
 | [hendrouu_@twitter](https://twitter.com/hendrouu_/status/1398767068497862657) | advertise |
@@ -11060,6 +11062,7 @@ Do not create new issue or we will close it as duplicate.
 | [rng81037312@twitter](https://twitter.com/rng81037312/status/1548930284585766913) | advertise |
 | [Rnosiba_12@twitter](https://twitter.com/Rnosiba_12/status/1607854048358666242) | advertise |
 | [rnrwebdesign@twitter](https://twitter.com/rnrwebdesign/status/1557482655087738880) | advertise |
+| [rnyrny085960786@twitter](https://twitter.com/rnyrny085960786/status/1715423996056105219) | advertise |
 | [RobAllen26@twitter](https://twitter.com/RobAllen26/status/1386491535038902276) | advertise |
 | [robbiebobbyb@twitter](https://twitter.com/robbiebobbyb/status/1620188830518349825) | advertise |
 | [robert39231@twitter](https://twitter.com/robert39231/status/1702418843120091148) | advertise |
@@ -11394,6 +11397,7 @@ Do not create new issue or we will close it as duplicate.
 | [SammyTrinity2@twitter](https://twitter.com/SammyTrinity2/status/1660696532004290569) | advertise |
 | [sampath_binura@twitter](https://twitter.com/sampath_binura/status/1402497203533385728) | advertise |
 | [samrakhimjonov@twitter](https://twitter.com/samrakhimjonov/status/1678822201724919809) | advertise |
+| [SamruamSrinoi@twitter](https://twitter.com/SamruamSrinoi/status/1715608919924769047) | advertise |
 | [samsam36495863@twitter](https://twitter.com/samsam36495863/status/1380863072726876163) | advertise |
 | [Samsher12808325@twitter](https://twitter.com/Samsher12808325/status/1516307889388163076) | advertise |
 | [Samsung37858114@twitter](https://twitter.com/Samsung37858114/status/1689879437045813248) | advertise |
@@ -11812,6 +11816,7 @@ Do not create new issue or we will close it as duplicate.
 | [sidikaris711@twitter](https://twitter.com/sidikaris711/status/1385191423482335237) | advertise |
 | [SidingWithin@twitter](https://twitter.com/SidingWithin/status/1485696710475194372) | advertise |
 | [SightedBike273@twitter](https://twitter.com/SightedBike273/status/1424714154208899075) | advertise |
+| [Sihhu2@twitter](https://twitter.com/Sihhu2/status/1715583069900742913) | advertise |
 | [siiidham@twitter](https://twitter.com/siiidham/status/1576484315692957696) | advertise |
 | [sikalab1@twitter](https://twitter.com/sikalab1/status/1497551580253634570) | advertise |
 | [SikasAhmed2@twitter](https://twitter.com/SikasAhmed2/status/1471867928190541830) | advertise |
