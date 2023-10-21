@@ -151,6 +151,7 @@ Or is this merely a case of simple modesty?
 | Ana Boardman-Hsue | Program Manager |  |
 | Ana Hagerup | Business Development |  |
 | Anand Guruprasad | Solutions Engineer |  |
+| Ana Oliveira | Employee | |
 | Anbang Wen | Employee |  |
 | Anca Hurduc | Account Executive |  |
 | Andie Goodwin | Employee | |
@@ -228,6 +229,7 @@ Or is this merely a case of simple modesty?
 | Armando Faz-Hernandez | Cryptography Engineer |  |
 | Armando Faz | Cryptography Engineer | https://twitter.com/armfazh<br>armfazh@cloudflare.com |
 | Arman Rye | Solutions Engineer |  |
+| Armen Boursalian | Employee | |
 | Aron Nakazato | Employee | |
 | Arthur Fabre | Systems Engineer |  |
 | Arun Rahul Singh | Product Marketing, Security |  |
@@ -814,6 +816,7 @@ Or is this merely a case of simple modesty?
 | Jason Shapiro | Litigation Counsel |  |
 | Jason Tanner | Solutions Engineer |  |
 | Jason Yu | Business Development |  |
+| Javier Castro | Employee | |
 | Javier Guerra | Systems Engineer |  |
 | Jay-o Hyon | Customer Success |  |
 | Jayapriya Surendran | Web Services Engineer |  |
@@ -1034,6 +1037,7 @@ Or is this merely a case of simple modesty?
 | Khaled AlSaleh | Employee |  |
 | Khanh Dao | Tax Manager |  |
 | Kia Liang | Employee |  |
+| Kimberly Hall | Employee | |
 | Kim Jen | Infrastructure Sourcing |  |
 | Kim Jeske | Employee | |
 | Kim Jin-Woong | Head of Sales |  |
