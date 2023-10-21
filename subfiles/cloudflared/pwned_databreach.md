@@ -600,6 +600,7 @@ Here's a list of breached sites.
 | TruthFinder (Truth Finder) | 8,159,573 | Yes |
 | Tumblr (tumblr) | 65,469,298 | Yes |
 | TunedGlobal (Tuned Global) | 985,586 | Yes |
+| Tunngle | 8,192,928 | No |
 | Twitter200M (Twitter (200M)) | 211,524,284 | No |
 | Twitter | 6,682,453 | No |
 | UC (University of California) | 547,422 | Yes |
@@ -703,7 +704,7 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 400 | 4,487,744,115 |
-| Normal | 281 | 4,498,273,625 |
+| Normal | 282 | 4,506,466,553 |
 
 
 
