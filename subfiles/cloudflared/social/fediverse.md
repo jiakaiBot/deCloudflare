@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,788 |
 | social | 4,635 |
-| net | 3,885 |
+| net | 3,886 |
 | org | 2,608 |
 | de | 2,429 |
 
@@ -6177,6 +6177,7 @@ Here's a list of public Fediverse services.
 | `c-henry.fr` | No |
 | `c-ici.ch` | Yes |
 | `c-onner.de` | Yes |
+| `c-onner.net` | No |
 | `c-onr.de` | Yes |
 | `c-p-b.com` | No |
 | `c-pool.jp` | No |
@@ -49871,7 +49872,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,018 |
-| Normal | 35,804 |
+| Normal | 35,805 |
 
 
 </details>
