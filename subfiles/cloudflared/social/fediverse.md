@@ -27801,6 +27801,7 @@ Here's a list of public Fediverse services.
 | `minecraft-pe.lol` | No |
 | `minecraft.gg` | No |
 | `minecraftanarquia.xyz` | Yes |
+| `minecraftchest1.us` | Yes |
 | `minecrafty.tk` | No |
 | `minedol12.tk` | No |
 | `minego.net` | Yes |
@@ -28492,7 +28493,7 @@ Here's a list of public Fediverse services.
 | `monsterpit.gallery` | No |
 | `monsterpit.net` | Yes |
 | `monsterprom.space` | No |
-| `monstodon.info` | Yes |
+| `monstodon.info` | No |
 | `monstr.es` | No |
 | `monstro1.com` | No |
 | `monstrous.church` | No |
@@ -49932,7 +49933,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,042 |
-| Normal | 35,841 |
+| Normal | 35,842 |
 
 
 </details>
