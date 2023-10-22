@@ -28814,6 +28814,7 @@ Here's a list of public Fediverse services.
 | `mro.name` | No |
 | `mroberts.me` | Yes |
 | `mrotek.xyz` | No |
+| `mrow.pet` | Yes |
 | `mrow.space` | Yes |
 | `mrpetovan.com` | No |
 | `mrpjevans.com` | No |
@@ -30019,6 +30020,7 @@ Here's a list of public Fediverse services.
 | `nejati.net` | Yes |
 | `nejiamasi.com` | No |
 | `nejimaki-radio.com` | No |
+| `nek.zone` | Yes |
 | `neka.site` | Yes |
 | `nekit.tk` | No |
 | `nekko.online` | No |
@@ -34732,7 +34734,7 @@ Here's a list of public Fediverse services.
 | `poslovitch.fr` | No |
 | `possum.city` | Yes |
 | `possum.gay` | No |
-| `possum.land` | Yes |
+| `possum.land` | No |
 | `possumgraveyard.com` | No |
 | `possumlodge.me` | No |
 | `possumpat.io` | No |
@@ -49904,8 +49906,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,032 |
-| Normal | 35,824 |
+| Cloudflare | 14,033 |
+| Normal | 35,825 |
 
 
 </details>
