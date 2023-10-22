@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,797 |
-| social | 4,636 |
+| social | 4,637 |
 | net | 3,890 |
 | org | 2,611 |
 | de | 2,431 |
@@ -31247,6 +31247,7 @@ Here's a list of public Fediverse services.
 | `notfreespee.ch` | No |
 | `notfunk.radio` | No |
 | `notglossy.com` | Yes |
+| `nothanks.lol` | No |
 | `notherweb.com` | No |
 | `nothing-ever.works` | Yes |
 | `nothing.rodeo` | No |
@@ -31842,6 +31843,7 @@ Here's a list of public Fediverse services.
 | `oe74.net` | No |
 | `oe7drt.com` | Yes |
 | `oedoinfo.com` | Yes |
+| `oegdi.at` | No |
 | `oekaki.st` | No |
 | `oekakiskey.com` | Yes |
 | `oeks.de` | No |
@@ -34957,6 +34959,7 @@ Here's a list of public Fediverse services.
 | `prieb.me` | No |
 | `prieb.social` | No |
 | `primarycare.app` | Yes |
+| `primarycare.social` | No |
 | `primatemind.info` | No |
 | `primboard.de` | No |
 | `prime8s.xyz` | Yes |
@@ -49917,7 +49920,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,037 |
-| Normal | 35,831 |
+| Normal | 35,834 |
 
 
 </details>
