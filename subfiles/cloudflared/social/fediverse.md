@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,797 |
+| com | 7,800 |
 | social | 4,637 |
-| net | 3,890 |
+| net | 3,891 |
 | org | 2,611 |
-| de | 2,431 |
+| de | 2,434 |
 
 
 - Mastodon, Pleroma, etc
@@ -10823,6 +10823,7 @@ Here's a list of public Fediverse services.
 | `dkub.dev` | Yes |
 | `dkwall.social` | Yes |
 | `dkxpress.dk` | No |
+| `dl10yr.com` | No |
 | `dlants.me` | Yes |
 | `dlazaro.ca` | Yes |
 | `dlct.ca` | No |
@@ -16952,6 +16953,7 @@ Here's a list of public Fediverse services.
 | `gridcave.social` | Yes |
 | `gridfinity.com` | No |
 | `gridiron.social` | No |
+| `gridp7.de` | No |
 | `griefed.de` | No |
 | `griesser.me` | No |
 | `grieve-smith.com` | No |
@@ -18237,6 +18239,7 @@ Here's a list of public Fediverse services.
 | `hintenbeimbier.de` | No |
 | `hinter.bayern` | No |
 | `hintersphere.com` | No |
+| `hintertomb.net` | Yes |
 | `hintz.social` | Yes |
 | `hinzundcode.social` | No |
 | `hip-hop.social` | No |
@@ -25098,6 +25101,7 @@ Here's a list of public Fediverse services.
 | `lukaprincic.si` | No |
 | `lukaroose.nl` | No |
 | `lukas-schieren.de` | No |
+| `lukaskoster.nl` | No |
 | `lukasrinins.land` | No |
 | `lukasrosenstock.net` | No |
 | `lukaszkopczyk.com` | No |
@@ -30519,6 +30523,7 @@ Here's a list of public Fediverse services.
 | `nhentai.ink` | Yes |
 | `nhg.moe` | No |
 | `nho.io` | No |
+| `nhs69ers.com.au` | No |
 | `nhw.social` | No |
 | `niadon.club` | No |
 | `niagara.social` | No |
@@ -31671,6 +31676,7 @@ Here's a list of public Fediverse services.
 | `nzsocial.net` | No |
 | `nzws.me` | Yes |
 | `o-k-i.net` | Yes |
+| `o-k-m.de` | No |
 | `o-man.co` | No |
 | `o-nature-culture.net` | No |
 | `o-o.party` | Yes |
@@ -33584,6 +33590,7 @@ Here's a list of public Fediverse services.
 | `pepple.us` | No |
 | `peppyfish.com` | Yes |
 | `pepsi.zone` | No |
+| `peq42.com` | Yes |
 | `perceptiontravel.tv` | Yes |
 | `perceptiveconstructs.com` | No |
 | `peregrinecoast.press` | Yes |
@@ -33794,6 +33801,7 @@ Here's a list of public Fediverse services.
 | `philly.chat` | No |
 | `philly.page` | No |
 | `philosophers.social` | No |
+| `philosophyandfiction.com` | No |
 | `philoxweb.be` | No |
 | `philpin.com` | Yes |
 | `philpot.org` | No |
@@ -37398,6 +37406,7 @@ Here's a list of public Fediverse services.
 | `rosti.social` | No |
 | `rosy-colored.space` | Yes |
 | `rot.gives` | No |
+| `rot26.de` | No |
 | `roter-kreis.de` | No |
 | `roteserver.de` | No |
 | `rothery.me` | No |
@@ -38691,6 +38700,7 @@ Here's a list of public Fediverse services.
 | `sebastianmoitzheim.de` | No |
 | `sebastiantinschert.de` | No |
 | `sebastianwoehrl.name` | No |
+| `sebastienbstd.ovh` | No |
 | `sebastienmaret.net` | No |
 | `sebastienvigneau.xyz` | No |
 | `sebastix.com` | No |
@@ -46411,7 +46421,7 @@ Here's a list of public Fediverse services.
 | `vectemis.co.uk` | Yes |
 | `vectemis.social` | Yes |
 | `vector.social` | No |
-| `vector1.dev` | No |
+| `vector1.dev` | Yes |
 | `vectorsigma.ru` | Yes |
 | `vedetta.com` | No |
 | `vedimak.ru` | No |
@@ -49817,6 +49827,7 @@ Here's a list of public Fediverse services.
 | `zr23.aomori.jp` | No |
 | `zr40.nl` | Yes |
 | `zroot.org` | No |
+| `zrq.io` | Yes |
 | `zrx.one` | No |
 | `zrythm.org` | No |
 | `zsemberi.de` | No |
@@ -49919,8 +49930,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,037 |
-| Normal | 35,834 |
+| Cloudflare | 14,041 |
+| Normal | 35,841 |
 
 
 </details>
