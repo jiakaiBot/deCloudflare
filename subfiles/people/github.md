@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [can install app or extension by shopify/cli](https://github.com/Shopify/cli/issues/3008)
 - [FFZ is breaking a couple global Twitch emotes for me](https://github.com/FrankerFaceZ/FrankerFaceZ/issues/1421)
 - [Can’t modify immutable headers](https://github.com/honojs/hono/issues/1606)
 - [Can't open Web View of novel that requires Cloudflare verification](https://github.com/LNReader/lnreader/issues/818)
