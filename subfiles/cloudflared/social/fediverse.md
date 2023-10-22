@@ -43010,6 +43010,7 @@ Here's a list of public Fediverse services.
 | `terrible.gay` | No |
 | `terrible.graphics` | No |
 | `terrible.place` | No |
+| `terrible.systems` | Yes |
 | `terribleterrapin.com` | Yes |
 | `terribly.social` | No |
 | `territoridigitali.org` | No |
@@ -49930,7 +49931,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,041 |
+| Cloudflare | 14,042 |
 | Normal | 35,841 |
 
 
