@@ -2709,6 +2709,7 @@ Do not create new issue or we will close it as duplicate.
 | [Czjccc@twitter](https://twitter.com/Czjccc/status/1665871747244253186) | advertise |
 | [czzhi@twitter](https://twitter.com/czzhi/status/1688152103431413760) | advertise |
 | [c_ming_@twitter](https://twitter.com/c_ming_/status/1438859741480902661) | advertise |
+| [d0il_d@twitter](https://twitter.com/d0il_d/status/1715904562354102525) | advertise |
 | [D0376752033@twitter](https://twitter.com/D0376752033/status/1589506586124652544) | advertise |
 | [D3dS3cOfficial@twitter](https://twitter.com/D3dS3cOfficial/status/1498098675351961603) | advertise |
 | [d3qube@twitter](https://twitter.com/d3qube/status/1707336756281143540) | advertise |
