@@ -35863,6 +35863,7 @@ Here's a list of public Fediverse services.
 | `radfae.social` | No |
 | `radfoote.net` | No |
 | `radgames.space` | No |
+| `radhitya.id` | Yes |
 | `radiant.garden` | No |
 | `radiant.social` | Yes |
 | `radiate038.com` | No |
@@ -49908,7 +49909,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,034 |
+| Cloudflare | 14,035 |
 | Normal | 35,826 |
 
 
