@@ -5538,6 +5538,7 @@ Do not create new issue or we will close it as duplicate.
 | [ittekikun@twitter](https://twitter.com/ittekikun/status/1669658417718501376) | advertise |
 | [iturle_lilery@twitter](https://twitter.com/iturle_lilery/status/1384847338875801608) | advertise |
 | [itx3010@twitter](https://twitter.com/itx3010/status/1382043714714021893) | advertise |
+| [ItxRiky@twitter](https://twitter.com/ItxRiky/status/1715966731443687799) | advertise |
 | [itzmadusanka@twitter](https://twitter.com/itzmadusanka/status/1541971199173197828) | advertise |
 | [itzornab@twitter](https://twitter.com/itzornab/status/1665889147473784832) | advertise |
 | [itzSenPaiii@twitter](https://twitter.com/itzSenPaiii/status/1382434870757109763) | advertise |
@@ -13532,6 +13533,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tunanh94933384@twitter](https://twitter.com/Tunanh94933384/status/1485162725068382211) | advertise |
 | [tunaung27101990@twitter](https://twitter.com/tunaung27101990/status/1392413941335089155) | advertise |
 | [TunBeo3@twitter](https://twitter.com/TunBeo3/status/1406537643005861888) | advertise |
+| [tung050g@twitter](https://twitter.com/tung050g/status/1715981438552818134) | advertise |
 | [Tung30082003@twitter](https://twitter.com/Tung30082003/status/1713632795883663391) | advertise |
 | [Tung55985050@twitter](https://twitter.com/Tung55985050/status/1401516166896443395) | advertise |
 | [tung85288887@twitter](https://twitter.com/tung85288887/status/1536123681826430976) | advertise |
