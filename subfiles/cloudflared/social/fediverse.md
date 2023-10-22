@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,794 |
-| social | 4,635 |
-| net | 3,889 |
+| com | 7,795 |
+| social | 4,636 |
+| net | 3,890 |
 | org | 2,610 |
 | de | 2,431 |
 
@@ -1043,6 +1043,7 @@ Here's a list of public Fediverse services.
 | `accounting.social` | No |
 | `accretion.eu.org` | No |
 | `accum.se` | No |
+| `ace.re` | Yes |
 | `acegiak.net` | No |
 | `aceinpink.social` | No |
 | `aceinteract.social` | No |
@@ -14574,6 +14575,7 @@ Here's a list of public Fediverse services.
 | `forked.io` | Yes |
 | `forkexec.net` | No |
 | `forkk.me` | Yes |
+| `forkk.net` | Yes |
 | `forklevelzero.org` | No |
 | `forklift-certified.fyi` | No |
 | `forlorn.computer` | No |
@@ -30474,6 +30476,7 @@ Here's a list of public Fediverse services.
 | `nexusofnerd.org` | Yes |
 | `nexusuk.org` | No |
 | `nexxis.online` | No |
+| `nexxis.social` | No |
 | `nexxt.social` | No |
 | `nexxtsocial.de` | No |
 | `ney.ink` | No |
@@ -31852,7 +31855,7 @@ Here's a list of public Fediverse services.
 | `oevents.co.za` | No |
 | `oewnjoyb.uk` | No |
 | `ofa.dog` | No |
-| `ofadam.com` | No |
+| `ofadam.com` | Yes |
 | `ofans.site` | Yes |
 | `ofaolain.com` | Yes |
 | `ofbajor.com` | Yes |
@@ -47037,6 +47040,7 @@ Here's a list of public Fediverse services.
 | `vulpini.zone` | Yes |
 | `vulpo.one` | Yes |
 | `vulturion.com` | No |
+| `vurtdefurk.com` | No |
 | `vutazeal.com` | Yes |
 | `vuurvis.be` | No |
 | `vuwuv.com` | No |
@@ -49909,10 +49913,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,035 |
-| Normal | 35,826 |
+| Cloudflare | 14,038 |
+| Normal | 35,827 |
 
 
 </details>
 
-### 28.1% of public Fediverse services are using Cloudflare.
+### 28.2% of public Fediverse services are using Cloudflare.
