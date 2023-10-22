@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can’t modify immutable headers](https://github.com/honojs/hono/issues/1606)
 - [Can't open Web View of novel that requires Cloudflare verification](https://github.com/LNReader/lnreader/issues/818)
 - [Coinbase now returns Error reference number: 502 cloudflare" content="::CAPTCHA_BOX:: ::IM_UNDER_ATTACK_BOX::](https://github.com/ccxt/ccxt/issues/19636)
 - [ERROR This operating system is not supported.](https://github.com/P3TERX/warp.sh/issues/114)
