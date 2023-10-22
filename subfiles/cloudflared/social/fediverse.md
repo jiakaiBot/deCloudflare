@@ -5069,7 +5069,7 @@ Here's a list of public Fediverse services.
 | `blobpat.space` | No |
 | `blobs.space` | No |
 | `blobturtle.club` | Yes |
-| `blobular.com` | No |
+| `blobular.com` | Yes |
 | `bloc.black` | No |
 | `blockbastler.de` | No |
 | `blockedur.mom` | No |
@@ -24188,6 +24188,7 @@ Here's a list of public Fediverse services.
 | `librenet.gr` | No |
 | `librenet.uy` | No |
 | `librenet.xyz` | No |
+| `libreoffice.lat` | No |
 | `libreon.fr` | No |
 | `libreplanetbr.org` | No |
 | `libreprime.info` | No |
@@ -49887,7 +49888,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,034 |
+| Cloudflare | 14,035 |
 | Normal | 35,805 |
 
 
