@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,803 |
+| com | 7,802 |
 | social | 4,637 |
-| net | 3,891 |
+| net | 3,892 |
 | org | 2,611 |
 | de | 2,434 |
 
@@ -1357,6 +1357,7 @@ Here's a list of public Fediverse services.
 | `agadius.de` | No |
 | `againstthefuture.net` | No |
 | `agates.io` | No |
+| `agatha.gay` | No |
 | `agb-web.de` | No |
 | `agdersam.no` | No |
 | `aggregation.cafe` | No |
@@ -7397,7 +7398,7 @@ Here's a list of public Fediverse services.
 | `chumley.io` | No |
 | `chun.pro` | Yes |
 | `chunboan.zone` | No |
-| `chunchun.world` | No |
+| `chunchun.world` | Yes |
 | `chungus.cc` | No |
 | `chungus.online` | Yes |
 | `chunkyguys.app` | No |
@@ -8014,7 +8015,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -16866,7 +16867,6 @@ Here's a list of public Fediverse services.
 | `greekgodbod.com` | No |
 | `greeksocial.eu` | No |
 | `green-owl-technology.com` | No |
-| `green3green.com` | No |
 | `greenboi.me` | Yes |
 | `greenboys.club` | No |
 | `greendalecommunity.college` | No |
@@ -43430,6 +43430,7 @@ Here's a list of public Fediverse services.
 | `thekellys.co` | Yes |
 | `thekitty.zone` | Yes |
 | `thekittysays.icu` | No |
+| `thekjd.net` | No |
 | `thekosinski.com` | No |
 | `thekrugers.com` | Yes |
 | `thekurokuma.net` | No |
@@ -49935,10 +49936,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,043 |
-| Normal | 35,844 |
+| Cloudflare | 14,045 |
+| Normal | 35,843 |
 
 
 </details>
 
-### 28.1% of public Fediverse services are using Cloudflare.
+### 28.2% of public Fediverse services are using Cloudflare.
