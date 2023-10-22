@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,800 |
+| com | 7,803 |
 | social | 4,637 |
 | net | 3,891 |
 | org | 2,611 |
@@ -7843,6 +7843,7 @@ Here's a list of public Fediverse services.
 | `codefor.de` | No |
 | `codefossa.net` | No |
 | `codegito.xyz` | No |
+| `codehearth.com` | No |
 | `codeine.world` | Yes |
 | `codelib.re` | Yes |
 | `codem.xyz` | No |
@@ -9834,7 +9835,7 @@ Here's a list of public Fediverse services.
 | `deadbeefcafe.net` | No |
 | `deadbolt.social` | Yes |
 | `deadbsd.org` | Yes |
-| `deadbyte.is` | No |
+| `deadbyte.is` | Yes |
 | `deadcode.website` | No |
 | `deadcomputer.online` | No |
 | `deadendahead.com` | No |
@@ -22539,6 +22540,7 @@ Here's a list of public Fediverse services.
 | `knowfeeldo.xyz` | No |
 | `knowfore.ca` | No |
 | `knowhere.cafe` | Yes |
+| `knowicles.com` | No |
 | `knowingart.com` | No |
 | `knowledgehub.social` | No |
 | `knowltonwx.com` | Yes |
@@ -24458,6 +24460,7 @@ Here's a list of public Fediverse services.
 | `lisboa.social` | Yes |
 | `liseklucek.pl` | Yes |
 | `lisp.buzz` | No |
+| `listbuglar.com` | No |
 | `listen.gallery` | No |
 | `listen.moe` | Yes |
 | `listenbourg.eu` | Yes |
@@ -49932,8 +49935,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,042 |
-| Normal | 35,842 |
+| Cloudflare | 14,043 |
+| Normal | 35,844 |
 
 
 </details>
