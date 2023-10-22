@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,795 |
+| com | 7,797 |
 | social | 4,636 |
 | net | 3,890 |
 | org | 2,611 |
@@ -12920,6 +12920,7 @@ Here's a list of public Fediverse services.
 | `evertools.io` | Yes |
 | `evertron.tv` | No |
 | `everwas.com` | Yes |
+| `every-little.com` | No |
 | `everydayedward.com` | Yes |
 | `everydayimshuflin.com` | No |
 | `everydev.com` | Yes |
@@ -16863,6 +16864,7 @@ Here's a list of public Fediverse services.
 | `greekgodbod.com` | No |
 | `greeksocial.eu` | No |
 | `green-owl-technology.com` | No |
+| `green3green.com` | No |
 | `greenboi.me` | Yes |
 | `greenboys.club` | No |
 | `greendalecommunity.college` | No |
@@ -49915,7 +49917,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,038 |
-| Normal | 35,828 |
+| Normal | 35,830 |
 
 
 </details>
