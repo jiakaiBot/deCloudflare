@@ -9881,6 +9881,7 @@ Do not create new issue or we will close it as duplicate.
 | [openkaiosz@twitter](https://twitter.com/openkaiosz/status/1511127306177110019) | advertise |
 | [openprivacy.ca](https://openprivacy.ca/) | by deleting git without warning |
 | [open_teck@twitter](https://twitter.com/open_teck/status/1377209508976594948) | advertise |
+| [OpikGapik97@twitter](https://twitter.com/OpikGapik97/status/1716042390346334445) | advertise |
 | [OPOKUPRINCE334@twitter](https://twitter.com/OPOKUPRINCE334/status/1490576779198836736) | advertise |
 | [OppoOpp75844625@twitter](https://twitter.com/OppoOpp75844625/status/1612163710646108160) | advertise |
 | [OpticalDelusio8@twitter](https://twitter.com/OpticalDelusio8/status/1570393454550851590) | advertise |
