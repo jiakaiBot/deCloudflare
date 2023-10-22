@@ -2759,6 +2759,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dan86587411@twitter](https://twitter.com/Dan86587411/status/1381975776128499714) | advertise |
 | [Danaboy_ons@twitter](https://twitter.com/Danaboy_ons/status/1622247928839700481) | advertise |
 | [DananjayaDesha5@twitter](https://twitter.com/DananjayaDesha5/status/1403390628495433735) | advertise |
+| [danar_hikmah@twitter](https://twitter.com/danar_hikmah/status/1715913908312326300) | advertise |
 | [Danbaba21@twitter](https://twitter.com/Danbaba21/status/1401231353824358402) | advertise |
 | [dancirmedia@twitter](https://twitter.com/dancirmedia/status/1439483459437674500) | advertise |
 | [DandangNguyet@twitter](https://twitter.com/DandangNguyet/status/1686875681421230082) | advertise |
