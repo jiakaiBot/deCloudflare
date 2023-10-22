@@ -13587,6 +13587,7 @@ Do not create new issue or we will close it as duplicate.
 | [TuynNgu79383740@twitter](https://twitter.com/TuynNgu79383740/status/1551997972795527168) | advertise |
 | [TV2490541679@twitter](https://twitter.com/TV2490541679/status/1618313406314090497) | advertise |
 | [Tvde1@twitter](https://twitter.com/Tvde1/status/1697654047182864427) | advertise |
+| [Tvh2707@twitter](https://twitter.com/Tvh2707/status/1716080353012793355) | advertise |
 | [tvtrsteven@twitter](https://twitter.com/tvtrsteven/status/1510619103048118272) | advertise |
 | [tvtttt03@twitter](https://twitter.com/tvtttt03/status/1571177765751361536) | advertise |
 | [tv_ngo@twitter](https://twitter.com/tv_ngo/status/1551988000271114240) | advertise |
@@ -13720,6 +13721,7 @@ Do not create new issue or we will close it as duplicate.
 | [usercrt@twitter](https://twitter.com/usercrt/status/1481015598435942401) | advertise |
 | [usernamemone@twitter](https://twitter.com/usernamemone/status/1552668357132165121) | advertise |
 | [usoemyi21049252@twitter](https://twitter.com/usoemyi21049252/status/1396746369256222723) | advertise |
+| [USPpanjshiri@twitter](https://twitter.com/USPpanjshiri/status/1716077798547128364) | advertise |
 | [US_Patriot_TX@twitter](https://twitter.com/US_Patriot_TX/status/1689314318452498438) | advertise |
 | [Uthanzawmyint1@twitter](https://twitter.com/Uthanzawmyint1/status/1390885373316788226) | advertise |
 | [UTheinZaw14@twitter](https://twitter.com/UTheinZaw14/status/1390880951077539847) | advertise |
