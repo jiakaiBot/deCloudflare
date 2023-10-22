@@ -9909,6 +9909,7 @@ Do not create new issue or we will close it as duplicate.
 | [osamabaghdady1@twitter](https://twitter.com/osamabaghdady1/status/1631757127374061573) | advertise |
 | [OsamaBinCrytpo@twitter](https://twitter.com/OsamaBinCrytpo/status/1685442771715276800) | advertise |
 | [osamahuseen69@twitter](https://twitter.com/osamahuseen69/status/1691160838088843265) | advertise |
+| [Osamaismael22@twitter](https://twitter.com/Osamaismael22/status/1716009899262378424) | advertise |
 | [Osamavp88@twitter](https://twitter.com/Osamavp88/status/1553648608183869441) | advertise |
 | [osaray_@twitter](https://twitter.com/osaray_/status/1577621931892809728) | advertise |
 | [osazemeu@twitter](https://twitter.com/osazemeu/status/1680786078213500933) | advertise |
@@ -10748,6 +10749,7 @@ Do not create new issue or we will close it as duplicate.
 | [q_thatguy@twitter](https://twitter.com/q_thatguy/status/1601748909038374915) | advertise |
 | [q_vz88@twitter](https://twitter.com/q_vz88/status/1588861118705184769) | advertise |
 | [r0c4p1a@twitter](https://twitter.com/r0c4p1a/status/1489935636815568897) | advertise |
+| [r0leksii@twitter](https://twitter.com/r0leksii/status/1716012796163379375) | advertise |
 | [R0u9h@twitter](https://twitter.com/R0u9h/status/1687422630230712320) | advertise |
 | [R0wPh@twitter](https://twitter.com/R0wPh/status/1687422630230712320) | advertise |
 | [R1_Khalid@twitter](https://twitter.com/R1_Khalid/status/1607573474477744131) | advertise |
