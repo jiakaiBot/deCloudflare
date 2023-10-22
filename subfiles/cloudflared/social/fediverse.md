@@ -21911,6 +21911,7 @@ Here's a list of public Fediverse services.
 | `keenfamily.us` | No |
 | `keep-on-rolling.ch` | No |
 | `keepcoding.io` | Yes |
+| `keepy.moe` | Yes |
 | `keeranoor.com` | Yes |
 | `keerl-it.com` | No |
 | `keeta.social` | No |
@@ -49907,7 +49908,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,033 |
+| Cloudflare | 14,034 |
 | Normal | 35,826 |
 
 
