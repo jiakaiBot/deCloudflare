@@ -30,6 +30,7 @@ Here's a list of public Matrix services.
 | matrix.badstuebner.biz | No |
 | synapse.bark.lgbt | Yes |
 | bolha.chat | Yes |
+| matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
@@ -37,7 +38,6 @@ Here's a list of public Matrix services.
 | matrix-client.comm.cx | Yes |
 | converser.eu | No |
 | matrix.crossbach.de | No |
-| matrix.cyberfurz.chat | No |
 | matrix.data.coop | No |
 | im.deuxfleurs.fr | No |
 | matrix.dieandalusier.net | No |
