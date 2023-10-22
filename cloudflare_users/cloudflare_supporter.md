@@ -2699,6 +2699,7 @@ Do not create new issue or we will close it as duplicate.
 | [cYAsVengeance@twitter](https://twitter.com/cYAsVengeance/status/1386961394793336832) | advertise |
 | [Cyb3r1no@twitter](https://twitter.com/Cyb3r1no/status/1394706481459703812) | advertise |
 | [Cyberga32484625@twitter](https://twitter.com/Cyberga32484625/status/1393421007205978117) | advertise |
+| [cyberlife_music@twitter](https://twitter.com/cyberlife_music/status/1716102277902094369) | advertise |
 | [CyberwealthP@twitter](https://twitter.com/CyberwealthP/status/1440298836857999362) | advertise |
 | [CyenFinch@twitter](https://twitter.com/CyenFinch/status/1394179759978934272) | advertise |
 | [CynthiaWeirr_MK@twitter](https://twitter.com/CynthiaWeirr_MK/status/1431973396359811076) | advertise |
