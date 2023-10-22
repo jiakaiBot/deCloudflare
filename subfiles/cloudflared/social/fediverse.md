@@ -11398,7 +11398,7 @@ Here's a list of public Fediverse services.
 | `dryday.in` | Yes |
 | `drydenhouse.org` | No |
 | `drykath.red` | No |
-| `drytalk.social` | Yes |
+| `drytalk.social` | No |
 | `dryusdan.fr` | No |
 | `ds106.us` | Yes |
 | `ds2600.com` | Yes |
@@ -49916,10 +49916,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,038 |
-| Normal | 35,830 |
+| Cloudflare | 14,037 |
+| Normal | 35,831 |
 
 
 </details>
 
-### 28.2% of public Fediverse services are using Cloudflare.
+### 28.1% of public Fediverse services are using Cloudflare.
