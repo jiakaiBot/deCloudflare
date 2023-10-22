@@ -121,7 +121,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | imbuffering.com | Yes |
 | in-berlin.de | No |
 | inria.fr | No |
-| irre.li | No |
 | itdept.pro | Yes |
 | itxe.net | Yes |
 | ivnkn.xyz | Yes |
@@ -236,7 +235,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tiar.app | No |
 | tiarap.org | Yes |
 | timmes.nl | No |
-| tk31z.com | Yes |
 | tls-data.de | No |
 | tu-bs.de | No |
 | twnic.tw | No |
@@ -257,15 +255,14 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | xfinity.com | Yes |
 | yameenassotally.com | No |
 | yovbak.com | No |
-| zxcvb.pp.ua | Yes |
 
 
 ----
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 118 |
-| Normal | 127 |
+| Cloudflare | 116 |
+| Normal | 126 |
 
 
-### 48.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
