@@ -14896,6 +14896,7 @@ Here's a list of public Fediverse services.
 | `freesky.im` | No |
 | `freesocial.co` | Yes |
 | `freesoftwareextremist.com` | No |
+| `freespace.moe` | No |
 | `freespeech.chat` | Yes |
 | `freespeech.club` | Yes |
 | `freespeech.fans` | No |
@@ -49907,7 +49908,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,033 |
-| Normal | 35,825 |
+| Normal | 35,826 |
 
 
 </details>
