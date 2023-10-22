@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,795 |
 | social | 4,636 |
 | net | 3,890 |
-| org | 2,610 |
+| org | 2,611 |
 | de | 2,431 |
 
 
@@ -39009,6 +39009,7 @@ Here's a list of public Fediverse services.
 | `seva.rocks` | Yes |
 | `seven-don.com` | No |
 | `sevenbyte.org` | No |
+| `sevenc7c.eu.org` | No |
 | `sevenn.fr` | Yes |
 | `sevensages.org` | No |
 | `sevenscreens.net` | No |
@@ -49914,7 +49915,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,038 |
-| Normal | 35,827 |
+| Normal | 35,828 |
 
 
 </details>
