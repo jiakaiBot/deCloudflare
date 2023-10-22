@@ -4066,6 +4066,7 @@ Do not create new issue or we will close it as duplicate.
 | [getintopcee@twitter](https://twitter.com/getintopcee/status/1674805773053079554) | advertise |
 | [getmadeinlocal@twitter](https://twitter.com/getmadeinlocal/status/1566500705946460160) | advertise |
 | [getsudotech@twitter](https://twitter.com/getsudotech/status/1654437622029189122) | advertise |
+| [gg3205566382034@twitter](https://twitter.com/gg3205566382034/status/1716021513768563131) | advertise |
 | [ggcc37590384@twitter](https://twitter.com/ggcc37590384/status/1489085811094016005) | advertise |
 | [Gggaaaaa5@twitter](https://twitter.com/Gggaaaaa5/status/1387836659631202304) | advertise |
 | [gggunet@twitter](https://twitter.com/gggunet/status/1705905600360812898) | advertise |
@@ -10525,6 +10526,7 @@ Do not create new issue or we will close it as duplicate.
 | [Princexnxxx@twitter](https://twitter.com/Princexnxxx/status/1566399587056726016) | advertise |
 | [Prince_Simoney@twitter](https://twitter.com/Prince_Simoney/status/1602629814032244738) | advertise |
 | [prinz_frost@twitter](https://twitter.com/prinz_frost/status/1565284943659290631) | advertise |
+| [privacydied@twitter](https://twitter.com/privacydied/status/1716022908382859437) | advertise |
 | [PrivateCityX@twitter](https://twitter.com/PrivateCityX/status/1569929036847280129) | advertise |
 | [privatedatesvip@twitter](https://twitter.com/privatedatesvip/status/1431480497364946944) | advertise |
 | [Priyanka14318@twitter](https://twitter.com/Priyanka14318/status/1613998709204783126) | advertise |
