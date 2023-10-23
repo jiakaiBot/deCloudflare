@@ -2085,6 +2085,7 @@ Do not create new issue or we will close it as duplicate.
 | [BTejbir@twitter](https://twitter.com/BTejbir/status/1538323857639350272) | advertise |
 | [BTH15677533@twitter](https://twitter.com/BTH15677533/status/1381843579342004226) | advertise |
 | [btotherkingsto1@twitter](https://twitter.com/btotherkingsto1/status/1401106451863535616) | advertise |
+| [BTrn87084174@twitter](https://twitter.com/BTrn87084174/status/1716545251220078968) | advertise |
 | [BTSARMY95012689@twitter](https://twitter.com/BTSARMY95012689/status/1519832843345485825) | advertise |
 | [Btstan73@twitter](https://twitter.com/Btstan73/status/1563332375467008005) | advertise |
 | [BtwSu@twitter](https://twitter.com/BtwSu/status/1398369389783576577) | advertise |
@@ -3692,6 +3693,7 @@ Do not create new issue or we will close it as duplicate.
 | [E_Throgmartin@twitter](https://twitter.com/E_Throgmartin/status/1570929398525698049) | advertise |
 | [F0urfu@twitter](https://twitter.com/F0urfu/status/1617502550281830403) | advertise |
 | [F1Insider_FB@twitter](https://twitter.com/F1Insider_FB/status/1398202288817250306) | advertise |
+| [F1nke18@twitter](https://twitter.com/F1nke18/status/1716571543638045043) | advertise |
 | [f2_player@twitter](https://twitter.com/f2_player/status/1553256925739237376) | advertise |
 | [f3rdito@twitter](https://twitter.com/f3rdito/status/1632689575054258176) | advertise |
 | [F31398498@twitter](https://twitter.com/F31398498/status/1568907972272861184) | advertise |
@@ -12751,6 +12753,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThaungMinSoe5@twitter](https://twitter.com/ThaungMinSoe5/status/1390909151958618112) | advertise |
 | [Thaw40024119@twitter](https://twitter.com/Thaw40024119/status/1394857801512542210) | advertise |
 | [Thaw67314960@twitter](https://twitter.com/Thaw67314960/status/1392714162971680769) | advertise |
+| [Thawin_s8@twitter](https://twitter.com/Thawin_s8/status/1716575391815766155) | advertise |
 | [thawnaingtun@twitter](https://twitter.com/thawnaingtun/status/1702489705768755338) | advertise |
 | [Thawraaa2@twitter](https://twitter.com/Thawraaa2/status/1391396761235689477) | advertise |
 | [ThawSett5@twitter](https://twitter.com/ThawSett5/status/1394010019763347458) | advertise |
