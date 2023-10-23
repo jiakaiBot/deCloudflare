@@ -16824,7 +16824,7 @@ Here's a list of public Fediverse services.
 | `grapheneos.social` | No |
 | `graphics.social` | No |
 | `graphsec.space` | No |
-| `grappler.social` | No |
+| `grappler.social` | Yes |
 | `grappling.ca` | No |
 | `gras.social` | No |
 | `grasserisen.de` | No |
@@ -17578,6 +17578,7 @@ Here's a list of public Fediverse services.
 | `haram.kim` | No |
 | `harbick.com` | No |
 | `harbour.cafe` | No |
+| `hard.blue` | No |
 | `hardboiled.app` | No |
 | `hardcoredevs.com` | No |
 | `hardcover.app` | Yes |
@@ -34463,7 +34464,7 @@ Here's a list of public Fediverse services.
 | `pneumastodon.com` | No |
 | `pngcs.de` | No |
 | `pnk.solar` | No |
-| `pnn.sh` | Yes |
+| `pnn.sh` | No |
 | `pnpde.social` | No |
 | `pnuk.com` | Yes |
 | `pnuk.tv` | Yes |
@@ -42495,6 +42496,7 @@ Here's a list of public Fediverse services.
 | `tank.im` | No |
 | `tankernn.eu` | No |
 | `tankie.ml` | No |
+| `tanner.news` | No |
 | `tannernews.com` | No |
 | `tanngrisnir.xyz` | No |
 | `tanooki.club` | No |
@@ -46880,6 +46882,7 @@ Here's a list of public Fediverse services.
 | `voege.net` | No |
 | `vofr.net` | No |
 | `vogliaditerra.com` | No |
+| `vogt.dev` | No |
 | `vogtland.social` | Yes |
 | `voi.social` | No |
 | `voicaw.com` | Yes |
@@ -49951,7 +49954,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,046 |
-| Normal | 35,856 |
+| Normal | 35,859 |
 
 
 </details>
