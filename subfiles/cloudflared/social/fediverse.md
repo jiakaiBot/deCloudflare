@@ -10465,6 +10465,7 @@ Here's a list of public Fediverse services.
 | `diaspodon.fr` | No |
 | `diaspolizon.fr` | No |
 | `diaspora-fr.org` | No |
+| `diaspora.im` | No |
 | `diaspora.software` | No |
 | `diaspora.zone` | No |
 | `diasporabr.com.br` | No |
@@ -49978,7 +49979,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,054 |
-| Normal | 35,875 |
+| Normal | 35,876 |
 
 
 </details>
