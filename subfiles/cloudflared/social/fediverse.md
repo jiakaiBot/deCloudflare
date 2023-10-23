@@ -26591,6 +26591,7 @@ Here's a list of public Fediverse services.
 | `mastodontist.social` | No |
 | `mastodontoots.com` | No |
 | `mastodontrends.com` | Yes |
+| `mastodonts.se` | No |
 | `mastodontti.fi` | No |
 | `mastodontti.social` | No |
 | `mastodonturkiye.club` | No |
@@ -49977,7 +49978,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,054 |
-| Normal | 35,874 |
+| Normal | 35,875 |
 
 
 </details>
