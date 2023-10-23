@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,809 |
+| com | 7,810 |
 | social | 4,637 |
 | net | 3,895 |
-| org | 2,611 |
+| org | 2,612 |
 | de | 2,439 |
 
 
@@ -9912,6 +9912,7 @@ Here's a list of public Fediverse services.
 | `decharriere.fr` | No |
 | `deciditalia.it` | No |
 | `decisiveliberty.news` | Yes |
+| `deck.ovh` | No |
 | `deckard.pub` | Yes |
 | `deckc.hair` | No |
 | `declanbyrd.co.uk` | No |
@@ -19862,7 +19863,7 @@ Here's a list of public Fediverse services.
 | `introvert.social` | Yes |
 | `introverts.social` | No |
 | `intspec.ru` | Yes |
-| `intuitivefuture.com` | No |
+| `intuitivefuture.com` | Yes |
 | `inu.is` | No |
 | `inubo.ch` | No |
 | `inuh.net` | No |
@@ -22470,6 +22471,7 @@ Here's a list of public Fediverse services.
 | `kleinbottle.club` | No |
 | `kleinebackstube.org` | No |
 | `kleiner-server.eu` | No |
+| `kleinerdrei.org` | No |
 | `kleinheld.ch` | No |
 | `kleinhitpass.de` | No |
 | `kleinke.social` | No |
@@ -46378,6 +46380,7 @@ Here's a list of public Fediverse services.
 | `vanlueck.dev` | No |
 | `vanoix.com` | No |
 | `vanoverloop.xyz` | No |
+| `vanten-s.com` | Yes |
 | `vanwa.ch` | No |
 | `vanzunderd.eu` | No |
 | `vapedon.club` | No |
@@ -49967,8 +49970,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,049 |
-| Normal | 35,870 |
+| Cloudflare | 14,051 |
+| Normal | 35,871 |
 
 
 </details>
