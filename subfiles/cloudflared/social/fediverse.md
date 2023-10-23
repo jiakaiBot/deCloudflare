@@ -14492,6 +14492,7 @@ Here's a list of public Fediverse services.
 | `foad.me.uk` | No |
 | `focal.love` | Yes |
 | `focal.social` | No |
+| `focalorus.io` | Yes |
 | `foci.fi` | No |
 | `focused.systems` | Yes |
 | `fodor.app` | Yes |
@@ -49975,7 +49976,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,053 |
+| Cloudflare | 14,054 |
 | Normal | 35,874 |
 
 
