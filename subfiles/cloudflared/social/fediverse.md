@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,809 |
+| com | 7,812 |
 | social | 4,637 |
 | net | 3,895 |
 | org | 2,612 |
@@ -6812,7 +6812,7 @@ Here's a list of public Fediverse services.
 | `censorproof.tv` | No |
 | `censorship.icu` | No |
 | `censurion.tk` | No |
-| `centauricorex.net` | No |
+| `centauricorex.net` | Yes |
 | `centaurus-a.xyz` | Yes |
 | `centennialstate.social` | Yes |
 | `center.st` | No |
@@ -8932,6 +8932,7 @@ Here's a list of public Fediverse services.
 | `cultuurparticipatie.nl` | No |
 | `cultuurpers.nl` | No |
 | `cum.camp` | No |
+| `cum.charity` | No |
 | `cum.coffee` | Yes |
 | `cum.cx` | Yes |
 | `cum.makeup` | No |
@@ -14464,6 +14465,7 @@ Here's a list of public Fediverse services.
 | `flysocial.net` | No |
 | `flytandemeistring.space` | No |
 | `fm32.com.br` | Yes |
+| `fmal.com` | No |
 | `fmaurice.fr` | No |
 | `fmhy.ml` | Yes |
 | `fmhy.net` | Yes |
@@ -22790,6 +22792,7 @@ Here's a list of public Fediverse services.
 | `korz.dev` | No |
 | `korzekwa.io` | No |
 | `korzq.xyz` | No |
+| `kos.ong` | No |
 | `kosebamse.com` | No |
 | `kosen.land` | Yes |
 | `kosendon.tech` | No |
@@ -24483,6 +24486,7 @@ Here's a list of public Fediverse services.
 | `listenbourg.eu` | Yes |
 | `listennotes.com` | Yes |
 | `listerdale.it` | No |
+| `listgrokker.com` | No |
 | `listner.cloud` | No |
 | `lit.monster` | Yes |
 | `litchan.com` | No |
@@ -24520,6 +24524,7 @@ Here's a list of public Fediverse services.
 | `littlecompany.de` | No |
 | `littlecosmic.net` | Yes |
 | `littlecritter.space` | No |
+| `littlefaqs.com` | No |
 | `littlefluffycloud.net` | No |
 | `littlejoy.xyz` | No |
 | `littlejth.com` | No |
@@ -49970,8 +49975,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,052 |
-| Normal | 35,870 |
+| Cloudflare | 14,053 |
+| Normal | 35,874 |
 
 
 </details>
