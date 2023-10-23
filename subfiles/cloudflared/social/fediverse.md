@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,802 |
+| com | 7,805 |
 | social | 4,637 |
-| net | 3,893 |
+| net | 3,894 |
 | org | 2,611 |
-| de | 2,434 |
+| de | 2,435 |
 
 
 - Mastodon, Pleroma, etc
@@ -613,7 +613,7 @@ Here's a list of public Fediverse services.
 | `513ths.com` | Yes |
 | `513ths.org` | Yes |
 | `51attack.li` | No |
-| `51yyds.tk` | Yes |
+| `51yyds.tk` | No |
 | `52537887.xyz` | Yes |
 | `5273.me` | Yes |
 | `5280.city` | No |
@@ -3403,7 +3403,7 @@ Here's a list of public Fediverse services.
 | `autisme.social` | No |
 | `autisten.club` | No |
 | `autistic.blog` | No |
-| `autistic.id` | No |
+| `autistic.id` | Yes |
 | `autistic.social` | Yes |
 | `autisticgoblin.ca` | No |
 | `autisticnomad.social` | No |
@@ -13048,6 +13048,7 @@ Here's a list of public Fediverse services.
 | `explodingcomma.com` | No |
 | `exploit.social` | No |
 | `exploit.tokyo` | No |
+| `exploratorilor.ro` | No |
 | `explore-visions.com` | No |
 | `explore.beer` | Yes |
 | `explorons.fr` | No |
@@ -13949,6 +13950,7 @@ Here's a list of public Fediverse services.
 | `festival.tf` | No |
 | `festivalparminous.org` | No |
 | `festland.social` | No |
+| `festnoz.de` | No |
 | `festus-asbestos.ca` | No |
 | `fet.bar` | Yes |
 | `feta-chat.net` | No |
@@ -16867,6 +16869,7 @@ Here's a list of public Fediverse services.
 | `greekgodbod.com` | No |
 | `greeksocial.eu` | No |
 | `green-owl-technology.com` | No |
+| `green3green.com` | No |
 | `greenboi.me` | Yes |
 | `greenboys.club` | No |
 | `greendalecommunity.college` | No |
@@ -19095,6 +19098,7 @@ Here's a list of public Fediverse services.
 | `icanhasinter.net` | Yes |
 | `icante.ventures` | No |
 | `icanteventoot.help` | No |
+| `icanthascheezburger.com` | Yes |
 | `icb.at` | No |
 | `iccd.io` | No |
 | `icd-creators.com` | No |
@@ -20638,6 +20642,7 @@ Here's a list of public Fediverse services.
 | `jdzero.net` | No |
 | `jean-ribes.tk` | No |
 | `jeannie.digital` | Yes |
+| `jeanniebytes.blog` | No |
 | `jeannieindigital.me` | No |
 | `jeanpartobad.fr` | No |
 | `jeanpaulphd.com` | Yes |
@@ -36139,6 +36144,7 @@ Here's a list of public Fediverse services.
 | `rants.au` | Yes |
 | `rants.org` | No |
 | `rantz.xyz` | No |
+| `ranz.io` | Yes |
 | `rap.pm` | Yes |
 | `rap.social` | Yes |
 | `rapadura.site` | No |
@@ -42487,6 +42493,7 @@ Here's a list of public Fediverse services.
 | `tank.im` | No |
 | `tankernn.eu` | No |
 | `tankie.ml` | No |
+| `tannernews.com` | No |
 | `tanngrisnir.xyz` | No |
 | `tanooki.club` | No |
 | `tanoshii.site` | Yes |
@@ -44821,6 +44828,7 @@ Here's a list of public Fediverse services.
 | `travel-friends.chat` | No |
 | `travel-japan.group` | No |
 | `travelink.de` | No |
+| `travelling-light.net` | No |
 | `travelodon.net` | No |
 | `travelpandas.eu` | No |
 | `travelpandas.fr` | No |
@@ -49940,8 +49948,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,044 |
-| Normal | 35,848 |
+| Cloudflare | 14,046 |
+| Normal | 35,854 |
 
 
 </details>
