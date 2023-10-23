@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [problem with CORS in production](https://github.com/nhttp/nhttp/issues/53)
 - [can install app or extension by shopify/cli](https://github.com/Shopify/cli/issues/3008)
 - [FFZ is breaking a couple global Twitch emotes for me](https://github.com/FrankerFaceZ/FrankerFaceZ/issues/1421)
 - [Can’t modify immutable headers](https://github.com/honojs/hono/issues/1606)
