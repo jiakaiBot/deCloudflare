@@ -93,7 +93,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dscloud.me | No |
 | duckdns.org | Yes |
 | dukun.de | No |
-| dutchwhite.nl | No |
 | edgy-dns.com | No |
 | emiliyan.com | Yes |
 | extrawdw.net | Yes |
@@ -262,7 +261,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 116 |
-| Normal | 126 |
+| Normal | 125 |
 
 
-### 47.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 48.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
