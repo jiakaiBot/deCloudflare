@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,810 |
+| com | 7,809 |
 | social | 4,637 |
 | net | 3,895 |
 | org | 2,612 |
@@ -8017,7 +8017,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -13641,6 +13641,7 @@ Here's a list of public Fediverse services.
 | `fedieuropa.eu` | No |
 | `fedifeed.net` | Yes |
 | `fedifence.social` | No |
+| `fediffusion.art` | No |
 | `fedified.com` | Yes |
 | `fedifilm.art` | No |
 | `fedifilth.com` | No |
@@ -25936,7 +25937,6 @@ Here's a list of public Fediverse services.
 | `markjones.cloud` | No |
 | `markmckeague.com` | Yes |
 | `markofall.com` | No |
-| `markphilpot.com` | No |
 | `markrun.org` | No |
 | `markrvickers.com` | No |
 | `markstaylor.uk` | No |
@@ -49970,8 +49970,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,051 |
-| Normal | 35,871 |
+| Cloudflare | 14,052 |
+| Normal | 35,870 |
 
 
 </details>
