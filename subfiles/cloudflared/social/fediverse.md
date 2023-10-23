@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,791 |
 | social | 4,633 |
-| net | 3,890 |
+| net | 3,891 |
 | org | 2,608 |
 | de | 2,429 |
 
@@ -22377,7 +22377,7 @@ Here's a list of public Fediverse services.
 | `kitty.church` | No |
 | `kitty.haus` | No |
 | `kitty.observer` | No |
-| `kitty.photos` | Yes |
+| `kitty.photos` | No |
 | `kitty.social` | Yes |
 | `kitty.systems` | Yes |
 | `kitty.town` | No |
@@ -26678,6 +26678,7 @@ Here's a list of public Fediverse services.
 | `matriphe.net` | Yes |
 | `matriu.cat` | No |
 | `matrix.garden` | No |
+| `matrix.gb.net` | No |
 | `matrix.org` | Yes |
 | `matrix.rocks` | No |
 | `matrixdreams.com` | No |
@@ -49889,8 +49890,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,034 |
-| Normal | 35,807 |
+| Cloudflare | 14,033 |
+| Normal | 35,809 |
 
 
 </details>
