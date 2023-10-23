@@ -3586,6 +3586,7 @@ Do not create new issue or we will close it as duplicate.
 | [encm99@twitter](https://twitter.com/encm99/status/1393104448180822018) | advertise |
 | [EncrewT@twitter](https://twitter.com/EncrewT/status/1398298695955714052) | advertise |
 | [endonpdc@twitter](https://twitter.com/endonpdc/status/1388774451794235397) | advertise |
+| [EnenraWuynne121@twitter](https://twitter.com/EnenraWuynne121/status/1716485368600772901) | advertise |
 | [enesphp@twitter](https://twitter.com/enesphp/status/1402188376867065863) | advertise |
 | [EngAlexMusic1@twitter](https://twitter.com/EngAlexMusic1/status/1526159260509515776) | advertise |
 | [Engineer_7oda@twitter](https://twitter.com/Engineer_7oda/status/1540451421069484033) | advertise |
@@ -5487,6 +5488,7 @@ Do not create new issue or we will close it as duplicate.
 | [iskand81808@twitter](https://twitter.com/iskand81808/status/1680060626528530435) | advertise |
 | [Iskecik2@twitter](https://twitter.com/Iskecik2/status/1403090108589301761) | advertise |
 | [Islam4qqq@twitter](https://twitter.com/Islam4qqq/status/1689323205972959239) | advertise |
+| [islam2023@twitter](https://twitter.com/islam2023/status/1716490402063102129) | advertise |
 | [Islam2712@twitter](https://twitter.com/Islam2712/status/1710626563614503316) | advertise |
 | [IslamerAlo18@twitter](https://twitter.com/IslamerAlo18/status/1586672156456681475) | advertise |
 | [islamicempower@twitter](https://twitter.com/islamicempower/status/1643019938032939008) | advertise |
@@ -6351,6 +6353,7 @@ Do not create new issue or we will close it as duplicate.
 | [kh6jrm@twitter](https://twitter.com/kh6jrm/status/1490831301485613056) | advertise |
 | [kh76986012@twitter](https://twitter.com/kh76986012/status/1393833121078857735) | advertise |
 | [Khabaralhin@twitter](https://twitter.com/Khabaralhin/status/1692108051719888983) | advertise |
+| [khai94542856@twitter](https://twitter.com/khai94542856/status/1716477264475644322) | advertise |
 | [KhaingCherry2@twitter](https://twitter.com/KhaingCherry2/status/1380042085672349696) | advertise |
 | [KhaingK94885147@twitter](https://twitter.com/KhaingK94885147/status/1389661398599229441) | advertise |
 | [KhaingKyawe@twitter](https://twitter.com/KhaingKyawe/status/1390051177048412161) | advertise |
