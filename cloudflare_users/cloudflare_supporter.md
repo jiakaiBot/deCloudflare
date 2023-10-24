@@ -14371,6 +14371,7 @@ Do not create new issue or we will close it as duplicate.
 | [XanhNai@twitter](https://twitter.com/XanhNai/status/1395198843956862977) | advertise |
 | [Xathurpro@twitter](https://twitter.com/Xathurpro/status/1601616801816711168) | advertise |
 | [xat_ratn@twitter](https://twitter.com/xat_ratn/status/1610970978498269184) | advertise |
+| [XauUc@twitter](https://twitter.com/XauUc/status/1716860456483368964) | advertise |
 | [Xavi38789278@twitter](https://twitter.com/Xavi38789278/status/1534383777564196870) | advertise |
 | [xavierperales5@twitter](https://twitter.com/xavierperales5/status/1601804524909629440) | advertise |
 | [XavierR11304483@twitter](https://twitter.com/XavierR11304483/status/1526014106511319042) | advertise |
