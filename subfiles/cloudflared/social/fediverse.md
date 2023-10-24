@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,820 |
+| com | 7,822 |
 | social | 4,638 |
 | net | 3,897 |
 | org | 2,612 |
@@ -8235,6 +8235,7 @@ Here's a list of public Fediverse services.
 | `construction.social` | No |
 | `constructionlaw.sg` | Yes |
 | `consudon.club` | No |
+| `consumertraveltips.com` | No |
 | `consumium.org` | No |
 | `consummatetinkerer.net` | No |
 | `contacthi.org` | No |
@@ -13980,6 +13981,7 @@ Here's a list of public Fediverse services.
 | `feuerwehr-othfresen.de` | No |
 | `feuerwehr.social` | No |
 | `feuforeve.fr` | No |
+| `feuilledavisofficieux.ch` | No |
 | `feurious.com` | No |
 | `feutche.com` | No |
 | `feutl.com` | No |
@@ -21021,6 +21023,7 @@ Here's a list of public Fediverse services.
 | `johndevine.co.uk` | No |
 | `johndoe.gq` | Yes |
 | `johneckman.com` | No |
+| `johnhenry.us` | No |
 | `johnholdun.com` | No |
 | `johnleach.co.uk` | No |
 | `johnmastodon.eu` | No |
@@ -33682,6 +33685,7 @@ Here's a list of public Fediverse services.
 | `personaljournal.ca` | No |
 | `personashield.com` | No |
 | `personk.com` | No |
+| `perspectist.com` | No |
 | `perspective-daily.de` | Yes |
 | `perspektivbrocken.org` | No |
 | `perthchat.org` | Yes |
@@ -41415,6 +41419,7 @@ Here's a list of public Fediverse services.
 | `stevenstern.me` | No |
 | `stevenz.net` | No |
 | `steveroy.ca` | Yes |
+| `steves.life` | Yes |
 | `stevesnider.com` | No |
 | `stevestreza.com` | No |
 | `stevesworld.co` | No |
@@ -49986,6 +49991,7 @@ Here's a list of public Fediverse services.
 | `zyphon.com` | No |
 | `zyphr.xyz` | Yes |
 | `zyphyr.de` | No |
+| `zypper.ru` | No |
 | `zytixon.com` | No |
 | `zyun.jp` | Yes |
 | `zyxl.xyz` | No |
@@ -50007,8 +50013,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,067 |
-| Normal | 35,892 |
+| Cloudflare | 14,068 |
+| Normal | 35,897 |
 
 
 </details>
