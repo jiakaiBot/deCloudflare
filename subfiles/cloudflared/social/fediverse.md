@@ -38645,6 +38645,7 @@ Here's a list of public Fediverse services.
 | `scriptforge.org` | Yes |
 | `scriptingosx.com` | No |
 | `scriptjunkie.us` | No |
+| `scriptopolis.fr` | No |
 | `scritches.social` | No |
 | `scriu.cat` | No |
 | `scrivimi.ch` | No |
@@ -50018,7 +50019,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,068 |
-| Normal | 35,901 |
+| Normal | 35,902 |
 
 
 </details>
