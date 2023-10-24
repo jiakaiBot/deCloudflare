@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,811 |
+| com | 7,814 |
 | social | 4,637 |
-| net | 3,894 |
+| net | 3,895 |
 | org | 2,612 |
-| de | 2,439 |
+| de | 2,440 |
 
 
 - Mastodon, Pleroma, etc
@@ -14746,6 +14746,7 @@ Here's a list of public Fediverse services.
 | `fractals.one` | No |
 | `fractalthreads.net` | No |
 | `fractopia.org` | No |
+| `fractum.gq` | No |
 | `fracturedhosting.social` | Yes |
 | `fragdev.com` | No |
 | `fragefix.de` | No |
@@ -18876,6 +18877,7 @@ Here's a list of public Fediverse services.
 | `hunhun.ee` | No |
 | `hunk.city` | No |
 | `hunted.one` | Yes |
+| `hunterandannie.com` | Yes |
 | `hunterjozwiak.com` | No |
 | `hunterlife.net` | No |
 | `huntsvillain.com` | No |
@@ -23405,6 +23407,7 @@ Here's a list of public Fediverse services.
 | `lamesnie.eu` | No |
 | `laminar.social` | No |
 | `laminne33569.net` | Yes |
+| `lamowski.net` | No |
 | `lamp.institute` | No |
 | `lamp.wtf` | No |
 | `lanandmedia.org` | No |
@@ -28175,7 +28178,7 @@ Here's a list of public Fediverse services.
 | `mkeverse.net` | No |
 | `mkg20001.io` | Yes |
 | `mkgrcd.xyz` | No |
-| `mkihr-ojisan.com` | No |
+| `mkihr-ojisan.com` | Yes |
 | `mkir.ch` | No |
 | `mkkey.net` | Yes |
 | `mkl.lol` | No |
@@ -33075,6 +33078,7 @@ Here's a list of public Fediverse services.
 | `palashbauri.in` | Yes |
 | `palau.pro` | No |
 | `palaven.space` | No |
+| `paleodecor.com` | Yes |
 | `palepanda.club` | No |
 | `palepanda.com` | No |
 | `palewi.re` | Yes |
@@ -35922,6 +35926,7 @@ Here's a list of public Fediverse services.
 | `radicalnetworks.org` | No |
 | `radicalpolitics.org` | No |
 | `radicalsocial.work` | Yes |
+| `radicalthoughts.xyz` | No |
 | `radicalzz.blog` | No |
 | `radicalzz.network` | No |
 | `radicchio.town` | No |
@@ -36632,6 +36637,7 @@ Here's a list of public Fediverse services.
 | `relph.org` | Yes |
 | `reluctantly.social` | No |
 | `relyma.club` | Yes |
+| `rem7.space` | No |
 | `remark.as` | No |
 | `remarkably.social` | No |
 | `remarker.co` | Yes |
@@ -39069,6 +39075,7 @@ Here's a list of public Fediverse services.
 | `sevvie.ltd` | Yes |
 | `sewardfam.social` | No |
 | `sexcify.com` | No |
+| `sexclown.town` | No |
 | `sexpolitics.co.uk` | Yes |
 | `sexpositivnet.com` | No |
 | `sexton-family.uk` | No |
@@ -42421,6 +42428,7 @@ Here's a list of public Fediverse services.
 | `tal.org` | No |
 | `talajen.com` | No |
 | `talamanca.social` | No |
+| `talbothome.com` | Yes |
 | `tale.cafe` | No |
 | `talee.de` | No |
 | `talesfromthehomelab.com` | No |
@@ -47139,6 +47147,7 @@ Here's a list of public Fediverse services.
 | `w1sd0m.ca` | No |
 | `w1wra.net` | No |
 | `w3.social` | No |
+| `w321.de` | No |
 | `w3b0.de` | No |
 | `w3c.social` | No |
 | `w3nz.net` | No |
@@ -49974,8 +49983,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,052 |
-| Normal | 35,874 |
+| Cloudflare | 14,056 |
+| Normal | 35,879 |
 
 
 </details>
