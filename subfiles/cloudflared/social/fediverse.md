@@ -16126,6 +16126,7 @@ Here's a list of public Fediverse services.
 | `getindor.com` | No |
 | `getjupiter.com` | Yes |
 | `getloci.com` | No |
+| `getmeotter.work` | Yes |
 | `getoote.de` | No |
 | `getoutside.ca` | No |
 | `getprivacy.it` | No |
@@ -49992,7 +49993,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,060 |
+| Cloudflare | 14,061 |
 | Normal | 35,884 |
 
 
