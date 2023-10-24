@@ -8705,6 +8705,7 @@ Do not create new issue or we will close it as duplicate.
 | [msun_tv@twitter](https://twitter.com/msun_tv/status/1484144302037086209) | advertise |
 | [MSuriko@twitter](https://twitter.com/MSuriko/status/1376898848090583043) | advertise |
 | [mt1234513@twitter](https://twitter.com/mt1234513/status/1393161915141017603) | advertise |
+| [mtanu1680@twitter](https://twitter.com/mtanu1680/status/1716719465587749294) | advertise |
 | [MTAung15@twitter](https://twitter.com/MTAung15/status/1383709367837499396) | advertise |
 | [mtNguyn83885894@twitter](https://twitter.com/mtNguyn83885894/status/1530631753244999680) | advertise |
 | [mtoannhh34@twitter](https://twitter.com/mtoannhh34/status/1397481337083207685) | advertise |
