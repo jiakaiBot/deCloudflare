@@ -25520,6 +25520,7 @@ Here's a list of public Fediverse services.
 | `magialab.net` | Yes |
 | `magialaboratory.com` | Yes |
 | `magialabs.blog` | Yes |
+| `magialabs.xyz` | Yes |
 | `magic.win` | No |
 | `magical-ribbon.net` | No |
 | `magicalgirl.party` | No |
@@ -49991,7 +49992,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,059 |
+| Cloudflare | 14,060 |
 | Normal | 35,884 |
 
 
