@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,814 |
+| com | 7,820 |
 | social | 4,638 |
 | net | 3,897 |
 | org | 2,612 |
-| de | 2,440 |
+| de | 2,443 |
 
 
 - Mastodon, Pleroma, etc
@@ -6815,6 +6815,7 @@ Here's a list of public Fediverse services.
 | `censurion.tk` | No |
 | `centauricorex.net` | Yes |
 | `centaurus-a.xyz` | Yes |
+| `centenarymemphis.com` | No |
 | `centennialstate.social` | Yes |
 | `center.st` | No |
 | `centerforeveryday.technology` | No |
@@ -18050,6 +18051,7 @@ Here's a list of public Fediverse services.
 | `hermitmountain.top` | No |
 | `hern.as` | Yes |
 | `hernandezhouse.com` | No |
+| `herndon.blog` | Yes |
 | `heroicwisdom.com` | No |
 | `herokai.cafe` | No |
 | `herokuapp.com` | No |
@@ -21671,6 +21673,7 @@ Here's a list of public Fediverse services.
 | `kani.social` | Yes |
 | `kanikani.ooo` | No |
 | `kanina.be` | No |
+| `kaniyam.com` | No |
 | `kanna.fun` | Yes |
 | `kannadev.com` | Yes |
 | `kanni.de` | No |
@@ -24838,6 +24841,7 @@ Here's a list of public Fediverse services.
 | `loof.life` | Yes |
 | `looka.at` | No |
 | `lookbusy.org` | No |
+| `lookingatnothing.com` | No |
 | `lookits.me` | No |
 | `loom.nyc` | Yes |
 | `loomchild.net` | No |
@@ -25503,6 +25507,7 @@ Here's a list of public Fediverse services.
 | `maeul.company` | Yes |
 | `maex.photos` | No |
 | `maff.scot` | No |
+| `mafis242.de` | No |
 | `mafoo.org.uk` | No |
 | `mafumafu.xyz` | Yes |
 | `mafunke.de` | No |
@@ -31557,6 +31562,7 @@ Here's a list of public Fediverse services.
 | `nullspace.ie` | No |
 | `nulltea.cc` | Yes |
 | `nullthe.net` | Yes |
+| `nulltheta.com` | No |
 | `nulltrading.com` | No |
 | `nullwhere.social` | No |
 | `nullzone.fr` | No |
@@ -34790,6 +34796,7 @@ Here's a list of public Fediverse services.
 | `posix.gay` | No |
 | `poslac.com` | No |
 | `poslovitch.fr` | No |
+| `posm.gay` | Yes |
 | `possum.city` | Yes |
 | `possum.gay` | No |
 | `possum.land` | No |
@@ -35940,6 +35947,7 @@ Here's a list of public Fediverse services.
 | `radicle.space` | No |
 | `radig.social` | No |
 | `radikal.social` | No |
+| `radikaledemokratie.de` | No |
 | `radio.af` | Yes |
 | `radio.fm` | Yes |
 | `radio614.org` | No |
@@ -37129,6 +37137,7 @@ Here's a list of public Fediverse services.
 | `rkunkunr.com` | Yes |
 | `rkvssr.nl` | No |
 | `rl5.nl` | No |
+| `rlchr.de` | No |
 | `rleve.de` | Yes |
 | `rlidea.com` | Yes |
 | `rlin.eu` | Yes |
@@ -41446,6 +41455,7 @@ Here's a list of public Fediverse services.
 | `stoablick.de` | No |
 | `stoat.icu` | No |
 | `stoat.org.uk` | No |
+| `stoat.pro` | Yes |
 | `stoat.zone` | No |
 | `stocks.id.au` | Yes |
 | `stocksfamily.online` | Yes |
@@ -46076,6 +46086,7 @@ Here's a list of public Fediverse services.
 | `upcoming.health` | No |
 | `updog.no` | Yes |
 | `updog.social` | No |
+| `updraftclone.com` | Yes |
 | `upenn.social` | Yes |
 | `upho.net` | No |
 | `upinblue.social` | No |
@@ -48661,6 +48672,7 @@ Here's a list of public Fediverse services.
 | `xiv.gay` | No |
 | `xiv.social` | No |
 | `xivdata.com` | Yes |
+| `xiven.com` | No |
 | `xiweb.de` | No |
 | `xj-ix.luxe` | No |
 | `xjmaoyaoyao.monster` | Yes |
@@ -49994,8 +50006,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,062 |
-| Normal | 35,884 |
+| Cloudflare | 14,066 |
+| Normal | 35,892 |
 
 
 </details>
