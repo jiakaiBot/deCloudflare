@@ -458,6 +458,7 @@ Do not create new issue or we will close it as duplicate.
 | [aguirrevicc@twitter](https://twitter.com/aguirrevicc/status/1665874525702049794) | advertise |
 | [Agungpgt@twitter](https://twitter.com/Agungpgt/status/1617566579570642945) | advertise |
 | [ah0706806@twitter](https://twitter.com/ah0706806/status/1681624979887235072) | advertise |
+| [ah8707846@twitter](https://twitter.com/ah8707846/status/1716768817429508368) | advertise |
 | [ahamed_hri46047@twitter](https://twitter.com/ahamed_hri46047/status/1635427942154240001) | advertise |
 | [ahaynvn@twitter](https://twitter.com/ahaynvn/status/1601311854588223488) | advertise |
 | [Ahbu_Yuan@twitter](https://twitter.com/Ahbu_Yuan/status/1379249818023862275) | advertise |
