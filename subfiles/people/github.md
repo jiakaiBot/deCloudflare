@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Network Performance Issues in Latin America](https://github.com/hinoshiba/news/issues/5098)
+- [CloudFlare Network Performance Issues in Latin America](https://github.com/SecOpsNews/news/issues/20395)
 - [problem with CORS in production](https://github.com/nhttp/nhttp/issues/53)
 - [can install app or extension by shopify/cli](https://github.com/Shopify/cli/issues/3008)
 - [FFZ is breaking a couple global Twitch emotes for me](https://github.com/FrankerFaceZ/FrankerFaceZ/issues/1421)
