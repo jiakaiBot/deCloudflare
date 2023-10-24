@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,812 |
+| com | 7,813 |
 | social | 4,637 |
 | net | 3,895 |
 | org | 2,612 |
-| de | 2,439 |
+| de | 2,440 |
 
 
 - Mastodon, Pleroma, etc
@@ -8017,7 +8017,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -19085,6 +19085,7 @@ Here's a list of public Fediverse services.
 | `ianmorrill.com` | Yes |
 | `ianneubert.com` | No |
 | `ianstormtaylor.social` | No |
+| `iappmag.de` | No |
 | `iavael.name` | Yes |
 | `iazine.com` | No |
 | `ibaillanos.social` | No |
@@ -45580,6 +45581,7 @@ Here's a list of public Fediverse services.
 | `uasa.io` | No |
 | `ub32.org` | No |
 | `uba.be` | No |
+| `ubanis.com` | Yes |
 | `uber.space` | No |
 | `uberbrady.com` | No |
 | `ubergeek77.chat` | Yes |
@@ -49979,7 +49981,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,054 |
-| Normal | 35,876 |
+| Normal | 35,878 |
 
 
 </details>
