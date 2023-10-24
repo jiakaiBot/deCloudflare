@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,814 |
 | social | 4,637 |
-| net | 3,895 |
+| net | 3,897 |
 | org | 2,612 |
 | de | 2,440 |
 
@@ -2653,6 +2653,7 @@ Here's a list of public Fediverse services.
 | `appto.net` | Yes |
 | `appuio.ch` | Yes |
 | `appwhats.space` | Yes |
+| `aprendendofisica.net` | No |
 | `aprendiz-isi.tk` | No |
 | `apres-ge.ch` | No |
 | `apreslanu.it` | No |
@@ -20693,6 +20694,7 @@ Here's a list of public Fediverse services.
 | `jel-tech.com` | Yes |
 | `jel.do` | No |
 | `jeli.kz` | No |
+| `jellejansen.eu` | No |
 | `jellicle.org` | Yes |
 | `jelliefrontier.net` | Yes |
 | `jellis.co.uk` | No |
@@ -23171,6 +23173,7 @@ Here's a list of public Fediverse services.
 | `kylefreed.com` | Yes |
 | `kylehengst.com` | Yes |
 | `kylemacquarrie.co.uk` | No |
+| `kylepace.net` | Yes |
 | `kylepiira.com` | Yes |
 | `kylerank.in` | No |
 | `kylewm.com` | Yes |
@@ -34944,6 +34947,7 @@ Here's a list of public Fediverse services.
 | `preceptor.pl` | No |
 | `precious.net` | No |
 | `preciouslittle.life` | No |
+| `precise.space` | No |
 | `precure.fun` | Yes |
 | `precure.ml` | No |
 | `preemptcordon.org` | No |
@@ -36069,6 +36073,7 @@ Here's a list of public Fediverse services.
 | `rakozy.us` | No |
 | `raku.party` | Yes |
 | `rakyat.cc` | No |
+| `rakyatbiasa.blog` | No |
 | `rakyll.org` | No |
 | `ralb.eu` | No |
 | `ralek.art` | Yes |
@@ -36241,6 +36246,7 @@ Here's a list of public Fediverse services.
 | `rats-at.work` | No |
 | `ratsnest.dev` | Yes |
 | `rattle.wtf` | Yes |
+| `rattodon.nexus` | No |
 | `raucherhusten.ch` | No |
 | `raudsepp.live` | No |
 | `raudssus.de` | No |
@@ -41653,6 +41659,7 @@ Here's a list of public Fediverse services.
 | `stuebinm.eu` | No |
 | `stuffat2106.xyz` | Yes |
 | `stuffbets.com` | No |
+| `stuffingyourfaceasusual.lol` | Yes |
 | `stuffmaker.club` | No |
 | `stufftoread.com` | No |
 | `stuible.cloud` | No |
@@ -49983,8 +49990,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,056 |
-| Normal | 35,879 |
+| Cloudflare | 14,058 |
+| Normal | 35,884 |
 
 
 </details>
