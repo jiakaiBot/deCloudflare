@@ -38534,6 +38534,7 @@ Here's a list of public Fediverse services.
 | `sciences.re` | No |
 | `sciences.social` | No |
 | `sciencespot.co.uk` | No |
+| `sciencp.work` | Yes |
 | `scientia.social` | No |
 | `scientiam.org` | No |
 | `scientificnetwork.de` | No |
@@ -49990,10 +49991,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,058 |
+| Cloudflare | 14,059 |
 | Normal | 35,884 |
 
 
 </details>
 
-### 28.1% of public Fediverse services are using Cloudflare.
+### 28.2% of public Fediverse services are using Cloudflare.
