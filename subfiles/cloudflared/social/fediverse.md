@@ -27581,6 +27581,7 @@ Here's a list of public Fediverse services.
 | `michidon.com` | No |
 | `michif.xyz` | No |
 | `michikora.com` | No |
+| `michiru.me` | Yes |
 | `michizev.com` | Yes |
 | `michizev.de` | No |
 | `michonline.com` | No |
@@ -50006,7 +50007,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,066 |
+| Cloudflare | 14,067 |
 | Normal | 35,892 |
 
 
