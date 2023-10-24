@@ -3801,6 +3801,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ferona44304373@twitter](https://twitter.com/Ferona44304373/status/1394530832367370240) | advertise |
 | [FerricMachan@twitter](https://twitter.com/FerricMachan/status/1573051436728197121) | advertise |
 | [Fetori95@twitter](https://twitter.com/Fetori95/status/1707032854775951631) | advertise |
+| [fexlars@twitter](https://twitter.com/fexlars/status/1716648061236089010) | advertise |
 | [FeyisaraFashina@twitter](https://twitter.com/FeyisaraFashina/status/1531939614470152193) | advertise |
 | [FFegtoken@twitter](https://twitter.com/FFegtoken/status/1584337417351626752) | advertise |
 | [ffoochai@twitter](https://twitter.com/ffoochai/status/1376085361219096576) | advertise |
