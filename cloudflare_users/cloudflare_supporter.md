@@ -5366,6 +5366,7 @@ Do not create new issue or we will close it as duplicate.
 | [Il_Vxrus_ll@twitter](https://twitter.com/Il_Vxrus_ll/status/1666850702272987136) | advertise |
 | [im4noone@twitter](https://twitter.com/im4noone/status/1532995716196765696) | advertise |
 | [imaginemystrobe@twitter](https://twitter.com/imaginemystrobe/status/1546150235176636419) | advertise |
+| [imamdev_@twitter](https://twitter.com/imamdev_/status/1716635018444030244) | advertise |
 | [ImAmDumbBoiiiii@twitter](https://twitter.com/ImAmDumbBoiiiii/status/1567143093169958912) | advertise |
 | [ImanBabazadeh@twitter](https://twitter.com/ImanBabazadeh/status/1388441784775286784) | advertise |
 | [Imanmirakhorli@twitter](https://twitter.com/Imanmirakhorli/status/1409632904510984201) | moral (advertise) |
