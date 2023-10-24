@@ -4,6 +4,10 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Network Performance Issues in Latin America Region](https://github.com/hinoshiba/news/issues/5104)
+- [CloudFlare Network Performance Issues in Latin America Region](https://github.com/SecOpsNews/news/issues/20401)
+- [My site can't take screenshots from Lighthouse.](https://github.com/GoogleChrome/lighthouse/issues/15564)
+- [CloudFlare Network Performance Issues](https://github.com/hinoshiba/news/issues/5103)
 - [CloudFlare Network Performance Issues](https://github.com/SecOpsNews/news/issues/20399)
 - [CloudFlare Network Performance Issues in Latin America](https://github.com/hinoshiba/news/issues/5098)
 - [CloudFlare Network Performance Issues in Latin America](https://github.com/SecOpsNews/news/issues/20395)
