@@ -41822,6 +41822,7 @@ Here's a list of public Fediverse services.
 | `summary.ink` | Yes |
 | `summerhill.cafe` | No |
 | `summerlin.social` | No |
+| `summersweet.jp` | No |
 | `summerwind.blue` | No |
 | `summoners-riftodon.jp` | No |
 | `sumomo.ne.jp` | No |
@@ -49982,7 +49983,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,054 |
-| Normal | 35,879 |
+| Normal | 35,880 |
 
 
 </details>
