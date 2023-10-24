@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,822 |
+| com | 7,825 |
 | social | 4,638 |
-| net | 3,897 |
+| net | 3,898 |
 | org | 2,612 |
 | de | 2,443 |
 
@@ -5902,6 +5902,7 @@ Here's a list of public Fediverse services.
 | `bsmhome.de` | No |
 | `bsmserverone.net` | No |
 | `bsnsense.xyz` | No |
+| `bsocat.net` | No |
 | `bsquidwrd.com` | Yes |
 | `bsr.mn` | Yes |
 | `bsrealm.net` | No |
@@ -9760,6 +9761,7 @@ Here's a list of public Fediverse services.
 | `dayl.in` | No |
 | `daytongang.social` | No |
 | `dayvancowboy.net` | Yes |
+| `dazed-gerbil.com` | No |
 | `dazult.com` | No |
 | `db0.jp` | Yes |
 | `dbatley.com` | No |
@@ -22510,6 +22512,7 @@ Here's a list of public Fediverse services.
 | `klinikretter.de` | Yes |
 | `kliu.io` | Yes |
 | `kllr.social` | Yes |
+| `klocel.com` | No |
 | `klockenga.social` | No |
 | `kloen-cafe.de` | No |
 | `kloenk.dev` | No |
@@ -47163,6 +47166,7 @@ Here's a list of public Fediverse services.
 | `vyrse.social` | No |
 | `vyvojari.dev` | No |
 | `vzla.dev` | No |
+| `vzqk50.com` | No |
 | `vzx.pl` | No |
 | `w-2.io` | No |
 | `w00f.org` | No |
@@ -50014,7 +50018,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,068 |
-| Normal | 35,897 |
+| Normal | 35,901 |
 
 
 </details>
