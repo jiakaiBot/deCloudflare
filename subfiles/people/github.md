@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Misleading error message for an incorrect dynamic block iterator](https://github.com/hashicorp/terraform/issues/34132)
 - [Custom data store enquery](https://github.com/tusdotnet/tusdotnet/issues/212)
 - [CloudFlare Network Performance Issues in Latin America Region](https://github.com/hinoshiba/news/issues/5104)
 - [CloudFlare Network Performance Issues in Latin America Region](https://github.com/SecOpsNews/news/issues/20401)
