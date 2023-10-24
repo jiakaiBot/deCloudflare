@@ -480,6 +480,7 @@ Do not create new issue or we will close it as duplicate.
 | [ahmad_adawe@twitter](https://twitter.com/ahmad_adawe/status/1710801680235712661) | advertise |
 | [ahmad_antezar@twitter](https://twitter.com/ahmad_antezar/status/1532609013854109696) | advertise |
 | [Ahmaf285033755@twitter](https://twitter.com/Ahmaf285033755/status/1648046148333064200) | advertise |
+| [ahmd03196219331@twitter](https://twitter.com/ahmd03196219331/status/1716584887149342784) | advertise |
 | [ahmdh4474@twitter](https://twitter.com/ahmdh4474/status/1390763076660736001) | advertise |
 | [ahmeae642@twitter](https://twitter.com/ahmeae642/status/1688266511369031680) | advertise |
 | [Ahmed57597025@twitter](https://twitter.com/Ahmed57597025/status/1535713741622370304) | advertise |
@@ -3690,6 +3691,7 @@ Do not create new issue or we will close it as duplicate.
 | [EzeChuk92@twitter](https://twitter.com/EzeChuk92/status/1563941063722680321) | advertise |
 | [EzedyarN@twitter](https://twitter.com/EzedyarN/status/1671077097492578305) | advertise |
 | [Ezlove12345@twitter](https://twitter.com/Ezlove12345/status/1495345866483191808) | advertise |
+| [e_elaina092@twitter](https://twitter.com/e_elaina092/status/1716598308951773373) | advertise |
 | [E_Throgmartin@twitter](https://twitter.com/E_Throgmartin/status/1570929398525698049) | advertise |
 | [F0urfu@twitter](https://twitter.com/F0urfu/status/1617502550281830403) | advertise |
 | [F1Insider_FB@twitter](https://twitter.com/F1Insider_FB/status/1398202288817250306) | advertise |
@@ -8370,6 +8372,7 @@ Do not create new issue or we will close it as duplicate.
 | [MiuT90912757@twitter](https://twitter.com/MiuT90912757/status/1707036872076333298) | advertise |
 | [mivteccc@twitter](https://twitter.com/mivteccc/status/1559254299972014080) | advertise |
 | [MixernoSpace@twitter](https://twitter.com/MixernoSpace/status/1563957409076371460) | advertise |
+| [mixhart_@twitter](https://twitter.com/mixhart_/status/1716604623145046352) | advertise |
 | [mixms_@twitter](https://twitter.com/mixms_/status/1390638654486372355) | advertise |
 | [MiyaCrowdfund@twitter](https://twitter.com/MiyaCrowdfund/status/1542630069339918339) | advertise |
 | [mizudin6@twitter](https://twitter.com/mizudin6/status/1498271439438618635) | advertise |
@@ -10309,6 +10312,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhuongN09560858@twitter](https://twitter.com/PhuongN09560858/status/1377291979885748228) | advertise |
 | [phuongnamxaxoo1@twitter](https://twitter.com/phuongnamxaxoo1/status/1395295769100357633) | advertise |
 | [PhuongThedevil@twitter](https://twitter.com/PhuongThedevil/status/1399716303166787584) | advertise |
+| [Phuphanhoang1@twitter](https://twitter.com/Phuphanhoang1/status/1716587535676461513) | advertise |
 | [phuphngskwsnch1@twitter](https://twitter.com/phuphngskwsnch1/status/1589875646611980288) | advertise |
 | [PhuuMon2@twitter](https://twitter.com/PhuuMon2/status/1396117231314952203) | advertise |
 | [phwaysan1@twitter](https://twitter.com/phwaysan1/status/1377088458615881729) | advertise |
