@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-10-24: [Unexpected content-encoding Response Headers](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/sx7nfzdw6c6h)
 - 2023-10-24: [Regional Services Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mc3s2pvcprzv)
 - 2023-10-24: [Network Performance Issues in Latin America](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xcws431pr455)
 - 2023-10-21: [Latency issues affecting customers.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/y0fqq9x9vn7q)
