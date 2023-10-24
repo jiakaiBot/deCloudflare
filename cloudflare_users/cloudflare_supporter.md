@@ -3826,6 +3826,7 @@ Do not create new issue or we will close it as duplicate.
 | [FilmstudyRavens@twitter](https://twitter.com/FilmstudyRavens/status/1665858537644490752) | advertise |
 | [finalAnit@twitter](https://twitter.com/finalAnit/status/1665874518789746689) | advertise |
 | [FinallyFree2023@twitter](https://twitter.com/FinallyFree2023/status/1710985543696175198) | advertise |
+| [finallywave@twitter](https://twitter.com/finallywave/status/1716817105637818379) | advertise |
 | [findmeadevice@twitter](https://twitter.com/findmeadevice/status/1465437487497682955) | advertise |
 | [finmods_com@twitter](https://twitter.com/finmods_com/status/1494976559966572549) | advertise |
 | [finn476@twitter](https://twitter.com/finn476/status/1379428259914424329) | advertise |
@@ -14363,6 +14364,7 @@ Do not create new issue or we will close it as duplicate.
 | [X303_@twitter](https://twitter.com/X303_/status/1375370199767998468) | advertise |
 | [x66619164331@twitter](https://twitter.com/x66619164331/status/1386276834480992256) | advertise |
 | [xabclink@twitter](https://twitter.com/xabclink/status/1662111293535567872) | advertise |
+| [xalxo_sumi22035@twitter](https://twitter.com/xalxo_sumi22035/status/1710704739967697016) | advertise |
 | [xanadu000000@twitter](https://twitter.com/xanadu000000/status/1405386980943273984) | advertise |
 | [XanhNai@twitter](https://twitter.com/XanhNai/status/1395198843956862977) | advertise |
 | [Xathurpro@twitter](https://twitter.com/Xathurpro/status/1601616801816711168) | advertise |
