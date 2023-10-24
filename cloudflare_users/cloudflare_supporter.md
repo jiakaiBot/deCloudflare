@@ -1548,6 +1548,7 @@ Do not create new issue or we will close it as duplicate.
 | [baburaj74061287@twitter](https://twitter.com/baburaj74061287/status/1402296311227977730) | advertise |
 | [babushka99@twitter](https://twitter.com/babushka99/status/1520337537998462979) | advertise |
 | [Babyblu82224449@twitter](https://twitter.com/Babyblu82224449/status/1387554058714566656) | advertise |
+| [babygirl994303@twitter](https://twitter.com/babygirl994303/status/1716849300334874648) | advertise |
 | [Babysela1@twitter](https://twitter.com/Babysela1/status/1478028360877948928) | advertise |
 | [BabyWhite999@twitter](https://twitter.com/BabyWhite999/status/1406167535825920001) | advertise |
 | [bacankbabi@twitter](https://twitter.com/bacankbabi/status/1697125139689980339) | advertise |
@@ -14298,6 +14299,7 @@ Do not create new issue or we will close it as duplicate.
 | [WinThu38969387@twitter](https://twitter.com/WinThu38969387/status/1392706853860257794) | advertise |
 | [Wintwah03488625@twitter](https://twitter.com/Wintwah03488625/status/1394590059203006466) | advertise |
 | [wint_wo@twitter](https://twitter.com/wint_wo/status/1405087654862016513) | advertise |
+| [WinZaw30156509@twitter](https://twitter.com/WinZaw30156509/status/1716846143911661858) | advertise |
 | [winzawmoemoe1@twitter](https://twitter.com/winzawmoemoe1/status/1377558724198363140) | advertise |
 | [Wirjil@twitter](https://twitter.com/Wirjil/status/1665874509642203136) | advertise |
 | [wirut60803gmai1@twitter](https://twitter.com/wirut60803gmai1/status/1379932785226391552) | advertise |
