@@ -237,7 +237,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | twnic.tw | No |
 | unstoppable.io | Yes |
 | uplenk.com | Yes |
-| vinnyp.xyz | Yes |
 | virga.pp.ua | Yes |
 | vishalk.com | No |
 | vmath.my.id | Yes |
@@ -249,7 +248,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | xaoimoon.fr | No |
 | xcom.pro | No |
 | xfinity.com | Yes |
-| yameenassotally.com | No |
 | yovbak.com | No |
 
 
@@ -257,8 +255,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 115 |
-| Normal | 123 |
+| Cloudflare | 114 |
+| Normal | 122 |
 
 
 ### 48.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
