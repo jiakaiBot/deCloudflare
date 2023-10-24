@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,813 |
+| com | 7,814 |
 | social | 4,637 |
 | net | 3,895 |
 | org | 2,612 |
@@ -5032,7 +5032,7 @@ Here's a list of public Fediverse services.
 | `bleepboop.club` | No |
 | `bleh.au` | Yes |
 | `blendbyte.com` | No |
-| `blender.org` | No |
+| `blender.org` | Yes |
 | `blender3darchitect.com` | No |
 | `blendernation.com` | Yes |
 | `blep.cz` | No |
@@ -39758,6 +39758,7 @@ Here's a list of public Fediverse services.
 | `siyasettime31.com` | No |
 | `sizecraft.social` | No |
 | `sizedon.com` | No |
+| `sizeriot.com` | No |
 | `sizeriot.us` | No |
 | `sizuma.website` | No |
 | `sjatar.net` | No |
@@ -47191,7 +47192,7 @@ Here's a list of public Fediverse services.
 | `wafflecity.org` | Yes |
 | `waffles.fun` | Yes |
 | `wafrn.net` | Yes |
-| `wafy.ga` | Yes |
+| `wafy.ga` | No |
 | `wageoffsite.com` | Yes |
 | `wagesofsinisdeath.com` | No |
 | `wagler.it` | No |
@@ -49981,7 +49982,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,054 |
-| Normal | 35,878 |
+| Normal | 35,879 |
 
 
 </details>
