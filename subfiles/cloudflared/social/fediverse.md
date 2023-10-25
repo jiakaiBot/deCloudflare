@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,837 |
+| com | 7,838 |
 | social | 4,640 |
 | net | 3,899 |
 | org | 2,612 |
@@ -27209,6 +27209,7 @@ Here's a list of public Fediverse services.
 | `melanson.social` | No |
 | `melatonin.fun` | No |
 | `melb.social` | Yes |
+| `melbournebranding.com` | No |
 | `melbye.design` | No |
 | `melcore.fr` | No |
 | `meld.de` | No |
@@ -50055,7 +50056,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,081 |
-| Normal | 35,925 |
+| Normal | 35,926 |
 
 
 </details>
