@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,833 |
+| com | 7,837 |
 | social | 4,640 |
-| net | 3,898 |
+| net | 3,899 |
 | org | 2,612 |
-| de | 2,443 |
+| de | 2,444 |
 
 
 - Mastodon, Pleroma, etc
@@ -1400,6 +1400,7 @@ Here's a list of public Fediverse services.
 | `ahaldorsen.no` | No |
 | `ahall.se` | No |
 | `ahamiam.us` | No |
+| `ahavah.gay` | No |
 | `ahem.ca` | No |
 | `aheradin.com` | No |
 | `ahermitforhire.net` | No |
@@ -2094,6 +2095,7 @@ Here's a list of public Fediverse services.
 | `amor-fati.social` | No |
 | `amoraslucha.info` | No |
 | `amosamos.net` | No |
+| `amoteofbeing.blog` | No |
 | `amoved.es` | No |
 | `ampersandwich.co.uk` | No |
 | `amphora.social` | No |
@@ -2493,6 +2495,7 @@ Here's a list of public Fediverse services.
 | `anto.ie` | No |
 | `antoineve.me` | No |
 | `anton-tartz.de` | No |
+| `antonimaroto.com` | No |
 | `antonkovalyov.com` | No |
 | `antonlehmus.me` | No |
 | `antonovich.me` | No |
@@ -6320,6 +6323,7 @@ Here's a list of public Fediverse services.
 | `calebmharper.com` | No |
 | `caleida.com` | No |
 | `calemooth.com` | No |
+| `calendari.cc` | No |
 | `calendario-lunar.com` | No |
 | `calgaryherald.com` | Yes |
 | `caliandroid.de` | No |
@@ -8929,6 +8933,7 @@ Here's a list of public Fediverse services.
 | `cultofzoe.com` | No |
 | `cultur.social` | No |
 | `cultura.gov.br` | Yes |
+| `culturacanibal.com` | No |
 | `culturaeinnovacion.social` | No |
 | `culture0.cc` | Yes |
 | `culturedigitally.org` | No |
@@ -10823,6 +10828,7 @@ Here's a list of public Fediverse services.
 | `djmarc.me` | No |
 | `djnrrd.com` | No |
 | `djradim.click` | No |
+| `djrobzilla.net` | No |
 | `djryan.co.uk` | No |
 | `djs.social` | No |
 | `djs.to` | Yes |
@@ -14393,6 +14399,7 @@ Here's a list of public Fediverse services.
 | `florianbeijers.xyz` | No |
 | `florianbrochard.fr` | No |
 | `florianjensen.com` | No |
+| `florianziegler.com` | No |
 | `florimond.eu` | No |
 | `floriolli.com` | No |
 | `floris.ninja` | No |
@@ -27908,6 +27915,7 @@ Here's a list of public Fediverse services.
 | `ministeriumfuerinternet.de` | No |
 | `ministryofinternet.eu` | No |
 | `minitel.cloud` | No |
+| `minitor.su` | Yes |
 | `miniverse.social` | No |
 | `miniwa.moe` | No |
 | `minixer.com` | No |
@@ -37322,6 +37330,7 @@ Here's a list of public Fediverse services.
 | `roeckoe.be` | No |
 | `roelfrenkema.com` | No |
 | `roelhesp.nl` | Yes |
+| `roelof.info` | No |
 | `roelroscamabbing.nl` | No |
 | `roelwillems.com` | Yes |
 | `roelz.org` | Yes |
@@ -38499,6 +38508,7 @@ Here's a list of public Fediverse services.
 | `schokoladensouffle.eu` | No |
 | `scholar.social` | No |
 | `scholzbande.de` | No |
+| `schongeil.de` | No |
 | `schoolahead.social` | No |
 | `schoolahead.today` | No |
 | `schoolforafrica.org` | Yes |
@@ -45085,6 +45095,7 @@ Here's a list of public Fediverse services.
 | `trondheim.town` | No |
 | `tronic-studio.com` | No |
 | `troo.tube` | No |
+| `trooperdad.com` | Yes |
 | `troopers.agency` | No |
 | `troot.social` | No |
 | `tropical-is.land` | No |
@@ -50039,8 +50050,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,078 |
-| Normal | 35,913 |
+| Cloudflare | 14,080 |
+| Normal | 35,922 |
 
 
 </details>
