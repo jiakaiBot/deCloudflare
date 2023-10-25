@@ -13927,6 +13927,7 @@ Here's a list of public Fediverse services.
 | `fenix-cantina.com` | No |
 | `fenix.cafe` | Yes |
 | `fenk.org` | No |
+| `fenmou.cyou` | No |
 | `fennec.online` | No |
 | `fennec.org.uk` | No |
 | `fennec.town` | No |
@@ -21324,6 +21325,7 @@ Here's a list of public Fediverse services.
 | `judge.sh` | Yes |
 | `judges119.me` | No |
 | `judrey.eu` | No |
+| `judy.io` | Yes |
 | `judydev.net` | No |
 | `juengling-edv.de` | No |
 | `juergen-elbert.de` | No |
@@ -33632,6 +33634,7 @@ Here's a list of public Fediverse services.
 | `peninsula.industries` | No |
 | `penishiroma.xyz` | No |
 | `penisrakete.space` | No |
+| `penne.jp` | No |
 | `penner.party` | Yes |
 | `pennytucker.social` | No |
 | `penple.dev` | Yes |
@@ -36383,6 +36386,7 @@ Here's a list of public Fediverse services.
 | `rd-social.net` | No |
 | `rd-srv.de` | Yes |
 | `rda69.net` | No |
+| `rdam.tools` | No |
 | `rdbt.no` | No |
 | `rddw.eu` | No |
 | `rdela.com` | No |
@@ -50050,8 +50054,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,080 |
-| Normal | 35,922 |
+| Cloudflare | 14,081 |
+| Normal | 35,925 |
 
 
 </details>
