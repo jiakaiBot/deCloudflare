@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,826 |
+| com | 7,828 |
 | social | 4,639 |
 | net | 3,898 |
 | org | 2,612 |
@@ -20358,6 +20358,7 @@ Here's a list of public Fediverse services.
 | `jacklinke.com` | No |
 | `jacklucksack.com` | No |
 | `jackmeyers.co` | No |
+| `jackmtn.com` | No |
 | `jacknet595.com` | Yes |
 | `jackpoint.space` | No |
 | `jackpot.pictures` | Yes |
@@ -39410,6 +39411,7 @@ Here's a list of public Fediverse services.
 | `shokujin.jp` | Yes |
 | `shollow.net` | No |
 | `shoni.town` | No |
+| `shook.rocks` | No |
 | `shoot.brussels` | No |
 | `shoot1ng-star.site` | No |
 | `shootingonsight.eu` | No |
@@ -46401,6 +46403,7 @@ Here's a list of public Fediverse services.
 | `van-hemmen.com` | Yes |
 | `van-ransbeeck.be` | No |
 | `van.blue` | Yes |
+| `vanalanfilm.com` | No |
 | `vanbeek.nz` | No |
 | `vanben.net` | No |
 | `vanbever.ch` | No |
@@ -50021,7 +50024,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,067 |
-| Normal | 35,905 |
+| Normal | 35,908 |
 
 
 </details>
