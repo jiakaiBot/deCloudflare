@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Stream delay displayes wrong values after blocking ads](https://github.com/FrankerFaceZ/FrankerFaceZ/issues/1423)
 - [Plugin broke for me](https://github.com/nucleon/wintertodt-scouter/issues/9)
 - [Misleading error message for an incorrect dynamic block iterator](https://github.com/hashicorp/terraform/issues/34132)
 - [Custom data store enquery](https://github.com/tusdotnet/tusdotnet/issues/212)
