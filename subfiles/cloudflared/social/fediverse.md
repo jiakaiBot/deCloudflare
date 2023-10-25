@@ -49578,6 +49578,7 @@ Here's a list of public Fediverse services.
 | `zapistan.net` | No |
 | `zapletalovi.com` | Yes |
 | `zapto.org` | Yes |
+| `zaramis.se` | No |
 | `zarapito.cl` | No |
 | `zarchbox.fr` | No |
 | `zarchbox.ovh` | No |
@@ -50024,7 +50025,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,067 |
-| Normal | 35,908 |
+| Normal | 35,909 |
 
 
 </details>
