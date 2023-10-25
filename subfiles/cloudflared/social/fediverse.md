@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,828 |
+| com | 7,832 |
 | social | 4,639 |
 | net | 3,898 |
 | org | 2,612 |
@@ -8021,7 +8021,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -16830,6 +16830,7 @@ Here's a list of public Fediverse services.
 | `grande-cache.ca` | No |
 | `grandma.space` | No |
 | `granford.uk` | No |
+| `grangeblanche.com` | No |
 | `granit.social` | No |
 | `graniterock.ca` | No |
 | `granitestate.social` | No |
@@ -21155,6 +21156,7 @@ Here's a list of public Fediverse services.
 | `josefsson.org` | No |
 | `joseli.to` | Yes |
 | `josephburnett.social` | No |
+| `josephcizek.com` | Yes |
 | `josephgruber.space` | No |
 | `josephmann.au` | Yes |
 | `josephmatheny.com` | No |
@@ -29203,6 +29205,7 @@ Here's a list of public Fediverse services.
 | `mugit.farm` | No |
 | `mugwort.xyz` | No |
 | `muh.wang` | No |
+| `muhammadsamir.com` | Yes |
 | `muhroads.net` | No |
 | `muhroads.party` | No |
 | `muhu.social` | Yes |
@@ -34913,6 +34916,7 @@ Here's a list of public Fediverse services.
 | `poyo.me` | No |
 | `poyoro.id` | Yes |
 | `poyusbuddy.com` | Yes |
+| `pp-social.com` | Yes |
 | `pp.lu` | No |
 | `ppcis.org` | No |
 | `ppiy.ac` | Yes |
@@ -50024,10 +50028,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,067 |
+| Cloudflare | 14,071 |
 | Normal | 35,909 |
 
 
 </details>
 
-### 28.1% of public Fediverse services are using Cloudflare.
+### 28.2% of public Fediverse services are using Cloudflare.
