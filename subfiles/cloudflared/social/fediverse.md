@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,840 |
+| com | 7,841 |
 | social | 4,642 |
 | net | 3,901 |
 | org | 2,613 |
-| de | 2,444 |
+| de | 2,445 |
 
 
 - Mastodon, Pleroma, etc
@@ -16243,6 +16243,7 @@ Here's a list of public Fediverse services.
 | `giersig.net` | Yes |
 | `giesing.space` | Yes |
 | `gifclip.info` | No |
+| `giftedmc.com` | No |
 | `gifu.lol` | No |
 | `gig-blog.net` | No |
 | `giga.is` | No |
@@ -20338,6 +20339,7 @@ Here's a list of public Fediverse services.
 | `j4c.me` | No |
 | `j4nk.dev` | No |
 | `j51b5.me` | Yes |
+| `j62.de` | No |
 | `j621.net` | Yes |
 | `j9w.me` | No |
 | `ja-jp.org` | No |
@@ -26019,6 +26021,7 @@ Here's a list of public Fediverse services.
 | `marstodon.com` | No |
 | `marsupialgurgle.com` | Yes |
 | `mart-e.be` | No |
+| `marte.city` | Yes |
 | `marthaburtis.net` | No |
 | `martiabernathey.com` | No |
 | `martian.social` | No |
@@ -47044,7 +47047,7 @@ Here's a list of public Fediverse services.
 | `voltage.vn` | No |
 | `voltagecontrol.com` | Yes |
 | `voltaicforge.com` | Yes |
-| `volumetrics.social` | No |
+| `volumetrics.social` | Yes |
 | `voluminum.net` | No |
 | `volun.tech` | No |
 | `voluntary.world` | Yes |
@@ -48117,6 +48120,7 @@ Here's a list of public Fediverse services.
 | `witchlounge.ca` | No |
 | `witchserver.jp` | Yes |
 | `witchy.ink` | Yes |
+| `witchy.one` | No |
 | `witchy.social` | Yes |
 | `witchy.space` | No |
 | `witcraft.de` | No |
@@ -50064,8 +50068,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,083 |
-| Normal | 35,933 |
+| Cloudflare | 14,085 |
+| Normal | 35,935 |
 
 
 </details>
