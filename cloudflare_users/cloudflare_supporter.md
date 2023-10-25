@@ -435,6 +435,7 @@ Do not create new issue or we will close it as duplicate.
 | [afif___rizki@twitter](https://twitter.com/afif___rizki/status/1526398091141664768) | advertise |
 | [AfiqZuhairi17@twitter](https://twitter.com/AfiqZuhairi17/status/1638240894255251457) | advertise |
 | [AfizOmari@twitter](https://twitter.com/AfizOmari/status/1404102260293054466) | advertise |
+| [afknotsus@twitter](https://twitter.com/afknotsus/status/1717187960733639166) | advertise |
 | [afrash@twitter](https://twitter.com/afrash/status/1369943509839585281) | advertise |
 | [Afro02040034@twitter](https://twitter.com/Afro02040034/status/1608224194394832897) | advertise |
 | [afsadevdigital@twitter](https://twitter.com/afsadevdigital/status/1619194960347267073) | advertise |
@@ -10866,6 +10867,7 @@ Do not create new issue or we will close it as duplicate.
 | [ramdonalhb@twitter](https://twitter.com/ramdonalhb/status/1395604254186872832) | advertise |
 | [Ramesh64443583@twitter](https://twitter.com/Ramesh64443583/status/1388522144590491650) | advertise |
 | [RamGoq@twitter](https://twitter.com/RamGoq/status/1551927715724500994) | advertise |
+| [Ramiharjatata@twitter](https://twitter.com/Ramiharjatata/status/1717190150185447898) | advertise |
 | [RamijRa86260492@twitter](https://twitter.com/RamijRa86260492/status/1390787324187873280) | advertise |
 | [ramin3m@twitter](https://twitter.com/ramin3m/status/1377115879884824580) | advertise |
 | [raminsadat227@twitter](https://twitter.com/raminsadat227/status/1619667536999751681) | advertise |
@@ -14577,6 +14579,7 @@ Do not create new issue or we will close it as duplicate.
 | [yay_cat_@twitter](https://twitter.com/yay_cat_/status/1431521757995970560) | advertise |
 | [Yazar76810526@twitter](https://twitter.com/Yazar76810526/status/1392062593620058114) | advertise |
 | [YBehniafar@twitter](https://twitter.com/YBehniafar/status/1401249032958263297) | advertise |
+| [ybprn@twitter](https://twitter.com/ybprn/status/1717204379437256968) | advertise |
 | [YcSQYLmX56wkzI3@twitter](https://twitter.com/YcSQYLmX56wkzI3/status/1404774248778973186) | advertise |
 | [Ye11929027@twitter](https://twitter.com/Ye11929027/status/1392452962803277833) | advertise |
 | [YeAkash@twitter](https://twitter.com/YeAkash/status/1397130824672112641) | advertise |
