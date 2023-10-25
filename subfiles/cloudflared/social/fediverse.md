@@ -11878,6 +11878,7 @@ Here's a list of public Fediverse services.
 | `edelmann.bond` | Yes |
 | `eden.one` | No |
 | `edeverett.co.uk` | No |
+| `edfoc.org.uk` | No |
 | `edgarogh.fr` | No |
 | `edgarpierre.fr` | No |
 | `edge4cube.work` | Yes |
@@ -20594,6 +20595,7 @@ Here's a list of public Fediverse services.
 | `javisantana.com` | No |
 | `javisst.space` | No |
 | `javx.de` | No |
+| `jawa.gay` | No |
 | `jawa.moe` | Yes |
 | `jawns.club` | No |
 | `jaws-ug.okinawa` | No |
@@ -50035,7 +50037,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,075 |
-| Normal | 35,911 |
+| Normal | 35,913 |
 
 
 </details>
