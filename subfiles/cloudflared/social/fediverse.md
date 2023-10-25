@@ -45312,6 +45312,7 @@ Here's a list of public Fediverse services.
 | `tuna2134.dev` | Yes |
 | `tunahan.me` | Yes |
 | `tunahan.social` | Yes |
+| `tunamaguro.dev` | Yes |
 | `tunetalk.jp` | Yes |
 | `tuning.social` | No |
 | `tunkki.xyz` | Yes |
@@ -50029,7 +50030,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,072 |
+| Cloudflare | 14,073 |
 | Normal | 35,909 |
 
 
