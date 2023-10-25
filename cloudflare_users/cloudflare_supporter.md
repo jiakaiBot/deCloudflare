@@ -9933,6 +9933,7 @@ Do not create new issue or we will close it as duplicate.
 | [OriginalAydin@twitter](https://twitter.com/OriginalAydin/status/1389601607273254913) | advertise |
 | [orutragolden@twitter](https://twitter.com/orutragolden/status/1391394853343436800) | advertise |
 | [OsaeStephen7@twitter](https://twitter.com/OsaeStephen7/status/1492858553492770819) | advertise |
+| [osakisandee@twitter](https://twitter.com/osakisandee/status/1717144817971712391) | advertise |
 | [osako88@twitter](https://twitter.com/osako88/status/1564289077243002880) | advertise |
 | [Osama772455244@twitter](https://twitter.com/Osama772455244/status/1670988946824732672) | advertise |
 | [osamaaly90@twitter](https://twitter.com/osamaaly90/status/1405389818499158017) | advertise |
