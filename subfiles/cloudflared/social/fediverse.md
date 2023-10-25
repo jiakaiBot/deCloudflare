@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,826 |
-| social | 4,638 |
+| social | 4,639 |
 | net | 3,898 |
 | org | 2,612 |
 | de | 2,443 |
@@ -24890,7 +24890,7 @@ Here's a list of public Fediverse services.
 | `loren.pics` | No |
 | `lorenzana.engineer` | Yes |
 | `lorenzana.social` | No |
-| `lorenzi.one` | Yes |
+| `lorenzi.one` | No |
 | `lorenzoancora.info` | Yes |
 | `loria.fr` | No |
 | `losangeles.social` | No |
@@ -27864,6 +27864,7 @@ Here's a list of public Fediverse services.
 | `minet.net` | No |
 | `minetaro12.com` | Yes |
 | `mingel.nl` | No |
+| `mingus.social` | No |
 | `mingxingsex.com` | No |
 | `minhtrang.me` | No |
 | `mini4wd-engineer.com` | No |
@@ -50019,10 +50020,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,068 |
-| Normal | 35,903 |
+| Cloudflare | 14,067 |
+| Normal | 35,905 |
 
 
 </details>
 
-### 28.2% of public Fediverse services are using Cloudflare.
+### 28.1% of public Fediverse services are using Cloudflare.
