@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,832 |
+| com | 7,833 |
 | social | 4,639 |
 | net | 3,898 |
 | org | 2,612 |
@@ -13331,7 +13331,7 @@ Here's a list of public Fediverse services.
 | `fanet.work` | Yes |
 | `fanexus.com` | No |
 | `fanfare.horse` | No |
-| `fanfic.army` | No |
+| `fanfic.army` | Yes |
 | `fanfou.social` | Yes |
 | `fanfou.today` | No |
 | `fangl.in` | Yes |
@@ -37517,6 +37517,7 @@ Here's a list of public Fediverse services.
 | `royniang.com` | No |
 | `roysbeer.place` | No |
 | `royscholten.nl` | No |
+| `roytanck.com` | No |
 | `roytang.net` | Yes |
 | `royvanlunsen.nl` | No |
 | `royxiang.me` | Yes |
@@ -50028,7 +50029,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,071 |
+| Cloudflare | 14,072 |
 | Normal | 35,909 |
 
 
