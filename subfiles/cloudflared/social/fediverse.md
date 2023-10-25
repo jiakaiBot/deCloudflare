@@ -8068,6 +8068,7 @@ Here's a list of public Fediverse services.
 | `commander1024.de` | No |
 | `commandercog.com` | Yes |
 | `commandux.com` | No |
+| `commcon.xyz` | Yes |
 | `commentingon.xyz` | Yes |
 | `commethics.online` | No |
 | `commfurnity.com` | Yes |
@@ -14927,7 +14928,7 @@ Here's a list of public Fediverse services.
 | `freespace.moe` | No |
 | `freespeech.chat` | Yes |
 | `freespeech.club` | Yes |
-| `freespeech.fans` | No |
+| `freespeech.fans` | Yes |
 | `freespeech.group` | No |
 | `freespeech.host` | No |
 | `freespeech.institute` | No |
@@ -19246,7 +19247,7 @@ Here's a list of public Fediverse services.
 | `ifluxcouldkill.net` | No |
 | `ifma-film.de` | No |
 | `ifred.nu` | No |
-| `iftas.org` | No |
+| `iftas.org` | Yes |
 | `iftf.social` | No |
 | `ifthekids.xyz` | No |
 | `ifthenel.se` | No |
@@ -24620,6 +24621,7 @@ Here's a list of public Fediverse services.
 | `lizana.org` | Yes |
 | `lizard.zone` | No |
 | `lizards.live` | No |
+| `lize.info` | No |
 | `lizrodriguez.io` | No |
 | `lizzies.bar` | No |
 | `lizzy.rs` | No |
@@ -46314,6 +46316,7 @@ Here's a list of public Fediverse services.
 | `uwuntu.org` | Yes |
 | `uwuwatch.club` | Yes |
 | `uwuzu.net` | No |
+| `uwuzunext.info` | No |
 | `uwyn.net` | No |
 | `uxbrad.com` | No |
 | `uxd.social` | No |
@@ -50036,7 +50039,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,075 |
+| Cloudflare | 14,078 |
 | Normal | 35,913 |
 
 
