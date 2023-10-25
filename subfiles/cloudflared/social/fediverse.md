@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,838 |
-| social | 4,640 |
-| net | 3,899 |
-| org | 2,612 |
+| com | 7,839 |
+| social | 4,641 |
+| net | 3,900 |
+| org | 2,613 |
 | de | 2,444 |
 
 
@@ -8391,6 +8391,7 @@ Here's a list of public Fediverse services.
 | `corrupteddreams.com` | No |
 | `corset.club` | No |
 | `corteel.org` | No |
+| `cortex-innovation.com` | Yes |
 | `corteximplant.com` | No |
 | `cortexspace.support` | Yes |
 | `corticarte.com` | No |
@@ -8554,6 +8555,7 @@ Here's a list of public Fediverse services.
 | `craftopi.art` | No |
 | `craftplacer.moe` | No |
 | `craftsman.dev` | No |
+| `craftsy.social` | No |
 | `craftweg.com` | Yes |
 | `craftycanine.net` | Yes |
 | `crag.social` | Yes |
@@ -22330,6 +22332,7 @@ Here's a list of public Fediverse services.
 | `kinkuroshideout.com` | No |
 | `kinkworks.com` | Yes |
 | `kinky.business` | Yes |
+| `kinkycats.org` | No |
 | `kinkyelephant.com` | No |
 | `kinkytaboo.online` | No |
 | `kinl.gq` | No |
@@ -29321,6 +29324,7 @@ Here's a list of public Fediverse services.
 | `mushroom.gay` | Yes |
 | `mushroomfm.com` | No |
 | `mushus.net` | No |
+| `music.blog` | No |
 | `musicafolk.es` | No |
 | `musicbyyo.com` | Yes |
 | `musicdn.jp` | No |
@@ -41829,6 +41833,7 @@ Here's a list of public Fediverse services.
 | `sudo.cat` | Yes |
 | `sudo.cx` | Yes |
 | `sudoer.ch` | Yes |
+| `sudoers.pro` | No |
 | `sudogeeks.com` | No |
 | `sudojudo.com` | Yes |
 | `sudoshell.xyz` | No |
@@ -46244,6 +46249,7 @@ Here's a list of public Fediverse services.
 | `userdreams.com` | No |
 | `userliberation.network` | No |
 | `userlist.social` | No |
+| `usermd.net` | No |
 | `userserviceable.com` | No |
 | `userzap.de` | No |
 | `usesthis.com` | No |
@@ -50055,8 +50061,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,081 |
-| Normal | 35,926 |
+| Cloudflare | 14,082 |
+| Normal | 35,931 |
 
 
 </details>
