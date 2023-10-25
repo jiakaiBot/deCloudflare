@@ -1804,6 +1804,7 @@ Do not create new issue or we will close it as duplicate.
 | [bikipradhi@twitter](https://twitter.com/bikipradhi/status/1404420798593454090) | advertise |
 | [BikramLaishram7@twitter](https://twitter.com/BikramLaishram7/status/1571436529754738690) | advertise |
 | [Bilalnaserddine@twitter](https://twitter.com/Bilalnaserddine/status/1486095674538135556) | advertise |
+| [bilalwrite34@twitter](https://twitter.com/bilalwrite34/status/1710154401107624442) | advertise |
 | [bilell_mz@twitter](https://twitter.com/bilell_mz/status/1539562989120020485) | advertise |
 | [Bilgram4@twitter](https://twitter.com/Bilgram4/status/1664605025530781703) | advertise |
 | [BillDrees@twitter](https://twitter.com/BillDrees/status/1665858284606328832) | advertise |
@@ -12456,6 +12457,7 @@ Do not create new issue or we will close it as duplicate.
 | [taitran09539503@twitter](https://twitter.com/taitran09539503/status/1609894150962577408) | advertise |
 | [TajeddineTangi@twitter](https://twitter.com/TajeddineTangi/status/1698950242677199261) | advertise |
 | [tajinde52425634@twitter](https://twitter.com/tajinde52425634/status/1407580334489628676) | advertise |
+| [Takeadvantage9@twitter](https://twitter.com/Takeadvantage9/status/1717068336297910285) | advertise |
 | [taketimez@twitter](https://twitter.com/taketimez/status/1393835169971281921) | advertise |
 | [takn12262883@twitter](https://twitter.com/takn12262883/status/1380791412078206978) | advertise |
 | [TAKUMIM26464450@twitter](https://twitter.com/TAKUMIM26464450/status/1390850611499831299) | advertise |
@@ -12585,6 +12587,7 @@ Do not create new issue or we will close it as duplicate.
 | [tegvr@twitter](https://twitter.com/tegvr/status/1466878430239100929) | advertise |
 | [tej_bo@twitter](https://twitter.com/tej_bo/status/1525166409579483136) | advertise |
 | [tekakenji@twitter](https://twitter.com/tekakenji/status/1378831679356215296) | advertise |
+| [teking1909@twitter](https://twitter.com/teking1909/status/1717073439046156400) | advertise |
 | [Tekkenz2@twitter](https://twitter.com/Tekkenz2/status/1400160711297277954) | advertise |
 | [TekTytanMike@twitter](https://twitter.com/TekTytanMike/status/1566249485155680257) | advertise |
 | [tek_aevl@twitter](https://twitter.com/tek_aevl/status/1554915148623757313) | advertise |
