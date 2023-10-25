@@ -2975,6 +2975,7 @@ Do not create new issue or we will close it as duplicate.
 | [DelsinPistons@twitter](https://twitter.com/DelsinPistons/status/1420937477930487808) | advertise |
 | [DelucioJoseph@twitter](https://twitter.com/DelucioJoseph/status/1393744512422498304) | advertise |
 | [DemassGizaw@twitter](https://twitter.com/DemassGizaw/status/1679871159494402051) | advertise |
+| [DemGames_Inc@twitter](https://twitter.com/DemGames_Inc/status/1717293764815753382) | advertise |
 | [demigozz1@twitter](https://twitter.com/demigozz1/status/1585518522025009154) | advertise |
 | [Demon03765725@twitter](https://twitter.com/Demon03765725/status/1599036023165505536) | advertise |
 | [Demon6941@twitter](https://twitter.com/Demon6941/status/1494687786774851592) | advertise |
