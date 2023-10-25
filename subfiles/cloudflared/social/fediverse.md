@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,833 |
-| social | 4,639 |
+| social | 4,640 |
 | net | 3,898 |
 | org | 2,612 |
 | de | 2,443 |
@@ -1811,6 +1811,7 @@ Here's a list of public Fediverse services.
 | `alliec.at` | No |
 | `alliejp.tv` | No |
 | `alliepa.ca` | No |
+| `allies.social` | No |
 | `allison.social` | No |
 | `allistodon.xyz` | No |
 | `alljoin.me` | No |
@@ -4758,7 +4759,7 @@ Here's a list of public Fediverse services.
 | `birdkey.ml` | No |
 | `birdnest.day` | Yes |
 | `birdon.social` | No |
-| `birdriver.org` | No |
+| `birdriver.org` | Yes |
 | `birds.garden` | No |
 | `birds.social` | No |
 | `birds.town` | Yes |
@@ -15887,6 +15888,7 @@ Here's a list of public Fediverse services.
 | `gear.pictures` | Yes |
 | `gearandgrit.com` | Yes |
 | `gearfamily.net` | No |
+| `gearhead.town` | No |
 | `gearheads.social` | Yes |
 | `gearlandia.haus` | Yes |
 | `gearpixel.xyz` | No |
@@ -17611,6 +17613,7 @@ Here's a list of public Fediverse services.
 | `hardly.social` | No |
 | `hardr.social` | No |
 | `hardtoast.social` | Yes |
+| `hardware.watch` | No |
 | `hardwarehookups.com.au` | No |
 | `hardwarejunkies.social` | No |
 | `hardwarepunk.de` | No |
@@ -38939,6 +38942,7 @@ Here's a list of public Fediverse services.
 | `selfhost.services` | Yes |
 | `selfhost.uk` | No |
 | `selfhosted.cafe` | Yes |
+| `selfhosted.forum` | Yes |
 | `selfhosted.no` | No |
 | `selfhosted.social` | Yes |
 | `selfhostedcloud.com` | No |
@@ -50030,8 +50034,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,073 |
-| Normal | 35,909 |
+| Cloudflare | 14,075 |
+| Normal | 35,911 |
 
 
 </details>
