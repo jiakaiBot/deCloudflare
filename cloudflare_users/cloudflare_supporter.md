@@ -246,6 +246,7 @@ Do not create new issue or we will close it as duplicate.
 | [AAunghteik@twitter](https://twitter.com/AAunghteik/status/1391426267321442310) | advertise |
 | [aayuspi@twitter](https://twitter.com/aayuspi/status/1654062572126044172) | advertise |
 | [abadestroyer@twitter](https://twitter.com/abadestroyer/status/1618962680433479682) | advertise |
+| [AbadiMakmo5094@twitter](https://twitter.com/AbadiMakmo5094/status/1717156668533096641) | advertise |
 | [Abass83104765@twitter](https://twitter.com/Abass83104765/status/1513851345249480710) | advertise |
 | [abbas9iq3999@twitter](https://twitter.com/abbas9iq3999/status/1499537931542970370) | advertise |
 | [abbasislam345@twitter](https://twitter.com/abbasislam345/status/1683016026307403777) | advertise |
@@ -540,6 +541,7 @@ Do not create new issue or we will close it as duplicate.
 | [aizuddinyusof@twitter](https://twitter.com/aizuddinyusof/status/1636392352456806400) | advertise |
 | [Aizzatpokjat@twitter](https://twitter.com/Aizzatpokjat/status/1596858394060939264) | advertise |
 | [ai_l12@twitter](https://twitter.com/ai_l12/status/1397037068493197314) | advertise |
+| [ajafolo@twitter](https://twitter.com/ajafolo/status/1717159889133326634) | advertise |
 | [ajamiissa1@twitter](https://twitter.com/ajamiissa1/status/1474108447318851595) | advertise |
 | [AjangMaulanaM@twitter](https://twitter.com/AjangMaulanaM/status/1584629534296768512) | advertise |
 | [ajarmah123@twitter](https://twitter.com/ajarmah123/status/1569669764272001025) | advertise |
@@ -2581,6 +2583,7 @@ Do not create new issue or we will close it as duplicate.
 | [ConsultOrlovsky@twitter](https://twitter.com/ConsultOrlovsky/status/1565453465786191872) | advertise |
 | [conter_86@twitter](https://twitter.com/conter_86/status/1488218108754108420) | advertise |
 | [cooblur@twitter](https://twitter.com/cooblur/status/1596828358192828417) | advertise |
+| [cookienemesis@twitter](https://twitter.com/cookienemesis/status/1717165883418980727) | advertise |
 | [cookierookie_g@twitter](https://twitter.com/cookierookie_g/status/1678598671661686785) | advertise |
 | [Coolest1070@twitter](https://twitter.com/Coolest1070/status/1711016393439650034) | advertise |
 | [CoolMax002ish@twitter](https://twitter.com/CoolMax002ish/status/1399164860928245763) | advertise |
