@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,839 |
-| social | 4,641 |
-| net | 3,900 |
+| com | 7,840 |
+| social | 4,642 |
+| net | 3,901 |
 | org | 2,613 |
 | de | 2,444 |
 
@@ -8354,6 +8354,7 @@ Here's a list of public Fediverse services.
 | `corepaper.org` | No |
 | `coreshock.de` | No |
 | `coreycarvalho.com` | Yes |
+| `coreypotter.com` | No |
 | `corgi.coffee` | Yes |
 | `corgi.farm` | No |
 | `corgi.social` | No |
@@ -15878,7 +15879,7 @@ Here's a list of public Fediverse services.
 | `gcfamily.fr` | No |
 | `gchq.icu` | No |
 | `gchq.online` | No |
-| `gclv.es` | No |
+| `gclv.es` | Yes |
 | `gcmastodon.win` | Yes |
 | `gcn.sh` | Yes |
 | `gcreate.jp` | No |
@@ -26283,6 +26284,7 @@ Here's a list of public Fediverse services.
 | `mastodon-france.social` | No |
 | `mastodon-hss.ml` | No |
 | `mastodon-il.net` | No |
+| `mastodon-iq.net` | No |
 | `mastodon-japan.net` | Yes |
 | `mastodon-lyontech.fr` | No |
 | `mastodon-nagano.info` | No |
@@ -47780,6 +47782,7 @@ Here's a list of public Fediverse services.
 | `wevans.social` | No |
 | `wewheek.com` | No |
 | `wexlercommunications.com` | No |
+| `weyhe.social` | No |
 | `weyr.org.uk` | No |
 | `weyr.social` | No |
 | `wezerl.com` | Yes |
@@ -50061,8 +50064,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,082 |
-| Normal | 35,931 |
+| Cloudflare | 14,083 |
+| Normal | 35,933 |
 
 
 </details>
