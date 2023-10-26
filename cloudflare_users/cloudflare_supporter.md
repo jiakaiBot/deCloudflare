@@ -1521,6 +1521,7 @@ Do not create new issue or we will close it as duplicate.
 | [azt12222@twitter](https://twitter.com/azt12222/status/1638984134898122752) | advertise |
 | [AzuanBk79@twitter](https://twitter.com/AzuanBk79/status/1388558394940743684) | advertise |
 | [azvezdev@twitter](https://twitter.com/azvezdev/status/1631666507200491520) | advertise |
+| [azwaliz71775384@twitter](https://twitter.com/azwaliz71775384/status/1717493141367120217) | advertise |
 | [AzyOppa@twitter](https://twitter.com/AzyOppa/status/1389876605426671616) | advertise |
 | [Azzam95_@twitter](https://twitter.com/Azzam95_/status/1504244848743833604) | advertise |
 | [A_Aleem_Baig@twitter](https://twitter.com/A_Aleem_Baig/status/1531714345117294600) | advertise |
@@ -2784,6 +2785,7 @@ Do not create new issue or we will close it as duplicate.
 | [dangeredwolf@twitter](https://twitter.com/dangeredwolf/status/1555422130610880512) | advertise |
 | [danggeun265@twitter](https://twitter.com/danggeun265/status/1389594670494228487) | advertise |
 | [Dangkhoai1@twitter](https://twitter.com/Dangkhoai1/status/1386304168680329227) | advertise |
+| [DangNguyen1404@twitter](https://twitter.com/DangNguyen1404/status/1717487866568474899) | advertise |
 | [dangthanh5555@twitter](https://twitter.com/dangthanh5555/status/1393070868134170632) | advertise |
 | [Dangtinhxxx@twitter](https://twitter.com/Dangtinhxxx/status/1713181838070698380) | advertise |
 | [danhka22@twitter](https://twitter.com/danhka22/status/1483086352933867520) | advertise |
@@ -3342,6 +3344,7 @@ Do not create new issue or we will close it as duplicate.
 | [dungbuws@twitter](https://twitter.com/dungbuws/status/1571582374130884611) | advertise |
 | [Dunghhhh@twitter](https://twitter.com/Dunghhhh/status/1631937400762167296) | advertise |
 | [DungLnguyen@twitter](https://twitter.com/DungLnguyen/status/1570849648914599937) | advertise |
+| [DungNgu27895093@twitter](https://twitter.com/DungNgu27895093/status/1717487291856523332) | advertise |
 | [Dungtra66916665@twitter](https://twitter.com/Dungtra66916665/status/1392717888910331913) | advertise |
 | [DuNguyn89445274@twitter](https://twitter.com/DuNguyn89445274/status/1386448298647515143) | advertise |
 | [Dungxl14@twitter](https://twitter.com/Dungxl14/status/1552353203634593793) | advertise |
@@ -4513,6 +4516,7 @@ Do not create new issue or we will close it as duplicate.
 | [hatedbyelon@twitter](https://twitter.com/hatedbyelon/status/1686981884637519877) | advertise |
 | [hathaisang@twitter](https://twitter.com/hathaisang/status/1715261903033999512) | advertise |
 | [HaTranNguyen4@twitter](https://twitter.com/HaTranNguyen4/status/1474278844894834689) | advertise |
+| [Hattann1990@twitter](https://twitter.com/Hattann1990/status/1717488614857216183) | advertise |
 | [hatthocnho83@twitter](https://twitter.com/hatthocnho83/status/1553035064098770945) | advertise |
 | [Hau29Trung@twitter](https://twitter.com/Hau29Trung/status/1381840387942191108) | advertise |
 | [haulieu4@twitter](https://twitter.com/haulieu4/status/1671376134267875330) | advertise |
@@ -9868,6 +9872,7 @@ Do not create new issue or we will close it as duplicate.
 | [olxolxolxolx@twitter](https://twitter.com/olxolxolxolx/status/1607701824961650688) | advertise |
 | [olyKoliM@twitter](https://twitter.com/olyKoliM/status/1617496322927648768) | advertise |
 | [OM4LSpb5a8vEdhu@twitter](https://twitter.com/OM4LSpb5a8vEdhu/status/1395682995693101063) | advertise |
+| [omaniboy2014@twitter](https://twitter.com/omaniboy2014/status/1717486574487670835) | advertise |
 | [omar44270104@twitter](https://twitter.com/omar44270104/status/1471983815249833990) | advertise |
 | [omarco91@twitter](https://twitter.com/omarco91/status/1603537286813171713) | advertise |
 | [OmarElgahri@twitter](https://twitter.com/OmarElgahri/status/1430736423838158851) | advertise |
@@ -14796,6 +14801,7 @@ Do not create new issue or we will close it as duplicate.
 | [Zaddy308@twitter](https://twitter.com/Zaddy308/status/1389884813088202753) | advertise |
 | [zafa67865376@twitter](https://twitter.com/zafa67865376/status/1550195542055178245) | advertise |
 | [zahedr@twitter](https://twitter.com/zahedr/status/1404344671778742275) | advertise |
+| [zaheerli81y@twitter](https://twitter.com/zaheerli81y/status/1717484743309283743) | advertise |
 | [zahrafarouq1@twitter](https://twitter.com/zahrafarouq1/status/1401092958972166147) | advertise |
 | [ZAHRSAEED@twitter](https://twitter.com/ZAHRSAEED/status/1494523655556059137) | advertise |
 | [zaid3413@twitter](https://twitter.com/zaid3413/status/1643359354106818560) | advertise |
