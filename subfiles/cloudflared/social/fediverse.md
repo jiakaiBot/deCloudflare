@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,848 |
+| com | 7,851 |
 | social | 4,643 |
-| net | 3,902 |
+| net | 3,905 |
 | org | 2,613 |
-| de | 2,446 |
+| de | 2,447 |
 
 
 - Mastodon, Pleroma, etc
@@ -59,6 +59,7 @@ Here's a list of public Fediverse services.
 | `02ryo01.info` | No |
 | `030.me` | Yes |
 | `0314159.xyz` | No |
+| `0371.uk` | Yes |
 | `04.si` | Yes |
 | `0702.org` | Yes |
 | `076.moe` | No |
@@ -9796,6 +9797,7 @@ Here's a list of public Fediverse services.
 | `dc801.space` | No |
 | `dc919.org` | Yes |
 | `dcae.fyi` | No |
+| `dcanalysts.net` | No |
 | `dcc-jpl.com` | Yes |
 | `dcdispat.ch` | No |
 | `dcentralisedmedia.com` | No |
@@ -12952,6 +12954,7 @@ Here's a list of public Fediverse services.
 | `evertron.tv` | No |
 | `everwas.com` | Yes |
 | `every-little.com` | No |
+| `everybodyslibraries.com` | No |
 | `everycastlabs.uk` | Yes |
 | `everydayedward.com` | Yes |
 | `everydayimshuflin.com` | No |
@@ -18256,6 +18259,7 @@ Here's a list of public Fediverse services.
 | `hilmarp.com` | No |
 | `hilmarp.social` | No |
 | `hilot06.com` | Yes |
+| `hilsbos.ch` | No |
 | `hima-jin.info` | No |
 | `himagine.club` | No |
 | `himanshuanand.com` | Yes |
@@ -21225,6 +21229,7 @@ Here's a list of public Fediverse services.
 | `joshumax.me` | Yes |
 | `joshwithers.blog` | Yes |
 | `josias.dev` | No |
+| `joslin.io` | Yes |
 | `josoko.net` | No |
 | `josschuurmans.com` | No |
 | `josta.me` | Yes |
@@ -21440,6 +21445,7 @@ Here's a list of public Fediverse services.
 | `justinian.codes` | No |
 | `justinmarrington.com` | No |
 | `justinpickard.net` | No |
+| `justins.space` | No |
 | `justinsimoni.com` | No |
 | `justinsweb.com` | No |
 | `justinweiss.com` | No |
@@ -21824,6 +21830,8 @@ Here's a list of public Fediverse services.
 | `kasma.cyou` | No |
 | `kasma.xyz` | No |
 | `kasnauskas.lt` | No |
+| `kaspars.net` | No |
+| `kasparsdambis.lv` | No |
 | `kasper.app` | No |
 | `kasperaliteten.dk` | No |
 | `kasperfam.net` | Yes |
@@ -35701,6 +35709,7 @@ Here's a list of public Fediverse services.
 | `quantumobserver.eu` | No |
 | `quaoar.xyz` | Yes |
 | `quaqoostore.net` | No |
+| `quarante-douze.net` | No |
 | `quarterbacks.win` | Yes |
 | `quarteredcircle.net` | No |
 | `quasar.casa` | No |
@@ -38134,6 +38143,7 @@ Here's a list of public Fediverse services.
 | `sample.pw` | Yes |
 | `samr1.net` | No |
 | `samsai.eu` | No |
+| `samsanstyle.com` | No |
 | `samschmitt.com` | Yes |
 | `samsteiner.net` | No |
 | `samstodon.net` | No |
@@ -38605,6 +38615,7 @@ Here's a list of public Fediverse services.
 | `sciencefiction.nl` | No |
 | `sciencemastodon.com` | No |
 | `sciencemediacenter.social` | No |
+| `sciences.dental` | No |
 | `sciences.re` | No |
 | `sciences.social` | No |
 | `sciencespot.co.uk` | No |
@@ -42194,6 +42205,7 @@ Here's a list of public Fediverse services.
 | `swrgroups.com` | Yes |
 | `swrlab.org` | No |
 | `swrs.net` | No |
+| `swsnr.de` | No |
 | `swtlo.com` | No |
 | `swungda.sh` | No |
 | `swurl.land` | Yes |
@@ -42293,6 +42305,7 @@ Here's a list of public Fediverse services.
 | `syoriken.org` | No |
 | `syosetu.social` | No |
 | `syoshida.org` | No |
+| `syphoncontinuity.com` | No |
 | `syria.social` | No |
 | `syringa.social` | Yes |
 | `syrma.cc` | Yes |
@@ -50086,8 +50099,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,100 |
-| Normal | 35,938 |
+| Cloudflare | 14,102 |
+| Normal | 35,949 |
 
 
 </details>
