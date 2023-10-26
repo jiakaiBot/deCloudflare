@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,643 |
 | net | 3,905 |
 | org | 2,613 |
-| de | 2,447 |
+| de | 2,448 |
 
 
 - Mastodon, Pleroma, etc
@@ -3711,6 +3711,7 @@ Here's a list of public Fediverse services.
 | `baacke.net` | No |
 | `baai.ac.cn` | No |
 | `baarsch.net` | Yes |
+| `baazee.cc` | No |
 | `baazee.de` | No |
 | `baazee.social` | No |
 | `babar1917.com` | No |
@@ -4970,7 +4971,7 @@ Here's a list of public Fediverse services.
 | `blade.red` | No |
 | `bladerunner.social` | No |
 | `bladion.de` | No |
-| `blaede.family` | No |
+| `blaede.family` | Yes |
 | `blaha.me` | Yes |
 | `blahaj-gamers.de` | No |
 | `blahaj.eu` | No |
@@ -16652,6 +16653,7 @@ Here's a list of public Fediverse services.
 | `goldingerit.ch` | No |
 | `gole.tz` | Yes |
 | `golf-olszewka.pl` | No |
+| `golf-podcast.de` | No |
 | `golfdn.com` | No |
 | `golfis.fun` | No |
 | `golgoth.org` | No |
@@ -25827,6 +25829,7 @@ Here's a list of public Fediverse services.
 | `mancave.de` | No |
 | `mancavgeek.co.uk` | No |
 | `manchoukuo.men` | Yes |
+| `mandalo.re` | Yes |
 | `mandarismoore.com` | No |
 | `mandelbrotsetapp.com` | No |
 | `mander.xyz` | No |
@@ -50099,8 +50102,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,102 |
-| Normal | 35,949 |
+| Cloudflare | 14,104 |
+| Normal | 35,950 |
 
 
 </details>
