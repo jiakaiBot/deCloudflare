@@ -28,7 +28,6 @@ Here's a list of public Matrix services.
 | matrix.archaeo.social | No |
 | aria.im | No |
 | matrix.badstuebner.biz | No |
-| synapse.bark.lgbt | Yes |
 | bolha.chat | Yes |
 | matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
@@ -79,7 +78,7 @@ Here's a list of public Matrix services.
 | matrix.oikei.net | No |
 | matrix.ombreport.info | No |
 | pcriot.org | Yes |
-| perthchat.org | Yes |
+| matrix.perthchat.org | Yes |
 | matrix.pikaviestin.fi | No |
 | matrix.plus.st | No |
 | possum.city | Yes |
@@ -114,8 +113,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 20 |
+| Cloudflare | 19 |
 | Normal | 67 |
 
 
-### 23% of public Matrix services are using Cloudflare.
+### 22.1% of public Matrix services are using Cloudflare.
