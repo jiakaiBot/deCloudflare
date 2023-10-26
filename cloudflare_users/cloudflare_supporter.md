@@ -181,6 +181,7 @@ Do not create new issue or we will close it as duplicate.
 | [506_76365@twitter](https://twitter.com/506_76365/status/1400516235436072967) | advertise |
 | [573Glenn_M@twitter](https://twitter.com/573Glenn_M/status/1416400401637781509) | advertise |
 | [599Chinu@twitter](https://twitter.com/599Chinu/status/1393211483190972417) | advertise |
+| [647kByLU6viz957@twitter](https://twitter.com/647kByLU6viz957/status/1717406254723715322) | advertise |
 | [678_ng@twitter](https://twitter.com/678_ng/status/1395341643667042306) | advertise |
 | [728idbcsb@twitter](https://twitter.com/728idbcsb/status/1711012324885299584) | advertise |
 | [813Tomles@twitter](https://twitter.com/813Tomles/status/1475852118879727619) | advertise |
@@ -3629,6 +3630,7 @@ Do not create new issue or we will close it as duplicate.
 | [ErfanullahK@twitter](https://twitter.com/ErfanullahK/status/1611805214851432449) | advertise |
 | [Ericduo19201253@twitter](https://twitter.com/Ericduo19201253/status/1397342285428232194) | advertise |
 | [Erics87402408@twitter](https://twitter.com/Erics87402408/status/1537793280657989633) | advertise |
+| [ErictheHealer@twitter](https://twitter.com/ErictheHealer/status/1717430380301787214) | advertise |
 | [EricWarnasch2@twitter](https://twitter.com/EricWarnasch2/status/1501394632424534018) | advertise |
 | [erigomwsn@twitter](https://twitter.com/erigomwsn/status/1393026360788938752) | advertise |
 | [EriJue3@twitter](https://twitter.com/EriJue3/status/1685290784503795712) | advertise |
@@ -7557,6 +7559,7 @@ Do not create new issue or we will close it as duplicate.
 | [Luongbason3@twitter](https://twitter.com/Luongbason3/status/1711250394272448993) | advertise |
 | [LuonglamVan1992@twitter](https://twitter.com/LuonglamVan1992/status/1563424906070466561) | advertise |
 | [luongng59787247@twitter](https://twitter.com/luongng59787247/status/1612442148447870978) | advertise |
+| [luongquochuy@twitter](https://twitter.com/luongquochuy/status/1717426474293289418) | advertise |
 | [Luph96507624@twitter](https://twitter.com/Luph96507624/status/1392188259661320193) | advertise |
 | [LuralMay@twitter](https://twitter.com/LuralMay/status/1384873233158115328) | advertise |
 | [luscalopez@twitter](https://twitter.com/luscalopez/status/1650653434750590979) | advertise |
@@ -12812,6 +12815,7 @@ Do not create new issue or we will close it as duplicate.
 | [thefourcraft@twitter](https://twitter.com/thefourcraft/status/1598082197562720256) | advertise |
 | [Thegamerprogra3@twitter](https://twitter.com/Thegamerprogra3/status/1545423522876772352) | advertise |
 | [theGazetteNGR@twitter](https://twitter.com/theGazetteNGR/status/1596440560566693891) | advertise |
+| [Thegodf96723822@twitter](https://twitter.com/Thegodf96723822/status/1717283546195214629) | advertise |
 | [TheGodOfEvil23@twitter](https://twitter.com/TheGodOfEvil23/status/1393882433750278151) | advertise |
 | [TheGulshanKumar@twitter](https://twitter.com/TheGulshanKumar/status/1712398114777403862) | advertise |
 | [THEGURLPASSION@twitter](https://twitter.com/THEGURLPASSION/status/1506792367872958471) | advertise |
