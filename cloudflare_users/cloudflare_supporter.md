@@ -11516,6 +11516,7 @@ Do not create new issue or we will close it as duplicate.
 | [santutunga10@twitter](https://twitter.com/santutunga10/status/1399017643135299586) | advertise |
 | [sanwarhaider@twitter](https://twitter.com/sanwarhaider/status/1573432598600503297) | advertise |
 | [saomyatpyaesone@twitter](https://twitter.com/saomyatpyaesone/status/1391690727474679810) | advertise |
+| [SAPACo3@twitter](https://twitter.com/SAPACo3/status/1717549750302744905) | advertise |
 | [saphianna@twitter](https://twitter.com/saphianna/status/1665889157678235653) | advertise |
 | [saplabro@twitter](https://twitter.com/saplabro/status/1498779520488587264) | advertise |
 | [saplynx@twitter](https://twitter.com/saplynx/status/1491474231598923776) | advertise |
