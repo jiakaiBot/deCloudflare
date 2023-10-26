@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CAPTCHA frame not embeddable on 3rd-party website](https://github.com/4chan/4chan-API/issues/100)
 - [Broken Page: not working](https://github.com/htr-tech/zphisher/issues/803)
 - [zerossl 配合 cf 申请证书失败](https://github.com/SagerNet/sing-box/issues/1012)
 - [Load CSS Asynchronously - Update IPs in the warning notice](https://github.com/wp-media/wp-rocket/issues/6247)
