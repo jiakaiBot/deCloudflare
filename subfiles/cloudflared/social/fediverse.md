@@ -25802,6 +25802,7 @@ Here's a list of public Fediverse services.
 | `mamut.lt` | No |
 | `mamut.social` | No |
 | `mamutinhos.xyz` | No |
+| `mamutovo.cz` | Yes |
 | `mamutut.space` | No |
 | `man-ya.asia` | No |
 | `mana-ka.com` | No |
@@ -50076,7 +50077,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,090 |
+| Cloudflare | 14,091 |
 | Normal | 35,938 |
 
 
