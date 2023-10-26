@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,845 |
+| com | 7,847 |
 | social | 4,643 |
 | net | 3,902 |
 | org | 2,613 |
@@ -10069,7 +10069,7 @@ Here's a list of public Fediverse services.
 | `deleted.land` | No |
 | `deleteyourfacebook.today` | No |
 | `deleuil.studio` | No |
-| `deli.st` | No |
+| `deli.st` | Yes |
 | `delic.fi` | No |
 | `delicesbdsm.fr` | Yes |
 | `delire.party` | No |
@@ -19345,6 +19345,7 @@ Here's a list of public Fediverse services.
 | `ikkaro.cat` | No |
 | `ikkaro.com` | No |
 | `iklem.fr` | No |
+| `iknox.com` | No |
 | `iko.soy` | Yes |
 | `ikubai.club` | No |
 | `ikx.kr` | Yes |
@@ -35940,6 +35941,7 @@ Here's a list of public Fediverse services.
 | `rabbit.zone` | No |
 | `rabbitea.rs` | Yes |
 | `rabbithou.se` | Yes |
+| `rabbitictranslator.com` | Yes |
 | `rabbitodon.work` | No |
 | `rabbits-at.work` | No |
 | `rabbits.supplies` | No |
@@ -50080,7 +50082,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,093 |
+| Cloudflare | 14,095 |
 | Normal | 35,939 |
 
 
