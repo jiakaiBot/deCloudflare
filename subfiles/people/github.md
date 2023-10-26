@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Load CSS Asynchronously - Update IPs in the warning notice](https://github.com/wp-media/wp-rocket/issues/6247)
 - [Cant use proxy](https://github.com/chromedp/chromedp/issues/1388)
 - [www.humblebundle.com - site is not usable](https://github.com/webcompat/web-bugs/issues/128876)
 - [Stream delay displayes wrong values after blocking ads](https://github.com/FrankerFaceZ/FrankerFaceZ/issues/1423)
