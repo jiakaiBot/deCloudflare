@@ -8730,6 +8730,7 @@ Do not create new issue or we will close it as duplicate.
 | [MstafaMilan@twitter](https://twitter.com/MstafaMilan/status/1546617486937935872) | advertise |
 | [msun_tv@twitter](https://twitter.com/msun_tv/status/1484144302037086209) | advertise |
 | [MSuriko@twitter](https://twitter.com/MSuriko/status/1376898848090583043) | advertise |
+| [mswdzyzy394805@twitter](https://twitter.com/mswdzyzy394805/status/1717630846109123036) | advertise |
 | [mt1234513@twitter](https://twitter.com/mt1234513/status/1393161915141017603) | advertise |
 | [mtanu1680@twitter](https://twitter.com/mtanu1680/status/1716719465587749294) | advertise |
 | [MTAung15@twitter](https://twitter.com/MTAung15/status/1383709367837499396) | advertise |
