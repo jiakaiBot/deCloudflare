@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,841 |
 | social | 4,642 |
-| net | 3,901 |
+| net | 3,902 |
 | org | 2,613 |
 | de | 2,445 |
 
@@ -26278,6 +26278,7 @@ Here's a list of public Fediverse services.
 | `mastodol.jp` | No |
 | `mastodoll.net` | No |
 | `mastodom.social` | No |
+| `mastodon-ai.net` | No |
 | `mastodon-anigif.net` | No |
 | `mastodon-belgium.be` | No |
 | `mastodon-blablalinux.be` | No |
@@ -50069,7 +50070,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,085 |
-| Normal | 35,935 |
+| Normal | 35,936 |
 
 
 </details>
