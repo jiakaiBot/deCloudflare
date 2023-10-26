@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,643 |
 | net | 3,905 |
 | org | 2,613 |
-| de | 2,448 |
+| de | 2,449 |
 
 
 - Mastodon, Pleroma, etc
@@ -16884,6 +16884,7 @@ Here's a list of public Fediverse services.
 | `grav.social` | Yes |
 | `grave.fun` | Yes |
 | `graves.cl` | No |
+| `graveyard.boo` | No |
 | `gravitas.cafe` | No |
 | `gravitasfree.zone` | No |
 | `gravitaz.co.uk` | Yes |
@@ -37216,6 +37217,7 @@ Here's a list of public Fediverse services.
 | `rlin.eu` | Yes |
 | `rllmuk.social` | No |
 | `rlmn.co` | Yes |
+| `rlp-media.de` | No |
 | `rlp.schule` | No |
 | `rls.social` | No |
 | `rly.at` | No |
@@ -50107,7 +50109,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,106 |
-| Normal | 35,952 |
+| Normal | 35,954 |
 
 
 </details>
