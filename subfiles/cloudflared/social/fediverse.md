@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,841 |
-| social | 4,642 |
+| com | 7,843 |
+| social | 4,643 |
 | net | 3,902 |
 | org | 2,613 |
-| de | 2,445 |
+| de | 2,446 |
 
 
 - Mastodon, Pleroma, etc
@@ -809,6 +809,7 @@ Here's a list of public Fediverse services.
 | `9to5mac.com` | Yes |
 | `9uelle.jp` | No |
 | `9wd.eu` | Yes |
+| `9yz.de` | No |
 | `9zn.net` | No |
 | `a-apple.net` | Yes |
 | `a-chill.space` | No |
@@ -13503,7 +13504,7 @@ Here's a list of public Fediverse services.
 | `fed-it.nu` | No |
 | `fed.contact` | No |
 | `fed.fan` | Yes |
-| `fed.im` | No |
+| `fed.im` | Yes |
 | `fed.sh` | Yes |
 | `fed.social` | Yes |
 | `fedaya.net` | No |
@@ -17674,6 +17675,7 @@ Here's a list of public Fediverse services.
 | `harumakizaemon.net` | Yes |
 | `harusamex.com` | No |
 | `harusino.com` | No |
+| `haruska.com` | Yes |
 | `haruska.social` | Yes |
 | `haruyjsn.net` | No |
 | `harvard.edu` | Yes |
@@ -21871,7 +21873,7 @@ Here's a list of public Fediverse services.
 | `kawaii.gg` | No |
 | `kawaii.social` | No |
 | `kawaiidelic.space` | No |
-| `kawaiinet.com.au` | No |
+| `kawaiinet.com.au` | Yes |
 | `kawaiipunk.xyz` | No |
 | `kawaiistarlight.online` | Yes |
 | `kawaiistu.moe` | No |
@@ -23956,6 +23958,7 @@ Here's a list of public Fediverse services.
 | `lemonade.moe` | Yes |
 | `lemonbite.cc` | Yes |
 | `lemondouble.com` | Yes |
+| `lemonfair.social` | No |
 | `lemonline.biz` | No |
 | `lemonparty.social` | Yes |
 | `lemontastica.net` | Yes |
@@ -28620,6 +28623,7 @@ Here's a list of public Fediverse services.
 | `moon.holiday` | No |
 | `moon.moe` | Yes |
 | `moonagic.com` | Yes |
+| `moonangel.com` | Yes |
 | `moonbeam.dance` | No |
 | `moonbeam.town` | No |
 | `moonbootlabs.net` | No |
@@ -31882,6 +31886,7 @@ Here's a list of public Fediverse services.
 | `ocloud.de` | No |
 | `oconnellamethyst.com` | No |
 | `oconnor.cx` | No |
+| `ocooo.ooo` | No |
 | `ocr.social` | No |
 | `ocsf.in` | No |
 | `octalwave.com` | Yes |
@@ -45135,6 +45140,7 @@ Here's a list of public Fediverse services.
 | `trpger.us` | Yes |
 | `trshnet.de` | No |
 | `trtl.in` | No |
+| `trtmn.io` | Yes |
 | `tru.io` | Yes |
 | `tru.vi` | Yes |
 | `truckers.social` | Yes |
@@ -50070,8 +50076,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,085 |
-| Normal | 35,937 |
+| Cloudflare | 14,090 |
+| Normal | 35,938 |
 
 
 </details>
