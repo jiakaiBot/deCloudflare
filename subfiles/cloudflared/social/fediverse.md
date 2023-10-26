@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,851 |
+| com | 7,853 |
 | social | 4,643 |
 | net | 3,905 |
 | org | 2,613 |
@@ -16825,6 +16825,7 @@ Here's a list of public Fediverse services.
 | `gracehartford.org` | No |
 | `graceteng.me` | No |
 | `gracewen.com` | No |
+| `graciado.com` | No |
 | `gracie-tech.tokyo` | No |
 | `graeber.social` | No |
 | `graeber.video` | No |
@@ -40645,6 +40646,7 @@ Here's a list of public Fediverse services.
 | `somebetterplaceshell.gq` | No |
 | `someden.net` | Yes |
 | `somedevfox.ru` | No |
+| `somegadgetguy.com` | No |
 | `somegroup.net` | No |
 | `someone.bar` | Yes |
 | `someonewho.codes` | No |
@@ -42618,6 +42620,7 @@ Here's a list of public Fediverse services.
 | `tangentfox.com` | No |
 | `tangentideas.info` | No |
 | `tanghus.net` | No |
+| `tangledbankforaging.uk` | No |
 | `tangofam.space` | No |
 | `tangoit.net` | No |
 | `tangorangers.com` | Yes |
@@ -46609,7 +46612,7 @@ Here's a list of public Fediverse services.
 | `veganbtw.net` | No |
 | `veganbyproxy.net` | No |
 | `vegane.schule` | No |
-| `veganism.social` | No |
+| `veganism.social` | Yes |
 | `veganmsp.com` | Yes |
 | `veganunity.me` | No |
 | `veganunity.rocks` | No |
@@ -50102,8 +50105,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,104 |
-| Normal | 35,950 |
+| Cloudflare | 14,105 |
+| Normal | 35,952 |
 
 
 </details>
