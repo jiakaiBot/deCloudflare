@@ -18724,6 +18724,7 @@ Here's a list of public Fediverse services.
 | `houbahouba.de` | No |
 | `houchouas.name` | No |
 | `houghton.media` | Yes |
+| `hounds.online` | Yes |
 | `houngbo.net` | No |
 | `houps.eu` | Yes |
 | `house-of.xyz` | No |
@@ -50105,7 +50106,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,105 |
+| Cloudflare | 14,106 |
 | Normal | 35,952 |
 
 
