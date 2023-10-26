@@ -502,6 +502,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ahmedmo54164547@twitter](https://twitter.com/Ahmedmo54164547/status/1580697489463988224) | advertise |
 | [Ahmedsa96861316@twitter](https://twitter.com/Ahmedsa96861316/status/1412890312859656192) | moral (advertise) |
 | [AHMEDSAID1993au@twitter](https://twitter.com/AHMEDSAID1993au/status/1558211090525442049) | advertise |
+| [AhmedShehxed@twitter](https://twitter.com/AhmedShehxed/status/1717449712297763097) | advertise |
 | [AhmedShojon2@twitter](https://twitter.com/AhmedShojon2/status/1392902773730004993) | advertise |
 | [AhmedShreyaan@twitter](https://twitter.com/AhmedShreyaan/status/1386617594489225218) | advertise |
 | [AhmedWaqarKhan1@twitter](https://twitter.com/AhmedWaqarKhan1/status/1393752833699188739) | advertise |
@@ -4540,6 +4541,7 @@ Do not create new issue or we will close it as duplicate.
 | [hcnneiwiwjjdj@twitter](https://twitter.com/hcnneiwiwjjdj/status/1564480612127440901) | advertise |
 | [HCybersquard@twitter](https://twitter.com/HCybersquard/status/1386985045315842049) | advertise |
 | [hdellacorte@twitter](https://twitter.com/hdellacorte/status/1533407264907923456) | advertise |
+| [Hdh85108232938@twitter](https://twitter.com/Hdh85108232938/status/1717460837873389999) | advertise |
 | [Hdjdbj17@twitter](https://twitter.com/Hdjdbj17/status/1553807417699598336) | advertise |
 | [HDuyLc2@twitter](https://twitter.com/HDuyLc2/status/1388699027626024966) | advertise |
 | [hd_solomon78154@twitter](https://twitter.com/hd_solomon78154/status/1684844620818087936) | advertise |
@@ -9737,6 +9739,7 @@ Do not create new issue or we will close it as duplicate.
 | [NweOoSwe1@twitter](https://twitter.com/NweOoSwe1/status/1390971223786418177) | advertise |
 | [NwetYeeWin3@twitter](https://twitter.com/NwetYeeWin3/status/1393197108929261571) | advertise |
 | [NwlCed@twitter](https://twitter.com/NwlCed/status/1488854472655007746) | advertise |
+| [nwmh31@twitter](https://twitter.com/nwmh31/status/1717458746387972240) | advertise |
 | [nwQoca@twitter](https://twitter.com/nwQoca/status/1704721638736953358) | advertise |
 | [NWRP_eu@twitter](https://twitter.com/NWRP_eu/status/1675294969462943744) | advertise |
 | [NyaHo_vrc@twitter](https://twitter.com/NyaHo_vrc/status/1615949643099308032) | advertise |
@@ -10962,6 +10965,7 @@ Do not create new issue or we will close it as duplicate.
 | [RealJB303@twitter](https://twitter.com/RealJB303/status/1603718927959216129) | advertise |
 | [realKUZNETSOV@twitter](https://twitter.com/realKUZNETSOV/status/1510345313567006731) | advertise |
 | [reallif81930874@twitter](https://twitter.com/reallif81930874/status/1392978030725722115) | advertise |
+| [Reallov36203969@twitter](https://twitter.com/Reallov36203969/status/1717458866634732005) | advertise |
 | [RealMofrad@twitter](https://twitter.com/RealMofrad/status/1506868521359200259) | advertise |
 | [RealPxLib@twitter](https://twitter.com/RealPxLib/status/1513253437722578948) | advertise |
 | [Realscenephoto1@twitter](https://twitter.com/Realscenephoto1/status/1379524143440396288) | advertise |
