@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,847 |
+| com | 7,848 |
 | social | 4,643 |
 | net | 3,902 |
 | org | 2,613 |
@@ -12952,6 +12952,7 @@ Here's a list of public Fediverse services.
 | `evertron.tv` | No |
 | `everwas.com` | Yes |
 | `every-little.com` | No |
+| `everycastlabs.uk` | Yes |
 | `everydayedward.com` | Yes |
 | `everydayimshuflin.com` | No |
 | `everydev.com` | Yes |
@@ -14837,6 +14838,7 @@ Here's a list of public Fediverse services.
 | `freaklab.es` | No |
 | `freaknik.vip` | No |
 | `freaknweekend.com` | No |
+| `freakrho.com` | Yes |
 | `freaks.social` | Yes |
 | `freaksonly.space` | No |
 | `freakspot.net` | No |
@@ -30812,6 +30814,7 @@ Here's a list of public Fediverse services.
 | `nimag.net` | No |
 | `nimantu.de` | No |
 | `nimber.online` | Yes |
+| `nimblea.pe` | Yes |
 | `nimblebit.com` | No |
 | `nimbus.social` | Yes |
 | `nime.space` | No |
@@ -32369,7 +32372,7 @@ Here's a list of public Fediverse services.
 | `oomurosakura.co` | Yes |
 | `oook.fr` | No |
 | `ooops.cloud` | Yes |
-| `oops.wtf` | No |
+| `oops.wtf` | Yes |
 | `oopsall.gay` | Yes |
 | `oopscommand.com` | No |
 | `oort.social` | No |
@@ -41024,6 +41027,7 @@ Here's a list of public Fediverse services.
 | `spooner.social` | Yes |
 | `spoongoons.cc` | Yes |
 | `spoonie.community` | No |
+| `sporadic.news` | Yes |
 | `sporadically.social` | No |
 | `spore.social` | No |
 | `sporedrive.space` | No |
@@ -50082,8 +50086,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,095 |
-| Normal | 35,939 |
+| Cloudflare | 14,100 |
+| Normal | 35,938 |
 
 
 </details>
