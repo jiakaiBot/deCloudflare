@@ -11936,6 +11936,7 @@ Do not create new issue or we will close it as duplicate.
 | [SiThuWai17@twitter](https://twitter.com/SiThuWai17/status/1395532997445644288) | advertise |
 | [sitianiya@twitter](https://twitter.com/sitianiya/status/1684045744406405120) | advertise |
 | [SitMinKoKo3@twitter](https://twitter.com/SitMinKoKo3/status/1390787997310742531) | advertise |
+| [sitpeten@twitter](https://twitter.com/sitpeten/status/1717331801838866661) | advertise |
 | [sitthiprawiat@twitter](https://twitter.com/sitthiprawiat/status/1503031569908629507) | advertise |
 | [Sittipo00572089@twitter](https://twitter.com/Sittipo00572089/status/1384550250627534849) | advertise |
 | [Sittipong55140@twitter](https://twitter.com/Sittipong55140/status/1553135327229124608) | advertise |
