@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,843 |
+| com | 7,845 |
 | social | 4,643 |
 | net | 3,902 |
 | org | 2,613 |
@@ -931,6 +931,7 @@ Here's a list of public Fediverse services.
 | `abid.cc` | No |
 | `abigo.de` | No |
 | `abikewithnowheels.com` | No |
+| `abiscuola.com` | No |
 | `abiscuola.org` | No |
 | `abitawake.com` | No |
 | `abitmu.ch` | Yes |
@@ -9512,6 +9513,7 @@ Here's a list of public Fediverse services.
 | `dapchat.online` | No |
 | `daphnestar.com` | No |
 | `dapj.org` | No |
+| `daponline.com` | Yes |
 | `dapor.net` | No |
 | `dapor.org` | No |
 | `dappital.co` | No |
@@ -25802,6 +25804,7 @@ Here's a list of public Fediverse services.
 | `mamut.lt` | No |
 | `mamut.social` | No |
 | `mamutinhos.xyz` | No |
+| `mamutovo.cz` | Yes |
 | `mamutut.space` | No |
 | `man-ya.asia` | No |
 | `mana-ka.com` | No |
@@ -41143,6 +41146,7 @@ Here's a list of public Fediverse services.
 | `srg.social` | Yes |
 | `srgr0.com` | Yes |
 | `srid.ca` | Yes |
+| `srijan.ch` | Yes |
 | `srijan.dev` | Yes |
 | `srijan.site` | No |
 | `srijn.net` | Yes |
@@ -50076,8 +50080,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,090 |
-| Normal | 35,938 |
+| Cloudflare | 14,093 |
+| Normal | 35,939 |
 
 
 </details>
