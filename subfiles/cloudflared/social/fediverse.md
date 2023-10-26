@@ -8026,7 +8026,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -11193,6 +11193,7 @@ Here's a list of public Fediverse services.
 | `dougherty.social` | Yes |
 | `dougiverse.io` | Yes |
 | `douglashill.co` | Yes |
+| `doujin.games` | Yes |
 | `dounx.me` | Yes |
 | `douvk.co.uk` | No |
 | `douwes.co.uk` | No |
@@ -50070,7 +50071,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,085 |
-| Normal | 35,936 |
+| Normal | 35,937 |
 
 
 </details>
