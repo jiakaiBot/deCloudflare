@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Windscribe Profiles not working](https://github.com/passepartoutvpn/passepartout-apple/issues/372)
 - [Can't find 'verify you are human' loop.](https://github.com/FlareSolverr/FlareSolverr/issues/933)
 - [All environments on custom domains suddenly 404'ing with “x-cache: Error from cloudfront”](https://github.com/aws-amplify/amplify-hosting/issues/3776)
 - [Update the stored expiration date value anytime it's received](https://github.com/cisagov/getgov/issues/1218)
