@@ -33850,6 +33850,7 @@ Here's a list of public Fediverse services.
 | `pfadi.social` | No |
 | `pfaff.dev` | No |
 | `pfalz.social` | Yes |
+| `pfaundler-spiegel.eu` | No |
 | `pfcd.me` | Yes |
 | `pfefferle.org` | No |
 | `pfeffernimz.de` | No |
@@ -50134,7 +50135,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,112 |
-| Normal | 35,973 |
+| Normal | 35,974 |
 
 
 </details>
