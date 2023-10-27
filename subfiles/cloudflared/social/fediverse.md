@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,644 |
 | net | 3,905 |
 | org | 2,616 |
-| de | 2,451 |
+| de | 2,452 |
 
 
 - Mastodon, Pleroma, etc
@@ -47617,6 +47617,7 @@ Here's a list of public Fediverse services.
 | `webdevs.social` | No |
 | `webelievein.love` | No |
 | `weber.fi.eu.org` | No |
+| `webfan.de` | No |
 | `webfeed.me` | Yes |
 | `webfru.it` | No |
 | `webgirand.eu` | Yes |
@@ -50127,7 +50128,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,112 |
-| Normal | 35,966 |
+| Normal | 35,967 |
 
 
 </details>
