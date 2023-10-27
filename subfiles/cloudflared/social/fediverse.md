@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,854 |
 | social | 4,644 |
 | net | 3,905 |
-| org | 2,613 |
+| org | 2,615 |
 | de | 2,449 |
 
 
@@ -7693,6 +7693,7 @@ Here's a list of public Fediverse services.
 | `cloudless.world` | No |
 | `cloudlet.at` | No |
 | `cloudmist.org` | No |
+| `cloudmt.co.kr` | No |
 | `cloudns.cc` | Yes |
 | `cloudns.cl` | Yes |
 | `cloudns.nz` | Yes |
@@ -8030,7 +8031,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -23631,6 +23632,7 @@ Here's a list of public Fediverse services.
 | `lavraievie.social` | No |
 | `law-and-politics.online` | No |
 | `law.builders` | No |
+| `lawanalysis.org` | No |
 | `lawfam.cloud` | No |
 | `lawfedi.blue` | Yes |
 | `lawndale.space` | No |
@@ -37213,6 +37215,7 @@ Here's a list of public Fediverse services.
 | `rkowl.com` | No |
 | `rkun.cf` | No |
 | `rkunkunr.com` | Yes |
+| `rkvl.org` | No |
 | `rkvssr.nl` | No |
 | `rl5.nl` | No |
 | `rlchr.de` | No |
@@ -50112,8 +50115,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,107 |
-| Normal | 35,957 |
+| Cloudflare | 14,108 |
+| Normal | 35,959 |
 
 
 </details>
