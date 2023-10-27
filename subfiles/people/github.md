@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to bypass Cloudflare protection](https://github.com/DarkCat09/python-aternos/issues/100)
+- [JSON Import Error: e.match(...) is null](https://github.com/dani-garcia/vaultwarden/issues/4007)
 - [CloudFlare Cloudflare Waiting Room Issues](https://github.com/hinoshiba/news/issues/5268)
 - [CloudFlare Cloudflare Waiting Room Issues](https://github.com/SecOpsNews/news/issues/20562)
 - [CAPTCHA frame not embeddable on 3rd-party website](https://github.com/4chan/4chan-API/issues/100)
