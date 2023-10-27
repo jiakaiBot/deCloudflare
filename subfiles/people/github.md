@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Toonily Download and viewing of chapters posted in the last 24 hours is broken (10/27/2023)](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/18760)
 - [Windscribe Profiles not working](https://github.com/passepartoutvpn/passepartout-apple/issues/372)
 - [Can't find 'verify you are human' loop.](https://github.com/FlareSolverr/FlareSolverr/issues/933)
 - [All environments on custom domains suddenly 404'ing with “x-cache: Error from cloudfront”](https://github.com/aws-amplify/amplify-hosting/issues/3776)
