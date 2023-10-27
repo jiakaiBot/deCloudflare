@@ -1597,6 +1597,7 @@ Do not create new issue or we will close it as duplicate.
 | [BalogZoltan19@twitter](https://twitter.com/BalogZoltan19/status/1637762282426957824) | advertise |
 | [BaltazariMotey@twitter](https://twitter.com/BaltazariMotey/status/1402903928283439108) | advertise |
 | [BalveerCoder@twitter](https://twitter.com/BalveerCoder/status/1574389087876055040) | advertise |
+| [balyarochmadi@twitter](https://twitter.com/balyarochmadi/status/1716595682931511351) | advertise |
 | [BAMBAM0205_NINE@twitter](https://twitter.com/BAMBAM0205_NINE/status/1405510478613278722) | advertise |
 | [BamJinChuu@twitter](https://twitter.com/BamJinChuu/status/1394310619319308293) | advertise |
 | [BamniyaSurya@twitter](https://twitter.com/BamniyaSurya/status/1385453008721485824) | advertise |
