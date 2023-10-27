@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,854 |
+| com | 7,855 |
 | social | 4,644 |
 | net | 3,905 |
 | org | 2,616 |
-| de | 2,450 |
+| de | 2,451 |
 
 
 - Mastodon, Pleroma, etc
@@ -9597,6 +9597,7 @@ Here's a list of public Fediverse services.
 | `darn.fish` | Yes |
 | `darn.is` | Yes |
 | `darn.social` | Yes |
+| `darndt.de` | Yes |
 | `darnell.app` | No |
 | `darnell.day` | No |
 | `darnell.fyi` | No |
@@ -17904,6 +17905,7 @@ Here's a list of public Fediverse services.
 | `heffalump.party` | No |
 | `heffley.social` | No |
 | `heftehaufen.de` | No |
+| `hegde.me` | No |
 | `heggadrone.tk` | No |
 | `hehn.xyz` | No |
 | `hei.baby` | No |
@@ -19367,6 +19369,7 @@ Here's a list of public Fediverse services.
 | `ilammy.net` | No |
 | `ilbery.family` | No |
 | `ilbery.social` | No |
+| `ilblogdichiara.it` | No |
 | `ilbro.com` | Yes |
 | `ilchub.net` | Yes |
 | `ildiditansigt.nu` | No |
@@ -27743,6 +27746,7 @@ Here's a list of public Fediverse services.
 | `mightly.space` | Yes |
 | `mightyena.com` | No |
 | `mightywolf.ch` | No |
+| `miguelcervera.com.es` | No |
 | `miguelcr.me` | No |
 | `migueloteroiglesias.eu` | Yes |
 | `mihalis.net` | No |
@@ -41927,6 +41931,7 @@ Here's a list of public Fediverse services.
 | `sukeban.moe` | No |
 | `sukebeneko.com` | No |
 | `sukebepacos.com` | No |
+| `sukiyaki.fr` | No |
 | `sulairris.com` | No |
 | `sulegna.de` | Yes |
 | `sulli.ca` | No |
@@ -43313,6 +43318,7 @@ Here's a list of public Fediverse services.
 | `thatsocial.site` | No |
 | `thatspretty.cool` | Yes |
 | `thatssofetch.pink` | No |
+| `thatstruethatis.com` | Yes |
 | `thatswhathappened.tv` | No |
 | `thattakashi.me` | Yes |
 | `thatwebsite.xyz` | No |
@@ -50120,8 +50126,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,110 |
-| Normal | 35,962 |
+| Cloudflare | 14,112 |
+| Normal | 35,966 |
 
 
 </details>
