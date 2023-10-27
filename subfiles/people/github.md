@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't find 'verify you are human' loop.](https://github.com/FlareSolverr/FlareSolverr/issues/933)
+- [All environments on custom domains suddenly 404'ing with “x-cache: Error from cloudfront”](https://github.com/aws-amplify/amplify-hosting/issues/3776)
 - [Update the stored expiration date value anytime it's received](https://github.com/cisagov/getgov/issues/1218)
 - [Fatal Error when installing WP Rocket through Packagist](https://github.com/wp-media/wp-rocket/issues/6254)
 - [readme/mirrors: some listed mirrors are not working](https://github.com/TeamPiped/Piped/issues/3077)
