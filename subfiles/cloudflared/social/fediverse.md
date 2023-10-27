@@ -37172,6 +37172,7 @@ Here's a list of public Fediverse services.
 | `ris.paris` | No |
 | `risaton.net` | No |
 | `risc.social` | Yes |
+| `risenvalkyrie.xyz` | No |
 | `riseuptimes.org` | No |
 | `rishav.io` | Yes |
 | `rishikumar.dev` | No |
@@ -50135,7 +50136,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,112 |
-| Normal | 35,974 |
+| Normal | 35,975 |
 
 
 </details>
