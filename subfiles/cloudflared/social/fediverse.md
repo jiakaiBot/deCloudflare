@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,853 |
-| social | 4,643 |
+| com | 7,854 |
+| social | 4,644 |
 | net | 3,905 |
 | org | 2,613 |
 | de | 2,449 |
@@ -8475,6 +8475,7 @@ Here's a list of public Fediverse services.
 | `courtneyr.dev` | No |
 | `cousinsd.net` | No |
 | `cousteaudivers.social` | No |
+| `couvcourier.com` | Yes |
 | `covalent.ml` | No |
 | `covelline.social` | No |
 | `cover.pm` | No |
@@ -20700,6 +20701,7 @@ Here's a list of public Fediverse services.
 | `jdsoft.de` | No |
 | `jdt.dev` | No |
 | `jdt.io` | No |
+| `jdti.io` | Yes |
 | `jdub.website` | Yes |
 | `jdzero.net` | No |
 | `jean-ribes.tk` | No |
@@ -24963,6 +24965,7 @@ Here's a list of public Fediverse services.
 | `lostcause.house` | Yes |
 | `lostcheese.com` | No |
 | `lostcoastoutpost.com` | No |
+| `lostcreek.social` | No |
 | `lostfocus.de` | No |
 | `lostinok.com` | No |
 | `lostinthe.space` | No |
@@ -50109,8 +50112,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,105 |
-| Normal | 35,956 |
+| Cloudflare | 14,107 |
+| Normal | 35,957 |
 
 
 </details>
