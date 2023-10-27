@@ -4028,7 +4028,7 @@ Here's a list of public Fediverse services.
 | `based.zone` | Yes |
 | `basedcount.com` | Yes |
 | `basedones.social` | Yes |
-| `basedship.xyz` | Yes |
+| `basedship.xyz` | No |
 | `basel.social` | No |
 | `baselab.org` | No |
 | `basementcomputer.site` | No |
@@ -22982,6 +22982,7 @@ Here's a list of public Fediverse services.
 | `kretschmann.social` | No |
 | `kreuder.me` | No |
 | `krgame.fr` | No |
+| `krig.jp` | No |
 | `krigskunst.social` | No |
 | `krikkert.net` | No |
 | `krimb0.com` | Yes |
@@ -29944,7 +29945,7 @@ Here's a list of public Fediverse services.
 | `nate601.me` | Yes |
 | `natedickson.com` | No |
 | `natehiggers.online` | Yes |
-| `natehiggers.org` | No |
+| `natehiggers.org` | Yes |
 | `natehn.com` | No |
 | `natehub.com` | Yes |
 | `nateledford.com` | Yes |
@@ -48747,7 +48748,7 @@ Here's a list of public Fediverse services.
 | `xierqi.club` | No |
 | `xiii.cards` | No |
 | `xiii.ch` | Yes |
-| `xiling.site` | Yes |
+| `xiling.site` | No |
 | `xim.ca` | No |
 | `xin.cat` | No |
 | `xindejiayuan.com` | No |
@@ -50108,8 +50109,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,106 |
-| Normal | 35,954 |
+| Cloudflare | 14,105 |
+| Normal | 35,956 |
 
 
 </details>
