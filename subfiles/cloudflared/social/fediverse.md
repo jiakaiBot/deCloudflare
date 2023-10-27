@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,855 |
+| com | 7,859 |
 | social | 4,644 |
 | net | 3,905 |
 | org | 2,616 |
@@ -8503,6 +8503,7 @@ Here's a list of public Fediverse services.
 | `coywolf.social` | Yes |
 | `coza.cloud` | No |
 | `coziness.xyz` | Yes |
+| `cozy-space.blue` | No |
 | `cozy.chat` | Yes |
 | `cozymech.com` | No |
 | `cozynest.online` | No |
@@ -9230,6 +9231,7 @@ Here's a list of public Fediverse services.
 | `cylon.space` | No |
 | `cymaphore.net` | No |
 | `cynder.me` | Yes |
+| `cynigma.com` | No |
 | `cynosura.one` | Yes |
 | `cyoum.xyz` | No |
 | `cyph.club` | No |
@@ -10883,6 +10885,7 @@ Here's a list of public Fediverse services.
 | `dmml.ml` | No |
 | `dmmlabs.com` | No |
 | `dmogle.com` | No |
+| `dmoren.com` | No |
 | `dmorozov.info` | No |
 | `dmrty.fr` | No |
 | `dmrty.net` | No |
@@ -34174,6 +34177,7 @@ Here's a list of public Fediverse services.
 | `piouland.net` | No |
 | `pioupiou.social` | No |
 | `pipe01.net` | No |
+| `piperhaywood.com` | No |
 | `piperrak.cc` | No |
 | `piperservers.net` | Yes |
 | `piperswe.me` | Yes |
@@ -34740,6 +34744,7 @@ Here's a list of public Fediverse services.
 | `polyglot.city` | No |
 | `polyglot.network` | Yes |
 | `polygon.rocks` | No |
+| `polyhedralnonsense.com` | No |
 | `polyhymnia.page` | No |
 | `polylux.xyz` | No |
 | `polymath.net` | Yes |
@@ -44917,6 +44922,7 @@ Here's a list of public Fediverse services.
 | `tranny.town` | No |
 | `tranquil.cloud` | No |
 | `tranquilbigfoot.gg` | Yes |
+| `tranquility.quest` | No |
 | `trans-agenda.de` | No |
 | `trans.au` | Yes |
 | `trans.fm` | No |
@@ -50128,7 +50134,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,112 |
-| Normal | 35,967 |
+| Normal | 35,973 |
 
 
 </details>
