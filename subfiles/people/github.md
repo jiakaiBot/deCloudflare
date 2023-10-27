@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [readme/mirrors: some listed mirrors are not working](https://github.com/TeamPiped/Piped/issues/3077)
 - [Unable to bypass Cloudflare protection](https://github.com/DarkCat09/python-aternos/issues/100)
 - [JSON Import Error: e.match(...) is null](https://github.com/dani-garcia/vaultwarden/issues/4007)
 - [CloudFlare Cloudflare Waiting Room Issues](https://github.com/hinoshiba/news/issues/5268)
