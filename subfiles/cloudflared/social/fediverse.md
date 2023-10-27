@@ -32,8 +32,8 @@ Here's a list of public Fediverse services.
 | com | 7,854 |
 | social | 4,644 |
 | net | 3,905 |
-| org | 2,615 |
-| de | 2,449 |
+| org | 2,616 |
+| de | 2,450 |
 
 
 - Mastodon, Pleroma, etc
@@ -14209,6 +14209,7 @@ Here's a list of public Fediverse services.
 | `firefish.nz` | No |
 | `firefish.ooo` | No |
 | `firefish.place` | No |
+| `firefish.red` | No |
 | `firefish.ruhr` | No |
 | `firefish.social` | No |
 | `firefish.store` | Yes |
@@ -15477,6 +15478,7 @@ Here's a list of public Fediverse services.
 | `futex.au` | No |
 | `futile.life` | No |
 | `futilitycloset.com` | No |
+| `futo.org` | Yes |
 | `futopedia.xyz` | No |
 | `future-generation.social` | No |
 | `future.cafe` | No |
@@ -23620,6 +23622,7 @@ Here's a list of public Fediverse services.
 | `lavallee.tech` | No |
 | `lavanderblue.art` | Yes |
 | `lavatech.top` | Yes |
+| `lavcorps.xyz` | No |
 | `lavenby.site` | Yes |
 | `lavenderfield.xyz` | No |
 | `laverdu.re` | No |
@@ -32721,6 +32724,7 @@ Here's a list of public Fediverse services.
 | `osalliance.com` | No |
 | `osananajimi.love` | No |
 | `osantana.me` | Yes |
+| `osb-alliance.de` | No |
 | `osbar.space` | No |
 | `osbornefamily.rocks` | No |
 | `osc.ac` | Yes |
@@ -42955,7 +42959,7 @@ Here's a list of public Fediverse services.
 | `technowizardry.net` | No |
 | `techonify.uk` | No |
 | `techopolis.io` | No |
-| `techopolis.social` | No |
+| `techopolis.social` | Yes |
 | `techotakugamerz.com` | No |
 | `techpolicy.social` | No |
 | `techporn.club` | Yes |
@@ -44989,6 +44993,7 @@ Here's a list of public Fediverse services.
 | `travisthieman.com` | Yes |
 | `travnewmatic.com` | Yes |
 | `trax.dance` | No |
+| `trax.im` | No |
 | `traxo.net` | Yes |
 | `trayd.xyz` | No |
 | `traydent.info` | No |
@@ -50115,8 +50120,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,108 |
-| Normal | 35,959 |
+| Cloudflare | 14,110 |
+| Normal | 35,962 |
 
 
 </details>
