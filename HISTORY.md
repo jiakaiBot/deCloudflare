@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-10-27: [Cloudflare Page Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vn90n8sr94km)
 - 2023-10-25: [Issues passing Challenge Pages and Turnstile](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0rgkb8cvcssw)
 - 2023-10-24: [Unexpected content-encoding Response Headers](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/sx7nfzdw6c6h)
 - 2023-10-24: [Regional Services Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mc3s2pvcprzv)
