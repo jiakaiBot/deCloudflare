@@ -49,7 +49,7 @@ Here's a list of breached sites.
 | AmartFurniture (Amart Furniture) | 108,940 | Yes |
 | Ancestry | 297,806 | Yes |
 | AndroidForums (Android Forums) | 745,355 | No |
-| AndroidLista | 6,640,643 | No |
+| AndroidLista | 6,640,643 | Yes |
 | AnimalJam (Animal Jam) | 7,104,998 | Yes |
 | AnimeGame | 1,431,378 | No |
 | AnimePlanet (Anime-Planet) | 368,507 | Yes |
@@ -303,7 +303,7 @@ Here's a list of breached sites.
 | Imavex | 878,209 | No |
 | IndiaMART | 20,154,583 | No |
 | IndianRailways (Indian Railways) | 583,377 | No |
-| Insanelyi | 104,097 | Yes |
+| Insanelyi | 104,097 | No |
 | InstantCheckmate (Instant Checkmate) | 11,943,887 | Yes |
 | Intelimost | 3,073,409 | No |
 | Interpals (InterPals) | 3,439,414 | Yes |
@@ -591,6 +591,7 @@ Here's a list of breached sites.
 | Tokopedia | 71,443,698 | Yes |
 | ToonDoo | 6,002,694 | No |
 | TorrentInvites (Torrent Invites) | 352,120 | No |
+| Toumei | 76,682 | No |
 | Tout | 652,683 | No |
 | TravelOK (Travel Oklahoma) | 637,279 | No |
 | Travelio | 471,376 | Yes |
@@ -703,10 +704,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 400 | 4,487,744,115 |
-| Normal | 282 | 4,506,466,553 |
+| Cloudflare | 400 | 4,494,280,661 |
+| Normal | 283 | 4,500,006,689 |
 
 
 
-### 58.7% of breached sites (pwned sites) are using Cloudflare.
-### 49.9% of leaked accounts are on Cloudflare sites.
+### 58.6% of breached sites (pwned sites) are using Cloudflare.
+### 50% of leaked accounts are on Cloudflare sites.
