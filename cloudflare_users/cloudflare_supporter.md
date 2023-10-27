@@ -1165,6 +1165,7 @@ Do not create new issue or we will close it as duplicate.
 | [Asadshahbaz1993@twitter](https://twitter.com/Asadshahbaz1993/status/1380767370411704320) | advertise |
 | [asady_sirws@twitter](https://twitter.com/asady_sirws/status/1713252678321795270) | advertise |
 | [AsakzaiNaser@twitter](https://twitter.com/AsakzaiNaser/status/1386360634414178308) | advertise |
+| [ASAPTenacity@twitter](https://twitter.com/ASAPTenacity/status/1717768341408903477) | advertise |
 | [AsbjrnBach1@twitter](https://twitter.com/AsbjrnBach1/status/1679903980975976448) | advertise |
 | [asdasd37687097@twitter](https://twitter.com/asdasd37687097/status/1577761010768875522) | advertise |
 | [ASD_jp@twitter](https://twitter.com/ASD_jp/status/1576210124296683522) | advertise |
@@ -2702,6 +2703,7 @@ Do not create new issue or we will close it as duplicate.
 | [curtise_goddie@twitter](https://twitter.com/curtise_goddie/status/1532263774316597250) | advertise |
 | [cutur1news@twitter](https://twitter.com/cutur1news/status/1446167201657114628) | advertise |
 | [cuuvihoo3004@twitter](https://twitter.com/cuuvihoo3004/status/1552483021525512192) | advertise |
+| [cuysitoPro@twitter](https://twitter.com/cuysitoPro/status/1717758910214353401) | advertise |
 | [Cvd882@twitter](https://twitter.com/Cvd882/status/1383582186859753481) | advertise |
 | [cvdat2399@twitter](https://twitter.com/cvdat2399/status/1566906216231473153) | advertise |
 | [Cwebezela11@twitter](https://twitter.com/Cwebezela11/status/1709990128834519525) | advertise |
