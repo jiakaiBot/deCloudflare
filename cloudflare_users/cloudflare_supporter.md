@@ -12365,6 +12365,7 @@ Do not create new issue or we will close it as duplicate.
 | [suraj_choube@twitter](https://twitter.com/suraj_choube/status/1487436176567193602) | advertise |
 | [Surakiatkapol@twitter](https://twitter.com/Surakiatkapol/status/1552172298567708672) | advertise |
 | [surasithm00@twitter](https://twitter.com/surasithm00/status/1707475705209188410) | advertise |
+| [suratiwan03@twitter](https://twitter.com/suratiwan03/status/1717780463790813584) | advertise |
 | [surbroadcast@twitter](https://twitter.com/surbroadcast/status/1477792731636371464) | advertise |
 | [SureshS91254456@twitter](https://twitter.com/SureshS91254456/status/1694244309888115059) | advertise |
 | [Surfacings_Net@twitter](https://twitter.com/Surfacings_Net/status/1709645557914812752) | advertise |
