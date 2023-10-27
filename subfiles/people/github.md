@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Waiting Room Issues](https://github.com/SecOpsNews/news/issues/20562)
 - [CAPTCHA frame not embeddable on 3rd-party website](https://github.com/4chan/4chan-API/issues/100)
 - [Broken Page: not working](https://github.com/htr-tech/zphisher/issues/803)
 - [zerossl 配合 cf 申请证书失败](https://github.com/SagerNet/sing-box/issues/1012)
