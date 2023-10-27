@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Update the stored expiration date value anytime it's received](https://github.com/cisagov/getgov/issues/1218)
 - [Fatal Error when installing WP Rocket through Packagist](https://github.com/wp-media/wp-rocket/issues/6254)
 - [readme/mirrors: some listed mirrors are not working](https://github.com/TeamPiped/Piped/issues/3077)
 - [Unable to bypass Cloudflare protection](https://github.com/DarkCat09/python-aternos/issues/100)
