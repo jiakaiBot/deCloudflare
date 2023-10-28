@@ -19842,6 +19842,7 @@ Here's a list of public Fediverse services.
 | `instinctd.com` | No |
 | `instituteofcorrection.org.uk` | No |
 | `instrumentalverein-tueddern.de` | No |
+| `insufferable.tools` | No |
 | `insurrection.tech` | Yes |
 | `int21.dev` | No |
 | `int21h.eu` | No |
@@ -50160,7 +50161,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,119 |
-| Normal | 35,992 |
+| Normal | 35,993 |
 
 
 </details>
