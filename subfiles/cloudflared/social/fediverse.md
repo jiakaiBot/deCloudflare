@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,865 |
+| com | 7,866 |
 | social | 4,646 |
-| net | 3,906 |
+| net | 3,907 |
 | org | 2,616 |
 | de | 2,454 |
 
@@ -7272,6 +7272,7 @@ Here's a list of public Fediverse services.
 | `choosingjoy.us` | No |
 | `choqok.ir` | No |
 | `chor-blog.de` | No |
+| `chordian.net` | No |
 | `chordtoll.com` | Yes |
 | `chordwiki.org` | Yes |
 | `choro-s.net` | No |
@@ -38299,6 +38300,7 @@ Here's a list of public Fediverse services.
 | `sarahlizzy.org` | No |
 | `sarahvhines.com` | No |
 | `saramara.ai` | Yes |
+| `saranadosfiction.com` | No |
 | `sarasoueidan.dev` | No |
 | `saratov.ch` | No |
 | `sarber.plus` | Yes |
@@ -50158,7 +50160,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,119 |
-| Normal | 35,990 |
+| Normal | 35,992 |
 
 
 </details>
