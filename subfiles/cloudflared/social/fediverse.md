@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,645 |
 | net | 3,905 |
 | org | 2,616 |
-| de | 2,452 |
+| de | 2,453 |
 
 
 - Mastodon, Pleroma, etc
@@ -40983,6 +40983,7 @@ Here's a list of public Fediverse services.
 | `spica.bz` | Yes |
 | `spice-community.online` | No |
 | `spicyshoggoth.cloud` | No |
+| `spicysources.de` | No |
 | `spicyweb.dev` | Yes |
 | `spider.gay` | No |
 | `spider.ink` | No |
@@ -41771,6 +41772,7 @@ Here's a list of public Fediverse services.
 | `stuartm.nz` | No |
 | `stuartoram.com` | No |
 | `stuartpb.com` | Yes |
+| `stuck.to` | Yes |
 | `student-factory.de` | No |
 | `studentchristianmovement.social` | No |
 | `studentmain.com` | No |
@@ -50142,8 +50144,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,114 |
-| Normal | 35,980 |
+| Cloudflare | 14,115 |
+| Normal | 35,981 |
 
 
 </details>
