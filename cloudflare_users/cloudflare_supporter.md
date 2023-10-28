@@ -3587,6 +3587,7 @@ Do not create new issue or we will close it as duplicate.
 | [ember_host@twitter](https://twitter.com/ember_host/status/1695889373785698494) | advertise |
 | [EMChat_cloud@twitter](https://twitter.com/EMChat_cloud/status/1530900726561521666) | advertise |
 | [emdi_3@twitter](https://twitter.com/emdi_3/status/1571153701213184001) | advertise |
+| [emicronacion@twitter](https://twitter.com/emicronacion/status/1718130917846229022) | advertise |
 | [emile_elliye@twitter](https://twitter.com/emile_elliye/status/1647860272143429634) | advertise |
 | [Emilian95935552@twitter](https://twitter.com/Emilian95935552/status/1625479540230201344) | advertise |
 | [Emily326696461@twitter](https://twitter.com/Emily326696461/status/1389534601618460673) | advertise |
