@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,866 |
 | social | 4,646 |
-| net | 3,907 |
-| org | 2,616 |
-| de | 2,454 |
+| net | 3,908 |
+| org | 2,617 |
+| de | 2,455 |
 
 
 - Mastodon, Pleroma, etc
@@ -24029,6 +24029,7 @@ Here's a list of public Fediverse services.
 | `leno3s.net` | Yes |
 | `lenote.eu` | No |
 | `lenuxde.net` | No |
+| `lenz-host.de` | Yes |
 | `lenzg.net` | No |
 | `lenzn.net` | No |
 | `leo-skull.de` | Yes |
@@ -32374,6 +32375,7 @@ Here's a list of public Fediverse services.
 | `onlyroleplayth.com` | No |
 | `onlysomestories.com` | No |
 | `onmasto.com` | No |
+| `onmypc.net` | No |
 | `onnojam.es` | No |
 | `onore.org` | No |
 | `onosamo.tech` | No |
@@ -46510,6 +46512,7 @@ Here's a list of public Fediverse services.
 | `valinor.fr` | No |
 | `valinor.pw` | No |
 | `valinor.social` | No |
+| `valken.org` | No |
 | `valko.dev` | No |
 | `valkyrie.world` | No |
 | `valkyriecoms.com` | Yes |
@@ -50160,8 +50163,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,119 |
-| Normal | 35,993 |
+| Cloudflare | 14,120 |
+| Normal | 35,995 |
 
 
 </details>
