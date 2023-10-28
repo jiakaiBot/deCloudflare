@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,859 |
+| com | 7,861 |
 | social | 4,645 |
 | net | 3,905 |
 | org | 2,616 |
@@ -16877,6 +16877,7 @@ Here's a list of public Fediverse services.
 | `granto.cloud` | Yes |
 | `grants.cafe` | Yes |
 | `granularperspective.com` | Yes |
+| `granvalenti.art` | No |
 | `grap.coop` | No |
 | `graphe.me` | Yes |
 | `grapheneos.social` | No |
@@ -41427,6 +41428,7 @@ Here's a list of public Fediverse services.
 | `stefankoopmanschap.nl` | Yes |
 | `stefano-probst.dev` | Yes |
 | `stefanomarinelli.it` | No |
+| `stefanoprenna.com` | Yes |
 | `stefanovski.io` | Yes |
 | `stefanpfeiffer.blog` | Yes |
 | `stefanplank.art` | No |
@@ -49125,6 +49127,7 @@ Here's a list of public Fediverse services.
 | `yakker.app` | Yes |
 | `yakovlev.me` | No |
 | `yakshed.org` | Yes |
+| `yakudo-kan.com` | No |
 | `yakult.style` | No |
 | `yakumo.foundation` | Yes |
 | `yakumo.moe` | Yes |
@@ -50139,8 +50142,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,113 |
-| Normal | 35,978 |
+| Cloudflare | 14,114 |
+| Normal | 35,980 |
 
 
 </details>
