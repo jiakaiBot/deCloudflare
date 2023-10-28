@@ -1885,7 +1885,7 @@ Here's a list of public Fediverse services.
 | `alphakilo.eu` | Yes |
 | `alphapi.me` | No |
 | `alpharius.io` | No |
-| `alphasoft.org` | No |
+| `alphasoft.org` | Yes |
 | `alphasupport.xyz` | Yes |
 | `alphathiel.de` | No |
 | `alphaville.club` | No |
@@ -34988,6 +34988,7 @@ Here's a list of public Fediverse services.
 | `powerlineblog.com` | Yes |
 | `powerlot.net` | No |
 | `powersrv.de` | No |
+| `poweruser.forum` | No |
 | `powerweb.io` | No |
 | `poya.icu` | No |
 | `poyo.me` | No |
@@ -50136,7 +50137,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,110 |
+| Cloudflare | 14,111 |
 | Normal | 35,978 |
 
 
