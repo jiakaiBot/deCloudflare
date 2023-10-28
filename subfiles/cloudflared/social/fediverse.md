@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,859 |
-| social | 4,644 |
+| social | 4,645 |
 | net | 3,905 |
 | org | 2,616 |
 | de | 2,452 |
@@ -8031,7 +8031,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -16460,6 +16460,7 @@ Here's a list of public Fediverse services.
 | `globalmaritimehistory.com` | No |
 | `globalpirates.net` | No |
 | `globalrevolution.tv` | No |
+| `globalskywatch.social` | No |
 | `globaltech-hub.com` | No |
 | `globalwarming.fun` | No |
 | `globe.pub` | No |
@@ -17327,7 +17328,7 @@ Here's a list of public Fediverse services.
 | `habets.house` | Yes |
 | `habewind.de` | No |
 | `habitattt.it` | No |
-| `hablo.cc` | Yes |
+| `hablo.cc` | No |
 | `hacc.media` | No |
 | `hacdias.com` | Yes |
 | `hach.re` | Yes |
@@ -50135,8 +50136,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,112 |
-| Normal | 35,975 |
+| Cloudflare | 14,110 |
+| Normal | 35,978 |
 
 
 </details>
