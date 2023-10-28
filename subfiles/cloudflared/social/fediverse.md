@@ -4936,6 +4936,7 @@ Here's a list of public Fediverse services.
 | `blackeco.com` | No |
 | `blackevil.net` | No |
 | `blackface.info` | No |
+| `blackfamily.one` | No |
 | `blackfireworkz.tech` | Yes |
 | `blackflags.io` | No |
 | `blackgnu.net` | No |
@@ -8031,7 +8032,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -39713,6 +39714,7 @@ Here's a list of public Fediverse services.
 | `silveranubis.com` | No |
 | `silverark.social` | No |
 | `silvercommunity.org` | No |
+| `silvereagle.dev` | Yes |
 | `silverfishdevelopment.com` | Yes |
 | `silverhaze.eu` | No |
 | `silverheart.social` | No |
@@ -50137,7 +50139,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,111 |
+| Cloudflare | 14,113 |
 | Normal | 35,978 |
 
 
