@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,861 |
-| social | 4,645 |
+| social | 4,646 |
 | net | 3,905 |
 | org | 2,616 |
 | de | 2,453 |
@@ -19651,6 +19651,7 @@ Here's a list of public Fediverse services.
 | `infernal.garden` | No |
 | `infernalerror.com` | Yes |
 | `infinimatix.net` | Yes |
+| `infinit7even.it` | Yes |
 | `infinite.jetzt` | No |
 | `infinite.pink` | No |
 | `infinitedisk.com` | No |
@@ -20495,6 +20496,7 @@ Here's a list of public Fediverse services.
 | `jamesatjaminit.dev` | Yes |
 | `jamesburgos.com` | No |
 | `jamescousins.com` | No |
+| `jamescroft.website` | No |
 | `jamesekstrom.com` | No |
 | `jamesg.blog` | Yes |
 | `jamesgallagher.photos` | No |
@@ -20507,6 +20509,7 @@ Here's a list of public Fediverse services.
 | `jamesmwright.com` | Yes |
 | `jamesoff.net` | No |
 | `jamesp.org` | No |
+| `jamesravey.me` | Yes |
 | `jamestechnotes.com` | No |
 | `jamestrey.com` | Yes |
 | `jamesvasile.com` | No |
@@ -25786,7 +25789,7 @@ Here's a list of public Fediverse services.
 | `mallettedavid.com` | Yes |
 | `mallio.se` | No |
 | `mallorn.de` | No |
-| `malmas.org` | No |
+| `malmas.org` | Yes |
 | `malmo.chat` | No |
 | `malmo.social` | No |
 | `malmorrow.com` | No |
@@ -42668,6 +42671,7 @@ Here's a list of public Fediverse services.
 | `tanner.news` | No |
 | `tannernews.com` | No |
 | `tanngrisnir.xyz` | No |
+| `tannu.cyou` | No |
 | `tanooki.club` | No |
 | `tanoshii.site` | Yes |
 | `tansuo.plus` | Yes |
@@ -46695,6 +46699,7 @@ Here's a list of public Fediverse services.
 | `venturom.social` | No |
 | `venue.de` | No |
 | `venzano.fr` | No |
+| `veoh.social` | No |
 | `vepta.org` | Yes |
 | `ver.news` | No |
 | `vera.pink` | Yes |
@@ -50144,8 +50149,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,115 |
-| Normal | 35,981 |
+| Cloudflare | 14,118 |
+| Normal | 35,983 |
 
 
 </details>
