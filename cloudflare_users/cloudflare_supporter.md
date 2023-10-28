@@ -157,6 +157,7 @@ Do not create new issue or we will close it as duplicate.
 | [80x5_jonathan@twitter](https://twitter.com/80x5_jonathan/status/1563428306694729731) | advertise |
 | [82G3eUUY0BFpiFP@twitter](https://twitter.com/82G3eUUY0BFpiFP/status/1393161725579382784) | advertise |
 | [82Thar@twitter](https://twitter.com/82Thar/status/1386958515932106754) | advertise |
+| [86tpkgwcznIgede@twitter](https://twitter.com/86tpkgwcznIgede/status/1718271406956585047) | advertise |
 | [88Uoo@twitter](https://twitter.com/88Uoo/status/1392485386979463170) | advertise |
 | [94Shein@twitter](https://twitter.com/94Shein/status/1386880285396979713) | advertise |
 | [96Phoiek@twitter](https://twitter.com/96Phoiek/status/1556293739697815552) | advertise |
