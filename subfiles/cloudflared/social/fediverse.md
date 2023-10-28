@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,861 |
+| com | 7,865 |
 | social | 4,646 |
-| net | 3,905 |
+| net | 3,906 |
 | org | 2,616 |
 | de | 2,453 |
 
@@ -4571,6 +4571,7 @@ Here's a list of public Fediverse services.
 | `bibliotheksbubble.de` | No |
 | `biblioverse.online` | No |
 | `bibly.com` | No |
+| `bibo-de-blogger.com` | No |
 | `biborg.com` | No |
 | `biboumail.fr` | No |
 | `bicatperson.com` | Yes |
@@ -7020,6 +7021,7 @@ Here's a list of public Fediverse services.
 | `chasalin.nl` | No |
 | `chaselau.me` | No |
 | `chasem.dev` | Yes |
+| `chasingart.com` | No |
 | `chasingdings.com` | No |
 | `chasingrabbbits.xyz` | No |
 | `chaskey.net` | Yes |
@@ -12899,6 +12901,7 @@ Here's a list of public Fediverse services.
 | `eunach.scot` | No |
 | `eunivers.social` | No |
 | `euonymus.xyz` | Yes |
+| `euphorian.net` | Yes |
 | `eupolicy.social` | No |
 | `eupublic.social` | No |
 | `eur.social` | No |
@@ -23382,6 +23385,7 @@ Here's a list of public Fediverse services.
 | `ladn.org` | No |
 | `ladon-dragon.net` | Yes |
 | `ladragonera.com` | No |
+| `ladybudd.com` | No |
 | `laecuaciondigital.social` | No |
 | `laenredadera.org` | No |
 | `laeran.pl` | Yes |
@@ -36524,6 +36528,7 @@ Here's a list of public Fediverse services.
 | `rebased.network` | Yes |
 | `rebased.social` | Yes |
 | `rebble.net` | No |
+| `rebeccasreadingroom.ca` | No |
 | `rebekahcanada.com` | No |
 | `rebel-lion.uk` | No |
 | `rebel.ar` | Yes |
@@ -42193,6 +42198,7 @@ Here's a list of public Fediverse services.
 | `swecyb.com` | No |
 | `swedishmastodon.social` | Yes |
 | `swedneck.xyz` | Yes |
+| `sweetactionpoetry.com` | No |
 | `sweetamelia.space` | No |
 | `sweetappleacr.es` | No |
 | `sweetcliche.com` | Yes |
@@ -43632,6 +43638,7 @@ Here's a list of public Fediverse services.
 | `thelastelemental.art` | No |
 | `thelballwiki.gq` | No |
 | `thele.me` | Yes |
+| `theledger.fyi` | Yes |
 | `thelema.social` | No |
 | `thelemmy.club` | Yes |
 | `theliberatededge.org` | No |
@@ -50149,8 +50156,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,118 |
-| Normal | 35,983 |
+| Cloudflare | 14,120 |
+| Normal | 35,988 |
 
 
 </details>
