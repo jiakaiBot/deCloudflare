@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Prisma to Drizzle Migration Complete! 🎉 Our Journey and Lessons Learned](https://github.com/drizzle-team/drizzle-orm/issues/1434)
+- [Unable to join public rooms](https://github.com/matrix-org/dendrite/issues/3248)
 - [Can't complete SOCKS5 connection](https://github.com/cmj2002/warp-docker/issues/7)
 - [Existing Redis Keys Removed Upon Adding New Server's Redis Keys](https://github.com/jittering/traefik-kop/issues/28)
 - [Toonily (EN)- pages doesn't load](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/18769)
