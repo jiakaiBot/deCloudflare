@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't complete SOCKS5 connection](https://github.com/cmj2002/warp-docker/issues/7)
 - [Existing Redis Keys Removed Upon Adding New Server's Redis Keys](https://github.com/jittering/traefik-kop/issues/28)
 - [Toonily (EN)- pages doesn't load](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/18769)
 - [Toonily Download and viewing of chapters posted in the last 24 hours is broken (10/27/2023)](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/18760)
