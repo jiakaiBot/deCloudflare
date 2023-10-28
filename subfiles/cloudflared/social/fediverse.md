@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,646 |
 | net | 3,906 |
 | org | 2,616 |
-| de | 2,453 |
+| de | 2,454 |
 
 
 - Mastodon, Pleroma, etc
@@ -21512,6 +21512,7 @@ Here's a list of public Fediverse services.
 | `jyln.dev` | No |
 | `jymuoyu.com` | Yes |
 | `jynxd.it` | Yes |
+| `jyrgi.de` | No |
 | `jzbr.uk` | No |
 | `jzf.ski` | No |
 | `jzp.se` | No |
@@ -29828,7 +29829,7 @@ Here's a list of public Fediverse services.
 | `naiw.jp` | No |
 | `nakadashi.life` | No |
 | `nakadashi.mobi` | No |
-| `nakadashi.rocks` | Yes |
+| `nakadashi.rocks` | No |
 | `nakamoto.social` | Yes |
 | `nakano-suginami.click` | Yes |
 | `nakanod.net` | No |
@@ -50156,8 +50157,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,120 |
-| Normal | 35,988 |
+| Cloudflare | 14,119 |
+| Normal | 35,990 |
 
 
 </details>
