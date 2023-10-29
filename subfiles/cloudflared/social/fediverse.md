@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,866 |
-| social | 4,646 |
+| social | 4,647 |
 | net | 3,908 |
 | org | 2,617 |
 | de | 2,455 |
@@ -6575,6 +6575,7 @@ Here's a list of public Fediverse services.
 | `caspar.social` | No |
 | `caspodon.club` | No |
 | `casraf.dev` | No |
+| `cass-dlcm.dev` | No |
 | `cassano.com.br` | No |
 | `cassee.net` | No |
 | `cassette.click` | No |
@@ -8035,7 +8036,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -14375,6 +14376,7 @@ Here's a list of public Fediverse services.
 | `flightschoolbooking.com` | No |
 | `flim.ml` | No |
 | `flimpie.net` | No |
+| `flinta.social` | No |
 | `flintfam.org` | No |
 | `flip-mainz.de` | No |
 | `flipboard.com` | Yes |
@@ -20869,7 +20871,7 @@ Here's a list of public Fediverse services.
 | `jfmblinux.fr` | No |
 | `jfootball.co` | No |
 | `jforo.com` | No |
-| `jforseth.tech` | No |
+| `jforseth.tech` | Yes |
 | `jg1000.fr` | No |
 | `jgachelin.fr` | No |
 | `jgantts.com` | No |
@@ -31749,7 +31751,7 @@ Here's a list of public Fediverse services.
 | `nya.show` | Yes |
 | `nya.social` | No |
 | `nyaa.app` | Yes |
-| `nyaa.io` | Yes |
+| `nyaa.io` | No |
 | `nyaa.social` | No |
 | `nyaa.tech` | Yes |
 | `nyaaa.net` | No |
@@ -36419,7 +36421,7 @@ Here's a list of public Fediverse services.
 | `rayolson.info` | No |
 | `rayonnant.org` | Yes |
 | `rayslava.com` | No |
-| `raysofhope.love` | Yes |
+| `raysofhope.love` | No |
 | `raytec.co` | No |
 | `rayven.mx` | No |
 | `raza.social` | No |
@@ -50163,8 +50165,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,120 |
-| Normal | 35,995 |
+| Cloudflare | 14,118 |
+| Normal | 35,999 |
 
 
 </details>
