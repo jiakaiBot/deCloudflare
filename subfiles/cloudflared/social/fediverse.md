@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,871 |
+| com | 7,874 |
 | social | 4,648 |
 | net | 3,910 |
 | org | 2,618 |
@@ -1442,6 +1442,7 @@ Here's a list of public Fediverse services.
 | `aidoru.cafe` | No |
 | `aifeel.top` | No |
 | `aigamo-web.net` | No |
+| `aigency.id` | Yes |
 | `aigirl.tv` | No |
 | `aigisdon.net` | No |
 | `aik.social` | No |
@@ -2304,6 +2305,7 @@ Here's a list of public Fediverse services.
 | `angrybeanie.com` | No |
 | `angrybj.com` | No |
 | `angrydome.au` | Yes |
+| `angrymetalguy.com` | Yes |
 | `angryshark.eu` | No |
 | `angrytattooedmonk.org` | No |
 | `angrytoday.com` | No |
@@ -29355,6 +29357,7 @@ Here's a list of public Fediverse services.
 | `murasame.moe` | Yes |
 | `murat.io` | No |
 | `murata.jp.net` | No |
+| `murciavegana.com` | No |
 | `murcier.fr` | No |
 | `murder.town` | No |
 | `murderhobo.club` | No |
@@ -29431,6 +29434,7 @@ Here's a list of public Fediverse services.
 | `mustbeart.com` | No |
 | `mustdomast.com` | No |
 | `mustel.id` | Yes |
+| `mustfollow.blog` | No |
 | `mustlove.net` | No |
 | `mustodon.net` | No |
 | `mustodon.xyz` | No |
@@ -38067,6 +38071,7 @@ Here's a list of public Fediverse services.
 | `saguzi.jp` | No |
 | `sahagyo.com` | Yes |
 | `sahilister.in` | No |
+| `sai-miyahara-jrw207-1035.com` | No |
 | `saibo.world` | No |
 | `saibou.work` | No |
 | `said.social` | No |
@@ -50183,8 +50188,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,125 |
-| Normal | 36,010 |
+| Cloudflare | 14,127 |
+| Normal | 36,013 |
 
 
 </details>
