@@ -477,6 +477,7 @@ Do not create new issue or we will close it as duplicate.
 | [AhKyi11@twitter](https://twitter.com/AhKyi11/status/1404362564495024128) | advertise |
 | [AhLeggo@twitter](https://twitter.com/AhLeggo/status/1387395039219785730) | advertise |
 | [Ahlittbkk@twitter](https://twitter.com/Ahlittbkk/status/1389947803464454149) | advertise |
+| [ahmad83090@twitter](https://twitter.com/ahmad83090/status/1718713578780520928) | advertise |
 | [AhmadBeyranvand@twitter](https://twitter.com/AhmadBeyranvand/status/1387066358500929537) | advertise |
 | [Ahmadking5111@twitter](https://twitter.com/Ahmadking5111/status/1400390503879880705) | advertise |
 | [ahmadm_abubakar@twitter](https://twitter.com/ahmadm_abubakar/status/1539668272060432384) | advertise |
@@ -565,6 +566,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ajmal57300251@twitter](https://twitter.com/Ajmal57300251/status/1643647534999404546) | advertise |
 | [ajsb85@twitter](https://twitter.com/ajsb85/status/1681408537493159966) | advertise |
 | [AKAAD99@twitter](https://twitter.com/AKAAD99/status/1564399506875195392) | advertise |
+| [AKamble89377@twitter](https://twitter.com/AKamble89377/status/1718709113419657720) | advertise |
 | [Akane81517314@twitter](https://twitter.com/Akane81517314/status/1385157407320395776) | advertise |
 | [Akar67545006@twitter](https://twitter.com/Akar67545006/status/1390752582860107778) | advertise |
 | [AkarAka20629391@twitter](https://twitter.com/AkarAka20629391/status/1391852878222987269) | advertise |
@@ -13227,6 +13229,7 @@ Do not create new issue or we will close it as duplicate.
 | [TINZAYYARLIN1@twitter](https://twitter.com/TINZAYYARLIN1/status/1378943503011475461) | advertise |
 | [tin_sci@twitter](https://twitter.com/tin_sci/status/1485901022312923139) | advertise |
 | [Tiotorrent@twitter](https://twitter.com/Tiotorrent/status/1554302374881251328) | advertise |
+| [tippo777@twitter](https://twitter.com/tippo777/status/1718718007609053479) | advertise |
 | [Tipti595@twitter](https://twitter.com/Tipti595/status/1575479897065226240) | advertise |
 | [Tipziz@twitter](https://twitter.com/Tipziz/status/1544379049392410625) | advertise |
 | [Tishane19@twitter](https://twitter.com/Tishane19/status/1645213599713959936) | advertise |
@@ -14065,6 +14068,7 @@ Do not create new issue or we will close it as duplicate.
 | [vovsoft@twitter](https://twitter.com/vovsoft/status/1391116990501298178) | advertise |
 | [Voxelli@twitter](https://twitter.com/Voxelli/status/1671467512188289024) | advertise |
 | [VoxziB@twitter](https://twitter.com/VoxziB/status/1380772820624412673) | advertise |
+| [VPhongVn321@twitter](https://twitter.com/VPhongVn321/status/1718718368948408810) | advertise |
 | [vpnloganmorg@twitter](https://twitter.com/vpnloganmorg/status/1640555323307053056) | advertise |
 | [vpsinghbaghel@twitter](https://twitter.com/vpsinghbaghel/status/1552679945025261568) | advertise |
 | [VQucTriu6@twitter](https://twitter.com/VQucTriu6/status/1594914769257259009) | advertise |
