@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,868 |
+| com | 7,869 |
 | social | 4,647 |
 | net | 3,908 |
-| org | 2,617 |
+| org | 2,618 |
 | de | 2,455 |
 
 
@@ -8037,7 +8037,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -22273,6 +22273,7 @@ Here's a list of public Fediverse services.
 | `kibitz.cloud` | Yes |
 | `kibitz.group` | No |
 | `kibousoft.co.jp` | No |
+| `kibris.be` | No |
 | `kichi2004.jp` | No |
 | `kicik.fr` | No |
 | `kickass.zone` | No |
@@ -30437,6 +30438,7 @@ Here's a list of public Fediverse services.
 | `nethole.us` | No |
 | `netindex.php` | No |
 | `netko.kr` | No |
+| `netlabs.org` | No |
 | `netlagoon.com` | Yes |
 | `netlandish.com` | No |
 | `netlib.re` | No |
@@ -49620,6 +49622,7 @@ Here's a list of public Fediverse services.
 | `yuzulia.work` | Yes |
 | `yuzulia.xyz` | Yes |
 | `yvees.ovh` | No |
+| `yvesdennels.com` | No |
 | `yvr.social` | No |
 | `yvt.jp` | Yes |
 | `ywg.social` | No |
@@ -50171,8 +50174,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,121 |
-| Normal | 36,002 |
+| Cloudflare | 14,122 |
+| Normal | 36,004 |
 
 
 </details>
