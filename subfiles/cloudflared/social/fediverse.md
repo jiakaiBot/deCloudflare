@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,866 |
+| com | 7,867 |
 | social | 4,647 |
 | net | 3,908 |
 | org | 2,617 |
@@ -38827,6 +38827,7 @@ Here's a list of public Fediverse services.
 | `sea-mstdn.social` | Yes |
 | `sea.social` | No |
 | `seabunny.cafe` | Yes |
+| `seacolorswind.com` | No |
 | `seacow.social` | No |
 | `seafish.io` | Yes |
 | `seaflowers.xyz` | No |
@@ -50166,7 +50167,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,118 |
-| Normal | 35,999 |
+| Normal | 36,000 |
 
 
 </details>
