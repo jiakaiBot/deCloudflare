@@ -384,6 +384,7 @@ Here's a list of breached sites.
 | Mathway | 25,692,862 | No |
 | MechoDownload (Mecho Download) | 437,928 | Yes |
 | MeetMindful | 1,422,717 | Yes |
+| MemeChat | 4,348,570 | No |
 | MindJolt (Mindjolt) | 28,364,826 | No |
 | MinecraftPocketEditionForum (Minecraft Pocket Edition Forum) | 16,034 | No |
 | MinecraftWorldMap (Minecraft World Map) | 71,081 | Yes |
@@ -705,9 +706,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 400 | 4,494,280,661 |
-| Normal | 283 | 4,500,006,689 |
+| Normal | 284 | 4,504,355,259 |
 
 
 
-### 58.6% of breached sites (pwned sites) are using Cloudflare.
-### 50% of leaked accounts are on Cloudflare sites.
+### 58.5% of breached sites (pwned sites) are using Cloudflare.
+### 49.9% of leaked accounts are on Cloudflare sites.
