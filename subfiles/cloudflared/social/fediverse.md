@@ -11996,6 +11996,7 @@ Here's a list of public Fediverse services.
 | `eena.me` | No |
 | `eenoog.org` | No |
 | `eenyoe.net` | No |
+| `eepy.cloud` | No |
 | `eepy.moe` | No |
 | `eepy.space` | No |
 | `eepy.zone` | Yes |
@@ -50189,7 +50190,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,127 |
-| Normal | 36,013 |
+| Normal | 36,014 |
 
 
 </details>
