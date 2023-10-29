@@ -9475,7 +9475,7 @@ Here's a list of public Fediverse services.
 | `daniellemarco.nl` | No |
 | `danielmaxson.com` | No |
 | `danielmoch.com` | No |
-| `danielmoretz.com` | No |
+| `danielmoretz.com` | Yes |
 | `danielmrose.com` | Yes |
 | `danielnorton.com` | Yes |
 | `danielsantos.org` | No |
@@ -19576,6 +19576,7 @@ Here's a list of public Fediverse services.
 | `incipientjoy.com` | Yes |
 | `incitter.online` | No |
 | `incitter.vip` | Yes |
+| `inclementaviary.uk` | Yes |
 | `inclunet.com.br` | No |
 | `inclusion.cc` | No |
 | `inclusion.click` | No |
@@ -50189,8 +50190,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,127 |
-| Normal | 36,014 |
+| Cloudflare | 14,129 |
+| Normal | 36,013 |
 
 
 </details>
