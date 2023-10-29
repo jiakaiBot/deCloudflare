@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,870 |
+| com | 7,871 |
 | social | 4,648 |
-| net | 3,908 |
+| net | 3,910 |
 | org | 2,618 |
 | de | 2,455 |
 
@@ -4587,6 +4587,7 @@ Here's a list of public Fediverse services.
 | `bien-etre.social` | Yes |
 | `bien.ee` | No |
 | `biendeo.com` | Yes |
+| `bieoos.nl` | No |
 | `bierochs.org` | No |
 | `bierschutzpartei.de` | No |
 | `bierzilla.fr` | No |
@@ -10003,6 +10004,7 @@ Here's a list of public Fediverse services.
 | `deepzero.net` | No |
 | `deerfieldmartc.com` | No |
 | `deerofnara.net` | Yes |
+| `deezclan.com` | Yes |
 | `deeznutz.gay` | Yes |
 | `def.social` | No |
 | `defake.app` | Yes |
@@ -14390,6 +14392,7 @@ Here's a list of public Fediverse services.
 | `flipvandevoort.com` | Yes |
 | `flirtingwithnihilism.com` | No |
 | `flisol.com.br` | No |
+| `flitpix.net` | No |
 | `flittermice.club` | Yes |
 | `flm9.me` | No |
 | `flns.fr` | No |
@@ -35066,6 +35069,7 @@ Here's a list of public Fediverse services.
 | `praxis.red` | Yes |
 | `praxis.su` | Yes |
 | `prayerforwords.com` | No |
+| `praze.net` | No |
 | `prazeworks.uk` | No |
 | `prb1.es` | No |
 | `prdg.be` | No |
@@ -50179,8 +50183,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,123 |
-| Normal | 36,008 |
+| Cloudflare | 14,124 |
+| Normal | 36,011 |
 
 
 </details>
