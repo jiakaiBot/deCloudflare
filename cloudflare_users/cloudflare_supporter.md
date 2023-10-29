@@ -11200,6 +11200,7 @@ Do not create new issue or we will close it as duplicate.
 | [Roman01020304@twitter](https://twitter.com/Roman01020304/status/1580252399490707458) | advertise |
 | [romancoper@twitter](https://twitter.com/romancoper/status/1500700242341203968) | advertise |
 | [romanrau113@twitter](https://twitter.com/romanrau113/status/1556831704698220544) | advertise |
+| [RomanSharifi8@twitter](https://twitter.com/RomanSharifi8/status/1718735352595366307) | advertise |
 | [RoMeo29584493@twitter](https://twitter.com/RoMeo29584493/status/1392289318262116352) | advertise |
 | [romeospidey@twitter](https://twitter.com/romeospidey/status/1467674513194299394) | advertise |
 | [RomilBenoit@twitter](https://twitter.com/RomilBenoit/status/1511432118722875398) | advertise |
@@ -12038,6 +12039,7 @@ Do not create new issue or we will close it as duplicate.
 | [SlyTheFloof@twitter](https://twitter.com/SlyTheFloof/status/1498004182393106435) | advertise |
 | [Sm0rezDev@twitter](https://twitter.com/Sm0rezDev/status/1404781284120043522) | advertise |
 | [Sm8Ue@twitter](https://twitter.com/Sm8Ue/status/1568162721962823680) | advertise |
+| [Smallro14251503@twitter](https://twitter.com/Smallro14251503/status/1718723615632564308) | advertise |
 | [SMang2121@twitter](https://twitter.com/SMang2121/status/1391809592707870723) | advertise |
 | [smasato_pi@twitter](https://twitter.com/smasato_pi/status/1485080835061858308) | advertise |
 | [SMC67254820@twitter](https://twitter.com/SMC67254820/status/1376951172607578120) | advertise |
@@ -13733,6 +13735,7 @@ Do not create new issue or we will close it as duplicate.
 | [U2ub1@twitter](https://twitter.com/U2ub1/status/1534519357597958145) | advertise |
 | [u3FTE3PbLVg3trL@twitter](https://twitter.com/u3FTE3PbLVg3trL/status/1377926972689551360) | advertise |
 | [uadd_me@twitter](https://twitter.com/uadd_me/status/1669840758960955392) | advertise |
+| [UArby85308@twitter](https://twitter.com/UArby85308/status/1718730952036466948) | advertise |
 | [UAS_mustbe@twitter](https://twitter.com/UAS_mustbe/status/1563593798793703425) | advertise |
 | [UAungKoLinn3@twitter](https://twitter.com/UAungKoLinn3/status/1390641230938214403) | advertise |
 | [UAZY_mm@twitter](https://twitter.com/UAZY_mm/status/1377727680984969217) | advertise |
