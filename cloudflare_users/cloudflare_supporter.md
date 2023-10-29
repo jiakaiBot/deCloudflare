@@ -7834,6 +7834,7 @@ Do not create new issue or we will close it as duplicate.
 | [march07059527@twitter](https://twitter.com/march07059527/status/1647619102356434945) | advertise |
 | [March27697098@twitter](https://twitter.com/March27697098/status/1391789798432546821) | advertise |
 | [MarchellWillan@twitter](https://twitter.com/MarchellWillan/status/1397553026970259460) | advertise |
+| [marcherdina@twitter](https://twitter.com/marcherdina/status/1718645430777413890) | advertise |
 | [marchputt@twitter](https://twitter.com/marchputt/status/1486598280989478912) | advertise |
 | [MarcLachapelle@twitter](https://twitter.com/MarcLachapelle/status/1551968759983882240) | advertise |
 | [Marco92473532@twitter](https://twitter.com/Marco92473532/status/1391839996466712578) | advertise |
