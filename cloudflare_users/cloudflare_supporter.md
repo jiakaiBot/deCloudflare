@@ -3530,6 +3530,7 @@ Do not create new issue or we will close it as duplicate.
 | [eithinzarhtet@twitter](https://twitter.com/eithinzarhtet/status/1490473313373913089) | advertise |
 | [EiThinzarNwe1@twitter](https://twitter.com/EiThinzarNwe1/status/1391962177448329221) | advertise |
 | [EiThinzarPyae1@twitter](https://twitter.com/EiThinzarPyae1/status/1389877110940917761) | advertise |
+| [eitoegoi@twitter](https://twitter.com/eitoegoi/status/1718538422858739881) | advertise |
 | [eivissaprime@twitter](https://twitter.com/eivissaprime/status/1565910896924250114) | advertise |
 | [ejw516@twitter](https://twitter.com/ejw516/status/1592666719004557312) | advertise |
 | [ekafjr2802@twitter](https://twitter.com/ekafjr2802/status/1579097844115390464) | advertise |
