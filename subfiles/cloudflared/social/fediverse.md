@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,867 |
+| com | 7,868 |
 | social | 4,647 |
 | net | 3,908 |
 | org | 2,617 |
@@ -2989,6 +2989,7 @@ Here's a list of public Fediverse services.
 | `artverse.place` | Yes |
 | `artwells.com` | No |
 | `artworld.social` | No |
+| `arty.contact` | Yes |
 | `arty.place` | Yes |
 | `arugula.social` | No |
 | `aruk.as` | No |
@@ -14375,6 +14376,7 @@ Here's a list of public Fediverse services.
 | `flightclub.social` | No |
 | `flightschoolbooking.com` | No |
 | `flim.ml` | No |
+| `flimp.ie` | No |
 | `flimpie.net` | No |
 | `flinta.social` | No |
 | `flintfam.org` | No |
@@ -23559,6 +23561,7 @@ Here's a list of public Fediverse services.
 | `lardbucket.org` | No |
 | `lare.cc` | Yes |
 | `large.social` | No |
+| `larilohikoski.fi` | No |
 | `larkspur.one` | No |
 | `larlet.fr` | No |
 | `larmefamily.com` | No |
@@ -25868,7 +25871,7 @@ Here's a list of public Fediverse services.
 | `mandelbrotsetapp.com` | No |
 | `mander.xyz` | No |
 | `mandil.es` | No |
-| `mandis.dev` | No |
+| `mandis.dev` | Yes |
 | `mandodon.com` | No |
 | `mandps.net` | No |
 | `mandra.us` | Yes |
@@ -30720,6 +30723,7 @@ Here's a list of public Fediverse services.
 | `nickredmark.com` | No |
 | `nickscloud.social` | No |
 | `nicksellen.co.uk` | No |
+| `nicksimson.com` | No |
 | `nickslaney.net` | No |
 | `nickuntitled.com` | Yes |
 | `nickw.io` | Yes |
@@ -50166,8 +50170,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,118 |
-| Normal | 36,000 |
+| Cloudflare | 14,120 |
+| Normal | 36,002 |
 
 
 </details>
