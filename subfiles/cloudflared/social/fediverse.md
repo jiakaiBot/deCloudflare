@@ -35413,6 +35413,7 @@ Here's a list of public Fediverse services.
 | `ptmsoft.fr` | No |
 | `ptolemaios.fr` | No |
 | `ptr.fm` | Yes |
+| `ptr.is` | Yes |
 | `ptrl.ws` | Yes |
 | `pttmpl.de` | No |
 | `ptwg.xyz` | No |
@@ -39993,6 +39994,7 @@ Here's a list of public Fediverse services.
 | `skohub.io` | No |
 | `skoji.jp` | No |
 | `skoo.bz` | No |
+| `skookum.cc` | No |
 | `skookumblog.com` | No |
 | `skoop.hu` | No |
 | `skoops.social` | No |
@@ -50174,8 +50176,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,122 |
-| Normal | 36,004 |
+| Cloudflare | 14,123 |
+| Normal | 36,005 |
 
 
 </details>
