@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,648 |
 | net | 3,910 |
 | org | 2,618 |
-| de | 2,455 |
+| de | 2,454 |
 
 
 - Mastodon, Pleroma, etc
@@ -4374,7 +4374,7 @@ Here's a list of public Fediverse services.
 | `bennybenny.uk` | Yes |
 | `bennyp.org` | No |
 | `bennypowers.dev` | No |
-| `bennytek.net` | No |
+| `bennytek.net` | Yes |
 | `benoit-alessandroni.fr` | No |
 | `benpettis.ninja` | No |
 | `benpro.fr` | Yes |
@@ -6511,6 +6511,7 @@ Here's a list of public Fediverse services.
 | `carl.fish` | No |
 | `carlesbellver.net` | No |
 | `carleton.social` | Yes |
+| `carlheath.se` | No |
 | `carlnimbus.com` | No |
 | `carlosjackson.me` | Yes |
 | `carlosjax.com` | Yes |
@@ -21372,7 +21373,6 @@ Here's a list of public Fediverse services.
 | `juche.town` | No |
 | `judahbrown.dev` | Yes |
 | `judaism.social` | No |
-| `juderjahn.de` | No |
 | `judesign.vision` | No |
 | `judge.sh` | Yes |
 | `judges119.me` | No |
@@ -50183,8 +50183,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,124 |
-| Normal | 36,011 |
+| Cloudflare | 14,125 |
+| Normal | 36,010 |
 
 
 </details>
