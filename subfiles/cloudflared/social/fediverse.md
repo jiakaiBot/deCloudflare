@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,874 |
+| com | 7,875 |
 | social | 4,648 |
 | net | 3,910 |
 | org | 2,618 |
-| de | 2,454 |
+| de | 2,455 |
 
 
 - Mastodon, Pleroma, etc
@@ -7195,6 +7195,7 @@ Here's a list of public Fediverse services.
 | `chillout.chat` | Yes |
 | `chillout.day` | Yes |
 | `chillpeep.zone` | Yes |
+| `chillr.de` | No |
 | `chilly.cloud` | No |
 | `chillysquid.com` | No |
 | `chilos.jp` | No |
@@ -14359,7 +14360,7 @@ Here's a list of public Fediverse services.
 | `flavoursofopen.science` | No |
 | `flawbee.net` | Yes |
 | `flaximus.net` | Yes |
-| `flay.gay` | No |
+| `flay.gay` | Yes |
 | `fle.st` | Yes |
 | `fle.studio` | Yes |
 | `flear.org` | No |
@@ -38897,6 +38898,7 @@ Here's a list of public Fediverse services.
 | `sebastianbachmann.de` | No |
 | `sebastiangreger.net` | No |
 | `sebastianlasse.de` | No |
+| `sebastianlohmann.com` | No |
 | `sebastianmoitzheim.de` | No |
 | `sebastiantinschert.de` | No |
 | `sebastianwoehrl.name` | No |
@@ -50190,8 +50192,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,129 |
-| Normal | 36,013 |
+| Cloudflare | 14,130 |
+| Normal | 36,014 |
 
 
 </details>
