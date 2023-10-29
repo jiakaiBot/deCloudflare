@@ -4619,6 +4619,7 @@ Do not create new issue or we will close it as duplicate.
 | [hellodk01@twitter](https://twitter.com/hellodk01/status/1434560473626730498) | advertise |
 | [hellopixely@twitter](https://twitter.com/hellopixely/status/1504938369469624323) | advertise |
 | [hello_pleizz@twitter](https://twitter.com/hello_pleizz/status/1626177308469121025) | advertise |
+| [helogai80@twitter](https://twitter.com/helogai80/status/1718678219136905655) | advertise |
 | [helpguidenow@twitter](https://twitter.com/helpguidenow/status/1698125369319030893) | advertise |
 | [helu_sky@twitter](https://twitter.com/helu_sky/status/1461265952608194566) | advertise |
 | [HEMANTH74907800@twitter](https://twitter.com/HEMANTH74907800/status/1393162174189604870) | advertise |
@@ -14825,6 +14826,7 @@ Do not create new issue or we will close it as duplicate.
 | [yzusuke01664@twitter](https://twitter.com/yzusuke01664/status/1603427989747662855) | advertise |
 | [y_co7y@twitter](https://twitter.com/y_co7y/status/1391089180868976640) | advertise |
 | [z8r0ymVlRXirPXC@twitter](https://twitter.com/z8r0ymVlRXirPXC/status/1480804476357201923) | advertise |
+| [z2988ymyrh@twitter](https://twitter.com/z2988ymyrh/status/1718694263867969658) | advertise |
 | [Z45867388@twitter](https://twitter.com/Z45867388/status/1396787476799254531) | advertise |
 | [Zaai04641477@twitter](https://twitter.com/Zaai04641477/status/1381456266011287552) | advertise |
 | [ZaathangRuth@twitter](https://twitter.com/ZaathangRuth/status/1392121285107326976) | advertise |
