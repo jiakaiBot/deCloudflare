@@ -40865,6 +40865,7 @@ Here's a list of public Fediverse services.
 | `sp-codes.de` | No |
 | `sp00neysplace.co.uk` | No |
 | `sp4ke.com` | No |
+| `sp8key.monster` | Yes |
 | `space-pirates.org` | No |
 | `spaceandtim.es` | No |
 | `spacebar.ca` | Yes |
@@ -50170,7 +50171,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,120 |
+| Cloudflare | 14,121 |
 | Normal | 36,002 |
 
 
