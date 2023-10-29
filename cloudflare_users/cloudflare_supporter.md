@@ -76,6 +76,7 @@ Do not create new issue or we will close it as duplicate.
 | [2b_an_angel@twitter](https://twitter.com/2b_an_angel/status/1598726056072155145) | advertise |
 | [2DOkAuz5FGdyO5u@twitter](https://twitter.com/2DOkAuz5FGdyO5u/status/1390639905290792967) | advertise |
 | [2EZ4TVA_TVA@twitter](https://twitter.com/2EZ4TVA_TVA/status/1580470328454938625) | advertise |
+| [2feet9sq@twitter](https://twitter.com/2feet9sq/status/1718522817757766093) | advertise |
 | [2gether_prem@twitter](https://twitter.com/2gether_prem/status/1685778668185145344) | advertise |
 | [2k3Aesthetics@twitter](https://twitter.com/2k3Aesthetics/status/1391304277319053327) | advertise |
 | [2kblvck@twitter](https://twitter.com/2kblvck/status/1633862315899514881) | advertise |
@@ -9047,6 +9048,7 @@ Do not create new issue or we will close it as duplicate.
 | [NanKhinOo14@twitter](https://twitter.com/NanKhinOo14/status/1400467954412658691) | advertise |
 | [NanMinThu1@twitter](https://twitter.com/NanMinThu1/status/1394909499425705985) | advertise |
 | [nannan151069@twitter](https://twitter.com/nannan151069/status/1390023566234587138) | advertise |
+| [Nanncy32027425@twitter](https://twitter.com/Nanncy32027425/status/1718479978969317738) | advertise |
 | [NannHtike13@twitter](https://twitter.com/NannHtike13/status/1390851009434456064) | advertise |
 | [Nanny231822@twitter](https://twitter.com/Nanny231822/status/1583809862076534785) | advertise |
 | [Nanofaux@twitter](https://twitter.com/Nanofaux/status/1381046465582272512) | advertise |
@@ -10755,6 +10757,7 @@ Do not create new issue or we will close it as duplicate.
 | [quan_hoang1803@twitter](https://twitter.com/quan_hoang1803/status/1620757954453712898) | advertise |
 | [quartexnet@twitter](https://twitter.com/quartexnet/status/1456456640744632320) | advertise |
 | [QuataishaB@twitter](https://twitter.com/QuataishaB/status/1665889185125761024) | advertise |
+| [quaytayxmd@twitter](https://twitter.com/quaytayxmd/status/1718434732856512692) | advertise |
 | [quay_lam@twitter](https://twitter.com/quay_lam/status/1391964463318720523) | advertise |
 | [QucAnh43254041@twitter](https://twitter.com/QucAnh43254041/status/1498321851013275654) | advertise |
 | [QucAnh77804161@twitter](https://twitter.com/QucAnh77804161/status/1670443011334107139) | advertise |
