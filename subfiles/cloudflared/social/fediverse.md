@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,869 |
-| social | 4,647 |
+| com | 7,870 |
+| social | 4,648 |
 | net | 3,908 |
 | org | 2,618 |
 | de | 2,455 |
@@ -23122,6 +23122,7 @@ Here's a list of public Fediverse services.
 | `kulttuurilaiva.social` | No |
 | `kulturfront.org` | No |
 | `kulturkramkiste.de` | No |
+| `kulturkvrn.com` | No |
 | `kulturnik.si` | No |
 | `kulturwerkstatt.de` | No |
 | `kultwiki.net` | Yes |
@@ -41394,6 +41395,7 @@ Here's a list of public Fediverse services.
 | `startupstack.tech` | Yes |
 | `startx.de` | No |
 | `starxy.cc` | No |
+| `stary.pc.pl` | No |
 | `stash.beer` | No |
 | `stashsh.net` | No |
 | `staspikin.com` | No |
@@ -44986,6 +44988,7 @@ Here's a list of public Fediverse services.
 | `transistorcafe.net` | Yes |
 | `transitieweb.nl` | No |
 | `transition-waedenswil.ch` | No |
+| `transitory.social` | No |
 | `transkitties.party` | No |
 | `translesbian.top` | No |
 | `transliminal.space` | No |
@@ -50177,7 +50180,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,123 |
-| Normal | 36,005 |
+| Normal | 36,008 |
 
 
 </details>
