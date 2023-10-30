@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,875 |
-| social | 4,648 |
-| net | 3,911 |
-| org | 2,619 |
+| com | 7,879 |
+| social | 4,649 |
+| net | 3,916 |
+| org | 2,621 |
 | de | 2,455 |
 
 
@@ -440,6 +440,7 @@ Here's a list of public Fediverse services.
 | `334.ovh` | Yes |
 | `338338.xyz` | Yes |
 | `33chan.xyz` | No |
+| `33x.me` | No |
 | `343max.de` | No |
 | `346production.jp` | Yes |
 | `35mm.site` | No |
@@ -1289,6 +1290,7 @@ Here's a list of public Fediverse services.
 | `aelf.ee` | Yes |
 | `aelisya.ch` | No |
 | `aemulatia.net` | No |
+| `aenead.net` | Yes |
 | `aenor.ru` | No |
 | `aeon-hq.net` | No |
 | `aeons-library.gq` | No |
@@ -2855,6 +2857,7 @@ Here's a list of public Fediverse services.
 | `arkw.work` | Yes |
 | `arkwoodpond.info` | No |
 | `arky.gg` | Yes |
+| `arlecchino.org` | Yes |
 | `arles-linux.org` | No |
 | `arles.io` | No |
 | `arles.red` | No |
@@ -7570,6 +7573,7 @@ Here's a list of public Fediverse services.
 | `clallam.lgbt` | No |
 | `clamav.net` | Yes |
 | `clamo.red` | No |
+| `clanmother.com` | No |
 | `clanwood.com` | No |
 | `clar.ke` | Yes |
 | `clareifi.com` | No |
@@ -10286,6 +10290,7 @@ Here's a list of public Fediverse services.
 | `desmu.fr` | No |
 | `desord.re` | No |
 | `despair.life` | No |
+| `despise.computer` | No |
 | `despora.de` | No |
 | `dess.ga` | No |
 | `dessert.coffee` | No |
@@ -11817,6 +11822,7 @@ Here's a list of public Fediverse services.
 | `ebin.club` | No |
 | `ebin.website` | No |
 | `ebin.zone` | No |
+| `ebinniontesting9.blog` | No |
 | `ebinwebsite.xyz` | No |
 | `ebiryu.tech` | No |
 | `ebisu.me` | No |
@@ -13117,6 +13123,7 @@ Here's a list of public Fediverse services.
 | `exs.gay` | No |
 | `ext.network` | No |
 | `extec.uk` | No |
+| `extension.app` | No |
 | `extinctionrebellion.es` | No |
 | `extinctionrebellion.fr` | No |
 | `extradienst.net` | No |
@@ -17979,6 +17986,7 @@ Here's a list of public Fediverse services.
 | `heliohost.us` | No |
 | `helios.red` | Yes |
 | `helios42.de` | No |
+| `heliosia.net` | Yes |
 | `heliospace.net` | No |
 | `heliumhosting.org` | No |
 | `helix.cafe` | Yes |
@@ -19116,6 +19124,7 @@ Here's a list of public Fediverse services.
 | `iaia.moe` | No |
 | `ialis.me` | No |
 | `ialys.net` | Yes |
+| `iam.mt` | Yes |
 | `iam.slg.br` | No |
 | `iamalive.digital` | No |
 | `iamanerd.club` | Yes |
@@ -20514,6 +20523,7 @@ Here's a list of public Fediverse services.
 | `jame.su` | No |
 | `james-martin.dev` | Yes |
 | `james.network` | No |
+| `jamesaaron.net` | No |
 | `jamesatjaminit.dev` | Yes |
 | `jamesburgos.com` | No |
 | `jamescousins.com` | No |
@@ -24817,7 +24827,6 @@ Here's a list of public Fediverse services.
 | `loclx.io` | No |
 | `locrealloc.de` | No |
 | `loctobrerie.fr` | No |
-| `lod.ee` | No |
 | `lode.social` | Yes |
 | `lodis.se` | No |
 | `lodyb.com` | No |
@@ -25952,6 +25961,7 @@ Here's a list of public Fediverse services.
 | `mapgas.org` | No |
 | `maphammond.art` | No |
 | `maphammond.club` | No |
+| `maphia.net` | Yes |
 | `mapicardie.fr` | No |
 | `maple.social` | No |
 | `maplecrew.org` | No |
@@ -26311,6 +26321,7 @@ Here's a list of public Fediverse services.
 | `masto.uno` | No |
 | `masto.ws` | No |
 | `mastoadmin.io` | Yes |
+| `mastoart.social` | No |
 | `mastobate.com` | Yes |
 | `mastobate.social` | No |
 | `mastoben.rocks` | No |
@@ -31912,6 +31923,7 @@ Here's a list of public Fediverse services.
 | `observatory.social` | No |
 | `observer.com` | No |
 | `obsidian-group.co` | Yes |
+| `obsidianfleet.net` | Yes |
 | `obsidianmoon.com` | No |
 | `obsidianrealm.club` | No |
 | `obsolete.digital` | No |
@@ -31988,6 +32000,7 @@ Here's a list of public Fediverse services.
 | `odditycentral.com` | Yes |
 | `oddly-influenced.dev` | No |
 | `oddnetwork.org` | No |
+| `oddorder.org` | Yes |
 | `oddprocess.social` | No |
 | `oddte.ch` | Yes |
 | `oddvacado.com` | No |
@@ -33169,6 +33182,7 @@ Here's a list of public Fediverse services.
 | `paco.to` | No |
 | `pacoandpals.com` | No |
 | `pad23.com` | No |
+| `pad53.com` | No |
 | `padayon.net` | No |
 | `paddlefish.net` | No |
 | `paddys.pub` | No |
@@ -42941,6 +42955,7 @@ Here's a list of public Fediverse services.
 | `tearmoon.com` | No |
 | `teasmith.com.au` | Yes |
 | `teatime.gr.jp` | No |
+| `teatoasttrivia.com` | No |
 | `tebro.fi` | No |
 | `tebukuro.pw` | No |
 | `tebukuro.xyz` | Yes |
@@ -43485,6 +43500,7 @@ Here's a list of public Fediverse services.
 | `theblower.au` | No |
 | `thebmw.club` | Yes |
 | `thebonduniverse.net` | No |
+| `thebookdialogue.com` | No |
 | `theboss.tech` | No |
 | `theboxcollective.org` | No |
 | `thebrainbin.org` | No |
@@ -50200,8 +50216,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,141 |
-| Normal | 36,011 |
+| Cloudflare | 14,148 |
+| Normal | 36,020 |
 
 
 </details>
