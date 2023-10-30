@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,880 |
+| com | 7,881 |
 | social | 4,649 |
 | net | 3,917 |
 | org | 2,621 |
-| de | 2,455 |
+| de | 2,456 |
 
 
 - Mastodon, Pleroma, etc
@@ -8611,6 +8611,7 @@ Here's a list of public Fediverse services.
 | `craveiro.pt` | No |
 | `cravey.blog` | No |
 | `crawling-with-love.com` | Yes |
+| `crazy-to-bike.de` | No |
 | `crazydan.org` | No |
 | `crazylab.online` | No |
 | `crazynewworld.net` | Yes |
@@ -27633,6 +27634,7 @@ Here's a list of public Fediverse services.
 | `mhdp.me` | No |
 | `mhemeryck.com` | No |
 | `mhenry.social` | No |
+| `mhloppy.com` | Yes |
 | `mhserver.xyz` | No |
 | `mhtube.de` | No |
 | `mhz.social` | No |
@@ -50219,8 +50221,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,148 |
-| Normal | 36,023 |
+| Cloudflare | 14,149 |
+| Normal | 36,024 |
 
 
 </details>
