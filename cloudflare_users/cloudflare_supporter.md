@@ -3711,6 +3711,7 @@ Do not create new issue or we will close it as duplicate.
 | [exoLchokyithar@twitter](https://twitter.com/exoLchokyithar/status/1383974311803854848) | advertise |
 | [EXOSC67901907@twitter](https://twitter.com/EXOSC67901907/status/1399753533700726785) | advertise |
 | [exo_omma@twitter](https://twitter.com/exo_omma/status/1401226015817428998) | advertise |
+| [exploitmann@twitter](https://twitter.com/exploitmann/status/1718900441855983828) | advertise |
 | [exwezaz@twitter](https://twitter.com/exwezaz/status/1571655497371222016) | advertise |
 | [eYb4nxGhTncqUwi@twitter](https://twitter.com/eYb4nxGhTncqUwi/status/1387831352553136129) | advertise |
 | [EyessDrak61837@twitter](https://twitter.com/EyessDrak61837/status/1682447908212469761) | advertise |
@@ -3948,6 +3949,7 @@ Do not create new issue or we will close it as duplicate.
 | [freemanoversea@twitter](https://twitter.com/freemanoversea/status/1716964755607601401) | advertise |
 | [freemcservernet@twitter](https://twitter.com/freemcservernet/status/1447640173626413064) | advertise |
 | [FreeMobileZone@twitter](https://twitter.com/FreeMobileZone/status/1422035788494254082) | advertise |
+| [freepimin@twitter](https://twitter.com/freepimin/status/1718894185179435044) | advertise |
 | [Freesty92893100@twitter](https://twitter.com/Freesty92893100/status/1398106800356937731) | advertise |
 | [FREE_BIRD_86_@twitter](https://twitter.com/FREE_BIRD_86_/status/1502000122011570186) | advertise |
 | [Frhan67_@twitter](https://twitter.com/Frhan67_/status/1381961620218277890) | advertise |
@@ -12261,6 +12263,7 @@ Do not create new issue or we will close it as duplicate.
 | [steph1official@twitter](https://twitter.com/steph1official/status/1650101419490279425) | advertise |
 | [stephaniedetri8@twitter](https://twitter.com/stephaniedetri8/status/1625600752172367877) | advertise |
 | [stephaniedola02@twitter](https://twitter.com/stephaniedola02/status/1556250332258127872) | advertise |
+| [StephanieE12750@twitter](https://twitter.com/StephanieE12750/status/1718898199174537657) | advertise |
 | [stephanosverent@twitter](https://twitter.com/stephanosverent/status/1412531696264781824) | moral (advertise) |
 | [StephenCj10@twitter](https://twitter.com/StephenCj10/status/1589602635719770113) | advertise |
 | [stephengiesen@twitter](https://twitter.com/stephengiesen/status/1595074571182477318) | advertise |
