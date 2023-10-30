@@ -2360,6 +2360,7 @@ Do not create new issue or we will close it as duplicate.
 | [chegekjames@twitter](https://twitter.com/chegekjames/status/1607231687313735680) | advertise |
 | [chekh_tam@twitter](https://twitter.com/chekh_tam/status/1668375416258584577) | advertise |
 | [CHEKUTH66047936@twitter](https://twitter.com/CHEKUTH66047936/status/1401783579168763907) | advertise |
+| [ChelimThru74535@twitter](https://twitter.com/ChelimThru74535/status/1716514959520333980) | advertise |
 | [ChelleV60@twitter](https://twitter.com/ChelleV60/status/1553220253760602112) | advertise |
 | [Chelle_n_Lulu@twitter](https://twitter.com/Chelle_n_Lulu/status/1596628650853797888) | advertise |
 | [chelle_yah@twitter](https://twitter.com/chelle_yah/status/1599652481083969536) | advertise |
