@@ -27,7 +27,6 @@ Here's a list of public Matrix services.
 | alternanet.fr | No |
 | matrix.archaeo.social | No |
 | aria.im | No |
-| matrix.badstuebner.biz | No |
 | synapse.bark.lgbt | Yes |
 | bolha.chat | Yes |
 | breeze.town | No |
@@ -76,6 +75,7 @@ Here's a list of public Matrix services.
 | nitro.chat | No |
 | nope.chat | No |
 | matrix.norge.chat | Yes |
+| matrix.oikei.net | No |
 | matrix.ombreport.info | No |
 | pcriot.org | Yes |
 | perthchat.org | Yes |
