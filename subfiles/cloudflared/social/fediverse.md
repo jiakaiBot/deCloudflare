@@ -13811,6 +13811,7 @@ Here's a list of public Fediverse services.
 | `fediverse.date` | No |
 | `fediverse.events` | No |
 | `fediverse.express` | No |
+| `fediverse.gay` | Yes |
 | `fediverse.info` | Yes |
 | `fediverse.land` | Yes |
 | `fediverse.lgbt` | No |
@@ -28727,7 +28728,7 @@ Here's a list of public Fediverse services.
 | `moose.land` | No |
 | `moosecow.net` | Yes |
 | `moosetadon.social` | No |
-| `moosetodon.com` | No |
+| `moosetodon.com` | Yes |
 | `moosetown.dk` | No |
 | `mooseybytes.com` | No |
 | `mooshoe.me` | Yes |
@@ -50191,8 +50192,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,133 |
-| Normal | 36,010 |
+| Cloudflare | 14,135 |
+| Normal | 36,009 |
 
 
 </details>
