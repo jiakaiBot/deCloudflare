@@ -192,6 +192,7 @@ Do not create new issue or we will close it as duplicate.
 | [1102zip@twitter](https://twitter.com/1102zip/status/1706668087578402993) | advertise |
 | [1234pht@twitter](https://twitter.com/1234pht/status/1553677352927825920) | advertise |
 | [1352j@twitter](https://twitter.com/1352j/status/1384419545243344896) | advertise |
+| [1400skysky@twitter](https://twitter.com/1400skysky/status/1718975749804408942) | advertise |
 | [1431Yousef@twitter](https://twitter.com/1431Yousef/status/1608995870388944905) | advertise |
 | [1991_myat@twitter](https://twitter.com/1991_myat/status/1398253735621578757) | advertise |
 | [1997Gugulay@twitter](https://twitter.com/1997Gugulay/status/1393752001888980996) | advertise |
@@ -2044,6 +2045,7 @@ Do not create new issue or we will close it as duplicate.
 | [BoyDamD36200800@twitter](https://twitter.com/BoyDamD36200800/status/1404202190533652480) | advertise |
 | [boyhandsome00@twitter](https://twitter.com/boyhandsome00/status/1387752701430140931) | advertise |
 | [boythienvn@twitter](https://twitter.com/boythienvn/status/1476925296439750662) | advertise |
+| [bo_ladiesex@twitter](https://twitter.com/bo_ladiesex/status/1718989827352453588) | advertise |
 | [BquynDng1@twitter](https://twitter.com/BquynDng1/status/1599117313407520769) | advertise |
 | [br0sale144@twitter](https://twitter.com/br0sale144/status/1389855026558824451) | advertise |
 | [brabrabracop@twitter](https://twitter.com/brabrabracop/status/1553274180770353153) | advertise |
@@ -5905,6 +5907,7 @@ Do not create new issue or we will close it as duplicate.
 | [jjj95783480@twitter](https://twitter.com/jjj95783480/status/1395094462431481857) | advertise |
 | [JJKArabic@twitter](https://twitter.com/JJKArabic/status/1689613958632689665) | advertise |
 | [JJoe40040378@twitter](https://twitter.com/JJoe40040378/status/1391669669115752455) | advertise |
+| [JJoker918976181@twitter](https://twitter.com/JJoker918976181/status/1718988113304060139) | advertise |
 | [jkaras0@twitter](https://twitter.com/jkaras0/status/1519652208270213120) | advertise |
 | [JKAY507914252@twitter](https://twitter.com/JKAY507914252/status/1524934724413579264) | advertise |
 | [JKeawpila@twitter](https://twitter.com/JKeawpila/status/1665961413041610752) | advertise |
@@ -7503,6 +7506,7 @@ Do not create new issue or we will close it as duplicate.
 | [lovemesofly@twitter](https://twitter.com/lovemesofly/status/1382384844391391234) | advertise |
 | [LoveMoe5298@twitter](https://twitter.com/LoveMoe5298/status/1548585579453231104) | advertise |
 | [Lovery80916268@twitter](https://twitter.com/Lovery80916268/status/1394129643360370691) | advertise |
+| [lovesex009777@twitter](https://twitter.com/lovesex009777/status/1718987249088630866) | advertise |
 | [Lovetofun1@twitter](https://twitter.com/Lovetofun1/status/1399009105184915456) | advertise |
 | [lovey2kz@twitter](https://twitter.com/lovey2kz/status/1638512686156873728) | advertise |
 | [Loveyou57911593@twitter](https://twitter.com/Loveyou57911593/status/1382721327207907341) | advertise |
