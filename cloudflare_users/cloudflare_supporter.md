@@ -963,6 +963,7 @@ Do not create new issue or we will close it as duplicate.
 | [AniketR19914841@twitter](https://twitter.com/AniketR19914841/status/1384569411630026752) | advertise |
 | [Anikets98739334@twitter](https://twitter.com/Anikets98739334/status/1393038098561331200) | advertise |
 | [anilyeni@twitter](https://twitter.com/anilyeni/status/1471556509691789312) | advertise |
+| [AnimalFat3@twitter](https://twitter.com/AnimalFat3/status/1719083849441833101) | advertise |
 | [animalfromspace@twitter](https://twitter.com/animalfromspace/status/1432007469442772996) | advertise |
 | [AnimeAM65466760@twitter](https://twitter.com/AnimeAM65466760/status/1404816257203929088) | advertise |
 | [AnimeAn44635583@twitter](https://twitter.com/AnimeAn44635583/status/1679163597778198528) | advertise |
@@ -1157,6 +1158,7 @@ Do not create new issue or we will close it as duplicate.
 | [arthurdono_@twitter](https://twitter.com/arthurdono_/status/1545383035897466885) | advertise |
 | [Artin17431766@twitter](https://twitter.com/Artin17431766/status/1499667671037718530) | advertise |
 | [ArtistXoder@twitter](https://twitter.com/ArtistXoder/status/1541830277936332801) | advertise |
+| [Artur37280914@twitter](https://twitter.com/Artur37280914/status/1719067317605159139) | advertise |
 | [Arulnithish777@twitter](https://twitter.com/Arulnithish777/status/1391730535290925057) | advertise |
 | [ArunAR46303075@twitter](https://twitter.com/ArunAR46303075/status/1387955082105290754) | advertise |
 | [ArunRk28334808@twitter](https://twitter.com/ArunRk28334808/status/1395434616828268546) | advertise |
@@ -7418,6 +7420,7 @@ Do not create new issue or we will close it as duplicate.
 | [LNguynXunSn1@twitter](https://twitter.com/LNguynXunSn1/status/1485459472827166721) | advertise |
 | [LNhnHong1@twitter](https://twitter.com/LNhnHong1/status/1400851165248585730) | advertise |
 | [LNinh19111999@twitter](https://twitter.com/LNinh19111999/status/1552011202741489664) | advertise |
+| [LNoclass85674@twitter](https://twitter.com/LNoclass85674/status/1719083361401204802) | advertise |
 | [lnspectorRex@twitter](https://twitter.com/lnspectorRex/status/1545829075016732672) | advertise |
 | [LoanHun91363699@twitter](https://twitter.com/LoanHun91363699/status/1643160466737475584) | advertise |
 | [locomoco_28@twitter](https://twitter.com/locomoco_28/status/1630791856131907584) | advertise |
