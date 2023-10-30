@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CI/CD: Better handling for Cloudflare error 520](https://github.com/j-andrews7/kenpompy/issues/74)
 - [Main swagger.io website access restricted by Cloudflare (403 response code)](https://github.com/swagger-api/swagger-core/issues/4505)
 - [Windows10 setting up nginx reverse proxy with basic_auth breaks the server](https://github.com/rr-/szurubooru/issues/611)
 - [Onlyoffice Docment Server installed in Docker, SSL with Cloudflare Tunnel, and unable to edit.](https://github.com/ONLYOFFICE/DocumentServer/issues/2449)
