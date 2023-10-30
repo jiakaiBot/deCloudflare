@@ -46,18 +46,3 @@ Replace the `(base url)` to:
 | Input | `f` is required.<br>`f` FQDN (e.g. `www.google.com`) |
 | Output | JSON value as array. If 2nd value(j[1]) is true then the input is AntiTor.<br>`[false,false]` (Error or not AntiTor)<br>`[true,false]` (Not AntiTor)<br>`[true,true]` (AntiTor) |
 | cURL Example | `curl -X POST -F 'f=www.example.com' -k --http2 https://clearnet/api/is/antitor/`<br>`curl -x socks5h://127.0.0.1:9050 -X POST -F 'f=www.example.com' http://onion/api/is/antitor/` |
-
-----
-
-### Get Data
-
-- Get data in simple format.
-- For your automation use.
-
-| ? | ? |
-| -- | -- |
-| Location | `(base url)listdata/` |
-| Request Method | `GET` |
-| Input | `name` is required.<br>`name` string (e.g. `cf_fediverse`)<br>possible values:<br>`cf_fediverse` JSON [Cloudflared Fediverse](../cloudflared/social/fediverse.md) Domain<br>`cf_fediverse_CSV` Text<br>`cf_fediverse_FQDN` JSON Cloudflared Fediverse FQDN<br>`cf_fediverse_FQDN_CSV` Text<br>  |
-| Output | JSON or Text |
-| cURL Example | `curl -k --http2 https://clearnet/api/listdata/?name=cf_fediverse` |
