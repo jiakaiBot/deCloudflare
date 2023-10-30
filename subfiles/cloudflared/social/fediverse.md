@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,875 |
+| com | 7,874 |
 | social | 4,648 |
 | net | 3,910 |
 | org | 2,618 |
@@ -8042,7 +8042,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -18263,7 +18263,7 @@ Here's a list of public Fediverse services.
 | `hihn.org` | No |
 | `hiho.jp` | No |
 | `hiimmilan.dev` | No |
-| `hijacked.download` | Yes |
+| `hijacked.download` | No |
 | `hijsselinckx.com` | No |
 | `hikali.work` | No |
 | `hikalium.dev` | Yes |
@@ -28970,7 +28970,7 @@ Here's a list of public Fediverse services.
 | `mrlungshot.com` | Yes |
 | `mrmoreira.com` | Yes |
 | `mrmts.com` | No |
-| `mrmurphy.dev` | No |
+| `mrmurphy.dev` | Yes |
 | `mrn.bz` | No |
 | `mrnd.xyz` | No |
 | `mrnet.pt` | Yes |
@@ -35540,7 +35540,6 @@ Here's a list of public Fediverse services.
 | `pupsplus.fans` | No |
 | `pupspoke.co.uk` | Yes |
 | `pupu.moe` | Yes |
-| `pupupuakt.com` | No |
 | `pupy.cafe` | No |
 | `purakara.com` | No |
 | `pure-isp.eu` | Yes |
@@ -38731,7 +38730,7 @@ Here's a list of public Fediverse services.
 | `scott.ee` | Yes |
 | `scott.in.th` | Yes |
 | `scottawilliams.com` | No |
-| `scottbking.com` | No |
+| `scottbking.com` | Yes |
 | `scottfr.ee` | Yes |
 | `scottishlad.me.uk` | No |
 | `scottkf.xyz` | No |
@@ -40506,7 +40505,7 @@ Here's a list of public Fediverse services.
 | `social7.xyz` | No |
 | `sociala.me` | No |
 | `socialakdeniz.live` | No |
-| `socialasylum.de` | No |
+| `socialasylum.de` | Yes |
 | `socialaudiodescription.com` | No |
 | `socialbirb.com` | No |
 | `socialblade.com` | Yes |
@@ -50192,8 +50191,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,130 |
-| Normal | 36,014 |
+| Cloudflare | 14,131 |
+| Normal | 36,012 |
 
 
 </details>
