@@ -6620,6 +6620,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kingiferous7@twitter](https://twitter.com/Kingiferous7/status/1569373239016656902) | advertise |
 | [kingk4888888@twitter](https://twitter.com/kingk4888888/status/1394730960894119937) | advertise |
 | [KingKha92045867@twitter](https://twitter.com/KingKha92045867/status/1687863824458866689) | advertise |
+| [KingLov79416741@twitter](https://twitter.com/KingLov79416741/status/1719089312422085101) | advertise |
 | [KingmaxNft@twitter](https://twitter.com/KingmaxNft/status/1550009809159630849) | advertise |
 | [Kingo74770300@twitter](https://twitter.com/Kingo74770300/status/1620716316163461123) | advertise |
 | [kingpolat5@twitter](https://twitter.com/kingpolat5/status/1397988631265038339) | advertise |
@@ -7084,6 +7085,7 @@ Do not create new issue or we will close it as duplicate.
 | [LadyBarani@twitter](https://twitter.com/LadyBarani/status/1387925243558248449) | advertise |
 | [ladyknife88@twitter](https://twitter.com/ladyknife88/status/1401229529452990467) | advertise |
 | [LaeWai@twitter](https://twitter.com/LaeWai/status/1612691656574369794) | advertise |
+| [Lahjeh1@twitter](https://twitter.com/Lahjeh1/status/1719090165749096451) | advertise |
 | [LahLaaah2@twitter](https://twitter.com/LahLaaah2/status/1493543345720741891) | advertise |
 | [Lak65943388@twitter](https://twitter.com/Lak65943388/status/1709498379217117259) | advertise |
 | [LakayAnNou@twitter](https://twitter.com/LakayAnNou/status/1543703868059648001) | advertise |
