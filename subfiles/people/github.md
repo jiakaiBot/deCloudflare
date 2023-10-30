@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [@aws-sdk/client-s3 not working with Bun (same code works with Node)](https://github.com/oven-sh/bun/issues/6803)
 - [Access to openhub.net blocked by Cloudflare](https://github.com/blackducksoftware/ohloh-ui/issues/1752)
 - [403 Client Error: Forbidden for url](https://github.com/yurhett/hf-proxy/issues/1)
 - [Server timeout for submitter trying to access proposals with many comments](https://github.com/Green-Party-of-Canada-Members/gpc-decidim/issues/119)
