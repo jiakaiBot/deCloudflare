@@ -10515,6 +10515,7 @@ Do not create new issue or we will close it as duplicate.
 | [pokefan_t2rox@twitter](https://twitter.com/pokefan_t2rox/status/1386785778693332994) | advertise |
 | [POKEMON18887992@twitter](https://twitter.com/POKEMON18887992/status/1688897996346597378) | advertise |
 | [Pokemon98119112@twitter](https://twitter.com/Pokemon98119112/status/1398447530921267202) | advertise |
+| [pokpokpakpakk@twitter](https://twitter.com/pokpokpakpakk/status/1718999667458084893) | advertise |
 | [pomdx1@twitter](https://twitter.com/pomdx1/status/1553657199452336128) | advertise |
 | [PomH6655@twitter](https://twitter.com/PomH6655/status/1472934383862517763) | advertise |
 | [pompomsfav@twitter](https://twitter.com/pompomsfav/status/1665888954414149634) | advertise |
