@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,875 |
 | social | 4,648 |
 | net | 3,911 |
-| org | 2,618 |
+| org | 2,619 |
 | de | 2,455 |
 
 
@@ -7874,6 +7874,7 @@ Here's a list of public Fediverse services.
 | `codehearth.com` | No |
 | `codeine.world` | Yes |
 | `codelib.re` | Yes |
+| `codelyoko.me` | Yes |
 | `codem.xyz` | No |
 | `codepenguin.io` | No |
 | `codeplumbers.eu` | No |
@@ -8042,7 +8043,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -20112,6 +20113,7 @@ Here's a list of public Fediverse services.
 | `is-pretty.gay` | Yes |
 | `is-super.moe` | No |
 | `is4.site` | Yes |
+| `isaa.it` | No |
 | `isaaccronk.com` | No |
 | `isaacsu.com` | Yes |
 | `isaak.ovh` | No |
@@ -21697,6 +21699,7 @@ Here's a list of public Fediverse services.
 | `kaleido.moe` | Yes |
 | `kaleidos.net` | Yes |
 | `kalenalangford.com` | Yes |
+| `kali.lol` | Yes |
 | `kaliex.co` | No |
 | `kaliex.space` | No |
 | `kalik.in` | Yes |
@@ -22149,7 +22152,7 @@ Here's a list of public Fediverse services.
 | `kernelpoppers.org` | Yes |
 | `kerneltrick.org` | Yes |
 | `kernkraft.social` | No |
-| `kernvillecowork.social` | No |
+| `kernvillecowork.social` | Yes |
 | `kerosyn.link` | No |
 | `kerr.social` | No |
 | `kersny.com` | No |
@@ -42521,6 +42524,7 @@ Here's a list of public Fediverse services.
 | `tacowolf.net` | Yes |
 | `tactcheck.com` | No |
 | `tacticaltech.org` | No |
+| `tactiletimes.org` | Yes |
 | `tacty.social` | Yes |
 | `tad.me` | Yes |
 | `tadanemuinda.com` | No |
@@ -50196,8 +50200,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,136 |
-| Normal | 36,012 |
+| Cloudflare | 14,141 |
+| Normal | 36,011 |
 
 
 </details>
