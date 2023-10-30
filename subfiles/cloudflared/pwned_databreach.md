@@ -253,6 +253,7 @@ Here's a list of breached sites.
 | Gaadi | 4,261,179 | No |
 | Gab | 66,521 | Yes |
 | GameSalad | 1,506,242 | Yes |
+| GameSprite | 6,164,643 | No |
 | GameTuts | 2,064,274 | Yes |
 | GamerzPlanet (Gamerzplanet) | 1,217,166 | Yes |
 | Gamigo | 8,243,604 | Yes |
@@ -706,9 +707,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 400 | 4,494,280,661 |
-| Normal | 284 | 4,504,355,259 |
+| Normal | 285 | 4,510,519,902 |
 
 
 
-### 58.5% of breached sites (pwned sites) are using Cloudflare.
+### 58.4% of breached sites (pwned sites) are using Cloudflare.
 ### 49.9% of leaked accounts are on Cloudflare sites.
