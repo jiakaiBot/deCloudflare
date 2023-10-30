@@ -46530,6 +46530,7 @@ Here's a list of public Fediverse services.
 | `valah.net` | No |
 | `valdas.space` | Yes |
 | `valde.me` | Yes |
+| `vale.rocks` | Yes |
 | `valenciapa.ws` | No |
 | `valentinekindahot.fr` | Yes |
 | `valentines.monster` | No |
@@ -50192,7 +50193,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,135 |
+| Cloudflare | 14,136 |
 | Normal | 36,009 |
 
 
