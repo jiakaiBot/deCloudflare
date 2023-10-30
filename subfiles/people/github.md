@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Pages, Workers KV and Cloudflare Access Availability Issues](https://github.com/SecOpsNews/news/issues/20661)
+- [CloudFlare Cloudflare Pages, Workers KV and Cloudflare Access Availability Issues](https://github.com/hinoshiba/news/issues/5367)
 - [CloudFlare Cloudflare Pages and KV Availability Issues](https://github.com/SecOpsNews/news/issues/20657)
 - [Registration Returns strange error.](https://github.com/datagrove/marketplace/issues/194)
 - [Systemd 252 breaks usb serial by-id paths](https://github.com/home-assistant/operating-system/issues/2886)
