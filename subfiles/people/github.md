@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare Pages and KV Availability Issues](https://github.com/SecOpsNews/news/issues/20657)
 - [Registration Returns strange error.](https://github.com/datagrove/marketplace/issues/194)
 - [Systemd 252 breaks usb serial by-id paths](https://github.com/home-assistant/operating-system/issues/2886)
 - [@aws-sdk/client-s3 not working with Bun (same code works with Node)](https://github.com/oven-sh/bun/issues/6803)
