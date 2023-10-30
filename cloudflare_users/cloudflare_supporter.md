@@ -5490,6 +5490,7 @@ Do not create new issue or we will close it as duplicate.
 | [INotCoreUser1@twitter](https://twitter.com/INotCoreUser1/status/1392768420135981059) | advertise |
 | [inoxtinta123@twitter](https://twitter.com/inoxtinta123/status/1383637274684903438) | advertise |
 | [Inpag_LAB@twitter](https://twitter.com/Inpag_LAB/status/1564890007604707329) | advertise |
+| [inrify@twitter](https://twitter.com/inrify/status/1719035079589278054) | advertise |
 | [InsaneB19371242@twitter](https://twitter.com/InsaneB19371242/status/1704406996575998328) | advertise |
 | [Inspirit_134340@twitter](https://twitter.com/Inspirit_134340/status/1384521918397632517) | advertise |
 | [Install_SolarUK@twitter](https://twitter.com/Install_SolarUK/status/1551320631546990593) | advertise |
