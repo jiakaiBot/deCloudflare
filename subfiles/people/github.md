@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Main swagger.io website access restricted by Cloudflare (403 response code)](https://github.com/swagger-api/swagger-core/issues/4505)
 - [Windows10 setting up nginx reverse proxy with basic_auth breaks the server](https://github.com/rr-/szurubooru/issues/611)
 - [Onlyoffice Docment Server installed in Docker, SSL with Cloudflare Tunnel, and unable to edit.](https://github.com/ONLYOFFICE/DocumentServer/issues/2449)
 - [Prisma to Drizzle Migration Complete! 🎉 Our Journey and Lessons Learned](https://github.com/drizzle-team/drizzle-orm/issues/1434)
