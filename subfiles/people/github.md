@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Access to openhub.net blocked by Cloudflare](https://github.com/blackducksoftware/ohloh-ui/issues/1752)
 - [403 Client Error: Forbidden for url](https://github.com/yurhett/hf-proxy/issues/1)
 - [Server timeout for submitter trying to access proposals with many comments](https://github.com/Green-Party-of-Canada-Members/gpc-decidim/issues/119)
 - [CI/CD: Better handling for Cloudflare error 520](https://github.com/j-andrews7/kenpompy/issues/74)
