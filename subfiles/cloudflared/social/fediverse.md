@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,880 |
 | social | 4,649 |
-| net | 3,916 |
+| net | 3,917 |
 | org | 2,621 |
 | de | 2,455 |
 
@@ -24854,6 +24854,7 @@ Here's a list of public Fediverse services.
 | `logicalpilot.com` | No |
 | `logilab.fr` | No |
 | `logilab.org` | No |
+| `logima.net` | No |
 | `logisciences.org` | No |
 | `logjam.city` | No |
 | `logoff.biz` | No |
@@ -39663,6 +39664,7 @@ Here's a list of public Fediverse services.
 | `sick.social` | Yes |
 | `sicknet.xyz` | Yes |
 | `sickstream.net` | No |
+| `sicpers.info` | No |
 | `sid500.com` | No |
 | `side-ways.net` | No |
 | `sideb.buzz` | No |
@@ -50218,7 +50220,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,148 |
-| Normal | 36,021 |
+| Normal | 36,023 |
 
 
 </details>
