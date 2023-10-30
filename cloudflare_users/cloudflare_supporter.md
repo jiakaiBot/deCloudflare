@@ -3314,6 +3314,7 @@ Do not create new issue or we will close it as duplicate.
 | [DR_HESSAM@twitter](https://twitter.com/DR_HESSAM/status/1711547290551279626) | advertise |
 | [dr_pyaephyoezaw@twitter](https://twitter.com/dr_pyaephyoezaw/status/1391669243930841089) | advertise |
 | [dr_tayel81@twitter](https://twitter.com/dr_tayel81/status/1386993468287897600) | advertise |
+| [DSaengleung@twitter](https://twitter.com/DSaengleung/status/1718868736743285012) | advertise |
 | [DsanayaJ@twitter](https://twitter.com/DsanayaJ/status/1399281807430987779) | advertise |
 | [DSDBL8D02lbRxNc@twitter](https://twitter.com/DSDBL8D02lbRxNc/status/1399334313959718914) | advertise |
 | [DSdecsnow@twitter](https://twitter.com/DSdecsnow/status/1641458210505908225) | advertise |
@@ -7538,6 +7539,7 @@ Do not create new issue or we will close it as duplicate.
 | [LucasLeeZiWei1@twitter](https://twitter.com/LucasLeeZiWei1/status/1672944774440157185) | advertise |
 | [Luchaelis@twitter](https://twitter.com/Luchaelis/status/1383339280362131466) | advertise |
 | [LuChKin4@twitter](https://twitter.com/LuChKin4/status/1397782414647197700) | advertise |
+| [LUCIAN1800@twitter](https://twitter.com/LUCIAN1800/status/1718884330871685340) | advertise |
 | [lucian3142@twitter](https://twitter.com/lucian3142/status/1604847550674399233) | advertise |
 | [Lucian55166513@twitter](https://twitter.com/Lucian55166513/status/1379606759434690561) | advertise |
 | [luciastgermaine@twitter](https://twitter.com/luciastgermaine/status/1532782556734693379) | advertise |
@@ -8039,6 +8041,7 @@ Do not create new issue or we will close it as duplicate.
 | [MdAshik98641970@twitter](https://twitter.com/MdAshik98641970/status/1572492289959927808) | advertise |
 | [MdAshra85999828@twitter](https://twitter.com/MdAshra85999828/status/1386984714934886407) | advertise |
 | [MdAsif31952227@twitter](https://twitter.com/MdAsif31952227/status/1592873454604152832) | advertise |
+| [MdChand1414195@twitter](https://twitter.com/MdChand1414195/status/1718869087013752950) | advertise |
 | [MdJonay27065005@twitter](https://twitter.com/MdJonay27065005/status/1555577964254834688) | advertise |
 | [MdJuned57137884@twitter](https://twitter.com/MdJuned57137884/status/1378966402720272384) | advertise |
 | [mdk796299@twitter](https://twitter.com/mdk796299/status/1394950846845046794) | advertise |
@@ -13267,6 +13270,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tn83771815@twitter](https://twitter.com/Tn83771815/status/1580808870154637317) | advertise |
 | [Tn89965871@twitter](https://twitter.com/Tn89965871/status/1402275670709915655) | advertise |
 | [TnDuy89330210@twitter](https://twitter.com/TnDuy89330210/status/1593265119764525058) | advertise |
+| [Tng30567347@twitter](https://twitter.com/Tng30567347/status/1718879959396282612) | advertise |
 | [TngHiu62523455@twitter](https://twitter.com/TngHiu62523455/status/1617952435607310342) | advertise |
 | [TngHong14@twitter](https://twitter.com/TngHong14/status/1386325819891482627) | advertise |
 | [TngLi34015815@twitter](https://twitter.com/TngLi34015815/status/1554003584039415809) | advertise |
@@ -13517,6 +13521,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrnThphngloan18@twitter](https://twitter.com/TrnThphngloan18/status/1543659813695275008) | advertise |
 | [TrnTngQuang2@twitter](https://twitter.com/TrnTngQuang2/status/1404296721090240512) | advertise |
 | [trntrngch1@twitter](https://twitter.com/trntrngch1/status/1398562666931621890) | advertise |
+| [TrnXuntnh15@twitter](https://twitter.com/TrnXuntnh15/status/1718877213905518957) | advertise |
 | [TrongDaotran1@twitter](https://twitter.com/TrongDaotran1/status/1626236783502700547) | advertise |
 | [trongkimtran@twitter](https://twitter.com/trongkimtran/status/1376771803389915136) | advertise |
 | [TrongLe43169710@twitter](https://twitter.com/TrongLe43169710/status/1487900755776311297) | advertise |
@@ -14981,6 +14986,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZhangJueJue1@twitter](https://twitter.com/ZhangJueJue1/status/1383633631164260360) | advertise |
 | [ZhechenWei@twitter](https://twitter.com/ZhechenWei/status/1646531788871970819) | advertise |
 | [zhengzh45935944@twitter](https://twitter.com/zhengzh45935944/status/1653725241334718466) | advertise |
+| [zhngwi328636356@twitter](https://twitter.com/zhngwi328636356/status/1718884967227244626) | advertise |
 | [Zhu_Apiral@twitter](https://twitter.com/Zhu_Apiral/status/1380403857822474240) | advertise |
 | [zibu1110@twitter](https://twitter.com/zibu1110/status/1596201006899302401) | advertise |
 | [zidanalgifari7@twitter](https://twitter.com/zidanalgifari7/status/1592878227655360513) | advertise |
