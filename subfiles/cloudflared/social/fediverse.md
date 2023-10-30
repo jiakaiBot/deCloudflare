@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,874 |
+| com | 7,875 |
 | social | 4,648 |
-| net | 3,910 |
+| net | 3,911 |
 | org | 2,618 |
 | de | 2,455 |
 
@@ -38439,6 +38439,7 @@ Here's a list of public Fediverse services.
 | `sayfeel.tw` | Yes |
 | `sayhey.site` | No |
 | `sayit.world` | No |
+| `sayitditto.net` | No |
 | `sayitwiththelighton.blog` | Yes |
 | `saykcay.dev` | Yes |
 | `saynoto.lgbt` | No |
@@ -39541,6 +39542,7 @@ Here's a list of public Fediverse services.
 | `shoghi.rocks` | Yes |
 | `shojiwax.com` | No |
 | `shokanradio.com` | Yes |
+| `shokdurt.com` | No |
 | `shoko.one` | No |
 | `shokujin.jp` | Yes |
 | `shollow.net` | No |
@@ -44938,6 +44940,7 @@ Here's a list of public Fediverse services.
 | `trachsel.org` | No |
 | `trackball.love` | Yes |
 | `trackmania.social` | Yes |
+| `trackside.blog` | No |
 | `traction.jp` | No |
 | `tracydurnell.com` | No |
 | `tracyverse.social` | Yes |
@@ -50194,7 +50197,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,136 |
-| Normal | 36,009 |
+| Normal | 36,012 |
 
 
 </details>
