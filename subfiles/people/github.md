@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Registration Returns strange error.](https://github.com/datagrove/marketplace/issues/194)
+- [Systemd 252 breaks usb serial by-id paths](https://github.com/home-assistant/operating-system/issues/2886)
 - [@aws-sdk/client-s3 not working with Bun (same code works with Node)](https://github.com/oven-sh/bun/issues/6803)
 - [Access to openhub.net blocked by Cloudflare](https://github.com/blackducksoftware/ohloh-ui/issues/1752)
 - [403 Client Error: Forbidden for url](https://github.com/yurhett/hf-proxy/issues/1)
