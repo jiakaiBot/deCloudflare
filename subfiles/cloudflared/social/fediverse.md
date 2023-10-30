@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,879 |
+| com | 7,880 |
 | social | 4,649 |
 | net | 3,916 |
 | org | 2,621 |
@@ -25121,6 +25121,7 @@ Here's a list of public Fediverse services.
 | `lowsamplingrate.eu` | No |
 | `lowsec.club` | No |
 | `lowsnr.net` | No |
+| `lowsocialbattery.com` | No |
 | `lowstamina.pl` | Yes |
 | `loxodon.social` | No |
 | `loxodonta.world` | No |
@@ -50217,7 +50218,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,148 |
-| Normal | 36,020 |
+| Normal | 36,021 |
 
 
 </details>
