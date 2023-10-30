@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [403 Client Error: Forbidden for url](https://github.com/yurhett/hf-proxy/issues/1)
 - [Server timeout for submitter trying to access proposals with many comments](https://github.com/Green-Party-of-Canada-Members/gpc-decidim/issues/119)
 - [CI/CD: Better handling for Cloudflare error 520](https://github.com/j-andrews7/kenpompy/issues/74)
 - [Main swagger.io website access restricted by Cloudflare (403 response code)](https://github.com/swagger-api/swagger-core/issues/4505)
