@@ -15,7 +15,7 @@ Here's the result.
 
 | Adblock list | Domains Count | Cloudflare | % |
 | --- | --- | --- | --- |
-| [EasyList](https://easylist.to/easylist/easylist.txt) | 41,897 | 11,698 | 27.9% |
+| [EasyList](https://easylist.to/easylist/easylist.txt) | 41,898 | 11,698 | 27.9% |
 | [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) | 22,874 | 8,486 | 37.1% |
 | [Annoyance](https://secure.fanboy.co.nz/fanboy-annoyance.txt) | 20,823 | 8,543 | 41% |
 | [AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | 53,730 | 10,843 | 20.2% |
