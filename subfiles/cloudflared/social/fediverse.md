@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,883 |
-| social | 4,649 |
+| social | 4,650 |
 | net | 3,917 |
 | org | 2,621 |
 | de | 2,456 |
@@ -17085,6 +17085,7 @@ Here's a list of public Fediverse services.
 | `grmnlc.de` | No |
 | `grnetcloud.net` | No |
 | `grngl.link` | No |
+| `grnwds.uk` | Yes |
 | `grobox.de` | No |
 | `grobwiefein.de` | No |
 | `groenaz.de` | No |
@@ -25242,6 +25243,7 @@ Here's a list of public Fediverse services.
 | `luga.at` | No |
 | `lugal.io` | No |
 | `lugarzinho.top` | No |
+| `lugbz.social` | No |
 | `lugiaberry.art` | No |
 | `luglufa.com` | No |
 | `lugnasad.eu` | No |
@@ -37761,6 +37763,7 @@ Here's a list of public Fediverse services.
 | `rubensolvang.no` | No |
 | `rubi.gd` | Yes |
 | `rubiez.eu` | No |
+| `rubikoid.ru` | Yes |
 | `rubincloud.com` | No |
 | `ruby.social` | No |
 | `ruby2sday.net` | Yes |
@@ -46466,7 +46469,7 @@ Here's a list of public Fediverse services.
 | `uu.org` | No |
 | `uuchten.lu` | No |
 | `uuh.li` | No |
-| `uuu.moe` | No |
+| `uuu.moe` | Yes |
 | `uuuchu.com` | No |
 | `uuxo.net` | No |
 | `uvcat.com` | No |
@@ -49558,6 +49561,7 @@ Here's a list of public Fediverse services.
 | `yuangezhizao.cn` | Yes |
 | `yuanzu.ml` | No |
 | `yubal.blog` | No |
+| `yubal.fm` | No |
 | `yubarira.net` | Yes |
 | `yude.jp` | Yes |
 | `yude.moe` | Yes |
@@ -50227,8 +50231,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,151 |
-| Normal | 36,028 |
+| Cloudflare | 14,154 |
+| Normal | 36,029 |
 
 
 </details>
