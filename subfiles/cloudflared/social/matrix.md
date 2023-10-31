@@ -27,9 +27,11 @@ Here's a list of public Matrix services.
 | alternanet.fr | No |
 | matrix.archaeo.social | No |
 | aria.im | No |
+| matrix.badstuebner.biz | No |
 | synapse.bark.lgbt | Yes |
 | bolha.chat | Yes |
 | breeze.town | No |
+| matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
@@ -57,7 +59,6 @@ Here's a list of public Matrix services.
 | matrix.grin.hu | No |
 | matrix.group.lt | Yes |
 | hackerspaces.be | No |
-| hackliberty.org | No |
 | matrix.hadoly.fr | No |
 | chatserver.hashi.sbs | Yes |
 | hot-chilli.im | No |
@@ -78,7 +79,7 @@ Here's a list of public Matrix services.
 | matrix.oikei.net | No |
 | matrix.ombreport.info | No |
 | pcriot.org | Yes |
-| perthchat.org | Yes |
+| matrix.perthchat.org | Yes |
 | matrix.pikaviestin.fi | No |
 | matrix.plus.st | No |
 | possum.city | Yes |
@@ -114,7 +115,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 20 |
-| Normal | 66 |
+| Normal | 67 |
 
 
-### 23.3% of public Matrix services are using Cloudflare.
+### 23% of public Matrix services are using Cloudflare.
