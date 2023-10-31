@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,884 |
+| com | 7,885 |
 | social | 4,650 |
-| net | 3,919 |
+| net | 3,920 |
 | org | 2,621 |
 | de | 2,456 |
 
@@ -3509,6 +3509,7 @@ Here's a list of public Fediverse services.
 | `avoel.de` | No |
 | `avogadro.cc` | Yes |
 | `avoh.club` | No |
+| `avoid.earth` | Yes |
 | `avoidgamesdev.com` | Yes |
 | `avpd.social` | No |
 | `avtobiografia.com` | Yes |
@@ -4418,6 +4419,7 @@ Here's a list of public Fediverse services.
 | `beratna.net` | No |
 | `berdaguermontes.eu` | No |
 | `berdi.xyz` | No |
+| `berendt.me` | Yes |
 | `berezowski.de` | No |
 | `berg.cl` | No |
 | `berg.social` | No |
@@ -5235,6 +5237,7 @@ Here's a list of public Fediverse services.
 | `bmgn.rs` | No |
 | `bmhorn.de` | No |
 | `bminde.com` | No |
+| `bmjja.network` | No |
 | `bmrf.institute` | Yes |
 | `bms.social` | Yes |
 | `bmu.cloud` | No |
@@ -9954,6 +9957,7 @@ Here's a list of public Fediverse services.
 | `decentralizemontreal.org` | No |
 | `decept.org` | No |
 | `decepticons.eu.org` | Yes |
+| `deception.codes` | No |
 | `decharriere.fr` | No |
 | `deciditalia.it` | No |
 | `decisiveliberty.news` | Yes |
@@ -10392,6 +10396,7 @@ Here's a list of public Fediverse services.
 | `devopsgenius.com` | No |
 | `devosi.org` | No |
 | `devosmium.xyz` | Yes |
+| `devotion.al` | Yes |
 | `devouredbyverm.in` | No |
 | `devpg.net` | Yes |
 | `devpi.de` | No |
@@ -13217,6 +13222,7 @@ Here's a list of public Fediverse services.
 | `fabiorusso.net` | No |
 | `fabis.cafe` | No |
 | `fabler.su` | No |
+| `fabriders.net` | No |
 | `fabrigli.fr` | No |
 | `fabriquedelatransition.fr` | No |
 | `fabulous.social` | No |
@@ -13359,6 +13365,7 @@ Here's a list of public Fediverse services.
 | `familyoasis.eu` | No |
 | `familyofme.com` | No |
 | `familysolidarity.org` | No |
+| `familytech.club` | Yes |
 | `famjam.social` | Yes |
 | `famkos.net` | No |
 | `famline.ru` | Yes |
@@ -15370,6 +15377,7 @@ Here's a list of public Fediverse services.
 | `functor.pro` | No |
 | `funcube.space` | No |
 | `fundraising.social` | No |
+| `funfedi.dev` | No |
 | `funfunmstdn.tokyo` | Yes |
 | `fungalhalo.com` | No |
 | `funigtor.fr` | No |
@@ -25924,6 +25932,7 @@ Here's a list of public Fediverse services.
 | `mani.tube` | No |
 | `mania.systems` | No |
 | `maniakey.com` | Yes |
+| `maniakey.homes` | Yes |
 | `manialabs.us` | No |
 | `manicphase.me` | No |
 | `manifesteden.com` | No |
@@ -27959,6 +27968,7 @@ Here's a list of public Fediverse services.
 | `mindlesstux.com` | Yes |
 | `mindly.photos` | Yes |
 | `mindly.social` | Yes |
+| `mindofaaronw.com` | No |
 | `mindofjoe.xyz` | No |
 | `mindoki.com` | No |
 | `mindpalace.io` | Yes |
@@ -33078,6 +33088,7 @@ Here's a list of public Fediverse services.
 | `owo.town` | No |
 | `owonet.work` | Yes |
 | `owotel.com` | Yes |
+| `owovo.cc` | Yes |
 | `oxasploits.com` | Yes |
 | `oxel.me` | No |
 | `oxente.club` | No |
@@ -34566,6 +34577,7 @@ Here's a list of public Fediverse services.
 | `plesiosaur.net` | No |
 | `plesiosauria.com` | Yes |
 | `plethodon.nl` | No |
+| `pletnet.io` | No |
 | `plextube.nl` | Yes |
 | `plfgr.eu.org` | No |
 | `pliocene.org` | No |
@@ -39236,6 +39248,7 @@ Here's a list of public Fediverse services.
 | `servperso.net` | Yes |
 | `servus.at` | No |
 | `servus.social` | Yes |
+| `session.nz` | No |
 | `setariam.net` | Yes |
 | `setecastronomy.dev` | No |
 | `sethb.com` | No |
@@ -41406,6 +41419,7 @@ Here's a list of public Fediverse services.
 | `starlink.cz` | No |
 | `starlit.city` | No |
 | `starly.blue` | Yes |
+| `starlyth.one` | No |
 | `starmade.de` | No |
 | `starnet.cz` | No |
 | `starnix.network` | Yes |
@@ -50234,8 +50248,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,156 |
-| Normal | 36,030 |
+| Cloudflare | 14,162 |
+| Normal | 36,038 |
 
 
 </details>
