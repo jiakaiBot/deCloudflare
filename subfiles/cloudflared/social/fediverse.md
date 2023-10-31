@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,881 |
+| com | 7,882 |
 | social | 4,649 |
 | net | 3,917 |
 | org | 2,621 |
@@ -46498,6 +46498,7 @@ Here's a list of public Fediverse services.
 | `uxint.ro` | No |
 | `uxp.de` | No |
 | `uxroux.xyz` | No |
+| `uyamisskey.com` | No |
 | `uyghur.life` | No |
 | `uysocial.live` | No |
 | `uzla.net` | No |
@@ -50223,7 +50224,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,150 |
-| Normal | 36,024 |
+| Normal | 36,025 |
 
 
 </details>
