@@ -27438,6 +27438,7 @@ Here's a list of public Fediverse services.
 | `meowmeow.gay` | No |
 | `meowr.me` | No |
 | `meowr.org` | No |
+| `meows.gay` | No |
 | `meows.life` | Yes |
 | `meows.lol` | Yes |
 | `meowsdeluxe.com` | No |
@@ -50224,7 +50225,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,150 |
-| Normal | 36,025 |
+| Normal | 36,026 |
 
 
 </details>
