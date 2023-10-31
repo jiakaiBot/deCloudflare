@@ -5840,6 +5840,7 @@ Here's a list of public Fediverse services.
 | `broniesaustralia.com.au` | Yes |
 | `brontoforum.us` | No |
 | `brontosin.space` | No |
+| `brony.lgbt` | Yes |
 | `bronyfurry.com` | Yes |
 | `bronzedrose.com` | Yes |
 | `brookshelley.com` | Yes |
@@ -24933,6 +24934,7 @@ Here's a list of public Fediverse services.
 | `lond.com.br` | Yes |
 | `londonleathermen.co.uk` | No |
 | `londonsocial.uk` | No |
+| `londontlife.ca` | No |
 | `londontopia.net` | No |
 | `lone-starr.net` | No |
 | `loneliness.academy` | No |
@@ -50250,8 +50252,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,162 |
-| Normal | 36,040 |
+| Cloudflare | 14,163 |
+| Normal | 36,041 |
 
 
 </details>
