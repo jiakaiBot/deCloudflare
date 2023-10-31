@@ -3368,6 +3368,7 @@ Do not create new issue or we will close it as duplicate.
 | [DuNguyn89445274@twitter](https://twitter.com/DuNguyn89445274/status/1386448298647515143) | advertise |
 | [Dungxl14@twitter](https://twitter.com/Dungxl14/status/1552353203634593793) | advertise |
 | [Dunn2510@twitter](https://twitter.com/Dunn2510/status/1712066416202129789) | advertise |
+| [duoc_phat12359@twitter](https://twitter.com/duoc_phat12359/status/1719143336538460629) | advertise |
 | [Duong12Dam@twitter](https://twitter.com/Duong12Dam/status/1552620886427021312) | advertise |
 | [Duong1276@twitter](https://twitter.com/Duong1276/status/1557186487229513728) | advertise |
 | [Duong41002533@twitter](https://twitter.com/Duong41002533/status/1553440020484145153) | advertise |
@@ -5080,6 +5081,7 @@ Do not create new issue or we will close it as duplicate.
 | [HtetWai89485332@twitter](https://twitter.com/HtetWai89485332/status/1382181925293498368) | advertise |
 | [HtetWai99723691@twitter](https://twitter.com/HtetWai99723691/status/1397067393046704129) | advertise |
 | [HtetWaiMyint2@twitter](https://twitter.com/HtetWaiMyint2/status/1395036857876893702) | advertise |
+| [htetyanaung442@twitter](https://twitter.com/htetyanaung442/status/1719172273658372404) | advertise |
 | [HtetYiMon2@twitter](https://twitter.com/HtetYiMon2/status/1392293207229157377) | advertise |
 | [htetzaw95650832@twitter](https://twitter.com/htetzaw95650832/status/1391332044152709121) | advertise |
 | [Htet_Arkar_Aung@twitter](https://twitter.com/Htet_Arkar_Aung/status/1392001356081291264) | advertise |
@@ -8589,6 +8591,7 @@ Do not create new issue or we will close it as duplicate.
 | [MohsenEslami18@twitter](https://twitter.com/MohsenEslami18/status/1501860809902800896) | advertise |
 | [Mohsens57097622@twitter](https://twitter.com/Mohsens57097622/status/1578132948490285059) | advertise |
 | [mohsensaket@twitter](https://twitter.com/mohsensaket/status/1622127755042213888) | advertise |
+| [Mohsin29384808@twitter](https://twitter.com/Mohsin29384808/status/1719164798753988769) | advertise |
 | [mohsin84638488@twitter](https://twitter.com/mohsin84638488/status/1390823225731387398) | advertise |
 | [Moh_Al_mustfa@twitter](https://twitter.com/Moh_Al_mustfa/status/1529754425631330309) | advertise |
 | [MoiBoi93529548@twitter](https://twitter.com/MoiBoi93529548/status/1534005903737114624) | advertise |
@@ -9715,6 +9718,7 @@ Do not create new issue or we will close it as duplicate.
 | [NotNiceKun@twitter](https://twitter.com/NotNiceKun/status/1711673805368889692) | advertise |
 | [NOTOBIAAA@twitter](https://twitter.com/NOTOBIAAA/status/1602277691423657984) | advertise |
 | [notpotato_88@twitter](https://twitter.com/notpotato_88/status/1542086639077703680) | advertise |
+| [notrealbeanx@twitter](https://twitter.com/notrealbeanx/status/1719160646065902069) | advertise |
 | [nottsonline1@twitter](https://twitter.com/nottsonline1/status/1519043499328421900) | advertise |
 | [notwaytoomuch@twitter](https://twitter.com/notwaytoomuch/status/1396359332447485953) | advertise |
 | [notzin_@twitter](https://twitter.com/notzin_/status/1643674348056715274) | advertise |
