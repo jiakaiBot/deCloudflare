@@ -14,17 +14,18 @@ Here's the result.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 453,273 |
-| Normal | 546,715 |
+| Cloudflare | 453,825 |
+| Normal | 546,164 |
 
 
-# 45.33%
+# 45.38%
 ### of top most popular domains are using Cloudflare.
 
 ----
 
 | About | Total Domains | Cloudflare | % |
 | --- | --- | --- | --- |
+| 2023-10-30 | 999,989 | 453,825 | 45.4% |
 | 2023-10-29 | 999,988 | 453,273 | 45.3% |
 | 2023-10-28 | 999,988 | 452,868 | 45.3% |
 | 2023-10-27 | 999,988 | 452,486 | 45.2% |
