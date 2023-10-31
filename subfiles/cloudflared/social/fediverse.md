@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,885 |
+| com | 7,886 |
 | social | 4,650 |
 | net | 3,920 |
 | org | 2,621 |
@@ -37513,6 +37513,7 @@ Here's a list of public Fediverse services.
 | `rokugan.fr` | No |
 | `rolandinsh.lv` | Yes |
 | `rolandmicroblog.com` | No |
+| `rolandturner.com` | No |
 | `roleplaycastle.com` | Yes |
 | `roli.cloud` | No |
 | `roli.io` | Yes |
@@ -50249,7 +50250,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,162 |
-| Normal | 36,038 |
+| Normal | 36,039 |
 
 
 </details>
