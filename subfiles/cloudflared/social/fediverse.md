@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,882 |
+| com | 7,883 |
 | social | 4,649 |
 | net | 3,917 |
 | org | 2,621 |
@@ -8288,7 +8288,7 @@ Here's a list of public Fediverse services.
 | `control9.dev` | No |
 | `controlfreak.live` | No |
 | `controverse.tube` | No |
-| `contz.com` | No |
+| `contz.com` | Yes |
 | `convade.com` | No |
 | `convenient.email` | No |
 | `convergence.cx` | No |
@@ -18374,6 +18374,7 @@ Here's a list of public Fediverse services.
 | `histoirescrepues.fr` | No |
 | `historiador.nom.es` | No |
 | `historians.social` | No |
+| `historiasdagomeira.com` | No |
 | `history.lol` | No |
 | `historyhorde.com` | No |
 | `historywalksvenice.com` | No |
@@ -48755,6 +48756,7 @@ Here's a list of public Fediverse services.
 | `xaetacore.net` | No |
 | `xajh.org` | Yes |
 | `xalapacode.com` | No |
+| `xalla.day` | No |
 | `xaloc.space` | No |
 | `xalthe.com` | Yes |
 | `xaltsc.dev` | No |
@@ -50225,8 +50227,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,150 |
-| Normal | 36,027 |
+| Cloudflare | 14,151 |
+| Normal | 36,028 |
 
 
 </details>
