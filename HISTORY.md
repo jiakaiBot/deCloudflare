@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-10-31: [Cloudflare Cloud Access Security Broker (CASB) Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5gxykrgdpnl0)
 - 2023-10-29: [429 errors when creating or modifying logpush jobs](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wwvytl5wbtrf)
 - 2023-10-27: [Cloudflare Waiting Room Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2p42p11lz395)
 - 2023-10-27: [Cloudflare Page Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vn90n8sr94km)
