@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,886 |
+| com | 7,887 |
 | social | 4,650 |
 | net | 3,920 |
 | org | 2,621 |
@@ -6403,6 +6403,7 @@ Here's a list of public Fediverse services.
 | `camsturba.com` | Yes |
 | `camthoms.com` | Yes |
 | `canadafriendfinder.com` | No |
+| `canadiancivil.com` | No |
 | `canadianveggie.com` | No |
 | `canal.social` | No |
 | `canalsidecoach.app` | Yes |
@@ -50250,7 +50251,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,162 |
-| Normal | 36,039 |
+| Normal | 36,040 |
 
 
 </details>
