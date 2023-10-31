@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,883 |
+| com | 7,884 |
 | social | 4,650 |
-| net | 3,917 |
+| net | 3,919 |
 | org | 2,621 |
 | de | 2,456 |
 
@@ -21376,6 +21376,7 @@ Here's a list of public Fediverse services.
 | `jtmn.dev` | Yes |
 | `jtn.us` | No |
 | `jtown.xyz` | No |
+| `jtrem.com` | Yes |
 | `jtrem.me` | No |
 | `jtut.io` | No |
 | `jtworld.net` | No |
@@ -31912,6 +31913,7 @@ Here's a list of public Fediverse services.
 | `objc.social` | No |
 | `object.lol` | No |
 | `objective.ninja` | No |
+| `objectnets.net` | No |
 | `objectopia.xyz` | No |
 | `objektiv2.net` | Yes |
 | `obkkszd.club` | Yes |
@@ -34044,6 +34046,7 @@ Here's a list of public Fediverse services.
 | `photois.art` | No |
 | `photojournalist.social` | Yes |
 | `photoku.info` | Yes |
+| `photolovers.net` | Yes |
 | `photon.surf` | Yes |
 | `photonflux.club` | No |
 | `photophrenic.online` | No |
@@ -50231,8 +50234,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,154 |
-| Normal | 36,029 |
+| Cloudflare | 14,156 |
+| Normal | 36,030 |
 
 
 </details>
