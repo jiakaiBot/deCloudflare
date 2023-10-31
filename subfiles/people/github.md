@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Make jwks-rsa resilient in the face of inability to access the underlying JWKS](https://github.com/auth0/node-jwks-rsa/issues/385)
 - [Failure to load script is not handled](https://github.com/marsidev/react-turnstile/issues/40)
 - [CloudFlare Cloudflare Pages, Workers KV and Cloudflare Access Availability Issues](https://github.com/SecOpsNews/news/issues/20661)
 - [CloudFlare Cloudflare Pages, Workers KV and Cloudflare Access Availability Issues](https://github.com/hinoshiba/news/issues/5367)
