@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,887 |
+| com | 7,888 |
 | social | 4,650 |
 | net | 3,920 |
 | org | 2,621 |
@@ -18153,6 +18153,7 @@ Here's a list of public Fediverse services.
 | `herrspitau.de` | No |
 | `herrtxbias.net` | Yes |
 | `herry001.cc` | Yes |
+| `hersch.xyz` | Yes |
 | `hersecret.fi` | Yes |
 | `herstand.social` | No |
 | `herthafans.de` | No |
@@ -22548,6 +22549,7 @@ Here's a list of public Fediverse services.
 | `kittyunpretty.com` | No |
 | `kittyverse.co` | No |
 | `kitunetya-ya-mastdom.com` | No |
+| `kitwalz.xyz` | No |
 | `kity.wtf` | Yes |
 | `kitzmiller.social` | No |
 | `kivantium.ai` | No |
@@ -24479,6 +24481,7 @@ Here's a list of public Fediverse services.
 | `limely.social` | No |
 | `limes.pink` | No |
 | `limey.land` | No |
+| `limhimontoya.com` | No |
 | `limilo.com` | Yes |
 | `liminal.club` | No |
 | `liminal.degree` | No |
@@ -50252,8 +50255,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,163 |
-| Normal | 36,041 |
+| Cloudflare | 14,164 |
+| Normal | 36,043 |
 
 
 </details>
