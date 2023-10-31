@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [I can't download NVM on Ubuntu Using Curl](https://github.com/nvm-sh/nvm/issues/3226)
 - [Two-way email address verification](https://github.com/liberapay/liberapay.com/issues/2291)
 - [Make jwks-rsa resilient in the face of inability to access the underlying JWKS](https://github.com/auth0/node-jwks-rsa/issues/385)
 - [Failure to load script is not handled](https://github.com/marsidev/react-turnstile/issues/40)
