@@ -43971,6 +43971,7 @@ Here's a list of public Fediverse services.
 | `thewired.link` | Yes |
 | `thewired.ml` | No |
 | `thewired.online` | No |
+| `thewired.wtf` | No |
 | `thewired.xyz` | No |
 | `thewired.zone` | Yes |
 | `thewiring.com` | Yes |
@@ -50225,7 +50226,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,150 |
-| Normal | 36,026 |
+| Normal | 36,027 |
 
 
 </details>
