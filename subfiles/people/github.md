@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [🚧 API: TextDecoderStream](https://github.com/trilitech/jstz/issues/112)
+- [🚧 API: TextDecoder](https://github.com/trilitech/jstz/issues/110)
 - [Failed to parse withdrawals response from beaconchain](https://github.com/rotki/rotki/issues/6871)
 - [🚀 Feature: Cloudflare Service Token support for Cloudflare Access Auth Provider](https://github.com/backstage/backstage/issues/20924)
 - [I can't download NVM on Ubuntu Using Curl](https://github.com/nvm-sh/nvm/issues/3226)
