@@ -16481,6 +16481,7 @@ Here's a list of public Fediverse services.
 | `glitchbird.com` | Yes |
 | `glitchcity.cc` | No |
 | `glitchcityart.club` | Yes |
+| `glitchpie.gay` | Yes |
 | `glitchwit.ch` | No |
 | `glitchwitch.io` | Yes |
 | `glitchyraptor.space` | No |
@@ -50271,7 +50272,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,177 |
+| Cloudflare | 14,178 |
 | Normal | 36,046 |
 
 
