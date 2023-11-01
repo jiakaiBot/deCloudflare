@@ -116,7 +116,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | iij.jp | Yes |
 | in-berlin.de | No |
 | inria.fr | No |
-| itdept.pro | Yes |
 | itxe.net | Yes |
 | ivnkn.xyz | Yes |
 | jackyes.ovh | No |
@@ -132,7 +131,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | korzhov.dev | No |
 | kpsn.org | Yes |
 | krnl.eu | Yes |
-| kss.ovh | Yes |
 | lacontrevoie.fr | No |
 | lastentarvike.fi | No |
 | lavate.ch | Yes |
@@ -218,12 +216,12 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ssrahul96.xyz | Yes |
 | startupstack.tech | Yes |
 | stvsk.ml | Yes |
+| sundalandia.pp.ua | Yes |
 | switch.ch | No |
 | syaifullah.com | Yes |
 | synology.me | No |
 | syshero.org | No |
 | t53.de | No |
-| techeasy.org | Yes |
 | telekom.de | Yes |
 | therifleman.name | No |
 | tiar.app | No |
@@ -252,8 +250,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 112 |
+| Cloudflare | 110 |
 | Normal | 121 |
 
 
-### 48.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
