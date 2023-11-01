@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,892 |
 | social | 4,651 |
-| net | 3,921 |
+| net | 3,922 |
 | org | 2,622 |
 | de | 2,457 |
 
@@ -30994,6 +30994,7 @@ Here's a list of public Fediverse services.
 | `nistkasten-dresden.de` | No |
 | `nisu.ly` | Yes |
 | `nitadori.jp` | Yes |
+| `nitadori.net` | Yes |
 | `nitalia.uno` | No |
 | `nitech.online` | No |
 | `nitecrew.biz` | No |
@@ -50275,7 +50276,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,182 |
+| Cloudflare | 14,183 |
 | Normal | 36,045 |
 
 
