@@ -30883,6 +30883,7 @@ Here's a list of public Fediverse services.
 | `nijisanji.org` | No |
 | `nijist.info` | No |
 | `nijiura.xyz` | No |
+| `nik.mx` | No |
 | `nikamo.win` | No |
 | `nikayin.social` | No |
 | `nikel.ovh` | No |
@@ -50271,7 +50272,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,177 |
-| Normal | 36,045 |
+| Normal | 36,046 |
 
 
 </details>
