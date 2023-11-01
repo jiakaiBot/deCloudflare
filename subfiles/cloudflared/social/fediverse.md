@@ -10300,7 +10300,7 @@ Here's a list of public Fediverse services.
 | `desmu.fr` | No |
 | `desord.re` | No |
 | `despair.life` | No |
-| `despise.computer` | No |
+| `despise.computer` | Yes |
 | `despora.de` | No |
 | `dess.ga` | No |
 | `dessert.coffee` | No |
@@ -12601,6 +12601,7 @@ Here's a list of public Fediverse services.
 | `eoghann.net` | Yes |
 | `eole.education` | No |
 | `eolh.jp` | No |
+| `eolife.jp` | No |
 | `eonas.me` | No |
 | `eonspace.me` | No |
 | `eope.xyz` | No |
@@ -33580,7 +33581,7 @@ Here's a list of public Fediverse services.
 | `pbk.social` | No |
 | `pbox.dev` | No |
 | `pbs.idv.tw` | Yes |
-| `pbzweihander.dev` | No |
+| `pbzweihander.dev` | Yes |
 | `pbzweihander.social` | Yes |
 | `pc-tiede.de` | No |
 | `pcb.fun` | No |
@@ -41781,7 +41782,7 @@ Here's a list of public Fediverse services.
 | `strangestack.com` | No |
 | `strangetextures.com` | Yes |
 | `strangevistas.com` | No |
-| `strangeweb.page` | No |
+| `strangeweb.page` | Yes |
 | `strangeworld.jp` | Yes |
 | `strangled.net` | Yes |
 | `strapp.co.uk` | Yes |
@@ -50262,8 +50263,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,169 |
-| Normal | 36,045 |
+| Cloudflare | 14,172 |
+| Normal | 36,043 |
 
 
 </details>
