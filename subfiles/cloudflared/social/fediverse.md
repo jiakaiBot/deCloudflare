@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,889 |
+| com | 7,890 |
 | social | 4,651 |
 | net | 3,920 |
 | org | 2,621 |
@@ -5246,6 +5246,7 @@ Here's a list of public Fediverse services.
 | `bn4t.me` | Yes |
 | `bna.social` | No |
 | `bnamed.social` | No |
+| `bndb.sh` | No |
 | `bne.social` | Yes |
 | `bngtzn.se` | Yes |
 | `bnjm.org` | No |
@@ -15323,6 +15324,7 @@ Here's a list of public Fediverse services.
 | `fucksocial.net` | No |
 | `fuckthe.cash` | Yes |
 | `fucktodon.tokyo` | No |
+| `fuckyou.plus` | Yes |
 | `fucs.io` | Yes |
 | `fud.nu` | No |
 | `fudanchii.net` | No |
@@ -36858,7 +36860,7 @@ Here's a list of public Fediverse services.
 | `remorse.us` | No |
 | `remote-shell.net` | No |
 | `remotebutter.social` | Yes |
-| `remoteitout.com` | No |
+| `remoteitout.com` | Yes |
 | `remotelab.uk` | No |
 | `remotenode.host` | Yes |
 | `remoteplay.im` | No |
@@ -49899,6 +49901,7 @@ Here's a list of public Fediverse services.
 | `zenfolie.org` | No |
 | `zenger.nl` | No |
 | `zenmai.org` | No |
+| `zenmelon.com` | No |
 | `zenmischief.com` | No |
 | `zenphp.com` | No |
 | `zenshin.uk` | Yes |
@@ -50259,8 +50262,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,167 |
-| Normal | 36,044 |
+| Cloudflare | 14,169 |
+| Normal | 36,045 |
 
 
 </details>
