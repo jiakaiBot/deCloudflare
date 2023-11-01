@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failed to parse withdrawals response from beaconchain](https://github.com/rotki/rotki/issues/6871)
 - [🚀 Feature: Cloudflare Service Token support for Cloudflare Access Auth Provider](https://github.com/backstage/backstage/issues/20924)
 - [I can't download NVM on Ubuntu Using Curl](https://github.com/nvm-sh/nvm/issues/3226)
 - [Two-way email address verification](https://github.com/liberapay/liberapay.com/issues/2291)
