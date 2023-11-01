@@ -126,6 +126,7 @@ Do not create new issue or we will close it as duplicate.
 | [9kopb@twitter](https://twitter.com/9kopb/status/1585327243127291908) | advertise |
 | [9L4I2vwevY6bAL5@twitter](https://twitter.com/9L4I2vwevY6bAL5/status/1389859334419410951) | advertise |
 | [9m165krat@twitter](https://twitter.com/9m165krat/status/1658789132846649344) | advertise |
+| [9Nftmania@twitter](https://twitter.com/9Nftmania/status/1719729161491906588) | advertise |
 | [9_lose@twitter](https://twitter.com/9_lose/status/1383537124788510722) | advertise |
 | [10a7Chuong79642@twitter](https://twitter.com/10a7Chuong79642/status/1713591186999623998) | advertise |
 | [10Bond100@twitter](https://twitter.com/10Bond100/status/1674415257975128070) | advertise |
