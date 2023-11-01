@@ -73,6 +73,7 @@ Here's a list of public Fediverse services.
 | `0ch.in` | No |
 | `0ch.tv` | Yes |
 | `0chan.ru` | Yes |
+| `0d.gs` | Yes |
 | `0day.agency` | Yes |
 | `0daysto.live` | Yes |
 | `0ddfactory.com` | No |
@@ -258,7 +259,7 @@ Here's a list of public Fediverse services.
 | `141.lv` | No |
 | `14141004.xyz` | Yes |
 | `143420.xyz` | Yes |
-| `1435.es` | No |
+| `1435.es` | Yes |
 | `14kw13.com` | Yes |
 | `14r8.club` | No |
 | `15-15-15.social` | No |
@@ -5645,6 +5646,7 @@ Here's a list of public Fediverse services.
 | `brainsoftener.com` | No |
 | `brainsower.org` | No |
 | `brainsplinter.com` | No |
+| `brainsteam.co.uk` | Yes |
 | `brainstew.co` | No |
 | `brainsuite.social` | No |
 | `brainsys.com` | No |
@@ -50273,8 +50275,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,179 |
-| Normal | 36,046 |
+| Cloudflare | 14,182 |
+| Normal | 36,045 |
 
 
 </details>
