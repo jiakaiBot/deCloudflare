@@ -8053,7 +8053,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8991,6 +8991,7 @@ Here's a list of public Fediverse services.
 | `cunny.finance` | No |
 | `cunny.gay` | Yes |
 | `cunny.moe` | Yes |
+| `cunny.win` | No |
 | `cunnyborea.space` | No |
 | `cuonda.social` | No |
 | `cupcakerob.nl` | No |
@@ -36606,7 +36607,7 @@ Here's a list of public Fediverse services.
 | `rebekahcanada.com` | No |
 | `rebel-lion.uk` | No |
 | `rebel.ar` | Yes |
-| `rebel.lat` | No |
+| `rebel.lat` | Yes |
 | `rebelbase.site` | No |
 | `rebell.at` | Yes |
 | `rebellen.digital` | No |
@@ -43445,6 +43446,7 @@ Here's a list of public Fediverse services.
 | `the-be.at` | No |
 | `the-box.work` | No |
 | `the-brannons.com` | No |
+| `the-bubble.cloud` | Yes |
 | `the-cloud.io` | No |
 | `the-codeboy.com` | Yes |
 | `the-cool.zone` | No |
@@ -50257,8 +50259,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,164 |
-| Normal | 36,045 |
+| Cloudflare | 14,167 |
+| Normal | 36,044 |
 
 
 </details>
