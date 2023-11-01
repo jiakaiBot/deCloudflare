@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,890 |
+| com | 7,892 |
 | social | 4,651 |
-| net | 3,920 |
-| org | 2,621 |
-| de | 2,456 |
+| net | 3,921 |
+| org | 2,622 |
+| de | 2,457 |
 
 
 - Mastodon, Pleroma, etc
@@ -619,7 +619,7 @@ Here's a list of public Fediverse services.
 | `52537887.xyz` | Yes |
 | `5273.me` | Yes |
 | `5280.city` | No |
-| `52poke.net` | No |
+| `52poke.net` | Yes |
 | `52wochen.me` | No |
 | `536.fr` | No |
 | `54nord.net` | No |
@@ -1820,7 +1820,7 @@ Here's a list of public Fediverse services.
 | `alliepa.ca` | No |
 | `allies.social` | No |
 | `allison.social` | No |
-| `allistodon.xyz` | No |
+| `allistodon.xyz` | Yes |
 | `alljoin.me` | No |
 | `allmendenetz.de` | No |
 | `allmers.de` | No |
@@ -4520,6 +4520,7 @@ Here's a list of public Fediverse services.
 | `beyondcombustion.net` | No |
 | `beyondgender.social` | No |
 | `beyondhorizons.eu` | No |
+| `beyondranchfoundation.org` | Yes |
 | `beyondthe7thchamber.com` | No |
 | `beyondwatts.social` | No |
 | `beza.club` | No |
@@ -17236,6 +17237,7 @@ Here's a list of public Fediverse services.
 | `gui.do` | No |
 | `guia.nom.br` | Yes |
 | `guictx.com` | No |
+| `guido-kuehn.de` | No |
 | `guilhermedea.com.br` | No |
 | `guiling.me` | No |
 | `guillaumerouyer.net` | No |
@@ -22420,6 +22422,7 @@ Here's a list of public Fediverse services.
 | `kink.social` | Yes |
 | `kink.town` | No |
 | `kinkcalendar.site` | No |
+| `kinkpic.site` | No |
 | `kinks.wtf` | Yes |
 | `kinkster.dk` | No |
 | `kinktroet.social` | No |
@@ -28872,6 +28875,7 @@ Here's a list of public Fediverse services.
 | `moss.church` | No |
 | `moss.haus` | No |
 | `moss.vegas` | No |
+| `mossandfog.com` | Yes |
 | `mossferatu.monster` | No |
 | `mosso.co.uk` | No |
 | `mossou.com` | Yes |
@@ -33445,6 +33449,7 @@ Here's a list of public Fediverse services.
 | `partyparrot.social` | No |
 | `partypooper.eu` | No |
 | `partytown.space` | No |
+| `parviainen.cc` | No |
 | `parzzix.com` | No |
 | `pas.la` | No |
 | `pasa.co` | No |
@@ -43190,6 +43195,7 @@ Here's a list of public Fediverse services.
 | `television.social` | No |
 | `teleyal.blog` | No |
 | `tellco.ca` | Yes |
+| `tellytips.com` | No |
 | `telmina.com` | No |
 | `telmo.club` | No |
 | `telteltel.com` | No |
@@ -45592,6 +45598,7 @@ Here's a list of public Fediverse services.
 | `tutoteket.no` | No |
 | `tuu.fi` | No |
 | `tuukkao.net` | No |
+| `tuulaniemi.net` | Yes |
 | `tuvie.com` | Yes |
 | `tuwien.ac.at` | No |
 | `tux-mania.de` | No |
@@ -50263,8 +50270,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,172 |
-| Normal | 36,043 |
+| Cloudflare | 14,177 |
+| Normal | 36,045 |
 
 
 </details>
