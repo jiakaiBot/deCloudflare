@@ -2189,6 +2189,7 @@ Do not create new issue or we will close it as duplicate.
 | [c95405246@twitter](https://twitter.com/c95405246/status/1397498966304980999) | advertise |
 | [Cabasy3@twitter](https://twitter.com/Cabasy3/status/1639513438442475520) | advertise |
 | [cabbage0102@twitter](https://twitter.com/cabbage0102/status/1415316191942299651) | advertise |
+| [Cabduraxiim5@twitter](https://twitter.com/Cabduraxiim5/status/1719978646067106174) | advertise |
 | [CabinetsWaverly@twitter](https://twitter.com/CabinetsWaverly/status/1574829182814752793) | advertise |
 | [CADINUDAO2@twitter](https://twitter.com/CADINUDAO2/status/1676699702094430211) | advertise |
 | [CADINUTOKEN@twitter](https://twitter.com/CADINUTOKEN/status/1676699702094430211) | advertise |
@@ -3400,6 +3401,7 @@ Do not create new issue or we will close it as duplicate.
 | [Duykhan72674004@twitter](https://twitter.com/Duykhan72674004/status/1552286002219302913) | advertise |
 | [duykhanh25_01@twitter](https://twitter.com/duykhanh25_01/status/1622990173436014597) | advertise |
 | [DuyKhoi680029@twitter](https://twitter.com/DuyKhoi680029/status/1516811082567852036) | advertise |
+| [Duykoj1987@twitter](https://twitter.com/Duykoj1987/status/1720031247450447970) | advertise |
 | [duylinhhuynh95@twitter](https://twitter.com/duylinhhuynh95/status/1699728684746441076) | advertise |
 | [DuyLuyen5@twitter](https://twitter.com/DuyLuyen5/status/1562075735770427393) | advertise |
 | [duymanh2kk@twitter](https://twitter.com/duymanh2kk/status/1587814651449921536) | advertise |
@@ -5968,6 +5970,7 @@ Do not create new issue or we will close it as duplicate.
 | [JohnJoh28798504@twitter](https://twitter.com/JohnJoh28798504/status/1402285463600304132) | advertise |
 | [JohnKhaing2@twitter](https://twitter.com/JohnKhaing2/status/1395711379818958851) | advertise |
 | [JohnMornin16345@twitter](https://twitter.com/JohnMornin16345/status/1683617686692020224) | advertise |
+| [johnniefp@twitter](https://twitter.com/johnniefp/status/1720044825007755603) | advertise |
 | [johnnyphanjp@twitter](https://twitter.com/johnnyphanjp/status/1553781591222018050) | advertise |
 | [JohnPha40863688@twitter](https://twitter.com/JohnPha40863688/status/1623327693088653315) | advertise |
 | [JohnSmi50780892@twitter](https://twitter.com/JohnSmi50780892/status/1391425220108439560) | advertise |
@@ -11594,6 +11597,7 @@ Do not create new issue or we will close it as duplicate.
 | [SardorDjal47927@twitter](https://twitter.com/SardorDjal47927/status/1678828194009346065) | advertise |
 | [sarim0001@twitter](https://twitter.com/sarim0001/status/1638989278465204224) | advertise |
 | [Sarina63795826@twitter](https://twitter.com/Sarina63795826/status/1396348754521907200) | advertise |
+| [SarkariteLcom@twitter](https://twitter.com/SarkariteLcom/status/1720026136007119320) | advertise |
 | [Sarkyaw6@twitter](https://twitter.com/Sarkyaw6/status/1397057579788820480) | advertise |
 | [SAROJKUMARSAHN9@twitter](https://twitter.com/SAROJKUMARSAHN9/status/1572750407465828352) | advertise |
 | [SarojNa47285916@twitter](https://twitter.com/SarojNa47285916/status/1400432809362149379) | advertise |
@@ -13269,6 +13273,7 @@ Do not create new issue or we will close it as duplicate.
 | [tjxupnex@twitter](https://twitter.com/tjxupnex/status/1394284882130608135) | advertise |
 | [TKDirect_co@twitter](https://twitter.com/TKDirect_co/status/1619744886898712581) | advertise |
 | [TKNguyen12a9@twitter](https://twitter.com/TKNguyen12a9/status/1581408397668548608) | advertise |
+| [tkranjec@twitter](https://twitter.com/tkranjec/status/1719985643797831995) | advertise |
 | [TKTRAN989@twitter](https://twitter.com/TKTRAN989/status/1553103875158450176) | advertise |
 | [tkyawshan@twitter](https://twitter.com/tkyawshan/status/1679925742380150784) | advertise |
 | [TLay75095361@twitter](https://twitter.com/TLay75095361/status/1402574255456284676) | advertise |
