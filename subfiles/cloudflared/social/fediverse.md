@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,652 |
 | net | 3,923 |
 | org | 2,624 |
-| de | 2,458 |
+| de | 2,459 |
 
 
 - Mastodon, Pleroma, etc
@@ -40956,6 +40956,7 @@ Here's a list of public Fediverse services.
 | `sozen.network` | No |
 | `sozial.social` | No |
 | `sozialdemokratie.social` | No |
+| `soziale-schuldnerberatung-hamburg.de` | No |
 | `soziale.cloud` | No |
 | `sozialistis.ch` | No |
 | `sozialwelten.de` | No |
@@ -50291,7 +50292,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,186 |
-| Normal | 36,056 |
+| Normal | 36,057 |
 
 
 </details>
