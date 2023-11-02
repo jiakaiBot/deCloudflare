@@ -1785,6 +1785,7 @@ Here's a list of public Fediverse services.
 | `alisonwilder.net` | Yes |
 | `alisyd.info` | No |
 | `alittle.social` | Yes |
+| `alittleofnothing.co.uk` | No |
 | `alittlestrange.com` | Yes |
 | `alive.bar` | Yes |
 | `alixrossi.corsica` | No |
@@ -50282,7 +50283,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,186 |
-| Normal | 36,047 |
+| Normal | 36,048 |
 
 
 </details>
