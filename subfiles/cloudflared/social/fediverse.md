@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,892 |
 | social | 4,651 |
 | net | 3,922 |
-| org | 2,622 |
+| org | 2,623 |
 | de | 2,457 |
 
 
@@ -8059,7 +8059,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -10993,6 +10993,7 @@ Here's a list of public Fediverse services.
 | `dodam.io` | Yes |
 | `dodge.family` | Yes |
 | `dodge.me.uk` | No |
+| `dodgson.org` | No |
 | `dodgy.download` | No |
 | `dodsorf.as` | No |
 | `doenietzomoeilijk.nl` | No |
@@ -50279,7 +50280,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,183 |
+| Cloudflare | 14,184 |
 | Normal | 36,048 |
 
 
