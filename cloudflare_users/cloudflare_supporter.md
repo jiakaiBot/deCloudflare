@@ -12105,6 +12105,7 @@ Do not create new issue or we will close it as duplicate.
 | [sn_bsb@twitter](https://twitter.com/sn_bsb/status/1664284881843806211) | advertise |
 | [soangtwt@twitter](https://twitter.com/soangtwt/status/1519443593572020224) | advertise |
 | [SobireenK@twitter](https://twitter.com/SobireenK/status/1394443082637070340) | advertise |
+| [socialfurr@twitter](https://twitter.com/socialfurr/status/1719875527748522163) | advertise |
 | [socksadvisor@twitter](https://twitter.com/socksadvisor/status/1675427600347582465) | advertise |
 | [soeaungnaing23@twitter](https://twitter.com/soeaungnaing23/status/1379767879344656384) | advertise |
 | [SoeGyi14472135@twitter](https://twitter.com/SoeGyi14472135/status/1390251552225566723) | advertise |
