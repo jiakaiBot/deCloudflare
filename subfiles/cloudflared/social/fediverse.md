@@ -43,6 +43,7 @@ Here's a list of public Fediverse services.
 | Service | Cloudflared |
 | --- | --- |
 | `0-z-0.com` | No |
+| `000000420.xyz` | Yes |
 | `000090000.xyz` | No |
 | `000webhostapp.com` | No |
 | `0010100.de` | No |
@@ -50293,7 +50294,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,187 |
+| Cloudflare | 14,188 |
 | Normal | 36,058 |
 
 
