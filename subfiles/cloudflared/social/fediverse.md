@@ -671,6 +671,7 @@ Here's a list of public Fediverse services.
 | `616.one` | No |
 | `619.fm` | Yes |
 | `619.ink` | Yes |
+| `619.today` | Yes |
 | `619.zone` | No |
 | `621industries.com` | Yes |
 | `62ki.net` | Yes |
@@ -8058,7 +8059,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -20713,6 +20714,7 @@ Here's a list of public Fediverse services.
 | `jaydns.de` | No |
 | `jaye.sh` | No |
 | `jayfreestone.com` | No |
+| `jaygrant.us` | No |
 | `jaykayenn.net` | No |
 | `jaymcooper.me` | No |
 | `jaypee.solutions` | No |
@@ -50277,7 +50279,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,183 |
-| Normal | 36,045 |
+| Normal | 36,047 |
 
 
 </details>
