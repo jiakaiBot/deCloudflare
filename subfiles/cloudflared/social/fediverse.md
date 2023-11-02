@@ -36999,6 +36999,7 @@ Here's a list of public Fediverse services.
 | `retardcenter.xyz` | No |
 | `retardeddystopia.com` | No |
 | `retardedniggers.forsale` | No |
+| `retchless.us` | No |
 | `rethinkplaces.social` | No |
 | `reticu.li` | No |
 | `retidurc.fr` | No |
@@ -50279,7 +50280,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,183 |
-| Normal | 36,047 |
+| Normal | 36,048 |
 
 
 </details>
