@@ -13754,6 +13754,7 @@ Here's a list of public Fediverse services.
 | `fediland.nl` | No |
 | `fedilemmy.net` | Yes |
 | `fedilove.cyou` | Yes |
+| `fedimagazine.tokyo` | No |
 | `fedimaker.space` | No |
 | `fedimas.com` | Yes |
 | `fedimast.com` | No |
@@ -50292,7 +50293,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,186 |
-| Normal | 36,057 |
+| Normal | 36,058 |
 
 
 </details>
