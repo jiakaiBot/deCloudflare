@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,893 |
+| com | 7,894 |
 | social | 4,652 |
-| net | 3,922 |
+| net | 3,923 |
 | org | 2,624 |
-| de | 2,457 |
+| de | 2,458 |
 
 
 - Mastodon, Pleroma, etc
@@ -2506,6 +2506,7 @@ Here's a list of public Fediverse services.
 | `anto.ie` | No |
 | `antoineve.me` | No |
 | `anton-tartz.de` | No |
+| `antonengelhardt.de` | No |
 | `antonimaroto.com` | No |
 | `antonkovalyov.com` | No |
 | `antonlehmus.me` | No |
@@ -3618,6 +3619,7 @@ Here's a list of public Fediverse services.
 | `aylett.co.uk` | Yes |
 | `aynrand.social` | Yes |
 | `ayntk.net` | No |
+| `ayogo.com` | No |
 | `ayokura.net` | Yes |
 | `ayom.media` | No |
 | `ayotocorp.com` | No |
@@ -28314,6 +28316,7 @@ Here's a list of public Fediverse services.
 | `mixamax.se` | No |
 | `mixed-reality.social` | No |
 | `mixedmedia.page` | Yes |
+| `mixedwrestling.net` | No |
 | `mixer.lt` | No |
 | `mixin.love` | No |
 | `mixremix.cc` | No |
@@ -28457,6 +28460,7 @@ Here's a list of public Fediverse services.
 | `mobi.com` | Yes |
 | `mobie.live` | No |
 | `mobihb.org` | No |
+| `mobile-adenum.fr` | No |
 | `mobile-bot.de` | No |
 | `mobile.co` | Yes |
 | `mobile.st` | No |
@@ -37231,6 +37235,7 @@ Here's a list of public Fediverse services.
 | `rightto.repair` | No |
 | `rigolo.fun` | No |
 | `riichi.me` | Yes |
+| `riin.fr` | No |
 | `riinakw.net` | No |
 | `riinswork.space` | Yes |
 | `rijnbeek.cc` | Yes |
@@ -50286,7 +50291,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,186 |
-| Normal | 36,051 |
+| Normal | 36,056 |
 
 
 </details>
