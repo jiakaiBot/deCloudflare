@@ -10184,6 +10184,7 @@ Here's a list of public Fediverse services.
 | `den.yt` | Yes |
 | `den1.cz` | Yes |
 | `den6262.net` | Yes |
+| `denachtvlinders.nl` | Yes |
 | `dendai.app` | Yes |
 | `denden.world` | No |
 | `dendiz.xyz` | No |
@@ -50292,7 +50293,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,186 |
+| Cloudflare | 14,187 |
 | Normal | 36,058 |
 
 
