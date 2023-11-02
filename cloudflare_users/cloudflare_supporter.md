@@ -2656,6 +2656,7 @@ Do not create new issue or we will close it as duplicate.
 | [crofflendcoffee@twitter](https://twitter.com/crofflendcoffee/status/1536313341504720896) | advertise |
 | [CRONUSISLIVE@twitter](https://twitter.com/CRONUSISLIVE/status/1513956818644783104) | advertise |
 | [crosiderr@twitter](https://twitter.com/crosiderr/status/1379494464545243136) | advertise |
+| [crossdressing00@twitter](https://twitter.com/crossdressing00/status/1720081189497901397) | advertise |
 | [CrowdlingoUK@twitter](https://twitter.com/CrowdlingoUK/status/1676586922381041664) | advertise |
 | [CrusaderConsta1@twitter](https://twitter.com/CrusaderConsta1/status/1524146353596936192) | advertise |
 | [Crush82584793@twitter](https://twitter.com/Crush82584793/status/1396107509656481794) | advertise |
@@ -12796,6 +12797,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThanhT45620763@twitter](https://twitter.com/ThanhT45620763/status/1395078115488014338) | advertise |
 | [Thanhtam2246@twitter](https://twitter.com/Thanhtam2246/status/1394689960955891712) | advertise |
 | [Thanhtam13579@twitter](https://twitter.com/Thanhtam13579/status/1381403664896561154) | advertise |
+| [thanhtankts@twitter](https://twitter.com/thanhtankts/status/1720091868929859732) | advertise |
 | [thanhtei@twitter](https://twitter.com/thanhtei/status/1406758436142940162) | advertise |
 | [ThanhTh09527455@twitter](https://twitter.com/ThanhTh09527455/status/1399966646446346242) | advertise |
 | [thanhth13652194@twitter](https://twitter.com/thanhth13652194/status/1674102662814638080) | advertise |
