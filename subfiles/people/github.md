@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [cf-please-wait selector detecteed but unable to progress further.](https://github.com/FlareSolverr/FlareSolverr/issues/939)
 - [No matching host in p0f cache. That's all we know.](https://github.com/ValdikSS/p0f-mtu/issues/6)
 - [jwt middleware overrides context type](https://github.com/honojs/hono/issues/1639)
 - [Question Troubleshooting cookies disappearing in redirect to another domain](https://github.com/FirefoxBar/HeaderEditor/issues/259)
