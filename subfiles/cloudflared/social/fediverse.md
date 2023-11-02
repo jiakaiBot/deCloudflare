@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,893 |
-| social | 4,651 |
+| social | 4,652 |
 | net | 3,922 |
 | org | 2,623 |
 | de | 2,457 |
@@ -16096,6 +16096,7 @@ Here's a list of public Fediverse services.
 | `genderversefurries.com` | No |
 | `gendon.jp` | No |
 | `geneadon.social` | No |
+| `genealogie.social` | No |
 | `genealogy.social` | No |
 | `genealysis.social` | Yes |
 | `generally.online` | No |
@@ -40250,6 +40251,7 @@ Here's a list of public Fediverse services.
 | `sloth.run` | No |
 | `slothcloud.com` | No |
 | `slothfc.net` | No |
+| `sloths.chat` | No |
 | `sloths.club` | Yes |
 | `slothy.win` | Yes |
 | `slovak.digital` | No |
@@ -50283,7 +50285,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,186 |
-| Normal | 36,048 |
+| Normal | 36,050 |
 
 
 </details>
