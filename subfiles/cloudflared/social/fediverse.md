@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,892 |
+| com | 7,893 |
 | social | 4,651 |
 | net | 3,922 |
 | org | 2,623 |
@@ -12231,6 +12231,7 @@ Here's a list of public Fediverse services.
 | `elemac.fr` | No |
 | `elementality.org` | No |
 | `elementcoop.com` | No |
+| `elementfx.com` | Yes |
 | `elemsys.com` | Yes |
 | `elendia.net` | No |
 | `eleos.space` | No |
@@ -31297,7 +31298,7 @@ Here's a list of public Fediverse services.
 | `nonfren.monster` | No |
 | `nonfungibleart.club` | No |
 | `nongrata.social` | No |
-| `noninjas.com` | No |
+| `noninjas.com` | Yes |
 | `nonlinear.zone` | No |
 | `nonn.io` | Yes |
 | `nonnewtoniangoblins.pw` | No |
@@ -50280,8 +50281,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,184 |
-| Normal | 36,048 |
+| Cloudflare | 14,186 |
+| Normal | 36,047 |
 
 
 </details>
