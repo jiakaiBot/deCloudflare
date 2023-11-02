@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,893 |
 | social | 4,652 |
 | net | 3,922 |
-| org | 2,623 |
+| org | 2,624 |
 | de | 2,457 |
 
 
@@ -47088,6 +47088,7 @@ Here's a list of public Fediverse services.
 | `virtualarchitectures.social` | No |
 | `virtualkemomimi.net` | Yes |
 | `virtuallyhillbilly.com` | No |
+| `virtualmoose.org` | No |
 | `virtualprivateserver.space` | No |
 | `virtualrocketwatching.net` | No |
 | `virtualsanity.com` | No |
@@ -50285,7 +50286,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,186 |
-| Normal | 36,050 |
+| Normal | 36,051 |
 
 
 </details>
