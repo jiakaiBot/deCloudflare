@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,897 |
+| com | 7,898 |
 | social | 4,653 |
-| net | 3,924 |
+| net | 3,925 |
 | org | 2,624 |
 | de | 2,459 |
 
@@ -8969,6 +8969,7 @@ Here's a list of public Fediverse services.
 | `cuiguan.com` | Yes |
 | `cuillin.net` | No |
 | `cuitan.id` | No |
+| `cuiwei.net` | No |
 | `cujian.com` | No |
 | `cuken.net` | Yes |
 | `culair.nl` | No |
@@ -14941,6 +14942,7 @@ Here's a list of public Fediverse services.
 | `freeball.in` | No |
 | `freebeer.com` | No |
 | `freebird.gdn` | No |
+| `freebird.in` | Yes |
 | `freebird.social` | No |
 | `freebirds.live` | Yes |
 | `freebnc.net` | Yes |
@@ -16403,6 +16405,7 @@ Here's a list of public Fediverse services.
 | `girlslove.pink` | No |
 | `girlthing.chat` | No |
 | `girly.monster` | No |
+| `girmamog.es` | No |
 | `giroguy.com` | Yes |
 | `girondi.net` | Yes |
 | `gist.social` | No |
@@ -20196,6 +20199,7 @@ Here's a list of public Fediverse services.
 | `ishare4free.com` | No |
 | `ishikaridon.jp` | No |
 | `ishikun.me` | No |
+| `ishikuro.info` | No |
 | `ishygddt.xyz` | No |
 | `isibboi.de` | No |
 | `isidai.com` | No |
@@ -30273,6 +30277,7 @@ Here's a list of public Fediverse services.
 | `neko.chat` | No |
 | `neko.ci` | Yes |
 | `neko.computer` | Yes |
+| `neko.party` | Yes |
 | `neko.pics` | No |
 | `neko.space` | No |
 | `neko.st` | Yes |
@@ -31081,6 +31086,7 @@ Here's a list of public Fediverse services.
 | `nlemmy.nl` | No |
 | `nlgcuba.org` | No |
 | `nlhiphop.nl` | No |
+| `nlmakers.ca` | No |
 | `nlogic.systems` | No |
 | `nlpagan.net` | No |
 | `nlpaige.me` | No |
@@ -39351,6 +39357,7 @@ Here's a list of public Fediverse services.
 | `sfcc.social` | No |
 | `sfcoder.social` | No |
 | `sfconservancy.org` | No |
+| `sfe.pics` | No |
 | `sffa.community` | No |
 | `sffgeek.com` | Yes |
 | `sffpc.io` | Yes |
@@ -46963,6 +46970,7 @@ Here's a list of public Fediverse services.
 | `vicheidman.com` | No |
 | `vici0.us` | No |
 | `vicia.net` | Yes |
+| `vicicode.com` | Yes |
 | `vickerson.me` | No |
 | `victimcache.com` | Yes |
 | `victor.earth` | Yes |
@@ -49455,6 +49463,7 @@ Here's a list of public Fediverse services.
 | `yip.computer` | No |
 | `yip.fm` | Yes |
 | `yip.gay` | No |
+| `yishibashi.me` | Yes |
 | `yistc.me` | Yes |
 | `yjin.dev` | Yes |
 | `yjk.im` | Yes |
@@ -50304,8 +50313,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,192 |
-| Normal | 36,064 |
+| Cloudflare | 14,196 |
+| Normal | 36,069 |
 
 
 </details>
