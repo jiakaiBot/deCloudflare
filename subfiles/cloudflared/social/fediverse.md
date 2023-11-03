@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,894 |
+| com | 7,895 |
 | social | 4,652 |
 | net | 3,924 |
 | org | 2,624 |
@@ -585,6 +585,7 @@ Here's a list of public Fediverse services.
 | `4lgorhythm.io` | No |
 | `4liberty.one` | Yes |
 | `4lima.de` | Yes |
+| `4m-mazi.dev` | Yes |
 | `4metal.info` | No |
 | `4nanai.com` | Yes |
 | `4netguides.com` | No |
@@ -39537,6 +39538,7 @@ Here's a list of public Fediverse services.
 | `shin.pp.ua` | No |
 | `shina-rimo.cafe` | No |
 | `shinaaamo.com` | Yes |
+| `shinamikaidou42.com` | Yes |
 | `shinamikaidou42.net` | Yes |
 | `shinbunbun.com` | Yes |
 | `shinchanwigulu.net` | No |
@@ -50296,7 +50298,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,186 |
+| Cloudflare | 14,188 |
 | Normal | 36,062 |
 
 
