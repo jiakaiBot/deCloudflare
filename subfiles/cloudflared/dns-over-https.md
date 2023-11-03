@@ -233,11 +233,9 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | uplenk.com | Yes |
 | virga.pp.ua | Yes |
 | vishalk.com | No |
-| vmath.my.id | Yes |
 | waifu.cz | Yes |
 | wang.art | Yes |
 | waringer-atg.de | No |
-| wibenson.cloud | Yes |
 | wikimedia-dns.org | No |
 | xaoimoon.fr | No |
 | xcom.pro | No |
@@ -249,8 +247,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 109 |
+| Cloudflare | 107 |
 | Normal | 121 |
 
 
-### 47.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
