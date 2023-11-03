@@ -231,6 +231,7 @@ Here's a list of breached sites.
 | FantasyFootballHub (Fantasy Football Hub) | 66,479 | Yes |
 | FashionFantasyGame | 2,357,872 | Yes |
 | FilmaiIn (Filmai.in) | 645,786 | No |
+| Fitmart | 214,492 | Yes |
 | FlashFlashRevolution (Flash Flash Revolution (2016 breach)) | 1,771,845 | Yes |
 | FlashFlashRevolution2019 (Flash Flash Revolution (2019 breach)) | 1,858,124 | Yes |
 | Flashback | 40,256 | No |
@@ -435,7 +436,7 @@ Here's a list of breached sites.
 | Onverse | 800,157 | Yes |
 | OpenCSGO (Open CS:GO) | 512,311 | No |
 | OpenSubtitles (Open Subtitles) | 6,783,158 | Yes |
-| OrderSnapp | 1,304,447 | Yes |
+| OrderSnapp | 1,304,447 | No |
 | OrdineAvvocatiDiRoma (Ordine Avvocati di Roma) | 41,960 | No |
 | OwnedCore | 880,331 | Yes |
 | Oxfam | 1,834,006 | Yes |
@@ -646,7 +647,7 @@ Here's a list of breached sites.
 | WeLeakInfo | 11,788 | Yes |
 | WedMeGood | 1,306,723 | No |
 | Weee | 1,117,405 | Yes |
-| Wendys (Wendy's) | 52,485 | No |
+| Wendys (Wendy's) | 52,485 | Yes |
 | WhiteRoom (Fashion Nexus) | 1,279,263 | No |
 | Whitepages | 11,657,763 | Yes |
 | WifeLovers (Wife Lovers) | 1,274,051 | No |
@@ -706,10 +707,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 400 | 4,494,280,661 |
-| Normal | 285 | 4,510,519,902 |
+| Cloudflare | 401 | 4,493,243,191 |
+| Normal | 285 | 4,511,771,864 |
 
 
 
-### 58.4% of breached sites (pwned sites) are using Cloudflare.
+### 58.5% of breached sites (pwned sites) are using Cloudflare.
 ### 49.9% of leaked accounts are on Cloudflare sites.
