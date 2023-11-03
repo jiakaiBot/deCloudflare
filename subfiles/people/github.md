@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare: Sorry, you have been blocked](https://github.com/laurent22/joplin/issues/9205)
+- [failed to find previous record](https://github.com/kubernetes-sigs/external-dns/issues/4018)
 - [Tunenl is not created](https://github.com/brenner-tobias/ha-addons/issues/16)
 - [Cloudflare is down, and so I cannot run 'npm run dev'](https://github.com/Shopify/cli/issues/3065)
 - [HELP: Could not start Cloudflare tunnel](https://github.com/Shopify/cli/issues/3060)
