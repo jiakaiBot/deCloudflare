@@ -14886,6 +14886,7 @@ Here's a list of public Fediverse services.
 | `franziskaner-der-erneuerung.de` | Yes |
 | `fratm.com` | No |
 | `fraudon.jp` | No |
+| `fraudulent.link` | No |
 | `fraunhofer.de` | No |
 | `frawas.de` | No |
 | `frazee.social` | No |
@@ -34135,7 +34136,7 @@ Here's a list of public Fediverse services.
 | `piaf.eu` | No |
 | `piaf.im` | No |
 | `piaille.fr` | No |
-| `pianyu.cyou` | Yes |
+| `pianyu.cyou` | No |
 | `piaste.it` | No |
 | `piatrouski.com` | No |
 | `piaty.ovh` | No |
@@ -50294,8 +50295,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,188 |
-| Normal | 36,058 |
+| Cloudflare | 14,187 |
+| Normal | 36,060 |
 
 
 </details>
