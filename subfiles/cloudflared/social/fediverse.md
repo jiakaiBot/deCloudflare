@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,896 |
-| social | 4,652 |
+| com | 7,897 |
+| social | 4,653 |
 | net | 3,924 |
 | org | 2,624 |
 | de | 2,459 |
@@ -3744,6 +3744,7 @@ Here's a list of public Fediverse services.
 | `babic.dev` | No |
 | `babicz.social` | Yes |
 | `babka.social` | Yes |
+| `babumenos.com` | No |
 | `babuu.club` | No |
 | `babuu.jp` | No |
 | `babycastles.com` | No |
@@ -29473,6 +29474,7 @@ Here's a list of public Fediverse services.
 | `mushroomfm.com` | No |
 | `mushus.net` | No |
 | `music.blog` | No |
+| `music.social` | No |
 | `musicafolk.es` | No |
 | `musicbyyo.com` | Yes |
 | `musicdn.jp` | No |
@@ -40267,7 +40269,7 @@ Here's a list of public Fediverse services.
 | `sloth.run` | No |
 | `slothcloud.com` | No |
 | `slothfc.net` | No |
-| `sloths.chat` | No |
+| `sloths.chat` | Yes |
 | `sloths.club` | Yes |
 | `slothy.win` | Yes |
 | `slovak.digital` | No |
@@ -50302,8 +50304,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,191 |
-| Normal | 36,063 |
+| Cloudflare | 14,192 |
+| Normal | 36,064 |
 
 
 </details>
