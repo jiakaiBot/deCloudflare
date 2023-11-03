@@ -363,6 +363,7 @@ Or is this merely a case of simple modesty?
 | Cate Danielson | Employee |  |
 | Catherine Dawson | Business Development |  |
 | Catherine Flagler | Recruiter |  |
+| Cathy Chi | Employee | |
 | Cathy Hsu | Employee |  |
 | Cavin Kindsvogel | Product Strategy Manager |  |
 | Cefan Daniel Rubin | Employee | |
