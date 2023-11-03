@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,895 |
+| com | 7,896 |
 | social | 4,652 |
 | net | 3,924 |
 | org | 2,624 |
@@ -15094,6 +15094,7 @@ Here's a list of public Fediverse services.
 | `freundica.de` | No |
 | `freundliches.de` | Yes |
 | `freundtech.com` | No |
+| `freya.cat` | Yes |
 | `freyachat.eu` | No |
 | `freyahaus.casa` | Yes |
 | `freyhult.net` | No |
@@ -37604,6 +37605,7 @@ Here's a list of public Fediverse services.
 | `ronguest.net` | No |
 | `rongyi.io` | Yes |
 | `ronin.world` | Yes |
+| `ronnieburt.com` | Yes |
 | `ronnilix.eu` | No |
 | `roobre.es` | No |
 | `roocita.com` | Yes |
@@ -50300,7 +50302,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,189 |
+| Cloudflare | 14,191 |
 | Normal | 36,063 |
 
 
