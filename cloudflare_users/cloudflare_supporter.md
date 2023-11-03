@@ -7813,6 +7813,7 @@ Do not create new issue or we will close it as duplicate.
 | [MamMam02043349@twitter](https://twitter.com/MamMam02043349/status/1538613925004333057) | advertise |
 | [MamNaw@twitter](https://twitter.com/MamNaw/status/1400309873594691584) | advertise |
 | [MamunHossain014@twitter](https://twitter.com/MamunHossain014/status/1702591515183497258) | advertise |
+| [man9993pc@twitter](https://twitter.com/man9993pc/status/1720510937076048065) | advertise |
 | [Manauwa43390416@twitter](https://twitter.com/Manauwa43390416/status/1407583135592632321) | advertise |
 | [Manccity2020@twitter](https://twitter.com/Manccity2020/status/1595794881125179392) | advertise |
 | [MandalayThar10@twitter](https://twitter.com/MandalayThar10/status/1391637199444070402) | advertise |
@@ -10314,6 +10315,7 @@ Do not create new issue or we will close it as duplicate.
 | [phmquch57707618@twitter](https://twitter.com/phmquch57707618/status/1566664402803511296) | advertise |
 | [PhmThanhTin14@twitter](https://twitter.com/PhmThanhTin14/status/1397039930153467905) | advertise |
 | [PhmThng47665459@twitter](https://twitter.com/PhmThng47665459/status/1595061155743293449) | advertise |
+| [phmthng75806888@twitter](https://twitter.com/phmthng75806888/status/1720492099030937935) | advertise |
 | [PhmThnh20543076@twitter](https://twitter.com/PhmThnh20543076/status/1394266375892336641) | advertise |
 | [PHMTRNGHN7@twitter](https://twitter.com/PHMTRNGHN7/status/1385132551627444226) | advertise |
 | [Phmvith80312835@twitter](https://twitter.com/Phmvith80312835/status/1486365589744807938) | advertise |
@@ -14803,6 +14805,7 @@ Do not create new issue or we will close it as duplicate.
 | [YoonYoonZon1@twitter](https://twitter.com/YoonYoonZon1/status/1392482729736871937) | advertise |
 | [YoonYuYuNaing1@twitter](https://twitter.com/YoonYuYuNaing1/status/1390247348425478144) | advertise |
 | [Yooo87662562@twitter](https://twitter.com/Yooo87662562/status/1395544104717586435) | advertise |
+| [YordanY94424264@twitter](https://twitter.com/YordanY94424264/status/1720530624107233444) | advertise |
 | [you74352657@twitter](https://twitter.com/you74352657/status/1600588184592826370) | advertise |
 | [YoungHo02960237@twitter](https://twitter.com/YoungHo02960237/status/1391691366099570689) | advertise |
 | [Youngking25555@twitter](https://twitter.com/Youngking25555/status/1536301530193743872) | advertise |
