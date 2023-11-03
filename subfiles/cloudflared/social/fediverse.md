@@ -3123,6 +3123,7 @@ Here's a list of public Fediverse services.
 | `asocial.dk` | No |
 | `asocial.social` | No |
 | `asohh.eu` | No |
+| `asolitarybear.games` | No |
 | `asonix.dog` | No |
 | `asorrybowl.blog` | No |
 | `asozial.me` | No |
@@ -8064,7 +8065,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -34918,6 +34919,7 @@ Here's a list of public Fediverse services.
 | `ponzu-mstdn.com` | No |
 | `poo.li` | No |
 | `poofion.com` | No |
+| `poofy.hair` | No |
 | `pool.social` | No |
 | `poolp.org` | No |
 | `pooltoy.club` | No |
@@ -50298,8 +50300,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,188 |
-| Normal | 36,062 |
+| Cloudflare | 14,189 |
+| Normal | 36,063 |
 
 
 </details>
