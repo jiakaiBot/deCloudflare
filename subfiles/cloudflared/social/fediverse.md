@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,899 |
+| com | 7,900 |
 | social | 4,653 |
 | net | 3,925 |
 | org | 2,624 |
@@ -7477,6 +7477,7 @@ Here's a list of public Fediverse services.
 | `cidiso.com` | No |
 | `ciechom.eu` | Yes |
 | `ciecuo.club` | No |
+| `cienciadoamanha.com` | Yes |
 | `ciffelia.com` | Yes |
 | `cifigal.com` | No |
 | `cigar.cx` | No |
@@ -12648,7 +12649,7 @@ Here's a list of public Fediverse services.
 | `epicalert.xyz` | No |
 | `epicempower.com` | No |
 | `epicfunny.xyz` | No |
-| `epicgamer.org` | No |
+| `epicgamer.org` | Yes |
 | `epicgamer.ovh` | Yes |
 | `epichairekakia.com` | Yes |
 | `epicsheep.com` | Yes |
@@ -50318,8 +50319,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,197 |
-| Normal | 36,073 |
+| Cloudflare | 14,199 |
+| Normal | 36,072 |
 
 
 </details>
