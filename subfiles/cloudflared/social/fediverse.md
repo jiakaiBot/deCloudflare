@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,894 |
 | social | 4,652 |
-| net | 3,923 |
+| net | 3,924 |
 | org | 2,624 |
 | de | 2,459 |
 
@@ -8063,7 +8063,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -26200,6 +26200,7 @@ Here's a list of public Fediverse services.
 | `mas.town` | Yes |
 | `mas2don.org` | No |
 | `mas2k-bp.net` | No |
+| `masakeyart.net` | No |
 | `masato.jp` | Yes |
 | `masatodon.click` | No |
 | `masatodon.com` | No |
@@ -50295,8 +50296,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,187 |
-| Normal | 36,060 |
+| Cloudflare | 14,186 |
+| Normal | 36,062 |
 
 
 </details>
