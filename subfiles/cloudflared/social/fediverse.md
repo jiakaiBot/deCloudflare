@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,898 |
+| com | 7,899 |
 | social | 4,653 |
 | net | 3,925 |
 | org | 2,624 |
-| de | 2,459 |
+| de | 2,461 |
 
 
 - Mastodon, Pleroma, etc
@@ -2780,6 +2780,7 @@ Here's a list of public Fediverse services.
 | `are.nom.co` | No |
 | `are.sexy` | Yes |
 | `area-51.blog` | No |
+| `area404.cloud` | No |
 | `area51.media` | Yes |
 | `area51.social` | Yes |
 | `area893.org` | No |
@@ -10117,6 +10118,7 @@ Here's a list of public Fediverse services.
 | `deleted.land` | No |
 | `deleteyourfacebook.today` | No |
 | `deleuil.studio` | No |
+| `delfinpe.de` | Yes |
 | `deli.st` | Yes |
 | `delic.fi` | No |
 | `delicesbdsm.fr` | Yes |
@@ -12207,6 +12209,7 @@ Here's a list of public Fediverse services.
 | `electricglen.com` | No |
 | `electrickite.org` | No |
 | `electricladylan.net` | No |
+| `electricmonk.de` | No |
 | `electricmonk.social` | No |
 | `electricpaper.love` | No |
 | `electricpea.ch` | No |
@@ -20418,6 +20421,7 @@ Here's a list of public Fediverse services.
 | `iyher.club` | No |
 | `iys.io` | Yes |
 | `izabelamisiak.com` | No |
+| `izanth.xyz` | No |
 | `izaten.net` | Yes |
 | `izayoiwind.net` | No |
 | `izbad.network` | No |
@@ -25628,6 +25632,7 @@ Here's a list of public Fediverse services.
 | `maddux.blog` | No |
 | `maddworld.org` | Yes |
 | `maddypa.ws` | No |
+| `madeleinezeit.com` | No |
 | `madeorsk.com` | No |
 | `madeoutofmeat.com` | No |
 | `madfps.social` | No |
@@ -50313,8 +50318,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,196 |
-| Normal | 36,069 |
+| Cloudflare | 14,197 |
+| Normal | 36,073 |
 
 
 </details>
