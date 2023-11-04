@@ -7,6 +7,8 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-11-04: [Authentication Errors On New R2 Tokens](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gx41btmhkf9m)
+- 2023-11-04: [Some new zones not resolving via DNS](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/k27bk6fc4n14)
 - 2023-11-01: [Issues Deleting Lists](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ykkzyldf0nym)
 - 2023-10-31: [Cloudflare Cloud Access Security Broker (CASB) Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5gxykrgdpnl0)
 - 2023-10-29: [429 errors when creating or modifying logpush jobs](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wwvytl5wbtrf)
