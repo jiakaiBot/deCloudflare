@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,653 |
 | net | 3,928 |
 | org | 2,624 |
-| de | 2,464 |
+| de | 2,465 |
 
 
 - Mastodon, Pleroma, etc
@@ -40860,6 +40860,7 @@ Here's a list of public Fediverse services.
 | `somnium.fi` | Yes |
 | `somsants.net` | No |
 | `somtic.cat` | No |
+| `son3.de` | No |
 | `sona.live` | Yes |
 | `sonanoka.net` | No |
 | `sonar.news` | Yes |
@@ -50339,7 +50340,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,205 |
-| Normal | 36,085 |
+| Normal | 36,086 |
 
 
 </details>
