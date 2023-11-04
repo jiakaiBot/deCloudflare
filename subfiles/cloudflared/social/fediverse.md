@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,905 |
+| com | 7,906 |
 | social | 4,653 |
 | net | 3,928 |
 | org | 2,624 |
@@ -14213,6 +14213,7 @@ Here's a list of public Fediverse services.
 | `finalist.works` | No |
 | `finallycoffee.eu` | No |
 | `finalmisskey-xiv.com` | Yes |
+| `finance.blog` | No |
 | `finch.ink` | No |
 | `findingdryland.com` | No |
 | `findmyown.space` | No |
@@ -29997,6 +29998,7 @@ Here's a list of public Fediverse services.
 | `nanao.moe` | Yes |
 | `nanashinonozomi.com` | No |
 | `nanasi-apps.xyz` | Yes |
+| `nanasina.com` | No |
 | `nanax.fr` | No |
 | `nanaya.net` | No |
 | `nanbon.eu` | No |
@@ -50337,7 +50339,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,205 |
-| Normal | 36,083 |
+| Normal | 36,085 |
 
 
 </details>
