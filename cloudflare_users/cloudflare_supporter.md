@@ -319,6 +319,7 @@ Do not create new issue or we will close it as duplicate.
 | [abolfazl125b@twitter](https://twitter.com/abolfazl125b/status/1577852546378522624) | advertise |
 | [aboloaidx12@twitter](https://twitter.com/aboloaidx12/status/1645207703856226307) | advertise |
 | [abomb914@twitter](https://twitter.com/abomb914/status/1394980949851578368) | advertise |
+| [abomjed99@twitter](https://twitter.com/abomjed99/status/1720713258275934573) | advertise |
 | [aboode63006249@twitter](https://twitter.com/aboode63006249/status/1494371438358323211) | advertise |
 | [AboOmar51183983@twitter](https://twitter.com/AboOmar51183983/status/1403644659516198912) | advertise |
 | [AboutBenidorm@twitter](https://twitter.com/AboutBenidorm/status/1418722295384879105) | advertise |
@@ -2984,6 +2985,7 @@ Do not create new issue or we will close it as duplicate.
 | [Deen15641467@twitter](https://twitter.com/Deen15641467/status/1552474002635255809) | advertise |
 | [DeenangL@twitter](https://twitter.com/DeenangL/status/1395737200336146436) | advertise |
 | [DeepakGunjale@twitter](https://twitter.com/DeepakGunjale/status/1379062410263154690) | advertise |
+| [deepak_mkn@twitter](https://twitter.com/deepak_mkn/status/1720708955146715536) | advertise |
 | [Deepend44140189@twitter](https://twitter.com/Deepend44140189/status/1404826492631015424) | advertise |
 | [Deepkachhia3@twitter](https://twitter.com/Deepkachhia3/status/1391065392764788739) | advertise |
 | [deepkolan@twitter](https://twitter.com/deepkolan/status/1402145948864638978) | advertise |
@@ -12702,6 +12704,7 @@ Do not create new issue or we will close it as duplicate.
 | [TeoEuroo@twitter](https://twitter.com/TeoEuroo/status/1615904082086219776) | advertise |
 | [tequiero1012@twitter](https://twitter.com/tequiero1012/status/1642108373884862464) | advertise |
 | [TeresePoling611@twitter](https://twitter.com/TeresePoling611/status/1473044204804886530) | advertise |
+| [terminaling@twitter](https://twitter.com/terminaling/status/1720704210327765002) | advertise |
 | [terminologiesco@twitter](https://twitter.com/terminologiesco/status/1663118444890578944) | advertise |
 | [TERPAK7@twitter](https://twitter.com/TERPAK7/status/1578013119615569920) | advertise |
 | [TerrickLoren@twitter](https://twitter.com/TerrickLoren/status/1569206845163839489) | advertise |
