@@ -63,7 +63,7 @@ Here's a list of public Matrix services.
 | synapse.hyteck.de | No |
 | matrix.jonasled.de | Yes |
 | junta.pl | Yes |
-| kitsunes.chat | Yes |
+| kitsunes.club | Yes |
 | matrix.libreon.fr | No |
 | matrix.llamarific.social | No |
 | lugnsk.org | No |
@@ -85,7 +85,6 @@ Here's a list of public Matrix services.
 | www.privacytools.io | Yes |
 | matrix.pub.solar | No |
 | radiowarnerd.org | No |
-| matrix.rimfaxe.net | No |
 | riotchat.de | Yes |
 | ru-matrix.org | No |
 | sans-nuage.fr | No |
@@ -93,7 +92,6 @@ Here's a list of public Matrix services.
 | matrix.studichat.de | No |
 | synod.im | No |
 | matrix.tchncs.de | No |
-| matrix.techsaviours.org | No |
 | matrix.tedomum.net | No |
 | tomesh.net | No |
 | ungleich.matrix.ungleich.cloud | No |
@@ -113,7 +111,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 20 |
-| Normal | 65 |
+| Normal | 63 |
 
 
-### 23.5% of public Matrix services are using Cloudflare.
+### 24.1% of public Matrix services are using Cloudflare.
