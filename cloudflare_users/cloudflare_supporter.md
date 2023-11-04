@@ -6896,6 +6896,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kuasagunung@twitter](https://twitter.com/Kuasagunung/status/1712161721505427895) | advertise |
 | [KuashikMakavana@twitter](https://twitter.com/KuashikMakavana/status/1388432783110860802) | advertise |
 | [kuayraisas7@twitter](https://twitter.com/kuayraisas7/status/1683712835669618688) | advertise |
+| [Kubiwsupanza@twitter](https://twitter.com/Kubiwsupanza/status/1720836506032754874) | advertise |
 | [kubon34505188@twitter](https://twitter.com/kubon34505188/status/1387458130548715522) | advertise |
 | [KubyW@twitter](https://twitter.com/KubyW/status/1679556773794164736) | advertise |
 | [Kudatlo@twitter](https://twitter.com/Kudatlo/status/1623118589502050305) | advertise |
