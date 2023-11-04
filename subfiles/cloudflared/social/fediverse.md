@@ -9772,6 +9772,7 @@ Here's a list of public Fediverse services.
 | `davepeck.org` | No |
 | `davesnider.com` | No |
 | `davewinter.info` | Yes |
+| `david.garden` | Yes |
 | `davidanaxagoras.com` | No |
 | `davidbankshome.co.uk` | No |
 | `davidbisset.social` | No |
@@ -50341,7 +50342,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,206 |
+| Cloudflare | 14,207 |
 | Normal | 36,087 |
 
 
