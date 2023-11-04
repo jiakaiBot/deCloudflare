@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Fails after redirect when using Cloudflared addon](https://github.com/cnorick/ha-auto-guest-login/issues/25)
 - [🚧 API: ReadableStreamDefaultControllerCallback](https://github.com/trilitech/jstz/issues/151)
 - [🚧 API: ReadableStreamDefaultController](https://github.com/trilitech/jstz/issues/150)
 - [Support cloudflare worker environment](https://github.com/adamgibbons/ics/issues/256)
