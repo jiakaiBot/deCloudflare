@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,901 |
+| com | 7,905 |
 | social | 4,653 |
-| net | 3,926 |
+| net | 3,928 |
 | org | 2,624 |
-| de | 2,462 |
+| de | 2,464 |
 
 
 - Mastodon, Pleroma, etc
@@ -323,6 +323,7 @@ Here's a list of public Fediverse services.
 | `1person.me` | No |
 | `1rl.social` | Yes |
 | `1stva.mp` | No |
+| `1uca.com` | No |
 | `1up.ninja` | No |
 | `1up2down.social` | Yes |
 | `1w1.in` | Yes |
@@ -2314,6 +2315,7 @@ Here's a list of public Fediverse services.
 | `angrybj.com` | No |
 | `angrydome.au` | Yes |
 | `angrymetalguy.com` | Yes |
+| `angrynerdspodcast.nl` | No |
 | `angryshark.eu` | No |
 | `angrytattooedmonk.org` | No |
 | `angrytoday.com` | No |
@@ -2440,6 +2442,7 @@ Here's a list of public Fediverse services.
 | `anqou.net` | Yes |
 | `anrddh.me` | No |
 | `anrealmsdon.com` | No |
+| `anreji.de` | No |
 | `ansd.xyz` | No |
 | `ansel.moe` | No |
 | `ansico.dk` | No |
@@ -10851,6 +10854,7 @@ Here's a list of public Fediverse services.
 | `divas.joburg` | Yes |
 | `divbot.com` | No |
 | `divecoaching.com.au` | No |
+| `divedb.net` | Yes |
 | `diverge.gg` | Yes |
 | `divergence.pp.ua` | No |
 | `divergent.de` | No |
@@ -12395,6 +12399,7 @@ Here's a list of public Fediverse services.
 | `emeraldsocial.org` | No |
 | `emergeheart.info` | No |
 | `emergencyalerts.app` | No |
+| `emergencyplumbery.com` | No |
 | `emergenzehack.info` | No |
 | `emerson.chat` | Yes |
 | `emeryrose.me` | No |
@@ -22718,6 +22723,7 @@ Here's a list of public Fediverse services.
 | `knots.today` | No |
 | `knotted.pet` | No |
 | `knotteye.cc` | No |
+| `knottybeast.com` | No |
 | `knottywolf.sexy` | No |
 | `knova.net` | No |
 | `know.me.uk` | No |
@@ -30389,6 +30395,7 @@ Here's a list of public Fediverse services.
 | `neom.im` | No |
 | `neomobius.com` | No |
 | `neon.ink` | No |
+| `neon.jp.net` | No |
 | `neon.moe` | No |
 | `neonballoon.de` | No |
 | `neondemons.net` | No |
@@ -34525,6 +34532,7 @@ Here's a list of public Fediverse services.
 | `planetearth.social` | No |
 | `planeteers.social` | No |
 | `planetelysium.com` | No |
+| `planetenspiel.com` | No |
 | `planetexpress.me` | No |
 | `planetfifty.one` | Yes |
 | `planetly.social` | No |
@@ -38938,6 +38946,7 @@ Here's a list of public Fediverse services.
 | `sdk.co` | No |
 | `sdm-it.com` | Yes |
 | `sdmesh.social` | No |
+| `sdnie.fun` | Yes |
 | `sdns.club` | No |
 | `sdoconnell.net` | No |
 | `sdowns.xyz` | No |
@@ -42039,6 +42048,7 @@ Here's a list of public Fediverse services.
 | `subvisual.co` | Yes |
 | `subzone.net` | No |
 | `subzone.space` | Yes |
+| `sucb.de` | No |
 | `succ.dev` | No |
 | `succdi.cc` | Yes |
 | `success.social` | No |
@@ -46375,6 +46385,7 @@ Here's a list of public Fediverse services.
 | `uoc.edu` | No |
 | `uofgbot.top` | No |
 | `uoga.net` | No |
+| `uoh.cx` | Yes |
 | `up.edu.ph` | Yes |
 | `up.gy` | No |
 | `upah.group` | Yes |
@@ -50325,8 +50336,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,202 |
-| Normal | 36,075 |
+| Cloudflare | 14,205 |
+| Normal | 36,083 |
 
 
 </details>
