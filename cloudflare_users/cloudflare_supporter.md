@@ -12074,6 +12074,7 @@ Do not create new issue or we will close it as duplicate.
 | [slipperypussyc1@twitter](https://twitter.com/slipperypussyc1/status/1407232739762270211) | advertise |
 | [slowhanddario@twitter](https://twitter.com/slowhanddario/status/1474627053307768832) | advertise |
 | [slr1368@twitter](https://twitter.com/slr1368/status/1610859661837881346) | advertise |
+| [slu_chay@twitter](https://twitter.com/slu_chay/status/1720862626274746522) | advertise |
 | [SlyTheFloof@twitter](https://twitter.com/SlyTheFloof/status/1498004182393106435) | advertise |
 | [Sm0rezDev@twitter](https://twitter.com/Sm0rezDev/status/1404781284120043522) | advertise |
 | [Sm8Ue@twitter](https://twitter.com/Sm8Ue/status/1568162721962823680) | advertise |
