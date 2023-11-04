@@ -8068,7 +8068,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -25371,6 +25371,7 @@ Here's a list of public Fediverse services.
 | `lunaticducks.com` | Yes |
 | `lunaticgeek.com` | Yes |
 | `lunaticsproject.org` | No |
+| `lunaverse.blog` | No |
 | `lunax.dev` | Yes |
 | `lunchlurkers.com` | No |
 | `lundgrensjostrom.com` | Yes |
@@ -50321,7 +50322,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,200 |
+| Cloudflare | 14,201 |
 | Normal | 36,073 |
 
 
