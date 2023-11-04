@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-11-04: [Degraded R2 performance](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ptqcyrt8sjfd)
 - 2023-11-04: [R2 Signup Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zphsgbw1yjmx)
 - 2023-11-04: [Authentication Errors On New R2 Tokens](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gx41btmhkf9m)
 - 2023-11-04: [Some new zones not resolving via DNS](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/k27bk6fc4n14)
