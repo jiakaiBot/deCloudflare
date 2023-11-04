@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,900 |
 | social | 4,653 |
-| net | 3,925 |
+| net | 3,926 |
 | org | 2,624 |
 | de | 2,461 |
 
@@ -1580,7 +1580,7 @@ Here's a list of public Fediverse services.
 | `akmentins.com` | Yes |
 | `akoot.site` | No |
 | `akop.online` | No |
-| `akparti.xyz` | Yes |
+| `akparti.xyz` | No |
 | `akrabat.com` | No |
 | `aksel.at` | No |
 | `aksel.rocks` | No |
@@ -8068,7 +8068,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8094,7 +8094,7 @@ Here's a list of public Fediverse services.
 | `comfy.social` | Yes |
 | `comfyboy.club` | Yes |
 | `comfybyte.ga` | No |
-| `comfycamp.space` | No |
+| `comfycamp.space` | Yes |
 | `comfysnug.space` | No |
 | `comic.social` | No |
 | `comicbook.nexus` | No |
@@ -21098,7 +21098,7 @@ Here's a list of public Fediverse services.
 | `jmworks.co.uk` | Yes |
 | `jmz.fyi` | No |
 | `jnjosh.social` | No |
-| `jnks.xyz` | No |
+| `jnks.xyz` | Yes |
 | `jnktn.tv` | No |
 | `jnm.pub` | No |
 | `jnsk.info` | Yes |
@@ -25797,7 +25797,7 @@ Here's a list of public Fediverse services.
 | `mainz.social` | No |
 | `maiome.xyz` | No |
 | `maique.eu` | No |
-| `maique.lol` | Yes |
+| `maique.lol` | No |
 | `maique.xyz` | Yes |
 | `maiquemadeira.com` | No |
 | `mair.io` | No |
@@ -25873,7 +25873,7 @@ Here's a list of public Fediverse services.
 | `malenfant.net` | No |
 | `maleo.uk` | No |
 | `maleplate.dev` | Yes |
-| `malfunctional.net` | No |
+| `malfunctional.net` | Yes |
 | `malfunctioning.technology` | No |
 | `malgranda.net` | No |
 | `maliach.fr` | No |
@@ -28142,6 +28142,7 @@ Here's a list of public Fediverse services.
 | `mirroruniverse.eu` | No |
 | `mirtube.ru` | No |
 | `miru.online` | Yes |
+| `mirucha.net` | Yes |
 | `miruku.cafe` | Yes |
 | `mirumu.net` | No |
 | `mirwarso.de` | Yes |
@@ -50319,7 +50320,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,199 |
+| Cloudflare | 14,200 |
 | Normal | 36,072 |
 
 
