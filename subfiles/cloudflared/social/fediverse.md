@@ -36722,6 +36722,7 @@ Here's a list of public Fediverse services.
 | `red-lang.org` | Yes |
 | `red-panda.cz` | No |
 | `redacted.life` | No |
+| `redasadki.me` | No |
 | `redbeardsec.com` | No |
 | `redbeardthe.ninja` | No |
 | `redchops.com` | No |
@@ -50340,7 +50341,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,205 |
-| Normal | 36,086 |
+| Normal | 36,087 |
 
 
 </details>
