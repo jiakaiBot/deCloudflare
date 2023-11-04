@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot disable line length checks on heredocs](https://github.com/ansible/ansible-lint/issues/3881)
 - [Conjur-Actions doesn't work when Conjur is behind a Cloudflare WAF (Accept-Encoding overridden)](https://github.com/cyberark/conjur-action/issues/9)
 - [Fails after redirect when using Cloudflared addon](https://github.com/cnorick/ha-auto-guest-login/issues/25)
 - [🚧 API: ReadableStreamDefaultControllerCallback](https://github.com/trilitech/jstz/issues/151)
