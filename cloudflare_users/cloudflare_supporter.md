@@ -2322,6 +2322,7 @@ Do not create new issue or we will close it as duplicate.
 | [Chakkrit_bank24@twitter](https://twitter.com/Chakkrit_bank24/status/1392631487460114436) | advertise |
 | [Chaloewut09@twitter](https://twitter.com/Chaloewut09/status/1503882755629019138) | advertise |
 | [Chamaiporn56438@twitter](https://twitter.com/Chamaiporn56438/status/1680240206023397376) | advertise |
+| [ChampionKilts@twitter](https://twitter.com/ChampionKilts/status/1720885340641398860) | advertise |
 | [Chanatip_Saifah@twitter](https://twitter.com/Chanatip_Saifah/status/1610727845546061824) | advertise |
 | [Chanawee20@twitter](https://twitter.com/Chanawee20/status/1481902051361947648) | advertise |
 | [ChanAye00073908@twitter](https://twitter.com/ChanAye00073908/status/1390488182332874753) | advertise |
@@ -3818,6 +3819,7 @@ Do not create new issue or we will close it as duplicate.
 | [fasvienta@twitter](https://twitter.com/fasvienta/status/1710091632408924316) | advertise |
 | [fatiherikliuniq@twitter](https://twitter.com/fatiherikliuniq/status/1542403905472053248) | advertise |
 | [fatimav699@twitter](https://twitter.com/fatimav699/status/1665889185839058944) | advertise |
+| [fatma_perween@twitter](https://twitter.com/fatma_perween/status/1720890234282664412) | advertise |
 | [fatts_el@twitter](https://twitter.com/fatts_el/status/1569365314122514433) | advertise |
 | [Fat_Grizzly@twitter](https://twitter.com/Fat_Grizzly/status/1442666571634130944) | advertise |
 | [faucetbch@twitter](https://twitter.com/faucetbch/status/1416471725643075589) | advertise |
