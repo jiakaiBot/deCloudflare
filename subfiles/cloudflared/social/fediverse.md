@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,900 |
+| com | 7,901 |
 | social | 4,653 |
 | net | 3,926 |
 | org | 2,624 |
-| de | 2,461 |
+| de | 2,462 |
 
 
 - Mastodon, Pleroma, etc
@@ -8710,6 +8710,7 @@ Here's a list of public Fediverse services.
 | `cringe.cafe` | No |
 | `cringe.zip` | Yes |
 | `crinklefur.club` | No |
+| `crinstamcamp.com` | No |
 | `cripplepunk.club` | No |
 | `criptica.org` | No |
 | `crisiscommons.net` | No |
@@ -17313,6 +17314,7 @@ Here's a list of public Fediverse services.
 | `gustavlindqvist.se` | Yes |
 | `gustavosousa.eu` | No |
 | `gustingwind.com` | No |
+| `gutelaunewelle.de` | No |
 | `gutewebsites.social` | No |
 | `gutsux.com` | No |
 | `gutterpupper.com` | No |
@@ -44199,6 +44201,7 @@ Here's a list of public Fediverse services.
 | `thoshis.net` | No |
 | `thoshiswelt.de` | No |
 | `thoster.net` | No |
+| `thotcrime.top` | No |
 | `thote.it` | No |
 | `thotsofa304.club` | Yes |
 | `thought.blue` | No |
@@ -45812,7 +45815,7 @@ Here's a list of public Fediverse services.
 | `txsocial.club` | Yes |
 | `txwb.org` | Yes |
 | `ty-penguin.org.uk` | No |
-| `tyage.net` | No |
+| `tyage.net` | Yes |
 | `tyaku.com` | No |
 | `tyamac.com` | No |
 | `tyazzkey.work` | No |
@@ -50322,8 +50325,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,201 |
-| Normal | 36,073 |
+| Cloudflare | 14,202 |
+| Normal | 36,075 |
 
 
 </details>
