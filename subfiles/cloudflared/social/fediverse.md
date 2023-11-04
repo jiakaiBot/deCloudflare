@@ -4914,6 +4914,7 @@ Here's a list of public Fediverse services.
 | `bjgp.social` | No |
 | `bjhess.com` | No |
 | `bjmendelson.com` | No |
+| `bjo.my.id` | Yes |
 | `bjones.net` | No |
 | `bjorkbrant.com` | Yes |
 | `bjorkede.no` | No |
@@ -39693,7 +39694,7 @@ Here's a list of public Fediverse services.
 | `shota.foundation` | No |
 | `shota.house` | No |
 | `shota.social` | Yes |
-| `shotatube.xyz` | Yes |
+| `shotatube.xyz` | No |
 | `shotgun.monster` | No |
 | `shotgunlife.social` | No |
 | `shotinthegun.com` | Yes |
@@ -47847,7 +47848,7 @@ Here's a list of public Fediverse services.
 | `webopt.eu` | Yes |
 | `webos.direct` | No |
 | `weboslives.eu` | No |
-| `webperf.social` | No |
+| `webperf.social` | Yes |
 | `webplay.rocks` | No |
 | `webrocker.de` | No |
 | `webrush.pl` | Yes |
@@ -50340,7 +50341,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,205 |
+| Cloudflare | 14,206 |
 | Normal | 36,087 |
 
 
