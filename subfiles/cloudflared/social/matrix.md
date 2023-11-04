@@ -58,6 +58,7 @@ Here's a list of public Matrix services.
 | hackerspaces.be | No |
 | hackliberty.org | No |
 | matrix.hadoly.fr | No |
+| chatserver.hashi.sbs | Yes |
 | hot-chilli.im | No |
 | synapse.hyteck.de | No |
 | matrix.jonasled.de | Yes |
@@ -111,8 +112,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 19 |
+| Cloudflare | 20 |
 | Normal | 65 |
 
 
-### 22.6% of public Matrix services are using Cloudflare.
+### 23.5% of public Matrix services are using Cloudflare.
