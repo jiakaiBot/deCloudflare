@@ -89,7 +89,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | doh.lv | No |
 | doh.sb | Yes |
 | dscloud.me | No |
-| duckdns.org | Yes |
 | dukun.de | No |
 | edgy-dns.com | No |
 | emiliyan.com | Yes |
@@ -150,7 +149,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | modr.club | Yes |
 | molinero.dev | Yes |
 | mullvad.net | No |
-| muxyuji.ru | No |
 | myon.lu | No |
 | n0.eu | No |
 | nas-server.ru | Yes |
@@ -247,8 +245,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 107 |
-| Normal | 121 |
+| Cloudflare | 106 |
+| Normal | 120 |
 
 
 ### 46.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
