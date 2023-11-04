@@ -3633,6 +3633,7 @@ Do not create new issue or we will close it as duplicate.
 | [EngAlexMusic1@twitter](https://twitter.com/EngAlexMusic1/status/1526159260509515776) | advertise |
 | [Engineer_7oda@twitter](https://twitter.com/Engineer_7oda/status/1540451421069484033) | advertise |
 | [engineer_dawood@twitter](https://twitter.com/engineer_dawood/status/1643058625458614280) | advertise |
+| [EngineFury@twitter](https://twitter.com/EngineFury/status/1720630318737088636) | advertise |
 | [Engku_Badrul@twitter](https://twitter.com/Engku_Badrul/status/1626609935210659840) | advertise |
 | [EnglishExam4@twitter](https://twitter.com/EnglishExam4/status/1609895978449895425) | advertise |
 | [engmawia_23@twitter](https://twitter.com/engmawia_23/status/1383721139730481156) | advertise |
@@ -9890,6 +9891,7 @@ Do not create new issue or we will close it as duplicate.
 | [OgbonnaSylvan@twitter](https://twitter.com/OgbonnaSylvan/status/1712796582163149190) | advertise |
 | [ogeealllo@twitter](https://twitter.com/ogeealllo/status/1669285473435435010) | advertise |
 | [Oggy57638380@twitter](https://twitter.com/Oggy57638380/status/1565005988591448064) | advertise |
+| [Oghellboyml@twitter](https://twitter.com/Oghellboyml/status/1720695769936908436) | advertise |
 | [OGLilith@twitter](https://twitter.com/OGLilith/status/1665858534800789505) | advertise |
 | [ogrekevin@twitter](https://twitter.com/ogrekevin/status/1460589005171535883) | advertise |
 | [oguike6099@twitter](https://twitter.com/oguike6099/status/1597314920110239747) | advertise |
@@ -9983,6 +9985,7 @@ Do not create new issue or we will close it as duplicate.
 | [OpikGapik97@twitter](https://twitter.com/OpikGapik97/status/1716042390346334445) | advertise |
 | [OPOKUPRINCE334@twitter](https://twitter.com/OPOKUPRINCE334/status/1490576779198836736) | advertise |
 | [OppoOpp75844625@twitter](https://twitter.com/OppoOpp75844625/status/1612163710646108160) | advertise |
+| [oppositeside8@twitter](https://twitter.com/oppositeside8/status/1720602444046983625) | advertise |
 | [OpticalDelusio8@twitter](https://twitter.com/OpticalDelusio8/status/1570393454550851590) | advertise |
 | [Optimal604@twitter](https://twitter.com/Optimal604/status/1390554059254292481) | advertise |
 | [Optimeast@twitter](https://twitter.com/Optimeast/status/1401416582413307904) | advertise |
@@ -13706,6 +13709,7 @@ Do not create new issue or we will close it as duplicate.
 | [TunVTrung2@twitter](https://twitter.com/TunVTrung2/status/1647232680243888128) | advertise |
 | [TunYinmin@twitter](https://twitter.com/TunYinmin/status/1394984491354148864) | advertise |
 | [TuongNg04097548@twitter](https://twitter.com/TuongNg04097548/status/1482973722265145347) | advertise |
+| [TuranAl73647284@twitter](https://twitter.com/TuranAl73647284/status/1720696901912445065) | advertise |
 | [turboroom@twitter](https://twitter.com/turboroom/status/1538608149413998594) | advertise |
 | [TureinKhant@twitter](https://twitter.com/TureinKhant/status/1388471250389983232) | advertise |
 | [TurnKeyMSP@twitter](https://twitter.com/TurnKeyMSP/status/1402797639482187776) | advertise |
