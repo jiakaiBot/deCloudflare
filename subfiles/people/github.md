@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [appsero website - app - does not remove the payment card](https://github.com/Appsero/client/issues/33)
+- [400 for create-file](https://github.com/wkok/openai-clojure/issues/34)
 - [Cannot disable line length checks on heredocs](https://github.com/ansible/ansible-lint/issues/3881)
 - [Conjur-Actions doesn't work when Conjur is behind a Cloudflare WAF (Accept-Encoding overridden)](https://github.com/cyberark/conjur-action/issues/9)
 - [Fails after redirect when using Cloudflared addon](https://github.com/cnorick/ha-auto-guest-login/issues/25)
