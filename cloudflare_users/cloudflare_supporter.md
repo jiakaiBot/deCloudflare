@@ -759,6 +759,7 @@ Do not create new issue or we will close it as duplicate.
 | [altwops@twitter](https://twitter.com/altwops/status/1394378036548571137) | advertise |
 | [Alucard61231443@twitter](https://twitter.com/Alucard61231443/status/1407179688439468039) | advertise |
 | [AlvarezIze53328@twitter](https://twitter.com/AlvarezIze53328/status/1681062141435027456) | advertise |
+| [Alvinging@twitter](https://twitter.com/Alvinging/status/1720907873562271848) | advertise |
 | [AlvinKigen@twitter](https://twitter.com/AlvinKigen/status/1382025365930016776) | advertise |
 | [alvinlaz1596@twitter](https://twitter.com/alvinlaz1596/status/1673994539340537860) | advertise |
 | [Alvinn_Garcia@twitter](https://twitter.com/Alvinn_Garcia/status/1384722685666598914) | advertise |
@@ -798,6 +799,7 @@ Do not create new issue or we will close it as duplicate.
 | [Amer71692232@twitter](https://twitter.com/Amer71692232/status/1497751670188490758) | advertise |
 | [AmesiyasDe54691@twitter](https://twitter.com/AmesiyasDe54691/status/1691039149975896065) | advertise |
 | [AmeyaSathaye@twitter](https://twitter.com/AmeyaSathaye/status/1713532689498751241) | advertise |
+| [Amgad_Atia1@twitter](https://twitter.com/Amgad_Atia1/status/1720899898520773037) | advertise |
 | [amiamigo97@twitter](https://twitter.com/amiamigo97/status/1616127323887243266) | advertise |
 | [Amiirfahad@twitter](https://twitter.com/Amiirfahad/status/1492928600978382856) | advertise |
 | [aMiLcArBaRrErA@twitter](https://twitter.com/aMiLcArBaRrErA/status/1594907159397289984) | advertise |
@@ -9000,6 +9002,7 @@ Do not create new issue or we will close it as duplicate.
 | [nag1_yuu@twitter](https://twitter.com/nag1_yuu/status/1630945715685052416) | advertise |
 | [Nage58788383@twitter](https://twitter.com/Nage58788383/status/1378017876100096005) | advertise |
 | [Nage9940790406@twitter](https://twitter.com/Nage9940790406/status/1496502930286993410) | advertise |
+| [NaGmIHIdPDibzF8@twitter](https://twitter.com/NaGmIHIdPDibzF8/status/1720909275009364356) | advertise |
 | [Nagusame_2@twitter](https://twitter.com/Nagusame_2/status/1404261140360691712) | advertise |
 | [nahhexe@twitter](https://twitter.com/nahhexe/status/1630109939447345154) | advertise |
 | [Nahidulislam14@twitter](https://twitter.com/Nahidulislam14/status/1552173963069227008) | advertise |
