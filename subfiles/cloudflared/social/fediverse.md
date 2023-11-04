@@ -23436,6 +23436,7 @@ Here's a list of public Fediverse services.
 | `laburo.social` | Yes |
 | `labview.social` | No |
 | `labyrinth.social` | No |
+| `labyrinth.zone` | No |
 | `labyrinthos.org` | No |
 | `lac.one` | No |
 | `laca.dev` | No |
@@ -50321,7 +50322,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,200 |
-| Normal | 36,072 |
+| Normal | 36,073 |
 
 
 </details>
