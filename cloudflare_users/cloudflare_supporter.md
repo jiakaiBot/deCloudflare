@@ -597,6 +597,7 @@ Do not create new issue or we will close it as duplicate.
 | [Akito28238860@twitter](https://twitter.com/Akito28238860/status/1493097617219534849) | advertise |
 | [AkMonk7@twitter](https://twitter.com/AkMonk7/status/1552111416982880257) | advertise |
 | [AKO35197755@twitter](https://twitter.com/AKO35197755/status/1391902794236403713) | advertise |
+| [AkovBur@twitter](https://twitter.com/AkovBur/status/1720944516364988698) | advertise |
 | [AKRAMMEBARKI3@twitter](https://twitter.com/AKRAMMEBARKI3/status/1718598285550661710) | advertise |
 | [akrv1@twitter](https://twitter.com/akrv1/status/1613488936814362624) | advertise |
 | [Akshada44184872@twitter](https://twitter.com/Akshada44184872/status/1389269449371316224) | advertise |
@@ -8317,6 +8318,7 @@ Do not create new issue or we will close it as duplicate.
 | [Minh20683175@twitter](https://twitter.com/Minh20683175/status/1618175862838550535) | advertise |
 | [Minh22002919@twitter](https://twitter.com/Minh22002919/status/1398568502483591168) | advertise |
 | [Minh23535907@twitter](https://twitter.com/Minh23535907/status/1401465681598500871) | advertise |
+| [Minh44885645@twitter](https://twitter.com/Minh44885645/status/1720950840641593760) | advertise |
 | [minh53487577@twitter](https://twitter.com/minh53487577/status/1541140961467572224) | advertise |
 | [minh81299480@twitter](https://twitter.com/minh81299480/status/1386326668562685955) | advertise |
 | [MinhadMohammad@twitter](https://twitter.com/MinhadMohammad/status/1710674525506228353) | advertise |
@@ -9123,6 +9125,7 @@ Do not create new issue or we will close it as duplicate.
 | [naser_lodr_5@twitter](https://twitter.com/naser_lodr_5/status/1546216367765987329) | advertise |
 | [nasirmy1@twitter](https://twitter.com/nasirmy1/status/1547358308042178561) | advertise |
 | [naslunecne@twitter](https://twitter.com/naslunecne/status/1528309796675493888) | advertise |
+| [NasriMalakie@twitter](https://twitter.com/NasriMalakie/status/1720955042318987564) | advertise |
 | [Nasro66603001@twitter](https://twitter.com/Nasro66603001/status/1519268045352546305) | advertise |
 | [nasrumv@twitter](https://twitter.com/nasrumv/status/1480051657769558017) | advertise |
 | [nasrun__@twitter](https://twitter.com/nasrun__/status/1392774223895035905) | advertise |
