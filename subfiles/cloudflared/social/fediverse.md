@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,908 |
 | social | 4,653 |
-| net | 3,930 |
+| net | 3,931 |
 | org | 2,624 |
 | de | 2,465 |
 
@@ -36754,6 +36754,7 @@ Here's a list of public Fediverse services.
 | `redflag.social` | No |
 | `redfrogss.dev` | Yes |
 | `redfuku.com` | Yes |
+| `redfuku.net` | Yes |
 | `redgarterclub.com` | No |
 | `redgate.social` | No |
 | `redgla.re` | No |
@@ -50348,7 +50349,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,215 |
+| Cloudflare | 14,216 |
 | Normal | 36,085 |
 
 
