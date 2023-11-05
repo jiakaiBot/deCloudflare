@@ -1370,6 +1370,7 @@ Here's a list of public Fediverse services.
 | `agates.io` | No |
 | `agatha.gay` | No |
 | `agb-web.de` | No |
+| `agda.club` | No |
 | `agdersam.no` | No |
 | `aggregation.cafe` | No |
 | `aggronaut.com` | No |
@@ -10488,6 +10489,7 @@ Here's a list of public Fediverse services.
 | `dgs.town` | No |
 | `dgsy-official.com` | Yes |
 | `dgtl-service.com` | No |
+| `dgtz.info` | Yes |
 | `dgunn.uk` | Yes |
 | `dh.social` | Yes |
 | `dharmadhatu.nl` | No |
@@ -50364,8 +50366,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,223 |
-| Normal | 36,093 |
+| Cloudflare | 14,224 |
+| Normal | 36,094 |
 
 
 </details>
