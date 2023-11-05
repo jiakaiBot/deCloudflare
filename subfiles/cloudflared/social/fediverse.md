@@ -42908,6 +42908,7 @@ Here's a list of public Fediverse services.
 | `tar.cx` | No |
 | `tar.mx` | Yes |
 | `tara.social` | No |
+| `tarakka.fi` | No |
 | `tarasis.net` | Yes |
 | `tarasupadon.com` | No |
 | `tarbin.net` | Yes |
@@ -50367,7 +50368,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,224 |
-| Normal | 36,094 |
+| Normal | 36,095 |
 
 
 </details>
