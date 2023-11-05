@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,906 |
 | social | 4,653 |
-| net | 3,928 |
+| net | 3,929 |
 | org | 2,624 |
 | de | 2,465 |
 
@@ -4731,6 +4731,7 @@ Here's a list of public Fediverse services.
 | `binbin.eu.org` | Yes |
 | `binblog.de` | No |
 | `binbou.xyz` | No |
+| `bincat.net` | No |
 | `binch.top` | No |
 | `binchan.xyz` | No |
 | `bindinggenerations.net` | No |
@@ -4880,7 +4881,7 @@ Here's a list of public Fediverse services.
 | `bitstick.rip` | Yes |
 | `bitsuppe.de` | No |
 | `bitten2up.dev` | Yes |
-| `bitterhusk.net` | No |
+| `bitterhusk.net` | Yes |
 | `bitterswede.com` | No |
 | `bittervets.org` | No |
 | `bittube.app` | No |
@@ -7664,7 +7665,7 @@ Here's a list of public Fediverse services.
 | `climatescienc.es` | No |
 | `clinchfire.social` | Yes |
 | `clinicians-exchange.org` | No |
-| `clintmoyer.com` | No |
+| `clintmoyer.com` | Yes |
 | `cliophate.wtf` | Yes |
 | `clipbored.xyz` | Yes |
 | `clipperz.is` | No |
@@ -8072,7 +8073,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -21182,7 +21183,7 @@ Here's a list of public Fediverse services.
 | `johnnywebber.com` | No |
 | `johnruth.me` | No |
 | `johns-blog.de` | Yes |
-| `johns-casa.de` | No |
+| `johns-casa.de` | Yes |
 | `johnson.gg` | No |
 | `johntrain.org` | Yes |
 | `johnwarne.com` | Yes |
@@ -25557,7 +25558,7 @@ Here's a list of public Fediverse services.
 | `maanebedotten.no` | No |
 | `maara.dev` | No |
 | `maatwo.com` | Yes |
-| `maaw.social` | No |
+| `maaw.social` | Yes |
 | `mab.cat` | No |
 | `mabe.space` | No |
 | `mabidn.net` | No |
@@ -29075,7 +29076,7 @@ Here's a list of public Fediverse services.
 | `mroberts.me` | Yes |
 | `mrotek.xyz` | No |
 | `mrow.pet` | Yes |
-| `mrow.space` | Yes |
+| `mrow.space` | No |
 | `mrpetovan.com` | No |
 | `mrpjevans.com` | No |
 | `mrporky.moe` | No |
@@ -29937,7 +29938,7 @@ Here's a list of public Fediverse services.
 | `nahe.social` | No |
 | `naheimst.info` | No |
 | `nahfe.xyz` | No |
-| `nahida.me` | Yes |
+| `nahida.me` | No |
 | `nahuelwexd.com` | Yes |
 | `naia.gay` | Yes |
 | `naiad.io` | Yes |
@@ -36465,7 +36466,7 @@ Here's a list of public Fediverse services.
 | `raroh73.xyz` | Yes |
 | `raru.re` | No |
 | `raryosu.info` | Yes |
-| `rasalf.pw` | No |
+| `rasalf.pw` | Yes |
 | `rasard.com` | Yes |
 | `rascal.social` | No |
 | `rascalking.com` | No |
@@ -50342,10 +50343,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,207 |
-| Normal | 36,087 |
+| Cloudflare | 14,209 |
+| Normal | 36,086 |
 
 
 </details>
 
-### 28.2% of public Fediverse services are using Cloudflare.
+### 28.3% of public Fediverse services are using Cloudflare.
