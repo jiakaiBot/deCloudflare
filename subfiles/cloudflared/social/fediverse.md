@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,908 |
+| com | 7,909 |
 | social | 4,653 |
 | net | 3,931 |
 | org | 2,624 |
@@ -8074,7 +8074,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -19756,6 +19756,7 @@ Here's a list of public Fediverse services.
 | `info-screen.me` | Yes |
 | `info.tm` | Yes |
 | `infocamp.digital` | No |
+| `infodocs.eu` | No |
 | `infoheap.com` | No |
 | `infojournal.fr` | No |
 | `infolattice.org` | No |
@@ -34721,6 +34722,7 @@ Here's a list of public Fediverse services.
 | `plx.chat` | No |
 | `plyuk.rocks` | No |
 | `plzpet.dog` | No |
+| `pma.nom.es` | Yes |
 | `pmai.social` | No |
 | `pmdcollab.org` | No |
 | `pmhcvn.com` | No |
@@ -36094,6 +36096,7 @@ Here's a list of public Fediverse services.
 | `r13w.social` | No |
 | `r18.social` | No |
 | `r18don.xyz` | No |
+| `r1tsu.com` | Yes |
 | `r2.do` | No |
 | `r23s.eu` | Yes |
 | `r2fish.com` | No |
@@ -50349,7 +50352,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,216 |
+| Cloudflare | 14,219 |
 | Normal | 36,085 |
 
 
