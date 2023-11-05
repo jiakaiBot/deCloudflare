@@ -3308,6 +3308,7 @@ Do not create new issue or we will close it as duplicate.
 | [DrGhanizadeh@twitter](https://twitter.com/DrGhanizadeh/status/1664330003511648259) | advertise |
 | [DrGingex@twitter](https://twitter.com/DrGingex/status/1390552908379295749) | advertise |
 | [DrGorillaNuts@twitter](https://twitter.com/DrGorillaNuts/status/1665889163063750656) | advertise |
+| [DrJanDuffy@twitter](https://twitter.com/DrJanDuffy/status/1721047406874419657) | advertise |
 | [drkblog@twitter](https://twitter.com/drkblog/status/1430874637882339336) | advertise |
 | [drkbugs@twitter](https://twitter.com/drkbugs/status/1430874637882339336) | advertise |
 | [DrLindaCTillman@twitter](https://twitter.com/DrLindaCTillman/status/1665888891604201473) | advertise |
