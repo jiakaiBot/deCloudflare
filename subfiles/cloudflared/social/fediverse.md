@@ -21607,6 +21607,7 @@ Here's a list of public Fediverse services.
 | `jvyden.xyz` | Yes |
 | `jw.be` | No |
 | `jws.app` | Yes |
+| `jws.news` | No |
 | `jxm.ca` | No |
 | `jxmsocial.xyz` | No |
 | `jxs.me` | Yes |
@@ -46324,7 +46325,7 @@ Here's a list of public Fediverse services.
 | `unkworks.net` | No |
 | `unlicensed.doctor` | No |
 | `unlimit3z.online` | No |
-| `unlimited-blade.works` | No |
+| `unlimited-blade.works` | Yes |
 | `unlimitedammo.de` | No |
 | `unliving.net` | No |
 | `unlogged.it` | No |
@@ -50367,7 +50368,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,224 |
+| Cloudflare | 14,225 |
 | Normal | 36,095 |
 
 
