@@ -7131,7 +7131,7 @@ Here's a list of public Fediverse services.
 | `cheesebsd.com` | No |
 | `cheeseburger.cafe` | No |
 | `cheeseburger.social` | Yes |
-| `cheeseland.xyz` | No |
+| `cheeseland.xyz` | Yes |
 | `cheesemakesmehappy.com` | No |
 | `cheesepark.io` | No |
 | `cheetah85.ovh` | No |
@@ -17646,7 +17646,7 @@ Here's a list of public Fediverse services.
 | `hammer-and-sickle.net` | No |
 | `hammerandjack.com` | No |
 | `hammertonbarbados.social` | Yes |
-| `hammons.llc` | No |
+| `hammons.llc` | Yes |
 | `hammyhavoc.com` | Yes |
 | `hamont.social` | No |
 | `hamradio.social` | No |
@@ -30953,6 +30953,7 @@ Here's a list of public Fediverse services.
 | `niklas.social` | No |
 | `niklasbarning.de` | No |
 | `niklasrosenstein.com` | No |
+| `niko.lgbt` | Yes |
 | `nikola.love` | Yes |
 | `nikolagroup.uk` | Yes |
 | `nikolaiathome.com` | Yes |
@@ -50345,8 +50346,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,211 |
-| Normal | 36,086 |
+| Cloudflare | 14,214 |
+| Normal | 36,084 |
 
 
 </details>
