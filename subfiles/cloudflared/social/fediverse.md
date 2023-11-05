@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,909 |
-| social | 4,653 |
-| net | 3,931 |
+| com | 7,911 |
+| social | 4,654 |
+| net | 3,932 |
 | org | 2,624 |
 | de | 2,465 |
 
@@ -3394,6 +3394,7 @@ Here's a list of public Fediverse services.
 | `auroradrop.com` | Yes |
 | `auroraplanet.blue` | Yes |
 | `aurorign.social` | No |
+| `aus.community` | No |
 | `aus.green` | Yes |
 | `aus.lgbt` | Yes |
 | `aus.party` | No |
@@ -11511,6 +11512,7 @@ Here's a list of public Fediverse services.
 | `dscloud.mobi` | No |
 | `dscpef.net` | No |
 | `dscw.fr` | Yes |
+| `dsdrive.fr` | No |
 | `dsemy.com` | No |
 | `dshk.pro` | No |
 | `dshm.me` | No |
@@ -12948,6 +12950,7 @@ Here's a list of public Fediverse services.
 | `etxetik.org` | Yes |
 | `eu-bots.net` | Yes |
 | `eu5.org` | No |
+| `eubf.net` | No |
 | `eudemocracy.eu` | No |
 | `eug.social` | No |
 | `eugasser.com` | No |
@@ -13774,6 +13777,7 @@ Here's a list of public Fediverse services.
 | `fediland.in.ua` | No |
 | `fediland.nl` | No |
 | `fedilemmy.net` | Yes |
+| `fedilists.com` | No |
 | `fedilove.cyou` | Yes |
 | `fedimagazine.tokyo` | No |
 | `fedimaker.space` | No |
@@ -20470,6 +20474,7 @@ Here's a list of public Fediverse services.
 | `ja-jp.org` | No |
 | `ja.social` | No |
 | `ja1ykl.com` | Yes |
+| `ja91.uk` | Yes |
 | `jaajko.com` | Yes |
 | `jabb.in` | No |
 | `jabbadu.de` | No |
@@ -20981,6 +20986,7 @@ Here's a list of public Fediverse services.
 | `jhnc.me.uk` | No |
 | `jhr.social` | Yes |
 | `jianghupl.com` | No |
+| `jiangl.in` | Yes |
 | `jianjianplus.com` | Yes |
 | `jianliwo.com` | No |
 | `jiaworkspace.com` | No |
@@ -23193,6 +23199,7 @@ Here's a list of public Fediverse services.
 | `kuenet.ch` | No |
 | `kuenstlerquadrat.de` | No |
 | `kuester7.com` | No |
+| `kufstein.social` | No |
 | `kuhen.biz` | No |
 | `kuhla.cloud` | Yes |
 | `kuhnchris.eu` | No |
@@ -29865,6 +29872,7 @@ Here's a list of public Fediverse services.
 | `n32i0.net` | Yes |
 | `n33.eu` | No |
 | `n3cld.de` | No |
+| `n3otrax.fr` | No |
 | `n3rd.cc` | Yes |
 | `n3tf5r.me` | Yes |
 | `n3trunn3r.org` | Yes |
@@ -32073,6 +32081,7 @@ Here's a list of public Fediverse services.
 | `octalwave.com` | Yes |
 | `octans.app` | No |
 | `octaplex.net` | No |
+| `octarine.io` | No |
 | `octii.chat` | Yes |
 | `octo.im` | No |
 | `octobot.space` | Yes |
@@ -40868,6 +40877,7 @@ Here's a list of public Fediverse services.
 | `somewhathappy.com` | Yes |
 | `somewhy.com` | Yes |
 | `somewhy.net` | No |
+| `somincola.com` | Yes |
 | `somipark.com` | No |
 | `somnathr.com` | Yes |
 | `somnium.fi` | Yes |
@@ -50353,8 +50363,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,220 |
-| Normal | 36,085 |
+| Cloudflare | 14,223 |
+| Normal | 36,092 |
 
 
 </details>
