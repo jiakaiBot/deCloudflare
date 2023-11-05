@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,907 |
+| com | 7,908 |
 | social | 4,653 |
 | net | 3,930 |
 | org | 2,624 |
@@ -17927,6 +17927,7 @@ Here's a list of public Fediverse services.
 | `headpat.cafe` | Yes |
 | `headpat.exchange` | No |
 | `headpat.moe` | No |
+| `headpats-plea.se` | No |
 | `headpats.cafe` | Yes |
 | `headpats.org` | Yes |
 | `headphone.actor` | No |
@@ -42531,6 +42532,7 @@ Here's a list of public Fediverse services.
 | `sysadmin.run` | Yes |
 | `sysadmins.zone` | Yes |
 | `sysadmon.de` | No |
+| `sysartist.com` | Yes |
 | `sysblip.com` | No |
 | `sysblog.at` | No |
 | `syscaller.jp` | No |
@@ -50346,8 +50348,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,214 |
-| Normal | 36,084 |
+| Cloudflare | 14,215 |
+| Normal | 36,085 |
 
 
 </details>
