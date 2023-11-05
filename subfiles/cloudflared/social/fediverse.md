@@ -1434,6 +1434,7 @@ Here's a list of public Fediverse services.
 | `ahoy.team` | No |
 | `ahp-numerique.fr` | No |
 | `ahri.cloud` | Yes |
+| `ahri.moe` | No |
 | `ahst.ro` | No |
 | `ahwx.org` | Yes |
 | `ahxxm.com` | Yes |
@@ -11691,7 +11692,7 @@ Here's a list of public Fediverse services.
 | `dvur.me` | No |
 | `dwar.fi` | No |
 | `dwards.org` | No |
-| `dwe.ng` | No |
+| `dwe.ng` | Yes |
 | `dwell.pub` | No |
 | `dwin.link` | No |
 | `dwntr.xyz` | No |
@@ -50352,7 +50353,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,219 |
+| Cloudflare | 14,220 |
 | Normal | 36,085 |
 
 
