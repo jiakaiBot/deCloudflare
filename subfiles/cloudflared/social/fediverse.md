@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,654 |
 | net | 3,932 |
 | org | 2,624 |
-| de | 2,465 |
+| de | 2,466 |
 
 
 - Mastodon, Pleroma, etc
@@ -6235,6 +6235,7 @@ Here's a list of public Fediverse services.
 | `c-p-b.com` | No |
 | `c-pool.jp` | No |
 | `c-r-t.tk` | Yes |
+| `c-radar.de` | No |
 | `c-u-tech.com` | No |
 | `c-view.club` | No |
 | `c.im` | Yes |
@@ -50364,7 +50365,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,223 |
-| Normal | 36,092 |
+| Normal | 36,093 |
 
 
 </details>
