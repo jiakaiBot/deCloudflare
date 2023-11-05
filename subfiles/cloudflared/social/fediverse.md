@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,907 |
 | social | 4,653 |
-| net | 3,929 |
+| net | 3,930 |
 | org | 2,624 |
 | de | 2,465 |
 
@@ -32382,6 +32382,7 @@ Here's a list of public Fediverse services.
 | `omedia.cloud` | Yes |
 | `omega-bytes.com` | No |
 | `omeganote.fr` | No |
+| `omemoji.net` | Yes |
 | `omeowgle.com` | Yes |
 | `omer.land` | Yes |
 | `omeryilmaz.com.tr` | Yes |
@@ -50344,7 +50345,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,210 |
+| Cloudflare | 14,211 |
 | Normal | 36,086 |
 
 
