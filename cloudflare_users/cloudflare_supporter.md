@@ -787,6 +787,7 @@ Do not create new issue or we will close it as duplicate.
 | [amanuelsolkas@twitter](https://twitter.com/amanuelsolkas/status/1654375928032575489) | advertise |
 | [AmanYad62817265@twitter](https://twitter.com/AmanYad62817265/status/1395775965280694274) | advertise |
 | [Amara35146318@twitter](https://twitter.com/Amara35146318/status/1396799727178375172) | advertise |
+| [AmaraBluck@twitter](https://twitter.com/AmaraBluck/status/1721106864639992135) | advertise |
 | [amarandosw@twitter](https://twitter.com/amarandosw/status/1379324477650006018) | advertise |
 | [amarok_kwon@twitter](https://twitter.com/amarok_kwon/status/1483054556930265096) | advertise |
 | [Amar_Chaouli@twitter](https://twitter.com/Amar_Chaouli/status/1532795804884295680) | advertise |
@@ -9164,6 +9165,7 @@ Do not create new issue or we will close it as duplicate.
 | [Navylover07@twitter](https://twitter.com/Navylover07/status/1511182368102838272) | advertise |
 | [nawalBadu@twitter](https://twitter.com/nawalBadu/status/1582370989455077377) | advertise |
 | [nawazbitone@twitter](https://twitter.com/nawazbitone/status/1563582579449614337) | advertise |
+| [nawid36470428@twitter](https://twitter.com/nawid36470428/status/1721083742171848810) | advertise |
 | [NawYamin5@twitter](https://twitter.com/NawYamin5/status/1394208976900739074) | advertise |
 | [nayan1332@twitter](https://twitter.com/nayan1332/status/1495866875267678208) | advertise |
 | [nayanray22@twitter](https://twitter.com/nayanray22/status/1621196111779340289) | advertise |
