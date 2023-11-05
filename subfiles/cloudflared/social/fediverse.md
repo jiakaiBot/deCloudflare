@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,906 |
+| com | 7,907 |
 | social | 4,653 |
 | net | 3,929 |
 | org | 2,624 |
@@ -6926,6 +6926,7 @@ Here's a list of public Fediverse services.
 | `ch1p.net` | No |
 | `ch3n2k.com` | Yes |
 | `ch405.xyz` | No |
+| `ch4lox.com` | Yes |
 | `ch94.de` | No |
 | `cha-cu.it` | No |
 | `chabal.es` | Yes |
@@ -50343,7 +50344,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,209 |
+| Cloudflare | 14,210 |
 | Normal | 36,086 |
 
 
