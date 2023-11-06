@@ -8078,7 +8078,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -27574,6 +27574,7 @@ Here's a list of public Fediverse services.
 | `merylscarlett.info` | No |
 | `mes-courriers.fr` | No |
 | `mesa-mas.ml` | No |
+| `mesange.art` | No |
 | `mescl.in` | No |
 | `mesh.party` | No |
 | `mesh.sx` | No |
@@ -50368,8 +50369,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,225 |
-| Normal | 36,095 |
+| Cloudflare | 14,224 |
+| Normal | 36,097 |
 
 
 </details>
