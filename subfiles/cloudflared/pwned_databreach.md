@@ -258,6 +258,7 @@ Here's a list of breached sites.
 | GameTuts | 2,064,274 | Yes |
 | GamerzPlanet (Gamerzplanet) | 1,217,166 | Yes |
 | Gamigo | 8,243,604 | Yes |
+| GamingMonk | 654,510 | Yes |
 | GateHub | 1,408,078 | Yes |
 | Gawker | 1,247,574 | No |
 | GeekedIn | 1,073,164 | No |
@@ -707,7 +708,7 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 401 | 4,493,243,191 |
+| Cloudflare | 402 | 4,493,897,701 |
 | Normal | 285 | 4,511,771,864 |
 
 
