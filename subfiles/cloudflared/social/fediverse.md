@@ -15621,6 +15621,7 @@ Here's a list of public Fediverse services.
 | `fw3rd-bc.jp` | No |
 | `fwgx.uk` | Yes |
 | `fwitter.net` | Yes |
+| `fwoar.co` | Yes |
 | `fwoof.space` | No |
 | `fx-don.net` | No |
 | `fx.cafe` | No |
@@ -43250,7 +43251,7 @@ Here's a list of public Fediverse services.
 | `tejas.wtf` | No |
 | `tejat.net` | No |
 | `tek.social` | No |
-| `tekati.cloud` | Yes |
+| `tekati.cloud` | No |
 | `tekdmn.me` | Yes |
 | `tekhify.de` | No |
 | `tekicha.org` | No |
@@ -50370,7 +50371,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,224 |
-| Normal | 36,097 |
+| Normal | 36,098 |
 
 
 </details>
