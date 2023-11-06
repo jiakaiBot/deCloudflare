@@ -24293,6 +24293,7 @@ Here's a list of public Fediverse services.
 | `lewd.town` | No |
 | `lewd.website` | No |
 | `lewdieheaven.com` | No |
+| `lewdieheaven.vip` | No |
 | `lewiekong.online` | No |
 | `lewisdale.dev` | No |
 | `lewishamcyclists.org.uk` | No |
@@ -50403,7 +50404,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,236 |
-| Normal | 36,118 |
+| Normal | 36,119 |
 
 
 </details>
