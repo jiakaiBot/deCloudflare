@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,918 |
 | social | 4,655 |
 | net | 3,935 |
-| org | 2,624 |
+| org | 2,625 |
 | de | 2,469 |
 
 
@@ -1755,6 +1755,7 @@ Here's a list of public Fediverse services.
 | `algore42069.ga` | No |
 | `algorithm.berlin` | No |
 | `algorithmic.tv` | No |
+| `algorithmicpattern.org` | No |
 | `algufr.com` | No |
 | `algul.in` | No |
 | `alhameedawi.com` | No |
@@ -50402,7 +50403,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,236 |
-| Normal | 36,117 |
+| Normal | 36,118 |
 
 
 </details>
