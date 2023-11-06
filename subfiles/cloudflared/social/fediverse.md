@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,914 |
-| social | 4,654 |
+| com | 7,918 |
+| social | 4,655 |
 | net | 3,933 |
 | org | 2,624 |
-| de | 2,466 |
+| de | 2,467 |
 
 
 - Mastodon, Pleroma, etc
@@ -1142,6 +1142,7 @@ Here's a list of public Fediverse services.
 | `adabwilde.com` | Yes |
 | `adace.fyi` | Yes |
 | `adachi.party` | No |
+| `adactio.com` | No |
 | `adaizen.com` | No |
 | `adalov.io` | No |
 | `adam.ac` | Yes |
@@ -1289,6 +1290,7 @@ Here's a list of public Fediverse services.
 | `aegibson.me` | No |
 | `aegiszero.is` | Yes |
 | `aegrel.ee` | Yes |
+| `aei.sh` | No |
 | `aeiou.football` | No |
 | `aekrylov.me` | No |
 | `aelaraji.com` | Yes |
@@ -11952,6 +11954,7 @@ Here's a list of public Fediverse services.
 | `ecutsa.fr` | No |
 | `ed-beck.com` | No |
 | `ed1.tokyo` | Yes |
+| `edafe.de` | Yes |
 | `edbob.org` | No |
 | `edchat.social` | No |
 | `edddy.eu` | No |
@@ -12151,6 +12154,7 @@ Here's a list of public Fediverse services.
 | `eila.me` | No |
 | `eilloh.net` | No |
 | `eimi-mastodon.com` | No |
+| `eimsbuettel.social` | No |
 | `ein-hub-von-vielen.de` | No |
 | `einbeck.social` | No |
 | `eindex.me` | Yes |
@@ -12375,6 +12379,7 @@ Here's a list of public Fediverse services.
 | `eltakana.net` | No |
 | `elte.hu` | No |
 | `eltoroweakly.com` | Yes |
+| `elturistacosmico.com` | No |
 | `elvandalinq.com` | No |
 | `elven.pw` | No |
 | `elves.forsale` | No |
@@ -22518,6 +22523,7 @@ Here's a list of public Fediverse services.
 | `kiraako.work` | No |
 | `kiracollie.dog` | Yes |
 | `kirakiratter.com` | Yes |
+| `kirameki.cafe` | Yes |
 | `kiran.dog` | Yes |
 | `kirangaikwad.com` | No |
 | `kiranshila.com` | No |
@@ -23998,6 +24004,7 @@ Here's a list of public Fediverse services.
 | `lelehier.de` | No |
 | `lelesius.eu` | Yes |
 | `lelgenio.xyz` | No |
+| `lelionetlagneau.blog` | No |
 | `lelux.fi` | No |
 | `lem.monster` | No |
 | `lem.social` | No |
@@ -27656,6 +27663,7 @@ Here's a list of public Fediverse services.
 | `method-n.com` | No |
 | `metokur.org` | Yes |
 | `metreee.com` | Yes |
+| `metricsmaster.eu` | No |
 | `metrix.network` | No |
 | `metro.bieszczady.pl` | No |
 | `metro.social` | Yes |
@@ -28076,6 +28084,7 @@ Here's a list of public Fediverse services.
 | `mineskey.xyz` | Yes |
 | `minet.net` | No |
 | `minetaro12.com` | Yes |
+| `minetest.ch` | No |
 | `mingel.nl` | No |
 | `mingus.social` | No |
 | `mingxingsex.com` | No |
@@ -28824,6 +28833,7 @@ Here's a list of public Fediverse services.
 | `moonland.social` | No |
 | `moonlight-party.net` | No |
 | `moonling.nl` | Yes |
+| `moonlit.city` | No |
 | `moonlitfiction.com` | Yes |
 | `moonmoth.de` | No |
 | `moonstars.org` | No |
@@ -28988,6 +28998,7 @@ Here's a list of public Fediverse services.
 | `mou.best` | Yes |
 | `mouchkine.fr` | No |
 | `mouf.net` | No |
+| `moul.es` | No |
 | `moul.re` | No |
 | `moule.world` | No |
 | `mountain.exchange` | No |
@@ -38388,6 +38399,7 @@ Here's a list of public Fediverse services.
 | `san-misskey1t.xyz` | Yes |
 | `san-tama.tokyo` | No |
 | `san.moe` | No |
+| `sanae.im` | Yes |
 | `sanae233.net` | Yes |
 | `sanam.xyz` | No |
 | `sanantonio.lol` | No |
@@ -39796,6 +39808,7 @@ Here's a list of public Fediverse services.
 | `sibear.fr` | No |
 | `siberia.work` | No |
 | `siberspace.org` | Yes |
+| `sibistreasures.com` | No |
 | `sibomots.com` | No |
 | `sicem.social` | No |
 | `sicherheit.social` | No |
@@ -40797,6 +40810,7 @@ Here's a list of public Fediverse services.
 | `sognensnekkerhaugen.xyz` | Yes |
 | `sogo.la` | Yes |
 | `sohan-tricoire.fr` | No |
+| `sohc.com.tw` | No |
 | `sohwatt.com` | Yes |
 | `sohwatt.com.sg` | Yes |
 | `soi.ch` | No |
@@ -47838,6 +47852,7 @@ Here's a list of public Fediverse services.
 | `web.app` | No |
 | `web0000.jp` | No |
 | `web30.top` | No |
+| `web3mq.com` | Yes |
 | `web3music.land` | No |
 | `web4.us` | No |
 | `web4u.jp` | No |
@@ -50380,8 +50395,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,230 |
-| Normal | 36,102 |
+| Cloudflare | 14,234 |
+| Normal | 36,113 |
 
 
 </details>
