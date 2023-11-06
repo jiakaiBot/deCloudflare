@@ -33130,7 +33130,7 @@ Here's a list of public Fediverse services.
 | `overgrown.garden` | Yes |
 | `overheard.social` | No |
 | `overheid.nl` | No |
-| `overholts.dev` | No |
+| `overholts.dev` | Yes |
 | `overkamp.co` | No |
 | `overke.pt` | No |
 | `overkill.social` | No |
@@ -34063,6 +34063,7 @@ Here's a list of public Fediverse services.
 | `phasorburn.com` | Yes |
 | `phast.ru` | Yes |
 | `phatcat.online` | No |
+| `phater.live` | Yes |
 | `phater.xyz` | Yes |
 | `phatnastytour.com` | No |
 | `phaysis.com` | No |
@@ -50379,8 +50380,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,228 |
-| Normal | 36,103 |
+| Cloudflare | 14,230 |
+| Normal | 36,102 |
 
 
 </details>
