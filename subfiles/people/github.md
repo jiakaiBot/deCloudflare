@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error in worker.js](https://github.com/ZazerConer/YouTube-to-M3U8/issues/6)
 - [Proposal: Support chunked file uploads](https://github.com/pocketbase/pocketbase/issues/3691)
 - [Found an error using the template](https://github.com/kwchang0831/svelte-QWER/issues/86)
 - [appsero website - app - does not remove the payment card](https://github.com/Appsero/client/issues/33)
