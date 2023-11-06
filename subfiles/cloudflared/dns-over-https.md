@@ -145,6 +145,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | meeo.win | Yes |
 | meganerd.nl | No |
 | mmmalia.com | No |
+| mni.li | Yes |
 | mobik.com | No |
 | modr.club | Yes |
 | molinero.dev | Yes |
@@ -225,6 +226,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tiarap.org | Yes |
 | timmes.nl | No |
 | tls-data.de | No |
+| tshost.no | Yes |
 | tu-bs.de | No |
 | twnic.tw | No |
 | unstoppable.io | Yes |
@@ -239,14 +241,15 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | xcom.pro | No |
 | xfinity.com | Yes |
 | yovbak.com | No |
+| zln.wtf | No |
 
 
 ----
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 106 |
-| Normal | 120 |
+| Cloudflare | 108 |
+| Normal | 121 |
 
 
-### 46.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
