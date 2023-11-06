@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,655 |
 | net | 3,933 |
 | org | 2,624 |
-| de | 2,467 |
+| de | 2,469 |
 
 
 - Mastodon, Pleroma, etc
@@ -6236,7 +6236,7 @@ Here's a list of public Fediverse services.
 | `c-onner.net` | No |
 | `c-onr.de` | Yes |
 | `c-p-b.com` | No |
-| `c-pool.jp` | No |
+| `c-pool.jp` | Yes |
 | `c-r-t.tk` | Yes |
 | `c-radar.de` | No |
 | `c-u-tech.com` | No |
@@ -17206,6 +17206,7 @@ Here's a list of public Fediverse services.
 | `gru.guru` | No |
 | `gru.social` | No |
 | `grudge.space` | No |
+| `gruene-badoeynhausen.de` | No |
 | `gruene-urbach.de` | No |
 | `gruene.social` | No |
 | `gruenehoelle.nl` | Yes |
@@ -39599,6 +39600,7 @@ Here's a list of public Fediverse services.
 | `shibimega.social` | Yes |
 | `shibuya.top` | Yes |
 | `shiftyeyed.net` | No |
+| `shig.de` | No |
 | `shigadon.com` | No |
 | `shigezen.com` | No |
 | `shiggy.fun` | Yes |
@@ -42736,7 +42738,7 @@ Here's a list of public Fediverse services.
 | `tailma.ws` | No |
 | `tailnet.xyz` | Yes |
 | `tailored.social` | No |
-| `tails.ch` | No |
+| `tails.ch` | Yes |
 | `tailsproject.co` | No |
 | `tailswish.industries` | No |
 | `taintedworld.org` | Yes |
@@ -50396,7 +50398,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,234 |
+| Cloudflare | 14,236 |
 | Normal | 36,114 |
 
 
