@@ -6553,6 +6553,7 @@ Do not create new issue or we will close it as duplicate.
 | [Khoa69462509@twitter](https://twitter.com/Khoa69462509/status/1555495230685646848) | advertise |
 | [khoacream@twitter](https://twitter.com/khoacream/status/1477881004341985282) | advertise |
 | [khoaito9292@twitter](https://twitter.com/khoaito9292/status/1478745024930086913) | advertise |
+| [KhoaNguyn990438@twitter](https://twitter.com/KhoaNguyn990438/status/1721559768609980770) | advertise |
 | [KhoaNguynng16@twitter](https://twitter.com/KhoaNguynng16/status/1399519583673847809) | advertise |
 | [KhoaTrn39569391@twitter](https://twitter.com/KhoaTrn39569391/status/1553426613429477377) | advertise |
 | [khoayellow21022@twitter](https://twitter.com/khoayellow21022/status/1382312494434185216) | advertise |
@@ -10771,6 +10772,7 @@ Do not create new issue or we will close it as duplicate.
 | [p_bhands@twitter](https://twitter.com/p_bhands/status/1439221468508925954) | advertise |
 | [p__d_t@twitter](https://twitter.com/p__d_t/status/1538131850966683648) | advertise |
 | [P___NOO@twitter](https://twitter.com/P___NOO/status/1389947952836218884) | advertise |
+| [QadirCalip78080@twitter](https://twitter.com/QadirCalip78080/status/1721547877812404612) | advertise |
 | [Qais61854131@twitter](https://twitter.com/Qais61854131/status/1684319994002149376) | advertise |
 | [qalifhilmi@twitter](https://twitter.com/qalifhilmi/status/1394339624986681344) | advertise |
 | [qbar65081251@twitter](https://twitter.com/qbar65081251/status/1400029689020702721) | advertise |
