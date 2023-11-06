@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,918 |
 | social | 4,655 |
-| net | 3,933 |
+| net | 3,935 |
 | org | 2,624 |
 | de | 2,469 |
 
@@ -5915,6 +5915,7 @@ Here's a list of public Fediverse services.
 | `brunomassa.com` | Yes |
 | `brunopedro.com` | No |
 | `brunovellutini.com` | No |
+| `brunovianna.net` | No |
 | `brunty.social` | Yes |
 | `brusee.ru` | No |
 | `brusilia.eu` | No |
@@ -24536,6 +24537,7 @@ Here's a list of public Fediverse services.
 | `lila.network` | Yes |
 | `lilac.place` | Yes |
 | `lilahexe.top` | No |
+| `lilbyte.dev` | No |
 | `lile.cl` | Yes |
 | `liliputech.com` | No |
 | `liliputing.com` | Yes |
@@ -28921,6 +28923,7 @@ Here's a list of public Fediverse services.
 | `moron.city` | No |
 | `moroz.cc` | Yes |
 | `morphball.net` | No |
+| `morpheu5.net` | No |
 | `morphnet.de` | No |
 | `morphtown.de` | No |
 | `morphux.org` | No |
@@ -50399,7 +50402,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,236 |
-| Normal | 36,114 |
+| Normal | 36,117 |
 
 
 </details>
