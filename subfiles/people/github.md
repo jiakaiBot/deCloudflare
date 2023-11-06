@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Proposal: Support chunked file uploads](https://github.com/pocketbase/pocketbase/issues/3691)
 - [Found an error using the template](https://github.com/kwchang0831/svelte-QWER/issues/86)
 - [appsero website - app - does not remove the payment card](https://github.com/Appsero/client/issues/33)
 - [400 for create-file](https://github.com/wkok/openai-clojure/issues/34)
