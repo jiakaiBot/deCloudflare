@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,913 |
+| com | 7,914 |
 | social | 4,654 |
 | net | 3,933 |
 | org | 2,624 |
@@ -33408,6 +33408,7 @@ Here's a list of public Fediverse services.
 | `panta.systems` | Yes |
 | `pantasystem.com` | Yes |
 | `pantdon.site` | Yes |
+| `pantheonstorm.com` | No |
 | `panthereye.news` | Yes |
 | `panthermodern.net` | No |
 | `panthermoderns.org` | No |
@@ -50379,7 +50380,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,228 |
-| Normal | 36,102 |
+| Normal | 36,103 |
 
 
 </details>
