@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,911 |
 | social | 4,654 |
-| net | 3,932 |
+| net | 3,933 |
 | org | 2,624 |
 | de | 2,466 |
 
@@ -19451,6 +19451,7 @@ Here's a list of public Fediverse services.
 | `ikaruga.me` | No |
 | `ikasekai.com` | No |
 | `ikashima.net` | No |
+| `ikasoba.net` | Yes |
 | `ikata.co` | Yes |
 | `ikbenpiraat.nl` | No |
 | `ikcafe.ch` | No |
@@ -50372,7 +50373,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,225 |
+| Cloudflare | 14,226 |
 | Normal | 36,099 |
 
 
