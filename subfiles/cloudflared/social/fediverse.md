@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,911 |
-| social | 4,654 |
+| social | 4,653 |
 | net | 3,932 |
 | org | 2,624 |
 | de | 2,466 |
@@ -8226,7 +8226,6 @@ Here's a list of public Fediverse services.
 | `concordia.social` | No |
 | `concurrent.world` | No |
 | `conduitry.me` | Yes |
-| `conejo.social` | Yes |
 | `conesphere.cloud` | No |
 | `conesphere.social` | No |
 | `conf.tube` | No |
@@ -9069,6 +9068,7 @@ Here's a list of public Fediverse services.
 | `customvisualdesigns.com` | No |
 | `customvisualdesigns.comsocial` | No |
 | `cute.army` | No |
+| `cute.church` | Yes |
 | `cute.group` | No |
 | `cute.is` | Yes |
 | `cute.rest` | No |
@@ -15621,6 +15621,7 @@ Here's a list of public Fediverse services.
 | `fw3rd-bc.jp` | No |
 | `fwgx.uk` | Yes |
 | `fwitter.net` | Yes |
+| `fwoar.co` | Yes |
 | `fwoof.space` | No |
 | `fx-don.net` | No |
 | `fx.cafe` | No |
@@ -50369,7 +50370,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,224 |
+| Cloudflare | 14,225 |
 | Normal | 36,097 |
 
 
