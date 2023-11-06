@@ -9220,6 +9220,7 @@ Here's a list of public Fediverse services.
 | `cyberreality.org` | No |
 | `cyberretards.xyz` | Yes |
 | `cyberrex.jp` | Yes |
+| `cybers.red` | Yes |
 | `cybersamurai.digital` | No |
 | `cyberscene.gq` | No |
 | `cybersec.community` | Yes |
@@ -50376,7 +50377,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,227 |
+| Cloudflare | 14,228 |
 | Normal | 36,101 |
 
 
