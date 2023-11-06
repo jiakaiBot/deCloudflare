@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,911 |
-| social | 4,653 |
+| com | 7,913 |
+| social | 4,654 |
 | net | 3,933 |
 | org | 2,624 |
 | de | 2,466 |
@@ -12019,6 +12019,7 @@ Here's a list of public Fediverse services.
 | `educoop.coop` | No |
 | `eduf.me` | Yes |
 | `edufor.me` | No |
+| `edugoogdroid.com` | Yes |
 | `eduk8.me` | Yes |
 | `edumasto.org` | No |
 | `edunova.it` | Yes |
@@ -22931,6 +22932,7 @@ Here's a list of public Fediverse services.
 | `konradlemanski.dev` | Yes |
 | `konradrundfunk.me` | No |
 | `konsolenknecht.de` | No |
+| `konstantintutsch.com` | No |
 | `konstantintutsch.de` | No |
 | `konstanz-net.de` | No |
 | `konstellation.social` | No |
@@ -32981,6 +32983,7 @@ Here's a list of public Fediverse services.
 | `otherwise.social` | No |
 | `otherworldsink.com` | Yes |
 | `oti.st` | No |
+| `otisburg.social` | No |
 | `otlab.dev` | Yes |
 | `otmns.net` | Yes |
 | `oto-usa.org` | No |
@@ -50373,8 +50376,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,226 |
-| Normal | 36,099 |
+| Cloudflare | 14,227 |
+| Normal | 36,101 |
 
 
 </details>
