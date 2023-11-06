@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,918 |
 | social | 4,655 |
 | net | 3,935 |
-| org | 2,625 |
+| org | 2,626 |
 | de | 2,469 |
 
 
@@ -28596,6 +28596,7 @@ Here's a list of public Fediverse services.
 | `mods4ever.com` | No |
 | `modscleo4.dev.br` | No |
 | `modspil.dk` | No |
+| `moduwa.org` | Yes |
 | `moe-max.jp` | Yes |
 | `moe-overload.com` | No |
 | `moe.cat` | No |
@@ -50403,7 +50404,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,236 |
+| Cloudflare | 14,237 |
 | Normal | 36,119 |
 
 
