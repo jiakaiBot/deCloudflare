@@ -8500,6 +8500,7 @@ Here's a list of public Fediverse services.
 | `cotman.info` | No |
 | `cotonea.me` | No |
 | `cotsi.xyz` | No |
+| `cottoncandy.cafe` | No |
 | `cottongin.xyz` | Yes |
 | `couchet.org` | No |
 | `couchpotato.sexy` | Yes |
@@ -50378,7 +50379,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,228 |
-| Normal | 36,101 |
+| Normal | 36,102 |
 
 
 </details>
