@@ -17311,6 +17311,7 @@ Here's a list of public Fediverse services.
 | `gulovsen.io` | No |
 | `gulp.cafe` | No |
 | `gultsch.social` | No |
+| `gultsch.video` | No |
 | `gumbercules.net` | No |
 | `gumifox.eu` | No |
 | `gummipunkt.eu` | Yes |
@@ -50396,7 +50397,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,234 |
-| Normal | 36,113 |
+| Normal | 36,114 |
 
 
 </details>
