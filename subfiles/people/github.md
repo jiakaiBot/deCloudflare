@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Entity becoming "unavailable" every few minutes](https://github.com/bigmoby/fglair_for_homeassistant/issues/77)
 - [When I open it it says: ! Only gmail with app password is allowed!](https://github.com/KasRoudra/MaxPhisher/issues/107)
 - [LDAP Passing null to parameter 1 (string) of type string is deprecated](https://github.com/freescout-helpdesk/freescout/issues/3501)
 - [Error in worker.js](https://github.com/ZazerConer/YouTube-to-M3U8/issues/6)
