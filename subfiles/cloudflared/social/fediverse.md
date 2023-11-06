@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,911 |
-| social | 4,653 |
+| social | 4,654 |
 | net | 3,932 |
 | org | 2,624 |
 | de | 2,466 |
@@ -8226,6 +8226,7 @@ Here's a list of public Fediverse services.
 | `concordia.social` | No |
 | `concurrent.world` | No |
 | `conduitry.me` | Yes |
+| `conejo.social` | Yes |
 | `conesphere.cloud` | No |
 | `conesphere.social` | No |
 | `conf.tube` | No |
@@ -15621,7 +15622,6 @@ Here's a list of public Fediverse services.
 | `fw3rd-bc.jp` | No |
 | `fwgx.uk` | Yes |
 | `fwitter.net` | Yes |
-| `fwoar.co` | Yes |
 | `fwoof.space` | No |
 | `fx-don.net` | No |
 | `fx.cafe` | No |
@@ -31892,6 +31892,7 @@ Here's a list of public Fediverse services.
 | `nya.social` | No |
 | `nyaa.app` | Yes |
 | `nyaa.io` | No |
+| `nyaa.place` | No |
 | `nyaa.social` | No |
 | `nyaa.tech` | Yes |
 | `nyaaa.net` | No |
@@ -36786,6 +36787,7 @@ Here's a list of public Fediverse services.
 | `redmi233.tk` | No |
 | `redmine.jp` | No |
 | `redmint.org` | Yes |
+| `redmountain.club` | No |
 | `rednblack.net` | Yes |
 | `redneck.cloud` | Yes |
 | `rednosehacker.com` | No |
@@ -50371,7 +50373,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,225 |
-| Normal | 36,097 |
+| Normal | 36,099 |
 
 
 </details>
