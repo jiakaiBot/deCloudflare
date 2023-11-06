@@ -10254,6 +10254,7 @@ Do not create new issue or we will close it as duplicate.
 | [peterchewmy@twitter](https://twitter.com/peterchewmy/status/1597520245513588736) | advertise |
 | [peterkc@twitter](https://twitter.com/peterkc/status/1529824761953456128) | advertise |
 | [peteroudenes@twitter](https://twitter.com/peteroudenes/status/1589933292585127938) | advertise |
+| [petevogt@twitter](https://twitter.com/petevogt/status/1721577408451535337) | advertise |
 | [PetocoShop@twitter](https://twitter.com/PetocoShop/status/1638646091498266624) | advertise |
 | [PetRehomingNet@twitter](https://twitter.com/PetRehomingNet/status/1661552655922020353) | advertise |
 | [pettiestEddie@twitter](https://twitter.com/pettiestEddie/status/1558420639651926017) | advertise |
