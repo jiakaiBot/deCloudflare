@@ -1602,6 +1602,7 @@ Do not create new issue or we will close it as duplicate.
 | [BaggyB7@twitter](https://twitter.com/BaggyB7/status/1389914222096576513) | advertise |
 | [BaGyiYe1@twitter](https://twitter.com/BaGyiYe1/status/1395180902947381253) | advertise |
 | [baha13860327@twitter](https://twitter.com/baha13860327/status/1581254886418620419) | advertise |
+| [BahramPubg37022@twitter](https://twitter.com/BahramPubg37022/status/1721920096380330375) | advertise |
 | [bahrkoy@twitter](https://twitter.com/bahrkoy/status/1514873983975497732) | advertise |
 | [Bailgaadi_Pilot@twitter](https://twitter.com/Bailgaadi_Pilot/status/1463419001954914306) | advertise |
 | [baimint_minmint@twitter](https://twitter.com/baimint_minmint/status/1393478992653553665) | advertise |
@@ -9736,6 +9737,7 @@ Do not create new issue or we will close it as duplicate.
 | [noor51489534@twitter](https://twitter.com/noor51489534/status/1405490093603893249) | advertise |
 | [noorisaheb2525@twitter](https://twitter.com/noorisaheb2525/status/1709989852068934061) | advertise |
 | [NOPEACE07@twitter](https://twitter.com/NOPEACE07/status/1526259330458300417) | advertise |
+| [NoppharatA18969@twitter](https://twitter.com/NoppharatA18969/status/1721910419168833670) | advertise |
 | [Nora05282397@twitter](https://twitter.com/Nora05282397/status/1390740645157900291) | advertise |
 | [norarini5@twitter](https://twitter.com/norarini5/status/1648338966079324163) | advertise |
 | [norhidayuzinon@twitter](https://twitter.com/norhidayuzinon/status/1385720279872253954) | advertise |
@@ -10684,6 +10686,7 @@ Do not create new issue or we will close it as duplicate.
 | [ProfTakeruHiga@twitter](https://twitter.com/ProfTakeruHiga/status/1388474623214243842) | advertise |
 | [ProgramerDev@twitter](https://twitter.com/ProgramerDev/status/1466576384327700481) | advertise |
 | [ProgrammerRDAI@twitter](https://twitter.com/ProgrammerRDAI/status/1531626215013879810) | advertise |
+| [prohdhn@twitter](https://twitter.com/prohdhn/status/1721918759827623994) | advertise |
 | [ProjectPiper@twitter](https://twitter.com/ProjectPiper/status/1690839848880427008) | advertise |
 | [promo_brimo2022@twitter](https://twitter.com/promo_brimo2022/status/1593675240743137280) | advertise |
 | [ProteinPink@twitter](https://twitter.com/ProteinPink/status/1522848358548873217) | advertise |
