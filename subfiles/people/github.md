@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Custom cloudflare tunnel version](https://github.com/louislam/uptime-kuma/issues/3993)
 - [Write a handler in concert with the UsernameDialog](https://github.com/1ifeworld/river/issues/35)
 - [Can't Use Prowlarr with YggTorrent](https://github.com/FlareSolverr/FlareSolverr/issues/949)
 - ["Older"/"Newer" buttons do cycle between two specific tickets](https://github.com/freescout-helpdesk/freescout/issues/3506)
