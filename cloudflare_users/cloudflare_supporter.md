@@ -1758,6 +1758,7 @@ Do not create new issue or we will close it as duplicate.
 | [benjmauldin22@twitter](https://twitter.com/benjmauldin22/status/1621316748258562048) | advertise |
 | [benny_sutton@twitter](https://twitter.com/benny_sutton/status/1446103619627991040) | advertise |
 | [benoriginal@twitter](https://twitter.com/benoriginal/status/1603224414782365696) | advertise |
+| [bens_space@twitter](https://twitter.com/bens_space/status/1721669930993541601) | advertise |
 | [beo_me70040@twitter](https://twitter.com/beo_me70040/status/1708833975098311014) | advertise |
 | [BepariAyush@twitter](https://twitter.com/BepariAyush/status/1399298472340197379) | advertise |
 | [bepsieusao@twitter](https://twitter.com/bepsieusao/status/1471248764803248130) | advertise |
@@ -4048,6 +4049,7 @@ Do not create new issue or we will close it as duplicate.
 | [gabutajahehe948@twitter](https://twitter.com/gabutajahehe948/status/1553049848601284608) | advertise |
 | [gad17@twitter](https://twitter.com/gad17/status/1386581003356065793) | advertise |
 | [GadgetRumours@twitter](https://twitter.com/GadgetRumours/status/1467895967248695305) | advertise |
+| [GaGamaximorx@twitter](https://twitter.com/GaGamaximorx/status/1721718931428454862) | advertise |
 | [GAGANDE95206340@twitter](https://twitter.com/GAGANDE95206340/status/1398149233992036353) | advertise |
 | [GAGz79429876@twitter](https://twitter.com/GAGz79429876/status/1531868813452464128) | advertise |
 | [gaijingen@twitter](https://twitter.com/gaijingen/status/1400023426157346821) | advertise |
@@ -5319,6 +5321,7 @@ Do not create new issue or we will close it as duplicate.
 | [I3AW420@twitter](https://twitter.com/I3AW420/status/1577971233395986432) | advertise |
 | [i9zc4IQ1VoYEKF0@twitter](https://twitter.com/i9zc4IQ1VoYEKF0/status/1384246450146533391) | advertise |
 | [i@twitter](https://twitter.com/i/status/1691795834416025801) | advertise |
+| [Ia32420Ian@twitter](https://twitter.com/Ia32420Ian/status/1721709195832222178) | advertise |
 | [IAddawale18239@twitter](https://twitter.com/IAddawale18239/status/1705984770709348446) | advertise |
 | [IAddawale49029@twitter](https://twitter.com/IAddawale49029/status/1706355816834519109) | advertise |
 | [IainMcKenzie101@twitter](https://twitter.com/IainMcKenzie101/status/1602214203703824384) | advertise |
@@ -11329,6 +11332,7 @@ Do not create new issue or we will close it as duplicate.
 | [RRZDxxxRRZD2@twitter](https://twitter.com/RRZDxxxRRZD2/status/1594360521121488897) | advertise |
 | [RRZDxxxRRZD@twitter](https://twitter.com/RRZDxxxRRZD/status/1594360533746323457) | advertise |
 | [RSoontorntem@twitter](https://twitter.com/RSoontorntem/status/1684609386361344000) | advertise |
+| [RTaylor_LA@twitter](https://twitter.com/RTaylor_LA/status/1721708800032608730) | advertise |
 | [RtBapu@twitter](https://twitter.com/RtBapu/status/1379872176627662848) | advertise |
 | [Rtu13618@twitter](https://twitter.com/Rtu13618/status/1688469103244087296) | advertise |
 | [rtype0147@twitter](https://twitter.com/rtype0147/status/1475061620196151301) | advertise |
@@ -14719,6 +14723,7 @@ Do not create new issue or we will close it as duplicate.
 | [yAw12eeee@twitter](https://twitter.com/yAw12eeee/status/1400854581752393735) | advertise |
 | [YAwad7@twitter](https://twitter.com/YAwad7/status/1380723783540084737) | advertise |
 | [yaw_kuan@twitter](https://twitter.com/yaw_kuan/status/1715680770315223047) | advertise |
+| [yayyay_tla@twitter](https://twitter.com/yayyay_tla/status/1721711288622137643) | advertise |
 | [yay_cat_@twitter](https://twitter.com/yay_cat_/status/1431521757995970560) | advertise |
 | [Yazar76810526@twitter](https://twitter.com/Yazar76810526/status/1392062593620058114) | advertise |
 | [YBehniafar@twitter](https://twitter.com/YBehniafar/status/1401249032958263297) | advertise |
