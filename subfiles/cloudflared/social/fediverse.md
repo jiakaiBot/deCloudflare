@@ -31547,6 +31547,7 @@ Here's a list of public Fediverse services.
 | `notandy.de` | No |
 | `notanow.net` | No |
 | `notaphish.fyi` | No |
+| `notashelf.dev` | No |
 | `notaskey.com` | Yes |
 | `notasquirrel.dev` | No |
 | `notawebsite.fr` | No |
@@ -50419,7 +50420,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,243 |
-| Normal | 36,127 |
+| Normal | 36,128 |
 
 
 </details>
