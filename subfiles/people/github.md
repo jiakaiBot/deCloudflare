@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Different URL for api push](https://github.com/louislam/uptime-kuma/issues/3991)
 - [Add configuration values for the Pipelines created containers](https://github.com/harness/gitness/issues/3428)
 - [Entity becoming "unavailable" every few minutes](https://github.com/bigmoby/fglair_for_homeassistant/issues/77)
 - [When I open it it says: ! Only gmail with app password is allowed!](https://github.com/KasRoudra/MaxPhisher/issues/107)
