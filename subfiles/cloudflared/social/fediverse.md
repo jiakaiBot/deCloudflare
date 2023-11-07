@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,918 |
+| com | 7,920 |
 | social | 4,655 |
-| net | 3,935 |
+| net | 3,936 |
 | org | 2,626 |
 | de | 2,469 |
 
@@ -10030,6 +10030,7 @@ Here's a list of public Fediverse services.
 | `deeloves.me` | No |
 | `deemos.club` | Yes |
 | `deep-learning.site` | No |
+| `deep-sky-gate.net` | Yes |
 | `deep-weeb.com` | No |
 | `deep13.social` | No |
 | `deep14.com` | No |
@@ -16451,7 +16452,7 @@ Here's a list of public Fediverse services.
 | `gitler.moe` | No |
 | `gitmo.life` | No |
 | `gitmo.tv` | No |
-| `gitpod.io` | No |
+| `gitpod.io` | Yes |
 | `gitport.net` | Yes |
 | `giurgiu.io` | No |
 | `giveanornot.com` | No |
@@ -17954,6 +17955,7 @@ Here's a list of public Fediverse services.
 | `headphone.actor` | No |
 | `heads.social` | No |
 | `headsoft.net` | No |
+| `healingwithyessie.com` | No |
 | `healthcode.cloud` | Yes |
 | `heapoverflow.ml` | No |
 | `hear-me.social` | Yes |
@@ -18847,6 +18849,7 @@ Here's a list of public Fediverse services.
 | `hounds.online` | Yes |
 | `houngbo.net` | No |
 | `houps.eu` | Yes |
+| `hourly.photo` | No |
 | `house-of.xyz` | No |
 | `housecat.dog` | No |
 | `housegoater.co.uk` | No |
@@ -19875,7 +19878,7 @@ Here's a list of public Fediverse services.
 | `inman.xyz` | No |
 | `inmediahk.net` | Yes |
 | `inmmosiliketo.tk` | No |
-| `inn4tel.social` | No |
+| `inn4tel.social` | Yes |
 | `inndy.tw` | Yes |
 | `innernet.link` | Yes |
 | `innernette.social` | Yes |
@@ -20069,6 +20072,7 @@ Here's a list of public Fediverse services.
 | `io-cantina.com` | No |
 | `io-milkbar.com` | No |
 | `io.lu` | Yes |
+| `io.seg.br` | No |
 | `io0288.cn` | No |
 | `io18.ovh` | No |
 | `io18.top` | No |
@@ -27801,6 +27805,7 @@ Here's a list of public Fediverse services.
 | `michaelpuckett.engineer` | Yes |
 | `michaels.world` | Yes |
 | `michaelsantillan.com` | Yes |
+| `michaelscotthand.com` | No |
 | `michaelthinks.com` | No |
 | `michaonline.net` | No |
 | `michaz.de` | No |
@@ -31530,7 +31535,7 @@ Here's a list of public Fediverse services.
 | `not.one` | No |
 | `nota.live` | No |
 | `nota.pub` | No |
-| `notacri.me` | No |
+| `notacri.me` | Yes |
 | `notactuallyacat.com` | No |
 | `notacult.social` | No |
 | `notadroid.com` | No |
@@ -39722,7 +39727,7 @@ Here's a list of public Fediverse services.
 | `shojiwax.com` | No |
 | `shokanradio.com` | Yes |
 | `shokdurt.com` | No |
-| `shoko.one` | No |
+| `shoko.one` | Yes |
 | `shokujin.jp` | Yes |
 | `shollow.net` | No |
 | `shoni.town` | No |
@@ -50230,7 +50235,7 @@ Here's a list of public Fediverse services.
 | `zohup.net` | Yes |
 | `zoinks.one` | No |
 | `zokni.xyz` | Yes |
-| `zoktalk.com` | Yes |
+| `zoktalk.com` | No |
 | `zolfite.net` | No |
 | `zoltasila.pl` | No |
 | `zom.bi` | No |
@@ -50404,8 +50409,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,237 |
-| Normal | 36,119 |
+| Cloudflare | 14,241 |
+| Normal | 36,120 |
 
 
 </details>
