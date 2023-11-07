@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Tracking: Russian users unable to connect to Modrinth's meta servers with the app](https://github.com/modrinth/theseus/issues/858)
 - [Different URL for api push](https://github.com/louislam/uptime-kuma/issues/3991)
 - [Add configuration values for the Pipelines created containers](https://github.com/harness/gitness/issues/3428)
 - [Entity becoming "unavailable" every few minutes](https://github.com/bigmoby/fglair_for_homeassistant/issues/77)
