@@ -60,7 +60,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | clanless.ovh | Yes |
 | cloudflare-dns.com | Yes |
 | crypto.sx | Yes |
-| cwlys.com | Yes |
 | cynthialabs.net | Yes |
 | data.haus | No |
 | datacore.ch | No |
@@ -146,7 +145,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | meganerd.nl | No |
 | mmmalia.com | No |
 | mni.li | Yes |
-| mobik.com | No |
 | modr.club | Yes |
 | molinero.dev | Yes |
 | mullvad.net | No |
@@ -248,8 +246,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 108 |
-| Normal | 121 |
+| Cloudflare | 107 |
+| Normal | 120 |
 
 
-### 47.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 47.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
