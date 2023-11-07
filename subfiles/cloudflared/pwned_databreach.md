@@ -344,7 +344,8 @@ Here's a list of breached sites.
 | LightsHope (Light's Hope) | 30,484 | Yes |
 | Liker | 465,141 | No |
 | LimeVPN | 23,348 | Yes |
-| LinkedInScrape (LinkedIn Scraped Data) | 125,698,496 | Yes |
+| LinkedInScrape (LinkedIn Scraped Data (2021)) | 125,698,496 | Yes |
+| LinkedInScrape2023 (LinkedIn Scraped and Faked Data (2023)) | 5,820,276 | Yes |
 | LinkedIn | 164,611,595 | Yes |
 | LinuxForums (Linux Forums) | 275,785 | Yes |
 | LinuxMint (Linux Mint) | 144,989 | No |
@@ -708,10 +709,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 402 | 4,493,897,701 |
+| Cloudflare | 403 | 4,499,717,977 |
 | Normal | 285 | 4,511,771,864 |
 
 
 
-### 58.5% of breached sites (pwned sites) are using Cloudflare.
+### 58.6% of breached sites (pwned sites) are using Cloudflare.
 ### 49.9% of leaked accounts are on Cloudflare sites.
