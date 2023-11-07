@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,920 |
+| com | 7,922 |
 | social | 4,655 |
-| net | 3,936 |
+| net | 3,938 |
 | org | 2,626 |
 | de | 2,469 |
 
@@ -2737,6 +2737,7 @@ Here's a list of public Fediverse services.
 | `arcadia.video` | No |
 | `arcadiaroad.com` | No |
 | `arcan-fe.com` | No |
+| `arcanasys.me` | No |
 | `arcane.blue` | No |
 | `arcane.town` | Yes |
 | `arcaneassociation.network` | Yes |
@@ -8745,6 +8746,7 @@ Here's a list of public Fediverse services.
 | `critcare.social` | No |
 | `critica.li` | No |
 | `critica.social` | No |
+| `critical-mapping.net` | No |
 | `criticalbasics.xyz` | No |
 | `criticalhit.net` | Yes |
 | `criticalrolestats.com` | No |
@@ -16796,6 +16798,7 @@ Here's a list of public Fediverse services.
 | `goob.social` | Yes |
 | `goochiegoo.net` | Yes |
 | `good-dragon.com` | No |
+| `good-eris.net` | No |
 | `good-it.com` | No |
 | `good.news` | Yes |
 | `goodanser.com` | Yes |
@@ -24631,6 +24634,7 @@ Here's a list of public Fediverse services.
 | `linksgruenversifft.com` | Yes |
 | `linksgruenversifft.social` | No |
 | `linksjugend-solid.de` | No |
+| `linkwaveconnect.com.br` | Yes |
 | `linkybook.com` | No |
 | `lino.cooking` | Yes |
 | `linode.com` | Yes |
@@ -39518,6 +39522,7 @@ Here's a list of public Fediverse services.
 | `shanghaifantasy.social` | Yes |
 | `shangri-la.cloud` | No |
 | `shangtai.net` | No |
+| `shannonmcmaster.com` | No |
 | `shanske.com` | No |
 | `shanti.cafe` | No |
 | `shantih19.xyz` | No |
@@ -40647,6 +40652,7 @@ Here's a list of public Fediverse services.
 | `soatok.blog` | No |
 | `sobac.com` | No |
 | `sobe.world` | No |
+| `soberveganwarrior.com` | No |
 | `sobes.co.uk` | No |
 | `sobieck.social` | No |
 | `sobieski.social` | No |
@@ -41236,6 +41242,7 @@ Here's a list of public Fediverse services.
 | `spimescape.com` | No |
 | `spin-2.net` | No |
 | `spin-off.com` | No |
+| `spin.wtf` | Yes |
 | `spindles.cc` | Yes |
 | `spinics.net` | No |
 | `spinkynetworks.com` | No |
@@ -48162,6 +48169,7 @@ Here's a list of public Fediverse services.
 | `wheelsinquirer.com` | Yes |
 | `whemic.xyz` | No |
 | `when.computer` | No |
+| `whenpeople.live` | No |
 | `whereaboat.rocks` | No |
 | `whereismysupersuit.com` | No |
 | `whereismytribe.net` | No |
@@ -50118,6 +50126,7 @@ Here's a list of public Fediverse services.
 | `zettas.space` | No |
 | `zettel.haus` | No |
 | `zettelkasten.social` | No |
+| `zeuke.me` | No |
 | `zeus.gent` | No |
 | `zeuslink.net` | Yes |
 | `zevs.me` | No |
@@ -50409,8 +50418,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,241 |
-| Normal | 36,120 |
+| Cloudflare | 14,243 |
+| Normal | 36,127 |
 
 
 </details>
