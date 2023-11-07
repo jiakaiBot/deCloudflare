@@ -14808,6 +14808,7 @@ Do not create new issue or we will close it as duplicate.
 | [YfFUjaGBEwSKgwJ@twitter](https://twitter.com/YfFUjaGBEwSKgwJ/status/1398274069175312386) | advertise |
 | [YGCAT2@twitter](https://twitter.com/YGCAT2/status/1386892481137188867) | advertise |
 | [ygntharlay12345@twitter](https://twitter.com/ygntharlay12345/status/1505510926099030020) | advertise |
+| [yhadce@twitter](https://twitter.com/yhadce/status/1711591590131540320) | advertise |
 | [yibi@twitter](https://twitter.com/yibi/status/1459115266013466629) | advertise |
 | [YiingMingg@twitter](https://twitter.com/YiingMingg/status/1721212922410733694) | advertise |
 | [YiKi21821263@twitter](https://twitter.com/YiKi21821263/status/1393997906147901440) | advertise |
