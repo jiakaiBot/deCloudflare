@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't Use Prowlarr with YggTorrent](https://github.com/FlareSolverr/FlareSolverr/issues/949)
+- ["Older"/"Newer" buttons do cycle between two specific tickets](https://github.com/freescout-helpdesk/freescout/issues/3506)
 - [Tracking: Russian users unable to connect to Modrinth's meta servers with the app](https://github.com/modrinth/theseus/issues/858)
 - [Different URL for api push](https://github.com/louislam/uptime-kuma/issues/3991)
 - [Add configuration values for the Pipelines created containers](https://github.com/harness/gitness/issues/3428)
