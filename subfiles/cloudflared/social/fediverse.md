@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,922 |
+| com | 7,924 |
 | social | 4,655 |
 | net | 3,938 |
 | org | 2,626 |
@@ -7349,6 +7349,7 @@ Here's a list of public Fediverse services.
 | `chrisadams.me.uk` | Yes |
 | `chrisalemany.ca` | No |
 | `chrisaudet.ca` | No |
+| `chrisb.me` | Yes |
 | `chrisbeckstrom.com` | No |
 | `chrisbol.nl` | No |
 | `chrisbues.com` | No |
@@ -11991,6 +11992,7 @@ Here's a list of public Fediverse services.
 | `edieh.de` | No |
 | `edimood.com` | Yes |
 | `edina.st` | Yes |
+| `edinburghman.com` | No |
 | `ediot.social` | No |
 | `ediscovery.social` | No |
 | `edist.ro` | No |
@@ -12110,6 +12112,7 @@ Here's a list of public Fediverse services.
 | `egirl.site` | No |
 | `egirl.social` | No |
 | `egirls.gay` | No |
+| `eglise-evangelique-estavayer.ch` | No |
 | `eglo.ga` | No |
 | `egotrip.me` | No |
 | `egroc.de` | No |
@@ -16726,6 +16729,7 @@ Here's a list of public Fediverse services.
 | `godot.coffee` | No |
 | `godot.dev` | No |
 | `godsandradicals.org` | No |
+| `godshell.com` | No |
 | `godshome.info` | No |
 | `godsibb.net` | No |
 | `godspeed.moe` | Yes |
@@ -50419,8 +50423,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,243 |
-| Normal | 36,128 |
+| Cloudflare | 14,244 |
+| Normal | 36,131 |
 
 
 </details>
