@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Proposal: Predefined variables for user's home directory](https://github.com/devcontainers/spec/issues/335)
 - [Custom cloudflare tunnel version](https://github.com/louislam/uptime-kuma/issues/3993)
 - [Write a handler in concert with the UsernameDialog](https://github.com/1ifeworld/river/issues/35)
 - [Can't Use Prowlarr with YggTorrent](https://github.com/FlareSolverr/FlareSolverr/issues/949)
