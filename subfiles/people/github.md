@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [The Cloudflare 'Verify you are human' button not found on the page](https://github.com/FlareSolverr/FlareSolverr/issues/951)
+- [Greek translation issue el.js missing](https://github.com/freescout-helpdesk/freescout/issues/3513)
+- [npm install failure](https://github.com/Shopify/shopify-app-template-remix/issues/417)
 - [Cannot find module in sveltekit project](https://github.com/jamsinclair/jSquash/issues/36)
 - [Proposal: Predefined variables for user's home directory](https://github.com/devcontainers/spec/issues/335)
 - [Custom cloudflare tunnel version](https://github.com/louislam/uptime-kuma/issues/3993)
