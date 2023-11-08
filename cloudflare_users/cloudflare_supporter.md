@@ -7858,6 +7858,7 @@ Do not create new issue or we will close it as duplicate.
 | [mandiptimsina1@twitter](https://twitter.com/mandiptimsina1/status/1392722380678598656) | advertise |
 | [Maneesh40605685@twitter](https://twitter.com/Maneesh40605685/status/1497225757105397763) | advertise |
 | [mangtaweng@twitter](https://twitter.com/mangtaweng/status/1558889071854112768) | advertise |
+| [manh31291@twitter](https://twitter.com/manh31291/status/1722252135805661262) | advertise |
 | [Manh65958757@twitter](https://twitter.com/Manh65958757/status/1553062901245628418) | advertise |
 | [manhhung1944@twitter](https://twitter.com/manhhung1944/status/1530580713309085696) | advertise |
 | [MaNhn13@twitter](https://twitter.com/MaNhn13/status/1706866155460407510) | advertise |
@@ -14912,6 +14913,7 @@ Do not create new issue or we will close it as duplicate.
 | [yukinamhuy1@twitter](https://twitter.com/yukinamhuy1/status/1705922599472263369) | advertise |
 | [YuksekOrmanMuh@twitter](https://twitter.com/YuksekOrmanMuh/status/1506534378939338752) | advertise |
 | [Yulthefreak@twitter](https://twitter.com/Yulthefreak/status/1526775523128524800) | advertise |
+| [YunPark555@twitter](https://twitter.com/YunPark555/status/1722251801141891395) | advertise |
 | [YunuSedatAydin@twitter](https://twitter.com/YunuSedatAydin/status/1462456581250072590) | advertise |
 | [yunxiera@twitter](https://twitter.com/yunxiera/status/1605213671625719810) | advertise |
 | [yun_jk_pink_i@twitter](https://twitter.com/yun_jk_pink_i/status/1665874525148549120) | advertise |
