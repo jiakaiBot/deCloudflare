@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Loading full world into viewer gives error?](https://github.com/protomaps/PMTiles/issues/285)
 - [Merge multiple tickets with multi-select](https://github.com/freescout-helpdesk/freescout/issues/3516)
 - [web.public-pool.io is down](https://github.com/BitMaker-hub/NerdMiner_v2/issues/225)
 - [Incorrect detection of pcntl](https://github.com/freescout-helpdesk/freescout/issues/3515)
