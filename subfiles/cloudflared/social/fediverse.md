@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,925 |
+| com | 7,926 |
 | social | 4,655 |
 | net | 3,938 |
 | org | 2,626 |
@@ -46,7 +46,7 @@ Here's a list of public Fediverse services.
 | `000000420.xyz` | Yes |
 | `000090000.xyz` | No |
 | `000webhostapp.com` | No |
-| `0010100.de` | No |
+| `0010100.de` | Yes |
 | `0011.lt` | No |
 | `00doit.com` | No |
 | `00x.club` | No |
@@ -35556,6 +35556,7 @@ Here's a list of public Fediverse services.
 | `prvcy.page` | Yes |
 | `prx.link` | No |
 | `prxs.site` | No |
+| `prysmatic.com` | Yes |
 | `pryst.de` | No |
 | `przej.me` | No |
 | `pseek.fr` | Yes |
@@ -50429,8 +50430,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,246 |
-| Normal | 36,135 |
+| Cloudflare | 14,248 |
+| Normal | 36,134 |
 
 
 </details>
