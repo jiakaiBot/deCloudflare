@@ -8084,7 +8084,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -10283,6 +10283,7 @@ Here's a list of public Fediverse services.
 | `derekjames.xyz` | No |
 | `dereksmom.com` | Yes |
 | `derentspannen.de` | No |
+| `derez.zone` | No |
 | `derezz.com` | Yes |
 | `derg.land` | No |
 | `derg.nz` | Yes |
@@ -36433,6 +36434,7 @@ Here's a list of public Fediverse services.
 | `ramram.ink` | Yes |
 | `ramsdr.ru` | Yes |
 | `ramshackle.town` | No |
+| `ramus-meninges.fr` | No |
 | `ramuuns.com` | No |
 | `ramyapandyan.com` | No |
 | `rancati.com` | No |
@@ -42842,6 +42844,7 @@ Here's a list of public Fediverse services.
 | `talking.dev` | Yes |
 | `talkingdrupal.social` | No |
 | `talkinghuman.com` | Yes |
+| `talkingroom.xyz` | Yes |
 | `talkmitmarkus.de` | No |
 | `talkopol.is` | No |
 | `talkoverflow.dev` | No |
@@ -50424,7 +50427,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,244 |
-| Normal | 36,131 |
+| Normal | 36,134 |
 
 
 </details>
