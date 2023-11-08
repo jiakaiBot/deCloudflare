@@ -184,7 +184,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | quad9.net | Yes |
 | qwer.pw | Yes |
 | r0cket.net | No |
-| rayanbab.com | Yes |
 | rayneau.fr | No |
 | reckoningslug.name | Yes |
 | restena.lu | No |
@@ -192,7 +191,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | rezhajul.io | No |
 | rferee.dev | Yes |
 | rin.sh | Yes |
-| rouga.ch | Yes |
 | rsaikat.com | No |
 | safeservedns.com | No |
 | safesurfer.io | Yes |
@@ -210,7 +208,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | spacedns.org | No |
 | spectrum.com | Yes |
 | spil.co.id | Yes |
-| ssrahul96.xyz | Yes |
 | startupstack.tech | Yes |
 | stvsk.ml | Yes |
 | switch.ch | No |
@@ -237,7 +234,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | wikimedia-dns.org | No |
 | xaoimoon.fr | No |
 | xcom.pro | No |
-| xfinity.com | Yes |
 | yovbak.com | No |
 | zln.wtf | No |
 
@@ -246,8 +242,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 107 |
+| Cloudflare | 103 |
 | Normal | 120 |
 
 
-### 47.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
