@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,924 |
+| com | 7,925 |
 | social | 4,655 |
 | net | 3,938 |
 | org | 2,626 |
@@ -26190,6 +26190,7 @@ Here's a list of public Fediverse services.
 | `markhughes.tech` | No |
 | `marki.cloud` | No |
 | `markjones.cloud` | No |
+| `markmcelroy.com` | No |
 | `markmckeague.com` | Yes |
 | `markofall.com` | No |
 | `markrun.org` | No |
@@ -30524,6 +30525,7 @@ Here's a list of public Fediverse services.
 | `nerdhub.co` | Yes |
 | `nerdhut.ch` | No |
 | `nerdica.net` | No |
+| `nerdinfekt.blog` | No |
 | `nerdington.de` | No |
 | `nerdistan.cloud` | No |
 | `nerdiverset.no` | Yes |
@@ -50428,7 +50430,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,246 |
-| Normal | 36,133 |
+| Normal | 36,135 |
 
 
 </details>
