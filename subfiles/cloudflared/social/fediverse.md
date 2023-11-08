@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,930 |
+| com | 7,931 |
 | social | 4,655 |
 | net | 3,939 |
-| org | 2,627 |
+| org | 2,628 |
 | de | 2,470 |
 
 
@@ -15898,6 +15898,7 @@ Here's a list of public Fediverse services.
 | `garo.ooo` | No |
 | `garranoileain.com` | No |
 | `garratt.social` | Yes |
+| `garrettmills.dev` | Yes |
 | `garri.us` | No |
 | `garriguv.io` | No |
 | `garrison.beer` | No |
@@ -28613,6 +28614,7 @@ Here's a list of public Fediverse services.
 | `moderately.social` | No |
 | `moderators.tv` | No |
 | `modern-industry.com` | No |
+| `moderndaywizards.org` | No |
 | `modernfanatic.com` | Yes |
 | `moderntraditional.com` | No |
 | `modest.com` | Yes |
@@ -32052,6 +32054,7 @@ Here's a list of public Fediverse services.
 | `obco.pro` | Yes |
 | `obdev.at` | No |
 | `oberberg.nrw` | No |
+| `oberfranken.xyz` | No |
 | `oberhauser.space` | Yes |
 | `obermui.de` | No |
 | `oberpfalz.social` | No |
@@ -36643,6 +36646,7 @@ Here's a list of public Fediverse services.
 | `rayven.mx` | No |
 | `raza.social` | No |
 | `razbot.xyz` | Yes |
+| `raziel-kanos.com` | No |
 | `raziel.space` | No |
 | `razmadze.me` | Yes |
 | `razormonkey.eu` | Yes |
@@ -50447,8 +50451,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,260 |
-| Normal | 36,139 |
+| Cloudflare | 14,261 |
+| Normal | 36,142 |
 
 
 </details>
