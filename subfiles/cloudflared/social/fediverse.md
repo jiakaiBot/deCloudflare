@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,929 |
+| com | 7,930 |
 | social | 4,655 |
 | net | 3,939 |
 | org | 2,627 |
@@ -6087,6 +6087,7 @@ Here's a list of public Fediverse services.
 | `burch.es` | No |
 | `burchill.social` | No |
 | `bureau-wehrmann.eu` | Yes |
+| `bureau42.com` | Yes |
 | `burg-halle.de` | No |
 | `burg.art` | Yes |
 | `burgenland.space` | No |
@@ -10466,6 +10467,7 @@ Here's a list of public Fediverse services.
 | `devvul.com` | No |
 | `devweb.dev` | No |
 | `devxnet.com` | Yes |
+| `devyn.blog` | No |
 | `devzero.social` | No |
 | `dewbert.social` | Yes |
 | `dewitte.xyz` | Yes |
@@ -21352,6 +21354,7 @@ Here's a list of public Fediverse services.
 | `josephsen.us` | No |
 | `josh-erklaert.de` | No |
 | `josh.blog` | Yes |
+| `josh.me.uk` | No |
 | `josh.tel` | No |
 | `joshanders.com` | No |
 | `joshandryan.net` | Yes |
@@ -25379,6 +25382,7 @@ Here's a list of public Fediverse services.
 | `luke256.dev` | Yes |
 | `lukeaddison.com` | No |
 | `lukec.me` | Yes |
+| `lukecourt.co.uk` | Yes |
 | `lukehasa.bike` | No |
 | `lukehebb.com` | No |
 | `lukelambert.com` | Yes |
@@ -43962,6 +43966,7 @@ Here's a list of public Fediverse services.
 | `themystrd.zone` | No |
 | `thenaritadogfight.com` | No |
 | `thenautilus.net` | No |
+| `thenerd.show` | Yes |
 | `thenet.social` | No |
 | `theneuromantics.net` | No |
 | `thenewleafjournal.com` | No |
@@ -45752,6 +45757,7 @@ Here's a list of public Fediverse services.
 | `tusks.lol` | Yes |
 | `tuskular.com` | Yes |
 | `tusky.pink` | No |
+| `tusky.town` | No |
 | `tusooa.xyz` | No |
 | `tut.ac.jp` | No |
 | `tutafey.eu` | No |
@@ -50440,8 +50446,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,256 |
-| Normal | 36,136 |
+| Cloudflare | 14,259 |
+| Normal | 36,139 |
 
 
 </details>
