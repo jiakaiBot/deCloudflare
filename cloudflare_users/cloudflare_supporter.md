@@ -13974,6 +13974,7 @@ Do not create new issue or we will close it as duplicate.
 | [vanle45537820@twitter](https://twitter.com/vanle45537820/status/1593938391896592385) | advertise |
 | [Vannanh15@twitter](https://twitter.com/Vannanh15/status/1380525687220498433) | advertise |
 | [vanpham18588890@twitter](https://twitter.com/vanpham18588890/status/1552260408676782082) | advertise |
+| [VanPhuc1023@twitter](https://twitter.com/VanPhuc1023/status/1722180669378646498) | advertise |
 | [VanshRa26933281@twitter](https://twitter.com/VanshRa26933281/status/1400390812681211907) | advertise |
 | [VanshSahni17@twitter](https://twitter.com/VanshSahni17/status/1549586329901535234) | advertise |
 | [vanthuyet993@twitter](https://twitter.com/vanthuyet993/status/1669881691022966792) | advertise |
