@@ -15036,6 +15036,7 @@ Here's a list of public Fediverse services.
 | `freelancers.online` | Yes |
 | `freeland-test-services.ml` | No |
 | `freeland.country` | No |
+| `freelands.cloud` | Yes |
 | `freelearner.social` | No |
 | `freemaker.it` | No |
 | `freemancw.com` | No |
@@ -50446,7 +50447,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,259 |
+| Cloudflare | 14,260 |
 | Normal | 36,139 |
 
 
