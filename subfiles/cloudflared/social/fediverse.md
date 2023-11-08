@@ -9165,6 +9165,7 @@ Here's a list of public Fediverse services.
 | `cybercriminal.eu` | No |
 | `cybercriminology.nl` | No |
 | `cybercrusade.xyz` | No |
+| `cybercult.biz` | No |
 | `cybercuties.net` | No |
 | `cyberdeck.cf` | No |
 | `cyberdeck.social` | No |
@@ -50431,7 +50432,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,248 |
-| Normal | 36,134 |
+| Normal | 36,135 |
 
 
 </details>
