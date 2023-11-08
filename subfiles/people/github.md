@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [web.public-pool.io is down](https://github.com/BitMaker-hub/NerdMiner_v2/issues/225)
+- [Incorrect detection of pcntl](https://github.com/freescout-helpdesk/freescout/issues/3515)
 - [The Cloudflare 'Verify you are human' button not found on the page](https://github.com/FlareSolverr/FlareSolverr/issues/951)
 - [Greek translation issue el.js missing](https://github.com/freescout-helpdesk/freescout/issues/3513)
 - [npm install failure](https://github.com/Shopify/shopify-app-template-remix/issues/417)
