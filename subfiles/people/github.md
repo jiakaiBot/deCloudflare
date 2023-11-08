@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot find module in sveltekit project](https://github.com/jamsinclair/jSquash/issues/36)
 - [Proposal: Predefined variables for user's home directory](https://github.com/devcontainers/spec/issues/335)
 - [Custom cloudflare tunnel version](https://github.com/louislam/uptime-kuma/issues/3993)
 - [Write a handler in concert with the UsernameDialog](https://github.com/1ifeworld/river/issues/35)
