@@ -4277,6 +4277,7 @@ Do not create new issue or we will close it as duplicate.
 | [GotMilk080702@twitter](https://twitter.com/GotMilk080702/status/1560579136825212928) | advertise |
 | [Gouzer6@twitter](https://twitter.com/Gouzer6/status/1620709961511882753) | advertise |
 | [governa@twitter](https://twitter.com/governa/status/1516708406522007558) | advertise |
+| [GoyangiPop@twitter](https://twitter.com/GoyangiPop/status/1722103865674527137) | advertise |
 | [GoyunInfo@twitter](https://twitter.com/GoyunInfo/status/1486163916564705281) | advertise |
 | [go_to_happy_@twitter](https://twitter.com/go_to_happy_/status/1377840144179400704) | advertise |
 | [GP45590673@twitter](https://twitter.com/GP45590673/status/1391820766912466944) | advertise |
@@ -4751,6 +4752,7 @@ Do not create new issue or we will close it as duplicate.
 | [HIKIMENA@twitter](https://twitter.com/HIKIMENA/status/1670754876069134337) | advertise |
 | [HiKoLay02842035@twitter](https://twitter.com/HiKoLay02842035/status/1390312387903852552) | advertise |
 | [hilinaaddisu@twitter](https://twitter.com/hilinaaddisu/status/1711409130076803321) | advertise |
+| [HillanaJerome@twitter](https://twitter.com/HillanaJerome/status/1722052831132139977) | advertise |
 | [hillarykharkhar@twitter](https://twitter.com/hillarykharkhar/status/1467483099995025412) | advertise |
 | [himangshu_dass@twitter](https://twitter.com/himangshu_dass/status/1504904544308064256) | advertise |
 | [Himank66270084@twitter](https://twitter.com/Himank66270084/status/1395830583175958529) | advertise |
@@ -14533,6 +14535,7 @@ Do not create new issue or we will close it as duplicate.
 | [X2o07595000@twitter](https://twitter.com/X2o07595000/status/1392485807940784128) | advertise |
 | [X5servers@twitter](https://twitter.com/X5servers/status/1679269756921081856) | advertise |
 | [X303_@twitter](https://twitter.com/X303_/status/1375370199767998468) | advertise |
+| [x1000future@twitter](https://twitter.com/x1000future/status/1722099439224099034) | advertise |
 | [x66619164331@twitter](https://twitter.com/x66619164331/status/1386276834480992256) | advertise |
 | [xabclink@twitter](https://twitter.com/xabclink/status/1662111293535567872) | advertise |
 | [xalxo_sumi22035@twitter](https://twitter.com/xalxo_sumi22035/status/1710704739967697016) | advertise |
