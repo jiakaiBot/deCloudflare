@@ -17357,7 +17357,7 @@ Here's a list of public Fediverse services.
 | `gutelaunewelle.de` | No |
 | `gutewebsites.social` | No |
 | `gutsux.com` | No |
-| `gutterpupper.com` | No |
+| `gutterpupper.com` | Yes |
 | `gutv.cloud` | Yes |
 | `gutwin.org` | No |
 | `guya.ml` | No |
@@ -37028,6 +37028,7 @@ Here's a list of public Fediverse services.
 | `renshaw.au` | Yes |
 | `rentadrunk.org` | No |
 | `rentfreegames.com` | No |
+| `reo.moe` | Yes |
 | `reoccur.cat` | Yes |
 | `reparierecke.de` | No |
 | `repc.co` | Yes |
@@ -50426,8 +50427,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,244 |
-| Normal | 36,134 |
+| Cloudflare | 14,246 |
+| Normal | 36,133 |
 
 
 </details>
