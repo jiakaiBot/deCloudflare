@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,926 |
+| com | 7,928 |
 | social | 4,655 |
-| net | 3,938 |
+| net | 3,939 |
 | org | 2,626 |
-| de | 2,469 |
+| de | 2,470 |
 
 
 - Mastodon, Pleroma, etc
@@ -6265,6 +6265,7 @@ Here's a list of public Fediverse services.
 | `c3m.org` | No |
 | `c3p.jp` | No |
 | `c3po.rocks` | No |
+| `c3soft.de` | No |
 | `c3soft.gay` | Yes |
 | `c4.social` | No |
 | `c4103.com` | No |
@@ -8000,7 +8001,7 @@ Here's a list of public Fediverse services.
 | `cognitheurge.com` | No |
 | `cognize.co` | Yes |
 | `cogwheel.social` | No |
-| `cohaes.io` | No |
+| `cohaes.io` | Yes |
 | `cohan.tv` | Yes |
 | `coinchan.com` | No |
 | `coindesk.com` | Yes |
@@ -8843,6 +8844,7 @@ Here's a list of public Fediverse services.
 | `cryo.social` | No |
 | `cryobyte.net` | Yes |
 | `cryoem.social` | No |
+| `cryofault.net` | No |
 | `cryoit.com` | Yes |
 | `cryolog.in` | No |
 | `cryovex.com` | Yes |
@@ -12705,6 +12707,7 @@ Here's a list of public Fediverse services.
 | `epochal.quest` | Yes |
 | `epon.io` | Yes |
 | `eponaauthor.social` | No |
+| `eponaauthorsolutions.com` | No |
 | `epoz.org` | No |
 | `epsilon.fm` | Yes |
 | `epsilon.horse` | No |
@@ -31698,6 +31701,7 @@ Here's a list of public Fediverse services.
 | `npe.social` | No |
 | `npf.moe` | Yes |
 | `npo.city` | No |
+| `npo.nl` | Yes |
 | `nposns.com` | No |
 | `nps.exchange` | No |
 | `nptcomputing.net` | No |
@@ -32969,6 +32973,7 @@ Here's a list of public Fediverse services.
 | `osmcast.social` | No |
 | `osminog.de` | Yes |
 | `osna.social` | No |
+| `osp.gay` | No |
 | `osplin.monster` | No |
 | `osr.community` | No |
 | `osrc.pw` | No |
@@ -43866,6 +43871,7 @@ Here's a list of public Fediverse services.
 | `thehugoawards.org` | No |
 | `theiceshelf.com` | No |
 | `theicon.stream` | No |
+| `theidlestate.com` | Yes |
 | `theindependentwhig.com` | Yes |
 | `theindiestone.com` | Yes |
 | `theinternet.lol` | No |
@@ -50431,8 +50437,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,248 |
-| Normal | 36,135 |
+| Cloudflare | 14,251 |
+| Normal | 36,138 |
 
 
 </details>
