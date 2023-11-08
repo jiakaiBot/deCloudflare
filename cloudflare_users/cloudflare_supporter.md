@@ -10284,6 +10284,7 @@ Do not create new issue or we will close it as duplicate.
 | [PeyParrot@twitter](https://twitter.com/PeyParrot/status/1469338531667628035) | advertise |
 | [pfh151@twitter](https://twitter.com/pfh151/status/1537535597786517504) | advertise |
 | [PG1689@twitter](https://twitter.com/PG1689/status/1705997708505526286) | advertise |
+| [pgslot23011@twitter](https://twitter.com/pgslot23011/status/1722326305088438316) | advertise |
 | [Ph18868934@twitter](https://twitter.com/Ph18868934/status/1477889678493700096) | advertise |
 | [Ph20911663@twitter](https://twitter.com/Ph20911663/status/1613801368644653057) | advertise |
 | [Ph40906000@twitter](https://twitter.com/Ph40906000/status/1478375281543065617) | advertise |
