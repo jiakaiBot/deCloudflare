@@ -5522,6 +5522,7 @@ Do not create new issue or we will close it as duplicate.
 | [IngyinK57955372@twitter](https://twitter.com/IngyinK57955372/status/1395191457548472320) | advertise |
 | [INHKIU5@twitter](https://twitter.com/INHKIU5/status/1556179260108263426) | advertise |
 | [inideldi@twitter](https://twitter.com/inideldi/status/1628434176490840064) | advertise |
+| [iningza66@twitter](https://twitter.com/iningza66/status/1722174526614880746) | advertise |
 | [innhanhdaiduong@twitter](https://twitter.com/innhanhdaiduong/status/1552932192052924417) | advertise |
 | [INotCoreUser1@twitter](https://twitter.com/INotCoreUser1/status/1392768420135981059) | advertise |
 | [inoxtinta123@twitter](https://twitter.com/inoxtinta123/status/1383637274684903438) | advertise |
