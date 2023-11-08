@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Merge multiple tickets with multi-select](https://github.com/freescout-helpdesk/freescout/issues/3516)
 - [web.public-pool.io is down](https://github.com/BitMaker-hub/NerdMiner_v2/issues/225)
 - [Incorrect detection of pcntl](https://github.com/freescout-helpdesk/freescout/issues/3515)
 - [The Cloudflare 'Verify you are human' button not found on the page](https://github.com/FlareSolverr/FlareSolverr/issues/951)
