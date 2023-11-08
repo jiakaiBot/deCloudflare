@@ -902,6 +902,7 @@ Do not create new issue or we will close it as duplicate.
 | [andriannp@twitter](https://twitter.com/andriannp/status/1401023261085814787) | advertise |
 | [AndrianoVu@twitter](https://twitter.com/AndrianoVu/status/1519982700438114304) | advertise |
 | [andriansywa@twitter](https://twitter.com/andriansywa/status/1507741794179891205) | advertise |
+| [Andries42300313@twitter](https://twitter.com/Andries42300313/status/1722239899339014193) | advertise |
 | [andrijasaf@twitter](https://twitter.com/andrijasaf/status/1687207631461797888) | advertise |
 | [androidwdlka@twitter](https://twitter.com/androidwdlka/status/1416445074230161412) | advertise |
 | [Android_owo@twitter](https://twitter.com/Android_owo/status/1661407962743861248) | advertise |
@@ -3435,6 +3436,7 @@ Do not create new issue or we will close it as duplicate.
 | [DuyTrn63432829@twitter](https://twitter.com/DuyTrn63432829/status/1600840620427595782) | advertise |
 | [Duytrung31@twitter](https://twitter.com/Duytrung31/status/1388180524573741058) | advertise |
 | [DuyV55849692@twitter](https://twitter.com/DuyV55849692/status/1607137644324225026) | advertise |
+| [duyvo175084034@twitter](https://twitter.com/duyvo175084034/status/1722236343282274337) | advertise |
 | [duyvupy@twitter](https://twitter.com/duyvupy/status/1687684382151114752) | advertise |
 | [duyyhoang102@twitter](https://twitter.com/duyyhoang102/status/1531892044008136704) | advertise |
 | [Du_Le33@twitter](https://twitter.com/Du_Le33/status/1552336926795243521) | advertise |
@@ -12484,6 +12486,7 @@ Do not create new issue or we will close it as duplicate.
 | [surasithm00@twitter](https://twitter.com/surasithm00/status/1707475705209188410) | advertise |
 | [suratiwan03@twitter](https://twitter.com/suratiwan03/status/1717780463790813584) | advertise |
 | [surbroadcast@twitter](https://twitter.com/surbroadcast/status/1477792731636371464) | advertise |
+| [sureshksmy@twitter](https://twitter.com/sureshksmy/status/1722237063788151064) | advertise |
 | [SureshS91254456@twitter](https://twitter.com/SureshS91254456/status/1694244309888115059) | advertise |
 | [Surfacings_Net@twitter](https://twitter.com/Surfacings_Net/status/1709645557914812752) | advertise |
 | [suriykdicnhxm1@twitter](https://twitter.com/suriykdicnhxm1/status/1595050645249146880) | advertise |
@@ -13756,6 +13759,7 @@ Do not create new issue or we will close it as duplicate.
 | [TUNNAUN44369176@twitter](https://twitter.com/TUNNAUN44369176/status/1392835406618451970) | advertise |
 | [tunoolwin@twitter](https://twitter.com/tunoolwin/status/1392362223973056513) | advertise |
 | [TunPhm339465184@twitter](https://twitter.com/TunPhm339465184/status/1704276565746712995) | advertise |
+| [tunquan52773835@twitter](https://twitter.com/tunquan52773835/status/1722220458324775176) | advertise |
 | [tunsang71103873@twitter](https://twitter.com/tunsang71103873/status/1401793040088371202) | advertise |
 | [TunSintar@twitter](https://twitter.com/TunSintar/status/1390672619091890177) | advertise |
 | [TunTrn78621454@twitter](https://twitter.com/TunTrn78621454/status/1388115031477211137) | advertise |
