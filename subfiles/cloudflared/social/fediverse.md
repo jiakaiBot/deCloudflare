@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,942 |
 | social | 4,655 |
 | net | 3,940 |
-| org | 2,633 |
+| org | 2,634 |
 | de | 2,472 |
 
 
@@ -1389,6 +1389,7 @@ Here's a list of public Fediverse services.
 | `agnessa.pp.ru` | No |
 | `agnesta.ch` | Yes |
 | `agnitum.co.uk` | Yes |
+| `agnos.is` | Yes |
 | `agol.one` | No |
 | `agoni.news` | No |
 | `agonisedrock.xyz` | Yes |
@@ -4539,6 +4540,7 @@ Here's a list of public Fediverse services.
 | `beyermatthias.de` | No |
 | `beyleyisnot.moe` | Yes |
 | `beyond.codes` | Yes |
+| `beyond.forum` | No |
 | `beyondbinary.ovh` | No |
 | `beyondcombustion.net` | No |
 | `beyondgender.social` | No |
@@ -32757,6 +32759,7 @@ Here's a list of public Fediverse services.
 | `opensource.net` | No |
 | `opensource.network` | No |
 | `opensource.org` | Yes |
+| `opensourcecurrency.org` | No |
 | `opensourcegardens.info` | No |
 | `opensourcemusings.com` | No |
 | `opensourcesecuritypodcast.com` | Yes |
@@ -50481,8 +50484,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,272 |
-| Normal | 36,161 |
+| Cloudflare | 14,273 |
+| Normal | 36,163 |
 
 
 </details>
