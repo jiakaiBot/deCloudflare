@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,931 |
 | social | 4,655 |
-| net | 3,939 |
+| net | 3,940 |
 | org | 2,628 |
 | de | 2,470 |
 
@@ -16272,6 +16272,7 @@ Here's a list of public Fediverse services.
 | `getaway.tk` | No |
 | `getboolean.dev` | No |
 | `getcyca.com` | Yes |
+| `getfisaright.net` | No |
 | `getgle.org` | Yes |
 | `getigne-collectif.fr` | No |
 | `getimiskon.xyz` | No |
@@ -31032,7 +31033,7 @@ Here's a list of public Fediverse services.
 | `nikomo.fi` | Yes |
 | `nikore.net` | Yes |
 | `nikos410.de` | No |
-| `nikotile.xyz` | Yes |
+| `nikotile.xyz` | No |
 | `nikuyop.com` | No |
 | `nikvalls.pet` | No |
 | `nil.im` | No |
@@ -50452,8 +50453,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,261 |
-| Normal | 36,143 |
+| Cloudflare | 14,260 |
+| Normal | 36,145 |
 
 
 </details>
