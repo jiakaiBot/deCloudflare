@@ -3865,6 +3865,7 @@ Do not create new issue or we will close it as duplicate.
 | [FendyMyz@twitter](https://twitter.com/FendyMyz/status/1491853766790123520) | advertise |
 | [fening12@twitter](https://twitter.com/fening12/status/1402708446680535042) | advertise |
 | [FenySoft@twitter](https://twitter.com/FenySoft/status/1453328924063240196) | advertise |
+| [feredfly@twitter](https://twitter.com/feredfly/status/1722729260194873371) | advertise |
 | [Ferihardiant0_@twitter](https://twitter.com/Ferihardiant0_/status/1674791990905667590) | advertise |
 | [fernandodilland@twitter](https://twitter.com/fernandodilland/status/1603150910657634305) | advertise |
 | [Ferona44304373@twitter](https://twitter.com/Ferona44304373/status/1394530832367370240) | advertise |
@@ -6711,6 +6712,7 @@ Do not create new issue or we will close it as duplicate.
 | [kiyokiyo729@twitter](https://twitter.com/kiyokiyo729/status/1701245134564741573) | advertise |
 | [kjmzyxbjh@twitter](https://twitter.com/kjmzyxbjh/status/1393136098226757636) | advertise |
 | [KKanK4@twitter](https://twitter.com/KKanK4/status/1395696774984077317) | advertise |
+| [KKaunglay41365@twitter](https://twitter.com/KKaunglay41365/status/1722748661355184632) | advertise |
 | [kkbpc_sub@twitter](https://twitter.com/kkbpc_sub/status/1492429642610851841) | advertise |
 | [kkkkarn22@twitter](https://twitter.com/kkkkarn22/status/1390552176229969921) | advertise |
 | [kkmccl76@twitter](https://twitter.com/kkmccl76/status/1686917750596550656) | advertise |
@@ -7976,6 +7978,7 @@ Do not create new issue or we will close it as duplicate.
 | [maryWolter6@twitter](https://twitter.com/maryWolter6/status/1665874525421031426) | advertise |
 | [Masamur28695995@twitter](https://twitter.com/Masamur28695995/status/1386620919611752451) | advertise |
 | [MashhadiPourya@twitter](https://twitter.com/MashhadiPourya/status/1388135701003309062) | advertise |
+| [MashitoIrmanza@twitter](https://twitter.com/MashitoIrmanza/status/1722745512183714290) | advertise |
 | [MAshuwj@twitter](https://twitter.com/MAshuwj/status/1394318953523027968) | advertise |
 | [masihmohebi@twitter](https://twitter.com/masihmohebi/status/1573580152445014016) | advertise |
 | [MaskurAlom59322@twitter](https://twitter.com/MaskurAlom59322/status/1680273612652290049) | advertise |
@@ -12847,6 +12850,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thanh1452000@twitter](https://twitter.com/Thanh1452000/status/1594505048041877504) | advertise |
 | [Thanh13871310@twitter](https://twitter.com/Thanh13871310/status/1552938610940608512) | advertise |
 | [thanh39809562@twitter](https://twitter.com/thanh39809562/status/1468202163919003654) | advertise |
+| [Thanh41939699@twitter](https://twitter.com/Thanh41939699/status/1722752345245974684) | advertise |
 | [thanh58319585@twitter](https://twitter.com/thanh58319585/status/1641605938321973248) | advertise |
 | [Thanh64229758@twitter](https://twitter.com/Thanh64229758/status/1602862030389907456) | advertise |
 | [thanh68833332@twitter](https://twitter.com/thanh68833332/status/1402884885887393795) | advertise |
