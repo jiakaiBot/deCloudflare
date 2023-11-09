@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,935 |
-| social | 4,654 |
+| com | 7,936 |
+| social | 4,655 |
 | net | 3,940 |
 | org | 2,630 |
 | de | 2,470 |
@@ -33342,6 +33342,7 @@ Here's a list of public Fediverse services.
 | `pacificnorthwest.social` | No |
 | `pacificvi.be` | No |
 | `packden.us` | No |
+| `packers.social` | No |
 | `packet.social` | No |
 | `packethost.net` | No |
 | `packetloss.gg` | Yes |
@@ -36349,6 +36350,7 @@ Here's a list of public Fediverse services.
 | `raghavgururajan.ch` | No |
 | `raghavgururajan.name` | No |
 | `raghavgururajan.net` | No |
+| `raghukamath.com` | No |
 | `ragnate.la` | No |
 | `ragol.org` | No |
 | `ragol.uk` | No |
@@ -37386,7 +37388,7 @@ Here's a list of public Fediverse services.
 | `rikka-zine.jp` | No |
 | `rikmeijer.nl` | No |
 | `rikozone.net` | No |
-| `riku1227.social` | Yes |
+| `riku1227.social` | No |
 | `rikunagiweb.jp` | Yes |
 | `rikvoj.tech` | Yes |
 | `rikwithnoc.com` | Yes |
@@ -50460,8 +50462,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,265 |
-| Normal | 36,147 |
+| Cloudflare | 14,264 |
+| Normal | 36,150 |
 
 
 </details>
