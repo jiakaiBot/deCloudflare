@@ -162,7 +162,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | noaddns.com | No |
 | node15.com | Yes |
 | nolo.ltd | Yes |
-| nomu.pw | No |
 | noridev.moe | No |
 | novali.date | Yes |
 | ns3.com | No |
@@ -243,7 +242,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 103 |
-| Normal | 120 |
+| Normal | 119 |
 
 
-### 46.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
