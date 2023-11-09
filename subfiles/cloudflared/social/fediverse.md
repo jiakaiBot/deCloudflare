@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,931 |
+| com | 7,932 |
 | social | 4,655 |
 | net | 3,940 |
 | org | 2,628 |
@@ -34766,6 +34766,7 @@ Here's a list of public Fediverse services.
 | `plttn.xyz` | Yes |
 | `plueschmoors.de` | No |
 | `pluffy.monster` | No |
+| `pluginip.com` | Yes |
 | `plugsuit.club` | Yes |
 | `plumbob.social` | No |
 | `plume.ink` | No |
@@ -50453,7 +50454,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,260 |
+| Cloudflare | 14,261 |
 | Normal | 36,145 |
 
 
