@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,932 |
+| com | 7,935 |
 | social | 4,654 |
 | net | 3,940 |
-| org | 2,628 |
+| org | 2,630 |
 | de | 2,470 |
 
 
@@ -8291,6 +8291,7 @@ Here's a list of public Fediverse services.
 | `consolving.de` | No |
 | `conspiracydistillery.com` | No |
 | `conspiracyfiles.net` | Yes |
+| `conspiracyofcartographers.com` | No |
 | `constant.social` | Yes |
 | `constantine.name` | No |
 | `constantinluegering.de` | No |
@@ -9565,6 +9566,7 @@ Here's a list of public Fediverse services.
 | `dans-ma-bulle.life` | No |
 | `dansende-banaan.nl` | No |
 | `danshudon.jp` | No |
+| `dansla.tech` | No |
 | `dansleho.st` | No |
 | `danslesbois.info` | No |
 | `dansmith.online` | No |
@@ -34653,6 +34655,7 @@ Here's a list of public Fediverse services.
 | `platformonomics.com` | Yes |
 | `platformsh.site` | No |
 | `platica.io` | No |
+| `platopunk.com` | Yes |
 | `platt.social` | No |
 | `platta.at` | No |
 | `platypus-sandbox.com` | No |
@@ -41026,6 +41029,7 @@ Here's a list of public Fediverse services.
 | `soshi.social` | No |
 | `soshl.one` | No |
 | `sosialist.party` | No |
+| `sotamedia.org` | No |
 | `sotatek.works` | Yes |
 | `soteria.tel` | Yes |
 | `sotl.social` | No |
@@ -48058,6 +48062,7 @@ Here's a list of public Fediverse services.
 | `welhaba.mx` | No |
 | `welivesecurity.com` | No |
 | `well-known.social` | No |
+| `well.com` | No |
 | `wellcr.app` | No |
 | `welldn.net` | No |
 | `wellduck.me` | No |
@@ -48477,6 +48482,7 @@ Here's a list of public Fediverse services.
 | `wissbart.net` | No |
 | `wisskomm.social` | No |
 | `wistly.net` | No |
+| `wistodon.org` | No |
 | `wit.social` | No |
 | `witch.academy` | No |
 | `witch.energy` | No |
@@ -50454,8 +50460,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,264 |
-| Normal | 36,142 |
+| Cloudflare | 14,265 |
+| Normal | 36,147 |
 
 
 </details>
