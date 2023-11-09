@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,937 |
-| social | 4,656 |
+| com | 7,941 |
+| social | 4,655 |
 | net | 3,940 |
-| org | 2,631 |
+| org | 2,633 |
 | de | 2,471 |
 
 
@@ -2447,6 +2447,7 @@ Here's a list of public Fediverse services.
 | `anqou.net` | Yes |
 | `anrddh.me` | No |
 | `anrealmsdon.com` | No |
+| `anreiter.at` | No |
 | `anreji.de` | No |
 | `ansd.xyz` | No |
 | `ansel.moe` | No |
@@ -12100,6 +12101,7 @@ Here's a list of public Fediverse services.
 | `efnet.social` | Yes |
 | `efournie.com` | No |
 | `efradaphi.de` | No |
+| `efrainmartinezfigueroa.com` | No |
 | `efwends.xyz` | No |
 | `egalwaat.lu` | No |
 | `egatu.work` | No |
@@ -17013,6 +17015,7 @@ Here's a list of public Fediverse services.
 | `grautier.com` | No |
 | `grav.social` | Yes |
 | `grave.fun` | Yes |
+| `gravel.org` | No |
 | `graves.cl` | No |
 | `graveyard.boo` | No |
 | `gravitas.cafe` | No |
@@ -18514,6 +18517,7 @@ Here's a list of public Fediverse services.
 | `hivemind.at` | No |
 | `hivemind.gq` | No |
 | `hivemind.plus` | No |
+| `hiveposh.com` | Yes |
 | `hiveway.net` | Yes |
 | `hiwaga.tech` | No |
 | `hixe.fr` | No |
@@ -21442,6 +21446,7 @@ Here's a list of public Fediverse services.
 | `jpope.org` | No |
 | `jr.lol` | Yes |
 | `jra.sh` | No |
+| `jrashford.com` | Yes |
 | `jrcichra.dev` | Yes |
 | `jrconlin.com` | Yes |
 | `jrd.cat` | No |
@@ -25127,6 +25132,7 @@ Here's a list of public Fediverse services.
 | `loria.fr` | No |
 | `losangeles.social` | No |
 | `loschinski.net` | No |
+| `loser.academy` | No |
 | `loser.cafe` | No |
 | `loser.space` | No |
 | `loser.wtf` | No |
@@ -27170,6 +27176,7 @@ Here's a list of public Fediverse services.
 | `maywood.me` | Yes |
 | `mazanec.social` | No |
 | `mazaska.social` | No |
+| `mazeldon.art` | No |
 | `mazeldon.world` | No |
 | `mazingars.fr` | No |
 | `mazion.ga` | No |
@@ -33344,7 +33351,6 @@ Here's a list of public Fediverse services.
 | `pacificnorthwest.social` | No |
 | `pacificvi.be` | No |
 | `packden.us` | No |
-| `packers.social` | No |
 | `packet.social` | No |
 | `packethost.net` | No |
 | `packetloss.gg` | Yes |
@@ -36450,6 +36456,7 @@ Here's a list of public Fediverse services.
 | `rameez.social` | Yes |
 | `rameeznooruddin.com` | No |
 | `ramen-fsm.eu.org` | Yes |
+| `ramen.rodeo` | No |
 | `ramendon.jp` | No |
 | `ramenramenramen.net` | Yes |
 | `ramirezzzz.org` | Yes |
@@ -37758,6 +37765,7 @@ Here's a list of public Fediverse services.
 | `roosenmaallen.com` | No |
 | `rooshv.com` | Yes |
 | `roost.eu` | No |
+| `root-it.tech` | Yes |
 | `root-s.xyz` | No |
 | `root.casa` | No |
 | `root.se` | No |
@@ -38949,6 +38957,7 @@ Here's a list of public Fediverse services.
 | `scorpinc.social` | No |
 | `scorpion.social` | No |
 | `scotentblog.co.uk` | No |
+| `scotgate.org` | No |
 | `scotland.computer` | No |
 | `scots.network` | Yes |
 | `scott.ee` | Yes |
@@ -43235,6 +43244,7 @@ Here's a list of public Fediverse services.
 | `techislife.space` | No |
 | `techknowlogick.com` | Yes |
 | `techlifeweb.com` | No |
+| `techliminal.com` | No |
 | `techlodon.com` | No |
 | `techlover.eu` | No |
 | `techmaturg.ist` | No |
@@ -50466,8 +50476,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,265 |
-| Normal | 36,153 |
+| Cloudflare | 14,268 |
+| Normal | 36,160 |
 
 
 </details>
