@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,942 |
+| com | 7,943 |
 | social | 4,655 |
 | net | 3,940 |
 | org | 2,634 |
@@ -46130,6 +46130,7 @@ Here's a list of public Fediverse services.
 | `ugm.ac.id` | No |
 | `ugoday.co` | No |
 | `ugrash.org` | No |
+| `ugurelveren.com` | No |
 | `uguu.io` | No |
 | `uguu.ltd` | No |
 | `uhc-elster.de` | No |
@@ -50485,7 +50486,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,273 |
-| Normal | 36,163 |
+| Normal | 36,164 |
 
 
 </details>
