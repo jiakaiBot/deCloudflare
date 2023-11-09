@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,941 |
+| com | 7,942 |
 | social | 4,655 |
 | net | 3,940 |
 | org | 2,633 |
@@ -32495,6 +32495,7 @@ Here's a list of public Fediverse services.
 | `omikron-alpha.net` | No |
 | `omimi.live` | No |
 | `omisosiru.net` | No |
+| `omjha.com` | Yes |
 | `omniatv.com` | Yes |
 | `omnific.one` | No |
 | `omnify.social` | No |
@@ -42243,6 +42244,7 @@ Here's a list of public Fediverse services.
 | `sukeban.moe` | No |
 | `sukebeneko.com` | No |
 | `sukebepacos.com` | No |
+| `sukino.xyz` | Yes |
 | `sukiyaki.fr` | No |
 | `sulairris.com` | No |
 | `sulegna.de` | Yes |
@@ -50479,7 +50481,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,270 |
+| Cloudflare | 14,272 |
 | Normal | 36,161 |
 
 
