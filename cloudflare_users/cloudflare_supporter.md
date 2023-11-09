@@ -1929,6 +1929,7 @@ Do not create new issue or we will close it as duplicate.
 | [BlessingsKango@twitter](https://twitter.com/BlessingsKango/status/1396632406770262025) | advertise |
 | [bless_doegah@twitter](https://twitter.com/bless_doegah/status/1405150928559353862) | advertise |
 | [Blink30428569@twitter](https://twitter.com/Blink30428569/status/1402516667318472706) | advertise |
+| [blink_sick@twitter](https://twitter.com/blink_sick/status/1722610184189784282) | advertise |
 | [blitoka33@twitter](https://twitter.com/blitoka33/status/1592616243043143680) | advertise |
 | [blizzardnub@twitter](https://twitter.com/blizzardnub/status/1572146209061732355) | advertise |
 | [blkqks@twitter](https://twitter.com/blkqks/status/1687318504301613056) | advertise |
@@ -8104,6 +8105,7 @@ Do not create new issue or we will close it as duplicate.
 | [MdAshra85999828@twitter](https://twitter.com/MdAshra85999828/status/1386984714934886407) | advertise |
 | [MdAsif31952227@twitter](https://twitter.com/MdAsif31952227/status/1592873454604152832) | advertise |
 | [MdChand1414195@twitter](https://twitter.com/MdChand1414195/status/1718869087013752950) | advertise |
+| [MdHossa92@twitter](https://twitter.com/MdHossa92/status/1722588444826939589) | advertise |
 | [MdJonay27065005@twitter](https://twitter.com/MdJonay27065005/status/1555577964254834688) | advertise |
 | [MdJuned57137884@twitter](https://twitter.com/MdJuned57137884/status/1378966402720272384) | advertise |
 | [mdk796299@twitter](https://twitter.com/mdk796299/status/1394950846845046794) | advertise |
