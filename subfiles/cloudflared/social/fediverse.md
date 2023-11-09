@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,937 |
-| social | 4,655 |
+| social | 4,656 |
 | net | 3,940 |
 | org | 2,631 |
 | de | 2,471 |
@@ -33344,6 +33344,7 @@ Here's a list of public Fediverse services.
 | `pacificnorthwest.social` | No |
 | `pacificvi.be` | No |
 | `packden.us` | No |
+| `packers.social` | No |
 | `packet.social` | No |
 | `packethost.net` | No |
 | `packetloss.gg` | Yes |
@@ -50466,7 +50467,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,265 |
-| Normal | 36,152 |
+| Normal | 36,153 |
 
 
 </details>
