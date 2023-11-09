@@ -8086,7 +8086,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -27594,6 +27594,7 @@ Here's a list of public Fediverse services.
 | `meremortalspodcast.shop` | No |
 | `merfolk.social` | No |
 | `mergl.in` | No |
+| `merida.hair` | No |
 | `meridiangrp.co.uk` | Yes |
 | `merilairon.com` | Yes |
 | `merill.net` | Yes |
@@ -28476,7 +28477,7 @@ Here's a list of public Fediverse services.
 | `ml45.net` | No |
 | `mlabouri.fr` | No |
 | `mlaga97.space` | No |
-| `mlan.im` | No |
+| `mlan.im` | Yes |
 | `mlborder.com` | Yes |
 | `mldn.jp` | No |
 | `mle.party` | No |
@@ -50452,7 +50453,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,261 |
-| Normal | 36,142 |
+| Normal | 36,143 |
 
 
 </details>
