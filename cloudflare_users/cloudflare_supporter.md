@@ -15250,6 +15250,7 @@ Do not create new issue or we will close it as duplicate.
 | [_kokt@twitter](https://twitter.com/_kokt/status/1429677155252727809) | advertise |
 | [_kuzannn@twitter](https://twitter.com/_kuzannn/status/1378391986449752067) | advertise |
 | [_leofoliveira@twitter](https://twitter.com/_leofoliveira/status/1594078351777763328) | advertise |
+| [_liveCommerce@twitter](https://twitter.com/_liveCommerce/status/1722580995273027941) | advertise |
 | [_M4nifest0_@twitter](https://twitter.com/_M4nifest0_/status/1395630834611281920) | advertise |
 | [_Mailootje_@twitter](https://twitter.com/_Mailootje_/status/1631932725555871745) | advertise |
 | [_mayankkashyap@twitter](https://twitter.com/_mayankkashyap/status/1480531480484974597) | advertise |
