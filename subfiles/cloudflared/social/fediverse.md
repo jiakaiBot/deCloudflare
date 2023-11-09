@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,936 |
+| com | 7,937 |
 | social | 4,655 |
 | net | 3,940 |
-| org | 2,630 |
-| de | 2,470 |
+| org | 2,631 |
+| de | 2,471 |
 
 
 - Mastodon, Pleroma, etc
@@ -12443,6 +12443,7 @@ Here's a list of public Fediverse services.
 | `emi.cx` | Yes |
 | `emil.nexus` | No |
 | `emil.work` | No |
+| `emilcar.social` | No |
 | `emiliabear.com` | Yes |
 | `emily.news` | No |
 | `emilylilyli.me` | No |
@@ -30015,6 +30016,7 @@ Here's a list of public Fediverse services.
 | `nahfe.xyz` | No |
 | `nahida.me` | No |
 | `nahuelwexd.com` | Yes |
+| `nahumgarcia.com` | No |
 | `naia.gay` | Yes |
 | `naiad.io` | Yes |
 | `naii.io` | No |
@@ -33342,7 +33344,6 @@ Here's a list of public Fediverse services.
 | `pacificnorthwest.social` | No |
 | `pacificvi.be` | No |
 | `packden.us` | No |
-| `packers.social` | No |
 | `packet.social` | No |
 | `packethost.net` | No |
 | `packetloss.gg` | Yes |
@@ -40965,6 +40966,7 @@ Here's a list of public Fediverse services.
 | `somewhy.com` | Yes |
 | `somewhy.net` | No |
 | `somincola.com` | Yes |
+| `somincola.org` | Yes |
 | `somipark.com` | No |
 | `somnathr.com` | Yes |
 | `somnium.fi` | Yes |
@@ -41302,6 +41304,7 @@ Here's a list of public Fediverse services.
 | `spitau.de` | No |
 | `spitball.show` | Yes |
 | `spittank.info` | No |
+| `spitzohr.de` | No |
 | `spiwit.net` | No |
 | `spjainplacements.org` | No |
 | `spkt.studio` | No |
@@ -50462,8 +50465,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,264 |
-| Normal | 36,150 |
+| Cloudflare | 14,265 |
+| Normal | 36,152 |
 
 
 </details>
