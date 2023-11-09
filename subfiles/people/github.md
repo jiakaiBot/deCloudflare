@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Bad Gateway 502 Error](https://github.com/bcbee/Universal-Presenter-Remote-iOS/issues/14)
 - [invalid user > user do not exist 问题](https://github.com/XrayR-project/XrayR/issues/517)
 - [Cloudflare extension options not updating](https://github.com/BoldGrid/w3-total-cache/issues/770)
 - [Invalid WebSocket protocol in LiveClient constructor](https://github.com/deepgram/deepgram-node-sdk/issues/197)
