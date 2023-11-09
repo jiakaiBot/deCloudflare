@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 7,943 |
 | social | 4,655 |
 | net | 3,940 |
-| org | 2,634 |
+| org | 2,635 |
 | de | 2,472 |
 
 
@@ -47962,6 +47962,7 @@ Here's a list of public Fediverse services.
 | `webdev189.tk` | No |
 | `webdevnerds.tech` | No |
 | `webdevs.social` | No |
+| `webdirections.org` | Yes |
 | `webelievein.love` | No |
 | `weber.fi.eu.org` | No |
 | `webfan.de` | No |
@@ -50485,7 +50486,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,273 |
+| Cloudflare | 14,274 |
 | Normal | 36,164 |
 
 
