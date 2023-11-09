@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Invalid WebSocket protocol in LiveClient constructor](https://github.com/deepgram/deepgram-node-sdk/issues/197)
 - [Ran Script and Certificate is not applied on Login](https://github.com/JessThrysoee/synology-letsencrypt/issues/11)
 - [CloudFlare Cloudflare R2 Increased Errors](https://github.com/SecOpsNews/news/issues/21028)
 - [CloudFlare Cloudflare R2 Increased Errors](https://github.com/hinoshiba/news/issues/5743)
