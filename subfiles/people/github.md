@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare R2 Increased Errors](https://github.com/hinoshiba/news/issues/5743)
+- [Flaresolverr return errors 500](https://github.com/FlareSolverr/FlareSolverr/issues/952)
 - [Loading full world into viewer gives error?](https://github.com/protomaps/PMTiles/issues/285)
 - [Merge multiple tickets with multi-select](https://github.com/freescout-helpdesk/freescout/issues/3516)
 - [web.public-pool.io is down](https://github.com/BitMaker-hub/NerdMiner_v2/issues/225)
