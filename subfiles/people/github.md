@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Emails forwarded from mailgun aren't showing](https://github.com/freescout-helpdesk/freescout/issues/3524)
 - [Module loader is trying to load submodules that use optional dependencies](https://github.com/metarhia/impress/issues/1937)
 - [CloudFlare Increased 5xx errors from Denver (DEN)](https://github.com/SecOpsNews/news/issues/21125)
 - [CloudFlare Increased 5xx errors from Denver (DEN)](https://github.com/hinoshiba/news/issues/5840)
