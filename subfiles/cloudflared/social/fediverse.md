@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,945 |
-| social | 4,655 |
+| com | 7,946 |
+| social | 4,656 |
 | net | 3,940 |
 | org | 2,635 |
 | de | 2,472 |
@@ -1310,6 +1310,7 @@ Here's a list of public Fediverse services.
 | `aeris-one.fr` | No |
 | `aerocity.site` | Yes |
 | `aerospace.town` | No |
+| `aes.id.au` | No |
 | `aes.sh` | Yes |
 | `aesops-pawn.shop` | No |
 | `aestus.club` | No |
@@ -2306,7 +2307,7 @@ Here's a list of public Fediverse services.
 | `anfora.social` | Yes |
 | `anfora.xyz` | No |
 | `ang.social` | No |
-| `angeidhealur.scot` | No |
+| `angeidhealur.scot` | Yes |
 | `angelo.land` | No |
 | `angelostavrow.blog` | No |
 | `angelou.club` | Yes |
@@ -4021,6 +4022,7 @@ Here's a list of public Fediverse services.
 | `baroukh.com` | No |
 | `barr0w.net` | No |
 | `barra.bar` | No |
+| `barrenfrozenwasteland.com` | No |
 | `barrett.dog` | No |
 | `barrett.fish` | No |
 | `barrettnexus.com` | No |
@@ -17390,6 +17392,7 @@ Here's a list of public Fediverse services.
 | `gvcr.ca` | No |
 | `gvisoc.com` | Yes |
 | `gwa.app` | No |
+| `gwah.social` | No |
 | `gwcoffey.com` | No |
 | `gweep.cat` | No |
 | `gwei.cz` | Yes |
@@ -18963,6 +18966,7 @@ Here's a list of public Fediverse services.
 | `htb.social` | Yes |
 | `htbaa.com` | No |
 | `htbrown.net` | Yes |
+| `htby.garden` | No |
 | `htcraft.ml` | Yes |
 | `htcwowdev.com` | No |
 | `html-curiositi.es` | No |
@@ -31207,6 +31211,7 @@ Here's a list of public Fediverse services.
 | `nlpagan.net` | No |
 | `nlpaige.me` | No |
 | `nlr.app` | Yes |
+| `nlsociaal.nl` | No |
 | `nltech.fr` | No |
 | `nluug.social` | No |
 | `nlyze.net` | No |
@@ -50491,8 +50496,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,281 |
-| Normal | 36,162 |
+| Cloudflare | 14,282 |
+| Normal | 36,166 |
 
 
 </details>
