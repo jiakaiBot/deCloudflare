@@ -829,7 +829,7 @@ Here's a list of public Fediverse services.
 | `a-li.re` | No |
 | `a-mastodon.it` | No |
 | `a-room-ones-own.me` | No |
-| `a-smol-cat.fr` | No |
+| `a-smol-cat.fr` | Yes |
 | `a-tak.com` | No |
 | `a-trappes-terre.fr` | No |
 | `a-zwenkau.de` | No |
@@ -20585,7 +20585,7 @@ Here's a list of public Fediverse services.
 | `jacokoster.com` | No |
 | `jacquesetmichel.fr` | No |
 | `jacquesfortierart.com` | No |
-| `jacs.xyz` | No |
+| `jacs.xyz` | Yes |
 | `jadden.info` | No |
 | `jade.directory` | No |
 | `jade.moe` | No |
@@ -41771,6 +41771,7 @@ Here's a list of public Fediverse services.
 | `stellbr.ink` | Yes |
 | `stellify.net` | Yes |
 | `stellj.es` | No |
+| `stelpolva.moe` | Yes |
 | `stembod.net` | No |
 | `stemislife.org` | No |
 | `stemmler.io` | No |
@@ -50489,8 +50490,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,275 |
-| Normal | 36,166 |
+| Cloudflare | 14,278 |
+| Normal | 36,164 |
 
 
 </details>
