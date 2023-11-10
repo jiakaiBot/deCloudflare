@@ -272,6 +272,7 @@ Do not create new issue or we will close it as duplicate.
 | [Abdelra65737648@twitter](https://twitter.com/Abdelra65737648/status/1399692942697189381) | advertise |
 | [abdennour_saleh@twitter](https://twitter.com/abdennour_saleh/status/1394348804124577798) | advertise |
 | [abderahim_1@twitter](https://twitter.com/abderahim_1/status/1495568771708297217) | advertise |
+| [Abdiazi81253373@twitter](https://twitter.com/Abdiazi81253373/status/1722964384224252141) | advertise |
 | [AbdilatifHusse3@twitter](https://twitter.com/AbdilatifHusse3/status/1571515958606368768) | advertise |
 | [ABDIRAX06711012@twitter](https://twitter.com/ABDIRAX06711012/status/1528761245406482432) | advertise |
 | [Abdlrhmnelhyb@twitter](https://twitter.com/Abdlrhmnelhyb/status/1477260431932669954) | advertise |
