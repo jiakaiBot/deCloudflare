@@ -1934,7 +1934,7 @@ Here's a list of public Fediverse services.
 | `alt.pub` | No |
 | `altaica.cloud` | No |
 | `altau.site` | Yes |
-| `altbrakz.com` | No |
+| `altbrakz.com` | Yes |
 | `altdelete.com` | Yes |
 | `altdn.me` | No |
 | `altdon.net` | No |
@@ -8090,7 +8090,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -33222,6 +33222,7 @@ Here's a list of public Fediverse services.
 | `ovo.pink` | Yes |
 | `ovo.st` | Yes |
 | `ovrtn.com` | Yes |
+| `ow3.cn` | No |
 | `owari.nl` | No |
 | `owari.shop` | Yes |
 | `owatan.jp` | No |
@@ -38291,7 +38292,7 @@ Here's a list of public Fediverse services.
 | `safelight.social` | No |
 | `safernursing.social` | No |
 | `saferspace.social` | No |
-| `saferweb.io` | Yes |
+| `saferweb.io` | No |
 | `safeserver.de` | No |
 | `safestreetrebel.com` | Yes |
 | `safewebbox.com` | Yes |
@@ -50486,8 +50487,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,274 |
-| Normal | 36,164 |
+| Cloudflare | 14,273 |
+| Normal | 36,166 |
 
 
 </details>
