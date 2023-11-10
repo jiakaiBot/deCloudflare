@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,953 |
+| com | 7,951 |
 | social | 4,657 |
-| net | 3,940 |
+| net | 3,936 |
 | org | 2,636 |
 | de | 2,472 |
 
@@ -2097,7 +2097,6 @@ Here's a list of public Fediverse services.
 | `amitgawande.com` | No |
 | `amity.zone` | No |
 | `amiva.cc` | No |
-| `amiverse.net` | No |
 | `amk.ie` | Yes |
 | `amk.pub` | No |
 | `aml.ink` | Yes |
@@ -6725,7 +6724,6 @@ Here's a list of public Fediverse services.
 | `catgram.jp` | Yes |
 | `catharsis.cafe` | No |
 | `cathect.net` | No |
-| `cathedral.tokyo` | No |
 | `cathode.church` | No |
 | `cathoderay.tube` | Yes |
 | `catholicchurch.social` | No |
@@ -15771,7 +15769,6 @@ Here's a list of public Fediverse services.
 | `gaken.social` | No |
 | `gaku-tab-kill.com` | No |
 | `gaku-tab-love.com` | Yes |
-| `gaku.blue` | No |
 | `gakugeidon.pw` | No |
 | `gakusei.space` | No |
 | `galacticaactu.al` | No |
@@ -16212,7 +16209,6 @@ Here's a list of public Fediverse services.
 | `gensokyo.town` | Yes |
 | `gensou.social` | No |
 | `gensoukyou.jp.net` | No |
-| `gensousakuya.moe` | Yes |
 | `gentle.town` | No |
 | `gentleman-loser.com` | No |
 | `gentlemanloser.cafe` | No |
@@ -26550,7 +26546,6 @@ Here's a list of public Fediverse services.
 | `mastodon-rosenheim.de` | No |
 | `mastodon-s.com` | Yes |
 | `mastodon-sci.tk` | No |
-| `mastodon-sci.xyz` | No |
 | `mastodon-server.co.uk` | Yes |
 | `mastodon-servers.net` | No |
 | `mastodon-sheep-smile.com` | No |
@@ -28145,6 +28140,7 @@ Here's a list of public Fediverse services.
 | `minecraftchest1.us` | Yes |
 | `minecrafty.tk` | No |
 | `minedol12.tk` | No |
+| `minedon.ml` | No |
 | `minego.net` | Yes |
 | `minematter.com` | No |
 | `mineown.de` | No |
@@ -28383,8 +28379,6 @@ Here's a list of public Fediverse services.
 | `misskeytsf.love` | Yes |
 | `misskeyval.com` | Yes |
 | `misskirara.net` | Yes |
-| `misskists.cf` | No |
-| `misskists.gq` | No |
 | `misskoula.space` | No |
 | `misso-pi.com` | No |
 | `misspi.net` | Yes |
@@ -28992,7 +28986,6 @@ Here's a list of public Fediverse services.
 | `moron.agency` | No |
 | `moron.city` | No |
 | `moroz.cc` | Yes |
-| `morphball.net` | No |
 | `morpheu5.net` | No |
 | `morphnet.de` | No |
 | `morphtown.de` | No |
@@ -30621,7 +30614,6 @@ Here's a list of public Fediverse services.
 | `neris.jp` | No |
 | `neritodon.xyz` | No |
 | `nero.tf` | No |
-| `nerrog.net` | Yes |
 | `nertzy.com` | Yes |
 | `nerv-project.eu` | No |
 | `nerv.agency` | Yes |
@@ -33056,7 +33048,6 @@ Here's a list of public Fediverse services.
 | `ostolc.org` | No |
 | `ostrovok.de` | No |
 | `osu.io` | Yes |
-| `osu.si` | No |
 | `osumiakari.jp` | Yes |
 | `osureplayviewer.xyz` | No |
 | `osvoj.ru` | No |
@@ -35666,7 +35657,6 @@ Here's a list of public Fediverse services.
 | `ptaah.fr` | No |
 | `ptah-alexs.info` | No |
 | `ptbo.social` | Yes |
-| `ptchat.net` | No |
 | `ptcl.me` | Yes |
 | `pter.it` | No |
 | `pteranodon.net` | No |
@@ -42289,7 +42279,6 @@ Here's a list of public Fediverse services.
 | `sumanko.com` | Yes |
 | `sumanko.ml` | Yes |
 | `sumeru.top` | Yes |
-| `sumerucity.com` | Yes |
 | `sumi.space` | Yes |
 | `sumikko.club` | Yes |
 | `summary.ink` | Yes |
@@ -46782,7 +46771,6 @@ Here's a list of public Fediverse services.
 | `uxint.ro` | No |
 | `uxp.de` | No |
 | `uxroux.xyz` | No |
-| `uyamisskey.com` | No |
 | `uyghur.life` | No |
 | `uysocial.live` | No |
 | `uzla.net` | No |
@@ -49993,7 +49981,6 @@ Here's a list of public Fediverse services.
 | `z0ne.stream` | Yes |
 | `z0r.co` | No |
 | `z0to1.com` | Yes |
-| `z0xp.dev` | Yes |
 | `z1lk.net` | No |
 | `z27.ch` | No |
 | `z2h.dev` | No |
@@ -50521,8 +50508,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,293 |
-| Normal | 36,180 |
+| Cloudflare | 14,289 |
+| Normal | 36,171 |
 
 
 </details>
