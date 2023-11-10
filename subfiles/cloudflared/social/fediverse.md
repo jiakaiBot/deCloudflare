@@ -1401,7 +1401,7 @@ Here's a list of public Fediverse services.
 | `agora.lol` | No |
 | `agoraforum.website` | No |
 | `agoranet.info` | No |
-| `agori.dev` | No |
+| `agori.dev` | Yes |
 | `agorism.blog` | No |
 | `agouritin.fr` | No |
 | `agrico.la` | Yes |
@@ -31139,6 +31139,7 @@ Here's a list of public Fediverse services.
 | `nishinomiya.in.net` | No |
 | `nishiwaseda.net` | No |
 | `nishtahir.com` | No |
+| `nishy.fr` | No |
 | `nislam.wiki` | Yes |
 | `niso.org` | No |
 | `niso.plus` | No |
@@ -50510,7 +50511,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,288 |
+| Cloudflare | 14,289 |
 | Normal | 36,174 |
 
 
