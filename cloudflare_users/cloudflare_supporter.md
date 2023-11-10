@@ -4512,6 +4512,7 @@ Do not create new issue or we will close it as duplicate.
 | [HANSKZ94935804@twitter](https://twitter.com/HANSKZ94935804/status/1567846423793700868) | advertise |
 | [HanSoeKyaw3@twitter](https://twitter.com/HanSoeKyaw3/status/1389948031680749573) | advertise |
 | [HanSoeThet4@twitter](https://twitter.com/HanSoeThet4/status/1389911744122867717) | advertise |
+| [hansolkitti@twitter](https://twitter.com/hansolkitti/status/1723007225327689978) | advertise |
 | [hansulwin8@twitter](https://twitter.com/hansulwin8/status/1391304251087929344) | advertise |
 | [HanThit15@twitter](https://twitter.com/HanThit15/status/1700883633454899322) | advertise |
 | [hanweWin1@twitter](https://twitter.com/hanweWin1/status/1403348385470451712) | advertise |
