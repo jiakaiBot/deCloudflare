@@ -13550,6 +13550,7 @@ Do not create new issue or we will close it as duplicate.
 | [trantinh98@twitter](https://twitter.com/trantinh98/status/1551127415405297664) | advertise |
 | [trantri2112@twitter](https://twitter.com/trantri2112/status/1701761900722491597) | advertise |
 | [TranTua00316518@twitter](https://twitter.com/TranTua00316518/status/1503265835145904128) | advertise |
+| [trantuan0865@twitter](https://twitter.com/trantuan0865/status/1723015753920807085) | advertise |
 | [TranTuanTico@twitter](https://twitter.com/TranTuanTico/status/1530249051777961985) | advertise |
 | [TranTuu48269@twitter](https://twitter.com/TranTuu48269/status/1648909533186752515) | advertise |
 | [tranvan89033780@twitter](https://twitter.com/tranvan89033780/status/1474185476256845826) | advertise |
