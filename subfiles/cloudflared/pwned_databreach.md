@@ -133,6 +133,7 @@ Here's a list of breached sites.
 | Chatbooks | 2,520,441 | Yes |
 | CheapAssGamer (CheapAssGamer.com) | 444,767 | Yes |
 | Chegg | 39,721,127 | Yes |
+| Chess | 827,620 | Yes |
 | Chowbus | 444,224 | Yes |
 | Cit0day | 226,883,414 | No |
 | CityBee | 110,156 | Yes |
@@ -709,7 +710,7 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 403 | 4,513,686,454 |
+| Cloudflare | 404 | 4,514,514,074 |
 | Normal | 285 | 4,511,771,864 |
 
 
