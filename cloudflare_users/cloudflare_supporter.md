@@ -900,6 +900,7 @@ Do not create new issue or we will close it as duplicate.
 | [AndrewYagami51@twitter](https://twitter.com/AndrewYagami51/status/1390187834758156293) | advertise |
 | [Andrew_Vu49@twitter](https://twitter.com/Andrew_Vu49/status/1681961182079647745) | advertise |
 | [AndrexDevCom@twitter](https://twitter.com/AndrexDevCom/status/1658890789668233223) | advertise |
+| [andrey4878@twitter](https://twitter.com/andrey4878/status/1722865312314413086) | advertise |
 | [andriannp@twitter](https://twitter.com/andriannp/status/1401023261085814787) | advertise |
 | [AndrianoVu@twitter](https://twitter.com/AndrianoVu/status/1519982700438114304) | advertise |
 | [andriansywa@twitter](https://twitter.com/andriansywa/status/1507741794179891205) | advertise |
@@ -1245,6 +1246,7 @@ Do not create new issue or we will close it as duplicate.
 | [atanu19233962@twitter](https://twitter.com/atanu19233962/status/1569739614734422016) | advertise |
 | [ataqureshi@twitter](https://twitter.com/ataqureshi/status/1479494465177985025) | advertise |
 | [atauky@twitter](https://twitter.com/atauky/status/1498221297738092546) | advertise |
+| [AterPutraSemon@twitter](https://twitter.com/AterPutraSemon/status/1722886360829423978) | advertise |
 | [athet25@twitter](https://twitter.com/athet25/status/1390373120943345664) | advertise |
 | [athlity7@twitter](https://twitter.com/athlity7/status/1393870645558083584) | advertise |
 | [athulcity@twitter](https://twitter.com/athulcity/status/1492319903251976197) | advertise |
@@ -5186,6 +5188,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hugo15926483@twitter](https://twitter.com/Hugo15926483/status/1596662890718990337) | advertise |
 | [HugoHug65874537@twitter](https://twitter.com/HugoHug65874537/status/1402143046758670348) | advertise |
 | [HuiAn65690775@twitter](https://twitter.com/HuiAn65690775/status/1391093920906420226) | advertise |
+| [HukLov@twitter](https://twitter.com/HukLov/status/1722814762399199278) | advertise |
 | [hulk2022@twitter](https://twitter.com/hulk2022/status/1391569781397114887) | advertise |
 | [HumanistPig@twitter](https://twitter.com/HumanistPig/status/1520395322480291841) | advertise |
 | [HumayraNusaiba@twitter](https://twitter.com/HumayraNusaiba/status/1516846214637305856) | advertise |
@@ -6174,6 +6177,7 @@ Do not create new issue or we will close it as duplicate.
 | [JXIJN234@twitter](https://twitter.com/JXIJN234/status/1538995559364800512) | advertise |
 | [jyfv7s6njs@twitter](https://twitter.com/jyfv7s6njs/status/1581563783964565504) | advertise |
 | [JyTrung@twitter](https://twitter.com/JyTrung/status/1397760199260196864) | advertise |
+| [j_310_v@twitter](https://twitter.com/j_310_v/status/1722815916197679512) | advertise |
 | [J_Gat@twitter](https://twitter.com/J_Gat/status/1516156671235694598) | advertise |
 | [j_mo999@twitter](https://twitter.com/j_mo999/status/1665874525777539074) | advertise |
 | [K04975245@twitter](https://twitter.com/K04975245/status/1395085262732943361) | advertise |
@@ -8314,6 +8318,7 @@ Do not create new issue or we will close it as duplicate.
 | [MikeyDusse@twitter](https://twitter.com/MikeyDusse/status/1665874502150963200) | advertise |
 | [mike_pisman@twitter](https://twitter.com/mike_pisman/status/1476007742791843840) | advertise |
 | [mikronine@twitter](https://twitter.com/mikronine/status/1383816281204219914) | advertise |
+| [miladnategi7878@twitter](https://twitter.com/miladnategi7878/status/1722867510750371886) | advertise |
 | [Miladsamadi43@twitter](https://twitter.com/Miladsamadi43/status/1489074405183348738) | advertise |
 | [MilanFireclaw@twitter](https://twitter.com/MilanFireclaw/status/1704719018773393472) | advertise |
 | [mild7893@twitter](https://twitter.com/mild7893/status/1499663502629171201) | advertise |
@@ -13581,6 +13586,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrmNguynBo19@twitter](https://twitter.com/TrmNguynBo19/status/1684809883877851136) | advertise |
 | [Trn10391150Minh@twitter](https://twitter.com/Trn10391150Minh/status/1580722871990878208) | advertise |
 | [TrN94641167@twitter](https://twitter.com/TrN94641167/status/1638074640982740992) | advertise |
+| [TrnBo45752629@twitter](https://twitter.com/TrnBo45752629/status/1722817284001968182) | advertise |
 | [TrncMin97936215@twitter](https://twitter.com/TrncMin97936215/status/1519458517748359168) | advertise |
 | [trndtrader@twitter](https://twitter.com/trndtrader/status/1499022857929637890) | advertise |
 | [Trng994@twitter](https://twitter.com/Trng994/status/1494841748698599425) | advertise |
