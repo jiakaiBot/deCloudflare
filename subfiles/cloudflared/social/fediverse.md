@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,943 |
+| com | 7,944 |
 | social | 4,655 |
 | net | 3,940 |
 | org | 2,635 |
@@ -29448,7 +29448,7 @@ Here's a list of public Fediverse services.
 | `mtsd.info` | Yes |
 | `mtth.org` | Yes |
 | `mttv.it` | No |
-| `mtu7.com` | No |
+| `mtu7.com` | Yes |
 | `mtwerk.com` | No |
 | `mtx.cx` | Yes |
 | `mtxyz.me` | No |
@@ -45241,6 +45241,7 @@ Here's a list of public Fediverse services.
 | `trains.coffee` | No |
 | `trainsgende.red` | No |
 | `trainyard.au` | No |
+| `tramasoli.com` | No |
 | `trammenti.org` | No |
 | `tran.tw` | No |
 | `tranarchy.fish` | No |
@@ -50488,7 +50489,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,274 |
+| Cloudflare | 14,275 |
 | Normal | 36,166 |
 
 
