@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [bypass cloudflare browser check](https://github.com/gildas-lormeau/single-file-cli/issues/61)
 - [Error importing backup](https://github.com/dani-garcia/vaultwarden/issues/4064)
 - [Can't list Testnet keys because of Cloudflare's anti-spam](https://github.com/ava-labs/avalanche-cli/issues/1172)
 - [Cloudflare Timeout on Challenge Spinner](https://github.com/FlareSolverr/FlareSolverr/issues/956)
