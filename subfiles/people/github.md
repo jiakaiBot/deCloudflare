@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Module loader is trying to load submodules that use optional dependencies](https://github.com/metarhia/impress/issues/1937)
 - [CloudFlare Increased 5xx errors from Denver (DEN)](https://github.com/SecOpsNews/news/issues/21125)
 - [CloudFlare Increased 5xx errors from Denver (DEN)](https://github.com/hinoshiba/news/issues/5840)
 - [bypass cloudflare browser check](https://github.com/gildas-lormeau/single-file-cli/issues/61)
