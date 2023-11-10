@@ -6234,6 +6234,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kakuzu231@twitter](https://twitter.com/Kakuzu231/status/1392289987828146184) | advertise |
 | [kakyikoko1735@twitter](https://twitter.com/kakyikoko1735/status/1393078993641906177) | advertise |
 | [kalakzadeh@twitter](https://twitter.com/kalakzadeh/status/1655065978026225665) | advertise |
+| [KalandichS39948@twitter](https://twitter.com/KalandichS39948/status/1722993798651728216) | advertise |
 | [Kalebpubg@twitter](https://twitter.com/Kalebpubg/status/1603774705093181440) | advertise |
 | [kalepaache2@twitter](https://twitter.com/kalepaache2/status/1538952242178539520) | advertise |
 | [kaliim9@twitter](https://twitter.com/kaliim9/status/1574867177223720960) | advertise |
