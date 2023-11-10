@@ -520,6 +520,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ahmed_Omar216@twitter](https://twitter.com/Ahmed_Omar216/status/1685429856006193153) | advertise |
 | [AhmerBu71105231@twitter](https://twitter.com/AhmerBu71105231/status/1398985358960840714) | advertise |
 | [ahnge08@twitter](https://twitter.com/ahnge08/status/1393110946919288837) | advertise |
+| [Ahoosaviz@twitter](https://twitter.com/Ahoosaviz/status/1723034138125406325) | advertise |
 | [AhRoi75@twitter](https://twitter.com/AhRoi75/status/1405424553476558857) | advertise |
 | [ahsan17986086@twitter](https://twitter.com/ahsan17986086/status/1578750151971127296) | advertise |
 | [AhsanulShaon@twitter](https://twitter.com/AhsanulShaon/status/1379002700730298371) | advertise |
@@ -2127,6 +2128,7 @@ Do not create new issue or we will close it as duplicate.
 | [BSurawit@twitter](https://twitter.com/BSurawit/status/1551948856015093760) | advertise |
 | [Bt02081@twitter](https://twitter.com/Bt02081/status/1386309894651858952) | advertise |
 | [BTaotung@twitter](https://twitter.com/BTaotung/status/1594891538609283072) | advertise |
+| [btc23456@twitter](https://twitter.com/btc23456/status/1723052374183354590) | advertise |
 | [BTejbir@twitter](https://twitter.com/BTejbir/status/1538323857639350272) | advertise |
 | [BTH15677533@twitter](https://twitter.com/BTH15677533/status/1381843579342004226) | advertise |
 | [btotherkingsto1@twitter](https://twitter.com/btotherkingsto1/status/1401106451863535616) | advertise |
@@ -3055,6 +3057,7 @@ Do not create new issue or we will close it as duplicate.
 | [designjazzltd@twitter](https://twitter.com/designjazzltd/status/1518899539452866561) | advertise |
 | [DesignsShujaa@twitter](https://twitter.com/DesignsShujaa/status/1501718865868300289) | advertise |
 | [desmondphyo@twitter](https://twitter.com/desmondphyo/status/1643661177459703810) | advertise |
+| [dessumiisluge99@twitter](https://twitter.com/dessumiisluge99/status/1723031300100300973) | advertise |
 | [detikepri@twitter](https://twitter.com/detikepri/status/1448139774171103239) | advertise |
 | [detviler8u8@twitter](https://twitter.com/detviler8u8/status/1529887094285340676) | advertise |
 | [DeukGu2@twitter](https://twitter.com/DeukGu2/status/1394341921418620935) | advertise |
