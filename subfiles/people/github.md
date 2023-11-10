@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error importing backup](https://github.com/dani-garcia/vaultwarden/issues/4064)
 - [Can't list Testnet keys because of Cloudflare's anti-spam](https://github.com/ava-labs/avalanche-cli/issues/1172)
 - [Cloudflare Timeout on Challenge Spinner](https://github.com/FlareSolverr/FlareSolverr/issues/956)
 - [Bad Gateway 502 Error](https://github.com/bcbee/Universal-Presenter-Remote-iOS/issues/14)
