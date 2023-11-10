@@ -110,7 +110,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | he.net | No |
 | hostux.net | No |
 | huque.com | No |
-| ibakerserver.pt | Yes |
 | iij.jp | Yes |
 | in-berlin.de | No |
 | inria.fr | No |
@@ -208,7 +207,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | spectrum.com | Yes |
 | spil.co.id | Yes |
 | startupstack.tech | Yes |
-| stvsk.ml | Yes |
 | switch.ch | No |
 | syaifullah.com | Yes |
 | synology.me | No |
@@ -241,8 +239,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 103 |
+| Cloudflare | 101 |
 | Normal | 119 |
 
 
-### 46.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 45.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
