@@ -5625,6 +5625,7 @@ Here's a list of public Fediverse services.
 | `boxofbugs.com` | Yes |
 | `boxp.tk` | No |
 | `boxpleats.com` | No |
+| `boyf.gay` | No |
 | `boyfails.me` | No |
 | `boykissers.club` | No |
 | `boymoder.biz` | No |
@@ -33718,7 +33719,7 @@ Here's a list of public Fediverse services.
 | `pawesome.online` | No |
 | `pawlicker.com` | No |
 | `pawn.nl` | No |
-| `pawoo.net` | No |
+| `pawoo.net` | Yes |
 | `pawopawo.net` | No |
 | `paws.gay` | No |
 | `paws.moe` | No |
@@ -50487,7 +50488,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,273 |
+| Cloudflare | 14,274 |
 | Normal | 36,166 |
 
 
