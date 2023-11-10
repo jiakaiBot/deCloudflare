@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,944 |
+| com | 7,945 |
 | social | 4,655 |
 | net | 3,940 |
 | org | 2,635 |
@@ -14823,7 +14823,7 @@ Here's a list of public Fediverse services.
 | `fountainpen.social` | No |
 | `fouquet.me` | No |
 | `four-nine.club` | No |
-| `fourbrickstall.com` | No |
+| `fourbrickstall.com` | Yes |
 | `fourhappylions.com` | No |
 | `fouroclockfarms.club` | No |
 | `fourth-brigade.jp` | No |
@@ -23465,6 +23465,7 @@ Here's a list of public Fediverse services.
 | `l3ib.org` | No |
 | `l3mmy.com` | Yes |
 | `l3r.me` | No |
+| `l3zc.com` | Yes |
 | `l4.pm` | Yes |
 | `l4m1.de` | No |
 | `l4p1n.ch` | No |
@@ -49794,7 +49795,7 @@ Here's a list of public Fediverse services.
 | `yqmmm.site` | No |
 | `yrf.me` | Yes |
 | `yrk06.dev` | No |
-| `yrm.xyz` | No |
+| `yrm.xyz` | Yes |
 | `yrr0r.net` | Yes |
 | `ys217.tokyo` | No |
 | `ysan.moe` | No |
@@ -50490,8 +50491,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,278 |
-| Normal | 36,164 |
+| Cloudflare | 14,281 |
+| Normal | 36,162 |
 
 
 </details>
