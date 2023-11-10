@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,948 |
-| social | 4,656 |
+| com | 7,952 |
+| social | 4,657 |
 | net | 3,940 |
 | org | 2,635 |
 | de | 2,472 |
@@ -2495,6 +2495,7 @@ Here's a list of public Fediverse services.
 | `antinet.work` | No |
 | `antinetzwerk.de` | No |
 | `antiniveau.eu` | No |
+| `antio.top` | No |
 | `antioil.party` | No |
 | `antiope.link` | Yes |
 | `antiorario.it` | Yes |
@@ -3062,6 +3063,7 @@ Here's a list of public Fediverse services.
 | `asciifortrouble.com` | No |
 | `asciisnowman.yachts` | Yes |
 | `ascll.net` | No |
+| `ascorcluj.com` | No |
 | `ascraeus.org` | No |
 | `ascyltos.social` | No |
 | `asdf.cafe` | Yes |
@@ -4365,6 +4367,7 @@ Here's a list of public Fediverse services.
 | `benboyd.us` | No |
 | `benbrown.com` | No |
 | `benbuhse.com` | Yes |
+| `bencarneiro.com` | No |
 | `bencollier.uk` | No |
 | `bend.town` | No |
 | `bendik.io` | Yes |
@@ -17174,6 +17177,7 @@ Here's a list of public Fediverse services.
 | `grimneko.de` | No |
 | `grimoire.eu.org` | No |
 | `grimoire.party` | No |
+| `grimoire.social` | No |
 | `grimspound.net` | No |
 | `grimstack.xyz` | Yes |
 | `grin.hu` | No |
@@ -19505,6 +19509,7 @@ Here's a list of public Fediverse services.
 | `ikbenpiraat.nl` | No |
 | `ikcafe.ch` | No |
 | `ikebuku.ro` | Yes |
+| `ikebukuro.city` | No |
 | `ikeji.ma` | No |
 | `ikelos.monster` | No |
 | `ikepe.xyz` | Yes |
@@ -23755,6 +23760,7 @@ Here's a list of public Fediverse services.
 | `lasiepedimore.com` | No |
 | `lasitua.org` | No |
 | `laski.app` | Yes |
+| `laspegasus.ru` | Yes |
 | `lassmich.wtf` | No |
 | `lastauth.com` | No |
 | `lastbreach.tv` | No |
@@ -24297,6 +24303,7 @@ Here's a list of public Fediverse services.
 | `letsdecentralize.org` | No |
 | `letsrulethe.world` | No |
 | `letterbmedia.com` | No |
+| `letters.ovh` | No |
 | `lettersblogatory.com` | Yes |
 | `lettersremain.com` | Yes |
 | `letthewookiee.win` | Yes |
@@ -25861,7 +25868,7 @@ Here's a list of public Fediverse services.
 | `maik.cloud` | No |
 | `maik.social` | No |
 | `maikaze.moe` | Yes |
-| `maikel.dev` | No |
+| `maikel.dev` | Yes |
 | `maikel.uk` | No |
 | `maikmueller.art` | Yes |
 | `mail.at` | No |
@@ -37244,6 +37251,7 @@ Here's a list of public Fediverse services.
 | `revertron.com` | No |
 | `revilla.pe` | No |
 | `revillas.es` | Yes |
+| `revisionbeta.com` | Yes |
 | `revpub.net` | No |
 | `revscottwells.com` | No |
 | `revstance.network` | No |
@@ -42891,6 +42899,7 @@ Here's a list of public Fediverse services.
 | `talbothome.com` | Yes |
 | `tale.cafe` | No |
 | `talee.de` | No |
+| `talentworld.group` | No |
 | `talesfromthehomelab.com` | No |
 | `talesofmy.life` | No |
 | `talesofterror.eu` | No |
@@ -43928,6 +43937,7 @@ Here's a list of public Fediverse services.
 | `theiceshelf.com` | No |
 | `theicon.stream` | No |
 | `theidlestate.com` | Yes |
+| `theilluminatinglens.com` | Yes |
 | `theindependentwhig.com` | Yes |
 | `theindiestone.com` | Yes |
 | `theinternet.lol` | No |
@@ -50500,8 +50510,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,284 |
-| Normal | 36,168 |
+| Cloudflare | 14,288 |
+| Normal | 36,174 |
 
 
 </details>
