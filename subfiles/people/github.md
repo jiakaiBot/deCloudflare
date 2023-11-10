@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Increased 5xx errors from Denver (DEN)](https://github.com/SecOpsNews/news/issues/21125)
+- [CloudFlare Increased 5xx errors from Denver (DEN)](https://github.com/hinoshiba/news/issues/5840)
 - [bypass cloudflare browser check](https://github.com/gildas-lormeau/single-file-cli/issues/61)
 - [Error importing backup](https://github.com/dani-garcia/vaultwarden/issues/4064)
 - [Can't list Testnet keys because of Cloudflare's anti-spam](https://github.com/ava-labs/avalanche-cli/issues/1172)
