@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,952 |
+| com | 7,953 |
 | social | 4,657 |
 | net | 3,940 |
-| org | 2,635 |
+| org | 2,636 |
 | de | 2,472 |
 
 
@@ -13324,6 +13324,7 @@ Here's a list of public Fediverse services.
 | `facorazza.com` | Yes |
 | `factelves.com` | No |
 | `factland.social` | Yes |
+| `factline.org` | Yes |
 | `factorial.io` | No |
 | `factsonthegroundshow.com` | No |
 | `fadoverso.pt` | Yes |
@@ -16211,6 +16212,7 @@ Here's a list of public Fediverse services.
 | `gensokyo.town` | Yes |
 | `gensou.social` | No |
 | `gensoukyou.jp.net` | No |
+| `gensousakuya.moe` | Yes |
 | `gentle.town` | No |
 | `gentleman-loser.com` | No |
 | `gentlemanloser.cafe` | No |
@@ -25364,6 +25366,7 @@ Here's a list of public Fediverse services.
 | `lucidsilence.com` | No |
 | `lucie-philou.com` | No |
 | `luciendupont.com` | Yes |
+| `luciengheerbrant.com` | Yes |
 | `lucienpuget.fr` | No |
 | `luciferi.st` | No |
 | `lucitt.com` | Yes |
@@ -26547,6 +26550,7 @@ Here's a list of public Fediverse services.
 | `mastodon-rosenheim.de` | No |
 | `mastodon-s.com` | Yes |
 | `mastodon-sci.tk` | No |
+| `mastodon-sci.xyz` | No |
 | `mastodon-server.co.uk` | Yes |
 | `mastodon-servers.net` | No |
 | `mastodon-sheep-smile.com` | No |
@@ -28379,6 +28383,8 @@ Here's a list of public Fediverse services.
 | `misskeytsf.love` | Yes |
 | `misskeyval.com` | Yes |
 | `misskirara.net` | Yes |
+| `misskists.cf` | No |
+| `misskists.gq` | No |
 | `misskoula.space` | No |
 | `misso-pi.com` | No |
 | `misspi.net` | Yes |
@@ -48999,6 +49005,7 @@ Here's a list of public Fediverse services.
 | `x0r.fr` | No |
 | `x0r.org` | No |
 | `x0r.stream` | No |
+| `x10.mx` | Yes |
 | `x10host.com` | Yes |
 | `x1337x.fr` | No |
 | `x1a.net` | Yes |
@@ -49286,6 +49293,7 @@ Here's a list of public Fediverse services.
 | `xn--p68ha.ml` | No |
 | `xn--p8ja8e.xn--q9jyb4c` | No |
 | `xn--p8s937b.net` | Yes |
+| `xn--p9jwa2e7a.xyz` | No |
 | `xn--pckuas0oz21m64d.jp` | No |
 | `xn--pikabl-0xa.se` | No |
 | `xn--ponek-1sa8t.eu` | No |
@@ -50511,8 +50519,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,289 |
-| Normal | 36,174 |
+| Cloudflare | 14,293 |
+| Normal | 36,178 |
 
 
 </details>
