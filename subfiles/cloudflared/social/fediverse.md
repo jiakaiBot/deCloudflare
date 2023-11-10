@@ -1547,7 +1547,6 @@ Here's a list of public Fediverse services.
 | `akashiensis.com` | No |
 | `akashiensis.online` | Yes |
 | `akatony.com` | Yes |
-| `akatuki-host.com` | Yes |
 | `akaza.red` | Yes |
 | `akbkuku.org` | Yes |
 | `akcakazarma.tk` | No |
@@ -42279,6 +42278,7 @@ Here's a list of public Fediverse services.
 | `sumanko.com` | Yes |
 | `sumanko.ml` | Yes |
 | `sumeru.top` | Yes |
+| `sumerucity.com` | Yes |
 | `sumi.space` | Yes |
 | `sumikko.club` | Yes |
 | `summary.ink` | Yes |
@@ -49283,7 +49283,6 @@ Here's a list of public Fediverse services.
 | `xn--p68ha.ml` | No |
 | `xn--p8ja8e.xn--q9jyb4c` | No |
 | `xn--p8s937b.net` | Yes |
-| `xn--p9jwa2e7a.xyz` | No |
 | `xn--pckuas0oz21m64d.jp` | No |
 | `xn--pikabl-0xa.se` | No |
 | `xn--ponek-1sa8t.eu` | No |
@@ -49981,6 +49980,7 @@ Here's a list of public Fediverse services.
 | `z0ne.stream` | Yes |
 | `z0r.co` | No |
 | `z0to1.com` | Yes |
+| `z0xp.dev` | Yes |
 | `z1lk.net` | No |
 | `z27.ch` | No |
 | `z2h.dev` | No |
@@ -50508,8 +50508,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,289 |
-| Normal | 36,171 |
+| Cloudflare | 14,290 |
+| Normal | 36,170 |
 
 
 </details>
