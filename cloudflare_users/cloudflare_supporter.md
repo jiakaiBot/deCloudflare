@@ -10352,6 +10352,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhanVnN6@twitter](https://twitter.com/PhanVnN6/status/1476930196150226951) | advertise |
 | [Pharm_chocolate@twitter](https://twitter.com/Pharm_chocolate/status/1401267624013668352) | advertise |
 | [Phat5312@twitter](https://twitter.com/Phat5312/status/1514940394651684870) | advertise |
+| [phatdat1980@twitter](https://twitter.com/phatdat1980/status/1723064870294209016) | advertise |
 | [PhatLe_2241@twitter](https://twitter.com/PhatLe_2241/status/1400493633120342018) | advertise |
 | [phatlie@twitter](https://twitter.com/phatlie/status/1607378368886099969) | advertise |
 | [PhatNgu75533287@twitter](https://twitter.com/PhatNgu75533287/status/1394214535414751232) | advertise |
