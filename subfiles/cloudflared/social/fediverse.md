@@ -7496,7 +7496,7 @@ Here's a list of public Fediverse services.
 | `ciberneticagerber.it` | No |
 | `cicadas.surf` | No |
 | `cicadaverse.com` | No |
-| `ciccarello.me` | No |
+| `ciccarello.me` | Yes |
 | `cidemi.lol` | No |
 | `cidiso.com` | No |
 | `ciechom.eu` | Yes |
@@ -12411,6 +12411,7 @@ Here's a list of public Fediverse services.
 | `elvibro.com` | No |
 | `elvil.net` | No |
 | `elvish.cafe` | No |
+| `elwedritsche.ovh` | No |
 | `elxlinux.com` | Yes |
 | `ely.fm` | No |
 | `elyat.im` | No |
@@ -24091,6 +24092,7 @@ Here's a list of public Fediverse services.
 | `lemmy.bg` | Yes |
 | `lemmy.biz` | Yes |
 | `lemmy.blue` | Yes |
+| `lemmy.bond` | Yes |
 | `lemmy.buzz` | No |
 | `lemmy.ca` | Yes |
 | `lemmy.cafe` | No |
@@ -42739,6 +42741,7 @@ Here's a list of public Fediverse services.
 | `t0k.org` | No |
 | `t0z.org` | Yes |
 | `t11i.jp` | No |
+| `t12.online` | No |
 | `t1c.dev` | No |
 | `t1nyb0x.cloud` | Yes |
 | `t327.net` | No |
@@ -50504,8 +50507,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,285 |
-| Normal | 36,171 |
+| Cloudflare | 14,287 |
+| Normal | 36,172 |
 
 
 </details>
