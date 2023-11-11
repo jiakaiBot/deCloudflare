@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,954 |
+| com | 7,955 |
 | social | 4,658 |
 | net | 3,938 |
-| org | 2,636 |
-| de | 2,473 |
+| org | 2,637 |
+| de | 2,474 |
 
 
 - Mastodon, Pleroma, etc
@@ -10532,6 +10532,7 @@ Here's a list of public Fediverse services.
 | `dhd-netzwerk.de` | No |
 | `dhealth.social` | No |
 | `dheinemann.com` | No |
+| `dhelonious.de` | No |
 | `dhilton.xyz` | No |
 | `dhlyn.me` | Yes |
 | `dhoare.me` | No |
@@ -13050,6 +13051,7 @@ Here's a list of public Fediverse services.
 | `evansims.com` | Yes |
 | `evanstoner.com` | Yes |
 | `evanv.nl` | No |
+| `evasboom.com` | No |
 | `evazero.club` | Yes |
 | `eveland.dev` | No |
 | `eveley.net` | No |
@@ -14934,6 +14936,7 @@ Here's a list of public Fediverse services.
 | `franciscogil.pt.eu.org` | No |
 | `franco.net.eu.org` | No |
 | `francoacg.com` | No |
+| `francois-rincon.org` | No |
 | `francophonie.lgbt` | No |
 | `franken.social` | No |
 | `frankenwolke.com` | No |
@@ -22075,7 +22078,7 @@ Here's a list of public Fediverse services.
 | `kaver.it` | No |
 | `kavkaza.ru` | No |
 | `kavlak.uk` | Yes |
-| `kawa-kun.com` | No |
+| `kawa-kun.com` | Yes |
 | `kawaii.dev` | No |
 | `kawaii.gg` | No |
 | `kawaii.social` | No |
@@ -40086,6 +40089,7 @@ Here's a list of public Fediverse services.
 | `simpleguy.net` | No |
 | `simplesi.net` | No |
 | `simplesocialnetwork.org` | Yes |
+| `simplespace.jp` | Yes |
 | `simplex-software.ru` | No |
 | `simplify.quest` | No |
 | `simplo.social` | No |
@@ -47298,6 +47302,7 @@ Here's a list of public Fediverse services.
 | `viorsan.com` | Yes |
 | `vipgirlfriend.xxx` | No |
 | `vipper.party` | No |
+| `vipra.vip` | No |
 | `vira-lata.org` | Yes |
 | `viral.ar` | Yes |
 | `viraladdiction.com` | Yes |
@@ -50525,8 +50530,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,297 |
-| Normal | 36,180 |
+| Cloudflare | 14,299 |
+| Normal | 36,183 |
 
 
 </details>
