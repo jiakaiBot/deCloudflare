@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,951 |
 | social | 4,656 |
-| net | 3,934 |
+| net | 3,936 |
 | org | 2,636 |
-| de | 2,471 |
+| de | 2,472 |
 
 
 - Mastodon, Pleroma, etc
@@ -4697,6 +4697,7 @@ Here's a list of public Fediverse services.
 | `bildung-ekhn.de` | No |
 | `bildung-zukunft-technik.de` | No |
 | `bildung.social` | No |
+| `bildungstaxi.de` | No |
 | `bilge.world` | No |
 | `bilgisocial.club` | No |
 | `bilibili.org` | Yes |
@@ -30846,6 +30847,7 @@ Here's a list of public Fediverse services.
 | `nexxis.social` | No |
 | `nexxt.social` | No |
 | `nexxtsocial.de` | No |
+| `nexxtsocial.net` | No |
 | `ney.ink` | No |
 | `nezorg.ninja` | No |
 | `nf0.ru` | No |
@@ -43833,6 +43835,7 @@ Here's a list of public Fediverse services.
 | `thedent.net` | No |
 | `thedesk.top` | No |
 | `thedevil.online` | No |
+| `thedigitallancabin.net` | Yes |
 | `thedimpau.se` | No |
 | `thedirtydis.co` | Yes |
 | `thedisco.social` | No |
@@ -46372,6 +46375,7 @@ Here's a list of public Fediverse services.
 | `uni.horse` | No |
 | `uniability.org` | No |
 | `uniastur.com` | Yes |
+| `unibas.ch` | No |
 | `unicode.org` | No |
 | `unicornbase.xyz` | No |
 | `unicornies.de` | No |
@@ -50507,8 +50511,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,287 |
-| Normal | 36,172 |
+| Cloudflare | 14,288 |
+| Normal | 36,175 |
 
 
 </details>
