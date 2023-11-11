@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issues with preview images generation](https://github.com/bookwyrm-social/bookwyrm/issues/3106)
 - [Add option to chunk files on upload](https://github.com/janeczku/calibre-web/issues/2928)
 - [Nixos, SOPS, and apitokenfile = Invalid format for Authorization header](https://github.com/nrdxp/cfdyndns/issues/37)
 - [Emails forwarded from mailgun aren't showing](https://github.com/freescout-helpdesk/freescout/issues/3524)
