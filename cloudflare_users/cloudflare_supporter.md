@@ -3974,6 +3974,7 @@ Do not create new issue or we will close it as duplicate.
 | [FradSer@twitter](https://twitter.com/FradSer/status/1525376068395225088) | advertise |
 | [fragile105085@twitter](https://twitter.com/fragile105085/status/1538779032438771712) | advertise |
 | [FrameToFrameBJ@twitter](https://twitter.com/FrameToFrameBJ/status/1574535320133160971) | advertise |
+| [francisbiendan1@twitter](https://twitter.com/francisbiendan1/status/1723128860055888296) | advertise |
 | [frankchen0130@twitter](https://twitter.com/frankchen0130/status/1558029495793160193) | advertise |
 | [Frankie15083281@twitter](https://twitter.com/Frankie15083281/status/1552191447042256896) | advertise |
 | [FrankYanWang@twitter](https://twitter.com/FrankYanWang/status/1647660998353113088) | advertise |
@@ -9669,6 +9670,7 @@ Do not create new issue or we will close it as duplicate.
 | [NikimaNsit62199@twitter](https://twitter.com/NikimaNsit62199/status/1710239936954417366) | advertise |
 | [NikkiLe53425659@twitter](https://twitter.com/NikkiLe53425659/status/1556629742115225602) | advertise |
 | [NikkiWhitten6@twitter](https://twitter.com/NikkiWhitten6/status/1665889185461334017) | advertise |
+| [Niklausmikelso8@twitter](https://twitter.com/Niklausmikelso8/status/1723107004858663350) | advertise |
 | [nik_dokht@twitter](https://twitter.com/nik_dokht/status/1580302051128446977) | advertise |
 | [NiladriAsh@twitter](https://twitter.com/NiladriAsh/status/1395822333944684544) | advertise |
 | [NilarSo52519800@twitter](https://twitter.com/NilarSo52519800/status/1394584973143851009) | advertise |
@@ -13288,6 +13290,7 @@ Do not create new issue or we will close it as duplicate.
 | [TianXiaDiYi8888@twitter](https://twitter.com/TianXiaDiYi8888/status/1532010863649263616) | advertise |
 | [TiBi_Tzuyu@twitter](https://twitter.com/TiBi_Tzuyu/status/1401756577011408900) | advertise |
 | [tidatidaeiei@twitter](https://twitter.com/tidatidaeiei/status/1552580057591214080) | advertise |
+| [TielureepiraTOR@twitter](https://twitter.com/TielureepiraTOR/status/1723117881120944614) | advertise |
 | [tienbisbis@twitter](https://twitter.com/tienbisbis/status/1403337680759394311) | advertise |
 | [tiendat09656415@twitter](https://twitter.com/tiendat09656415/status/1393973420639997954) | advertise |
 | [Tiennguyen341@twitter](https://twitter.com/Tiennguyen341/status/1587047106984185856) | advertise |
