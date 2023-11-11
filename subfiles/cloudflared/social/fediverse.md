@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,953 |
+| com | 7,954 |
 | social | 4,658 |
-| net | 3,937 |
+| net | 3,938 |
 | org | 2,636 |
 | de | 2,473 |
 
@@ -21265,7 +21265,7 @@ Here's a list of public Fediverse services.
 | `johnydeep.net` | No |
 | `join-fediverse.social` | No |
 | `join-lemmy.org` | No |
-| `joindiaspora.com` | No |
+| `joindiaspora.com` | Yes |
 | `joinfediverse.com` | No |
 | `joinfediverse.online` | No |
 | `joinfreedom.tk` | No |
@@ -29652,6 +29652,7 @@ Here's a list of public Fediverse services.
 | `mutant.cz` | No |
 | `mutant.pizza` | No |
 | `mutantfrog.com` | No |
+| `mutebot.net` | Yes |
 | `mutekey.games` | Yes |
 | `muthukrishna.social` | No |
 | `mutiny.today` | No |
@@ -32566,7 +32567,7 @@ Here's a list of public Fediverse services.
 | `onesteprevolution.com` | No |
 | `onetwoseven.one` | Yes |
 | `onetwoxu.de` | No |
-| `onewilshire.la` | No |
+| `onewilshire.la` | Yes |
 | `oneworldweb.social` | No |
 | `ongame.dev` | No |
 | `ongardenroad.ca` | No |
@@ -38898,7 +38899,7 @@ Here's a list of public Fediverse services.
 | `schreiblehrling.de` | No |
 | `schreibt.jetzt` | No |
 | `schrock.social` | No |
-| `schub.social` | No |
+| `schub.social` | Yes |
 | `schuerenbo.de` | No |
 | `schuerz.at` | No |
 | `schuessler.vip` | No |
@@ -46632,6 +46633,7 @@ Here's a list of public Fediverse services.
 | `urishari.com` | No |
 | `urizen.eu` | No |
 | `urizen.net` | No |
+| `urizn.com` | No |
 | `urkob.com` | No |
 | `urlo-tech.de` | No |
 | `urls.fyi` | No |
@@ -50523,8 +50525,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,293 |
-| Normal | 36,182 |
+| Cloudflare | 14,297 |
+| Normal | 36,180 |
 
 
 </details>
