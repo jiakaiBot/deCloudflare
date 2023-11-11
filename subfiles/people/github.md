@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [krakenfutures: watchOrders - throw error after editing of the order](https://github.com/ccxt/ccxt/issues/19927)
 - [Not working on Edge Workers (e.g. Vercel Edge Functions, Cloudflare Workers)](https://github.com/date-fns/date-fns/issues/3576)
 - [Issues with preview images generation](https://github.com/bookwyrm-social/bookwyrm/issues/3106)
 - [Add option to chunk files on upload](https://github.com/janeczku/calibre-web/issues/2928)
