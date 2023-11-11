@@ -8791,6 +8791,7 @@ Do not create new issue or we will close it as duplicate.
 | [MrJoo15184872@twitter](https://twitter.com/MrJoo15184872/status/1404063048399081472) | advertise |
 | [mrjuliosalgado@twitter](https://twitter.com/mrjuliosalgado/status/1609254343328276483) | advertise |
 | [MrKaungMyatHtut@twitter](https://twitter.com/MrKaungMyatHtut/status/1392211862574432258) | advertise |
+| [mrkevinjscott24@twitter](https://twitter.com/mrkevinjscott24/status/1723341797181554793) | advertise |
 | [Mrkhant30760085@twitter](https://twitter.com/Mrkhant30760085/status/1382709425580908546) | advertise |
 | [MrKirbeh@twitter](https://twitter.com/MrKirbeh/status/1611569155408556032) | advertise |
 | [MrKyawMin10@twitter](https://twitter.com/MrKyawMin10/status/1391304762868473858) | advertise |
