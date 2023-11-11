@@ -4251,6 +4251,7 @@ Do not create new issue or we will close it as duplicate.
 | [goet36@twitter](https://twitter.com/goet36/status/1657733431785140225) | advertise |
 | [GogehZailani@twitter](https://twitter.com/GogehZailani/status/1557726171130802179) | advertise |
 | [GogKhant@twitter](https://twitter.com/GogKhant/status/1393684373484961794) | advertise |
+| [Going_Obito2333@twitter](https://twitter.com/Going_Obito2333/status/1723208953314914477) | advertise |
 | [goku27541164@twitter](https://twitter.com/goku27541164/status/1665874524993208321) | advertise |
 | [GokuandVegitaa@twitter](https://twitter.com/GokuandVegitaa/status/1712289254062326161) | advertise |
 | [GoKuLkumar7035@twitter](https://twitter.com/GoKuLkumar7035/status/1714340081920852124) | advertise |
@@ -5530,6 +5531,7 @@ Do not create new issue or we will close it as duplicate.
 | [IndrajithTweets@twitter](https://twitter.com/IndrajithTweets/status/1578675459851550720) | advertise |
 | [indrarg899@twitter](https://twitter.com/indrarg899/status/1612662791051313153) | advertise |
 | [infectedmann@twitter](https://twitter.com/infectedmann/status/1388156292125143044) | advertise |
+| [infernodelux@twitter](https://twitter.com/infernodelux/status/1723192277311594598) | advertise |
 | [infobbonline@twitter](https://twitter.com/infobbonline/status/1580912783540961280) | advertise |
 | [infobohol@twitter](https://twitter.com/infobohol/status/1635516637259657217) | advertise |
 | [InfoDigi3@twitter](https://twitter.com/InfoDigi3/status/1393209236088229896) | advertise |
@@ -10766,6 +10768,7 @@ Do not create new issue or we will close it as duplicate.
 | [PuhanRobert@twitter](https://twitter.com/PuhanRobert/status/1676262352738570240) | advertise |
 | [PujaDev64573407@twitter](https://twitter.com/PujaDev64573407/status/1617906792750776323) | advertise |
 | [PUJIANTO@twitter](https://twitter.com/PUJIANTO/status/1442524922501160971) | advertise |
+| [puk_mul@twitter](https://twitter.com/puk_mul/status/1723194836302606678) | advertise |
 | [PuLu30355961@twitter](https://twitter.com/PuLu30355961/status/1389410310419664902) | advertise |
 | [Puma98911029@twitter](https://twitter.com/Puma98911029/status/1578437530591952897) | advertise |
 | [pumkid15@twitter](https://twitter.com/pumkid15/status/1617486784811732994) | advertise |
