@@ -2813,6 +2813,7 @@ Do not create new issue or we will close it as duplicate.
 | [Damnimnotyourfr@twitter](https://twitter.com/Damnimnotyourfr/status/1387481683096596481) | advertise |
 | [DamnJayAries@twitter](https://twitter.com/DamnJayAries/status/1496728021616705536) | advertise |
 | [damnstolar@twitter](https://twitter.com/damnstolar/status/1661828244260134916) | advertise |
+| [DamTruongLucy@twitter](https://twitter.com/DamTruongLucy/status/1723262267675029526) | advertise |
 | [damvinh41708778@twitter](https://twitter.com/damvinh41708778/status/1603223229631721473) | advertise |
 | [DamzyStevy@twitter](https://twitter.com/DamzyStevy/status/1577722614012940313) | advertise |
 | [dan12redcom@twitter](https://twitter.com/dan12redcom/status/1516463414440247306) | advertise |
