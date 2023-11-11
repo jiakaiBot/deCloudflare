@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,951 |
-| social | 4,656 |
-| net | 3,936 |
+| com | 7,953 |
+| social | 4,658 |
+| net | 3,937 |
 | org | 2,636 |
-| de | 2,472 |
+| de | 2,473 |
 
 
 - Mastodon, Pleroma, etc
@@ -169,6 +169,7 @@ Here's a list of public Fediverse services.
 | `0xabc.de` | No |
 | `0xcb.dev` | Yes |
 | `0xd.jp` | No |
+| `0xd8.dk` | No |
 | `0xdd.org.ru` | Yes |
 | `0xdevelopers.online` | No |
 | `0xdj.dev` | No |
@@ -1521,6 +1522,7 @@ Here's a list of public Fediverse services.
 | `ajq.fr` | No |
 | `ajtaci.club` | No |
 | `ajy.co` | No |
+| `ak0a.net` | No |
 | `ak3n.com` | Yes |
 | `aka.my` | No |
 | `akabe.co` | Yes |
@@ -2554,6 +2556,7 @@ Here's a list of public Fediverse services.
 | `anymore.nl` | No |
 | `anyqn.com` | No |
 | `anything.moe` | Yes |
+| `anythingdotshop.com` | No |
 | `anythingtoronto.social` | No |
 | `anywe.de` | No |
 | `anywise.net` | No |
@@ -7145,6 +7148,7 @@ Here's a list of public Fediverse services.
 | `cheekibreeki.express` | No |
 | `cheeky.red` | No |
 | `cheeky.wales` | No |
+| `cheerful.chat` | Yes |
 | `cheerful.social` | No |
 | `cheese.beer` | No |
 | `cheesebsd.com` | No |
@@ -20782,6 +20786,7 @@ Here's a list of public Fediverse services.
 | `jasper.land` | No |
 | `jastrow.me` | No |
 | `jatan.space` | Yes |
+| `jatlarge.com` | Yes |
 | `jatm.link` | No |
 | `jauer.it` | No |
 | `jauntygoat.net` | No |
@@ -24588,6 +24593,7 @@ Here's a list of public Fediverse services.
 | `lilahexe.top` | No |
 | `lilbyte.dev` | No |
 | `lile.cl` | Yes |
+| `lilienthal.social` | Yes |
 | `liliputech.com` | No |
 | `liliputing.com` | Yes |
 | `liliso.com` | Yes |
@@ -28670,6 +28676,7 @@ Here's a list of public Fediverse services.
 | `moeanime.io` | Yes |
 | `moec.top` | Yes |
 | `moeda.me` | No |
+| `moee.fr` | Yes |
 | `moegirl.live` | Yes |
 | `moeism.me` | No |
 | `moejo.io` | No |
@@ -29186,6 +29193,7 @@ Here's a list of public Fediverse services.
 | `mrrlll.net` | No |
 | `mrrob.in` | No |
 | `mrroman.pl` | Yes |
+| `mrrp.cat` | No |
 | `mrrps.net` | No |
 | `mrsmckhaos.me` | No |
 | `mrt.al` | No |
@@ -30270,6 +30278,7 @@ Here's a list of public Fediverse services.
 | `nazuwa.de` | No |
 | `nbaden.club` | No |
 | `nbailey.ca` | Yes |
+| `nberg.dk` | No |
 | `nbl.social` | No |
 | `nblo.ws` | Yes |
 | `nbloc.se` | No |
@@ -30846,6 +30855,7 @@ Here's a list of public Fediverse services.
 | `nexxis.online` | No |
 | `nexxis.social` | No |
 | `nexxt.social` | No |
+| `nexxtpress.de` | No |
 | `nexxtsocial.de` | No |
 | `nexxtsocial.net` | No |
 | `ney.ink` | No |
@@ -47261,6 +47271,7 @@ Here's a list of public Fediverse services.
 | `vincentux.fr` | No |
 | `vinchent.xyz` | No |
 | `vincode.io` | No |
+| `vindelicum.eu` | No |
 | `vindi.ca` | Yes |
 | `vinegarinn.studio` | No |
 | `vinerivisions.com` | No |
@@ -48035,6 +48046,7 @@ Here's a list of public Fediverse services.
 | `webwizard.uk` | Yes |
 | `webworker.social` | No |
 | `webxb.com` | Yes |
+| `webxr.social` | Yes |
 | `webzone69.com` | No |
 | `weckhorst.no` | Yes |
 | `wecraft.beer` | No |
@@ -50511,8 +50523,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,288 |
-| Normal | 36,175 |
+| Cloudflare | 14,293 |
+| Normal | 36,182 |
 
 
 </details>
