@@ -12295,6 +12295,7 @@ Do not create new issue or we will close it as duplicate.
 | [sorkar521@twitter](https://twitter.com/sorkar521/status/1690948772606722048) | advertise |
 | [Sosuke5N@twitter](https://twitter.com/Sosuke5N/status/1393150723941183492) | advertise |
 | [sosunwale@twitter](https://twitter.com/sosunwale/status/1400970212980240394) | advertise |
+| [souk_shadowin@twitter](https://twitter.com/souk_shadowin/status/1723165411599081625) | advertise |
 | [soulife883@twitter](https://twitter.com/soulife883/status/1618650120001839107) | advertise |
 | [soulmat12366294@twitter](https://twitter.com/soulmat12366294/status/1552314201783148544) | advertise |
 | [Soulrepaired123@twitter](https://twitter.com/Soulrepaired123/status/1689297232003014657) | advertise |
