@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Add option to chunk files on upload](https://github.com/janeczku/calibre-web/issues/2928)
 - [Nixos, SOPS, and apitokenfile = Invalid format for Authorization header](https://github.com/nrdxp/cfdyndns/issues/37)
 - [Emails forwarded from mailgun aren't showing](https://github.com/freescout-helpdesk/freescout/issues/3524)
 - [Module loader is trying to load submodules that use optional dependencies](https://github.com/metarhia/impress/issues/1937)
