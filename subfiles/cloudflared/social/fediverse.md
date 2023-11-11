@@ -8092,7 +8092,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -26687,7 +26687,7 @@ Here's a list of public Fediverse services.
 | `mastodon.net.au` | No |
 | `mastodon.network` | Yes |
 | `mastodon.nexus` | No |
-| `mastodon.ngo` | No |
+| `mastodon.ngo` | Yes |
 | `mastodon.ninja` | Yes |
 | `mastodon.nl` | No |
 | `mastodon.nrw` | No |
@@ -44559,6 +44559,7 @@ Here's a list of public Fediverse services.
 | `tinier.town` | No |
 | `tiniest.world` | No |
 | `tinker.nz` | No |
+| `tinkerbetter.tube` | No |
 | `tinkeringwithalien.tech` | No |
 | `tinkertofu.com` | Yes |
 | `tinko.club` | No |
@@ -48239,6 +48240,7 @@ Here's a list of public Fediverse services.
 | `whatshallwedowithout.us` | No |
 | `whatsupeh.ca` | No |
 | `whatthe.horse` | Yes |
+| `whatthedogdoinskibiditoiletinreallifeonlyinohio.lol` | No |
 | `whatthefuck.computer` | No |
 | `whatwasidoingagain.com` | Yes |
 | `whatwaslostisfound.co.uk` | No |
@@ -50501,7 +50503,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,283 |
+| Cloudflare | 14,285 |
 | Normal | 36,170 |
 
 
