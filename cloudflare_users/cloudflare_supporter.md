@@ -6121,6 +6121,7 @@ Do not create new issue or we will close it as duplicate.
 | [JTdoodler@twitter](https://twitter.com/JTdoodler/status/1441130159227252738) | advertise |
 | [juangom28889276@twitter](https://twitter.com/juangom28889276/status/1625807442318872576) | advertise |
 | [JuanHerna132@twitter](https://twitter.com/JuanHerna132/status/1514846521870589954) | advertise |
+| [juanjvp_@twitter](https://twitter.com/juanjvp_/status/1723144703296544768) | advertise |
 | [JubearHossan@twitter](https://twitter.com/JubearHossan/status/1472037401329504257) | advertise |
 | [jubir221290@twitter](https://twitter.com/jubir221290/status/1713536762117808161) | advertise |
 | [judgybaguette@twitter](https://twitter.com/judgybaguette/status/1583525208920449025) | advertise |
