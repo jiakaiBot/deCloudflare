@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,951 |
+| com | 7,952 |
 | social | 4,657 |
 | net | 3,936 |
 | org | 2,636 |
@@ -11156,7 +11156,7 @@ Here's a list of public Fediverse services.
 | `dondondon.ga` | No |
 | `doneydenouden.com` | Yes |
 | `dong.army` | No |
-| `dong.engineer` | Yes |
+| `dong.engineer` | No |
 | `dongeki.com` | No |
 | `dongs.social` | Yes |
 | `dongxi.ca` | Yes |
@@ -23618,7 +23618,7 @@ Here's a list of public Fediverse services.
 | `laipower.xyz` | No |
 | `lair.be` | No |
 | `lairds.com` | No |
-| `laisa.family` | Yes |
+| `laisa.family` | No |
 | `laissez-faire.social` | No |
 | `laisvai.lt` | Yes |
 | `laitues.net` | No |
@@ -40827,7 +40827,7 @@ Here's a list of public Fediverse services.
 | `socialpod.me` | Yes |
 | `socialprivacy.network` | No |
 | `socialrep.info` | Yes |
-| `socialrum.com` | Yes |
+| `socialrum.com` | No |
 | `socialscud.com` | Yes |
 | `socialserver.science` | Yes |
 | `socialsocial.club` | No |
@@ -46771,6 +46771,7 @@ Here's a list of public Fediverse services.
 | `uxint.ro` | No |
 | `uxp.de` | No |
 | `uxroux.xyz` | No |
+| `uyamisskey.com` | No |
 | `uyghur.life` | No |
 | `uysocial.live` | No |
 | `uzla.net` | No |
@@ -49789,6 +49790,7 @@ Here's a list of public Fediverse services.
 | `yourshit.rocks` | No |
 | `yousack.net` | No |
 | `youshallnotpass.com` | Yes |
+| `youtaite.xyz` | No |
 | `youten.xyz` | No |
 | `youth.social` | No |
 | `youthdon.com` | No |
@@ -50508,8 +50510,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,290 |
-| Normal | 36,170 |
+| Cloudflare | 14,287 |
+| Normal | 36,175 |
 
 
 </details>
