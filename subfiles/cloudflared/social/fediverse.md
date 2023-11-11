@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,952 |
-| social | 4,657 |
-| net | 3,936 |
+| social | 4,656 |
+| net | 3,935 |
 | org | 2,636 |
-| de | 2,472 |
+| de | 2,471 |
 
 
 - Mastodon, Pleroma, etc
@@ -3499,7 +3499,6 @@ Here's a list of public Fediverse services.
 | `avatastic.co.uk` | No |
 | `avatastic.uk` | Yes |
 | `avclub.camp` | No |
-| `ave.zone` | Yes |
 | `ave5.dev` | No |
 | `avensio.de` | No |
 | `aventer.biz` | No |
@@ -8412,7 +8411,6 @@ Here's a list of public Fediverse services.
 | `corduba.tech` | No |
 | `corduroy.biz` | Yes |
 | `cordx.cx` | Yes |
-| `cordx.net` | Yes |
 | `corebreach.com` | No |
 | `corecoding.dev` | No |
 | `coredump.social` | No |
@@ -20390,6 +20388,7 @@ Here's a list of public Fediverse services.
 | `itmgitmo.com` | No |
 | `itmslaves.com` | Yes |
 | `ito.com` | No |
+| `itochun.com` | No |
 | `itoji0419.jp` | Yes |
 | `itools.jp` | No |
 | `itp.io` | No |
@@ -20811,7 +20810,6 @@ Here's a list of public Fediverse services.
 | `jaxntech.com` | No |
 | `jay.xyz` | No |
 | `jay2k.co.uk` | No |
-| `jaybot.social` | No |
 | `jaydns.de` | No |
 | `jaye.sh` | No |
 | `jayfreestone.com` | No |
@@ -23600,7 +23598,6 @@ Here's a list of public Fediverse services.
 | `lain.faith` | No |
 | `lain.gay` | No |
 | `lain.haus` | No |
-| `lain.im` | Yes |
 | `lain.la` | No |
 | `lain.lu` | Yes |
 | `lain.moe` | No |
@@ -24202,7 +24199,6 @@ Here's a list of public Fediverse services.
 | `leno3s.net` | Yes |
 | `lenote.eu` | No |
 | `lenuxde.net` | No |
-| `lenz-host.de` | Yes |
 | `lenzg.net` | No |
 | `lenzn.net` | No |
 | `leo-skull.de` | Yes |
@@ -28378,6 +28374,8 @@ Here's a list of public Fediverse services.
 | `misskeytsf.love` | Yes |
 | `misskeyval.com` | Yes |
 | `misskirara.net` | Yes |
+| `misskists.cf` | No |
+| `misskists.gq` | No |
 | `misskoula.space` | No |
 | `misso-pi.com` | No |
 | `misspi.net` | Yes |
@@ -30389,7 +30387,6 @@ Here's a list of public Fediverse services.
 | `neix.at` | No |
 | `nejati.net` | Yes |
 | `nejiamasi.com` | No |
-| `nejimaki-radio.com` | No |
 | `nek.zone` | Yes |
 | `neka.site` | Yes |
 | `nekit.tk` | No |
@@ -31236,7 +31233,6 @@ Here's a list of public Fediverse services.
 | `nnct-mstdn.site` | No |
 | `nnct18j.com` | Yes |
 | `nneko.me` | No |
-| `nnia.cc` | No |
 | `nnia.space` | Yes |
 | `nnmdon.com` | No |
 | `nnn1590.org` | No |
@@ -38750,7 +38746,6 @@ Here's a list of public Fediverse services.
 | `scarlatti.de` | No |
 | `scarlet.house` | No |
 | `scarletheights.com` | No |
-| `scarletres.jp` | No |
 | `scarletsisters.xyz` | Yes |
 | `scarly.pink` | No |
 | `scarrott.uk` | No |
@@ -45656,7 +45651,6 @@ Here's a list of public Fediverse services.
 | `tsukura.net` | No |
 | `tsukuyomi.dev` | Yes |
 | `tsumikey.party` | Yes |
-| `tsumine.co` | No |
 | `tsun.co` | No |
 | `tsunami-art.com` | No |
 | `tsunanmstdn.jp` | No |
@@ -48985,6 +48979,7 @@ Here's a list of public Fediverse services.
 | `wyvern.rip` | No |
 | `wyx.ee` | Yes |
 | `wyy.gg` | Yes |
+| `wyy.sh` | Yes |
 | `wzf.wtf` | No |
 | `wznmickey.com` | Yes |
 | `x-just-4.fun` | No |
@@ -50510,8 +50505,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,287 |
-| Normal | 36,175 |
+| Cloudflare | 14,284 |
+| Normal | 36,173 |
 
 
 </details>
