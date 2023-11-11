@@ -1606,6 +1606,7 @@ Do not create new issue or we will close it as duplicate.
 | [baebaesaja666@twitter](https://twitter.com/baebaesaja666/status/1398980440476708868) | advertise |
 | [BaexTower@twitter](https://twitter.com/BaexTower/status/1664832196425793536) | advertise |
 | [BaggyB7@twitter](https://twitter.com/BaggyB7/status/1389914222096576513) | advertise |
+| [baguzsatryo@twitter](https://twitter.com/baguzsatryo/status/1723228091940745680) | advertise |
 | [BaGyiYe1@twitter](https://twitter.com/BaGyiYe1/status/1395180902947381253) | advertise |
 | [baha13860327@twitter](https://twitter.com/baha13860327/status/1581254886418620419) | advertise |
 | [BahramPubg37022@twitter](https://twitter.com/BahramPubg37022/status/1721920096380330375) | advertise |
