@@ -28384,8 +28384,6 @@ Here's a list of public Fediverse services.
 | `misskeytsf.love` | Yes |
 | `misskeyval.com` | Yes |
 | `misskirara.net` | Yes |
-| `misskists.cf` | No |
-| `misskists.gq` | No |
 | `misskoula.space` | No |
 | `misso-pi.com` | No |
 | `misspi.net` | Yes |
@@ -49004,7 +49002,6 @@ Here's a list of public Fediverse services.
 | `wyvern.rip` | No |
 | `wyx.ee` | Yes |
 | `wyy.gg` | Yes |
-| `wyy.sh` | Yes |
 | `wzf.wtf` | No |
 | `wznmickey.com` | Yes |
 | `x-just-4.fun` | No |
@@ -50530,8 +50527,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,299 |
-| Normal | 36,183 |
+| Cloudflare | 14,298 |
+| Normal | 36,181 |
 
 
 </details>
