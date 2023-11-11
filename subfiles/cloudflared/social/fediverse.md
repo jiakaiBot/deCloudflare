@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,952 |
+| com | 7,951 |
 | social | 4,656 |
-| net | 3,935 |
+| net | 3,934 |
 | org | 2,636 |
 | de | 2,471 |
 
@@ -3314,6 +3314,7 @@ Here's a list of public Fediverse services.
 | `atomium.club` | No |
 | `atommac.com` | No |
 | `ator.cz` | No |
+| `atoriye.com` | Yes |
 | `atovia.org` | Yes |
 | `atpons.com` | Yes |
 | `atravesdelcuento.es` | No |
@@ -7316,7 +7317,6 @@ Here's a list of public Fediverse services.
 | `choirofeyes.social` | No |
 | `choisyjc.social` | No |
 | `chokecherry.cc` | No |
-| `choko1229.net` | Yes |
 | `chomp.life` | Yes |
 | `choochoo.social` | No |
 | `choochoo.space` | No |
@@ -9899,6 +9899,7 @@ Here's a list of public Fediverse services.
 | `dd-dns.de` | No |
 | `dd.works` | No |
 | `dd0s.lol` | No |
+| `ddaodan.cn` | Yes |
 | `ddcloud.info` | No |
 | `ddddd.red` | No |
 | `dddug.in` | No |
@@ -10576,7 +10577,7 @@ Here's a list of public Fediverse services.
 | `diaspolizon.fr` | No |
 | `diaspora-fr.org` | No |
 | `diaspora.im` | No |
-| `diaspora.software` | No |
+| `diaspora.software` | Yes |
 | `diaspora.zone` | No |
 | `diasporabr.com.br` | No |
 | `diasporabrazil.org` | No |
@@ -27767,7 +27768,6 @@ Here's a list of public Fediverse services.
 | `mfg.fyi` | No |
 | `mfjt.jp` | Yes |
 | `mfmf.club` | Yes |
-| `mfmf.company` | Yes |
 | `mfmfuyu.net` | Yes |
 | `mfn.pub` | No |
 | `mfojtik.io` | Yes |
@@ -28135,7 +28135,6 @@ Here's a list of public Fediverse services.
 | `minecraftchest1.us` | Yes |
 | `minecrafty.tk` | No |
 | `minedol12.tk` | No |
-| `minedon.ml` | No |
 | `minego.net` | Yes |
 | `minematter.com` | No |
 | `mineown.de` | No |
@@ -28309,7 +28308,6 @@ Here's a list of public Fediverse services.
 | `misskey-iriam.net` | No |
 | `misskey-square.net` | Yes |
 | `misskey-sugartarou.com` | Yes |
-| `misskey-test.xyz` | Yes |
 | `misskey.ai` | No |
 | `misskey.art` | Yes |
 | `misskey.at` | No |
@@ -42273,7 +42271,6 @@ Here's a list of public Fediverse services.
 | `sumanko.com` | Yes |
 | `sumanko.ml` | Yes |
 | `sumeru.top` | Yes |
-| `sumerucity.com` | Yes |
 | `sumi.space` | Yes |
 | `sumikko.club` | Yes |
 | `summary.ink` | Yes |
@@ -46765,7 +46762,6 @@ Here's a list of public Fediverse services.
 | `uxint.ro` | No |
 | `uxp.de` | No |
 | `uxroux.xyz` | No |
-| `uyamisskey.com` | No |
 | `uyghur.life` | No |
 | `uysocial.live` | No |
 | `uzla.net` | No |
@@ -50505,8 +50501,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,284 |
-| Normal | 36,173 |
+| Cloudflare | 14,283 |
+| Normal | 36,170 |
 
 
 </details>
