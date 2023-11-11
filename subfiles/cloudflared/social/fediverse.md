@@ -13222,7 +13222,7 @@ Here's a list of public Fediverse services.
 | `extremelyoffline.org` | No |
 | `extremelyonline.website` | No |
 | `extremelywoke.club` | No |
-| `extremeprivacy.net` | Yes |
+| `extremeprivacy.net` | No |
 | `extroic.com` | No |
 | `extropian.net` | No |
 | `extwitriates.com` | No |
@@ -47234,6 +47234,7 @@ Here's a list of public Fediverse services.
 | `villacraft.fr` | Yes |
 | `village.icu` | No |
 | `village.one` | Yes |
+| `villains.live` | Yes |
 | `villamilla.com` | No |
 | `villanos.net` | No |
 | `villavasco.ovh` | Yes |
@@ -50504,7 +50505,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,285 |
-| Normal | 36,170 |
+| Normal | 36,171 |
 
 
 </details>
