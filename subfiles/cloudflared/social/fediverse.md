@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,957 |
+| com | 7,958 |
 | social | 4,658 |
 | net | 3,938 |
 | org | 2,637 |
-| de | 2,474 |
+| de | 2,475 |
 
 
 - Mastodon, Pleroma, etc
@@ -8098,7 +8098,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -15344,6 +15344,7 @@ Here's a list of public Fediverse services.
 | `fruitscale.com` | No |
 | `fruitstand.social` | No |
 | `frunc.de` | No |
+| `fruslottpaatredje.dk` | No |
 | `frustrat.es` | No |
 | `fry.gs` | No |
 | `fryer.net.au` | No |
@@ -31299,7 +31300,7 @@ Here's a list of public Fediverse services.
 | `nobrain.org` | No |
 | `nobulli.me` | No |
 | `noc.best` | Yes |
-| `noc.blue` | No |
+| `noc.blue` | Yes |
 | `noc.social` | No |
 | `nocadmin.net` | No |
 | `nocci.xyz` | Yes |
@@ -38901,6 +38902,7 @@ Here's a list of public Fediverse services.
 | `schorelweb.nl` | No |
 | `schosta.com` | No |
 | `schottkydio.de` | No |
+| `schraepler.de` | No |
 | `schrdr.nl` | No |
 | `schreiblehrling.de` | No |
 | `schreibt.jetzt` | No |
@@ -40226,6 +40228,7 @@ Here's a list of public Fediverse services.
 | `skaiinyght.com` | No |
 | `skalnik.com` | Yes |
 | `skankhunt42.pw` | Yes |
+| `skaperiet.no` | No |
 | `skapmedia.xyz` | Yes |
 | `skarnio.tv` | No |
 | `skastodon.com` | No |
@@ -41660,6 +41663,7 @@ Here's a list of public Fediverse services.
 | `starless.one` | No |
 | `starlifter.tv` | Yes |
 | `starlight.camp` | Yes |
+| `starlight.quest` | No |
 | `starlightkel.xyz` | No |
 | `starlilyth.net` | No |
 | `starlink.cz` | No |
@@ -48560,6 +48564,7 @@ Here's a list of public Fediverse services.
 | `witch.garden` | No |
 | `witch.gay` | No |
 | `witchcraft.cafe` | No |
+| `witchcraft.zone` | No |
 | `witches.academy` | No |
 | `witches.in` | No |
 | `witches.live` | No |
@@ -50323,6 +50328,7 @@ Here's a list of public Fediverse services.
 | `zlatiah-no.one` | No |
 | `zlatko.dev` | No |
 | `zld.red` | No |
+| `zlendy.com` | Yes |
 | `zlg.space` | No |
 | `zlhub.xyz` | No |
 | `zlma.org` | No |
@@ -50533,8 +50539,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,301 |
-| Normal | 36,184 |
+| Cloudflare | 14,304 |
+| Normal | 36,187 |
 
 
 </details>
