@@ -31035,6 +31035,7 @@ Here's a list of public Fediverse services.
 | `nihao.pub` | Yes |
 | `nihar.page` | Yes |
 | `nihars.in` | Yes |
+| `nihil.gay` | Yes |
 | `nihil.ws` | No |
 | `nihilist.space` | No |
 | `nihilum.space` | No |
@@ -50539,7 +50540,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,304 |
+| Cloudflare | 14,305 |
 | Normal | 36,187 |
 
 
