@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,955 |
+| com | 7,956 |
 | social | 4,658 |
 | net | 3,938 |
 | org | 2,637 |
@@ -23699,7 +23699,7 @@ Here's a list of public Fediverse services.
 | `langet.one` | No |
 | `langfahrtsegeln.de` | No |
 | `langfamilie.de` | No |
-| `langford.fm` | No |
+| `langford.fm` | Yes |
 | `langleveeuropa.nl` | No |
 | `langmerah.net` | No |
 | `langsec.social` | No |
@@ -36215,6 +36215,7 @@ Here's a list of public Fediverse services.
 | `r-tekne.net` | No |
 | `r.nf` | Yes |
 | `r.town` | No |
+| `r0.at` | No |
 | `r000t.com` | Yes |
 | `r00t.ch` | Yes |
 | `r00ted.com` | No |
@@ -38712,6 +38713,7 @@ Here's a list of public Fediverse services.
 | `saysrelax.com` | No |
 | `saysrelax.me` | No |
 | `sb17.space` | No |
+| `sbargv2.com` | No |
 | `sbaron.fr` | No |
 | `sbbsystems.com` | No |
 | `sbcloud.cc` | Yes |
@@ -45135,7 +45137,7 @@ Here's a list of public Fediverse services.
 | `torbin.me` | No |
 | `torgo.com` | No |
 | `torguard.social` | No |
-| `toripota.com` | No |
+| `toripota.com` | Yes |
 | `toririm.com` | Yes |
 | `torisan.party` | Yes |
 | `torlaz.online` | No |
@@ -50528,7 +50530,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,297 |
+| Cloudflare | 14,299 |
 | Normal | 36,183 |
 
 
