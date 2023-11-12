@@ -3118,6 +3118,7 @@ Do not create new issue or we will close it as duplicate.
 | [DickWhimsy@twitter](https://twitter.com/DickWhimsy/status/1384051581373468672) | advertise |
 | [DickWon23449512@twitter](https://twitter.com/DickWon23449512/status/1711674437286969560) | advertise |
 | [DickyAdirachman@twitter](https://twitter.com/DickyAdirachman/status/1552680441706323968) | advertise |
+| [Didodaria1@twitter](https://twitter.com/Didodaria1/status/1723775406375846330) | advertise |
 | [Diego24090352@twitter](https://twitter.com/Diego24090352/status/1557196849139924993) | advertise |
 | [diellidemjaha@twitter](https://twitter.com/diellidemjaha/status/1394616412086341633) | advertise |
 | [dienthanhsg1@twitter](https://twitter.com/dienthanhsg1/status/1640042097762881540) | advertise |
@@ -6686,6 +6687,7 @@ Do not create new issue or we will close it as duplicate.
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
 | [King81964381@twitter](https://twitter.com/King81964381/status/1407381247395913731) | advertise |
+| [king99924077307@twitter](https://twitter.com/king99924077307/status/1723793276614951039) | advertise |
 | [KingAlts2@twitter](https://twitter.com/KingAlts2/status/1529966287962656768) | advertise |
 | [KingarsalanT@twitter](https://twitter.com/KingarsalanT/status/1560545670620225536) | advertise |
 | [kingcioLaw@twitter](https://twitter.com/kingcioLaw/status/1520393986648965120) | advertise |
