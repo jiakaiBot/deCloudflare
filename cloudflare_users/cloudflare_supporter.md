@@ -14251,6 +14251,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vu33317074@twitter](https://twitter.com/Vu33317074/status/1594572608665980929) | advertise |
 | [VuAtu1996@twitter](https://twitter.com/VuAtu1996/status/1392296243791994880) | advertise |
 | [vuavuathoii11@twitter](https://twitter.com/vuavuathoii11/status/1629364843936620545) | advertise |
+| [Vua_dong_gach@twitter](https://twitter.com/Vua_dong_gach/status/1723716770719010991) | advertise |
 | [vubao1511@twitter](https://twitter.com/vubao1511/status/1399724212215033867) | advertise |
 | [vuddh_s@twitter](https://twitter.com/vuddh_s/status/1385846511309709313) | advertise |
 | [vugia1@twitter](https://twitter.com/vugia1/status/1637670409242914816) | advertise |
