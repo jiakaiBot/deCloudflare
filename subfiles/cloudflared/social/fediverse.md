@@ -4390,6 +4390,7 @@ Here's a list of public Fediverse services.
 | `benign.town` | No |
 | `benis.co.uk` | Yes |
 | `benis.social` | No |
+| `benis.zone` | Yes |
 | `benis8bits.stream` | No |
 | `benitox1.tk` | No |
 | `benjamin-westland.de` | No |
@@ -32970,6 +32971,7 @@ Here's a list of public Fediverse services.
 | `ornwood.garden` | No |
 | `orobouros.net` | No |
 | `orochena.net` | Yes |
+| `orokoro.ru` | Yes |
 | `oromasdis.tk` | No |
 | `oromit.de` | No |
 | `oros.one` | No |
@@ -50554,7 +50556,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,312 |
+| Cloudflare | 14,314 |
 | Normal | 36,194 |
 
 
