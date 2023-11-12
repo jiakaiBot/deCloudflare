@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare access - OpenID authentication with authentik](https://github.com/goauthentik/authentik/issues/7526)
 - [Test Results (Alfred Madere)](https://github.com/electropicks/Payback/issues/27)
 - [invalid peer certificate: BadSignature with Cloudflare WARP](https://github.com/denoland/deno/issues/21169)
 - [krakenfutures: watchOrders - throw error after editing of the order](https://github.com/ccxt/ccxt/issues/19927)
