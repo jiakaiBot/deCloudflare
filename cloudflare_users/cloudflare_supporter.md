@@ -5735,6 +5735,7 @@ Do not create new issue or we will close it as duplicate.
 | [jaemin1508@twitter](https://twitter.com/jaemin1508/status/1614678909798461441) | advertise |
 | [JaeRinKim7@twitter](https://twitter.com/JaeRinKim7/status/1396481821047607300) | advertise |
 | [jafar_a_@twitter](https://twitter.com/jafar_a_/status/1647738922049368066) | advertise |
+| [JagafGuled@twitter](https://twitter.com/JagafGuled/status/1723490720709763580) | advertise |
 | [Jagannatham66@twitter](https://twitter.com/Jagannatham66/status/1539237215628304386) | advertise |
 | [Jagdish70911049@twitter](https://twitter.com/Jagdish70911049/status/1383679712208199682) | advertise |
 | [jags90481@twitter](https://twitter.com/jags90481/status/1690102499250753536) | advertise |
@@ -11951,6 +11952,7 @@ Do not create new issue or we will close it as duplicate.
 | [shazbootes89@twitter](https://twitter.com/shazbootes89/status/1673325610414792710) | advertise |
 | [shaziakn@twitter](https://twitter.com/shaziakn/status/1385603154377527297) | advertise |
 | [shehab73896728@twitter](https://twitter.com/shehab73896728/status/1659401901715394560) | advertise |
+| [sheikhsupremacy@twitter](https://twitter.com/sheikhsupremacy/status/1723477350082650552) | advertise |
 | [sheilfer@twitter](https://twitter.com/sheilfer/status/1692309452039545159) | advertise |
 | [SheinAung16@twitter](https://twitter.com/SheinAung16/status/1391360533278777348) | advertise |
 | [SheinGyi4@twitter](https://twitter.com/SheinGyi4/status/1393011899382472706) | advertise |
@@ -14816,6 +14818,7 @@ Do not create new issue or we will close it as duplicate.
 | [yehia1Ali@twitter](https://twitter.com/yehia1Ali/status/1468995135224651779) | advertise |
 | [yehteta15677077@twitter](https://twitter.com/yehteta15677077/status/1390553372898467845) | advertise |
 | [YeHtetNaingAun1@twitter](https://twitter.com/YeHtetNaingAun1/status/1392148781613948928) | advertise |
+| [YehtetWai450872@twitter](https://twitter.com/YehtetWai450872/status/1723474741477175390) | advertise |
 | [Yehtetwin17@twitter](https://twitter.com/Yehtetwin17/status/1390817506692984832) | advertise |
 | [yehtet_htet@twitter](https://twitter.com/yehtet_htet/status/1397493398861348868) | advertise |
 | [YeHtun12817722@twitter](https://twitter.com/YeHtun12817722/status/1395006703607840773) | advertise |
