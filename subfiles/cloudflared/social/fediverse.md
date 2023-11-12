@@ -8097,7 +8097,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -19387,6 +19387,7 @@ Here's a list of public Fediverse services.
 | `ideaforg.com` | No |
 | `idealhealth.social` | No |
 | `ideali.sh` | No |
+| `idealists.su` | No |
 | `ideath.net` | No |
 | `ideentausch.org` | No |
 | `identi.cat` | No |
@@ -50527,8 +50528,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,298 |
-| Normal | 36,181 |
+| Cloudflare | 14,297 |
+| Normal | 36,183 |
 
 
 </details>
