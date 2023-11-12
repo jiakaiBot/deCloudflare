@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,965 |
 | social | 4,659 |
-| net | 3,939 |
+| net | 3,940 |
 | org | 2,637 |
 | de | 2,476 |
 
@@ -17148,6 +17148,7 @@ Here's a list of public Fediverse services.
 | `grevenbroich.social` | No |
 | `grey-box.net` | No |
 | `greyarea.one` | Yes |
+| `greydog.blog` | No |
 | `greyduck.social` | No |
 | `greylog.ru` | No |
 | `greyopossum.net` | No |
@@ -23456,6 +23457,7 @@ Here's a list of public Fediverse services.
 | `kyohju.com` | No |
 | `kyosakuyo.com` | Yes |
 | `kyot.me` | Yes |
+| `kyoten.net` | No |
 | `kyoto-citygrid.org` | No |
 | `kyou.social` | No |
 | `kyou.systems` | No |
@@ -25733,6 +25735,7 @@ Here's a list of public Fediverse services.
 | `macro.town` | Yes |
 | `macrodd.online` | Yes |
 | `macrofurs.social` | Yes |
+| `macskatze.art` | No |
 | `macsnet.cz` | No |
 | `macstack.net` | No |
 | `macstodon.scot` | Yes |
@@ -50559,7 +50562,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,315 |
-| Normal | 36,195 |
+| Normal | 36,198 |
 
 
 </details>
