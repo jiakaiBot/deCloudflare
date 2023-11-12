@@ -2758,6 +2758,7 @@ Do not create new issue or we will close it as duplicate.
 | [Cyb3r1no@twitter](https://twitter.com/Cyb3r1no/status/1394706481459703812) | advertise |
 | [Cyberga32484625@twitter](https://twitter.com/Cyberga32484625/status/1393421007205978117) | advertise |
 | [cyberlife_music@twitter](https://twitter.com/cyberlife_music/status/1716102277902094369) | advertise |
+| [CyberOpsChief@twitter](https://twitter.com/CyberOpsChief/status/1723748351026274760) | advertise |
 | [CyberwealthP@twitter](https://twitter.com/CyberwealthP/status/1440298836857999362) | advertise |
 | [CyenFinch@twitter](https://twitter.com/CyenFinch/status/1394179759978934272) | advertise |
 | [CynthiaWeirr_MK@twitter](https://twitter.com/CynthiaWeirr_MK/status/1431973396359811076) | advertise |
@@ -7729,6 +7730,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lynn30610357@twitter](https://twitter.com/Lynn30610357/status/1390640308719964165) | advertise |
 | [Lynn58120382@twitter](https://twitter.com/Lynn58120382/status/1378280012542017537) | advertise |
 | [LynnLyn42967403@twitter](https://twitter.com/LynnLyn42967403/status/1392001298363523072) | advertise |
+| [lyno_cm@twitter](https://twitter.com/lyno_cm/status/1723728673222820185) | advertise |
 | [LyRobeca@twitter](https://twitter.com/LyRobeca/status/1396393406675390472) | advertise |
 | [lyydr05804967@twitter](https://twitter.com/lyydr05804967/status/1685455459606499329) | advertise |
 | [Lz2xNRf8Qci6g2T@twitter](https://twitter.com/Lz2xNRf8Qci6g2T/status/1387813114490458114) | advertise |
@@ -9283,6 +9285,7 @@ Do not create new issue or we will close it as duplicate.
 | [NCRCET@twitter](https://twitter.com/NCRCET/status/1670669145057402886) | advertise |
 | [Ndahe8@twitter](https://twitter.com/Ndahe8/status/1387121668582117377) | advertise |
 | [NdIosdg@twitter](https://twitter.com/NdIosdg/status/1502104011155324932) | advertise |
+| [ndnd60688714@twitter](https://twitter.com/ndnd60688714/status/1723732864620012024) | advertise |
 | [ndt1901@twitter](https://twitter.com/ndt1901/status/1547278303161352192) | advertise |
 | [Nduck222lul@twitter](https://twitter.com/Nduck222lul/status/1617152019722305537) | advertise |
 | [nducluongio36@twitter](https://twitter.com/nducluongio36/status/1401614551120900100) | advertise |
@@ -12132,6 +12135,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sivathanushan2@twitter](https://twitter.com/Sivathanushan2/status/1385688860743536640) | advertise |
 | [sivelneyugn@twitter](https://twitter.com/sivelneyugn/status/1552194243032059904) | advertise |
 | [SivoCris@twitter](https://twitter.com/SivoCris/status/1552500323335356416) | advertise |
+| [sixaok@twitter](https://twitter.com/sixaok/status/1723737433806909476) | advertise |
 | [SiyaRam1000@twitter](https://twitter.com/SiyaRam1000/status/1395305720472506370) | advertise |
 | [si_iyo@twitter](https://twitter.com/si_iyo/status/1388647216412127234) | advertise |
 | [si_phyo94784420@twitter](https://twitter.com/si_phyo94784420/status/1391063077953499142) | advertise |
