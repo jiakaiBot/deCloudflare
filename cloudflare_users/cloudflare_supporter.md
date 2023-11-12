@@ -11799,6 +11799,7 @@ Do not create new issue or we will close it as duplicate.
 | [sdemanett@twitter](https://twitter.com/sdemanett/status/1396239812076638208) | advertise |
 | [Sea30177376Sea@twitter](https://twitter.com/Sea30177376Sea/status/1685289378287853568) | advertise |
 | [seacles@twitter](https://twitter.com/seacles/status/1673703189760344064) | advertise |
+| [sean404052@twitter](https://twitter.com/sean404052/status/1723802433560715449) | advertise |
 | [Sean77792242@twitter](https://twitter.com/Sean77792242/status/1498470501093896197) | advertise |
 | [SeanScalley1@twitter](https://twitter.com/SeanScalley1/status/1508999258288144389) | advertise |
 | [seaxvr@twitter](https://twitter.com/seaxvr/status/1386420536742268928) | advertise |
@@ -13807,6 +13808,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tung30082003@twitter](https://twitter.com/Tung30082003/status/1713632795883663391) | advertise |
 | [Tung55985050@twitter](https://twitter.com/Tung55985050/status/1401516166896443395) | advertise |
 | [tung85288887@twitter](https://twitter.com/tung85288887/status/1536123681826430976) | advertise |
+| [tungcao312@twitter](https://twitter.com/tungcao312/status/1723807095357587576) | advertise |
 | [tungcho3396@twitter](https://twitter.com/tungcho3396/status/1561578045445910528) | advertise |
 | [tungduo07351367@twitter](https://twitter.com/tungduo07351367/status/1518231863688843264) | advertise |
 | [tungTha36983287@twitter](https://twitter.com/tungTha36983287/status/1603640934725750784) | advertise |
