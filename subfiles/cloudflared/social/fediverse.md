@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,963 |
+| com | 7,965 |
 | social | 4,659 |
 | net | 3,939 |
 | org | 2,637 |
-| de | 2,475 |
+| de | 2,476 |
 
 
 - Mastodon, Pleroma, etc
@@ -6683,7 +6683,7 @@ Here's a list of public Fediverse services.
 | `catboys.org` | No |
 | `catbutts.today` | No |
 | `catcatnya.com` | No |
-| `catcore.life` | No |
+| `catcore.life` | Yes |
 | `catdog.me` | No |
 | `catdon.app` | Yes |
 | `catdon.jp` | No |
@@ -13188,7 +13188,7 @@ Here's a list of public Fediverse services.
 | `exotic.money` | No |
 | `exotic.sh` | No |
 | `exozy.me` | No |
-| `exp0.ml` | Yes |
+| `exp0.ml` | No |
 | `expandcontract.art` | No |
 | `expatasia.social` | No |
 | `expectnomore.net` | No |
@@ -13310,6 +13310,7 @@ Here's a list of public Fediverse services.
 | `fabiomanganiello.com` | No |
 | `fabiomrbarbosa.com` | Yes |
 | `fabioneves.ca` | No |
+| `fabioromeo.com` | No |
 | `fabiorusso.net` | No |
 | `fabis.cafe` | No |
 | `fabler.su` | No |
@@ -15504,6 +15505,7 @@ Here's a list of public Fediverse services.
 | `funkyfish.cool` | Yes |
 | `funkymonkey.org` | No |
 | `funkypenguin.co.nz` | Yes |
+| `funmocha.com` | Yes |
 | `funny.cl` | No |
 | `funnygirl.wtf` | No |
 | `funnylookinhat.com` | Yes |
@@ -21453,6 +21455,7 @@ Here's a list of public Fediverse services.
 | `jp-studios.de` | Yes |
 | `jp-warrior.cf` | No |
 | `jp0id.fun` | No |
+| `jp3d.de` | No |
 | `jpa.com` | Yes |
 | `jpages.eu` | Yes |
 | `jparenas.com` | No |
@@ -50556,8 +50559,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,314 |
-| Normal | 36,194 |
+| Cloudflare | 14,315 |
+| Normal | 36,196 |
 
 
 </details>
