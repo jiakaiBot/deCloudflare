@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,960 |
-| social | 4,658 |
-| net | 3,938 |
+| com | 7,963 |
+| social | 4,659 |
+| net | 3,939 |
 | org | 2,637 |
 | de | 2,475 |
 
@@ -4144,6 +4144,7 @@ Here's a list of public Fediverse services.
 | `bazbaze.com` | No |
 | `bazurk.com` | No |
 | `bazza.blog` | No |
+| `bb5.social` | No |
 | `bbad.com` | Yes |
 | `bball.city` | No |
 | `bbalm.me` | No |
@@ -9009,6 +9010,7 @@ Here's a list of public Fediverse services.
 | `cujian.com` | No |
 | `cuken.net` | Yes |
 | `culair.nl` | No |
+| `cult.town` | Yes |
 | `cultic.xyz` | No |
 | `cultiv.social` | Yes |
 | `cultofprimes.com` | No |
@@ -16430,6 +16432,7 @@ Here's a list of public Fediverse services.
 | `gillesmertens.com` | No |
 | `gillich.me` | Yes |
 | `gillyb.net` | Yes |
+| `gilotinx.art` | Yes |
 | `gimme-sympathy.org` | No |
 | `gimme5.club` | Yes |
 | `gimon.zone` | No |
@@ -19455,6 +19458,7 @@ Here's a list of public Fediverse services.
 | `ifwo.eu` | No |
 | `igate.pw` | No |
 | `igda.social` | No |
+| `igdamelbourne.au` | Yes |
 | `igelko.space` | No |
 | `igem.org` | Yes |
 | `igjf.social` | No |
@@ -20076,7 +20080,7 @@ Here's a list of public Fediverse services.
 | `intmax.jp` | No |
 | `intmtn.org` | Yes |
 | `intothecloud.net` | Yes |
-| `intothecyber.space` | No |
+| `intothecyber.space` | Yes |
 | `intotheriff.com` | No |
 | `intothewire.org` | No |
 | `intoxvs.info` | Yes |
@@ -23203,6 +23207,7 @@ Here's a list of public Fediverse services.
 | `kristoffer-strube.dk` | No |
 | `krisztianfekete.org` | No |
 | `krivokuca.dev` | Yes |
+| `kriwil.net` | No |
 | `krkrkr.org` | No |
 | `krlk.me` | Yes |
 | `krnk.work` | Yes |
@@ -25080,6 +25085,7 @@ Here's a list of public Fediverse services.
 | `lomara.org` | No |
 | `lomo.live` | No |
 | `lomz.me` | No |
+| `lon.tv` | No |
 | `lond.com.br` | Yes |
 | `londonleathermen.co.uk` | No |
 | `londonsocial.uk` | No |
@@ -32089,6 +32095,7 @@ Here's a list of public Fediverse services.
 | `oaf.org.au` | Yes |
 | `oak.li` | Yes |
 | `oak.social` | No |
+| `oakfire.com` | No |
 | `oaks.rocks` | No |
 | `oakver.online` | Yes |
 | `oalm.gub.uy` | No |
@@ -35498,6 +35505,7 @@ Here's a list of public Fediverse services.
 | `profitwallet.team` | No |
 | `progaccess.net` | No |
 | `progaming.co.th` | Yes |
+| `progi.vet` | No |
 | `prognesubis.net` | No |
 | `prograhamming.com` | No |
 | `programist.ro` | Yes |
@@ -39954,6 +39962,7 @@ Here's a list of public Fediverse services.
 | `siegenthaler.mx` | No |
 | `sieker.software` | No |
 | `sien.no` | No |
+| `sieprawski.pl` | No |
 | `sierranorte.red` | No |
 | `sieweke.social` | No |
 | `siewert.blog` | No |
@@ -48425,6 +48434,7 @@ Here's a list of public Fediverse services.
 | `wildhawkfield.com` | No |
 | `wildleague.org` | No |
 | `wildparadox.com` | No |
+| `wildrye.com` | No |
 | `wildsplash.photography` | No |
 | `wildsurf.net` | No |
 | `wildtree.jp` | No |
@@ -49270,6 +49280,7 @@ Here's a list of public Fediverse services.
 | `xn--drivation-b4a.fr` | No |
 | `xn--dsselblog-q9a.de` | No |
 | `xn--eckxc4c0a9di.games` | No |
+| `xn--eckxdwa8bwdza.com` | No |
 | `xn--eckycf7j.com` | No |
 | `xn--eekf.net` | No |
 | `xn--eeks.xn--tckwe` | Yes |
@@ -50542,8 +50553,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,308 |
-| Normal | 36,186 |
+| Cloudflare | 14,312 |
+| Normal | 36,193 |
 
 
 </details>
