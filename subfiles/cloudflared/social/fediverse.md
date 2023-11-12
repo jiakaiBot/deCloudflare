@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,956 |
+| com | 7,957 |
 | social | 4,658 |
 | net | 3,938 |
 | org | 2,637 |
@@ -2198,6 +2198,7 @@ Here's a list of public Fediverse services.
 | `anchovies.pizza` | No |
 | `anci.win` | No |
 | `ancientfaith.com` | No |
+| `ancientmaple.com` | Yes |
 | `ancientoch.info` | No |
 | `ancientumamisuki.link` | Yes |
 | `ancilla.ca` | No |
@@ -29563,6 +29564,7 @@ Here's a list of public Fediverse services.
 | `muon.social` | No |
 | `muppet-army.party` | Yes |
 | `muppetlabs.com` | No |
+| `murana.uy` | No |
 | `murasame.moe` | Yes |
 | `murat.io` | No |
 | `murata.jp.net` | No |
@@ -50530,8 +50532,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,299 |
-| Normal | 36,183 |
+| Cloudflare | 14,300 |
+| Normal | 36,184 |
 
 
 </details>
