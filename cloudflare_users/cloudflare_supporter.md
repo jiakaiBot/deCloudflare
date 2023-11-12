@@ -4127,6 +4127,7 @@ Do not create new issue or we will close it as duplicate.
 | [GaysohbetTurk@twitter](https://twitter.com/GaysohbetTurk/status/1450949056872816640) | advertise |
 | [gay_ass_link@twitter](https://twitter.com/gay_ass_link/status/1665874486703591425) | advertise |
 | [GaziSarama@twitter](https://twitter.com/GaziSarama/status/1526025726138494981) | advertise |
+| [GBARJ9mXVV94FKx@twitter](https://twitter.com/GBARJ9mXVV94FKx/status/1723503398098805039) | advertise |
 | [GD47666468@twitter](https://twitter.com/GD47666468/status/1403799656115539971) | advertise |
 | [GDNAVsTJpschYop@twitter](https://twitter.com/GDNAVsTJpschYop/status/1628573227286167554) | advertise |
 | [gdnunites@twitter](https://twitter.com/gdnunites/status/1425544488487899137) | advertise |
