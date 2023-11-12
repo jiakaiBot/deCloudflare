@@ -10134,6 +10134,7 @@ Do not create new issue or we will close it as duplicate.
 | [overhaulkk@twitter](https://twitter.com/overhaulkk/status/1401149473162596354) | advertise |
 | [overthai@twitter](https://twitter.com/overthai/status/1527752253288771584) | advertise |
 | [oviet27@twitter](https://twitter.com/oviet27/status/1475853663264403459) | advertise |
+| [ovingiv@twitter](https://twitter.com/ovingiv/status/1723534134235017418) | advertise |
 | [Ow16954845@twitter](https://twitter.com/Ow16954845/status/1399700429651447811) | advertise |
 | [Owen92335115@twitter](https://twitter.com/Owen92335115/status/1377489036877524995) | advertise |
 | [OWendyAroha@twitter](https://twitter.com/OWendyAroha/status/1554860783666089984) | advertise |
