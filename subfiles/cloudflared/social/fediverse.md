@@ -16255,7 +16255,7 @@ Here's a list of public Fediverse services.
 | `geraffel.social` | No |
 | `gerald.win` | Yes |
 | `gerardbentley.com` | No |
-| `geraspora.de` | No |
+| `geraspora.de` | Yes |
 | `gerben.dev` | Yes |
 | `gerbet.me` | No |
 | `gerbracht.social` | No |
@@ -45987,6 +45987,7 @@ Here's a list of public Fediverse services.
 | `twothree.space` | No |
 | `twrc.ru` | No |
 | `twst.me` | No |
+| `twt.rip` | No |
 | `twt.rs` | Yes |
 | `twt.wtf` | No |
 | `twtr.plus` | No |
@@ -50532,7 +50533,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,300 |
+| Cloudflare | 14,301 |
 | Normal | 36,184 |
 
 
