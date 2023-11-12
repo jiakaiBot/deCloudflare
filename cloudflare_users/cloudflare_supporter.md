@@ -4231,6 +4231,7 @@ Do not create new issue or we will close it as duplicate.
 | [GLIZZY49306620@twitter](https://twitter.com/GLIZZY49306620/status/1393570520843493382) | advertise |
 | [global354921@twitter](https://twitter.com/global354921/status/1393984954078400513) | advertise |
 | [globalgamerguy@twitter](https://twitter.com/globalgamerguy/status/1658526706687148049) | advertise |
+| [GloriaThein2022@twitter](https://twitter.com/GloriaThein2022/status/1723751000799056355) | advertise |
 | [GLsaisai@twitter](https://twitter.com/GLsaisai/status/1394137969024401410) | advertise |
 | [GMinzolt@twitter](https://twitter.com/GMinzolt/status/1516134801056575491) | advertise |
 | [gm_dalour@twitter](https://twitter.com/gm_dalour/status/1492016772924702720) | advertise |
@@ -5035,6 +5036,7 @@ Do not create new issue or we will close it as duplicate.
 | [hotelierindo@twitter](https://twitter.com/hotelierindo/status/1377128938879602688) | advertise |
 | [HotGirlsVideo99@twitter](https://twitter.com/HotGirlsVideo99/status/1591384776929603584) | advertise |
 | [hotman40929677@twitter](https://twitter.com/hotman40929677/status/1397865773889163266) | advertise |
+| [HovecCrew@twitter](https://twitter.com/HovecCrew/status/1723759075203412280) | advertise |
 | [how498988195935@twitter](https://twitter.com/how498988195935/status/1690713372168192000) | advertise |
 | [howmuches@twitter](https://twitter.com/howmuches/status/1512231330775715842) | advertise |
 | [Howsein_salimi@twitter](https://twitter.com/Howsein_salimi/status/1579227354437910528) | advertise |
@@ -9234,6 +9236,7 @@ Do not create new issue or we will close it as duplicate.
 | [nawalBadu@twitter](https://twitter.com/nawalBadu/status/1582370989455077377) | advertise |
 | [nawazbitone@twitter](https://twitter.com/nawazbitone/status/1563582579449614337) | advertise |
 | [nawid36470428@twitter](https://twitter.com/nawid36470428/status/1721083742171848810) | advertise |
+| [nawinth1991@twitter](https://twitter.com/nawinth1991/status/1723761413217562974) | advertise |
 | [NawYamin5@twitter](https://twitter.com/NawYamin5/status/1394208976900739074) | advertise |
 | [nayan1332@twitter](https://twitter.com/nayan1332/status/1495866875267678208) | advertise |
 | [nayanray22@twitter](https://twitter.com/nayanray22/status/1621196111779340289) | advertise |
