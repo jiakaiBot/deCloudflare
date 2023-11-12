@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,965 |
+| com | 7,967 |
 | social | 4,659 |
 | net | 3,940 |
 | org | 2,637 |
@@ -1683,7 +1683,7 @@ Here's a list of public Fediverse services.
 | `alephnil.xyz` | No |
 | `alerts.social` | No |
 | `alesan.io` | No |
-| `alessio.cc` | No |
+| `alessio.cc` | Yes |
 | `aleteoryx.me` | Yes |
 | `alevel.tech` | Yes |
 | `alex-kunz.com` | No |
@@ -2775,6 +2775,7 @@ Here's a list of public Fediverse services.
 | `archmage.io` | No |
 | `archous.net` | No |
 | `archraspberrypi.tk` | No |
+| `archstonepress.com` | No |
 | `archworks.co` | No |
 | `archybold.com` | No |
 | `arclight.pro` | Yes |
@@ -3105,7 +3106,7 @@ Here's a list of public Fediverse services.
 | `ashitty.website` | No |
 | `ashka.me` | No |
 | `ashkaijin.com` | No |
-| `ashlande.rs` | No |
+| `ashlande.rs` | Yes |
 | `ashleystone.me.uk` | Yes |
 | `ashok.ch` | No |
 | `ashtewari.com` | No |
@@ -39311,6 +39312,7 @@ Here's a list of public Fediverse services.
 | `seikin.club` | No |
 | `seikora.one` | Yes |
 | `seikowo.tk` | No |
+| `seinenrider.com` | No |
 | `seishiono.com` | No |
 | `seistrup-nagel.dk` | Yes |
 | `seitaro.me` | No |
@@ -39817,7 +39819,7 @@ Here's a list of public Fediverse services.
 | `shitter.blue` | No |
 | `shitter.me` | No |
 | `shitter.ml` | No |
-| `shitty.life` | No |
+| `shitty.life` | Yes |
 | `shittyurl.org` | Yes |
 | `shivering-isles.com` | Yes |
 | `shizentai.jp` | No |
@@ -50561,8 +50563,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,315 |
-| Normal | 36,198 |
+| Cloudflare | 14,318 |
+| Normal | 36,197 |
 
 
 </details>
