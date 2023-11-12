@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,958 |
+| com | 7,960 |
 | social | 4,658 |
 | net | 3,938 |
 | org | 2,637 |
@@ -1081,6 +1081,7 @@ Here's a list of public Fediverse services.
 | `acki.ng` | No |
 | `acl.sh` | No |
 | `aclashofcoasts.com` | No |
+| `aclevo.com` | Yes |
 | `aclevo.xyz` | No |
 | `acm.org` | Yes |
 | `acme.bo.it` | No |
@@ -22790,6 +22791,7 @@ Here's a list of public Fediverse services.
 | `kn-cloud.de` | No |
 | `knallimall.org` | No |
 | `knar.ph` | No |
+| `knazarov.com` | Yes |
 | `kneegrows.top` | No |
 | `kneitzel.de` | No |
 | `knetworld.net` | No |
@@ -35388,7 +35390,7 @@ Here's a list of public Fediverse services.
 | `prfm.jp` | No |
 | `prgmr.com` | No |
 | `prgmr.net` | Yes |
-| `pricefield.org` | No |
+| `pricefield.org` | Yes |
 | `pricey.uk` | No |
 | `prichrd.lol` | No |
 | `pride-rock-labs.com` | No |
@@ -50540,8 +50542,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,305 |
-| Normal | 36,187 |
+| Cloudflare | 14,308 |
+| Normal | 36,186 |
 
 
 </details>
