@@ -21158,6 +21158,7 @@ Here's a list of public Fediverse services.
 | `jlfr.me` | No |
 | `jlg.id.au` | No |
 | `jlg.link` | Yes |
+| `jlgrd.xyz` | No |
 | `jling.dev` | Yes |
 | `jlinuxer.org` | Yes |
 | `jliu.xyz` | Yes |
@@ -50554,7 +50555,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,312 |
-| Normal | 36,193 |
+| Normal | 36,194 |
 
 
 </details>
