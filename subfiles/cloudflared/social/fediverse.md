@@ -33191,7 +33191,7 @@ Here's a list of public Fediverse services.
 | `ourspacemusic.com` | No |
 | `oursphere.space` | Yes |
 | `oursquad.rocks` | Yes |
-| `ourt-ai.work` | No |
+| `ourt-ai.work` | Yes |
 | `ourtribeonline.com` | No |
 | `ourvillage.news` | Yes |
 | `ourvillage.social` | Yes |
@@ -50030,7 +50030,6 @@ Here's a list of public Fediverse services.
 | `z0ne.stream` | Yes |
 | `z0r.co` | No |
 | `z0to1.com` | Yes |
-| `z0xp.dev` | Yes |
 | `z1lk.net` | No |
 | `z27.ch` | No |
 | `z2h.dev` | No |
@@ -50560,7 +50559,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,315 |
-| Normal | 36,196 |
+| Normal | 36,195 |
 
 
 </details>
