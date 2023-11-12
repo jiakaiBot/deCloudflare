@@ -132,7 +132,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lefolgoc.net | No |
 | libredns.gr | No |
 | lindung.pp.ua | Yes |
-| linkr.ninja | No |
 | lonet.org | Yes |
 | lz0724.com | No |
 | mailkyb.co | No |
@@ -221,7 +220,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | unstoppable.io | Yes |
 | uplenk.com | Yes |
 | virga.pp.ua | Yes |
-| vishalk.com | No |
 | waifu.cz | Yes |
 | wang.art | Yes |
 | waringer-atg.de | No |
@@ -237,7 +235,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 98 |
-| Normal | 119 |
+| Normal | 117 |
 
 
-### 45.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 45.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
