@@ -2420,6 +2420,7 @@ Here's a list of public Fediverse services.
 | `annoyingdomain.com` | No |
 | `annp.jp` | No |
 | `annwan.me` | No |
+| `anoldgreydog.uk` | No |
 | `anomalocaris.link` | No |
 | `anomaly.center` | No |
 | `anon-chan.com` | No |
@@ -50583,7 +50584,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,333 |
-| Normal | 36,201 |
+| Normal | 36,202 |
 
 
 </details>
