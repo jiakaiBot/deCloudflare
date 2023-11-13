@@ -41601,6 +41601,7 @@ Here's a list of public Fediverse services.
 | `ssj3.xyz` | No |
 | `ssji.net` | No |
 | `ssks-ss.com` | Yes |
+| `sslip.io` | Yes |
 | `ssnake.me` | Yes |
 | `ssp-gt.de` | No |
 | `sspaeth.de` | No |
@@ -50583,7 +50584,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,333 |
+| Cloudflare | 14,334 |
 | Normal | 36,202 |
 
 
