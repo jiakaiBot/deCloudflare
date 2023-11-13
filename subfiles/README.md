@@ -126,7 +126,7 @@
     - [How many % of phishing domains are using Cloudflare?](cloudflared/phishing.md)
     - [How many % of malware domains are using Cloudflare?](cloudflared/malware.md)
     - [How many % of URL Shortener services are using Cloudflare?](cloudflared/urlshortening.md)
-    - [How many % of DNS filter/blocklists are using Cloudflare?](cloudflared/blocklists.md)
+    - [How many % of domains listed in DNS filter/blocklists are using Cloudflare?](cloudflared/blocklists.md)
   - [How many % of DNS Census (2013) are using Cloudflare?](cloudflared/dns_census_2013.md)
   - [How many % of domains listed in Netzsperren Liwest are using Cloudflare?](subfiles/cloudflared/netzsperren_liwest.md)
 - **Name Servers on the Internet**
