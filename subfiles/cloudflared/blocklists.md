@@ -1,4 +1,4 @@
-## How many % of DNS filter/blocklists are using Cloudflare?
+## How many % of domains listed in DNS filter/blocklists are using Cloudflare?
 
 
 Below are some of public blocklists to block ads, affiliate, tracking, metrics, telemetry etc.
@@ -28,4 +28,4 @@ Here's the result.
 | Total | 725,234 | 251,830 | 34.72% |
 
 
-### 34.72% of DNS filter/blocklists are using Cloudflare.
+### 34.72% of domains listed in DNS filter/blocklists are using Cloudflare.
