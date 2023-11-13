@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,968 |
-| social | 4,659 |
+| social | 4,660 |
 | net | 3,940 |
 | org | 2,637 |
 | de | 2,476 |
@@ -41071,6 +41071,7 @@ Here's a list of public Fediverse services.
 | `sonnenmulde.at` | No |
 | `sonntag.fr` | No |
 | `sonogatto.it` | No |
+| `sonomaca.social` | Yes |
 | `sonomu.club` | No |
 | `sonsofbattlefield.de` | Yes |
 | `sonsofliberty.red` | No |
@@ -50564,7 +50565,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,313 |
+| Cloudflare | 14,314 |
 | Normal | 36,203 |
 
 
