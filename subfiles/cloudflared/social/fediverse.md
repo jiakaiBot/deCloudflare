@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,972 |
+| com | 7,971 |
 | social | 4,661 |
-| net | 3,941 |
+| net | 3,942 |
 | org | 2,638 |
 | de | 2,477 |
 
@@ -14052,7 +14052,7 @@ Here's a list of public Fediverse services.
 | `femboy.page` | Yes |
 | `femboy.rent` | Yes |
 | `femboy.tokyo` | No |
-| `femboy.world` | No |
+| `femboy.world` | Yes |
 | `femboyfor.sale` | No |
 | `femboyfurry.net` | Yes |
 | `femboys-in.space` | Yes |
@@ -30501,7 +30501,6 @@ Here's a list of public Fediverse services.
 | `nem.one` | Yes |
 | `nemargut.com` | No |
 | `nemertes.nl` | No |
-| `nemesis53126.com` | Yes |
 | `nemeto.fr` | No |
 | `nemo.click` | No |
 | `nemo.town` | No |
@@ -35023,6 +35022,7 @@ Here's a list of public Fediverse services.
 | `polente.de` | Yes |
 | `polglase.net.au` | Yes |
 | `poli.social` | No |
+| `polifinario.net` | No |
 | `polisci.network` | No |
 | `politebot.com` | No |
 | `politehumans.com` | No |
