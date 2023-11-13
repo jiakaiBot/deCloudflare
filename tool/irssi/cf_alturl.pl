@@ -24,7 +24,7 @@
 
 use vars qw($VERSION %IRSSI);
 
-$VERSION = "20210501";
+$VERSION = "20231101";
 %IRSSI   = (
 
     #	Special thanks to: "eo, tsaavik"
@@ -228,10 +228,10 @@ sub GotUrl {
                     deb("$target Asking API about $fqdn");
                     $answer = '';
                     $url =
-                      'http://im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is_cf.php?f='
+                      'https://karma.crimeflare.eu.org/api/?f='
                       . $fqdn;
                     $browser = LWP::UserAgent->new;
-                    $browser->agent("Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0");
+                    $browser->agent("Mozilla/5.0 (Irssi)");
                     $response = $browser->get($url);
                     $answer   = $response->content;
                     if ( $answer eq '[true,true]' ) {
@@ -249,7 +249,7 @@ sub GotUrl {
                         deb("$target Creating Short Onion for $myurl");
                         $url = 'http://hbfkuwcbzhcht33fetbiajuh7i6gqupgnyupxcmujiky34drzmpajrid.onion/?i=new&url=' . $myurl;
                         $browser = LWP::UserAgent->new;
-                        $browser->agent("Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0");
+                        $browser->agent("Mozilla/5.0 (Irssi)");
                         $response = $browser->get($url);
                         $answer   = $response->content;
                         if (
@@ -271,7 +271,7 @@ sub GotUrl {
                         $url =
                           'https://ux.nu/api/short?format=plain&url=' . $myurl;
                         $browser = LWP::UserAgent->new;
-                        $browser->agent("Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0");
+                        $browser->agent("Mozilla/5.0 (Irssi)");
                         $response = $browser->get($url);
                         $answer   = $response->content;
                         if ( index( $answer, 'https://ux.nu/' ) == 0 ) {
