@@ -9180,6 +9180,7 @@ Do not create new issue or we will close it as duplicate.
 | [NannHtike13@twitter](https://twitter.com/NannHtike13/status/1390851009434456064) | advertise |
 | [Nanny231822@twitter](https://twitter.com/Nanny231822/status/1583809862076534785) | advertise |
 | [Nanofaux@twitter](https://twitter.com/Nanofaux/status/1381046465582272512) | advertise |
+| [NanoK1805@twitter](https://twitter.com/NanoK1805/status/1724007493192528151) | advertise |
 | [nanotumblr@twitter](https://twitter.com/nanotumblr/status/1430375877129375752) | advertise |
 | [NanPaPaHlaing2@twitter](https://twitter.com/NanPaPaHlaing2/status/1392849027050348550) | advertise |
 | [Nansu65438228@twitter](https://twitter.com/Nansu65438228/status/1393736436499746817) | advertise |
@@ -12083,6 +12084,7 @@ Do not create new issue or we will close it as duplicate.
 | [Silvery_catto@twitter](https://twitter.com/Silvery_catto/status/1602143255944396800) | advertise |
 | [sim12801895@twitter](https://twitter.com/sim12801895/status/1551992603033231361) | advertise |
 | [sim72350775@twitter](https://twitter.com/sim72350775/status/1541989719726227456) | advertise |
+| [Sim995014769741@twitter](https://twitter.com/Sim995014769741/status/1724019667998818559) | advertise |
 | [Simon199910@twitter](https://twitter.com/Simon199910/status/1391006292823609344) | advertise |
 | [SimonBelt@twitter](https://twitter.com/SimonBelt/status/1508542111637028872) | advertise |
 | [simonD3297@twitter](https://twitter.com/simonD3297/status/1499000078287380486) | advertise |
@@ -15255,6 +15257,7 @@ Do not create new issue or we will close it as duplicate.
 | [zozozo65286220@twitter](https://twitter.com/zozozo65286220/status/1555692585901035521) | advertise |
 | [ZPyiphyo@twitter](https://twitter.com/ZPyiphyo/status/1386897802408566787) | advertise |
 | [ZQO9GOjRPUVKPv6@twitter](https://twitter.com/ZQO9GOjRPUVKPv6/status/1665874509289734145) | advertise |
+| [zq_china@twitter](https://twitter.com/zq_china/status/1724010274490130901) | advertise |
 | [zring_barzinjy@twitter](https://twitter.com/zring_barzinjy/status/1531738609983885312) | advertise |
 | [zrobit@twitter](https://twitter.com/zrobit/status/1611729247240065027) | advertise |
 | [zrqofficial@twitter](https://twitter.com/zrqofficial/status/1397715275596800000) | advertise |
