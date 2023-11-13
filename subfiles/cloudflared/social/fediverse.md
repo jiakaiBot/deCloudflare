@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,968 |
-| social | 4,660 |
+| social | 4,661 |
 | net | 3,940 |
 | org | 2,637 |
 | de | 2,476 |
@@ -30242,6 +30242,7 @@ Here's a list of public Fediverse services.
 | `nathrakh.de` | No |
 | `natio.ovh` | No |
 | `national-defence.network` | Yes |
+| `nationalist.social` | No |
 | `nationaljustice.social` | No |
 | `nativeplants.club` | No |
 | `nativosoft.com` | No |
@@ -46715,7 +46716,7 @@ Here's a list of public Fediverse services.
 | `usedbytes.com` | No |
 | `usedom.social` | No |
 | `useless.beauty` | Yes |
-| `useless.one` | No |
+| `useless.one` | Yes |
 | `uselesslesbian.club` | No |
 | `usenet.lol` | No |
 | `user.today` | Yes |
@@ -50565,7 +50566,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,314 |
+| Cloudflare | 14,315 |
 | Normal | 36,203 |
 
 
