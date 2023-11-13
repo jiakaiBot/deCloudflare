@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,967 |
+| com | 7,968 |
 | social | 4,659 |
 | net | 3,940 |
 | org | 2,637 |
@@ -5890,7 +5890,7 @@ Here's a list of public Fediverse services.
 | `brookshelley.com` | Yes |
 | `broski.me` | Yes |
 | `brot.social` | No |
-| `broterrium.com` | Yes |
+| `broterrium.com` | No |
 | `broth.fun` | Yes |
 | `brotherscommon.place` | No |
 | `brothertec.eu` | No |
@@ -8102,7 +8102,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -18422,7 +18422,7 @@ Here's a list of public Fediverse services.
 | `hikoukidon.jp` | No |
 | `hikse.net` | No |
 | `hil.ist` | No |
-| `hilandchris.com` | No |
+| `hilandchris.com` | Yes |
 | `hilciferous.nl` | No |
 | `hildrey.net` | No |
 | `hilfikers.com` | Yes |
@@ -29917,7 +29917,7 @@ Here's a list of public Fediverse services.
 | `mysticaccess.online` | No |
 | `mystical.garden` | No |
 | `mysticalartai.com` | No |
-| `mysticcabin.xyz` | Yes |
+| `mysticcabin.xyz` | No |
 | `mystickynotes.com` | No |
 | `mysticmode.org` | Yes |
 | `mysticpsychedelic.space` | No |
@@ -39812,7 +39812,7 @@ Here's a list of public Fediverse services.
 | `shitposted.today` | No |
 | `shitposter.club` | No |
 | `shitpostinc.business` | No |
-| `shitposting.army` | Yes |
+| `shitposting.army` | No |
 | `shitposting.fr` | No |
 | `shitposting.network` | Yes |
 | `shitshow24.com` | No |
@@ -40320,7 +40320,7 @@ Here's a list of public Fediverse services.
 | `skoop.hu` | No |
 | `skoops.social` | No |
 | `skorpil.cz` | No |
-| `skota11.com` | Yes |
+| `skota11.com` | No |
 | `skrasek.us` | No |
 | `skree.social` | No |
 | `skrep.eu` | No |
@@ -41197,6 +41197,7 @@ Here's a list of public Fediverse services.
 | `sozicloud.net` | No |
 | `sp-codes.de` | No |
 | `sp00neysplace.co.uk` | No |
+| `sp3akr.com` | No |
 | `sp4ke.com` | No |
 | `sp8key.monster` | Yes |
 | `space-pirates.org` | No |
@@ -48855,7 +48856,7 @@ Here's a list of public Fediverse services.
 | `wovensoup.com` | No |
 | `wovs.tk` | Yes |
 | `wowana.me` | No |
-| `wowsdon.xyz` | Yes |
+| `wowsdon.xyz` | No |
 | `woyala.com` | Yes |
 | `wp-devil.com` | No |
 | `wp-punks.social` | No |
@@ -50563,8 +50564,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,318 |
-| Normal | 36,197 |
+| Cloudflare | 14,313 |
+| Normal | 36,203 |
 
 
 </details>
