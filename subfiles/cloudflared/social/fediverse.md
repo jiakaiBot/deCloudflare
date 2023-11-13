@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,661 |
 | net | 3,940 |
 | org | 2,637 |
-| de | 2,476 |
+| de | 2,477 |
 
 
 - Mastodon, Pleroma, etc
@@ -28008,6 +28008,7 @@ Here's a list of public Fediverse services.
 | `mikado-city.jp` | No |
 | `mikaela.info` | Yes |
 | `mikaelsuomela.com` | No |
+| `mikala.one` | Yes |
 | `mikaljakubal.com` | Yes |
 | `mikan0528.com` | Yes |
 | `mikanbako.blog` | Yes |
@@ -29060,6 +29061,7 @@ Here's a list of public Fediverse services.
 | `mostlychris.net` | Yes |
 | `mostlygood.xyz` | No |
 | `mostodon.cloud` | Yes |
+| `mostodon.de` | No |
 | `mostodon.info` | No |
 | `mostodon.net` | No |
 | `mostr.pub` | Yes |
@@ -50566,8 +50568,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,315 |
-| Normal | 36,203 |
+| Cloudflare | 14,316 |
+| Normal | 36,204 |
 
 
 </details>
