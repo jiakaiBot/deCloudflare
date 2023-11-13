@@ -2136,7 +2136,7 @@ Here's a list of public Fediverse services.
 | `amynews.social` | Yes |
 | `amyos.net` | No |
 | `amyways.com` | Yes |
-| `an.exchange` | No |
+| `an.exchange` | Yes |
 | `an0thr.app` | No |
 | `an6.us` | Yes |
 | `anacreonte.eu` | No |
@@ -24380,7 +24380,7 @@ Here's a list of public Fediverse services.
 | `lexevo.net` | Yes |
 | `lexi-hexi.eu` | No |
 | `lexicomancia.com` | No |
-| `lexie.space` | No |
+| `lexie.space` | Yes |
 | `lexiii.pink` | Yes |
 | `lexikon.press` | No |
 | `lexingtonbitcoin.social` | No |
@@ -37865,6 +37865,7 @@ Here's a list of public Fediverse services.
 | `rosaelefanten.org` | No |
 | `rosafamily.social` | Yes |
 | `rosafluffmoln.nu` | No |
+| `rosaline.systems` | No |
 | `rosania.org` | No |
 | `rosano.ca` | Yes |
 | `rosariotech.com.br` | No |
@@ -50571,8 +50572,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,319 |
-| Normal | 36,204 |
+| Cloudflare | 14,321 |
+| Normal | 36,203 |
 
 
 </details>
