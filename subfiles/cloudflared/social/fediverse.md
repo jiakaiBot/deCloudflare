@@ -2771,7 +2771,7 @@ Here's a list of public Fediverse services.
 | `archive.org` | Yes |
 | `archived.software` | No |
 | `archivefedifor.fun` | No |
-| `archlinux.fyi` | No |
+| `archlinux.fyi` | Yes |
 | `archlinuxuser.online` | No |
 | `archmage.io` | No |
 | `archous.net` | No |
@@ -8049,7 +8049,7 @@ Here's a list of public Fediverse services.
 | `coletivos.org` | No |
 | `coley.co` | Yes |
 | `colibris-outilslibres.org` | No |
-| `colinlabs.com` | No |
+| `colinlabs.com` | Yes |
 | `colinmartin.com` | No |
 | `colinmartin.uk` | No |
 | `colino.net` | No |
@@ -23720,6 +23720,7 @@ Here's a list of public Fediverse services.
 | `langford.fm` | Yes |
 | `langleveeuropa.nl` | No |
 | `langmerah.net` | No |
+| `langow.ski` | No |
 | `langsec.social` | No |
 | `language.jp` | No |
 | `languageandliteracy.blog` | No |
@@ -26222,6 +26223,7 @@ Here's a list of public Fediverse services.
 | `margio.in` | No |
 | `margiovanni.com` | Yes |
 | `margiovanni.it` | No |
+| `marguerat.ch` | No |
 | `marib.one` | Yes |
 | `marie.cologne` | Yes |
 | `marielaherrero.com` | No |
@@ -50569,7 +50571,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,317 |
+| Cloudflare | 14,319 |
 | Normal | 36,204 |
 
 
