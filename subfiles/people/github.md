@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [activeItem is undefined](https://github.com/henrygd/bigger-picture/issues/36)
 - [Cloudflare access - OpenID authentication with authentik](https://github.com/goauthentik/authentik/issues/7526)
 - [Test Results (Alfred Madere)](https://github.com/electropicks/Payback/issues/27)
 - [invalid peer certificate: BadSignature with Cloudflare WARP](https://github.com/denoland/deno/issues/21169)
