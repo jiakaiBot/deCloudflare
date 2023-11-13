@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,971 |
+| com | 7,972 |
 | social | 4,661 |
 | net | 3,941 |
-| org | 2,637 |
+| org | 2,638 |
 | de | 2,477 |
 
 
@@ -250,7 +250,7 @@ Here's a list of public Fediverse services.
 | `1315.me` | No |
 | `1331.social` | No |
 | `1337.blue` | Yes |
-| `1337.cx` | No |
+| `1337.cx` | Yes |
 | `1337.lgbt` | Yes |
 | `1337331.xyz` | Yes |
 | `1337lemmy.com` | No |
@@ -8103,7 +8103,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -22120,6 +22120,7 @@ Here's a list of public Fediverse services.
 | `kawi.fr` | No |
 | `kay.sh` | No |
 | `kay26.de` | No |
+| `kayamachi.org` | No |
 | `kayamatetsu.com` | No |
 | `kayb.ee` | Yes |
 | `kayloehmann.de` | No |
@@ -31697,7 +31698,7 @@ Here's a list of public Fediverse services.
 | `notnull.space` | No |
 | `noto.social` | No |
 | `notobono.de` | No |
-| `notodoesprogramacion.es` | No |
+| `notodoesprogramacion.es` | Yes |
 | `notohiro.com` | Yes |
 | `notorious.gay` | No |
 | `notparticularly.social` | No |
@@ -31806,7 +31807,7 @@ Here's a list of public Fediverse services.
 | `nrw.social` | No |
 | `ns.auction` | No |
 | `ns.ci` | Yes |
-| `nsa.lol` | No |
+| `nsa.lol` | Yes |
 | `nsa.ovh` | No |
 | `nscio.us` | No |
 | `nsfw.cafe` | No |
@@ -47116,6 +47117,7 @@ Here's a list of public Fediverse services.
 | `verbrennung.org` | No |
 | `vercel.app` | No |
 | `verdantsquare.net` | No |
+| `verde-loro.com` | No |
 | `verdi-bsh.de` | No |
 | `verdigado.net` | Yes |
 | `vereine.social` | No |
@@ -50580,8 +50582,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,329 |
-| Normal | 36,203 |
+| Cloudflare | 14,333 |
+| Normal | 36,201 |
 
 
 </details>
