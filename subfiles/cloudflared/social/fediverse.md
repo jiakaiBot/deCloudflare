@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,971 |
 | social | 4,661 |
-| net | 3,940 |
+| net | 3,941 |
 | org | 2,637 |
 | de | 2,477 |
 
@@ -33096,6 +33096,7 @@ Here's a list of public Fediverse services.
 | `osyakasyama.me` | No |
 | `ot-mangas.com` | No |
 | `otadon.com` | Yes |
+| `otagao.net` | Yes |
 | `otajo.tk` | No |
 | `otajodon.com` | Yes |
 | `otakan.jp` | No |
@@ -50579,7 +50580,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,328 |
+| Cloudflare | 14,329 |
 | Normal | 36,203 |
 
 
