@@ -13935,6 +13935,7 @@ Do not create new issue or we will close it as duplicate.
 | [uislis@twitter](https://twitter.com/uislis/status/1383408197793325062) | advertise |
 | [UItaphyo@twitter](https://twitter.com/UItaphyo/status/1641008500976537602) | advertise |
 | [uitlaber@twitter](https://twitter.com/uitlaber/status/1531845335915679744) | advertise |
+| [ujangsigat@twitter](https://twitter.com/ujangsigat/status/1723849497388724657) | advertise |
 | [UKDanJones@twitter](https://twitter.com/UKDanJones/status/1574421912658362370) | advertise |
 | [uknip247@twitter](https://twitter.com/uknip247/status/1659611586657501194) | advertise |
 | [UlaalaaL@twitter](https://twitter.com/UlaalaaL/status/1695691315189891512) | advertise |
