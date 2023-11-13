@@ -7,6 +7,7 @@ Here's the result.
 
 
 | Blocklist | Domains Count | Cloudflare | % |
+| --- | --- | --- | --- |
 | [1Hosts.Lite](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.win) | 54,336 | 16,854 | 31.02% |
 | [1Hosts.Mini](https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/hosts.win) | 52,707 | 16,288 | 30.9% |
 | [1Hosts.Pro](https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.win) | 111,395 | 39,194 | 35.18% |
