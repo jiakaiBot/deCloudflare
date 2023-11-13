@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,968 |
+| com | 7,971 |
 | social | 4,661 |
 | net | 3,940 |
 | org | 2,637 |
@@ -5105,7 +5105,7 @@ Here's a list of public Fediverse services.
 | `blessedguy.net` | Yes |
 | `blewsky.social` | Yes |
 | `bli.me` | No |
-| `blieb.net` | No |
+| `blieb.net` | Yes |
 | `blijf-nieuwsgierig.nl` | No |
 | `blimey.social` | Yes |
 | `blimped.net` | No |
@@ -11233,6 +11233,7 @@ Here's a list of public Fediverse services.
 | `dorf-post.de` | No |
 | `dorfsvald.net` | No |
 | `dorheeme.de` | No |
+| `dorigo.co` | Yes |
 | `dorijan.io` | No |
 | `doriskey.net` | Yes |
 | `doriskey.xyz` | Yes |
@@ -11394,7 +11395,7 @@ Here's a list of public Fediverse services.
 | `drakakorp.eu` | No |
 | `drake.network` | No |
 | `drakfrid.com` | No |
-| `drakkar.social` | No |
+| `drakkar.social` | Yes |
 | `draky.net` | No |
 | `dram.group` | No |
 | `dram.org` | No |
@@ -30947,6 +30948,7 @@ Here's a list of public Fediverse services.
 | `nicecockb.ro` | Yes |
 | `nicecrew.digital` | Yes |
 | `nicecrew.us` | No |
+| `nicede.xyz` | No |
 | `nicehat.lol` | Yes |
 | `nicepeople.social` | No |
 | `niceview.club` | No |
@@ -39421,6 +39423,7 @@ Here's a list of public Fediverse services.
 | `senky.social` | Yes |
 | `sennomo.net` | No |
 | `senooken.jp` | Yes |
+| `senosva.com` | Yes |
 | `senpaga.net` | No |
 | `senpainoticedme.moe` | No |
 | `senpaisilver.com` | No |
@@ -44293,6 +44296,7 @@ Here's a list of public Fediverse services.
 | `thewired.zone` | Yes |
 | `thewiring.com` | Yes |
 | `thewizardingworld.com` | No |
+| `thewizardly.com` | Yes |
 | `thewomenintechshow.com` | No |
 | `thewookiees.dev` | No |
 | `thewooskeys.com` | No |
@@ -46891,6 +46895,7 @@ Here's a list of public Fediverse services.
 | `valentinekindahot.fr` | Yes |
 | `valentines.monster` | No |
 | `valerauko.net` | No |
+| `valerio.se` | No |
 | `valha.la` | No |
 | `valhalla.social` | No |
 | `validpostage.com` | Yes |
@@ -49205,6 +49210,7 @@ Here's a list of public Fediverse services.
 | `xiling.site` | No |
 | `xim.ca` | No |
 | `xin.cat` | No |
+| `xinchronize.com` | Yes |
 | `xindejiayuan.com` | No |
 | `xinghaizhandui.com` | No |
 | `xingxing.digital` | No |
@@ -50135,6 +50141,7 @@ Here's a list of public Fediverse services.
 | `zat.im` | No |
 | `zate.org` | Yes |
 | `zatnosk.dk` | No |
+| `zatoufly.fr` | Yes |
 | `zatta.dev` | No |
 | `zaunspringer.de` | No |
 | `zaveryn.gay` | No |
@@ -50572,10 +50579,10 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,321 |
+| Cloudflare | 14,328 |
 | Normal | 36,203 |
 
 
 </details>
 
-### 28.3% of public Fediverse services are using Cloudflare.
+### 28.4% of public Fediverse services are using Cloudflare.
