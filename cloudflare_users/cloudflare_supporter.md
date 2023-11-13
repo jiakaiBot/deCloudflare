@@ -12120,6 +12120,7 @@ Do not create new issue or we will close it as duplicate.
 | [sisprotec@twitter](https://twitter.com/sisprotec/status/1618024459306401795) | advertise |
 | [Sisyphe4242@twitter](https://twitter.com/Sisyphe4242/status/1570999413115588608) | advertise |
 | [site_k2@twitter](https://twitter.com/site_k2/status/1601039875830345730) | advertise |
+| [SiThu120833@twitter](https://twitter.com/SiThu120833/status/1724081196743962653) | advertise |
 | [SiThu31071195@twitter](https://twitter.com/SiThu31071195/status/1392198744779730946) | advertise |
 | [Sithu72932001@twitter](https://twitter.com/Sithu72932001/status/1405108314564829189) | advertise |
 | [SiThu75416746@twitter](https://twitter.com/SiThu75416746/status/1391367093849714690) | advertise |
@@ -13545,6 +13546,7 @@ Do not create new issue or we will close it as duplicate.
 | [toshismike@twitter](https://twitter.com/toshismike/status/1683039854035185665) | advertise |
 | [TosinTimothy5@twitter](https://twitter.com/TosinTimothy5/status/1586519693048745984) | advertise |
 | [TotasShepot@twitter](https://twitter.com/TotasShepot/status/1501117750806466565) | advertise |
+| [Totday17@twitter](https://twitter.com/Totday17/status/1724079757443416195) | advertise |
 | [Toubz_8844@twitter](https://twitter.com/Toubz_8844/status/1603000139144101889) | advertise |
 | [touche98@twitter](https://twitter.com/touche98/status/1647665419879325697) | advertise |
 | [touchybaot73@twitter](https://twitter.com/touchybaot73/status/1388281470821625861) | advertise |
@@ -14770,6 +14772,7 @@ Do not create new issue or we will close it as duplicate.
 | [YangonT85145334@twitter](https://twitter.com/YangonT85145334/status/1391119988535160833) | advertise |
 | [YanGyiA95706373@twitter](https://twitter.com/YanGyiA95706373/status/1392032366386888707) | advertise |
 | [yangyilong1@twitter](https://twitter.com/yangyilong1/status/1562351233427730432) | advertise |
+| [YangYiMo4@twitter](https://twitter.com/YangYiMo4/status/1724071875436040297) | advertise |
 | [Yaniya78069193@twitter](https://twitter.com/Yaniya78069193/status/1606773335375106049) | advertise |
 | [YanKin43817369@twitter](https://twitter.com/YanKin43817369/status/1407575241094692866) | advertise |
 | [YanKyawLinn4@twitter](https://twitter.com/YanKyawLinn4/status/1391812129297113088) | advertise |
