@@ -273,6 +273,7 @@ Here's a list of public Fediverse services.
 | `1611.social` | Yes |
 | `161976857.com` | No |
 | `161hz.de` | No |
+| `1641project.jp` | Yes |
 | `1641s.net` | Yes |
 | `1689.social` | Yes |
 | `1689fellowship.com` | Yes |
@@ -50568,7 +50569,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,316 |
+| Cloudflare | 14,317 |
 | Normal | 36,204 |
 
 
