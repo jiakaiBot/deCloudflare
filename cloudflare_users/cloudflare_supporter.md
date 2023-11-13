@@ -1048,6 +1048,7 @@ Do not create new issue or we will close it as duplicate.
 | [aomaru@twitter](https://twitter.com/aomaru/status/1669828608662343680) | advertise |
 | [Aon97493554@twitter](https://twitter.com/Aon97493554/status/1390939593080442884) | advertise |
 | [AOneKoKo1@twitter](https://twitter.com/AOneKoKo1/status/1396348320163930112) | advertise |
+| [aonglarsoul@twitter](https://twitter.com/aonglarsoul/status/1724101818190582190) | advertise |
 | [Aorelianu@twitter](https://twitter.com/Aorelianu/status/1575798494673403904) | advertise |
 | [Aot253029@twitter](https://twitter.com/Aot253029/status/1715586868484718962) | advertise |
 | [AP111_103@twitter](https://twitter.com/AP111_103/status/1638226584883838978) | advertise |
@@ -7073,6 +7074,7 @@ Do not create new issue or we will close it as duplicate.
 | [KyawNyiNyiKhan4@twitter](https://twitter.com/KyawNyiNyiKhan4/status/1389911575243358208) | advertise |
 | [kyawphyowai674@twitter](https://twitter.com/kyawphyowai674/status/1390814100565872640) | advertise |
 | [KyawRupar@twitter](https://twitter.com/KyawRupar/status/1400825672390512641) | advertise |
+| [KyawSithuLin2@twitter](https://twitter.com/KyawSithuLin2/status/1724094381748285720) | advertise |
 | [Kyawsoe31519713@twitter](https://twitter.com/Kyawsoe31519713/status/1399524269218942979) | advertise |
 | [KyawSoe42046906@twitter](https://twitter.com/KyawSoe42046906/status/1377257974779932673) | advertise |
 | [kyawsoe_winn@twitter](https://twitter.com/kyawsoe_winn/status/1380836105046482949) | advertise |
@@ -7264,6 +7266,7 @@ Do not create new issue or we will close it as duplicate.
 | [leanhhao070301@twitter](https://twitter.com/leanhhao070301/status/1516370402154455045) | advertise |
 | [leanhton1@twitter](https://twitter.com/leanhton1/status/1400838495875174401) | advertise |
 | [leastrio_@twitter](https://twitter.com/leastrio_/status/1370110974108307467) | advertise |
+| [lebangja@twitter](https://twitter.com/lebangja/status/1724110870199046539) | advertise |
 | [LebGony@twitter](https://twitter.com/LebGony/status/1395365414541029381) | advertise |
 | [LeBLaNcaNtHoN12@twitter](https://twitter.com/LeBLaNcaNtHoN12/status/1590194227019145217) | advertise |
 | [LeChien205@twitter](https://twitter.com/LeChien205/status/1569938137870385152) | advertise |
