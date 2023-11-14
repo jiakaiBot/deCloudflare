@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,971 |
+| com | 7,972 |
 | social | 4,661 |
 | net | 3,942 |
-| org | 2,638 |
+| org | 2,639 |
 | de | 2,477 |
 
 
@@ -8104,7 +8104,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -16400,6 +16400,7 @@ Here's a list of public Fediverse services.
 | `gibble.be` | No |
 | `gibbr.org` | No |
 | `gibiris.org` | No |
+| `gidam666.com` | No |
 | `gideonstar.de` | No |
 | `gidikroon.eu` | No |
 | `gielen.dk` | No |
@@ -18007,7 +18008,7 @@ Here's a list of public Fediverse services.
 | `headpats-plea.se` | No |
 | `headpats.cafe` | Yes |
 | `headpats.org` | Yes |
-| `headphone.actor` | No |
+| `headphone.actor` | Yes |
 | `heads.social` | No |
 | `headsoft.net` | No |
 | `healingwithyessie.com` | No |
@@ -32092,6 +32093,7 @@ Here's a list of public Fediverse services.
 | `nzserver.co` | Yes |
 | `nzsocial.net` | No |
 | `nzws.me` | Yes |
+| `nzyme.org` | Yes |
 | `o-k-i.net` | Yes |
 | `o-k-m.de` | No |
 | `o-man.co` | No |
@@ -50584,8 +50586,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,334 |
-| Normal | 36,202 |
+| Cloudflare | 14,335 |
+| Normal | 36,203 |
 
 
 </details>
