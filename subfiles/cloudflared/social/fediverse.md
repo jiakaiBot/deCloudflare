@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,972 |
+| com | 7,973 |
 | social | 4,661 |
 | net | 3,942 |
 | org | 2,639 |
@@ -35969,6 +35969,7 @@ Here's a list of public Fediverse services.
 | `qatuno.de` | No |
 | `qayamat.se` | No |
 | `qaz.red` | No |
+| `qblueheart.com` | No |
 | `qc.to` | No |
 | `qca.net` | No |
 | `qcurtius.com` | No |
@@ -36114,6 +36115,7 @@ Here's a list of public Fediverse services.
 | `queerhackers.social` | No |
 | `queermotion.org` | No |
 | `queernerds.social` | No |
+| `queers.bike` | No |
 | `queerscience.net` | No |
 | `queersin.space` | Yes |
 | `queerspirituality.social` | No |
@@ -50587,7 +50589,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,335 |
-| Normal | 36,203 |
+| Normal | 36,205 |
 
 
 </details>
