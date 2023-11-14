@@ -58,7 +58,6 @@ Here's a list of public Matrix services.
 | matrix.group.lt | Yes |
 | hackerspaces.be | No |
 | hackliberty.org | No |
-| matrix.hadoly.fr | No |
 | chatserver.hashi.sbs | Yes |
 | hot-chilli.im | No |
 | synapse.hyteck.de | No |
@@ -96,6 +95,7 @@ Here's a list of public Matrix services.
 | matrix.techsaviours.org | No |
 | matrix.tedomum.net | No |
 | tomesh.net | No |
+| ungleich.matrix.ungleich.cloud | No |
 | unita.online | No |
 | matrix.unredacted.org | Yes |
 | matrix.usesarchbtw.lol | Yes |
