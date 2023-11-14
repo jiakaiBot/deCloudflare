@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Security Challenge IPFS upload error during deployment](https://github.com/thirdweb-dev/js/issues/1940)
 - [activeItem is undefined](https://github.com/henrygd/bigger-picture/issues/36)
 - [Cloudflare access - OpenID authentication with authentik](https://github.com/goauthentik/authentik/issues/7526)
 - [Test Results (Alfred Madere)](https://github.com/electropicks/Payback/issues/27)
