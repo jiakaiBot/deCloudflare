@@ -625,6 +625,7 @@ Do not create new issue or we will close it as duplicate.
 | [alawicher@twitter](https://twitter.com/alawicher/status/1566299945992392708) | advertise |
 | [alazycoder2@twitter](https://twitter.com/alazycoder2/status/1505142769488121867) | advertise |
 | [AlBadi410@twitter](https://twitter.com/AlBadi410/status/1492878165215043590) | advertise |
+| [AlbadryHas49481@twitter](https://twitter.com/AlbadryHas49481/status/1724468117118628008) | advertise |
 | [Albert88Lim@twitter](https://twitter.com/Albert88Lim/status/1400923426244546562) | advertise |
 | [alberto4303@twitter](https://twitter.com/alberto4303/status/1500227402403823623) | advertise |
 | [albionbh@twitter](https://twitter.com/albionbh/status/1603303455136825345) | advertise |
@@ -4290,6 +4291,7 @@ Do not create new issue or we will close it as duplicate.
 | [GoonerDat@twitter](https://twitter.com/GoonerDat/status/1383745932093583360) | advertise |
 | [gopichandde@twitter](https://twitter.com/gopichandde/status/1491454298060103680) | advertise |
 | [GopiKri84108993@twitter](https://twitter.com/GopiKri84108993/status/1397557588934463494) | advertise |
+| [gopimech299@twitter](https://twitter.com/gopimech299/status/1724514459295879417) | advertise |
 | [gopu0000@twitter](https://twitter.com/gopu0000/status/1373964703701987330) | advertise |
 | [GoranMilici@twitter](https://twitter.com/GoranMilici/status/1628864351426998272) | advertise |
 | [Gord45205715@twitter](https://twitter.com/Gord45205715/status/1389474643371692035) | advertise |
@@ -5743,6 +5745,7 @@ Do not create new issue or we will close it as duplicate.
 | [jacobgottaken@twitter](https://twitter.com/jacobgottaken/status/1658771469072228353) | advertise |
 | [Jade12683299@twitter](https://twitter.com/Jade12683299/status/1397944572437692422) | advertise |
 | [jadlaus@twitter](https://twitter.com/jadlaus/status/1670774408888086530) | advertise |
+| [jaeeeeyy@twitter](https://twitter.com/jaeeeeyy/status/1724548809336738111) | advertise |
 | [jaehong_lim@twitter](https://twitter.com/jaehong_lim/status/1456276906999828481) | advertise |
 | [jaemin1508@twitter](https://twitter.com/jaemin1508/status/1614678909798461441) | advertise |
 | [JaeRinKim7@twitter](https://twitter.com/JaeRinKim7/status/1396481821047607300) | advertise |
@@ -10470,6 +10473,7 @@ Do not create new issue or we will close it as duplicate.
 | [Phong94296749@twitter](https://twitter.com/Phong94296749/status/1596859902114529282) | advertise |
 | [PhongCa70106622@twitter](https://twitter.com/PhongCa70106622/status/1394490447460929543) | advertise |
 | [phongchanog@twitter](https://twitter.com/phongchanog/status/1495811312659857409) | advertise |
+| [PhongDoppio@twitter](https://twitter.com/PhongDoppio/status/1724524017523245149) | advertise |
 | [phongenzo999@twitter](https://twitter.com/phongenzo999/status/1709966483143688269) | advertise |
 | [Phongle14182759@twitter](https://twitter.com/Phongle14182759/status/1578766613947379714) | advertise |
 | [phonglol9x@twitter](https://twitter.com/phonglol9x/status/1473306367737827328) | advertise |
@@ -11267,6 +11271,7 @@ Do not create new issue or we will close it as duplicate.
 | [RinSharz@twitter](https://twitter.com/RinSharz/status/1553295596680724480) | advertise |
 | [Rio93855459@twitter](https://twitter.com/Rio93855459/status/1592543442709909504) | advertise |
 | [RIPdeclan999@twitter](https://twitter.com/RIPdeclan999/status/1574187422660763648) | advertise |
+| [Ripple3996@twitter](https://twitter.com/Ripple3996/status/1724502260456288676) | advertise |
 | [Rip_Aizen60@twitter](https://twitter.com/Rip_Aizen60/status/1680012634123300864) | advertise |
 | [rip_lunchables@twitter](https://twitter.com/rip_lunchables/status/1665889036152586245) | advertise |
 | [Rip_nonameeee@twitter](https://twitter.com/Rip_nonameeee/status/1665705629120438280) | advertise |
@@ -12747,6 +12752,7 @@ Do not create new issue or we will close it as duplicate.
 | [TaTa21079240@twitter](https://twitter.com/TaTa21079240/status/1392294482998022144) | advertise |
 | [TaTa92332128@twitter](https://twitter.com/TaTa92332128/status/1629148333104156673) | advertise |
 | [Tate93701388@twitter](https://twitter.com/Tate93701388/status/1380071951213850625) | advertise |
+| [TateYoge@twitter](https://twitter.com/TateYoge/status/1724508675736207671) | advertise |
 | [TatHtunAung3@twitter](https://twitter.com/TatHtunAung3/status/1635820796647215104) | advertise |
 | [TattooNghia@twitter](https://twitter.com/TattooNghia/status/1399085631028879360) | advertise |
 | [tatuiyo@twitter](https://twitter.com/tatuiyo/status/1494144614231846912) | advertise |
