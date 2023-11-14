@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,975 |
-| social | 4,664 |
+| com | 7,974 |
+| social | 4,665 |
 | net | 3,942 |
 | org | 2,639 |
 | de | 2,480 |
@@ -18713,6 +18713,7 @@ Here's a list of public Fediverse services.
 | `hom.ph` | No |
 | `hombr.us` | Yes |
 | `homd.xyz` | Yes |
+| `home-lab.social` | Yes |
 | `home-lab.tech` | Yes |
 | `home-of-commons.org` | No |
 | `home.blog` | No |
@@ -43467,7 +43468,6 @@ Here's a list of public Fediverse services.
 | `teklynk.com` | Yes |
 | `tekmav.space` | No |
 | `teknikveckan.se` | Yes |
-| `teknobilly.com` | Yes |
 | `teknoids.net` | No |
 | `teknologiumum.com` | Yes |
 | `teknorota.com` | Yes |
