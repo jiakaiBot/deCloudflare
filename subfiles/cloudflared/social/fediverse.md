@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,975 |
-| social | 4,663 |
+| social | 4,664 |
 | net | 3,942 |
 | org | 2,639 |
-| de | 2,479 |
+| de | 2,480 |
 
 
 - Mastodon, Pleroma, etc
@@ -14338,7 +14338,7 @@ Here's a list of public Fediverse services.
 | `firebreathingduck.io` | No |
 | `firechicken.net` | No |
 | `firecow.cafe` | No |
-| `firedragons.net` | No |
+| `firedragons.net` | Yes |
 | `firedragonstudios.com` | No |
 | `firedragonvideos.com` | No |
 | `firefaithfellowship.com` | Yes |
@@ -17460,6 +17460,7 @@ Here's a list of public Fediverse services.
 | `h-da.de` | No |
 | `h-e.top` | Yes |
 | `h-h.icu` | No |
+| `h-i.social` | No |
 | `h-ka-iwi.de` | No |
 | `h-net.social` | No |
 | `h-sozial.de` | No |
@@ -28723,6 +28724,7 @@ Here's a list of public Fediverse services.
 | `moeller.email` | No |
 | `moellus.net` | No |
 | `moelrhos.uk` | No |
+| `moep.tv` | No |
 | `moeplebs.online` | No |
 | `moessingen.social` | No |
 | `moetz.social` | No |
@@ -47200,6 +47202,7 @@ Here's a list of public Fediverse services.
 | `vesdia.eu` | No |
 | `vestbot.ca` | No |
 | `vestimento.fashion` | No |
+| `vestuk.de` | No |
 | `veterinary.education` | No |
 | `vettipechu.xyz` | No |
 | `vetu.dev` | No |
@@ -50608,8 +50611,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,348 |
-| Normal | 36,212 |
+| Cloudflare | 14,349 |
+| Normal | 36,214 |
 
 
 </details>
