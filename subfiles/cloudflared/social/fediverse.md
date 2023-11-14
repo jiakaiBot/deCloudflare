@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,977 |
+| com | 7,979 |
 | social | 4,665 |
 | net | 3,942 |
 | org | 2,639 |
@@ -19416,6 +19416,7 @@ Here's a list of public Fediverse services.
 | `idealists.su` | No |
 | `ideath.net` | No |
 | `ideentausch.org` | No |
+| `ideesdachatduecommerce.com` | No |
 | `identi.cat` | No |
 | `ideophone.org` | No |
 | `ides.club` | No |
@@ -37075,6 +37076,7 @@ Here's a list of public Fediverse services.
 | `reisig.world` | No |
 | `reit-it.de` | Yes |
 | `reito.site` | No |
+| `reitomorisaki.com` | No |
 | `reitrace.ga` | No |
 | `reiuji.chat` | Yes |
 | `rejas.se` | No |
@@ -50614,7 +50616,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,350 |
-| Normal | 36,215 |
+| Normal | 36,217 |
 
 
 </details>
