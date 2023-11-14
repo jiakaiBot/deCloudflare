@@ -6736,6 +6736,7 @@ Here's a list of public Fediverse services.
 | `catgram.jp` | Yes |
 | `catharsis.cafe` | No |
 | `cathect.net` | No |
+| `cathedral.tokyo` | No |
 | `cathode.church` | No |
 | `cathoderay.tube` | Yes |
 | `catholicchurch.social` | No |
@@ -8107,7 +8108,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -18713,6 +18714,7 @@ Here's a list of public Fediverse services.
 | `hom.ph` | No |
 | `hombr.us` | Yes |
 | `homd.xyz` | Yes |
+| `home-lab.tech` | Yes |
 | `home-of-commons.org` | No |
 | `home.blog` | No |
 | `home.kg` | Yes |
@@ -50600,7 +50602,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,342 |
+| Cloudflare | 14,344 |
 | Normal | 36,210 |
 
 
