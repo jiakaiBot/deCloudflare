@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,972 |
-| social | 4,662 |
-| net | 3,943 |
-| org | 2,638 |
-| de | 2,478 |
+| com | 7,975 |
+| social | 4,663 |
+| net | 3,942 |
+| org | 2,639 |
+| de | 2,479 |
 
 
 - Mastodon, Pleroma, etc
@@ -2100,7 +2100,6 @@ Here's a list of public Fediverse services.
 | `amitgawande.com` | No |
 | `amity.zone` | No |
 | `amiva.cc` | No |
-| `amiverse.net` | No |
 | `amk.ie` | Yes |
 | `amk.pub` | No |
 | `aml.ink` | Yes |
@@ -9569,7 +9568,7 @@ Here's a list of public Fediverse services.
 | `danj.ca` | No |
 | `danjiadi.com` | Yes |
 | `dank-me.me` | Yes |
-| `dank.software` | No |
+| `dank.software` | Yes |
 | `dankchicken.social` | No |
 | `dankmemes.gg` | Yes |
 | `danksquad.org` | Yes |
@@ -13260,7 +13259,6 @@ Here's a list of public Fediverse services.
 | `eymedia.de` | No |
 | `eyouwe.com` | No |
 | `eyraud.net` | Yes |
-| `eyrin.jp` | Yes |
 | `eyufx.com` | No |
 | `ez-design.net` | No |
 | `eza.link` | No |
@@ -24307,6 +24305,7 @@ Here's a list of public Fediverse services.
 | `lesbian.energy` | Yes |
 | `lesbian.farm` | No |
 | `lesbian.solutions` | No |
+| `lesbianblockbuster.com` | No |
 | `lesbianforest.club` | No |
 | `lesbianschool.com` | No |
 | `lesch.be` | No |
@@ -25619,6 +25618,7 @@ Here's a list of public Fediverse services.
 | `lyte.dev` | No |
 | `lyttle.cam` | No |
 | `lyven.live` | No |
+| `lyxincyberia.org` | Yes |
 | `lyyn.me` | No |
 | `lzc256.com` | Yes |
 | `lzrprt.sbs` | No |
@@ -26706,7 +26706,7 @@ Here's a list of public Fediverse services.
 | `mastodon.international` | No |
 | `mastodon.irish` | No |
 | `mastodon.is` | No |
-| `mastodon.ist` | No |
+| `mastodon.ist` | Yes |
 | `mastodon.kitchen` | No |
 | `mastodon.kr` | Yes |
 | `mastodon.la` | Yes |
@@ -29632,6 +29632,7 @@ Here's a list of public Fediverse services.
 | `murui.me` | No |
 | `mus.social` | No |
 | `musain.cafe` | Yes |
+| `musaraj.com` | Yes |
 | `muscle.rocks` | No |
 | `muscledon.net` | No |
 | `musee.social` | No |
@@ -31407,6 +31408,7 @@ Here's a list of public Fediverse services.
 | `nog20.social` | No |
 | `nogafa.org` | No |
 | `nogafam.es` | No |
+| `nogafam.fr` | No |
 | `nogafam.zone` | No |
 | `nogamenolife.me` | Yes |
 | `noggel.de` | No |
@@ -37928,6 +37930,7 @@ Here's a list of public Fediverse services.
 | `rough-sketch.net` | No |
 | `roughdraft.party` | Yes |
 | `roughseas.xyz` | No |
+| `roughyeds.lol` | No |
 | `roundpaddedcell.com` | No |
 | `roundpond.net` | No |
 | `roundthemoon.com` | No |
@@ -43462,6 +43465,7 @@ Here's a list of public Fediverse services.
 | `teklynk.com` | Yes |
 | `tekmav.space` | No |
 | `teknikveckan.se` | Yes |
+| `teknobilly.com` | Yes |
 | `teknoids.net` | No |
 | `teknologiumum.com` | Yes |
 | `teknorota.com` | Yes |
@@ -45186,6 +45190,7 @@ Here's a list of public Fediverse services.
 | `topheroffer.de` | No |
 | `topherward.com` | Yes |
 | `topic-master.com` | No |
+| `topitz.de` | No |
 | `topofthe.city` | No |
 | `toposware.com` | Yes |
 | `toppickz.com` | No |
@@ -46350,6 +46355,7 @@ Here's a list of public Fediverse services.
 | `un.ms` | No |
 | `una.ca` | No |
 | `unadon.club` | No |
+| `unam.social` | No |
 | `unanargeek.xyz` | No |
 | `unaone.social` | No |
 | `unapocrypha.info` | No |
@@ -50602,8 +50608,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,344 |
-| Normal | 36,210 |
+| Cloudflare | 14,348 |
+| Normal | 36,212 |
 
 
 </details>
