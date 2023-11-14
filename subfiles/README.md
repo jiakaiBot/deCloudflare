@@ -182,6 +182,7 @@
     - [August](repeat_infringers/2023-08.md)
     - [September](repeat_infringers/2023-09.md)
     - [October](repeat_infringers/2023-10.md)
+    - [November](repeat_infringers/2023-11.md)
 - **Shared on**
   - [Shared on Twitter](shared_on_twitter.md)
   - [Shared on Mastodon](shared_on_mastodon.md)
