@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,974 |
+| com | 7,977 |
 | social | 4,665 |
 | net | 3,942 |
 | org | 2,639 |
@@ -1165,7 +1165,7 @@ Here's a list of public Fediverse services.
 | `adamprocter.co.uk` | No |
 | `adamshouse.io` | No |
 | `adamski2003.lol` | Yes |
-| `adamstas.com` | No |
+| `adamstas.com` | Yes |
 | `adamsworld.blog` | No |
 | `adamtbradley.net` | No |
 | `adamw.social` | No |
@@ -3633,7 +3633,6 @@ Here's a list of public Fediverse services.
 | `axvigs.com` | No |
 | `axwax.eu` | No |
 | `axyvii.me` | No |
-| `aya.lol` | Yes |
 | `ayaka.moe` | Yes |
 | `ayaka.social` | Yes |
 | `ayano.jp` | No |
@@ -13463,6 +13462,7 @@ Here's a list of public Fediverse services.
 | `famillegiovannini.ch` | No |
 | `family-m.art` | No |
 | `familyds.org` | No |
+| `familyhistoriespodcast.com` | No |
 | `familyhistory.page` | No |
 | `familyoasis.eu` | No |
 | `familyofme.com` | No |
@@ -21421,6 +21421,7 @@ Here's a list of public Fediverse services.
 | `joshandryan.net` | Yes |
 | `joshaustin.xyz` | Yes |
 | `joshbayne.com` | Yes |
+| `joshbelville.com` | No |
 | `joshbrez.com` | No |
 | `joshbutts.social` | Yes |
 | `joshdata.me` | No |
@@ -43468,6 +43469,7 @@ Here's a list of public Fediverse services.
 | `teklynk.com` | Yes |
 | `tekmav.space` | No |
 | `teknikveckan.se` | Yes |
+| `teknobilly.com` | Yes |
 | `teknoids.net` | No |
 | `teknologiumum.com` | Yes |
 | `teknorota.com` | Yes |
@@ -50611,8 +50613,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,349 |
-| Normal | 36,214 |
+| Cloudflare | 14,350 |
+| Normal | 36,215 |
 
 
 </details>
