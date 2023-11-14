@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,975 |
+| com | 7,980 |
 | social | 4,662 |
-| net | 3,943 |
+| net | 3,944 |
 | org | 2,639 |
 | de | 2,477 |
 
@@ -71,6 +71,7 @@ Here's a list of public Fediverse services.
 | `0am.jp` | No |
 | `0badc0.de` | Yes |
 | `0bs.tech` | No |
+| `0cat.net` | No |
 | `0ch.in` | No |
 | `0ch.tv` | Yes |
 | `0chan.ru` | Yes |
@@ -1552,6 +1553,7 @@ Here's a list of public Fediverse services.
 | `akashiensis.com` | No |
 | `akashiensis.online` | Yes |
 | `akatony.com` | Yes |
+| `akatuki-host.com` | Yes |
 | `akaza.red` | Yes |
 | `akbkuku.org` | Yes |
 | `akcakazarma.tk` | No |
@@ -8112,6 +8114,7 @@ Here's a list of public Fediverse services.
 | `comacero.com` | No |
 | `comal.app` | Yes |
 | `comam.es` | No |
+| `comame.xyz` | Yes |
 | `combatbahai.com` | No |
 | `combiner.team` | No |
 | `come-together.nl` | No |
@@ -10409,6 +10412,7 @@ Here's a list of public Fediverse services.
 | `deuxfleurs.fr` | No |
 | `deuxmillesoixantedix.art` | No |
 | `dev-c.at` | Yes |
+| `dev-friox.com` | Yes |
 | `dev-null.io` | Yes |
 | `dev-null.rocks` | Yes |
 | `dev-qq.de` | No |
@@ -13827,6 +13831,7 @@ Here's a list of public Fediverse services.
 | `fedigroup.party` | No |
 | `fedihams.net` | No |
 | `fedihost.io` | No |
+| `fedihost.website` | No |
 | `fedihub.com` | No |
 | `fedihub.de` | No |
 | `fedihub.rocks` | No |
@@ -16232,6 +16237,7 @@ Here's a list of public Fediverse services.
 | `gensokyo.town` | Yes |
 | `gensou.social` | No |
 | `gensoukyou.jp.net` | No |
+| `gensousakuya.moe` | Yes |
 | `gentle.town` | No |
 | `gentleman-loser.com` | No |
 | `gentlemanloser.cafe` | No |
@@ -28180,6 +28186,7 @@ Here's a list of public Fediverse services.
 | `minecraftchest1.us` | Yes |
 | `minecrafty.tk` | No |
 | `minedol12.tk` | No |
+| `minedon.ml` | No |
 | `minego.net` | Yes |
 | `minematter.com` | No |
 | `mineown.de` | No |
@@ -30509,6 +30516,7 @@ Here's a list of public Fediverse services.
 | `nem.one` | Yes |
 | `nemargut.com` | No |
 | `nemertes.nl` | No |
+| `nemesis53126.com` | Yes |
 | `nemeto.fr` | No |
 | `nemo.click` | No |
 | `nemo.town` | No |
@@ -35834,6 +35842,7 @@ Here's a list of public Fediverse services.
 | `pupsplus.fans` | No |
 | `pupspoke.co.uk` | Yes |
 | `pupu.moe` | Yes |
+| `pupupuakt.com` | No |
 | `pupy.cafe` | No |
 | `purakara.com` | No |
 | `pure-isp.eu` | Yes |
@@ -37568,6 +37577,7 @@ Here's a list of public Fediverse services.
 | `rjm.id.au` | Yes |
 | `rjp.is` | Yes |
 | `rkd.pw` | Yes |
+| `rkevin.dev` | No |
 | `rkgk.moe` | No |
 | `rklein.com.br` | No |
 | `rknight.me` | No |
@@ -46849,6 +46859,7 @@ Here's a list of public Fediverse services.
 | `uxint.ro` | No |
 | `uxp.de` | No |
 | `uxroux.xyz` | No |
+| `uyamisskey.com` | No |
 | `uyghur.life` | No |
 | `uysocial.live` | No |
 | `uzla.net` | No |
@@ -50599,8 +50610,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,343 |
-| Normal | 36,208 |
+| Cloudflare | 14,348 |
+| Normal | 36,214 |
 
 
 </details>
