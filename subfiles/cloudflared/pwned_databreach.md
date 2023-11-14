@@ -72,6 +72,7 @@ Here's a list of breached sites.
 | Autocentrum (Autocentrum.pl) | 143,717 | Yes |
 | Autotrader | 20,032 | Yes |
 | Avast | 422,959 | Yes |
+| Avito | 2,721,835 | Yes |
 | Avvo | 4,101,101 | Yes |
 | BTCAlpha (BTC-Alpha) | 362,426 | Yes |
 | BTCE (BTC-E) | 568,340 | No |
@@ -710,10 +711,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 404 | 4,514,514,074 |
+| Cloudflare | 405 | 4,517,235,909 |
 | Normal | 285 | 4,511,771,864 |
 
 
 
-### 58.6% of breached sites (pwned sites) are using Cloudflare.
+### 58.7% of breached sites (pwned sites) are using Cloudflare.
 ### 50% of leaked accounts are on Cloudflare sites.
