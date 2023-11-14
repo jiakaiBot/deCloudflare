@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,973 |
-| social | 4,661 |
+| social | 4,662 |
 | net | 3,942 |
 | org | 2,639 |
 | de | 2,477 |
@@ -7313,6 +7313,7 @@ Here's a list of public Fediverse services.
 | `chmod777.org` | No |
 | `chn.moe` | Yes |
 | `cho.pm` | No |
+| `choam.social` | Yes |
 | `choco.ink` | Yes |
 | `choco14t.net` | Yes |
 | `chocodon.com` | No |
@@ -11650,6 +11651,7 @@ Here's a list of public Fediverse services.
 | `dumb.place` | No |
 | `dumbdevelopers.com` | Yes |
 | `dumbfox.net` | Yes |
+| `dumbgeon.gay` | No |
 | `dumbly.net` | No |
 | `dumbmeme.wtf` | No |
 | `dumbo.kr` | Yes |
@@ -14139,6 +14141,7 @@ Here's a list of public Fediverse services.
 | `fetzer.me` | No |
 | `fetziverse.de` | No |
 | `feuerblut.com` | No |
+| `feuerfis.ch` | No |
 | `feuerwehr-othfresen.de` | No |
 | `feuerwehr.social` | No |
 | `feuforeve.fr` | No |
@@ -30425,6 +30428,7 @@ Here's a list of public Fediverse services.
 | `neilorangepeel.com` | No |
 | `neilturner.me.uk` | No |
 | `neilzone.co.uk` | No |
+| `neiman.co.il` | No |
 | `nein.club` | No |
 | `neither-nor.net` | No |
 | `neix.at` | No |
@@ -50589,8 +50593,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,339 |
-| Normal | 36,202 |
+| Cloudflare | 14,340 |
+| Normal | 36,205 |
 
 
 </details>
