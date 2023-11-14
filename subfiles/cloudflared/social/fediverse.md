@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,973 |
+| com | 7,975 |
 | social | 4,662 |
-| net | 3,942 |
+| net | 3,943 |
 | org | 2,639 |
 | de | 2,477 |
 
@@ -273,6 +273,7 @@ Here's a list of public Fediverse services.
 | `1611.social` | Yes |
 | `161976857.com` | No |
 | `161hz.de` | No |
+| `1641p.link` | Yes |
 | `1641project.jp` | Yes |
 | `1641s.net` | Yes |
 | `1689.social` | Yes |
@@ -28170,6 +28171,7 @@ Here's a list of public Fediverse services.
 | `mindshare.space` | No |
 | `mindthebig.rocks` | Yes |
 | `mindyourheadcoop.org` | No |
+| `mine.nu` | No |
 | `minecloud.ro` | No |
 | `minecodes.de` | Yes |
 | `minecraft-pe.lol` | No |
@@ -33096,6 +33098,7 @@ Here's a list of public Fediverse services.
 | `ostolc.org` | No |
 | `ostrovok.de` | No |
 | `osu.io` | Yes |
+| `osu.si` | No |
 | `osumiakari.jp` | Yes |
 | `osureplayviewer.xyz` | No |
 | `osvoj.ru` | No |
@@ -35708,6 +35711,7 @@ Here's a list of public Fediverse services.
 | `ptaah.fr` | No |
 | `ptah-alexs.info` | No |
 | `ptbo.social` | Yes |
+| `ptchat.net` | No |
 | `ptcl.me` | Yes |
 | `pter.it` | No |
 | `pteranodon.net` | No |
@@ -42344,6 +42348,7 @@ Here's a list of public Fediverse services.
 | `sumanko.com` | Yes |
 | `sumanko.ml` | Yes |
 | `sumeru.top` | Yes |
+| `sumerucity.com` | Yes |
 | `sumi.space` | Yes |
 | `sumikko.club` | Yes |
 | `summary.ink` | Yes |
@@ -43453,6 +43458,7 @@ Here's a list of public Fediverse services.
 | `teklynk.com` | Yes |
 | `tekmav.space` | No |
 | `teknikveckan.se` | Yes |
+| `teknobilly.com` | Yes |
 | `teknoids.net` | No |
 | `teknologiumum.com` | Yes |
 | `teknorota.com` | Yes |
@@ -50593,8 +50599,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,340 |
-| Normal | 36,205 |
+| Cloudflare | 14,343 |
+| Normal | 36,208 |
 
 
 </details>
