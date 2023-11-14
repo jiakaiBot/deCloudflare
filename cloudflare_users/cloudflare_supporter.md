@@ -11209,6 +11209,7 @@ Do not create new issue or we will close it as duplicate.
 | [renz89032860@twitter](https://twitter.com/renz89032860/status/1402159320465248256) | advertise |
 | [ren_creates@twitter](https://twitter.com/ren_creates/status/1661102386524372992) | advertise |
 | [reojoseano@twitter](https://twitter.com/reojoseano/status/1701623822468927717) | advertise |
+| [ResearchforumO@twitter](https://twitter.com/ResearchforumO/status/1718948539718340625) | advertise |
 | [resing@twitter](https://twitter.com/resing/status/1510697231724163073) | advertise |
 | [resistance.social](https://resistance.social/) | by deleting account without warning |
 | [resonance9898@twitter](https://twitter.com/resonance9898/status/1386358577158230016) | advertise |
@@ -12386,6 +12387,7 @@ Do not create new issue or we will close it as duplicate.
 | [spychalski_luk@twitter](https://twitter.com/spychalski_luk/status/1575255362193825793) | advertise |
 | [SpyNetGirl@twitter](https://twitter.com/SpyNetGirl/status/1665848031684460544) | advertise |
 | [spzooky@twitter](https://twitter.com/spzooky/status/1556649865710473216) | advertise |
+| [Sq21221@twitter](https://twitter.com/Sq21221/status/1724402276721127575) | advertise |
 | [SQUIDMANGA@twitter](https://twitter.com/SQUIDMANGA/status/1550594180799422468) | advertise |
 | [srcxngcd@twitter](https://twitter.com/srcxngcd/status/1614642551042052100) | advertise |
 | [Srealisreal@twitter](https://twitter.com/Srealisreal/status/1624264304915791872) | advertise |
