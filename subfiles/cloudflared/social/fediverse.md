@@ -1209,7 +1209,7 @@ Here's a list of public Fediverse services.
 | `adinfinitum.social` | No |
 | `adiquaints.moe` | No |
 | `adistance.tk` | No |
-| `adju.st` | No |
+| `adju.st` | Yes |
 | `adjutor.xyz` | No |
 | `adkins.coffee` | Yes |
 | `adkins.digital` | No |
@@ -5681,7 +5681,7 @@ Here's a list of public Fediverse services.
 | `brain404.com` | No |
 | `brainbaking.com` | Yes |
 | `brainjuice.ca` | No |
-| `brainport.social` | No |
+| `brainport.social` | Yes |
 | `brainsoap.net` | No |
 | `brainsoftener.com` | No |
 | `brainsower.org` | No |
@@ -25865,7 +25865,7 @@ Here's a list of public Fediverse services.
 | `magnoren.uk` | No |
 | `magnox.me` | No |
 | `magokorobin.com` | Yes |
-| `magoniadb.com` | No |
+| `magoniadb.com` | Yes |
 | `magpie.gay` | No |
 | `magrathea.social` | No |
 | `mags.ai` | Yes |
@@ -44317,6 +44317,7 @@ Here's a list of public Fediverse services.
 | `theyosh.nl` | No |
 | `theyouthandeum.com` | Yes |
 | `thezombie.net` | No |
+| `thezone.host` | Yes |
 | `thezone.zone` | No |
 | `thezujev.com` | No |
 | `thi.ng` | No |
@@ -50588,8 +50589,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,335 |
-| Normal | 36,205 |
+| Cloudflare | 14,339 |
+| Normal | 36,202 |
 
 
 </details>
