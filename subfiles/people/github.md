@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Storyblok client throttling crashing Astro adapter in CloudFlare Worker](https://github.com/storyblok/storyblok-js-client/issues/682)
 - [Cloudflare sending 400](https://github.com/lnbits/lnaddress/issues/5)
 - [Cloudflare Security Challenge IPFS upload error during deployment](https://github.com/thirdweb-dev/js/issues/1940)
 - [activeItem is undefined](https://github.com/henrygd/bigger-picture/issues/36)
