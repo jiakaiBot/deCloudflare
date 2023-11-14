@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,980 |
+| com | 7,978 |
 | social | 4,662 |
-| net | 3,944 |
+| net | 3,945 |
 | org | 2,639 |
 | de | 2,477 |
 
@@ -2103,6 +2103,7 @@ Here's a list of public Fediverse services.
 | `amitgawande.com` | No |
 | `amity.zone` | No |
 | `amiva.cc` | No |
+| `amiverse.net` | No |
 | `amk.ie` | Yes |
 | `amk.pub` | No |
 | `aml.ink` | Yes |
@@ -6684,6 +6685,7 @@ Here's a list of public Fediverse services.
 | `catboi.party` | No |
 | `catboomer.net` | No |
 | `catboy.agency` | No |
+| `catboy.baby` | Yes |
 | `catboy.cafe` | No |
 | `catboyindustries.co` | Yes |
 | `catboys.org` | No |
@@ -13261,6 +13263,7 @@ Here's a list of public Fediverse services.
 | `eymedia.de` | No |
 | `eyouwe.com` | No |
 | `eyraud.net` | Yes |
+| `eyrin.jp` | Yes |
 | `eyufx.com` | No |
 | `ez-design.net` | No |
 | `eza.link` | No |
@@ -35842,7 +35845,6 @@ Here's a list of public Fediverse services.
 | `pupsplus.fans` | No |
 | `pupspoke.co.uk` | Yes |
 | `pupu.moe` | Yes |
-| `pupupuakt.com` | No |
 | `pupy.cafe` | No |
 | `purakara.com` | No |
 | `pure-isp.eu` | Yes |
@@ -43468,7 +43470,6 @@ Here's a list of public Fediverse services.
 | `teklynk.com` | Yes |
 | `tekmav.space` | No |
 | `teknikveckan.se` | Yes |
-| `teknobilly.com` | Yes |
 | `teknoids.net` | No |
 | `teknologiumum.com` | Yes |
 | `teknorota.com` | Yes |
@@ -50610,7 +50611,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,348 |
+| Cloudflare | 14,349 |
 | Normal | 36,214 |
 
 
