@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Phantom SIGTERM shutting down container in Podman on Debian 12](https://github.com/louislam/uptime-kuma/issues/4037)
 - [Run in virtual display on Linux (BrowserConnectError)](https://github.com/g1879/DrissionPage/issues/75)
 - [CloudFlare Cloudflare API service issues](https://github.com/hinoshiba/news/issues/5982)
 - [CloudFlare Cloudflare API service issues](https://github.com/SecOpsNews/news/issues/21262)
