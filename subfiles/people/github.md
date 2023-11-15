@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Tapping on a gallery prompts "Unable to connect to the site" error](https://github.com/Dar9586/NClientV2/issues/671)
 - [Storyblok client throttling crashing Astro adapter in CloudFlare Worker](https://github.com/storyblok/storyblok-js-client/issues/682)
 - [Cloudflare sending 400](https://github.com/lnbits/lnaddress/issues/5)
 - [Cloudflare Security Challenge IPFS upload error during deployment](https://github.com/thirdweb-dev/js/issues/1940)
