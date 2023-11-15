@@ -1484,6 +1484,7 @@ Do not create new issue or we will close it as duplicate.
 | [Awotism@twitter](https://twitter.com/Awotism/status/1400651579120705543) | advertise |
 | [aw_htet@twitter](https://twitter.com/aw_htet/status/1392711448590094336) | advertise |
 | [axillarystudios@twitter](https://twitter.com/axillarystudios/status/1580359764046884865) | advertise |
+| [axjycj828501@twitter](https://twitter.com/axjycj828501/status/1724760206348009834) | advertise |
 | [Axng04841938@twitter](https://twitter.com/Axng04841938/status/1560016017967161344) | advertise |
 | [Axon31869044@twitter](https://twitter.com/Axon31869044/status/1545035870281285634) | advertise |
 | [axs9529@twitter](https://twitter.com/axs9529/status/1637852769892851712) | advertise |
@@ -1899,6 +1900,7 @@ Do not create new issue or we will close it as duplicate.
 | [BiTinThanh3@twitter](https://twitter.com/BiTinThanh3/status/1621835380810215425) | advertise |
 | [BitMagge@twitter](https://twitter.com/BitMagge/status/1571636052884062208) | advertise |
 | [BizganCostin@twitter](https://twitter.com/BizganCostin/status/1382363988013555713) | advertise |
+| [bjordanpeterson@twitter](https://twitter.com/bjordanpeterson/status/1724667022556962996) | advertise |
 | [bk0607@twitter](https://twitter.com/bk0607/status/1381984827524534273) | advertise |
 | [bkflyn@twitter](https://twitter.com/bkflyn/status/1569293300821270528) | advertise |
 | [BKhanthtal@twitter](https://twitter.com/BKhanthtal/status/1391690284749127688) | advertise |
@@ -9171,6 +9173,7 @@ Do not create new issue or we will close it as duplicate.
 | [NanakwasiLife@twitter](https://twitter.com/NanakwasiLife/status/1647594259636273154) | advertise |
 | [nanamegg@twitter](https://twitter.com/nanamegg/status/1387985146528284674) | advertise |
 | [Nancy53194983@twitter](https://twitter.com/Nancy53194983/status/1388189197169688578) | advertise |
+| [NancyQueen95515@twitter](https://twitter.com/NancyQueen95515/status/1724758962711765268) | advertise |
 | [Nancyv1418@twitter](https://twitter.com/Nancyv1418/status/1665889185113460736) | advertise |
 | [NandaMinKhant5@twitter](https://twitter.com/NandaMinKhant5/status/1394196814652485632) | advertise |
 | [nandanam12@twitter](https://twitter.com/nandanam12/status/1514061748319694850) | advertise |
@@ -11261,6 +11264,7 @@ Do not create new issue or we will close it as duplicate.
 | [ridhaalyaseen19@twitter](https://twitter.com/ridhaalyaseen19/status/1404525427012640777) | advertise |
 | [RidhiyaAulia@twitter](https://twitter.com/RidhiyaAulia/status/1637857799442165761) | advertise |
 | [rifat_wp@twitter](https://twitter.com/rifat_wp/status/1512383768124071938) | advertise |
+| [Rifki_tampan920@twitter](https://twitter.com/Rifki_tampan920/status/1724588076830437540) | advertise |
 | [Right71407038@twitter](https://twitter.com/Right71407038/status/1377305531769974790) | advertise |
 | [rightlywhat@twitter](https://twitter.com/rightlywhat/status/1691153304947171328) | advertise |
 | [RightTron@twitter](https://twitter.com/RightTron/status/1659663226768850946) | advertise |
@@ -14411,6 +14415,7 @@ Do not create new issue or we will close it as duplicate.
 | [walder_franco@twitter](https://twitter.com/walder_franco/status/1545399618992750597) | advertise |
 | [WaleedHariri1@twitter](https://twitter.com/WaleedHariri1/status/1703576089409327458) | advertise |
 | [Wali56764457@twitter](https://twitter.com/Wali56764457/status/1541197686082338817) | advertise |
+| [WaliAmiri420@twitter](https://twitter.com/WaliAmiri420/status/1724756745917227314) | advertise |
 | [walidgumaa@twitter](https://twitter.com/walidgumaa/status/1571473697373913088) | advertise |
 | [wali_duski@twitter](https://twitter.com/wali_duski/status/1553003405005799425) | advertise |
 | [walkmanrds@twitter](https://twitter.com/walkmanrds/status/1557553919085379584) | advertise |
