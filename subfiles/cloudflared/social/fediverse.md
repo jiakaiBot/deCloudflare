@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,988 |
+| com | 7,990 |
 | social | 4,668 |
 | net | 3,943 |
 | org | 2,642 |
@@ -17022,6 +17022,7 @@ Here's a list of public Fediverse services.
 | `grahammay.me` | Yes |
 | `grahams.wtf` | No |
 | `grahamstewartphoto.com` | Yes |
+| `grail-watch.com` | Yes |
 | `grailbox.com` | No |
 | `grailwar.com` | No |
 | `grainedutopie.eu` | No |
@@ -17383,6 +17384,7 @@ Here's a list of public Fediverse services.
 | `gulas.ch` | No |
 | `guldan.net` | No |
 | `guldner.eu` | Yes |
+| `gulo.monster` | No |
 | `gulovsen.io` | No |
 | `gulp.cafe` | No |
 | `gultsch.social` | No |
@@ -35301,6 +35303,7 @@ Here's a list of public Fediverse services.
 | `potato.church` | No |
 | `potato.ski` | No |
 | `potato.technology` | No |
+| `potato.zone` | Yes |
 | `potatoe.ca` | Yes |
 | `potatofrom.space` | Yes |
 | `potatoplusplus.com` | Yes |
@@ -38137,6 +38140,7 @@ Here's a list of public Fediverse services.
 | `rukavina.net` | No |
 | `rukii.net` | No |
 | `rukin.me` | Yes |
+| `rukonichi.com` | No |
 | `rule-of-three.club` | No |
 | `ruleit.stream` | No |
 | `rulix.info` | No |
@@ -47908,6 +47912,7 @@ Here's a list of public Fediverse services.
 | `walnuts.ml` | No |
 | `walrus.social` | Yes |
 | `walrusmafia.com` | No |
+| `walsh.dog` | No |
 | `waltdn.com` | No |
 | `walterebert.com` | No |
 | `walterlogeman.com` | No |
@@ -50647,8 +50652,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,360 |
-| Normal | 36,239 |
+| Cloudflare | 14,362 |
+| Normal | 36,242 |
 
 
 </details>
