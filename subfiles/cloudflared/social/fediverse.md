@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,980 |
-| social | 4,665 |
+| social | 4,666 |
 | net | 3,943 |
 | org | 2,639 |
 | de | 2,480 |
@@ -11180,6 +11180,7 @@ Here's a list of public Fediverse services.
 | `dongxi.ca` | Yes |
 | `donjuans.page` | No |
 | `donk.pm` | Yes |
+| `donkey.social` | No |
 | `donkeymedia.eu` | No |
 | `donky.social` | No |
 | `donmasto.xyz` | No |
@@ -19803,6 +19804,7 @@ Here's a list of public Fediverse services.
 | `indigenousgulf.online` | No |
 | `indigo-k.com` | No |
 | `indigo.zone` | No |
+| `indigogang.cc` | No |
 | `indigophoenix.net` | No |
 | `inditoot.com` | Yes |
 | `indivia.net` | No |
@@ -19940,6 +19942,7 @@ Here's a list of public Fediverse services.
 | `inkdrop.space` | No |
 | `inked.social` | Yes |
 | `inkgenious.ml` | No |
+| `inkladde.blog` | No |
 | `inkling.social` | Yes |
 | `inkommit.com` | No |
 | `inkopolis.cafe` | No |
@@ -24837,6 +24840,7 @@ Here's a list of public Fediverse services.
 | `litterae.social` | No |
 | `little-girl-float.in` | Yes |
 | `little.place` | No |
+| `littleautistic.me` | No |
 | `littlebird.social` | No |
 | `littlebit.social` | No |
 | `littleblue.men` | Yes |
@@ -50622,7 +50626,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,353 |
-| Normal | 36,220 |
+| Normal | 36,224 |
 
 
 </details>
