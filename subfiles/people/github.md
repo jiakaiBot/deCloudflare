@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Run in virtual display on Linux (BrowserConnectError)](https://github.com/g1879/DrissionPage/issues/75)
 - [CloudFlare Cloudflare API service issues](https://github.com/hinoshiba/news/issues/5982)
 - [CloudFlare Cloudflare API service issues](https://github.com/SecOpsNews/news/issues/21262)
 - [A different D1 database is created when there is already a migrated D1 database](https://github.com/withastro/adapters/issues/65)
