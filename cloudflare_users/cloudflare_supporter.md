@@ -4187,6 +4187,7 @@ Do not create new issue or we will close it as duplicate.
 | [ghilani_ahmed@twitter](https://twitter.com/ghilani_ahmed/status/1378273270873657345) | advertise |
 | [GHILES83039093@twitter](https://twitter.com/GHILES83039093/status/1402365710739853312) | advertise |
 | [ghjiukliop@twitter](https://twitter.com/ghjiukliop/status/1593605627049168896) | advertise |
+| [GHoangnhat@twitter](https://twitter.com/GHoangnhat/status/1724768259873157483) | advertise |
 | [GholamiPasha@twitter](https://twitter.com/GholamiPasha/status/1590199638136852480) | advertise |
 | [ghone_prathmesh@twitter](https://twitter.com/ghone_prathmesh/status/1393026364559687682) | advertise |
 | [ghostcap@twitter](https://twitter.com/ghostcap/status/1547972786081058816) | advertise |
@@ -5989,6 +5990,7 @@ Do not create new issue or we will close it as duplicate.
 | [jjj95783480@twitter](https://twitter.com/jjj95783480/status/1395094462431481857) | advertise |
 | [JJKArabic@twitter](https://twitter.com/JJKArabic/status/1689613958632689665) | advertise |
 | [JJoe40040378@twitter](https://twitter.com/JJoe40040378/status/1391669669115752455) | advertise |
+| [JJohnny54131423@twitter](https://twitter.com/JJohnny54131423/status/1724765450884837526) | advertise |
 | [JJoker918976181@twitter](https://twitter.com/JJoker918976181/status/1718988113304060139) | advertise |
 | [jkaras0@twitter](https://twitter.com/jkaras0/status/1519652208270213120) | advertise |
 | [JKAY507914252@twitter](https://twitter.com/JKAY507914252/status/1524934724413579264) | advertise |
@@ -6710,6 +6712,7 @@ Do not create new issue or we will close it as duplicate.
 | [kingk4888888@twitter](https://twitter.com/kingk4888888/status/1394730960894119937) | advertise |
 | [KingKha92045867@twitter](https://twitter.com/KingKha92045867/status/1687863824458866689) | advertise |
 | [KingLov79416741@twitter](https://twitter.com/KingLov79416741/status/1719089312422085101) | advertise |
+| [KingLove1255440@twitter](https://twitter.com/KingLove1255440/status/1724763705911681128) | advertise |
 | [KingmaxNft@twitter](https://twitter.com/KingmaxNft/status/1550009809159630849) | advertise |
 | [Kingo74770300@twitter](https://twitter.com/Kingo74770300/status/1620716316163461123) | advertise |
 | [kingpolat5@twitter](https://twitter.com/kingpolat5/status/1397988631265038339) | advertise |
