@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [A different D1 database is created when there is already a migrated D1 database](https://github.com/withastro/adapters/issues/65)
 - [Tapping on a gallery prompts "Unable to connect to the site" error](https://github.com/Dar9586/NClientV2/issues/671)
 - [Storyblok client throttling crashing Astro adapter in CloudFlare Worker](https://github.com/storyblok/storyblok-js-client/issues/682)
 - [Cloudflare sending 400](https://github.com/lnbits/lnaddress/issues/5)
