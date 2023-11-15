@@ -49934,6 +49934,7 @@ Here's a list of public Fediverse services.
 | `ysan.moe` | No |
 | `ysarris.xyz` | No |
 | `ysd.be` | No |
+| `ysfh.jp` | Yes |
 | `yshi.org` | Yes |
 | `ysj.social` | No |
 | `ysmal.fr` | Yes |
@@ -50625,7 +50626,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,353 |
+| Cloudflare | 14,354 |
 | Normal | 36,224 |
 
 
