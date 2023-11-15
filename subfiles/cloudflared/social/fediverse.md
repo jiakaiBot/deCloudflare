@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,979 |
+| com | 7,980 |
 | social | 4,665 |
 | net | 3,943 |
 | org | 2,639 |
@@ -3608,6 +3608,7 @@ Here's a list of public Fediverse services.
 | `awtter.me` | No |
 | `awwter.online` | No |
 | `awyiss.net` | No |
+| `awzricat.com` | Yes |
 | `ax.lt` | No |
 | `ax25.org` | No |
 | `ax9.eu` | No |
@@ -15936,6 +15937,7 @@ Here's a list of public Fediverse services.
 | `garlemald.org` | No |
 | `garmy.jp` | No |
 | `garo.ooo` | No |
+| `garr.tv` | No |
 | `garranoileain.com` | No |
 | `garratt.social` | Yes |
 | `garrettmills.dev` | Yes |
@@ -50619,8 +50621,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,352 |
-| Normal | 36,219 |
+| Cloudflare | 14,353 |
+| Normal | 36,220 |
 
 
 </details>
