@@ -7245,6 +7245,7 @@ Here's a list of public Fediverse services.
 | `chikichiki.tube` | Yes |
 | `chikorita157.com` | No |
 | `childlove.space` | No |
+| `childlove.su` | No |
 | `childpawn.shop` | No |
 | `childrenshealthdefense.eu` | Yes |
 | `chilemasto.casa` | No |
@@ -31080,6 +31081,7 @@ Here's a list of public Fediverse services.
 | `nightcord.de` | Yes |
 | `nightcord.live` | Yes |
 | `nightcore.monster` | No |
+| `nighten.fr` | No |
 | `nightglow.space` | No |
 | `nightis.land` | No |
 | `nightmare.digital` | No |
@@ -50642,7 +50644,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,358 |
-| Normal | 36,235 |
+| Normal | 36,237 |
 
 
 </details>
