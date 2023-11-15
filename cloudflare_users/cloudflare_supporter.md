@@ -1789,6 +1789,7 @@ Do not create new issue or we will close it as duplicate.
 | [BestForPets4@twitter](https://twitter.com/BestForPets4/status/1603741708197724161) | advertise |
 | [best_rdp@twitter](https://twitter.com/best_rdp/status/1475830533221490690) | advertise |
 | [Better_API@twitter](https://twitter.com/Better_API/status/1627948774357192707) | advertise |
+| [beycwrrnna16238@twitter](https://twitter.com/beycwrrnna16238/status/1724779805915377810) | advertise |
 | [Beyonce01487842@twitter](https://twitter.com/Beyonce01487842/status/1382345074642542599) | advertise |
 | [beyou2021@twitter](https://twitter.com/beyou2021/status/1396901974851862528) | advertise |
 | [bezelman@twitter](https://twitter.com/bezelman/status/1461563287628255235) | advertise |
@@ -6399,6 +6400,7 @@ Do not create new issue or we will close it as duplicate.
 | [KavindaKishan@twitter](https://twitter.com/KavindaKishan/status/1378980925749403650) | advertise |
 | [Kavindu_SL@twitter](https://twitter.com/Kavindu_SL/status/1379891306198003713) | advertise |
 | [kavithakavi44@twitter](https://twitter.com/kavithakavi44/status/1389279032856875008) | advertise |
+| [KawariTosh58717@twitter](https://twitter.com/KawariTosh58717/status/1724779950354682326) | advertise |
 | [KawasakiAA842@twitter](https://twitter.com/KawasakiAA842/status/1606484253587705857) | advertise |
 | [Kaxxxxxx1@twitter](https://twitter.com/Kaxxxxxx1/status/1647257783811579904) | advertise |
 | [Kayden653557996@twitter](https://twitter.com/Kayden653557996/status/1690144672901992448) | advertise |
@@ -12196,6 +12198,7 @@ Do not create new issue or we will close it as duplicate.
 | [skyhear27208113@twitter](https://twitter.com/skyhear27208113/status/1392331792523345920) | advertise |
 | [skylay46648379@twitter](https://twitter.com/skylay46648379/status/1393392250948829185) | advertise |
 | [SkyleZhee@twitter](https://twitter.com/SkyleZhee/status/1599280951745712128) | advertise |
+| [Skylider2001@twitter](https://twitter.com/Skylider2001/status/1724779104539722182) | advertise |
 | [Skythewolf22@twitter](https://twitter.com/Skythewolf22/status/1412424567625289735) | moral (advertise) |
 | [SkyzGaming12@twitter](https://twitter.com/SkyzGaming12/status/1400060043710517248) | advertise |
 | [SlavomirRychna3@twitter](https://twitter.com/SlavomirRychna3/status/1548046291799666690) | advertise |
@@ -13525,6 +13528,7 @@ Do not create new issue or we will close it as duplicate.
 | [tomyperez@twitter](https://twitter.com/tomyperez/status/1558196423509917697) | advertise |
 | [Ton31455039@twitter](https://twitter.com/Ton31455039/status/1622201049263255553) | advertise |
 | [ton51693387@twitter](https://twitter.com/ton51693387/status/1474890465623171073) | advertise |
+| [TonDuong11@twitter](https://twitter.com/TonDuong11/status/1724778147823161721) | advertise |
 | [TongLy92511936@twitter](https://twitter.com/TongLy92511936/status/1680378683008389120) | advertise |
 | [tongqualin@twitter](https://twitter.com/tongqualin/status/1515406293833777154) | advertise |
 | [TongTon27759984@twitter](https://twitter.com/TongTon27759984/status/1397107114468790272) | advertise |
