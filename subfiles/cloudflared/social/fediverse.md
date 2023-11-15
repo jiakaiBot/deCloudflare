@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,985 |
+| com | 7,988 |
 | social | 4,668 |
 | net | 3,943 |
 | org | 2,642 |
@@ -9897,6 +9897,7 @@ Here's a list of public Fediverse services.
 | `dc801.space` | No |
 | `dc919.org` | Yes |
 | `dcae.fyi` | No |
+| `dcalvani.com` | No |
 | `dcanalysts.net` | No |
 | `dcc-jpl.com` | Yes |
 | `dcdispat.ch` | No |
@@ -30539,6 +30540,7 @@ Here's a list of public Fediverse services.
 | `nem.one` | Yes |
 | `nemargut.com` | No |
 | `nemertes.nl` | No |
+| `nemesis53126.com` | Yes |
 | `nemeto.fr` | No |
 | `nemo.click` | No |
 | `nemo.town` | No |
@@ -35301,6 +35303,7 @@ Here's a list of public Fediverse services.
 | `potato.technology` | No |
 | `potatoe.ca` | Yes |
 | `potatofrom.space` | Yes |
+| `potatoplusplus.com` | Yes |
 | `potatoxel.org` | No |
 | `potchan.org` | Yes |
 | `potetotown.com` | Yes |
@@ -48466,6 +48469,7 @@ Here's a list of public Fediverse services.
 | `wideweb.me` | No |
 | `widget.uk` | No |
 | `wiebenuxes.blog` | No |
+| `wiebeverse.blog` | No |
 | `wiedenhoeft.net` | Yes |
 | `wiegandtech.net` | Yes |
 | `wiegehts.cloud` | No |
@@ -50643,8 +50647,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,358 |
-| Normal | 36,237 |
+| Cloudflare | 14,360 |
+| Normal | 36,239 |
 
 
 </details>
