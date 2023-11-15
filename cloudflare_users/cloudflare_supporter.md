@@ -14106,6 +14106,7 @@ Do not create new issue or we will close it as duplicate.
 | [VEDIKA940234511@twitter](https://twitter.com/VEDIKA940234511/status/1514582258476322817) | advertise |
 | [veelasakbaribon@twitter](https://twitter.com/veelasakbaribon/status/1579055768543715328) | advertise |
 | [Vegans4Trump@twitter](https://twitter.com/Vegans4Trump/status/1475146808309526534) | advertise |
+| [Velev_Group@twitter](https://twitter.com/Velev_Group/status/1724599990889386454) | advertise |
 | [Velvetpage@twitter](https://twitter.com/Velvetpage/status/1665889166687649794) | advertise |
 | [Vemox1987@twitter](https://twitter.com/Vemox1987/status/1598415178311372800) | advertise |
 | [venchia1@twitter](https://twitter.com/venchia1/status/1639520328413249536) | advertise |
