@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,980 |
+| com | 7,985 |
 | social | 4,666 |
 | net | 3,943 |
-| org | 2,639 |
+| org | 2,641 |
 | de | 2,480 |
 
 
@@ -9859,6 +9859,7 @@ Here's a list of public Fediverse services.
 | `davinkevin.fr` | No |
 | `davisohana.org` | No |
 | `davlin.io` | Yes |
+| `davmik.com` | No |
 | `davralin.work` | Yes |
 | `davsgarage.com` | No |
 | `davydepauw.social` | No |
@@ -15080,6 +15081,7 @@ Here's a list of public Fediverse services.
 | `freeland.country` | No |
 | `freelands.cloud` | Yes |
 | `freelearner.social` | No |
+| `freelestine.com` | Yes |
 | `freemaker.it` | No |
 | `freemancw.com` | No |
 | `freemasonry.social` | No |
@@ -18483,6 +18485,7 @@ Here's a list of public Fediverse services.
 | `hingst.org` | No |
 | `hinnerk-weiler.com` | No |
 | `hinomarudon.com` | No |
+| `hinrichs.cc` | No |
 | `hintenbeimbier.de` | No |
 | `hinter.bayern` | No |
 | `hintersphere.com` | No |
@@ -18918,6 +18921,7 @@ Here's a list of public Fediverse services.
 | `houbahouba.de` | No |
 | `houchouas.name` | No |
 | `houghton.media` | Yes |
+| `houju.us` | Yes |
 | `hounds.online` | Yes |
 | `houngbo.net` | No |
 | `houps.eu` | Yes |
@@ -25562,6 +25566,7 @@ Here's a list of public Fediverse services.
 | `luttyz.ml` | Yes |
 | `lutz.im` | No |
 | `luuk180.dev` | Yes |
+| `luvdb.com` | No |
 | `luvdon.cc` | No |
 | `luvz.me` | Yes |
 | `lux-nightclub.com` | No |
@@ -30924,6 +30929,7 @@ Here's a list of public Fediverse services.
 | `nfdi.social` | No |
 | `nfg.zone` | No |
 | `nfgworld.com` | No |
+| `nflandowners.org` | No |
 | `nfld.me` | Yes |
 | `nfld.social` | Yes |
 | `nfld.uk` | No |
@@ -30932,6 +30938,7 @@ Here's a list of public Fediverse services.
 | `nfshost.com` | No |
 | `nft.photo` | No |
 | `nftooters.art` | No |
+| `nftrails.org` | No |
 | `ngen15.tv` | Yes |
 | `ngeredwolf.me` | Yes |
 | `ngesot.com` | Yes |
@@ -37264,6 +37271,7 @@ Here's a list of public Fediverse services.
 | `retardedniggers.forsale` | No |
 | `retchless.us` | No |
 | `rethinkplaces.social` | No |
+| `reticentadmin.com` | No |
 | `reticu.li` | No |
 | `retidurc.fr` | No |
 | `retiisi.eu` | No |
@@ -42252,6 +42260,7 @@ Here's a list of public Fediverse services.
 | `su4ka.icu` | No |
 | `suah.dev` | No |
 | `suayoo.online` | Yes |
+| `sub-rosae.top` | No |
 | `sub.jp` | No |
 | `subak.club` | No |
 | `subak.ovh` | No |
@@ -44485,6 +44494,7 @@ Here's a list of public Fediverse services.
 | `thoughts.tf` | No |
 | `thoughtsfired.net` | Yes |
 | `thoughtshrapnel.com` | Yes |
+| `thoughtswordsaction.com` | No |
 | `thoughtworks.com` | Yes |
 | `thousand.rocks` | No |
 | `thpd.io` | No |
@@ -50626,8 +50636,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,354 |
-| Normal | 36,224 |
+| Cloudflare | 14,356 |
+| Normal | 36,232 |
 
 
 </details>
