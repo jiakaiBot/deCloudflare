@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,978 |
 | social | 4,665 |
-| net | 3,942 |
+| net | 3,943 |
 | org | 2,639 |
 | de | 2,480 |
 
@@ -744,7 +744,7 @@ Here's a list of public Fediverse services.
 | `7seven.cloud` | Yes |
 | `7shiro.com` | Yes |
 | `7snowrin.net` | No |
-| `7t4.us` | Yes |
+| `7t4.us` | No |
 | `7td.org` | Yes |
 | `7thmagic.net` | No |
 | `7z.pm` | No |
@@ -1308,6 +1308,7 @@ Here's a list of public Fediverse services.
 | `aeosskey.io` | Yes |
 | `aep.systems` | Yes |
 | `aeracode.org` | No |
+| `aere-sanctuary.net` | No |
 | `aerian.icu` | Yes |
 | `aerir.xyz` | Yes |
 | `aeris-one.fr` | No |
@@ -8106,7 +8107,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -16374,7 +16375,7 @@ Here's a list of public Fediverse services.
 | `ghost7.com` | No |
 | `ghostbloods.org` | No |
 | `ghostburtiraven.com` | No |
-| `ghostcorp.net` | No |
+| `ghostcorp.net` | Yes |
 | `ghostdub.de` | No |
 | `ghostintheshell.de` | No |
 | `ghostlevel.net` | No |
@@ -37244,6 +37245,7 @@ Here's a list of public Fediverse services.
 | `restless.systems` | Yes |
 | `restlesslens.me` | No |
 | `restof.social` | No |
+| `restoration.software` | No |
 | `restraint.social` | No |
 | `restricted.garden` | No |
 | `ret.moe` | Yes |
@@ -50615,8 +50617,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,349 |
-| Normal | 36,218 |
+| Cloudflare | 14,348 |
+| Normal | 36,221 |
 
 
 </details>
