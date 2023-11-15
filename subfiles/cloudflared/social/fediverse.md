@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,978 |
+| com | 7,979 |
 | social | 4,665 |
 | net | 3,943 |
 | org | 2,639 |
@@ -22678,6 +22678,7 @@ Here's a list of public Fediverse services.
 | `kithop.ca` | No |
 | `kitproject.info` | No |
 | `kitsi.biz` | No |
+| `kitsub0.xyz` | Yes |
 | `kitsui.life` | Yes |
 | `kitsuna.net` | Yes |
 | `kitsune.cafe` | No |
@@ -43474,6 +43475,7 @@ Here's a list of public Fediverse services.
 | `teklynk.com` | Yes |
 | `tekmav.space` | No |
 | `teknikveckan.se` | Yes |
+| `teknobilly.com` | Yes |
 | `teknoids.net` | No |
 | `teknologiumum.com` | Yes |
 | `teknorota.com` | Yes |
@@ -50617,7 +50619,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,349 |
+| Cloudflare | 14,351 |
 | Normal | 36,220 |
 
 
