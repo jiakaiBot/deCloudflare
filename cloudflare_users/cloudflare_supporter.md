@@ -14749,6 +14749,7 @@ Do not create new issue or we will close it as duplicate.
 | [XunDngBi1@twitter](https://twitter.com/XunDngBi1/status/1623701300549652480) | advertise |
 | [XUniwathunder@twitter](https://twitter.com/XUniwathunder/status/1614262894266572802) | advertise |
 | [XunNguy78192142@twitter](https://twitter.com/XunNguy78192142/status/1544197771103576064) | advertise |
+| [XuriP81920@twitter](https://twitter.com/XuriP81920/status/1724875941116305894) | advertise |
 | [xVcLc3U5giDDbYt@twitter](https://twitter.com/xVcLc3U5giDDbYt/status/1397256988959051784) | advertise |
 | [xWARBEARx@twitter](https://twitter.com/xWARBEARx/status/1563595325159268352) | advertise |
 | [xx1dd@twitter](https://twitter.com/xx1dd/status/1615040249268142083) | advertise |
