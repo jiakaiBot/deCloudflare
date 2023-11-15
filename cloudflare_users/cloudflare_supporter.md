@@ -8753,6 +8753,7 @@ Do not create new issue or we will close it as duplicate.
 | [MoonDas41181283@twitter](https://twitter.com/MoonDas41181283/status/1393096654413197315) | advertise |
 | [moonfoxxxxxx@twitter](https://twitter.com/moonfoxxxxxx/status/1401547509189681155) | advertise |
 | [MoonLight98__@twitter](https://twitter.com/MoonLight98__/status/1536627517209165826) | advertise |
+| [Moonlight_Nz@twitter](https://twitter.com/Moonlight_Nz/status/1724740026242908664) | advertise |
 | [moosarezam@twitter](https://twitter.com/moosarezam/status/1561040908245688325) | advertise |
 | [Mop_64@twitter](https://twitter.com/Mop_64/status/1625727181962747904) | advertise |
 | [morahlana78@twitter](https://twitter.com/morahlana78/status/1541860463549751296) | advertise |
