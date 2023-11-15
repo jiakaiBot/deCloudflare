@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,985 |
-| social | 4,666 |
+| social | 4,668 |
 | net | 3,943 |
-| org | 2,641 |
+| org | 2,642 |
 | de | 2,480 |
 
 
@@ -1185,6 +1185,7 @@ Here's a list of public Fediverse services.
 | `addictiv.ink` | No |
 | `addictmud.org` | No |
 | `adding.space` | No |
+| `addo.art` | No |
 | `addy.gg` | Yes |
 | `addyadds.us` | No |
 | `adef.xyz` | No |
@@ -18231,6 +18232,7 @@ Here's a list of public Fediverse services.
 | `heorot.uk` | No |
 | `heotul.ovh` | No |
 | `hep.social` | No |
+| `hepach.org` | Yes |
 | `hepburn.social` | No |
 | `hepper.net` | No |
 | `heppycat.com` | No |
@@ -22970,6 +22972,7 @@ Here's a list of public Fediverse services.
 | `kokuusa.club` | No |
 | `kokuzei.cyou` | Yes |
 | `kola.ml` | No |
+| `kolbhalle.social` | No |
 | `koldfront.dk` | No |
 | `kolektiva.media` | Yes |
 | `kolektiva.social` | Yes |
@@ -24531,6 +24534,7 @@ Here's a list of public Fediverse services.
 | `libre-entreprise.com` | No |
 | `libre.audio` | No |
 | `libre.brussels` | No |
+| `libre.bzh` | No |
 | `libre.cx` | No |
 | `libre.fi` | No |
 | `libre.org` | Yes |
@@ -36267,7 +36271,7 @@ Here's a list of public Fediverse services.
 | `qwest.net` | No |
 | `qwjyh.net` | Yes |
 | `qwp.moe` | Yes |
-| `qwq.dog` | No |
+| `qwq.dog` | Yes |
 | `qwq.link` | No |
 | `qwq.mx` | Yes |
 | `qwq.one` | No |
@@ -40645,6 +40649,7 @@ Here's a list of public Fediverse services.
 | `smol.boo` | No |
 | `smol.cafe` | No |
 | `smol.club` | No |
+| `smolhaj.social` | No |
 | `smolhaj.space` | No |
 | `smolkitty.me` | No |
 | `smolnet.org` | No |
@@ -50636,8 +50641,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,356 |
-| Normal | 36,232 |
+| Cloudflare | 14,358 |
+| Normal | 36,235 |
 
 
 </details>
