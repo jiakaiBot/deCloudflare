@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,979 |
+| com | 7,978 |
 | social | 4,665 |
 | net | 3,943 |
 | org | 2,639 |
@@ -43474,7 +43474,6 @@ Here's a list of public Fediverse services.
 | `teklynk.com` | Yes |
 | `tekmav.space` | No |
 | `teknikveckan.se` | Yes |
-| `teknobilly.com` | Yes |
 | `teknoids.net` | No |
 | `teknologiumum.com` | Yes |
 | `teknorota.com` | Yes |
@@ -50618,7 +50617,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,350 |
+| Cloudflare | 14,349 |
 | Normal | 36,220 |
 
 
