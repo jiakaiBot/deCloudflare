@@ -104,7 +104,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | gac.edu | No |
 | gnb09.id | Yes |
 | hahnjo.de | No |
-| haoxuan.xyz | Yes |
 | he.net | No |
 | hostux.net | No |
 | huque.com | No |
@@ -233,8 +232,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 97 |
+| Cloudflare | 96 |
 | Normal | 117 |
 
 
-### 45.3% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 45.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
