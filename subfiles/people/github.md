@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [NSONE: 524 Origin Time-out not handled as error](https://github.com/StackExchange/dnscontrol/issues/2627)
+- [CloudFlare Elevated number of 4XX/5XX for customers in New Delhi, India - (DEL)](https://github.com/SecOpsNews/news/issues/21322)
 - [CloudFlare Elevated number of 4XX/5XX for customers in New Delhi, India - (DEL)](https://github.com/hinoshiba/news/issues/6042)
 - [Improving error message when getting non-json response body](https://github.com/sashabaranov/go-openai/issues/589)
 - [Coinbase / Cloudflare {"errors":{"id":"invalid_token","message":"The access token is invalid"}}](https://github.com/ccxt/ccxt/issues/19994)
