@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Dash JS player x Cloudflare displaying adaptation ID for CC options](https://github.com/Dash-Industry-Forum/dash.js/issues/4316)
 - [npm run dev issue with VDI system](https://github.com/Shopify/cli/issues/3114)
 - [Avoid hitting header size limits](https://github.com/sillsdev/languageforge-lexbox/issues/387)
 - [🚧 Cloudflare: Cloudflare Custom Error Page Issues](https://github.com/Mujhtech/statussync-docs/issues/61)
