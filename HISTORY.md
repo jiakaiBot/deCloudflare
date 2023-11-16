@@ -7,6 +7,8 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-11-16: [Elevated number of 4XX/5XX for customers in New Delhi, India - (DEL)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/83vf3bddlfbs)
+- 2023-11-16: [Cloudflare Custom Error Page Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fw393w3fnjw2)
 - 2023-11-16: [Issues solving Challenges](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/sn6z3zf2yb1z)
 - 2023-11-16: [Elevated number of 4XX/5XX for customers in New Delhi, India - (DEL)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mh18xpgrwd9h)
 - 2023-11-15: [Elevated number of 4XX/5XX for customers in Mexico](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/b6rmj7g8mqxl)
