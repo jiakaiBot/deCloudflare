@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Elevated number of 4XX/5XX for customers in New Delhi, India - (DEL)](https://github.com/hinoshiba/news/issues/6042)
 - [Improving error message when getting non-json response body](https://github.com/sashabaranov/go-openai/issues/589)
 - [Coinbase / Cloudflare {"errors":{"id":"invalid_token","message":"The access token is invalid"}}](https://github.com/ccxt/ccxt/issues/19994)
 - [How to work with Cloudflare Tunnels](https://github.com/mikejac/node-red-contrib-google-smarthome/issues/446)
