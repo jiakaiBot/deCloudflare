@@ -10109,6 +10109,7 @@ Do not create new issue or we will close it as duplicate.
 | [openkaiosz@twitter](https://twitter.com/openkaiosz/status/1511127306177110019) | advertise |
 | [openprivacy.ca](https://openprivacy.ca/) | by deleting git without warning |
 | [open_teck@twitter](https://twitter.com/open_teck/status/1377209508976594948) | advertise |
+| [Operangtha55003@twitter](https://twitter.com/Operangtha55003/status/1725133326984560844) | advertise |
 | [OpikGapik97@twitter](https://twitter.com/OpikGapik97/status/1716042390346334445) | advertise |
 | [OPOKUPRINCE334@twitter](https://twitter.com/OPOKUPRINCE334/status/1490576779198836736) | advertise |
 | [OppoOpp75844625@twitter](https://twitter.com/OppoOpp75844625/status/1612163710646108160) | advertise |
@@ -13728,6 +13729,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrnQucK25664853@twitter](https://twitter.com/TrnQucK25664853/status/1722293953234681917) | advertise |
 | [TrnQucT52838357@twitter](https://twitter.com/TrnQucT52838357/status/1399704418379984898) | advertise |
 | [TrnRin25323964@twitter](https://twitter.com/TrnRin25323964/status/1671879198489845764) | advertise |
+| [TrnThLa68823698@twitter](https://twitter.com/TrnThLa68823698/status/1725142707524485553) | advertise |
 | [TrnThng85707464@twitter](https://twitter.com/TrnThng85707464/status/1404334655038386181) | advertise |
 | [TrnThphngloan18@twitter](https://twitter.com/TrnThphngloan18/status/1543659813695275008) | advertise |
 | [TrnTngQuang2@twitter](https://twitter.com/TrnTngQuang2/status/1404296721090240512) | advertise |
@@ -15183,6 +15185,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZayYatu72339978@twitter](https://twitter.com/ZayYatu72339978/status/1401885640250306560) | advertise |
 | [zcly9@twitter](https://twitter.com/zcly9/status/1499656556744359936) | advertise |
 | [zdienos@twitter](https://twitter.com/zdienos/status/1458745232439140352) | advertise |
+| [ZDomineck@twitter](https://twitter.com/ZDomineck/status/1725151674128330884) | advertise |
 | [ze3rax@twitter](https://twitter.com/ze3rax/status/1546311369519136768) | advertise |
 | [zeakstweets@twitter](https://twitter.com/zeakstweets/status/1607395769899782145) | advertise |
 | [zed37w9@twitter](https://twitter.com/zed37w9/status/1387696205598105602) | advertise |
