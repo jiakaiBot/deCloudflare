@@ -6804,6 +6804,7 @@ Do not create new issue or we will close it as duplicate.
 | [KOE31217404@twitter](https://twitter.com/KOE31217404/status/1394901292821057536) | advertise |
 | [Koe96744385@twitter](https://twitter.com/Koe96744385/status/1405381926207164417) | advertise |
 | [koe_mm1@twitter](https://twitter.com/koe_mm1/status/1389527208440393732) | advertise |
+| [KoGu92614125@twitter](https://twitter.com/KoGu92614125/status/1725177657556336652) | advertise |
 | [KoGyi50346979@twitter](https://twitter.com/KoGyi50346979/status/1392259071479144450) | advertise |
 | [KoHein82682130@twitter](https://twitter.com/KoHein82682130/status/1390190145131859971) | advertise |
 | [Kohtet05917247@twitter](https://twitter.com/Kohtet05917247/status/1395685674959900675) | advertise |
@@ -14227,6 +14228,7 @@ Do not create new issue or we will close it as duplicate.
 | [VIPCOCGAMING1@twitter](https://twitter.com/VIPCOCGAMING1/status/1586043418849210369) | advertise |
 | [vipibox@twitter](https://twitter.com/vipibox/status/1570101058587987968) | advertise |
 | [vip__Lyahody@twitter](https://twitter.com/vip__Lyahody/status/1613997413517393921) | advertise |
+| [Virende51728053@twitter](https://twitter.com/Virende51728053/status/1725175610199200197) | advertise |
 | [virendra_manju@twitter](https://twitter.com/virendra_manju/status/1690585942879309824) | advertise |
 | [VirgilShelton@twitter](https://twitter.com/VirgilShelton/status/1409998073040756738) | moral (advertise) |
 | [virotoovox@twitter](https://twitter.com/virotoovox/status/1685257750215790593) | advertise |
