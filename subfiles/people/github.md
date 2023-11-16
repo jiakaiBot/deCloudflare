@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [npm run dev issue with VDI system](https://github.com/Shopify/cli/issues/3114)
+- [Avoid hitting header size limits](https://github.com/sillsdev/languageforge-lexbox/issues/387)
 - [🚧 Cloudflare: Cloudflare Custom Error Page Issues](https://github.com/Mujhtech/statussync-docs/issues/61)
 - [Environment variables conflict, CF_API_KEY(CLOUDFLARE) vs CF_API_KEY(itzg/minecraft-server)](https://github.com/MyShlongIsLongAT/docker-ncfs-minecraft-server/issues/1)
 - [KeyError on self._filament'vendor'](https://github.com/Disane87/spoolman-homeassistant/issues/58)
