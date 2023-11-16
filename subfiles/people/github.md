@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Coinbase / Cloudflare {"errors":{"id":"invalid_token","message":"The access token is invalid"}}](https://github.com/ccxt/ccxt/issues/19994)
 - [How to work with Cloudflare Tunnels](https://github.com/mikejac/node-red-contrib-google-smarthome/issues/446)
 - [feature ability to set useragent header or rotate it?](https://github.com/dgtlmoon/changedetection.io/issues/1986)
 - [Phantom SIGTERM shutting down container in Podman on Debian 12](https://github.com/louislam/uptime-kuma/issues/4037)
