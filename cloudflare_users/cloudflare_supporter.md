@@ -8772,6 +8772,7 @@ Do not create new issue or we will close it as duplicate.
 | [moosarezam@twitter](https://twitter.com/moosarezam/status/1561040908245688325) | advertise |
 | [Mop_64@twitter](https://twitter.com/Mop_64/status/1625727181962747904) | advertise |
 | [morahlana78@twitter](https://twitter.com/morahlana78/status/1541860463549751296) | advertise |
+| [morays0e@twitter](https://twitter.com/morays0e/status/1725185135258320919) | advertise |
 | [MorbidSugar9@twitter](https://twitter.com/MorbidSugar9/status/1617664514497077248) | advertise |
 | [moreoronce@twitter](https://twitter.com/moreoronce/status/1631973352754790402) | advertise |
 | [Morgan89660901@twitter](https://twitter.com/Morgan89660901/status/1376646842503602179) | advertise |
@@ -8779,6 +8780,7 @@ Do not create new issue or we will close it as duplicate.
 | [mosayeb09@twitter](https://twitter.com/mosayeb09/status/1583618285383258112) | advertise |
 | [moscowchill@twitter](https://twitter.com/moscowchill/status/1432276272298795008) | advertise |
 | [Moshixmatcha@twitter](https://twitter.com/Moshixmatcha/status/1552292161923588096) | advertise |
+| [MoshizMSZ@twitter](https://twitter.com/MoshizMSZ/status/1725195799083024889) | advertise |
 | [Mostafa41766808@twitter](https://twitter.com/Mostafa41766808/status/1557128488573870081) | advertise |
 | [Mostafahaassan@twitter](https://twitter.com/Mostafahaassan/status/1582870068673024005) | advertise |
 | [Mostafi19189233@twitter](https://twitter.com/Mostafi19189233/status/1400999191275474945) | advertise |
@@ -11267,6 +11269,7 @@ Do not create new issue or we will close it as duplicate.
 | [RicardoLLN@twitter](https://twitter.com/RicardoLLN/status/1710250909010452534) | advertise |
 | [Richieboateng5@twitter](https://twitter.com/Richieboateng5/status/1384939346030211077) | advertise |
 | [RichRobinhood@twitter](https://twitter.com/RichRobinhood/status/1538810308956921856) | advertise |
+| [Ricki_Daynes@twitter](https://twitter.com/Ricki_Daynes/status/1725190919274877318) | advertise |
 | [Ricky87282850@twitter](https://twitter.com/Ricky87282850/status/1397162246476754945) | advertise |
 | [rickyhuy9x@twitter](https://twitter.com/rickyhuy9x/status/1385638174790098950) | advertise |
 | [ricojames92@twitter](https://twitter.com/ricojames92/status/1380005971439710208) | advertise |
@@ -12814,6 +12817,7 @@ Do not create new issue or we will close it as duplicate.
 | [tdat868@twitter](https://twitter.com/tdat868/status/1396835443618897922) | advertise |
 | [TDC2104@twitter](https://twitter.com/TDC2104/status/1685343602111905792) | advertise |
 | [tdoongie_tw@twitter](https://twitter.com/tdoongie_tw/status/1505128403728728064) | advertise |
+| [team7come29755@twitter](https://twitter.com/team7come29755/status/1725189246183707114) | advertise |
 | [Team98750688@twitter](https://twitter.com/Team98750688/status/1385933279514173448) | advertise |
 | [TeamAZSoftware@twitter](https://twitter.com/TeamAZSoftware/status/1455916086197727233) | advertise |
 | [TeamLHZa@twitter](https://twitter.com/TeamLHZa/status/1525937400060465153) | advertise |
