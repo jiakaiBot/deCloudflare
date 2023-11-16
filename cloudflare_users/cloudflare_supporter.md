@@ -6299,6 +6299,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kanadeebkk@twitter](https://twitter.com/Kanadeebkk/status/1556930987862654976) | advertise |
 | [KananBank@twitter](https://twitter.com/KananBank/status/1562931477092118531) | advertise |
 | [Kanchan36627193@twitter](https://twitter.com/Kanchan36627193/status/1527031188317417472) | advertise |
+| [kandared77@twitter](https://twitter.com/kandared77/status/1724949943885173243) | advertise |
 | [Kane09375517@twitter](https://twitter.com/Kane09375517/status/1379837150208782336) | advertise |
 | [Kaneki4101@twitter](https://twitter.com/Kaneki4101/status/1503382721556623364) | advertise |
 | [KaneshaSoi60161@twitter](https://twitter.com/KaneshaSoi60161/status/1665874518785622018) | advertise |
@@ -7550,6 +7551,7 @@ Do not create new issue or we will close it as duplicate.
 | [lollilol01@twitter](https://twitter.com/lollilol01/status/1558490208760479746) | advertise |
 | [lollliiipppop@twitter](https://twitter.com/lollliiipppop/status/1552190100280594433) | advertise |
 | [lolo50075413@twitter](https://twitter.com/lolo50075413/status/1422031811694141455) | advertise |
+| [lol_inh@twitter](https://twitter.com/lol_inh/status/1724924812718665844) | advertise |
 | [lonelilpublic@twitter](https://twitter.com/lonelilpublic/status/1716870021316817327) | advertise |
 | [LoneLone117074@twitter](https://twitter.com/LoneLone117074/status/1397059513245597696) | advertise |
 | [lonettwo@twitter](https://twitter.com/lonettwo/status/1380373941923946498) | advertise |
@@ -7912,6 +7914,7 @@ Do not create new issue or we will close it as duplicate.
 | [MamNaw@twitter](https://twitter.com/MamNaw/status/1400309873594691584) | advertise |
 | [MamunHossain014@twitter](https://twitter.com/MamunHossain014/status/1702591515183497258) | advertise |
 | [man9993pc@twitter](https://twitter.com/man9993pc/status/1720510937076048065) | advertise |
+| [Manas22250241@twitter](https://twitter.com/Manas22250241/status/1724910099033194945) | advertise |
 | [Manauwa43390416@twitter](https://twitter.com/Manauwa43390416/status/1407583135592632321) | advertise |
 | [Manccity2020@twitter](https://twitter.com/Manccity2020/status/1595794881125179392) | advertise |
 | [MandalayThar10@twitter](https://twitter.com/MandalayThar10/status/1391637199444070402) | advertise |
@@ -13559,6 +13562,7 @@ Do not create new issue or we will close it as duplicate.
 | [tonyan1102@twitter](https://twitter.com/tonyan1102/status/1384444690481573889) | advertise |
 | [TonyBenoy@twitter](https://twitter.com/TonyBenoy/status/1669723575585046534) | advertise |
 | [TonyFerrer11@twitter](https://twitter.com/TonyFerrer11/status/1550658516788002816) | advertise |
+| [TonyLaw07436413@twitter](https://twitter.com/TonyLaw07436413/status/1724935198733938925) | advertise |
 | [tonyspa27781908@twitter](https://twitter.com/tonyspa27781908/status/1604150603198140416) | advertise |
 | [TOOFAN57648041@twitter](https://twitter.com/TOOFAN57648041/status/1679345323976605697) | advertise |
 | [ToomZaaa@twitter](https://twitter.com/ToomZaaa/status/1553908589999591424) | advertise |
@@ -14646,6 +14650,7 @@ Do not create new issue or we will close it as duplicate.
 | [Wrld999Zachs@twitter](https://twitter.com/Wrld999Zachs/status/1603229456558161920) | advertise |
 | [wrongxbleed@twitter](https://twitter.com/wrongxbleed/status/1380588171436597249) | advertise |
 | [Wrp79316944@twitter](https://twitter.com/Wrp79316944/status/1405499749663268865) | advertise |
+| [wtffs69@twitter](https://twitter.com/wtffs69/status/1724926807848222825) | advertise |
 | [Wtfosamay@twitter](https://twitter.com/Wtfosamay/status/1658058011154468866) | advertise |
 | [Wuan21335402@twitter](https://twitter.com/Wuan21335402/status/1387462878307835905) | advertise |
 | [Wunna17774353@twitter](https://twitter.com/Wunna17774353/status/1390187233764732932) | advertise |
