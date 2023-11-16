@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 7,990 |
-| social | 4,668 |
+| social | 4,669 |
 | net | 3,943 |
 | org | 2,642 |
 | de | 2,480 |
@@ -6592,7 +6592,7 @@ Here's a list of public Fediverse services.
 | `carolinedurlacher.com` | No |
 | `carolineerclark.com` | No |
 | `carow-verlag.de` | No |
-| `carpdiem.online` | No |
+| `carpdiem.online` | Yes |
 | `carper.ca` | No |
 | `carramos.com` | Yes |
 | `carriestuff.com` | Yes |
@@ -35031,7 +35031,7 @@ Here's a list of public Fediverse services.
 | `poiar.es` | Yes |
 | `poincare.one` | No |
 | `point.community` | No |
-| `point.space` | No |
+| `point.space` | Yes |
 | `pointflottant.social` | Yes |
 | `pointless.chat` | Yes |
 | `pointless.net` | No |
@@ -44783,6 +44783,7 @@ Here's a list of public Fediverse services.
 | `tlsocial.de` | No |
 | `tlv.cool` | No |
 | `tm2t.net` | No |
+| `tmfraser.co.uk` | No |
 | `tmi.community` | Yes |
 | `tmi.fyi` | No |
 | `tmi.pics` | No |
@@ -46390,6 +46391,7 @@ Here's a list of public Fediverse services.
 | `umrath.net` | No |
 | `umu.se` | No |
 | `umwelt.party` | No |
+| `umwelt.social` | No |
 | `umycode.com` | Yes |
 | `un-zero-un.net` | No |
 | `un.ms` | No |
@@ -50652,7 +50654,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,363 |
+| Cloudflare | 14,365 |
 | Normal | 36,241 |
 
 
