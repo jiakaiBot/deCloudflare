@@ -2988,6 +2988,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dazai06731634@twitter](https://twitter.com/Dazai06731634/status/1394310699132891138) | advertise |
 | [Dazai_yebo@twitter](https://twitter.com/Dazai_yebo/status/1404095489629380611) | advertise |
 | [daziellewis@twitter](https://twitter.com/daziellewis/status/1610598828163629056) | advertise |
+| [da_na61245@twitter](https://twitter.com/da_na61245/status/1725226153873719492) | advertise |
 | [db739dc8697c4fd@twitter](https://twitter.com/db739dc8697c4fd/status/1376869447944695812) | advertise |
 | [dc6761@twitter](https://twitter.com/dc6761/status/1585589406064427008) | advertise |
 | [DCffgt@twitter](https://twitter.com/DCffgt/status/1588213672853180416) | advertise |
