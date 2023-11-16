@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,669 |
 | net | 3,943 |
 | org | 2,642 |
-| de | 2,480 |
+| de | 2,481 |
 
 
 - Mastodon, Pleroma, etc
@@ -20741,6 +20741,7 @@ Here's a list of public Fediverse services.
 | `jampreserve.com` | No |
 | `jamwells.social` | Yes |
 | `jamwil.com` | Yes |
+| `jan-serve.de` | No |
 | `janboddez.tech` | Yes |
 | `janbruns.de` | No |
 | `janbudke.de` | No |
@@ -50655,7 +50656,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,365 |
-| Normal | 36,241 |
+| Normal | 36,242 |
 
 
 </details>
