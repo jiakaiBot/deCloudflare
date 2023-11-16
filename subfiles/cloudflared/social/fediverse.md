@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,993 |
+| com | 7,995 |
 | social | 4,669 |
 | net | 3,943 |
 | org | 2,642 |
@@ -11966,6 +11966,7 @@ Here's a list of public Fediverse services.
 | `echty.de` | No |
 | `echus.net` | Yes |
 | `ecitizen.my.id` | Yes |
+| `eckerstar.com` | No |
 | `eclair-nightcord.net` | Yes |
 | `eclectic.gay` | No |
 | `eclecticshock.com` | No |
@@ -13743,6 +13744,7 @@ Here's a list of public Fediverse services.
 | `fedi.club` | No |
 | `fedi.co.za` | Yes |
 | `fedi.community` | No |
+| `fedi.contact` | No |
 | `fedi.cr` | No |
 | `fedi.dev` | No |
 | `fedi.ee` | Yes |
@@ -21773,7 +21775,7 @@ Here's a list of public Fediverse services.
 | `k6qw.com` | No |
 | `k7d.me` | Yes |
 | `k7dxs.net` | No |
-| `k7mc.xyz` | Yes |
+| `k7mc.xyz` | No |
 | `k85.de` | No |
 | `k8s.social` | No |
 | `k9.wtf` | Yes |
@@ -37187,6 +37189,7 @@ Here's a list of public Fediverse services.
 | `renem.net` | Yes |
 | `renes-welt.de` | No |
 | `renesat.me` | No |
+| `renewablereads.com` | No |
 | `renewtube.org` | No |
 | `renftchen.de` | No |
 | `reng.dev` | No |
@@ -50665,8 +50668,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,370 |
-| Normal | 36,247 |
+| Cloudflare | 14,369 |
+| Normal | 36,251 |
 
 
 </details>
