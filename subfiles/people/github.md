@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Improving error message when getting non-json response body](https://github.com/sashabaranov/go-openai/issues/589)
 - [Coinbase / Cloudflare {"errors":{"id":"invalid_token","message":"The access token is invalid"}}](https://github.com/ccxt/ccxt/issues/19994)
 - [How to work with Cloudflare Tunnels](https://github.com/mikejac/node-red-contrib-google-smarthome/issues/446)
 - [feature ability to set useragent header or rotate it?](https://github.com/dgtlmoon/changedetection.io/issues/1986)
