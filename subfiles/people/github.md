@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [KeyError on self._filament'vendor'](https://github.com/Disane87/spoolman-homeassistant/issues/58)
 - [NSONE: 524 Origin Time-out not handled as error](https://github.com/StackExchange/dnscontrol/issues/2627)
 - [CloudFlare Elevated number of 4XX/5XX for customers in New Delhi, India - (DEL)](https://github.com/SecOpsNews/news/issues/21322)
 - [CloudFlare Elevated number of 4XX/5XX for customers in New Delhi, India - (DEL)](https://github.com/hinoshiba/news/issues/6042)
