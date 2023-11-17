@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,670 |
 | net | 3,944 |
 | org | 2,642 |
-| de | 2,483 |
+| de | 2,484 |
 
 
 - Mastodon, Pleroma, etc
@@ -31626,6 +31626,7 @@ Here's a list of public Fediverse services.
 | `nordisk.cloud` | No |
 | `nordpol.social` | No |
 | `nordsee.social` | No |
+| `nordstadt-braut.de` | No |
 | `nordy.social` | Yes |
 | `nore.me` | Yes |
 | `noreboot.org` | No |
@@ -50681,7 +50682,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,381 |
-| Normal | 36,251 |
+| Normal | 36,252 |
 
 
 </details>
