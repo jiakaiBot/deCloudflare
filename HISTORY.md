@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-11-17: [DEX HTTP Metrics out of date](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0b5mwp020t1c)
 - 2023-11-16: [Image Resizing Increased Error Rate](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bfj6m2hlx4pg)
 - 2023-11-16: [Elevated number of 4XX/5XX for customers in New Delhi, India - (DEL)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/83vf3bddlfbs)
 - 2023-11-16: [Cloudflare Custom Error Page Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fw393w3fnjw2)
