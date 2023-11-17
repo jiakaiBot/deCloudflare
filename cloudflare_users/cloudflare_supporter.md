@@ -1687,6 +1687,7 @@ Do not create new issue or we will close it as duplicate.
 | [Barryalpha191@twitter](https://twitter.com/Barryalpha191/status/1501295856049217538) | advertise |
 | [barterSpot2023@twitter](https://twitter.com/barterSpot2023/status/1712010811420389528) | advertise |
 | [BartMan__X@twitter](https://twitter.com/BartMan__X/status/1610793004133924866) | advertise |
+| [bart_kowal40090@twitter](https://twitter.com/bart_kowal40090/status/1725523830993494216) | advertise |
 | [BaSai44822569@twitter](https://twitter.com/BaSai44822569/status/1390875744100827142) | advertise |
 | [BasavarajShaha4@twitter](https://twitter.com/BasavarajShaha4/status/1392060094108504067) | advertise |
 | [BashaBa71391325@twitter](https://twitter.com/BashaBa71391325/status/1384809106226106371) | advertise |
