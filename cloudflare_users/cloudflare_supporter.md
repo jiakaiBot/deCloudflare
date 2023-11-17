@@ -1612,6 +1612,7 @@ Do not create new issue or we will close it as duplicate.
 | [BaexTower@twitter](https://twitter.com/BaexTower/status/1664832196425793536) | advertise |
 | [BaggyB7@twitter](https://twitter.com/BaggyB7/status/1389914222096576513) | advertise |
 | [baguzsatryo@twitter](https://twitter.com/baguzsatryo/status/1723228091940745680) | advertise |
+| [BaGyan54321@twitter](https://twitter.com/BaGyan54321/status/1725401551769071636) | advertise |
 | [BaGyiYe1@twitter](https://twitter.com/BaGyiYe1/status/1395180902947381253) | advertise |
 | [baha13860327@twitter](https://twitter.com/baha13860327/status/1581254886418620419) | advertise |
 | [BahramPubg37022@twitter](https://twitter.com/BahramPubg37022/status/1721920096380330375) | advertise |
@@ -4421,6 +4422,7 @@ Do not create new issue or we will close it as duplicate.
 | [hachung1710@twitter](https://twitter.com/hachung1710/status/1564972921746903041) | advertise |
 | [hack3r_oneness@twitter](https://twitter.com/hack3r_oneness/status/1399036170223308803) | advertise |
 | [hack68460515@twitter](https://twitter.com/hack68460515/status/1626204485461868549) | advertise |
+| [HACK78576640@twitter](https://twitter.com/HACK78576640/status/1725410545254437171) | advertise |
 | [hackernguvcl123@twitter](https://twitter.com/hackernguvcl123/status/1596891005881831424) | advertise |
 | [HackersOIHEC@twitter](https://twitter.com/HackersOIHEC/status/1478127124368269317) | advertise |
 | [HackersOmhe@twitter](https://twitter.com/HackersOmhe/status/1478127124368269317) | advertise |
@@ -5055,6 +5057,7 @@ Do not create new issue or we will close it as duplicate.
 | [hotelierindo@twitter](https://twitter.com/hotelierindo/status/1377128938879602688) | advertise |
 | [HotGirlsVideo99@twitter](https://twitter.com/HotGirlsVideo99/status/1591384776929603584) | advertise |
 | [hotman40929677@twitter](https://twitter.com/hotman40929677/status/1397865773889163266) | advertise |
+| [HoutarouRenji@twitter](https://twitter.com/HoutarouRenji/status/1725375125082849293) | advertise |
 | [HovecCrew@twitter](https://twitter.com/HovecCrew/status/1723759075203412280) | advertise |
 | [how498988195935@twitter](https://twitter.com/how498988195935/status/1690713372168192000) | advertise |
 | [howmuches@twitter](https://twitter.com/howmuches/status/1512231330775715842) | advertise |
@@ -5925,6 +5928,7 @@ Do not create new issue or we will close it as duplicate.
 | [JermHC@twitter](https://twitter.com/JermHC/status/1659534531613933571) | advertise |
 | [JeromeMcginn@twitter](https://twitter.com/JeromeMcginn/status/1514879121184243712) | advertise |
 | [JeromeR42358233@twitter](https://twitter.com/JeromeR42358233/status/1386974016896790531) | advertise |
+| [Jerr37282905Tom@twitter](https://twitter.com/Jerr37282905Tom/status/1725381660668264846) | advertise |
 | [jerry76419614@twitter](https://twitter.com/jerry76419614/status/1506916588792217604) | advertise |
 | [JerryGotMeat@twitter](https://twitter.com/JerryGotMeat/status/1625842389901361152) | advertise |
 | [JerryJduh@twitter](https://twitter.com/JerryJduh/status/1544127263775621122) | advertise |
