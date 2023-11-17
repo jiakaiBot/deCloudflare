@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Find a way to bypass Cloudflare protection](https://github.com/rakenduste-programmeerimine-2023/casa-catch/issues/31)
+- [You are unable to access api.openai.com ??](https://github.com/OpenBMB/ChatDev/issues/276)
 - [update openai>=1.3.0 to support OPENAI_BASE_URL environment variable](https://github.com/nalgeon/pokitoki/issues/34)
 - [Module activation problem](https://github.com/freescout-helpdesk/freescout/issues/3535)
 - [Leetcode API error](https://github.com/GammaTauAI/leetcode-hard-gym/issues/18)
