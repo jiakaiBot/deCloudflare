@@ -5748,6 +5748,7 @@ Here's a list of public Fediverse services.
 | `brdsnest.net` | No |
 | `bread-z.one` | No |
 | `bread.social` | No |
+| `breadandroses.cloud` | No |
 | `breadc.at` | Yes |
 | `breadfactory.tk` | No |
 | `breadfish.social` | No |
@@ -45398,7 +45399,7 @@ Here's a list of public Fediverse services.
 | `trains.coffee` | No |
 | `trainsgende.red` | No |
 | `trainyard.au` | No |
-| `tramasoli.com` | No |
+| `tramasoli.com` | Yes |
 | `trammenti.org` | No |
 | `tran.tw` | No |
 | `tranarchy.fish` | No |
@@ -50668,7 +50669,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,369 |
+| Cloudflare | 14,370 |
 | Normal | 36,251 |
 
 
