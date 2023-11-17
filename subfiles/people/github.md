@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Module activation problem](https://github.com/freescout-helpdesk/freescout/issues/3535)
 - [Leetcode API error](https://github.com/GammaTauAI/leetcode-hard-gym/issues/18)
 - [Step by step installation](https://github.com/khriztianmoreno/short-urls/issues/1)
 - [What is status of this project?](https://github.com/qsocket/qs-proxy/issues/1)
