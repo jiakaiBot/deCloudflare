@@ -13388,7 +13388,7 @@ Here's a list of public Fediverse services.
 | `fairilu.net` | No |
 | `fairmove.net` | No |
 | `fairphone.community` | No |
-| `fairpoints.social` | No |
+| `fairpoints.social` | Yes |
 | `fairuse.org` | Yes |
 | `fairy.id` | Yes |
 | `fairy.life` | No |
@@ -33710,6 +33710,7 @@ Here's a list of public Fediverse services.
 | `pars.ee` | No |
 | `parsaranjbar.com` | No |
 | `parsec.social` | No |
+| `parsleague.jp` | Yes |
 | `parsonshosting.com` | Yes |
 | `parta.ge` | Yes |
 | `partecipa.digital` | No |
@@ -50668,8 +50669,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,373 |
-| Normal | 36,247 |
+| Cloudflare | 14,375 |
+| Normal | 36,246 |
 
 
 </details>
