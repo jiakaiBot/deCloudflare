@@ -31009,6 +31009,7 @@ Here's a list of public Fediverse services.
 | `nicebread.de` | No |
 | `nicecockb.ro` | Yes |
 | `nicecrew.digital` | Yes |
+| `nicecrew.tv` | Yes |
 | `nicecrew.us` | No |
 | `nicede.xyz` | No |
 | `nicehat.lol` | Yes |
@@ -50681,7 +50682,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,381 |
+| Cloudflare | 14,382 |
 | Normal | 36,252 |
 
 
