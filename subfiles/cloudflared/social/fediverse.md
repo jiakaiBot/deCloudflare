@@ -8824,7 +8824,7 @@ Here's a list of public Fediverse services.
 | `crosshatch.fun` | No |
 | `crosspage.nl` | No |
 | `crosstalk.co` | No |
-| `crosstalk.tech` | No |
+| `crosstalk.tech` | Yes |
 | `crossthestreams.blog` | No |
 | `crosswords.social` | No |
 | `crouchingpanda.co.za` | Yes |
@@ -41826,7 +41826,7 @@ Here's a list of public Fediverse services.
 | `station.gallery` | No |
 | `stationerygamer.com` | No |
 | `stationzero.me` | No |
-| `statisticallyhuman.net` | No |
+| `statisticallyhuman.net` | Yes |
 | `statium.link` | No |
 | `statler.ws` | No |
 | `staton.us` | No |
@@ -45831,6 +45831,7 @@ Here's a list of public Fediverse services.
 | `tty.social` | No |
 | `tty0.social` | Yes |
 | `tty1.se` | No |
+| `tty7.uk` | Yes |
 | `tu-berlin.de` | No |
 | `tu-braunschweig.social` | No |
 | `tu-bs.de` | No |
@@ -50667,8 +50668,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,370 |
-| Normal | 36,249 |
+| Cloudflare | 14,373 |
+| Normal | 36,247 |
 
 
 </details>
