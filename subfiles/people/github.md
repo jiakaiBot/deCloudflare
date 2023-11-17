@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [update openai>=1.3.0 to support OPENAI_BASE_URL environment variable](https://github.com/nalgeon/pokitoki/issues/34)
 - [Module activation problem](https://github.com/freescout-helpdesk/freescout/issues/3535)
 - [Leetcode API error](https://github.com/GammaTauAI/leetcode-hard-gym/issues/18)
 - [Step by step installation](https://github.com/khriztianmoreno/short-urls/issues/1)
