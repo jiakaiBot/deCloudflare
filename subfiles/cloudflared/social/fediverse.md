@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 7,999 |
 | social | 4,670 |
-| net | 3,945 |
+| net | 3,946 |
 | org | 2,642 |
 | de | 2,484 |
 
@@ -24951,6 +24951,7 @@ Here's a list of public Fediverse services.
 | `ljcu.cc` | Yes |
 | `ljoonal.xyz` | Yes |
 | `ljosalfar.io` | No |
+| `ljpuk.net` | No |
 | `ljs.social` | No |
 | `ljtill.com` | Yes |
 | `lka.hu` | No |
@@ -48054,6 +48055,7 @@ Here's a list of public Fediverse services.
 | `watmoetjeanders.nl` | Yes |
 | `watsonlabs.net` | No |
 | `watt.ws` | No |
+| `wattenberg.dk` | No |
 | `wattenscheid.me` | No |
 | `wattsupwiththat.com` | No |
 | `watzonmanor.com` | Yes |
@@ -50680,7 +50682,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,381 |
-| Normal | 36,250 |
+| Normal | 36,252 |
 
 
 </details>
