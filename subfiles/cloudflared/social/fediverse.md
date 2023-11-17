@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,995 |
+| com | 7,993 |
 | social | 4,669 |
 | net | 3,943 |
 | org | 2,642 |
@@ -11966,7 +11966,6 @@ Here's a list of public Fediverse services.
 | `echty.de` | No |
 | `echus.net` | Yes |
 | `ecitizen.my.id` | Yes |
-| `eckerstar.com` | No |
 | `eclair-nightcord.net` | Yes |
 | `eclectic.gay` | No |
 | `eclecticshock.com` | No |
@@ -37189,7 +37188,6 @@ Here's a list of public Fediverse services.
 | `renem.net` | Yes |
 | `renes-welt.de` | No |
 | `renesat.me` | No |
-| `renewablereads.com` | No |
 | `renewtube.org` | No |
 | `renftchen.de` | No |
 | `reng.dev` | No |
@@ -50669,7 +50667,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,369 |
-| Normal | 36,251 |
+| Normal | 36,249 |
 
 
 </details>
