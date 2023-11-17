@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Troubleshooting Hono with Cloudflare Durable Objects Implementation Error](https://github.com/honojs/examples/issues/97)
 - [Find a way to bypass Cloudflare protection](https://github.com/rakenduste-programmeerimine-2023/casa-catch/issues/31)
 - [You are unable to access api.openai.com ??](https://github.com/OpenBMB/ChatDev/issues/276)
 - [update openai>=1.3.0 to support OPENAI_BASE_URL environment variable](https://github.com/nalgeon/pokitoki/issues/34)
