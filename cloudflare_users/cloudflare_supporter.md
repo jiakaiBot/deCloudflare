@@ -14070,6 +14070,7 @@ Do not create new issue or we will close it as duplicate.
 | [Uttama97890732@twitter](https://twitter.com/Uttama97890732/status/1390025546264809476) | advertise |
 | [UT_DeGreATes@twitter](https://twitter.com/UT_DeGreATes/status/1630635893923930112) | advertise |
 | [UvinduBro@twitter](https://twitter.com/UvinduBro/status/1517900951373611009) | advertise |
+| [UVx9fScj8PaFSD7@twitter](https://twitter.com/UVx9fScj8PaFSD7/status/1725428258311925808) | advertise |
 | [UwdieynCentre@twitter](https://twitter.com/UwdieynCentre/status/1398371128700063745) | advertise |
 | [uyen_ntm@twitter](https://twitter.com/uyen_ntm/status/1385006379870527489) | advertise |
 | [UYePhyo1@twitter](https://twitter.com/UYePhyo1/status/1390074171409895427) | advertise |
