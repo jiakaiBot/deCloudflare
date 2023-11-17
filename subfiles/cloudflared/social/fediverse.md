@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,670 |
 | net | 3,944 |
 | org | 2,642 |
-| de | 2,482 |
+| de | 2,483 |
 
 
 - Mastodon, Pleroma, etc
@@ -3465,7 +3465,7 @@ Here's a list of public Fediverse services.
 | `autizmo.xyz` | No |
 | `auto.coffee` | No |
 | `autobild.bg` | No |
-| `autobots.run` | No |
+| `autobots.run` | Yes |
 | `autochthonia.net` | No |
 | `autogeree.net` | No |
 | `autogestion.org` | No |
@@ -8447,6 +8447,7 @@ Here's a list of public Fediverse services.
 | `corgi.farm` | No |
 | `corgi.social` | No |
 | `corgis.social` | Yes |
+| `corinnabalkow.de` | No |
 | `corite.dev` | Yes |
 | `corkboard.social` | No |
 | `corklabdon.com` | No |
@@ -12298,7 +12299,7 @@ Here's a list of public Fediverse services.
 | `electro.social` | Yes |
 | `electron.ninja` | No |
 | `electron271.gay` | No |
-| `electronblueberry.xyz` | No |
+| `electronblueberry.xyz` | Yes |
 | `electroncash.de` | No |
 | `electronic-sports.club` | No |
 | `electronica.art` | Yes |
@@ -14800,6 +14801,7 @@ Here's a list of public Fediverse services.
 | `forrum.ro` | No |
 | `forsaken.technology` | No |
 | `forsakenhorizon.com` | No |
+| `forster.cc` | No |
 | `forster.pro` | No |
 | `forstner.dev` | No |
 | `forsud.be` | No |
@@ -50678,7 +50680,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,379 |
+| Cloudflare | 14,381 |
 | Normal | 36,251 |
 
 
