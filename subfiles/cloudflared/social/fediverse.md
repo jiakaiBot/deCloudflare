@@ -28224,6 +28224,7 @@ Here's a list of public Fediverse services.
 | `minecraftchest1.us` | Yes |
 | `minecrafty.tk` | No |
 | `minedol12.tk` | No |
+| `minedon.ml` | No |
 | `minego.net` | Yes |
 | `minematter.com` | No |
 | `mineown.de` | No |
@@ -50670,7 +50671,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,370 |
-| Normal | 36,251 |
+| Normal | 36,252 |
 
 
 </details>
