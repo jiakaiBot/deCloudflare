@@ -9456,7 +9456,6 @@ Here's a list of public Fediverse services.
 | `dags.dk` | No |
 | `dague.net` | No |
 | `daheim.social` | No |
-| `dahlia.red` | No |
 | `dahlstrand.net` | Yes |
 | `daichan.club` | No |
 | `daiko.fr` | No |
@@ -16251,7 +16250,6 @@ Here's a list of public Fediverse services.
 | `gensokyo.town` | Yes |
 | `gensou.social` | No |
 | `gensoukyou.jp.net` | No |
-| `gensousakuya.moe` | Yes |
 | `gentle.town` | No |
 | `gentleman-loser.com` | No |
 | `gentlemanloser.cafe` | No |
@@ -28224,7 +28222,6 @@ Here's a list of public Fediverse services.
 | `minecraftchest1.us` | Yes |
 | `minecrafty.tk` | No |
 | `minedol12.tk` | No |
-| `minedon.ml` | No |
 | `minego.net` | Yes |
 | `minematter.com` | No |
 | `mineown.de` | No |
@@ -40033,7 +40030,7 @@ Here's a list of public Fediverse services.
 | `sicknet.xyz` | Yes |
 | `sickstream.net` | No |
 | `sicpers.info` | No |
-| `sid500.com` | No |
+| `sid500.com` | Yes |
 | `side-ways.net` | No |
 | `sideb.buzz` | No |
 | `sidekek.ml` | No |
@@ -50671,7 +50668,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,370 |
-| Normal | 36,252 |
+| Normal | 36,249 |
 
 
 </details>
