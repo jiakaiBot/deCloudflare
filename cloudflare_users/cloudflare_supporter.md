@@ -98,6 +98,7 @@ Do not create new issue or we will close it as duplicate.
 | [4DSxDARK1@twitter](https://twitter.com/4DSxDARK1/status/1379416647505616902) | advertise |
 | [4minerpool@twitter](https://twitter.com/4minerpool/status/1501760243952685058) | advertise |
 | [4OGb8w9ihu0gv7B@twitter](https://twitter.com/4OGb8w9ihu0gv7B/status/1687103087096549376) | advertise |
+| [4ourtiz@twitter](https://twitter.com/4ourtiz/status/1725234468670087622) | advertise |
 | [4QUIGE@twitter](https://twitter.com/4QUIGE/status/1558725276162347011) | advertise |
 | [4Taff@twitter](https://twitter.com/4Taff/status/1397536462606831617) | advertise |
 | [5b3b12@twitter](https://twitter.com/5b3b12/status/1628880703596433410) | advertise |
@@ -1901,6 +1902,7 @@ Do not create new issue or we will close it as duplicate.
 | [bitdotcoin@twitter](https://twitter.com/bitdotcoin/status/1378723169066967042) | advertise |
 | [BiTinThanh3@twitter](https://twitter.com/BiTinThanh3/status/1621835380810215425) | advertise |
 | [BitMagge@twitter](https://twitter.com/BitMagge/status/1571636052884062208) | advertise |
+| [bits121787@twitter](https://twitter.com/bits121787/status/1725340728216474014) | advertise |
 | [BizganCostin@twitter](https://twitter.com/BizganCostin/status/1382363988013555713) | advertise |
 | [bjordanpeterson@twitter](https://twitter.com/bjordanpeterson/status/1724667022556962996) | advertise |
 | [bk0607@twitter](https://twitter.com/bk0607/status/1381984827524534273) | advertise |
@@ -7882,6 +7884,7 @@ Do not create new issue or we will close it as duplicate.
 | [makau__@twitter](https://twitter.com/makau__/status/1596453140173406209) | advertise |
 | [makeiphone@twitter](https://twitter.com/makeiphone/status/1446381205394321408) | advertise |
 | [makis@tvitero.com](https://tvitero.com/@makis) | Banning account silently; Theft of Follower |
+| [MakkwaHnu@twitter](https://twitter.com/MakkwaHnu/status/1725332127951245337) | advertise |
 | [makoranx@twitter](https://twitter.com/makoranx/status/1381349393161465857) | advertise |
 | [Makram3M@twitter](https://twitter.com/Makram3M/status/1644606764661219328) | advertise |
 | [MakrisJordan@twitter](https://twitter.com/MakrisJordan/status/1635441874377797633) | advertise |
@@ -11917,6 +11920,7 @@ Do not create new issue or we will close it as duplicate.
 | [SexyBoy15260836@twitter](https://twitter.com/SexyBoy15260836/status/1552365884320419841) | advertise |
 | [sexywilbur346@twitter](https://twitter.com/sexywilbur346/status/1657719098883600389) | advertise |
 | [Seypul3@twitter](https://twitter.com/Seypul3/status/1400350243426770944) | advertise |
+| [sF9tuFoAMOHADXJ@twitter](https://twitter.com/sF9tuFoAMOHADXJ/status/1725281198128214362) | advertise |
 | [Sfa7ko1@twitter](https://twitter.com/Sfa7ko1/status/1544992856439398400) | advertise |
 | [sfa99688270@twitter](https://twitter.com/sfa99688270/status/1542988291116613639) | advertise |
 | [sffgeek@twitter](https://twitter.com/sffgeek/status/1420023436294991892) | advertise |
@@ -12786,6 +12790,7 @@ Do not create new issue or we will close it as duplicate.
 | [TaufikPrivat@twitter](https://twitter.com/TaufikPrivat/status/1631543734725931008) | advertise |
 | [taufiqhelios@twitter](https://twitter.com/taufiqhelios/status/1674728565164703744) | advertise |
 | [tavakkoli2@twitter](https://twitter.com/tavakkoli2/status/1578616210035703813) | advertise |
+| [TawanWoras48875@twitter](https://twitter.com/TawanWoras48875/status/1725351736079257676) | advertise |
 | [TawhidSuykat@twitter](https://twitter.com/TawhidSuykat/status/1717592184629993692) | advertise |
 | [TawMi5@twitter](https://twitter.com/TawMi5/status/1495964843840397312) | advertise |
 | [Tax40813778@twitter](https://twitter.com/Tax40813778/status/1388201141821796353) | advertise |
@@ -12964,6 +12969,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThanhNguynDuy6@twitter](https://twitter.com/ThanhNguynDuy6/status/1712176244278833282) | advertise |
 | [Thanhnh19736141@twitter](https://twitter.com/Thanhnh19736141/status/1643999462082363393) | advertise |
 | [Thanhnhan671@twitter](https://twitter.com/Thanhnhan671/status/1502252142484078594) | advertise |
+| [ThanhPh37152895@twitter](https://twitter.com/ThanhPh37152895/status/1725359625917415879) | advertise |
 | [ThanhPh44294737@twitter](https://twitter.com/ThanhPh44294737/status/1383122715314249733) | advertise |
 | [thanhphan012@twitter](https://twitter.com/thanhphan012/status/1402846567653019652) | advertise |
 | [thanhphong2802@twitter](https://twitter.com/thanhphong2802/status/1563618290064564224) | advertise |
