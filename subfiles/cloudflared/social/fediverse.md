@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,995 |
-| social | 4,669 |
-| net | 3,943 |
+| com | 7,998 |
+| social | 4,670 |
+| net | 3,944 |
 | org | 2,642 |
-| de | 2,481 |
+| de | 2,482 |
 
 
 - Mastodon, Pleroma, etc
@@ -8441,6 +8441,7 @@ Here's a list of public Fediverse services.
 | `corepaper.org` | No |
 | `coreshock.de` | No |
 | `coreycarvalho.com` | Yes |
+| `coreyinscoe.com` | No |
 | `coreypotter.com` | No |
 | `corgi.coffee` | Yes |
 | `corgi.farm` | No |
@@ -10809,6 +10810,7 @@ Here's a list of public Fediverse services.
 | `disability.place` | No |
 | `disabilitysportsnetwork.au` | No |
 | `disabled.social` | Yes |
+| `disabledsexguide.com` | No |
 | `disagio.space` | No |
 | `disappointment.co` | Yes |
 | `disappointment.fail` | No |
@@ -15410,6 +15412,7 @@ Here's a list of public Fediverse services.
 | `fstab.sh` | No |
 | `fstop.social` | No |
 | `fstube.net` | No |
+| `fsu-snuipp.fr` | Yes |
 | `fsub.de` | No |
 | `ftb.moe` | No |
 | `ftdrd.xyz` | No |
@@ -25264,6 +25267,7 @@ Here's a list of public Fediverse services.
 | `lotor.tech` | No |
 | `lots-of.space` | No |
 | `lottev.moe` | No |
+| `lottia.net` | Yes |
 | `lottiste.fr` | No |
 | `lottum2.de` | No |
 | `lotty.jp` | No |
@@ -36413,7 +36417,7 @@ Here's a list of public Fediverse services.
 | `radiate038.com` | No |
 | `radiation.party` | Yes |
 | `radical.town` | No |
-| `radicalevents.eu` | No |
+| `radicalevents.eu` | Yes |
 | `radicalityincident.com` | No |
 | `radicalnetworks.org` | No |
 | `radicalpolitics.org` | No |
@@ -38222,6 +38226,7 @@ Here's a list of public Fediverse services.
 | `rustysoft.de` | No |
 | `rustywinks.net` | Yes |
 | `rutan.info` | No |
+| `ruth.run` | Yes |
 | `ruthenic.com` | Yes |
 | `rutile.red` | No |
 | `rutland.org.uk` | No |
@@ -41687,6 +41692,7 @@ Here's a list of public Fediverse services.
 | `ssweeny.net` | No |
 | `sszk.sk` | No |
 | `st.lk` | No |
+| `stablegeniusliberal.com` | No |
 | `stack-source.com` | No |
 | `stack.black` | Yes |
 | `stackdump.com` | No |
@@ -47603,6 +47609,7 @@ Here's a list of public Fediverse services.
 | `voidwood.online` | No |
 | `voidwork.space` | No |
 | `voidworks.cc` | No |
+| `voip.social` | No |
 | `vol.red` | Yes |
 | `volaras.net` | No |
 | `volcanocoffee.monster` | Yes |
@@ -49399,6 +49406,7 @@ Here's a list of public Fediverse services.
 | `xn--eckycf7j.com` | No |
 | `xn--eekf.net` | No |
 | `xn--eeks.xn--tckwe` | Yes |
+| `xn--einautisterzhlt-clb.de` | No |
 | `xn--federao-2wa9a.social` | No |
 | `xn--fiqwix98h.jp` | No |
 | `xn--geldwsche24-p8a.eu` | No |
@@ -49569,6 +49577,7 @@ Here's a list of public Fediverse services.
 | `xwiki.com` | Yes |
 | `xwolf.de` | No |
 | `xwx.moe` | No |
+| `xwyqi.top` | No |
 | `xx0r.eu` | No |
 | `xxhe.de` | No |
 | `xxi.bz` | No |
@@ -50669,8 +50678,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,375 |
-| Normal | 36,246 |
+| Cloudflare | 14,379 |
+| Normal | 36,251 |
 
 
 </details>
