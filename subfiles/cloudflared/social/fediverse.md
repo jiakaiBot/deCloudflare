@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,998 |
+| com | 7,999 |
 | social | 4,670 |
-| net | 3,944 |
+| net | 3,945 |
 | org | 2,642 |
 | de | 2,484 |
 
@@ -7880,6 +7880,7 @@ Here's a list of public Fediverse services.
 | `co23.net` | No |
 | `co33k.org` | No |
 | `co8rt.blue` | Yes |
+| `coabai.com` | No |
 | `coales.co` | No |
 | `coalition.zone` | No |
 | `coasa.me` | Yes |
@@ -7942,6 +7943,7 @@ Here's a list of public Fediverse services.
 | `codefossa.net` | No |
 | `codegito.xyz` | No |
 | `codehearth.com` | No |
+| `codehelix.com` | Yes |
 | `codeine.world` | Yes |
 | `codelib.re` | Yes |
 | `codelyoko.me` | Yes |
@@ -14964,7 +14966,6 @@ Here's a list of public Fediverse services.
 | `franc.quebec` | No |
 | `francecatholique.net` | No |
 | `francefamily.co.uk` | Yes |
-| `francelibre.space` | No |
 | `francescoceliento.com` | No |
 | `francil.in` | No |
 | `franciscogil.pt.eu.org` | No |
@@ -23189,7 +23190,6 @@ Here's a list of public Fediverse services.
 | `kpodon.jp` | No |
 | `kpop.social` | Yes |
 | `kpopjp.net` | No |
-| `kpvsky.com` | No |
 | `kq.social` | No |
 | `kqz.io` | No |
 | `kra.hn` | No |
@@ -32976,7 +32976,6 @@ Here's a list of public Fediverse services.
 | `orbiting.observer` | No |
 | `orbx.net` | No |
 | `orc.social` | No |
-| `orc.zone` | No |
 | `orcacruises.pro` | Yes |
 | `orcaphant.cool` | No |
 | `orchard.social` | No |
@@ -36843,6 +36842,7 @@ Here's a list of public Fediverse services.
 | `rd-srv.de` | Yes |
 | `rda69.net` | No |
 | `rdam.tools` | No |
+| `rdan.net` | No |
 | `rdbt.no` | No |
 | `rddw.eu` | No |
 | `rdela.com` | No |
@@ -47437,7 +47437,6 @@ Here's a list of public Fediverse services.
 | `vinzv.space` | No |
 | `violaine.xyz` | No |
 | `violence.church` | No |
-| `violet.lol` | No |
 | `violetmillie.me` | No |
 | `violoncello.ch` | No |
 | `viorsan.com` | Yes |
@@ -49348,7 +49347,6 @@ Here's a list of public Fediverse services.
 | `xmastd.info` | No |
 | `xmatrix.com` | No |
 | `xmau.com` | No |
-| `xmcode.pl` | No |
 | `xmeerschweinchen.de` | No |
 | `xmflsct.com` | Yes |
 | `xmgz.eu` | No |
@@ -50486,7 +50484,6 @@ Here's a list of public Fediverse services.
 | `zn80.net` | No |
 | `znark.us` | No |
 | `znet.li` | No |
-| `znw.io` | Yes |
 | `znw.social` | Yes |
 | `zoc.me` | Yes |
 | `zocial.ee` | No |
@@ -50625,6 +50622,7 @@ Here's a list of public Fediverse services.
 | `zuyang.wtf` | Yes |
 | `zuzakistan.com` | No |
 | `zuzax.com` | No |
+| `zvavybir.eu` | No |
 | `zveryok.pp.ua` | No |
 | `zvo.io` | No |
 | `zvr.gr` | No |
@@ -50682,7 +50680,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,381 |
-| Normal | 36,252 |
+| Normal | 36,250 |
 
 
 </details>
