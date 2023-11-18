@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 7,999 |
+| com | 8,002 |
 | social | 4,670 |
 | net | 3,946 |
-| org | 2,642 |
+| org | 2,643 |
 | de | 2,484 |
 
 
@@ -627,6 +627,7 @@ Here's a list of public Fediverse services.
 | `5280.city` | No |
 | `52poke.net` | Yes |
 | `52wochen.me` | No |
+| `52wochen.org` | Yes |
 | `536.fr` | No |
 | `54nord.net` | No |
 | `54park.de` | No |
@@ -5152,6 +5153,7 @@ Here's a list of public Fediverse services.
 | `bloftin2.blog` | No |
 | `blog-de-michel.fr` | Yes |
 | `blog.edu.kg` | Yes |
+| `blogablocs.com` | No |
 | `blogator.com` | Yes |
 | `blogautismus.de` | No |
 | `blogblop.de` | No |
@@ -6510,6 +6512,7 @@ Here's a list of public Fediverse services.
 | `cant-breathe.cf` | No |
 | `cant.at` | No |
 | `cantabria.social` | No |
+| `cantechnews.ca` | No |
 | `canti.space` | No |
 | `cantonia.org` | Yes |
 | `cantor.cloud` | No |
@@ -18792,6 +18795,7 @@ Here's a list of public Fediverse services.
 | `hong.io` | No |
 | `hongeipii.com` | No |
 | `hongkongers.net` | Yes |
+| `hongphuc.shop` | No |
 | `hongpong.com` | No |
 | `honi.club` | Yes |
 | `honigdachse.de` | No |
@@ -29095,6 +29099,7 @@ Here's a list of public Fediverse services.
 | `mortenolsen.pro` | Yes |
 | `mortensen.app` | No |
 | `mortensen.io` | No |
+| `mortifer.online` | Yes |
 | `mortzu.de` | Yes |
 | `moruorange.com` | No |
 | `morwud.cz` | No |
@@ -42292,6 +42297,7 @@ Here's a list of public Fediverse services.
 | `styrofoamxylophone.com` | No |
 | `styx.org` | No |
 | `styxem.xyz` | No |
+| `styxhexenhammer666.com` | No |
 | `su-social.de` | No |
 | `su.gy` | No |
 | `su.mk` | Yes |
@@ -43449,6 +43455,7 @@ Here's a list of public Fediverse services.
 | `technosemiotics.net` | No |
 | `technosorcery.net` | No |
 | `technowizardry.net` | No |
+| `techomaa.com` | Yes |
 | `techonify.uk` | No |
 | `techopolis.io` | No |
 | `techopolis.social` | Yes |
@@ -49315,6 +49322,7 @@ Here's a list of public Fediverse services.
 | `xinchronize.com` | Yes |
 | `xindejiayuan.com` | No |
 | `xinghaizhandui.com` | No |
+| `xinglili.love` | Yes |
 | `xingxing.digital` | No |
 | `xinsto.xyz` | Yes |
 | `xinu.me` | No |
@@ -50549,6 +50557,7 @@ Here's a list of public Fediverse services.
 | `zordhak.fr` | No |
 | `zorg.social` | No |
 | `zorg1331.one` | No |
+| `zorgdpe.nl` | No |
 | `zork.social` | No |
 | `zornhau.de` | No |
 | `zorns.eu` | No |
@@ -50683,8 +50692,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,379 |
-| Normal | 36,256 |
+| Cloudflare | 14,383 |
+| Normal | 36,261 |
 
 
 </details>
