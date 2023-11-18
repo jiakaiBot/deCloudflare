@@ -1982,6 +1982,7 @@ Do not create new issue or we will close it as duplicate.
 | [BngB14570107@twitter](https://twitter.com/BngB14570107/status/1555480171494313987) | advertise |
 | [bngng1_ngc@twitter](https://twitter.com/bngng1_ngc/status/1553051695256838144) | advertise |
 | [Bngock5@twitter](https://twitter.com/Bngock5/status/1382020407981535234) | advertise |
+| [BngTrn1021554@twitter](https://twitter.com/BngTrn1021554/status/1725800144728445431) | advertise |
 | [bnh13684640@twitter](https://twitter.com/bnh13684640/status/1552714766829105153) | advertise |
 | [bnhnguy10869985@twitter](https://twitter.com/bnhnguy10869985/status/1556859719465472002) | advertise |
 | [BnhNguynth69220@twitter](https://twitter.com/BnhNguynth69220/status/1686582150433517568) | advertise |
@@ -2285,6 +2286,7 @@ Do not create new issue or we will close it as duplicate.
 | [casinoe7@twitter](https://twitter.com/casinoe7/status/1610447350413115392) | advertise |
 | [CassFrancisco5@twitter](https://twitter.com/CassFrancisco5/status/1401267140737392641) | advertise |
 | [cassidysm@twitter](https://twitter.com/cassidysm/status/1404071235500314630) | advertise |
+| [Castle_PC_2005@twitter](https://twitter.com/Castle_PC_2005/status/1724138869610672627) | advertise |
 | [catchme07@twitter](https://twitter.com/catchme07/status/1373180238264291334) | advertise |
 | [Catheri50633931@twitter](https://twitter.com/Catheri50633931/status/1390732851633528834) | advertise |
 | [Catholic_Foodie@twitter](https://twitter.com/Catholic_Foodie/status/1665858497546801155) | advertise |
@@ -2547,6 +2549,7 @@ Do not create new issue or we will close it as duplicate.
 | [citasweetieee@twitter](https://twitter.com/citasweetieee/status/1391727785274654725) | advertise |
 | [CitiBE@twitter](https://twitter.com/CitiBE/status/1665889152234029057) | advertise |
 | [CitizenofKS@twitter](https://twitter.com/CitizenofKS/status/1712043549422694768) | advertise |
+| [Citra8426@twitter](https://twitter.com/Citra8426/status/1725816365574168984) | advertise |
 | [CITRIK_himself@twitter](https://twitter.com/CITRIK_himself/status/1379721209038835715) | advertise |
 | [cjeoebdkek71943@twitter](https://twitter.com/cjeoebdkek71943/status/1681663923798302722) | advertise |
 | [CJhaykal@twitter](https://twitter.com/CJhaykal/status/1612443718010966016) | advertise |
@@ -9761,6 +9764,7 @@ Do not create new issue or we will close it as duplicate.
 | [nin_air@twitter](https://twitter.com/nin_air/status/1397648173632417793) | advertise |
 | [nipos@github.com](https://github.com/nipos) | moral (vandalism on Wiki & called CFT as "anti-cloudflare rant shit") |
 | [nipos@social.avareborn.de](https://social.avareborn.de/@nipos) | moral (see nipos@github.com) |
+| [nippichz@twitter](https://twitter.com/nippichz/status/1725792577256149246) | advertise |
 | [Nira85437917@twitter](https://twitter.com/Nira85437917/status/1402295950945759237) | advertise |
 | [Nirajso81165014@twitter](https://twitter.com/Nirajso81165014/status/1404662618174869507) | advertise |
 | [niridy4@twitter](https://twitter.com/niridy4/status/1572520688552144904) | advertise |
@@ -9928,6 +9932,7 @@ Do not create new issue or we will close it as duplicate.
 | [nva30042000@twitter](https://twitter.com/nva30042000/status/1400858007844450312) | advertise |
 | [nvc20222@twitter](https://twitter.com/nvc20222/status/1607766802884354049) | advertise |
 | [Nvccutewa@twitter](https://twitter.com/Nvccutewa/status/1554358972643037184) | advertise |
+| [nvdech21874492@twitter](https://twitter.com/nvdech21874492/status/1725817276635738488) | advertise |
 | [nvdpoltergeist@twitter](https://twitter.com/nvdpoltergeist/status/1381309376451936256) | advertise |
 | [Nvgoevo@twitter](https://twitter.com/Nvgoevo/status/1712484327588876305) | advertise |
 | [NwayNwa51800153@twitter](https://twitter.com/NwayNwa51800153/status/1394282749293473794) | advertise |
@@ -13799,6 +13804,7 @@ Do not create new issue or we will close it as duplicate.
 | [trun_kynw1506@twitter](https://twitter.com/trun_kynw1506/status/1551907227535310848) | advertise |
 | [Truong00386753@twitter](https://twitter.com/Truong00386753/status/1607847017514160129) | advertise |
 | [Truong0412@twitter](https://twitter.com/Truong0412/status/1626596646405685256) | advertise |
+| [truong955@twitter](https://twitter.com/truong955/status/1725816544989778248) | advertise |
 | [Truong31084796@twitter](https://twitter.com/Truong31084796/status/1569522394636877824) | advertise |
 | [truongchoechoet@twitter](https://twitter.com/truongchoechoet/status/1489978969927843840) | advertise |
 | [Truongd26939610@twitter](https://twitter.com/Truongd26939610/status/1400501039443361796) | advertise |
