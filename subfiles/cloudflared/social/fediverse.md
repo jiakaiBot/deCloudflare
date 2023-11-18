@@ -3449,6 +3449,7 @@ Here's a list of public Fediverse services.
 | `author.chat` | Yes |
 | `authorbuzz.co.uk` | No |
 | `authorhelp.uk` | No |
+| `authorship.studio` | No |
 | `authprivsec.social` | No |
 | `authren.systems` | No |
 | `autism.zone` | No |
@@ -50697,7 +50698,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,385 |
-| Normal | 36,263 |
+| Normal | 36,264 |
 
 
 </details>
