@@ -5033,6 +5033,7 @@ Here's a list of public Fediverse services.
 | `blaede.family` | Yes |
 | `blaha.me` | Yes |
 | `blahaj-gamers.de` | No |
+| `blahaj.date` | No |
 | `blahaj.eu` | No |
 | `blahaj.fun` | No |
 | `blahaj.gg` | Yes |
@@ -11271,6 +11272,7 @@ Here's a list of public Fediverse services.
 | `dorniok.xyz` | No |
 | `doronko.club` | No |
 | `dorothy.day` | No |
+| `dorothys.vision` | No |
 | `dors.et` | No |
 | `dorset.social` | Yes |
 | `dorsey.io` | No |
@@ -18864,6 +18866,7 @@ Here's a list of public Fediverse services.
 | `horodecki.net` | No |
 | `horoskop2000.de` | No |
 | `horrendum.com` | No |
+| `horrid-creatu.re` | No |
 | `horrific.dev` | Yes |
 | `horrorhub.club` | Yes |
 | `hors.zone` | No |
@@ -50699,7 +50702,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,385 |
-| Normal | 36,265 |
+| Normal | 36,268 |
 
 
 </details>
