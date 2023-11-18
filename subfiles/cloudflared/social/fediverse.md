@@ -42806,6 +42806,7 @@ Here's a list of public Fediverse services.
 | `synthwave.social` | Yes |
 | `syntik.fr` | No |
 | `synyx.social` | No |
+| `syo.bar` | Yes |
 | `syo.tokyo` | No |
 | `syobon.net` | Yes |
 | `syobon.social` | Yes |
@@ -50693,7 +50694,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,384 |
+| Cloudflare | 14,385 |
 | Normal | 36,261 |
 
 
