@@ -34918,6 +34918,7 @@ Here's a list of public Fediverse services.
 | `plspet.cf` | No |
 | `plswork.tk` | No |
 | `plttn.xyz` | Yes |
+| `plu.wf` | No |
 | `plueschmoors.de` | No |
 | `pluffy.monster` | No |
 | `pluginip.com` | Yes |
@@ -50696,7 +50697,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,385 |
-| Normal | 36,262 |
+| Normal | 36,263 |
 
 
 </details>
