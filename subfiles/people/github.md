@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare error 520](https://github.com/ArtalkJS/Artalk/issues/646)
 - [Cloudflare Workers Handler](https://github.com/honojs/hono/issues/1720)
 - [Troubleshooting Hono with Cloudflare Durable Objects Implementation Error](https://github.com/honojs/examples/issues/97)
 - [Find a way to bypass Cloudflare protection](https://github.com/rakenduste-programmeerimine-2023/casa-catch/issues/31)
