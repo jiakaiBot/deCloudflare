@@ -7506,6 +7506,7 @@ Do not create new issue or we will close it as duplicate.
 | [ljnhbj@twitter](https://twitter.com/ljnhbj/status/1393463319453847559) | advertise |
 | [lk21baeeee@twitter](https://twitter.com/lk21baeeee/status/1477388348054392832) | advertise |
 | [lk21officials@twitter](https://twitter.com/lk21officials/status/1477388348054392832) | advertise |
+| [Lk777_4@twitter](https://twitter.com/Lk777_4/status/1725753094057943459) | advertise |
 | [LKDavidHt1@twitter](https://twitter.com/LKDavidHt1/status/1391671487652720640) | advertise |
 | [LKhngNinh2@twitter](https://twitter.com/LKhngNinh2/status/1381900715262550016) | advertise |
 | [lknk_adorebot@twitter](https://twitter.com/lknk_adorebot/status/1390972492995432454) | advertise |
@@ -8773,6 +8774,7 @@ Do not create new issue or we will close it as duplicate.
 | [Monzer08634001@twitter](https://twitter.com/Monzer08634001/status/1388894211685052416) | advertise |
 | [Monzim@twitter](https://twitter.com/Monzim/status/1670482212624662528) | advertise |
 | [Mood0ff@twitter](https://twitter.com/Mood0ff/status/1581006712135290881) | advertise |
+| [moom13949@twitter](https://twitter.com/moom13949/status/1725759554666045780) | advertise |
 | [moonb3rry@twitter](https://twitter.com/moonb3rry/status/1390964447842344964) | advertise |
 | [MoonDas41181283@twitter](https://twitter.com/MoonDas41181283/status/1393096654413197315) | advertise |
 | [moonfoxxxxxx@twitter](https://twitter.com/moonfoxxxxxx/status/1401547509189681155) | advertise |
@@ -10329,6 +10331,7 @@ Do not create new issue or we will close it as duplicate.
 | [PDoxX7@twitter](https://twitter.com/PDoxX7/status/1539952156333248512) | advertise |
 | [PDurua@twitter](https://twitter.com/PDurua/status/1590598546017128448) | advertise |
 | [PDXStolenCar@twitter](https://twitter.com/PDXStolenCar/status/1557609975949668353) | advertise |
+| [peachypeachpppp@twitter](https://twitter.com/peachypeachpppp/status/1725766802578579574) | advertise |
 | [Peach_CH1@twitter](https://twitter.com/Peach_CH1/status/1647984368290496522) | advertise |
 | [peageruk@twitter](https://twitter.com/peageruk/status/1383275946296299520) | advertise |
 | [peaksilver1@twitter](https://twitter.com/peaksilver1/status/1552288607682981888) | advertise |
