@@ -8115,7 +8115,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -14618,7 +14618,7 @@ Here's a list of public Fediverse services.
 | `fluffpri.de` | No |
 | `fluffs.au` | No |
 | `fluffy.family` | No |
-| `fluffy.moe` | Yes |
+| `fluffy.moe` | No |
 | `fluffy.social` | Yes |
 | `fluffy.world` | No |
 | `fluffyb.net` | Yes |
@@ -18585,7 +18585,7 @@ Here's a list of public Fediverse services.
 | `hivemind.gq` | No |
 | `hivemind.plus` | No |
 | `hiveposh.com` | Yes |
-| `hiveway.net` | Yes |
+| `hiveway.net` | No |
 | `hiwaga.tech` | No |
 | `hixe.fr` | No |
 | `hiya.moe` | Yes |
@@ -33798,6 +33798,7 @@ Here's a list of public Fediverse services.
 | `patricia.no` | No |
 | `patriciadrive.com` | No |
 | `patrick.social` | Yes |
+| `patrick.wtf` | No |
 | `patrickv.be` | Yes |
 | `patty-gray.com` | No |
 | `patu.re` | No |
@@ -44991,7 +44992,7 @@ Here's a list of public Fediverse services.
 | `tomo.gift` | No |
 | `tomocraft.net` | Yes |
 | `tomocraft.tech` | No |
-| `tomodachi.club` | Yes |
+| `tomodachi.club` | No |
 | `tomodachica.app` | No |
 | `tomokiwakimoto.com` | No |
 | `tomori.sk` | No |
@@ -47690,7 +47691,7 @@ Here's a list of public Fediverse services.
 | `vps-dogado.de` | No |
 | `vpsburti.com` | Yes |
 | `vpx.moe` | Yes |
-| `vpx.one` | Yes |
+| `vpx.one` | No |
 | `vr-girls.club` | No |
 | `vr3d.social` | No |
 | `vr4.me` | Yes |
@@ -50682,8 +50683,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,382 |
-| Normal | 36,252 |
+| Cloudflare | 14,379 |
+| Normal | 36,256 |
 
 
 </details>
