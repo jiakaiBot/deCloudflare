@@ -45181,6 +45181,7 @@ Here's a list of public Fediverse services.
 | `tooter.kr` | Yes |
 | `tooter.social` | No |
 | `tooter.space` | No |
+| `tooters.fun` | Yes |
 | `tooters.org` | No |
 | `tooters.space` | No |
 | `toothole.org` | Yes |
@@ -50692,7 +50693,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,383 |
+| Cloudflare | 14,384 |
 | Normal | 36,261 |
 
 
