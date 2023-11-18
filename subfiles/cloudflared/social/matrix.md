@@ -53,7 +53,6 @@ Here's a list of public Matrix services.
 | matrix.gemeinsam.jetzt | No |
 | ggc-project.de | Yes |
 | matrix.glasgow.social | No |
-| matrix.gnulinux.club | No |
 | matrix.grin.hu | No |
 | matrix.group.lt | Yes |
 | hackerspaces.be | No |
@@ -88,6 +87,7 @@ Here's a list of public Matrix services.
 | ru-matrix.org | No |
 | sans-nuage.fr | No |
 | socialnetwork24.com | No |
+| matrix.studichat.de | No |
 | synod.im | No |
 | matrix.tchncs.de | No |
 | matrix.techsaviours.org | No |
