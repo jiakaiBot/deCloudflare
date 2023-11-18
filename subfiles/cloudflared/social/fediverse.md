@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,002 |
+| com | 8,003 |
 | social | 4,670 |
 | net | 3,946 |
 | org | 2,643 |
@@ -26371,6 +26371,7 @@ Here's a list of public Fediverse services.
 | `martinezperspective.org` | No |
 | `martinfernandez.info` | No |
 | `martinh.net` | No |
+| `martinhaagen.se` | No |
 | `martinhaynes.me` | No |
 | `martinm.de` | No |
 | `martinrue.com` | Yes |
@@ -34100,6 +34101,7 @@ Here's a list of public Fediverse services.
 | `pepecyb.hu` | No |
 | `pepega.club` | Yes |
 | `pepega.media` | No |
+| `pepemoss.com` | No |
 | `pepepper.cf` | Yes |
 | `pepepper.net` | Yes |
 | `peppers.social` | No |
@@ -39643,7 +39645,6 @@ Here's a list of public Fediverse services.
 | `sexpolitics.co.uk` | Yes |
 | `sexpositivnet.com` | No |
 | `sexton-family.uk` | No |
-| `sexuall.us` | No |
 | `sexworkisrealwork.quest` | No |
 | `sexyferret.science` | No |
 | `sexyspygirls.com` | No |
@@ -50698,7 +50699,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,385 |
-| Normal | 36,264 |
+| Normal | 36,265 |
 
 
 </details>
