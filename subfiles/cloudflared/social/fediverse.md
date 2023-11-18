@@ -47114,6 +47114,7 @@ Here's a list of public Fediverse services.
 | `vaultboy.me` | Yes |
 | `vaultliberty.us` | No |
 | `vaush.ml` | No |
+| `vavoom.uk` | No |
 | `vaxodon.com` | Yes |
 | `vayena.club` | No |
 | `vbrandl.net` | No |
@@ -50695,7 +50696,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,385 |
-| Normal | 36,261 |
+| Normal | 36,262 |
 
 
 </details>
