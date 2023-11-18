@@ -6186,6 +6186,7 @@ Do not create new issue or we will close it as duplicate.
 | [junceebee@twitter](https://twitter.com/junceebee/status/1553921333507006465) | advertise |
 | [june638@twitter](https://twitter.com/june638/status/1405487343704805379) | advertise |
 | [Jungkoo61011629@twitter](https://twitter.com/Jungkoo61011629/status/1401157627191586823) | advertise |
+| [JUNGKOOKBt77498@twitter](https://twitter.com/JUNGKOOKBt77498/status/1725822456244425021) | advertise |
 | [jungkooksbian@twitter](https://twitter.com/jungkooksbian/status/1384818132716560385) | advertise |
 | [JungNguyen17@twitter](https://twitter.com/JungNguyen17/status/1595596042279727105) | advertise |
 | [JungTae522008@twitter](https://twitter.com/JungTae522008/status/1383671208579723267) | advertise |
@@ -6348,6 +6349,7 @@ Do not create new issue or we will close it as duplicate.
 | [kartik20031@twitter](https://twitter.com/kartik20031/status/1401516345284464643) | advertise |
 | [KartikT93021170@twitter](https://twitter.com/KartikT93021170/status/1378252832911060993) | advertise |
 | [Kartoz12@twitter](https://twitter.com/Kartoz12/status/1393136545595498496) | advertise |
+| [KaryKatory@twitter](https://twitter.com/KaryKatory/status/1725833584119095553) | advertise |
 | [KASA021907@twitter](https://twitter.com/KASA021907/status/1701282626408178069) | advertise |
 | [KASAB786@twitter](https://twitter.com/KASAB786/status/1682144200605982720) | advertise |
 | [kashyapyash306@twitter](https://twitter.com/kashyapyash306/status/1402270575293239306) | advertise |
