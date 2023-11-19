@@ -845,6 +845,7 @@ Do not create new issue or we will close it as duplicate.
 | [Amirvet22@twitter](https://twitter.com/Amirvet22/status/1659850934384570368) | advertise |
 | [amiryhawa1@twitter](https://twitter.com/amiryhawa1/status/1637080736988626947) | advertise |
 | [amir_809@twitter](https://twitter.com/amir_809/status/1573479973331017728) | advertise |
+| [amir_khan_safi_@twitter](https://twitter.com/amir_khan_safi_/status/1726264455108108637) | advertise |
 | [amit19906@twitter](https://twitter.com/amit19906/status/1584241344314167297) | advertise |
 | [AmitSin32558267@twitter](https://twitter.com/AmitSin32558267/status/1483704135405142016) | advertise |
 | [amjadazizi1@twitter](https://twitter.com/amjadazizi1/status/1583285934334050306) | advertise |
@@ -1727,6 +1728,7 @@ Do not create new issue or we will close it as duplicate.
 | [bdksd3b@twitter](https://twitter.com/bdksd3b/status/1384384819270979586) | advertise |
 | [Bdnzjjendkdndne@twitter](https://twitter.com/Bdnzjjendkdndne/status/1182422221253427201) | advertise |
 | [bds_hoangnhh@twitter](https://twitter.com/bds_hoangnhh/status/1571556199933554688) | advertise |
+| [beachmelon@twitter](https://twitter.com/beachmelon/status/1726269488394346890) | advertise |
 | [Bearguysan20@twitter](https://twitter.com/Bearguysan20/status/1595127683901403136) | advertise |
 | [Beast29769840@twitter](https://twitter.com/Beast29769840/status/1396382427304521728) | advertise |
 | [BeastHunter696@twitter](https://twitter.com/BeastHunter696/status/1405569905613701122) | advertise |
