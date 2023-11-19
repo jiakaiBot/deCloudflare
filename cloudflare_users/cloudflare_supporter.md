@@ -14581,6 +14581,7 @@ Do not create new issue or we will close it as duplicate.
 | [Why_Srk@twitter](https://twitter.com/Why_Srk/status/1582033845188464641) | advertise |
 | [wickepedia@twitter](https://twitter.com/wickepedia/status/1502834842073014272) | advertise |
 | [widoOulalid77@twitter](https://twitter.com/widoOulalid77/status/1608191952872247298) | advertise |
+| [wierdsep@twitter](https://twitter.com/wierdsep/status/1726250272941314120) | advertise |
 | [wifecheatsdumb1@twitter](https://twitter.com/wifecheatsdumb1/status/1572431467711713280) | advertise |
 | [wife_xxxx@twitter](https://twitter.com/wife_xxxx/status/1547551663300673536) | advertise |
 | [wigan_mancs@twitter](https://twitter.com/wigan_mancs/status/1391843058933800963) | advertise |
@@ -15333,6 +15334,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZoanZonoa@twitter](https://twitter.com/ZoanZonoa/status/1376874020277133313) | advertise |
 | [ZoeLogkop@twitter](https://twitter.com/ZoeLogkop/status/1538942210388811776) | advertise |
 | [zohrebayat@twitter](https://twitter.com/zohrebayat/status/1638028465440997376) | advertise |
+| [zokhshop9@twitter](https://twitter.com/zokhshop9/status/1726251953431494876) | advertise |
 | [zoktog@twitter](https://twitter.com/zoktog/status/1501935529188753411) | advertise |
 | [ZomorodiEbi@twitter](https://twitter.com/ZomorodiEbi/status/1585597008437739520) | advertise |
 | [zonezone81@twitter](https://twitter.com/zonezone81/status/1389274249722925058) | advertise |
