@@ -13127,6 +13127,7 @@ Do not create new issue or we will close it as duplicate.
 | [thejakubzelazny@twitter](https://twitter.com/thejakubzelazny/status/1623034341587619857) | advertise |
 | [thejobspower@twitter](https://twitter.com/thejobspower/status/1553773529761730561) | advertise |
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
+| [Thejokerxi@twitter](https://twitter.com/Thejokerxi/status/1726093038122885252) | advertise |
 | [thejulievirgo@twitter](https://twitter.com/thejulievirgo/status/1665889185029316609) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [thekiet271100@twitter](https://twitter.com/thekiet271100/status/1687155848949510145) | advertise |
