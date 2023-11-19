@@ -29793,6 +29793,7 @@ Here's a list of public Fediverse services.
 | `mwaters.net` | No |
 | `mwaters7eu2pyfcz36oehlc3htnqarakd7meeyz4lvbubff64ethxzqd.com` | No |
 | `mwegner.com` | Yes |
+| `mwit.ac.th` | Yes |
 | `mwknet.de` | No |
 | `mwl.io` | No |
 | `mwop.net` | Yes |
@@ -36546,6 +36547,7 @@ Here's a list of public Fediverse services.
 | `rails.social` | Yes |
 | `railway.app` | Yes |
 | `railworks2.co.uk` | Yes |
+| `raimue.blog` | No |
 | `rain.chat` | No |
 | `rainbo.ws` | No |
 | `rainbow-100.com` | No |
@@ -50716,8 +50718,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,388 |
-| Normal | 36,280 |
+| Cloudflare | 14,389 |
+| Normal | 36,281 |
 
 
 </details>
