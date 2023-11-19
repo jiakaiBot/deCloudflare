@@ -34956,6 +34956,7 @@ Here's a list of public Fediverse services.
 | `plush.city` | No |
 | `plushieden.eu` | No |
 | `plushies.social` | No |
+| `plusi.moe` | No |
 | `plusminus.io` | Yes |
 | `plusminusmensch.de` | No |
 | `plusone.chat` | No |
@@ -50716,7 +50717,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,388 |
-| Normal | 36,279 |
+| Normal | 36,280 |
 
 
 </details>
