@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,006 |
+| com | 8,007 |
 | social | 4,672 |
 | net | 3,949 |
 | org | 2,644 |
@@ -26718,6 +26718,7 @@ Here's a list of public Fediverse services.
 | `mastodon.doctor` | No |
 | `mastodon.earth` | No |
 | `mastodon.eco` | No |
+| `mastodon.edu.pl` | Yes |
 | `mastodon.education` | No |
 | `mastodon.ee` | Yes |
 | `mastodon.energy` | No |
@@ -34196,6 +34197,7 @@ Here's a list of public Fediverse services.
 | `peterlew.is` | Yes |
 | `petermolnar.net` | No |
 | `petermorse.com.au` | No |
+| `peterparker1.com` | No |
 | `peterrowlett.net` | No |
 | `petersanchez.com` | No |
 | `petersen.social` | No |
@@ -50720,8 +50722,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,389 |
-| Normal | 36,283 |
+| Cloudflare | 14,390 |
+| Normal | 36,284 |
 
 
 </details>
