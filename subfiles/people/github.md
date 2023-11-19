@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Telegram Trigger Error](https://github.com/n8n-io/n8n/issues/7756)
 - [Issue with YGGTorrent and Prowlarr](https://github.com/FlareSolverr/FlareSolverr/issues/976)
 - [Cloudflare error 520](https://github.com/ArtalkJS/Artalk/issues/646)
 - [Cloudflare Workers Handler](https://github.com/honojs/hono/issues/1720)
