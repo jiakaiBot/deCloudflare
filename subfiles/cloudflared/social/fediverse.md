@@ -31,8 +31,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,003 |
 | social | 4,670 |
-| net | 3,946 |
-| org | 2,643 |
+| net | 3,947 |
+| org | 2,644 |
 | de | 2,484 |
 
 
@@ -8120,7 +8120,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -14085,7 +14085,7 @@ Here's a list of public Fediverse services.
 | `femboy.world` | Yes |
 | `femboyfor.sale` | No |
 | `femboyfurry.net` | Yes |
-| `femboys-in.space` | Yes |
+| `femboys-in.space` | No |
 | `femboys-who.top` | Yes |
 | `femboys.bar` | Yes |
 | `femboys.love` | Yes |
@@ -14122,6 +14122,7 @@ Here's a list of public Fediverse services.
 | `feralmimesis.xyz` | Yes |
 | `ferals-on.top` | Yes |
 | `feralsec.tv` | No |
+| `feraltodayfriendtomorrow.org` | No |
 | `feraltomatoes.com` | No |
 | `ferd.at` | No |
 | `ferelith.blue` | No |
@@ -14906,7 +14907,7 @@ Here's a list of public Fediverse services.
 | `foxhillyer.org` | No |
 | `foxhold.net` | Yes |
 | `foxi.sh` | No |
-| `foxie.xyz` | Yes |
+| `foxie.xyz` | No |
 | `foxiepa.ws` | No |
 | `foxis.dev` | No |
 | `foxnewsofficial.com` | No |
@@ -24569,7 +24570,7 @@ Here's a list of public Fediverse services.
 | `librebit.es` | No |
 | `libreden.net` | No |
 | `librefish.com` | No |
-| `librefree.me` | Yes |
+| `librefree.me` | No |
 | `libreha.sh` | No |
 | `librelabgrx.cc` | No |
 | `librelabucm.org` | Yes |
@@ -26565,7 +26566,7 @@ Here's a list of public Fediverse services.
 | `masto.pet` | No |
 | `masto.plus` | No |
 | `masto.pt` | Yes |
-| `masto.quebec` | No |
+| `masto.quebec` | Yes |
 | `masto.re` | No |
 | `masto.rip` | Yes |
 | `masto.rocks` | No |
@@ -29250,6 +29251,7 @@ Here's a list of public Fediverse services.
 | `mrcol.es` | No |
 | `mrdaft.fr` | No |
 | `mrdiamondj.social` | No |
+| `mrdonaldson.net` | No |
 | `mreair.jp` | Yes |
 | `mrelay.link` | No |
 | `mrfunkedude.com` | No |
@@ -50701,8 +50703,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,385 |
-| Normal | 36,268 |
+| Cloudflare | 14,382 |
+| Normal | 36,273 |
 
 
 </details>
