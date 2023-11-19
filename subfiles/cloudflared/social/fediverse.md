@@ -31,9 +31,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,006 |
 | social | 4,672 |
-| net | 3,948 |
+| net | 3,949 |
 | org | 2,644 |
-| de | 2,486 |
+| de | 2,487 |
 
 
 - Mastodon, Pleroma, etc
@@ -30254,6 +30254,7 @@ Here's a list of public Fediverse services.
 | `nap.social` | Yes |
 | `napolisocial.com` | No |
 | `naraku.cc` | Yes |
+| `narandu.de` | No |
 | `narang.me` | Yes |
 | `narazaka.net` | Yes |
 | `nardi.social` | No |
@@ -41496,6 +41497,7 @@ Here's a list of public Fediverse services.
 | `spiral.zone` | No |
 | `spiralnature.com` | No |
 | `spirals.observer` | No |
+| `spirelli.net` | No |
 | `spirgi.com` | No |
 | `spiritblog.net` | Yes |
 | `spiritofcontradiction.eu` | No |
@@ -50719,7 +50721,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,389 |
-| Normal | 36,281 |
+| Normal | 36,283 |
 
 
 </details>
