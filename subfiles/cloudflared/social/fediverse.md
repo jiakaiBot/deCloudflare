@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,004 |
-| social | 4,670 |
-| net | 3,947 |
+| com | 8,006 |
+| social | 4,671 |
+| net | 3,948 |
 | org | 2,644 |
-| de | 2,484 |
+| de | 2,486 |
 
 
 - Mastodon, Pleroma, etc
@@ -3152,6 +3152,7 @@ Here's a list of public Fediverse services.
 | `asohh.eu` | No |
 | `asolitarybear.games` | No |
 | `asonix.dog` | No |
+| `asoothingfood.com` | Yes |
 | `asorrybowl.blog` | No |
 | `asozial.me` | No |
 | `aspectsof.love` | Yes |
@@ -10514,6 +10515,7 @@ Here's a list of public Fediverse services.
 | `devzero.social` | No |
 | `dewbert.social` | Yes |
 | `dewitte.xyz` | Yes |
+| `dewittehaas.nl` | No |
 | `dewp.space` | No |
 | `dexlit.xyz` | No |
 | `dexnext.social` | No |
@@ -19724,6 +19726,7 @@ Here's a list of public Fediverse services.
 | `impeccable.social` | No |
 | `impeccablewords.net` | No |
 | `impending.events` | No |
+| `imperfettaellisse.it` | No |
 | `imperial.social` | No |
 | `imperialba.se` | No |
 | `impheim.com` | Yes |
@@ -27615,6 +27618,7 @@ Here's a list of public Fediverse services.
 | `meme.moe` | No |
 | `meme.technology` | No |
 | `memecorporation.de` | No |
+| `memedecarbono.com.br` | No |
 | `memefirst.social` | No |
 | `memehub.eu` | Yes |
 | `memelords.zone` | Yes |
@@ -32307,6 +32311,7 @@ Here's a list of public Fediverse services.
 | `octodon.social` | No |
 | `octofloofy.ink` | Yes |
 | `octoling.ink` | Yes |
+| `octopusx.de` | Yes |
 | `octosrv.me` | Yes |
 | `octoturt.net` | No |
 | `octt.eu.org` | No |
@@ -35142,6 +35147,7 @@ Here's a list of public Fediverse services.
 | `polycephalypunk.moe` | No |
 | `polycule.club` | Yes |
 | `polycycle.io` | No |
+| `polydora.de` | No |
 | `polyglot.city` | No |
 | `polyglot.network` | Yes |
 | `polygon.rocks` | No |
@@ -35922,6 +35928,7 @@ Here's a list of public Fediverse services.
 | `purgatos.online` | No |
 | `puri.sm` | No |
 | `puritan.pub` | Yes |
+| `purple-horizon-clan.net` | No |
 | `purple.flowers` | No |
 | `purple.ist` | Yes |
 | `purpleforest.social` | No |
@@ -39746,6 +39753,7 @@ Here's a list of public Fediverse services.
 | `shanske.com` | No |
 | `shanti.cafe` | No |
 | `shantih19.xyz` | No |
+| `shao.life` | Yes |
 | `shaped-like.rocks` | No |
 | `shapovalov.tech` | No |
 | `share.tube` | No |
@@ -44358,6 +44366,7 @@ Here's a list of public Fediverse services.
 | `theultraworld.org` | No |
 | `theunconventionalgardener.com` | No |
 | `theundead.cricket` | No |
+| `theunderground.social` | No |
 | `theunseen.city` | No |
 | `theunwashed.org` | No |
 | `theup.link` | No |
@@ -45520,6 +45529,7 @@ Here's a list of public Fediverse services.
 | `travelpandas.fr` | No |
 | `travelpandas.xyz` | No |
 | `travelsoftux.co.uk` | No |
+| `travisbriggs.com` | No |
 | `travisestell.com` | No |
 | `travisshears.xyz` | No |
 | `travisthieman.com` | Yes |
@@ -50704,8 +50714,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,383 |
-| Normal | 36,273 |
+| Cloudflare | 14,386 |
+| Normal | 36,280 |
 
 
 </details>
