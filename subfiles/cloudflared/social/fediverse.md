@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,006 |
-| social | 4,671 |
+| social | 4,672 |
 | net | 3,948 |
 | org | 2,644 |
 | de | 2,486 |
@@ -34374,6 +34374,7 @@ Here's a list of public Fediverse services.
 | `photocave.net` | No |
 | `photodn.net` | No |
 | `photodon.org` | No |
+| `photofeed.social` | Yes |
 | `photog.social` | No |
 | `photogabble.co.uk` | No |
 | `photographer.pro` | No |
@@ -42275,7 +42276,7 @@ Here's a list of public Fediverse services.
 | `stuffingyourfaceasusual.lol` | Yes |
 | `stuffmaker.club` | No |
 | `stufftoread.com` | No |
-| `stuible.cloud` | No |
+| `stuible.cloud` | Yes |
 | `stuifbergen.com` | No |
 | `stuipd.cloud` | No |
 | `stultus.net` | Yes |
@@ -50714,8 +50715,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,386 |
-| Normal | 36,280 |
+| Cloudflare | 14,388 |
+| Normal | 36,279 |
 
 
 </details>
