@@ -28379,6 +28379,7 @@ Here's a list of public Fediverse services.
 | `misanthropy.wang` | No |
 | `misc.name` | No |
 | `miscellanea-numerica.fr` | Yes |
+| `miscellanea.io` | Yes |
 | `mischivous.com` | No |
 | `miscworks.net` | No |
 | `misell.cymru` | Yes |
@@ -50722,7 +50723,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,390 |
+| Cloudflare | 14,391 |
 | Normal | 36,284 |
 
 
