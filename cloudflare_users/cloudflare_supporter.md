@@ -3779,6 +3779,7 @@ Do not create new issue or we will close it as duplicate.
 | [Exito51051708@twitter](https://twitter.com/Exito51051708/status/1385425775751401478) | advertise |
 | [exoLchokyithar@twitter](https://twitter.com/exoLchokyithar/status/1383974311803854848) | advertise |
 | [EXOSC67901907@twitter](https://twitter.com/EXOSC67901907/status/1399753533700726785) | advertise |
+| [exostar666@twitter](https://twitter.com/exostar666/status/1726365299744952342) | advertise |
 | [exo_omma@twitter](https://twitter.com/exo_omma/status/1401226015817428998) | advertise |
 | [exploitmann@twitter](https://twitter.com/exploitmann/status/1718900441855983828) | advertise |
 | [exwezaz@twitter](https://twitter.com/exwezaz/status/1571655497371222016) | advertise |
@@ -11059,6 +11060,7 @@ Do not create new issue or we will close it as duplicate.
 | [radpaluszak@twitter](https://twitter.com/radpaluszak/status/1398323773435265028) | advertise |
 | [radrohamymailc1@twitter](https://twitter.com/radrohamymailc1/status/1494955192973942785) | advertise |
 | [radthebad007@twitter](https://twitter.com/radthebad007/status/1395685973443452929) | advertise |
+| [Rafael43027490@twitter](https://twitter.com/Rafael43027490/status/1726367998997332465) | advertise |
 | [RafaelEugenioD2@twitter](https://twitter.com/RafaelEugenioD2/status/1597368695298600961) | advertise |
 | [rafinmariam5656@twitter](https://twitter.com/rafinmariam5656/status/1564864639422590978) | advertise |
 | [ragab1234341@twitter](https://twitter.com/ragab1234341/status/1392273173442408448) | advertise |
