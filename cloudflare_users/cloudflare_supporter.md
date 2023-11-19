@@ -2106,6 +2106,7 @@ Do not create new issue or we will close it as duplicate.
 | [BrendanDattili2@twitter](https://twitter.com/BrendanDattili2/status/1532100998252093446) | advertise |
 | [BrendanGaldes3@twitter](https://twitter.com/BrendanGaldes3/status/1712179526594416773) | advertise |
 | [BrettSlaski@twitter](https://twitter.com/BrettSlaski/status/1454647204342288385) | advertise |
+| [breylaude@twitter](https://twitter.com/breylaude/status/1726152763837763741) | advertise |
 | [BrianAlaway@twitter](https://twitter.com/BrianAlaway/status/1411048803336138754) | moral (advertise) |
 | [brianjaikens@twitter](https://twitter.com/brianjaikens/status/1553345364425596929) | advertise |
 | [BrianPotatoNSFW@twitter](https://twitter.com/BrianPotatoNSFW/status/1558778006113374208) | advertise |
