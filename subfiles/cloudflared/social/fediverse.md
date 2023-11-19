@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,003 |
+| com | 8,004 |
 | social | 4,670 |
 | net | 3,947 |
 | org | 2,644 |
@@ -6433,7 +6433,7 @@ Here's a list of public Fediverse services.
 | `camera-don.com` | No |
 | `camerondcampbell.blog` | No |
 | `cameronheard.com` | No |
-| `cameronmonagle.com` | No |
+| `cameronmonagle.com` | Yes |
 | `cameronseid.com` | Yes |
 | `cametleon.me` | No |
 | `camglobe.social` | No |
@@ -23418,6 +23418,7 @@ Here's a list of public Fediverse services.
 | `kurosawa.moe` | No |
 | `kuroserver.net` | No |
 | `kurosuke.org` | No |
+| `kurotanesou.com` | No |
 | `kurotanesou.online` | Yes |
 | `kurotoshi-cat.me` | No |
 | `kurry.social` | Yes |
@@ -50703,7 +50704,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,382 |
+| Cloudflare | 14,383 |
 | Normal | 36,273 |
 
 
