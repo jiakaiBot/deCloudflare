@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [problems with Uptime-Kuma mod](https://github.com/linuxserver/docker-mods/issues/789)
 - [kutt.it url for download broken](https://github.com/yuliskov/SmartTube/issues/3041)
 - [Access denied Error code 1020](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/19037)
 - [Telegram Trigger Error](https://github.com/n8n-io/n8n/issues/7756)
