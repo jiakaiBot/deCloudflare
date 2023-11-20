@@ -1820,6 +1820,7 @@ Do not create new issue or we will close it as duplicate.
 | [bharath4398@twitter](https://twitter.com/bharath4398/status/1400117150677823491) | advertise |
 | [Bharathi27003@twitter](https://twitter.com/Bharathi27003/status/1386955481361502210) | advertise |
 | [Bharat_v3@twitter](https://twitter.com/Bharat_v3/status/1534588685156765696) | advertise |
+| [bhartiya_pritam@twitter](https://twitter.com/bhartiya_pritam/status/1726465815325929532) | advertise |
 | [Bhaskar67661279@twitter](https://twitter.com/Bhaskar67661279/status/1383362423843786752) | advertise |
 | [bhaskaruppar369@twitter](https://twitter.com/bhaskaruppar369/status/1505471134858620930) | advertise |
 | [BhimeshG6@twitter](https://twitter.com/BhimeshG6/status/1377508173465051143) | advertise |
@@ -1907,6 +1908,7 @@ Do not create new issue or we will close it as duplicate.
 | [bitclaw@twitter](https://twitter.com/bitclaw/status/1650887501479829505) | advertise |
 | [BitconTai@twitter](https://twitter.com/BitconTai/status/1619687927411523586) | advertise |
 | [bitdotcoin@twitter](https://twitter.com/bitdotcoin/status/1378723169066967042) | advertise |
+| [bithichbuloz@twitter](https://twitter.com/bithichbuloz/status/1726488220136079578) | advertise |
 | [BiTinThanh3@twitter](https://twitter.com/BiTinThanh3/status/1621835380810215425) | advertise |
 | [BitMagge@twitter](https://twitter.com/BitMagge/status/1571636052884062208) | advertise |
 | [bits121787@twitter](https://twitter.com/bits121787/status/1725340728216474014) | advertise |
@@ -2038,6 +2040,7 @@ Do not create new issue or we will close it as duplicate.
 | [BonaErwin@twitter](https://twitter.com/BonaErwin/status/1488978738066771974) | advertise |
 | [BoneyTusha67237@twitter](https://twitter.com/BoneyTusha67237/status/1704851251706675462) | advertise |
 | [BonfireZone@twitter](https://twitter.com/BonfireZone/status/1432302355488329733) | advertise |
+| [bongbeomapdit@twitter](https://twitter.com/bongbeomapdit/status/1726485598306005352) | advertise |
 | [BoNguyn18755040@twitter](https://twitter.com/BoNguyn18755040/status/1714976041125466213) | advertise |
 | [bonguyn29688521@twitter](https://twitter.com/bonguyn29688521/status/1402308865257918465) | advertise |
 | [BonifaceVivo@twitter](https://twitter.com/BonifaceVivo/status/1596592029613424640) | advertise |
@@ -10719,6 +10722,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pooh77732056@twitter](https://twitter.com/Pooh77732056/status/1378258475097055234) | advertise |
 | [Pookie5552@twitter](https://twitter.com/Pookie5552/status/1396760560037863424) | advertise |
 | [poopers6399@twitter](https://twitter.com/poopers6399/status/1392869085457776644) | advertise |
+| [poopiefartsz@twitter](https://twitter.com/poopiefartsz/status/1726485097124336088) | advertise |
 | [pooyanasiri80@twitter](https://twitter.com/pooyanasiri80/status/1657449573390901248) | advertise |
 | [popo16236983@twitter](https://twitter.com/popo16236983/status/1603857294416285696) | advertise |
 | [PopperThanh@twitter](https://twitter.com/PopperThanh/status/1388014796772102147) | advertise |
