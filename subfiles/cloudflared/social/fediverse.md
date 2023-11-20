@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,010 |
+| com | 8,011 |
 | social | 4,672 |
-| net | 3,949 |
+| net | 3,950 |
 | org | 2,644 |
-| de | 2,488 |
+| de | 2,489 |
 
 
 - Mastodon, Pleroma, etc
@@ -6338,6 +6338,7 @@ Here's a list of public Fediverse services.
 | `cadusilva.com` | Yes |
 | `caelin.cloud` | No |
 | `cafe-nightmist.net` | No |
+| `cafe.kim` | No |
 | `cafedeslibertes.org` | No |
 | `cafeludwig.com` | Yes |
 | `cafemilk.moe` | Yes |
@@ -15659,6 +15660,7 @@ Here's a list of public Fediverse services.
 | `futaba-works.com` | Yes |
 | `futaba.social` | No |
 | `futabachannel.com` | No |
+| `futarino.online` | Yes |
 | `futen.work` | No |
 | `futex.au` | No |
 | `futile.life` | No |
@@ -16284,6 +16286,7 @@ Here's a list of public Fediverse services.
 | `geoff-parker.com` | No |
 | `geoffdunham.photo` | Yes |
 | `geoffray-levasseur.org` | No |
+| `geoffreyconley.xyz` | No |
 | `geoffreysperl.com` | Yes |
 | `geofox.org` | Yes |
 | `geofront.rocks` | No |
@@ -30855,6 +30858,7 @@ Here's a list of public Fediverse services.
 | `netzwerk-gemeinsinn.org` | No |
 | `netzwerk-it.org` | No |
 | `netzwissen.de` | No |
+| `netzwissen.eu` | No |
 | `neubau.social` | No |
 | `neuberger.dev` | No |
 | `neue.city` | No |
@@ -37140,6 +37144,7 @@ Here's a list of public Fediverse services.
 | `reika-smapuri.com` | No |
 | `reil.de` | No |
 | `reima.rocks` | No |
+| `reimaginedgirl.com` | No |
 | `reimalab.art` | No |
 | `reimu.download` | Yes |
 | `reimu.info` | Yes |
@@ -39468,6 +39473,7 @@ Here's a list of public Fediverse services.
 | `selbach.ca` | No |
 | `selbach.dev` | No |
 | `selbach.social` | No |
+| `selbstgehostet.de` | No |
 | `selbsthilfe.social` | No |
 | `selbsthilfewerkstatt-lankwitz.de` | No |
 | `selbstlernserver.de` | No |
@@ -47660,6 +47666,7 @@ Here's a list of public Fediverse services.
 | `voidwork.space` | No |
 | `voidworks.cc` | No |
 | `voip.social` | No |
+| `voivoi.net` | No |
 | `vol.red` | Yes |
 | `volaras.net` | No |
 | `volcanocoffee.monster` | Yes |
@@ -50730,8 +50737,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,396 |
-| Normal | 36,286 |
+| Cloudflare | 14,397 |
+| Normal | 36,292 |
 
 
 </details>
