@@ -21556,6 +21556,7 @@ Here's a list of public Fediverse services.
 | `jrm.cc` | Yes |
 | `jrmora.com` | Yes |
 | `jrmyr.net` | Yes |
+| `jrpg.town` | No |
 | `jrruethe.info` | Yes |
 | `jrwren.dev` | No |
 | `js.social` | Yes |
@@ -50727,7 +50728,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,394 |
-| Normal | 36,284 |
+| Normal | 36,285 |
 
 
 </details>
