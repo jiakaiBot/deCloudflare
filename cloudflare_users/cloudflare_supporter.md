@@ -3754,6 +3754,7 @@ Do not create new issue or we will close it as duplicate.
 | [EthanAllen7021@twitter](https://twitter.com/EthanAllen7021/status/1598070809355964416) | advertise |
 | [ethanhoward_06@twitter](https://twitter.com/ethanhoward_06/status/1614421715576143872) | advertise |
 | [ethiopianlions@twitter](https://twitter.com/ethiopianlions/status/1503139799699492870) | advertise |
+| [Ethiopian_Musi@twitter](https://twitter.com/Ethiopian_Musi/status/1726518263428038703) | advertise |
 | [ethnikiantistas@twitter](https://twitter.com/ethnikiantistas/status/1561050463788830721) | advertise |
 | [eth_blaze@twitter](https://twitter.com/eth_blaze/status/1553908650443509760) | advertise |
 | [EugeneBos1@twitter](https://twitter.com/EugeneBos1/status/1505982810250952705) | advertise |
@@ -10781,6 +10782,7 @@ Do not create new issue or we will close it as duplicate.
 | [pratikcparmar@twitter](https://twitter.com/pratikcparmar/status/1695006417353429078) | advertise |
 | [PratikM35193168@twitter](https://twitter.com/PratikM35193168/status/1402122232919326722) | advertise |
 | [pratik_h6i@twitter](https://twitter.com/pratik_h6i/status/1394961934454231043) | advertise |
+| [pratumtip777@twitter](https://twitter.com/pratumtip777/status/1726527601303519339) | advertise |
 | [PravallikaRapa1@twitter](https://twitter.com/PravallikaRapa1/status/1559961205841747970) | advertise |
 | [praveen65435@twitter](https://twitter.com/praveen65435/status/1384909257448038400) | advertise |
 | [Praveen23654694@twitter](https://twitter.com/Praveen23654694/status/1398926546212032515) | advertise |
@@ -12623,6 +12625,7 @@ Do not create new issue or we will close it as duplicate.
 | [SunShin97584842@twitter](https://twitter.com/SunShin97584842/status/1389530061120831489) | advertise |
 | [sunskyxh@twitter](https://twitter.com/sunskyxh/status/1635904652578521088) | advertise |
 | [Sunti64023767@twitter](https://twitter.com/Sunti64023767/status/1395120838727245825) | advertise |
+| [suntuananh@twitter](https://twitter.com/suntuananh/status/1726542464071455006) | advertise |
 | [Sup31571142@twitter](https://twitter.com/Sup31571142/status/1686081492030754816) | advertise |
 | [superayc@twitter](https://twitter.com/superayc/status/1385426760506826756) | advertise |
 | [SuperDhyaz@twitter](https://twitter.com/SuperDhyaz/status/1555238947294289922) | advertise |
