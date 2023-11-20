@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,007 |
+| com | 8,008 |
 | social | 4,672 |
 | net | 3,949 |
 | org | 2,644 |
-| de | 2,487 |
+| de | 2,488 |
 
 
 - Mastodon, Pleroma, etc
@@ -21588,7 +21588,7 @@ Here's a list of public Fediverse services.
 | `jtn.us` | No |
 | `jtown.xyz` | No |
 | `jtrem.com` | Yes |
-| `jtrem.me` | No |
+| `jtrem.me` | Yes |
 | `jtut.io` | No |
 | `jtworld.net` | No |
 | `jtworld.xyz` | No |
@@ -22166,6 +22166,7 @@ Here's a list of public Fediverse services.
 | `kawaiyume.net` | No |
 | `kawakawa.fun` | Yes |
 | `kawamr.com` | No |
+| `kawanamidaiki.com` | No |
 | `kawane.icu` | Yes |
 | `kawasaki-city.social` | No |
 | `kawauso.ml` | No |
@@ -26266,6 +26267,7 @@ Here's a list of public Fediverse services.
 | `marco.network` | No |
 | `marcoabis.it` | No |
 | `marcogiorgio.net` | Yes |
+| `marcohayek.de` | Yes |
 | `marcoraaphorst.nl` | No |
 | `marcorennmaus.de` | Yes |
 | `marcosalmeida.dev` | No |
@@ -32480,6 +32482,7 @@ Here's a list of public Fediverse services.
 | `ohno.moe` | No |
 | `ohnoim.online` | No |
 | `ohnomy.rocks` | No |
+| `ohs.cx` | Yes |
 | `ohsan.cc` | Yes |
 | `ohsb.net` | Yes |
 | `ohyo.cloud` | No |
@@ -50723,7 +50726,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,391 |
+| Cloudflare | 14,394 |
 | Normal | 36,284 |
 
 
