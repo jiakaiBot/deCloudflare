@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,008 |
+| com | 8,009 |
 | social | 4,672 |
 | net | 3,949 |
 | org | 2,644 |
@@ -13258,6 +13258,7 @@ Here's a list of public Fediverse services.
 | `extradienst.net` | No |
 | `extramuralactivity.com` | No |
 | `extraordinarygeeks.social` | No |
+| `extrasentido.com` | No |
 | `extratone.com` | No |
 | `extratone.online` | Yes |
 | `extremecameo.website` | No |
@@ -27955,7 +27956,7 @@ Here's a list of public Fediverse services.
 | `michaelhans.com` | No |
 | `michaelhofer.ch` | No |
 | `michaeljdeeb.com` | Yes |
-| `michaelkupietz.com` | No |
+| `michaelkupietz.com` | Yes |
 | `michaelmissing.com` | No |
 | `michaelofstjoseph.com` | No |
 | `michaeloldroyd.co.uk` | Yes |
@@ -50727,7 +50728,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,394 |
+| Cloudflare | 14,395 |
 | Normal | 36,285 |
 
 
