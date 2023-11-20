@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,011 |
+| com | 8,012 |
 | social | 4,672 |
 | net | 3,950 |
 | org | 2,645 |
-| de | 2,489 |
+| de | 2,490 |
 
 
 - Mastodon, Pleroma, etc
@@ -13209,6 +13209,7 @@ Here's a list of public Fediverse services.
 | `exkc.moe` | Yes |
 | `exma.de` | No |
 | `exmm.top` | Yes |
+| `exmoorfoodfest.com` | No |
 | `exmormon.social` | No |
 | `exmosis.net` | No |
 | `exo.cat` | No |
@@ -24038,6 +24039,7 @@ Here's a list of public Fediverse services.
 | `leatherdyk.es` | No |
 | `leathfam.com` | Yes |
 | `leavesunderfoot.com` | Yes |
+| `leavingorbit.de` | No |
 | `lebalkon.de` | No |
 | `lebe.gg` | No |
 | `lebeaunuage.net` | No |
@@ -28945,6 +28947,7 @@ Here's a list of public Fediverse services.
 | `monoweb.jp` | No |
 | `monoxyd.de` | No |
 | `monporte.de` | No |
+| `monrepos.casa` | Yes |
 | `monrepos.online` | Yes |
 | `monroemi.us` | No |
 | `monsieur-a.fr` | No |
@@ -50740,8 +50743,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,400 |
-| Normal | 36,292 |
+| Cloudflare | 14,401 |
+| Normal | 36,294 |
 
 
 </details>
