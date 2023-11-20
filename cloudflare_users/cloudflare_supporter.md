@@ -758,6 +758,7 @@ Do not create new issue or we will close it as duplicate.
 | [alsahafaymon@twitter](https://twitter.com/alsahafaymon/status/1713330450947850531) | advertise |
 | [AlsamiDr@twitter](https://twitter.com/AlsamiDr/status/1390431366794432516) | advertise |
 | [AlsukaitiK17984@twitter](https://twitter.com/AlsukaitiK17984/status/1689632727342206977) | advertise |
+| [alta2851@twitter](https://twitter.com/alta2851/status/1726697458628178339) | advertise |
 | [AltafBh79770188@twitter](https://twitter.com/AltafBh79770188/status/1400425714541756416) | advertise |
 | [AltafKh41893270@twitter](https://twitter.com/AltafKh41893270/status/1705904476471874016) | advertise |
 | [Altan41272744@twitter](https://twitter.com/Altan41272744/status/1379740295429038083) | advertise |
@@ -12406,6 +12407,7 @@ Do not create new issue or we will close it as duplicate.
 | [SonLeManh163586@twitter](https://twitter.com/SonLeManh163586/status/1687366404637638656) | advertise |
 | [sonlu14654722@twitter](https://twitter.com/sonlu14654722/status/1400477010179235842) | advertise |
 | [SonNgoc82244972@twitter](https://twitter.com/SonNgoc82244972/status/1603285673339154432) | advertise |
+| [SonNguyen176745@twitter](https://twitter.com/SonNguyen176745/status/1726698379277967792) | advertise |
 | [SonPham47707692@twitter](https://twitter.com/SonPham47707692/status/1620887365484183552) | advertise |
 | [SonPhung888@twitter](https://twitter.com/SonPhung888/status/1642280037893406721) | advertise |
 | [SONSOFAFRIKA@twitter](https://twitter.com/SONSOFAFRIKA/status/1631774261722374150) | advertise |
