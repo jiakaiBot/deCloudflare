@@ -28371,6 +28371,7 @@ Here's a list of public Fediverse services.
 | `mirucha.net` | Yes |
 | `miruku.cafe` | Yes |
 | `mirumu.net` | No |
+| `mirus.club` | No |
 | `mirwarso.de` | Yes |
 | `mirza.ee` | No |
 | `mis.ski` | Yes |
@@ -50747,7 +50748,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,407 |
-| Normal | 36,291 |
+| Normal | 36,292 |
 
 
 </details>
