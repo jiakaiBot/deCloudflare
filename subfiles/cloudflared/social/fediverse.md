@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,012 |
+| com | 8,013 |
 | social | 4,672 |
 | net | 3,950 |
 | org | 2,646 |
@@ -6580,6 +6580,7 @@ Here's a list of public Fediverse services.
 | `cariad.social` | Yes |
 | `caribe.social` | Yes |
 | `caric.io` | No |
+| `caricatures-ireland.com` | No |
 | `caricio.com` | No |
 | `carl.fish` | No |
 | `carlesbellver.net` | No |
@@ -42289,6 +42290,7 @@ Here's a list of public Fediverse services.
 | `studentchristianmovement.social` | No |
 | `studentmain.com` | No |
 | `studio10b.nyc` | Yes |
+| `studio8502.ca` | No |
 | `studio92.nl` | No |
 | `studiofreesia.com` | No |
 | `studiohill.farm` | Yes |
@@ -50748,7 +50750,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,407 |
-| Normal | 36,292 |
+| Normal | 36,294 |
 
 
 </details>
