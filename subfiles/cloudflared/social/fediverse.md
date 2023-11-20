@@ -19099,7 +19099,7 @@ Here's a list of public Fediverse services.
 | `hugh.buzz` | No |
 | `hugh.run` | No |
 | `hughlashbrooke.com` | Yes |
-| `huginn.dev` | No |
+| `huginn.dev` | Yes |
 | `huginn.uk` | No |
 | `hugolaloge.fr` | No |
 | `hugolecourt.fr` | No |
@@ -30733,6 +30733,7 @@ Here's a list of public Fediverse services.
 | `nerdyfam.tech` | Yes |
 | `nerdynate.app` | Yes |
 | `nerdynate.com` | Yes |
+| `nerdynate.io` | Yes |
 | `nerdynate.live` | Yes |
 | `nerdzoom.media` | No |
 | `nere.social` | No |
@@ -50744,8 +50745,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,405 |
-| Normal | 36,291 |
+| Cloudflare | 14,407 |
+| Normal | 36,290 |
 
 
 </details>
