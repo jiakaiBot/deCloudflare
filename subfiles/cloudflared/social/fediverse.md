@@ -18692,7 +18692,7 @@ Here's a list of public Fediverse services.
 | `hoga.fr` | No |
 | `hoge-poyo.moe` | No |
 | `hoge.cloud` | Yes |
-| `hogehuga.com` | No |
+| `hogehuga.com` | Yes |
 | `hogenkamp.com` | No |
 | `hogh.tk` | No |
 | `hogpot.org` | No |
@@ -21576,6 +21576,7 @@ Here's a list of public Fediverse services.
 | `jsirish.social` | No |
 | `jskherman.com` | Yes |
 | `jsna.dev` | Yes |
+| `jsnc.us` | Yes |
 | `jsnfwlr.ninja` | Yes |
 | `jsnordmann.de` | Yes |
 | `jsommer.org` | No |
@@ -40351,6 +40352,7 @@ Here's a list of public Fediverse services.
 | `siteop.biz` | No |
 | `sitesource.be` | No |
 | `siteyui.site` | No |
+| `sith.is` | No |
 | `sittig.io` | No |
 | `sitwell.dev` | Yes |
 | `sivar.cafe` | No |
@@ -47899,7 +47901,7 @@ Here's a list of public Fediverse services.
 | `wacky.town` | Yes |
 | `wackyneighbor.com` | No |
 | `wackywolf.xyz` | Yes |
-| `wadetregaskis.com` | No |
+| `wadetregaskis.com` | Yes |
 | `wadjnetech.industries` | Yes |
 | `wadoryu.social` | No |
 | `wadza.fr` | No |
@@ -50738,8 +50740,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,397 |
-| Normal | 36,293 |
+| Cloudflare | 14,400 |
+| Normal | 36,292 |
 
 
 </details>
