@@ -8198,6 +8198,7 @@ Here's a list of public Fediverse services.
 | `communists.world` | No |
 | `communitarium.org` | No |
 | `community-patriots.social` | Yes |
+| `communitymedia.network` | No |
 | `communitymedia.video` | No |
 | `communitynetwork.us` | No |
 | `comnetcomdotnet.org` | No |
@@ -50729,7 +50730,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,395 |
-| Normal | 36,285 |
+| Normal | 36,286 |
 
 
 </details>
