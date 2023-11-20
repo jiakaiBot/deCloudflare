@@ -7513,6 +7513,7 @@ Do not create new issue or we will close it as duplicate.
 | [Live1xSlot@twitter](https://twitter.com/Live1xSlot/status/1419205739466280960) | advertise |
 | [Livecountslol@twitter](https://twitter.com/Livecountslol/status/1641158605498884096) | advertise |
 | [livecountsnl@twitter](https://twitter.com/livecountsnl/status/1563512113221742592) | advertise |
+| [LiveKhoi25970@twitter](https://twitter.com/LiveKhoi25970/status/1726585486263890257) | advertise |
 | [livestosimp@twitter](https://twitter.com/livestosimp/status/1633513214632923136) | advertise |
 | [live_techy@twitter](https://twitter.com/live_techy/status/1377628619380510730) | advertise |
 | [livingstaccato@twitter](https://twitter.com/livingstaccato/status/1585867639553163265) | advertise |
