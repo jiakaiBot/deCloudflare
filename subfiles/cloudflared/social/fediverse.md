@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,009 |
+| com | 8,010 |
 | social | 4,672 |
 | net | 3,949 |
 | org | 2,644 |
@@ -13921,7 +13921,7 @@ Here's a list of public Fediverse services.
 | `fedistat.com` | No |
 | `fedit.io` | No |
 | `feditalk.com` | No |
-| `fedithese.fr` | No |
+| `fedithese.fr` | Yes |
 | `fedithese.net` | No |
 | `feditime.com` | No |
 | `feditown.com` | No |
@@ -28422,6 +28422,7 @@ Here's a list of public Fediverse services.
 | `misskey-experiment.tokyo` | No |
 | `misskey-forkbomb.cf` | Yes |
 | `misskey-iriam.net` | No |
+| `misskey-pechoco.com` | No |
 | `misskey-square.net` | Yes |
 | `misskey-sugartarou.com` | Yes |
 | `misskey.ai` | No |
@@ -50729,7 +50730,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,395 |
+| Cloudflare | 14,396 |
 | Normal | 36,286 |
 
 
