@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,672 |
 | net | 3,950 |
 | org | 2,645 |
-| de | 2,490 |
+| de | 2,491 |
 
 
 - Mastodon, Pleroma, etc
@@ -6032,7 +6032,7 @@ Here's a list of public Fediverse services.
 | `bufalo.me` | Yes |
 | `bufanda.de` | Yes |
 | `buffa.lol` | No |
-| `buffalomesh.net` | No |
+| `buffalomesh.net` | Yes |
 | `buffalopugs.org` | Yes |
 | `bug-fix.net` | No |
 | `bug.expert` | Yes |
@@ -11606,7 +11606,7 @@ Here's a list of public Fediverse services.
 | `dt-info.com` | No |
 | `dt.gl` | No |
 | `dtalens.com` | No |
-| `dtluna.net` | No |
+| `dtluna.net` | Yes |
 | `dtp-mstdn.jp` | Yes |
 | `dtrautwein.eu` | No |
 | `dtris.moe` | No |
@@ -18634,7 +18634,7 @@ Here's a list of public Fediverse services.
 | `hmn.ist` | No |
 | `hmpf.club` | Yes |
 | `hmr.sh` | Yes |
-| `hnaportal.net` | No |
+| `hnaportal.net` | Yes |
 | `hncj.me` | No |
 | `hngh.io` | No |
 | `hnnng.space` | No |
@@ -32845,7 +32845,7 @@ Here's a list of public Fediverse services.
 | `open2ch.net` | Yes |
 | `open3dlab.com` | No |
 | `open3dlab.social` | No |
-| `openaiken.net` | No |
+| `openaiken.net` | Yes |
 | `openalgeria.org` | Yes |
 | `openandcurious.org` | Yes |
 | `openbargel.com` | No |
@@ -43674,6 +43674,7 @@ Here's a list of public Fediverse services.
 | `tentonic.de` | No |
 | `teo.io` | No |
 | `teo.pt` | Yes |
+| `teomahk.de` | No |
 | `teotech.xyz` | No |
 | `tep.social` | No |
 | `tepbyte.dev` | Yes |
@@ -50743,8 +50744,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,401 |
-| Normal | 36,294 |
+| Cloudflare | 14,405 |
+| Normal | 36,291 |
 
 
 </details>
