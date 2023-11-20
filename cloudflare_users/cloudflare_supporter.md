@@ -8096,6 +8096,7 @@ Do not create new issue or we will close it as duplicate.
 | [mATAsBokaklIPdM@twitter](https://twitter.com/mATAsBokaklIPdM/status/1394944549911359497) | advertise |
 | [matfitt@twitter](https://twitter.com/matfitt/status/1386357122070310912) | advertise |
 | [mathias777_2002@twitter](https://twitter.com/mathias777_2002/status/1609466968494510082) | advertise |
+| [Mathovore_@twitter](https://twitter.com/Mathovore_/status/1726408917922488804) | advertise |
 | [MatiusThai@twitter](https://twitter.com/MatiusThai/status/1687648076549550080) | advertise |
 | [Matnipp93_@twitter](https://twitter.com/Matnipp93_/status/1544927051458953216) | advertise |
 | [MatnXPharis@twitter](https://twitter.com/MatnXPharis/status/1501580663169839109) | advertise |
@@ -10770,6 +10771,7 @@ Do not create new issue or we will close it as duplicate.
 | [PP74284531@twitter](https://twitter.com/PP74284531/status/1398910741277593604) | advertise |
 | [PPaodon@twitter](https://twitter.com/PPaodon/status/1401194836405874689) | advertise |
 | [pplcoin@twitter](https://twitter.com/pplcoin/status/1505982514623619080) | advertise |
+| [ppond1990@twitter](https://twitter.com/ppond1990/status/1726711126388543880) | advertise |
 | [pppaii@twitter](https://twitter.com/pppaii/status/1384511397363556360) | advertise |
 | [pppeuusu@twitter](https://twitter.com/pppeuusu/status/1575894254765101057) | advertise |
 | [PppooiiuuyyP@twitter](https://twitter.com/PppooiiuuyyP/status/1564040885658157062) | advertise |
