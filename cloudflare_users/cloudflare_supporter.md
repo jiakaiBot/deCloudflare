@@ -6807,6 +6807,7 @@ Do not create new issue or we will close it as duplicate.
 | [kngslyio@twitter](https://twitter.com/kngslyio/status/1701522986623553867) | advertise |
 | [knn145@twitter](https://twitter.com/knn145/status/1560467875227631616) | advertise |
 | [KNRNeo@twitter](https://twitter.com/KNRNeo/status/1723382988824842279) | advertise |
+| [KnsIsp88992@twitter](https://twitter.com/KnsIsp88992/status/1723749569543155990) | advertise |
 | [Ko29699364@twitter](https://twitter.com/Ko29699364/status/1391248483504451585) | advertise |
 | [Ko41120141@twitter](https://twitter.com/Ko41120141/status/1391636326781394945) | advertise |
 | [Ko43429299@twitter](https://twitter.com/Ko43429299/status/1391426962044846083) | advertise |
@@ -8236,6 +8237,7 @@ Do not create new issue or we will close it as duplicate.
 | [Measillife@twitter](https://twitter.com/Measillife/status/1578481781246144512) | advertise |
 | [med61883332@twitter](https://twitter.com/med61883332/status/1439010726480420871) | advertise |
 | [MedagliaEugenio@twitter](https://twitter.com/MedagliaEugenio/status/1585087836952596480) | advertise |
+| [MediaverseLand@twitter](https://twitter.com/MediaverseLand/status/1726563676382183433) | advertise |
 | [medician001@twitter](https://twitter.com/medician001/status/1658785266247643136) | advertise |
 | [MedioFernando1@twitter](https://twitter.com/MedioFernando1/status/1583166691798036482) | advertise |
 | [Medk1231@twitter](https://twitter.com/Medk1231/status/1554983422879219712) | advertise |
@@ -9797,6 +9799,7 @@ Do not create new issue or we will close it as duplicate.
 | [nitikeshpole1@twitter](https://twitter.com/nitikeshpole1/status/1385856478167244801) | advertise |
 | [NitishK83635660@twitter](https://twitter.com/NitishK83635660/status/1447557117599105028) | advertise |
 | [NitiSinghTomar1@twitter](https://twitter.com/NitiSinghTomar1/status/1376880690516660226) | advertise |
+| [NitroGTR795@twitter](https://twitter.com/NitroGTR795/status/1726562884342468739) | advertise |
 | [nitrojrd@twitter](https://twitter.com/nitrojrd/status/1641175551909019658) | advertise |
 | [nittaione@twitter](https://twitter.com/nittaione/status/1670000343319736320) | advertise |
 | [Niv_mor@twitter](https://twitter.com/Niv_mor/status/1399756042590904325) | advertise |
