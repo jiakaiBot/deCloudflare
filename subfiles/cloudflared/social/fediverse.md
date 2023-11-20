@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,011 |
 | social | 4,672 |
 | net | 3,950 |
-| org | 2,644 |
+| org | 2,645 |
 | de | 2,489 |
 
 
@@ -1477,6 +1477,7 @@ Here's a list of public Fediverse services.
 | `aioo.ooo` | No |
 | `aiparadise.moe` | No |
 | `aipi.social` | No |
+| `aipioneers.org` | No |
 | `aipub.social` | No |
 | `aiquiral.me` | Yes |
 | `aiqwest.com` | No |
@@ -50738,7 +50739,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,397 |
-| Normal | 36,292 |
+| Normal | 36,293 |
 
 
 </details>
