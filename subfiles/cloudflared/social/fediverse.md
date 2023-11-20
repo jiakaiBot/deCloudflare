@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,012 |
 | social | 4,672 |
 | net | 3,950 |
-| org | 2,645 |
+| org | 2,646 |
 | de | 2,491 |
 
 
@@ -46738,6 +46738,7 @@ Here's a list of public Fediverse services.
 | `unsuspicious.website` | Yes |
 | `untan.xyz` | Yes |
 | `unteraffen.de` | Yes |
+| `unternet.org` | No |
 | `unterwaditzer.net` | Yes |
 | `until.cloud` | No |
 | `untildicedouspart.com` | Yes |
@@ -50746,7 +50747,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,407 |
-| Normal | 36,290 |
+| Normal | 36,291 |
 
 
 </details>
