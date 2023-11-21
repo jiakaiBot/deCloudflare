@@ -156,6 +156,7 @@ Do not create new issue or we will close it as duplicate.
 | [65akon@twitter](https://twitter.com/65akon/status/1537224409861484544) | advertise |
 | [68Mjd@twitter](https://twitter.com/68Mjd/status/1579154746451296256) | advertise |
 | [69Transylvania@twitter](https://twitter.com/69Transylvania/status/1468804258019659779) | advertise |
+| [72f390553a1c4b3@twitter](https://twitter.com/72f390553a1c4b3/status/1726801852937949629) | advertise |
 | [75Central@twitter](https://twitter.com/75Central/status/1630659926509887500) | advertise |
 | [77_naman@twitter](https://twitter.com/77_naman/status/1379437501786456065) | advertise |
 | [78NRC@twitter](https://twitter.com/78NRC/status/1611818270977568768) | advertise |
@@ -10487,6 +10488,7 @@ Do not create new issue or we will close it as duplicate.
 | [phipham1996@twitter](https://twitter.com/phipham1996/status/1394095455848435714) | advertise |
 | [phitakpri@twitter](https://twitter.com/phitakpri/status/1640019020937310209) | advertise |
 | [phk_chay@twitter](https://twitter.com/phk_chay/status/1685290477250347009) | advertise |
+| [PhlCi11139@twitter](https://twitter.com/PhlCi11139/status/1726882568803655946) | advertise |
 | [phm17582703@twitter](https://twitter.com/phm17582703/status/1621788104272273410) | advertise |
 | [PhmBo06199986@twitter](https://twitter.com/PhmBo06199986/status/1597133389454540800) | advertise |
 | [PhmChun95594174@twitter](https://twitter.com/PhmChun95594174/status/1579064424811630592) | advertise |
