@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,017 |
-| social | 4,673 |
-| net | 3,953 |
+| social | 4,674 |
+| net | 3,954 |
 | org | 2,648 |
-| de | 2,495 |
+| de | 2,496 |
 
 
 - Mastodon, Pleroma, etc
@@ -22667,6 +22667,7 @@ Here's a list of public Fediverse services.
 | `kinyutaka.com` | No |
 | `kio.moe` | Yes |
 | `kiobu.dev` | No |
+| `kiois.net` | No |
 | `kios.cc` | No |
 | `kippenbergs.de` | No |
 | `kipple.be` | Yes |
@@ -30725,6 +30726,7 @@ Here's a list of public Fediverse services.
 | `nerdington.de` | No |
 | `nerdistan.cloud` | No |
 | `nerdiverset.no` | Yes |
+| `nerdjunk.de` | No |
 | `nerdlings.club` | No |
 | `nerdlings.net` | Yes |
 | `nerdnet.ovh` | No |
@@ -47768,6 +47770,7 @@ Here's a list of public Fediverse services.
 | `vovard.net` | No |
 | `vox.social` | Yes |
 | `voxcry.pt` | No |
+| `voxer.social` | Yes |
 | `voxint.net` | Yes |
 | `voxint.pw` | No |
 | `voxmojo.com` | No |
@@ -50776,8 +50779,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,418 |
-| Normal | 36,310 |
+| Cloudflare | 14,419 |
+| Normal | 36,312 |
 
 
 </details>
