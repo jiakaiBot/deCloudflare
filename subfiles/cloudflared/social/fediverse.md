@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,013 |
 | social | 4,672 |
-| net | 3,950 |
+| net | 3,951 |
 | org | 2,646 |
 | de | 2,491 |
 
@@ -4625,6 +4625,7 @@ Here's a list of public Fediverse services.
 | `bibliothekarisch.info` | No |
 | `bibliotheksbubble.de` | No |
 | `biblioverse.online` | No |
+| `biblog.ch` | No |
 | `bibly.com` | No |
 | `bibo-de-blogger.com` | No |
 | `biborg.com` | No |
@@ -14825,6 +14826,7 @@ Here's a list of public Fediverse services.
 | `fort-da.xyz` | No |
 | `fortat.fr` | No |
 | `fortean.social` | No |
+| `forteller.net` | No |
 | `forth.ml` | No |
 | `forth.work` | No |
 | `forth.works` | No |
@@ -27467,7 +27469,7 @@ Here's a list of public Fediverse services.
 | `medibubble.org` | No |
 | `medic.cafe` | No |
 | `medic.rs` | Yes |
-| `medica.im` | No |
+| `medica.im` | Yes |
 | `medical.si` | Yes |
 | `medicaldon.jp` | No |
 | `medien.social` | No |
@@ -39408,6 +39410,7 @@ Here's a list of public Fediverse services.
 | `securitymastod.one` | Yes |
 | `securitypuppy.com` | Yes |
 | `securitysnakeoil.org` | No |
+| `securitytheater.art` | No |
 | `securitytheater.net` | No |
 | `securitywolfy.ninja` | No |
 | `secuwing.social` | No |
@@ -50750,8 +50753,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,407 |
-| Normal | 36,295 |
+| Cloudflare | 14,408 |
+| Normal | 36,297 |
 
 
 </details>
