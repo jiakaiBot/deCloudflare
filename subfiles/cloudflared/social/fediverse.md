@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,013 |
+| com | 8,017 |
 | social | 4,672 |
 | net | 3,951 |
 | org | 2,646 |
-| de | 2,492 |
+| de | 2,493 |
 
 
 - Mastodon, Pleroma, etc
@@ -4247,6 +4247,7 @@ Here's a list of public Fediverse services.
 | `bebear.net` | No |
 | `bebraver.cloud` | Yes |
 | `becabeca.eu` | No |
+| `becauseimbored.com` | Yes |
 | `becauseofprog.fr` | No |
 | `becausetrigger.ga` | No |
 | `beck.technology` | No |
@@ -4625,7 +4626,6 @@ Here's a list of public Fediverse services.
 | `bibliothekarisch.info` | No |
 | `bibliotheksbubble.de` | No |
 | `biblioverse.online` | No |
-| `biblog.ch` | No |
 | `bibly.com` | No |
 | `bibo-de-blogger.com` | No |
 | `biborg.com` | No |
@@ -22838,6 +22838,7 @@ Here's a list of public Fediverse services.
 | `kliberal.com` | Yes |
 | `klickaa.com` | Yes |
 | `kliklak.net` | No |
+| `klimaschutz-von-unten.de` | No |
 | `klingele.dev` | No |
 | `klinikowski.pl` | No |
 | `klinikretter.de` | Yes |
@@ -23807,6 +23808,7 @@ Here's a list of public Fediverse services.
 | `lanservice.de` | No |
 | `lansky.name` | No |
 | `lansley.com` | Yes |
+| `lantana.moe` | Yes |
 | `lanterner.cf` | No |
 | `lantredugeek.net` | No |
 | `lanuevebastarda.es` | No |
@@ -24217,6 +24219,7 @@ Here's a list of public Fediverse services.
 | `lemmy.lt` | No |
 | `lemmy.management` | No |
 | `lemmy.ml` | No |
+| `lemmy.moe` | No |
 | `lemmy.monster` | Yes |
 | `lemmy.my.id` | No |
 | `lemmy.name` | Yes |
@@ -30102,6 +30105,7 @@ Here's a list of public Fediverse services.
 | `n3wjack.net` | No |
 | `n41.lat` | No |
 | `n45b.com` | No |
+| `n4jjs.com` | No |
 | `n6.io` | No |
 | `n64.social` | No |
 | `n6a.xyz` | No |
@@ -33743,6 +33747,7 @@ Here's a list of public Fediverse services.
 | `parkgaedae.com` | No |
 | `parkingmeter.info` | Yes |
 | `parkour-eppingen.de` | No |
+| `parkour.wien` | No |
 | `parkpioneer.com` | No |
 | `parkrocker.com` | No |
 | `parkrocker.xyz` | No |
@@ -46011,6 +46016,7 @@ Here's a list of public Fediverse services.
 | `turnin.quest` | Yes |
 | `turnip.solutions` | No |
 | `turpentine.blue` | No |
+| `turqtoise-soup.com` | No |
 | `turretlabs.io` | No |
 | `turtle.garden` | No |
 | `turtle.pizza` | No |
@@ -48517,6 +48523,7 @@ Here's a list of public Fediverse services.
 | `whisper.tf` | No |
 | `whisperstorm.xyz` | No |
 | `whispr.social` | Yes |
+| `whistl.com` | No |
 | `whitakernet.com` | No |
 | `white-gerbera.net` | No |
 | `white-void.net` | No |
@@ -50755,8 +50762,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,410 |
-| Normal | 36,297 |
+| Cloudflare | 14,412 |
+| Normal | 36,302 |
 
 
 </details>
