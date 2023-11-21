@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,672 |
 | net | 3,951 |
 | org | 2,646 |
-| de | 2,491 |
+| de | 2,492 |
 
 
 - Mastodon, Pleroma, etc
@@ -5442,6 +5442,7 @@ Here's a list of public Fediverse services.
 | `bongocats.town` | No |
 | `bongoit.co.uk` | Yes |
 | `bonifacelabs.ca` | No |
+| `bonk.expert` | No |
 | `bonk.social` | No |
 | `bonn.jetzt` | No |
 | `bonn.jobs` | No |
@@ -13894,7 +13895,7 @@ Here's a list of public Fediverse services.
 | `fedinews.org` | Yes |
 | `fedinoc.de` | No |
 | `fedipage.com` | No |
-| `fedipen.xyz` | Yes |
+| `fedipen.xyz` | No |
 | `fediphilosophy.org` | No |
 | `fedipix.de` | No |
 | `fediplants.club` | No |
@@ -35218,6 +35219,7 @@ Here's a list of public Fediverse services.
 | `pone.social` | Yes |
 | `ponies.im` | No |
 | `ponies.social` | No |
+| `ponnuki-paderborn.de` | No |
 | `ponpon.tk` | No |
 | `ponseta.ga` | No |
 | `pont-bl.eu.org` | No |
@@ -38214,7 +38216,7 @@ Here's a list of public Fediverse services.
 | `rukavina.net` | No |
 | `rukii.net` | No |
 | `rukin.me` | Yes |
-| `rukonichi.com` | No |
+| `rukonichi.com` | Yes |
 | `rule-of-three.club` | No |
 | `ruleit.stream` | No |
 | `rulix.info` | No |
@@ -42116,7 +42118,7 @@ Here's a list of public Fediverse services.
 | `stonerclub.tk` | No |
 | `stonerivermountain.com` | No |
 | `stonerkitty.monster` | No |
-| `stoners.social` | Yes |
+| `stoners.social` | No |
 | `stoners.space` | No |
 | `stonestagsa.ga` | No |
 | `stonewall.social` | No |
@@ -49369,7 +49371,7 @@ Here's a list of public Fediverse services.
 | `xianlandia.com` | No |
 | `xianon.net` | Yes |
 | `xiaokunlun.com` | No |
-| `xiaotuzhi.top` | No |
+| `xiaotuzhi.top` | Yes |
 | `xiaoyuanvc.com` | No |
 | `xiaoyun.space` | Yes |
 | `xice.org` | Yes |
@@ -50754,7 +50756,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,408 |
-| Normal | 36,297 |
+| Normal | 36,299 |
 
 
 </details>
