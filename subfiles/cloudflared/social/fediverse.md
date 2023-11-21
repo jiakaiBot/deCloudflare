@@ -4627,6 +4627,7 @@ Here's a list of public Fediverse services.
 | `bibliothekarisch.info` | No |
 | `bibliotheksbubble.de` | No |
 | `biblioverse.online` | No |
+| `biblog.ch` | No |
 | `bibly.com` | No |
 | `bibo-de-blogger.com` | No |
 | `biborg.com` | No |
@@ -50765,7 +50766,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,413 |
-| Normal | 36,303 |
+| Normal | 36,304 |
 
 
 </details>
