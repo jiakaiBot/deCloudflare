@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,672 |
 | net | 3,951 |
 | org | 2,646 |
-| de | 2,492 |
+| de | 2,491 |
 
 
 - Mastodon, Pleroma, etc
@@ -35219,7 +35219,6 @@ Here's a list of public Fediverse services.
 | `pone.social` | Yes |
 | `ponies.im` | No |
 | `ponies.social` | No |
-| `ponnuki-paderborn.de` | No |
 | `ponpon.tk` | No |
 | `ponseta.ga` | No |
 | `pont-bl.eu.org` | No |
@@ -50756,7 +50755,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,408 |
-| Normal | 36,299 |
+| Normal | 36,298 |
 
 
 </details>
