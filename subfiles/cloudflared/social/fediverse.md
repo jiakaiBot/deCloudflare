@@ -30,9 +30,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,017 |
-| social | 4,672 |
+| social | 4,673 |
 | net | 3,951 |
-| org | 2,646 |
+| org | 2,647 |
 | de | 2,493 |
 
 
@@ -3369,6 +3369,7 @@ Here's a list of public Fediverse services.
 | `aucklandia.social` | Yes |
 | `aucubin.de` | No |
 | `aucubin.eu` | No |
+| `aucubin.social` | No |
 | `audacis.net` | No |
 | `audax.social` | Yes |
 | `audax.xyz` | Yes |
@@ -4626,7 +4627,6 @@ Here's a list of public Fediverse services.
 | `bibliothekarisch.info` | No |
 | `bibliotheksbubble.de` | No |
 | `biblioverse.online` | No |
-| `biblog.ch` | No |
 | `bibly.com` | No |
 | `bibo-de-blogger.com` | No |
 | `biborg.com` | No |
@@ -44239,6 +44239,7 @@ Here's a list of public Fediverse services.
 | `thenautilus.net` | No |
 | `thenerd.show` | Yes |
 | `thenet.social` | No |
+| `thenets.org` | Yes |
 | `theneuromantics.net` | No |
 | `thenewleafjournal.com` | No |
 | `thenewoil.org` | Yes |
@@ -50763,7 +50764,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,412 |
+| Cloudflare | 14,413 |
 | Normal | 36,303 |
 
 
