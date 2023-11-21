@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [connections to deno.land over Tor fail](https://github.com/denoland/website_feedback/issues/54)
 - [Los videos descargados no tienen audio](https://github.com/ivansaul/codigo_facilito_downloader/issues/15)
 - [Edge Runtime Does Not Work With TinaCMS Self Hosted.](https://github.com/tinacms/tinacms/issues/4363)
 - [ListObjectsV2 search parameter metadata not implemented when using Cloudflare R2](https://github.com/k3s-io/k3s/issues/8924)
