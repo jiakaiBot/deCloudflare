@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,017 |
 | social | 4,673 |
-| net | 3,951 |
+| net | 3,952 |
 | org | 2,647 |
 | de | 2,493 |
 
@@ -39654,6 +39654,7 @@ Here's a list of public Fediverse services.
 | `servernerds.net` | Yes |
 | `serverok.pl` | No |
 | `serveromnis.com` | No |
+| `serversonic.co.uk` | Yes |
 | `serviceco.re` | Yes |
 | `servidos.app` | Yes |
 | `servilo.xyz` | No |
@@ -48621,6 +48622,7 @@ Here's a list of public Fediverse services.
 | `wikitetas.club` | No |
 | `wikitetas.live` | No |
 | `wikiwiki.li` | Yes |
+| `wikiyu.net` | No |
 | `wiku.hu` | Yes |
 | `wilbo.tech` | No |
 | `wilboard.nl` | No |
@@ -50765,8 +50767,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,413 |
-| Normal | 36,304 |
+| Cloudflare | 14,414 |
+| Normal | 36,305 |
 
 
 </details>
