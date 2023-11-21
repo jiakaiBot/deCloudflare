@@ -17371,6 +17371,7 @@ Here's a list of public Fediverse services.
 | `gtfo.social` | Yes |
 | `gtfoh.lol` | Yes |
 | `gthmg.com` | No |
+| `gthree.win` | No |
 | `gtio.io` | No |
 | `gtk.pw` | Yes |
 | `gtn-works.com` | No |
@@ -35090,6 +35091,7 @@ Here's a list of public Fediverse services.
 | `podricing.pw` | No |
 | `podsnack.se` | No |
 | `podsothoth.club` | No |
+| `podtalk.show` | No |
 | `podvibes.co` | Yes |
 | `podycust.co.uk` | Yes |
 | `poedelwitz.de` | No |
@@ -50780,7 +50782,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,419 |
-| Normal | 36,312 |
+| Normal | 36,314 |
 
 
 </details>
