@@ -208,7 +208,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | tiarap.org | Yes |
 | timmes.nl | No |
 | tls-data.de | No |
-| tshost.no | Yes |
 | tu-bs.de | No |
 | twnic.tw | No |
 | unstoppable.io | Yes |
@@ -228,8 +227,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 94 |
+| Cloudflare | 93 |
 | Normal | 115 |
 
 
-### 45% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
