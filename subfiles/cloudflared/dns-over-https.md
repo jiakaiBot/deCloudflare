@@ -130,7 +130,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | lindung.pp.ua | Yes |
 | lonet.org | Yes |
 | lz0724.com | No |
-| mailkyb.co | No |
 | masters-of-cloud.de | No |
 | meddy94.de | No |
 | meeo.win | Yes |
@@ -230,7 +229,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 94 |
-| Normal | 116 |
+| Normal | 115 |
 
 
-### 44.8% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 45% of DNS-over-HTTPS (DoH) are using Cloudflare.
