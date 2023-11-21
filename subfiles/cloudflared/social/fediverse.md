@@ -32,8 +32,8 @@ Here's a list of public Fediverse services.
 | com | 8,017 |
 | social | 4,673 |
 | net | 3,953 |
-| org | 2,647 |
-| de | 2,494 |
+| org | 2,648 |
+| de | 2,495 |
 
 
 - Mastodon, Pleroma, etc
@@ -6038,6 +6038,7 @@ Here's a list of public Fediverse services.
 | `buffa.lol` | No |
 | `buffalomesh.net` | Yes |
 | `buffalopugs.org` | Yes |
+| `buffering.rocks` | No |
 | `bug-fix.net` | No |
 | `bug.expert` | Yes |
 | `bugarin.com.br` | Yes |
@@ -11287,6 +11288,7 @@ Here's a list of public Fediverse services.
 | `dors.et` | No |
 | `dorset.social` | Yes |
 | `dorsey.io` | No |
+| `dosei.fun` | No |
 | `doseofnews.com` | No |
 | `doserver.top` | Yes |
 | `dosgame.club` | No |
@@ -30176,6 +30178,7 @@ Here's a list of public Fediverse services.
 | `nagy.haus` | No |
 | `nah.re` | No |
 | `naharia.net` | No |
+| `nahcar-main-taunus.de` | No |
 | `nahcnuj.work` | No |
 | `nahe.social` | No |
 | `naheimst.info` | No |
@@ -35059,6 +35062,7 @@ Here's a list of public Fediverse services.
 | `podcastalot.com` | No |
 | `podcaster.social` | No |
 | `podcastindex.net` | No |
+| `podcastindex.org` | Yes |
 | `podcastindex.social` | No |
 | `podcastliste.de` | No |
 | `podcasts.chat` | No |
@@ -50769,8 +50773,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,416 |
-| Normal | 36,305 |
+| Cloudflare | 14,417 |
+| Normal | 36,308 |
 
 
 </details>
