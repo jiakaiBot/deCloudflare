@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [FTL Could not create runner + CDN error](https://github.com/projectdiscovery/nuclei/issues/4408)
+- [FTL Could not create runner + CDN error](https://github.com/projectdiscovery/httpx/issues/1458)
 - [Attended Sysupgrade not working due to cloud flare block](https://github.com/immortalwrt/luci/issues/367)
 - [APP S3 uploads problems](https://github.com/fourviere/fourviere-podcast/issues/70)
 - [connections to deno.land over Tor fail](https://github.com/denoland/website_feedback/issues/54)
