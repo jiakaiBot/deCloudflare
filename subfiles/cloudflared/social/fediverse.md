@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,674 |
 | net | 3,955 |
 | org | 2,648 |
-| de | 2,496 |
+| de | 2,497 |
 
 
 - Mastodon, Pleroma, etc
@@ -16686,7 +16686,7 @@ Here's a list of public Fediverse services.
 | `gloria.social` | No |
 | `glorificatio.org` | No |
 | `glorious-space.eu` | No |
-| `gloristar.space` | Yes |
+| `gloristar.space` | No |
 | `glosair.co.uk` | No |
 | `gloveraoki.net` | Yes |
 | `glow.land` | No |
@@ -34385,6 +34385,7 @@ Here's a list of public Fediverse services.
 | `philpin.com` | Yes |
 | `philpot.org` | No |
 | `philtanner.com` | No |
+| `phinphins.de` | No |
 | `phirat.club` | No |
 | `phire.place` | No |
 | `phishermanswarf.com` | No |
@@ -47375,7 +47376,7 @@ Here's a list of public Fediverse services.
 | `vforge.social` | No |
 | `vfpmedia.com` | No |
 | `vfsh.dev` | Yes |
-| `vfsh.us` | Yes |
+| `vfsh.us` | No |
 | `vfx.social` | No |
 | `vgai.de` | No |
 | `vgc.social` | No |
@@ -50783,8 +50784,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,421 |
-| Normal | 36,314 |
+| Cloudflare | 14,419 |
+| Normal | 36,317 |
 
 
 </details>
