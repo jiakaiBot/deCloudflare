@@ -685,6 +685,7 @@ Do not create new issue or we will close it as duplicate.
 | [Alha1500@twitter](https://twitter.com/Alha1500/status/1635142418713681926) | advertise |
 | [Ali03101829Ali@twitter](https://twitter.com/Ali03101829Ali/status/1561268730075701250) | advertise |
 | [Ali12khan12@twitter](https://twitter.com/Ali12khan12/status/1497947864743432199) | advertise |
+| [ali77Joh@twitter](https://twitter.com/ali77Joh/status/1727125571417854194) | advertise |
 | [Ali20484288@twitter](https://twitter.com/Ali20484288/status/1578121167734538252) | advertise |
 | [Ali31543248@twitter](https://twitter.com/Ali31543248/status/1573662744905240577) | advertise |
 | [Ali74967035@twitter](https://twitter.com/Ali74967035/status/1398191756433264646) | advertise |
@@ -5906,6 +5907,7 @@ Do not create new issue or we will close it as duplicate.
 | [JC7IaJ1c3VB4wU6@twitter](https://twitter.com/JC7IaJ1c3VB4wU6/status/1394992890561146885) | advertise |
 | [JC58100888@twitter](https://twitter.com/JC58100888/status/1548162680984199169) | advertise |
 | [jcampos2208@twitter](https://twitter.com/jcampos2208/status/1399856800208404486) | advertise |
+| [JckLiu66450@twitter](https://twitter.com/JckLiu66450/status/1727112931387875831) | advertise |
 | [JDbelem1@twitter](https://twitter.com/JDbelem1/status/1384610630917922817) | advertise |
 | [JDhornyguy@twitter](https://twitter.com/JDhornyguy/status/1710815644759781755) | advertise |
 | [jdiazfar@twitter](https://twitter.com/jdiazfar/status/1526666559053348866) | advertise |
@@ -7824,6 +7826,7 @@ Do not create new issue or we will close it as duplicate.
 | [m42383619@twitter](https://twitter.com/m42383619/status/1389585140200861700) | advertise |
 | [M2773299429@twitter](https://twitter.com/M2773299429/status/1392920911179878404) | advertise |
 | [m98647296763982@twitter](https://twitter.com/m98647296763982/status/1701226230895227113) | advertise |
+| [ma038814@twitter](https://twitter.com/ma038814/status/1727097654184988841) | advertise |
 | [Ma7moud3arf@twitter](https://twitter.com/Ma7moud3arf/status/1552086942870904833) | advertise |
 | [ma44hu@twitter](https://twitter.com/ma44hu/status/1657645688413405184) | advertise |
 | [Ma91Myoaung@twitter](https://twitter.com/Ma91Myoaung/status/1392153948098744323) | advertise |
