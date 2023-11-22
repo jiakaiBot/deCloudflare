@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,023 |
 | social | 4,674 |
-| net | 3,956 |
+| net | 3,957 |
 | org | 2,650 |
 | de | 2,500 |
 
@@ -2225,6 +2225,7 @@ Here's a list of public Fediverse services.
 | `andert.me` | No |
 | `anderthalbkommafuenf.net` | No |
 | `andho.xyz` | Yes |
+| `andhuman.me` | No |
 | `andi-net.de` | No |
 | `andi1984.social` | No |
 | `andie.club` | No |
@@ -14619,6 +14620,7 @@ Here's a list of public Fediverse services.
 | `flova.de` | No |
 | `flow.srl` | No |
 | `flower-garden-club.com` | No |
+| `flower-garden-mimosa.net` | No |
 | `flowercast.me` | No |
 | `flowerpot.fyi` | No |
 | `flowersound.social` | No |
@@ -27348,7 +27350,7 @@ Here's a list of public Fediverse services.
 | `mazu.network` | No |
 | `mazu.social` | No |
 | `mazurka.xyz` | No |
-| `mazzarino.social` | No |
+| `mazzarino.social` | Yes |
 | `mazzonetto.eu` | Yes |
 | `mb-it.com` | No |
 | `mb-server.com` | Yes |
@@ -50803,8 +50805,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,431 |
-| Normal | 36,324 |
+| Cloudflare | 14,432 |
+| Normal | 36,325 |
 
 
 </details>
