@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Downloader doesn't work properly](https://github.com/Ravo92/Patch-2.22-Launcher/issues/33)
 - [Replace mocha & karma with vitest](https://github.com/malobre/cfw-argon2id/issues/1)
 - [403 forbidden sorunu](https://github.com/realsuayip/django-sozluk/issues/87)
 - [FTL Could not create runner + CDN error](https://github.com/projectdiscovery/nuclei/issues/4408)
