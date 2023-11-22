@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,017 |
+| com | 8,018 |
 | social | 4,674 |
-| net | 3,954 |
+| net | 3,955 |
 | org | 2,648 |
 | de | 2,496 |
 
@@ -14854,6 +14854,7 @@ Here's a list of public Fediverse services.
 | `forwriter.homes` | Yes |
 | `forza7.jp` | No |
 | `fosfor.dev` | No |
+| `fosketts.net` | Yes |
 | `fosny.eu` | No |
 | `foss.al` | No |
 | `foss.gay` | Yes |
@@ -15921,6 +15922,7 @@ Here's a list of public Fediverse services.
 | `gamesfera.com` | No |
 | `gamespirit.eu` | No |
 | `gamestop.store` | No |
+| `gamestyle.com` | Yes |
 | `gameswithcode.net` | No |
 | `gametec-live.com` | Yes |
 | `gamethattune.club` | No |
@@ -50781,7 +50783,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,419 |
+| Cloudflare | 14,421 |
 | Normal | 36,314 |
 
 
