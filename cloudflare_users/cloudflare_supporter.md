@@ -5272,6 +5272,7 @@ Do not create new issue or we will close it as duplicate.
 | [hungdqdesign@twitter](https://twitter.com/hungdqdesign/status/1622993680096432130) | advertise |
 | [hungdz976@twitter](https://twitter.com/hungdz976/status/1613435429092749312) | advertise |
 | [Hunggg7d@twitter](https://twitter.com/Hunggg7d/status/1485984559435247618) | advertise |
+| [hunghdhd@twitter](https://twitter.com/hunghdhd/status/1727297717217747331) | advertise |
 | [Hunghun13865970@twitter](https://twitter.com/Hunghun13865970/status/1486000138225131528) | advertise |
 | [HungHuy11921511@twitter](https://twitter.com/HungHuy11921511/status/1477127249556291584) | advertise |
 | [hungk2qh@twitter](https://twitter.com/hungk2qh/status/1402669469009281024) | advertise |
