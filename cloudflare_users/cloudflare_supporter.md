@@ -474,6 +474,7 @@ Do not create new issue or we will close it as duplicate.
 | [AGThor1@twitter](https://twitter.com/AGThor1/status/1404460236702842880) | advertise |
 | [aguirrevicc@twitter](https://twitter.com/aguirrevicc/status/1665874525702049794) | advertise |
 | [Agungpgt@twitter](https://twitter.com/Agungpgt/status/1617566579570642945) | advertise |
+| [agyatNP@twitter](https://twitter.com/agyatNP/status/1727319338271821832) | advertise |
 | [ah0706806@twitter](https://twitter.com/ah0706806/status/1681624979887235072) | advertise |
 | [ah8707846@twitter](https://twitter.com/ah8707846/status/1716768817429508368) | advertise |
 | [ahamed_hri46047@twitter](https://twitter.com/ahamed_hri46047/status/1635427942154240001) | advertise |
@@ -1223,6 +1224,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ashqqqqq12@twitter](https://twitter.com/Ashqqqqq12/status/1578339268510257152) | advertise |
 | [Ashraf24818344@twitter](https://twitter.com/Ashraf24818344/status/1603472952946745344) | advertise |
 | [AshrafA27958012@twitter](https://twitter.com/AshrafA27958012/status/1680216777920245760) | advertise |
+| [AshrafReal58211@twitter](https://twitter.com/AshrafReal58211/status/1727339530624328039) | advertise |
 | [AshrfyShfyq@twitter](https://twitter.com/AshrfyShfyq/status/1608787145292124164) | advertise |
 | [ashutoshsinghac@twitter](https://twitter.com/ashutoshsinghac/status/1397847733793218560) | advertise |
 | [asia_hippo@twitter](https://twitter.com/asia_hippo/status/1407900933732716545) | advertise |
@@ -2877,6 +2879,7 @@ Do not create new issue or we will close it as duplicate.
 | [DanielA84917391@twitter](https://twitter.com/DanielA84917391/status/1390611870680195073) | advertise |
 | [DANIELBINOJ321@twitter](https://twitter.com/DANIELBINOJ321/status/1386653209582735363) | advertise |
 | [danielbolkvadze@twitter](https://twitter.com/danielbolkvadze/status/1397978166929461251) | advertise |
+| [DanielBrighto15@twitter](https://twitter.com/DanielBrighto15/status/1727315979854836033) | advertise |
 | [DanielCR93@twitter](https://twitter.com/DanielCR93/status/1377617766539218951) | advertise |
 | [DanielitoKing@twitter](https://twitter.com/DanielitoKing/status/1460241062220509193) | advertise |
 | [DanielN15548803@twitter](https://twitter.com/DanielN15548803/status/1604153026239148032) | advertise |
