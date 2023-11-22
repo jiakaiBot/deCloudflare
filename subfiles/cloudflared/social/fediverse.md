@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,674 |
 | net | 3,955 |
 | org | 2,649 |
-| de | 2,499 |
+| de | 2,500 |
 
 
 - Mastodon, Pleroma, etc
@@ -48794,6 +48794,7 @@ Here's a list of public Fediverse services.
 | `wireless.community` | No |
 | `wires.gg` | Yes |
 | `wirhackendeinen.club` | No |
+| `wirnify.de` | No |
 | `wirnity.de` | No |
 | `wirrkopf.net` | Yes |
 | `wirtube.de` | No |
@@ -50799,7 +50800,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,429 |
-| Normal | 36,321 |
+| Normal | 36,322 |
 
 
 </details>
