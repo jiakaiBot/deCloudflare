@@ -29,9 +29,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,022 |
+| com | 8,023 |
 | social | 4,674 |
-| net | 3,955 |
+| net | 3,956 |
 | org | 2,649 |
 | de | 2,500 |
 
@@ -7395,6 +7395,7 @@ Here's a list of public Fediverse services.
 | `chrisalemany.ca` | No |
 | `chrisaudet.ca` | No |
 | `chrisb.me` | Yes |
+| `chrisbarnes.xyz` | Yes |
 | `chrisbeckstrom.com` | No |
 | `chrisbol.nl` | No |
 | `chrisbues.com` | No |
@@ -19383,6 +19384,7 @@ Here's a list of public Fediverse services.
 | `ianmorrill.com` | Yes |
 | `ianneubert.com` | No |
 | `ianstormtaylor.social` | No |
+| `ianwelsh.net` | No |
 | `iappmag.de` | No |
 | `iavael.name` | Yes |
 | `iazine.com` | No |
@@ -41148,6 +41150,7 @@ Here's a list of public Fediverse services.
 | `sola.social` | Yes |
 | `solagg.com` | No |
 | `solarbird.net` | No |
+| `solarboi.com` | No |
 | `solarcene.community` | No |
 | `solardorf.eu` | No |
 | `solari.com` | No |
@@ -50799,8 +50802,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,429 |
-| Normal | 36,322 |
+| Cloudflare | 14,430 |
+| Normal | 36,324 |
 
 
 </details>
