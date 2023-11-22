@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,674 |
 | net | 3,955 |
 | org | 2,649 |
-| de | 2,498 |
+| de | 2,499 |
 
 
 - Mastodon, Pleroma, etc
@@ -44941,6 +44941,7 @@ Here's a list of public Fediverse services.
 | `tni-hosted.nl` | No |
 | `tni.org` | No |
 | `tnku.co` | Yes |
+| `tnxip.de` | No |
 | `tny.social` | No |
 | `to-son.net` | Yes |
 | `to-tell.de` | No |
@@ -50798,7 +50799,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,429 |
-| Normal | 36,320 |
+| Normal | 36,321 |
 
 
 </details>
