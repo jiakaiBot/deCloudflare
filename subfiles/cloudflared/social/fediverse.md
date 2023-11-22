@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,021 |
+| com | 8,022 |
 | social | 4,674 |
 | net | 3,955 |
 | org | 2,649 |
@@ -9252,7 +9252,7 @@ Here's a list of public Fediverse services.
 | `cyberia.institute` | No |
 | `cyberia.social` | No |
 | `cyberia.tokyo` | Yes |
-| `cyberiacafe.club` | No |
+| `cyberiacafe.club` | Yes |
 | `cyberjinh.fr` | No |
 | `cybermage.sh` | Yes |
 | `cybermedios.org` | No |
@@ -16153,7 +16153,7 @@ Here's a list of public Fediverse services.
 | `geekery858.com` | Yes |
 | `geekforbes.com` | No |
 | `geekgirls.de` | No |
-| `geekgo.tech` | No |
+| `geekgo.tech` | Yes |
 | `geekgonecrazy.com` | No |
 | `geekhaven.social` | Yes |
 | `geekinati.com` | No |
@@ -16270,6 +16270,7 @@ Here's a list of public Fediverse services.
 | `genix.ink` | Yes |
 | `genkaishahu.com` | Yes |
 | `genkoku.city` | Yes |
+| `genkoumaguro.moe` | No |
 | `genma.fr` | No |
 | `geno-ch.com` | No |
 | `geno.is` | No |
@@ -26702,7 +26703,7 @@ Here's a list of public Fediverse services.
 | `mastodon-us.net` | No |
 | `mastodon.academy` | No |
 | `mastodon.actor` | No |
-| `mastodon.africa` | No |
+| `mastodon.africa` | Yes |
 | `mastodon.al` | No |
 | `mastodon.art` | No |
 | `mastodon.asia` | No |
@@ -27671,6 +27672,7 @@ Here's a list of public Fediverse services.
 | `memesouls.top` | No |
 | `memesrus.org` | No |
 | `memesskey.com` | No |
+| `memesskey.me` | Yes |
 | `memetastic.space` | Yes |
 | `memetica.cloud` | No |
 | `memework.ga` | No |
@@ -32786,6 +32788,7 @@ Here's a list of public Fediverse services.
 | `onlyferas.dev` | No |
 | `onlyfounders.org` | No |
 | `onlyfoxes.biz` | No |
+| `onlyfranz.com` | No |
 | `onlyfriends.cloud` | No |
 | `onlyfriends.social` | No |
 | `onlygans.social` | No |
@@ -50794,8 +50797,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,425 |
-| Normal | 36,321 |
+| Cloudflare | 14,429 |
+| Normal | 36,320 |
 
 
 </details>
