@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [APP S3 uploads problems](https://github.com/fourviere/fourviere-podcast/issues/70)
 - [connections to deno.land over Tor fail](https://github.com/denoland/website_feedback/issues/54)
 - [Los videos descargados no tienen audio](https://github.com/ivansaul/codigo_facilito_downloader/issues/15)
 - [Edge Runtime Does Not Work With TinaCMS Self Hosted.](https://github.com/tinacms/tinacms/issues/4363)
