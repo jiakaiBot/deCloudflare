@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,020 |
+| com | 8,021 |
 | social | 4,674 |
 | net | 3,955 |
 | org | 2,649 |
@@ -24850,6 +24850,7 @@ Here's a list of public Fediverse services.
 | `linuxrocks.online` | No |
 | `linuxserver.io` | Yes |
 | `linuxserver.pro` | No |
+| `linuxtalks.co` | Yes |
 | `linuxtavern.org` | Yes |
 | `linuxtipps.ch` | No |
 | `linuxtrent.it` | No |
@@ -33046,6 +33047,7 @@ Here's a list of public Fediverse services.
 | `orbital.rodeo` | No |
 | `orbitalstation.one` | No |
 | `orbiting.observer` | No |
+| `orbitmines.com` | Yes |
 | `orbx.net` | No |
 | `orc.social` | No |
 | `orcacruises.pro` | Yes |
@@ -50792,7 +50794,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,423 |
+| Cloudflare | 14,425 |
 | Normal | 36,321 |
 
 
