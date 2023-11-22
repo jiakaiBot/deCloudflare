@@ -6503,6 +6503,7 @@ Do not create new issue or we will close it as duplicate.
 | [kennytran8388@twitter](https://twitter.com/kennytran8388/status/1387345563444682752) | advertise |
 | [kentdt01@twitter](https://twitter.com/kentdt01/status/1611614592089882625) | advertise |
 | [Kentoisabento@twitter](https://twitter.com/Kentoisabento/status/1574787986092429316) | advertise |
+| [kenvin_weilion@twitter](https://twitter.com/kenvin_weilion/status/1727205780334710807) | advertise |
 | [Kenyan_Deportee@twitter](https://twitter.com/Kenyan_Deportee/status/1382022082222039043) | advertise |
 | [KenzKen16705875@twitter](https://twitter.com/KenzKen16705875/status/1380413825988534273) | advertise |
 | [kenzxc864@twitter](https://twitter.com/kenzxc864/status/1711784029341843831) | advertise |
