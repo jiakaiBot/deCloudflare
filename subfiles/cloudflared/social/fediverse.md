@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,023 |
 | social | 4,674 |
 | net | 3,956 |
-| org | 2,649 |
+| org | 2,650 |
 | de | 2,500 |
 
 
@@ -780,7 +780,6 @@ Here's a list of public Fediverse services.
 | `8bittheologian.com` | Yes |
 | `8bitwizard.net` | No |
 | `8e7.us` | Yes |
-| `8f.al` | Yes |
 | `8mitsu.net` | No |
 | `8n.lt` | Yes |
 | `8nd.ru` | Yes |
@@ -6886,6 +6885,7 @@ Here's a list of public Fediverse services.
 | `celabs.com` | Yes |
 | `cele.st` | No |
 | `celeb.pizza` | No |
+| `celebrion.se` | No |
 | `celebrity.social` | Yes |
 | `celehner.com` | No |
 | `celestecaprine.com` | No |
@@ -8132,7 +8132,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -13367,6 +13367,7 @@ Here's a list of public Fediverse services.
 | `fabriders.net` | No |
 | `fabrigli.fr` | No |
 | `fabriquedelatransition.fr` | No |
+| `fabriziotarizzo.org` | No |
 | `fabulous.social` | No |
 | `fabulousfabs.fr` | No |
 | `facb69.com.br` | No |
@@ -23419,6 +23420,7 @@ Here's a list of public Fediverse services.
 | `kumi.zone` | No |
 | `kumolabo.com` | No |
 | `kunagisa.moe` | Yes |
+| `kunichogi.icu` | Yes |
 | `kunite.net` | Yes |
 | `kunkel24.de` | No |
 | `kunkunzzz.xyz` | No |
@@ -35784,7 +35786,6 @@ Here's a list of public Fediverse services.
 | `protom.eu` | No |
 | `protomolecule.com` | No |
 | `proton.stream` | No |
-| `protopia.tk` | No |
 | `protoxin.net` | Yes |
 | `prou.be` | No |
 | `proud.social` | No |
@@ -50802,7 +50803,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,430 |
+| Cloudflare | 14,431 |
 | Normal | 36,324 |
 
 
