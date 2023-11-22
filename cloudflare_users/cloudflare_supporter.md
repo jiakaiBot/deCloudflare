@@ -2023,6 +2023,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bodo01082293@twitter](https://twitter.com/Bodo01082293/status/1672825875937755136) | advertise |
 | [Bodo60367606@twitter](https://twitter.com/Bodo60367606/status/1400961243695915008) | advertise |
 | [boemekeld@twitter](https://twitter.com/boemekeld/status/1452479684973838342) | advertise |
+| [Bogumir81@twitter](https://twitter.com/Bogumir81/status/1727208178885197895) | advertise |
 | [Bogy25256354@twitter](https://twitter.com/Bogy25256354/status/1393573899263086595) | advertise |
 | [BOGYIHEIN4@twitter](https://twitter.com/BOGYIHEIN4/status/1391565146040897541) | advertise |
 | [BoGyiYe2@twitter](https://twitter.com/BoGyiYe2/status/1392230839430352898) | advertise |
@@ -3578,6 +3579,7 @@ Do not create new issue or we will close it as duplicate.
 | [eearttttt@twitter](https://twitter.com/eearttttt/status/1711075052450439258) | advertise |
 | [eecaduk@twitter](https://twitter.com/eecaduk/status/1640687529535094784) | advertise |
 | [eeiittaaa@twitter](https://twitter.com/eeiittaaa/status/1505694219997962243) | advertise |
+| [eelagicipokan@twitter](https://twitter.com/eelagicipokan/status/1727226419225473225) | advertise |
 | [EepyArc@twitter](https://twitter.com/EepyArc/status/1665874492948881408) | advertise |
 | [eevolute@twitter](https://twitter.com/eevolute/status/1550487189758304258) | advertise |
 | [effj_kerr@twitter](https://twitter.com/effj_kerr/status/1486100953325522945) | advertise |
@@ -10466,6 +10468,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhanVn663732@twitter](https://twitter.com/PhanVn663732/status/1658502513585459200) | advertise |
 | [phanVnc23362330@twitter](https://twitter.com/phanVnc23362330/status/1421623815990169604) | advertise |
 | [PhanVnN6@twitter](https://twitter.com/PhanVnN6/status/1476930196150226951) | advertise |
+| [Phaptinh007@twitter](https://twitter.com/Phaptinh007/status/1727234275379192219) | advertise |
 | [Pharm_chocolate@twitter](https://twitter.com/Pharm_chocolate/status/1401267624013668352) | advertise |
 | [Phat5312@twitter](https://twitter.com/Phat5312/status/1514940394651684870) | advertise |
 | [phatdat1980@twitter](https://twitter.com/phatdat1980/status/1723064870294209016) | advertise |
@@ -14361,6 +14364,7 @@ Do not create new issue or we will close it as duplicate.
 | [VnHuy00413630@twitter](https://twitter.com/VnHuy00413630/status/1625412392468484096) | advertise |
 | [vnineutama1@twitter](https://twitter.com/vnineutama1/status/1643937189049565185) | advertise |
 | [VnLc48599484@twitter](https://twitter.com/VnLc48599484/status/1400390004984016899) | advertise |
+| [VnLun05129035@twitter](https://twitter.com/VnLun05129035/status/1727167958722728252) | advertise |
 | [VnManga@twitter](https://twitter.com/VnManga/status/1704435744025260246) | advertise |
 | [VnManucian@twitter](https://twitter.com/VnManucian/status/1519366337750921216) | advertise |
 | [VnPhi94354953@twitter](https://twitter.com/VnPhi94354953/status/1501922833395445762) | advertise |
