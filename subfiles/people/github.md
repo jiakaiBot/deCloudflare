@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [403 forbidden sorunu](https://github.com/realsuayip/django-sozluk/issues/87)
 - [FTL Could not create runner + CDN error](https://github.com/projectdiscovery/nuclei/issues/4408)
 - [FTL Could not create runner + CDN error](https://github.com/projectdiscovery/httpx/issues/1458)
 - [Attended Sysupgrade not working due to cloud flare block](https://github.com/immortalwrt/luci/issues/367)
