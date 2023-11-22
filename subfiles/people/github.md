@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Attended Sysupgrade not working due to cloud flare block](https://github.com/immortalwrt/luci/issues/367)
 - [APP S3 uploads problems](https://github.com/fourviere/fourviere-podcast/issues/70)
 - [connections to deno.land over Tor fail](https://github.com/denoland/website_feedback/issues/54)
 - [Los videos descargados no tienen audio](https://github.com/ivansaul/codigo_facilito_downloader/issues/15)
