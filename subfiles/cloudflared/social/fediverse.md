@@ -29,11 +29,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,019 |
+| com | 8,020 |
 | social | 4,674 |
 | net | 3,955 |
-| org | 2,648 |
-| de | 2,497 |
+| org | 2,649 |
+| de | 2,498 |
 
 
 - Mastodon, Pleroma, etc
@@ -6935,6 +6935,7 @@ Here's a list of public Fediverse services.
 | `cerebralmix.cc` | No |
 | `cerebro.social` | No |
 | `cereza.de` | No |
+| `cerii.moe` | Yes |
 | `ceriz.fr` | No |
 | `cerritus.eu` | No |
 | `cerulean.ink` | Yes |
@@ -19786,6 +19787,7 @@ Here's a list of public Fediverse services.
 | `inaccessible.ac` | No |
 | `inadon.jp` | No |
 | `inadvertently.online` | Yes |
+| `inaf.it` | No |
 | `inair.space` | Yes |
 | `inaka-chaya.com` | No |
 | `inakaz.fr` | No |
@@ -21072,6 +21074,7 @@ Here's a list of public Fediverse services.
 | `jeroensangers.com` | No |
 | `jeroenvd.nl` | Yes |
 | `jeronimo.dev.br` | Yes |
+| `jeronimodesign.com` | Yes |
 | `jeronimodesign.net` | Yes |
 | `jerry.business` | No |
 | `jerrybase.com` | No |
@@ -23402,6 +23405,7 @@ Here's a list of public Fediverse services.
 | `kulturnik.si` | No |
 | `kulturwerkstatt.de` | No |
 | `kultwiki.net` | Yes |
+| `kulupu.la` | No |
 | `kulupu.party` | Yes |
 | `kuma.social` | No |
 | `kumadrive.com` | No |
@@ -25094,6 +25098,7 @@ Here's a list of public Fediverse services.
 | `lochetfamily.com` | Yes |
 | `loci.onl` | No |
 | `lockdown-online-teknival.org` | No |
+| `locked.de` | No |
 | `locked.social` | Yes |
 | `locksport.space` | No |
 | `loclx.io` | No |
@@ -28655,6 +28660,7 @@ Here's a list of public Fediverse services.
 | `mlejnas.com` | No |
 | `mlem.me` | No |
 | `mlhangout.social` | No |
+| `mlich.cz` | No |
 | `mlmie.net` | No |
 | `mlny.info` | No |
 | `mlpol.net` | Yes |
@@ -48148,6 +48154,7 @@ Here's a list of public Fediverse services.
 | `watchmeexplode.net` | No |
 | `watchpoint.social` | No |
 | `watdalos.de` | No |
+| `waterauditca.org` | Yes |
 | `watercoolertrivia.com` | Yes |
 | `waterford.international` | No |
 | `waterfowl.social` | No |
@@ -50785,8 +50792,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,420 |
-| Normal | 36,317 |
+| Cloudflare | 14,423 |
+| Normal | 36,321 |
 
 
 </details>
