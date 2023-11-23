@@ -41,7 +41,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | b612.me | Yes |
 | bancuh.com | No |
 | bebasid.com | Yes |
-| belnet.be | No |
 | bit-trail.nl | No |
 | bitdefender.net | Yes |
 | blahdns.com | Yes |
@@ -129,7 +128,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | libredns.gr | No |
 | lindung.pp.ua | Yes |
 | lonet.org | Yes |
-| lz0724.com | No |
 | masters-of-cloud.de | No |
 | meddy94.de | No |
 | meeo.win | Yes |
@@ -227,7 +225,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 92 |
-| Normal | 115 |
+| Normal | 113 |
 
 
-### 44.4% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 44.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
