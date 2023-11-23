@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,023 |
+| com | 8,024 |
 | social | 4,674 |
 | net | 3,957 |
 | org | 2,650 |
@@ -3710,7 +3710,7 @@ Here's a list of public Fediverse services.
 | `b--n.net` | No |
 | `b-ark.ca` | No |
 | `b-ark.online` | Yes |
-| `b-c.social` | Yes |
+| `b-c.social` | No |
 | `b-root-force.de` | No |
 | `b-shock.org` | No |
 | `b.mp` | Yes |
@@ -5265,7 +5265,7 @@ Here's a list of public Fediverse services.
 | `blueskycommunity.net` | No |
 | `blueskysweden.se` | No |
 | `bluesnow.nagoya` | No |
-| `bluestar.social` | Yes |
+| `bluestar.social` | No |
 | `bluestreakradio.com` | No |
 | `bluetonic.org` | Yes |
 | `blueviolet.monster` | No |
@@ -17362,6 +17362,7 @@ Here's a list of public Fediverse services.
 | `gsalucci.dev` | No |
 | `gsch.eu` | Yes |
 | `gsd.foundation` | No |
+| `gsdgames.com` | Yes |
 | `gsg.live` | No |
 | `gshep.social` | No |
 | `gsheps.com` | Yes |
@@ -24827,7 +24828,7 @@ Here's a list of public Fediverse services.
 | `linux.social` | No |
 | `linux07.fr` | No |
 | `linuxadictos.com` | No |
-| `linuxand.beer` | Yes |
+| `linuxand.beer` | No |
 | `linuxbabe.com` | Yes |
 | `linuxbox.ninja` | No |
 | `linuxburken.se` | Yes |
@@ -49205,7 +49206,7 @@ Here's a list of public Fediverse services.
 | `wuerzblog.de` | No |
 | `wuewuewue.de` | Yes |
 | `wuff-miau.club` | No |
-| `wuff.space` | Yes |
+| `wuff.space` | No |
 | `wuffs.org` | No |
 | `wufo.watch` | No |
 | `wufwuf.org` | No |
@@ -50805,8 +50806,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,432 |
-| Normal | 36,325 |
+| Cloudflare | 14,429 |
+| Normal | 36,329 |
 
 
 </details>
