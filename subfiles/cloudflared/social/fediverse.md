@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,031 |
+| com | 8,033 |
 | social | 4,677 |
 | net | 3,958 |
 | org | 2,650 |
@@ -2413,6 +2413,7 @@ Here's a list of public Fediverse services.
 | `annacon.be` | Yes |
 | `annadreambrush.com` | No |
 | `annakirche.at` | No |
+| `annamariaeriksson.com` | Yes |
 | `annascrafts.com` | No |
 | `annasvavrum.com` | No |
 | `annathepiper.org` | No |
@@ -16494,7 +16495,6 @@ Here's a list of public Fediverse services.
 | `giggleplex.red` | No |
 | `giggly.de` | No |
 | `gigi.nu` | No |
-| `giglio.blue` | Yes |
 | `gigon.cloud` | No |
 | `gigq.com` | Yes |
 | `gigsak.social` | No |
@@ -17138,6 +17138,7 @@ Here's a list of public Fediverse services.
 | `grdnsys.no` | Yes |
 | `great-lakes-maritime-republic.net` | No |
 | `great-tusk.com` | No |
+| `greatdanemaniac.com` | Yes |
 | `greatestgen.social` | No |
 | `greatfallsarcade.com` | No |
 | `greatjustice.net` | No |
@@ -23860,6 +23861,7 @@ Here's a list of public Fediverse services.
 | `lapy.link` | Yes |
 | `laramy.black` | No |
 | `larand.net` | No |
+| `larand.one` | No |
 | `laravel.gg` | No |
 | `lardbucket.org` | No |
 | `lare.cc` | Yes |
@@ -50830,8 +50832,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,433 |
-| Normal | 36,349 |
+| Cloudflare | 14,434 |
+| Normal | 36,350 |
 
 
 </details>
