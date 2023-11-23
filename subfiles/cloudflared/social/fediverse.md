@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,025 |
+| com | 8,026 |
 | social | 4,674 |
 | net | 3,957 |
 | org | 2,650 |
@@ -1896,7 +1896,7 @@ Here's a list of public Fediverse services.
 | `aloneroid.one` | No |
 | `alongtheray.social` | Yes |
 | `alpa.social` | Yes |
-| `alpaca.gold` | No |
+| `alpaca.gold` | Yes |
 | `alpacaverse.games` | No |
 | `alpaka.garden` | No |
 | `alpaka.pictures` | No |
@@ -25227,7 +25227,7 @@ Here's a list of public Fediverse services.
 | `longley.ws` | No |
 | `longlines.org` | No |
 | `longmontsocial.club` | No |
-| `longmusic.com` | No |
+| `longmusic.com` | Yes |
 | `longreads.com` | No |
 | `longshadowgames.com` | No |
 | `longtom.party` | No |
@@ -42917,6 +42917,7 @@ Here's a list of public Fediverse services.
 | `syria.social` | No |
 | `syringa.social` | Yes |
 | `syrma.cc` | Yes |
+| `syrosenvobservatory.gr` | No |
 | `syrup.zone` | No |
 | `sys2nix.de` | Yes |
 | `sysad.ninja` | No |
@@ -46654,6 +46655,7 @@ Here's a list of public Fediverse services.
 | `unicuskey.com` | Yes |
 | `unidentified.group` | No |
 | `unifiedberets.com` | Yes |
+| `unifiedh.com` | Yes |
 | `uniflydiscs.com` | No |
 | `unigiri.net` | No |
 | `unikanomo.club` | No |
@@ -50808,8 +50810,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,429 |
-| Normal | 36,331 |
+| Cloudflare | 14,432 |
+| Normal | 36,330 |
 
 
 </details>
