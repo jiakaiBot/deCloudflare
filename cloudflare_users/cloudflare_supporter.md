@@ -1190,6 +1190,7 @@ Do not create new issue or we will close it as duplicate.
 | [Artur37280914@twitter](https://twitter.com/Artur37280914/status/1719067317605159139) | advertise |
 | [Arulnithish777@twitter](https://twitter.com/Arulnithish777/status/1391730535290925057) | advertise |
 | [ArunAR46303075@twitter](https://twitter.com/ArunAR46303075/status/1387955082105290754) | advertise |
+| [ArunodManohara@twitter](https://twitter.com/ArunodManohara/status/1727693973945450499) | advertise |
 | [ArunRk28334808@twitter](https://twitter.com/ArunRk28334808/status/1395434616828268546) | advertise |
 | [ArunShah1997@twitter](https://twitter.com/ArunShah1997/status/1401586641794342914) | advertise |
 | [ArunSharma948@twitter](https://twitter.com/ArunSharma948/status/1682340078645813249) | advertise |
@@ -3408,6 +3409,7 @@ Do not create new issue or we will close it as duplicate.
 | [ducay_manuel@twitter](https://twitter.com/ducay_manuel/status/1714728102381973928) | advertise |
 | [DucchungNguyen9@twitter](https://twitter.com/DucchungNguyen9/status/1552625344544247808) | advertise |
 | [Duccop4@twitter](https://twitter.com/Duccop4/status/1552912129560154112) | advertise |
+| [ducdyy12@twitter](https://twitter.com/ducdyy12/status/1727691767812907059) | advertise |
 | [DucHoaiNam@twitter](https://twitter.com/DucHoaiNam/status/1500240220842708992) | advertise |
 | [duckiecandoit@twitter](https://twitter.com/duckiecandoit/status/1505504435438428163) | advertise |
 | [duckien02@twitter](https://twitter.com/duckien02/status/1482962277364277251) | advertise |
@@ -7205,6 +7207,7 @@ Do not create new issue or we will close it as duplicate.
 | [KyizawW@twitter](https://twitter.com/KyizawW/status/1396771836839579654) | advertise |
 | [KylePekalski@twitter](https://twitter.com/KylePekalski/status/1603235371394932739) | advertise |
 | [kylestearnes@twitter](https://twitter.com/kylestearnes/status/1727080151937347806) | advertise |
+| [Kyle_M_Hector@twitter](https://twitter.com/Kyle_M_Hector/status/1727719157792448705) | advertise |
 | [kyliesyantiek@twitter](https://twitter.com/kyliesyantiek/status/1497652548404387843) | advertise |
 | [Kylin85353754@twitter](https://twitter.com/Kylin85353754/status/1402676839852568576) | advertise |
 | [Kylletd50@twitter](https://twitter.com/Kylletd50/status/1665858527796113417) | advertise |
@@ -8532,6 +8535,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinKhan47884990@twitter](https://twitter.com/MinKhan47884990/status/1628813292088205312) | advertise |
 | [MinKhan54323178@twitter](https://twitter.com/MinKhan54323178/status/1393570594277363716) | advertise |
 | [MinKhan61628516@twitter](https://twitter.com/MinKhan61628516/status/1389762058309103622) | advertise |
+| [minkhant98298@twitter](https://twitter.com/minkhant98298/status/1727698218639905172) | advertise |
 | [MinKhantMaungM2@twitter](https://twitter.com/MinKhantMaungM2/status/1394897331615461378) | advertise |
 | [MinKo87133071@twitter](https://twitter.com/MinKo87133071/status/1386643588642078725) | advertise |
 | [minkyawmin4@twitter](https://twitter.com/minkyawmin4/status/1395569195811627010) | advertise |
@@ -10588,6 +10592,7 @@ Do not create new issue or we will close it as duplicate.
 | [Phuc65469513@twitter](https://twitter.com/Phuc65469513/status/1387044797605552134) | advertise |
 | [Phuc77438485@twitter](https://twitter.com/Phuc77438485/status/1393397513831411718) | advertise |
 | [PhucHoa38056607@twitter](https://twitter.com/PhucHoa38056607/status/1713208047319871995) | advertise |
+| [phuchoang5645@twitter](https://twitter.com/phuchoang5645/status/1727699644841628052) | advertise |
 | [phuckbang000@twitter](https://twitter.com/phuckbang000/status/1397089787564023812) | advertise |
 | [PhucNguyen09020@twitter](https://twitter.com/PhucNguyen09020/status/1553420329007009792) | advertise |
 | [PhucTra95019969@twitter](https://twitter.com/PhucTra95019969/status/1688150530672234497) | advertise |
@@ -12358,6 +12363,7 @@ Do not create new issue or we will close it as duplicate.
 | [SobireenK@twitter](https://twitter.com/SobireenK/status/1394443082637070340) | advertise |
 | [socialfurr@twitter](https://twitter.com/socialfurr/status/1719875527748522163) | advertise |
 | [socksadvisor@twitter](https://twitter.com/socksadvisor/status/1675427600347582465) | advertise |
+| [Sodur5@twitter](https://twitter.com/Sodur5/status/1727709174094520806) | advertise |
 | [soeaungnaing23@twitter](https://twitter.com/soeaungnaing23/status/1379767879344656384) | advertise |
 | [SoeGyi14472135@twitter](https://twitter.com/SoeGyi14472135/status/1390251552225566723) | advertise |
 | [SoeHlaHan1@twitter](https://twitter.com/SoeHlaHan1/status/1392152815091523586) | advertise |
