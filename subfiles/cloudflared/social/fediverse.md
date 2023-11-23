@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,030 |
+| com | 8,031 |
 | social | 4,677 |
 | net | 3,957 |
 | org | 2,650 |
@@ -4183,6 +4183,7 @@ Here's a list of public Fediverse services.
 | `bcast.guru` | Yes |
 | `bccline.com` | No |
 | `bccloud.online` | Yes |
+| `bch.at` | No |
 | `bcicorporate.com` | No |
 | `bckly.com` | Yes |
 | `bckr.me` | Yes |
@@ -38871,6 +38872,7 @@ Here's a list of public Fediverse services.
 | `satanodon.com` | Yes |
 | `sate.li` | Yes |
 | `satealliasdomain.net` | No |
+| `satecloud.com` | No |
 | `sateh.com` | Yes |
 | `satellite.earth` | Yes |
 | `saten.info` | No |
@@ -50827,7 +50829,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,433 |
-| Normal | 36,345 |
+| Normal | 36,347 |
 
 
 </details>
