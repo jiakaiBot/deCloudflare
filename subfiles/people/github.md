@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [The website loads slowly due to government internet censonship in russia](https://github.com/ppy/osu-web/issues/10753)
 - [rule34 Cloudflare challenge](https://github.com/mikf/gallery-dl/issues/4844)
 - [Downloader doesn't work properly](https://github.com/Ravo92/Patch-2.22-Launcher/issues/33)
 - [Replace mocha & karma with vitest](https://github.com/malobre/cfw-argon2id/issues/1)
