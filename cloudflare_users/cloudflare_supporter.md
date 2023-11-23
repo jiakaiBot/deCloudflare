@@ -12954,6 +12954,7 @@ Do not create new issue or we will close it as duplicate.
 | [tenzyumasuda@twitter](https://twitter.com/tenzyumasuda/status/1468236764355641346) | advertise |
 | [TeoEuroo@twitter](https://twitter.com/TeoEuroo/status/1615904082086219776) | advertise |
 | [tequiero1012@twitter](https://twitter.com/tequiero1012/status/1642108373884862464) | advertise |
+| [terabytelabs@twitter](https://twitter.com/terabytelabs/status/1721141204455243878) | advertise |
 | [TeresePoling611@twitter](https://twitter.com/TeresePoling611/status/1473044204804886530) | advertise |
 | [terminaling@twitter](https://twitter.com/terminaling/status/1720704210327765002) | advertise |
 | [terminologiesco@twitter](https://twitter.com/terminologiesco/status/1663118444890578944) | advertise |
