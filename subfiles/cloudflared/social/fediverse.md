@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,031 |
 | social | 4,677 |
-| net | 3,957 |
+| net | 3,958 |
 | org | 2,650 |
 | de | 2,502 |
 
@@ -18832,6 +18832,7 @@ Here's a list of public Fediverse services.
 | `honey.church` | No |
 | `honey.town` | No |
 | `honeybadger.social` | No |
+| `honeyguide.net` | No |
 | `honeypot.im` | No |
 | `honeypot.net` | No |
 | `honeytree.social` | Yes |
@@ -35800,6 +35801,7 @@ Here's a list of public Fediverse services.
 | `protom.eu` | No |
 | `protomolecule.com` | No |
 | `proton.stream` | No |
+| `protopia.tk` | No |
 | `protoxin.net` | Yes |
 | `prou.be` | No |
 | `proud.social` | No |
@@ -50829,7 +50831,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,433 |
-| Normal | 36,347 |
+| Normal | 36,349 |
 
 
 </details>
