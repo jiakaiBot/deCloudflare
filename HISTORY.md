@@ -7,6 +7,7 @@ Here's some of Cloudflare incidents. You can avoid those problems by not using C
 [//]: # (do not edit me; start)
 
 
+- 2023-11-23: [Cloudflare R2 and Cache issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qj0n9j5rqrhm)
 - 2023-11-21: [Network Performance Issues in Delhi](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5fdtnz63fd6s)
 - 2023-11-17: [Area 1 Horizon is down](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/sxg040m1yxlk)
 - 2023-11-17: [DEX HTTP Metrics out of date](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0b5mwp020t1c)
