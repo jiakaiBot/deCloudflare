@@ -13456,6 +13456,7 @@ Here's a list of public Fediverse services.
 | `fakru.ch` | No |
 | `fal.moe` | Yes |
 | `falafel.win` | No |
+| `falai.se` | No |
 | `falconia.club` | No |
 | `falconk.rocks` | No |
 | `fale.io` | No |
@@ -21591,7 +21592,7 @@ Here's a list of public Fediverse services.
 | `jrpg.town` | No |
 | `jrruethe.info` | Yes |
 | `jrwren.dev` | No |
-| `js.social` | Yes |
+| `js.social` | No |
 | `js4.in` | No |
 | `jsantos.eu` | No |
 | `jschuessler.com` | No |
@@ -50806,8 +50807,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,428 |
-| Normal | 36,330 |
+| Cloudflare | 14,427 |
+| Normal | 36,332 |
 
 
 </details>
