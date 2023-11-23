@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,677 |
 | net | 3,957 |
 | org | 2,650 |
-| de | 2,501 |
+| de | 2,502 |
 
 
 - Mastodon, Pleroma, etc
@@ -4795,6 +4795,7 @@ Here's a list of public Fediverse services.
 | `bionicbeer.com` | No |
 | `biont.space` | No |
 | `biophilicresearch.net` | No |
+| `biophonpodcast.de` | No |
 | `biorez.de` | No |
 | `bioxis-server.fr` | No |
 | `bipeds.onl` | No |
@@ -50826,7 +50827,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,433 |
-| Normal | 36,344 |
+| Normal | 36,345 |
 
 
 </details>
