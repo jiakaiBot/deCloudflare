@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [nefunguje overenie identity na produkcii](https://github.com/bratislava/konto.bratislava.sk/issues/619)
+- [Al ejecutar facilito.py, el script se detiene al momento de navegar en la pantalla del curso](https://github.com/ivansaul/codigo_facilito_downloader/issues/16)
 - [Gitlab repo download fails](https://github.com/leg100/otf/issues/651)
 - [The website loads slowly due to government internet censonship in russia](https://github.com/ppy/osu-web/issues/10753)
 - [rule34 Cloudflare challenge](https://github.com/mikf/gallery-dl/issues/4844)
