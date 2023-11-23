@@ -8,24 +8,24 @@ Here's the result.
 
 | Blocklist | Domains Count | Cloudflare | % |
 | --- | --- | --- | --- |
-| [1Hosts.Lite](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.win) | 55,081 | 17,090 | 31.03% |
-| [1Hosts.Mini](https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/hosts.win) | 52,746 | 16,437 | 31.16% |
-| [1Hosts.Pro](https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.win) | 111,774 | 39,028 | 34.92% |
+| [1Hosts.Lite](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/hosts.win) | 54,553 | 17,133 | 31.41% |
+| [1Hosts.Mini](https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/hosts.win) | 52,575 | 16,372 | 31.14% |
+| [1Hosts.Pro](https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.win) | 111,695 | 39,223 | 35.12% |
 | [AdAway](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt) | 1,953 | 807 | 41.32% |
-| [AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | 54,262 | 10,869 | 20.03% |
-| [HaGeZi.LIGHT](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt) | 50,344 | 16,809 | 33.39% |
-| [HaGeZi.NORMAL](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt) | 136,121 | 37,591 | 27.62% |
-| [HaGeZi.PROPLUS](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.plus.txt) | 297,467 | 77,950 | 26.2% |
-| [HaGeZi.PRO](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt) | 230,293 | 61,904 | 26.88% |
-| [HaGeZi.ULTIMATE](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/ultimate.txt) | 389,295 | 108,136 | 27.78% |
-| [OISD.B](https://big.oisd.nl/dnsmasq) | 155,907 | 45,375 | 29.1% |
-| [OISD.N](https://nsfw.oisd.nl/dnsmasq) | 356,240 | 148,449 | 41.67% |
-| [OISD.S](https://small.oisd.nl/dnsmasq) | 36,986 | 8,424 | 22.78% |
-| [StevenBlack.UF](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts) | 63,883 | 24,586 | 38.49% |
-| [StevenBlack.UG](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts) | 66,905 | 26,450 | 39.53% |
-| [StevenBlack.UP](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts) | 88,923 | 36,855 | 41.45% |
-| [StevenBlack.US](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts) | 61,793 | 24,053 | 38.93% |
-| Total | 786,775 | 268,017 | 34.07% |
+| [AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | 54,326 | 10,877 | 20.02% |
+| [HaGeZi.LIGHT](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt) | 50,591 | 16,860 | 33.33% |
+| [HaGeZi.NORMAL](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt) | 136,459 | 37,679 | 27.61% |
+| [HaGeZi.PROPLUS](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.plus.txt) | 298,423 | 78,247 | 26.22% |
+| [HaGeZi.PRO](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.txt) | 231,060 | 62,139 | 26.89% |
+| [HaGeZi.ULTIMATE](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/ultimate.txt) | 390,226 | 108,353 | 27.77% |
+| [OISD.B](https://big.oisd.nl/dnsmasq) | 155,809 | 45,480 | 29.19% |
+| [OISD.N](https://nsfw.oisd.nl/dnsmasq) | 399,966 | 159,038 | 39.76% |
+| [OISD.S](https://small.oisd.nl/dnsmasq) | 37,055 | 8,439 | 22.77% |
+| [StevenBlack.UF](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts) | 64,183 | 24,717 | 38.51% |
+| [StevenBlack.UG](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts) | 67,205 | 26,583 | 39.56% |
+| [StevenBlack.UP](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts) | 89,223 | 36,969 | 41.43% |
+| [StevenBlack.US](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts) | 62,093 | 24,185 | 38.95% |
+| Total | 828,892 | 278,257 | 33.57% |
 
 
-### 34.07% of domains listed in DNS filter/blocklists are using Cloudflare.
+### 33.57% of domains listed in DNS filter/blocklists are using Cloudflare.
