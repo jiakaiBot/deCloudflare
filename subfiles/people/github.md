@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Support cloudflare wrangler](https://github.com/oven-sh/bun/issues/7290)
 - [nefunguje overenie identity na produkcii](https://github.com/bratislava/konto.bratislava.sk/issues/619)
 - [Al ejecutar facilito.py, el script se detiene al momento de navegar en la pantalla del curso](https://github.com/ivansaul/codigo_facilito_downloader/issues/16)
 - [Gitlab repo download fails](https://github.com/leg100/otf/issues/651)
