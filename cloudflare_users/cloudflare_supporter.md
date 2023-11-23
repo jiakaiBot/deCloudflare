@@ -12520,6 +12520,7 @@ Do not create new issue or we will close it as duplicate.
 | [ssbs36576411@twitter](https://twitter.com/ssbs36576411/status/1399095335973265418) | advertise |
 | [ssf5tx5ktv@twitter](https://twitter.com/ssf5tx5ktv/status/1536649892520955905) | advertise |
 | [SshuvoFF1@twitter](https://twitter.com/SshuvoFF1/status/1502123888020393985) | advertise |
+| [sssanjayah@twitter](https://twitter.com/sssanjayah/status/1727762369668088019) | advertise |
 | [SsssTwinkie@twitter](https://twitter.com/SsssTwinkie/status/1627730651670794240) | advertise |
 | [SSuiteSoftware@twitter](https://twitter.com/SSuiteSoftware/status/1372875712240230400) | advertise |
 | [Ssupunsathsara@twitter](https://twitter.com/Ssupunsathsara/status/1545152719266410496) | advertise |
