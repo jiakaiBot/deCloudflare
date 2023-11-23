@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,024 |
+| com | 8,025 |
 | social | 4,674 |
 | net | 3,957 |
 | org | 2,650 |
@@ -8133,7 +8133,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -33477,7 +33477,7 @@ Here's a list of public Fediverse services.
 | `oxente.club` | No |
 | `oxgoad.page` | No |
 | `oxhead.dev` | No |
-| `oxidized.systems` | No |
+| `oxidized.systems` | Yes |
 | `oxlajujqanil.net` | No |
 | `oxom.de` | Yes |
 | `oxus.net` | Yes |
@@ -44245,6 +44245,7 @@ Here's a list of public Fediverse services.
 | `themays.me` | Yes |
 | `themazuma.net` | No |
 | `themazzarella.net` | No |
+| `thembo-industries.com` | No |
 | `themcbros.com` | Yes |
 | `themcphails.uk` | No |
 | `themelancholaholic.com` | No |
@@ -50807,8 +50808,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,427 |
-| Normal | 36,332 |
+| Cloudflare | 14,429 |
+| Normal | 36,331 |
 
 
 </details>
