@@ -19303,6 +19303,7 @@ Here's a list of public Fediverse services.
 | `hypertextcoffee.com` | Yes |
 | `hypervasis.com` | Yes |
 | `hypetrix.com` | Yes |
+| `hypha.coop` | No |
 | `hyphalfusion.network` | No |
 | `hypno.cafe` | No |
 | `hypno.church` | No |
@@ -50833,7 +50834,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,434 |
-| Normal | 36,350 |
+| Normal | 36,351 |
 
 
 </details>
