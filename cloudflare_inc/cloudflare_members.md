@@ -750,6 +750,7 @@ Or is this merely a case of simple modesty?
 | Ingvar Stepanyan | JavaScript Performance Engineer, Ukraine |  |
 | Irena Islam | Customer Success Engineer |  |
 | Irene Chang | Head of Expansion |  |
+| Isaac Rehg | Employee | |
 | Isaac Specter | Product Strategy, Austin |  |
 | Ivan Babrou | Systems Engineer | mail@ivan.computer<br>https://twitter.com/ibobrik<br>https://github.com/bobrik<br>https://ivan.computer/ |
 | Ivan Balepin | Systems Engineer |  |
