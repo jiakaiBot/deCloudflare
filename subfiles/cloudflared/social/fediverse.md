@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,037 |
-| social | 4,680 |
+| social | 4,681 |
 | net | 3,959 |
 | org | 2,652 |
 | de | 2,505 |
@@ -14597,6 +14597,7 @@ Here's a list of public Fediverse services.
 | `floccus.net` | Yes |
 | `flockingbird.social` | No |
 | `flockofnazguls.com` | No |
+| `flocktogether.social` | No |
 | `floe.earth` | No |
 | `flohgro.com` | No |
 | `flokinet.is` | No |
@@ -18070,7 +18071,7 @@ Here's a list of public Fediverse services.
 | `hcaz.io` | No |
 | `hccp.org` | No |
 | `hci.social` | No |
-| `hcj.sh` | Yes |
+| `hcj.sh` | No |
 | `hckr.lol` | Yes |
 | `hckr.no` | No |
 | `hcommons-dev.social` | No |
@@ -50860,8 +50861,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,446 |
-| Normal | 36,366 |
+| Cloudflare | 14,445 |
+| Normal | 36,368 |
 
 
 </details>
