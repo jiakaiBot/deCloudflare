@@ -682,7 +682,7 @@ Here's a list of public Fediverse services.
 | `621industries.com` | Yes |
 | `62ki.net` | Yes |
 | `62x54r.ru` | No |
-| `64-b.it` | No |
+| `64-b.it` | Yes |
 | `64.re` | No |
 | `6449.work` | No |
 | `64b1t.com` | No |
@@ -8141,7 +8141,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -14942,7 +14942,7 @@ Here's a list of public Fediverse services.
 | `foxhillyer.org` | No |
 | `foxhold.net` | Yes |
 | `foxi.sh` | No |
-| `foxie.xyz` | No |
+| `foxie.xyz` | Yes |
 | `foxiepa.ws` | No |
 | `foxis.dev` | No |
 | `foxnewsofficial.com` | No |
@@ -38500,6 +38500,7 @@ Here's a list of public Fediverse services.
 | `saastisfy.com` | No |
 | `saastodon.social` | Yes |
 | `saasycloud.social` | No |
+| `saatanantunar.it` | No |
 | `saayaa.space` | No |
 | `saba.run` | Yes |
 | `sabadell.site` | No |
@@ -50836,8 +50837,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,433 |
-| Normal | 36,355 |
+| Cloudflare | 14,436 |
+| Normal | 36,353 |
 
 
 </details>
