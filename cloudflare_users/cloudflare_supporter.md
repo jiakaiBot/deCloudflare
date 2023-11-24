@@ -1000,6 +1000,7 @@ Do not create new issue or we will close it as duplicate.
 | [AnirudhWith@twitter](https://twitter.com/AnirudhWith/status/1693256466650526008) | advertise |
 | [Anisapondan@twitter](https://twitter.com/Anisapondan/status/1403055432973701122) | advertise |
 | [AnitaEv32534378@twitter](https://twitter.com/AnitaEv32534378/status/1539765323372568578) | advertise |
+| [aniz_1@twitter](https://twitter.com/aniz_1/status/1728022269660996044) | advertise |
 | [AnjonDas93@twitter](https://twitter.com/AnjonDas93/status/1538531685188268032) | advertise |
 | [AnjuNay08054863@twitter](https://twitter.com/AnjuNay08054863/status/1389219256353509379) | advertise |
 | [AnJuullyan@twitter](https://twitter.com/AnJuullyan/status/1604878076613079041) | advertise |
