@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot connect to London with PIA](https://github.com/qdm12/gluetun/issues/1978)
 - [Intermittent unable to log in behind load balancing reverse proxy with TOTP enabled - IP address changed](https://github.com/home-assistant/core/issues/104450)
 - [Support cloudflare wrangler](https://github.com/oven-sh/bun/issues/7290)
 - [nefunguje overenie identity na produkcii](https://github.com/bratislava/konto.bratislava.sk/issues/619)
