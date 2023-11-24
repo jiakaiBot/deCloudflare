@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,037 |
 | social | 4,680 |
 | net | 3,959 |
-| org | 2,651 |
+| org | 2,652 |
 | de | 2,505 |
 
 
@@ -8548,7 +8548,6 @@ Here's a list of public Fediverse services.
 | `cosmos.social` | Yes |
 | `cosmoschaos.net` | Yes |
 | `cosnomi.com` | Yes |
-| `cosocaf.com` | Yes |
 | `cosocial.ca` | No |
 | `cosocial.engineering` | No |
 | `cosp.la` | No |
@@ -19905,6 +19904,7 @@ Here's a list of public Fediverse services.
 | `indivia.net` | No |
 | `indoario.xyz` | No |
 | `indologylive.org` | No |
+| `indonesiantranslationservice.com` | No |
 | `indoors.club` | No |
 | `indoors.trade` | No |
 | `indoorsman.ee` | No |
@@ -29780,6 +29780,7 @@ Here's a list of public Fediverse services.
 | `musaraj.com` | Yes |
 | `muscle.rocks` | No |
 | `muscledon.net` | No |
+| `musecharmer.network` | No |
 | `musee.social` | No |
 | `muses.gallery` | Yes |
 | `musetech.social` | Yes |
@@ -32563,6 +32564,7 @@ Here's a list of public Fediverse services.
 | `ohmygod.social` | No |
 | `ohmylanta.today` | No |
 | `ohmyposh.dev` | Yes |
+| `ohnenamen.ch` | No |
 | `ohnepunktundkomma.org` | No |
 | `ohno.club` | No |
 | `ohno.host` | No |
@@ -33899,6 +33901,7 @@ Here's a list of public Fediverse services.
 | `patch.cx` | No |
 | `patchouli.today` | Yes |
 | `patchwork.link` | No |
+| `patelish.org` | No |
 | `patesadon.com` | No |
 | `pateti.co` | No |
 | `path.pictures` | No |
@@ -50857,8 +50860,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,447 |
-| Normal | 36,362 |
+| Cloudflare | 14,446 |
+| Normal | 36,366 |
 
 
 </details>
