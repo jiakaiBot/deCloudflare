@@ -8140,7 +8140,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -15951,6 +15951,7 @@ Here's a list of public Fediverse services.
 | `gamingecke.space` | No |
 | `gaminginthe.cloud` | Yes |
 | `gamingjp.org` | No |
+| `gaminglinux.fr` | No |
 | `gamma-x.net` | No |
 | `gammalab.net` | No |
 | `gammon.club` | No |
@@ -35874,7 +35875,7 @@ Here's a list of public Fediverse services.
 | `psynergy.io` | No |
 | `psynet.me` | No |
 | `psyopshop.com` | No |
-| `psyopvict.im` | Yes |
+| `psyopvict.im` | No |
 | `psysocial.net` | Yes |
 | `psyver.space` | No |
 | `pta2002.com` | Yes |
@@ -50833,8 +50834,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,434 |
-| Normal | 36,351 |
+| Cloudflare | 14,432 |
+| Normal | 36,354 |
 
 
 </details>
