@@ -6401,6 +6401,7 @@ Do not create new issue or we will close it as duplicate.
 | [KateNguyn20@twitter](https://twitter.com/KateNguyn20/status/1380191904990588929) | advertise |
 | [KatiePieterse4@twitter](https://twitter.com/KatiePieterse4/status/1400893992628375557) | advertise |
 | [KatotaNitech@twitter](https://twitter.com/KatotaNitech/status/1670641289543716864) | advertise |
+| [KatXYZgaming@twitter](https://twitter.com/KatXYZgaming/status/1728027517834100925) | advertise |
 | [kaumnen@twitter](https://twitter.com/kaumnen/status/1460612796106911749) | advertise |
 | [Kaung72075076@twitter](https://twitter.com/Kaung72075076/status/1390673137629638656) | advertise |
 | [KaungChin@twitter](https://twitter.com/KaungChin/status/1393205646988767234) | advertise |
@@ -9536,6 +9537,7 @@ Do not create new issue or we will close it as duplicate.
 | [ngu60217140@twitter](https://twitter.com/ngu60217140/status/1548887446649466880) | advertise |
 | [ngu70789035@twitter](https://twitter.com/ngu70789035/status/1603091179309912064) | advertise |
 | [ngubaven1@twitter](https://twitter.com/ngubaven1/status/1490672816022507520) | advertise |
+| [NguMo85899223@twitter](https://twitter.com/NguMo85899223/status/1728029236487983513) | advertise |
 | [NgunvnLi2@twitter](https://twitter.com/NgunvnLi2/status/1611613690524233728) | advertise |
 | [NguoidaxaHoang@twitter](https://twitter.com/NguoidaxaHoang/status/1686304804182831106) | advertise |
 | [nguoidepnhinene@twitter](https://twitter.com/nguoidepnhinene/status/1622987929177186304) | advertise |
