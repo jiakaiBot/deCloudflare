@@ -2244,6 +2244,7 @@ Do not create new issue or we will close it as duplicate.
 | [c95405246@twitter](https://twitter.com/c95405246/status/1397498966304980999) | advertise |
 | [Cabasy3@twitter](https://twitter.com/Cabasy3/status/1639513438442475520) | advertise |
 | [cabbage0102@twitter](https://twitter.com/cabbage0102/status/1415316191942299651) | advertise |
+| [CabdinuurN54312@twitter](https://twitter.com/CabdinuurN54312/status/1728007803858542668) | advertise |
 | [Cabduraxiim5@twitter](https://twitter.com/Cabduraxiim5/status/1719978646067106174) | advertise |
 | [CabinetsWaverly@twitter](https://twitter.com/CabinetsWaverly/status/1574829182814752793) | advertise |
 | [CADINUDAO2@twitter](https://twitter.com/CADINUDAO2/status/1676699702094430211) | advertise |
