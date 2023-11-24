@@ -49,6 +49,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | brahma.world | Yes |
 | c-dns.com | No |
 | carson-family.com | Yes |
+| cgnat.net | No |
 | chenu.ch | No |
 | cira.ca | Yes |
 | circl.lu | No |
@@ -174,6 +175,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | safeservedns.com | No |
 | safesurfer.io | Yes |
 | sarak.as | Yes |
+| seby.io | Yes |
 | sev.monster | No |
 | shecan.ir | No |
 | shuting.idv.tw | Yes |
@@ -216,8 +218,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 90 |
-| Normal | 107 |
+| Cloudflare | 91 |
+| Normal | 108 |
 
 
 ### 45.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
