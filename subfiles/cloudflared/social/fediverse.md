@@ -9367,6 +9367,7 @@ Here's a list of public Fediverse services.
 | `cyph.xyz` | No |
 | `cypher.social` | No |
 | `cyphercolt.com` | No |
+| `cypherpunk.life` | No |
 | `cypherpunk.observer` | No |
 | `cypherpunks.it` | No |
 | `cypherpunks.social` | Yes |
@@ -38527,6 +38528,7 @@ Here's a list of public Fediverse services.
 | `sabre.social` | No |
 | `sabrinajewson.org` | No |
 | `sabross.xyz` | No |
+| `sabzipolo.xyz` | Yes |
 | `sac.moe` | Yes |
 | `sac.se` | No |
 | `sacamano.net` | No |
@@ -50851,8 +50853,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,443 |
-| Normal | 36,360 |
+| Cloudflare | 14,444 |
+| Normal | 36,361 |
 
 
 </details>
