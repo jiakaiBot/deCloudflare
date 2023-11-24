@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,033 |
-| social | 4,677 |
+| com | 8,034 |
+| social | 4,678 |
 | net | 3,958 |
 | org | 2,650 |
 | de | 2,502 |
@@ -740,7 +740,7 @@ Here's a list of public Fediverse services.
 | `7pm.org` | No |
 | `7pounds.army` | Yes |
 | `7rg.de` | No |
-| `7robots.org` | No |
+| `7robots.org` | Yes |
 | `7sdre.am` | Yes |
 | `7seven.cloud` | Yes |
 | `7shiro.com` | Yes |
@@ -7889,6 +7889,7 @@ Here's a list of public Fediverse services.
 | `cnet.site` | Yes |
 | `cni-coop.net` | No |
 | `cnmist.xyz` | No |
+| `cnmri.com` | No |
 | `cnn.com` | Yes |
 | `cnova.de` | No |
 | `cnr.it` | No |
@@ -13226,6 +13227,7 @@ Here's a list of public Fediverse services.
 | `existiert.ch` | Yes |
 | `exited.eu` | No |
 | `exitmusic.world` | Yes |
+| `exito.social` | No |
 | `exitus.social` | No |
 | `exkc.moe` | Yes |
 | `exma.de` | No |
@@ -50834,8 +50836,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,432 |
-| Normal | 36,354 |
+| Cloudflare | 14,433 |
+| Normal | 36,355 |
 
 
 </details>
