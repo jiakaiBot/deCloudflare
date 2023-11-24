@@ -16,7 +16,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 00dani.me | No |
 | 0ms.dev | Yes |
 | 198.games | No |
-| 23-4.cn | No |
 | 360.cn | No |
 | 4-the.win | Yes |
 | 52306.org | Yes |
@@ -50,21 +49,17 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | brahma.world | Yes |
 | c-dns.com | No |
 | carson-family.com | Yes |
-| cgnat.net | No |
 | chenu.ch | No |
 | cira.ca | Yes |
 | circl.lu | No |
 | clanless.ovh | Yes |
 | cloudflare-dns.com | Yes |
-| crypto.sx | Yes |
 | cynthialabs.net | Yes |
 | data.haus | No |
 | datacore.ch | No |
 | datahata.by | No |
 | daw.dev | No |
-| decloudus.com | No |
 | despagne.net | No |
-| detoxifypornblocker.com | No |
 | digitale-gesellschaft.ch | No |
 | digitalsize.net | No |
 | disconnect.app | Yes |
@@ -76,7 +71,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dns4all.eu | No |
 | dns8.org | No |
 | dnscry.pt | No |
-| dnscrypt.ca | No |
 | dnsforfamily.com | Yes |
 | dnsforge.de | No |
 | dnshome.de | No |
@@ -156,10 +150,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | ns3.com | No |
 | ns3.cx | No |
 | ns3.link | No |
-| occ.top | Yes |
 | ofdoom.net | Yes |
 | onedns.cc | Yes |
-| onedns.net | No |
 | openbld.net | No |
 | opendns.com | Yes |
 | ozer.im | No |
@@ -182,7 +174,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | safeservedns.com | No |
 | safesurfer.io | Yes |
 | sarak.as | Yes |
-| seby.io | Yes |
 | sev.monster | No |
 | shecan.ir | No |
 | shuting.idv.tw | Yes |
@@ -225,8 +216,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 93 |
-| Normal | 113 |
+| Cloudflare | 90 |
+| Normal | 107 |
 
 
-### 45.1% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 45.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
