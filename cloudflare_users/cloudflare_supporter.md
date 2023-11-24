@@ -2192,6 +2192,7 @@ Do not create new issue or we will close it as duplicate.
 | [bumrah888@twitter](https://twitter.com/bumrah888/status/1389055956856705024) | advertise |
 | [BundlesChinx@twitter](https://twitter.com/BundlesChinx/status/1607908988573855746) | advertise |
 | [bunkercoin@twitter](https://twitter.com/bunkercoin/status/1482786162343395328) | advertise |
+| [BunlarSarawut@twitter](https://twitter.com/BunlarSarawut/status/1727772315016941612) | advertise |
 | [bunny01627359@twitter](https://twitter.com/bunny01627359/status/1390340286769897475) | advertise |
 | [Bunny257930@twitter](https://twitter.com/Bunny257930/status/1396442714577661956) | advertise |
 | [Bunny43788913@twitter](https://twitter.com/Bunny43788913/status/1376950304982327303) | advertise |
@@ -7475,6 +7476,7 @@ Do not create new issue or we will close it as duplicate.
 | [lincolndu@twitter](https://twitter.com/lincolndu/status/1577637836731260928) | advertise |
 | [LindseyCreated@twitter](https://twitter.com/LindseyCreated/status/1665874496232800257) | advertise |
 | [Lineetcom@twitter](https://twitter.com/Lineetcom/status/1432080628141289475) | advertise |
+| [LineLinedate@twitter](https://twitter.com/LineLinedate/status/1727925183049294058) | advertise |
 | [LineNetizen@twitter](https://twitter.com/LineNetizen/status/1410440237751308289) | moral (advertise) |
 | [Linesinlove1@twitter](https://twitter.com/Linesinlove1/status/1672278004565696512) | advertise |
 | [Linfiel@twitter](https://twitter.com/Linfiel/status/1620386108013154305) | advertise |
@@ -7925,6 +7927,7 @@ Do not create new issue or we will close it as duplicate.
 | [MaiVnTi54764591@twitter](https://twitter.com/MaiVnTi54764591/status/1396340065610059776) | advertise |
 | [MaiXunTin7@twitter](https://twitter.com/MaiXunTin7/status/1622963456914882561) | advertise |
 | [maiykael@twitter](https://twitter.com/maiykael/status/1402267022659104779) | advertise |
+| [MajeEmmanuel@twitter](https://twitter.com/MajeEmmanuel/status/1727869253930623455) | advertise |
 | [Majembe_boy@twitter](https://twitter.com/Majembe_boy/status/1554719903516868609) | advertise |
 | [majid10485233@twitter](https://twitter.com/majid10485233/status/1583392173814616067) | advertise |
 | [majid47457865@twitter](https://twitter.com/majid47457865/status/1599085514589552640) | advertise |
@@ -9031,6 +9034,7 @@ Do not create new issue or we will close it as duplicate.
 | [muthan14383@twitter](https://twitter.com/muthan14383/status/1393563436575989764) | advertise |
 | [muthusblog@twitter](https://twitter.com/muthusblog/status/1387977153954807808) | advertise |
 | [mutnauQuantum@twitter](https://twitter.com/mutnauQuantum/status/1638884930896957440) | advertise |
+| [mutualioo@twitter](https://twitter.com/mutualioo/status/1727737742027854187) | advertise |
 | [muzzadatukMuzaf@twitter](https://twitter.com/muzzadatukMuzaf/status/1536250143518777344) | advertise |
 | [muzzammilmpr@twitter](https://twitter.com/muzzammilmpr/status/1386511376730841090) | advertise |
 | [MuzzaMuzzaMuzz@twitter](https://twitter.com/MuzzaMuzzaMuzz/status/1609817033792946176) | advertise |
@@ -13492,6 +13496,7 @@ Do not create new issue or we will close it as duplicate.
 | [TiinTung@twitter](https://twitter.com/TiinTung/status/1618284022014308355) | advertise |
 | [Tikk109@twitter](https://twitter.com/Tikk109/status/1687045480210194438) | advertise |
 | [TikkhaVen@twitter](https://twitter.com/TikkhaVen/status/1390583202595672069) | advertise |
+| [TimCee14@twitter](https://twitter.com/TimCee14/status/1727813148294492310) | advertise |
 | [Timeox2kDev@twitter](https://twitter.com/Timeox2kDev/status/1529840436390420480) | advertise |
 | [TimJiang0106@twitter](https://twitter.com/TimJiang0106/status/1602945168805486592) | advertise |
 | [TiMMaY57798738@twitter](https://twitter.com/TiMMaY57798738/status/1487406924849160192) | advertise |
