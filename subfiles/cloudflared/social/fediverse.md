@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,037 |
 | social | 4,678 |
 | net | 3,959 |
-| org | 2,650 |
+| org | 2,651 |
 | de | 2,503 |
 
 
@@ -5138,6 +5138,7 @@ Here's a list of public Fediverse services.
 | `bliothek.social` | No |
 | `blip.cf` | Yes |
 | `blipdrifter.com` | No |
+| `blips2.club` | Yes |
 | `blisscampus.com` | No |
 | `blisses.org` | No |
 | `blizzard.systems` | No |
@@ -14220,6 +14221,7 @@ Here's a list of public Fediverse services.
 | `feynman.monster` | No |
 | `feyo.pw` | No |
 | `fez.social` | No |
+| `fezstuff.online` | No |
 | `ff-sec.eu` | No |
 | `ff00aa.com` | No |
 | `ff0x.ca` | Yes |
@@ -14823,6 +14825,7 @@ Here's a list of public Fediverse services.
 | `forgesparks.com` | No |
 | `forget-not.me` | Yes |
 | `forgetthis.site` | No |
+| `forgforgf.org` | No |
 | `forgi.social` | Yes |
 | `forgor.club` | Yes |
 | `foritso.com` | Yes |
@@ -22672,7 +22675,7 @@ Here's a list of public Fediverse services.
 | `kink.social` | Yes |
 | `kink.town` | No |
 | `kinkcalendar.site` | No |
-| `kinkpic.site` | No |
+| `kinkpic.site` | Yes |
 | `kinks.wtf` | Yes |
 | `kinkster.dk` | No |
 | `kinktroet.social` | No |
@@ -50845,8 +50848,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,439 |
-| Normal | 36,358 |
+| Cloudflare | 14,441 |
+| Normal | 36,359 |
 
 
 </details>
