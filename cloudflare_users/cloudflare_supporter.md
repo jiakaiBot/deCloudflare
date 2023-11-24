@@ -3708,6 +3708,7 @@ Do not create new issue or we will close it as duplicate.
 | [Enchu_0110@twitter](https://twitter.com/Enchu_0110/status/1456429926660329478) | advertise |
 | [encm99@twitter](https://twitter.com/encm99/status/1393104448180822018) | advertise |
 | [EncrewT@twitter](https://twitter.com/EncrewT/status/1398298695955714052) | advertise |
+| [Ender0001_@twitter](https://twitter.com/Ender0001_/status/1728083444847038884) | advertise |
 | [endonpdc@twitter](https://twitter.com/endonpdc/status/1388774451794235397) | advertise |
 | [EnenraWuynne121@twitter](https://twitter.com/EnenraWuynne121/status/1716485368600772901) | advertise |
 | [enesphp@twitter](https://twitter.com/enesphp/status/1402188376867065863) | advertise |
@@ -5963,6 +5964,7 @@ Do not create new issue or we will close it as duplicate.
 | [jeremyalmc@twitter](https://twitter.com/jeremyalmc/status/1569703908821327872) | advertise |
 | [jeremyfhall@twitter](https://twitter.com/jeremyfhall/status/1379201437767499777) | advertise |
 | [jeremymcdonell@twitter](https://twitter.com/jeremymcdonell/status/1397803423475503107) | advertise |
+| [jericho_dev@twitter](https://twitter.com/jericho_dev/status/1728105490583023952) | advertise |
 | [JericTamayo@twitter](https://twitter.com/JericTamayo/status/1624018556303323137) | advertise |
 | [jerkyjeck@twitter](https://twitter.com/jerkyjeck/status/1404845420530966533) | advertise |
 | [JermHC@twitter](https://twitter.com/JermHC/status/1659534531613933571) | advertise |
