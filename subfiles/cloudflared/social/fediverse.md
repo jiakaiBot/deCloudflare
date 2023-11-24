@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,037 |
-| social | 4,679 |
+| social | 4,680 |
 | net | 3,959 |
 | org | 2,651 |
-| de | 2,504 |
+| de | 2,505 |
 
 
 - Mastodon, Pleroma, etc
@@ -10683,6 +10683,7 @@ Here's a list of public Fediverse services.
 | `die-partei.social` | No |
 | `die-progressiven.de` | No |
 | `die-stammrunde.de` | No |
+| `die-steinerts.de` | No |
 | `die.one` | Yes |
 | `die3um2.de` | No |
 | `dieandalusier.net` | No |
@@ -35507,6 +35508,7 @@ Here's a list of public Fediverse services.
 | `poyusbuddy.com` | Yes |
 | `pp-social.com` | Yes |
 | `pp.lu` | No |
+| `pp.social` | Yes |
 | `ppcis.org` | No |
 | `ppiy.ac` | Yes |
 | `ppl.town` | No |
@@ -50853,8 +50855,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,444 |
-| Normal | 36,361 |
+| Cloudflare | 14,445 |
+| Normal | 36,362 |
 
 
 </details>
