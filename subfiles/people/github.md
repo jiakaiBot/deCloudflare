@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Intermittent unable to log in behind load balancing reverse proxy with TOTP enabled - IP address changed](https://github.com/home-assistant/core/issues/104450)
 - [Support cloudflare wrangler](https://github.com/oven-sh/bun/issues/7290)
 - [nefunguje overenie identity na produkcii](https://github.com/bratislava/konto.bratislava.sk/issues/619)
 - [Al ejecutar facilito.py, el script se detiene al momento de navegar en la pantalla del curso](https://github.com/ivansaul/codigo_facilito_downloader/issues/16)
