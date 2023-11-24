@@ -325,11 +325,12 @@ Here's a list of breached sites.
 | KMRU (KM.RU) | 1,476,783 | Yes |
 | Kickstarter | 5,176,463 | Yes |
 | Kimsufi | 504,565 | No |
+| KitchenPal | 98,726 | No |
 | KiwiFarms | 4,606 | Yes |
 | KnownCircle | 1,957,600 | No |
 | Knuddels | 808,330 | No |
 | KodiFoundation (The Kodi Foundation) | 400,635 | Yes |
-| KomplettFritid | 139,401 | No |
+| KomplettFritid | 139,401 | Yes |
 | Kreditplus | 768,890 | Yes |
 | LBB | 39,288 | Yes |
 | LOTR (Lord of the Rings Online) | 1,141,278 | No |
@@ -712,10 +713,10 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 405 | 4,517,235,909 |
-| Normal | 286 | 4,518,843,157 |
+| Cloudflare | 406 | 4,517,375,310 |
+| Normal | 286 | 4,518,802,482 |
 
 
 
-### 58.6% of breached sites (pwned sites) are using Cloudflare.
+### 58.7% of breached sites (pwned sites) are using Cloudflare.
 ### 50% of leaked accounts are on Cloudflare sites.
