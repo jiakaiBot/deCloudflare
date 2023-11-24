@@ -10112,6 +10112,7 @@ Here's a list of public Fediverse services.
 | `deepblue.dev` | No |
 | `deepdark.blue` | Yes |
 | `deeperwisdom.org` | No |
+| `deeplab.fr` | No |
 | `deepmay.social` | No |
 | `deepmindstate.net` | No |
 | `deepnexus.link` | Yes |
@@ -50845,7 +50846,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,439 |
-| Normal | 36,357 |
+| Normal | 36,358 |
 
 
 </details>
