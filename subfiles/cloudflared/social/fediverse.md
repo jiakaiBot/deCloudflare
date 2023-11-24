@@ -4800,7 +4800,7 @@ Here's a list of public Fediverse services.
 | `bionicbeer.com` | No |
 | `biont.space` | No |
 | `biophilicresearch.net` | No |
-| `biophonpodcast.de` | No |
+| `biophonpodcast.de` | Yes |
 | `biorez.de` | No |
 | `bioxis-server.fr` | No |
 | `bipeds.onl` | No |
@@ -16560,6 +16560,7 @@ Here's a list of public Fediverse services.
 | `girino.org` | Yes |
 | `girl-is.gay` | No |
 | `girlc.at` | Yes |
+| `girlclock.club` | No |
 | `girlcock.ceo` | No |
 | `girlcock.club` | No |
 | `girlcock.eu` | No |
@@ -40035,6 +40036,7 @@ Here's a list of public Fediverse services.
 | `shitforce.one` | No |
 | `shitnexus.party` | No |
 | `shitnoise.monster` | No |
+| `shiton.xyz` | Yes |
 | `shitpo.st` | Yes |
 | `shitpost.blog` | No |
 | `shitpost.cloud` | No |
@@ -50855,7 +50857,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,445 |
+| Cloudflare | 14,447 |
 | Normal | 36,362 |
 
 
