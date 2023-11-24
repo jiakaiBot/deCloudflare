@@ -30,10 +30,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 8,037 |
-| social | 4,678 |
+| social | 4,679 |
 | net | 3,959 |
 | org | 2,651 |
-| de | 2,503 |
+| de | 2,504 |
 
 
 - Mastodon, Pleroma, etc
@@ -1151,6 +1151,7 @@ Here's a list of public Fediverse services.
 | `adalov.io` | No |
 | `adam.ac` | Yes |
 | `adamasnemesis.com` | No |
+| `adamazing.de` | No |
 | `adamb.ro` | No |
 | `adambindslev.dk` | No |
 | `adambowl.es` | No |
@@ -2883,6 +2884,7 @@ Here's a list of public Fediverse services.
 | `arkenous.net` | Yes |
 | `arkham.cafe` | No |
 | `arkm.de` | No |
+| `arkm.social` | No |
 | `arkmag.rocks` | No |
 | `arkproject.io` | Yes |
 | `arkros.net` | No |
@@ -10076,6 +10078,7 @@ Here's a list of public Fediverse services.
 | `deck.ovh` | No |
 | `deckard.pub` | Yes |
 | `deckc.hair` | No |
+| `decl.jp` | Yes |
 | `declanbyrd.co.uk` | No |
 | `declin.eu` | No |
 | `decoded.legal` | No |
@@ -44522,7 +44525,7 @@ Here's a list of public Fediverse services.
 | `theweird.space` | No |
 | `thewell.ml` | No |
 | `thewhatnow.eu` | No |
-| `thewhole.site` | No |
+| `thewhole.site` | Yes |
 | `thewiesners.org` | No |
 | `thewinchester.pub` | No |
 | `thewinter.space` | No |
@@ -50848,8 +50851,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,441 |
-| Normal | 36,359 |
+| Cloudflare | 14,443 |
+| Normal | 36,360 |
 
 
 </details>
