@@ -9476,6 +9476,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ng86609674Khang@twitter](https://twitter.com/Ng86609674Khang/status/1609391856785453059) | advertise |
 | [NgaHtwe2@twitter](https://twitter.com/NgaHtwe2/status/1389454383495135233) | advertise |
 | [NgalLay22498592@twitter](https://twitter.com/NgalLay22498592/status/1394158283217416194) | advertise |
+| [Nganha_0501@twitter](https://twitter.com/Nganha_0501/status/1728334454379434332) | advertise |
 | [ngchung97568484@twitter](https://twitter.com/ngchung97568484/status/1627745568209649665) | advertise |
 | [NgcSn99050011@twitter](https://twitter.com/NgcSn99050011/status/1379102105907068931) | advertise |
 | [NgcThng76202493@twitter](https://twitter.com/NgcThng76202493/status/1393416142945878017) | advertise |
@@ -12858,6 +12859,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tantai198@twitter](https://twitter.com/Tantai198/status/1494866367769550851) | advertise |
 | [tantan69330666@twitter](https://twitter.com/tantan69330666/status/1491684232070299651) | advertise |
 | [Tantogrape@twitter](https://twitter.com/Tantogrape/status/1549988819981971456) | advertise |
+| [TanvirShifan@twitter](https://twitter.com/TanvirShifan/status/1728337783444693008) | advertise |
 | [TanyaBones@twitter](https://twitter.com/TanyaBones/status/1438527093273473036) | advertise |
 | [tapomoyadhikari@twitter](https://twitter.com/tapomoyadhikari/status/1654048590942068740) | advertise |
 | [taptrader247@twitter](https://twitter.com/taptrader247/status/1665614205322678272) | advertise |
