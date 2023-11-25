@@ -40239,6 +40239,7 @@ Here's a list of public Fediverse services.
 | `sigin.fo` | No |
 | `sigint.life` | No |
 | `sigint.sx` | No |
+| `sigma-project.jp` | Yes |
 | `sigma-star.io` | No |
 | `sigmaris.info` | Yes |
 | `sigmoid.social` | No |
@@ -50875,7 +50876,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,450 |
+| Cloudflare | 14,451 |
 | Normal | 36,377 |
 
 
