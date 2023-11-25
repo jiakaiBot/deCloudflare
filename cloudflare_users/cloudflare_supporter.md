@@ -1677,6 +1677,7 @@ Do not create new issue or we will close it as duplicate.
 | [Baolodc@twitter](https://twitter.com/Baolodc/status/1684790483602849792) | advertise |
 | [baolongtm159@twitter](https://twitter.com/baolongtm159/status/1609228459171278848) | advertise |
 | [Baomilos4@twitter](https://twitter.com/Baomilos4/status/1536315085475328001) | advertise |
+| [BaoPham93214128@twitter](https://twitter.com/BaoPham93214128/status/1728112874722324834) | advertise |
 | [BaoTran59211863@twitter](https://twitter.com/BaoTran59211863/status/1428225026319261696) | advertise |
 | [baovanhu012345@twitter](https://twitter.com/baovanhu012345/status/1387935168267096068) | advertise |
 | [baozero2@twitter](https://twitter.com/baozero2/status/1688233537621897216) | advertise |
@@ -6525,6 +6526,7 @@ Do not create new issue or we will close it as duplicate.
 | [kenzxc864@twitter](https://twitter.com/kenzxc864/status/1711784029341843831) | advertise |
 | [keobin6@twitter](https://twitter.com/keobin6/status/1393355060122243072) | advertise |
 | [kepa_vu@twitter](https://twitter.com/kepa_vu/status/1399682592622800896) | advertise |
+| [kepler_jason@twitter](https://twitter.com/kepler_jason/status/1728266411922120964) | advertise |
 | [KeramatNajafi@twitter](https://twitter.com/KeramatNajafi/status/1575442547631165441) | advertise |
 | [KeraReva@twitter](https://twitter.com/KeraReva/status/1398880464497111042) | advertise |
 | [kerri_raissian@twitter](https://twitter.com/kerri_raissian/status/1665858498297470977) | advertise |
@@ -9646,6 +9648,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynKh45081522@twitter](https://twitter.com/NguynKh45081522/status/1397233488189960197) | advertise |
 | [nguynkh77630727@twitter](https://twitter.com/nguynkh77630727/status/1405060492100390915) | advertise |
 | [NguynLi46242419@twitter](https://twitter.com/NguynLi46242419/status/1401852822296039424) | advertise |
+| [NguynLNhtTrung1@twitter](https://twitter.com/NguynLNhtTrung1/status/1728184102636155165) | advertise |
 | [NguynLo22866025@twitter](https://twitter.com/NguynLo22866025/status/1518139525079638017) | advertise |
 | [NguynMa07268931@twitter](https://twitter.com/NguynMa07268931/status/1476303881747369986) | advertise |
 | [NguynMi11084455@twitter](https://twitter.com/NguynMi11084455/status/1610873069756907520) | advertise |
