@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,040 |
 | social | 4,683 |
 | net | 3,959 |
-| org | 2,654 |
+| org | 2,655 |
 | de | 2,505 |
 
 
@@ -3183,6 +3183,7 @@ Here's a list of public Fediverse services.
 | `assemblag.es` | No |
 | `assemblylabx.com` | No |
 | `assilvestrar.club` | No |
+| `asso-purr.eu.org` | No |
 | `asso-sterenn.fr` | No |
 | `asso.lgbt` | No |
 | `associated.social` | No |
@@ -6626,7 +6627,7 @@ Here's a list of public Fediverse services.
 | `carper.ca` | No |
 | `carramos.com` | Yes |
 | `carriestuff.com` | Yes |
-| `carrondo.pt` | No |
+| `carrondo.pt` | Yes |
 | `carrot.army` | No |
 | `carrotcake.studio` | No |
 | `carson.zone` | No |
@@ -17712,7 +17713,7 @@ Here's a list of public Fediverse services.
 | `hagn.online` | No |
 | `hagoromofox.com` | No |
 | `hagra.net` | No |
-| `haguruma.site` | No |
+| `haguruma.site` | Yes |
 | `haha.academy` | Yes |
 | `haha.rocks` | No |
 | `hahmo.site` | Yes |
@@ -50874,8 +50875,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,448 |
-| Normal | 36,378 |
+| Cloudflare | 14,450 |
+| Normal | 36,377 |
 
 
 </details>
