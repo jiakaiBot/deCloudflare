@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,040 |
 | social | 4,683 |
-| net | 3,959 |
+| net | 3,960 |
 | org | 2,655 |
 | de | 2,507 |
 
@@ -8284,6 +8284,7 @@ Here's a list of public Fediverse services.
 | `coms.hk` | Yes |
 | `comsao.com` | Yes |
 | `comune.trento.it` | No |
+| `comunicacionabierta.net` | No |
 | `comunidade.fr` | No |
 | `comunismo.online` | No |
 | `comunmedia.com` | No |
@@ -40286,6 +40287,7 @@ Here's a list of public Fediverse services.
 | `silent.stream` | No |
 | `silentfoof.rocks` | No |
 | `silentsilas.com` | No |
+| `silex.me` | Yes |
 | `silicon-dragon.com` | No |
 | `silicon.moe` | Yes |
 | `siliconangle.com` | No |
@@ -50882,8 +50884,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,453 |
-| Normal | 36,381 |
+| Cloudflare | 14,454 |
+| Normal | 36,382 |
 
 
 </details>
