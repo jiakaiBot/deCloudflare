@@ -3782,6 +3782,7 @@ Do not create new issue or we will close it as duplicate.
 | [EugeneBos1@twitter](https://twitter.com/EugeneBos1/status/1505982810250952705) | advertise |
 | [eunhee24x8@twitter](https://twitter.com/eunhee24x8/status/1385261915807522816) | advertise |
 | [Euphori99287892@twitter](https://twitter.com/Euphori99287892/status/1404485406234759171) | advertise |
+| [Euro26015506@twitter](https://twitter.com/Euro26015506/status/1728405554278940780) | advertise |
 | [euro_police@twitter](https://twitter.com/euro_police/status/1661082643440517128) | advertise |
 | [EusXJgfmWOS4dgq@twitter](https://twitter.com/EusXJgfmWOS4dgq/status/1648164702424539138) | advertise |
 | [euxn23@twitter](https://twitter.com/euxn23/status/1630094336645017600) | advertise |
@@ -4449,6 +4450,7 @@ Do not create new issue or we will close it as duplicate.
 | [h3ll4lyf@twitter](https://twitter.com/h3ll4lyf/status/1572112629409390592) | advertise |
 | [h4ck3rkor_ghost@twitter](https://twitter.com/h4ck3rkor_ghost/status/1568312588588695553) | advertise |
 | [h29id@twitter](https://twitter.com/h29id/status/1370211563068551170) | advertise |
+| [H44AI04@twitter](https://twitter.com/H44AI04/status/1728400875129827472) | advertise |
 | [h529737@twitter](https://twitter.com/h529737/status/1683136838842847232) | advertise |
 | [h86980052@twitter](https://twitter.com/h86980052/status/1706645469705732603) | advertise |
 | [h95009495@twitter](https://twitter.com/h95009495/status/1606859215884386304) | advertise |
@@ -6700,6 +6702,7 @@ Do not create new issue or we will close it as duplicate.
 | [Khunnaingbhone1@twitter](https://twitter.com/Khunnaingbhone1/status/1473491007987601408) | advertise |
 | [KhunPeter6@twitter](https://twitter.com/KhunPeter6/status/1395788095799259142) | advertise |
 | [KhunTharZaw1@twitter](https://twitter.com/KhunTharZaw1/status/1389975050887962632) | advertise |
+| [khunxa5@twitter](https://twitter.com/khunxa5/status/1728398771137245662) | advertise |
 | [khuong1801@twitter](https://twitter.com/khuong1801/status/1615025181164179457) | advertise |
 | [khurram_muneeb@twitter](https://twitter.com/khurram_muneeb/status/1540047473988620288) | advertise |
 | [KhusaeniDeni@twitter](https://twitter.com/KhusaeniDeni/status/1393612284992245761) | advertise |
@@ -9953,6 +9956,7 @@ Do not create new issue or we will close it as duplicate.
 | [NPatanakun@twitter](https://twitter.com/NPatanakun/status/1401121003959316483) | advertise |
 | [NPhongHuynh@twitter](https://twitter.com/NPhongHuynh/status/1392328838009430018) | advertise |
 | [nppn2611@twitter](https://twitter.com/nppn2611/status/1480784759835873282) | advertise |
+| [Npqn15@twitter](https://twitter.com/Npqn15/status/1728413941943226857) | advertise |
 | [nps1501@twitter](https://twitter.com/nps1501/status/1661003410320261131) | advertise |
 | [NPTReyes@twitter](https://twitter.com/NPTReyes/status/1437249106703904768) | advertise |
 | [np_narissa@twitter](https://twitter.com/np_narissa/status/1592530845914791939) | advertise |
