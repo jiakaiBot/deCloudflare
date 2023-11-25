@@ -3685,6 +3685,7 @@ Here's a list of public Fediverse services.
 | `azbulutlu.org` | No |
 | `azbycx.xyz` | Yes |
 | `azbyka.ru` | No |
+| `azcyouth.in` | Yes |
 | `azfedi.social` | No |
 | `azimuth.place` | Yes |
 | `azisserver.me` | Yes |
@@ -8148,7 +8149,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -50881,8 +50882,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,451 |
-| Normal | 36,382 |
+| Cloudflare | 14,453 |
+| Normal | 36,381 |
 
 
 </details>
