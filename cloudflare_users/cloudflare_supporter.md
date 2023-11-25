@@ -1975,6 +1975,7 @@ Do not create new issue or we will close it as duplicate.
 | [blobnom@twitter](https://twitter.com/blobnom/status/1471578002098167808) | advertise |
 | [bloggerborneo@twitter](https://twitter.com/bloggerborneo/status/1537702050955677696) | advertise |
 | [Blood81903194@twitter](https://twitter.com/Blood81903194/status/1391762333274411010) | advertise |
+| [Bloom_My_spd@twitter](https://twitter.com/Bloom_My_spd/status/1728469717239886315) | advertise |
 | [BlowJob10305560@twitter](https://twitter.com/BlowJob10305560/status/1507861498575556610) | advertise |
 | [Blue10665653@twitter](https://twitter.com/Blue10665653/status/1395706450995990530) | advertise |
 | [blueAmdadul@twitter](https://twitter.com/blueAmdadul/status/1680933707899887618) | advertise |
@@ -7298,6 +7299,7 @@ Do not create new issue or we will close it as duplicate.
 | [LaptopsP@twitter](https://twitter.com/LaptopsP/status/1380583685615849474) | advertise |
 | [lapyae16308476@twitter](https://twitter.com/lapyae16308476/status/1391962821668184065) | advertise |
 | [laquan2411@twitter](https://twitter.com/laquan2411/status/1553299969322655744) | advertise |
+| [larenmat1@twitter](https://twitter.com/larenmat1/status/1728469361441054900) | advertise |
 | [Laron_Barca@twitter](https://twitter.com/Laron_Barca/status/1638633774807396358) | advertise |
 | [Larry06951708@twitter](https://twitter.com/Larry06951708/status/1543723562397319170) | advertise |
 | [Lastavicaaaa@twitter](https://twitter.com/Lastavicaaaa/status/1570320326684188672) | advertise |
