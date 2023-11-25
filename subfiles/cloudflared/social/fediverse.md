@@ -33,7 +33,7 @@ Here's a list of public Fediverse services.
 | social | 4,683 |
 | net | 3,959 |
 | org | 2,655 |
-| de | 2,505 |
+| de | 2,506 |
 
 
 - Mastodon, Pleroma, etc
@@ -8241,6 +8241,7 @@ Here's a list of public Fediverse services.
 | `compassion.online` | Yes |
 | `compcube.info` | No |
 | `compensis.de` | No |
+| `compgen.de` | No |
 | `complacent.io` | No |
 | `complecwaft.com` | Yes |
 | `complete.fail` | No |
@@ -50877,7 +50878,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,451 |
-| Normal | 36,377 |
+| Normal | 36,378 |
 
 
 </details>
