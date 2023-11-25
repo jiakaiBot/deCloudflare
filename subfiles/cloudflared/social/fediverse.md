@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,037 |
-| social | 4,681 |
+| com | 8,040 |
+| social | 4,683 |
 | net | 3,959 |
-| org | 2,652 |
+| org | 2,654 |
 | de | 2,505 |
 
 
@@ -10356,6 +10356,7 @@ Here's a list of public Fediverse services.
 | `dereferenced.org` | No |
 | `derekhockett.com` | No |
 | `derekjames.xyz` | No |
+| `derekmartin.org` | Yes |
 | `dereksmom.com` | Yes |
 | `derentspannen.de` | No |
 | `derez.zone` | No |
@@ -20944,6 +20945,7 @@ Here's a list of public Fediverse services.
 | `javx.de` | No |
 | `jawa.gay` | No |
 | `jawa.moe` | Yes |
+| `jawaters.com` | No |
 | `jawns.club` | No |
 | `jaws-ug.okinawa` | No |
 | `jawsh.xyz` | No |
@@ -27152,6 +27154,7 @@ Here's a list of public Fediverse services.
 | `matbox.net` | No |
 | `matc.zip` | Yes |
 | `matcha-soft.com` | Yes |
+| `matcha.pub` | Yes |
 | `matchdon.com` | No |
 | `matchu.dev` | No |
 | `matchy.jp` | No |
@@ -30881,7 +30884,7 @@ Here's a list of public Fediverse services.
 | `netplusw.com` | No |
 | `netpro2k.io` | Yes |
 | `netrunner.cfd` | No |
-| `netrunner.online` | No |
+| `netrunner.online` | Yes |
 | `netsecured.info` | Yes |
 | `netsend.nl` | No |
 | `netsol.co.th` | Yes |
@@ -31068,6 +31071,7 @@ Here's a list of public Fediverse services.
 | `nfdi.social` | No |
 | `nfg.zone` | No |
 | `nfgworld.com` | No |
+| `nfl.community` | No |
 | `nflandowners.org` | No |
 | `nfld.me` | Yes |
 | `nfld.social` | Yes |
@@ -38812,7 +38816,7 @@ Here's a list of public Fediverse services.
 | `sans-nuage.fr` | No |
 | `sans.fun` | Yes |
 | `sans.pub` | No |
-| `sanskritm.xyz` | Yes |
+| `sanskritm.xyz` | No |
 | `sansschatten.com` | No |
 | `sanssouci.club` | No |
 | `santadog.social` | No |
@@ -39615,6 +39619,7 @@ Here's a list of public Fediverse services.
 | `selfprivacy.org` | Yes |
 | `selfpub.pub` | No |
 | `selfy.army` | No |
+| `selfy.social` | Yes |
 | `seliaste.com` | No |
 | `sellen.net` | No |
 | `selogic.fr` | No |
@@ -41087,6 +41092,7 @@ Here's a list of public Fediverse services.
 | `socialism.tools` | No |
 | `socialist.city` | No |
 | `socialist.place` | No |
+| `socialisten.org` | No |
 | `socialistra.org` | Yes |
 | `socialite.cloud` | No |
 | `socialites.social` | Yes |
@@ -41797,6 +41803,7 @@ Here's a list of public Fediverse services.
 | `sqwkr.eu` | No |
 | `srb2.org` | Yes |
 | `srbstodon.rs` | Yes |
+| `srcbeat.com` | No |
 | `srcfiles.zip` | Yes |
 | `srcr.nl` | No |
 | `srdn.net` | No |
@@ -43937,6 +43944,7 @@ Here's a list of public Fediverse services.
 | `th23.org` | No |
 | `th4music.net` | No |
 | `tha-adm.eu` | No |
+| `tha.social` | Yes |
 | `thaddeushunt.com` | No |
 | `thadeshwar.net` | Yes |
 | `thadthig.com` | Yes |
@@ -46290,7 +46298,7 @@ Here's a list of public Fediverse services.
 | `twothree.space` | No |
 | `twrc.ru` | No |
 | `twst.me` | No |
-| `twt.rip` | No |
+| `twt.rip` | Yes |
 | `twt.rs` | Yes |
 | `twt.wtf` | No |
 | `twtr.plus` | No |
@@ -49458,6 +49466,7 @@ Here's a list of public Fediverse services.
 | `xeronith.com` | Yes |
 | `xerrem.xyz` | No |
 | `xerz.one` | No |
+| `xese.in` | No |
 | `xethos.net` | No |
 | `xexoxial.org` | No |
 | `xey.me` | No |
@@ -50357,6 +50366,7 @@ Here's a list of public Fediverse services.
 | `zachcampau.com` | No |
 | `zachcapalbo.com` | No |
 | `zachdecook.com` | No |
+| `zachfauser.com` | No |
 | `zachh.me` | No |
 | `zachleat.com` | No |
 | `zachmanson.com` | No |
@@ -50862,8 +50872,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,442 |
-| Normal | 36,372 |
+| Cloudflare | 14,447 |
+| Normal | 36,377 |
 
 
 </details>
