@@ -17,7 +17,7 @@ Here's the result.
 | --- | --- | --- | --- |
 | [EasyList](https://easylist.to/easylist/easylist.txt) | 42,374 | 11,828 | 27.9% |
 | [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) | 22,990 | 8,593 | 37.4% |
-| [Annoyance](https://secure.fanboy.co.nz/fanboy-annoyance.txt) | 21,160 | 8,758 | 41.4% |
+| [Annoyance](https://secure.fanboy.co.nz/fanboy-annoyance.txt) | 21,161 | 8,759 | 41.4% |
 | [AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | 54,441 | 10,922 | 20.1% |
 | [AdAway](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt) | 1,957 | 808 | 41.3% |
 | Total | 97,214 | 29,410 | 30.3% |
