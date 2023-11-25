@@ -3016,7 +3016,7 @@ Here's a list of public Fediverse services.
 | `artless.cc` | No |
 | `artnodeworld.com` | No |
 | `artoot.xyz` | No |
-| `artpad.me` | Yes |
+| `artpad.me` | No |
 | `artrinix.xyz` | Yes |
 | `artritelacy.jp` | No |
 | `arts.moe` | No |
@@ -8146,7 +8146,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -20384,7 +20384,7 @@ Here's a list of public Fediverse services.
 | `is-pretty.gay` | Yes |
 | `is-super.moe` | No |
 | `is4.site` | Yes |
-| `isaa.it` | No |
+| `isaa.it` | Yes |
 | `isaaccronk.com` | No |
 | `isaacsu.com` | Yes |
 | `isaak.ovh` | No |
@@ -30555,6 +30555,7 @@ Here's a list of public Fediverse services.
 | `nedpool.net` | Yes |
 | `nedson.net` | No |
 | `needs.vodka` | No |
+| `needsmo.re` | No |
 | `needsmore.pizza` | No |
 | `needspets.gq` | No |
 | `needsushi.com` | No |
@@ -38894,7 +38895,7 @@ Here's a list of public Fediverse services.
 | `sasuga.xyz` | No |
 | `sasuke.social` | No |
 | `satan-speaks.com` | No |
-| `satania.site` | Yes |
+| `satania.site` | No |
 | `satania.social` | Yes |
 | `satania.space` | No |
 | `satanic.coffee` | No |
@@ -41104,7 +41105,7 @@ Here's a list of public Fediverse services.
 | `socialnetwork.ninja` | No |
 | `socialnetworks.rodeo` | No |
 | `socialnotwork.net` | No |
-| `socialnotworking.club` | Yes |
+| `socialnotworking.club` | No |
 | `socialpa.ws` | No |
 | `socialpapiga.top` | No |
 | `socialpixels.xyz` | No |
@@ -50861,8 +50862,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,445 |
-| Normal | 36,368 |
+| Cloudflare | 14,442 |
+| Normal | 36,372 |
 
 
 </details>
