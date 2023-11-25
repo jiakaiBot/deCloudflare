@@ -3241,6 +3241,7 @@ Do not create new issue or we will close it as duplicate.
 | [DKS_imyours@twitter](https://twitter.com/DKS_imyours/status/1669751577748594688) | advertise |
 | [DL2419@twitter](https://twitter.com/DL2419/status/1389381874758291457) | advertise |
 | [dlcmh@twitter](https://twitter.com/dlcmh/status/1504010502481281024) | advertise |
+| [dlonamo@twitter](https://twitter.com/dlonamo/status/1728366507317670203) | advertise |
 | [DLu15867552@twitter](https://twitter.com/DLu15867552/status/1377679501576957955) | advertise |
 | [dlwyer@twitter](https://twitter.com/dlwyer/status/1599852749935366145) | advertise |
 | [dmathurin@twitter](https://twitter.com/dmathurin/status/1647961635946897408) | advertise |
@@ -14234,6 +14235,7 @@ Do not create new issue or we will close it as duplicate.
 | [VarinderHayer3@twitter](https://twitter.com/VarinderHayer3/status/1400361261389385733) | advertise |
 | [VarisD41453@twitter](https://twitter.com/VarisD41453/status/1647213894031556609) | advertise |
 | [varshith__9@twitter](https://twitter.com/varshith__9/status/1384730354834018304) | advertise |
+| [varun4789@twitter](https://twitter.com/varun4789/status/1728373805523808720) | advertise |
 | [VarunKa93262715@twitter](https://twitter.com/VarunKa93262715/status/1381181351710187520) | advertise |
 | [varunkrish@twitter](https://twitter.com/varunkrish/status/1503307396239687682) | advertise |
 | [Vas20Mike@twitter](https://twitter.com/Vas20Mike/status/1587221143496392706) | advertise |
