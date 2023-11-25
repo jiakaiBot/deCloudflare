@@ -8917,7 +8917,7 @@ Here's a list of public Fediverse services.
 | `cryptic-command.net` | Yes |
 | `cryptic.io` | Yes |
 | `cryptic.observer` | Yes |
-| `crypticchameleon.com` | Yes |
+| `crypticchameleon.com` | No |
 | `cryptid.club` | No |
 | `cryptid.industries` | No |
 | `cryptidconnect.com` | No |
@@ -10800,6 +10800,7 @@ Here's a list of public Fediverse services.
 | `dimitriregnier.net` | No |
 | `dimna.de` | No |
 | `dimspace.com` | Yes |
+| `dimsumdams.xyz` | Yes |
 | `dindon.one` | No |
 | `dinerville.info` | No |
 | `ding.so` | No |
@@ -44154,7 +44155,7 @@ Here's a list of public Fediverse services.
 | `thediscussion.site` | No |
 | `thedixons.net` | Yes |
 | `thedomain.ovh` | Yes |
-| `thedoodleproject.com` | No |
+| `thedoodleproject.com` | Yes |
 | `thedoodleproject.net` | No |
 | `thedreaming.city` | No |
 | `thedroth.rocks` | No |
@@ -44633,6 +44634,7 @@ Here's a list of public Fediverse services.
 | `thisdevfucks.com` | No |
 | `thisgay.earth` | No |
 | `thisguy.wtf` | No |
+| `thishorsie.rocks` | No |
 | `thisiscapitalism.us` | No |
 | `thisiscowboy.io` | No |
 | `thisisgoodcontent.com` | Yes |
@@ -50872,8 +50874,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,447 |
-| Normal | 36,377 |
+| Cloudflare | 14,448 |
+| Normal | 36,378 |
 
 
 </details>
