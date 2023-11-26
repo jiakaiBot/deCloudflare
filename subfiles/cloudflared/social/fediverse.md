@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,041 |
+| com | 8,042 |
 | social | 4,684 |
 | net | 3,961 |
 | org | 2,657 |
@@ -8556,6 +8556,7 @@ Here's a list of public Fediverse services.
 | `cosmos.social` | Yes |
 | `cosmoschaos.net` | Yes |
 | `cosnomi.com` | Yes |
+| `cosocaf.com` | Yes |
 | `cosocial.ca` | No |
 | `cosocial.engineering` | No |
 | `cosp.la` | No |
@@ -16524,6 +16525,7 @@ Here's a list of public Fediverse services.
 | `giggleplex.red` | No |
 | `giggly.de` | No |
 | `gigi.nu` | No |
+| `giglio.blue` | Yes |
 | `gigon.cloud` | No |
 | `gigq.com` | Yes |
 | `gigsak.social` | No |
@@ -29905,7 +29907,7 @@ Here's a list of public Fediverse services.
 | `mwsq.de` | Yes |
 | `mwtaylor.social` | No |
 | `mwtremblay.com` | Yes |
-| `mwzhang.com` | No |
+| `mwzhang.com` | Yes |
 | `mx00s.com` | No |
 | `mxcao.me` | No |
 | `mxchange.org` | No |
@@ -50901,8 +50903,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,460 |
-| Normal | 36,393 |
+| Cloudflare | 14,463 |
+| Normal | 36,392 |
 
 
 </details>
