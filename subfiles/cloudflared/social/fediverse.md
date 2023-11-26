@@ -24607,6 +24607,7 @@ Here's a list of public Fediverse services.
 | `liberal.lgbt` | No |
 | `liberal.win` | No |
 | `liberated.network` | No |
+| `liberated.press` | No |
 | `liberatedsystems.co.uk` | No |
 | `liberation.is` | Yes |
 | `liberatorytechnology.network` | No |
@@ -50905,7 +50906,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,464 |
-| Normal | 36,392 |
+| Normal | 36,393 |
 
 
 </details>
