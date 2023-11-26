@@ -32,7 +32,7 @@ Here's a list of public Fediverse services.
 | com | 8,039 |
 | social | 4,683 |
 | net | 3,960 |
-| org | 2,655 |
+| org | 2,656 |
 | de | 2,507 |
 
 
@@ -15216,6 +15216,7 @@ Here's a list of public Fediverse services.
 | `frei.social` | No |
 | `freiburg.social` | No |
 | `freie-linke.de` | No |
+| `freie-radios.org` | No |
 | `freie-re.de` | No |
 | `freie.app` | No |
 | `freiewaehler.social` | No |
@@ -50884,7 +50885,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,453 |
-| Normal | 36,382 |
+| Normal | 36,383 |
 
 
 </details>
