@@ -9337,6 +9337,7 @@ Do not create new issue or we will close it as duplicate.
 | [NatSri18@twitter](https://twitter.com/NatSri18/status/1550642548607418368) | advertise |
 | [nattawatt17@twitter](https://twitter.com/nattawatt17/status/1625857921325371399) | advertise |
 | [nattayanee69@twitter](https://twitter.com/nattayanee69/status/1405489449119543299) | advertise |
+| [NatTechFront@twitter](https://twitter.com/NatTechFront/status/1728907532566184347) | advertise |
 | [naturbrilian@twitter](https://twitter.com/naturbrilian/status/1400047671784579078) | advertise |
 | [Naung36204458@twitter](https://twitter.com/Naung36204458/status/1390969392670953472) | advertise |
 | [NaungLinShein@twitter](https://twitter.com/NaungLinShein/status/1391248250426908674) | advertise |
