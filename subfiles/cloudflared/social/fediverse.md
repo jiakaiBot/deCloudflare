@@ -44151,6 +44151,7 @@ Here's a list of public Fediverse services.
 | `thecore.city` | Yes |
 | `thecove.cc` | Yes |
 | `thecovertgeek.xyz` | No |
+| `thecozy.cat` | Yes |
 | `thecrazyinsanity.ml` | Yes |
 | `thecreatives.social` | No |
 | `thecriminaliraq.com` | No |
@@ -50903,7 +50904,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,463 |
+| Cloudflare | 14,464 |
 | Normal | 36,392 |
 
 
