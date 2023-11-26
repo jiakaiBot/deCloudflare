@@ -13485,6 +13485,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThwinHt14821140@twitter](https://twitter.com/ThwinHt14821140/status/1585666039630569472) | advertise |
 | [thwinphyoeaung@twitter](https://twitter.com/thwinphyoeaung/status/1389850121282625538) | advertise |
 | [thwin_y@twitter](https://twitter.com/thwin_y/status/1392784689874624513) | advertise |
+| [thwi_nkhrinthr@twitter](https://twitter.com/thwi_nkhrinthr/status/1728838130294505635) | advertise |
 | [Thxange4@twitter](https://twitter.com/Thxange4/status/1402513226936451074) | advertise |
 | [ThyV42221054@twitter](https://twitter.com/ThyV42221054/status/1682097771980136449) | advertise |
 | [ti04869685@twitter](https://twitter.com/ti04869685/status/1552582677751951365) | advertise |
@@ -13587,6 +13588,7 @@ Do not create new issue or we will close it as duplicate.
 | [tltii104@twitter](https://twitter.com/tltii104/status/1386657711018844162) | advertise |
 | [tlyczko@twitter](https://twitter.com/tlyczko/status/1568583104989642753) | advertise |
 | [Tm23437020@twitter](https://twitter.com/Tm23437020/status/1583604154462715905) | advertise |
+| [Tm66317304@twitter](https://twitter.com/Tm66317304/status/1728838030948229249) | advertise |
 | [Tm68793791@twitter](https://twitter.com/Tm68793791/status/1720067180170186805) | advertise |
 | [Tm447280551@twitter](https://twitter.com/Tm447280551/status/1625053403658477568) | advertise |
 | [tmadeglobal@twitter](https://twitter.com/tmadeglobal/status/1622118639141896192) | advertise |
@@ -15059,6 +15061,7 @@ Do not create new issue or we will close it as duplicate.
 | [yeminlin2013@twitter](https://twitter.com/yeminlin2013/status/1391459064563998720) | advertise |
 | [Yeminthanhtun1@twitter](https://twitter.com/Yeminthanhtun1/status/1386877995223195649) | advertise |
 | [yemintu99234068@twitter](https://twitter.com/yemintu99234068/status/1392659850790772739) | advertise |
+| [yemish101@twitter](https://twitter.com/yemish101/status/1728868564873224257) | advertise |
 | [yemyat04396901@twitter](https://twitter.com/yemyat04396901/status/1391451792420966400) | advertise |
 | [YeNaing10124361@twitter](https://twitter.com/YeNaing10124361/status/1402453286582513664) | advertise |
 | [YeNaung36755781@twitter](https://twitter.com/YeNaung36755781/status/1394659999893262340) | advertise |
@@ -15474,6 +15477,7 @@ Do not create new issue or we will close it as duplicate.
 | [zxashik2@twitter](https://twitter.com/zxashik2/status/1552676610607685632) | advertise |
 | [Zxce3_@twitter](https://twitter.com/Zxce3_/status/1574527051670831104) | advertise |
 | [zY8xnJGCjfqMb9U@twitter](https://twitter.com/zY8xnJGCjfqMb9U/status/1395045783972433920) | advertise |
+| [zyairax76@twitter](https://twitter.com/zyairax76/status/1728829441315623257) | advertise |
 | [zycharlwm@twitter](https://twitter.com/zycharlwm/status/1568933027178287104) | advertise |
 | [zyl2021@twitter](https://twitter.com/zyl2021/status/1394215819488333826) | advertise |
 | [zZnobodyZz@twitter](https://twitter.com/zZnobodyZz/status/1689094512000548864) | advertise |
