@@ -1809,6 +1809,7 @@ Here's a list of public Fediverse services.
 | `alixrossi.corsica` | No |
 | `aliyo.me` | Yes |
 | `alizas.blog` | No |
+| `alizas.club` | No |
 | `alizoed.top` | Yes |
 | `aljadra.xyz` | No |
 | `alkaabi.io` | Yes |
@@ -9976,7 +9977,7 @@ Here's a list of public Fediverse services.
 | `ddna.co` | No |
 | `ddns.net` | Yes |
 | `ddnsfree.com` | Yes |
-| `ddnsgeek.com` | No |
+| `ddnsgeek.com` | Yes |
 | `ddnss.ch` | No |
 | `ddnss.chfriendica` | No |
 | `ddnss.de` | No |
@@ -28504,6 +28505,7 @@ Here's a list of public Fediverse services.
 | `missbanal.net` | No |
 | `misscraft.jp` | No |
 | `missilepuppy.com` | No |
+| `missiletest.site` | Yes |
 | `missing-deadlines.com` | Yes |
 | `mission1701.com` | Yes |
 | `missionbendtx.net` | Yes |
@@ -50899,7 +50901,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,458 |
+| Cloudflare | 14,460 |
 | Normal | 36,393 |
 
 
