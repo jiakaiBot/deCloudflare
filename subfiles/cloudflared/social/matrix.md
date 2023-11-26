@@ -61,6 +61,7 @@ Here's a list of public Matrix services.
 | hackliberty.org | No |
 | chatserver.hashi.sbs | Yes |
 | hot-chilli.im | No |
+| synapse.hyteck.de | No |
 | matrix.jonasled.de | Yes |
 | junta.pl | Yes |
 | kitsunes.chat | Yes |
@@ -80,12 +81,14 @@ Here's a list of public Matrix services.
 | perthchat.org | Yes |
 | matrix.pikaviestin.fi | No |
 | matrix.plus.st | No |
+| possum.city | Yes |
 | www.privacytools.io | Yes |
 | matrix.pub.solar | No |
 | radiowarnerd.org | No |
 | matrix.rimfaxe.net | No |
 | riotchat.de | Yes |
 | ru-matrix.org | No |
+| sans-nuage.fr | No |
 | socialnetwork24.com | No |
 | matrix.studichat.de | No |
 | synod.im | No |
@@ -109,8 +112,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 19 |
-| Normal | 63 |
+| Cloudflare | 20 |
+| Normal | 65 |
 
 
-### 23.2% of public Matrix services are using Cloudflare.
+### 23.5% of public Matrix services are using Cloudflare.
