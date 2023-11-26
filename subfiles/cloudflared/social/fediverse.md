@@ -12952,6 +12952,7 @@ Here's a list of public Fediverse services.
 | `esgeroth.org` | No |
 | `esglife.social` | No |
 | `eshopview.com` | No |
+| `esi.is` | No |
 | `esiliati.org` | No |
 | `esjewett.com` | No |
 | `eskalation.rocks` | Yes |
@@ -35030,6 +35031,7 @@ Here's a list of public Fediverse services.
 | `pletnet.io` | No |
 | `plextube.nl` | Yes |
 | `plfgr.eu.org` | No |
+| `plhk.dev` | Yes |
 | `pliocene.org` | No |
 | `plishker.com` | No |
 | `plk.me` | No |
@@ -50897,8 +50899,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,457 |
-| Normal | 36,392 |
+| Cloudflare | 14,458 |
+| Normal | 36,393 |
 
 
 </details>
