@@ -5378,7 +5378,7 @@ Here's a list of public Fediverse services.
 | `bodybag.zip` | Yes |
 | `bodybuilding.im` | No |
 | `boeck.social` | No |
-| `boehmer.tech` | No |
+| `boehmer.tech` | Yes |
 | `boehmke.net` | No |
 | `boelz.eu` | No |
 | `boerdica.de` | No |
@@ -8149,7 +8149,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colter.social` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -50116,6 +50116,7 @@ Here's a list of public Fediverse services.
 | `yoshida2015.net` | No |
 | `yoshimov.com` | Yes |
 | `yoshimov.info` | No |
+| `yoshino.garden` | No |
 | `yoshirusu.tk` | No |
 | `yostme.com` | Yes |
 | `yostme.social` | Yes |
@@ -50885,7 +50886,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,453 |
-| Normal | 36,383 |
+| Normal | 36,384 |
 
 
 </details>
