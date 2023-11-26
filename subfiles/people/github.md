@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [UFW is blocking the proxied websites!](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3350)
 - [question: able to download a website historically while only saving the 1st successful page?](https://github.com/jsvine/waybackpack/issues/70)
 - [How to set up Vaultwarden](https://github.com/hetzneronline/community-content/issues/730)
 - [error to connect novnc from another computer.](https://github.com/Ylianst/MeshCentral/issues/5580)
