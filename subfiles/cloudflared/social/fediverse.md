@@ -11841,6 +11841,7 @@ Here's a list of public Fediverse services.
 | `dynu.net` | No |
 | `dynv6.net` | No |
 | `dyomedea.com` | No |
+| `dyox.in` | No |
 | `dyselon.com` | No |
 | `dysfunction.social` | No |
 | `dysfunctional.social` | No |
@@ -50886,7 +50887,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,453 |
-| Normal | 36,384 |
+| Normal | 36,385 |
 
 
 </details>
