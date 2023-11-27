@@ -10193,6 +10193,7 @@ Do not create new issue or we will close it as duplicate.
 | [Oo77Nay@twitter](https://twitter.com/Oo77Nay/status/1390853722469658628) | advertise |
 | [ooby34@twitter](https://twitter.com/ooby34/status/1422650719262449667) | advertise |
 | [OoHtet54650@twitter](https://twitter.com/OoHtet54650/status/1709976286179844435) | advertise |
+| [ook1879394@twitter](https://twitter.com/ook1879394/status/1729149110811537578) | advertise |
 | [OoLayGyiMdy@twitter](https://twitter.com/OoLayGyiMdy/status/1377196818384121860) | advertise |
 | [oomaung_chit@twitter](https://twitter.com/oomaung_chit/status/1570386021640196099) | advertise |
 | [OommenRejoice@twitter](https://twitter.com/OommenRejoice/status/1386236913519009793) | advertise |
