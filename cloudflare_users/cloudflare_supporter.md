@@ -216,6 +216,7 @@ Do not create new issue or we will close it as duplicate.
 | [137743@twitter](https://twitter.com/137743/status/1393045054239830025) | advertise |
 | [280552f43478454@twitter](https://twitter.com/280552f43478454/status/1399573181753696256) | advertise |
 | [404091phyophyo@twitter](https://twitter.com/404091phyophyo/status/1392052650422652930) | advertise |
+| [824040toto@twitter](https://twitter.com/824040toto/status/1729188066861166773) | advertise |
 | [32307403hano@twitter](https://twitter.com/32307403hano/status/1562213867593560064) | advertise |
 | [238354129abc@twitter](https://twitter.com/238354129abc/status/1688439305197465601) | advertise |
 | [@muffinista@botsin.space](https://botsin.space/@muffinista) | Mastodon: account suspension (botsin.space) |
@@ -14871,6 +14872,7 @@ Do not create new issue or we will close it as duplicate.
 | [Xing14851@twitter](https://twitter.com/Xing14851/status/1390482855403220994) | advertise |
 | [XixonK@twitter](https://twitter.com/XixonK/status/1388732923772162065) | advertise |
 | [xiye21970014@twitter](https://twitter.com/xiye21970014/status/1572105392993480705) | advertise |
+| [xJarunx666@twitter](https://twitter.com/xJarunx666/status/1729192369470480659) | advertise |
 | [XjkgdF@twitter](https://twitter.com/XjkgdF/status/1618278848000585729) | advertise |
 | [XjwlXx@twitter](https://twitter.com/XjwlXx/status/1403028809415266306) | advertise |
 | [xjx25616339@twitter](https://twitter.com/xjx25616339/status/1593931759464640517) | advertise |
