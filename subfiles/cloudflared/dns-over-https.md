@@ -188,6 +188,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | spacedns.org | No |
 | spectrum.com | Yes |
 | startupstack.tech | Yes |
+| sundalandia.pp.ua | Yes |
 | switch.ch | No |
 | syaifullah.com | Yes |
 | synology.me | No |
@@ -216,8 +217,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 91 |
+| Cloudflare | 92 |
 | Normal | 106 |
 
 
-### 46.2% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
