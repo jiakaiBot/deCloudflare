@@ -47612,6 +47612,7 @@ Here's a list of public Fediverse services.
 | `viid.ga` | No |
 | `viidalepp.me` | No |
 | `viisphere.me` | Yes |
+| `vijf.life` | Yes |
 | `vikavo.lt` | No |
 | `viking-gaming.community` | No |
 | `vikings.net` | No |
@@ -50928,7 +50929,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,471 |
+| Cloudflare | 14,472 |
 | Normal | 36,409 |
 
 
