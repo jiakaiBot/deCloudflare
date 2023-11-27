@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ERROR: for traefik user specified IP address is supported only when connecting to networks with user configured subnets.](https://github.com/htpcBeginner/docker-traefik/issues/321)
 - [FlareSolverr Fails on Cloudflare-Protected Sites in Prowlarr Despite Successful Log](https://github.com/FlareSolverr/FlareSolverr/issues/985)
 - [UFW is blocking the proxied websites!](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3350)
 - [question: able to download a website historically while only saving the 1st successful page?](https://github.com/jsvine/waybackpack/issues/70)
