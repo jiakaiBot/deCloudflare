@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,046 |
+| com | 8,047 |
 | social | 4,684 |
 | net | 3,962 |
 | org | 2,660 |
@@ -16641,6 +16641,7 @@ Here's a list of public Fediverse services.
 | `gladiatormtga.com` | No |
 | `glados.ch` | No |
 | `gladtech.social` | No |
+| `gladtherescake.eu` | No |
 | `glaess.cc` | No |
 | `glam.monster` | No |
 | `glamdon.com` | Yes |
@@ -25571,6 +25572,7 @@ Here's a list of public Fediverse services.
 | `luckysrv.de` | No |
 | `luckystrik3.com` | No |
 | `luclu7.fr` | No |
+| `lucppelletier.com` | Yes |
 | `lucyd.io` | No |
 | `lucypoulton.net` | Yes |
 | `lucyver.se` | No |
@@ -28709,6 +28711,7 @@ Here's a list of public Fediverse services.
 | `mkgrcd.xyz` | No |
 | `mkihr-ojisan.com` | Yes |
 | `mkir.ch` | No |
+| `mkj.earth` | No |
 | `mkkey.net` | Yes |
 | `mkl.lol` | No |
 | `mklemme.de` | No |
@@ -35256,6 +35259,7 @@ Here's a list of public Fediverse services.
 | `polarisfm.net` | Yes |
 | `polariton.space` | No |
 | `polarize.us` | No |
+| `polarnight.eu` | Yes |
 | `polarparty.page` | Yes |
 | `polente.de` | Yes |
 | `polglase.net.au` | Yes |
@@ -40814,6 +40818,7 @@ Here's a list of public Fediverse services.
 | `smalldog.club` | No |
 | `smallint.net` | No |
 | `smallposts.net` | Yes |
+| `smallpress.club` | No |
 | `smalltalk.ooo` | No |
 | `smalltech.solutions` | No |
 | `smalltech.space` | No |
@@ -50921,8 +50926,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,468 |
-| Normal | 36,405 |
+| Cloudflare | 14,470 |
+| Normal | 36,408 |
 
 
 </details>
