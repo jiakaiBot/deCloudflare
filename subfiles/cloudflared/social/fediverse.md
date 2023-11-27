@@ -31,7 +31,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 8,049 |
 | social | 4,684 |
-| net | 3,962 |
+| net | 3,963 |
 | org | 2,660 |
 | de | 2,508 |
 
@@ -48184,6 +48184,7 @@ Here's a list of public Fediverse services.
 | `wanadoo.fr` | No |
 | `wanakacommunityworkshop.org.nz` | No |
 | `wanda.hamburg` | No |
+| `wandaweb.net` | No |
 | `wandel.social` | No |
 | `wanderers-waypoint.com` | Yes |
 | `wanderers.quest` | Yes |
@@ -50203,7 +50204,6 @@ Here's a list of public Fediverse services.
 | `yourshit.rocks` | No |
 | `yousack.net` | No |
 | `youshallnotpass.com` | Yes |
-| `youtaite.xyz` | No |
 | `youten.xyz` | No |
 | `youth.social` | No |
 | `youthdon.com` | No |
