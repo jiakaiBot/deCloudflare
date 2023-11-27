@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,047 |
+| com | 8,049 |
 | social | 4,684 |
 | net | 3,962 |
 | org | 2,660 |
@@ -48136,6 +48136,7 @@ Here's a list of public Fediverse services.
 | `wakuwaku.boo` | Yes |
 | `wakuwaku.gg` | No |
 | `wakuwaku.social` | No |
+| `wakuwakuanimals.com` | Yes |
 | `wakuwakup.net` | Yes |
 | `wala2x.de` | Yes |
 | `walamana.de` | Yes |
@@ -48239,6 +48240,7 @@ Here's a list of public Fediverse services.
 | `warped.dev` | No |
 | `warpnine.de` | No |
 | `warpspeedtv.com` | No |
+| `warpstonepile.com` | No |
 | `warpzone.es` | No |
 | `warriorsofthelord.com` | No |
 | `warrows.fr` | No |
@@ -50926,8 +50928,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,470 |
-| Normal | 36,408 |
+| Cloudflare | 14,471 |
+| Normal | 36,409 |
 
 
 </details>
