@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,042 |
+| com | 8,043 |
 | social | 4,684 |
 | net | 3,961 |
-| org | 2,658 |
+| org | 2,659 |
 | de | 2,508 |
 
 
@@ -21406,6 +21406,7 @@ Here's a list of public Fediverse services.
 | `johnhenry.us` | No |
 | `johnholdun.com` | No |
 | `johnleach.co.uk` | No |
+| `johnmark.org` | No |
 | `johnmastodon.eu` | No |
 | `johnn.ie` | No |
 | `johnnybegood.fr` | Yes |
@@ -28910,6 +28911,7 @@ Here's a list of public Fediverse services.
 | `mogenius.io` | Yes |
 | `moggy.xyz` | No |
 | `mogle.social` | No |
+| `mogmogkeynet.com` | No |
 | `mograph.social` | No |
 | `mogumogu-croquette.com` | No |
 | `mogwog.org` | No |
@@ -44264,6 +44266,7 @@ Here's a list of public Fediverse services.
 | `thehappyhouse.club` | No |
 | `thehappyout.com` | No |
 | `thehb.me` | No |
+| `theheart.land` | No |
 | `thehftguy.com` | No |
 | `thehighlands.fyi` | No |
 | `thehistoryofancientgreece.com` | No |
@@ -50909,7 +50912,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 14,462 |
-| Normal | 36,398 |
+| Normal | 36,401 |
 
 
 </details>
