@@ -2752,7 +2752,7 @@ Here's a list of public Fediverse services.
 | `arbo.dev` | No |
 | `arbolitoloco.xyz` | Yes |
 | `arc.sh` | Yes |
-| `arcade.ooo` | Yes |
+| `arcade.ooo` | No |
 | `arcades.agency` | Yes |
 | `arcadia.video` | No |
 | `arcadiaroad.com` | No |
@@ -8447,7 +8447,7 @@ Here's a list of public Fediverse services.
 | `coom.club` | No |
 | `coon.town` | Yes |
 | `cooop.com` | No |
-| `coop.lol` | Yes |
+| `coop.lol` | No |
 | `coop.tools` | No |
 | `coopcloud.tech` | No |
 | `coopermatt.com` | No |
@@ -10448,6 +10448,7 @@ Here's a list of public Fediverse services.
 | `desvox.es` | No |
 | `desync.net` | Yes |
 | `det.social` | No |
+| `deta.app` | No |
 | `detektor.fm` | Yes |
 | `detmi.social` | No |
 | `detoffol.com` | No |
@@ -11154,7 +11155,7 @@ Here's a list of public Fediverse services.
 | `dogfood.social` | Yes |
 | `dogg.zone` | Yes |
 | `doggirl.me` | No |
-| `doggoat.de` | No |
+| `doggoat.de` | Yes |
 | `doghouse.social` | No |
 | `doghub.eu` | No |
 | `dogiakos.com` | No |
@@ -28389,6 +28390,7 @@ Here's a list of public Fediverse services.
 | `ministryofinternet.eu` | No |
 | `minitel.cloud` | No |
 | `minitor.su` | Yes |
+| `minivelo.coffee` | No |
 | `miniverse.social` | No |
 | `miniwa.moe` | No |
 | `minixer.com` | No |
@@ -29813,7 +29815,7 @@ Here's a list of public Fediverse services.
 | `musgrovegreen.co.uk` | No |
 | `mush-it.social` | No |
 | `mushland.xyz` | No |
-| `mushroom.gay` | Yes |
+| `mushroom.gay` | No |
 | `mushroomfm.com` | No |
 | `mushus.net` | No |
 | `music.blog` | No |
@@ -30050,7 +30052,7 @@ Here's a list of public Fediverse services.
 | `mynetgear.com` | No |
 | `mynextcloudserver.ml` | No |
 | `mynoghra.jp` | No |
-| `mynxt.cloud` | No |
+| `mynxt.cloud` | Yes |
 | `myocci.social` | No |
 | `myokyawhtun.com` | Yes |
 | `myon.social` | No |
@@ -32835,7 +32837,7 @@ Here's a list of public Fediverse services.
 | `online-marketing.social` | No |
 | `onlineashtray.com` | No |
 | `onlineexperience.de` | No |
-| `onlinefriends.club` | Yes |
+| `onlinefriends.club` | No |
 | `onlinegemein.de` | No |
 | `onlinekirche.net` | No |
 | `onlinelutherans.com` | No |
@@ -50905,8 +50907,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,464 |
-| Normal | 36,393 |
+| Cloudflare | 14,462 |
+| Normal | 36,397 |
 
 
 </details>
