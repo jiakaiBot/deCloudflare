@@ -4410,6 +4410,7 @@ Do not create new issue or we will close it as duplicate.
 | [Guerra0Jorge@twitter](https://twitter.com/Guerra0Jorge/status/1524652929931780096) | advertise |
 | [gugu9121997@twitter](https://twitter.com/gugu9121997/status/1395265672091889664) | advertise |
 | [GuGuLay10381548@twitter](https://twitter.com/GuGuLay10381548/status/1506092036969041926) | advertise |
+| [guguxmeong@twitter](https://twitter.com/guguxmeong/status/1729050519212327039) | advertise |
 | [Guide10498925@twitter](https://twitter.com/Guide10498925/status/1553106103126200323) | advertise |
 | [Guiltyklab@twitter](https://twitter.com/Guiltyklab/status/1550137506489778176) | advertise |
 | [gujzlar@twitter](https://twitter.com/gujzlar/status/1386371400739352578) | advertise |
@@ -9333,6 +9334,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nath73616642@twitter](https://twitter.com/Nath73616642/status/1399415551819075584) | advertise |
 | [Nathan33310057@twitter](https://twitter.com/Nathan33310057/status/1389756877311942657) | advertise |
 | [NathanLands@twitter](https://twitter.com/NathanLands/status/1665888820586504193) | advertise |
+| [nathhowso53@twitter](https://twitter.com/nathhowso53/status/1729063564898709535) | advertise |
 | [NathVichea@twitter](https://twitter.com/NathVichea/status/1696637968214065347) | advertise |
 | [Natsoc_UK@twitter](https://twitter.com/Natsoc_UK/status/1623377778522394637) | advertise |
 | [NatSri18@twitter](https://twitter.com/NatSri18/status/1550642548607418368) | advertise |
