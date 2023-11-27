@@ -10466,6 +10466,7 @@ Do not create new issue or we will close it as duplicate.
 | [PeymanKharazi@twitter](https://twitter.com/PeymanKharazi/status/1577437231148683264) | advertise |
 | [PeyParrot@twitter](https://twitter.com/PeyParrot/status/1469338531667628035) | advertise |
 | [pfh151@twitter](https://twitter.com/pfh151/status/1537535597786517504) | advertise |
+| [pfinity11@twitter](https://twitter.com/pfinity11/status/1729126890156490758) | advertise |
 | [PG1689@twitter](https://twitter.com/PG1689/status/1705997708505526286) | advertise |
 | [pgslot23011@twitter](https://twitter.com/pgslot23011/status/1722326305088438316) | advertise |
 | [Ph18868934@twitter](https://twitter.com/Ph18868934/status/1477889678493700096) | advertise |
