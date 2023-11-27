@@ -7047,6 +7047,7 @@ Do not create new issue or we will close it as duplicate.
 | [kslattpapi@twitter](https://twitter.com/kslattpapi/status/1554027160603615232) | advertise |
 | [kt94150@twitter](https://twitter.com/kt94150/status/1534798928591302656) | advertise |
 | [KT40199122@twitter](https://twitter.com/KT40199122/status/1404323473300680704) | advertise |
+| [kthyjjkc@twitter](https://twitter.com/kthyjjkc/status/1729184887402532964) | advertise |
 | [KTS68355553@twitter](https://twitter.com/KTS68355553/status/1390786154723741697) | advertise |
 | [KTZO93@twitter](https://twitter.com/KTZO93/status/1684930241104642048) | advertise |
 | [Ku1234c1@twitter](https://twitter.com/Ku1234c1/status/1591375563872440320) | advertise |
