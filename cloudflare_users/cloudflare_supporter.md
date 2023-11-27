@@ -4337,6 +4337,7 @@ Do not create new issue or we will close it as duplicate.
 | [Good4NM@twitter](https://twitter.com/Good4NM/status/1483567861549441026) | advertise |
 | [GOODBOY97725961@twitter](https://twitter.com/GOODBOY97725961/status/1384905237190922246) | advertise |
 | [Goodboyparttim1@twitter](https://twitter.com/Goodboyparttim1/status/1547810450321969154) | advertise |
+| [Goodnightb52037@twitter](https://twitter.com/Goodnightb52037/status/1729202473905356987) | advertise |
 | [goodsmartidea@twitter](https://twitter.com/goodsmartidea/status/1709644939775119575) | advertise |
 | [GoodTwins3@twitter](https://twitter.com/GoodTwins3/status/1379579295392264196) | advertise |
 | [GoogleUsee65297@twitter](https://twitter.com/GoogleUsee65297/status/1671639697511141376) | advertise |
@@ -10997,6 +10998,7 @@ Do not create new issue or we will close it as duplicate.
 | [P___NOO@twitter](https://twitter.com/P___NOO/status/1389947952836218884) | advertise |
 | [QadirCalip78080@twitter](https://twitter.com/QadirCalip78080/status/1721547877812404612) | advertise |
 | [Qais61854131@twitter](https://twitter.com/Qais61854131/status/1684319994002149376) | advertise |
+| [Qaisari511@twitter](https://twitter.com/Qaisari511/status/1729212750025593243) | advertise |
 | [qalifhilmi@twitter](https://twitter.com/qalifhilmi/status/1394339624986681344) | advertise |
 | [qbar65081251@twitter](https://twitter.com/qbar65081251/status/1400029689020702721) | advertise |
 | [QCvcztU31nUGV3w@twitter](https://twitter.com/QCvcztU31nUGV3w/status/1526739905568821248) | advertise |
@@ -15146,6 +15148,7 @@ Do not create new issue or we will close it as duplicate.
 | [YogeshJ32420022@twitter](https://twitter.com/YogeshJ32420022/status/1504699132937605122) | advertise |
 | [YogevSLahav@twitter](https://twitter.com/YogevSLahav/status/1585123506215620608) | advertise |
 | [Yogi96022543@twitter](https://twitter.com/Yogi96022543/status/1382241647711379456) | advertise |
+| [yogiAPR@twitter](https://twitter.com/yogiAPR/status/1729202497485697144) | advertise |
 | [YokeSoe16669471@twitter](https://twitter.com/YokeSoe16669471/status/1390762393806852096) | advertise |
 | [YokeXoe@twitter](https://twitter.com/YokeXoe/status/1398959003632160771) | advertise |
 | [yoknotaki0201@twitter](https://twitter.com/yoknotaki0201/status/1625756415150129152) | advertise |
