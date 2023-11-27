@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,045 |
+| com | 8,046 |
 | social | 4,684 |
 | net | 3,962 |
 | org | 2,660 |
@@ -22707,7 +22707,7 @@ Here's a list of public Fediverse services.
 | `kink.family` | No |
 | `kink.social` | Yes |
 | `kink.town` | No |
-| `kinkcalendar.site` | No |
+| `kinkcalendar.site` | Yes |
 | `kinkpic.site` | Yes |
 | `kinks.wtf` | Yes |
 | `kinkster.dk` | No |
@@ -23862,6 +23862,7 @@ Here's a list of public Fediverse services.
 | `landlordsguild.com` | Yes |
 | `landofkittens.community` | Yes |
 | `landofkittens.social` | Yes |
+| `landonsonline.me.uk` | No |
 | `landreville.blog` | No |
 | `landscapes.social` | No |
 | `landshut.social` | No |
@@ -27293,6 +27294,7 @@ Here's a list of public Fediverse services.
 | `matthodges.com` | No |
 | `matthoran.com` | No |
 | `matthorton.live` | No |
+| `mattie-tucker.com` | No |
 | `mattips.online` | No |
 | `mattjon.es` | No |
 | `mattkuhs.com` | Yes |
@@ -32716,7 +32718,7 @@ Here's a list of public Fediverse services.
 | `olivianet.work` | No |
 | `olivr.me` | No |
 | `oljo.xyz` | No |
-| `ollien.com` | No |
+| `ollien.com` | Yes |
 | `olliespeople.place` | No |
 | `olllllllo.fun` | No |
 | `olly.xyz` | No |
@@ -41206,7 +41208,7 @@ Here's a list of public Fediverse services.
 | `sodo-shed.com` | No |
 | `soel.li` | No |
 | `soernsen.us` | Yes |
-| `sofa.run` | No |
+| `sofa.run` | Yes |
 | `sofaecke.org` | No |
 | `sofahq.social` | No |
 | `sofi.codes` | No |
@@ -50919,8 +50921,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,465 |
-| Normal | 36,406 |
+| Cloudflare | 14,468 |
+| Normal | 36,405 |
 
 
 </details>
