@@ -29,10 +29,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 8,043 |
+| com | 8,045 |
 | social | 4,684 |
-| net | 3,961 |
-| org | 2,659 |
+| net | 3,962 |
+| org | 2,660 |
 | de | 2,508 |
 
 
@@ -156,6 +156,7 @@ Here's a list of public Fediverse services.
 | `0x705h.com` | No |
 | `0x77.ml` | No |
 | `0x7be.net` | No |
+| `0x7c4.com` | Yes |
 | `0x7f.dev` | Yes |
 | `0x7f.one` | No |
 | `0x80.org` | No |
@@ -1973,6 +1974,7 @@ Here's a list of public Fediverse services.
 | `altertek.org` | No |
 | `altervista.org` | Yes |
 | `alterw.fr` | No |
+| `altesq.net` | No |
 | `altetanke.com` | No |
 | `altf4.fun` | No |
 | `altformeget.online` | No |
@@ -6184,6 +6186,7 @@ Here's a list of public Fediverse services.
 | `bushidodreams.com` | No |
 | `bushiroad.space` | Yes |
 | `bushu-denno.com` | No |
+| `business.blog` | No |
 | `businessinsider.com` | Yes |
 | `busshi.moe` | No |
 | `bussmann.social` | No |
@@ -9270,6 +9273,7 @@ Here's a list of public Fediverse services.
 | `cyberhelden.com` | No |
 | `cyberhideaway.online` | No |
 | `cyberhub.sbs` | No |
+| `cyberhunter.me` | Yes |
 | `cyberia.club` | No |
 | `cyberia.icu` | No |
 | `cyberia.institute` | No |
@@ -16495,6 +16499,7 @@ Here's a list of public Fediverse services.
 | `giant.horse` | No |
 | `giant.systems` | Yes |
 | `giantheart.social` | Yes |
+| `giantpaper.org` | Yes |
 | `giants-club.net` | No |
 | `gib.social` | Yes |
 | `gibald.com` | No |
@@ -20668,6 +20673,7 @@ Here's a list of public Fediverse services.
 | `izza.party` | Yes |
 | `izzie.mom` | Yes |
 | `izzodlaw.com` | Yes |
+| `izzup.com` | No |
 | `izzy.rodeo` | No |
 | `izzz.fr` | No |
 | `j-ch.net` | No |
@@ -33054,6 +33060,7 @@ Here's a list of public Fediverse services.
 | `oper.io` | No |
 | `opera42.com` | No |
 | `operaces.com` | Yes |
+| `operationpuppet.live` | No |
 | `operationtulip.com` | No |
 | `operator.asia` | No |
 | `opetus.org` | No |
@@ -48799,6 +48806,7 @@ Here's a list of public Fediverse services.
 | `willcycle.com` | Yes |
 | `willdearman.com` | Yes |
 | `willems.social` | Yes |
+| `willemswebstek.blog` | No |
 | `willfong.me` | No |
 | `willfurnell.com` | No |
 | `william.cool` | No |
@@ -50911,8 +50919,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 14,462 |
-| Normal | 36,401 |
+| Cloudflare | 14,465 |
+| Normal | 36,406 |
 
 
 </details>
