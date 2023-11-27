@@ -314,6 +314,7 @@ Here's a list of breached sites.
 | Interpals (InterPals) | 3,439,414 | Yes |
 | JDGroup (JD Group) | 521,878 | No |
 | JD | 77,449,341 | Yes |
+| JamTangan (Jam Tangan) | 434,784 | Yes |
 | James | 1,541,284 | Yes |
 | Jefit | 9,052,457 | Yes |
 | JobAndTalent (Jobandtalent) | 10,981,207 | Yes |
@@ -713,7 +714,7 @@ Here's a list of breached sites.
 
 | Type | Count | Accounts |
 | --- | --- | --- |
-| Cloudflare | 406 | 4,517,375,310 |
+| Cloudflare | 407 | 4,517,810,094 |
 | Normal | 286 | 4,518,802,482 |
 
 
