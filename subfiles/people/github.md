@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Admin visual editing does not work with a Remix project deployment on Cloudflare](https://github.com/tinacms/tinacms/issues/4373)
 - [ERROR: for traefik user specified IP address is supported only when connecting to networks with user configured subnets.](https://github.com/htpcBeginner/docker-traefik/issues/321)
 - [FlareSolverr Fails on Cloudflare-Protected Sites in Prowlarr Despite Successful Log](https://github.com/FlareSolverr/FlareSolverr/issues/985)
 - [UFW is blocking the proxied websites!](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/3350)
