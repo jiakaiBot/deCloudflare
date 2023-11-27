@@ -306,6 +306,7 @@ Here's a list of breached sites.
 | IIMJobs | 4,216,063 | No |
 | ILikeCheats | 188,847 | Yes |
 | Imavex | 878,209 | No |
+| IndiHome | 12,629,269 | No |
 | IndiaMART | 20,154,583 | No |
 | IndianRailways (Indian Railways) | 583,377 | No |
 | Insanelyi | 104,097 | No |
@@ -715,9 +716,9 @@ Here's a list of breached sites.
 | Type | Count | Accounts |
 | --- | --- | --- |
 | Cloudflare | 407 | 4,517,810,094 |
-| Normal | 286 | 4,518,802,482 |
+| Normal | 287 | 4,531,431,751 |
 
 
 
-### 58.7% of breached sites (pwned sites) are using Cloudflare.
-### 50% of leaked accounts are on Cloudflare sites.
+### 58.6% of breached sites (pwned sites) are using Cloudflare.
+### 49.9% of leaked accounts are on Cloudflare sites.
