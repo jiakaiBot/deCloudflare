@@ -211,7 +211,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | xaoimoon.fr | No |
 | xcom.pro | No |
 | yovbak.com | No |
-| zln.wtf | No |
 
 
 ----
@@ -219,7 +218,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 91 |
-| Normal | 108 |
+| Normal | 107 |
 
 
-### 45.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 46% of DNS-over-HTTPS (DoH) are using Cloudflare.
